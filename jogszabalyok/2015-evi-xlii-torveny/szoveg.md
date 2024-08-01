@@ -741,6 +741,8 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 - j) a bíróságok igazgatási feladatait ellátó szervezet, valamint
 - k) rendészeti adatfeldolgozást végző szerv [a c)–k) pontban meghatározott szervek a továbbiakban együtt: más szerv].
 
+(3a) A szolgálatteljesítésre sor kerülhet kormányzati igazgatási szervhez történő hatósági vezényléssel is (a továbbiakban: hatósági vezénylés), amennyiben a rendvédelmi szerv által ellátott hatósági hatáskör törvény vagy kormányrendelet rendelkezése alapján a kormányzati igazgatásról szóló törvény hatálya alá tartozó kormányzati igazgatási szervhez kerül. Hatósági vezényléssel a hivatásos állomány azon tagja vezényelhető, aki a hatáskör telepítés napját megelőző napon olyan szolgálati beosztást töltött be, amelyben a megváltozó hatáskörbe tartozó feladatot, vagy ahhoz kapcsolódó feladatot, illetve a hatósági vezényléssel érintett beosztáshoz, munkakörhöz kapcsolódó funkcionális feladatot látott el.
+
 (4) Hivatásos szolgálat kormányzati, rendvédelmi érdekből az Európai Unió intézményeinél és nemzetközi szervezetnél is teljesíthető.
 
 ### VIII. Fejezet — A SZOLGÁLATI VISZONY MÓDOSÍTÁSA
@@ -769,6 +771,7 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 - l) rendelkezési állományba helyezés, valamint rendelkezési állományba helyezés megszűnését követően szolgálati beosztásba helyezés,
 - m) nyugdíj előtti rendelkezési állományba helyezés,
 - n) könnyített szolgálatban foglalkoztatás.
+- o) hatósági vezénylés.
 
 #### 33. Szolgálati beosztás módosítása
 
@@ -892,18 +895,37 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 (6) Ha a miniszter az (5) bekezdés szerinti meghosszabbításra vonatkozó döntését az (1) bekezdés alapján elrendelt, más szervhez vezénylés leteltét követő harminc napon belül hozza meg, és ennek következtében a vezénylés meghosszabbítására a más szervhez vezénylés leteltét követően kerül sor, abban az esetben a más szervhez vezénylést a vezénylés leteltét követően a meghosszabbítás időpontjáig folyamatosnak kell tekinteni.
 
+62/A. § (1) A más szervhez vezénylésre irányuló megállapodás kezdeményezését követően az országos főigazgató vagy az országos parancsnok a kezdeményezéssel kapcsolatos véleményét öt munkanapon belül továbbítja a miniszter részére. Ha a miniszter a kezdeményezéssel nem ért egyet, akkor a miniszter tizenöt munkanapon belül írásban tájékoztatja a miniszterelnök nemzetbiztonsági főtanácsadóját. Ebben az esetben a közérdeket figyelembe véve a miniszterelnök nemzetbiztonsági főtanácsadója dönt a más szervhez vezénylés indokoltságáról vagy annak hiányáról.
+
+(2) Ha a miniszterelnök nemzetbiztonsági főtanácsadója
+
+- a) egyetért a más szervhez vezényléssel, a miniszter intézkedik a 62. § (1) bekezdése szerinti megállapodás megkötéséről, majd a más szervhez vezénylés elrendeléséről, vagy
+- b) nem ért egyet a más szervhez vezényléssel, a hivatásos állomány tagját az eredeti rendvédelmi szerv foglalkoztatja tovább.
+
+(3) A miniszter, valamint a más szervet irányító, felügyelő vagy vezető miniszter az ezen alcím szerinti hatáskörének gyakorlását átruházhatja.
+
 63. § (1) A hivatásos állomány más szervhez vezényelt tagja a más szerv illetékes vezetőjének rendelkezései szerint teljesíti szolgálatát.
 
 (2) A hivatásos állomány más szervhez vezényelt tagjának tevékenységére, munkarendjére, teljesítményértékelésére, minősítésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértés jogkövetkezményeire, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére – a (6) és (7) bekezdés kivételével – a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok irányadóak.
 
 (3) A hivatásos állomány más szervhez vezényelt tagja
 
-- a) illetményére, illetményjellegű juttatásaira a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok az irányadók,
+- a) illetményére, illetményjellegű juttatásaira – a (4a) bekezdésben foglalt korlátozás figyelembevétele mellett – a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok az irányadók,
 - b) keresőképtelensége esetén a 147. és 148. § szerinti szabályok alkalmazásával jogosult a 168. § szerinti távolléti díjra,
 - c) az e törvény szerinti jubileumi jutalomra jogosult,
 - d) az a) pont szerinti illetményen felül az e törvény szerinti hivatásos pótlék legalacsonyabb mértékének megfelelő összegű hivatásos pótlékra jogosult.
 
 (4) A más szervnél megállapított illetmény és a (3) bekezdés d) pontja szerinti hivatásos pótlék együttes összege – a vezényelt hozzájárulása nélkül – nem lehet kevesebb a más szervhez vezénylés előtt a szolgálati beosztásban elért illetménynél. A más szervhez vezénylés időtartama alatt a hivatásos állomány tagjának a szolgálati viszonyán alapuló egyéb járandóságait kormányrendeletben foglaltak szerint kell biztosítani.
+
+(4a) A (3) és (4) bekezdésben foglaltaktól eltérően a hivatásos állomány tagja részére a más szervhez vezénylés elrendelésétől számított egy évig nem állapítható meg magasabb illetmény annál, mint amire a hivatásos állomány tagja a más szervhez vezénylést megelőző napon jogosult volt.
+
+(4b) A (4a) bekezdésben meghatározott korlátozás nem alkalmazható abban az esetben, ha
+
+- a) a más szervhez vezénylés során a hivatásos állomány korábban tiszthelyettesi vagy tiszti besorolási osztályba tartozó szolgálati beosztást betöltő tagja vezetői beosztásba, vezetői munkakörbe vagy vezetői álláshelyre kerül,
+- b) a más szervhez vezénylés során a hivatásos állomány korábban vezetői besorolási osztályba tartozó szolgálati beosztást betöltő tagja magasabb vezetői beosztásba, magasabb vezetői munkakörbe vagy magasabb vezetői álláshelyre kerül, vagy
+- c) a más szervhez vezénylésre a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti kihelyezés érdekében kerül sor.
+
+(4c) A más szervet irányító, vezető vagy felügyelő miniszter kezdeményezése alapján – a kezdeményezés felterjesztésétől számított tizenöt napon belül – a (4a) bekezdésben meghatározott korlátozás alól a miniszterelnök nemzetbiztonsági főtanácsadója közérdekből felmentést adhat. A korlátozás alóli felmentés esetén az illetményt a (3) és (4) bekezdésben foglalt szabályok szerint kell megállapítani.
 
 (5) A hivatásos állomány tagjának ruházati ellátmányát a rendvédelmi szerv saját költségvetésének terhére biztosítja. A más szervhez vezényelt illetménye és a szolgálati viszonyhoz kapcsolódó egyéb járandóságok a más szerv költségvetését terhelik.
 
@@ -938,6 +960,8 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 kell alkalmazni.
 
+(3a) Az 51. § (2) bekezdésében meghatározott szervhez történő vezénylés esetén nincs helye a 62/A. §-ban és a 63. § (4a)–(4c) bekezdésében foglalt rendelkezések alkalmazásának.
+
 (4) Az 51. § (2) bekezdésében meghatározott szervhez történő vezénylés esetében a 62. § (2) bekezdésében foglaltaktól eltérően
 
 - a) a vezénylés időtartamára vonatkozó ötéves korlátozás nem alkalmazandó, továbbá
@@ -959,7 +983,7 @@ kell alkalmazni.
 
 #### 39. Vezénylés ügyészi szervezethez
 
-67. § (1) A hivatásos állomány tagja – a szolgálati beosztása meghagyása mellett – a legfőbb ügyész kezdeményezésére, az országos parancsnok egyetértésével, meghatározott feladat ellátására, határozott időtartamra az ügyészi szervezethez vezényelhető. A hivatásos állomány tagjának az ügyészi szervezethez vezénylésére a 62–64/A. §-ban foglalt szabályokat kell – az e §-ban foglalt eltérésekkel – megfelelően alkalmazni.
+67. § (1) A hivatásos állomány tagja – a szolgálati beosztása meghagyása mellett – a legfőbb ügyész kezdeményezésére, az országos parancsnok egyetértésével, meghatározott feladat ellátására, határozott időtartamra az ügyészi szervezethez vezényelhető. A hivatásos állomány tagjának az ügyészi szervezethez vezénylésére a 62. §-ban, a 63. § (1)–(4) és (5)–(7) bekezdésében, valamint a 63/A–64/A. §-ban foglalt szabályokat kell – az e §-ban foglalt eltérésekkel – megfelelően alkalmazni.
 
 (2) A hivatásos állománynak a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervhez vezényelt tagját a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője a vezénylés megszüntetése nélkül – a legfőbb ügyész kezdeményezésére – az ügyészi szervezethez meghatározott feladat ellátására ideiglenesen vezényelheti.
 
@@ -969,7 +993,7 @@ kell alkalmazni.
 
 #### 40. Vezénylés a Nemzeti Közszolgálati Egyetemre
 
-68. § (1) A hivatásos állomány tagja – beleegyezésével – határozott vagy határozatlan időtartamra szolgálati beosztásba vagy közalkalmazotti oktatói, nevelői munkakör vagy feladat ellátására a Nemzeti Közszolgálati Egyetemre vezényelhető. A vezénylésre a 63. § (1)–(5) bekezdését, valamint a 64/A. §-t az e §-ban meghatározott eltérésekkel kell alkalmazni.
+68. § (1) A hivatásos állomány tagja – beleegyezésével – határozott vagy határozatlan időtartamra szolgálati beosztásba vagy közalkalmazotti oktatói, nevelői munkakör vagy feladat ellátására a Nemzeti Közszolgálati Egyetemre vezényelhető. A vezénylésre a 63. § (1)–(4) és (5) bekezdését, valamint a 64/A. §-t az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (2) A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztásokat és azok besorolását a Nemzeti Közszolgálati Egyetem Fenntartója (a továbbiakban: Fenntartó) véleményének kikérésével a rendészetért felelős miniszter határozza meg. A szolgálati beosztás a Fenntartó egyetértésével szolgálati viszonyban nem álló személlyel is betölthető.
 
@@ -1078,7 +1102,7 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 
 77. § (1) A rendvédelmi szerv hivatásos állományába tartozó, de a rendvédelmi szervnél szolgálati beosztást be nem töltő személyt rendelkezési állományba kell helyezni. Ennek megfelelően a rendvédelmi szerv rendelkezési állományába tartozik:
 
-- a) aki szolgálatát az 51. § (2) vagy (3) bekezdésében meghatározott szervnél teljesíti vagy akit külföldre vezényeltek,
+- a) aki szolgálatát az 51. § (2)–(3a) bekezdésében meghatározott szervnél teljesíti vagy akit külföldre vezényeltek,
 - b) akinek a szolgálati beosztása létszámcsökkentés vagy átszervezés miatt megszűnt, de más szolgálati beosztásba tervezett, legfeljebb egy évig,
 - c) aki rendvédelmi szerv által elrendelt iskolarendszerű képzésen vesz részt, a szolgálati beosztásba helyezéséig, de legfeljebb a képzés befejezését követő hat hónapig,
 - d) aki felsőoktatási intézményben nappali tanrendben tanulmányokat folytat, a tanulmányai befejezéséig, de legfeljebb a tanulmányok befejezését követő hat hónapig,
@@ -1132,6 +1156,79 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 (3) A hivatásos állomány könnyített szolgálatban foglalkoztatott tagjának beosztási illetménye azon összegnek a 90%-a, amely a hivatásos állomány tagját beosztási illetményként az általa betöltött szolgálati beosztásban akkor illetné meg, ha a szolgálati beosztást nem könnyített szolgálatban töltené be.
 
 (4) A könnyített szolgálatban foglalkoztatottak által betölthető szolgálati beosztásokat a miniszter határozza meg.
+
+#### 47/A. Hatósági vezénylés
+
+79/A. § (1) A hivatásos állomány tagját az országos parancsnok az 51. § (3a) bekezdésében meghatározott szervhez (ezen alcím alkalmazásában a továbbiakban: kormányzati igazgatási szerv) határozott időre vezényelheti, a hatósági hatáskört telepítő törvény vagy kormányrendelet (ezen alcím alkalmazásában a továbbiakban: hatáskört telepítő jogszabály) hatálybalépésének napjával.
+
+(2) A hatósági vezényléshez nem szükséges a hivatásos állomány tagjának beleegyezése.
+
+(3) A hatósági vezénylés helyett a hivatásos állomány tagja
+
+- a) hozzájárulhat szolgálati viszonyának kormányzati szolgálati jogviszonnyá átalakításához, vagy
+- b) kérheti szolgálati viszonyának a 80. § (2) bekezdés a) vagy b) pontja alapján történő megszüntetését.
+
+(4) A hatáskört telepítő jogszabály hatálybalépésének napján a hivatásos állomány szülési szabadságon lévő vagy gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt rendelkezési állományban lévő tagja esetében a gyermekgondozás céljából igénybe vett illetmény nélküli szabadság – vagy ha a szülési szabadság leteltét követően a hivatásos állomány tagja nem vesz igénybe illetmény nélküli szabadságot, akkor a szülési szabadság – megszűnését követő nappal kell a (2) vagy (3) bekezdés szerinti intézkedést meghozni, azzal, hogy hatósági vezénylés esetén
+
+- a) a hatósági vezénylés határideje a hatáskört telepítő jogszabály hatályba lépésének napjától számított legfeljebb két év lehet,
+- b) a kormányzati igazgatási szerv a 138. § esetében a hivatásos állomány tagját rész-szolgálatteljesítési időben foglalkoztatja.
+
+(5) A hivatásos állomány tagja részére a hatósági vezénylés időtartama alatt a kormányzati igazgatási szerv olyan szolgálatteljesítési helyet biztosít, amelynek eléréséhez szükséges idő a tartózkodási helytől – tömegközlekedés igénybevételével – nem haladja meg irányonként a másfél órát, a hivatásos állomány tíz éven aluli gyermeket nevelő tagja esetében az egy órát, kivéve, ha a hivatásos állomány tagja nyilatkozatával vállalja a hosszabb utazási időt.
+
+(6) Ha az (5) bekezdés szerinti szolgálatteljesítési hely nem biztosítható, és a hivatásos állomány tagja nem vállalja a hosszabb utazási időt, a hivatásos állomány tagjának szolgálati viszonya a törvény erejénél fogva megszűnik azzal, hogy részére az e törvény szerinti felmentési időre és végkielégítésre vonatkozó szabályokat alkalmazni kell.
+
+(7) A hatósági vezénylés a hatáskört telepítő jogszabály hatálybalépésétől számított legfeljebb két évre szól.
+
+(8) A hivatásos állomány hatósági vezényléssel érintett tagja felett – a szolgálati viszony megszüntetése kivételével – a munkáltatói jogokat a kormányzati igazgatási szerv munkáltatói jogkört gyakorló vezetője gyakorolja.
+
+(9) A vezényelt a hatósági vezénylés ideje alatt a kormányzati igazgatási szerv illetékes vezetőjének rendelkezései szerint teljesíti feladatát.
+
+(10) E törvény szabályait kell alkalmazni
+
+- a) a vezényelt illetményére és illetményjellegű juttatásaira azzal, hogy illetményként az egy hónapra számított alapilletmény és rendszeres illetménypótlékok együttes összegét kell figyelembe venni,
+- b) a jubileumi jutalomra,
+- c) a természetbeni juttatásra,
+- d) a vezényelt teljesítményértékelésére, minősítésére,
+- e) a pihenőidőre,
+- f) a rendfokozat viselésére,
+- g) a kártérítésre,
+- h) a fegyelmi felelősségre, a szolgálati viszonyt érintő fegyelmi fenyítések kivételével,
+- i) a személyiségi jogi jogsértés jogkövetkezményeire,
+- j) elismerések elnyerésére és viselésére,
+- k) a vezényelt képzésére, továbbképzésére,
+- l) a vezényelt előmenetelére a besorolási kategórián belüli fizetési fokozatban és rendfokozatban,
+- m) a szolgálati viszonnyal összefüggő egészségi, pszichológiai és fizikai alkalmassági feltételeknek megfelelés ellenőrzésére,
+- n) a feltételek fennállása esetén a nyugdíj előtti rendelkezési állomány biztosítására,
+- o) az egészségügyi szabadságra, keresőképtelenség esetén a 147. és 148. § szerinti szabályok alkalmazásával a 168. § szerinti távolléti díjra, és
+- p) a feltételek fennállása esetén a rendvédelmi egészségkárosodási ellátásra.
+
+(11) A (10) bekezdés a) pontja szerinti illetményt a hatósági vezénylés napját megelőző napon betöltött szolgálati beosztás alapján kell megállapítani.
+
+(12) A vezényelt magasabb szolgálati beosztás eléréséhez való előmenetelére akkor kerül sor, ha a kormányzati igazgatási szerv munkáltatói jogkört gyakorló vezetője döntése alapján szakmai vezetői (főosztályvezetői vagy osztályvezetői) álláshelyen továbbra is a hatáskört telepítő jogszabállyal érintett hatáskörbe tartozó feladatot lát el. Ekkor a hatósági vezénylést módosítani kell azzal, hogy időtartama nem haladhatja meg a (7) bekezdés szerinti időtartamot.
+
+(13) A vezényelt munkaidejére a kormányzati igazgatási szervnél foglalkoztatottakra vonatkozó szabályokat kell alkalmazni.
+
+(14) A hatósági vezénylés lejárta előtt a hatósági vezénylés megszüntetésére a kormányzati igazgatási szerv vezetőjének kezdeményezésére érdekmúlás miatt, a vezényelt magatartására visszavezethető okból vagy a vezényelt e törvény szerinti alkalmatlansága miatt, valamint a vezényelt kérelme alapján kerülhet sor.
+
+(15) A hatósági vezénylés megszüntetése esetén a hivatásos állomány tagja részére a rendvédelmi szervnél a végzettségének, képzettségének megfelelő, de legalább a hatósági vezénylést megelőző szolgálati beosztásával azonos besorolású szolgálati beosztást kell biztosítani. Ha a hivatásos állomány tagjának ilyen szolgálati beosztás nem biztosítható, de a hatósági vezénylés megszüntetésétől számított egy éven belül ez lehetővé válhat, beleegyezésével a szolgálati beosztásba helyezéséig, de legfeljebb egy évig, rendelkezési állományban tartható.
+
+(16) Ha a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő, de legalább a hatósági vezénylést megelőző szolgálati beosztásával azonos besorolású szolgálati beosztás nem biztosítható, vagy ennek hiányában a neki felajánlott alacsonyabb szolgálati beosztást nem fogadja el, akkor a hivatásos állomány tagjának szolgálati viszonyát felmentéssel meg kell szüntetni.
+
+(17) A (16) bekezdéstől eltérően nem felmentéssel kell megszüntetni a szolgálati viszonyt, hanem a szolgálati viszonyról történő lemondásnak kell tekinteni, ha a hivatásos állomány tagja a végzettségének, képzettségének megfelelő, de legalább a hatósági vezénylést megelőző szolgálati beosztásával azonos besorolású szolgálati beosztást nem fogadja el, vagy arról öt munkanapon belül nem nyilatkozik, feltéve, hogy a felajánlott szolgálati beosztás elfogadásával a szolgálatteljesítési hely nem változik.
+
+(18) A (15)–(17) bekezdéstől eltérően a rendvédelmi szerv és a hivatásos állomány tagja a rendvédelmi szerv más szervezeti egységéhez történő áthelyezésben vagy más rendvédelmi szervhez történő áthelyezésben is megállapodhat.
+
+(19) A hatósági vezénylés megszüntetésre kerül, ha a hivatásos állomány tagja minősítése, pszichológiai, fizikai vagy egészségi állapota alapján hivatásos szolgálatra vagy szolgálati beosztásának ellátására alkalmatlanná vált.
+
+(20) A szolgálati viszonyról történő lemondásnak kell tekinteni, ha a hatósági vezénylés lejárta előtt a vezényelt kérelme alapján kerül sor a hatósági vezénylés megszüntetésére. Ilyen esetben a (18) bekezdésben foglaltak alkalmazásának nincs helye.
+
+(21) A hatósági vezénylés a (7) bekezdés szerinti időtartamának lejártával a hivatásos állomány tagjának hatósági vezénylése megszűnik. A hatósági vezénylés megszűnését követően rendvédelmi szerv a (15)–(18) bekezdés szerint jár el.
+
+(22) A hatósági vezénylés akkor is megszűnik, ha a hivatásos állomány tagja a hatósági vezénylés ideje alatt a 96. § szerinti áthelyezéssel kormányzati szolgálati jogviszonyba kerül.
+
+(23) A foglalkoztatással kapcsolatos költségek a kormányzati igazgatási szervet terhelik.
+
+(24) A hatósági vezénylés nem minősül az e törvény szerinti átszervezésnek.
 
 ### IX. Fejezet — A SZOLGÁLATI VISZONY MEGSZŰNÉSE
 
@@ -1632,19 +1729,60 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 
 megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi, igazságügyi alkalmazotti vagy szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.
 
+96/A. § (1) Ha a hivatásos állomány tagjának más miniszter irányítása, vezetése vagy felügyelete alá tartozó kormányzati igazgatási szervhez kormányzati szolgálati jogviszonyba történő áthelyezésére irányuló kezdeményezéssel a miniszter nem ért egyet, akkor a miniszter tizenöt munkanapon belül írásban tájékoztatja a miniszterelnök nemzetbiztonsági főtanácsadóját. Ebben az esetben a közérdeket figyelembe véve a miniszterelnök nemzetbiztonsági főtanácsadója dönt a kormányzati szolgálati jogviszonyba áthelyezés indokoltságáról vagy annak hiányáról.
+
+(2) Ha a miniszterelnök nemzetbiztonsági főtanácsadója
+
+- a) egyetért a kormányzati szolgálati jogviszonyba történő áthelyezéssel, a miniszter intézkedik a 96. § szerinti megállapodás megkötése érdekében, majd a kormányzati szolgálati jogviszonyba történő áthelyezés munkáltatói jogkör gyakorlója általi elrendeléséről, vagy
+- b) nem ért egyet a kormányzati szolgálati jogviszonyba történő áthelyezéssel, a hivatásos állomány tagját az eredeti rendvédelmi szerv foglalkoztatja tovább.
+
+(3) Ha a hivatásos állomány tagjának más miniszter irányítása, vezetése vagy felügyelete alá tartozó kormányzati igazgatási szervhez kormányzati igazgatási szolgálati jogviszonyba történő áthelyezésére kerül sor, az áthelyezéstől számított egy évig nem állapítható meg magasabb illetmény annál, mint amire a hivatásos állomány tagja az áthelyezést megelőző napon jogosult volt.
+
+(4) A (3) bekezdésben meghatározott korlátozás nem alkalmazható abban az esetben, ha az áthelyezés során
+
+- a) a hivatásos állomány korábban tiszthelyettesi vagy tiszti besorolási osztályba tartozó szolgálati beosztást betöltő tagja kormánytisztviselőként vezetői besorolású álláshelyre kerül,
+- b) a hivatásos állomány korábban vezetői besorolási osztályba tartozó szolgálati beosztást betöltő tagja kormánytisztviselőként magasabb besorolási kategóriájú vezetői álláshelyre kerül, vagy
+- c) a hivatásos állomány tagja a hatósági vezénylés időtartama alatt a hatósági vezényléssel őt fogadó kormányzati igazgatási szervhez kormányzati szolgálati jogviszonyba történő áthelyezését kéri.
+
+(5) A kormányzati igazgatási szervet irányító, vezető vagy felügyelő miniszter kezdeményezése alapján – a kezdeményezés felterjesztésétől számított tizenöt napon belül – a (3) bekezdésben meghatározott korlátozás alól a miniszterelnök nemzetbiztonsági főtanácsadója közérdekből felmentést adhat.
+
+(6) A miniszter, valamint a kormányzati igazgatási szervet irányító, felügyelő vagy vezető miniszter az e § szerinti hatáskörének gyakorlását átruházhatja.
+
 #### 58. Más rendvédelmi szervhez történő áthelyezés
 
 97. § (1) A hivatásos állomány tagja beleegyezése esetén – az érintett miniszterek által meghatározott feltételekkel – más rendvédelmi szervhez áthelyezhető.
 
 (2) A hivatásos állomány áthelyezett tagjának szolgálati viszonya a rendvédelmi szervnél megszűnik, a szolgálati viszonyát azonban az új rendvédelmi szervnél folyamatosnak kell tekinteni. Az áthelyezettnek meg kell felelni a rendvédelmi szervnél tervezett szolgálati beosztásához előírt képzettségi és alkalmassági feltételeknek. A szolgálati beosztás ellátásához szükséges szakirányú képzettség megszerzését határidő tűzésével elő kell írni.
 
+97/A. § (1) Ha a hivatásos állomány tagjának más miniszter irányítása alá tartozó rendvédelmi szervhez történő áthelyezésére irányuló kezdeményezéssel a miniszter nem ért egyet, akkor a miniszter tizenöt munkanapon belül írásban tájékoztatja a miniszterelnök nemzetbiztonsági főtanácsadóját. Ebben az esetben a közérdeket figyelembe véve a miniszterelnök nemzetbiztonsági főtanácsadója dönt a más miniszter irányítása alá tartozó rendvédelmi szervhez történő áthelyezés indokoltságáról vagy annak hiányáról.
+
+(2) Ha a miniszterelnök nemzetbiztonsági főtanácsadója
+
+- a) egyetért a más miniszter irányítása alá tartozó rendvédelmi szervhez történő áthelyezéssel, a miniszter intézkedik a munkáltatói jogkör gyakorlójánál a más miniszter irányítása alá tartozó rendvédelmi szervhez történő áthelyezés elrendeléséről, vagy
+- b) nem ért egyet a más miniszter irányítása alá tartozó rendvédelmi szervhez történő áthelyezéssel, a hivatásos állomány tagját az eredeti rendvédelmi szerv foglalkoztatja tovább.
+
+(3) Ha a hivatásos állomány tagjának a más miniszter irányítása alá tartozó rendvédelmi szervhez történő áthelyezésére kerül sor, az áthelyezés elrendelésétől számított egy évig nem állapítható meg magasabb illetmény annál, mint amire a hivatásos állomány tagja az áthelyezést megelőző napon jogosult volt.
+
+(4) A (3) bekezdésben meghatározott korlátozás nem alkalmazható abban az esetben, ha az áthelyezés során
+
+- a) a hivatásos állomány korábban tiszthelyettesi vagy tiszti besorolási osztályba tartozó szolgálati beosztást betöltő tagja a más miniszter irányítása alá tartozó rendvédelmi szervnél vezetői besorolási osztályba tartozó szolgálati beosztásba kerül, vagy
+- b) a hivatásos állomány korábban vezetői besorolási osztályba tartozó szolgálati beosztást betöltő tagja a más miniszter irányítása alá tartozó rendvédelmi szervnél magasabb szolgálati beosztásnak minősülő vezetői besorolási osztályba tartozó szolgálati beosztásba kerül.
+
+(5) A más rendvédelmi szervet irányító miniszter kezdeményezése alapján – a kezdeményezés felterjesztésétől számított tizenöt napon belül – a (3) bekezdésben meghatározott korlátozás alól a miniszterelnök nemzetbiztonsági főtanácsadója közérdekből felmentést adhat.
+
+(6) A miniszter, valamint a más rendvédelmi szervet irányító miniszter az e § szerinti hatáskörének gyakorlását átruházhatja.
+
 #### 59. Áthelyezés a Magyar Honvédséghez
 
-98. § A hivatásos állomány tagja beleegyezése esetén – a miniszter és a honvédelemért felelős miniszter vagy az országos parancsnok és a Honvéd Vezérkar főnökének döntése alapján – a Magyar Honvédség állományába áthelyezhető. Az áthelyezésre a 97. § (2) bekezdését értelemszerűen alkalmazni kell.
+98. § (1) A hivatásos állomány tagja beleegyezése esetén – a miniszter és a honvédelemért felelős miniszter vagy az országos parancsnok és a Honvéd Vezérkar főnökének döntése alapján – a Magyar Honvédség állományába áthelyezhető. Az áthelyezésre a 97. § (2) bekezdését kell alkalmazni azzal, hogy új rendvédelmi szerven a Magyar Honvédséget kell érteni és a Magyar Honvédségnél előírt képzettségi, alkalmassági feltételeknek kell megfelelni.
+
+(2) A Magyar Honvédség állományába történő áthelyezésre a 97/A. §-ban foglaltakat is alkalmazni kell azzal, hogy más miniszter irányítása alá tartozó rendvédelmi szerven a Magyar Honvédséget, a más rendvédelmi szervet irányító miniszteren a honvédelemért felelős minisztert kell érteni.
 
 #### 59/A. Áthelyezés a Nemzeti Adó- és Vámhivatalhoz
 
-98/A. § A hivatásos állomány tagja beleegyezése esetén – a miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter vagy az országos parancsnok és a Nemzeti Adó- és Vámhivatal vezetőjének döntése alapján – a Nemzeti Adó- és Vámhivatal állományába áthelyezhető. Az áthelyezésre a 97. § (2) bekezdését kell alkalmazni.
+98/A. § (1) A hivatásos állomány tagja beleegyezése esetén – a miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter vagy az országos parancsnok és a Nemzeti Adó- és Vámhivatal vezetőjének döntése alapján – a Nemzeti Adó- és Vámhivatal állományába áthelyezhető. Az áthelyezésre a 97. § (2) bekezdését kell alkalmazni azzal, hogy új rendvédelmi szerven a Nemzeti Adó- és Vámhivatalt kell érteni és a Nemzeti Adó- és Vámhivatalnál előírt képzettségi, alkalmassági feltételeknek kell megfelelni.
+
+(2) A Nemzeti Adó- és Vámhivatal állományába történő áthelyezésre a 97/A. §-ban foglaltakat is alkalmazni kell azzal, hogy más miniszter irányítása alá tartozó rendvédelmi szerven a Nemzeti Adó- és Vámhivatalt, a más rendvédelmi szervet irányító miniszteren a Nemzeti Adó- és Vámhivatalt irányító minisztert kell érteni.
 
 #### 60. Eljárás a szolgálati viszony megszűnése esetén
 
@@ -4289,6 +4427,7 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 - g) vezetői munkakörbe kinevezés,
 - h) a rendvédelmi érdekből történő kirendelés (más szervhez kirendelés),
 - i) tartós átirányítás.
+- j) hatósági kirendelés.
 
 (4) Nem minősül a kinevezés módosításának ha:
 
@@ -4310,6 +4449,59 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 (11) A (10) bekezdés szerinti rendvédelmi alkalmazottat a munkavégzési kötelezettség alól mentesíteni kell, ha az egészségi állapotának megfelelő foglalkoztatása a munkáltatónál nem lehetséges.
 
 (12) A rendvédelmi alkalmazott a módosított feltételeknek megfelelő munkakörnek megfelelő illetményre jogosult, ami a korábbi munkaköre szerinti illetménynél kevesebb nem lehet.
+
+(13) A rendvédelmi alkalmazottat beleegyezése nélkül az országos parancsnok kormányzati igazgatási szervhez határozott időre kirendelheti (a továbbiakban: hatósági kirendelés), amennyiben a rendvédelmi szerv által ellátott hatáskör törvény vagy kormányrendelet (e § alkalmazásában a továbbiakban: hatáskört telepítő jogszabály) rendelkezése alapján a kormányzati igazgatásról szóló törvény hatálya alá tartozó kormányzati igazgatási szervhez kerül. Hatósági kirendeléssel az a rendvédelmi alkalmazott rendelhető ki, aki a hatáskör telepítés napját megelőző napon olyan munkakört töltött be, amelyben a megváltozó hatáskörbe tartozó feladatot, vagy ahhoz kapcsolódó feladatot, illetve a hatósági vezényléssel vagy hatósági kirendeléssel érintett beosztáshoz, munkakörhöz kapcsolódó funkcionális feladatot látott el.
+
+(14) A hatósági kirendeléshez nem szükséges a rendvédelmi alkalmazott beleegyezése.
+
+(15) A hatósági kirendelés helyett a rendvédelmi alkalmazott
+
+- a) hozzájárulhat igazgatási jogviszonyának kormányzati szolgálati jogviszonnyá átalakításához, vagy
+- b) kérheti igazgatási jogviszonyának a 288/E. § (4) bekezdés a) vagy b) pontja alapján történő megszüntetését.
+
+(16) A hatáskört telepítő jogszabály hatálybalépésének napján szülési szabadságon lévő vagy gyermekgondozás céljából igénybe vett illetmény nélküli szabadságon lévő rendvédelmi alkalmazott esetében az illetmény nélküli szabadság – vagy ha a szülési szabadság leteltét követően a rendvédelmi alkalmazott nem vesz igénybe illetmény nélküli szabadságot, akkor a szülési szabadság – megszűnését követő napon kell a (14) vagy (15) bekezdés alapján eljárni azzal, hogy hatósági kirendelés esetén
+
+- a) a hatósági kirendelés határideje a hatáskört telepítő jogszabály hatálybalépésének napjától számított legfeljebb két év lehet,
+- b) a kormányzati igazgatási szerv a 138. § esetében a rendvédelmi alkalmazottat részmunkaidőben foglalkoztatja.
+
+(17) A rendvédelmi alkalmazott részére a hatósági kirendelés időtartama alatt a kormányzati igazgatási szerv olyan munkavégzési helyet biztosít, amelynek eléréséhez szükséges idő a tartózkodási helytől – tömegközlekedés igénybevételével – nem haladja meg irányonként a másfél órát, a rendvédelmi alkalmazott tíz éven aluli gyermeket nevelő tagja esetében az egy órát, kivéve, ha a rendvédelmi alkalmazott nyilatkozatával vállalja a hosszabb utazási időt.
+
+(18) Ha a (17) bekezdés szerinti munkavégzési hely nem biztosítható, és a rendvédelmi alkalmazott nem vállalja a hosszabb utazási időt, a rendvédelmi alkalmazott igazgatási jogviszonya a törvény erejénél fogva megszűnik azzal, hogy részére az e törvény szerinti felmentési időre és végkielégítésre vonatkozó szabályokat alkalmazni kell.
+
+(19) A hatósági kirendelésre a hatáskört telepítő jogszabály hatálybalépésének napjával kerül sor és a hatáskört telepítő jogszabály hatálybalépésétől számított legfeljebb két évre szól.
+
+(20) A kirendelt a hatósági kirendelés időtartama alatt rendelkezési állományba kerül.
+
+(21) A hatósági kirendelés időtartama alatt a kirendelt rendvédelmi alkalmazott felett – az igazgatási jogviszony megszüntetése kivételével – a munkáltatói jogokat a kormányzati igazgatási szerv munkáltatói jogkört gyakorló vezetője gyakorolja.
+
+(22) A kirendelt a hatósági kirendelés ideje alatt a kormányzati igazgatási szerv illetékes vezetőjének rendelkezései szerint teljesíti feladatát.
+
+(23) E törvény szabályait kell alkalmazni
+
+- a) a kirendelt illetményére és illetményjellegű juttatásaira,
+- b) a jubileumi jutalomra,
+- c) a teljesítményértékelésre, minősítésre,
+- d) a pihenőidőre,
+- e) a kártérítésre,
+- f) a fegyelmi felelősségre, az igazgatási jogviszonyt érintő fegyelmi büntetés kivételével,
+- g) a személyiségi jogi jogsértés jogkövetkezményeire,
+- h) az elismerések elnyerésére és viselésére,
+- i) a kirendelt képzésére, továbbképzésére és
+- j) a munkaköri kategórián belül a fizetési fokozatban előmenetelére.
+
+(24) A (23) bekezdés a) pontjától eltérően a kormányzati igazgatási szerv munkáltatói jogkört gyakorló vezetője dönthet úgy, hogy a kirendelt illetményét magasabb mértékben határozza meg.
+
+(25) A kirendelt magasabb munkaköri osztályba vagy magasabb munkaköri kategóriába tartozó munkakör eléréséhez való előmenetelére akkor kerül sor, ha a kormányzati igazgatási szerv munkáltatói jogkört gyakorló vezetője döntése alapján szakmai vezetői (főosztályvezetői vagy osztályvezetői) álláshelyen továbbra is a hatáskört telepítő jogszabállyal érintett hatáskörbe tartozó feladatot lát el. Ekkor a hatósági kirendelést módosítani kell azzal, hogy időtartama nem haladhatja meg a (19) bekezdés szerinti időtartamot.
+
+(26) A kirendelt munkaidejére a kormányzati igazgatási szervnél foglalkoztatottakra vonatkozó szabályokat kell alkalmazni.
+
+(27) A hatósági kirendelés lejárta előtt a hatósági kirendelés megszüntetésére a kormányzati igazgatási szerv vezetőjének kezdeményezésére érdekmúlás miatt vagy a kirendelt magatartására visszavezethető okból, valamint a kirendelt kérelme alapján kerülhet sor.
+
+(28) A kirendelés megszüntetésére e törvény hatósági vezénylés megszüntetésére vonatkozó szabályait megfelelően alkalmazni kell.
+
+(29) A foglalkoztatással kapcsolatos költségek a kormányzati igazgatási szervet terhelik.
+
+(30) A hatósági kirendelés nem minősül az e törvény szerinti átszervezésnek.
 
 288/A. § (1) A rendvédelmi alkalmazott rendvédelmi érdekből a rendvédelmi szerv vezetőjének döntése alapján, vagy más szerv és a rendvédelmi szerv megállapodása alapján – beleegyezésével – munkakör vagy meghatározott feladat ellátására más szervhez kirendelhető (rendvédelmi érdekből történő kirendelés).
 
@@ -6060,7 +6252,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 329. § (1) Az Országgyűlési Őrség hivatásos állományával kapcsolatos humánigazgatási feladatok ellátásában az Országgyűlés Hivatala is részt vehet.
 
-(2) Az Országgyűlési Őrség vonatkozásában a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
+(2) Az Országgyűlési Őrség vonatkozásában a 62/A. §, a 63. § (4a)–(4c) bekezdése, a 96/A. §, a 97/A. §, a 98. § (2) bekezdése, a 98/A. § (2) bekezdése, valamint a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
 
 (3) Az Országgyűlési Őrség esetében az Országgyűlés elnöke gyakorolja az alábbi munkáltatói jogokat:
 
@@ -6184,7 +6376,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 2. megállapítsa a miniszter, az országos parancsnok, az országos főigazgató, valamint az állományilletékes parancsnok alárendeltségébe tartozó vezető munkáltatói jogköreit,
 - 3. meghatározza a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, rendvédelmi igazgatási, adó- és vámhatósági szolgálati, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
 - 4. meghatározza a kifogástalan életvitel ellenőrzése végrehajtásának szabályait,
-- 5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, az ügyészi szervezethez vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
+- 5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, a hatósági vezénylésre, a hatósági kirendelésre, az ügyészi szervezethez vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
 - 6. megállapítsa a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást,
 - 7. megállapítsa az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat,
 - 8. meghatározza a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hivatásos állomány tagja jelölési eljárásának rendjét, a részére nyújtható juttatások, többletjuttatások, költségtérítések, ellátmány fajtáit, mértékét, azok megállapításának, kifizetésének, elszámolásának rendjét,
@@ -6208,6 +6400,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - b) a polgári nemzetbiztonsági szolgálatok esetében azon általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítványt igénylő munkaköröket, amelyek a XXVIII/A. Fejezet hatálya alá tartozó igazgatási jogviszonyban láthatók el,
 - c) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és az e vizsgák alóli mentesítés szabályait,
 - d) a nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat.
+- e) a hatósági kirendelés szabályait.
 
 340/B. § Felhatalmazást kap a Kormány, hogy rendeletben elrendelje az egészségügyi válsághelyzet idején a hivatásos állományra és a rendvédelmi igazgatási alkalmazotti állományra vonatkozó különös szabályok alkalmazásának bevezetését.
 
@@ -6872,6 +7065,97 @@ alakul át.
 368/E. § E törvénynek a Módtv6.-tal megállapított 287/C. § (11a) bekezdésében foglaltakat a 2023. július 1. napján folyamatban lévő kártérítési eljárások során alkalmazni kell.
 
 #### 369. §
+
+371. § (1) A rendvédelmi szerv által ellátott hatósági hatáskör a kormányzati igazgatásról szóló törvény hatálya alá tartozó kormányzati igazgatási szervhez 2024. október 1-jén történő átkerülése esetén a hatósági hatáskört telepítő jogszabály kihirdetését követő 30 napon belül – a hatáskör átadásával kapcsolatos megállapodásban foglaltakra is figyelemmel –
+
+- a) a hivatásos katasztrófavédelmi szerv az 51. § (3a) bekezdésében meghatározott szolgálati beosztásban foglalkoztatott hivatásos szolgálati jogviszonyban álló tagját (a továbbiakban: érintett) tájékoztatja arról, hogy az általa ellátott feladat kormányzati igazgatási szervhez kerül átadásra,
+- b) a hivatásos katasztrófavédelmi szerv és a kormányzati igazgatási szerv munkáltatói jogkört gyakorlójának képviselője az érintettel személyzeti megbeszélést tart, amelyen tájékoztatják a 79/A. § (1)–(3) bekezdésében foglaltakról, továbbá hivatásos szolgálati jogviszonya kormányzati szolgálati jogviszonnyá átalakulása esetén az új kinevezésének a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 86. § (2) bekezdés szerinti tartalmáról.
+
+(2) Az érintett az (1) bekezdés b) pontja szerinti személyzeti megbeszélést követő 5 napon belül nyilatkozik, hogy a 79/A. § (3) bekezdés a) pontjában foglaltak szerint hozzájárul-e hivatásos szolgálati jogviszonya kormányzati szolgálati jogviszonnyá átalakulásához.
+
+(3) Amennyiben az érintett hozzájárul hivatásos szolgálati jogviszonya kormányzati szolgálati jogviszonnyá átalakulásához, akkor hatósági hatáskört telepítő jogszabály hatálybalépésével a hivatásos állomány tagjának hivatásos szolgálati jogviszonya kormányzati szolgálati jogviszonnyá alakul át.
+
+(4) A hatósági hatáskört telepítő jogszabály hatályba lépésekor felmentési idejüket, lemondási idejüket töltők esetében nem kerülhet sor a jogviszony átalakulására.
+
+(5) Amennyiben az érintett nem járul hozzá hivatásos szolgálati jogviszonya kormányzati szolgálati jogviszonnyá átalakulásához, a rendvédelmi szerv a 79/A. § (1) bekezdése szerint, vagy az érintett a 79/A. § (3) bekezdés b) pontja szerint jár el.
+
+(6) A hivatásos állomány azon szülési szabadságon lévő vagy gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt rendelkezési állományban lévő tagja esetében, amennyiben a szülési szabadság vagy a rendelkezési állomány kezdetét megelőző napon a hatáskör telepítéssel érintett szolgálati beosztásban volt foglalkoztatva, az (1)–(5) bekezdésben foglaltak szerint kell eljárni azzal, hogy a 30 napos határidőt a gyermekgondozás céljából igénybe vett illetmény nélküli szabadság – vagy ha a szülési szabadság leteltét követően a hivatásos állomány tagja nem vesz igénybe illetmény nélküli szabadságot, akkor a szülési szabadság – megszűnését követő naptól kell számolni.
+
+(7) A (3) bekezdés szerinti esetben a jogviszony átalakulásáról az átalakulást követő 45 napon belül a Kit. 86. § (2) bekezdése szerinti tartalommal munkáltatói intézkedést kell hozni.
+
+(8) A (3) bekezdés szerinti esetben a Kit. 86. § (2) bekezdés h) pontja szerinti illetmény mértéke nem lehet kevesebb a hivatásos állomány tagjának a jogviszony átalakulását megelőző napon betöltött szolgálati beosztása alapján járó illetmény mértékénél.
+
+(9) A (3) bekezdés szerinti esetben
+
+- a) a határozatlan időtartamú hivatásos szolgálati jogviszony határozatlan időtartamú kormányzati szolgálati jogviszonnyá alakul át,
+- b) a teljes munkaidőben történő foglalkoztatás esetén a hivatásos szolgálati jogviszony teljes munkaidős kormányzati szolgálati jogviszonnyá alakul át,
+- c) a hivatásos állomány vezetői besorolási osztályba tartozó szolgálati beosztást betöltő tagja esetében a jogviszony átalakulását követően a Kit. figyelembevételével kell megállapítani a vezetői álláshelyét,
+- d) akinek a jogviszony átalakulását megelőzően próbaidőt kötöttek ki és a próbaidő időtartama a jogviszonyváltásig még nem telt le, a próbaidő a korábbi jogviszony létesítésekor kikötött időtartamban áll fenn.
+
+(10) A jogviszony átalakulása nem szakítja meg a korábbi hivatásos szolgálati jogviszonyból eredő igények elévülését.
+
+(11) A jogok gyakorlása és a kötelezettségek teljesítése szempontjából a jogviszony átalakulását megelőzően hivatásos szolgálati jogviszonyban töltött időt olyannak kell tekinteni, mintha kormányzati szolgálati jogviszonyban töltötte volna.
+
+(12) A hivatásos állomány tagja részére 2024-ben megállapított teljesítményjuttatás második részletét a hivatásos állomány tagja részére a 2024. szeptemberi illetménnyel együtt a rendvédelmi szerv fizeti ki.
+
+(13) A 2024. évre vonatkozó, a hivatásos állomány tagja részére kifizetett juttatások visszafizetésére nem kerül sor.
+
+(14) A jogviszony átalakulását megelőző napon meglévő, ki nem adott szabadságot meg kell váltani.
+
+(15) Ha a jogviszony átalakulását megelőző napon a hivatásos állomány tagját a 143., 144. és 146. § alapján megillető alap- és pótszabadság együttes mértéke magasabb, mint a jogviszony átalakulását megelőzően őt a Kit. 128. §-a alapján megillető alap- és pótszabadság együttes mértéke, akkor a jogviszony átalakulásától számított két évig a Kit. 128. §-ában foglaltakon felül a különbözetnek megfelelő mértékű pótszabadságra is jogosult.
+
+(16) A jogviszony átalakulását megelőző napon szülési szabadságon, vagy a gyermek ápolása, gondozása céljából igénybe vett illetmény nélküli szabadságon lévő érintett azon szabadságát, amelyre jogosultságot szerzett, az érintett döntése szerint távollétének megszűnését követő
+
+- a) 2 éven belül ki kell adni, vagy
+- b) 30 napon belül meg kell váltani.
+
+(17) A jogviszony átalakulását megelőző napon folyamatban lévő, e törvény szerinti alkalmasságvizsgálatokat, a hivatásos állomány megváltozott egészségi állapotú tagja alkalmasságának felülvizsgálatát 15 napon belül le kell zárni.
+
+(18) A kártérítési, fegyelmi ügyekben, jogvitákban az eljárás megindulásakor hatályos szabályok alapján kell eljárni.
+
+372. § (1) A rendvédelmi szerv által ellátott hatósági hatáskör a kormányzati igazgatásról szóló törvény hatálya alá tartozó kormányzati igazgatási szervhez 2024. október 1-jén történő átkerülése esetén a hatáskört telepítő jogszabály kihirdetését követő 30 napon belül – a hatáskör átadásával kapcsolatos megállapodásban foglaltakra is figyelemmel –
+
+- a) a hivatásos katasztrófavédelmi szerv a 288. § (13) bekezdésében meghatározott munkakörben foglalkoztatott rendvédelmi igazgatási szolgálati jogviszonyban álló tagját (a továbbiakban: érintett) tájékoztatja arról, hogy az általa ellátott feladat kormányzati igazgatási szervhez kerül átadásra,
+- b) a hivatásos katasztrófavédelmi szerv és a kormányzati igazgatási szerv munkáltatói jogkört gyakorlójának képviselője az érintettel személyzeti megbeszélést tart, amelyen tájékoztatják a 288. § (13)–(15) bekezdésében foglaltakról, továbbá rendvédelmi igazgatási szolgálati jogviszonya kormányzati szolgálati jogviszonnyá átalakulása esetén az új kinevezésének a Kit. 86. § (2) bekezdés szerinti tartalmáról.
+
+(2) Az érintett az (1) bekezdés b) pontja szerinti személyzeti megbeszélést követő 5 napon belül nyilatkozik, hogy a 288. § (15) bekezdés a) pontjában foglaltak szerint hozzájárul-e rendvédelmi igazgatási szolgálati jogviszonya kormányzati szolgálati jogviszonnyá átalakulásához.
+
+(3) Amennyiben az érintett hozzájárul rendvédelmi igazgatási szolgálati jogviszonya kormányzati szolgálati jogviszonnyá átalakulásához, akkor a hatósági hatáskört telepítő jogszabály hatálybalépésével rendvédelmi igazgatási szolgálati jogviszonya kormányzati szolgálati jogviszonnyá alakul át.
+
+(4) A hatósági hatáskört telepítő jogszabály hatályba lépésekor felmentési idejüket, lemondási idejüket töltők esetében nem kerülhet sor a jogviszony átalakulására.
+
+(5) Amennyiben az érintett nem járul hozzá rendvédelmi igazgatási szolgálati jogviszonya kormányzati szolgálati jogviszonnyá átalakulásához, a rendvédelmi szerv a. 288. § (13) bekezdése szerint, vagy az érintett a 288 § (15) bekezdés b) pontja szerint jár el.
+
+(6) A szülési szabadságon lévő vagy gyermekgondozás céljából igénybe vett illetmény nélküli szabadságon lévő rendvédelmi igazgatási szolgálati jogviszonyban álló esetében, amennyiben a szülési szabadság vagy az illetmény nélküli szabadság kezdetét megelőző napon a hatáskör telepítéssel érintett munkakörben volt foglalkoztatva, az (1)–(5) bekezdésben foglaltak szerint kell eljárni azzal, hogy a 30 napos határidőt az illetmény nélküli szabadság – vagy ha a szülési szabadság leteltét követően a rendvédelmi igazgatási szolgálati jogviszonyban álló nem vesz igénybe illetmény nélküli szabadságot, akkor a szülési szabadság – megszűnését követő naptól kell számolni.
+
+(7) A (3) bekezdés szerinti esetben a jogviszony átalakulásáról az átalakulást követő 45 napon belül a Kit. 86. § (2) bekezdése szerinti tartalommal munkáltatói intézkedést kell hozni.
+
+(8) A (3) bekezdés szerinti esetben a Kit. 86. § (2) bekezdés h) pontja szerinti illetmény mértéke nem lehet kevesebb a jogviszony átalakulását megelőző napon a rendvédelmi alkalmazott részére megállapított illetmény mértékénél.
+
+(9) A (3) bekezdés szerinti esetben
+
+- a) a határozatlan időtartamú rendvédelmi igazgatási szolgálati jogviszony határozatlan időtartamú kormányzati szolgálati jogviszonnyá alakul át,
+- b) a teljes munkaidőben történő foglalkoztatás esetén a rendvédelmi igazgatási szolgálati jogviszony teljes munkaidős kormányzati szolgálati jogviszonnyá alakul át,
+- c) a vezetői munkaköri osztályba tartozó rendvédelmi alkalmazott esetében a jogviszony átalakulását követően a Kit. figyelembevételével kell megállapítani az álláshelyét.
+
+(10) A jogviszony átalakulása nem szakítja meg a korábbi rendvédelmi igazgatási szolgálati jogviszonyból eredő igények elévülését.
+
+(11) A jogok gyakorlása és a kötelezettségek teljesítése szempontjából a jogviszony átalakulását megelőzően rendvédelmi igazgatási szolgálati jogviszonyban töltött időt olyannak kell tekinteni, mintha kormányzati szolgálati jogviszonyban töltötte volna.
+
+(12) A 2024. évre vonatkozó, a rendvédelmi alkalmazott részére kifizetett juttatások visszafizetésére nem kerül sor.
+
+(13) A jogviszony átalakulását megelőző napon meglévő, ki nem adott szabadságot meg kell váltani.
+
+(14) Ha a jogviszony átalakulását megelőző napon a rendvédelmi alkalmazottat a 289/P. § (1)–(9), (13) és (14) bekezdése alapján megillető alap- és pótszabadság együttes mértéke magasabb, mint a jogviszony átalakulását megelőzően őt a Kit. 128. §-a alapján megillető alap- és pótszabadság együttes mértéke, akkor a jogviszony átalakulásától számított két évig a Kit. 128. §-ában foglaltakon felül a különbözetnek megfelelő mértékű pótszabadságra is jogosult.
+
+(15) A jogviszony átalakulását megelőző napon szülési szabadságon, vagy a gyermek ápolása, gondozása céljából igénybe vett fizetés nélküli szabadságon lévő érintett azon szabadságát, amelyre jogosultságot szerzett, az érintett döntése szerint távollétének megszűnését követő
+
+- a) 2 éven belül ki kell adni, vagy
+- b) 30 napon belül meg kell váltani.
+
+(16) A kártérítési, fegyelmi ügyekben, jogvitákban az eljárás megindulásakor hatályos szabályok alapján kell eljárni.
+
+373. § 2026. szeptember 30-ig terjedő időre az 51. § (3a) bekezdésétől és a 288. § (13) bekezdésétől eltérően a hivatásos katasztrófavédelmi szervnél foglalkoztatott, a hatósági feladatellátásra előírt végzettséggel rendelkező hivatásos szolgálati jogviszonyban, illetve rendvédelmi igazgatási jogviszonyban álló személy hatósági vezénylésére, illetve hatósági kirendelésére is sor kerülhet, ha a hivatásos katasztrófavédelmi szervtől a kormányzati igazgatási szervhez 2024. október 1-jén átkerülő hatáskör átadással érintett álláshely megüresedik és azt a hatáskört átvevő kormányzati igazgatási szerv a megüresedéstől számított 30 napon belül nem tudja betölteni. E szabályok szerinti hatósági vezénylésre és hatósági kirendelésre e törvény hatósági vezénylésre és hatósági kirendelésre vonatkozó szabályait és a 371–372. §-t megfelelően alkalmazni kell.
 
 ### 1. melléklet a 2015. évi XLII. törvényhez
 

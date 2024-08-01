@@ -34,7 +34,7 @@ Szja tv. szerinti adóalapként meghatározott összegét.
 - c) az osztalék [Szja tv. 66. §], vállalkozói osztalékalap [Szja tv. 49/C. §],
 - d) az árfolyamnyereségből származó jövedelem [Szja tv. 67. §],
 - e) az Szja tv. 1/B. § hatálya alá tartozó természetes személy e tevékenységből származó jövedelme,
-- f)
+- f) az ingatlanalap befektetési jegyéből származó kamatjövedelem kivételével a természetes személy kamatjövedelme (Szja tv. 65. §)
 - g)
 
 Magyarországon adóztatható része után.
@@ -132,7 +132,7 @@ alapján létrejött jogviszonyra tekintettel;
 
 (6) A Tbj. szerint külföldinek minősülő személy által megszerzett
 
-- a) az 1. § (5) bekezdés a)–d) pontja szerinti jövedelmet,
+- a) az 1. § (5) bekezdés a)–d) és f) pontja szerinti jövedelmet,
 - b) az Szja tv. szerint egyéb jövedelemnek minősülő jövedelmet és
 - c) az 1. § (4) bekezdés c) pontja szerinti jövedelmet
 
@@ -456,7 +456,7 @@ esetén,
 
 (3a) Ha az adó tekintetében a természetes személy nem köteles bevallás benyújtására, és igazolja, hogy a Tbj. szerint külföldinek minősül vagy a szociális biztonsági rendszerek koordinálásáról szóló rendeletek hatálya alá tartozó másik tagállamban vagy az Európai Unió intézményeiben biztosított, akkor a kifizető által a levont adóról kiállított igazolás benyújtásával az állami adó- és vámhatóságnál adóvisszatérítési kérelmet terjeszthet elő. Az adókülönbözetet az állami adó- és vámhatóság a természetes személy által megjelölt fizetési számlára utalja át.
 
-(4) Ha a természetes személy az 1. § (5) bekezdés a)–d) pontjában foglaltak szerint adó fizetésére kötelezett, vagy a (3) bekezdés szerint visszaigénylési jogosultságát gyakorolja, az adóévről köteles személyi jövedelemadó bevallást benyújtani. Nem kell az adót a természetes személynek bevallania, ha a kifizető az adót levonta, és a természetes személy az Szja tv. alapján az adó alapjaként figyelembe vett jövedelmet nem köteles bevallani.
+(4) Ha a természetes személy az 1. § (5) bekezdés a)–d) és f) pontjában foglaltak szerint adó fizetésére kötelezett, vagy a (3) bekezdés szerint visszaigénylési jogosultságát gyakorolja, az adóévről köteles személyi jövedelemadó bevallást benyújtani. Nem kell az adót a természetes személynek bevallania, ha a kifizető az adót levonta, és a természetes személy az Szja tv. alapján az adó alapjaként figyelembe vett jövedelmet nem köteles bevallani.
 
 30. § A külföldi pénznemben megszerzett jövedelem utáni adó megállapítására az Szja tv. külföldi pénznemről forintra történő átszámításra vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -563,6 +563,19 @@ irányadó rendelkezést tartalmaz, azon – jogszabály eltérő rendelkezése 
 36/F. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel hatályon kívül helyezett 6. § (6) és (7) bekezdése a 2021. évi adókötelezettség megállapítása során még alkalmazható.
 
 36/G. § A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 9. § (3) és (4) bekezdését a 2023. december 31-ét követően megkezdett szünetelés esetében kell alkalmazni. A 2024. január 1-jén folyamatban lévő szünetelés esetén a 2023. december 31-én hatályos szabályokat kell alkalmazni.
+
+36/H. § (1) Az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 1. § (5) bekezdés f) pontját az Szja tv. 65. § (1) bekezdés
+
+- a) a) pontja szerinti kamatjövedelem esetében a 2024. július 31. napját követő időszakra járó kamatra, lekötött betét esetében a 2024. július 31. napja után lekötött betét kamatára;
+- b) b) pontja szerinti kamatjövedelem esetén a 2024. július 31. napját követően megszerzett értékpapír kamatára, hozamára;
+- c) c) pontja szerinti kamatjövedelem esetén a magánszemélyt teljes egészében a 2024. július 31. napját követő időszak kamatjövedelmeként megillető vagyoni értékre;
+- d) d) pontja szerinti kamatjövedelem esetén a 2024. augusztus 1. napjától kötött biztosítási szerződés biztosítói teljesítésére;
+- e) e) pontja szerinti kamatjövedelem esetén a 2024. augusztus 1. napjától nyújtott tagi kölcsön kamatára;
+- f) f) pontja szerinti kamatjövedelem esetén az ott említett jövedelemnek a teljesített feltételes jogszerzési időtartamnak a 2024. július 31. napját követő időszakkal arányos részére
+
+kell alkalmazni.
+
+(2) A 2024. augusztus 1-jét megelőző időszak tekintetében a szociális hozzájárulási adóról szóló 2018. évi LII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 205/2023. (V. 31.) Korm. rendelet 2024. július 31-én hatályos rendelkezéseit alkalmazni kell.
 
 #### 23. Módosító rendelkezések
 

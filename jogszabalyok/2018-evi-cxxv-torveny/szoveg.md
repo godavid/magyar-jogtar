@@ -130,17 +130,19 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 (7) Szakmai felsővezető:
 
 - a) a Miniszterelnöki Kormányiroda és a minisztérium közigazgatási államtitkára,
-- b) a Miniszterelnöki Kormányiroda és a minisztérium helyettes államtitkára,
+- b) a Miniszterelnöki Kormányiroda, a Nemzeti Fejlesztési Központ és a minisztérium helyettes államtitkára,
 - c) a kormányzati főhivatal és a központi hivatal vezetője és vezetőjének helyettese,
-- d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató) és
-- e) a Belső Ellenőrzési és Integritási Igazgatóság vezetője.
+- d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató),
+- e) a Nemzeti Fejlesztési Központon belül működő főigazgatóságot vezető főigazgató, és
+- f) a Belső Ellenőrzési és Integritási Igazgatóság vezetője.
 
 (8) Szakmai vezető:
 
-- a) a kormányhivatal igazgatója (a továbbiakban: igazgató),
-- b) a járási hivatal, illetve a fővárosban a fővárosi kerületi hivatal (a továbbiakban együtt: járási hivatal) vezetője és vezetőjének helyettese,
-- c) a főosztályvezető, és
-- d) az osztályvezető.
+- a) a kormányhivatal igazgatója,
+- b) a Nemzeti Fejlesztési Központon belül működő igazgatóság igazgatója,
+- c) a járási hivatal, illetve a fővárosban a fővárosi kerületi hivatal (a továbbiakban együtt: járási hivatal) vezetője és vezetőjének helyettese,
+- d) a főosztályvezető, és
+- e) az osztályvezető.
 
 (9) Az e törvényben nem szereplő megbízatás és tisztség kormányzati feladatok teljesítésére nem adható.
 
@@ -449,7 +451,7 @@ helyettesíti.
 
 #### 27. § [Irányító hatósági feladatokat ellátó helyettes államtitkár]
 
-(1) A minisztériumban az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására helyettes államtitkár működik.
+(1) A minisztériumban – a Nemzeti Fejlesztési Központ feladatkörébe tartozó források kivételével – az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására helyettes államtitkár működik.
 
 (2) Az (1) bekezdés szerinti helyettes államtitkár hatáskörébe – a Technikai Segítségnyújtás keret felhasználásáért felelős Végrehajtás Operatív Program, valamint a Belügyi Alapok 2021–2027 (Belső Biztonsági Alap, Határigazgatási és Vízumpolitikai Eszköz és a Menekültügyi, Migrációs és Integrációs Alap) programjai kivételével – az európai uniós források felhasználásával kapcsolatos irányító hatósági, valamint a Helyreállítási és Ellenállóképességi Terv megvalósításakor a Magyarország részére nyújtott források felhasználásával kapcsolatos feladatokon kívül más szakmai feladat nem utalható.
 
@@ -495,11 +497,11 @@ helyettesíti.
 
 #### 29/B. § [A Belső Ellenőrzési és Integritási Igazgatóság]
 
-(1) Az európai uniós források felhasználásáért felelős miniszter munkaszervezetében (a továbbiakban e § alkalmazásában: minisztérium) – a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységként – Belső Ellenőrzési és Integritási Igazgatóság (a továbbiakban e § alkalmazásában: Igazgatóság) működik.
+(1) A Nemzeti Fejlesztési Központban – a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységként – Belső Ellenőrzési és Integritási Igazgatóság (a továbbiakban e § alkalmazásában: Igazgatóság) működik.
 
 (1a) Az Igazgatóság hatásköre kiterjed az európai uniós költségvetés végrehajtásában részt vevő valamennyi nemzeti hatóságra és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény szerinti állami projektértékelőkre.
 
-(2) Az Igazgatóság szervezetébe az igazgató titkársága, valamint a minisztérium szervezeti és működési szabályzatában (a továbbiakban e § alkalmazásában: szervezeti és működési szabályzat) kijelölt önálló szervezeti egységek tartoznak.
+(2) Az Igazgatóság szervezetébe az igazgató titkársága, valamint a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatában (a továbbiakban e § alkalmazásában: szervezeti és működési szabályzat) kijelölt önálló szervezeti egységek tartoznak.
 
 (3) Az Igazgatóságot igazgató (a továbbiakban e § alkalmazásában: igazgató) vezeti. Az igazgató – az Igazgatóság közreműködésével – az európai uniós források felhasználásának ellenőrzésével kapcsolatosan a jogszabályokban meghatározott feladatokat látja el, így különösen:
 
@@ -537,11 +539,11 @@ helyettesíti.
 
 (4) Az igazgatót a szervezeti és működési szabályzatban kijelölt, az igazgató irányítása alá tartozó főosztályvezető vagy osztályvezető helyettesíti.
 
-(5) Az igazgató tevékenységét a szervezeti és működési szabályzat szerint az európai uniós források felhasználásáért felelős miniszter, a minisztérium államtitkára vagy közigazgatási államtitkára irányítja. Az európai uniós források felhasználásával kapcsolatos feladatok tekintetében az igazgató nem utasítható, feladatait minden más intézmény, szerv, politikai párt, társaság, egyesület, jogi vagy természetes személy általi befolyásolástól mentesen köteles ellátni.
+(5) Az igazgató tevékenységét a szervezeti és működési szabályzat szerint a 33/B. § (1) bekezdése szerinti államtitkár irányítja. Az európai uniós források felhasználásával kapcsolatos feladatok tekintetében az igazgató nem utasítható, feladatait minden más intézmény, szerv, politikai párt, társaság, egyesület, jogi vagy természetes személy általi befolyásolástól mentesen köteles ellátni.
 
 (6) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselők és munkavállalók kiválasztása az Integritás Hatóság által jóváhagyott objektív szempontrendszer alapján, pályázati eljárás keretében történik. Az Integritás Hatóság ellenőrzi az Igazgatóság kormánytisztviselőinek és munkavállalóinak kiválasztását és a felvételi eljárás szabálytalansága esetén új eljárás lefolytatását kezdeményezheti az igazgatónál.
 
-(7) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselőt az igazgató javaslatára a minisztérium közigazgatási államtitkára nevezi ki és menti fel. A munkaviszony létesítése és megszüntetése során a munkáltatói jogkör gyakorlójaként az Igazgatóság szervezetében foglalkoztatott munkavállaló tekintetében a minisztérium közigazgatási államtitkára jár el.
+(7) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselőt az igazgató javaslatára a 33/B. § (1) bekezdése szerinti államtitkár nevezi ki és menti fel. A munkaviszony létesítése és megszüntetése során a munkáltatói jogkör gyakorlójaként az Igazgatóság szervezetében foglalkoztatott munkavállaló tekintetében a 33/B. § (1) bekezdése szerinti államtitkár jár el.
 
 (8) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló felett a munkáltatói jogot – a (7) bekezdésben meghatározott kivétellel – az igazgató gyakorolja.
 
@@ -622,6 +624,121 @@ való hozzáférést.
 (5) A feladatot átvevő szerv az átvett feladatok tekintetében a feladatot átadó szervvel azonos célból és feltételek mellett, azonos terjedelemben jogosult mindazon adatok kezelésére, amelyek kezelésére a feladatot átadó szerv jogosult.
 
 (6) A megállapodásban, valamint a szervezeti és működési szabályzatokban foglaltak szerint az átadó az átadott feladatokkal összefüggésben közreműködik a közös hivatali szervezet szervezeti egységeinek irányításában.
+
+### III/A. Fejezet — AZ EURÓPAI UNIÓS FEJLESZTÉSPOLITIKAI INTÉZMÉNYRENDSZER
+
+#### 33/B. § [Az európai uniós fejlesztéspolitikai intézményrendszer szervezete]
+
+(1) Az európai uniós források felhasználásáért felelős miniszter felelős az európai uniós fejlesztéspolitikával kapcsolatos kormányzati feladatok irányításáért. Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumban e feladatok ellátására államtitkár működik.
+
+(2) Az európai uniós fejlesztéspolitikai intézményrendszer részeként a 33/C. § szerinti Nemzeti Fejlesztési Központ látja el
+
+- a) a Kormány rendeletében meghatározott európai uniós alapok tekintetében a koordináló szervezeti feladatokat,
+- b) az egyes európai uniós alapokból származó támogatások felhasználásával összefüggésben a Kormány rendeletében meghatározott feladatokat,
+- c) a Magyarország Helyreállítási és Ellenállóképességi Tervével kapcsolatosan a Kormány rendeletében meghatározott feladatokat,
+- d) a Kormány rendeletében meghatározott programok vonatkozásában az irányító hatósági feladatokat,
+- e) a nemzetközi együttműködési programok végrehajtásával összefüggő, a Kormány rendeletében meghatározott feladatokat,
+
+(3) A Kormány rendeletében meghatározott programok tekintetében a (2) bekezdésben meghatározott feladatokat vagy azoknak a Kormány rendeletében meghatározott részét a (2) bekezdésben foglaltaktól eltérően a Kormány rendeletében kijelölt kormányzati igazgatási szerv látja el.
+
+#### 33/C. § [A Nemzeti Fejlesztési Központ jogállása]
+
+(1) A Nemzeti Fejlesztési Központ az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium részeként, az európai uniós források felhasználásáért felelős miniszter irányítása alatt működő, jogi személyiséggel rendelkező szervezeti egység.
+
+(2) A Nemzeti Fejlesztési Központ az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 104. § (1) bekezdése szerinti, a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy.
+
+(3) A Nemzeti Fejlesztési Központ a költségvetési szervekről rendelkező jogszabályok alkalmazásában – e törvény eltérő rendelkezése hiányában – költségvetési szervnek minősül.
+
+(4) A Nemzeti Fejlesztési Központ a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdés c) pont cb) alpontja szerinti ajánlatkérőnek minősül.
+
+(5) A Nemzeti Fejlesztési Központ önálló szervezeti és működési szabályzat szerint működik, amelyet a 33/B. § (1) bekezdése szerinti államtitkár javaslatára az európai uniós források felhasználásáért felelős miniszter normatív utasításban ad ki. A Nemzeti Fejlesztési Központ feladatainak ellátásához és működéséhez szükséges – a jogalkotásról szóló 2010. évi CXXX. törvény 23. § (4) bekezdése szerinti normatív utasításban kiadandó – szabályzatokat a 33/B. § (1) bekezdése szerinti államtitkár javaslatára az európai uniós források felhasználásáért felelős miniszter adja ki.
+
+(6) A Nemzeti Fejlesztési Központ a Harmadik Rész és a 279. § (4) bekezdése alkalmazásában önálló kormányzati igazgatási szervnek minősül.
+
+(7) A Nemzeti Fejlesztési Központ a Magyarország központi költségvetéséről szóló törvény Uniós fejlesztések fejezete tekintetében fejezetet irányító szervi jogállással bír. A Nemzeti Fejlesztési Központ költségvetése a Magyarország központi költségvetéséről szóló törvény Uniós fejlesztések fejezetén belül önálló címet képez.
+
+(8) A Nemzeti Fejlesztési Központ az Áht. szerinti tervezési, gazdálkodási, finanszírozási, ellenőrzési, adatszolgáltatási és beszámolási feladatokat költségvetési szervként teljesíti.
+
+(9) A Nemzeti Fejlesztési Központ önálló gazdasági szervezettel rendelkezik.
+
+(10) A Nemzeti Fejlesztési Központ tekintetében a jogszabályban költségvetési szerv vezetőjének címzett hatásköröket a 33/B. § (1) bekezdése szerinti államtitkár gyakorolja.
+
+#### 33/D. § [A Nemzeti Fejlesztési Központ vezetője és vezetőhelyettese]
+
+(1) A Nemzeti Fejlesztési Központ vezetésével kapcsolatos feladatokat a 33/B. § (1) bekezdése szerinti államtitkár látja el.
+
+(2) A 33/B. § (1) bekezdése szerinti államtitkár gondoskodik arról, hogy a Nemzeti Fejlesztési Központ a feladatait, tevékenységét a jogszabályok előírásainak megfelelően lássa el.
+
+(3) A 33/B. § (1) bekezdése szerinti államtitkár
+
+- a) az irányító hatósági és nemzeti hatósági feladatok vonatkozásában, továbbá a 33/C. § (6) bekezdés szerinti irányítási feladatok tekintetében nem utasítható,
+- b) e törvény eltérő rendelkezése hiányában nem gyakorolhat a Nemzeti Fejlesztési Központot irányító minisztert megillető hatáskört, nem helyettesítheti a Nemzeti Fejlesztési Központot irányító minisztert, a Nemzeti Fejlesztési Központot irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében, a Nemzeti Fejlesztési Központot irányító miniszter hatáskörébe tartozó ügyekben kiadmányozási joggal nem ruházható fel, és nem gyakorolhat irányítási hatáskört a Nemzeti Fejlesztési Központon túl a Nemzeti Fejlesztési Központot irányító miniszter által vezetett minisztérium szervezeti egysége, foglalkoztatottja tekintetében.
+
+(4) A 33/B. § (1) bekezdése szerinti államtitkár
+
+- a) javaslatot tesz a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatára és a Nemzeti Fejlesztési Központ feladatainak ellátásához szükséges egyéb szabályzatokra,
+- b) a 81. § (2) és (3) bekezdésében foglaltak figyelembevételével gyakorolja a Nemzeti Fejlesztési Központnál foglalkoztatottak tekintetében a 81. § (1) bekezdése szerinti munkáltatói jogokat,
+- c) a Nemzeti Fejlesztési Központ álláshelyeivel kapcsolatosan – ideértve a Nemzeti Fejlesztési Központ rendelkezésére bocsátott központosított álláshelyállományba tartozó álláshelyeket is – közvetlenül gyakorolja a kormányzati igazgatási szerv vezetőjét megillető hatásköröket,
+- d) közvetlenül kezdeményezheti a kormányzati személyügyi igazgatásra kijelölt szerv vezetőjénél a 279. § (5) bekezdése szerinti mentesítést,
+- e) meghatározza a Nemzeti Fejlesztési Központ személyi állományára vonatkozó teljesítményértékelés rendszerét és szempontjait,
+- f) az irányadó jogi és a rendelkezésére álló költségvetési keretek között dönt a Nemzeti Fejlesztési Központnál foglalkoztatottak illetményéről, teljesítménydíjazásáról és az illetményen felüli juttatásairól,
+- g) képviseli a Nemzeti Fejlesztési Központot, és
+- h) ellátja a jogszabályban ráruházott egyéb feladatokat.
+
+(5) Az (1) és (4) bekezdés szerinti feladatai ellátásában a 33/B. § (1) bekezdése szerinti államtitkárt a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatában meghatározottak szerint a Nemzeti Fejlesztési Központ kijelölt helyettes államtitkára vagy a feladatkörében érintett főigazgató helyettesíti.
+
+(6) A 33/E. § (2) bekezdése szerinti helyettes államtitkár és a Nemzeti Fejlesztési Központ főigazgatóságát vezető főigazgató illetményét a 33/B. § (1) bekezdése szerinti államtitkár állapítja meg azzal, hogy az illetmény összege nem haladhatja meg a helyettes államtitkári illetménysáv felső határát.
+
+(7) A Nemzeti Fejlesztési Központon belül működő főigazgatóságot vezető főigazgatót a 33/B. § (1) bekezdése szerinti államtitkár javaslatára az európai uniós források felhasználásáért felelős miniszter nevezi ki és menti fel.
+
+(8) A 33/E. § (2) bekezdése szerinti helyettes államtitkár és a Nemzeti Fejlesztési Központ főigazgatóságát vezető főigazgató számára a 33/B. § (1) bekezdése szerinti államtitkár a (6) bekezdés szerinti illetményen felül teljesítménydíjazást állapíthat meg. A teljesítménydíjazásra a 33/F. § (3)–(6) bekezdésében foglaltakat alkalmazni kell, azzal, hogy
+
+- a) a 134. § (1) bekezdése alapján megállapított illetmény alatt a (6) bekezdés szerint megállapított illetményt kell érteni,
+- b) a (6) bekezdés alapján megállapított illetmény és a teljesítménydíj együttes összege nem lehet magasabb, mint a helyettes államtitkári illetménysáv felső határa.
+
+(9) A Nemzeti Fejlesztési Központon belül működő főigazgatóságot vezető főigazgató a (6) bekezdés szerinti illetményen felül helyettes államtitkári juttatásra jogosult és kormányzati szolgálati jogviszonyára – az ezen fejezetben foglaltak figyelembevételével – a helyettes államtitkárra vonatkozó szabályokat kell alkalmazni.
+
+(10) A Nemzeti Fejlesztési Központon belül működő igazgatóságot vezető igazgató kormányzati szolgálati jogviszonyára a minisztériumi főosztályvezetőre vonatkozó szabályokat kell alkalmazni.
+
+#### 33/E. § [A Nemzeti Fejlesztési Központ szervezete]
+
+(1) A Nemzeti Fejlesztési Központ szervezetében főigazgatóságok, igazgatóságok, titkárságok, főosztályok működhetnek. A titkárságok és a főosztályok osztályokra tagozódhatnak.
+
+(2) A Nemzeti Fejlesztési Központ szervezetében helyettes államtitkár működhet, aki a jogszabályoknak és a szakmai követelményeknek megfelelően irányítja a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatában meghatározottak szerint a szakmai munkát, valamint dönt a hatáskörébe utalt ügyekben. A Nemzeti Fejlesztési Központ szervezetében működő helyettes államtitkárra a helyettes államtitkárokra vonatkozó jogszabályi rendelkezéseket az e törvényben meghatározott eltérésekkel kell alkalmazni.
+
+(3) A Nemzeti Fejlesztési Központ irányító hatósági és nemzeti hatósági feladatait – a technikai segítségnyújtás kivételével – főigazgatóságok látják el.
+
+(4) A (2) bekezdés szerinti főigazgatóságot vezető főigazgató tevékenységét a 33/B. § (1) bekezdése szerinti államtitkár irányítja. Az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy nemzeti hatósági feladatok tekintetében a főigazgató nem utasítható.
+
+(5) A Nemzeti Fejlesztési Központ szervezetét a Nemzeti Fejlesztési Központ szervezeti és működési szabályzat határozza meg.
+
+#### 33/F. § [A Nemzeti Fejlesztési Központ foglalkoztatottjai]
+
+(1) A Nemzeti Fejlesztési Központnál foglalkoztatottak feladataikat – a 33/B. § (1) bekezdése szerinti államtitkár kivételével – kormányzati szolgálati jogviszonyban vagy munkaviszonyban látják el.
+
+(2) A Nemzeti Fejlesztési Központnál foglalkoztatott kormánytisztviselők és munkavállalók csak a 33/B. § (1) bekezdése szerinti államtitkár, a 33/E. § (2) bekezdése szerinti helyettes államtitkár, valamint a Nemzeti Fejlesztési Központnál foglalkoztatott szakmai felsővezetők és szakmai vezetők által utasíthatóak.
+
+(3) A Nemzeti Fejlesztési Központnál foglalkoztatott kormánytisztviselő tekintetében a 33/B. § (1) bekezdése szerinti államtitkár elrendelheti a teljesítménydíjazás alkalmazását.
+
+(4) A teljesítménydíjazás alkalmazása esetén
+
+- a) a teljesítménydíjra a kormánytisztviselő a 134. § (1) bekezdése szerint megállapított illetményen felül, a munkáltatói jogkör gyakorlója által kiállított igazolás alapján – az igazolásban megállapított mértékben – jogosult,
+- b) a teljesítménykövetelmények százszázalékos teljesítése esetén kifizetésre kerülő teljesítménydíj mértéke nem haladhatja meg a 134. § (1) bekezdés szerint megállapított illetmény harminc százalékát, és
+- c) a 134. § (1) bekezdése alapján megállapított illetmény és a teljesítménydíj együttes összege nem lehet magasabb, mint a kormánytisztviselő által betöltött álláshely besorolási fokozatához tartozó illetménysáv felső határa.
+
+(5) Teljesítménydíjazás alkalmazása esetén a 33/B. § (1) bekezdése szerinti államtitkár teljesítménykövetelményt állapít meg, amiről – annak alkalmazását legalább 15 nappal megelőzően – írásban tájékoztatja a kormánytisztviselőt.
+
+(6) A teljesítménydíjra – a (3)–(5) bekezdésben foglaltak figyelembevételével – az illetményre vonatkozó szabályokat kell alkalmazni.
+
+(7) A Nemzeti Fejlesztési Központnál foglalkoztatottak az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) szerint vagyonnyilatkozatot tesznek.
+
+(8) A Nemzeti Fejlesztési Központnál foglalkoztatottak kötelesek a feladatkörük ellátása során tudomásukra jutott minden, törvény által védett titkot, így különösen üzleti titkot megőrizni.
+
+(9) A Nemzeti Fejlesztési Központnál foglalkoztatottak szakmai titokként kötelesek megőrizni a tevékenységük ellátásával kapcsolatban tudomásukra jutott minden olyan adatot, tényt vagy körülményt, amelyet törvény előírásai szerint a Nemzeti Fejlesztési Központ nem köteles a nyilvánosság számára hozzáférhetővé tenni.
+
+(10) A Nemzeti Fejlesztési Központnál foglalkoztatottak a tudomásukra jutott, törvény által védett titkot nem tehetik jogosulatlanul közzé és nem hasznosíthatják.
+
+(11) A (8)–(10) bekezdésben foglaltak nem érintik a Nemzeti Fejlesztési Központ adatszolgáltatási és tájékoztatási kötelezettségét.
 
 ### IV. Fejezet — A KORMÁNYZATI FŐHIVATAL ÉS A KÖZPONTI HIVATAL
 
@@ -928,7 +1045,7 @@ hozható létre, azzal, hogy részmunkaidőben történő foglalkoztatás eseté
 
 (2a) Ha a kormányzati igazgatási szerv feladatainak ellátásához szükséges, a Kormány – a (2) bekezdésben foglaltaktól eltérően – mellőzheti a hat hónapon át betöltetlen álláshelynek a központosított álláshelyállományba helyezését azzal, hogy ebben az esetben a (2) bekezdés szerinti időtartam számítása újrakezdődik.
 
-(2b) A (2) bekezdés szerinti időtartamot az álláshelyen létrehozott jogviszony a jogviszony kezdetének napjától számított 21. napon szakítja meg. Ez irányadó akkor is, ha az álláshely betöltésére az 59. § vagy a 89. § (6) bekezdésének alkalmazásával kerül sor azzal, hogy ezekben az esetekben az álláshely betöltése a kinevezés módosításától számított 21. napon szakítja meg a (2) bekezdés szerinti időtartamot.
+(2b) A (2) bekezdés szerinti időtartamot az álláshelyen létrehozott jogviszony a jogviszony kezdetének napjától számított 21. napon szakítja meg. Ez irányadó akkor is, ha az álláshely betöltésére az 59. § vagy a 89/A. § alkalmazásával kerül sor azzal, hogy ezekben az esetekben az álláshely betöltése a kinevezés módosításától számított 21. napon szakítja meg a (2) bekezdés szerinti időtartamot.
 
 (3) A (2) bekezdés alkalmazásában nem minősül betöltetlennek az az álláshely, amelyen foglalkoztatott kormánytisztviselő
 
@@ -1645,9 +1762,9 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (6) Ha a kinevezés érvénytelenségét a munkába lépés előtt állapítják meg, akkor az érvénytelenséget előidéző ok megszüntetéséig a kormánytisztviselő nem állítható munkába. Ha az érvénytelenség oka a munka megkezdése után jut a munkáltatói jogkör gyakorlójának tudomására, a kormánytisztviselőt az érvénytelenség orvoslásáig a munkavégzéstől el kell tiltani.
 
-(7) A kinevezési okmányban – a (10) bekezdés, az 59. §, a 88. § (4) bekezdése, a 89. § (6) bekezdése, a 104. § (9) bekezdése és a 105. § (2) bekezdése kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
+(7) A kinevezési okmányban – a (10) bekezdés, az 59. §, a 88. § (4) bekezdése, a 89/A. §, a 104. § (9) bekezdése és a 105. § (2) bekezdése kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
 
-(7a) Ha a munkahelyváltásra a 89. § (6) bekezdése alapján a kormánytisztviselő próbaideje alatt kerül sor, vagy a kormánytisztviselő a korábbi kormányzati szolgálati jogviszonyának próbaidő alatti megszűnését, megszüntetését követő 30 napon belül új kormányzati szolgálati jogviszony létesít, az új kinevezésben illetve beosztási okiratban legfeljebb a próbaidő még hátralévő részének megfelelő időtartamú próbaidő köthető ki.
+(7a) Ha a munkahelyváltásra a 89/A. § alapján a kormánytisztviselő próbaideje alatt kerül sor, vagy a kormánytisztviselő a korábbi kormányzati szolgálati jogviszonyának próbaidő alatti megszűnését, megszüntetését követő 30 napon belül új kormányzati szolgálati jogviszony létesít, az új kinevezésben illetve beosztási okiratban legfeljebb a próbaidő még hátralévő részének megfelelő időtartamú próbaidő köthető ki.
 
 (7b) A határozott idejű kormányzati szolgálati jogviszony meghosszabbítása esetén azonos vagy hasonló feladatkörben történő foglalkoztatás esetén újabb próbaidő nem köthető ki.
 
@@ -1724,6 +1841,47 @@ kell érteni.
 (5) A (3) bekezdésben foglalt kérelemre a kormánytisztviselőt – a nyilatkozattétel időpontjával kezdődően – a 107. § (2) bekezdés g) pontja alapján fel kell menteni, a felmentési időre járó illetmény, a végkielégítés, valamint az egyéb járandóságai összegének meghatározásakor a kinevezésmódosítást megelőző illetményét kell alapul venni.
 
 (6)
+
+#### 89/A. § [Kérelmezett vezénylés]
+
+(1) A kormánytisztviselő számára – kérelmére – egyoldalúan, végleges jelleggel, az álláshely átcsoportosítása nélkül az e § szerinti eljárásban jelölhető ki másik kormányzati igazgatási szerv a kormánytisztviselőt foglalkoztató kormányzati igazgatási szervként ahelyett, ami a kérelem benyújtásakor a kormánytisztviselő beosztási okiratában szerepel (a továbbiakban: kérelmezett vezénylés).
+
+(2) A kormánytisztviselő az őt foglalkoztató kormányzati igazgatási szerv (e § alkalmazásában a továbbiakban: átadó szerv) hivatali szervezetének vezetőjénél, a kormányhivatalnál foglalkoztatott kormánytisztviselő a főispánnál évenként egy alkalommal kérelmezheti másik kormányzati igazgatási szervhez (e § alkalmazásában a továbbiakban: fogadó szerv) történő vezénylését (e § alkalmazásában a továbbiakban: kérelem). A kérelemben meg kell jelölni a fogadó szervet, valamint a fogadó szervnél történő munkavégzés tervezett kezdőidőpontját, ami nem lehet korábban a kérelem előterjesztésétől számított 31. napnál.
+
+(3) Az átadó szerv – ide nem értve a minisztériumot – hivatali szervezetének vezetője a kérelmet – a véleményével ellátva – a kérelem beérkezésétől számított 5 munkanapon belül továbbítja az átadó szervet irányító vagy felügyelő miniszter által vezetett minisztérium közigazgatási államtitkára számára.
+
+(4) Ha az átadó szerv minisztérium, a (2) bekezdés szerinti kérelmet a minisztérium közigazgatási államtitkára számára kell felterjeszteni.
+
+(5) A (3) és (4) bekezdés szerinti közigazgatási államtitkár a kérelem kézhezvételétől számított 10 munkanapon belül dönt a kérelmezett vezénylésről vagy a kérelem elutasításáról.
+
+(6) A (3) és (4) bekezdés szerinti közigazgatási államtitkár az (5) bekezdés szerinti döntéséről haladéktalanul tájékoztatja a fogadó szerv hivatali szervezetének vezetőjét A kormánytisztviselőt az átadó szerv hivatali szervezetének vezetője tájékoztatja a kérelem tárgyában született döntésről. A (3) bekezdés szerinti közigazgatási államtitkár haladéktalanul tájékoztatja az átadó szerv hivatali szervezetének vezetőjét is az (5) bekezdés szerinti döntéséről.
+
+(7) Ha a (3) vagy (4) bekezdés szerinti közigazgatási államtitkár a kormánytisztviselő kérelmezett vezénylését elrendelte, a fogadó szerv 5 munkanapon belül kiállítja a kormánytisztviselő számára az új beosztási okiratot.
+
+(8) Ha a fogadó szerv nem ugyanazon miniszter vezetése, irányítása, illetve felügyelete alá tartozik, mint az átadó szerv, és a fogadó szerv hivatali szervezetének vezetője a kérelmezett vezényléssel nem ért egyet, ennek tényét – a (7) bekezdésben foglaltak alkalmazása helyett – a fogadó szervet vezető, irányító vagy felügyelő miniszter által vezetett minisztérium közigazgatási államtitkáránál 5 munkanapon belül jelzi.
+
+(9) Ha a (8) bekezdés szerinti jelzést követő 5 munkanapon belül nem születik egyetértés az átadó szervet és a fogadó szervet vezető, irányító vagy felügyelő miniszter által vezetett minisztérium közigazgatási államtitkárai között a kérelmezett vezénylés tárgyában, erről a kérelmezett vezénylést elrendelő közigazgatási államtitkár 3 munkanapon belül írásban tájékoztatja a Miniszterelnöki Kormányiroda közigazgatási államtitkárát, aki dönt a kérelmezett vezénylésről.
+
+(10) Ha a Miniszterelnöki Kormányiroda közigazgatási államtitkára a (9) bekezdés szerinti döntésében egyetért a vezényléssel, a fogadó szerv 5 munkanapon belül kiállítja az új beosztási okiratot a kormánytisztviselő számára. Ha a Miniszterelnöki Kormányiroda közigazgatási államtitkára nem ért egyet a vezényléssel, a kormánytisztviselőt az átadó szerv foglalkoztatja tovább.
+
+(11) Ha az átadó szerv kormányhivatal, a fogadó szerv pedig a 2. § (2) bekezdés c)–e) pontja szerinti központi kormányzati igazgatási szerv, e § alkalmazásában az átadó kormányhivatal vonatkozásában hivatali szervezet vezetője alatt a kormányhivatalt vezető főispánt kell érteni.
+
+(12) Ha a fogadó szerv kormányhivatal, az átadó szerv pedig a 2. § (2) bekezdés c)–e) pontja szerinti központi kormányzati igazgatási szerv, e § alkalmazásában a fogadó kormányhivatal vonatkozásában hivatali szervezet vezetője alatt a kormányhivatalt vezető főispánt kell érteni.
+
+(13) Ha az átadó és fogadó szerv is kormányhivatal, a (3)–(12) bekezdésektől eltérően a kormányhivatalnál foglalkoztatott kormánytisztviselő (2) bekezdés szerinti kérelmét az átadó kormányhivatalt vezető főispán – a véleményével ellátva – a kérelem beérkezésétől számított 5 munkanapon belül továbbítja a fogadó kormányhivatalt vezető főispán számára. Ha a fogadó kormányhivatalt vezető főispán a kérelmezett vezényléssel egyetért, erről haladéktalanul tájékoztatja az átadó kormányhivatalt vezető főispánt, és 5 munkanapon belül gondoskodik az új beosztási okirat kiállításáról. Ha a fogadó kormányhivatalt vezető főispán a kérelmezett vezényléssel nem ért egyet, ennek tényéről haladéktalanul tájékoztatja az átadó kormányhivatalt vezető főispánt, és 5 munkanapon belül jelzi a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkáránál. Ha a jelzést követő 5 munkanapon belül nem születik egyetértés az átadó és a fogadó kormányhivatalt vezető főispánok között, a vezénylés tárgyában a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára dönt. Ha a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára a döntésében egyetért a kérelmezett vezényléssel, a fogadó kormányhivatalt vezető főispán 5 munkanapon belül gondoskodik a kormánytisztviselő számára az új beosztási okirat kiállításáról. Ha a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára nem ért egyet a kérelmezett vezényléssel, a kormánytisztviselőt az átadó kormányhivatal foglalkoztatja tovább.
+
+(14) A kérelmezett vezénylés időpontjától számított egy évig nem állapítható meg magasabb illetmény annál, mint amire a kormánytisztviselő a vezénylést megelőző napon az átadó szervnél jogosult volt.
+
+(15) A (14) bekezdés nem alkalmazandó abban az esetben, ha a kérelmezett vezénylés során
+
+- a) a korábban ügyintézői besorolású álláshelyen foglalkoztatott kormánytisztviselő vezetői besorolású álláshelyre kerül,
+- b) a vezetői álláshelyen foglalkoztatott kormánytisztviselő magasabb besorolási kategóriájú vezetői álláshelyre kerül,
+- c) a kormánytisztviselő az 1. melléklet szerinti egyik illetménytábla hatálya alól a másik illetménytábla hatálya alá kerül, vagy
+- d) a kormánytisztviselő a külképviseletekről és a tartós külszolgálatról szóló törvény hatálya alá kerül vagy kikerül annak hatálya alól.
+
+(16) A (3) és a (4) bekezdés szerinti közigazgatási államtitkár, valamint a Miniszterelnöki Kormányiroda közigazgatási államtitkára az e § szerinti hatáskörének gyakorlását átruházhatja.
+
+(17) A kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára a (13) bekezdés szerinti hatáskörének gyakorlását átruházhatja.
 
 #### 90. § [A várandós kormánytisztviselő kinevezésének módosítása]
 
@@ -2402,7 +2560,7 @@ alakul át.
 
 (7) Ha a kormányzati szolgálati jogviszony jogellenesen került megszüntetésre, a kormánytisztviselőnek a hasonló álláshelyen foglalkoztatott kormánytisztviselőével azonos mértékű fizetett ellenérték jár.
 
-(8) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya a 107. § (1) bekezdés a), b) és d) pontjában és 107. § (2) bekezdés g) pontjában foglaltak szerint kerül megszüntetésre, újabb kormányzati szolgálati jogviszonyt a jogviszony megszűnésétől számított három évig csak a Kormány engedélyével létesíthet.
+(8) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya a 105. § (1) bekezdés b) pontjában, a 107. § (1) bekezdés a), b) és d) pontjában és 107. § (2) bekezdés g) pontjában foglaltak szerint kerül megszüntetésre, újabb kormányzati szolgálati jogviszonyt a jogviszony megszűnésétől számított három évig csak a Kormány engedélyével létesíthet.
 
 ### XVIII. Fejezet — A MUNKAIDŐ, A PIHENŐIDŐ, A SZABADSÁG
 
@@ -3016,7 +3174,7 @@ A kormánytisztviselő részére kérelmére – súlyos anyagi megterheléssel 
 
 (3a) A (3) bekezdés alkalmazásában a kormányzati szolgálati jogviszony kormánytisztviselő általi megszüntetésnek minősül
 
-- a) a 89. § (6) bekezdés szerinti munkahelyváltás,
+- a) a 89/A. § szerinti munkahelyváltás,
 - b) a jogviszonynak a 105. § (1) bekezdés a) és b) pontja alapján történő megszüntetése,
 - c) a jogviszonynak a 105. § (1) bekezdés c) pontja alapján történő megszüntetése, ha arra amiatt kerül sor, hogy a kormánytisztviselő elmulasztja a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét.
 
@@ -3763,7 +3921,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (4) A személyi anyagot – kivéve, amelyet a (3) bekezdés alapján átadtak – a jogviszony megszűnésétől számított ötven évig meg kell őrizni.
 
-(5) A (4) bekezdésben meghatározott ideig meg kell őrizni kormánytisztviselő – 89. § (6) bekezdésével, 104. § (9) és (10) bekezdésével, valamint 105. § (2) és (3) bekezdésével összefüggésben – átadott személyi anyagának másolatát is (fogyatékanyag).
+(5) A (4) bekezdésben meghatározott ideig meg kell őrizni kormánytisztviselő – 89/A. §-sal, 104. § (9) és (10) bekezdésével, valamint 105. § (2) és (3) bekezdésével összefüggésben – átadott személyi anyagának másolatát is (fogyatékanyag).
 
 #### 180. § [A közszolgálati ellenőrzés]
 
@@ -4001,11 +4159,15 @@ vonatkozó előírásokat alkalmazni kell.
 
 (2) A miniszteri tisztségre javasolt személyt az Országgyűlésnek a miniszter feladatköre szerint hatáskörrel rendelkező bizottsága a kinevezését megelőzően meghallgatja.
 
+(2a) A miniszter kinevezéséről szóló határozatában a köztársasági elnök megállapítja a miniszter feladatköri megnevezését is.
+
 (3) A kinevezett miniszter az Országgyűlés előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
 (4) A miniszter tekintetében törvény eltérő rendelkezése hiányában a munkáltatói jogokat a miniszterelnök gyakorolja.
 
-(5) A köztársasági elnök a miniszter részére a közjogi tisztség betöltésének igazolása céljából igazolványt állít ki. Az igazolvány a miniszter nevét, arcképmását és a betöltött tisztség megnevezését tartalmazza.
+(5) A miniszterelnök a miniszter részére a közjogi tisztség betöltésének igazolása céljából igazolványt állít ki. Az igazolvány a miniszter nevét, arcképmását és a betöltött tisztség megnevezését tartalmazza.
+
+(6) A miniszterelnök javaslatára a köztársasági elnök megállapítja, hogy a miniszter a feladatait a (2a) bekezdés szerinti kinevezésében foglaltaktól eltérő feladatköri megnevezéssel látja el.
 
 #### 197. § [A miniszter lemondása]
 
@@ -4030,7 +4192,7 @@ vonatkozó előírásokat alkalmazni kell.
 
 #### 199. § [A miniszter halála]
 
-Ha a miniszter megbízatása az Alaptörvény 20. cikk (3) bekezdés d) pontjában meghatározott ok miatt szűnik meg, ennek tényét – a miniszterelnök előterjesztésére – a köztársasági elnök állapítja meg.
+Ha a miniszter megbízatása az Alaptörvény 20. cikk (3) bekezdés d) pontjában meghatározott ok miatt szűnik meg, ennek tényéről a miniszterelnök közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
 
 #### 200. § [Eljárás a miniszter megbízatásának megszűnése esetén]
 
@@ -4115,7 +4277,7 @@ A miniszterelnök nemzetbiztonsági főtanácsadója tekintetében a XXVII/A. Fe
 
 (1) Államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető.
 
-(2) Az államtitkárt a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára a köztársasági elnök nevezi ki.
+(2) Az államtitkárt a miniszterelnöknek a miniszter véleményének kikérését követően tett javaslatára a köztársasági elnök nevezi ki a kinevezésben meghatározott minisztérium államtitkárává.
 
 (3) Az államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
@@ -4124,6 +4286,8 @@ A miniszterelnök nemzetbiztonsági főtanácsadója tekintetében a XXVII/A. Fe
 (5) A miniszterelnök az államtitkár részére a politikai felsővezetői tisztség betöltésének igazolása céljából igazolványt állít ki. Az igazolvány az államtitkár nevét, arcképmását és a betöltött tisztség megnevezését tartalmazza.
 
 (6) Az államtitkár tekintetében törvény eltérő rendelkezése hiányában a munkáltatói jogokat a miniszter gyakorolja.
+
+(7) A miniszterelnöknek az érintett miniszter vagy miniszterek véleményének kikérését követően tett javaslatára a köztársasági elnök megállapítja, hogy az államtitkár a feladatait a (2) bekezdés szerinti kinevezésében foglaltaktól eltérő vagy eltérő megnevezésű minisztériumban látja el. Az e bekezdésben foglaltak alkalmazása esetén a (4) bekezdés szerinti eskütétel megismétlésére nem kerül sor.
 
 #### 203. § [Az államtitkár megbízatásának megszűnése]
 
@@ -4136,7 +4300,7 @@ A miniszterelnök nemzetbiztonsági főtanácsadója tekintetében a XXVII/A. Fe
 
 (2) Ha az államtitkár megbízatása az (1) bekezdés a) pontja alapján szűnt meg, az államtitkár az új Kormány megalakulásáig vagy az (1) bekezdés b)–d) pontjában meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
 
-(3) Ha az államtitkár megbízatása az (1) bekezdés d) pontja alapján szűnik meg, ennek tényét a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
+(3) Ha az államtitkár megbízatása az (1) bekezdés d) pontja alapján szűnik meg, ennek tényéről a miniszter közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
 
 #### 204. § [Az államtitkár lemondása]
 
@@ -4281,7 +4445,7 @@ kapcsolatos rendelkezéseit – az e törvény felhatalmazása alapján kiadott 
 
 #### 213. § [A főispán vagyonnyilatkozata]
 
-(1) A főispán a megbízatása keletkezését követő harminc napon belül, majd azt követően évente, valamint a megbízatásának megszűnését, illetve a hatáskörgyakorlás 209. § (3) bekezdése szerinti megszűnését követő harminc napon belül az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) szerinti vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek Vnytv. szerinti vagyonnyilatkozatát.
+(1) A főispán a megbízatása keletkezését követő harminc napon belül, majd azt követően évente, valamint a megbízatásának megszűnését, illetve a hatáskörgyakorlás 209. § (3) bekezdése szerinti megszűnését követő harminc napon belül a Vnytv. szerinti vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek Vnytv. szerinti vagyonnyilatkozatát.
 
 (2) A vagyonnyilatkozatot a kormányhivatal irányítására kormányrendeletben kijelölt miniszter kezeli.
 
@@ -4474,13 +4638,15 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 #### 229. § [A közigazgatási államtitkár kinevezése]
 
-(1) A közigazgatási államtitkárt a miniszterelnök javaslatára a köztársasági elnök határozatlan időre nevezi ki. A miniszterelnök a kinevezésre vonatkozó javaslatát a miniszter kezdeményezése alapján teszi meg.
+(1) A közigazgatási államtitkárt a miniszterelnök javaslatára a köztársasági elnök határozatlan időre nevezi ki a kinevezésben meghatározott minisztérium vagy a Miniszterelnöki Kormányiroda közigazgatási államtitkárává. A miniszterelnök a kinevezésre vonatkozó javaslatát a miniszter kezdeményezése alapján teszi meg.
 
 (2) A közigazgatási államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
 (3) A közigazgatási államtitkár kormányzati szolgálati jogviszonyával kapcsolatosan a munkáltatói jogkört – az e tisztségbe való kinevezés és az abból való felmentés, valamint az illetmény megállapítása kivételével – a miniszter gyakorolja. A kormányzati szolgálati jogviszonyból származó igények érvényesítése érdekében indított eljárásban munkáltatóként a miniszter jár el.
 
 (4) A kinevezett közigazgatási államtitkár a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
+
+(5) A miniszterelnöknek az érintett miniszter vagy miniszterek véleményének kikérését követően tett javaslatára a köztársasági elnök megállapítja, hogy a közigazgatási államtitkár a feladatait az (1) bekezdés szerinti kinevezésében foglaltaktól eltérő vagy eltérő megnevezésű minisztériumban látja el. Az e bekezdésben foglaltak alkalmazása esetén a (4) bekezdés szerinti eskütétel megismétlésére nem kerül sor.
 
 #### 230. § [A közigazgatási államtitkár illetménye]
 
@@ -4498,7 +4664,9 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 (4) A közigazgatási államtitkár kormányzati szolgálati jogviszonyának megszűnésével vagy megszüntetésével kapcsolatos munkáltatói intézkedéseket a köztársasági elnök határozata alapján a miniszter teszi meg.
 
-(5) Ha a közigazgatási államtitkár kormányzati szolgálati jogviszonya a 228. § (1) bekezdés a), b), d), vagy f) pontja, illetve a 228. § (2) bekezdés a) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
+(5) Ha a közigazgatási államtitkár kormányzati szolgálati jogviszonya a 228. § (1) bekezdés b), d) vagy f) pontja, illetve a 228. § (2) bekezdés a) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
+
+(6) Ha a közigazgatási államtitkár megbízatása a 228. § (1) bekezdés a) pontja alapján szűnik meg, ennek tényéről a miniszter közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
 
 #### 232. § [A közigazgatási államtitkár lemondása]
 
@@ -4543,7 +4711,9 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 #### 234. § [A helyettes államtitkár kinevezése]
 
-(1) A minisztérium helyettes államtitkárát a miniszter javaslatára, a Miniszterelnöki Kormányiroda helyettes államtitkárát a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára, a Politikai Igazgatói Irodán működő helyettes államtitkárt, valamint a miniszterelnök politikai igazgatója irányítása alatt működő további helyettes államtitkárt a miniszterelnök politikai igazgatójának javaslatára a miniszterelnök határozatlan időre nevezi ki.
+(1) A minisztérium helyettes államtitkárát a miniszter javaslatára, a Miniszterelnöki Kormányiroda helyettes államtitkárát a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára, a Politikai Igazgatói Irodán működő helyettes államtitkárt, valamint a miniszterelnök politikai igazgatója irányítása alatt működő további helyettes államtitkárt a miniszterelnök politikai igazgatójának javaslatára, a Nemzeti Fejlesztési Központ helyettes államtitkárát az európai uniós források felhasználásáért felelős miniszter javaslatára a miniszterelnök határozatlan időre nevezi ki.
+
+(1a) A minisztérium helyettes államtitkárának (1) bekezdés szerinti kinevezése meghatározza a feladatvégzés helyéül szolgáló minisztériumot.
 
 (2) A miniszter és a miniszterelnök politikai igazgatója a kormányzati személyügyi igazgatásra kijelölt szerv vezetője véleményének kikérését követően a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján terjeszti javaslatát a miniszterelnök elé. A Miniszterelnöki Kormányiroda közigazgatási államtitkára – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára véleményének kikérését követően – közvetlenül terjeszti javaslatát a miniszterelnök elé.
 
@@ -4551,9 +4721,11 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 (4) A helyettes államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
-(5) A helyettes államtitkár kormányzati szolgálati jogviszonyával kapcsolatosan a munkáltatói jogkört – az e tisztségbe való kinevezés és az abból való felmentés kivételével – a közigazgatási államtitkár, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatója gyakorolja.
+(5) A helyettes államtitkár kormányzati szolgálati jogviszonyával kapcsolatosan a munkáltatói jogkört – az e tisztségbe való kinevezés és az abból való felmentés kivételével – a közigazgatási államtitkár, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatója, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén a 33/B. § (1) bekezdése szerinti államtitkár gyakorolja.
 
 (6) A kinevezett helyettes államtitkár a miniszterelnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
+
+(7) A miniszter javaslatára a miniszterelnök megállapítja, hogy a helyettes államtitkár a feladatait az (1a) bekezdés szerinti kinevezésében foglaltaktól eltérő vagy eltérő megnevezésű minisztériumban látja el. Az e bekezdésben foglaltak alkalmazása esetén a (6) bekezdés szerinti eskütétel megismétlésére nem kerül sor.
 
 #### 235. § [A helyettes államtitkár illetménye]
 
@@ -4561,13 +4733,15 @@ A helyettes államtitkár az 1. mellékletben meghatározott helyettes államtit
 
 #### 236. § [A helyettes államtitkár jogviszonyának megszűnése]
 
-(1) Ha a helyettes államtitkár kormányzati szolgálati jogviszonya a 228. § (1) bekezdés a), b) vagy d) pontja, illetve a 228. § (2) bekezdés a) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a minisztérium helyettes államtitkára esetében a miniszter előterjesztésére, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkárának előterjesztésére, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatójának előterjesztésére a miniszterelnök állapítja meg.
+(1) Ha a helyettes államtitkár kormányzati szolgálati jogviszonya a 228. § (1) bekezdés b) vagy d) pontja, illetve a 228. § (2) bekezdés a) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a minisztérium helyettes államtitkára esetében a miniszter előterjesztésére, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkárának előterjesztésére, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatójának előterjesztésére, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén az európai uniós források felhasználásáért felelős miniszter előterjesztésére a miniszterelnök állapítja meg.
 
-(2) A helyettes államtitkár kormányzati szolgálati jogviszonyának megszűnésével vagy megszüntetésével kapcsolatos munkáltatói intézkedéseket a miniszterelnök határozata alapján a közigazgatási államtitkár teszi meg.
+(1a) Ha a helyettes államtitkár megbízatása a 228. § (1) bekezdés a) pontja alapján szűnik meg, ennek tényéről a miniszter közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
+
+(2) A helyettes államtitkár kormányzati szolgálati jogviszonyának megszűnésével vagy megszüntetésével kapcsolatos munkáltatói intézkedéseket a miniszterelnök határozata és a miniszter (1a) bekezdés szerinti közleménye alapján a közigazgatási államtitkár, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén a 33/B. § (1) bekezdése szerinti államtitkár teszi meg.
 
 #### 237. § [A helyettes államtitkár összeférhetetlensége]
 
-Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a miniszterelnök a minisztérium helyettes államtitkára esetében a miniszter javaslatára, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatójának javaslatára az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség kérdésében.
+Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a miniszterelnök a minisztérium helyettes államtitkára esetében a miniszter javaslatára, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatójának javaslatára, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén az európai uniós források felhasználásáért felelős miniszter javaslatára az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség kérdésében.
 
 #### 238. § [A hivatalvesztés megállapításának szabályai a helyettes államtitkár esetében]
 
@@ -4577,9 +4751,9 @@ Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől sz�
 
 #### 239. § [A helyettes államtitkár lemondása]
 
-(1) A minisztérium helyettes államtitkára e tisztségéről a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a Politikai Igazgatói Irodán működő helyettes államtitkár a miniszterelnök politikai igazgatója útján a miniszterelnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat.
+(1) A minisztérium helyettes államtitkára e tisztségéről a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a Politikai Igazgatói Irodán működő helyettes államtitkár a miniszterelnök politikai igazgatója, a Nemzeti Fejlesztési Központ helyettes államtitkára az európai uniós források felhasználásáért felelős miniszter útján a miniszterelnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat.
 
-(2) A minisztérium helyettes államtitkára lemondása esetén a megbízatás megszűnésének időpontját a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára esetén a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatójának javaslatára a miniszterelnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a miniszterelnökkel való közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
+(2) A minisztérium helyettes államtitkára lemondása esetén a megbízatás megszűnésének időpontját a miniszter, a Nemzeti Fejlesztési Központ helyettes államtitkára lemondása esetén az európai uniós források felhasználásáért felelős miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára esetén a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatójának javaslatára a miniszterelnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a miniszterelnökkel való közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
 
 (3) Ha a helyettes államtitkár e tisztségét legalább három évig betöltötte, a lemondási idő a megbízatás megszűnésétől számított három hónap, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, a lemondási idő negyvenöt nap, ha e tisztségét egy évnél rövidebb ideig töltötte be, a lemondási idő tizenöt nap. A lemondási idő időtartama alatt a helyettes államtitkár a munkavégzési kötelezettség alól mentesül.
 
@@ -4591,9 +4765,9 @@ Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől sz�
 
 #### 240. § [A helyettes államtitkár felmentése]
 
-(1) Minisztérium helyettes államtitkára esetében a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatója bármikor javaslatot tehet a miniszterelnöknek a helyettes államtitkár e tisztségéből történő felmentésére. A felmentést nem kell megindokolni. A helyettes államtitkár felmentésére a 233. § (2) és (3) bekezdését alkalmazni kell.
+(1) Minisztérium helyettes államtitkára esetében a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatója, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén az európai uniós források felhasználásáért felelős miniszter bármikor javaslatot tehet a miniszterelnöknek a helyettes államtitkár e tisztségéből történő felmentésére. A felmentést nem kell megindokolni. A helyettes államtitkár felmentésére a 233. § (2) és (3) bekezdését alkalmazni kell.
 
-(2) Minisztériumban a miniszter, a Miniszterelnöki Kormányirodán a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatója köteles kezdeményezni a miniszterelnöknél a helyettes államtitkár felmentését, ha a helyettes államtitkár az öregségi nyugdíjkorhatárt betöltötte, és rendelkezik az öregségi teljes nyugdíjhoz szükséges szolgálati idővel.
+(2) Minisztériumban a miniszter, a Miniszterelnöki Kormányirodán a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a Politikai Igazgatói Irodán működő helyettes államtitkár esetében a miniszterelnök politikai igazgatója, a Nemzeti Fejlesztési Központ helyettes államtitkára esetén az európai uniós források felhasználásáért felelős miniszter köteles kezdeményezni a miniszterelnöknél a helyettes államtitkár felmentését, ha a helyettes államtitkár az öregségi nyugdíjkorhatárt betöltötte, és rendelkezik az öregségi teljes nyugdíjhoz szükséges szolgálati idővel.
 
 (3) Nem kell alkalmazni a (2) bekezdést, ha a helyettes államtitkár a kinevezésekor betöltötte az öregségi nyugdíjkorhatárt, és rendelkezett az öregségi teljes nyugdíjhoz szükséges szolgálati idővel.
 
@@ -4603,7 +4777,7 @@ Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől sz�
 
 - a) közigazgatási államtitkár alatt helyettes államtitkárt,
 - b) lemondási idő alatt a 233. § (2) és (3) bekezdése szerinti időtartamot,
-- c) lemondási időre járó illetmény alatt a b) pont szerinti lemondási időre járó illetményt
+- c) lemondási időre járó illetmény alatt a b) pont szerinti felmentési időre járó illetményt
 
 kell érteni.
 
@@ -4611,9 +4785,9 @@ kell érteni.
 
 (1) A Belső Ellenőrzési és Integritási Igazgatóság vezetőjére (a továbbiakban e § alkalmazásában: igazgató) – a 29/B. §-ban és a (2)–(7) bekezdésben meghatározott eltérésekkel – a helyettes államtitkárra vonatkozó szabályokat kell alkalmazni.
 
-(2) Az igazgatót az európai uniós források felhasználásáért felelős miniszter javaslatára a miniszterelnök négy évre nevezi ki. Az európai uniós források felhasználásáért felelős miniszter a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
+(2) Az igazgatót a 33/B. § (1) bekezdése szerinti államtitkár javaslatára a miniszterelnök négy évre nevezi ki. A 33/B. § (1) bekezdése szerinti államtitkár a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
 
-(3) Igazgatónak kinevezhető a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban álló, a 29/B. § (1) bekezdése szerinti minisztériumba vezényelt személy is azzal, hogy ebben az esetben nem kell teljesülnie a 3. § (6) bekezdés a) pontjában meghatározott feltételnek.
+(3) Igazgatónak kinevezhető a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban álló, a 29/B. § (1) bekezdése szerinti szervezetbe vezényelt személy is azzal, hogy ebben az esetben nem kell teljesülnie a 3. § (6) bekezdés a) pontjában meghatározott feltételnek.
 
 (4) Az igazgató jogviszonya a (2) bekezdés szerinti időtartam alatt felmentéssel nem szüntethető meg, kivéve, ha
 
@@ -4625,15 +4799,15 @@ kell érteni.
 (4a) A (4) bekezdés d) pontja szerinti esetben
 
 - a) a lényeges adat, tény valótlanságát vagy mellőzésének tényét az Integritás Hatóság a 29/B. § (9c) bekezdése szerinti ellenőrzés során,
-- b) a szándékosság fennállását az európai uniós források felhasználásáért felelős miniszter
+- b) a szándékosság fennállását a 33/B. § (1) bekezdése szerinti államtitkár
 
 állapítja meg.
 
-(5) A (4) bekezdésben meghatározott feltétel fennállása esetén az igazgatót az európai uniós források felhasználásáért felelős miniszter javaslatára a miniszterelnök mentheti fel. Az európai uniós források felhasználásáért felelős miniszter a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
+(5) A (4) bekezdésben meghatározott feltétel fennállása esetén az igazgatót a 33/B. § (1) bekezdése szerinti államtitkár javaslatára a miniszterelnök mentheti fel. A 33/B. § (1) bekezdése szerinti államtitkár a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
 
 (6) Az igazgató az európai támogatásokat auditáló szerv vezetőjének illetményével azonos összegű illetményre és helyettes államtitkári juttatásokra jogosult.
 
-(7) Az igazgató jogviszonyával kapcsolatosan a munkáltatói jogkört – a kinevezés és a felmentés kivételével – az európai uniós források felhasználásáért felelős miniszter gyakorolja azzal, hogy a 29/B. § (2) bekezdése szerinti szervezeti és működési szabályzat egyes munkáltatói jogkörök vonatkozásában ettől eltérően is rendelkezhet.
+(7) Az igazgató jogviszonyával kapcsolatosan a munkáltatói jogkört – a kinevezés és a felmentés kivételével – a 33/B. § (1) bekezdése szerinti államtitkár gyakorolja azzal, hogy a 29/B. § (2) bekezdése szerinti szervezeti és működési szabályzat egyes munkáltatói jogkörök vonatkozásában ettől eltérően is rendelkezhet.
 
 (8) Az igazgatónak a (4) bekezdés d) pontja alapján történő felmentésére nem kell alkalmazni a 233. § (2) és (3) bekezdését.
 
@@ -4721,21 +4895,21 @@ A főigazgató felett – a kinevezés, a felmentés, a fegyelmi eljárás megin
 
 A szakmai vezető kormányzati szolgálati jogviszonyára – az e törvényben meghatározott eltérésekkel és kivételekkel – a kormányzati szolgálati jogviszonyra vonatkozó általános szabályokat kell alkalmazni.
 
-#### 251. § [Az igazgató kinevezése]
+#### 251. § [A kormányhivatal igazgatójának kinevezése]
 
-(1) Az igazgatót a főigazgató javaslatára a főispán nevezi ki és menti fel. A főigazgatói álláshely betöltetlensége vagy a főigazgató akadályoztatása esetén az igazgató kinevezéséről a főispán dönt.
+(1) A kormányhivatal igazgatóját a főigazgató javaslatára a főispán nevezi ki és menti fel. A főigazgatói álláshely betöltetlensége vagy a főigazgató akadályoztatása esetén a kormányhivatal igazgatójának kinevezéséről a főispán dönt.
 
-(2) Igazgatónak az nevezhető ki, aki felsőfokú igazgatásszervezői, közigazgatás-szervezői, védelmi igazgatási menedzser vagy jogász szakképzettséggel vagy okleveles közigazgatási menedzser, okleveles közigazgatási szakértő, vagy közgazdász szakképzettséggel, valamint jogi vagy közigazgatási szakvizsgával, államtudományi okleveles mester szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
+(2) Kormányhivatal igazgatójának az nevezhető ki, aki felsőfokú igazgatásszervezői, közigazgatás-szervezői, védelmi igazgatási menedzser vagy jogász szakképzettséggel vagy okleveles közigazgatási menedzser, okleveles közigazgatási szakértő, vagy közgazdász szakképzettséggel, valamint jogi vagy közigazgatási szakvizsgával, államtudományi okleveles mester szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
 
-#### 252. § [Az igazgató feletti munkáltatói jogkör gyakorlása]
+#### 252. § [A kormányhivatal igazgatója feletti munkáltatói jogkör gyakorlása]
 
-Az igazgató felett – a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a főispán gyakorolja.
+A kormányhivatal igazgatója felett – a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a főispán gyakorolja.
 
-#### 253. § [Az igazgató illetménye és egyéb juttatásai]
+#### 253. § [A kormányhivatal igazgatójának illetménye és egyéb juttatásai]
 
-(1) Az igazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény megegyezik a minisztériumi főosztályvezetői illetménnyel.
+(1) A kormányhivatal igazgatójának illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény megegyezik a minisztériumi főosztályvezetői illetménnyel.
 
-(2) Az igazgató vezetői pótszabadsága megegyezik a főosztályvezető vezetői pótszabadságával.
+(2) A kormányhivatal igazgatójának vezetői pótszabadsága megegyezik a főosztályvezető vezetői pótszabadságával.
 
 #### 254. § [A hivatalvezetőre alkalmazandó szabályok]
 
@@ -4982,6 +5156,14 @@ illetménynek megfelelő összeg.
 - b) a szándékosság fennállását a munkáltatói jogkör gyakorlója
 
 állapítja meg.
+
+#### 279/B. § [A Nemzeti Fejlesztési Központ munkavállalóira alkalmazandó szabályok]
+
+(1) A Nemzeti Fejlesztési Központ szervezetében foglalkoztatott munkavállalókra a 278. és 279. §-ban foglaltakat és az Mt.-t a (2) és (3) bekezdésben foglaltak figyelembevételével kell alkalmazni.
+
+(2) A Nemzeti Fejlesztési Központ munkavállalójára a 33/F. § (3) bekezdését, a (4) bekezdés a) és b) pontját, továbbá a (6) bekezdését alkalmazni kell azzal, hogy a 134. § (1) bekezdése szerint megállapított illetmény alatt a munkaszerződés szerinti munkabért kell érteni.
+
+(3) A Nemzeti Fejlesztési Központ munkavállalójára a 33/F. § (7)–(11) bekezdését alkalmazni kell.
 
 ## TIZEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -5461,6 +5643,53 @@ E törvénynek a szerencsejáték-szervezéssel és az elektronikus ügyintézé
 #### 300/C. § [Átmeneti rendelkezés az egyes közigazgatási tárgyú törvények módosításáról szóló 2023. évi LXI. törvényhez]
 
 Az egyes közigazgatási tárgyú törvények módosításáról szóló 2023. évi LXI. törvénnyel (a továbbiakban: Módtv7.) megállapított 95. § (10) bekezdés b) pontját a Módtv7. hatálybalépése előtt megválasztott vezető tisztségviselő és felügyelőbizottsági tag vonatkozásában is alkalmazni kell.
+
+#### 300/D. § [Átmeneti rendelkezés az egyes központi kormányzati igazgatási szerveket érintő törvénymódosításokról szóló 2023. évi LXXXVI. törvényhez]
+
+(1) Az egyes központi kormányzati igazgatási szerveket érintő törvénymódosításokról szóló 2023. évi LXXXVI. törvénnyel megállapított 33/B. § (2) bekezdése szerinti feladatokat a Nemzeti Fejlesztési Központ 2024. augusztus 1. napjától látja el.
+
+(2) Az (1) bekezdés szerinti feladatok vonatkozásában a Közigazgatási és Területfejlesztési Minisztérium jogutódja a Nemzeti Fejlesztési Központ.
+
+(3) Az (1) bekezdés szerinti feladatok ellátása érdekében kötött szerződésekben és egyéb jogviszonyokban a Nemzeti Fejlesztési Központ általános jogutódja a Közigazgatási és Területfejlesztési Minisztériumnak.
+
+(4) A Nemzeti Fejlesztési Központ jogutódja
+
+- a) a Közigazgatási és Területfejlesztési Minisztériumnak az (1) bekezdés szerinti feladatot ellátó kormánytisztviselők kormányzati szolgálati jogviszonya és munkavállalók munkaviszonya vonatkozásában,
+- b) az (1) bekezdés szerinti feladatokkal és az a) pont szerinti kormánytisztviselőkkel és munkavállalókkal összefüggő funkcionális feladatokat ellátó kormánytisztviselők kormányzati szolgálati jogviszonya, illetve munkavállalók munkaviszonya vonatkozásában,
+
+azzal, hogy a jogutódlásra – az (5)–(12) bekezdésben foglaltak figyelembevételével – a 90/A. §-t kell alkalmazni.
+
+(5) 2024. augusztus 31-ig a Nemzeti Fejlesztési Központ
+
+- a) kormánytisztviselői számára ki kell állítani az új beosztási okiratot,
+- b) munkavállalói új munkaszerződését meg kell kötni.
+
+(6) A Nemzeti Fejlesztési Központnál foglalkoztatott
+
+- a) kormánytisztviselő kormányzati szolgálati jogviszonyára a 2024. július 31. napján érvényes kinevezést,
+- b) munkavállaló munkaviszonyára a 2024. július 31. napján érvényes munkaszerződést
+
+kell alkalmazni az (5) bekezdés szerinti új beosztási okirat, illetve munkaszerződés alkalmazásának kezdőnapjáig.
+
+(7) Az érintett jogviszonyát a próbaidő, a végkielégítésre és a szolgálati elismerésre való jogosultság szempontjából folyamatosnak kell tekinteni.
+
+(8) Az új munkaszerződés megkötése nem szakítja meg a 2024. július 31. napján fennálló jogviszonyból eredő igények elévülését.
+
+(9) Az érintettnek az (5) bekezdés a) pontja szerinti beosztási okiratban megállapított illetménye vagy az (5) bekezdés b) pontja szerinti munkaszerződésben megállapított munkabére nem lehet kevesebb annál, mint amekkora összegre illetményként, illetve munkabérként 2024. július 31. napján jogosult.
+
+(10) Az érintettnek az (5) bekezdés a) pontja szerinti beosztási okiratban, illetve az (5) bekezdés b) pontja szerinti munkaszerződésben és az ahhoz kapcsolódó munkáltatói intézkedésben megállapított napi munkaideje és munkarendje nem lehet kedvezőtlenebb annál, mint ami 2024. július 31. napján megilleti.
+
+(11) Az érintett munkavállaló 2024. január 1. és 2024. július 31. között az Mt. szerint megállapított 2024. évi szabadságának időarányos részére jogosult.
+
+(12) Az érintett munkavállaló 2024. augusztus 1-jétől az új munkaszerződése szerinti szabadságának időarányos részére jogosult azzal, hogy az érintett munkavállaló számára kiadható az Mt. szerint megállapított, a 2024. augusztus 1. napja előtt ki nem adott 2023. és 2024. évi szabadság.
+
+#### 300/D. § [Átmeneti rendelkezés az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvényhez]
+
+(1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel (a továbbiakban: Módtv8.) megállapított 89/A. §-át 2024. augusztus 1-jét követően indult ügyekben kell alkalmazni. Ha a kormánytisztviselő 2024. augusztus 1-je előtt megtette a 89. § (6) bekezdése szerinti jognyilatkozatot az őt foglalkoztató kormányzati igazgatási szerv felé, a 89. § (6) bekezdése szerint kell eljárni.
+
+(2) Az (1) bekezdés szerinti esetben 2024. augusztus 1-jét követően is alkalmazandó a 104. § (1) bekezdés j) pontja, ha a 89. § (6) bekezdésében megállapított határidőn belül nem kerül sor az új beosztási okirat kiállítására.
+
+(3) E törvények a Módtv8.-al megállapított 196. § (2a), (5) és (6) bekezdését, 199. §-át, 202. § (2) és (7) bekezdését, 203. § (3) bekezdését, 229. § (1) és (5) bekezdését, 231. § (6) bekezdését, 234. § (1a) és (7) bekezdését, 236. § (1a) bekezdését a 2024. augusztus 1-je előtt kinevezett miniszterek, államtitkárok, közigazgatási államtitkárok és helyettes államtitkárok tekintetében is alkalmazni kell.
 
 #### 301. §
 

@@ -54,6 +54,7 @@ során kell alkalmazni.
 - 7. értesítőlap: a bíróság által a végrehajtás érdekében a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ügydöntő határozat meghozatalát követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
 - 7a. fogvatartás biztonsága: olyan állapot fenntartása, amelynél az elítélt és az egyéb jogcímen fogvatartott őrzése, felügyelete, ellenőrzése, a bv. intézetben tartózkodó személyek életének, testi épségének és anyagi javainak védelme, a büntetés-végrehajtási szervezet anyagi javainak sértetlensége, valamint a büntetés-végrehajtási feladatok zavartalan ellátása a jogszabályi rendelkezéseknek megfelelően biztosított,
 - 8. fogvatartással kapcsolatos ügy: minden olyan ügy, amely nem tartozik a büntetés-végrehajtási ügy körébe, de az elítélt vagy az egyéb jogcímen fogvatartott fogvatartásával összefügg, ideértve a bv. intézet által lefolytatandó kártérítési eljárást is,
+- 8a. hangfelismerő rendszer: hangminták összehasonlító elemzésére képes, a személyazonosítást elősegítő informatikai alkalmazás,
 - 9. hivatalos minőségben kapcsolattartó:
   - a) a Btk. szerinti hivatalos és külföldi hivatalos személy a hivatalos eljárásában,
   - b) a védő, a jogi képviselőként eljáró ügyvédi tevékenység gyakorlására jogosult személy folyamatban lévő büntető-, polgári, szabálysértési eljárásban, közigazgatási hatósági eljárásban, egyéb hatósági ügyben vagy büntetés-végrehajtási ügyben, valamint ilyen eljárás megindításának kezdeményezése érdekében eljárva, ideértve a meghatalmazás adását is,
@@ -154,7 +155,7 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 11. § (1) Az elítéltet és az egyéb jogcímen fogvatartottat a büntetés-végrehajtási ügyben megilleti a védelem joga, a védőnek iratmegismerési és önálló nyilatkozattételi jogosultsága van.
 
-(2) Az elítélt és az egyéb jogcímen fogvatartott védőjével mind írásban, mind szóban és – a fogvatartást foganatosító szerv rendjének a megtartásával – személyesen, ellenőrzés nélkül érintkezhet.
+(2) Az elítélt és az egyéb jogcímen fogvatartott védőjével, valamint büntetőügyben eljáró ügyvédi tevékenység gyakorlására jogosult jogi képviselőjével mind írásban, mind szóban és – a fogvatartást foganatosító szerv rendjének a megtartásával – személyesen, ellenőrzés nélkül érintkezhet.
 
 (3) Ha az elítélt és az egyéb jogcímen fogvatartott nem magyar állampolgár, jogosult államának diplomáciai, illetve konzuli képviseletéhez fordulni, és annak képviselőjével kapcsolatot tartani. Ha az elítélt és az egyéb jogcímen fogvatartott hontalan, jogosult az Egyesült Nemzetek Szervezete Menekültügyi Főbiztosságához fordulni, és annak képviselőjével kapcsolatot tartani.
 
@@ -164,15 +165,15 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 (4b) Ha az elítélt vagy az egyéb jogcímen fogvatartott érdekében több védő jár el, az elítéltet vagy az egyéb jogcímen fogvatartottat nyilatkoztatni kell arról, hogy kit jelöl meg vezető védőként. Nyilatkozat hiányában vezető védőként a bv. intézet a meghatalmazást elsőként benyújtó védőt jelöli ki. A hivatalos iratokat a vezető védőnek kell kézbesíteni.
 
-(5) A fogvatartással kapcsolatos ügyben az elítélt vagy az egyéb jogcímen fogvatartott képviselőt hatalmazhat meg, akinek a képviseleti jogosultságát igazolni kell. A képviselő tevékenysége nem sértheti vagy veszélyeztetheti a fogvatartás biztonságát, illetve a végrehajtás rendjét. Nem járhat el képviselőként, akit a rendelkezési jogkör gyakorlója vagy a végrehajtásért felelős szerv vezetője a fogvatartottal való kapcsolattartásból kizárt.
+(5) A fogvatartással kapcsolatos ügyben az elítélt vagy az egyéb jogcímen fogvatartott képviselőt hatalmazhat meg, akinek a képviseleti jogosultságát igazolni kell. A képviselő tevékenysége nem sértheti vagy veszélyeztetheti a fogvatartás biztonságát, illetve a végrehajtás rendjét. Nem járhat el képviselőként az elítélt vagy az egyéb jogcímen fogvatartott, továbbá az, akit a rendelkezési jogkör gyakorlója vagy a végrehajtásért felelős szerv vezetője a fogvatartottal való kapcsolattartásból kizárt.
 
 (5a) Ha a védő, illetve a képviselő magatartása súlyosan sérti vagy veszélyezteti a fogvatartás biztonságát vagy a végrehajtás rendjét, a végrehajtásért felelős szerv vezetője a védőt, illetve a képviselőt indokolt határozattal az elítélttel vagy az egyéb jogcímen fogvatartottal való kapcsolattartásból kizárja. Az elítélt vagy az egyéb jogcímen fogvatartott és a védő, illetve a képviselő a határozat ellen bírósági felülvizsgálati kérelmet nyújthat be.
 
-(6) A fogvatartással kapcsolatos ügyben vagy bármely más ügyben az elítélt és az egyéb jogcímen fogvatartott képviselőjével mind írásban, mind szóban és – a fogvatartást foganatosító szerv rendjének a megtartásával – a látogatás során személyesen, ellenőrzés mellett érintkezhet. Nem ellenőrizhető a személyes kapcsolattartás az érintett bv. intézet eljárásával kapcsolatban az elítélt vagy az egyéb jogcímen fogvatartott és őt nemzetközi szerződéssel létrehozott emberi jogi szerv, így különösen az Emberi Jogok Európai Bírósága (a továbbiakban: EJEB) elé terjesztett ügyben képviselő személy között, kivéve abban az esetben, ha a képviselő az elítélt, vagy az egyéb jogcímen fogvatartott hozzátartozója.
+(6) A fogvatartással kapcsolatos ügyben vagy bármely más ügyben az elítélt és az egyéb jogcímen fogvatartott – a (2) bekezdésben meghatározott jogi képviselőn kívül – képviselőjével mind írásban, mind szóban és – a fogvatartást foganatosító szerv rendjének a megtartásával – a látogatás során személyesen, ellenőrzés mellett érintkezhet. Nem ellenőrizhető a személyes kapcsolattartás az érintett bv. intézet eljárásával kapcsolatban az elítélt vagy az egyéb jogcímen fogvatartott és őt nemzetközi szerződéssel létrehozott emberi jogi szerv, így különösen az Emberi Jogok Európai Bírósága (a továbbiakban: EJEB) elé terjesztett ügyben képviselő személy között, kivéve abban az esetben, ha a képviselő az elítélt, vagy az egyéb jogcímen fogvatartott hozzátartozója.
 
 (6a) Ha a fogvatartással kapcsolatos ügyben vagy bármely más ügyben az elítélt, illetve az egyéb jogcímen fogvatartott a képviselet ellátására nem jogi képviselőt hatalmaz meg, a telefonon történő kapcsolattartás esetén hetente húsz perc időtartam nem számítható be az egyes kategóriákhoz, letartóztatás esetén az egyes rezsimekhez igazodó kapcsolattartásként. Ezen a jogcímen a képviselő havonta egy-egy alkalommal, alkalmanként legfeljebb egy órában élhet a telekommunikációs eszköz útján történő kapcsolattartás és a látogatás jogával.
 
-(7) Telefonon történő kapcsolattartás során, ha a beszélgetés nem ellenőrizhető, a büntetés-végrehajtásért felelős szerv jogosult a hívást kezdeményező védő vagy képviselő, illetve az elítélt vagy az egyéb jogcímen fogvatartott híváskezdeményezése esetén a hívott fél személyazonosságáról meggyőződni, ennek érdekében a beszélgetés megszakítható.
+(7) Telefonon vagy telekommunikációs eszköz útján történő kapcsolattartás során, ha a beszélgetés nem ellenőrizhető, a büntetés-végrehajtásért felelős szerv jogosult a hívást kezdeményező védő vagy képviselő, illetve az elítélt vagy az egyéb jogcímen fogvatartott híváskezdeményezése esetén a hívott fél személyazonosságáról meggyőződni, ennek érdekében a beszélgetés megszakítható.
 
 (8) Fogvatartással kapcsolatos egyéb ügyben az elítélt és az egyéb jogcímen fogvatartott a jogi segítségnyújtásról szóló törvény rendelkezései szerinti jogi szolgáltatást vehet igénybe és jogosult a jogi segítségnyújtási eljárást lefolytató szervvel, valamint a jogi szolgáltatást nyújtó jogi segítővel, illetve pártfogó ügyvéddel kapcsolatot tartani.
 
@@ -1760,19 +1761,19 @@ történik.
 - c) az elítélt vagy a kényszerintézkedés hatálya alatt álló családi állapotára, iskolai végzettségére és szakképzettségére, a kényszergyógykezelt családi állapotára,
 - d) az elítélt vagy az egyéb jogcímen fogvatartott törvényes képviselőjének, meghatalmazott vagy kirendelt védőjének, jogi eljárásban eljáró képviselőjének, valamint a kényszergyógykezelt házastársának, továbbá nem magyar állampolgárságú fogvatartott esetén az állampolgársága szerinti diplomáciai vagy konzuli képviselet eljáró tagjának családi és utónevére, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére,
 - e) az elítélt vagy az egyéb jogcímen fogvatartott részére kiállított, a személyazonosság igazolására alkalmas hatósági igazolvány és járművezetéstől eltiltás hatálya alatt álló esetében a vezetői engedély okmányazonosítójára és érvényességi idejére, továbbá az okmányt kiállító hatóság megnevezésére,
-- f) a szabadságvesztés és az elzárás hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, az egészségügyről szóló törvényben meghatározott egészségügyi adataira (a továbbiakban: egészségügyi adat), esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, a választójoggal nem rendelkező elítélt személyi azonosítójára, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
+- f) a szabadságvesztés és az elzárás hatálya alatt álló arcképmására és hangjára, társadalombiztosítási azonosító jelére, az egészségügyről szóló törvényben meghatározott egészségügyi adataira (a továbbiakban: egészségügyi adat), esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, a választójoggal nem rendelkező elítélt személyi azonosítójára, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 - g) a közérdekű munkára ítélt társadalombiztosítási azonosító jelére, egészségügyi adataira, szociális helyzetére, foglalkozására, munkahelyére, munkarendjére és tanulói jogviszonyára, tanulmányi rendjére, valamint családi körülményeire vonatkozó adataira, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére, valamint a végrehajtás helyére, kezdő és befejező időpontjára, valamint a ledolgozott napok számára,
 - h) a közügyektől eltiltott esetén a népképviseleti szerv testületében vagy bizottságában korábban betöltött tagságára, civil szervezetben betöltött vezetői tisztségére, köztestületben vagy közalapítványban viselt tisztségére, volt katonai rendfokozatára, volt címzetes rendfokozatára, volt belföldi vagy külföldi kitüntetésére, a hivatalos személyi minőséget korábban megalapozó jogviszonyára, törvényben kihirdetett nemzetközi szerződéssel létrehozott szervezet közgyűlésébe, testületébe történt korábbi delegálására vonatkozó adataira, illetve az arra vonatkozó adatokra, hogy korábban védőként vagy jogi képviselőként járt el,
 - i) a pártfogó felügyelet alatt álló b) pont szerinti adataira, egészségügyi adataira, esetleges káros szenvedélyeire, foglalkozására, munkahelyére vagy tanulói jogviszonyára, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére, továbbá a külön magatartási szabály végrehajtásával összefüggésben a sértett vagy egyéb érintett természetes személyazonosító adataira, lakcímére, értesítési címére, tényleges tartózkodási helyére, kézbesítési címére, elektronikus levelezési címére, hangkapcsolatot biztosító vagy más elektronikus elérhetőségére,
 - j) a kényszergyógykezelés és a javítóintézeti nevelés hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi viszonyaira, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére, továbbá javítóintézeti nevelés esetén a végrehajtás helyére, kezdő és befejező időpontjára,
 - k) az utógondozott társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi viszonyaira, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira,
-- l) a kényszerintézkedés hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
+- l) a kényszerintézkedés hatálya alatt álló arcképmására és hangjára, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 - m) az elítélt vagy az egyéb jogcímen fogvatartott jogai gyakorlásához és kötelezettségei teljesítéséhez szükséges további személyes adatokra, különösen az egészségügyi állapotára, esetleges káros szenvedélyeire vonatkozó vagy a bűnügyi személyes adataira, valamint külföldi állampolgárságú elítélt vagy egyéb jogcímen fogvatartott esetén az idegenrendészeti kiutasítására vonatkozó adataira,
 - n) az elítéltnek vagy az egyéb jogcímen fogvatartottnak a végrehajtással összefüggésben keletkezett kártérítési és egyéb fizetési kötelezettségére, kártérítési igényére vonatkozó adatokra és a keresményét terhelő fizetési kötelezettségekre,
 - o) a büntetések és az intézkedések végrehajtására vonatkozó adatokra, így különösen a végrehajtás elhalasztásával, a végrehajtás kezdő és befejező időpontjával, a foganatosítás helyével és körülményeivel, a jutalmazással és a fenyítéssel, a végrehajtás félbeszakításával és annak okával, valamint a büntetés végrehajtását kizáró ok vagy végrehajtási akadály bekövetkezésével kapcsolatos adatokra,
 - p) pártfogó felügyelői vélemény, környezettanulmány, megelőző pártfogó felügyelői vélemény vagy jelentés készítése esetén a terhelt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkahelyére vagy tanulói jogviszonyának adataira, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, továbbá a sértett azon személyes adataira, amelyek a részére adandó jóvátételhez szükségesek, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
 - q) a büntetőeljárásban vagy az elítélttel kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, közigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a végrehajtásért felelős szerv részére meg kell küldeni,
-- r) a szabálysértési elzárás hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
+- r) a szabálysértési elzárás hatálya alatt álló arcképmására és hangjára, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 - s) a reintegrációs őrizet elrendelése feltételeinek megállapítása és a környezettanulmány elkészítése körében a reintegrációs őrizet végrehajtására kijelölendő lakás tekintetében az elítélt vagy a befogadó nyilatkozatot tevő lakáshasználati jogára és a lakás elektromos áramellátását igazoló előfizetői adatokra, a befogadó környezetre és a lakásban lakó más személyeknek az elítélt befogadására való készségére, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkavállalási, illetve tanulmányi lehetőségeire, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, továbbá a reintegrációs őrizet ellenőrzése során az elítélt munkahelyére, illetve tanulói jogviszonyára vonatkozó adataira, valamint fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
 - t) az átmeneti részlegre helyezés feltételeinek megállapítása és a környezettanulmány elkészítése körében az elítélt által eltávozásra, illetve letelepedésre megjelölt lakás tekintetében az elítélt lakáshasználati jogára és lakáskörülményeire, a befogadó környezetre, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira,
 - u) az elítélt életvitelére – ideértve a büntetés vagy az intézkedés végrehajtásának megkezdése előtti időszakot is – és közbiztonsági kockázatára vonatkozó rendőri jelentés esetén
@@ -1790,7 +1791,14 @@ történik.
 
 (3a) Az elítélt vagy az egyéb jogcímen fogvatartott (2) bekezdés szerinti adatai, valamint az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat – a 150. § (7) bekezdésében meghatározott korlátok között – a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 27/A. § (1) bekezdése alapján folytatott biztonsági kockázatelemzés során felhasználhatók.
 
-(3b) Az elítélt vagy az egyéb jogcímen fogvatartott arcképmása a bv. intézet területén való tartózkodási helyének meghatározása, mozgásának és tevékenységének ellenőrzése, bűncselekmény, szabálysértés vagy fegyelmi vétség elkövetőjének, illetve a rendkívüli esemény résztvevőjének azonosítása céljából az arcképfelismerő rendszer alkalmazása során felhasználható.
+(3b) Az elítélt vagy az egyéb jogcímen fogvatartott arcképmás- és a hangazonosításhoz szükséges adata a bv. intézet területén való tartózkodási helyének meghatározása, mozgásának és tevékenységének ellenőrzése, élete és testi épsége megóvása, bűncselekmény, szabálysértés vagy fegyelmi vétség elkövetőjének, illetve a rendkívüli esemény résztvevőjének azonosítása céljából arcképfelismerő vagy hangfelismerő rendszer alkalmazása során felhasználható.
+
+(3c) A (3b) bekezdés alkalmazásában
+
+- a) arcképmás-azonosításhoz szükséges adat alatt az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvényben meghatározott arcképmás és arcképprofil fogalmat,
+- b) hangazonosításhoz szükséges adat alatt az informatikai eszköz igénybevételével készített és feldolgozható hangmintát
+
+kell érteni.
 
 (4) Az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentésben a következtetésen, véleményen, elemzésen vagy becslésen alapuló adatokat helyes és megbízható voltuk mértékére utaló jelzéssel kell ellátni a Rendőrségről szóló 1994. évi XXXIV. törvény felhatalmazásán alapuló jogszabály szerint.
 
@@ -1810,7 +1818,7 @@ történik.
 
 végrehajtásához szükséges adatokat ismerheti meg és kezelheti.
 
-(2) A helyi önkormányzat a társadalmi kötődés program, illetve az utógondozás végrehajtása során az ezekben részt vevő elítélt természetes személyazonosító adatát ismerheti meg és kezelheti.
+(2) A helyi önkormányzat az utógondozás végrehajtása során az ezekben részt vevő elítélt természetes személyazonosító adatát ismerheti meg és kezelheti.
 
 (3) A közérdekű munka végzésének helyeként kijelölt munkáltató a 76. § (2) bekezdésében meghatározott adatok közül az elítélt természetes személyazonosító adatát, társadalombiztosítási azonosító jelét, egészségügyi adatait, továbbá – ha azokat megadja – a levelezési címét, telefonszámát, illetve e-mail címét, valamint a ledolgozott napok számát ismerheti meg és kezelheti.
 
@@ -2209,7 +2217,7 @@ Ezekben az esetekben a BFB a (4) bekezdésben foglaltak szerint jár el.
 - 17. számára a közösségi eszközök igénybevételének lehetősége,
 - 18. részvétele a reintegrációs programokban.
 
-(4) A fogvatartás biztonságának fenntartása érdekében az egyes kategóriákon belül az elítélt egyéni kockázatértékelése alapján az elítélt őrzésére, felügyeletére, ellenőrzésére, a zárkaajtó zárva tartására, bv. intézeten belüli mozgására, látogatónak biztonsági fülkében vagy rácson keresztül történő fogadására, közös kulturális vagy sportrendezvényen, vallási szertartáson való részvételére, külső munkahelyen történő foglalkoztatására, az intézet elhagyására, az elítélt előállítására, szállítására vonatkozó biztonsági előírások szigorúbbak lehetnek.
+(4) A fogvatartás biztonságának fenntartása érdekében az egyes kategóriákon belül az elítélt egyéni kockázatértékelése alapján az elítélt őrzésére, felügyeletére, ellenőrzésére, a zárkaajtó zárva tartására, bv. intézeten belüli mozgására, látogatónak biztonsági beszélőfülkében történő fogadására, közös kulturális vagy sportrendezvényen, vallási szertartáson való részvételére, külső munkahelyen történő foglalkoztatására, az intézet elhagyására, az elítélt előállítására, szállítására vonatkozó biztonsági előírások szigorúbbak lehetnek.
 
 (5) A büntetés-végrehajtási szervezet a sajátos kezelési igényű elítéltek részére e törvényben meghatározott speciális részlegeket alakíthat ki, ahol a végrehajtás rendje elsősorban e sajátos igényekhez igazodik és az egyes kategóriáktól eltérhet. A sajátos kezelési igényű elítéltek részére kialakított speciális részlegen történő elhelyezés ideje alatt az elítélt kreditpontot szerezhet.
 
@@ -2525,7 +2533,7 @@ a részlegről ki kell helyezni.
 - b) az elítélt súlyos vagy ismételt fegyelemsértést, illetve újabb bűncselekményt követ el,
 - c) az elítélt az intézetelhagyással kapcsolatos magatartási szabályokat megszegi, vagy visszatérési kötelezettségének önhibájából nem az előírtaknak megfelelően tesz eleget,
 - d) az elítélt a reintegrációs program kapcsán együttműködési kötelezettségét nem teljesíti, vagy
-- e) az elítéltet enyhébb végrehajtási szabályok hatálya alá vagy más speciális részlegre helyezik.
+- e) az elítéltet más speciális részlegre helyezik.
 
 (5) A (4) bekezdés a)–d) pontja alapján történő kihelyezés esetén az elítélt az első alkalommal végrehajtandó szabadságvesztésre ítéltek részlegére ismételten nem helyezhető.
 
@@ -2860,6 +2868,7 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 - h) az egyes kategóriákra vonatkozó jogszabályi rendelkezéseknek megfelelően előírt forma- és egyéb ruházatot viselni,
 - i) a tartására fordított költséghez hozzájárulni, kivéve ha önhibáján kívüli okból nem dolgozik és nem részesül rendszeres pénzellátásban, illetve nem rendelkezik letéti pénzzel,
 - j) a képességeinek és a bv. intézet adottságainak megfelelő képzésben, illetve oktatásban részt venni.
+- k) jeladóval rendelkező elektronikus karpántot viselni tartózkodási helyének és fizikai állapotának nyomon követése, valamint közvetlen utasítása és értesítése céljából.
 
 (3) A tartási költségekhez való hozzájárulás összegét az országos parancsnok normatív utasításban határozza meg, az évente meghatározott napi összeg – teljes munkaidőben történő foglalkoztatás esetén – nem lehet kevesebb, mint az egy havi alapmunkadíj egy százaléka.
 
@@ -3079,7 +3088,12 @@ esetén.
 
 (4) Elektronikus megfigyelési eszköz nem alkalmazható az orvosi rendelő, orvosi diagnosztikai és – e törvényben meghatározott kivétellel – egyéb egészségügyi ellátásra szolgáló helyiség, az illemhely és a fürdőhelyiség megfigyelésére. A bv. intézet kórtermében és a betegszobában a korábban öngyilkosságot megkísérlő, vagy a saját, illetve mások testi épsége elleni cselekményt elkövető elítélt megfigyelése érdekében – a megfigyelés elrendelésével közvetlenül nem érintett ellátottak kíméletével – helyezhető el elektronikus megfigyelési eszköz.
 
-(4a) A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvényben meghatározott célból működtetett pilóta nélküli állami légi járműre elektronikus megfigyelési eszköz telepíthető.
+(4a) A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvényben meghatározott célból működtetett
+
+- a) pilóta nélküli állami légi járműre, vagy
+- b) a személyi állomány tagja feladatának ellátását támogató mobil elektronikai eszközre
+
+elektronikus megfigyelési eszköz telepíthető.
 
 (4b) Az elítélt bv. intézet területén, valamint a bv. szerv kezelésében lévő munkáltatási helyszínen való tartózkodási helyének meghatározása, mozgásának és tevékenységének ellenőrzése, a bv. intézetben vagy a bv. szerv kezelésében lévő munkáltatási helyszínen megvalósuló bűncselekmény, szabálysértés vagy fegyelemi vétség elkövetőjének, illetve a rendkívüli esemény résztvevőjének azonosítása céljából az elektronikus megfigyelési eszköz személyazonosítás céljából összekapcsolható arcképfelismerő rendszerrel.
 
@@ -3103,6 +3117,8 @@ használható fel.
 
 (11) Az elektronikus megfigyelési eszközzel készített felvétel személyazonosításra alkalmatlan módon oktatási vagy továbbképzési célokra felhasználható.
 
+(12) A (4a) bekezdésben meghatározott eszköz – a (2) és (3) bekezdésben meghatározott esetek kivételével – a zárkában az ellenőrzéshez és az intézkedéshez szükséges ideig működtethető.
+
 150/A. § (1) A büntetés-végrehajtási szervezet hivatásos szolgálati jogviszonyban álló tagja az intézkedésével, illetve az általa ellátott szolgálati feladattal összefüggésben, személy vagy tárgy azonosítására, a tett intézkedés jogszerűségének vizsgálata céljából, valamint az érintett jogainak gyakorlása érdekében az intézkedéssel érintett elítéltről, környezetéről, valamint az intézkedés szempontjából lényeges körülményről, tárgyról testkamerával kép- és hangfelvételt készíthet. A testkamera elektronikus megfigyelési eszköz.
 
 (2) A testkamera a következő intézkedések foganatosítása, illetve szolgálati feladat ellátása során alkalmazható:
@@ -3122,7 +3138,7 @@ használható fel.
 
 (3) A (2) bekezdésben meghatározott esetekben kötelező a testkamerát alkalmazni, ha a büntetés-végrehajtási szervezet hivatásos szolgálati jogviszonyban álló tagját azzal felszerelték, továbbá azt a (2) bekezdés szerinti intézkedés, illetve szolgálati feladat ellátásának ideje alatt folyamatosan kell működtetni.
 
-(4) Az (1) bekezdésben foglaltak szerint rögzített kép- és hangfelvétel tekintetében a 150. § (5)–(10) bekezdésében foglaltakat is alkalmazni kell azzal, hogy a 150. § (6) bekezdése alkalmazásában a kérelem benyújtására nyitva álló határidő, illetve a 150. § (8) bekezdése alkalmazásában a törlés kötelezettségének határideje tíz nap.
+(4) Az (1) bekezdésben foglaltak szerint rögzített kép- és hangfelvétel tekintetében a 150. § (5)–(10) bekezdésében foglaltakat is alkalmazni kell azzal, hogy a 150. § (6) bekezdése alkalmazásában a kérelem benyújtására nyitva álló határidő, illetve a 150. § (9) bekezdése alkalmazásában a törlés kötelezettségének határideje tíz nap.
 
 150/B. § Az elítélt ellenőrzése a saját vagy mások életét, testi épségét sértő vagy veszélyeztető cselekmény megelőzése érdekében, az ilyen cselekmény lehetséges bekövetkezése miatt szükséges ideig – az emberi méltóság tiszteletben tartása mellett – a külön légterű illemhely, illetve fürdőhelyiség falán vagy ajtaján kialakított ellenőrző nyíláson át közvetlen személyes betekintés útján is végrehajtható.
 
@@ -3177,7 +3193,7 @@ korlátozhatja.
 
 (3) Az elítéltek részére, legalább napi háromszori étkezési lehetőséget szükséges biztosítani, amelyből legalább egy étkezés meleg étel. Az elítélt írásbeli nyilatkozattal lemondhat a bv. intézet által nyújtott étkezésről vagy meghatározott élelmiszerről. Az elítélt a nyilatkozatát bármikor visszavonhatja. Az étkezési normákat az elítélek által végzett munka jellegének, egészségi állapotuknak és életkoruknak megfelelően kell kialakítani.
 
-(4) Az elítéltet az évszaknak megfelelő formaruhával, alsóruhával és lábbelivel kell ellátni. Ha a bv. intézet ideiglenesen nem tud formaruhát biztosítani, ennek idejére az elítélt a saját ruháját viselheti.
+(4) Az elítéltet az évszaknak megfelelő formaruhával, lábbelivel és kérelmére alsóruházattal kell ellátni. Ha a bv. intézet ideiglenesen nem tud formaruhát biztosítani, ennek idejére az elítélt a saját ruháját viselheti.
 
 (5) Rendkívüli esemény idején vagy más elháríthatatlan ok miatt – legfeljebb három napig – az elítéltek kizárólag hideg élelemmel is elláthatók, átszállítás, illetve előállítás esetén – ha az a bv. intézet székhelyének közigazgatási határán kívülre történik, vagy előreláthatóan a napirend szerinti meleg ebéd az átszállítás, illetve előállítás tartama miatt nem biztosítható – az elítélt részére csomagolt hideg élelmet kell adni. E bekezdés alkalmazásában az előállítás alatt a jelenlét telekommunikációs eszköz útján történő biztosítását is érteni kell.
 
@@ -3365,6 +3381,27 @@ miatt kiszabott fegyelmi fenyítés.
 
 (3) Ha a szabadságvesztés foganatba vételére tekintettel szüntette meg a bíróság vagy az ügyészség az elítélttel szemben más büntetőügyben elrendelt letartóztatást, akkor a rendelkezési jogkör gyakorlójának ilyen irányú rendelkezése esetén az elítélt kapcsolattartása vagy elkülönítése tekintetében korábban hozott korlátozó intézkedéseit be kell tartani.
 
+172/A. § (1) A kapcsolattartás emberi döntést támogató informatikai alkalmazással is ellenőrizhető. Az ellenőrzés a kapcsolattartásra való jogosultság vizsgálata körében a kapcsolattartó arcképmás- és hangazonosítására, valamint a kommunikáció tartalmára is kiterjed. Ez esetben, ha a kapcsolattartásra azért nem kerülhet sor, mert a kapcsolattartó személyazonosságát illetően kétség merül fel, vagy a személy nem azonos a jogosulttal, az erről való döntést a személyi állomány tagja hozza meg. A telefonbeszélgetés és a telekommunikációs eszköz útján történő kapcsolattartás során felmerülő okból a kapcsolattartást az informatikai alkalmazás közvetlenül is megszakíthatja.
+
+(2) Ha a telefonbeszélgetést és a telekommunikációs eszköz útján történő kapcsolattartást az informatikai eszköz emberi közreműködés nélkül ellenőrzi, az intézkedés jogszerűségének vizsgálata céljából a telefonbeszélgetés és a telekommunikációs eszköz útján történő kapcsolattartás rögzíthető. A felvétel a kapcsolattartást követően nem kezelhető és azt törölni kell, kivéve, ha
+
+- a) a kapcsolattartás megszakítására került sor, vagy
+- b) az ellenőrzés technikai végrehajtása érdekében szükséges.
+
+(3) A kapcsolattartás megszakítása esetén a felvételt a büntetés-végrehajtási szervezet az intézkedés jogszerűsége vizsgálatának a lefolytatásáig, vagy ha az elítélt vagy a kapcsolattartó a jogszerűség vizsgálatáról hozott döntéssel szemben panaszt jelent be, a panasz elbírálásáig kezeli.
+
+(4) Az ellenőrzés informatikai eszközzel történő technikai végrehajtása érdekében a felvételt a büntetés-végrehajtási szervezet legfeljebb a kapcsolattartást követő huszonnégy óráig kezeli. Ha a technikai ellenőrzés megjelölt határidején belül az informatikai eszköz a kapcsolattartás megszakítására alapot adó körülmény, fegyelemsértés elkövetésének gyanúját vagy rendkívüli esemény bekövetkezésnek kockázatát azonosítja, a felvételt a büntetés-végrehajtási szervezet a személyi állomány tagja által történő ellenőrzéséig, de legfeljebb öt munkanapig kezeli.
+
+(5) Ha az ellenőrzés alapján a kapcsolattartás során elhangzottakkal összefüggésben fegyelemsértés vagy bűncselekmény gyanúja merül fel, a felvétel tekintetében a 150. § (5)–(10) bekezdésében foglaltakat kell alkalmazni.
+
+(6) A kapcsolattartás informatikai eszközzel történő ellenőrzéséről és a felvétel kezelésének szabályairól az elítéltet és a kapcsolattartót előzetesen tájékoztatni kell.
+
+(7) A büntetés-végrehajtási szervezet a (2) bekezdés szerinti felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatai, így különösen magántitkai és magánéletének körülményei ne jussanak illetéktelen személy tudomására.
+
+(8) A kapcsolattartás informatikai alkalmazás útján történő közvetlen megszakításának jogszerűségéről a személyi állománynak a bv. intézet parancsnoka által megbízott tagja dönt.
+
+(9) Ha a (8) bekezdés szerinti vizsgálat eredményeként vagy a panasz elbírálása nyomán az állapítható meg, hogy a kapcsolattartás megszakítása nem volt indokolt, a kapcsolattartás pótlására további egy alkalmat az adott vagy az azt követő hónapban biztosítani kell.
+
 173. § (1) Az elítélt kapcsolattartási formái:
 
 - a) levelezés,
@@ -3380,6 +3417,8 @@ miatt kiszabott fegyelmi fenyítés.
 
 (3) A látogató intézeten kívüli fogadása, a kimaradás és az eltávozás időtartama a szabadságvesztésbe beszámít.
 
+(4) Az elítélt hivatalos minőségben eljáró személlyel történő kapcsolattartása nem számítható beaz egyes kategóriákhoz igazodó kapcsolattartásként és annak időtartama – a büntetés-végrehajtási szerv területére való ki- és belépés rendjére vonatkozó jogszabályban foglaltak megtartása mellett – nem korlátozott.
+
 ### Levelezés
 
 174. § (1) Az elítélt hozzátartozóival, valamint az általa megjelölt és a bv. intézet által engedélyezett személyekkel levelezhet, a levelek gyakorisága és terjedelme nem korlátozott.
@@ -3391,6 +3430,8 @@ miatt kiszabott fegyelmi fenyítés.
 (4) Az elítéltnek a hatóságokkal, törvényben kihirdetett nemzetközi egyezményben elismerten erre hatáskörrel rendelkező nemzetközi jogvédő szervezetekkel, az alapvető jogok biztosával, valamint a nemzeti megelőző mechanizmus szervezetével vagy munkatársával és a védővel való levelezése tartalmilag nem ellenőrizhető. Ha alapos indok merül fel arra, hogy az elítélt részére érkező vagy az általa küldött levelek nem a borítékban megjelölt hatóságtól, nemzetközi szervezettől vagy a védőtől származnak, vagy nem a címzetteknek szólnak, továbbá ha a biztonsági ellenőrzés eredményeként alaposan feltehető, hogy a zárt borítékban érkezett vagy zárt borítékban továbbítandó levélben tiltott tárgy vagy anyag került elhelyezésre, a levelet az elítélt jelenlétében – jegyzőkönyv egyidejű felvétele mellett – kell felbontani. Az ellenőrzés kizárólag a feladó azonosítására, illetve a tiltott tárgy vagy anyag jelenlétének ellenőrzésére korlátozódhat. E rendelkezés alkalmazásában az elítélt részére érkező levelek esetén nem tekinthető tiltott tárgynak az elektronikus adathordozón továbbított irat.
 
 (5) Ha a bv. intézet az általa tartalmilag ellenőrizhető levél tekintetében megállapítja, hogy az a fogvatartás biztonságát veszélyeztető adatot, információt vagy tárgyat tartalmaz, a levél nem továbbítható, az elítéltnek nem kézbesíthető.
+
+(6) Az elítélt a házirendben meghatározottak szerint a bv. intézet által létrehozott elektronikus levelezési címen is levelezhet. Az elektronikus levélhez dokumentum is csatolható. Az elektronikus levelezés informatikai alkalmazással is ellenőrizhető.
 
 ### Telefonbeszélgetés
 
@@ -3442,11 +3483,11 @@ miatt kiszabott fegyelmi fenyítés.
 
 177. § (1) Az elítélt az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de havonta legalább egyszer, alkalmanként legalább egy, de legfeljebb két órában, egyidejűleg legfeljebb négy fő látogatót fogadhat. Az elítélt vagy a kapcsolattartó kérésére a látogatási idő legfeljebb harminc perccel meghosszabbítható.
 
-(1a) Ha az elítéltnek kiskorú gyermeke van – kivéve, ha a bíróság a gyermekkel való kapcsolattartástól eltiltotta vagy az elítélt látogatót csak biztonsági fülkében vagy rácson keresztül fogadhat – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de legalább félévente egy alkalommal, legalább egy, de legfeljebb két órában családi beszélőn fogadhatja kiskorú gyermekeit egy felnőtt kíséretével. A családi beszélő a látogatófogadás alkalmába beszámít.
+(1a) Ha az elítéltnek kiskorú gyermeke van – kivéve, ha a bíróság a gyermekkel való kapcsolattartástól eltiltotta vagy az elítélt látogatót csak biztonsági beszélőfülkében fogadhat – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de legalább félévente egy alkalommal, legalább egy, de legfeljebb két órában családi beszélőn fogadhatja kiskorú gyermekeit egy felnőtt kíséretével. A családi beszélő a látogatófogadás alkalmába beszámít.
 
 (2) Az elítélt és a látogató beszélgetése ellenőrizhető, amelynek lehetőségéről az elítéltet és a látogatót tájékoztatni kell.
 
-(3) Ha a bv. intézet biztonsága indokolja, a bv. intézet parancsnoka elrendelheti, hogy az elítélt biztonsági beszélő fülkében, vagy rácson keresztül beszélhet a látogatóval.
+(3) Ha a bv. intézet biztonsága indokolja, a bv. intézet parancsnoka elrendelheti, hogy az elítélt biztonsági beszélőfülkében beszélhet a látogatóval.
 
 (4) A látogatásból ki kell zárni azt, akit az ügyészség vagy a bíróság a folyamatban lévő büntetőeljárás eredményessége érdekében attól eltiltott, illetve azt, akinek a magatartása a bv. intézet, valamint a fogvatartás biztonságára veszélyt jelent.
 
@@ -6238,7 +6279,7 @@ haladéktalanul határoz.
 
 - a) fogvatartását őrzéssel és felügyelettel kell biztosítani,
 - b) engedélyezhető, hogy a fogva tartó intézet kijelölt területén felügyelet nélkül mozogjon, ez esetben zárkáját nappal nyitva lehet tartani,
-- c) részére engedélyezhető, hogy látogatóját az erre kijelölt helyiségben alkalmanként legalább hatvan perc, de legfeljebb kilencven perc időtartamban fogadja,
+- c) részére engedélyezhető, hogy havonta három alkalommal látogatóját az erre kijelölt helyiségben alkalmanként legalább hatvan perc, de legfeljebb kilencven perc időtartamban fogadja,
 - d) részére – a rendelkezési jogkör gyakorlójának rendelkezéseit figyelembe véve – engedélyezhető, hogy részt vegyen a letartóztatottak csoportos szabadidős, sport- és kulturális programjain,
 - e) magánál tartható tárgyainak köre és mennyisége a fogva tartó intézet rendjének megtartásával és biztonságának megőrzésével bővíthető,
 - f) saját ruháját viselheti.
@@ -6247,10 +6288,12 @@ haladéktalanul határoz.
 
 - a) fogvatartását a fokozott őrzés szabályira is figyelemmel, őrzéssel kell biztosítani,
 - b) a fogva tartó intézet területén csak engedéllyel és felügyelet mellett mozoghat, zárkáját zárva kell tartani,
-- c) látogatójával biztonsági beszélőfülkében vagy biztonságtechnikai eszközökön keresztül hatvan perc időtartamban érintkezhet,
+- c) látogatójával az erre kijelölt helyiségben hatvan perc időtartamban érintkezhet,
 - d) részére – a rendelkezési jogkör gyakorlójának rendelkezéseit figyelembe véve – kivételesen engedélyezhető, hogy részt vegyen a letartóztatottak csoportos szabadidős, sport- és kulturális programjain,
 - e) magánál tartható tárgyainak köre és mennyisége a fogva tartó intézet rendjének megtartásával és biztonságának megőrzésével korlátozható,
 - f) saját ruházata viselésének joga a fogva tartó intézet területén biztonsági szempontból korlátozható.
+
+(7a) A fogvatartás biztonságának fenntartása érdekében az egyes rezsimeken belül a letartóztatott őrzésére, felügyeletére, ellenőrzésére, bv. intézeten belüli mozgására, látogatónak biztonsági beszélőfülkében történő fogadására, közös kulturális vagy sportrendezvényen, oktatásban vagy képzésben, vallási szertartáson való részvételére, előállítására vagy szállítására vonatkozó biztonsági előírások szigorúbbak lehetnek.
 
 (8) A fogva tartó intézet a letartóztatás lejártának idejét nyilvántartja.
 
@@ -6807,7 +6850,7 @@ felelős.
 
 (3) Az 1978. évi IV. törvény alkalmazásával a részben felfüggesztett szabadságvesztés mellett kiszabott foglalkozástól eltiltás, járművezetéstől eltiltás, kiutasítás, közügyektől eltiltás és kitiltás tartamának számítására a 296. §, a 298. § (1) és (4) bekezdése, a 299. § (1) bekezdése, a 301. § (1) bekezdése és a 304. § az irányadó.
 
-(4) Az 1978. évi IV. törvény alkalmazásával kiszabott szabadságvesztés esetén az enyhébb végrehajtási szabályok a 104. § (2) bekezdés c) pontja tekintetében akkor nem alkalmazhatók, ha az elítélt az 1978. évi IV. törvény 47. § (4) bekezdése alapján vagy a bíróság határozata folytán nem bocsátható feltételes szabadságra.
+(4)
 
 (5) A bíróság által 2013. július 1-jét megelőzően elrendelt pártfogó felügyelet végrehajtása során a Btk. 70. § (3) bekezdése alkalmazható.
 

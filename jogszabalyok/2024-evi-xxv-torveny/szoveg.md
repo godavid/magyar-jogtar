@@ -154,11 +154,22 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 59. §
 
-#### 18.
+#### 18. Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény módosítása
 
-#### 60. §
+60. § Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény 1. § (2) bekezdése a következő g) ponttal egészül ki:
 
-#### 61. §
+(Állami projektértékelői jogviszony létesíthető azzal, aki)
+
+„g) a Nemzeti Fejlesztési Központnál kormánytisztviselőként vagy munkavállalóként”
+
+(foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.)
+
+61. § Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény
+
+- a) 1. § (2) bekezdés e) pontjában a „személyként vagy” szövegrész helyébe a „személyként,” szöveg,
+- b) 1. § (2) bekezdés f) pontjában a „személyként” szövegrész helyébe a „személyként, vagy” szöveg
+
+lép.
 
 #### 19. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
 
@@ -183,7 +194,7 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 - a)
 - b)
 - c)
-- d)
+- d) 239. § (2) bekezdésében a „miniszter, a” szövegrész helyébe a „miniszter, a Nemzeti Fejlesztési Központ helyettes államtitkára lemondása esetén az európai uniós források felhasználásáért felelős miniszter, a” szöveg,
 - e)
 
 lép.
@@ -210,11 +221,20 @@ lép.
 
 #### 78. §
 
-#### 23.
+#### 23. Az egyes központi kormányzati igazgatási szerveket érintő törvénymódosításokról szóló 2023. évi LXXXVI. törvény módosítása
 
-#### 79. §
+79. § Az egyes központi kormányzati igazgatási szerveket érintő törvénymódosításokról szóló 2023. évi LXXXVI. törvény 2. §-a következő szöveggel lép hatályba:
 
-#### 80. §
+„2. § Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény (a továbbiakban: 2016. évi XXXIII. törvény) 2. § 4a. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„4a. munkáltató: a Nemzeti Fejlesztési Központ;” ”
+
+80. § Nem lép hatályba az egyes központi kormányzati igazgatási szerveket érintő törvénymódosításokról szóló 2023. évi LXXXVI. törvény
+
+- a) 1. §-a,
+- b) 12. § 13. pontja.
 
 #### 24. A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény módosítása
 
