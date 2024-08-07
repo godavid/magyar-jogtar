@@ -10,7 +10,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 1. § (1) E törvény hatálya a 4. § szerinti eljáró hatóságra, a 4/A. § szerinti segítségnyújtó központra, a 41. § szerinti előzetes ellenőrzést végző eljáró hatóságra, valamint állampolgárságra való tekintet nélkül, azon természetes személyekre terjed ki, akik külföldön vagy Magyarországon működő külföldi közoktatási vagy felsőoktatási intézményben, vagy képzést folytató más intézményben (a továbbiakban: külföldi oktatási intézményben) bizonyítványt vagy oklevelet szereztek.
 
-(1a) E törvény hatálya a XI/B. Fejezetben foglaltak alkalmazása tekintetében kiterjed mindazon természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervekre és szervezetekre, amelyek szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó törvényi és egyéb jogszabályi rendelkezések, közjogi szervezetszabályozó eszközök (a továbbiakban együtt: rendelkezések) előkészítésében részt vesznek.
+(1a) E törvény hatálya a XI/B. Fejezetben foglaltak alkalmazása tekintetében kiterjed mindazon természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervekre és szervezetekre, amelyek szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó törvényi és egyéb jogszabályi rendelkezések, közjogi szervezetszabályozó eszközök, valamint a szakmai szervezetek vagy testületek által hozott, szakmagyakorlást korlátozó rendelkezések (e fejezet alkalmazásában a továbbiakban együtt: rendelkezések) előkészítésében részt vesznek.
 
 (2) E törvényt kell alkalmazni valamely külföldi állam joga szerint kiállított bizonyítványnak és oklevélnek a Magyarországon megszerezhető bizonyítvánnyal és oklevéllel egyenértékűként történő elismerésére és honosítására, valamint a résztanulmányok beszámítására. E törvényt kell alkalmazni akkor is, ha az elismerés a szakmai gyakorlaton alapul.
 
@@ -949,6 +949,14 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 
 (6) Amennyiben az (1)–(5) bekezdésben szereplő rendelkezések az egészségügyi szakmák szabályozását érintik és betegbiztonsági vonatkozással bírnak, a rendelkezések előkészítője figyelembe veszi az emberi egészség magas szintű védelmének célját.
 
+60/O. § (1) Amennyiben a rendelkezések előkészítője nem a Kormány vagy a Kormány tagja, a rendelkezések előkészítője a rendelkezések tervezetét és az arányossági értékelést megküldi a kormányrendeletben kijelölt miniszter részére, aki a rendelkezések tárgya szerint feladatkörrel rendelkező miniszter bevonásával 30 napon belül megvizsgálja az arányossági értékelésnek az e fejezet rendelkezéseinek való megfelelését.
+
+(2) Az (1) bekezdés szerint kijelölt miniszter a vizsgálat eredményéről a rendelkezések előkészítőjét 15 napon belül tájékoztatja és azt az általa vezetett minisztérium honlapján közzéteszi.
+
+(3) Amennyiben a rendelkezések tárgya szerint feladatkörrel rendelkező miniszter észleli, hogy az e fejezet hatálya alá tartozó rendelkezés tervezetét vagy az arányossági értékelést a rendelkezés előkészítője nem küldte meg az (1) bekezdés szerint kijelölt miniszter részére, haladéktalanul kezdeményezi az (1) bekezdés szerint kijelölt miniszter eljárását. Az (1) bekezdés szerint kijelölt miniszter a rendelkezések tárgya szerint feladatkörrel rendelkező miniszterrel együttműködve megvizsgálja a rendelkezés tervezetének arányossági értékelését.
+
+(4) Az e fejezet hatálya alá tartozó rendelkezés kizárólag az e §-ban meghatározott vizsgálat befejezését követően alkotható meg.
+
 ### XII. Fejezet — TÁJÉKOZTATÁS
 
 61. § (1) A kérelmező vagy hozzájárulásával más személy a külföldön megszerzett bizonyítványának vagy oklevélének tartalmáról a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságtól tájékoztatást kérhet.
@@ -1009,6 +1017,8 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 - c) határozza meg az elismerési és honosítási eljárásban a kérelemmel benyújtandó dokumentumok körét, e dokumentumok hiteles fordítására és hiteles másolatára vonatkozó szabályokat, a külföldön kiállított okiratok felhasználására, a nemzetközi jogsegélyre vonatkozó szabályokat,
 - d) közzétegye az 53/A. § (1) bekezdése szerinti szakmai tevékenységek felsorolását, kijelölje azt a hatóságot, amelynek feladatkörébe tartozik a Magyarországon folytatott, mérgező termékek kereskedelmére, forgalmazására vagy felhasználására vonatkozó szakmai gyakorlatról vagy jogosultságról szóló igazolás kiállítása, megállapítsa a mérgező termékekkel kapcsolatos szakmai tevékenységek szakmai gyakorlaton alapuló elismerésének részletes eljárási szabályait.
 - e) állapítsa meg a 6. § (4) bekezdésében meghatározott foglalkoztatók érdekkörében felmerült elismerési ügyekre az e törvényben foglaltaktól eltérő rendelkezéseket, valamint az általuk foglalkoztatottak tevékenységére vonatkozó szabályokat.
+- f) jelölje ki a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó új rendelkezések bevezetését, illetve a meglévő rendelkezések módosítását megelőzően elvégzendő arányossági értékelés ellenőrzésére jogosult minisztert,
+- g) jelölje ki a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését, valamint a 4/A. §-ban meghatározott segítségnyújtó központ kapcsolattartási adatait tartalmazó jegyzék közzétételéért felelős minisztert.
 
 (2) Felhatalmazást kap a felsőoktatásért felelős miniszter, hogy rendeletben hirdesse ki
 
@@ -1032,7 +1042,7 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 
 (6)
 
-(7) Az iparügyekért felelős miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak interneten való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi az iparügyekért felelős miniszternél a jegyzék módosítását. A miniszter tájékoztatja az Európai Bizottságot a hatáskörébe tartozó szabályozott szakmákról, a szabályozott szakmákhoz tartozó szabályozott szakmai tevékenységekről, a szakma szabályozottságának indokairól, valamint az előzetes ellenőrzés alá tartozó szakmákról és ennek indokairól.
+(7) A Kormány által rendeletben kijelölt miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak a kormányzati portálon való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi a Kormány által rendeletben kijelölt miniszternél a jegyzék módosítását. A miniszter tájékoztatja az Európai Bizottságot a hatáskörébe tartozó szabályozott szakmákról, a szabályozott szakmákhoz tartozó szabályozott szakmai tevékenységekről, a szakma szabályozottságának indokairól, valamint az előzetes ellenőrzés alá tartozó szakmákról és ennek indokairól.
 
 (8) Az eljáró hatóság a honlapján közzéteszi és naprakészen tartja a határon átnyúló szolgáltatásnyújtó bejelentésére és előzetes ellenőrzésére, a szakmai képesítések elismerésére, a kérelemmel együtt benyújtandó okiratokra, a nyelvismeretre, az eljárás határidejére, az eljárás díjára, valamint a jogorvoslatra vonatkozó részletes tájékoztatását.
 
