@@ -61,33 +61,13 @@ lép.
 
 #### 7. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
-19. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Elismerési tv.) 1. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) E törvény hatálya a XI/B. Fejezetben foglaltak alkalmazása tekintetében kiterjed mindazon természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervekre és szervezetekre, amelyek szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó törvényi és egyéb jogszabályi rendelkezések, közjogi szervezetszabályozó eszközök, valamint a szakmai szervezetek vagy testületek által hozott, szakmagyakorlást korlátozó rendelkezések (e fejezet alkalmazásában a továbbiakban együtt: rendelkezések) előkészítésében részt vesznek.”
+#### 19. §
 
 #### 20. §
 
-21. § Az Elismerési tv. XI/B. Fejezete a következő 60/O. §-sal egészül ki:
+#### 21. §
 
-„60/O. § (1) Amennyiben a rendelkezések előkészítője nem a Kormány vagy a Kormány tagja, a rendelkezések előkészítője a rendelkezések tervezetét és az arányossági értékelést megküldi a kormányrendeletben kijelölt miniszter részére, aki a rendelkezések tárgya szerint feladatkörrel rendelkező miniszter bevonásával 30 napon belül megvizsgálja az arányossági értékelésnek az e fejezet rendelkezéseinek való megfelelését.
-
-(2) Az (1) bekezdés szerint kijelölt miniszter a vizsgálat eredményéről a rendelkezések előkészítőjét 15 napon belül tájékoztatja és azt az általa vezetett minisztérium honlapján közzéteszi.
-
-(3) Amennyiben a rendelkezések tárgya szerint feladatkörrel rendelkező miniszter észleli, hogy az e fejezet hatálya alá tartozó rendelkezés tervezetét vagy az arányossági értékelést a rendelkezés előkészítője nem küldte meg az (1) bekezdés szerint kijelölt miniszter részére, haladéktalanul kezdeményezi az (1) bekezdés szerint kijelölt miniszter eljárását. Az (1) bekezdés szerint kijelölt miniszter a rendelkezések tárgya szerint feladatkörrel rendelkező miniszterrel együttműködve megvizsgálja a rendelkezés tervezetének arányossági értékelését.
-
-(4) Az e fejezet hatálya alá tartozó rendelkezés kizárólag az e §-ban meghatározott vizsgálat befejezését követően alkotható meg.”
-
-22. § (1) Az Elismerési tv. 67. § (1) bekezdése a következő f) és g) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben)
-
-„f) jelölje ki a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó új rendelkezések bevezetését, illetve a meglévő rendelkezések módosítását megelőzően elvégzendő arányossági értékelés ellenőrzésére jogosult minisztert,
-
-g) jelölje ki a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését, valamint a 4/A. §-ban meghatározott segítségnyújtó központ kapcsolattartási adatait tartalmazó jegyzék közzétételéért felelős minisztert.”
-
-(2) Az Elismerési tv. 67. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A Kormány által rendeletben kijelölt miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak a kormányzati portálon való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi a Kormány által rendeletben kijelölt miniszternél a jegyzék módosítását. A miniszter tájékoztatja az Európai Bizottságot a hatáskörébe tartozó szabályozott szakmákról, a szabályozott szakmákhoz tartozó szabályozott szakmai tevékenységekről, a szakma szabályozottságának indokairól, valamint az előzetes ellenőrzés alá tartozó szakmákról és ennek indokairól.”
+#### 22. §
 
 #### 23. §
 
