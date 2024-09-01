@@ -746,7 +746,7 @@ Nem lehet meghatalmazott:
 
 (2) A meghatalmazást – a (3) és (4) bekezdésben foglalt kivétellel – közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
 
-(3) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) a meghatalmazásra vonatkozó jognyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban történő rögzítésével érvényes.
+(3) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) a meghatalmazásra vonatkozó jognyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban történő rögzítésével érvényes.
 
 (4) Az ügyvéd és a kamarai jogtanácsos meghatalmazásának igazolásáról jogszabály eltérően rendelkezhet.
 
@@ -3769,12 +3769,9 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 - b) a közokirattal tanúsított adatok és tények valóságát,
 - c) a közokiratban foglalt nyilatkozat megtételét, annak idejét és módját.
 
-(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek az E-ügyintézési tv. szerinti szerepkörét, ha a szerepkört
+(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek a Dáptv. szerinti szerepkörét, ha a szerepkört a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta.
 
-- a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta vagy
-- b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
-
-(3b) Elektronikus közokirat esetében jogszabály a (3a) bekezdéstől eltérő módon is lehetővé teheti az E-ügyintézési tv. szerinti szerepkör teljes bizonyító erejű igazolását.
+(3b) Elektronikus közokirat esetében jogszabály a (3a) bekezdéstől eltérő módon is lehetővé teheti a Dáptv. szerinti szerepkör teljes bizonyító erejű igazolását.
 
 (4) Elektronikus közokirat kiállításához az is szükséges, hogy a közokirat kiállítására jogosult az elektronikus okiraton – ha jogszabály eltérően nem rendelkezik – minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírást vagy bélyegzőt, és amennyiben jogszabály így rendelkezik időbélyegzőt helyezzen el.
 
@@ -3784,7 +3781,7 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 
 #### 324. § [A közokiratról készült másolat bizonyító ereje]
 
-(1) Az eredeti közokiratéval azonos bizonyító ereje van a közokiratról készített másolatnak – a másolatkészítés technológiájától és adathordozótól függetlenül –, ha a másolatot közokirat kiállítására jogosult vagy megőrzésére hivatott szerv, továbbá ha ezek ellenőrzése mellett más személy vagy szervezet készítette, valamint, ha azt az E-ügyintézési tv. szerinti hiteles másolatkészítés központi elektronikus ügyintézési szolgáltatás szabályai szerint készítették.
+(1) Az eredeti közokiratéval azonos bizonyító ereje van a közokiratról készített másolatnak – a másolatkészítés technológiájától és adathordozótól függetlenül –, ha a másolatot közokirat kiállítására jogosult vagy megőrzésére hivatott szerv, továbbá ha ezek ellenőrzése mellett más személy vagy szervezet készítette, valamint, ha azt a Dáptv. szerinti hiteles másolatkészítés központi elektronikus ügyintézési szolgáltatás szabályai szerint készítették.
 
 (2) Ha közokiratnak nem minősülő okiratról készül közokiratba foglalt másolat, a közokirat csupán azt bizonyítja, hogy annak tartalma a közokiratnak nem minősülő eredeti okiratéval megegyezik.
 
@@ -3800,16 +3797,14 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 - f) az elektronikus okiraton az aláíró a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását vagy bélyegzőjét helyezte el, és – amennyiben jogszabály úgy rendelkezik – azon időbélyegzőt helyez el,
 - g) az elektronikus okiratot az aláíró a Kormány rendeletében meghatározott azonosításra visszavezetett dokumentumhitelesítés szolgáltatással hitelesíti, vagy
 - h) olyan, törvényben vagy kormányrendeletben meghatározott szolgáltatás, vagy zárt rendszerben alkalmazott, tanúsított bizalmi szolgáltatás keretében jött létre, ahol a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adattal együtt vagy az alapján hitelesen igazolja; továbbá a szolgáltató az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzővel és minősített időbélyegzővel látja el.
-- i) – törvény eltérő rendelkezése hiányában – a kiállító szóbeli nyilatkozatát az E-ügyintézési tv. szerinti elektronikus ügyintézést biztosító szerv vagy a szolgáltatás használatára jogosult egyéb szerv a Kormány rendeletében meghatározottak szerint mesterséges intelligenciával támogatott szolgáltatás szerint írásbeli formátumba alakította, az írásbeli formátumba alakított nyilatkozat tervezetét a kiállító jóváhagyta, és dokumentum a Kormány rendeletében meghatározottak szerint hitelesítve lett.
+- i) – törvény eltérő rendelkezése hiányában – a kiállító szóbeli nyilatkozatát a Dáptv. szerinti elektronikus ügyintézést biztosító szerv vagy a szolgáltatás használatára jogosult egyéb szerv a Kormány rendeletében meghatározottak szerint mesterséges intelligenciával támogatott szolgáltatás szerint írásbeli formátumba alakította, az írásbeli formátumba alakított nyilatkozat tervezetét a kiállító jóváhagyta, és dokumentum a Kormány rendeletében meghatározottak szerint hitelesítve lett.
+- j) a dokumentumot Dáptv. szerinti digitális szolgáltatás nyújtása során a digitális állampolgárság szolgáltató hitelesítette.
 
 (2) Ha az okirat aláírója nem tud olvasni, illetve nem érti azt a nyelvet, amelyen az okirat készült, csak akkor jön létre teljes bizonyító erejű magánokirat, ha magából az okiratból kitűnik, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy az okirat aláírójának megmagyarázta.
 
 (3) A teljes bizonyító erejű magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja, hogy az okirat aláírója az abban foglalt nyilatkozatot megtette, illetve elfogadta vagy magára kötelezőnek ismerte el.
 
-(3a) Az (1) bekezdés f) és g) pontja szerinti magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja a nyilatkozat megtétele idejében a nyilatkozatot tevő személynek az E-ügyintézési tv. szerinti szerepkörét, ha a szerepkört
-
-- a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta vagy
-- b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
+(3a) Az (1) bekezdés f) pontja szerinti magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja a nyilatkozat megtétele idejében a nyilatkozatot tevő személynek a Dáptv. szerinti szerepkörét, ha a szerepkört a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta.
 
 (4) A teljes bizonyító erejű magánokirat valódiságát csak akkor kell bizonyítani, ha azt az ellenfél kétségbe vonja, vagy a valódiság bizonyítását a bíróság szükségesnek találja.
 
@@ -3822,7 +3817,7 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 (8) Az elektronikus okirat esetén az aláírt vagy bélyegzővel ellátott adatokat az ellenkező bizonyításáig meg nem hamisítottnak kell tekinteni a tárolást végző szolgáltató igazolása alapján, ha a szolgáltató
 
 - a) a tárolásra átvételkor meggyőződött az elektronikus dokumentum hitelesítésének érvényességéről,
-- b) a tárolást a Kormány rendeletében meghatározott feltételeknek megfelelő, az E-ügyintézési tv. szerinti minősített archiválási szolgáltatás vagy elektronikus dokumentumtárolás központi elektronikus ügyintézési szolgáltatás keretében végzi, és
+- b) a tárolást a Kormány rendeletében meghatározott feltételeknek megfelelő, a Dáptv. szerinti minősített archiválási szolgáltatás vagy elektronikus dokumentumtárolás központi elektronikus ügyintézési szolgáltatás keretében végzi, és
 - c) a Kormány rendeletében meghatározottak szerint igazolja az elektronikus okirat hitelességét.
 
 #### 326. § [Az egyszerű magánokirat]
@@ -6411,7 +6406,7 @@ E törvény rendelkezéseit az elektronikus kapcsolattartás során az e fejezet
 
 #### 605. § [Választható elektronikus kapcsolattartás]
 
-(1) A perben az elektronikus kapcsolattartásra nem köteles fél vagy a jogi képviselőnek nem minősülő képviselője – az (5) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt és ezek mellékletét, valamint okiratot (e fejezetben a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja, az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon.
+(1) A perben az elektronikus kapcsolattartásra nem köteles fél vagy a jogi képviselőnek nem minősülő képviselője – az (5) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt és ezek mellékletét, valamint okiratot (e fejezetben a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja, a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon.
 
 (2) Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál. A beadvány elektronikus úton történő benyújtását az (1) bekezdés szerinti elektronikus út vállalásának kell tekinteni.
 
@@ -6435,7 +6430,7 @@ A jogi képviselő nélkül eljáró jogutód félre nem vonatkozik az, hogy a j
 
 #### 608. § [Kötelező elektronikus kapcsolattartás]
 
-(1) Az E-ügyintézési tv. alapján elektronikus úton történő kapcsolattartásra kötelezett minden beadványt kizárólag elektronikusan – az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon – nyújthat be a bírósághoz, és a bíróság is elektronikusan kézbesít a részére, kivéve a tárgyaláson csatolt vagy kézbesíthető iratot, illetve határozatot.
+(1) A Dáptv. alapján elektronikus úton történő kapcsolattartásra kötelezett minden beadványt kizárólag elektronikusan – a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon – nyújthat be a bírósághoz, és a bíróság is elektronikusan kézbesít a részére, kivéve a tárgyaláson csatolt vagy kézbesíthető iratot, illetve határozatot.
 
 (2) E fejezet alkalmazása szempontjából jogi képviselőnek kell tekinteni a 75. § (1) bekezdésében meghatározott személyeket, valamint az ügyvédjelöltet és a jogi előadót, ha e törvény szerint a perben eljárhat.
 
@@ -6443,9 +6438,9 @@ A jogi képviselő nélkül eljáró jogutód félre nem vonatkozik az, hogy a j
 
 #### 609. § [Elektronikus kapcsolattartás a szakértővel]
 
-(1) Az E-ügyintézési tv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett szakértő az igazságügyi szakértői névjegyzékbe történő bejelentéssel, az igazságügyi szakértői névjegyzékben nem szereplő – az E-ügyintézési tv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett – szakértői tevékenységre jogszabályban feljogosított állami szerv, intézmény vagy szervezet (e fejezetben a továbbiakban együtt: szakértői tevékenységet végző szerv) az Országos Bírósági Hivatal részére történő bejelentéssel vállalhatja az elektronikus kapcsolattartást.
+(1) A Dáptv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett szakértő az igazságügyi szakértői névjegyzékbe történő bejelentéssel, az igazságügyi szakértői névjegyzékben nem szereplő – a Dáptv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett – szakértői tevékenységre jogszabályban feljogosított állami szerv, intézmény vagy szervezet (e fejezetben a továbbiakban együtt: szakértői tevékenységet végző szerv) az Országos Bírósági Hivatal részére történő bejelentéssel vállalhatja az elektronikus kapcsolattartást.
 
-(2) Ha a szakértő és a szakértői tevékenységet végző szerv az E-ügyintézési tv. alapján elektronikus úton történő kapcsolattartásra köteles vagy azt az (1) bekezdés szerint vállalja – a (3) és (4) bekezdésben foglaltak kivételével – a szakvéleményét és egyéb beadványait az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, elektronikusan kézbesíti a bíróságnak és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére.
+(2) Ha a szakértő és a szakértői tevékenységet végző szerv a Dáptv. alapján elektronikus úton történő kapcsolattartásra köteles vagy azt az (1) bekezdés szerint vállalja – a (3) és (4) bekezdésben foglaltak kivételével – a szakvéleményét és egyéb beadványait a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon, elektronikusan kézbesíti a bíróságnak és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére.
 
 (3) A bíróság a szakértő, illetve a szakértői tevékenységet végző szerv indokolt kérelmére – a 613. § (3) bekezdésében meghatározott okból, kivételesen – elektronikus kapcsolattartás esetén is engedélyt adhat a szakvélemény vagy egy részének papír alapú benyújtására.
 
@@ -6510,7 +6505,7 @@ A törvényi, illetve a bíróság által napokban és munkanapokban megállapí
 (1) Ha az elektronikus úton kapcsolatot tartó beadványát
 
 - a) nem elektronikus úton, vagy
-- b) elektronikus úton, de nem az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon
+- b) elektronikus úton, de nem a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon
 
 terjeszti elő – ha e törvény másként nem rendelkezik –, a bíróság a keresetlevelet, a bírósági meghagyással szembeni ellentmondást,, a fellebbezést, a felülvizsgálati kérelmet és a perújítási kérelmet visszautasítja, az egyéb beadványban foglalt nyilatkozat pedig hatálytalan.
 

@@ -617,7 +617,7 @@ jelöli ki.
 
 53. § (1) Az eljárás alá vont személy érdekében a szabálysértési eljárás bármely szakaszában törvényes képviselője vagy az általa, törvényes képviselője vagy nagykorú hozzátartozója által írásban meghatalmazott nagykorú személy (a továbbiakban együtt: az eljárás alá vont személy képviselője) járhat el.
 
-(1a) A szabálysértési eljárásban az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) az eljárás alá vont személy képviselőjének meghatalmazására vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás az eljáró bíróságnak, illetve szabálysértési hatóságnak történő bejelentéstől hatályos.
+(1a) A szabálysértési eljárásban a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) az eljárás alá vont személy képviselőjének meghatalmazására vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás az eljáró bíróságnak, illetve szabálysértési hatóságnak történő bejelentéstől hatályos.
 
 (2) Nem járhat el az eljárás alá vont személy képviselőjeként az, aki az ügyben, mint eljárás alá vont személy, sértett, tanú vesz vagy vett részt.
 
@@ -1330,7 +1330,9 @@ indul meg.
 - b) postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint,
 - c) szabálysértési jogsegély keretében,
 - d) az (5) bekezdésben meghatározott esetben hirdetményi úton,
-- e) elektronikus úton az E-ügyintézési törvény szerinti hivatalos elérhetőségre, illetve biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történhet.
+- e) elektronikus úton a Dáptv. szerinti hivatalos elérhetőségre
+
+történhet.
 
 (2) Joghatás csak a szabályszerű kézbesítéshez kapcsolódik. A kézbesítés akkor szabályszerű, ha annak megtörténtét a jogszabályban jogosultként megjelölt személy aláírásával ellátott tértivevény, illetve jegyzőkönyv vagy határozatpéldány igazolja. A kézbesítés akkor is szabályszerű, ha az arra jogosult a jegyzőkönyv vagy határozatpéldány aláírását megtagadja és a szabálysértési hatóság, bíróság ennek tényét az iratra feljegyzi.
 
@@ -3503,7 +3505,7 @@ szabálysértést követ el.
 
 #### 161. Személyazonosság igazolásával kapcsolatos kötelességek megszegése
 
-207. § (1) Aki személyazonosító igazolványra vonatkozó jogszabályban előírt kötelezettségét megszegi, az igazoltatásra feljogosított személy felszólítására személyi adatainak bemondását vagy a személyazonosság igazolására alkalmas hatósági igazolvány átadását megtagadja, vagy az említett adatokra vonatkozólag az intézkedés során valótlant állít, szabálysértést követ el.
+207. § (1) Aki személyazonosító igazolványra vonatkozó jogszabályban előírt kötelezettségét megszegi, az igazoltatásra feljogosított személy felszólítására személyi adatainak bemondását, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott digitális okmány vagy adattároló kód hozzáférhetővé tételét vagy a személyazonosság igazolására alkalmas hatósági igazolvány átadását megtagadja, vagy az említett adatokra vonatkozólag az intézkedés során valótlant állít, szabálysértést követ el.
 
 (2)
 
@@ -4057,7 +4059,7 @@ részletes szabályait rendeletben szabályozza.
 
 (8) A 141. § (2d)–(2h) bekezdése szerinti feladatok ellátása érdekében az általános szabálysértési hatóság a jogerősen kiszabott, de 2017. január 1-jéig be nem fizetett pénzbírságokról, rendbírságokról, megállapított szabálysértési költségekről és helyszíni bírságokról a 141. § (2f) bekezdésében meghatározott adatok elektronikus úton történő biztosításával, az egységesen használt ügyfeldolgozást támogató rendszer adatainak feltöltésével, jóváhagyásával, az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve által meghatározott módon, az egyes belügyi tárgyú törvények módosításáról szóló 2016. évi CXVI. törvény hatálybalépését követő 30 napon belül tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szerv központi szervét.
 
-(9) Ha az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+(9)
 
 (10) A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvénnyel megállapított 38. § (1) bekezdése alapján a fővárosi, megyei kormányhivatal járási (fővárosi kerületi) hivatalának állományából az általános szabálysértési hatóság személyi állományába kerülő állomány alapilletménye a jogviszonyváltáskor nem lehet kevesebb, mint a jogviszonyváltást megelőző napon a járási (fővárosi kerületi) hivatalnál érvényes illetménye. E tekintetben a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 289. § (4) bekezdésétől eltérően a rendvédelmi igazgatási alkalmazott illetménye meghaladhatja a munkakör besorolása szerinti fizetési fokozathoz tartozó felső határt és az ehhez szükséges különbözetet korrekciós díjként kell folyósítani. A korrekciós díj a Hszt. 289/A. § (3) bekezdésének alkalmazása során nem változtatható meg.
 

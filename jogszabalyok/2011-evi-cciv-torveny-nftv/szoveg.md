@@ -1143,7 +1143,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 (3)
 
-(4) A magyar állami (rész)ösztöndíjban részesített személy az ezen alcímben meghatározott jogainak érvényesítése és kötelezettségeinek teljesítése során a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervvel az elektronikus ügyintézés és bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 9. § (3) bekezdése alapján elektronikus úton tart kapcsolatot.
+(4) A magyar állami (rész)ösztöndíjban részesített személy az ezen alcímben meghatározott jogainak érvényesítése és kötelezettségeinek teljesítése során a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervvel a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 19. § (4) bekezdése alapján elektronikus úton tart kapcsolatot.
 
 #### 48/F. §
 
@@ -1995,7 +1995,7 @@ egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szin
 
 (7) A külföldi állampolgárok magyarországi, a magyar állampolgárok külföldi tanulmányai támogatásának rendjét a Kormány határozza meg, ennek során az előkészítő tanulmányokat folytató személyek tekintetében az e törvényben meghatározott támogatási időt – legfeljebb két félévvel – meghosszabbíthatja.
 
-80/A. § (1) A felsőoktatási intézmény a technikusképzésben részt vevő tanulóval önköltséges előzetes hallgatói jogviszonyt hozhat létre.
+80/A. § (1) A felsőoktatási intézmény az okleveles technikusképzésben részt vevő tanulóval önköltséges előzetes hallgatói jogviszonyt hozhat létre.
 
 (2) Az előzetes hallgatói jogviszonyban álló személy jogosult a felsőoktatási intézményben valamely szak részét képező résztanulmányokat és más tanulmányokat folytatni és a központi felvételi eljáráson kívül a felsőoktatási intézménnyel hallgatói jogviszonyt létesíteni.
 

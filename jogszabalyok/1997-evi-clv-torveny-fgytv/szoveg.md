@@ -150,6 +150,8 @@ törekszik a hulladékképződés megelőzésére.
 
 (6) A játékszoftver gyártója abban az esetben köteles az (5) bekezdésben foglalt kötelezettségnek eleget tenni, ha előzőleg nem csatlakozott az Egységes Európai Játékinformációs Rendszerhez (Pan European Game Information – PEGI) és nem alkalmazza a PEGI által megállapított, korhatár-besorolásra vonatkozó előírásokat. Ha az (5) bekezdés szerinti kötelezettséget – az e bekezdésben foglalt kivétellel – a gyártó nem teljesíti, a játékszoftver forgalmazója a szoftvert az (5) bekezdésben meghatározott szöveg feltüntetésével hozhatja forgalomba.
 
+(7) A zajszint kibocsátására alkalmas, szórakoztató célú elektronikus eszközhöz csatlakoztatható fej- vagy fülhallgató értékesítése során, a forgalmazó köteles a fej- vagy fülhallgató átadásával egyidejűleg az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott hallásvédelmi tájékoztatót mellékelni.
+
 ### IV/B. Fejezet — FOGYASZTÓI CSOPORT SZERVEZÉSÉNEK TILALMA
 
 16/B. § (1) Tilos fogyasztói csoportot létrehozni.
@@ -567,11 +569,11 @@ foglalt személyes adatait.
 
 (12) A (11) bekezdésben meghatározott együttműködési kötelezettségét, valamint a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a békéltető testület székhelye szerint illetékes fogyasztóvédelmi hatóságot. A Pest vármegye területén illetékes békéltető testület vonatkozásában a Pest vármegye területén illetékes fogyasztóvédelmi hatóságot kell értesíteni.
 
-29/A. § (1) A békéltető testület eljárása során az iratokat a természetes személynek, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerint gazdálkodó szervezetnek nem minősülő fogyasztónak – a (2) és (3) bekezdésben foglalt kivétellel – postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
+29/A. § (1) A békéltető testület eljárása során az iratokat a természetes személynek, valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerint gazdálkodó szervezetnek nem minősülő fogyasztónak – a (2) és (3) bekezdésben foglalt kivétellel – postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
 
-(2) Elektronikus kapcsolattartásra kötelezett gazdálkodó szervezetek, és az E-ügyintézési törvény szerinti elektronikus ügyintézésre köteles, a 2. § 10. pontja szerint fogyasztónak minősülő szervezetek részére az iratokat az E-ügyintézési törvényben meghatározott elektronikus úton kell kézbesíteni.
+(2) Elektronikus kapcsolattartásra kötelezett gazdálkodó szervezetek, és a Dáptv. szerinti elektronikus ügyintézésre köteles, a 2. § 10. pontja szerint fogyasztónak minősülő szervezetek részére az iratokat a Dáptv.-ben meghatározott elektronikus úton kell kézbesíteni.
 
-(3) Az elektronikus kapcsolattartásra nem kötelezett természetes személyt, valamint az E-ügyintézési törvény szerint gazdálkodó szervezetnek nem minősülő fogyasztót megilleti az elektronikus kapcsolattartás választásának joga. Erre irányuló kérelmét az eljárás során bármikor előterjesztheti.
+(3) Az elektronikus kapcsolattartásra nem kötelezett természetes személyt, valamint a Dáptv. szerint gazdálkodó szervezetnek nem minősülő fogyasztót megilleti az elektronikus kapcsolattartás választásának joga. Erre irányuló kérelmét az eljárás során bármikor előterjesztheti.
 
 (4) A postai szolgáltató útján megküldött iratokat a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta. Ha az irat a békéltető testülethez „nem kereste” jelzéssel érkezett vissza, az iratot a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
@@ -1374,6 +1376,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 (2) Felhatalmazást kap a Kormány, hogy a polgári célú pirotechnikai termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőség-értékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározza.
 
 (3) Felhatalmazást kap a Kormány, hogy meghatározza a pótalkatrészek kötelező forgalmazására alkalmazandó követelményeket, a gyártók által jogellenesen tervezett avulással kapcsolatos jogkövetkezményeket, a pótalkatrészek és a javítóhálózat biztosításával, a tájékoztatással kapcsolatos kötelezettségeket, a digitális és csatlakoztatott eszközök élettartamával, a szoftverek elavulásával kapcsolatos kötelezettségeket, valamint az áru megvásárlásával egyidejűleg szállított operációs rendszer és a szoftver frissítéseihez kapcsolódó szoftverek elavulása miatti kockázatok csökkentésének lehetséges módjait.
+
+(4) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a gyermekek és az ifjúság védelméért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben rendeletben szabályozza a 16/A. § (7) bekezdés szerinti hallásvédelmi tájékoztató tartalmára vonatkozó szabályokat.
 
 56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy rendeletben
 

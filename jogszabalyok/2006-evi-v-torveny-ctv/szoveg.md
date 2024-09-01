@@ -305,9 +305,9 @@ megismerhetők.
 
 15. § (1) A céginformációs szolgálat a cégjegyzékben szereplő fennálló vagy törölt adatok, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatainak a megismerését betekintéssel bárki számára ingyenesen és korlátozásmentesen biztosítja. A céginformációs szolgálat honlapján – a hitelezők védelme érdekében – biztosítja egyes cégjegyzékadatok ingyenesen történő megismerését.
 
-(1a) A céginformációs szolgálat a céget a cég adataiban bekövetkezett változásról a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségére megküldött, közokirati formában kiállított, elektronikus cégbizonyítvánnyal – ingyenesen – értesíti.
+(1a) A céginformációs szolgálat a céget a cég adataiban bekövetkezett változásról a cégnek a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti hivatalos elérhetőségére megküldött, közokirati formában kiállított, elektronikus cégbizonyítvánnyal – ingyenesen – értesíti.
 
-(1b) A céginformációs szolgálat a cég részére a cég E-ügyintézési tv. szerinti hivatalos elérhetőségére minden hónapban – ingyenesen – közokirati formában kiállított, elektronikus cégkivonatot küld.
+(1b) A céginformációs szolgálat a cég részére a cég Dáptv. szerinti hivatalos elérhetőségére minden hónapban – ingyenesen – közokirati formában kiállított, elektronikus cégkivonatot küld.
 
 (2) Az (1) bekezdésben nem említett céginformációért, valamint ha a kérelmező a céginformációt közokirat formájában kéri, a kérelmező a céginformációs szolgálat tevékenységének igénybevételéért – a szolgáltatás költségeivel összhangban álló – költségtérítést köteles fizetni.
 
@@ -345,7 +345,7 @@ megismerhetők.
 
 ### 3. CÍM — A beszámoló letétbe helyezése és közzététele
 
-18. § (1) A cégnek a számviteli törvény szerinti beszámolót az E-ügyintézési tv. szerinti hivatalos elérhetőségén keresztül kell a céginformációs szolgálat részére megküldeni; ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának. A beszámolóhoz – a cég, a beszámolót benyújtó természetes személy azonosíthatósága, valamint a benyújtás jogszerűségének igazolása érdekében – elektronikus űrlapot kell mellékelni; a céginformációs szolgálat a benyújtó adatait és jogosultságát ellenőrzi.
+18. § (1) A cégnek a számviteli törvény szerinti beszámolót a Dáptv. szerinti hivatalos elérhetőségén keresztül kell a céginformációs szolgálat részére megküldeni; ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának. A beszámolóhoz – a cég, a beszámolót benyújtó természetes személy azonosíthatósága, valamint a benyújtás jogszerűségének igazolása érdekében – elektronikus űrlapot kell mellékelni; a céginformációs szolgálat a benyújtó adatait és jogosultságát ellenőrzi.
 
 (2) Az elektronikus űrlapot a céginformációs szolgálat továbbítja – az érkezést követően haladéktalanul – az állami adóhatóság részére.
 
@@ -474,7 +474,7 @@ megismerhetők.
 - k) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
 - l)
 - m) a cég elektronikus kézbesítési címét,
-- n) a cégnek az E-ügyintézési tv. szerinti hivatalos elérhetőségét
+- n) a cégnek a Dáptv. szerinti hivatalos elérhetőségét
 
 (2) Az (1) bekezdés d) pontjában meghatározott adat bejegyzésével egyidejűleg a cégbíróság az adat bejegyzésének alapjául szolgáló, a cégbejegyzési (változásbejegyzési) kérelemhez csatolt létesítő okiratot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással és minősített időbélyegzővel látja el és intézkedik a létesítő okiratnak a cégjegyzék útján való megismerhetőségéről.
 
@@ -494,7 +494,7 @@ megismerhetők.
 
 (8) Az (1) bekezdés m) pontja szerinti kézbesítési címen a cég a részére elektronikus úton megküldött hivatalos iratok átvételét biztosítja. A cégbíróság e címre a 39/A. § alkalmazásával kézbesít.
 
-(9) A cégbíróság az (1) bekezdés n) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartást vezető szerv elektronikus értesítése alapján, hivatalból jegyzi be.
+(9) A cégbíróság az (1) bekezdés n) pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartást vezető szerv elektronikus értesítése alapján, hivatalból jegyzi be.
 
 (10)
 
@@ -1823,7 +1823,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 115. § (1) Ha a legfőbb szerv vagy az egyéni cég tagja az egyszerűsített végelszámolás megszüntetését és a cég működésének folytatását határozta el, a cég a határozat meghozatalától számított nyolc napon belül köteles ezt az adóhatóságnak bejelenteni, amelyről az adóhatóság a cégbíróságot elektronikus úton értesíti. A cégbíróság az egyszerűsített végelszámolás megszűnésének időpontját, és a cégnévből (rövidített névből) a végelszámolásra utaló toldat törlését – az adóhatóság értesítése alapján – automatikus végzéssel jegyzi be a cégjegyzékbe.
 
-(2) Az egyszerűsített végelszámolás befejezését a cég – az egyszerűsített végelszámolás lefolytatására nyitva álló határidő alatt – az adóhatóságnak jelentheti be, amelyről az adóhatóság elektronikus úton értesíti a cégbíróságot. Az adóhatóság a cég bejelentésétől számított harminc napon belül elektronikus úton értesíti a cégbíróságot, ha a cég törlésének adóigazgatási és társadalombiztosítási szempontból akadálya nincs. A cég az adóhatósági bejelentéssel egyidejűleg köteles elektronikus úton, az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon megküldeni a cégbíróság részére a 111. § (1) bekezdése szerint elfogadott vagyonfelosztási javaslatot, továbbá a 111. § (3) bekezdésében megjelölt határozatot. A vagyonfelosztási javaslat és a 111. § (3) bekezdésében megjelölt határozat kizárólag a jogszabályban meghatározott iratminta megfelelő kitöltésével készíthető el.
+(2) Az egyszerűsített végelszámolás befejezését a cég – az egyszerűsített végelszámolás lefolytatására nyitva álló határidő alatt – az adóhatóságnak jelentheti be, amelyről az adóhatóság elektronikus úton értesíti a cégbíróságot. Az adóhatóság a cég bejelentésétől számított harminc napon belül elektronikus úton értesíti a cégbíróságot, ha a cég törlésének adóigazgatási és társadalombiztosítási szempontból akadálya nincs. A cég az adóhatósági bejelentéssel egyidejűleg köteles elektronikus úton, a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon megküldeni a cégbíróság részére a 111. § (1) bekezdése szerint elfogadott vagyonfelosztási javaslatot, továbbá a 111. § (3) bekezdésében megjelölt határozatot. A vagyonfelosztási javaslat és a 111. § (3) bekezdésében megjelölt határozat kizárólag a jogszabályban meghatározott iratminta megfelelő kitöltésével készíthető el.
 
 (3) A (2) bekezdésben foglalt értesítés és a cég általi iratbenyújtás megtörténte esetén a cégbíróság – a végelszámolás szabályszerű befejezése esetén – törli a céget a cégjegyzékből.
 
@@ -2286,7 +2286,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 131/G. § A 24. § (1) bekezdés n) pontja szerinti adat nyilvántartása 2018. január 1-jétől kötelező, ezt megelőzően a cég kérheti az adat nyilvántartásba vételét.
 
-131/H. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 13. § bekezdés b) pontját, 16. § (3) és (4) bekezdését, 18. § (1) bekezdését, 19. § (1) bekezdését, 38. § (3) bekezdését, valamint 72/A. § (2) bekezdését az elektronikus kapcsolattartás tekintetében 2017. december 31-ig csak akkor kell alkalmazni, ha az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az eljáró szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 131/H. §
 
 131/I. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvénynek és a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvénynek az európai cégnyilvántartások összekapcsolására szolgáló rendszerrel összefüggő módosításáról szóló 2017. évi XLVIII. törvény (a továbbiakban: Módtv3.) hatálybalépése napján a cégnyilvántartásba bejegyzett vagy bejegyzés alatt álló 17/A. § szerinti cégek EUID-ját a cégbíróság a Módtv3. hatálybalépését követő napon automatikus végzéssel, elektronikus úton állapítja meg és jegyzi be a cégjegyzékbe.
 
@@ -2300,7 +2300,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (2) Az e § szerinti adatigénylésre automatikusan, az erre a célra létrehozott elektronikus rendszer útján kerül sor. Az informatikai rendszer – a természetes személy cégjegyzékből való törlésének időpontjáig – tárolja a természetes személyek nyilvántartása által szolgáltatott, a cégjegyzék adattartalmát meghaladó természetes személyazonosító adatokat és a kapcsolati kódot.
 
-131/L. § A jogi képviselő 2023. január 1-jétől a cégbejegyzésre (változásbejegyzésre) irányuló kérelmet és minden egyéb beadványt az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, a Pp. rendelkezéseinek megfelelő alkalmazásával is benyújthatja. E határidőig a cégbejegyzési (változásbejegyzési) eljárás során kizárólag a IV. Fejezet 2. cím szerinti elektronikus kapcsolattartás szabályai alkalmazhatóak.
+#### 131/L. §
 
 131/M. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel megállapított 1. számú melléklet III. 4. pontját a folyamatban lévő eljárásokban akkor kell alkalmazni, ha az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 35/A. § alapján az átalakulásról, egyesülésről, szétválásról a cég döntéshozó szerve első ízben 2019. október 1-je után döntött.
 

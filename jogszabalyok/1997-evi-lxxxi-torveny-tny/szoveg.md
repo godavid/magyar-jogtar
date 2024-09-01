@@ -706,7 +706,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 - a) a szolgálati idő, illetve a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamának jogalap nélküli megállapítása az igénylőnek felróható, vagy
 - b) az adott időtartamot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek (a továbbiakban: uniós rendeletek) vagy szociális biztonsági, szociálpolitikai egyezmény alapján külföldi szerv szolgálati időként figyelembe veszi.
 
-68. § Biztonságos kézbesítési szolgáltatási címmel rendelkező ügyfél esetén a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal a küldeményt – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 15. §-ában foglaltak szerint – az ügyfél biztonságos kézbesítési szolgáltatási címére kézbesíti, ha ezt az ügyfél az ügyintézési rendelkezésében nem zárta ki.
+68. § Ajánlott elektronikus kézbesítési szolgáltatási címmel rendelkező ügyfél esetén a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal a küldeményt akkor is az ügyfél biztonságos kézbesítési szolgáltatási címére kézbesíti, ha az nem minősül a hivatalos elérhetőségének, de az ügyfél az ügyintézési rendelkezésében nem zárta ki. A kézbesítésre a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 27. § c) pontját azzal az eltéréssel kell alkalmazni, hogy a kézbesítés második sikertelen megkísérlését követően a nyugdíjbiztosítási igazgatási szerv köteles más módon intézkedni a küldemény kézbesítéséről.
 
 69. § (1) A nyugellátás attól a naptól állapítható meg, amely napon a jogosultsághoz szükséges feltételek bekövetkeztek.
 
@@ -1061,6 +1061,14 @@ tarthatók nyilván.
 - m) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapításához és ellenőrzéséhez a (2) bekezdés a) és h) pontja
 
 szerinti adatok igénylésére jogosult.
+
+(3a) A (2) bekezdés alapján nyilvántartásba vett adatokból a Dáptv. szerinti automatikus információelérési felületen keresztüli hozzáféréssel
+
+- a) a munkaügyi és munkavédelmi, a családtámogatási, a rehabilitációs, a szociális és a gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi és munkavédelmi ellenőrzés céljából a (2) bekezdés a)–f) és h) pontja,
+- b) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárása céljából a (2) bekezdés a)–f) és h) pontja,
+- c) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához a (2) bekezdés a)–e) és h) pontja
+
+szerinti adatok lekérdezésére jogosult.
 
 (4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 

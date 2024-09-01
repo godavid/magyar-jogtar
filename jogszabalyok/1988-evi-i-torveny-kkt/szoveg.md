@@ -391,7 +391,7 @@ jogosultak.
 
 (5) A 9/D. § szerinti közszolgáltatással kapcsolatban keletkezett ügyfélpanaszok intézése során külön törvény előírásai szerint kell eljárni.
 
-15/D. § (1) Ha a várakozási díjat és a pótdíjat nem fizették meg, a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató 60 napos jogvesztő határidőn belül a jármű üzembentartója részére postai küldeményként vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben és végrehajtási rendeleteiben szabályozott módon, illetve más egyéb igazolható módon megküldi a díj- és pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a várakozási díj és a pótdíj megfizetését elmulasztó gépjármű-üzembentartónak a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató előtt ismertté válásától kell számítani.
+15/D. § (1) Ha a várakozási díjat és a pótdíjat nem fizették meg, a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató 60 napos jogvesztő határidőn belül a jármű üzembentartója részére postai küldeményként vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben és végrehajtási rendeleteiben szabályozott módon, illetve más egyéb igazolható módon megküldi a díj- és pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a várakozási díj és a pótdíj megfizetését elmulasztó gépjármű-üzembentartónak a helyi önkormányzat, a 9/D. § (6) bekezdésében, valamint a Mötv. 16/A. §-ában meghatározott szolgáltató előtt ismertté válásától kell számítani.
 
 (2) A 60 napos jogvesztő határidő nem alkalmazható abban az esetben, ha a gépjármű üzembentartója a nyilvántartott adataiban bekövetkezett változásokat a gépjárműnyilvántartási szervhez – az erre vonatkozó jogszabályi rendelkezések megszegésével – elmulasztotta bejelenteni és ezért a fizetési felszólítás nem a tényleges üzembentartó részére került megküldésre.
 
@@ -453,6 +453,8 @@ oktatása, szakképzése és utánképzése
 
 (2a) A közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése és utánképzése, valamint a szakoktatói, iskolavezetői vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység határon átnyúló szolgáltatásnyújtás keretében nem végezhető.
 
+(2b) A (2) és (8) bekezdéstől eltérően a középiskolában és szakképző intézményben (a továbbiakban együtt: középiskola) járművezető (a továbbiakban: középiskolás járművezető) tanfolyami képzését törvényben, valamint a Kormány rendeletében meghatározottak szerint a középiskolás járművezető tanulói jogviszonya szerinti középiskola vagy a szakképző intézmény – a közlekedési hatóság engedélye nélkül – is végezheti.
+
 (3) A közúti közlekedési szakember tevékenységét akkor folytathatja, ha a közúti közlekedési szakemberek képzésére, vizsgáztatására, valamint a tevékenységének végzésére vonatkozó rendeletekben előírt ismereteket – a vizsgakövetelmények teljesítésével igazoltan – megszerezte és az időszakos szakirányú kötelező továbbképzésen részt vett és vizsgakötelezettségének eleget tett.
 
 (4) Utánképzésen kell részt vennie annak a járművezetőnek
@@ -475,6 +477,12 @@ oktatása, szakképzése és utánképzése
 (8) A (2) bekezdés szerinti tanfolyami képzésben az iskolavezető és a szakoktató iskolavezetői és szakoktatói tevékenységét abban az esetben végezheti, ha a külön jogszabály szerinti feltételeknek megfelel, és a közlekedési hatóság engedélyezte iskolavezetői, illetve szakoktatói tevékenységét. A közúti járművezetők vizsgáztatását, utánképzését és képzésfelügyeletét, a közúti közlekedési szakemberek vizsgáztatását és képzésfelügyeletét, valamint a közúti járművezetők pályaalkalmassági vizsgálatát a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló vagy az általa alapított nonprofit szervezet (a továbbiakban: vizsgaközpont) végzi. A közúti közlekedési szakemberek vizsgáinak szervezésében a közlekedési hatóság vagy a vizsgaközpont által megbízott képző szerv közreműködhet. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek tevékenységét a közlekedési hatóság engedélyezte, büntetlen előéletű, nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás vagy közúti járművezetéstől eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (8a) A vizsgaközpontnak a közúti járművezetők, valamint a közúti szakemberek vizsgára bocsátásával összefüggő feladatai ellátásában a képző szerv a Kormány által kiadott rendeletben meghatározott körben közreműködik.
+
+(8b) A középiskolás járművezetők – a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.), valamint a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) szerinti közlekedési alapismeretek és elsősegélynyújtásra vonatkozó – vizsgája esetében a vizsga szervezését, lebonyolítását a középiskola látja el. A középiskola által szervezett vizsga tekintetében a vizsgabiztosnak nem kell rendelkeznie a közlekedési hatóság engedélyével.
+
+(8c) A középiskolás járművezetők esetében a Kormány rendeletében meghatározottak szerinti vizsga sikeres teljesítését igazoló tanúsítványt a középiskola adja ki.
+
+(8d) Amennyiben a középiskolás járművezető sikeres vizsgát tett, a középiskola a vizsgaközpont részére haladéktalanul átadja a középiskolás járművezető azon adatait, amelyeket a vizsgaközpont az engedély-nyilvántartásba történő bejegyzés érdekében kezel.
 
 (9) A közlekedési hatóság a (2) bekezdés szerinti iskolavezetői, szakoktatói, vizsgabiztosi és utánképzés-foglalkozásvezetői tevékenység végzésére jogosultakról névjegyzéket vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a következő adatokat:
 
@@ -529,6 +537,8 @@ oktatása, szakképzése és utánképzése
 
 - a) a figyelmeztetést tartalmazó döntésében felhívja a vizsgaközpont figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére, vagy
 - b) bírságot szab ki, amelynek mértéke 13 millió forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.
+
+(18) A (2) bekezdéstől eltérően az Nkt. 30/A. §-a és az Szkt. 35/A. §-a szerinti képzés vezetési gyakorlati részét – a honvédelemért felelős miniszter rendeletében meghatározottak szerint – a Magyar Honvédség is nyújthatja, a Magyar Honvédség és a (2b) bekezdés szerinti középiskola erre irányuló együttműködési megállapodása alapján.
 
 ### Az utazó munkavállalók munkaideje
 
@@ -2477,7 +2487,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
 - l) a miniszter, hogy a közúti áruszállításhoz kapcsolódó árumozgatásra alkalmas gépek, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint a közutak építéséhez, fenntartásához használt emelő-, rakodó- és útépítő gépek kezelőinek képzésére és vizsgáztatására vonatkozó szabályokat az iparügyekért és a kereskedelemért felelős miniszterrel egyetértésben,
 - m) a közlekedésért felelős miniszterrel egyetértésben
-  - ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
+  - ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, és az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata, valamint a 18. § (18) bekezdésének végrehajtásával összefüggésben a Magyar Honvédség állományába tartozó, a képzés vezetési gyakorlati részét oktató személy esetében a szakoktatókkal szemben támasztott követelmények és képzésük, valamint az oktatójárművek műszaki feltételei tekintetében eltérő rendelkezéseket,
   - mb) az egyes rendvédelmi szerveket irányító miniszter, hogy a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
   - mc) a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a Nemzeti Adó- és Vámhivatal állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket;
 - n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos szabályokat,
@@ -2492,6 +2502,8 @@ rendeletben állapítsa meg.
 (3a) Felhatalmazást kap a Kormány, hogy a közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének, valamint az utazó munkavállalók, a kabotázstevékenység és a közúti szállítás kiküldetési előírásai megtartásának ellenőrzésére vonatkozó szabályokat rendeletben állapítsa meg.
 
 (4) A Kormány a (3) bekezdés a) pontjában, a miniszter pedig a (3) bekezdés b) pontjában kapott felhatalmazás alapján kiadott jogszabályban a járdákra és azok tartozékaira e törvénynek az utakra vonatkozó szabályaitól eltérő rendelkezéseket is megállapíthat.
+
+(4a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a középiskolás járművezetők középiskolai képzésének és vizsgájának különleges részletszabályait.
 
 (5) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés – hogy rendeletben állapítsa meg a várakozási területek tekintetében
 
@@ -2509,9 +2521,9 @@ rendeletben állapítsa meg.
 
 (7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.
 
-48/A. § (1) Ha az eljáró hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-éig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+48/A. § (1)
 
-(2) Az (1) bekezdésben meghatározott esetben a 21. § (4) bekezdésének 2016. december 31-én hatályos rendelkezését azzal az eltéréssel kell alkalmazni, hogy a 21. § (1) bekezdésének d) és i) pontjában meghatározott szabályszegés miatt hozott határozat kézbesítésének határideje az előírás megszegését követő 150 nap.
+(2)
 
 (3) A 2019. október 1-jét megelőzően létesített elektromos töltőberendezésekre e törvény rendelkezéseit 2020. július 1-jétől kell alkalmazni azzal, hogy a Vet. 74. § (1) bekezdés k) pontja alapján kiadott, elektromos jármű töltésére vonatkozó engedélyeket a Hivatal a 2020. október 1-jéig hivatalból felülvizsgálja, és a felülvizsgálatkor hatályos jogszabályi feltételek fennállása esetén e törvény szerint hivatalból módosítja az engedélyeket; a feltételek hiányában az engedély 2020. december 31-én hatályát veszti.
 

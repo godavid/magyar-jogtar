@@ -2718,6 +2718,10 @@ terjedő szabadságvesztéssel büntetendő.
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
+### Gyermekvédelmi jelzéssel kapcsolatos kötelezettség megszegése
+
+209/A. § Aki a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 17. § (4a)–(4c) bekezdésében meghatározott, a gyermekek veszélyeztetettségével kapcsolatos kiemelt veszélyeztető okra utaló körülménnyel összefüggő kötelezettségét megszegi, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
 ### Kiskorúval való kapcsolattartás akadályozása
 
 210. § (1) Aki a hatósági határozat alapján nála elhelyezett kiskorú és a kiskorúval kapcsolattartásra jogosult személy közötti kapcsolat kialakítását vagy fenntartását a kapcsolattartás kikényszerítése érdekében alkalmazott bírság kiszabását követően is önhibájából akadályozza, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.

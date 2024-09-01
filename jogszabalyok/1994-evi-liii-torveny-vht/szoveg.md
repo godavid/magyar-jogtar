@@ -746,7 +746,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 (5) A végrehajtó a végrehajtási eljárásban részt vevő képviselő képviseleti jogosultságát
 
 - a) a bemutatott arcképes igazolvány alapján az illetékes ügyvédi kamara nyilvántartásában,
-- b) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti rendelkezési nyilvántartásban, valamint
+- b) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti rendelkezési nyilvántartásban, valamint
 - c) a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartásban
 
 szereplő adatok alapján ellenőrizheti.
@@ -926,7 +926,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) Az önálló bírósági végrehajtó, önálló bírósági végrehajtó-helyettes és a végrehajtói szakvizsgával rendelkező önálló bírósági végrehajtójelölt (e § alkalmazásában a továbbiakban együtt: hivatali elektronikus aláírással rendelkező végrehajtó) részére a Kar hivatali szerve rendszeresít hivatali elektronikus aláírást.
 
-(3) A hivatali elektronikus aláírással rendelkező végrehajtó az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
+(3) A hivatali elektronikus aláírással rendelkező végrehajtó a Dáptv. 89. § (1) bekezdése és 101. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
 
 (4) A hivatali elektronikus aláírással rendelkező végrehajtó nem használhatja az elektronikus aláírást, ha
 
@@ -3907,7 +3907,7 @@ kérhetnek adatszolgáltatást.
 
 (4) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi a kézbesítési rendszer működésének és felhasználóként történő igénybevételének technikai feltételeit (felhasználási szabályzat); a felhasználási szabályzatot a Hatóság elnöke hagyja jóvá.
 
-253/H. § § A Kar a szervezeti és működési szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a Kar tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
+253/H. § § A Kar a szervezeti és működési szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a Dáptv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a Kar tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
 253/I. § (1) Az Integrált Végrehajtási Rendszer (a továbbiakban: IVR) a Kar hivatali szerve által fejlesztett és működtetett, egységes informatikai ügyintézési rendszer, mely a végrehajtók és a Kar hivatali szerve jogszabályban meghatározott feladatainak ellátását kizárólagosan biztosítja. Az IVR használata a Kar hivatali szerve és a végrehajtók számára kötelező.
 
@@ -4036,7 +4036,7 @@ kérhetnek adatszolgáltatást.
 - e) a cégjegyzékbe történő bejegyzés időpontja, cégjegyzékszám,
 - f) a névjegyzékbe történő felvétel időpontja,
 - g) a névjegyzékből történő törlés időpontja,
-- h) a végrehajtói irodának az E-ügyintézési tv. szerinti hivatalos elérhetősége.
+- h) a végrehajtói irodának a Dáptv. szerinti hivatalos elérhetősége.
 
 (2) A végrehajtói iroda a nyilvántartásban szereplő adatainak megváltozásáról köteles a Kar hivatali szervét a változástól számított 15 napon belül tájékoztatni.
 
@@ -4044,7 +4044,7 @@ kérhetnek adatszolgáltatást.
 
 (4) Ha a végrehajtói iroda az (1) bekezdés szerinti adatokat a bejelentésben nem közli, a Kar hivatali szerve az adatok közlése iránt megkeresi a végrehajtói iroda bejegyzését végző cégbíróságot.
 
-(5) A Kar hivatali szerve az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi.
+(5) A Kar hivatali szerve az (1) bekezdés h) pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.
 
 (6)
 

@@ -541,7 +541,7 @@ foglaltaktól nem térhet el.
 
 (3) A munkavállalót csak olyan munkára lehet alkalmazni, amely testi alkatára, fejlettségére, egészségi állapotára tekintettel rá hátrányos következményekkel nem járhat. A munkáltató a munkavállaló egészségi állapotának változására tekintettel köteles a munkafeltételeket, a munkaidő-beosztást – a 6. §-ban foglaltak figyelembevételével – megfelelően módosítani.
 
-(4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkába lépést megelőzően és a munkaviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a munkavállaló munkaköri alkalmassági vizsgálatát.
+(4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. Jogszabályban meghatározott esetben, illetve ha a munkáltató elrendeli, a munkába lépést megelőzően és a munkaviszony fennállása alatt rendszeres időközönként a munkáltató ingyenesen köteles biztosítani a munkavállaló munkaköri alkalmassági vizsgálatát.
 
 (5) A fogyatékossággal élő személy foglalkoztatása során gondoskodni kell az ésszerű alkalmazkodás feltételeinek biztosításáról.
 

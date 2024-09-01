@@ -92,7 +92,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 9. Alapok: a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap,
 - 9a. alapok alapját végrehajtó szervezet: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló Kormányrendelet szerint meghatározott pénzügyi eszközöket végrehajtó szervezet.
 - 10. be nem jelentett foglalkoztatott: az adózó tevékenységében személyesen közreműködő természetes személy, akire vonatkozóan a munkáltató, illetve kifizető biztosítotti bejelentési kötelezettségének nem tett eleget, illetve a munkáltató, kifizető nem tudja bizonyítani, hogy a tevékenységében közreműködő jogviszonya kívül esik a bejelentési kötelezettségen,
-- 11. biztonságos kézbesítési szolgáltatás: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti biztonságos kézbesítési szolgáltatás,
+- 11. ajánlott elektronikus kézbesítési szolgáltatás: a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti ajánlott elektronikus kézbesítési szolgáltatás,
 - 12. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet alapján nyújtható támogatás,
 - 13. egyéb szervezet: az egyéni cég, a polgári jogi társaság, a társasház, a társasüdülő, a társasgarázs, az építőközösség, a jogi személyiséggel nem rendelkező személyi egyesülés és a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 - 14. EKAER: az állami adó- és vámhatóság által működtetett Elektronikus Közúti Áruforgalom Ellenőrző Rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja,
@@ -156,7 +156,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 43. székhelyszolgáltató: az a személy, aki vagy amely üzletszerű gazdasági tevékenységként az adózó megbízásából gondoskodik az adózó üzleti és hivatalos iratainak munkaidőben történő átvételéről, érkeztetéséről, megőrzéséről, rendelkezésre tartásáról, valamint a székhellyel összefüggő kötelezettségek teljesítéséről, így különösen a cég székhelyéhez és a cégiratokhoz kapcsolódó hatósági kényszerintézkedések tűréséről, és a székhelyszolgáltatók nyilvántartásában szerepel vagy ilyen tevékenység végzésére irányuló szándékát bejelentette,
 - 44. szokásos tartózkodási hely: a természetes személynek akkor van Magyarország területén szokásos tartózkodási helye, ha az adott naptári évben – a ki- és beutazás napját is egész napnak tekintve – legalább száznyolcvanhárom napot belföldön tartózkodott,
 - 45. tartózkodási hely: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti tartózkodási hely,
-- 46. tárhely: a gazdálkodó szervezet hivatalos elérhetősége vagy a természetes személynek az elektronikus azonosítási szolgáltatáshoz tartozó, az Eüsztv. 14. § (6) bekezdésének megfelelő tárhelye,
+- 46. tárhely: a gazdálkodó szervezet hivatalos elérhetősége vagy a természetes személynek az elektronikus azonosítási szolgáltatáshoz tartozó, a Dáptv. 25. §-ának megfelelő tárhelye,
 - 47. telephely: az a hely, ahol az adóköteles tevékenységet folytatják, ideértve különösen a vállalkozó állandó üzleti (üzemi), termelő-, szolgáltatótevékenységének helyét függetlenül attól, hogy a telephely a vállalkozás székhelyétől különböző közigazgatási területen található,
 - 48. tényleges üzletvezetés helye: a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló jogszabály és a Tao tv. alkalmazásában a tényleges üzletvezetési hely, üzletvezetés helye,
 - 48a. termékegység: egy feladótól egy címzett részére, egy gépjárművel, a gépjármű adott útvonalon történő egyszeri mozgása során fuvarozott termék,
@@ -1171,21 +1171,21 @@ az (1) bekezdés szerinti adattartalommal közli az állami adó- és vámhatós
 
 A közúti közlekedési nyilvántartási szerv minden hónap tizenötödik napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően elektronikus úton adatokat szolgáltat a gépjárműadóról szóló törvény hatálya alá tartozó gépjárművek esetén az ideiglenes rendszámtábla kiadásáról az állami adó- és vámhatóságnak. Az adatszolgáltatás tartalmazza a kérelmező nevét, anyja nevét, születési helyét és idejét, valamint lakcímét, székhelyét, továbbá a jármű fajtáját és rendszámát.
 
-#### 89. § [A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv, valamint a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhely szolgáltatás kijelölt szolgáltatójának adatszolgáltatása]
+#### 89. § [A digitális állampolgárság nyilvántartás vezetéséért felelős szerv, valamint a digitális állampolgárság nyilvántartás regisztrációhoz tartozó tárhely szolgáltatás kijelölt szolgáltatójának adatszolgáltatása]
 
-(1) A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv az állami adó- és vámhatóság részére napi gyakorisággal elektronikus úton, kapcsolati kód alkalmazásával megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, a regisztráció és a regisztráció megszüntetésének időpontját, továbbá – ha a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
+(1) A digitális állampolgárság nyilvántartás vezetéséért felelős szerv az állami adó- és vámhatóság részére napi gyakorisággal elektronikus úton, kapcsolati kód alkalmazásával megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, a regisztráció és a regisztráció megszüntetésének időpontját, továbbá – ha a természetes személy a digitális állampolgárság nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
 
-(2) A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv évente egy alkalommal, a megkeresés napja szerinti állapotnak megfelelően az önkormányzati adóhatóság természetes személyazonosító adatokat tartalmazó kérelmére megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, a regisztráció és a regisztráció megszüntetésének időpontját, továbbá – ha a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
+(2) A digitális állampolgárság nyilvántartás vezetéséért felelős szerv évente egy alkalommal, a megkeresés napja szerinti állapotnak megfelelően az önkormányzati adóhatóság természetes személyazonosító adatokat tartalmazó kérelmére megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, a regisztráció és a regisztráció megszüntetésének időpontját, továbbá – ha a természetes személy a digitális állampolgárság nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
 
-(3) A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhely szolgáltatás kijelölt szolgáltatója az adóhatóság természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi az adóhatóság részére a természetes személy kapcsolati kódját és tárhely azonosítóját.
+(3) A digitális állampolgárság nyilvántartás regisztrációhoz tartozó tárhely szolgáltatás kijelölt szolgáltatója az adóhatóság természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi az adóhatóság részére a természetes személy kapcsolati kódját és tárhely azonosítóját.
 
 (4) Az (1)–(3) bekezdés szerinti adatszolgáltatás adatait az adóhatóság
 
-- a) az Szja tv. szerinti adóbevallási tervezethez kapcsolódó eljárásban,
+- a) az Szja tv. szerinti adóbevallási tervezethez kapcsolódó eljárásában,
 - b) az elektronikus kapcsolattartásra kötelezett vagy azt választó adózót érintő eljárásában,
 - c) az adózó képviselőjével való kapcsolattartáshoz,
 - d) joghatás nélküli tájékoztatás küldéséhez és
-- e) az Áfa tv. szerinti adóbevallási tervezethez kapcsolódó eljárásban
+- e) az Áfa tv. szerinti adóbevallási tervezethez kapcsolódó eljárásában
 
 használhatja fel.
 
@@ -3227,7 +3227,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 - f) azt a támogató az államháztartásról szóló 2011. évi CXCV. törvény 53/A. § (3) és (4) bekezdésében meghatározott esetben kezdeményezi,
 - g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási kötelezettségének a törvényi határidőtől számított száznyolcvan napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget.
 - h) az adózó által bejelentett székhelyszolgáltató nem szerepel a székhelyszolgáltatók nyilvántartásában és az ilyen irányú tevékenység végzésére vonatkozó szándékát sem jelentette be, és az adózó az adóhatóság (2) bekezdés szerinti felhívása ellenére bejelentését nem vonta vissza, és nem gondoskodott másik megfelelő székhely vagy székhelyszolgáltató bejelentéséről sem.
-- i) az Eüsztv. alapján elektronikus ügyintézésre köteles adózó az Eüsztv. szerinti hivatalos elérhetőséggel nem rendelkezik.
+- i) a Dáptv. alapján elektronikus ügyintézésre köteles adózó a Dáptv. szerinti hivatalos elérhetőséggel nem rendelkezik.
 
 (2) Az állami adó- és vámhatóság az (1) bekezdés a), b) és h) pontja szerinti esetben az adózót az adószám törléséről szóló figyelmeztetéssel felhívja – a felhívás kézbesítésétől számított harmincnapos határidő tűzésével – a törvényes állapot helyreállítására. A határidő eredménytelen eltelte esetén az állami adó- és vámhatóság az adózó adószámát törli. Nincs helye az adószám törlésének, ha az adózó az adószám törléséről szóló határozat véglegessé válását megelőzően a törvényes állapotot helyreállította.
 
@@ -3468,7 +3468,7 @@ Az állami adó- és vámhatóság a kezdő vállalkozásnak – figyelemmel tev
 
 #### 258. § [Telefonos ügyféltájékoztató és ügyintéző rendszer működtetése]
 
-Az állami adó- és vámhatóság egységes telefonos ügyféltájékoztató és ügyintéző rendszer keretében a Kormány rendeletében meghatározott egyedi ügyintézést és tájékoztatást, továbbá általános tájékoztatást nyújt. Az állami adó- és vámhatóság vezetője a Kormány rendeletében meghatározottak mellett további egyedi ügyintézés és tájékoztatás biztosításáról dönthet. Az egyedi ügyintézés és tájékoztatás igénybevételéhez az adózónak vagy képviselőjének ügyfél-azonosító számmal vagy az Eüsztv. szerinti részleges kódú telefonos azonosításhoz szükséges felhasználónévvel és jelszóval kell rendelkeznie.
+Az állami adó- és vámhatóság egységes telefonos ügyféltájékoztató és ügyintéző rendszer keretében a Kormány rendeletében meghatározott egyedi ügyintézést és tájékoztatást, továbbá általános tájékoztatást nyújt. Az állami adó- és vámhatóság vezetője a Kormány rendeletében meghatározottak mellett további egyedi ügyintézés és tájékoztatás biztosításáról dönthet. Az egyedi ügyintézés és tájékoztatás igénybevételéhez az adózónak vagy képviselőjének ügyfél-azonosító számmal vagy a Dáptv. szerinti digitális állampolgár azonosítóval kell rendelkeznie.
 
 #### 259. § [Adatlekérdezési lehetőség biztosítása]
 

@@ -112,9 +112,9 @@ az eljáró adóhatóság gondoskodik ügygondnok kirendeléséről.
 
 (3) Meghatalmazást elektronikusan
 
-- a) az önkormányzati adóhatóság hatáskörébe tartozó ügyben az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus ügyintézést biztosító információs rendszeren keresztül,
+- a) az önkormányzati adóhatóság hatáskörébe tartozó ügyben a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti digitális szolgáltatást biztosító információs rendszeren keresztül,
 - b) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a (2) bekezdés szerinti elektronikus felületen,
-- c) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a meghatalmazó által benyújtott, az állandó meghatalmazások bejelentésére rendszeresített elektronikus űrlapon, ha az állandó meghatalmazott nem kamarai jogtanácsos, ügyvéd, ügyvédi iroda vagy európai közösségi jogász, vagy
+- c) az állami adó- és vámhatóság hatáskörébe tartozó ügyben – ha az állandó meghatalmazott nem kamarai jogtanácsos, ügyvéd, ügyvédi iroda vagy európai közösségi jogász – a meghatalmazó által benyújtott, az állandó meghatalmazások bejelentésére rendszeresített elektronikus űrlapon vagy
 - d) a polgári perrendtartásról szóló törvény alapján elektronikusan hitelesített közokiratba vagy teljes bizonyító erejű magánokiratba foglalva
 
 lehet tenni.
@@ -356,7 +356,7 @@ az az adóhatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 
 #### 36. § [A kapcsolattartás általános szabályai]
 
-(1) Az adóhatóság írásban, az Eüsztv.-ben meghatározott elektronikus úton (a továbbiakban együtt: írásban) vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az adózóval és az eljárásban résztvevőkkel.
+(1) Az adóhatóság írásban, a Dáptv.-ben meghatározott elektronikus úton (a továbbiakban együtt: írásban) vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az adózóval és az eljárásban résztvevőkkel.
 
 (2) Törvény eltérő rendelkezése hiányában a kapcsolattartás formáját az adóhatóság tájékoztatása alapján az adózó választja meg. Az adózó a választott kapcsolattartási módról más – az adóhatóságnál rendelkezésre álló – módra áttérhet.
 
@@ -367,11 +367,11 @@ az az adóhatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 - a) havi adó- és járulékbevallás benyújtására köteles,
 - b) az Áfa tv. szerinti összesítő nyilatkozat benyújtására köteles,
 - c) az Áfa tv. szerinti összesítő jelentés benyújtására köteles, vagy
-- d) az Eüsztv. alapján elektronikus ügyintézésre köteles.
+- d) a Dáptv. alapján elektronikus ügyintézésre köteles.
 
 (5) Az elektronikus kapcsolattartásra kötelezett adózó meghatalmazottjával az adóhatóság elektronikus úton tart kapcsolatot. Ha a meghatalmazott a (4) bekezdés szerint elektronikus kapcsolattartásra kötelezett, – függetlenül a képviselt adózóra vonatkozó kapcsolattartási szabályoktól – az állami adó- és vámhatóság elektronikus úton tart vele kapcsolatot.
 
-(6) Az adóhatóság akkor is elektronikus úton tart kapcsolatot az egyéni vállalkozóval, valamint az Eüsztv. szerinti jogi képviselővel, ha az nem egyéni vállalkozói tevékenységével összefüggésben, illetve nem jogi képviselői minőségében jár el.
+(6) Az adóhatóság akkor is elektronikus úton tart kapcsolatot az egyéni vállalkozóval, valamint a Dáptv. szerinti jogi képviselővel, ha az nem egyéni vállalkozói tevékenységével összefüggésben, illetve nem jogi képviselői minőségében jár el.
 
 #### 13. Adatok zárt kezelése
 
@@ -677,7 +677,7 @@ eljárási bírsággal sújtható.
 
 #### 61. § [Irat]
 
-(1) Az adóhatóság, ha a tényállás tisztázása során szükséges, és az Eüsztv. alapján nem szerezhető be – a 45. § (1) bekezdésében meghatározott kivétellel –, felhívhatja az adózót okirat vagy más irat bemutatására.
+(1) Az adóhatóság, ha a tényállás tisztázása során szükséges, és a Dáptv. alapján nem szerezhető be – a 45. § (1) bekezdésében meghatározott kivétellel –, felhívhatja az adózót okirat vagy más irat bemutatására.
 
 (2) Ha a külföldön kiállított közokirat eredetiségével vagy tartalmával kapcsolatban kétség merül fel, az adóhatóság felhívja az adózót a felülhitelesített, külföldön kiállított közokirat bemutatására.
 
@@ -890,7 +890,7 @@ Az adóhatóság az adóügy érdemében határozattal, az eljárás során eld�
 
 (1) A döntést az adóhatóság közli az adózóval, valamint azzal, akire nézve az rendelkezést tartalmaz, és akinek a jogát vagy jogos érdekét érinti.
 
-(2) Az adóhatóság a döntést írásbeli alapon történő kapcsolattartás esetén hivatalos iratként vagy az Eüsztv.-ben meghatározott elektronikus úton kézbesíti.
+(2) Az adóhatóság a döntést írásbeli alapon történő kapcsolattartás esetén hivatalos iratként vagy a Dáptv.-ben meghatározott elektronikus úton kézbesíti.
 
 (3) Ha törvény vagy kormányrendelet másként nem rendelkezik, a döntés közlésének napja
 
@@ -921,14 +921,14 @@ A közlést hirdetmény útján kell teljesíteni, ha
 
 #### 79. § [A kézbesítésre vonatkozó szabályok]
 
-(1) Az adóhatósági iratot – ideértve a döntést is – a meghatalmazott képviselővel rendelkező adózó esetében a képviselőnek kell kézbesíteni hivatalos iratként vagy az Eüsztv.-ben meghatározott elektronikus úton. A személyes megjelenésre szóló idézés kézbesítése a megidézett személy részére történik, a meghatalmazott egyidejű értesítésével. Az adózó kérheti, hogy az adott ügyben az adóhatóság akkor is a számára kézbesítse az iratokat, ha meghatalmazott képviselője van.
+(1) Az adóhatósági iratot – ideértve a döntést is – a meghatalmazott képviselővel rendelkező adózó esetében a képviselőnek kell kézbesíteni hivatalos iratként vagy a Dáptv.-ben meghatározott elektronikus úton. A személyes megjelenésre szóló idézés kézbesítése a megidézett személy részére történik, a meghatalmazott egyidejű értesítésével. Az adózó kérheti, hogy az adott ügyben az adóhatóság akkor is a számára kézbesítse az iratokat, ha meghatalmazott képviselője van.
 
 (2) Az adózó vagy képviselője adóhatósághoz bejelentett címére, valamint Magyarországon lakóhellyel nem rendelkező külföldi személy magyarországi kézbesítési meghatalmazottja címére feladott adóhatósági iratot
 
 - a) a kézbesítés megkísérlésének napján – a b) pontban meghatározott kivétellel – kézbesítettnek kell tekinteni, ha a küldemény az adóhatósághoz a kézbesítés eredménytelensége miatt érkezik vissza, vagy
 - b) a postai kézbesítés második megkísérlését követő ötödik munkanapon kell kézbesítettnek tekinteni, ha az adóhatósági iratot a posta a rá vonatkozó szabályoknak megfelelően „nem kereste” jelzéssel küldte vissza az adóhatóságnak.
 
-(3) Elektronikus kapcsolattartás esetén a kézbesítésre az Eüsztv. 14. § (4) bekezdését és 15. § (1)–(6) bekezdését kell alkalmazni.
+(3) Elektronikus kapcsolattartás esetén a kézbesítésre a Dáptv. 27. és 28. §-át kell alkalmazni.
 
 (4) Az adóhatósági irat – a meghatalmazott képviselő mellett – a meghatalmazott képviselővel rendelkező adózó részére is kézbesíthető. Ilyen esetben az iratot az adózó, valamint a meghatalmazott részére ugyanazon a napon kell postára adni, illetve az irat kézbesítéséhez biztonságos kézbesítési szolgáltatást is igénybe lehet venni. E bekezdés nem alkalmazható az adóhatóság saját kézbesítője útján történő kézbesítésre.
 
@@ -941,11 +941,11 @@ A közlést hirdetmény útján kell teljesíteni, ha
 
 #### 80. § [Közzététel kézbesítettnek tekintett iratokról]
 
-(1) A 79. § (2) bekezdése és az Eüsztv. 14. § (4) bekezdés c) pontja szerinti kézbesítés esetén – kivéve, ha az adózó vagy képviselője a küldemény átvételét megtagadta – az állami adó- és vámhatóság a kézbesítésről történő tudomásszerzését követően az internetes honlapján tizenöt nap időtartamra közzéteszi
+(1) A 79. § (2) bekezdése és a Dáptv. 27. § c) pontja szerinti kézbesítés esetén – kivéve, ha az adózó vagy képviselője a küldemény átvételét megtagadta – az állami adó- és vámhatóság a kézbesítésről történő tudomásszerzését követően az internetes honlapján tizenöt nap időtartamra közzéteszi
 
 - a) a címzett természetes személy adózó adóazonosító jelét, más adózó adószámát,
 - b) a kézbesítéssel érintett állami adó- és vámhatósági irat ügyiratszámát,
-- c) az internetes honlapján történő közzététel időpontját és
+- c) az internetes honlapján történő közzététel időpontját, és
 - d) azt a telefonszámot, amelyen az adózó a kézbesítéssel érintett állami adó- és vámhatósági irat átvétele tekintetében tájékozódhat.
 
 (2) Az állami adó- és vámhatóság a honlapon való közzététellel egyidejűleg elektronikus úton értesíti az (1) bekezdés szerint közzétett adatokról az elektronikus kapcsolattartást vállaló vagy arra kötelezett adózót, illetve képviselőjét.
@@ -954,7 +954,7 @@ A közlést hirdetmény útján kell teljesíteni, ha
 
 #### 81. § [Kézbesítési kifogás]
 
-(1) Az adózó vagy az eljárás egyéb résztvevője akkor terjeszthet elő kézbesítési kifogást, ha a kézbesítés a hivatalos iratok kézbesítésére vonatkozó jogszabályok vagy az Eüsztv. megsértésével történt.
+(1) Az adózó vagy az eljárás egyéb résztvevője akkor terjeszthet elő kézbesítési kifogást, ha a kézbesítés a hivatalos iratok kézbesítésére vonatkozó jogszabályok vagy a Dáptv. megsértésével történt.
 
 (2) Természetes személy adózó vagy az eljárás egyéb résztvevője kézbesítési kifogást akkor is előterjeszthet, ha önhibáján kívüli okból nem vehette át a hivatalos iratot. Ez a rendelkezés irányadó abban az esetben is, ha a kézbesítés elektronikus úton történt.
 

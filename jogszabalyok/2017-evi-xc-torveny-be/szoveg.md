@@ -712,7 +712,7 @@ merült fel.
 
 (2) A meghatalmazott ügyvéd védőként akkor járhat el, ha – a (3) bekezdésben foglalt kivétellel – eredeti meghatalmazását vagy annak hitelesített másolatát az eljáró bírósághoz, ügyészséghez vagy nyomozó hatósághoz benyújtották. Az európai közösségi jogász köteles az ügyvédi tevékenységről szóló törvény alapján ügyvéddel vagy ügyvédi irodával kötött eredeti együttműködési szerződést vagy annak hitelesített másolatát és – ha az nem magyar nyelvű – annak hiteles magyar fordítását az eljáró bírósághoz, ügyészséghez vagy nyomozó hatósághoz benyújtani.
 
-(3) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) a védői meghatalmazásra vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett védői meghatalmazás az eljáró bíróságnak, ügyészségnek, illetve nyomozó hatóságnak történő bejelentéstől hatályos.
+(3) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) a védői meghatalmazásra vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett védői meghatalmazás az eljáró bíróságnak, ügyészségnek, illetve nyomozó hatóságnak történő bejelentéstől hatályos.
 
 (4) A bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt mind az általa, mind az (1) bekezdésben meghatározott segítő által meghatalmazott védő meghatalmazását bármikor visszavonhatja.
 
@@ -2086,7 +2086,7 @@ terjedhet.
 130. § (1) A bíróság, az ügyészség és a nyomozó hatóság az ügyiratát
 
 - a) postai úton,
-- b) elektronikus úton az E-ügyintézési törvény szerinti hivatalos elérhetőségre, illetve biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre,
+- b) a Dáptv. szerinti elektronikus kapcsolattartás útján,
 - c) személyesen,
 - d) hirdetményi úton,
 - e) a bíróság, az ügyészség vagy a nyomozó hatóság kézbesítője útján, vagy
@@ -2136,6 +2136,8 @@ kézbesíti a címzett részére.
 (7) Az egyszerűsített elektronikus úton való kézbesítés szabályszerű, ha az ügyirat címzett részére történő kézbesítéséről a címzett igazolható módon – ideértve a kizárólag hangkapcsolatot biztosító elektronikus úton történő rögzített szóbeli nyilatkozattételt is – nyilatkozik. Az ügyiratot a nyilatkozattétel napján kézbesítettnek kell tekinteni.
 
 (8) Az egyszerűsített elektronikus úton történő kézbesítés nem minősül elektronikus kapcsolattartásnak.
+
+(9) A (6) bekezdés az elektronikus úton kapcsolatot tartó természetes személy esetén is alkalmazható, ha azt indítványozza vagy megalapozottan feltehető, hogy számára az elektronikus kapcsolattartás aránytalan nehézséggel járna. Ha a címzett az egyszerűsített elektronikus úton történő kézbesítést követően nem nyilatkozik a (7) bekezdés szerint a kézbesítésről, a továbbiakban a bíróság, az ügyészség és a nyomozó hatóság elektronikus kapcsolattartás útján kézbesíti részére az ügyiratot.
 
 ### A kézbesítési kifogás
 
@@ -2348,79 +2350,65 @@ rendelkezéseket kell értelemszerűen alkalmazni.
 
 148. § (1) E törvény rendelkezéseit az elektronikus kapcsolattartás során az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) A büntetőeljárásban az elektronikus kapcsolattartás során kizárólag az E-ügyintézési törvény 17. § (1) bekezdésének megfelelő nyilatkozat tehető.
+(2) A büntetőeljárásban az elektronikus kapcsolattartás során kizárólag a Dáptv. 30. § (1) bekezdésének megfelelő nyilatkozat tehető.
 
-### Választható elektronikus kapcsolattartás
+#### 149. §
 
-149. § (1) Az elektronikus kapcsolattartásra nem köteles büntetőeljárásban részt vevő személy vagy a jogi képviselőnek nem minősülő képviselője – feltéve, hogy az elektronikus ügyintézéshez való joga nem szünetel – az eljárás bármely szakaszában vállalhatja az elektronikus kapcsolattartást.
+### A büntetőeljárásban részt vevő személy elektronikus kapcsolattartása
 
-(2) Az elektronikus kapcsolattartásra vonatkozó nyilatkozatot a büntetőeljárásban részt vevő személy vagy képviselője az eljáró bíróságnál, ügyészségnél vagy nyomozó hatóságnál a 148. § (2) bekezdése szerint teheti meg.
+150. § (1) Az elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy – a (3) bekezdésben meghatározott kivétellel – minden beadványt kizárólag elektronikus kapcsolattartás útján nyújthat be a bírósághoz, az ügyészséghez és a nyomozó hatósághoz, és a bíróság, az ügyészség, illetve a nyomozó hatóság is elektronikus kapcsolattartás útján kézbesít a részére.
 
-(3) Az elektronikus kapcsolattartás vállalása esetében az eljárás folyamán a büntetőeljárásban részt vevő személy, illetve jogi képviselőnek nem minősülő képviselője köteles a bírósággal, az ügyészséggel és a nyomozó hatósággal a kapcsolatot a 148. § (2) bekezdése szerint, elektronikus úton tartani és a bíróság, az ügyészség és a nyomozó hatóság is valamennyi ügyiratot elektronikus úton kézbesít a részére.
+(2) A bíróság, az ügyészség és a nyomozó hatóság az első kapcsolatfelvételkor tájékoztatja az elektronikus úton kapcsolatot tartó büntetőeljárásban résztvevő személyt az elektronikus kapcsolattartásra vonatkozó szabályok megszegésének következményeiről, valamint arról, hogy a természetes személy indítványozhatja az egyéb kapcsolattartási mód használatát.
 
-(4) Ha az elektronikus kapcsolattartásra nem köteles büntetőeljárásban részt vevő személy vagy a jogi képviselőnek nem minősülő képviselője az eljárásban még nem vállalta az elektronikus kapcsolattartást, a bíróság, az ügyészség és a nyomozó hatóság a részére papíralapon történő első kézbesítéssel egyidejűleg tájékoztatja arról, hogy a továbbiakban e törvény rendelkezései szerint vállalhatja az elektronikus kapcsolattartást.
+(3) Mentesül az elektronikus kapcsolattartás alól a büntetőeljárásban részt vevő személy, ha elektronikus ügyintézéshez való joga szünetel.
 
-(5) Ha az elektronikus kapcsolattartásra nem köteles büntetőeljárásban részt vevő személy vagy a jogi képviselőnek nem minősülő képviselője a beadványát a 148. § (2) bekezdése szerint, azonban az elektronikus kapcsolattartásra vonatkozó nyilatkozat hiányában nyújtotta be, az eljáró bíróság, ügyészség, illetve nyomozó hatóság elektronikus úton figyelmezteti őt arra, hogy a továbbiakban a kapcsolatot elektronikus úton az erre vonatkozó nyilatkozat 148. § (2) bekezdés szerinti megtételével tarthatja.
+(4) A bíróság, az ügyészség és a nyomozó hatóság felhívhatja a nem elektronikus úton kapcsolatot tartó szakértőt, hogy a szakvéleményt adathordozón is nyújtsa be. A szakértő felel azért, hogy a papíralapú szakvélemény tartalma megegyezzen az adathordozón benyújtott szakvélemény tartalmával.
 
-### Kötelező elektronikus kapcsolattartás
+#### 151. §
 
-150. § (1) Az elektronikus kapcsolattartásra köteles büntetőeljárásban részt vevő személy – a (2) bekezdésben meghatározott kivétellel – minden beadványt kizárólag a 148. § (2) bekezdése szerint, elektronikus úton nyújthat be a bírósághoz, az ügyészséghez és a nyomozó hatósághoz, és a bíróság, az ügyészség, illetve a nyomozó hatóság is elektronikus úton kézbesít a részére.
-
-(2) Mentesül a kötelező elektronikus kapcsolattartás alól a büntetőeljárásban részt vevő személy, ha elektronikus ügyintézéshez való joga szünetel.
-
-### Elektronikus kapcsolattartás a szakértővel
-
-151. § (1) Az elektronikus kapcsolattartásra nem köteles szakértő az igazságügyi szakértői névjegyzékbe történő bejelentéssel, az igazságügyi szakértői névjegyzékben nem szereplő, szakértői tevékenységre jogszabályban feljogosított szakértő a bíróság, az ügyészség és a nyomozó hatóság részére történő nyilatkozattal vállalhatja az elektronikus kapcsolattartást.
-
-(2) Ha a szakértő elektronikus kapcsolattartásra köteles vagy azt az (1) bekezdés szerint vállalja, a szakvéleményét és egyéb beadványát elektronikus úton nyújtja be a bírósághoz, az ügyészséghez és a nyomozó hatósághoz és a bíróság, az ügyészség és a nyomozó hatóság is valamennyi ügyiratot elektronikus úton kézbesít a részére.
-
-(3) A bíróság, az ügyészség és a nyomozó hatóság felhívhatja a nem elektronikus úton kapcsolatot tartó szakértőt, hogy a szakvéleményt adathordozón is nyújtsa be, ha azt elektronikus úton kell kézbesítenie vagy továbbítania. A szakértő felel azért, hogy a papíralapú szakvélemény tartalma megegyezzen az adathordozón benyújtott szakvélemény tartalmával.
-
-### Az elektronikus ügyintézést biztosító szervek egymás közötti és más szervekkel történő elektronikus kapcsolattartása
-
-152. § A büntetőeljárás során az elektronikus ügyintézést biztosító szervek, továbbá a Kormány által kijelölt közfeladatot ellátó szervek elektronikus úton tartják a kapcsolatot egymással.
+#### 152. §
 
 ### A meghatalmazott védőre és jogi képviselőre vonatkozó rendelkezések elektronikus kapcsolattartás során
 
 153. § (1) A meghatalmazás alapján eljáró védő és jogi képviselő a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak benyújtott első beadványa mellékleteként csatolja az elektronikus okiratként rendelkezésre álló vagy az általa digitalizált meghatalmazást, ha a meghatalmazás rendelkezési nyilvántartásba vételét még nem jelentették be. A bíróság, az ügyészség, illetve a nyomozó hatóság – ha e tekintetben alapos kétsége merül fel – digitalizált meghatalmazás esetén az eredeti meghatalmazás bemutatására hívja fel a védőt és a jogi képviselőt az egyezőség megállapítása érdekében.
 
-(2) A meghatalmazott védővel vagy jogi képviselővel eljáró, de saját személyében elektronikus útra nem köteles büntetőeljárásban részt vevő személy a meghatalmazás visszavonására irányuló nyilatkozatát papíralapon is benyújthatja. A meghatalmazás visszavonásával egyidejűleg a büntetőeljárásban részt vevő személy nyilatkozik arról, hogy a nyilatkozat benyújtását követően jogi képviselővel, illetve meghatalmazott védővel vagy anélkül kíván-e eljárni.
+(2) A meghatalmazott védővel vagy jogi képviselővel eljáró, de saját személyében nem elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy a meghatalmazás visszavonására irányuló nyilatkozatát papíralapon is benyújthatja. A meghatalmazás visszavonásával egyidejűleg a büntetőeljárásban részt vevő személy nyilatkozik arról, hogy a nyilatkozat benyújtását követően jogi képviselővel, illetve meghatalmazott védővel vagy anélkül kíván-e eljárni.
 
 (3) Ha a büntetőeljárásban részt vevő személy a meghatalmazás visszavonását követően meghatalmazott védővel, illetve jogi képviselővel jár el, a meghatalmazás visszavonásával egyidejűleg csatolja az eljáró új védő, illetve jogi képviselő meghatalmazását.
 
 ### A határidőre vonatkozó rendelkezések elektronikus kapcsolattartás esetén
 
-154. § (1) Ha a büntetőeljárásban a kapcsolattartás elektronikus úton történik, a napokban, munkanapokban, hónapokban vagy években megállapított határidő esetén a határidő elmulasztásának következményeit nem lehet alkalmazni, ha a bírósághoz, az ügyészséghez vagy a nyomozó hatósághoz intézett beadványt legkésőbb a határidő utolsó napján elektronikus úton szabályszerűen benyújtották.
+154. § (1) Ha a büntetőeljárásban a kapcsolattartás elektronikus úton történik, a napokban, munkanapokban, hónapokban vagy években megállapított határidő esetén a határidő elmulasztásának következményeit nem lehet alkalmazni, ha a bírósághoz, az ügyészséghez vagy a nyomozó hatósághoz intézett beadványt legkésőbb a határidő utolsó napján elektronikus kapcsolattartás útján szabályszerűen benyújtották.
 
 (2) Elektronikus kapcsolattartás esetén a törvény által meghatározott, illetve a bíróság, az ügyészség és a nyomozó hatóság által megállapított határidőbe nem számít bele az a nap, hónapokban és években meghatározott, illetve megállapított határidő esetén az a lejárati nap, amely során legalább négy órán át jogszabályban meghatározottak szerinti üzemzavar vagy üzemszünet állt fenn.
 
 ### Papíralapú okiratok elektronikus kapcsolattartás esetén
 
-155. § (1) Ha a beadvány melléklete nem elektronikus okiratként áll rendelkezésre, az elektronikus kapcsolattartást vállaló és az elektronikus kapcsolattartásra köteles büntetőeljárásban részt vevő személy (a továbbiakban: az elektronikus úton kapcsolatot tartó) köteles gondoskodni a papíralapú melléklet digitalizálásáról és a papíralapú irat megőrzéséről.
+155. § (1) Ha a beadvány melléklete nem elektronikus okiratként áll rendelkezésre, az elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy köteles gondoskodni a papíralapú melléklet digitalizálásáról és a papíralapú irat megőrzéséről.
 
-(2) Ha a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak eredetileg papíralapú ügyiratot elektronikus úton kell kézbesítenie vagy továbbítania, tíz munkanap áll rendelkezésére, hogy azt digitalizálja. Az ügyirat digitalizálásához szükséges időt – legfeljebb azonban öt munkanapot – a határidő számítása szempontjából figyelmen kívül kell hagyni.
+(2) Ha a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak eredetileg papíralapú ügyiratot elektronikus kapcsolattartás útján kell kézbesítenie vagy továbbítania, tíz munkanap áll rendelkezésére, hogy azt digitalizálja. Az ügyirat digitalizálásához szükséges időt – legfeljebb azonban öt munkanapot – a határidő számítása szempontjából figyelmen kívül kell hagyni.
 
 (3) Elektronikus kapcsolattartás esetén a bíróság, az ügyészség és a nyomozó hatóság hivatalból vagy indítványra elrendelheti a beadvány vagy az ügyirat papíralapú vagy adathordozón történő benyújtását, továbbítását illetve kézbesítését. Erre különösen akkor kerülhet sor, ha a beadvány vagy az ügyirat
 
 - a) nagy mennyisége, sajátos alakja vagy jellege miatt a digitalizálás aránytalan nehézséggel járna vagy lehetetlen,
 - b) valódisága vitás, vagy
-- c) elektronikus úton történő kézbesítése vagy továbbítása olyan késedelemmel járna, amely az eljárási cselekmény határidőben történő lefolytatását veszélyeztetné, vagy az eljárás aránytalan elhúzódását okozná.
+- c) elektronikus kapcsolattartás útján történő kézbesítése vagy továbbítása olyan késedelemmel járna, amely az eljárási cselekmény határidőben történő lefolytatását veszélyeztetné, vagy az eljárás aránytalan elhúzódását okozná.
 
 (4) Nem kell alkalmazni az elektronikus kapcsolattartás szabályait a személyes jelenléttel járó eljárási cselekmény során benyújtott beadvány esetén, ideértve a védő és a jogi képviselő részére az eljárási cselekmény helyszínén, valamint az eljárási cselekmény során adott eredeti meghatalmazás azonnali benyújtását is.
 
 ### Kézbesítés elektronikus kapcsolattartás esetén
 
-156. § (1) A nem elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy papíralapú beadványát – feltéve, hogy azt elektronikusan kell kézbesíteni – a bíróság, az ügyészség és a nyomozó hatóság a 155. § (2) bekezdésének megfelelően digitalizálja és azt elektronikus úton kézbesíti a büntetőeljárásban részt vevő, az ügyirat megismerésére jogosult másik személy számára.
+156. § (1) A nem elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy papíralapú beadványát – feltéve, hogy azt elektronikus kapcsolattartás útján kell kézbesíteni – a bíróság, az ügyészség és a nyomozó hatóság a 155. § (2) bekezdésének megfelelően digitalizálja és azt elektronikus kapcsolattartás útján kézbesíti a büntetőeljárásban részt vevő, az ügyirat megismerésére jogosult másik személy számára.
 
-(2) A bíróság, az ügyészség és a nyomozó hatóság a nem elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy részére papíralapon kézbesíti az ügyiratot, ha az eljárásban jogi képviselője vagy elektronikus kapcsolattartást vállaló egyéb képviselője útján jár el, de az ügyiratot nem a képviselő, hanem a büntetőeljárásban részt vevő személy részére kell kézbesíteni, vagy a képviselő részére nem lehet kézbesíteni.
+(2) A bíróság, az ügyészség és a nyomozó hatóság a nem elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy részére papíralapon kézbesíti az ügyiratot, ha az eljárásban jogi képviselője vagy elektronikus úton kapcsolatot tartó egyéb képviselője útján jár el, de az ügyiratot nem a képviselő, hanem a büntetőeljárásban részt vevő személy részére kell kézbesíteni, vagy a képviselő részére nem lehet kézbesíteni.
 
 ### Adatkezelés
 
-157. § A büntetőeljárás során az Országos Bírósági Hivatal és az egyéb elektronikus ügyintézést biztosító szervek jogosultak az elektronikus úton kapcsolatot tartóknak az elektronikus kapcsolattartás biztosítása céljából hozzájuk érkezett adatainak kezelésére.
+157. § A büntetőeljárás során az Országos Bírósági Hivatal és az egyéb digitális szolgáltatást biztosító szervezetek jogosultak az elektronikus úton kapcsolatot tartóknak az elektronikus kapcsolattartás biztosítása céljából hozzájuk érkezett adatainak kezelésére.
 
 ### Elektronikus ügyirat
 
-158. § (1) A bíróság, az ügyészség és a nyomozó hatóság az elektronikus úton kézbesített ügyiratot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel látja el.
+158. § (1) A bíróság, az ügyészség és a nyomozó hatóság az elektronikus kapcsolattartás útján kézbesített ügyiratot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel látja el.
 
 (2) A bíróság, az ügyészség és a nyomozó hatóság által készített, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel ellátott ügyirat közokirat.
 
@@ -2446,33 +2434,17 @@ az eljáró bíróságnál, ügyészségnél, illetve nyomozó hatóságnál ren
 
 ### Az elektronikus kapcsolattartásra vonatkozó szabályok megszegésének következményei
 
-161. § (1) Az elektronikus úton tett nyilatkozat hatálytalan, ha az a 148. § (2) bekezdésében foglaltaknak nem felel meg.
+161. § (1) Az elektronikus kapcsolattartás útján kapcsolatot tartó nyilatkozata hatálytalan, ha az a 148. § (2) bekezdésében foglaltaknak nem felel meg, ide nem értve
 
-(2) Ha az elektronikus úton kapcsolatot tartó a beadványát
+- a) a természetes személy által tett feljelentést,
+- b) ha az eljáró bíróság, az ügyészség, illetve a nyomozó hatóság az elektronikus úton kapcsolatot tartó természetes személy indítványára engedélyezi az eljárás során egyéb kapcsolattartási mód használatát,
+- c) ha az eljáró bíróság, az ügyészség, illetve a nyomozó hatóság a nyilatkozatot szabályszerűen benyújtottnak tekinti.
 
-- a) nem elektronikus úton, vagy
-- b) elektronikus úton, de nem e törvényben, illetve az E-ügyintézési törvényben és végrehajtási rendeleteiben meghatározott módon
+(2) Az (1) bekezdés b) pontja esetén a bíróság, az ügyészség, illetve a nyomozó hatóság határozat meghozatala nélkül dönt, amelyről az indítványozót tájékoztatja.
 
-nyújtotta be, – ha e törvény másként nem rendelkezik – a bíróság, az ügyészség, illetve a nyomozó hatóság a panaszt, a felülbírálati indítványt, a kifogást, a fellebbezést, a felülvizsgálati indítványt és a perújítási indítványt érdemi indokolás nélkül elutasítja, a beadványban foglalt egyéb nyilatkozat pedig hatálytalan.
+(3) Ha a bíróság, az ügyészség, illetve a nyomozó hatóság az (1) bekezdés alapján nem tekinti a nyilatkozatot szabályszerűen benyújtottnak, első alkalommal tájékoztatja a nyilatkozatot benyújtó természetes személyt, hogy a nem szabályszerűen előterjesztett nyilatkozata hatálytalan és azt szabályszerűen elektronikus úton terjesztheti elő vagy indítványozhatja az eljárás során egyéb kapcsolattartási mód használatát. Az első alkalommal nem szabályszerűen előterjesztett igazolási kérelem, panasz, felülbírálati indítvány, kifogás, fellebbezés, felülvizsgálati indítvány és perújítási indítvány esetén az indítvány előterjesztésére rendelkezésre álló, a törvény által meghatározott, illetve a bíróság, az ügyészség és a nyomozó hatóság által megállapított határidőbe nem számít bele az indítvány benyújtása és a természetes személy tájékoztatása közötti időtartam. Az indítványozót erről is tájékoztatni kell.
 
-(3) A bíróság, az ügyészség és a nyomozó hatóság a 148. § (2) bekezdése szerint, elektronikus úton benyújtott beadvány elintézését mellőzheti, ha azt az elektronikus kapcsolattartásra nem köteles büntetőeljárásban részt vevő személy vagy a jogi képviselőnek nem minősülő képviselője
-
-- a) a 149. § (5) bekezdése szerinti figyelmeztetés után és
-- b) az elektronikus kapcsolattartásra vonatkozó, a 149. § (2) bekezdése szerinti nyilatkozat hiányában
-
-nyújtotta be.
-
-(4) Ha az ügyirat azért nem kézbesíthető, mert az elektronikus úton kapcsolatot tartó az elektronikus kapcsolattartáshoz szükséges szolgáltatásokkal nem rendelkezik, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratot papíralapon kézbesíti.
-
-(5) A (4) bekezdésben meghatározott esetben az elektronikus úton kapcsolatot tartó rendbírsággal sújtható.
-
-### Áttérés papíralapú kapcsolattartásra
-
-162. § (1) Ha az elektronikus kapcsolattartásra nem köteles büntetőeljárásban részt vevő személy vagy jogi képviselőnek nem minősülő képviselője vállalta, hogy a kapcsolatot elektronikus úton tartja, utóbb, beadványának papíralapú benyújtásával egyidejűleg indítványozhatja az eljáró bíróságnál, ügyészségnél, vagy nyomozó hatóságnál a papíralapú kapcsolattartásra való áttérés engedélyezését. Az indítványban valószínűsíteni kell, hogy az indítványozó körülményeiben olyan változás következett be, amely miatt az elektronikus úton történő kapcsolattartás a továbbiakban számára aránytalan megterhelést jelentene.
-
-(2) A bíróság, az ügyészség és a nyomozó hatóság a papíralapú kapcsolattartásra való áttérést határozat meghozatala nélkül is engedélyezheti, az áttérés iránti indítvány elutasításáról rendelkező határozatát az indítványozónak papíralapon kézbesíti. E határozat elleni jogorvoslat papíralapon is előterjeszthető. A papíralapon benyújtott, az (1) bekezdés szerinti beadványt az áttérés iránti indítvány elutasítása esetén is szabályszerűen benyújtottnak kell tekinteni, azt – az ismételten alaptalan áttérés iránti indítvány előterjesztésének esetét kivéve – elektronikus úton nem kell benyújtani.
-
-(3) A bíróság, az ügyészség és a nyomozó hatóság papíralapon tartja a kapcsolatot a büntetőeljárásban részt vevő személlyel, illetve papíralapú kapcsolattartásra tér át, ha a büntetőeljárásban részt vevő személy elektronikus ügyintézéshez való joga szünetel.
+#### 162. §
 
 ## ÖTÖDIK RÉSZ — A BIZONYÍTÁS
 
@@ -11932,6 +11904,11 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 (5) Az e törvény hatálybalépése előtt történt hatályon kívül helyezés esetén a megismételt eljárást a korábbi jogszabály szerint hatáskörrel és illetékességgel rendelkező bíróság folytatja le, ha az ügy a megismételt eljárás lefolytatására e törvény hatálybalépése előtt érkezett a bírósághoz.
 
 (6) E törvénynek a büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról szóló 2020. évi XLIII. törvénnyel megállapított 20. § (1) bekezdés 20. pontját a 2021. január 1. napját követően a bírósághoz érkezett ügyekben kell alkalmazni.
+
+(7) Ha e törvénynek a 2024. augusztus 31. napján hatályos szabályai szerint a bíróság, az ügyészség és a nyomozó hatóság a folyamatban levő ügyben papíralapon tartotta a kapcsolatot valamely, a büntetőeljárásban részt vevő természetes személlyel, és ez a személy e törvénynek a 2024. augusztus 31. napját követően hatályos szabályai szerint elektronikus úton kapcsolatot tartó, a büntetőeljárásban részt vevő személynek minősül, akkor a bíróság, az ügyészség és a nyomozó hatóság ezzel a személlyel a folyamatban levő ügyben továbbra is papíralapon tartja a kapcsolatot, kivéve ha
+
+- a) a bíróság, az ügyészség és a nyomozó hatóság tájékoztatja az elektronikus úton kapcsolatot tartó, a büntetőeljárásban részt vevő személyt arról, hogy köteles elektronikus úton kapcsolatot tartani, vagy
+- b) a büntetőeljárásban részt vevő személy a folyamatban levő ügyben 2024. augusztus 31. napját követően elektronikus úton tesz nyilatkozatot vagy más írásbeli beadványt a bírósághoz, az ügyészséghez, illetve a nyomozó hatósághoz.
 
 869. § (1) A 14. § (3) bekezdés a) pontjának alkalmazása során a törvényszék másodfokú tanácsának tagjaként eljáró bíró a 2016. november 30. után indult büntetőeljárásokban minősül kizártnak.
 

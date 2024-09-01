@@ -388,7 +388,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - b) a 18/A. § szerinti nyilvántartás a 18/A. § d) és e) pontja szerinti adatkör tekintetében, és
 - c) a 18/B. § szerinti nyilvántartás a szociális vagy gyermekvédelmi ellátás megnevezése, jogcíme, összege, az arra való jogosultság fennállásának érdemi elbírálására, a jogosultság megváltoztatására és megszüntetésére vonatkozó adatok, a megszüntetés jogcíme, az ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontja adatkörök tekintetében.
 
-(1c) Az (1) és (1a) bekezdéstől eltérően a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felület útján – a jogosult azonosításához szükséges adatok tekintetében, valamint
+(1c) Az (1) és (1a) bekezdéstől eltérően a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus információelérési felület útján – a jogosult azonosításához szükséges adatok tekintetében, valamint
 
 - a) a szociális ellátások tekintetében a 18/A. § d) és e) pontjában, és
 - b) a gyermekvédelmi ellátások tekintetében a Gyvt. 138. § (1) bekezdés d) pontjában

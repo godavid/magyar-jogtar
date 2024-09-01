@@ -274,7 +274,7 @@ az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 
 (1) A hatóság
 
-- a) írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy
+- a) írásban, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben (a továbbiakban: Dáptv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy
 - b) személyesen – ideértve az összeköttetés közvetlenségét, kölcsönösségét, folyamatos kép- és hangkapcsolatot biztosító telekommunikációs eszköz alkalmazását, ha az az adott eljárási cselekmény lefolytatására alkalmas –, illetve írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban)
 
 tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
@@ -406,7 +406,7 @@ A kérelem automatikus döntéshozatali eljárásban, sommás vagy teljes eljár
 
 Automatikus döntéshozatalnak van helye, ha
 
-- a) az Eüsztv. szerinti automatikus döntéshozatali eljárás feltételei fennállnak és nincs ellenérdekű ügyfél, vagy
+- a) a Dáptv. szerinti automatikus döntéshozatali eljárás feltételei fennállnak és nincs ellenérdekű ügyfél, vagy
 - b) a kérelem tekintetében
   - ba) törvény vagy kormányrendelet lehetővé teszi,
   - bb) a hatóság részére a benyújtásakor minden adat rendelkezésére áll,
@@ -438,7 +438,7 @@ Ha az automatikus döntéshozatali eljárásban és a sommás eljárásban hozot
 
 (2) A hatóság teljes eljárásra történő áttérés esetén – amennyiben annak feltételei fennállnak – elektronikus úton tájékoztatja az ügyfelet a teljes eljárás ügyintézési határidejéről, a határidő túllépésének jogkövetkezményeiről és arról, hogy a hatóság a továbbiakban a teljes eljárás szabályai szerint jár el.
 
-(3) Amennyiben az ügyben van ellenérdekű ügyfél, a hatóság őt az Eüsztv. szerinti ügyintézési rendelkezése szerint, ennek hiányában elektronikus úton, amennyiben erre nincsen mód, akkor egyéb kapcsolattartási módon tájékoztatja az ügy tárgyáról, az eljárás megindításának napjáról, az iratokba való betekintés és a nyilatkozattétel lehetőségéről, kérelemre indult eljárásban a kérelmező ügyfél nevéről.
+(3) Amennyiben az ügyben van ellenérdekű ügyfél, a hatóság őt a Dáptv. szerinti ügyintézési rendelkezése szerint, ennek hiányában elektronikus úton, amennyiben erre nincsen mód, akkor egyéb kapcsolattartási módon tájékoztatja az ügy tárgyáról, az eljárás megindításának napjáról, az iratokba való betekintés és a nyilatkozattétel lehetőségéről, kérelemre indult eljárásban a kérelmező ügyfél nevéről.
 
 #### 20. Hiánypótlás
 
@@ -702,7 +702,7 @@ Ha a tényállás tisztázása azt szükségessé teszi, a hatóság az ügyfele
 
 #### 65. § [Az iratra vonatkozó szabályok]
 
-(1) A hatóság, ha a tényállás tisztázása során szükséges, és az az Eüsztv. alapján nem szerezhető be – a 36. § (2) bekezdésben meghatározottak kivételével – felhívhatja az ügyfelet okirat vagy más irat bemutatására.
+(1) A hatóság, ha a tényállás tisztázása során szükséges, és az a Dáptv. alapján nem szerezhető be – a 36. § (2) bekezdésben meghatározottak kivételével – felhívhatja az ügyfelet okirat vagy más irat bemutatására.
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, az ügyfél az iratot másolatban is benyújthatja, ha nyilatkozik arról, hogy az az eredetivel mindenben megegyezik.
 
@@ -949,7 +949,7 @@ A hatóság a döntést azonnal végrehajthatónak nyilvánítja, ha
 
 (2) A végzést a hatóság közli azzal, akire nézve az rendelkezést tartalmaz, és akinek a jogát vagy jogos érdekét érinti. A hatóság az ügyfél kérelmére egy ízben, külön illeték vagy díj felszámítása nélkül ad ki másolatot a vele nem közölt végzésről.
 
-(3) A hatóság a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy az Eüsztv.-ben meghatározott elektronikus úton kézbesíti.
+(3) A hatóság a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy a Dáptv.-ben meghatározott elektronikus úton kézbesíti.
 
 (4) Ha jogszabály nem zárja ki, a döntést szóban is közölni lehet az (1) és (2) bekezdésben meghatározott személlyel. A közlés tényét és időpontját az iratra fel kell jegyezni, és azt alá kell íratni. Ha azt az (1) és (2) bekezdésben meghatározott személy kéri, a szóban közölt döntést a hatóság írásban is megküldi a részére.
 
