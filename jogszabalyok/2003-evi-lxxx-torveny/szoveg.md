@@ -677,7 +677,7 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 (3) A szolgáltatási szerződés hároméves időtartamra köthető; módosítására akkor van lehetőség, ha a jogi segítő névjegyzékben szerepelő adataiban változás következett be, vagy ha szakterületét kívánja módosítani, illetve a havonta ellátni vállalt ügyek számát emelni.
 
-(4) A szolgáltatási szerződés módosítása elektronikus kapcsolattartás útján kezdeményezhető. Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) rendelkezéseit kell alkalmazni.
+(4) A szolgáltatási szerződés módosítása elektronikus kapcsolattartás útján kezdeményezhető. Az elektronikus úton való kapcsolattartásra a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) rendelkezéseit kell alkalmazni.
 
 (5) A szolgáltatási szerződés tartama alatt elvállalt ügyekben a szerződés megszűnését követően is köteles a jogi segítő – a támogatás hatályának fennálltáig – a szolgáltatási szerződésben foglaltak szerinti jogi szolgáltatást teljesíteni, a jogi segítségnyújtó szolgálat pedig a jogi szolgáltatásért járó díjazást a szerződés szerint megfizetni.
 
@@ -745,11 +745,11 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 (3c) Az a jogi segítő, akinek a szolgáltatási szerződése a 71. § (3) bekezdés szerint felmondásra került, a felmondástól számított három évig nem köthet jogi segítő szervezettel jogi szolgáltatásra irányuló megbízási szerződést.
 
-(4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi. A jogi segítő a szerződés felmondását tartalmazó nyilatkozatát elektronikus kapcsolattartás útján nyújtja be a jogi segítségnyújtó szolgálatnak. Az elektronikus úton való kapcsolattartásra az E-ügyintézési törvény rendelkezéseit kell alkalmazni.
+(4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi. A jogi segítő a szerződés felmondását tartalmazó nyilatkozatát elektronikus kapcsolattartás útján nyújtja be a jogi segítségnyújtó szolgálatnak. Az elektronikus úton való kapcsolattartásra a Dáptv. rendelkezéseit kell alkalmazni.
 
 ### A névjegyzékbe vételi eljárás
 
-71/A. § (1) A névjegyzékbe vétel a jogi segítségnyújtó szolgálatnál, a szolgáltatási szerződés megkötését kezdeményező adatlap elektronikus kapcsolattartás útján való benyújtásával kérhető. Az elektronikus úton való kapcsolattartásra az E-ügyintézési törvény rendelkezéseit kell alkalmazni.
+71/A. § (1) A névjegyzékbe vétel a jogi segítségnyújtó szolgálatnál, a szolgáltatási szerződés megkötését kezdeményező adatlap elektronikus kapcsolattartás útján való benyújtásával kérhető. Az elektronikus úton való kapcsolattartásra a Dáptv. rendelkezéseit kell alkalmazni.
 
 (2) Ha a 66. §-ban foglalt feltételeknek megfelelő kérelmező által benyújtott szolgáltatási szerződés megkötését kezdeményező adatlap valamennyi szükséges adatot tartalmazza, a jogi segítségnyújtó szolgálat annak beérkezését követő nyolc napon belül felveszi a kérelmezőt a névjegyzékbe. A jogi segítségnyújtó szolgálat a névjegyzékbe vételről a jogi segítőt a névjegyzékbe vétel időpontjának megjelölésével értesíti.
 

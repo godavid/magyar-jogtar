@@ -240,6 +240,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 (7) A páneurópai egyéni nyugdíjtermék (PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és az Fnyt. VI. Fejezetében foglalt eltérésekkel kell alkalmazni.
 
+(8) Az (1) bekezdés c) pontjában meghatározott tevékenység végzése során a Bszt. X. Fejezetének és XI. Fejezetének rendelkezéseit az adott tevékenységre megfelelően alkalmazni kell.
+
 7. § (1) Az ABAK-nak az 5. § szerinti hatósági engedély birtokában legalább az alábbi tevékenységeket kell végeznie:
 
 - a) befektetéskezelés (a befektetési politika végrehajtásával kapcsolatos befektetési, stratégiai és eszközallokációs döntések meghozatala és végrehajtása);
@@ -278,6 +280,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 (7) Az ABAK az (1)–(3) bekezdésben meghatározott tevékenységek folytatása mellett az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti páneurópai egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is végezheti.
 
 (8) A páneurópai egyéni nyugdíjtermék (PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és az Fnyt. VI. Fejezetében foglalt eltérésekkel kell alkalmazni.
+
+(9) A (2) bekezdés b) pontjában meghatározott tevékenység végzése során a Bszt. X. Fejezetének és XI. Fejezetének rendelkezéseit az adott tevékenységre megfelelően alkalmazni kell.
 
 #### 2. ÁÉKBV-alapkezelőre vonatkozó engedélyezési feltételek
 

@@ -508,7 +508,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-38. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+38. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései szerint jár el.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – törvény eltérő rendelkezése hiányában – kérelemre jár el.
 
@@ -621,7 +621,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 (6) Az ügygondnok költségének és munkadíjának előlegezésére azt kell kötelezni, aki a kirendelést kérte.
 
-(7) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény, valamint az e törvény elektronikus ügyintézésre vonatkozó rendelkezéseinek alkalmazásában védjegyügyekben jogi képviselőnek minősül a szabadalmi ügyvivő, a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság is.
+(7) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény, valamint az e törvény elektronikus ügyintézésre vonatkozó rendelkezéseinek alkalmazásában védjegyügyekben jogi képviselőnek minősül a szabadalmi ügyvivő, a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság is.
 
 ### Nyelvhasználat
 
@@ -689,7 +689,7 @@ feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekez
 
 ### Elektronikus ügyintézés és hatósági szolgáltatás
 
-46/D. § (1) Védjegyügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
+46/D. § (1) Védjegyügyekben a Szellemi Tulajdon Nemzeti Hivatala a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
 (2) Védjegyügyekben az ügyfél és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
 

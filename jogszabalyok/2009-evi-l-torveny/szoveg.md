@@ -113,7 +113,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) Elektronikus úton beadványt úgy lehet benyújtani, hogy a beadvány adatait annak benyújtója a MOKK rendszerébe beviszi és minősített elektronikus aláírással, valamint minősített időbélyegzővel látja el.
 
-(3) A jogi személy és az elektronikus ügyintézés és bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) alapján elektronikus ügyintézésre kötelezett egyéb személy beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
+(3) A jogi személy és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) alapján elektronikus ügyintézésre kötelezett egyéb személy beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
 
 (4)
 
@@ -168,7 +168,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) A fizetési meghagyás kibocsátása iránti kérelmét elektronikusan előterjesztő jogosult részére az iratokat – a jelenlévő félnek nyomban kézbesítésre kerülő irat kivételével – a 16/A. § szerint elektronikus úton kell kézbesíteni, illetve megküldeni.
 
-(6) Az (5) bekezdés hatálya alá nem tartozó, az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett személy részére az iratokat elektronikusan, az E-ügyintézési törvény szerint kell kézbesíteni.
+(6) Az (5) bekezdés hatálya alá nem tartozó, a Dáptv. alapján elektronikus ügyintézésre kötelezett személy részére az iratokat elektronikusan, a Dáptv. szerint kell kézbesíteni.
 
 16/A. § (1) Az elektronikus úton kézbesítendő irathoz a címzett az üggyel érintett regisztrációjához tartozó felhasználói felületről férhet hozzá.
 
@@ -279,7 +279,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - i) a jogosult követelése idő előtti vagy – az elévülés esetét kivéve – bírósági úton nem érvényesíthető;
 - j) külön jogszabály az igény polgári eljárás útján történő érvényesítésére határidőt állapít meg és azt a jogosult elmulasztotta;
 - k) a jogi képviselő által benyújtott kérelem nem tartalmazza az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban foglaltakat, a meghatalmazásáról szóló nyilatkozatot, vagy elmulasztották az eljárási díj megfizetésére vonatkozó kötelezettség teljesítését;
-- l) a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy a kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve, ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §);
+- l) a jogi személy és a Dáptv. alapján elektronikus ügyintézésre kötelezett egyéb személy a kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve, ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §);
 - m) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el, vagy a jogosult nem előlegezte meg az ügygondnoki díjat; vagy
 - n) a jogosult eljárási költségként anyagi jogi követelést érvényesít.
 
@@ -407,10 +407,10 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 - a) az elkésett,
 - b) nem az ellentmondás előterjesztésére jogosulttól származik,
-- c) a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, vagy
+- c) a jogi személy és a Dáptv. alapján elektronikus ügyintézésre kötelezett egyéb személy azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, vagy
 - d) a 32. § (2) bekezdésben meghatározott ok áll fenn.
 
-(6) Ha a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy ellentmondását nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, az ellentmondást hiánypótlási felhívás nélkül kell visszautasítani.
+(6) Ha a jogi személy és a Dáptv. alapján elektronikus ügyintézésre kötelezett egyéb személy ellentmondását nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, az ellentmondást hiánypótlási felhívás nélkül kell visszautasítani.
 
 (7) Az ellentmondást visszautasító végzés ellen a kötelezett fellebbezéssel élhet.
 
@@ -431,7 +431,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) A közjegyző a felhívásban tájékoztatja a jogosultat arról, ha
 
-- a) a jogosult az E-ügyintézési törvény alapján elektronikus ügyintézésre köteles és a keresetet tartalmazó iratot és minden egyéb beadványát, ezek mellékletét elektronikus úton köteles benyújtani, valamint az illetéket elektronikus úton vagy a Magyar Államkincstár illetékbevételi számlájára köteles megfizetni;
+- a) a jogosult a Dáptv. alapján elektronikus ügyintézésre köteles és a keresetet tartalmazó iratot és minden egyéb beadványát, ezek mellékletét elektronikus úton köteles benyújtani, valamint az illetéket elektronikus úton vagy a Magyar Államkincstár illetékbevételi számlájára köteles megfizetni;
 - b) a perben a jogi képviselet kötelező és a keresetet tartalmazó iratot jogi képviselő közreműködése útján köteles előterjeszteni;
 - c) a per járásbíróság hatáskörébe tartozik és a jogosult jogi képviselő nélkül jár el, a keresetet tartalmazó iratot jogszabályban meghatározott, erre rendszeresített nyomtatványon kell előterjeszteni;
 - d) a per járásbíróság hatáskörébe tartozik és a jogosult a keresetet tartalmazó iratot jogi képviselő közreműködésével nyújtja be, az a Pp. 244. §-ának alkalmazása szempontjából a jogi képviselővel történő eljárás választásának minősül;
@@ -702,7 +702,7 @@ vonatkozó rendelkezéseit kell megfelelően alkalmazni; az a) és b) pontban me
 
 (9) Az európai fizetési meghagyás végrehajtásának magyar közjegyző általi elrendelése iránti eljárásra e törvénynek a végrehajtás elrendelésére vonatkozó szabályait kell alkalmazni.
 
-(10) Az európai fizetési meghagyásos eljárásban a beadványokat az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett személy az E-ügyintézési törvényben és végrehajtási rendeleteiben meghatározott módon, elektronikusan az eljáró közjegyzőhöz, más személy az eljáró közjegyzőnél papír alapon írásban terjesztheti elő. Az eljárásban a Kjnp. 15/A–15/D. §-a megfelelően alkalmazandó, és az e törvénynek a MOKK rendszerére vonatkozó rendelkezései nem alkalmazhatók.
+(10) Az európai fizetési meghagyásos eljárásban a beadványokat a Dáptv. alapján elektronikus ügyintézésre kötelezett személy a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon, elektronikusan az eljáró közjegyzőhöz, más személy az eljáró közjegyzőnél papír alapon írásban terjesztheti elő. Az eljárásban a Kjnp. 15/A–15/D. §-a megfelelően alkalmazandó, és az e törvénynek a MOKK rendszerére vonatkozó rendelkezései nem alkalmazhatók.
 
 (11) Az európai fizetési meghagyásos eljárásért a közjegyző részére külön jogszabály szerint meghatározott módon eljárási díjat kell fizetni; a 42. § (1) és (2) bekezdését, és a 46. § (3)–(5) bekezdését nem lehet alkalmazni. Az európai fizetési meghagyás végrehajtásának elrendeléséért az 55. § (1) és (2) bekezdésében meghatározott összegű díjat, valamint a végrehajtási lap visszavonása iránti kérelem előterjesztéséért az 55. § (9) bekezdésében meghatározott összegű díjat a közjegyző részére külön jogszabály szerint meghatározott módon kell megfizetni, a díj az eljáró közjegyzőt illeti.
 

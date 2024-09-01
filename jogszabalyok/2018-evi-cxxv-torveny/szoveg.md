@@ -1392,11 +1392,11 @@ kézbesítettnek kell tekinteni.
 
 #### 72. § [Az elektronikus dokumentum kézbesítése]
 
-(1) A 71. § (11) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. §-ában és 15. § (2) és (3) bekezdésében foglalt rendelkezéseket a (3) és a (3a) bekezdésben foglalt eltérésekkel kell alkalmazni azzal, hogy ügyfél alatt kormánytisztviselőt, elektronikus ügyintézést biztosító szerv alatt a kormányzati igazgatási szervet kell érteni.
+(1) A 71. § (11) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 25. §-ában és a 27. §-ában foglalt rendelkezéseket a (3) és a (3a) bekezdésben foglalt eltérésekkel kell alkalmazni azzal, hogy felhasználó alatt kormánytisztviselőt, digitális szolgáltatást biztosító szerv alatt a kormányzati igazgatási szervet kell érteni.
 
-(2) A kormánytisztviselő köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A kormánytisztviselő e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
+(2) A kormánytisztviselő köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó ajánlott elektronikus kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és ajánlott elektronikus kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A kormánytisztviselő e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
 
-(3) A 71. § (11) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítése esetén az E-ügyintézési tv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+(3) A 71. § (11) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítése esetén a Dáptv. 27. §-ától eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
 
 (3a) A (3) bekezdéstől eltérően a jogviszonyt azonnali hatállyal megszüntető munkáltatói intézkedést tartalmazó irat a címzett (2) bekezdés szerinti tárhelyére történő megküldésről szóló értesítési igazolásban foglalt időpontban minősül kézbesítettnek.
 
@@ -1938,7 +1938,7 @@ kell érteni.
 
 (3) A fogyatékossággal élő, illetve a megváltozott munkaképességű kormánytisztviselő foglalkoztatása során a kormányzati igazgatási szervnek gondoskodnia kell az észszerű alkalmazkodás feltételeinek biztosításáról.
 
-(4) A kormányzati igazgatási szerv köteles ingyenesen biztosítani a kormánytisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a kormányzati szolgálati jogviszony fennállása alatt.
+(4) A kormányzati igazgatási szerv a munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatkör tekintetében ingyenesen biztosítja a kormánytisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a kormányzati szolgálati jogviszony fennállása alatt.
 
 (5) A kormányzati igazgatási szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben – a Kormány rendeletében meghatározattak szerint – közszolgálati szabályzatot kiadni.
 

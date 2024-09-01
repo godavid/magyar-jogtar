@@ -206,11 +206,11 @@ rendelkezésre állása biztosítandó.
 
 (5) A kiállító szerv az EESZT működtetőjének adatfeldolgozóként történő bevonásával látja el a 15/A. § (1) bekezdése szerinti feladatát.
 
-15/C. § (1) A kiállító szerv a digitális Covid-igazolvány kiállítása érdekében jogosult – ha az nem áll a kiállító szerv rendelkezésére – a digitális Covid-igazolványon a 15/A. § (2) bekezdése szerint feltüntetendő adatokat az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elsődleges információforrásból – a technikai lehetőségek fennállása esetén automatikus információátadással – átvenni.
+15/C. § (1) A kiállító szerv a digitális Covid-igazolvány kiállítása érdekében jogosult – ha az nem áll a kiállító szerv rendelkezésére – a digitális Covid-igazolványon a 15/A. § (2) bekezdése szerint feltüntetendő adatokat a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti elsődleges információforrásból – a technikai lehetőségek fennállása esetén automatikus információátadással – átvenni.
 
 (2) A kiállító szerv a digitális Covid-igazolványon a 15/A. § (2) bekezdése szerint feltüntetendő adatokat az elsődleges információforrás akadályoztatása esetén másodlagos információforrásból is átveheti.
 
-(3) Az Eüsztv. 60. § (3) bekezdésétől eltérően e § alkalmazásában elsődleges információforrásnak kell tekinteni bármilyen olyan közfeladatot ellátó vagy egészségügyi tevékenységet végző szervet vagy személyt, amelynél vagy akinél az adat
+(3) A Dáptv. 76. § (3) bekezdésétől eltérően e § alkalmazásában elsődleges információforrásnak kell tekinteni bármilyen olyan közfeladatot ellátó vagy egészségügyi tevékenységet végző szervet vagy személyt, amelynél vagy akinél az adat
 
 - a) az általa vezetett közhiteles nyilvántartásban szerepel,
 - b) közfeladata ellátása vagy egészségügyi tevékenysége során keletkezett, vagy

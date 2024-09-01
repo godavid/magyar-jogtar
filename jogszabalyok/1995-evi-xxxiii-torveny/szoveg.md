@@ -602,7 +602,7 @@ hasznosítására.
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-45. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény rendelkezései szerint jár el.
+45. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény rendelkezései szerint jár el.
 
 (2) Szabadalmi ügyekben nem alkalmazható az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 14. § (1) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 48. § (1)–(4) bekezdése, 62. § (1) bekezdése, 74. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 94. § (2) bekezdése, 97. §-a, 127. § (2) bekezdése és 130. §-a.
 
@@ -733,7 +733,7 @@ hasznosítására.
 
 (6) Az ügygondnok költségének és munkadíjának előlegezésére azt kell kötelezni, aki a kirendelést kérte.
 
-(7) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény, valamint e törvény elektronikus ügyintézésre vonatkozó rendelkezéseinek alkalmazásában szabadalmi ügyekben jogi képviselőnek minősül a szabadalmi ügyvivő, a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság is.
+(7) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény, valamint e törvény elektronikus ügyintézésre vonatkozó rendelkezéseinek alkalmazásában szabadalmi ügyekben jogi képviselőnek minősül a szabadalmi ügyvivő, a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság is.
 
 ### Nyelvhasználat
 
@@ -820,7 +820,7 @@ hasznosítására.
 
 ### Elektronikus ügyintézés és hatósági szolgáltatás
 
-53/D. § (1) Szabadalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
+53/D. § (1) Szabadalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
 (2) Szabadalmi ügyekben az ügyfél és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
 

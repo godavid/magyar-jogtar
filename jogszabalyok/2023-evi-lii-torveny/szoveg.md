@@ -1149,7 +1149,7 @@ kell tekinteni.
 
 (2) A munkáltató köteles a köznevelési foglalkoztatotti jogviszonyban állónak a köznevelési foglalkoztatotti jogviszonyból származó kötelezettsége teljesítése során indokoltan felmerült költségét megtéríteni. Köteles továbbá megtéríteni annak a képzésnek a költségét, amelyre a köznevelési foglalkoztatotti jogviszonyban állót a kötelező pedagógus továbbképzésről szóló, illetve a köznevelésért felelős miniszter által előírt képzésről szóló jogszabályban foglaltakon kívül kötelezte.
 
-(3) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkába lépést megelőzően és a köznevelési foglalkoztatotti jogviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a köznevelési foglalkoztatotti jogviszonyban álló munkaköri alkalmassági vizsgálatát.
+(3) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott esetben a munkáltató a munkába lépést megelőzően és a köznevelési foglalkoztatotti jogviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a köznevelési foglalkoztatotti jogviszonyban álló munkaköri alkalmassági vizsgálatát.
 
 (4) A fogyatékossággal élő személy foglalkoztatása során gondoskodni kell az észszerű alkalmazkodás feltételeinek biztosításáról.
 
@@ -1468,7 +1468,9 @@ megtartása rendelhető el.
 - b) heti két óra időtartamban az – osztályfőnöki órán felül – osztályfőnöki, kollégiumi tanulócsoport-vezetői munkával összefüggő tevékenységet,
 - c) heti két óra időtartamban a munkaközösség-vezetéssel, tanszakvezetéssel összefüggő feladatokat,
 - d) az a)–c) pontban foglalt több feladat ellátása esetén összesen legfeljebb heti négy órát,
-- e) az a)–d) pontban foglaltakon felül heti egy óra időtartamban nem gyakorló köznevelési intézményben a pedagógusjelöltek mentorálását.
+- e) az a)–d) pontban foglaltakon felül heti egy óra időtartamban
+  - ea) a gyakornok mentorálását,
+  - eb) nem gyakorló köznevelési intézményben a pedagógusjelöltek mentorálását.
 
 (3) A kollégiumi nevelőtanár a neveléssel-oktatással lekötött munkaidejét az (1) és (2) bekezdésben foglalt feladatokon túl teljesítheti az iskolai vagy kollégiumi foglalkozáson részt nem vevő tanulók – étkezési, alvási és a heti pihenőnapon, munkaszüneti napon teljesített ügyeleti időn kívüli – folyamatos pedagógiai felügyeletébe tartozó egyes feladatoknak a rendes munkaidőn belül történő ellátásával is.
 

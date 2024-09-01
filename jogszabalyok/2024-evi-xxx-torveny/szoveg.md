@@ -18,7 +18,9 @@ a gyermekek védelme érdekében egyes törvények módosításáról
 
 #### 5. §
 
-#### 6. §
+6. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény a következő 6/B. §-sal egészül ki:
+
+„6/B. § A gyermek- és ifjúságpolitikáért felelős miniszter feladata a gyermekeket érő elektroakusztikus zaj egészségkárosító hatásait mérséklő és e zajforrások által kiváltott hatásokkal szembeni védekezéssel kapcsolatos tudatosságot elősegítő intézkedések kezdeményezése. A miniszter e célok elérése érdekében tájékoztató kampányokat kezdeményez, amelyek segítik a szülői tudatosságot és ösztönözik az elektroakusztikus hangosítás igénybevétele mellett tartott nyilvános rendezvények szervezőit az egészségmegóvás támogatására.”
 
 #### 7. §
 
@@ -28,9 +30,24 @@ a gyermekek védelme érdekében egyes törvények módosításáról
 
 10. § (1)
 
-(2)
+(2) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 17. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-(3)
+„(4) Ha az (1) bekezdésben meghatározott személy vagy szerv alkalmazottja a (2) vagy (3) bekezdésben foglalt jelzési vagy együttműködési kötelezettségének nem tesz eleget, a gyámhatóság – jelzésre vagy hivatalból – értesíti a fegyelmi jogkör gyakorlóját és javaslatot tesz az érintett személlyel szembeni fegyelmi felelősségre vonás megindítására. A gyermek sérelmére elkövetett bűncselekmény gyanúja esetén a gyámhatóság büntetőeljárást kezdeményez.”
+
+(3) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 17. §-a a következő (4a)–(4d) bekezdéssel egészül ki:
+
+„(4a) Ha az (1) bekezdésben meghatározott személy vagy szerv alkalmazottja, illetve vezetője kiemelt veszélyeztető okra utaló körülményt észlel, és haladéktalanul, de legkésőbb három munkanapon belül nem tesz eleget a (2) bekezdésben meghatározott jelzési vagy kezdeményezési kötelezettségének, vagy nem tesz feljelentést, büntetőjogi felelősségre vonásának van helye.
+
+(4b) Ha az (1) bekezdésben meghatározott szerv alkalmazottja a (2) bekezdésben meghatározott jelzési vagy kezdeményezési kötelezettséget nem közvetlenül, hanem a szerv vezetője, vagy arra kijelölt személy útján gyakorolja, kiemelt veszélyeztető okra utaló körülmény észlelése esetén haladéktalanul, de legkésőbb három munkanapon belül köteles azt a szerv vezetőjénél vagy a kijelölt személynél kezdeményezni. A szerv vezetője vagy az arra kijelölt személy a kezdeményezést követő három munkanapon belül teljesíti a (2) bekezdésben foglalt kötelezettséget, amelynek elmulasztása büntetőjogi felelősségre vonással jár.
+
+(4c) Ha a gyermekjóléti szolgáltatást nyújtó szolgáltató munkatársa vagy a gyámhatóság ügyintézője a kiemelt veszélyeztető okra vonatkozó jelzésnek vagy kezdeményezésnek haladéktalanul, de legkésőbb három munkanapon belül nem kezdi meg a vizsgálatát, büntetőjogi felelősségre vonásának van helye.
+
+(4d) A (4a)–(4c) bekezdés alkalmazásában kiemelt veszélyeztető okra utaló körülmények:
+
+- a) a gyermek szexuális bántalmazására utaló körülmények közül miniszteri rendeletben meghatározottak,
+- b) a gyermek fizikai bántalmazására utaló körülmények közül miniszteri rendeletben meghatározottak,
+- c) a gyermek elhanyagolására utaló körülmények közül miniszteri rendeletben meghatározottak és
+- d) a gyermek által megkísérelt öngyilkosság, ha a gyermek még nem részesül egészségügyi ellátásban, gyermekjóléti alapellátásban vagy gyermekvédelmi szakellátásban, illetve pszichés megsegítésben.”
 
 #### 11. §
 
@@ -94,11 +111,15 @@ a gyermekek védelme érdekében egyes törvények módosításáról
 
 #### 40. §
 
-#### 5.
+#### 5. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-#### 41. §
+41. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 16/A. §-a a következő (7) bekezdéssel egészül ki:
 
-#### 42. §
+„(7) A zajszint kibocsátására alkalmas, szórakoztató célú elektronikus eszközhöz csatlakoztatható fej- vagy fülhallgató értékesítése során, a forgalmazó köteles a fej- vagy fülhallgató átadásával egyidejűleg az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott hallásvédelmi tájékoztatót mellékelni.”
+
+42. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a gyermekek és az ifjúság védelméért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben rendeletben szabályozza a 16/A. § (7) bekezdés szerinti hallásvédelmi tájékoztató tartalmára vonatkozó szabályokat.”
 
 #### 6. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
@@ -162,7 +183,11 @@ a gyermekek védelme érdekében egyes törvények módosításáról
 
 #### 64. §
 
-#### 65. §
+65. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény a 209. §-t követően a következő alcímmel egészül ki:
+
+### „Gyermekvédelmi jelzéssel kapcsolatos kötelezettség megszegése
+
+209/A. § Aki a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 17. § (4a)–(4c) bekezdésében meghatározott, a gyermekek veszélyeztetettségével kapcsolatos kiemelt veszélyeztető okra utaló körülménnyel összefüggő kötelezettségét megszegi, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.”
 
 #### 66. §
 

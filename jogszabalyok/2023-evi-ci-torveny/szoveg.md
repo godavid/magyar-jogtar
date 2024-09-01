@@ -910,7 +910,7 @@ eljárásban.
 - a) a miniszter a 8. § (2) bekezdés b) pontja vagy a 27. § (2) bekezdése szerinti döntése alapján jár el;
 - b) az adott igényre vonatkozó miniszteri döntés hiányában a miniszter által előzetesen jóváhagyott szakmai szabályok és alapelvek figyelembevételével jár el.
 
-76. § (1) A formalizálható igénytípusokra – ahol az igény teljesítésére vonatkozó döntés algoritmus alapján meghatározható – a NAVÜ az E-ügyintézési tv. 11. § (1) bekezdése szerinti automatikus döntéshozatali eljárást alkalmazhat.
+76. § (1) A formalizálható igénytípusokra – ahol az igény teljesítésére vonatkozó döntés algoritmus alapján meghatározható – a NAVÜ a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 21. § (1) bekezdése szerinti automatikus döntéshozatali eljárást alkalmazhat.
 
 (2) A NAVÜ az igény teljesítéséhez a közfeladatot ellátó szervtől átvett adatot a 14. § (2) bekezdése szerinti esetekben jogosult feladatai ellátása céljából a Nemzeti Adatplatformon tárolni és azokat az adatot átadó közfeladatot ellátó szerv hozzájárulása és továbbá díj fizetése nélkül a feladatai elvégzése során felhasználni.
 
@@ -958,7 +958,7 @@ eljárásban.
 
 (4) Kijelölt szolgáltatóként a NAVÜ e törvény szerinti feladatai ellátásához elektronikusan tartja a kapcsolatot a vele együttműködő közfeladatot ellátó szervekkel.
 
-(5) A közfeladatot ellátó szerv az igényelt adatokat elsősorban alkalmazásprogramozási interfészen keresztül vagy az E-ügyintézési tv. szerinti központi elektronikus ügyintézési szolgáltatás igénybevételével, ha ezek feltételei nem adottak, akkor csoportos letöltésre alkalmas módon bocsátja a NAVÜ rendelkezésére.
+(5) A közfeladatot ellátó szerv az igényelt adatokat elsősorban alkalmazásprogramozási interfészen keresztül vagy a Dáptv. szerinti központi elektronikus ügyintézési szolgáltatás igénybevételével, ha ezek feltételei nem adottak, akkor csoportos letöltésre alkalmas módon bocsátja a NAVÜ rendelkezésére.
 
 (6) Az (5) bekezdés szerint rendelkezésre bocsátott adatokhoz való hozzáférés gyakoriságát az adatot rendelkezésre bocsátó közfeladatot ellátó szerv működési biztonsága figyelembevételével határozza meg. Az ezt meghaladó gyakoriságú hozzáférési igény teljesítését a NAVÜ-vel esetileg egyezteti.
 

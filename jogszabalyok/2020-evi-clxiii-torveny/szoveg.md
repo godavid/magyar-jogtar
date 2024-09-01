@@ -310,7 +310,7 @@ tekintetében.
 
 (12) A hegybíró ellátja az e törvény végrehajtására kiadott kormányrendeletben az ePincekönyv rendszer használatával kapcsolatban meghatározott feladatokat.
 
-(13) A HNT az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. § 17. pont i) alpontjától eltérően e törvényben az ePincekönyv rendszerrel kapcsolatban meghatározott feladatai tekintetében elektronikus ügyintézést biztosító szervnek minősül.
+(13) A HNT a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 9. § (2) bekezdés i) pontjától eltérően e törvényben az ePincekönyv rendszerrel kapcsolatban meghatározott feladatai tekintetében elektronikus ügyintézést biztosító szervnek minősül.
 
 (14) A HNT jogosult a (3) bekezdésben meghatározott, az ePincekönyv rendszerben nyilvántartott személyes adatok kezelésére az ePincekönyv rendszer működtetése és e törvényben meghatározott feladatai ellátása érdekében.
 

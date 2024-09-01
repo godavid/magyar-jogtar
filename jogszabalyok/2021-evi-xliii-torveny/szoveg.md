@@ -121,7 +121,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 5. Hozzáférés a tényleges tulajdonosi nyilvántartásban tárolt adatokhoz
 
-8. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az érintett adatszolgáltatók értesítése nélkül, haladéktalanul és ingyenesen, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) 1. § 3. és 4. pontjában meghatározottak szerint és a nyilvántartó szerv által meghatározott módon betekinthet a tényleges tulajdonosi nyilvántartásban tárolt valamennyi adatba, ideértve a 10–11. § szerinti jelzések alapján rögzített adatokat, a módosított korábbi adatokat, az adatbenyújtás és az adatváltoztatás időpontjára vonatkozó adatokat, valamint az adatbenyújtó és adatot változtató intézményre vonatkozó adatokat.
+8. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az érintett adatszolgáltatók értesítése nélkül, haladéktalanul és ingyenesen, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.), illetve annak végrehajtási rendelete szerinti automatikus információátadásra vonatkozó követelményei alapján és a nyilvántartó szerv által meghatározott módon betekinthet a tényleges tulajdonosi nyilvántartásban tárolt valamennyi adatba, ideértve a 10–11. § szerinti jelzések alapján rögzített adatokat, a módosított korábbi adatokat, az adatbenyújtás és az adatváltoztatás időpontjára vonatkozó adatokat, valamint az adatbenyújtó és adatot változtató intézményre vonatkozó adatokat.
 
 (2) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdés alapján megismert adatokat kiadhatja
 
@@ -257,7 +257,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 11. Adathozzáférés
 
-20. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv a központi bankszámla- és széfnyilvántartásban tárolt valamennyi adatba korlátozás nélkül, az érintett adatszolgáltatók értesítése nélkül, az Eüsztv. 1. § 3. és 4. pontjában meghatározottak szerint és a nyilvántartó szerv által meghatározott módon, ingyenesen betekinthet.
+20. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv a központi bankszámla- és széfnyilvántartásban tárolt valamennyi adatba korlátozás nélkül, az érintett adatszolgáltatók értesítése nélkül, a Dáptv. illetve annak végrehajtási rendelete szerinti automatikus információátadásra vonatkozó követelményei alapján és a nyilvántartó szerv által meghatározott módon, ingyenesen betekinthet.
 
 (2) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdés alapján megismert adatokat kiadhatja
 

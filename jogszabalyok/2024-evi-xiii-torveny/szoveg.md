@@ -79,7 +79,9 @@ lép.
 
 #### 25. §
 
-#### 26. §
+26. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény a következő 1/E. §-sal egészül ki:
+
+„1/E. § Az Egyetem, valamint az Egyetem által fenntartott köznevelési intézmény nem minősül a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 21. §-a, valamint az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 10/B. §-a alkalmazásában állami intézménynek.”
 
 #### 27. §
 
@@ -123,8 +125,8 @@ lép.
 - 8.
 - 9.
 - 10.
-- 11.
-- 12.
+- 11. 16/J. § (1) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.)” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben (a továbbiakban: Dáptv.)” szöveg,
+- 12. 16/J. § (2) bekezdésében az „az E-ügyintézési tv.” szövegrész helyébe az „a Dáptv.” szöveg,
 - 13.
 - 14.
 - 15.
@@ -173,7 +175,7 @@ lép.
 - e)
 - f)
 - g)
-- h)
+- h) 80/A. § (1) bekezdésében az „a technikusképzésben” szövegrész helyébe az „az okleveles technikusképzésben” szöveg,
 - i)
 - j)
 - k)

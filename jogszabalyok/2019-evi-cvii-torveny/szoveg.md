@@ -256,11 +256,11 @@ kézbesítettnek kell tekinteni.
 
 #### 17. § [Az elektronikus dokumentum kézbesítése]
 
-(1) Az elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. §-ában és 15. § (2) és (3) bekezdésében foglalt rendelkezéseket a (3) bekezdésben foglalt eltérésekkel kell alkalmazni azzal, hogy ügyfél alatt köztisztviselőt, elektronikus ügyintézést biztosító szerv alatt pedig a különleges jogállású szervet kell érteni.
+(1) Az elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 25. §-ában és a 27. §-ában foglalt rendelkezéseket a (3) bekezdésben foglalt eltérésekkel kell alkalmazni azzal, hogy felhasználó alatt köztisztviselőt, digitális szolgáltatást biztosító szerv alatt pedig a különleges jogállású szervet kell érteni.
 
-(2) A köztisztviselő köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A köztisztviselő e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
+(2) A köztisztviselő köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó ajánlott elektronikus kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és ajánlott elektronikus kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A köztisztviselő e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
 
-(3) Az E-ügyintézési tv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+(3) A Dáptv. 27. §-ától eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
 
 (4) Ha az elektronikus dokumentum elektronikus kézbesítése (vagy a kézbesítési vélelem szabályainak alkalmazása) bármely okból nem lehetséges, vagy az a jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papíralapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papíralapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A köztisztviselővel a papíralapú kiadmányt kell közölni.
 
@@ -1003,7 +1003,7 @@ Ha törvény rendelkezése folytán a munkáltató egésze vagy egy része (szer
 
 (3) A fogyatékossággal élő, illetve a megváltozott munkaképességű köztisztviselő foglalkoztatása során a munkáltatónak gondoskodnia kell az észszerű alkalmazkodás feltételeinek biztosításáról.
 
-(4) A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt.
+(4) A munkáltatói jogkör gyakorlója dönt azon feladatkörökről, amelyek esetében a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt alkalmassági vizsgálat szükséges. A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát.
 
 (5) A különleges jogállású szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben közszolgálati szabályzatot kiadni.
 

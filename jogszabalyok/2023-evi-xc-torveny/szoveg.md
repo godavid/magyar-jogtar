@@ -2431,28 +2431,36 @@ rendelkezik, jogszabályban meghatározott előzetes megállapodás megkötésé
 
 #### 102. A kapcsolattartás általános szabályai
 
-166. § (1) A 168. § (4) bekezdésében meghatározott esetben az eljáró idegenrendészeti hatóság az eljárás során a foglalkoztatóval is kapcsolatot tarthat, de a foglalkoztatónak küldött irat tartalmáról az ügyfelet értesíteni kell. Ha az eljáró idegenrendészeti hatóság nem a foglalkoztatóval tart kapcsolatot, az ügyfélnek küldött irat tartalmáról a foglalkoztatót értesíteni kell.
+166. § (1) Elektronikus ügyintézés céljára az idegenrendészeti hatóság elektronikus információs rendszert üzemeltet (a továbbiakban: idegenrendészeti ügyindítási elektronikus felület).
 
-(2) E törvény eltérő rendelkezése hiányában az idegenrendészeti hatóság az ügyféllel postai úton csak belföldi postai cím esetén tarthatja a kapcsolatot.
+(2) Az idegenrendészeti ügyindítási elektronikus felületen a regisztráció
 
-(3) A (2) bekezdésben foglaltaktól eltérően a közrendvédelmi bírság kiszabásáról szóló határozatot, valamint a vízumeljárásban keletkezett iratot külföldi címre is lehet postázni.
-
-(4) Azokban az eljárási cselekményekben, ahol az ügyfél személyes megjelenése kötelező, az ügyfél nem jogosult elektronikus úton kapcsolatot tartani a hatósággal.
-
-(5) A hivatalból indult eljárásokban a kapcsolattartás módját az idegenrendészeti hatóság választja meg.
-
-(6) Az idegenrendészeti hatóság elektronikus információs rendszert üzemeltet (a továbbiakban: idegenrendészeti ügyindítási elektronikus felület). Az idegenrendészeti ügyindítási elektronikus felületen a regisztráció
-
-- a) elektronikus azonosítási szolgáltatás útján vagy
-- b) elektronikus úton, természetes személyazonosító adatok megadásával
+- a) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti elektronikus azonosítási szolgáltatás útján, vagy
+- b) – ha az a) pont szerinti regisztráció nem lehetséges, vagy arra a természetes személy ügyfél nem köteles és azt nem alkalmazza – elektronikus úton, természetes személyazonosító adatok megadásával
 
 történik.
 
-(7) A (6) bekezdés b) pontja szerinti regisztráció esetében az ügyfél azonosítása a hatóság előtti első személyes megjelenéssel történik meg. Az általa addig benyújtott dokumentumokat akkor lehet hitelesnek tekinteni, ha azokat a személyes megjelenés során a magáénak ismeri el.
+(3) A (2) bekezdés b) pontja szerinti regisztráció esetében az ügyfél hiteles azonosítása a hatóság előtti első személyes megjelenéssel történik meg. Az általa addig benyújtott, elektronikusan nem hitelesített dokumentumokat akkor lehet hitelesnek tekinteni, ha
 
-(8) A (6) bekezdés szerint regisztrált ügyfélnek vagy foglalkoztatónak a hatóság a részére kialakított és fenntartott, az idegenrendészeti ügyindítási elektronikus felület által biztosított kézbesítési tárhelyre küldi meg a küldeményét. Az elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-ában és a 15. § (2) és (3) bekezdésében foglalt rendelkezéseket alkalmazni kell azzal az eltéréssel, hogy ha a rendszer azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+- a) a saját maga által készített dokumentumot a személyes megjelenés során a magáénak ismeri el, illetve
+- b) az egyéb dokumentumok papíralapú eredetijét a hatóságnak bemutatja.
 
-(9) Azon eljárási cselekmények esetében, ahol a személyes megjelenés nem kötelező, a természetes személy ügyfél az idegenrendészeti hatósággal a (6)–(8) bekezdésben és a Kormány rendeletében meghatározottak szerint is tarthatja elektronikus úton a kapcsolatot. A regisztrált ügyféllel a hatóság azokban az eljárási cselekményekben, ahol ezt e törvény lehetővé teszi, az idegenrendészeti ügyindítási elektronikus felületen keresztül tart kapcsolatot. Az idegenrendészeti ügyindítási elektronikus felületen történő kapcsolattartás során az ügyfél által elektronikusan alá nem írt dokumentum is elfogadható.
+166/A. § (1) Az idegenrendészeti hatósággal
+
+- a) az idegenrendészeti ügyindítási elektronikus felületen regisztrált természetes személy ügyfél – azon eljárási cselekmények esetén, ahol a személyes megjelenés nem kötelező – az idegenrendészeti ügyindítási elektronikus felületen, elektronikus úton tartja,
+- b) a 168. § (4), (7), (9) és (10) bekezdésében meghatározott esetben a kérelmet elektronikusan előterjesztő az idegenrendészeti ügyindítási elektronikus felületen, elektronikus úton tartja
+
+a kapcsolatot.
+
+(2) Az idegenrendészeti ügyindítási elektronikus felületet igénybe vevő ügyféllel a hatóság azokban az eljárási cselekményekben, ahol ezt jogszabály nem zárja ki, az idegenrendészeti ügyindítási elektronikus felületen keresztül tart kapcsolatot.
+
+(3) A 166. § (2) bekezdés a) pontja szerint regisztrált ügyfélnek, foglalkoztatónak vagy jogi képviselőnek az idegenrendészeti hatóság a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti tárhelyre küldi meg a küldeményét, azzal, hogy a küldemény másolatát az idegenrendészeti ügyindítási elektronikus felület által biztosított kézbesítési tárhelyre is eljuttatja. A kézbesítés időpontja a korábban megnyitott küldemény átvételének ideje. A küldemény át nem vétele esetén a kézbesítési vélelemre a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti tárhelyre történő kézbesítésre vonatkozó szabály irányadó.
+
+(4) A 166. § (2) bekezdés b) pontja szerint regisztrált ügyfélnek a hatóság a részére kialakított és fenntartott, az idegenrendészeti ügyindítási elektronikus felület által biztosított kézbesítési tárhelyre küldi meg a küldeményét. Ha a rendszer azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+
+(5) A 168. § (4) bekezdésében meghatározott esetben az eljáró idegenrendészeti hatóság az eljárás során a foglalkoztatóval is kapcsolatot tarthat, de a foglalkoztatónak küldött irat tartalmáról az ügyfelet értesíteni kell. Ha az eljáró idegenrendészeti hatóság nem a foglalkoztatóval tart kapcsolatot, az ügyfélnek küldött irat tartalmáról a foglalkoztatót értesíteni kell.
+
+(6) Az idegenrendészeti hatóság – ha törvény alapján a postai kapcsolattartásnak van helye – az ügyféllel postai úton csak belföldi postai cím esetén tartja a kapcsolatot. A közrendvédelmi bírság kiszabásáról szóló határozatot, valamint a vízumeljárásban keletkezett iratot külföldi címre is lehet postázni.
 
 #### 103. Adatkezelés és betekintés az eljárás irataiba
 
@@ -2491,7 +2499,7 @@ történik.
 - c) a tartózkodásra jogosító engedély cseréje, illetve pótlása iránti kérelem, valamint
 - d) a hatósági bizonyítvány iránti kérelem.
 
-(10) Ha a (7) bekezdés szerinti kérelemre induló eljárásban a harmadik országbeli állampolgár meghatalmazottja jogi képviselő vagy jogi személy, a kérelmet kizárólag az idegenrendészeti ügyindítási elektronikus felületen elektronikus regisztrálást követően lehet benyújtani.
+(10) Ha a (7) bekezdés szerinti kérelemre induló eljárásban a harmadik országbeli állampolgár meghatalmazottja jogi képviselő vagy jogi személy, a kérelmet kizárólag az idegenrendészeti ügyindítási elektronikus felületen lehet benyújtani.
 
 (11) A kézbesített kérelem akkor minősül az idegenrendészeti hatósághoz érkezettnek, ha a harmadik országbeli állampolgár vagy meghatalmazott képviselője
 

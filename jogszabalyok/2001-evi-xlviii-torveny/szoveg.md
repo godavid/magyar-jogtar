@@ -280,7 +280,7 @@ közös szabályok
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-31. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+31. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései szerint jár el.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó mintaoltalmi ügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
 
@@ -318,7 +318,7 @@ közös szabályok
 
 ### Elektronikus ügyintézés és hatósági szolgáltatás
 
-32/B. § (1) Mintaoltalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
+32/B. § (1) Mintaoltalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
 (2) Mintaoltalmi ügyekben az ügyfél és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
 

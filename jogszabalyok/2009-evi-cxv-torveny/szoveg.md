@@ -57,7 +57,7 @@ miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elít�
 (3) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, Kormány által rendeletben kijelölt szerv (a továbbiakban: Hatóság)
 
 - a) az egyéni vállalkozó székhelye szerinti illetékességgel hatósági ellenőrzést folytat,
-- b) a Kormány által nyújtott elektronikus azonosítási szolgáltatáshoz és biztonságos kézbesítési szolgáltatáshoz regisztrációt biztosít az egyéni vállalkozói bejelentést személyesen kezdeményező, elektronikus azonosítással és biztonságos kézbesítési szolgáltatással nem rendelkező bejelentő számára, valamint
+- b) a Kormány által nyújtott elektronikus azonosítási szolgáltatáshoz és ajánlott elektronikus kézbesítési szolgáltatáshoz regisztrációt biztosít az egyéni vállalkozói bejelentést személyesen kezdeményező, elektronikus azonosítással és ajánlott elektronikus kézbesítési szolgáltatással nem rendelkező bejelentő számára, valamint
 - c) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
 (4) A gazdasági kamarák tájékoztatást nyújtanak az egyéni vállalkozói tevékenység folytatásához szükséges információkról, az egyéni vállalkozói tevékenység folytatásáról, a képesítéshez, valamint a hatósági engedélyhez vagy bejelentéshez kötött gazdasági tevékenységekről.
@@ -144,7 +144,7 @@ kell megtenni.
 - j) ha az egyéni vállalkozó halála esetén a 17. § (1) bekezdése szerint a tevékenység folytatására kerül sor, az egyéni vállalkozói tevékenység özvegy, illetve örökös általi folytatásának tényét,
 - k) ha az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozói tevékenységet a 17. § (2) bekezdése szerint a törvényes képviselő folytatja, a tevékenység folytatásának tényét, a törvényes képviselő természetes személyazonosító adatait, lakcímét, valamint
 - l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket,
-- m) az egyéni vállalkozónak az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét.
+- m) az egyéni vállalkozónak a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti hivatalos elérhetőségét.
 
 (1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–k) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 

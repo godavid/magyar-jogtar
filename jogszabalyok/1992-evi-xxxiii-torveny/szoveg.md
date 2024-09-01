@@ -304,6 +304,8 @@ esetén.
 
 (5) Végrehajtási rendelet megállapíthatja munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén az (1) bekezdés szerinti próbaidőt nem lehet megállapítani.
 
+21/B. § A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott munkakörök esetében a munkáltató köteles ingyenesen biztosítani a közalkalmazott munkaköri alkalmassági vizsgálatát.
+
 22. § (1) Az E–H fizetési osztályba sorolt, a munkáltató alaptevékenységének ellátásával összefüggő munkakörbe történő határozatlan időre szóló kinevezés esetén – ideértve az ilyen tartalmú áthelyezést is – a gyakornoki idő kikötése kötelező, ha a közalkalmazott nem rendelkezik a munkaköréhez szükséges iskolai végzettséget és szakképzettséget, szakképesítést igénylő, a három évet meghaladó időtartamú szakmai gyakorlattal. E szabályt kell alkalmazni – jogszabály kizáró rendelkezése hiányában – a 79/C. § (2) bekezdésében szereplő tudományos kutatói munkakört betöltő közalkalmazottra is.
 
 (2) A gyakornoki idő folyamatosságát nem érinti a 25. § (2) bekezdés b) pont 1. alpontja szerinti áthelyezés. Ha a közalkalmazotti jogviszony a gyakornoki idő alatt megszűnt, annak tartamát a szakmai gyakorlat megállapításakor abban az esetben kell figyelembe venni, ha a közalkalmazott jogviszonya megszűnését követően a korábbival azonos vagy – a (4) bekezdésben foglaltak megfelelő alkalmazása alapján – azzal egyenlő értékű munkakörre közalkalmazotti jogviszonyt létesít. Ettől eltérően, nem lehet a szakmai gyakorlat megállapításakor beszámítani a közalkalmazotti jogviszony időtartamát, ha az a gyakornoki idő alatt

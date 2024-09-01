@@ -171,7 +171,7 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 9/C. § (1) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője a tevékenysége megkezdésétől számított 5 napon belül a Nemzeti Turisztikai Adatszolgáltató Központban elektronikus úton regisztrál.
 
-(2) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, a turisztikai attrakció üzemeltetője regisztrációja, annak módosítása vagy törlése, valamint a nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a Vhr.-ben megjelölt egyéb szabályozott és központi elektronikus ügyintézési szolgáltatásokra (a továbbiakban együtt: SZEÜSZ) vonatkozó szabályok megfelelő alkalmazásával, a Vhr.-ben meghatározott módon, elektronikus úton történik.
+(2) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, a turisztikai attrakció üzemeltetője regisztrációja, annak módosítása vagy törlése, valamint a nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a Vhr.-ben megjelölt egyéb szabályozott és központi elektronikus ügyintézési szolgáltatásokra (a továbbiakban együtt: SZEÜSZ) vonatkozó szabályok megfelelő alkalmazásával, a Vhr.-ben meghatározott módon, elektronikus úton történik.
 
 (2a) A Magyar Turisztikai Ügynökség Zrt. jogosult a (2) bekezdés szerinti SZEÜSZ-öket az általa üzemeltetett turisztikai rendszerek működéséhez kapcsolódóan igénybe venni.
 

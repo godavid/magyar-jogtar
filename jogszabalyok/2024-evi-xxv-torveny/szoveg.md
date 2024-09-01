@@ -12,11 +12,34 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 3. §
 
-#### 4. §
+4. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény „Adattovábbítás az egészségügyi ellátóhálózaton kívüli szerv megkeresésére vagy adatkérésére” alcíme a következő 27/A. §-sal egészül ki:
 
-#### 5. §
+„27/A. § (1) Ha betegség vagy annak gyanúja miatt az óvodai foglalkozásról, tanuló esetében a tanítási óráról és egyéb foglalkozásról, valamint a kollégiumi foglalkozásról történő távolmaradás igazolásához orvosi igazolás szükséges, a nemzeti köznevelésről szóló törvény szerinti szülő (a továbbiakban: szülő) – tizennegyedik életévet betöltött tanuló esetében a tanuló szülője vagy a tanuló – kérésére az igazolás kiállítására köteles orvos az igazolást az EESZT és a (4) bekezdés szerinti üzemeltető útján soron kívül továbbítja a köznevelési vagy szakképző intézmény számára.
 
-#### 6. §
+(2) Az (1) bekezdés szerinti elektronikus igazolás (a továbbiakban: elektronikus igazolás) a következő adatokat tartalmazza:
+
+- a) a beteg társadalombiztosítási azonosító jelét,
+- b) a beteg születési dátumát,
+- c) az igazolt időszak kezdő és befejező dátumát,
+- d) a testnevelésórára vonatkozó felmentés időszakát,
+- e) az elektronikus igazolás kiállításának időpontját,
+- f) az elektronikus igazolást kiállító egészségügyi szolgáltató azonosító adatait,
+- g) az elektronikus igazolást kiállító orvos azonosítóját (pecsétszámát és nevét), kapcsolattartási adatait,
+- h) az egészségügyi ellátás EESZT-naplósorszámát.
+
+(3) Az EESZT működtetője biztosítja, hogy az elektronikus igazolást az igazolás kiállítására köteles orvos úgy továbbítsa, hogy a (2) bekezdés c)–h) pontja szerinti adat kizárólag az igazolást kiállító egészségügyi szolgáltató és a gyermek vagy tanuló nevelési, oktatási feladatait ellátó köznevelési vagy szakképző intézmény számára váljon megismerhetővé. A gyermek vagy tanuló nevelési, oktatási feladatait ellátó köznevelési vagy szakképző intézmény biztosítja, hogy a (4) bekezdés szerinti tanulmányi rendszerhez hozzáféréssel rendelkező gyerek, tanuló, szülő az elektronikus igazolást megismerhesse.
+
+(4) A nemzeti köznevelésről szóló törvény szerinti tanulmányi rendszer üzemeltetője, valamint a szakképzésről szóló törvény szerinti regisztrációs és tanulmányi alaprendszer üzemeltetője a (2) bekezdés a) és b) pontja szerinti adatot a gyermek vagy tanuló nevelési, nevelési-oktatási feladatait ellátó köznevelési vagy szakképző intézmény beazonosításának céljából, az elektronikus igazolásnak a köznevelési vagy szakképző intézménybe történő továbbításáig kezeli.
+
+(5) A gyermek vagy tanuló nevelési, nevelési-oktatási feladatait ellátó köznevelési vagy szakképző intézmény a (2) bekezdésben foglalt adatokat az adott nevelési év, illetve tanév végéig kezeli.
+
+(6) Az elektronikus igazolást a távolmaradás hiteles igazolásának kell tekinteni.”
+
+5. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 35/P. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A 4. § (2) bekezdés p) pontja szerinti célból az egészségügyi szolgáltató az EESZT-n keresztül továbbítja a köznevelési vagy szakképző intézmények részére az elektronikus igazolást.”
+
+6. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 35/P. § (2) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1) és (1a) bekezdésben” szöveg lép.
 
 #### 3. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
@@ -74,13 +97,24 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 9. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-#### 28. §
+28. § (1) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 70. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Az idegenrendészeti ügyindítási elektronikus felületen benyújtott kérelem akkor minősül az idegenrendészeti hatósághoz érkezettnek, ha)
+
+„b) a harmadik országbeli állampolgár – ha idegenrendészeti ügyindítási elektronikus felületen a regisztrációja a Btátv. 166. § (2) bekezdés b) pontja alapján történt – a személyazonosságának igazolása érdekében az eljáró idegenrendészeti hatóságnál legkésőbb a visszaigazolás megküldésétől számított 15. napon megjelenik.”
+
+(2) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 70. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az (5) bekezdés szerinti kérelmeket az idegenrendészeti hatóság a visszaigazolást követő 16. napon törli. A törlés tényéről az idegenrendészeti ügyindítási elektronikus felület útján tájékoztatja a kérelmezőt.”
 
 #### 29. §
 
-#### 30. §
+30. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 70. § (3) bekezdésében a „Btátv. 166. § (6) bekezdése” szövegrész helyébe a „Btátv. 166. §-a” szöveg lép.
 
-#### 31. §
+31. § Hatályát veszti a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény
+
+- a) 67. § (3) bekezdésében az „elektronikus azonosítását követően” szövegrész,
+- b) 93. §-a.
 
 #### 10. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
@@ -92,7 +126,9 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 12. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-#### 34. §
+34. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 27. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) Az iskola a nappali rendszerű iskolai oktatásban, azokban az osztályokban és azokon a tanítási napokon, amelyeken közismereti oktatás is folyik, megszervezi a mindennapos testnevelést legalább napi egy testnevelésóra keretében, amelyből legfeljebb heti két óra váltható ki a sportról szóló törvény szerinti igazolt sportolói jogviszonyban álló versenyző tanuló kérelme alapján – versenyengedély birtokában – a sportszervezet keretei között szervezett edzéslátogatás igazolásával, amennyiben a testnevelésórát közismereti tanóra nem előzi meg vagy nem követi.”
 
 #### 35. §
 
@@ -192,7 +228,15 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 73. §
 
-#### 74. §
+74. § A pedagógusok új életpályájáról szóló 2023. évi LII. törvény 80. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+(Nevelési-oktatási intézményben foglalkoztatott – az alábbi feladatok ellátásával megbízott – pedagógus számára a neveléssel-oktatással lekötött munkaidő terhére kell elrendelni)
+
+„e) az a)–d) pontban foglaltakon felül heti egy óra időtartamban
+
+ea) a gyakornok mentorálását,
+
+eb) nem gyakorló köznevelési intézményben a pedagógusjelöltek mentorálását.”
 
 #### 75. §
 
@@ -266,11 +310,44 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 108. §
 
-#### 109. §
+109. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 166. §-a helyébe a következő rendelkezés lép:
 
-#### 110. §
+„166. § (1) Elektronikus ügyintézés céljára az idegenrendészeti hatóság elektronikus információs rendszert üzemeltet (a továbbiakban: idegenrendészeti ügyindítási elektronikus felület).
 
-#### 111. §
+(2) Az idegenrendészeti ügyindítási elektronikus felületen a regisztráció
+
+- a) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti elektronikus azonosítási szolgáltatás útján, vagy
+- b) – ha az a) pont szerinti regisztráció nem lehetséges, vagy arra a természetes személy ügyfél nem köteles és azt nem alkalmazza – elektronikus úton, természetes személyazonosító adatok megadásával
+
+történik.
+
+(3) A (2) bekezdés b) pontja szerinti regisztráció esetében az ügyfél hiteles azonosítása a hatóság előtti első személyes megjelenéssel történik meg. Az általa addig benyújtott, elektronikusan nem hitelesített dokumentumokat akkor lehet hitelesnek tekinteni, ha
+
+- a) a saját maga által készített dokumentumot a személyes megjelenés során a magáénak ismeri el, illetve
+- b) az egyéb dokumentumok papíralapú eredetijét a hatóságnak bemutatja.”
+
+110. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 102. alcíme a következő 166/A. §-sal egészül ki:
+
+„166/A. § (1) Az idegenrendészeti hatósággal
+
+- a) az idegenrendészeti ügyindítási elektronikus felületen regisztrált természetes személy ügyfél – azon eljárási cselekmények esetén, ahol a személyes megjelenés nem kötelező – az idegenrendészeti ügyindítási elektronikus felületen, elektronikus úton tartja,
+- b) a 168. § (4), (7), (9) és (10) bekezdésében meghatározott esetben a kérelmet elektronikusan előterjesztő az idegenrendészeti ügyindítási elektronikus felületen, elektronikus úton tartja
+
+a kapcsolatot.
+
+(2) Az idegenrendészeti ügyindítási elektronikus felületet igénybe vevő ügyféllel a hatóság azokban az eljárási cselekményekben, ahol ezt jogszabály nem zárja ki, az idegenrendészeti ügyindítási elektronikus felületen keresztül tart kapcsolatot.
+
+(3) A 166. § (2) bekezdés a) pontja szerint regisztrált ügyfélnek, foglalkoztatónak vagy jogi képviselőnek az idegenrendészeti hatóság a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti tárhelyre küldi meg a küldeményét, azzal, hogy a küldemény másolatát az idegenrendészeti ügyindítási elektronikus felület által biztosított kézbesítési tárhelyre is eljuttatja. A kézbesítés időpontja a korábban megnyitott küldemény átvételének ideje. A küldemény át nem vétele esetén a kézbesítési vélelemre a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti tárhelyre történő kézbesítésre vonatkozó szabály irányadó.
+
+(4) A 166. § (2) bekezdés b) pontja szerint regisztrált ügyfélnek a hatóság a részére kialakított és fenntartott, az idegenrendészeti ügyindítási elektronikus felület által biztosított kézbesítési tárhelyre küldi meg a küldeményét. Ha a rendszer azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+
+(5) A 168. § (4) bekezdésében meghatározott esetben az eljáró idegenrendészeti hatóság az eljárás során a foglalkoztatóval is kapcsolatot tarthat, de a foglalkoztatónak küldött irat tartalmáról az ügyfelet értesíteni kell. Ha az eljáró idegenrendészeti hatóság nem a foglalkoztatóval tart kapcsolatot, az ügyfélnek küldött irat tartalmáról a foglalkoztatót értesíteni kell.
+
+(6) Az idegenrendészeti hatóság – ha törvény alapján a postai kapcsolattartásnak van helye – az ügyféllel postai úton csak belföldi postai cím esetén tartja a kapcsolatot. A közrendvédelmi bírság kiszabásáról szóló határozatot, valamint a vízumeljárásban keletkezett iratot külföldi címre is lehet postázni.”
+
+111. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 168. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) Ha a (7) bekezdés szerinti kérelemre induló eljárásban a harmadik országbeli állampolgár meghatalmazottja jogi képviselő vagy jogi személy, a kérelmet kizárólag az idegenrendészeti ügyindítási elektronikus felületen lehet benyújtani.”
 
 #### 112. §
 

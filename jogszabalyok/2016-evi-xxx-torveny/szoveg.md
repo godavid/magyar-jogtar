@@ -406,7 +406,7 @@ meghatározva a központosított beszerzés személyi feltételeit és tárgyát
 
 (3) Az ajánlatkérő előírhatja valamely kapcsolattartási forma alkalmazását, ez azonban nem sértheti a gazdasági szereplők esélyegyenlőségét; a kizárólag elektronikus úton történő nyilatkozattétel nem követelhető meg a részvételre jelentkezőktől, illetve az ajánlattevőktől.
 
-(4) A (2) bekezdés c) pontja szerint nyilatkozat benyújtható az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti legalább fokozott biztonságú elektronikus aláírással ellátott, elektronikus dokumentumba foglalt formában.
+(4) A (2) bekezdés c) pontja szerint nyilatkozat benyújtható a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti legalább fokozott biztonságú elektronikus aláírással ellátott, elektronikus dokumentumba foglalt formában.
 
 (5) Az e törvény szerint előírt tájékoztatásra vagy információ kérésére postai kézbesítés csak kivételesen és indokolt esetben vehető igénybe.
 
@@ -418,12 +418,12 @@ meghatározva a központosított beszerzés személyi feltételeit és tárgyát
 (2) Az ajánlatok és a részvételi jelentkezések elektronikus továbbításához és átvételéhez használt eszközökre a következő szabályokat kell alkalmazni:
 
 - a) az ajánlatok és részvételi jelentkezések elektronikus benyújtásához szükséges tudnivalókat az érdekelt felek rendelkezésére kell bocsátani vagy számukra elérhetővé kell tenni,
-- b) az elektronikus ajánlatokat az E-ügyintézési tv.-ben meghatározott fokozott biztonságú elektronikus aláírással vagy minősített elektronikus aláírással kell ellátni, és
+- b) az elektronikus ajánlatokat a Dáptv.-ben meghatározott fokozott biztonságú elektronikus aláírással vagy minősített elektronikus aláírással kell ellátni, és
 - c) a gazdasági szereplőknek az ajánlat és részvételi jelentkezés benyújtásakor az ajánlatkérőhöz be kell nyújtaniuk az ajánlatkérő által előírt dokumentumokat, tanúsítványokat, nyilatkozatokat és mintapéldányokat vagy mintapéldányok fotóit, ha azok elektronikus formátumban nem állnak rendelkezésre az ajánlatok, vagy a részvételi jelentkezések benyújtására megállapított határidő lejártáig.
 
 (3) Az ajánlatok és részvételi jelentkezések elektronikus átvételéhez használt eszközöknek meg kell felelniük az alábbi követelményeknek:
 
-- a) az ajánlatokhoz és a részvételi jelentkezésekhez kapcsolódó elektronikus aláírások megfelelnek az E-ügyintézési tv. rendelkezéseinek,
+- a) az ajánlatokhoz és a részvételi jelentkezésekhez kapcsolódó elektronikus aláírások megfelelnek a Dáptv. rendelkezéseinek,
 - b) az ajánlatok és a részvételi jelentkezések benyújtásának napja és időpontja pontosan meghatározható,
 - c) a megállapított határidők előtt senki nem férhet hozzá az e követelmények szerint továbbított adatokhoz,
 - d) ha a c) pontban meghatározott hozzáférési tilalmat megsértik, a tilalom megsértésének ténye egyértelműen megállapítható,
@@ -2102,7 +2102,7 @@ nem vehető fel a jegyzékre, illetve a minősített piaci szereplők jegyzéké
 
 (1a) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban
 
-- a) ha e törvény másként nem rendelkezik, az E-ügyintézési tv.-ben meghatározott elektronikus úton történő kapcsolattartás kötelező,
+- a) ha e törvény másként nem rendelkezik, a Dáptv.-ben meghatározott elektronikus úton történő kapcsolattartás kötelező,
 - b) nincs helye sommás eljárásnak,
 - c) a Közbeszerzési Döntőbizottság több ízben is hiánypótlásra hívhatja fel a kérelmezőt, és
 - d) a hiányzó védelmi vagy biztonsági beszerzési dokumentumok az ügyfél nyilatkozatával nem pótolhatóak.
@@ -2218,7 +2218,7 @@ nem vehető fel a jegyzékre, illetve a minősített piaci szereplők jegyzéké
 - a) a kérelem a 143. § (1) bekezdése szerinti adatokat nem tartalmazza,
 - b) nem csatolták a 144. § szerinti díj befizetéséről szóló igazolást,
 - c) nem csatolták a meghatalmazott képviselő meghatalmazását, vagy
-- d) a kérelmet és annak kötelező mellékleteit nem az E-ügyintézési tv.-ben meghatározott elektronikus úton nyújtották be.
+- d) a kérelmet és annak kötelező mellékleteit nem a Dáptv.-ben meghatározott elektronikus úton nyújtották be.
 
 (2a) Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a Közbeszerzési Döntőbizottság a kérelmet visszautasítja, kivéve, ha a (3) bekezdés alkalmazásának van helye.
 
@@ -2234,9 +2234,9 @@ nem vehető fel a jegyzékre, illetve a minősített piaci szereplők jegyzéké
 
 (8) Ha a Közbeszerzési Döntőbizottság a jogorvoslati kérelmet visszautasítja vagy a jogorvoslati eljárást megszünteti, az igazgatási szolgáltatási díj a kérelmezőnek visszajár. A kérelem vagy egyes kérelmi elemek visszavonása esetén a kérelmező a fenntartott kérelmi elemekre figyelemmel és a 144. § (3) bekezdése szerint tarthat igényt az igazgatási szolgáltatási díj visszatérítésére.
 
-148. § (1) A Közbeszerzési Döntőbizottság az eljárás megindításáról a kérelmezőt, a beszerzési ügy ajánlatkérőjét és a beszerzési ügyben érdekelteket értesíti. A Közbeszerzési Döntőbizottság a beszerzési ügy ajánlatkérőjét és az (1a) bekezdés szerint részvételi szándékukat jelző, a beszerzési ügyben érdekelteket felhívja, hogy öt napon belül küldjék meg észrevételeiket. A Közbeszerzési Döntőbizottság a felhíváshoz csatolja a kérelmet. Ha az ajánlatkérővel az E-ügyintézési tv.-ben meghatározott elektronikus úton történő kapcsolattartás nem lehetséges, az ajánlatkérő részére a Közbeszerzési Döntőbizottság elektronikus levél, illetve telefax útján küldi meg az eljárás megindításáról szóló értesítést. A telefax útján történő értesítés kézbesítettnek minősül a sikeres visszaigazolás napján. Ha az értesítés megküldésére kizárólag elektronikus levél útján volt lehetőség, és az ajánlatkérő egy munkanapon belül az elektronikus levél fogadását nem igazolta vissza a Közbeszerzési Döntőbizottság számára, az eljárás megindításáról szóló értesítés az ajánlatkérő részére postai úton kerül kézbesítésre.
+148. § (1) A Közbeszerzési Döntőbizottság az eljárás megindításáról a kérelmezőt, a beszerzési ügy ajánlatkérőjét és a beszerzési ügyben érdekelteket értesíti. A Közbeszerzési Döntőbizottság a beszerzési ügy ajánlatkérőjét és az (1a) bekezdés szerint részvételi szándékukat jelző, a beszerzési ügyben érdekelteket felhívja, hogy öt napon belül küldjék meg észrevételeiket. A Közbeszerzési Döntőbizottság a felhíváshoz csatolja a kérelmet. Ha az ajánlatkérővel a Dáptv.-ben meghatározott elektronikus úton történő kapcsolattartás nem lehetséges, az ajánlatkérő részére a Közbeszerzési Döntőbizottság elektronikus levél, illetve telefax útján küldi meg az eljárás megindításáról szóló értesítést. A telefax útján történő értesítés kézbesítettnek minősül a sikeres visszaigazolás napján. Ha az értesítés megküldésére kizárólag elektronikus levél útján volt lehetőség, és az ajánlatkérő egy munkanapon belül az elektronikus levél fogadását nem igazolta vissza a Közbeszerzési Döntőbizottság számára, az eljárás megindításáról szóló értesítés az ajánlatkérő részére postai úton kerül kézbesítésre.
 
-(1a) A Döntőbizottság – az ajánlatkérőn, valamint a kérelmezőn kívüli – a beszerzési ügyben érdekelteket az eljárás megindításáról postai úton értesíti azzal, hogy az eljárás megindításáról szóló végzés átvételét követő három munkanapon belül az E-ügyintézési tv.-ben meghatározott elektronikus kapcsolattartás útján jelezhetik a jogorvoslati eljárásban történő részvételi szándékukat, a 139. § (6) bekezdése szerinti képviselő meghatalmazásának csatolásával. A részvételi szándék e bekezdés szerinti jelzését követően a részvételi szándékukat jelző érdekeltek részére a Közbeszerzési Döntőbizottság elektronikus úton küldi meg a kérelmet, illetve kezdeményező iratot, és a jogorvoslati eljárás során keletkezett iratokat ezt követően kizárólag a részvételi szándékukat jelző érdekeltek részére továbbítja. A fenti határidő elmulasztása jogvesztéssel jár.
+(1a) A Döntőbizottság – az ajánlatkérőn, valamint a kérelmezőn kívüli – a beszerzési ügyben érdekelteket az eljárás megindításáról postai úton értesíti azzal, hogy az eljárás megindításáról szóló végzés átvételét követő három munkanapon belül a Dáptv.-ben meghatározott elektronikus kapcsolattartás útján jelezhetik a jogorvoslati eljárásban történő részvételi szándékukat, a 139. § (6) bekezdése szerinti képviselő meghatalmazásának csatolásával. A részvételi szándék e bekezdés szerinti jelzését követően a részvételi szándékukat jelző érdekeltek részére a Közbeszerzési Döntőbizottság elektronikus úton küldi meg a kérelmet, illetve kezdeményező iratot, és a jogorvoslati eljárás során keletkezett iratokat ezt követően kizárólag a részvételi szándékukat jelző érdekeltek részére továbbítja. A fenti határidő elmulasztása jogvesztéssel jár.
 
 (1b) Az (1) és (1a) bekezdésben foglaltakat követően a Közbeszerzési Döntőbizottság eljárásában ügyfélnek az ajánlatkérőn, valamint a kérelmezőn kívül a beszerzési ügyben érdekeltek közül a részvételi szándékát az (1a) bekezdés szerint jelző és az eljárásba bevont érdekeltet – ide értve az eljárásba az (1c) bekezdés alapján bevont érdekeltet is – kell tekinteni.
 

@@ -60,11 +60,11 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 
 #### 4. Egyedi eljárásrend alkalmazhatósága a fővárosi és vármegyei kormányhivatal eljárásaiban
 
-5. § (1) A fővárosi és vármegyei kormányhivatal jogosult a részére benyújtott papír alapú iratokról az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) rendelkezései szerint hiteles elektronikus másolat készítésére, és az eljárás hiteles másolatra alapozott lefolytatására.
+5. § (1) A fővárosi és vármegyei kormányhivatal jogosult a részére benyújtott papír alapú iratokról a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) rendelkezései szerint hiteles elektronikus másolat készítésére, és az eljárás hiteles másolatra alapozott lefolytatására.
 
 (2) Ha a fővárosi és vármegyei kormányhivatal elektronikus dokumentumban (különösen elektronikus űrlapon) készíti el az eljárás valamely dokumentumát, és az ügyfél annak kinyomtatott példányát hitelesíti, akkor az eljárás az ügyintéző által hitelesített elektronikus dokumentum felhasználásával lefolytatható.
 
-(3) Ha az ügyféllel a kapcsolattartás papír alapon történik, a fővárosi és vármegyei kormányhivatal az érintett hiteles elektronikus dokumentumról az Eüsztv. szerinti hiteles papír alapú másolatot készít vagy az arra kijelölt szolgáltatóval készíttet és az ügyfelet erről értesíti.
+(3) Ha az ügyféllel a kapcsolattartás papír alapon történik, a fővárosi és vármegyei kormányhivatal az érintett hiteles elektronikus dokumentumról a Dáptv. szerinti hiteles papír alapú másolatot készít vagy az arra kijelölt szolgáltatóval készíttet és az ügyfelet erről értesíti.
 
 (4) Az (1) és (2) bekezdés szerinti ügyfél által aláírt papír alapú dokumentumot a fővárosi és vármegyei kormányhivatal
 
@@ -94,7 +94,7 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 
 (7) A kormányhivatali aláírásminta-nyilvántartás kizárólag az aláírások egyezőségének ellenőrzése céljából, az (5) bekezdésben meghatározottak szerint használható fel, a kormányhivatali aláírásminta-nyilvántartásból adattovábbítást – e törvény eltérő rendelkezése hiányában – nem lehet teljesíteni.
 
-(8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet az Eüsztv. szerinti elektronikus ügyintézési ponton vagy az Eüsztv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel kívánja intézni.
+(8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet a Dáptv. szerinti elektronikus ügyintézési ponton vagy a Dáptv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel kívánja intézni.
 
 (9) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a fővárosi és vármegyei kormányhivatal ügyfélszolgálatai, a járási (fővárosi kerületi) hivatal kormányablakai, illetve a települési ügysegéd az e törvény, illetve a végrehajtására kiadott rendelet szerinti aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhető ügytípusok tekintetében – ha az ügyintézés feltételei nem állnak fenn – aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta mellőzésével is eljárhat.
 
@@ -154,7 +154,7 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 
 erre irányuló megkeresés alapján adja át.
 
-(2) A kormányhivatali aláírásminta-nyilvántartásban kezelt adatok esetében – az 5–9. §-ban nem szabályozott kérdések tekintetében – az Eüsztv. 36. és 37. §-ának adatkezelésre vonatkozó szabályait kell alkalmazni.
+(2) A kormányhivatali aláírásminta-nyilvántartásban kezelt adatok esetében – az 5–9. §-ban nem szabályozott kérdések tekintetében – a Dáptv. 15–17. §-ának adatkezelésre vonatkozó szabályait kell alkalmazni.
 
 #### 6. Adatváltozás-kezelési szolgáltatás
 
@@ -169,12 +169,12 @@ igénybevételét.
 
 12. § (1) Az adatváltozás-kezelési szolgáltatás ügyfél általi igénybevételének feltétele
 
-- a) az Eüsztv. szerinti, a Kormány által kötelezően biztosított valamely elektronikus azonosítási szolgáltatás igénybevétele, és e szolgáltatáshoz kapcsolódó biztonságos kézbesítési szolgáltatáshoz kapcsolódó tárhely, és
+- a) a Dáptv. szerinti, a Kormány által kötelezően biztosított valamely azonosítási szolgáltatás igénybevétele, és e szolgáltatáshoz kapcsolódó ajánlott elektronikus kézbesítési szolgáltatáshoz kapcsolódó tárhely, és
 - b) az adatváltozás-kezelési szolgáltatónál történő regisztráció
   - ba) elektronikus azonosítást követően elektronikus kapcsolattartás útján vagy
   - bb) a kormányablakban, személyesen.
 
-(2) Az adatváltozás-kezelési szolgáltató e szolgáltatás tekintetében az Eüsztv. szerinti elektronikus ügyintézést biztosító szervnek minősül, amely az (1) bekezdés b) pont ba) alpontja szerinti regisztráció, valamint az adatváltozás-kezelési szolgáltatás igénybevétele céljára elektronikus felületet biztosít.
+(2) Az adatváltozás-kezelési szolgáltató e szolgáltatás tekintetében a Dáptv. szerinti digitális szolgáltatást biztosító szervezetnek minősül, amely az (1) bekezdés b) pont ba) alpontja szerinti regisztráció, valamint az adatváltozás-kezelési szolgáltatás igénybevétele céljára elektronikus felületet biztosít.
 
 (3) Az adatváltozás-kezelési szolgáltatás csatlakozott szolgáltató általi igénybevételének előfeltétele
 
@@ -254,11 +254,11 @@ erre irányuló megkeresés alapján adja át.
 
 (10) Ha a csatlakozott szolgáltató saját szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés vagy adatfeldolgozás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független harmadik fél szolgáltatóval köt szerződést, és a (2) bekezdés b) pontja szerint annak adatait az adatváltozás-kezelési szolgáltató rendelkezésére bocsátja, akkor a csatlakozott szolgáltató az ügyfél adatainak változására vonatkozó bejelentést jogosult a harmadik fél szolgáltatón keresztül is – biztonságos kézbesítési szolgáltatás útján – fogadni. Ebben az esetben az adatváltozás-kezelési szolgáltatáshoz történő csatlakozásból fakadó feladatokat is a harmadik fél szolgáltató látja el, és rá a csatlakozott szolgáltatóra vonatkozó rendelkezések alkalmazandók. Az adatváltozás-kezelési szolgáltató a 15. § (2) bekezdése és a 16. § (2) bekezdése szerinti adatokat az 1. § (1) bekezdés 3. pontjában meghatározott ágazati törvényekben foglalt felhatalmazás alapján egyidejűleg átadja a nyilvántartott harmadik fél szolgáltatónak és a csatlakozott szolgáltatónak.
 
-(11) Az adatváltozás-kezelési szolgáltató törzsadat-nyilvántartásában kezelt adatok esetében – a 11–16. §-ban nem szabályozott kérdések tekintetében – az Eüsztv. 36. és 37. §-ának adatkezelésre vonatkozó szabályait kell alkalmazni azzal, hogy az adatváltozás-kezelési szolgáltatót e feladata tekintetében szabályozott elektronikus ügyintézési szolgáltatást nyújtó szolgáltatónak kell tekinteni.
+(11) Az adatváltozás-kezelési szolgáltató törzsadat-nyilvántartásában kezelt adatok esetében – a 11–16. §-ban nem szabályozott kérdések tekintetében – a Dáptv. 15–17. §-ának adatkezelésre vonatkozó szabályait kell alkalmazni azzal, hogy az adatváltozás-kezelési szolgáltatót e feladata tekintetében szabályozott digitális szolgáltatást biztosító szervezetnek kell tekinteni.
 
 (12) Az ügyfél az adatváltozás-kezelési szolgáltató felé bejelentheti a csatlakozott szolgáltatókkal való kapcsolattartást szolgáló telefonszám és e-mail-cím változását, valamint a csatlakozott szolgáltatók felé történő képviseletére vonatkozó jognyilatkozatot csatolhat.
 
-(13) Ha a csatlakozott szolgáltató az Eüsztv. szerint elektronikus ügyintézést biztosító szerv, úgy a (12) bekezdés szerint bejelentett adatok nem érintik az ügyfélnek a rendelkezési nyilvántartásban tett, az Eüsztv. 15. § (1) bekezdése szerinti hivatalos elérhetőségére, valamint az Eüsztv. 22. § (1) bekezdés e) pontja szerinti képviseletre vonatkozó rendelkezését.
+(13) Ha a csatlakozott szolgáltató a Dáptv. szerint digitális szolgáltatást biztosító szervezet, úgy a (12) bekezdés szerint bejelentett adatok nem érintik az ügyfélnek a rendelkezési nyilvántartásba bejegyzett, a Dáptv. 25. §-a szerinti hivatalos elérhetőségére, valamint a Dáptv. 38. § (1) bekezdés a) pontja szerinti képviseletre vonatkozó rendelkezését.
 
 14. § (1) Az adatváltozás-kezelési szolgáltató az informatikai rendszerével és a nyilvántartásával kapcsolatos eseményeket – az üzemmenet folytonossága, az adatvesztés elkerülése, az elektronikus információbiztonság, továbbá adatkezelések jogszerűségének ellenőrzése, valamint az érintett tájékoztatása érdekében – folyamatosan naplózza. A naplózott adatállománynak az eljárás teljes folyamatát át kell fognia, és alkalmasnak kell lennie az eljárással kapcsolatos minden esemény rekonstruálására a valós helyzetek megítéléséhez szükséges mértékben.
 
@@ -305,7 +305,7 @@ céljából, erre irányuló megkeresés alapján továbbíthatóak.
   - bd) az ügyfél elhalálozásának tényét és idejét, valamint ebben az esetben a haláleseti kapcsolattartó nevét, levelezési címét, telefonszámát, e-mail-címét,
   - be) a jogszabályban vagy a csatlakozott szolgáltató üzletszabályzatában meghatározott további adatokat és mellékleteket.
 
-(3) Az ügyfél elektronikus azonosítást követően elektronikus kapcsolattartás útján, illetve kormányablakban – az Eüsztv. szerinti – rendelkezési nyilvántartásban rendelkezést tehet, amely alapján az adatváltozás-kezelési szolgáltató mint adatkezelő elektronikus úton automatikusan értesítést küld az ügyfél által megjelölt csatlakozott szolgáltató részére a szolgáltatóra vonatkozó jogszabály szerinti – az ügyfél (2) bekezdés a) pont aa) és ab) alpontjában és b) pont bd) alpontjában foglalt – kezelt adatairól és azok megváltozásáról (a továbbiakban együtt: automatizált adatváltozási értesítés).
+(3) Az ügyfél elektronikus azonosítást követően elektronikus kapcsolattartás útján, illetve kormányablakban – a Dáptv. szerinti – rendelkezési nyilvántartásban rendelkezést tehet, amely alapján az adatváltozás-kezelési szolgáltató mint adatkezelő elektronikus úton automatikusan értesítést küld az ügyfél által megjelölt csatlakozott szolgáltató részére a szolgáltatóra vonatkozó jogszabály szerinti – az ügyfél (2) bekezdés a) pont aa) és ab) alpontjában és b) pont bd) alpontjában foglalt – kezelt adatairól és azok megváltozásáról (a továbbiakban együtt: automatizált adatváltozási értesítés).
 
 (4) Az adatváltozás-kezelési szolgáltató az automatizált adatváltozási értesítés továbbítását megelőzően a rendelkezési nyilvántartásban ellenőrzi a (3) bekezdés szerinti érvényes rendelkezés meglétét. Érvényes rendelkezés hiányában az automatizált adatváltozási értesítés nem továbbítható a csatlakozott szolgáltató részére. Az adatváltozás-kezelési szolgáltató egyidejűleg arról is tájékoztatja az ügyfelet, hogy az automatizált adatváltozási értesítés csak érvényes rendelkezés megtétele esetén továbbítható.
 
@@ -383,7 +383,7 @@ biztosító elektronikus felületet (a továbbiakban: Hazaváró Portál) műkö
 (4) A (3) bekezdés b) pontja szerinti szolgáltatás ügyfél általi igénybevételének feltétele
 
 - a) a családi és utónévvel, valamint elektronikus levelezési címmel történő regisztráció, vagy
-- b) az Eüsztv. szerinti, a Kormány által kötelezően biztosított valamely elektronikus azonosítási szolgáltatás használata.
+- b) a Dáptv. szerinti, a Kormány által kötelezően biztosított valamely elektronikus azonosítási szolgáltatás használata.
 
 (5) Az ügyfél a Hazaváró Portálon keresztül az ügyintézés megkönnyítése céljából továbbíthatja az általa megjelölt kormányhivatal részére
 

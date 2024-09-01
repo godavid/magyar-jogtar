@@ -12,7 +12,9 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 3. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-#### 3. §
+3. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény a következő 21/B. §-sal egészül ki:
+
+„21/B. § A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott munkakörök esetében a munkáltató köteles ingyenesen biztosítani a közalkalmazott munkaköri alkalmassági vizsgálatát.”
 
 #### 4. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
@@ -22,7 +24,18 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 5. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-6. § (1)
+6. § (1) A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 49. § (1) bekezdése helyébe a következő rendelkezés lép és az Mvt. 49. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1) A munkavállaló csak olyan munkára és akkor alkalmazható, ha
+
+- a) annak ellátásához megfelelő élettani adottságokkal rendelkezik,
+- b) foglalkoztatása az egészségét, testi épségét, illetve a fiatalkorú egészséges fejlődését károsan nem befolyásolja,
+- c) foglalkoztatása nem jelent veszélyt a munkavállaló reprodukciós képességére, magzatára,
+- d) mások egészségét, testi épségét nem veszélyezteti és a munkára – jogszabályban meghatározottak szerint – alkalmasnak bizonyult.
+
+(1a) Jogszabályban meghatározott esetekben vagy a munkáltató erre irányuló döntése esetén – az (1b) bekezdésben meghatározott kivétellel – a munkára való alkalmasságról jogszabályban meghatározott orvosi vizsgálat alapján kell dönteni.
+
+(1b) Az (1a) bekezdést nem kell alkalmazni, ha szervezett munkavégzésre irányuló jogviszonyt szabályozó jogszabály az érintett tekintetében sajátos egészségi alkalmassági követelményről rendelkezik.”
 
 (2)
 
@@ -197,13 +210,19 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 36. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-47. § (1)
+47. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 75. § (4) bekezdése helyébe a következő rendelkezés lép és a Kttv. 75. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatkörök esetében a munkáltató köteles ingyenesen biztosítani a köztisztviselő munkaköri alkalmassági vizsgálatát.
+
+(4a) Az Országgyűlés Hivatala és az Országgyűlési Őrség köztisztviselőinek, illetve kormányzati ügykezelőinek feladatkörei esetén a munkáltatói jogkör gyakorlója dönt azon feladatkörökről, amelyek esetében a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt alkalmassági vizsgálat szükséges. A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát.”
 
 (2)
 
 #### 37. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-#### 48. §
+48. § A munka törvénykönyvéről szóló 2012. évi I. törvény 51. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. Jogszabályban meghatározott esetben, illetve ha a munkáltató elrendeli, a munkába lépést megelőzően és a munkaviszony fennállása alatt rendszeres időközönként a munkáltató ingyenesen köteles biztosítani a munkavállaló munkaköri alkalmassági vizsgálatát.”
 
 #### 38. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
@@ -299,7 +318,9 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 (2)
 
-(3)
+(3) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 91. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A kormányzati igazgatási szerv a munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatkör tekintetében ingyenesen biztosítja a kormánytisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a kormányzati szolgálati jogviszony fennállása alatt.”
 
 (4)
 
@@ -325,7 +346,9 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 59. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
 
-#### 75. §
+75. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) 46. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A munkáltatói jogkör gyakorlója dönt azon feladatkörökről, amelyek esetében a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt alkalmassági vizsgálat szükséges. A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát.”
 
 #### 60. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
@@ -337,7 +360,9 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 62. A pedagógusok új életpályájáról szóló 2023. évi LII. törvény módosítása
 
-78. § (1)
+78. § (1) A pedagógusok új életpályájáról szóló 2023. évi LII. törvény (a továbbiakban: Púét.) 66. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott esetben a munkáltató a munkába lépést megelőzően és a köznevelési foglalkoztatotti jogviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a köznevelési foglalkoztatotti jogviszonyban álló munkaköri alkalmassági vizsgálatát.”
 
 (2)
 

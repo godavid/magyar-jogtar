@@ -465,7 +465,7 @@ tartalmazza.
 
 (2) Az igazságügyi alkalmazott a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással (a továbbiakban: elektronikus aláírás) kapcsolatos szolgáltatáshoz az igazságügyi szerv által megjelölt elektronikus aláírással kapcsolatos szolgáltatást nyújtót (a továbbiakban: Bizalmi szolgáltató) vesz igénybe.
 
-(3) Az igazságügyi alkalmazott az elektronikus aláírásával kapcsolatos szolgáltatás igénybevétele, fenntartása, illetve megszüntetése során az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) rendelkezései szerint jár el. Az igazságügyi alkalmazott a Bizalmi szolgáltató részére nyújtott tájékoztatással egyidejűleg értesíti az igazságügyi szervet az E-ügyintézési tv. 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről.
+(3) Az igazságügyi alkalmazott az elektronikus aláírásával kapcsolatos szolgáltatás igénybevétele, fenntartása, illetve megszüntetése során a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) rendelkezései szerint jár el. Az igazságügyi alkalmazott a Bizalmi szolgáltató részére nyújtott tájékoztatással egyidejűleg értesíti az igazságügyi szervet a Dáptv. 101. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről.
 
 (4) Az aláírás-létrehozó adat elvesztését vagy illetéktelen személy tudomására jutását az igazságügyi alkalmazott az igazságügyi szervnek is haladéktalanul jelenti, amely arról értesíti a Bizalmi szolgáltatót. A Bizalmi szolgáltató az igazságügyi szerv megkeresésére akkor köteles a tanúsítványt haladéktalanul visszavonni, ha az aláírás-létrehozó adat elvesztéséről vagy illetéktelen személy tudomására jutásáról szóló bejelentést részére az igazságügyi alkalmazott korábban nem tette meg.
 
@@ -1105,7 +1105,7 @@ okozta.
 
 (3) Az adatok közül az igazságügyi szerv megnevezése, az igazságügyi alkalmazott neve, munkakörének az elnevezése, valamint elektronikus aláírási jogosultsága és annak típusa közérdekből nyilvános adatnak minősül, bármely más adat – a (4) bekezdésben foglalt kivétellel – nem igazságügyi szerv részére csak a személyazonosításra alkalmatlan módon adható ki.
 
-(4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OBH – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Bizalmi szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az E-ügyintézési tv. szerint szükséges mértékben adatot továbbítani.
+(4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OBH – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Bizalmi szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához a Dáptv. szerint szükséges mértékben adatot továbbítani.
 
 (5) A személyi nyilvántartást a szolgálati viszony megszűnését követően – a 37/B. § (4) bekezdésben meghatározott kivétellel – ötven évig kell megőrizni.
 

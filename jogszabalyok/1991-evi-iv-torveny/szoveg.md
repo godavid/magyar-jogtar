@@ -278,7 +278,7 @@ időtartamával.
 
 (3) Az álláskeresési járadék folyósításának leghosszabb időtartama 90 nap.
 
-(4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: e-ügyintézési tv.) foglaltak szerint küldte meg, az álláskeresési járadék folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
+(4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben (a továbbiakban: Dáptv.) foglaltak szerint küldte meg, az álláskeresési járadék folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
 
 (5) A nevelőszülői foglalkoztatási jogviszony abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a nevelőszülő álláskeresési ellátásban nem részesül.
 
@@ -354,7 +354,7 @@ időtartamával.
 
 (3) Az álláskeresési segély az álláskereső öregségi nyugdíj, megváltozott munkaképességű személyek ellátása jogosultságának megszerzéséig terjedő időtartamra folyósítható.
 
-(4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtásának napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – e-ügyintézési tv.-ben foglaltak szerint küldte meg, az álláskeresési segély folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
+(4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtásának napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – a Dáptv.-ben foglaltak szerint küldte meg, az álláskeresési segély folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
 
 (5) Megszűnik az álláskeresési segély folyósítása a 28. § (1) bekezdés a)–e) pontjában meghatározott esetben. Meg kell szüntetni az álláskeresési segély folyósítását a 28. § (2) bekezdésében meghatározott esetben.
 
@@ -383,7 +383,7 @@ időtartamával.
 
 ### Az ellátásokra vonatkozó közös rendelkezések
 
-36. § (1) Az e törvény alapján ellátásban részesülő személy a jogosultság feltételeit érintő lényeges tények és körülmények megváltozásáról a tudomásszerzéstől számított 15 napon belül köteles értesíteni az ellátást megállapító szervet. E kötelezettségének e-ügyintézési tv.-ben foglaltak szerint is eleget tehet.
+36. § (1) Az e törvény alapján ellátásban részesülő személy a jogosultság feltételeit érintő lényeges tények és körülmények megváltozásáról a tudomásszerzéstől számított 15 napon belül köteles értesíteni az ellátást megállapító szervet. E kötelezettségének a Dáptv.-ben foglaltak szerint is eleget tehet.
 
 (2) Az állami foglalkoztatási szerv az ügyfél kérelmére a kérelem benyújtásától számított 8 napon belül igazolást ad ki
 
@@ -662,7 +662,7 @@ időtartamával.
 
 jár el.
 
-42. § (1) A foglalkoztatást elősegítő támogatás iránti kérelem az e-ügyintézési tv.-ben foglaltak szerint nyújtható be.
+42. § (1) A foglalkoztatást elősegítő támogatás iránti kérelem a Dáptv.-ben foglaltak szerint nyújtható be.
 
 (2)
 
@@ -765,13 +765,13 @@ jár el.
 - f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci programban,
 - g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
-(9a) Az álláskereső a (9) bekezdés b) pontjában meghatározott jelentkezési, továbbá a (9) bekezdés c) pontjában meghatározott bejelentési kötelezettségének az e-ügyintézési tv.-ben foglaltak szerint is eleget tehet.
+(9a) Az álláskereső a (9) bekezdés b) pontjában meghatározott jelentkezési, továbbá a (9) bekezdés c) pontjában meghatározott bejelentési kötelezettségének a Dáptv.-ben foglaltak szerint is eleget tehet.
 
 (9b) A cselekvőképtelen vagy a munkaviszonnyal összefüggő ügycsoportban, cselekvőképességében részlegesen korlátozott személy az együttműködési kötelezettségét törvényes képviselője útján teljesíti.
 
 (9c) A foglalkoztatást elősegítő szolgáltatások igénybevétele esetén, valamint – a (9a) bekezdésben foglaltak figyelembevételével – a (9) bekezdésben foglalt együttműködési kötelezettség keretében a személyes megjelenés kötelező.
 
-(9d) Az álláskereső a (9) bekezdés c) pontjában foglalt bejelentési kötelezettségének az e-ügyintézési tv.-ben foglaltak szerint is eleget tehet.
+(9d) Az álláskereső a (9) bekezdés c) pontjában foglalt bejelentési kötelezettségének a Dáptv.-ben foglaltak szerint is eleget tehet.
 
 (10) Az álláskeresési járadékra vagy nyugdíj előtti álláskeresési segélyre jogosult vagy abban részesülő álláskereső az 58. § (5) bekezdés d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében a 25. § (2) bekezdésében meghatározott megfelelő munkahelyet köteles elfogadni.
 
@@ -800,7 +800,7 @@ együttműködik.
 - a) az álláskereső kéri, az álláskereső kérelmében meghatározott időponttól, de legkorábban a törlés iránti kérelem benyújtásának napjától,
 - b) az 58. § (5) bekezdés d) pont 1–4. alpontjában meghatározott feltételek bármelyike megszűnt, a változás bekövetkezésének napjától,
 - c) az álláskereső meghalt, az álláskereső elhalálozását követő naptól,
-- d) az álláskereső jelentkezési kötelezettségének személyesen vagy az e-ügyintézési tv.-ben foglaltak szerint nem tesz eleget, a kötelezettség elmulasztásának napjától,
+- d) az álláskereső jelentkezési kötelezettségének személyesen vagy a Dáptv.-ben foglaltak szerint nem tesz eleget, a kötelezettség elmulasztásának napjától,
 - e) az álláskereső a (9) bekezdés c) és e)–g) pontjában, valamint a (10) bekezdésben foglalt együttműködési kötelezettségének nem tesz eleget, a kötelezettség elmulasztásának napjától,
 - f) az álláskereső a körülményeiben bekövetkezett változás miatt nem tekinthető aktív munkahelykeresőnek, a változás bekövetkezésének napjától, vagy
 - g) az álláskereső a szociális igazgatásról és szociális ellátásokról szóló törvény szerint aktív korúak ellátására jogosult, de egészségkárosodottnak minősül, ezért a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott együttműködési kötelezettség nem terheli, az egészségkárosodott állapot megállapításának napjától

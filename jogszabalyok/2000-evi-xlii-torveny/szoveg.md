@@ -1351,59 +1351,33 @@ rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter
 
-1. a hajózási tevékenység folytatása feltételeinek és engedélyezése rendjének,
-
-2. az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeinek, az üzemképesség vizsgálatának és tanúsításának, továbbá az úszólétesítmények felügyelete rendjének,
-
-3. az úszólétesítményen a szolgálat rendjének, a személyzet szolgálattal összefüggő jogainak és kötelezettségeinek (rendtartásnak),
-
-4. az úszólétesítmény üzemeltetésével összefüggő – a törvényben nem említett – okmányok fajtáinak, továbbá az okmányok vezetése szabályainak,
-
-5. a hajós és tengerész szolgálati könyvek kiadása feltételeinek, vezetése és használata szabályainak,
-
-6. a folyami információs szolgáltatások szakmai és működtetési szabályainak,
-
-7. az úszólétesítmények és szállítótartályok felügyeletének,
-
-8. a hajózásra alkalmas vagy hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek vízi úttá nyilvánításának,
-
-9. a tengeri és a belvízi hajók köbözése szabályainak,
-
-10. a víziközlekedés forgalmának irányítására, és a hajóút kitűzésére szolgáló jelek létesítése, üzemeltetése és megszüntetése szabályainak,
-
-11.
-
-12. a hajózással kapcsolatos egyes veszélyes tevékenységek biztonsági követelményeinek,
-
-13. a hajózási rangjelzések használatára vonatkozó szabályoknak,
-
-14.
-
-15. a veszélyes áruk tengeri és belvízi fuvarozásának,
-
-16. a víziközlekedés rendjének,
-
-17. a havaria vizsgálata rendjének a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben,
-
-18. a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszter egyetértésével kiadott,
-
-19. a hajózási képesítések megszerzése feltételeinek és rendjének, valamint a kiadandó okmányok (bizonyítványok) formai és tartalmi követelményeinek az oktatási, valamint a rádiószolgálatok állomáskezelőire vonatkozó követelmények meghatározása tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben kiadott,
-
-20. a hajózási hatósági eljárások díjainak, valamint e díjaknak az eljáró hatóság, illetve a felügyeleti és irányítási feladatot ellátó szervezetek közötti megosztása szabályainak az adópolitikáért felelős miniszterrel egyetértésben kiadott,
-
-21. az utasnyilvántartás vezetése részletes szabályainak,
-
-22. a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
-
-23. a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak,
-
-24. a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben kiadott,
-
-25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott,
-
-26. a 2. § (4) bekezdésében meghatározott szervezet és a szervezet által ellátandó, vízi közlekedéssel összefüggő kutatási, fejlesztési és koordinációs feladatok,
-
-27. a tengeri halászati ágazat munkafeltételeinek
+- 1. a hajózási tevékenység folytatása feltételeinek és engedélyezése rendjének,
+- 2. az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeinek, az üzemképesség vizsgálatának és tanúsításának, továbbá az úszólétesítmények felügyelete rendjének,
+- 3. az úszólétesítményen a szolgálat rendjének, a személyzet szolgálattal összefüggő jogainak és kötelezettségeinek (rendtartásnak),
+- 4. az úszólétesítmény üzemeltetésével összefüggő – a törvényben nem említett – okmányok fajtáinak, továbbá az okmányok vezetése szabályainak,
+- 5. a hajós és tengerész szolgálati könyvek kiadása feltételeinek, vezetése és használata szabályainak,
+- 6. a folyami információs szolgáltatások szakmai és működtetési szabályainak,
+- 7. az úszólétesítmények és szállítótartályok felügyeletének,
+- 8. a hajózásra alkalmas vagy hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek vízi úttá nyilvánításának,
+- 9. a tengeri és a belvízi hajók köbözése szabályainak,
+- 10. a víziközlekedés forgalmának irányítására, és a hajóút kitűzésére szolgáló jelek létesítése, üzemeltetése és megszüntetése szabályainak,
+- 11.
+- 12. a hajózással kapcsolatos egyes veszélyes tevékenységek biztonsági követelményeinek,
+- 13. a hajózási rangjelzések használatára vonatkozó szabályoknak,
+- 14.
+- 15. a veszélyes áruk tengeri és belvízi fuvarozásának,
+- 16. a víziközlekedés rendjének,
+- 17. a havaria vizsgálata rendjének a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben,
+- 18. a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszter egyetértésével kiadott,
+- 19. a hajózási képesítések megszerzése feltételeinek és rendjének, valamint a kiadandó okmányok (bizonyítványok) formai és tartalmi követelményeinek az oktatási, valamint a rádiószolgálatok állomáskezelőire vonatkozó követelmények meghatározása tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben kiadott,
+- 20. a hajózási hatósági eljárások díjainak, valamint e díjaknak az eljáró hatóság, illetve a felügyeleti és irányítási feladatot ellátó szervezetek közötti megosztása szabályainak az adópolitikáért felelős miniszterrel egyetértésben kiadott,
+- 21. az utasnyilvántartás vezetése részletes szabályainak,
+- 22. a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
+- 23. a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak,
+- 24. a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben kiadott,
+- 25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott,
+- 26. a 2. § (4) bekezdésében meghatározott szervezet és a szervezet által ellátandó, vízi közlekedéssel összefüggő kutatási, fejlesztési és koordinációs feladatok,
+- 27. a tengeri halászati ágazat munkafeltételeinek
 
 rendeletben történő megállapítására.
 
@@ -1433,7 +1407,7 @@ rendeletben történő megállapítására.
 
 (7) Úszólétesítmény nyilvántartásba vételére és üzemképességére vonatkozóan e törvény hatálybalépését megelőzően kiállított okiratok a legközelebbi időszakos üzemképességi vizsgálatig érvényesek.
 
-(8) Ha a hajózási hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+(8)
 
 89/A. § (1) Az e törvénynek a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi LXVII. törvénnyel (a továbbiakban: Módtv.) megállapított 26/B. § (1) bekezdése szerinti névjegyzékben a Módtv. által megállapított 26/B. § (1) bekezdés hatálybalépésének napján szereplő vizsgabiztost úgy kell tekinteni, hogy a vizsgabiztosi tevékenység folytatásához engedéllyel rendelkezik. A Módtv. által megállapított 26/C. § (1) bekezdés hatálybalépésének napjáig hajózási képesítő vizsgára felkészítő tanfolyamon oktatóként szereplő oktatót úgy kell tekinteni, hogy az oktatói tevékenység folytatásához engedéllyel rendelkezik.
 

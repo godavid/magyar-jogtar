@@ -353,33 +353,100 @@ szerepel, akkor a nyilvántartást vezető szerv a 43. § (2) bekezdése szerint
 
 #### 8. Általános szabályok
 
-#### 18. §
+18. § (1) A felhasználó – törvény vagy kormányrendelet eltérő rendelkezése hiányában – a digitális szolgáltatást biztosító szervezet előtt az ügyei digitális térben történő intézése során ügyintézési cselekményeit e törvény szerint, elektronikusan végzi, nyilatkozatait elektronikus úton teszi meg.
+
+(2) Nincs helye elektronikus ügyintézésnek
+
+- a) azon eljárási cselekmények esetében, ahol törvény vagy kormányrendelet kifejezetten a felhasználó személyes megjelenését írja elő,
+- b) olyan eljárási cselekmény esetében, ahol ez nem értelmezhető,
+- c) olyan eljárás vagy eljárási cselekmény esetében, ahol ezt nemzetközi szerződés vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa kizárja, valamint
+- d) olyan irat, okirat vagy más beadvány esetében, amely minősített adatot tartalmaz.
+
+(3) Törvény vagy kormányrendelet az elektronikus ügyintézés lehetőségét csak annyiban korlátozhatja, ha az eljárás során az ügyfél személyes jelenléte vagy valamely okirat másként nem pótolható benyújtása elengedhetetlen.
+
+(4) A digitális szolgáltatást biztosító szervezet – önállóan vagy más digitális szolgáltatást biztosító szervezetekkel együttműködve – telefonon és más elektronikus úton is elérhető ügyfélszolgálatot működtet a fogyasztóvédelemről szóló törvénynek a közszolgáltatási tevékenységet folytató vállalkozásokra vonatkozó szabályai szerint azzal az eltéréssel, hogy az ügyfélszolgálatnak hetente legalább 40 órában elérhetőnek kell lennie. A 9. § (2) bekezdés a)–i) pontja szerinti szervek külön megállapodás alapján a Kormány rendeletében kijelölt országos telefonos ügyfélszolgálat útján is biztosíthatják az e bekezdés szerinti feladatok ellátását.
+
+(5) Az e törvény szerinti szolgáltatás esetén annak igénybevételéhez feltételként a felhasználó életkorára vonatkozó megkötés állapítható meg. Az életkori feltétel teljesülését az adott szolgáltatás erre szolgáló funkciója, illetve a szolgáltatás biztosításához szükséges nyilvántartás vizsgálja.
 
 #### 9. Kötelező elektronikus ügyintézés
 
-#### 19. §
+19. § (1) Ha nemzetközi szerződésből eredő kötelezettség alapján törvény, nemzetközi szerződés, vagy az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik, elektronikus ügyintézésre köteles valamennyi, a digitális szolgáltatást biztosító szervezet által nyújtott digitális szolgáltatások tekintetében
+
+- a) az ügyfélként eljáró
+  - aa) gazdálkodó szervezet,
+  - ab) az államháztartásról szóló 2011. évi CXCV. törvény 3. §-a szerinti szervezet,
+  - ac) ügyész,
+  - ad) jegyző,
+  - ae) az ab)–ad) alpontok hatálya alá nem tartozó egyéb közigazgatási hatóság, valamint
+- b) az ügyfél jogi képviselője.
+
+(2) Az (1) bekezdésben megjelölt ügyfél, jogi képviselő, továbbá törvényben elektronikus ügyintézésre kötelezett ügyfél, valamint az elektronikus ügyintézést önkéntesen vállaló felhasználó részére küldött dokumentum kézbesítésére a 27. §-t megfelelően alkalmazni kell.
+
+(3) Elektronikus ügyintézésre az (1) bekezdésben meghatározott eseteken túl az ügyfél vagy annak képviselője kizárólag törvényben meghatározott esetekben és csak akkor köteles, ha az adott ügyintézési cselekmény tekintetében az értelmezhető.
+
+(4) Természetes személy – a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló törvényben meghatározott kivétellel – csak törvényben kötelezhető elektronikus ügyintézésre.
+
+(5) Ha jogszabály egy nyilatkozat megtétele vonatkozásában az elektronikus kapcsolattartást – vagy az elektronikus kapcsolattartás módját – kötelezővé teszi, az e követelménynek meg nem felelő nyilatkozat – törvényben vagy kormányrendeletben meghatározott esetek kivételével – érvénytelen.
 
 #### 10. Az elektronikus ügyintézés módja
 
-#### 20. §
+20. § A felhasználó az elektronikus ügyintézéshez szükséges nyilatkozatokat, eljárási cselekményeket és egyéb kötelezettségeket
+
+- a) elsősorban a digitális állampolgárság keretalkalmazás útján,
+- b) az egységes, személyre szabott ügyintézési felületén, vagy
+- c) a digitális szolgáltatást biztosító szervezet által közzétett tájékoztatásban foglaltaknak megfelelő elektronikus úton
+
+teljesíti.
 
 #### 11. Automatikus döntéshozatali eljárás
 
-#### 21. §
+21. § (1) A digitális szolgáltatást biztosító szervezet az eljárást automatikus döntéshozatal útján folytathatja le, ha
+
+- a) kérelemre indult ügy esetén az ügyfél a kérelmét elektronikus úton nyújtja be,
+- b) a döntés meghozatala mérlegelést nem igényel, és
+- c) az ügy intézéséhez szükséges adatok automatizált feldolgozásra alkalmas módon a digitális szolgáltatást biztosító szervezet rendelkezésére állnak, vagy azokat automatikus információátvétel útján, automatizált feldolgozásra alkalmas formátumban átveszi.
+
+(2) Automatikus döntéshozatal esetén a digitális szolgáltatást biztosító szervezet emberi közbeavatkozás nélkül hozza meg az eljárást lezáró és az ügyintézéshez szükséges egyéb döntéseket és gondoskodik az ügyféllel való közlésről. A digitális szolgáltatást biztosító szervezet közli az ügyféllel, ha a döntést automatikus döntéshozatali eljárásban hozta meg.
+
+(3) Az ügyintézéshez szükséges egyéb döntés vagy értesítés emberi közbeavatkozás nélkül akkor is meghozható, ha az eljárást a digitális szolgáltatást biztosító szervezet nem automatikus döntéshozatal útján folytatja le.
+
+(4) Nincs helye automatikus döntéshozatali eljárásnak, ha azt az adott ügyben törvény vagy kormányrendelet kizárja.
 
 #### 12. Iratok és dokumentumok
 
-#### 22. §
+22. § (1) A digitális térben a dokumentumok elektronikus formában jönnek létre. Irat kivételes jelleggel állítható ki papír alapon.
+
+(2) A digitális szolgáltatást biztosító szervezet az elektronikus ügyintézése során szükség szerint
+
+- a) a papír alapon beérkező iratról hiteles elektronikus másolatot készít vagy készíttet,
+- b) az elektronikus úton kiadmányozott döntésről hiteles papír alapú másolatot készít vagy azt hiteles papír alapú irattá alakíttatja.
+
+(3) Az elektronikus dokumentum bizonyító ereje megegyezik az eredeti papír alapú dokumentum bizonyító erejével
+
+- a) a papír alapú dokumentumokról elektronikus úton történő másolat készítésének szabályai szerinti hiteles másolatkészítés esetén,
+- b) az elektronikus irat hiteles papír alapú irattá alakítása szabályai szerinti hiteles másolatkészítés esetén.
+
+(4) A dokumentum bizonyító ereje megegyezik az eredeti elektronikus dokumentum bizonyító erejével, ha az elektronikus irat hiteles papír alapú irattá alakítása, valamint elektronikus iratról hiteles, más formátumú elektronikus másolat készítésére irányuló központi elektronikus ügyintézési szolgáltatás szabályai szerinti készítették.
 
 #### 13. Elektronikus ügyintézés elektronikus ügyintézési pont útján
 
-#### 23. §
+23. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 34. § (6) bekezdése szerinti elektronikus ügyintézési pont (a továbbiakban: elektronikus ügyintézési pont) használata során e törvény rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
+
+(2) Az elektronikus ügyintézési ponton, elektronikus azonosítást követően benyújtott kérelmet úgy kell tekinteni, mintha azt az ügyfél e törvény rendelkezései szerint, elektronikus úton nyújtotta volna be.
+
+(3) A technológiai feltételek fennállása esetén az elektronikus ügyintézési ponton olyan ügy is intézhető, amelyet jogszabály alapján vagy az ügy jellege okán kizárólag személyesen lehet intézni. Ebben az esetben úgy kell tekinteni, mintha az ügyfél személyesen járt volna el.
+
+(4) Az elektronikus ügyintézési pont használata esetén az ügyfél személyazonosságának ellenőrzésére az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény (a továbbiakban: Atv.) 12/B. §-ában meghatározott szolgáltatás is alkalmazható. Ebben az esetben a személyazonosításhoz kötött jognyilatkozatot kizárólag a személyiadat- és lakcímnyilvántartásban szereplő személy tehet. Az e szolgáltatás útján biztosított azonosítást egyenértékűnek kell tekinteni az e törvény szerinti elektronikus azonosítással.
+
+(5) Az elektronikus ügyintézési pont segítségével rögzített biometrikus azonosítót (arcképmás, ujjnyomat, illetve aláírás) egyenértékűnek kell tekinteni az egységes arcképmás- és aláírás-felvételezésre jogosult hatóság által rögzített biometrikus azonosítóval.
 
 ### III. Fejezet — AZ ELEKTRONIKUS KAPCSOLATTARTÁS
 
 #### 14. Alapvető szabályok
 
-#### 24. §
+24. § (1) Elektronikus a kapcsolattartás, ha a felhasználó a nyilatkozatát vagy a digitális szolgáltatást biztosító szervezet a nyilatkozatát vagy döntését (a továbbiakban együtt: nyilatkozat) elektronikus úton teszi meg. Jogszabály rendelkezhet úgy, hogy a felhasználó az elektronikus kapcsolattartással eleget tesz a személyes megjelenési kötelezettséggel járó eljárási cselekmény teljesítésének is.
+
+(2) Elektronikus kapcsolattartás alatt a hangkapcsolatot, valamint a kép- és hangfelvétel továbbítását és rögzítését biztosító elektronikus úton történő kapcsolattartást is érteni kell, kivéve azokban az esetekben, ahol ez nem értelmezhető.
 
 #### 15. Kapcsolattartásra szolgáló elérhetőség
 
@@ -387,43 +454,174 @@ szerepel, akkor a nyilvántartást vezető szerv a 43. § (2) bekezdése szerint
 
 (2) A természetes személy felhasználó hivatalos elérhetősége az általa a rendelkezési nyilvántartásba bejelentett hivatalos elérhetőség vagy az (1) bekezdés szerinti tárhely.
 
-#### 26. §
+26. § (1) Gazdálkodó szervezet felhasználó – törvény eltérő rendelkezése hiányában a nyilvántartásba vételét, ha a gazdálkodó szervezet működéséhez jogszabály által rendszeresített nyilvántartásba vétele nem kötelező, létrejöttét követő nyolc napon belül – köteles hivatalos elérhetőségként bejelenteni a rendelkezési nyilvántartásba az elektronikus kapcsolattartásra szolgáló elérhetőségét (a továbbiakban: hivatalos elérhetőség), amely lehet
 
-#### 27. §
+- a) ajánlott elektronikus kézbesítési szolgáltatási cím, vagy
+- b) ePosta elérhetőség.
 
-#### 28. §
+(2) A gazdálkodó szervezet az elektronikus kapcsolattartásra szolgáló – (1) bekezdés szerinti – hivatalos elérhetőségének megváltozását a változás időpontjának megjelölésével bejelenti a rendelkezési nyilvántartásba.
+
+(3) A Kormány rendeletében jelöli ki azon szolgáltatót, akivel az e tárgyban kötött külön közszolgáltatási szerződésben foglaltak alapján az (1) bekezdés szerinti elérhetőséget a Kormány rendeletében meghatározott szervek részére ingyenesen biztosítja.
+
+(4) Ha a gazdálkodó szervezet ügyfél (1) bekezdés szerinti hivatalos elérhetőséggel nem rendelkezik, a digitális szolgáltatást biztosító szervezet az eljárást elektronikus kapcsolattartás nélkül is lefolytathatja azzal, hogy a gazdálkodó szervezet e kötelezettségének nem teljesítése miatt a digitális szolgáltatást biztosító szervezet kezdeményezi a gazdálkodó szervezettel szembeni, törvényben meghatározott törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását.
+
+(5) Ha a gazdálkodó szervezet közhiteles nyilvántartásban szerepel, a gazdálkodó szervezet nyilvántartását vezető szerv a hivatalos elérhetőség nyilvántartásba vétele, valamint üzemeltetése érdekében elektronikus úton, térítésmentesen átadja a rendelkezési nyilvántartást vezető szervnek, valamint a gazdálkodó szervezet által megjelölt ajánlott elektronikus kézbesítési szolgáltatási cím szolgáltatónak a gazdálkodó szervezetre vonatkozó, a gazdálkodó szervezet és a képviseletére jogosult személy azonosításához szükséges, az adott nyilvántartásban szereplő nyilvános adatokat. Az adatszolgáltatás lebonyolításának technikai szabályait az érintett szervek megállapodásban rögzítik.
+
+(6) Az egyéni vállalkozó hivatalos elérhetőségét a Kormány rendeletében meghatározott módon jelenti be.
+
+(7) A rendelkezési nyilvántartásban foglalt adatokat a nyilvántartást vezető szerv a Központi Statisztikai Hivatal (a továbbiakban: KSH) részére az adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a KSH statisztikai célra jogosult kezelni. Természetes személy felhasználó esetében a Kormány által kijelölt szerv az adatszolgáltatást közvetlen bekérdezés útján is biztosíthatja. A KSH az átvett, valamint lekérdezett adatokat a statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli.
+
+(8) Az (1) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartásban foglalt adatokat a nyilvántartást vezető szerv a KSH részére az adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a KSH statisztikai célra jogosult kezelni.
+
+27. § A 25. és 26. § szerinti hivatalos elérhetőségre kézbesített küldemény kézbesítettnek minősül, ha
+
+- a) a hivatalos elérhetőséget biztosító szolgáltató a küldemény ügyfél által történő átvételét igazolja vissza, az igazolásban feltüntetett időpontban,
+- b)
+- c) a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza, hogy a küldeményt a címzett másodszori értesítése ellenére nem vette át, a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+
+28. § Ha a felhasználó a digitális szolgáltatást biztosító szervezetnek címzett nyilatkozatában elektronikus levelezési címét, rövid szöveges üzenet fogadására alkalmas telefonszámát vagy más, elektronikus úton való kapcsolattartásra alkalmas elérhetőségét feltüntette, a digitális szolgáltatást biztosító szervezet jogosult ezen az elérhetőségen tájékoztatási jellegű kapcsolatot tartani a felhasználóval. Ha a felhasználó hivatalos elérhetőséggel is rendelkezik, a digitális szolgáltatást biztosító szervezet a hivatalos elérhetőségen tart kapcsolatot az ügyféllel, az e § szerinti elérhetőséget kizárólag az ügyfél értesítése vagy tájékoztatása céljából használja.
 
 #### 16. A kapcsolattartás módja
 
-#### 29. §
+29. § (1) A felhasználó a digitális szolgáltatást biztosító szervezet által közzétett tájékoztatásban meghatározott elérhetőségeit alkalmazva választja meg a digitális szolgáltatást biztosító szervezettel való elektronikus kapcsolattartás módját.
 
-#### 30. §
+(2) A digitális szolgáltatást biztosító szervezet a felhasználónak címzett nyilatkozatai megtétele során – ha jogszabály a kapcsolattartás módját nem határozza meg – a felhasználó hivatalos elérhetőségén tart kapcsolatot a felhasználóval.
+
+30. § (1) Ha jogszabály valamely nyilatkozat tekintetében nem elektronikus ügyintézés esetében írásbeli nyilatkozatot követel meg, annak az elektronikus kapcsolattartás során alkalmazott jognyilatkozat megfelel, ha
+
+- a) a nyilatkozattevő elektronikus azonosítása a 34. § (2) bekezdésében foglaltak szerint történik, és
+- b) biztosított, hogy a kézbesített elektronikus dokumentum megegyezik a nyilatkozattevő által jóváhagyott dokumentummal.
+
+(2) Törvény vagy kormányrendelet az (1) bekezdéstől eltérő nyilatkozatok tekintetében is rendelkezhet úgy, hogy annak joghatásai az írásbeli nyilatkozat joghatásaival megegyeznek.
+
+(3) Ha jogszabály nem zárja ki, az azonosított ügyfél által hangkapcsolatot biztosító elektronikus úton megtett nyilatkozat joghatásai megegyeznek a nem elektronikus úton szóban megtett nyilatkozat joghatásaival.
 
 #### 17. Videotechnológiás kapcsolattal történő ügyintézés
 
-#### 31. §
+31. § (1) A digitális szolgáltatást biztosító szervezet a felhasználóval – a jelen alcímben meghatározott részletszabályok szerint – a Kormány rendeletében kijelölt szerv által biztosított, élő videóképes telekommunikációs csatornán alapuló kép- és hangfelvétel továbbítására és rögzítésére alkalmas rendszer használatával is tarthatja a kapcsolatot. A Kormány rendeletében megjelölt szervet e § tekintetében elektronikus azonosítási szolgáltatást végző szervnek kell tekinteni.
 
-#### 32. §
+(2) A felhasználó az (1) bekezdés szerinti rendszer használata során
 
-#### 33. §
+- a) – ha az adatai a személyiadat- és lakcímnyilvántartásban szerepelnek – a (3) bekezdésben és a Kormány rendeletében meghatározott részletszabályok szerint, az (1) bekezdés szerinti rendszer alkalmazásával készített arcképmásának az összevetése útján, vagy
+- b) – ha az adatai a személyiadat- és lakcímnyilvántartásban nem szerepelnek – az eIDAS rendelet 6. cikk (1) bekezdése szerinti azonosító eszköz útján,
+
+a digitális szolgáltatást biztosító szervezetnél rendelkezésre álló vagy az ügyfél által átadott természetes személyazonosító adataival azonosítja magát.
+
+(3) A (2) bekezdés a) pontja szerinti azonosítás során az (1) bekezdés szerinti rendszer a videojel segítségével a személyazonosság igazolására alkalmas hatósági igazolványból (ezen alcím alkalmazásában a továbbiakban: okmány) kiolvasott természetes személyazonosító adatokat, az állampolgárságot és az okmányszámot összeveti a személyiadat- és lakcímnyilvántartásban szereplő természetes személyazonosító adatokkal, ellenőrzi az okmány érvényességét, valamint az Atv. 9/B. alcíme szerinti automatizált összehasonlítás igénybevételével az ügyfélről videojel útján készült arckép és a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásának az egymással történő megfeleltethetőségét. Az azonosítás a nyilvántartásban szereplő adatok egyezősége, az okmány érvényessége, valamint az egyezőség feltételeként meghatározott értékszám elérése esetén sikeres.
+
+(4) A (2) bekezdés a) pontja szerinti azonosítás, valamint az (1) bekezdés szerinti ügyintézés során – az (5) bekezdés szerinti kivétellel – az utólagos jogérvényesítés lehetőségének biztosítása, az ügyfél eljárási jogainak védelme, az egyes ügyintézéssel kapcsolatos jogok és kötelezettségek betartásának utólagos ellenőrzése érdekében a digitális szolgáltatást biztosító szervezet és az ügyfél között létrejött teljes kommunikációt, az ügyfél videotechnológiás azonosítással kapcsolatos részletes tájékoztatását és az ügyfél ehhez történő kifejezett hozzájárulását visszakereshető módon, kép- és hangfelvételen – a kép- és hangfelvétel minőségének romlását kizáró módon – a digitális szolgáltatást biztosító szervezet nevében a Kormány rendeletében kijelölt szerv rögzíti és azt a felvételtől számított 1 évig megőrzi.
+
+(5) A digitális szolgáltatást biztosító szervezet az (1) bekezdés szerinti ügyintézés során rögzített felvételt nem őrzi meg, ha
+
+- a) az ügyfél az ügyben érdemi nyilatkozatot nem tett vagy azt a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratban teszi meg, és
+- b) a (7) bekezdés szerinti arcképmás vagy aláírás felvételezésére sem kerül sor.
+
+(6) A (4) bekezdésben foglalt esetben és okból a digitális szolgáltatást biztosító szervezet jogosult az okmányról készült képfelvételnek a (4) bekezdés szerinti időtartamban történő rögzítésére és tárolására.
+
+(7) Ha az (1) bekezdés szerinti kommunikációval folytatott ügyben törvény az ügyfél arcképmásának, illetve aláírásának felvételezését írja elő,
+
+- a) az arcképmást,
+- b) jogszabályban foglalt esetben az aláírást
+
+a digitális szolgáltatást biztosító szervezet az (1) bekezdés szerinti rendszer használatával is felveheti.
+
+(8) A Kormány rendeletében kijelölt szerv az azonosítás sikeressége idejéig kezeli az ügyfél (2) bekezdés szerinti adatait, valamint jogosult azokat – szükség esetén az összerendelési nyilvántartás szolgáltatás igénybevételével – a személyiadat- és lakcímnyilvántartásból átvenni.
+
+32. § (1) Ha jogszabály az ügyfél nyilatkozatának érvényességéhez az ügyfél, illetve a digitális szolgáltatást biztosító szervezet képviselőjének aláírását követeli meg, az a 31. § (1) bekezdése szerinti rendszer használata során a Kormány rendeletében meghatározottak szerint pótolható.
+
+(2) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a digitális szolgáltatást biztosító szervezet a 31. § (1) bekezdése szerinti kapcsolattartás során indokolási kötelezettséggel járó döntést nem közölhet az ügyféllel.
+
+(3) A digitális szolgáltatást biztosító szervezet az indokolási kötelezettséggel nem járó döntést is köteles az ügyfél számára írásban is megküldeni, ha a döntést a 31. § (1) bekezdése szerinti kommunikáció során közölte. Törvény vagy kormányrendelet eltérő rendelkezése hiányában a döntés közlésének az írásban megküldött döntés kézbesítését kell tekinteni.
+
+33. § A jelen alcímben foglaltak nem alkalmazhatóak a büntetőeljárás, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvényben foglalt eljárások, a büntető ügyekben alkalmazható közvetítői tevékenységről szóló törvény szerinti eljárás, a szabálysértési eljárás, a polgári perrendtartásról szóló törvény szerinti peres eljárás, valamint a bírósági és közjegyzői nemperes eljárás során.
 
 ### IV. Fejezet — A FELHASZNÁLÓ JOGAI ÉS KÖTELEZETTSÉGEI
 
 #### 18. Elektronikus azonosítási kötelezettség
 
-#### 34. §
+34. § (1) A 30. § (2) bekezdésében foglalt kivétellel a felhasználó – jogszabály eltérő rendelkezése hiányában – akkor jogosult elektronikus azonosítás nélkül elektronikus ügyintézésre, ha az adott eljárási vagy ügyintézési cselekmény elvégzése vagy nyilatkozat megtétele nem elektronikus ügyintézés esetén egyáltalán nem igényli személyazonosító adat megadását.
 
-#### 35. §
+(2) Az (1) bekezdés alá nem tartozó esetben a felhasználó az elektronikus ügyintézés során választása szerint
+
+- a) elektronikus azonosítási szolgáltatás – ideértve a digitális állampolgár azonosítóval történő azonosítást is –, vagy
+- b) az eIDAS Rendelet 6. cikk (1) bekezdése szerinti feltételeknek megfelelő elektronikus azonosító eszköz
+
+útján azonosítja magát, amely biztosítja, hogy a felhasználó neve a digitális szolgáltatást biztosító szervezet, az azonosításhoz szükséges további adatai pedig az elektronikus azonosítási szolgáltató rendelkezésére álljanak.
+
+(3) A felhasználó hozzájárulása esetén a 9. § (2) bekezdés a)–i) pontja szerinti szervek az elektronikus azonosítási szolgáltatás a 43. § (1) bekezdése szerinti ügyfél-regisztrációs nyilvántartását vagy egyéb, a (2) bekezdés szerinti elektronikus azonosítási eszközhöz vagy megoldáshoz kapcsolódóan az ügyfél adatait tároló nyilvántartást kezelő szervtől az ügy intézéséhez szükséges és a digitális szolgáltatást biztosító szervezet által kezelhető azonosító adatokat igényelhetnek.
+
+(4) A digitális szolgáltatást biztosító szervezetet a (3) bekezdés szerinti adatigénylés és adatkezelés jogosultsága az ügyfél ügyintézési szándékának a digitális szolgáltatást biztosító szervezet tudomására jutásától megilleti.
+
+(5) Ha jogszabály eltérően nem rendelkezik, a digitális szolgáltatást biztosító szervezet maga állapítja meg, hogy az ügyfél elektronikus azonosítását igénylő elektronikus kapcsolattartás során milyen, az eIDAS Rendelet 8. cikk (2) bekezdése szerinti biztonsági szintű elektronikus azonosítást követel meg. Ha jogszabály vagy a digitális szolgáltatást biztosító szervezet másként nem rendelkezik, az elektronikus azonosításhoz elegendő az eIDAS Rendelet 8. cikk (2) bekezdés a) pontja szerinti alacsony biztonsági szint.
+
+35. § (1) Gazdálkodó szervezet felhasználó
+
+- a) a 34. § (2) bekezdése szerinti elektronikus azonosítását, vagy
+- b) természetes személy felhasználó képviselőjének a 42. § szerinti elektronikus azonosítását és képviseleti jogának igazolását
+
+követően végezhet elektronikus azonosításhoz kötött eljárási cselekményt vagy tehet meg elektronikus azonosításhoz kötött jognyilatkozatot elektronikus úton.
+
+(2) Természetes személy felhasználó képviselője a képviselt nevében a 34. § szerinti elektronikus azonosítását, valamint képviseleti jogának igazolását követően végezhet elektronikus azonosításhoz kötött eljárási cselekményt vagy tehet meg elektronikus azonosításhoz kötött jognyilatkozatot elektronikus úton.
+
+(3) A digitális szolgáltatást biztosító szervezet nem kötelezheti a felhasználót vagy képviselőjét a képviselő képviseleti jogának igazolására, ha
+
+- a) a képviseleti jogot igazoló adatot valamely jogszabállyal létesített nyilvántartásnak közhiteles adatként tartalmaznia kell,
+- b) a felhasználó ügyintézési rendelkezésében meghatalmazást adott a képviselő részére az eljárási cselekmény elvégzésére, illetve jognyilatkozat megtételére.
+
+(4) Az (1) bekezdés b) pontja szerinti esetben az elektronikus azonosítás szolgáltatást nyújtó szolgáltató a gazdálkodó szervezet felhasználó nevében eljáró természetes személy természetes személyazonosító adatait a digitális szolgáltatást biztosító szervezet részére a képviselő azonosítása céljából átadja. Az adatkezelés jogszerűségéért a digitális szolgáltatást biztosító szervezet felel.
+
+(5) Az (1) bekezdés b) pontja szerinti képviselő azonosításával egyenértékű, ha az elektronikus nyilatkozat benyújtása a gazdálkodó szervezet felhasználó által használt gépi interfészen keresztül történik és a képviselő azonosítása az adott ügyben szükségtelen, vagy az egyéb módon – így különösen a gazdálkodó szervezet felhasználó által megadott természetes személyazonosító adatok vagy a képviselő által használt bizalmi szolgáltatási tanúsítvány alapján – biztosított.
 
 #### 19. Azonosítók és adatok igazolásának kötelezettsége
 
-#### 36. §
+36. § (1) A felhasználó azonosításához szükséges adatok kivételével a 9. § (2) bekezdés a)–i) pontja szerinti digitális szolgáltatást biztosító szervezet a felhasználótól nem kérheti olyan adat igazolását, amelyet az érintett szerv az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírt kötelezettsége alapján közzétett, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
 
-#### 37. §
+(2) Ha a digitális szolgáltatást biztosító szervezet az (1) bekezdés szerinti adatot információátadás útján szerzi be, az ügyintézési határidőbe – az általános közigazgatási rendtartásról szóló törvény hatálya alá tartozó hatósági eljárások kivételével – nem számít bele a megkeresés teljesítésének időtartama, de legfeljebb 3 munkanap.
+
+37. § (1) Ha jogszabály a felhasználó számára hatósági igazolvánnyal rendszeresített, olyan azonosító kód igazolását írja elő, amelyhez tartozó titkosított kapcsolati kód az összerendelési nyilvántartásban szerepel, a felhasználó a digitális szolgáltatást biztosító szervezet előtti elektronikus és nem elektronikus ügyintézése esetén valamely más ilyen azonosító kódot igazoló, személyazonosításra alkalmas más hatósági igazolványa bemutatásával is eleget tehet e kötelezettségének.
+
+(2) A felhasználói profillal történő szolgáltatás-igénybevétel esetében a felhasználótól a digitális állampolgár azonosítóján felül más azonosító kód nem kérhető.
+
+(3) Ha jogszabály az ügyfél számára hatósági igazolvánnyal rendszeresített, az összerendelési nyilvántartásban szereplő azonosító kód megadását írja elő, az ügyfél a digitális szolgáltatást biztosító szervezet előtti elektronikus és nem elektronikus ügyintézése esetén az összerendelési nyilvántartáshoz csatlakozott nyilvántartás hatósági igazolványával rendszeresített azonosító kódja igazolásával is eleget tehet e kötelezettségének.
+
+(4) Az (1)–(3) bekezdés szerinti esetben a digitális szolgáltatást biztosító szervezet az összerendelési nyilvántartás igénybevételével szerzi be azt az azonosítót, amelynek kezelésére jogszabály alapján jogosult.
+
+(5) Ha valamely, az összerendelési nyilvántartás szolgáltatásaihoz csatlakozott adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, az ügyfél az azonosítót, illetve személyazonosságát az adatkezelő által használt azonosítót igazoló igazolvány helyett azonosítási szolgáltatással is igazolhatja.
+
+(6) Az igényelt azonosító kód szolgáltatását követően az eljáró szerv – kivéve, ha annak kezelésére törvény feljogosítja – és az összerendelési nyilvántartás működtetője haladéktalanul törli a szolgáltatás teljesítése céljából az ügyfél által rendelkezésre bocsátott azonosító adatokat.
 
 #### 20. A felhasználó rendelkezési joga
 
-#### 38. §
+38. § (1) A felhasználó a Kormány rendeletében kijelölt szervnél ügyintézési rendelkezése keretében az alábbi tárgykörökben tehet jognyilatkozatokat:
+
+- a) képviseletre vonatkozó jognyilatkozatok,
+- b) a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 15. § (3) bekezdése szerinti automatizált adatváltozás-bejelentési szolgáltatás igénybevétele.
+
+(2) A felhasználó 11. § (2) bekezdésében foglalt digitális állampolgárság felhasználói profil felhasználó általi aktiválását úgy kell tekinteni, hogy az elektronikus kapcsolattartási formáról rendelkezett.
+
+(3) A felhasználó az elektronikus ügyintézési rendelkezésében
+
+- a) igényelheti, hogy az általa meghatározott adatainak változásáról a Kormány rendeletében meghatározott szolgáltató az ügyintézési rendelkezésben meghatározott digitális szolgáltatást biztosító szervezetet automatikusan vagy az ügyfél eseti rendelkezése alapján elektronikus úton értesítse,
+- b) egy, több vagy valamennyi digitális szolgáltatást biztosító szervezetnek címzett meghatalmazást adhat jogszabályban meghatározott más jogalany részére arra, hogy meghatározott ügyekben vagy valamennyi ügyben a digitális szolgáltatást biztosító szervezet előtt a képviseletét ellássa,
+- c) rendelkezhet arról, hogy valamely ügyintézési rendelkezését mely digitális szolgáltatást biztosító szervezet jogosult megismerni, ha ezen a körön belül megjelöli, hogy az ügyintézési rendelkezése mely digitális szolgáltatást biztosító szervezettel szemben hatályos, továbbá
+- d) megteheti a jogszabályban meghatározott más jognyilatkozatot.
+
+(4) Ügyintézési rendelkezés jogszabály eltérő rendelkezése hiányában
+
+- a) személyes megjelenés mellett, vagy
+- b) elektronikus úton, a Kormány által kijelölt szolgáltató által biztosított felületen
+
+tehető vagy módosítható.
+
+(5) Ha valamely jognyilatkozat tekintetében jogszabály írásba foglalást vagy teljes bizonyító erejű magánokiratba foglalást követel meg, úgy az ügyintézési rendelkezésben tett nyilatkozat e követelményt teljesíti.
+
+(6) Az adott ügy vonatkozásában érvénytelen az a rendelkezés, amely az ügyre vonatkozó jogszabályokkal ellentétes.
+
+(7) Folyamatban lévő ügyben az ügy megindítását követően a digitális szolgáltatást biztosító szervezet a rendelkezési nyilvántartásba tett új ügyintézési rendelkezést vagy annak módosítását csak akkor veszi figyelembe, ha azt a felhasználó a digitális szolgáltatást biztosító szervezetnek is bejelenti.
+
+(8) Törvény vagy kormányrendelet előírhatja, hogy az (1) bekezdés a) pontja szerinti jognyilatkozat csak a meghatalmazás elfogadásával és ennek a rendelkezési nyilvántartásban való rögzítésével érvényes.
+
+(9) Természetes személy vagy egyéni vállalkozó felhasználó kivételével az állami adó- és vámhatóság hatáskörébe tartozó ügyekben – ide nem értve az állami adó- és vámhatóság nyomozóhatósági feladatait – az (1) bekezdés a) pontja szerinti rendelkezésnek nincs helye.
 
 ### V. Fejezet — A DIGITÁLIS SZOLGÁLTATÁST BIZTOSÍTÓ SZERVEZET KÖTELEZETTSÉGEI
 
@@ -435,16 +633,16 @@ szerepel, akkor a nyilvántartást vezető szerv a 43. § (2) bekezdése szerint
 
 - a) a digitális szolgáltatás keretalkalmazás útján történő igénybevételének lehetőségét,
 - b) a digitális keretszolgáltatások használatának lehetőségét,
-- c)
-- d)
-- e)
-- f)
-- g)
-- h)
-- i)
-- j)
-- k)
-- l)
+- c) az ügyfél ügyintézési rendelkezésének lekérdezését,
+- d) a személyre szabott ügyintézési felületen keresztül történő ügyintézés lehetőségét,
+- e) elektronikus azonosításhoz kötött szolgáltatás nyújtása esetén a központi azonosítási ügynök szolgáltatáson keresztül elérhető elektronikus azonosítási megoldások ügyfél általi használatát,
+- f) a Kormány rendeletében meghatározott ajánlott elektronikus kézbesítési szolgáltatáson keresztül történő kézbesítést, a neki címzett üzenetek fogadását,
+- g) az ügyfél által elektronikus úton tett jognyilatkozatok, elküldött iratok kézhezvételének jogszabályban meghatározott módon történő haladéktalan igazolását,
+- h) a legalább fokozott biztonságú és közigazgatási követelményeknek megfelelő elektronikus aláírással ellátott, illetve elektronikus bélyegzővel ellátott elektronikus dokumentumok feldolgozását,
+- i) e törvény szerint hitelesített dokumentumok előállítását,
+- j) az ügyfél részére kézbesítendő iratok kézbesítését a 26. § szerint valamennyi típusú kézbesítés útján,
+- k) a 9. § (2) bekezdés a)–i) pontjában foglalt szervek esetében az eljárásért fizetendő terhek elektronikus fizetését, és
+- l) az elektronikus űrlapkitöltés-támogatási szolgáltatással létrehozott elektronikus űrlapok kezelését.
 
 (3) A 9. § (2) bekezdés a), b), d)–f) pontja, valamint a 80. § (1) bekezdés a)–h) pontja szerinti szervek kötelesek az (1) bekezdés szerinti információs rendszer folyamatos elérhetőségét biztosítani.
 
@@ -463,7 +661,20 @@ szerepel, akkor a nyilvántartást vezető szerv a 43. § (2) bekezdése szerint
 
 #### 22. A szabályozott elektronikus ügyintézési szolgáltatások általános szabályai
 
-#### 40. §
+40. § (1) Szabályozott elektronikus ügyintézési szolgáltatás
+
+- a) az elektronikus azonosítási szolgáltatás,
+- b) az ajánlott elektronikus kézbesítési szolgáltatás,
+- c) az elektronikus ügyintézési szolgáltatások nyújtására felhasználható, jogszabályban meghatározott követelményeknek megfelelő elektronikus aláírással kapcsolatos szolgáltatás,
+- d) az e törvény felhatalmazása alapján kiadott kormányrendeletben szabályozott elektronikus ügyintézési szolgáltatásként nevesített szolgáltatás.
+
+(2) Több szabályozott elektronikus ügyintézési szolgáltatás egységesen is kialakítható és nyújtható, de ez esetben is mindegyik szabályozott elektronikus ügyintézési szolgáltatásra vonatkozó követelménynek külön-külön kell a szolgáltatás nyújtójának megfelelnie.
+
+(3) A támogató szolgáltatások nyújtására a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény rendelkezései a jelen alcím szerinti, valamint a Kormány rendeletében meghatározott eltérésekkel megfelelően alkalmazandók.
+
+(4) Törvény vagy kormányrendelet szabályozott elektronikus ügyintézési szolgáltatás igénybevételét kötelezővé teheti.
+
+(5) A szabályozott elektronikus ügyintézési szolgáltatás nyújtásának feltétele a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnökének rendeletében meghatározott kiberbiztonsági követelményeknek való megfelelés biztosítása.
 
 #### 23. Elektronikus azonosítási szolgáltatás
 
@@ -544,50 +755,113 @@ tartalmazza. Az ügyfél-regisztrációs nyilvántartás tartalmazhatja az elekt
 
 #### 24. A Kormány által kötelezően biztosítandó szabályozott elektronikus ügyintézési szolgáltatások
 
-#### 45. §
+45. § (1) Az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat a Kormány köteles biztosítani, a kijelölt szabályozott elektronikus ügyintézési szolgáltató útján:
+
+- a) elektronikus azonosítási szolgáltatás természetes személy ügyfelek részére,
+- b) ajánlott elektronikus kézbesítési szolgáltatás,
+- c) kormányzati hitelesítés-szolgáltatás, ezen belül az alábbi szolgáltatások:
+  - ca) elektronikus ügyintézési szolgáltatások nyújtására felhasználható, jogszabályban meghatározott követelményeknek megfelelő elektronikus aláírással, elektronikus bélyegzővel kapcsolatos szolgáltatások nyújtása, valamint az ilyen szolgáltatásokhoz kapcsolódó tanúsítványok létrehozása, a digitális szolgáltatást biztosító szervezetek, valamint az e törvény szerinti szabályozott elektronikus ügyintézési szolgáltatók és központi elektronikus ügyintézési szolgáltatók általi felhasználás céljára,
+  - cb) elektronikus időbélyegzőkkel kapcsolatos szolgáltatások nyújtása, valamint azonosítási célú tanúsítvány szolgáltatás a digitális szolgáltatást biztosító szervezetek, valamint az e törvény szerinti szabályozott elektronikus ügyintézési szolgáltatók és központi elektronikus ügyintézési szolgáltatók általi felhasználás céljára,
+  - cc) elektronikus aláírással, elektronikus bélyegzővel kapcsolatos szolgáltatások nyújtása, valamint az ilyen szolgáltatásokhoz kapcsolódó tanúsítványok létrehozása külön jogszabályban meghatározott védelem alá eső tisztséget betöltő, valamint nemzetbiztonsági ellenőrzés alá eső jogviszonyban álló személyek, titkos információgyűjtés folytatásában, leplezett eszközök alkalmazásában, valamint ezek engedélyezésében részt vevő szervek részére,
+  - cd) titkosítási célú tanúsítványok kibocsátása a digitális szolgáltatást biztosító szervezetek, az e törvény szerinti szabályozott elektronikus ügyintézési szolgáltatók és központi elektronikus ügyintézési szolgáltatók általi felhasználás céljára, külön jogszabályban meghatározott védelem alá eső tisztséget betöltő, valamint nemzetbiztonsági ellenőrzés alá eső jogviszonyban álló személyek részére,
+  - ce) a ca)–cd) alpontok szerint kibocsátott tanúsítványok érvényességének igazolása azonnali tanúsítványállapot-igazoló szolgáltatással,
+- d) az e törvény felhatalmazása alapján kiadott kormányrendeletben kötelezően nyújtandóként előírt további szabályozott elektronikus ügyintézési szolgáltatás.
+
+(2) Jogszabály az (1) bekezdésben foglaltakon túl egyes szabályozott elektronikus ügyintézési szolgáltatások nyújtását más szervek számára is előírhatja.
 
 #### 25. A Kormány által kötelezően biztosítandó elektronikus azonosítási szolgáltatás
 
 46. § (1) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatások:
 
 - a) eAzonosítás, valamint
-- b)
+- b) emelt szintű kétfaktoros azonosítást biztosító ügyfélkapu.
 
-(2)
+(2) Az (1) bekezdés szerinti azonosítási szolgáltatást a személyiadat- és lakcímnyilvántartásban szereplő természetes személy felhasználó veheti igénybe.
 
-(3)
+(3) A személyiadat- és lakcímnyilvántartásban szereplő természetes személy felhasználó (1) bekezdés b) pontja szerinti azonosítási szolgáltatást a 11. § (2) bekezdésben foglalt digitális állampolgárság felhasználói profil felhasználó általi aktiválásáig veheti igénybe, ezt követően kizárólag az (1) bekezdés a) pontja szerinti azonosítási szolgáltatást veheti igénybe.
 
-(4)
+(4) A központi idegenrendészeti nyilvántartásban, vagy elektronikus ügyintézést igénybe vevő külföldiek nyilvántartásában szereplő természetes személy felhasználó az (1) bekezdés b) pontja szerinti azonosítási szolgáltatást veheti igénybe.
 
 (5) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybe vevője díjmentesen jogosult egy, a Kormány rendeletében meghatározott, az (1) bekezdésben megjelölt elektronikus azonosítási szolgáltatáshoz egységesen kapcsolódó ajánlott elektronikus kézbesítési szolgáltatás és az ahhoz kapcsolódó tárhely használatára.
 
-(6)
+(6) A digitális állampolgárság nyilvántartás tekintetében az ügyfél-regisztrációs nyilvántartás és a nyilvántartásba történő regisztráció szabályait a 12. §-ban foglalt eltérésekkel kell alkalmazni.
 
-(7)
+(7) Ha a felhasználó rendelkezik az (1) bekezdés b) pontja szerinti regisztrációval, a digitális állampolgárság nyilvántartás a 13. § (1) bekezdésben foglaltakon túl tartalmazza az azonosítás végrehajtásához szükséges – nyilvános és titkos – technikai adatokat.
 
-(8)
+(8) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybevétele során a digitális szolgáltatást biztosító szervezet által igényelt, a digitális állampolgárság nyilvántartásban szereplő
+
+- a) adatok ellenőrzéséhez,
+- b) adatok beszerzéséhez
+
+olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy a digitális állampolgárság nyilvántartást vezető szerv kizárólag az elektronikus azonosítási szolgáltatás lekérdezéséről értesül, annak címzettje ismeretlen marad számára. A technológiai megoldás kizárólag a digitális szolgáltatást biztosító szervezet által igényelt adatkérést, az adatkérés által érintett adatokat továbbítja, valamint a digitális szolgáltatást biztosító szervezet által megadott adatoknak a digitális állampolgárság nyilvántartásban szereplő adatokkal történő egyezőségét vizsgálja.
 
 ### VII. Fejezet — KÖZPONTI ELEKTRONIKUS ÜGYINTÉZÉSI SZOLGÁLTATÁSOK
 
 #### 26. Általános szabályok
 
-#### 47. §
+47. § (1) Az alábbi központi elektronikus ügyintézési szolgáltatásokat a Kormány biztosítja a jogszabályban kijelölt szolgáltató útján:
+
+- a) az ügyfél ügyintézési rendelkezésének nyilvántartása,
+- b) iratérvényességi nyilvántartás,
+- c) eFizetés,
+- d) papír alapú irat átalakítása hiteles elektronikus irattá,
+- e) elektronikus irat hiteles papír alapú irattá alakítása,
+- f) központi azonosítási ügynök,
+- g) személyre szabott ügyintézési felület, az ügyfél által személyre szabható internetes alkalmazás, amely az azonosított ügyfél számára egységesen elérhető lehetőséget biztosít az elektronikus ügyintézéshez szükséges nyilatkozatok, eljárási cselekmények és egyéb kötelezettségek teljesítésére, az ügyfél által igénybe vehető elektronikus ügyintézési szolgáltatások igénybevételére,
+- h) űrlapbenyújtás-támogatási szolgáltatás, amely a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, digitális szolgáltatást biztosító szervezethez való elektronikus azonosítással egybekötött benyújtását biztosítja,
+- i) ePapír,
+- j) összerendelési nyilvántartás,
+- k) szerepkör-tanúsító platform szolgáltatás,
+- l) automatikus közigazgatási döntéshozatali rendszer,
+- m) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.
+
+(2) Ha a központi elektronikus ügyintézési szolgáltatás igénybevételéhez regisztráció szükséges, a regisztrációra jogszabály eltérő rendelkezése hiányában kizárólag elektronikus azonosítási szolgáltatással kerülhet sor. A regisztráció során az elektronikus azonosítási szolgáltató az igénybe vevő hozzájárulása alapján jogosult a kijelölt szolgáltató részére átadni a regisztrációhoz szükséges, az elektronikus azonosítási szolgáltató által kezelt személyes adatokat.
+
+(3) Törvény vagy kormányrendelet valamely központi elektronikus ügyintézési szolgáltatás igénybevételét kötelezővé teheti.
+
+(4) A Kormány által kijelölt szolgáltató központi elektronikus ügyintézési szolgáltatás nyújtásával összefüggő adatkezelése körében e törvény általános adatkezelési szabályai irányadók.
+
+(5) A támogató szolgáltatások tekintetében mesterséges intelligencián alapuló technológia is felhasználható.
+
+(6) Ha jogszabály a nyilatkozat érvényességéhez az ügyfél, illetve a digitális szolgáltatást biztosító szervezet képviselőjének aláírását követeli meg, az a Kormány rendeletében meghatározott mesterséges intelligencián alapuló szolgáltatás használata során a Kormány rendeletében meghatározottak szerint pótolható.
+
+(7) Ha a digitális szolgáltatást biztosító szervezet a mesterséges intelligencián alapuló szolgáltatás használata során a szolgáltatás útján, gépi úton tesz nyilatkozatot, a központi elektronikus ügyintézési szolgáltatás szolgáltatója a digitális szolgáltatást biztosító szervezet nevében jár el.
+
+(8) Törvény vagy kormányrendelet meghatározhatja azon ügyeket, ahol a (6) bekezdés szerinti szolgáltatások vagy ezen szolgáltatások valamelyikének használata kizárt.
 
 #### 27. Az ügyfél ügyintézési rendelkezésének nyilvántartása
 
-#### 48. §
+48. § (1) A Kormány által kijelölt szerv az elektronikus ügyintézés megkönnyítése, az ügyfél választási lehetőségeinek megteremtése és elektronikus ügyintézéssel kapcsolatos rendelkezésének tiszteletben tartása érdekében az ügyfél ügyintézési rendelkezéseinek adattartamáról nyilvántartást vezet.
+
+(2) Az összerendelési nyilvántartás adatkezelője új természetes személy összerendelési bejegyzésének nyilvántartásba történő bejegyzésekor elektronikus úton értesíti az ügyfél ügyintézési rendelkezését nyilvántartó szervet abból a célból, hogy a személy rendelkezéseinek kezelése céljából a személy számára rendelkezési nyilvántartási bejegyzést hozzon létre.
+
+(3) A rendelkezési nyilvántartást vezető szerv a (2) bekezdés szerint átadott természetes személyazonosító adatok alapján a személy részére belső azonosítót és összerendelési bejegyzési kapcsolati kódot képez, majd gondoskodik az összerendelési bejegyzési kapcsolati kód titkosított változatának – csak általa visszafejthető titkosítással – az összerendelési nyilvántartást vezető szerv részére történő továbbításáról, ezt követően a természetes személyazonosító adatokat törli.
+
+(4) A rendelkezési nyilvántartást vezető szerv a képviseletre vonatkozó rendelkezés nyilvántartásba vétele során a képviselőt az összerendelési nyilvántartáson alapuló szolgáltatás igénybevételével veszi nyilvántartásba, a képviselő természetes személyazonosító adatait és a más hatóság által képzett azonosítót vagy azonosító kódot nem tárolja.
+
+(5) A rendelkezési nyilvántartást vezető szerv a képviseleti jogosultságot megvizsgálja.
+
+(6) A rendelkezési nyilvántartást vezető szerv kizárólag a digitális szolgáltatást biztosító szervezetek vagy támogató szolgáltatás szolgáltató számára szolgáltat adatot az ügyintézési rendelkezés tartalmáról, ideértve az ügyfél által adott meghatalmazás adatait is. A digitális szolgáltatást biztosító szervezetek vagy támogató szolgáltatás szolgáltatója igazolja, hogy mely azonosító kódok, illetve más azonosítók használatára jogosult.
+
+(7) Az ügyintézési rendelkezés tartalmáról történő tájékoztatás során a nyilvántartó szerv az összerendelési nyilvántartás igénybevételével kizárólag olyan azonosító kódot vagy más adatot közölhet a megkereső szervvel vagy szolgáltatóval, amelynek kezelésére az érintett szerv vagy szolgáltató jogosult.
+
+(8) Törvény vagy kormányrendelet lehetővé teheti, hogy a digitális szolgáltatást biztosító szervezet, a támogató szolgáltatás szolgáltatója az ügyfél jogszabályban meghatározott egyes ügyintézési rendelkezéseit, jogszabályban meghatározott módon a rendelkezési nyilvántartást vezető szervnek nyilvántartásba vétel céljából bejelentse.
+
+(9) A rendelkezési nyilvántartást kezelő szerv vagy a rendelkezési nyilvántartás regisztrációs szerve az ügyfél vagy más szerv vagy a (8) bekezdés szerinti szolgáltató által az ügyintézési rendelkezés nyilvántartásba vétele során megadott személyes adatokat – ha törvény eltérően nem rendelkezik – kizárólag a rendelkezés nyilvántartásba vétele céljából, annak nyilvántartásba rögzítése idejéig kezeli.
 
 #### 28. Iratérvényességi nyilvántartás
 
-#### 49. §
+49. § (1) Az iratérvényességi nyilvántartás szolgáltatás keretében a szolgáltató lehetővé teszi, hogy az igénybe vevő a birtokában lévő hiteles papír alapú vagy elektronikus okiratok hitelességét, illetve – ha erre adatok rendelkezésre állnak – tartalmát ellenőrizze.
+
+(2) Az iratérvényességi nyilvántartás szolgáltatás igénybe vevője az iratérvényességi nyilvántartásban rögzíti az általa kiállított okiratoknak a szolgáltató által meghatározott egyes adatait, illetve tartalmi elemeit. Az iratérvényességi nyilvántartás nyilvánosan elérhető, abban bárki ellenőrizheti a birtokában lévő, a nyilvántartásban rögzített okiratnak a nyilvántartásban elérhető adatait, valamint adott esetben az okirat hitelességét is.
 
 #### 29. Papír alapú irat átalakítása hiteles elektronikus irattá
 
-#### 50. §
+50. § Az iratról a papír alapú irat átalakítása hiteles elektronikus irattá szolgáltatás szabályai szerint a Kormány által kijelölt szerv által készített okirat bizonyító ereje megegyezik az eredeti okiratéval.
 
 #### 30. Elektronikus irat hiteles papír alapú irattá alakítása
 
-#### 51. §
+51. § Az elektronikus iratról az elektronikus irat hiteles papír alapú irattá alakítása szolgáltatás szabályai szerint a Kormány által kijelölt szerv által készített okirat bizonyító ereje megegyezik az eredeti okiratéval.
 
 ### VIII. Fejezet — A DIGITÁLIS ÁLLAMPOLGÁRSÁG SZOLGÁLTATÁSOK
 
@@ -754,21 +1028,90 @@ kormányrendelet állapítja meg.
 
 ### IX. Fejezet — EGYES TÁMOGATÓ SZOLGÁLTATÁSOK HARMADIK FÉL SZOLGÁLTATÓK ÁLTALI IGÉNYBEVÉTELE
 
-#### 65. §
+65. § (1) Törvényben vagy kormányrendeletben meghatározott, a Kormány által biztosított
 
-#### 66. §
+- a) digitális keretszolgáltatás és támogató szolgáltatás a Kormány rendeletében meghatározott feltételek mellett a digitális szolgáltatást biztosító szervezetnek nem minősülő, közfeladatot ellátó szerv által közérdek teljesítése céljából igényelhető,
+- b) digitális keretszolgáltatás, támogató szolgáltatás, valamint egyéb, informatikai, hálózati és infrastrukturális közszolgáltatás digitális szolgáltatást biztosító szervezetnek nem minősülő szervezet által a Kormány rendeletében meghatározott feltételekkel és az eredeti közszolgáltatáshoz képest a Kormány rendeletében meghatározott eltérésekkel és korlátozásaival piaci szereplők részére nyújtható központi állami szolgáltatásként igényelhető.
+
+(2) Az e törvény végrehajtására kiadott rendeletben meghatározott piaci szereplők által az (1) bekezdésben meghatározott, ellenszolgáltatás mellett igénybe vehető szolgáltatások esetén, a piaci szolgáltató más igénybevevők részére történő szolgáltatás nyújtása során az (1) bekezdésben meghatározott szolgáltatások továbbszolgáltatásáért ellenszolgáltatásra nem tarthat igényt.
+
+(3) A Kormány által biztosított elektronikus azonosítási szolgáltatás vagy – a Kormány rendeletében meghatározott eltérésekkel – azzal azonos tartalmú piaci szereplők részére nyújtható központi állami szolgáltatás igénybevétele során, az azonosítás folyamata és eredményessége biztosítása érdekében a piaci szereplő kezeli azon személyes adatokat, amelyek a szolgáltatás igénybevételéhez elengedhetetlenül szükségesek.
+
+(4) A támogató szolgáltatás, valamint a piaci szereplők részére nyújtható központi állami szolgáltatás (e § alkalmazásában a továbbiakban együtt: Szolgáltatás) e fejezet szerinti igénybevétele feltételeinek, a Szolgáltatásra vonatkozó jogszabályokban előírt jogok és kötelezettségek teljesítését a digitális szolgáltatások felügyelete a 38. alcím szerint ellenőrzi azzal, hogy a felügyeleti vizsgálat tekintetében a Szolgáltatást szabályozott elektronikus ügyintézési szolgáltatásnak, a Szolgáltatás igénybevevőjét digitális szolgáltatást biztosító szervezetnek, a Szolgáltatás igénybevevőjével elektronikusan kapcsolatot tartó személyt vagy szervet ügyfélnek kell tekinteni.
+
+66. § (1) A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 1. § (1) és (1a) bekezdése szerinti szolgáltató (a továbbiakban e § alkalmazásában: szolgáltató) részére, a szolgáltató kérelme esetén a Kormány által biztosított elektronikus ügyintézési szolgáltatások közül a központi azonosítási ügynök szolgáltatást, a Kormány által biztosított elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartást és a központi kormányzati szolgáltatási buszt a Kormány által kijelölt szolgáltató a Pmt. szerinti ügyfél-átvilágítás (a továbbiakban: ügyfél-átvilágítás) céljára, közérdekből díjmentesen biztosítja.
+
+(2) A szolgáltató az ügyfél-átvilágítás során, az elektronikus azonosítás keretében az ügyfél nevét, születési nevét, anyja nevét, születési helyét és idejét a központi azonosítási ügynök szolgáltatáson és az összerendelési nyilvántartáson keresztül, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz. tv.) 10/E. §-a szerint gépi kapcsolat útján veszi át.
+
+(3) A (2) bekezdés szerinti adatszolgáltatást az állam az ügyfél-átvilágítás esetében díjmentesen biztosítja a szolgáltató számára.
+
+(4) A sikeres azonosítást követően a szolgáltató az ügyfél a Pmt. 7. § (2) bekezdés a) pont ac), af) és ag) alpontja szerinti adatát, aláírását, valamint arcképmását a közhiteles hatósági nyilvántartásokból díjmentesen veszi át.
+
+(5) A szolgáltató a Pmt. 7. § (2) bekezdés a) pont ag) alpontja szerinti adatot elsősorban a 42. § (2) bekezdése szerinti nyilvántartásból, ha az ügyfél ezen nyilvántartásban nem rögzített személyazonosításra alkalmas hatósági igazolvánnyal rendelkezik, az útiokmány-nyilvántartásból, ha az ügyfél útlevéllel sem rendelkezik, akkor a közúti közlekedési engedély-nyilvántartásából veszi át. A pénz- és hitelintézet az ügyfél személyazonosításra alkalmas hatósági igazolványához tartozó aláírás- és arcképmás-adatot veszi át.
 
 ### X. Fejezet — ELEKTRONIKUS ÜGYINTÉZÉST IGÉNYBE VEVŐ KÜLFÖLDI SZEMÉLYEK NYILVÁNTARTÁSA
 
 #### 36. Elektronikus ügyintézést igénybe vevő külföldi személyek nyilvántartása
 
-#### 67. §
+67. § (1) A Kormány által kijelölt szerv az elektronikus ügyintézés biztonsága, a felhasználók hiteles elektronikus azonosítása, valamint az egyes elektronikus ügyintézési szolgáltatások igénybevételének biztosítása érdekében nyilvántartást vezet azon, életvitelszerűen külföldön élő, Magyarországon bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkező külföldi természetes személyekről, akik ebbe a nyilvántartásba az elektronikus ügyintézés céljából önkéntesen regisztrálnak (a továbbiakban: külföldi személyek nyilvántartása).
 
-#### 68. §
+(2) Az e törvény hatálya alá tartozó ügyeit az (1) bekezdés szerinti regisztráció nélkül is elektronikusan intézheti a külföldön élő, Magyarországon bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkező az a természetes személy is, aki
 
-#### 69. §
+- a) az eIDAS Rendelet hatálya alá tartozik és az eIDAS Rendelet 6. cikk (1) bekezdése szerinti feltételeknek megfelelő elektronikus azonosítási eszközzel azonosítja magát, vagy
+- b) nemzetközi szerződés alapján erre jogosult.
 
-#### 70. §
+(3) A regisztráció céljából a természetes személy ügyfélnek személyesen meg kell jelennie a Kormány által kijelölt regisztrációs szervnél. A személyes megjelenéssel egyenértékű a regisztrációt végző szerv külső helyszínen lefolytatott eljárása is, ha azonos biztonsági körülmények között biztosítható az ügyfél személyazonosságának az e §-ban meghatározott ellenőrzése.
+
+(4) A természetes személy személyes megjelenése esetén a természetes személyt a regisztrációs szerv az általa bemutatott, külön jogszabályban meghatározott, a személyazonosság igazolására alkalmas úti okmányban vagy az Európai Gazdasági Térségről szóló Egyezményben részes tagállam állampolgára esetén a tagállam által kibocsátott személyazonosításra alkalmas okmányban szereplő adatok alapján azonosítja. A regisztrációs szerv a természetes személy bemutatott okmányában szereplő természetes személyazonosító adatait ellenőrzi
+
+- a) a személyiadat- és lakcímnyilvántartásban,
+- b) a központi idegenrendészeti nyilvántartásban, valamint
+- c) a külföldi személyek nyilvántartásában.
+
+(5) A regisztrációs szerv az ellenőrzés során kapott adatokat összeveti a természetes személy bemutatott okmányában szereplő adatokkal, illetve megállapítja, hogy a bemutatott okmányban szereplő arcképmás megfeleltethető-e az előtte megjelent személlyel.
+
+(6) A regisztrációs szerv ellenőrzi az okmányazonosító alapján, hogy a külföldi személyek nyilvántartásában az ügyfél által bemutatott okmánnyal történt-e korábban regisztráció. Amennyiben igen, a nyilvántartásba vételt meg kell tagadni.
+
+68. § (1) Ha a természetes személy nem szerepel a 42. § (2) bekezdése szerinti nyilvántartások egyikében sem, és a bemutatott okmányban szereplő arcképmás megfeleltethető a megjelent személlyel, a regisztrációs szerv a kérelmező természetes személy arcképmásának és aláírásának a kormányrendeletben meghatározott módja szerinti rögzítése mellett a természetes személyt felveszi a külföldi személyek nyilvántartásába.
+
+(2) A regisztrációs szerv az ügyfél-regisztrációt megtagadja, és a rögzített adatokat helyreállíthatatlanul törli, ha a természetes személy ügyfél adatai a 42. § (2) bekezdése szerinti nyilvántartások valamelyikében már szerepelnek, illetve, ha az ügyfél személyazonosítás céljára bemutatott okirata érvénytelen.
+
+(3) A regisztrációs szerv a 42. § (2) bekezdése szerinti adatokat kizárólag az adatokkal való egyezés vagy eltérés megállapítása céljából használhatja fel.
+
+69. § (1) A külföldi személyek nyilvántartásába történő regisztráció megszűnik
+
+- a) a természetes személy halálával,
+- b) ha azt a természetes személy kérte,
+- c) az összerendelési nyilvántartás értesítése alapján, ha a regisztrált személy számára képzett összerendelési bejegyzés személyi azonosítóhoz, illetve központi idegenrendészeti nyilvántartási azonosítóhoz tartozó titkosított összerendelési kapcsolati kódot tartalmaz,
+- d) a felvételnél a személyazonosság igazolására szolgáló okmány érvényességi idejének lejártával, a határidő nélküli érvényességi idejű okmány esetén a regisztrációtól számított 50 év elteltével.
+
+(2) A külföldi személyek nyilvántartása a regisztráció megszűnésétől számított 5 évig tartalmazza a természetes személy arcképmását, aláírását és
+
+- a) természetes személyazonosító adatait, ha regisztrációja során történő személyazonosítására személyes megjelenés során kerül sor,
+- b) az a) pont hatálya alá nem tartozó esetben az őt kizárólagosan azonosító, a regisztráció során megismert személyazonosító adatokat,
+- c) az azonosításához használt, személyazonosításra alkalmas okmánya vagy eszköze kibocsátójának és fajtájának megjelölését, érvényességi idejét,
+- d) nemét, állampolgárságát, valamint
+- e) a c) pont szerinti okmány vagy eszköz azonosítóját.
+
+(3) A külföldi személyek nyilvántartásából az elektronikus azonosítási szolgáltató számára abból a célból szolgáltatható adat, hogy az elektronikus azonosítási szolgáltató
+
+- a) meg tudja állapítani, hogy egy adott személy megegyezik-e a nyilvántartásba vett személlyel,
+- b) az azonosítást kérő számára igazolni tudja az adott személy személyazonosságát,
+- c) az azonosítást kérő rendelkezésére tudja bocsátani az adott személy azonosításához feltétlenül szükséges adatokat.
+
+(4) A külföldi személyek nyilvántartásából az összerendelési nyilvántartáson keresztül a Szaz. tv. 10/E. és 10/F. §-ában meghatározott célból adat szolgáltatható, ha az adatok kezelésére az adatkezelő törvény felhatalmazása alapján jogosult.
+
+(5) Az (1) bekezdés szerinti nyilvántartást vezető szerv az ügyfél hozzájárulása nélkül a következő szervek részére adhatja meg az ügyfél általa kezelt adatait:
+
+- a) bíróságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+- b) a nyomozó hatóságnak bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+- c) az ügyészségnek az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+- d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
+- e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá elhárítási, információszerzési, valamint kiemelt személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+
+70. § (1) A 69. § (3)–(5) bekezdése szerinti szervek a külföldi személyek nyilvántartásából díjmentesen igényelhetnek adatot.
+
+(2) Az ügyfél hozzájárulása esetén, valamint a 66. § (4) bekezdésében foglalt esetben az (1) bekezdésben meg nem jelölt szerv számára igazgatási szolgáltatási díj megfizetése ellenében szolgáltatható adat.
 
 ### XI. Fejezet — A DIGITÁLIS SZOLGÁLTATÁSOK NYÚJTÁSÁNAK TÁMOGATÁSA ÉS FELÜGYELETE
 
@@ -778,9 +1121,53 @@ kormányrendelet állapítja meg.
 
 #### 38. A digitális szolgáltatások felügyelete
 
-#### 72. §
+72. § (1) A digitális szolgáltatások felügyeletének (a továbbiakban: Felügyelet) feladata a digitális állampolgársághoz, a digitális szolgáltatások igénybevételéhez való jog érvényesülésének, továbbá a digitális szolgáltatások biztosításának ellenőrzése, összehangolása és elősegítése. A Felügyeletet a Kormány rendeletben jelöli ki.
 
-#### 73. §
+(2) A Felügyelet az (1) bekezdés szerinti feladatkörében ellenőrzi különösen:
+
+- a) a digitális szolgáltatást biztosító szervezet által biztosított digitális szolgáltatásokat,
+- b) a támogató szolgáltatásokat,
+- c) a digitális állampolgárság szolgáltatásokat, és
+- d) az a)–c) pontok szerinti szolgáltatásokra és a szolgáltatásokkal összefüggő együttműködési kötelezettségre vonatkozó, e törvényben és a végrehajtására kiadott jogszabályokban foglalt rendelkezések betartását, és eljár azok megsértése esetén.
+
+(3) A Felügyelet az (1) bekezdés szerinti feladatkörében az e törvényben és e törvény végrehajtására kiadott jogszabályban meghatározottak szerint különösen
+
+- a) életesemény-kataszterben nyilvántartja a felhasználó számára elérhető digitális szolgáltatásokat, életesemények szerint tematizált ügyeket és integrált ügymenetet biztosító alkalmazásokat és a digitális szolgáltatást biztosító szervezeteket;
+- b) engedélyezi és nyilvántartásba veszi az e törvény alkalmazását önként vállaló jogalanyokat;
+- c) felhasználó bejelentése alapján – e törvény végrehajtására kiadott jogszabályban foglalt kivételekkel – felügyeleti vizsgálatot indíthat;
+- d) hivatalból felügyeleti vizsgálatot indíthat, ha – akár névtelen bejelentés alapján – valószínűsíthető, hogy digitális szolgáltatást biztosító szervezet, a támogató szolgáltatásokat és a digitális állampolgárság szolgáltatásokat nyújtó szervezet az e törvényben meghatározott kötelezettségeit vagy a felhasználók e törvényben meghatározott jogait megsérti;
+- e) ellátja a digitális szolgáltatások nyújtásának alapjául szolgáló állami alkalmazásokkal és digitális szolgáltatások nyújtásával kapcsolatos követelményeket meghatározó jogszabályokban foglaltak végrehajtásának ellenőrzésével kapcsolatos hatósági és felügyeleti feladatokat és eljár azok megsértése esetén;
+- f) kérelemre vagy hivatalból koordinációs eljárást folytat le.
+- g) ellátja a támogató szolgáltatások és a digitális állampolgárság szolgáltatások tekintetében e szolgáltatásoknak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti hatósági felügyeletét.
+
+(4) A Felügyelet az e törvény és a végrehajtására kiadott jogszabályokba foglalt követelmények megtartását hatósági ellenőrzés keretében vizsgálja.
+
+(5) A felügyeleti vizsgálat során a bejelentőt az általános közigazgatási rendtartásról szóló törvény szerinti ügyféli jogok nem illetik meg, a hivatalból indított hatósági eljárásban hozott hatósági döntéssel szemben jogorvoslati jogosultsággal nem rendelkezik. A Felügyelet a felügyeleti vizsgálat indításáról és eredményéről tájékoztatja a bejelentőt. Amennyiben a Felügyelet a bejelentés alapján nem indít eljárást, arról – indokolási kötelezettség nélkül – tájékoztatja a bejelentőt.
+
+(6) Ha a Felügyelet megállapítja, hogy a digitális szolgáltatást biztosító szervezet, támogató szolgáltatást nyújtó szervezet vagy a digitális állampolgárság szolgáltató (e § alkalmazásában a továbbiakban: ellenőrzött szervezet) az e törvényben vagy e törvény végrehajtási rendeleteiben foglalt szabályokat megsértette,
+
+- a) jogkövetkezményként:
+  - aa) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezheti az ellenőrzött szervezetet,
+  - ab) az ellenőrzött szervezetnél a digitális szolgáltatások megvalósításáért felelős személy fegyelmi és kártérítési felelősségre vonását kezdeményezheti a fegyelmi jogkör gyakorlójánál,
+  - ac) az ellenőrzött szervezet által nyújtott digitális szolgáltatás nyújtását a döntés véglegessé válásától a jogszerű állapot helyreállításáig vagy legfeljebb 12 hónapra feltételhez kötheti, korlátozhatja vagy felfüggesztheti,
+  - ad) elrendelheti, hogy a digitális szolgáltatások nyújtásának alapjául szolgáló alkalmazások állami üzemeltetésére és fejlesztésére költségvetési forrás a továbbiakban nem biztosítható,
+- b) közigazgatási szankcióként:
+  - ba) a digitális szolgáltatás nyújtását önkéntesen vállaló szervezet esetén visszavonhatja a szervezet digitális szolgáltatások biztosítására irányuló engedélyét,
+  - bb) a Kormány által rendeletben meghatározott mértékű bírságot szabhat ki.
+
+(7) A (6) bekezdés szerinti jogkövetkezmények és közigazgatási szankciók együttesen is alkalmazhatók.
+
+(8) A Felügyelet bírságot szab ki, ha
+
+- a) a Felügyelet az ellenőrzött szervezettel szemben a (6) bekezdés a) pontja szerinti jogkövetkezmények bármelyikét eredménytelenül alkalmazta,
+- b) a jogsértés a felhasználók széles körét érinti és komoly érdeksérelmet, kárveszélyt idéz elő, vagy
+- c) a jogsértésből egy vagy több felhasználónak jelentős hátránya származott.
+
+(9) A (8) bekezdésben foglalt esetekben közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.
+
+73. § (1) A digitális szolgáltatást biztosító szervezet, a támogató szolgáltatást nyújtó szervezet és a digitális állampolgárság szolgáltató a szolgáltatások nyújtása során e törvényben és e törvény végrehajtási rendeleteiben meghatározott követelményeknek megfelelően köteles eljárni, melynek betartását a Felügyelet ellenőrzi és eljár azok megsértése esetén.
+
+(2) Az e törvényben vagy e törvény végrehajtási rendeleteiben foglalt szabályok megkerülésével vagy megsértésével megkötött – digitális szolgáltatások nyújtásának alapjául szolgáló alkalmazások fejlesztésére, továbbfejlesztésére és üzemeltetésére vonatkozó – szerződés semmis.
 
 ## NEGYEDIK RÉSZ — A DIGITÁLIS SZOLGÁLTATÁST BIZTOSÍTÓ, VALAMINT EGYÉB SZERVEZETEK INFORMATIKAI EGYÜTTMŰKÖDÉSE
 
@@ -788,27 +1175,92 @@ kormányrendelet állapítja meg.
 
 #### 39. Az együttműködésre vonatkozó szabályok alkalmazása
 
-#### 74. §
+74. § (1) Az e Részben foglalt szabályokat – a (2) bekezdésben foglaltak kivételével – a digitális szolgáltatást biztosító szervezetek, valamint a Kormány által kijelölt közfeladatot ellátó szervek (a továbbiakban együtt: együttműködő szervek) e minőségükben az e törvényben és más jogszabályban előírt vagy lehetővé tett egymás közötti kapcsolattartására, információátadásaira, valamint az egymás közötti információátadással járó ügyek intézésére és eljárások során az e törvényben meghatározottak szerint informatikai együttműködésre kell alkalmazni.
+
+(2) Az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i (EU) 2018/1724 európai parlamenti és tanácsi rendelet végrehajtásához szükséges, az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos szabályokat kormányrendelet határozza meg.
+
+(3) E Részt
+
+- a) a jogalkotási eljárásra,
+- b) a Kormány döntéseinek előkészítésére,
+- c) a választási eljárásra, a népszavazás előkészítésére és lebonyolítására,
+- d) a nemzetbiztonsági szolgálatok, a Nemzeti Biztonsági Felügyelet adatai, iratai átadására, nyilvántartásaiból történő adatszolgáltatásra, továbbá eljárásaira,
+- e) az együttműködő szervek belső nyilvántartásaira, és döntéseik tervezetére,
+- f) az e törvényben meghatározott kivételekkel az együttműködő szervnek a döntés megalapozását szolgáló, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint nem nyilvános adatai, ilyen adatot tartalmazó iratai megismerésére irányuló eljárásra,
+- g) törvény eltérő rendelkezése hiányában minősített adat és minősített adatot tartalmazó irat átadására,
+- h) az együttműködő szervek egymás közötti polgári jogi jogviszonyaira,
+- i) a köziratok levéltárba adására, valamint
+- j) az együttműködő szervek közjogi vagy magánjogi jogutódlásával összefüggő átadás-átvételi eljárásra
+
+nem kell alkalmazni.
+
+(4) E Rész rendelkezései az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa által szabályozott kapcsolattartás, információátadás, valamint ügyek intézése tekintetében az ott szabályozott kérdésekben nem alkalmazhatók. E törvény rendelkezéseitől az Európai Unió kötelező jogi aktusának végrehajtása céljából – az ahhoz szükséges mértékben és módon – jogszabály eltérhet.
 
 #### 40. Az együttműködés alapelvei
 
-#### 75. §
+75. § (1) Az együttműködő szerv a digitális szolgáltatás (e Rész alkalmazásában a továbbiakban: ügy) elintézéséhez vagy feladata ellátásához szükséges, más együttműködő szervnél keletkezett, vagy más együttműködő szerv által már beszerzett információkat, valamint az együttműködő szervnek az ügy elintézéséhez szükséges döntését vagy nyilatkozatát – az e törvényben meghatározott esetekben – ezen együttműködő szervtől elektronikus úton szerzi be.
+
+(2) Az (1) bekezdéstől eltérően az életesemény-kataszterben meghatározott adatokat a digitális állampolgárság szolgáltató információátadás útján szerzi be.
+
+(3) Az együttműködő szervek – ha azt törvény nem zárja ki – egymással elektronikus úton tartják a kapcsolatot.
+
+(4) Az együttműködő szervek elektronikus információs rendszerüket úgy alakítják ki, meglévő elektronikus információs rendszerüket pedig olyan módon fejlesztik, hogy az – az e törvényben meghatározott követelményeknek megfelelő módon – alkalmas legyen az e törvény szerinti informatikai együttműködésük (a továbbiakban: informatikai együttműködés) megvalósítására.
+
+(5) Az ügyfél kérelmére, kezdeményezésére indult ügyben a digitális szolgáltatást biztosító szervezet a rendelkezésére álló, az ügy elintézéséhez szükséges személyes adatot az eljáró digitális szolgáltatást biztosító szervezet részére továbbítja, amely azt az ügy elintézéséhez szükséges és elégséges mértékben kezeli, ha digitális szolgáltatást biztosító szervezet az adatkezeléssel kapcsolatos lényeges körülményekről az ügyfelet a vonatkozó előírásokban meghatározott módon tájékoztatta.
 
 ### XIII. Fejezet — AZ INFORMATIKAI EGYÜTTMŰKÖDÉS ÁLTALÁNOS SZABÁLYAI
 
 #### 41. Információforrások
 
-#### 76. §
+76. § (1) Az együttműködő szerv, ha tudomása van arról, hogy az előtte folyamatban lévő ügy elintézéséhez vagy feladata ellátásához szükséges, rendelkezésére nem álló – személyes vagy minősített adat esetében általa törvény alapján kezelhető – információ a (3) bekezdés szerinti elsődleges információforrásból rendelkezésre áll, azt törvény kizáró rendelkezése hiányában elsődleges információforrásból elektronikus úton szerzi be.
 
-#### 77. §
+(2) Az együttműködő szerv elsődleges információforrásból automatikus továbbítást biztosító információátadási szolgáltatás útján szerzi be az (1) bekezdésben meghatározott információt, ha az rendelkezésére áll, és ezt törvény nem zárja ki.
+
+(3) Elsődleges információforrásból áll rendelkezésre az információ, ha
+
+- a) közhiteles nyilvántartásban szerepel,
+- b) nem szerepel közhiteles nyilvántartásban, de valamely együttműködő szervnél keletkezett, vagy
+- c) jogszabály az elsődleges információforrás megjelölésével így rendelkezik.
+
+(4) Vélelmezni kell, hogy az együttműködő szervnek az (1) bekezdés alkalmazásában tudomása van arról, hogy az információ valamely elsődleges információforrásból rendelkezésre áll
+
+- a) a (3) bekezdés a) és c) pontja szerinti esetben,
+- b) ha az információ együttműködő szervnél keletkezik, vagy
+- c) ha arról az ügyfél vagy az ügyben eljáró együttműködő szerv az információ és az elsődleges információforrás megjelölésével tájékoztatta.
+
+(5) Törvény kizáró rendelkezése hiányában, ha az együttműködő szervnek a rendelkezésére álló információ helyessége vagy fennállása tekintetében kétsége merül fel, az információt az elsődleges információforrásból elektronikus úton szerzi be.
+
+77. § (1) Az együttműködő szerv, ha az előtte folyamatban lévő ügy elintézéséhez vagy feladata ellátásához szükséges, rendelkezésére nem álló – személyes vagy minősített adat esetében általa törvény alapján kezelhető – információ elsődleges információforrásból nem szerezhető be, de tudomása van arról, hogy másodlagos információforrásból rendelkezésre áll, azt jogszabály eltérő rendelkezése hiányában másodlagos információforrásból elektronikus úton szerzi be.
+
+(2) Másodlagos információforrásból rendelkezésre áll az információ, ha
+
+- a) azt valamely együttműködő szerv elsődleges információforrásból szerezte be, vagy
+- b) az nem együttműködő szervnél keletkezett, és azt valamely együttműködő szerv nem együttműködő szervtől szerezte be.
+
+(3) Az együttműködő szerv az elsődleges információforrásból rendelkezésre álló információt az e §-ban foglalt egyéb feltételek fennállása esetén akkor is beszerezheti másodlagos információforrásból, ha a másodlagos információforrásból rendelkezésre álló információ egyezősége az elsődleges információforrásból elérhető információval biztosított.
+
+(4) Ha az (1)–(3) bekezdés és a 76. § szerinti eljárás aránytalanul hosszú időt vesz igénybe, vagy a szükséges műszaki feltételek kialakítása nem szolgálja a költséghatékonyság elvét, úgy a digitális állampolgárság szolgáltató más információforrásból is szerezhet be információt.
 
 #### 42. Az információk továbbításának formái
 
-#### 78. §
+78. § (1) A kormányrendeletben meghatározott együttműködő szerv a kormányrendeletben meghatározott információk automatikus továbbítását biztosító információátadási szolgáltatást hoz létre és bocsát az együttműködő szervek rendelkezésére.
+
+(2) Az együttműködő szerv a rendelkezésére álló és a jogszabály alapján átadható vagy átadandó információkat információátadás helyett elektronikusan hozzáférhetővé teheti a másik együttműködő szerv számára, ha az ehhez szükséges informatikai feltételek rendelkezésre állnak. Ha a kézbesítéshez jogszabály jogkövetkezményt fűz vagy az információt jogszabályban meghatározott határidőben kell biztosítani, a hozzáférhetővé tétel tényéről az információt átadó együttműködő szerv a másik együttműködő szervet tájékoztatja.
 
 ### XIV. Fejezet — EGYÜTTMŰKÖDÉS SORÁN HASZNÁLT SZABÁLYOZOTT ÉS KÖZPONTI ELEKTRONIKUS ÜGYINTÉZÉSI SZOLGÁLTATÁSOK
 
-#### 79. §
+79. § (1) Az együttműködés elősegítése érdekében az együttműködő szerv az együttműködés során, valamint a belső elektronikus ügymenete során a VI. és VII. Fejezetben, valamint e törvény végrehajtási rendeletében meghatározott szabályozott és központi elektronikus ügyintézési szolgáltatásokat igénybe veheti.
+
+(2) Az (1) bekezdés szerinti igénybevétel során a VI. és VII. Fejezetben meghatározott szabályokat értelemszerűen, az adatkezelésére vonatkozó szabályok betartásával kell alkalmazni.
+
+(3) A 47. §-ban meghatározott szolgáltatásokon túl a Kormány központi elektronikus ügyintézési szolgáltatásként központi kormányzati szolgáltatás buszt biztosít a jogszabályban kijelölt szolgáltató útján, amelynek keretében
+
+- a) a szolgáltató az együttműködő szervek, valamint a szolgáltatáshoz önkéntesen csatlakozott egyéb szervezetek információs rendszereinek információátadási szolgáltatásai csatlakoztatásával, ennek hiányában információátadási szolgáltatásként biztosítja az egymás közötti információátadás biztonságos feltételeit, valamint
+- b) a csatlakozott együttműködő szervek személyes adatokat tartalmazó információs rendszereinek adattovábbításai vonatkozásában az érintett személyes adatainak továbbítására vonatkozó tájékoztatásadást támogató egyablakos, tájékoztatási szolgáltatást biztosít.
+
+(4) Törvény vagy kormányrendelet valamely központi elektronikus ügyintézési szolgáltatás igénybevételét az együttműködés során is kötelezővé teheti.
+
+(5) A Kormány az együttműködéshez, valamint a belső elektronikus ügymenethez szükséges támogató szolgáltatásokat a 9. § (2) bekezdés szerinti jogalanyoknak díjmentesen biztosítja.
 
 ## ÖTÖDIK RÉSZ
 
@@ -818,111 +1270,448 @@ kormányrendelet állapítja meg.
 
 ## HATODIK RÉSZ — A BIZALMI SZOLGÁLTATÁSOKRÓL
 
-#### 82. §
+82. § (1) Az e Részben foglalt szabályokat
+
+- a) az eIDAS Rendelet szerinti, Magyarország területén letelepedett bizalmi szolgáltatókra és az általuk nyújtott bizalmi szolgáltatásokra, és
+- b) az a) pont szerinti bizalmi szolgáltatásokat igénybe vevő felekre
+
+kell alkalmazni.
+
+(2) Az e Részben foglalt szabályokat nem kell alkalmazni az eIDAS Rendelet 2. cikk (2) bekezdése szerinti, kizárólag zárt rendszerekben alkalmazott bizalmi szolgáltatások nyújtására.
 
 ### XV. Fejezet — A BIZALMI SZOLGÁLTATÁSOK NYÚJTÁSÁNAK ÁLTALÁNOS FELTÉTELEI
 
 #### 43. A bizalmi szolgáltatás nyújtásának megkezdése
 
-#### 83. §
+83. § (1) A Magyarországon letelepedett bizalmi szolgáltató a bizalmi szolgáltatás nyújtásának megkezdésére vonatkozó szándékát a bizalmi felügyelet számára a bizalmi felügyelet által rendszeresített elektronikus űrlapon bejelenti.
+
+(2) Minősített bizalmi szolgáltatás indítása előtt a bizalmi szolgáltató legalább 30 nappal a bizalmi szolgáltatás megkezdését megelőzően nyújtja be az (1) bekezdés szerinti bejelentést.
+
+(3) A bizalmi szolgáltató a bejelentéshez az e törvény végrehajtására kiadott rendeletben meghatározott iratokat köteles csatolni.
+
+(4) A bizalmi felügyelet az (1) bekezdés szerinti bejelentést megvizsgálja, és a jogszabályi feltételeknek megfelelő bejelentőt nyilvántartásba veszi.
+
+(5) A bizalmi szolgáltató köteles a bizalmi felügyelet számára bejelenteni, ha a bejelentések alapján nyilvántartásba vett adatokhoz képest működésében vagy a bizalmi szolgáltatás nyújtásában változás történik.
+
+(6) A minősített bizalmi szolgáltatást nyújtó bizalmi szolgáltató a változás bekövetkeztét legalább 30 nappal megelőzően értesíti a bizalmi felügyeletet a nyilvántartásba vett adatokhoz képest működésében vagy a bizalmi szolgáltatás nyújtásában bekövetkező, tervezett változásokról.
+
+(7) A bizalmi szolgáltatással kapcsolatos bejelentés, illetve kérelem közvetlenül a bizalmi felügyelethez nyújtható be.
 
 #### 44. A szolgáltatási szerződés és a bizalmi szolgáltatás nyújtásával kapcsolatos követelmények
 
-#### 84. §
+84. § (1) A bizalmi szolgáltatás nyújtására a bizalmi szolgáltató a bizalmi szolgáltatási ügyféllel szolgáltatási szerződést köt.
+
+(2) A bizalmi szolgáltató a szerződéskötést megelőzően az eIDAS Rendeletben meghatározottakon túl a bizalmi szolgáltatási ügyfelét tájékoztatja arról, hogy a bizalmi szolgáltatás minősített bizalmi szolgáltatásnak minősül-e.
+
+(3) A bizalmi szolgáltató a (2) bekezdésben foglaltakon túl a bizalmi szolgáltatási ügyfelét tájékoztatja az e törvény végrehajtására kiadott rendeletben meghatározottakról, valamint elérhetővé teszi számára az e törvényben meghatározott adatokat és dokumentumokat.
+
+(4) Minősített bizalmi szolgáltató természetes személy, illetve jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője, vezetője és alkalmazottja csak büntetlen előéletű lehet, és nem állhat a bizalmi szolgáltatási tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+
+(5) A szolgáltatási szerződésre, valamint a bizalmi szolgáltatás nyújtásának egyéb feltételeire (így különösen bizalmi szolgáltatási rendre és szolgáltatási szabályzatra) vonatkozó részletes feltételeket az e törvény végrehajtására kiadott rendelet szabályozza.
+
+(6) A bizalmi szolgáltató jogosult arra, hogy bizalmi szolgáltatását különböző feltételekkel (így különösen eltérő felelősségvállalással vagy eltérő bizalmi szolgáltatási rendnek való megfelelés szerint) nyújtsa.
+
+(7) A bizalmi szolgáltató a szerződéskötést követően tartós adathordozón vagy a bizalmi szolgáltatási ügyfél számára letölthető módon a bizalmi szolgáltatás ügyfelének rendelkezésére bocsátja a szolgáltatási szerződést, a bizalmi szolgáltatási rendet és a szolgáltatási szabályzatot.
 
 #### 45. A bizalmi szolgáltatás keretében kibocsátott tanúsítványokkal kapcsolatos ellenőrzés
 
-#### 85. §
+85. § (1) A bizalmi szolgáltató által kibocsátott tanúsítványnak az abban foglalt adatokat a valóságnak megfelelően kell tartalmaznia, kivéve ha magából a tanúsítványból kitűnik, hogy az adat valódiságát a bizalmi szolgáltató nem ellenőrizte (így különösen álnév esetén). Ennek érdekében a bizalmi szolgáltató a tanúsítványba foglalandó adatokat köteles ellenőrizni, így különösen a tanúsítvány tartalmától függően ellenőrzi a tanúsítvány alany személyazonosságát, a személyazonosság megállapításához használt azonosító adatok valódiságát és – ha van ilyen – közhiteles vagy más központi nyilvántartásban foglalt adatokkal való megegyezőségét, a tanúsítvány alany nevében a bizalmi szolgáltató előtt eljáró képviselő képviseleti jogosultságát, a tanúsítványba foglalandó képviseleti jog meglétét, a tanúsítvány által igazolt címtartomány fölötti rendelkezési jogot, a tanúsítványban feltüntetendő IP-cím fölötti rendelkezési jogot, a tanúsítványba foglalandó szervezeti egység létezését, a tanúsítványba foglalandó szabályozott szakma megnevezése esetén az annak gyakorlására való jogosultságot.
 
-#### 86. §
+(2) Minősített bizalmi szolgáltatás esetén a bizalmi szolgáltató a személyazonosságot az eIDAS Rendelet 24. cikk (1) bekezdése szerint ellenőrzi, azzal, hogy az eIDAS Rendelet hivatkozott bekezdése szerinti nemzeti jogszabályból fakadó követelménynek kell tekinteni a (3)–(8) bekezdés szerinti kötelezettségeket is. Nem minősített bizalmi szolgáltatás esetén a bizalmi szolgáltató a személyazonosságot az eIDAS Rendelet 24. cikk (1) bekezdésében hivatkozott módokon és a (3)–(8) bekezdésben foglalt kötelezettségek szerint köteles ellenőrizni azzal, hogy a 24. cikk (1) bekezdés c) pontjában meghatározott minősített elektronikus aláírás vagy minősített elektronikus bélyegző tanúsítványán túl fokozott biztonságú elektronikus aláírást vagy elektronikus bélyegzőt is elfogadhat.
+
+(3) Ha a bizalmi szolgáltató a természetes személy tanúsítvány alany személyazonosságát személyes jelenlét alapján vagy azzal egyenértékű azonosítással kívánja ellenőrizni, az Nytv. hatálya alá tartozó természetes személyek esetében ezt az Nytv. szerinti személyazonosság igazolására alkalmas hatósági igazolvány alapján végzi el.
+
+(4) Ha a bizalmi szolgáltató az Nytv. hatálya alá nem tartozó természetes személy tanúsítvány alany esetén személyes jelenlét alapján vagy azzal egyenértékű azonosítással kívánja a személyazonosságot ellenőrizni, a bizalmi szolgáltató a személyazonosságot elsősorban a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, illetve a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti úti okmány alapján ellenőrzi.
+
+(5) Ha a bizalmi szolgáltató a (4) bekezdés szerinti személyazonosság ellenőrzését Magyarország területén kívül végzi el személyes jelenlét alapján vagy azzal egyenértékű azonosítással, és a természetes személy tanúsítvány alany a (4) bekezdés szerinti jogszabályok szerinti úti okmánnyal nem rendelkezik, a bizalmi szolgáltató a személyazonosság ellenőrzését csak olyan, a hitelesítési rendben meghatározott megbízható okmányok vagy más iratok alapján végezheti el, amely esetén a bizalmi szolgáltató igazolni tudja a bizalmi felügyeletnek, hogy a hitelesítési rendben meghatározott megbízható okmány vagy más irat a személyazonosság megállapításában és ellenőrzésében a (4) bekezdésben foglaltakkal azonos fokú bizonyosságot ad.
+
+(6) Ha a bizalmi szolgáltató egy természetes személy tanúsítvány alany személyazonosságát a (3) bekezdés szerint ellenőrizte, köteles a személyazonosság igazolására használt hatósági igazolvány érvényességét és az igazolványban foglalt adatok egyezését a megfelelő közhiteles hatósági nyilvántartásban is ellenőrizni.
+
+(7) Ha a bizalmi szolgáltató egy természetes személy tanúsítvány alany személyazonosságát a (4) vagy (5) bekezdés szerint ellenőrizte, a személyazonosság megállapítására használt, (4) vagy (5) bekezdés szerinti okmány vagy más irat érvényességét vagy hitelességét, valamint az abban használt adatok és a rájuk vonatkozó központi nyilvántartás egyezőségét ellenőrzi. Ha ilyen nyilvántartás nem érhető el, a bizalmi szolgáltató számára nem hozzáférhető vagy a hozzáférés és ellenőrzés költsége aránytalanul magas, a bizalmi szolgáltató ezt a tényt rögzíti, és az egyéb rendelkezésére álló bizonyítékok alapján dönt arról, hogy az adott tanúsítványt a tanúsítvány alany részére kibocsátja-e.
+
+(8) Ha a tanúsítvány alanya nem természetes személy, a bizalmi szolgáltató legalább a tanúsítvány alanynak a tanúsítványba foglalt teljes nevét és egyedi azonosító adatát ellenőrzi. Ha a tanúsítvány alanya Magyarországon bejegyzett személy, a bizalmi szolgáltató ezen adatok valódiságát és hatályosságát közhiteles nyilvántartás tartalma alapján, vagy ha ilyen közhiteles nyilvántartás nincs, a bejegyzést igazoló közokirat alapján ellenőrzi, egyébként az ellenőrzésre az (5) bekezdésben foglaltak irányadóak.
+
+(9) Ha a tanúsítvány alany nevében a bizalmi szolgáltató előtt képviselő jár el, vagy a tanúsítvány teljes vagy részleges képviseleti jogot vagy ekként is értelmezhető jogviszonyt is tartalmaz (a továbbiakban együtt: képviseleti jog), a bizalmi szolgáltató köteles a tanúsítvány kibocsátása előtt a képviseleti jog fennállásáról és annak a tanúsítványból kiolvasható tartalmáról jogszabály, közhiteles nyilvántartás, létesítő okirat vagy ezek hiányában meghatalmazás alapján meggyőződni, ellenőrzés eredményét rögzíteni.
+
+86. § (1) A Kormány rendeletben határozza meg a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszereket.
+
+(2) Ha az (1) bekezdés szerinti egyéb azonosítási módszer kép- és hangfelvétel rögzítésén alapul, a bizalmi szolgáltató a videotechnológiás azonosítás során a bizalmi szolgáltató és a természetes személy között létrejött teljes kommunikációt, a természetes személy videotechnológiás azonosítással kapcsolatos részletes tájékoztatását és a természetes személy ehhez történő kifejezett hozzájárulását visszakereshető módon, kép- és hangfelvételen – a kép- és hangfelvétel minőségének romlását kizáró módon – rögzíti és azt a 88. § (1) bekezdésében meghatározott időtartamig megőrzi.
+
+(3) A (2) bekezdésben foglalt esetben a bizalmi szolgáltató jogosult a természetes személy személyazonosságát igazoló okmányról készült képfelvételnek a (2) bekezdés szerinti időtartamban történő tárolására.
 
 #### 46. A bizalmi szolgáltatás keretében kibocsátott tanúsítvánnyal kapcsolatos általános kötelezettségek
 
-#### 87. §
+87. § Ha a bizalmi szolgáltató által bizalmi szolgáltatás keretében kibocsátott tanúsítvány képviseleti jogosultságot is igazol,
 
-#### 88. §
+- a) a bizalmi szolgáltató a tanúsítvány kibocsátásáról haladéktalanul értesíti a képviselt személyt,
+- b) a bizalmi szolgáltató a képviseleti jogosultság megszűnése esetén a képviselt vagy a képviselő személy kérésére köteles a képviseleti jogosultság tényét feltüntető tanúsítványt visszavonni,
+- c) a bizalmi szolgáltató kizárólag a képviselt hozzájárulása esetén tüntethet fel álnevet a tanúsítványban.
 
-#### 89. §
+88. § (1) A bizalmi szolgáltató az egyes tanúsítványokkal kapcsolatosan rendelkezésére álló információkat – beleértve az azok előállításával összefüggőket is – és az ahhoz kapcsolódó személyes adatokat legalább a tanúsítvány érvényességének lejártától számított 10 évig megőrzi. Ha a bizalmi szolgáltatót valamely igénybevevő, hatóság vagy bíróság a tanúsítványba foglalt adat valódiságával vagy érvényességével kapcsolatosan megindult jogvitáról értesíti, a bizalmi szolgáltató a megőrzési kötelezettségének a jogvita jogerős lezárásáig akkor is köteles eleget tenni, ha a tanúsítvány lejártától számított tízéves határidő már lejárt. A bizalmi szolgáltató a megőrzési határidő lejártáig olyan eszközt is biztosít, amellyel a kibocsátott tanúsítvány tartalma megállapítható.
+
+(2) A bizalmi szolgáltató a megőrzési kötelezettségét minősített archiválási szolgáltatás útján is teljesítheti.
+
+(3) A tanúsítványt kibocsátó bizalmi szolgáltató az eIDAS Rendelet 24. cikk (4) bekezdésében foglalt nyilvántartásokon túl az általa kibocsátott tanúsítványok felfüggesztésével kapcsolatos információkhoz való folyamatos hozzáférést is biztosítja, ha a bizalmi szolgáltató az adott bizalmi szolgáltatás kapcsán biztosítja a tanúsítvány felfüggesztésének lehetőségét.
+
+89. § (1) A bizalmi szolgáltatási ügyfél haladéktalanul tájékoztatja a bizalmi szolgáltatót
+
+- a) az azonosításához szükséges, a tanúsítványban feltüntetett személyazonosító adatok, más személy képviseletével összefüggésben kiállított tanúsítvány esetén a képviseletre jogosult személy és a képviselt személy adatai, a tanúsítványban feltüntetett egyéb adatok bármelyikének megváltozásáról;
+- b) a bizalmi szolgáltatással vagy a tanúsítvánnyal kapcsolatban észlelt, jogszabályban, szolgáltatási szerződésben illetve szolgáltatási szabályzatban meghatározott rendellenességről vagy más, a bizalmi szolgáltatást érintő eseményről, így különösen arról, ha a bizalmi szolgáltatás használatához szükséges, a bizalmi szolgáltató által biztosított kriptográfiai vagy más biztonsági eszközt jogosulatlan személy használhatta;
+- c) a bizalmi szolgáltatással kapcsolatos jogvita megindulásáról.
+
+(2) A bizalmi szolgáltatási ügyfél és a tanúsítványban a 85. § szerint igazolt igénybe vevő személy kérheti a tanúsítvány visszavonását, vagy ha a bizalmi szolgáltató az adott bizalmi szolgáltatás kapcsán biztosítja a tanúsítvány felfüggesztésének lehetőségét, a tanúsítvány felfüggesztését.
 
 #### 47. A bizalmi szolgáltatás keretében kibocsátott tanúsítvány felfüggesztése és visszavonása
 
-#### 90. §
+90. § (1) A bizalmi szolgáltató által bizalmi szolgáltatás keretében kibocsátott tanúsítvány esetén a bizalmi szolgáltató dönthet úgy, hogy biztosítja a hitelesítési rendben, szolgáltatási szabályzatban vagy szolgáltatási szerződésben rögzített esetekben a tanúsítvány érvényességét érintő felfüggesztés lehetőségét.
 
-#### 91. §
+(2) Ha a bizalmi szolgáltató a tanúsítvány felfüggesztését biztosítja, felfüggeszti a tanúsítvány érvényességét és ezt a tényt, valamint a felfüggesztés pontos időszakának megjelölését nyilvántartásában haladéktalanul közzéteszi, ha
+
+- a) ezt a 89. § (2) bekezdése szerinti személy kéri;
+- b) a szolgáltatással kapcsolatos – jogszabályban, a szolgáltatási szabályzatban vagy a szolgáltatási szerződésben meghatározott – rendellenességről szerez tudomást;
+- c) megalapozottan feltételezhető, hogy a tanúsítványban foglalt adatok nem felelnek meg a valóságnak;
+- d) a bizalmi felügyelet ezt végleges határozatában elrendeli.
+
+91. § (1) A bizalmi szolgáltató a tanúsítványt visszavonja és ezt nyilvántartásában haladéktalanul közzéteszi, ha
+
+- a) ezt a 89. § (2) bekezdés szerinti személy kéri;
+- b) a szolgáltatással kapcsolatos – jogszabályban, a szolgáltatási szabályzatban vagy a szolgáltatási szerződésben meghatározott – olyan rendellenességről szerez tudomást, amelyet a tanúsítvány felfüggesztésével nem lehet orvosolni vagy a tanúsítvány felfüggesztésének lehetőségét a szolgáltató nem biztosítja;
+- c) tudomást szerez arról, hogy a tanúsítványban foglalt adatok nem felelnek meg a valóságnak;
+- d) a bizalmi felügyelet ezt végleges határozatában elrendeli;
+- e) az adott bizalmi szolgáltatás nyújtását befejezte.
+
+(2) A bizalmi szolgáltató nem vonhat vissza tanúsítványt a visszavonás közzétételét megelőző időre.
+
+(3) A bizalmi szolgáltató a szolgáltatási szabályzatban vagy szolgáltatási szerződésben rendelkezik a tanúsítvány érvényességének lejárta előtti visszavonásának jogkövetkezményeiről.
+
+(4) Az eIDAS Rendelet 28. cikk (4) bekezdésének hatálya alá nem tartozó visszavont tanúsítvány a visszavonás időpontjában érvényességét veszti.
 
 ### XVI. Fejezet — A BIZALMI SZOLGÁLTATÁS NYÚJTÁSÁNAK MEGSZÜNTETÉSE
 
-#### 92. §
+92. § (1) Ha a bizalmi szolgáltató meg kívánja szüntetni egy bizalmi szolgáltatásának nyújtását, erről legkésőbb a tevékenység megszüntetésekor, minősített bizalmi szolgáltató esetén pedig legalább a megszüntetést 60 nappal megelőzően értesíti a bizalmi felügyeletet, a bizalmi szolgáltatási ügyfeleket, valamint az általa kibocsátott és még vissza nem vont elektronikus aláírás és bélyegző tanúsítványokban megjelölt – bizalmi szolgáltatási ügyfélnek nem minősülő – igénybe vevőket.
 
-#### 93. §
+(2) Ha a bizalmi szolgáltató más bizalmi szolgáltatás nyújtását továbbra is folytatja, akkor köteles gondoskodni a megszüntetni kívánt bizalmi szolgáltatással összefüggő, a nyilvánosság számára elérhető nyilvántartásainak folyamatos elérhetőségéről, így különösen biztosítania kell a 88. § (3) bekezdése szerinti nyilvántartásokhoz való hozzáférést.
+
+(3) Ha a bizalmi szolgáltató a továbbiakban nem nyújt bizalmi szolgáltatást, az (1) bekezdés szerinti értesítésben megjelöli azt a bizalmi szolgáltatót (a továbbiakban: átvevő bizalmi szolgáltató), aki a bizalmi szolgáltatási tevékenység megszűnését követően biztosítja a (2) bekezdés szerinti nyilvántartásokhoz való hozzáférést.
+
+(4) Ha a megszüntetendő bizalmi szolgáltatás minősített bizalmi szolgáltatás, az átvevő bizalmi szolgáltató is csak olyan bizalmi szolgáltató lehet, aki ugyanilyen bizalmi szolgáltatásra vonatkozóan minősített bizalmi szolgáltatóként a bizalmi felügyelet nyilvántartásában szerepel.
+
+(5) Az (1) bekezdés szerinti értesítés időpontjától kezdve a bizalmi szolgáltató nem bocsáthat ki az adott bizalmi szolgáltatás kapcsán új tanúsítványt és a tevékenység megszüntetését legalább 20 nappal megelőzően köteles az általa kibocsátott és még vissza nem vont tanúsítványokat visszavonni.
+
+(6) A bizalmi szolgáltató köteles az átvevő bizalmi szolgáltatónak a hozzáférési kötelezettség alá eső nyilvántartási adatokat, valamint a visszavont tanúsítványokkal kapcsolatos minden adatot – beleértve a személyes adatokat is – átadni.
+
+93. § (1) Ha a bizalmi szolgáltató a 92. § (2) vagy (3) bekezdése szerinti kötelezettségeinek nem tesz eleget, a bizalmi felügyelet haladéktalanul elrendeli a bizalmi szolgáltató által kibocsátott tanúsítványok visszavonását és gondoskodik e tény közzétételéről, valamint kijelöli az átvevő bizalmi szolgáltatót. A bizalmi felügyelet ezzel kapcsolatos költségeit a bizalmi szolgáltatási tevékenységet befejező bizalmi szolgáltató köteles a bizalmi felügyelet erről szóló felszólításától számított 15 napon belül megtéríteni. Ha a bizalmi szolgáltatási tevékenységet befejező bizalmi szolgáltató e költségeket e határidőn belül nem téríti meg, a bizalmi felügyelet a költségek megtérítésére felhasználhatja a bizalmi szolgáltató által jogszabály alapján e célból biztosított pénzügyi biztosítékot.
+
+(2) Minősített bizalmi szolgáltatás esetén a bizalmi felügyelet elsősorban minősített bizalmi szolgáltatót jelöl ki átvevő bizalmi szolgáltatóként.
+
+(3) Ha a bizalmi szolgáltatás megszűnésekor a bizalmi felügyelet nyilvántartásában nincs megfelelő bizalmi szolgáltató, az átvevő bizalmi szolgáltató feladatait a bizalmi felügyelet látja el.
+
+(4) Ha a bizalmi szolgáltató ellen felszámolási, végelszámolási vagy kényszertörlési eljárás indult, a bizalmi szolgáltató haladéktalanul köteles erről és a felszámolóról vagy végelszámolóról tájékoztatni a bizalmi felügyeletet. A bizalmi felügyelet az eljárás időtartama alatt jogosult a felszámolótól, végelszámolótól vagy a kényszertörlési eljárást lefolytató cégbíróságtól a felszámolás, végelszámolás vagy a kényszertörlési eljárás állásáról tájékoztatást kérni. Ha a bizalmi szolgáltató a zárómérleg benyújtásáig nem teljesíti a 92. § (1) és (2) bekezdése szerinti kötelezettségeit, a bizalmi felügyelet kijelöli az átvevő bizalmi szolgáltatót.
+
+(5) A bizalmi felügyelet a bizalmi szolgáltatás nyújtásának megszüntetése esetén nyilvántartásából törli a bizalmi szolgáltatást, a bizalmi szolgáltató megszűnése esetén pedig törli valamennyi, az adott bizalmi szolgáltató által nyújtott, a nyilvántartásában szereplő bizalmi szolgáltatást.
 
 ### XVII. Fejezet — A BIZALMI SZOLGÁLTATÓ ADATSZOLGÁLTATÁSI KÖTELEZETTSÉGE
 
-#### 94. §
+94. § (1) A bizalmi szolgáltató az általa nyújtott bizalmi szolgáltatások felhasználásával elkövetett bűncselekményekkel kapcsolatos büntetőeljárás lefolytatása céljából, vagy nemzetbiztonsági érdekből – az érintett személyazonosságát igazoló, valamint a 85. § alapján egyeztetett adatok tekintetében – az adatigénylés feltételeinek teljesülése esetén díjmentesen adatokat továbbít a nyomozó hatóságnak, az ügyészségnek, a bíróságnak, a nemzetbiztonsági szolgálatoknak és a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek. Az adatátadás tényét rögzíteni kell, az adatátadásról a bizalmi szolgáltató az igénybe vevőt nem tájékoztathatja.
+
+(2) A bizalmi szolgáltató az (1) bekezdésben meghatározott kötelezettségeknek haladéktalanul köteles eleget tenni, és az adatok továbbítását nem kötheti egyéb feltételhez, így különösen az adatszolgáltatás költségeiben való megállapodáshoz vagy a költségek előlegezéséhez.
+
+(3) A bizalmi szolgáltató a tanúsítvány érvényességét érintő polgári peres, illetve nemperes eljárás során – az érintettség igazolása esetén – az aláíró vagy bélyegzőt elhelyező személyazonosságát igazoló, valamint a 85. § alapján egyeztetett adatokat átadhatja az ellenérdekű félnek vagy képviselőjének, illetve azt közölheti a megkereső bírósággal.
+
+(4) Ha a tanúsítványban az igénybe vevő álnéven szerepel, a bizalmi szolgáltató a tanúsítványban szereplő igénybe vevő valódi személyazonosságára vonatkozó adatot csak az érintett igénybe vevő, a bizalmi szolgáltatási ügyfél vagy a tanúsítványban igazolt igénybe vevő által képviselt más személy beleegyezésével, valamint az (1)–(3) bekezdés szerinti esetekben adhat át.
 
 ### XVIII. Fejezet — A BIZALMI SZOLGÁLTATÁSOK FELÜGYELETE ÉS A BIZALMI LISTA KÖZZÉTÉTELE
 
 #### 48. A bizalmi felügyelet kijelölése, feladatai és hatásköre
 
-#### 95. §
+95. § (1) A bizalmi szolgáltatások eIDAS Rendelet 17. cikk (1) bekezdése szerinti felügyeletét ellátó hatóság a Nemzeti Média- és Hírközlési Hatóság.
 
-#### 96. §
+(2) Az eIDAS Rendelet 22. cikke szerinti bizalmi lista közzétételéről a bizalmi felügyelet gondoskodik.
 
-#### 97. §
+96. § (1) A bizalmi felügyelet az eIDAS Rendeletben foglalt feladatokon túl
+
+- a) vezeti az e törvényben és végrehajtási rendeleteiben meghatározott nyilvántartásokat és azokat bárki számára folyamatosan elérhető módon közzéteszi;
+- b) figyelemmel kíséri a bizalmi szolgáltatásokkal kapcsolatos technológia és kriptográfiai algoritmusok fejlődését és határozatba foglalja a bizalmi szolgáltatók által szolgáltatásaik nyújtása során használható biztonságos kriptográfiai algoritmusokat, és az azok meghatározott paraméterekkel történő alkalmazására vonatkozó követelményeket;
+- c) a bizalmi szolgáltatások esetén ellátja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait.
+
+(2) Az (1) bekezdés b) pontja alkalmazásában biztonságos egy kriptográfiai algoritmus akkor, ha a meghatározott paraméterek alkalmazása mellett az elektronikus aláírás vagy bélyegző érvényesítési adatából nem származtatható az aláírás vagy bélyegző létrehozásához használt adat, és a lenyomat kapcsán az e törvény végrehajtására kiadott rendeletben meghatározott követelményeket is teljesíti.
+
+97. § (1) A bizalmi felügyelet eljárásai során sommás eljárásnak nincs helye, a hiánypótlásra a bizalmi felügyelet több alkalommal felhívhatja az ügyfelet, a döntés szóban nem közölhető.
+
+(2) Ha az eIDAS Rendelet vagy annak közvetlenül alkalmazandó uniós végrehajtási aktusa eltérően nem rendelkezik, a hatóság ügyintézési határideje 2 hónap.
+
+(3) Bizalmi felügyeletként első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatala jár el, határozata ellen a Nemzeti Média- és Hírközlési Hatóság elnökéhez lehet fellebbezni.
+
+(4) A bizalmi felügyeletnek a nyilvántartással kapcsolatos tevékenységéért az e törvény végrehajtására kiadott rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni, amely a bizalmi felügyelet bevételét képezi.
+
+(5) A bizalmi felügyelet a hatáskörébe utalt feladatai ellátásához szükséges felmérések, elemzések és értékelések készítése céljából, határidő megjelölésével adatszolgáltatási kötelezettséget írhat elő az e törvény hatálya alá tartozó tevékenységet folytató bizalmi szolgáltatók számára. A bizalmi szolgáltató az adatokat a bizalmi felügyelet által megjelölt határidőre, a bizalmi felügyelet által kért formában, hiánytalanul és a valóságnak megfelelően köteles szolgáltatni. Ha az adatszolgáltató e kötelezettségnek nem tesz eleget, a bizalmi felügyelet a 99. § (3) bekezdés b) pont bb) alpontjában foglalt bírságot alkalmazhatja.
+
+(6) A bizalmi felügyelet köteles az általa meghatározott adatok kezeléséről és felhasználásáról, továbbá az adatkezelés jogszabályban meghatározott céljáról az adat bizalmi szolgáltatóját – az adatszolgáltatási kötelezettség előírásával, vagy a nem kötelező adatszolgáltatásról szóló felhívással egyidejűleg – tájékoztatni. Amennyiben az adatszolgáltatás elrendelése az (5) bekezdés alapján kötelező döntéssel történik, a bizalmi felügyelet köteles az adatszolgáltató figyelmét a nem határidőben vagy nem a megfelelő formátumban történő, hiányos, vagy nem a valóságnak megfelelő adatszolgáltatás jogkövetkezményeire felhívni, egyéb esetben a felhíváson feltüntetni, hogy az adatszolgáltatás nem kötelező.
+
+(7) A bizalmi felügyelet a bizalmi szolgáltatási tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi, hogy a minősített bizalmi szolgáltató természetes személy, illetve jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője, vezetője és alkalmazottja büntetlen előéletű-e, és nem áll-e bizalmi szolgáltatási tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a bizalmi felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a minősített bizalmi szolgáltató természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője, vezetője és alkalmazottja büntetlen előéletű-e, valamint, hogy a bizalmi szolgáltatási tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+
+(8) A bizalmi felügyelet a (7) bekezdés alapján megismert személyes adatokat a bizalmi szolgáltatási tevékenység gyakorlásának megszűnéséig vagy a minősített bizalmi szolgáltató jogi személy, jogi személyiséggel nem rendelkező szervezet esetén a vezető tisztségviselőnek, vezetőjének vagy alkalmazottjának a szervezettel fennálló jogviszonya megszűnéséig kezeli.
+
+(9) A bizalmi felügyelettől hatósági ellenőrzését az ügyfél nem kérheti. Hivatalból indított hatósági ellenőrzés során a bizalmi felügyelet a 99. § szerint jár el.
 
 #### 49. A bizalmi szolgáltatással kapcsolatos nyilvántartások
 
-#### 98. §
+98. § (1) Az eIDAS Rendeletben foglaltakon túl a bizalmi felügyelet nyilvántartást vezet
+
+- a) a bejelentett bizalmi szolgáltatókról és az általuk nyújtott bizalmi szolgáltatásokról;
+- b) a bejelentett minősített elektronikus aláírást és minősített elektronikus bélyegzőt létrehozó eszközökről;
+- c) a b) pont szerinti eszközök megfelelőségét tanúsító kijelölt szervezetekről;
+- d) az 92. és 93. § szerinti átvevő bizalmi szolgáltatókról; és
+- e) a 88. § (2) bekezdése szerinti azon minősített archiválási szolgáltatásokról, amelyeket a bizalmi szolgáltatók megőrzési kötelezettségének ellátására használnak.
+
+(2) Az (1) bekezdés szerinti nyilvántartásokban nyilvános adatként, illetve dokumentumként közzétehető a bizalmi szolgáltató neve, lakcíme, székhelye, nyilvántartásbavételi száma, a szolgáltatás megjelölése, nyújtásának helye, megkezdésének időpontja, a szolgáltatási szabályzat, a szolgáltatási rend, a szolgáltatási kivonat, valamint az általános szerződési feltétel. A bizalmi felügyelet által közzétett nyilvántartás közhiteles nyilvántartásnak minősül.
 
 #### 50. A bizalmi szolgáltatók ellenőrzése, a bizalmi felügyelet által alkalmazható jogkövetkezmények
 
-#### 99. §
+99. § (1) A bizalmi felügyelet a szolgáltatás nyújtásának megkezdését követő 30 napon belül felügyeleti ellenőrzést végez a minősített bizalmi szolgáltatást bejelentő bizalmi szolgáltatóknál az irányadó bizalmi szolgáltatási követelmények betartása tárgyában.
+
+(2) A bizalmi felügyelet évente legalább egyszer átfogó helyszíni ellenőrzést tart azon bizalmi szolgáltatóknál, akik minősített bizalmi szolgáltatást nyújtanak.
+
+(3) A bizalmi felügyelet az ellenőrzése során feltárt tények és bizonyítékok alapján az irányadó követelmények betartása, jogsértések vagy hiányosságok megszüntetése érdekében
+
+- a) intézkedésként a következő jogkövetkezményeket alkalmazhatja:
+  - aa) felhívhatja a bizalmi szolgáltató figyelmét az irányadó bizalmi szolgáltatási követelmények betartására;
+  - ab) megtilthatja meghatározott technológiák, illetve eljárások alkalmazását;
+  - ac) ideiglenes intézkedésként elrendelheti az új tanúsítványkibocsátási tevékenység szüneteltetését és ezt a tényt feltünteti a nyilvántartásban;
+- b) a következő közigazgatási szankciókat alkalmazhatja:
+  - ba) elrendelheti a korábban kiadott minősített tanúsítványok visszavonását;
+  - bb) közigazgatási bírságot szabhat ki;
+  - bc) a bizalmi szolgáltató által nyújtott bizalmi szolgáltatás vonatkozásában törölheti annak tényét, hogy az adott bizalmi szolgáltatás minősített bizalmi szolgáltatás;
+  - bd) törölheti a bizalmi szolgáltatót a bizalmi szolgáltatók nyilvántartásából.
+
+(4) Minősített bizalmi szolgáltatás esetén a bizalmi felügyelet a (3) bekezdésben foglalt intézkedéseket és jogkövetkezményeket a (3) bekezdésben foglalt eseteken túl az irányadó követelményekkel kapcsolatos jogsértések vagy hiányosságok megelőzése érdekében is alkalmazhatja.
+
+(5) A bizalmi felügyelet a (3) bekezdés szerinti intézkedésekkel vagy jogkövetkezményekkel kapcsolatos döntés során mérlegeli a jogsértés súlyát, gyakoriságát, az okozható, illetve okozott kár mértékét, azt, hogy minősített bizalmi szolgáltatóval szemben kell-e eljárni, valamint, hogy hozott-e korábban döntést a bizalmi szolgáltatóval szemben. Az egyes jogkövetkezmények, intézkedések együttesen is alkalmazhatók.
+
+(6) A bizalmi felügyelet törli a bizalmi szolgáltatót a nyilvántartásból, ha az irányadó bizalmi szolgáltatási követelmények teljesítése más módon nem biztosítható. A nyilvántartásból való törlésre csak akkor kerülhet sor, ha egyéb intézkedések nem vezetnek eredményre.
+
+(7) A minősített tanúsítványt kibocsátó bizalmi szolgáltatóval kapcsolatos, a (3) bekezdés b) pont bc) vagy bd) alpontja szerinti intézkedés vagy jogkövetkezmény esetén a bizalmi felügyelet egyidejűleg megtiltja a bizalmi szolgáltatónak azt, hogy az általa kibocsátott tanúsítványt minősített tanúsítványnak nevezze, és intézkedik a kibocsátott minősített tanúsítványok visszavonásáról.
+
+(8) A bizalmi felügyelet elrendelheti a minősített tanúsítvány visszavonását, ha valószínűsíthető, hogy a minősített tanúsítvány valótlan adatot tartalmaz, meghamisították vagy a bizalmi szolgáltató által a minősített tanúsítványok aláírásához vagy bélyegzővel való ellátásához használt eszköz nem biztonságos.
+
+(9) Ha a bizalmi felügyelet megtiltja valamely bizalmi szolgáltatás nyújtását, a bizalmi szolgáltató a 92. §-ban foglaltak szerint köteles eljárni, és ha e kötelezettségét a bizalmi szolgáltató nem teljesíti, a bizalmi felügyelet a 93. §-ban foglaltak szerint jár el.
 
 #### 51. A bizalmi felügyelet által kiszabható bírság mértéke
 
-#### 100. §
+100. § (1) A bizalmi felügyelet bírságot szabhat ki azzal a bizalmi szolgáltatóval szemben, aki az irányadó bizalmi szolgáltatási követelményeknek nem tesz eleget.
+
+(2) A bizalmi felügyelet a bizalmi szolgáltatóval együtt annak vezető tisztségviselőjét is bírsággal sújthatja ismételt jogsértés esetén vagy ha a bizalmi felügyelet határozatában foglaltakat a bizalmi szolgáltató nem teljesíti.
+
+(3) Nem szabhat ki a bizalmi felügyelet bírságot a jogsértésnek a bizalmi felügyelet tudomására jutásától számított 2 éven túl, de legkésőbb azok elkövetésétől számított 3 éven túl. Ha a mulasztás vagy kötelezettségszegés bűncselekmény, a bizalmi felügyeleti bírság a bűncselekmény jogerős megállapítását követő 1 éven belül kiszabható.
+
+(4) A bizalmi felügyelet a bírság összegének megállapításakor a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben foglalt szempontokon túl mérlegeli
+
+- a) a szabályszegéssel vagy a mulasztással előidézett kockázat vagy kár mértékét,
+- b) a felelős személyek által a bizalmi felügyelettel kapcsolatban tanúsított együttműködést (így különösen dokumentumokba, nyilvántartásokba való betekintés biztosítása, az alkalmazott technológiák és azok műszaki jellemzőinek bemutatása),
+- c) az intézkedés alapjául szolgáló adatok, tények, információk eltitkolását, illetve annak szándékát.
+
+(5) A bírság összege 200 000 forinttól 20 000 000 forintig terjedhet, ha
+
+- a) a jogsértés bizalmi szolgáltató minősített bizalmi szolgáltatásával kapcsolatos,
+- b) a bizalmi szolgáltató általa kibocsátott tanúsítványban magát minősített bizalmi szolgáltatóként tünteti fel, vagy erre egyéb módon közvetve vagy közvetlenül utal anélkül, hogy erre jogosult volna,
+- c) nem őrzi meg a tanúsítvány kibocsátásával kapcsolatos adatokat és iratokat a jogszabályokban vagy a szolgáltatási szerződésben meghatározott ideig, és ezek őrzéséről másként sem gondoskodik.
+
+(6) Az (5) bekezdésben nem említett esetekben a bírság összege 50 000 forinttól 10 000 000 forintig terjedhet.
+
+(7) Vezető tisztségviselővel szemben a bírság összege 50 000 forinttól 2 000 000 forintig terjedhet.
 
 ### XIX. Fejezet — AZ EGYES BIZALMI SZOLGÁLTATÁSOKRA VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
 #### 52. Az elektronikus aláírással és bélyegzővel kapcsolatos bizalmi szolgáltatásokra vonatkozó különös rendelkezések
 
-#### 101. §
+101. § (1) Ha az elektronikus dokumentum minősített elektronikus aláírással vagy bélyegzővel, vagy időbélyegzővel lett ellátva, és az aláírás vagy bélyegző, vagy az időbélyegző ellenőrzésének eredményéből más nem következik, vélelmezni kell, hogy a dokumentum tartalma az aláírás vagy a bélyegző, vagy az időbélyegző elhelyezése óta nem változott.
 
-#### 102. §
+(2) A tanúsítvány alanya az elektronikus aláírás vagy bélyegző létrehozásához használt adatot kizárólag elektronikus aláírás, illetve bélyegző létrehozására használhatja, betartva a tanúsítványban jelzett esetleges egyéb korlátozásokat is.
 
-#### 103. §
+(3) A minősített elektronikus aláírási vagy bélyegző tanúsítvány felhasználható fokozott biztonságú elektronikus aláírás, illetve bélyegző létrehozására is.
+
+(4) A bizalmi szolgáltatási ügyfél haladéktalanul tájékoztatja a bizalmi szolgáltatót, ha az elektronikus aláírás vagy bélyegző létrehozásához használt adat illetéktelen személy tudomására jutott vagy azt elvesztette.
+
+(5) Ha a bizalmi szolgáltató arról szerez tudomást, hogy az elektronikus aláírás vagy bélyegző létrehozásához használt adat illetéktelen személy tudomására jutott vagy az ilyen adatot elvesztették, a tanúsítványt visszavonja, és ezt nyilvántartásában haladéktalanul közzéteszi.
+
+(6) Ha a bizalmi szolgáltató arról szerez tudomást, hogy az elektronikus aláírás vagy bélyegző létrehozásához használt adat illetéktelen személy tudomására juthatott, ennek veszélye fenyeget vagy az ilyen adatot valószínűleg elvesztették, és a bizalmi szolgáltató biztosítja a tanúsítvány felfüggesztésének lehetőségét, akkor a tanúsítványt felfüggeszti, és ezt nyilvántartásában haladéktalanul közzéteszi.
+
+102. § A 100. § (5) bekezdése szerinti bírság kiszabható akkor is, ha az elektronikus aláírással vagy bélyegzővel kapcsolatos bizalmi szolgáltatást nyújtó bizalmi szolgáltató nem teszi meg a saját elektronikus aláírás vagy bélyegző létrehozásához használt adatának megfelelő védelméhez szükséges intézkedéseket.
+
+103. § (1) A családi jogi és öröklési jogi jogviszonyokban nem lehet – az elektronikus formán kívüli dokumentumokat mellőzve – csak elektronikus aláírást vagy bélyegzőt felhasználni, és elektronikus aláírással vagy bélyegzővel ellátott elektronikus dokumentumot készíteni.
+
+(2) Ahol jogszabály elektronikus aláírást vagy elektronikusan aláírt dokumentumot említ, azon kifejezett eltérő rendelkezés hiányában elektronikus bélyegzőt vagy elektronikus bélyegzővel ellátott dokumentumot is érteni kell.
 
 #### 53. Az archiválási szolgáltatással kapcsolatos különös rendelkezések
 
-#### 104. §
+104. § Ha az elektronikus aláírással vagy bélyegzővel ellátott elektronikus dokumentum archiválását minősített bizalmi szolgáltató végzi, az ellenkező bizonyításáig vélelmezni kell, hogy az elektronikus dokumentumon elhelyezett elektronikus aláírás, bélyegző vagy időbélyegző és az azokhoz kapcsolódó tanúsítvány az aláírás, bélyegző vagy időbélyegző elhelyezésének időpontjában érvényes volt.
 
 ### XX. Fejezet — A BIZALMI SZOLGÁLTATÁSOKHOZ KAPCSOLÓDÓ EGYES KÜLÖNÖS, BIZALMI SZOLGÁLTATÁSNAK NEM MINŐSÜLŐ SZOLGÁLTATÁSOK
 
 #### 54. Szerepkör tanúsítása
 
-#### 105. §
+105. § A természetes személy tanúsítvány alany (jelen alcím alkalmazásában a továbbiakban: alany) szerepkörét a Kormány rendeletében kijelölt szerepkör-tanúsító szolgáltató szerepkör-tanúsítvánnyal igazolhatja. A Kormány szerepkör-tanúsító szolgáltatóként kormányzati hitelesítési szolgáltatót jelölhet ki.
 
-#### 106. §
+106. § (1) Szerepkör-tanúsítvány alkalmazása esetén a szerepkör-tanúsító szolgáltató – az alany elektronikus, a szerepköre igazolására irányuló kérésével – a szerepkör-tanúsítvány kiállítása idejéig jogosult kezelni és a szerepkör-nyilvántartásból átvenni az alany azonosításához és a szerepkör igazolásához szükséges személyes adatokat. A szerepkör-tanúsítvánnyal összefüggő adatokat a szolgáltató köteles fizikailag és logikailag elkülöníteni.
 
-#### 107. §
+(2) A szerepkör-nyilvántartást vezető szerv az (1) bekezdés szerinti adatok szolgáltatását a szerepkör-tanúsító szolgáltató közreműködésével biztosítja.
+
+107. § (1) A Kormány a szerepkör-tanúsítványok egységes felhasználása érdekében – központi elektronikus ügyintézési szolgáltatásként – szerepkör-tanúsító platform szolgáltatást biztosít.
+
+(2) A szerepkör-tanúsító szolgáltató a szerepkör-tanúsítványt a szerepkör-tanúsító platform szolgáltatás útján biztosítja az alany számára.
+
+(3) A szerepkör-tanúsító platform szolgáltatás szolgáltatója a szerepkör-tanúsítvány kiállítása idejéig jogosult kezelni az alany azonosításához és a szolgáltató kiválasztásához szükséges személyes adatokat. A szerepkör-tanúsítvánnyal összefüggő adatokat a szolgáltató köteles fizikailag és logikailag elkülöníteni.
 
 ## HETEDIK RÉSZ — A DIGITÁLIS ÁLLAMMAL ÖSSZEFÜGGŐ TOVÁBBI RENDELKEZÉSEK
 
 #### 55. A nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervek részére nyújtott közszolgáltatások
 
-#### 108. §
+108. § (1) A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendeletben kijelölt központi szolgáltató, valamint a kormányzati célú hálózatokról szóló kormányrendeletben kijelölt kormányzati célú hírközlési szolgáltató (a továbbiakban együtt: központi szolgáltató) a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervek részére közszolgáltatásként nyújtja
+
+- a) az e-közigazgatásért felelős miniszter rendeletében meghatározott informatikai rendszer fejlesztését, üzemeltetését, vagy közreműködik annak fejlesztésében,
+- b) a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti központosított informatikai és hírközlési szolgáltatásokat,
+- c) a kormányzati célú hálózatokról szóló kormányrendelet szerinti kormányzati célú hálózatok igénybevételét, a kormányzati célú hírközlési tevékenységet, valamint a kormányzati célú hírközlési szolgáltatásokat,
+
+ha a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv vezetője ezek igénybevételét az e-közigazgatásért felelős miniszternél kezdeményezi.
+
+(2) Az (1) bekezdés szerinti szolgáltatások igénybevételének, a központi szolgáltató által nyújtott közszolgáltatás ellátásának a fedezetéül szolgáló forrást – az e-közigazgatásért felelős miniszter és a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv vezetője egyeztetésének eredményétől függően –
+
+- a) közvetlenül vagy a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv költségvetéséből történő átadással az e-közigazgatásért felelős miniszter által vezetett minisztérium költségvetésében, vagy
+- b) a központi szolgáltatóval történő közvetlen szerződéskötés esetén a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervnek
+
+kell biztosítani.
+
+(3) Az (1) bekezdéstől eltérően a Kormány rendeletében kijelölt rendvédelmi informatikai központi szolgáltató a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervek részére közszolgáltatásként nyújtja a rendvédelmi informatikai közszolgáltatások nyújtásáról szóló kormányrendelet szerinti közszolgáltatásokat, ha a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv vezetője ezek igénybevételét a rendészetért felelős miniszternél kezdeményezi.
+
+(4) A (2) bekezdéstől eltérően a (3) bekezdés szerinti szolgáltatások igénybevételének, a központi szolgáltató által nyújtott közszolgáltatás ellátásának a fedezetéül szolgáló forrást – a rendészetért felelős miniszter és a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv vezetője egyeztetésének eredményétől függően –
+
+- a) közvetlenül vagy a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv költségvetéséből történő átadással a rendészetért felelős miniszter által vezetett minisztérium költségvetésében, vagy
+- b) a központi szolgáltatóval történő közvetlen szerződéskötés esetén a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szervnek kell biztosítani.
+
+(5) Ha a Kormány nem jelöl ki rendvédelmi informatikai központi szolgáltatót, a (3) és (4) bekezdésben foglalt feladatokat a Kormány az (1) és a (2) bekezdésben meghatározottak szerint biztosítja.
 
 #### 56. Elektronikus okirat a magánjogi jogviszonyokban
 
-#### 109. §
+109. § (1) Ha jogszabály eltérően nem rendelkezik, az elektronikus magánokirat olyan elektronikus dokumentum, amelyet a nyilatkozó fél legalább a 8. § 23. pontjában meghatározott aláírással és elektronikus időbélyegzővel lát el, vagy eAláírással hitelesít. Az elektronikus magánokiratban megtett jognyilatkozat a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:7. § (2) és (3) bekezdése szerint is írásba foglaltnak minősül.
 
-#### 110. §
+(2) Ha jogszabály eltérően nem rendelkezik, az ingatlannal kapcsolatos, valamint az öröklési jogi, családjogi, cégekkel és civil szervezetekkel összefüggésben a kizárólag szöveg formájában rögzített jognyilatkozatot tartalmazó elektronikus magánokirat minősül írásba foglaltnak.
+
+(3) Az (1) bekezdéstől eltérően elektronikus magánokiratnak minősül a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó szervezetek és személyek (jelen alcím alkalmazásában a továbbiakban: szervezet) által nyújtott szolgáltatás vonatkozásában jognyilatkozatot tartalmazó elektronikus dokumentum is, amelyet a szervezet által a Pmt. 77. § (3) bekezdés d) pontja szerinti felhatalmazás alapján kiadott rendeletben meghatározott auditált elektronikus hírközlő eszköz vagy elektronikus ügyfél-azonosító és nyilatkozattételi rendszer útján azonosított (a jelen alcím alkalmazásában a továbbiakban: elektronikus azonosítás) nyilatkozó fél az aláírás időpontjának azonosítására is alkalmas egyszerű elektronikus aláírással látott el.
+
+(4) A (3) bekezdés szerinti elektronikus magánokirat teljes bizonyító erejű magánokiratnak minősül.
+
+(5) A (3) bekezdéstől eltérően a szervezet által nyújtott szolgáltatásra irányuló szerződés, valamint annak módosítása és megszüntetése esetén a kizárólag szöveg formájában rögzített jognyilatkozatot tartalmazó elektronikus magánokirat minősül írásba foglaltnak.
+
+(6) E § alkalmazásában elektronikus dokumentumnak minősül az elektronikus formában, különösen szöveg, hang-, képi vagy audiovizuális felvétel formájában tárolt jognyilatkozat.
+
+110. § (1) Bírósági vagy hatósági eljárás esetén a 109. § (3) bekezdése szerinti elektronikus magánokiratot a szervezet köteles a bíróság, illetve a hatóság és a jognyilatkozattal érintett peres felek rendelkezésére bocsátani.
+
+(2) Az (1) bekezdésben foglaltak elmulasztása esetén a szervezettel szerződő félnek (a továbbiakban: fél) elektronikus magánokiratba foglalt jognyilatkozatra vonatkozóan tett tényállítása valóságát vélelmezni kell.
+
+(3) A jognyilatkozat akkor foglalható a 109. § (3) bekezdése szerinti elektronikus magánokiratba, ha a technológia alkalmazásához a fél az elektronikus aláírás előtt kifejezetten hozzájárult.
+
+(4) Az elektronikus azonosítást követően tett jognyilatkozat esetén a szervezet köteles a teljes kommunikációt és a továbbított adattartalmat rögzíteni és a fél kérésére a rendelkezésére bocsátani.
+
+(5) Ha a fél fogyasztó, a szervezet köteles az elektronikus azonosítást követően megkötött szerződés egy példányát a fél rendelkezésére bocsátani.
 
 #### 57. A központi címregiszter
 
-#### 111. §
+111. § (1) Az együttműködő szervek által vezetett, címadatot tartalmazó nyilvántartások együttműködési képességének elősegítésére és az egységes címkezelés biztosítására központi címregiszter szolgál.
 
-#### 112. §
+(2) A központi címregiszter olyan, a nyilvántartások együttműködési képességét elősegítő központi nyilvántartás, amely a címadatok vonatkozásában információátadási szolgáltatás útján hiteles adatforrást biztosít a címadatot tartalmazó, együttműködő szervek által vezetett nyilvántartások számára.
+
+(3) A központi címregiszter vezetése, működése és az egységes címkezelés részletes eljárási szabályait e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+
+(4) Az egységes címképzés szabályait e törvény felhatalmazása alapján kiadott kormányrendelet határozza meg.
+
+112. § (1) A központi címregiszter működtetéséért felelős szerv – annak érdekében, hogy a címregiszterbe kizárólag az erre jogszabály alapján jogosult személyek, kizárólag a jogszabályban foglaltak megtartása mellett tehessenek bejegyzést – nyilvántartást vezet azon személyekről, akik jogosultak a címek rögzítésére (a továbbiakban: hozzáférési jogosultsági nyilvántartás). E célból a központi címregiszter működtetéséért felelős szerv jogosult a nyilvántartottak természetes személyazonosító adatainak kezelésére.
+
+(2) A hozzáférési jogosultsági nyilvántartás tartalmazza:
+
+- a) az érintett személyek természetes személyazonosító adatait,
+- b) a címképzésért felelős szerv illetékességi területét,
+- c) a hozzáférési jogosultság kezdő időpontját és időtartamát, valamint
+- d) a hozzáférési jogosultság módosításának, visszavonásának okát és időpontját.
+
+(3) A hozzáférési jogosultsági nyilvántartás adatai kizárólag hozzáférési jogosultság, valamint a jogszabályi rendelkezéseknek hozzáférésre jogosult általi betartása ellenőrzése céljából ismerhetők meg.
+
+(4) A hozzáférési jogosultsági nyilvántartásban szereplő adatokat legkésőbb a hozzáférési jogosultság megszűnésétől számított 5 év elteltével törölni kell.
+
+(5) Ha a központi címregiszterben új cím keletkeztetéséhez, meglévő cím módosításához vagy törléséhez olyan címadat beszerzése szükséges, amelynek megállapítása helyi önkormányzati képviselő-testület hatáskörébe tartozik, a képviselő-testület a központi címregiszter működtetéséért felelős szervtől érkezett megkeresést követő ülésén a címképzéshez szükséges döntést meghozza és arról a központi címregiszter működtetéséért felelős szervet haladéktalanul értesíti.
+
+(6) A központi címregiszterben nyilvántartott közérdekű vagy közérdekből nyilvános címadatok a központi címregiszterhez kapcsolódó állami és önkormányzati nyilvántartásokból ismerhetők meg.
+
+#### 57a. A Kép-, hang, kép- és hangfelvétel központi tárolása
+
+112/A. § (1) A Kormány által rendeletben kijelölt szerv (a továbbiakban: tárhelyszolgáltató) informatikai alkalmazás útján, központi tárhely működtetésével biztosítja
+
+- a) a közút kezelője,
+- b) a közlekedésrendészeti intézkedés keretében a rendőrség,
+- c) a rendőrség által kihelyezett képfelvevők,
+- d) a közterület-felügyelet által kihelyezett képfelvevők,
+- e) a pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást folytatóknak a feladatai ellátáshoz szükséges, közönség számára nyilvános magánterületének védelme céljából személy- és vagyonvédelmi tevékenységet végző,
+- f) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 8. § (1) bekezdése szerinti szolgáltató,
+- g) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjszedő (a továbbiakban együtt: központi tárhely használatára kötelezett)
+
+által készített kép-, hang-, valamint kép- és hangfelvételek (a továbbiakban: felvétel) tárolását.
+
+(2) A tárhelyszolgáltató informatikai alkalmazás útján, központi tárhely működtetésével biztosítja a Magyarország helyi önkormányzatairól szóló törvény 16/A. § e) pontjában meghatározott szolgáltató által rögzített adatok tárolását.
+
+(3) A tárhelyszolgáltató tevékenysége kizárólag a felvételek és adatok központi tárhelyen történő tárolására és a 112/B. § szerinti informatikai alkalmazás biztosítására terjed ki, a központi tárhelyen tárolt felvételek és adatok tartalmát nem ismerheti meg, azokkal más adatkezelési tevékenységet nem végezhet.
+
+(4) A központi tárhely használatára kötelezettek kormányrendeletben meghatározottak szerint kötelesek együttműködni a tárhelyszolgáltatóval, illetve – ha a kormányrendeletben meghatározott feltételek fennállnak – a központi tárhelyet igénybe venni.
+
+(5) A központi tárhely használatára kötelezettek a (4) bekezdésben meghatározott kormányrendelet szerinti feltételekkel vehetik igénybe a központi tárhelyet.
+
+112/B. § (1) Ha a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv, illetve büntetőeljárásban a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv (a továbbiakban együtt: adatmegismerésre jogosult) törvényben meghatározottak szerint a központi tárhely használatára kötelezett által készített felvételt és adatot átveheti, az adattovábbítást a központi tárhely használatára kötelezett – ha a központi tárhelyet igénybe veszi – a tárhelyszolgáltató által működtetett informatikai alkalmazás segítségével biztosítja.
+
+(2) A tárhelyszolgáltatótól a központi tárhely használatára kötelezett által készített felvétel vagy adat nem igényelhető, az adatok átadása az ágazati törvényben meghatározott adatátadási szabályok szerint történik.
+
+112/C. § (1) A központi tárhely használatára kötelezettek és az adatmegismerésre jogosultak nyilvántartásának célja a tárhelyszolgáltató, a központi tárhely használatára kötelezettek és az adatmegismerésre jogosultak hozzáféréshez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.
+
+(2) A központi tárhely használatára kötelezettek és az adatmegismerésre jogosultak nyilvántartása tartalmazza a központi tárhely használatára kötelezettek, valamint az adatmegismerésre jogosultak
+
+- a) megnevezését,
+- b) levelezési címét,
+- c) telefonszámát,
+- d) telefaxszámát,
+- e) elektronikus levélcímét,
+- f) hozzáférési jogosultságának típusát, keletkezésének és törlésének tényét és időpontját,
+- g) a szervezet nevében hozzáférésre felhatalmazott személy (a továbbiakban: hozzáférésre felhatalmazott személy)
+  - ga) családi és utónevét,
+  - gb) beosztását,
+  - gc) szervezeti egységét,
+  - gd) hozzáférési jogosultságának terjedelmét és körét, keletkezésének és törlésének tényét és időpontját,
+  - ge) egyedi azonosítóját.
+
+112/D. § (1) A központi tárhelyen történő adatrögzítéshez, valamint a központi tárhelyről elektronikus úton, informatikai alkalmazás igénybevételével történő adatmegismeréshez szükséges egyedi azonosítókat a központi tárhely használatára kötelezett, valamint az adatmegismerésre jogosult a tárhelyszolgáltatóhoz benyújtott kérelemben (a továbbiakban: egyedi azonosító iránti kérelem) igényli.
+
+(2) Az egyedi azonosító iránti kérelemnek tartalmaznia kell a 112/C. § (2) bekezdés a)–f) pontjában és g) pont ga)–gd) alpontjában meghatározott adatokat.
+
+(3) A (2) bekezdésben meghatározott adatokban bekövetkezett változásról a központi tárhely használatára kötelezett, valamint az adatmegismerésre jogosult – az adatváltozást követő három munkanapon belül – értesíti a tárhelyszolgáltatót.
+
+(4) A tárhelyszolgáltató az egyedi azonosító iránti kérelem beérkezésétől számított nyolc napon belül tájékoztatja
+
+- a) a központi tárhely használatára kötelezettet a hozzáférésre felhatalmazott személy egyedi azonosítójáról, valamint a központi tárhely és az informatikai alkalmazás használatához szükséges technikai ismeretekről,
+- b) az adatmegismerésre jogosultat a hozzáférésre felhatalmazott személy egyedi azonosítójáról, valamint az informatikai alkalmazás használatához szükséges technikai ismeretekről.
+
+(5) A központi tárhelyen rögzített felvételekkel és adatokkal kizárólag elektronikus úton, informatikai alkalmazás igénybevételével végezhető adatkezelés.
+
+112/E. § (1) A tárhelyszolgáltató a központi tárhelyről elektronikus úton, informatikai alkalmazás útján történő adatigénylés és adattovábbítás jogszerűségének ellenőrzése céljából adatmegismerési nyilvántartást vezet.
+
+(2) Az adatmegismerési nyilvántartás tartalmazza:
+
+- a) a felvétel azonosító adatait,
+- b) a hozzáférésre felhatalmazott személy egyedi azonosítóját,
+- c) az adattovábbítás időpontját,
+- d) azt a törvényi rendelkezést, amely az adatmegismerésre jogosultat az eljárásában, ellenőrzési tevékenysége vagy feladatköre gyakorlása során az adatkezelésre feljogosítja,
+- e) a továbbított adatok megnevezését.
+
+(3) Az adatmegismerési nyilvántartásból adatokat igényelhet
+
+- a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
+- b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv,
+- c) törvényben meghatározott feladataik ellátása céljából a nemzetbiztonsági szolgálatok és a rendvédelmi szervek.
 
 ## NYOLCADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -1074,7 +1863,7 @@ kormányrendelet állapítja meg.
 
 #### 61. Hatályon kívül helyező rendelkezés
 
-#### 121. §
+121. § Hatályát veszti az E-ügyintézési törvény.
 
 #### 62. Az Európai Unió jogának való megfelelés
 

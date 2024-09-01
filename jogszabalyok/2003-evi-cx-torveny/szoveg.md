@@ -121,7 +121,7 @@ keletkezik.
 
 ### Az elektronikus kapcsolattartás szabályai
 
-10. § (1) Az elektronikus úton zajló adóigazgatási eljárás során az információcsere és adattárolás a vámhatóság által biztosított informatikai rendszeren vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben meghatározott elektronikus úton történik.
+10. § (1) Az elektronikus úton zajló adóigazgatási eljárás során az információcsere és adattárolás a vámhatóság által biztosított informatikai rendszeren vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus úton történik.
 
 (2) Ha az elektronikus úton zajló adóigazgatási eljárás során az adózó a vámhatóság által biztosított informatikai rendszert veszi igénybe, úgy egy regisztrációhoz kötött, meghatározott technikai előírásoknak megfelelő elektronikus sémát tölt ki, majd ezt egy elektronikus azonosítással egybekötve benyújtja a vámhatósághoz.
 
@@ -322,7 +322,7 @@ Az adó összegét a vámhatóság az alábbi táblázat és képlet együttes a
 
 A Műszaki adatlap meglétét és adatai valódiságát a vámhatóság a Nemzeti Közlekedési Hatóság és a vámhatóság között fennálló elektronikus adatkapcsolaton keresztül ellenőrzi.
 
-| I. A gépjármű forgalomba helyezésétől az adóigazgatási eljárás kezdetének hónapjáig eltelt hónapok száma | II. A Melléklet I. része szerinti adótétel csökkenés mértéke |
+| I.A gépjármű forgalomba helyezésétől az adóigazgatási eljárás kezdeténekhónapjáig eltelt hónapok száma | II.A Melléklet I. része szerinti adótétel csökkenés mértéke |
 | --- | --- |
 | 2-ig | 0,06 |
 | 3–4 | 0,10 |

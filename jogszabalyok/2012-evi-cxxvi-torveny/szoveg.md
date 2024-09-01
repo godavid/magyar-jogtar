@@ -350,7 +350,7 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
 (7) A kamarai tagot nyilvántartó bíróság – ide nem értve a cégbíróságot – az e törvényben meghatározott agrárkamarai nyilvántartás vezetése és az agrárkamarai közfeladatok ellátása érdekében a kamarai tagra vonatkozó, az e törvényben meghatározottak szerinti, és a bíróság nyilvántartásában szereplő nyilvános adatokat továbbfeldolgozásra alkalmas módon, elektronikus úton, díj- és térítésmentesen átadja az agrárkamara számára. Az adatszolgáltatás lebonyolításának részletes szabályait a kamara és a kamarai tagot nyilvántartó bíróság közti megállapodásban kell meghatározni.
 
-(8) A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv az agrárkamara megkeresésére annak jogszabályban rögzített feladatai ellátása érdekében elektronikus úton, kapcsolati kód alkalmazásával megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, továbbá – ha a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
+(8) A digitális állampolgárság nyilvántartást vezető szerv az agrárkamara megkeresésére annak jogszabályban rögzített feladatai ellátása érdekében elektronikus úton, kapcsolati kód alkalmazásával megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, továbbá – ha a természetes személy a digitális állampolgárság nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
 
 ### Az agrárkamara tagjainak jogai és kötelességei
 
@@ -503,7 +503,7 @@ felelős.
 
 15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért, valamint a vidékfejlesztésért felelős miniszter és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
 
-15/A. § Az agrárkamara az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési törvény) meghatározott elektronikus úton is kapcsolatot tarthat az agrárkamara által nyújtott tanácsadással érintett alanyok esetében. Az agrárkamara a tanácsadással kapcsolatos elektronikus dokumentumokat az E-ügyintézési törvényben meghatározott elektronikus úton kézbesíti. Az elektronikus kézbesítésre az E-ügyintézési törvény 7. alcímében foglaltakat kell alkalmazni.
+15/A. § Az agrárkamara a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben (a továbbiakban: Dáptv.) meghatározott elektronikus úton is kapcsolatot tarthat az agrárkamara által nyújtott tanácsadással érintett alanyok esetében. Az agrárkamara a tanácsadással kapcsolatos elektronikus dokumentumokat a Dáptv.-ben meghatározott elektronikus úton kézbesíti. Az elektronikus kézbesítésre a Dáptv. 15. alcímében foglaltakat kell alkalmazni.
 
 15/B. § Az agrárkamara ellátja:
 

@@ -118,7 +118,7 @@ nincs helye.
 
 (4) Ha a hagyatéki eljárásban érdekelt gazdálkodó szervezet vagy jogi képviselővel rendelkező személy vagy szervezet vesz részt, részére az iratokat a Pp.-ben meghatározottak szerinti elektronikus úton kell kézbesíteni.
 
-(5) Ha a hagyatéki eljárásban érdekelt a részére az iratoknak elektronikus úton való kézbesítését kérte, utóbb a beadvány papíralapú benyújtásával egyidejűleg kérheti a közjegyzőtől a papíralapú eljárásra történő áttérés engedélyezését a Pp. szabályainak alkalmazásával. Az elektronikus úton való kézbesítés alóli kivételekre a Pp. és az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény rendelkezései alkalmazandók.
+(5) Ha a hagyatéki eljárásban érdekelt a részére az iratoknak elektronikus úton való kézbesítését kérte, utóbb a beadvány papíralapú benyújtásával egyidejűleg kérheti a közjegyzőtől a papíralapú eljárásra történő áttérés engedélyezését a Pp. szabályainak alkalmazásával. Az elektronikus úton való kézbesítés alóli kivételekre a Pp. és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései alkalmazandók.
 
 11/A. § A hagyatéki eljárásban a Kjnp. 15/A–15/D. §-a alkalmazandó.
 
@@ -954,6 +954,8 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (5) Az (1)–(4) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell akkor is, ha a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti mező-, erdőgazdasági hasznosítású földet, vagy annak tulajdoni illetőségét a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 3. § (1) bekezdése szerinti tanyának minősülő ingatlant, vagy annak tulajdoni illetőségét az örökösként érdekelt a hagyatéki eljárásban adásvétel jogcímén ruházza át az öröklésben érdekelt más személyre, vagy a kieséses örökösre.
 
+#### 95. §
+
 ### Az özvegyi jog megváltása
 
 96. § (1) Az özvegyi jog megváltása iránti igénnyel kapcsolatos eljárás lefolytatására az a közjegyző illetékes, aki az örökhagyó hagyatéki eljárásának lefolytatására illetékes. Ha az özvegyi jog megváltása iránti igényt a hagyatéki tárgyalás berekesztéséig, illetve tárgyalás nélküli hagyatékátadás esetén a hagyatékátadó végzés meghozataláig előterjesztik, az igényt a közjegyző a hagyatéki eljárásban bírálja el és a hagyatékot annak megfelelően adja át.
@@ -1385,13 +1387,13 @@ végzés ellen.
 
 121. § E törvény rendelkezéseit a 2010. december 31. után indult hagyatéki eljárásokban kell alkalmazni.
 
-122. § Ha a jegyző, illetve közjegyző az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az érintett jegyző, illetve közjegyző vonatkozásában a kézbesítésre e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 122. §
 
 123. § A Magyar Ügyvédi Kamara a Magyar Ügyvédi Kamara Irattárában elhelyezett végintézkedések nyilvántartásba vett adatait 2017. december 31-i állapot szerint átadja a Végrendeletek Országos Nyilvántartását vezető országos kamara részére, amely gondoskodik az adatok bejegyzéséről.
 
 124. § Az országos kamara adategyeztetés céljából 2017. december 31-ig a Magyar Ügyvédi Kamara rendelkezésére bocsátja az ügyvéd által készített vagy letétbe vett végintézkedéseknek a Végrendeletek Országos Nyilvántartásába bejegyzett adatait annak érdekében, hogy a Magyar Ügyvédi Kamara intézkedjen e végintézkedéseknek a Magyar Ügyvédi Kamara Irattárában való elhelyezése iránt.
 
-125. § A megkereső rendszerhez történő csatlakozásig, de legfeljebb 2018. december 31-ig a közjegyző a 118. § (5) bekezdése szerinti adatigénylés iránti megkeresés kézbesítése, a megkeresett szolgáltató pedig a megkeresésre adott válasz közjegyzőnek való megküldése során az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti elektronikus kapcsolattartási út alkalmazásával jár el.
+#### 125. §
 
 126. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését követően indult eljárásokban kell alkalmazni.
 

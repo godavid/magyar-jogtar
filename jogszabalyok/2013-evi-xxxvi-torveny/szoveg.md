@@ -195,7 +195,7 @@ közötti napra.
 
 13/D. § (1) A 2. § (4) bekezdése, az V. és VI. Fejezet, a 250. §, a 259. §, a 261. §, a 307/A. §, valamint a 334. § szerinti kérelmet, továbbá a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 15. cikke szerinti kérelmet – az e törvényben foglalt kivételekkel –
 
-- a) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti elektronikus azonosítást követően, elektronikus űrlapon,
+- a) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti elektronikus azonosítást követően, elektronikus űrlapon,
 - b) bármely helyi választási irodában személyesen vagy kézbesítési meghatalmazott útján
 
 lehet benyújtani.
@@ -204,7 +204,7 @@ lehet benyújtani.
 
 (3) A személyesen vagy kézbesítési meghatalmazott útján benyújtott kérelmet a választási iroda a választási informatikai rendszerben rögzíti, és megindítja az eljárást.
 
-13/E. § (1) A választási iroda a határozatát vagy végzését (a továbbiakban együtt: döntés) a kérelmező – nem kérelemre indult eljárásban az érintett – E-ügyintézési tv. 35. § (3) bekezdése szerinti tárhelyére történő megküldéssel közli.
+13/E. § (1) A választási iroda a határozatát vagy végzését (a továbbiakban együtt: döntés) a kérelmező – nem kérelemre indult eljárásban az érintett – Dáptv. 46. § (5) bekezdése szerinti tárhelyére történő megküldéssel közli.
 
 (2) A választási iroda a döntését
 
@@ -1790,6 +1790,8 @@ nevük után, zárójelben való feltüntetésével kell megkülönböztetni a s
 - b) a személyi azonosító igazolására alkalmas okmánnyal igazolja személyi azonosítóját.
 
 (3) A szavazatszámláló bizottság megállapítja, hogy a polgár szerepel-e a kinyomtatott szavazóköri névjegyzékben.
+
+(4) E § alkalmazásában a Dáptv. szerinti digitális okmány nem alkalmazható.
 
 177. § (1) A szavazatszámláló bizottság visszautasítja azt a választópolgárt, aki
 

@@ -34,6 +34,8 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 (3) Az Egyetem a tanárképzés területén a gyakorlati képességek hatékony fejlesztése érdekében, a hallgatók számára diverzifikált, több intézményre kiterjedő gyakorlati tapasztalatszerzési lehetőség biztosítása, illetve az Egyetem képzésében oktatók számára – a köznevelésben való részvétel révén – a folyamatos gyakorlati lehetőség és szakmai fejlődés elősegítése érdekében fenntartóként köznevelési intézmény hálózatot működtet.
 
+1/E. § Az Egyetem, valamint az Egyetem által fenntartott köznevelési intézmény nem minősül a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 21. §-a, valamint az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 10/B. §-a alkalmazásában állami intézménynek.
+
 2. § (1) Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
 
 (2) A 13. §-ban meghatározott személyek esetében az e törvényben nem szabályozott kérdésekben a jogállásukat szabályozó törvények rendelkezéseit kell alkalmazni.
@@ -240,9 +242,9 @@ gyakorolhatja.
 
 kézbesítettnek kell tekinteni.
 
-16/J. § (1) A 16/I. § (5) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.) foglalt rendelkezéseket a (3) és a (4) bekezdésben foglalt eltérésekkel kell alkalmazni azzal, hogy a felhasználóra vonatkozó rendelkezéseket a közalkalmazottra, az elektronikus ügyintézést biztosító szervre vonatkozó rendelkezéseket az Egyetemre is alkalmazni kell.
+16/J. § (1) A 16/I. § (5) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben (a továbbiakban: Dáptv.) foglalt rendelkezéseket a (3) és a (4) bekezdésben foglalt eltérésekkel kell alkalmazni azzal, hogy a felhasználóra vonatkozó rendelkezéseket a közalkalmazottra, az elektronikus ügyintézést biztosító szervre vonatkozó rendelkezéseket az Egyetemre is alkalmazni kell.
 
-(2) A közalkalmazott köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A közalkalmazott e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
+(2) A közalkalmazott köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A közalkalmazott e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
 
 (3) A 16/I. § (5) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítése esetén, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítési igazolásban feltüntetett időpontját követő ötödik munkanapon.
 

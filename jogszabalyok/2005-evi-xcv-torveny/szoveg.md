@@ -789,7 +789,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 (6b) A (6) bekezdés c) pontja szerinti engedély iránti kérelem, illetve bejelentés papíralapon is előterjeszthető.
 
-(6c) A (6) bekezdés c) pontja szerinti engedély kiadására irányuló eljárásban a gyógyszerészeti államigazgatási szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerint, elektronikus úton közli határozatát az egészségügyi szolgáltatóval.
+(6c) A (6) bekezdés c) pontja szerinti engedély kiadására irányuló eljárásban a gyógyszerészeti államigazgatási szerv a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerint, elektronikus úton közli határozatát az egészségügyi szolgáltatóval.
 
 (6d) A (6) bekezdés c) pont ca) alpontjában és a (6a) bekezdésben foglaltaktól eltérően gyógyszert indikáción túli gyógyszerrendelés keretében a (6e)–(6h) bekezdés szerinti esetben, indikáción túli gyógyszerrendelési ajánlásban szereplő gyógyszer esetében a gyógyszerészeti államigazgatási szerv részére történő bejelentés alapján is lehet rendelni, illetve alkalmazni.
 

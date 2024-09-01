@@ -1705,7 +1705,7 @@ tevékenységet folytatott, és e tevékenység megszűnésétől három év mé
 
 (2) Az egészségügyi államigazgatási szerv a szakmai felügyelet keretében megtett intézkedésekről az egészségbiztosítási szervet tájékoztatja.
 
-(3) Az egészségügyi államigazgatási szerv a gyógyszertárak létesítésével és működtetésével összefüggő hatósági eljárásaiban az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerint a természetes személy ügyféllel, illetve az eljárásban részt vevő természetes személyekkel is elektronikusan tart kapcsolatot.
+(3) Az egészségügyi államigazgatási szerv a gyógyszertárak létesítésével és működtetésével összefüggő hatósági eljárásaiban a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerint a természetes személy ügyféllel, illetve az eljárásban részt vevő természetes személyekkel is elektronikusan tart kapcsolatot.
 
 (4) A (3) bekezdéstől eltérően a természetes személy ügyfél vagy eljárás természetes személy résztvevője kérésére az egészségügyi államigazgatási szerv a gyógyszertárak létesítésével és működtetésével összefüggő hatósági eljárásaiban papíralapú kapcsolattartást alkalmaz.
 

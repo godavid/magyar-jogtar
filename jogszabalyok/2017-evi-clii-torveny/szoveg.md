@@ -173,7 +173,7 @@ az érdekelt vámszervek kötelesek egymás között azonnal, de legfeljebb 3 mu
 
 #### 15. § [A kapcsolattartás általános szabályai]
 
-Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere és adattárolás elektronikus adatfeldolgozási eljárástól eltérő módon történik, valamint e törvény vagy uniós vámjogszabályok mást nem határoznak meg, akkor a vámhatóság személyesen, postai úton vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott módon tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
+Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere és adattárolás elektronikus adatfeldolgozási eljárástól eltérő módon történik, valamint e törvény vagy uniós vámjogszabályok mást nem határoznak meg, akkor a vámhatóság személyesen, postai úton vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben (a továbbiakban: Dáptv.) meghatározott módon tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 
 #### 16. § [Betekintés az eljárás irataiba]
 
@@ -759,7 +759,7 @@ vámigazgatási bírsággal sújtható.
 
 #### 50. § [Irat]
 
-(1) A vámhatóság – a 39. § (5) bekezdésében meghatározottak kivételével – felhívhatja az ügyfelet okirat vagy más irat bemutatására, ha az a tényállás tisztázásához szükséges, és az az Eüsztv. alapján nem szerezhető be.
+(1) A vámhatóság – a 39. § (5) bekezdésében meghatározottak kivételével – felhívhatja az ügyfelet okirat vagy más irat bemutatására, ha az a tényállás tisztázásához szükséges, és az a Dáptv. alapján nem szerezhető be.
 
 (2) Az ügyfél az iratot másolatban is benyújthatja, ha nyilatkozik arról, hogy az az eredetivel mindenben megegyezik. E nyilatkozat hiányában az irat másolata a vámigazgatási eljárásban bizonyítékként nem használható fel.
 

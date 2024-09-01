@@ -117,7 +117,7 @@ jogosult személy;
 - 49. üzemi motorikusgáztöltő-állomás üzemeltetője: az üzemi motorikusgáztöltő-állomás üzemeltetője, valamint az üzemi motorikusgáztöltő-állomás üzemeltetőjével egy telephelyen működő, annak e termék tárolására szolgáló tartályát szerződés alapján használó személy;
 - 50. üzemszünet: olyan,
   - a) az uniós számítógépes rendszer vagy az állami adó- és vámhatóság számítógépes rendszerének üzemszerű működésében bekövetkezett,
-  - b) az állami adó- és vámhatóság által biztosított információs rendszer üzemszerű működésében bekövetkezett, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti, vagy
+  - b) az állami adó- és vámhatóság által biztosított információs rendszer üzemszerű működésében bekövetkezett, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény felhatalmazó rendelkezése alapján kiadott kormányrendelet szerinti, vagy
   - c) az uniós számítógépes rendszer használójának számítógépes rendszerében bekövetkezett
 
 üzemzavar, amely meggátolja az uniós számítógépes rendszer használatát;

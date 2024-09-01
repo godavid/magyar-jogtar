@@ -598,7 +598,7 @@ a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
 
 #### 40. §
 
-41. § A minősítés során a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
+41. § A minősítés során a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
 42. § (1) Az adóhatóság az ellenőrzése során – az adóigazgatási rendtartásról szóló törvény rendelkezései alapján – szakértőként megkeresheti a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szervet.
 
@@ -844,7 +844,7 @@ vonatkozó szabályait kell alkalmazni.
 
 #### 17. Módosító rendelkezések
 
-48. § Ha az SZTNH az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 48. §
 
 48/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 

@@ -691,7 +691,7 @@ meghosszabbítása
 
 (2) Az eljáró idegenrendészeti hatóság az (1) bekezdésben meghatározott kötelezettségét elmulasztó munkáltatót közrendvédelmi bírsággal sújthatja.
 
-(3) A munkáltató az (1) bekezdés szerinti bejelentését elektronikus azonosítását követően az idegenrendészeti ügyindítási elektronikus felületen elektronikus úton teljesíti.
+(3) A munkáltató az (1) bekezdés szerinti bejelentését az idegenrendészeti ügyindítási elektronikus felületen elektronikus úton teljesíti.
 
 68. § A fuvarozó és a munkáltató a felelősségének megállapítására irányuló eljárás felfüggesztését nem kérheti.
 
@@ -703,18 +703,18 @@ meghosszabbítása
 
 (2) Ha az eljáró idegenrendészeti hatóság a regisztrációs igazolás, a tartózkodási kártya vagy állandó tartózkodási kártya iránti kérelemnek helyt ad, kizárólag a döntés tényét rögzíti az ügyiraton.
 
-(3) A regisztrációs igazolás, az EGT állampolgár családtagja tartózkodási kártyája és az állandó tartózkodási kártya iránti kérelmet az ügyfél a Btátv. 166. § (6) bekezdése szerinti idegenrendészeti ügyindítási elektronikus felületen is előterjesztheti.
+(3) A regisztrációs igazolás, az EGT állampolgár családtagja tartózkodási kártyája és az állandó tartózkodási kártya iránti kérelmet az ügyfél a Btátv. 166. §-a szerinti idegenrendészeti ügyindítási elektronikus felületen is előterjesztheti.
 
 (4) Az idegenrendészeti ügyindítási elektronikus felületen benyújtott kérelem akkor minősül az idegenrendészeti hatósághoz érkezettnek, ha
 
 - a) az EGT-állampolgár vagy a harmadik országbeli állampolgár a kérelem díját lerótta, amennyiben az eljárás díjköteles és
-- b) a harmadik országbeli állampolgár a személyazonosságának igazolása érdekében az eljáró idegenrendészeti hatóságnál legkésőbb a visszaigazolás megküldésétől számított 15. napon megjelenik.
+- b) a harmadik országbeli állampolgár – ha idegenrendészeti ügyindítási elektronikus felületen a regisztrációja a Btátv. 166. § (2) bekezdés b) pontja alapján történt – a személyazonosságának igazolása érdekében az eljáró idegenrendészeti hatóságnál legkésőbb a visszaigazolás megküldésétől számított 15. napon megjelenik.
 
 (4a) A Btátv. 166. § (7) bekezdését az EGT-állampolgár által előterjesztett (3) bekezdés szerinti kérelmek esetén az idegenrendészeti hatóság nem alkalmazza.
 
 (5) Nem minősül a kérelem az idegenrendészeti hatósághoz érkezettnek, ha a kérelmet előterjesztő a díjfizetési vagy a személyes megjelenési kötelezettségének a (4) bekezdés b) pontja szerinti határidőn belül nem tesz eleget.
 
-(6) Az idegenrendészeti hatósághoz meg nem érkezettnek minősülő kérelmeket az idegenrendészeti hatóság a visszaigazolást követő 16. napon törli, melyről az idegenrendészeti ügyindítási elektronikus felület útján tájékoztatja az ügyfelet.
+(6) Az (5) bekezdés szerinti kérelmeket az idegenrendészeti hatóság a visszaigazolást követő 16. napon törli. A törlés tényéről az idegenrendészeti ügyindítási elektronikus felület útján tájékoztatja a kérelmezőt.
 
 #### 71. §
 
@@ -1055,7 +1055,7 @@ b) akit menekültként elismertek, valamint
 
 c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarországon gyakorolja, és bejelentési kötelezettségének eleget tett.”
 
-93. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 67. § (3) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 93. §
 
 94. § (1) A magyar állampolgárok harmadik országbeli állampolgár családtagjaira vonatkozó eljárásokban az egyes migrációs tárgyú és kapcsolódó törvények módosításáról szóló 2018. évi CXXXIII. törvény (a továbbiakban: Módtv.2.) hatályba lépését követően indult és megismételt eljárásokban a Btátv. rendelkezéseit kell alkalmazni.
 

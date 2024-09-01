@@ -402,7 +402,7 @@ A szakképző intézmény helyiségeiben, területén párt, politikai célú mo
 
 (1) A szakképző intézmény működésére, belső és külső kapcsolataira vonatkozó rendelkezéseket a szakképző intézmény szervezeti és működési szabályzata határozza meg.
 
-(2) A szakképző intézmény házirendje állapítja meg a tanulók, illetve a képzésben részt vevő személyek jogai gyakorlásának és – a tanulmányi kötelezettségek teljesítésén kívül – kötelességei teljesítésének módját, továbbá a szakképző intézmény által elvárt viselkedés szabályait. A házirend a tanulói jogviszonyból, illetve a felnőttképzési jogviszonyból származó jogok gyakorlásához, illetve kötelességek teljesítéséhez nem szükséges dolgok bevitelét megtilthatja, korlátozhatja vagy feltételhez kötheti. A házirendben meghatározott szabályok megsértéséből eredő károkért szakképző intézmény nem felel.
+(2) A szakképző intézmény házirendje állapítja meg a tanulók, illetve a képzésben részt vevő személyek jogai gyakorlásának és – a tanulmányi kötelezettségek teljesítésén kívül – kötelességei teljesítésének módját, továbbá a szakképző intézmény által elvárt viselkedés szabályait. A házirend – a 33. § (1a) és (1b) bekezdésében, valamint a Kormány rendeletében foglaltakkal összhangban – a tanulói jogviszonyból, illetve a felnőttképzési jogviszonyból származó jogok gyakorlásához, illetve kötelességek teljesítéséhez nem szükséges dolgok bevitelét megtilthatja, korlátozhatja vagy feltételhez kötheti. A házirendben meghatározott szabályok megsértéséből eredő károkért szakképző intézmény nem felel.
 
 (3) Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény szervezeti és működési szabályzatában és házirendjében az adott vallás hitelveivel összefüggő viselkedési és megjelenési szabály, jog és kötelesség, valamint hitéleti tevékenység is előírható, amelynek vétkes megszegése miatt a tanulóval, illetve a képzésben részt vevő személlyel az e törvényben, a szakképző intézmény alkalmazottjával szemben a munka törvénykönyvéről szóló 2012. évi I. törvényben (a továbbiakban: Mt.) foglaltak szerint fegyelmi eljárás indítható, illetve hátrányos jogkövetkezmény állapítható meg.
 
@@ -415,6 +415,17 @@ A szakképző intézmény helyiségeiben, területén párt, politikai célú mo
 #### 33. § [A szakképző intézmény egyéb jogai és kötelességei]
 
 (1) A szakképző intézménynek gondoskodnia kell a rábízott tanulók felügyeletéről, a szakmai oktatás egészséges és biztonságos feltételeinek megteremtéséről, a tanulók ágazathoz kötött egészségügyi alkalmassági és fogászati vizsgálatának megszervezéséről.
+
+(1a) A Kormány rendeletben meghatározza azon – a tanulói jogviszonyból, felnőttképzési jogviszonyból, kollégiumi tagsági viszonyból származó kötelezettségek teljesítéséhez, jogok gyakorlásához nem szükséges – tárgyak körét, amelyet a tanuló a megfelelő testi, szellemi és erkölcsi fejlődéshez való jogra, az egészséghez való jogra, az oktatás zavartalanságának biztosítására, valamint a köz érdekére, közbiztonságra tekintettel a szakképző intézménybe
+
+- a) nem vihet be (a továbbiakban: tiltott tárgy), vagy
+- b) bevihet, azonban azt a tanítási nap folyamán csak akkor birtokolhatja és használhatja, ha azt a szakképző intézmény
+  - ba) igazgatója egészségügyi célból, vagy
+  - bb) oktatója vagy pedagógusa pedagógiai célból
+
+– a tanulmányi rendszerben a Kormány rendeletében foglaltak alapján rögzítettek szerint – az általa meghatározott időszakra engedélyezi (a továbbiakban: használatában korlátozott tárgy).
+
+(1b) Az (1a) bekezdésben foglalt szabályok betartatásáért a szakképző intézmény igazgatója felel azzal, hogy a Kormány rendeletében, valamint a házirendben meghatározottak szerint gondoskodik a szabályok betartásának ellenőrzéséről, a tárgy átvételéről, őrzéséről, a tanuló, vagy egyéb személy részére történő visszaadásának rendjéről. A tárgyak őrzésére – a tiltott tárgy kivételével – a Polgári Törvénykönyv általános, a szerződésen kívüli károkozásért való felelősségre vonatkozó szabályait kell alkalmazni. A tiltott tárgy őrzése során a tárgyban bekövetkezett kárért a szakképző intézmény nem felel.
 
 (2) Az állami szakképző intézmény a tanuló, a képzésben részt vevő személy, kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjének kérésére a kötelező foglalkozások rendjéhez igazodó, de annak részét nem képező fakultatív hitoktatás egyházi jogi személy általi megszervezését biztosítja. A fakultatív hitoktatáshoz szükséges tárgyi feltételeket a szakképző intézményben rendelkezésre álló eszközök használatával kell biztosítani. A fakultatív hitoktatás tartalmát az adott vallás hitelvei alapján az egyházi jogi személy határozza meg és végzi a hitoktatásra jelentkezés lebonyolításával, valamint a hitoktatásban közreműködő személy alkalmazásával és ellenőrzésével kapcsolatos feladatokat. A fakultatív hitoktatással kapcsolatos feladatok ellátása során a szakképző intézmény és az egyházi jogi személy egymással kölcsönösen együttműködik.
 
@@ -453,6 +464,20 @@ tart. Felnőttképzési jogviszonyban a szakképzés a tanév és a tanítási �
 (5) A szakképző intézmény azokon a tanítási napokon, amelyeken közismereti oktatás is folyik, legalább napi egy testnevelésórát szervez és gondoskodik a tanulók fizikai állapotának és edzettségének méréséről és mérési adatainak azonosításra alkalmatlan módon a Nemzeti Egységes Tanulói Fittségi Teszt rendszerbe történő továbbításáról.
 
 (6) A szakképző intézmény biztosítja a szakképző intézményi sportkör működését.
+
+#### 35/A. § [A „B” kategóriás közúti járművezetői engedély megszerzése]
+
+Az állam a szakképző intézményben tanulók részére ingyenesen biztosítja a „B” kategóriás közúti járművezetői engedély megszerzéséhez a közlekedési alapismeretek és a gyakorlati vizsga letételéhez szükséges ismeretek elsajátítását. A szülő, a törvényes képviselő vagy a nagykorú tanuló döntésével visszautasíthatja a képzésben részvételt.
+
+#### 35/B. § [A szakképző intézményben tanuló járművezetők elméleti képzése és vizsgája]
+
+(1) A szakképző intézmény utolsó évfolyamán a tanuló „B” kategóriás közúti járművezetői engedély megszerzéséhez szükséges, a regisztrációs és tanulmányi alaprendszerben elérhető online közlekedési alapismeretek és elsősegélynyújtási tanfolyamon (a továbbiakban együtt: gépjárművezetői elméleti tanfolyam) vehet részt. A tanfolyamon való részvétel saját használatú informatikai eszközön, tanítási időn kívül is teljesíthető, a szakképző intézmény azonban az órarendbe illesztve, tanítási napon, délután köteles olyan idősávot biztosítani a tanulók számára a gépjárművezetői elméleti tanfolyamon való részvételhez, amelynek ideje alatt tanórai vagy egyéb foglalkozás nem szervezhető a gépjárművezetői elméleti tanfolyamon részt vevő tanulóknak.
+
+(2) A gépjárművezetői elméleti tanfolyam megszervezése során az állami mentőszolgálat bevonásával jelenléti formában, legalább egy alkalommal elsősegélynyújtási demonstrációs alkalmat kell szervezni.
+
+(3) A gépjárművezetői elméleti tanfolyamon részt vevő tanulóknak a szakképző intézmény a regisztrációs és tanulmányi alaprendszerben elérhető online közlekedési alapismeretek elméleti vizsgát és online elsősegélynyújtási vizsgát szervez, ezek elvégzéséről a tanuló tanúsítványt kap, amely megfelelt vagy nem megfelelt eredményt tartalmazhat. A megfelelt eredményt tartalmazó tanúsítvány igazolja a „B” kategóriás közúti járművezetői engedély megszerzéséhez szükséges gépjárművezetői elméleti tanfolyam szerinti elméleti ismeretek megszerzését. A szakképző intézmény biztosítja, hogy a tanúsítvány – az egészségügyért felelős miniszter rendeletében meghatározottak szerinti, az elsősegélynyújtásból előírt ismeretek megszerzésének igazolása céljából – a Magyar Vöröskereszt részére bemutatásra kerüljön.
+
+(4) A közúti járművezetők közlekedési alapismeretek elméleti vizsgájának és az elsősegélynyújtási vizsga letételének alapjául szolgáló alapismeretek elsajátításához szükséges informatikai feltételek biztosítása érdekében a szakképző intézmény a regisztrációs és tanulmányi alaprendszert veszi igénybe.
 
 #### 7. A szakképző intézmény döntései és azok felülvizsgálata
 
@@ -1608,7 +1633,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 30a. a diákigazolvány kiadásával és használatával kapcsolatos szabályokat,
 - 31. a duális képzőhelyek nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, a nyilvántartásba-vételi eljárás részletes szabályait, a szakirányú oktatási célt szolgáló tanműhelyként történő nyilvántartásba vétel feltételeit, a duális képzőhely felelősségbiztosításának mértékét és a duális képzőhelyek ellenőrzésének részletes szabályait,
 - 32. a szakirányú oktatásról való mulasztás igazolásának, pótlásának módját, az igazolatlan mulasztás következményeit, az igazolatlan mulasztások esetén követendő eljárás szabályait,
-- 33.
+- 33. a tiltott tárgyak és a használatában korlátozott tárgyak – szakképző intézmény típusára, évfolyamonként meghatározott – körét, ezek átvételének, az ellenőrzési jog gyakorlásának és a tárgyak visszaadásának szabályait, az igazgató, valamint az oktató vagy a pedagógus általi, a tanuló részére a birtoklás és használat engedélyezésére vonatkozó részletes szabályokat,
 - 34. a szakképzési munkaszerződés tartalmi elemeit,
 - 35. a szakképzési munkaszerződésre tekintettel járó munkabér mértékét és a tanulókat, illetve a képzésben részt vevő személyeket megillető egyéb juttatások részletes szabályait,
 - 36. az ágazati alapvizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának és díjazásának szabályait,

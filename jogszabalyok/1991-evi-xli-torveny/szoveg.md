@@ -102,7 +102,7 @@ a közjegyzőkről
 - d) szükség esetén a közjegyzői iroda nevét, székhelyét, cégjegyzékszámát, tagjainak nevét és személyazonosító adatait.
 - e) közjegyzői irodai ügyintéző nyilvántartásba vétele esetén nevét, születési helyét és időpontját, anyja nevét, a nyilvántartásba vétel időpontját, az alkalmazó közjegyző nevét és székhelyét.
 
-(10) A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül közigazgatási hatósági ügynek.
+(10) A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül közigazgatási hatósági ügynek.
 
 ### A közjegyző illetékességi területe
 
@@ -871,7 +871,7 @@ foglalt kötelezettségek teljesítését.
 - e) a cégjegyzékbe történő bejegyzés időpontja, cégjegyzékszám,
 - f) a nyilvántartásba történő bejegyzés időpontja,
 - g) a nyilvántartásból történő törlés időpontja,
-- h) a közjegyzői iroda E-ügyintézési tv. szerinti hivatalos elérhetősége.
+- h) a közjegyzői iroda Dáptv. szerinti hivatalos elérhetősége.
 
 (6) A területi elnökség a közjegyzőjelöltet, illetve a közjegyzőhelyettest törli a kamarai névjegyzékből, ha
 
@@ -900,7 +900,7 @@ foglalt kötelezettségek teljesítését.
 
 (9) A (2) és a (4) bekezdés szerinti névjegyzék – a (2) bekezdés a), d) és e) pontjában foglalt adatok kivételével –, valamint az (5) bekezdés szerinti nyilvántartás – az (5) bekezdés a)–c) és e) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(10) A kamara az (5) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi.
+(10) A kamara az (5) bekezdés h) pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.
 
 (11)
 
@@ -1356,7 +1356,7 @@ ellenőrzésével gondoskodik.
 
 87. § A fegyelmi eljárást a nyilvánosság kizárásával kell lefolytatni.
 
-87/A. § A fegyelmi eljárás lefolytatása során az E-ügyintézési törvény rendelkezéseit alkalmazni kell.
+87/A. § A fegyelmi eljárás lefolytatása során a Dáptv. rendelkezéseit alkalmazni kell.
 
 ### Fegyelmi vizsgálat
 
@@ -1893,7 +1893,7 @@ kommunikálhat.
 
 142. § (1) Nyilatkozat vagy értesítés közlését a közjegyző akkor tanúsíthatja, ha a közlés vagy elmaradása jogkövetkezménnyel járhat.
 
-(2) A közjegyző a nyilatkozat vagy értesítés szövegét szó szerint jegyzőkönyvbe foglalja, és az okiratot postán ajánlott vagy tértivevényes küldeményként, illetve az E-ügyintézési törvényben meghatározott módon a másik fél részére továbbítja. A közjegyző a jegyzőkönyvbe foglalt nyilatkozat vagy értesítés szövegét a nyilatkozattevő – képviselő eljárása esetén a képviselő – előtt felolvassa, e jegyzőkönyvet a nyilatkozattevőnek – képviselő eljárása esetén a képviselőnek – alá kell írnia. A közjegyző a nyilatkozat vagy értesítés közléséről a kérelmet előterjesztő félnek jegyzőkönyvet állít ki, amelybe belefoglalja a nyilatkozat vagy értesítés szó szerinti szövegét, a felek nevét, lakóhelyét, ennek hiányában tartózkodási helyét, illetve székhelyét, a feladás évét, hónapját, napját, a kérelmet előterjesztő kívánságára óráját is.
+(2) A közjegyző a nyilatkozat vagy értesítés szövegét szó szerint jegyzőkönyvbe foglalja, és az okiratot postán ajánlott vagy tértivevényes küldeményként, illetve a Dáptv.-ben meghatározott módon a másik fél részére továbbítja. A közjegyző a jegyzőkönyvbe foglalt nyilatkozat vagy értesítés szövegét a nyilatkozattevő – képviselő eljárása esetén a képviselő – előtt felolvassa, e jegyzőkönyvet a nyilatkozattevőnek – képviselő eljárása esetén a képviselőnek – alá kell írnia. A közjegyző a nyilatkozat vagy értesítés közléséről a kérelmet előterjesztő félnek jegyzőkönyvet állít ki, amelybe belefoglalja a nyilatkozat vagy értesítés szó szerinti szövegét, a felek nevét, lakóhelyét, ennek hiányában tartózkodási helyét, illetve székhelyét, a feladás évét, hónapját, napját, a kérelmet előterjesztő kívánságára óráját is.
 
 (3) A másik fél írásbeli válaszát a közjegyző a jegyzőkönyvhöz csatolja, szóbeli válaszát jegyzőkönyvbe foglalja, és minderről értesíti a kérelmet előterjesztő felet.
 
@@ -2190,7 +2190,7 @@ alapján tanúsíthatja.
 - j) 1956-ban született közjegyző 65. életévének betöltését követő 183. napon,
 - k) 1957-ben született közjegyző 65. életévének betöltése napján.
 
-179. § (1) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 11/A. § (3), (4) és (10) bekezdését, 21/A. § (3) bekezdés a) és b) pontját, (5) és (6) bekezdését, valamint 122. § (4) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az E-ügyintézési tv. 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+179. § (1)
 
 (2) A 49/A. § (5) bekezdés h) pontja szerinti adat nyilvántartása 2018. január 1-jétől kötelező, ezt megelőzően a közjegyzői iroda kérheti az adat nyilvántartásba vételét.
 

@@ -241,14 +241,14 @@ törli.
 
 18. § (1) Törvény eltérő rendelkezése hiányában ügyvédi tevékenység végzése során, – ha jogszabály elektronikus aláírás használatát írja elő – csak a következő feltételeknek megfelelő minősített elektronikus aláírás vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírás használható:
 
-- a) az elektronikus aláíráshoz tartozó tanúsítványban vagy az ahhoz csatolt szerepkör igazolásban az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti bizalmi szolgáltató (a továbbiakban: bizalmi szolgáltató) feltüntette, hogy az aláíró ügyvédi kamarai tagsága fennáll vagy ügyvédi kamarai nyilvántartásban szerepel, és
+- a) az elektronikus aláíráshoz tartozó tanúsítványban vagy az ahhoz csatolt szerepkör igazolásban a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti bizalmi szolgáltató (a továbbiakban: bizalmi szolgáltató) feltüntette, hogy az aláíró ügyvédi kamarai tagsága fennáll vagy ügyvédi kamarai nyilvántartásban szerepel, és
 - b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb négy órán belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
 
 (2) A bizalmi szolgáltató az (1) bekezdés szerinti elektronikus aláírás tanúsítványát vagy igazolást csak abban az esetben bocsáthatja ki, ha a területi kamara nyilvántartása alapján a Magyar Ügyvédi Kamara vagy a Magyar Ügyvédi Kamarával megállapodást kötő személy vagy szervezet a bizalmi szolgáltató részére igazolta, hogy a kibocsátás időpontjában az aláíró kamarai tagsága fennállt, vagy az ügyvédi kamarai nyilvántartásban szerepelt, valamint azt, hogy az ügyvédi tevékenysége gyakorlását nem szüneteltette és nem függesztették fel.
 
 (3) A bizalmi szolgáltató a tanúsítvány kibocsátásáról adatot szolgáltat az ügyvédi kamaráknak.
 
-(4) Az ügyvédi tevékenység gyakorlója az Eüsztv. 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti az ügyvédi kamarát is.
+(4) Az ügyvédi tevékenység gyakorlója a Dáptv. 89. § (1) bekezdése és 101. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti az ügyvédi kamarát is.
 
 (5) Az ügyvédi tevékenység gyakorlója nem használhatja az elektronikus aláírást, ha
 
@@ -437,7 +437,7 @@ alapján folytatható.
 
 32. § (1) A jogi tanácsadásra adott megbízás kivételével a megbízási szerződés megkötése előtt a megbízott, valamint a munkáltatója és harmadik személy közötti szerződés ellenjegyzését megelőzően a kamarai jogtanácsos (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) elvégzi az ügyfél, a kamarai jogtanácsos a munkáltatójával szerződő személy, illetve az ezek képviseletében eljáró személy azonosítását.
 
-(2) Az ügyvéd azt a természetes személyt, akit nem ismer, vagy akinek a személyazonosságát illetően kétsége merül fel, személyazonosításra alkalmas okmánya megtekintésével, vagy az Eüsztv. alapján a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybevétele, vagy – ha az ügyvéd rendelkezik az ehhez szükséges feltételekkel – a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet 24. cikk (1) bekezdés a), b) vagy d) pontja szerinti ellenőrzés útján azonosítja.
+(2) Az ügyvéd azt a természetes személyt, akit nem ismer, vagy akinek a személyazonosságát illetően kétsége merül fel, személyazonosításra alkalmas okmánya megtekintésével, vagy a Dáptv. alapján a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybevétele, vagy – ha az ügyvéd rendelkezik az ehhez szükséges feltételekkel – a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet 24. cikk (1) bekezdés a), b) vagy d) pontja szerinti ellenőrzés útján azonosítja.
 
 (3) Az ügyvéd a természetes személy adatai a nyilvántartott adatokkal való egyezőségének és az általa bemutatott okmányok érvényességének ellenőrzése érdekében a személyiadat- és lakcímnyilvántartásból, a járművezetőiengedély-nyilvántartásból, az útiokmány-nyilvántartásból és a központi idegenrendészeti nyilvántartásból elektronikus úton a következő adatokat igényelheti:
 
@@ -677,7 +677,7 @@ azzal, hogy ezt a körülményt, valamint a b) pont szerinti esetben az (1) beke
 
 46. § (1) Az ügyvéd és a kamarai jogtanácsos (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) papíralapú okiratot – utalvány, értékpapír vagy más vagyoni értékű jogot megtestesítő okirat kivételével – elektronikus okirati formába alakíthat.
 
-(2) Az elektronikus okirati formába való alakítás során az ügyvéd kizárólag oldalhű elektronikus másolatot készíthet. Az elektronikus okirati formába alakítás során az Eüsztv. 102. § (6) bekezdését, valamint 103. § (4) és (5) bekezdését nem kell alkalmazni.
+(2) Az elektronikus okirati formába való alakítás során az ügyvéd kizárólag oldalhű elektronikus másolatot készíthet.
 
 (3) A 3. § (1) bekezdés l) pontjában meghatározott kiegészítő jellegű tevékenység ellátása során az ügyvéd kizárólag a 18. § (1) bekezdése szerinti követelményeknek megfelelő elektronikus aláírását használhatja.
 
@@ -1895,7 +1895,7 @@ a fegyelmi büntetés hatálya alatt álló, arra érdemes személyt méltányos
 
 (3) Az ügyvédi kamara az ügyvédi tevékenység gyakorlására jogosultak szakmai irányításával, érdekképviseletével, az ügyvédi tevékenységgel összefüggő jogügyletek biztonságával kapcsolatos, valamint az alapszabályában meghatározott közfeladatokat látja el.
 
-(4) Az ügyvédi kamara közhatalmi eljárásában az iratok kézbesítésére az általános közigazgatási rendtartásnak a kézbesítésre vonatkozó szabályait, valamint az Eüsztv. rendelkezéseit alkalmazni kell.
+(4) Az ügyvédi kamara közhatalmi eljárásában az iratok kézbesítésére az általános közigazgatási rendtartásnak a kézbesítésre vonatkozó szabályait, valamint a Dáptv. rendelkezéseit alkalmazni kell.
 
 #### 66. Az ügyvédi kamarai tagság területi hatálya
 
@@ -2345,7 +2345,7 @@ kamarai jogtanácsos, illetve alkalmazott ügyvéd.
 (2) A Magyar Ügyvédi Kamara szabályzatában
 
 - a) kamarai hatósági ügynek nem minősülő kamarai eljárásokban is elrendelheti a közigazgatási hatósági eljárásokra vonatkozó egyes szabályok alkalmazását, valamint
-- b) bármely ügyben lehetővé teheti az Eüsztv. szerinti elektronikus kapcsolattartás szabályainak alkalmazását, valamint kötelezővé teheti az elektronikus kapcsolattartást.
+- b) bármely ügyben lehetővé teheti a Dáptv. szerinti elektronikus kapcsolattartás szabályainak alkalmazását, valamint kötelezővé teheti az elektronikus kapcsolattartást.
 
 #### 77. Hatáskör és illetékesség
 
@@ -2616,7 +2616,7 @@ törli a nyilvántartásból.
 
 (2) Az ügyvédi kamarai nyilvántartás 1. mellékletben meghatározott fennálló, törölt és megváltozott adatai nyilvánosak, a fennálló és nyilvános adatait pedig az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
-(3) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 20. sora szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi.
+(3) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 20. sora szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.
 
 190. § (1) Az ügyvédi kamarai nyilvántartás tartalmazza az ügyvédi iroda
 
@@ -2626,7 +2626,7 @@ törli a nyilvántartásból.
 - 4. fiókirodája címét,
 - 5. alirodája címét,
 - 6. telefonszámát,
-- 7. az Eüsztv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőségét,
+- 7. a Dáptv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőségét,
 - 8. elektronikus levelezési címét,
 - 9. honlapja címét,
 - 10. irodavezetője vagy irodavezetői nevét, képviseleti jogosultságuk fajtáját, és e megbízatásuk hatályát,
@@ -2651,7 +2651,7 @@ törli a nyilvántartásból.
 
 (4) Az ügyvédi kamarai nyilvántartásnak az (1) bekezdés 1–12. pontja és a (2) bekezdése szerinti adatai nyilvánosak, közzétehetők vagy bárki számára kiadhatók, a fennálló adatait az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
-(5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi.
+(5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.
 
 191. § Az ügyvédi kamarai nyilvántartás tartalmazza a nyilvántartott adat bejegyzésének és törlésének az időpontját, valamint az annak alapjául szolgáló ügyvédi kamarai határozat számát és keltét.
 
@@ -2903,7 +2903,7 @@ rendeletben szabályozza.
 
 (32) A Magyar Ügyvédi Kamara teljes ülése 2018. január 1-jétől a Magyar Ügyvédi Kamara küldöttgyűléseként működik tovább.
 
-(33) Az ügyvédi kamarák az Eüsztv. 109. § (3) bekezdése szerinti információátadási szabályzataikat a 2018. január 1-jétől hatályos szabályoknak megfelelő tartalommal 2017. október 1-ig kötelesek a Felügyeletnek véleményezés céljából megküldeni.
+(33)
 
 (34) Ha a 2018. január 1-je előtt indult bírósági, hatósági vagy más közhatalmi eljárásban alkalmazandó jogszabály jogtanácsos jogi képviseleti jogáról rendelkezik, 2018. január 1-jétől jogi képviselőként – a (6) bekezdésben meghatározott kivétellel – kamarai jogtanácsos járhat el, és az e jogszabályoknak a jogi előadóra vonatkozó szabályai szerint 2018. január 1-jétől ügyvédi kamarai nyilvántartásba vett jogi előadó járhat el.
 
@@ -2963,7 +2963,7 @@ K = az adott személy esetében közhitelesen nyilvántartott adatok
 | 17 | részvételével működő ügyvédi társulás neve és nyilvántartási száma |  | K |  |  | – | – |  | – |  | – | K | – | K | – |
 | 18 | részvételével működő ügyvédi irodaközösség nyilvántartási száma |  | K |  |  | – | – |  | – |  | – | K | – | K | – |
 | 19 | helyettes ügyvéd neve, kamarai azonosító száma, ügyvédi iroda esetén adószáma |  | K |  |  | – | – |  | – |  | – | K | – | – | – |
-| 20 | az Eüsztv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőség |  | K |  |  | – | – |  | – |  | – | K | – | – | – |
+| 20 | a Dáptv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőség |  | K |  |  | – | – |  | – |  | – | K | – | – | – |
 | 21 | ügyvédjelölt foglalkoztatására való jogosultság |  | K |  |  | – | – |  | – |  | – | K | – | – | – |
 | 22 | munkáltatója neve |  | – |  |  | K | K |  | K |  | K | – | K | – | K |
 | 23 | munkáltatója címe |  | – |  |  | – | K |  | – |  | K | – | – | – | – |

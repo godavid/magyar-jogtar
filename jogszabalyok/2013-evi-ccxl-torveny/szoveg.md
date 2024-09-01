@@ -108,7 +108,7 @@ során kell alkalmazni.
 
 (2) A büntetés és az intézkedés végrehajtása során az elítélt köteles a végrehajtásért felelős szervvel együttműködni és a kért felvilágosítást megadni. Ha e törvény úgy rendelkezik, az együttműködés vagy a felvilágosításadás megtagadása esetén a büntetés-végrehajtási bíró az elítélttel szemben rendbírságot szabhat ki.
 
-(3) A büntetés vagy az intézkedés végrehajtása során az elítélt köteles a lakcímében, az értesítési címében, a tényleges tartózkodási helyében, kézbesítési címében, biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségében, elektronikus levelezési címében, hangkapcsolatot biztosító vagy más elektronikus elérhetőségében a büntetőeljárás befejezését követően bekövetkező változást – a változás bekövetkeztétől számított három munkanapon belül – a végrehajtásért felelős szervnek, ha ez nem ismert, a büntetőügyben első fokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bírónak bejelenteni.
+(3) A büntetés vagy az intézkedés végrehajtása során az elítélt köteles a lakcímében, az értesítési címében, a tényleges tartózkodási helyében, kézbesítési címében, elektronikus kapcsolattartásra szolgáló elérhetőségében, elektronikus levelezési címében, hangkapcsolatot biztosító vagy más elektronikus elérhetőségében a büntetőeljárás befejezését követően bekövetkező változást – a változás bekövetkeztétől számított három munkanapon belül – a végrehajtásért felelős szervnek, ha ez nem ismert, a büntetőügyben első fokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bírónak bejelenteni.
 
 (3a) Ha az elítélt
 
@@ -303,7 +303,7 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 (2) Az igazságügyért felelős miniszter a nemzetközi bűnügyi együttműködéssel összefüggésben a bv. intézetben fogva lévő elítélt vagy egyéb jogcímen fogvatartott részére kézbesítendő hivatalos iratot a BVOP-nak küldi meg.
 
-(3) Ha az elítélt a büntetőeljárás során vállalta az elektronikus kapcsolattartást, a végrehajtásért felelős szerv az idézést vagy a felhívást az elítélt által megadott és az értesítőlapon feltüntetett biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségére is kézbesíti.
+(3) Ha a büntetőeljárás során az elítélttel papíralapon történt a kapcsolattartás, részére az idézést vagy a felhívást papíralapon kell kézbesíteni.
 
 (3a) A bíróság, az ügyészség, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter papíralapú kapcsolattartás esetén – kivéve, ha a címzett fogva van – a hivatalos iratot a címzett elektronikus levelezési címére vagy más elektronikus elérhetőségére – idézés vagy értesítés esetén ideértve a hangkapcsolatot biztosító elektronikus eszközre küldött szöveges üzenetet is – kézbesítheti, ha az érintett ez irányú kérelmében az elérhetőségét bejelenti. Ez esetben közölni kell azt az elektronikus vagy hangkapcsolatot biztosító elérhetőséget, amelyen a címzett a hivatalos irat hitelességét ellenőrizni tudja, illetve a kézbesítésről a nyilatkozatát megteheti.
 
@@ -492,7 +492,7 @@ hajtható végre.
 
 ### Az elektronikus kapcsolattartás szabályai
 
-26/A. § A büntetés-végrehajtási ügyben, valamint a büntetőügyben eljáró bíróságnak és ügyészségnek a végrehajtás érdekében megtett intézkedése során – a 121. § (1) bekezdés g) pontjában és a 353. § e) pontjában foglalt kivétellel – az elektronikus kapcsolattartásra a Be. szabályai az irányadóak.
+26/A. § A büntetés-végrehajtási ügyben, a fogvatartással kapcsolatos ügyben, valamint a büntetőügyben eljáró bíróságnak és ügyészségnek a végrehajtás érdekében megtett intézkedése során – a 121. § (1) bekezdés g) pontjában és a 353. § e) pontjában foglalt kivétellel – az elektronikus kapcsolattartásra a Be. szabályai az irányadóak.
 
 ### Védelmi Programban való részvétellel kapcsolatos rendelkezések
 
@@ -1757,7 +1757,7 @@ történik.
 (2) Az (1) bekezdés szerinti adatkezelés kiterjed
 
 - a) a büntetőügyben eljáró bíróság, ügyészség megnevezésére, határozatának számára és keltére, jogerőre emelkedésének napjára, a kiszabott büntetés, alkalmazott intézkedés nemére, tartamára és mértékére, az előírt magatartási szabályra vagy kötelezettségre, a bűncselekmény Btk. szerinti megnevezésére és minősítésére, az elkövetői minőségre, valamint a bűnismétlésre vonatkozó adatokra, kényszerintézkedés esetén az eljáró bíróság, ügyészség megnevezésére és az ügyszámra, az ezzel kapcsolatos valamennyi határozat keltére, jogerőre emelkedésének napjára, továbbá a kényszerintézkedés tartamára,
-- b) az elítélt, vagy az egyéb jogcímen fogvatartott természetes személyazonosító adataira, nemére, állampolgárságára, – hontalan személy esetén – a hontalansága tényére, lakcímére, értesítési címére, tényleges tartózkodási helyére, kézbesítési címére, biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségére, elektronikus levelezési címére, hangkapcsolatot biztosító vagy más elektronikus elérhetőségére, katona elítélt esetén annak rendfokozatára, címzetes rendfokozatára, valamint állományilletékes alakulata vagy testülete megnevezésére és címére,
+- b) az elítélt, vagy az egyéb jogcímen fogvatartott természetes személyazonosító adataira, nemére, állampolgárságára, – hontalan személy esetén – a hontalansága tényére, lakcímére, értesítési címére, tényleges tartózkodási helyére, kézbesítési címére, elektronikus kapcsolattartásra szolgáló elérhetőségére, elektronikus levelezési címére, hangkapcsolatot biztosító vagy más elektronikus elérhetőségére, katona elítélt esetén annak rendfokozatára, címzetes rendfokozatára, valamint állományilletékes alakulata vagy testülete megnevezésére és címére,
 - c) az elítélt vagy a kényszerintézkedés hatálya alatt álló családi állapotára, iskolai végzettségére és szakképzettségére, a kényszergyógykezelt családi állapotára,
 - d) az elítélt vagy az egyéb jogcímen fogvatartott törvényes képviselőjének, meghatalmazott vagy kirendelt védőjének, jogi eljárásban eljáró képviselőjének, valamint a kényszergyógykezelt házastársának, továbbá nem magyar állampolgárságú fogvatartott esetén az állampolgársága szerinti diplomáciai vagy konzuli képviselet eljáró tagjának családi és utónevére, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére,
 - e) az elítélt vagy az egyéb jogcímen fogvatartott részére kiállított, a személyazonosság igazolására alkalmas hatósági igazolvány és járművezetéstől eltiltás hatálya alatt álló esetében a vezetői engedély okmányazonosítójára és érvényességi idejére, továbbá az okmányt kiállító hatóság megnevezésére,
@@ -2722,6 +2722,8 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 - g) az elektronikus ügyintézéshez.
 
 (2) A szabadságvesztés végrehajtása alatt szünetelnek az elítélt azon jogai, amelyekre a közügyektől eltiltás, illetve a bíróság ügydöntő határozatában meghatározott foglalkozástól eltiltás, járművezetéstől eltiltás és kitiltás kiterjed.
+
+(3) Az (1) bekezdés g) pontja nem vonatkozik a reintegrációs őrizetben lévő elítéltre.
 
 ### Az elítélt büntetés-végrehajtási jogviszonyból eredő jogai
 

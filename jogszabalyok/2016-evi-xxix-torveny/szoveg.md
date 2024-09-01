@@ -545,13 +545,13 @@ minősítést kap.
 
 44. § (1) A szakértő a névjegyzékben szereplő elérhetőségi címén köteles a küldemények átvételét biztosítani.
 
-(1a) A szakértő köteles az ügyintézési rendelkezések nyilvántartásába bejelenteni az elektronikus ügyintézés általános szabályairól szóló törvény szerinti hivatalos elérhetőségét. A Kamara és a névjegyzéket vezető hatóság által az e bekezdés szerinti elérhetőségre küldött küldemény kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. § (4) bekezdését alkalmazni kell.
+(1a) A szakértő köteles az ügyintézési rendelkezések nyilvántartásába bejelenteni a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti hivatalos elérhetőségét. A Kamara és a névjegyzéket vezető hatóság által az e bekezdés szerinti elérhetőségre küldött küldemény kézbesítésére a Dáptv. 27. §-át alkalmazni kell.
 
 (2) Ha a szakértő az elektronikus kapcsolattartást vállalja, a névjegyzéket vezető hatóság az elektronikus kapcsolattartáshoz szükséges azonosító adatokat a hatóság részére átadja.
 
 (3) A külön jogszabályban megjelölt, biztonságos kézbesítési szolgáltatást működtető szervezet – megkeresésre – az azonosító adatok alapján a biztonságos kézbesítési szolgáltatásról szóló jogszabály szerinti, kapcsolattartáshoz szükséges azonosítókat az elektronikus kapcsolattartás érdekében a hatóság részére átadja.
 
-(4) Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(4) Az elektronikus úton való kapcsolattartásra a Dáptv. rendelkezéseit kell alkalmazni.
 
 #### 20. A szakértő kirendelése
 
@@ -601,7 +601,7 @@ minősítést kap.
 
 (2) A szakértő a szakvéleményt – a kirendelésben foglaltaknak megfelelően – írásban vagy szóban terjeszti elő. A szakvélemény papír alapon vagy elektronikus kapcsolattartás keretében kézbesíthető a hatóság részére.
 
-(3) Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(3) Az elektronikus úton való kapcsolattartásra a Dáptv. rendelkezéseit kell alkalmazni.
 
 (4) A szakvéleménynek tartalmaznia kell
 
@@ -826,7 +826,7 @@ minősítést kap.
 
 (4) A Kamara hiánypótlásra felhívást a kérelem beérkezésétől számított nyolc napon belül bocsáthat ki, amelyben legfeljebb harmincnapos határidőt adhat a hiánypótlás teljesítésére.
 
-(5) A Kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül a közigazgatási hatósági ügynek.
+(5) A Kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a Dáptv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül a közigazgatási hatósági ügynek.
 
 ### VIII. Fejezet — A KAMARA TAGJAI
 
@@ -1465,7 +1465,7 @@ hoz határozatot, és azt kézbesíti a fegyelmi eljárás alá vont igazságüg
 
 107. § (1) A kezdeményező a kérelmet és mellékleteit elektronikus formában is benyújthatja, ebben az esetben a fegyelmi eljárás folyamán a Kamarával a kapcsolatot elektronikus úton köteles tartani és a Kamara is valamennyi iratot elektronikus kapcsolattartás keretében kézbesít a kezdeményező részére. A kérelem és mellékletei elektronikus úton való benyújtását az elektronikus úton való kapcsolattartás vállalásának kell tekinteni.
 
-(2) Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(2) Az elektronikus úton való kapcsolattartásra a Dáptv. rendelkezéseit kell alkalmazni.
 
 (3) Ha a kezdeményező az elektronikus úton való kapcsolattartást választotta, az elektronikus benyújtás alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papíralapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor,
 
@@ -2118,7 +2118,7 @@ való megfelelést szolgálja.
 - 1.20. a szakértő ellen
 - 1.20.1. közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
 - 1.20.2. indult fegyelmi eljárás során kiszabott fegyelmi büntetés;
-- 1.21. az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőség, ha a szakértő elektronikus kapcsolattartásra köteles vagy azt vállalja;
+- 1.21. a Dáptv. szerinti hivatalos elérhetőség, ha a szakértő elektronikus kapcsolattartásra köteles vagy azt vállalja;
 - 1.22. az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”);
 - 1.23. nyilatkozat arról, hogy az igazságügyi szakértő tevékenységét fő- vagy mellékállásban végzi;
 - 1.24. egyetemi vagy főiskolai végzettsége, a diploma minősítése;
@@ -2129,7 +2129,7 @@ való megfelelést szolgálja.
 - 2.3. cégjegyzékszám,
 - 2.4. adószám,
 - 2.5. elektronikus kézbesítési cím,
-- 2.6. az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőség,
+- 2.6. a Dáptv. szerinti hivatalos elérhetőség,
 - 2.7. szakterület,
 - 2.8. a vezető tisztségviselő neve,
 - 2.9. a vezető tisztségviselő lakóhelye,

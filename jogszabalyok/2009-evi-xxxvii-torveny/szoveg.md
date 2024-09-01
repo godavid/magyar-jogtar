@@ -300,7 +300,7 @@ erdőben – a (3) bekezdésben és a 73. § (6) bekezdésben foglalt eset kivé
 
 (3) Fásításban tervezett – a fa tövében mérve – 10 centimétert meghaladó átmérőjű fa kitermelését, annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
 
-(3a) A (3) bekezdés szerinti bejelentést az erdészeti hatóság felé az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 10. §-ának megfelelően kell benyújtani.
+(3a) A (3) bekezdés szerinti bejelentés tekintetében a bejelentő elektronikus ügyintézésre köteles. A (3) bekezdés szerinti bejelentést az erdészeti hatóság felé a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 20. §-ának megfelelően kell benyújtani.
 
 (4) Fásítás esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire [45. § (1) és (3)–(6) bekezdés], a károsítók károkozása elleni védelemre (58. § és 59. §), az erdő tűz elleni védelmére (64–67. §), a bejelentési kötelezettségre (102. §), a jogkövetkezményekre (105/E. § – 111/A. §) valamint az erdőben folyó tevékenységtől eltiltásra (111/B. §) vonatkozó rendelkezéseket is alkalmazni kell.
 
@@ -2237,7 +2237,7 @@ irányuló eljárásban.
 
 (9)
 
-(10) A miniszter az e törvényben foglalt hatósági nyilvántartásokhoz kapcsolódóan az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglaltakkal összhangban hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (a továbbiakban: Erdészeti Szakigazgatási Információs és Ügyintézési Rendszer) működtet.
+(10) A miniszter az e törvényben foglalt hatósági nyilvántartásokhoz kapcsolódóan a Dáptv.-ben foglaltakkal összhangban hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (a továbbiakban: Erdészeti Szakigazgatási Információs és Ügyintézési Rendszer) működtet.
 
 (11) Ha e törvény vagy a végrehajtására kiadott jogszabály valamely eljárás lefolytatására vonatkozóan az Erdészeti Szakigazgatási Információs és Ügyintézési Rendszer használatát írja elő, akkor az eljárásban
 

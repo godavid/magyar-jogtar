@@ -341,7 +341,7 @@ kell igazolnia.
 
 #### 17. Módosító rendelkezések
 
-35. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 4. § (2) bekezdését és 7. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 35. §
 
 35/A. § Ha a zálogjoggal biztosított követelés zálogjoggal való megterhelésére irányuló zálogszerződést a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi LXVII. törvény (a továbbiakban: Módtv.) hatálybalépésének napján vagy azt megelőzően kötötték, az alzálogjogot a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzése időpontjában az e törvénynek a Módtv. 135. §-ával megállapított 7. § (1a) bekezdése szerint megalapítottnak kell tekinteni.
 
