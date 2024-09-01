@@ -583,7 +583,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (8) Az árva művek felhasználásának engedélyezésével kapcsolatos részletes szabályokat kormányrendelet állapítja meg.
 
-41/C. § (1) A Hivatal a 41/B. §-ban szabályozott eljárásban – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+41/C. § (1) A Hivatal a 41/B. §-ban szabályozott eljárásban – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései szerint jár el.
 
 (2) Az általános közigazgatási rendtartásról szóló törvényt a következő eltérésekkel és kiegészítésekkel kell alkalmazni:
 
@@ -1529,7 +1529,7 @@ amennyiben a felhasználást az Ektv. 2. § 20. pontja szerinti szolgáltató va
 
 (5)
 
-94/C. § (1) A mű önkéntes nyilvántartásba vételére irányuló eljárásban a Hivatal az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
+94/C. § (1) A mű önkéntes nyilvántartásba vételére irányuló eljárásban a Hivatal a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
 (2) Az e §-ban szabályozott eljárásban – tájékoztatás kérése és annak teljesítése kivételével – elektronikus kapcsolattartásnak csak azonosításhoz kötött elektronikus úton van helye, tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján. A kérelemre megtekinthető iratokba való betekintést a Hivatal személyes megjelenéshez kötötten biztosítja.
 

@@ -274,7 +274,11 @@ Az olyan járművekre, amelyek a közforgalomban nem vesznek részt, a járműve
 - a) annak ellátásához megfelelő élettani adottságokkal rendelkezik,
 - b) foglalkoztatása az egészségét, testi épségét, illetve a fiatalkorú egészséges fejlődését károsan nem befolyásolja,
 - c) foglalkoztatása nem jelent veszélyt a munkavállaló reprodukciós képességére, magzatára,
-- d) mások egészségét, testi épségét nem veszélyezteti és a munkára – külön jogszabályokban meghatározottak szerint – alkalmasnak bizonyult. A munkára való alkalmasságról külön jogszabályban meghatározott orvosi vizsgálat alapján kell dönteni.
+- d) mások egészségét, testi épségét nem veszélyezteti és a munkára – jogszabályban meghatározottak szerint – alkalmasnak bizonyult.
+
+(1a) Jogszabályban meghatározott esetekben vagy a munkáltató erre irányuló döntése esetén – az (1b) bekezdésben meghatározott kivétellel – a munkára való alkalmasságról jogszabályban meghatározott orvosi vizsgálat alapján kell dönteni.
+
+(1b) Az (1a) bekezdést nem kell alkalmazni, ha szervezett munkavégzésre irányuló jogviszonyt szabályozó jogszabály az érintett tekintetében sajátos egészségi alkalmassági követelményről rendelkezik.
 
 (2) A tevékenység szerinti miniszter meghatározott munkakörök (foglalkozások) tekintetében előírhatja, hogy az (1) bekezdésben foglaltakon túl pályaalkalmassági vizsgálat is szükséges, továbbá a vizsgálat rendjét az egészségügyért felelős miniszterrel egyetértésben határozza meg.
 

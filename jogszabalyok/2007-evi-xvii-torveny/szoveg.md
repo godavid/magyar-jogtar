@@ -136,7 +136,7 @@ kell teljesíteni.
 - 31. vagyoni értékű támogatási jogosultság: a közvetlen támogatási intézkedések keretében az ügyfél számára megállapított olyan vagyoni értékű jog, amelynek azonosítását és nyilvántartását jogszabály írja elő.
 - 32. feltételesség: a közvetlen mezőgazdasági támogatások, valamint egyes vidékfejlesztési támogatások igénylése esetén betartandó, az Európai Parlament és Tanács 2021/2115/EU rendelet 12. cikke és III. melléklete szerinti egységes feltételrendszer;
 - 33. kamarai meghatalmazás: a jogszabályban meghatározott feltételekkel létrejött, képviseleti jogot létesítő jognyilatkozat, amely alapján a Magyar Agrár- Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) az agrár-, illetve vidékfejlesztési támogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként az ügyfelek képviseletében eljárhat;
-- 34. mobilGazda alkalmazás: a mezőgazdasági és vidékfejlesztési támogatási szerv által az ügyfelek számára biztosított, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 25. §-a szerinti, valós idejű és közvetlen kommunikációs lehetőséget biztosító, hatékonyabb ügyintézést célzó interaktív alkalmazás.
+- 34. mobilGazda alkalmazás: a mezőgazdasági és vidékfejlesztési támogatási szerv által az ügyfelek számára biztosított, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 39. §-a szerinti, valós idejű és közvetlen kommunikációs lehetőséget biztosító, hatékonyabb ügyintézést célzó interaktív alkalmazás.
 
 (2) Az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer (a továbbiakban: ügyfél-nyilvántartási rendszer) a mezőgazdasági és vidékfejlesztési támogatási szerv és az élelmiszerlánc-felügyeleti szerv hatáskörébe tartozó eljárásokban részt vevő ügyfelek azonosítását és törzsadatainak nyilvántartását szolgáló rendszer, amely tekintetében a törvény, valamint a törvény végrehajtására kiadott jogszabályok alkalmazásában:
 
@@ -663,7 +663,7 @@ külön rendelkezések
 
 (11) Ha az ügyfélnek több meghatalmazottja van vagy a meghatalmazottja mellett kamarai meghatalmazással is rendelkezik, az iratokat az adott intézkedésben utoljára iratot benyújtó, hatályos állandó vagy kamarai meghatalmazáson alapuló képviseleti joggal rendelkező részére kell kézbesíteni.
 
-(12) Folyamatban lévő támogatás esetén az ügy megindítását követően rendelkezési nyilvántartásba meghatalmazásra tett új ügyintézési rendelkezést, vagy annak módosítását a mezőgazdasági és vidékfejlesztési támogatási szerv csak akkor veszi figyelembe, ha azt az ügyfél a mezőgazdasági és vidékfejlesztési támogatási szervnek is bejelenti.
+(12)
 
 (13)
 
@@ -847,7 +847,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### Kapcsolattartás
 
-36/A. § (1) Az e törvény végrehajtására kiadott rendeletben meghatározott esetben a mezőgazdasági és vidékfejlesztési támogatási szerv kizárólag írásban vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben meghatározott elektronikus úton (a továbbiakban együtt: írásban) tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
+36/A. § (1) Az e törvény végrehajtására kiadott rendeletben meghatározott esetben a mezőgazdasági és vidékfejlesztési támogatási szerv kizárólag írásban vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben meghatározott elektronikus úton (a továbbiakban együtt: írásban) tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 
 (2) Az e törvény végrehajtására kiadott rendeletben meghatározott esetben a kapcsolattartás formáját a mezőgazdasági és vidékfejlesztési támogatási szerv tájékoztatása alapján az ügyfél választja meg. Az ügyfél a választott kapcsolattartási módról más – a mezőgazdasági és vidékfejlesztési támogatási szervnél rendelkezésre álló – módra áttérhet a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatvány alkalmazásával. A bejelentett kapcsolattartási forma megváltoztatása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a másik kapcsolattartási formára történő áttérés ügyfél vagy meghatalmazottja általi bejelentését követő tíz napon belül keletkezett iratokat a korábbi kapcsolattartási formában is kézbesítheti.
 
@@ -1299,7 +1299,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 55/A. § (1) A döntést az ügyféllel, illetve a képviselővel írásban, kötelező elektronikus kérelembenyújtás esetén – amennyiben jogszabály másként nem rendelkezik – elektronikus úton kell közölni.
 
-(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton kézbesíti.
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti elektronikus úton kézbesíti.
 
 (3) A döntés közlésének napja az a nap, amelyen azt kézbesítették.
 
@@ -1920,7 +1920,7 @@ kapcsolatos eljárások.
 
 (2) Az (1) bekezdés szerinti támogatást kihelyező szerv adatkezelési tevékenységének a 26. § (1) bekezdés a) és b) pontja szerinti nyilvántartási rendszereken belül, a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő valamennyi adatkörtől megkülönböztethető módon kell megvalósulnia.
 
-(3) Az (1) bekezdés szerinti eljárásokban, ideértve a nyilvántartásba vételt is, meghatalmazott eljárásának nincs helye, valamint kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus kapcsolattartásra van lehetőség.
+(3) Az (1) bekezdés szerinti eljárásokban, ideértve a nyilvántartásba vételt is, meghatalmazott eljárásának nincs helye, valamint kizárólag a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti elektronikus kapcsolattartásra van lehetőség.
 
 (4) Az (1) bekezdés szerinti támogatást kihelyező szerv a 26. § (3) bekezdés 7., 10., 11., 15–18., 24., 28., 33. pontja szerinti nyilvántartásokból az e törvényben meghatározott módon vehet át és kezelhet adatokat. A más szerv, illetve szervezet nyilvántartásából átvett adatot csak a támogatást igénylő, valamint ha az ellátást más személyre tekintettel állapítják meg, úgy e személy személyazonosításához, a támogatáshoz való jogosultság megállapításához, a támogatás folyósításához, a támogatáshoz kapcsolódó feltételek ellenőrzéséhez, valamint a tényállás tisztázásához használhatja fel. Ezen szabály alkalmazandó arra az adatkezelésre is, amennyiben a támogatást kihelyező szerv törvény alapján további nyilvántartásokban szereplő adatok kezelésére is jogosult az (1) bekezdés szerinti támogatások vonatkozásában.
 

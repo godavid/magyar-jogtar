@@ -121,6 +121,8 @@ ha az e törvényben és más jogszabályban meghatározott feltételek szerint,
 
 6/A. § E törvényben foglalt célok és gyermeki jogok biztosítása érdekében tilos tizennyolc éven aluliak számára pornográf, valamint olyan tartalmat elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
 
+6/B. § A gyermek- és ifjúságpolitikáért felelős miniszter feladata a gyermekeket érő elektroakusztikus zaj egészségkárosító hatásait mérséklő és e zajforrások által kiváltott hatásokkal szembeni védekezéssel kapcsolatos tudatosságot elősegítő intézkedések kezdeményezése. A miniszter e célok elérése érdekében tájékoztató kampányokat kezdeményez, amelyek segítik a szülői tudatosságot és ösztönözik az elektroakusztikus hangosítás igénybevétele mellett tartott nyilvános rendezvények szervezőit az egészségmegóvás támogatására.
+
 7. § (1) A gyermek szüleitől vagy más hozzátartozóitól csak saját érdekében, törvényben meghatározott esetekben és módon választható el. A gyermeket kizárólag anyagi okból fennálló veszélyeztetettség miatt nem szabad családjától elválasztani.
 
 (2) A gyermeknek joga van – örökbefogadó családban vagy más, családot pótló ellátás formájában – a szülői vagy más hozzátartozói gondoskodást helyettesítő védelemhez. A gyermek átmeneti gondozását és otthont nyújtó ellátását elsősorban befogadó szülőnél kell biztosítani. A tizenkét év alatti gyermek befogadó szülőnél történő elhelyezésétől kizárólag akkor lehet eltekinteni, ha
@@ -556,7 +558,20 @@ gyakorolja.
 
 (3c) A (3b) bekezdés szerinti jelzési kötelezettség 24 órán belül történő nem teljesítése esetén a (3b) bekezdés a) pontjában meghatározott szerv, valamint a gyermekvédelmi gyám szabálysértési eljárást kezdeményez.
 
-(4) Ha az (1) bekezdés a)–i) és k)–m) pontjában meghatározott személy vagy az (1) bekezdés a)–i) és k)–m) pontja szerinti szerv alkalmazottja a (2) vagy (3) bekezdésben foglalt jelzési vagy együttműködési kötelezettségének nem tesz eleget, a gyámhatóság – jelzésre vagy hivatalból – értesíti a fegyelmi jogkör gyakorlóját és javaslatot tesz az érintett személlyel szembeni fegyelmi felelősségre vonás megindítására. A gyermek sérelmére elkövetett bűncselekmény gyanúja esetén a gyámhatóság büntetőeljárást kezdeményez.
+(4) Ha az (1) bekezdésben meghatározott személy vagy szerv alkalmazottja a (2) vagy (3) bekezdésben foglalt jelzési vagy együttműködési kötelezettségének nem tesz eleget, a gyámhatóság – jelzésre vagy hivatalból – értesíti a fegyelmi jogkör gyakorlóját és javaslatot tesz az érintett személlyel szembeni fegyelmi felelősségre vonás megindítására. A gyermek sérelmére elkövetett bűncselekmény gyanúja esetén a gyámhatóság büntetőeljárást kezdeményez.
+
+(4a) Ha az (1) bekezdésben meghatározott személy vagy szerv alkalmazottja, illetve vezetője kiemelt veszélyeztető okra utaló körülményt észlel, és haladéktalanul, de legkésőbb három munkanapon belül nem tesz eleget a (2) bekezdésben meghatározott jelzési vagy kezdeményezési kötelezettségének, vagy nem tesz feljelentést, büntetőjogi felelősségre vonásának van helye.
+
+(4b) Ha az (1) bekezdésben meghatározott szerv alkalmazottja a (2) bekezdésben meghatározott jelzési vagy kezdeményezési kötelezettséget nem közvetlenül, hanem a szerv vezetője, vagy arra kijelölt személy útján gyakorolja, kiemelt veszélyeztető okra utaló körülmény észlelése esetén haladéktalanul, de legkésőbb három munkanapon belül köteles azt a szerv vezetőjénél vagy a kijelölt személynél kezdeményezni. A szerv vezetője vagy az arra kijelölt személy a kezdeményezést követő három munkanapon belül teljesíti a (2) bekezdésben foglalt kötelezettséget, amelynek elmulasztása büntetőjogi felelősségre vonással jár.
+
+(4c) Ha a gyermekjóléti szolgáltatást nyújtó szolgáltató munkatársa vagy a gyámhatóság ügyintézője a kiemelt veszélyeztető okra vonatkozó jelzésnek vagy kezdeményezésnek haladéktalanul, de legkésőbb három munkanapon belül nem kezdi meg a vizsgálatát, büntetőjogi felelősségre vonásának van helye.
+
+(4d) A (4a)–(4c) bekezdés alkalmazásában kiemelt veszélyeztető okra utaló körülmények:
+
+- a) a gyermek szexuális bántalmazására utaló körülmények közül miniszteri rendeletben meghatározottak,
+- b) a gyermek fizikai bántalmazására utaló körülmények közül miniszteri rendeletben meghatározottak,
+- c) a gyermek elhanyagolására utaló körülmények közül miniszteri rendeletben meghatározottak és
+- d) a gyermek által megkísérelt öngyilkosság, ha a gyermek még nem részesül egészségügyi ellátásban, gyermekjóléti alapellátásban vagy gyermekvédelmi szakellátásban, illetve pszichés megsegítésben.
 
 (5) A gyámhatóság a (4) bekezdésben foglaltakkal egyidejűleg egyeztető megbeszélést tart és a gyermekjóléti szolgáltatást nyújtó szolgáltatónál kezdeményezi a külön jogszabály szerinti esetmegbeszélés megtartását.
 
@@ -5272,7 +5287,7 @@ módosítja.
 
 (5) Ha a fiatal felnőtt részére 2016. május 1-jén még folyósítással érintett otthonteremtési támogatás lakás-előtakarékossági programban való részvétel céljából került megállapításra és az utógondozást a Gyvt. 92. § (1) bekezdés c) pontjában foglaltak miatt rendelték el, a gyámhatóság 2016. július 31-éig felmenti az utógondozót. Az utógondozó felmentésétől el lehet tekinteni, ha a 2016. május 1-je és 2016. október 31-e közötti időszakban a lakás-előtakarékossági szerződésben foglalt megtakarítási idő lejár.
 
-178. § Ha a gyámhatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 178. §
 
 179. § (1) Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvénnyel megállapított 75. § c) pontját, 78. § (2) bekezdés b) pontját, 79. § (5) bekezdés b) pontját, 90. és 91. §-át a helyettes gyermekvédelmi gyám tekintetében a 2017. január 1-jén folyamatban lévő gyámrendelési eljárásokban, valamint az ideiglenes hatályú elhelyezésnek és a nevelésbe vételnek a 2016. december 31-ét követő felülvizsgálata során is alkalmazni kell.
 

@@ -3217,7 +3217,7 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 
 (2) A vasúti pályahálózat vagyonkezelőjének az e törvény 2015. július 17-ig hatályos 85/A. §-a alapján keletkezett vagyonkezelői jogával összefüggő jogok és kötelezettségek tekintetében e törvény 2015. július 17-én hatályos 85/A. §-ában foglaltakat kell alkalmazni a 2015. július 18. és az egyes közúti és vasúti közlekedéssel, valamint fogyasztóvédelemmel összefüggő törvények módosításáról szóló 2015. évi CCXXV. törvény hatálybalépése közötti időszakra nézve is.
 
-87/G. § Ha a közlekedési hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 87/G. §
 
 87/H. § Az egyes közlekedési tárgyú törvények módosításáról szóló 2017. évi LXIII. törvény (a továbbiakban: Vtvmódtv2.) hatálybalépésekor folyamatban lévő eljárásokban a Vtvmódtv2. rendelkezéseit kell alkalmazni.
 

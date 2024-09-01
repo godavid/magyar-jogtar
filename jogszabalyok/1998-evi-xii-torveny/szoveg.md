@@ -332,7 +332,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (7)
 
-(8) A kérelmező a magánútlevél és második magánútlevél elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának tényét – a 32/A. § (1) bekezdés a) pontjában meghatározott hozzájárulástól függetlenül – elektronikus, illetve hangkapcsolatot biztosító elektronikus úton is bejelentheti.
+(8) A kérelmező a magánútlevél és második magánútlevél elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának tényét – a 32/A. § (1) bekezdés a) pontjában meghatározott hozzájárulástól függetlenül – elektronikuskapcsolattartás útján is bejelentheti.
 
 (9) A szülői hozzájáruló nyilatkozat megtételére elektronikus kapcsolattartás útján is sor kerülhet.
 

@@ -1370,7 +1370,7 @@ a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határ
 
 (7)
 
-(8) Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseire is figyelemmel – az elektronikus kapcsolattartást választja, az e törvényben és a Vhr.-ben a felhasználó és a hálózati engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.
+(8) Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezéseire is figyelemmel – az elektronikus kapcsolattartást választja, az e törvényben és a Vhr.-ben a felhasználó és a hálózati engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.
 
 (9) Ha jogszabály eltérően nem rendelkezik, a hálózati engedélyes és a felhasználó jogviszonya vonatkozásában előírt írásbeliség követelményének a hálózati engedélyes és a felhasználó bármely olyan módon eleget tehet, amellyel a jognyilatkozat változatlan formában és tartalommal megjeleníthető, továbbá a nyilatkozattevő személye és a nyilatkozat megtételének időpontja egyértelműen megállapítható. E követelménynek megfelel az engedélyes által biztosított informatikai felületen rögzített kommunikáció.
 

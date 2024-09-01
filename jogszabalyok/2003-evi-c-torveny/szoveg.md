@@ -3347,7 +3347,7 @@ tekinthetnek be.
 
 (2) Mentesül a KEHTA-hoz való csatlakozási kötelezettség alól az a nyilvános internethozzáférés-szolgáltatást nyújtó szolgáltató, amely kizárólag olyan más elektronikus hírközlési szolgáltatón keresztül csatlakozik a Budapesti Adatkicserélő Központhoz (BIX) és a nemzetközi adatkicserélő központokhoz, amely szolgáltató már csatlakozott a KEHTA-hoz.
 
-(3) A KEHTA és a hozzáférést biztosító elektronikus hírközlési szolgáltatók, illetve a kereső- és gyorsítótár-szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. A bíróság, illetve a külön törvényben meghatározott hatóság és a Hatóság közötti elektronikus kapcsolattartás a biztonságos kézbesítési szolgáltatás útján történik.
+(3) A KEHTA és a hozzáférést biztosító elektronikus hírközlési szolgáltatók, illetve a kereső- és gyorsítótár-szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. A bíróság, illetve a külön törvényben meghatározott hatóság és a Hatóság közötti elektronikus kapcsolattartás az ajánlott elektronikus kézbesítési szolgáltatás útján történik.
 
 (4) A Hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató kérésére – a rendelkezésére álló technikai lehetőségekhez képest – közreműködik a határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítések végrehajtásához szükséges technikai környezet biztosításában.
 

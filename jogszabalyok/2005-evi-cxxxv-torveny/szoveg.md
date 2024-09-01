@@ -544,13 +544,13 @@ kísérése
 - a) ha az (1) bekezdés szerinti tájékoztatásra a sértett tanúkénti kihallgatásakor kerül sor, a kihallgatást követően,
 - b) ha az (1) bekezdés szerinti tájékoztatásra a feljelentés megtételekor kerül sor, a nyomozás elrendelését követően
 
-lehetőség szerint azonnal, de legfeljebb két munkanapon belül az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján továbbítja az áldozatsegítő szolgálat részére.
+lehetőség szerint azonnal, de legfeljebb két munkanapon belül a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján továbbítja az áldozatsegítő szolgálat részére.
 
 (5) A büntetőeljárásról szóló törvény szerinti zárt adatkezelés esetén az általános nyomozó hatóság az érintett zártan kezelt adatait a (4) bekezdésben foglaltaktól eltérően papíralapon továbbítja az áldozatsegítő szolgálat részére.
 
 43/B. § (1) Az áldozatsegítő szolgálat a 43/A. § (4) bekezdésében meghatározott adatok megérkezését követő két munkanapon belül intézkedik az érintettel történő kapcsolatfelvétel iránt, és tájékoztatást nyújt számára a 24. § (1) bekezdésében foglaltak szerint.
 
-(2) A kapcsolatfelvétel írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton, vagy személyesen, írásbelinek nem minősülő elektronikus úton is történhet. A kapcsolatfelvétel módjai közül lehetőség szerint azt kell választani, amelyet az érintett a hozzájárulásában elsődlegesnek jelölt.
+(2) A kapcsolatfelvétel írásban, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus úton, vagy személyesen, írásbelinek nem minősülő elektronikus úton is történhet. A kapcsolatfelvétel módjai közül lehetőség szerint azt kell választani, amelyet az érintett a hozzájárulásában elsődlegesnek jelölt.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

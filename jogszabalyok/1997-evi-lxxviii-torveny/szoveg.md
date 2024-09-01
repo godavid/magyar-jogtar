@@ -1499,7 +1499,7 @@ felelős miniszterek képviselőinek részvételével működő bizottság (a to
 
 57/I. § (1) Az Üvegkapu használatát megelőzően – kormányrendeletben meghatározottak szerint – valamennyi foglalkoztató köteles a rendszerben regisztrálni, és a regisztrációját szükség szerint frissíteni.
 
-(2) Az (1) bekezdés szerinti regisztráció, annak módosítása vagy törlése, valamint a regisztrációra kötelezett nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a szabályozott és központi elektronikus ügyintézési szolgáltatásokra vonatkozó egyéb szabályok megfelelő alkalmazásával, elektronikus úton történik.
+(2) Az (1) bekezdés szerinti regisztráció, annak módosítása vagy törlése, valamint a regisztrációra kötelezett nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a szabályozott és központi elektronikus ügyintézési szolgáltatásokra vonatkozó egyéb szabályok megfelelő alkalmazásával, elektronikus úton történik.
 
 (3) Az (1) bekezdés szerinti regisztráció – ha kormányrendelet további feltételeket nem állapít meg – tartalmazza
 
@@ -1864,7 +1864,7 @@ is alkalmazni kell.
 
 (2)
 
-61/A. § Ha az építésügyi vagy építésfelügyeleti hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az 53/A. §-nak a 2016. december 31-én hatályos előírásait kell alkalmazni.
+#### 61/A. §
 
 61/B. § E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Mód4. tv.) megállapított 57/C–57/F. §-át a kereskedelmi építmények építési engedélyezési vagy rendeltetésmódosítási eljárásában – amennyiben a Mód4. tv. hatálybalépésekor fellebbezési eljárás van folyamatban –, a fellebbezés elbírálása során e törvénynek a Mód4. tv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 

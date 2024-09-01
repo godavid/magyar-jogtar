@@ -568,7 +568,7 @@ elnökének véleményét.
 
 (2) A bíró az elektronikus aláírással kapcsolatos szolgáltatáshoz az OBH elnöke által megjelölt elektronikus aláírással kapcsolatos szolgáltatást nyújtót (a továbbiakban: Bizalmi szolgáltatót) veszi igénybe.
 
-(3) A bíró az elektronikus aláírásával kapcsolatos szolgáltatás igénybevétele, fenntartása, illetve megszüntetése során az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) rendelkezései szerint jár el. A bíró a Bizalmi szolgáltató részére nyújtott tájékoztatással egyidejűleg értesíti az OBH elnökét az E-ügyintézési tv. 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről.
+(3) A bíró az elektronikus aláírásával kapcsolatos szolgáltatás igénybevétele, fenntartása, illetve megszüntetése során a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) rendelkezései szerint jár el. A bíró a Bizalmi szolgáltató részére nyújtott tájékoztatással egyidejűleg értesíti az OBH elnökét a Dáptv. 89. § (1) bekezdése és 101. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről.
 
 (4) Az aláírás-létrehozó adat elvesztését vagy illetéktelen személy tudomására jutását a bíró az OBH elnökének is haladéktalanul jelenti, aki erről értesíti a Bizalmi szolgáltatót. A Bizalmi szolgáltató az OBH elnökének megkeresésére akkor köteles a tanúsítványt haladéktalanul visszavonni, ha az aláírás-létrehozó adat elvesztéséről vagy illetéktelen személy tudomására jutásáról szóló bejelentést részére a bíró korábban nem tette meg.
 
@@ -1412,7 +1412,7 @@ kezdődik.
 
 - a) igazságügyi szerv részére,
 - b) törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére,
-- c) az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az E-ügyintézési tv. szerint szükséges mértékben a Bizalmi szolgáltató részére
+- c) az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához a Dáptv. szerint szükséges mértékben a Bizalmi szolgáltató részére
 
 lehet adatot továbbítani.
 

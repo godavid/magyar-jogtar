@@ -1905,7 +1905,7 @@ részére adható át.
 
 (6) A hulladékgazdálkodási hatóság részére az e törvényben meghatározott feladatai ellátása – különösen az e törvény hatálya alá tartozó termékek nyomon követhetősége – érdekében az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény (a továbbiakban: Útdíjtörvény) szerinti útdíjszedő az Útdíjtörvény 26. § (3) bekezdése alapján az általa kezelt adatkörből, valamint a közúti közlekedésről szóló 1988. I. törvény (a továbbiakban: Kkt.) 45. § (5) bekezdésében kijelölt szervezet az általa a Kkt. 45. § (5) bekezdése alapján kezelt adatkörből a hulladékgazdálkodási hatóság megkeresésére elektronikus úton adatszolgáltatást végez.
 
-(7) A hulladékgazdálkodási hatóságtól az adatok, illetve az adatok meghatározott szempontú csoportosításban történő továbbítása, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti egyszerű vagy automatikus információ átadás útján rendszeres vagy eseti jelleggel is igényelhető jogszabályban meghatározottak szerint.
+(7) A hulladékgazdálkodási hatóságtól az adatok, valamint az adatok meghatározott szempontú csoportosításban történő továbbítása a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti információ átadás útján rendszeres vagy eseti jelleggel is igényelhető jogszabályban meghatározottak szerint.
 
 ### X. Fejezet — A HULLADÉKGAZDÁLKODÁSSAL KAPCSOLATOS EGYES HATÓSÁGI TEVÉKENYSÉGEK
 

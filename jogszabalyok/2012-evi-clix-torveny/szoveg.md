@@ -520,7 +520,7 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 - a) a nyugdíjak, segélyek és egyéb állami juttatások jogosultnak való kifizetésében történő közreműködés;
 - b) az a) pontban meg nem határozott pénzforgalmi szolgáltatások nyújtása;
-- c) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus ügyintézési pontban az elektronikus kapcsolattartási rendszerhez történő hozzáférés biztosítása, a Magyarország helyi önkormányzatairól szóló törvény szerinti ügyfélszolgálati megbízotti vagy egyéb, az ügyfeleknek az állami, önkormányzati vagy egyéb szolgáltatásokhoz történő hozzáférését, illetve ügyintézését elősegítő szolgáltatás;
+- c) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus ügyintézési pontban az elektronikus kapcsolattartási rendszerhez történő hozzáférés biztosítása, a Magyarország helyi önkormányzatairól szóló törvény szerinti ügyfélszolgálati megbízotti vagy egyéb, az ügyfeleknek az állami, önkormányzati vagy egyéb szolgáltatásokhoz történő hozzáférését, illetve ügyintézését elősegítő szolgáltatás;
 - d) a c) pontban meghatározottaktól eltérő egyéb szabályozott elektronikus ügyintézési szolgáltatások nyújtása vagy a digitális kultúra terjesztésében történő közreműködői tevékenység.
 
 (3) A miniszter vagy valamely közszolgáltatás vagy általános gazdasági érdekű szolgáltatás kielégítéséért felelős szervezet vezetője által kezdeményezett közszolgáltatási szerződés esetében az egyetemes postai szolgáltatót szerződéskötési kötelezettség terheli amennyiben
@@ -992,7 +992,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 65. § (1) A Hatóság egyes eljárásaiban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait az egyes eljárástípusok keretében az e törvényben meghatározott eltérésekkel és kiegészítésekkel alkalmazza.
 
-(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon, elektronikus úton terjesztheti elő. A kérelem kormányablaknál nem terjeszthető elő.
+(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon, elektronikus úton terjesztheti elő. A kérelem kormányablaknál nem terjeszthető elő.
 
 (3) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – hatvan nap.
 

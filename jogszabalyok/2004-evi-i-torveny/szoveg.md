@@ -2360,7 +2360,7 @@ kezeli.
 
 (5) A MOB jogutódja diák-hallgatói és a szabadidősporttal kapcsolatos feladatai tekintetében az NDHSZ.
 
-78/F. § Ha a sportpolitikáért felelős miniszter az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 78/F. §
 
 78/G. § A 61. § (12) bekezdés c) pontját a 2012. január 1-jét követően megrendezett olimpia, Paralimpia, Sakkolimpia és Siketlimpia tekintetében kell alkalmazni.
 

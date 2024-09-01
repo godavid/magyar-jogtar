@@ -847,12 +847,12 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 - b) az ügyfél adóazonosító jele vagy adószáma,
 - c) az ügyfél számlaszáma, IBAN száma,
 - d) a nem természetes személy ügyfél
-  - da) cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetősége, telefonszáma,
+  - da) cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény (a továbbiakban: Dáptv.) szerinti hivatalos elérhetősége, telefonszáma,
   - db) természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
 - e) a természetes személy ügyfél természetes személy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma, valamint
 - f) az üggyel érintett ingatlan
   - fa) természetes személy tulajdonosának természetes személyazonosító adatai,
-  - fb) nem természetes személy tulajdonosának cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, az E-ügyintézési tv. szerinti hivatalos elérhetősége, telefonszáma, természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma.
+  - fb) nem természetes személy tulajdonosának cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, a Dáptv. szerinti hivatalos elérhetősége, telefonszáma, természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma.
 
 (2) Az (1) bekezdés alapján kezelt adat – ha törvény eltérően nem rendelkezik – más szerv vagy személy részére nem továbbítható.
 
@@ -899,7 +899,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 ### VII/C. Fejezet — A HIVATÁSOS KATASZTRÓFAVÉDELMI SZERV HATÁSKÖRÉBE UTALT HATÓSÁGI ELJÁRÁSOK ELEKTRONIKUS ÜGYINTÉZÉSÉNEK KÜLÖNÖS SZABÁLYAI
 
-79/B. § (1) A hivatásos katasztrófavédelmi szerv a hatáskörébe utalt hatósági eljárások gyors és hatékony lefolytatása érdekében törvényben vagy kormányrendeletben meghatározott eljárásokban az E-ügyintézési tv. 2. § (1) bekezdése alapján az ügy elektronikus intézéséhez elektronikus Integrált Hatósági Rendszert (a továbbiakban: IHR) biztosít.
+79/B. § (1) A hivatásos katasztrófavédelmi szerv a hatáskörébe utalt hatósági eljárások gyors és hatékony lefolytatása érdekében törvényben vagy kormányrendeletben meghatározott eljárásokban a Dáptv. 18. § (1) bekezdése és 20. §-a alapján az ügy elektronikus intézéséhez elektronikus Integrált Hatósági Rendszert (a továbbiakban: IHR) biztosít.
 
 (2) A hivatásos katasztrófavédelmi szerv hatáskörébe utalt, törvényben meghatározott hatósági eljárásaiban az ügyfél – az elektronikus azonosítását követően – a kérelmét és egyéb beadványait az IHR-en keresztül nyújtja be a hivatásos katasztrófavédelmi szerv részére, illetve a hivatásos katasztrófavédelmi szerv az általa kiállított dokumentumokat az IHR-be tölti fel.
 

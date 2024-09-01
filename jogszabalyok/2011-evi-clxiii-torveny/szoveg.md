@@ -709,7 +709,7 @@ kell érteni.
 
 (3) Az elutasított óvás miatt indult bírósági eljárást hivatalból meg kell szüntetni, kivéve, ha abban bíróság már érdemben határozott.
 
-41/A. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított IV/A. Fejezetét 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 41/A. §
 
 41/B. § (1) E törvénynek a titkos információgyűjtésre vonatkozó 2018. június 30-ig hatályban volt rendelkezéseit a folyamatban lévő titkos információgyűjtésekre 2019. január 1-ig alkalmazni kell.
 

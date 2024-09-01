@@ -647,7 +647,7 @@ vonatkozó rendelkezéseit azzal, hogy az ügyfélre vonatkozó szabályokat az 
 
 43/H. § (1) Bejelentés a Gazdasági Versenyhivatal által a honlapján közzétett formátumú, megfelelően kitöltött űrlap Gazdasági Versenyhivatalhoz történő benyújtásával tehető. Az űrlap tartalmazza a bejelentés elbírálásához szükséges lényeges tényeket, így különösen a bejelentő és a bejelentett azonosításához szükséges adatokat, a feltételezett jogsértés megjelölését, a feltételezett jogsértést megvalósító konkrét magatartás leírását, az érintett piac meghatározásához szükséges alapvető információkat, a feltételezett jogsértés időtartamát, a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és bizonyítékokat.
 
-(1a) Nem kérhető a bejelentéshez olyan okirat vagy más irat csatolása, amely az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: Eüsztv.) alapján beszerezhető, valamint – a bejelentő, illetve a bejelentett azonosításához szükséges adatok kivételével – olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
+(1a) Nem kérhető a bejelentéshez olyan okirat vagy más irat csatolása, amely a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) alapján beszerezhető, valamint – a bejelentő, illetve a bejelentett azonosításához szükséges adatok kivételével – olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
 
 (2) A bejelentéssel kapcsolatos eljárásra – ha e törvény eltérően nem rendelkezik – megfelelően alkalmazni kell az Ákr.-nek
 
@@ -708,7 +708,7 @@ vonatkozó rendelkezéseit azzal, hogy ügyfél alatt a bejelentőt és – az a
 
 43/J. § (1) A 24. § szerinti összefonódás-bejelentést a Gazdasági Versenyhivatal által a honlapján közzétett formátumú, megfelelően kitöltött összefonódás-bejelentési űrlapon kell benyújtani. Az összefonódás-bejelentésnek az elintézéséhez szükséges valamennyi tényt, adatot tartalmaznia kell, és ahhoz csatolni kell az űrlapban megjelölt iratokat.
 
-(1a) Nem kérhető az összefonódás-bejelentéshez olyan okirat vagy más irat csatolása, amely az Eüsztv. alapján beszerezhető, valamint – az összefonódást bejelentő és az 52. § a) pont aa) alpontjában megjelölt egyéb vállalkozások azonosításához szükséges adatok kivételével – olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
+(1a) Nem kérhető az összefonódás-bejelentéshez olyan okirat vagy más irat csatolása, amely a Dáptv. alapján beszerezhető, valamint – az összefonódást bejelentő és az 52. § a) pont aa) alpontjában megjelölt egyéb vállalkozások azonosításához szükséges adatok kivételével – olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
 
 (1b) A nem a 28. § (1) bekezdése szerinti személytől származó vagy a 28. § (2) bekezdésében megjelölt időpontot megelőzően benyújtott összefonódás-bejelentéshez az e törvény szerinti jogkövetkezmények – a 43/M. § szerinti díjfizetési kötelezettséget ide nem értve – nem fűződnek.
 
@@ -865,7 +865,7 @@ az eljáró személyek, kizárás
 53/A. § (1) A Gazdasági Versenyhivatal
 
 - a) írásban,
-- b) az Eüsztv.-ben meghatározott elektronikus úton,
+- b) a Dáptv.-ben meghatározott elektronikus úton,
 - c) írásbelinek nem minősülő elektronikus úton vagy
 - d) személyesen
 
@@ -1184,7 +1184,7 @@ meghosszabbíthatja.
 
 64/B. § (1) A vizsgáló, illetve az eljáró versenytanács felhívására az ügyfél köteles közölni a tényállás tisztázásához, illetve az eljárás eredményes lefolytatásához szükséges, és számára – elektronikus adat esetében az adat tárolásának helyétől és módjától függetlenül – hozzáférhető adatot, ideértve a személyes és – ha az érintett adat védelmét szabályozó törvény azt nem zárja ki – a védett adatot is.
 
-(2) A vizsgáló, illetve az eljáró versenytanács, ha a tényállás tisztázásához szükséges és az Eüsztv. alapján nem szerezhető be, felhívhatja az ügyfelet okirat vagy más irat bemutatására. Nem kérhető az ügyféltől – az ügyfél azonosításához szükséges adatok kivételével – olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
+(2) A vizsgáló, illetve az eljáró versenytanács, ha a tényállás tisztázásához szükséges és a Dáptv. alapján nem szerezhető be, felhívhatja az ügyfelet okirat vagy más irat bemutatására. Nem kérhető az ügyféltől – az ügyfél azonosításához szükséges adatok kivételével – olyan adat, amely nyilvános, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
 
 (3) Az ügyfél jogsértést beismerő nyilatkozatot nem köteles tenni, azonban az egyéb, rá nézve terhelő bizonyíték rendelkezésre bocsátását, adat, irat szolgáltatását nem tagadhatja meg.
 

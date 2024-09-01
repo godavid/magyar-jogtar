@@ -412,7 +412,7 @@ tartalmazza.
 
 (4) A nemzeti kapcsolattartó szerv a más tagállamban működő nemzeti kapcsolattartó szerv által megküldött személyazonosító és egészségügyi adatokat a 4. § (2) bekezdés zs) pontjában meghatározott célból a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében, az egészségügyi ellátás igénybevételének elősegítése céljából továbbítja az egészségügyi ellátást nyújtó egészségügyi szolgáltató, illetve a gyógyszertár részére.
 
-(5) A nemzeti kapcsolattartó szerv a (2) és (4) bekezdés szerinti adattovábbítás céljából az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti szabályozott elektronikus ügyintézési szolgáltatást, illetve központi elektronikus ügyintézési szolgáltatást vehet igénybe.
+(5) A nemzeti kapcsolattartó szerv a (2) és (4) bekezdés szerinti adattovábbítás céljából elektronikus ügyintézési szolgáltatást, illetve központi elektronikus ügyintézési szolgáltatást vehet igénybe.
 
 19/B. § A finanszírozási szerződéssel nem rendelkező egészségügyi szolgáltató a határon átnyúló egészségügyi ellátás keretében ellátott, a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti uniós beteg (a továbbiakban: uniós beteg) részére nyújtott ellátásról – havonta, a tárgyhót követő 15. napig, személyazonosításra alkalmatlan módon – a következő adatokat szolgáltatja az egészségügyi államigazgatási szerv részére:
 
@@ -595,6 +595,27 @@ az egészségi alkalmassági vizsgálatot végző orvos jogosult az érintett sz
 
 27. § A személyazonosításra alkalmatlan egészségügyi adat időbeli és területi korlát nélkül továbbítható.
 
+27/A. § (1) Ha betegség vagy annak gyanúja miatt az óvodai foglalkozásról, tanuló esetében a tanítási óráról és egyéb foglalkozásról, valamint a kollégiumi foglalkozásról történő távolmaradás igazolásához orvosi igazolás szükséges, a nemzeti köznevelésről szóló törvény szerinti szülő (a továbbiakban: szülő) – tizennegyedik életévet betöltött tanuló esetében a tanuló szülője vagy a tanuló – kérésére az igazolás kiállítására köteles orvos az igazolást az EESZT és a (4) bekezdés szerinti üzemeltető útján soron kívül továbbítja a köznevelési vagy szakképző intézmény számára.
+
+(2) Az (1) bekezdés szerinti elektronikus igazolás (a továbbiakban: elektronikus igazolás) a következő adatokat tartalmazza:
+
+- a) a beteg társadalombiztosítási azonosító jelét,
+- b) a beteg születési dátumát,
+- c) az igazolt időszak kezdő és befejező dátumát,
+- d) a testnevelésórára vonatkozó felmentés időszakát,
+- e) az elektronikus igazolás kiállításának időpontját,
+- f) az elektronikus igazolást kiállító egészségügyi szolgáltató azonosító adatait,
+- g) az elektronikus igazolást kiállító orvos azonosítóját (pecsétszámát és nevét), kapcsolattartási adatait,
+- h) az egészségügyi ellátás EESZT-naplósorszámát.
+
+(3) Az EESZT működtetője biztosítja, hogy az elektronikus igazolást az igazolás kiállítására köteles orvos úgy továbbítsa, hogy a (2) bekezdés c)–h) pontja szerinti adat kizárólag az igazolást kiállító egészségügyi szolgáltató és a gyermek vagy tanuló nevelési, oktatási feladatait ellátó köznevelési vagy szakképző intézmény számára váljon megismerhetővé. A gyermek vagy tanuló nevelési, oktatási feladatait ellátó köznevelési vagy szakképző intézmény biztosítja, hogy a (4) bekezdés szerinti tanulmányi rendszerhez hozzáféréssel rendelkező gyerek, tanuló, szülő az elektronikus igazolást megismerhesse.
+
+(4) A nemzeti köznevelésről szóló törvény szerinti tanulmányi rendszer üzemeltetője, valamint a szakképzésről szóló törvény szerinti regisztrációs és tanulmányi alaprendszer üzemeltetője a (2) bekezdés a) és b) pontja szerinti adatot a gyermek vagy tanuló nevelési, nevelési-oktatási feladatait ellátó köznevelési vagy szakképző intézmény beazonosításának céljából, az elektronikus igazolásnak a köznevelési vagy szakképző intézménybe történő továbbításáig kezeli.
+
+(5) A gyermek vagy tanuló nevelési, nevelési-oktatási feladatait ellátó köznevelési vagy szakképző intézmény a (2) bekezdésben foglalt adatokat az adott nevelési év, illetve tanév végéig kezeli.
+
+(6) Az elektronikus igazolást a távolmaradás hiteles igazolásának kell tekinteni.
+
 ### Az egészségügyi és személyazonosító adatok nyilvántartása
 
 28. § (1) Az érintettről felvett, a gyógykezelés érdekében szükséges egészségügyi és személyazonosító adatot, valamint azok továbbítását nyilván kell tartani. Az adattovábbításról szóló feljegyzésnek tartalmaznia kell az adattovábbítás címzettjét, módját, időpontját, valamint a továbbított adatok körét.
@@ -703,7 +724,7 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 35/A. § (1) A Kormány által rendeletben kijelölt szerv működtetőként ellátja az EESZT, mint az egészségügyi ellátóhálózat informatikai rendszereinek együttműködését biztosító, az e törvényben vagy e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott központi elektronikus szolgáltatásokat megvalósító egészségügyi ágazati informatikai rendszer működtetésével kapcsolatos feladatokat.
 
-(2) A működtető az (1) bekezdésben meghatározottakon túl biztosítja a törvényben meghatározott egyéb, az EESZT útján történő adattovábbítási szolgáltatásokat.
+(2) A működtető az (1) bekezdésben meghatározottakon túl biztosítja a törvényben vagy kormányrendeletben meghatározott egyéb, az EESZT útján történő adattovábbítási szolgáltatásokat.
 
 (3) A működtető az (1) és (2) bekezdésben meghatározottakon túl az érintett hozzájárulása alapján egyéb adattárolási és az EESZT útján történő adattovábbítási szolgáltatásokat biztosíthat.
 
@@ -729,7 +750,7 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (8) Az EESZT működtetője ellenőrzi az (1) bekezdés szerinti kötelezettség teljesítését, valamint azt, hogy az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltató az EESZT útján való adatszolgáltatási kötelezettségének eleget tesz-e. Ha jogszabály az EESZT működtetőjének erről szóló tájékoztatási kötelezettségét előírja, az ellenőrzésének eredményét a hatósági ellenőrzést végző államigazgatási szerv számára automatizált lekérdező felület útján is – a személyes adatok törvényben meghatározott kezelésének szabályai betartása mellett – biztosíthatja.
 
-(9) Törvényben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szerv részére is továbbítható adat.
+(9) Törvényben vagy kormányrendeletben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szerv részére is továbbítható adat.
 
 (10) A betegellátás során nem követelhető meg az érintettől olyan egészségügyi dokumentáció bemutatása vagy egészségügyi adat igazolása, amely az EESZT-ben elérhető.
 
@@ -879,7 +900,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 (4) A kapcsolati kódot kezelő szerv a betegségregiszterbe továbbított adatokat a kapcsolati kód képzését követően a személyazonosító adatoktól megfosztva, a kapcsolati kóddal kiegészítve az EESZT útján továbbítja a betegségregisztert vezető szervnek. A betegségregisztert működtető szerv az elektronikus betegségregiszterekben szereplő egészségügyi adatokat kapcsolati kód alapján tartja nyilván.
 
-(5) A működtető kizárólag törvényben meghatározott esetben vagy az érintett hozzájárulása alapján, a kapcsolati kód TAJ számmal történő megfeleltetését követően szolgáltat az érintettre vonatkozó egészségügyi vagy hozzá kapcsolódó személyazonosító adatot.
+(5) A működtető kizárólag törvényben vagy kormányrendeletben meghatározott esetben vagy az érintett hozzájárulása alapján, a kapcsolati kód TAJ számmal történő megfeleltetését követően szolgáltat az érintettre vonatkozó egészségügyi vagy hozzá kapcsolódó személyazonosító adatot.
 
 (6) Az (5) bekezdésen kívüli esetekben és az érintett adatkérése kivételével az elektronikus betegségregiszterek adatai csak személyazonosításra alkalmatlan módon ismerhetőek meg.
 
@@ -928,7 +949,9 @@ hívja fel az érintett csatlakozott adatkezelőt.
 - b) a halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény az egészségügyi törvény szerinti halottvizsgálati bizonyítványt elektronikus dokumentumként,
 - c) az egészségügyi szolgáltató az anyakönyvi eljárásról szóló törvény, a hivatalos statisztikáról szóló törvény, valamint a családok támogatásáról szóló törvény alapján kiadott kormányendelet szerinti adatokat az ott meghatározottak szerint.
 
-(2) Az (1) bekezdésben meghatározott adatokat az egészségügyi szolgáltató, az orvos, valamint az intézmény, azok átadásának az adatot fogadó szerv általi visszaigazolását követően haladéktalanul köteles törölni, kivéve ha az adat kezelésére e törvény feljogosítja.
+(1a) A 4. § (2) bekezdés p) pontja szerinti célból az egészségügyi szolgáltató az EESZT-n keresztül továbbítja a köznevelési vagy szakképző intézmények részére az elektronikus igazolást.
+
+(2) Az (1) és (1a) bekezdésben meghatározott adatokat az egészségügyi szolgáltató, az orvos, valamint az intézmény, azok átadásának az adatot fogadó szerv általi visszaigazolását követően haladéktalanul köteles törölni, kivéve ha az adat kezelésére e törvény feljogosítja.
 
 ### III/B. Fejezet — EGYES JÁRVÁNYÜGYI VÉDEKEZÉST SZOLGÁLÓ PANDÉMIA-ÉRTÉKELŐ REGISZTERRE VONATKOZÓ RÉSZLETES SZABÁLYOKRÓL
 
