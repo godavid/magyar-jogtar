@@ -1863,7 +1863,7 @@ kell biztosítani.
 
 #### 61. Hatályon kívül helyező rendelkezés
 
-121. § Hatályát veszti az E-ügyintézési törvény.
+#### 121. §
 
 #### 62. Az Európai Unió jogának való megfelelés
 

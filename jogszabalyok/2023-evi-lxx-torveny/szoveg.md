@@ -244,9 +244,7 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 #### 47. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-67. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 22. alcíme a következő 30/A. §-sal egészül ki:
-
-„30/A. § Az állam a középiskolában tanulók részére ingyenesen biztosítja a „B” kategóriás közúti járművezetői engedély megszerzéséhez a közlekedési alapismeretek és gyakorlati vizsga letételéhez szükséges ismeretek elsajátítását. A szülő, a törvényes képviselő vagy a nagykorú tanuló döntésével visszautasíthatja a képzésben részvételt.”
+#### 67. §
 
 #### 48. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
@@ -423,11 +421,7 @@ lép.
 
 #### 70. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
-104. § A szakképzésről szóló 2019. évi LXXX. törvény 6. alcíme a következő 35/A. §-sal egészül ki:
-
-#### „35/A. § [A „B” kategóriás közúti járművezetői engedély megszerzése]
-
-Az állam a szakképző intézményben tanulók részére ingyenesen biztosítja a „B” kategóriás közúti járművezetői engedély megszerzéséhez a közlekedési alapismeretek és a gyakorlati vizsga letételéhez szükséges ismeretek elsajátítását. A szülő, a törvényes képviselő vagy a nagykorú tanuló döntésével visszautasíthatja a képzésben részvételt.”
+#### 104. §
 
 #### 71. Az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény módosítása
 

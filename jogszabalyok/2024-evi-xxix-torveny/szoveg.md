@@ -251,30 +251,11 @@ lép.
 
 #### 28. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-64. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 24. §-a a következő (4) és (5) bekezdéssel egészül ki:
+#### 64. §
 
-„(4) A Kormány rendeletben meghatározza azon – a tanulói jogviszonyból, kollégiumi tagsági viszonyból származó kötelezettségek teljesítéséhez, jogok gyakorlásához nem szükséges – tárgyak körét, amelyet a tanuló a megfelelő testi, szellemi és erkölcsi fejlődéshez való jogra, az egészséghez való jogra, az oktatás zavartalanságának biztosítására, valamint a köz érdekére, közbiztonságra tekintettel a 7. § (1) bekezdés b)–j) pontja szerinti nevelési-oktatási intézménybe [a (4) és (5) bekezdés alkalmazásában a továbbiakban: nevelési-oktatási intézmény]
+#### 65. §
 
-- a) nem vihet be (a továbbiakban: tiltott tárgy), vagy
-- b) bevihet, azonban azt a tanítási nap folyamán csak akkor birtokolhatja és használhatja, ha azt a nevelési-oktatási intézmény
-  - ba) igazgatója egészségügyi célból vagy
-  - bb) pedagógusa pedagógiai célból
-
-– a tanulmányi rendszerben a Kormány rendeletében foglaltak alapján rögzítettek szerint – az általa meghatározott időszakra engedélyezi (a továbbiakban: használatában korlátozott tárgy).
-
-(5) A (4) bekezdésben foglalt szabályok betartatásáért a nevelési-oktatási intézmény igazgatója felel azzal, hogy a Kormány rendeletében, valamint a házirendben meghatározottak szerint gondoskodik a szabályok betartásának ellenőrzéséről, a tárgy átvételéről, őrzéséről, a tanuló, vagy egyéb személy részére történő visszaadásának rendjéről. A tárgyak őrzésére – a tiltott tárgy kivételével – a Polgári Törvénykönyv általános, a szerződésen kívüli károkozásért való felelősségre vonatkozó szabályait kell alkalmazni. A tiltott tárgy őrzése során a tárgyban bekövetkezett kárért a nevelési-oktatási intézmény nem felel.”
-
-65. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 25. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A házirend – a 24. § (4) bekezdésén felül a helyi sajátosságokra tekintettel – előírhatja az óvodába, iskolába, kollégiumba a gyermekek, tanulók által bevitt dolgok megőrzőben, öltözőben való elhelyezését vagy a bevitel bejelentését, valamint az óvodába járáshoz, a tanulói jogviszonyból, kollégiumi tagsági viszonyból származó kötelezettségek teljesítéséhez, jogok gyakorlásához nem szükséges dolgok bevitelét megtilthatja, korlátozhatja vagy feltételhez kötheti. Ha az előírt szabályokat megszegik, a bekövetkezett kárért a nevelési-oktatási intézmény nem felel.”
-
-66. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdése a következő t) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„t) a tiltott tárgyak és a használatában korlátozott tárgyak – nevelési-oktatási intézmény típusára, évfolyamonként meghatározott – körét, ezek átvételének, az ellenőrzési jog gyakorlásának és a tárgyak visszaadásának szabályait, az igazgató, valamint a pedagógus általi, a tanuló részére a birtoklás és használat engedélyezésére vonatkozó részletes szabályokat,”
-
-(rendeletben állapítsa meg.)
+#### 66. §
 
 #### 29. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
@@ -436,60 +417,25 @@ lép.
 
 #### 45. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
-130. § A szakképzésről szóló 2019. évi LXXX. törvény 33. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+#### 130. §
 
-„(1a) A Kormány rendeletben meghatározza azon – a tanulói jogviszonyból, felnőttképzési jogviszonyból, kollégiumi tagsági viszonyból származó kötelezettségek teljesítéséhez, jogok gyakorlásához nem szükséges – tárgyak körét, amelyet a tanuló a megfelelő testi, szellemi és erkölcsi fejlődéshez való jogra, az egészséghez való jogra, az oktatás zavartalanságának biztosítására, valamint a köz érdekére, közbiztonságra tekintettel a szakképző intézménybe
+#### 131. §
 
-- a) nem vihet be (a továbbiakban: tiltott tárgy), vagy
-- b) bevihet, azonban azt a tanítási nap folyamán csak akkor birtokolhatja és használhatja, ha azt a szakképző intézmény
-  - ba) igazgatója egészségügyi célból, vagy
-  - bb) oktatója vagy pedagógusa pedagógiai célból
-
-– a tanulmányi rendszerben a Kormány rendeletében foglaltak alapján rögzítettek szerint – az általa meghatározott időszakra engedélyezi (a továbbiakban: használatában korlátozott tárgy).
-
-(1b) Az (1a) bekezdésben foglalt szabályok betartatásáért a szakképző intézmény igazgatója felel azzal, hogy a Kormány rendeletében, valamint a házirendben meghatározottak szerint gondoskodik a szabályok betartásának ellenőrzéséről, a tárgy átvételéről, őrzéséről, a tanuló, vagy egyéb személy részére történő visszaadásának rendjéről. A tárgyak őrzésére – a tiltott tárgy kivételével – a Polgári Törvénykönyv általános, a szerződésen kívüli károkozásért való felelősségre vonatkozó szabályait kell alkalmazni. A tiltott tárgy őrzése során a tárgyban bekövetkezett kárért a szakképző intézmény nem felel.”
-
-131. § A szakképzésről szóló 2019. évi LXXX. törvény 123. § (2) bekezdése a következő 33. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„33. a tiltott tárgyak és a használatában korlátozott tárgyak – szakképző intézmény típusára, évfolyamonként meghatározott – körét, ezek átvételének, az ellenőrzési jog gyakorlásának és a tárgyak visszaadásának szabályait, az igazgató, valamint az oktató vagy a pedagógus általi, a tanuló részére a birtoklás és használat engedélyezésére vonatkozó részletes szabályokat,”
-
-132. § A szakképzésről szóló 2019. évi LXXX. törvény 32. § (2) bekezdésében a „házirend” szövegrész helyébe a „házirend – a 33. § (1a) és (1b) bekezdésében, valamint a Kormány rendeletében foglaltakkal összhangban –” szöveg lép.
+#### 132. §
 
 #### 46. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
 #### 133. §
 
-134. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 4. §-a a következő (12) bekezdéssel egészül ki:
+#### 134. §
 
-„(12) A (6) bekezdés a) pontjában meghatározott összeférhetetlenség alól ellátási érdekből az Eütv. 3/A. § e) pontja szerinti alapvető munkáltatói jogkör gyakorlója felmentést adhat.”
+#### 135. §
 
-135. § (1) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. § (3b) bekezdése helyébe a következő rendelkezés lép:
-
-„(3b) Az országos gyógyintézet és az állami fenntartású vármegyei fekvőbeteg-szakellátást nyújtó egészségügyi intézmény intézményvezetőjének vezetői juttatását a miniszter határozza meg.”
-
-(2) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. §-a a következő (3c) és (3d) bekezdéssel egészül ki:
-
-„(3c) Az ápolási igazgatói feladatokat ellátó magasabb vezető illetménye el kell, hogy érje az 1/A. melléklet szerinti legmagasabb fizetési osztály felső határában meghatározott összeget és nem haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában az 1/A. melléklet szerinti legmagasabb fizetési osztály felső határában meghatározott összeg százhúsz százalékát.
-
-(3d) A magasabb vezető vezetői juttatásának mértéke egyoldalú munkáltatói intézkedéssel módosítható.”
-
-136. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 17. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg a 4. § (12) bekezdése szerinti felmentésre vonatkozó engedély megadásának feltételeit, ideértve az ellátási érdek meghatározását is.”
+#### 136. §
 
 #### 137. §
 
-138. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény
-
-- a)
-- b) 2. § (5) bekezdés d) pontjában a „hatálya alatt áll, és” szövegrész helyébe a „hatálya alatt áll,” szöveg,
-- c) 4. § (7a) bekezdésében az „Az országos gyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény,” szövegrész helyébe az „Az országos gyógyintézet, az országos társgyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, a Budapesten és Pest vármegyében működő állami tulajdonú és fenntartású egészségügyi szakellátást nyújtó egészségügyi intézmény,” szöveg,
-- d) 4. § (7b) bekezdésében az „Az országos gyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, valamint” szövegrész helyébe az „Az országos gyógyintézet, az országos társgyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, a Budapesten és Pest vármegyében működő állami tulajdonú és fenntartású egészségügyi szakellátást nyújtó egészségügyi intézmény, valamint” szöveg,
-- e) 8. § (3) bekezdésében az „Az egészségügyi szolgáltató vezetőjének illetménye” szövegrész helyébe az „A magasabb vezető illetménye – a (3c) bekezdésben foglaltak kivételével –” szöveg
-
-lép.
+#### 138. §
 
 #### 47. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
