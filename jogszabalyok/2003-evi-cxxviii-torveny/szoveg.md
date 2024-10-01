@@ -162,7 +162,7 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (10)
 
-(11) Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában foglaltakra tekintettel, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – helyi építési szabályzataikban figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett kormányrendelet hatálybalépésétől számított hat hónapon belül a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből biztosítja az önkormányzatok számára.
+(11) Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában foglaltakra tekintettel, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – helyi építési szabályzataikban figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett kormányrendelet hatálybalépésétől számított hat hónapon belül a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet a magyar építészetről szóló 2023. évi C. törvény 22. § (3) és (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből biztosítja az önkormányzatok számára.
 
 ### III/A. Fejezet — Cél-kitermelőhelyek létesítésének, üzemeltetésének, megszüntetésének és hatósági felügyeletének különös szabályai
 

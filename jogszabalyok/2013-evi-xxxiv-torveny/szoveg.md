@@ -39,7 +39,7 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 
 (7) Az e törvényben nem szabályozott kérdésekben a Teljesítésigazolási Szakértői Szerv, valamint a tagjának jogaira és kötelezettségeire a Szaktv. rendelkezéseit megfelelően alkalmazni kell.
 
-(8) E törvény alkalmazásában építési beruházás alatt az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 2. § 30. pontjában foglalt tevékenységek összessége értendő.
+(8) E törvény alkalmazásában építési beruházás alatt a magyar építészetről szóló 2023. évi C. törvény 16. § 21. pontjában foglalt tevékenységek összessége értendő.
 
 #### 2. A szakértői vélemény elkészítésére vonatkozó megbízás
 
@@ -221,19 +221,25 @@ rendeletben állapítsa meg.
 - a)
 - b)
 
-14–16. §
+#### 14. §
 
-17. §
+#### 15. §
+
+#### 16. §
+
+#### 17. §
 
 18. § (1)
 
 (2)–(3)
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21–22. §
+#### 21. §
+
+#### 22. §
 
 23. § (1)
 

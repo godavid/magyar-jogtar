@@ -19,7 +19,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 #### 3. §
 
-4. § (1) Az épített környezet alakításáról és védelméről szóló törvény településrendezési tervre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+4. § (1) A magyar építészetről szóló törvény településrendezési tervre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A beruházás területére vonatkozó településrendezési szabályok a következők:
 

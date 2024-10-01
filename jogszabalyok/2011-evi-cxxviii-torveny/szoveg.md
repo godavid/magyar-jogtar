@@ -382,11 +382,11 @@ igazolja.
 
 24/E. § (1) A veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyása során az általános közigazgatási rendtartásról szóló törvény szerinti sommás eljárásnak nincs helye.
 
-(2) A hivatásos katasztrófavédelmi szerv központi szerve a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártásának jóváhagyását követően ellenőrzi a jóváhagyási engedélyében és a vonatkozó jogszabályokban meghatározott előírások betartását.
+(2) A Kormány rendeletében kijelölt hatóság a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártásának jóváhagyását követően ellenőrzi a jóváhagyási engedélyében és a vonatkozó jogszabályokban meghatározott előírások betartását.
 
-(3) A hivatásos katasztrófavédelmi szerv központi szerve az ellenőrzés során a gyártásból mintát vehet, és elrendelheti annak soron kívüli vizsgálatát.
+(3) A Kormány rendeletében kijelölt hatóság az ellenőrzés során a gyártásból mintát vehet, és elrendelheti annak soron kívüli vizsgálatát.
 
-(4) A hivatásos katasztrófavédelmi szerv központi szerve az előírások megsértése esetén a gyártási típus jóváhagyási engedéllyel rendelkezővel, a gyártóval, a forgalmazóval szemben kormányrendeletben meghatározott intézkedést alkalmazhat, és közigazgatási bírságot szabhat ki, amely az államháztartás központi alrendszerének bevételét képezi.
+(4) A Kormány rendeletében kijelölt hatóság az előírások megsértése esetén a gyártási típus jóváhagyási engedéllyel rendelkezővel, a gyártóval, a forgalmazóval szemben kormányrendeletben meghatározott intézkedést alkalmazhat, és közigazgatási bírságot szabhat ki, amely az államháztartás központi alrendszerének bevételét képezi.
 
 (5) Az egyes rendelkezések megsértése esetén kiszabható bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén ugyanabban az eljárásban kiszabható bírság maximális összegét kormányrendelet állapítja meg.
 
@@ -398,7 +398,7 @@ igazolja.
 
 ### IV. Fejezet — VESZÉLYES ANYAGOKKAL KAPCSOLATOS SÚLYOS BALESETEK ELLENI VÉDEKEZÉS
 
-25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak a hivatásos katasztrófavédelmi szerv (a IV. fejezet alkalmazásában: iparbiztonsági hatóság) katasztrófavédelmi engedélye alapján adható. Veszélyes tevékenység kizárólag az iparbiztonsági hatóság katasztrófavédelmi engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges katasztrófavédelmi engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentést vagy biztonsági elemzést.
+25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak az iparbiztonsági hatóság engedélye alapján adható. Veszélyes tevékenység kizárólag az iparbiztonsági hatóság engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges iparbiztonsági engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentést vagy biztonsági elemzést.
 
 (2) Amennyiben a biztonsági jelentés vagy biztonsági elemzés védendő adatot tartalmaz, az üzemeltető egyidejűleg a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentést vagy biztonsági elemzést is köteles az iparbiztonsági hatóság részére benyújtani.
 
@@ -453,7 +453,7 @@ esetén.
 
 32. § (1) A veszélyes anyagokkal foglalkozó üzem biztonsági jelentésében vagy az iparbiztonsági hatóság döntése alapján a biztonsági elemzésében bemutatott veszélyeztető hatások elleni védekezés érdekében a veszélyeztetett településeken külső védelmi tervet kell készíteni.
 
-(2) A külső védelmi tervet az iparbiztonsági hatóság helyi szerve a veszélyeztetett települések polgármestereinek közreműködésével készíti el. A külső védelmi tervek tartalmi követelményeit és elkészítésének határidejét külön jogszabály állapítja meg. A külső védelmi tervek elkészítésének és gyakoroltatásának költségeit az iparbiztonsági hatóság központi szerve saját költségvetése terhére biztosítja.
+(2) A külső védelmi tervet a hivatásos katasztrófavédelmi szerv helyi szerve a veszélyeztetett települések polgármestereinek közreműködésével készíti el. A külső védelmi tervek tartalmi követelményeit és elkészítésének határidejét külön jogszabály állapítja meg. A külső védelmi tervek elkészítésének és gyakoroltatásának költségeit a hivatásos katasztrófavédelmi szerv központi szerve saját költségvetése terhére biztosítja.
 
 (3) Az iparbiztonsági hatóság külön jogszabályban meghatározottak szerint végzi a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére és elhárítására, valamint a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos balesetek kivizsgálására vonatkozó műszaki, szervezési és vezetési információk gyűjtését, értékelését és készíti a nemzeti jelentéseket.
 
@@ -492,7 +492,7 @@ esetén.
 
 (5) Az iparbiztonsági hatóság katasztrófavédelmi bírság kiszabására jogosult:
 
-- a) katasztrófavédelmi engedély nélkül végzett engedélyköteles tevékenység végzése esetén,
+- a) iparbiztonsági engedély nélkül végzett engedélyköteles tevékenység végzése esetén,
 - b) a IV. fejezetben és a végrehajtási rendeletekben, vagy az azok alapján meghozott hatósági döntésben foglalt előírások elmulasztása esetén,
 - c) a veszélyes tevékenységgel kapcsolatos súlyos balesettel, vagy eseménnyel összefüggésben megelőző, elhárító és helyreállító intézkedésekre vonatkozó kötelezettség be nem tartása esetén.
 
@@ -532,7 +532,7 @@ esetén.
 
 (2) Az iparbiztonsági hatóság a küszöbérték alatti üzem üzemeltetője által küldött bejelentést megvizsgálja. A vizsgálatok alapján, ha az üzemben tárolt veszélyes anyagok mennyisége és fajtája, vagy az üzem által okozott veszélyeztetés azt indokolja, az iparbiztonsági hatóság az üzemeltetőt súlyos káresemény elhárítási terv készítésére kötelezi.
 
-(3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet az iparbiztonsági hatóság értékeli, és dönt a katasztrófavédelmi engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
+(3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet az iparbiztonsági hatóság értékeli, és dönt az iparbiztonsági engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
 
 (3a)
 
@@ -551,12 +551,16 @@ esetén.
 - e) a súlyos káresemény-elhárítási terv végrehajthatóságát a külön jogszabályban meghatározott módon gyakorlattal ellenőrizni,
 - f) a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeit kivizsgálni és az arról készült jelentést az iparbiztonsági hatóság részére megküldeni.
 
-42. § Az üzemeltető köteles a hivatásos katasztrófavédelmi szerv területi szerve ügyeleti szolgálata útján távbeszélőn az iparbiztonsági hatóságot haladéktalanul tájékoztatni
+42. § (1) Az üzemeltető köteles az egységes segélyhívó rendszeren haladéktalanul bejelentést tenni veszélyes anyagokkal kapcsolatos súlyos balesetről, eseményről a (2) bekezdésben felsorolt információk átadásával.
+
+(2) Az üzemeltető az iparbiztonsági hatóságot elektronikus úton soron kívül értesíti
 
 - a) a veszélyes anyagokkal kapcsolatos súlyos baleset, esemény körülményeiről,
 - b) a veszélyes anyagokkal kapcsolatos súlyos balesetben, eseményben szereplő veszélyes anyagokról,
 - c) a lakosságra, az anyagi javakra és a környezetre gyakorolt hatások értékeléséhez szükséges adatokról,
 - d) a megtett intézkedésekről.
+
+42/A. § Az iparbiztonsági hatóság a nyilvántartásában szereplő adatokról a biztonságért és a veszélyes anyagokkal kapcsolatos baleset elhárításáért felelős személyek és elérhetőségük adataira is kiterjedően rendszeresen tájékoztatja a hivatásos katasztrófavédelmi szerv központi szervét a nemzetközi szerződésből eredő kötelezettségei végrehajtása érdekében.
 
 ### V. Fejezet — A KITERJEDT KÁRESEMÉNY
 
@@ -841,7 +845,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 ### VII/A. Fejezet — A HATÓSÁGI ELJÁRÁSOKKAL KAPCSOLATOS ADATKEZELÉS
 
-79. § (1) A hivatásos katasztrófavédelmi szerv a hatáskörébe utalt hatósági eljárások és az eljárások végleges lezárását követően a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a végleges döntésével összefüggő jogorvoslat, az ügykövetés, kapcsolattartás, valamint a döntés-felülvizsgálat céljából az alábbi adatokat kezeli:
+79. § (1) A hivatásos katasztrófavédelmi szerv, a tűzvédelmi hatóság és az iparbiztonsági hatóság a hatáskörébe utalt hatósági eljárások és az eljárások végleges lezárását követően a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a végleges döntésével összefüggő jogorvoslat, az ügykövetés, kapcsolattartás, valamint a döntés-felülvizsgálat céljából az alábbi adatokat kezeli:
 
 - a) az ügyfél természetes személyazonosító adatai, lakcíme, elérhetőségi címe, elektronikus levélcíme, telefonszámai,
 - b) az ügyfél adóazonosító jele vagy adószáma,
@@ -856,11 +860,13 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 (2) Az (1) bekezdés alapján kezelt adat – ha törvény eltérően nem rendelkezik – más szerv vagy személy részére nem továbbítható.
 
-(3) A hivatásos katasztrófavédelmi szerv – ha törvény hosszabb határidőt nem állapít meg – az (1) bekezdés szerinti adatokat
+(3) A hivatásos katasztrófavédelmi szerv, a tűzvédelmi hatóság és az iparbiztonsági hatóság – ha törvény hosszabb határidőt nem állapít meg – az (1) bekezdés szerinti adatokat
 
 - a) veszélyes áruk szállításának ellenőrzésével kapcsolatosan kiszabott bírságok esetében bírságfizetés teljesítését követő hat évig kezeli,
 - b) a hatáskörébe utalt hatósági eljárások esetében – a c) pontban meghatározott kivétellel – az eljárások végleges lezárását követő hat évig kezeli,
 - c) a veszélyes áruk szállítására használt tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek jóváhagyásával kapcsolatos hatósági engedélyezési eljárások esetében az engedélyek érvényességét követő hat évig kezeli.
+
+(4) A tűzvédelmi, iparbiztonsági, vízvédelmi és vízügyi hatósági hatáskörben eljáró szerv a hivatásos katasztrófavédelmi szervnek a jogszabályban meghatározott védelmi tervek összeállításához adatot szolgáltat, ami kiterjed az (1) bekezdés a), d), e) és f) pontjában meghatározott adatokra azzal, hogy a természetes személyazonosító adatok közül az érintett nevének átadására kerül sor.
 
 ### VII/B. Fejezet — KÉPFELVÉTEL, HANGFELVÉTEL, KÉP- ÉS HANGFELVÉTEL KÉSZÍTÉSE
 
@@ -911,6 +917,8 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 79/C. § A 79/B. § (1) bekezdése szerinti, elektronikusan kezdeményezett ügyekben a magyarországi székhellyel vagy lakóhellyel rendelkező, a 79/B. § (2) bekezdésében meghatározott ügyfél és képviselője számára a hivatásos katasztrófavédelmi szerv az elektronikus ügyintézést az IHR alkalmazásával biztosítja.
 
+79/D. § Az IHR és az IHR-ben tárolt adatok igénybevételére jogszabályban meghatározott esetekben és módon a hatáskörükbe tartozó ügyekben a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság is jogosult.
+
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 37. Felhatalmazó rendelkezések
@@ -943,8 +951,13 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 - p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatok, illetve termékek, továbbá az ingatlan-nyilvántartási adatok (jogok, tények) körét, valamint ezek szolgáltatásának részletes szabályait,
 - q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
 - r)
-- s) az IHR működésének részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani.
+- s) az IHR működésének részletes szabályait, az IHR-nek a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság és a veszélyesáru-szállítás ellenőrzésére kijelölt hatóság által történő igénybevételének feltételeit és részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani,
 - t) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyási engedélyezésére, az engedélyben és a kapcsolódó jogszabályokban meghatározott előírások megtartásának hatósági ellenőrzésére, a gyártásból történő mintavételre és annak soron kívüli vizsgálatára, valamint az előírások megsértőivel szemben intézkedések megtételére, az egyes szabálytalanságokért kiszabható bírságok összegének megállapítására, továbbá a bírságolással összefüggő hatósági feladatokra vonatkozó részletes szabályokat.
+
+80/A. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje
+
+- a) az iparbiztonsági hatósági hatáskörben eljáró szervet,
+- b) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyása során eljáró szervet.
 
 81. § Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben szabályozza:
 
@@ -973,7 +986,15 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 #### 39. Átmeneti rendelkezések
 
-#### 84. §
+84. § (1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 24/E. § (2)–(4) bekezdését, 25. § (1) bekezdését, 32. § (2) bekezdését, 35. § (5) bekezdését, 40. § (3) bekezdését, 42. §-t, 42/A. §-t, 79. § (4) bekezdését és 79/D. §-t a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A hivatásos katasztrófavédelmi szervtől kormányzati igazgatási szervhez átkerülő hatósági hatáskör esetében a 2024. október 1-jén folyamatban lévő ügyek átadására 8 napon belül kerül sor. A folyamatban lévő ügyekben az ügyintézési határidő e törvény erejénél fogva 8 nappal meghosszabbodik.
+
+(3) A folyamatban lévő ügyekben a hatósági hatáskört telepítő jogszabály hatályba lépése előtt végzett eljárási cselekmények hatályát nem érinti, hogy az eljárás lefolytatása más szerv feladat- és hatáskörébe kerül.
+
+(4) A hatósági hatáskör telepítésének napján folyamatban lévő szakhatósági eljárásban szakhatósági állásfoglalás kiadására nem kerül sor azokban az ügyekben, amelyekben az eljáró hatóságként eljáró kormányzati igazgatási szerv veszi át a volt szakhatósági hatáskört. Ezekben az esetekben a szakkérdést az eljáró hatóság saját eljárásban vizsgálja.
+
+(5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.
 
 85. § A lakossági riasztórendszer végpontjainak listáját az áramszolgáltatók részére a hivatásos katasztrófavédelmi szerv központi szerve, illetve területi szervei 2012. március 1-jéig megküldik. A lakossági riasztó rendszer végpontjaiban bekövetkezett változást, az azt követő 72 órán belül kell megküldeni az áramszolgáltatók részére.
 

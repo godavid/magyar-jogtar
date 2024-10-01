@@ -182,7 +182,7 @@ hatósági eljárásokban.
 - d) az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv (a továbbiakban együtt: rendőrség), a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a katasztrófavédelem;
 - e) az állami (honvédelmi és rendvédelmi) szervezetek által – nemzetközi megállapodás alapján – bérelt, lízingelt légijárművek bérbeadója, lízingbeadója.
 
-(5) A jogszabályban meghatározott veszélyes áruk légi szállításra történő előkészítésének, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbításának ellenőrzését a hivatásos katasztrófavédelmi szerv is végzi.
+(5) A jogszabályban meghatározott veszélyes áruk légi szállításra történő előkészítésének, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbításának ellenőrzését a Kormány rendeletében kijelölt hatóság (a továbbiakban: a Kormány rendeletében kijelölt hatóság) is végzi.
 
 3/A. § (1) A légiközlekedési hatóság, vagy az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság a kérelmező és az eljárás egyéb résztvevője lakcímadatait, az ügyfél által választott kapcsolattartási formára vonatkozó adatot, valamint
 
@@ -314,14 +314,14 @@ vonatkozó azon döntéseiről, amelyek a meglévő tanúsítványok és engedé
 
 (2) A légiközlekedési hatóság jogosult Magyarország Légijármű Lajstromába felvett polgári légijármű felett a hatósági felügyelet és jogkör átadására, amennyiben a légijárművet külföldi légiközlekedési hatóság által kiadott engedéllyel rendelkező üzemben tartó tartja üzemben és a légiközlekedési hatóság a külföldi légiközlekedési hatósággal megállapodást kötött, a megállapodásban szereplő feladatok tekintetében.
 
-3/F. § (1) A hivatásos katasztrófavédelmi szerv a 3. § (5) bekezdésében meghatározott feladatkörében ellenőrzi:
+3/F. § (1) A Kormány rendeletében kijelölt hatóság a 3. § (5) bekezdésében meghatározott feladatkörében ellenőrzi:
 
 - a) a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartását,
 - b) a veszélyes áruk repülőtér területén végzett átrakását, tárolását, kivéve a légi jármű fedélzetére történő átrakást.
 
-(2) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és bírságot alkalmaz.
+(2) Ha a Kormány rendeletében kijelölt hatóság az ellenőrzés során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és bírságot alkalmaz.
 
-(3) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a hivatásos katasztrófavédelmi szerv felelősséggel nem tartozik.
+(3) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a Kormány rendeletében kijelölt hatóság felelősséggel nem tartozik.
 
 (4) Az (1) bekezdés szerinti ellenőrzési jogkör az állami célú légiközlekedésre nem terjed ki.
 
@@ -596,14 +596,14 @@ vonatkozó azon döntéseiről, amelyek a meglévő tanúsítványok és engedé
 
 (5) Légijárműből végzett légi távérzékelés végrehajtásához a légi távérzékelés engedélyezésének és a távérzékelési adatok használatának rendjéről szóló kormányrendeletben meghatározott engedély szükséges.
 
-(6) A veszélyes áru légi úton történő továbbítása során a külföldről érkező veszélyes áru repülőtérre érkezését, illetve a veszélyes áru légi úton történő továbbítását a földi kiszolgáló szervezet, annak hiányában a feladó vagy a repülőtér üzemben tartója, a veszélyes áruk légi szállításának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére vonatkozó eljárás szabályait megállapító jogszabályban meghatározottak szerint köteles bejelenteni a katasztrófavédelmi szerv részére.
+(6) A veszélyes áru légi úton történő továbbítása során a külföldről érkező veszélyes áru repülőtérre érkezését, illetve a veszélyes áru légi úton történő továbbítását a földi kiszolgáló szervezet, annak hiányában a feladó vagy a repülőtér üzemben tartója, a veszélyes áruk légi szállításának a Kormány rendeletében kijelölt hatóság által végzett ellenőrzésére vonatkozó eljárás szabályait megállapító jogszabályban meghatározottak szerint köteles bejelenteni a Kormány rendeletében kijelölt hatóság részére.
 
 20/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály légiközlekedési szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a légiközlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát
 
 - a) polgári célú légiközlekedéssel összefüggő szakértői tevékenység esetén a légiközlekedési hatóságnak,
-- b) állami célú légiközlekedéssel kapcsolatos szakértői tevékenység esetén a katonai légügyi hatóságnak, vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara)
+- b) állami célú légiközlekedéssel kapcsolatos szakértői tevékenység esetén a katonai légügyi hatóságnak, vagy – a Kormány rendeletében meghatározott szakterületek esetében – a magyar építészetről szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara)
 
 bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait, lakcímét, elérhetőségét és iskolai végzettségét.
 
@@ -1611,19 +1611,19 @@ folytatja le.
 
 (13) A zajvédelmi díj megállapításának részletes szabályait és a beszedett díj összegének felhasználási rendjét a miniszter az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
 
-66/B. § (1) Nincs helye hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+66/B. § (1) Nincs helye a Kormány rendeletében kijelölt hatóság általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (2)
 
-(3) Ugyanazon jogszabálysértésért a légiközlekedési hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
+(3) Ugyanazon jogszabálysértésért a légiközlekedési hatóság és a Kormány rendeletében kijelölt hatóság bírságot nem szabhat ki.
 
 (4) A 3/F. § alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
-(5) A hivatásos katasztrófavédelmi szerv az e törvény alapján hivatalból indított eljárása során – annak tárgyával összefüggésben – az ügyfelet az érdemi döntéshez szükséges adatszolgáltatásra vagy nyilatkozattételre kötelezheti. Az adatszolgáltatás vagy nyilatkozattétel elmulasztása, az ügy eldöntése szempontjából jelentős tény elhallgatása, valótlan tény állítása, illetve valótlan adatok közlése estén a hivatásos katasztrófavédelmi szerv a kötelezettet eljárási bírsággal sújtja.
+(5) A Kormány rendeletében kijelölt hatóság az e törvény alapján hivatalból indított eljárása során – annak tárgyával összefüggésben – az ügyfelet az érdemi döntéshez szükséges adatszolgáltatásra vagy nyilatkozattételre kötelezheti. Az adatszolgáltatás vagy nyilatkozattétel elmulasztása, az ügy eldöntése szempontjából jelentős tény elhallgatása, valótlan tény állítása, illetve valótlan adatok közlése estén a Kormány rendeletében kijelölt hatóság a kötelezettet eljárási bírsággal sújtja.
 
-(6) A hivatásos katasztrófavédelmi szerv a veszélyes áru szállításában érintett vállalkozásra, továbbá természetes személyre vonatkozó természetes személyazonosító adatokat, lakcímadatokat a légiközlekedés biztonsága érdekében a (8) bekezdés b) pontjában meghatározott ideig kezeli.
+(6) A Kormány rendeletében kijelölt hatóság a veszélyes áru szállításában érintett vállalkozásra, továbbá természetes személyre vonatkozó természetes személyazonosító adatokat, lakcímadatokat a légiközlekedés biztonsága érdekében a (8) bekezdés b) pontjában meghatározott ideig kezeli.
 
-(7) A veszélyes áruk légi úton történő szállításával kapcsolatos nyilvántartásában a hivatásos katasztrófavédelmi szerv a következő adatokat kezeli:
+(7) A veszélyes áruk légi úton történő szállításával kapcsolatos nyilvántartásában a Kormány rendeletében kijelölt hatóság a következő adatokat kezeli:
 
 - a) a bejelentő szervezet vagy természetes személy nevét, címét, elérhetőségét,
 - b) a kapcsolattartó természetes személy nevét, elérhetőségét,
@@ -1647,7 +1647,7 @@ folytatja le.
 - p) a bírság befizetésére kötelezett megnevezését, címét,
 - q) a bírság mértékét, a befizetés határidejét, a befizetés tényét.
 
-(8) A bírságnyilvántartásban szereplő adatokat a hivatásos katasztrófavédelmi szerv
+(8) A bírságnyilvántartásban szereplő adatokat a Kormány rendeletében kijelölt hatóság
 
 - a) a bírság befizetését vagy a végrehajthatóság elévülését követően két évig,
 - b) a szállítások bejelentésének adatait, valamint az ellenőrzések során keletkezett adatokat öt évig
@@ -1762,7 +1762,7 @@ kezeli.
 
 céljából is felhasználható.
 
-(7) A (6) bekezdés érdekében a földi kiszolgáló az (1) bekezdésében foglaltak szerint rögzített felvételt a légiközlekedési hatóság, a rendőrség, a nemzetbiztonsági szolgálat, valamint a hivatásos katasztrófavédelmi szerv részére, erre irányuló megkeresés esetén továbbítja.
+(7) A (6) bekezdés érdekében a földi kiszolgáló az (1) bekezdésében foglaltak szerint rögzített felvételt a légiközlekedési hatóság, a rendőrség, a nemzetbiztonsági szolgálat, valamint a Kormány rendeletében kijelölt hatóság részére, erre irányuló megkeresés esetén továbbítja.
 
 (8) Akinek jogát vagy jogos érdekét a felvétel rögzítése vagy további felhasználása érinti (e § alkalmazásában a továbbiakban együtt: érintett), jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt a földi kiszolgáló a (3) bekezdésben meghatározottak szerint – jogainak gyakorlásához szükséges eljárás megindításáig – legfeljebb 90 napig ne törölje. Ez a jog nem érinti a személyes adatok védelmére vonatkozó, az Európai Unió kötelező jogi aktusa, illetve a nemzeti jog alapján az érintett által gyakorolható egyéb jogokat.
 
@@ -1924,7 +1924,7 @@ céljából is felhasználható.
 - y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, e tevékenységek engedélyezésére vonatkozó szabályokat, valamint
 - z) a légiközlekedési terep és akadály adatbázis létrehozásának, működtetésének és adattartalmának szabályait, valamint az adatbázist működtető szervezet kijelölését,
 - zs) a repülőtér akadálykorlátozási felületeinek kijelölésére az akadálykorlátozási felület fölé nyúló építményekre és a légiközlekedési akadályok jelölésére vonatkozó részletes szabályokat.
-- aa) a veszélyes áru szállítása bejelentésének részlet szabályait, a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok részletes szabályait,
+- aa) a veszélyes áru szállítása bejelentésének részletszabályait, a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzésére és bírság kivetésére jogosult hatóság kijelölését, a kijelölt hatóság által végzett ellenőrzésre és a bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a Kormány rendeletében kijelölt hatóság által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok részletes szabályait,
 - bb)
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki

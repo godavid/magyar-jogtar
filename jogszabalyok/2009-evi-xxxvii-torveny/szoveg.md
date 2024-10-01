@@ -224,7 +224,7 @@ a kincstári vagyon részét képezi.
 
 (6) A (4)–(5) bekezdés szerinti földcseréhez, valamint vagyonátruházáshoz az erdő védelmi rendeltetése szerint feladat- és hatáskörrel rendelkező miniszter egyetértése szükséges.
 
-(7) Az állam 100%-os tulajdonában álló, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület művelés alól kivett területként nyilvántartott önálló ingatlanként akkor alakítható ki, ha a megosztás eredményeként létrejött ingatlan területe legalább 500 m2 és a megosztás megfelel az épített környezet alakításáról és védelméről szóló törvényben és annak végrehajtására kiadott rendeletben meghatározott előírásoknak. Az így létrejött ingatlant az Adattárból törölni kell.
+(7) Az állam 100%-os tulajdonában álló, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület művelés alól kivett területként nyilvántartott önálló ingatlanként akkor alakítható ki, ha a megosztás eredményeként létrejött ingatlan területe legalább 500 m2 és a megosztás megfelel a magyar építészetről szóló törvényben és annak végrehajtására kiadott rendeletben meghatározott előírásoknak. Az így létrejött ingatlant az Adattárból törölni kell.
 
 (8) Az állami birtokszerkezet javításának elősegítése érdekében végrehajtott birtokösszevonási célú földcsere továbbá csere esetén a védelmi és közjóléti rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
 
@@ -2693,9 +2693,9 @@ felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 
 (33) Az e törvény hatálybalépését követően, de a módosító törvény hatálybalépése előtt kiadott erdőterv határozatban az erdőterv érvényességi időszakában elvégezhető vagy elvégzendő fakitermelés fatérfogatára vonatkozó adat tájékoztató adat.
 
-113/A. § (1) A 8. § (10) bekezdése szerinti épülettel vagy építménnyel (a továbbiakban: felépítmény) kapcsolatban az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.) és a végrehajtására kiadott rendeletekben foglaltakat – az Étv. 47. § (2) bekezdés a) és b) pontja szerinti eset kivételével – nem kell alkalmazni, az építésügyi és az építésfelügyeleti hatóság az építményre vonatkozóan eljárást nem folytat le, a folyamatban lévő eljárást megszünteti.
+113/A. § (1) A 8. § (10) bekezdése szerinti épülettel vagy építménnyel (a továbbiakban: felépítmény) kapcsolatban a magyar építészetről szóló törvényben és a végrehajtására kiadott rendeletekben foglaltakat – a magyar építészetről szóló 2023. évi C. törvény 175. § (2) bekezdése és 177. § (9) bekezdése szerinti eset kivételével – nem kell alkalmazni, az építésügyi és az építésfelügyeleti hatóság az építményre vonatkozóan eljárást nem folytat le, a folyamatban lévő eljárást megszünteti.
 
-(2) A felépítményre a településkép védelméről szóló 2016. évi LXXIV. törvény szerinti településképi rendeletek, valamint egyedi és országos településkép védelmi jogszabályok rendelkezései nem alkalmazhatóak.
+(2) A felépítményre a magyar építészetről szóló törvény szerinti helyi építési szabályzatok, településképi rendeletek, valamint egyedi és országos településkép védelmi jogszabályok rendelkezései nem alkalmazhatóak.
 
 (3) A felépítmény ingatlan-nyilvántartásban önálló ingatlanként történő feltüntetésére, továbbá a felépítmény mindenkori tulajdonosát és egyéb jogosultját megillető jogok bejegyzésére irányuló ingatlanügyi eljárásban
 

@@ -68,7 +68,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (2) A vízkészletvédelmi országtérképet az országos vízügyi igazgatási szerv készíti el, és legalább vízgyűjtő-gazdálkodási tervezési ciklusonként, illetve rendkívüli környezeti körülmények esetén szükség szerint tudományos és monitoringmódszerekkel felülvizsgálja. Ha a felülvizsgálat eredménye alapján az (1) bekezdés szerinti besorolás megváltoztatása szükséges, az országos vízügyi igazgatási szerv új vízkészletvédelmi országtérképet készít.
 
-(3) Az országos vízügyi igazgatási szerv a vízkészletvédelmi országtérképet, továbbá az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalóját a Hivatalos Értesítőben, valamint a vízügyi hatóság központi szervének honlapján történő közzététel érdekében a vízgazdálkodásért felelős miniszternek továbbítja. A vízgazdálkodásért felelős miniszter a vízügyi hatóság központi szerve útján intézkedik a vízkészletvédelmi országtérkép, valamint az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalójának közzétételéről.
+(3) Az országos vízügyi igazgatási szerv a vízkészletvédelmi országtérképet, továbbá az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalóját a Hivatalos Értesítőben, valamint a kormányrendeletben meghatározott vízügyi hatóság honlapján történő közzététel érdekében a vízgazdálkodásért felelős miniszternek továbbítja. A vízgazdálkodásért felelős miniszter a kormányrendeletben meghatározott vízügyi hatóság útján intézkedik a vízkészletvédelmi országtérkép, valamint az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalójának közzétételéről.
 
 3. § (1) A vizekkel és a vízilétesítményekkel összefüggő állami feladatok körében az igazgatási tevékenységeket (a továbbiakban: vízügyi igazgatás) a vízügyi igazgatási szervek végzik.
 
@@ -122,7 +122,7 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 
 5. § A területi jelentőségű vízgazdálkodási, vízvédelmi feladatok, koncepciók egyeztetésére, véleményezésére területi és részvízgyűjtő hatáskörű, az országos jelentőségű vízgazdálkodási feladatok, koncepciók egyeztetésére, véleményezésére országos vízgazdálkodási tanácsot (a továbbiakban együtt: vízgazdálkodási tanácsok) kell létrehozni.
 
-5/A. § (1) Ha jogszabály vízgazdálkodási szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez külön jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara) engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
+5/A. § (1) Ha jogszabály vízgazdálkodási szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez külön jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a magyar építészetről szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara) engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
 
 (2) Az (1) bekezdés szerinti szakértői tevékenység folytatását a kamara annak engedélyezi, aki büntetlen előéletű, nem áll vízgazdálkodási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
 
@@ -969,7 +969,7 @@ csak írásban terjeszthető elő.
 
 (9) Ha a vízilétesítmény megépítése vagy átalakítása a 28/A. §-ban meghatározott bejelentés nélkül vagy annak jóváhagyásától eltérően történt, a létesítő részére vízgazdálkodási bírság megfizetését kell előírni. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig terjedhet. A természetes személyre kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
 
-29/A. § Az elsőfokú vízügyi hatósági eljárásban és az elsőfokú helyi vízgazdálkodási hatósági eljárásban hozott határozat ellen fellebbezésnek van helye.
+29/A. § Az elsőfokú helyi vízgazdálkodási hatósági eljárásban hozott határozat ellen fellebbezésnek van helye.
 
 30. § (1) A vízügyi hatóság a külön jogszabályokban meghatározott feltételek, továbbá események bekövetkezése esetén hivatalból vagy kérelemre
 
@@ -1358,7 +1358,7 @@ céljából jogosult.
 
 (3)
 
-(4) Vízvezetési szolgalom megállapításával kapcsolatban indult és e törvény hatálybalépésekor még folyamatban lévő ügyekben — ha a vízügyi hatóság már meghozta az elsőfokú határozatot — az 1964. évi IV. törvény 34. §-át kell alkalmazni.
+(4)
 
 (5) E törvénynek a társulatok felügyeletére vonatkozó rendelkezését — a törvény hatálybalépésekor működő társulat esetén — a cégjegyzékbe történő bejegyzést követően kell alkalmazni.
 
@@ -1493,7 +1493,7 @@ való megfelelést szolgálja.
 - a) megállapítja, hogy az adott vízfolyásnak, csatornának a belvízelvezetésben vagy az öntözésben betöltött szerepe közérdekű, és
 - b) a vízfolyás, csatorna elhanyagolt állapota akadályozza az öntözővíz-továbbítást vagy belvízhelyzet kialakulását idézheti elő.
 
-(4) A vízügyi hatóság kijelölő döntése két évig hatályos és fellebbezésre tekintet nélkül végrehajtható.
+(4) A vízügyi hatóság kijelölő döntése két évig hatályos.
 
 (5) A kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.
 

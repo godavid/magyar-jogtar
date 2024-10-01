@@ -388,7 +388,7 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 (2) Az engedélyes megállapodás hiányában az ingatlan használatára vonatkozó használati jog megállapítását kérheti a bíróságtól.
 
-(3) A használati jog alapítását és a fizetendő kártalanítás mértékét a bíróság állapítja meg az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.) meghatározott módon.
+(3) A használati jog alapítását és a fizetendő kártalanítás mértékét a bíróság állapítja meg a magyar építészetről szóló törvényben meghatározott módon.
 
 29. § (1) A használati jog ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal kötött szerződés vagy véglegessé vált hatósági határozat alapján. A használati jog a mindenkori engedélyest illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A használati jog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható.
 

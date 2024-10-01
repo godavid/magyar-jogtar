@@ -82,7 +82,7 @@ a Nemzeti Kulturális Alapról
 - a) a kulturális ágazat területén a nemzeti és az egyetemes értékek létrehozására, megőrzésére, valamint hazai és határon túli terjesztésére;
 - b) a kulturális ágazatot érintő évfordulókra, fesztiválokra, hazai és külföldi rendezvényekre;
 - c) a nemzetközi kiállításokon, vásárokon a nemzeti kulturális jelenlét biztosítására, a hazai és külföldi kulturális rendezvényeken, fesztiválokon történő részvételre;
-- d) a művészeti alkotások új irányzataira, új kulturális kezdeményezésekre, a kultúrával kapcsolatos tudományos kutatásokra, az épített örökséggel, az építőművészettel kapcsolatos tevékenységekre;
+- d) a művészeti alkotások új irányzataira, új kulturális kezdeményezésekre, a kultúrával kapcsolatos tudományos kutatásokra, az építészeti örökséggel, az építőművészettel kapcsolatos tevékenységekre;
 - e) a kultúrateremtő, kultúraközvetítő, valamint egyéni és közösségi tevékenységre, a kiemelkedő szakmai teljesítmények elismerésének díjazásához, valamint a szakmai szervezetek vagy a miniszter által alapított kulturális, művészeti díjakhoz való hozzájárulásra;
 - f) a nemzetközi tagdíjakra.
 
