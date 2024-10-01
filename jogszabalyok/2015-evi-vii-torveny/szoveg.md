@@ -41,7 +41,7 @@ a következő törvényt alkotja:
 
 (3) A Fővállalkozó és az Alvállalkozó a Beruházással kapcsolatos minden szerződését köteles írásban dokumentálni.
 
-(4) A Beruházással összefüggő, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény szerinti kivitelezési szerződések tekintetében nem kell alkalmazni az építtetői fedezetkezelésre vonatkozó rendelkezéseket, továbbá a nyomvonal jellegű építményekre, létesítményekre, építményszerkezetekre és azok műtárgyaira az azokra alkalmazandó kötelező alkalmassági időre vonatkozó rendelkezéseket.
+(4) A Beruházással összefüggő, a magyar építészetről szóló törvény szerinti kivitelezési szerződések tekintetében nem kell alkalmazni az építtetői fedezetkezelésre vonatkozó rendelkezéseket, továbbá a nyomvonal jellegű építményekre, létesítményekre, építményszerkezetekre és azok műtárgyaira az azokra alkalmazandó kötelező alkalmassági időre vonatkozó rendelkezéseket.
 
 (5) A Beruházással összefüggésben megkötött vállalkozási, illetve alvállalkozási szerződést érintően törvényes zálogjogot sem szerződéssel nem lehet kikötni, sem pedig törvényes zálogjog nem keletkezik.
 

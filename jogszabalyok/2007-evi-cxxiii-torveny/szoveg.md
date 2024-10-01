@@ -122,7 +122,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 jelentősen akadályozza vagy megszünteti.
 
-(2) Az (1) bekezdés a) pontja szerinti esetben a tulajdonos annak a szervnek a kisajátítási kérelem benyújtására vonatkozó kötelezését kérheti, akivel – az épített környezet alakításáról és védelméről szóló törvény szerint – az ingatlan adásvételére vonatkozó megállapodás a tulajdonos kezdeményezésétől számított öt éven belül nem jött létre.
+(2) Az (1) bekezdés a) pontja szerinti esetben a tulajdonos annak a szervnek a kisajátítási kérelem benyújtására vonatkozó kötelezését kérheti, akivel – a magyar építészetről szóló törvény szerint – az ingatlan adásvételére vonatkozó megállapodás a tulajdonos kezdeményezésétől számított öt éven belül nem jött létre.
 
 (3) Az (1) bekezdés b) pontja szerinti esetben a közérdekű cél jogosultjának a kisajátítási kérelem benyújtására vonatkozó kötelezését a tulajdonos a jog létesítésétől, vagy a létesítmény használatbavételi engedélye végrehajthatóvá válásától számított két évig kérheti.
 

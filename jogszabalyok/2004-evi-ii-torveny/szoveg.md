@@ -61,7 +61,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, a Kormány rendeletében meghatározott kivételekkel;
 - 29. közvetlen magyar filmgyártási költség: a közvetlen filmgyártási költségek azon csoportja, amely adó vagy egyéb közteher-fizetési kötelezettség formájában merül fel, vagy amelynek felmerülése Magyarországon adó- vagy járulékfizetési kötelezettséget keletkeztet és megfelel az e törvényben meghatározott követelményeknek.
 - 30. mozgóképszakmai képzés: a mozgóképipar szakemberigényének kielégítését célzó, a filmalkotás előállítása során felhasználható speciális szakismeret, kompetencia megszerzése vagy fejlesztése;
-- 31. közterület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti földterület;
+- 31. közterület: a magyar építészetről szóló 2023. évi C. törvény 16. § 73. pontja szerinti földterület;
 - 32. kiemelt nemzeti emlékhely: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 7. § 8. pontja szerinti emlékhely.
 - 33. műpéldány: a filmalkotást vagy egyéb szerzői jogi védelem alatt álló művet, annak azonosítására alkalmas formában tartósan rögzítő hordozó.
 - 34. belföldi magánszemély:

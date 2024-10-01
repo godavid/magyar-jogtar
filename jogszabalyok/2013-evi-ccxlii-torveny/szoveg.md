@@ -136,7 +136,7 @@ tekintetében a feladatait az állam nevében és javára eljárva látja el. A 
 
 rendeltetésű épület, valamint parkoló és gépjárművek, illetve kerékpár elhelyezését biztosító építmény helyezhető el.
 
-(4) Budapest Főváros Önkormányzata – az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben és e törvényben meghatározottak szerint – a Városliget területére rendelet formájában Városligeti építési szabályzatot állapít meg.
+(4) Budapest Főváros Önkormányzata – a magyar építészetről szóló törvényben és e törvényben meghatározottak szerint – a Városliget területére rendelet formájában Városligeti építési szabályzatot állapít meg.
 
 (5) A Városligeti építési szabályzat hatálya a Budapest közigazgatási területén fekvő, Hungária körút – Kacsóh Pongrác út – Hermina út – Ajtósi Dürer sor – Dózsa György út, valamint a Magyar Államvasutak Zrt. 29737 és 29834/3 helyrajzi számú vasúti területe által határolt területre terjed ki.
 

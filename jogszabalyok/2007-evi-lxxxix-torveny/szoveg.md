@@ -83,7 +83,7 @@ illeti meg.
 
 5/B. § (1) Az 5. § (1) bekezdése szerinti területen az államhatár rendjének védelme érdekében épített, telepített létesítmények – ideértve a 15/A. § szerinti létesítményeket is – állami tulajdonba kerülnek, amelyek tekintetében az építtetői, valamint a tulajdonosi jogokat és kötelezettségeket az általános rendőrségi feladatok ellátására létrehozott szerv gyakorolja.
 
-(2) Az államhatár rendjének védelme érdekében épített létesítmény az épített környezet alakításáról és védelméről szóló törvény szerinti nemzetbiztonsági célú, illetve rendeltetésű sajátos építményfajtának minősül.
+(2) Az államhatár rendjének védelme érdekében épített létesítmény a magyar építészetről szóló törvény szerinti nemzetbiztonsági célú, illetve rendeltetésű sajátos építményfajtának minősül.
 
 5/C. § Ha az 5/B. § szerinti létesítmény üzemeltetésére, illetve az ingatlan igénybevételére az 5. § (1) bekezdése szerinti célból már nincs szükség, az ingatlan eredeti állapotát helyre kell állítani.
 

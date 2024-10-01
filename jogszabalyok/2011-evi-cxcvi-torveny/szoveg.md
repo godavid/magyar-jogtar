@@ -475,7 +475,7 @@ részére átengedhető és kizárólag általuk gyakorolható.
 
 - a) az állam által ingyenesen megszerzett ingatlanok,
 - b) a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvényben meghatározottak szerint ingyenesen átruházott lakóingatlanok,
-- c) az épített környezet átalakításáról és védelméről szóló törvényben meghatározott kiszolgáló út létesítése, bővítése során feleslegessé vált, ingyenesen visszaadásra kerülő közterületi ingatlanrész
+- c) a magyar építészetről szóló törvényben meghatározott kiszolgáló út létesítése, bővítése során feleslegessé vált, ingyenesen visszaadásra kerülő közterületi ingatlanrész
 - d) a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházása
 
 esetében.

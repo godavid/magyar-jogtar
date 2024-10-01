@@ -177,7 +177,9 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 42. § Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
 
 - a)
-- b)
+- b) 134. § (1) bekezdésében a „tizenöt” szövegrész helyébe a „harminc” szöveg,
+
+lép.
 
 #### 33. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 

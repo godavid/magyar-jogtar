@@ -1812,7 +1812,7 @@ egyoldalú módosítása
 
 (2) A Hivatal a kiserőmű létesítésére és villamosenergia-termelésére vonatkozó engedélyt egy eljárásban (egyszerűsített engedélyezési eljárás), összevontan adja ki.
 
-(3) A 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőműnek az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 39. §-a szerinti kivitelezése (a továbbiakban: kivitelezés) csak a jogerős kiserőművi összevont engedély közlését követően kezdhető meg. A kivitelezés határidejét a kérelmező által szolgáltatott adatok alapján a Hivatal a kiserőművi összevont engedélyben határozza meg.
+(3) A 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőműnek a magyar építészetről szóló 2023. évi C. törvény 16. § 37. pontja szerinti kivitelezése (a továbbiakban: kivitelezés) csak a jogerős kiserőművi összevont engedély közlését követően kezdhető meg. A kivitelezés határidejét a kérelmező által szolgáltatott adatok alapján a Hivatal a kiserőművi összevont engedélyben határozza meg.
 
 (4) A 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőmű esetén az engedélyes köteles a Hivatalt és az átviteli rendszerirányítót a kiserőmű
 

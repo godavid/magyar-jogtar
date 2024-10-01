@@ -59,7 +59,7 @@ a következő törvényt alkotja:
 
 - a) a háziorvosi, házi gyermekorvosi ellátásról,
 - b) a fogorvosi alapellátásról,
-- c) az alapellátáshoz kapcsolódó fogorvosi ügyeleti ellátásról, valamint Budapest területén az alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról, és
+- c) az alapellátáshoz kapcsolódó fogorvosi ügyeleti ellátásról.
 - d)
 - e) az iskola-egészségügyi ellátásról.
 
@@ -75,7 +75,7 @@ a következő törvényt alkotja:
 
 (4) Nem kell alkalmazni a települési önkormányzatnak a körzethatárok megállapításáról szóló rendeletét, ha a praxiskezelő az egészségügyi alapellátási körzetet az (1) bekezdés szerint kialakította.
 
-6/A. § Az állami mentőszolgálat gondoskodik – az 5. § (1) bekezdés c) pontjában foglalt kivétellel – az egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról.
+6/A. § Az állami mentőszolgálat gondoskodik az egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról.
 
 6/B. § (1) Az állam az egészségügyi alapellátás körében – a települési önkormányzattal együttműködésben – gondoskodik a védőnői ellátásról.
 

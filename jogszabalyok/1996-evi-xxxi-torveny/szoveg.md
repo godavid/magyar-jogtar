@@ -174,7 +174,7 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 
 (4) A (2) bekezdésben meghatározott személyes adatokat és a bejelentést rögzítő hangfelvételeket a tűzoltóság, a közreműködő önkéntes tűzoltó egyesület 5 évig kezeli.
 
-(5) Az (1) és (2) bekezdés alapján nyilvántartott adat a hivatásos katasztrófavédelmi szerv részére hatósági eljárás céljából továbbítható.
+(5) Az (1) és (2) bekezdés szerint nyilvántartott adat a tűzvédelmi, iparbiztonsági hatósági hatáskörben eljáró szerv és a hivatásos katasztrófavédelmi szerv részére hatósági eljárás lefolytatása céljából továbbítható.
 
 (6) A hivatásos katasztrófavédelmi szerv az (1) bekezdés e) pontjában meghatározott adatokat személyazonosításra alkalmatlan módon statisztikai célból is kezelheti.
 
@@ -230,7 +230,7 @@ tevékenységet kíván folytatni, köteles az erre irányuló szándékát a sz
 
 (4) A tűzvédelmi hatóság a hivatásos katasztrófavédelmi szerv központi szerve részére a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technika felülvizsgálatával, javításával összefüggő tevékenységet folytatókról a (3) bekezdés szerint vezetett nyilvántartás adatait átadja.
 
-(5) A hivatásos katasztrófavédelmi szerv központi szerve a (4) bekezdés alapján átvett adatok alapján teljesíti a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 30. § (2) bekezdése szerinti tűzvédelmi hatósági feladatok egységes ellátását.
+(5) A hivatásos katasztrófavédelmi szerv központi szerve a (4) bekezdés szerint átvett adatok alapján honlapján naprakész tájékoztatást ad a (4) bekezdésben meghatározott tevékenységet folytatókról.
 
 13. § (1) Olyan építési termék hozható forgalomba – az egyedi, hagyományos, természetes, bontott vagy műemléki felhasználású építési termék kivételével –, amely rendelkezik az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló jogszabályban meghatározott, beépítéshez szükséges iratokkal.
 
@@ -379,7 +379,7 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 (2) Az (1) bekezdésben meghatározott tűzvédelmi dokumentációt csak az a természetes személy készítheti, aki tűzvédelmi szakértő, vagy tűzvédelmi tervezői jogosultsággal rendelkezik.
 
-(3) A tűzvédelmi tervezői jogosultság a tűzvédelmi tervezői névjegyzéket vezető szerv engedélyével gyakorolható. A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja. A tűzvédelmi tervezői névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
+(3) A tűzvédelmi tervezői jogosultság a tűzvédelmi tervezői névjegyzéket vezető szerv engedélyével gyakorolható. A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a magyar építészetről szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja. A tűzvédelmi tervezői névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
 
 (4)
 
@@ -695,7 +695,15 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 (4) A tűzvédelmi bírság helyszíni bírságként is kiszabható.
 
-#### 44. §
+44. § (1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 10/A. § (5) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A hivatásos katasztrófavédelmi szervtől kormányzati igazgatási szervhez átkerülő hatósági hatáskör esetében a 2024. október 1-jén folyamatban lévő ügyek átadására 8 napon belül kerül sor. A folyamatban lévő ügyekben az ügyintézési határidő e törvény erejénél fogva 8 nappal meghosszabbodik.
+
+(3) A folyamatban lévő ügyekben a hatósági hatáskört telepítő jogszabály hatályba lépése előtt végzett eljárási cselekmények hatályát nem érinti, hogy az eljárás lefolytatása más szerv feladat- és hatáskörébe kerül.
+
+(4) A hatósági hatáskör telepítésének napján folyamatban lévő szakhatósági eljárásban szakhatósági állásfoglalás kiadására nem kerül sor azokban az ügyekben, amelyekben az eljáró hatóságként eljáró kormányzati igazgatási szerv veszi át a volt szakhatósági hatáskört. Ezekben az esetekben a szakkérdést az eljáró hatóság saját eljárásban vizsgálja.
+
+(5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.
 
 #### 45. §
 

@@ -14,30 +14,30 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 (2) Világörökségi vagy világörökségi várományos területté csak
 
-- a) a korábban hozott miniszteri döntéssel, határozattal vagy a kulturális örökség védelméről szóló törvény alapján miniszteri rendelettel védetté nyilvánított és ekként kulturális örökségi védelmet élvező műemléki érték vagy nyilvántartott régészeti lelőhely, vagy
+- a) a korábban hozott miniszteri döntéssel, határozattal vagy a kulturális örökség védelméről szóló törvény vagy a magyar építészetről szóló törvény alapján miniszteri rendelettel védetté nyilvánított és ekként kulturális örökségi védelmet élvező műemléki érték vagy nyilvántartott régészeti lelőhely, vagy
 - b) a természet védelméről szóló törvény erejénél fogva védett vagy a természet védelméről szóló törvényben kapott felhatalmazás alapján védetté nyilvánított országos jelentőségű védett természeti terület, továbbá az országos jelentőségű védett természeti terület kijelölt védőövezete
 
 nyilvánítható.
 
-(3) A világörökségi terület egyben a településkép védelméről szóló törvény szerinti településképi szempontból kiemelten meghatározó területnek is minősül.
+(3) A világörökségi terület egyben a magyar építészetről szóló törvény szerinti településképi szempontból kiemelten meghatározó területnek is minősül.
 
 2. § E törvény alkalmazásában:
 
 - 1. kiemelkedő egyetemes érték: a világörökségi helyszín által megtestesített – az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete (United Nations Educational, Scientific and Cultural Organization, a továbbiakban: UNESCO) Világörökség Bizottsága által ekként elfogadott – érték, amely kivételessége és páratlansága miatt nemzetközi szempontból is kiemelkedő és egyedi kulturális örökségi, illetve természeti jelentőséggel bír, ennélfogva folyamatos megőrzése és védelme az egész emberiség, a jelen és jövő generációi számára kiemelkedő fontosságú;
-- 2. világörökségi helyszín: az UNESCO Világörökség Bizottsága határozata alapján a Világörökség Jegyzékbe felvett, világörökségi címmel rendelkező – e törvény 1. mellékletében meghatározott – helyszín, amelyet a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;
+- 2. világörökségi helyszín: az UNESCO Világörökség Bizottsága határozata alapján a Világörökség Jegyzékbe felvett, világörökségi címmel rendelkező – az 1. mellékletben meghatározott – helyszín, amelyet a kulturális örökségről, a magyar építészetről, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;
 - 3. világörökségi helyszín védőövezete: a világörökségi helyszín környezete, amely az UNESCO Világörökség Bizottságának határozata alapján a világörökségi helyszín kiemelkedő egyetemes értékeinek sértetlenségét, illetve hitelességének védelmét biztosítja, és amelyet a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté vagy jelölték ki, és ekként kulturális örökségi védelmet élvező terület, védett természeti terület, illetve a védett természeti terület védőövezete;
 - 4. Világörökség Jegyzék: az UNESCO Világörökség Bizottsága által az Egyezmény 11. cikk (2) bekezdése alapján létrehozott és vezetett lista;
 - 5. világörökségi terület: a világörökségi helyszín és annak védőövezete;
-- 6. világörökségi várományos helyszín (a továbbiakban: várományos helyszín): a kiemelkedő kulturális örökségi, illetve természeti értékei (a továbbiakban: kiemelkedő érték) révén, az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint az UNESCO Világörökség Központhoz (a továbbiakban: Központ) bejelentett, a Világörökségi Várományos Helyszínek Jegyzékében szereplő helyszín, amelyet a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;
+- 6. várományos helyszín: a kiemelkedő kulturális örökségi, illetve természeti értékei (a továbbiakban együtt: kiemelkedő érték) révén, az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint az UNESCO Világörökség Központhoz (a továbbiakban: Központ) bejelentett, a Világörökségi Várományos Helyszínek Jegyzékében szereplő helyszín, amelyet a kulturális örökségről, a magyar építészetről, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;
 - 7. Világörökségi Várományos Helyszínek Jegyzéke: a kiemelkedő kulturális örökségi vagy természeti értékei alapján a Világörökség Jegyzékbe való felterjesztésre kiválasztott helyszíneknek, azok indokolt esetben javasolt védőövezeteinek és azok lehatárolásainak a kulturális örökség védelméért felelős miniszter rendeletében kihirdetett jegyzéke;
 - 8. várományos helyszín javasolt védőövezete: a várományos helyszín indokolt esetben kijelölt olyan környezete,
   - a) amely kiemelkedő egyetemes értékének sértetlenségét, illetve hitelességének védelmét biztosítja,
-  - b) amelyet a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, illetve jelöltek ki, és ekként kulturális örökségi védelmet élvező terület, országos jelentőségű védett természeti terület vagy annak védőövezete;
+  - b) amelyet a kulturális örökségről, a magyar építészetről, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, illetve jelöltek ki, és ekként kulturális örökségi védelmet élvező terület, országos jelentőségű védett természeti terület vagy annak védőövezete;
 - 9. várományos terület: a várományos helyszín és annak javasolt védőövezete.
 
 #### 2. Általános rendelkezések
 
-3. § (1) A világörökségi helyszín kiemelkedő egyetemes értéket, a várományos helyszín kiemelkedő értéket hordoz, amelyet – a kulturális örökség, a természet, illetve a településkép védelméről szóló jogszabályok alapján fennálló védettséggel összhangban – mindenki köteles megóvni.
+3. § (1) A világörökségi helyszín kiemelkedő egyetemes értéket, a várományos helyszín kiemelkedő értéket hordoz, amelyet - a kulturális örökségről, a magyar építészetről, a természet védelméről, illetve a településkép védelméről szóló jogszabályok alapján fennálló védettséggel összhangban - mindenki köteles megóvni.
 
 (2) A világörökségi és a várományos terület védelme és fennmaradását szolgáló, értékőrző használata közérdek, amely – összhangban a kulturális örökség, a természet, illetve a településkép védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségeikkel – az állami és önkormányzati szervek, az egyházi jogi személyek, a társadalmi és egyéb szervezetek, illetve a természetes személyek együttműködésével valósul meg.
 

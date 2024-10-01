@@ -739,7 +739,7 @@ eljárhat.
 
 (7) a Kormány által rendeletben kijelölt szervezet
 
-- a) az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás, a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer, valamint a kulturális örökség védelméről szóló törvény szerinti központi, közhiteles nyilvántartás működtetéséhez szükséges MePAR programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz, és
+- a) a magyar építészetről szóló törvény szerinti Országos Építésügyi Nyilvántartás, a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer, valamint a kulturális örökség védelméről szóló törvény szerinti központi, közhiteles nyilvántartás működtetéséhez szükséges MePAR programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz, és
 - b) a területfejlesztési és területrendezési feladatainak ellátása érdekében a MePAR-nak a területfejlesztési és területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a MePAR programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz
 
 térítésmentesen hozzáférhet.

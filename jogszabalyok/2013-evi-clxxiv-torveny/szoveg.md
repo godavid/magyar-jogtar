@@ -39,9 +39,9 @@ a szomszédjogok és a tulajdonjog korlátainak különös szabályairól
 
 (3) A (2) bekezdésben foglaltaknál nagyobb mértékű igénybevételre a közterület-használatra vonatkozó helyi önkormányzati rendelet előírásai az irányadók. A helyi önkormányzat rendelete a (2) bekezdésben foglaltaknál nagyobb mértékű térítésmentes igénybevételt is biztosíthat.
 
-(4) E § alkalmazásában közterületnek minősül a településkép védelméről szóló törvényben meghatározott közterület.
+(4) E § alkalmazásában közterületnek minősül a magyar építészetről szóló törvényben meghatározott közterület.
 
-(5) E § rendelkezései nem alkalmazhatóak a kulturális örökség védelméről szóló törvényben meghatározott kiemelt nemzeti emlékhelyre, valamint a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről szóló kormányrendeletben meghatározott kiemelt nemzeti emlékhely településkép-védelmi környezetére.
+(5) E § rendelkezései nem alkalmazhatóak a magyar építészetről szóló törvényben meghatározott kiemelt nemzeti emlékhelyre, valamint a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről szóló kormányrendeletben meghatározott kiemelt nemzeti emlékhely településkép-védelmi környezetére.
 
 6. § (1) A 2–5/A. §-t alkalmazni kell a közös tulajdonban álló ingatlant természetben megosztva használó tulajdonostársak egymás közötti viszonyában is.
 

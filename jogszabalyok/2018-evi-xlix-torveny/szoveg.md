@@ -306,7 +306,7 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 21. § Ez a törvény a kihirdetését követő 5. napon lép hatályba.
 
-22. § (1) A Budai Palotanegyed területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48/A. § (1) bekezdésében foglaltakon túlmenően e törvény, valamint a végrehajtására kiadott jogszabályok előírásainak is megfelel vagy szabályossá tehető.
+22. § (1) A Budai Palotanegyed területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az a magyar építészetről szóló 2023. évi C. törvény a 177. § (1) bekezdésében foglaltakon túlmenően e törvény, valamint a végrehajtására kiadott jogszabályok előírásainak is megfelel vagy szabályossá tehető.
 
 (2) A 15. § d) pontja szerinti közfeladatot 2019. január 1-től látja el állami feladatként a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság.
 

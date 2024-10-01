@@ -848,6 +848,8 @@ típusokba sorolható.
 
 gyakorolja.
 
+(4a) A (4) bekezdés a) és c) pontja szerinti hatáskör gyakorlását kormányrendelet a kormányhivatal irányítására kormányrendeletben kijelölt miniszter és a szakmai irányító miniszter, illetve kormányrendeletben kijelölt más szerv között, továbbá a szakmai irányító miniszter kormányrendeletben meghatározott feladatait a kormányhivatal irányítására kormányrendeletben kijelölt miniszter és a szakmai irányító miniszter között megoszthatja.
+
 (5) A kormányhivatal, illetve a járási hivatal irányítására, a törvényességi, szakszerűségi és hatékonysági ellenőrzésre, továbbá a szakmai irányító miniszter és a (4) bekezdés b) pontja szerinti központi államigazgatási szerv közreműködésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 #### 41. § [A kormányhivatal vezetése]

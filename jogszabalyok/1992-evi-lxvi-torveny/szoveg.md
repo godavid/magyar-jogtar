@@ -555,6 +555,8 @@ van lehetőség.
 
 (2) A nyilvántartást kezelő szerv az (1) bekezdés szerinti közreműködés keretében összeveti a kapott természetes azonosító és lakcím adatokat a nyilvántartásban szereplő adatokkal, és csak az egyezés vagy eltérés tényéről ad tájékoztatást.
 
+19/L. § Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a feladatainak ellátásához a 17. § (2) bekezdés f) pontja szerinti adatokat jogosult igényelni.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;

@@ -162,7 +162,7 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 (3) Az e törvényben meghatározott feladatellátása során, így különösen a kijelölési eljárásban, valamint hatósági ellenőrzés keretében, az eljárással összefüggő és ahhoz szükséges ideig, a minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot a hatóság, a szakhatóság, illetve az eljárásban részt vevő véleménynyilvánító szervek – a minősített adatokra, valamint a nemzetbiztonsági és a honvédelmi érdekű információbiztonságra vonatkozó korlátozások figyelembevételével – megismerhetik.
 
-(4) A hivatásos katasztrófavédelmi szerv központi vagy területi szerve a hatáskörébe utalt hatósági eljárások során, valamint az eljárások végleges lezárását követően a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a rendkívüli események bejelentése és kivizsgálása, a végleges döntéssel összefüggő jogorvoslat, az ügykövetés, a kapcsolattartás, valamint a döntés-felülvizsgálat céljából – bírságfizetési kötelezettség megállapítása esetén – a bírságfizetési kötelezettség teljesítését követő 30. napig, valamint – az ágazati kijelölő hatóságnak a rendszerelem kijelölése visszavonása esetén – e határozatnak a véglegessé válását követő 30. napig az alábbi személyes adatokat kezeli:
+(4) A Kormány rendeletében kijelölt szerv központi vagy területi szerve a hatáskörébe utalt hatósági eljárások során, valamint az eljárások végleges lezárását követően a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a rendkívüli események bejelentése és kivizsgálása, a végleges döntéssel összefüggő jogorvoslat, az ügykövetés, a kapcsolattartás, valamint a döntés-felülvizsgálat céljából – bírságfizetési kötelezettség megállapítása esetén – a bírságfizetési kötelezettség teljesítését követő 30. napig, valamint – az ágazati kijelölő hatóságnak a rendszerelem kijelölése visszavonása esetén – e határozatnak a véglegessé válását követő 30. napig az alábbi személyes adatokat kezeli:
 
 - a) a biztonsági összekötő személy természetes személyazonosító adatai, elektronikus levelezési címe, telefonszáma,
 - b) az ügyfél természetes személy képviselőjének neve, telefonszáma, e-mail címe, valamint
@@ -197,13 +197,14 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 - c) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem helyszíni ellenőrzését lefolytató szerv részére a helyszíni ellenőrzés lefolytatása céljából,
 - d) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem hatósági ellenőrzésére jogszabály alapján feladat- és hatáskörrel rendelkező hatóságok részére a hatósági ellenőrzések lefolytatása céljából,
 - e) rendkívüli esemény bekövetkezése esetén az eseménykezelésben és a helyreállításban részt vevő szervek tevékenységének támogatása céljából,
-- f) a hivatásos katasztrófavédelmi szerv területi és helyi szervei részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,
+- f) a Kormány rendeletében kijelölt szerv részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,
 - g) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény (a továbbiakban: Ibtv.) 2. § (5) bekezdése és 14. § (1) bekezdése szerinti hatóság, az Európai Parlament és a Tanács 2016. július 6-i (EU) 2016/1148 irányelve alapján kormányrendeletben kijelölt egyedüli kapcsolattartó pont, valamint az Ibtv. 19. § (1) és (2) bekezdése szerinti eseménykezelő központ részére feladataik ellátása céljából,
 - h) a honvédelmi ágazat javaslattevő hatósága részére a lehetséges honvédelmi létfontosságú rendszerelemek körének felmérése céljából,
 - i) különleges jogrend vagy honvédelmi veszélyhelyzet időszakában a honvédelmi ágazat javaslattevő hatósága részére a nemzeti létfontosságú rendszerelemek fokozott védelmének megszervezése céljából,
 - j) az egységes digitális rádiótávközlő rendszer (a továbbiakban: EDR) kormányzati célú hírközlési szolgáltatás biztosítása érdekében az EDR szolgáltatás biztosítójának,
 - k) nemzetbiztonsági, valamint terrorelhárítási érdekből, külön, a feladatellátásért felelős szerv által benyújtott, indokolt kérelem alapján.
 - l) polgári védelmi kötelezettség megállapítása esetén a helyi önkormányzat polgármesterének a kritikus munkakörben foglalkoztatott személy státuszának igazolása céljából.
+- m) a hivatásos katasztrófavédelmi szerv központi, területi és helyi szervei megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait a nyilvántartó hatóság, valamint a kijelölési eljárásban érintett valamennyi hatóság az ágazati kijelölő hatóság rendszerelem kijelölése visszavonásáról szóló határozatának véglegessé válása után 30 napon belül a nyilvántartásból törli és erről az üzemeltetőt írásban értesíti.
 
@@ -224,15 +225,15 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 (6) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője soron kívül módosítja az üzemeltetői biztonsági tervet, ha olyan változás áll be, amely érinti a létfontosságú rendszerelem szolgáltatásának nyújtását, tevékenységét, működésének feltételeit vagy védelmét. A módosított üzemeltetői biztonsági terv ellenőrzésére, elfogadására és megküldésére a (2) bekezdés szabályait kell alkalmazni.
 
-(7) Az üzemeltető az üzemeltetői biztonsági tervben és az informatikai biztonsági szabályzatban foglaltak megvalósíthatóságát biztosítja és rendszeresen ellenőrzi. Ennek érdekében a hivatásos katasztrófavédelmi szerv központi szerve által meghatározott üzemeltetők meghatározott gyakorisággal, a hivatásos katasztrófavédelmi szerv központi vagy területi szerve irányításával, az ágazati kijelölő hatóság bevonásával folytatnak le olyan gyakorlatot, ahol az üzemeltetői biztonsági tervben megjelölt szervezeti és eszközrendszert, és az információ- és hálózatbiztonsági ellenállóképességet gyakorolják (a továbbiakban: komplex gyakorlat).
+(7) Az üzemeltető az üzemeltetői biztonsági tervben és az informatikai biztonsági szabályzatban foglaltak megvalósíthatóságát biztosítja és rendszeresen ellenőrzi. Ennek érdekében a Kormány rendeletében kijelölt szerv által meghatározott üzemeltetők meghatározott gyakorisággal, a Kormány rendeletében kijelölt szerv irányításával, az ágazati kijelölő hatóság bevonásával folytatnak le olyan gyakorlatot, ahol az üzemeltetői biztonsági tervben megjelölt szervezeti és eszközrendszert, és az információ- és hálózatbiztonsági ellenállóképességet gyakorolják (a továbbiakban: komplex gyakorlat).
 
-(8) A komplex gyakorlat megfelelőségét a hivatásos katasztrófavédelmi szerv központi vagy területi szerve – az ágazati kijelölő hatóság bevonásával – értékeli. Amennyiben a komplex gyakorlat során az értékelő azt állapítja meg, hogy az üzemeltetői biztonsági terv, illetve az informatikai biztonsági szabályzat nem megfelelő, az üzemeltetőt az üzemeltetői biztonsági terv, illetve az informatikai biztonsági szabályzat módosítására, és a komplex gyakorlat megismétlésére kötelezi.
+(8) A komplex gyakorlat megfelelőségét a Kormány rendeletében kijelölt szerv központi vagy területi szerve – az ágazati kijelölő hatóság bevonásával – értékeli. Amennyiben a komplex gyakorlat során az értékelő azt állapítja meg, hogy az üzemeltetői biztonsági terv, illetve az informatikai biztonsági szabályzat nem megfelelő, az üzemeltetőt az üzemeltetői biztonsági terv, illetve az informatikai biztonsági szabályzat módosítására, és a komplex gyakorlat megismétlésére kötelezi.
 
 (9) Ha az üzemeltető a létfontosságú rendszerelem európai létfontosságú rendszerelemmé vagy nemzeti létfontosságú rendszerelemmé történő kijelölésekor rendelkezik olyan biztonsági dokumentummal, amely az üzemeltetői biztonsági terv tartalmi elemeit magában foglalja, akkor kérelmére az ágazati kijelölő hatóság rendelkezhet úgy, hogy a biztonsági dokumentum az üzemeltetői biztonsági tervet helyettesíti.
 
 (10) A (9) bekezdés szerinti esetben a biztonsági dokumentumot kell megküldeni a nyilvántartó hatóságnak az 5. § szerinti nyilvántartásba vétel céljából.
 
-(11) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzétett formában és módon, valamint az ágazati kijelölő hatóságot. Az üzemeltető a honvédelmi létfontosságú rendszerelem vonatkozásában a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálatot is haladéktalanul értesíti.
+(11) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a Kormány rendeletében kijelölt szervet a honlapján közzétett formában és módon, valamint az ágazati kijelölő hatóságot. Az üzemeltető a honvédelmi létfontosságú rendszerelem vonatkozásában a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálatot is haladéktalanul értesíti.
 
 (12) Az üzemeltetői biztonsági terv és mellékletei, vagy az azokat helyettesítő biztonsági dokumentum nem nyilvános.
 
@@ -251,7 +252,7 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 7. § Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetőjét terhelik az üzemeltetői biztonsági terv elkészítésének, módosításának és gyakoroltatásának, a biztonsági összekötő személy foglalkoztatásának költségei, valamint az üzemeltetői biztonsági tervben foglalt, a létfontosságú rendszerelemek védelmét szolgáló szervezeti és eszközrendszerrel kapcsolatban felmerült költségek.
 
-8. § (1) A hivatásos katasztrófavédelmi szerv központi szerve – a (2) bekezdésben meghatározott kivétellel – az ellenőrzést koordináló szerv. A hivatásos katasztrófavédelmi szerv központi szerve az európai létfontosságú rendszerelemet vagy a nemzeti létfontosságú rendszerelemet rendszeresen ellenőrzi.
+8. § (1) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem jogszabályban és kijelölő döntésben meghatározott kötelezettségének teljesítését rendszeresen ellenőrizni kell. Az ellenőrzést a Kormány által kijelölt, ellenőrzést koordináló szerv hangolja össze.
 
 (2) A honvédelmi létfontosságú rendszerelemek és a hivatásos katasztrófavédelmi szerv létfontosságú rendszerelemei tekintetében az ellenőrzést koordináló szervet és a helyszíni ellenőrzést lefolytató szervet a Kormány rendeletben jelöli ki.
 
@@ -265,12 +266,12 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 (7) Az ágazati kijelölő hatóság és az ellenőrzést koordináló szerv az európai létfontosságú rendszerelemnél vagy nemzeti létfontosságú rendszerelemnél a komplex, valamint a helyszíni ellenőrzés keretében ellenőrizheti azt is, hogy a biztonsági összekötő büntetlen előéletű-e, amely érdekében adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a biztonsági összekötő büntetlen előéletű-e.
 
-(8) A helyszíni ellenőrzést lefolytató szerv és az (1) bekezdés szerinti esetben a hivatásos katasztrófavédelmi szerv központi szerve a (7) bekezdés alapján megismert személyes adatokat – ha a hatósági ellenőrzése során azt állapítja meg, hogy a biztonsági összekötő a büntetlen előélet követelményének nem felel meg – a 9. § szerinti eljárás lefolytatása céljából az ágazati kijelölő hatóságnak átadja.
+(8) A helyszíni ellenőrzést lefolytató szerv és az (1) bekezdés szerinti esetben a Kormány által kijelölt, ellenőrzést koordináló szerv a (7) bekezdés alapján megismert személyes adatokat – ha a hatósági ellenőrzése során azt állapítja meg, hogy a biztonsági összekötő a büntetlen előélet követelményének nem felel meg – a 9. § szerinti eljárás lefolytatása céljából az ágazati kijelölő hatóságnak átadja.
 
 (9) A (7) és a (8) bekezdés alapján megismert személyes adatokat
 
 - a) a helyszíni ellenőrzést lefolytató szerv a helyszíni ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
-- b) az (1) bekezdés szerinti esetben a hivatásos katasztrófavédelmi szerv központi szerve a hatósági ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
+- b) a Kormány által kijelölt szerv a hatósági ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
 - c) az ágazati kijelölő hatóság a 9. § szerinti eljárásban a hatósági ellenőrzés időtartamára, valamint a 9. § szerinti határozat véglegessé válásáig
 
 kezeli.
@@ -290,7 +291,7 @@ kezeli.
 
 #### 4/A. A kijelölési és a kijelölés visszavonása iránti eljárás elektronikus ügyintézésének különös szabályai
 
-9/C. § Ezen alcím rendelkezéseit a hivatásos katasztrófavédelmi szerv előtti eljárásokban kell alkalmazni. A hivatásos katasztrófavédelmi szerv előtt indult valamennyi hatósági eljárásban, így különösen a kijelölési, kijelölés visszavonása iránti eljárásokban az ügyfél elektronikus azonosítását követően az azonosítási jelentését, nyilatkozatát, adatszolgáltatását a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti Integrált Hatósági Rendszeren (a továbbiakban: IHR) keresztül nyújtja be a hivatásos katasztrófavédelmi szerv részére.
+9/C. § Ezen alcím rendelkezéseit a hivatásos katasztrófavédelmi szerv előtti eljárásokban kell alkalmazni. A hivatásos katasztrófavédelmi szerv előtt indult eljárásokban az ügyfél elektronikus azonosítását követően az azonosítási jelentését, nyilatkozatát, adatszolgáltatását a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti Integrált Hatósági Rendszeren (a továbbiakban: IHR) keresztül nyújtja be a hivatásos katasztrófavédelmi szerv részére.
 
 9/D. § Az üzemeltető elektronikus azonosítását követően az IHR-be tölti fel az azonosítási jelentését, az üzemeltetői biztonsági tervet, a biztonsági összekötő személy adatközlő lapját, a rendkívüli események bejelentésére szolgáló űrlapot, valamint más, a Kormány rendeletében meghatározott esetekben a hivatásos katasztrófavédelmi szerv eljárásához szükséges dokumentumokat.
 
@@ -298,7 +299,7 @@ kezeli.
 
 #### 5. Az általános javaslattevő hatóság feladatai és jogköre
 
-10. § (1) A hivatásos katasztrófavédelmi szerv központi szerve a katasztrófavédelem, közrend, közbiztonság, lakosságvédelem, nemzetbiztonság, terrorelhárítás szempontjaira tekintettel, a nemzeti létfontosságú rendszerelemmé történő kijelölés vonatkozásában általános javaslattevő hatóság.
+10. § (1) A Kormány által kijelölt szerv a katasztrófavédelem, közrend, közbiztonság, lakosságvédelem, nemzetbiztonság, terrorelhárítás szempontjaira tekintettel, a nemzeti létfontosságú rendszerelemmé történő kijelölés vonatkozásában általános javaslattevő hatóság.
 
 (2) Az általános javaslattevő hatóság az ágazatok és alágazatok helyzetét – figyelembe véve az ágazati és horizontális kritériumok teljesülését, valamint a 13. § (2) bekezdése szerinti értékelés megállapításait – félévente értékeli, és az értékelés alapján készített ügyindító javaslatát megküldi az ágazati kijelölő hatóság részére. Az ágazati kijelölő hatóság hivatalból hatósági eljárást indít az ügyindító javaslatban szereplő létfontosságú rendszerelem, szolgáltatások, üzemeltetők kijelölésére.
 
@@ -364,7 +365,7 @@ meghatározható.
 
 14. § Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) jelölje ki az ágazati kijelölő hatóságot, a javaslattevő hatóságot, a helyszíni ellenőrzést lefolytató szervet, a 8. § (2) bekezdése szerinti ellenőrzést koordináló szervet,
+- a) jelölje ki az ágazati kijelölő hatóságot, a javaslattevő hatóságot, a helyszíni és a komplex ellenőrzést lefolytató szervet és a 8. § (1) és (2) bekezdése szerinti ellenőrzést koordináló szervet,
 - b) állapítsa meg az azonosítási vizsgálat, a kijelölési eljárás és a hatósági ellenőrzés általános és az ágazatokra vonatkozó különös szabályait, állapítsa meg a kijelölés visszavonására vonatkozó eljárási szabályokat,
 - c) állapítsa meg az azonosítási vizsgálatban, a kijelölési eljárásban, a hatósági ellenőrzésben, a kijelölés visszavonására vonatkozó eljárásban részt vevő hatóságok közötti együttműködés szabályait,
 - d) állapítsa meg az ágazati és a horizontális kritériumokat,

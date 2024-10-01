@@ -6,7 +6,7 @@ Az Országgyűlés abból a célból, hogy a kulturális örökség műemléki �
 
 #### 1. Célok és alapvető rendelkezések
 
-1. § (1) A kulturális értékek védelme, fenntartása és a jövő nemzedékek számára való megőrzése mint közcélok megvalósulása érdekében az állam szükségesnek tartja magánjogi szereplők kivételes bevonását, ha a kulturális örökség műemléki értéket képviselő elemének a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.), valamint a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) által meghatározott módon történő működtetése, fenntartása, használata, felújítása, fenntartható fejlesztése és hasznosítása az állam által fenntartott intézményrendszer útján nem érhető el.
+1. § (1) A kulturális értékek védelme, fenntartása és a jövő nemzedékek számára való megőrzése mint közcélok megvalósulása érdekében az állam szükségesnek tartja magánjogi szereplők kivételes bevonását, ha a kulturális örökség műemléki értéket képviselő elemének a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.), valamint a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) által meghatározott módon történő működtetése, fenntartása, használata, felújítása, fenntartható fejlesztése és hasznosítása az állam által fenntartott intézményrendszer útján nem érhető el.
 
 (2) Az állam az (1) bekezdésben meghatározott célra figyelemmel támogatja a magánjogi szereplőknek a kulturális örökség elemei védelme érdekében kifejtett erőfeszítéseit, hozzájárul a működés és további fejlesztés középtávú kiszámíthatóságához szükséges finanszírozási feltételek megteremtéséhez.
 
@@ -14,13 +14,13 @@ Az Országgyűlés abból a célból, hogy a kulturális örökség műemléki �
 
 2. § (1) E törvény hatálya az 1. melléklet szerinti, az állam tulajdonában álló ingatlanokra (a továbbiakban: ingatlan) és az azokhoz leltár szerint tartozó ingóságokra (a továbbiakban: ingóság) terjed ki.
 
-(2) E törvény eltérő rendelkezése hiányában a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.), a Kötv., az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.), az Nvtv., a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.), valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) rendelkezéseit kell alkalmazni.
+(2) E törvény eltérő rendelkezése hiányában a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.), a Méptv., az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.), az Nvtv., a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.), valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) rendelkezéseit kell alkalmazni.
 
 (3) Az e törvény alapján történő vagyonjuttatás esetén a Kultv. 38/C. §-át, a sportról szóló 2004. évi I. törvény 64. § (3) és (4) bekezdését, a Vtv. 36. § (2a) bekezdését, az Nvtv. 6. § (1) bekezdését, valamint 11. § (1) és (13) bekezdését nem kell alkalmazni.
 
 (4) Az 1. mellékletben meghatározott ingatlanok tekintetében az e törvény alapján történő vagyonjuttatásról szóló döntést az állam nevében a kulturális örökség védelméért felelős miniszter (a továbbiakban: miniszter) hozza meg.
 
-(5) Ha a (4) bekezdés szerinti döntés nemzeti vagy történelmi emlékhelyet vagy magyar emlékpontot érint, akkor a (4) bekezdés szerinti döntési jogkört a Kötv. 86. §-a és 87. §-a alapján elővásárlási jog gyakorlására jogosult miniszter gyakorolja.
+(5) Ha a (4) bekezdés szerinti döntés nemzeti vagy történelmi emlékhelyet vagy magyar emlékpontot érint, akkor a (4) bekezdés szerinti döntési jogkört a Kötv. 86. §-a, valamint a Méptv. 127. §-a alapján elővásárlási jog gyakorlására jogosult miniszter gyakorolja.
 
 3. § (1) Az ingatlan, valamint – a 6. § (3) bekezdésében foglalt védett kulturális javak (a továbbiakban: kulturális javak) kivételével – az ingóság az 1. § szerinti alapvető rendelkezések és célok megvalósulása érdekében kivételesen, nyilvántartási értéken történő átvezetéssel tulajdonba adhatóak az e törvényben meghatározott feltételekkel az ingatlan védelme, megőrzése és fejlesztése érdekében.
 
@@ -33,7 +33,7 @@ Az Országgyűlés abból a célból, hogy a kulturális örökség műemléki �
 
 (4) Az ingatlannak, valamint az ingóságnak közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagy a tulajdonában álló, vagy az általa fenntartott jogi személy részére az (1) bekezdés szerint történő tulajdonába adása esetén a tulajdonszerző az ingatlant kizárólag a létesítő okirata szerinti közfeladata ellátásához hasznosíthatja, beleértve az ingatlannal összefüggésben keletkező valamennyi bevételt, különösen az abban elhelyezett közgyűjtemény látogatói által fizetett belépődíjakat.
 
-4. § (1) A Kötv. figyelembevételével a miniszter évente felméri az 1. melléklet szerinti ingatlanok működtetésére, fenntartására, karbantartására, felújítására, fenntartható fejlesztésére, hasznosítására vonatkozó kötelezettségeket és azok elvárható teljesülését. Ennek céljából a szükséges mértékben az ingatlan vagyonkezelőjétől adatot és tájékoztatást kér.
+4. § (1) A Méptv. figyelembevételével a miniszter évente felméri az 1. melléklet szerinti ingatlanok működtetésére, fenntartására, karbantartására, felújítására, fenntartható fejlesztésére, hasznosítására vonatkozó kötelezettségeket és azok elvárható teljesülését. Ennek céljából a szükséges mértékben az ingatlan vagyonkezelőjétől adatot és tájékoztatást kér.
 
 (2) A miniszter az (1) bekezdés szerinti felmérés során hatvan napon belül megvizsgálja különösen
 
@@ -41,18 +41,18 @@ Az Országgyűlés abból a célból, hogy a kulturális örökség műemléki �
 - b) az (1) bekezdésben meghatározott kötelezettségek teljesítésének központi költségvetési forrás felhasználásával történő kizárólagos biztosíthatóságát,
 - c) a vagyonkezelés során az Nvtv. III. Fejezete szerinti, nemzeti vagyonnal való felelős gazdálkodás követelményének megtartottságát,
 - d) az ingatlan állapotát, valamint
-- e) a Kötv.-ben foglalt célok és kötelezettségek más állami vagyonkezelő bevonásával való hatékonyabb megvalósíthatóságának lehetőségét.
+- e) a Méptv.-ben foglalt célok és kötelezettségek más állami vagyonkezelő bevonásával való hatékonyabb megvalósíthatóságának lehetőségét.
 
 (3) Ha a (2) bekezdésben foglalt szempontok figyelembevétele alapján megállapítható, hogy
 
-- a) a vagyonkezelő az ingatlant nem a Kötv. szabályai szerint kezeli,
+- a) a vagyonkezelő az ingatlant nem a Méptv. szabályai szerint kezeli,
 - b) a vagyonkezelő az ingatlant nem az Nvtv. III. Fejezete szerinti, nemzeti vagyonnal való felelős gazdálkodás követelménye szerint kezeli,
 - c) a vagyonkezelő az ingatlan fenntartásáról, karbantartásáról, szükséges felújításáról, fenntartható fejlesztéséről, hasznosításáról – a (2) bekezdés d) pontja alapján is megállapíthatóan – nem az (1) bekezdésben foglalt kötelezettségek szerint gondoskodik,
 - d) a (2) bekezdés e) pont alkalmazása sem indokolt,
 
 akkor a miniszter a (4) és (5) bekezdésben meghatározottak szerint jár el.
 
-(4) Ha a vagyonkezelő az ingatlant nem elsődlegesen a kulturális örökség feltárása, tudományos feldolgozása, megóvása, védelme, vagy közkinccsé tétele céljából használja, hasznosítja, hanem abban elsődlegesen más feladatot lát el, akkor a miniszter – a használat, hasznosítás célját nem érintve – megfelelő határidő tűzésével felhívja a vagyonkezelőt a Kötv.-nek és az Nvtv. III. Fejezete szerinti, nemzeti vagyonnal való felelős gazdálkodás követelményének megfelelő körülmények helyreállítására.
+(4) Ha a vagyonkezelő az ingatlant nem elsődlegesen a kulturális örökség feltárása, tudományos feldolgozása, megóvása, védelme, vagy közkinccsé tétele céljából használja, hasznosítja, hanem abban elsődlegesen más feladatot lát el, akkor a miniszter – a használat, hasznosítás célját nem érintve – megfelelő határidő tűzésével felhívja a vagyonkezelőt a Méptv.-nek és az Nvtv. III. Fejezete szerinti, nemzeti vagyonnal való felelős gazdálkodás követelményének megfelelő körülmények helyreállítására.
 
 (5) A miniszter az ingatlan e törvény szerinti tulajdonba adására vonatkozóan az általa vezetett minisztérium honlapján felhívást tehet közzé, ha
 
@@ -60,7 +60,7 @@ akkor a miniszter a (4) és (5) bekezdésben meghatározottak szerint jár el.
 - b) a (4) bekezdés szerint kitűzött határidő eredménytelenül eltelt, vagy
 - c) az ingatlan állami feladat ellátását nem szolgálja
 
-és az ingatlan funkciójára is figyelemmel az e törvény szerinti, magánjogi szereplő kivételes bevonásával a tulajdonba adás az állam Kötv.-ben megfogalmazott örökségvédelmi céljai elérését az 1. § (1) bekezdésében foglaltakra is figyelemmel megfelelőbben szolgálja, mint az ingatlan állami tulajdonban tartása.
+és az ingatlan funkciójára is figyelemmel az e törvény szerinti, magánjogi szereplő kivételes bevonásával a tulajdonba adás az állam Méptv.-ben megfogalmazott örökségvédelmi céljai elérését az 1. § (1) bekezdésében foglaltakra is figyelemmel megfelelőbben szolgálja, mint az ingatlan állami tulajdonban tartása.
 
 (6) A 3. § (1) bekezdése szerinti tulajdonba adásra irányuló kérelmet a felhívás közzétételét követő hatvan napon belül
 
@@ -124,8 +124,8 @@ nyújthat be postai úton vagy a felhívásban foglalt tájékoztatásnak megfel
 
 6. § (1) A szerződésben a tulajdonszerző számára elő kell írni különösen azt, hogy
 
-- a) az ingatlant a jó gazda gondosságával üzemelteti, a jogszabályok, különösen a Kötv. által meghatározottak szerint fenntartja, állagromlását a szükséges karbantartási munkálatok végzése útján megelőzi, a mindenkor szükségessé váló, műemlékvédelmi előírásoknak megfelelő, állagjavulást eredményező felújítási munkálatok elvégzéséről gondoskodik,
-- b) az ingatlan homlokzatának megváltoztatásával járó, valamint az ingatlan alapozását vagy tartószerkezetét is érintő építési, bontási, restaurálási tevékenységet a Kötv. előírásaira figyelemmel és a miniszter előzetes, írásbeli engedélyével végezhet,
+- a) az ingatlant a jó gazda gondosságával üzemelteti, a jogszabályok, különösen a Méptv. által meghatározottak szerint fenntartja, állagromlását a szükséges karbantartási munkálatok végzése útján megelőzi, a mindenkor szükségessé váló, műemlékvédelmi előírásoknak megfelelő, állagjavulást eredményező felújítási munkálatok elvégzéséről gondoskodik,
+- b) az ingatlan homlokzatának megváltoztatásával járó, valamint az ingatlan alapozását vagy tartószerkezetét is érintő építési, bontási, restaurálási tevékenységet a Méptv. előírásaira figyelemmel és a miniszter előzetes, írásbeli engedélyével végezhet,
 - c) az ingatlanban a tulajdonba adás napján működő közgyűjtemény látogathatóságát a Kultv. és végrehajtási rendeletei szerint továbbra is biztosítja,
 - d) az épületben található közgyűjtemény nyilvánosság számára történő látogatását ingyenesen vagy térítés ellenében lehetővé teszi évente legalább 300 napon,
 - e) az ingatlanhoz tartozó parkot, kertet az év minden napján a nyilvánosság számára ingyenesen nyitva tartja 10.00 óra és 19.00 óra között,
@@ -308,7 +308,15 @@ sarkalatosnak minősül.
 
 21. § E törvény 4. alcíme a 651/2014/EU bizottsági rendelet 53. cikke hatálya alá tartozó támogatást tartalmaz.
 
-#### 22. §
+22. § (1) Az 1. § (1) bekezdésében a „kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.)” szövegrész helyébe a „magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.)” szöveg lép.
+
+(2) A 2. § (2) bekezdésében, a 4. § (1) bekezdésében, a 4. § (3) bekezdés a) pontjában, a 6. § (1) bekezdés a) és b) pontjában a „Kötv.” szövegrész helyébe a „Méptv.” szöveg lép.
+
+(3) A 2. § (5) bekezdésében a „Kötv. 86. §-a és 87. §-a” szövegrész helyébe a „Kötv. 86. §-a, valamint a Méptv. 127. §-a” szöveg lép.
+
+(4) A 4. § (4) bekezdésében a „Kötv.-nek” szövegrész helyébe a „Méptv.-nek” szöveg lép.
+
+(5) A 4. § (2) bekezdés e) pontjában és a 4. § (5) bekezdésében „Kötv.-ben” szövegrész helyébe a „Méptv.-ben” szöveg lép.
 
 #### 23. §
 

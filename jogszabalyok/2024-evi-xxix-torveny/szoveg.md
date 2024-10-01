@@ -78,23 +78,39 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-#### 5.
+#### 5. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-#### 5. §
+5. § A közúti közlekedésről szóló 1988. évi I. törvény 20. §-a a következő (11c) bekezdéssel egészül ki:
 
-#### 6. §
+„(11c) Az (1) bekezdés e) és n) pontja tekintetében – az (1) bekezdés e) pontja esetében a veszélyes áru szállítójának (fuvarozójának), feladójának, csomagolójának, be- és kirakójának, töltő- és ürítőjének, címzettjének telephelyén is – a Kormány rendeletében kijelölt hatóság jogosult a (11) bekezdésben meghatározott hatóságokkal együtt vagy önállóan ellenőrizni.”
 
-#### 7. §
+6. § A közúti közlekedésről szóló 1988. évi I. törvény
+
+- a) 20. § (2) bekezdésében a „(11) bekezdésben” szövegrész helyébe a „(11) és (11c) bekezdésben” szöveg és a „katasztrófavédelmi hatóság” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- b) 20. § (2a) bekezdésében a „(11) bekezdésben” szövegrész helyébe a „(11) és (11c) bekezdésben” szöveg és a „katasztrófavédelmi hatóság” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- c) 20. § (2b) bekezdésében a „katasztrófavédelmi hatóság” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- d) 48. § (3) bekezdés a) pont 16. alpontjában az „ellenőrzésére vonatkozó” szövegrész helyébe az „ellenőrzésére jogosult hatóság kijelölését, valamint az ellenőrzésre vonatkozó” szöveg
+
+lép.
+
+7. § Hatályát veszti a közúti közlekedésről szóló 1988. évi I. törvény
+
+- a) 20. § (11) bekezdés a) pont ac) alpontja,
+- b) 20. § (11) bekezdés b) pont bb) alpontja,
+- c) 20. § (11) bekezdés d) pontjában a „katasztrófavédelmi hatóság és a” szövegrész,
+- d) 20. § (11) bekezdés h) pontjában az „és a katasztrófavédelmi hatóság” szövegrész.
 
 #### 6. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
 #### 8. §
 
-#### 7.
+#### 7. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-#### 9. §
+9. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény X. Fejezete a következő 114. §-sal egészül ki:
 
-#### 10. §
+„114. § A 66/B. §-t hatályon kívül helyező, az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvény 10. § hatálybalépésének napján folyamatban lévő másodfokú hatósági eljárást a hatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú hatósági eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.”
+
+10. § Hatályát veszti a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 66/B. §-a.
 
 #### 8. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
@@ -110,26 +126,64 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 16. § A vízgazdálkodásról szóló 1995. évi LVII. törvény
 
-- a)
+- a) 2/A. § (3) bekezdésében az „a vízügyi hatóság központi szervének” szövegrész helyébe az „a kormányrendeletben meghatározott vízügyi hatóság” szöveg és az „a vízügyi hatóság központi szerve” szövegrész helyébe az „a kormányrendeletben meghatározott vízügyi hatóság” szöveg,
 - b)
 
 lép.
 
-#### 17. §
+17. § Hatályát veszti a vízgazdálkodásról szóló 1995. évi LVII. törvény
 
-#### 9.
+- a) 29/A. §-ában a „vízügyi hatósági eljárásban és az elsőfokú” szövegrész,
+- b) 45. § (4) bekezdése,
+- c) 45/F. § (4) bekezdésében az „és fellebbezésre tekintet nélkül végrehajtható” szövegrész.
 
-#### 18. §
+#### 9. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-#### 19. §
+18. § A légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés aa) pontja helyébe a következő rendelkezés lép:
 
-#### 10.
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
 
-#### 20. §
+„aa) a veszélyes áru szállítása bejelentésének részletszabályait, a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzésére és bírság kivetésére jogosult hatóság kijelölését, a kijelölt hatóság által végzett ellenőrzésre és a bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a Kormány rendeletében kijelölt hatóság által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok részletes szabályait,”
 
-#### 21. §
+19. § A légiközlekedésről szóló 1995. évi XCVII. törvény
 
-#### 22. §
+- a) 3. § (5) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság (a továbbiakban: a Kormány rendeletében kijelölt hatóság)” szöveg,
+- b) 3/F. § (1) bekezdés nyitó szövegrészében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- c) 3/F. § (2) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- d) 3/F. § (3) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- e) 20. § (6) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg és a „katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- f) 66/B. § (1) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe az „a Kormány rendeletében kijelölt hatóság” szöveg,
+- g) 66/B. § (3) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- h) 66/B. § (5) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrészek helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- i) 66/B. § (6) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- j) 66/B. § (7) bekezdés nyitó szövegrészében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- k) 66/B. § (8) bekezdés nyitó szövegrészében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- l) 67/B. § (7) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg
+- m) 73. § (1) bekezdés a) pont aa) alpontjában a „hivatásos katasztrófavédelmi szerv” szövegrészek helyébe a „Kormány rendeletében kijelölt hatóság” szöveg
+
+lép.
+
+#### 10. A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosítása
+
+20. § A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 10/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az (1) és (2) bekezdés szerint nyilvántartott adat a tűzvédelmi, iparbiztonsági hatósági hatáskörben eljáró szerv és a hivatásos katasztrófavédelmi szerv részére hatósági eljárás lefolytatása céljából továbbítható.”
+
+21. § A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 12. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A hivatásos katasztrófavédelmi szerv központi szerve a (4) bekezdés szerint átvett adatok alapján honlapján naprakész tájékoztatást ad a (4) bekezdésben meghatározott tevékenységet folytatókról.”
+
+22. § A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény a következő 44. §-sal egészül ki:
+
+„44. § (1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 10/A. § (5) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A hivatásos katasztrófavédelmi szervtől kormányzati igazgatási szervhez átkerülő hatósági hatáskör esetében a 2024. október 1-jén folyamatban lévő ügyek átadására 8 napon belül kerül sor. A folyamatban lévő ügyekben az ügyintézési határidő e törvény erejénél fogva 8 nappal meghosszabbodik.
+
+(3) A folyamatban lévő ügyekben a hatósági hatáskört telepítő jogszabály hatályba lépése előtt végzett eljárási cselekmények hatályát nem érinti, hogy az eljárás lefolytatása más szerv feladat- és hatáskörébe kerül.
+
+(4) A hatósági hatáskör telepítésének napján folyamatban lévő szakhatósági eljárásban szakhatósági állásfoglalás kiadására nem kerül sor azokban az ügyekben, amelyekben az eljáró hatóságként eljáró kormányzati igazgatási szerv veszi át a volt szakhatósági hatáskört. Ezekben az esetekben a szakkérdést az eljáró hatóság saját eljárásban vizsgálja.
+
+(5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.”
 
 #### 11. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
@@ -165,11 +219,27 @@ lép.
 
 #### 35. §
 
-#### 15.
+#### 15. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-#### 36. §
+36. § A víziközlekedésről szóló 2000. évi XLII. törvény 88. § (1) bekezdése a következő v) ponttal egészül ki:
 
-#### 37. §
+(Felhatalmazást kap a Kormány)
+
+„v) a veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését végző hatóság kijelölésének”
+
+(rendeletben történő megállapítására.)
+
+37. § A víziközlekedésről szóló 2000. évi XLII. törvény
+
+- a) 5/A. § (1) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság (a továbbiakban: Kormány rendeletében kijelölt hatóság)” szöveg,
+- b) 5/A. § (2) bekezdés nyitó szövegrészében a „katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- c) 60/A. § (1) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- d) 60/A. § (2) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- e) 60/A. § (3) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- f) 60/B. §-ában a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- g) 88. § (1) bekezdés m) pontjában az „a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére” szövegrész helyébe az „a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére jogosult hatóság kijelölésének, a kijelölt hatóság által végzett ellenőrzés” szöveg
+
+lép.
 
 #### 16. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
@@ -185,13 +255,39 @@ lép.
 
 #### 40. §
 
-#### 19.
+#### 19. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-#### 41. §
+41. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény „A hivatásos katasztrófavédelmi szerv feladat- és hatásköre” alcím címe helyébe a következő rendelkezés lép:
 
-#### 42. §
+### „A Kormány rendeletében kijelölt hatóság veszélyes áruk vasúti szállításával kapcsolatos feladat- és hatásköre”
 
-#### 43. §
+42. § (1) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 81/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A veszélyes áruk vasúti szállításával kapcsolatos hatósági ellenőrzés és hatósági eljárás lefolytatására a Kormány rendeletében kijelölt hatóság (a továbbiakban: Kormány rendeletében kijelölt hatóság) jogosult.”
+
+(2) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 81/A. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A Kormány rendeletében kijelölt hatóság feladat- és hatáskörébe tartozik
+
+- a) a veszélyes áruk vasúti szállításra történő előkészítésére, valamint a veszélyes áruk vasúton történő továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése,
+- b) a veszélyes áruk vasúti átrakásának, tárolásának ellenőrzése.”
+
+43. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény
+
+- a) 81/A. § (2) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- b) 81/A. § (3) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrészek helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- c) 81/A. § (4) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- d) 81/A. § (5) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- e) 81/A. § (6) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- f) 81/A. § (7) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg és a „tevékenységéről” szövegrész helyébe a „tevékenységről” szöveg,
+- g) 81/B. § (1) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- h) 81/B. § (3) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- i) 81/C. § (1) bekezdésében a „hivatásos katasztrófavédelmi szerv ügyeletét” szövegrész helyébe a „Kormány rendeletében kijelölt hatóságot” szöveg,
+- j) 81/C. § (2) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- k) 81/C. § (3) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- l) 88. § (1) bekezdés 12. pontjában a „hivatásos katasztrófavédelmi szervek által lefolytatott eljárások során a veszélyes áruk vasúti szállításának” szövegrész helyébe a „veszélyes áruk vasúti szállításának ellenőrzésére és bírság kivetésére jogosult hatóság kijelölését, a kijelölt hatóság által végzett” szöveg és az „és bírság” szövegrész helyébe az „és a bírság” szöveg
+
+lép.
 
 #### 20. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -215,9 +311,9 @@ lép.
 
 #### 50. §
 
-#### 24.
+#### 24. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
-#### 51. §
+51. § Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 13. § (2) bekezdés e) pontjában az „a hivatásos katasztrófavédelmi szerv” szövegrész helyébe az „a hivatásos katasztrófavédelmi szerv, a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízügyi és vízvédelmi hatóság” szöveg lép.
 
 #### 25. A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosítása
 
@@ -225,25 +321,72 @@ lép.
 
 #### 26. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-#### 53. §
+53. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 25. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 54. §
+„(1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak az iparbiztonsági hatóság engedélye alapján adható. Veszélyes tevékenység kizárólag az iparbiztonsági hatóság engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges iparbiztonsági engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentést vagy biztonsági elemzést.”
 
-#### 55. §
+54. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 42. §-a helyébe a következő rendelkezés lép:
 
-#### 56. §
+„42. § (1) Az üzemeltető köteles az egységes segélyhívó rendszeren haladéktalanul bejelentést tenni veszélyes anyagokkal kapcsolatos súlyos balesetről, eseményről a (2) bekezdésben felsorolt információk átadásával.
 
-#### 57. §
+(2) Az üzemeltető az iparbiztonsági hatóságot elektronikus úton soron kívül értesíti
 
-#### 58. §
+- a) a veszélyes anyagokkal kapcsolatos súlyos baleset, esemény körülményeiről,
+- b) a veszélyes anyagokkal kapcsolatos súlyos balesetben, eseményben szereplő veszélyes anyagokról,
+- c) a lakosságra, az anyagi javakra és a környezetre gyakorolt hatások értékeléséhez szükséges adatokról,
+- d) a megtett intézkedésekről.”
 
-#### 59. §
+55. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény IV. Fejezete a következő 42/A. §-sal egészül ki:
 
-#### 60. §
+„42/A. § Az iparbiztonsági hatóság a nyilvántartásában szereplő adatokról a biztonságért és a veszélyes anyagokkal kapcsolatos baleset elhárításáért felelős személyek és elérhetőségük adataira is kiterjedően rendszeresen tájékoztatja a hivatásos katasztrófavédelmi szerv központi szervét a nemzetközi szerződésből eredő kötelezettségei végrehajtása érdekében.”
+
+56. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 79. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A tűzvédelmi, iparbiztonsági, vízvédelmi és vízügyi hatósági hatáskörben eljáró szerv a hivatásos katasztrófavédelmi szervnek a jogszabályban meghatározott védelmi tervek összeállításához adatot szolgáltat, ami kiterjed az (1) bekezdés a), d), e) és f) pontjában meghatározott adatokra azzal, hogy a természetes személyazonosító adatok közül az érintett nevének átadására kerül sor.”
+
+57. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény VII/C. Fejezete a következő 79/D. §-sal egészül ki:
+
+„79/D. § Az IHR és az IHR-ben tárolt adatok igénybevételére jogszabályban meghatározott esetekben és módon a hatáskörükbe tartozó ügyekben a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság is jogosult.”
+
+58. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 80. § s) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:)
+
+„s) az IHR működésének részletes szabályait, az IHR-nek a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság és a veszélyesáru-szállítás ellenőrzésére kijelölt hatóság által történő igénybevételének feltételeit és részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani,”
+
+59. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény a következő 80/A. §-sal egészül ki:
+
+„80/A. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje
+
+- a) az iparbiztonsági hatósági hatáskörben eljáró szervet,
+- b) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyása során eljáró szervet.”
+
+60. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 39. alcíme a következő 84. §-sal egészül ki:
+
+„84. § (1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 24/E. § (2)–(4) bekezdését, 25. § (1) bekezdését, 32. § (2) bekezdését, 35. § (5) bekezdését, 40. § (3) bekezdését, 42. §-t, 42/A. §-t, 79. § (4) bekezdését és 79/D. §-t a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A hivatásos katasztrófavédelmi szervtől kormányzati igazgatási szervhez átkerülő hatósági hatáskör esetében a 2024. október 1-jén folyamatban lévő ügyek átadására 8 napon belül kerül sor. A folyamatban lévő ügyekben az ügyintézési határidő e törvény erejénél fogva 8 nappal meghosszabbodik.
+
+(3) A folyamatban lévő ügyekben a hatósági hatáskört telepítő jogszabály hatályba lépése előtt végzett eljárási cselekmények hatályát nem érinti, hogy az eljárás lefolytatása más szerv feladat- és hatáskörébe kerül.
+
+(4) A hatósági hatáskör telepítésének napján folyamatban lévő szakhatósági eljárásban szakhatósági állásfoglalás kiadására nem kerül sor azokban az ügyekben, amelyekben az eljáró hatóságként eljáró kormányzati igazgatási szerv veszi át a volt szakhatósági hatáskört. Ezekben az esetekben a szakkérdést az eljáró hatóság saját eljárásban vizsgálja.
+
+(5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.”
 
 #### 61. §
 
-#### 62. §
+62. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény
+
+- a) 24/E. § (2) bekezdésében a „hivatásos katasztrófavédelmi szerv központi szerve” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- b) 24/E. § (3) bekezdésében a „hivatásos katasztrófavédelmi szerv központi szerve” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- c) 24/E. § (4) bekezdésében a „hivatásos katasztrófavédelmi szerv központi szerve” szövegrész helyébe a „Kormány rendeletében kijelölt hatóság” szöveg,
+- d) 32. § (2) bekezdésében az „az iparbiztonsági hatóság helyi” szövegrész helyébe az „a hivatásos katasztrófavédelmi szerv helyi” szöveg, az „az iparbiztonsági hatóság központi szerve” szövegrész helyébe az „a hivatásos katasztrófavédelmi szerv központi szerve” szöveg,
+- e) 35. § (5) bekezdés a) pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg,
+- f) 40. § (3) bekezdésében az „a katasztrófavédelmi engedély” szövegrész helyébe az „az iparbiztonsági engedély” szöveg,
+- g) 79. § (1) bekezdés nyitó szövegrészében az „A hivatásos katasztrófavédelmi szerv” szövegrész helyébe az „A hivatásos katasztrófavédelmi szerv, a tűzvédelmi hatóság és az iparbiztonsági hatóság” szöveg,
+- h) 79. § (3) bekezdés nyitó szövegrészében az „A hivatásos katasztrófavédelmi szerv” szövegrész helyébe az „A hivatásos katasztrófavédelmi szerv, a tűzvédelmi hatóság és az iparbiztonsági hatóság” szöveg
+
+lép.
 
 #### 27. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
@@ -271,19 +414,51 @@ lép.
 
 #### 71. §
 
-#### 31.
+#### 31. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
 
-#### 72. §
+72. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 5. § (4) bekezdése a következő m) ponttal egészül ki:
 
-#### 73. §
+(A nyilvántartó hatóság a nyilvántartásból adatot a következők szerint továbbíthat:)
 
-#### 74. §
+„m) a hivatásos katasztrófavédelmi szerv központi, területi és helyi szervei megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,”
 
-#### 75. §
+73. § (1) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 6. § (7) bekezdése helyébe a következő rendelkezés lép:
 
-#### 76. §
+„(7) Az üzemeltető az üzemeltetői biztonsági tervben és az informatikai biztonsági szabályzatban foglaltak megvalósíthatóságát biztosítja és rendszeresen ellenőrzi. Ennek érdekében a Kormány rendeletében kijelölt szerv által meghatározott üzemeltetők meghatározott gyakorisággal, a Kormány rendeletében kijelölt szerv irányításával, az ágazati kijelölő hatóság bevonásával folytatnak le olyan gyakorlatot, ahol az üzemeltetői biztonsági tervben megjelölt szervezeti és eszközrendszert, és az információ- és hálózatbiztonsági ellenállóképességet gyakorolják (a továbbiakban: komplex gyakorlat).”
 
-#### 77. §
+(2) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 6. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a Kormány rendeletében kijelölt szervet a honlapján közzétett formában és módon, valamint az ágazati kijelölő hatóságot. Az üzemeltető a honvédelmi létfontosságú rendszerelem vonatkozásában a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálatot is haladéktalanul értesíti.”
+
+74. § (1) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem jogszabályban és kijelölő döntésben meghatározott kötelezettségének teljesítését rendszeresen ellenőrizni kell. Az ellenőrzést a Kormány által kijelölt, ellenőrzést koordináló szerv hangolja össze.”
+
+(2) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 8. § (9) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[A (7) és a (8) bekezdés alapján megismert személyes adatokat]
+
+„b) a Kormány által kijelölt szerv a hatósági ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,”
+
+[kezeli.]
+
+75. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 14. § a) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„a) jelölje ki az ágazati kijelölő hatóságot, a javaslattevő hatóságot, a helyszíni és a komplex ellenőrzést lefolytató szervet és a 8. § (1) és (2) bekezdése szerinti ellenőrzést koordináló szervet,”
+
+76. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény
+
+- a) 4. § (4) bekezdés nyitó szövegrészében az „A hivatásos katasztrófavédelmi szerv” szövegrész helyébe az „A Kormány rendeletében kijelölt szerv” szöveg,
+- b) 5. § (4) bekezdés f) pontjában az „a hivatásos katasztrófavédelmi szerv területi és helyi szervei” szövegrész helyébe az „a Kormány rendeletében kijelölt szerv” szöveg,
+- c) 6. § (8) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész helyébe a „Kormány rendeletében kijelölt szerv” szöveg,
+- d) 8. § (8) bekezdésében a „hivatásos katasztrófavédelmi szerv központi szerve” szövegrész helyébe a „Kormány által kijelölt, ellenőrzést koordináló szerv” szöveg,
+- e) 10. § (1) bekezdésében az „A hivatásos katasztrófavédelmi szerv központi szerve” szövegrész helyébe az „A Kormány által kijelölt szerv” szöveg
+
+lép.
+
+77. § Hatályát veszti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 9/C. §-ában a „valamennyi hatósági eljárásban, így különösen a kijelölési, kijelölés visszavonása iránti” szövegrész.
 
 #### 32. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
@@ -353,17 +528,23 @@ lép.
 
 #### 39. Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény módosítása
 
-#### 104. §
+104. § Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 5. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-#### 105. §
+(A települési önkormányzat az egészségügyi alapellátás körében gondoskodik:)
+
+„c) az alapellátáshoz kapcsolódó fogorvosi ügyeleti ellátásról.”
+
+105. § Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 6/A. §-a helyébe a következő rendelkezés lép:
+
+„6/A. § Az állami mentőszolgálat gondoskodik az egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról.”
 
 #### 106. §
 
-#### 40.
+#### 40. A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény módosítása
 
-#### 107. §
+107. § A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 5. § (8) bekezdésében a „hivatásos katasztrófavédelmi szerv központi szerve” szövegrész helyébe a „kormányrendeletben meghatározott szerv” szöveg lép.
 
-#### 108. §
+108. § Hatályát veszti a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 8. § (1) bekezdés a) pontjában az „első és másodfokú” szövegrész.
 
 #### 41. Az egyes állami tulajdonban álló ingatlanoknak a Magyarországi Református Egyház részére történő tulajdonba adásáról szóló 2017. évi XXXI. törvény módosítása
 
@@ -387,7 +568,9 @@ lép.
 
 #### 44. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-#### 116. §
+116. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 40. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A (4) bekezdés a) és c) pontja szerinti hatáskör gyakorlását kormányrendelet a kormányhivatal irányítására kormányrendeletben kijelölt miniszter és a szakmai irányító miniszter, illetve kormányrendeletben kijelölt más szerv között, továbbá a szakmai irányító miniszter kormányrendeletben meghatározott feladatait a kormányhivatal irányítására kormányrendeletben kijelölt miniszter és a szakmai irányító miniszter között megoszthatja.”
 
 #### 117. §
 

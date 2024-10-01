@@ -244,7 +244,7 @@ védelmével kapcsolatos eljárási szabályok
 
 (5) A kiemelt természetvédelmi oltalom alatt álló természeti értékekre és természeti területekre – a 6–21. §-ban foglaltakon túl – külön rendelkezések vonatkoznak.
 
-21/A. § Ha az épített környezet alakításáról és védelméről szóló törvény szerinti építési munka végzése során természeti érték kerül elő, a kivitelező köteles azt a természetvédelmi hatóságnak haladéktalanul bejelenteni, és a természeti értéket és a természeti érték előkerülésének helyszínét a hatósági intézkedésig érintetlenül hagyni.
+21/A. § Ha a magyar építészetről szóló törvény szerinti építési munka végzése során természeti érték kerül elő, a kivitelező köteles azt a természetvédelmi hatóságnak haladéktalanul bejelenteni, és a természeti értéket és a természeti érték előkerülésének helyszínét a hatósági intézkedésig érintetlenül hagyni.
 
 ## III. RÉSZ — TERMÉSZETI TERÜLETEK ÉS ÉRTÉKEK
 

@@ -93,9 +93,9 @@ látja el.
 
 5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokról szóló jogszabályban foglaltak alapján látja el.
 
-5/A. § (1) A veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését a veszélyes áruk belvízi szállításának ellenőrzésére vonatkozó jogszabályokban meghatározottak szerint a hajózási hatóság, a rendőrség vízirendészeti szerve és a hivatásos katasztrófavédelmi szerv látja el.
+5/A. § (1) A veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését a veszélyes áruk belvízi szállításának ellenőrzésére vonatkozó jogszabályokban meghatározottak szerint a hajózási hatóság, a rendőrség vízirendészeti szerve és a Kormány rendeletében kijelölt hatóság (a továbbiakban: Kormány rendeletében kijelölt hatóság) látja el.
 
-(2) Az (1) bekezdésben hivatkozott jogszabályokban meghatározottak mellett a katasztrófavédelmi szerv feladat- és hatáskörébe tartozik:
+(2) Az (1) bekezdésben hivatkozott jogszabályokban meghatározottak mellett a Kormány rendeletében kijelölt hatóság feladat- és hatáskörébe tartozik:
 
 - a) a veszélyes áruk belvízi szállítására történő előkészítésének, valamint a belvízi úton beérkezett veszélyes áruk továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése,
 - b) a veszélyes áruk kikötők területén végzett átrakásának, tárolásának ellenőrzése.
@@ -123,7 +123,7 @@ látja el.
 
 6/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály víziközlekedési szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a víziközlekedési szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a hajózási hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a hajózási hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a magyar építészetről szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
 (3) A hajózási hatóság, illetve a kamara a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
@@ -1009,11 +1009,11 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 
 vonatkozó rendelkezések megsértésekor.
 
-60/A. § (1) Ha a veszélyes áruk belvízi szállításáról szóló törvényben meghatározott előírások megsértőivel szemben a hivatásos katasztrófavédelmi szerv az ellenőrzése során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és 50 000 forinttól 1 000 000 forintig terjedő bírságot alkalmaz.
+60/A. § (1) Ha a veszélyes áruk belvízi szállításáról szóló törvényben meghatározott előírások megsértőivel szemben a Kormány rendeletében kijelölt hatóság az ellenőrzése során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és 50 000 forinttól 1 000 000 forintig terjedő bírságot alkalmaz.
 
-(2) Az e § alapján tett jogszerű intézkedésből eredő kárért a hivatásos katasztrófavédelmi szerv a jogszabálysértővel szemben felelősséggel nem tartozik.
+(2) Az e § alapján tett jogszerű intézkedésből eredő kárért a Kormány rendeletében kijelölt hatóság a jogszabálysértővel szemben felelősséggel nem tartozik.
 
-(3) Ugyanazon jogszabálysértésért a hajózási, a vízirendészeti hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
+(3) Ugyanazon jogszabálysértésért a hajózási, a vízirendészeti hatóság és a Kormány rendeletében kijelölt hatóság bírságot nem szabhat ki.
 
 (4) Közigazgatási szankcióként figyelmeztetés az (1) bekezdés szerinti szabályszegés miatt indult közigazgatási hatósági eljárásban nem alkalmazható, ha a jogsértés nagyon súlyos vagy rendkívül súlyos fokúnak minősül.
 
@@ -1021,7 +1021,7 @@ vonatkozó rendelkezések megsértésekor.
 
 (6) A jogsértés nagyon súlyos fokúnak minősül, ha az személyi sérülés vagy környezetkárosodás okozásának kockázatával jár; az ilyen mulasztásoknál általában a veszély elhárítására megfelelő intézkedések történnek, így többek között a hiba elhárítására való kötelezés – ha lehetséges és célszerű – az ellenőrzés helyén, de legkésőbb a folyamatban lévő szállítási művelet befejezésekor.
 
-60/B. § Nincs helye a hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt.
+60/B. § Nincs helye a Kormány rendeletében kijelölt hatóság általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt.
 
 60/C. § (1) A magyar vízi utakon tartózkodó kereskedelmi hajót, a lobogójától függetlenül az eljáró hatóság a 60/A. § (1) bekezdése szerint kiszabott bírság esetén – a veszélyes áru szállítmány feltartóztatására vonatkozó előírások megtartásával – a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az általános közigazgatási rendtartásról szóló törvénynek a biztosítási intézkedésekre vonatkozó feltételei szerint feltartóztathatja.
 
@@ -1337,7 +1337,7 @@ vonatkozó rendelkezések megsértésekor.
 - j) a folyami információs szolgáltatások működtetési és fejlesztési feladatainak, valamint a térítésmentes alapszolgáltatások körének,
 - k) a hajókról származó szennyezés és az azzal összefüggő jogkövetkezmények részletes szabályainak,
 - l) az e törvény szerinti szakértői tevékenység folytatása részletes feltételeinek, a szakértői tevékenység bejelentése és a szakértők nyilvántartása személyes adatot nem tartalmazó adattartalmának, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályoknak, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek
-- m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
+- m) a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére jogosult hatóság kijelölésének, a kijelölt hatóság által végzett ellenőrzés és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
 - n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
 - o) a bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetési módja részletszabályainak,
 - p) a kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítése, használatbavétele, üzemben tartása és megszüntetése részletes szabályainak,
@@ -1346,6 +1346,7 @@ vonatkozó rendelkezések megsértésekor.
 - s) a vizsgaközpont tevékenysége tekintetében a felügyeleti szervének, a felügyeleti szerv feladat- és hatáskörének, illetékességének, továbbá működési rendjének és eljárásának,
 - t) a vizsgaközpont felügyeleti szerve által kiszabható bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetése részletszabályainak
 - u) a helyi személyszállítási közszolgáltatás körébe nem sorolható komp- és révközlekedést biztosító szolgáltatásoknak regionális vagy elővárosi személyszállítási közszolgáltatási feladatot ellátó szolgáltatássá történő minősítésének
+- v) a veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését végző hatóság kijelölésének
 
 rendeletben történő megállapítására.
 

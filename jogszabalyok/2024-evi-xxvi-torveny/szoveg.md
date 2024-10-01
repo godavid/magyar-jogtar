@@ -14,9 +14,15 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 5. §
 
-#### 6. §
+6. § A közúti közlekedésről szóló 1988. évi I. törvény 33/A. §-a a következő (6a) és (6b) bekezdéssel egészül ki:
 
-#### 7. §
+„(6a) Ha az (1) bekezdésben meghatározott használati díj megfizetésének elmulasztása miatt kiszabott pótdíj az Európai Unió más tagállamában nyilvántartott jármű tekintetében áll fenn, az útdíjszolgáltatási gazdasági társaság az érintett jármű üzembentartója, ennek hiányában tulajdonosa azonosító adatainak megállapítása céljából a jogszabályban kijelölt nemzeti kapcsolattartó ponton keresztül a jármű teljes forgalmi rendszámának, a használatidíj-fizetés elmulasztásával összefüggő adatoknak, továbbá a mulasztás időpontjának megadásával automatizált keresést kezdeményezhet a jármű nyilvántartásba vétele szerinti tagállam nemzeti gépjármű-nyilvántartási adatállományában.
+
+(6b) A (6a) bekezdésben meghatározott automatizált keresés eredményeképpen ismertté vált üzembentartót, ennek hiányában tulajdonost az útdíjszolgáltatási gazdasági társaság vagy annak a 33/B. § (4a) bekezdésében meghatározott megbízottja az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott formanyomtatvány alkalmazásával tájékoztatja a használatidíj-fizetés elmulasztása miatt kiszabott pótdíj érvényesítése érdekében indított eljárásról.”
+
+7. § A közúti közlekedésről szóló 1988. évi I. törvény 33/B. § (5a) bekezdése helyébe a következő rendelkezés lép:
+
+„(5a) Ha a pótdíjfizetési felszólítás megküldésének időpontjában a közúti közlekedési nyilvántartás, vagy – az Európai Unió más tagállamában nyilvántartott jármű esetében – a nyilvántartás helye szerinti tagállam nemzeti gépjármű-nyilvántartása nem a tényleges üzembentartó adatait tartalmazza, továbbá harmadik országban nyilvántartott jármű esetében az (5) bekezdés szerinti határidő a tényleges üzembentartó ismertté válásától számítandó.”
 
 #### 8. §
 
@@ -26,7 +32,13 @@ egyes közlekedési tárgyú törvények módosításáról
 
 (3)
 
-(4)
+(4) A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése a következő t) ponttal egészül ki:
+
+(Felhatalmazást kap)
+
+„t) a miniszter, hogy a 33/A. § (6b) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt”
+
+(rendeletben állapítsa meg.)
 
 (5)
 
@@ -38,7 +50,9 @@ egyes közlekedési tárgyú törvények módosításáról
 - d)
 - e)
 - f)
-- g)
+- g) 49. § (2) bekezdés k) pontjában a „24.” szövegrész helyébe a „2., valamint 23–25.” szöveg
+
+lép.
 
 #### 11. §
 
@@ -106,7 +120,11 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 9. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-#### 36. §
+36. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdésben meghatározott szervezet adatkezelési jogosultsága a személyszállítási szolgáltatás alapjául szolgáló szerződés teljesítése érdekében a következő adatokra terjed ki:]
+
+„b) az e törvényben meghatározottak szerinti, a közszolgáltatási utazási kedvezményekről szóló jogszabály alapján biztosított utazási kedvezmény esetén a kedvezmény jogcíme, a jogcímet megalapozó okmány azonosítója, típusa, érvényessége, kibocsátója, a jogosult adóazonosító jele és társadalombiztosítási azonosító jele, továbbá a foglalkoztatásra irányuló jogviszony alapján igénybe vehető kedvezmények esetén a munkáltató azonosításhoz szükséges adatai,”
 
 #### 37. §
 

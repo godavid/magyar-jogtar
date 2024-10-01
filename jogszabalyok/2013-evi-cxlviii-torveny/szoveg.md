@@ -11,7 +11,7 @@ Az Országgyűlés a polgárok fizikai és szellemi épülése, a gazdaság és 
 
 terjed ki.
 
-(2) Az (1) bekezdésben foglaltak esetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.), az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: erdőtörvény), a Nemzeti Földalapról szóló törvény előírásait, az országos településrendezési és építési követelményekről szóló szabályokat, a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletet az e törvényben foglalt eltéréssel, a természet védelméről szóló törvény rendelkezéseit a 2. § (4)–(5) bekezdésében foglalt eltéréssel kell alkalmazni.
+(2) Az (1) bekezdésben foglaltak esetében a magyar építészetről szóló törvény, az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: erdőtörvény), a Nemzeti Földalapról szóló törvény előírásait, az országos településrendezési és építési követelményekről szóló szabályokat, a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletet az e törvényben foglalt eltéréssel, a természet védelméről szóló törvény rendelkezéseit a 2. § (4)–(5) bekezdésében foglalt eltéréssel kell alkalmazni.
 
 2. § (1) A történelmi sportterület az 1. mellékletben meghatározott földrészletekre, illetve ezen földrészletekből a telekalakítási eljárás jogerős befejezését követően kialakított földrészletekre terjed ki.
 
@@ -49,7 +49,7 @@ rendeltetés helyezhető el.
 
 (2) Az ingatlanokra vonatkozó vagyonkezelői jogot a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat (a továbbiakban: vagyonkezelő) kérelme alapján az ingatlan-nyilvántartásba be kell jegyezni.
 
-(3) A vagyonkezelő ellátja az Étv. 43. § (1) bekezdésében meghatározott építtetői feladatokat, felelős az Étv. 54. §-ában foglaltak teljesítéséért, valamint kiadja az e törvény végrehajtásához szükséges tulajdonosi hozzájárulásokat.
+(3) A vagyonkezelő ellátja a magyar építészetről szóló 2023. évi C. törvény 66. § (2) bekezdésében meghatározott építtetői feladatokat, felelős az Étv. 54. §-ában foglaltak teljesítéséért, valamint kiadja az e törvény végrehajtásához szükséges tulajdonosi hozzájárulásokat.
 
 4. § A történelmi sportterület kialakítása közérdekű célú fejlesztésnek minősül.
 

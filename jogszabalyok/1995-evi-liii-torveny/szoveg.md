@@ -42,7 +42,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 - b) a bányászatról,
 - c) az energiáról,
 - d) az erdőkről,
-- e) az épített környezet alakításáról és védelméről,
+- e) a magyar építészetről,
 - f) a mező- és erdőgazdasági hasznosítású földről,
 - g) a halászatról,
 - h) a közlekedésről, közlekedési alágazatonként,
@@ -977,7 +977,7 @@ véglegessé válását követően kezdődhet meg, illetve folytatható.
   - ab) a szakkérdés vizsgálatának eredményét és az annak alapján meghatározott egyedi előírásokat,
 - b) indokolása tartalmazza a szakkérdés vizsgálata során tett részletes megállapításokat.
 
-66/B. § Az elsőfokú vízvédelmi hatósági jogkörben hozott határozat ellen fellebbezésnek van helye.
+#### 66/B. §
 
 ### Előzetes vizsgálati eljárás, előzetes konzultáció
 
@@ -1298,7 +1298,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 (2) Az (1) bekezdés szerinti szakértői tevékenység folytatására jogosító engedélyt
 
 - a) természetvédelmi és tájvédelmi szakértői tevékenység esetében a természetvédelmi hatóság,
-- b) környezetvédelmi szakértői tevékenység esetében a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara)
+- b) környezetvédelmi szakértői tevékenység esetében a magyar építészetről szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara)
 
 adja ki.
 
@@ -1702,3 +1702,5 @@ szakkérdéseket.
 való megfelelést szolgálja.
 
 113. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+114. § A 66/B. §-t hatályon kívül helyező, az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvény 10. § hatálybalépésének napján folyamatban lévő másodfokú hatósági eljárást a hatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú hatósági eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.

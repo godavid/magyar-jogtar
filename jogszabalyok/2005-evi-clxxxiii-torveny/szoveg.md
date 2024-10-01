@@ -1406,9 +1406,9 @@ irányul.
 
 (2) A vasúti telekalakítási eljárás lefolytatása során nem kell alkalmazni
 
-- a) az épített környezet alakításáról és védelméről szóló törvény és annak felhatalmazása alapján kiadott jogszabályok előírásait,
+- a) a magyar építészetről szóló törvény és annak felhatalmazása alapján kiadott jogszabályok előírásait,
 - b) törvény szerint vagy annak alapján hozott valamely településrendezési terv rendelkezéseit,
-- c) a településkép védelméről szóló törvény vagy annak felhatalmazása alapján hozott önkormányzati rendelet előírásait.
+- c) a magyar építészetről szóló törvény vagy annak felhatalmazása alapján hozott önkormányzati rendelet előírásait.
 
 42/C. § (1) A vasúti telekalakítás következtében önálló helyrajzi számon létrejövő vasúti pályát és azok tartozékait hordozó ingatlant az ingatlan-nyilvántartásban kivett vasúti pálya megnevezéssel kell nyilvántartani.
 
@@ -1467,7 +1467,7 @@ irányul.
 
 (3) A fejlesztési közreműködő mint építtető az országos jelentőségű és egyéb vasútvonalakon, az elővárosi és városi pályahálózathoz tartozó vasútvonalakon, az azokhoz kapcsolódó ingatlanokon, valamint a vasútvonalak megállóhelyei megközelítésének fejlesztése és a ráhordás feltételeinek javítása érdekében létrehozott parkolók és kapcsolódó létesítmények, tekintetében központi költségvetési és uniós támogatásból beruházási (létesítés, felújítás és fejlesztés) feladatokat lát el az állam nevében és állami tulajdonon megvalósuló fejlesztés esetén az állam javára, amely fontos közérdekű és közcélú tevékenységnek minősül.
 
-(3a) A fejlesztési közreműködő a beruházás előkészítéseként teljeskörűen elkészítteti a szükséges terveket, tanulmányokat. A fejlesztési közreműködő ügyfélként részt vesz a hatósági eljárásokban, saját nevére megszerzi vagy megszerezteti az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, a régészeti feltárást és a közműkiváltást vagy -fejlesztést), továbbá lefolytatja a közbeszerzési eljárásokat. A fejlesztési közreműködő építési és egyéb szerződéseket köt a megvalósításra, gondoskodik az építés ideje alatt a műszaki ellenőri tevékenység ellátásáról, valamint lebonyolítja az átadás-átvételt. A fejlesztési közreműködőre mint építtetőre egyebekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény rendelkezései az irányadók.
+(3a) A fejlesztési közreműködő a beruházás előkészítéseként teljeskörűen elkészítteti a szükséges terveket, tanulmányokat. A fejlesztési közreműködő ügyfélként részt vesz a hatósági eljárásokban, saját nevére megszerzi vagy megszerezteti az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, a régészeti feltárást és a közműkiváltást vagy -fejlesztést), továbbá lefolytatja a közbeszerzési eljárásokat. A fejlesztési közreműködő építési és egyéb szerződéseket köt a megvalósításra, gondoskodik az építés ideje alatt a műszaki ellenőri tevékenység ellátásáról, valamint lebonyolítja az átadás-átvételt. A fejlesztési közreműködőre mint építtetőre egyebekben a magyar építészetről szóló törvény rendelkezései az irányadók.
 
 (4) A vasúti társaság a tulajdonosi jogkörében, vagyonkezelésében vagy vagyonműködtetésében álló területen megvalósuló vasútfejlesztés esetén a beruházás végleges döntés alapján történő használatbavételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
 
@@ -2418,7 +2418,7 @@ során.
 
 80/D. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály vasúti közlekedési szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, szakértőként – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértőn túl – kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a vasúti közlekedési szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát – az igazságügyi szakértő kivételével – a közlekedési hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát – az igazságügyi szakértő kivételével – a közlekedési hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a magyar építészetről szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
 (3) A közlekedési hatóság, vagy a kamara a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
@@ -2558,40 +2558,42 @@ terjedhet jogsértésenként.
 
 (17) A vasúti közlekedési hatóság a feladatai ellátásához szükséges információk és adatok –beleértve az üzleti titkot is – szolgáltatására, iratok bemutatására kötelezheti indítványra, vagy hivatalból a vasúti társaságot, a megfelelőségértékelő szervezetet, a kockázatértékelő szervezetet, a karbantartást végző szervezetet, valamint a VPSZ-t.
 
-### A hivatásos katasztrófavédelmi szerv feladat- és hatásköre
+### A Kormány rendeletében kijelölt hatóság veszélyes áruk vasúti szállításával kapcsolatos feladat- és hatásköre
 
-81/A. § (1) A hivatásos katasztrófavédelmi szerv feladat- és hatáskörébe tartozik:
+81/A. § (1) A veszélyes áruk vasúti szállításával kapcsolatos hatósági ellenőrzés és hatósági eljárás lefolytatására a Kormány rendeletében kijelölt hatóság (a továbbiakban: Kormány rendeletében kijelölt hatóság) jogosult.
 
-- a) a veszélyes áruk vasúti szállításra történő előkészítésére, valamint a veszélyes áruk vasúton történő továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése;
+(1a) A Kormány rendeletében kijelölt hatóság feladat- és hatáskörébe tartozik
+
+- a) a veszélyes áruk vasúti szállításra történő előkészítésére, valamint a veszélyes áruk vasúton történő továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése,
 - b) a veszélyes áruk vasúti átrakásának, tárolásának ellenőrzése.
 
-(2) A veszélyes áruk vasúti szállítására vonatkozó jogszabályi előírások megsértőivel szemben bírság szabható ki. Az e § alapján indított bírságolási eljárást a hivatásos katasztrófavédelmi szerv folytatja le.
+(2) A veszélyes áruk vasúti szállítására vonatkozó jogszabályi előírások megsértőivel szemben bírság szabható ki. Az e § alapján indított bírságolási eljárást a Kormány rendeletében kijelölt hatóság folytatja le.
 
-(3) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk vasúti és belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályairól szóló kormányrendeletben foglaltak szerinti intézkedést és 1 000 000 forintig terjedő bírságot alkalmaz a jogsértővel szemben. A veszélyes áru vasúti szállítása esetében a jogsértő lehet a feladó, a csomagoló, a berakó, a kirakó, az átrakó, a töltő, a tároló, a fuvarozó (szállító), az üzembentartó, a karbantartásért felelős szervezet (ECM), a szállításban érintett vállalkozás vezetője, a biztonsági tanácsadó, a vasúti pályahálózat működtetését végző vasúti társaság, a vonatszemélyzet, a szabálytalanságért felelős egyéb személy.
+(3) Ha a Kormány rendeletében kijelölt hatóság az ellenőrzés során jogszabálysértést állapít meg, a Kormány rendeletében kijelölt hatóság eljárásai során a veszélyes áruk vasúti és belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályairól szóló kormányrendeletben foglaltak szerinti intézkedést és 1 000 000 forintig terjedő bírságot alkalmaz a jogsértővel szemben. A veszélyes áru vasúti szállítása esetében a jogsértő lehet a feladó, a csomagoló, a berakó, a kirakó, az átrakó, a töltő, a tároló, a fuvarozó (szállító), az üzembentartó, a karbantartásért felelős szervezet (ECM), a szállításban érintett vállalkozás vezetője, a biztonsági tanácsadó, a vasúti pályahálózat működtetését végző vasúti társaság, a vonatszemélyzet, a szabálytalanságért felelős egyéb személy.
 
 (3a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározott I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás.
 
-(4) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a hivatásos katasztrófavédelmi szerv felelősséggel nem tartozik.
+(4) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a Kormány rendeletében kijelölt hatóság felelősséggel nem tartozik.
 
-(5) A hivatásos katasztrófavédelmi szerv az ellenőrzés során megállapított szabálytalanságokról, a vizsgálat megindításáról és az esetlegesen szükségessé váló helyszíni intézkedésekről, a vizsgálat megindítását vagy a helyszíni intézkedést követő 8 napon belül értesíti a közlekedési hatóságot, amennyiben a közlekedési hatóság kizárólagos hatáskörébe tartozó szabálytalanságot is feltárt.
+(5) A Kormány rendeletében kijelölt hatóság az ellenőrzés során megállapított szabálytalanságokról, a vizsgálat megindításáról és az esetlegesen szükségessé váló helyszíni intézkedésekről, a vizsgálat megindítását vagy a helyszíni intézkedést követő 8 napon belül értesíti a közlekedési hatóságot, amennyiben a közlekedési hatóság kizárólagos hatáskörébe tartozó szabálytalanságot is feltárt.
 
-(6) Ha az (5) bekezdés szerint a közlekedési hatóság értesítésére sor került, a hivatásos katasztrófavédelmi szerv a vizsgálat lezárásáról és annak eredményéről, valamint az azzal kapcsolatos döntéséről 8 napon belül értesíti a közlekedési hatóságot.
+(6) Ha az (5) bekezdés szerint a közlekedési hatóság értesítésére sor került, a Kormány rendeletében kijelölt hatóság a vizsgálat lezárásáról és annak eredményéről, valamint az azzal kapcsolatos döntéséről 8 napon belül értesíti a közlekedési hatóságot.
 
-(7) A hivatásos katasztrófavédelmi szerv a veszélyes áru vasúti szállításának ellenőrzésével kapcsolatos tevékenységéről éves országos kimutatást készít.
+(7) A Kormány rendeletében kijelölt hatóság a veszélyes áru vasúti szállításának ellenőrzésével kapcsolatos tevékenységről éves országos kimutatást készít.
 
-81/B. § (1) Nincs helye a hivatásos katasztrófavédelmi szerv által bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+81/B. § (1) Nincs helye a Kormány rendeletében kijelölt hatóság által bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (2)
 
-(3) Ugyanazon jogszabálysértésért a közlekedési hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
+(3) Ugyanazon jogszabálysértésért a közlekedési hatóság és a Kormány rendeletében kijelölt hatóság bírságot nem szabhat ki.
 
 (4) A 81/A. § alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
-81/C. § (1) A veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat működtető, a veszélyes áru rakodását, átrakását, tárolását – ideértve az ideiglenes tárolást is – végző személyek, szervezetek, a veszélyesáru-szállítással kapcsolatos rendkívüli eseményről haladéktalanul kötelesek értesíteni a hivatásos katasztrófavédelmi szerv ügyeletét.
+81/C. § (1) A veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat működtető, a veszélyes áru rakodását, átrakását, tárolását – ideértve az ideiglenes tárolást is – végző személyek, szervezetek, a veszélyesáru-szállítással kapcsolatos rendkívüli eseményről haladéktalanul kötelesek értesíteni a Kormány rendeletében kijelölt hatóságot.
 
-(2) A hivatásos katasztrófavédelmi szerv az (1) bekezdésben meghatározott bejelentés alapján jogosult a veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat működtető, a veszélyes áru rakodását, átrakását, tárolását – ideértve az ideiglenes tárolást is – végző személyek, szervezetek felé intézkedni, a károk enyhítése érdekében készített tervekben előírtak megtételére utasítást adni.
+(2) A Kormány rendeletében kijelölt hatóság az (1) bekezdésben meghatározott bejelentés alapján jogosult a veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat működtető, a veszélyes áru rakodását, átrakását, tárolását – ideértve az ideiglenes tárolást is – végző személyek, szervezetek felé intézkedni, a károk enyhítése érdekében készített tervekben előírtak megtételére utasítást adni.
 
-(3) A hivatásos katasztrófavédelmi szerv által adott utasításokat a veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat-működtetők, a veszélyes áru rakodását, átrakását, tárolását végző személyek, szervezetek kötelesek haladéktalanul végrehajtani.
+(3) A Kormány rendeletében kijelölt hatóság által adott utasításokat a veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat-működtetők, a veszélyes áru rakodását, átrakását, tárolását végző személyek, szervezetek kötelesek haladéktalanul végrehajtani.
 
 ### A veszélyes áruk szállításának ellenőrzésével kapcsolatos hatósági eljárás
 
@@ -3246,7 +3248,7 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 - 9. az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állami kezességre vonatkozó részletes szabályokat,
 - 10. a vasúti pályákkal, a vasúti pálya tartozékaival és a vasúti üzemi létesítményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások, üzemeltetésük és üzemben tartásuk ellenőrzésének, továbbá a rendszerintegritási vizsgálat lefolytatásának részletes szabályait, valamint az országos jelentőségű pályahálózathoz történő csatlakozás hatósági megszüntetése elrendelésének feltételeit,
 - 11. az országos vasúti mellékvonalak felsorolását,
-- 12. a hivatásos katasztrófavédelmi szervek által lefolytatott eljárások során a veszélyes áruk vasúti szállításának ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az egyes szabálytalanságokért kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
+- 12. a veszélyes áruk vasúti szállításának ellenőrzésére és bírság kivetésére jogosult hatóság kijelölését, a kijelölt hatóság által végzett ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az egyes szabálytalanságokért kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 - 13. a villamos és a fogaskerekű vasút felsővezetéki infrastruktúrájának létesítésével összefüggésben egyes idegen ingatlanok igénybevételének részletes szabályait,
 - 14. a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításának részletes szabályait,
 - 15. az értékelést végző szerv kijelölésére, kijelölést követő ellenőrzésére, valamint tevékenységére vonatkozó szabályokat,
