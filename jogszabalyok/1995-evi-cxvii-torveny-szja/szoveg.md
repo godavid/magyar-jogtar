@@ -238,7 +238,7 @@ feltéve, hogy kizárólag magánszemély alapító, csatlakozó által rendelke
 - 71.
 - 72.
 - 73. Lakás: az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró építmény, valamint az építési engedély szerint lakóház céljára létesülő építmény, ha készültségi foka a szerkezetkész állapotot (elkészült és ráépített tetőszerkezet) eléri, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett földrészleten lévő lakóház.
-- 74. Lakótelek: az épített környezet alakításáról és védelméről szóló törvényben meghatározott építési telek, ha arra a településrendezési terv szerint lakás építhető, valamint az ingatlan-nyilvántartásban a lakással együtt nyilvántartott földrészlet, továbbá az a földrészlet, amelyet lakáshoz tartozó földhasználati jog terhel.
+- 74. Lakótelek: a magyar építészetről szóló törvényben meghatározott építési telek, ha arra a településrendezési terv szerint lakás építhető, valamint az ingatlan-nyilvántartásban a lakással együtt nyilvántartott földrészlet, továbbá az a földrészlet, amelyet lakáshoz tartozó földhasználati jog terhel.
 - 75.
 - 76. Nyugdíj-előtakarékossági számla: a nyugdíj-előtakarékossági számlákról szóló törvényben meghatározott számlavezető által vezetett, az említett törvény szerinti számlák együttese, feltéve, hogy a magánszemély nyilatkozata alapján a számlavezető a nyugdíj-előtakarékossági számlákon, továbbá a velük kapcsolatos, e törvény rendelkezéseinek alkalmazásához előírt bizonylatokon „NYESZ-R” megkülönböztető jelzést alkalmaz.
 - 77. Minimálbér: a törvény külön rendelkezésének hiányában is az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény költségelszámolásra vonatkozó rendelkezéseiben említett mindenkori minimálbért.

@@ -127,7 +127,7 @@ képes ellátni.
 
 (3) Ha a helyi önkormányzat döntése során kétség merül fel a tekintetben, hogy a közterület neve megfelel-e a (2) bekezdésnek, arról beszerzi a Magyar Tudományos Akadémia állásfoglalását.
 
-14/A. § (1) Minden belterületi és olyan külterületi közterületet el kell nevezni, amely olyan ingatlanhoz vezet, amelyen az épített környezet alakításáról és védelméről szóló törvény szerinti épület található.
+14/A. § (1) Minden belterületi és olyan külterületi közterületet el kell nevezni, amely olyan ingatlanhoz vezet, amelyen a magyar építészetről szóló törvény szerinti épület található.
 
 (2) Közterület elnevezéseként nem alkalmazható
 
@@ -300,7 +300,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### Vármegyei önkormányzat
 
-27. § (1) A vármegyei önkormányzat területi önkormányzat, amely törvényben meghatározottak szerint területfejlesztési, vidékfejlesztési, területrendezési, valamint koordinációs feladatokat lát el. A vármegyei önkormányzat képviselő-testülete a közgyűlés.
+27. § (1) A vármegyei önkormányzat területi önkormányzat, amely törvényben meghatározottak szerint területfejlesztési, vidékfejlesztési, valamint koordinációs feladatokat lát el. A vármegyei önkormányzat képviselő-testülete a közgyűlés.
 
 (1a) A vármegyei önkormányzat székhelyét a szervezeti és működési szabályzatról szóló rendeletében a vármegyeszékhely település területén határozza meg.
 
@@ -1465,7 +1465,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### A törvényességi felhívás
 
-134. § (1) Ha a kormányhivatal jogszabálysértést észlel, a törvényességi felügyelet körében legalább tizenöt napos határidő tűzésével felhívja az érintettet annak megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedéséről vagy egyet nem értéséről a kormányhivatalt írásban tájékoztatni.
+134. § (1) Ha a kormányhivatal jogszabálysértést észlel, a törvényességi felügyelet körében legalább harminc napos határidő tűzésével felhívja az érintettet annak megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedéséről vagy egyet nem értéséről a kormányhivatalt írásban tájékoztatni.
 
 (2) A törvényességi felhívás eredménytelensége esetén a kormányhivatal a törvényességi felügyeleti eljárás egyéb eszközeinek alkalmazásáról mérlegelési jogkörben dönt.
 

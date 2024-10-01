@@ -255,7 +255,7 @@ alapvető jogai és kötelezettségei
 
 (3d) A tájékozódást segítő jelzést megjelenítő reklámcélú eszköz (3c) bekezdés szerinti elhelyezése esetén
 
-- a) nem kell alkalmazni az épített környezet alakításáról és védelméről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
+- a) nem kell alkalmazni a magyar építészetről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
 - b) a közterület igénybevétele rendeltetésszerű igénybevételnek, a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz pedig a közúti közlekedés szervezésének és irányításának céljait szolgáló berendezésnek minősül,
 - c) a közterület b) pont szerinti rendeltetésszerű igénybe vétele közterület használati díjfizetési kötelezettséggel nem jár, a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz elhelyezéséért az elhelyezőnek a közút kezelője részére elhelyezési díjat kell fizetnie,
 - d) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges.
@@ -267,7 +267,7 @@ alapvető jogai és kötelezettségei
 
 - a) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés a nyilvános telefonállomás üzemeltetője engedélyével helyezhető el a segélykérő telefon tartószerkezetén,
 - b) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés segélykérő telefon tartószerkezetén történő elhelyezése esetén az elhelyező életmentő funkciót ellátó reklámcélú eszközönként 3000 forint/hó összegű díj megfizetésére köteles,
-- c) elhelyezése esetén nem kell alkalmazni a településkép védelméről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
+- c) elhelyezése esetén nem kell alkalmazni a magyar építészetről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
 - d) a közterület igénybevétele rendeltetésszerű igénybevételnek minősül, amely közterület-használati díjfizetési kötelezettséggel nem jár, az elhelyezőnek a közút kezelője részére csak a b) pont szerinti elhelyezési díjat kell fizetnie,
 - e) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges, és
 - f) az életmentő funkciót ellátó reklámcélú eszközre az (5) bekezdésben foglaltak irányadók.
@@ -415,7 +415,7 @@ jogosultak.
 
 16/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály közúti közlekedési szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a közúti közlekedési szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a közlekedési hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a közlekedési hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a magyar építészetről szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
 (3) A közlekedési hatóság, illetve kamara a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
@@ -429,7 +429,7 @@ jogosultak.
 
 - a) büntetlen előéletű,
 - b) rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek,
-- c) rendelkezik a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) engedélyével.
+- c) rendelkezik a magyar építészetről szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) engedélyével.
 
 (2) A kamara az auditori tevékenység végzésére jogosult személyekről nyilvántartást vezet, amely tartalmazza az auditori tevékenység végzésére jogosult személy természetes személyazonosító adatait, valamint a képzettségét és a gyakorlati idejét. A nyilvántartásból kizárólag az auditori tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
@@ -771,11 +771,11 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (1c) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés k), m), o) és p) pontjában felsorolt ügycsoportba tartozó, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes jogsértések miatt indult közigazgatási hatósági eljárásokban.
 
-(2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a foglalkoztatás-felügyeleti hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
+(2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) és (11c) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a Kormány rendeletében kijelölt hatóság, a foglalkoztatás-felügyeleti hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
 
-(2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság jogosult.
+(2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) és (11c) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a Kormány rendeletében kijelölt hatóság jogosult.
 
-(2b) A rendőrség, a katasztrófavédelmi hatóság és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
+(2b) A rendőrség, a Kormány rendeletében kijelölt hatóság és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
@@ -811,26 +811,28 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 - a) belföldi forgalomban közlekedő jármű esetén
   - aa) a közlekedési hatóság, a rendőrség, és a vámhatóság,
   - ab) az (1) bekezdés h) pontjában a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésének tekintetében a közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
-  - ac) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is,
+  - ac)
 - b) nemzetközi forgalomban közlekedő jármű esetén
   - ba) a közlekedési hatóság, a rendőrség és a vámhatóság,
-  - bb) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is,
+  - bb)
   - bc) az (1) bekezdés a) pontja szerinti, a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött nemzetközi közúti közlekedési szolgáltatás tekintetében és az (1) bekezdés h) pontja szerinti, a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének tekintetében közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
   - bd) az (1) bekezdés q) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság,
 - c) az üzemben tartó telephelyén, a fel-, át- és lerakóhelyeken, illetve más, az árukezelés céljából üzemeltetett területen
   - ca) a közlekedési hatóság, a rendőrség, és a vámhatóság,
   - cb) az (1) bekezdés c) és d) pontja tekintetében külön jogszabály alapján a foglalkoztatás-felügyeleti hatóság is,
-- d) az (1) bekezdés e) pontja tekintetében – a veszélyes áru szállítójának (fuvarozójának), feladójának, csomagolójának, be- és kirakójának, töltő- és ürítőjének, címzettjének telephelyén is – külön jogszabály alapján a katasztrófavédelmi hatóság és a vámhatóság is,
+- d) az (1) bekezdés e) pontja tekintetében – a veszélyes áru szállítójának (fuvarozójának), feladójának, csomagolójának, be- és kirakójának, töltő- és ürítőjének, címzettjének telephelyén is – külön jogszabály alapján a vámhatóság is,
 - e) az (1) bekezdés k) pontja tekintetében a rendőrség
 - f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is,
 - g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Kormány rendeletében kijelölt, útdíjszolgáltatási tevékenységet ellátó állami tulajdonú gazdasági társaság (a továbbiakban: útdíjszolgáltatási gazdasági társaság),
-- h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság és a katasztrófavédelmi hatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
+- h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
 
 jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c), d) és q) pontjában meghatározott ellenőrzésébe a foglalkoztatás-felügyeleti hatóság is bevonható.
 
 (11a) Az (1) bekezdés k) pontja tekintetében ellenőrzésre jogosult a katonai rendészeti szolgálat is a Magyar Honvédség személyi állománya, valamint a honvédségi gépjárművek vonatkozásában. A katonai rendészeti szolgálat az általa feltárt szabályszegések esetén az ügy iratait megküldi a rendőrség részére.
 
 (11b) Az (1) bekezdés c) és d) pontjában meghatározottak ellenőrzését a tachográfokra vonatkozó uniós rendeletben meghatározott ellenőrző tisztviselő (a továbbiakban: menetíró ellenőr) végzi.
+
+(11c) Az (1) bekezdés e) és n) pontja tekintetében – az (1) bekezdés e) pontja esetében a veszélyes áru szállítójának (fuvarozójának), feladójának, csomagolójának, be- és kirakójának, töltő- és ürítőjének, címzettjének telephelyén is – a Kormány rendeletében kijelölt hatóság jogosult a (11) bekezdésben meghatározott hatóságokkal együtt vagy önállóan ellenőrizni.
 
 (12) Amennyiben a közúti járművel végzett tevékenység az (1) bekezdésben megjelölt rendelkezéseknek a határon történő belépés alkalmával nem felel meg, a vámhatóság vagy a rendőrség a közúti jármű belépését – a közlekedési hatóság haladéktalan értesítése mellett – megtagadhatja.
 
@@ -1626,7 +1628,8 @@ terjedhet.
 
 - a) engedélyezési eljárásokban ügyfélnek minősül az építtető, a vagyonkezelő, a közművek tulajdonosa, kezelője, továbbá az ügyféli minőség vizsgálata nélkül azon személyek, mint, az ingatlantulajdonos, vagy az ingatlan-nyilvántartásba bejegyzett jogszerű használó, akinek ingatlana a hatásterületen fekszik,
 - b) engedélyezési eljárásokban az eljárás megindításáról a közlekedési hatóság nyolc napon belül, ha helyszíni szemle, hatósági egyeztetés megtartása szükséges, az arról szóló értesítéssel egyidejűleg értesíti az ügyfeleket – ideértve a külföldi ügyfeleket is – hirdetményi úton,
-- c)–d)
+- c)
+- d)
 - e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok területe, amelyeket a tervezett tevékenység terület-igénybevétellel érinti, vagy amely a tevékenységgel igénybevett ingatlan tervezési határok közötti területével közvetlenül határos, vagy amelynek a kapubejárója az eljárás tárgyát képező útszakaszhoz közvetlenül csatlakozik.
 
 (3) A gyorsforgalmi közúthálózat közérdekűségéről és fejlesztéséről szóló külön törvényben megjelölt utakkal és az ezekkel az utakkal egy beruházásban megvalósuló egyéb utakkal kapcsolatos közlekedési hatósági eljárásokban hozott határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – azonnal végrehajthatónak nyilvánítható.
@@ -1811,6 +1814,10 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (6) Az (1) bekezdésben meghatározott díjak beszedésének feladatait, a használati díjak megfizetéséhez kapcsolódó, jogszabályban meghatározott korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését az útdíjszolgáltatási gazdasági társaság látja el. E feladatai ellátása tekintetében az útdíjszolgáltatási gazdasági társaság jogosult a közúti közlekedési nyilvántartás adataihoz a közúti közlekedési nyilvántartásról szóló törvényben foglaltak szerint hozzáférni. Ennek végrehajtása érdekében az útdíjszolgáltatási gazdasági társaság által ellátott közfeladatok biztosítására vonatkozó szerződés megkötésével kapcsolatos feladatokat az útdíjfizetési-szolgáltatásért felelős miniszter látja el.
 
+(6a) Ha az (1) bekezdésben meghatározott használati díj megfizetésének elmulasztása miatt kiszabott pótdíj az Európai Unió más tagállamában nyilvántartott jármű tekintetében áll fenn, az útdíjszolgáltatási gazdasági társaság az érintett jármű üzembentartója, ennek hiányában tulajdonosa azonosító adatainak megállapítása céljából a jogszabályban kijelölt nemzeti kapcsolattartó ponton keresztül a jármű teljes forgalmi rendszámának, a használatidíj-fizetés elmulasztásával összefüggő adatoknak, továbbá a mulasztás időpontjának megadásával automatizált keresést kezdeményezhet a jármű nyilvántartásba vétele szerinti tagállam nemzeti gépjármű-nyilvántartási adatállományában.
+
+(6b) A (6a) bekezdésben meghatározott automatizált keresés eredményeképpen ismertté vált üzembentartót, ennek hiányában tulajdonost az útdíjszolgáltatási gazdasági társaság vagy annak a 33/B. § (4a) bekezdésében meghatározott megbízottja az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott formanyomtatvány alkalmazásával tájékoztatja a használatidíj-fizetés elmulasztása miatt kiszabott pótdíj érvényesítése érdekében indított eljárásról.
+
 (7) Az (1) bekezdésben meghatározott használati jogosultság az útdíjszolgáltatási gazdasági társaság saját, vagy az útdíjszolgáltatási gazdasági társasággal megállapodást kötött viszonteladók értékesítésében váltható meg. A viszonteladók – a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendeletben meghatározottak szerint – átalány-költségtérítésre jogosultak.
 
 33/B. § (1) A használati díjfizetéssel érintett országos közutakat – ideértve erre irányuló szerződés esetén a 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos közutat is – vagy azok egyes szakaszait, a használati díj, ennek megfizetése elmaradása esetén a pótdíjat vagy meghatározásának módját, valamint a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján – a miniszter az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben, rendeletben állapítja meg.
@@ -1832,7 +1839,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (5) A használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő 60 napos jogvesztő határidőn belül az üzembentartó részére postára adja a pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a használati díj megfizetését elmulasztó gépjármű üzembentartójának a használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő előtt ismertté válásától kell számítani. Nem kell pótdíjfizetési felszólítást kézbesíteni abban az esetben, ha a használati díjat és pótdíjat meg nem fizető üzembentartó, vagy a gépjármű vezetője a helyszíni ellenőrzés alkalmával az ellenőrzésről kiállított jegyzőkönyvet aláírja és átveszi. A pótdíjfizetési kötelezettség három év alatt évül el. A pótdíj után késedelmi kamat nem jár.
 
-(5a) Ha a pótdíjfizetési felszólítás megküldésének időpontjában a közúti közlekedési nyilvántartás nem a tényleges üzemben tartó adatait tartalmazza, illetve külföldi üzembentartók esetén az (5) bekezdés szerinti határidő a tényleges üzemben tartó ismertté válásától számítandó.
+(5a) Ha a pótdíjfizetési felszólítás megküldésének időpontjában a közúti közlekedési nyilvántartás, vagy – az Európai Unió más tagállamában nyilvántartott jármű esetében – a nyilvántartás helye szerinti tagállam nemzeti gépjármű-nyilvántartása nem a tényleges üzembentartó adatait tartalmazza, továbbá harmadik országban nyilvántartott jármű esetében az (5) bekezdés szerinti határidő a tényleges üzembentartó ismertté válásától számítandó.
 
 (6)
 
@@ -2371,7 +2378,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 13. a közúti szállítást végző egyes járművek személyzetének vezetési és pihenőidejének ellenőrzésére vonatkozó szabályokat,
   - 14. a 7500 kg megengedett legnagyobb össztömeget meghaladó járművel történő közlekedés időszakos és területi korlátozására vonatkozó szabályokat,
   - 15. a közúti árufuvarozásra, személyszállításra, a vizsgálóállomás által végzett közúti jármű vizsgálatára, az ömlesztett áruk szállítására, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, a pénzkövetelés biztosítása elrendelése esetén ennek összegét, továbbá az ezek megfizetésével kapcsolatos költség összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
-  - 16. a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárás szabályait,
+  - 16. a veszélyes áruk közúti szállításának ellenőrzésére jogosult hatóság kijelölését, valamint az ellenőrzésre vonatkozó egységes eljárás szabályait,
   - 17. a közúti járművekkel kapcsolatos jóváhagyásokra, típusbizonyítványokra, műszaki vizsgálatokra vonatkozó adatok kezelésére és nyilvántartására vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét és az ellenőrzés részletes szabályait,
   - 18. a 20. § (11) bekezdés a) pont ab) alpontja és b) pont bc) alpontja, valamint a 33/C. § (1) bekezdése szerinti hatósági ellenőrzés lefolytatására jogosult közútkezelő kijelölését,
   - 19. a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokat
@@ -2496,6 +2503,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - q) a miniszter, hogy a 21/B. § (3) bekezdésében említett, az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványt,
 - r) a közlekedésrendészetért felelős miniszter, valamint a honvédelemért felelős miniszter, hogy a feladat- és hatáskörébe tartozó tevékenységhez kapcsolódó, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint emelő-, rakodó gépek, az egyes technológiai műveletekben részfeladatokat ellátó, stabil kivitelezésű – telepített – gépsorok részét képező gépeket működtető gépkezelők képzésére és vizsgáztatására vonatkozó szabályokat
 - s) az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszolgáltatási gazdasági társaság által a viszonteladóknak fizetendő átalány-költségtérítés mértékét és számításának módját
+- t) a miniszter, hogy a 33/A. § (6b) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt
 
 rendeletben állapítsa meg.
 
@@ -2516,6 +2524,8 @@ rendeletben állapítsa meg.
 (5a) Felhatalmazást kap a fővárosi közgyűlés, hogy a főváros közigazgatási területén lévő közúttal érintkező szilárd burkolatú járda, gyalogút, gyalogos felállóhely szegélye egységes kialakításának követelményeit rendeletben állapítsa meg.
 
 (5b) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés –, hogy hogy a közlekedésért felelős miniszter rendeletében előírt közutak kezelési feladataival kapcsolatban, valamint a közlekedésért felelős miniszter rendeletében előírt közutak építésével kapcsolatban előírt minőségi követelmények ellenőrzésének való megfelelés érdekében az általa kezelt közutak vonatkozásában a helyi sajátosságoknak megfelelő további szabályokat rendeletben állapíthasson meg.
+
+(5c) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés és a fővárosi kerületi képviselőtestület –, hogy rendeletében megállási és várakozási tilalommal érintett zöldfelületet jelöljön ki.
 
 (6) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője által rendszeres adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelmények, és az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatással kapcsolatos szabályokat.
 
@@ -2554,7 +2564,7 @@ rendeletben állapítsa meg.
 - h) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 17. cikke;
 - i) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv,
 - j) az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelv.
-- k) az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelv 24. cikke,
+- k) az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelv 2., valamint 23–25. cikke,
 - l) a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére vonatkozó különös szabályoknak a 96/71/EK irányelv és a 2014/67/EU irányelv tekintetében való meghatározásáról, a 2006/22/EK irányelvnek a végrehajtási követelmények tekintetében történő módosításáról, valamint az 1024/2012/EU rendelet módosításáról szóló, 2020. július 15-i (EU) 2020/1057 európai parlamenti és tanácsi irányelv 1. cikke,
 - m) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv.
 - n) a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló 2006/1/EK irányelv módosításáról szóló, 2022. április 6-i (EU) 2022/738 európai parlamenti és tanácsi irányelv.

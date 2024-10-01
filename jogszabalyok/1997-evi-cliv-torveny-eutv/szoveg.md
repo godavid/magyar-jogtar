@@ -4331,7 +4331,7 @@ részére – kérésükre – hozzáférést biztosít, ha a megkereső igazolj
 - i) a védett vezető egészségügyi ellátásának koordinálására és a védett vezetőre vonatkozó egészségügyi előírások végrehajtására és ellenőrzésére vonatkozó rendelkezéseket állapíthat meg,
 - j) elrendelhet törvény alapján meghozható járványügyi intézkedéseket,
 - k) törvényben meghatározott egyéb rendelkezéseket hozhat.
-- l) az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti közterület használatára a közterülethez közvetlenül csatlakozó, a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti tevékenységek folytatására alkalmas helyiség tekintetében közterület-használati hozzájárulás megfizetésével kapcsolatos rendelkezéseket állapíthat meg,
+- l) a magyar építészetről szóló 2023. évi C. törvény 16. § 73. pontja szerinti közterület használatára a közterülethez közvetlenül csatlakozó, a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti tevékenységek folytatására alkalmas helyiség tekintetében közterület-használati hozzájárulás megfizetésével kapcsolatos rendelkezéseket állapíthat meg,
 - m) a 232/G. § szerinti, a távmunkavégzésre vonatkozó különös szabályok alkalmazását rendelheti el.
 
 (2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a 228. § (2) bekezdése szerinti körülmény megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja, és kijárási korlátozást nem vezethet be.
