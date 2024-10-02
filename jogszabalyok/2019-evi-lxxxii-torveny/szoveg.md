@@ -4,73 +4,73 @@ az ingatlan-nyilvántartást, valamint egyes közigazgatási hatósági eljárá
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
 #### 3. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-7. §
+#### 7. §
 
 #### 4. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. § Az Fttv. 13. § (2) bekezdése az „Egyéb önálló ingatlanok” szövegrész helyett a „Társasház, illetve szövetkezeti ház” szöveggel lép hatályba.
+#### 15. §
 
-16. §
+#### 16. §
 
 #### 5. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
 #### 6. A közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény eltérő szöveggel történő hatályba léptetése
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
 #### 7. A közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény módosítása
 
-23. §
+#### 23. §
 
 #### 8. A közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljárások egyszerűsítésével összefüggő törvények módosításáról szóló 2017. évi CLXXXVI. törvény módosítása
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
 #### 9. A közigazgatási szabályszegések szankcióiról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2018. évi CXXIII. törvény hatályon kívül helyezése
 
-26. §
+#### 26. §
 
 #### 10. Záró rendelkezések
 

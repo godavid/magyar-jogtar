@@ -635,12 +635,7 @@ lép.
 
 #### 107. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
 
-195. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény
-
-- a) 61. § (1) bekezdése az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: E-ügyintézési törvény)” szövegrész helyett az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben (a továbbiakban: Dáptv.)” szöveggel,
-- b) 86. § c) pontja az „az E-ügyintézési törvényben” szövegrész helyett az „a Dáptv.-ben” szöveggel
-
-lép hatályba.
+#### 195. §
 
 #### 108.
 
@@ -686,7 +681,7 @@ lép hatályba.
 
 #### 115. A magyar építészetről szóló 2023. évi C. törvény módosítása
 
-210. § A magyar építészetről szóló 2023. évi C. törvény 52. § (6) bekezdése az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól” szövegrész helyett az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól” szöveggel lép hatályba.
+#### 210. §
 
 #### 116. A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény módosítása
 

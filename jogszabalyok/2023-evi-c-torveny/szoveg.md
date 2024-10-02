@@ -4701,345 +4701,92 @@ való megfelelést szolgálja, továbbá az épületek energiahatékonyságáró
 
 #### 54. Módosító rendelkezések
 
-#### 237. § [A közúti közlekedésről szóló 1988. évi I. törvény módosítása]
+#### 237. §
 
-(1) A közúti közlekedésről szóló 1988. évi I. törvény 48. §-a a következő (5c) bekezdéssel egészül ki:
+#### 238. §
 
-„(5c) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés és a fővárosi kerületi képviselőtestület –, hogy rendeletében megállási és várakozási tilalommal érintett zöldfelületet jelöljön ki.”
+#### 239. §
 
-(2) A közúti közlekedésről szóló 1988. évi I. törvény
+#### 240. §
 
-- a) 12. § (3d) bekezdés a) pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- b) 12. § (3f) bekezdés c) pontjában a „településkép védelméről” szövegrész helyébe a „magyar építészetről” szöveg,
-- c) 16/A. § (2) bekezdésében a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg,
-- d) 16/B. § (1) bekezdés c) pontjában a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg
+#### 241. §
 
-lép.
+#### 242. §
 
-#### 238. § [Az illetékekről szóló 1990. évi XCIII. törvény módosítása]
+#### 243. §
 
-Az illetékekről szóló 1990. évi XCIII. törvény 102. § (1) bekezdés p) pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
+#### 244. §
 
-#### 239. § [A helyi adókról szóló 1990. évi C. törvény módosítása]
+#### 245. §
 
-(1) A helyi adókról szóló 1990. évi C. törvény 13/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 246. §
 
-„(1) Ha önkormányzati rendelet alapján a helyi emléknek vagy nemzeti emléknek minősülő műemléki védelem alatt álló épületet felújítják, akkor az épület, illetve az épületben lévő önálló adótárgy (lakás, nem lakás céljára szolgáló épületrész) a (2)–(7) bekezdésben meghatározottak szerint a felújításra kiadott engedély véglegessé válását követő három egymást követő adóévben mentes az adó alól.”
+#### 247. §
 
-(2) A helyi adókról szóló 1990. évi C. törvény
+#### 248. §
 
-- a) 13/A. § (2) bekezdésében az „a műemléképület” szövegrész helyébe az „az (1) bekezdésben meghatározott épület” szöveg,
-- b) 52. § 5. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- c) 52. § 43. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg
+#### 249. §
 
-lép.
+#### 250. §
 
-#### 240. § [A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása]
+#### 251. §
 
-A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény a következő 19/L. §-sal egészül ki:
+#### 252. §
 
-„19/L. § Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a feladatainak ellátásához a 17. § (2) bekezdés f) pontja szerinti adatokat jogosult igényelni.”
+#### 253. §
 
-#### 241. § [A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény módosítása]
+#### 254. §
 
-A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény 7. § (1) bekezdés d) pontjában az „épített örökséggel” szövegrész helyébe az „építészeti örökséggel” szöveg lép.
+#### 255. §
 
-#### 242. § [A bányászatról szóló 1993. évi XLVIII. törvény módosítása]
+#### 256. §
 
-Hatályát veszti a bányászatról szóló 1993. évi XLVIII. törvény 43/B. § (2) bekezdése.
+#### 257. §
 
-#### 243. § [A munkavédelemről szóló 1993. évi XCIII. törvény módosítása]
+#### 258. §
 
-A munkavédelemről szóló 1993. évi XCIII. törvény 83. § (1) bekezdésében a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg lép.
+#### 259. §
 
-#### 244. § [A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása]
+#### 260. §
 
-(1) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 3. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(E törvény rendelkezéseivel összhangban külön törvények rendelkeznek, különösen:)
-
-„e) a magyar építészetről,”
-
-(2) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 92. § (2) bekezdés b) pontjában a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg lép.
-
-#### 245. § [A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása]
-
-A vízgazdálkodásról szóló 1995. évi LVII. törvény 5/A. § (1) bekezdésében a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg lép.
-
-#### 246. § [A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása]
-
-A légiközlekedésről szóló 1995. évi XCVII. törvény 20/A. § (2) bekezdés b) pontjában a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg lép.
-
-#### 247. § [A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása]
-
-A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 74. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
-
-#### 248. § [A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosítása]
-
-A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 21. § (3) bekezdésében a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg lép.
-
-#### 249. § [A természet védelméről szóló 1996. évi LIII. törvény módosítása]
-
-A természet védelméről szóló 1996. évi LIII. törvény 21/A. §-ában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
-
-#### 250. § [A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény hatályon kívül helyezése]
-
-Hatályát veszti a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény.
-
-#### 251. § [Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása]
-
-Az atomenergiáról szóló 1996. évi CXVI. törvény
-
-- a) 17. § (2b) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII.” szövegrész helyébe az „a magyar építészetről szóló” szöveg,
-- b) 19/A. § (1) bekezdésében a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg
-
-lép.
-
-#### 252. § [Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény hatályon kívül helyezése]
-
-Hatályát veszti az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény.
-
-#### 253. § [Az egészségügyről szóló 1997. évi CLIV. törvény módosítása]
-
-Az egészségügyről szóló 1997. évi CLIV. törvény 232/D. § (1) bekezdés l) pontjában az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13.” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 16. § 73.” szöveg lép.
-
-#### 254. § [A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása]
-
-A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § g) pontjában az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. §-ának” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 16. §-ának” szöveg lép.
-
-#### 255. § [A víziközlekedésről szóló 2000. évi XLII. törvény módosítása]
-
-A víziközlekedésről szóló 2000. évi XLII. törvény 6/A. § (2) bekezdésében a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg lép.
-
-#### 256. § [A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása]
-
-(1) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 1. §-a helyébe a következő rendelkezés lép:
-
-„1. § (1) E törvény hatálya a kulturális örökség elemei közül a régészeti örökség védelmére és a kulturális javak védelmére, valamint az ezekkel kapcsolatos minden tevékenységre, személyre és szervezetre terjed ki.
-
-(2) A kulturális örökség elemeinek e törvény szerinti védelme nem érinti a más jogszabályok alapján fennálló védettséget.
-
-(3) A kulturális örökség műemlék elemeire és az emlékhelyekre vonatkozó rendelkezéseket a magyar építészetről szóló törvény tartalmazza.”
-
-(2) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 7. §-a a következő 19a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„19a. Kulturális javak felügyelete: a 46. § alá nem tartozó kulturális javak megóvásának, fejlesztésének, fenntartható használatának hatósági eszközökkel, továbbá hatósági eszközökön kívüli, elsősorban tanácsadással történő elősegítése.”
-
-(3) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 7. §-a a következő 30a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„30a. Régészeti felügyelet: a régészeti elem megóvásának, fejlesztésének, fenntartható használatának hatósági eszközökkel, továbbá hatósági eszközökön kívüli, elsősorban tanácsadással és feladatellátással történő elősegítése.”
-
-(4) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 67. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) Ha a kötelezett az (1) bekezdés a) és b) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, az örökségvédelmi hatóság vagy a kulturális javak hatósága a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet.”
-
-(5) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 74. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 11. § szerinti nyilvántartott régészeti lelőhely, a 15. §-ban meghatározott védett régészeti lelőhellyé, régészeti védőövezetté nyilvánítás adatát az ingatlan-nyilvántartásban be kell jegyezni.”
-
-(6) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 86. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A magyar államot elővásárlási jog illeti meg
-
-- a) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetén, vagy
-- b) védetté nyilvánított régészeti lelőhelyen fekvő ingatlan esetében akkor, ha ezt a védetté nyilvánító vagy védettséget módosító rendelet kimondja.”
-
-(7) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény
-
-- a) 6. § (1) bekezdés a) pontjában a „védelem” szövegrész helyébe a „régészeti örökség, a kulturális javak és műemlékek védelmének” szöveg,
-- b) 62. § a) pontjában az „építéshatósági, örökségvédelmi hatósági és szakhatósági” szövegrész helyébe az „örökségvédelmi hatósági” szöveg,
-- c) 62. § b) pontjában az „az örökségvédelmi felügyeleti” szövegrész helyébe az „a régészeti felügyeleti és műtárgyfelügyeleti” szöveg,
-- d) 63. § (5) bekezdés nyitó szövegrészében az „A hatóság az örökségvédelmi” szövegrész helyébe az „Az örökségvédelmi hatóság és kulturális javak hatósága” szöveg,
-- e) 67. § (2) bekezdés nyitó szövegrészében az „A hatóság” szövegrész helyébe az „Az örökségvédelmi hatóság és kulturális javak hatósága” szöveg,
-- f) 67. § (2) bekezdés a) pontjában a „–c” szövegrész helyébe az „és b” szöveg,
-- g) 67. § (3) bekezdés nyitó szövegrészében az „a)–c)” szövegrész helyébe az „a) és b)” szöveg,
-- h) 67. § (3b) bekezdésében az „a)–c)” szövegrész helyébe az „a) és b)” szöveg,
-- i) 71. § (2) bekezdés nyitó szövegrészében a „hatóság” szövegrész helyébe a „kulturális javak hatósága” szöveg,
-- j) 86. § (3) bekezdés a) pontjában az „ingatlanok” szövegrész helyébe az „az (1) bekezdés b) pontja” szöveg
-
-lép.
-
-(8) Hatályát veszti a kulturális örökség védelméről szóló 2001. évi LXIV. törvény
-
-- 1. 2. § a) pontjában az „és az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.)” szövegrész,
-- 2. 6. § (5) bekezdése,
-- 3. 7. § 3a. pontja,
-- 4. 7. § 8. pontja,
-- 5. 7. § 11. pontjában a „61/I. § (3a) bekezdése szerinti” szövegrész,
-- 6. 7. § 12a. pontja,
-- 7. 7. § 15–18. pontja,
-- 8. 7. § 21. pontja,
-- 9. 7. § 21b. pontja,
-- 10. 7. § 24. pontja,
-- 11. 7. § 43. pontja,
-- 12. 7. § 44a. és 44b. pontja,
-- 13. 2. Fejezete,
-- 14. 4. Fejezete,
-- 15. 5. Fejezete,
-- 16. 63. § (1) bekezdése,
-- 17. 63. § (4) és (4a) bekezdése,
-- 18. 63. § (5) bekezdés e) pontja,
-- 19. 67. § (1) bekezdés a) pontjában a „műemlékek,” szövegrész,
-- 20. 67. § (1) bekezdés b) pontjában a „műemlékek,” szövegrész,
-- 21. 67. § (1) bekezdés c)–e) pontja,
-- 22. 67. § (2) bekezdés b) pontja,
-- 23. 67. § (4) bekezdésében a „b) pontja” szövegrész,
-- 24. 71. § (1) bekezdés d) pontja,
-- 25. 72. § (1a) bekezdésében a „–d)” szövegrész,
-- 26. 75/C. §-ában az „és a műemléki érték” szövegrész,
-- 27. 76. § (2) bekezdésében a „műemlékek és a” szövegrész,
-- 28. 81. § h) és i) pontja,
-- 29. 82. § (1) bekezdés b) pontja,
-- 30. 82. § (1) bekezdés e) pontjában a „vagy műemléki területen szakértői tevékenységet szakértői jogosultság” szövegrész,
-- 31. 85/A. § (1) bekezdésében az „az Étv. 8. § (2) bekezdése szerinti” szövegrész,
-- 32. 86. § (1a) bekezdése,
-- 33. 86. § (4) bekezdése,
-- 34. 87. §-a,
-- 35. 90. §-a,
-- 36. 92/A. §-a,
-- 37. 93. § (1) bekezdés 1. pontjában az „és a védett műemléki értékek” szövegrész,
-- 38. 93. § (1) bekezdés 5. pontjában a „ , a műemlékek kategóriába sorolásával ” szövegrész,
-- 39. 93. § (1) bekezdés 8. pontjában a „ , valamint a műemléktől elvált alkotórészek, tartozékok, berendezési tárgyak” szövegrész,
-- 40. 93. § (1) bekezdés 15–23. pontja,
-- 41. 93. § (1) bekezdés 25. pontja,
-- 42. 93. § (1a) bekezdése,
-- 43. 93. § (2) bekezdés n) pontja,
-- 44. 2. melléklete.
-
-#### 257. § [Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása]
-
-(1) Az elektronikus hírközlésről szóló 2003. évi C. törvény 97. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a jogszerűen létesített építmény eltávolítása vagy áthelyezése szükséges, akkor e munkálatokat – a 94. § (4e) bekezdése alapján létesített nagy sebességű elektronikus hírközlő hálózat kivételével – annak költségére kell elvégezni, akinek érdekében ez felmerült. Jogszerűen építettnek kell tekinteni azt az építményt is, amely az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48/A. §-a vagy a magyar építészetről szóló 2023. évi C. törvény a 177. §-a szerint fennmaradási engedélyt kapott.”
-
-(2) Az elektronikus hírközlésről szóló 2003. évi C. törvény
-
-- a) 94. § (7) bekezdésében az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- b) 163/A. § (2) bekezdésében a „tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe a „magyar építészetről” szöveg,
-- c) 188. § 14. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg
-
-lép.
-
-#### 258. § [A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény módosítása]
-
-A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17. § (11) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 22. § (3) és (4) bekezdésében” szöveg lép.
-
-#### 259. § [A mozgóképről szóló 2004. évi II. törvény módosítása]
-
-A mozgóképről szóló 2004. évi II. törvény 2. § 31. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„31. közterület: a magyar építészetről szóló 2023. évi C. törvény 16. § 73. pontja szerinti földterület;”
-
-#### 260. § [A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása]
-
-A távhőszolgáltatásról szóló 2005. évi XVIII. törvény 28. § (3) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.)” szövegrész helyébe az „a magyar építészetről szóló törvényben” szöveg lép.
-
-#### 261. § [A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása]
-
-A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény
-
-- a) 42/B. § (2) bekezdés a) pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- b) 42/B. § (2) bekezdés c) pontjában az „a településkép védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- c) 44. § (3a) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény” szövegrész helyébe az „a magyar építészetről szóló törvény” szöveg,
-- d) 80/D. § (2) bekezdésében az „a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról” szövegrész helyébe az „a magyar építészetről” szöveg
-
-lép.
+#### 261. §
 
 #### 262. §
 
-#### 263. § [A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása]
+#### 263. §
 
-A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 31. § (7) bekezdés a) pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
+#### 264. §
 
-#### 264. § [A menedékjogról szóló 2007. évi LXXX. törvény módosítása]
+#### 265. §
 
-A menedékjogról szóló 2007. évi LXXX. törvény 80/D. § (2) bekezdésében az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
+#### 266. §
 
-#### 265. § [A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása]
+#### 267. §
 
-A villamos energiáról szóló 2007. évi LXXXVI. törvény 80. § (3) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 39. §-a” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 16. § 37. pontja” szöveg lép.
+#### 268. §
 
-#### 266. § [Az államhatárról szóló 2007. évi LXXXIX. törvény módosítása]
-
-Az államhatárról szóló 2007. évi LXXXIX. törvény 5/B. § (2) bekezdésében az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
-
-#### 267. § [A kisajátításról szóló 2007. évi CXXIII. törvény módosítása]
-
-A kisajátításról szóló 2007. évi CXXIII. törvény 5. § (2) bekezdésében az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
-
-#### 268. § [A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása]
-
-A termőföld védelméről szóló 2007. évi CXXIX. törvény
-
-- a) 10. § (2a) bekezdés b) pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- b) 15. § (8) bekezdésében az „épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 33/A. § (3a) bekezdésében” szövegrész helyébe az „építésügyi tárgyú jogszabályokban” szöveg
-
-lép.
-
-#### 269. § [Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása]
-
-Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény
-
-- a) 8. § (7) bekezdésében az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- b) 113/A. § (1) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.)” szövegrész helyébe az „a magyar építészetről szóló törvényben” szöveg és az „az Étv. 47. § (2) bekezdés a) és b) pontja” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 175. § (2) bekezdése és 177. § (9) bekezdése” szöveg,
-- c) 113/A. § (2) bekezdésében az „a településkép védelméről szóló 2016. évi LXXIV. törvény szerinti településképi rendeletek” szövegrész helyébe az „a magyar építészetről szóló törvény szerinti helyi építési szabályzatok, településképi rendeletek” szöveg
-
-lép.
+#### 269. §
 
 #### 270. § [A világörökségről szóló 2011. évi LXXVII. törvény módosítása]
 
 (1) A világörökségről szóló 2011. évi LXXVII. törvény
 
-- a) 3. § (1) bekezdésében a „–” szövegrészek helyébe a „-” szöveg és az „örökség, a természet” szövegrész helyébe az „örökségről, a magyar építészetről, a természet védelméről” szöveg,
+- a)
 - b)
 
-(2) A világörökségről szóló 2011. évi LXXVII. törvény 2. § 2. pontja helyébe a következő rendelkezés lép:
+(2)
 
-(E törvény alkalmazásában:)
+(3)
 
-„2. világörökségi helyszín: az UNESCO Világörökség Bizottsága határozata alapján a Világörökség Jegyzékbe felvett, világörökségi címmel rendelkező – az 1. mellékletben meghatározott – helyszín, amelyet a kulturális örökségről, a magyar építészetről, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;”
+(4)
 
-(3) A világörökségről szóló 2011. évi LXXVII. törvény 2. § 6. pontja helyébe a következő rendelkezés lép:
+(5)
 
-(E törvény alkalmazásában:)
+(6)
 
-„6. várományos helyszín: a kiemelkedő kulturális örökségi, illetve természeti értékei (a továbbiakban együtt: kiemelkedő érték) révén, az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint az UNESCO Világörökség Központhoz (a továbbiakban: Központ) bejelentett, a Világörökségi Várományos Helyszínek Jegyzékében szereplő helyszín, amelyet a kulturális örökségről, a magyar építészetről, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület;”
+#### 271. §
 
-(4) A világörökségről szóló 2011. évi LXXVII. törvény 2. § 8. pont b) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:
-
-várományos helyszín javasolt védőövezete: a várományos helyszín indokolt esetben kijelölt olyan környezete,)
-
-  - „b) amelyet a kulturális örökségről, a magyar építészetről, illetve a természet védelméről szóló jogszabályok alapján nyilvánítottak védetté, illetve jelöltek ki, és ekként kulturális örökségi védelmet élvező terület, országos jelentőségű védett természeti terület vagy annak védőövezete;”
-
-(5) A világörökségről szóló 2011. évi LXXVII. törvény 1. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Világörökségi vagy világörökségi várományos területté csak)
-
-„a) a korábban hozott miniszteri döntéssel, határozattal vagy a kulturális örökség védelméről szóló törvény vagy a magyar építészetről szóló törvény alapján miniszteri rendelettel védetté nyilvánított és ekként kulturális örökségi védelmet élvező műemléki érték vagy nyilvántartott régészeti lelőhely, vagy”
-
-(nyilvánítható.)
-
-(6) A világörökségről szóló 2011. évi LXXVII. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A világörökségi terület egyben a magyar építészetről szóló törvény szerinti településképi szempontból kiemelten meghatározó területnek is minősül.”
-
-#### 271. § [A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása]
-
-(1) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 14/A. § (1) bekezdésében az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
-
-(2) Hatályát veszti a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 27. § (1) bekezdésében a „területrendezési,” szövegrész.
-
-#### 272. § [Az államháztartásról szóló 2011. évi CXCV. törvény módosítása]
-
-Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 32. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
+#### 272. §
 
 #### 273. § [A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása]
 
@@ -5047,90 +4794,37 @@ Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdé
 
 (2)
 
-(3) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény
-
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
-- g) 13. § (9) bekezdés c) pontjában az „az épített környezet átalakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg
-
-lép.
+(3)
 
 (4)
 
 #### 274. § [A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása]
 
-(1) A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (31) bekezdésében az „Az épített környezet alakításáról és védelméről” szövegrész helyébe az „A magyar építészetről” szöveg lép.
+(1)
 
 (2)
 
-#### 275. § [A budapesti Istvánmező rehabilitációs programjáról, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójáról szóló 2012. évi LXXV. törvény módosítása]
+#### 275. §
 
-A budapesti Istvánmező rehabilitációs programjáról, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójáról szóló 2012. évi LXXV. törvény 4. § (1) bekezdésében az „Az épített környezet alakításáról és védelméről” szövegrész helyébe az „A magyar építészetről” szöveg lép.
+#### 276. §
 
-#### 276. § [Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény módosítása]
+#### 277. §
 
-Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 1. § (8) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 2. § 30. pontjában” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 16. § 21. pontjában” szöveg lép.
+#### 278. §
 
-#### 277. § [A fémkereskedelemről szóló 2013. évi CXL. törvény módosítása]
+#### 279. §
 
-A fémkereskedelemről szóló 2013. évi CXL. törvény 3. § (2) bekezdésében az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg lép.
+#### 280. §
 
-#### 278. § [A Normafa Park történelmi sportterületről szóló 2013. évi CXLVIII. törvény módosítása]
+#### 281. §
 
-A Normafa Park történelmi sportterületről szóló 2013. évi CXLVIII. törvény
+#### 282. §
 
-- a) 1. § (2) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.)” szövegrész helyébe az „a magyar építészetről szóló törvény” szöveg,
-- b) 3. § (3) bekezdésében az „az Étv. 43. § (1)” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 66. § (2)” szöveg és az „az Étv. 54. §” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény 174. §” szöveg
+#### 283. §
 
-lép.
+#### 284. §
 
-#### 279. § [A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosítása]
-
-A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény 7. § (4) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben” szövegrész helyébe az „a magyar építészetről szóló törvényben” szöveg lép.
-
-#### 280. § [A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény módosítása]
-
-A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény 3. § (4) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény” szövegrész helyébe az „a magyar építészetről szóló törvény” szöveg lép.
-
-#### 281. § [Az energiahatékonyságról szóló 2015. évi LVII. törvény módosítása]
-
-Az energiahatékonyságról szóló 2015. évi LVII. törvény 43. § (1) bekezdés nyitó szövegrészében az „Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 10.” szövegrész helyébe az „A magyar építészetről szóló 2023. évi C. törvény 16. § 42.” szöveg lép.
-
-#### 282. § [A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása]
-
-(1) A közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 2a. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„2a. állami közbeszerzési szaktanácsadó: az 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) alpontja és cb) alpontja szerinti szervezet által foglalkoztatott személy, aki járulékos közbeszerzési feladatot lát el az őt foglalkoztató ajánlatkérő számára;”
-
-(2) A közbeszerzésekről szóló 2015. évi CXLIII. törvény
-
-- a) 3. § 8. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- b) 111. § r) pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg
-
-lép.
-
-#### 283. § [A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása]
-
-A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény
-
-- a) 3. § 14. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg,
-- b) 3. § 29a. pontjában az „az épített környezet alakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg
-
-lép.
-
-#### 284. § [A településkép védelméről szóló 2016. évi LXXIV. törvény hatályon kívül helyezése]
-
-Hatályát veszti a településkép védelméről szóló 2016. évi LXXIV. törvény.
-
-#### 285. § [A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény módosítása]
-
-A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 22. § (1) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48/A. § (1) bekezdésében” szövegrész helyébe az „a magyar építészetről szóló 2023. évi C. törvény a 177. § (1) bekezdésében” szöveg lép.
+#### 285. §
 
 #### 286. § [A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény módosítása]
 
@@ -5323,13 +5017,9 @@ lép.
 - 59.
 - 60.
 
-#### 287. § [A Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvény módosítása]
+#### 287. §
 
-A Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvény 6. § (2) bekezdésében az „az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII.” szövegrész helyébe az „a magyar építészetről szóló” szöveg lép.
-
-#### 288. § [Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása]
-
-Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 6. §-a az „Az épített környezet alakításáról és védelméről” szövegrész helyett az „A magyar építészetről” szöveggel lép hatályba.
+#### 288. §
 
 ### 1. melléklet a 2023. évi C. törvényhez
 

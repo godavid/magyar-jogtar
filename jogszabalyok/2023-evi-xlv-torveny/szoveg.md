@@ -142,7 +142,7 @@ a körforgásos gazdasággal összefüggő törvénymódosításokról
 
 #### 15. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
 
-56. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 88. §-ában a hulladékról szóló 2012. évi CLXXXV. törvény 61. § (24) bekezdését megállapító rendelkezése a „(3) bekezdésben foglaltak esetén” szövegrész helyett a „(4) bekezdésben, és a 12. § (1) bekezdésben foglaltak megsértése esetén” szöveggel lép hatályba.
+#### 56. §
 
 #### 16. A hulladékgazdálkodással összefüggő egyes törvények módosításáról szóló 2022. évi LXXVI. törvény módosítása
 

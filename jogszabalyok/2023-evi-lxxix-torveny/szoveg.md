@@ -18,7 +18,7 @@ Magyarország Kormánya és Nagy-Britannia és Észak-Írország Egyesült Kirá
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a minősített adatok védelmének szakmai felügyeletéért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a minősített védelmi információk kölcsönös védelméről szóló, Londonban, 1998. szeptember 7-én aláírt Megállapodás megerősítéséről és kihirdetéséről szóló 1999. évi XIX. törvény.
+#### 6. §
 
 ### 1. melléklet a 2023. évi LXXIX. törvényhez
 
