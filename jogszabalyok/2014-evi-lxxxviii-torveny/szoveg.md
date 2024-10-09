@@ -1522,9 +1522,10 @@ az e szolgáltatások tekintetében képzett biztosítástechnikai tartalékokat
 
 (7) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
 
-- a) figyelemmel kíséri a közérdeklődésre számot tartó biztosító, viszontbiztosító belső ellenőrzési, kockázatkezelési rendszereinek hatékonyságát, valamint a pénzügyi beszámolás folyamatát és szükség esetén ajánlásokat fogalmaz meg;
-- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
-- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét, különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését.
+- a) figyelemmel kíséri a közérdeklődésre számot tartó biztosító, viszontbiztosító belső ellenőrzési, kockázatkezelési rendszereinek, a pénzügyi és a fenntarthatósági beszámolását befolyásoló belső ellenőrzésének hatékonyságát [beleértve az Szmt. 95/I. § (1) bekezdésében, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát is, anélkül, hogy korlátozná annak függetlenségét], valamint a pénzügyi beszámolás és a fenntarthatósági beszámolás folyamatát [beleértve az Szmt. 95/I. § (1) bekezdése, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát és a közérdeklősére számot tartó biztosító, viszontbiztosító által az Szmt. 95/D. § (1) bekezdés 3. pontja szerinti fenntarthatósági beszámolási standardoknak megfelelően közölt információk azonosítására szolgáló folyamatot] és szükség esetén ajánlásokat fogalmaz meg;
+- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, a fenntarthatósági jelentésre és az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet – különösen annak végrehajtását –, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
+- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására megválasztott könyvvizsgáló, illetve könyvvizsgáló cég függetlenségét is), különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését;
+- d) tájékoztatja a közérdeklődésre számot tartó biztosító, viszontbiztosító legfőbb szervét a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység eredményéről, bemutatja, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység hogyan járult hozzá a pénzügyi, illetve a fenntarthatósági beszámolás integritásához, és azt, hogy az auditbizottság milyen szerepet töltött be a beszámolás folyamatában.
 
 117. § (1) A nyilvánosan működő biztosító és viszontbiztosító részvénytársaság által létrehozott és működtetett auditbizottságnak a Ptk. 3:291. §-ában foglaltakon túl a 116. § (2) és (7) bekezdésében foglalt feltételeknek is meg kell felelnie.
 
@@ -4854,8 +4855,8 @@ formájában végezhet.
 
 (6) A többes ügynök köteles tevékenységének felelősségbiztosítására mindenkor legalább
 
-- a) biztosítási eseményenkénti 1 300 380 euró, és évente együttesen legalább 1 924 560 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
-- b) 1 924 560 euró vagyoni biztosítékkal
+- a) biztosítási eseményenkénti 1 564 610 euró, és évente együttesen legalább 2 315 610 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
+- b) 2 315 610 euró vagyoni biztosítékkal
 
 rendelkezni.
 
@@ -4984,8 +4985,8 @@ formájában végezhet.
 
 403. § (1) Az alkusz köteles tevékenységének felelősségbiztosítására mindenkor legalább
 
-- a) biztosítási eseményenkénti 1 300 380 euró, és évente együttesen legalább 1 924 560 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
-- b) 1 924 560 euró vagyoni biztosítékkal
+- a) biztosítási eseményenkénti 1 564 610 euró, és évente együttesen legalább 2 315 610 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
+- b) 2 315 610 euró vagyoni biztosítékkal
 
 rendelkezni.
 
@@ -5930,6 +5931,7 @@ való megfelelést szolgálja.
 - 1. az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet,
 - 2. az (EU) 2016/97 európai parlamenti és tanácsi irányelvnek a biztosítási és viszontbiztosítási közvetítők szakmai felelősségbiztosítására és pénzügyi teljesítőképességére vonatkozó, euróban megállapított alapösszegeket kiigazító szabályozástechnikai standardok tekintetében történő módosításáról szóló, 2019. május 13-i (EU) 2019/1935 felhatalmazáson alapuló bizottsági rendelet
 - 3. a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
+- 4. az (EU) 2016/97 európai parlamenti és tanácsi irányelvnek a biztosítás- és a viszontbiztosítás-közvetítők, valamint a kiegészítő biztosításközvetítői tevékenységet végző személyek szakmai felelősségbiztosítására és pénzügyi teljesítőképességére vonatkozó, euróban megállapított alapösszegeket kiigazító szabályozástechnikai standardok tekintetében történő módosításáról szóló, 2023. december 5-i (EU) 2024/896 felhatalmazáson alapuló bizottsági rendelet
 - 5. a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
