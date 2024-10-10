@@ -14,14 +14,7 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs cél
 
 #### 3. §
 
-4. § A Tpt. 62. § (3b) bekezdése helyébe a következő rendelkezés lép:
-
-„(3b) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
-
-- a) figyelemmel kíséri a közérdeklődésre számot tartó kibocsátó belső ellenőrzési, kockázatkezelési rendszereinek, a pénzügyi és a fenntarthatósági beszámolását befolyásoló belső ellenőrzésének hatékonyságát [beleértve az Szmt. 95/I. § (1) bekezdésében, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát is, anélkül, hogy korlátozná annak függetlenségét], valamint a pénzügyi beszámolás és a fenntarthatósági beszámolás folyamatát [beleértve az Szmt. 95/I. § (1) bekezdése, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát és a közérdeklődésre számot tartó kibocsátó által az Szmt. 95/D. § (1) bekezdés 3. pontja szerinti fenntarthatósági beszámolási standardoknak megfelelően közölt információk azonosítására szolgáló folyamatot] és szükség esetén ajánlásokat fogalmaz meg;
-- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, a fenntarthatósági jelentésre és az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet – különösen annak végrehajtását –, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
-- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására megválasztott könyvvizsgáló, illetve könyvvizsgáló cég függetlenségét is), különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését;
-- d) tájékoztatja a közérdeklődésre számot tartó kibocsátó legfőbb szervét a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység eredményéről, bemutatja, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység hogyan járult hozzá a pénzügyi, illetve a fenntarthatósági beszámolás integritásához, és azt, hogy az auditbizottság milyen szerepet töltött be a beszámolás folyamatában.”
+#### 4. §
 
 #### 5. §
 
@@ -61,14 +54,7 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs cél
 
 #### 19. §
 
-20. § A Bszt. 20/C. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
-
-- a) figyelemmel kíséri a közérdeklődésre számot tartó befektetési vállalkozás belső ellenőrzési, kockázatkezelési rendszereinek, a pénzügyi és a fenntarthatósági beszámolását befolyásoló belső ellenőrzésének hatékonyságát [beleértve az Szmt. 95/I. § (1) bekezdésében, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát is, anélkül, hogy korlátozná annak függetlenségét], valamint a pénzügyi beszámolás és a fenntarthatósági beszámolás folyamatát [beleértve az Szmt. 95/I. § (1) bekezdése, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát és a közérdeklődésre számot tartó befektetési vállalkozás által az Szmt. 95/D. § (1) bekezdés 3. pontja szerinti fenntarthatósági beszámolási standardoknak megfelelően közölt információk azonosítására szolgáló folyamatot] és szükség esetén ajánlásokat fogalmaz meg;
-- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, a fenntarthatósági jelentésre és az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet – különösen annak végrehajtását –, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
-- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására megválasztott könyvvizsgáló, illetve könyvvizsgáló cég függetlenségét is), különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését;
-- d) tájékoztatja a közérdeklődésre számot tartó befektetési vállalkozás legfőbb szervét a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység eredményéről, bemutatja, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység hogyan járult hozzá a pénzügyi, illetve a fenntarthatósági beszámolás integritásához, és azt, hogy az auditbizottság milyen szerepet töltött be a beszámolás folyamatában.”
+#### 20. §
 
 #### 21. §
 
@@ -147,14 +133,7 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs cél
 
 #### 47. §
 
-48. § A Hpt. 157. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
-
-- a) figyelemmel kíséri a közérdeklődésre számot tartó hitelintézet belső ellenőrzési, kockázatkezelési rendszereinek, a pénzügyi és a fenntarthatósági beszámolását befolyásoló belső ellenőrzésének hatékonyságát [beleértve az Szmt. 95/I. § (1) bekezdésében, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát is, anélkül, hogy korlátozná annak függetlenségét], valamint a pénzügyi beszámolás és a fenntarthatósági beszámolás folyamatát [beleértve az Szmt. 95/I. § (1) bekezdése, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát és a közérdeklődésre számot tartó hitelintézet által az Szmt. 95/D. § (1) bekezdés 3. pontja szerinti fenntarthatósági beszámolási standardoknak megfelelően közölt információk azonosítására szolgáló folyamatot] és szükség esetén ajánlásokat fogalmaz meg;
-- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, a fenntarthatósági jelentésre és az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet – különösen annak végrehajtását –, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
-- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására megválasztott könyvvizsgáló, illetve könyvvizsgáló cég függetlenségét is), különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését;
-- d) tájékoztatja a közérdeklődésre számot tartó hitelintézet legfőbb szervét a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység eredményéről, bemutatja, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység hogyan járult hozzá a pénzügyi, illetve a fenntarthatósági beszámolás integritásához, és azt, hogy az auditbizottság milyen szerepet töltött be a beszámolás folyamatában.”
+#### 48. §
 
 #### 49. §
 
@@ -201,34 +180,13 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs cél
 
 #### 65. §
 
-66. § A Bit. 116. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az auditbizottság – a Ptk. 3:291. § (1) bekezdésében meghatározott feladatokon túl –
-
-- a) figyelemmel kíséri a közérdeklődésre számot tartó biztosító, viszontbiztosító belső ellenőrzési, kockázatkezelési rendszereinek, a pénzügyi és a fenntarthatósági beszámolását befolyásoló belső ellenőrzésének hatékonyságát [beleértve az Szmt. 95/I. § (1) bekezdésében, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát is, anélkül, hogy korlátozná annak függetlenségét], valamint a pénzügyi beszámolás és a fenntarthatósági beszámolás folyamatát [beleértve az Szmt. 95/I. § (1) bekezdése, valamint az Szmt. 134/J. § (1) bekezdése szerinti elektronikus beszámolás folyamatát és a közérdeklősére számot tartó biztosító, viszontbiztosító által az Szmt. 95/D. § (1) bekezdés 3. pontja szerinti fenntarthatósági beszámolási standardoknak megfelelően közölt információk azonosítására szolgáló folyamatot] és szükség esetén ajánlásokat fogalmaz meg;
-- b) figyelemmel kíséri az éves és összevont (konszolidált) éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát, a fenntarthatósági jelentésre és az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet – különösen annak végrehajtását –, figyelembe véve a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság által lefolytatott, a Kkt. szerinti minőségellenőrzési eljárás során tett megállapításokat és következtetéseket;
-- c) felülvizsgálja és figyelemmel kíséri a jogszabály szerint engedélyezett könyvvizsgáló vagy a könyvvizsgáló cég függetlenségét (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására megválasztott könyvvizsgáló, illetve könyvvizsgáló cég függetlenségét is), különös tekintettel a közérdeklődésre számot tartó gazdálkodó egységek jogszabályban előírt könyvvizsgálatára vonatkozó egyedi követelményekről és a 2005/909/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 537/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében foglaltak teljesülését;
-- d) tájékoztatja a közérdeklődésre számot tartó biztosító, viszontbiztosító legfőbb szervét a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység eredményéről, bemutatja, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység hogyan járult hozzá a pénzügyi, illetve a fenntarthatósági beszámolás integritásához, és azt, hogy az auditbizottság milyen szerepet töltött be a beszámolás folyamatában.”
+#### 66. §
 
 #### 67. §
 
-68. § A Bit. 391. § (6) bekezdése helyébe a következő rendelkezés lép:
+#### 68. §
 
-„(6) A többes ügynök köteles tevékenységének felelősségbiztosítására mindenkor legalább
-
-- a) biztosítási eseményenkénti 1 564 610 euró, és évente együttesen legalább 2 315 610 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
-- b) 2 315 610 euró vagyoni biztosítékkal
-
-rendelkezni.”
-
-69. § A Bit. 403. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az alkusz köteles tevékenységének felelősségbiztosítására mindenkor legalább
-
-- a) biztosítási eseményenkénti 1 564 610 euró, és évente együttesen legalább 2 315 610 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
-- b) 2 315 610 euró vagyoni biztosítékkal
-
-rendelkezni.”
+#### 69. §
 
 #### 70. §
 
@@ -236,15 +194,7 @@ rendelkezni.”
 
 (2)
 
-72. § (1) A Bit. 453/A. §-a a következő 4. ponttal egészül ki:
-
-(Ez a törvény)
-
-„4. az (EU) 2016/97 európai parlamenti és tanácsi irányelvnek a biztosítás- és a viszontbiztosítás-közvetítők, valamint a kiegészítő biztosításközvetítői tevékenységet végző személyek szakmai felelősségbiztosítására és pénzügyi teljesítőképességére vonatkozó, euróban megállapított alapösszegeket kiigazító szabályozástechnikai standardok tekintetében történő módosításáról szóló, 2023. december 5-i (EU) 2024/896 felhatalmazáson alapuló bizottsági rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-(2)
+#### 72. §
 
 #### 73. §
 
