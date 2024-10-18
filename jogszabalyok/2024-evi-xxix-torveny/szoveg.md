@@ -170,7 +170,11 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 38. § (1)
 
-(2)
+(2) Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 17. § (1a) bekezdése a következő i) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„i) rendeletben jelölje ki a 15/B. § (4) bekezdése szerinti hatóságot.”
 
 #### 17. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
@@ -496,7 +500,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 159. §
 
-#### 160. §
+160. § Nem lép hatályba a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény 34. §-a.
 
 #### 58. A gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvény módosítása
 

@@ -328,37 +328,73 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 
 (5) Az SZTFH elnökének rendeletében meghatározott érintett szervezetek kötelesek az európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított, az SZTFH elnökének rendeletében meghatározott IKT-terméket, IKT-szolgáltatást vagy IKT-folyamatot használni.
 
-#### 21. §
+21. § (1) A legfelső szintű domain alatt bejegyzett domainnevekről a legfelső szintű domainnév-nyilvántartó központi nyilvántartást vezet.
+
+(2) A központi domainnév-nyilvántartás tartalmazza:
+
+- a) az érintett domainnevet,
+- b) a domainnév-regisztráció dátumát,
+- c) a domainnév-használó nevét, kapcsolattartásra alkalmas elektronikus levelezési címét, telefonszámát, és
+- d) a domainnevet kezelő adminisztratív kapcsolattartó nevét, elektronikus levelezési címét és telefonszámát, ha azok eltérnek a c) pont szerinti adatoktól.
+
+(3) A (2) bekezdés szerinti adatok kezelésének célja a domainnevet kezelő adminisztratív kapcsolattartó, valamint a domainnév-használó természetes vagy jogi személy azonosításához szükséges, valamint kapcsolattartási adatainak naprakészen tartása.
+
+(4) A központi domainnév-nyilvántartás adatai hitelességének ellenőrzése és integritásának biztosítása érdekében a legfelső szintű domainnév-nyilvántartó köteles az ellenőrzésre vonatkozó – az SZTFH által előzetesen jóváhagyott – eljárásrendet nyilvánosan közzétenni.
+
+(5) A legfelső szintű domainnév-nyilvántartó a központi domainnév-nyilvántartásban szereplő adatokat – a személyes adatok kivételével – nyilvánosan hozzáférhetővé teszi.
+
+(6) A legfelső szintű domainnév-nyilvántartó a központi domainnév-nyilvántartásban szereplő adatokhoz az ügyészség, a nemzetbiztonsági szolgálatok, a nyomozó hatóságok és a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szervezetek részére közvetlen hozzáférést biztosít.
 
 #### 9. Kiberbiztonsági felügyeleti eszközök
 
 22. § (1) A 19. §-ban és a 20. §-ban foglalt követelmények tekintetében az érintett szervezetek, valamint azok elektronikus információs rendszerei kiberbiztonsági felügyeletét az SZTFH látja el.
 
-(2)
+(2) Az SZTFH látja el az (1) bekezdés szerinti kiberbiztonsági felügyeletet, amelynek részletes szabályait az SZTFH elnökének rendelete határozza meg.
 
-(3)
+(3) Az érintett szervezet e fejezetben meghatározott kötelezettségeinek teljesítését az SZTFH ellenőrzi.
 
-(4)
+(4) Az SZTFH kiberbiztonsági felügyeleti jogkörében az érintett szervezet tekintetében
 
-(5)
+- a) hatósági ellenőrzést végezhet,
+- b) jelentős biztonsági esemény bekövetkezése vagy a biztonsági követelményeknek való nem-megfelelés gyanúja esetén rendkívüli ellenőrzést hajthat végre vagy rendkívüli auditot rendelhet el.
+
+(5) Az SZTFH a 19. §-ban és a 20. §-ban foglalt követelmények betartásának ellenőrzését
+
+- a) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény alapján mikro- és kisvállalkozásnak minősülő
+  - aa) elektronikus hírközlési szolgáltató,
+  - ab) bizalmi szolgáltató,
+  - ac) DNS-szolgáltatást nyújtó szolgáltató,
+  - ad) legfelső szintű domainnév-nyilvántartó,
+- b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény alapján mikro- és kisvállalkozásnak nem minősülő, 1. melléklet szerinti szervezet, és
+- c) domainnév-regisztrációt végző szolgáltató
+
+esetében kockázatértékelésen alapuló – az SZTFH elnökének rendelete szerint elkészített – éves ellenőrzési terv alapján végzi.
 
 (6) Az SZTFH eljárása során a sommás eljárás alkalmazása kizárt.
 
-(7)
+(7) Az SZTFH által lefolytatott hatósági ellenőrzés ügyintézési határideje 120 nap.
 
-(8)
+(8) Az SZTFH a cél megjelölésével jogosult az érintett szervezettől bekérni és megismerni:
 
-(9)
+- a) a biztonsági osztályba sorolás, valamint a biztonsági intézkedések megfelelőségét alátámasztó dokumentumokat,
+- b) a belső informatikai biztonsági vizsgálat végrehajtásáról készült dokumentumot, és
+- c) egyéb, a jogszabályi megfelelést alátámasztó adatot, információt, dokumentumot a felügyeleti feladatok elvégzése céljából.
+
+(9) A hatósági ellenőrzés lefolytatásának részletes szabályait az SZTFH elnökének rendelete határozza meg.
 
 23. § (1) Az érintett szervezet az e törvény szerinti kiberbiztonsági követelményeknek való megfelelés bizonyítására köteles kétévente a tevékenység végzésére jogosult, független auditor (a továbbiakban: auditor) által kiberbiztonsági auditot végeztetni.
 
-(2)
+(2) Az auditor az audit végrehajtása során ellenőrzi a biztonsági osztályba sorolás szerinti védelmi intézkedések megfelelőségét.
 
-(3)
+(3) A (2) bekezdés szerinti megfelelőség ellenőrzésére az auditor jogosult a tevékenység nyomon követésére alkalmas módon a következő vizsgálatokat elvégezni:
+
+- a) belső informatikai biztonsági és távoli sérülékenységvizsgálatot, valamint „jelentős” vagy „magas” biztonsági osztály esetén behatolásvizsgálatot,
+- b) kriptográfiai megfelelőségvizsgálatot, valamint
+- c) „jelentős” vagy „magas” biztonsági osztály esetén a kritikus biztonsági funkciókat végző egyedileg fejlesztett szoftverek biztonsági forráskódvizsgálatát.
 
 (4) Kiberbiztonsági auditot az az auditor végezhet, amely a feladat ellátásához szükséges szakértelemmel és infrastrukturális feltételekkel rendelkezik, valamint az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetnek minősül. Az auditorral szemben támasztott követelményeket az SZTFH elnöke rendeletben határozza meg.
 
-(5)
+(5) A kiberbiztonsági audit lefolytatásának rendjét, és az audit – általános forgalmi adó nélkül számított – legmagasabb díját az SZTFH elnöke rendeletben határozza meg.
 
 (6) Az audit végrehajtására jogosult gazdálkodó szervezetekről az SZTFH nyilvántartást vezet az SZTFH elnökének rendeletében foglaltak szerint.
 
@@ -369,21 +405,46 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 - c) az auditor által igénybe vett közreműködő adatait, valamint kijelölt kapcsolattartója azonosításához szükséges természetes személyazonosító adatait, telefonszámát, elektronikus levelezési címét, és
 - d) az audit eredményét tartalmazó dokumentumot.
 
-(8)
+(8) Az (1) bekezdés szerinti audit eredményét az auditor az SZTFH és az érintett szervezet részére az audit befejezését követően haladéktalanul megküldi.
 
-(9)
+(9) Az auditor írásban haladéktalanul tájékoztatja az SZTFH-t, ha az érintett szervezet elektronikus információs rendszerével kapcsolatosan olyan tényt állapít meg, amely
 
-(10)
+- a) a szervezet folyamatos működését súlyosan veszélyezteti, vagy
+- b) bűncselekmény elkövetésére, jogszabály megsértésére, az érintett szervezet belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
+
+(10) Az auditor az ellenőrzött szervezet kezelésében lévő, az audit lefolytatásához szükséges, az ellenőrzött szervezettől megkapott dokumentumokat – ideértve a személyes adatokat és az üzleti titoknak minősülő adatokat is – az audit során ellenőrzött követelmények teljesülésének vizsgálata céljából, az audit lefolytatásához szükséges mértékben, annak befejezéséig kezeli, azokat harmadik személy részére nem továbbíthatja.
 
 (11) Az auditor köteles szabályzatban rögzíteni azokat a munkaköröket, amelyeket betöltő személyek az audit során az üzleti titkokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az auditban részt vevő személyeket az audit során tudomásukra jutott személyes adatok, valamint üzleti titok tekintetében titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig, személyes adatok tekintetében pedig időkorlát nélkül fennmarad.
 
 (12) Az e fejezet szerinti kiberbiztonsági audit nem érinti a más jogszabály által előírt tanúsítási kötelezettséget.
 
-(13)
+(13) Az auditor e fejezetben meghatározott kötelezettségeinek teljesítését az SZTFH ellenőrzi a 22. § (6) és (7) bekezdése alkalmazásával.
 
-#### 24. §
+24. § (1) Ha az érintett szervezet a jogszabályokban foglalt kiberbiztonsági követelményeket vagy az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, az SZTFH jogosult
 
-#### 25. §
+- a) figyelmeztetni az érintett szervezetet a jogszabályokban foglalt biztonsági követelmények vagy az ehhez kapcsolódó eljárási szabályok teljesítésére,
+- b) határidő tűzésével elrendelni az ellenőrzés vagy az audit során feltárt vagy tudomására jutott biztonsági hiányosságok elhárítását vagy a megfeleléshez szükséges intézkedések meghozatalát, vagy
+- c) a szervezet tevékenységét engedélyező vagy felügyelő hatóság véleményének figyelembevételével eltiltani az érintett szervezetet a biztonsági követelmények teljesülését közvetlenül veszélyeztető tevékenységtől.
+
+(2) Ha az (1) bekezdés szerinti intézkedések alkalmazása ellenére az érintett szervezet a jogszabályokban foglalt biztonsági követelményeket vagy az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, a biztonsági hiányosságokat nem hárítja el, a megfeleléshez szükséges intézkedések meghozatalát elmulasztja, vagy a tevékenységet nem hagyja abba, az SZTFH az eset összes körülményének mérlegelésével kormányrendeletben meghatározottak szerint bírságot szabhat ki, amely további nemteljesítés esetén megismételhető.
+
+(3) A (2) bekezdés szerinti esetben a bírság kiszabásáról és a kiszabást megalapozó tényekről az SZTFH tájékoztatja a szervezet tevékenységét engedélyező vagy felügyelő hatóságot.
+
+(4) Az SZTFH elrendelheti az érintett szervezet által nyújtott szolgáltatásokat igénybe vevők tájékoztatását az azokat potenciális érintő fenyegetésről vagy az ilyen fenyegetés elhárításához szükséges megelőző intézkedések várható hatásairól.
+
+(5) Ha az auditor a jogszabályokban foglalt kiberbiztonsági követelményeket vagy az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, az SZTFH jogosult
+
+- a) figyelmeztetni a jogszabályokban foglalt követelmények vagy az ehhez kapcsolódó eljárási szabályok teljesítésére,
+- b) határidő tűzésével elrendelni az azonosított hiányosságok elhárítását vagy a megfeleléshez szükséges intézkedések meghozatalát, vagy
+- c) az auditori tevékenységtől ideiglenesen eltiltani.
+
+(6) Ha az (5) bekezdés szerinti intézkedések alkalmazása ellenére az auditor a jogszabályokban foglalt követelményeket vagy az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, az azonosított hiányosságokat nem hárítja el, a megfeleléshez szükséges intézkedések meghozatalát elmulasztja, vagy a tevékenységet nem hagyja abba, az SZTFH az eset összes körülményének mérlegelésével kormányrendeletben meghatározottak szerint bírságot szabhat ki, amely további nemteljesítés esetén megismételhető.
+
+25. § (1) Az SZTFH kiberbiztonsági felügyeleti tevékenységéért – a költségvetési szervek kivételével – az érintett szervezet – ha az érintett szervezet a Polgári Törvénykönyvről szóló törvény szerinti elismert vállalatcsoport (a továbbiakban: elismert vállalatcsoport) ellenőrzött tagja, helyette az uralkodó tag – az SZTFH elnökének rendeletében a (2) bekezdésben foglaltak alapján meghatározott mértékű kiberbiztonsági felügyeleti díj fizetésére köteles.
+
+(2) Az éves kiberbiztonsági felügyeleti díj mértéke az érintett szervezet előző üzleti évi nettó árbevételének – árbevétel hiányában a tárgyévi árbevétel egész évre vetített időarányos részének – legfeljebb 0,015 százaléka, de legfeljebb 10 millió forint. Az ugyanazon elismert vállalatcsoportban vagy az ugyanazon, a Polgári Törvénykönyvről szóló törvény szerinti tényleges vállalatcsoportban, vagy a számvitelről szóló törvény szerinti anyavállalatot, leányvállalatokat és a konszolidálásba bevont közös vezetésű vállalkozásokat tartalmazó, egy konszolidációs körbe tartozó vállalkozáscsoportban részt vevő érintett szervezetek tekintetében a fizetendő éves kiberbiztonsági felügyeleti díj együttes mértéke nem haladhatja meg az 50 millió forintot. A tényleges vállalatcsoportként vagy az egy konszolidációs körbe tartozó vállalkozáscsoportként való működés tényét az érintett szervezet az SZTFH elnökének (3) bekezdés szerinti rendeletében foglaltak szerint igazolja.
+
+(3) A kiberbiztonsági felügyeleti díjat az (1) bekezdés szerinti kötelezett az SZTFH elnökének rendeletében meghatározott módon és időpontban köteles megfizetni az SZTFH részére a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett. A felügyeleti díj megfizetése a nyilatkozattételi kötelezettséget nem pótolja.
 
 26. § (1) Az SZTFH az SZTFH elnökének rendeletében foglaltak szerint az érintett szervezetekről nyilvántartást vezet, amely tartalmazza:
 
@@ -409,9 +470,20 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 
 (8) Ha az (1) bekezdés szerinti adatok változását az érintett szervezet bejelenti, akkor az eredeti adatokat az SZTFH az adat változása bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 
-#### 10.
+#### 10. Kiberbiztonsági események jelentése
 
-#### 27. §
+27. § (1) Ha az elektronikus információs rendszerben olyan biztonsági esemény történt vagy annak közvetlen bekövetkezése fenyeget, amely
+
+- a) az érintett szervezet működésében vagy az általa végzett szolgáltatásnyújtásban súlyos zavart vagy vagyoni kárt okoz vagy
+- b) jelentős vagyoni vagy nem vagyoni kárt okoz más természetes vagy jogi személyek számára
+
+az érintett szervezet köteles haladéktalanul az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti eseménykezelő központ részére a Kormány rendeletében részletezettek szerint bejelentést tenni.
+
+(2) A hatáskörrel rendelkező eseménykezelő központ a biztonsági esemény kezelése és műszaki vizsgálata során a Kormány rendeletében foglaltak szerint jár el.
+
+(3) Ha a szervezet a biztonsági események kezeléséhez közreműködőt vesz igénybe, a közreműködőnek az SZTFH által – az SZTFH elnökének rendeletében foglaltak szerint – kiállított tanúsítvánnyal kell rendelkeznie a (2) bekezdés szerinti, a biztonsági események kezelésére vonatkozó szabályoknak történő megfelelésről, valamint a biztonsági események kezeléséhez szükséges, az SZTFH elnökének rendeletében meghatározott feltételek teljesüléséről.
+
+(4) Az (1) bekezdésben foglaltak nem érintik a más törvény alapján fennálló jelentési kötelezettségeket.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -423,9 +495,9 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 - b) a 4. § (1) bekezdés b) pontja szerinti tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat,
 - c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és tevékenységére vonatkozó részletes szabályokat,
 - d) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a nemzeti kiberbiztonsági tanúsítási rendszerekre figyelemmel a tanúsítási rendszereket,
-- e)
-- f)
-- g)
+- e) a biztonsági események kezelésére, műszaki vizsgálatára és az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti eseménykezelő központ részére történő bejelentésre vonatkozó részletes szabályokat,
+- f) az SZTFH és az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti hatóságok közötti együttműködés és adatszolgáltatás rendjére vonatkozó részletes szabályokat, valamint
+- g) az SZTFH által az érintett szervezettel és az auditorral szemben kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a 4. § (1) bekezdés b) pontja szerinti tanúsító hatóságot.
 
@@ -435,12 +507,12 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 - b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségi önértékelésre, a tanúsítási eljárásra, a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
 - c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a nemzeti kiberbiztonsági tanúsítási rendszereket,
 - d) a 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket,
-- e)
+- e) a kiberbiztonsági felügyelet és feladatellátás, továbbá a hatósági ellenőrzés lefolytatásának és az éves ellenőrzési terv elkészítésének részletes szabályait,
 - f) az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, valamint a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat,
-- g)
+- g) a biztonsági eseménykezelésben részt vevő közreműködő esetében a biztonsági események kezeléséhez szükséges feltételeket, valamint a biztonsági eseménykezelésben részt vevő közreműködő biztonsági események kezelésére vonatkozó szabályoknak és a biztonsági események kezeléséhez szükséges feltételeknek történő megfelelése tanúsítására vonatkozó részletes szabályokat,
 - h) az auditorok nyilvántartásba vételi eljárásának rendjét, és az auditorral szemben támasztott követelményeket,
-- i)
-- j)
+- i) a kiberbiztonsági audit lefolytatásának rendjét, valamint a kiberbiztonsági audit – általános forgalmi adó nélkül számított – legmagasabb díját, valamint
+- j) a kiberbiztonsági felügyeleti díj mértékét, megfizetésének módját és időpontját.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben meghatározza
 
@@ -469,7 +541,7 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 
 (2) Az az érintett szervezet, amely 2024. január 1-je előtt megkezdte működését, a 20. § (3) bekezdése szerinti, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletében meghatározott konkrét védelmi intézkedéseket 2024. október 18-tól alkalmazza.
 
-(3)
+(3) Az SZTFH a 22. § (5) bekezdése szerinti éves ellenőrzési tervet első alkalommal 2025. január 1. napjáig készíti el.
 
 (4) Az az érintett szervezet, amely 2024. október 18-a előtt megkezdte működését, a 26. § (3) bekezdés a) pontja szerinti kötelezettséget legkésőbb 2024. december 31-ig köteles teljesíteni.
 
@@ -487,21 +559,39 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 
 #### 16. Módosító rendelkezések
 
-#### 33. §
+33. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 15/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A Kormány által rendeletben kijelölt hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.”
 
 #### 34. §
 
-#### 35. §
+35. § Hatályát veszti az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény
 
-#### 36. §
+- a) 2. § 3. pont,
+- b) „A bejelentés-köteles szolgáltatásokra vonatkozó különös szabályok” alcíme,
+- c) 17. § (1a) bekezdés a)–f) pontja,
+- d) 18. § (1) bekezdés e) pontja.
 
-#### 37. §
+36. § Hatályát veszti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény
+
+- a) 1. § b)–d) pontja,
+- b) 2/A. alcíme,
+- c) 14. § j), l) és m) pontja,
+- d) 15/A. §-a.
+
+37. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 19. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A Kormány)
+
+„a) a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvény szerinti érintett szervezet elektronikus információs rendszerét érintő,”
+
+(biztonsági események és fenyegetések kezelése érdekében eseménykezelő központot működtet a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítása alatt.)
 
 38. § Hatályát veszti az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény
 
-- a)
+- a) 1. § (1) bekezdés 6a. és 7a. pontja,
 - b)
-- c)
+- c) 2. § (2) bekezdés d) pontja,
 - d)
 - e)
 - f)
@@ -525,13 +615,19 @@ bizalmasságát, sértetlenségét és rendelkezésre állását.
 
 #### 45. §
 
-#### 46. §
+46. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 6/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Hatóság a bányafelügyeleti, a szerencsejáték-felügyeleti, a dohánytermék-kiskereskedelem felügyeletével kapcsolatos, valamint a kiberbiztonsági tanúsítással és a kiberbiztonsági felügyelettel kapcsolatos hatósági feladatokat ellátó személy részére e minősége igazolására szolgálati igazolványt (a továbbiakban: igazolvány) állít ki.”
 
 #### 47. §
 
 #### 48. §
 
-#### 49. §
+49. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § q) pontja helyébe a következő rendelkezés lép:
+
+(A Hatóság elnöke)
+
+„q) megállapítja – a Kibertan.tv. 4. § (1) bekezdés b) pontja szerinti tanúsító hatósági tevékenység kivételével – a Kibertan.tv. szerinti tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait és a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat, – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat, továbbá meghatározza a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a nemzeti kiberbiztonsági tanúsítási rendszereket, a Kibertan.tv. 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket, a kiberbiztonsági felügyelet és feladatellátás, továbbá a hatósági ellenőrzés lefolytatásának és az éves ellenőrzési terv elkészítésének részletes szabályait, az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, a biztonsági eseménykezelésben részt vevő közreműködő esetében a biztonsági események kezeléséhez szükséges feltételeket, a biztonsági eseménykezelésben részt vevő közreműködő biztonsági események kezelésére vonatkozó szabályoknak és a biztonsági események kezeléséhez szükséges feltételeknek történő megfelelése tanúsítására vonatkozó részletes szabályokat, az auditorok nyilvántartásba vételi eljárásának rendjét, az auditorral szemben támasztott követelményeket, a kiberbiztonsági audit lefolytatásának rendjét, valamint a kiberbiztonsági audit – általános forgalmi adó nélkül számított – legmagasabb díját, a kiberbiztonsági felügyeleti díj mértékét, megfizetésének módját és időpontját,”
 
 #### 50. §
 
