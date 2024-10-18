@@ -9,13 +9,9 @@ Az Országgyűlés az élet és az anyagi javak védelmének, az alapvető szolg
 1. § E törvény alkalmazásában
 
 - a) ágazati kritérium: azok a szempontok, az azokhoz tartozó küszöbértékek, műszaki vagy funkcionális tulajdonságok, amelyek egy eszköz, létesítmény rendszerelemének megzavarása vagy megsemmisítése (a továbbiakban együtt: kiesés) által kiváltott hatásra vonatkoznak, és amelyek teljesülése esetén az eszköz, létesítmény, rendszer vagy azok része létfontosságú rendszerelemmé jelölhető ki azzal szoros összefüggésben, hogy mely ágazatba tartozik,
-- b) alapvető szolgáltatás: a kritikus társadalmi vagy gazdasági tevékenységek fenntartásához szükséges, elektronikus információs rendszertől függő, az alapvető szolgáltatások jegyzékében feltüntetett szolgáltatás,
-- c) alapvető szolgáltatások jegyzéke: az alapvető szolgáltatások listája, amely az érintett központi államigazgatási szervek bevonásával kerül összeállításra és kormányrendeletben meghatározásra,
-- d) alapvető szolgáltatást nyújtó szereplő: az a szervezet vagy gazdasági szereplő, amely
-  - da) alapvető szolgáltatást nyújt,
-  - db) az általa nyújtott alapvető szolgáltatás elektronikus információs rendszerektől függ,
-  - dc) az általa nyújtott alapvető szolgáltatást érintő biztonsági esemény – kormányrendeletben meghatározott – jelentős zavart okozna szolgáltatás nyújtásában és
-  - dd) az erre irányuló eljárásban alapvető szolgáltatást nyújtó szereplőként került azonosításra,
+- b)
+- c)
+- d)
 - e) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
 - f) európai létfontosságú rendszerelem: e törvény alapján nemzeti létfontosságú rendszerelemmé kijelölt olyan létfontosságú rendszerelem, amelynek kiesése jelentős hatással lenne – az ágazatokon átnyúló kölcsönös függőségből következő hatásokat is ideértve – legalább két EGT-államra,
 - g) helyszíni ellenőrzést lefolytató szerv: az ágazati kijelölő hatóság, a szakhatóság, a kijelölési eljárásban részt vevő, véleménynyilvánító szerv, és jogszabály alapján helyszíni ellenőrzés lefolytatására jogosult szerv,
@@ -83,48 +79,11 @@ dönthet.
 
 (12) A honvédelmi rendszerek és létesítmények ágazati kijelölő hatósága részére a (3) bekezdés b) pontja szerinti ügyindító javaslatot a honvédelmi ágazati javaslattevő hatóság adja.
 
-#### 2/A. Az alapvető szolgáltatásokat nyújtó szereplők kijelölése és nyilvántartása
+#### 2/A.
 
-2/A. § (1) Az ágazati kijelölő hatóság a 2. § szerinti eljárás során jelöli ki az alapvető szolgáltatást nyújtó szereplőket.
+#### 2/A. §
 
-(2) A kijelölt nemzeti létfontosságú rendszerelem üzemeltetője alapvető szolgáltatásokat nyújtó szereplőnek minősül, ha
-
-- a) az alapvető szolgáltatások jegyzékében szereplő szolgáltatást nyújt,
-- b) az általa nyújtott szolgáltatás nyújtása elektronikus információs rendszerektől függ, és
-- c) az általa nyújtott szolgáltatást érintő biztonsági esemény a kormányrendeletben meghatározott jelentős zavart okozna az általa nyújtott szolgáltatás biztosításában.
-
-(3) Az ágazati kijelölő hatóság a nemzeti létfontosságú rendszerelemmé kijelölő határozatban rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.
-
-(3a) A Kormány meghatározza a kritikus társadalmi, illetve gazdasági tevékenységek fenntartásához szükséges alapvető szolgáltatások jegyzékét.
-
-(4) A nyilvántartó hatóság vezeti az alapvető szolgáltatásokat nyújtó szereplők jegyzékét.
-
-(5) A nyilvántartó hatóság törli az alapvető szolgáltatásokat nyújtó szereplők jegyzékéből az üzemeltetőt, ha az ágazati kijelölő hatóság dönt a nemzeti létfontosságú rendszerelemmé kijelölés visszavonásáról.
-
-(6) A nyilvántartó hatóság kétévente, az Európai Bizottságnak történő jelentést megelőzően felülvizsgálja és szükség szerint pontosítja az alapvető szolgáltatásokat nyújtó szereplők jegyzékét.
-
-2/B. § (1) Azon rendszerek, rendszerelemek üzemeltetői esetében, amelyek nem kerültek a 2. § szerinti eljárásban nemzeti létfontosságú rendszerelemként kijelölésre, azonban megfelelnek a 2/A. § (2) bekezdésében meghatározott, az alapvető szolgáltatást nyújtó szereplőként történő azonosításra irányadó kritériumoknak, az azonosítási eljárást kormányrendeletben kijelölt hatóság folytatja le.
-
-(2) Az (1) bekezdés szerinti hatóság az alapvető szolgáltatást nyújtó szereplőként való azonosítás során hivatalból jár el.
-
-(3) Az (1) bekezdés szerinti hatóság határozatban rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe és tájékoztatja a jegyzéket vezető hatóságot. Az (1) bekezdés szerinti hatóság az alapvető szolgáltatást nyújtó szereplők jegyzékéből történő törlésről
-
-- a) hivatalból, vagy
-- b) az alapvető szolgáltatásokat nyújtó szereplő kérelmére
-
-dönthet.
-
-(4) Az azonosítási eljárás lefolytatása érdekében az (1) bekezdés szerinti hatóság – személyes adatok kivételével – jogosult
-
-- a) az alapvető szolgáltatások jegyzékében meghatározott szolgáltatást nyújtó szolgáltatótól, gazdálkodó szervezettől,
-- b) az a) pont szerinti szolgáltató felett hatósági, felügyeleti vagy ellenőrzési jogkört gyakorló szervezettől,
-- c) közhiteles nyilvántartásokból
-
-adatszolgáltatást kérni.
-
-(5) Amennyiben az alapvető szolgáltatást nyújtó szereplőként azonosított szervezet az azonosítással nem ért egyet, úgy bizonyítja, hogy nem felel meg az alapvető szolgáltatást nyújtó szereplőként történő azonosításra vonatkozó kritériumoknak.
-
-(6) A Kormány ágazatonként rendeletben meghatározza az adott szolgáltatásra támaszkodó felhasználók száma vagy az alapvető szolgáltatásokat nyújtó konkrét gazdasági szereplő jelentősége alapján történő releváns ellátási szint meghatározásához a küszöbértékeket.
+#### 2/B. §
 
 #### 3. Az európai létfontosságú rendszerelemek kijelölése
 
@@ -374,10 +333,10 @@ meghatározható.
 - g) állapítsa meg a biztonsági összekötő személy képesítési követelményeit,
 - h) állapítsa meg az üzemeltetői biztonsági terv lehetséges ágazati tartalmi és formai követelményeit,
 - i) állapítsa meg a hálózatbiztonsági intézkedések megtételével kapcsolatos szabályokat,
-- j) határozza meg a kritikus társadalmi, illetve gazdasági tevékenységek fenntartásához szükséges alapvető szolgáltatások jegyzékét,
+- j)
 - k) állapítsa meg a rendkívüli eseményekre vonatkozó részletes ágazati szabályokat,
-- l) jelölje ki a 2/B. § szerinti azonosítási eljárást lefolytató és az információbiztonsági hatósági feladatokat ellátó hatóságot és határozza meg az azonosítási eljárásra, ellenőrzésre vonatkozó különös szabályokat, valamint állapítsa meg az azonosítás visszavonására vonatkozó eljárási szabályokat,
-- m) állapítsa meg ágazatonként a 2/B. § (6) bekezdése szerinti küszöbértékeket és a 2/A. § szerinti jelentős zavar mértékét,
+- l)
+- m)
 - n) állapítsa meg az IHR működésének a részletszabályait.
 
 14/A. § Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a biztonsági összekötő személy rendszeres szakmai képzésére, továbbképzésére vonatkozó szabályokat.
@@ -388,11 +347,7 @@ meghatározható.
 
 (3) A 3. melléklet 2014. január 1-jén lép hatályba.
 
-15/A. § (1) Az üzemeltető a belügyi feladatokat érintő és más kapcsolódó törvények módosításáról szóló 2017. évi CXXXIV. törvény (a továbbiakban: Tv1.) hatálybalépésekor már kijelölt nemzeti létfontosságú rendszereleme tekintetében a Tv1. hatálybalépését követő hatvan napon belül kiegészítést nyújt be az ágazati kijelölő hatóságnak az azonosítási jelentéséhez, amelyben nyilatkozik a 2/A. § (2) bekezdés b) és c) pontja szerinti kritériumoknak történő megfelelésről.
-
-(2)
-
-(3) Az ágazati kijelölő hatóság az (1) bekezdés szerinti azonosítási jelentés kiegészítés és a rendelkezésére álló üzemeltetői biztonsági terv alapján az azonosítási jelentés kiegészítés benyújtását követő 30 napon belül dönt az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.
+#### 15/A. §
 
 15/B. § Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvénnyel (a továbbiakban: Módtv.) megállapított 2. § (1) bekezdés a) pontja szerinti azonosítási vizsgálatot a Módtv. hatálybalépését megelőző 60 napnál régebben működő létfontosságú rendszerelemek esetén a Módtv. hatálybalépését követő 60 napon belül kell lefolytatni.
 

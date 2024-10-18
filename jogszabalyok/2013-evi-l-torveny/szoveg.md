@@ -21,9 +21,9 @@ Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
 - 4. adatkezelés: az alkalmazott eljárástól függetlenül az adatokon végzett bármely művelet vagy a műveletek összessége, így különösen az adatok gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adatok további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők rögzítése;
 - 5. adatkezelő: az a természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, aki vagy amely önállóan vagy másokkal együtt az adatok kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az adatfeldolgozóval végrehajtatja;
 - 6. adminisztratív védelem: a védelem érdekében hozott szervezési, szabályozási, ellenőrzési intézkedések, továbbá a védelemre vonatkozó oktatás;
-- 6a. alapvető szolgáltatásokat nyújtó szolgáltató: a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 2/A. §-a alapján kijelölt szolgáltató;
+- 6a.
 - 7. auditálás: előírások teljesítésére vonatkozó megfelelőségi vizsgálat, ellenőrzés;
-- 7a. bejelentés-köteles szolgáltatás: az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. § j) pontjában meghatározott szolgáltatás;
+- 7a.
 - 8. bizalmasság: az elektronikus információs rendszer azon tulajdonsága, hogy a benne tárolt adatot, információt csak az arra jogosultak és csak a jogosultságuk szintje szerint ismerhetik meg, használhatják fel, illetve rendelkezhetnek a felhasználásáról;
 - 9. biztonsági esemény: nem kívánt vagy nem várt egyedi esemény vagy eseménysorozat, amely az elektronikus információs rendszerben kedvezőtlen változást vagy egy előzőleg ismeretlen helyzetet idéz elő, és amelynek hatására az elektronikus információs rendszer által hordozott információ bizalmassága, sértetlensége, hitelessége, funkcionalitása vagy rendelkezésre állása elvész, illetve megsérül;
 - 10. biztonsági esemény kezelése: az elektronikus információs rendszerben bekövetkezett biztonsági esemény dokumentálása, következményeinek felszámolása, a bekövetkezés okainak és felelőseinek megállapítása, és a hasonló biztonsági események jövőbeni előfordulásának megakadályozása érdekében végzett tervszerű tevékenység;
@@ -112,7 +112,7 @@ Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
 - a) az (1) bekezdésben meghatározott szervek és ezen szervek számára adatkezelést végzők,
 - b) a jogszabályban meghatározott, a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozói,
 - c) az európai vagy nemzeti létfontosságú rendszerelemmé – a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján – kijelölt rendszerelemeknek a létfontosságú tevékenységben közreműködő,
-- d) az alapvető szolgáltatást nyújtó szereplőknek az alapvető szolgáltatás nyújtásában közreműködő,
+- d)
 - e) az elektronikus információs rendszert működtető, a központi államigazgatási és kormányzati tevékenység szempontjából fontos, nemzetbiztonsági védelem alá eső szervek
 
 elektronikus információs rendszereinek védelmére.
@@ -465,7 +465,7 @@ vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány r
 
 19. § (1) A Kormány
 
-- a) az alapvető szolgáltatást nyújtó szolgáltatók, valamint a bejelentés-köteles szolgáltatást nyújtó szolgáltatók elektronikus információs rendszereit – a (2) bekezdés szerinti elektronikus információs rendszerek kivételével – érintő,
+- a) a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvény szerinti érintett szervezet elektronikus információs rendszerét érintő,
 - b) az állami és önkormányzati elektronikus információs rendszerek működését biztosító infokommunikációs infrastruktúrát, illetve – a (2) bekezdés szerinti elektronikus információs rendszerek kivételével – a 2. §-ban meghatározott szervek nyílt elektronikus információs rendszereit érintő,
 - c) a 2. § (2) bekezdés c) pontjában meghatározott létfontosságú rendszerelemek elektronikus információs rendszereit érintő
 

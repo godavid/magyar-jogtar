@@ -39,10 +39,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 - 1. Alkalmazásszolgáltató: az a természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező más szervezet, aki, vagy amely elektronikus hírközlő hálózat felhasználásával valamilyen szoftverhez vagy hardverhez való hozzáférést, szoftveres alkalmazást, valamint kapcsolódó szolgáltatásokat biztosít specifikus szoftveren vagy webes felületen több felhasználó számára, időben korlátozott vagy korlátlan módon, havi vagy használatalapú ellenszolgáltatás fejében vagy ingyenes formában;
 - 2. Anyavállalat: olyan vállalat, amely egy vagy több leányvállalat felett kontrollt gyakorol;
-- 3. Bejelentés-köteles szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás – ide nem értve az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 2. § (2) bekezdésének a) és b) pontja hatálya alá tartozók által nyújtott szolgáltatásokat –, amely
-  - a) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv 4. cikke (1) bekezdésének a) és b) pontjában meghatározott fogyasztók, illetve kereskedők számára lehetővé teszi, hogy az online piactér weboldalán vagy valamely kereskedőnek az online piactér által nyújtott számítástechnikai szolgáltatásokat felhasználó weboldalán keresztül online adásvételi vagy szolgáltatási szerződéseket kössenek (online piactér),
-  - b) a 13. pont d) alpontja szerinti szolgáltatás,
-  - c) távoli hozzáférést tesz lehetővé a többek között hálózati funkciókat, adattárolást, alkalmazások, szolgáltatások futtatását biztosító számítástechnikai megoldásokhoz (felhőalapú számítástechnikai szolgáltatás);
+- 3.
 - 4. Elektronikus kereskedelmi szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás, amelynek célja valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt és az értékpapírt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog (a továbbiakban együtt: áru) üzletszerű értékesítése, beszerzése, cseréje vagy más módon történő igénybevétele;
 - 5. Elektronikus út: elektronikus adatfeldolgozást, -tárolást, illetve -továbbítást végző vezetékes, rádiótechnikai, optikai vagy más elektromágneses eszközök alkalmazása;
 - 6. Európai Gazdasági Térség tagállama: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
@@ -195,28 +192,13 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (5) Az (1) és (2) bekezdések rendelkezéseit nem kell alkalmazni a kizárólag elektronikus levelezés vagy azzal egyenértékű egyéni kommunikációs eszközzel tett címzett nyilatkozatok útján történő szerződéskötésre.
 
-### A bejelentés-köteles szolgáltatásokra vonatkozó különös szabályok
+#### 6/A. §
 
-6/A. § (1) A bejelentés-köteles szolgáltatások nyújtói megteszik a megfelelő intézkedéseket arra, hogy az általuk használt hálózati és információs rendszerekkel összefüggésben a biztonsági események bekövetkezését megelőzzék, hatásukat csökkentsék, illetve bekövetkezés esetén azokat kezeljék.
+#### 6/B. §
 
-(2) A Kormány rendeletben állapítja meg a bejelentés-köteles szolgáltatások hálózati és információs rendszereinek biztonságára vonatkozó alapvető követelményeket.
+#### 6/C. §
 
-(3) A bejelentés-köteles szolgáltatások nyújtóiról a Kormány által rendeletben kijelölt hatóság nyilvántartást vezet.
-
-6/B. § (1) A bejelentés-köteles szolgáltatást nyújtók haladéktalanul bejelentik a Kormány által rendeletben kijelölt eseménykezelő központ (a továbbiakban: eseménykezelő központ) részére a külön kormányrendeletben meghatározott biztonsági eseményeket.
-
-(2) A Kormány a bejelentés-köteles jelentős biztonsági eseményekre vonatkozóan, valamint a bejelentéssel és a bejelentést fogadó eseménykezelő központ eljárásával kapcsolatban rendeletben részletes szabályokat állapít meg.
-
-(3) A bejelentés-köteles szolgáltatások nyújtói számára előírt követelmények teljesülését a Kormány által rendeletben kijelölt hatóság ellenőrzi.
-
-6/C. § A Kormány által rendeletben kijelölt hatóság a kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a bejelentés-köteles szolgáltatást nyújtó elmulasztja
-
-- a) a Kormány által rendeletben kijelölt hatóság által vezetett nyilvántartásába történő regisztrációt,
-- b) a Kormány által rendeletben kijelölt hatóság részére a hálózati és információs rendszereit érintő biztonsági események bejelentését,
-- c) a Kormány által rendeletben megállapított alapvető követelmények teljesítését,
-- d) a b) pont szerint bejelentett esemény kezelését lezáró hatósági döntésben foglaltak teljesítését.
-
-6/D. § A 6/A–6/C. §-ban szereplő rendelkezéseket nem kell alkalmazni az olyan bejelentés-köteles szolgáltatások esetében, amelyeket mikro- és kisvállalkozásként nyújtanak.
+#### 6/D. §
 
 ### A szolgáltató és a közvetítő szolgáltató felelőssége
 
@@ -446,7 +428,7 @@ köteles átadni.
 
 (3) A közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait a Kormány rendeletben határozza meg.
 
-(4) A 6/B. § (3) bekezdés szerinti hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.
+(4) A Kormány által rendeletben kijelölt hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.
 
 ### A videómegosztóplatform-szolgáltatásokra vonatkozó különös szabályok
 
@@ -761,14 +743,15 @@ látja el.
 
 (1a) Felhatalmazást kap a Kormány, hogy
 
-- a) rendeletben állapítsa meg a bejelentés-köteles szolgáltatások hálózati és információs rendszereinek biztonságára vonatkozó alapvető követelményeket,
-- b) rendeletben jelölje ki a 6/B. § (1) bekezdése szerinti bejelentést fogadó eseménykezelő központot és állapítsa meg hatáskörét, feladatait, eljárásrendjét,
-- c) rendeletben állapítsa meg a 6/B. § szerinti jelentős biztonsági eseményekre vonatkozó, valamint a 6/B. § szerinti bejelentéssel összefüggő részletes szabályokat,
-- d) rendeletben jelölje ki a 6/B. § (3) bekezdése szerinti hatóságot és állapítsa meg hatáskörét, feladatait, eljárásrendjét,
-- e) rendeletben jelölje ki a nyilvántartó hatóságot, állapítsa meg a nyilvántartás vezetésére, a nyilvántartásba veendő adatok körére, az adatok törlésére vonatkozó részletes eljárási szabályokat,
-- f) rendeletben határozza meg a 6/C. § szerint kiszabható közigazgatási bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait,
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
 - g) rendeletben határozza meg a közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
 - h) rendeletben állapítsa meg az online szálláshely-közvetítők szálláshely-szolgáltatás értékesítési tevékenységéhez kapcsolódó részletes szabályokat,
+- i) rendeletben jelölje ki a 15/B. § (4) bekezdése szerinti hatóságot.
 
 (2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
@@ -786,7 +769,7 @@ látja el.
 - b) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 16/C. § (2) bekezdés, a 16/D. § (4) bekezdés és a 16/E. § (1) és (2) bekezdés, a Hatóság eljárásában];
 - c) az Európai Parlament és a Tanács 2002/58/EK irányelve (2002. július 12.) a személyes adatoknak az elektronikus hírközlési ágazatban történő feldolgozásáról és magánjellegének védelméről, 13. cikk 1. és 2. bekezdése;
 - d) az Európai Parlament és a Tanács 524/2013/EU rendelete (2013. május 21.) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról, 14. cikk (1) és (2) bekezdése. [16/A. § (1) bekezdés];
-- e) az Európai Parlament és a Tanács (EU) 2016/1148 irányelve (2016. július 6.) a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről;
+- e)
 - f) az Európai Parlament és a Tanács (EU) 2018/1808 irányelve (2018. november 14.) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról [1. § (1a) és (1b) bekezdése, 2. § l) pont lf) alpontja, valamint o)–r), w)–y) pontja, 15/C–15/W. §]
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Hatóság feladatkörében és eljárásában:
