@@ -559,47 +559,17 @@ az érintett szervezet köteles haladéktalanul az állami és önkormányzati s
 
 #### 16. Módosító rendelkezések
 
-33. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 15/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A Kormány által rendeletben kijelölt hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.”
+#### 33. §
 
 #### 34. §
 
-35. § Hatályát veszti az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény
+#### 35. §
 
-- a) 2. § 3. pont,
-- b) „A bejelentés-köteles szolgáltatásokra vonatkozó különös szabályok” alcíme,
-- c) 17. § (1a) bekezdés a)–f) pontja,
-- d) 18. § (1) bekezdés e) pontja.
+#### 36. §
 
-36. § Hatályát veszti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény
+#### 37. §
 
-- a) 1. § b)–d) pontja,
-- b) 2/A. alcíme,
-- c) 14. § j), l) és m) pontja,
-- d) 15/A. §-a.
-
-37. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 19. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„a) a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvény szerinti érintett szervezet elektronikus információs rendszerét érintő,”
-
-(biztonsági események és fenyegetések kezelése érdekében eseménykezelő központot működtet a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítása alatt.)
-
-38. § Hatályát veszti az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény
-
-- a) 1. § (1) bekezdés 6a. és 7a. pontja,
-- b)
-- c) 2. § (2) bekezdés d) pontja,
-- d)
-- e)
-- f)
-- g)
-- h)
-- i)
-- j)
-- k)
+#### 38. §
 
 #### 39. §
 
@@ -615,19 +585,13 @@ az érintett szervezet köteles haladéktalanul az állami és önkormányzati s
 
 #### 45. §
 
-46. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 6/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Hatóság a bányafelügyeleti, a szerencsejáték-felügyeleti, a dohánytermék-kiskereskedelem felügyeletével kapcsolatos, valamint a kiberbiztonsági tanúsítással és a kiberbiztonsági felügyelettel kapcsolatos hatósági feladatokat ellátó személy részére e minősége igazolására szolgálati igazolványt (a továbbiakban: igazolvány) állít ki.”
+#### 46. §
 
 #### 47. §
 
 #### 48. §
 
-49. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § q) pontja helyébe a következő rendelkezés lép:
-
-(A Hatóság elnöke)
-
-„q) megállapítja – a Kibertan.tv. 4. § (1) bekezdés b) pontja szerinti tanúsító hatósági tevékenység kivételével – a Kibertan.tv. szerinti tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait és a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat, – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat, továbbá meghatározza a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a nemzeti kiberbiztonsági tanúsítási rendszereket, a Kibertan.tv. 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket, a kiberbiztonsági felügyelet és feladatellátás, továbbá a hatósági ellenőrzés lefolytatásának és az éves ellenőrzési terv elkészítésének részletes szabályait, az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, a biztonsági eseménykezelésben részt vevő közreműködő esetében a biztonsági események kezeléséhez szükséges feltételeket, a biztonsági eseménykezelésben részt vevő közreműködő biztonsági események kezelésére vonatkozó szabályoknak és a biztonsági események kezeléséhez szükséges feltételeknek történő megfelelése tanúsítására vonatkozó részletes szabályokat, az auditorok nyilvántartásba vételi eljárásának rendjét, az auditorral szemben támasztott követelményeket, a kiberbiztonsági audit lefolytatásának rendjét, valamint a kiberbiztonsági audit – általános forgalmi adó nélkül számított – legmagasabb díját, a kiberbiztonsági felügyeleti díj mértékét, megfizetésének módját és időpontját,”
+#### 49. §
 
 #### 50. §
 
