@@ -2045,14 +2045,14 @@ ha azt az egyéb befektetésektől elkülönítve tartja nyilván, és elkülön
 
 összegeként kell meghatározni.
 
-#### 52. Belső hitel
+#### 52. Kapcsolt személyekkel szembeni kockázatvállalás
 
 106. § (1) Hitelintézet, ide nem értve a hitelszövetkezetet
 
 - a) a hitelintézet, illetve a hitelintézettel szoros kapcsolatban álló vállalkozás vezető testületének tagjával és természetes személy könyvvizsgálójával szemben,
 - b) az a) pontban megjelölt személy közeli hozzátartozójával szemben,
-- c) az a) és b) pontban megjelölt személy ellenőrző befolyása alatt álló vállalkozással szemben, vagy
-- d) az a) és b) pontban megjelölt személy ellenőrző befolyása alatt álló vállalkozás harmadik személy részére történő értékesítése tekintetében
+- c) az a) és b) pontban megjelölt személyek ellenőrző befolyása alatt álló vállalkozással szemben vagy
+- d) az a) és b) pontban megjelölt személyek ellenőrző befolyása alatt álló vállalkozás harmadik személy részére történő értékesítése tekintetében
 
 kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
@@ -2060,16 +2060,16 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (3) Az (1) bekezdésben meghatározott kockázatvállalás nem történhet az (1) bekezdésben meghatározott személyekre nézve kedvezőbb feltételekkel, mint a hitelintézettel az (1) bekezdésben meghatározott kapcsolatban nem álló személyekkel szembeni kockázatvállalás.
 
-(4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy egy személlyel és vele az (1) bekezdés b), illetve c) pontja szerinti kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
+(4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy egy személlyel és vele az (1) bekezdés b), illetve c) pontja szerinti kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 395. cikke szerinti értéket.
 
-(4a) A kitettség értékének meghatározása során a (4) bekezdésben foglaltak tekintetében nem kell figyelembe venni a hitelintézetnek a leányvállalatával szembeni kitettségeit, amennyiben az érintett leányvállalatra az 575/2013/EU rendelet szerinti összevont alapú, vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvény szerinti kiegészítő felügyelet a hitelintézettel együttesen kiterjed. E rendelkezés nem érinti az 575/2013/EU rendelet nagykockázatok vállalására vonatkozó szabályainak betartatását.
+(4a) A kitettség értékének meghatározása során a (4) bekezdésben foglaltak tekintetében figyelembe kell venni az 575/2013/EU rendelet 400. cikkében, valamint a 302. §-ban foglalt mentesítéseket.
 
 (5) A (2) bekezdésben meghatározott korlátozás nem vonatkozik
 
 - a) a hitelintézetnél vezetett fizetési számlához kapcsolódó hitelkeretre a belső szabályzatban meghatározott mértékig,
 - b) a munkáltató által adott fizetési előleg vagy lakás-, illetve más szociális célú kölcsönre a belső szabályzatban meghatározott mértékig,
-- c) a jelzáloghitelre, ha az adott személlyel szembeni ilyen jellegű kitettség teljes összege nem haladja meg a tizenötmillió forintot, valamint
-- d) az a)–c) pont hatálya alá nem tartozó, a fogyasztónak nyújtott hitelről szóló törvény szerinti hitelszerződésre, ha az adott személlyel szembeni ilyen jellegű kitettség teljes összege nem haladja meg az ötmillió forintot.
+- c) a jelzáloghitelre, ha az adott személlyel szembeni ilyen jellegű kitettség teljes összege nem haladja meg az ötvenmillió forintot, valamint
+- d) az a)–c) pont hatálya alá nem tartozó, a fogyasztónak nyújtott hitelről szóló törvény szerinti hitelszerződésre, ha az adott személlyel szembeni ilyen jellegű kitettség teljes összege nem haladja meg a tizenegymillió forintot.
 
 (6) A (2) bekezdéstől eltérően az (1) bekezdésben meghatározott személy részére az (5) bekezdés hatálya alá nem tartozó fogyasztónak nyújtott hitel az irányítási jogkörrel rendelkező vezető testület jelen lévő tagjainak több mint kétharmados többséggel hozott határozata alapján nyújtható. A hitelintézet irányítási jogkörrel rendelkező vezető testülete által hozott határozat tartalmazza a kamat és a törlesztés feltételeit is. A határozathozatal során az (1) bekezdés alapján érintett személy nem rendelkezik szavazati joggal.
 
@@ -3994,7 +3994,7 @@ vonatkozó előírások.
 - g) a hitelintézet közgyűléséről, az igazgatóság és a felügyelő bizottsági üléséről készült jegyzőkönyveket,
 - h) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő vagy a visszaélést bejelentő által megjelölt személyes adatokat és a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és az érintett pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtót,
 - i) a szavatoló tőke és a tőkemegfelelés kiszámításának dokumentálását,
-- j) a nagykockázat, belső hitel, kapcsolódó hitel, befektetési korlát és kockázati céltartalék képzés ellenőrzéséhez szükséges adatokat,
+- j) a nagykockázat, kapcsolt személyekkel szembeni kockázatvállalás, kapcsolódó hitel, befektetési korlát és kockázati céltartalék képzés ellenőrzéséhez szükséges adatokat,
 - k) a fióktelep formájában működő hitelintézet esetében az a)–j) ponton túl az eszközfenntartási mutató ellenőrzéséhez szükséges adatokat, valamint
 - l) a 288. § (15) bekezdésében meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó nevét,
 - m) a Felügyelet részére történő adatszolgáltatásért felelős személy elektronikus elérhetőségét (telefonszámát, illetve elektronikus levélcímét),
