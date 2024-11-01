@@ -143,25 +143,25 @@ egyetértésével nevezi ki.
 
 #### 5/A. A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per
 
-8/A. § A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben felperes az érvényesíteni kívánt jog alapjául a Teljesítésigazolási Szakértői Szerv szakvéleményére hivatkozik.
+8/A. § A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben a felperes az érvényesíteni kívánt jog alapjául a Teljesítésigazolási Szakértői Szerv szakvéleményére hivatkozik. E perben kizárólag olyan követelés érvényesíthető, amelyre a Teljesítésigazolási Szakértői Szerv szakvéleménye kiterjed.
 
 8/B. § A polgári perrendtartásról szóló törvény rendelkezéseit a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben a jelen alcímben meghatározott eltérésekkel kell alkalmazni.
 
 8/C. § (1) Ha a perben érvényesíteni kívánt díjkövetelés összegéhez igazodó pertárgyérték a hárommillió forintot nem haladja meg, e körülmény nem akadálya annak, hogy a felperes igényét – a fizetési meghagyásos eljárás mellőzésével – közvetlenül perben érvényesítse.
 
-(2) A keresetlevelet a Teljesítésigazolási Szakértői Szerv szakvéleményének kézbesítésétől számított hatvan napon belül kell benyújtani.
+(2) A keresetlevelet a Teljesítésigazolási Szakértői Szerv szakvéleményének kézbesítésétől számított hatvan napon belül kell benyújtani. A határidő elmulasztása esetén igazolásnak nincs helye, és a pert az általános szabályok szerint kell lefolytatni. A 8/E. § rendelkezéseit ebben az esetben is alkalmazni kell.
 
-(3) A keresetlevélhez – a polgári perrendtartásról szóló törvényben meghatározott mellékleteken túl – csatolni kell a Teljesítésigazolási Szakértői Szerv szakvéleményét, az annak kézbesítési időpontját igazoló okiratot. Ezek pótlására hiánypótlási felhívás nem adható ki.
+(3) A keresetlevélhez – a polgári perrendtartásról szóló törvényben meghatározott mellékleteken túl – csatolni kell a Teljesítésigazolási Szakértői Szerv szakvéleményét, az annak kézbesítési időpontját igazoló okiratot. Ezek csatolásának elmaradása esetén a bíróság a keresetlevelet – hiánypótlási felhívás kiadása nélkül – visszautasítja.
 
 (4) A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben a jogi képviselet kötelező.
 
-8/D. § (1) A bíróság kérelemre – a rendelkezésre álló iratok alapján, a felek meghallgatása nélkül – ideiglenes intézkedéssel elrendeli a kereseti kérelemben (viszontkeresetben), illetve az ideiglenes intézkedés iránti kérelemben foglalt azon összeg bírósági elnöki letétbe helyezését, amely a Teljesítésigazolási Szakértői Szerv szakvéleménye szerint teljes bizonyossággal megállapíthatóan teljesített tervezési, építési és kivitelezési munkák szerződés szerinti értéke. Az ideiglenes intézkedés elrendelése biztosítékadáshoz nem köthető.
+8/D. § (1) A bíróság kérelemre – a rendelkezésre álló iratok alapján, a felek meghallgatása nélkül – ideiglenes intézkedéssel elrendeli a kereseti kérelemben (viszontkeresetben), illetve az ideiglenes intézkedés iránti kérelemben foglalt azon összeg bírósági teljesítési letétbe helyezését, amely a Teljesítésigazolási Szakértői Szerv szakvéleménye szerint teljes bizonyossággal megállapíthatóan teljesített tervezési, építési és kivitelezési munkák szerződés szerinti értéke. Az ideiglenes intézkedés elrendelése biztosítékadáshoz nem köthető.
 
-(2) A bíróság az ideiglenes intézkedést elrendelő végzésében határidőt tűz az (1) bekezdésben meghatározott összeg bírósági elnöki letétbe helyezésének teljesítésére.
+(2) A bíróság az ideiglenes intézkedést elrendelő végzésében határidőt tűz az (1) bekezdésben meghatározott összeg bírósági teljesítési letétbe helyezésének teljesítésére.
 
 (3) A letétbe helyezés teljesítését vagy nem teljesítését a bíróság végzéssel állapítja meg. Az ideiglenes intézkedést elrendelő végzés a letétbe helyezés nem teljesítésének tényét megállapító végzés meghozatalával válik előzetesen végrehajthatóvá.
 
-(4) Ha a bíróság a kérelmező keresetét elutasítja, ítéletében rendelkezik a letétbe helyezett összegnek a kérelmező ellenfele részére történő kiadásáról. A kérelmező pernyertessége esetén a bíróság a letétbe helyezett összeg visszaadásáról rendelkezik.
+(4) Ha a bíróság a kérelmező keresetét elutasítja, ítéletében rendelkezik a letétbe helyezett összegnek a kérelmező ellenfele részére történő visszaadásáról. A kérelmező pernyertessége esetén a bíróság a letétbe helyezett összeg kérelmező részére történő kiadásáról rendelkezik.
 
 (5) A kérelmező részleges pernyertessége esetén a letétbe helyezett összeg kiadásáról, illetve visszaadásáról a pernyertesség arányában kell határozni.
 
@@ -175,9 +175,11 @@ egyetértésével nevezi ki.
 
 8/G. § (1) A bíróság a perben soron kívül jár el.
 
-(2) Az írásbeli ellenkérelem, illetve a viszontkeresetlevél, beszámítást tartalmazó irat előterjesztésére vonatkozó határidő tizenöt nap, amelyet a bíróság kivételesen legfeljebb tizenöt nappal hosszabbíthat meg.
+(2) Az írásbeli ellenkérelem, illetve a viszontkeresetlevél, válaszirat, viszontválasz, beszámítást tartalmazó irat előterjesztésére vonatkozó határidő tizenöt nap, amelyet a bíróság kivételesen legfeljebb tizenöt nappal hosszabbíthat meg.
 
-(3) A perfelvétel során további írásbeli perfelvétel elrendelésének nincs helye. A tárgyalási időköz nyolc nap, a tárgyalás kitűzésére vonatkozó határidő kettő hónap.
+(3) A tárgyalási időköz nyolc nap, a tárgyalás kitűzésére vonatkozó határidő kettő hónap.
+
+(4) A bíróság a Teljesítésigazolási Szakértői Szerv számára köteles megküldeni az ügy érdemében hozott jogerős döntés másolati példányát. Az irat megküldésének kötelezettsége a bíróságot akkor is terheli, ha a szakértő szakvéleményét a bizonyítékok köréből alkalmatlanság vagy más ok miatt kirekesztette.
 
 8/H. § A Teljesítésigazolási Szakértői Szerv szakvéleménye választottbírósági eljárásban is felhasználható. Ha a felek vállalkozási szerződésükben vagy önálló választottbírósági megállapodásukban választottbíróság kizárólagos döntésének vetik alá magukat, a választottbíróság eljárását kezdeményező fél a keresetlevélhez a Teljesítésigazolási Szakértői Szerv szakvéleményét is csatolja. A választottbíróság a szakvéleményt a bizonyítékok körében mérlegeli, szükség szerint a szakértői tanács elnökét vagy tagját a tárgyaláson meghallgatja.
 

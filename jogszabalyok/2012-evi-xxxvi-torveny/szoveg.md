@@ -379,7 +379,7 @@ terheli.
 
 #### 10/B. Beszámoló vagy jelentés bizottsági tárgyalása
 
-27/B. § Ha az Alaptörvény, törvény vagy országgyűlési határozat az Országgyűlésnek történő beszámolási vagy jelentéstételi kötelezettséget ír elő, az Országgyűlés a Házbizottság javaslatára – az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke beszámolója, a Kormánynak a nemzetiségek helyzetéről és az Alaptörvény 47. cikk (4) bekezdése szerinti esetben készített beszámolója, valamint országgyűlési bizottság jelentése kivételével – a beszámolóról vagy a jelentésről történő határozathozatalra állandó bizottságát felkérheti.
+27/B. § Ha az Alaptörvény, törvény vagy országgyűlési határozat az Országgyűlésnek történő beszámolási vagy jelentéstételi kötelezettséget ír elő, az Országgyűlés a Házbizottság javaslatára – az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke beszámolója, a Kormánynak a nemzetiségek helyzetéről és a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/D. § (1) bekezdése szerinti beszámolója, valamint országgyűlési bizottság jelentése kivételével – a beszámolóról vagy a jelentésről történő határozathozatalra állandó bizottságát felkérheti.
 
 #### 10/C. A határozatképesség, tanácskozóképesség
 
@@ -1057,6 +1057,7 @@ megegyező mértékben csökkentheti.
 - p) alapítvány létrehozásához a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 8. § (1) bekezdésében foglalt esetben,
 - q) a Nemzeti Emlékezet Bizottsága elnökének és két tagjának megválasztásához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 7. § (1) bekezdésében foglaltak szerint,
 - r) a Nemzeti Emlékezet Bizottsága tagja megbízatása – a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (1) bekezdésének e)–g) pontja szerinti – megszűnésének megállapításához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (4) bekezdésében foglaltak szerint.
+- s) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/A. § (1) bekezdése szerinti döntéshez.
 
 ### VI. Fejezet — AZ ORSZÁGGYŰLÉS ÉS A KORMÁNY EURÓPAI UNIÓS ÜGYEKBEN TÖRTÉNŐ EGYÜTTMŰKÖDÉSE
 

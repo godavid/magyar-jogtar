@@ -172,7 +172,7 @@ miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető elő
 
 (4) Az (1) vagy (2) bekezdés hatálya alá tartozó, valamint a (3) bekezdés alapján mentesített természetes személyek megjelenésre és szolgálatadásra nem kötelezhetőek, polgári védelmi szervezetbe nem oszthatóak be, vagy ilyen beosztásukat meg kell szüntetni.
 
-(5) A (2) bekezdés f) pontja szerinti természetes személyek adatszolgáltatási kötelezettsége a (2) bekezdés f) pontja hatálya alá tartozás tekintetében áll fenn. A polgári védelmi szolgálat (2) bekezdés f) pontja alapján történő ellátása tekintetében a Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a rendvédelmi szerv, a nemzetbiztonsági szolgálat, az Országgyűlési Őrség nyilatkozata irányadó. Az (1)–(2) bekezdés szerinti további mentesülési okok igazolásának módját jogszabály határozza meg.
+(5) A (2) bekezdés f) pontja szerinti természetes személyek adatszolgáltatási kötelezettsége a (2) bekezdés f) pontja hatálya alá tartozás tekintetében áll fenn. A polgári védelmi szolgálat (2) bekezdés f) pontja alapján történő ellátása tekintetében a Honvédség központi nyilvántartó szerve, a rendvédelmi szerv, a nemzetbiztonsági szolgálat, az Országgyűlési Őrség nyilatkozata irányadó. Az (1)–(2) bekezdés szerinti további mentesülési okok igazolásának módját jogszabály határozza meg.
 
 11. § (1) A polgári védelmi szervezet tagja kiképzésre és gyakorlatra osztható be (a továbbiakban: felhívás), amelynek időtartama évente nem haladhatja meg kiképzés céljából a 40, gyakorlat esetében a 72 órát. A megjelenésre kötelezett a felhívásban megjelölt helyen és időpontban köteles megjelenni.
 
@@ -768,7 +768,7 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 
 - a) a vármegyei közgyűlés elnöke – a fővárosban a főpolgármester – vagy az általa helyettesítésre kijelölt személy,
 - b) a megyei jogú város polgármestere vagy az általa helyettesítésre kijelölt személy,
-- c) a katonai igazgatás területi szervének vezetője,
+- c) a területi katonai igazgatási szervének vezetője,
 - d) a bizottság szakmai elnökhelyettese kivételével a bizottság illetékességi területén működő, önálló hatáskörrel rendelkező rendvédelmi szerv illetékes vezetője,
 - e) az egészségügyi államigazgatási szerv képviselője,
 - f) az árvízi védekezésért felelős szervezet vezetője,
@@ -823,7 +823,7 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 
 - a) a bizottság szakmai elnökhelyettese kivételével a bizottság illetékességi területén működő, önálló hatáskörrel rendelkező rendvédelmi szerv illetékes vezetője,
 - b) a fővárosi, vármegyei kormányhivatal képviselője,
-- c) a katonai igazgatási szerv képviselője,
+- c) a területi katonai igazgatási szervének képviselője,
 - d) az árvízi védekezésért felelős szervezetnek a bizottság illetékességi területe szerinti vezetője,
 - e) a helyi védelmi bizottság titkára.
 
@@ -967,9 +967,9 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 
 #### 27. A védelmi és biztonsági igazgatás területi és helyi igazgatási szerveinek gazdasági és anyagi szolgáltatással összefüggő adatnyilvántartása
 
-63. § (1) A gazdasági és anyagi szolgáltatási kötelezettséggel összefüggő területi, helyi és települési szintű feladatai teljesítése érdekében, a területi védelmi bizottság elnöke, a helyi védelmi bizottság elnöke és a polgármester hatáskörébe tartozó igénybevételi jog gyakorlásának segítése, a területi, a helyi és a települési szintű gazdasági és anyagi szolgáltatások és a gazdasági és anyagi szolgáltatásra kötelezettek körének megállapítása, valamint a gazdasági és anyagi szolgáltatás igénybevételének területi, helyi és települési szintű tervezése és végrehajtásának koordinálása céljából a területi védelmi bizottság, a helyi védelmi bizottság, a polgármester, a hivatásos katasztrófavédelmi szerv és a katonai igazgatás területi szerve a 3. melléklet szerinti, valamint kormányrendelet által előírt ingatlanra, szolgáltatásra, technikai eszközre vonatkozó műszaki, technikai adatokról nyilvántartást vezet.
+63. § (1) A gazdasági és anyagi szolgáltatási kötelezettséggel összefüggő területi, helyi és települési szintű feladatai teljesítése érdekében, a területi védelmi bizottság elnöke, a helyi védelmi bizottság elnöke és a polgármester hatáskörébe tartozó igénybevételi jog gyakorlásának segítése, a területi, a helyi és a települési szintű gazdasági és anyagi szolgáltatások és a gazdasági és anyagi szolgáltatásra kötelezettek körének megállapítása, valamint a gazdasági és anyagi szolgáltatás igénybevételének területi, helyi és települési szintű tervezése és végrehajtásának koordinálása céljából a területi védelmi bizottság, a helyi védelmi bizottság, a polgármester, a hivatásos katasztrófavédelmi szerv és a Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szerve a 3. melléklet szerinti, valamint kormányrendelet által előírt ingatlanra, szolgáltatásra, technikai eszközre vonatkozó műszaki, technikai adatokról nyilvántartást vezet.
 
-(1a) Az (1) bekezdésben meghatározott nyilvántartáshoz a területi védelmi bizottság, a helyi védelmi bizottság, a polgármester, a hivatásos katasztrófavédelmi szerv és a katonai igazgatás területi szerve az adatokat:
+(1a) Az (1) bekezdésben meghatározott nyilvántartáshoz a területi védelmi bizottság, a helyi védelmi bizottság, a polgármester, a hivatásos katasztrófavédelmi szerv és a Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szerve az adatokat:
 
 - a) a munkáltató, egyéni vállalkozó által teljesített adatszolgáltatásból,
 - b) a hadkiegészítő parancsnokság nyilvántartásából,
@@ -977,7 +977,7 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 
 gyűjti törvényben meghatározottak szerint.
 
-(1b) Az (1) bekezdésben meghatározott nyilvántartás adatainak ellenőrzése és frissítése céljából a területi védelmi bizottság, a helyi védelmi bizottság, a polgármester, a hivatásos katasztrófavédelmi szerv és a katonai igazgatás területi szerve a 3. melléklet 1–4. pontjai szerinti adatot a személyiadat- és lakcímnyilvántartást kezelő szervtől is igényelheti.
+(1b) Az (1) bekezdésben meghatározott nyilvántartás adatainak ellenőrzése és frissítése céljából a területi védelmi bizottság, a helyi védelmi bizottság, a polgármester, a hivatásos katasztrófavédelmi szerv és a Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szerve a 3. melléklet 1–4. pontjai szerinti adatot a személyiadat- és lakcímnyilvántartást kezelő szervtől is igényelheti.
 
 (2) Az (1) bekezdés szerinti nyilvántartásban szereplő adatokat a védelmi és biztonsági tevékenységekkel kapcsolatos feladatok ellátása céljából megismerheti
 
@@ -985,7 +985,7 @@ gyűjti törvényben meghatározottak szerint.
 - b) a honvédelemért felelős miniszter,
 - c) a védelemgazdaság központi tervező szerve,
 - d) a Honvéd Vezérkar főnöke,
-- e) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
+- e) a Honvédség központi nyilvántartó szerve,
 - f) a hivatásos katasztrófavédelmi szerv központi szerve, valamint
 - g) a védelmi és biztonsági igazgatás központi szerve.
 

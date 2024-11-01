@@ -3914,7 +3914,7 @@ esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben 
 
 #### 275/A. §
 
-275/B. § A személyügyi alapnyilvántartást kezelő a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § c) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+275/B. § A személyügyi alapnyilvántartást kezelő a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § c) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 276. § (1) A személyügyi alapnyilvántartás vezetéséhez az érintett személy köteles adatot szolgáltatni, és a változást nyolc napon belül bejelenteni az illetékes személyügyi szervnek.
 

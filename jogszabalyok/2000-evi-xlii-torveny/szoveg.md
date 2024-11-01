@@ -193,7 +193,7 @@ lajstromban tartja nyilván.
 
 (2) A lajstrom megtekintése során a tulajdonosról nevének, székhelyének (címének) kivételével egyéb azonosító adat nem juthat a betekintő tudomására. A lajstrom egyes részeiről kiadott másolaton a nevén és székhelyén (címén) kívül a tulajdonosról egyéb azonosító adat nem tüntethető fel.
 
-10/A. § A katonai igazgatás területi szerve a technikai eszközök igénybevételének tervezése, igénybevételi célú kijelölése céljából a 10. § (1) bekezdés a)–d) pontja szerinti adatokat igényelheti.
+10/A. § A Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek a technikai eszközök igénybevételének tervezése, igénybevételi célú kijelölése céljából a 10. § (1) bekezdés a)–d) pontja szerinti adatokat igényelhetik.
 
 11. § (1) A nyilvántartásba vételre kötelezett úszólétesítmény tulajdonjogának átruházásához az erre irányuló szerződésen vagy más jogcímen felül a tulajdonosváltozásnak a lajstromba történő bejegyzése is szükséges.
 

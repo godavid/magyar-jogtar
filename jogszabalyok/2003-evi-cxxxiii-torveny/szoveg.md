@@ -40,7 +40,11 @@ Az Országgyűlés a társasháztulajdon létesítése és biztonságos fenntart
 
 (5) Az alapításhoz a társasháztulajdonnak az ingatlan-nyilvántartásba való bejegyzése is szükséges. Az alapító okiratot az ingatlan-nyilvántartási iratokhoz kell csatolni.
 
-6. § A társasháztulajdon földrészletre való feljegyzésének vagy meglevő épületre való bejegyzésének feltétele, hogy az ingatlan-nyilvántartásban feltüntetett jogokat töröljék, vagy az érdekeltek megegyezzenek abban, hogy azok a társasházzá történő átalakítás után mely ingatlanokat fogják terhelni.
+6. § (1) A társasháztulajdon földrészletre való feljegyzésének vagy meglevő épületre való bejegyzésének feltétele, hogy az ingatlan-nyilvántartásban feltüntetett jogokat töröljék, vagy az érdekeltek megegyezzenek abban, hogy azok a társasházzá történő átalakítás után mely ingatlanokat fogják terhelni.
+
+(2) Ha – a jogszabályon alapuló elővásárlási jog kivételével – az adott ingatlanra vonatkozóan elővásárlási jog áll fenn, úgy az elővásárlási jog jogosultját a tulajdonos – több tulajdonostárs esetén a tulajdonostársak együttesen – írásban felhívja annak érdekében, hogy nyilatkozzon arról, hogy a társasházzá történő átalakítást követően mely újonnan létrejövő ingatlanokra kívánja az elővásárlási jogát fenntartani. Ha a felhívás közlésétől számított harmincnapos jogvesztő határidőn belül az elővásárlási jog jogosultja a felhívásra nem ad írásbeli választ vagy az általa adott írásbeli válasz alapján az elővásárlási jog átjegyzésével érintett, újonnan létrejövő ingatlanok nem azonosíthatóak be egyértelműen, akkor a társasháztulajdon (1) bekezdés szerinti ingatlan-nyilvántartási bejegyzése, illetve feljegyzése az elővásárlási jog jogosultjának nyilatkozata, illetve a vele történt (1) bekezdés szerinti megegyezés nélkül is kérhető abban az esetben, ha az elővásárlási jog valamennyi újonnan létrejövő önálló ingatlanra bejegyzésre kerül.
+
+(3) Arról a tényről, hogy az elővásárlási jog jogosultja a 30 napos jogvesztő határidőn belül nem tett a (2) bekezdés szerinti feltételeknek megfelelő nyilatkozatot, közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt nyilatkozattal a tulajdonos, illetve a tulajdonostársak az ingatlan-nyilvántartási eljárás során nyilatkoznak.
 
 7. § (1) Társasház felépítendő épületre úgy alapítható, hogy a földrészlet tulajdonosa vagy valamennyi tulajdonostársa az alapítási szándékot alapító okiratba foglalja, és az előzetes alapítás tényét az ingatlan-nyilvántartásban a földrészlet tulajdoni lapjára feljegyzik.
 
@@ -658,6 +662,8 @@ jogok és kötelezettségek
 67. § Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy városképi vagy kereskedelmi szempontok alapján – az építésügyi, illetve a kereskedelmi jogszabályokkal összhangban – rendeletben határozhassa meg a nem lakás céljára szolgáló helyiség használatának, hasznosításának, illetve ezek megváltoztatásának módját, feltételeit.
 
 68. § Felhatalmazást kap az ingatlan-nyilvántartásért felelős miniszter, hogy a társasház alapítással, valamint az alapító okirat módosításával összefüggésben az ingatlan-nyilvántartási eljáráshoz benyújtandó dokumentumokat rendeletben szabályozza.
+
+69. § E törvénynek a honvédelmi tárgyú törvények módosításával összefüggésben egyes törvények módosításáról szóló 2024. évi XLI. törvény (a továbbiakban: Módtv.) 12. §-ával módosított 6. §-át a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### 1. melléklet a 2003. évi CXXXIII. törvényhez
 

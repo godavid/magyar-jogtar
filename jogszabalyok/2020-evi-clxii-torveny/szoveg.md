@@ -48,11 +48,20 @@ kezelésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszer
 
 (5) A polgári nemzetbiztonsági szolgálat és az Országgyűlési Őrség az (1) bekezdés d) pontja szerinti személyügyi alapnyilvántartó és ügyviteli rendszer alkalmazását bevezetheti.
 
-4. § (1) A KSZDR működtetéséért a közszolgálati életpálya kidolgozásáért felelős miniszter felel.
+4. § (1) A KSZDR szakmai irányításáért
+
+- a) a 2. § a) és b) pontja szerinti foglalkoztatottak és foglalkoztató szervezetek tekintetében a kormányzati személyügyi igazgatásra kijelölt szerv vezetője,
+- b) a 2. § c)–f) pontja szerinti foglalkoztatottak és foglalkoztató szervezetek tekintetében a közszolgálati életpálya kidolgozásáért felelős miniszter (a továbbiakban: miniszter)
+
+felel.
+
+(1a) A KSZDR egységes informatikai rendszerként működik. A miniszter és a kormányzati személyügyi igazgatásra kijelölt szerv vezetője a Kormány rendeletében meghatározottak szerint együttműködik a KSZDR-rel kapcsolatos kormányzati feladatok ellátásában.
+
+(1b) A KSZDR működtetéséért a miniszter felelős azzal, hogy a kormányzati személyügyi igazgatásra kijelölt szerv vezetője – az (1) bekezdés a) pontjában foglaltakra kiterjedően – a KSZDR fejlesztésével, illetve működésével kapcsolatos döntések körében javaslattételi vagy közreműködői joggal (a továbbiakban együtt: javaslattételi jog) rendelkezik.
 
 (2) A KSZDR informatikai üzemeltetését a Kormány rendeletében meghatározott szervezet végzi.
 
-(3) A KSZDR üzemeltetési és adatvédelmi szabályzatát a közszolgálati életpálya kidolgozásáért felelős miniszter adja ki, a Kit. szerinti kormányzati személyügyi igazgatásra kijelölt szerv véleményének kikérését követően.
+(3) A KSZDR üzemeltetési és adatvédelmi szabályzatát a miniszter adja ki, a Kit. szerinti kormányzati személyügyi igazgatásra kijelölt szerv véleményének kikérését követően.
 
 #### 2. Az adatgyűjtő modul
 
@@ -115,9 +124,9 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 
 (2) A statisztikai modul (1) bekezdés szerinti személyazonosításra alkalmatlan adatait az adatgyűjtő modul szolgáltatja.
 
-12. § A közszolgálati életpálya kidolgozásáért felelős miniszter és a Központi Statisztikai Hivatal vezetőjének megállapodása alapján a foglalkoztatottakról munkaügyi statisztikai adatszolgáltatás keretében gyűjtött statisztikai adatokat a Központi Statisztikai Hivatal a közszolgálati életpálya kidolgozásáért felelős miniszter rendelkezésére bocsátja a statisztikai modulban történő felhasználás céljából.
+12. § A miniszter és a Központi Statisztikai Hivatal vezetőjének megállapodása alapján a foglalkoztatottakról munkaügyi statisztikai adatszolgáltatás keretében gyűjtött statisztikai adatokat a Központi Statisztikai Hivatal a miniszter rendelkezésére bocsátja a statisztikai modulban történő felhasználás céljából.
 
-13. § (1) A statisztikai modulból a közszolgálati életpálya kidolgozásáért felelős miniszter – a Kormány rendeletében meghatározott módon és adatkörben – a jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet.
+13. § (1) A statisztikai modulból a miniszter – a Kormány rendeletében meghatározott módon és adatkörben – a jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet.
 
 (2) A statisztikai modulból az (1) bekezdésben foglaltakon túl közvetlenül statisztikai lekérdezéseket végezhet a Kormány rendeletében meghatározott rendben
 
@@ -126,14 +135,14 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 - c) az államháztartásért felelős miniszter,
 - d) a miniszterelnök kabinetfőnöke,
 - e) felelősségi körében eljárva az ágazati miniszter,
-- f) felelősségi körében eljárva a közszolgálati életpálya kidolgozásáért felelős miniszter által meghatározott személy,
+- f) felelősségi körében eljárva a miniszter által meghatározott személy,
 - g) a 2. § a) és b) pontja szerinti foglalkoztató szervezetek vonatkozásában a Kit. szerinti kormányzati személyügyi igazgatásra kijelölt szervnél működő helyettes államtitkár, valamint a Magyar Kormánytisztviselői Kar, továbbá a területi kormányzati igazgatási szerv vonatkozásában a közigazgatás-szervezésért felelős miniszter,
 - h) a 2. § c) pontja szerinti foglalkoztató szervezetek vonatkozásában a helyi önkormányzatokért felelős miniszter,
 - i) a 2. § d) pontja szerinti foglalkoztató szervezetek vonatkozásában a rendvédelmi feladatokat ellátó szervet irányító miniszter, a rendvédelmi feladatokat ellátó szervet vezető országos parancsnok vagy országos főigazgató, valamint a Magyar Rendvédelmi Kar,
 - j) a 2. § e) pontja szerinti foglalkoztató szervezet vonatkozásában a Nemzeti Adó- és Vámhivatalt irányító miniszter, a Nemzeti Adó- és Vámhivatal vezetője, a Magyar Rendvédelmi Kar, valamint a Magyar Kormánytisztviselői Kar,
 - k) a 2. § f) pontja szerinti foglalkoztató szervezetek vonatkozásában az egészségügyért felelős miniszter, a középirányítói jogosultságokkal rendelkező szervezet, valamint az egészségügyi szolgáltató vezetője.
 
-(3) A statisztikai modulból statisztikai lekérdezéseket kérhet a közszolgálati életpálya kidolgozásáért felelős miniszter megkeresése útján a Kormány rendeletében meghatározott rendben, felelősségi körében eljárva a (2) bekezdésen kívüli szervezet is.
+(3) A statisztikai modulból statisztikai lekérdezéseket kérhet a miniszter megkeresése útján a Kormány rendeletében meghatározott rendben, felelősségi körében eljárva a (2) bekezdésen kívüli szervezet is.
 
 #### 4. Az Álláshely Nyilvántartó Rendszerrel való kapcsolat
 
@@ -149,7 +158,7 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 
 15. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
 
-- 1. a KSZDR felépítését, működését, a jogosultságkezelés rendjét, valamint az adatfeldolgozói jogviszonyra vonatkozó szabályokat,
+- 1. a KSZDR felépítését, működését, 4. § (1b) bekezdése szerinti javaslattételi joggal érintett működtetési részfeladatokat és a javaslattételi jog gyakorlására vonatkozó eljárás rendjét, a jogosultságkezelésre, valamint az adatfeldolgozói jogviszonyra vonatkozó szabályokat,
 - 2. a KSZDR informatikai üzemeltetését végző szervezetet,
 - 3. a foglalkoztatott adatainak személyhez köthető nyilvántartása rendjét az adatgyűjtő modulban,
 - 4. a foglalkoztatottak 1–7. mellékletben meghatározott adatairól, az azokban bekövetkezett változásokról, valamint a foglalkoztató szervezetek szervezeti adatairól a KSZDR-be történő adatszolgáltatás rendjét,
@@ -159,7 +168,7 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 - 8. a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból a KSZDR-be történő adatszolgáltatás rendjét és szervezeti körét,
 - 9. a foglalkoztatottak 1–7. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és azok változásáról a kincstár által működtetett központosított illetményszámfejtés részére történő adatszolgáltatás rendjét,
 - 10. a foglalkoztatott adatainak személyazonosításra alkalmatlan módon történő nyilvántartása rendjét a statisztikai modulban,
-- 11. a közszolgálati életpálya kidolgozásáért felelős miniszter jogszabályban meghatározott feladatainak ellátása érdekében történő statisztikai lekérdezések módját és adatköreit,
+- 11. a miniszter jogszabályban meghatározott feladatainak ellátása érdekében történő statisztikai lekérdezések módját és adatköreit,
 - 12. a közvetlen statisztikai lekérdezések rendjét, valamint a statisztikai adatszolgáltatásra irányuló megkeresésre jogosult szervezetek kijelölését és a megkeresésre történő adatszolgáltatás rendjét,
 - 13. a kormánytisztviselő Álláshely Nyilvántartó Rendszerben nyilvántartott adatainak elektronikus úton a KSZDR-be történő továbbításának rendjét,
 - 14. a 3. § (1) bekezdés d) pontja szerinti személyügyi nyilvántartások vezetésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszert,

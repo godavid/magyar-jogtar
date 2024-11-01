@@ -3555,7 +3555,7 @@ kapcsolatos ügyekben.
 
 (2) A személyügyi központ – az adatfelhasználás dokumentálásával – jogszabályban meghatározott feladatai ellátása érdekében statisztikai adatfeldolgozást végezhet.
 
-(3) A NAV a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § c) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+(3) A NAV a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § c) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 (4) A személyügyi alapnyilvántartás vezetéséhez az érintett személy köteles adatot szolgáltatni, és a változást nyolc napon belül bejelenteni a foglalkoztató NAV szervnek.
 

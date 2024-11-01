@@ -61,10 +61,11 @@ keretein belül.
 - 3. autonóm fegyver- és védelmi rendszer: olyan támadó vagy támadás megelőzésére, elhárítására hivatott eszközrendszer, amely részben vagy egészben automatizált működési megoldásokkal, közvetlen emberi beavatkozás nélkül képes meghatározott célok semlegesítésére, illetve meghatározott technikai eszközök, támadó tevékenységek megelőzésére, elhárítására,
 - 4. befogadó nemzeti támogatás: a szövetséges fegyveres erőknek vagy más külföldi fegyveres erőknek Magyarország területén tartózkodásuk vagy azon történő átvonulásuk során nyújtott, egyoldalúan vállalt vagy nemzetközi szerződéseken és azok végrehajtási megállapodásain alapuló polgári és katonai támogatás,
 - 5. békefenntartás: a Honvédség nem alkalmazás körébe tartozó, a szemben álló felek hozzájárulásával történő tevékenysége, amelynek célja a felek megállapodása végrehajtásának elősegítése, valamint közreműködés a lakosság biztonságos életfeltételeinek helyreállításában,
+- 5a. csapatmozgás: a honvédségi szervezetnek vagy a Magyar Honvédség állományának az államhatár átlépésével járó olyan külföldi tevékenysége vagy tartózkodása, illetve külföldi fegyveres erőnek vagy állományának az államhatár átlépésével járó magyarországi tevékenysége, tartózkodása, mozgása vagy Magyarországon történő áthaladása, amely alaprendeltetésből fakadó feladatok gyakorlására vagy végrehajtására irányul, katonai szabályzatok előírásai alapján történik, és szervezett formában, katonai vezetés alatt valósul meg,
 - 6. fegyveres összeütközés időszaka: kihirdetett vagy kezdeményezett hadiállapot, valamint a váratlan támadás elhárításának időszaka,
 - 7. hadköteles: a magyarországi lakóhellyel rendelkező, nagykorú, magyar állampolgárságú férfi,
 - 8. hadkötelezett: a tényleges katonai szolgálatra hadiállapotban behívott hadköteles,
-- 9. határátlépéssel járó csapatmozgás: a honvédségi szervezetnek az államhatár átlépésével járó olyan külföldi tevékenysége vagy tartózkodása, külföldi fegyveres erő esetén az államhatár átlépésével járó magyarországi tevékenysége, tartózkodása vagy Magyarországon történő átutazása, amely a csapatmozgásban részt vevő katonai erő tevékenységének céljára, időtartamára, természetére vagy létszámára, eszközeire, felszerelésére, fegyverzetére tekintettel közjogi engedélyezést igényel,
+- 9.
 - 10. honvéd: rendfokozatára tekintet nélkül a Honvédség tényleges katonai szolgálatot teljesítő tagja,
 - 11. honvédelmi érdek: a Magyarország biztonságát, védelmi képességét katonai szempontból meghatározó módon befolyásoló körülmények összessége, ideértve a Magyarország függetlensége elleni támadó szándékú, a szuverenitását vagy területi integritását sértő, illetve veszélyeztető törekvések elhárításához, a szövetségesi kötelezettségek teljesítéséhez, a szövetségi és honi védelmi infrastruktúra működésének, fejlesztésének biztosításához fűződő érdekeket,
 - 12. honvédelmi igazgatás: a védelmi és biztonsági igazgatás részét képező feladat- és szervezetrendszer, amelynek keretében az ország védelmére létrehozott, valamint az e feladatra kijelölt, Vbö. szerinti közigazgatási szervek, továbbá a honvédelemben közreműködő más szervek ellátják a honvédelemre való felkészítéssel, az országvédelemmel, a honvédelmi válsághelyzettel és a honvédelmi kötelezettségek teljesítésével kapcsolatos, továbbá egyes szövetségesi kötelezettségből eredő feladatokat,
@@ -77,6 +78,7 @@ keretein belül.
 - 19. kiképzetlen hadköteles: az a hadköteles, aki nem tartozik a kiképzett hadköteles állományba,
 - 20. kiképzett hadköteles: a katonai szolgálati viszony megszűnését vagy megszüntetését követő 10. év december 31. napjáig az állományból kikerült, korábban katonai alapkiképzést vagy alapfelkészítést teljesített férfi,
 - 21. korlátozott elérésű terület: a honvédelmi szervezet működésére szolgáló olyan helyszín, amelyre a belépés meghatározott feltételek megléte esetén engedélyezhető,
+- 21a. közjogi engedélyezést igénylő csapatmozgás: olyan csapatmozgás, amely az abban részt vevő katonai erő vagy állomány tevékenységének céljára, időtartamára, jellegére, létszámára, eszközeire, felszerelésére vagy fegyverzetére tekintettel közjogi engedélyezést igényel,
 - 22. meghagyás: álláshelyhez, munkakörhöz (a továbbiakban együtt: munkakör) kapcsolódóan és névre szólóan végrehajtott eljárás, amely során a jogszabály vagy hatósági határozat alapján meghagyásba bevont szerv által kijelölt személyek a meghagyási névjegyzékbe kerülnek, és akiket ez alapján a katonai igazgatási szervek a munkakörüktől eltérő szolgálatteljesítési helyre nem hívhatnak be,
 - 23. meghagyásba bevont szerv: a honvédelmi feladatok ellátásában közreműködő, az 1. mellékletben meghatározott, továbbá a területi védelmi bizottság által egyedileg, határozattal kijelölt szerv,
 - 24. műveleti terület: a műveleti tervben meghatározott és kijelölt földrajzi terület és a felette levő légtér, továbbá a kibertér,
@@ -168,6 +170,32 @@ keretein belül.
 
 - a) honvédelemmel foglalkozó állandó bizottságának és külügyekkel foglalkozó állandó bizottságának a külföldi fegyveres erők magyarországi jogállását szabályozó nemzetközi szerződések végrehajtásáról,
 - b) honvédelemmel foglalkozó állandó bizottságának, külügyekkel foglalkozó állandó bizottságának és nemzetbiztonsággal foglalkozó állandó bizottságának a Honvédség külföldön végrehajtott műveleteiről.
+
+#### 5/A. Döntés katonai műveletekről
+
+6/A. § (1) Az Országgyűlés dönt – a (2) bekezdésben meghatározott esetek kivételével – a külföldi fegyveres erők magyarországi vagy Magyarország területéről kiinduló alkalmazásáról és magyarországi állomásozásáról.
+
+(2) A Kormány dönt a külföldi fegyveres erőknek az Egyesült Nemzetek Szervezete Biztonsági Tanácsa, az Európai Unió vagy az Észak-atlanti Szerződés Szervezete döntésén alapuló magyarországi vagy Magyarország területéről kiinduló alkalmazásáról és magyarországi állomásozásáról.
+
+(3) A Kormány dönt a külföldi fegyveres erőknek az (1) és (2) bekezdés szerinti eseteken kívüli, Magyarország területét érintő katonai műveleteiről és a (4) bekezdés szerinti eseteken kívüli más, Magyarország területét érintő, közjogi engedélyezést igénylő csapatmozgásáról.
+
+(4) A honvédelemért felelős miniszter dönt a külföldi fegyveres erőknek a közjogi engedélyezést igénylő, magyarországi gyakorlatokon vagy kiképzéseken történő részvételéről, továbbá külföldi gyakorlatokon vagy kiképzéseken történő részvétel céljából történő magyarországi áthaladásáról.
+
+6/B. § (1) A (3) bekezdés szerinti esetek kivételével a Kormány dönt a Magyar Honvédség külföldi alkalmazásáról, külföldi állomásozásáról, katonai műveleteiről és más, közjogi engedélyezést igénylő csapatmozgásáról.
+
+(2) A Kormány dönt a Magyar Honvédségnek a magyar állampolgár vagy más személy életét, testi épségét Magyarország területén kívül fenyegető veszélyek esetén a bajba jutott személy külföldről történő kimenekítésében való részvételéről.
+
+(3) A honvédelemért felelős miniszter dönt a Magyar Honvédségnek a közjogi engedélyezést igénylő külföldi gyakorlatokon vagy kiképzéseken történő részvételéről.
+
+6/C. § (1) A Kormány a 6/A. § (2) és (3) bekezdés és a 6/B. § (1) és (2) bekezdés szerinti esetekben egyedi határozatban dönt, amit a Magyar Közlönyben közzé kell tenni, kivéve, ha minősített adatot tartalmaz. A határozat meghatározott alkalomra, meghatározott időszakra vagy határozatlan időre terjedhet ki.
+
+(2) A honvédelemért felelős miniszter a 6/A. § (4) bekezdése és a 6/B. § (3) bekezdése szerinti engedélyt egyedi miniszteri határozatban adja ki, amelyet a Magyar Közlönyben közzé kell tenni, kivéve, ha minősített adatot tartalmaz.
+
+6/D. § (1) A Kormány – a köztársasági elnök egyidejű tájékoztatása mellett – haladéktalanul beszámol az Országgyűlésnek a 6/A. § (2) és (3) bekezdése, valamint a 6/B. § (1) és (2) bekezdése szerint hozott döntéséről.
+
+(2) A honvédelemért felelős miniszter a 6/A. § (4) bekezdése, valamint a 6/B. § (3) bekezdése szerinti döntésekről tájékoztatja a köztársasági elnököt.
+
+6/E. § A Kormány rendeletben állapítja meg a csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány, valamint a honvédelemért felelős miniszter hatáskörébe tartozó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat, valamint a közjogi engedélyt nem igénylő csapatmozgásokat.
 
 #### 6. Az autonóm államigazgatási szervek és az önálló szabályozó szervek honvédelmi együttműködése
 
@@ -467,7 +495,7 @@ jogosult bejelenteni az akadályoztatás okát.
 
 #### 18. A katonai szolgálatteljesítés tervezése alóli mentesítés
 
-26. § (1) Az alkalmasságot vizsgáló szakfőorvos – szakorvosi igazolás alapján – a 25. § (2) bekezdés c) pontja szerint tett megállapítása alapján a Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadiállapot kihirdetésének kezdeményezését követően határozatban állapítja meg a katonai szolgálatteljesítés tervezése alóli mentesítését annak a hadkötelesnek, aki a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 23. § (1) bekezdése szerint súlyosan fogyatékos személynek minősülő, a szakhatósági vélemény vagy szakorvosi igazolás alapján súlyosan beszédfogyatékos, vagy súlyos állapotú, pszichoszociális fogyatékossággal élő személy.
+26. § (1) Az alkalmasságot vizsgáló szakfőorvos – szakorvosi igazolás alapján – a 25. § (2) bekezdés c) pontja szerint tett megállapítása alapján a katonai igazgatás területi szerve a hadiállapot kihirdetésének kezdeményezését követően határozatban állapítja meg a katonai szolgálatteljesítés tervezése alóli mentesítését annak a hadkötelesnek, aki a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 23. § (1) bekezdése szerint súlyosan fogyatékos személynek minősülő, a szakhatósági vélemény vagy szakorvosi igazolás alapján súlyosan beszédfogyatékos, vagy súlyos állapotú, pszichoszociális fogyatékossággal élő személy.
 
 (2) Az (1) bekezdés szerinti határozatot a hadkötelesnek írásban kézbesíteni kell.
 
@@ -480,7 +508,7 @@ jogosult bejelenteni az akadályoztatás okát.
 
 28. § (1) A katonai szolgálatteljesítés tervezését első- és másodfokú Bizottság végzi.
 
-(2) Az elsőfokú Bizottság elnöke a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vezetője által kijelölt katona, tagja
+(2) Az elsőfokú Bizottság elnöke a központi katonai igazgatási szerv vezetője által kijelölt katona, tagja
 
 - a) a személyes megjelenés nélküli egészségi alkalmasság megállapítása esetén az alkalmasságot vizsgáló belgyógyász szakorvos, vagy
 - b) a hadköteles személyes megjelenéssel történő szolgálatteljesítés tervezése esetén az alkalmasságot vizsgáló belgyógyász és sebész szakorvos, valamint a pszichológus.
@@ -491,7 +519,7 @@ jogosult bejelenteni az akadályoztatás okát.
 
 (5) A másodfokú Bizottság elnöke a Honvéd Vezérkar főnöke által kijelölt katona, tagja a Honvédség központi egészségügyi szervezetének alkalmasságot vizsgáló orvosa, pszichológusa és a hadkiegészítő központ alkalmasságot vizsgáló szakfőorvosa.
 
-(6) A másodfokú Bizottság munkájában a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vezetője által kijelölt kisegítő személyek vesznek részt.
+(6) A másodfokú Bizottság munkájában a központi katonai igazgatási szerv vezetője által kijelölt kisegítő személyek vesznek részt.
 
 29. § (1) A Bizottság az egészségi állapot alapján dönt a hadköteles katonai alkalmasságának fokozatáról, a személyi adottságok és a képzettség figyelembevételével megállapítja a tervezett beosztását, a behívás tervezett idejét és helyét.
 
@@ -519,7 +547,7 @@ jogosult bejelenteni az akadályoztatás okát.
 
 31. § (1) A Bizottság a katonai szolgálatteljesítés tervezésének eredményéről határozatot hoz, amelyet a hadkötelesnek írásban is kézbesíteni kell.
 
-(2) Az elsőfokú Bizottság határozata ellen a Honvédség katonai igazgatási és központi adatfeldolgozó szervéhez benyújtott fellebbezésnek van helye, amelynek nincs halasztó hatálya. Fellebbezésnek csak a határozat katonai szolgálatra való alkalmasság megállapítására vonatkozó része ellen van helye.
+(2) Az elsőfokú Bizottság határozata ellen a katonai igazgatás területi szervének vezetőjéhez benyújtott fellebbezésnek van helye, amelynek nincs halasztó hatálya. Fellebbezésnek csak a határozat katonai szolgálatra való alkalmasság megállapítására vonatkozó része ellen van helye.
 
 (3) A fellebbezést a másodfokú Bizottság bírálja el.
 
@@ -527,7 +555,7 @@ jogosult bejelenteni az akadályoztatás okát.
 
 (5) Katonai szolgálatteljesítésre tervezett az a hadköteles, akinek a katonai szolgálatra való alkalmasságát megállapították és „katonai szolgálatra alkalmas” fokozatot kapott.
 
-32. § A hadköteles a rá vonatkozó behívhatósági korhatár eléréséig kérheti a katonai szolgálatra való egészségi alkalmasságának újbóli megállapítását, ha egészségi állapotában az alkalmasságát érintő változás állt be. A kérelemhez csatolni kell az egészségi állapot megváltozását tanúsító orvosi igazolást. A kérelmet a Honvédség katonai igazgatási és központi adatfeldolgozó szerve bírálja el az alkalmasságot vizsgáló szakfőorvos javaslatának ismeretében.
+32. § A hadköteles a rá vonatkozó behívhatósági korhatár eléréséig kérheti a katonai szolgálatra való egészségi alkalmasságának újbóli megállapítását, ha egészségi állapotában az alkalmasságát érintő változás állt be. A kérelemhez csatolni kell az egészségi állapot megváltozását tanúsító orvosi igazolást. A kérelmet a katonai igazgatás területi szerve bírálja el az alkalmasságot vizsgáló szakfőorvos javaslatának ismeretében.
 
 33. § A hadkiegészítő központ a katonai szolgálatteljesítés megismételt tervezésére rendeli azt a katonai szolgálatra tervezhető hadkötelest,
 
@@ -555,7 +583,7 @@ jogosult bejelenteni az akadályoztatás okát.
 
 36. § (1) A behívásra, ezen belül a KNBSZ-hez tervezhető létszámot és a katonai szolgálatra való behívás időpontjait a honvédelemért felelős miniszter a hadiállapot kihirdetésének kezdeményezését követően rendeletben állapítja meg, a hadkötelezetteket fogadó honvédségi szervezeteket pedig a Honvéd Vezérkar főnöke jelöli ki.
 
-(2) A hadkötelesek behívása behívóparanccsal vagy bevonulási paranccsal (a továbbiakban együtt: elrendelő okmány) történik, amelyet a katonai igazgatásnak a lakóhely szerint illetékes területi szerve kézbesít, illetve szóban közöl.
+(2) A hadkötelesek behívása behívóparanccsal történik, amelyet a katonai igazgatásnak a lakóhely szerint illetékes területi szerve elektronikus vagy postai úton kézbesít, illetve szóban közöl.
 
 (3) A behívásra kerülőket a katonai igazgatásnak a hadköteles lakóhelye szerint illetékes területi szerve a honvédelmi szervezetek igénye alapján választja ki a katonai szolgálatra alkalmas hadkötelesek közül.
 
@@ -588,19 +616,19 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 
 (3a) Az 1. melléklet 2.10. pontja – az önálló szabályozó szerv és az autonóm államigazgatási szerv kivételével – és az 1. melléklet 2.11. pontja szerinti meghagyásba bevont szerv vagy szervezet által készített meghagyási névjegyzéket a miniszterelnök hagyja jóvá.
 
-(3b) A (3a) bekezdés szerinti meghagyásba bevont szerv vagy szervezet által készített meghagyási névjegyzék szerinti adatokat a 67. § h) pontja szerinti nyilvántartásba a miniszterelnök jóváhagyását követően lehet bevezetni.
+(3b) A (3a) bekezdés szerinti meghagyásba bevont szerv vagy szervezet által készített meghagyási névjegyzék szerinti adatokat a 69/A. § d) pontja szerinti nyilvántartásba a miniszterelnök jóváhagyását követően lehet bevezetni.
 
 (4) A területi védelmi bizottság illetékességi területén az 1. melléklet szerinti III. meghagyási kategória szerint meghagyásba bevont szervnek az jelölhető ki, amely nélkülözhetetlen a honvédelmi igazgatás területi irányításához, vezetéséhez, a területi és helyi közigazgatás működőképességének biztosításához, vagy a lakosság ellátási feladatokhoz, valamint nem tartozik az 1. melléklet szerinti II. meghagyási kategóriába.
 
 (5) A meghagyásba bevont szervek és szervezetek által elvégzendő meghagyási feladatok végrehajtását a Kormány rendeletében foglaltak szerint kell ellenőrizni.
 
-(6) A meghagyásba tartozó munkakörök és a meghagyási névjegyzék egységes ágazati nyilvántartása érdekében a honvédelmért felelős miniszter és a Kormány államigazgatási szerv irányítását, felügyeletét ellátó tagja (ezen alcím tekintetében a továbbiakban: miniszter) megállapodásban rendelkezhet arról, hogy a miniszter irányítása, felügyelete alá tartozó államigazgatási szervek meghagyással érintett munkaköreire, foglalkoztatottjainak névjegyzékére vonatkozó adatokat a miniszter milyen formában szolgáltatja a Honvédség katonai igazgatási és központi adatfeldolgozó szerve számára.
+(6) A meghagyásba tartozó munkakörök és a meghagyási névjegyzék egységes ágazati nyilvántartása érdekében a honvédelmért felelős miniszter és a Kormány államigazgatási szerv irányítását, felügyeletét ellátó tagja (ezen alcím tekintetében a továbbiakban: miniszter) megállapodásban rendelkezhet arról, hogy a miniszter irányítása, felügyelete alá tartozó államigazgatási szervek meghagyással érintett munkaköreire, foglalkoztatottjainak névjegyzékére vonatkozó adatokat a miniszter milyen formában szolgáltatja a Honvédség központi nyilvántartó szerve számára.
 
 #### 24. Bevonulás a katonai szolgálatra
 
-39. § (1) A hadköteles a katonai szolgálat teljesítése céljából köteles a katonai igazgatás hadköteles lakóhelye szerint illetékes területi szerve által kiadott, vagy közölt elrendelő okmányban meghatározott időpontban és helyre – az elrendelő okmányban megjelölt okirataival – bevonulni.
+39. § (1) A hadköteles a katonai szolgálat teljesítése céljából köteles a katonai igazgatás hadköteles lakóhelye szerint illetékes területi szerve által kiadott behívóparancsban meghatározott időpontban és helyre – a behívóparancsban megjelölt okirataival – bevonulni.
 
-(2) A járóképes hadköteles az elrendelő okmányban foglaltaknak akkor is köteles eleget tenni, ha a katonai szolgálatra való bevonulását az időközben keletkezett múló fogyatékossága vagy megbetegedése nehezíti.
+(2) A járóképes hadköteles a behívóparancsban foglaltaknak akkor is köteles eleget tenni, ha a katonai szolgálatra való bevonulását az időközben keletkezett múló fogyatékossága vagy megbetegedése nehezíti.
 
 (3) A hadköteles – járóképtelensége esetén – az akadályoztatását köteles haladéktalanul írásban bejelenteni a katonai igazgatási szervnek.
 
@@ -637,19 +665,19 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 
 42. § (1) A fegyver nélküli katonai szolgálat engedélyezése iránti kérelmet a katonai szolgálatteljesítés tervezésének várható időpontjáról történt tájékoztatástól a tájékoztatásban megjelölt időpontig lehet benyújtani. Ez a határidő jogvesztő.
 
-(2) A kérelmet a Honvédség katonai igazgatási és központi adatfeldolgozó szervének a vezetőjéhez kell benyújtani. Az a hadköteles, akinek a fegyver nélküli katonai szolgálat teljesítésére irányuló kérelmét elutasították, újabb kérelmet nem nyújthat be.
+(2) A kérelmet a katonai igazgatás területi szerve vezetőjéhez kell benyújtani. Az a hadköteles, akinek a fegyver nélküli katonai szolgálat teljesítésére irányuló kérelmét elutasították, újabb kérelmet nem nyújthat be.
 
 (3) A hadköteles fegyver nélküli katonai szolgálatot csak az azt engedélyező végleges határozat alapján teljesíthet.
 
 (4) A fegyver nélküli katonai szolgálatot ellátó hadkötelezett a honvédségi szervezetek fegyveres tevékenységet nem igénylő beosztásában teljesít szolgálatot.
 
-43. § (1) A fegyver nélküli katonai szolgálat teljesítésére vonatkozó engedély iránti kérelmet a Honvédség katonai igazgatási és központi adatfeldolgozó szervének a vezetője annak beérkezésétől számított öt napon belül bírálja el.
+43. § (1) A fegyver nélküli katonai szolgálat teljesítésére vonatkozó engedély iránti kérelmet a katonai igazgatás területi szerve vezetője annak beérkezésétől számított öt napon belül bírálja el.
 
 (2) A fegyver nélküli katonai szolgálat teljesítésére vonatkozó engedély iránti kérelmet el kell utasítani, ha a körülményekből a lelkiismereti okra való hivatkozás alaptalansága megállapítható.
 
 (3) A (2) bekezdés alkalmazása szempontjából lelkiismereti oknak kell tekinteni minden olyan indokot, amely összefügg a kérelmező személyiségét meghatározó valamely lényeges vallási, erkölcsi vagy egyéb természetű meggyőződéssel.
 
-(4) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve vezetőjének határozata ellen fellebbezésnek helye nincs.
+(4) A katonai igazgatás területi szerve vezetőjének határozata ellen fellebbezésnek helye nincs.
 
 (5) A hadköteles a fegyver nélküli katonai szolgálat iránti kérelmet elutasító határozatot a közlésétől számított öt napon belül közigazgatási perben támadhatja meg. A bíróság a keresetet tizenöt napon belül bírálja el. A kereset elbírálásáig a pert kezdeményező hadköteles katonai szolgálatra nem hívható be.
 
@@ -667,6 +695,7 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 - f) akit fontos közérdekből a kötelezettség alól külön eljárásban mentesítenek,
 - g) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló pap, lelkész, rabbi,
 - h) aki a 65. életévét betöltötte.
+- i) aki 18. életévét még nem töltötte be.
 
 (3) ) Az időleges honvédelmi munkakötelezettség nem terjed ki
 
@@ -704,12 +733,12 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 46. § (1) A fővárosi és a vármegyei kormányhivatal (a továbbiakban együtt: kormányhivatal) – a Kormány rendeletében foglaltak szerint – honvédelmi bírságot szab ki, ha
 
 - a) a kötelezett a hadiállapot kihirdetését megelőzően elrendelt járulékos kötelezettségének nem tesz eleget,
-- b) a címzett az elrendelő okmány átvételét, vagy az abban szereplő kötelezettség tudomásul vételét megtagadja,
-- c) a hadkötelezett a katonai igazolványát vagy a hadköteles az elrendelő okmányát másra átruházza, más őrizetére bízza, biztosítékul adja vagy külföldre viszi, az arra jogosult személy felszólítására nem mutatja fel,
+- b) a címzett a behívóparancs, vagy az abban szereplő kötelezettség tudomásul vételét megtagadja,
+- c) a hadkötelezett a katonai igazolványát vagy a hadköteles a behívóparancsát másra átruházza, más őrizetére bízza, biztosítékul adja vagy külföldre viszi, az arra jogosult személy felszólítására nem mutatja fel,
 - d) a honvédelemben közreműködő szerv vagy szervezet a 11. § (3) és (4) bekezdésében foglalt kötelezettségének nem tesz eleget,
 - e) a honvédelmi létfontosságú és a honvédelmi célból kijelölt létfontosságú rendszerelem üzemeltetője a kijelölő hatóság által előírt intézkedéseket nem, vagy nem megfelelően hajtja végre.
 
-(2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a honvédelmi adatkezelés szervének, a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vagy a területi védelmi bizottság honvédelmi elnökhelyettesének a kezdeményezése alapján, a minősített adatok védelmére vonatkozó szabályok figyelembevételével folytatja le.
+(2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a honvédelmi adatkezelés szervének, a központi katonai igazgatási szervnek vagy a területi védelmi bizottság honvédelmi elnökhelyettesének a kezdeményezése alapján, a minősített adatok védelmére vonatkozó szabályok figyelembevételével folytatja le.
 
 (3) A honvédelmi bírság kiszabásával kapcsolatos eljárás a (2) bekezdés alapján kezdeményezésre jogosult indítványára a kormányhivatalhoz történt megérkezésétől számított tizenöt napon belül, de legkésőbb a jogsértés bekövetkezését követő negyvenöt napon belül indítható meg.
 
@@ -731,7 +760,7 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 
 ### V. Fejezet — A HONVÉDELMI SZERVEZET SZEMÉLYI ÁLLOMÁNYÁRA VONATKOZÓ EGYES SZABÁLYOK
 
-49. § Május 21-e a Magyar Honvédelem Napja, a honvédelmi szervezeteknél foglalkoztatottak számára munkaszüneti nap.
+49. § Május 21-e a Magyar Honvédelem Napja, a honvédségi szervezetek személyi állományára kiterjedően munkaszüneti nap.
 
 50. § A honvédelmi szervezet kormánytisztviselője vagy honvédelmi alkalmazottja a 12. §-sal összehangolt módon, a Kormány rendeletében meghatározottak szerint köteles a honvédelmi szakfeladatok ellátásához szükséges képesítés megszerzésére és honvédelmi ismereteinek időszakos bővítésére.
 
@@ -749,9 +778,14 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 
 (3) A honvédelmi szervezetek a honvédelemért felelős miniszter általi kijelölés alapján használatba kapják az ingatlanokat.
 
-(4) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlannal határos, az államháztartás valamely alrendszerébe tartozó jogi személy vagy ennek többségi befolyásával működő a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet tulajdonában vagy vagyonkezelésében lévő közterületi ingatlan honvédelmi érdekkel összefüggő, honvédségi szervezet általi, indokolt és szükséges mértékű használatát a honvédségi szervezet erre irányuló igénybejelentése alapján – a nemzeti vagyonról szóló törvény rendelkezéseivel összhangban – ingyenesen kell biztosítani.
+(4) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlannal határos, az államháztartás valamely alrendszerébe tartozó jogi személy vagy ennek többségi befolyásával működő a polgári perrendtartásról szóló 2011. évi CXCVI. törvény szerinti gazdálkodó szervezet tulajdonában vagy vagyonkezelésében lévő közterületi ingatlan honvédelmi érdekkel összefüggő, honvédségi szervezet általi, indokolt és szükséges mértékű használatát a honvédségi szervezet erre irányuló igénybejelentése alapján – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény rendelkezéseivel összhangban – ingyenesen kell biztosítani.
 
-54. § A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, a nemzeti vagyonról szóló törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő ingatlanon vagy más állami vagyonnak minősülő ingatlanon Magyarországgal a szövetségesi kötelezettségének teljesítésével összefüggésben szövetséges fegyveres erő, nemzetközi szervezet vagy nemzetközi katonai parancsnokság javára szolgalom, vezetékjog, használati jog, valamint osztott tulajdon létesíthető.
+54. § A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, a nemzeti vagyonról szóló törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő ingatlanon
+
+- a) Magyarországgal a szövetségesi kötelezettségének teljesítésével összefüggésben szövetséges fegyveres erő, nemzetközi szervezet vagy nemzetközi katonai parancsnokság, vagy
+- b) honvédelmi érdekkel összefüggésben a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklete szerinti, nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó állami tulajdonban álló gazdasági társaság
+
+javára szolgalom, vezetékjog, használati jog, valamint osztott tulajdon létesíthető.
 
 55. § A honvédelemért felelős miniszter által vezetett minisztérium honvédelmi igazgatásért felelős szerve határozatban, az állam javára – a Vbö. szerinti feladatokon túl – az országvédelmi és a szövetségesi kötelezettségek hatékony ellátása érdekében közérdekű használati jogot alapíthat az olyan ingatlanra,
 
@@ -807,10 +841,11 @@ illeti meg.
 - g) a talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok végrehajtása,
 - h) honvédelmi válsághelyzetben az államhatár ellenőrzésében való részvétel,
 - i) közreműködés a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzet idején az államhatár őrzésében, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtásában, valamint az államhatár rendje ellen irányuló erőszakos cselekmények elhárításában,
-- j) közreműködés – a hatályos nemzetközi normák betartásával – a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, a kimenekítés végrehajtásában,
+- j) közreműködés – a hatályos nemzetközi normák betartásával – a magyar állampolgár vagy más személy életét, testi épségét Magyarország területén kívül fenyegető veszélyek, különösen háborús cselekmények, fegyveres konfliktusok, terrorcselekmények, természeti vagy ipari katasztrófák esetén a bajba jutott személy mentésében, hazatérése biztosításában, a kimenekítés végrehajtásában,
 - k) közreműködés egyes szükségállapoti feladatokban,
 - l) közreműködés a Vbö. szerinti védelmi és válságkezelési feladatokban, különösen a közrendet és a közbiztonságot jelentős mértékben veszélyeztető fenyegetések kezelése és az összehangolt védelmi tevékenység során,
 - m) közreműködés a Kormány döntése alapján a veszélyhelyzettel, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.
+- n) a 6/B. § (2) bekezdése szerinti feladat végrehajtása a hatályos nemzetközi normák betartásával,
 
 (2) A Honvédség a következő feladatokat fegyverhasználati jog nélkül látja el:
 
@@ -847,7 +882,7 @@ illeti meg.
 - a) a Honvédség a rendőrség feladat- és hatáskörét nem vonhatja el,
 - b) a honvéd kizárólag a Kormány rendeletében meghatározott területen – az e törvényben meghatározottak szerint – segítheti a rendőr feladatainak ellátását.
 
-(5) Az 59. § (1) bekezdés j) pontja szerinti feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. E közreműködői feladat akkor rendelhető el, ha a külföldi helyszínre a Honvédség határátlépéssel járó csapatmozgását az erre jogosult engedélyezte, és a terrorizmust elhárító szerv alkalmazása nem elegendő.
+(5) Az 59. § (1) bekezdés j) pontja szerinti feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. E közreműködői feladat akkor rendelhető el, ha a külföldi helyszínre a Honvédség csapatmozgását az erre jogosult engedélyezte, és a terrorizmust elhárító szerv alkalmazása nem elegendő.
 
 (6) Az 59. § (1) bekezdés m) pontja szerinti közreműködés során a honvéd a veszélyhelyzettel, az egészségügyi válsághelyzettel, illetve a befogadással érintett területen az e törvényben meghatározottak szerint segítheti a veszélyhelyzet és az egészségügyi válsághelyzet felszámolásához szükséges feladatok ellátását.
 
@@ -917,45 +952,50 @@ esetén.
 
 (4) A középszintű vezető szervek megnevezésének a parancsnoksági funkción kívül ki kell fejeznie a szaktevékenységet és a honvédségi szervezet jellegét.
 
-#### 37. A katonai igazgatási szervek
+#### 37. A katonai igazgatási szervek és a Honvédség központi nyilvántartó szerve
 
-66. § (1) A katonai igazgatási szervezet központi katonai igazgatási szervből és területi katonai igazgatási szervekből áll. A területi katonai igazgatási szervek a központi katonai igazgatási szerv alárendeltségébe tartoznak.
+66. § (1) A katonai igazgatási szervezet központi katonai igazgatási szervből és területi katonai igazgatási szervekből áll.
 
-(2) A központi katonai igazgatási szerv a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
+(2) A központi katonai igazgatási szerv szakmai irányítása alá tartoznak a területi katonai igazgatási szervek.
 
 (3) A területi katonai igazgatási szervek
 
 - a) a hadkiegészítő és toborzó központok,
 - b) a hadkiegészítő és toborzó irodák.
 
-(4) A hadkiegészítő és toborzó központok a hadkötelezettség fennállása idején hadkiegészítő központokként működnek.
+(4) A hadkiegészítő és toborzó központok a hadiállapot kihirdetésének Kormány általi kezdeményezését követően és a hadkötelezettség fennállása idején hadkiegészítő központokként működnek.
 
-(5) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a hadkiegészítő és toborzó központok az e törvényben meghatározott feladataik vonatkozásában hatósági jogkört gyakorolnak.
+(5) A Honvédség központi nyilvántartó szerve és a hadkiegészítő és toborzó központok az e törvényben meghatározott feladataik vonatkozásában hatósági jogkört gyakorolnak.
 
 #### 38. A katonai igazgatási szervek feladatai
 
-67. § A Honvédség katonai igazgatási és központi adatfeldolgozó szerve ellátja a következő tevékenységekkel összefüggő katonai igazgatási feladatokat:
+67. § A központi katonai igazgatási szerv ellátja a következő tevékenységekkel összefüggő katonai igazgatási feladatokat:
 
-- a) az önkéntes tartalékosok, a kiképzetlen és a kiképzett hadkötelesek nyilvántartásával, a hadkötelezettek katonai szolgálatával kapcsolatos feladatok tervezése, és végrehajtása, a nyilvántartás vezetése,
-- b) a meghagyásba bevont szervezeteknek a meghagyás előkészítésével és végrehajtásával kapcsolatos tevékenységeinek koordinálása,
-- c) a honvédelmi szervezet, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, az Országgyűlési Őrség és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettségek teljesítésének tervezése, végrehajtásának irányítása, felügyelete és ellenőrzése,
-- d) az önkéntes tartalékos állomány behívásának előkészítéséhez és a behívás végrehajtásához szükséges nyilvántartás vezetése, az önkéntes tartalékosok munkáltatóival történő kapcsolattartás,
-- e) az önkéntes tartalékos állomány behívása a honvédelemért felelős miniszter rendeletében meghatározott kivételekkel,
-- f) a Honvédség központi hadköteles-nyilvántartásának vezetése,
-- g) a Honvédség központi toborzó és érdekvédelmi nyilvántartásának vezetése,
-- h) nyilvántartás vezetése a meghagyásba bevont szervekről és a meghagyásra kijelölt munkakörökről, valamint a meghagyásban részesült kiképzett és kiképzetlen hadkötelesekről,
-- i) a veszteség-nyilvántartás vezetése és a nemzetközi egyezmények szerinti tájékoztatás végrehajtása,
-- j) a törvényben meghatározottak szerint a honvédelmi azonosító okmányok kiadása, továbbá a katonák személyi igazoló jeggyel és az 1949. augusztus 12-én kötött Genfi Egyezmények hatálya alá tartozó személyazonossági igazolvánnyal történő ellátása.
+- a) az önkéntes tartalékosok, a kiképzetlen és a kiképzett hadkötelesek, a hadkötelezettek katonai szolgálatával kapcsolatos feladatok tervezése, a végrehajtás irányítása, felügyelete és ellenőrzése,
+- b) Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezetek és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettségek teljesítésének tervezése, végrehajtásának irányítása, felügyelete és ellenőrzése,
+- c) az önkéntes tartalékos állomány behívásának előkészítésével és a behívás végrehajtásával kapcsolatos feladatok irányítása, felügyelete és ellenőrzése, az önkéntes tartalékosok munkáltatóival történő kapcsolattartás,
+- d) a hadkiegészítő és toborzó központok törvényben meghatározott toborzó és érdekvédelmi tevékenységének tervezése, végrehajtásának irányítása, felügyelete és ellenőrzése.
 
 68. § A hadkiegészítő és toborzó központok ellátják a következő katonai igazgatási feladatokat:
 
 - a) békeidőszakban törvény szerinti nyilvántartás vezetése a honvédelmi szervezetek hadi beosztásai feltöltésének előkészítése érdekében,
-- b) hadkötelezettség fennállása idején a hadköteles-nyilvántartás vezetése, a Honvédség hadkötelezettekkel történő kiegészítése, valamint a hadkiegészítő és toborzó irodák ez irányú tevékenységének irányítása,
-- c) a honvédelmi szervezet, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, az Országgyűlési Őrség és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítése érdekében az igénybevétel tervezéséhez szükséges nyilvántartás vezetése,
-- d) részvétel a honvédelmi szervezet, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, az Országgyűlési Őrség és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítésének előkészítésében, irányításában, felügyeletében, a védelmi igazgatási szervek tevékenységének segítése, valamint a hadkiegészítő és toborzó irodák gazdasági és anyagi szolgáltatások biztosításával kapcsolatos tevékenységének irányítása,
-- e) a törvényben meghatározott toborzó, érdekvédelmi és kegyeleti gondoskodással összefüggő tevékenység végzése, irányítása.
+- b) a hadiállapot kihirdetésének Kormány általi kezdeményezését követően és a hadkötelezettség fennállása idején a hadköteles-nyilvántartás vezetése, a Honvédség hadkötelezettekkel történő kiegészítése, valamint a hadkiegészítő és toborzó irodák ez irányú tevékenységének irányítása,
+- c) a Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezetek és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítése érdekében az igénybevétel tervezéséhez szükséges nyilvántartás vezetése,
+- d) részvétel a Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezetek és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítésének előkészítésében, irányításában, felügyeletében, valamint a hadkiegészítő és toborzó irodák gazdasági és anyagi szolgáltatások biztosításával kapcsolatos tevékenységének irányítása,
+- e) a törvényben meghatározott toborzó és érdekvédelmi, valamint kegyeleti gondoskodással összefüggő tevékenység végzése, irányítása.
 
 69. § A hadkiegészítő és toborzó irodák részt vesznek a gazdasági és anyagi szolgáltatások biztosításának előkészítésében, valamint a toborzó, érdekvédelmi és hadkiegészítési szakfeladatok végrehajtásában.
+
+#### 38/A. A Honvédség központi nyilvántartó szerve feladatai
+
+69/A. § A Honvédség központi nyilvántartó szerve ellátja a következő tevékenységekkel összefüggő feladatokat:
+
+- a) a Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezetek és a honvédelemben közreműködő egyéb szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettségek teljesítésének tervezése és végrehajtásának irányítása érdekében központi nyilvántartás vezetése, a hadkiegészítő és toborzó központok által az igénybevétel tervezéséhez szükséges nyilvántartás vezetésének felügyelete és ellenőrzése,
+- b) a Honvédség központi hadköteles-nyilvántartásának vezetése,
+- c) a Honvédség központi toborzó és érdekvédelmi nyilvántartásának vezetése,
+- d) nyilvántartás vezetése a meghagyásba bevont szervekről és a meghagyásra kijelölt munkakörökről, valamint a meghagyásban részesült kiképzett és kiképzetlen hadkötelesekről,
+- e) a veszteség-nyilvántartás vezetése és a nemzetközi egyezmények szerinti tájékoztatás végrehajtása,
+- f) a törvényben meghatározottak szerint a honvédelmi azonosító okmányok kiadása, továbbá a katonák személyi igazoló jeggyel és az 1949. augusztus 12-én kötött Genfi Egyezmények hatálya alá tartozó személyazonossági igazolvánnyal történő ellátása.
 
 ### IX. Fejezet — A SZEMÉLYI ÁLLOMÁNY
 
@@ -990,11 +1030,13 @@ tartoznak.
 
 (4) Az önkéntes tartalékos rendszer békeidőszaki működését a Kormány rendeletében meghatározottak szerint munkáltatói ösztönző-kompenzációs rendszer támogatja.
 
-(5) Az 1. melléklet szerinti I. kategóriába sorolt személyekkel, valamint a II. kategóriába sorolt szervek, szervezetek által meghagyásra kijelölt munkakört betöltő foglalkoztatottal a munkakör betöltésének időtartama alatt a honvédelmi szervezet – törvény eltérő rendelkezése hiányában – nem létesíthet, illetve nem tarthat fenn önkéntes tartalékos szolgálati jogviszonyt.
+(5)
 
-(6) Az (5) bekezdéstől eltérően a meghagyásba kijelölt munkakört betöltő személy kérelmére, munkáltatójának javaslata alapján a honvédelemért felelős miniszter kivételesen, honvédelmi érdekből hozzájárulhat az önkéntes tartalékos szolgálati viszony létesítéséhez. A kérelmet a Honvédség katonai igazgatási és központi adatfeldolgozó szervéhez kell benyújtani, amely azt véleményével együtt szolgálati úton terjeszti fel a honvédelemért felelős miniszterhez. E személy, amíg a meghagyásba kijelölt munkakört betölti, a különleges jogrend kihirdetését követően katonai szolgálatra nem hívható be. Ha a különleges jogrend kihirdetésekor e személy tényleges szolgálatot teljesít, a tényleges szolgálatból azonnal el kell bocsátani.
+(6) Az 1. melléklet szerinti I. kategóriába sorolt személy, valamint a II. kategóriába sorolt szervek, szervezetek által meghagyásra kijelölt munkakört betöltő személy, amíg a meghagyásba kijelölt munkakört betölti, a hadiállapot kihirdetését követően katonai szolgálatra nem hívható be. Ha a hadiállapot kihirdetésekor e személy tényleges szolgálatot teljesít, a tényleges szolgálatból azonnal el kell bocsátani.
 
 (7) Különleges jogrend idején önkéntes vállalás alapján, kizárólag a különleges jogrend időtartamára minden magyarországi lakóhellyel rendelkező 18. életévét betöltött magyar állampolgár jelentkezhet katonai szolgálatra.
+
+(8) Az önkéntes tartalékos szolgálatteljesítését behívóparancs rendeli el. A behívóparancs kiadása és visszavonása, valamint ezzel összefüggésben a szolgálathalasztással kapcsolatos eljárást az állományilletékes honvédségi szervezet hatósági jogkörben látja el.
 
 ### X. Fejezet — A HONVÉDSÉGI SZERVEZET IRÁNYÍTÁSA ÉS VEZETÉSE
 
@@ -1262,6 +1304,12 @@ a Kormány döntése alapján van lehetőség.
 
 - a) a közvetlen fenyegetéssel időben, térben, frekvenciában arányos fellépés a cél, indokolatlan zavar okozása nem megengedett,
 - b) biztosítani kell az összhangot a kapcsolódó műveleti, nemzetbiztonsági, diplomáciai érdekekkel és törekvésekkel.
+
+#### 49/A. A Honvédség különleges műveleti erőire vonatkozó szabályok
+
+90/A. § (1) A Kormány 6/B. § (2) bekezdése szerinti döntésének végrehajtása érdekében a Honvédség különleges műveleti erői katonai művelet végrehajtása során a kijelölt műveleti területen a tevékenységüket önállóan, más honvédelmi szervezet közreműködésével, vagy nemzetbiztonsági szolgálattal, illetve a rendőrség terrorizmust elhárító szervével közösen hajtják végre.
+
+(2) A nemzetbiztonsági szolgálattal, illetve a rendőrség terrorizmust elhárító szervével közösen tervezett műveletekre vonatkozó információk megosztása a Honvéd Vezérkar főnöke útján, és az érintett országos parancsnokkal együttesen szabályozott módon valósul meg.
 
 ### XII. Fejezet — FEGYVER ÉS MÁS KÉNYSZERÍTŐ ESZKÖZ HASZNÁLATA
 
@@ -1573,7 +1621,7 @@ rendelhető el.
 - 10. az önkéntes tartalékos rendszer munkáltatói ösztönző-kompenzációs elemének részletes szabályait,
 - 11. a tűzszerészeti mentesítési feladatok ellátásával összefüggő szabályokat,
 - 12. a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei kijelölésének eljárási szabályait és az eljáró hatóságot,
-- 13. a határátlépéssel járó csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány hatáskörébe tartozó határátlépéssel járó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat,
+- 13. a csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány, valamint a honvédelemért felelős miniszter hatáskörébe tartozó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat, valamint a közjogi engedélyt nem igénylő csapatmozgásokat,
 - 14.
 - 15. a honvédelmi létfontosságú rendszerelemek azonosításának, kijelölésének és védelmének szabályait,
 - 16. a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés követelményeit,
@@ -1582,7 +1630,7 @@ rendelhető el.
 - 19. a fegyveres erők kiképzéseinek a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanon kívüli végrehajtásának szabályait,
 - 20. a meghagyással kapcsolatos eljárásnak és a meghagyásba bevont szervek besorolásának a szabályait,
 - 21.
-- 22. a katonai igazgatási szervek elnevezését és illetékességi területét,
+- 22. a katonai igazgatási szervek és a Honvédség központi nyilvántartó szerve elnevezését és illetékességi területét, valamint szakmai irányítási jogkörét,
 - 23. a behívási akadályokat,
 - 24. a Honvédség egészségügyi válsághelyzettel összefüggő feladatokban történő közreműködésének tartalmát, valamint
 - 25. a Honvédség térítés ellenében végezhető tevékenységeinek részletes szabályait.
@@ -1612,7 +1660,7 @@ rendelhető el.
 - 21. a Honvédséghez köthető megjelöléseket és azok használata engedélyezésének szabályait,
 - 22. a társadalom honvédelmi felkészítésének és a honvédelmi tudatosság erősítésének egyes feladatait,
 - 23. a hadkötelesek katonai szolgálatra behívásának, és a hadkötelezettek katonai szolgálatának, valamint leszerelésének rendjét,
-- 24. az elrendelő okmány kibocsájtásának feltételeit, tartalmi elemeit, valamint alkalmazási körét,
+- 24. a behívóparancs kibocsájtásának feltételeit, tartalmi elemeit, valamint alkalmazási körét,
 - 25. a fegyver nélküli katonai szolgálat teljesítésének engedélyezéséhez szükséges formanyomtatványokat, valamint
 - 26. azokat a honvédelmi érdekhez közvetlenül kapcsolódó tevékenységet folytató gazdasági társaságokat, amelyek tekintetében a 47. §-ban meghatározott jogköröket gyakorolja.
 - 27. a címzetes ezredes és a címzetes alezredes rendfokozat adományozásának rendjét, feltételeit, a címzetes ezredes, címzetes alezredes feladatait, jogait és kötelezettségeit.
@@ -1638,8 +1686,8 @@ rendelhető el.
 
 113. § E törvény
 
-- a) I. Fejezete az Alaptörvény XXXI. cikk (3)–(6) bekezdése és 45. cikk (5) bekezdése,
-- b) 4–6. §-a, 8. § (1)–(5) és (7) bekezdése, 13. §-a, 14. §-a, 17. §-a, 11/A. alcíme, 18. §-a, VII. Fejezete, VIII. Fejezete, 72–79. §-a, XI–XIII. Fejezete, XV. Fejezete és XVI. Fejezete az Alaptörvény 45. cikk (5) bekezdése,
+- a) I. Fejezete az Alaptörvény XXXI. cikk (3)–(6) bekezdése, 45. cikk (5) bekezdése és 47. cikke,
+- b) 4–6/E. §-a, 8. § (1)–(5) és (7) bekezdése, 13. §-a, 14. §-a, 17. §-a, 11/A. alcíme, 18. §-a, VII. Fejezete, VIII. Fejezete, 72–79. §-a, XI–XIII. Fejezete, XV. Fejezete és XVI. Fejezete az Alaptörvény 45. cikk (5) bekezdése és 47. cikke,
 - c) III. Fejezete és 1. melléklete az Alaptörvény XXXI. cikk (3)–(5) bekezdése,
 - d) 54. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése,
 - e) 110. §-a és 118. § b) pontja az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, 52. cikk (5) bekezdése és 54. cikk (8) bekezdése,

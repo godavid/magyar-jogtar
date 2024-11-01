@@ -532,6 +532,8 @@ helyettesíti.
 - b) a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti – nagykorú – hozzátartozójának természetes személyazonosító adatait;
 - c) egyenesági rokona nagykorú testvérének természetes személyazonosító adatait;
 - d) testvére nagykorú egyenesági rokonának természetes személyazonosító adatait.
+- e) saját háztartásában élő nagykorú személy természetes személyazonosító adatait,
+- f) nagykorú unokatestvére és mostohatestvére természetes személyazonosító adatait.
 
 (3e) Az Igazgatóság tevékenységét, az ellenőrzések tervezését és végrehajtását az audithatóság rendszeraudit-jelentés keretében hitelesíti.
 
@@ -638,6 +640,9 @@ való hozzáférést.
 - c) a Magyarország Helyreállítási és Ellenállóképességi Tervével kapcsolatosan a Kormány rendeletében meghatározott feladatokat,
 - d) a Kormány rendeletében meghatározott programok vonatkozásában az irányító hatósági feladatokat,
 - e) a nemzetközi együttműködési programok végrehajtásával összefüggő, a Kormány rendeletében meghatározott feladatokat,
+- f) a jogszabályban ráruházott egyéb feladatokat.
+
+(2a) A Nemzeti Fejlesztési Központ kormányrendeletben meghatározottak szerint elláthatja a közbeszerzésekért felelős miniszter közbeszerzésekért való felelősségi körébe tartozó, a Kormány rendeletében meghatározott feladatokat.
 
 (3) A Kormány rendeletében meghatározott programok tekintetében a (2) bekezdésben meghatározott feladatokat vagy azoknak a Kormány rendeletében meghatározott részét a (2) bekezdésben foglaltaktól eltérően a Kormány rendeletében kijelölt kormányzati igazgatási szerv látja el.
 
@@ -653,6 +658,8 @@ való hozzáférést.
 
 (5) A Nemzeti Fejlesztési Központ önálló szervezeti és működési szabályzat szerint működik, amelyet a 33/B. § (1) bekezdése szerinti államtitkár javaslatára az európai uniós források felhasználásáért felelős miniszter normatív utasításban ad ki. A Nemzeti Fejlesztési Központ feladatainak ellátásához és működéséhez szükséges – a jogalkotásról szóló 2010. évi CXXX. törvény 23. § (4) bekezdése szerinti normatív utasításban kiadandó – szabályzatokat a 33/B. § (1) bekezdése szerinti államtitkár javaslatára az európai uniós források felhasználásáért felelős miniszter adja ki.
 
+(5a) A Nemzeti Fejlesztési Központ feladatainak ellátásához és működéséhez szükséges – az (5) bekezdés hatálya alá nem tartozó – szabályzatokat a 33/B. § (1) bekezdése szerinti államtitkár adja ki. A Nemzeti Fejlesztési Központ közszolgálati szabályzata szempontjából a Nemzeti Fejlesztési Központ a 280. § (1) bekezdés 20. pont b) alpontja szerinti kormányzati igazgatási szervnek minősül, azzal, hogy a közszolgálati szabályzatot a 33/B. § (1) bekezdése szerinti államtitkár adja ki.
+
 (6) A Nemzeti Fejlesztési Központ a Harmadik Rész és a 279. § (4) bekezdése alkalmazásában önálló kormányzati igazgatási szervnek minősül.
 
 (7) A Nemzeti Fejlesztési Központ a Magyarország központi költségvetéséről szóló törvény Uniós fejlesztések fejezete tekintetében fejezetet irányító szervi jogállással bír. A Nemzeti Fejlesztési Központ költségvetése a Magyarország központi költségvetéséről szóló törvény Uniós fejlesztések fejezetén belül önálló címet képez.
@@ -661,7 +668,7 @@ való hozzáférést.
 
 (9) A Nemzeti Fejlesztési Központ önálló gazdasági szervezettel rendelkezik.
 
-(10) A Nemzeti Fejlesztési Központ tekintetében a jogszabályban költségvetési szerv vezetőjének címzett hatásköröket a 33/B. § (1) bekezdése szerinti államtitkár gyakorolja.
+(10)
 
 #### 33/D. § [A Nemzeti Fejlesztési Központ vezetője és vezetőhelyettese]
 
@@ -671,19 +678,24 @@ való hozzáférést.
 
 (3) A 33/B. § (1) bekezdése szerinti államtitkár
 
-- a) az irányító hatósági és nemzeti hatósági feladatok vonatkozásában, továbbá a 33/C. § (6) bekezdés szerinti irányítási feladatok tekintetében nem utasítható,
-- b) e törvény eltérő rendelkezése hiányában nem gyakorolhat a Nemzeti Fejlesztési Központot irányító minisztert megillető hatáskört, nem helyettesítheti a Nemzeti Fejlesztési Központot irányító minisztert, a Nemzeti Fejlesztési Központot irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében, a Nemzeti Fejlesztési Központot irányító miniszter hatáskörébe tartozó ügyekben kiadmányozási joggal nem ruházható fel, és nem gyakorolhat irányítási hatáskört a Nemzeti Fejlesztési Központon túl a Nemzeti Fejlesztési Központot irányító miniszter által vezetett minisztérium szervezeti egysége, foglalkoztatottja tekintetében.
+- a) az irányító hatósági és nemzeti hatósági feladatok vonatkozásában, továbbá a 33/C. § (7) bekezdése szerinti irányítási feladatok tekintetében nem utasítható,
+- b) jogszabály eltérő rendelkezése hiányában, illetve a 33/B. § (2a) bekezdése kivételével
+  - ba) nem gyakorolhat az európai uniós források felhasználásáért felelős minisztert megillető hatáskört,
+  - bb) nem helyettesítheti a Nemzeti Fejlesztési Központot irányító minisztert,
+  - bc) az európai uniós források felhasználásáért felelős miniszter által átruházott hatáskörben nem járhat el a miniszter nevében,
+  - bd) az európai uniós források felhasználásáért felelős miniszter hatáskörébe tartozó ügyekben kiadmányozási joggal nem ruházható fel,
+- c) nem gyakorolhat irányítási hatáskört a Nemzeti Fejlesztési Központon túl az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium szervezeti egysége, foglalkoztatottja tekintetében.
 
 (4) A 33/B. § (1) bekezdése szerinti államtitkár
 
-- a) javaslatot tesz a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatára és a Nemzeti Fejlesztési Központ feladatainak ellátásához szükséges egyéb szabályzatokra,
+- a) javaslatot tesz a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatára és a Nemzeti Fejlesztési Központ feladatainak ellátásához szükséges egyéb – a 33/C. § (5) bekezdése szerinti – szabályzatokra,
 - b) a 81. § (2) és (3) bekezdésében foglaltak figyelembevételével gyakorolja a Nemzeti Fejlesztési Központnál foglalkoztatottak tekintetében a 81. § (1) bekezdése szerinti munkáltatói jogokat,
 - c) a Nemzeti Fejlesztési Központ álláshelyeivel kapcsolatosan – ideértve a Nemzeti Fejlesztési Központ rendelkezésére bocsátott központosított álláshelyállományba tartozó álláshelyeket is – közvetlenül gyakorolja a kormányzati igazgatási szerv vezetőjét megillető hatásköröket,
 - d) közvetlenül kezdeményezheti a kormányzati személyügyi igazgatásra kijelölt szerv vezetőjénél a 279. § (5) bekezdése szerinti mentesítést,
 - e) meghatározza a Nemzeti Fejlesztési Központ személyi állományára vonatkozó teljesítményértékelés rendszerét és szempontjait,
 - f) az irányadó jogi és a rendelkezésére álló költségvetési keretek között dönt a Nemzeti Fejlesztési Központnál foglalkoztatottak illetményéről, teljesítménydíjazásáról és az illetményen felüli juttatásairól,
 - g) képviseli a Nemzeti Fejlesztési Központot, és
-- h) ellátja a jogszabályban ráruházott egyéb feladatokat.
+- h) a Nemzeti Fejlesztési Központ tekintetében gyakorolja a jogszabályban a költségvetési szerv vezetőjének címzett hatásköröket.
 
 (5) Az (1) és (4) bekezdés szerinti feladatai ellátásában a 33/B. § (1) bekezdése szerinti államtitkárt a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatában meghatározottak szerint a Nemzeti Fejlesztési Központ kijelölt helyettes államtitkára vagy a feladatkörében érintett főigazgató helyettesíti.
 
@@ -714,7 +726,7 @@ való hozzáférést.
 
 #### 33/F. § [A Nemzeti Fejlesztési Központ foglalkoztatottjai]
 
-(1) A Nemzeti Fejlesztési Központnál foglalkoztatottak feladataikat – a 33/B. § (1) bekezdése szerinti államtitkár kivételével – kormányzati szolgálati jogviszonyban vagy munkaviszonyban látják el.
+(1) A Nemzeti Fejlesztési Központnál foglalkoztatottak feladataikat – a 33/B. § (1) bekezdése szerinti államtitkár és az államtitkár kabinetfőnöke kivételével – kormányzati szolgálati jogviszonyban vagy munkaviszonyban látják el.
 
 (2) A Nemzeti Fejlesztési Központnál foglalkoztatott kormánytisztviselők és munkavállalók csak a 33/B. § (1) bekezdése szerinti államtitkár, a 33/E. § (2) bekezdése szerinti helyettes államtitkár, valamint a Nemzeti Fejlesztési Központnál foglalkoztatott szakmai felsővezetők és szakmai vezetők által utasíthatóak.
 
@@ -724,13 +736,27 @@ való hozzáférést.
 
 - a) a teljesítménydíjra a kormánytisztviselő a 134. § (1) bekezdése szerint megállapított illetményen felül, a munkáltatói jogkör gyakorlója által kiállított igazolás alapján – az igazolásban megállapított mértékben – jogosult,
 - b) a teljesítménykövetelmények százszázalékos teljesítése esetén kifizetésre kerülő teljesítménydíj mértéke nem haladhatja meg a 134. § (1) bekezdés szerint megállapított illetmény harminc százalékát, és
-- c) a 134. § (1) bekezdése alapján megállapított illetmény és a teljesítménydíj együttes összege nem lehet magasabb, mint a kormánytisztviselő által betöltött álláshely besorolási fokozatához tartozó illetménysáv felső határa.
+- c) a 134. § (1) bekezdése alapján megállapított illetmény és a teljesítménydíj együttes összege nem lehet magasabb, mint a kormánytisztviselő által betöltött álláshely besorolási fokozatához tartozó illetménysáv felső határa, a vezető-kormányfőtanácsosi, osztályvezetői és főosztályvezetői álláshelyen pedig az illetménysáv felső határának százharminc százaléka.
 
 (5) Teljesítménydíjazás alkalmazása esetén a 33/B. § (1) bekezdése szerinti államtitkár teljesítménykövetelményt állapít meg, amiről – annak alkalmazását legalább 15 nappal megelőzően – írásban tájékoztatja a kormánytisztviselőt.
 
 (6) A teljesítménydíjra – a (3)–(5) bekezdésben foglaltak figyelembevételével – az illetményre vonatkozó szabályokat kell alkalmazni.
 
 (7) A Nemzeti Fejlesztési Központnál foglalkoztatottak az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) szerint vagyonnyilatkozatot tesznek.
+
+(7a) A Nemzeti Fejlesztési Központnál foglalkoztatottak tekintetében a – 33/D. § (4) bekezdésében foglalt feladatkörében eljáró – 33/B. § (1) bekezdése szerinti államtitkár vizsgálat keretében
+
+- a) adatot igényelhet a bűnügyi nyilvántartási rendszerből
+  - aa) a kormányzati szolgálati jogviszony fennállása alatt, arra vonatkozóan, hogy a foglalkoztatott büntetlen előéletű és vele szemben a 82. § (2)–(4) bekezdésében,
+  - ab) a munkaviszony fennállása alatt, arra vonatkozóan, hogy a foglalkoztatott büntetlen előéletű és vele szemben a 279. § (6) és (7) bekezdésben
+
+meghatározott kizáró okok nem állnak fenn,
+
+- b) a kormányzati szolgálati jogviszony, a munkaviszony létesítése előtt vagy ezek fennállása alatt adatszolgáltatást kérhet
+  - ba) a részére benyújtott, végzettséget és nyelvismeretet igazoló okiratok hitelességének ellenőrzése céljából az oktatási nyilvántartás működéséért felelős szervtől, az okiratot kiállító oktatási intézménytől, továbbá
+  - bb) a 95. § (5)–(7) bekezdésében foglaltak ellenőrzése céljából a más foglalkoztatásra irányuló jogviszony fennállásának tényéről az állami adó- és vámhatóságtól.
+
+(7b) A (7a) bekezdés alapján megismert személyes adatokat a Nemzeti Fejlesztési Központ a jogviszony létesítéséről meghozott döntés időpontjáig vagy – a jogviszony létesítése és fennállása esetén – a jogviszony megszűnéséig, illetve megszüntetéséig kezeli.
 
 (8) A Nemzeti Fejlesztési Központnál foglalkoztatottak kötelesek a feladatkörük ellátása során tudomásukra jutott minden, törvény által védett titkot, így különösen üzleti titkot megőrizni.
 
@@ -1159,6 +1185,8 @@ A kormányzati igazgatási szervnek a jogosultságkezelési nyilvántartásban s
 
 (2) A kormányzati személyügyi igazgatásra kijelölt szerv az e törvény szerinti feladatai ellátásához jogosult a közszolgálati alapnyilvántartásban szereplő adatok kezelésére.
 
+(3) A kormányzati személyügyi igazgatásra kijelölt szerv az e törvény szerinti feladatai ellátásához – a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott felelősségi körében – a Kormányzati Személyügyi Döntéstámogató Rendszert használja.
+
 #### 62. § [A kormányzati személyügyi igazgatási feladatok]
 
 (1) A kormányzati személyügyi igazgatásra kijelölt szerv kezeli a központosított álláshely-állományt.
@@ -1375,7 +1403,7 @@ A kormányzati igazgatási szervnek a jogosultságkezelési nyilvántartásban s
 
 (10) Az írásbeli jognyilatkozat akkor minősül közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza. Erről jegyzőkönyvet kell felvenni.
 
-(11) A kinevezési okmánynak a beosztási okirat részét és annak módosítását, a jogviszony megszüntetésével kapcsolatos jognyilatkozatot, az összeférhetetlenség megszüntetésére irányuló felszólítást és a fizetési felszólítást a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kell kiadmányozni.
+(11) A kinevezési okmánynak a beosztási okirat részét és annak módosítását, a jogviszony megszűnésével és megszüntetésével kapcsolatos jognyilatkozatot, az összeférhetetlenség megszüntetésére irányuló felszólítást és a fizetési felszólítást a munkáltatói jogkör gyakorlója részéről elektronikusan, legalább fokozott biztonságú elektronikus aláírással kell kiadmányozni.
 
 (12) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje.
 
@@ -1810,7 +1838,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (5) Az ösztöndíjas jogviszonyra
 
-- a) megfelelően alkalmazni kell e törvény 64. §-át, 66–68. §-át, 70–75. §-át, 86. § (2) bekezdés a), f) és g) pontját, 90. § (1) bekezdését, 91. § (1) bekezdés b), c), e)–j) pontját és (2)–(5) bekezdését, 93. § (1) és (2) bekezdését, 94. §-át, 98. §-át, 115. §-át, 118. § (3) bekezdését, 119. § (1), (3) és (5) bekezdését, (6) bekezdés a) pontját és a (11) bekezdését, 120. §-át, 121. § (1), (4) és (6) bekezdését, 127. §-át, 128. § (1) és (6)–(8) bekezdését, 129. § (1), (10)–(12), (16)–(17) és (21)–(22) bekezdését, 133. § (1) bekezdés a) pontjából a rendes munkaidő nyilvántartására vonatkozó szabályokat és az (1) bekezdés c) pontját, 135. § (3) bekezdés a) és d) pontját, 136. és 137. §-át, 139. §-át, 155. §-át, 156/A. §-át, 157/A. §-át, 164. § (1)–(11) és (20)–(28) bekezdését, 165. §-át,
+- a) megfelelően alkalmazni kell e törvény 64. §-át, 66–68. §-át, 70–75. §-át, 86. § (2) bekezdés a), f) és g) pontját, 90. § (1) bekezdését, 91. § (1) bekezdés b), c), e)–j) pontját és (2)–(5) bekezdését, 93. § (1) és (2) bekezdését, 94. §-át, 98. §-át, 115. §-át, 118. § (3) bekezdését, 119. § (1), (3) és (5) bekezdését, (6) bekezdés a) pontját és a (11) bekezdését, 120. §-át, 121. § (1), (4) és (6) bekezdését, 127. §-át, 128. § (1) és (6)–(8) bekezdését, 129. § (1), (10)–(12), (16)–(17) és (21)–(22) bekezdését, 133. § (1) bekezdés a) pontjából a rendes munkaidő nyilvántartására vonatkozó szabályokat és az (1) bekezdés c) pontját, 135. § (3) bekezdés a) és d) pontját, 136. és 137. §-át, 139. §-át, 155. §-át, 156/A. §-át, 157/A. §-át, 164. § (1)–(11) és (20)–(28) bekezdését, 165. §-át, 167–169. §-át,
 - b) ahol e törvény
   - ba) illetményt említ, azon ösztöndíjat;
   - bb) kinevezést vagy kinevezési okmányt említ, azon ösztöndíjas jogviszonyt létrehozó szerződést;
@@ -3951,7 +3979,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (1) A politikai felsővezető politikai szolgálati jogviszonyára – ha az Alaptörvény, valamint e törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
-(2) A politikai felsővezető politikai szolgálati jogviszonyára – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni a 79. §, a 80. § (2) bekezdésének, a 81. §, a XII. fejezet, a 82. § (2)–(4) bekezdése, a 86. § (1)–(6) bekezdése és a 89. § (1) és (2) bekezdése kivételével a XIV. fejezet, a 92. §, a 95–97. §, a XVI. fejezet, a 115. § és a 117. § kivételével a XVII. fejezet, a 124. §, a 128. § (1) és (3)–(7) bekezdésének, a 134. § (1)–(3) és (5) bekezdésének, a 144–145. §, a 149. §, a 151. §, a 158. §, a 166. §, valamint a XXII. és XXIII. fejezet rendelkezéseit.
+(2) A politikai felsővezető politikai szolgálati jogviszonyára – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni a 71. § (11) bekezdése, a 79. §, a 80. § (2) bekezdésének, a 81. §, a XII. fejezet, a 82. § (2)–(4) bekezdése, a 86. § (1)–(6) bekezdése és a 89. § (1) és (2) bekezdése kivételével a XIV. fejezet, a 92. §, a 95–97. §, a XVI. fejezet, a 115. § és a 117. § kivételével a XVII. fejezet, a 124. §, a 128. § (1) és (3)–(7) bekezdésének, a 134. § (1)–(3) és (5) bekezdésének, a 144–145. §, a 149. §, a 151. §, a 158. §, a 166. §, valamint a XXII. és XXIII. fejezet rendelkezéseit.
 
 #### 182. § [A politikai felsővezetők összeférhetetlensége]
 
@@ -5661,17 +5689,9 @@ Az egyes közigazgatási tárgyú törvények módosításáról szóló 2023. �
 
 azzal, hogy a jogutódlásra – az (5)–(12) bekezdésben foglaltak figyelembevételével – a 90/A. §-t kell alkalmazni.
 
-(5) 2024. augusztus 31-ig a Nemzeti Fejlesztési Központ
+(5)
 
-- a) kormánytisztviselői számára ki kell állítani az új beosztási okiratot,
-- b) munkavállalói új munkaszerződését meg kell kötni.
-
-(6) A Nemzeti Fejlesztési Központnál foglalkoztatott
-
-- a) kormánytisztviselő kormányzati szolgálati jogviszonyára a 2024. július 31. napján érvényes kinevezést,
-- b) munkavállaló munkaviszonyára a 2024. július 31. napján érvényes munkaszerződést
-
-kell alkalmazni az (5) bekezdés szerinti új beosztási okirat, illetve munkaszerződés alkalmazásának kezdőnapjáig.
+(6)
 
 (7) Az érintett jogviszonyát a próbaidő, a végkielégítésre és a szolgálati elismerésre való jogosultság szempontjából folyamatosnak kell tekinteni.
 
