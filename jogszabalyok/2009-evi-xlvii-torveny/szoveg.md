@@ -1011,13 +1011,13 @@ részére tett nyilatkozatával tiltakozzon.
 - a) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a bűntettesek nyilvántartásában, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában, valamint a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok,
 - b) az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban a honosítás és visszahonosítás törvényi feltételeinek vizsgálata során a bűntettesek nyilvántartásában és a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok.
 
-(5) A Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelezettség feltételei fennállásának megállapítása céljából a bűnügyi nyilvántartási rendszerből a következő adatokat jogosult átvenni:
+(5) A Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek a hadkötelezettség feltételei fennállásának megállapítása céljából a bűnügyi nyilvántartási rendszerből a következő adatokat jogosultak átvenni:
 
-- a) a 11. § (1) bekezdés c) pont ca) és cb) alpontjában e), f), h), i), j pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
+- a) a 11. § (1) bekezdés c) pont ca) és cb) alpontjában e), f), h), i), j) pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
 - b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
 - c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 
-(5a) A Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve az (5) bekezdés alapján történő adatátvétel során megkapott adatokat a behívhatóságot befolyásoló katonai igazgatási döntés meghozataláig kezeli, ezt követően az adatok törlésre kerülnek.
+(5a) A Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek az (5) bekezdés alapján történő adatátvétel során megkapott adatokat a behívhatóságot befolyásoló katonai igazgatási döntés meghozataláig kezelik, ezt követően az adatok törlésre kerülnek.
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása, továbbá az ellátási és integrációs feladatai ellátása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -1072,7 +1072,7 @@ részére tett nyilatkozatával tiltakozzon.
 - a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, vagy az arra törvényben kijelölt nemzetbiztonsági szolgálat a kifogástalan életvitel ellenőrzése céljából,
 - b) a rendőrség a 68. § (2) bekezdés a), b), d)–h) és j) pontjában meghatározott célból,
 - c) a köztársasági elnök a 68. § (4) bekezdés a) pontjában meghatározott célból, illetve
-- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a 68. § (5) bekezdésében meghatározott célból
+- d) a Magyar Honvédség központi nyilvántartó szerve, valamint a területi katonai igazgatási szervek a 68. § (5) bekezdésében meghatározott célból
 
 közvetlen hozzáféréssel adatokat kíván átvenni a bűnügyi nyilvántartási rendszerből, és az a személy, akire az adatkérés vonatkozik, magyar állampolgár, a bűnügyi nyilvántartó szerv biztosítja az érintett személyazonosító adatainak elektronikus úton történő összehasonlítását a tagállami ítéletek nyilvántartásában kezelt adatokkal.
 
@@ -1347,7 +1347,7 @@ lehet benyújtani.
 - a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, vagy az arra törvényben kijelölt nemzetbiztonsági szolgálat a kifogástalan életvitel ellenőrzése céljából,
 - b) a rendőrség a 68. § (2) bekezdés a), b), d)–h) és j) pontjában meghatározott célból,
 - c) a köztársasági elnök a 68. § (4) bekezdés a) pontjában meghatározott célból, illetve
-- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a 68. § (5) bekezdésében meghatározott célból
+- d) a Magyar Honvédség központi nyilvántartó szerve, valamint a területi katonai igazgatási szervek a 68. § (5) bekezdésében meghatározott célból
 
 közvetlen hozzáféréssel adatokat kíván átvenni a bűnügyi nyilvántartási rendszerből, és a 76/E. § alapján annak tényéről kap tájékoztatást, hogy az érintett szerepel a tagállami ítéletek nyilvántartásában, kérheti, hogy a bűnügyi nyilvántartó szerv a 76/B. §-ban meghatározottak szerint intézkedjen a megfeleltetési eljárás lefolytatása érdekében.
 

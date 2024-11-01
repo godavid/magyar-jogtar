@@ -615,7 +615,7 @@ van lehetőség.
 22. § E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:
 
 - a) az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás vezetésével összefüggésben;
-- b) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a katonai igazgatás illetékes területi szervei és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
+- b) a Magyar Honvédség központi nyilvántartó szerve, a területi katonai igazgatási szervek és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
 - c) a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, a kábítószerekkel és pszichotrop anyagokkal, személy- és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz;
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
 - e) a központi menekültügyi szerv a törvényben meghatározott feladatai ellátásához;
@@ -974,7 +974,7 @@ foglalt adatokat tartalmazza.
 
 (12) A polgár a személyazonosságát a személyazonosító igazolványon túl az érvényes útlevéllel vagy kártyaformátumú vezetői engedéllyel igazolhatja. Személyazonosítás céljából – jogszabályban meghatározott kivételekkel – a polgár nem kötelezhető más okmány bemutatására.
 
-(12a) A hadköteles katona a személyazonosságát a katonai szolgálatteljesítési ideje alatt a Honvédség katonai igazgatási és központi adatfeldolgozó szerve által a hadköteles katonák részére kibocsátott katonai igazolvánnyal igazolja. Személyazonosítás céljából a hadköteles katona nem kötelezhető más okmány bemutatására.
+(12a) A hadköteles katona a személyazonosságát a katonai szolgálatteljesítési ideje alatt a Magyar Honvédség központi nyilvántartó szerve által a hadköteles katonák részére kibocsátott katonai igazolvánnyal igazolja. Személyazonosítás céljából a hadköteles katona nem kötelezhető más okmány bemutatására.
 
 (13) A cselekvőképtelen kiskorú polgár részére a személyazonosító igazolványt – a (13a) bekezdésben meghatározott kivétellel – a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes kiskorú és a cselekvőképességében részlegesen korlátozott nagykorú jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
 

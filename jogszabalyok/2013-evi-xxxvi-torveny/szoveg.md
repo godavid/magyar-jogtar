@@ -884,7 +884,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 kapcsolatos adatfeldolgozási feladatok ellátásával, kivéve, ha e korlátozás alól a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak szerint egyedi felmentést kap.
 
-(4) A Nemzeti Választási Iroda a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § l) pontjában és 20. § (1) bekezdés e) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+(4) A Nemzeti Választási Iroda a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § l) pontjában és 20. § (1) bekezdés e) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 ### IV. Fejezet — A SZAVAZÓKÖRÖK
 

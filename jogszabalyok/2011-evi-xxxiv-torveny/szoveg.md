@@ -53,7 +53,7 @@ ha vele magyarországi közös háztartásban él.
 
 #### 3. A külföldi fegyveres erő, a nemzetközi katonai parancsnokság és állományának nyilvántartása
 
-4. § (1) A Magyar Honvédség központi adatfeldolgozó szerve nyilvántartást vezet
+4. § (1) A Magyar Honvédség központi nyilvántartó szerve nyilvántartást vezet
 
 - a) az Észak-atlanti Szerződés tagállamainak és a Békepartnerségben résztvevő államok fegyveres erői Magyarország területén tervezetten legalább három hónapig szolgálati céllal tartózkodó állományának tagjairól (a továbbiakban: NATO- és PfP-állomány),
 - b) az a) pontban foglalt államoktól eltérő állam fegyveres erejének Magyarország területén tervezetten legalább három hónapig szolgálati céllal tartózkodó katonai és polgári állománya tagjáról (a továbbiakban: külföldi állomány),
@@ -115,7 +115,7 @@ ha vele magyarországi közös háztartásban él.
   - ge) személyazonosító okmányának vagy útlevelének számát,
   - gf) magyarországi lakóhellyel vagy tartózkodási hellyel nem rendelkező hozzátartozó esetén a hozzátartozó magyarországi tartózkodása kezdetének és tervezett befejezésének időpontját.
 
-(6) Ha a külföldi fegyveres erő Magyarország területén szolgálati céllal tervezetten három hónapnál rövidebb ideig tartózkodik, a Magyar Honvédség központi adatfeldolgozó szerve a külföldi fegyveres erő kérelmére nyilvántartást vezethet a külföldi fegyveres erő (3) bekezdésben foglalt adatairól, és azokról igazolást állíthat ki. Az igazolás kiállítására az 5. § (3) bekezdését megfelelően alkalmazni kell.
+(6) Ha a külföldi fegyveres erő Magyarország területén szolgálati céllal tervezetten három hónapnál rövidebb ideig tartózkodik, a Magyar Honvédség központi nyilvántartó szerve a külföldi fegyveres erő kérelmére nyilvántartást vezethet a külföldi fegyveres erő (3) bekezdésben foglalt adatairól, és azokról igazolást állíthat ki. Az igazolás kiállítására az 5. § (3) bekezdését megfelelően alkalmazni kell.
 
 (7) Az (1) bekezdésben meghatározott nyilvántartás vezetésének célja:
 
@@ -123,7 +123,7 @@ ha vele magyarországi közös háztartásban él.
 - b) az (1) bekezdésben meghatározott külföldi fegyveres erők, nemzetközi katonai parancsnokságok és azok állománya tagjai és hozzátartozóik nemzetközi jogi normákban és a magyar jogszabályokban biztosított kiváltságai és mentességei fennálltának igazolása, valamint azok érvényesítésének és végrehajtásának biztosítása,
 - c) Magyarországnak a külföldi fegyveres erők Magyarország területén történő tartózkodásával összefüggő honvédelmi és nemzetbiztonsági védelmének hatékony ellátása.
 
-5. § (1) A Magyar Honvédség központi adatfeldolgozó szerve a NATO- és PfP-állomány, a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja részére e jogállásának igazolására, valamint egyes, a nemzetközi jog és a magyar jogszabályok által biztosított jogosultságainak és mentességeinek érvényesítéséhez az állomány tagjának erre vonatkozó írásbeli kérelmére, a 4. §-ban foglalt nyilvántartás adatai alapján igazolványt állít ki. Az igazolvány az abban foglalt adatokat közhitelűen igazolja.
+5. § (1) A Magyar Honvédség központi nyilvántartó szerve a NATO- és PfP-állomány, a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja részére e jogállásának igazolására, valamint egyes, a nemzetközi jog és a magyar jogszabályok által biztosított jogosultságainak és mentességeinek érvényesítéséhez az állomány tagjának erre vonatkozó írásbeli kérelmére, a 4. §-ban foglalt nyilvántartás adatai alapján igazolványt állít ki. Az igazolvány az abban foglalt adatokat közhitelűen igazolja.
 
 (2) Az (1) bekezdés szerinti igazolvány tartalmazza az igazolvány jogosultjának:
 
@@ -135,13 +135,13 @@ ha vele magyarországi közös háztartásban él.
 - f) a szolgálati célú tartózkodás kezdetének és tervezett befejezésének időpontját,
 - g) a szolgálati célú tartózkodás ideje alatti magyarországi elhelyezési helyének címét.
 
-(3) A Magyar Honvédség központi adatfeldolgozó szerve a 4. § (1) bekezdés c) pontja szerinti nyilvántartás alapján – a külföldi fegyveres erő vezetőjének kérelmére – a 4. § (3) bekezdés a), b), f), g), h) és i) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
+(3) A Magyar Honvédség központi nyilvántartó szerve a 4. § (1) bekezdés c) pontja szerinti nyilvántartás alapján – a külföldi fegyveres erő vezetőjének kérelmére – a 4. § (3) bekezdés a), b), f), g), h) és i) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
 
-(4) A Magyar Honvédség központi adatfeldolgozó szerve a 4. § (1) bekezdés d) pontjában meghatározott, a Magyarország területén felállított nemzetközi katonai parancsnokságokra vonatkozó nyilvántartás alapján – a nemzetközi katonai parancsnokság vezetőjének kérelmére – a 4. § (4) bekezdés a), d), e), f) és g) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
+(4) A Magyar Honvédség központi nyilvántartó szerve a 4. § (1) bekezdés d) pontjában meghatározott, a Magyarország területén felállított nemzetközi katonai parancsnokságokra vonatkozó nyilvántartás alapján – a nemzetközi katonai parancsnokság vezetőjének kérelmére – a 4. § (4) bekezdés a), d), e), f) és g) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
 
 (5) Az (1) bekezdés szerinti igazolvány hatályossági ideje azonos a (2) bekezdés f) pontjában foglalt, a szolgálati célú tartózkodás tervezett befejezésének időpontjával.
 
-(6) A Magyar Honvédség központi adatfeldolgozó szerve a 4. § (2) bekezdés h) pontjában foglalt adatokról, valamint a 4. § (5) bekezdés g) pontjában foglalt adatokról a nyilvántartott NATO- és PfP-állomány, külföldi állomány, illetve a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja, továbbá e személyek nyilvántartott hozzátartozója kérelmére a hozzátartozói jogálláshoz kapcsolódó egyes jogok érvényesítése céljából a nyilvántartásból külön jogszabályban meghatározott adattartalmú, hitelesített kivonatot ad ki.
+(6) A Magyar Honvédség központi nyilvántartó szerve a 4. § (2) bekezdés h) pontjában foglalt adatokról, valamint a 4. § (5) bekezdés g) pontjában foglalt adatokról a nyilvántartott NATO- és PfP-állomány, külföldi állomány, illetve a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja, továbbá e személyek nyilvántartott hozzátartozója kérelmére a hozzátartozói jogálláshoz kapcsolódó egyes jogok érvényesítése céljából a nyilvántartásból külön jogszabályban meghatározott adattartalmú, hitelesített kivonatot ad ki.
 
 6. § (1) A 4. § (1) bekezdés a)–c) pontjaiban meghatározott nyilvántartásokban foglalt adatokat a NATO- és PfP-állomány tagja, a külföldi állomány tagja, valamint a külföldi fegyveres erő Magyarország területén szolgálati célú tartózkodása befejezésének napjától számított öt évig kell megőrizni.
 
@@ -149,12 +149,12 @@ ha vele magyarországi közös háztartásban él.
 
 (3) A 4. § (1) bekezdés d) pontjában meghatározott, Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira vonatkozó nyilvántartásokban foglalt adatokat, amennyiben a nemzetközi katonai parancsnokságot Magyarország nemzetközi szervezetként nem ismerte el,
 
-- a) a külpolitikáért felelős miniszter által vezetett minisztérium által a Magyar Honvédség központi adatfeldolgozó szerve részére a nemzetközi katonai parancsnokságnak nemzetközi szervezetként történő elismeréséről szóló tájékoztatás kézhezvételéig, vagy
+- a) a külpolitikáért felelős miniszter által vezetett minisztérium által a Magyar Honvédség központi nyilvántartó szerve részére a nemzetközi katonai parancsnokságnak nemzetközi szervezetként történő elismeréséről szóló tájékoztatás kézhezvételéig, vagy
 - b) a Magyarország területén felállított, azonban Magyarország által nemzetközi szervezetként el nem ismert nemzetközi katonai parancsnokság vagy annak magyarországi székhelyének, illetve képviseletének megszűnéséről szóló, a honvédelemért felelős miniszter által vezetett minisztérium által kiállított nyilatkozat kézhezvételéig
 
 kell megőrizni.
 
-(4) Amennyiben a Magyarország területén felállított nemzetközi katonai parancsnokságot Magyarország nemzetközi szervezetként ismeri el, a Magyar Honvédség központi adatfeldolgozó szerve a 4. § (1) bekezdés d) pontjában meghatározott nyilvántartásokban foglalt adatokat – a (3) bekezdés a) pontjában hivatkozott értesítés kézhezvételét követően, az adatok megsemmisítését megelőzően – átadja a külpolitikáért felelős miniszter által vezetett minisztérium részére.
+(4) Amennyiben a Magyarország területén felállított nemzetközi katonai parancsnokságot Magyarország nemzetközi szervezetként ismeri el, a Magyar Honvédség központi nyilvántartó szerve a 4. § (1) bekezdés d) pontjában meghatározott nyilvántartásokban foglalt adatokat – a (3) bekezdés a) pontjában hivatkozott értesítés kézhezvételét követően, az adatok megsemmisítését megelőzően – átadja a külpolitikáért felelős miniszter által vezetett minisztérium részére.
 
 (5) A Magyarország területén felállított, és Magyarország által nemzetközi szervezetként elismert nemzetközi katonai parancsnokságokat a külpolitikáért felelős miniszter által vezetett minisztérium a Magyarországon képviselettel rendelkező nemzetközi szervezetek jegyzékében, azok állományának tagjait pedig a Magyarországon képviselettel rendelkező nemzetközi szervezetek tisztviselőinek jegyzékében tartja nyilván.
 
@@ -167,7 +167,7 @@ kell megőrizni.
 - c) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok megnevezése;
 - d) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok Magyarország területén lévő szervezetének teljes létszáma.
 
-(3) A Magyar Honvédség központi adatfeldolgozó szerve – erre vonatkozó írásbeli kérelmére – adatot szolgáltat
+(3) A Magyar Honvédség központi nyilvántartó szerve – erre vonatkozó írásbeli kérelmére – adatot szolgáltat
 
 - a) a 4. § (3) bekezdés a), c), d), e) és f) pontjában és a 4. § (4) bekezdés a), c) és d) pontjában foglalt adatokról Magyarország honvédelmi és nemzetbiztonsági politikájára vonatkozó, az Országgyűlés hatáskörébe tartozó döntések előkészítése érdekében az Országgyűlés nemzetbiztonsági és honvédelmi ügyekkel foglalkozó bizottsága,
 - b) a 4. § (3) bekezdés a), c), d), e) és f) pontjában és a 4. § (4) bekezdés a), c) és d) pontjaiban foglalt adatokról Magyarország honvédelmi politikájára és az országvédelemre, valamint Magyarország nemzetközi kötelezettségvállalásaira vonatkozó, a honvédelemért felelős miniszter feladat- és hatáskörébe tartozó döntések meghozatalának elősegítése érdekében a honvédelemért felelős miniszter,
@@ -192,7 +192,7 @@ részére.
 
 (4) A (3) bekezdésben foglalt adatszolgáltatás további feltétele, hogy az adatszolgáltatást kérő szerv igazolja az általa kért adatok tekintetében az adatkezelés célját és adatkezelési jogosultságát.
 
-(5) A (3) bekezdés szerinti valamennyi adatszolgáltatásról – az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbítások jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából – a Honvédség központi adatfeldolgozó szerve nyilvántartást vezet:
+(5) A (3) bekezdés szerinti valamennyi adatszolgáltatásról – az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbítások jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából – a Honvédség központi nyilvántartó szerve nyilvántartást vezet:
 
 - a) a szolgáltatott adatok körének,
 - b) az adatigénylő nevének és címének,
@@ -201,7 +201,7 @@ részére.
 
 (6) Az (5) bekezdésben foglalt adattovábbítási nyilvántartásból adatokat igényelhet:
 
-- a) az adatkezelés jogszerűségének ellenőrzése céljából a Magyar Honvédség központi adatfeldolgozó szerve irányításáért felelős szerv,
+- a) az adatkezelés jogszerűségének ellenőrzése céljából a Magyar Honvédség központi nyilvántartó szerve irányításáért felelős szerv,
 - b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából a legfőbb ügyész,
 - c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 - d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
@@ -235,7 +235,7 @@ részére.
 
 (2) A Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erő, valamint nemzetközi katonai szervezet vagy parancsnokság nem magyar állampolgárságú vagy Magyarországon állandó tartózkodási hellyel nem rendelkező katonai és polgári állomány tagja mentesül foglalkozása tekintetében a Magyarországon jogszabályban előírt engedélyezési feltételek teljesítése alól, amennyiben tevékenysége – ha külön megállapodás eltérően nem rendelkezik – nem terjed túl a külföldi fegyveres erők és a nemzetközi katonai parancsnokság szolgálati tevékenységén, illetve személyeket vagy állatokat érintő, egészségügyi ellátás végzésére irányuló foglalkozás esetén nem terjed túl a külföldi fegyveres erők és a nemzetközi katonai szervezet vagy parancsnokság személyi állománya és azok hozzátartozói, illetve szolgálati állatai körén.
 
-12. §
+#### 12. §
 
 #### 5. A külföldi fegyveres erők, a Magyarország területén felállított nemzetközi katonai parancsnokságok és azok állományának egyes mentességeihez kapcsolódó rendelkezések
 
@@ -271,7 +271,7 @@ részére.
 
 (3) Az (1) bekezdés szerinti esetekben a honvédelemért felelős miniszter által vezetett minisztérium állít ki adómentességi igazolást, amely a jogállás mellett a kérelmező által megadott adatok alapján igazolja, hogy a beszerzés az USA fegyveres erői által vagy javára történik.
 
-16. § (1) A védelmi együttműködésről szóló magyar–amerikai megállapodás XVII. cikkében az USA fegyveres erői személyi állományának, valamint hozzátartozóinak személyes beszerzéseire meghatározott mentességek adó-visszatérítés formájában illetik meg a feljogosított személyeket, ha a jogosult a Magyar Honvédség központi adatfeldolgozó szervének nyilvántartásában szerepel és ezt igazolja. Az ilyen áruk mennyisége nem haladhatja meg a személyes használatban indokolt mennyiséget és nem kelthetik azt a benyomást, hogy az árukat kereskedelmi célokra vásárolták vagy szerezték be.
+16. § (1) A védelmi együttműködésről szóló magyar–amerikai megállapodás XVII. cikkében az USA fegyveres erői személyi állományának, valamint hozzátartozóinak személyes beszerzéseire meghatározott mentességek adó-visszatérítés formájában illetik meg a feljogosított személyeket, ha a jogosult a Magyar Honvédség központi nyilvántartó szervének nyilvántartásában szerepel és ezt igazolja. Az ilyen áruk mennyisége nem haladhatja meg a személyes használatban indokolt mennyiséget és nem kelthetik azt a benyomást, hogy az árukat kereskedelmi célokra vásárolták vagy szerezték be.
 
 (2) Az (1) bekezdésben meghatározott beszerzések eljárásrendje megegyezik az Áfa tv. 107. § (1) bekezdés a) pontja szerinti diplomáciai és a hivatásos konzuli képviselet tagjainak személyes beszerzéseire vonatkozó eljárásrenddel, kivéve az Áfa tv. 108. § (3) bekezdésében foglaltakat.
 
