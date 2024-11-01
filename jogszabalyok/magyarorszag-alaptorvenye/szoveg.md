@@ -1328,13 +1328,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 #### 47. cikk
 
-(1) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők határátlépéssel járó csapatmozgásairól.
-
-(2) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt – a (3) bekezdésben meghatározott esetek kivételével – a Magyar Honvédség külföldi vagy magyarországi alkalmazásáról, külföldi állomásozásáról, valamint a külföldi fegyveres erők magyarországi vagy Magyarország területéről kiinduló alkalmazásáról, magyarországi állomásozásáról.
-
-(3) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők (2) bekezdés szerinti, az Európai Unió, az Észak-atlanti Szerződés Szervezete vagy az Országgyűlés által törvényben megerősített nemzetközi védelmi és biztonsági együttműködési szervezet döntésén alapuló alkalmazásáról, valamint más csapatmozgásáról.
-
-(4) A Kormány – a köztársasági elnök egyidejű tájékoztatása mellett – haladéktalanul beszámol az Országgyűlésnek a (3) bekezdés alapján, valamint a Magyar Honvédség békefenntartásban való részvételének vagy külföldi hadműveleti területen végzett humanitárius tevékenységének engedélyezése tárgyában hozott döntéséről.
+A Magyar Honvédség katonai műveleteinek, állomásozásának és más, határátlépéssel járó csapatmozgásának, valamint a külföldi fegyveres erők Magyarország területét érintő katonai műveleteinek, állomásozásának és más, határátlépéssel járó csapatmozgásának engedélyezésével összefüggő alapvető szabályokat sarkalatos törvény határozza meg.
 
 ## A KÜLÖNLEGES JOGREND
 
