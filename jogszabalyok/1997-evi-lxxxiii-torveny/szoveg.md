@@ -688,6 +688,24 @@ méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogath
 
 26/C. § A kapcsolattartás formáját az egészségbiztosító határozza meg. Az eljárás során az ügyfél a kapcsolattartás – egészségbiztosító által meghatározott – módjáról másik módra nem térhet át.
 
+26/D. § (1) Az Országgyűlés felhívja a Kormányt az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1a) bekezdésében biztosított jogkörében a Batthyány-Strattmann László Alapítvány A Gyógyításért (a továbbiakban: Alapítvány) létrehozására.
+
+(2) Az Alapítvány alapítása során az állam képviseletében az egészségbiztosításért felelős miniszter jár el.
+
+(3) Az Alapítvány – a 26. § (1) bekezdés c) pontjában foglaltak kivételével – a Magyarországon szakmailag elfogadott, de társadalombiztosítási támogatással nem rendelhető gyógyszerek, gyógyászati segédeszközök árához méltányosságból a biztosított kérelmére támogatást nyújthat. Az Alapítvány méltányossági jogköre nem terjed ki a 26. § (3) és (4) bekezdésében foglaltakra. Az Alapítvány a méltányossági jogkörében eljárva, az emberi élet és egészség védelme, valamint a társadalmi és gazdasági felelősségvállalás szellemében, nem hatósági eljárás keretében dönt a támogatás nyújtásáról vagy annak megtagadásáról.
+
+(4) Az Alapítvány vagyonának biztosításáról a Kormány gondoskodik, és működéséhez 2025-től kezdődően évente támogatást nyújt.
+
+(5) Az Alapítvány kezeli a mindenkori költségvetési törvényben a (3) bekezdés szerinti feladatra rendelkezésre álló előirányzatot.
+
+(6) Az Alapítvány az (5) bekezdés szerinti előirányzaton rendelkezésre álló forráson túl egyéb bevételeit is a (3) bekezdés szerinti feladatra fordítja.
+
+(7) Az Alapítvány közhasznú jogállással rendelkezik.
+
+(8) A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény (a továbbiakban: 1996. évi CXXVI. törvény) 4. § (1) bekezdés a) pont ab) alpontjától eltérően az Alapítvány a 2025. évben már kedvezményezettnek minősül, azzal, hogy az 1996. évi CXXVI. törvény 4. § (6) bekezdése szerinti regisztrációt az Alapítvány a bejegyzésétől számított 15 napon belül teljesíti.
+
+(9) Az Alapítvány a (3) bekezdés szerinti feladata ellátása érdekében, a támogatás megítélhetőségének vizsgálata, kifizetése és felhasználásának ellenőrzése érdekében jogosult kezelni az érintett beteg személyazonosító és egészségügyi adatait. Az Alapítványt e törvény szerinti feladatai ellátásával összefüggésben történő adatkezelése – ide értve az adatok igénylését és továbbítását – tekintetében egészségbiztosítási szervnek kell tekinteni.
+
 ### 5. CÍM — Külföldön történő gyógykezelés
 
 27. § (1) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – EGT tagállam területén kívüli állam (a továbbiakban: harmadik állam) területén átmenetileg tartózkodik munkavállalás, tanulmányok folytatása vagy egyéb jogcímen és a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást – a feltétlenül szükséges mértékig –, továbbá sürgősségi betegszállítást azért vesz igénybe harmadik állam területén lévő tartózkodási helyén, mert annak elmaradása az életét vagy testi épségét súlyosan veszélyezteti, illetve maradandó egészségkárosodáshoz vezetne, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
@@ -2198,6 +2216,10 @@ foglalt rendelkezések helyett a 2021. december 31-én hatályos 5/B. § f) pont
 - c) egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltató,
 - d) önkormányzati fenntartású egészségügyi szolgáltató,
 - e) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltató, feltéve, hogy az egészségügyi szolgáltató CT-MRI vizsgálati tevékenységének vonatkozásában – ideértve a közreműködői szerződés alapján történő ellátást is – az egészségbiztosításért felelős miniszter a 82. § (26) bekezdése szerint az ellátási érdek fennállását megállapította.
+
+82/Z. § (1) A 26/D. § (1) bekezdése szerinti Batthyány-Strattmann László Alapítvány A Gyógyításért a 26/D. § (3) bekezdése alapján 2025. január 1-jétől benyújtott kérelmek alapján jár el.
+
+(2) A 26/D. § (3), (5), (6) és (9) bekezdésében foglaltakat 2025. január 1-jétől kell alkalmazni.
 
 ### Záró rendelkezések
 

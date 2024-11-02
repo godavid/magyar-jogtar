@@ -193,36 +193,15 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 23. Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény módosítása
 
-68. § Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 8/A. §-a helyébe a következő rendelkezés lép:
+#### 68. §
 
-„8/A. § A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben a felperes az érvényesíteni kívánt jog alapjául a Teljesítésigazolási Szakértői Szerv szakvéleményére hivatkozik. E perben kizárólag olyan követelés érvényesíthető, amelyre a Teljesítésigazolási Szakértői Szerv szakvéleménye kiterjed.”
+#### 69. §
 
-69. § Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 8/C. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+#### 70. §
 
-„(2) A keresetlevelet a Teljesítésigazolási Szakértői Szerv szakvéleményének kézbesítésétől számított hatvan napon belül kell benyújtani. A határidő elmulasztása esetén igazolásnak nincs helye, és a pert az általános szabályok szerint kell lefolytatni. A 8/E. § rendelkezéseit ebben az esetben is alkalmazni kell.
+#### 71. §
 
-(3) A keresetlevélhez – a polgári perrendtartásról szóló törvényben meghatározott mellékleteken túl – csatolni kell a Teljesítésigazolási Szakértői Szerv szakvéleményét, az annak kézbesítési időpontját igazoló okiratot. Ezek csatolásának elmaradása esetén a bíróság a keresetlevelet – hiánypótlási felhívás kiadása nélkül – visszautasítja.”
-
-70. § Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 8/D. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a bíróság a kérelmező keresetét elutasítja, ítéletében rendelkezik a letétbe helyezett összegnek a kérelmező ellenfele részére történő visszaadásáról. A kérelmező pernyertessége esetén a bíróság a letétbe helyezett összeg kérelmező részére történő kiadásáról rendelkezik.”
-
-71. § (1) Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 8/G. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Az írásbeli ellenkérelem, illetve a viszontkeresetlevél, válaszirat, viszontválasz, beszámítást tartalmazó irat előterjesztésére vonatkozó határidő tizenöt nap, amelyet a bíróság kivételesen legfeljebb tizenöt nappal hosszabbíthat meg.
-
-(3) A tárgyalási időköz nyolc nap, a tárgyalás kitűzésére vonatkozó határidő kettő hónap.”
-
-(2) Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 8/G. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A bíróság a Teljesítésigazolási Szakértői Szerv számára köteles megküldeni az ügy érdemében hozott jogerős döntés másolati példányát. Az irat megküldésének kötelezettsége a bíróságot akkor is terheli, ha a szakértő szakvéleményét a bizonyítékok köréből alkalmatlanság vagy más ok miatt kirekesztette.”
-
-72. § Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény
-
-- a) 8/D. § (1) bekezdésében az „elnöki” szövegrész helyébe a „teljesítési” szöveg,
-- b) 8/D. § (2) bekezdésében az „elnöki” szövegrész helyébe a „teljesítési” szöveg
-
-lép.
+#### 72. §
 
 #### 24. A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény módosítása
 
