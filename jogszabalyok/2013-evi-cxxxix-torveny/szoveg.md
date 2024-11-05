@@ -14,7 +14,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (2) Az MNB, valamint szerveinek tagjai az e törvényben foglalt feladataik végrehajtása és kötelességeik teljesítése során függetlenek, nem kérhetnek és nem fogadhatnak el utasításokat a Kormánytól, az Európai Központi Bank (a továbbiakban: EKB) és a (3) bekezdésben meghatározott esetek kivételével az Európai Unió intézményeitől, szerveitől és hivatalaitól, a tagállamok kormányaitól vagy bármilyen más szervezettől, illetve politikai párttól. A Kormány vagy bármilyen más szervezet tiszteletben tartja ezt az elvet és nem kísérli meg az MNB, valamint szervei tagjainak befolyásolását feladataik ellátása során.
 
-(3) Az MNB a Pénzügyi Felügyeletek Európai Rendszerében betöltött tagságára tekintettel ellátja az Európai Bankhatóság, az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság, az Európai Értékpapír-piaci Hatóság és az Európai Rendszerkockázati Testület hatásköréből eredő, MNB-re háruló feladatokat.
+(3) Az MNB a Pénzügyi Felügyeletek Európai Rendszerében betöltött tagságára tekintettel ellátja az Európai Bankhatóság, az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság, az Európai Értékpapír-piaci Hatóság, a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatóság és az Európai Rendszerkockázati Testület hatásköréből eredő, MNB-re háruló feladatokat.
 
 2. § Az MNB elnöke az Országgyűlésnek írásbeli és szóbeli beszámolási kötelezettséggel tartozik.
 
@@ -2506,7 +2506,7 @@ terjedhet.
 
 - a) a 4. § (9) bekezdésében meghatározott feladataira tekintettel
   - aa) az Európai Bizottsággal,
-  - ab) az Európai Felügyeleti Hatóságokkal, azaz az Európai Bankhatósággal, az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal, az Európai Értékpapír-piaci Hatósággal,
+  - ab) az Európai Felügyeleti Hatóságokkal, azaz az Európai Bankhatósággal, az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal, az Európai Értékpapír-piaci Hatósággal, valamint a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatósággal,
   - ac) az Európai Rendszerkockázati Testülettel,
   - ad) az Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valamint
   - ae) az Európai Bankbizottsággal,
@@ -3391,6 +3391,7 @@ való megfelelést szolgálja.
 - 21. az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet
 - 22. a tőkepiacról szóló 2001. évi CXX. törvénnyel és a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet
 - 23. a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
+- 24. a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatóság létrehozásáról, valamint az 1093/2010/EU, az 1094/2010/EU és az 1095/2010/EU rendelet módosításáról szóló, 2024. május 31-i (EU) 2024/1620 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

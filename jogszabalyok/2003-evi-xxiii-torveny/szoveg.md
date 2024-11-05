@@ -10,12 +10,12 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
 
 1. § (1) E törvény hatálya kiterjed:
 
-- a) a magyar jog alapján működő, a 2. § (1) bekezdés i) pontjában meghatározott fizetési, illetve értékpapír-elszámolási rendszerre (a továbbiakban együtt: rendszer),
+- a) a magyar jog alapján működő fizetési, illetve értékpapír-elszámolási rendszerre,
 - b) a magyar jog alapján működő rendszer valamennyi résztvevőjére,
-- c) az Európai Unió más tagállamának joga alapján kijelölt vagy működő rendszer magyarországi székhelyű résztvevőjére a (2) bekezdés és a 12–13. § vonatkozásában,
-- d) a magyar jog, illetve az Európai Unió más tagállamának joga alapján működő rendszerben nyújtott biztosítékra, ha annak nyilvántartása Magyarországon történik.
+- c) az Európai Unió más tagállama vagy harmadik ország joga alapján működő rendszer magyarországi székhelyű résztvevőjére a (2) bekezdés és a 12–13. § vonatkozásában,
+- d) a magyar jog, illetve az Európai Unió más tagállama vagy harmadik ország joga alapján működő rendszerben nyújtott biztosítékra, ha annak nyilvántartása Magyarországon történik.
 
-(2) Az Európai Unió más tagállamának joga alapján kijelölt vagy működő rendszer magyarországi székhelyű résztvevőjének a rendszerben való részvételből származó jogait és kötelezettségeit, ideértve az üzleti nap adott rendszer szabályai szerint meghatározott fogalmát is, minden esetben a rendszerre irányadó jog szerint kell megállapítani.
+(2) Az Európai Unió más tagállama vagy harmadik ország joga alapján működő rendszer magyarországi székhelyű résztvevőjének a rendszerben való részvételből származó jogait és kötelezettségeit, ideértve az üzleti nap adott rendszer szabályai szerint meghatározott fogalmát is, minden esetben a rendszerre irányadó jog szerint kell megállapítani.
 
 ### Értelmező rendelkezések
 
@@ -42,8 +42,9 @@ amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bek
 - g) központi szerződő fél: a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott fogalom;
 - h) közvetett résztvevő: az az intézmény, központi szerződő fél, teljesítő fél, elszámoló fél vagy rendszerüzemeltető, amely a transzfer megbízásokat teljesítő rendszer valamely résztvevőjével szerződéses kapcsolatban áll abból a célból, hogy transzfer megbízásait e résztvevő bonyolítsa le számára a rendszeren keresztül, feltéve, hogy a közvetett résztvevő a rendszerüzemeltető számára ismert;
 - i) rendszer: az – a rendszerkapcsolatnak nem minősülő – írásbeli megállapodáson alapuló együttműködési forma,
-  - ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetőleg a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre, és
-  - ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Értékpapír-piaci Hatóságot;
+  - ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetve a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre,
+  - ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Értékpapír-piaci Hatóságot, és
+  - ic) amely a magyar jog vagy az Európai Unió más tagállamának joga alapján működik, – az 1. § (1) bekezdés c) pontja és az 1. § (2) bekezdése alkalmazását nem érintve – ideértve azt a harmadik ország joga alapján működő rendszert is, amely megfelel a fizetési és értékpapír-elszámolási rendszerekben az elszámolások véglegességéről szóló 1998. május 19-i 98/26/EK európai parlamenti és tanácsi irányelv 2. cikk a) pontjának első és második francia bekezdése szerinti rendszer fogalmának, azzal, hogy a tagállam alatt bármely ország értendő, és amely megfelelést a Magyar Nemzeti Bank – a rendszer igazolása alapján – megállapítva közzéteszi a rendszer azonosító adatait, a megállapítás hatályát;
 - j) résztvevő: az intézmény, a központi szerződő fél, a központi szerződő fél klíringtagja, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
 - k) transzfer megbízás: valamely résztvevő rendelkezése, hogy egy pénzösszeget, illetőleg átruházható értékpapírt valamely hitelintézetnél, központi szerződő félnél, központi banknál vagy a teljesítő félnél vezetett számlán történő jóváírással bocsássanak a kedvezményezett rendelkezésére;
 - l) teljesítés: a rendszer résztvevői közötti tartozások és követelések kiegyenlítése a teljesítési számlákon;
@@ -138,7 +139,7 @@ kell érteni.
 
 ### A rendszer és a rendszerüzemeltető kijelölése és a kijelölt rendszerek, rendszerüzemeltetők nyilvántartása
 
-9. § (1) Az e törvény hatálya alá tartozó rendszert és rendszerüzemeltetőt a Magyar Nemzeti Bank (kijelölő hatóság) jelöli ki.
+9. § (1) Az 1. § (1) bekezdés a) pontja szerinti rendszert és rendszerüzemeltetőt a Magyar Nemzeti Bank (kijelölő hatóság) jelöli ki.
 
 (2) A kijelölt rendszert és rendszerüzemeltetőt a kijelölő hatóság nyilvántartásba veszi.
 
@@ -187,9 +188,9 @@ kell érteni.
 
 (9) A kijelölő hatóság eljárása illetékmentes.
 
-### AZ EURÓPAI UNIÓ MÁS TAGÁLLAMÁNAK JOGA ALAPJÁN MŰKÖDŐ RENDSZER MAGYARORSZÁGI SZÉKHELYŰ RÉSZTVEVŐJÉNEK ADATSZOLGÁLTATÁSI KÖTELEZETTSÉGE
+### Az Európai Unió más tagállama vagy harmadik ország joga alapján működő rendszer magyarországi székhelyű résztvevőjének adatszolgáltatási kötelezettsége
 
-12. § (1) Az Európai Unió más tagállamának joga alapján működő rendszer magyarországi székhelyű résztvevője az ezen rendszerhez való csatlakozás tényéről a csatlakozástól, illetve a rendszerből való kilépésről a kilépéstől számított 15 napon belül tájékoztatni köteles a kijelölő hatóságot.
+12. § (1) Az Európai Unió más tagállama vagy harmadik ország joga alapján működő rendszer magyarországi székhelyű résztvevője az ezen rendszerhez való csatlakozás tényéről a csatlakozástól, illetve a rendszerből való kilépésről a kilépéstől számított 15 napon belül tájékoztatni köteles az illetékes kijelölő hatóságot, valamint a Magyar Nemzeti Bankot.
 
 (2) Az (1) bekezdés szerinti csatlakozásról szóló tájékoztatáshoz mellékelni kell:
 
