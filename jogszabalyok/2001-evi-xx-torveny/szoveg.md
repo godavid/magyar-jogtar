@@ -293,7 +293,9 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (4) Amennyiben az MNB úgy ítéli meg, hogy a megválasztott, illetve kinevezett személy nem felel meg e törvényben, valamint a Hpt. 137. §-ában és 155. §-ában meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a miniszternél a megválasztott személy visszahívását, illetve a kinevezett személy felmentését.
 
-(5) E § rendelkezéseit az 1. mellékletben szereplő pénzügyi intézményekre, az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, vagy az 1. mellékletben meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
+(4a) Az MFB Zrt. tekintetében a Hpt. 150. §-ában foglaltakat nem kell alkalmazni.
+
+(5) Az (1)–(4) bekezdésben foglaltakat az 1. mellékletben szereplő pénzügyi intézményekre, az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, vagy az 1. mellékletben meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
 
 13/B. § Kizárólag a miniszternek engedélye szükséges az MFB Zrt. alapító okiratának módosításához a következő esetekben:
 

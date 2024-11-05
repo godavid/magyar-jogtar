@@ -38,7 +38,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
-(7) Az Eximbank tekintetében a Hpt. 117–121. §-ában foglaltakat nem kell alkalmazni.
+(7) Az Eximbank tekintetében a Hpt. 117–121. §-ában, valamint a 150. §-ában foglaltakat nem kell alkalmazni.
 
 (8) Az Eximbank a prudenciális követelmények tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) szerint jár el az e törvényben foglalt eltérésekkel.
 

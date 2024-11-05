@@ -138,7 +138,9 @@ rendelkezései szerint fizet felügyeleti díjat.
 
 15. § E törvény 21. § (1) bekezdése az Alaptörvény 41. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
-16. § E törvény hatálybalépésekor már működő, eszközalapú tokenektől vagy elektronikuspénz-tokenektől eltérő kriptoeszközt kibocsátó kriptoeszköz-szolgáltató az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben foglalt követelményeknek legkésőbb 2025. január 1-jétől köteles megfelelni.
+#### 16. §
+
+16. § A 2024. december 30-a előtt már működő kriptoeszköz-szolgáltató az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben foglalt követelményeknek legkésőbb 2025. július 1-jétől köteles megfelelni.
 
 17. § Ez a törvény
 

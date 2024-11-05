@@ -166,7 +166,7 @@ az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításá
 
 (3) Az 1. alcím az e törvény kihirdetését követő 60. napon lép hatályba.
 
-(4) A 30. § (2) bekezdése 2024. december 31-én lép hatályba.
+(4) A 30. § (2) bekezdése 2025. március 31-én lép hatályba.
 
 (5) A 30. § (3) bekezdése 2025. július 1-jén lép hatályba.
 
