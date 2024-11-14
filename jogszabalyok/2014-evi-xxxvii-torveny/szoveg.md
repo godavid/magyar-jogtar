@@ -61,6 +61,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 - 24b. fedezett kötvény: olyan kötvény, amely a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2162 európai parlamenti és tanácsi irányelvet átültető EGT-állam jogszabálya alapján fedezett kötvénynek minősül, vagy a 2022. július 8. előtt kibocsátott olyan kötvény, amelynek kibocsátója egy EGT-államban székhellyel rendelkező és jogszabálynál fogva a kötvénytulajdonosok érdekeinek védelmére létrehozott különleges állami felügyelet hatálya alatt álló hitelintézet, feltéve, hogy ez utóbbinak a kötvények kibocsátásából befolyt összegeket jogszabálynál fogva olyan eszközökbe kell befektetni, amelyek a kötvények futamideje alatt mindvégig alkalmasak a kötvényekhez rendelt követelések kielégítésére, és amelyeket a kibocsátó felszámolása esetén első helyen a tőke visszatérítésére és a felhalmozott kamat kifizetésére kell felhasználni;
 - 25. felhígulás: tulajdoni hányad csökkenése annak következtében, hogy új tagsági részesedést megtestesítő instrumentumok kerülnek kibocsátásra;
 - 26. felmondási jog: a szerződés felmondására irányuló jog, a kötelezettségek esedékességének előrehozására, lezárására, egymással szemben való elszámolására vagy nettósítására irányuló jog vagy az egyik szerződő fél fizetési kötelezettségét felfüggesztő, módosító vagy megszüntető bármely hasonló rendelkezés, illetve olyan rendelkezés, amely megakadályozza egy szerződés szerinti követelés esedékessé válását;
+- 26a. felszámolandó szervezet: EGT-államban letelepedett olyan jogi személy, amelynek tekintetében a csoportszintű szanálási terv vagy – csoporthoz nem tartozó szervezet esetében – a szanálási terv előírja, hogy a szervezetet rendes fizetésképtelenségi eljárás keretében kell felszámolni, vagy egy szanálás alá vonható csoporton belüli, de szanálás alá nem vonható szervezet, amely tekintetében a csoportszintű szanálási terv nem rendelkezik a leírási és átalakítási hatáskörök gyakorlásáról;
 - 27. felügyeleti hatóság: a Hpt.-ben ekként meghatározott fogalom;
 - 28. felügyeleti kollégium: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben meghatározott testület;
 - 29. fióktelep: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben ekként meghatározott fogalom;
@@ -1443,7 +1444,19 @@ azzal, hogy a szanálási feladatkörében eljáró MNB figyelembe veszi az ért
 - a) a szervezet várható veszteségeinek teljes mértékű viselése (veszteségviselés),
 - b) a szanálás alá vonható szervezet és szanálás alá vonható szervezetnek nem minősülő – intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti – leányvállalatai feltőkésítése olyan mértékben, amely lehetővé teszi az éven belüli megfelelést az engedélyezési és működési feltételeknek (feltőkésítés).
 
-(3) Ha a szervezet a szanálási tervben foglalt fizetésképtelenségi eljárás keretében kerül megszüntetésre, akkor a szanálási feladatkörében eljáró MNB vizsgálja többek között a pénzügyi stabilitásra gyakorolt hatás és a pénzügyi rendszerre való átterjedés szempontjából is a 62. § szerinti követelmény korlátozásának indokolhatóságát a (2) bekezdés a) pontja szerinti veszteségviselési képességben.
+(3) A szanálási feladatkörében eljáró MNB a felszámolandó szervezetekre nem határozhatja meg a 62. § (1) bekezdése szerinti minimumkövetelményt.
+
+(3a) A (3) bekezdéstől eltérően a szanálási feladatkörében eljáró MNB értékelheti, hogy indokolt-e egy felszámolandó szervezetre egyedi alapon meghatározni a 62. § (1) bekezdése szerinti minimumkövetelményt olyan összegben, amely meghaladja a (2) bekezdés a) pontjával összhangban a veszteségek viseléséhez szükséges összeget. A szanálási feladatkörében eljáró MNB az értékelésében figyelembe veszi különösen a pénzügyi stabilitásra, valamint a pénzügyi rendszerre való átterjedés kockázatára gyakorolt esetleges hatást, ideértve a betétbiztosítási rendszerek finanszírozási képességeinek szempontjait is. Amennyiben a szanálási feladatkörében eljáró MNB a 62. § (1) bekezdése szerinti minimumkövetelményt határoz meg, azt a felszámolandó szervezet a következők közül egy vagy több felhasználásával teljesíti:
+
+- a) szavatoló tőke,
+- b) az 575/2013/EU rendelet 72a. cikkében említett elismerhetőségi kritériumoknak megfelelő kötelezettségek, az 575/2013/EU rendelet 72b. cikk (2) bekezdésének b) és d) pontja kivételével,
+- c) 66. § (6) bekezdése szerinti kötelezettségek.
+
+(3b) Az 575/2013/EU rendelet 77. cikk (2) bekezdése és 78a. cikke nem alkalmazandó arra a felszámolandó szervezetre, amelyre a szanálási feladatkörében eljáró MNB nem határozta meg a 62. § (1) bekezdés szerinti minimumkövetelményt.
+
+(3c) Az 575/2013/EU rendelet 72e. cikk (5) bekezdése alapján nem vonhatók le az olyan felszámolandó szervezetnek minősülő leányvállalat által kibocsátott szavatoló tőke instrumentumok és leírható, illetve átalakítható kötelezettség-instrumentumok állományai, amelyek tekintetében a szanálási feladatkörében eljáró MNB nem határozta meg a 62. § (1) bekezdése szerinti minimumkövetelményt.
+
+(3d) A (3c) bekezdéstől eltérően az olyan intézménynek vagy 1. § (1) bekezdés b) és c) pontja szerinti szervezetnek, amely nem szanálás alá vonható szervezet, de leányvállalata egy szanálás alá vonható szervezetnek vagy olyan harmadik országbeli szervezetnek, amely szanálás alá vonható szervezet lenne, ha EGT-államban telepedne le, le kell vonnia az ugyanazon szanálás alá vonható csoporthoz tartozó azon leányvállalatokban meglévő szavatoló tőke instrumentum állományait, amelyek olyan felszámolandó szervezetek, amelynél a szanálási feladatkörében eljáró MNB nem határozta meg a 62. § (1) bekezdése szerinti minimumkövetelményt, amennyiben ezen állományok aggregált összege eléri vagy meghaladja a 68/B. § (5) bekezdésében meghatározott elismerhetőségi kritériumoknak megfelelő szavatoló tőkéje és kötelezettségei teljes összegének 7%-át, minden év december 31-én az előző 12 hónap átlagaként számítva.
 
 (4) A szanálás alá vonható szervezet esetében a (2) bekezdés szerinti összeg:
 
@@ -1556,6 +1569,23 @@ azzal, hogy a szanálási feladatkörében eljáró MNB figyelembe veszi az ért
 
 (2) Az (1) bekezdéstől eltérően a szanálás alá nem vonható EU-szintű anyavállalat, amely harmadik országbeli szervezetek leányvállalata összevont alapon felel meg a 67. §-ban és a 68. §-ban meghatározott követelményeknek.
 
+(2a) Az (1) és (1a) bekezdéstől eltérően a szanálási feladatkörében eljáró MNB dönthet úgy, hogy a leányvállalatra összevont alapon állapítja meg a 67. § szerinti követelményt, amennyiben
+
+- a) a leányvállalat megfelel az alábbi feltételek egyikének:
+  - aa) a leányvállalat közvetlenül a szanálás alá vonható szervezet tulajdonában van, valamint teljesülnek a (2b) bekezdésben rögzített feltételek is,
+  - ab) a leányvállalatra csak összevont alapon vonatkozik a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény, és a 67. § szerinti követelmény összevont alapon történő meghatározása nem eredményezné – a 67. § (1) bekezdés b) pontjának alkalmazásában – a konszolidációs körbe tartozó szervezetekből álló alcsoport feltőkésítési igényeinek túlértékelését, különösen, ha ugyanazon konszolidációs körön belül túlsúlyban vannak a felszámolandó szervezetek; és
+- b) a 67. § szerinti követelmény összevont alapon történő teljesítése – az egyedi alapon történő teljesítése helyett – nem érinti jelentős mértékben hátrányosan a következők bármelyikét:
+  - ba) a csoport szanálási stratégiájának hitelessége és megvalósíthatósága,
+  - bb) a leányvállalat azon képessége, hogy a leírási és átalakítási hatáskörök gyakorlását követően megfeleljen a szavatoló tőke követelményeknek és
+  - bc) a belső veszteségátvételi és feltőkésítési mechanizmus megfelelősége, ideértve az érintett leányvállalat vagy a szanálás alá vonható csoporthoz tartozó más szervezet releváns tőkeinstrumentumainak és leírható, illetve átalakítható kötelezettségeinek a 74. § szerinti leírását vagy átalakítását.
+
+(2b) A (2a) bekezdés a) pont aa) alpontja szerinti többlet feltétel, hogy
+
+- a) a szanálás alá vonható szervezet EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat,
+- b) mind a leányvállalat, mind a szanálás alá vonható szervezet ugyanabban az EGT-államban telepedett le, és ugyanazon szanálás alá vonható csoportnak a tagja,
+- c) a szanálás alá vonható szervezetnek az érintett leányvállalaton kívül nincs a közvetlen tulajdonában bármely olyan leányvállalat-intézmény vagy 1. § (1) bekezdés b) vagy c) pontja szerinti leányvállalat-szervezet, amelyekre az e §-ban meghatározott követelmények vagy a 67. § szerinti követelmény vonatkozik
+- d) a leányvállalatot aránytalanul sújtanák az 575/2013/EU rendelet 72e. cikk (5) bekezdésében előírt levonások.
+
 (3) A szanálás alá nem vonható, központi szervhez tartósan kapcsolt hitelintézet és a szanálás alá nem vonható központi szerv, továbbá a 68/A. § (3) bekezdésének hatálya alá nem tartozó, szanálás alá vonható szervezet egyedi alapon felel meg a 67. § (16)–(23) bekezdésének.
 
 (4) A 62. § (1) bekezdésében meghatározott követelményt az (1)–(3) bekezdésben meghatározott esetekben a 67. §-ban rögzített követelmények alapján a 68/D. §-sal és adott esetben a 29. §-sal összhangban kell meghatározni.
@@ -1576,6 +1606,16 @@ azzal, hogy a szanálási feladatkörében eljáró MNB figyelembe veszi az ért
   - bb) ugyanazon szanálás alá vonható csoportba tartozó más szervezetek részére került kibocsátásra és azok meg is vásárolták, vagy olyan szervezet számára bocsátották ki és azok vásárolták meg, amelyek nem ugyanabba a szanálás alá vonható csoportba tartoznak és leírásra vagy átalakításra vonatkozó hatáskör nincs hatással a szanálás alá vonható leányvállalat felett a szanálás alá vonható szervezet által gyakorolható ellenőrzésre.
 
 (5a) A szanálási feladatkörében eljáró MNB abban az esetben engedélyezi vagy adhat általános előzetes engedélyt az intézmény kérelmére az (5) bekezdés a) pontja szerinti kötelezettségek lehívására, visszaváltására, visszafizetésére vagy visszavásárlására, ha az 575/2013/EU rendelet 77. és 78a. cikkében rögzített – ideértve a 68/B. § (5) bekezdés a) pontja szerinti kötelezettségeket is –, a leírható, illetve átalakítható kötelezettséginstrumentumok lehívására, visszaváltására, visszafizetésére vagy visszavásárlására vonatkozó a kérelemtől függően az engedélyezés vagy általános előzetes engedély megadásának feltételei az (5) bekezdés a) pontja szerinti kötelezettség esetében is fennállnak.
+
+(5b) Amennyiben az (1) bekezdés szerinti szervezet összevont alapon teljesíti a 62. § (1) bekezdése szerinti minimumkövetelményt, a szervezet szavatoló tőkéjének és leírható, illetve átalakítható kötelezettségeinek összege magában foglalja az (5) bekezdés a) pontjával összhangban az EGT-államban letelepedett, az adott szervezet konszolidációjába bevont leányvállalat által kibocsátott következő kötelezettségeket:
+
+- a) a szanálás alá vonható szervezet számára kibocsátott kötelezettségek, amelyeket az megvásárol akár közvetlenül, akár közvetve az ugyanazon szanálás alá vonható csoporthoz tartozó olyan más szervezeteken keresztül, amelyek nincsenek bevonva a 62. § (1) bekezdése szerinti minimumkövetelményt összevont alapon teljesítő szervezet konszolidációjába,
+- b) olyan meglévő részvényes számára kibocsátott kötelezettségek, amelyek nem tartoznak ugyanazon szanálás alá vonható csoporthoz.
+
+(5c) Az (5b) bekezdés a) és b) pontja szerinti kötelezettségek nem haladhatják meg a konszolidációba bevont leányvállalatra alkalmazandó, a 62. § (1) bekezdése szerinti minimumkövetelmény összegéből az alábbiak levonásával meghatározott összeget:
+
+- a) a 62. § (1) bekezdése szerinti minimumkövetelmény összevont alapon teljesítő szervezet számára kibocsátott kötelezettségek, amelyeket az megvásárol akár közvetlenül, akár közvetve az ugyanazon szanálás alá vonható csoporthoz tartozó, az adott szervezet konszolidációjába bevont más szervezeteken keresztül,
+- b) az (5) bekezdés b) pontjával összhangban kibocsátott szavatoló tőke összege.
 
 (6) A szanálási feladatkörében eljáró MNB a szanálás alá vonható szervezetnek nem minősülő leányvállalat esetében eltekinthet az egyedi minimumkövetelmény alkalmazásától, ha
 
@@ -1707,7 +1747,7 @@ azzal, hogy a b) pont nem alkalmazandó azokra a szervezetekre, amelyeknek az a)
 
 (3a) Szanálási intézkedés alkalmazása esetén a (3) bekezdés szerinti nyilvánosságra hozatal a 68/A. §-ra, illetve 68/B. §-ra vonatkozó követelmények teljesítésére előírt határidőtől kezdődően alkalmazandó.
 
-(4) Ezt a §-t nem kell alkalmazni azokra a szervezetekre, amelyeknek a szanálási tervében kizárólag a rendes fizetésképtelenségi eljárás keretében történő felszámolás szerepel.
+(4) Ez a § nem alkalmazandó a felszámolandó szervezetre, kivéve, ha a szanálási feladatkörében eljáró MNB a 67. § (3a) bekezdésével összhangban a felszámolandó szervezetre a 62. § (1) bekezdése szerinti minimumkövetelményt határoz meg. Ebben az esetben a szanálási feladatkörében eljáró MNB határozza meg az adatszolgáltatási és nyilvánosságra hozatali kötelezettségek tartalmát és gyakoriságát, amelyről tájékoztatja az érintett szervezetet. Az adatszolgáltatási és nyilvánosságra hozatali kötelezettségek nem haladhatják meg a 67. § (3a) bekezdése szerinti követelményeknek való megfelelés nyomon követéséhez szükséges mértéket.
 
 #### 28/I. A szavatoló tőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény megsértése
 
@@ -3131,6 +3171,7 @@ foglaltakat a Módtv. hatálybalépésekor folyamatban lévő eljárásokra is a
 - a) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. május 15-i 2014/59/EU európai parlamenti és tanácsi irányelvnek,
 - b) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek, és
 - c) a hitelintézetek és a befektetési vállalkozások veszteségviselő és feltőkésítési képessége tekintetében a 2014/59/EU irányelv, valamint a 98/26/EK irányelv módosításáról szóló, 2019. május 20-i (EU) 2019/879 európai parlamenti és tanácsi irányelvnek
+- e) a 2014/59/EU irányelvnek és a 806/2014/EU rendeletnek a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény egyes vonatkozásai tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1174 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
