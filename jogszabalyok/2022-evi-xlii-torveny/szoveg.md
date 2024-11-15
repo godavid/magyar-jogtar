@@ -10,7 +10,7 @@ A vonatkozó felhatalmazás megadására az Országgyűlés a következő törv�
 
 1. § Ez a törvény az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzetiszabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzettel (a továbbiakban: veszélyhelyzet) összefüggő sajátos szabályokat állapítja meg.
 
-2. § (1) Az Országgyűlés az Alaptörvény 51. cikk (3) bekezdése alapján felhatalmazza a Kormányt, hogy a veszélyhelyzetet 2024. november 19-ig meghosszabbítsa.
+2. § (1) Az Országgyűlés az Alaptörvény 51. cikk (3) bekezdése alapján felhatalmazza a Kormányt, hogy a veszélyhelyzetet 2025. május 18-ig meghosszabbítsa.
 
 (2) Az Országgyűlés a veszélyhelyzet ideje alatt az (1) bekezdés szerinti felhatalmazását visszavonhatja.
 
@@ -130,7 +130,7 @@ a 2022. október 31-én hatályos szöveggel, a KR2.-ben foglalt eltérésekkel 
 
 5. § Ez a törvény a kihirdetése napján 21 órakor lép hatályba.
 
-6. § (1) A 2. § (1) bekezdése 2024. november 20-án hatályát veszti.
+6. § (1) A 2. § (1) bekezdése 2025. május 19-én hatályát veszti.
 
 (2) Ez a törvény a 2. § (1) bekezdése hatályvesztését követő napon hatályát veszti.
 
