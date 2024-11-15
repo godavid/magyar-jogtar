@@ -299,6 +299,8 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (9) A (6) bekezdés szerinti kérelem kötelező tartalmi elemeit az e törvény végrehajtására kiadott kormányrendelet tartalmazza.
 
+(10) A közcélú szennyvíztisztítást ellátó vízilétesítmények, valamint a közcélú szennyvíztisztítást szolgáló objektumok védelmére, illetve a szomszédos ingatlanoktól történő elhatárolására (a továbbiakban együtt: objektumvédelem) védősávot kell kijelölni. Az objektumvédelmi védősáv kijelölésének és fenntartásának részletszabályait az e törvény végrehajtására kiadott kormányrendelet határozza meg.
+
 7. § (1) A víziközmű-tulajdonos tulajdonába tartozó rendszerfüggetlen víziközmű-elem a víziközmű-szolgáltatás hatékonyabb megszervezése érdekében a víziközmű-tulajdonossal üzemeltetési szerződést kötött víziközmű-szolgáltató részére elidegeníthető, a víziközmű-szolgáltató tulajdonában állhat.
 
 (2) A víziközmű-szolgáltató a tulajdonában lévő rendszerfüggetlen víziközmű-elemet számviteli elszámolásaiban az egyéb saját tulajdonú eszközeitől elkülönítetten tartja nyilván, és gondoskodik a szükségessé váló felújításáról, pótlásáról.
@@ -306,6 +308,12 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 (3) Az üzemeltetési szerződés megszűnése esetében a víziközmű-szolgáltató a tulajdonában álló rendszerfüggetlen víziközmű-elemet legfeljebb könyv szerinti nettó értéken az ellátásért felelős részére írásban megvételre felajánlja.
 
 (4) Ha a felajánlott rendszerfüggetlen víziközmű-elemet víziközmű-fejlesztési hozzájárulás terhére újították fel, a könyv szerinti nettó érték víziközmű-fejlesztési hozzájárulásból ráfordított összegével csökkentett értéken kerül felajánlásra.
+
+7/A. § (1) A 7. §-ban foglaltaktól eltérően az energiahatékonyságról szóló törvényben meghatározott energiahatékonysági szolgáltató megszerezheti az energiahatékonyság-javító intézkedéshez szorosan kapcsolódó rendszerfüggetlen víziközmű-elem tulajdonjogát az energiahatékonyságot növelő beruházás során az energiahatékonyság-alapú szerződésben meghatározott időtartamra.
+
+(2) Az (1) bekezdésben meghatározott időtartam leteltét követően a rendszerfüggetlen víziközmű-elem térítésmentesen a finanszírozási konstrukciótól függően a víziközmű-szolgáltató, vagy az ellátásért felelős tulajdonába kerül.
+
+(3) Az energiahatékonyság-alapú szerződés tárgyát képező rendszerfüggetlen víziközmű-elem az energiahatékonyság-alapú szerződésben meghatározott időtartam alatt kizárólag akkor kerülhet az (1) bekezdés szerinti energiahatékonysági szolgáltató birtokába, ha ez nem veszélyezteti az ellátásbiztonságot.
 
 8. § (1) Az ellátásért felelőssel víziközmű-üzemeltetési jogviszonyban nem álló beruházó a víziközmű létrehozására irányuló beruházást az ellátásért felelős előzetes jóváhagyásával valósíthat meg. Ha a víziközmű nem állami vagy önkormányzati beruházásban jön létre, a beruházó a víziközmű tulajdonjogát a víziközmű üzembe helyezésének időpontjában az ellátásért felelősre átruházza. Az átruházásról a felek szerződést kötnek.
 
@@ -1542,7 +1550,7 @@ kiállított számla érvénytelen.
 - 5. a közérdekű üzemeltető kijelölésére, jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a víziközmű-szolgáltatás biztosításához szükséges szerződésekre vonatkozó részletes rendelkezéseket;
 - 6. a Hivatal hatáskörébe tartozó hatósági tevékenység részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyes tevékenység folytatásának, valamint az engedély kiadásának, módosításának és visszavonásának feltételeit, továbbá a víziközmű-szolgáltató jogait és kötelezettségeit;
 - 7. a víziközmű-felügyeleti bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait;
-- 8.
+- 8. az objektumvédelemmel kapcsolatos objektumvédelmi védősávok kijelölésének és fenntartásának részletszabályait;
 - 9. a víziközmű-szolgáltató kötelezettségei teljesítésével kapcsolatos áruk és szolgáltatások körét, a beszerzésre, a kiválasztásra és a megbízásra vonatkozó feltételeket és eljárásokat;
 - 10. a víziközmű-szolgáltató és a felhasználó közötti jogviszony részletes szabályait, a közszolgáltatási szerződés minimális tartalmi követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elkülönített vízhasználóra vonatkozó részletes szabályokat;
 - 11. az üzletszabályzat kötelező tartalmi elemeit, benyújtásának formai követelményeit, valamint a jóváhagyás szempontjait;
