@@ -20,7 +20,7 @@ a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között 
 
 6. § A Megállapodás végrehajtása során az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény szabályait kell alkalmazni.
 
-7. § Hatályát veszti a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között az országonkénti jelentések cseréjéről szóló megállapodás kihirdetéséről szóló 2018. évi LXXXV. törvény.
+#### 7. §
 
 ### 1. melléklet a 2024. évi XLIII. törvényhez
 
