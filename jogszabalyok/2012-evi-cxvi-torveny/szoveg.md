@@ -68,7 +68,7 @@ terjed ki.
 - h) a korlátozott rendeltetésű fizetési számláról végrehajtott fizetési művelet,
 - i) a kincstárban vezetett, európai uniós támogatásokkal és elszámolásokkal, továbbá nemzetközi szervezetekkel történő elszámolásokkal kapcsolatos számlák terhére megvalósított fizetési művelet,
 - j) a kincstár által az Áht. 79. § (2) bekezdés f) pontja alá tartozó kincstári körön kívüli számlatulajdonos számlái terhére végrehajtott, a hallgatói hitel folyósításához kapcsolódó fizetési művelet,
-- k) az egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás, amennyiben a fizető fél számlatulajdonos természetes személy (az egyéni vállalkozói minőségében fizető természetes személy kivételével),
+- k) az egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás, ha a fizető fél számlatulajdonos természetes személy (az egyéni vállalkozói minőségében fizető természetes személy kivételével),
 - l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet,
 - m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla,
 - n) a pénzforgalmi szolgáltató által vezetett fizetési számla terhére megvalósított fizetési művelet, feltéve, hogy a számla tulajdonosa kizárólag olyan természetes személy, jogi személy vagy egyéb jogi megállapodás (különösen a gazdasági társaság, a polgári jogi társasági szerződés, a bizalmi vagyonkezelési szerződés vagy az alapítvány), aki (amely) az Európai Unió más tagállama vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt,
@@ -107,13 +107,13 @@ köteles teljesíteni.
 
 - a) a b)–j) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját – a fizető fél saját vagy a kedvezményezett megbízása alapján – megterheli,
 - b) készpénzátutalás esetén az átutalási megbízásban szereplő pénzösszeg,
-- c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a Posta Elszámoló Központot működtető intézménynél kezdeményezett befizetés 20 ezer forintot meghaladó összege,
+- c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a Posta Elszámoló Központot működtető intézménynél kezdeményezett befizetés 50 ezer forintot meghaladó összege,
 - d) kölcsöntörlesztés esetén az az összeg, amellyel a pénzforgalmi szolgáltató az ügyfél fizetési számláját megterheli, illetve amelyet az ügyfél a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménynek készpénzben megfizet,
 - e) készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén a kifizetett összeg,
 - f) a pénzváltási tevékenység végzésre jogosult hitelintézet, valamint pénzváltás közvetítésére jogosult kiemelt közvetítő útján történő pénzváltási tevékenységnél az eladott fizetőeszköz összege,
 - g) jutalék- és díjbevételek esetén az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját megterheli, illetve amelyet a készpénz-helyettesítő fizetési eszközre tekintettel felszámít,
 - h) a fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a fizető fél ugyanazon készpénz-helyettesítő fizetési eszközzel lebonyolított előző naptári évi fizetési műveletei,
-- i) magánszemély fizetési számlájáról (kivéve a magánszemély egyéni vállalkozói számlájáról) történő átutalás esetén átutalásonként a 20 ezer forintot meghaladó összeg.
+- i) magánszemély fizetési számlájáról (kivéve a magánszemély egyéni vállalkozói számlájáról) történő átutalás esetén átutalásonként a 50 ezer forintot meghaladó összeg.
 
 (2) Külföldi pénznemre szóló fizetési megbízás, kölcsöntörlesztés, jutalék és díjbevétel felszámítás és pénzváltási tevékenység esetén az (1) bekezdés szerinti összeget a teljesítési napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
 
@@ -127,14 +127,14 @@ köteles teljesíteni.
 
 7. § (1) A pénzügyi tranzakciós illeték mértéke
 
-- a) az e)–f) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 10 ezer forint,
-- b) a h) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
-- c) a pénzügyi tranzakciós illeték alapjának 0,6 százaléka a fizetési számláról történő készpénzkifizetés, illetve a készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén,
+- a) az e)–f) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,45 százaléka, de fizetési műveletenként legfeljebb 20 ezer forint,
+- b) a h) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,45 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
+- c) a pénzügyi tranzakciós illeték alapjának 0,9 százaléka a fizetési számláról történő készpénzkifizetés, illetve a készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén,
 - d)
 - e) a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén – az f) pont szerinti kivétellel – 800 forint,
 - f) az érintés nélküli fizetési funkcióval rendelkező készpénz-helyettesítő fizetési eszköz ezen funkciójának használatával végrehajtott műveletet is tartalmazó, a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén 500 forint,
 - g)
-- h) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 10 ezer forint a 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
+- h) a pénzügyi tranzakciós illeték alapjának 0,45 százaléka, de fizetési műveletenként legfeljebb 20 ezer forint a 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
 
 (2) Az (1) bekezdés alkalmazásában a csoportos átutalás egyes átutalási megbízásai és a csoportos beszedési megbízás egyes beszedési megbízásai önálló fizetési műveletnek minősülnek.
 
@@ -176,7 +176,7 @@ köteles teljesíteni.
 
 (2) Az e § szerinti tranzakciós illeték alapja a pénzügyi eszköz ügyfélszámlán (értékpapírszámlán) jóváírt értéke (vételára), azzal hogy amennyiben ezen érték külföldi pénznemben denominált, akkor a Magyar Nemzeti Bank által közzétett, a teljesítési napon érvényes hivatalos devizaárfolyamon kell forintra átszámítani.
 
-(3) Az e § szerinti tranzakciós illeték mértéke az illeték alapjának 0,3 százaléka, de vételenként legfeljebb 10 ezer forint.
+(3) Az e § szerinti tranzakciós illeték mértéke az illeték alapjának 0,45 százaléka, de vételenként legfeljebb 20 ezer forint.
 
 (4) Az e § szerinti tranzakciós illetékfizetési kötelezettség a pénzügyi eszköz vétele teljesítésének napján keletkezik.
 
@@ -189,6 +189,50 @@ köteles teljesíteni.
 (6) Az 1. § (1) bekezdés c) és d) pontja szerinti személy az e § szerinti tranzakciós illetékfizetési kötelezettséget havonta, a teljesítési napot követő hónap 20. napjáig állapítja meg, és az állami adóhatóság által rendszeresített nyomtatványon ezer forintra kerekítve vallja be és fizeti meg.
 
 (7) Az 1. § (1) bekezdés d) pontja szerinti személy az állami adóhatósági nyilvántartásba vétele érdekében az állami adóhatóság által rendszeresített külön nyomtatványon köteles az állami adóhatósághoz bejelentkezni az alannyá válás napját követő hónap 1. napjáig. Az állami adóhatóság a bejelentkezés alapján nyilvántartásba veszi az 1. § (1) bekezdés d) pontja szerinti személyt.
+
+#### 8/B. Kiegészítő pénzügyi tranzakciós illeték
+
+8/B. § (1) Az 1. § szerinti adóalanyt kiegészítő pénzügyi tranzakciós illeték-fizetési kötelezettség terheli – a (2) és (3) bekezdésben foglaltakra is figyelemmel – a különböző pénznemek közötti átváltást (konverziót) tartalmazó,
+
+- a) a 3. § (1)–(3) bekezdése szerinti fizetési művelet, továbbá a 3. § (4) bekezdés a) pontja és – a pénzforgalmi szolgáltató által más belföldi és külföldi hitelintézet, illetve a központi szerződő fél részére vezetett fizetési számla terhére megvalósított fizetési művelet kivételével – a 3. § (4) bekezdés e) pontja szerinti fizetési művelet,
+- b) a 8/A. § (1) bekezdése szerinti vétel,
+- c) az ügyfél javára, továbbá – a hitelintézet kivételével – más belföldi, illetve külföldi pénzforgalmi szolgáltató, pénzügyi intézmény, befektetési vállalkozás, befektetési alapkezelő, valamint befektetési alap javára a befektetési szolgáltatást nyújtó által a Bszt. 4. § (2) bekezdés 12. pontja szerinti csereügyletre vonatkozó megbízás végrehajtása
+
+esetében.
+
+(2) Amennyiben egy ügylet vonatkozásában az (1) bekezdés a) vagy b) pontja és c) pontja alapján is keletkezne kiegészítő pénzügyi tranzakciós illetékfizetési kötelezettség, akkor a kötelezettséget csak az (1) bekezdés c) pontja alapján kell teljesíteni.
+
+(3) Nem terheli kiegészítő pénzügyi tranzakciós illetékfizetési kötelezettség
+
+- a) a fizető fél által a kedvezményezett útján kezdeményezett fizetést és
+- b) – az (1) bekezdés a) pontja figyelembevételével – a 3. § (4) bekezdése szerinti műveletet.
+
+(4) A kiegészítő pénzügyi tranzakciós illetékfizetési kötelezettség az (1) bekezdés a) és b) pontja szerinti ügylet teljesítésének napján, az (1) bekezdés c) pontja esetében, amennyiben a csereügylet egy azonnali és egy határidős adásvételi ügyletből áll, akkor az azonnali ügylet értéknapján, amennyiben a csereügylet több határidős ügyletből áll, akkor az első határidős ügylet értéknapján keletkezik.
+
+(5) A kiegészítő pénzügyi tranzakciós illetékfizetési kötelezettséget
+
+- a) az (1) bekezdés a) pontja szerinti művelet esetén a pénzügyi tranzakciós illetékfizetésre az 5. § alapján kötelezett személy,
+- b) az (1) bekezdés b) pontja szerinti vétel esetében az 1. § (1) bekezdés c) és d) pontja szerinti személy,
+- c) az (1) bekezdés c) pontja szerinti csereügylet esetében az 1. § (1) bekezdés c) és d) pontja szerinti személy
+
+köteles megfizetni.
+
+(6) A kiegészítő pénzügyi tranzakciós illetékfizetési kötelezettség alapja
+
+- a) az (1) bekezdés a) pontja szerinti művelet esetében a 6. § (1) bekezdés a)–g) és i) pontja szerinti adóalap,
+- b) az (1) bekezdés b) pontja szerinti vétel esetében a 8/A. § (2) bekezdése szerinti adóalap figyelemmel a 8/A. § (5) bekezdés b) pontjára,
+- c) az (1) bekezdés c) pontja szerinti csereügylet esetében az az összeg, amelyre a csereügyletre vonatkozó megbízás vonatkozik, azzal, hogy magánszemély – ide nem értve az egyéni vállalkozót – megbízó esetén a csereügyletre vonatkozó megbízás 50 ezer forintot meghaladó összege.
+
+(7) Külföldi pénznemre szóló művelet esetén a (6) bekezdés szerinti összeget az (1) bekezdés a)–b) pontja szerinti művelet esetében a teljesítési napon, az (1) bekezdés c) pontja szerinti művelet esetében, amennyiben a csereügylet egy azonnali és egy határidős adásvételi ügyletből áll, akkor az azonnali ügylet értéknapján, amennyiben a csereügylet több határidős ügyletből áll, akkor az első határidős ügylet értéknapján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
+
+(8) A kiegészítő pénzügyi tranzakciós illetékfizetési kötelezettség a kiegészítő pénzügyi tranzakciós illeték alapjának 0,45 százaléka, de fizetési műveletenként, vételenként, illetve csereügyletenként legfeljebb 20 ezer forint.
+
+(9) A kiegészítő pénzügyi tranzakciós illetékfizetési kötelezettséget
+
+- a) az (1) bekezdés a) és c) pontja szerinti ügyletre a 8. § (1)–(2a) bekezdésének,
+- b) az (1) bekezdés b) pontja szerinti ügyletre a 8/A. § (6) bekezdésének
+
+megfelelően kell megállapítani, bevallani és megfizetni.
 
 #### 9. Eljárási rendelkezések
 

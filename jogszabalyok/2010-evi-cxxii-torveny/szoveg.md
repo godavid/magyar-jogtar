@@ -73,7 +73,9 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 (2) A NAV nyomozó hatósági feladatait ellátó területi szervének felettes szerve a Bűnügyi Főigazgatóság.
 
-(3) A Kormány rendeletében megjelölt területi szervek által első fokon hozott döntésekkel (intézkedésekkel) szemben induló jogorvoslati eljárásokban felettes szervként a Fellebbviteli Igazgatóság jár el.
+(3) A (3a) bekezdésben foglalt kivétellel a Kormány rendeletében megjelölt területi szervek által első fokon hozott döntésekkel (intézkedésekkel) szemben induló jogorvoslati eljárásokban felettes szervként a Fellebbviteli Igazgatóság jár el.
+
+(3a) A Központi Irányítás jár el felettes szervként azon fizetési kedvezmények esetén, amelyben a kérelemmel érintett összeg az 1 milliárd forintot eléri vagy meghaladja.
 
 (4) A Központi Irányítás felettes szerve a kijelölt miniszter.
 
@@ -165,8 +167,10 @@ kapcsolatos feladatokat.
 - c) végzi meghatározott körben anyagi javak, értékek őrzését, kísérését,
 - d) végzi az elfogott, előállított, őrizetbe vett, valamint fogva tartott személyek őrzését, kísérését,
 - e) jogszabályban meghatározott ellenőrzési kötelezettségeinek és jogosultságainak végrehajtása egyik formájaként mozgó egységekkel végzi Magyarország területén – az EU külső határán működő határátkelőhelyek kivételével – a mélységi ellenőrzési tevékenységet,
-- f)
+- f) ellátja a közúti áru- és személyszállításra vonatkozó egyes rendelkezések betartásának vizsgálatára irányuló, a közúti közlekedésről szóló 1988. évi I. törvény 20. § (11) bekezdése, valamint a gépjárműadóról szóló 1991. évi LXXXII. törvény 17. §-a szerinti hatósági feladatokat,
 - g) a külön jogszabályban meghatározott rendvédelmi, igazgatási feladatokat.
+- h) ellátja az Unió területére belépő, illetve az Unió területét elhagyó készpénz ellenőrzéséről és az 1889/2005/EK rendelet hatályon kívül helyezéséről szóló 2018/1672 európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2021. évi XLI. törvény 1. § (2) bekezdés szerinti hatósági feladatokat,
+- i) végzi a fémkereskedelmi hatósági feladatokat.
 
 (9) A NAV végzi továbbá
 
@@ -560,7 +564,7 @@ igazolja.
 
 35/F. § (1) Akinek az e fejezetben – a 36/J. §, 36/M. §, a 37/A–37/B. § kivételével – meghatározott intézkedés vagy kényszerítő eszköz alkalmazása (jelen § alkalmazásában az intézkedés és a kényszerítő eszköz a továbbiakban együtt: intézkedés) jogát vagy jogos érdekét sértette – a 36/C. § (3) bekezdés, a 36/F. § (3) bekezdés, a 36/G. § (3) bekezdés és a 36/L. § (4) bekezdés szerinti eltéréssel és a 36/N. § (4) bekezdés szerinti korlátozással –, panasszal fordulhat a NAV intézkedést foganatosító szervéhez, illetve nyomozó szervéhez. A panasznak nincs halasztó hatálya.
 
-(2) Az intézkedést foganatosító szerv vezetője a panaszt az általános közigazgatási rendtartás szabályai szerint bírálja el. Az eljárás során a jelen §-ban nem szabályozott kérdésekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
+(2) Az intézkedést foganatosító szerv vezetője, illetve a nyomozó szerv vezetője a panaszt az általános közigazgatási rendtartás szabályai szerint bírálja el. Az eljárás során a jelen §-ban nem szabályozott kérdésekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (3) A panaszt az intézkedést követő 8 napon belül az intézkedést foganatosító szervnél, illetve nyomozó szervnél lehet előterjeszteni.
 
@@ -635,7 +639,7 @@ kérheti fel.
 (2) A pénzügyőr a hatáskörrel és illetékességgel rendelkező hatóság elé állíthatja azt,
 
 - a) aki a pénzügyőri felszólításra nem tudja a személyazonosságát hitelt érdemlően igazolni, vagy annak igazolását megtagadja,
-- b) aki a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével gyanúsítható.
+- b) aki a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény miatt indult büntetőeljárás terheltje, vagy a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésével megalapozottan gyanúsítható.
 
 (3) A pénzügyőr jogosult a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözött személyek nyilvántartásában szereplő, a körözés alapján előállítandó személyt az intézkedés helye szerint illetékes rendőrkapitányságra előállítani. Az előállított személy átszállításáról, az intézkedést elrendelő vagy az intézkedésben megjelölt hatóság elé állításáról az előállítást elrendelő hatóság gondoskodik.
 
@@ -676,6 +680,8 @@ kérheti fel.
 36/H. § (1) A 36/E. §-on vagy a 36/G. §-on alapuló, a birtokos távollétében történt behatolást követően a NAV köteles a birtokost tájékoztatni, és a vagyonvédelem érdekében szükséges intézkedést megtenni.
 
 (2) A 36/E–36/G. §-on alapuló magánlakásban, illetve egyéb helyen, helyiségben való tartózkodás csak a feladat végrehajtásához szükséges ideig tarthat.
+
+(3) Magánlakás, illetve közterületnek nem minősülő egyéb hely átvizsgálása során a pénzügyőr pórázon vezetve szájkosár nélküli szolgálati keresőkutyát is alkalmazhat.
 
 ### A helyszín biztosítása
 
@@ -729,7 +735,11 @@ kérheti fel.
 
 használható fel.
 
-(4) Ha a (3) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség, az (1) bekezdés alapján rögzített felvételt a rögzítést követő 30 nap elteltével törölni kell.
+(3a) Az (1) bekezdésben foglaltak alapján készített felvétel a törvényben meghatározott tájékoztatási feladatok teljesítése, illetve az állomány képzése, oktatása érdekében személyazonosításra alkalmatlanná tett módon abban az esetben használható fel, ha az a felvétel készítésének alapjául szolgáló eljárás eredményességét nem sérti.
+
+(4) Ha a (3) és a (3a) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség, az (1) bekezdés alapján rögzített felvételt a rögzítést követő 30 nap elteltével törölni kell.
+
+(4a) A (1) bekezdés alapján rögzített felvételt a személyes adat végleges módon történt azonosíthatatlanná tételét követően a (3a) bekezdés szerinti tájékoztatást követő 30 nap elteltével törölni kell. Oktatási célból a felvétel korlátlan ideig felhasználható.
 
 (5) Ha a felvétel felhasználására a (3) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 
@@ -1508,7 +1518,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - b) az elkövetett jogsértés megnevezését,
 - c) alkalmazott szankciót.
 
-(3) Az EU váminformációs rendszeréből a nemzeti hatóság által rögzített személyes adatokat a 72 § (1)–(1b) bekezdésében meghatározott törlési határidők alapján, de legfeljebb húsz év elteltével törölni kell.
+(3) Az EU váminformációs rendszeréből a nemzeti hatóság által rögzített személyes adatok csak a vámügyben meghatározott cél eléréséhez szükséges ideig, de legfeljebb öt évig őrizhetők meg. Kivételes esetben az adatok legfeljebb további két évig őrizhetők meg, ha egyedi esetben megállapításra kerül, hogy az említett cél elérése érdekében erre feltétlenül szükség van.
 
 80/A. § (1) A NAV a jogszabályban meghatározott adókedvezményre, adóalap-kedvezményre vagy adómentességre való jogosultságra vonatkozó kormányzati tájékoztatás céljából jogosult az adókedvezményre, adóalap-kedvezményre vagy adómentességre jogosult személy nevére, lakcímére, valamint az adókedvezményére, adóalap-kedvezményére vagy adómentességére vonatkozó adatainak kezelésére.
 
@@ -1531,6 +1541,8 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - a) a NAV szervezeti felépítésére vonatkozó részletes szabályokat,
 - b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes vármegyei igazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
 - c) a Fenntartható Gazdaságfehéredésért Felelős Bizottság összetételének és működésének részletes szabályait.
+
+(1a) A Kormány rendelete alapján a NAV elnöke vámügyekben a vármegyei igazgatóságok illetékességét az (1) bekezdés b) pontjától eltérően jelölheti ki.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -1761,6 +1773,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 - a) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet,
 - b) az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet (37/C. §).
+- c) a 2009/917/IB tanácsi határozatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló 2024. március 13-i (EU) 2024/868 európai parlamenti és a tanácsi rendelet [80. § (3) bekezdés]
 
 #### 107. §
 

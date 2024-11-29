@@ -548,7 +548,7 @@ Isten engem úgy segéljen!”
 
 35/B. § A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély megadásáról szóló döntésről, – a döntés véglegessé válásával egyidejűleg – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
 
-35/C. § Ha a 35. § és a 35/A. § (1) bekezdés szerinti engedély iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, a közfelügyeleti hatóság az eljárást felfüggeszti.
+35/C. § Ha a 35. § és a 35/A. § (1) bekezdés szerinti engedély iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
 
 36. § Nem adható jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére engedély annak a gazdálkodó szervezetnek (szervezetnek),
 
@@ -721,7 +721,7 @@ Isten engem úgy segéljen!”
 
 (1c) A 49. § szerinti minősítés iránti kérelem tárgyában a közfelügyeleti hatóság a kérelem beérkezésétől számított 60 napon belül dönt.
 
-(1d) Ha a 49. § szerinti minősítés iránti kérelem, valamint az 50. § (2c) bekezdés szerinti igazolás iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, a közfelügyeleti hatóság az eljárást felfüggeszti.
+(1d) Ha a 49. § szerinti minősítés iránti kérelem, valamint az 50. § (2c) bekezdés szerinti igazolás iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
 
 (2) Kérelem alapján minősítést (ide nem értve a 49/A. § h) pontja szerinti minősítést) a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
 
@@ -964,6 +964,8 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (6b) A 66. §-ban, valamint az (1)–(6a) bekezdésben foglaltakat a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása során is megfelelően alkalmazni kell.
 
+(7) Nem jelenti a titoktartási kötelezettség megszegését a 4. § (5) bekezdés b) pontja szerinti nemzeti standardoknak, valamint az etikai követelményeknek való megfelelés.
+
 ### IV/A. Fejezet — A KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ GAZDÁLKODÓ TEKINTETÉBEN ELLÁTOTT JOGSZABÁLYI KÖTELEZETTSÉGEN ALAPULÓ KÖNYVVIZSGÁLÓI TEVÉKENYSÉG KÜLÖNÖS SZABÁLYAI
 
 67/A. § (1) A kamarai tag könyvvizsgáló, könyvvizsgáló cég közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során a Rendeletben foglaltakat e fejezettel összhangban alkalmazza.
@@ -972,7 +974,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (3) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a Rendelet 11. cikke szerinti, audit bizottsághoz címzett kiegészítő jelentést meg kell küldenie a vizsgált gazdálkodó igazgató tanácsa, felügyelő testülete részére. A Rendelet 11. cikke szerinti, audit bizottsághoz címzett kiegészítő jelentést a közérdeklődésre számot tartó gazdálkodó részére kibocsátott könyvvizsgálói jelentés dátumát követő 60 napon belül meg kell küldeni a közfelügyeleti hatóság és a Magyar Nemzeti Bank elektronikus elérhetőségére.
 
-(4) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló vagy a könyvvizsgáló cég évente december 31-ig tájékoztatja a közfelügyeleti hatóságot a december 31-én hatályban lévő, közérdeklődésre számot tartó gazdálkodóval kötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó megbízásairól.
+(4) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet is) ellátó kamarai tag könyvvizsgáló vagy a könyvvizsgáló cég évente december 31-ig tájékoztatja a közfelügyeleti hatóságot a december 31-én hatályban lévő, közérdeklődésre számot tartó gazdálkodóval kötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet is) vonatkozó megbízásairól.
 
 (5) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló, könyvvizsgáló cég a Rendelet 14. cikk szerinti tájékoztatást az üzleti évét követő négy hónapon belül küldi meg a közfelügyeleti hatóság számára.
 
@@ -985,6 +987,14 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 67/C. § A közérdeklődésre számot tartó gazdálkodó fenntarthatósági jelentésére vonatkozó bizonyosság nyújtása során a nem könyvvizsgálói szolgáltatások nyújtásának tilalma tekintetében a Rendelet 5. cikkének (1), valamint (4) és (5) bekezdését kell alkalmazni.
 
 67/D. § A közérdeklődésre számot tartó gazdálkodó fenntarthatósági jelentésére vonatkozó bizonyosság nyújtása során a szabálytalanságok tekintetében a Rendelet 7. cikke szerint kell eljárni.
+
+67/E. § A közérdeklődésre számot tartó gazdálkodónál végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) ellátása esetén
+
+- a) a közérdeklődésre számot tartó gazdálkodó szavazati jogainak vagy a jegyzett tőkéjének legalább 5%-át képviselő tag vagy tagok;
+- b) a közérdeklődésre számot tartó gazdálkodó más szervei (ideértve többek között annak legfőbb szervét, az auditbizottságot, valamint a felügyelőbizottságot); továbbá
+- c) a közfelügyeleti hatóság
+
+a megfelelő indokok fennállása esetén az illetékes bíróságnál keresetet nyújthat(nak) be a kamarai tag könyvvizsgáló vagy a könyvvizsgáló cég jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására vonatkozó megbízásának megszüntetése céljából.
 
 ### V. Fejezet — A HARMADIK ORSZÁGBELI KÖNYVVIZSGÁLÓRA ÉS A HARMADIK ORSZÁGBELI KÖNYVVIZSGÁLÓ GAZDÁLKODÓRA VONATKOZÓ SZABÁLYOK
 
@@ -2172,9 +2182,11 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 120 nap.
 
+(16) A közfelügyeleti hatóság a kormányzati portálon tárgyév március 31-ig közzéteszi a tárgyévet megelőző üzleti évekre vonatkozó könyvvizsgálati megbízások (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) minőségellenőrzési eljárása során alkalmazandó kérdőíveket, valamint a könyvvizsgáló cégek minőségirányítási rendszerének minőségellenőrzési eljárása során alkalmazandó kérdőíveket.
+
 173/C. § (1) A minőségellenőrzésről az ellenőr záró jelentést készít.
 
-(2) A záró jelentést az ellenőrzés befejezésétől számított tizenöt napon belül kell elkészíteni.
+(2) A záró jelentést az ellenőrzés befejezésétől számított harminc napon belül kell elkészíteni.
 
 (3) A záró jelentést az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek meg kell küldeni.
 
@@ -2472,6 +2484,12 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (3) Az (1) bekezdés szerinti eljárás során a határozat meghozatalára nyitva álló határidő az eljárás megindításától számított 60 nap.
 
+(4) Az (1) bekezdés szerinti eljárás lefolytatásához közreműködőként a 173/B. § (6) bekezdés e) pontjában foglaltaknak megfelelő, speciális szaktudással rendelkező személyek is bevonhatóak. A közreműködő önálló írásos véleményt nem készít, a döntéshozatalban nem vesz részt. A közreműködőnek a helyszíni ellenőrzés megkezdése előtt titoktartási nyilatkozatot kell adnia az ellenőrzöttnek.
+
+(5) Az ellenőrnek, a közreműködőnek és az ellenőrzöttnek az ellenőrzés megkezdése előtt nyilatkoznia kell a függetlenségi és összeférhetetlenségi követelményeknek való megfelelésről.
+
+(6) Ha az (1) bekezdés szerinti eljárás a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem folytatható le, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
+
 196. § (1) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) igénybe vevők érdekét veszélyeztető helyzet észlelése esetén a 195. § (1) bekezdése szerinti eljárás alapján rendelkezésére álló tények elemzése, értékelése, mérlegelése alapján a következő intézkedések alkalmazhatók:
 
 - a) kötelezés továbbképzésen való részvételre,
@@ -2687,6 +2705,10 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 208/T. § E törvénynek a Mód3. törvény által megállapított 173/B. § (7) bekezdése szerinti ellenőr 2025. december 31-ig mentesül a fenntarthatósági jelentés készítésével, a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtásával, a fenntarthatósági jelentéshez kapcsolódó egyéb szolgáltatásokkal összefüggő releváns tapasztalatra vonatkozó követelmény alól, amennyiben fenntarthatósági jelentésre vonatkozó bizonyosság nyújtásához kapcsolódó minőségellenőrzést végez.
 
 208/U. § E törvénynek a Mód3. törvény által megállapított 23/B. §-át és 48/B. §-át a 2025. üzleti évi fenntarthatósági jelentésekre vonatkozó bizonyossági dokumentáció elkészítése, archiválása és megőrzése során kell először alkalmazni.
+
+208/V. § E törvénynek a 90. § h) pontja szerinti fenntarthatósági jelentés könyvvizsgálata című modult először annak a természetes személynek kell teljesítenie, akit 2024. január 1-jét követően vettek fel az okleveles könyvvizsgálói képzési programba.
+
+208/W. § A fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet végző kamarai tag könyvvizsgálónak és a fenntarthatósági bizonyosság nyújtására irányuló megbízás minőségének áttekintését végző személynek a 2024–2026. üzleti évek tekintetében elegendő a 49/A. § h) pontja szerinti fenntarthatósági minősítéssel rendelkeznie a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására, a fenntarthatósági bizonyosság nyújtására irányuló megbízás minőségének az áttekintésére vonatkozóan, és nem szükséges a gazdálkodó könyvvizsgálatához előírt, egyéb minősítéssel rendelkeznie.
 
 ### Az Európai Unió jogának való megfelelés
 
