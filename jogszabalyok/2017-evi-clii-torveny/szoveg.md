@@ -1060,7 +1060,7 @@ akkor a vámhatóság a fizetendő általános forgalmi adó összegéről nem h
 
 (5) Ha az (1) és (2) bekezdés szerinti személy a Vámkódex 22. cikke szerinti kérelmet az erre a célra létrehozott uniós informatikai rendszerben nyújt be, akkor a vámhatóság a döntéseit e rendszeren keresztül közli. A közlés napja a vámhatósági döntés elküldésének az időpontja.
 
-(6) Az (5) bekezdéstől eltérően a döntés közlésének napja az a nap, amelyen azt írásban vagy szóban közölték, vagy a (4) bekezdésben meghatározott módon átadták. A vámjogszabályok eltérő rendelkezése hiányában a hirdetmény útján közölt döntést a hirdetmény kifüggesztését követő 15. napon kell közöltnek tekinteni.
+(6) Az (5) bekezdéstől eltérően a döntés közlésének napja az a nap, amelyen azt írásban vagy szóban közölték, vagy a (4) bekezdésben meghatározott módon átadták. A vámjogszabályok eltérő rendelkezése hiányában a hirdetmény útján közölt döntést a hirdetmény vámhatóság honlapján történő közzétételének napját követő 15. napon kell közöltnek tekinteni.
 
 (7) A vámjogszabályok eltérő rendelkezése hiányában a határozott naphoz kötött jogszerzés a nap kezdetén következik be. A határidő elmulasztása vagy a késedelem jogkövetkezményei a határidő utolsó napjának elteltével állnak be.
 
@@ -1101,7 +1101,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 (2) A vámjogszabályok eltérő rendelkezése hiányában a hirdetmény tartalmazza
 
-- a) a kifüggesztés napját,
+- a) a vámhatóság honlapján történő közzététel napját,
 - b) az eljáró vámszerv megnevezését,
 - c) az ügy számát és tárgyát,
 - d) az ügyfél nevét és utolsó ismert lakcímét, valamint székhelyét, adószámát, továbbá
@@ -1358,7 +1358,7 @@ az a) és b) pont szerint keletkezett bírságok együttes összege meghaladja a
 
 terjedő összeget kell megállapítani.
 
-(11) A (10) bekezdés szerinti bírság kiszabásakor a vámhatóság mérlegeli az eset összes körülményét, az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja magatartásának súlyát, a jogsértés gyakoriságát a jogsértés megállapításától számított egy évben belül, továbbá azt, hogy az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
+(11) A (10) bekezdés szerinti bírság kiszabásakor a vámhatóság mérlegeli az eset összes körülményét, az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja magatartásának súlyát, a jogsértés gyakoriságát a kötelezettségszegés vagy mulasztás megállapításához kapcsolódóan biztosított meghallgatáshoz való jog közlésének napjától számított egy évben belül, továbbá azt, hogy az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
 
 (12) Ha az (1) bekezdés b) pontjában meghatározott jogsértést a (3) bekezdés e) pontja alapján olyan árura követik el, amely nem uniós áru és egyben jövedéki termék, akkor a vámigazgatási bírság mértéke az árut terhelő vám és egyéb terhek összegének 200%-ával megegyező összeg, de legalább 40 000 forint.
 
@@ -1392,7 +1392,7 @@ terjedő összeget kell megállapítani.
 
 - a) a jogsértést vagy ezzel összefüggő mulasztást nem a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével követték el,
 - b) a kötelezettségszegés vagy mulasztás következményeként nem keletkezik vámhiány, vagy a keletkező vámhiány összege természetes személy esetében a 30 000 forintot, jogi személy esetében 150 000 forintot nem haladja meg, és
-- c) az érintett személy a 84. § (1) bekezdésében meghatározott valamely kötelezettségszegést vagy mulasztást az annak megállapításától számított egy éven belül első alkalommal követi el,
+- c) az érintett személy a 84. § (1) bekezdésében meghatározott valamely kötelezettségszegés vagy mulasztás megállapításához kapcsolódóan biztosított meghallgatáshoz való jog közlésének napjától számított egy éven belül első alkalommal követi el,
 
 a vámhatóság a bírság kiszabását mellőzi és figyelmezteti az érintett személyt.
 
@@ -1436,7 +1436,7 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 
 #### 89. § [Vámigazgatási bírság gyorsított eljárás keretében]
 
-(1) Ha a 84. § (1) bekezdés b) pontja szerinti jogsértést oly módon követik el, hogy az Európai Unió vámterületére nem uniós árut juttatnak be és a keletkezett vámhiány a 100 000 forintot nem haladja meg, az eljáró vámhivatal gyorsított eljárás keretében a helyszínen vámigazgatási bírságot szabhat ki és szedhet be, ha a nem uniós áru birtokosa, szállítója a jogsértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi, és jogorvoslati jogáról lemond. A gyorsított eljárás csak akkor alkalmazható, ha a kiszabott bírságot a helyszínen megfizetik. Ebben az esetben a 84. § (8) vagy (12) bekezdése szerint megállapítható vámigazgatási bírság 50%-át, de legalább 4000 forintot, jövedéki termékre elkövetett jogsértés esetén legalább 25 000 forintot kell kiszabni.
+(1) Ha a 84. § (1) bekezdés b) pontja szerinti jogsértést oly módon követik el, hogy az Európai Unió vámterületére nem uniós árut juttatnak be és a Vámkódex 79. cikk (1) bekezdése alapján keletkezett vám- és egyéb terhek összege a 100 000 forintot nem haladja meg, az eljáró vámhivatal gyorsított eljárás keretében a helyszínen vámigazgatási bírságot szabhat ki és szedhet be, ha a nem uniós áru birtokosa, szállítója a jogsértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi, és jogorvoslati jogáról lemond. A gyorsított eljárás csak akkor alkalmazható, ha a kiszabott bírságot a helyszínen megfizetik. Ebben az esetben a 84. § (8) vagy (12) bekezdése szerint megállapítható vámigazgatási bírság 50%-át, de legalább 4000 forintot, jövedéki termékre elkövetett jogsértés esetén legalább 25 000 forintot kell kiszabni.
 
 (2) A gyorsított eljárás alkalmazásáról és a gyorsított eljárás lefolytatásának törvényi feltételeiről és a jogkövetkezményekről az érintettet tájékoztatni kell. Az érintett a tájékoztatás tudomásul vételét nyilatkozat aláírásával ismeri el.
 
@@ -1490,7 +1490,7 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 
 (13) Az (1) bekezdés szerint lefoglalt, szállításra használt átalakított eszköz elkobzását a (11)–(11a) bekezdés szerint kell végrehajtani, azzal, hogy az ilyen eszközt értékesíteni kell, feltéve, hogy a vevő az értékesítéskor kötelezettséget vállal arra, hogy a jogsértést lehetővé tevő átalakítást 3 hónapon belül megszünteti, és az eszközt a vámhatóságnál bemutatja.
 
-(14) Az elkobzott közúti, vízi és légi járművek értékesítés helyett a NAV szervei részére, feladatuk ellátásához történő használatra – a NAV vezetőjének jóváhagyásával – átadhatók.
+(14) Az elkobzott járművek – a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött vagyonkezelési szerződés, valamint rendvédelmi feladatot ellátó szerv vezetőjének írásbeli jóváhagyása alapján – értékesítés helyett, a jogszabályban meghatározott feladatainak ellátása céljából a rendvédelmi feladatot ellátó szerv vagyonkezelésébe adhatók.
 
 (15) A lefoglalt és azzal egyidejűleg vagy azt követően elkobzott árukat terhelő vám és egyéb teher fizetési kötelezettséget vámhiányként a vámigazgatási bírság megállapítása szempontjából figyelembe kell venni.
 
@@ -2006,7 +2006,7 @@ Az érintett személy által kezdeményezett és a NAV Szakértői Intézete ál
 
 (1) E § rendelkezéseit a Vámkódex 55. cikkében foglaltakra figyelemmel kell alkalmazni.
 
-(2) A napokban vagy munkanapokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, továbbá a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének a napja.
+(2) A napokban vagy munkanapokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, továbbá a közlésnek, a kézbesítésnek, a hirdetmény vámhatóság honlapján történő közzétételének és levételének a napja.
 
 (3) A postán küldött beadvány és megkeresés előterjesztési ideje a postára adás napja.
 
@@ -2509,17 +2509,17 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 A vámhatóság értesítését az Európai Unió vámterületére belépő légi jármű érkezéséről a Vámkódex 133. cikk (2) bekezdése alapján, a repülőtéri rendszerek adatainak felhasználásával a repülőtér üzemben tartója a vámhatósággal kötött együttműködési megállapodásban vállalhatja.
 
-#### 56. A Vámkódex 134. cikkéhez
+#### 56. A Vámkódex 134. és 267. cikkéhez
 
 #### 171. § [Vámfelügyelet]
 
-A vámfelügyelet biztosítása érdekében a vámhatóság az Unió vámterületére beszállított árut átmeneti jelleggel hatósági rendelkezés alá vonhatja, a vámeljárás végrehajtásához szükséges feltételek, információk és más hatósági engedélyek érintett személy általi rendelkezésre bocsátása vagy más, vámellenőrzéshez kapcsolódó vizsgálat végrehajtásának idejéig. A vámhatóság a rendelkezése alá vont árut vámraktárban vagy a vámhivatal által kijelölt helyen tárolja. A vámhivatal megfelelő biztosíték nyújtása esetén rendelkezhet az árunak az érintett személy őrizetében hagyásáról. A vámhatósági rendelkezés alá vonás során felmerülő költségeket az érintett személy a Vámkódex 52. cikk (2) bekezdés d) pontja, valamint e törvény alapján köteles megtéríteni.
+A vámfelügyelet biztosítása érdekében a vámhatóság az Unió vámterületére beszállított vagy onnan kiszállítandó árut átmeneti jelleggel hatósági rendelkezés alá vonhatja, a vámeljárás végrehajtásához szükséges feltételek, információk és más hatósági engedélyek érintett személy általi rendelkezésre bocsátása vagy más, vámellenőrzéshez kapcsolódó vizsgálat végrehajtásának idejéig. A vámhatóság a rendelkezése alá vont árut vámraktárban vagy a vámhivatal által kijelölt helyen tárolja. A vámhivatal megfelelő biztosíték nyújtása esetén rendelkezhet az árunak az érintett személy őrizetében hagyásáról. A vámhatósági rendelkezés alá vonás során felmerülő költségeket az érintett személy a Vámkódex 52. cikk (2) bekezdés d) pontja, valamint e törvény alapján köteles megtéríteni.
 
 #### 172. § [Tranzitterületen folytatott tevékenységek felügyelete]
 
 (1) A nemzetközi közforgalmú repülőtéren üzemeltetett tranzitterületen az üzemidő alatt biztosítani kell a személy- és áruforgalom vámellenőrzését.
 
-(2) Aki a tranzitterületen kiskereskedelmi vagy vendéglátóipari tevékenységet folytat, köteles azt a vámhatóságnak bejelenteni. Az értékesítést végző személy kötelezettséget vállal arra, hogy az általa végzett kiskereskedelmi értékesítés során az érkező tranzitutas, a közvetlenül harmadik országba, illetve más uniós tagállamba induló tranzitutas, és az egyéb, a tranzitterületre belépésre jogosult részére történő értékesítést elkülöníti.
+(2) Aki a tranzitterületen a jövedéki adóról szóló törvény szerinti, vagy az általános forgalmi adóról szóló törvény szerinti adómentes termékértékesítést végez, köteles azt a vámhatóságnak bejelenteni. Az értékesítést végző személy kötelezettséget vállal arra, hogy az általa végzett kiskereskedelmi értékesítés során az érkező tranzitutas, a közvetlenül harmadik országba, illetve más uniós tagállamba induló tranzitutas, és az egyéb, a tranzitterületre belépésre jogosult részére történő értékesítést elkülöníti.
 
 #### 57. A Vámkódex 140. cikkéhez
 
@@ -2808,7 +2808,7 @@ E Rész személyi hatálya a hatóságra és az (EU) 2021/2116 európai parlamen
 - h) az ellenőr megállapításait, a tisztázott tényállást a vonatkozó jogszabályok megjelölésével és annak bizonyítékait, az ügyfél által felajánlott és visszautasított bizonyítékok felsorolását és a visszautasítás indokolását,
 - i) a tapasztalt hiányosságok megszüntetésére vonatkozó esetleges javaslatokat,
 - j) az észrevételezés lehetőségéről és határidejéről szóló tájékoztatást,
-- k) az ellenőr nevét és aláírását, az EMGA utólagos ellenőrzést végző szerv bélyegzőlenyomatát és a keltezést.
+- k) az ellenőr nevét és aláírását, az EMGA utólagos ellenőrzést végző szerv bélyegzőlenyomatát és a keltezést; elektronikus hitelesítés esetén az ellenőr nevét és az elektronikus hitelesítésre szolgáló bélyegzőt.
 
 (4) Az EMGA utólagos ellenőrzés megállapításai alapján részjegyzőkönyv készülhet, ha az ügyfél EMGA utólagos ellenőrzéssel érintett tevékenysége egy részével kapcsolatban a tényállás tisztázásra került. A részjegyzőkönyvre a (3) bekezdés szerinti jegyzőkönyv szabályait kell alkalmazni.
 
@@ -3219,7 +3219,12 @@ rendeletben állapítsa meg.
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) A 34. § és a Negyedik Rész a belső piaci szolgáltatásokról szóló, 2006. december 12-i 123/2006/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(2) E törvény
+
+- a) 34. §-a és a Negyedik Része a belső piaci szolgáltatásokról szóló, 2006. december 12-i 123/2006/EK európai parlamenti és tanácsi irányelvnek,
+- b) 84. § (11) bekezdése és a 89. § (1) bekezdése a jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 ### XXXIX. Fejezet
 

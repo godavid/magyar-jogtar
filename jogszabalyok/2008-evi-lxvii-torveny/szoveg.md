@@ -94,7 +94,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 (14) Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti.
 
-(15) A (3) bekezdés l) pontja szerinti összeg 7. § (1) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+(15) A (3) bekezdés l) pontja szerinti összeg 7. § (1) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szabályaival összhangban nyújtható.
 
 (16) A (3) bekezdés l) pontja szerinti kedvezmény és a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezmény nem érvényesíthető ugyanazon elektromos töltőállomás bekerülési értéke alapján.
 
@@ -320,12 +320,12 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 
 (15) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 6. § (3) bekezdés l) pontját, valamint (14) és (15) bekezdését első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában kell alkalmazni, figyelemmel a (18) bekezdésben foglaltakra.
 
-(16) Az e törvény 6. § (15) bekezdése hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban igénybe vehető csekély összegű (de minimis) támogatás az adózó erre vonatkozó választása és adóbevallásban benyújtott nyilatkozata szerint az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény és az azt módosító, vagy annak helyébe lépő európai bizottsági közlemény (a továbbiakban: Válságközlemény) 2.1. szakaszának szabályaival és a támogatási programot jóváhagyó határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban is igénybe vehető, figyelemmel a (17)–(19) bekezdésre, valamint a Tao. tv. 4. számú mellékletében foglaltakra.
+(16)
 
-(17) A (16) bekezdést első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában, a támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően lehet alkalmazni, figyelemmel a (18) bekezdésben foglaltakra.
+(17)
 
 (18) E bekezdés hatálybalépését megelőzően, de 2022. január 31-ét követően benyújtott adóbevallását illetően az e törvény 6. § (3) bekezdés l) pontja tekintetében az adózónak önellenőrzést kell benyújtania.
 
-(19) A (16) bekezdés szerinti adózói választás és nyilatkozat utoljára a Válságközlemény alkalmazhatóságának határidejéig benyújtott adóbevallásban tehető meg.
+(19)
 
 (20) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 6. § (11a) és (11b) bekezdését az adóalany első alkalommal a 2023. adóévi adókötelezettségére alkalmazza.

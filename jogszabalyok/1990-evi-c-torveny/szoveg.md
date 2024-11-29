@@ -537,7 +537,7 @@ A kisvállalkozó e döntése a teljes adóévre vonatkozik és mindaddig érvé
 
 39/F. § (1) Mentes az adó alól a beszerző, értékesítő szövetkezet.
 
-(2) Az (1) bekezdés szerinti mentesség csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+(2) Az (1) bekezdés szerinti mentesség csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szabályaival összhangban nyújtható.
 
 ### Az adó mértéke
 
@@ -794,12 +794,24 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (6) Ha a sportvállalkozás adóbevallásában tett nyilatkozata alapján az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az 53. § (2) bekezdés b) pontja szerinti támogatásnak minősül és annak összege meghaladja az ötszázezer eurónak megfelelő forintösszeget, az állami adóhatóság a támogatás igénybevételéről adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az adózás rendjéről szóló törvény szerinti tartalommal és határidőben.
 
-42/E. § (1) Az állami adó- és vámhatóság naponta, elektronikus úton megküldi az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 1. melléklet 1. pontja szerinti (ide nem értve az adózó állami adóhatóság előtti képviseletére vonatkozó adatokat), az Art. 1. melléklet 17. pontja, 18. pontja, 20–21. pontja alapján az állami adó- és vámhatósághoz – az önkormányzati adóhatósághoz teljesített korábbi adatszolgáltatást követően – érkezett adatokat és az Art. 1. melléklet 29. pontja alapján bejelentett adatokat az Art. 1. melléklet 17. pontja szerinti adózó székhelye szerinti önkormányzati adóhatóság, valamint azon telephelyei szerinti önkormányzati adóhatóságok (a továbbiakban e § alkalmazásában: telephely szerinti önkormányzati adóhatóság) részére, amely telephelyeket az adózó az állami adó- és vámhatósághoz bejelentette.
+42/E. § (1) Az állami adó- és vámhatóság naponta, elektronikus úton megküldi az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 1. melléklet 1. pont
+
+- a) 1.1.–1.3. alpont,
+- b) 1.4. alpont (ide nem értve a cég székhelyétől különböző központi ügyintézés helyét),
+- c) 1.5. alpont (ide nem értve a honlapját),
+- d) 1.8. alpont (ide nem értve a könyvvizsgálójának nevét, elnevezését, lakóhelyét, székhelyét, e jogviszony keletkezésének és – határozott idejű jogviszony esetén – megszűnésének időpontját, könyvvizsgáló szervezet esetén annak a személynek a nevét és lakóhelyét is, aki a könyvvizsgálatért személyében felelős),
+- e) 1.9. alpont (ide nem értve 1.9.1. és 1.9.2. alpont szerinti főtevékenységen kívül ténylegesen végzett tevékenységi köröket),
+- f) 1.10. alpont,
+- g) 1.14. alpont,
+- h) 1.18.–1.19. alpont,
+- i) 1.21.–1.23. alpont (ide nem értve az 1.23. pont alpont szerinti főtevékenységen kívül ténylegesen végzett tevékenységi köröket)
+
+szerinti, az Art. 1. melléklet 17. pontja, 18. pontja, 20–21. pontja alapján az állami adó- és vámhatósághoz – az önkormányzati adóhatósághoz teljesített korábbi adatszolgáltatást követően – érkezett adatokat és az Art. 1. melléklet 29. pontja alapján bejelentett adatokat az Art. 1. melléklet 17. pont szerinti adózó székhelye szerinti önkormányzati adóhatóság, valamint azon telephelyei szerinti önkormányzati adóhatóságok (a továbbiakban e § alkalmazásában: telephely szerinti önkormányzati adóhatóság) részére, amely telephelyeket az adózó az állami adó- és vámhatósághoz bejelentett.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatásban szereplő adózó:
 
 - a) bejelentkezési, változásbejelentési kötelezettségét a székhelye szerinti és a telephely szerinti önkormányzati adóhatóságnál teljesítettnek kell tekinteni,
-- b) a 39/B. § (9) bekezdése szerinti körülményről, valamint képviselőjéről az önkormányzati adóhatóságnak bejelentést tehet.
+- b) a képviselőjéről az önkormányzati adóhatóságnak bejelentést tehet.
 
 (3) Ha a bejelentkezéssel, változásbejelentéssel összefüggésben adóelőleget vagy jogszabály alapján az (1) bekezdés szerinti adatszolgáltatásban nem szereplő más adatot is be kell jelenteni, akkor e bejelentés megtételére az adózót a székhelye és a telephely szerinti önkormányzati adóhatóság külön felhívja.
 
@@ -918,18 +930,7 @@ elektronikus úton megküldi az állami adóhatóság részére.
 
 51/K. § A Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvénnyel (a továbbiakban: Módtörvény) hatályon kívül helyezett 41. § (9) bekezdését – függetlenül attól, hogy az üzleti év megegyezik-e a naptári évvel – első alkalommal a Módtörvény hatálybalépése napját magában foglaló adóévben nem kell alkalmazni.
 
-51/L. § (1) A 2021. évben végződő adóévben azon vállalkozó esetén, amely azzal felel meg a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: KKV törvény) szerinti mikro-, kis- és középvállalkozássá minősítés feltételeinek, hogy esetében a KKV törvény 3. § (1) bekezdés b) pontjában meghatározott nettó árbevétel vagy mérlegfőösszeg értékhatár legfeljebb 4 milliárd forint (a továbbiakban: mikro-, kis- és középvállalkozás), a helyi iparűzési adó mértéke – az 51/N. §-ra figyelemmel – 1 százalék, ha a 2021. évben végződő adóévben alkalmazandó önkormányzati rendeletben megállapított helyi iparűzési adómérték több, mint 1 százalék.
-
-(2) Az (1) bekezdés szerinti rendelkezés – ha az ott meghatározott feltételek a vállalkozó esetén a 2022-ben végződő adóévben fennállnak – alkalmazható a 2022. évben végződő adóévben is.
-
-(3) Annak a naptári évtől eltérő üzleti évet választó mikro-, kis- és középvállalkozásnak, amely a tevékenységét
-
-- a) 2021-ben kezdte meg,
-  - aa) az (1) bekezdést a 2021. évben kezdődő adóévében,
-  - ab) a (2) bekezdést a 2022. évben kezdődő adóévében,
-- b) 2022-ben kezdte meg, a (2) bekezdést a 2022. évben kezdődő adóévében
-
-kell alkalmaznia.
+#### 51/L. §
 
 51/M. § (1) A vállalkozónak a 2022. évben, az adott előleg-fizetési időszakban esedékes, bevallott és a 2022. évben az önkormányzati rendelet szerinti adómértékkel bevallandó iparűzési adóelőleg 50 százalékát kell megfizetni, ha:
 
@@ -940,72 +941,9 @@ kell alkalmaznia.
 
 (2) Az (1) bekezdés szerint meg nem fizetendő előlegrészlet összegével az adóhatóság a mikro-, kis- és középvállalkozás iparűzési adóelőleg-kötelezettsége összegét hivatalból, határozathozatal nélkül csökkenti.
 
-51/N. § (1) Az 51/L. § (1) bekezdése szerinti intézkedés az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül. E támogatás az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID–19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, 2020/C 91 I/01 számú európai bizottsági közlemény (a továbbiakban: közlemény) 3.1. szakasza szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) nyújtható, illetve vehető igénybe.
+#### 51/N. §
 
-(2) Az 51/L. § (2) bekezdés szerinti intézkedés az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül. E támogatás a vállalkozó döntésétől függően – ide nem értve a (4) bekezdés b) pontjában említett esetet –
-
-- a) a vállalkozó tevékenységének függvényében
-  - aa) az 1407/2013/EU bizottsági rendelet szerinti általános csekély összegű támogatásként,
-  - ab) az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatásként vagy
-  - ac) a 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű támogatásként, vagy
-- b) átmeneti támogatásként
-
-nyújtható, illetve vehető igénybe.
-
-(3) Az (1) vagy a (2) bekezdés szerint nyújtható (igénybe vehető) átmeneti támogatás támogatástartalma a 2021. évben végződő adóévi – az 51/L. § (3) bekezdése a) pont szerinti esetben a 2021. évben kezdődő adóévi – adóalap, valamint az alkalmazandó önkormányzati rendeletben megállapított adómérték (a továbbiakban: általános adómérték) és az 51/L. § (1) bekezdés szerinti adómérték (a továbbiakban: csökkentett adómérték) különbözetének (a továbbiakban: különbözet-adómérték) szorzatával egyező összeg.
-
-(4) Az 51/L. § (3) bekezdés b) pont szerinti esetben a támogatás támogatástartalma a 2022. évben kezdődő adóévi adóalap, valamint a különbözet-adómérték szorzatával egyező összeg, s e támogatás, ha a vállalkozó tevékenységét
-
-- a) 2022. január 1. és 2022. június 30. között kezdi meg, a vállalkozó döntésének és tevékenységének függvényében a (2) bekezdés szerinti,
-- b) 2022. július 1. és 2022. december 31. között kezdi meg, akkor a (2) bekezdés a) pontja szerinti
-
-jogcímen nyújtható, illetve vehető igénybe.
-
-(5) Ha – a (2) bekezdés b) pontja alkalmazása esetén – a (3) bekezdés szerinti adóalap összegét meghaladja a 2022. évben végződő adóévi – az 51/L. § (3) bekezdése a) pont ab) alpontja szerinti esetben a 2022. évben kezdődő adóévi – adóalap összege (a továbbiakban: többlet-adóalap), akkor a többlet-adóalap valamint különbözet-adómérték szorzatával egyező összegű támogatás a (2) bekezdés a) pont szerinti jogcímen nyújtható, illetve vehető igénybe.
-
-(6) A (2) bekezdés b) pontjának alkalmazása esetén a vállalkozónak 2022. február 25-ig, a (4) bekezdés a) pontjának alkalmazása esetén a tevékenység megkezdését követő 15 napon belül, de legkésőbb 2022. június 30-ig a székhelye, telephelye szerinti önkormányzati adóhatóság számára nyilatkoznia kell arról, hogy
-
-- a) az 51/L. § (2) bekezdés szerinti intézkedés támogatástartalmának megfelelő összeget jogosult igénybe venni átmeneti támogatásként, és
-- b) 2019. december 31-én nem minősült olyan az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 6. § (4a)–(4b) bekezdése szerinti nehéz helyzetű vállalkozásnak, amely az Atr. 6. § (4a) c) pontja szerinti eljárás hatálya alatt áll, vagy amelynél az Atr. 6. § (4a) d) pontja szerinti körülmény áll fenn, valamint
-- c) – ha azt az Art. 1. melléklet 29. pont 1. alpontja szerint nem tette meg – bejelenti a telephelyének címét.
-
-(7) A (3) és (4) bekezdés szerinti támogatástartalmat a vállalkozó számára a székhelye és a telephelye szerinti önkormányzati adóhatóság a 2021. évben végződő – az 51/L. § (3) bekezdése a) pont szerinti esetben a 2021. évben kezdődő, az 51/L. § (3) bekezdése b) pont szerinti esetben a 2022. évben kezdődő – adóévről szóló adóbevallás benyújtását követő hónap utolsó napjáig, a 39/B. § (3) bekezdése szerinti adóalap-megállapítást választó vállalkozó esetén 2022. február 28-ig visszaigazolja.
-
-(8) Ha a vállalkozót – ide nem értve a (6) bekezdés szerinti nyilatkozatot tevő, 39/B. § (3) bekezdés szerinti adóalap-megállapítást alkalmazó vállalkozót – nem terheli iparűzési adóelőleg-fizetési kötelezettség a 2022. évben, részére az 51/L. § (2) bekezdés szerinti adóelőny a (2) bekezdés a) pontja szerinti jogcímeken nyújtható, illetve vehető igénybe.
-
-(9) A (8) bekezdés szerinti esetben a támogatás támogatástartalma a 2022. adóévi adóalap, valamint a különbözet-adómérték szorzatával egyező összeg.
-
-(10) Ha a vállalkozó az elsődleges mezőgazdasági termelési ágazatban vagy a halászati és akvakultúra-ágazatban is folytat tevékenységet, az egyes ágazatokra eső átmeneti támogatás arányát annak alapján kell megállapítani, hogy az adott ágazatban folytatott tevékenységből származó árbevétel milyen arányt képviselt a vállalkozó 2021. évi árbevételén belül.
-
-(11) Ha az átmeneti támogatásként nyújtott egyedi támogatás támogatástartalma meghaladja a 100 000 eurónak megfelelő forintösszeget, vagy a (10) bekezdés szerinti tevékenységre eső átmeneti támogatás támogatástartalma meghaladja a 10 000 eurónak megfelelő forintösszeget, az önkormányzati adóhatóság a (7) bekezdésben meghatározott határnapot követő második hónap utolsó napjáig megküldi az állami adó- és vámhatóság részére az egyedi támogatásnak az Atr. 6. melléklete szerinti adatait.
-
-(12) Az állami adó- és vámhatóság a (7) bekezdésben meghatározott határnapot követő harmadik hónap utolsó napjáig továbbítja a (11) bekezdés szerinti adatokat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a közlemény 4. szakasza szerinti közzététel céljából.
-
-(13) Ha a vállalkozó az elsődleges mezőgazdasági termelési ágazatban vagy a halászati és akvakultúra-ágazatban is folytat tevékenységet, az igénybe vehető támogatás összegét
-
-- a) az 1407/2013/EU bizottsági rendelet
-- b) az 1408/2013/EU bizottsági rendelet
-- c) a 717/2014/EU bizottsági rendelet
-
-alkalmazásával az alapján kell meghatározni, hogy az adott ágazatban folytatott tevékenység milyen arányt képviselt az adózó 2021. évi árbevételén belül.
-
-(14) A (6) bekezdés szerinti nyilatkozat, az 51/M. § (1) bekezdés b) pontja szerinti nyilatkozat kizárólag az állami adó- és vámhatóságon keresztül, elektronikus úton, az állami adó- és vámhatóság által rendszeresített elektronikus nyomtatványon nyújtható be. A nyilatkozatokat az állami adó- és vámhatóság elektronikus úton megküldi a nyilatkozatot tevő vállalkozó székhelye és az állami adó- és vámhatóságnál nyilvántartott telephelye szerinti önkormányzati adóhatóság számára.
-
-51/O. § (1) Átmeneti támogatásban az a mikro-, kis- és középvállalkozás részesülhet, amely 2019. december 31-én nem minősült az Atr. 6. § (4a) és (4b) bekezdése alapján nehéz helyzetben levő vállalkozásnak.
-
-(2) Az (1) bekezdéstől eltérően átmeneti támogatás nyújtható azon mikro-, kis- és középvállalkozás számára, amely 2019. december 31-én nehéz helyzetben lévő vállalkozásnak minősült, feltéve, ha a támogatási döntés időpontjában nem áll az Atr. 6. § (4a) bekezdés c) pontja szerinti eljárás hatálya alatt, továbbá esetében az Atr. 6. § (4a) bekezdés d) pontja szerinti körülmény sem áll fenn.
-
-(3) Az átmeneti támogatás támogatástartalma a közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a mikro-, kis- és középvállalkozás a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 2 300 000 eurónak megfelelő forintösszeget, a (4) és (5) bekezdés szerinti kivétellel.
-
-(4) A mezőgazdasági termékek elsődleges termelésével foglalkozó mikro-, kis- és középvállalkozás esetén az e tevékenységhez nyújtott átmeneti támogatás támogatástartalma a közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 290 000 eurónak megfelelő forintösszeget.
-
-(5) A halászati és akvakultúra-ágazatban tevékenykedő mikro-, kis- és középvállalkozás esetén az e tevékenységhez nyújtott átmeneti támogatás támogatástartalma a közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 345 000 eurónak megfelelő forintösszeget.
-
-(6) Ha az átmeneti támogatás mellett a kedvezményezett az Atr. 2. § 1. pontja szerinti rendeletekben meghatározott csekély összegű támogatásban is részesül vagy részesült, az igénybe veendő vagy igénybe vett csekély összegű támogatás nem csökkenti a támogatás (3)–(5) bekezdés szerinti legmagasabb mértékét.
-
-(7) Ha egy mikro-, kis- és középvállalkozás több ágazatban is tevékenykedik, és ezekre a (3)–(5) bekezdés szerint eltérő maximális összegek vonatkoznak, a vállalkozás az átmeneti támogatásokról olyan elkülönített nyilvántartást vezet, amely biztosítja az érintett tevékenységekre vonatkozó felső határok betartását, és azt, hogy a teljes maximális összeg vállalkozásonként – a mikro-, kis- és középvállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 2 300 000 eurónak megfelelő forintösszeget. Ha egy mikro-, kis- és középvállalkozás a (4) és (5) bekezdés szerinti ágazatokban tevékenykedik, a teljes maximális átmeneti támogatás összege mikro-, kis- és középvállalkozásonként – a mikro-, kis- és középvállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 345 000 eurónak megfelelő forintösszeget.
-
-(8) A mikro-, kis- és középvállalkozásnak (kedvezményezettnek) és az adóhatóságnak az átmeneti támogatással kapcsolatos minden iratot a kedvezmény igénybevételét követő tíz évig meg kell őriznie.
+#### 51/O. §
 
 51/P. § (1) A 2022. évben végződő adóévben a helyi adó és a települési adó mértéke nem lehet magasabb, mint ugyanazon helyi adónak, települési adónak a 2020. december 2-án hatályos és alkalmazandó önkormányzati adórendeletben megállapított adómértéke.
 
@@ -1022,6 +960,8 @@ alkalmazásával az alapján kell meghatározni, hogy az adott ágazatban folyta
 51/R. § (1) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel (a továbbiakban: Légimód törvény) megállapított 52. § 22. pont e) alpontot és 52. § 31. pont f) alpontot, valamint a Légimód törvénnyel beiktatott 52. § 59. pontot és a Melléklet 2.5 pontját a vállalkozó a 2023-ban kezdődő, 2023. december 31-ét magában foglaló adóéve adókötelezettségének megállapítása során is alkalmazhatja.
 
 (2) Az (1) bekezdés csak akkor alkalmazható, ha a vállalkozó egyaránt alkalmazza az 52. § 22. pont e) alpontot, az 52. § 31. pont f) alpontot, az 52. § 59. pontot és a Melléklet 2.5 pontját is.
+
+51/S. § Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 52. § 31. pont f) alpontja a 2024. évi adókötelezettségre is alkalmazható.
 
 ### VII. Fejezet — Értelmező rendelkezések
 
@@ -1090,7 +1030,7 @@ alkalmazásával az alapján kell meghatározni, hogy az adott ágazatban folyta
   - c) a villamos energiáról szóló törvény szerinti egyetemes szolgáltató, villamosenergia-kereskedő és villamos energia elosztó hálózati engedélyes, továbbá a földgázellátásról szóló törvény szerinti egyetemes szolgáltató, földgázkereskedő és földgázelosztói engedélyes esetén azon önkormányzat illetékességi területe, ahol villamos energia vagy földgáz értékesítése, illetve a villamos energia vagy földgáz elosztása a végső fogyasztó, a végső felhasználó (a továbbiakban együttesen: a végső fogyasztó) részére történik, feltéve, hogy a villamosenergia-kereskedő, a földgázkereskedő, a villamos energia egyetemes szolgáltató, a földgáz egyetemes szolgáltató, illetve a villamosenergia elosztó hálózati engedélyes, a földgázelosztói engedélyes adóévet megelőző adóévi számviteli törvény szerinti nettó árbevételének legalább 75%-a közvetlenül a végső fogyasztónak történő értékesítésből, illetve a végső fogyasztó számára történő elosztásból származik;
   - d) a bizalmi vagyonkezelésbe adott vagyon esetén a kezelt vagyonba tartozó hasznosított ingatlan;
   - e) 180 napot meghaladó építőipari tevékenység folytatása esetén azon önkormányzat illetékességi területe, ahol a vállalkozó építőipari tevékenységet folytat, azzal, hogy a napok számításánál a tevékenység megkezdésének napjától a felek közti szerződés alapján a megrendelő teljesítéselfogadásának napjáig terjedő időszak valamennyi naptári napja figyelembe veendő;
-  - f) légi személyszállítást végző vállalkozó esetén azon önkormányzat illetékességi területe, ahol olyan, a légiközlekedésről szóló törvény szerinti repülőtér van, ahonnan e vállalkozó járatai indulnak;
+  - f) légi személyszállítást végző vállalkozó esetén azon önkormányzat illetékességi területe, ahol olyan, a légiközlekedésről szóló törvény szerinti repülőtér van, ahonnan e vállalkozó járatai indulnak, azzal, hogy nem keletkezik e rendelkezés alapján Magyarországon telephelye annak a külföldi vállalkozónak, amelynek illetősége szerinti állama részese a nemzetközi polgári repülésről Chicagóban 1944. december hó 7. napján aláírásra megnyitott Egyezménynek;
   - g) a munka törvénykönyvéről szóló törvény szerinti munkaerő-kölcsönzést végző vállalkozó esetén annak az önkormányzatnak az illetékességi területe, ahol a vállalkozó által kölcsönzött munkavállalók az adóéven belül összesen legalább 21 000 óra időtartamban munkát végeznek;
 - 32. alvállalkozói teljesítések értéke: az adóalany által továbbadott (számlázott) olyan alvállalkozói teljesítés értéke, amelynek végzése során az adóalany mind megrendelőjével, mind alvállalkozójával a Polgári Törvénykönyv (Ptk.) szerinti – írásban kötött – vállalkozási szerződéses kapcsolatban áll. Ide értendő annak a – közvetített szolgáltatásnak nem minősülő – szolgáltatásnak az ellenértéke is, amelyet az adóalany az általa értékesített új (a használatbavételi engedély jogerőre emelkedését vagy véglegessé válását megelőzően vagy azt követően első ízben értékesített) lakás előállításához a Ptk. szerinti, írásban megkötött vállalkozási szerződés alapján vesz igénybe. Az e pont szerinti értékkel az adóalany akkor csökkentheti a nettó árbevételét, ha azzal a 22. pont a) alpontja szerint jogdíjként, a 36. pont szerint eladott áruk beszerzési értékeként, a 37. pont szerint anyagköltségként vagy a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét nem csökkentette;
 - 33. szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott nappali, illetve bentlakásos ellátást vagy támogatott lakhatást biztosító szervezet;
@@ -1156,7 +1096,7 @@ keretében végzett kötelezettség;
 
 ### VIII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
-53. § (1) A 39/F. § szerinti mentesség az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: csekély összegű támogatásokról szóló rendelet) szabályaival összhangban vehető igénybe.
+53. § (1) A 39/F. § szerinti mentesség az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet (a továbbiakban: csekély összegű támogatásokról szóló rendelet) szabályaival összhangban vehető igénybe.
 
 (2) Az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az adóalany választása szerint
 

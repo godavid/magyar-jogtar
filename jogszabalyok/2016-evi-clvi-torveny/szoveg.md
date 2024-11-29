@@ -282,7 +282,7 @@ továbbítsa.
 - h) 9/H. § (4) bekezdésben meghatározott tárhelyszolgáltatót, továbbá a tárhelyszolgáltatóhoz történő csatlakozás és adatfeldolgozás, valamint a tárhely üzemeltetésének és titkosításának részletes szabályait
 - i) vendéglátó üzlet üzemeltetője által alkalmazandó vendéglátó szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
 - j) turisztikai attrakció üzemeltetője által alkalmazandó jegykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
-- k) Nemzeti Turisztikai Adatszolgáltató Központban adatszolgáltatásra kötelezett vendéglátó üzletek és turisztikai attrakciók körét;
+- k) Nemzeti Turisztikai Adatszolgáltató Központban adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;
 - l) turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos kötelezettségeinek ellenőrzésére jogosult szervet;
 - m) turisztikailag kiemelt jelentőségű településeket
 

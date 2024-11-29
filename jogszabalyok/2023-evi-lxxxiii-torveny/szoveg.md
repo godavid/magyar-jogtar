@@ -531,7 +531,11 @@ az egyes adótörvények módosításáról
 
 (8) A 60. § 2024. december 1-jén lép hatályba.
 
-(9) A 30. §–32. § , 35. §, 37. §–42. §, 44. §–55. §, 61. §, 66. §, 67. § b) és c) pontja, 80. §, 98. §, 113. §, 114. § (2) bekezdése, 119. § (2) bekezdése, 122. § (3) bekezdése, 123. § 17. pontja, 127. §, 131. §, 133. § és 7. melléklete 2025. január 1-jén lép hatályba.
+(9) A 30. §–32. §, 35. §, 41. §; 44. §–53. §; 55. §, 67. § b) és c) pontja, 80. §, 98. §, 113. §, 119. § (2) bekezdése, 122. § (3) bekezdése, 123. § 17. pontja, 127. §, 131. §, 133. § 2025. január 1-jén lép hatályba.
+
+(9a) A 37. §–40. §; 42. §; 54. §; 61. §; 66. § és a 7. melléklet 2025. július 1-jén lép hatályba.
+
+(9b) A 114. § (2) bekezdése 2025. szeptember 1-jén lép hatályba.
 
 (10) A 124. § 3. pontja 2027. január 1-jén lép hatályba.
 

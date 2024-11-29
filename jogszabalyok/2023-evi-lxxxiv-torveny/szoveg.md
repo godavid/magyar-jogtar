@@ -99,7 +99,7 @@ A globális minimum-adószintet biztosító kiegészítő adókra vonatkozó sza
 - 20. csoporttag: az olyan szervezet (ideértve a szervezet állandó telephelyét is), amely egy multinacionális vállalatcsoport része vagy az olyan szervezet (ideértve a szervezet állandó telephelyét is), amely egy nagyméretű belföldi vállalatcsoport része;
 - 21. csoporttag-tulajdonos: olyan csoporttag, amely közvetlenül vagy közvetve tulajdonosi részesedéssel rendelkezik ugyanazon multinacionális vállalatcsoport vagy nagyméretű belföldi vállalatcsoport egy másik csoporttagjában;
 - 22. csoporton belüli finanszírozás: az olyan jogügylet, amely során egy vagy több csoporttag kölcsönt nyújt ugyanazon csoport egy vagy több másik csoporttagjának, vagy más módon fektet be a csoporton belül;
-- 23. egyszerűsített tényleges adómérték: a társaságiadó-információkat tartalmazó jelentés és az e törvény felhatalmazása alapján kiadott miniszteri rendelet alapján számított tényleges adómérték;
+- 23. egyszerűsített tényleges adómérték: az országonkénti jelentés és az e törvény felhatalmazása alapján kiadott miniszteri rendelet alapján számított tényleges adómérték;
 - 24. elfogadható pénzügyibeszámoló-készítési standard: a számvitelről szóló törvény, a nemzetközi számviteli standardok (IFRS vagy az Európai Unióban a nemzetközi számviteli standardok alkalmazásáról szóló, 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendeletben foglalt eljárás alapján az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardok), valamint Ausztrália, Brazil Szövetségi Köztársaság, Kanada, az Európai Unió tagállamai, az Európai Gazdasági Térség tagállamai, Hongkong, a Kínai Népköztársaság különleges közigazgatási területe, Japán, Mexikói Egyesült Államok, Új-Zéland, a Kínai Népköztársaság, az Indiai Köztársaság, a Koreai Köztársaság, Oroszországi Föderáció, Szingapúri Köztársaság, Svájci Államszövetség, az Egyesült Királyság és az Amerikai Egyesült Államok általánosan elfogadott számviteli elvei, szabályai;
 - 25. elhatárolt nyugdíj-ráfordítás: a számviteli nettó nyereségben vagy veszteségben kimutatott nyugdíj-kötelezettségre elszámolt költség, ráfordítás és az adóévre a nyugdíjalapba befizetett összeg közötti különbség;
 - 26. elismert aluladóztatott kifizetések szabálya: egy állam belső jogában alkalmazott olyan szabályrendszer,
@@ -150,7 +150,7 @@ feltéve, hogy az elismert visszatérítendő adókedvezmény nem tartalmaz elis
   - b) amely jellemzően ingatlantulajdonnal rendelkezik, és
   - c) amelyre a szervezet vagy a befektetők szintjén legfeljebb egy év halasztással alkalmazott adókötelezettség vonatkozik;
 - 46. jelentős versenytorzulás: a számviteli szabályrendszer alkalmazásából eredő olyan eltérés, amely az adóévben azt eredményezi, hogy összességében a bevétel és ráfordítás egyenlege több mint 75 000 000 euróval tér el a nemzetközi számviteli standardok (IFRS-ek vagy az Unió által az 1606/2002/EK európai parlamenti és tanácsi rendelet alapján elfogadott IFRS-ek) szerinti elvek vagy szabályok alkalmazásával megállapított bevétel és ráfordítás egyenlegétől;
-- 47. kijelölt helyi szervezet: a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport adott államban illetőséggel rendelkező tagja, amelyet a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport adott államban illetőséggel rendelkező többi tagja jelölt ki arra, hogy a nevükben benyújtsa a kiegészítő adóval kapcsolatos adatszolgáltatásokat és nyilatkozatokat;
+- 47. kijelölt helyi szervezet: a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport adott államban illetőséggel rendelkező tagja, amelyet a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport adott államban illetőséggel rendelkező többi tagja jelölt ki arra, hogy az összes belföldi csoporttag nevében benyújtsa a kiegészítő adóval kapcsolatos bejelentést, adatszolgáltatást, bevallást és nyilatkozatot;
 - 48. kisebbségi tulajdonban lévő alcsoport: a kisebbségi tulajdonban lévő anyavállalat és kisebbségi tulajdonban lévő leányvállalatai;
 - 49. kisebbségi tulajdonban lévő anyavállalat: olyan kisebbségi tulajdonban lévő csoporttag, amely közvetlenül vagy közvetve ellenőrző részesedéssel rendelkezik egy másik kisebbségi tulajdonban lévő csoporttagban, kivéve, ha az előbbi csoporttagban egy másik kisebbségi tulajdonban lévő csoporttag közvetve vagy közvetlenül ellenőrző részesedéssel rendelkezik;
 - 50. kisebbségi tulajdonban lévő csoporttag: olyan csoporttag, amelyben a végső anyavállalat legfeljebb 30 százalékos közvetlen vagy közvetett tulajdonosi részesedéssel rendelkezik;
@@ -389,7 +389,7 @@ feltéve, hogy a szállítás nem ugyanazon államon belüli belvízi szállít�
 
 (8) Ha a multinacionális vállalatcsoport és a nagyméretű belföldi vállalatcsoport minden belföldi csoporttagja olyan helyi pénzügyi számviteli standard alapján vezeti a könyvviteli nyilvántartásait, amely alapján a társasági adókötelezettségét is meghatározza, vagy társasági adókötelezettség hiányában a könyvviteli nyilvántartásait független könyvvizsgáló ellenőrizte, akkor a (4) bekezdés alkalmazásakor az alacsony adóterhelésű csoporttagok belföldi többletnyereségét ezen helyi pénzügyi számviteli standard alapján kell meghatározni. Társasági adókötelezettség hiányában, ha a belföldi csoporttag több helyi pénzügyi számviteli standard alapján is vezet független könyvvizsgáló által ellenőrzött könyvviteli nyilvántartást, akkor a belföldi csoporttag többletnyereségét az IFRS-ek szerint kell meghatározni.
 
-(9) Amennyiben a (8) bekezdéstől eltérően nem minden belföldi csoporttag helyi pénzügyi számviteli standard alapján vezeti könyvviteli nyilvántartásait vagy a helyi pénzügyi számviteli standard szerint meghatározott adóév eltér a multinacionális csoport által alkalmazott adóévtől, akkor a belföldi többletnyereséget a 15. § (1) és (2) bekezdése szerinti számviteli standard alkalmazásával kell meghatározni.
+(9) Amennyiben a (8) bekezdéstől eltérően nem minden belföldi csoporttag helyi pénzügyi számviteli standard alapján vezeti könyvviteli nyilvántartásait vagy a helyi pénzügyi számviteli standard szerint meghatározott adóév eltér a multinacionális vállalatcsoport által alkalmazott adóévtől, akkor a belföldi többletnyereséget a 15. § (1) és (2) bekezdése szerinti számviteli standard alkalmazásával kell meghatározni.
 
 (10) Amennyiben az elismert belföldi kiegészítő adót a helyi pénzügyi számviteli standard alapján kell meghatározni és minden csoporttag a helyi számviteli standard szerint teszi közzé beszámolóját, akkor a 2. § (3)–(5) bekezdésétől eltérően az elismert belföldi kiegészítő adót is a helyi számviteli standard szerinti beszámoló elkészítésénél alkalmazott devizanem alapul-vételével kell meghatározni.
 
@@ -401,8 +401,8 @@ feltéve, hogy a szállítás nem ugyanazon államon belüli belvízi szállít�
 
 - a) a 27. § (6) bekezdése szerint számítja ki az adott csoporttagra jutó adóévi elismert belföldi kiegészítő adót,
 - b) a 27. § (5) bekezdése szerinti többletnyereség arányában határozza meg az adott csoporttagra jutó adóévi elismert kiegészítő adót,
-- c) az összes belföldi csoporttagra meghatározott, a 27. § (5) bekezdése szerinti kiegészítő adó azon csoporttagok között kerül felosztásra az a) vagy b) pontban meghatározott módszer alapján, amelyekben az anyavállalat 100 százalékos tulajdoni részesedéssel rendelkezik, vagy
-- d) az összes belföldi csoporttagra meghatározott, a 27. § (5) bekezdése szerinti kiegészítő adót egy kijelölt csoporttag fizeti meg.
+- c) az összes belföldi csoporttagra meghatározott, a 27. § (4) bekezdése szerinti kiegészítő adó azon csoporttagok között kerül felosztásra az a) vagy b) pontban meghatározott módszer alapján, amelyekben az anyavállalat 100 százalékos tulajdoni részesedéssel rendelkezik, vagy
+- d) az összes belföldi csoporttagra meghatározott, a 27. § (4) bekezdése szerinti kiegészítő adót egy kijelölt csoporttag fizeti meg.
 
 (14) Amennyiben az alacsony adóterhelésű belföldi csoporttagra jutó elismert belföldi kiegészítő adó az esedékessége adóévét követő négy adóévben nem került megfizetésre, akkor a be nem fizetett elismert belföldi kiegészítő adó összegét hozzá kell adni a kiegészítő adónak a 27. § (4) bekezdése szerint kiszámított összegéhez.
 
@@ -871,11 +871,11 @@ korlátozza.
 
 32. § (1) Az adatszolgáltatást teljesítő csoporttag választhatja, hogy a vállalatcsoport által az adott államban fizetendő kiegészítő adó összegét nullának tekinti az adóévre vonatkozóan, ha abban az államban illetőséggel rendelkező csoporttagok tényleges adószintje megfelel bármely mentesítési szabályról szóló elismert nemzetközi megállapodás feltételeinek.
 
-(2) Az adatszolgáltatást teljesítő csoporttag választása alapján a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport az adott államban fizetendő kiegészítő adót nullának tekinti, ha az adott államban illetőséggel bíró csoporttagokra az adóévi társaságiadó-információkat tartalmazó jelentés alapján számítva
+(2) Az adatszolgáltatást teljesítő csoporttag választása alapján a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport az adott államban fizetendő kiegészítő adót nullának tekinti, ha az adott államban illetőséggel bíró csoporttagokra az adóévi országonkénti jelentés alapján számítva
 
 - a) az adóévi összes bevétel kisebb, mint 10 000 000 euró, és az adóévi adózás előtti eredmény kisebb, mint 1 000 000 euró, vagy
 - b) az egyszerűsített tényleges adómérték a 2024-ben kezdődő adóévben nem kisebb, mint 15 százalék, 2025-ben kezdődő adóévben nem kisebb, mint 16 százalék, 2026-ban kezdődő adóévben nem kisebb, mint 17 százalék, vagy
-- c) az adóévi adózás előtti eredmény nem nagyobb, mint az adott tagállamban illetőséggel bíró és a társaságiadó-információkat tartalmazó jelentéstételi kötelezettség alá eső csoporttagokra számított gazdasági jelenléten alapuló nyereségkivétel összege.
+- c) az adóévi adózás előtti eredmény nem nagyobb, mint az adott tagállamban illetőséggel bíró és az országonkénti jelentéstételi kötelezettség alá eső csoporttagokra számított gazdasági jelenléten alapuló nyereségkivétel összege.
 
 (3) Az adatszolgáltatást teljesítő csoporttag választhatja, hogy a vállalatcsoport által az adott államban fizetendő IIR adót nullának tekinti az adóévre vonatkozóan, ha teljesül az elismert belföldi kiegészítő adóra vonatkozó OECD modell szabályok szerinti mentesség a 11. § (2) bekezdésében foglaltaknak megfelelően.
 
@@ -1038,10 +1038,7 @@ korlátozza.
 
 (10) Amennyiben az (1) bekezdés szerinti választás által érintett csoporttag kilép a multinacionális vállalatcsoportból vagy a nagyméretű belföldi vállalatcsoportból, vagy lényegében teljes eszközállományát olyan személyre ruházzák át, aki vagy amely nem ugyanazon multinacionális vállalatcsoport vagy nagyméretű belföldi vállalatcsoport azonos államban található csoporttagja, a vélelmezett osztalékadó újramegállapítását szolgáló, a korábbi adóévekre vonatkozó számlák esetleges egyenlegét az egyes említett adóévekre vonatkozóan a kiigazított lefedett adókat a 29. § (1) bekezdésével összhangban csökkentő tételnek kell tekinteni.
 
-(11) A fizetendő kiegészítőadó-többletet a fizetendő kiegészítőadó-többlet és a következő arány szorzataként kell meghatározni, azzal, hogy
-
-- a) a csoporttag elismert nyereségét az V. Fejezetnek megfelelően kell megállapítani minden olyan adóévre vonatkozóan, amelyben az adott állam tekintetében a vélelmezett osztalékadó újramegállapítását szolgáló számla egyenleget mutat, és
-- b) az állam elismert nettó nyereségét a 26. § (2) bekezdésének megfelelően kell megállapítani minden olyan adóévre vonatkozóan, amelyben az adott állam tekintetében a vélelmezett osztalékadó újramegállapítását szolgáló számla egyenleget mutat.
+(11) Az adott államban fizetendő kiegészítőadó-többletet a 10. melléklet szerint kell kiszámítani.
 
 #### 33. A befektetési szervezet tényleges adómértékének és kiegészítő adójának meghatározása
 
@@ -1102,33 +1099,33 @@ korlátozza.
 
 #### 36. Bejelentési, adatszolgáltatási és bevallási kötelezettség
 
-44. § (1) A belföldi csoporttag – vagy a nevében eljáró kijelölt helyi szervezet – az 1. § szerinti kiegészítő adóalanyiságáról bejelentést tesz az állami adó- és vámhatóság részére, az állami adó- és vámhatóság által rendszeresített űrlapon, amelyben bemutatja a multinacionális vállalatcsoportot, nagyméretű belföldi csoportot a kiegészítő adókötelezettséggel érintett adóév kezdő napjától számított 12 hónapon belül.
+44. § (1) A belföldi csoporttag – vagy az összes belföldi csoporttag nevében eljáró kijelölt helyi szervezet – az 1. § szerinti kiegészítő adóalanyiságáról bejelentést tesz az állami adó- és vámhatóság részére a kiegészítő adókötelezettséggel érintett adóév kezdő napjától számított 12 hónapon belül az állami adó- és vámhatóság által rendszeresített nyomtatványon, amelyben bemutatja a multinacionális vállalatcsoport, a nagyméretű belföldi vállalatcsoport egyes adatait, valamint feltünteti az (5) bekezdés a) és b) pontja szerinti egyes adatokat.
 
-(2) A belföldi csoporttag – vagy a nevében eljáró kijelölt helyi szervezet – a kiegészítő adóval (ideértve az elismert belföldi kiegészítő adót is) kapcsolatosan adóbevallás (GloBE információs bevallás, elismert belföldi kiegészítőadó-bevallás) benyújtására és adatszolgáltatásra köteles, amelyet az állami adó- és vámhatóság által a kiegészítő adó, elismert kiegészítő adó bevallására és az azzal kapcsolatos adatszolgáltatásra rendszeresített űrlapon kell teljesítenie.
+(2) A belföldi csoporttag – vagy a nevében eljáró kijelölt helyi szervezet – a kiegészítő adóval (ideértve az elismert belföldi kiegészítő adót is) kapcsolatosan adatszolgáltatás, adóbevallás benyújtására köteles, amelyet az állami adó- és vámhatóság által a kiegészítő adóbevallására és az adatszolgáltatásra rendszeresített nyomtatványon kell teljesítenie.
 
-(3) A (2) bekezdéstől eltérően a belföldi csoporttag nem köteles kiegészítő adóval kapcsolatos bevallást benyújtani, ha kiegészítő adóval kapcsolatos bevallási kötelezettségét már teljesítette
+(3) A (2) bekezdéstől eltérően a belföldi csoporttag nem köteles kiegészítő adóval kapcsolatos adatszolgáltatást benyújtani, ha kiegészítő adóval kapcsolatos adatszolgáltatási kötelezettségét már teljesítette
 
 - a) egy olyan államban található végső anyavállalat, amely az adatszolgáltatással érintett adóévre vonatkozóan az illetékes hatóságok közötti elismert megállapodással rendelkezik Magyarországgal, vagy
 - b) egy olyan államban található adatszolgáltatásra kijelölt csoporttag, amely az adatszolgáltatással érintett adóévre vonatkozóan az illetékes hatóságok közötti elismert megállapodással rendelkezik Magyarországgal.
 
-(4) A (3) bekezdésben foglaltak alkalmazása esetén a belföldi csoporttag vagy a nevében eljáró kijelölt helyi szervezet az állami adó- és vámhatóság részére a kiegészítő adóval kapcsolatos adatszolgáltatást benyújtó szervezet azonosító adatairól és a benyújtás helyéről a bevallás benyújtását követő hat hónapon belül adatot szolgáltat.
+(4) A (3) bekezdésben foglaltak alkalmazása esetén a belföldi csoporttag vagy a nevében eljáró kijelölt helyi szervezet az állami adó- és vámhatóság részére a kiegészítő adóval kapcsolatos adatszolgáltatást teljesítő vagy az adatszolgáltatásra kijelölt csoporttag azonosító adatairól és a benyújtás helyéről a adatszolgáltatás benyújtását követő hat hónapon belül adatot szolgáltat.
 
-(5) A kiegészítő adóval kapcsolatosan adóbevallásnak (GloBE információs bevallásnak) a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport tekintetében a következő adatokat kell tartalmaznia:
+(5) A kiegészítő adóval kapcsolatos adatszolgáltatásnak a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport tekintetében a következő adatokat kell tartalmaznia:
 
 - a) a csoporttagok azonosító adatai, ideértve a csoporttagok adószámát, közösségi adószámát, amennyiben rendelkeznek ilyennel, az államot, amelyben illetőséggel bírnak és az e törvény szerinti minősítésüket,
-- b) a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport általános vállalati struktúrájára vonatkozó információk, beleértve az egyes csoporttagok más csoporttagokban fennálló ellenőrző részesedését,
+- b) a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport általános vállalati struktúrájára vonatkozó információk, beleértve az egyes csoporttagok más csoporttagokban fennálló ellenőrző részesedésére vonatkozó információkat,
 - c) az egyes államokban alkalmazott tényleges adómérték és az egyes csoporttagokra vonatkozó kiegészítő adó, a közös vállalkozáscsoport tagjának kiegészítő adója, illetve az IIR adó, valamint az UTPR adó összegének felosztásához szükséges információk,
 - d) az ezen törvénnyel összhangban tett választások listája, és
-- e) a bevalláshoz szükséges egyéb adatok.
+- e) a kiegészítő adó megállapításához szükséges egyéb adatok.
 
-(6) Az elismert kiegészítő adóval kapcsolatosan adóbevallásnak a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport tekintetében a következő adatokat kell tartalmaznia:
+(6) Az elismert belföldi kiegészítő adóval kapcsolatos adóbevallásnak a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport tekintetében a következő adatokat kell tartalmaznia:
 
 - a) a csoporttagok azonosító adatai, ideértve a csoporttagok adószámát, közösségi adószámát, amennyiben rendelkeznek ilyennel, az államot, amelyben illetőséggel bírnak és az e törvény szerinti minősítésüket,
 - b) a multinacionális vállalatcsoport vagy a nagyméretű belföldi vállalatcsoport általános vállalati struktúrájára vonatkozó információk,
 - c) az e törvénnyel összhangban tett választások listája, és
 - d) a bevalláshoz szükséges egyéb adatok.
 
-(7) Az (5)–(6) bekezdéstől eltérően, ha a csoporttag belföldi, végső anyavállalata olyan harmadik államban rendelkezik illetőséggel, amely az 50. §-nak megfelelően e törvény szabályaival egyenértékűnek minősített szabályokat alkalmaz, a belföldi csoporttag vagy képviselője által benyújtott, kiegészítő adóval kapcsolatos bevallásnak a következő adatokat kell tartalmaznia:
+(7) Az (5)–(6) bekezdéstől eltérően, ha a csoporttag belföldi, végső anyavállalata olyan harmadik államban rendelkezik illetőséggel, amely az 50. §-nak megfelelően e törvény szabályaival egyenértékűnek minősített szabályokat alkalmaz, a belföldi csoporttag vagy kijelölt helyi szervezet által benyújtott, kiegészítő adóval kapcsolatos adatszolgáltatásnak a következő adatokat kell tartalmaznia:
 
 - a) valamennyi olyan csoporttag azonosító adatai, amelyben a tagállamok valamelyikében található, részleges tulajdonban álló anyavállalat az adóév során bármikor közvetlenül vagy közvetve tulajdonosi érdekeltséggel rendelkezik, valamint az ilyen tulajdonosi érdekeltség szerkezete,
 - b) azon államok tényleges adómértékének kiszámításához szükséges információk, amelyekben a tagállamok valamelyikében található, részleges tulajdonban álló anyavállalat a d) pont alapján meghatározott csoporttagokban tulajdonosi érdekeltséggel rendelkezik, valamint a fizetendő kiegészítő adó kiszámításához szükséges információk,
@@ -1137,11 +1134,11 @@ korlátozza.
 - e) a végső anyavállalat illetősége szerinti állam tényleges adómértéke és a fizetendő kiegészítő adója kiszámításához szükséges információk,
 - f) a kiegészítő adónak az aluladóztatott kifizetések szabálya szerinti felosztásához szükséges adatok,
 - g) az elismert belföldi kiegészítő adó alkalmazásához szükséges adatok, és
-- h) a bevalláshoz szükséges egyéb adatok.
+- h) a kiegészítő adó megállapításához szükséges egyéb adatok.
 
-(8) A (6)–(7) bekezdés szerinti adóbevallás részletes adattartalmát az e törvény felhatalmazása alapján kiadott miniszteri rendelet tartalmazza.
+(8) A (2)–(7) bekezdés szerinti adatszolgáltatás, adóbevallás részletes adattartalmát az e törvény felhatalmazása alapján kiadott miniszteri rendelet tartalmazza.
 
-(9) A kiegészítő adóval kapcsolatos bevallást legkésőbb az adatszolgáltatással érintett adóév utolsó napjától számított 15 hónapon belül kell benyújtani az állami adó- és vámhatósághoz.
+(9) A kiegészítő adóval kapcsolatos adóbevallást, adatszolgáltatást legkésőbb az adókötelezettséggel érintett adóév utolsó napjától számított 15 hónapon belül kell benyújtani az állami adó- és vámhatósághoz.
 
 (10) A belföldi csoporttag a kiegészítő adót, a kiegészítő adókötelezettséggel érintett adóév utolsó napjától számított 15 hónapon belül köteles megfizetni.
 
@@ -1157,7 +1154,7 @@ korlátozza.
 
 (5) A (4) bekezdés szerinti egy év elteltével a (4) bekezdés szerinti választás megújul, kivéve, ha az adatszolgáltatást teljesítő csoporttag az egyéves időszak végén a választását visszavonja.
 
-(6) Az adatszolgáltatást teljesítő belföldi csoporttag az e törvény alapján megtett választásairól az erre a célra rendszeresített elektronikus űrlapon megtett nyilatkozata útján tájékoztatja az állami adó- és vámhatóságot.
+(6) Az adatszolgáltatást teljesítő belföldi csoporttag az e törvény alapján megtett választásairól az erre a célra rendszeresített elektronikus nyomtatványon megtett nyilatkozata útján tájékoztatja az állami adó- és vámhatóságot.
 
 ### XI. Fejezet — ÁTTÉRÉSRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
@@ -1222,7 +1219,7 @@ korlátozza.
 
 #### 41. Az adatszolgáltatási, bevallási kötelezettségekre vonatkozó átmeneti mentesség
 
-49. § A 44. § (9) bekezdéstől eltérően a kiegészítő adóval kapcsolatos adatszolgáltatást és a 44. § szerinti adatszolgáltatási, bevallási kötelezettséget legkésőbb azon adóév utolsó napját követő 18 hónapon belül kell benyújtani az állami adó- és vámhatósághoz, amely az átmeneti év.
+49. § A 44. § (9) bekezdéstől eltérően a kiegészítő adóval kapcsolatos adóbevallást, adatszolgáltatást legkésőbb azon adóév utolsó napját követő 18 hónapon belül kell benyújtani az állami adó- és vámhatósághoz, amely az átmeneti év.
 
 ### XII. Fejezet — AZ EGYENÉRTÉKŰSÉG ÉRTÉKELÉSE
 
@@ -1319,6 +1316,12 @@ korlátozza.
 
 #### Az UTPR százalékos arány meghatározása
 
+Magyarországra jutó UTPR százalékos arány =
+
+50% x munkavállalói létszám Magyarországon / munkavállalói létszám valamennyi UTPR államban +
+
+50% x tárgyi eszközök könyv szerinti értéke Magyarországon / tárgyi eszközök könyv szerinti értéke valamennyi UTPR államban
+
 ahol:
 
 a) a munkavállalói létszám Magyarországon: a multinacionális vállalatcsoport Magyarországon illetőséggel bíró összes tagjánál foglalkoztatott munkavállalók teljes létszáma;
@@ -1403,7 +1406,7 @@ A 29. § (5) bekezdése alkalmazásában a csoporttagok közti felosztást a kö
 
 #### A gazdasági jelenléten alapuló nyereségkivételre vonatkozó átmeneti könnyítés
 
-A 28. § (2) bekezdésének alkalmazásakor az 5 százalékos érték helyett a következő táblázat B oszlopában meghatározott értéket, a 28. § (3) bekezdésének alkalmazásakor az 5 százalékos érték helyett a következő táblázat C oszlopában meghatározott értéket kell figyelembe venni a következő naptári évek december 31. napjától kezdődő adóévben:
+A 28. § (2) bekezdésének alkalmazásakor az 5 százalékos érték helyett a következő táblázat B oszlopában meghatározott értéket, a 28. § (3) bekezdésének alkalmazásakor az 5 százalékos érték helyett a következő táblázat C oszlopában meghatározott értéket kell figyelembe venni a következő naptári évek december 31. napját követően kezdődő adóévben:
 
 |  | A | B | C |
 | --- | --- | --- | --- |
@@ -1419,6 +1422,18 @@ A 28. § (2) bekezdésének alkalmazásakor az 5 százalékos érték helyett a 
 | 10 | 2032 | 5,8 százalék | 5,4 százalék |
 
 ### 10. melléklet a 2023. évi LXXXIV. törvényhez
+
+#### Az adott államban fizetendő kiegészítőadó-többlet meghatározása
+
+adott államban fizetendő kiegészítőadó-többlet =
+
+fizetendő kiegészítőadó-többlet x csoporttag elismert nyeresége / adott állam elismert nettó nyeresége
+
+ahol:
+
+a) a csoporttag elismert nyereségét az V. Fejezetnek megfelelően kell megállapítani minden olyan adóévre vonatkozóan, amelyben az adott állam tekintetében a vélelmezett osztalékadó újramegállapítását szolgáló számla egyenleget mutat;
+
+b) az állam elismert nettó nyereségét a 26. § (2) bekezdésének megfelelően kell megállapítani minden olyan adóévre vonatkozóan, amelyben az adott állam tekintetében a vélelmezett osztalékadó újramegállapítását szolgáló számla egyenleget mutat.
 
 ### 11. melléklet a 2023. évi LXXXIV. törvényhez
 

@@ -340,7 +340,9 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 (7) A 42. § b) pontja 2024. október 1-jén lép hatályba.
 
-(8) A 7. § (1) és (3)–(5) bekezdése, a 8. § a) és e) pontja, a 15. § (3) bekezdése, a 16. § és a 71. § (2) bekezdése 2025. január 1-jén lép hatályba.
+(8) A 7. § (1) és (3)–(5) bekezdése, a 8. § a) és e) pontja, a 15. § (3) bekezdése és a 16. § 2025. január 1-jén lép hatályba.
+
+(8a) A 71. § (2) bekezdése 2025. szeptember 1-jén lép hatályba.
 
 (9) A 46. § és az 54. § (2) bekezdése az Európai Központi Bank egyetértő hivatalos értesítésének kézhezvételét követően kiadott, a költségvetés makrogazdasági megalapozásáért felelős miniszter határozatának a Magyar Közlönyben történő közzétételét követő napon lép hatályba.
 

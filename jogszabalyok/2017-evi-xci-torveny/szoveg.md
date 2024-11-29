@@ -320,10 +320,11 @@ Készült angol és francia nyelven; mindkét nyelvű szöveg egyaránt hiteles.
 
 Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltételek teljesülése, így az adott államnak az alkalmazásra vonatkozó szándéka és annak kifejezése esetén – az alábbi államokkal kíván automatikus információcserét folytatni:
 
-- 1. Andorra
-- 1a. Anguilla
-- 1b. Argentína
-- 1c. Aruba
+- 1. Albánia
+- 1a. Andorra
+- 1b. Anguilla
+- 1c. Argentína
+- 1d. Aruba
 - 2. Ausztrália
 - 2a. Azerbajdzsán
 - 2b. Bahrein
@@ -344,9 +345,10 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 - 6. Costa Rica
 - 7. Curaçao
 - 8. Dél-afrikai Köztársaság
-- 8a. Egyesült Arab Emírségek
-- 8b. Egyesült Királyság
-- 8c. Feröer szigetek
+- 8a. Dominikai Köztársaság
+- 8b. Egyesült Arab Emírségek
+- 8c. Egyesült Királyság
+- 8d. Feröer szigetek
 - 9. Gabon
 - 10. Georgia
 - 10a. Gibraltár
@@ -360,6 +362,7 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 - 16. Japán
 - 17. Jersey
 - 17a. Kajmán-szigetek
+- 17b. Kamerun
 - 18. Kanada
 - 18a. Katar
 - 18b. Kazahsztán
@@ -374,6 +377,7 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 - 22a. Maldív-szigetek
 - 23. Man-sziget
 - 23a. Marokkó
+- 23b. Mauritánia
 - 24. Mauritius
 - 25. Mexikó
 - 25a. Monaco

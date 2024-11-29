@@ -18,7 +18,7 @@ a Magyarország Kormánya és a Vietnámi Szocialista Köztársaság Kormánya k
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a bűncselekmények megelőzéséért felelős miniszter és a terrorizmus elleni küzdelemért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya között az illegális kábítószer-kereskedelem, a szervezett bűnözés és a nemzetközi terrorizmus elleni küzdelemben való együttműködésről szóló, Hanoiban, 1998. február 4-én aláírt Megállapodás kihirdetéséről szóló 172/1998. (X. 21.) Korm. rendelet.
+#### 6. §
 
 ### 1. melléklet a 2024. évi IV. törvényhez
 

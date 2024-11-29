@@ -2014,7 +2014,22 @@ felszólítja, hogy jogszabályi kötelezettségének tegyen eleget 15 napon bel
 - a) a benzin vagy gázolaj adalékakénti, hígítóanyagakénti kínálás, értékesítés vagy felhasználás esetén az (1) bekezdés a) vagy c) pontja szerinti adómérték,
 - b) az üzemanyagkénti vagy a tüzelő-, fűtőanyagkénti kínálásnak, értékesítésnek vagy felhasználásnak megfelelően az (1) bekezdés a)–f) pont szerinti energiatermékek közül a hozzá legközelebb álló energiatermékre meghatározott adómérték.
 
-(3) Az (1) bekezdés a)–c) pontja szerinti, január 1-jétől, április 1-jétől, július 1-jétől, illetve október 1-jétől érvényes adómértékek megállapítása a Platts Crude Oil Marketwire – tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszakra vonatkozó – Brent (Dated) napi jegyzései Mid értékeinek és a tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszak egyes napjaitól számított mindenkori harmadik havi szállítású Brent napi jegyzések Mid értékeinek számtani átlaga alapján történik. Az így meghatározott átlagos árat az állami adó- és vámhatóság internetes honlapján a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig közzéteszi.
+(3) Az (1) bekezdés a)–c) pontja szerinti, január 1-jétől, április 1-jétől, július 1-jétől, illetve október 1-jétől érvényes adómértékek megállapítása a Platts Crude Oil Marketwire – tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszakra vonatkozó – Brent (Dated) napi jegyzései Mid értékeinek és a tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszak egyes napjaitól számított mindenkori harmadik havi szállítású Brent napi jegyzések Mid értékeinek számtani átlaga alapján történik.
+
+(4) Az adó mértéke
+
+- a) az (1) bekezdés a)–c) pontja, a d) és e) pontjának üzemanyagcélú adómértékei és az i) pontja szerinti esetekben a 2024. évet követően,
+- b) az (1) bekezdés d) pontjának tüzelő-, fűtőanyagcélú adómértéke, e) pontjának egyéb motorikus célú adómértéke és f)–h) pontja szerinti esetekben a 2025. évet követően
+
+a tárgyévet megelőző évi adó mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege.
+
+(5) A (3) és (4) bekezdések figyelembe vételével meghatározott adómértékeket
+
+- a) az (1) bekezdés a)–e) és h)–i) pontja szerinti esetekben 10 forintra,
+- b) az (1) bekezdés f) pontja szerinti üzemanyag célú adómérték és az (1) bekezdés g) pontja esetében 1 forintra,
+- c) az (1) bekezdés f) pontja szerinti egyéb adómérték esetében egytízezred forintra
+
+kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az (1) bekezdés a)–c) pontja szerinti esetben a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig, az (1) bekezdés d)–i) pontja szerinti esetben a tárgyévet megelőző év október 31-ig az állami adó- és vámhatóság internetes honlapján közzéteszi.
 
 #### 72. Adókötelezettség, adófizetési kötelezettség
 
@@ -2265,6 +2280,10 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 (6) Egy tárgyéven belül a magánszemély vagy bérfőzetőként vagy magánfőzőként jogosult párlatot előállíttatni vagy előállítani, és egy háztartáson belül vagy csak bérfőzetőként vagy csak magánfőzőként lehet előállíttatni vagy előállítani párlatot.
 
 (7) Ha egy háztartásban több bérfőzető vagy több magánfőző él, az éves kedvezményes adómértékű mennyiségi korlátok szempontjából az általuk főzetett vagy főzött mennyiségek egybeszámítandók.
+
+#### 88/A. Valorizáció
+
+132/A. § A 2024. évet követően az adó mértéke a 125–132. § szerinti esetekben a tárgyévet megelőző évi adó mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege, amelyet 10 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az állami adó- és vámhatóság internetes honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
 #### 89. Mentesülés az adófizetési kötelezettség alól
 
@@ -2633,6 +2652,10 @@ kell kiskereskedelmi eladási árnak tekinteni.
 (38) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 86. § (5) és (6) bekezdés rendelkezéseit a kötelező érvényű vámtarifabesorolásra is alkalmazni kell, azzal az eltéréssel, hogy kötelező érvényű KN-kód besorolás alatt kötelező érvényű vámtarifabesorolást kell érteni, továbbá KN-kód alatt a vizsgált határozatban megállapított vámtarifaszámot is kell érteni.
 
 (39) Az az egyszerűsített adóraktár engedélyes vagy kisüzemi bortermelő, aki a 2022. augusztus 1.–2023. július 31. borpiaci évre vonatkozó 136. § (2) bekezdése vagy 137. § (3) bekezdése szerinti kötelezettségét e rendelkezés hatálybalépésének időpontjáig nem teljesítette, e rendelkezés hatálybalépését követő 30 napon belül teljesíti kötelezettségét.
+
+(40) A 110. § (5) bekezdésétől és a 132/A. §-tól eltérően a 2024. évi közzététel határideje 2024. december 15.
+
+(41) Az állami adó- és vámhatóság az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel kihirdetett 113. § (5) bekezdés és 117. § (1) bekezdés szerinti, 2025. január 1-jétől alkalmazandó adó-visszaigénylések mértékeit 2024. december 15. napját követő 5. munkanapig közzéteszi internetes honlapján.
 
 151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 
