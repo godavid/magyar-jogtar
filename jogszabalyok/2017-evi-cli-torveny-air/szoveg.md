@@ -819,7 +819,7 @@ tolmácsot kell alkalmazni.
 
 #### 71. § [A hatósági tanú]
 
-(1) Az adóhatóság az e törvényben meghatározott esetekben hatósági tanút vehet igénybe. A hatósági tanú az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket igazolja. Hatósági tanúként való közreműködésre – ha jogszabály eltérően nem rendelkezik – senki nem kötelezhető.
+(1) Az adóhatóság jogszabályban meghatározott esetekben hatósági tanút vehet igénybe. A hatósági tanú az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket igazolja. Hatósági tanúként való közreműködésre – ha jogszabály eltérően nem rendelkezik – senki nem kötelezhető.
 
 (2) Nem lehet hatósági tanú az adózó, az adózó hozzátartozója vagy képviselője, az eljáró adóhatósággal adó- és vámhatósági szolgálati jogviszonyban, közszolgálati jogviszonyban, munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
 

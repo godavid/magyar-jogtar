@@ -93,7 +93,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 9a. alapok alapját végrehajtó szervezet: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló Kormányrendelet szerint meghatározott pénzügyi eszközöket végrehajtó szervezet.
 - 10. be nem jelentett foglalkoztatott: az adózó tevékenységében személyesen közreműködő természetes személy, akire vonatkozóan a munkáltató, illetve kifizető biztosítotti bejelentési kötelezettségének nem tett eleget, illetve a munkáltató, kifizető nem tudja bizonyítani, hogy a tevékenységében közreműködő jogviszonya kívül esik a bejelentési kötelezettségen,
 - 11. ajánlott elektronikus kézbesítési szolgáltatás: a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti ajánlott elektronikus kézbesítési szolgáltatás,
-- 12. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet alapján nyújtható támogatás,
+- 12. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet alapján nyújtható támogatás,
 - 13. egyéb szervezet: az egyéni cég, a polgári jogi társaság, a társasház, a társasüdülő, a társasgarázs, az építőközösség, a jogi személyiséggel nem rendelkező személyi egyesülés és a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 - 14. EKAER: az állami adó- és vámhatóság által működtetett Elektronikus Közúti Áruforgalom Ellenőrző Rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja,
 - 15. EKAER szám: az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer által a termék közúti fuvarozásának bejelentését követően automatikusan képzett azonosító szám, amely egy adott termékegységet azonosít,
@@ -1395,7 +1395,7 @@ személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn k�
 
 (1b) Az automataberendezés üzemeltetési helye felett rendelkezési joggal bíró adózó köteles bármely az (1) bekezdés a)–d) pontjában bekövetkezett adat változását, az adatváltozás tudomására jutásától számított tizenöt napon belül a felügyeleti szolgáltató részére bejelenteni.
 
-(1c) E paragrafus alkalmazásában automataberendezés az AFE-vel rendelkező automataberendezés.
+(1c) Az (1a) és (1b) bekezdés alkalmazásában automataberendezés az AFE-vel rendelkező automataberendezés.
 
 (2) Az automataberendezéseket AFE-val kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 
@@ -2455,7 +2455,7 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 #### 177. § [Ügyintézési határidő]
 
-(1) A szokásos piaci ár megállapítására irányuló eljárást százhúsz nap alatt kell lefolytatni. A határidő két alkalommal hatvan nappal meghosszabbítható.
+(1) A szokásos piaci ár megállapítására irányuló eljárást százhúsz nap alatt kell lefolytatni. A határidő két alkalommal kilencven nappal meghosszabbítható.
 
 (1a) Kétoldalú vagy többoldalú eljárásnál a külföldi állam illetékes hatóságával az egyeztetést a kérelem benyújtásától számított kettő év alatt kell befejezni. A határidő indokolt esetben egy évvel meghosszabbítható.
 
@@ -3067,6 +3067,10 @@ Az általános forgalmi adó összesítő jelentés szerinti adatszolgáltatási
 
 (2) Az (1) bekezdés alapján nincs helye mulasztási bírság kiszabásának, ha a nyilvántartás vezetésre, adatszolgáltatásra és nyilvántartás-megőrzésre kötelezett mulasztását, késedelmét, hibás vagy hiányos teljesítését annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
+#### 229/B. § [Adategyeztetési eljárásra vonatkozó szabályok megsértése]
+
+Az állami adó- és vámhatóság az adózót háromszázezer forint összegű mulasztási bírsággal sújtja, ha az adózó a 138/A. § (2) bekezdésében foglalt kötelezettségét nem teljesíti.
+
 #### 230. § [Nyilvántartási, iratmegőrzési kötelezettség megszegése szokásos piaci ár meghatározása, valamint ellenőrzött külföldi társaságokkal folytatott ügyletek esetén]
 
 (1) Az adózó a szokásos piaci ár meghatározásával, valamint az ellenőrzött külföldi társaságokkal folytatott jogügyletekkel összefüggő nyilvántartási kötelezettségének megsértése, illetve e nyilvántartással összefüggő iratmegőrzési kötelezettségének megsértése esetén nyilvántartásonként (összevont nyilvántartásonként) ötmillió forintig terjedő, ismételt jogsértés esetén nyilvántartásonként (összevont nyilvántartásonként) tízmillió forintig terjedő mulasztási bírsággal sújtható. A kötelezettségnek az ismételt mulasztás miatt hozott határozat közlését megelőzően történő teljesítése esetén az e bekezdés alapján kiszabott bírság mérsékelhető vagy elengedhető.
@@ -3650,7 +3654,7 @@ módjára és az adóhatóság rendelkezésére bocsátandó fájlok adatszerkez
 
 (12) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói és okleveles adószakértői hatósági képzés és hatósági vizsgáztatás szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait.
 
-(13) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az e-pénztárgép forgalmazására, szervizelésére, engedélyezésére, üzemeltetésére, felügyeletére vonatkozó szabályokat.
+(13) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az e-pénztárgép használatára kötelezettek körével, az e-pénztárgép forgalmazásával, szervizelésével, engedélyezésével, üzemeltetésével, felügyeletével és ellenőrzésével összefüggő szabályokat, valamint az e-pénztárgép és a vevői alkalmazás forgalmazási engedélyének kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékével, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
 
 ### XXXIV. Fejezet — HATÁLYBALÉPÉS
 
@@ -3891,6 +3895,12 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 #### 274/R. § [Átmeneti rendelkezés a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvényhez]
 
 A globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvényben meghatározott kötelezettségek nem teljesítése esetén, a 2026. december 31. előtt kezdődő adóévek tekintetében bírság nem szabható ki, ha a csoporttag úgy járt el, ahogy az az adott helyzetben a csoporttagtól elvárható.
+
+#### 274/U. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2024. évi LV. törvényhez]
+
+(1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel (a továbbiakban: Módtv.13.) megállapított 83. § (1) bekezdés a) pontjában foglalt adattartalommal a földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlan-nyilvántartási rendszerből elektronikus úton adatszolgáltatást teljesít az állami adó- és vámhatóság részére 2024. december 31. napjáig.
+
+(2) E törvénynek a Módtv.13.-mal megállapított 177. § (1) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 

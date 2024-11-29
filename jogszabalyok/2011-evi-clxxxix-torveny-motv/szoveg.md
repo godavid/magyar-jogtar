@@ -742,21 +742,25 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 ### A főpolgármester, polgármester, a vármegyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
 
-71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege 1 500 000 forint. A főpolgármester havonta az illetményének 15%-ában meghatározott költségtérítésre, valamint a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
+71. § (1) A főpolgármester megbízatásának időtartamára havonta a (4a) bekezdés szerinti, a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset (a továbbiakban: nemzetgazdasági átlagkereset) hatszorosának megfelelő összegű illetményre, valamint illetménye 15%-ának megfelelő összegű költségtérítésre, továbbá a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
 
-(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta illetményre jogosult, amelynek összege 1 300 000 forint.
+(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset négy és félszeresének megfelelő összegű illetményre jogosult.
 
-(3) A vármegyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a (2) bekezdésben meghatározott illetmény 90%-ának összegével.
+(3) A vármegyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset négyszeresének megfelelő összegű illetményre jogosult.
 
-(4) A polgármester illetménye a (2) bekezdésben meghatározott összeg
+(4) A polgármester megbízatásának időtartamára havonta
 
-- a) 40%-a az 500 fő és az az alatti lakosságszámú település polgármestere esetében;
-- b) 50%-a az 501–1500 fő lakosságszámú település polgármestere esetében;
-- c) 55%-a az 1501–2000 fő lakosságszámú település polgármestere esetében;
-- d) 60%-a a 2001–5000 fő lakosságszámú település polgármestere esetében;
-- e) 65%-a az 5001–10 000 fő lakosságszámú település polgármestere esetében;
-- f) 75%-a a 10 001–30 000 fő lakosságszámú település polgármestere esetében;
-- g) 85%-a a 30 000 fő lakosságszám feletti település polgármestere esetében.
+- a) az 500 fő és az az alatti lakosságszámú település esetében a nemzetgazdasági átlagkereset 1,5-szeresének;
+- b) az 501–1500 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset 1,75-szeresének;
+- c) az 1501–2000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset kétszeresének;
+- d) a 2001–5000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset a település 2,25-szeresének;
+- e) az 5001–10 000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset két és félszeresének;
+- f) a 10 001–30 000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset háromszorosának;
+- g) a 30 000 fő feletti lakosságszámú település esetében a nemzetgazdasági átlagkereset három és félszeresének
+
+megfelelő összegű illetményre jogosult.
+
+(4a) A főpolgármester, a megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere, a vármegyei önkormányzat közgyűlésének elnöke, a polgármester (e bekezdés alkalmazásában a továbbiakban együtt: polgármester) illetményének számításánál a tárgyévet megelőző évnek a január első napjától december utolsó napjáig tartó időszakára vonatkozó, a legalább 5 főt foglalkoztató vállalkozásoknál, a költségvetési intézményeknél és a foglalkoztatás szempontjából jelentős nonprofit szervezeteknél teljes munkaidőben alkalmazásban állók bruttó átlagkeresetére vonatkozóan a nemzetgazdasági átlagkeresetet kell alapul venni. A nemzetgazdasági átlagkereset alapján számított illetményre a polgármester a tárgyév július 1-jétől jogosult.
 
 (5) A társadalmi megbízatású polgármester havonta a polgármester illetménye 50%-ával megegyező mértékű tiszteletdíjra jogosult, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
 
@@ -783,7 +787,13 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 
 ### Az alpolgármester
 
-74. § (1) A képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel a polgármester helyettesítésére, munkájának segítésére egy alpolgármestert, főpolgármester-helyettest, a vármegye közgyűlése alelnököt (a továbbiakban együtt: alpolgármester) választ, több alpolgármestert választhat. A képviselő-testület legalább egy alpolgármestert saját tagjai közül választ meg. Az alpolgármester jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
+74. § (1) A képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel a polgármester helyettesítésére, munkájának segítésére egy alpolgármestert, főpolgármester-helyettest, a vármegye közgyűlése alelnököt (a továbbiakban együtt: alpolgármester) választ, több alpolgármestert az (1a) bekezdésben meghatározottak szerint választhat. A képviselő-testület legalább egy alpolgármestert saját tagjai közül választ meg. Az alpolgármester jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
+
+(1a) A képviselő-testület által megválasztott alpolgármesterek száma összesen legfeljebb
+
+- a) a 10 000 fő és az az alatti lakosságszámú település esetében kettő,
+- b) a 10 001–100 000 fő közötti lakosságszámú település, fővárosi kerület esetében három,
+- c) a 100 000 fő feletti lakosságszámú település, fővárosi kerület, a fővárosi önkormányzat, valamint a vármegyei önkormányzat esetében négy.
 
 (2) Az alpolgármester a polgármester irányításával látja el feladatait. Több alpolgármester esetén a polgármester bízza meg általános helyettesét.
 
@@ -921,6 +931,28 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 (11) A közös hivatal működési költségeit a közös hivatalhoz tartozó önkormányzatok – eltérő megállapodásuk hiányában – lakosságszámuk arányában biztosítják.
 
 (12)
+
+(13) Amennyiben az önkormányzati hivatali feladatok zavartalan ellátása indokolttá teszi, az e §-ban foglaltaktól eltérően a helyi önkormányzatokért felelős miniszter jóváhagyásával
+
+- a) létrehozható közös önkormányzati hivatal abban az esetben is, ha az érintett települések közül legfeljebb egy település másik járásban található, feltéve hogy
+  - aa) az adott település közigazgatási határa közvetlenül kapcsolódik az érintett közös önkormányzati hivatalt alkotó települések valamelyikének közigazgatási határához,
+  - ab) az érintett települések képviselő-testületeinek mindegyike jóváhagyta a közös önkormányzati hivatal létrehozására irányuló megállapodást, valamint
+  - ac) megfelel az e §-ban meghatározott további feltételeknek;
+- b) tovább működtethető a közös önkormányzati hivatal, ha
+  - ba) a közös önkormányzati hivatal tagösszetétele változatlan,
+  - bb) a közös önkormányzati hivatalhoz tartozó települések összlakosságszáma legalább 1990 fő, valamint
+  - bc) megfelel az e §-ban meghatározott további feltételeknek;
+- c) a polgármesteri hivatal tovább működtethető, ha a település lakosságszáma legalább 1990 fő,
+- d) tovább működtethető a (10) bekezdés alapján létrehozott közös önkormányzati hivatal, ha
+  - da) a közös önkormányzati hivatal tagösszetétele változatlan,
+  - db) a közös önkormányzati hivatalhoz tartozó települések összlakosságszáma legalább 1490 fő, valamint
+  - dc) megfelel az e bekezdésben meghatározott egyéb feltételeknek.
+
+(14) A (13) bekezdés a)–d) pontjában meghatározott jóváhagyás iránti kérelem az általános önkormányzati választások napját követő 45. napig nyújtható be az illetékes főispánhoz.
+
+(15) A (14) bekezdésben meghatározott kérelemhez az önkormányzat csatolja a (13) bekezdés a), b) és d) pontja esetében az érintett önkormányzatok képviselő-testületei által jóváhagyott megállapodásokat, és azokat megküldi az illetékes főispánnak.
+
+(16) Az illetékes főispán a (14) bekezdésben megjelölt kérelmet az arra vonatkozó álláspontjával együtt haladéktalanul megküldi a miniszternek. A miniszter a kérelem tartalma, a (13) bekezdésben foglalt feltételek teljesülése és a kérelem tárgyát képező összes körülmény figyelembevételével dönt.
 
 86. § (1) A közös önkormányzati hivatal jegyzője vagy aljegyzője vagy megbízottja köteles a képviselő-testület ülésén részt venni és ott a szükséges tájékoztatást megadni.
 
@@ -1608,7 +1640,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, 146/L. §, a 147. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, 146/L. §, 146/M. §, 146/N. §, 146/O. §, a 147. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
@@ -1684,6 +1716,12 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 gyakorolja.
 
 (3) A kormányhivatal vezetője a (2) bekezdés d) pontja szerinti esetben törvény felhatalmazása hiányában önkormányzati rendeletet nem alkothat, az önkormányzat működéséhez szükséges halaszthatatlan döntéseket akkor hozhatja meg, ha annak fedezete az önkormányzat költségvetésében biztosított.
+
+146/M. § E törvénynek a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2024. évi LVIII. törvénnyel megállapított 71. § (1)–(4a) bekezdésében foglaltakat 2024. október 1-jétől kell alkalmazni. A 71. § (4a) bekezdésében meghatározott polgármesterekre vonatkozóan a polgármesteri illetmény 2024. évi megállapítása a 2023. év január–december közti időszakban a teljes munkaidőben alkalmazásban állók esetében a legalább 5 főt foglalkoztató vállalkozásoknál, a költségvetési intézményeknél és a foglalkoztatás szempontjából jelentős nonprofit szervezeteknél a 2024-ben közzétett nemzetgazdasági átlagkereset alapulvételével történik.
+
+146/N. § Ha a képviselő-testület a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2024. évi LVIII. törvénnyel megállapított 74. § (1a) bekezdésének hatálybalépését megelőzően a 74. § (1a) bekezdésében foglaltnál több alpolgármestert választott meg, a megválasztott alpolgármesterek megbízatása fennmarad azzal, hogy ha valamely alpolgármester megbízatása megszűnik, helyére új alpolgármester mindaddig nem választható, amíg az alpolgármesterek száma eléri vagy meghaladja a 74. § (1a) bekezdésében meghatározott számot.
+
+146/O. § A 85. § (14) bekezdésében meghatározott jóváhagyás iránti kérelem a főispán részére a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2024. évi LVIII. törvény hatálybalépését követő 15 napon belül nyújtható be. Az e § rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
 ### Módosító rendelkezések
 

@@ -64,7 +64,7 @@ abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az E
 - a) egyébként nem adóalanyi minőségben eljáró, az 5. § (1) bekezdése értelmében jogképes személy vagy szervezet (a továbbiakban együtt: személy, szervezet) belföldön küldeményként feladott vagy belföldről fuvarozott új közlekedési eszközt értékesít belföldön kívülre, de – a beszerző nevére szóló rendeltetéssel – a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző vagy – bármelyikük javára – más végzi;
 - b) egyébként nem adóalanyi minőségben eljáró személy, szervezet beépített ingatlant (ingatlanrészt), és ehhez tartozó földrészletet sorozat jelleggel értékesít, feltéve, hogy
   - ba) annak első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - bb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, vagy a használatbavétel tudomásulvétele, vagy az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján épített lakóingatlan felépítésének megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év, vagy
+  - bb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, a használatbavétel tudomásulvétele vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év, vagy
   - bc) első rendeltetésszerű használatbavétele megtörtént, de mint önálló rendeltetési egység rendeltetését vagy a rendeltetési egységeinek számát megváltoztatták, és az ezt igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év
 
 [a ba), bb) és bc) alpont a továbbiakban együtt: beépítés alatt álló vagy beépített új ingatlan];
@@ -913,7 +913,7 @@ esetében
 - a) az a termékértékesítés, szolgáltatásnyújtás, amelyet közvetlenül a pénzvisszatérítésre jogosult részére teljesítettek (pénzvisszatérítésre jogosító ügylet), belföldön teljesített adóköteles ügylet, és
 - b) a visszatérítendő összeg kisebb, mint a pénzvisszatérítésre jogosító ügylet mennyiségi adatának és az adott vásárlásösztönzési program keretében, bármely adóalap csökkentésre jogosító ügylet vonatkozásában az értékesített termék, nyújtott szolgáltatás legalacsonyabb, adóval növelt egységárának szorzataként adódó összeg.
 
-(4a) A (4) bekezdés szerinti adóalap-csökkentési jog akkor is megilleti az adóalanyt, ha a pénzvisszatérítést úgy biztosítja, hogy azt nem közvetlenül azon adóalany vagy nem adóalany részére teljesíti, aki (amely) részére a pénzvisszatérítésre jogosító termékértékesítést, szolgáltatásnyújtást teljesítették (ezen bekezdés alkalmazásában: végső fogyasztó), feltéve, hogy:
+(4a) A (4) bekezdés szerinti adóalap-csökkentési jog akkor is megilleti az adóalanyt, ha a pénzvisszatérítést – függetlenül attól, hogy azt az adóalany szerződésben vállalt kötelezettség vagy jogszabályi előírás alapján teljesíti – úgy biztosítja, hogy azt nem közvetlenül azon adóalany vagy nem adóalany részére teljesíti, aki (amely) részére a pénzvisszatérítésre jogosító termékértékesítést, szolgáltatásnyújtást teljesítették (ezen bekezdés alkalmazásában: végső fogyasztó), feltéve, hogy:
 
 - a) a végső fogyasztó a pénzvisszatérítésre jogosító ügylet tekintetében előzetesen felszámított adó levonására sem részben, sem egészben nem jogosult, és
 - b) a pénzvisszatérítés adó nélküli összege a pénzvisszatérítésre jogosító termékértékesítés, szolgáltatásnyújtás adóalapjába beletartozik.
@@ -1173,7 +1173,7 @@ nem minősül közszolgáltatónak.
 - i) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték-szolgáltatás nyújtása, ideértve ezek közvetítését is, valamint a szerencsejáték szervezésére vonatkozó tevékenység gyakorlása jogának az állam által koncessziós szerződéssel történő átengedése;
 - j) a beépített ingatlan (ingatlanrész) és az ehhez tartozó földrészlet értékesítése, kivéve annak a beépített ingatlannak (ingatlanrésznek) és az ehhez tartozó földrészletnek az értékesítését, amelynek
   - ja) első rendeltetésszerű használatbavétele még nem történt meg; vagy
-  - jb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, vagy a használatbavétel tudomásulvétele, vagy az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján épített lakóingatlan felépítésének megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év; vagy
+  - jb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, a használatbavétel tudomásulvétele vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év; vagy
   - jc) első rendeltetésszerű használatbavétele megtörtént, de mint önálló rendeltetési egység rendeltetését vagy a rendeltetési egységeinek számát megváltoztatták, és az ezt igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év;
 - k) a beépítetlen ingatlan (ingatlanrész) értékesítése, kivéve az építési telek (telekrész) értékesítését;
 - l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása;
@@ -2551,7 +2551,7 @@ nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 - b) az aa) alpont alá nem tartozó új közlekedési eszköz 89. § (1) és (2) bekezdés szerinti értékesítése,
 - c) az aa) alpont alá nem tartozó beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet értékesítése, amelynek
   - ca) első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - cb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, vagy a használatbavétel tudomásulvétele, vagy az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján épített lakóingatlan felépítésének megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év, vagy
+  - cb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, a használatbavétel tudomásulvétele vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év, vagy
   - cc) első rendeltetésszerű használatbavétele megtörtént, de mint önálló rendeltetési egység rendeltetését vagy a rendeltetési egységeinek számát megváltoztatták, és az ezt igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év,
 - d) az aa) alpont alá nem tartozó építési telek (telekrész) értékesítése,
 - e) a 85. § (1) bekezdése szerinti adómentes termékértékesítés, szolgáltatásnyújtás,
@@ -4535,6 +4535,10 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 (2) A 3/A. számú melléklet I. részében foglalt táblázatnak az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 5. pontját azokban az esetekben kell alkalmazni, amelyekben a 84. § szerint megállapított időpont 2024. január 1-jére vagy azt követő időpontra esik.
 
+367. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése azokban az esetekben alkalmazható, amikor a pénzvisszatérítést az adóalany ezen rendelkezések hatálybalépésének napján vagy azt követő időpontban teljesíti.
+
+(2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése ezen rendelkezések hatálybalépésének időpontját megelőzően, de a 2023. december 31-ét követően teljesített pénzvisszatérítések esetében is alkalmazható feltéve, hogy az adóalany a pénzvisszatérítésből fakadó adóalap-csökkentési igényét más módon nem érvényesítette.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -4645,7 +4649,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 56. | Emberi fogyasztásra alkalmas hal (ideértve a halbőrt, ikrát, haltejet, halmájat és más belsőségeket is) frissen, hűtve vagy fagyasztva, a cápa kivételével | 0302-ből 0303-ból |
 | 57. | Emberi fogyasztásra alkalmas halfilé és más halhús (aprított is) frissen, hűtve vagy fagyasztva, a cápahús kivételével | 0304-ből |
 | 58. | Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsősége, frissen, hűtve vagy fagyasztva | 0206 30-ból 0206 41-ből 0206 49-ből |
-| 59. | Az épített környezet alakításáról és védelméről szóló törvényben meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó lakás értékesítése |  |
+| 59. | Jogszabályban meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó lakás értékesítése |  |
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 

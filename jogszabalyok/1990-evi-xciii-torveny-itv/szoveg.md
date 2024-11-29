@@ -623,7 +623,7 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 - a) de minimis támogatásnak, vagy
 - b) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 55. cikke szerinti, sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásnak (a továbbiakban: sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás) minősül. E rendelkezés alkalmazásában hivatásos sportszervezetnek minősül a nem látvány-csapatsportágak országos sportági szakszövetsége, országos sportági szövetsége által kiírt versenyrendszerben (bajnokságban) részt vevő (indulási jogot elnyert) sportszervezet – ideértve a sportiskolát és az utánpótlás-nevelés fejlesztését végző alapítványt is – abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz.
 
-(17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben a de minimis támogatás, illetve a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
+(17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben az (EU) 2023/2831 bizottsági rendelet szerinti de minimis támogatás, illetve a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
 
 (18) Az (1) bekezdés p) pontja szerinti illetékmentesség alkalmazásában
 
@@ -1784,6 +1784,8 @@ megkötött adásvételi szerződés alapján történő vagyonszerzésre kell a
 - a) a 26. § (1) bekezdés p) pontja szerinti 5 éves időtartam még nem telt el, vagy
 - b) az állami adó- és vámhatóság 26. § (18a) bekezdése szerinti eljárása véglegesen nem zárult le.
 
+102/H. § A 24/A. § szerint megállapított illetékmértékeket az állami adó- és vámhatóság első alkalommal 2024. december 15-éig teszi közzé honlapján.
+
 103. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a)
@@ -1811,7 +1813,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5a) A 2. melléklet XIII. pont 5. és 6. alpontja a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) 57. cikk (3) bekezdése végrehajtásához szükséges rendelkezést állapít meg és a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelv 46. cikk (3) bekezdésének való megfelelést szolgálja.
 
-(6) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
+(6) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
 (7) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.
 

@@ -1867,7 +1867,7 @@ kell azonosnak tekinteni.
 
 - a) a megszerzésre fordított összeget, és az ezzel összefüggő más kiadásokat;
 - b) az értéknövelő beruházásokat;
-- c) a szerzési időponthoz tartozó bevételrész arányában az átruházással kapcsolatos kiadásokat, ideértve az adott ingatlannal kapcsolatban az állammal szemben vállalt kötelezettség alapján igazoltan megfizetett összeget is.
+- c) a szerzési időponthoz tartozó bevételrész arányában az átruházással kapcsolatos kiadásokat.
 
 (2) A megszerzésre fordított összeg
 
@@ -2835,8 +2835,8 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 - b) egyes költségtérítések formáit és a jövedelemadó szempontjából igazolás nélkül elszámolható költségek mértékeit;
 - c) a közlekedési kedvezmények azon körét, amely adómentes juttatásnak minősül;
 - d) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának részletes szabályait;
-- e)
-- f)
+- e) a magyar építészetről szóló törvény szerint műemléknek minősülő ingatlan értékesítéséből származó jövedelem adómentességét megalapozó igazolás kiállításának szabályait;
+- f) a béren kívüli juttatásként adható lakhatási támogatás juttatásának részletes feltételeit;
 - g) azon betegségek körét, amelyekben szenvedő személyek a személyi kedvezmény érvényesítése szempontjából súlyosan fogyatékosnak minősülnek.
 
 81. § (1) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza:
@@ -2916,7 +2916,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (6) E törvény 3. § 40. pontja, 49/B. § (6) bekezdés d) pont da) és dc) alpontja, 11. számú melléklet II. Az értékcsökkenési leírás szabályai fejezet 2. pont p) pont pa) és pc) alpontja, 13. számú melléklet 12. pont a) és c) alpontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2022. december 14-i 2022/2472/EU bizottsági rendelet (HL L 327., 2022.12.21., 1. o.) 1–14. és 17. cikkei hatálya alá tartozó támogatási programot tartalmaz.
 
-(7) E törvény 49/B. § (6) bekezdés d) pont dd) alpontja, 11. számú melléklet II. Az értékcsökkenési leírás szabályai fejezet 2. pont p) pont pd) alpontja, 13. számú melléklet 12. pont d) alpontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU rendelet (HL L 352 2013.12.24. 1–8. o.) hatálya alá tartozó támogatási programot tartalmaz.
+(7) E törvény 49/B. § (6) bekezdés d) pont dd) alpontja, 11. számú melléklet II. Az értékcsökkenési leírás szabályai fejezet 2. pont p) pont pd) alpontja, 13. számú melléklet 12. pont d) alpontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831. rendelet (HL L 2023.12.15.) hatálya alá tartozó támogatási programot tartalmaz.
 
 84/A. § (1) A 2010. évben a 49. § (16) bekezdése szerinti rendelkezés alapján a harmadik és negyedik negyedévben fizetendő adóelőleget – a már megfizetett adóelőleg figyelembevételével – az egyéni vállalkozó 10 százalékkal állapíthatja meg az év elejétől halmozott adóelőleg-alapnak
 
@@ -3280,6 +3280,12 @@ veszi figyelembe a személyijövedelemadó-bevallásban.
 
 (2) Nem kell osztalékból származó jövedelmet megállapítani az induló tőke terhére történő azon vagyonjuttatás után, melynek értéke – több alkalommal történő juttatás esetén ezen értékek összege – nem haladja meg a 2023. szeptember 11-i indulótőke értékét, ide nem értve a 65/C. § (2) bekezdésében meghatározott esetet.
 
+108. § (1) Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 9. § (2) bekezdés c) pontjának alkalmazása során, ha a vásárolt szolgáltatás igénybevételére való jogosultság megszerzésének napja 2025. január 1-je előtti napra esik, de az arról szóló bizonylat 2024. december 31-ét követően áll rendelkezésre, a bevétel megszerzésének időpontja – eltérően a 9. § (2) bekezdés 2024. december 31-én hatályos c) pontjában szereplő időponttól – az a nap, amelyen a szolgáltatásról szóló bizonylat rendelkezésre áll.
+
+(2) Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 1. számú melléklet 4. pont 4.52. alpontja a 2024. január 1-jétől keletkezett jövedelemre alkalmazható.
+
+(3) Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 57/A. § (4) bekezdés szerinti tételes átalányadó 2025. évre vonatkozó mértékének megállapítása érdekében az állami adó- és vámhatóság első alkalommal 2025. január 15-ig teszi közzé a honlapján azon települések listáját, ahol a Központi Statisztikai Hivatal által közzétett adatok alapján a vendégéjszakák száma 2023-ban meghaladta a 2 milliót.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -3604,6 +3610,8 @@ megszerzett, villamos energia értékesítésből származó bevétele – figye
 - 4.50. a Magyar Tudományos Akadémia és a Nemzeti Közszolgálati Egyetem által John Lukács életműve előtti tiszteletadás céljából évente megítélt és a Nemzeti Közszolgálati Egyetem által folyósított díj összege;
 - 4.51. a Tbj. szerint belföldinek nem minősülő személy részére adott juttatás, amelyet az említett személy a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyal, egyházi jogi személlyel, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány, egyházi jogi személy által fenntartott felsőoktatási intézménnyel vagy a nemzeti felsőoktatásról szóló törvény 1. melléklete szerinti más felsőoktatási intézménnyel fennálló munkavégzésre irányuló jogviszony alapján szerez, feltéve, hogy a munkavégzésre irányuló jogviszonnyal összefüggésben a magyarországi tartózkodása bármely 12 hónapos időszakban nem haladja meg a 30 napot.
 
+4.52. a végső felhasználó magánszemély az energiahatékonyságról szóló törvény szerint hitelesített energiamegtakarítást eredményező – nem egyéni vállalkozóként végzett – cselekményére (így különösen beruházásra, korszerűsítésre, felújításra) tekintettel e magánszemély által megszerzett bevétel, így különösen a magánszemély javára nyilvántartásba vett hitelesített energia megtakarítás (vagyoni értékű jog), az energia megtakarítás érdekében igénybe vett szolgáltatás, vásárolt termék árengedménye, továbbá az említett magánszemély által a hitelesített energia megtakarítás mint vagyoni értékű jog átengedése ellenében megszerzett bevétel.
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
@@ -3824,7 +3832,9 @@ c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban 
 
 7.45. a Kormány határozatával kiemelt nemzetközi sportrendezvénynek minősített esemény megrendezésével összefüggésben a kiemelt nemzetközi sportrendezvénynek a Kormány határozatában megjelölt szervezője vagy szervezői által a sportolóknak, a versenybíróknak, a magyar és külföldi sportszövetségek tisztségviselőinek és képviselőinek, a szervezőbizottsági tisztségviselőknek és az önkénteseknek adott napidíj, költségtérítés, formaruha, természetben biztosított ellátás, a sportolóknak fizetett pénzdíj, továbbá a versenyekhez kapcsolódó promóciós jellegű juttatások a Kormány határozatában meghatározott mértékig.
 
-7.46. a hulladékról szóló törvény, valamint az annak felhatalmazása alapján kiadott jogszabályok alapján a hulladék átadásának ösztönzése érdekében adott juttatás a juttatás időpontjától függetlenül, ide nem értve ha a hulladék átadása gazdasági tevékenység [3. § 46. pont] keretében történik.
+7.46. a hulladékról szóló törvény, valamint az annak felhatalmazása alapján kiadott jogszabályok alapján a hulladék átadásának ösztönzése érdekében adott juttatás a juttatás időpontjától függetlenül, továbbá a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendeletben meghatározott termékekre vonatkozó kötelező visszaváltási rendszer keretében a magánszemély részére a forgalmazó által kifizetett, juttatott visszaváltási díj (ideértve az automata visszaváltó berendezés által kibocsátott utalvány formájában juttatott visszaváltási díjat, valamint azt a visszaváltási díjat is, amely felett a jogosult más személy javára rendelkezik), de ide nem értve ha a hulladék átadása gazdasági tevékenység [3. § 46. pont] keretében történik;
+
+7.47. az a jövedelem, amely a kifizető által megvásárolt – a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendeletben meghatározott – visszaváltási díjas termékek magánszemély részére bármely módon történő átengedése révén keletkezik.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 

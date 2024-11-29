@@ -1549,7 +1549,7 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 
 70. § (1) Az eredménykimutatás a vállalkozó adózott eredményének a levezetését – az ellenőrzés megállapításai alapján az előző üzleti év(ek) adózott eredményét módosító jelentős összegű hibák eredményre gyakorolt hatását elkülönítetten – tartalmazza, az eredmény keletkezésére, módosítására ható főbb tényezőket, az adózott eredmény összetevőit, kialakulását mutatja be.
 
-(2) Az üzleti év adózott eredményét az üzemi (üzleti) tevékenység eredménye és a pénzügyi műveletek eredménye (a továbbiakban együtt: adózás előtti eredmény) adófizetési kötelezettség levonásával csökkentett összegében kell meghatározni.
+(2) Az üzleti év adózott eredményét az üzemi (üzleti) tevékenység eredménye és a pénzügyi műveletek eredménye (a továbbiakban együtt: adózás előtti eredmény) adófizetési kötelezettség levonásával csökkentett, valamint a halasztott adókülönbözettel – előjelének megfelelően – módosított összegében kell meghatározni.
 
 71. § (1) Az üzemi (üzleti) tevékenység eredménye – a vállalkozó döntésétől függően – kétféle módon állapítható meg:
 
@@ -3230,8 +3230,8 @@ kivéve, ha valamely konszolidálásba bevont vállalkozása közérdeklődésre
 (3) A társaságiadó-információkat tartalmazó jelentést és adott esetben a nyilatkozatot a vállalkozás – az (1) és (2) bekezdéssel összhangban – köteles közzétenni:
 
 - a) a vállalkozás internetes honlapján, amennyiben a 134/E. § (1) és (3) bekezdése alkalmazandó;
-- b) a leányvállalat internetes honlapján, amennyiben a 134/E. § (7) bekezdése alkalmazandó;
-- c) a fióktelep internetes honlapján, amennyiben a 134/E. § (10) bekezdése alkalmazandó.
+- b) a leányvállalat vagy kapcsolt vállalkozás internetes honlapján, amennyiben a 134/E. § (7) bekezdése alkalmazandó;
+- c) a fióktelep, a fióktelepet nyitó vállalkozás vagy egy kapcsolt vállalkozás internetes honlapján, amennyiben a 134/E. § (10) bekezdése alkalmazandó.
 
 (3a) A (3) bekezdés szerinti közzététel során a közzétett adatok folyamatos megtekinthetőségét legalább 5 egymást követő évig kell biztosítani.
 
@@ -3281,7 +3281,7 @@ kivéve, ha valamely konszolidálásba bevont vállalkozása közérdeklődésre
 
 (3) Az (1) bekezdés szerinti uniós leányvállalat a csoport azon uniós leányvállalatainak egyike, amelyek a legutolsó öt üzleti év legalább egyikében – adott esetben összevont alapon – a legnagyobb forgalmat bonyolították az Unióban.
 
-(4) Az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentést a 134/J. §-sal összhangban kell közzétenni.
+(4) Az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentést a 134/J. §-sal összhangban kell közzétenni, legkésőbb azon üzleti év mérlegfordulónapját követő 12 hónapon belül, amelyre vonatkozóan a fenntarthatósági jelentést elkészítették.
 
 (5) A 95/F. § (1)–(3) bekezdése és a 134/I. § (7) bekezdése szerinti mentesség alkalmazásában az (1) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentést az anyavállalat csoportszintű jelentésének kell tekinteni a konszolidációba bevont vállalkozások tekintetében. A (2) bekezdés szerinti összevont (konszolidált) fenntarthatósági jelentés összeállításával teljesül a 95/F. § (6) bekezdése szerinti feltétel.
 
@@ -3792,7 +3792,7 @@ kezeli.
 
 (10) A cégjegyzékbe be nem jegyzett vállalkozó – ha jogszabály a közzétételről, annak módjáról külön rendelkezik – a közzétételről az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig köteles gondoskodni.
 
-(11) Ha a vállalkozó nem tett eleget letétbe helyezési, valamint közzétételi kötelezettségének és a letétbe helyezés, a közzététel elmaradása harmadik fél jogos érdekeit érinti, a harmadik fél kezdeményezheti a cégbíróság törvényességi felügyeleti eljárását.
+(11) Ha a vállalkozó nem tett eleget e törvény szerinti bármely letétbe helyezési, valamint közzétételi kötelezettségének (ideértve a könyvvizsgálati kötelezettséget is), harmadik fél kezdeményezheti a cégbíróság törvényességi felügyeleti eljárását.
 
 (12) Az éves beszámoló részét nem képező üzleti jelentés, az összevont (konszolidált) üzleti jelentés megtekintését a vállalkozó, illetve az anyavállalat székhelyén minden érdekelt részére biztosítani kell, továbbá lehetővé kell tenni azt, hogy arról minden érdekelt teljes vagy részleges másolatot készíthessen.
 
@@ -3846,7 +3846,7 @@ kezeli.
 
 (7) A (6) bekezdés szerinti könyvvizsgálatra a Magyar Könyvvizsgálói Kamara tagja vagy a Magyar Könyvvizsgálói Kamaránál nyilvántartásba bejegyzett könyvvizsgáló cég választható.
 
-(7a) Semmis a vállalkozóra vonatkozó olyan szerződéses rendelkezés vagy egyéb jognyilatkozat, amely a könyvvizsgálati kötelezettség körébe eső tevékenységre történő kijelölés tekintetében a legfőbb szervet meghatározott könyvvizsgáló, könyvvizsgáló cég vagy könyvvizsgáló cégcsoport választására kötelezi.
+(7a) Semmis a vállalkozóra vonatkozó olyan szerződéses rendelkezés vagy egyéb jognyilatkozat, amely a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre, adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységre történő megválasztás tekintetében a vállalkozó legfőbb szervét meghatározott könyvvizsgáló, könyvvizsgáló cég vagy könyvvizsgáló cégcsoport választására kötelezi, illetve meghatározott könyvvizsgálók, könyvvizsgáló cégek vagy könyvvizsgáló cégcsoportok bizonyos típusaira vagy csoportjaira korlátozza.
 
 (7b) Amennyiben a (6) bekezdés szerinti könyvvizsgálatra könyvvizsgáló cég kerül megválasztásra, egyidejűleg a könyvvizsgálat végrehajtásáért személyében felelős könyvvizsgálót is ki kell jelölni.
 
@@ -3945,9 +3945,15 @@ kezeli.
 - f) a bizonyosság nyújtásáért személyében felelős könyvvizsgáló nevét, aláírását, kamarai bejegyzési (nyilvántartási) számát;
 - g) könyvvizsgáló cég esetén – az f) pontban foglaltak mellett – a cég képviseletére jogosult személy nevét, aláírását, a cég megnevezését, székhelyét, kamarai nyilvántartási számát is.
 
+(3) Amennyiben a vállalkozó fenntarthatósági jelentés vagy összevont (konszolidált) fenntarthatósági jelentés készítésére kötelezett, vagy azt önkéntes alapon készíti, akkor a vállalkozó legfőbb szerve az üzleti évről készített fenntarthatósági jelentésre vonatkozó (1) bekezdésben szereplő kötelezettségek teljesítéséhez köteles fenntarthatósági minősítéssel rendelkező kamarai tag könyvvizsgálót, könyvvizsgáló céget választani legkésőbb az előző üzleti év éves beszámolójának, összevont (konszolidált) éves beszámolójának legfőbb szerv általi elfogadásakor.
+
+(4) Amennyiben a fenntarthatósági jelentésre vagy az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására könyvvizsgáló cég kerül megválasztásra, azzal egyidejűleg a fenntarthatósági jelentésre vagy az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására a személyében felelős kamarai tag könyvvizsgálót is ki kell jelölni.
+
 158/B. § (1) A 158/A. § (1) bekezdése szerinti kamarai tag könyvvizsgáló, könyvvizsgáló cég korlátozott bizonyosságot nyújtó megbízása csak megfelelő indok alapján mondható fel. A fenntarthatósági jelentési vagy bizonyossági eljárások tekintetében fennálló véleményeltérés nem minősül megfelelő indoknak.
 
 (2) A vállalkozó az ok megjelölésével közli a könyvvizsgálói közfelügyeleti feladatokat ellátó hatósággal, ha a kamarai tag könyvvizsgáló, a könyvvizsgáló cég a bizonyosság nyújtására irányuló megbízásának időtartama alatt lemondott, vagy ha a megbízást a vállalkozó felmondta.
+
+158/C. § A fenntarthatósági jelentés, valamint az összevont (konszolidált) fenntarthatósági jelentés készítésére kötelezett, a 95/E. § (1) bekezdés a) pontja vagy a 134/I. § (1) bekezdésének hatálya alá tartozó vállalkozó – kivéve az a vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták – azon tagja (részvényese) vagy tagjai (részvényesei), akik egyénileg vagy együttesen eljárva a vállalkozó szavazati jogainak vagy jegyzett tőkéjének több mint öt százalékát képviselik, jogosultak arra, hogy a legfőbb szerv által elfogadandó olyan határozattervezetet terjesszenek elő, amely előírja, hogy a fenntarthatósági jelentésre, összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosságot nyújtó kamarai tag könyvvizsgálótól vagy könyvvizsgáló cégtől eltérő kamarai tag könyvvizsgáló vagy könyvvizsgáló cég készítsen jelentést a fenntarthatósági jelentés vagy az összevont (konszolidált) fenntarthatósági jelentés egyes elemeiről, és e jelentést a legfőbb szerv elé terjessze.
 
 ### XI. Fejezet — KÖNYVVEZETÉS, BIZONYLATOLÁS
 
@@ -4455,6 +4461,8 @@ e törvénynek a Mód2. törvény által megállapított fenntarthatósági jele
 (105) E törvénynek a Mód2. törvény által megállapított 134/K. §-a a 2030. január 7-e előtt végződő üzleti évre alkalmazható.
 
 (106) E törvénynek a Mód2. törvény által megállapított 94/B. §-át először a 2023. évben induló üzleti évre kell alkalmazni.
+
+(107) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 158/A. § (3) és (4) bekezdése a 2024. üzleti évre vonatkozó fenntarthatósági jelentéssel, összevont (konszolidált) fenntarthatósági jelentéssel összefüggésben úgy alkalmazandó, hogy a vállalkozó legfőbb szerve helyett a vállalkozó ügyvezető szerve választja meg a kamarai tag könyvvizsgálót, könyvvizsgáló céget, legkésőbb a mérleg fordulónapjáig.
 
 ### Felhatalmazás
 
