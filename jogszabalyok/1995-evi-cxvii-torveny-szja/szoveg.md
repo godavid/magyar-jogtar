@@ -3612,6 +3612,8 @@ megszerzett, villamos energia értékesítésből származó bevétele – figye
 
 4.52. a végső felhasználó magánszemély az energiahatékonyságról szóló törvény szerint hitelesített energiamegtakarítást eredményező – nem egyéni vállalkozóként végzett – cselekményére (így különösen beruházásra, korszerűsítésre, felújításra) tekintettel e magánszemély által megszerzett bevétel, így különösen a magánszemély javára nyilvántartásba vett hitelesített energia megtakarítás (vagyoni értékű jog), az energia megtakarítás érdekében igénybe vett szolgáltatás, vásárolt termék árengedménye, továbbá az említett magánszemély által a hitelesített energia megtakarítás mint vagyoni értékű jog átengedése ellenében megszerzett bevétel.
 
+4.53. az Európai Unió és a központi költségvetés forrásaiból a Tanulói vagy hallgatói jogviszonnyal rendelkező kisgyermeknevelők ösztönző támogatása tárgyú projekt keretében a Magyar Államkincstár által a kisgyermekgondozó, -nevelő technikumi képzésben aktív tanulói jogviszonnyal vagy csecsemő- és kisgyermeknevelő főiskolai alapképzésben (BA) aktív hallgatói jogviszonnyal rendelkező személyek számára a végzettség és szakképzettség megszerzése, továbbá a bölcsődei elhelyezkedés biztosítása érdekében biztosított ösztöndíj.
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
