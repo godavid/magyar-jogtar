@@ -264,7 +264,7 @@ gyakorolja.
 
 (3) A Felügyelőbizottság, illetve annak tagja a Felügyelőbizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapszabályában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelőbizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
 
-(4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelő Bizottság írásbeli jelentésének birtokában dönthet.
+(4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelőbizottság írásbeli jelentésének birtokában dönthet.
 
 (5) Ha a Felügyelőbizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapszabályba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
 
@@ -299,11 +299,11 @@ gyakorolja.
 
 (2a) Ha a miniszter tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az Áht. 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a miniszter tevékenységének ellátásában az MNV Zrt. közreműködik, az MNV Zrt. e körben végzett tevékenységéhez kapcsolódó jogügyletek tekintetében – a (2) bekezdésben foglaltaktól eltérően – az MNV Zrt.-t a miniszter képviseli harmadik személyekkel szemben.
 
-(3) A vezérigazgató felett az alapvető munkáltatói jogokat (munkaviszony létesítése és megszüntetése, javadalmazás megállapítása) a részvényesi jogokat gyakorló miniszter, az egyéb munkáltatói jogokat az Igazgatóság gyakorolja.
+(3) A vezérigazgató és a vezérigazgató-helyettesek felett az alapvető munkáltatói jogokat – így a munkaviszony létesítését és megszüntetését, javadalmazás megállapítását – a részvényesi jogokat gyakorló miniszter, az egyéb munkáltatói jogokat az Igazgatóság gyakorolja.
 
-(4) Az MNV Zrt. munkavállalói felett a munkáltatói jogokat a vezérigazgató gyakorolja.
+(4) Az MNV Zrt. munkavállalói – kivéve a vezérigazgató-helyetteseket – felett a munkáltatói jogokat a vezérigazgató gyakorolja.
 
-(5) Az MNV Zrt. vezérigazgatója és általános vezérigazgató-helyettese alkalmazásuk megszűnésétől számított két évig nem lehetnek a Felügyelőbizottság tagjai.
+(5) Az MNV Zrt. vezérigazgatója és vezérigazgató-helyettese alkalmazásuk megszűnésétől számított két évig nem lehetnek a Felügyelőbizottság tagjai.
 
 21. § (1) Az MNV Zrt. feladatait központi munkaszervezete és – a szervezeti és működési szabályzatban meghatározott – területi szervezeti egységei útján látja el.
 
@@ -408,7 +408,9 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 - g) ingóságok hasznosítása esetén, ha azok együttes forgalmi értéke a bruttó 25 millió forintot nem haladja meg,
 - h) ha a hasznosítással érintett terület nagysága az 50 négyzetmétert nem haladja meg.
 
-(2a) A (2) bekezdés d) pontja alapján versenyeztetés mellőzésével megkötött szerződés nem hosszabbítható meg, továbbá ugyanarra a vagyonelemre vonatkozóan ugyanazon felek között új határozott idejű szerződés a (2) bekezdés d) pontja alkalmazásával nem köthető.
+(2a) A (2) bekezdés d) pontja alapján versenyeztetés mellőzésével megkötött szerződés nem hosszabbítható meg, továbbá ugyanarra a vagyonelemre vonatkozóan ugyanazon felek között új határozott idejű szerződés a (2) bekezdés d) pontja alkalmazásával – a (2b) bekezdésben foglalt kivétellel – nem köthető.
+
+(2b) A (2a) bekezdéstől eltérően ugyanarra a vagyonelemre vonatkozóan ugyanazon felek között a (2) bekezdés d) pontja alkalmazásával új határozott idejű szerződés köthető, amennyiben a hasznosítás célja természeténél fogva időszakos jellegű, rövid távú használat – így különösen rendezvények tartásának – biztosítása és az új szerződés időtartama a 30 napot nem haladja meg.
 
 (3) Zártkörű pályázat kiírására különösen akkor kerülhet sor, ha a vagyontárgy nyilvános pályáztatásának reális, tervezett költségei jelentősen csökkentenék a hasznosításból éves szinten elérhető bevételt, vagy ha a korábbi nyilvános pályázat eredménytelenül zárult és ezen eljárással is biztosítható az állami vagyon gazdaságos – a 23. § (3) bekezdésében foglaltaknak megfelelő – hasznosítása.
 
@@ -710,7 +712,7 @@ lehet végezni.
 
 (2) Állami vagyon tulajdonjoga ingyenesen átruházható
 
-- a) nemzetközi szerződésben vállalt, vagy nemzetközi szervezetben viselt tagságból eredő segítségnyújtási vagy más kötelezettség teljesítése érdekében,
+- a) nemzetközi szerződésben vállalt, vagy nemzetközi szervezetben viselt tagságból eredő segítségnyújtási vagy más kötelezettség teljesítése érdekében, továbbá nemzetközi megállapodásban foglalt együttműködési feladatok megvalósítása és a nemzetközi kapcsolatok fejlesztése érdekében,
 - b) belföldi vagy külföldi katasztrófák és súlyos szerencsétlenségek megelőzése, következményeinek elhárítása vagy enyhítése érdekében,
 - c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése érdekében,
 - d) kormányhatározatban kapott felhatalmazás alapján a Kormány tagja által kötött nemzetközi megállapodásban foglalt együttműködési feladatok végrehajtása érdekében, amennyiben az érintett állami vagyon egyedi, könyv szerinti bruttó értéke a 25,0 millió forintot nem haladja meg.
@@ -735,9 +737,20 @@ lehet végezni.
 
 (9) A (2) bekezdés h) pontja szerinti mű vagy teljesítmény, különösen kép-, illetve hangfelvétel vonatkozásában az 1. § (2) bekezdés f) pontja szerinti képviselő részére vagy a választási eljárásról szóló 2013. évi XXXVI. törvény szerinti jelölő szervezete vagy pártja részére felhasználási szerződés útján ingyenes, korlátozás nélküli felhasználási engedély adható.
 
-(10) A Kormány nyilvános határozatával dönthet ajándékozás jogcímén állami tulajdonba került és állami feladatellátáshoz nem szükséges ingóság helyi önkormányzat, egyház, egyházi jogi személy, közalapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint civil szervezet javára ajándékként történő ingyenes átadásáról a feladataik ellátásának elősegítése érdekében, amennyiben az állam javára ajándékozó az ajándék továbbadását az ajándék adásakor nem korlátozta.
+(10) A Kormány nyilvános határozatával dönthet ajándékozás vagy ajándékról való lemondás jogcímén állami tulajdonba került és állami feladatellátáshoz nem szükséges ingóság helyi önkormányzat, egyház, egyházi jogi személy, közalapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint civil szervezet javára ajándékként történő ingyenes átadásáról a feladataik ellátásának elősegítése érdekében, amennyiben az állam javára ajándékozó az ajándék továbbadását az ajándék adásakor nem korlátozta.
 
-(11) A (10) bekezdés szerint átruházott állami tulajdonú ingóság tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdését.
+(11) A (2) bekezdés a) és b) pontja, valamint a (10), (12), (13) és (15) bekezdés szerint átruházott állami tulajdonú ingóság tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdését.
+
+(12) Állami vagyonba tartozó ingóság reprezentációs célból, protokolláris ajándékként (a továbbiakban: protokolláris ajándék) ingyenesen átruházható. A protokolláris ajándék tulajdonjogának ingyenes átruházására az átadás során az állam protokolláris képviseletében eljáró személy e törvény erejénél fogva jogosult.
+
+(13) A köztársasági elnök – ha az állam javára ajándékozó az ajándék továbbadását az ajándék adásakor nem korlátozta – nyilvános határozatával dönthet az ajándékozás vagy ajándékról való lemondás jogcímén állami tulajdonba és a Sándor-palota vagyonkezelésébe került ingóság:
+
+- a) helyi önkormányzat, egyház, egyházi jogi személy, közalapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint civil szervezet részére történő ingyenes tulajdonba adásáról vagy ingyenes használatba adásáról a feladataik ellátásának elősegítése érdekében vagy
+- b) nyilvános árverés útján történő értékesítéséről azzal, hogy a befolyt vételár feletti rendelkezésre a köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvény (a továbbiakban: KEtv.) 14/A. § (2)–(5) bekezdését, illetve ha az árverés útján történő értékesítésről szóló döntés és az árverés időpontja között a köztársasági elnök megbízatása megszűnik, a KEtv. 21. § (2)–(5) bekezdését kell alkalmazni.
+
+(14) A köztársasági elnök (13) bekezdés szerinti döntéseihez ellenjegyzés nem szükséges, a (13) bekezdés szerinti tulajdonba adásra, használatba adásra, valamint nyilvános árverés útján történő értékesítésre irányuló szerződést az állam nevében a Sándor-palota hivatali szervezetének vezetője köti meg.
+
+(15) Az MNV Zrt. állami tulajdonú ingatlanban lévő ingóság tulajdonjogát ingyenesen átruházhatja az ingatlan értékesítése során annak vevője részére, ha az érintett ingóság (több ingóság esetén együttes) nyilvántartási értéke nem éri el a 300 000 forintot.
 
 36/A. § A 36. § (2) és (5)–(8) bekezdése szerinti vagyonátadás kizárólag olyan kedvezményezett részére történhet, amely
 
@@ -1313,6 +1326,45 @@ lép.
 #### 69/F. §
 
 69/G. § A 2022. december 31. napjáig az átadási felületre feltöltött vagyonelemek tekintetében folyamatban lévő átadási eljárásokra az e törvénynek az egyes gazdasági tárgyú törvények, valamint egyes vagyongazdálkodást és postaügyet érintő törvények módosításáról szóló 2022. évi LXVIII. törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+
+69/H. § (1) A Maradványvagyon-hasznosító Zrt. (a továbbiakban: MVH) 2024. december 31. napjával jogutód nélkül megszűnik.
+
+(2) Az MVH-t a cégbíróság az MNV Zrt. kérelmére törli a cégjegyzékből.
+
+(3) Az MVH megszűnésével az MVH saját vagyona – ideértve a Nemzeti Eszközkezelő programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény 22/A. §-a alapján lebonyolítóként ellátott feladatok ellátásához kapcsolódó immateriális javakat és pénzeszközöket is –, továbbá az azzal kapcsolatos jogok, követelések és kötelezettségek a (4) bekezdésben foglalt kivételekkel e törvény erejénél fogva, a jogutód nélküli megszűnés államháztartási számviteli elszámolási szabályainak megfelelően, a 2024. december 31. napján érvényes könyv szerinti értéken az állam tulajdonába, az MNV Zrt. tulajdonosi joggyakorlásába kerülnek.
+
+(4) Az MVH megszűnésével az MVH szervezetének működéséhez szükséges, saját vagyonába tartozó számviteli törvény szerinti immateriális javak, tárgyi eszközök, készletek, továbbá az ezekkel kapcsolatos jogok, követelések és kötelezettségek, az MVH saját vagyonába tartozó – az e bekezdés szerint átkerülő kötelezettségek teljesítéséhez szükséges – pénzeszközök, valamint a személyi jellegű ráfordításokkal kapcsolatos követelések és kötelezettségek e törvény erejénél fogva ingyenesen, a 2024. december 31. napján érvényes könyv szerinti értéken az MNV Zrt. saját vagyonába kerülnek.
+
+(5) Az MVH megszűnésével az MVH tulajdonosi joggyakorlása alatt álló állami vagyonelemek és a rábízott vagyonába tartozó pénzeszközök, továbbá a (4) bekezdés hatálya alá nem tartozó jogok, követelések, kötelezettségek e törvény erejénél fogva, a 2024. december 31. napján érvényes nyilvántartási értéken az MNV Zrt. tulajdonosi joggyakorlása alá kerülnek, és az ezekkel összefüggő jogviszonyokban az MVH helyébe az MNV Zrt. lép.
+
+(6) Az MVH megszűnésével a (3) és (5) bekezdés szerinti vagyonelemekkel, valamint az azokhoz kapcsolódó jogokkal, követelésekkel és kötelezettségekkel kapcsolatos jogviszonyokban, továbbá peres és nemperes eljárásokban az MVH helyébe az állam törvényes képviselőjeként az MNV Zrt. lép. A (4) bekezdés szerinti vagyonelemekkel, valamint az azokhoz kapcsolódó jogokkal, követelésekkel és kötelezettségekkel kapcsolatos jogviszonyokban, továbbá peres és nemperes eljárásokban az MVH helyébe az MNV Zrt. lép.
+
+(7) Az MNV Zrt. e §-ra való hivatkozását tartalmazó egyoldalú nyilatkozatát tartalmazó kérelemmel gondoskodik a tulajdonos, valamint tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről.
+
+(8) A (3)–(5) bekezdés szerinti átadás-átvételről az MVH és az MNV Zrt. jegyzőkönyvet vesz fel, amelyben rögzítik, hogy az MVH vagyona, iratai, számviteli és adóbizonylatai, a bíróságokkal, hatóságokkal fennálló, valamint megszüntetett jogviszonyokra vonatkozó iratai átadásra kerültek, a munkáltató jogutód nélküli megszűnésével kapcsolatban a munkavállalókkal az elszámolások megtörténtek, továbbá az MVH nyilatkozik arról, hogy a saját vagyonában lévő pénzforgalmi számlái milyen feladatokhoz kapcsolódnak.
+
+(9) Az MVH vezető tisztségviselői a (8) bekezdés szerinti jegyzőkönyvben nyilatkoznak
+
+- a) az átadott vagyontárgyak és iratok teljességéről,
+- b) az MVH fennálló jogviszonyaira vonatkozó tájékoztatás teljességéről,
+- c) az MVH vagyonára vonatkozóan a közhiteles nyilvántartásokba való bejegyzéshez szükséges okiratok kiállításának megtörténtéről és azok átadásáról, valamint
+- d) az MVH részvételével működő szervezetekben az állam tagként történő bejegyzéséhez szükséges okiratok kiállításáról és azok átadásáról.
+
+(10) Az MVH vezető tisztségviselői korlátlanul és egyetemlegesen felelnek azért a kárért, amely abból keletkezik, hogy a vagyonátadással, az iratátadással és a jogszabályban meghatározott nyilatkozattétellel összefüggő kötelezettségeiket nem vagy nem teljeskörűen teljesítették, vagy valótlan tartalmú nyilatkozatot tettek.
+
+(11) Az MNV Zrt. elkészíti az MVH saját vagyonára vonatkozó 2024. évi éves számviteli beszámolóját és adóbevallásait, és intézkedik a legfőbb szerv által jóváhagyott beszámolónak az MVH állandó könyvvizsgálója által kiadott független könyvvizsgálói jelentéssel együtt történő letétbe helyezése és közzététele érdekében. A feladatok ellátása során az MNV Zrt. igénybe veheti az állam 100%-os tulajdonában álló gazdasági társaság közreműködését. A mérlegkészítés időpontja 2025. február 28. napja.
+
+(12) Az MVH mérlegében szereplő (3) bekezdés szerinti eszközök az MNV Zrt. általi átvétel során az MVH könyveiben szereplő 2024. december 31. napján érvényes könyv szerinti értéken, eredményágon – pénzügyi műveletek eredményszemléletű bevételei, továbbá pénzügyi műveletek ráfordításai terhére – kerülnek elszámolásra az MNV Zrt. tulajdonosi joggyakorlói könyvében.
+
+(13) Az MVH mérlegében szereplő (4) bekezdés szerinti eszközök az MNV Zrt. általi átvétel során a számvitelről szóló 2000. évi C. törvény 36. § (1) bekezdés f) pontja alapján, az MVH könyveiben szereplő 2024. december 31. napján érvényes könyv szerinti értéken, a tőketartalék javára kerülnek elszámolásra.
+
+(14) Az MNV Zrt. az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 33. § (3) bekezdése szerinti határidőben elkészíti az MVH rábízott vagyona tekintetében a 2024. évre vonatkozó éves költségvetési beszámolóját, és intézkedik a legfőbb szerv által jóváhagyott beszámoló, valamint az MVH állandó könyvvizsgálója által kiadott független könyvvizsgálói jelentés közzététele érdekében. A mérlegkészítés időpontja 2025. február 28. napja.
+
+(15) Az Áht. 100. § (2) bekezdése szerinti, 2024. december 31. napján az MVH kezelése és érvényesítése alatt álló fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében átvett vagyonelemek – ideértve a vagyontárgyanként átvett követeléseket is – az MVH megszűnésével az MNV Zrt. kezelésébe és érvényesítése alá kerülnek.
+
+(16) A (15) bekezdés szerint átvett vagyontárgyak tekintetében a (6) és (7) bekezdésben foglaltakat kell alkalmazni.
+
+(17) A (3) és (4) bekezdés szerinti vagyonátadások az általános forgalmi adó szempontjából az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (3) bekezdés h) pontjában foglalt átalakítással esnek egy tekintet alá.
 
 70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek minősülnek.
 
