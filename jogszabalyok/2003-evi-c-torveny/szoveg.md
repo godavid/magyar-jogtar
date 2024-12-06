@@ -3179,7 +3179,10 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
 (13) Amennyiben valamely értéknövelt szolgáltatás nyújtásához a forgalmi adatokon kívüli helymeghatározási adatok szükségesek, a szolgáltató köteles a felhasználót, és előfizetőt tájékoztatni ezen adatok típusáról, az adatfeldolgozás céljáról, időtartamáról, továbbá arról, hogy az adatokat szükséges-e harmadik fél számára továbbítani.
 
-(14) A felhasználóval, előfizetővel kapcsolatos forgalmi adatokon kívüli helymeghatározási adatokat – a 158. §-ban foglalt adatfeldolgozás kivételével – az elektronikus hírközlési szolgáltató kizárólag a felhasználó vagy az előfizető hozzájárulása esetén dolgozhatja fel és csak olyan mértékben és időtartamig, amely szükséges az értéknövelt szolgáltatás nyújtásához.
+(14) A felhasználóval, előfizetővel kapcsolatos forgalmi adatokon kívüli helymeghatározási adatokat – a 158. §-ban foglalt adatfeldolgozás kivételével – az elektronikus hírközlési szolgáltató kizárólag az értéknövelt szolgáltatás nyújtásához szükséges mértékben és időtartamig kezelheti, ha
+
+- a) az adatok anonimizálásra kerültek, vagy
+- b) a felhasználók, vagy az előfizetők az adatkezeléshez hozzájárultak.
 
 (15) A felhasználó, és az előfizető a (14) bekezdésben foglalt hozzájárulását bármikor visszavonhatja.
 
@@ -3190,6 +3193,8 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 (17) Az elektronikus hírközlési szolgáltató az ismeretlen helyen tartózkodó személy hollétének megállapítása – ennek keretében kapcsolatrendszerének, feltételezhető tartózkodási helyének megismerése – céljából a körözési eljárást lefolytató szerv megkeresésére köteles megállapítani és részére továbbítani a felhasználóval és az előfizetővel kapcsolatos hívásforgalmi, helymeghatározási és előfizetői adatokat.
 
 (18) Az elektronikus hírközlési szolgáltató a (16)–(17) bekezdés szerinti helymeghatározási adatok szolgáltatását a hálózatában, a Nemzetbiztonsági Szakszolgálat által meghatározott követelményrendszer szerint rendelkezésre álló helymeghatározási adatoknak a Nemzetbiztonsági Szakszolgálat által előírt technikai szempontok szerinti továbbításával köteles teljesíteni.
+
+(19) A (14) bekezdés szerint kezelt adatokat az elektronikus hírközlési szolgáltató a Központi Statisztikai Hivatal részére annak kérésére és a statisztikai cél előzetes igazolása alapján, statisztikai célra átadja, és ezen adatok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átadásra kerülő adatok körét és az adatátvétel részletszabályait együttműködési megállapodásban kell rögzíteni.
 
 ### Forgalmi és számlázási adatok
 

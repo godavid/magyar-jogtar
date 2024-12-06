@@ -14,7 +14,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, a kulturális és 
 
 (3) A Veszprémi Főegyházmegye tulajdonában lévő és a veszprémi vár területén található ingatlanokon megvalósuló felújítások és fejlesztések építtetője és megvalósítója, valamint az ingatlanok felújításával és fejlesztésével összefüggő feladatok irányítója és lebonyolítója a Veszprémi Főegyházmegye mint egyházi jogi személy.
 
-(4) A (3) bekezdés szerinti felújítások és fejlesztések megvalósításával érintett ingatlanok: Veszprém belterület 223, 224, 225, 226, 227, 228, 230, 231, 233, 234, 290, 291, 292, 293, 294, 295, 296, 297 helyrajzi számú ingatlanok, illetve ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanok.
+(4) A (3) bekezdés szerinti felújítások és fejlesztések megvalósításával érintett ingatlanok: Veszprém belterület 211, 219/A/1, 219/A/2, 223, 225, 226, 227, 228, 230, 231, 233, 234, 242, 290, 291, 292, 293, 294, 295, 296, 297, 700 helyrajzi számú ingatlanok, illetve ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanok.
 
 3. § A Beruházás megvalósítása, a Programsorozat megszervezése és lebonyolítása kiemelkedően fontos közérdek, amely érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekintendők, teljesítésükhöz kiemelkedően fontos közérdek fűződik.
 

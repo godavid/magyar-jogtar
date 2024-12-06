@@ -239,7 +239,7 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 9/H. § (1) A szálláshely-szolgáltató – az érintett és mások jogainak, biztonságának és tulajdonának védelme érdekében, továbbá harmadik országbeli állampolgárok és a szabad mozgás és tartózkodás jogával rendelkező személyek tartózkodására vonatkozó rendelkezések betartásának ellenőrzése céljából – a bejelentkezéskor a szálláshelykezelő szoftver útján a Kormány rendeletében kijelölt tárhelyszolgáltató által biztosított tárhelyen rögzíti
 
-- a) a szálláshely-szolgáltatást igénybe vevő családi és utónevét, születési családi és utónevét, születési helyét és idejét, nemét, állampolgárságát valamint anyja születési családi és utónevét,
+- a) a szálláshely-szolgáltatást igénybe vevő családi és utónevét, születési családi és utónevét, születési helyét és idejét, nemét, állampolgárságát, valamint anyja születési családi és utónevét,
 - b) a szálláshely-szolgáltatást igénybe vevő személyazonosításra alkalmas okmányának, illetve útiokmányának azonosító adatait, harmadik országbeli állampolgár esetében a vízum vagy tartózkodási engedély számát, a beutazás időpontját és helyét, valamint
 - c) a szálláshely-szolgáltatás címét, a szálláshely igénybevételének kezdő és várható, valamint tényleges befejező időpontját.
 
@@ -308,7 +308,7 @@ rendeletben határozza meg.
 
 (7) Az (5) bekezdés szerinti csatlakozás elmulasztása esetén a kereskedelmi hatóság 2021. szeptember 1. napját követően a kereskedelemről szóló 2005. évi CLXIV. törvény 6/D. §-a szerinti jogkövetkezményeket alkalmaz.
 
-12/A. § (1) A vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni.
+12/A. § (1) Azon vendéglátó üzlet esetében, amely a működését 2025. január 1. napja előtt kezdte meg, a vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2025. március 31. napjáig köteles befejezni.
 
 (1a) A vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő adatok szolgáltatására és továbbítására
 
@@ -317,7 +317,7 @@ rendeletben határozza meg.
 
 (2) A 9/C. § (1) bekezdésében foglalt regisztrációs kötelezettséget a vendéglátó üzlet üzemeltetője vonatkozásában a vendéglátó üzlet üzemeltetői tevékenységet 2021. november 1. napján már ellátókra, illetve azt követően megkezdő szolgáltatókra kell alkalmazni.
 
-12/B. § (1) A turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni.
+12/B. § (1) Azon turisztikai attrakció esetében, amely a működését 2025. január 1. napja előtt kezdte meg, a turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2025. március 31. napjáig köteles befejezni.
 
 (1a) A turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő adatok szolgáltatására és továbbítására
 

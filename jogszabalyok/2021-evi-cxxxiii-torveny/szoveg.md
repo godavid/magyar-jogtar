@@ -70,6 +70,14 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 (7) A (3) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő végleges bejegyzését követően a Dunamelléki Református Egyházkerület kérelmére az erdészeti hatóságként eljáró Pest Megyei Kormányhivatal a Budapest XII. kerület belterület 9240/10 helyrajzi számú ingatlannak az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény szerint erdőnek minősülő területét az Országos Erdőállomány Adattárba tanerdő rendeltetéssel nyilvántartásba veszi. A kérelemben kizárólag e törvénynek az Országos Erdőállomány Adattárba tanerdő rendeltetéssel való nyilvántartásba vételt, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az erdészeti hatóság ügyintézési határideje 15 nap.
 
+5/A. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő, az ingatlan-nyilvántartás szerint Gyöngyös belterület 2140 helyrajzi szám alatt nyilvántartott, természetben a 3200 Gyöngyös, Zrínyi Miklós utca 3. szám alatt található ingatlan (e § alkalmazásában a továbbiakban: Ingatlan) ingyenesen – köznevelési, oktatási és hitéleti feladatok elősegítése céljából – az Egri Főegyházmegye tulajdonába kerül.
+
+(2) Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az átvevő egyházi jogi személy az Ingatlant terhelő kötelezettségeket a (3) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
+
+(3) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg. A szerződésben az Ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+
+(4) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
 #### 6. A Steindl Imre Program keretében megvalósuló beruházásokra vonatkozó szabályok
 
 6. § (1) Az Országgyűlés Hivatala vagy a beruházásokra a Kormány döntésével megbízott állami projektcég (a továbbiakban együtt: Építtető) által a kiemelt nemzeti emlékhely területén és a településkép-védelmi környezetében megvalósított beruházások (a továbbiakban: Beruházások) során létrehozott közmű- és közterületi infrastruktúra elemei a műszaki átadás-átvételi eljárás eredményes lezárását követően ingyenesen, a közmű, illetve a közterület tulajdonosa tulajdonába adhatóak.

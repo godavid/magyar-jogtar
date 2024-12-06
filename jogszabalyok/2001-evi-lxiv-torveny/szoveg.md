@@ -851,6 +851,8 @@ kulturális javakat.
 
 kötelezheti.
 
+(2a) Amennyiben a (2) bekezdés szerinti hatósági kötelezés állami tulajdonban álló védett kulturális örökségi elemre vonatkozik, a tulajdonosi joggyakorlót kizárólag abban az esetben hívja fel a hatóság a kötelezettség teljesítésére, ha az érintett vagyonelem a tulajdonosi joggyakorló közvetlen kezelésében és használatában áll.
+
 (3) Amennyiben a kötelezett az (1) bekezdés a) és b) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget és ezzel a védett kulturális örökség veszélybe kerül, a hatóság örökségvédelmi bírság kiszabásáról intézkedik és
 
 - a) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet;

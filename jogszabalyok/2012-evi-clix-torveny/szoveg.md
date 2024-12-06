@@ -44,7 +44,7 @@ A postai szolgáltatások fejlődése és liberalizációja, az Európai Unió j
 - 19. időgarantált szolgáltatás: a postai szolgáltató kötelezettségvállalása, amellyel a postai küldemény meghatározott időtartamon belüli vagy meghatározott időpontban történő kézbesítésére vállal kötelezettséget;
 - 20. kézbesítés: azon tevékenység, amely során a postai küldemény a postai szolgáltató hálózatából, illetve személyes felügyelet alól az átvételre jogosult személy részére történő átadással vagy levélszekrénybe, továbbá egyéb, a küldemény kézbesítésére alkalmas eszközbe történő elhelyezéssel kikerül;
 - 21. kézbesítési pont: a postai küldemény kézbesítése céljából a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiség vagy hely, továbbá a postai szolgáltató által létesített, a kézbesítést lehetővé tevő eszköz;
-- 21a. kézbesítést lehetővé tevő automatizált eszköz: olyan, a postai szolgáltató vagy a 4. § b) pontja szerinti saját kézbesítést ellátó szervezet fizikai jelenléte nélkül üzemelő eszköz, amely megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozóan megállapított feltételeknek és követelményeknek, és ezzel lehetővé teszi a személyes átadással kézbesítendő postai küldemény kézbesítését vagy a küldemény 4. § b) pontja szerinti saját kézbesítését.
+- 21a. kézbesítést lehetővé tevő automatizált eszköz: olyan, a postai szolgáltató vagy a 4. § b) pontja szerinti saját kézbesítést ellátó szervezet fizikai jelenléte nélkül üzemelő eszköz, amely megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére és üzemeltetésére vonatkozóan megállapított előírásoknak, és ezzel lehetővé teszi a személyes átadással kézbesítendő postai küldemény kézbesítését vagy a küldemény 4. § b) pontja szerinti saját kézbesítését.
 - 22. könyvelt küldemény: olyan postai küldemény, amelynek a postai szolgáltató a felvételét – írásban vagy más bizonyítható módon –, valamint a jogosult átvevő részére történő kézbesítését – az erre szolgáló okiraton, vagy a kézbesítés tényét rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával – a feladó irányában elismeri;
 - 23. küldeményenkénti díjszabás: olyan – a postai szolgáltató általános szerződési feltételeiben vagy ahhoz csatoltan közzétett – árlista, amely egy postai küldeménynek vagy az egy időben feladott több postai küldeménynek a feladott küldeménymennyiségtől függetlenül azonos darabonkénti díjait tartalmazza;
 - 24. levélküldemény: az a postai küldemény, amely írásos formában megjelenített, vagy fizikai adathordozón rögzített egyedi vagy személyes jellegű közlést, adatot vagy információt tartalmaz;
@@ -70,7 +70,7 @@ A postai szolgáltatások fejlődése és liberalizációja, az Európai Unió j
 - 35. postai küldemény: az a legfeljebb 40 kg tömegű küldemény, mely a küldeményen, annak csomagolásán vagy az ahhoz tartozó listán legalább címmel el van látva, vagy az a küldemény, amelyet jogszabály postai küldeménynek minősít; ilyen postai küldemény lehet a levélküldemény, a hivatalos irat, a vakok írását tartalmazó küldemény, a postacsomag, valamint a könyvet, katalógust és sajtóterméket tartalmazó küldemény, továbbá minden olyan küldemény, amelynek tartalma e törvény felhatalmazása alapján kiadott kormányrendelet szerint a postai szolgáltatásból nem kizárt;
 - 36. postai szolgáltató: postai szolgáltatást nyújtó gazdálkodó szervezet;
 - 37. postai szolgáltatóhely: a postai szolgáltatások elérését meghatározott földrajzi ponton és időben biztosító felvételi vagy kézbesítési pont, ide nem értve a postai szolgáltató által elhelyezett levélgyűjtő szekrényt vagy más, a postai küldemény sérülésmentes és biztonságos felvételére vagy kézbesítésére szolgáló eszközt;
-- 37a. rögzített ajánlott levélküldemény: az a könyvelt levélküldemény, amelyhez az ajánlott szolgáltatáson túl egyéb többletszolgáltatás nem vehető igénybe;
+- 37a. rögzített ajánlott levélküldemény: az a könyvelt levélküldemény, amelyhez a postai küldemény feladója az ajánlott szolgáltatáson túl egyéb többletszolgáltatást nem vesz igénybe;
 - 38. szállítás: a postai küldemények feldolgozási, szolgáltatói hozzáférési vagy kézbesítési pontok közötti továbbításának művelete;
 - 39. szolgáltatói hozzáférési pont: postai küldemények hálózati átvételére az átvevő postai szolgáltató által erre a célra kijelölt hely;
 - 39a. szoros kapcsolat: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
@@ -352,7 +352,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 (2) Az egyetemes postai szolgáltatás keretében, küldeményenkénti díjszabás szerint feladott, azonos tömegkategóriába tartozó és azonos fajtájú belföldi küldemények díját úgy kell megállapítani, hogy azok az egész ország területén azonosak legyenek függetlenül a feladás és a kézbesítés helyétől.
 
-(3) A küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokkal kapcsolatos belföldi szolgáltatás díjának meghatározási módszerét a miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
+(3)
 
 #### 12. Az egyetemes postai szolgáltató kijelölése
 
@@ -508,9 +508,30 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 (3) Az egyetemes postai szolgáltató jogosult különleges jogrendben az intézkedési terv alapján általa tett intézkedések, illetve a honvédelmi, a védelmi és biztonsági érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott postai szolgáltatások tényleges költségeinek a megtéríttetésére.
 
-(4) Az egyetemes postai szolgáltató jogosult a sérelmére történő bűncselekmények elkövetésének megelőzése, illetve a bűncselekmény elkövetőjének felderítése érdekében sérülést vagy egészségkárosodást nem okozó technikai eszközt vagy csapdát alkalmazni.
+(4) Az egyetemes postai szolgáltató jogosult a sérelmére történő, továbbá a közfeladatot ellátó alkalmazottjai élete, személye, testi épsége, valamint a rájuk bízott értékek és vagyontárgyak elleni bűncselekmények, egyéb jogellenes cselekmények elkövetésének megelőzése, megszakítása, vagy a bűncselekmények vagy egyéb jogellenes cselekmények elkövetőjének, körülményeinek felderítése érdekében
+
+- a) sérülést vagy egészségkárosodást nem okozó technikai eszközt vagy csapdát alkalmazni;
+- b) kockázatelemzés alapján a kézbesítési pontnak nem minősülő címhelyen való kézbesítéssel vagy szolgáltatás teljesítésével összefüggésben elektronikus biztonságtechnikai rendszeren keresztül működtetett emberi testre vagy ruházatra, ruházati kiegészítőre felszerelt testkamerát alkalmazva képfelvételt, hangfelvételt, vagy kép- és hangfelvételt készíteni.
 
 (5) Az egyetemes postai szolgáltató postai szolgáltatást vagy biztonsági szolgálatot ellátó alkalmazottja a feladata ellátása során kizárólag olyan gázsprayt tarthat magánál, amelyet az egyetemes postai szolgáltató biztosít számára. Az egyetemes postai szolgáltató által biztosított gázspray kizárólag jogos védelmi helyzetben, illetve végszükség esetén alkalmazható.
+
+(6) Az egyetemes postai szolgáltató biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét fenyegetettség, jogellenes cselekmény észlelése esetén.
+
+(7) Az egyetemes postai szolgáltató a testkamera alkalmazásáról az annak látóterében megjelenő személyek számára jól látható módon figyelemfelhívó jelzést helyez el, továbbá a honlapján – a vakok és gyengénlátók tájékoztatására alkalmas módon, valamint a magyar nyelvet nem ismerők számára legalább angol nyelven – a személyes adatok kezeléséről tájékoztatást nyújt.
+
+(8) Az egyetemes postai szolgáltató – jogszabály vagy az Európai Unió kötelező jogi aktusának eltérő rendelkezése hiányában – a testkamerával készített felvételt a rögzítéstől számított 14. napon törli.
+
+(9) Akinek jogát vagy jogos érdekét a testkamarával rögzített felvétel érinti, jogának vagy jogos érdekének igazolásával, aki a felvételen maga is szerepel (a továbbiakban: érintett), jogának vagy jogos érdekének igazolása nélkül is kérheti, hogy a felvételt az egyetemes postai szolgáltató a (8) bekezdésben meghatározottak szerint ne törölje. Ez a jog nem érinti a személyes adatok védelmére vonatkozó, az Európai Unió jogi aktusa, illetve a nemzeti jog alapján az érintett által gyakorolható egyéb jogokat.
+
+(10) Bíróság vagy hatóság erre irányuló, az adatkérésre irányadó jogszabályokban meghatározott feltételeknek megfelelő, a kért felvétel, felvételrész azonosítását lehetővé tevő, az átadás célját, és annak szükségességét alátámasztó megkeresése esetén az egyetemes postai szolgáltató a felvételt a megkereső részére – az általa megállapított határidőn belül – továbbítja.
+
+(11) A (9) bekezdés szerint benyújtott kérelmet követően a felvétel mindaddig nem törölhető, amíg bírósági vagy hatósági megkeresés nem érkezik az egyetemes postai szolgáltatóhoz vagy az érintett által a (9) bekezdés szerint előterjesztett kérelemben esetlegesen megjelölt indok miatt annak további kezelésére szükség van, de legfeljebb a kérelem beérkezését követő hat hónapig.
+
+(12) Amennyiben bíróság vagy hatóság erre irányuló megkeresése alapján a felvétel továbbítására kerül sor, az egyetemes postai szolgáltató a felvételt a bíróság vagy hatóság részére történő továbbítást követő 90. napon törli, kivéve, ha a (4) bekezdésben meghatározott célra irányuló belső vizsgálat lefolytatása miatt, vagy az érintett által a (9) bekezdés szerint előterjesztett kérelemben esetlegesen megjelölt indok miatt a felvétel további kezelése szükséges.
+
+(13) Amennyiben nem kerül sor belső vizsgálat alapján bírósági vagy hatósági eljárás kezdeményezésére, a felvételt a vizsgálat lezárását követő 14. napon törölni kell.
+
+(14) Ha bírósági vagy hatósági eljárás kezdeményezésére sor kerül, akkor az egyetemes postai szolgáltató a felvételt a bírósági vagy hatósági eljárást lezáró határozat jogerőre emelkedéséről vagy véglegessé válásáról szóló bírósági, hatósági tájékoztatás kézhezvételét követő 14. napon törli.
 
 #### 20. Egyetemes postai szolgáltató közreműködése közszolgáltatásokban
 
@@ -760,7 +781,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 48. § (1) A nem időgarantált postai küldemény késedelmes kézbesítéséért a postai szolgáltató kártérítési felelősséggel nem tartozik.
 
-(2) Az időgarantált postai küldemény késedelmes kézbesítéséért vagy a kézbesítés késedelmes megkísérléséért a postai szolgáltató kártérítési átalányt köteles fizetni. A kártérítési átalány összege az időgarantált postai szolgáltatásért fizetett díj kétszerese.
+(2) Az időgarantált postai küldemény késedelmes kézbesítéséért vagy a kézbesítés késedelmes megkísérléséért a postai szolgáltató kártérítési átalányt köteles fizetni. A kártérítési átalány összege az időgarantált postai szolgáltatásért, vagy amennyiben a feladó azt többletszolgáltatásként veszi igénybe a többletszolgáltatásért fizetett külön díj kétszerese.
 
 (3) Nem terheli a postai szolgáltatót kártérítési felelősség az időgarantált postai küldemény késedelmes kézbesítéséért, ha
 
@@ -772,7 +793,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 49. § (1) Amennyiben a postai szolgáltatási szerződés teljesítése során a postai szolgáltató kártérítési felelőssége több jogcímen is felmerül, a postai szolgáltató által kártérítésként megfizetendő összeg a 46. §-ban, a 47. §-ban vagy a 48. §-ban meghatározott kártérítési átalány közül a legnagyobb összege erejéig terjedhet.
 
-(2) Az utánküldés-szolgáltatás nem vagy nem szerződésszerű teljesítése esetén fizetendő kártérítési átalány a szolgáltatás díjának kétszerese. Ha a díj időtartam-alapú, a kártérítési átalány alapját a legrövidebb fizethető időtartamra vonatkozó díj képezi.
+(2) Az utánküldés-szolgáltatás nem vagy nem szerződésszerű teljesítése esetén fizetendő kártérítési átalány a szolgáltatás díjának kétszerese. Ha a díj időtartam-alapú, a kártérítési átalány alapját a legrövidebb fizethető időtartamra vonatkozó díj képezi azzal, hogy nem vagy nem szerződésszerű teljesítés esetén a kártérítési átalányt az annak alapját képező időtartamon belül egy alkalommal kell megfizetni, függetlenül a nem vagy nem szerződésszerű teljesítésben érintett postai küldemények számától.
 
 #### 30. A kártérítési igény érvényesítése
 
@@ -957,7 +978,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - h) a statisztikáról szóló törvényben meghatározottak szerint gondoskodik a feladat- és hatáskörével kapcsolatos statisztikai információrendszer kialakításáról, működtetéséről és fejlesztéséről;
 - i) koncepciókat és programokat dolgoz ki a postai tevékenységek, szolgáltatások fejlesztésére, a kidolgozott koncepciók alapján hozzájárul ezek megvalósításának feltételeihez;
 - j) gondoskodik a postai szolgáltatások színvonalának javításáról a szabványosítás, valamint a kutatási, fejlesztési tevékenység támogatásával;
-- k) az ügykörben érintett miniszterrel egyetértésben meghatározza az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét;
+- k)
 - l) megállapítja a méltánytalan többletteher összegét és annak az egyetemes postai szolgáltató számára megtérítésre kerülő mértékét.
 
 #### 40. A Hatóság postai feladatai
@@ -1201,7 +1222,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - a) a postai szolgáltatások nyújtásának és igénybevételének részletes szabályait, valamint az egyetemes postai szolgáltató igénybevételi lehetőségének biztosítására vonatkozó követelményeket, és az ennek megsértése esetén eljáró hatóságot.
 - b) a hivatalos iratokkal kapcsolatos szolgáltatás részletes szabályait;
 - c) a postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemeit, a postai szolgáltatásból kizárt, vagy feltételesen szállítható küldemények körét;
-- d) a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozó feltételeket és követelményeket.
+- d) a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására, tervezésére, műszaki leírására, telepítésére és üzemeltetésére vonatkozó előírásokat, a kézbesítést lehetővé tevő automatizált eszközök hatósági nyilvántartását vezető szervezetet, valamint a kézbesítést lehetővé tevő automatizált eszköz üzembe helyezésével kapcsolatos hatósági nyilvántartásba vétel és a nyilvántartást vezető hatóság eljárásának;
 - e) a postai szolgáltatások különleges jogrend időszaki, valamint az összehangolt védelmi tevékenységre való felkészítésének rendszerét, feladatait, működési feltételeit;
 - f) a postai szolgáltatót, alkalmazottját, tagját, megbízottját és a postai közreműködőt terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket;
 - g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait;
@@ -1219,7 +1240,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (3) Felhatalmazást kap a miniszter, hogy – az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg
 
-- a) az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét,
+- a)
 - b) a 26. § (5) bekezdésében meghatározott követelményeket.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben állapítsa meg:

@@ -34,7 +34,13 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 ### Bejelentési kötelezettség
 
-3–6. §
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
 
 ### Hatósági ármegállapítás
 
@@ -96,7 +102,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 (4)
 
-18. §
+#### 18. §
 
 ### Vegyes rendelkezések
 
@@ -104,7 +110,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 19/A. § A gyógyszerpiac átmeneti zavarainak elhárítása, kiküszöbölése vagy a gyógyszerpiac egyensúlyának fenntartása érdekében tehető intézkedésekről külön törvény rendelkezik.
 
-20. §
+#### 20. §
 
 21. § Az e törvényben foglaltak nem érintik a külön jogszabályok szerinti polgári jogi igény érvényesítésének, illetőleg szabálysértési vagy büntetőeljárás megindításának lehetőségét.
 
@@ -130,16 +136,15 @@ I. Legmagasabb ár
 
 A) Termékek
 
-| Termékszám (ITJ)(BTO) | Megnevezés | A hatósági ár megállapítója |
+| Termékszám(ITJ)(BTO) | Megnevezés | A hatósági ár megállapítója |
 | --- | --- | --- |
 | 11−3 | Földgáz ára | gazdasági és közlekedési miniszter |
 | 14−1 | Villamosenergia ára | gazdasági miniszter |
 
 B) Szolgáltatások
 
-| Termékek és Szolgáltatások Osztályozási Rendszere (TESZOR kód) | Megnevezés | A hatósági ár megállapítója |
-| --- | --- | --- |
-|  |  |  |
-| 46.18.11-ből, 46.46.11, 47.00.74 | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |
-|  |  |  |
-| Termékszám (BTO) | Megnevezés | A hatósági ár megállapítója |
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 | Termékek és Szolgáltatások Osztályozási Rendszere(TESZOR kód) | Megnevezés | A hatósági ár megállapítója |
+| 2 | 46.18.11 (ebből: a gyógyszer ügynöki nagykereskedelme), 46.46.11 (ebből: gyógyszer nagykereskedelem), 47.00.74 | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |
+| 3 | az 56.10 kódból | a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 4. mellékletében meghatározott vendéglátóhely üzlettípusokban felszámított felszolgálási díj | vendéglátásért felelős miniszter |
