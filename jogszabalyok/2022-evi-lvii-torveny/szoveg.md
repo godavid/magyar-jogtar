@@ -29,7 +29,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 - c) az ingatlan rendeltetésszerű működtetése;
 - d) a más törvény hatálya alá nem tartozó építési, felújítási, átalakítási, bővítési, helyreállítási, korszerűsítési, fejlesztési, bontási tevékenység;
 - e) a gyógyfürdőnek minősülő sportingatlanban járóbeteg-gyógyító szakellátás, valamint terápiás célú gyógyfürdő- és kapcsolódó szolgáltatás nyújtása;
-- f) a sport és testnevelés területén történő múzeumi tevékenység végzése és a magyar sport országos szakmúzeumának fenntartása és
+- f) a sport és testnevelés területén történő kiállítási, kulturális, múzeumi tevékenység végzése, valamint a magyar sport országos szakmúzeumának fenntartása, valamint
 - g) törvény eltérő rendelkezése hiányában, a Kormány egyedi határozatában történő kijelölés esetén egyes beruházások előkészítői-építtetői feladatainak elvégzése.
 
 (2) Az Ügynökség az (1) bekezdésben meghatározott közfeladatok megvalósítását a sportingatlanok és a 2022. december 31-én a Nemzeti Sportközpontok (a továbbiakban: NSK) mint országos szakmúzeum fenntartójának vagyonkezelésében lévő, a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 1. § (2) bekezdés g) pontja szerinti ingóságok tekintetében, a 4. § szerinti tulajdonosi joggyakorlóként látja el.
@@ -56,7 +56,11 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 
 (2) E törvény erejénél fogva az Ügynökség tulajdonosi joggyakorlása alá kerül az 1. § (1) bekezdés c) pontja szerinti sportingatlan, az Inytv. szerinti önálló ingatlanok esetén azok tartozékaival, alkotórészeivel és az azokon található, állami tulajdonú ingó vagyonelemekkel együtt.
 
-(3) Az Ügynökség a tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására nem jogosult. Az e bekezdés szerinti tevékenységek végzésére a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) jogosult. Az Ügynökség tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlan e bekezdés szerint történő megterhelésére annak hatékony működtetése, állagának védelme, értékének megőrzése, valamint az állami feladatok ellátásának elősegítése érdekében az MNV Zrt. meghatalmazást adhat az Ügynökség részére.
+(2a) Az Ügynökség közfeladatainak megvalósítása során – mint az állami tulajdonba kerülő vagyonelemek leendő tulajdonosi joggyakorlója – tulajdonjog megszerzésére irányuló szerződést köthet. Az Ügynökség jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására a sportingatlanon annak az Ügynökség tulajdonosi joggyakorlása alá kerülését követően megvalósult beszerzés vagy beruházás megvalósításával összefüggésben létrejött, vagy – bármely jogcímen – az állam javára megszerzett ingó vagyonelemek és immateriális javak tekintetében is.
+
+(2b) Az Ügynökség tulajdonosi joggyakorlása e törvény erejénél fogva változatlan feltételekkel kiterjed mindazon vagyonelemre, amely a tulajdonosi joggyakorlásában álló vagyonból bármely módon – így különösen kitermelés, bontás, megosztás útján – újonnan jön létre, feltéve hogy az újonnan létrejövő vagyonelem és a tulajdonosi joggyakorlásában álló vagyonelem tulajdonosa megegyezik.
+
+(3) Az Ügynökség a tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására nem jogosult.
 
 (4) Az állam kizárólagos tulajdonában álló és az Ügynökség tulajdonosi joggyakorlása alá tartozó ingatlanon a tulajdonosi joggyakorlás időtartama alatt a más törvény szerinti állami építési beruházás értékhatárát el nem érő beruházás következtében létrejött új felépítmény e törvény erejénél fogva az állam kizárólagos tulajdonába és az Ügynökség tulajdonosi joggyakorlása alá kerül.
 
@@ -71,6 +75,8 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 (3) Az Ügynökség az állam nevében vállalt kötelezettségeiből eredő, valamint a működéséhez és tevékenységéhez kapcsolódó kifizetéseit, továbbá az állam javára és nevében beszedett költségvetési bevételeket kizárólag az e célra létrehozott központi kezelésű előirányzatokon számolja el a (4) bekezdés szerint.
 
 (4) A központi költségvetésről szóló törvény az NSÜ Zrt. feletti tulajdonosi joggyakorló szerv költségvetési fejezetében elkülönítetten tartalmazza az Ügynökség állam javára és nevében végzett feladatainak költségvetési bevételeit és költségvetési kiadásait.
+
+(4a) Az Ügynökség mint kedvezményezett számára biztosított európai uniós forrásból származó költségvetési támogatásokat a (4) bekezdés szerinti központi kezelésű előirányzatokon kell elszámolni. A bevételi előirányzatok javára elszámolandó európai uniós forrásból származó költségvetési bevételek összegével a (4) bekezdés szerinti fejezetet irányító szerv az Ügynökség (3) bekezdés szerinti, közfeladat ellátását szolgáló kiadási előirányzatait megemelheti.
 
 (5) A (4) bekezdés szerinti fejezet irányító szerve az e törvényben meghatározott feladatok ellátása érdekében a költségvetési évben a fejezet (4) bekezdés szerinti részének címrendjét kiegészítheti az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
@@ -115,6 +121,8 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 (7) A Feladatokhoz kapcsolódó jogviszonyok, valamint mindezekhez kapcsolódó valamennyi jog és kötelezettség tekintetében 2023. január 1-jétől az NSÜ Zrt. a korábbi vagyonkezelő és a korábbi tulajdonos jogutódja, amelyhez harmadik fél hozzájárulása nem szükséges. Ezzel egyidejűleg a jogutódlásról a jogviszonyokban részes feleket értesíteni kell.
 
 (8) Az Ügynökség jogelőd szervezeteinek megszűnése miatt az e szervezetek által – a megszűnésükre vonatkozó jogszabályi rendelkezések szerint – átutalt, költségvetési bevételként elszámolandó pénzeszközöket kizárólag a 2. § (1) bekezdésében foglalt közfeladatok ellátására kell felhasználni. A jogelőd szervezetek megszűnéséből származó költségvetési bevételeket 2023. évben az 5. § (3) bekezdése szerinti előirányzatokon kell elszámolni azzal, hogy e bevételek e törvény erejénél fogva az 5. § (7) bekezdése szerinti többletbevételnek minősülnek.
+
+(9) Az Ügynökség nem köteles helytállni az Ügynökség közfeladataihoz kapcsolódó és jogelőd szervezetei által létesített támogatási jogviszonyok lezárása következtében keletkezett kötelezettségekért.
 
 8. § A Feladatok átadás-átvétele kiterjed különösen
 
@@ -210,11 +218,11 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 23 | Vác | 2433 | belterület | 1/1 | Váci Kajak-kenu ház II. |
 | 24 | Balatonlelle | 3149/1 | belterület | 1/1 | Balatonlellei sportüdülő I. |
 | 25 | Balatonlelle | 3149/2 | belterület | 1/1 | Balatonlellei sportüdülő II. |
-| 26 | Balatonboglár | 1262/17 | belterület | 206350779/26803366 | Nemzeti Kézilabda Akadémia Kézilabda Csarnok |
+| 26 | Balatonboglár | 1262/17 | belterület | 158193126/268033662 | Nemzeti Kézilabda Akadémia Kézilabda Csarnok |
 | 27 | Balatonboglár | 1549/3 | belterület | 1042/2265 | Nemzeti Kézilabda Akadémia Szállásépületek |
 | 28 | Budapest XIX. kerület | 168207/1 | belterület | 1/1 | Bozsik Stadion |
 | 29 | Cegléd | 1332/6 | belterület | 1/1 | Ungvári Miklós Ceglédi Judo Központ |
-| 30 | Pécs | 19192/22 | belterület | 1100/3289 | Pécsi Tornacsarnok |
+| 30 | Pécs | 19192/22 | belterület | 1/1 | Pécsi Tornacsarnok |
 | 31 | Pécs | 23998/5 | belterület | 2189/3189 | Rátgéber Nemzeti Kosárlabda Akadémia |
 | 32 | Miskolc | 5080/3 | belterület | 1/1 | MVSC Sporttelep |
 | 33 | Veszprém | 0213/85 | külterület | 1/1 | Veszprém Aréna |

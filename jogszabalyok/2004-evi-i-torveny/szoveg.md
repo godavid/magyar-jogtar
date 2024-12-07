@@ -2517,3 +2517,8 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 | 38. | Budapest, belterület 25992/1 (93330/1683450 tulajdoni hányad arányában) | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
 | 39. | Budapest belterület 23800/6 hrsz (10245/100786 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
 | 40. | Budapest belterület 38440/23 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 41. | Budapest, belterület, 32112 hrsz | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
+| 42. | Budapest, belterület 25992/1 hrsz (10940/1683450 tulajdoni hányad arányában) | Központi Sport és Ifjúsági Egyesület (székhely: 1146 Budapest, Istvánmezei út 1–3.) |
+| 43. | Budapest, belterület 74332 hrsz | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
+| 44. | Budapest, belterület 38303/69 hrsz | Pénzügyőr Sportegyesület (székhely: 1026 Budapest, Pasaréti út 124–126.) |
+| 45. | Budapest, belterület 11637 hrsz | Pénzügyőr Sportegyesület (székhely: 1026 Budapest, Pasaréti út 124–126.) |
