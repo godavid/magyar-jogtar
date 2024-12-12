@@ -17,6 +17,7 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
   - ba) a törvény alapján nyomozó hatósági jogkörrel rendelkező szerv,
   - bb) a törvény vagy az Európai Unió jogi aktusa alapján a Schengeni Információs Rendszerben figyelmeztető jelzés elhelyezése céljából adattovábbításra köteles vagy kiegészítő információt szolgáltató szerv, valamint
   - bc) az INTERPOL FIND rendszerhez hozzáférési jogosultsággal rendelkező szerv;
+  - bd) a közös kapcsolattartási szolgálati hely;
 - c) bűnüldözési adat: a Rendőrségről szóló 1994. évi XXXIV. törvény VIII. fejezetében meghatározott bűnüldözési adatkezelés körébe tartozó adat;
 - d) INTERPOL FIND rendszer: a bűnmegelőzési, a bűnüldözési, valamint a határrendészeti tevékenységi körben az Interpolnak
   - da) a személykörözési adatbázisában (Nominal Database) tárolt, az érintett körözési státuszára (körözött, gyanúsított, tanú, áldozat, fenyegetett, eltűnt, azonosítatlan), a körözés elrendelésének céljára (letartóztatás, tartózkodási hely megállapítása, további információ beszerzése, azonosítás, figyelmeztetés), valamint az új bűnelkövetési módszerek leírására vonatkozó adattartalmakhoz az elfogatóparancs alapján történő elfogás, a bűnügyi tevékenységre, személyazonosságra vonatkozó kiegészítő adat beszerzése érdekében a tartózkodási hely megállapítása, az eltűnt személyek tartózkodási helyének megállapítása, illetve az önmagukat azonosítani képtelen személyek azonosítása, felkutatása érdekében, továbbá a más országban bűncselekményt elkövetett személyekre, illetve a bűncselekmény jövőbeni elkövetésében valószínűsített érintettségre vonatkozó figyelmeztetéssel, a közbiztonságot veszélyeztető cselekményekben, eseményekben, illetve a terrorizmusban való érintettségre vagy a nemzetközi jogi szankciók hatálya alá tartozásra vonatkozó figyelmeztetéssel összefüggésben szükséges, avagy az ismeretlen holttestek azonosítását szolgáló intézkedések megtétele céljából,
@@ -54,6 +55,42 @@ történő hozzáférést lehetővé tevő hálózati adatbázis.
 5. § (1) A NEBEK a nemzetközi megkeresés alapján köteles és jogosult az általa beszerzett adatot – beleértve a titkos információgyűjtéssel, illetve a leplezett eszközök alkalmazásával érintett személyes adatot és információt is – külön törvényben, az Európai Unió jogi aktusában vagy a nemzetközi szerződésben meghatározottak szerinti biztonsági előírásoknak megfelelő távadat-átviteli hálózat igénybevételével vagy a külföldre telepített összekötője útján továbbítani a megkereső nemzetközi szervezethez.
 
 (2) A NEBEK köteles az (1) bekezdés alapján továbbított adatot adatvédelmi ellenőrzés céljából rögzíteni és azt hat hónapig megőrizni. Az így tárolt adatot az ellenőrzés lefolytatása után legkésőbb 30 nap elteltével törölni kell.
+
+(3) A NEBEK a személyes adatoknak az (EU) 2023/977 irányelv alapján folytatott információcsere keretében történő továbbításával egyidejűleg megosztja az Európai Unió tagállamának egyedüli kapcsolattartó pontjával vagy bűnüldöző szervével a személyes adatok pontosságának, teljességének, naprakészségének és megbízhatóságának megítéléséhez szükséges, a forrás megbízhatóságára és az információ bizonyosságára vonatkozó információkat.
+
+(4) A NEBEK a forrás megbízhatóságára vonatkozó információ (3) bekezdés szerinti megosztása során a következő kategóriák valamelyikét alkalmazza:
+
+- a) megbízható forrás,
+- b) a forrás megbízhatósága nem állapítható meg.
+
+(5) A NEBEK az információ bizonyosságára vonatkozó információ (3) bekezdés szerinti megosztása során a következő kategóriák valamelyikét alkalmazza:
+
+- a) bizonyos információ,
+- b) az információ bizonyossága nem állapítható meg.
+
+(6) Ha a továbbított személyes adatok utóbb pontatlannak, hiányosnak vagy már nem naprakésznek bizonyulnak, azokat a NEBEK az adattovábbítás címzettjének értesítése mellett törli, kiegészíti, helyesbíti, vagy – amennyiben a pontatlan, hiányos vagy már nem naprakész adatokra az Európai Unió tagállamának egyedüli kapcsolattartó pontja vagy bűnüldöző szerve részére történő információátadás érdekében szükség van – azok kezelését az adatok (8) bekezdés szerinti törléséig korlátozza.
+
+(7) A NEBEK az Európai Unió tagállamával folytatott információcsere céljából ügyviteli rendszert tart fenn és működtet.
+
+(8) A NEBEK a (7) bekezdés szerinti ügyviteli rendszerben tárolt adatokat az információcsere lezárását követő 6 hónapon belül, majd azt követően 12 havonta felülvizsgálja, és gondoskodik a feladatellátásához szükségtelen személyes adatok törléséről.
+
+(9) A NEBEK minden év március 1. napjáig megküldi az Európai Bizottság részére az előző naptári évre vonatkozó, alábbi statisztikai adatokat:
+
+- a) a NEBEK és a magyar bűnüldöző szervek által a bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény (a továbbiakban: Ne. tv.) 16/A. § (1) bekezdése szerint benyújtott, információátadásra vonatkozó megkeresések száma;
+- b) a NEBEK-hez és a magyar bűnüldöző szervekhez beérkezett, a Ne. tv. 16/B. § (1) bekezdése szerinti információátadásra vonatkozó megkeresések száma;
+- c) a b) pont szerinti megkeresések közül a megválaszolt információátadásra vonatkozó megkeresések száma
+  - ca) sürgős vagy nem sürgős jellegük, és
+  - cb) megkereső tagállamok
+
+szerinti bontásban;
+
+- d) a b) pont szerinti megkeresések közül a Ne. tv. 16/B. § (10) vagy (11) bekezdés szerint elutasított, információátadásra vonatkozó megkeresések száma
+  - da) megkereső tagállamok, és
+  - db) elutasítási okok
+
+szerinti bontásban; és
+
+- e) a b) pont szerinti megkeresések közül azoknak a megkereséseknek a száma, amelyek teljesítése során a Ne. tv. 16/B. § (2)–(4) bekezdésében meghatározott határidőktől a Ne. tv. 16/B. § (5) bekezdése szerint eltértek, az érintett megkereséseket benyújtó tagállamok szerinti bontásban.
 
 6. § (1) A magyar együttműködő szervnek a NEBEK útján történő adatszolgáltatás kezdeményezésekor közölnie kell az adat- vagy információszolgáltatás célját, az adat törlésére, megsemmisítésére vonatkozó szabályokat, illetőleg a tájékoztatási és helyesbítési (törlési) jog gyakorlásával kapcsolatos korlátozásokat.
 
@@ -268,30 +305,29 @@ kiadható.
 
 (3) E törvénynek a magyar együttműködő szerv és a Schengeni Információs Rendszer együttműködésére vonatkozó rendelkezései az Európai Unió Tanácsának a Schengeni Információs Rendszer alkalmazását a Magyarország számára lehetővé tevő határozatában meghatározott napon lépnek hatályba.
 
-#### 17. §
+17. § A NEBEK a belügyi ágazati feladatellátást támogató törvények módosításáról szóló 2024. évi XXV. törvénnyel megállapított 5. § (9) bekezdése szerinti kötelezettségének első alkalommal 2026. március 1-jén tesz eleget.
 
 ### Az Európai Unió jogának való megfelelés
 
 18. § (1) E törvény
 
-1. 3. §-a, 6. §-a, és 10. §-a a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–4. és 16. cikkeinek,
-
-2. 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozatnak
+- 1. 3. §-a, 6. §-a, és 10. §-a a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–4. és 16. cikkeinek,
+- 2. 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozatnak
 
 való megfelelést szolgálja.
 
 (2) E törvény
 
-a) 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet,
+- a) 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet,
+- b) 11. §-a a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet 6. cikkének, valamint
+- c) 12. §-a az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont végrehajtásához szükséges rendelkezéseket állapít meg.
 
-b) 11. §-a a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet 6. cikkének, valamint
-
-c) 12. §-a az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspontvégrehajtásához szükséges rendelkezéseket állapít meg.
-
-19. § Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/795/EU európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
+19. § Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 20. § Ez a törvény az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i, 2013/40/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 21. § E törvény 2. alcíme az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspontnak való megfelelést szolgálja.
 
 22. § Ez a törvény az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+23. § Ez a törvény a tagállamok bűnüldöző hatóságai közötti információcseréről és a 2006/960/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2023. május 10-i (EU) 2023/977 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
