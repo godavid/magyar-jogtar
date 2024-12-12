@@ -11,6 +11,9 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 - 1. magyar bűnüldöző szerv: a rendőrség, a Nemzeti Adó- és Vámhivatal bűnmegelőzési és bűnüldözési feladatot ellátó szervei, valamint törvény alapján bűnmegelőzési és bűnüldözési feladatok végzésére feljogosított, nemzetközi együttműködésre is felhatalmazott más szerv;
 - 2. bűnüldözés: a bűnüldöző szerveknek a törvény célja megvalósulását szolgáló, az igazságügyi jogsegély körén kívül eső, nemzetközi együttműködés keretében folytatott bűnfelderítő és bűnmegelőző tevékenysége;
 - 3. az Európai Unió tagállamának bűnüldöző szerve: a nemzetbiztonsági feladatokat ellátó szervek kivételével az Európai Unió tagállamának olyan hatósága, amely a nemzeti jog alapján bűncselekmények felderítésére és megelőzésére jogosult;
+- 3a. az Európai Unió tagállamának egyedüli kapcsolattartó pontja: az Európai Unió valamely másik tagállamának az (EU) 2023/977 irányelv 14. cikke alapján kijelölt szerve;
+- 3b. kijelölt magyar bűnüldöző szerv: a bűncselekmények megelőzéséért felelős miniszter, a terrorizmus elleni küzdelemért felelős miniszter és az adópolitikáért felelős miniszter által kijelölt, az Európai Unió valamely más tagállamának egyedüli kapcsolattartó pontjával folytatott információcserére feljogosított magyar bűnüldöző szerv;
+- 3c. az Európai Unió tagállamának kijelölt bűnüldöző szerve: az Európai Unió valamely másik tagállamának az (EU) 2023/977 irányelv 4. cikk (1) bekezdés második albekezdése szerinti jegyzékben szereplő bűnüldöző szerve;
 - 4. külföldi hatóság: az Európai Unió tagállamának bűnüldöző szerve, valamint az Európai Unió tagállamán kívül más külföldi államnak a bűnüldözésben való nemzetközi kapcsolattartásra és együttműködésre feljogosított szerve;
 - 5. közös bűnfelderítő-csoport kihelyezett tagja: a Magyarország területén működő közös bűnfelderítő-csoportnak a külföldi hatóságot képviselő tagja, illetve a más állam területén működő közös bűnfelderítő-csoportnak a magyar bűnüldöző szervet képviselő magyar tagja;
 - 6. a bűnüldöző szervvel együttműködő személy: a bűnüldöző szerv részére titkos együttműködés keretében információt szolgáltató személy;
@@ -47,7 +50,7 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 
 6. § (1) A NEBEK a külföldi hatóságtól érkező megkeresést – a (2) bekezdés kivételével – haladéktalanul a végrehajtásra hatáskörrel és illetékességgel rendelkező magyar bűnüldöző szervhez továbbítja.
 
-(2) A NEBEK az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvényben meghatározottak szerint a megkeresést közvetlenül is teljesítheti.
+(2) A NEBEK a 16/A–16/C. §-ban, valamint az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvényben meghatározottak szerint a megkeresést és az információ átadását közvetlenül is teljesítheti.
 
 (3) A NEBEK a külföldi hatóság kérésére tájékoztatást ad a magyar jogszabályok tartalmáról.
 
@@ -93,9 +96,23 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 
 (3)–(4)
 
-11/A. § (1) A magyar bűnüldöző szerv a bűncselekmények megelőzésének és felderítésének elősegítése érdekében az Európai Unió tagállamának bűnüldöző szervével történő információcsere során minden olyan személyes adatot továbbíthat az Európai Unió tagállamának bűnüldöző szerve részére, amelyet bűnüldözési feladatai ellátásához kezel, vagy amelyet e célból átvehet.
+11/A. § (1) A magyar bűnüldöző szerv a bűncselekmények megelőzésének és felderítésének elősegítése érdekében az Európai Unió tagállamának bűnüldöző szervével történő információcsere során minden olyan személyes adatot továbbíthat az Európai Unió tagállama egyedüli kapcsolattartó pontjának vagy bűnüldöző szervének, amelyet bűnüldözési feladatai ellátásához kezel, vagy amelyet e célból átvehet.
 
-(2) A magyar bűnüldöző szerv az Európai Unió tagállamának bűnüldöző szervével történő információcsere során minden olyan információt, tényt vagy adatot közölhet, amely nem minősül személyes adatnak.
+(1a) Ha a továbbított személyes adatok utóbb pontatlannak, hiányosnak vagy már nem naprakésznek bizonyulnak, azokat a magyar bűnüldöző szerv az adattovábbítás címzettjének értesítése mellett törli, helyesbíti, vagy – amennyiben a pontatlan, hiányos vagy már nem naprakész adatokra az Európai Unió tagállamának egyedüli kapcsolattartó pontja vagy bűnüldöző szerve részére történő információ átadás érdekében szükség van – azok kezelését az adatok Rtv. szerinti törléséig korlátozza.
+
+(1b) A magyar bűnüldöző szerv a személyes adatok továbbításával egyidejűleg közli az Európai Unió tagállamának egyedüli kapcsolattartó pontjával vagy bűnüldöző szervével az adatok pontosságának, teljességének, naprakészségének és megbízhatóságának a megítéléséhez szükséges, a forrás megbízhatóságára és az információ bizonyosságára vonatkozó információkat.
+
+(1c) A magyar bűnüldöző szerv a forrás megbízhatóságára vonatkozó információ (1b) bekezdés szerinti megosztása során a következő kategóriák valamelyikét alkalmazza:
+
+- a) megbízható forrás,
+- b) a forrás megbízhatósága nem állapítható meg.
+
+(1d) A magyar bűnüldöző szerv az információ bizonyosságára vonatkozó információ (1b) bekezdés szerinti megosztása során a következő kategóriák valamelyikét alkalmazza:
+
+- a) bizonyos információ,
+- b) az információ bizonyossága nem állapítható meg.
+
+(2) A magyar bűnüldöző szerv az Európai Unió tagállamának egyedüli kapcsolattartó pontjával vagy bűnüldöző szervével történő információcsere során minden olyan információt, tényt vagy adatot közölhet, amely nem minősül személyes adatnak.
 
 (3) Az Európai Unió tagállamai részére fenntartott adatbázisból származó, az együttműködés keretében szolgáltatható adat kizárólag az Európai Unió erre jogosult szervezeteinek, illetve tagállamai hatóságainak adható át.
 
@@ -146,53 +163,136 @@ irányulhat.
 
 ### Az Európai Unió tagállamának bűnüldöző szervével történő információcsere
 
-16/A. § (1) A magyar bűnüldöző szerv a bűncselekmények megelőzésének és felderítésének elősegítése érdekében az 1. melléklet szerinti formanyomtatványon előterjesztett információcsere iránti megkereséssel fordulhat az Európai Unió tagállamának bűnüldöző szervéhez.
+16/A. § (1) A bűncselekmények megelőzésének és felderítésének elősegítése érdekében az (5) bekezdés szerinti tartalommal előterjesztett megkereséssel
 
-(2) Az 1. melléklet szerinti formanyomtatványban foglaltaknak megfelelően a magyar bűnüldöző szerv az információcsere iránti megkeresés teljesítése végett az Európai Unió tagállamának bűnüldöző szerve számára tizennégy napos határidőt határoz meg.
+- a) a NEBEK és a kijelölt magyar bűnüldöző szerv az Európai Unió tagállamának egyedüli kapcsolattartó pontjától, vagy
+- b) a NEBEK és a magyar bűnüldöző szerv az Európai Unió tagállamának bűnüldöző szervétől
 
-(3) Az 1. melléklet szerinti formanyomtatványban foglaltaknak megfelelően, ha az információcsere iránti megkeresés az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: EUtv.) 1. számú mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresés teljesítése végett
+információ átadását kérheti.
 
-- a) hét napos,
-- b) sürgősségi megkeresés esetén nyolc órás
+(2) A (4) bekezdésben foglaltak kivételével, a kijelölt magyar bűnüldöző szerv az (1) bekezdés a) pontja szerinti megkereséssel egyidejűleg, a megkeresés másolatának megküldésével vagy azzal egyenértékű egyéb módon tájékoztatja a NEBEK-et.
 
-határidőt határozhat meg.
+(3) A (4) bekezdésben foglaltak kivételével, az (1) bekezdés b) pontja szerinti megkereséssel egyidejűleg a megkeresés másolatának megküldésével vagy azzal egyenértékű egyéb módon tájékoztatja
 
-16/B. § (1) A magyar bűnüldöző szerv az Európai Unió tagállamának bűnüldöző szervének az 1. melléklet szerinti formanyomtatványon előterjesztett megkeresésére a 2. melléklet szerinti formanyomtatványon információt ad a bűncselekmény megelőzésének vagy felderítésének elősegítése érdekében.
+- a) a NEBEK az Európai Unió ugyanazon tagállamának egyedüli kapcsolattartó pontját;
+- b) a magyar bűnüldöző szerv a NEBEK-et és az Európai Unió ugyanazon tagállamának egyedüli kapcsolattartó pontját.
 
-(2) Az információcsere iránti megkeresést a megkeresésnek a magyar bűnüldöző szervhez érkezésétől számított tizennégy napon belül kell teljesíteni.
+(4) A (2) és (3) bekezdésben előírt tájékoztatási kötelezettség nem áll fenn, ha az
 
-(3) Ha az információcsere iránti megkeresés az EUtv. 1. számú mellékletében meghatározott bűncselekményfajták valamelyikére vonatkozik, és a kért információ a magyar bűnüldöző szerv számára közvetlenül hozzáférhető nyilvántartásban megtalálható, a megkeresést – a magyar bűnüldöző szervhez érkezésétől számítva – hét napon belül teljesíteni kell.
+- a) valamely folyamatban lévő eljárás érdekeit, vagy
+- b) valamely terrorizmussal kapcsolatos, veszély- vagy válsághelyzet kezelését nem igénylő ügy érdekeit, vagy
+- c) valamely személy biztonságát
 
-(4) A (3) bekezdés szerinti feltételek fennállása esetén, ha a megkeresés sürgős, azt a magyar bűnüldöző szervhez érkezéstől számított nyolc órán belül teljesíteni kell.
+veszélyeztetné.
 
-(5) Ha a (4) bekezdés szerinti információcsere iránti megkeresés teljesítése aránytalan terhet jelent, azt a magyar bűnüldöző szerv legfeljebb három nappal elhalasztja. Erről az Európai Unió tagállamának bűnüldöző szervét haladéktalanul értesíti, és a késedelem okát a 2. melléklet szerinti formanyomtatvány megfelelő részének kitöltésével indokolja.
+(5) Az információátadásra vonatkozó megkeresés legalább az alábbi tartalmi elemeket foglalja magában:
 
-(6) Ha a (2)–(4) bekezdésben meghatározott határidőn belül az információcsere iránti megkeresés nem teljesíthető, erről a magyar bűnüldöző szerv az Európai Unió tagállamának bűnüldöző szervét haladéktalanul értesíti, és a késedelem indokát a 2. melléklet szerinti formanyomtatvány megfelelő részének kitöltésével indokolja.
+- a) a kért információ;
+- b) a megkeresés alapjául szolgáló bűncselekmény megjelölése;
+- c) a megkeresés célja, beleértve adott esetben azoknak a körülményeknek a leírását, amelyek között a bűncselekményt elkövették, annak időpontját, helyét és azon személy bűncselekményben való részvételének jellegét, akivel kapcsolatban az információt kérik;
+- d) az okok, amelyek alapján feltételezhető, hogy a kért információ a megkeresett tagállamban található;
+- e) a megkeresés célja és azon, bármely természetes vagy jogi személy vagy szervezet között fennálló kapcsolat leírása, akire vagy amelyre az információ vonatkozik;
+- f) sürgősség esetén a megkeresés sürgősségének ténye és annak indokolása; és
+- g) a megkeresésben foglalt információknak a megkeresés céljától eltérő célokra történő felhasználására vonatkozó korlátozások.
 
-(7) Az információcsere iránti megkeresés teljesítését meg kell tagadni, ha
+(6) Az információátadásra vonatkozó megkeresés sürgősnek minősül, ha
 
-- a) a teljesítés
-  - aa) Magyarország alapvető nemzetbiztonsági érdekét sérti, vagy
-  - ab) folyamatban lévő büntetőeljárást vagy bűnüldözési, bűnmegelőzési feladatok ellátását, illetve a természetes személyek biztonságát veszélyezteti, vagy
-- b) a kért információ
-  - ba) jelentősége nyilvánvalóan nem áll arányban a megkeresésben foglalt céllal, illetve a cél szempontjából lényegtelen, vagy
-  - bb) csak más tagállam vagy harmadik ország hozzájárulásával adható át, és e hozzájárulás hiányzik.
+- a) a kért információ
+  - aa) valamely tagállam közbiztonságát közvetlenül és súlyosan fenyegető veszély elhárítása érdekében szükséges;
+  - ab) valamely személy életét vagy testi épségét fenyegető közvetlen veszély megelőzése érdekében szükséges; vagy
+  - ac) olyan döntés meghozatalához szükséges, amely magában foglalhatja szabadságelvonással járó korlátozó intézkedések alkalmazását; vagy
+- b) a sürgős információátadás elmulasztása esetén fennáll annak a közvetlen veszélye, hogy az információ elveszíti relevanciáját, és az információ bűncselekmények megelőzése vagy felderítése szempontjából fontos.
 
-(8) Ha az Európai Unió tagállama bűnüldöző szervének információcsere iránti megkeresése egy évnél rövidebb időtartamú szabadságvesztéssel büntetendő bűncselekményre vonatkozik, a magyar bűnüldöző szerv megtagadhatja a kért információ átadását.
+(7) Az információátadásra vonatkozó megkeresés az (5) bekezdés g) pontja szerinti korlátozások tekintetében a következő kategóriák valamelyikét tartalmazza:
 
-16/C. § (1) Ha a magyar bűnüldöző szerv olyan információ, tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a birtokába jutott információ, tény vagy adat az EUtv. 1. számú mellékletében meghatározott bűncselekmények valamelyike megelőzésének vagy felderítésének elősegítése céljából az Európai Unió tagállama bűnüldöző szervének a feladata ellátásához szükséges, erről a 16/B. § (1) bekezdésében meghatározott megkeresés nélkül is tájékoztatást adhat.
+- a) az információ felhasználása engedélyezett;
+- b) az információ felhasználása az információ szolgáltatójának említése nélkül engedélyezett,
+- c) az információ az információ szolgáltatójának felhatalmazásával használható fel,
+- d) az információ felhasználása nem engedélyezett.
 
-(2) A magyar bűnüldöző szerv az (1) bekezdésben foglalt feltételek fennállása esetén sem adhat tájékoztatást az Európai Unió tagállama bűnüldöző szervének, ha az információ, tény vagy adat átadása – erre irányuló megkeresés esetén – az 5. § (3) bekezdése, illetve a 16/B. § (7) bekezdés a) pontja vagy b) pontjának bb) alpontja alapján nem lenne teljesíthető.
+(8) Az információátadásra vonatkozó megkeresést angol nyelven kell előterjeszteni.
+
+16/B. § (1) A bűncselekmények megelőzésének vagy felderítésének elősegítése érdekében benyújtott megkeresésre
+
+- a) a NEBEK és a kijelölt magyar bűnüldöző szerv az Európai Unió tagállama egyedüli kapcsolattartó pontjának, vagy
+- b) a NEBEK és a magyar bűnüldöző szerv az Európai Unió tagállama bűnüldöző szervének információt ad.
+
+(2) Az információátadásra vonatkozó megkeresést annak kézhezvételétől számított hét napon belül kell teljesíteni.
+
+(3) Ha a megkeresés sürgős, és a kért információ a NEBEK vagy a magyar bűnüldöző szerv számára közvetlenül hozzáférhető nyilvántartásban megtalálható, a megkeresést a kézhezvételétől számított nyolc órán belül teljesíteni kell.
+
+(4) Ha a megkeresés sürgős, és a kért információ a NEBEK vagy a magyar bűnüldöző szerv számára közvetlenül hozzáférhető nyilvántartásban nem található meg, de valamely más szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező szervezettől kényszerítő intézkedések megtétele nélkül átvehető, a megkeresést a kézhezvételétől számított 3 napon belül teljesíteni kell.
+
+(5) Ha a megkeresés teljesítéséhez bírói engedély vagy az ügyészség engedélye, jóváhagyása, hozzájárulása, illetve egyetértése szükséges, a megkeresés teljesítését a NEBEK vagy a magyar bűnüldöző szerv a (2)–(4) bekezdéstől eltérően az engedély beszerzéséhez szükséges ideig elhalasztja.
+
+(6) Az (5) bekezdésben foglalt esetben a NEBEK vagy a magyar bűnüldöző szerv
+
+- a) haladéktalanul értesíti az Európai Unió tagállamának egyedüli kapcsolattartó pontját vagy bűnüldöző szervét a várható késedelem tényéről, annak okairól és várható hosszáról;
+- b) folyamatosan tájékoztatja az Európai Unió tagállamának egyedüli kapcsolattartó pontját vagy bűnüldöző szervét az engedély megszerzésének állásáról; és
+- c) az engedély megszerzését követően haladéktalanul teljesíti a megkeresést.
+
+(7) A (9) bekezdés kivételével, a NEBEK az Európai Unió tagállama kijelölt bűnüldöző szerve (1) bekezdés a) pontja szerinti megkeresésének teljesítésével egyidejűleg a megkeresésre adott válasz másolatának megküldésével vagy azzal egyenértékű egyéb módon tájékoztatja az Európai Unió ugyanazon tagállamának egyedüli kapcsolattartó pontját.
+
+(8) A (9) bekezdésben foglaltak kivételével, az (1) bekezdés b) pontja szerinti megkeresés teljesítésével egyidejűleg a megkeresésre adott válasz másolatának megküldésével vagy azzal egyenértékű egyéb módon tájékoztatja
+
+- a) a NEBEK az Európai Unió ugyanazon tagállamának egyedüli kapcsolattartó pontját;
+- b) a magyar bűnüldöző szerv a NEBEK-et és az Európai Unió ugyanazon tagállamának egyedüli kapcsolattartó pontját.
+
+(9) A (7) és (8) bekezdésben előírt tájékoztatási kötelezettség nem áll fenn, ha az a 16/A. § (4) bekezdésében foglalt egy vagy több érdeket veszélyeztetné.
+
+(10) Az információ átadása iránti megkeresés teljesítését a (14) bekezdés szerinti egyeztetés eredménytelensége esetén meg kell tagadni, ha
+
+- a) a megkeresés
+  - aa) nem felel meg a 16/A. § (5) bekezdésében előírt minimális tartalmi követelményeknek, vagy
+  - ab) a magyar törvény szerint nem bűncselekménynek minősülő cselekménnyel kapcsolatos,
+- b) a teljesítés
+  - ba) Magyarország alapvető nemzetbiztonsági érdekét sérti, vagy
+  - bb) folyamatban lévő büntetőeljárást vagy bűnüldözési, bűnmegelőzési feladatok ellátását, illetve a természetes személyek biztonságát veszélyezteti, vagy
+  - bc) indokolatlanul sértené valamely jogi személy fontos védett érdekét,
+- c) a kért információ
+  - ca) nem áll rendelkezésre,
+  - cb) jelentősége nyilvánvalóan nem áll arányban a megkeresésben foglalt céllal, illetve a cél szempontjából lényegtelen,
+  - cc) az érintettek kategóriái szerint van besorolva és az az (EU) 2016/794 európai parlamenti és tanácsi rendelet II. mellékletének B. alcímében felsorolt személyesadat-kategóriákon kívül eső személyes adatnak minősül, vagy
+  - cd) pontatlan, hiányos vagy már nem naprakész, és nem adható át az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 8. § (2) bekezdésével összhangban, vagy
+  - ce) csak más tagállam vagy harmadik ország hozzájárulásával adható át, és e hozzájárulás hiányzik, vagy
+- d) a megkeresés teljesítéséhez a magyar jogszabályok szerint bírói engedély vagy az ügyészség engedélye, jóváhagyása, hozzájárulása, illetve egyetértése szükséges és annak megadását elutasították.
+
+(11) Ha az Európai Unió tagállama bűnüldöző szervének információ átadására vonatkozó megkeresése a magyar törvény szerint egy évnél rövidebb időtartamú szabadságvesztéssel büntetendő bűncselekményre vonatkozik, a NEBEK, illetve a magyar bűnüldöző szerv megtagadhatja a kért információ átadását.
+
+(12) Az információ átadása iránti megkeresés teljesítése csak azon információk tekintetében tagadható meg, amelyre a (10) vagy a (11) bekezdésben meghatározott okok vonatkoznak.
+
+(13) Az információ átadása iránti megkeresés teljesítésének megtagadásáról és annak a (10) vagy a (11) bekezdés szerinti okáról a NEBEK vagy a magyar bűnüldöző szerv a (2)–(4) bekezdés szerinti határidőn belül tájékoztatja az Európai Unió tagállamának egyedüli kapcsolattartó pontját vagy bűnüldöző szervét.
+
+(14) Ha a megkeresésben foglaltak alapján a teljesítés megtagadásának lenne helye, a NEBEK vagy a magyar bűnüldöző szerv pontosítás kérésével haladéktalanul egyeztetést kezdeményez az Európai Unió tagállamának egyedüli kapcsolattartó pontjával vagy bűnüldöző szervével. A (2)–(4) bekezdésben foglalt határidőbe nem számít bele a pontosítás iránti kérésnek az Európai Unió tagállamának egyedüli kapcsolattartó pontja vagy bűnüldöző szerve általi kézhezvételének időpontjától a kért pontosítás rendelkezésre bocsátásának időpontjáig eltelt idő.
+
+(15) Az információátadásra vonatkozó megkeresés teljesítése, a megkeresés teljesítésének megtagadása, a pontosítás kérése és rendelkezésre bocsátása, továbbá a NEBEK-hez vagy a magyar bűnüldöző szervhez benyújtott információátadásra vonatkozó megkeresésekkel kapcsolatos bármely egyéb kommunikáció során azt a nyelvet kell használni, amelyen az említett megkeresést előterjesztették.
+
+16/C. § (1) Ha a NEBEK vagy a magyar bűnüldöző szerv olyan információ, tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a birtokába jutott információ, tény vagy adat bűncselekmény megelőzésének vagy felderítésének elősegítése céljából az Európai Unió tagállama egyedüli kapcsolattartó pontjának vagy bűnüldöző szervének a feladata ellátásához szükséges, a 16/B. § (1) bekezdése szerinti megkeresés nélkül is tájékoztatást ad.
+
+(2) Ha a NEBEK vagy a magyar bűnüldöző szerv olyan információ, tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a birtokába jutott információ, tény vagy adat az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: EUtv.) 1. számú melléklete szerinti bűncselekmények valamelyike megelőzésének vagy felderítésének elősegítése céljából az Európai Unió tagállama egyedüli kapcsolattartó pontjának vagy bűnüldöző szervének a feladata ellátásához szükséges, erről a 16/B. § (1) bekezdése szerinti megkeresés nélkül is tájékoztatást ad.
+
+(3) A (2) bekezdésben előírt tájékoztatási kötelezettség az annak alapjául szolgáló feltételek fennállása esetén sem áll fenn, ha az információ, tény vagy adat átadása – erre irányuló megkeresés esetén – a 16/B. § (10) bekezdés b) pontja, c) pont ce) alpontja vagy d) pontja alapján nem lenne teljesíthető.
+
+(4) A NEBEK az Európai Unió tagállama bűnüldöző szervének az (1) vagy (2) bekezdés alapján nyújtott tájékoztatással egyidejűleg a tájékoztatás másolatának megküldésével vagy azzal egyenértékű egyéb módon tájékoztatja az Európai Unió ugyanazon tagállamának egyedüli kapcsolattartó pontját.
+
+(5) A (6) bekezdésben foglaltak kivételével a magyar bűnüldöző szerv az (1) bekezdés vagy a (2) bekezdés alapján
+
+- a) az Európai Unió tagállama bűnüldöző szervének nyújtott tájékoztatással egyidejűleg a tájékoztatás másolatának megküldésével vagy azzal egyenértékű egyéb módon tájékoztatja a NEBEK-et és az Európai Unió ugyanazon tagállamának egyedüli kapcsolattartó pontját,
+- b) az Európai Unió tagállama egyedüli kapcsolattartó pontjának nyújtott tájékoztatással egyidejűleg a tájékoztatás másolatának megküldésével vagy azzal egyenértékű egyéb módon tájékoztatja a NEBEK-et.
+
+(6) Az (5) bekezdés szerinti tájékoztatási kötelezettség nem áll fenn, ha az a 16/A. § (4) bekezdésében foglalt egy vagy több érdeket veszélyeztetné.
+
+(7) Az (1) vagy (2) bekezdés szerinti tájékoztatást angol nyelven kell nyújtani.
 
 16/D. § (1) Ha a magyar bűnüldöző szerv a 16/A. § alapján megszerzett információt a büntetőeljárás során bizonyítékként kívánja felhasználni, be kell szereznie az Európai Unió tagállama bűnüldöző szervének a beleegyezését. A beleegyezés – szükség esetén – igazságügyi jogsegély keretében is beszerezhető.
 
 (2) Nem kell beszerezni az (1) bekezdés szerinti beleegyezést, ha az Európai Unió tagállamának bűnüldöző szerve az információcsere iránti megkeresés teljesítésekor beleegyezését adta az információ bizonyítékként történő felhasználásába.
 
-16/E. § Ha a 16/A. § szerinti információcsere iránti megkeresés a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/794/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresést megküldi a rendőrségnek a Bűnüldözési Együttműködés Európai Uniós Ügynökségével (a továbbiakban: EUROPOL) való együttműködésért felelős szervezeti egységének is.
+16/E. § Ha a 16/A. § szerinti információ átadására vonatkozó megkeresés vagy a 16/B. § vagy 16/C. § alapján átadott információ az (EU) 2016/794 európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdésében és I. mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információ átadására vonatkozó megkeresés vagy az átadott információ másolatát minden esetben megküldi a rendőrségnek az EUROPOL-lal való együttműködésért felelős szervezeti egységének is.
 
 16/F. § (1) A nyomozó hatóság vagyonvisszaszerzési szerve (a továbbiakban: vagyonvisszaszerzési szerv) a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése érdekében az Európai Unió más tagállamának erre a feladatra kijelölt közigazgatási, bűnüldözési vagy igazságügyi hatóságától közvetlenül tájékoztatást kérhet, illetve annak tájékoztatást adhat.
 
-(2) A vagyonvisszaszerzési szerv által előterjesztett tájékoztatás-kérésre a 16/A. § és a 16/D–16/E. §, az általa történő tájékoztatás-adásra a 16/B. § és a 16/D–16/E. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az 1. mellékletben meghatározott formanyomtatványon előterjesztett kérelemben meg kell jelölni a megkereséssel érintett vagyonnal, illetve a vélhetően érintett természetes vagy jogi személyekkel összefüggő ismert adatokat is, valamint utalni kell az együttműködés iránti kérelemnek az (1) bekezdés szerinti céljára.
+(2) A vagyonvisszaszerzési szerv által előterjesztett tájékoztatás-kérésre a 16/A. § és a 16/D–16/E. §, az általa történő tájékoztatás-adásra a 16/B. § és a 16/D–16/E. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a 16/A. § (5) bekezdésében meghatározott tartalommal előterjesztett kérelemben meg kell jelölni a megkereséssel érintett vagyonnal, illetve a vélhetően érintett természetes vagy jogi személyekkel összefüggő ismert adatokat is, valamint utalni kell az együttműködés iránti kérelemnek az (1) bekezdés szerinti céljára.
 
 16/G. § (1) Ha a vagyonvisszaszerzési szerv olyan információ, tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a birtokába jutott információ, tény vagy adat a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb vagyon felkutatásának és azonosíthatóságának elősegítése érdekében az Európai Unió más tagállamának erre a feladatra kijelölt közigazgatási, bűnüldözési vagy igazságügyi hatóságának a feladata ellátásához szükséges, erről a 16/F. § (1) bekezdésében meghatározott kérelem nélkül is tájékoztatást adhat.
 
@@ -200,7 +300,11 @@ határidőt határozhat meg.
 
 16/H. § Az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes más állammal történő információcserére a 16/A–16/E. § rendelkezéseit megfelelően alkalmazni kell.
 
-17–19. §
+#### 17. §
+
+#### 18. §
+
+#### 19. §
 
 ### Közös bűnfelderítő-csoport létrehozása
 
@@ -244,7 +348,9 @@ határidőt határozhat meg.
 
 (3) Minden olyan adatot, amely az (1) bekezdésben meghatározott közös bűnfelderítő-csoport tevékenységéből származik, a NEBEK-en keresztül az EUROPOL részére továbbítani kell.
 
-### A bűnüldöző szervvel együttműködő személyigénybevétele
+### A bűnüldöző szervvel együttműködő személy
+
+igénybevétele
 
 24. § (1) A Magyarország területén működő közös bűnfelderítő-csoportban résztvevő kihelyezett tag külföldi bűnüldöző szervvel együttműködő személyt Magyarország területén igénybe vehet.
 
@@ -288,7 +394,7 @@ határidőt határozhat meg.
 29. § (1) A megfigyelés olyan bűncselekmény gyanúja esetén lehetséges,
 
 - a) amely az Rtv. 97. §-a (1) bekezdésének i) pontjában meghatározott súlyos bűncselekménynek minősül;
-- b) amelyre a határellenőrzés fokozatos megszüntetéséről 1985. június 14-én kelt Schengeni Megállapodás végrehajtásáról szóló Egyezmény (Schengeni Végrehajtási Egyezmény) 40. cikke, valamint az Európai Unió 1997. december 18-án elfogadott Egyezménye a vámszervek közötti kölcsönös segítségnyújtásról és együttműködésről (Nápoly II Egyezmény) lehetőséget biztosít.
+- b) amelyre a Schengeni Végrehajtási Egyezmény 40. cikke, valamint a Nápoly II Egyezmény lehetőséget biztosít.
 
 (2) Az (1) bekezdés b) pontja szerinti bűncselekményeket e törvény 3. melléklete tartalmazza.
 
@@ -335,7 +441,7 @@ határidőt határozhat meg.
 - b) a kísérő és járulékos adatokat rögzítheti, illetőleg továbbíthatja,
 - c) más államban folytatott titkos információgyűjtéshez technikai segítséget nyújthat.
 
-37. §
+#### 37. §
 
 38. § (1) A titkos információgyűjtésre irányuló megkeresésnek tartalmaznia kell:
 
@@ -355,7 +461,13 @@ határidőt határozhat meg.
 
 ### Tanúvédelmi Program alkalmazása nemzetközi együttműködés alapján
 
-39–42. §
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
 
 ### Az Európai Unió tagállamának különleges intervenciós egységével való együttműködés
 
@@ -395,9 +507,17 @@ határidőt határozhat meg.
 
 43. § A 16/H. §-ban foglalt kivétellel e törvény 14. § (2) bekezdésében, 16/A–16/G. §-ában, 29. § (1) bekezdés b) pontjában, továbbá 31–33. §-ában meghatározott rendelkezéseket kizárólag az Európai Unió tagállamának bűnüldöző szerveivel való együttműködés keretében lehet alkalmazni.
 
-44. §
+#### 44. §
 
-45–49. §
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
 
 ### Hatálybalépés
 
@@ -418,192 +538,30 @@ határidőt határozhat meg.
 
 ### Jogharmonizációs záradék
 
-52. § (1) E törvény – az a)–d) pont tekintetében az EUtv.-nyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
+52. § (1) E törvény – az a)–d) pont tekintetében az EUtv.-nyel együtt –
 
-- a) a Tanács 2002/465/IB kerethatározata (2002. június 13.) a közös nyomozócsoportokról;
-- b) a Tanács 2006/960/IB kerethatározata (2006. december 18.) az Európai Unió tagállamainak bűnüldöző hatóságai közötti, információ és bűnüldözési operatív információ cseréjének leegyszerűsítéséről (e törvény 4. § (1) bekezdése, 11/A. §-a, 16/A–16/F. §-a, 1. és 2. melléklete);
-- c) a Tanács 2007/845/IB határozata (2007. december 6.) a tagállamok vagyon-visszaszerzési hivatali között, a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről (e törvény 16/G–16/H. §-a);
-- d) a Tanács 96/277/IB együttes fellépése (1996. április 22.), amelyet a Tanács az Európai Unióról szóló szerződés K.3. cikke alapján fogadott el, az összekötő tisztviselőknek az Európai Unió tagállamai közötti igazságügyi együttműködés javítása céljából történő cseréjére vonatkozó keretrendszerről;
-- e) a Tanács 2000. november 30-i ajánlása az EUROPOL részéről a tagállamok által felállított közös nyomozó csoportoknak nyújtandó segítségről (HL C 357., 2000.12.13., 7. o.).
+- a) a közös nyomozócsoportokról szóló, 2002. június 13-i 2002/465/IB tanácsi kerethatározatnak;
+- b) 4. § (1) bekezdése, 11/A. §-a, 16/A–16/F. §-a a tagállamok bűnüldöző hatóságai közötti információcseréről és a 2006/960/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2023. május 10-i (EU) 2023/977 európai parlamenti és tanácsi irányelvnek;
+- c) 16/G. §-a és 16/H. §-a a tagállamok vagyon-visszaszerzési hivatalai között, a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről szóló, 2007. december 6-i 2007/845/IB tanácsi határozatnak;
+- d) az Európai Unióról szóló szerződés K.3. cikke alapján elfogadott, az összekötő tisztviselőknek az Európai Unió tagállamai közötti igazságügyi együttműködés javítása céljából történő cseréjére vonatkozó keretrendszerről szóló, 1996. április 22-i 96/277/IB tanácsi együttes fellépésnek;
+- e) az EUROPOL részéről a tagállamok által felállított közös nyomozó csoportoknak nyújtandó segítségről szóló, 2000. november 30-i tanácsi ajánlásnak
 
-(2) E törvény a következő uniós jogi aktusok végrehajtását szolgálja:
+való megfelelést szolgálja.
 
-- a) a Schengeni Végrehajtási Egyezmény 39–41. cikkei, továbbá 46–47. cikkei;
-- b) az Európai Unió Tanácsának 2000. május 29-én kelt a tagállamok közötti, büntetőügyekben való kölcsönös segítségnyújtásról szóló Egyezmény 6–7. cikkei, továbbá 12–14. cikkei;
-- c) az Európai Uniónak az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló egyezménye 2001. október 16-án elfogadott Kiegészítő Jegyzőkönyve;
-- d) az Európai Unió 1997. december 18-án elfogadott Egyezménye a vámszervek közötti kölcsönös segítségnyújtásról és együttműködésről (Nápoly II Egyezmény);
-- e) az Európai Unió az Európai Rendőrségi Hivatal létrehozásáról szóló Egyezményének 2002. november 28-án elfogadott Kiegészítő Jegyzőkönyve,
-- f) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 2. § 9. és 10. pontjával, 8. § l) pontjával, és 42/A–42/D. §-ával.
+(2) E törvény
 
-(3) Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+- a) a határellenőrzés fokozatos megszüntetéséről szóló, 1985. június 14-én elfogadott Schengeni Megállapodás végrehajtásáról szóló Egyezmény (Schengeni Végrehajtási Egyezmény) 39–41. cikkeinek, továbbá 46–47. cikkeinek;
+- b) az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló, 2000. május 29-én elfogadott Egyezmény 6–7. cikkeinek, továbbá 12–14. cikkeinek;
+- c) az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló Egyezmény 2001. október 16-án elfogadott Kiegészítő Jegyzőkönyvének;
+- d) a 2006. évi LXXXIX. törvénnyel kihirdetett, az Európai Unióról szóló szerződés K.3 cikke alapján a vámigazgatási szervek közötti kölcsönös segítségnyújtásról és együttműködésről szóló, 1997. december 18-án elfogadott Egyezménynek (Nápoly II Egyezmény);
+- e) 2. § 9. és 10. pontja, 8. § l) pontja, valamint 42/A–42/D. §-a az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben című, 2008. június 23-i 2008/617/IB tanácsi határozatnak;
+- f) a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendeletnek [EU) 2016/794 európai parlamenti és tanácsi rendelet]
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2002. évi LIV. törvényhez
 
-E törvény 16/A. § (1) bekezdése szerinti formanyomtatvány az alábbi adatokat tartalmazza:
-
-INFORMÁCIÓCSERE A(Z) 2006/960/IB TANÁCSI KERETHATÁROZAT SZERINTA KÉRELMEZŐ TAGÁLLAM ÁLTAL KITÖLTENDŐ FORMANYOMTATVÁNY INFORMÁCIÓRAÉS BŰNÜLDÖZÉSI OPERATÍV INFORMÁCIÓRA VONATKOZÓ KÉRELEM
-
-Ez a formanyomtatvány információknak és bűnüldözési operatív információknak a(z) 2006/960/IB kerethatározat* szerinti kérelmezésére szolgál.
-
-– Adminisztratív információ
-
-| Kérelmező hatóság (név, cím, telefon, fax, e-mail, tagállam): |  |
-| --- | --- |
-| Ügyintéző adatai (opcionális): |  |
-| A kérelem címzettje a következő tagállam: |  |
-| Ezen kérelem dátuma és időpontja: |  |
-| E kérelem hivatkozási száma: |  |
-
-| Előző kérelmek |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| ⬜ Erre az ügyre vonatkozóan ez az első kérelem |  |  |  |  |
-| ⬜ A kérelem az ugyanarra az ügyre vonatkozó előző kérelmeket követ |  |  |  |  |
-| Előző kérelem / kérelmek |  |  | Válasz(ok) |  |
-|  | Dátum | Hivatkozási szám (a kérelmező tagállamban) | Dátum | Hivatkozási szám (a megkeresett tagállamban) |
-| 1. |  |  |  |  |
-| 2. |  |  |  |  |
-| 3. |  |  |  |  |
-| 4. |  |  |  |  |
-
-| Amennyiben a kérelmet a kérelmező tagállamban egynél több hatóságnak küldik meg, kérjük valamennyi felhasznált csatorna megnevezését |  |
-| --- | --- |
-| ⬜ ENU/Europol összekötő tisztviselő | ⬜ Információért⬜ Végrehajtásért |
-| ⬜ Interpol nemzeti központi iroda (NCB) | ⬜ Információért⬜ Végrehajtásért |
-| ⬜ Sirene | ⬜ Információért⬜ Végrehajtásért |
-| ⬜ Összekötő tisztviselő | ⬜ Információért⬜ Végrehajtásért |
-| ⬜ Egyéb (kérjük, nevezze meg): | ⬜ Információért⬜ Végrehajtásért |
-| Amennyiben ugyanazt a kérelmet egy másik tagállamnak is megküldik, kérjük a másik tagállam és a felhasznált csatorna megnevezését (opcionális) |  |
-|  |  |
-
-II – Határidők
-
-Emlékeztető: A(z) 2006/960/IB kerethatározat 4. cikke szerinti határidők
-
-A – A bűncselekmény a 2002/584/IB kerethatározat 2. cikkének (2) bekezdésének hatálya alá tartozik
-
-és
-
-A kért információ vagy bűnüldözési operatív információ valamely bűnüldöző hatóság számára közvetlenül hozzáférhető adatbázisban található
-
-| → Sürgősségi kérelem | → Határidő: 8 óra, amely meghosszabbítható |
-| --- | --- |
-| → Nem sürgősségi kérelem | → Határidő: 1 hét (. |
-| B – Egyéb esetek: határidő: 14 nap (.. |  |
-
-| ⬜ Sürgősségi kérelem |
-| --- |
-| ⬜ NEM sürgősségi kérelem |
-| A sürgősség okai (például: a gyanúsított személyek őrizetbe vétele, az ügyet meghatározott időpont előtt a Bíróság elé kell utalni): |
-| A kért információ vagy bűnüldözési operatív információ: |
-|  |
-
-| A VIZSGÁLT BŰNCSELEKMÉNY(EK) VAGY BŰNÖZŐI TEVÉKENYSÉG(EK) TÍPUSA: |
-| --- |
-| Azon körülmények leírása, amelyek között a bűncselekmény(eke)t elkövették, beleértve annak / azoknak időpontját, helyét és azon személy bűncselekmény(ek)ben való részvételének mértékét, akivel kapcsolatban az információt vagy bűnüldözési operatív információt kérik: |
-
-| A bűncselekmény(ek) természete |  |
-| --- | --- |
-| A – A(z) 2006/960/IB kerethatározat 4. cikke (1) vagy (3) bekezdésének alkalmazása |  |
-| ⬜ A.1. A bűncselekmény a kérelmező tagállamban legalább három éves maximális időtartamú szabadságvesztéssel büntethető |  |
-| ÉS |  |
-| A.2. A bűncselekmény(ek) az alábbiakban felsoroltak közé tartozik / tartoznak: |  |
-| ⬜ Bűnszervezetben való részvétel ⬜ Terrorizmus ⬜ Emberkereskedelem ⬜ Gyermekek szexuális kizsákmányolása és gyermek-pornográfia ⬜ Kábítószerek és pszichotróp anyagok tiltott kereskedelme ⬜ Fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme ⬜ Korrupció ⬜ Csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalásokat is ⬜ Szervezett vagy fegyveres rablás ⬜ Kulturális javak – ideértve a régiségeket és műtárgyakat is – tiltott kereskedelme ⬜ Csalás ⬜ Zsarolás és védelmi pénz szedése ⬜ Termékhamisítás és szerzői jogbitorlás ⬜ Hivatalos okmányok hamisítása és az azokkal való kereskedés ⬜ Fizetőeszközök hamisítása ⬜ Hormontartalmú anyagok és más növekedésserkentők tiltott kereskedelme | ⬜ Bűncselekményekből származó jövedelmek tisztára mosása ⬜ Pénzhamisítás, ideértve az euro hamisítását is ⬜ Számítógépes bűncselekmények ⬜ Környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, valamint a veszélyeztetett növényfajok és növényfajták tiltott kereskedelmét is ⬜ Segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz ⬜ Szándékos emberölés, súlyos testi sértés ⬜ Emberi szervek és szövetek tiltott kereskedelme ⬜ Emberrablás, személyi szabadság megsértése és túszejtés ⬜ Rasszizmus és idegengyűlölet ⬜ Nukleáris és radioaktív anyagok tiltott kereskedelme ⬜ Lopott gépjárművek kereskedelme ⬜ Erőszakos közösülés ⬜ Gyújtogatás ⬜ A Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények ⬜ Légi vagy vízi jármű jogellenes hatalomba kerítése ⬜ Szabotázs |
-| → A bűncselekmény ezért az európai elfogatóparancsról szóló kerethatározat 2. cikke (2) bekezdésének hatálya alá tartozik → így a(z) 2006/960/IB kerethatározat 4. cikkének (1) bekezdése (sürgős esetek) és (3) bekezdése (nem sürgős esetek) alkalmazandó az ezen kérelem megválaszolására kiszabott határidők tekintetében |  |
-| ⬜ B – A bűncselekmény(ek) nem tartozik / tartoznak az A. pont hatálya alá.Ez esetben, a bűncselekmény(ek) leírása: |  |
-
-| Az információra vagy bűnüldözési operatív információra vonatkozó kérelem célja |
-| --- |
-|  |
-
-| Kapcsolat a kért információ vagy bűnüldözési operatív információ célja és azon személy között, akire az információ vagy bűnüldözési operatív információ vonatkozik |
-| --- |
-|  |
-
-| Azon személy(ek) személyazonossága (amennyiben ismert), aki(k)re az a bűnügyi nyomozás vagy bűnüldözési operatív művelet irányul, amely az információra vagy bűnüldözési operatív információra irányuló kérelem alapjául szolgál |
-| --- |
-|  |
-
-| Azon okok, amelyek alapján vélhető, hogy az információ vagy bűnüldözési operatív információ a megkeresett tagállamban található |
-| --- |
-|  |
-
-| Az e kérelemben található információ felhasználásának korlátozása a kérelem benyújtásának okától eltérő okokból, illetve a közbiztonságot közvetlenül fenyegető komoly veszély megelőzése érdekében |
-| --- |
-| ⬜ a felhasználás engedélyezett |
-| ⬜ a felhasználás engedélyezett, de az információ szolgáltatójának említése nélkül |
-| ⬜ az információ szolgáltatójának felhatalmazása nélkül nem használható fel |
-| ⬜ a felhasználás nem engedélyezett |
-
 ### 2. melléklet a 2002. évi LIV. törvényhez
-
-E törvény 16/B. § (1) bekezdése szerinti formanyomtatvány az alábbi adatokat tartalmazza:
-
-INFORMÁCIÓCSERE A(Z) 2006/960/IB TANÁCSI KERETHATÁROZAT SZERINTA MEGKERESETT TAGÁLLAM ÁLTAL KITÖLTENDŐ FORMANYOMTATVÁNYAZ INFORMÁCIÓ ÁTADÁSA/KÉSEDELME/ELUTASÍTÁSA ESETÉN
-
-E formanyomtatvány rendeltetése a kért információ és/vagy bűnüldözési operatív információ átadása, illetve a kérelmező hatóság tájékoztatása, amennyiben a rendes határidő betartása lehetetlen, amennyiben a kérelmet engedélyezés céljából be kell nyújtani valamely igazságügyi hatósághoz, vagy amennyiben az információ átadását elutasítják.
-
-Ez a formanyomtatvány az eljárás folyamán többször használható (például, ha a kérelmet először be kell nyújtani egy igazságügyi hatósághoz, majd a későbbiekben a kérelem végrehajtását el kell utasítani).
-
-| Megkeresett hatóság (név, cím, telefon, fax, e-mail, tagállam) |  |
-| --- | --- |
-| Ügyintéző adatai (opcionális): |  |
-| E válasz hivatkozási száma |  |
-| Az előző válasz dátuma és hivatkozási száma |  |
-|  |  |
-| A válasz a következő kérelmező hatóságnak szól |  |
-| A kérelem dátuma és időpontja |  |
-| A kérelem hivatkozási száma |  |
-
-| A(z) 2006/960/IB kerethatározat 4. cikke szerinti rendes határidők a következők lettek volna: |  |  |
-| --- | --- | --- |
-| A bűncselekmény a 2002/584/IB kerethatározat 2. cikke (2) bekezdésének hatálya alá tartozik és | Sürgősségi kérelem | → ⬜ 8 óra |
-| a kért információ vagy bűnüldözési operatív információ a megkeresett tagállam bűnüldöző hatósága számára közvetlenül hozzáférhető adatbázisban található | Nem sürgősségi kérelem | → ⬜ 1 hét |
-| Egyéb esetben |  | → ⬜ 14 nap |
-
-| A 2006/960/IB kerethatározat szerint átadott információ; a megadott információ és a bűnüldözési operatív információ |
-| --- |
-| 1. Az átadott információ vagy bűnüldözési operatív információ felhasználása |
-| ⬜ kizárólag az információ megadásának alapjául szolgáló célra, vagy a közbiztonságot azonnal és súlyosan fenyegető esemény megakadályozására használható fel; |
-| ⬜ egyéb célokra való felhasználása is engedélyezett, a következő feltételekre is figyelemmel (választható): |
-| 2. A forrás megbízhatósága |
-| ⬜ megbízható |
-| ⬜ többé-kevésbé megbízható |
-| ⬜ nem megbízható |
-| ⬜ nem megállapítható |
-| 3. Az információ vagy bűnüldözési operatív információ pontossága |
-| ⬜ bizonyos |
-| ⬜ a forrástól származik |
-| ⬜ másodkézből való – megerősített |
-| ⬜ másodkézből való – nem megerősített |
-| 4. A bűnügyi nyomozás vagy bűnüldözési operatív művelet eredményét, amelynek keretében az információcsere létrejött, jelenteni kell az információt átadó hatóságnak |
-| ⬜ nem |
-| ⬜ igen |
-| 5. Spontán információcsere esetében: okok, amelyek alapján feltételezhető, hogy az információ vagy bűnüldözési operatív információ segíthet a 2002/584/IB kerethatározat 2. cikke (2) bekezdésében említett bűncselekmények felderítésében, megelőzésében vagy kivizsgálásában: |
-
-| KÉSEDELEM – A(z) 2006/960/IB kerethatározat 4. cikke szerint alkalmazandó határidőn belül válaszadás nem lehetséges |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Az információ vagy bűnüldözési operatív információ megadása a megadott határidőn belül nem lehetséges az alábbiakban szereplő okok miatt: |  |  |  |  |
-| Az információ vagy bűnüldözési operatív információ megadásának valószínű ideje: |  |  |  |  |
-| ⬜ 1 nap | ⬜ | 2 nap | ⬜ | 3 nap |
-| ⬜ ... hét |  |  |  |  |
-| ⬜ 1 hónap |  |  |  |  |
-| ⬜ Az igazságügyi hatóság engedélyének kérelmezése megtörtént.Az engedély megadásához / elutasításához vezető eljárás várhatóan (...) hetet vesz igénybe. |  |  |  |  |
-
-| ELUTASÍTÁS – Az információ vagy bűnüldözési operatív információ megadása: |  |
-| --- | --- |
-| ⬜ nem lehetséges és nem kérelmezhető nemzeti szinten; vagy |  |
-| ⬜ nem lehetséges az alábbiakban szereplő ok(ok) miatt: |  |
-| A – A bírósági felülvizsgálathoz kapcsolódó ok, amely nem teszi lehetővé az információ átadását, vagy kölcsönös jogsegély igénybevételét teszi szükségessé |  |
-|  | ⬜ az illetékes igazságügyi hatóság nem engedélyezte az információhoz vagy a bűnüldözési operatív információhoz való hozzáférést és annak cseréjét |
-|  | ⬜ a kért információt vagy bűnüldözési operatív információt korábban kényszerítő intézkedések révén szerezték meg, és annak rendelkezésre bocsátása a nemzeti jog szerint nem engedélyezett |
-|  | ⬜ az információ vagy bűnüldözési operatív információ |
-|  | – nincs a bűnüldöző hatóságok birtokában; vagy |
-|  | – nincs hatóságok vagy magánszervek birtokában olyan formában, amely a bűnüldöző hatóságok számára kényszerítő intézkedések megtétele nélkül elérhetővé teszi azokat |
-| ⬜ B – Az információ vagy bűnüldözési operatív információ rendelkezésre bocsátása alapvető nemzetbiztonsági érdekeket sértene vagy folyamatban lévő nyomozás vagy bűnüldözési operatív művelet sikerét, vagy egyének biztonságát veszélyeztetné, vagy nyilvánvalóan nem állna arányban a kérelemben foglalt céllal, illetve a cél szempontjából lényegtelen lenne. |  |
-| Az „A” vagy „B” pont választása esetén, amennyiben szükségesnek ítéli, adjon további információt vagy indokot (...) az elutasításra vonatkozóan (kitöltése nem kötelező): |  |
-| ⬜ D – A megkeresett hatóság a kérelem végrehajtásának elutasítása mellett dönt, mivel a kérelem a következő, a megkeresett állam jogszabályai szerint egy év vagy annál rövidebb időtartamú szabadságvesztéssel büntethető bűncselekményre vonatkozik (a bűncselekmény jellegének és jogi besorolásának megadása): |  |
-| ⬜ E – Az információ vagy bűnüldözési operatív információ nem áll rendelkezésre |  |
-| ⬜ F – A kérelmezett információt vagy bűnüldözési operatív információt más tagállam vagy harmadik állam bocsátotta rendelkezésre, arra a specialitás elve vonatkozik, és az érintett állam nem járult hozzá annak átadásához. |  |
 
 ### 3. melléklet a 2002. évi LIV. törvényhez
 
