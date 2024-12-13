@@ -2121,11 +2121,11 @@ A nyilatkozattevő a 143. § szerinti jóváhagyás birtokában igazolhatja, hog
 
 #### 146. § [Az általános forgalmi adó biztosítása alóli mentesség kérelmezése]
 
-(1) A vámhatóság kérelemre engedélyezi az általános forgalmi adó biztosítása alóli mentességet a vámigazgatási eljárásban annak a saját nevében eljáró adóalanynak,
+(1) A vámhatóság kérelemre engedélyezi az általános forgalmi adó biztosítása alóli mentességet a vámigazgatási eljárásban annak a saját nevében eljáró adóalanynak, aki a kérelem elbírálásának időpontjában, az alábbi feltételek mindegyikének megfelel:
 
-- a) aki nem áll csődeljárás, felszámolási eljárás, végelszámolási eljárás, kényszertörlési eljárás alatt,
-- b) akinek a kérelem elbírálásának időpontjában nincs és folyamatos működés mellett a tárgyévet megelőző két egymást követő naptári éven belül nem keletkezett a vámhatóság hatáskörébe tartozó vám és egyéb terhek tekintetében tartozása, és
-- c) aki a tárgyévben és az azt megelőző két évben nem állt és nem áll adószámtörlés hatálya alatt.
+- a) nem áll csődeljárás, felszámolási eljárás, végelszámolási eljárás, kényszertörlési eljárás hatálya alatt,
+- b) nincs és folyamatos működés mellett a tárgyévet megelőző két egymást követő naptári éven belül nem keletkezett a vámhatóság hatáskörébe tartozó vám és egyéb terhek tekintetében tartozása,
+- c) a tárgyévben és az azt megelőző két évben nem állt és nem áll adószámtörlés hatálya alatt.
 
 (2) Az (1) bekezdés b) pontja alkalmazásában nem minősül tartozásnak
 
@@ -2141,9 +2141,11 @@ A nyilatkozattevő a 143. § szerinti jóváhagyás birtokában igazolhatja, hog
 
 (5) Mentes az általános forgalmi adó biztosítása alól a vámigazgatási eljárásban a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó.
 
+(5a) A Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedély felfüggesztésének időtartama alatt az (5) bekezdésben biztosított mentesség nem vehető igénybe.
+
 (6) Az (1) és (3) bekezdés szerinti engedély alapján az általános forgalmi adó biztosítása alóli mentesség vagy kedvezmény nem engedélyezhető, ha a szabad forgalomba bocsátásra bejelentett áruk vonatkozásában a vámeljárás során a vámhatóság a megállapított általános forgalmi adó megfizetésének felfüggesztéséről rendelkezik.
 
-(7) Az (1) bekezdésben meghatározott feltételek teljesítése esetén a vámhatóság által kiadott engedély a hatályba lépést követően határozatlan időtartamra érvényes.
+(7) Az (1) bekezdésben meghatározott feltételek teljesítése esetén a vámhatóság által kiadott engedély a hatályba lépést követően határozatlan időtartamra érvényes. Az (1) bekezdésben meghatározott feltételeknek az engedély érvényességi ideje alatt folyamatosan teljesülni kell.
 
 (8) Az (1), (3) és (5) bekezdés szerinti mentesség, illetve kedvezmény vonatkozik a nem üzemanyagcélú földgáz, a villamos energia és a szén jövedéki adójának biztosítására is.
 
