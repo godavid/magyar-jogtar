@@ -753,7 +753,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 - a) az 500 fő és az az alatti lakosságszámú település esetében a nemzetgazdasági átlagkereset 1,5-szeresének;
 - b) az 501–1500 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset 1,75-szeresének;
 - c) az 1501–2000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset kétszeresének;
-- d) a 2001–5000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset a település 2,25-szeresének;
+- d) a 2001–5000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset 2,25-szeresének;
 - e) az 5001–10 000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset két és félszeresének;
 - f) a 10 001–30 000 fő közötti lakosságszámú település esetében a nemzetgazdasági átlagkereset háromszorosának;
 - g) a 30 000 fő feletti lakosságszámú település esetében a nemzetgazdasági átlagkereset három és félszeresének

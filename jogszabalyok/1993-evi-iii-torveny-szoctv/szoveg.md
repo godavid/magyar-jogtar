@@ -894,7 +894,7 @@ gondoskodik.
   - ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybevételének, illetve a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg, vagy
   - ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak a szülő rendszeres közreműködésével valósítható meg;
 - b) – a gyermeknevelési támogatás, valamint a nem a gyermekek otthongondozási díjára jogosító gyermekre tekintettel folyósított csecsemőgondozási díj, az örökbefogadói díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, továbbá a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja a gyermekek otthongondozási díjának összegét, ide nem értve az (5) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet a gyermekek otthongondozási díja folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak;
-- c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve felsőoktatási intézmény nappali képzésben részt vevő hallgatója; vagy
+- c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve a doktori képzés kivételével felsőoktatási intézmény teljes idejű képzésben részt vevő hallgatója; vagy
 - d) keresőtevékenységet folytat és munkaideje – az otthon történő munkavégzés kivételével – a napi 4 órát meghaladja.
 
 (2) A gyermekek otthongondozási díjára való jogosultságot meg kell szüntetni, ha
@@ -983,7 +983,7 @@ személy.
   - ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybevételének, illetve a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg,
   - ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak az ápolást végző személy rendszeres közreműködésével valósítható meg,
 - b) – a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja az ápolási díj összegét, ide nem értve a (4) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet az ápolási díj folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak,
-- c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve felsőoktatási intézmény nappali képzésben részt vevő hallgatója,
+- c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve a doktori képzés kivételével felsőoktatási intézmény teljes idejű képzésben részt vevő hallgatója,
 - d) keresőtevékenységet folytat és munkaideje – az otthon történő munkavégzés kivételével – a napi 4 órát meghaladja.
 
 (1a) A 41. § (1a) bekezdés b) pontja alapján a jogosultság nem állapítható meg, ha a nevelőszülő nevelőszülői foglalkoztatási, hivatásos nevelőszülői vagy nevelőszülői jogviszonya a működtető azonnali hatályú felmondása vagy a Gyvt. 2013. december 31-én hatályos 66/E. § (3) bekezdése alapján szűnt meg.

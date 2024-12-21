@@ -2088,7 +2088,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 94/A. § A kiegészítő mellékletben be kell mutatni a külföldi telephelyek főbb adatait telephelyenként külön-külön, így különösen azok megnevezését, címét, befogadó országát, a működéshez tartósan rendelkezésre bocsátott eszközök értékét, a külföldi gazdálkodásból származó követelések és kötelezettségek, a külföldi gazdálkodásból származó adózott eredmény és a külföldön befizetett főbb adók összegét.
 
-94/B. § A vállalkozó a kiegészítő mellékletében bemutatja a környezetvédelemi, sport, egészségügyi, szociális, kulturális és oktatási területen közérdekű célból, közhasznú tevékenységet végző civil szervezetnek ellentételezés nélkül az üzleti évben nyújtott pénzbeli és természetbeni juttatásokat.
+#### 94/B. §
 
 ### Üzleti jelentés
 

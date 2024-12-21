@@ -971,7 +971,7 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 - a) a forgalmazással, szolgáltatásnyújtással,
 - b) a gyermek- és fiatalkorúak védelmével,
 - c) a fogyasztói csoporttal,
-- d) a panaszkezeléssel, ügyfélszolgálattal, fogyasztóvédelmi referens foglalkoztatásával, valamint
+- d) a panaszkezeléssel, ügyfélszolgálattal, fogyasztóvédelmi referens foglalkoztatásával, és
 - e) a vállalkozásnak a békéltető testületre vonatkozó 17/A. § (1a) bekezdése szerinti tájékoztatási, valamint a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségével összefüggő, e törvényben és a végrehajtására kiadott jogszabályokban foglalt rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2) A fogyasztóvédelmi hatóság ellenőrzi a külön jogszabályban fogyasztóvédelmi rendelkezésként meghatározott rendelkezések betartását, és – ha a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény eltérően nem rendelkezik – eljár azok megsértése esetén.
