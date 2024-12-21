@@ -4,7 +4,7 @@ a Nemzetközi Valutaalap Alapokmánya módosításának kihirdetéséről és Ma
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Valutaalap Alapokmánya (a továbbiakban: Alapokmány) a Nemzetközi Valutaalap Kormányzótanácsa 66–2. számú határozatával (a továbbiakban: határozat) történő módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
 
-2. § Az Országgyűlés a határozat alapján elfogadja Magyarország kvótájának 1940 millió SDR-re (Special Drawing Rights: Különleges Lehívási Jogok) történő megemelését.
+#### 2. §
 
 3. § Az Országgyűlés a Módosítást e törvénnyel hirdeti ki.
 

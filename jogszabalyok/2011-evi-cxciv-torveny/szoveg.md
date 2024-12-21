@@ -11,7 +11,7 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 - a) fejlesztés: olyan – alapvetően felhalmozási kiadásokban megtestesülő – tevékenység, amely új, vagy a korábbinál műszaki, technikai szempontból korszerűbb tárgyi eszközök létrehozására, vagy meglevő tárgyi eszközök műszaki, technikai paramétereinek javítására irányul,
 - b) kormányzati szektorba sorolt egyéb szervezet: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 1. § 12. pontja szerinti szervezet,
 - c) kormányzati szektor egyenlege: az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló 2009. május 25-i 479/2009/EK tanácsi rendelet alapján számított egyenleg,
-- d) középtávú költségvetési cél: a költségvetési egyenleg felügyeletének megerősítéséről és a gazdaságpolitikák felügyeletéről és összehangolásáról szóló 1997. július 7-i 1466/97/EK tanácsi rendelet szerint készített aktuális konvergencia programban meghatározott célérték, ami összhangban van a stabilitási és növekedési paktum követelményeivel,
+- d)
 - e) strukturális egyenleg: a kormányzati szektor gazdaság ciklikus hatásaitól és egyedi tételektől megtisztított egyenlege,
 - f) államadósság: az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló, 2009. május 25-i 479/2009/EK tanácsi rendeletben meghatározott módon számított adósság.
 
@@ -30,20 +30,17 @@ e törvény szerinti értéke szerepel.
 
 #### 2. Az adósságcsökkentés
 
-3/A. § (1) A központi költségvetésről szóló törvényben a kormányzati szektor egyenlegéről az Alaptörvénnyel és az Európai Unió jogával összhangban, e törvény rendelkezéseinek megfelelően kell dönteni.
+3/A. § (1) A központi költségvetésről szóló törvényben a kormányzati szektor egyenlegéről az Alaptörvénnyel és az Európai Unió jogával összhangban kell dönteni.
 
-(2) A kormányzati szektor egyenlegét úgy kell meghatározni, hogy
+(2) Az Alaptörvényből és az Európai Unió jogából következő egyenleg számítási módját, – különös tekintettel a strukturális egyenleg számítására – és az ahhoz szükséges paramétereket az államháztartásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi.
 
-- a) összhangban legyen a középtávú költségvetési cél elérésével, és
-- b) annak hiánya ne haladja meg a bruttó hazai termék 2. § (1) bekezdés b) pontja szerint számított mértékének 3%-át.
-
-(3) Az Alaptörvényből és az Európai Unió jogából következő egyenleg számítási módját, – különös tekintettel a strukturális egyenleg számítására – és az ahhoz szükséges paramétereket az államháztartásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi.
+3/B. § Az államháztartásért felelős miniszter tárgyév április 30-ig és október 31-ig előrejelzést készít a bruttó hazai össztermék tárgyévi várható éves reálnövekedéséről. Ha ezen előre jelzett reálnövekedési érték és a tárgyévet megelőző, a Központi Statisztikai Hivatal által közzétett tény reálnövekedési érték összege magasabb, mint a központi költségvetés tervezésének alapjául szolgáló makrogazdasági pályában a két év reálnövekedési értékének összege, akkor ezen kedvezőbb makrogazdasági helyzet miatt keletkező eredményszemléletű éves adó- és adójellegű bevételi többlet összegével – levonva abból a fizetendő nyugdíjprémium tervezetten felüli összegét – csökkenti az 1. § c) pontja szerinti kormányzati szektor egyenleg tárgyévre vonatkozó kormányzati célértékét (a továbbiakban: hiánycél). Az új hiánycélról és az ahhoz kapcsolódó számításról az államháztartásért felelős miniszter határozatot hoz.
 
 4. § (1) A központi költségvetésről szóló törvényben meg kell határozni a költségvetési év utolsó napjára tervezett államadósság-mutató értékét.
 
 (2)
 
-(2a) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy az államadósság-mutatónak a viszonyítási évhez viszonyított csökkenése, az államadósság csökkentésre vonatkozó európai uniós szabályok érvényesítése mellett legalább 0,1 százalékpontot érjen el.
+(2a) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni – amennyiben az Alaptörvénnyel és az Európai Unió jogával összhangban annak csökkentése szükséges – hogy a viszonyítási évhez viszonyítottan csökkenjen.
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
 
@@ -489,6 +486,8 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 29. § (1) Fizetési kötelezettséget előírni, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmények, mentességek körét és mértékét megállapítani kizárólag törvényben, vagy törvény felhatalmazása alapján önkormányzati rendeletben lehet, kivéve, ha az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérően rendelkezik. Fizetési kötelezettség előírása szempontjából a jogi személyek egyes típusait hátrányosan megkülönböztetni nem lehet.
 
 (2) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – a Kormány rendeletben állapíthatja meg a pótlék mértékét. Igazgatási szolgáltatási díjat, pótdíjat – törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet felhatalmazása alapján – a miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapíthat meg.
+
+(2a) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – az államháztartásért felelős miniszter egyetértésével a miniszter a fizetési kötelezettség tételes összegét rendeletben állapíthatja meg, feltéve, hogy törvény meghatározza a fizetési kötelezettséget, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, illetve számítási módját, és az esetleges mentességek, kedvezmények körét, azzal, hogy a fizetési kötelezettség összegének meghatározása az érintett, fizetésre kötelezett jogalanyok tekintetében hátrányos megkülönböztetést nem eredményezhet.
 
 (3) Törvény felhatalmazása alapján
 

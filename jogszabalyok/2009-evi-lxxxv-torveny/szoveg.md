@@ -538,6 +538,8 @@ köteles megőrizni, illetve tárolni.
 
 36/E. § A fogyasztó díjtól és költségtől mentesen jogosult benyújtani a fizetési számlája terhére a Magyar Nemzeti Bank elnöke által – a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (3) bekezdés a) pontjában meghatározott felhatalmazás alapján – kiadott rendeletben meghatározott egységes adatbeviteli megoldás útján vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízást.
 
+36/F. § A kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) szerinti vendéglátás tevékenységet végző üzlet számára fizetési műveletek elfogadását nyújtó pénzforgalmi szolgáltató biztosítja annak technikai feltételeit, hogy a fizető fél által adott Kertv. szerinti borravalót a munkavállaló akkor is megkaphassa, ha a fogyasztó a fizetést készpénz-helyettesítő fizetési eszközzel, vagy azonnali átutalással teljesíti.
+
 ### VIII. Fejezet — FIZETÉSI MŰVELETEK JÓVÁHAGYÁSA
 
 37. § (1) Fizetési művelet teljesítésére – a hatósági átutalás és az átutalási végzés alapján végzett átutalás kivételével – akkor kerülhet sor, ha azt a fizető fél előzetesen jóváhagyta. A felek a keretszerződésben megállapodhatnak arról, hogy a jóváhagyás utólagos is lehet.

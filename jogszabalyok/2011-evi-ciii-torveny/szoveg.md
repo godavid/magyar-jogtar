@@ -175,11 +175,11 @@ adóköteles termék mennyisége termékenkénti bontásban.
 - a) a hatóság a rendelkező nyilatkozatban megjelölt összeget a Módtv. hatálybalépéséig még nem utalta át,
 - b) a hatóság által – a népegészségügyi termékadóról szóló 2011. évi CIII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 441/2023. (IX. 27.) Korm. rendelet (a továbbiakban: Kr.) hatálybalépését megelőzően – a kedvezményezett részére átutalt, élmény- és szabadidősport, valamint egészségmegőrző programra fel nem használt összeg a Kr. hatálybalépését követően az előirányzat javára teljesítésre került.
 
+11/B. § A népegészségügyi termékadó alanya a Neta tv. 2025 január 31-én hatályos 8. § (4) bekezdés szerinti rendelkező nyilatkozatot utoljára a 2025. január 31-ét magába foglaló bevallási időszakról szóló adóbevallásában tehet.
+
 ### II. Fejezet — BALESETI ADÓ
 
 #### 1. Az adókötelezettség, az adó alanya
-
-#### 11/B. §
 
 #### 2. Az adó alapja, mértéke
 

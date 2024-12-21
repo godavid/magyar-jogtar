@@ -704,6 +704,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (41) Az MNB a 39. § (1) bekezdés t) pontjában meghatározott feladatai során ellátja a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet végrehajtását.
 
+(42) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2631 európai parlamenti és tanácsi rendelet] végrehajtását, ide nem értve az (EU) 2023/2631 európai parlamenti és tanácsi rendelet 44. cikk (3) bekezdése szerinti európaizöldkötvény-kibocsátók felügyeletét.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -1554,7 +1556,12 @@ terjedhet.
 
 (11) A (10) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
 
-(12)
+(12) Az (EU) 2023/2631 európai parlamenti és tanácsi rendelet 49. cikk (1) bekezdés a) pontjában meghatározott jogsértések esetén a bírság mértéke
+
+- a) természetes személy esetében legfeljebb 19 250 000 forint,
+- b) jogi személy esetében legfeljebb 192 500 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel 0,5 százaléka azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel.
+
+(12a) A (12) bekezdésben meghatározott bírság esetén a bírság mértéke a jogsértésből származó nyereség vagy az amiatt elkerült veszteség legfeljebb kétszerese, ha a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegszerűen meghatározható.
 
 (13) Az Európai Parlament és a Tanács (EU) 2015/2365 rendelete megsértése esetén
 
@@ -3436,6 +3443,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - 23. (39) bekezdése az (EU) 2021/1230 európai parlamenti és tanácsi rendelet
 - 24. (40) bekezdése a megosztott főkönyvi technológián alapuló piaci infrastruktúrák kísérleti rendszeréről, valamint a 600/2014/EU és a 909/2014/EU rendelet, továbbá a 2014/65/EU irányelv módosításáról szóló, 2022. május 30-i (EU) 2022/858 parlamenti és tanácsi rendelet
 - 25. (41) bekezdése a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
+- 26. (42) bekezdése az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet,
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

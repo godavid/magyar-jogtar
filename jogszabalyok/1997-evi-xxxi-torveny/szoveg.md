@@ -121,7 +121,7 @@ ha az e törvényben és más jogszabályban meghatározott feltételek szerint,
 
 6/A. § E törvényben foglalt célok és gyermeki jogok biztosítása érdekében tilos tizennyolc éven aluliak számára pornográf, valamint olyan tartalmat elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
 
-6/B. § A gyermek- és ifjúságpolitikáért felelős miniszter feladata a gyermekeket érő elektroakusztikus zaj egészségkárosító hatásait mérséklő és e zajforrások által kiváltott hatásokkal szembeni védekezéssel kapcsolatos tudatosságot elősegítő intézkedések kezdeményezése. A miniszter e célok elérése érdekében tájékoztató kampányokat kezdeményez, amelyek segítik a szülői tudatosságot és ösztönözik az elektroakusztikus hangosítás igénybevétele mellett tartott nyilvános rendezvények szervezőit az egészségmegóvás támogatására.
+6/B. § A gyermek- és ifjúságpolitikáért felelős miniszter feladata a gyermekeket érő elektroakusztikus zaj egészségkárosító hatásait mérséklő és e zajforrások által kiváltott hatásokkal szembeni védekezéssel összefüggő tudatosságot elősegítő intézkedések kezdeményezése. A miniszter e célok elérése érdekében tájékoztató kampányokat kezdeményez, amelyek segítik a szülői tudatosságot és ösztönözik az elektroakusztikus hangosítás igénybevétele mellett tartott nyilvános rendezvények szervezőit az egészségmegóvás támogatására.
 
 7. § (1) A gyermek szüleitől vagy más hozzátartozóitól csak saját érdekében, törvényben meghatározott esetekben és módon választható el. A gyermeket kizárólag anyagi okból fennálló veszélyeztetettség miatt nem szabad családjától elválasztani.
 
