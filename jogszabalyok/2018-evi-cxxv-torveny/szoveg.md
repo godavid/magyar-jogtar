@@ -4907,7 +4907,9 @@ A központi hivatal vezetője és a központi hivatal vezetőjének helyettese k
 
 (2) A kormányhivatal hivatali szervezetét vezető főigazgatót a főispán javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
 
-(3) Főigazgatónak az nevezhető ki, aki felsőfokú iskolai végzettséggel és legalább 5 év vezetői gyakorlattal rendelkezik. A kormányhivatalt vezető főispán kérelmére a kormányhivatal irányítására kormányrendeletben kijelölt miniszter a vezetői gyakorlat megléte alól kivételesen indokolt esetben felmentést adhat.
+(3) A főigazgató kinevezésének a 82. §-ban meghatározottakon felüli – szakmai és képesítési – feltételeit a kormányhivatal irányítására kormányrendeletben kijelölt miniszter határozza meg.
+
+(4) A főigazgató vonatkozásában nem alkalmazandó az 58. § (2) bekezdése.
 
 #### 249. § [A főigazgató feletti munkáltatói jogkör gyakorlása]
 
@@ -4921,15 +4923,17 @@ A főigazgató felett – a kinevezés, a felmentés, a fegyelmi eljárás megin
 
 ### XXXIII. Fejezet — A SZAKMAI VEZETŐ
 
-#### 250/A. § [A szakmai vezetőre alkalmazandó szabályok]
+250/A. § (1) A szakmai vezető kormányzati szolgálati jogviszonyára – az e törvényben meghatározott eltérésekkel és kivételekkel – a kormányzati szolgálati jogviszonyra vonatkozó általános szabályokat kell alkalmazni.
 
-A szakmai vezető kormányzati szolgálati jogviszonyára – az e törvényben meghatározott eltérésekkel és kivételekkel – a kormányzati szolgálati jogviszonyra vonatkozó általános szabályokat kell alkalmazni.
+(2) A kormányhivatal igazgatója, a hivatalvezető, valamint a hivatalvezető-helyettes kinevezésének a 82. §-ban meghatározottakon felüli – szakmai és képesítési – feltételeit a kormányhivatal irányítására kormányrendeletben kijelölt miniszter határozza meg.
+
+(3) A (2) bekezdésben felsorolt szakmai vezetők vonatkozásában nem alkalmazandó az 58. § (2) bekezdése.
 
 #### 251. § [A kormányhivatal igazgatójának kinevezése]
 
 (1) A kormányhivatal igazgatóját a főigazgató javaslatára a főispán nevezi ki és menti fel. A főigazgatói álláshely betöltetlensége vagy a főigazgató akadályoztatása esetén a kormányhivatal igazgatójának kinevezéséről a főispán dönt.
 
-(2) Kormányhivatal igazgatójának az nevezhető ki, aki felsőfokú igazgatásszervezői, közigazgatás-szervezői, védelmi igazgatási menedzser vagy jogász szakképzettséggel vagy okleveles közigazgatási menedzser, okleveles közigazgatási szakértő, vagy közgazdász szakképzettséggel, valamint jogi vagy közigazgatási szakvizsgával, államtudományi okleveles mester szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
+(2)
 
 #### 252. § [A kormányhivatal igazgatója feletti munkáltatói jogkör gyakorlása]
 
@@ -4949,7 +4953,7 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 
 (1) A hivatalvezetőt a főispán javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
 
-(2) Hivatalvezetőnek az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal vagy felsőfokú végzettséggel és közigazgatási szervnél vezetői munkakörben vagy vezetői álláshelyen eltöltött legalább három év gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a vármegyei közgyűlési elnöki és a polgármesteri tisztség ellátása is. A főispán kérelmére a kormányhivatal irányítására kormányrendeletben kijelölt miniszter a közigazgatási gyakorlat, illetve a vezetői gyakorlat megléte alól kivételesen indokolt esetben felmentést adhat.
+(2)
 
 (3) A hivatalvezető a kinevezésében megjelölt időpontban lép hivatalba. A kinevezett hivatalvezető a kormányhivatal irányítására kormányrendeletben kijelölt miniszter előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
@@ -4990,7 +4994,7 @@ A hivatalvezető illetményét a főispán javaslatára a kormányhivatal irány
 
 (1) A hivatalvezető-helyettest a hivatalvezető javaslatára a főispán nevezi ki és szünteti meg a jogviszonyát.
 
-(2) Hivatalvezető-helyettesnek az nevezhető ki, aki felsőoktatásban államtudományi, közigazgatási, rendészeti és katonai képzési területen szerzett szakképzettséggel, jogi képzési területen szerzett jogász szakképzettséggel, valamint gazdaságtudományok képzési területen szerzett szakképzettséggel, és közigazgatási szervnél vezetői munkakörben vagy vezetői álláshelyen eltöltött legalább egy év gyakorlattal rendelkezik.
+(2)
 
 #### 261. § [A hivatalvezető-helyettes feletti munkáltatói jogok gyakorlása]
 

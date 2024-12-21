@@ -33,7 +33,7 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 3/C. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében –
 
 - a) az államnak
-  - aa) a HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaságban és
+  - aa)
   - ab) a TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságban
 
 a tulajdonában álló, 3. melléklet szerinti társasági részesedését, valamint
@@ -209,7 +209,7 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 | --- | --- | --- |
 | 1 | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló társasági részesedés megjelölése |
 | 2 | Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság | 100% |
-| 3 | HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság | 100% |
+| 3 |  |  |
 | 4 | TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságban | 100% |
 
 ### 4. melléklet a 2020. évi XXXVIII. törvényhez

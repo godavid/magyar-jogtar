@@ -172,12 +172,14 @@ jár.
 
 kérheti.
 
-(19) A fiatal felnőtt az életkezdési letéti számlán lévő összeg átvételére 23. életévének betöltése napjáig jogosult. A kiutaló
+(19) A fiatal felnőtt az életkezdési letéti számlán lévő összeg kifizetése iránti kérelmét legkésőbb a 23. életévének betöltése napján terjesztheti elő. A határidő elmulasztása jogvesztéssel jár. A kiutaló
 
-- a) a fiatal felnőtt 19. életévének betöltése után 90 napon belül postai úton írásbeli értesítést küld az életkezdési letéti számlán lévő összeg kifizetésével kapcsolatban azon fiatal felnőtt számára, aki a 18. életévének betöltése után 1 évig nem kérte annak kifizetését;
-- b) a fiatal felnőtt 22. életévének betöltése után 90 napon belül postai úton írásbeli értesítést küld az életkezdési letéti számlán lévő összeg kifizetésével kapcsolatban azon fiatal felnőtt számára, aki a 18. életévének betöltése után 4 évig nem kérte annak kifizetését;
+- a) a fiatal felnőtt 19. életévének betöltése után 90 napon belül írásbeli értesítést küld az életkezdési letéti számlán lévő összeg kifizetésével kapcsolatban azon fiatal felnőtt számára, aki a 18. életévének betöltése után 1 évig nem kérte annak kifizetését;
+- b) a fiatal felnőtt 22. életévének betöltése után 90 napon belül írásbeli értesítést küld az életkezdési letéti számlán lévő összeg kifizetésével kapcsolatban azon fiatal felnőtt számára, aki a 18. életévének betöltése után 4 évig nem kérte annak kifizetését;
 - c) visszautalja az életkezdési letéti számlán lévő összeget az állam számára, amennyiben a fiatal felnőtt a 23. életévének betöltéséig nem kezdeményezi az életkezdési letéti számlán lévő összeg kifizetését;
 - d) megszünteti az életkezdési letéti számlát a c) pont szerinti visszautalás esetében.
+
+(19a) A kiutaló az életkezdési letéti számlán lévő összeget a fiatal felnőtt, illetve az örökös vagy örökösök kérelmére a megjelölt folyószámlára, vagy kifizetési utalványon utalja ki. Magyarországi lakcímmel nem rendelkező jogosult részére a kiutaló kizárólag folyószámlára történő átutalással teljesíti a kifizetést.
 
 (20) A számlavezető az életkezdési támogatás összegét a magyarországi lakcímmel rendelkező jogosult rendelkezése szerint átutalással vagy készpénzben, a magyarországi lakcímmel nem rendelkező jogosult számára pedig átutalással fizeti ki, melynek megtörténtéről a kiutalót tájékoztatja. A számlavezető egyéb díjat, költséget nem számíthat fel.
 
@@ -193,6 +195,8 @@ kérheti.
 azzal, hogy az önkormányzati rendelet az életkezdési támogatás felhasználására vonatkozó korlátozást csak az önkormányzat által befizetett összeg vagy összegek mértékéig tartalmazhat.
 
 (1a) A Start-számlán lévő állampapír befektetéséből származó kamatjövedelem nem minősül befizetésnek.
+
+(1b) A természetes személy által egy naptári évben történő befizetések összértéke nem haladhatja meg az 1 200 000 forintot.
 
 (2) Támogatás illeti meg
 
@@ -222,7 +226,7 @@ azzal, hogy az önkormányzati rendelet az életkezdési támogatás felhasznál
   - ac) a gyermek magyar állampolgárságáról való lemondásának napján,
   - ad) a gyermek adóazonosító jelének passzívvá válása napján,
   - ae) a gyermek halála esetén az elhalálozás napján,
-  - af) a gyermek jogosultságának bármely okból történő megszűnésének napján
+  - af) a gyermek jogosultságának bármely okból történő megszűnésének napján, ideértve a fiatal felnőtt 18. életévének betöltését
 
 a jóváírás évét megelőző naptári évre vonatkozóan a Központi Statisztikai Hivatal által hivatalosan közzétett éves átlagos fogyasztói árindex százalékos mértékével megegyező kamat, negatív éves fogyasztói árindex esetén nullaszázalékos kamat alapján a nyilvántartott követelés utolsó fordulónapjától számított időszakban meghatározott átlagos állománya után számított támogatást,
 
@@ -258,7 +262,7 @@ kibocsátásra kerülő, 19 éves futamidejű állampapírban kell kezelni.
 
 (8) Az életkezdési támogatást, illetőleg a gyermek halála esetén az örököst megillető összeget a fiatal felnőtt, illetőleg az örökös kérelmére
 
-- a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – a támogatásnak a 7. § (1) bekezdés b) pontja szerinti jóváírását követő 8 munkanapon belül a kérelemben megjelölt módon kifizeti;
+- a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – a kérelem kézhezvételétől számított 8 munkanapon belül a kérelemben megjelölt módon folyószámlára utalással vagy kifizetési utalványon postai úton fizeti ki;
 - b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – a támogatásnak a 6. § (5) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással, a magyarországi lakcímmel nem rendelkező jogosult esetében kizárólag átutalással fizeti ki.
 
 (9) A kiutaló a (8) bekezdésben említetteket megillető összeget az örökös kérelmének és a jogerős magyar nyelvű öröklési bizonyítvány vagy a magyar nyelvű hagyatéki határozat – feltéve, ha az a nemzetközi magánjog szabályai szerint Magyarországon joghatást fejt ki – eredeti vagy hiteles másolati példányának kézhezvételétől, valamint az örökös személyazonosságának igazolását követő 8 munkanapon belül

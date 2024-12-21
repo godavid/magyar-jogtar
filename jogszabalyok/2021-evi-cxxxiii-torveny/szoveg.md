@@ -84,6 +84,10 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 (2) A Beruházások során az Építtető az általa a vagyonkezelésében lévő ingatlanon végzett értékmegőrző, valamint értéknövelő fejlesztésekkel és beruházásokkal összefüggésben jogosult – selejtezési szabályzata figyelembevételével – a bontással járó munkálatok elvégzésére, a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, hulladékgyűjtő helyen történő elhelyezésére, továbbá jogosult megbízási szerződést kötni a tulajdonosi joggyakorlóval a hulladéknak nem minősülő vissznyereményi anyagok értékesítésére.
 
+#### 6/A. Egyes budapesti ingatlanok ingatlan-nyilvántartási helyzetének rendezéshez szükséges intézkedésekről
+
+6/A. § Az állami tulajdonban álló, Budapest V. kerület belterület 24512, 24513 és 24514 helyrajzi számú ingatlanokat (e § alkalmazásában a továbbiakban együtt: Ingatlanok) „kivett irodaház” megnevezésű ingatlanként kell nyilvántartásba venni. A művelés alól kivett terület elnevezése megváltozásának átvezetésére irányuló eljárást az MNV Zrt. kérelmére az ingatlanügyi hatóságként eljáró Budapest Főváros Kormányhivatala folytatja le. A művelés alól kivett terület elnevezése megváltozásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület elnevezése megváltozását, valamint az Ingatlanok helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.
+
 #### 7. Záró rendelkezések
 
 7. § (1) Ez a törvény – a (2)–(7) bekezdésben foglalt kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.

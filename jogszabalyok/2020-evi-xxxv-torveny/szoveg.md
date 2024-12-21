@@ -14,7 +14,7 @@ A művészeti, kreatív ipari képzési terület, ezen keresztül az innováció
 
 (4)
 
-2. §
+#### 2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
@@ -23,6 +23,14 @@ A művészeti, kreatív ipari képzési terület, ezen keresztül az innováció
 (2) Az (1) bekezdés alapján ingyenesen juttatott vagyonelemek tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
 (3)
+
+3/A. § (1) A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 13. § (1) és (9) bekezdése alapján – az Alapítvány KEKVA tv. 1. melléklete szerinti közfeladata ellátása és közérdekű céljainak megvalósítása érdekében – a Balatonakali, külterület 0108/23 helyrajzi számú, állami tulajdonú ingatlanon vagyonjuttatásként az Alapítvány javára ingyenes, határozatlan időre szóló, közfeladathoz rendelt vagyonkezelői jogot kell alapítani.
+
+(2) Az (1) bekezdés szerinti közfeladathoz rendelt vagyonkezelői jog megalapításával egyidejűleg az (1) bekezdés szerinti ingatlanon található, a közfeladat ellátására rendelkezésre álló állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva, az (1) bekezdés szerinti, közfeladathoz rendelt vagyonkezelői jog alapításának tárgyában megkötendő megállapodás létrejöttének napjával ingyenesen az Alapítvány tulajdonába kerülnek.
+
+3/B. § (1) A közfeladathoz rendelt vagyonkezelői jog alapítása vonatkozásában az állam képviseletében a KEKVA tv. 13. § (2) bekezdése alapján a Nemzeti Földalap kezeléséért felelős szerv jár el.
+
+(2) A 3/A. § (2) bekezdése alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -38,7 +46,7 @@ A művészeti, kreatív ipari képzési terület, ezen keresztül az innováció
 
 5. § (1) A 4. § alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint a (7) és (8) bekezdésében foglaltakat.
 
-(2) Az Egyetem a tulajdonába adott ingatlant – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+(2) Az Egyetem a tulajdonába adott ingatlant – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 (3) A 4. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -52,11 +60,11 @@ A művészeti, kreatív ipari képzési terület, ezen keresztül az innováció
 
 7. § A 3. § (1) és (2) bekezdése, valamint az 5. § (1) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. § Az 5. § (2) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+10. § A 3/A. § és az 5. § (2) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXV. törvényhez
 

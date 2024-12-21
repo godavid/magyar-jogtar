@@ -63,7 +63,7 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 4. § (1) A Program és a (3) bekezdésben foglalt tevékenységek kormányzati koordinációját az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter (a továbbiakban: miniszter) látja el.
 
-(2) A Program keretében nyújtott adományokkal és elszámolási kötelezettséggel nyújtott juttatásokkal kapcsolatos feladatokat a miniszter az Ügynökség útján látja el.
+(2) A Program keretében nyújtott adományokkal és elszámolási kötelezettséggel nyújtott juttatásokkal kapcsolatos feladatokat a miniszter elsősorban az Ügynökség útján látja el.
 
 (3) Az állami szervek, a központi költségvetési szervek, az államháztartás központi alrendszerébe sorolt köztestületek, a köztestületek által irányított költségvetési szervek, valamint egyéb közjogi szervezetek (ezen alcím alkalmazásában a továbbiakban: Szervezetek) a jogszabály alapján végzett nemzetközi fejlesztési együttműködési, nemzetközi humanitárius segítségnyújtási és stabilitást erősítő tevékenységük keretében nyújtott adományokkal és támogatásokkal kapcsolatos feladatokat az államháztartási szabályokkal összhangban az Ügynökség közreműködésével is elláthatják.
 
@@ -101,7 +101,7 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 (2) Magyarország a segítségnyújtást nemzetközi szervezetek és nemzetközi humanitárius segítségnyújtás célú alapok részére teljesített tagdíjak és önkéntes hozzájárulások útján is megvalósíthatja.
 
-12. § (1) A segítségnyújtás során a természeti és civilizációs katasztrófák által okozott humanitárius válságok, illetve elhúzódó válságok folytán felmerült szükségleteket és igényeket kell figyelembe venni.
+12. § (1) A segítségnyújtás során a természeti és civilizációs katasztrófák által okozott humanitárius válságok, humanitárius krízishelyzetek, illetve elhúzódó válságok folytán felmerült szükségleteket és igényeket kell figyelembe venni.
 
 (2) A segítségnyújtás keretében különösen a következő célokra nyújtható adomány:
 
@@ -162,11 +162,11 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 17. § A Program és az Ügynökség működtetéséhez szükséges pénzügyi fedezet biztosításáról a központi költségvetésről szóló törvény rendelkezik.
 
-18. § (1) A miniszter a Program működtetéséhez rendelkezésre álló fedezetet támogatásként az Ügynökség rendelkezésére bocsátja. Az Ügynökség az egyes részfeladatoknál rögzített módon teljesíthet kifizetést további kedvezményezettek részére.
+18. § (1) A miniszter a Program működtetéséhez rendelkezésre álló fedezetet támogatásként az Ügynökség rendelkezésére bocsátja. Az Ügynökség az egyes részfeladatoknál rögzített módon teljesíthet kifizetést további kedvezményezettek részére, e törvény rendelkezései szerint.
 
-(2) A Program keretében nyújtott nem pénzbeli juttatás beszerzése, nyilvántartása és eszközadomány nyújtása az Ügynökség útján történhet.
+(2) Az (1) bekezdés szerinti támogatás, továbbá az Ügynökség részére más költségvetési szerv által nyújtott támogatás tekintetében fennálló beszámolási kötelezettsége során a beszámolót az Ügynökség bizonylatok helyett könyvvizsgálói jelentéssel is alátámaszthatja.
 
-(3) A (2) bekezdés szerinti nem pénzbeli juttatás beszerzésére és adományozására e törvény rendelkezéseit kell alkalmazni.
+(3) A Program keretében nyújtott nem pénzbeli juttatás beszerzése, nyilvántartása és eszközadomány nyújtása az Ügynökség útján történhet.
 
 (4) A Program megvalósítása és finanszírozása érdekében az Ügynökség pályázatot nyújthat be a nemzetközi szervezetekhez, alapokhoz, valamint az Európai Unió szervezeteihez, alapjaihoz.
 
@@ -186,7 +186,7 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 
 #### 9. Az Ügynökség
 
-22. § (1) Az Ügynökség 100%-os állami tulajdonban álló nonprofit zártkörűen működő részvénytársaság, amely közfeladatként látja el a Program keretében odaítélt adományok és elszámolási kötelezettséggel nyújtott juttatások tekintetében a támogatói feladatokat.
+22. § (1) Az Ügynökség közhasznú jogállású, 100%-os állami tulajdonban álló nonprofit zártkörűen működő részvénytársaság, amely közfeladatként látja el a Program keretében odaítélt adományok és elszámolási kötelezettséggel nyújtott juttatások tekintetében a támogatói feladatokat.
 
 (2) Az Ügynökség felett a tulajdonosi jogokat a miniszter által vezetett minisztérium (a továbbiakban: tulajdonosi joggyakorló) gyakorolja.
 
@@ -225,26 +225,40 @@ Az Országgyűlés, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyet
 27. § Az Ügynökség ellátja az adományok, elszámolási kötelezettséggel nyújtott juttatások nyújtásával kapcsolatos egyes feladatokat, így különösen
 
 - a) felméri az adományozási és juttatási igényeket,
-- b) előkészíti az adományozási programokat és az adományozó leveleket,
+- b) előkészíti és végrehajtja az adományozási programokat és kiadja az adományozó leveleket,
 - c) előkészíti a pályázati felhívásokat és az elszámolási kötelezettséggel nyújtott juttatások okiratait,
 - d) lebonyolítja a pályázati eljárásokat,
 - e) elbírálja a pályázatokat és a juttatási kérelmeket,
-- f) a miniszter elé terjeszti szakmai felügyeleti ellenjegyzés céljából az adományozó leveleket, az elszámolási kötelezettséggel nyújtott juttatások okiratait,
-- g) eljár az adományozó levelek, az elszámolási kötelezettséggel nyújtott juttatási okiratok teljesítése érdekében,
-- h) elvégzi a nyújtott adományok és elszámolási kötelezettséggel nyújtott juttatások felhasználásával kapcsolatos monitoring feladatokat,
-- i) érvényesíti az adományozó levelekből, elszámolási kötelezettséggel nyújtott juttatások okirataiból eredő jogokat,
-- j) vezeti a nyújtott adományokkal és támogatásokkal kapcsolatos nyilvántartásokat,
-- k) ellátja az ösztöndíjprogramokkal kapcsolatos feladatokat,
-- l) ellátja a követeléskezelési feladatokat, továbbá
-- m) segélyezési programokat hajt végre.
+- f) elvégzi a nyújtott adományok és elszámolási kötelezettséggel nyújtott juttatások felhasználásával kapcsolatos monitoring feladatokat,
+- g) érvényesíti az adományozó levelekből, elszámolási kötelezettséggel nyújtott juttatások okirataiból eredő jogokat,
+- h) vezeti a nyújtott adományokkal és támogatásokkal kapcsolatos nyilvántartásokat,
+- i) ellátja az ösztöndíjprogramokkal kapcsolatos feladatokat,
+- j) ellátja a követeléskezelési feladatokat, továbbá
+- k) segélyezési programokat hajt végre.
+- l)
+- m)
 
 #### 11. Átláthatóság
 
-28. § (1) A miniszter a Program vonatkozásában minden év október 31-ig jelentést készít a Kormány részére az Ügynökség előző évi tevékenységéről.
+28. § (1) A miniszter a nemzetközi fejlesztési tevékenység vonatkozásában minden év október 31-ig jelentést készít a Kormány részére az Ügynökség előző évi tevékenységéről.
 
-(2) A Kormány a Program vonatkozásában évente egyszer beszámol az Országgyűlésnek az Ügynökség előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót az Ügynökség a honlapján nyilvánosságra hozza.
+(2) A Kormány a nemzetközi fejlesztési együttműködés keretében megvalósult tevékenységéről évente egyszer beszámol az Országgyűlésnek. A beszámolót az Ügynökség a honlapján nyilvánosságra hozza.
 
 (3) Az Ügynökség az adományban, támogatásban részesülő kedvezményezettekről, az adományok, támogatások iránt benyújtott igényekről és egyedi kérelmekről, a bevételekről és kiadásokról nyilvántartást vezet.
+
+(4) Ha a Program keretében nyújtott cél szerinti juttatásokkal, illetve a Program keretében kötött jogügyletekkel kapcsolatos adatok megismerésére vonatkozó igény teljesítése
+
+- a) Magyarország külpolitikai, külgazdasági érdekeinek illetéktelen külső befolyástól mentes érvényesítését, vagy nemzetbiztonsági érdekeit, illetve
+- b) honvédelmi érdekeit
+
+veszélyezteti, azok megismerése iránti igény teljesítését az e bekezdésben foglalt feltételeknek megfelelő adat tekintetében, annak keletkezésétől számított öt évig meg kell tagadni.
+
+(5) Az adatok megismerése iránti igény teljesíthetőségéről
+
+- a) a (4) bekezdés a) pont tekintetében a külgazdasági ügyekért felelős miniszter,
+- b) a (4) bekezdés b) pontja tekintetében a külgazdasági ügyekért felelős miniszter, a honvédelmi miniszter véleményének kikérését követően
+
+dönt.
 
 29. § A nemzetközi fejlesztési együttműködési tevékenység végrehajtásába bevont gazdasági szereplőre a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pont b) alpont ba) pontja, továbbá az Áht. 50. § (1) bekezdés c) pontja vonatkozik.
 
@@ -285,13 +299,13 @@ rendeletben állapítsa meg.
 
 - a) a nemzetközi fejlesztési együttműködési tevékenység formáit,
 - b) a stabilitást erősítő tevékenység formáit, továbbá
-- c) az adomány felhasználásával kapcsolatos beszámolási kötelezettség teljesítésének rendjét, valamint a teljesítés elmaradása esetén alkalmazandó intézkedéseket
+- c) az adomány felhasználásával kapcsolatos tájékoztatási kötelezettség teljesítésének rendjét, valamint a teljesítés elmaradása esetén alkalmazandó intézkedéseket
 
 rendeletben állapítsa meg.
 
 33. § Ez a törvény 2024. január 1-jén lép hatályba.
 
-34. § Az 5. § (2) bekezdés szerinti szakpolitikai stratégiát első alkalommal 2024. október 15-ig kell elkészíteni a 2025. évtől kezdődő időszak vonatkozásában.
+34. § Az 5. § (2) bekezdés szerinti szakpolitikai stratégiát első alkalommal 2025. október 15. napjáig kell elkészíteni a 2026. évtől kezdődő időszak vonatkozásában.
 
 #### 35. §
 

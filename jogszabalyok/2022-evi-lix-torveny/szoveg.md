@@ -276,9 +276,9 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 (7) Az 1. alcím, a 63. §, a 64. § és a 65. § (2) bekezdése 2027. január 1-jén lép hatályba.
 
-(8) A 85. §, a 86. §, a 89. § (2) bekezdése, a 90. § és a 4. melléklet a ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság állami tulajdonba vételének napján lép hatályba.
+(8) A 85. §, a 86. §, a 89. § (2) bekezdése, a 90. § és a 4. melléklet 2025. január 1-jén lép hatályba.
 
-(9) A 85. §, a 86. §, a 89. § (2) bekezdése, a 90. § és a 4. melléklet hatálybalépésének naptári napját a közigazgatás-szervezésért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(9)
 
 106. § A 81. § (1) bekezdése, a 83. §, a 86. §, a 89. §, a 90. § (1) bekezdése, a 93–96. §, 100. § (2), (3), (4) és (7) bekezdése, a 101. § (1) és (3) bekezdése, a 102. § (1) bekezdése, a 103. § (1) bekezdése, a 3. melléklet, a 4. melléklet, az 5. melléklet, a 6. melléklet, a 8. melléklet és a 10. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 

@@ -57,7 +57,7 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 - 17. tulajdonosi joggyakorló: aki a nemzeti vagyon felett az államot vagy a helyi önkormányzatot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására jogosult;
 - 18. üzleti vagyon: a nemzeti vagyon azon része, amely nem tartozik az állami vagyon esetén a kincstári vagyonba vagy a kivezetésre szánt állami vagyonba, az önkormányzati vagyon esetén a törzsvagyonba;
 - 19. vagyonkezelő:
-  - a) az állam tulajdonában álló nemzeti vagyon tekintetében: aa) költségvetési szerv, ab) helyi önkormányzat, nemzetiségi önkormányzat, valamint ezek társulásai, ac) az ab) alpontban felsoroltak fenntartása vagy irányítása alá tartozó intézmény, ad) köztestület, ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet, ag) országos törzshálózati vasúti pályát működtető többségi állami tulajdonú gazdasági társaság, ah) a törvény által kijelölt egyedileg meghatározott jogi személy.
+  - a) az állam tulajdonában álló nemzeti vagyon tekintetében: aa) költségvetési szerv, ab) helyi önkormányzat, nemzetiségi önkormányzat, valamint ezek társulásai, ac) az ab) alpontban felsoroltak fenntartása vagy irányítása alá tartozó intézmény, ad) köztestület, ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet, ag) országos törzshálózati vasúti pályát működtető többségi állami tulajdonú gazdasági társaság, ah) az országos törzshálózati vasúti pálya részét képező ingatlant fejlesztő, üzemeltető gazdasági társaság, amelyben az állam közvetlen vagy közvetett részesedése eléri a 10%-ot, ai) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti magán felsőoktatási intézmény, valamint az állam 100%-os tulajdonában álló gazdasági társaság által fenntartott felsőoktatási intézmény, aj) törvény által kijelölt, egyedileg meghatározott jogi személy.
   - b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében: ba) állam, helyi önkormányzat, nemzetiségi önkormányzat, helyi vagy nemzetiségi önkormányzati társulás, valamint ezek fenntartása vagy irányítása alá tartozó intézmény, bb) költségvetési szerv, bc) köztestület, bd) a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
   - c) az egyházi jogi személy, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
   - d) a nemzeti vagyonba tartozó víziközmű-létesítmények tekintetében az állam 100%-os tulajdonában álló gazdálkodó szervezet és a helyi önkormányzat közös – együttesen 100%-os – tulajdonában álló gazdálkodó szervezet.
@@ -165,7 +165,7 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 
 (3g) A helyi önkormányzat tulajdonában álló nemzetközi kereskedelmi repülőtér – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt – tulajdonjogát a helyi önkormányzat az állam javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
-(3h) A Kormány kiemelt nemzetgazdasági érdekből egyedi határozatban dönthet a 4. § (1) bekezdés h) pontja szerinti vagyon tekintetében földhasználati jog alapításáról, illetve osztott tulajdon létesítéséről.
+(3h) A Kormány kiemelt nemzetgazdasági érdekből egyedi határozatban dönthet a 4. § (1) bekezdés h) pontja szerinti vagyon, valamint e vagyoni körbe tartozó ingatlan részét képező, a 4. § (1) bekezdés d)–g) pontja szerinti kizárólagos állami vagyonba tartozó ingatlanrész tekintetében földhasználati jog alapításáról, illetve osztott tulajdon létesítéséről, valamint osztatlan közös tulajdon létrehozása, valamint annak megszüntetése érdekében e vagyon elidegenítéséről azzal, hogy az elidegenítés e vagyon állam általi működtetését nem veszélyeztetheti.
 
 (4) A 2. mellékletben megjelölt nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon e törvény erejénél fogva, a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
 
@@ -262,13 +262,15 @@ jóváhagyó határozata szükséges.
 
 #### 5. A nemzeti vagyon kezelése, hasznosítása
 
-11. § (1) A vagyonkezelői jog az (5) bekezdésben meghatározott kivétellel vagyonkezelési szerződéssel jön létre. A nemzeti vagyon tekintetében vagyonkezelési szerződés az (5) bekezdésben meghatározott kivétellel, továbbá a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető, és a vagyonkezelői jog kizárólag általuk gyakorolható.
+11. § (1) A vagyonkezelői jog az (5) bekezdésben meghatározott kivétellel vagyonkezelési szerződéssel jön létre. A nemzeti vagyon tekintetében vagyonkezelési szerződés az (5) bekezdésben meghatározott kivétellel, továbbá a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ai) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető, és a vagyonkezelői jog kizárólag általuk gyakorolható.
 
 (2) A nemzeti vagyon tekintetében haszonélvezeti jogot alapító szerződés a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető és a haszonélvezeti jog kizárólag általuk gyakorolható.
 
 (3) A vagyonkezelési szerződés, valamint a haszonélvezeti jogot alapító szerződés versenyeztetés nélkül köthető.
 
-(4) A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés e törvény erejénél fogva megszűnik, ha a vagyonkezelő vagy a haszonélvező a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, illetve b) alpont bd) vagy be) alpontjában meghatározott tulajdonosi szerkezete megváltozik. A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés megszűnésének időpontja az a nap, amelyen a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, vagy b) alpont bd) vagy be) alpontjában meghatározottaktól eltérő tulajdonosi szerkezetet eredményező tulajdonosváltozás bekövetkezik.
+(4) A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés – a (4a) bekezdésben foglalt kivétellel – e törvény erejénél fogva megszűnik, ha a vagyonkezelő vagy a haszonélvező a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, illetve b) alpont bd) vagy be) alpontjában meghatározott tulajdonosi szerkezete megváltozik. A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés megszűnésének időpontja az a nap, amelyen a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, vagy b) alpont bd) vagy be) alpontjában meghatározottaktól eltérő tulajdonosi szerkezetet eredményező tulajdonosváltozás bekövetkezik.
+
+(4a) A (4) bekezdéstől eltérően nem szűnik meg a vagyonkezelői jog, ha a vagyonkezelő tulajdonosi szerkezete úgy változik meg, hogy az továbbra is megfelel a 3. § (1) bekezdés 19. pont a) alpont ah) alpontjában foglaltaknak.
 
 (5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
 
@@ -332,6 +334,8 @@ foglalkoztatásra irányuló jogviszonyban álló személyek, vagy
 javára történik.
 
 (18) A (16) bekezdésben foglalt rendelkezést nem kell alkalmazni, amennyiben természetes személy vagy 100%-ban magántulajdonban álló gazdálkodó szervezet a nemzeti vagyon használója, és a használatában álló nemzeti vagyont hasznosítja.
+
+(19) A (10) bekezdésnek a nemzeti vagyon hasznosítására köthető határozott idejű szerződés időtartamára vonatkozó, valamint a (16) bekezdésben foglalt rendelkezéseket nem kell alkalmazni, amennyiben a 3. § (1) bekezdés 19. pont a) alpont ah)–ai) alpontja szerinti vagyonkezelő a vagyonkezelésében álló nemzeti vagyont hasznosítja.
 
 11/A. § (1) A kivezetésre szánt állami vagyon vagyonkezelésbe nem adható, azon haszonélvezeti jog nem alapítható, továbbá e vagyon ingyenesen nem hasznosítható.
 
@@ -2251,7 +2255,7 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | 25 | Magyar Exporthitel Biztosító Zrt. | 100% |
 | 26 | Magyar Posta Zrt. | 75% + 1 szavazat |
 | 27 | MÁV Magyar Államvasutak Zrt. | 100% |
-| 28 | Győr-Sopron-Ebenfurti Vasút Zrt. | 65,6% |
+| 28 | Győr-Sopron-Ebenfurti Vasút Zrt. | 71,7622% |
 | 29 | Magyar Fejlesztési Bank Zrt. | 100% |
 | 30 | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft. | 100% |
 | 31 | HM Elektronikai, Logisztikai és Vagyonkezelő Zrt. | 100% |
@@ -2349,7 +2353,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 1.22. | Szentendrei út |  | római polgárvárosi amfiteátrum romjai |
 | V. kerület |  |  |  |
 | 1.23. | Ferenciek tere 6. |  | Egyetemi Könyvtár |
-| 1.24. | József A. u. 6. (Nádor u. 2.) |  | Pollack Mihály háza |
+| 1.24. |  |  |  |
 | 1.25. | Károlyi M. u. 16. |  | Károlyi-palota |
 | 1.26. | Kossuth L. tér 11. |  | Földművelésügyi Minisztérium |
 | 1.27. | Kossuth L. tér 12. |  | Kúria |

@@ -24,9 +24,27 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs cél
 
 #### 8. §
 
-#### 9. §
+9. § A Tpt. 400. §-a a következő (3d) bekezdéssel egészül ki:
 
-10. § (1)
+„(3d) Az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2631 rendelet] megsértése esetén a Felügyelet – a fokozatosság és arányosság figyelembevételével – az alábbi intézkedéseket, szankciókat alkalmazhatja:
+
+- a) előírja a kibocsátók számára, hogy tegyék közzé az (EU) 2023/2631 rendelet 10. cikke szerinti, európai zöldkötvényre vonatkozó adatlapokat, vagy ezen adatlapokon tüntessék fel az (EU) 2023/2631 rendelet I. mellékletében meghatározott információkat,
+- b) előírja a kibocsátók számára, hogy felülvizsgálatokat és értékeléseket tegyenek közzé,
+- c) előírja a kibocsátók számára, hogy éves allokációs jelentéseket tegyenek közzé, vagy az éves allokációs jelentésekben tüntessék fel az (EU) 2023/2631 rendelet II. mellékletében meghatározott információkat,
+- d) előírja a kibocsátók számára, hogy hatásjelentést tegyenek közzé, vagy a hatásjelentésben tüntessék fel az (EU) 2023/2631 rendelet III. mellékletében meghatározott információkat,
+- e) előírja a kibocsátók számára, hogy a közzétételről az (EU) 2023/2631 rendelet 15. cikk (4) bekezdésével összhangban értesítsék a Felügyeletet,
+- f) amennyiben a kibocsátók az (EU) 2023/2631 rendelet 21. cikkében meghatározott egységes mintadokumentumokat használják, előírja e kibocsátók számára, hogy az ott meghatározott elemeket tüntessék fel a kibocsátást követő rendszeres időközönkénti közzétételeikben,
+- g) előírja a könyvvizsgálók és a kibocsátó felső vezetése számára releváns információk és dokumentumok rendelkezésre bocsátását,
+- h) felfüggeszti az európai zöldkötvényekre vonatkozó ajánlattételt vagy azok szabályozott piacra történő bevezetését legfeljebb 10 egymást követő munkanapra, bármely olyan egyszeri alkalommal, amikor észszerű indokkal feltételezhető, hogy a kibocsátó nem felelt meg az (EU) 2023/2631 rendelet II. cím 2. fejezete vagy a 18. vagy 19. cikk szerinti valamely kötelezettségének,
+- i) megtiltja az európai zöldkötvényekre vonatkozó ajánlattételt vagy azok szabályozott piacra történő bevezetését, amennyiben észszerű indokkal feltételezhető, hogy a kibocsátó továbbra sem felel meg a h) pont szerinti valamely kötelezettségének,
+- j) felfüggeszti a hirdetéseket legfeljebb 10 egymást követő munkanapra, vagy előírja az európai zöldkötvények kibocsátói vagy az érintett pénzügyi közvetítők számára a hirdetések felfüggesztését legfeljebb 10 egymást követő munkanapra, bármely olyan esetben, amennyiben észszerű indokkal feltételezhető, hogy a kibocsátó nem felelt meg a h) pont szerinti valamely kötelezettségének,
+- k) betiltja a hirdetéseket, vagy előírja az európai zöldkötvények kibocsátói vagy az érintett pénzügyi közvetítők számára a hirdetések beszüntetését, amennyiben észszerű indokkal feltételezhető, hogy a kibocsátó továbbra sem felel meg a h) pont szerinti valamely kötelezettségének,
+- l) nyilvánosságra hozza azt a tényt, hogy az európai zöldkötvények valamely kibocsátója nem felel meg az (EU) 2023/2631 rendeletnek, és előírja az érintett kibocsátó számára, hogy tegye közzé ezt az információt a honlapján,
+- m) egy évet meg nem haladó időtartamra megtiltja valamely kibocsátó számára európai zöldkötvények kibocsátását, amennyiben az adott kibocsátó ismételten és súlyosan megsértette a h) pont szerinti valamely kötelezettséget,
+- n) az l) pont szerinti előírást követő három hónapos időszak elteltével közzéteszi azt a tényt, hogy az európai zöldkötvény kibocsátója már nem felel meg az (EU) 2023/2631 rendelet 3. cikkében az „európai zöldkötvény” vagy „EuGB” megnevezés használatára vonatkozóan előírt követelményeknek, és előírja az adott kibocsátó számára, hogy tegye közzé ezt az információt a honlapján,
+- o) helyszíni ellenőrzéseket és vizsgálatokat végezhet a természetes személyek lakóhelyétől eltérő helyszíneken, és e célból bizonyos helyiségekbe beléphetnek, hogy dokumentumokhoz és bármilyen formátumú adatokhoz hozzáférjenek, amennyiben fennáll az észszerű gyanúja annak, hogy az ellenőrzés vagy vizsgálat tárgyával összefüggő dokumentumok és egyéb adatok relevánsak lehetnek az (EU) 2023/2631 rendelet megsértése bizonyításának az alátámasztásához.”
+
+10. § (1) A Tpt. 25. számú melléklete az 1. melléklet 1. pontja szerint módosul.
 
 (2)
 
@@ -97,13 +115,28 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs cél
 
 #### 7. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-34. § (1)
+34. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: Mnbtv.) 40. §-a a következő (42) bekezdéssel egészül ki:
+
+„(42) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2631 európai parlamenti és tanácsi rendelet] végrehajtását, ide nem értve az (EU) 2023/2631 európai parlamenti és tanácsi rendelet 44. cikk (3) bekezdése szerinti európaizöldkötvény-kibocsátók felügyeletét.”
 
 (2)
 
-#### 35. §
+35. § Az Mnbtv. 76. §-a a következő (12) és (12a) bekezdéssel egészül ki:
 
-36. § (1)
+„(12) Az (EU) 2023/2631 európai parlamenti és tanácsi rendelet 49. cikk (1) bekezdés a) pontjában meghatározott jogsértések esetén a bírság mértéke
+
+- a) természetes személy esetében legfeljebb 19 250 000 forint,
+- b) jogi személy esetében legfeljebb 192 500 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel 0,5 százaléka azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel.
+
+(12a) A (12) bekezdésben meghatározott bírság esetén a bírság mértéke a jogsértésből származó nyereség vagy az amiatt elkerült veszteség legfeljebb kétszerese, ha a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegszerűen meghatározható.”
+
+36. § (1) Az Mnbtv. 186. § (5) bekezdése a következő 26. ponttal egészül ki:
+
+(A 40. §)
+
+„26. (42) bekezdése az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet,”
+
+(végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.)
 
 (2)
 
@@ -237,7 +270,11 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2024. évi X. törvényhez
 
-- 1.
+- 1. A Tpt. 25. számú melléklete a következő 15. ponttal egészül ki:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+- „15. Az európai zöldkötvényekről és a környezeti szempontból fenntarthatóként forgalmazott kötvényekre és a fenntarthatósághoz kapcsolódó kötvényekre vonatkozó opcionális közzétételekről szóló, 2023. november 22-i (EU) 2023/2631 európai parlamenti és tanácsi rendelet.”
 - 2.
 - 3.
 

@@ -4,15 +4,15 @@ egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes
 
 #### 1. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-2. §
+#### 2. §
 
 #### 3. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 4. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
@@ -24,31 +24,31 @@ egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes
 
 #### 5. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-5. §
+#### 5. §
 
 #### 6. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-6. §
+#### 6. §
 
 #### 7. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-7. §
+#### 7. §
 
 #### 8. A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosítása
 
-8. §
+#### 8. §
 
 #### 9. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 10. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 11. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 12. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
@@ -61,87 +61,87 @@ egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes
 
 #### 13. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 14. A szerzői jogról szóló 1999. évi LXXVI. törvény módosítása
 
-14. §
+#### 14. §
 
 #### 15. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-15. §
+#### 15. §
 
 #### 16. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
-16. §
+#### 16. §
 
 #### 17. A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény módosítása
 
-17. §
+#### 17. §
 
 #### 18. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 19. Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 20. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-20. §
+#### 20. §
 
 #### 21. A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény módosítása
 
-21. §
+#### 21. §
 
 #### 22. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-22. §
+#### 22. §
 
 #### 23. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-23. §
+#### 23. §
 
 #### 24. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény módosítása
 
-24. §
+#### 24. §
 
 #### 25. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 26. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 27. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-27. §
+#### 27. §
 
 #### 28. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-28. §
+#### 28. §
 
 #### 29. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-29. §
+#### 29. §
 
 #### 30. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 31. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-31. §
+#### 31. §
 
 #### 32. Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény módosítása
 
-32. §
+#### 32. §
 
 #### 33. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-33. §
+#### 33. §
 
 #### 34. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
 
@@ -151,63 +151,63 @@ egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes
 
 #### 35. A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosítása
 
-35. §
+#### 35. §
 
 #### 36. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-36. §
+#### 36. §
 
 #### 37. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-37. §
+#### 37. §
 
 #### 38. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 39. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosítása
 
-39. §
+#### 39. §
 
 #### 40. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 
-40. §
+#### 40. §
 
 #### 41. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 42. A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosítása
 
-42. §
+#### 42. §
 
 #### 43. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 
-43. §
+#### 43. §
 
 #### 44. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 45. A településkép védelméről szóló 2016. évi LXXIV. törvény módosítása
 
-45. §
+#### 45. §
 
 #### 46. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-46. §
+#### 46. §
 
 #### 47. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény módosítása
 
-47. §
+#### 47. §
 
 #### 48. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-48. §
+#### 48. §
 
 #### 49. Az állattenyésztés szabályozásához szükséges törvényi szintű rendelkezésekről szóló 2019. évi LVI. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 50. A Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítvány részére történő ingyenes vagyonjuttatás
 
@@ -222,14 +222,18 @@ ingyenesen a Közép- és Kelet-európai Történelem és Társadalom Kutatásá
 
 52. § Az 50. § szerinti tulajdon-átruházásoknak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésekben az 50. § szerinti ingatlanok forgalmi értékeként a könyv szerinti értéket kell megjelölni.
 
-53. § Az 50. § alapján ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva – az Nvtv. 13. § (4) bekezdés a) pontjától eltérően – határozatlan időre elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
+53. § Az 50. § a) pontja alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva – az Nvtv. 13. § (4) bekezdés a) pontjától eltérően – határozatlan időre elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
 
-54. § Az 50. § alapján ingyenesen tulajdonba adott ingatlanok vonatkozásában az Nvtv.
+53/A. § Az 53. § alapján a magyar állam javára bejegyzett elidegenítési és terhelési tilalom alatt álló Budapest XII. kerület belterület 9646 helyrajzi számú, természetben az 1125 Budapest, Istenhegyi út 92. szám alatti ingatlan tulajdonjogát a tulajdonos Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány (e § alkalmazásában a továbbiakban: Alapítvány) átruházhatja. A magyar állam javára bejegyzett elidegenítési és terhelési tilalmat az ingatlan-nyilvántartásból e § rendelkezése alapján a tulajdonos Alapítvány kérelmére törölni kell. Az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét, illetve csere esetén az ingatlan helyébe lépő ingatlant az Alapítvány tudományos kutatás, közművelődésügyi, oktatási és kulturális javak védelmével kapcsolatos közfeladatai ellátásának, valamint a közfeladatai ellátásához szükséges infrastruktúra-fejlesztési célok biztosítására köteles fordítani.
+
+54. § (1) Az 50. § a) pontja alapján ingyenesen tulajdonba adott ingatlan vonatkozásában az Nvtv.
 
 - a) 13. § (4) bekezdés b) pontját,
 - b) 13. § (5) bekezdését
 
 nem kell alkalmazni.
+
+(2) Az 50. § b) pontja alapján ingyenesen tulajdonba adott ingatlan vonatkozásában az Nvtv. 13. § (4), (5), (7) és (8) bekezdésében foglaltakat nem kell alkalmazni.
 
 #### 51. Záró rendelkezések
 
@@ -250,6 +254,7 @@ nem kell alkalmazni.
 - a) 10. § (2) bekezdése, (8) bekezdése és (12) bekezdése az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (1) bekezdése alapján,
 - b) 34. §-a az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján,
 - c) 53. és 54. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján
+- d) 53/A. §-a az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján
 
 sarkalatosnak minősül.
 

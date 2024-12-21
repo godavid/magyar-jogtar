@@ -30,11 +30,23 @@ A nukleáris ipar hazai és nemzetközi tudásszolgáltatási platformjának kia
 
 4. § Az Alapítvány a tulajdonába adott ingatlant – a 3. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
+4/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében a Balatonszemes, belterület 119/1, 120 és 161 helyrajzi számú ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+
+(2) Az (1) bekezdésben meghatározott ingatlanok tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg. Az (1) bekezdésben meghatározott ingatlanok tulajdonjogának Alapítvány részére történő átadásának feltétele, hogy az ingatlanok tekintetében az állam és a BSE Palóc Farkasok Utánpótlás Sport Egyesület (székhely: 2660 Balassagyarmat, 3192/1/A hrsz., nyilvántartási szám: 12-02-0001465) között fennálló ingyenes használati szerződés az államról az Alapítványra átruházásra kerül.
+
+(3) Az Alapítvány a tulajdonába adott ingatlanokat – az e §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásból származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdés szerinti ingatlanban található, a közfeladat ellátására rendelkezésre álló, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva, az (1) bekezdés szerinti ingatlanjuttatás tárgyában megkötendő megállapodás létrejöttének napjával ingyenesen az Alapítvány tulajdonába kerülnek.
+
+4/B. § (1) A 4/A. § (1) bekezdésében meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Alapítvánnyal.
+
+(2) A 4/A. § (4) bekezdése alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
 5. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanok, ingatlan tulajdoni hányada (ezen alcím alkalmazásában a továbbiakban együtt: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
-(2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Egyetemmel.
+(2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Egyetemmel.
 
 (3) A költségvetési szervi formában működő Egyetem és az MNV Zrt. között fennálló vagyonkezelési szerződés megszűnik.
 
@@ -56,9 +68,9 @@ A nukleáris ipar hazai és nemzetközi tudásszolgáltatási platformjának kia
 
 (2) Az 1. § (4) bekezdés, a 2–6. §, a 9. §, továbbá az 1. és a 2. melléklet 2021. augusztus 1-jén lép hatályba.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (4), (4a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, a 4/A. §, az 5. § (1), (4), (4a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-9. §
+#### 9. §
 
 ### 1. melléklet a 2021. évi XI. törvényhez
 

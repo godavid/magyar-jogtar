@@ -1596,9 +1596,12 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 (2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 100%-ának megfelelő összeget biztosít.
 
-(3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj kétszeresének megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
+(3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj 3,3-szorosának megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
 
-(4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére. A képviselőcsoport vezetője az e bekezdés szerinti átruházott jogait személyesen vagy meghatalmazása alapján a képviselőcsoportvezető-helyettes útján gyakorolja.
+(4) A képviselő tevékenységét segítő alkalmazottak − az Országgyűlés Hivatala ellenjegyzésével − határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. Munkaviszony esetén a munkáltató és a munkáltatói jogkör gyakorlója, polgári jogi jogviszony esetén a megbízó
+
+- a) a képviselő, vagy
+- b) − amennyiben a képviselő a (3) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jogot a képviselőcsoport vezetőjére átruházta − a képviselőcsoport vezetője, aki az e bekezdés szerinti jogait személyesen vagy meghatalmazása alapján a képviselőcsoportvezető-helyettes útján gyakorolja.
 
 (4a) Az Országgyűlés Hivatala a társadalombiztosítási nyugellátásra való jogosultság és a jogviszony igazolása céljából a (4) bekezdés szerinti képviselő tevékenységét segítő alkalmazott
 
@@ -1646,7 +1649,7 @@ a jogviszony megszűnésétől számított egy évig kezeli.
 113. § (1) A képviselőcsoport a működésével járó kiadásokra havonta
 
 - a) a 104. § (1) bekezdésében meghatározott tiszteletdíj tízszeresének, valamint
-- b) – a képviselőcsoporthoz tartozó képviselőnként – a 104. § (1) bekezdésében meghatározott tiszteletdíj 30%-ának
+- b) – a képviselőcsoporthoz tartozó képviselőnként – a 104. § (1) bekezdésében meghatározott tiszteletdíj 50%-ának
 
 megfelelő összegre jogosult az Országgyűlés Hivatala költségvetéséből.
 
@@ -1666,22 +1669,22 @@ jogosult.
 
 (2) A független képviselő jogosult az (1) bekezdés szerinti feltételek biztosítására.
 
-(3) Az (1) bekezdés b) és c) pontjában meghatározott költségek fedezésére a képviselő-csoport képviselőnként, valamint a független képviselő a 104. § (1) bekezdésében meghatározott tiszteletdíj 50%-ának megfelelő összegű ellátási keret felhasználására jogosult az Országgyűlés Hivatala költségvetéséből.
+(3) Az (1) bekezdés b) és c) pontjában meghatározott költségek fedezésére a képviselő-csoport képviselőnként, valamint a független képviselő a 104. § (1) bekezdésében meghatározott tiszteletdíj 80%-ának megfelelő összegű ellátási keret felhasználására jogosult az Országgyűlés Hivatala költségvetéséből.
 
 115. § (1) A képviselőcsoport jogosult arra, hogy működését az Országgyűlés Hivatalánál foglalkoztatott személyek segítsék, akik munkavégzésének a helye a képviselőcsoport 114. § (1) bekezdése szerinti irodája.
 
 (2) A képviselőcsoport működését
 
 - a) a képviselőcsoport létszámától függően, ha annak létszáma
-  - aa) nem haladja meg a tíz főt, öt fő,
-  - ab) tizenegy–húsz fő közötti, hét fő,
-  - ac) huszonegy–harmincnégy fő közötti, tíz fő,
-  - ad) harmincöt–ötven fő közötti, tizenkettő fő,
-  - ae) ötvenegy–hetven fő közötti, tizenöt fő,
-  - af) hetvenegy–kilencven fő közötti, húsz fő,
-  - ag) kilencvenegy–száztíz fő közötti, huszonöt fő,
-  - ah) száztizenegy–százhúsz fő közötti, harminc fő,
-  - ai) a százhúsz főt meghaladja, negyven fő, valamint
+  - aa) nem haladja meg a tíz főt, tíz fő,
+  - ab) tizenegy–húsz fő közötti, tizennégy fő,
+  - ac) huszonegy–harmincnégy fő közötti, húsz fő,
+  - ad) harmincöt–ötven fő közötti, huszonnégy fő,
+  - ae) ötvenegy–hetven fő közötti, harminc fő,
+  - af) hetvenegy–kilencven fő közötti, negyven fő,
+  - ag) kilencvenegy–száztíz fő közötti, ötven fő,
+  - ah) száztizenegy–százhúsz fő közötti, hatvan fő,
+  - ai) a százhúsz főt meghaladja, nyolcvan fő, valamint
 - b) a képviselőcsoport létszámával megegyező számú
 
 felső- vagy középfokú iskolai végzettségű, az Országgyűlés Hivatalánál foglalkoztatott személy segítheti.
@@ -1690,7 +1693,7 @@ felső- vagy középfokú iskolai végzettségű, az Országgyűlés Hivatalán�
 
 (3) A képviselőcsoport a (2) és (2a) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret, illetve – a 118. § (1) bekezdése szerinti átcsoportosítás esetén – a (4) bekezdés szerinti bérkeret átcsoportosítással növelt összege erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
 
-(4) A képviselőcsoport a tárgyév március 1-jétől a következő év február végéig havonta a (2) és (2a) bekezdés szerint megállapított létszám és a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset két és félszerese szorzatának megfelelő összegű bérkeretre jogosult.
+(4) A képviselőcsoport a tárgyév március 1-jétől a következő év február végéig havonta a (2) és (2a) bekezdés szerint megállapított létszám és a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset négyszerese szorzatának megfelelő összegű bérkeretre jogosult.
 
 (5) A képviselőcsoport működését segítő, az Országgyűlés Hivatalánál foglalkoztatott személyekre az e törvényben foglalt, illetve az e törvény szerinti eltérő rendelkezés hiányában a köztisztviselőkre, továbbá munkavállalók esetében a közigazgatási szervnél foglalkoztatott munkavállalókra irányadó szabályokat kell alkalmazni azzal, hogy a munkáltatói jogkört a képviselőcsoport vezetője egyetértésével kell gyakorolni.
 
@@ -2501,11 +2504,15 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 145/E. § A munkavédelemről szóló 1993. évi XCIII. törvény módosításáról, valamint az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv átültetését szolgáló törvénymódosításokról szóló 2024. évi XXVIII. törvénnyel módosított 112. § (2) bekezdésében foglaltakat első alkalommal a 2024. május hónapra járó juttatás tekintetében kell alkalmazni.
 
+145/F. § A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv.6.) módosított 112. § (3) bekezdésében foglaltakat első alkalommal a 2024. december hónapra járó keret tekintetében kell alkalmazni.
+
+145/G. § A Módtv.6.-tal módosított 113. § (1) bekezdés b) pontjában, és a 114. § (3) bekezdésében foglalt rendelkezéseket első alkalommal a 2025. január hónapra járó keretek összege tekintetében, a 115. § (2) és (4) bekezdésében foglaltakat a 2024. december hónapra járó bérkeret tekintetében kell alkalmazni.
+
 #### 52. Sarkalatossági záradék
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 145/D. §, a 145/E. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 145/D. §, a 145/E. §, a 145/F. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 

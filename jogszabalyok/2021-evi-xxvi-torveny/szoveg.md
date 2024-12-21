@@ -249,5 +249,5 @@ A Pécsi Tudományegyetem nemzetközi szintű tudásközpont szerepének megerő
 | 92. | SZIGETVÁR | 1785/12 | 1/1 | kivett beépítetlen terület |
 | 93. | SZIGETVÁR | 1785/13 | 1/1 | kivett kórház |
 | 94. | SZIGETVÁR | 1785/15 | 1/1 | kivett parkoló |
-| 95. | SIKLÓS | 1091 | – | Kivett kórház |
+| 95. |  |  |  |  |
 | 96. | HARKÁNY | 2458/A/2 | 1/1 | egészségügyi egység |

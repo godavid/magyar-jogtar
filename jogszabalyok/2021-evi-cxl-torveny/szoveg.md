@@ -389,15 +389,10 @@ javaslatára a honvédelemért felelős miniszter engedélyezheti.
 
 17/A. § A Honvéd Vezérkar főnöke normatív utasításban szabályozza
 
-- a) az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamjelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását, előzetes engedélyhez kötését, tilalmát, az egyenruha-viseléssel és annak megvonásával kapcsolatos jogkört gyakorló szervezetet, az egyenruha viselésének megvonására vonatkozó eljárásrendet tartalmazó öltözködési szabályzatot,
-- b) a honvédek
-  - ba) egyéni és
-  - bb) különböző kötelékeinek egységes,
-
-a katonai fegyelmet és tartást kifejező megjelenését és mozgásformáit tartalmazó alaki szabályzatot,
-
+- a)
+- b)
 - c) a fizikai alkalmasság meghatározásához szükséges mozgásformák és azok végrehajtásának szabályait, valamint
-- d) – az a)–c) pontban meghatározottakon túl – a honvédek jogállásával összefüggő, jogszabályban vagy más közjogi szervezetszabályozó eszközben nem szabályozott katonai szakmai tárgyköröket.
+- d) – a c) pontban meghatározottakon túl – a honvédek jogállásával összefüggő, jogszabályban vagy más közjogi szervezetszabályozó eszközben nem szabályozott katonai szakmai tárgyköröket.
 
 #### 12. A belső rendelkezések
 
@@ -1535,6 +1530,11 @@ irányul.
 (7) A személyi állomány, a csapatok és a járművek megkülönböztetésére jelzéseket kell alkalmazni. Ezek a katonai egyenruha, a katonai rendfokozati jelzés, a csapatkarjelzés és csapatjelvény, a Honvédség meghatározott közúti, légi és vízi járműveinek jelzései, valamint az összefoglaló honvéd elnevezés.
 
 (8) A honvédek beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak és a honvédelmi szolgálati juttatásban részesülők a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése a honvédelemért felelős miniszter rendeletében meghatározottak szerint engedélyezhető a szolgálaton kívüli állománynak, továbbá a rendelkezésre állása időszakában az önkéntes tartalékosnak és műveleti területen a rendvédelmi szerv tagjának, ha a Honvédség érdekében végeznek tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. A köztársasági elnök és a Kit. szerinti politikai vagy szakmai felsővezető műveleti területen és gyakorlaton egyenruhát viselhet. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
+
+(8a) A honvédelemért felelős miniszter utasításban szabályozza
+
+- a) az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamjelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását, előzetes engedélyhez kötését, tilalmát, az egyenruha-viseléssel és annak megvonásával kapcsolatos jogkört gyakorló szervezetet, az egyenruha viselésének megvonására vonatkozó eljárásrendet tartalmazó öltözködési szabályzatot,
+- b) a honvédek egyéni és különböző kötelékeinek egységes, a katonai fegyelmet és tartást kifejező megjelenését és mozgásformáit tartalmazó alaki szabályzatot.
 
 (9) Az arra jogosult az öltözködésre vonatkozó szabályok betartásával kizárólag a Honvédségnél rendszeresített egyenruhát viselhet. A honvédelemért felelős miniszter rendeletében meghatározott esetekben az egyenruha viselése megtiltható, előzetes írásbeli engedélyhez köthető, megvonható, valamint egészségi okból korlátozható.
 

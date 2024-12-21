@@ -6899,6 +6899,8 @@ alakul át.
 
 363/B. § A 336/A. § (1) bekezdése szerinti személyi illetményben részesülő hivatásos állomány tagjának 2022. évi teljesítményértékelésére és minősítésére 2023. évben nem kerül sor.
 
+363/C. § A 336/A. § (1) bekezdése szerinti személyi illetményben részesülő hivatásos állomány tagjának 2023. évi teljesítményértékelésére és minősítésére 2024. évben nem kerül sor.
+
 364. § (1) Ez a törvény a felhatalmazása alapján kiadott rendeletekkel együtt
 
 - 1. az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek,

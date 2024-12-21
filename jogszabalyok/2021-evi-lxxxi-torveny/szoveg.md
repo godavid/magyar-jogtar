@@ -20,6 +20,7 @@ A gazdaság-, társadalom-, természet- és orvostudományi képzési területek
 - c) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 - d) rászorultsági alapú támogatás biztosítása,
 - e) tehetséggondozó programok működésének támogatása.
+- f) felsőoktatás nemzetköziesítésének fejlesztése.
 
 (2) Az Alapítvány által végzett cél szerinti tevékenység:
 
@@ -27,6 +28,10 @@ A gazdaság-, társadalom-, természet- és orvostudományi képzési területek
 - b) az a) pontban foglaltak forrásának megteremtése érdekében történő vagyonkezelés mint jövedelemtermelő és vagyon gyarapítására irányuló tevékenység.
 
 (3) Az Alapítvány (1) bekezdés szerinti tevékenysége, valamint az Alapítvány céljainak a preambulumban meghatározott célokkal összhangban történő megvalósítása közérdekű célnak, közérdekű tevékenységnek minősül.
+
+2/A. § (1) Az Országgyűlés egyetért azzal, hogy az Alapítvány a továbbiakban Tudás-Tér Alapítvány néven folytassa tovább tevékenységét.
+
+(2) A Tudás-Tér Alapítvány közfeladata a diákváros kollégiumfejlesztési program egyetemi együttműködés keretében való megvalósítása, a kollégiumfejlesztés és diákjóléti szolgáltatások fejlesztése.
 
 3. § Az Intézményt az Alapítvány a nemzeti felsőoktatásról szóló törvény alapján magyarországi székhellyel, államilag elismert felsőoktatási intézményként hozza létre és működteti.
 
@@ -72,7 +77,41 @@ biztosítja.
 
 6. § A 2. § (1) bekezdésében meghatározott célok ellátását szolgáló, az 1. mellékletben felsorolt állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek.
 
+6/A. § (1) Az Országgyűlés úgy rendelkezik, hogy a Budapest Főváros Önkormányzata, valamint a Budapest Főváros IX. kerület Ferencváros Önkormányzata tulajdonában álló, a 2. melléklet szerinti ingatlanok (e § alkalmazásában a továbbiakban: Ingatlanok) a Budapest Diákváros beruházással kapcsolatos feladatok ellátása, a Diákváros kollégiumfejlesztési program egyetemi együttműködés keretében való megvalósítása, kollégiumfejlesztés és diákjóléti szolgáltatások fejlesztése, a Budapesten felsőoktatási jogviszonyban álló hallgatók elérhető és megfizethető lakhatásának biztosítása, lakhatási körülményeinek javítása és a továbbtanuláshoz való jog hatékony biztosítása, valamint az Ingatlanok által érintett terület és városrész megújítása mint közfeladatok, valamint törvényben meghatározott egyéb közfeladatok ellátása érdekében e törvény erejénél fogva 2025. január 1. napjával az állam tulajdonába kerülnek.
+
+(2) Az Ingatlanok forgalmi értékét a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) független értékbecslő bevonásával állapítja meg és téríti meg Budapest Főváros Önkormányzata, illetve Budapest Főváros IX. kerület Ferencváros Önkormányzata és az Ingatlanok tekintetében esetlegesen fennálló vagyoni értékű jogok jogosultjai számára kártalanítás jogcímen 2025. március 31. napjáig.
+
+(3) Az MNV Zrt. által a (2) bekezdés szerint megállapított forgalmi értéket az állammal szemben Budapest Főváros Önkormányzata, illetve Budapest Főváros IX. kerület Ferencváros Önkormányzata és a vagyoni értékű jogok jogosultjai – a forgalmi érték vele való közlését követő 15 napon belül – bíróság előtt, polgári peres eljárásában vitathatja, amely azonban nem érinti az állam (1) bekezdés szerinti tulajdonszerzését. A polgári peres eljárás lefolytatására a Fővárosi Törvényszék kizárólagosan illetékes.
+
+(4) Az Ingatlanok tekintetében e § hatálybalépésének napjától az MNV Zrt. gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
+
+(5) A tulajdonosváltozáskor az Ingatlanokat érintően fennálló használati, bérleti, vagyonkezelési vagy egyéb szerződések a magyar állam tulajdonszerzését követő 60 napon belül – a magyar állam mint jogutód tulajdonos és a szerződésben részes bérlő, vagyonkezelő és egyéb jogcímen használó közötti eltérő megállapodás hiányában – e törvény erejénél fogva megszűnnek.
+
+(6) Az (5) bekezdésben foglalt esetben a tulajdonosváltozás időpontjában fennállt használati, bérleti, vagyonkezelési vagy egyéb szerződések megszűnésére tekintettel keletkezett – igazolható, jogilag és összegszerűségében megalapozott – esetleges vagyoni kárt Budapest Főváros Önkormányzata, illetve Budapest Főváros IX. kerület Ferencváros Önkormányzata számára az állam az MNV Zrt. útján kártalanítás formájában megtéríti.
+
+6/B. § (1) Az Országgyűlés az Nvtv. 14. § (1) bekezdése alapján úgy rendelkezik, hogy a Budapest Főváros Önkormányzata, valamint a Budapest Főváros IX. kerület Ferencváros Önkormányzata tulajdonában álló, 3. melléklet szerinti ingatlanokon (e § alkalmazásában a továbbiakban: Ingatlanok) 2025. január 1. napjával az üzemeltetési, fenntartási és kezelési feladatokat, valamint infrastruktúra-, út- és zöldfelület-fejlesztés megvalósítását mint közfeladatokat Budapest Főváros Önkormányzata, illetve Budapest Főváros IX. kerület Ferencváros Önkormányzata helyett az állam látja el, valamint e közfeladatok ellátása érdekében az Ingatlanok e törvény erejénél fogva 2025. január 1. napjával ingyenesen, nyilvántartási értéken történő átvezetéssel az állam tulajdonába kerülnek.
+
+(2) Az (1) bekezdésben rögzített feladatok e törvény alkalmazásában állami feladatnak minősülnek.
+
+(3) Az állam tulajdonjog-szerzése Budapest Főváros Önkormányzata, illetve Budapest Főváros IX. kerület Ferencváros Önkormányzata felé a feladat- és hatáskörbeli változással kapcsolatos anyagi kiadások megtakarítása formájában ellentételezett.
+
+(4) Az Ingatlanok tekintetében e § hatálybalépésének napjától az MNV Zrt. gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
+
+(5) A tulajdonosváltozáskor érvényes, az Ingatlanokat érintően fennálló használati, bérleti, vagyonkezelési vagy egyéb szerződések a magyar állam tulajdonszerzését követő 60 napon belül – a magyar állam mint jogutód tulajdonos és a szerződésben részes bérlő, vagyonkezelő és egyéb jogcímen használó közötti eltérő megállapodás hiányában – e törvény erejénél fogva megszűnnek.
+
+(6) Az (5) bekezdésben foglalt esetben a tulajdonosváltozás időpontjában fennállt használati, bérleti, vagyonkezelési vagy egyéb szerződések megszűnésére tekintettel keletkezett – igazolható, jogilag és összegszerűségében megalapozott – esetleges vagyoni kárt Budapest Főváros Önkormányzata, illetve Budapest Főváros IX. kerület Ferencváros Önkormányzata számára az állam az MNV Zrt. útján kártalanítás formájában megtéríti.
+
+(7) Az állam tulajdonszerzését követően
+
+- a) a 3. melléklet 2. sora szerinti ingatlant „kivett magánút és beépítetlen terület” megnevezésű ingatlanként,
+- b) a 3. melléklet 3–5., 7–10., 12–24., 27. sora szerinti ingatlant „kivett magánút” megnevezésű ingatlanként,
+- c) a 3. melléklet 6., 11., 25. és 26. sora szerinti ingatlant „kivett beépítetlen terület” megnevezésű ingatlanként
+
+kell nyilvántartásba venni. A művelés alól kivett terület elnevezése megváltozásának átvezetésére irányuló eljárást az MNV Zrt. kérelmére az ingatlanügyi hatóságként eljáró Budapest Főváros Kormányhivatala folytatja le. A művelés alól kivett terület elnevezése megváltozásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület elnevezése megváltozását, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.
+
 7. § A Kormány legkésőbb 2024. június 30-áig beszámol az Országgyűlésnek az Intézmény létesítésével kapcsolatos beruházás előkészítéséről és a megvalósítás tervezett költségeiről.
+
+7/A. § Ha az Alapítvány a 2/A. § (1) bekezdése alapján a nevének megváltoztatásáról dönt, akkor a módosított névvel működő Alapítvány jár el az Alapítvány céljainak teljesítéséért, illetve látja el az e törvényben vagy más törvényben az Alapítvány számára meghatározott közfeladatokat.
 
 8. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
@@ -89,3 +128,68 @@ biztosítja.
 | 3. | Budapest | 38086/13 | 1/1 | kivett telephely |
 | 4. | Budapest | 38086/49 | 1/1 | kivett beépítetlen terület |
 | 5. | Budapest | 38086/56 | 1/1 | kivett beépítetlen terület |
+
+### 2. melléklet a 2021. évi LXXXI. törvényhez
+
+#### A magyar állam részére átadásra kerülő, forgalomképes önkormányzati tulajdonú ingatlanok
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONOS | TULAJDONI HÁNYAD | MEGNEVEZÉS |
+| 2 | Budapest | 38086/19 | Budapest Főváros Önkormányzata | 1/1 | kivett gazdasági épület, udvar |
+| 3 | Budapest | 38086/185 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 4 | Budapest | 38088/4 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 5 | Budapest | 38088/3 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 6 | Budapest | 38088/1 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 7 | Budapest | 38045/6 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 8 | Budapest | 38045/2 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 9 | Budapest | 38045/5 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 10 | Budapest | 38086/177 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 11 | Budapest | 38086/175 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 12 | Budapest | 38086/178 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 13 | Budapest | 38086/183 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 14 | Budapest | 38086/180 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 15 | Budapest | 38086/150 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 16 | Budapest | 38090/2 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 17 | Budapest | 38045/4 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 18 | Budapest | 38086/188 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 19 | Budapest | 38086/235 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 20 | Budapest | 38086/189 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 21 | Budapest | 38086/154 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 22 | Budapest | 38080/9 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 23 | Budapest | 38086/153 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+| 24 | Budapest | 38086/155 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett beépítetlen terület |
+
+### 3. melléklet a 2021. évi LXXXI. törvényhez
+
+#### A magyar állam részére átadásra kerülő, forgalomképtelen önkormányzati tulajdonú ingatlanok
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONOS | TULAJDONI HÁNYAD | MEGNEVEZÉS |
+| 2 | Budapest | 38086/257 | Budapest Főváros Önkormányzata | 1/1 | kivett közút és közterület |
+| 3 | Budapest | 38086/186 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 4 | Budapest | 38088/2 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 5 | Budapest | 38080/8 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 6 | Budapest | 38086/176 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közkert |
+| 7 | Budapest | 38086/179 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 8 | Budapest | 38086/174 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 9 | Budapest | 38045/7 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 10 | Budapest | 38086/184 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 11 | Budapest | 38086/182 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közkert |
+| 12 | Budapest | 38086/181 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 13 | Budapest | 38086/239 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 14 | Budapest | 38086/152 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 15 | Budapest | 38086/233 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 16 | Budapest | 38086/240 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 17 | Budapest | 38086/149 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 18 | Budapest | 38086/151 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 19 | Budapest | 38086/160 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 20 | Budapest | 38086/231 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 21 | Budapest | 38086/161 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 22 | Budapest | 38086/238 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 23 | Budapest | 38086/237 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 24 | Budapest | 38086/232 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+| 25 | Budapest | 38086/236 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közkert |
+| 26 | Budapest | 38086/12 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közterület |
+| 27 | Budapest | 38045/3 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
