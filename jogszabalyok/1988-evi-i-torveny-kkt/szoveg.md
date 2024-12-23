@@ -335,6 +335,31 @@ jogosultak.
 
 (12) A települési önkormányzat jegyzője abban az esetben is vizsgálhatja a (9) bekezdésben foglalt feltételek fennállását és alkalmazhatja a (10) és (11) bekezdésben foglalt jogkövetkezményeket, ha a (8) bekezdésben meghatározott jármű tárolásának alkalmasságáról az érintett ingatlan vonatkozásában korábban döntés nem született.
 
+14/B. § (1) E § alkalmazásában a bárki által igénybe vehető létesítményhez vezető közforgalom elől el nem zárt magánútra, valamint az ahhoz tartozó belső úthálózatra a közterületre vonatkozó szabályokat kell alkalmazni és a közterület-felügyelet alatt a közterület-felügyelőt is érteni kell.
+
+(2) A bárki által igénybe vehető létesítményhez vezető közforgalom elől el nem zárt magánút, valamint az ahhoz tartozó belső úthálózat tulajdonosa vagy üzemeltetője (e § alkalmazásában a továbbiakban együtt: kezelő) kezdeményezésére a közterület-felügyelet a megállást vagy várakozást tiltó és az elszállításra figyelmeztető jelzőtáblával kiegészített jelzőtábla hatálya alá eső (1) bekezdés szerinti területen szabálytalanul várakozó járművet a (3)–(10) bekezdés alkalmazásával elszállíthatja vagy elszállíttathatja. A közterület-felügyelet a jármű elszállításáról egyidejűleg értesíti a rendőrséget. A kezelő az elszállított jármű forgalmi rendszámát saját honlapján, ennek hiányában az (1) bekezdés szerinti létesítményben közzéteszi, a közleményben megjelölve azt is, hogy az intézkedés során mely közterület-felügyeleti szerv járt el és mely elérhetőségen kérhet további tájékoztatást az elszállított jármű tulajdonosa vagy üzembentartója.
+
+(3) A jármű e § követelményeinek megfelelő elszállításakor a járműhasználat akadályoztatása folytán keletkezett kárért a kezelőt és a közterület-felügyeletet nem terheli kártalanítási kötelezettség.
+
+(4) Ha a jármű üzembentartója vagy tulajdonosa megállapítható, a kezelő a (2) bekezdés szerint szabálytalanul várakozó jármű elszállíttatásának kezdeményezését megelőzően, igazolható módon felhívja a jármű üzembentartóját vagy tulajdonosát, hogy a járművet a felhívás közlésétől számított 20 napos határidőn belül szállítsa el, egyben tájékoztatja, hogy ennek elmulasztása a jármű elszállítását vonhatja maga után.
+
+(5) A jármű elszállításának akkor is helye van, ha a jármű üzembentartója vagy tulajdonosa a szabálytalan várakozás megkezdésétől számított 30 napon belül nem állapítható meg vagy a felhívására tett kísérlet igazolható módon 30 napon túl nem vezetett eredményre.
+
+(6) A (4) és (5) bekezdésben foglalt felhívási kötelezettségre tekintet nélkül a hatósági engedéllyel nem rendelkező járművet, amely a közúti forgalomban csak ilyen jelzéssel vehet részt, valamint az olyan járművet, amely láthatóan a közúti forgalom biztonságát veszélyeztető műszaki állapotban van, a szabálytalan várakozás megkezdésétől számított 5 nap elteltével a kezelő kezdeményezésére a tulajdonos vagy az üzembentartó egyidejű értesítése mellett a közterület-felügyelet elszállítja.
+
+(7) A kezelő az e §-ban foglalt feladatai ellátásához szükséges alábbi adatokat azon időtartam alatt kezeli, ameddig a jármű elszállításával és őrzésével összefüggésben keletkezett jogviszonnyal kapcsolatban igény érvényesíthető:
+
+- a) a jármű tulajdonosának vagy üzembentartójának
+  - aa) természetes személyazonosító adatai,
+  - ab) lakó- vagy tartózkodási helyének, ennek hiányában szálláshelyének adatai, és
+- b) a jármű azonosító adatai.
+
+(8) A közterület-felügyelet az e §-ban nem szabályozott kérdésekben a közterület-felügyeletről szóló 1999. évi LXIII. törvény 20. §-ának alkalmazásával jár el. A közterület-felügyelet intézkedésének költségeit a jármű üzembentartója vagy tulajdonosa fizeti, a kezelő megelőlegezi. A közterület-felügyelet a jármű üzembentartójának vagy tulajdonosának a teljesítése folytán, ennek hiányában a jármű értékesítése vagy egyéb módon történő hasznosítása – ideértve az egyéb módon nem hasznosítható járműnek regisztrált bontó-hulladékkezelő részére történő átadását is – során befolyt összeget saját – előlegezéssel nem rendezett – költségeinek levonását követően a kezelő részére az intézkedésével összefüggésben megelőlegezett költségek erejéig visszatéríti.
+
+(9) Ha az elszállított jármű üzembentartója vagy tulajdonosa az értékesítést, a más módon történő hasznosítást – ideértve az egyéb módon nem hasznosítható járműnek regisztrált bontó-hulladékkezelő részére történő átadását is – követően jelentkezik, a tulajdonos részére az ekként befolyt és a felmerült költségekkel csökkentett ellenértéket ki kell fizetni.
+
+(10) A közterület-felügyelet a jármű értékesítése vagy egyéb módon történő hasznosítása során – ideértve az egyéb módon nem hasznosítható járműnek regisztrált bontó-hulladékkezelő részére történő átadását is – meg nem térült indokolt és igazolt költségeit, ha azok a jármű üzembentartójának vagy tulajdonosának a teljesítése folytán az elszállítást követő 1 éven belül nem térültek meg, a kezelővel szemben érvényesítheti. Ezt meghaladóan a közforgalom elől el nem zárt magánút kezelőjével szemben az intézkedés során eljárt közterület-felügyelet a jármű elszállításával és további kezelésével összefüggésben igényt nem érvényesíthet.
+
 15. § (1) A miniszter – rendeletben – meghatározott járművek közlekedését a közút kezelőjének hozzájárulásához és díj fizetéséhez kötheti.
 
 (2) Az (1) bekezdés szerint megállapított díj, továbbá a 33/A. § szerinti használati díj, útdíj és pótdíj megfizetéséért – amennyiben a használati díjról szóló rendelet vagy az útdíjról szóló törvény eltérően nem rendelkezik – a járműnek a közúti közlekedési nyilvántartásról szóló törvény szerinti üzembentartója felelős.
@@ -455,7 +480,7 @@ oktatása, szakképzése és utánképzése
 
 (2b) A (2) és (8) bekezdéstől eltérően a középiskolában és szakképző intézményben (a továbbiakban együtt: középiskola) járművezető (a továbbiakban: középiskolás járművezető) tanfolyami képzését törvényben, valamint a Kormány rendeletében meghatározottak szerint a középiskolás járművezető tanulói jogviszonya szerinti középiskola vagy a szakképző intézmény – a közlekedési hatóság engedélye nélkül – is végezheti.
 
-(3) A közúti közlekedési szakember tevékenységét akkor folytathatja, ha a közúti közlekedési szakemberek képzésére, vizsgáztatására, valamint a tevékenységének végzésére vonatkozó rendeletekben előírt ismereteket – a vizsgakövetelmények teljesítésével igazoltan – megszerezte és az időszakos szakirányú kötelező továbbképzésen részt vett és vizsgakötelezettségének eleget tett.
+(3) A közúti közlekedési szakember tevékenységét akkor folytathatja, ha a közúti közlekedési szakemberek képzésére, vizsgáztatására, valamint a tevékenységének végzésére vonatkozó rendeletekben előírt ismereteket – a vizsgakövetelmények teljesítésével igazoltan – megszerezte és az időszakos szakirányú kötelező továbbképzést teljesítette.
 
 (4) Utánképzésen kell részt vennie annak a járművezetőnek
 
@@ -615,7 +640,7 @@ oktatása, szakképzése és utánképzése
 
 18/J. § A 18/A. §-ban meghatározott munkavállalókra az Mt. 92. § (2) bekezdése, 107. § a) és d) pontja, 108. § (2) bekezdése nem alkalmazható, kivéve a 18/A. § (2) bekezdésében meghatározott munkavállalók olyan munkavégzését, amelyre a jelen törvény szerinti eltérő rendelkezéseket nem kell alkalmazni.
 
-18/K. § Az 50 km távolságot meg nem haladó járathosszon menetrendszerinti személyszállítási szolgáltatatást végző gépjármű vezetőjének a munkabeosztását – a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet alapul vételével – úgy kell meghatározni, hogy a vezetési szünetek (megszakítások), valamint a vezetési- és pihenő idők mértéke és aránya a gépjármű vezetőjének biztonságos vezetésre alkalmas állapotát folyamatosan biztosítsa.
+18/K. § Az 50 km távolságot meg nem haladó járathosszon menetrendszerinti személyszállítási szolgáltatást végző gépjármű vezetőjének a munkabeosztását – a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet alapul vételével – úgy kell meghatározni, hogy a vezetési szünetek (megszakítások), valamint a vezetési- és pihenő idők mértéke és aránya a gépjármű vezetőjének biztonságos vezetésre alkalmas állapotát folyamatosan biztosítsa.
 
 18/L. § (1) A közúti közlekedési szolgáltatást végző személyek munkával töltött idejéről a munkáltató nyilvántartást köteles vezetni. A nyilvántartást a szóban forgó időszakot követő két évig kell megőrizni. A munkáltató felelős az utazó munkavállalók munkaidejének nyilvántartásáért. A munkáltatók kötelesek kérésre átadni az utazó munkavállalóknak a ledolgozott munkaórák számáról szóló nyilvántartás egy példányát.
 
@@ -793,18 +818,18 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (6) A kiszabott bírság és a pénzkövetelés biztosítása összegének megfizetésével kapcsolatos jogszabályban meghatározott költséget az állam viseli. A kiszabott bírság és a pénzkövetelés biztosítása összegének megfizetése e törvény felhatalmazása alapján kiadott jogszabályban meghatározott számlaszámra történő befizetéssel történik. A megfizetett bírság és a pénzkövetelés biztosítása összegét – az azt megállapító döntés véglegessé válásáig – az eljáró hatóság elkülönítetten kezeli.
 
-(7) Közúti forgalomban történő ellenőrzés esetén a járművet – a veszélyes áru, a gyorsan romló élelmiszer és az élő állat szállítmány feltartóztatására vonatkozó előírások megtartásával – az ellenőrző hatóság a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül az általános közigazgatási rendtartásról szóló törvénynek (a továbbiakban: Ákr.) a biztosítási intézkedésekre vonatkozó feltételek szerint vissza lehet tartani. A jármű nem tartható vissza különösen abban az esetben, ha
+(7) Ha a járművet az ellenőrző hatóság a közúti forgalomban ellenőrzi – a veszélyes áru, a gyorsan romló élelmiszer és az élőállat-szállítmány feltartóztatására vonatkozó előírások megtartásával – az ellenőrző hatóság a bírság, illetve a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) biztosítási intézkedésekre vonatkozó szabályai, valamint a 44. § (9)–(12) bekezdésében foglaltak szerint visszatarthatja.
 
-- a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
+(7a) A jármű nem tartható vissza különösen abban az esetben, ha
+
+- a) a bírságfizetésre kötelezett székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
 - b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, garanciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
 
-(7a) Amennyiben az ellenőrzés megállapítja, hogy az (1) bekezdés c), e) és h) pontjában felsorolt szabályok valamelyikét megszegték és a szabályszegés a közlekedés biztonságára kockázatot jelent, az eljáró hatóság az erre vonatkozó külön határozat kiadása nélkül az Ákr. biztosítási intézkedésekre vonatkozóan megállapított feltételei szerint a járművet visszatartja a közlekedésbiztonsági kockázat elhárításáig.
+(8)
 
-(8) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni, és a jármű forgalmi engedélyét és hatósági jelzését – az átvételét igazoló elismervény egyidejű kiállítása és annak a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt és hatósági jelzést – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
+(9)
 
-(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint az Európai Unió hivatalos nyelvén, továbbá – a jármű honossága szerint – orosz, szerb, török vagy ukrán nyelven írásban tájékoztatni kell a (8) bekezdés szerint kijelölt várakozási helyről, valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására, illetve a hatósági ellenőrzés során foganatosítható intézkedésekre vonatkozó jogszabályi rendelkezésekről.
-
-(10) A jármű visszatartásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
+(10)
 
 (11) Magyarország területén magyar vagy külföldi rendszámú közúti járművel végzett áru-, illetve személyszállítási tevékenységre az (1) bekezdés szerinti rendelkezések megtartását
 
@@ -840,9 +865,9 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (14) Az (1) bekezdés k), m) és o) pontja szerinti rendelkezések, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt indult közigazgatási hatósági eljárásokban alkalmazott szankciókat nem kell bejegyezni a Közigazgatási Szankciók Nyilvántartásába.
 
-(15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7)–(10) bekezdésekben foglaltak szerint kell eljárni.
+(15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7) bekezdésben, valamint a 44. § (9)–(12) bekezdésében foglaltak szerint kell eljárni.
 
-(16) Ha az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés d), h) vagy i) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, vagy a megindított közigazgatási eljárásban az üzembentartó személye még nem került megállapításra, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárnia.
+(16) Ha az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés d), h) vagy i) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, vagy a megindított közigazgatási eljárásban az üzembentartó személye még nem került megállapításra, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7) bekezdésben, valamint a 44. § (9)–(12) bekezdésében foglaltak szerint kell eljárnia.
 
 (17) Az eljáró hatóság az (1) bekezdés d) és h) pontjában meghatározott előírások megszegői által a jogsértés elkövetéséhez használt vagy arra alkalmas, megtévesztésre szolgáló eszközt – ide nem értve a járművet – elkobozza.
 
@@ -1143,14 +1168,14 @@ a 20. § (4) bekezdésben foglalt határidő lejártát követően törölni kel
 
 (2) A közúti forgalomban végzett ellenőrzés során az eljáró hatóság jogosult eljárása dokumentálására az eljárás alá vont járműről képfelvételt készíteni, valamint a jármű honosságát, rendszámát és az ellenőrzés időpontját rögzíteni.
 
-(3) Amennyiben a 20. § (9) bekezdése szerinti tájékoztatást és az abban foglaltakat az ügyfél megértette, ennek tényét a tájékoztatás másodpéldányának aláírásával igazolja. A tájékoztatás másodpéldányán az ügyfél nevét, születési helyét, állampolgárságát, személyazonosító okmányának típusát és számát az eljáró hatóság feltünteti.
+(3) Amennyiben a 44. § (10) bekezdése szerinti tájékoztatást és az abban foglaltakat az ügyfél megértette, ennek tényét a tájékoztatás másodpéldányának aláírásával igazolja. A tájékoztatás másodpéldányán az ügyfél nevét, születési helyét, állampolgárságát, személyazonosító okmányának típusát és számát az eljáró hatóság feltünteti.
 
-(4) Amennyiben az eljáró hatóság ellenőrzése során
+(4) Amennyiben az ellenőrzés során az ügyfél tolmácsot kér, annak megérkezéséig, de legfeljebb 48 óra időtartamig a hatóság a járművet visszatarthatja a 44. §-ban foglaltak szerint.
 
-- a) az ügyfél tolmács alkalmazását kéri, annak megérkezéséig, de legfeljebb 48 óra időtartamig,
-- b) a 20. § (1) bekezdés h) pontjában meghatározott esetben a 20. § (7a) bekezdésében meghatározott időtartamig,
+(5) Ha a közlekedési hatóság által lefolytatott ellenőrzés során felvett ellenőrzési jegyzőkönyvet aláíró, a személyazonosságát igazoló dokumentum alapján azonosított ügyfél aláírásképének rögzítése és az ezt az adatot is tartalmazó elektronikus dokumentum létrehozása megfelel a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendeletben meghatározott eszköz- és rendszerkövetelményeknek, akkor az így felvett elektronikus dokumentum az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy
 
-az eljáró hatóság a járművet visszatarthatja, a fuvarokmányt, a rendszámokat és a forgalmi engedélyt, valamint a járművezető vezetői engedélyét a visszatartás időtartamára elismervény átadása mellett elveheti, továbbá a b) pontban meghatározott esetben az Ákr. 107. §-a szerinti zárlatot rendelhet el. A visszatartásra a 20. § (8)–(10) bekezdését alkalmazni kell.
+- a) az ügyfél az ellenőrzési jegyzőkönyvet megismerte és aláírta,
+- b) a jegyzőkönyvben tett nyilatkozatait saját maga tette meg.
 
 ### Közúti vállalkozások kockázatértékelési rendszere
 
@@ -1204,7 +1229,7 @@ műszaki feltételei
 
 22. § (1) Belföldi üzemben tartás céljából olyan típusú jármű gyártható vagy hozható be külföldről, amelyre a közlekedési hatóság típusjóváhagyás keretében típusvizsgálat alapján típusbizonyítványt, valamint a külföldön kiadott típusjóváhagyó okmány honosításával általános forgalomba helyezési engedélyt adott ki. Egyedi jármű vagy járműsorozat behozatala esetén a közlekedési hatóság a típusvizsgálattól és a típusbizonyítvány kiadásától eltekinthet.
 
-(2) A típusvizsgálat során azt kell ellenőrizni, hogy a járműtípus megfelel-e a jogszabályban meghatározott műszaki, közlekedésbiztonsági, környezetvédelmi és munkavédelmi követelményeknek.
+(2) A hatóság a típusvizsgálat során azt ellenőrzi, hogy a járműtípus megfelel-e jogszabályban meghatározott műszaki, közlekedésbiztonsági, környezetvédelmi és munkavédelmi követelményeknek, valamint a vonatkozó járműműszaki előírásoknak.
 
 (3) Jármű egyedi előállításához (összeépítéséhez), átalakításához, forgalomba helyezéséhez a közlekedési hatóság előzetes engedélye szükséges.
 
@@ -1350,6 +1375,12 @@ adatokat.
 (9) A vizsgálóállomás vezető tisztségviselője, képviselője a büntetlen előéletet, illetve a műszaki vizsgabiztos azt a tényt, hogy nem áll büntetőeljárás hatálya alatt, hatósági bizonyítvánnyal igazolja.
 
 24/B. § A polgári nemzetbiztonsági szolgálatok – ha az általuk üzemeltetett jármű (a továbbiakban: szolgálati jármű) forgalomba helyezés előtti vagy időszakos vizsgálatát a polgári nemzetbiztonsági szolgálatok vizsgáló állomásán végzik – mentesülnek a szolgálati járműveik forgalomba helyezés előtti és időszakos műszaki vizsgálatával, valamint hatósági engedéllyel és jelzéssel történő ellátásával kapcsolatos hatósági eljárások díjainak megfizetése alól.
+
+24/C. § (1) A járműműszaki előírás a közúti járművek, továbbá ezek tulajdonságai, alkatrészei, tartozékai és önálló műszaki egységei műszaki, közlekedésbiztonsági és környezetvédelmi követelményeire vonatkozó technikai, technológiai jellegű műszaki és szakmai követelmény, olyan szakmai szabály, amelynek alkalmazása a címzettek számára kötelező, betartását a közlekedési hatóság ellenőrzi.
+
+(2) A járműműszaki előírásokat a nemzetközi és uniós jogi aktusok, valamint a hazai jogszabályok alapulvételével, azokkal összhangban, a tudomány, a technika és a technológia mindenkori állásának megfelelően, közlekedési szakértői vélemények mérlegelésével, valamint az európai és nemzeti szabályokra és szabványokra is figyelemmel kell kidolgozni.
+
+(3) Az e törvény felhatalmazása alapján kiadott miniszteri rendeletben kijelölt felelős szakértői testület dolgozza ki a járműműszaki előírásokat, technológiai folyamatokat, eljárásrendeket. A járműműszaki előírásokat a szakértői testület javaslata alapján a közlekedési hatóság közzéteszi a honlapján.
 
 25. § E törvénynek
 
@@ -1659,9 +1690,9 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 29/E. § (1) Az építtető a végleges nyomvonal meghatározását követően haladéktalanul köteles írásban értesíteni a nyomvonallal érintett közmű tulajdonosát vagy szükség esetén üzemeltetőjét (a továbbiakban együtt: közműszolgáltató) arról, hogy az útépítés során mely közműszakasz kiváltása vagy fejlesztése szükséges.
 
-(2) A közműszolgáltató – a közúthálózat fejlesztésének közérdekűségére tekintettel, az útépítés mint közérdekből megvalósítandó beruházás megvalósítása érdekében – az (1) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a műszakilag feltétlenül szükséges mértékű közműszakasz kiváltását vagy fejlesztését elvégezni vagy elvégeztetni, amelyre az építtető a körülmények által indokolt mértékű, a közműszolgáltatóval egyeztetett – 30 napnál nem rövidebb – határidőt határoz meg. A közműszolgáltató a véleményét az építtető értesítésének kézhezvételétől számított tíznapos határidőn belül köteles közölni az építtetővel. Az építtető és a közműszolgáltató – a közműszolgáltató véleményének kézhezvételétől számított 30 napon belül – a közműkiváltás vagy -fejlesztés elvégzésére vonatkozóan kötelesek egymással megállapodást kötni.
+(2) A közműszolgáltató – a közúthálózat fejlesztésének közérdekűségére tekintettel, az útépítés mint közérdekből megvalósítandó beruházás megvalósítása érdekében – az (1) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a műszakilag feltétlenül szükséges mértékű közműszakasz kiváltását vagy fejlesztését elvégezni vagy elvégeztetni, amelyre az építtető a körülmények által indokolt mértékű, a közműszolgáltatóval egyeztetett – 30 napnál nem rövidebb, közműszakasz fejlesztés esetén, ha azt jogszabályi és más kötelezettségek lehetővé teszik, maximum 12 hónap – határidőt határoz meg. A közműszolgáltató a véleményét az építtető értesítésének kézhezvételétől számított tíznapos határidőn belül köteles közölni az építtetővel. Az építtető és a közműszolgáltató – a közműszolgáltató véleményének kézhezvételétől számított 30 napon belül – a közműkiváltás vagy -fejlesztés elvégzésére vonatkozóan kötelesek egymással megállapodást kötni.
 
-(3) A közműkiváltás vagy -fejlesztés elvégzésének vagy elvégeztetésének megtagadása esetén az építtető jogosult a közműkiváltást vagy -fejlesztést a megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amelyet a közműszolgáltató tűrni köteles.
+(3) A közműkiváltás vagy -fejlesztés elvégzésének vagy elvégeztetésének megtagadása esetén az építtető jogosult a közműkiváltást vagy -fejlesztést (beleértve a tervezési munkákat is) a vonatkozó jogszabályok szerinti eljárásban általa kiválasztott, megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amelyet a közműszolgáltató tűrni köteles.
 
 (4) A közműszolgáltatót a – közműkiváltással vagy -fejlesztéssel összefüggésben bekövetkezett – vagyonnövekedés tekintetében illetékfizetési kötelezettség nem terheli.
 
@@ -1678,6 +1709,8 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 (10) Az országos közutat ellátó, annak üzemeléséhez szükséges, és a közcélú hálózat részét nem képező közművek üzemeltetéséről – a csatlakozási ponttól – a 33. § (1) bekezdés b) pont ba) alpontja szerinti országos közútkezelő köteles gondoskodni.
 
 (11) Törvény a nemzetgazdasági szempontból kiemelt jelentőségű közúti infrastruktúra beruházások, a kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények és tartozékainak esetében a közműkiváltásra vagy -fejlesztésre az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
+
+(12) Ha a közúthálózat fejlesztésének végleges nyomvonalával érintett ingatlanon fogyasztói mérőóra került felszerelésre, a fogyasztó ellátását szolgáló közműszakasz bontását és a mérőóra leszerelését a közműszolgáltató köteles az építtető kérelmére 30 napon belül elvégezni, ha a tulajdonosi hozzájárulást rögzítő birtokbavételi jegyzőkönyvet az építtető csatolja.
 
 29/F. § Az útügyi műszaki előírások kidolgozásáért felelős bizottság kidolgozza a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre vonatkozó jogszabály vagy szabvány által nem szabályozott műszaki előírásokat.
 
@@ -1854,7 +1887,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 - a) a gépjárművet megállítani, a gépjármű helyzetét és állapotát dokumentálni, a gépjármű okmányait átvenni,
 - b) a feladat ellátása céljából az úthasználó személyazonosító okmányait és a gépjármű azonosító okmányait megvizsgálni,
 - c) a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve intézkedését kérni, és annak megérkezéséig – de legfeljebb két óra időtartamra – feltartóztatni azt, aki a gépjármű okmányait nem adja át, vagy személyazonosságát nem igazolja, vagy az intézkedést más módon akadályozza,
-  - ca) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított, a 20. § (7a) bekezdésében meghatározott mértékű szabályszegés esetén az eljárásra hatáskörrel rendelkező hatóság kiérkezéséig a járművet – a 3,2 m szélességet, 22 m hosszúságot, 4,2 m magasságot és 70 tonna össztömeget meg nem haladó járművet legfeljebb két óra időtartamra – visszatartani,
+  - ca) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított, a 44. § (8) bekezdésében meghatározott mértékű szabályszegés esetén az eljárásra hatáskörrel rendelkező hatóság kiérkezéséig a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet szerinti, egyedi elbírálás alapján kiadható közútkezelői hozzájárulással közlekedtethető járművet két órát meghaladó időtartamon túl is, az egyszerűsített eljárásban kiadható közútkezelői hozzájárulással közlekedtethető járművet legfeljebb két óra időtartamra,
   - cb) a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek helyszíni ellenőrzése során megállapított szabályszegés esetén – ha az eljárás lefolytatására hatáskörrel rendelkező szerv intézkedésére nem került sor – a közigazgatási bírság kiszabása érdekében a bizonyítékok megküldésével együtt értesíteni az illetékes hatóságot,
 - d) a díjköteles útszakasz azonnali elhagyását elrendelni,
 - e) a jogosulatlan úthasználat tényének megállapítása esetén az erről készített jegyzőkönyvnek az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet részére történő átadásával az úthasználót a pótdíj megfizetésére kötelezni.
@@ -1918,7 +1951,9 @@ használható fel.
 
 (8) A közút kezelője a (7) bekezdés szerinti feladatai ellátása körében a technikai eszköz alkalmazása során rögzített adatok vonatkozásában a 33/D. § alkalmazásával jár el, és jogosult felvétel készítésére. Amennyiben a közút kezelője hulladékot észlel, azt elszállítja és ezt a hulladékról szóló törvény szerint bejelenti, a rendelkezésére álló adatokat továbbítja a hulladékgazdálkodási hatóságnak.
 
-35. § Az út kezelője a kezelői kötelezettségének megszegésével okozott kárt a polgári jog általános szabályai szerint köteles megtéríteni. A kártérítési követelést a kár keletkezését követően haladéktalanul kell a közút kezelőjéhez bejelenteni.
+35. § (1) Az út kezelője az útkezelői kötelezettségének megszegésével okozott kárt a polgári jog általános, felróhatóságon alapuló felelősségi alakzatára vonatkozó szabályok szerint köteles megtéríteni. A kártérítési követelést a kár keletkezését követően 30 napos határidővel kell a közút kezelőjéhez bejelenteni. A polgári jog általános felelősségi szabályaitól eltérően, ha a károsult a bejelentésre előírt 30 napos határidőt elmulasztja, a közútkezelő felelőssége nem áll be, kivéve, ha a károsult bizonyítja, hogy a kárt okozó, a közút kezelőjének a kárfelelősségébe tartozó állapot a kár bejelentésének időpontjában is fennáll.
+
+(2) Ha az út kezelője a tevékenységére irányadó jogszabályoknak megfelelően járt el, akkor nem állapítható meg az útkezelő felróható magatartása.
 
 ### Felszín alatti közútépítési jog
 
@@ -2040,7 +2075,7 @@ a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak e
 
 (2) Az (1) bekezdésben foglaltak szerint köteles tűrni a közúti jelzés elhelyezését az ingatlannak nem minősülő építmény, továbbá a villany-, telefon- és egyéb oszlop tulajdonosa is.
 
-(3) A közútnak hófúvás és környezeti károk elleni védelme, valamint a közút környezetének a közúti közlekedés károsító hatásától való megóvása érdekében a közút mellett a veszélyeztetett helyeken erdő, fasor vagy cserjesáv telepíthető. Az erre a célra telepített vagy alkalmas erdőt védelmi rendeltetésű erdőnek kell nyilvánítani. A telepítéshez meg kell szerezni a szükséges földterület tulajdon- vagy kezelői jogát.
+(3) A közútnak hófúvás és környezeti károk elleni védelme, valamint a közút környezetének a közúti közlekedés károsító hatásától való megóvása érdekében a közút mellett a veszélyeztetett helyeken erdő, fasor vagy cserjesáv telepíthető. Az ebből a célból az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evtv.) rendelkezései alapján telepített vagy az Evtv. szerint erre a célra alkalmas erdőt védelmi rendeltetésű erdőnek kell nyilvánítani. A telepítésekhez minden esetben meg kell szerezni a szükséges földterület tulajdon- vagy vagyonkezelői jogát, vagy az ingatlan tulajdonosának vagy vagyonkezelőjének a hozzájárulását.
 
 (4) A közút, illetőleg az épülő közút meletti ingatlan a fenntartási, építési munkák elvégzése céljából kártalanítás ellenében – kisajátítás nélkül – meghatározott időre igénybe vehető.
 
@@ -2052,24 +2087,42 @@ a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak e
 - b) a közúti forgalom szabályozására,
 - c) a közúti közlekedési szolgáltatások és a közúti járművek üzemeltetésének szabályszerűségére, illetve a jármű üzemeltetésére vonatkozó előírások megtartására, ideértve az adott tevékenységhez előírt okmányok, engedélyek, jelzések, felszerelések ellenőrzését is,
 - d) a járművek műszaki állapotára, közlekedésbiztonsági és környezetvédelmi megfelelőségére, továbbá a felelősségbiztosítási kötelezettség teljesítésére,
-- e) a járművek összeépítésére és átalakítására vonatkozó előírások megtartására, valamint a külön jogszabályban meghatározott alkatrészek minősége tanúsításának meglétére,
-- f) a járműfenntartó tevékenység folytatása feltételeinek megtartására,
-- g)
-- h) a közút kezelőjének hozzájárulásához vagy a közlekedési hatóság engedélyéhez kötött járművek közlekedésére.
+- e) a járművek összeépítésére és átalakítására vonatkozó előírások megtartására, valamint a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott alkatrészek minősége tanúsításának meglétére,
+- f) a járműfenntartó tevékenység folytatása feltételeinek megtartására, és
+- g) a közút kezelőjének hozzájárulásához vagy a közlekedési hatóság engedélyéhez kötött járművek közlekedésére.
 
-(2) Az (1) bekezdésben meghatározott ellenőrzési feladatok végzésére az a) pont tekintetében a rendőrség; a b), d), e) és h) pontok tekintetében külön jogszabály alapján a rendőrség; a b), d), e)–h) pontok tekintetében a közlekedési hatóság; a c) és d) pontok tekintetében a 20. § (11) bekezdésében meghatározott hatóság (a továbbiakban együtt: ellenőrző hatóság) jogosult. Az a) és h) pontok tekintetében a külföldi járművek ellenőrzését a rendőrség, illetve a közlekedési hatóság végzi. Az ellenőrzést végző személy az ellenőrzési jogosultságát köteles igazolni.
+(2) Az (1) bekezdésben meghatározott ellenőrzési feladatok végzésére
 
-(3) Az ellenőrző hatóság jelzésére a jármű vezetője a járművet köteles megállítani, személyazonosságát és járművezetési jogosultságát igazolni, a jármű és tartozékai, a rakomány, az okmányok ellenőrzésével kapcsolatos felhívásnak eleget tenni. Az ellenőrzés során az ellenőrző hatóság a járműhöz és tartozékaihoz, a rakományhoz tartozó okmányokat a helyszínen időlegesen elveheti, továbbá a jármű műszeres ellenőrző vizsgálatát vagy kötelező javítását rendeli el, amelynek a helyszínére történő közlekedésre a jármű vezetőjét utasíthatja. A kötelezően elrendelt javítás elvégeztetéséről az ellenőrző hatóságnak meg kell győződnie, az ezzel kapcsolatosan a hatóság részéről felmerült költségeket az eljáró hatóság megtérítteti a jármű üzembentartójával. A jármű vezetőjének vezetési és pihenőidejére vonatkozó – a 20. § (1) bekezdésének c) pontjában meghatározott – előírások megsértése esetén az ellenőrző hatóság a pihenőidő letöltését rendeli el.
+- a) az a) pont tekintetében a rendőrség;
+- b) a b), d), e) és g) pont tekintetében jogszabály alapján a rendőrség;
+- c) a b)–g) pont tekintetében a közlekedési hatóság;
+- d) a c) és d) pont tekintetében a 20. § (11) bekezdésében meghatározott hatóság
 
-(4) Ha az ellenőrzés alá vont jármű a külön jogszabályban össztömegre, tengelyterhelésre és méretre meghatározott előírásoknak nem tesz eleget, illetve műszaki állapota külön jogszabály szerint balesethez vezethet, az ellenőrző hatóság a jármű továbbközlekedését – ellenőrzési jegyzőkönyv kiállításával, a forgalmi engedély időleges, elismervény átadása melletti helyszíni elvételével és várakozóhely kijelölésével is – megtiltja. Az elismervényen fel kell tüntetni az elvett forgalmi engedély visszaadásának helyét is. A jármű a közúti forgalomban történő részvétellel – a továbbközlekedés tilalmára okot adó szabálytalanságok megszüntetéséig – a kijelölt várakozó helyet nem hagyhatja el. Ha a jármű, a hiányosságok megállapítását követően – az ellenőrzés helyét – nem a közúti forgalomban történő részvétellel hagyja el és a közúti forgalomba történő visszatérése egyértelműen kizárható, az ellenőrző hatóság eltekinthet a várakozó hely kijelölésétől.
+(az a)–d) pont szerinti ellenőrzési feladatok végzésére jogosultak a továbbiakban együtt: ellenőrző hatóság) jogosult.
 
-(5) A forgalmi engedély időleges helyszíni elvételéről kiállított elismervény – a továbbközlekedés tilalmára okot adó szabálytalanságok megszüntetését követően – a forgalmi engedély átvételére és az átvétel helyére történő közlekedésre jogosít. A forgalmi engedély visszaadást megelőzően az ellenőrző hatóság újabb ellenőrzést végezhet.
+(3) Az (1) bekezdés a) és g) pontja tekintetében a külföldi járművek ellenőrzését a rendőrség, illetve a közlekedési hatóság végzi. Az ellenőrzést végző személy az ellenőrzési jogosultságát köteles igazolni.
 
-(6) A közúti ellenőrzések során – ha a jármű üzembentartója nincs jelen – az ellenőrző hatóság az üzemben tartóval szemben helyszínen alkalmazott intézkedéseiről a jármű vezetőjét is tájékoztatja.
+(4) Az ellenőrző hatóság jelzésére a jármű vezetője a járművet köteles megállítani, személyazonosságát és járművezetési jogosultságát igazolni, a jármű és tartozékai, a rakomány, az okmányok ellenőrzésével kapcsolatos felhívásnak eleget tenni. Az ellenőrzés során az ellenőrző hatóság a járműhöz és tartozékaihoz, a rakományhoz tartozó okmányokat a helyszínen időlegesen elveheti.
 
-(7) A közlekedési hatóság a külön engedély alapján üzemeltetett, valamint a nem közúti közlekedési szolgáltatást végző járművek esetében az (1) bekezdés c)–e) pontjában megjelölt ellenőrzéseket a jármű telephelyén is végezheti, az f) pontban meghatározott járműfenntartó tevékenységet csak telephelyen ellenőrizheti.
+(5) Az ellenőrző hatóság, amennyiben azt a jármű műszaki állapota indokolja, a jármű műszeres ellenőrző vizsgálatát vagy kötelező javítását rendeli el, amelynek a helyszínére történő közlekedésre a jármű vezetőjét utasíthatja. A kötelezően elrendelt javítás elvégeztetéséről az ellenőrző hatóságnak meg kell győződnie, az ezzel kapcsolatosan a hatóság részéről felmerült költségeket az eljáró hatóság megtérítteti a jármű üzembentartójával.
 
-(8) A közlekedési hatóság a törvényben meghatározott ellenőrzési feladatai ellátásához közvetlen adathozzáféréssel, díjmentesen jogosult átvenni a más ellenőrzésre jogosult hatóság által végzett közúti ellenőrzések során keletkezett, valamint a külön jogszabály szerinti útdíjszedő, a közút kezelője vagy az általa megbízott közreműködő által kezelt adatokat.
+(6) A jármű vezetőjének vezetési és pihenőidejére vonatkozó – a 20. § (1) bekezdés c) pontjában meghatározott – előírások megsértése esetén az ellenőrző hatóság a pihenőidő letöltését rendeli el.
+
+(7) Ha az ellenőrzés alá vont jármű jogszabályban össztömegre, tengelyterhelésre és méretre meghatározott előírásoknak nem tesz eleget, illetve műszaki állapota szerint balesethez vezethet, az ellenőrző hatóság a jármű továbbközlekedését megtiltja. A jármű a közúti forgalomban történő részvétellel – a továbbközlekedés tilalmára okot adó szabálytalanságok megszüntetéséig – a kijelölt várakozó helyet nem hagyhatja el. Ha a jármű, a hiányosságok megállapítását követően az ellenőrzés helyét nem a közúti forgalomban történő részvétellel hagyja el és a közúti forgalomba történő visszatérése egyértelműen kizárható, az ellenőrző hatóság eltekinthet a várakozó hely kijelölésétől. A (4) bekezdés szerint időlegesen elvett okmányok visszaadását megelőzően az ellenőrző hatóság újabb ellenőrzést végezhet.
+
+(8) Amennyiben az ellenőrző hatóság megállapítja, hogy a 20. § (1) bekezdés c), e) és h) pontjában felsorolt szabályok valamelyikét megszegték és a szabályszegés a közlekedés biztonságára kockázatot jelent, az (5)–(7) bekezdésbe nem tartozó esetekben az eljáró hatóság az erre vonatkozó külön határozat kiadása nélkül az Ákr. biztosítási intézkedésekre vonatkozóan megállapított feltételei szerint a járművet visszatartja a közlekedésbiztonsági kockázat elhárításáig.
+
+(9) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni, és a (4) bekezdés szerint időlegesen elvett okmányok mellett a jármű hatósági jelzéseit – az átvételét igazoló elismervény egyidejű kiállítása és annak a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt és hatósági jelzést – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz, az időlegesen elvett okmányokat a jármű jogszabályban meghatározott üzembentartója részére kell megküldeni.
+
+(10) A jármű vezetőjét jogszabályban foglaltak szerint az Európai Unió hivatalos nyelvén, továbbá – a jármű honossága szerint – orosz, szerb, török vagy ukrán nyelven írásban tájékoztatni kell a (9) bekezdés szerint kijelölt várakozási helyről, valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására, illetve a hatósági ellenőrzés során foganatosítható intézkedésekre vonatkozó jogszabályi rendelkezésekről.
+
+(11) A közúti ellenőrzések során – ha a jármű üzembentartója nincs jelen – az ellenőrző hatóság az üzembentartóval szemben helyszínen alkalmazott intézkedéseiről a jármű vezetőjét is tájékoztatja.
+
+(12) A jármű visszatartásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
+
+(13) A közlekedési hatóság a külön engedély alapján üzemeltetett, valamint a nem közúti közlekedési szolgáltatást végző járművek esetében az (1) bekezdés c)–e) pontjában megjelölt ellenőrzéseket a jármű telephelyén is végezheti, az (1) bekezdés f) pontjában meghatározott járműfenntartó tevékenységet csak telephelyen ellenőrizheti.
+
+(14) A közlekedési hatóság e törvényben meghatározott ellenőrzési feladatai ellátásához közvetlen adathozzáféréssel, díjmentesen átveszi a más ellenőrzésre jogosult hatóság által végzett közúti ellenőrzések során keletkezett, valamint jogszabály szerinti útdíjszedő, a közút kezelője vagy az általa megbízott közreműködő által kezelt adatokat.
 
 ### A gépjárművezetőkre vonatkozó
 
@@ -2232,6 +2285,10 @@ személyes és egészségi állapotra, kóros szenvedélyre vonatkozó különle
 
 (8) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján, a közúti járművezetők tanfolyami és a közúti közlekedési szakemberek szaktanfolyami képzésén, továbbképzésén, a pályaalkalmassági vizsgálaton és utánképzésén résztvevő, illetve ehhez kapcsolódóan vizsgára vagy vizsgálatra jelentkező adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
 
+(9) A 18. § (8e) bekezdése szerinti adatokat adatszolgáltatási kötelezettség teljesítése és ellenőrzése érdekében az ott megjelölt szervek az átvétel időpontjától számított 5 évig kezelik.
+
+(10) A középiskolát a középiskolai tanfolyam és vizsga ellátásával összefüggésben történő adatkezelése tekintetében képző szervnek és vizsgaközpontnak kell tekinteni. A középiskola az általa kezelt adatokat – személyazonosításra alkalmatlanná tett módon – statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
+
 #### 46/B. §
 
 46/C. § (1) A külön jogszabályban meghatározott ellenőrző hatóság jogosult a veszélyes árut szállító jármű ellenőrzéséről felvett ellenőrzési jegyzékben megjelölt, a gépjárművezetőre vonatkozó természetes személyazonosító adatok, lakcím, a vezetői engedélyben található egészségi és pályaalkalmassági adatok, személyazonosító igazolvány/útlevél száma, ADR oktatási bizonyítvány száma, a kísérő nevére és állampolgárságára, a feladó nevére és címére, továbbá a címzett nevére vonatkozó személyes adatok kezelésére és nyilvántartására. Az adatokat öt évig kell megőrizni.
@@ -2306,8 +2363,8 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - 6. vevőszolgálati javítóhálózat: a járművek garanciális javítását és alkatrészellátását végző szervezetek rendszere;
 - 7. út: a járművek és a gyalogosok közlekedésére, vagy csak a járművek, illetve csak a gyalogosok közlekedésére szolgáló, e célra létesített vagy kijelölt közterület, vagy magánterület (közút, magánút); magánútnak kell tekinteni az állam vagy az önkormányzat tulajdonában álló területen lévő, közforgalom elől elzárt utat is;
 - 8. közforgalom elől elzárt magánút: a sorompóval, kapuval vagy más fizikai eszközzel lezárt, vagy „Mindkét irányból behajtani tilos” jelzőtáblával és a „magánút” feliratot tartalmazó kiegészítő táblával jelzett út, amely az ingatlan-nyilvántartásban közforgalom elől elzárt magánútként van bejegyezve;
-- 9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a két méternél kisebb nyílású áthidaló műtárgy: áteresz;
-- 10. az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó) – a Komplex Közlekedési Ellenőrző Pont kivételével –, a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint a közút határától számított két méter távolságon belül ültetett fa – az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok;
+- 9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a kétméteres vagy annál kisebb nyílású áthidaló műtárgy: áteresz;
+- 10. az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó) – a Komplex Közlekedési Ellenőrző Pont kivételével –, a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint az út területén belül ültetett fa – az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok;
 - 11. közúthálózat: az országos közutak és a helyi közutak összefüggő rendszere;
 - 12. az út határa: az útnak – a kiemelt szegélyt, az útpadkát, a rézsűt, az út víztelenítését szolgáló árkot, csatornát, más vízelvezető létesítményt is magában foglaló – külső széle;
 - 13. az út területe: az út határai közötti terület és a hozzá tartozó földrészlet;
@@ -2435,12 +2492,12 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 10. az útépítésre, illetve az út üzemeltetésére szolgáló anyagok, szerkezetek és berendezések műszaki követelményeit, valamint megfelelőségük igazolásának, továbbá ezen anyagok, szerkezetek és berendezések forgalomba hozatalának, felhasználásának, továbbá az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket és jótállásra vonatkozó feltételeket, továbbá az ezektől való egyedi eltérés engedélyezésének feltételeit, illetve a kísérleti útépítési tevékenységhez való hozzájárulás szabályait és eljárását, a kísérleti útépítési tevékenységre vonatkozó eltérő szabályokat, az egyes eltérési esetekben eljáró szerv kijelölését,
   - 11. a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeit,
   - 12. a közúti járművek műszaki vizsgáztatásával kapcsolatos szabályokat,
-  - 13.
+  - 13. a 24/C. § szerinti járműműszaki előírások kidolgozását végző szakértői testület létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat,
   - 14. a járműfenntartó tevékenység végzésének feltételeit, a szükséges eszközöket, berendezéseket és alkalmazott technológiákat, illetve a járműjavításhoz felhasznált alkatrészekre, felszerelésekre, tartozékokra, tüzelő- és kenőanyagokra vonatkozó minőségi követelményeket,
   - 15. a gépjárművek vámkezelését megelőző vizsgálattal kapcsolatos szabályokat,
   - 16. a nemzetközi forgalomban közlekedő gépjárművekre vonatkozó szabályokat,
   - 17. az útépítési kivitelezési tevékenység szabályait,
-  - 18. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályait,
+  - 18. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának, valamint a középiskolában és szakképző intézményben folytatott járművezetői képzésnek és vizsgáztatásnak a részletes szabályait,
   - 19. a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak végrehajtási szabályait,
   - 20. a veszélyes áruk szállításának és szállításra való feladásának szabályait a vonatkozó nemzetközi szerződésekkel összhangban,
   - 21. a vonatkozó nemzetközi szerződések hatálya alá nem tartozó járművekkel történő veszélyes áru szállítás szabályait,
@@ -2449,7 +2506,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 24.
   - 25. az alagutak tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,
   - 26. a 21. § (3) bekezdése szerinti eszközre vonatkozó követelményeket,
-  - 27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői feladatokról, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
+  - 27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői feladatokról, a díjfizetés, a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló, valamint az össztömeg és tengelysúlyméréssel összefüggő közlekedési szabályokat,
   - 28. az út és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá az utak kezelésére vonatkozó, a közlekedésbiztonságot és a létesítményeket érintő alapvető követelményeket,
   - 29. a 32. § (4) bekezdésében meghatározott állami feladatokat, azok végrehajtásának és az egyes feladatok ellátásához szükséges források felhasználásának szabályait,
   - 30. az e törvény szerinti járművezetői vizsgabiztosi, műszaki vizsgabiztosi, iskolavezetői, szakoktatói tevékenység folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
