@@ -116,7 +116,7 @@ terjed ki.
 
 2.20. térségi vasúti pályahálózat: térségi vasúti szolgáltatás végzéséhez szükséges vasúti pályahálózat;
 
-2.21. vasúti pálya: az 1. melléklet 1–6. pontjában felsorolt vasúti pályahálózat elem, valamint a vasúti alépítmény és felépítmény, az utasforgalom és áruszállítás részére rendelkezésre álló útvonalak, beleértve az utasperonokat, rakodóterületeket, beleértve az útvonalba eső az utasok mozgását biztosító szállító, mozgató berendezéseket, mozgólépcsőket, mozgójárdákat, lifteket, gyalogos alul- és felüljárókat, a mozgáskorlátozottak emelésére szolgáló speciális berendezéseket, továbbá a vasúti kocsik rakodását, mozgatását, javítását célzó, a vágányra, vágányba vagy a vágány alá- vagy fölé épített különleges berendezések, különösen rakodó- és ürítőberendezések, ürítőhidak, ürítőgaratok, töltő- és lefejtő berendezések, fordítókorongok, tolópadok, a vasúti járművek javításához, karbantartásához szükséges és egyéb járműmozgató berendezések, vágányfékek, daruk, darupályák, emelőberendezések, járműmérlegek, kocsibuktatók, szállítógépek és berendezések, diagnosztikai és egyéb berendezések, és a mindezek elhelyezésére szolgáló földterületek; ahol2.21.1. vasúti alépítmény: a vasúti felépítmény terhelését elviselő és a talaj felé közvetítő mérnöki létesítmény. Az alépítmény része minden olyan szerkezet, amely a vasúti terhelés viselésében részt vesz, így különösen: töltések, bevágások, nyílásokat áthidaló mérnöki szerkezetek (hidak, átereszek, közúti vagy gyalogos aluljárók), a vasút pálya védelmére épített mérnöki szerkezetek, (alagutak, támfalak, bélésfalak, kőomlás ellen védő műtárgyak), vízelvezetést szolgáló szerkezetek (árkok, szivárgók), valamint a pálya és a környezet védelmét szolgáló szerkezetek (kerítések, tűzvédelmi sávok, hófogó rácsok, zajárnyékoló falak, védelmi céllal telepített növényzet);2.21.2. vasúti felépítmény: a vasúti vágány, amely magában foglalja valamennyi, a vasúti jármű kereke által közvetített terhelést viselő, illetve a jármű kerekének vezetését végző, azt elősegítő mérnöki szerkezetet, (beleértve a váltófűtő, sínkenő berendezéseket), valamint a vasúti ágyazat;
+2.21. vasúti pálya: az 1. melléklet 1–6. pontjában felsorolt vasúti pályahálózat elem, valamint a vasúti alépítmény és felépítmény, az utasforgalom és áruszállítás részére rendelkezésre álló útvonalak, beleértve az utasperonokat, rakodóterületeket, beleértve az útvonalba eső az utasok mozgását biztosító szállító, mozgató berendezéseket, mozgólépcsőket, mozgójárdákat, lifteket, gyalogos és kerékpáros alul- és felüljárókat, a mozgáskorlátozottak emelésére szolgáló speciális berendezéseket, továbbá a vasúti kocsik rakodását, mozgatását, javítását célzó, a vágányra, vágányba vagy a vágány alá- vagy fölé épített különleges berendezések, különösen rakodó- és ürítőberendezések, ürítőhidak, ürítőgaratok, töltő- és lefejtő berendezések, fordítókorongok, tolópadok, a vasúti járművek javításához, karbantartásához szükséges és egyéb járműmozgató berendezések, vágányfékek, daruk, darupályák, emelőberendezések, járműmérlegek, kocsibuktatók, szállítógépek és berendezések, diagnosztikai és egyéb berendezések, és a mindezek elhelyezésére szolgáló földterületek; ahol2.21.1. vasúti alépítmény: a vasúti felépítmény terhelését elviselő és a talaj felé közvetítő mérnöki létesítmény. Az alépítmény része minden olyan szerkezet, amely a vasúti terhelés viselésében részt vesz vagy a szerkezet védelmét biztosítja, így különösen: töltések, bevágások, nyílásokat áthidaló mérnöki szerkezetek (hidak, átereszek, közúti vagy gyalogos aluljárók), a vasút pálya védelmére épített mérnöki szerkezetek, (alagutak, támfalak, bélésfalak, kőomlás ellen védő műtárgyak), vízelvezetést szolgáló szerkezetek (árkok, szivárgók), valamint a pálya és a környezet védelmét szolgáló szerkezetek (kerítések, tűzvédelmi sávok, hófogó rácsok, zajárnyékoló falak, védelmi céllal telepített növényzet);2.21.2. vasúti felépítmény: a vasúti vágány, amely magában foglalja valamennyi, a vasúti jármű kereke által közvetített terhelést viselő, illetve a jármű kerekének vezetését végző, azt elősegítő mérnöki szerkezetet, (beleértve a váltófűtő, sínkenő berendezéseket), valamint a vasúti ágyazat;
 
 2.22. vasúti pálya tartozéka: az 1. melléklet 7–9. pontjában felsorolt azon vasúti pályahálózat-elem, valamint a vasúti biztosítóberendezések kültéri elemei, a váltóállító készülékek, jelzőberendezések, szigetelt sínillesztések, tengelyszámlálók, az elektronikus biztosítóberendezések hardverei és szoftverei, valamint a védelmi berendezések (siklasztó saruk, vágányzáró sorompók, váltózárak), forgalomirányító és jelzőberendezések, beleértve a nemzeti és a kölcsönös átjárhatóságot biztosító alrendszereket, valamint a működésükhöz szükséges rádiókommunikációs berendezéseket; a telematikai, utastájékoztató és távközlési rendszerek, rádióátviteli rendszerek és berendezéseik, a vontatási energiaellátás rendszerei, különösen vasúti felsővezeték, áramvezető sín, energiaelosztást végző berendezések, tartóoszlopok, áramátalakító berendezések, vasúti térvilágítási rendszerek, beleértve a munkahelyi, az utasforgalmi, és rakodási célú területek térvilágítási berendezéseit, a perontető, a biztosítóberendezések, hírközlési és telematikai rendszerek, térvilágítási berendezések, vasúti felsővezetéki rendszerek és berendezéseik, ezek jelátviteléhez, működtetéséhez, áramellátásához szükséges kábelek, vezetékek, berendezések, tisztító- és mosóberendezések, és a mindezek elhelyezésére szolgáló földterületek, melyek a vasúti pálya jogszabályban meghatározott védősávval megnövelt területén belül helyezkednek el;
 
@@ -250,7 +250,7 @@ terjed ki.
 
 7. A vasúti közlekedés biztonságával kapcsolatos fogalmak:
 
-7.1. biztonsági jelentés: a 2004/49/EK európai parlamenti és tanácsi irányelv 8. cikk (2) és (4) bekezdésében, továbbá 32. cikkében előírt jelentés;
+7.1.
 
 7.2. biztonságirányítási rendszer: a pályahálózat-működtető vagy a vállalkozó vasúti társaság által az üzemeltetés biztonságos irányítására létrehozott irányítási rendszer, beleértve az azt működtető szervezeti egységet és az e szervezeti egység által meghozott intézkedések összességét;
 
@@ -258,7 +258,7 @@ terjed ki.
 
 7.4. közös biztonsági módszerek: a biztonsági szintek, a biztonsági célok megvalósítására és más, biztonsági követelmények teljesítésére vonatkozó értékelési eljárást meghatározó előírások összessége, amely a következőkre terjed ki:a) a kockázatelemzési és -értékelési módszerek,b) a biztonsági tanúsítványok és biztonsági engedélyek követelményeinek való megfelelés értékelésére szolgáló módszerek,c) a közlekedési hatóság által alkalmazandó felügyeleti módszerek, valamint a vállalkozó vasúti társaságok, a pályahálózat-működtetők és a karbantartásért felelős szervezetek által alkalmazandó nyomonkövetési módszerek,d) a vasúti üzemeltetők biztonsági szintjének és biztonsági teljesítményének nemzeti és uniós szintű értékelésére vonatkozó módszerek;e) a biztonsági célok megvalósításának nemzeti és uniós szintű értékelésére vonatkozó módszerek; ésf) minden olyan módszer, amely a biztonságirányítási rendszereknek valamely, uniós szinten harmonizálásra szoruló folyamatára vonatkozik;
 
-7.5. könnyű vasút: olyan városi vagy elővárosi vasúti közlekedési rendszer, amely (az EN 15227:2011 alapján) C-III vagy C-IV törésbiztonsággal rendelkezik, és járműveinek szilárdsága legfeljebb 800 kN (hosszirányú nyomóerő a kapcsolási ponton); a könnyű vasúti rendszerek rendelkezhetnek saját pályatesttel, vagy pályatestük lehet a közúttal közös, és járműveik általában nem vesznek részt a távolsági személyszállítási vagy árufuvarozási forgalomban;
+7.5. könnyű vasút: olyan városi vagy elővárosi vasúti közlekedési rendszer, amely (az EN 15227:2020 alapján) C-III vagy C-IV törésbiztonsággal rendelkezik, és járműveinek szilárdsága legfeljebb 800 kN (hosszirányú nyomóerő a kapcsolási ponton); a könnyű vasúti rendszerek rendelkezhetnek saját pályatesttel, vagy pályatestük lehet a közúttal közös, és járműveik általában nem vesznek részt a távolsági személyszállítási vagy árufuvarozási forgalomban;
 
 7.6. berakodó: az a vállalkozás, amely a küldeménydarabos árut, a kiskonténert vagy a mobil tartányt a kocsira vagy a konténerbe rakja, valamint a konténert, ömlesztettáru-konténert, MEG-konténert, tankkonténert vagy mobil tartányt a kocsira rakja;
 
@@ -392,6 +392,7 @@ terjed ki.
 - b) az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének átfogó ellenőrzését,
 - c) a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelés biztosítását,
 - d) a vasúti rendszert érintő jelentős változtatások által felmerülő kockázatok kezelésének ellenőrzését.
+- e) a vasúti pályahálózatok minőségi követelményei megvalósulásának és fennállásának ellenőrzését.
 
 (7a) A (7) bekezdés szerinti kijelölt szervezet számára – jogszabályban meghatározott forrásból, a miniszter által vezetett minisztérium igazgatási előirányzata terhére – a miniszter döntése alapján támogatás is nyújtható.
 
@@ -1037,11 +1038,13 @@ a közlekedési hatóság a nemzeti szabály vagy annak hatályon kívül helyez
 - a) a vasúti forgalom operatív lebonyolításával összefüggő folyamatokat a vasúti pályahálózat működtetője,
 - b) a vasúti közlekedés biztonságával összefüggő vasúti társasági előírásokat a vasúti társaság
 
-a biztonságirányítási rendszerébe illeszkedő szabályzatokban, utasításokban (a továbbiakban: hálózati forgalmi és biztonsági szabályzatok, utasítások) állapítja meg.
+a biztonságirányítási rendszerébe illeszkedő szabályzatokban, utasításokban (a továbbiakban: hálózati műszaki, forgalmi és biztonsági szabályzatok, utasítások) állapítja meg.
 
-(3) A hálózati forgalmi és biztonsági szabályzatokat, utasításokat a pályahálózat-működtető és a vasúti társaság a közlekedési hatóságnak jóváhagyásra megküldi.
+(3) A hálózati műszaki, forgalmi és biztonsági szabályzatokat, utasításokat a pályahálózat-működtető és a vasúti társaság a közlekedési hatóságnak jóváhagyásra megküldi.
 
-(4) A hálózati forgalmi és biztonsági szabályzatokat, utasításokat a közlekedési hatóság a jóváhagyás során a vasútüzemi működés körében alkalmazandó jogszabályoknak, a vasúti műszaki előírásoknak való megfelelőség, valamint a vasúti közlekedés biztonságára gyakorolt kockázata alapján vizsgálja.
+(4) A hálózati műszaki, forgalmi és biztonsági szabályzatokat, utasításokat a közlekedési hatóság a jóváhagyás során a vasútüzemi működés körében alkalmazandó jogszabályoknak, a vasúti műszaki előírásoknak való megfelelőség, valamint a vasúti közlekedés biztonságára gyakorolt kockázata alapján vizsgálja.
+
+30/B. § A vasúti műszaki szabályozási feladatokkal összefüggésben a miniszter egyedi támogatói döntése alapján támogatás is nyújtható. A támogatás a miniszter által vezetett minisztérium igazgatás előirányzata terhére is nyújtható.
 
 ### A VASÚTI KÖZLEKEDÉS BIZTONSÁGÁVAL KAPCSOLATOS JOGOK ÉS KÖTELEZETTSÉGEK
 
@@ -1080,7 +1083,13 @@ a biztonságirányítási rendszerébe illeszkedő szabályzatokban, utasításo
 
 (5) A vasúti társaság a vasúti közlekedés biztonságával összefüggő feladatkör betöltésére a jogszabály által előírt képesítéssel és szaktudással rendelkező személyt köteles alkalmazni.
 
-(6) A bejelentett szervezet részt vesz a Bizottság által létrehozott bejelentett szervezetek ágazati csoportjában. A pálya menti vagy a fedélzeti ellenőrző-irányító és jelző alrendszerek tekintetében bejelentett szervezet ezen kívül részt vesz az (EU) 2016/796 európai parlamenti és tanácsi rendelet 29. cikkében említett munkacsoport tevékenységében és követi a munkacsoport tevékenysége nyomán kidolgozott iránymutatásokat.
+(6) A bejelentett szervezet
+
+- a) részt vesz a Bizottság által létrehozott bejelentett szervezetek ágazati csoportjának tevékenységeiben,
+- b) az ágazati csoportja tekintetében végzett tevékenységről emlékeztető megküldésével tájékoztatja az értékelést végzőket, és
+- c) általános útmutatóként alkalmazza az értékelést végzők adminisztratív döntéseit és leiratait.
+
+(6a) A pálya menti vagy a fedélzeti ellenőrző-irányító és jelző alrendszerek tekintetében bejelentett szervezet részt vesz az (EU) 2016/796 európai parlamenti és tanácsi rendelet 29. cikke szerinti munkacsoport tevékenységében és követi a munkacsoport tevékenysége nyomán kidolgozott iránymutatásokat.
 
 (7) A bejelentett szervezet az Ügynökség részre megküldi az alrendszerek EK-hitelesítési tanúsítványait, valamint a kölcsönös átjárhatóságot lehetővé tevő rendszerelemek EK-megfelelőségi tanúsítványait és EK-alkalmazhatósági tanúsítványait.
 
@@ -1424,7 +1433,13 @@ irányul.
 
 43. § (1) A vasúti pályával szomszédos ingatlan tulajdonosa (használója) tűrni köteles, hogy a pályahálózat-működtető vagy a fejlesztési közreműködő és a GSM-R fejlesztő az ingatlanon, az alatt vagy felett gyengeáramú vezetéket, elektronikus hírközlési hálózati elemeket – beleértve a GSM-R hálózati elemeket is –, ehhez tartószerkezetet, jelzőkövet, egyéb jelzést vagy ideiglenes eszközt helyezzen el, ezeket javítsa, karbantartásukat elvégezze. A legfeljebb 1000 V – fogaskerekű vasút esetében legfeljebb 1500 V – vontatási üzemfeszültséggel villamosított vasúti pálya pályahálózat-működtetőjét megilleti ezen jogosultság az erősáramú vezetékek és az ehhez tartozó tartószerkezet elhelyezése, javítása és karbantartásának elvégzése során is. Az elhelyezés, a javítás és a karbantartás során a környezet- és természetvédelmi érdekeket figyelembe kell venni.
 
-(2) A pályahálózat-működtető, a fejlesztési közreműködő és a GSM-R fejlesztő – az ingatlan tulajdonosának (használójának) kártalanítása mellett – jogosult a vasúti pályán és a vasúti pálya védősávján belül a szabad kilátást akadályozó, továbbá a vasúti vezetékek nyomvonalában lévő növényzet eltávolítására, ha azt a közlekedés biztonsága, üzemzavar megelőzése vagy vezeték létesítése, javítása, karbantartása indokolja. A növényzet eltávolítása nem okozhat aránytalan sérelmet az érintett lakosság érdekei vagy a környezet- és természetvédelmi érdekek szempontjából.
+(2) A pályahálózat-működtető, a fejlesztési közreműködő és a GSM-R fejlesztő jogosult a vasúti pályán és a vasúti pálya védősávján belül, a vasúti pályát magán hordozó ingatlanon vagy a szomszédos ingatlanon – az ingatlan tulajdonosának (használójának) kártalanítása mellett – a szabad kilátást akadályozó, továbbá a vasúti vezetékek nyomvonalában lévő növényzet eltávolítására, ha azt a közlekedés biztonsága, üzemzavar megelőzése vagy vezeték létesítése, javítása, karbantartása indokolja. A növényzet eltávolítása nem okozhat aránytalan sérelmet az érintett tulajdonosok érdekei vagy a környezet- és természetvédelmi érdekek szempontjából. A vasúti közlekedés célját szolgáló erősáramú vezetékek és tartószerkezetek idegen ingatlanon történő elhelyezésére és üzemben tartására, valamint a növényzet eltávolítására a villamos energiáról szóló törvényben foglaltakat kell alkalmazni, azzal, hogy a pályahálózat-működtetőt ugyanazok a jogok megilletik, mint a hálózati engedélyest a vezetékjog alapján.
+
+(2a) A pályahálózat-működtető, a fejlesztési közreműködő és a GSM-R fejlesztő vagy megbízottja a szabad kilátást akadályozó, továbbá a vasúti vezetékek nyomvonalában lévő növényzet eltávolítása feladatok ellátásához a (2) bekezdésben meghatározott ingatlanra a tulajdonos előzetes tájékoztatása mellett – a lakás céljára szolgáló helyiségek kivételével – beléphet.
+
+(2b) Az ingatlan tulajdonosa vagy használója a (2a) bekezdésben felsorolt munkák végzését tűrni köteles, a munkák végzését nem akadályozhatja.
+
+(2c) A pályahálózat-működtető, a fejlesztési közreműködő és a GSM-R fejlesztő megbízottja a jogosultságát az adott munka elvégzésére vonatkozó meghatalmazással igazolja.
 
 (3) A trolibusz felsővezetékével szomszédos ingatlan tulajdonosa és használója – a trolibusz kötött pályájának létesítéséből fakadó közérdekre tekintettel – tűrni köteles, hogy a trolibusz üzemeltetője az ingatlanon, az alatt vagy felett legfeljebb 1000 V váltófeszültség vagy 1500 V egyenfeszültség névleges értéken üzemelő felsővezetéket, valamint az ehhez szükséges tartószerkezetet, jelzőkövet, egyéb jelzést vagy ideiglenes eszközt helyezzen el, ezeket javítsa, karbantartásukat elvégezze. Az elhelyezés, a javítás és a karbantartás során a környezet- és természetvédelmi érdekeket, élet és érintésvédelmi feltételeket figyelembe kell venni.
 
@@ -1523,17 +1538,19 @@ vasúti pályahálózathoz kapcsolódó – állami tulajdont keletkeztető – 
 
 (2) Az építtető a létesítéssel, felújítással és fejlesztéssel érintett vasúti pályaszakasz meghatározását követően haladéktalanul köteles írásban értesíteni a létesítéssel, felújítással, fejlesztéssel érintett közmű üzemeltetőjét és tulajdonosát (a továbbiakban együtt: üzemeltető) arról, hogy a fejlesztési tevékenység során mely közműszakasz átalakítása, áthelyezése (a továbbiakban együtt: kiváltása) vagy fejlesztése szükséges.
 
-(3) A tulajdonos – az állami tulajdonú víziközmű kiváltása vagy fejlesztése esetén a víziközmű vagyonkezelője – a (2) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a közműszakasz kiváltását vagy fejlesztését elvégezni vagy elvégeztetni. A fejlesztési közreműködő, a műszakilag feltétlenül szükséges mértékű, a tulajdonossal – az állami tulajdonú víziközmű kiváltása vagy fejlesztése esetén a víziközmű vagyonkezelőjével – egyeztetett határidőt – ami harminc napnál nem rövidebb – határoz meg a közműszakasz kiváltására vagy fejlesztésére. A tulajdonos – az állami tulajdonú víziközmű kiváltása vagy fejlesztése esetén a víziközmű vagyonkezelője – a véleményét a fejlesztési közreműködő értesítésének kézhezvételétől számított nyolc munkanapon belül köteles közölni a fejlesztési közreműködővel. Az építtető és az üzemeltető a tulajdonos – az állami tulajdonú víziközmű kiváltása vagy -fejlesztése esetén a víziközmű vagyonkezelője – véleményének kézhezvételétől számított 30 napon belül a közműkiváltás vagy fejlesztés elvégzésére vonatkozóan kötelesek egymással megállapodást kötni, amely megállapodásnak ki kell terjednie a közműkiváltás vagy fejlesztés műszakilag feltétlenül szükséges mértékének meghatározására is.
+(3) A tulajdonos és az állami tulajdonú víziközmű vagyonkezelője (e § alkalmazásában a továbbiakban együtt: tulajdonos) – a (2) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a közműszakasz kiváltását vagy fejlesztését elvégezni vagy elvégeztetni. A fejlesztési közreműködő, a műszakilag feltétlenül szükséges mértékű, a tulajdonossal egyeztetett határidőt – ami 30 napnál nem rövidebb, közműszakasz fejlesztés esetén, ha azt jogszabályi és más kötelezettségek lehetővé teszik, maximum 12 hónap – határoz meg a közműszakasz kiváltására vagy fejlesztésére. A tulajdonos a véleményét a fejlesztési közreműködő értesítésének kézhezvételétől számított 8 munkanapon belül köteles közölni a fejlesztési közreműködővel. Az építtető és az üzemeltető a tulajdonos véleményének kézhezvételétől számított 30 napon belül a közműkiváltás vagy fejlesztés elvégzésére vonatkozóan egymással megállapodást kötnek, amely megállapodás kiterjed a közműkiváltás vagy fejlesztés műszakilag feltétlenül szükséges mértékének meghatározására is.
 
 (4) A fejlesztési közreműködő köteles a közműkiváltás vagy -fejlesztés indokolt költségeit a tulajdonosnak, vagy annak jogutódjának – állami tulajdonú víziközmű kiváltása vagy -fejlesztése esetén a víziközmű vagyonkezelőjének – megfizetni, vagy a fejlesztési közreműködő által létrehozott közművet annak rendeltetésszerű használatbavételét – így különösen a közmű műszaki átadás-átvételi eljárásának eredményes lezárását vagy üzembe helyezését – követően, e törvény erejénél fogva, ingyenesen, könyv szerinti értéken, a közműkiváltás vagy -fejlesztés megvalósítása előtti tulajdonos vagy annak jogutódja tulajdonába, üzemeltetőjének üzemeltetésébe – az állami tulajdonba kerülő víziközmű esetén egyúttal a víziközmű vagyonkezelőjének vagyonkezelésébe – kerülnek.
 
 (5) A közmű ingyenesen, könyv szerinti értéken akkor adható át a tulajdonosnak – állami tulajdonú víziközmű kiváltása vagy fejlesztése esetén a víziközmű vagyonkezelőjének – ha a közműkiváltásra vagy -fejlesztésre műszakilag feltétlenül szükséges mértékben került sor és a közműkiváltás vagy -fejlesztés költségei nem haladták meg a közmű szokásos piaci költségét. Amennyiben a közműkiváltásra vagy -fejlesztésre a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, úgy a műszakilag feltétlenül szükséges mértéket meghaladó közműkiváltással vagy -fejlesztéssel arányos költséget a tulajdonos – állami tulajdonú víziközmű kiváltása vagy fejlesztése esetén a víziközmű vagyonkezelője – köteles megtéríteni. A közműkiváltás vagy -fejlesztés elvégzését követő 90 napon belül a fejlesztési közreműködő és a tulajdonos – az állami tulajdonú víziközmű kiváltása vagy fejlesztése esetén a víziközmű vagyonkezelője kötelesek egymással tételesen elszámolni, valamint megállapodást kötni.
 
-(6) A közműkiváltás vagy -fejlesztés elvégzésének vagy elvégeztetésének megtagadása esetén a fejlesztési közreműködő jogosult a közműkiváltást vagy -fejlesztést a megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amelyet a tulajdonos tűrni köteles.
+(6) A közműkiváltás vagy -fejlesztés elvégzésének vagy elvégeztetésének megtagadása esetén a fejlesztési közreműködő jogosult a közműkiváltást vagy -fejlesztést (beleértve a tervezési munkákat is) a vonatkozó jogszabályok szerinti eljárásban általa kiválasztott, megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amelyet a tulajdonos tűrni köteles.
 
 (7) A törzshálózati vasutat ellátó, annak üzemeléséhez szükséges és a közcélú hálózat részét nem képező közművek üzemeltetéséről – a csatlakozási ponttól – a pályavasút üzemeltetője köteles gondoskodni.
 
 (8) Törvény a nemzetgazdasági szempontból kiemelt jelentőségű vasúti infrastruktúra beruházások esetében a közműkiváltásra vagy -fejlesztésre az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
+
+(9) Ha a vasútvonal fejlesztésének végleges nyomvonalával érintett ingatlanon fogyasztói mérőóra került felszerelésre, a fogyasztó ellátását szolgáló közműszakasz bontását és a mérőóra leszerelését a közműszolgáltató köteles az építtető kérelmére 30 napon belül elvégezni, ha a tulajdonosi hozzájárulást rögzítő birtokbavételi jegyzőkönyvet az építtető csatolja.
 
 46. § (1) A Kormány által rendeletben kijelölt GSM-R fejlesztő a magyar állam és a GYSEV Zrt. tulajdonában álló vasúti pályahálózat részét képező GSM-R rendszerhálózat tekintetében központi költségvetési és európai uniós támogatásból építtetői, létesítési feladatokat láthat el a magyar állam javára eljárva. A GSM-R rendszerhálózat megvalósítása fontos közérdekű és közcélú tevékenység.
 
@@ -1831,9 +1848,9 @@ biztosítható.
 
 (2) A meglévő vasúti pályahálózat meghatározott szakaszán végzett beruházások, valamint új vasúti pályaszakasz létesítése esetén a pályahálózat-működtető által készített hosszú távú költségterv alapján magasabb díj érvényesíthető az adott vasúti pályaszakaszra vonatkozóan, ha a beruházás a vasúti pályahálózat jobb kihasználását eredményezi, vagy a pályahálózat-működtető és a hozzáférésre jogosultak közül legalább az egyik számára eredményjavulást okoz és a beruházás a magasabb díj alkalmazása nélkül nem valósulhatna meg. Az alkalmazott magasabb díj mértékének megállapításakor figyelembe lehet venni a beruházással kapcsolatos kockázatok megosztására vonatkozó megállapodásokat is.
 
-(3) A transzeurópai hagyományos vasúti rendszer ellenőrző-irányító és jelző alrendszerére vonatkozó kölcsönös átjárhatósági műszaki előírások végrehajtása tekintetében történő módosításáról szóló 2009. július 22-i 2009/561/EK bizottsági határozatban (a továbbiakban: 2009/561/EK bizottsági határozat) meghatározott ERTMS vasúti folyosók esetében különböző hálózat-hozzáférési díjakat kell alkalmazni a vonatoknak a kölcsönös átjárhatóság műszaki előírásairól a transzeurópai hagyományos vasúti rendszer ellenőrző-irányító és jelző alrendszerére vonatkozóan szóló 2006/679/EK határozat A. mellékletének és a nagy sebességű transzeurópai vasúti rendszer ellenőrző-irányító és jelző alrendszerére vonatkozó átjárhatósági műszaki előírásról szóló, 2006/860/EK határozat A. mellékletének módosításáról szóló, 2008. április 23-i 2008/386/EK bizottsági határozatban meghatározott ETCS fedélzeti berendezéssel, továbbá annak továbbfejlesztett változataival való felszerelésére ösztönzés érdekében. A különböző díjak alkalmazása nem idézhet elő átfogó változást a pályahálózat-működtető bevételében.
+(3) A transzeurópai hagyományos vasúti rendszer ellenőrző-irányító és jelző alrendszerére vonatkozó kölcsönös átjárhatósági műszaki előírások végrehajtására vonatkozó hatályos bizottsági határozatban meghatározott ERTMS vasúti folyosók esetében különböző hálózat-hozzáférési díjak alkalmazhatók az ETCS fedélzeti berendezéssel, továbbá annak továbbfejlesztett változataival való felszerelésére ösztönzés érdekében. A különböző díjak alkalmazása nem idézhet elő átfogó változást a pályahálózat-működtető bevételében.
 
-(4) A (3) bekezdésben meghatározott díjakat nem kell alkalmazni a 2009/561/EK bizottsági határozatban meghatározott olyan vasútvonalakra, amelyeken kizárólag ETCS rendszerrel felszerelt vonatok képesek közlekedni.
+(4)
 
 ### Kedvezmények
 
@@ -2157,6 +2174,8 @@ alapján vezethető.
 
 73. § (1) A vasúti igazgatási szerv kormánytisztviselőjének vasúti társasággal és vasúti pályakapacitás-elosztó szervezettel közvetlen vagy közvetett érdekeltsége nem állhat fenn.
 
+(1a) Nem nevezhető ki a vasúti igazgatási szerv kormánytisztviselőjének az a személy, akinek vasúti társasággal vagy vasúti pályakapacitás-elosztó szervezettel közvetlen vagy közvetett érdekeltsége áll fenn.
+
 (2) A vasúti igazgatási szerv kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal, vasúti pályakapacitás-elosztó szervezettel.
 
 (3) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően, a vasúti igazgatási szerv kormánytisztviselője évente kötelezettségvállalási és érdekeltségi nyilatkozatot tesz, amelyben feltünteti azokat a közvetlen és közvetett érdekeltségeit, amelyek sérthetik függetlenségét és befolyásolhatják bármely feladata teljesítését.
@@ -2165,13 +2184,15 @@ alapján vezethető.
 
 (5) A vasúti igazgatási szerv kormánytisztviselőjének a felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
 
-(6) Az (1)–(4) bekezdésben foglaltakkal összefüggő részletes szabályokat a Kormány rendeletben határozza meg.
+(6)
 
 #### 74. §
 
 75. § A vasúti igazgatási szerv feladatkörében eljáró kormánytisztviselő ezen jogviszonya megszűnését követően egy évig sem pályahálózat-működtetővel, sem vállalkozó vasúti társasággal, sem a vasúti pályakapacitás-elosztó szervezettel nem létesíthet munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt. A vasúti igazgatási szerv e korlátozás alapján ellenértéket köteles fizetni a kormánytisztviselőnek, amelynek mértékére a munka törvénykönyvéről szóló törvény versenytilalmi megállapodásra vonatkozó szabályait kell alkalmazni.
 
 75/A. § A 73. § (1)–(5) bekezdésében, valamint a 75. §-ban foglaltakat a vasúti igazgatási szervvel munkaviszonyban álló személyre is alkalmazni kell.
+
+75/B. § A vasúti igazgatási szerv munkavállalója köteles haladéktalanul írásban bejelenteni, ha vele szemben a 73. § (1) bekezdésében meghatározott összeférhetetlenségi ok merül fel, illetve ha munkaviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. Ha a munkáltatói jogkör gyakorlójának összeférhetetlenségi ok jut a tudomására, a jogkövetkezmények megjelölésével köteles haladéktalanul írásban felszólítani a munkavállalót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg. Amennyiben a munkavállaló az összeférhetetlenséget a felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg, munkaviszonya megszűnik.
 
 ### A vasúti igazgatási szerv eljárására vonatkozó közös szabályok
 
@@ -2348,7 +2369,7 @@ során.
 - a) a műszaki engedély kiadása,
 - b) ha a vállalkozó vasúti társaság szolgáltatási területe Magyarország területére korlátozódik, és a vállalkozó vasúti társaság a közlekedési hatóság eljárását kérelmezte, az egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása, visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése és felügyelete,
 - c) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzésére és vizsgáztatására vonatkozó rendelkezések munkavállalók, vállalkozó vasúti társaságok, pályahálózat-működtetők, oktatók, vizsgabiztosok és képzőszervek által történő betartásának rendszeres ellenőrzése, a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás rendszeres ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak rendszeres ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
-- d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése és felügyelete abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak, továbbá a járművek vagy járműtípusok az alapvető követelményeknek való megfelelőségének ellenőrzése és felügyelete,
+- d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése és felügyelete abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati műszaki, a forgalmi és a biztonsági szabályzatokban foglaltaknak, továbbá a járművek vagy járműtípusok az alapvető követelményeknek való megfelelőségének ellenőrzése és felügyelete,
 - e) a vasúti járművek és a vasúti járműre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
 - f) a vasúti járművek nyilvántartásának, az országos vasúti pályahálózat nyilvántartásának és a 1300/2014/EU rendelet szerinti eszközleltár vezetése, valamint a 1300/2014/EU rendelet szerinti hozzáférhetőségi adatok gyűjtése, karbantartása és cseréje,
 - g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok kiadását megelőző vizsgálata,
@@ -2359,7 +2380,7 @@ során.
 - l) a vasúti járművezetői engedélyek kiállítása, megújítása, nyilvántartása, másolatok készítése, az engedélyek felfüggesztése és visszavonása, valamint a kiállító vasúti társaság értesítése a tanúsítványok felfüggesztésének kéréséről, továbbá a tanúsítvánnyal kapcsolatos munkáltatói döntés felülvizsgálata,
 - m) az egészségi alkalmasság megállapítása, valamint a vizsgáló szervezet 36/B. § szerinti tevékenységének ellenőrzése,
 - n) a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
-- o) a hálózati forgalmi és a biztonsági szabályzatok jóváhagyása,
+- o) a hálózati műszaki, forgalmi és a biztonsági szabályzatok jóváhagyása,
 - p) együttműködés az Ügynökséggel a forgalombahozatali járműengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 21. cikke (5) bekezdésének megfelelően, vagy jármű-típusengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 24. cikkének megfelelően történő kiállításában, megújításában, módosításában és visszavonásában, az (EU) 2016/798 európai parlamenti és tanácsi irányelv 10. cikk (5) bekezdése szerinti egységes biztonsági tanúsítványok kiállításában, megújításában, módosításában és visszavonásában, az ÁME-k kidolgozásában és felülvizsgálatában, valamint az Ügynökségnek a vasútbiztonság uniós szintű fejlesztésének nyomon követésével kapcsolatos munkájában,
 - q) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokkal összefüggő hatósági engedélyezési, ellenőrzési és felügyeleti feladatok ellátása,
 - r) a vasúti járművek forgalomba hozatalára vonatkozó nemzeti szabályozás mint nemzeti referenciadokumentum (a továbbiakban: nemzeti referenciadokumentum) jóváhagyása, valamint a nemzeti referenciadokumentum módosításának a jóváhagyása,
@@ -2384,7 +2405,7 @@ során.
 
 (1a) A közlekedési hatóság vasúti pályával és vasúti üzemi létesítménnyel kapcsolatos másodfokú eljárásában nem lehet ügyfél az, aki vagy amely az elsőfokú eljárásban nem tett nyilatkozatot vagy nem nyújtott be kérelmet.
 
-(2) A közlekedési hatóság a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezésétől számított harminc napon belül adja ki. A közlekedési hatóság eljárásaiban két ízben hiánypótlásra hívhatja fel a kérelmezőt.
+(2) A közlekedési hatóság a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezésétől számított harminc napon belül adja ki. A közlekedési hatóság eljárásaiban három ízben hiánypótlásra hívhatja fel a kérelmezőt.
 
 (3) A közlekedési hatóság ügyintézési határideje a kérelemre indult, a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban, és az ellenőrzési eljárásokban két hónap. A vasúti pálya létesítésével, korszerűsítésével, átalakításával, használatbavételével, az egységes biztonsági tanúsítvánnyal, a vasútbiztonsági engedéllyel, valamint a vasúti járművek forgalomba hozatalának engedélyezésével, típusengedélyezésével összefüggő hatósági eljárások ügyintézési határideje négy hónap. A vasúti szakhatósági eljárás ügyintézési határideje huszonegy nap.
 
@@ -2410,7 +2431,7 @@ során.
 
 (3)
 
-(4) A hatóság a 10. § (1) bekezdés 1. pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az általa megadott elektronikus levélcímen az eljárás megindításától számított nyolc napon belül értesíti.
+(4)
 
 (5) A kiemelt jelentőségű ügynek nyilvánított, vagy jogszabályban közérdekűnek minősített vasúti pálya kialakításával kapcsolatos műszaki engedély – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – azonnal végrehajthatóvá nyilvánítható.
 
@@ -2527,7 +2548,7 @@ felfüggesztheti, megtilthatja vagy visszavonhatja,
 (11) A közlekedési hatóság a vasúti közlekedés biztonságával és a vasúti forgalom lebonyolításával kapcsolatos szabályok megsértése esetén
 
 - a) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalót a külön jogszabályban meghatározottak szerint határozott időre eltilthatja a munkavégzéstől, valamint a munkakör további betöltését képzés elvégzéséhez és hatósági vizsga letételéhez kötheti,
-- b) ha az ellenőrzés alá vont vasúti jármű a külön jogszabályokban, valamint a hálózati forgalmi és a biztonsági utasításokban az össztömegre, a tengelyterhelésre és a méretre meghatározott előírásoknak nem tesz eleget, vagy a vasúti közlekedés biztonsága érdekében egyébként indokolt, felszólítja a pályahálózat-működtetőt az érintett vonat továbbközlekedtetésének leállítására,
+- b) ha az ellenőrzés alá vont vasúti jármű a külön jogszabályokban, valamint a hálózati műszaki, forgalmi és a biztonsági utasításokban az össztömegre, a tengelyterhelésre és a méretre meghatározott előírásoknak nem tesz eleget, vagy a vasúti közlekedés biztonsága érdekében egyébként indokolt, felszólítja a pályahálózat-működtetőt az érintett vonat továbbközlekedtetésének leállítására,
 - c) bírságot szabhat ki.
 
 (12) A közlekedési hatóság ellenőrzése során a vasúti jármű vezetője a vasúti járművet köteles megállítani, személyazonosságát és járművezetési jogosultságát igazolni, a vasúti jármű és tartozékai, a rakomány, az okmányok ellenőrzésével kapcsolatos felhívásnak eleget tenni. Az ellenőrzés során a vasúti járműhöz és tartozékaihoz, valamint a rakományhoz tartozó okmányokat a közlekedési hatóság részére be kell mutatni.
@@ -2740,11 +2761,11 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 (2) Nem minősíthető üzleti titokká olyan adat, vagy annak bármilyen szempont szerinti feldolgozása, amely adat nyilvánosságra hozatalára az ügyfelet jogszabály kötelezi.
 
-(3) Amennyiben az eljárásban résztvevő ügyfél jogérvényesítése érdekében indokolt, a vasúti igazgatási szerv felszólíthatja az üzleti titokkal rendelkező ügyfelet az üzleti titok minősítés azonnali hatállyal történő megszüntetésére. Amennyiben az üzleti titokkal rendelkező ügyfél az üzleti titok minősítést nem oldja fel, és ezzel az ügy érdemi elbírálását akadályozza, a vasúti igazgatási szerv végzésben az eljárás folytatásához szükséges mértékben kötelezi az üzleti titok másik fél számára történő rendelkezésre bocsátására.
+(3)
 
-(4) A vasúti igazgatási szerv (3) bekezdésben foglalt végzése a közléstől számított 15 napon belül támadható meg közigazgatási perben. Ha a vasúti igazgatási szerv a döntését nem nyilvánította azonnal végrehajthatónak, a keresetlevél benyújtásának halasztó hatálya van. A kérelem tárgyában a bíróság 15 napon belül határoz.
+(4)
 
-(5) Amennyiben a külföldi hatóság igényli, hogy a megkeresésére adott választ minősítse a vasúti igazgatási szerv üzleti titoknak, a vasúti igazgatási szerv megkeresésre adott válaszában foglaltakat részben vagy egészben üzleti titokként kell kezelni, az üzleti titok kezelésére a (2) bekezdésben foglaltakat kell alkalmazni.
+(5)
 
 ### XIV/A. Fejezet — A KÜLÖNLEGES KÖTÖTTPÁLYÁS KÖZLEKEDÉSRE VONATKOZÓ RENDELKEZÉSEK
 
@@ -3237,9 +3258,9 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 
 88. § (1) Felhatalmazást kap a Kormány, hogy
 
-- 1. a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv kijelölését, eljárásuk részletes szabályait, a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyban vagy munkaviszonyban állókra vonatkozó összeférhetetlenségi szabályokat,
+- 1. a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv kijelölését, eljárásuk részletes szabályait, a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyban vagy munkaviszonyban állókra vonatkozó összeférhetetlenségi szabályokat, valamint az érdekeltségi és kötelezettségvállalási nyilatkozat megtételére vonatkozó szabályokat,
 - 2. a vasúti közlekedés területén a kötelező kárfedezet biztosításának részletes szabályait,
-- 3. a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére, továbbá a megfizetésükre vonatkozó részletes szabályokat,
+- 3. a vasúti piacfelügyeleti bírság legmagasabb mértékére, továbbá a megfizetésére vonatkozó részletes szabályokat,
 - 4. a vasúti árufuvarozási szerződésre vonatkozó részletes szabályokat,
 - 5. a kapacitáselosztás körébe tartozó szolgáltatások nyújtására vonatkozóan a VPSZ és a pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a pályahálózat-működtető által fizetendő megbízási díj mértékét,
 - 6. a vasúti vizsgaközpont, valamint vasúti képzési módszertani központ kijelölését, a vasúti vizsgaközpont tevékenységének részletes szabályait,
@@ -3286,7 +3307,7 @@ rendeletben állapítsa meg.
 - 17. a teljesítményösztönző rendszerre vonatkozó részletes szabályokat,
 - 18.
 - 19. a kölcsönös átjárhatóságot lehetővé tevő műszaki előírásokat,
-- 20. a vasúti forgalom lebonyolítására és a hálózati forgalmi szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó anyagi jogi szabályokat,
+- 20. a vasúti forgalom lebonyolítására és a hálózati műszaki, forgalmi szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó anyagi jogi szabályokat,
 - 21. a vasúti igazgatási szerv részére fizetendő felügyeleti díj megfizetésének módját és feltételeit tartalmazó anyagi jogi szabályokat,
 - 22. a vasúti közlekedés biztonságára és a biztonsági szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó anyagi jogi szabályokat,
 - 23. a vasúti járművezetői engedély és tanúsítvány kiadására, megszerzésére, és alkalmazására vonatkozó anyagi jogi szabályokat,

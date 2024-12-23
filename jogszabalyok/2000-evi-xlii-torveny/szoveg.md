@@ -341,9 +341,11 @@ lajstromban tartja nyilván.
 
 ### IV. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY SZEMÉLYZETÉRE VONATKOZÓ ÁLTALÁNOS ELŐÍRÁSOK
 
-26. § (1) Úszólétesítményt a hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre – kedvtelési célú hajó esetében vezetésre – alkalmas állapotban lévő személyzet működtethet.
+26. § (1) Jogszabályban meghatározott úszólétesítményt az abban előírt hajózási képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre – kedvtelési célú hajó esetében vezetésre – alkalmas állapotban lévő személyzet működtethet.
 
-(1a) Az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetőjének képesítő okmányait a vizsgaközpont állítja ki.
+(1a) Az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetőjének hajózási képesítő okmányait a vizsgaközpont állítja ki.
+
+(2) Úszólétesítményen képesítéshez kötött szolgálat csak a hajózási hatóság vagy a vizsgaközpont által kiadott, illetve honosított, továbbá nemzetközi szerződés alapján vagy a hajózási hatóság döntése által elismert képesítő okmány birtokában látható el.
 
 (2) Úszólétesítményen képesítéshez kötött szolgálat csak a hajózási hatóság vagy a vizsgaközpont által kiadott, illetve honosított, továbbá nemzetközi szerződés alapján elismert képesítő okmány birtokában látható el.
 
@@ -358,12 +360,13 @@ lajstromban tartja nyilván.
 
 - a) természetes személyazonosító adatok,
 - b) a képesítéssel rendelkező lakcíme és elérhetőségei (értesítési cím, telefonszám, e-mail-cím),
-- c) továbbképzésen történt részvétel időpontja,
-- d) képesítő okmány száma, a kiadás dátuma,
+- c) a képesítő okmány megnevezése, az okmány száma, a kibocsátó ország neve, a megszerzett képesítés megnevezése, a jogosult személyzeti azonosító száma (CID), a jogosult fényképe, a jogosult aláírása, a kibocsátás időpontja, a lejárat időpontja, a kiállító hatóság neve, kódolt egyedi engedélyek, korlátozások, megjegyzések, vonalkód, feladatkör, szint, beosztás tekintetében,
+- d) a képesítő okmány felfüggesztésére, visszavonására, bevonására, elvesztésére, ellopására, megsemmisülésére vonatkozó adatok,
 - e) a nyilvántartást vezető hajózási hatóság megnevezése,
-- f) a nyilvántartásba vétel száma, időpontja.
+- f) a nyilvántartásba vétel száma, időpontja, és
+- g) a vizsgaközpont által szervezett képesítő vizsgák adatai és a vizsgán elért eredmények.
 
-(6) Az (5) bekezdés szerinti nyilvántartás c)–f) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(6) Az (5) bekezdés szerinti nyilvántartás az (5) bekezdés c)–g) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (7) A hajózási hatóság statisztikai célra az Európai Bizottság számára évente személyazonosításra alkalmatlan módon elektronikus úton átadja a tárgyévet megelőző év december 31-éig nyilvántartásába vett tengerész képesítő okmányokkal kapcsolatban kezelt alábbi adatköröket:
 
@@ -384,15 +387,27 @@ lajstromban tartja nyilván.
 
 (8) A vizsgaközpont, valamint a hajózási hatóság a jogszabály által meghatározott feladat- és hatáskörét érintően biztosítja, hogy a hivatásos hajós képesítésekkel kapcsolatos kompetenciák megszerzésével és értékelésével kapcsolatos tevékenységet, valamint az uniós képesítő bizonyítvánnyal, a szolgálati könyvvel és a hajónaplóval kapcsolatos adminisztrációt 2037. január 17-ig, azt követően pedig legalább tízévente független szerv értékelje. A vizsgaközpont, valamint a hajózási hatóság az értékelések eredményeit dokumentálja és az érintett hatóságok tudomására hozza.
 
-26/A. § (1)
+26/A. § (1) A hajózási hatóság a jóváhagyott képzőszervekről nyilvántartást vezet, amely az alábbi adatokat tartalmazza
 
-(2)
+- a) a képző szervezet nevét és címét;
+- b) az engedély számát, dátumát és annak hatályát; valamint
+- c) a jóváhagyott képzés típusát.
 
-(3) A hajózási hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a képesítő okmánnyal rendelkező személy büntetlen előéletű-e, és nem áll-e foglalkozástól vagy vízi jármű vezetésétől eltiltás hatálya alatt.
+(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés b)–c) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(4)
+(3) A hajózási hatóság a képzőszerv engedélyét visszavonja és a képzőszervet a nyilvántartásból törli, ha
 
-(5)
+- a) az engedélyezés feltételei már nem állnak fenn,
+- b) a képzőszerv ezt kérelmezi, vagy
+- c) a képzőszerv a tevékenységére vonatkozó rendelkezéseket súlyosan vagy ismételten megsérti.
+
+(4) A hajózási hatóság hatósági ellenőrzés keretében ellenőrzi a jóváhagyott képzéseket, képzési programokat, vizsgáztatást.
+
+(5) A hajózási hatóság hatósági ellenőrzés keretében ellenőrzi, hogy a képesítő okmánnyal rendelkező személy büntetlen előéletű-e és nem áll-e foglalkozástól vagy vízi jármű vezetésétől eltiltás hatálya alatt.
+
+(6) A vizsgaközpont a jóváhagyott képzések, képzési programokon és képesítő vizsgákon szakfelügyeleti tevékenységet folytat.
+
+(7) A hajózási hatóság a képzőszerv engedélyét visszavonhatja, továbbá jogsértés esetén a képzőszervet a tevékenység végzésétől eltilthatja. Az eltiltás legfeljebb 6 hónapig tarthat.
 
 26/B. § (1) A hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott vizsgát – jogszabály eltérő rendelkezése hiányában – a vizsgaközpont vizsgaszabályzata szerint kell lefolytatni. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
@@ -478,7 +493,7 @@ lajstromban tartja nyilván.
 
 ### V. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY VEZETŐJE
 
-34. § (1) Az úszólétesítmény vezetője az üzemben tartó által írásban megbízott, jogszabályban előírt képesítéssel rendelkező személy lehet.
+34. § (1) Az úszólétesítmény vezetője az üzemben tartó által szolgálati beosztásban meghatározott, jogszabályban előírt képesítéssel rendelkező személy lehet.
 
 (2) A tengeri nagyhajó, továbbá a gépi üzemű belvízi nagyhajó vezetője a hajóparancsnok.
 
@@ -747,7 +762,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 kezeli.
 
-(4a) A Vizsgaközpont az e törvényben, valamint a hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a (4) bekezdés a) pontjában foglalt, valamint a hajózási képesítő vizsgára jelentkező és a vizsgát tett személy egészségi alkalmasságra vonatkozó adatait a vizsgára jelentkezéstől számítottan két évig, a vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és – ezek hitelességének utólagos igazolása céljából – nyilvántartani a vizsga letételét követő 40 évig.
+(4a) A Vizsgaközpont az e törvényben, valamint e törvény felhatalmazása alapján kiadott rendeletben meghatározott vizsgáztatási és okmánykiállítási tevékenységével összefüggésben a (4) bekezdés a) pontjában foglalt adatokat, a hajózási képesítő vizsgára jelentkező és vizsgát tett személy, valamint hajózási képesítő okmányt igénylő személy egészségi alkalmassági minősítésére vonatkozó adatait, természetes személyazonosító adatait, képesítéssel kapcsolatos adatait, valamint arra vonatkozó adatait, hogy hajózási képesítéshez kötött foglalkozástól vagy járművezetéstől eltiltás hatálya alatt nem áll, – a vizsgaeredmények, a megszerzett képesítések és kiállított okmányok hitelességének utólagos igazolása céljából – a vizsgára jelentkezéstől számított, illetve az okmányigénylés benyújtását követő 40 évig kezeli.
 
 (4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, továbbá a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetői képzésén részt vevők, illetve ehhez kapcsolódóan vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
 
