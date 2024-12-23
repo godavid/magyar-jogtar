@@ -295,7 +295,7 @@ vonatkozó rendelkezés(ek) alkalmazása alól, ha így az építési beruházá
 
 (2) Amennyiben a minisztérium nem lép be konzorciumi tagként a projektbe, úgy erről írásban nyilatkozik. Az önkormányzat kedvezményezett a miniszter ilyen tartalmú nyilatkozatát az irányító hatóság részére benyújtja, amely nyilatkozat nem akadályozza a beruházás megvalósítását.
 
-15. § (1) Az adott állami építési beruházás koordinálása és hatékony megvalósítása érdekében a minisztérium projektszervezetet hoz létre, valamint projektalapító dokumentumban meghatározza a projektszervezet tagjai közötti információmegosztás, feladatmegosztás, felelősség és együttműködés szabályait. A projektszervezet tagjai az ebből eredő feladataikat külön díjazás nélkül látják el.
+15. § (1) Az adott állami építési beruházás koordinálása és hatékony megvalósítása érdekében az építtető projektszervezetet hoz létre, valamint projektalapító dokumentumban meghatározza a projektszervezet tagjai közötti információmegosztás, feladatmegosztás, felelősség és együttműködés szabályait. A projektszervezet tagjai az ebből eredő feladataikat külön díjazás nélkül látják el.
 
 (2) A projektszervezet tagjai az adott állami építési beruházás
 
@@ -308,7 +308,7 @@ vonatkozó rendelkezés(ek) alkalmazása alól, ha így az építési beruházá
 - g) költségszakértője és
 - h) kivitelezője.
 
-(3) A projektszervezetben részt vesz az üzemeltető, továbbá a minisztérium, a szakminiszter és – az épített környezet alakításáról és védelméről szóló törvény szerinti nyomvonal jellegű állami építési beruházás (a továbbiakban: nyomvonal jellegű állami építési beruházás) kivételével – az állami építési beruházás helyszíne szerint illetékes önkormányzat polgármestere által delegált személy.
+(3) A projektszervezetben részt vesz az üzemeltető, továbbá – amennyiben építtető vagy amennyiben konzorciumi tagként vesz részt a beruházásban – a minisztérium, a szakminiszter és – az épített környezet alakításáról és védelméről szóló törvény szerinti nyomvonal jellegű állami építési beruházás (a továbbiakban: nyomvonal jellegű állami építési beruházás) kivételével – az állami építési beruházás helyszíne szerint illetékes önkormányzat polgármestere által delegált személy.
 
 (4) A projektszervezetbe az állami építési beruházás előkészítése és megvalósítása során a (2) bekezdés szerinti részvevők a tevékenységük felmerülése ütemében bármikor becsatlakozhatnak.
 
@@ -338,11 +338,11 @@ vonatkozó rendelkezés(ek) alkalmazása alól, ha így az építési beruházá
 
 jelöl ki vagy bíz meg.
 
-(2) Az állami építési beruházás (1) bekezdés a) pontja szerinti résztvevője e törvény eltérő rendelkezése hiányában a minisztériummal munkavégzésre irányuló jogviszonyban álló vagy – a Kormány egyedi döntése alapján – 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy lehet.
+(2) Az állami építési beruházás (1) bekezdés a) pontja szerinti résztvevője e törvény eltérő rendelkezése hiányában az építtetővel munkavégzésre irányuló jogviszonyban álló vagy – a Kormány egyedi döntése alapján – 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy lehet.
 
 (3) Az állami építési beruházás (1) bekezdés e) pontja szerinti résztvevője e törvény eltérő rendelkezése hiányában költségvetési szervvel vagy 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy lehet.
 
-(4) A (2) és (3) bekezdésben foglaltaktól eltérően – ha az építési beruházás gyors lefolytatásához kiemelt nemzeti vagy befektetésösztönzési érdek fűződik – a minisztérium dönthet az (1) bekezdés a) és e) pontja szerinti résztvevők polgári jogi jogviszony keretében történő igénybe vételéről.
+(4) A (2) és (3) bekezdésben foglaltaktól eltérően – ha az építési beruházás gyors lefolytatásához kiemelt nemzeti vagy befektetésösztönzési érdek fűződik – az építtető dönthet az (1) bekezdés a) és e) pontja szerinti résztvevők polgári jogi jogviszony keretében történő igénybe vételéről.
 
 (5) Az állami építési beruházás megvalósítása eredményeként állami tulajdonú ingatlan területén létrejövő építmény üzemeltetésének feltételeit és az üzemeltető kiválasztásának szabályait – ha törvény eltérően nem rendelkezik – a miniszter rendeletben állapítja meg.
 
@@ -441,7 +441,7 @@ jelöl ki vagy bíz meg.
 
 (4) Nem járhat el az adott állami építési beruházás során az, aki nem felel meg az Építési Beruházási Folyamatok Rendszerében meghatározott követelményeknek.
 
-(5) Az állami építési beruházásban résztvevő köteles a tevékenysége megkezdését megelőzően összeférhetetlenségi nyilatkozatot tenni a miniszter részére.
+(5) Az állami építési beruházásban résztvevő köteles a tevékenysége megkezdését megelőzően összeférhetetlenségi nyilatkozatot tenni az építtető részére.
 
 (6) Az összeférhetetlenségi nyilatkozatot a miniszter mintavételi eljárás alapján és bejelentésre ellenőrzi.
 
@@ -453,7 +453,7 @@ jelöl ki vagy bíz meg.
 
 (10) Nem járhat el az adott állami építési beruházás során az, aki bejelentette összeférhetetlenségét mindaddig, amíg a miniszter nem állapítja meg, hogy az összeférhetetlenség nem áll fenn vagy megszűnt.
 
-(11) Az összeférhetetlenséggel érintett résztvevőt az adott állami építési beruházásból ki kell zárni, és a miniszter gondoskodik annak a feladatnak a felülvizsgálatáról és megismétléséről, amelyben az összeférhetetlenséggel érintett résztvevő eljárt.
+(11) Az összeférhetetlenséggel érintett résztvevőt az adott állami építési beruházásból ki kell zárni, és az építtető gondoskodik annak a feladatnak a felülvizsgálatáról és megismétléséről, amelyben az összeférhetetlenséggel érintett résztvevő eljárt.
 
 #### 8. Képzés és oktatás
 
@@ -570,7 +570,7 @@ jelöl ki vagy bíz meg.
 
 34. § Közösségi célokat szolgáló, közhasználatú beruházás esetén a beruházás becsült értékének legalább 3 ezrelékét a beruházással szervesen összefüggő, vagy annak környezetében elhelyezkedő – elsősorban, de nem kizárólagosan kortárs – képzőművészeti és iparművészeti alkotások megvalósítására kell fordítani.
 
-35. § (1) A beruházás koncepciótervét készítő tervező – amennyiben a miniszter eltérően nem rendelkezik – tervpályázat útján kerül kiválasztásra. A koncepcióterv elkészítésére irányuló tervpályázatot a minisztérium írja ki.
+35. § (1) A beruházás koncepciótervét készítő tervező – amennyiben a miniszter eltérően nem rendelkezik – tervpályázat útján kerül kiválasztásra. A koncepcióterv elkészítésére irányuló tervpályázatot az építtető írja ki.
 
 (2) Tervpályázatot az építtető által jóváhagyott előzetes tervezési program, költségbecslés, beruházási keret alapján lehet kiírni.
 
@@ -582,7 +582,7 @@ jelöl ki vagy bíz meg.
 
 36. § (1) A tervező kiválasztására a tervpályázat lezárását követően – amennyiben annak jogszabályi feltételei fennállnak – külön hirdetmény nélküli tárgyalásos közbeszerzési eljárásban kerül sor.
 
-(2) Ha a tervezési szolgáltatások beszerzésére irányuló közbeszerzési eljárás több fajtája is választható, a minisztérium dönthet úgy, hogy az (1) bekezdésben foglaltakkal ellentétben a közbeszerzési eljárás másik, jogszabály által megengedett fajtáját alkalmazza.
+(2) Ha a tervezési szolgáltatások beszerzésére irányuló közbeszerzési eljárás több fajtája is választható, az építtető dönthet úgy, hogy az (1) bekezdésben foglaltakkal ellentétben a közbeszerzési eljárás másik, jogszabály által megengedett fajtáját alkalmazza.
 
 (3) A tervezési szolgáltatások beszerzésére irányuló közbeszerzési eljárás a beruházáshoz szükséges telekingatlan jogi helyzetének a keretprogram által meghatározott rendezését követően vagy az ingatlanügyi hatóság által záradékolt kisajátítási tervek rendelkezésre állása esetén indítható el.
 
@@ -604,9 +604,9 @@ jelöl ki vagy bíz meg.
 
 39. § (1) Az engedélyezés iránti kérelem benyújtása előtt a tervező a projektvezető közreműködésével köteles beszerezni a kérelemhez tartozóan valamennyi érintett közmű tulajdonosának vagy szükség szerinti üzemeltetőjének (a továbbiakban együtt: közműszolgáltató) nyilatkozatát. A közműszolgáltató nyilatkozatában közli a tulajdonában vagy kezelésében lévő közmű rendeltetésszerű használata, védelme érdekében indokolt feltételeket. A közműszolgáltató a nyilatkozatához az elbírálás és az építési, létesítési engedély kiadása iránti engedélyezési eljárás során kötve van, amennyiben az építési, létesítési engedély iránti kérelemhez csatolt építészeti-műszaki dokumentáció megegyező tartalmú a közműegyeztetés során vizsgált dokumentációval.
 
-(2) A beruházással érintett közműszolgáltató esetében az építési, létesítési engedély kiadása vonatkozásában alkalmazni kell a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) 1/D. § (1) bekezdésében foglaltakat.
+(2) A beruházással érintett közműszolgáltató esetében az építési, létesítési engedély kiadása vonatkozásában alkalmazni kell a magyar építészetről szóló 2023. évi C. törvény 200. §-ában foglaltakat.
 
-(3) Az engedélyezési dokumentációt a beruházás eredményeként megvalósuló építmény kijelölt vagyonkezelője és üzemeltetője véleményezi, és – a tervellenőri, műszaki ellenőri és költségszakértői vélemények beszerzését követően – a miniszter vagy az általa kijelölt személy hagyja jóvá.
+(3) Az engedélyezési dokumentációt a beruházás eredményeként megvalósuló építmény kijelölt vagyonkezelője és üzemeltetője véleményezi, és – a tervellenőri, műszaki ellenőri és költségszakértői vélemények beszerzését követően – az építtető vagy az általa kijelölt személy hagyja jóvá.
 
 (4) A véleményezés során a tervellenőr megvizsgálja, hogy a tervek a szakmai előírásoknak megfelelően, teljeskörűen, helyes számításokkal készültek-e el, és biztosítják-e az építmény szakszerű és biztonságos megvalósíthatóságát, továbbá nem tartalmaznak belső ellentmondásokat. A tervellenőr a véleményezés során a beruházás előkészítésének és megvalósításának egyéb résztvevőit is bevonhatja.
 
@@ -614,13 +614,13 @@ jelöl ki vagy bíz meg.
 
 (6) Építési, létesítési vagy egyéb hatósági engedélyhez nem kötött beruházás esetén engedélyezési dokumentáció helyett jóváhagyási tervet kell készíteni, amelyre az (1)–(3) bekezdésben foglaltak alkalmazandók.
 
-40. § (1) Az építési, létesítési vagy egyéb hatósági engedélyhez kötött beruházás esetén a beruházás hatósági engedélyeztetésére irányuló eljárást – a vezetékjogi engedélyezési eljárásokat kivéve – a minisztérium indítja meg.
+40. § (1) Az építési, létesítési vagy egyéb hatósági engedélyhez kötött beruházás esetén a beruházás hatósági engedélyeztetésére irányuló eljárást – a vezetékjogi engedélyezési eljárásokat kivéve – az építtető indítja meg.
 
-(2) A vezetékjogi engedély kivételével a végleges építési, létesítési vagy egyéb hatósági engedély megszerzését követően a költségszakértő aktualizálja a beruházás költségbecslését, amely alapján a megvalósíthatósági tanulmány átdolgozásáról a minisztérium gondoskodik.
+(2) A vezetékjogi engedély kivételével a végleges építési, létesítési vagy egyéb hatósági engedély megszerzését követően a költségszakértő aktualizálja a beruházás költségbecslését, amely alapján a megvalósíthatósági tanulmány átdolgozásáról az építtető gondoskodik.
 
 #### 12. A kivitelezési dokumentáció
 
-41. § (1) Építési, létesítési vagy egyéb hatósági engedélyhez kötött beruházás esetén az engedély véglegessé válását követően a minisztérium – ha elfogadja a költségszakértő által aktualizált költségbecslés alapján a beruházás megvalósításának becsült költségeit – felkéri a tervezőt a végleges engedéllyel rendelkező engedélyezési dokumentáción alapuló kivitelezési dokumentáció elkészítésére.
+41. § (1) Építési, létesítési vagy egyéb hatósági engedélyhez kötött beruházás esetén az engedély véglegessé válását követően az építtető – ha elfogadja a költségszakértő által aktualizált költségbecslés alapján a beruházás megvalósításának becsült költségeit – felkéri a tervezőt a végleges engedéllyel rendelkező engedélyezési dokumentáción alapuló kivitelezési dokumentáció elkészítésére.
 
 (2) A kivitelezési dokumentáció részeként a kivitelezők kiválasztása érdekében az engedélyezési dokumentáció alapján összeállított és a munkanemekre vagy modellnemekre bontott, tételes tervezői költségvetést tartalmazó kiviteli tervet kell készíteni, amely alkalmas a pontos, minden részletre kiterjedő kivitelezési ajánlat elkészítésére.
 
@@ -641,13 +641,13 @@ jelöl ki vagy bíz meg.
 
 (3) A kivitelezési dokumentáció előkészítése során a költségszakértő a terveket a tervellenőr vizsgálatával egyidejűleg, illetve azt követően – azok észrevételeit is figyelembe véve – abból a szempontból vizsgálja felül, hogy megfelel-e a beruházási költségkeretnek, a véglegessé vált engedélynek és a hozzá tartozó engedélyezési záradékkal ellátott engedélyezési dokumentációnak, továbbá vizsgálja a korábbi költségbecsléstől való eltérés indokoltságát.
 
-(4) A kivitelezési dokumentációt az állami építési beruházás eredményeként megvalósuló építmény vagyonkezelője és üzemeltetője véleményezi, és a minisztérium hagyja jóvá.
+(4) A kivitelezési dokumentációt az állami építési beruházás eredményeként megvalósuló építmény vagyonkezelője és üzemeltetője véleményezi, és az építtető hagyja jóvá.
 
 #### 13. A kivitelező kiválasztására irányuló eljárás feltételei, az ajánlatok értékelésének szempontjai
 
 43. § (1) A kivitelező kiválasztására irányuló közbeszerzési eljárás kizárólag végleges építési, létesítési engedélyen alapuló, az építtető által jóváhagyott és tételes árazatlan költségvetést is tartalmazó kivitelezési dokumentáció rendelkezésre állása esetén indítható meg.
 
-(2) A kivitelező kiválasztására irányuló közbeszerzési eljárás, amennyiben a Kbt.-ben felsorolt, a tárgyalásos eljárás alkalmazhatóságának feltételét képező körülmények ténylegesen fennállnak, a Kbt. 85. §-a szerinti tárgyalásos eljárás keretében folytatható le. Ellenkező esetben az ajánlatkérő nyílt eljárást folytat le, amelytől – építményfunkciótól függően és a Kbt.-ben foglaltak szerint – a miniszter eltérhet.
+(2) A kivitelező kiválasztására irányuló közbeszerzési eljárás, amennyiben a Kbt.-ben felsorolt, a tárgyalásos eljárás alkalmazhatóságának feltételét képező körülmények ténylegesen fennállnak, a Kbt. 85. §-a szerinti tárgyalásos eljárás keretében folytatható le. Ellenkező esetben az ajánlatkérő nyílt eljárást folytat le, amelytől – építményfunkciótól függően és a Kbt.-ben foglaltak szerint – az építtető eltérhet.
 
 (3) A tárgyalásokat úgy kell ütemezni, hogy a benyújtott szakmai ajánlatokat az ajánlatkérő – költségszakértő bevonásával – az ajánlattevőkkel külön-külön tartott tárgyalásokon megvizsgálhassa és egyeztethesse, amely vizsgálat után lehetőséget kell biztosítani valamennyi ajánlattevőnek a szakmai ajánlata kiegészítésére, módosítására és végső ajánlattételi felhívásra történő véglegesítésére.
 
@@ -703,7 +703,7 @@ jelöl ki vagy bíz meg.
 - 17. az igénykezelési szabályozást és szerződéses vitarendezési eljárásokat, valamint
 - 18. a szerződés megszűnésének esetköreit.
 
-(3) A beruházás megvalósítása során a minisztérium kizárólag olyan típusú költségváltozáshoz járulhat hozzá, amely a kivitelezési szerződésben a (2) bekezdésben foglaltak szerint rögzítésre került.
+(3) A beruházás megvalósítása során az építtető kizárólag olyan típusú költségváltozáshoz járulhat hozzá, amely a kivitelezési szerződésben a (2) bekezdésben foglaltak szerint rögzítésre került.
 
 (4) Az ajánlatkérő és az ajánlattevő megállapodhat további egyedi szerződéses feltételekben, amennyiben azok nem ellentétesek a (2) bekezdés rendelkezéseivel vagy nem irányulnak azok megkerülésére.
 
@@ -854,6 +854,10 @@ jelöl ki vagy bíz meg.
 
 (2) Nem kell előkészítési dokumentációt készíteni azon állami építési beruházások tekintetében, amelyek e törvény hatálybalépése napján végleges építési engedéllyel rendelkeznek.
 
+(2a) Azon beruházások esetében, amelyek előkészítése nem állami építési beruházásként kezdődött meg, az 5. § (1) bekezdés 1. pontjában meghatározott mértékű forrás utólagos bevonására a 7. § (2) bekezdése szerinti előkészítési szakasz lezárását megelőzően van lehetőség.
+
+(2b) A (2a) bekezdés alapján utólagosan biztosított forrás esetén e törvény rendelkezéseit a Kormány forrásbiztosító egyedi döntése meghozatala napját követő tevékenységekre kell alkalmazni.
+
 (3) Az e törvényben foglaltakat nem kell alkalmazni azon építési beruházások tekintetében, amelyben az önkormányzat kedvezményezett részére a költségvetési vagy a nem közvetlen európai uniós forrás nyújtásáról szóló támogatási szerződés vagy támogatói okirat e törvény hatálybalépését megelőzően lépett hatályba.
 
 (4) A 2023. december 31-ig a Kbt. 3. § 23. pontja szerint megkezdettnek minősülő, európai uniós forrás felhasználásával megvalósuló állami építési beruházásokra a 9. alcímet és a 38. §-t nem kell alkalmazni.
@@ -866,7 +870,7 @@ jelöl ki vagy bíz meg.
 
 (2) Az (1) bekezdés szerinti keretprogram érdekében a szakpolitikai-ágazati beruházási koncepciót 2024. január 31-ig, az ágazati beruházási tervet 2024. február 28-ig kell elkészíteni.
 
-(3) A keretprogram (1) bekezdés szerinti elfogadását megelőzően az európai uniós forrásból megvalósuló állami építési beruházás megindításáról a Kormány egyedi határozatában dönt.
+(3) A keretprogram (1) bekezdés szerinti elfogadását megelőzően az állami építési beruházás megindításáról a Kormány egyedi határozatában dönt.
 
 63. § (1) A Tanács alakuló ülését a miniszter 2023. november 30-ig hívja össze.
 

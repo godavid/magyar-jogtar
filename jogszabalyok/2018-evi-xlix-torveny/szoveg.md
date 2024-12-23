@@ -174,6 +174,8 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (3) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (2) és (2a) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (2) és (2a) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (2) és (2a) bekezdésben foglaltakat kell alkalmazni.
 
+(4) A 19. § (2) és (4)–(10) bekezdésében foglaltak alkalmazandóak az olyan, (1) bekezdés szerinti beruházáshoz kapcsolódó beruházás esetében is, amelyet a 19. § (1) bekezdése szerinti Vagyonkezelő nem a saját vagyonkezelésében álló vagy nem állami tulajdonú nemzeti vagyonba tartozó ingatlanon (a továbbiakban együtt: idegen ingatlan) valósít meg. Idegen ingatlanon történő beruházásra a tulajdonosi joggyakorló – ennek hiányában a tulajdonos – előzetes hozzájárulása birtokában kerülhet sor, és a beruházással létrejövő vagyon átadásáról a Vagyonkezelő és a tulajdonosi joggyakorló – ennek hiányában a tulajdonos – megállapodást köt.
+
 19. § (1) A Vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez a 18. § (1) bekezdésében foglalt Várnegyed rehabilitációs program, valamint a 14. §-ban foglalt célok és közfeladatok megvalósítása érdekében, az e törvényben rögzített előkészítésre és megvalósításra, továbbá üzemeltetésre és fenntartásra vonatkozó részletszabályok szerint, amelyekkel összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a Vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyeremény anyagok értékesítéséből származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 31/A. § (5) és (6) bekezdésében meghatározottak szerint támogatásként a Vagyonkezelőt illeti meg azzal, hogy a Vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon célszerinti fenntartására fordítani.
 
 (2) A Vagyonkezelő mint építtető az (1) bekezdés szerinti beruházások vonatkozásában különösen az alábbi feladatokat látja el:
@@ -266,6 +268,8 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 (11) A vagyonkezelő által a vagyonkezelésében lévő ingatlanon a (4) bekezdés szerinti beruházások előkészítésével és megvalósításával, továbbá üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, valamint az ezekkel összefüggő közbeszerzési és beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül. A vagyonkezelő mint ajánlatkérő a beruházások előkészítésével, megvalósításával, üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a Kbt., valamint a saját vonatkozó szabályzata szerint köteles eljárni.
 
 (12) A vagyonkezelő mint építtető feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
+
+(13) A vagyonkezelő ellátja a vagyonkezelésében álló ingatlan díszkivilágításának létesítésével és üzemeltetésével kapcsolatos feladatokat.
 
 ### III/B. Fejezet — CSEPELI SPORTFEJLESZTÉSEK
 

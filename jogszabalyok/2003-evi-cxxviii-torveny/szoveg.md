@@ -298,7 +298,7 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 | 1. | Út betű- és számjele | Hosszú távú úttípus | Szakasz (beruházás jellege) | Nagytávú úttípus |
 | 2. | M0 | autóút | teljes útgyűrű (új út építése, kapacitásbővítés) | autópálya |
 | 3. | M1–M7 | autópálya | M0 – Egérút (kapacitásbővítés) | autópálya |
-| 4. | M1 | autópálya | M0 – Tatabánya (kapacitásbővítés) | autópálya |
+| 4. | M1 | autópálya | M0 – Hegyeshalom határátkelőhely (kapacitásbővítés) | autópálya |
 | 5. | M2 | autóút | M0 – országhatár (új út építése, kapacitásbővítés) | autópálya |
 | 6. | M3 | autópálya | Vásárosnamény – Beregdaróc, országhatár (új út építése) | autópálya |
 | 7. | M4 | autóút/autópálya | M0 – országhatár (új út építése, kapacitásbővítés) | autópálya |

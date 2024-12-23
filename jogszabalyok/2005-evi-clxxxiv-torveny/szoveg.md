@@ -50,7 +50,9 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - g) súlyos repülőesemény: az EU-rendelet 2. cikkének 16. pontjában megfogalmazott súlyos repülőesemény;
 - h) repülőesemény: az EU-rendelet 2. cikkének 7. pontjában megfogalmazott repülőesemény;
 - i)
-- j) súlyos vasúti baleset: vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, öt vagy több személy súlyos sérülésével, illetve a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 2 millió eurós) károsodásával jár, valamint más, ugyanilyen következményekkel járó vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
+- j) súlyos vasúti baleset:
+  - ja) vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, vagy öt vagy több személy súlyos sérülésével, vagy a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 2 000 000 eurós) károsodásával jár, valamint
+  - jb) más, a ja) alpont szerinti következményekkel járó vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
 - k) vasúti baleset: a vasutat érintő, a vasúti közlekedés során bekövetkező, káros következményekkel járó nem szándékos esemény vagy események láncolata, amelynek kategóriái:
   - ka) ütközés,
   - kb) kisiklás,
@@ -193,7 +195,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
   - bc) a közlekedésbiztonságra európai közösségi szinten gyakorolnak hatást,
   - bd) a biztonsággal kapcsolatos tanulságokkal szolgálhatnak;
 - c) kivizsgálhatja azokat az a) pontban meg nem határozott eseteket is, amelyekkel kapcsolatban a vizsgálatot az infrastruktúra üzemeltetői, a közlekedési társaságok, a biztonsági hatóságok, továbbá nemzetközi együttműködés keretében az Európai Unió más tagállamának balesetvizsgáló szervezetei kérik;
-- d) figyelembe véve a víziközlekedési baleset vagy víziközlekedési esemény súlyosságát, az érintett úszólétesítmény vagy rakomány típusát, valamint azt a mértéket, amellyel a szakmai vizsgálat megállapításai hozzájárulhatnak a jövőbeli balesetek és események megelőzéséhez a víziközlekedési baleset és víziközlekedési esemény esetén a közlekedésbiztonsági szerv előzetes vizsgálatot végez és értékelést készít annak meghatározása érdekében, hogy folytasson-e szakmai vizsgálatot; ha a közlekedésbiztonsági szerv a víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokait rögzíti;
+- d) figyelembe véve a vasúti baleset, váratlan vasúti esemény, a víziközlekedési baleset vagy víziközlekedési esemény súlyosságát, az érintett úszólétesítmény vagy rakomány típusát, valamint azt a mértéket, amellyel a szakmai vizsgálat megállapításai hozzájárulhatnak a jövőbeli balesetek és események megelőzéséhez a vasúti baleset, váratlan vasúti esemény, a víziközlekedési baleset és víziközlekedési esemény esetén előzetes vizsgálatot végez és értékelést készít annak meghatározása érdekében, hogy folytasson-e szakmai vizsgálatot; ha a közlekedésbiztonsági szerv a vasúti baleset vagy a víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokait rögzíti;
 - e) a közlekedési balesetek és az egyéb közlekedési események megelőzése érdekében javaslatot tesz a jogszabály előkészítőjének;
 - f) a közlekedési balesetek és az egyéb közlekedési események megelőzése érdekében biztonsági ajánlást tesz
   - fa) a közlekedési társaságnak,
@@ -258,6 +260,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - g) hozzáférhessen a közlekedési infrastruktúra működtetője, az érintett közlekedési társaságok és az üzemben tartó biztonsági szervezetének és a közlekedési hatóságok birtokában lévő lényeges információhoz vagy feljegyzéshez;
 - h) a tanúkat a vizsgálat bármely szakaszában – a helyszínen lévő tanúkat azonnal – meghallgassa;
 - i) betekintsen valamennyi iratba – amely a közlekedési balesetben és az egyéb közlekedési eseményben részt vevő járműre, annak üzemeltetőjére, valamint a közlekedési infrastruktúrára, annak üzemeltetőjére vonatkozik – azokról másolatot készítsen, illetőleg másolatot kérjen.
+- j) a vizsgálat bármely szakaszában haladéktalanul és akadálytalanul, előzetes értesítés nélkül hozzáférhessen a fentieken túlmenően minden általa szükségesnek tartott adathoz, információhoz, bizonyítékként értékelhető tárgyhoz.
 
 (2) A közlekedésbiztonsági szerv az (1) bekezdésben meghatározott jogosultságát a vizsgálóbizottsága vagy szakmai kivizsgálója útján gyakorolja.
 
@@ -415,7 +418,7 @@ látja el.
 
 (2) A közlekedésbiztonsági szerv vizsgálóbizottsága vezetőjének és foglalkoztatott tagjainak a következő végzettséggel és képesítéssel kell rendelkezniük:
 
-- a) szakirányú felsőfokú iskolai végzettség és az érintett szakterületen legalább öt év szakmai gyakorlat, valamint
+- a) felsőfokú iskolai végzettség és az érintett szakterületen legalább öt év szakmai gyakorlat, valamint
 - b) a közlekedésbiztonsági szervnél elvégzett, vagy más közlekedésbiztonsági szervnél, képző szervnél, illetve nemzetközi szervezetnél elvégzett és a közlekedésbiztonsági szerv által elfogadott közlekedési balesetvizsgáló tanfolyam elvégzését igazoló irat.
 
 14. § A vasúti és víziközlekedési balesetekben vagy esemény során elhalálozott személyek hozzátartozóit, valamint sérültjeit a vizsgálatról és annak folyamatáról kérésükre tájékoztatni kell, és lehetőséget kell biztosítani arra, hogy a vizsgálattal kapcsolatos álláspontjukat kifejthessék és a zárójelentés tervezetében szereplő adatokhoz megjegyzést fűzzenek.
@@ -548,14 +551,14 @@ látja el.
 17. § A közlekedésbiztonsági szerv a 7. § (1) bekezdésében és az EU-rendeletben foglalt feladatának ellátása céljából a közlekedési baleset és az egyéb közlekedési esemény szakmai vizsgálatához elengedhetetlenül szükséges mértékben az alábbi adatok kezelésére jogosult:
 
 - a) a közlekedési balesetben vagy egyéb közlekedési eseményben érintett jármű személyzete tagjainak, az érintett jármű, infrastruktúra üzemeltetésében, karbantartásában, kiszolgálásában részt vevő vagy forgalmi irányítását, tájékoztatását ellátó személy
-  - aa) családi és utóneve, születési családi és utóneve, állampolgársága, születési helye, ideje, lakcíme, értesítési címe,
+  - aa) családi és utóneve, születési családi és utóneve, állampolgársága, születési helye, ideje, lakcíme, értesítési címe, telefonszáma és elektronikus elérhetősége,
   - ab) képzettsége, szakmai gyakorlata, szakmai jogosultsága, az esemény idején betöltött szolgálati beosztása,
   - ac) egészségi állapotára vonatkozó, valamint feladatainak ellátásával összefüggő egészségügyi vizsgálatával kapcsolatos különleges adat,
   - ad) az eseménnyel összefüggésbe hozható, kóros szenvedélyére vonatkozó adatok,
   - ae) egyéb olyan, fizikális vagy mentális jellemzői, amelyek a vizsgált közlekedési baleset, illetve egyéb közlekedési esemény bekövetkezéséhez hozzájárulhattak,
   - af) az esemény bekövetkeztekor, illetve azt közvetlenül megelőzően folytatott telefonforgalmának ténye;
 - b) a közlekedési balesetben vagy egyéb közlekedési eseményben részes jármű személyzete által, vagy a jármű üzemeltetésében, karbantartásában, kiszolgálásában részt vevő vagy forgalmi irányítását, tájékoztatását ellátó személlyel folytatott és rögzített kommunikáció, a jármű hangrögzítő berendezésének felvétele vagy az ilyen felvételekről készült átirat;
-- c) a közlekedési baleset vagy egyéb közlekedési esemény tárgyában folytatott szakmai vizsgálat egyéb résztvevőjének neve, állampolgársága, születési helye és időpontja, lakcíme és értesítési címe.
+- c) a közlekedési baleset vagy egyéb közlekedési esemény tárgyában folytatott szakmai vizsgálat egyéb résztvevőjének neve, állampolgársága, születési helye és időpontja, lakcíme és értesítési címe, telefonszáma és elektronikus elérhetősége.
 
 18. § (1) A közlekedésbiztonsági szerv köteles az érintett személy 17. § aa) alpontja szerinti adatait az egyéb személyes és különleges adataitól elkülönítve kezelni. Az érintett személyeket az ügy irataiban, a közlekedési balesetben vagy egyéb közlekedési eseményben betöltött szerepük alapján kell megjelölni. Az érintett személy nevét és lakcímét a velük történő kapcsolattartás, valamint további adatok beszerzése érdekében használhatja fel a közlekedésbiztonsági szerv.
 

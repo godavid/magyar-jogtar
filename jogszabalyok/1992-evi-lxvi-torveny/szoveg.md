@@ -609,6 +609,7 @@ van lehetőség.
 - c) az állampolgárság kivételével az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, továbbá a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetői képzésén részt vevők, illetve ehhez kapcsolódóan vizsgára jelentkezők adatainak ellenőrzése céljából a víziközlekedésről szóló törvény szerinti vizsgaközpont;
 - d) az állampolgárság kivételével a pilóta nélküli légijármű-rendszerekről, valamint a pilóta nélküli légijármű-rendszer üzemben tartókról vezetett nyilvántartáshoz kapcsolódóan a kérelmezők adatainak ellenőrzése céljából a légiközlekedésről szóló törvény szerinti légiközlekedési hatóság;
 - e) az állampolgárság kivételével a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából a légiközlekedésről szóló törvény szerinti légiközlekedési vizsgaközpont.
+- f) az állampolgárság kivételével a digitális tachográf kártya kiadása érdekében a kártyára jogosultak adatainak ellenőrzése céljából a digitális kártyát kiállító közlekedési hatóság.
 
 21/C. § A hivatásos katasztrófavédelmi szerv hatósági feladatai ellátása céljából a következő adatokat jogosult átvenni a nyilvántartást kezelő szervtől: a természetes személyazonosító, a lakcím, az állampolgárság, az elhalálozás ténye és ideje, valamint a személyazonosító igazolvány és az útlevél okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka.
 
