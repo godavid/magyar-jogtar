@@ -34,3 +34,5 @@ Az Országgyűlés az Alaptörvény 17. cikk (1) bekezdése alapján a miniszté
 6. § Az Európai Uniós Ügyek Minisztériuma az Igazságügyi Minisztériumból történő kiválással 2023. augusztus 1. napján jön létre.
 
 7. § A Közigazgatási és Területfejlesztési Minisztérium a Miniszterelnökségből történő kiválással 2024. január 1. napján jön létre.
+
+8. § A Pénzügyminisztérium a Nemzetgazdasági Minisztériumba történő beolvadással 2024. december 31. napján megszűnik.
