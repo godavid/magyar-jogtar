@@ -59,21 +59,49 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 20. § (1)
 
-(2)
+(2) A Tao. törvény 22/C. § (4) bekezdés f) pontja helyébe a következő rendelkezés lép:
 
-(3)
+(A támogatási igazolások összértéke nem haladhatja meg a támogatott szervezet jóváhagyott, adott támogatási időszakra vonatkozó sportfejlesztési programjában szereplő,)
 
-(4)
+„f) sportcélú ingatlan üzemeltetésének 4. § 47. pontja szerint elszámolható költségeinek 80 százalékát, de legfeljebb – ha a támogatás a 30/I. § (3) bekezdése alapján a 651/2014/EU bizottsági rendelet hatálya alá tartozik – sportcélú ingatlanonként és támogatási időszakonként a 651/2014/EU bizottsági rendeletben a sportlétesítményekre nyújtott működési támogatás vonatkozásában meghatározott bejelentési határértéknek megfelelő forintösszeget.”
 
-(5)
+(3) A Tao. törvény 22/C. § (4a)–(4c) bekezdése helyébe a következő rendelkezések lépnek:
 
-(6)
+„(4a) A látvány-csapatsportban működő hivatásos sportszervezet, valamint az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a támogatás a 30/I. § alapján az Európai Bizottságnak a 30/I. § (1) bekezdésében rögzített határozatai vagy a 651/2014/EU bizottsági rendelet hatálya alá tartozik, a (4) bekezdés c)–f) pontja szerinti mértékeket a támogatási igazolások összértékének támogatási szerződés keretében az (1) bekezdés a) pont ac) és ag) alpontjában, az (1) bekezdés b) pont bd), bf) és bg) alpontjában, az (1) bekezdés c) pont cb) és cd)–cf) alpontjában, valamint az (1) bekezdés d) pont dc), de) és dg) alpontjában meghatározott jogcímekre nyújtott támogatáshoz kapcsolódó, a támogatott szervezet részére azonos elszámolható költségekkel kapcsolatban megfizetett kiegészítő sportfejlesztési támogatással összevont értékére kell alkalmazni.
 
-(7)
+(4b) Az (1) bekezdés c) pont cb), cd)–cf) alpontja és az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a támogatás a 30/I. § alapján az Európai Bizottságnak a 30/I. § (1) bekezdésében rögzített határozatai vagy a 651/2014/EU bizottsági rendelet hatálya alá tartozik, az (1) bekezdés a) pont ac) és ag) alpontja, az (1) bekezdés b) pont bd), bf) és bg) alpontja, az (1) bekezdés c) pont cb), cd)–cf) alpontja, az (1) bekezdés d) pont dc), de) és dg) alpontja szerinti támogatás, valamint más helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatás együttes összege azonos elszámolható költségek tekintetében nem haladhatja meg a (4) bekezdésben meghatározott mértékeket.
+
+(4c) A (4) bekezdésben foglaltaktól eltérően a támogatási igazolások összértéke az (1) bekezdés a), b) és d) pontja szerinti támogatott szervezet – ide nem értve azokat a szervezeteket, amelyekkel összefüggésben a támogatás a 30/I. § alapján az Európai Bizottságnak a 30/I. § (1) bekezdésében rögzített határozatai vagy a 651/2014/EU bizottsági rendelet hatálya alá tartozik – sportfejlesztési programjában szereplő igazolt költségek, ráfordítások, kiadások legfeljebb 100 százaléka lehet.”
+
+(4) A Tao. törvény 22/C. § (5) bekezdése a következő l) ponttal egészül ki:
+
+(Támogatási igazolás a támogatás igénybevételére jogosult szervezettel kapcsolatban akkor állítható ki, ha)
+
+„l) az Állami Számvevőszék az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 31/A. §-a szerinti vagyonmegóvási intézkedéssel nem fordult illetékes hatósághoz vagy szervezethez a támogatás igénybevételére jogosult szervezet vonatkozásában.”
+
+(5) A Tao. törvény 22/C. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A tárgyi eszköz beruházást – a (8a) bekezdésben foglalt kivétellel – az adott tárgyi eszköz beruházásra vonatkozó, első támogatási igazolás kiállítását követő évben kezdődő támogatási időszaktól számított 6. támogatási időszak végéig üzembe kell helyezni a támogatás és annak jegybanki alapkamattal növelt összege magyar állam részére történő megfizetése terhével.”
+
+(6) A Tao. törvény 22/C. §-a a következő (8a) bekezdéssel egészül ki:
+
+„(8a) Ha a támogatott szervezet ingatlan-fejlesztésre irányuló tárgyi eszköz beruházást, felújítást tartalmazó sportfejlesztési programja 7. hosszabbított támogatási időszakkal rendelkezik, a tárgyi eszköz beruházást legkésőbb a 7. hosszabbított támogatási időszaknak az e törvény felhatalmazása alapján kiadott kormányrendeletben megállapított végső időpontjáig üzembe kell helyezni a támogatás és annak jegybanki alapkamattal növelt összege magyar állam részére történő megfizetése terhével.”
+
+(7) A Tao. törvény 22/C. § (9) és (9a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(9) Az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a sportpolitikáért felelős miniszter a jelenértéken legalább 300 millió forint értékű sportfejlesztési program esetében az e törvény felhatalmazása alapján kiadott kormányrendeletben foglaltak szerint az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. Az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 45 napon belül közli álláspontját a sportpolitikáért felelős miniszterrel. A sportpolitikáért felelős miniszter az adópolitikáért felelős miniszter véleményét figyelembe véve jóváhagyja, részben jóváhagyja vagy elutasítja a sportfejlesztési program e törvény szerinti támogatását és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel. Véleményeltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a sportpolitikáért felelős miniszter a Kormány döntését kéri.
+
+(9a) Az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a látvány-csapatsport országos sportági szakszövetsége a jelenértéken legalább 300 millió forint értékű sportfejlesztési program esetében az e törvény felhatalmazása alapján kiadott kormányrendeletben foglaltak szerint a sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. A sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 45 napon belül közli álláspontját a látvány-csapatsport országos sportági szakszövetséggel. A miniszteri vélemények közötti eltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a látvány-csapatsport országos sportági szakszövetsége a sportpolitikáért felelős miniszter útján a Kormány döntését kéri. Ebben az esetben a látvány-csapatsport országos sportági szakszövetsége a Kormány döntésének megfelelően hagyja jóvá, hagyja részben jóvá vagy utasítja el a sportfejlesztési program e törvény szerinti támogatását, és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel.”
 
 #### 21. §
 
-22. § (1)
+22. § (1) A Tao. törvény 30/I. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 22/C. § (1) bekezdés a) pont ac) alpontja, b) pont bd) alpontja és d) pont dc) alpontja szerinti jogcímeken nyújtott támogatás nem minősül az Európai Bizottság SA.31722 (2011/N), SA.46615 (2016/N), SA.48265 (2017/N) és SA.104802 (2022/N) számú határozata hatálya alá tartozó támogatásnak, amennyiben
+
+- a) a támogatott részéről – a látvány-csapatsport országos sportági szakszövetsége kivételével – hivatásos sportoló alkalmazására nem kerül sor,
+- b) a támogatással érintett tárgyi eszköz beruházás, felújítás tekintetében teljesülnek a korlátozott mértékű gazdasági célú létesítmény feltételei, vagy
+- c) a támogatással érintett tárgyi eszköz beruházás, felújítás tekintetében teljesülnek a kizárólag helyi hatással bíró sportcélú ingatlan feltételei.”
 
 (2)
 
@@ -93,7 +121,7 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 - f)
 - g)
 - h)
-- i)
+- i) 22/C. § (6a) bekezdésében a „30 napon belül” szövegrész helyébe a „90 napon belül” szöveg,
 - j)
 - k)
 - l)
@@ -104,22 +132,22 @@ lép.
 
 27. § Hatályát veszti a Tao. törvény
 
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
-- g)
-- h)
-- i)
-- j)
-- k)
-- l)
+- a) 22/C. § (1a) bekezdése,
+- b) 22/C. § (2a) bekezdésében az „(1a)” szövegrész,
+- c) 22/C. § (3a) bekezdés a) pontjában az „és az (1a) bekezdés” szövegrész,
+- d) 22/C. § (3e) bekezdésében a „ , valamint az (1a) bekezdésben” szövegrészek,
+- e) 22/C. § (4d) bekezdése,
+- f) 24/A. § (3) bekezdés b) pontjában az „(1a)” szövegrész,
+- g) 24/A. § (7) bekezdésében az „(1a)” szövegrész,
+- h) 24/A. § (9), (19) és (20) bekezdésében az „és (4d)” szövegrész,
+- i) 24/A. § (12) bekezdésében az „és (1a) bekezdésének” szövegrész,
+- j) 24/A. § (19) bekezdésében az „(1a)” szövegrész,
+- k) 24/A. § (20) bekezdésében a „ , valamint (1a) bekezdésében” szövegrész,
+- l) 29/A. § (97) bekezdése,
 - m)
 - n)
 - o)
-- p)
+- p) 3. számú melléklet B) rész 15. pontjában az „–(1a)” szövegrész,
 - q)
 
 #### 3. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
@@ -134,9 +162,22 @@ lép.
 
 #### 31. §
 
-#### 32. §
+32. § A Minimumadó törvény 44. §-a a következő (11)–(14) bekezdéssel egészül ki:
 
-#### 33. §
+„(11) A belföldi csoporttagnak vagy az összes belföldi csoporttag nevében eljáró kijelölt helyi szervezetnek az adóévre elismert belföldi kiegészítőadó-előleget kell megállapítania, – az állami adó- és vámhatóság által az elismert belföldi kiegészítő-adóelőleg bevallására rendszeresített nyomtatványon – bevallania és megfizetnie az elismert belföldi kiegészítő adóval érintett adóév utolsó napjától számított tizenegyedik hónap 20. napjáig.
+
+(12) A (11) bekezdés szerinti elismert belföldi kiegészítőadó-előleg összege az adóévre várhatóan fizetendő elismert belföldi kiegészítő adó összege.
+
+(13) Az elismert belföldi kiegészítőadó-előleggel kapcsolatos bevallásnak a következő adatokat kell tartalmaznia:
+
+- a) a belföldi csoporttag azonosító adatai,
+- b) a belföldi csoporttag elismert belföldi kiegészítőadó-előleg kötelezettsége.
+
+(14) Az adózás rendjéről szóló törvénytől eltérően a (11)–(13) bekezdés szerinti kötelezettség megsértése esetén késedelmi pótlék, adóbírság és mulasztási bírság alkalmazásának nincs helye, ha a csoporttag úgy járt el, ahogy az az adott helyzetben a csoporttagtól elvárható.”
+
+33. § A Minimumadó törvény 53. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 44. § (11)–(14) bekezdését első alkalommal a 2024-ben kezdődő adóév vonatkozásában kell alkalmazni.”
 
 #### 34. §
 
@@ -516,7 +557,13 @@ lép.
 
 #### 22. Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény módosítása
 
-#### 164. §
+164. § (1) Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.) 37. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vámigazgatási ügyekben az állandó meghatalmazásra vagy megbízásra irányuló jogviszonyt az érintettnek vagy képviselőjének az állami adó- és vámhatóság által rendszeresített – a NAV honlapján közzétett – formanyomtatvány alkalmazásával papíralapon vagy elektronikusan a vámhatóság előtti eljárás megindítása előtt kell bejelentenie.”
+
+(2) A Vtv. 37. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha az állandó meghatalmazást vagy megbízást, illetve annak megszűnését a képviselő jelenti be, a vámhatóság a bejelentésről a meghatalmazót vagy megbízót írásban értesíti. A megbízó az állandó meghatalmazás vagy megbízás visszavonását, felmondását haladéktalanul köteles bejelenteni a vámhatósághoz, illetve a képviseleti jog megszűnését a képviselő is bejelentheti a vámhatóságnál. A képviseleti jog megszűnésének bejelentése napján a képviselőt még a vámhatósági iratok átvételére jogosult személynek kell tekinteni.”
 
 #### 165. §
 
