@@ -793,7 +793,7 @@ lép hatályba.
 
 (7) A 20. § j) pontja 2024. október 31-én lép hatályba.
 
-(8) A 6. §, a 8. § a) pontja, a 77. §, a 131. §, a 132. §, a 145. § (2) bekezdése, a 147. §, a 149. §, a 150. §, a 157. §, a 159. §, a 164. §, a 166. § a) pontja, a 102. alcím, a 108. alcím, a 111. alcím, a 113. alcím és a 209. § 2025. január 1-jén lép hatályba.
+(8) A 6. §, a 8. § a) pontja, a 77. §, a 131. §, a 132. §, a 149. §, a 157. §, a 159. §, a 164. §, a 166. § a) pontja, a 102. alcím, a 108. alcím, a 113. alcím és a 209. § 2025. január 1-jén lép hatályba.
 
 (9) A 101. §, a 104. §, a 105. § és a 204. § 2025. január 15-én lép hatályba.
 
@@ -802,6 +802,8 @@ lép hatályba.
 (11) A 93. §, a 94. §, a 96. §, a 97. § és a 98. § a) és b) pontja 2025. július 1-jén lép hatályba.
 
 (12) A 62. alcím és a 211. § 2026. január 1-jén lép hatályba.
+
+(13) A 145. § (2) bekezdése, a 147. §, a 150. § és a 111. alcím 2027. január 1-jén lép hatályba.
 
 255. § E törvény
 

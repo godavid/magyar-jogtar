@@ -313,7 +313,7 @@ foglalkoztatott.
   - ba) az a) pont aa) alpontjában meghatározott bűncselekmények megszakítását és az elkövetők elfogását,
   - bb) a jogszabályban meghatározottak szerint kizárólagos hatáskörrel – a Nemzeti Adó- és Vámhivatal esetében annak felkérésére – egyes veszélyes személyek elfogását,
 - c) jogszabályban meghatározottak szerint egyes védett személyek tekintetében személyvédelmi feladatokat lát el és egyes kijelölt létesítmények tekintetében létesítményvédelmet gyakorol,
-- d) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok, valamint terrorista és túszejtő akciók esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában, e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival, valamint
+- d) a Kormány döntése alapján részt vesz a magyar állampolgár vagy más személy életét, testi épségét Magyarország területén kívül fenyegető veszélyek esetén a bajba jutott személy külföldről történő kimenekítésében,
 - e) megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat,
 - f) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntésében meghatározott időtartamra – a nemzetközi normák betartásával – ellátja a kijelölt
   - fa) magyar külképviseletek biztosítását és azok diplomáciai személyzete védelmét, valamint
@@ -323,6 +323,13 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 
 - g) a rendészetért felelős miniszter döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a külföldön megrendezésre kerülő, kiemelt terrorfenyegetettségűnek minősíthető nemzetközi sportrendezvényeken résztvevő magyar sportolók és sportszakemberek személyvédelmében, valamint az általuk külföldön a sportrendezvényeken való részvétel ideje alatt használt létesítmények védelmében és e célból együttműködik az Európai Unió tagállamaival és szerveivel, az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
 - h) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, a terrortámadás bekövetkezésével, illetve annak jelentős veszélyével összefüggő védelmi és biztonsági esemény (a továbbiakban: terrorbiztonsági esemény) esetén az azonnali és összehangolt reagálás érdekében – a védelmi és biztonsági igazgatás központi szerve koordinációs tevékenységének a megkezdéséig, a miniszter folyamatos tájékoztatása mellett – elsődleges beavatkozó szervezetként irányítja és koordinálja az eseménykezelésben érintett szerveknek és szervezeteknek a terrorbiztonsági esemény felderítésére, elhárítására, illetve felszámolására irányuló tevékenységét.
+
+(1a) Ha a terrorizmust elhárító szervnek az (1) bekezdés c) pontjában meghatározott személyvédelmi feladata ellátásához külföldre vonatkozó, valamint külföldi eredetű információk megszerzése szükséges, azok beszerzése érdekében
+
+- a) megkeresi a hatáskörrel rendelkező nemzetbiztonsági szolgálatot, vagy
+- b) az információkat saját hatáskörben megszerzi.
+
+(1b) Az (1a) bekezdésben foglaltak végrehajtásának rendjét a terrorizmust elhárító szerv és a hatáskörrel rendelkező nemzetbiztonsági szolgálat megállapodásban rögzíti.
 
 (2) A terrorizmust elhárító szerv nyomozó hatósági jogkört nem gyakorol.
 
@@ -2243,7 +2250,17 @@ részére.
 
 ### A terrorizmust elhárító szerv adatkezelése
 
-91/T. § A terrorizmust elhárító szerv kezeli azokat az adatokat, amelyek a 7/E. § szerint meghatározott feladatai ellátásához – megelőzési, felderítési, felszámolási, személyvédelmi célból – szükségesek.
+91/T. § (1) A terrorizmust elhárító szerv kezeli azokat az adatokat, amelyek a 7/E. § szerint meghatározott feladatai ellátásához – bűnmegelőzési, bűnfelderítési, illetve személyvédelmi célból – szükségesek.
+
+(2) Ha a terrorizmust elhárító szerv kezelésében álló, a terrorizmust elhárító szerv
+
+- a) objektumaival,
+- b) személyi állományával, illetve
+- c) beszerzéseivel és a 7/E. § szerint meghatározott feladataival közvetlenül összefüggő egyéb szerződéseivel
+
+kapcsolatos közérdekű vagy közérdekből nyilvános adat megismerése Magyarország bűnüldözési, illetve bűnmegelőzési érdekeit veszélyeztetné, az ezen adat megismerésére irányuló igény teljesítését a megtagadás alapjául szolgáló érdek fennállásáig, de legfeljebb az adat keletkezésétől számított 30 évig meg kell tagadni.
+
+(3) A (2) bekezdés szerinti igény teljesíthetőségéről – Magyarország bűnüldözési, illetve bűnmegelőzési érdekeit mérlegelve – a terrorizmust elhárító szerv főigazgatója dönt.
 
 ### Az idegenrendészeti szerv adatkezelése
 

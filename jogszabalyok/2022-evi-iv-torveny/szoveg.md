@@ -798,7 +798,7 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 #### 243. §
 
-244. § A határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi CXLII. törvény 1. alcíme, 9. §-a, 10. §-a, 5. alcíme, 21–24. §-a, 7. alcíme, 28. §-a, 30. §-a és 11. alcíme 2025. január 1-jén lép hatályba.
+244. § A határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi CXLII. törvény 1. alcíme, 9. §-a, 10. §-a, 5. alcíme, 21–24. §-a, 7. alcíme, 28. §-a, 30. §-a és 11. alcíme 2027. január 1-jén lép hatályba.
 
 #### 147. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény eltérő szöveggel történő hatálybalépése
 
@@ -820,7 +820,7 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 (5) A 141. alcím és a 147. alcím 2023. július 1-jén lép hatályba.
 
-(6) A 34. § és a 97. § (3) bekezdése 2025. január 1-jén lép hatályba.
+(6) A 34. § és a 97. § (3) bekezdése 2027. január 1-jén lép hatályba.
 
 (7) A 143. alcím 2025. január 15-én lép hatályba.
 

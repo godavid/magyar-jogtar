@@ -963,7 +963,7 @@ kezeli.
 (3) Az (1) bekezdésben meghatározott tilalom nem terjed ki:
 
 - a) a hajózási hatóság,
-- b) a rendőrség vízirendészeti szervének, a Vám- és Pénzügyőrség, illetve a vámhatóság,
+- b) a rendőrség vízi rendészeti szervének, a rendőrség terrorizmust elhárító szervének, illetve a Nemzeti Adó- és Vámhivatal vízijárműveire,
 - c) a katasztrófaelhárításban közreműködő szervezetek,
 - d) a víziút fenntartását, valamint a természet- és környezetvédelmi feladatot ellátó hatóság vízijárműveire,
 - e) a hajózási hatóság által a Kormány rendeletében kiadott üzemeltetési engedéllyel rendelkező vízijárművekre,

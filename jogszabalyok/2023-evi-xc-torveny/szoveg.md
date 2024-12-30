@@ -197,17 +197,16 @@ szabályait kell alkalmazni.
 - b) aki eleget tesz a 17. § (1) bekezdés a), c), d), valamint f)–i) pontjában foglalt feltételeknek, és
 - c) aki úgy nyilatkozik, hogy a (3) bekezdés szerinti befektetések legalább egyikével rendelkezik vagy tervez rendelkezni, a tervezett befektetés esetén pedig
   - ca) igazolja, hogy a (3) bekezdés szerinti befektetések legalább egyikének megfelelő, törvényes eredetű összeggel rendelkezik, amelynek Magyarország területén rendelkezésre állónak vagy átutalhatónak kell lennie, és
-  - cb) írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízum kiadását követő három hónapon belül.
+  - cb) írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízum érvényességi ideje alatt.
 
 (3) A (2) bekezdés a) pontjában és a 22. § (3) bekezdés a) pontjában foglaltak alkalmazásában nemzetgazdasági érdeknek kell tekinteni az alábbi befektetések megvalósítását:
 
-- a) a Magyar Nemzeti Bank által nyilvántartásba vett ingatlanalap által kibocsátott, legalább 250 000 euró összegű befektetési jegy megszerzése,
-- b) legalább 500 000 euró összegnek megfelelő értékű, természetben Magyarország földrajzi területén található, az ingatlan-nyilvántartásban helyrajzi szám szerint nyilvántartott per-, teher- és igénymentes lakóingatlanban – ide nem értve a 22. § (11) bekezdése szerinti elidegenítési és terhelési tilalmat – tulajdoni illetőség megszerzése, vagy
-- c) legalább 1 000 000 euró értékben, oktatási, tudományos kutatási, művészeti alkotótevékenység támogatása céljából pénzbeli adomány nyújtása valamely közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény részére.
+- a) a Magyar Nemzeti Bank által nyilvántartásba vett ingatlanalap által kibocsátott, legalább 250 000 euró összegű befektetési jegy megszerzése, vagy
+- b) legalább 1 000 000 euró értékben, oktatási, tudományos kutatási, művészeti alkotótevékenység támogatása céljából pénzbeli adomány nyújtása valamely közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény részére.
 
 (4) Az idegenrendészeti hatóság a vendégbefektetői vízum iránti kérelemről Magyarország közrendje, közbiztonsága, nemzetbiztonsága védelme érdekében Magyarország rendvédelmi- és nemzetbiztonsági szerveinek véleményét kéri.
 
-(5) A vendégbefektetői vízum érvényességi ideje legfeljebb hat hónap.
+(5) A vendégbefektetői vízum érvényességi ideje hat hónap. Ha az úti okmány érvényességi ideje rövidebb mint 6 hónap, akkor az engedélyezett tartózkodás időtartamát úgy kell megállapítani, hogy a harmadik országbeli állampolgár úti okmánya az engedélyezett tartózkodás lejártakor még legalább 30 napig érvényes legyen.
 
 (6) A vendégbefektetői vízum érvénytelen, ha a vendégbefektetői tartózkodási engedélyt kiadták.
 
@@ -330,18 +329,22 @@ szabályait kell alkalmazni.
 
 (4) Vendégbefektetői tartózkodási engedélyt az a (3) bekezdés a) és b) pontjában foglaltakat teljesítő harmadik országbeli állampolgár is kaphat, aki az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként jogszerűen tartózkodik Magyarország területén, valamint igazolja a 16. § (2) és (3) bekezdésében foglalt feltételeket.
 
-(5) A vendégbefektetői tartózkodási engedély iránti kérelmet a harmadik országbeli állampolgár a vendégbefektetői vízummal vagy az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként jogszerűen Magyarország területére történő első belépését és az (7) bekezdés szerinti kötelezettség megvalósulását követően, legkésőbb 93 napon belül az illetékes idegenrendészeti hatóságnál vagy az idegenrendészeti ügyindítási elektronikus felületen keresztül terjeszti elő.
+(5) A vendégbefektetői tartózkodási engedély iránti kérelmet a harmadik országbeli állampolgár a vendégbefektetői vízummal vagy az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként jogszerűen Magyarország területére történő első belépését követően, legkésőbb 30 napon belül az illetékes idegenrendészeti hatóságnál vagy az idegenrendészeti ügyindítási elektronikus felületen keresztül terjeszti elő a (7) bekezdésben foglaltak figyelembevételével.
 
 (6) A vendégbefektetői tartózkodási engedély érvényességi ideje legfeljebb tíz év, amely kizárólag ugyanezen célból legfeljebb tíz évvel hosszabbítható meg. A vendégbefektetői tartózkodási engedély érvényességi ideje meghaladhatja a kérelmező úti okmányának az érvényességi idejét.
 
-(7) A harmadik országbeli állampolgár – a vendégbefektetői tartózkodási engedély kiadása iránti kérelem benyújtása esetén – a Magyarország területére történő első belépését követő három hónapon belül köteles az idegenrendészeti ügyindítási elektronikus felületen keresztül igazolni, hogy a 16. § (2) bekezdés c) pontja szerinti nyilatkozata alapján vállalt valamely befektetést teljesítette.
+(7) A harmadik országbeli állampolgár a vendégbefektetői tartózkodási engedély kiadása iránti kérelmének (5) bekezdés szerinti benyújtását követően erre vonatkozó hiánypótlásra történő külön felhívás nélkül, a vendégbefektetői vízum érvényességének ideje alatt vagy az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként jogszerűen Magyarország területére történő első belépését követő hat hónapon belül – az idegenrendészeti ügyindítási elektronikus felületen keresztül a vendégbefektetői tartózkodási engedély iránti kérelemhez hiánypótlásként mellékelve – köteles igazolni, hogy a 16. § (2) bekezdés c) pontja szerinti nyilatkozata alapján vállalt valamely befektetést teljesítette. Az idegenrendészeti hatóság a befektetéssel kapcsolatos igazolás elmulasztására való tekintettel az eljárást a vendégbefektetői vízum érvényességének ideje alatt nem szüntetheti meg.
 
 (8) A 16. § (2) bekezdés c) pontjában meghatározott befektetés (7) bekezdés szerinti határidőn belüli teljesítésének igazolását az idegenrendészeti hatóság külön feladat- és hatáskörrel rendelkező szervezeti egysége vizsgálja.
 
-(9) A harmadik országbeli állampolgárnak legalább öt évig a 16. § (3) bekezdés a) pontjában foglaltak teljesítéséhez olyan ingatlanalap által kibocsátott befektetési jeggyel kell rendelkeznie, amelynek
+(9) A harmadik országbeli állampolgárnak legalább öt évig a 16. § (3) bekezdés a) pontjában foglaltak teljesítéséhez olyan ingatlanalap által kibocsátott befektetési jegyet kell közvetlenül jegyeznie és azzal folyamatosan rendelkeznie, amely ingatlanalapnak
 
 - a) nettó eszközértéke legalább 40%-át Magyarországon megvalósuló, lakás funkciójú ingatlanba történő befektetések teszik ki, és
 - b) ingatlan-alapkezelője a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.) szerinti minősített piaci szereplők jegyzékén szerepel.
+
+(9a) Az ingatlan-alapkezelőnek a minősített piaci szereplők jegyzékére történő felvételekor rendelkeznie kell olyan ingatlanalappal, amelyben a lakás funkciójú ingatlanok tekintetében az ingatlanalap nettó eszközértékét – a (9b) bekezdésben foglaltak kivételével – legalább 40%-ban kizárólag használatbavételi engedéllyel rendelkező lakás funkciójú ingatlanok teszik ki.
+
+(9b) A (9a) bekezdésben foglalt feltételeknek már megfelelt ingatlan-alapkezelő a 40%-os nettó eszközértékre vetített minimum limitbe a (9a) bekezdésben meghatározottakon túl egyéb, a Kormány rendeletében meghatározott lakás funkciójú ingatlanba történő befektetéseket is beszámíthat.
 
 (10) Az ingatlan-alapkezelő a Vbt. 118. §-a szerint kezdeményezheti előzetes minősítését. A minősítésre, valamint a jegyzékkel kapcsolatos eljárásra a Vbt. szabályait kell alkalmazni azzal, hogy ebben az esetben az Alkotmányvédelmi Hivatal jár el.
 
@@ -352,28 +355,14 @@ szabályait kell alkalmazni.
 
 (10b) A (10a) bekezdésben foglaltakon túl olyan alapkezelő is eljárhat, amely a Kbftv. szerinti befektetési alapkezelőnek minősülve olyan ingatlanalapot is kezel, amelyben a kezelt eszközök értéke összesen meghaladja a 600 millió euró küszöbértéket.
 
-(11) A 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetés tekintetében
-
-- a) a lakóingatlan tulajdonjogának harmadik országbeli állampolgár általi megszerzésével egyidejűleg a lakóingatlanra az adásvételi szerződés megkötésének időpontjától számítva 5 évig terjedő időszakra elidegenítési és terhelési tilalmat kell bejegyezni az ingatlan-nyilvántartásba jogszabályban meghatározott feltételek szerint,
-- b) az ingatlan öt évig kizárólag
-  - ba) azon harmadik országbeli állampolgár tulajdonában, vagy
-  - bb) azon harmadik országbeli állampolgár és a 71. § (2) bekezdése szerinti egy vagy több családtagja közös tulajdonában
-
-állhat, aki a vendégbefektetői tartózkodási engedély iránti kérelmet benyújtotta.
+(11)
 
 (12) A vendégbefektetői tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, ha a (7) bekezdés szerinti igazolásának alapjául szolgáló adataiban a vendégbefektetői tartózkodási engedély érvényességi ideje alatt változás áll be, köteles azt a változás bekövetkezésétől számított öt napon belül az idegenrendészeti ügyindítási elektronikus felületen keresztül bejelenteni.
 
 (13) A vendégbefektetői tartózkodási engedély (6) bekezdés szerinti meghosszabbítása – a 19. § (3) bekezdésében foglaltak kivételével a törvényben meghatározott egyéb feltételek teljesítése esetén – akkor engedélyezhető, ha
 
-- a) a harmadik országbeli állampolgár a 16. § (3) bekezdés a) pontja szerinti befektetéssel a kérelem benyújtásának időpontjában rendelkezik,
-- b) a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti befektetés esetében a vendégbefektetői tartózkodási engedély kiadásának alapját képező ingatlan tekintetében az e törvény szerinti értékű tulajdoni illetőséggel rendelkezik,
-- c) a 16. § (3) bekezdés b) pontja szerinti befektetés esetében a vendégbefektetői tartózkodási engedély kiadásának alapját képező ingatlan tekintetében
-  - ca) az elidegenítési és terhelési tilalom törlését követően az ingatlan már nem áll a harmadik országbeli állampolgár tulajdonában, vagy
-  - cb) a harmadik országbeli állampolgár tulajdoni illetőségének értéke nem éri el az 500 000 euró összeget
-
-a harmadik országbeli állampolgár a 16. § (3) bekezdés b) pontja szerinti befektetéssel a kérelem benyújtásának időpontjában rendelkezik, vagy
-
-- d) a vendégbefektetői tartózkodási engedély kiadásának alapját a 16. § (3) bekezdés c) pontja szerinti befektetés képezte.
+- a) a harmadik országbeli állampolgár a 16. § (3) bekezdés a) pontja szerinti befektetéssel a kérelem benyújtásának időpontjában rendelkezik, vagy
+- b) a vendégbefektetői tartózkodási engedély kiadásának alapját a 16. § (3) bekezdés b) pontja szerinti befektetés képezte.
 
 (14) A vendégbefektetői tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár 71. § (2) bekezdése szerinti családtagja e törvény szerint utazhat be és tartózkodhat Magyarországon.
 
@@ -2601,6 +2590,7 @@ az eljáró idegenrendészeti hatóság legfeljebb negyvenöt napos határidőve
 - g) a szakértői vélemény elkészítésének időtartama,
 - h) az előállítási vagy visszatartási időben küldött megkeresés kivételével a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi közlés időtartama,
 - i) a tényállás tisztázása érdekében más szerv vagy szervezeti egység megkeresése esetén az ellenőrzés lefolytatása iránti kérelem megküldésének napjától az ellenőrzés eredményéről történő tájékoztatásnak az idegenrendészeti hatóság részére történő megérkezéséig tartó időtartam.
+- j) a vendégbefektetői tartózkodási engedély kiadása esetén a kérelem benyújtása és a 16. § (2) bekezdés c) pontja szerinti nyilatkozat alapján vállalt befektetés teljesítéséről szóló igazolás 22. § (7) bekezdése szerinti benyújtása, illetve ennek elmaradása esetén a 22. § (7) bekezdés szerinti igazolás benyújtásra nyitva álló határidő között eltelt időtartam.
 
 (4) A fellebbezés elbírálására jogosult idegenrendészeti hatóság és a felügyeleti szerv eljárása esetén, valamint a megismételt eljárásban az ügyintézési határidő az ügy összes iratának az eljárásra jogosult hatósághoz érkezését követő napon kezdődik. Az idegenrendészeti hatóság a felügyeleti szerv erre irányuló felhívására köteles az iratokat felterjeszteni.
 
@@ -3172,7 +3162,7 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 
 (6) Az idegenrendészeti eljárások során, amennyiben jogszabályban meghatározott igazgatási szolgáltatási díj nem került meghatározásra, az illetékekről szóló 1990. évi XCIII. törvény rendelkezései szerint kell eljárni.
 
-(7) Az idegenrendészeti hatóság által a vendégbefektetői tartózkodási engedély kiadására irányuló eljárásban kirendelt ingatlanforgalmi szakértő költségét a kérelmező előlegezi és viseli.
+(7)
 
 #### 142. Jogi segítségnyújtás
 
@@ -3240,12 +3230,17 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 
 #### 144/A. A vendégbefektetői vízummal kapcsolatos különös eljárási szabályok
 
-224/A. § (1) A vendégbefektetői vízumot vissza kell vonni, ha a harmadik országbeli állampolgár nem
+224/A. § A vendégbefektetői vízumot vissza kell vonni, ha a harmadik országbeli állampolgár
 
-- a) a 16. § (2) bekezdés c) pontjában foglalt határidőben valósítja meg a 16. § (2) bekezdés c) pontja szerinti kötelezettségvállalása alapján a befektetést, vagy
-- b) a 22. § (7) bekezdésében foglalt határidőben igazolja a 16. § (2) bekezdés c) pontja szerinti kötelezettségvállalása alapján a befektetés teljesítését.
+- a) esetében megállapítható a 17. § (1) bekezdés h)–i) pontjában foglalt valamely feltétel fennállása,
+- b) a vízum megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy az eljáró hatóságot megtévesztette.
 
-(2) Ha a vendégbefektetői vízumot az idegenrendészeti hatóság visszavonja, és megállapítja, hogy a 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetéshez kapcsolódó elidegenítési és terhelési tilalom még fennáll, az idegenrendészeti hatóság a vendégbefektetői vízumot visszavonó határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
+224/B. § A vendégbefektetői vízum kiadását – ha e törvény másként nem rendelkezik – meg kell tagadni, ha
+
+- a) a harmadik országbeli állampolgár nem felel meg a 17. § (1) bekezdés a), c), d) pontjában, valamint f)–i) pontjában foglalt valamely feltételnek,
+- b) a harmadik országbeli állampolgár a vízum megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy az eljáró hatóságot megtévesztette,
+- c) a rendelkezésre álló adatok és tények alapján valószínűsíthető, hogy a harmadik országbeli állampolgár nem valósítja meg a 16. § (2) bekezdés c) pontjában vállalt befektetést, vagy
+- d) a rendelkezésre álló adatok alapján a 16. § (2) bekezdés c) pontjában vállalt befektetés megvalósításának jogi akadálya van.
 
 #### 145. Tartózkodási engedély iránti kérelem benyújtása Magyarország területén
 
@@ -3296,16 +3291,16 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 - c) a 16. § (2) bekezdés c) pontja szerint vállalt befektetés teljesítésére meghatározott 22. § (7) bekezdése szerinti határidő eredménytelenül telt el,
 - d) meghosszabbítás esetén a harmadik országbeli állampolgár nem teljesítette a 22. § (13) bekezdésében foglaltakat.
 
-(2) A vendégbefektetői tartózkodási engedély kiadását az (1) bekezdésben foglaltakon túl meg kell tagadni akkor is, ha az idegenrendészeti hatóság által kirendelt ingatlanforgalmi szakértő által készített szakvélemény szerint a vételár és az ingatlan értéke között feltűnő értékaránytalanság áll fenn.
+(2)
 
-(2a) Ha az ingatlan-nyilvántartás adatai szerint a 22. § (11) bekezdés a) pontja alapján az elidegenítési és terhelési tilalmat bejegyezték, az idegenrendészeti hatóság a kérelmet elutasító határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
+(2a)
 
 (3) A vendégbefektetői tartózkodási engedélyt vissza kell vonni
 
 - a) az (1) bekezdés a)–c) pontjában meghatározott esetekben, vagy
 - b) ha a rendelkezésre álló adatok és tények alapján valószínűsíthető, hogy a 16. § (2) bekezdés c) pontja szerint vállalt befektetés az e törvényben meghatározott időtartamban nem áll fenn.
 
-(4) Ha a vendégbefektetői tartózkodási engedélyt az idegenrendészeti hatóság visszavonja, és megállapítja, hogy a 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetéshez kapcsolódó elidegenítési és terhelési tilalom még fennáll, az idegenrendészeti hatóság a vendégbefektetői tartózkodási engedélyt visszavonó határozatában – a magyar állam nevében eljárva – rendelkezik az elidegenítési és terhelési tilalom törléséről.
+(4)
 
 228. § (1) Szezonális munkavállalás céljából a tartózkodási engedély kiadását meg kell tagadni a 226. § (1) bekezdés a)–c) és e) pontjában meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár
 
@@ -4063,6 +4058,7 @@ részére adatot szolgáltat.
 
 - a) szabályozza a vendégbefektetői vízum igénylésének eljárási szabályait,
 - b) meghatározza a vendégbefektetői vízumra és vendégbefektetői tartózkodási engedélyre való jogosultsághoz megvalósítandó befektetések teljesítésének, valamint ezen befektetések teljesítése igazolásának feltételeit és eljárási szabályait.
+- c) meghatározza az ingatlanalap nettó eszközértékébe beszámítható lakás funkciójú ingatlanba történő befektetések részletszabályait.
 
 (6) Felhatalmazást kap a Kormány, hogy a nemzeti tartózkodási kártya és az EU tartózkodási kártya kiadásával, továbbá a tartózkodási engedély meghosszabbításával és ismételt kiadásával összefüggésben a társadalmi együttélési feltételek fennállásának igazolására szolgáló kulturális ismereti vizsga, a kulturális ismereti vizsgával kapcsolatban fizetendő díj, valamint a vizsgakötelezettség keletkezésének és a vizsgakötelezettség alóli mentességnek a részletszabályait rendeletben állapítsa meg, továbbá a társadalmi együttélési feltételek teljesítésének vizsgálatára jogosult szervet rendeletben jelölje ki.
 
@@ -4131,7 +4127,7 @@ rendeletben állapítsa meg.
 
 (2) A 328. § b) pontja, a 351. §, a 218. alcím és a 398. § 2024. január 2-án lép hatályba.
 
-(3) A 250. § d) pontja, a 266. § és a 227. alcím 2025. január 1-jén lép hatályba.
+(3) A 250. § d) pontja, a 266. § és a 227. alcím 2027. január 1-jén lép hatályba.
 
 (4) A 10. § a) pontja, a 143. § (4) bekezdése, a 250. § b) pontja, a 265. §, a 289. §, a 319. §, a 390. § c), d), f), g) és i) pontja, a 228. alcím, a 229. alcím és a 231. alcím az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet 88. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 
@@ -4189,9 +4185,9 @@ nem nyújtható be.
 
 (17) E törvény 8. és 13. alcímét – a (18) bekezdésben foglalt kivétellel – 2024. július 1-től kell alkalmazni.
 
-(18) A 16. § (3) bekezdés b) pontját, a 22. § (11) bekezdését, a 22. § (13) bekezdés b) és c) pontját, a 224/A. § (2) bekezdését, valamint a 227. § (2), (2a) és (4) bekezdését 2025. január 1. napjától kell alkalmazni.
+(18)
 
-(19) A 16. § (3) bekezdés b) pontja szerinti tulajdoni illetőség megszerzésére csak 2025. január 1. napjától kerülhet sor, a 2025. január 1. napjáig megszerzett tulajdoni illetőség nem ismerhető el.
+(19)
 
 287. § (1) Az e törvény hatálybalépésekor Magyarországon érvényes tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár e törvény szerinti jogcímeken – belföldi tartózkodása esetén kizárólag elektronikus úton, az idegenrendészeti ügyindítási felületen – kérelmezheti a tartózkodási engedélye kiadását, – a foglalkozási feltételek megváltozásának kivételével legkésőbb a tartózkodási engedély lejárta előtt 45 nappal – azzal, hogy az e törvényben meghatározott tartózkodási engedély okmány érvényességi időt úgy kell tekinteni, mintha az az e törvény alapján benyújtott tartózkodási engedély kérelemmel kezdődne, kivéve a (2) bekezdésben meghatározott tartózkodási engedélyeket.
 
@@ -4218,6 +4214,10 @@ nem nyújtható be.
 #### 289. §
 
 290. § Az e törvény hatálybalépése időpontjában a nyilvántartásban szereplő minősített munkaerő-kölcsönző a kormányhivatal felhívására köteles a 34. § (2) bekezdése szerinti regisztrációs díj befizetésére. Ezt követően a foglalkoztatási díj fizetési kötelezettségre a 34. § (4) bekezdésében foglaltak alkalmazandók.
+
+290/A. § (1) A kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény (a továbbiakban: Módtv.) hatálybalépése előtt véglegesen el nem bírált vendégbefektetői vízum és vendégbefektetői tartózkodási engedély iránti kérelemmel kapcsolatos eljárásban a Módtv. rendelkezéseit kell alkalmazni.
+
+(2) A Módtv. hatályba lépése előtt benyújtottnak minősül a vendégbefektetői tartózkodási engedély iránti kérelem, ha a kérelem díját a harmadik országbeli állampolgár megfizette.
 
 #### 156. Sarkalatossági záradék
 

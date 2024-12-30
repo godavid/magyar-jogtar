@@ -779,7 +779,12 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 (2) Szervezeti egységen belül azonos besorolású másik szolgálati beosztásba helyezéshez a hivatásos állomány tagjának beleegyezése nem szükséges, azonban az új szolgálati beosztásba előírt képesítési és alkalmassági feltételeknek ebben az esetben is meg kell felelni.
 
-54. § (1) Ha a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső szolgálati beosztást betöltő tagjával szemben a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot állapítottak meg, és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, a hivatásos állomány tagját a nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásból azonnali hatállyal fel kell menteni.
+54. § (1) Ha a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső szolgálati beosztást betöltő
+
+- a) tagjával szemben a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot állapítottak meg, vagy
+- b) tagja a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta,
+
+és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, a hivatásos állomány tagját a nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásból azonnali hatállyal fel kell menteni.
 
 (2) A szolgálati beosztásból történő felmentéssel egyidejűleg intézkedni kell a kifogástalan életvitel soron kívüli ellenőrzésére. A szolgálati beosztásból történő felmentés időpontjától a hivatásos állomány tagjának szolgálati viszonya szünetel.
 
@@ -1068,9 +1073,19 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 
 (7) E § alkalmazásában tartósan akadályozott személy az, aki keresőképtelenség, átrendelés, szolgálati feladatra vezénylés miatt, vagy más okból – ide nem értve a 143–146. §, a 289/O. és 289/P. § szerinti szabadság miatti helyettesítést – harminc napnál hosszabb ideje nem tudja ellátni a szolgálati beosztását vagy abból adódó feladatait, vagy előre láthatóan harminc napnál hosszabb ideig nem fogja azt ellátni.
 
+#### 43/A. Céljuttatás
+
 72. § (1) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a rendvédelmi szerv hivatásos állományának tagja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
 
 (2) A kormányzati igazgatásról szóló törvény szerinti célhoz köthető feladat végrehajtásában a kormányzati igazgatásról szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a rendvédelmi szerv hivatásos állományának tagja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célhoz köthető feladat eredményes végrehajtásáért céljuttatásra jogosult.
+
+(3) Az (1) és (2) bekezdésben foglaltakon túl a munkáltatói jogkör gyakorlója – a hivatásos állomány tagjával kötött megállapodása alapján – rendkívüli, célhoz köthető feladatot (e § alkalmazásában a továbbiakban: célfeladat) állapíthat meg a hivatásos állomány tagja részére, amelynek teljesítése a szolgálati feladatok ellátásából adódó általános munkaterhet jelentősen és tartósan meghaladja. A célfeladat megállapításakor a munkáltatói jogkör gyakorlója a célfeladat eredményes végrehajtásáért írásban, a hivatásos állomány tagját az illetményén felül megillető céljuttatást határoz meg a megállapított személyi juttatások előirányzata terhére. A hivatásos állomány tagja a céljuttatásra akkor jogosult, ha a célfeladat eredményesen teljesült és azt a munkáltatói jogkör gyakorlója igazolta.
+
+(4) A munkáltatói jogkör gyakorlója az (1)–(3) bekezdésben foglaltakon túl célfeladatot állapíthat meg – az állományilletékes parancsnok egyetértésével – a hivatásos állomány más szervezeti egységnél vagy rendvédelmi szervnél foglalkoztatott tagja részére. A céljuttatást a célfeladatot tűző munkáltatói jogkör gyakorlója állapítja meg a hivatásos állomány tagja részére.
+
+(5) Az (1)–(4) bekezdés szerinti céljuttatás a hivatásos állomány tagját megillető jubileumi jutalom alapjául szolgáló illetmény összegébe nem számít bele.
+
+(6) Az (1)–(4) bekezdés szerinti, céljuttatással ellentételezett célfeladat szolgálatteljesítési időn kívüli ellátása nem minősül túlszolgálatnak.
 
 72/A. § (1) A 72. §-tól eltérően a nemzetközi közigazgatási szakértői tevékenység tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 154. § (4) és (5) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
@@ -1429,7 +1444,7 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 (3) Az egészségkárosodási ellátás mértékének megállapításához a szolgálati viszony megszűnésének napján, a 82/B. (4) bekezdés c) pontja szerinti esetben a másik szolgálati beosztásba helyezés vagy áthelyezés napját megelőző napon elért tényleges szolgálati időt kell figyelembe venni.
 
-(4) A rendvédelmi egészségkárosodási keresetkiegészítés mértéke az (1) vagy (2) bekezdésben meghatározott összeg és az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követő, nem rendszeres pótlékok nélkül számított mindenkori illetmény vagy munkabér különbözete. Ha az új illetmény vagy munkabér összege változik, a rendvédelmi egészségkárosodási keresetkiegészítés mértékét módosítani kell. Nem változik a rendvédelmi egészségkárosodási keresetkiegészítés mértéke, ha az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követően az egészségügyi szabadság szabályai szerint vagy keresőképtelenség miatt az illetmény vagy munkabér összege helyett a jogosult részére távolléti díj vagy táppénz kerül folyósításra.
+(4) A rendvédelmi egészségkárosodási keresetkiegészítés mértéke az (1) vagy (2) bekezdésben meghatározott összeg és az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követő, nem rendszeres pótlékok nélkül számított mindenkori illetmény vagy munkabér különbözete. Ha az új illetmény vagy munkabér összege változik, a rendvédelmi egészségkárosodási keresetkiegészítés mértékét módosítani kell, kivéve azt az esetet, ha az új illetmény vagy munkabér változás előtti és változás utáni összege is meghaladja az (1) vagy (2) bekezdésben meghatározott összeget. Nem változik a rendvédelmi egészségkárosodási keresetkiegészítés mértéke, ha az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követően az egészségügyi szabadság szabályai szerint vagy keresőképtelenség miatt az illetmény vagy munkabér összege helyett a jogosult részére távolléti díj vagy táppénz kerül folyósításra.
 
 (5) A rendvédelmi egészségkárosodási járadék mértéke az (1) és (2) bekezdésben meghatározott összeggel egyezik meg.
 
@@ -1527,7 +1542,7 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 és részére a rendvédelmi szervnél megfelelő szolgálati beosztás, munkakör nem biztosítható,
 
 - b) a hivatásos szolgálatra alkalmatlanná vált, mert nem felel meg a kifogástalan életvitel követelményének,
-- c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, és
+- c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, és
   - ca) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54. §-ban foglaltak szerint felajánlott szolgálati beosztást nem fogadta el, vagy
   - cb) a rendelkezési állomány ideje úgy telik el, hogy részére az 54. §-ban foglaltaknak megfelelő, felajánlható szolgálati beosztás nem volt,
 - d) a hivatásos szolgálatra méltatlanná vált, mert szolgálaton kívül olyan cselekményt követett el, amely a rendvédelmi szerv működésébe vetett közbizalmat súlyosan veszélyezteti és emiatt nem várható el, hogy a rendvédelmi szerv a szolgálati viszonyát fenntartsa,
@@ -3905,6 +3920,8 @@ igénylése vagy igénybevétele miatt szüntették meg, a rendvédelmi szerv k�
 - i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
 - j) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv előzetes véleményalkotási eljárás keretében.
 
+(1a) A hivatásos állomány tagja a saját adatai tekintetében a személyügyi alapnyilvántartásába és az annak alapjául szolgáló iratokba jogosult betekinteni.
+
 (2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés c) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
 
 - a) más szervhez vezénylése, vagy
@@ -3985,7 +4002,7 @@ esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben 
 - b) az e törvény hatálybalépése előtt az 1996. évi XLIII. törvény rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati időt.
 - c) a Nemzeti Adó- és Vámhivatalnál pénzügyőri státuszon létesített adó- és vámhatósági szolgálati jogviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban töltött időt.
 
-(3) A szolgálati viszony létesítésekor a fizetési fokozat megállapításakor fizetési várakozási időben eltöltött időként kell figyelembe venni az (1) bekezdés a)–e) pontjában meghatározott időket.
+(3) A szolgálati viszony létesítésekor a fizetési fokozat megállapításakor fizetési várakozási időben eltöltött időként kell figyelembe venni az (1) bekezdés a)–e), valamint i) pontjában meghatározott időket.
 
 (4) Akinek a szolgálati ideje az 1996. évi XLIII. törvény 341/D. §-a alapján rögzítésre került,
 
@@ -4151,6 +4168,8 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 
 (11a) A rendvédelmi szervnél foglalkoztatott munkavállalóra a XIX. Fejezet rendelkezései közül a 228–255. § szabályait megfelelően alkalmazni kell. A 239. §-t azzal az eltéréssel kell alkalmazni, hogy a kártérítésre kötelezett a kártérítési eljárásban hozott elsőfokú határozattal szemben bírósághoz fordulhat. Ha a kártérítésre kötelezett nem él jogorvoslati jogával, a kártérítésre vonatkozó határozat végrehajtható.
 
+(11b) A terrorizmust elhárító szervnél foglalkoztatott munkavállaló munkaviszonyára a XXXI. Fejezet rendelkezései közül a 124/B. alcím rendelkezéseit alkalmazni kell.
+
 (12) Az általános rendőrségi feladatok ellátására létrehozott szerv az általa a nevelési-oktatási intézmények rendjének fenntartása érdekében foglalkoztatott munkavállalói (a továbbiakban: iskolaőr) vonatkozásában
 
 - a) hivatalból kiállítja, visszavonja, ideiglenesen bevonja, és nyilvántartja a szolgálati igazolványt,
@@ -4270,6 +4289,8 @@ kell érteni.
 (5) A rendvédelmi alkalmazottra a III. Fejezetbe tartozó rendelkezések közül a 14. §-t alkalmazni kell.
 
 (6) A rendvédelmi alkalmazottat el kell látni a rendvédelmi szervhez tartozást igazoló szolgálati igazolvánnyal. A szolgálati igazolvány adattartalmát a miniszter közjogi szervezetszabályozó eszközben szabályozza.
+
+(7) A terrorizmust elhárító szervnél foglalkoztatott rendvédelmi alkalmazottra a XXXI. Fejezetbe tartozó rendelkezések közül a 124/B. alcím rendelkezéseit alkalmazni kell.
 
 #### 115/B. Értelmező rendelkezések
 
@@ -6170,6 +6191,38 @@ az általános rendőrségi feladatok ellátására létrehozott szerv a hátral
 
 (2) A határvadász 181. § (1) bekezdése szerinti fegyelemsértése esetén a 181. § (3) és (4) bekezdése, a 184. § (4) bekezdése, a 185. § (1) bekezdés d)–g) pontja, valamint a 215. § nem alkalmazható.
 
+#### 124/B. A terrorizmust elhárító szerv állományára vonatkozó szabályok
+
+319/N. § (1) A terrorizmust elhárító szerv tagja – a terrorizmust elhárító szerv főigazgatója által elrendelt időszakban – köteles bejelenteni a szolgálaton kívüli tartózkodási helyét, valamint elérhetőségét.
+
+(2) A terrorizmust elhárító szerv tagja magáncélú külföldre utazásával kapcsolatban köteles a terrorizmust elhárító szerv főigazgatójának bejelenteni
+
+- a) külföldre utazási és vízumigénylési szándékát,
+- b) külföldre utazásának tervezett napját, célját, időtartamát, az útvonallal érintett országok listáját,
+- c) a terv szerint vele együtt utazó közeli hozzátartozóinak nevét,
+- d) hazatérésének tervezett napját.
+
+(3) A terrorizmust elhárító szerv főigazgatója a külföldre utazást szolgálati és biztonsági érdekből megtilthatja vagy korlátozhatja. A terrorizmust elhárító szerv főigazgatója köteles a döntését megindokolni. A magáncélú külföldre utazás korlátozása vagy megtiltása miatt felmerült, máshonnan meg nem térülő kár tekintetében a terrorizmust elhárító szerv tagját a terrorizmust elhárító szerv kártalanítja.
+
+(4) A (2) bekezdés szerinti bejelentés és a (3) bekezdés szerinti megtiltás vagy korlátozás eljárási szabályait – különös tekintettel a bejelentés és a megtiltás vagy korlátozás közlésének határidejére – a terrorizmust elhárító szerv főigazgatója közjogi szervezetszabályozó eszközben állapítja meg.
+
+(5) A terrorizmust elhárító szerv főigazgatója közjogi szervezetszabályozó eszközben megállapíthatja azon esetköröket, helyzeteket vagy időszakokat, amikor a (2) bekezdés szerinti bejelentési kötelezettséget nem kell teljesíteni.
+
+(6) A (2) bekezdés c) pontja szerinti adatokat a terrorizmust elhárító szerv a megvalósult utazásról történő hazatérésről való tudomásszerzést követően haladéktalanul törli.
+
+319/O. § A terrorizmust elhárító szerv tagja a gyülekezési törvény hatálya alá eső gyűlésen történő megjelenési szándékát köteles a terrorizmust elhárító szerv főigazgatójának bejelenteni, aki a részvételt megtilthatja, ha az a hivatással vagy az ellátott szolgálati beosztással nem egyeztethető össze, vagy a rendvédelmi szerv szolgálati érdekeit sérti vagy veszélyezteti. A terrorizmust elhárító szerv főigazgatója köteles a döntését megindokolni.
+
+319/P. § A 108. § (1) bekezdésében foglaltak megsértése a terrorizmust elhárító szerv tagja esetében összeférhetetlenségnek minősül.
+
+319/Q. § (1) A terrorizmust elhárító szerv tagja köteles a terrorizmust elhárító szerv főigazgatójának bejelenteni
+
+- a) a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység folytatását,
+- b) bármely gazdasági társaságban fennálló tagságát.
+
+(2) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a civil szervezetben való részvétel vagy tisztségviselés, valamint a gazdasági társaságban fennálló tagság ellentétes a terrorizmust elhárító szerv feladataival, vagy veszélyezteti a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, vagy a terrorizmust elhárító szerv tekintélyét.
+
+(3) A terrorizmust elhárító szerv főigazgatója az (1) bekezdés szerinti és a 109. § (3) bekezdése szerinti tevékenység folytatását korlátozhatja, ha veszélyezteti a szolgálati érdeket. A terrorizmust elhárító szerv főigazgatója köteles a döntését megindokolni.
+
 #### 125. Különleges foglalkoztatási állomány
 
 320. § (1) Ha az öregségi nyugdíjkorhatár elérése előtt a szolgálati járandóságra jogosult
@@ -6275,7 +6328,12 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (6) Az Országgyűlési Őrség vonatkozásában a 21. § (3) bekezdésében, a 163. § (4) bekezdésében, valamint a 176. § (6) bekezdésében foglaltaktól eltérően a miniszter vagy az országos parancsnok által kiadott közjogi szervezetszabályozó eszköz helyett a megjelölt tárgyköröket az Országgyűlési Őrség parancsnoka belső szabályzatban szabályozza.
 
-330. § (1) Az 54. § alkalmazása helyett az Országgyűlési Őrség hivatásos állománya tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta.
+330. § (1) Az 54. § alkalmazása helyett az Országgyűlési Őrség hivatásos állománya tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
+
+- a) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta vagy
+- b) a hivatásos állomány tagja a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta.
+
+(1a) Az (1) bekezdés szerinti felmentés esetében a 87. § (4) bekezdés b) pontjában és a 90. § (6) bekezdés c) pontjában foglalt rendelkezést alkalmazni kell.
 
 (2) Az Országgyűlési Őrségnél a könnyített állományra vonatkozó szabályok nem alkalmazhatók. Ha az Országgyűlési Őrség hivatásos állományának tagja megfelel a 79. §-ban meghatározott feltételeknek, kezdeményezésére át kell helyezni másik rendvédelmi szervhez, feltéve, hogy a másik rendvédelmi szervnél van olyan, a kérelmező által betölthető szolgálati beosztás, amely könnyített szolgálattal is ellátható.
 
@@ -6669,9 +6727,11 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (3) A 139. § (2) bekezdésében meghatározott éves korlátot az e törvény hatálybalépéskor szolgálati viszonyban álló hivatásos állomány esetében a 2015. tárgyévre vonatkozóan alkalmazni kell, a 2015. évi teljesíthető túlszolgálat esetében a 2015. január 1. és 2015. június 30. között teljesített túlszolgálatot is figyelembe kell venni.
 
-(4) A 140. § (2) és (3) bekezdésétől eltérően 2024. december 31-ig a túlszolgálat ellentételezéseként a hivatásos állomány tagját – az állományilletékes és annál magasabb parancsnok kivételével – választása alapján szabadidő vagy díjazás illeti meg. A túlszolgálatért annak időtartamával megegyező, ha pedig a túlszolgálatot a heti pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesítették, a túlszolgálat kétszeresének megfelelő szabadidő vagy díjazás jár. A túlszolgálatért díjazásként annak idejére távolléti díj jár, amelyet legkésőbb a tárgyhónapot követő második hónapban kell kifizetni.
+(4) A 140. § (2) és (3) bekezdésétől eltérően 2025. december 31-ig a túlszolgálat ellentételezéseként a hivatásos állomány tagját – az állományilletékes és annál magasabb parancsnok kivételével – szabadidő vagy díjazás illeti meg. Az ellentételezés formájáról – a szolgálatszervezés érdekeire figyelemmel, a hivatásos állomány tagja igényének, a pihenéshez való jog, a szolgálatteljesítés és a pihenőidő egyensúlya biztosításának, valamint a költségvetési forrásokkal való felelős gazdálkodás követelményének figyelembevétele mellett – az állományilletékes parancsnok dönt. A túlszolgálatért annak időtartamával megegyező, ha pedig a túlszolgálatot a heti pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesítették, a túlszolgálat kétszeresének megfelelő szabadidő vagy díjazás jár. A túlszolgálatért díjazásként annak idejére távolléti díj jár, amelyet legkésőbb a tárgyhónapot követő második hónapban kell kifizetni.
 
 (4a) A polgári nemzetbiztonsági szolgálatok hivatásos állománya vonatkozásában az állományilletékes parancsnok szolgálati érdekből dönthet úgy, hogy egyes szolgálati beosztások esetében a teljesített túlszolgálat a (4) bekezdésben foglaltaktól eltérően csak díjazással vagy csak szabadidőben ellentételezhető.
+
+(4b) A 140. § (6)–(24) bekezdése szerinti önként vállalt túlszolgálat és a 289/L. § (10)–(28) bekezdése szerinti önként vállalt túlmunka elrendelésére 2025. december 31-ig van lehetőség.
 
 (5) Ha a hivatásos állomány vezetői beosztást betöltő tagját megillető vezetői pótszabadság mértéke e törvény hatálybalépésére tekintettel megváltozik, a 2015. tárgyévre vonatkozóan a 143. § (4) bekezdésében meghatározott mértéket időarányosan kell figyelembe venni.
 
