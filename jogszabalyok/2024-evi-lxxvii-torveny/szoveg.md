@@ -19,7 +19,7 @@ a belügyi ágazatokat érintő törvények módosításáról
 
 #### 2. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-6. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 58/A. § (2c) bekezdés a) pontjában a „népkonyha kivételével” szövegrész helyébe a „népkonyha, valamint a szenvedélybetegek és a pszichiátriai betegek részére nyújtott nappali ellátás kivételével” szöveg lép.
+#### 6. §
 
 #### 3. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
@@ -177,63 +177,29 @@ a belügyi ágazatokat érintő törvények módosításáról
 
 #### 14. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-72. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 54. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső szolgálati beosztást betöltő
-
-- a) tagjával szemben a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot állapítottak meg, vagy
-- b) tagja a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta,
-
-és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, a hivatásos állomány tagját a nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásból azonnali hatállyal fel kell menteni.”
+#### 72. §
 
 #### 73. §
 
-74. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a 72. §-át megelőzően a következő alcím címmel egészül ki:
+#### 74. §
 
-#### „43/A. Céljuttatás”
+#### 75. §
 
-75. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 72. §-a a következő (3)–(6) bekezdéssel egészül ki:
-
-„(3) Az (1) és (2) bekezdésben foglaltakon túl a munkáltatói jogkör gyakorlója – a hivatásos állomány tagjával kötött megállapodása alapján – rendkívüli, célhoz köthető feladatot (e § alkalmazásában a továbbiakban: célfeladat) állapíthat meg a hivatásos állomány tagja részére, amelynek teljesítése a szolgálati feladatok ellátásából adódó általános munkaterhet jelentősen és tartósan meghaladja. A célfeladat megállapításakor a munkáltatói jogkör gyakorlója a célfeladat eredményes végrehajtásáért írásban, a hivatásos állomány tagját az illetményén felül megillető céljuttatást határoz meg a megállapított személyi juttatások előirányzata terhére. A hivatásos állomány tagja a céljuttatásra akkor jogosult, ha a célfeladat eredményesen teljesült és azt a munkáltatói jogkör gyakorlója igazolta.
-
-(4) A munkáltatói jogkör gyakorlója az (1)–(3) bekezdésben foglaltakon túl célfeladatot állapíthat meg – az állományilletékes parancsnok egyetértésével – a hivatásos állomány más szervezeti egységnél vagy rendvédelmi szervnél foglalkoztatott tagja részére. A céljuttatást a célfeladatot tűző munkáltatói jogkör gyakorlója állapítja meg a hivatásos állomány tagja részére.
-
-(5) Az (1)–(4) bekezdés szerinti céljuttatás a hivatásos állomány tagját megillető jubileumi jutalom alapjául szolgáló illetmény összegébe nem számít bele.
-
-(6) Az (1)–(4) bekezdés szerinti, céljuttatással ellentételezett célfeladat szolgálatteljesítési időn kívüli ellátása nem minősül túlszolgálatnak.”
-
-76. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 82/G. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A rendvédelmi egészségkárosodási keresetkiegészítés mértéke az (1) vagy (2) bekezdésben meghatározott összeg és az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követő, nem rendszeres pótlékok nélkül számított mindenkori illetmény vagy munkabér különbözete. Ha az új illetmény vagy munkabér összege változik, a rendvédelmi egészségkárosodási keresetkiegészítés mértékét módosítani kell, kivéve azt az esetet, ha az új illetmény vagy munkabér változás előtti és változás utáni összege is meghaladja az (1) vagy (2) bekezdésben meghatározott összeget. Nem változik a rendvédelmi egészségkárosodási keresetkiegészítés mértéke, ha az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követően az egészségügyi szabadság szabályai szerint vagy keresőképtelenség miatt az illetmény vagy munkabér összege helyett a jogosult részére távolléti díj vagy táppénz kerül folyósításra.”
+#### 76. §
 
 #### 77. §
 
 #### 78. §
 
-79. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 275. §-a a következő (1a) bekezdéssel egészül ki:
+#### 79. §
 
-„(1a) A hivatásos állomány tagja a saját adatai tekintetében a személyügyi alapnyilvántartásába és az annak alapjául szolgáló iratokba jogosult betekinteni.”
-
-80. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 280. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A szolgálati viszony létesítésekor a fizetési fokozat megállapításakor fizetési várakozási időben eltöltött időként kell figyelembe venni az (1) bekezdés a)–e), valamint i) pontjában meghatározott időket.”
+#### 80. §
 
 #### 81. §
 
-82. § (1) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 330. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 82. §
 
-„(1) Az 54. § alkalmazása helyett az Országgyűlési Őrség hivatásos állománya tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
-
-- a) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta vagy
-- b) a hivatásos állomány tagja a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta.”
-
-(2) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 330. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés szerinti felmentés esetében a 87. § (4) bekezdés b) pontjában és a 90. § (6) bekezdés c) pontjában foglalt rendelkezést alkalmazni kell.”
-
-83. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 350. §-a a következő (4b) bekezdéssel egészül ki:
-
-„(4b) A 140. § (6)–(24) bekezdése szerinti önként vállalt túlszolgálat és a 289/L. § (10)–(28) bekezdése szerinti önként vállalt túlmunka elrendelésére 2025. december 31-ig van lehetőség.”
+#### 83. §
 
 #### 84. §
 
@@ -245,7 +211,7 @@ a belügyi ágazatokat érintő törvények módosításáról
 - 2.
 - 3.
 - 4.
-- 5. 86. § (2) bekezdés c) pont nyitó szövegrészében az „–, és” szövegrész helyébe a „–, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, és” szöveg,
+- 5.
 - 6.
 - 7.
 - 8.
@@ -258,7 +224,7 @@ a belügyi ágazatokat érintő törvények módosításáról
 - 15.
 - 16.
 - 17.
-- 18. 350. § (4) bekezdésében a „2024” szövegrész helyébe a „2025” szöveg és a „választása alapján szabadidő vagy díjazás illeti meg. A” szövegrész helyébe a „szabadidő vagy díjazás illeti meg. Az ellentételezés formájáról – a szolgálatszervezés érdekeire figyelemmel, a hivatásos állomány tagja igényének, a pihenéshez való jog, a szolgálatteljesítés és a pihenőidő egyensúlya biztosításának, valamint a költségvetési forrásokkal való felelős gazdálkodás követelményének figyelembevétele mellett – az állományilletékes parancsnok dönt. A” szöveg
+- 18.
 
 lép.
 

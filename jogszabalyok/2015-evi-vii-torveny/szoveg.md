@@ -4,7 +4,7 @@ a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról
 
 Az Országgyűlés
 
-az Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY határozatban foglaltak még teljesebb megvalósulása érdekében,
+az Alaptörvény Q) cikkében és az atomenergiáról szóló 1996. évi CXVI. törvény 7. §-ának (2) bekezdése alapján, a paksi atomerőmű telephelyén új atomerőművi blokk(ok) létesítésének előkészítését szolgáló tevékenység megkezdéséhez szükséges előzetes, elvi hozzájárulás megadásáról szóló 25/2009. (IV. 2.) OGY határozatban foglaltak még teljesebb megvalósulása érdekében,
 
 felismerve, hogy Magyarország energiafüggőségének csökkentése olyan alapvető nemzetgazdasági érdek, amely egyúttal a fenntartható fejlődést is szolgálja,
 
@@ -12,7 +12,13 @@ leszögezve, hogy a Paksi Atomerőmű kapacitásának fenntartásával kapcsolat
 
 abbeli meggyőződésének hangot adva, hogy a jog eszközével a nemzetgazdasági, a nemzetközi és az európai uniós tagságból fakadó érdekek az Alaptörvényből fakadó kötelezettségekkel összhangba hozhatók,
 
-annak érdekében, hogy a Paksi Atomerőmű kapacitása, hosszú távú működése fenntartható legyen, és ezáltal az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság az Egyezmény idézett rendelkezése szerinti új 5–6. atomerőművi blokkok jövőbeni üzemeltetésével kapcsolatos feladatok ellátására felkészüljön, illetve minél hamarabb készen álljon,
+annak érdekében, hogy a Paksi Atomerőmű kapacitása, hosszú távú működése fenntartható legyen, és ezáltal a Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság az Egyezmény idézett rendelkezése szerinti új 5–6. atomerőművi blokkok jövőbeni üzemeltetésével kapcsolatos feladatok ellátására felkészüljön, illetve minél hamarabb készen álljon,
+
+annak érdekében, hogy a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos két új 5–6. atomerőművi blokkok tervezésére, beszerzésére, létesítésére, üzembe helyezésére és üzemeltetésére irányuló beruházás megvalósítása során Magyarország az energiaszuverenitáshoz fűződő érdekeit érvényesíteni tudja,
+
+a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos két új 5–6. atomerőművi blokkok tervezésére, beszerzésére, létesítésére, üzembe helyezésére és üzemeltetésére irányuló beruházás megvalósításának érdekében, megvédve ezzel Magyarország energiaszuverenitását, fenntartható fejlődését és nemzetbiztonsági érdekeit, a beruházási időszak alatt a gazdasági és nemzetközi helyzetben történő, a beruházást hátrányosan érintő hatások megszüntetése céljából, mérlegelve azt, hogy a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény kihirdetéséről szóló 2014. évi II. törvény elfogadásakor meglévő stratégiai szempontok, azaz az energiaszuverenitás, a fenntartható fejlődés, nemzetbiztonsági érdekek továbbra is fennállnak, így Magyarországnak továbbra is érdekében áll a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos két új 5–6. atomerőművi blokkok tervezésére, beszerzésére, létesítésére, üzembe helyezésére és üzemeltetésére irányuló beruházás megvalósítása,
+
+megállapítva, hogy a beruházás meghiúsulása nagyobb kárt okozna, mint annak esetlegesen módosult feltételekkel történő befejezése,
 
 tiszteletben tartva Magyarországnak az atomenergia békés célú alkalmazása körében irányadó európai uniós és nemzetközi jogi kötelezettségeit,
 
@@ -48,6 +54,8 @@ a következő törvényt alkotja:
 (6) A Beruházással összefüggő polgári jogi szerződésekben a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 17. § (3) bekezdésétől eltérően irányadóként a magyar nyelv mellett az angol nyelv alkalmazása is kiköthető.
 
 (7) A Beruházással összefüggő létesítési és építési engedélyezési eljárás lefolytatására jogosult hatóság munkáját nemzetközi szakmai tanácsadó testület segíti.
+
+(8) A létrejöttének napjától számított tíz év elteltét követően a Beruházás megvalósítására vonatkozó fővállalkozási szerződést (a továbbiakban: EPC szerződés) a tulajdonosi jogokat gyakorló szervezet előzetes hozzájárulásával a Megrendelő úgy is módosíthatja, hogy az EPC szerződés feltételeinek, illetve ellenértékének megváltoztatásakor – a hatályos EPC szerződésben foglaltaktól függetlenül – elsődlegesen a Beruházás megvalósítását késleltető, hátráltató bármely körülmény elhárításához fűződő érdeket, vagy az EPC szerződés megkötésétől eltelt időtartam vagy más, a Beruházást közvetlenül, illetve – a Fővállalkozó vagy az alvállalkozó tevékenységét érintően – közvetett módon hátrányosan befolyásoló hazai vagy nemzetközi gazdasági hatás következtében az EPC szerződésben meghatározott ellenérték növelését indokoló, Fővállalkozó által bemutatott vagy a Megrendelőnek más módon tudomására jutott, körülményt veszi figyelembe.
 
 4. § (1) Az alvállalkozó köteles biztosítani a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti egyenlő bánásmód követelményét. Az alvállalkozó a Beruházás megvalósítását szolgáló foglalkoztatásra irányuló jogviszony létesítése során az azonos vagy hasonló iparágakban hasonló munkakört betöltők átlagjövedelmét köteles alapul venni.
 
