@@ -268,7 +268,7 @@ törekszik a hulladékképződés megelőzésére.
 
 ### Fogyasztóvédelmi referens
 
-17/D. § (1) A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás köteles fogyasztóvédelmi referenst foglalkoztatni.
+17/D. § (1) Köteles fogyasztóvédelmi referenst foglalkoztatni a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás, ha az éves nettó (konszolidált) árbevétele meghaladja az 5 milliárd forintot.
 
 (2) A fogyasztóvédelmi referens feladata a vállalkozás fogyasztókat érintő tevékenységének figyelemmel kísérése, a vállalkozás alkalmazottai részére a fogyasztóvédelmi szemlélet erősítését, valamint a fogyasztóvédelmi szabályok ismeretének elmélyítését elősegítő fogyasztóvédelmi tárgyú oktatás, képzés rendszeres szervezése. A fogyasztóvédelmi referens kapcsolatot tart a fogyasztóvédelmi hatósággal, békéltető testületekkel, valamint egyéb, fogyasztóvédelmi feladatokat is ellátó állami szervekkel.
 
@@ -297,7 +297,7 @@ törekszik a hulladékképződés megelőzésére.
 - a) ellene sem csőd-, sem felszámolási eljárást nem indítottak, továbbá
 - b) a képzési tevékenység bejelentését megelőző 5 évben nem szerepelt az adóhiányosok, hátralékosok vagy végrehajtási eljárás alatt álló adózók listáján, és adószáma nem került felfüggesztésre vagy törlésre.
 
-(9) Fogyasztóvédelmi referens foglalkoztatására köteles vállalkozás a (3) bekezdés b) pontja szerinti képzést nem szervezhet.
+(9)
 
 (10) A (8) bekezdés szerinti bejelentésnek tartalmaznia kell:
 
@@ -308,7 +308,7 @@ törekszik a hulladékképződés megelőzésére.
 - e) annak igazolását, hogy valamennyi szakirány, illetve a fogyasztóvédelmi alapismeretek esetén rendelkezésre áll legalább három, az e törvényben meghatározott feltételeknek megfelelő oktató és vizsgáztató,
 - f) annak igazolását, hogy a szervező mind a négy szakirány oktatásához szükséges feltételekkel rendelkezik,
 - g) annak igazolását, mely szerint a szervező a fogyasztóvédelem vagy a fogyasztóvédelmi oktatás területén szerzett szakmai tapasztalattal rendelkezik,
-- h) annak igazolását, hogy a szervező szerepel a köztartozásmentes adózói adatbázisban.
+- h) a szervező nyilatkozatát arról, hogy szerepel a köztartozásmentes adózói adatbázisban.
 
 (10a)
 
@@ -359,7 +359,7 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 (9) A békéltető testület tagja e tevékenység ellátásáért a fogyasztóvédelemért felelős miniszter által rendeletben meghatározott díjazásra és szükség esetén költségtérítésre jogosult.
 
-19. § A fogyasztóvédelemért felelős miniszter látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.
+19. § A fogyasztóvédelmi hatóság látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.
 
 20. § (1) Az eljárásra a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület illetékes.
 
@@ -507,14 +507,14 @@ foglalt személyes adatait.
 
 (2) A kérelmet a békéltető testület elnökéhez kell írásban benyújtani. Az írásos formának a 17/C. § szerinti módokon is eleget lehet tenni. A kérelemnek tartalmaznia kell
 
-- a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét,
+- a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét, továbbá elektronikus elérhetőségét, amennyiben azzal rendelkezik,
 - b) a fogyasztói jogvitával érintett vállalkozás nevét, székhelyét vagy érintett telephelyét,
 - c) – ha a fogyasztó az illetékességet a 20. § (3) bekezdésére kívánja alapítani – a 20. § (1) és (2) bekezdése szerint illetékes békéltető testület helyett kérelmezett testület megjelölését,
 - d) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tényeket és azok bizonyítékait,
 - e) a fogyasztó nyilatkozatát a 27. §-ban előírt feltétel teljesítéséről,
 - f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárás nem indult, keresetlevél beadására, illetve fizetési meghagyás kibocsátása iránti kérelem előterjesztésére nem került sor,
 - g) a testület döntésére irányuló indítványt,
-- h) a fogyasztó aláírását.
+- h) a fogyasztó aláírását, kivéve, ha a fogyasztó kérelmét és annak mellékleteit a 37/A. § (3) bekezdése szerinti online úton nyújtja be.
 
 (3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a vállalkozás írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot a 27. §-ban előírt egyeztetés megkísérléséről.
 
@@ -596,7 +596,7 @@ foglalt személyes adatait.
 
 történik.
 
-(2) A meghallgatás megkezdésekor az eljáró tanács elnöke tájékoztatja a meghallgatott személyt, hogy a meghallgatására online formában kerül sor.
+(2)
 
 31. § (1) A kérelem, illetve a válaszirat az eljárás során szabadon módosítható vagy kiegészíthető, kivéve, ha az eljáró tanács ennek lehetőségét az ezzel okozott késedelemre tekintettel kizárja, vagy a vállalkozás az eseti alávetésre hivatkozva a kérelem módosítása, illetőleg kiegészítése ellen tiltakozik.
 
@@ -618,7 +618,7 @@ történik.
 
 - a) kötelezést tartalmazó határozatot hoz, ha
   - aa) a kérelem megalapozott, és a vállalkozás – a békéltető testületnél vagy a kamaránál nyilvántartott, illetve kereskedelmi kommunikációjában közölt – a 36/C. § szerinti általános alávetési nyilatkozatában, az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig nyilatkozatában a békéltető testület döntését magára nézve kötelezőként elismerte, vagy
-  - ab) a vállalkozás alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye – sem a kérelemben, sem a kötelezést tartalmazó határozat meghozatalakor – nem haladja meg a kétszázezer forintot, vagy
+  - ab) a vállalkozás alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye a kötelezést tartalmazó határozat meghozatalakor nem haladja meg a kétszázezer forintot, vagy
 - b) ajánlást tesz, ha a kérelem megalapozott, azonban a vállalkozás az eljárás kezdetekor úgy nyilatkozott, hogy a tanács döntését kötelezésként nem ismeri el, illetve ha a tanács döntésének elismeréséről egyáltalán nem nyilatkozott.
 
 32/A. § A tanács a fogyasztó kérelmének elutasításáról dönt, ha a meghallgatást követően a kérelmet megalapozatlannak találja.
@@ -932,7 +932,7 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 
 (4) A fogyasztóvédelmi hatóság látja el az (EU) 2017/2394 rendelet végrehajtását az (EU) 2018/302 rendeletbe ütköző Európai Unión belüli jogsértések tekintetében abban az esetben, ha a vevő az (EU) 2018/302 rendelet szerinti fogyasztónak minősül.
 
-43/B. § Az (EU) 2017/2394 rendelet 5. cikkének (1) bekezdése, 16. cikkének (1) bekezdése, valamint 8. cikkének (1) bekezdése szerinti tájékoztatási kötelezettségek, a 17. cikk, a 26. cikk, a 29. cikk, a 30. cikk, a 37. cikk (1) és (3) bekezdése szerinti információcsere, továbbá a 39. cikk szerinti értesítési kötelezettség végrehajtásáról a fogyasztóvédelemért felelős miniszter gondoskodik.
+43/B. § Az (EU) 2017/2394 rendelet 5. cikkének (1) bekezdése, 16. cikkének (1) bekezdése, valamint 8. cikkének (1) bekezdése szerinti tájékoztatási kötelezettségek, a 17. cikk, a 26. cikk, 27. cikk (1) bekezdése, a 29. cikk, a 30. cikk, a 37. cikk (1) és (3) bekezdése szerinti információcsere, továbbá a 39. cikk szerinti értesítési kötelezettség végrehajtásáról a fogyasztóvédelmi hatóság gondoskodik.
 
 ### VIII. Fejezet — A helyi önkormányzatok szerepe
 
@@ -1419,7 +1419,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 
-- a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés, 8. cikk (1) bekezdés, 9. cikk (4) bekezdés g) pont, 17. cikk, 26. cikk, 29–30. cikk, 37. cikk (1) és (3) bekezdés és 39. cikk [a 43/A.§, a 43/B.§, a 47. § (1a) és (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
+- a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés, 8. cikk (1) bekezdés, 9. cikk (4) bekezdés g) pont, 17. cikk, 26. cikk, 27. cikk (1) bekezdése, 29–30. cikk, 37. cikk (1) és (3) bekezdés és 39. cikk [a 43/A.§, a 43/B.§, a 47. § (1a) és (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
 - b) a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról, és a 295/91/EGK rendelet hatályon kívül helyezéséről szóló, 2004. február 11-i 261/2004/EK európai parlamenti és tanácsi rendelet [45/D. §];
 - c)
 - d) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet [2. § 9. pont, 18. § (8) bekezdés, 29. § (11) bekezdés];
@@ -1430,6 +1430,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 (4) A 19. § a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
 
 58. § A 16/B. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
+
+59. § A 17/D. § (1) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.
 
 ### 1. melléklet az 1997. évi CLV. törvényhez
 

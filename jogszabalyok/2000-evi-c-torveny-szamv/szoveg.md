@@ -64,7 +64,7 @@ Ennek érdekében az Országgyűlés a számvitelről a következő törvényt a
 - 5. egyéb részesedési viszonyban lévő vállalkozás: az a gazdasági társaság, amelyben a vállalkozó nem rendelkezik a 9. pont szerinti jelentős tulajdoni részesedéssel, és amely nem tartozik a 2–4. pont szerinti vállalkozások közé;
 - 6. konszolidálásba bevont vállalkozások: az anyavállalat, a konszolidálásba bevont leányvállalat, a konszolidálásba bevont közös vezetésű vállalkozás együttesen;
 - 7. kapcsolt vállalkozás: az 1. pont szerinti anyavállalat és a 2–3. pont szerinti vállalkozások (fölérendelt anyavállalat esetében a minősítést a fölérendelt anyavállalat szempontjából kell elvégezni).
-- 8. kapcsolt fél: az 1606/2002/EK európai parlamenti és tanácsi rendelettel összhangban egyes nemzetközi számviteli standardok elfogadásáról szóló 1126/2008/EK bizottsági rendeletben meghatározott fogalom;
+- 8. kapcsolt fél: az 1606/2002/EK európai parlamenti és tanácsi rendelettel összhangban egyes nemzetközi számviteli standardok elfogadásáról szóló, 2023. augusztus 13-i (EU) 2023/1803 bizottsági rendeletben meghatározott fogalom;
 - 9. jelentős tulajdoni részesedés: más vállalkozások tőkéjében való, értékpapírban megtestesülő vagy más módon meghatározott jog, amelynek célja az említett vállalkozással való tartós kapcsolat kialakítása révén hozzájárulás annak a vállalkozásnak a tevékenységéhez, amelyik e jogok birtokosa; és amely részesedés mértéke a 20 százalékot meghaladja.
 
 (3) E törvény alkalmazásában
@@ -292,8 +292,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (2) Egyszerűsített éves beszámolót készíthet a kettős könyvvitelt vezető vállalkozó, ha két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
-- a) a mérlegfőösszeg az 1200 millió forintot,
-- b) az éves nettó árbevétel a 2400 millió forintot,
+- a) a mérlegfőösszeg a 2000 millió forintot,
+- b) az éves nettó árbevétel a 4000 millió forintot,
 - c) az üzleti évben átlagosan foglalkoztatottak száma az 50 főt.
 
 (3) A (2) bekezdés előírásait a nyilvánosan működő részvénytársaság, az anyavállalat, a közérdeklődésre számot tartó gazdálkodó, valamint az olyan vállalkozó, amelynek kibocsátott – a 3. § (6) bekezdés 2–3. pontja szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett vagy az engedélyezést már kérelmezték, nem alkalmazhatja.
@@ -429,7 +429,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (6) Az (5) bekezdés c) pontjában előírt kötelezettség alól mentesül az egyszerűsített beszámolót készítő gazdálkodó, az egyszerűsített éves beszámolót készítő gazdálkodó, továbbá a (7) bekezdésben meghatározott értékhatárt el nem érő gazdálkodó.
 
-(7) Amennyiben az értékesítésnek az eladott áruk beszerzési értékével, a közvetített szolgáltatások értékével csökkentett nettó árbevétele valamely üzleti évben az egymilliárd forintot vagy a költségnemek szerinti költségek együttes összege az ötszáz millió forintot meghaladja, az ezt követő évtől kezdődően a saját előállítású termékek, a végzett szolgáltatások 51. § szerinti önköltségét az önköltségszámítás rendjére vonatkozó belső szabályzat szerinti utókalkuláció módszerével kell megállapítani. Ezen kötelezettsége alól a vállalkozó a későbbiek során – a feltételek ismételt teljesülése esetén – sem mentesül.
+(7) Amennyiben az értékesítésnek az eladott áruk beszerzési értékével, a közvetített szolgáltatások értékével csökkentett nettó árbevétele valamely üzleti évben a négymilliárd forintot vagy a költségnemek szerinti költségek együttes összege a kétmilliárd forintot meghaladja, az ezt követő évtől kezdődően a saját előállítású termékek, a végzett szolgáltatások 51. § szerinti önköltségét az önköltségszámítás rendjére vonatkozó belső szabályzat szerinti utókalkuláció módszerével kell megállapítani. Ezen kötelezettsége alól a vállalkozó a későbbiek során – a feltételek ismételt teljesülése esetén – sem mentesül.
 
 (8) A pénzkezelési szabályzatban rendelkezni kell legalább a pénzforgalom (készpénzben, illetve bankszámlán történő) lebonyolításának rendjéről, a pénzkezelés személyi és tárgyi feltételeiről, felelősségi szabályairól, a készpénzben és a bankszámlán tartott pénzeszközök közötti forgalomról, a készpénzállományt érintő pénzmozgások jogcímeiről és eljárási rendjéről, a napi készpénz záró állomány maximális mértékéről, a készpénzállomány ellenőrzésekor követendő eljárásról, az ellenőrzés gyakoriságáról, a pénzszállítás feltételeiről, a pénzkezeléssel kapcsolatos bizonylatok rendjéről és a pénzforgalommal kapcsolatos nyilvántartási szabályokról.
 
@@ -2752,8 +2752,8 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 117. § (1) Az anyavállalatnak nem kell az üzleti évről összevont (konszolidált) éves beszámolót készítenie, ha az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
-- a) a mérlegfőösszeg a 6000 millió forintot,
-- b) az éves nettó árbevétel a 12 000 millió forintot,
+- a) a mérlegfőösszeg a 10 000 millió forintot,
+- b) az éves nettó árbevétel a 20 000 millió forintot,
 - c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt.
 
 (2) Az (1) bekezdés szerinti mutatóértékek meghatározásánál az anyavállalat és leányvállalatainak, valamint közös vezetésű vállalkozásainak (ideértve a 119. § alá tartozókat is) konszolidálás előtt összesített adatait kell figyelembe venni. A közös vezetésű vállalkozás adatait a tőkerészesedés mértékében kell figyelembe venni.
@@ -3053,8 +3053,8 @@ kimutatása
 134/B. § (1) A nyersanyag-kitermelő iparágban működő vagy a természetes erdők fakitermelésével foglalkozó vállalkozó évente a kormányok részére fizetett összegekről szóló jelentést készít, ha
 
 - a) két egymást követő üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértéket:
-  - aa) a mérlegfőösszeg a 6000 millió forintot,
-  - ab) az éves nettó árbevétel a 12 000 millió forintot,
+  - aa) a mérlegfőösszeg a 10 000 millió forintot,
+  - ab) az éves nettó árbevétel a 20 000 millió forintot,
   - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
 - b) közérdeklődésre számot tartó gazdálkodónak minősül.
 
@@ -3082,8 +3082,8 @@ kimutatása
 134/C. § (1) A nyersanyag-kitermelő iparágban működő vagy a természetes erdők fakitermelésével foglalkozó anyavállalatnak minősülő vállalkozás évente a kormányok részére fizetett összegekről szóló összevont jelentést készít, ha egyedi éves beszámolójának adatai alapján
 
 - a) két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő meghaladja az alábbi határértéket:
-  - aa) a mérlegfőösszeg a 6000 millió forintot,
-  - ab) az éves nettó árbevétel a 12 000 millió forintot,
+  - aa) a mérlegfőösszeg a 10 000 millió forintot,
+  - ab) az éves nettó árbevétel a 20 000 millió forintot,
   - ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
 - b) közérdeklődésre számot tartó gazdálkodónak minősül.
 
@@ -3093,8 +3093,8 @@ kimutatása
 
 (4) Mentesül az (1) bekezdés szerinti kötelezettség alól az az anyavállalatnak minősülő vállalkozás, amelynek összevont (konszolidált) adatai két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
-- a) a mérlegfőösszeg a 6000 millió forintot,
-- b) az éves nettó árbevétel a 12 000 millió forintot,
+- a) a mérlegfőösszeg a 10 000 millió forintot,
+- b) az éves nettó árbevétel a 20 000 millió forintot,
 - c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt
 
 kivéve, ha valamely konszolidálásba bevont vállalkozása közérdeklődésre számot tartó gazdálkodó egység.
@@ -3824,7 +3824,7 @@ kezeli.
 
 (3) Nem kötelező a könyvvizsgálat, ha az alábbi két feltétel együttesen teljesül:
 
-- a) az üzleti évet megelőző két üzleti év átlagában a vállalkozó éves (éves szintre átszámított) nettó árbevétele nem haladta meg a 300 millió forintot, és
+- a) az üzleti évet megelőző két üzleti év átlagában a vállalkozó éves (éves szintre átszámított) nettó árbevétele nem haladta meg a 600 millió forintot, és
 - b) az üzleti évet megelőző két üzleti év átlagában a vállalkozó által átlagosan foglalkoztatottak száma nem haladta meg az 50 főt.
 
 (4) Jogelőd nélkül alapított vállalkozónál – a (3) bekezdésben foglaltak alkalmazásakor –, ha az üzleti évet megelőző két üzleti év egyikének vagy mindkettőnek az adatai hiányoznak vagy csak részben állnak rendelkezésre, akkor a tárgyévi várható adatokat és – ha van – a megelőző (első) üzleti évi (éves szintre átszámított) adatait kell figyelembe venni.
@@ -4188,6 +4188,7 @@ kezeli.
 - f) az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelv.
 - g) a 2013/34/EU irányelvnek a társaságiadó-információk egyes vállalkozások és fióktelepek általi közzététele tekintetében történő módosításáról szóló, 2021. november 24-i (EU) 2021/2101 európai parlamenti és tanácsi irányelv.
 - h) az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv.
+- i) a 2013/34/EU európai parlamenti és tanácsi irányelvnek a mikro-, kis-, közép- és nagyvállalkozásokra vagy csoportokra vonatkozó méretkritériumok kiigazítása tekintetében történő módosításáról szóló, 2023. október 17-i (EU) 2023/2775 felhatalmazáson alapuló bizottsági irányelv.
 
 (3) E törvény a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -4463,6 +4464,12 @@ e törvénynek a Mód2. törvény által megállapított fenntarthatósági jele
 (106) E törvénynek a Mód2. törvény által megállapított 94/B. §-át először a 2023. évben induló üzleti évre kell alkalmazni.
 
 (107) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 158/A. § (3) és (4) bekezdése a 2024. üzleti évre vonatkozó fenntarthatósági jelentéssel, összevont (konszolidált) fenntarthatósági jelentéssel összefüggésben úgy alkalmazandó, hogy a vállalkozó legfőbb szerve helyett a vállalkozó ügyvezető szerve választja meg a kamarai tag könyvvizsgálót, könyvvizsgáló céget, legkésőbb a mérleg fordulónapjáig.
+
+(108) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 3. § (2) bekezdés 8. pontját, 9. § (2) bekezdés a) és b) pontját, 14. § (7) bekezdését, 117. § (1) bekezdés a) és b) pontját, 134/B. § (1) bekezdés a) pont aa) és ab) alpontját, 134/C. § (1) bekezdés a) pont aa) és ab) alpontját, 134/C. § (4) bekezdés a) és b) pontját, 155. § (3) bekezdés a) pontját először a 2025. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(109) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 3. § (2) bekezdés 8. pontját, 9. § (2) bekezdés a) és b) pontját, 14. § (7) bekezdését, 117. § (1) bekezdés a) és b) pontját, 134/B. § (1) bekezdés a) pont aa) és ab) alpontját, 134/C. § (1) bekezdés a) pont aa) és ab) alpontját, 134/C. § (4) bekezdés a) és b) pontját a 2024. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(110) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 14. § (7) bekezdésében meghatározott értékhatárokat teljesítő vállalkozó akkor is mentesül az önköltségszámítás rendjére vonatkozó belső szabályzat elkészítése alól, ha a megelőző üzleti év(ek)ben a mentesítés lehetőségével nem élhetett.
 
 ### Felhatalmazás
 

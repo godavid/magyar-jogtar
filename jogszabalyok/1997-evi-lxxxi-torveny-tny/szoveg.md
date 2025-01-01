@@ -101,13 +101,13 @@ vonatkozó szabályokat kell alkalmazni.
 
 ### A tizenharmadik havi nyugdíj
 
-6/A. § (1) Tizenharmadik havi nyugdíjra az jogosult, aki a tárgyévet megelőző év legalább egy napjára, valamint a tárgyév januárjára társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül.
+6/A. § (1) Tizenharmadik havi nyugdíjra az jogosult, aki a tárgyévet megelőző év legalább egy napjára, valamint a tárgyév februárjára társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül.
 
 (2) Ha a jogosult több társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül, a tizenharmadik havi nyugdíjra való jogosultságot ellátásonként kell vizsgálni.
 
-(3) A tizenharmadik havi nyugdíj összege megegyezik a tárgyév január hónapjára a jogosultat megillető, a tárgyévet megelőző év legalább egy napjára is folyósított, tizenharmadik havi nyugdíjra jogosító társadalombiztosítási nyugellátások és a 6. § (4) bekezdése szerinti ellátások együttes összegével.
+(3) A tizenharmadik havi nyugdíj összege megegyezik a tárgyév február hónapjára a jogosultat megillető, a tárgyévet megelőző év legalább egy napjára is folyósított, tizenharmadik havi nyugdíjra jogosító társadalombiztosítási nyugellátások és a 6. § (4) bekezdése szerinti ellátások együttes összegével.
 
-(4) A tizenharmadik havi nyugdíjat a nyugdíjfolyósító szerv a tárgyév első negyedévében, hivatalból, külön határozat meghozatala nélkül folyósítja.
+(4) A tizenharmadik havi nyugdíjat a nyugdíjfolyósító szerv a tárgyév februárjában, hivatalból, külön határozat meghozatala nélkül folyósítja.
 
 ### II. Fejezet — AZ ÖREGSÉGI NYUGDÍJ
 
@@ -221,7 +221,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 - f) a 2020. június 30-áig terjedő időszakra a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,
 - g) azon egyszerűsített közteherviselési hozzájárulás (ekho) alap 50 százalékát, 2008. január 1-jétől 61 százalékát, amely után a magánszemélyt terhelő ekho mértéke 15 százalék,
 - h) a 2020. augusztus 31-ét követő időszakra a Tbj. 27. § (2) bekezdése szerinti járulékfizetési alsó határ alkalmazása esetén a minimálbér 30 százalékát,
-- i) a Tbj. 41. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
+- i)
 - j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 - k) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerinti egyéni vállalkozó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 
@@ -479,7 +479,7 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 - a) a házastárs 1993. március 1-je előtt bekövetkezett halála esetén az elhalálozástól számított tizenöt éven belül,
 - b) a házastárs 1993. február 28-a után bekövetkezett halála esetén az elhalálozástól számított tíz éven belül
 
-következik be.
+következik be azzal, hogy az özvegyre irányadó öregségi nyugdíjkorhatárt a jogszerző halálakor hatályos jogszabályok alapján kell megállapítani.
 
 48. § (1) Az, akinek házastársa a házasság megkötésekor a reá irányadó öregségi nyugdíjra jogosító életkort már betöltötte, özvegyi nyugdíjra csak abban az esetben jogosult, ha a házasságból (a korábbi együttélésből) gyermek származott, vagy a házastársak a házasság megkötésétől öt éven át megszakítás nélkül együtt éltek.
 
@@ -682,7 +682,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (7)
 
-(8) Ha a nyugdíjas az egészségi állapottól függő nyugellátás felülvizsgálata során az egészségi állapot megállapításához szükséges egészségügyi iratokat a nyugdíjbiztosítási igazgatási szerv által megállapított határidőn belül nem küldi meg, a nyugellátást az erről szóló határozat keltét követő hónap első napjával meg kell szüntetni.
+(8) Egészségi állapottól függő nyugellátás esetén az igénylő az igény elbírálása során, illetve a nyugdíjas a felülvizsgálat során – a jogkövetkezményekről szóló tájékoztatás mellett – az egészségi állapot vizsgálata céljából személyes megjelenésre kötelezhető, ha az igénylő, illetve az ellátásban részesülő állapota a rendelkezésre álló egészségügyi dokumentáció alapján megalapozottan nem ítélhető meg. Ha az igénylő az igény elbírálása során a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, az az igénybejelentés visszavonásának minősül. Ha a nyugdíjas a felülvizsgálat során a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, a nyugellátást az erről szóló határozat keltét követő hónap első napjával meg kell szüntetni.
 
 (9) Egészségi állapottól függő nyugellátás esetén a jogosultság felülvizsgálata soron kívül is elrendelhető, ha olyan tény vagy körülmény jut a nyugdíjbiztosítási igazgatási szerv tudomására, amely valószínűsíti, hogy a korábban megállapított munkaképesség-csökkenés, egészségkárosodás, illetve egészségiállapot-romlás nem áll fenn, vagy az a megállapítottnál kisebb mértékű.
 
@@ -706,7 +706,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 - a) a szolgálati idő, illetve a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamának jogalap nélküli megállapítása az igénylőnek felróható, vagy
 - b) az adott időtartamot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek (a továbbiakban: uniós rendeletek) vagy szociális biztonsági, szociálpolitikai egyezmény alapján külföldi szerv szolgálati időként figyelembe veszi.
 
-68. § Ajánlott elektronikus kézbesítési szolgáltatási címmel rendelkező ügyfél esetén a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal a küldeményt akkor is az ügyfél biztonságos kézbesítési szolgáltatási címére kézbesíti, ha az nem minősül a hivatalos elérhetőségének, de az ügyfél az ügyintézési rendelkezésében nem zárta ki. A kézbesítésre a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 27. § c) pontját azzal az eltéréssel kell alkalmazni, hogy a kézbesítés második sikertelen megkísérlését követően a nyugdíjbiztosítási igazgatási szerv köteles más módon intézkedni a küldemény kézbesítéséről.
+68. § Ajánlott elektronikus kézbesítési szolgáltatási címmel rendelkező ügyfél esetén a nyugdíjbiztosítási igazgatási szerv a küldeményt akkor is az ügyfél biztonságos kézbesítési szolgáltatási címére kézbesíti, ha az nem minősül a hivatalos elérhetőségének, de az ügyfél az ügyintézési rendelkezésében nem zárta ki. A kézbesítésre a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 27. § c) pontját azzal az eltéréssel kell alkalmazni, hogy a kézbesítés második sikertelen megkísérlését követően a nyugdíjbiztosítási igazgatási szerv köteles más módon intézkedni a küldemény kézbesítéséről.
 
 69. § (1) A nyugellátás attól a naptól állapítható meg, amely napon a jogosultsághoz szükséges feltételek bekövetkeztek.
 
@@ -714,7 +714,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 70. § (1) A baleset üzemiségét és a megbetegedés foglalkozási jellegét (a továbbiakban együtt: a baleset üzemisége) az ezt megállapító, a kötelező egészségbiztosítás ellátásairól szóló törvény alapján hozott, véglegessé vált határozat igazolja. Ha a kérelmet azért utasítják el, mert a baleset üzemiségét – véglegessé vált határozattal – még nem állapították meg, és az igénylő a kérelmét a baleset üzemiségének megállapítását követően újra benyújtja, a baleseti hozzátartozói nyugellátást az eredeti igénybejelentés időpontjának figyelembevételével kell megállapítani.
 
-(2) A baleseti hozzátartozói nyugellátást igénylő személynek hozzátartozói nyugellátást kell megállapítani, ha a baleset üzemiségét – véglegessé vált határozattal – még nem állapították meg, és az igénylő hozzátartozói nyugellátásra jogosult. Ha a baleset üzemiségét a hozzátartozói nyugellátás megállapítását követően megállapítják, a jogosultsági feltételek fennállása esetén kérelemre
+(2) A baleseti hozzátartozói nyugellátást igénylő személynek hozzátartozói nyugellátást kell megállapítani, ha a baleset üzemiségét – véglegessé vált határozattal – még nem állapították meg, és az igénylő hozzátartozói nyugellátásra jogosult. Ha a baleset üzemiségét a hozzátartozói nyugellátás megállapítását követően megállapítják, a jogosultsági feltételek fennállása esetén kérelemre vagy a baleset üzemiségét elbíráló szerv értesítése alapján hivatalból
 
 - a) a hozzátartozói nyugellátást az eredeti kezdő időpontjára visszamenőleg meg kell szüntetni,
 - b) a baleseti hozzátartozói nyugellátást az eredeti igénybejelentés időpontjának figyelembevételével meg kell állapítani, és
@@ -769,7 +769,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 79. § (1) A saját jogú és a hozzátartozói nyugellátást, továbbá a nyugdíjbiztosítási igazgatási szervek hatáskörébe utalt nem társadalombiztosítási ellátást a nyugdíjfolyósító szerv a nyugdíjfolyósítási törzsszám mint azonosító szám alatt folyósítja. A nyugdíjfolyósító szerv az ellátás folyósításának kezdetekor a nyugdíjfolyósítási törzsszám igazolására – az e célra rendszeresített nyomtatványon – az érintett személy részére díjmentesen igazolást ad ki.
 
-(2) A nyugdíjfolyósító szerv a megállapított nyugellátás folyósítását – a kormányrendeletben meghatározott esetekben a határozat vele való közlését követő tizenhárom napon belül, egyéb esetben a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tizenhárom napon belül –
+(2) A nyugdíjfolyósító szerv a megállapított nyugellátás folyósítását – a kormányrendeletben meghatározott esetekben a határozat vele való közlését követő tíz munkanapon belül, egyéb esetben a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tíz munkanapon belül –
 
 - a) pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján vagy a jogosult által megjelölt belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára,
 - b) EGT-állam vagy Nagy-Britannia és Észak-Írország Egyesült Királysága területén élők részére történő folyósítás esetén a jogosult által megjelölt, valamely EGT-államban vagy Nagy-Britannia és Észak-Írország Egyesült Királyságában, pénzforgalmi szolgáltatónál vezetett fizetési számlára,
@@ -784,7 +784,12 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (3) A nyugdíjfolyósító szerv által folyósított ellátásokból történő levonásra a bírósági végrehajtásról szóló törvény rendelkezéseit kell alkalmazni.
 
-(3a) A (2) bekezdéstől eltérően a külföldön élő vagy tartózkodó jogosult kérelmére a nyugellátást negyedévente, félévente vagy évente utólag kell folyósítani, ha a nyugellátás havi összege nem haladja meg az öregségi nyugdíj jogszabályban meghatározott legkisebb összegét.
+(3a) A (2) bekezdésben meghatározottaktól eltérően a külföldön élő vagy tartózkodó jogosult
+
+- a) havi 10 000 forintot meg nem haladó összegű nyugellátását kérelmére félévente vagy évente, kérelem hiányában negyedévente,
+- b) havi 10 000 forintot meghaladó összegű nyugellátását kérelmére negyedévente, félévente vagy évente,
+
+utólag kell folyósítani.
 
 (4) A szociálpolitikai, szociális biztonsági egyezményt kötött államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára történő folyósítás költségét az ellátásra jogosult viseli.
 
@@ -842,9 +847,9 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (2) Nem alkalmazható az (1a) és (1b) bekezdés arra az öregségi nyugdíjat igénylőre, illetve elhunyt jogszerzőre, akinek a reá irányadó öregségi nyugdíjkorhatár betöltésétől a tényleges nyugdíjazás időpontjáig eltöltött idő legalább fele része alatt özvegyi nyugdíjat (állandó özvegyi nyugdíjat) folyósítottak.
 
-83. § (1) A megállapított nyugellátásról – a kivételes nyugellátás kivételével – a megállapító határozat véglegessé válását követő 15. napot követően nem lehet lemondani. Lemondás esetén a felvett nyugellátást, nyugdíjelőleget vissza kell fizetni. A megállapított nyugellátást nem lehet átruházni, engedményezni.
+83. § (1) A megállapított nyugellátásról – a kivételes nyugellátás kivételével – a megállapító határozat véglegessé válását követő 15. napot követően nem lehet lemondani. A megállapított nyugellátást nem lehet átruházni, engedményezni. Lemondás esetén a felvett nyugellátást, nyugdíjelőleget vissza kell fizetni. Lemondás esetén – más ellátásra való jogosultság szempontjából – a nyugellátást úgy kell tekinteni, mint amit nem állapítottak meg.
 
-(2) A jogosult halála esetén a fel nem vett nyugellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőssé válása napjától számított egy éven belül.
+(2) A jogosult halála esetén a fel nem vett nyugellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökösök egyenlő arányban – kérelemre – vehetik fel a halál napjától, illetve a teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés, az öröklési bizonyítvány vagy az öröklési perben hozott bírósági ítélet jogerőssé válása napjától számított egy éven belül.
 
 (3)
 
@@ -956,7 +961,7 @@ kell megtéríteni.
 (10) A (2)–(9) bekezdés
 
 - a) baleseti hozzátartozói nyugellátásra vonatkozó rendelkezéseit a baleseti járadék megtérítésére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál az Eb. 58. §-a (1) bekezdésének a) pontjában említett baleseti járadék esetében az Eb. 57. §-ának (2) bekezdése szerinti kétévi időtartamot kell alapul venni,
-- b) rendelkezéseit a rehabilitációs járadékra azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál azt az időtartamot kell alapul venni, amelyre a rehabilitációs járadékot megállapították.
+- b)
 
 #### 90. §
 
@@ -1046,27 +1051,22 @@ tarthatók nyilván.
 
 (3) A (2) bekezdés alapján nyilvántartásba vett adatokból
 
-- a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében a (2) bekezdés a) és d) pontja,
-- b) az állami adóhatóság, valamint az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adóvégrehajtási eljárás lefolytatása érdekében, továbbá a támogatás megállapítása és ellenőrzése érdekében a (2) bekezdés a)–d) pontja szerinti adatok, a (2) bekezdés e) pontjából a rokkantság fokára vonatkozó adatok, valamint a (2) bekezdés f) és h) pontja,
-- c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása érdekében a (2) bekezdés a)–e) pontja,
-- d) a cégbíróság törvény,
-- e) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
-- f) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, ellátás megállapítása, folyósítása és ellenőrzése, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), g) és h) pontja,
-- g) a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatás megállapítása céljából a (2) bekezdés a)–d) és f) pontja,
-- h) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából a (2) bekezdés a)–e) pontja,
-- i) az oktatási nyilvántartás működéséért felelős szerv a pályakövetési rendszer működtetése céljából a (2) bekezdés d) pontja,
-- j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. §-ában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
-- k) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradék folyósítása és a jogosultság ellenőrzése érdekében a (2) bekezdés a), c) és h) pontja
-- l) a foglalkoztatás-felügyeleti hatóság, a munkavédelmi hatóság, a családtámogatási ügyben eljáró hatóság, a rehabilitációs hatóság, a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv, foglalkoztatás-felügyeleti hatósági ellenőrzés és munkavédelmi ellenőrzés, továbbá az ellátás megállapítása, folyósítása és ellenőrzése céljából a (2) bekezdés a)–f) és h) pontja,
-- m) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapításához és ellenőrzéséhez a (2) bekezdés a) és h) pontja
+- a) az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság ellenőrzési és végrehajtási eljárás lefolytatása, továbbá támogatás megállapítása céljából a (2) bekezdés a) és h) pontja,
+- b) a foglalkoztatás-felügyeleti hatóság, a munkavédelmi hatóság, a családtámogatási ügyben eljáró hatóság, a rehabilitációs hatóság, a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv a foglalkoztatás-felügyeleti hatósági ellenőrzés, a munkavédelmi ellenőrzés, továbbá ellátás megállapítása, folyósítása és ellenőrzése céljából a (2) bekezdés a) és h) pontja,
+- c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása céljából a (2) bekezdés a) és h) pontja,
+- d) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a) és h) pontja,
+- e) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. §-ában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja,
+- f) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradék folyósítása és a jogosultság ellenőrzése céljából a (2) bekezdés a) és h) pontja,
+- g) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, ellátás megállapítása, folyósítása és ellenőrzése, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók esetében a (2) bekezdés a), g) és h) pontja,
+- h) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapítása és ellenőrzése céljából a (2) bekezdés a), g) és h) pontja
 
 szerinti adatok igénylésére jogosult.
 
 (3a) A (2) bekezdés alapján nyilvántartásba vett adatokból a Dáptv. szerinti automatikus információelérési felületen keresztüli hozzáféréssel
 
-- a) a munkaügyi és munkavédelmi, a családtámogatási, a rehabilitációs, a szociális és a gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi és munkavédelmi ellenőrzés céljából a (2) bekezdés a)–f) és h) pontja,
-- b) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárása céljából a (2) bekezdés a)–f) és h) pontja,
-- c) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához a (2) bekezdés a)–e) és h) pontja
+- a) a munkaügyi és munkavédelmi, a családtámogatási, a rehabilitációs, a szociális és a gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi és munkavédelmi ellenőrzés céljából a (2) bekezdés a) és h) pontja,
+- b) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárása céljából a (2) bekezdés a) és h) pontja,
+- c) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához a (2) bekezdés a) és h) pontja
 
 szerinti adatok lekérdezésére jogosult.
 
@@ -1082,7 +1082,7 @@ szerinti adatok lekérdezésére jogosult.
 
 (8) Az érintett személy vagy képviselője a nyugdíjbiztosítási igazgatási szervek által vezetett nyilvántartásba betekinthet, kérelmére a róla nyilvántartott adatokról a nyugdíjbiztosítási igazgatási szerv kivonatot állít ki.
 
-(9) A központi nyugdíjbiztosítási szerv a szociális hatáskörben, valamint gyermekvédelmi és gyámügyi hatáskörben eljáró járási hivatal, valamint a települési önkormányzat jegyzője mint gyámhatóság részére a pénzbeli és természetbeni szociális és a gyermekvédelmi ellátások megállapítása céljából közvetlen hozzáférést biztosít a (2) bekezdés a) és h) pontja alapján nyilvántartott adatokat tartalmazó – külön e célra kialakított – adatbázishoz.
+(9)
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
 
@@ -1183,7 +1183,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 (9) A nyugdíj-biztosítási szolgáltatásra irányuló megállapodást kötő igazgatási szerv adatszolgáltatási kötelezettsége nem tartozik az Art. hatálya alá.
 
-(10) A rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő személyekre vonatkozó tárgyévi nyugdíjbiztosítási adatszolgáltatást az előírt határidőig a nyugdíjfolyósító szerv teljesíti.
+(10) A rehabilitációs ellátásban részesülő személyekre vonatkozó tárgyévi nyugdíjbiztosítási adatszolgáltatást az előírt határidőig a nyugdíjfolyósító szerv teljesíti.
 
 98. § (1) A bejelentések közvetlenül a nyugdíjbiztosítási igazgatási szervnél, posta útján vagy szabályozott elektronikus ügyintézési szolgáltatás igénybevételével teljesíthetők.
 
@@ -1195,7 +1195,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 (3) A nyugdíjbiztosítási igazgatási szerv vezetője a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdésével összhangban a nemzetbiztonsági szolgálatok kihelyezett állományának tagját érintő nyugdíjbiztosítási feladatok ellátásával összefüggő adatszolgáltatás rendjét és az azzal összefüggő eljárási szabályokat – a törvényi előírások keretei között – a nemzetbiztonsági szolgálattal külön megállapodásban rögzíti.
 
-99/A. § (1) A Tbj. szerinti nyilvántartásra kötelezett a biztosított, volt biztosított biztosítási jogviszonyával összefüggő, a szolgálati időről vagy a nyugellátás megállapítása során figyelembevételre kerülő keresetről, jövedelemről adatot tartalmazó munkaügyi iratokat, adatokat és foglalkoztatási igazolásokat a biztosítottra, volt biztosítottra irányadó öregségi nyugdíjkorhatár betöltését követő öt évig köteles megőrizni.
+99/A. § (1) A Tbj. szerinti nyilvántartásra kötelezett a biztosított, volt biztosított biztosítási jogviszonyával összefüggő, a szolgálati időről vagy a nyugellátás megállapítása során figyelembevételre kerülő keresetről, jövedelemről adatot tartalmazó, 2024. december 31-éig keletkezett munkaügyi iratokat, adatokat és foglalkoztatási igazolásokat a biztosítottra, volt biztosítottra irányadó öregségi nyugdíjkorhatár betöltését követő öt évig köteles megőrizni.
 
 (2) A nyilvántartásra kötelezett jogutód nélküli megszűnése esetén köteles bejelenteni az (1) bekezdés szerinti munkaügyi iratok őrzésének helyét a székhelye, telephelye szerint illetékes nyugdíjbiztosítási igazgatási szervnek.
 
@@ -1243,7 +1243,7 @@ rendeletben határozza meg.
 
 - a)
 - b) hozzátartozói nyugellátásban – ide nem értve az ideiglenes özvegyi nyugdíjat – részesül, vagy
-- c) a b) pontban nem említett nyugellátásban – ide nem értve a rehabilitációs járadékot – részesül, és a 18. § (1) bekezdése szerinti életkort a tárgyévet megelőzően betöltötte.
+- c) a b) pontban nem említett nyugellátásban részesül, és a 18. § (1) bekezdése szerinti életkort a tárgyévet megelőzően betöltötte.
 
 (6) A nyugdíjprémium összege a következő két szám szorzata:
 

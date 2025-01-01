@@ -1639,7 +1639,7 @@ történő tudomásszerzés napjától számított tizenöt napon belül.
 
 (5) Ha az iratot a (4) bekezdésben meghatározott okokból hirdetmény útján kell kézbesíteni, a hirdetményi kézbesítés szabályait azzal az eltéréssel kell alkalmazni, hogy
 
-- a) a hirdetményt nem kell megküldeni kifüggesztés végett a fél utolsó ismert lakóhelye szerinti polgármesteri vagy közös önkormányzati hivatalnak,
+- a) a hirdetményt nem kell megküldeni a honlapon való közzététel végett a fél utolsó ismert lakóhelye szerinti polgármesteri vagy közös önkormányzati hivatalnak,
 - b) a hirdetményben a címzett utolsó ismert lakóhelyét, ennek hiányában tartózkodási helyét kell feltüntetni.
 
 #### 143. § [Egyéb eljárási szabályok, a kézbesítési megbízott, kivétel a szabályok alkalmazása alól]
@@ -1673,11 +1673,11 @@ történő tudomásszerzés napjától számított tizenöt napon belül.
 
 #### 145. § [A hirdetményi kézbesítés módja, egyéb eljárási szabályok]
 
-(1) A hirdetményt tizenöt napra közzé kell tenni a bíróságok központi internetes honlapján (a továbbiakban: honlap), valamint tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél utolsó ismert belföldi lakóhelyén a polgármesteri vagy közös önkormányzati hivatal hirdetőtáblájára. Ha a bíróságnak a fél elektronikus levélcímét bejelentették, a hirdetményt a fél elektronikus levélcímére is meg kell küldeni.
+(1) A hirdetményt tizenöt napra közzé kell tenni a bíróságok központi internetes honlapján (a továbbiakban: honlap), valamint a fél utolsó ismert belföldi lakóhelyén a polgármesteri vagy közös önkormányzati hivatal honlapján. Ha a bíróságnak a fél elektronikus levélcímét bejelentették, a hirdetményt a fél elektronikus levélcímére is meg kell küldeni.
 
 (2) A hirdetmény tartalmazza
 
-- a) a honlapon történő közzététel és a bírósági hirdetőtáblán történő kifüggesztés napját,
+- a) a honlapon történő közzététel napját,
 - b) az eljáró bíróság megnevezését,
 - c) a bírósági ügyszámot,
 - d) a címzett nevét és utolsó belföldi lakóhelyét – nem természetes személy esetén székhelyét –, ennek hiányában tartózkodási helyét,
@@ -3509,15 +3509,17 @@ Az elnök a tanú meghallgatását indítványozó fél kérelmére engedélyezh
 
 (3) Törvény eltérő rendelkezése hiányában szakértő a fél megbízása vagy kirendelés alapján, indítványra alkalmazható.
 
+(4) A szakértői testület által létrehozott bizottság tagjára a kirendelt szakértőre vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a tárgyalásra a szakvélemény előterjesztésekor a bizottság által megjelölt bizottsági tag vagy bizottság képviselője idézhető.
+
 #### 301. § [Szakértő kizárása]
 
 (1) Szakértőként nem járhat el,
 
 - a) akire a 12. § a)–c), e) vagy f) pontjában meghatározott kizáró ok áll fenn,
 - b) aki az ügyben mint bíró vett részt,
-- c) aki olyan gazdasági társaságnak vagy szolgáltatónak tagja, alkalmazottja, amely az ügyben szakértőként már korábban eljárt.
+- c) aki olyan állami szerv, intézmény, intézet, költségvetési kutatóhely és szervezet (a továbbiakban együtt: szervezet), vagy gazdasági társaságnak vagy szolgáltatónak tagja, alkalmazottja, amely az ügyben szakértőként már korábban eljárt.
 
-(2) Szakértőként nem lehet alkalmazni azt a gazdasági társaságot vagy szolgáltatót, amelynek tagjával vagy vezető tisztségviselőjével szemben a 12. § a)–c) vagy e) pontjában, illetve vezető tisztségviselőjével szemben a 12. § f) pontjában meghatározott kizáró ok és azt a szakértői intézményt, intézetet, testületet, szervet vagy szervezetet sem, amelynek vezetőjével, elnökével szemben a 12. § a)–c), e) vagy f) pontjában meghatározott kizáró ok áll fenn.
+(2) Szakértőként nem lehet alkalmazni azt a szervezetet, gazdasági társaságot vagy szolgáltatót, amelynek tagjával vagy vezető tisztségviselőjével szemben a 12. § a)–c) vagy e) pontjában, illetve vezető tisztségviselőjével szemben a 12. § f) pontjában meghatározott kizáró ok áll fenn és azt a szakértői intézményt, intézetet, testületet, szervet vagy szervezetet sem, amelynek vezetőjével, elnökével szemben a 12. § a)–c), e) vagy f) pontjában meghatározott kizáró ok áll fenn.
 
 (3) A kizárási okot a bíróság hivatalból veszi figyelembe és azt a szakértő és a fél is köteles a bíróságnak haladéktalanul bejelenteni.
 
@@ -3659,7 +3661,7 @@ A bíróság a kirendelt szakértőt a kirendelés alól hivatalból felmenti,
 
 (1) Ha a kirendelt szakértő szakvéleménye aggályos és az aggályosság a szakértő által adott felvilágosítás ellenére sem volt kiküszöbölhető, a bíróság indítványra új szakértőt rendel ki.
 
-(2) A bíróság szakértői testületet rendelhet ki, ha az új szakértő kirendelését követően további új szakértő kirendelésének van helye és a szakkérdés jogszabály alapján a szakértői testület szakterületébe tartozik. A szakértői testület által létrehozott bizottság tagjára a kirendelt szakértőre vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a tárgyalásra a szakvélemény előterjesztésekor a bizottság által megjelölt bizottsági tag vagy a bizottság képviselője idézhető.
+(2)
 
 #### 91. A szakvélemény értékelése és a pervezetés
 
@@ -3795,7 +3797,7 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 - d) az okiratot a jogi személy képviseletére jogosult személy a rá vonatkozó szabályok szerint megfelelően aláírja,
 - e) ügyvéd vagy kamarai jogtanácsos az általa készített okirat szabályszerű ellenjegyzésével bizonyítja, hogy az okirat aláírója a más által írt okiratot előtte írta alá vagy aláírását előtte saját kezű aláírásának ismerte el,
 - f) az elektronikus okiraton az aláíró a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását vagy bélyegzőjét helyezte el, és – amennyiben jogszabály úgy rendelkezik – azon időbélyegzőt helyez el,
-- g) az elektronikus okiratot az aláíró a Kormány rendeletében meghatározott azonosításra visszavezetett dokumentumhitelesítés szolgáltatással hitelesíti, vagy
+- g)
 - h) olyan, törvényben vagy kormányrendeletben meghatározott szolgáltatás, vagy zárt rendszerben alkalmazott, tanúsított bizalmi szolgáltatás keretében jött létre, ahol a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adattal együtt vagy az alapján hitelesen igazolja; továbbá a szolgáltató az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzővel és minősített időbélyegzővel látja el.
 - i) – törvény eltérő rendelkezése hiányában – a kiállító szóbeli nyilatkozatát a Dáptv. szerinti elektronikus ügyintézést biztosító szerv vagy a szolgáltatás használatára jogosult egyéb szerv a Kormány rendeletében meghatározottak szerint mesterséges intelligenciával támogatott szolgáltatás szerint írásbeli formátumba alakította, az írásbeli formátumba alakított nyilatkozat tervezetét a kiállító jóváhagyta, és dokumentum a Kormány rendeletében meghatározottak szerint hitelesítve lett.
 - j) a dokumentumot Dáptv. szerinti digitális szolgáltatás nyújtása során a digitális állampolgárság szolgáltató hitelesítette.
@@ -6438,15 +6440,17 @@ A jogi képviselő nélkül eljáró jogutód félre nem vonatkozik az, hogy a j
 
 #### 609. § [Elektronikus kapcsolattartás a szakértővel]
 
-(1) A Dáptv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett szakértő az igazságügyi szakértői névjegyzékbe történő bejelentéssel, az igazságügyi szakértői névjegyzékben nem szereplő – a Dáptv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett – szakértői tevékenységre jogszabályban feljogosított állami szerv, intézmény vagy szervezet (e fejezetben a továbbiakban együtt: szakértői tevékenységet végző szerv) az Országos Bírósági Hivatal részére történő bejelentéssel vállalhatja az elektronikus kapcsolattartást.
+(1) A szakértő, a szakértői tevékenységet végző szerv a szakvéleményét és egyéb beadványait a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon, elektronikusan kézbesíti a bíróságnak, és a bíróság is valamennyi bírósági iratot elektronikusan kézbesíti a részére.
 
-(2) Ha a szakértő és a szakértői tevékenységet végző szerv a Dáptv. alapján elektronikus úton történő kapcsolattartásra köteles vagy azt az (1) bekezdés szerint vállalja – a (3) és (4) bekezdésben foglaltak kivételével – a szakvéleményét és egyéb beadványait a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon, elektronikusan kézbesíti a bíróságnak és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére.
+(2) A bíróság a szakértő, a szakértői tevékenységet végző szerv indokolt kérelmére – a 613. § (3) bekezdésében meghatározott okból, kivételesen – elektronikus kapcsolattartás esetén is engedélyt adhat a szakvélemény vagy egy részének papíralapú benyújtására.
 
-(3) A bíróság a szakértő, illetve a szakértői tevékenységet végző szerv indokolt kérelmére – a 613. § (3) bekezdésében meghatározott okból, kivételesen – elektronikus kapcsolattartás esetén is engedélyt adhat a szakvélemény vagy egy részének papír alapú benyújtására.
+(3) A szakértő, a szakértői tevékenységet végző szerv a (2) bekezdés szerinti kérelmet legkésőbb a szakvélemény előterjesztésére rendelt határidő lejárta előtt nyolc nappal nyújthatja be.
 
-(4) A bíróság papír alapon vagy adathordozón bocsátja rendelkezésre a szakértő, illetve a szakértői tevékenységet végző szerv részére a bírósági irat mellékletét, ha az adathordozó jellegéből adódóan a digitalizálás lehetetlen, valamint ha a papír alapú okirat valódisága vitás vagy annak papír alapú megtekintése egyéb okból szükséges. Ha a bíróság által elektronikus úton megküldött bírósági irathoz e bekezdés szerinti melléklet kapcsolódik, a határidőt a melléklet átvételétől kell számítani.
+(4) A bíróság papíralapon vagy adathordozón bocsátja rendelkezésre a szakértő, a szakértői tevékenységet végző szerv részére a bírósági irat mellékletét, ha az adathordozó jellegéből adódóan a digitalizálás lehetetlen, vagy ha a papíralapú okirat valódisága vitás, vagy annak papíralapú megtekintése egyéb okból szükséges. Ha a bíróság által elektronikus úton megküldött bírósági irathoz e bekezdés szerinti melléklet kapcsolódik, a határidőt a melléklet átvételétől kell számítani.
 
-(5) A bíróság felhívhatja a papír alapú kapcsolattartással eljáró szakértőt, illetve szakértői tevékenységet végző szervet, hogy a szakvéleményt adathordozón is nyújtsa be, ha azt elektronikus kapcsolattartással eljáró fél részére kell kézbesítenie. A szakértő, illetve a szakértői tevékenységet végző szerv felel azért, hogy a papír alapú szakvélemény tartalma megegyező legyen az adathordozón benyújtott dokumentum tartalmával.
+(5) A bíróság felhívhatja a (2) bekezdés alapján a szakvélemény (vagy egy részének) papíralapú benyújtására feljogosított szakértőt, a szakértői tevékenységet végző szervet, hogy a szakvéleményt adathordozón is nyújtsa be, ha azt elektronikus kapcsolattartással eljáró fél részére kell kézbesítenie. A szakértő, a szakértői tevékenységet végző szerv felel azért, hogy a papíralapú szakvélemény tartalma megegyező legyen az adathordozón benyújtott dokumentum tartalmával.
+
+(6) A bíróság elektronikus kapcsolattartás esetén is felhívhatja a szakértőt, a szakértői tevékenységet végző szervet a szakvélemény (vagy egy részének) papíralapú benyújtására.
 
 #### 610. § [A bíróságok egymás közötti és más szervekkel történő elektronikus kapcsolattartása]
 
@@ -6704,6 +6708,8 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 (13) Az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 346. § (5) bekezdését, 405. § (3) bekezdését, 406. § (1) bekezdését, 409. §-át, 410. § (2) bekezdés c) pont cd) alpontját, 413. § (1) bekezdés c)–e) pontját, 423. § (1) bekezdését, 424. § (1)–(3) bekezdését, valamint 424. § (7) bekezdését a 2020. július 1-jén és az azt követően meghozott jogerős ítélet vagy az ügy érdemében hozott jogerős végzés ellen indult felülvizsgálati eljárásokban kell alkalmazni.
 
 (14) A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosításáról szóló 2020. évi CXIX. törvénnyel módosított 20. § (3) bekezdés a) pontját, 26. §-át, 472. § (2) és (3) bekezdését, továbbá 496. § (2) bekezdését a polgári perrendtartásról szóló 2016. évi CXXX. törvény módosításáról szóló 2020. évi CXIX. törvény hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(17) Ha e törvénynek a 2024. december 31. napján hatályos szabályai szerint a bíróság a folyamatban levő ügyben papíralapon tartotta a kapcsolatot a szakértővel, és a szakértő az igazságügyi szakértőkről szóló törvény alapján 2025. január 1. napját követően hatályos szabályai szerint köteles elektronikus úton kapcsolatot tartani, akkor a bíróság a szakértővel a folyamatban levő ügyben továbbra is papíralapon tartja a kapcsolatot, kivéve ha a szakértő a folyamatban levő ügyben 2025. január 1. napját követően szakvéleményét vagy egyéb beadványát elektronikus úton teszi meg a bírósághoz.
 
 #### 631. § [Európai uniós követelményekre utaló rendelkezés]
 

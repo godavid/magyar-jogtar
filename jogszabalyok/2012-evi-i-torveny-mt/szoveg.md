@@ -606,7 +606,8 @@ foglaltaktól nem térhet el.
 - j) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra,
 - k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára,
 - l) a súlyos egészségi okból gondozásra szoruló hozzátartozójának, vagy a munkavállalóval közös háztartásban élő személynek nyújtott személyes gondozás céljából évente legfeljebb öt munkanapra, vagy
-- m) munkaviszonyra vonatkozó szabályban meghatározott időre.
+- m) az országgyűlési képviselők választásán, az Európai Parlament tagjainak választásán, a helyi önkormányzati képviselők és polgármesterek választásán, a nemzetiségi önkormányzati képviselők választásán, valamint a helyi vagy országos népszavazáson való részvétel céljából legfeljebb két óra időtartamra, amennyiben e napra beosztott rendes vagy elrendelt rendkívüli munkaidő tartama meghaladja a nyolc órát, vagy
+- n) munkaviszonyra vonatkozó szabályban meghatározott időre.
 
 (2) Az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 
@@ -1197,7 +1198,13 @@ lehet.
 - a) napi munkaideje legfeljebb huszonnégy óra,
 - b) heti munkaideje legfeljebb hetvenkét óra
 
-lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja. A munkavállalót hátrány nem érheti, ha nem járul hozzá az e bekezdés szerinti megállapodás megkötéséhez, illetve a megállapodás felmondása esetén.
+lehet.
+
+(3a) A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára, vagy a hat hónapnál hosszabb tartamú munkaidőkeret esetén – hat hónap elteltét követően – a naptári hónap utolsó napjára, tizenöt napos felmondási idővel felmondhatja.
+
+(3b) A felek a munkaidőkeret megszűnésekor a 95. § (4) bekezdés a) pontjának megfelelően elszámolnak, ha a munkavállaló a megállapodást a munkaidőkeret lejártát megelőzően mondja fel.
+
+(3c) A munkavállalót nem érheti hátrány, ha nem járul hozzá a megállapodás megkötéséhez, vagy a megállapodást felmondja.
 
 (4) A munkavállaló beosztás szerinti napi vagy heti munkaideje a (2)–(3) bekezdésben meghatározott tartamot legfeljebb egy órával meghaladhatja, ha a téli időszámítás kezdete a munkaidő-beosztás szerinti munkaidőre esik.
 
@@ -1438,7 +1445,7 @@ csak írásbeli hozzájárulásával osztható be.
 - c) a szülési szabadság,
 - d) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §) első hat hónapjának,
 - e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
-- f) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–m) pontjában és (5) bekezdésében meghatározott
+- f) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–n) pontjában és (5) bekezdésében meghatározott
 
 tartama.
 
@@ -1473,7 +1480,7 @@ munkanap pótszabadság jár.
 
 (3) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
 
-(4) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a munkavállaló akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
+(4) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a munkavállaló akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 118/A. § (1) A munkavállalót gyermeke hároméves koráig negyvennégy munkanap szülői szabadság illeti meg.
 
@@ -1674,7 +1681,9 @@ foglalkoztatott munkavállaló tekintetében eltérhet.
 
 (6) Kollektív szerződés a (4) bekezdés szerint foglalkoztatott munkavállaló esetében osztott munkaidőt állapíthat meg.
 
-(7) Kollektív szerződés rendelkezése alapján a 97. § (4) bekezdés szerint közölt munkaidő-beosztás a beosztás szerinti napi munkaidő kezdetét megelőzően legfeljebb negyvennyolc órával módosítható.
+(7) Kollektív szerződés rendelkezése alapján a 97. § (4) bekezdés szerint közölt munkaidő-beosztás a beosztás szerinti napi munkaidő kezdetét megelőzően legkésőbb negyvennyolc órával módosítható.
+
+(8) Kollektív szerződés a 99. § (3a) bekezdésben foglaltnál hosszabb, legfeljebb harmincnapos felmondási időt is megállapíthat.
 
 ### XII. Fejezet — A MUNKA DÍJAZÁSA
 
@@ -1748,7 +1757,7 @@ végzett munka esetén.
 
 (4) A munkaidő-beosztás szerinti heti pihenőnapra (heti pihenőidőre) elrendelt rendkívüli munkaidőben történő munkavégzés esetén száz százalék bérpótlék jár. A bérpótlék mértéke ötven százalék, ha a munkáltató másik heti pihenőnapot (heti pihenőidőt) biztosít.
 
-(5) Munkaszüneti napra elrendelt rendkívüli munkaidőben történő munkavégzés esetén a munkavállalót a (4) bekezdés szerinti bérpótlék illeti meg.
+(5) Munkaszüneti napra elrendelt rendkívüli munkaidőben történő munkavégzés esetén a munkavállalót száz százalék bérpótlék illeti meg.
 
 (6) A szabadidőt vagy a (4) bekezdés szerinti heti pihenőnapot (heti pihenőidőt) legkésőbb az elrendelt rendkívüli munkaidőben történő munkavégzést követő hónapban, egyenlőtlen munkaidő-beosztás alkalmazása esetén legkésőbb a munkaidőkeret vagy az elszámolási időszak végéig kell kiadni. Ettől eltérően munkaidőkereten felül végzett munka esetén a szabadidőt legkésőbb a következő munkaidőkeret végéig kell kiadni.
 
@@ -1776,7 +1785,7 @@ havi átalányt állapíthatnak meg.
 146. § (1) A munkavállalót távolléti díj illeti meg
 
 - a) a szabadság tartamára,
-- b) az 55. § (1) bekezdés c)–g) és j) pontjában meghatározott esetben,
+- b) az 55. § (1) bekezdés c)–g), j) és m) pontjában meghatározott esetben,
 - c) az 55. § (1) bekezdés i) pontjában meghatározott esetben, ha tanúként hallgatják meg,
 - d) óra- vagy teljesítménybérezés esetén a napi munkaidő tartamára, ha az általános munkarend szerinti munkanapra eső munkaszüneti nap miatt csökken a teljesítendő munkaidő,
 - e) az 54. § (3) bekezdésben, az 55. § (5) bekezdésében meghatározott esetben, és
@@ -2311,7 +2320,7 @@ meghatározott szabályaitól nem térhet el.
 
 (2a) A felmondási időre, valamint a végkielégítésre való jogosultság megállapításánál – az (1) bekezdéstől eltérően – a korábbi munkáltatónál munkaviszonyban töltött időt is figyelembe kell venni, ha
 
-- a) a jogviszony megszüntetésére közös megegyezéssel került sor,
+- a) a jogviszony megszüntetésére közös megegyezéssel került sor, és a munkavállaló a munkaviszony megszüntetésére tekintettel kizárólag olyan munkabérben vagy egyéb juttatásban részesült, amely jogszabály alapján megilleti,
 - b) a korábbi munkáltató a munkaviszony megszűnésekor köztulajdonban állónak minősült, és
 - c) a munkaviszony létesítésére közvetlenül a jogviszony megszüntetését követően került sor.
 
@@ -2358,7 +2367,7 @@ foglaltaktól nem térhet el.
 
 210. § (1) Munkáltatói felmondás esetén
 
-- a) a 65. § (3) bekezdés c) pontot,
+- a)
 - b) a 66. § (1)–(6) bekezdését és
 - c) a 68. § (2) bekezdését
 

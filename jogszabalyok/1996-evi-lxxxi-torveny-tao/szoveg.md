@@ -789,7 +789,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 (9) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a (6) bekezdésben foglalt rendelkezést nem alkalmazhatja
 
 - a) a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött ügyletből származó, a bevétellel arányos adóalapra,
-- b) a főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságban fennálló, 10%-ot meghaladó részesedése
+- b) a főtevékenységként ingatlanfejlesztéssel (TEÁOR’25 6812) foglalkozó gazdasági társaságban fennálló, 10%-ot meghaladó részesedése
   - ba) értékesítésének adóévi árfolyamnyereségére, és
   - bb) nem pénzbeli vagyoni hozzájárulásként történő kivezetése következtében elszámolt árfolyamnyereségére.
 
@@ -1253,6 +1253,7 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 - d) a vízitársulatnak az (5) bekezdésben – 2009. július 1-jétől a (6) bekezdésben – foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a közfeladatként végzett tevékenységből elért bevétele képvisel az összes bevételen belül,
 - e) a közhasznú nonprofit gazdasági társaságnak és a szociális szövetkezetnek a (6) bekezdésben foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenységből elért bevétele képvisel az összes bevételen belül.
 - f) a közfeladatot ellátó közérdekű vagyonkezelő alapítványnak az adóalapja azon része után, amelyet céljainak, közfeladatának, közérdekű tevékenységének megvalósítását szolgáló tevékenysége révén szerzett bevétele – így különösen az alapító által rendelt, az alapítványhoz csatlakozók által juttatott, valamint az egyéb forrásból származó vagyon átvételéből, kezeléséből, hasznainak szedéséből származó bevétele – képvisel az összes bevételén belül.
+- g) a Magyar Tudományos Akadémiának az adóalapja azon része után, amelyet céljainak, törvényben meghatározott közfeladatainak megvalósítását szolgáló tevékenysége révén szerzett bevétele – így különösen vagyonelemei hasznainak szedéséből származó bevétele – képvisel az összes bevételén belül, ideértve a Magyar Tudományos Akadémiának a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény szerinti, a magyar állam számára történő visszterhes vagyonjuttatását is.
 
 (2) A szociális szövetkezet, közhasznú nonprofit gazdasági társaság és a vízitársulat az adókedvezményeket az adómentességgel csökkentett adó arányában érvényesítheti.
 
@@ -2805,6 +2806,13 @@ hatálya alá tartozó támogatást tartalmaz.
 
 (5) E törvény a Gazdasági Együttműködési és Fejlesztési Szervezet Adóalap-erózió és Nyereség-átcsoportosítás Projekt 4. akciópontja kapcsán publikált jelentés figyelembevételével készült szabályozást tartalmaz.
 
+(6) Ez a törvény
+
+- a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet és
+- b) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 ### 1. számú melléklet az 1996. évi LXXXI. törvényhez
 
 #### Az értékcsökkenési leírás szabályairól
@@ -3076,6 +3084,8 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 26. a társaságnál a Különleges Munkavállalói Résztulajdonosi Program szervezet vagy Különleges Munkavállalói Résztulajdonosi Program szervezetet kezelő vagyonkezelő alapítvány részére a rendeltetésszerű joggyakorlás elvének betartásával keletkezett finanszírozási és működési költségekre, ráfordításokra visszafizetési kötelezettség nélkül adott támogatás, juttatás, vagyoni hozzájárulás adóévi adózás előtti eredményben elszámolt összege;
 
+27. az adóévi gazdasági, vagy gazdasági-vállalkozási tevékenységből származó árbevétele legalább 75 százalékát sporttevékenységből (ideértve többek között a sporttevékenység szervezését, sporttevékenység feltételeinek megteremtését, sportszer értékesítést, sporteseményre szóló belépőjegy- és bérletértékesítést, sporttevékenységgel kapcsolatos reklámszolgáltatást) szerző látvány-csapatsportban működő hivatásos sportszervezet számára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, összesen legfeljebb a juttató adóévi árbevétele 1 százalékát meg nem haladó értékig, ha a juttatásra nem a 7. § (1) bekezdés z) pontja vagy a 22/C. § (1) bekezdése alapján került sor, feltéve, hogy a juttató rendelkezik a látvány-csapatsportban működő hivatásos sportszervezet által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a látvány-csapatsportban működő hivatásos sportszervezet és a juttató megnevezését, székhelyét, adószámát, a juttatás összegét, valamint a látvány-csapatsportban működő hivatásos sportszervezet nyilatkozatát a hivatásos sportszervezetre vonatkozó árbevételi feltétel teljesítéséről.
+
 ### 4. számú melléklet az 1996. évi LXXXI. törvényhez
 
 ### 5. számú melléklet az 1996. évi LXXXI. törvényhez
@@ -3087,7 +3097,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 - 3. a kizárólag a fogvatartottak foglalkoztatása céljából létesített közhasznú társaság, illetve a tevékenységét folytató közhasznú nonprofit gazdasági társaság,
 - 4. a Tartalék Gazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
 - 5. a Közlekedési, Hírközlési és Vízügyi Tartalékgazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
-- 6. a Magyar Nemzeti Vagyonkezelő Zrt., a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság,
+- 6. a Magyar Nemzeti Vagyonkezelő Zrt.,
 - 7. a jogszabályban meghatározott közszolgálati médiaszolgáltatók,
 - 8. a felszámolás kezdő napjától a felszámolási eljárás alatt állók, a kényszertörlési eljárás kezdő napjától a kényszertörlési eljárás alatt állók;
 - 9. a pártok,

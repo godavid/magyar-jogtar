@@ -509,6 +509,21 @@ oktatása, szakképzése és utánképzése
 
 (8d) Amennyiben a középiskolás járművezető sikeres vizsgát tett, a középiskola a vizsgaközpont részére haladéktalanul átadja a középiskolás járművezető azon adatait, amelyeket a vizsgaközpont az engedély-nyilvántartásba történő bejegyzés érdekében kezel.
 
+(8e) A (8a) szerinti vizsga esetében a felnőttképzésről szóló 2013. évi LXXVII. törvény 1. § (2)–(2a) bekezdése szerinti kötelezettségeket
+
+- a) az Nkt.-ben meghatározott oktatási központ feladatainak ellátásra kijelölt szerv,
+- b) az Szkt.-ben meghatározott szakképzési információs rendszer működtetésére kijelölt szakképzési államigazgatási szerv, és
+- c) a Magyar Honvédség
+
+teljesíti.
+
+(8f) A (8e) bekezdés szerinti adatszolgáltatáshoz szükséges adatokat elméleti képzés esetén
+
+- a) a köznevelési intézmények a (8e) bekezdés a) pontjában,
+- b) a szakképző intézmények a (8e) bekezdés b) pontjában
+
+meghatározott szerv felé – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben meghatározott időben – teljesítik.
+
 (9) A közlekedési hatóság a (2) bekezdés szerinti iskolavezetői, szakoktatói, vizsgabiztosi és utánképzés-foglalkozásvezetői tevékenység végzésére jogosultakról névjegyzéket vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a következő adatokat:
 
 - a) természetes személyazonosító adatok,
@@ -1585,11 +1600,11 @@ tevékenységét a közlekedési hatóság engedélyezi és rendszeresen ellenő
 
 (4e) Az építtető által a 100%-os állami tulajdonban álló gazdálkodó szervezet tulajdonában lévő ingatlanon állami beruházás keretében elvégzett értéknövelő beruházás az ingatlan tulajdonosának tulajdonaként jön létre.
 
-(4f) Ha a közútfejlesztési gazdasági társaság, illetve a közútkezelő gazdasági társaság különleges gazdasági övezet területén lát el építtetői feladatokat a területi önkormányzati tulajdonban álló ingatlanokon, a forgalomba helyezett vagy ideiglenesen forgalomba helyezett helyi közutak az ingatlantulajdonos területi önkormányzat tulajdonaként jönnek létre.
+(4f)
 
 (4g) A közútfejlesztési gazdasági társaság, illetve a közútkezelő gazdasági társaság a (4f) bekezdés szerinti eszközöket a végleges vagy ennek hiányában az ideiglenes forgalomba helyezést követően, ingyenesen, könyv szerinti értéken adja át a területi önkormányzat részére. A közútfejlesztési gazdasági társaság, illetve a közútkezelő gazdasági társaság a forgalomba helyezést követő 6 hónapon belül elszámolási kimutatást készít annak céljából, hogy a (4f) bekezdés szerinti eszközöket a forgalomba helyezés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és az érintett területi önkormányzat könyveiben azokat nyilvántartásba vegye.
 
-(4h) Ha a közútfejlesztési gazdasági társaság, illetve a közútkezelő gazdasági társaság különleges gazdasági övezet területén lát el építtetői feladatokat a magyar állam tulajdonában álló ingatlanokon, a forgalomba helyezett vagy ideiglenesen forgalomba helyezett helyi közutak, továbbá az ezeket magukban foglaló, a magyar állam tulajdonában álló egyes ingatlanok tulajdonjogát a végleges vagy ennek hiányában az ideiglenes forgalomba helyezését követően a magyar állam képviseletében eljáró tulajdonosi joggyakorló – ingatlan-nyilvántartáson való átvezetésre is alkalmas – megállapodással ingyenesen, könyv szerinti értéken köteles átadni az érintett területi önkormányzat részére, amely köteles azokat átvenni.
+(4h)
 
 (5) A 32. § (6) bekezdésében meghatározott szervezet a beruházások befejezését – azaz a végleges vagy ennek hiányában ideiglenes forgalomba helyezést – követően ingyenesen veszi át az országos közúthoz tartozó értéknövelő beruházást vagy földrészletet.
 
@@ -1767,7 +1782,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak kivételével – az országos közúthálózat vagyonkezelési feladatainak ellátásáért felelős gazdasági társaság vagy szerv (a továbbiakban: a közútkezelő gazdasági társaság), amelyet a Kormány az e törvény végrehajtására kiadott rendeletében jelöl ki. A közútkezelő gazdasági társaság vagyonkezelői feladatokat – ideértve a vagyonkezelésében álló vagyonelemek hasznosítását is – állami feladatként, közfeladatként látja el.
 
-32/A. § (1) A közúti hírközlő hálózat vagyonkezelője a Kormány rendeletében kijelölt, a közúti hírközlő hálózat vagyonkezelési feladatait ellátó állami tulajdonú gazdasági társaság (a továbbiakban: hálózatkezelő gazdasági társaság). A vagyonkezelői jog létesítése ingyenes, azzal, hogy a hálózatkezelő gazdasági társaság az MNV Zrt.-vel, mint tulajdonosi joggyakorlóval megkötendő vagyonkezelési szerződésben foglaltak szerint vagyonkezelési díj megfizetésére köteles. A hálózatkezelő gazdasági társaság által fizetendő vagyonkezelési díj a (6) bekezdés szerinti hasznosításból származó bevétel öt százaléka.
+32/A. § (1) A közúti hírközlő hálózat vagyonkezelője a Kormány rendeletében kijelölt, a közúti hírközlő hálózat vagyonkezelési feladatait ellátó állami tulajdonú gazdasági társaság (a továbbiakban: hálózatkezelő gazdasági társaság). A vagyonkezelői jog létesítése ingyenes, azzal, hogy a hálózatkezelő gazdasági társaság az MNV Zrt.-vel mint tulajdonosi joggyakorlóval megkötendő vagyonkezelési szerződésben foglaltak szerint vagyonkezelési díj megfizetésére köteles. A hálózatkezelő gazdasági társaság által fizetendő vagyonkezelési díj a (6) bekezdés szerinti hasznosításból származó bevétel öt százaléka.
 
 (2) A hálózatkezelő gazdasági társaság jogosult és köteles az (1) bekezdés szerinti közúti hírközlő hálózatokra vonatkozó hálózatfejlesztési koncepciók kidolgozására és megvalósítására, ide értve a kapcsolódó engedélyeztetési eljárások lefolytatását is, valamint a közúti hírközlő hálózatokhoz kapcsolódó karbantartási és fenntartási feladatok ellátására, melynek során a 33. § (1) bekezdés b) pont ba) alpontja szerinti közút kezelője, valamint az útdíjszolgáltatási gazdasági társaság és a közútkezelő gazdasági társaság előzetes hozzájárulásával saját hatáskörben jogosult eljárni valamennyi, az (1) bekezdés szerinti közúti hírközlő hálózattal érintett állami tulajdonú ingatlan vonatkozásában.
 
@@ -1802,9 +1817,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 - d) kormányrendeletben meghatározott országos kerékpárút-törzshálózatba tartozó és a főutakkal párhuzamos kerékpárutak lakott területen kívüli szakaszai tekintetében
   - da) a fenntartási, fejlesztési és üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet;
   - db) a külön jogszabályban meghatározott, kerékpározás céljára használt magánutak és útnak nem minősülő egyéb útvonalak mellett található kerékpáros útbaigazító táblák vonatkozásában a fenntartási, fejlesztési és üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet;
-- e) különleges gazdasági övezet területén lévő helyi közút tekintetében
-  - ea) a területi önkormányzat vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben a területi önkormányzat 100%-os részesedéssel rendelkezik, vagy
-  - eb) az ea) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szerve.
+- e)
 
 (2) A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet és a 21. § (4) bekezdése szerint kijelölt hatóság a gépjárműről és annak hatósági jelzéséről felvételt készíthet annak érdekében, hogy a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyítani lehessen. A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet az általa készített felvételt haladéktalanul átadja a 21. § (4) bekezdése szerint kijelölt hatóságnak. A díjfizetés ellenőrzésére jogosult szervezet – amennyiben nem jogosult a pótdíjkövetelés behajtására – a felvételt köteles haladéktalanul átadni a pótdíj beszedésére jogosult szervezetnek.
 
@@ -1934,6 +1947,8 @@ használható fel.
 (8) A közút kezelője a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
 33/E. § Az intelligens közlekedési rendszerek üzemeltetésével és a Nemzeti Hozzáférési Pont működtetésével kapcsolatos követelmények teljesítésének értékelését a miniszter Nemzeti Szervként látja el.
+
+33/F. § A korlátozott forgalmú övezetben megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, mezőgazdasági vontató és lassú jármű korlátozott forgalmú övezetbe történő behajtása a helyi önkormányzatok területén hozzájárulási díj megfizetéséhez köthető. A behajtási hozzájárulás kiadása érdekében a behajtási hozzájárulás regisztrációs díjait és a behajtási díjakat, megfizetésük módját, a díjmentességre jogosultak körét, valamint a díjkedvezményeket a helyi önkormányzat képviselő-testülete – a fővárosban a fővárosi közgyűlés – rendeletben állapíthatja meg. Az így befolyt díjak a helyi önkormányzat, illetve a fővárosi önkormányzat bevételét képezik.
 
 34. § (1) A közút kezelője – az országos és a helyi közutak kezeléséről szóló jogszabályok szerint és az (5)–(8) bekezdésben foglaltakra tekintettel eljárva – köteles gondoskodni arról, hogy a közút a biztonságos közlekedésre alkalmas, közvetlen környezete esztétikus és kulturált legyen.
 
@@ -2077,7 +2092,21 @@ a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak e
 
 (3) A közútnak hófúvás és környezeti károk elleni védelme, valamint a közút környezetének a közúti közlekedés károsító hatásától való megóvása érdekében a közút mellett a veszélyeztetett helyeken erdő, fasor vagy cserjesáv telepíthető. Az ebből a célból az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evtv.) rendelkezései alapján telepített vagy az Evtv. szerint erre a célra alkalmas erdőt védelmi rendeltetésű erdőnek kell nyilvánítani. A telepítésekhez minden esetben meg kell szerezni a szükséges földterület tulajdon- vagy vagyonkezelői jogát, vagy az ingatlan tulajdonosának vagy vagyonkezelőjének a hozzájárulását.
 
-(4) A közút, illetőleg az épülő közút meletti ingatlan a fenntartási, építési munkák elvégzése céljából kártalanítás ellenében – kisajátítás nélkül – meghatározott időre igénybe vehető.
+(4) A közút kezelőjét kártalanítás ellenében – kisajátítás nélkül – a jogszabályban előírt feladat ellátása érdekében, a feladat fennállásáig tartó határozott időtartamra a használat joga illeti meg minden olyan idegen ingatlan vonatkozásában, amely a közutat – ideértve annak műtárgyait és tartozékait is –, illetve az épülő közutat érintő fenntartási, üzemeltetési, építési munkák elvégzéséhez, vagy bármely egyéb, a közút kezelője részére jogszabályban előírt feladat elvégzéséhez szükséges. A használat jogának gyakorlását az ingatlan tulajdonosa tűrni köteles. Az ingatlan tulajdonosa a használat jogának alapításáért a tulajdonjog korlátozásával arányos, a korlátozással összefüggésben bekövetkező forgalmi értékcsökkenésnek megfelelő mértékű egyösszegű kártalanításra jogosult. A közútkezelőt e törvény szerint megillető használat joga közúti célú közérdekű használati jognak minősül.
+
+(5) A közút kezelője a (4) bekezdés szerinti tevékenysége végzéséhez szükséges terjedelemben jogosult az idegen ingatlan használatára. A használat joga az idegen ingatlan tulajdonosával kötött megállapodás alapján, annak hiányában az útügyi közlekedési hatóság (e § alkalmazásában a továbbiakban: közlekedési hatóság) határozatával keletkezik.
+
+(6) Ha megállapodás hiányában a használat jogát megalapítani nem lehet, a közút kezelője a használat jogának megállapítását kérheti az ingatlan vonatkozásában a közlekedési hatóságtól. A közlekedési hatóság a használat jogát engedélyezi, ha a (4) bekezdésben foglalt feltételek fennállnak és az az ingatlan rendeltetésszerű használatát jelentős mértékben nem akadályozza vagy nem lehetetleníti el.
+
+(7) A megállapodáson alapuló használat jogának ingatlan-nyilvántartásba történő bejegyzését a megállapodás alapján a közút kezelője köteles kérni. Ha a közútkezelőt a (4) bekezdés szerint megillető jog hatósági határozat alapján jön létre, a közlekedési hatóság a véglegessé vált határozattal felhívja az ingatlanügyi hatóságot e jognak az ingatlan-nyilvántartásba történő bejegyzésére. Amennyiben a használat joga nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
+
+(8) A hatósági határozaton alapuló használat joga a mindenkori közút kezelőjét illeti meg, a közút kezelőjének névváltozása, jogutódlás vagy a közút kezelőjének személyében bekövetkezett változás esetén a közút kezelője a közlekedési hatóságot a változás bekövetkezésétől számított 30 napon belül értesíti.
+
+(9) A használat joga megszűnik a (4) bekezdésben foglalt feltételek megszűnése esetén, továbbá a felek megállapodásával. A megállapodáson alapuló használat joga kivételével a használat jogának megszűnését a közút kezelője az azt követő 30 napon belül köteles a közlekedési hatóságnak bejelenteni és arról a tulajdonost, vagyonkezelőt is tájékoztatni, ennek elmaradása esetén azt a tulajdonos kérelmére vagy egyéb módon történő tudomásszerzése esetén hivatalból a közlekedési hatóság határozatban állapítja meg.
+
+(10) A megállapodáson alapuló használat joga ingatlan-nyilvántartásból való törlését a közút kezelője a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használat joga esetén a közlekedési hatóság a használat jogának megszűnését megállapító véglegessé vált határozattal felhívja az ingatlanügyi hatóságot a használat jogának törlésére.
+
+(11) Amennyiben már meglévő közút – ide értve annak műtárgyát és tartozékait is – idegen ingatlanon helyezkedik el, a használat jogának alapítására, gyakorlására, valamint megszűnésére az (5)–(10) bekezdésben foglaltakat kell alkalmazni.
 
 ### A közúti közlekedés ellenőrzése
 
@@ -2213,6 +2242,14 @@ olyan elektronikus ellenőrzési rendszer működtetésére is jogosultak, amely
 
 (7) A (6) bekezdés szerinti esetben a Hivatal nyilvántartásba veszi az elektromos töltőberendezés üzemeltető által az üzemeltetési engedélykérelemben megjelölt elektromobilitási szolgáltatót.
 
+(8) A Hivatal vezeti az elektromos töltőpontok üzemeltetői és a mobilitási szolgáltatók azonosítására szolgáló nyilvántartást, melynek adattartamát és működésének részletes szabályait a Hivatal elnöke e törvény végrehajtására kiadott rendeletében határozza meg.
+
+(9) A Hivatal egyedi azonosító kódokat ad ki az elektromos töltőpontok üzemeltetői és a mobilitási szolgáltatók azonosítása érdekében.
+
+(10) A nyilvános elektromos töltőpontok és az alternatív üzemanyag töltőpontok üzemeltetői vagy – a közöttük létrejött megállapodás esetén – e töltőpontok tulajdonosai ingyenes, korlátlan és megkülönböztetés-mentes hozzáférést biztosítanak azon statikus és dinamikus adatokhoz, amelyek az általuk üzemeltetett alternatív üzemanyag infrastruktúrára, illetve az általuk vagy alvállalkozóik által nyújtott, az e bekezdés szerinti infrastruktúrához szervesen kapcsolódó szolgáltatásokra vonatkoznak.
+
+(11) A 2023/1804/EU európai parlamenti és tanácsi rendelet 2. cikk 38. pontjában meghatározott nemzeti hozzáférési ponttal kapcsolatos feladatokat a Magyar Közút Nonprofit Zrt. látja el.
+
 45/D. § (1) Az elektromobilitás szolgáltatásra vonatkozó bejelentési kötelezettségnek eleget téve – a Vet. 3. § 22. pontjában meghatározott hálózati engedélyes kivételével – bárki folytathat elektromobilitás szolgáltatási tevékenységet.
 
 (2) Az elektromobilitás szolgáltatási tevékenység a Hivatalhoz intézett bejelentést követően gyakorolható. A bejelentésre és az azzal kapcsolatos eljárásra az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni.
@@ -2241,7 +2278,7 @@ olyan elektronikus ellenőrzési rendszer működtetésére is jogosultak, amely
 
 meghatározott összegű felügyeleti díjat fizet.
 
-(5) A Hivatal a feladatai ellátásához szükséges mértékben rendszeres és rendkívüli adatszolgáltatásra kötelezheti az elektromobilitás szolgáltatót és az elektromos töltőberendezés üzemeltetőjét. A rendszeres és rendkívüli adatszolgáltatásra vonatkozó rendelkezéseket, az adatszolgáltatás alóli mentesülés szabályait a Hivatal e törvény végrehajtására kiadott rendeletében határozza meg.
+(5) A Hivatal a feladatai ellátásához szükséges mértékben rendszeres és rendkívüli adatszolgáltatásra kötelezheti az elektromobilitás szolgáltatót és az elektromos töltőberendezés üzemeltetőjét. A rendszeres és rendkívüli adatszolgáltatásra vonatkozó rendelkezéseket, az adatszolgáltatás alóli mentesülés szabályait a Hivatal elnöke e törvény végrehajtására kiadott rendeletében határozza meg.
 
 (6) A Hivatal véglegessé vált elektromobilitás szolgáltatásra vonatkozó határozatait – a személyes és védett adatok kivételével – a honlapján közzé teszi.
 
@@ -2451,7 +2488,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - 29. az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről, bejelentéséről szóló szabályokat,
   - 30. a közúti járművek vezetésére jogosító engedély, a törzskönyv, a gépjármű hatósági engedélye és jelzése gyártásának, forgalmazásának, kiadásának, használatának szabályait, helyszíni elvételük és visszavonásuk feltételeit, az engedélyek és jelzések tartalmi, formai követelményét,
   - 31. a reklámtábláknak, a reklámhordozóknak és egyéb reklámcélú berendezéseknek a közutak melletti elhelyezésére és eltávolítására vonatkozó részletes szabályokat,
-  - 32. a közúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait
+  - 32.
   - 33. a kerékpárutak adatainak nyilvántartását végző szerv kijelölését, valamint a kerékpárutak nyilvántartásával összefüggő feladatok ellátásának részletes szakmai szabályait,
   - 34. az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában díjfizetési kötelezettséggel érintett várakozási területek kijelölését, azok kategóriáját, várakozási területenként vagy kategóriánként a díjköteles várakozási időszakot, a fizetendő várakozási díj mértékét, a díjköteles várakozás megengedett leghosszabb időtartamát, valamint a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét,
   - 35.
@@ -2584,7 +2621,12 @@ rendeletben állapítsa meg.
 
 (5c) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés és a fővárosi kerületi képviselőtestület –, hogy rendeletében megállási és várakozási tilalommal érintett zöldfelületet jelöljön ki.
 
-(6) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője által rendszeres adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelmények, és az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatással kapcsolatos szabályokat.
+(5d) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – a fővárosban a fővárosi közgyűlés –, hogy rendeletben állapítsa meg a megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, mezőgazdasági vontató és lassú jármű esetében a korlátozott forgalmú övezetbe történő behajtási hozzájárulás kiadása érdekében a behajtási hozzájárulás regisztrációs díjait és a behajtási díjakat, megfizetésük módját, a díjmentességre jogosultak körét, valamint a díjkedvezményeket.
+
+(6) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
+
+- 1. az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője által rendszeres adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelmények, és az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatással kapcsolatos szabályokat,
+- 2. az elektromos töltőpontok üzemeltetőinek és a mobilitási szolgáltatók azonosítására szolgáló nyilvántartás adattartamát és működésének részletes szabályait.
 
 (7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.
 
@@ -2608,6 +2650,7 @@ rendeletben állapítsa meg.
 - h) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt – a 2010/40/EU európai parlamenti és tanácsi irányelvnek a közúti biztonsággal kapcsolatos, minimális általános forgalmi információk lehetőség szerinti, a felhasználók számára térítésmentes biztosításához szükséges adatok és eljárások tekintetében való kiegészítéséről szóló 2013. május 15-i 886/2013/EU bizottsági rendelet,
 - i) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt a 2010/40/EU európai parlamenti és tanácsi irányelvnek az EU egészére kiterjedő valós idejű forgalmi információs szolgáltatások nyújtása tekintetében történő kiegészítéséről szóló 2014. december 18-i 2015/962/EU bizottsági rendelet,
 - j) a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendelet.
+- k) az alternatív üzemanyagok infrastruktúrájának kiépítéséről, valamint a 2014/94/EU irányelv hatályon kívül helyezéséről szóló, 2023. szeptember 13-i 2023/1804/EU európai parlamenti és tanácsi rendelet.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

@@ -546,7 +546,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 21. § (1) A központi költségvetésről szóló törvényben rendkívüli kormányzati intézkedésekre szolgáló tartalékot kell képezni az év közben meghozott kormányzati döntésekből következő feladatok finanszírozására és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlására. A rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásáról a Kormány a 33. § (2) bekezdése szerint, egyedi határozatban rendelkezik.
 
-(2) A rendkívüli kormányzati intézkedésekre szolgáló tartalék előirányzata nem lehet több a központi költségvetésről szóló törvény kiadási főösszegének 2%-ánál, és nem lehet kevesebb 0,5%-ánál.
+(2)
 
 (3) A rendkívüli kormányzati intézkedésekre szolgáló tartaléknak – az éves hatást tekintve – legfeljebb 40%-a használható fel az első félévben. E mértéktől nagyobb felhasználáshoz az Országgyűlés jóváhagyása szükséges.
 
@@ -733,6 +733,10 @@ a költségvetési évet követő három évre várható összegét.
 
 (3) A 14. § (4) bekezdés b) pontja szerinti fejezetbe sorolt, ingatlanok fejlesztését, vásárlását szolgáló kiadási előirányzatokat – a központi költségvetésből finanszírozott határozott idejű programok, projektek megvalósítása érdekében – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
 
+(3a) A Kormány irányítása alá tartozó központi költségvetési szerv feladatellátására feleslegessé vált nem elhelyezési, vagy nem rekreációs célú értékesítésre kijelölt állami tulajdonú ingatlanok értékesítéséből származó – a 14. § (4) bekezdés b) pontja szerinti fejezetben elszámolandó – bevételek államháztartásért felelős miniszter által jóváhagyott összege a költségvetési évben a központi költségvetési szerv költségvetését tartalmazó költségvetési fejezet által finanszírozható felhalmozási kiadások teljesítésére használható fel. Az államháztartásért felelős miniszter ennek érdekében a költségvetési évben – a pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzat létrehozatalát és meglévő kiadási előirányzat növelését engedélyezheti e költségvetési fejezetben a fejezetet irányító szerv vezetőjének kezdeményezése alapján.
+
+(3b) A Kormány irányítása alá tartozó központi költségvetési szerv feladatellátására feleslegessé vált elhelyezési, vagy rekreációs célú értékesítésre kijelölt, állami tulajdonú ingatlanok értékesítéséből származó bevételek államháztartásért felelős miniszter által jóváhagyott összege a költségvetési évben az ilyen célú ingatlanok körét, vagy értékét növelő a 14. § (4) bekezdés b) pontja szerinti fejezetben elszámolandó felhalmozási kiadások teljesítésére használható fel. Az államháztartásért felelős miniszter ennek érdekében – legfeljebb a költségvetési évben pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzat létrehozatalát és meglévő kiadási előirányzat növelését engedélyezheti e költségvetési fejezetben a fejezetet irányító szerv vezetőjének kezdeményezése alapján.
+
 (4) A fejezetet irányító szerv a törvényben meghatározott kibocsátási egységek értékesítéséből származó, a központi költségvetésről szóló törvényben megtervezetten felül pénzforgalmilag teljesült bevételeknek a központi költségvetésről szóló törvényben meghatározott mértékével megnövelheti a bevétel felhasználására szolgáló kiadási előirányzatot.
 
 (5) A központi költségvetési szervnek nem minősülő, vonalas közlekedési infrastruktúrát működtető vagy központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló jogszabály szerinti központi szolgáltató, vagy törvényben vagy kormányrendeletben meghatározott építtetői feladatokat ellátó vagyonkezelő vagyonkezelésében álló, állami tulajdonú,
@@ -841,7 +845,7 @@ terhére történik.
 - b) egyéb esetben
   - ba) a személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó, a dologi kiadások és az ellátottak pénzbeli juttatásainak kiadási előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának mértékéig,
   - bb) az egyéb működési célú kiadások és a felhalmozási kiadások előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának ötven százalékáig,
-- c) a XIII. Honvédelmi Minisztérium fejezet 1–8. címe és az LI. Honvédelmi Alap fejezet 1–4. címe tekintetében a költségvetési évben jóváhagyott eredeti kiadási előirányzat száz százalékáig
+- c) a XIII. Honvédelmi Minisztérium fejezet 1–8. címe tekintetében a költségvetési évben jóváhagyott eredeti kiadási előirányzat száz százalékáig
 
 vállalható.
 
@@ -1088,7 +1092,7 @@ teljesíthet.
 
 (2) A költségvetési szerv a Kormány rendeletében meghatározott korlátokkal folytathat vállalkozási tevékenységet.
 
-(3) A költségvetési szerv a vállalkozási tevékenységéből származó vállalkozási maradványnak a társasági adó mértékével megegyező hányadát köteles a központi költségvetésbe – az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv esetén az irányító szerv költségvetésébe – befizetni.
+(3) Az államháztartás központi alrendszerébe tartozó költségvetési szerv a vállalkozási tevékenységéből származó vállalkozási maradványnak a társasági adó mértékével megegyező hányadát, de legalább a vállalkozási maradvány összege 50%-ának megfelelő összeget a központi költségvetés, az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv a társasági adó mértékével megegyező hányadát az irányító szerv költségvetése javára köteles befizetni.
 
 #### 33. Befizetési kötelezettség
 
@@ -1178,7 +1182,15 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (4) A Kormány rendeletben előírhatja, hogy a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint az állam közvetlen vagy közvetett többségi tulajdonában álló gazdasági társaság kedvezményezettnek fejlesztési célra, európai uniós forrásból nyújtott költségvetési támogatás, vagy ha a Kormány rendelete, egyedi határozata ekként rendelkezik, a (4a) bekezdésben foglalt kivétellel a jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet kedvezményezettnek fejlesztési célra, nem európai uniós forrásból nyújtott költségvetési támogatás kizárólag a kincstárnál vezetett fizetési számlára folyósítható. A kedvezményezett a költségvetési támogatás célja szerinti kiadásokat kizárólag a kincstárnál vezetett fizetési számláról teljesítheti, más célra – így különösen értékpapír-vásárlásra, kamatbevétel realizálására – még átmenetileg sem veheti azokat igénybe.
 
-(5) Nem minősül a költségvetési támogatás jogosulatlan igénybevételének, támogatási céltól eltérő felhasználásának, ha a helyi önkormányzat, a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat kedvezményezett a fejlesztési, beruházási céllal nyújtott költségvetési támogatásból származó átmenetileg szabad pénzeszközt állampapír vásárlásával hasznosítja, feltéve, hogy a támogatási cél határidőben történő megvalósulását ez nem veszélyezteti. A helyi önkormányzat, a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat kedvezményezett az így elért hozamot, kamatbevételt kizárólag a támogatott tevékenységgel kapcsolatos kiadásokra használhatja fel.
+(4a) A helyi önkormányzat, a helyi nemzetiségi önkormányzat, a társulás kedvezményezettnek a hazai forrás terhére fejlesztési célra nyújtott 50 millió forintot meghaladó összegű költségvetési támogatás kizárólag a kincstárnál vezetett fizetési számlára folyósítható. A kedvezményezett a költségvetési támogatás célja szerinti kiadásokat kizárólag a kincstárnál vezetett fizetési számláról teljesítheti, más célra – az (5) bekezdésben meghatározottakra figyelemmel – még átmenetileg sem veheti azokat igénybe.
+
+(4b) A nem az állam vagy az önkormányzat tulajdonában, többségi befolyása alatt álló gazdasági társaság, az egyéni vállalkozóról és az egyéni cégről szóló törvény, valamint a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá tartozó jogalany, valamint a határon túli, továbbá a természetes személy kedvezményezett (a továbbiakban: magánszektorba sorolt kedvezményezett) kivételével, hazai forrás terhére, a fejlesztési, beruházási céllal nyújtott – a 14. § (3) bekezdése szerinti fejezet kivételével – ötven millió forintot meghaladó, egy összegben 100%-os támogatási előlegként folyósított költségvetési támogatás kizárólag a kedvezményezett kincstárnál vezetett fizetési számlájára folyósítható. A kedvezményezett a költségvetési támogatás célja szerinti kiadásokat kizárólag a kincstárnál vezetett fizetési számláról teljesítheti, más célra – így különösen értékpapír-vásárlásra, kamatbevétel realizálására – még átmenetileg sem veheti azokat igénybe.
+
+(5) A (4) bekezdésben foglaltaktól eltérően nem minősül a költségvetési támogatás jogosulatlan igénybevételének, támogatási céltól eltérő felhasználásának, ha a helyi önkormányzat, a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat kedvezményezett a fejlesztési, beruházási céllal nyújtott költségvetési támogatásból származó átmenetileg szabad pénzeszközt állampapír vásárlásával hasznosítja, feltéve, hogy az állampapír vásárlása nem a kincstár által vezetett fizetési számlája terhére történik és a támogatási cél határidőben történő megvalósulását ez nem veszélyezteti. A helyi önkormányzat, a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat kedvezményezett az így elért hozamot, kamatbevételt kizárólag a támogatott tevékenységgel kapcsolatos kiadásokra használhatja fel.
+
+51/A. § (1) Az ötven millió forintot meghaladó a fejlesztési, beruházási céllal nyújtott költségvetési támogatás, valamint – a magánszektorba sorolt kedvezményezett kivételével – támogatási előleg a kedvezményezett támogatott tevékenységének megkezdéséhez – a Kormány rendeletében meghatározottak szerint – bocsátható rendelkezésre.
+
+(2) A kedvezményezett a támogatási előlegként rendelkezésre bocsátott összeget kizárólag a támogatási szerződésben meghatározott támogatási céllal összefüggésben, a támogatott tevékenységre használhatja fel.
 
 52. § (1) A költségvetési támogatások felhasználását – ha ennek a közbeszerzésekről szóló törvény szerinti feltételei fennállnak – közbeszerzés alkalmazásához kell kötni.
 
@@ -1524,6 +1536,8 @@ vizsgálatára terjed ki.
 
 nem végezhet a (7) bekezdés szerinti tevékenységet.
 
+(7c) A (7) bekezdés szerinti közigazgatási szankciót a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni.
+
 (8) A belső ellenőri tevékenység bejelentésére a nyilvántartásba bejegyzett adatok módosítására és törlésére irányuló eljárásért az államháztartásért felelős miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 #### 48. Az önkormányzati biztos
@@ -1593,16 +1607,21 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 - d) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 - e) az MNV Zrt.,
 - f) a Diákhitel Központ Zártkörűen Működő Részvénytársaság,
-- g) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH),
-- h) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
-- i) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
-- j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot,
-- k) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
-- l) az adósságrendezési eljárás alatt álló önkormányzatok, az adósságrendezési eljárás során és az adósságrendezési eljárás jogerős befejezését követő két évig
+- g) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
+- h) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
+- i) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot,
+- j) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
+- k) az adósságrendezési eljárás alatt álló önkormányzatok, az adósságrendezési eljárás során és az adósságrendezési eljárás jogerős befejezését követő két évig,
+- l) az államháztartásért felelős miniszter döntése szerint a közfeladatot ellátó, központi kormányzati alszektorba tartozó kormányzati szektorba besorolt többségi állami tulajdonú gazdasági társaság
 
 [az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter teljeskörűen vagy meghatározott feladatok ellátásához kapcsolódóan felmentést adhat. A felmentés nem terjedhet ki az 51. § (4) bekezdése szerinti előírások alapján kizárólag a kincstárnál vezethető fizetési számlára.
+
+(2b) Az államháztartásért felelős miniszter a (2a) bekezdés szerint biztosított felmentést háromévente felülvizsgálja és a (2a) bekezdés szerinti
+
+- a) teljeskörű felmentést meghatározott feladatok ellátásához kapcsolódó felmentésre módosítja, vagy visszavonja, vagy
+- b) a meghatározott feladatok ellátásához kapcsolódó felmentést teljeskörű felmentésre módosítja, vagy visszavonja.
 
 (3) A kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a (2a) bekezdés szerinti felmentéssel rendelkező kincstári körön kívüli számlatulajdonos kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével –, valamint – a (2a) bekezdés szerinti felmentés ez irányú rendelkezésének hiányában – értékpapírszámlával nem rendelkezhetnek, értékpapírt nem vásárolhatnak.
 
@@ -1881,15 +1900,17 @@ eredményeképpen keletkeztek.
 
 (3) Az önkéntes teljesítésre történő felhíváson kívül a központi költségvetésről szóló törvényben megállapított értékhatárt el nem érő kis összegű követelést behajtásra előírni nem kell.
 
-98. § A jogszabályban meghatározott családok otthonteremtési kedvezményével, családi otthonteremtési kedvezménnyel, családok otthonteremtési kamattámogatásával és a családok otthonteremtési kamattámogatásával érintett kölcsönhöz kapcsolódó gyermekvállalási támogatással, lakásépítési kedvezménnyel, fiatalok otthonteremtési támogatásával, megelőlegező kölcsönnel, valamint – jogszabályban meghatározott esetben – kiegészítő kamattámogatással összefüggésben az állam javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni. A jogszabályban meghatározott kiegészítő kamattámogatással, megelőlegező kölcsönnel, családok otthonteremtési kamattámogatásával érintett kölcsönnel összefüggésben a hitelintézet javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
+98. § A jogszabályban meghatározott családok otthonteremtési kedvezményével, családi otthonteremtési kedvezménnyel, CSOK Plusz hitelprogram részét képező családok otthonteremtési kamattámogatásával és a családok otthonteremtési kamattámogatásával érintett kölcsönhöz kapcsolódó gyermekvállalási támogatással, adó-visszatérítési támogatással, lakásépítési kedvezménnyel, fiatalok otthonteremtési támogatásával, megelőlegező kölcsönnel, valamint – jogszabályban meghatározott esetben – kiegészítő kamattámogatással összefüggésben az állam javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni. A jogszabályban meghatározott kiegészítő kamattámogatással, megelőlegező kölcsönnel, családok otthonteremtési kamattámogatásával érintett kölcsönnel, valamint az otthonfelújítási kölcsönnel összefüggésben a hitelintézet javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
+
+98/A. § A 97. § (1a) bekezdése és a 98. § szerinti támogatásokra vonatkozó kormányrendeletekből eredő valamennyi polgári jogi jogviszonyban az államot – a Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:405. § (2) bekezdésétől eltérően és a Vtv. 66. § (1a) bekezdésében foglaltak kivételével – a kincstár képviseli.
 
 99. § Ha az Európai Bizottság tiltott állami támogatás visszafizettetését rendeli el, a visszafizetendő összeg adók módjára behajtandó követelésnek minősül.
 
-100. § (1) A fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvényt vagy üzletrészt, továbbá egyéb vagyont elfogadni csak abban az esetben és mértékben lehet, ha a pénzbeli teljesítés nem, vagy csak részben lehetséges és annak elfogadásával az MVH a vagyon értékesítési, bevételszerzési lehetőségeit mérlegelve egyetért.
+100. § (1) Az európai uniós alapokból finanszírozott visszatérítendő támogatások folyósítására és a visszatérített támogatások fogadására szolgáló előirányzatok kivételével a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvényt vagy üzletrészt, továbbá egyéb vagyont elfogadni csak abban az esetben és mértékben lehet, ha a pénzbeli teljesítés nem, vagy csak részben lehetséges és annak elfogadásával az MNV Zrt. a vagyon értékesítési, bevételszerzési lehetőségeit mérlegelve egyetért.
 
-(2) Az (1) bekezdés szerinti vagyont az MVH részére készpénzes értékesítésre vagy az értékesítésig további hasznosításra, illetve a vagyonelemként átvett követelést kezelésre és érvényesítésre át kell adni. Az átadó és az MVH az átadáskor megállapodásban rendelkezik a vagyon értékesítése, hasznosítása, követelés kezelése és érvényesítése során felmerülő költségekről.
+(2) Az (1) bekezdés szerinti vagyont az MNV Zrt. részére készpénzes értékesítésre vagy az értékesítésig további hasznosításra, illetve a vagyonelemként átvett követelést kezelésre és érvényesítésre át kell adni. Az átadó és az MNV Zrt. az átadáskor megállapodásban rendelkezik a vagyon értékesítése, hasznosítása, követelés kezelése és érvényesítése során felmerülő költségekről.
 
-(3) Az MVH az átadott vagyon értékesítéséből, hasznosításából, a követelés érvényesítéséből származó költségvetési bevételnek a (2) bekezdés szerinti megállapodásban rögzített költségekkel csökkentett részét – az elkülönített állami pénzalap esetén a központi támogatás arányában a központi költségvetést megillető hányad kivételével – a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja fizetési számlájára köteles átutalni.
+(3) Az MNV Zrt. az átadott vagyon értékesítéséből, hasznosításából, a követelés érvényesítéséből származó költségvetési bevételnek a (2) bekezdés szerinti megállapodásban rögzített költségekkel csökkentett részét – az elkülönített állami pénzalap esetén a központi támogatás arányában a központi költségvetést megillető hányad kivételével – a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja fizetési számlájára köteles átutalni.
 
 101. § (1) Az állam külföldi követeléseivel (e § alkalmazásában a továbbiakban: külföldi követelés) való gazdálkodás feladatait az államháztartásért felelős miniszter a kincstár közreműködésével látja el.
 
@@ -1925,7 +1946,7 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (6) A KKVTR rendszer nyilvántartja a központi költségvetés végrehajtása szempontjából az előirányzat-módosítást, az előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatokhoz kapcsolódó keretnövelés, a 36. § (2) bekezdése szerinti kormányhatározatokban meghatározott kötelezettségvállalások, valamint a kiadások és bevételek teljesítésének adatait.
 
-(7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével – a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.
+(7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével – valamint a fejezeti kezelésű előirányzatok fejezetet irányító szerve a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.
 
 (8) A KKVTR rendszer – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével – a követelések, kötelezettségvállalások és más fizetési kötelezettségek tekintetében legalább az alábbi adatokat tartalmazza:
 
@@ -2098,7 +2119,7 @@ követő naptári év utolsó napjáig kezeli.
 
 (1a) Az államháztartásért felelős miniszter a Kormány rendeletében meghatározott adatszolgáltatásra hívhatja fel a kincstárnál vezetett fizetési számlával rendelkező helyi önkormányzatot, helyi nemzetiségi önkormányzatot, társulást, térségi fejlesztési tanácsot a számlaállományára vonatkozó adatszolgáltatás teljesítése érdekében.
 
-(1b) A különleges gazdasági övezet fekvése szerinti vármegye vármegyei önkormányzata a kincstár közreműködésével a Kormány rendeletében meghatározott határidő lejártáig az ott meghatározott teljes adatkörre vonatkozóan adatot szolgáltat a tárgyévet megelőző évben realizált helyi adók összegéről a helyi önkormányzatokért felelős miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére, valamint a helyi adóbevételből – a vármegyei önkormányzat támogatásával – részesült települési önkormányzatok számára az adott önkormányzatot érintő adatkörre vonatkozóan.
+(1b)
 
 (1c) A tárgyévet megelőző év július 1-jén hatályos helyi iparűzési adórendelettel rendelkező települési önkormányzat a Kormány rendeletében meghatározott határidő lejártáig a kincstár közreműködésével adatot szolgáltat az iparűzési adóerő-képességet meghatározó iparűzési adóalap összegéről az államháztartásért felelős miniszter által vezetett minisztérium részére.
 
@@ -2167,7 +2188,7 @@ kell kiszabni.
 - 13. a költségvetési biztos megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a költségvetési biztos feladatait, intézkedéseit, a költségvetési biztos tevékenységével, helyettesítésével, kapcsolatos szabályokat,
 - 14. a személyi juttatások felhasználásának korlátait, a kezelt állami vagyonnal való gazdálkodás államháztartási szempontú sajátos előírásait, valamint a költségvetési szervek vállalkozási tevékenysége végzésének és a vállalkozási maradvány megállapításának, felhasználásának részletszabályait,
 - 15. a költségvetési támogatások tekintetében
-  - a) a támogatási igények benyújtásának, elbírálásának, folyósításának – ideértve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a költségvetési támogatás felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének, a támogatási szerződés módosításának,
+  - a) a támogatási igények benyújtásának, elbírálásának, folyósításának, a támogatási előleg összegének – ideértve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a költségvetési támogatás felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének, a támogatási szerződés módosításának,
   - b) a költségvetési támogatások biztosításának e törvény előírásain felüli további feltételeit,
   - c) a 49. § szerinti lebonyolító szerv megbízásának, feladatellátásának, elszámoltatásának,
   - d) a kincstár által működtetett monitoring rendszer működtetésének
@@ -2366,6 +2387,16 @@ rendeletben szabályozza.
 (40) A Kormány a Magyarország 2025. évi központi költségvetéséről szóló törvényjavaslatot – a 22. § (2) bekezdésétől eltérően – 2024. november 15-éig nyújtja be az Országgyűlésnek.
 
 (41) E törvénynek a pénzügyi közvetítőrendszert érintő és egyéb törvények módosításáról szóló 2024. évi XXXIX. törvénnyel megállapított 48/B. § (1) bekezdés e) pontját a folyamatban lévő ügyekben is alkalmazni kell.
+
+(42) A helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, amennyiben a részére a hazai forrás terhére fejlesztési célra nyújtott költségvetési támogatás összege meghaladja az ötvenmillió forintot a hazai forrásból származó költségvetési támogatások kincstáron kívüli fizetési számlán kezelt, még fel nem használt összegét a kincstárnál vezetett fizetési számlájára 2025. március 31-ig átutalja.
+
+(43) E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv4.) megállapított 41. § (3) bekezdését a Módtv4. hatálybalépésekor folyamatban lévő kihelyezett támogatásokkal összegfüggő eljárásokban is alkalmazni kell.
+
+(44) E törvénynek a Módtv4.-gyel megállapított 70. § (7c) bekezdését a hatálybalépése napján folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell.
+
+(45) E törvénynek a Módtv4.-gyel megállapított 51. § (4b) bekezdése szerinti szervek és szervezetek a nem a kincstárnál vezetett fizetési számláján lévő összegeket 2025. március 31-éig kötelesek a kincstári számlára átutalni.
+
+(46) E törvénynek Módtv4.-gyel megállapított 79. § (2b) bekezdése szerinti felülvizsgálatot első alkalommal a Módtv4. hatályba lépését megelőző három vagy ennél korábbi évben, határozatlan időre kiadott, e törvény hatálybalépése napján még érvényes felmentések esetében legkésőbb 2025. június 30-ig kell elvégezni.
 
 111/A. § A befektetési jegy megszerzésére visszatérítendő költségvetési támogatást nyújtó szerv olyan tartalommal módosíthatja a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény (a továbbiakban: Módtv1.) hatálybalépését megelőzően megkötött támogatási szerződést, amely lehetőséget ad számára, hogy a támogatási jogviszonyból eredő követelését a befektetési alap befektetési jegyeinek megszüntetéséből felszabaduló pénzeszköz értéke alapján határozza meg. Ha a pénzeszközök értéke kevesebb, mint a követelés eredeti összege, akkor ez a veszteség jellegű különbözet elengedett követelésnek minősül.
 

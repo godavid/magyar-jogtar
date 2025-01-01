@@ -1332,8 +1332,6 @@ indul meg.
 - d) az (5) bekezdésben meghatározott esetben hirdetményi úton,
 - e) elektronikus úton a Dáptv. szerinti hivatalos elérhetőségre
 
-történhet.
-
 (2) Joghatás csak a szabályszerű kézbesítéshez kapcsolódik. A kézbesítés akkor szabályszerű, ha annak megtörténtét a jogszabályban jogosultként megjelölt személy aláírásával ellátott tértivevény, illetve jegyzőkönyv vagy határozatpéldány igazolja. A kézbesítés akkor is szabályszerű, ha az arra jogosult a jegyzőkönyv vagy határozatpéldány aláírását megtagadja és a szabálysértési hatóság, bíróság ennek tényét az iratra feljegyzi.
 
 (3) A postai úton kézbesítendő iratot szabályszerűen kézbesítettnek kell tekinteni
@@ -1346,7 +1344,7 @@ történhet.
 
 (5) Az ismeretlen helyen tartózkodó eljárás alá vont személy, valamint az elkövető részére a hivatalos iratot hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
 
-(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. A hirdetmény útján közölt hivatalos iratot a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
+(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára, továbbá közzé kell tenni az elektronikus tájékoztatásra szolgáló honlapon. A hirdetmény útján közölt hivatalos iratot a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 #### 74. A kézbesítési vélelem megdöntése
 
@@ -3239,14 +3237,18 @@ is szabhat ki helyszíni bírságot.
 - a) a bejelentési kötelezettség alá eső gyűlést bejelentési kötelezettsége elmulasztásával szervez,
 - b)
 - c) a gyülekezési hatóság által tudomásul vett bejelentésben megjelölttől eltérő helyszínre, útvonalra vagy időpontra szervezi a rendezvényt, vagy a résztvevőket a bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre hívja fel,
-- d) közterületnek nem minősülő helyszínre, az ingatlan tulajdonosának vagy használójának hozzájárulása nélkül gyűlést szervez, szabálysértést követ el.
+- d) közterületnek nem minősülő helyszínre, az ingatlan tulajdonosának vagy használójának hozzájárulása nélkül gyűlést szervez,
+
+szabálysértést követ el.
 
 (2) Aki a gyülekezési jogról szóló törvény erre vonatkozó rendelkezését megsértve a tervezett új időpontról való előzetes tájékoztatás nélkül szervez gyűlést, szabálysértést követ el.
 
 (3) Aki
 
 - a) a gyűlés szervezésével összefüggő bejelentési kötelezettségét a gyülekezési jogról szóló törvényben erre meghatározott határidő megsértésével teljesíti,
-- b) a gyülekezési jogról szóló törvényben foglalt tájékoztatási kötelezettségét a határidő megsértésével teljesíti, szabálysértést követ el.
+- b) a gyülekezési jogról szóló törvényben foglalt tájékoztatási kötelezettségét a határidő megsértésével teljesíti,
+
+szabálysértést követ el.
 
 (3a) Aki
 

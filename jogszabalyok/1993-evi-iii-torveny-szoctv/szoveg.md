@@ -295,6 +295,8 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (8) Az időskorúak járadékában, gyermekek otthongondozási díjában vagy ápolási díjban részesülő, továbbá az aktív korúak ellátására jogosult személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha a jogosultságának fennállása alatt más rendszeres pénzellátás megállapítására irányuló eljárást indított, vagy álláskeresési ellátás igénylése céljából jelentkezett az állami foglalkoztatási szervnél.
 
+(8a) A (8) bekezdés szerinti bejelentést nem kell megtenni, ha az időskorúak járadékában, gyermekek otthongondozási díjában vagy ápolási díjban részesülő, továbbá az aktív korúak ellátására jogosult személy a más rendszeres pénzellátás megállapítására irányuló eljárás megindításakor vagy az állami foglalkoztatási szervnél álláskeresési ellátás igénybevétele céljából történő jelentkezéskor nyilatkozik arról, hogy időskorúak járadékában, gyermekek otthongondozási díjában vagy ápolási díjban részesül vagy aktív korúak ellátására jogosult. Ilyenkor a (8) bekezdés szerinti bejelentést az a szociális hatáskört gyakorló szerv, egészségbiztosítási szerv, nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság, hadigondozási hatóság, családtámogatási szerv vagy állami foglalkoztatási szerv teszi meg, amelynél a (8) bekezdés szerinti eljárást megindították vagy a (8) bekezdés szerinti jelentkezés történt.
+
 (9) A (7) bekezdés b) pontja, valamint a (8) bekezdés szerinti esetben a bejelentést a más rendszeres pénzellátás megállapítására irányuló eljárás megindításától, illetve az állami foglalkoztatási szervnél való jelentkezés napjától számított 8 napon belül kell megtenni.
 
 (10) A más rendszeres pénzellátásra való jogosultság fennállásának időtartama alatt jogosulatlanul igénybe vett időskorúak járadéka, aktív korúak ellátása, gyermekek otthongondozási díja és ápolási díj a (7)–(9) bekezdés szerinti bejelentési kötelezettség teljesítése esetén jogosulatlanul, de nem rosszhiszeműen igénybevett ellátásnak minősül, amelynek megtérítéséről a szociális hatáskört gyakorló szerv az (1) bekezdés alapján rendelkezik.
@@ -399,7 +401,7 @@ meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hat�
 
 (3) A 18/B. § szerinti országos nyilvántartást vezető hatóság az aktív korúak ellátására jogosultak tekintetében az aktív korúak ellátására jogosult személynek a 18/A. § a), b), d) és e) pontjában meghatározott adatairól az állami foglalkoztatási szervet – annak az Flt. 57/B. §-ában meghatározott nyilvántartási és adatszolgáltatási feladatai teljesítésének elősegítésére – folyamatos elektronikus adatkapcsolat keretében tájékoztatja.
 
-(4) A jegyző – a képviselő-testületnek a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez természetben nyújtott települési támogatás érvényesítésével kapcsolatos feladata teljesítése céljából – átadja a 18. § l) pont la) alpontja szerinti szolgáltató részére a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez természetben nyújtott települési támogatásra jogosult személy 18. § a) pont aa) és ab) alpontjában, d) és e) pontjában, valamint a 18. § l) pont la) alpontjában foglalt adatait.
+(4) A jegyző – a képviselő-testületnek a 45. § (1) bekezdés a) és d) pontja szerinti ellátás igénybevételével kapcsolatos feladata teljesítése céljából – átadja a 18. § l) pont la) alpontja szerinti szolgáltató részére a támogatásra jogosult személy 18. § a) pont aa) és ab) alpontjában, d) és e) pontjában, valamint l) pont la) alpontjában foglalt adatait.
 
 20. § (1) A szolgáltató, intézmény vezetője a szolgáltatásra vonatkozó igényt – az (5) bekezdésben foglalt szolgáltatások kivételével – érkezésének napján nyilvántartásba veszi. A nyilvántartás vezetésének célja az e törvényben meghatározott jogok érvényesülésének elősegítése.
 
@@ -1265,9 +1267,9 @@ a járási hivatal a kérelmet visszautasítja.
 
 (2) A gyógyszertár a közgyógyellátás keretében térítésmentesen a gyógyszerkeretnek az egészségbiztosítási szerv nyilvántartása szerint az 50/E. §-ban meghatározott időszakban rendelkezésre álló összegéig ad ki gyógyszert.
 
-(3) A gyógyszer térítési díját nem lehet részben gyógyszerkeretből, részben a jogosult saját költségéből fedezni. Amennyiben a gyógyszer térítési díját a az egészségbiztosítási szerv által a három hónapos tárgyidőszakra megnyitott gyógyszerkeret nem fedezi, azt – a (4) bekezdés szerinti kivétellel – a közgyógyellátott fizeti meg. A három hónapos tárgyidőszakban így megmaradt összeg – a jogosultsági éven belül – a következő három hónapos tárgyidőszakban megnyitott gyógyszerkeret összegét növeli.
+(3) Az éves gyógyszerkeret kimerülése előtt a gyógyszerkeretből még rendelkezésre álló, a jogosult részére rendelt gyógyszer térítési díját el nem érő maradványösszeg a gyógyszer térítési díjának kiegészítésére is felhasználható, azzal, hogy a maradványösszeg és a gyógyszer térítési díja közötti különbözetet a közgyógyellátott fizeti meg.
 
-(4) Az éves gyógyszerkeret kimerülése előtt a gyógyszerkeretből még rendelkezésre álló, a jogosult részére rendelt gyógyszer térítési díját el nem érő maradványösszeg a gyógyszer térítési díjának kiegészítésére is felhasználható, azzal, hogy a maradványösszeg és a gyógyszer térítési díja közötti különbözetet a közgyógyellátott fizeti meg.
+(4) A gyógyszerkeret (3) bekezdés szerinti felhasználására a három hónapos tárgyidőszakra megnyitott gyógyszerkeret esetében is lehetőséget kell biztosítani.
 
 52. § (1) A járási hivatal által a közgyógyellátottakról vezetett nyilvántartás a 18/A. §-ban foglaltakon túl tartalmazza a közgyógyellátott gyógyszerkeretét és igazolványa számát.
 
@@ -1394,7 +1396,7 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 
 - a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a szociálpolitikáért felelős miniszter előzetes hozzájárulásával más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
 - b) családsegítés és gyermekjóléti szolgáltatás esetén,
-- c) a 131/A. § alapján támogatott szociális szolgáltatások esetén,
+- c) fejlesztő foglalkoztatás esetén,
 - d)
 - e) támogatott lakhatás esetén,
 - f) az államháztartásról szóló 2011. évi CXCV. törvény 14. § (3) bekezdése szerinti fejezetből finanszírozott szociális szolgáltató, intézmény (székhely, telephely) és az általa nyújtott szociális szolgáltatás, valamint az ehhez tartozó ellátotti létszám, férőhelyszám vagy feladatmutató esetén.
@@ -3302,7 +3304,7 @@ járul hozzá.
 
 131. § A szociális szakmai programok meghirdetésével kell elősegíteni a fenntartó számára a szociális intézmények olyan mértékű fejlesztésének támogatását, hogy az érintett önkormányzatok eleget tudjanak tenni az e törvényben előírt kötelezettségüknek.
 
-131/A. § (1) A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, az utcai szociális munka és a fejlesztő foglalkoztatás működtetését az állam – kormányrendeletben meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződés legfeljebb három évre köthető meg. A fenntartóval a finanszírozási szerződést a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv köti meg.
+131/A. § (1) A fejlesztő foglalkoztatás működtetését az állam – kormányrendeletben meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződés legfeljebb három évre köthető meg. A fenntartóval a finanszírozási szerződést a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv köti meg.
 
 (2) Az éves támogatási összeget a költségvetési törvény állapítja meg.
 
@@ -3441,7 +3443,7 @@ járul hozzá.
 - m) a tartós ápolást végzők időskori támogatásának igénylésére, megállapítására és folyósítására vonatkozó szabályokat;
 - n) a szociális hatóság, a 24/C. § szerinti jogi személy és a szociális szakértői szerv kijelölését;
 - o)
-- p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka és a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
+- p) a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, a fogyatékos személyek alapvizsgálatára, valamint a komplex szükségletfelmérésre vonatkozó szabályokat;
 - s) a bírság megállapításának és megfizetésének részletes eljárási szabályait;
@@ -3677,7 +3679,7 @@ kell elvégezni.
 
 (5) A 2010. december 31-én hatályos 37/C. § (4) bekezdése alapján megkötött hatósági szerződések 2011. január 1-jén megszűnnek, azzal, hogy az aktív korúak ellátására való jogosultság fennállása esetén a 2010. december 31-én hatályos 37/C. § (4) bekezdése szerinti személy részére 2011. január 1-jétől rendszeres szociális segélyt kell folyósítani.
 
-#### 140/B. §
+140/B. § 2025. január 1-jétől a területi lefedettséget figyelembe vevő finanszírozási rendszerbe – a rendelkezésre álló kapacitástól függetlenül – törvény erejénél fogva befogadottnak minősül az az utcai szociális munka, szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás szolgáltatás, amely után a fenntartó a 2024. október 1-jén hatályos finanszírozási szerződése alapján támogatásra jogosult. A 2025. január 1-jét megelőzően hatályos 131/A. § alapján nyújtott állami támogatásra 2024. december 31-ét követően is a 2025. január 1-jét megelőzően hatályos rendelkezéseket kell alkalmazni.
 
 140/C. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 1999. évi LXXIII. törvény – 2012. június 26-áig hatályos – 56. § (1) bekezdésében meghatározott átmeneti rendelkezés alapján az intézmények a százötven fős férőhelyszámot nem léphetik túl és a százötven fős vagy ezt meghaladó férőhelyszámú intézmények férőhelyeinek száma tovább nem bővíthető.
 

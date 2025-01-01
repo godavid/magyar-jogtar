@@ -5125,7 +5125,7 @@ A gyermek, a gyermek halála után leszármazója vagy a vér szerinti anya kér
 
 (1) A gyámhatóság a nevelésbe vett gyermeket legfeljebb négy évre örökbefogadhatónak nyilvánítja, ha a szülőjének szülői felügyeleti joga nem szűnt meg és a szülő önhibájából
 
-- a) gyermekével nyolc hónapja nem tart rendszeres kapcsolatot vagy három hónapon át semmilyen formában nem tart kapcsolatot, illetve életvitelén, körülményein nem változtat, és emiatt a nevelésbe vétel nem szüntethető meg; vagy
+- a) gyermekével hat hónapja nem tart rendszeres kapcsolatot vagy három hónapon át semmilyen formában nem tart kapcsolatot, illetve életvitelén, körülményein nem változtat, és emiatt a nevelésbe vétel nem szüntethető meg; vagy
 - b) lakó- és tartózkodási helyét az új lakó- és tartózkodási helyének hátrahagyása nélkül megváltoztatja, és az annak felderítésére irányuló intézkedések három hónapon belül nem vezetnek eredményre.
 
 (2) Az (1) bekezdésben meghatározott határidő indokolt esetben legfeljebb két évvel meghosszabbítható.
@@ -7942,7 +7942,7 @@ A képviseleti jog kiterjed mindazon cselekmények elvégzésére és jognyilatk
 
 #### 6:20. § [Eseti gondnokság és eseti gyámság]
 
-(1) A gyámhatóság eseti gondnokot rendel, ha a gondnok jogszabály vagy a gyámhatóság rendelkezése folytán, érdekellentét vagy más tényleges akadály miatt nem járhat el.
+(1) Az eljáró hatóság eseti gondnokot rendel, ha a gondnok jogszabály vagy a gyámhatóság rendelkezése folytán, érdekellentét vagy más tényleges akadály miatt nem járhat el.
 
 (2) Eseti gondnokot kell rendelni akkor is,
 
@@ -7953,7 +7953,7 @@ A képviseleti jog kiterjed mindazon cselekmények elvégzésére és jognyilatk
 
 (4) A gondnok jogköre nem terjed ki azokra az ügyekre, amelyeknek ellátására eseti gondnokot rendeltek.
 
-(5) A gyámhatóság az (1) és a (2) bekezdésben meghatározott esetekben eseti gyámot rendel, ha kiskorú személy képviseletéről kell gondoskodni. Az eseti gyámra az eseti gondnokra vonatkozó szabályokat kell megfelelően alkalmazni.
+(5) Az eljáró hatóság az (1) és a (2) bekezdésben meghatározott esetekben eseti gyámot rendel, ha kiskorú személy képviseletéről kell gondoskodni. Az eseti gyámra az eseti gondnokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 ### IV. Fejezet — Az elévülés
 

@@ -1600,6 +1600,14 @@ beutalása alapján vehető igénybe.
 
 (4) Az állami mentőszolgálat a mentésre feljogosított szervezetek által nyújtott ellátás szakszerűségével vagy a működésének szabályszerűségével kapcsolatos szabálytalanságokról haladéktalanul értesíti az egészségügyi államigazgatási szervet. Az egészségügyi államigazgatási szerv a szabálytalanság bejelentésére megteszi a szükséges intézkedéseket.
 
+96/A. § (1) Az állami mentőszolgálat a segítségnyújtási kötelezettség teljesítése, a segélyhívás alapján szükséges intézkedések megtétele és ezek ellenőrzése érdekében a hívóval folytatott kommunikációt és a hívó fél által használt telefonállomás azonosított adatait visszakövethető módon, hangfelvétellel vagy egyéb elektronikus úton rögzíteni köteles.
+
+(2) Az állami mentőszolgálat az (1) bekezdés szerinti adatokat a segélyhívás fogadásától számított öt évig kezeli.
+
+(3) Az (1) bekezdésben meghatározott adatok – a törvényben meghatározott szerveken túl – az érintett beteg ellátása érdekében az egészségügyi ellátóhálózat érintett beteget ellátó egészségügyi szolgáltatója részére továbbíthatók.
+
+(4) Az (1) bekezdésben szereplő adatok nem képezik az egészségügyi dokumentáció részét.
+
 ### Betegszállítás
 
 97. § (1) A betegszállítás célja, hogy biztosítsa az egészségügyi ellátáshoz való hozzáférést abban a – mentőápolói felügyeletet nem igénylő – esetben, ha az egészségügyi ellátás elérhetősége másként nem biztosítható.
@@ -1621,7 +1629,7 @@ beutalása alapján vehető igénybe.
 
 ### Taktikai medicina
 
-97/A. § A taktikai medicina keretében a rendészeti szerv által meghatározott műveleti területen a rendészeti szerv, illetve a rendészeti szerv alkalmazásában álló szakképzett egészségügyi dolgozó szükség esetén akut, sürgősségi egészségügyi ellátást végezhet.
+97/A. § A taktikai medicina keretében a rendészeti szerv által meghatározott műveleti területen a rendészeti szerv, illetve a rendészeti szerv alkalmazásában álló, a miniszter rendeletében meghatározott feltételeknek megfelelő személy szükség esetén akut, sürgősségi egészségügyi ellátást végezhet.
 
 ### Ápolás
 
@@ -1890,6 +1898,7 @@ egészségügyi elbírálása, illetőleg véleményezése.
 - b) akit a működési nyilvántartásból a 113/A. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig, de legfeljebb három évig,
 - c) aki működési nyilvántartását e törvényben és jogszabályokban foglalt módon határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét véglegesen elutasították, legfeljebb három évig,
 - d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egészségügyi tevékenység végzésében közreműködik.
+- e) aki az adott szakképesítés tekintetében a működési nyilvántartásba történő felvételét első alkalommal kéri, és az egészségügyi szakképesítése megszerzésének, illetve jogszabály szerinti magyarországi elismerésének vagy honosításának napja óta több mint 8 év eltelt, és a kérelem benyújtásakor az adott szakképesítés tekintetében fennálló továbbképzési kötelezettségét nem teljesítette és az alól nem mentesült, a továbbképzési kötelezettség teljesítéséig, de legfeljebb három évig.
 
 (3a) A (3) bekezdés a) pontjától eltérően az egészségügyi felsőfokú szakirányú szakképzésben részt vevő személy önállóan végezhet egészségügyi tevékenységet mindazon kompetenciák tekintetében, amelynek gyakorlására miniszteri rendelet alapján a szakképzése részét képező vizsga során felhatalmazást szerzett.
 
@@ -2039,7 +2048,7 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 (4) A működési nyilvántartás az alábbi adatokat tartalmazza:
 
 - a) az egészségügyi dolgozó neve, természetes személyazonosító adatai, az egészségügyi tevékenység gyakorlása során használt neve, lakóhelye és tartózkodási helye, állampolgársága,
-- b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
+- b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve, továbbá a 110. § (2) bekezdés a) pontja szerinti, az egészségügyi felsőfokú szakirányú szakképzés teljesítése során az egészségügyi tevékenység önálló végzésére feljogosító kompetenciára vonatkozó adat,
 - c) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, e törvény és jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye,
 - d) idegen nyelv vagy nyelvek ismeretének szintje, típusa, az arról kiállított bizonyítvány vagy azzal egyenértékű okirat száma, kiállításának helye és ideje, a kiállító szerv megnevezése, valamint az e törvényben meghatározott esetben az igazolt magyar nyelvismeret alapján végezhető tevékenységi kör megjelölése,
 - e) a korlátozott alkalmasság ténye,
@@ -2047,7 +2056,7 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 - g) a működési nyilvántartás meghosszabbításának kezdő, befejező dátuma, a meghosszabbítás alapjául szolgáló, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma,
 - h) a tudományos fokozat,
 - i) az egészségügyi dolgozó szakmai kamarai tagságának ténye, a tagság kezdete és megszűnése,
-- j) az egészségügyi dolgozóval szemben törvény alapján etikai eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának és elévülése időpontjának megjelölésével együtt,
+- j) az egészségügyi dolgozóval szemben törvény alapján etikai eljárás keretében kiszabott véglegessé vált büntetés ténye a büntetést kiszabó határozat véglegessé válása napjának és elévülése időpontjának megjelölésével együtt,
 - k) az egészségügyi dolgozó alap- és működési nyilvántartási száma és alap- és működési nyilvántartásának jogszabályban meghatározott típusa,
 - l) a külföldi munkavégzés helye, időtartama és a szakterület megnevezése, amely területen az egészségügyi dolgozó a munkát végzi,
 - m) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személy neve, működési nyilvántartási száma,
@@ -2062,9 +2071,9 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 
 (4b) Amennyiben az egészségügyi dolgozó a (4a) bekezdés alapján az egészségügyi tevékenység gyakorlása során a születési nevét kívánja használni, azt annak a működési nyilvántartásba történt bejegyzését követően és kizárólag a (4a) bekezdésben meghatározott esetekben használhatja.
 
-(5) A (4) bekezdés b)–c), e), f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve, valamint g) pontjából az egészségügyi tevékenység szüneteltetésének ténye bárki számára megismerhető adat.
+(5) A (4) bekezdés b), c), e), f), k), m) és o) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve, valamint g) pontjából az egészségügyi tevékenység szüneteltetésének kezdő és befejező dátuma, valamint a működési nyilvántartás 113/A. § (5) bekezdése szerinti felfüggesztésének kezdő és befejező dátuma bárki számára megismerhető adat.
 
-(6) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
+(6) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot az etikai eljárás keretében kiszabott büntetés elévülése napján, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
 
 (7) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés a), b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést vagy az abba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról havi rendszerességgel – törvény szerinti hatósági ellenőrzés elvégzése céljából – elektronikus úton tájékoztatást nyújt az egészségbiztosítási szerv részére.
 
@@ -2126,13 +2135,19 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 - h) aki a törlését kéri,
 - i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
-(1a) Az (1) bekezdés a)–d) pontja alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
+(1a) Az (1) bekezdés a)–d) pontja alapján a működési nyilvántartásból törölt, és az Eütv. 113/A. § (5) bekezdésének hatálya alá tartozó egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
 
 (2)
 
 (3) A működési nyilvántartást vezető szerv a 111. § (3) bekezdés c) pontja szerinti azonosítók alapján folyamatosan, elektronikus úton adategyeztetést folytat az egészségügyi államigazgatási szervvel a 112. § (4) bekezdés f) pontjában meghatározott adatok tekintetében.
 
 (4) Az egészségügyi dolgozó egy évet meghaladó végrehajtandó szabadságvesztéséről, valamint az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásáról szóló jogerős határozatáról a bíróság – jogszabályban meghatározottak szerint – haladéktalanul értesíti a működési nyilvántartást vezető szervet, és az illetékes egészségügyi szakmai kamarát.
+
+(5) A működési nyilvántartást vezető szerv felfüggeszti a működési nyilvántartását
+
+- a) annak a személynek, akinek kötelező kamarai tagságát az egészségügyben működő szakmai kamarákról szóló törvény szerint illetékes egészségügyi szakmai kamara felfüggesztette, a kamarai tagság felfüggesztésének időtartamára,
+- b) annak a kötelező kamarai tagságát kérelme alapján szüneteltető egészségügyi dolgozónak, aki jogszabály alapján egészségügyi tevékenység végzésére a szüneteltetés időtartama alatt nem jogosult, a kötelező kamarai tagság szüneteltetésének időtartamára,
+- c) annak a személynek, akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására átmenetileg alkalmatlannak nyilvánított, az egészségügyi tevékenység végzésére való alkalmassági felülvizsgálat lefolytatásáig.
 
 113/B. § Az egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -2564,7 +2579,9 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 137. § Az egészségügyi szolgáltató
 
 - a) több résztevékenységből álló, összefüggő ellátási folyamat végén vagy fekvőbeteg-gyógyintézeti ellátást követően az ellátás adatait összefoglaló zárójelentést,
-- b) járóbeteg-szakellátási tevékenység befejezésekor, a beteg ellátásával és gyógykezelésével kapcsolatos összefoglaló adatokat tartalmazó ambuláns ellátási lapot készít és – a 14. § (1) bekezdésében foglalt eset kivételével – azt a betegnek átadja.
+- b) járóbeteg-szakellátási tevékenység befejezésekor, a beteg ellátásával és gyógykezelésével kapcsolatos összefoglaló adatokat tartalmazó ambuláns ellátási lapot
+
+készít, és azt – a 14. § (1) bekezdésben foglalt eset kivételével – a beteg kérésére a betegnek átadja.
 
 ### Titoktartási kötelezettség
 
@@ -2741,7 +2758,7 @@ költségének fedezetét.
 
 ### 2. CÍM — Az egészségügy szervezése és irányítása
 
-143. § Az egészségügy szervezésével és irányításával kapcsolatos feladatok ellátásáért, valamint az ezekkel összefüggő jogok gyakorlásáért és kötelezettségek teljesítéséért való felelősség – az e törvényben foglaltaknak megfelelően – az Országgyűlést, a Kormányt, a minisztert, az egészségügyi államigazgatási szervet, a helyi önkormányzatokat, az egészségügyi szolgáltatók további fenntartóit, az egészségbiztosítási szerveket, valamint a térségi egészségszervezési államigazgatási szervet, terheli.
+143. § Az egészségügy szervezésével és irányításával kapcsolatos feladatok ellátásáért, valamint az ezekkel összefüggő jogok gyakorlásáért és kötelezettségek teljesítéséért való felelősség – az e törvényben foglaltaknak megfelelően – az Országgyűlést, a Kormányt, a minisztert, az egészségügyi államigazgatási szervet, a helyi önkormányzatokat, az egészségügyi szolgáltatók további fenntartóit, az egészségbiztosítási szerveket terheli.
 
 144. § (1) Az állam a rendelkezésére álló eszközökkel támogatja és elősegíti az egészségügy területén működő szakmai kamaráknak és más köztestületeknek, valamint szakmai érdekképviseleti szerveknek, szakmai egyesületeknek és más civil szervezeteknek az e törvényben foglaltakkal összhangban levő tevékenységét.
 
@@ -3023,6 +3040,10 @@ gyakorolja.
 
 (11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító vármegyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító vármegyei kórház vezetője által tett kezdeményezésekre is.
 
+(11a) Az (1a) bekezdés b) pontjától eltérően az irányító vármegyei intézmény vezetője jogosult az irányítása alá tartozó városi intézmény kapacitásai átcsoportosítására – ideértve az irányító vármegyei intézmény javára történő kapacitás-átcsoportosítást is –, csökkentésére, illetve szakmai összetételének módosítására.
+
+(11b) A városi intézmény 200 000 forint feletti értékű eszközeinek vagyonkezelője az irányító vármegyei intézmény.
+
 (12) A városi intézmény vezetője tekintetében
 
 - a) az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője,
@@ -3030,12 +3051,7 @@ gyakorolja.
 
 gyakorolja.
 
-(13) A városi intézmény (12) bekezdés alá nem tartozó foglalkoztatottjai tekintetében
-
-- a) az alapvető munkáltató jogokat az irányító vármegyei intézmény vezetője,
-- b) az egyéb munkáltató jogokat a városi intézmény vezetője
-
-gyakorolja.
+(13) A városi intézmény (12) bekezdés alá nem tartozó foglalkoztatottjai tekintetében az alapvető és az egyéb munkáltató jogokat az irányító vármegyei intézmény vezetője gyakorolja.
 
 (13a) A vármegyei intézmény – ideértve az irányítási feladatokat ellátó vármegyei intézményt és klinikai központot is – és a városi intézmény foglalkoztatottjai számára a munkavégzés helyeként bármely, a foglalkoztatási jogviszony szerinti vármegyei vagy városi intézmény székhelye szerinti vármegyében működő vármegyei vagy városi intézmény meghatározható azzal, hogy
 
@@ -3061,7 +3077,7 @@ gyakorolja.
 - f) az országos társgyógyintézet tevékenységét a Kormány rendeletében meghatározott országos gyógyintézet irányítása alatt gyakorolja,
 - g) az országos társgyógyintézet tekintetében a (6) bekezdése szerinti jogköröket az országos gyógyintézet vezetője gyakorolja,
 - h) az országos társgyógyintézet vezetője tekintetében az alapvető munkáltatói jogokat – a) pont szerinti kivétellel – egészségügyi szolgáltatás irányításáért felelős szerv vezetője, az egyéb munkáltatói jogokat az országos gyógyintézet vezetője gyakorolja,
-- i) az országos társgyógyintézet h) pont alá nem tartozó foglalkoztatottjai felett az alapvető munkáltatói jogokat az országos gyógyintézet vezetője, az egyéb munkáltatói jogokat az országos társgyógyintézet vezetője gyakorolja.
+- i) az országos társgyógyintézet h) pont alá nem tartozó foglalkoztatottjai felett az alapvető munkáltatói jogokat és az egyéb munkáltatói jogokat az országos gyógyintézet vezetője gyakorolja.
 
 (16) A (8), (9), (12), (13) bekezdés és a (15) bekezdés c), d), h) és i) pontja szerinti munkáltatói jogok gyakorlása az egészségügyi szolgáltatás irányításáért felelős szerv által kiadott szabályzatban foglaltak szerint átruházható.
 
@@ -3086,6 +3102,12 @@ fenntartására, irányítására.
 (21) Az önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi intézmény tekintetében az (1a) bekezdés a)–d) és f)–h) pontja szerinti szakmai fenntartói jogköröket az érintett vármegyében működő irányító vármegyei intézmény gyakorolja.
 
 (22) A Budapesten és Pest vármegyében működő önkormányzati fenntartású járóbeteg-szakellátást nyújtó egészségügyi intézményekre a (21) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.
+
+155/A. § (1) Az állami fenntartású egészségügyi intézmények esetében a munkáltató – az egészségügyi ellátás folyamatossága biztosítása érdekében – egységes beléptető rendszer alkalmazásával ellenőrizheti az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy munkaidejének betartását, az intézménybe történő be- és kilépését.
+
+(2) A munkáltató az (1) bekezdés szerinti rendszer alkalmazásával tudomására jutott, az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy munkaidejének betartására, az intézménybe történő be- és kilépésére vonatkozó személyes adatokat az ellenőrzött tevékenységgel összekapcsolható módon az adatkezelés célja szerinti ellenőrzés lefolytatásához szükséges mértékben és időtartamban, de legfeljebb a be- és kilépéstől számított egy évig kezeli.
+
+(3) Az (1) bekezdés szerinti egységes beléptető rendszer használata és az (1) bekezdésben foglaltak ellenőrzése érdekében a munkáltató – a munkavégzésre irányuló jogviszonyra irányadó törvényben meghatározott adatokon túlmenően – legfeljebb a jogviszony fennállásának idejéig kezeli az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy arcképmását.
 
 156. § (1) A területi ellátási kötelezettség körében fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben kórházi felügyelő tanács és kórházi etikai bizottság működik.
 
@@ -3271,8 +3293,9 @@ A MŰVI MEDDŐVÉTÉTEL
 
 - a) embrió: minden élő emberi embrió a megtermékenyítés befejeződése után a terhesség 12. hetéig,
 - b) magzat: a méhen belül fejlődő emberi lény a terhesség 12. hetétől,
-- c) egyedülállóvá vált nő: az a nő, akinek házastársi (élettársi) kapcsolata a reprodukciós eljárás megkezdését követően szűnt meg,
+- c) egyedülállóvá vált nő: az a nő, akinek a reprodukciós eljárásban részt vevő férfival fennálló házastársi (élettársi) kapcsolata a reprodukciós eljárás megkezdését követően a reprodukciós eljárásból származó gyermek megszületését megelőzően megszűnt,
 - d) egyedülálló nő: az a nagykorú nő, aki a reprodukciós eljárás megkezdésekor nem áll házastársi, élettársi kapcsolatban.
+- e) emberi reprodukcióra irányuló különleges eljárás: a meddőség kezelésére, orvosi indikáció alapján, meghatározott időben és számban, egymással összefüggő kezelési sorozatot alkotó kúraszerű ellátás.
 
 ### Az emberi reprodukcióra irányuló
 
@@ -3307,9 +3330,9 @@ alkalmazható.
 
 (5) Reprodukciós eljárás megfelelő szakorvosi javaslatra, az eljárás végzésére működési engedéllyel rendelkező, a 169. § (2) bekezdésében meghatározott egészségügyi szolgáltatónál végezhető.
 
-168. § (1) Reprodukciós eljárás – egyedülállóvá vált nő esetén annak folytatása – a házastársak, illetőleg élettársak együttes, illetve – a 167. § (2) bekezdése szerinti kizáró nyilatkozat hiányában, valamint a letétbe helyezett embrióval kapcsolatos rendelkezési jog keretei között – az egyedülállóvá vált nő írásbeli kérelmére — végezhető. A kérelmet teljes bizonyító erejű magánokiratba kell foglalni. Az élettársi kapcsolat fennállásáról az élettársak közokiratban nyilatkoznak.
+168. § (1) Reprodukciós eljárás – egyedülállóvá vált nő esetén annak folytatása – a házastársak vagy élettársak együttes, illetve – a 167. § (2) bekezdése szerinti kizáró nyilatkozat hiányában, valamint a letétbe helyezett embrióval kapcsolatos rendelkezési jog keretei között – az egyedülállóvá vált nő és egyedülálló nő írásbeli kérelmére végezhető. A 167. § (2) bekezdése szerinti kizáró nyilatkozat hiányában az egyedülállóvá vált nő kérelme esetén a reprodukciós eljárás a kúraszerű beavatkozás befejezéséig tart. A kérelmet teljes bizonyító erejű magánokiratba kell foglalni. Az élettársi kapcsolat fennállásáról az élettársak közokiratban nyilatkoznak.
 
-(2) A beavatkozás megkezdését megelőzően a beavatkozást végző orvos, illetőleg orvoscsoport tagja az egyidejűleg személyesen megjelent kérelmezőket az adott esetben elvégezhető reprodukciós eljárásról szóban és írásban tájékoztatja. A tájékoztatásnak ki kell terjednie különösen:
+(2) A reprodukciós eljárás megkezdését megelőzően a beavatkozást végző orvos, illetőleg orvoscsoport tagja az egyidejűleg személyesen megjelent kérelmezőket az adott esetben elvégezhető reprodukciós eljárásról szóban és írásban tájékoztatja. A tájékoztatásnak ki kell terjednie különösen:
 
 - a) az eljárás orvosi indikációjára;
 - b) az elvégezhető beavatkozás természetére, az alkalmazása során szükségessé váló esetleges újabb vagy további orvosi beavatkozásokra;
@@ -3321,7 +3344,7 @@ alkalmazható.
 
 (3) A (2) bekezdés szerinti tájékoztatás során a betegek tájékoztatására vonatkozó, e törvényben foglalt általános szabályok is megfelelően irányadóak azzal, hogy a beteg jogállása a beavatkozásban közvetlenül részt nem vevő házastársat, élettársat is megilleti. Több, a 166. § (1) bekezdése szerinti reprodukciós eljárás alkalmazhatósága esetén a tájékoztatásnak valamennyi elvégezhető eljárásra ki kell terjednie és az alkalmazandó eljárásra vonatkozó konkrét orvosi javaslatot is magában kell foglalnia.
 
-(4) A reprodukciós eljárás csak a kérelmezők – tájékoztatásukat követően tett – együttes írásbeli beleegyező nyilatkozata alapján kezdhető meg, illetve – egyedülállóvá vált nő esetén – a kérelmező írásbeli beleegyező nyilatkozata esetén folytatható. A 171. § (4) bekezdés szerinti női ivarsejt-adományozás esetén a reprodukciós eljárás megkezdésének, illetve folytatásának feltétele az adományozó – a (6) bekezdés szerinti tájékoztatást követően tett – beleegyező nyilatkozata, illetőleg a 171. § (4) bekezdésében meghatározott együttes nyilatkozat.
+(4) A reprodukciós eljárás csak a kérelmezők – tájékoztatásukat követően tett – együttes írásbeli beleegyező nyilatkozata alapján kezdhető meg, illetve – egyedülállóvá vált nő esetén – a kérelmező írásbeli beleegyező nyilatkozata esetén folytatható. A 171. § (4) bekezdés szerinti női ivarsejt-adományozás esetén a reprodukciós eljárás megkezdésének, illetve folytatásának feltétele az adományozó – a (6) bekezdés szerinti tájékoztatást követően tett – írásbeli beleegyező nyilatkozata vagy a 171. § (4) bekezdésében meghatározott együttes írásbeli nyilatkozat. A reprodukciós eljárás kezdete a beleegyező nyilatkozatok aláírásának napja.
 
 (5) Az (1), illetve a (4) bekezdésben foglalt jognyilatkozatok tételére kizárólag cselekvőképes személy jogosult.
 
@@ -4366,25 +4389,32 @@ részére – kérésükre – hozzáférést biztosít, ha a megkereső igazolj
 
 (9) Európai uniós fejlesztési források felhasználása esetén az (1)–(8) bekezdés szerinti szabályok nem alkalmazhatók.
 
-232/F. § (1) Az egészségügyi válsághelyzet ideje alatt a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 35. § (1) bekezdése szerinti versenyeztetés mellőzhető az állam tulajdonában álló orvostechnikai eszközök, fertőtlenítőszerek, gyógyszerek és egyéni védőeszközök értékesítése során.
+232/F. § (1) Az egészségügyi válsághelyzet ideje alatt a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 35. § (1) bekezdése szerinti versenyeztetés mellőzhető az Állami Egészségügyi Tartalék feltöltésén felül a védekezéshez beszerzett, az állam tulajdonában álló orvostechnikai eszközök, fertőtlenítőszerek, gyógyszerek és egyéni védőeszközök értékesítése során.
 
-(2) Az egészségügyi válsághelyzet ideje alatt a koronavírus-világjárvány elleni védekezés érdekében a költségvetési forrásból beszerzett, az állam tulajdonában álló egészségügyi felszerelés, berendezés, gyógyszer és fertőtlenítőszer (a továbbiakban együtt: egészségügyi készlet), valamint az állam tulajdonában álló egyéb orvostechnikai eszköz, gyógyszer, fertőtlenítőszer, egyéni védőeszköz – jogszabályban meghatározottak szerint –
+(2) Az egészségügyi válsághelyzet ideje alatt az Állami Egészségügyi Tartalék feltöltésén felül a védekezés érdekében a költségvetési forrásból beszerzett, az állam tulajdonában álló egészségügyi felszerelés, berendezés, gyógyszer, fertőtlenítőszer, orvostechnikai eszköz és egyéni védőfelszerelés (a továbbiakban együtt: egészségügyi készlet) – jogszabályban meghatározottak szerint –
 
-- a) a koronavírus-világjárvány megelőzéséhez, terjedésének megakadályozásához szükséges mértékben, és
+- a) a védekezéshez szükséges mértékben, és
 - b) erre vonatkozó, indokolt, közfeladat ellátására vagy azzal szorosan összefüggő célból
 
 térítésmentesen átruházható.
 
-(3) A (2) bekezdés szerinti, a koronavírus-világjárvány elleni védekezést elősegítő egészségügyi készlet, egyéni védőeszköz vagy egyéb orvostechnikai eszköz, gyógyszer, fertőtlenítőszer térítésmentes átruházásáról
+(3) Az egészségügyi készlet (2) bekezdés szerinti átruházásáról
 
-- a) egészségügyi szolgáltatói körön kívüli kiadás esetén az Operatív Törzs vezetője,
+- a) egészségügyi szolgáltatói körön kívüli kiadás esetén a Kormány,
 - b) egészségügyi szolgáltatói kör részére történő kiadás esetén a miniszter
 
 dönt.
 
-(4) A (2) bekezdés szerinti, a koronavírus-világjárvány elleni védekezést elősegítő egészségügyi készlet külföldre történő kiadása esetén a miniszter javaslata alapján az Operatív Törzs előzetes állásfoglalását követően a Kormány nyilvános kormányhatározatban dönt.
+(4) Egészségügyi válsághelyzetnek nem minősülő összehangolt védelmi tevékenység idején a (2) bekezdés szerinti egészségügyi készlet térítésmentes átruházásáról a Kormány dönt.
 
-(5) Az (1) és (3) bekezdés szerinti döntést a rendelkezésre álló egészségügyi készlet vizsgálata alapján és az állami fenntartású egészségügyi intézmények (a továbbiakban: egészségügyi intézmény) orvostechnikai eszközökkel, védőeszközökkel való ellátásának elsőbbségét figyelembe véve kell meghozni.
+(5) A védekezést elősegítő egészségügyi készlet külföldre történő kiadása esetén
+
+- a) egészségügyi válsághelyzet idején a miniszter,
+- b) egészségügyi válsághelyzetnek nem minősülő összehangolt védelmi tevékenység idején a Kormány kijelölt tagja vagy szerve
+
+javaslata alapján a Kormány nyilvános kormányhatározatban dönt.
+
+(5a) Az (1), (3), (4) és (5) bekezdés szerinti döntést a rendelkezésre álló egészségügyi készlet vizsgálata alapján és az állami fenntartású – ideértve a honvédelmi és a rendvédelmi – egészségügyi intézmények, illetve a kritikus infrastruktúrákat működtető szervezetek orvostechnikai eszközökkel, védőeszközökkel való ellátásának elsőbbségét figyelembe véve kell meghozni.
 
 (6) Az egészségügyi válsághelyzet fennállása alatt az egészségügyi válsághelyzetre tekintettel beszerzett vagy rendelkezésre tartott, az állam tulajdonában álló orvostechnikai eszközöknek, fertőtlenítőszereknek, gyógyszereknek és egyéni védőeszközöknek az egészségügyi válsághelyzet megszűnését követő értékesítése esetén
 
@@ -4566,8 +4596,9 @@ végezhető el. Ezek során szervet, szövetet csak a halál okának és körül
 
 - a) átültetés,
 - b) saját célú gyógykezelés,
-- c) kórisme megállapítása, továbbá
-- d) kutatás
+- c) kórisme megállapítása,
+- d) kutatás, valamint
+- e) tárolás
 
 céljából lehet külföldre, illetve külföldről Magyarország területére szállítani, ha nemzetközi egyezmény vagy megállapodás azt lehetővé teszi. Szervnek az a) pont szerinti célból történő külföldre szállításának további feltétele az, ha Magyarország területén nincs megfelelő recipiens.
 
@@ -4663,7 +4694,7 @@ az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/E
 
 (2) A honvédelemért felelős miniszter 2022. december 15. napjáig határozatban megállapítja azon egészségügyi munkakörű katonák és honvédelmi alkalmazottak által – az (1) bekezdés szerinti kiválást megelőzően – betöltött beosztásokat és munkaköröket, amelyek szükségesek a Magyar Honvédség egészségügyi feladatai ellátásához.
 
-(3) 2023. január 1-jével, az új egészségügyi szolgáltatónál létrejövő egészségügyi szolgálati jogviszonnyá alakul át annak a honvédelmi alkalmazottnak a honvédelmi alkalmazotti jogviszonya, aki 2022. december 31-én a 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltatónál olyan munkakört tölt be, amely nem tartozik a (2) bekezdés szerint meghatározott munkakörök közé. Az Eszjtv. 1. § (2) bekezdésétől eltérően az érintett személyek jogviszonyára az Eszjtv. rendelkezéseit – e §-ban foglalt eltérésekkel – 2023. január 1-jétől alkalmazni kell.
+(3) 2023. január 1-jével, az új egészségügyi szolgáltatónál létrejövő egészségügyi szolgálati jogviszonnyá alakul át annak a honvédelmi alkalmazottnak a honvédelmi alkalmazotti jogviszonya, aki 2022. december 31-én a 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltatónál olyan munkakört tölt be, amely nem tartozik a (2) bekezdés szerint meghatározott munkakörök közé. Az Eszjtv. 1. § (2) bekezdésétől eltérően az érintett személyek jogviszonyára az Eszjtv. rendelkezéseit – az (1)–(18) bekezdésében foglalt eltérésekkel – 2023. január 1-jétől alkalmazni kell.
 
 (4) A jogviszony (3) bekezdés szerinti átalakulására a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj.tv.) 25. §-át – e §-ban foglalt eltérésekkel – kell alkalmazni.
 
@@ -4702,6 +4733,34 @@ az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/E
 (17) Ha 2023. január 1-jén munkaügyi per fegyelmi elbocsátás tárgyában folyik, a honvédelmi alkalmazotti kereset elbírálásánál az azonnali hatályú felmondás szabályait kell megfelelően alkalmazni.
 
 (18) Az új egészségügyi szolgáltató működéséhez szükséges, 2023. január 1-jén még rendelkezésére nem álló szolgáltatások legkésőbb 2023. június 30. napjáig honvédelmi szervezet közreműködésével biztosíthatók. A felmerült költségeket az új egészségügyi szolgáltató teljes egészében megtéríti a honvédelmi szervezetnek.
+
+(19) Az Eszjtv. 1. § (2) bekezdésében foglaltaktól eltérően a Nemzeti Dialízis Központ Korlátolt Felelősségű Társaságra, és a Dialízis Eszközkezelő Korlátolt Felelősségű Társaságra (a továbbiakban együtt: Társaság) és a Társaság foglalkoztatottjaira az Eszjtv. rendelkezéseit 2025. január 1-jétől kell alkalmazni.
+
+(20) 2025. január 1-jével a Társaságnál létrejövő egészségügyi szolgálati jogviszonnyá alakul át annak a munkavállalónak a munkaviszonya, aki 2024. december 31-én a Társaságnál munkaviszonyban áll (a továbbiakban: érintett). Az Eszjtv. 1. § (2) bekezdésétől eltérően az érintett jogviszonyára az Eszjtv. rendelkezéseit – a (19)–(28) bekezdésben foglalt eltérésekkel – 2025. január 1-jétől alkalmazni kell.
+
+(21) A Társaság az érintetteket legkésőbb 2025. január 15-ig a jogviszony átalakulásáról és az új jogviszony tartalmáról egyoldalú jognyilatkozattal tájékoztatja. Ezen egyoldalú jognyilatkozatot az Eszjtv. 2. § (1) bekezdése szerinti egészségügyi szolgálati munkaszerződésnek kell tekinteni. Ha az érintett a (20) bekezdés szerint átalakult egészségügyi szolgálati jogviszonyát nem kívánja fenntartani, arról az egyoldalú jognyilatkozat kézhezvételét követő 5 munkanapon belül írásban nyilatkozhat.
+
+(22) Ha az érintett a (21) bekezdés szerinti határidőn belül akként nyilatkozik írásban, hogy az egészségügyi szolgálati jogviszonyát nem kívánja fenntartani, akkor az egészségügyi szolgálati jogviszonya e törvény erejénél fogva a nyilatkozattételt követő első munkanappal megszűnik.
+
+(23) A határozott időre szóló munkaszerződés azzal azonos lejáratú, a részmunkaidőre szóló azzal azonos részmunkaidőre szóló egészségügyi szolgálati munkaszerződéssé alakul át.
+
+(24) Ha e törvény alapján az érintett vonatkozásában jogviszonyváltásra kerül sor, a Társaságnál létesülő egészségügyi szolgálati jogviszony alapján a foglalkoztatott illetménye a Társaságnál létesült új jogviszonyának fennállásáig – ide nem értve az Eszjtv. 7. § (3a) bekezdése szerinti esetet – nem lehet alacsonyabb, mint az átadást megelőzően irányadó munkabérének, és a jogszabályon, valamint munkáltatói döntés alapján járó rendszeres juttatásainak együttes összege.
+
+(25) A (20) bekezdés szerinti jogviszonyátalakulás nem minősül jogviszony megszűnésnek az Mt. 125. §-a alkalmazása szempontjából.
+
+(26) A (20) bekezdés szerinti jogviszonyátalakulás során
+
+- a) a ki nem adott szabadság, rendelkezésre állási és munkavégzési kötelezettség teljesítése alóli egyéb mentesítés nem váltható meg, arra a volt munkavállaló az új jogviszonyban jogosult, azzal, hogy az ilyen szabadságot az Mt. 123. §-ától eltérően 2026. december 31-ig kell kiadni, megváltásával kapcsolatos igény elévülésével kapcsolatos esetben az egészségügyi szolgálati jogviszony szabályai az irányadók,
+- b) a 2024. december 31. utáni időszakot érintő munkaidőkeret nem zárható le,
+- c) az Eszjtv. 13. § (5) bekezdését alkalmazni kell.
+
+(27) Az új egészségügyi szolgálati jogviszonyban
+
+- a) a munkaviszonyhoz kapcsolódó alkalmasság-vizsgálat, illetve a hatósági erkölcsi bizonyítvány érvényessége továbbra is fennáll,
+- b) tovább folyik a megszűnt munkaviszonyban kikötött, 2024. december 31. napja utáni időszakot érintő próbaidő, felmentési idő, munkaidőkeret időtartama, megkezdett szabadság, fizetés nélküli szabadság, valamint egyéb, a munkaviszonnyal összefüggő határidő,
+- c) változatlanul hatályos a megszűnt munkaszerződésben tett, 2025. január 1-jét megelőző időszakot érintő kirendelés és egyéb jognyilatkozat, munka irányításával összefüggő jognyilatkozat, a felek által megkötött tanulmányi szerződés, az önként vállalt többletmunkáról szóló és egyéb megállapodás, és a vezetői megbízás jogszabály eltérő rendelkezése hiányában.
+
+(28) Az érintett az egészségügyi szolgálati jogviszonyához kapcsolódó összeférhetetlenséget 2025. február 28-ig köteles megszüntetni.
 
 #### 244/C. §
 
@@ -4765,6 +4824,8 @@ időtartamnak a megszűnt jogosultság szerinti gazdasági tevékenységéből s
 - b) határozatlan idejű szerződés esetén 2025. december 31-ig
 
 hatályban marad.
+
+244/N. § E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 155. § (11b) bekezdése szerinti vagyonkezelés átadásáról 2026. március 1-jéig szükséges gondoskodni.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 

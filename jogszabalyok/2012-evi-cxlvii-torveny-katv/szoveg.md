@@ -53,7 +53,7 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 
 - 20. kedvezményezett foglalkoztatott után érvényesíthető kedvezmény:
   - a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka;
-  - b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első két évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás harmadik évében;
+  - b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első évében, továbbá személyenként bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás ezt követő további hat hónapjában;
   - c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első három évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében;
   - d) a 19. pont d) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a foglalkoztatott után megállapított Szocho. tv. szerinti adóalap, de havonta legfeljebb a minimálbér kétszerese;
   - e) a 19. pont e) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér kétszerese;

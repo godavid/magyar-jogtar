@@ -396,7 +396,7 @@ azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek 
 
 19. § A 2. § b) pontja a következő eseteket foglalja magában:
 
-- a) terméknek adóalany vagy nem adóalany jogi személy általi beszerzése, feltéve, hogy az értékesítő olyan adóalanyként jár el, aki (amely) a Közösség azon tagállamában, ahol adóalanyként nyilvántartásba vették, nem részesül e tagállam azon joga szerinti adómentességben, amely tartalmában a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK tanácsi irányelv (a továbbiakban: Héa-irányelv) 282–292. cikkeinek felel meg, és akinek (amelynek) ez a termékértékesítése nem tartozik a 29. és 32. § alkalmazása alá;
+- a) terméknek adóalany vagy nem adóalany jogi személy általi beszerzése, feltéve, hogy az értékesítő olyan adóalanyként jár el, aki (amely) a Közösség érintett tagállamában nem részesül e tagállam azon joga szerinti adómentességben, amely tartalmában a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK tanácsi irányelv (a továbbiakban: Héa-irányelv) 284. cikkének felel meg, és akinek (amelynek) ez a termékértékesítése nem tartozik a 29. és 32. § alkalmazása alá;
 - b) új közlekedési eszköz beszerzése;
 - c) jövedéki terméknek adóalany vagy nem adóalany jogi személy általi beszerzése, feltéve, hogy a beszerzés után jövedékiadó-fizetési kötelezettség keletkezik
 
@@ -559,7 +559,9 @@ azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek 
 - a) indulási helye: az a hely, ahol a termék fuvarozása ténylegesen megkezdődik, ide nemértve azt az útszakaszt, amely a fuvarozandó termék berakodásának helyéig tart;
 - b) érkezési helye: az a hely, ahol a termék fuvarozása ténylegesen befejeződik.
 
-42. § Adóalany részére nyújtott olyan szolgáltatások esetében, amelyek kulturális, művészeti, tudományos, oktatási, szórakoztatási, sport- vagy más hasonló eseményekre, rendezvényekre (így különösen: kiállítások, vásárok és bemutatók) való belépést biztosítják, ideértve az előbbiekhez járulékosan kapcsolódó szolgáltatásokat is, a teljesítés helye az a hely, ahol az eseményt, rendezvényt ténylegesen megrendezik.
+42. § (1) Adóalany részére nyújtott olyan szolgáltatások esetében, amelyek kulturális, művészeti, tudományos, oktatási, szórakoztatási, sport- vagy más hasonló eseményekre, rendezvényekre (így különösen: kiállítások, vásárok és bemutatók) való belépést biztosítják, ideértve az előbbiekhez járulékosan kapcsolódó szolgáltatásokat is, a teljesítés helye az a hely, ahol az eseményt, rendezvényt ténylegesen megrendezik.
+
+(2) Az (1) bekezdés nem alkalmazandó, ha az eseményen, rendezvényen a részvétel virtuálisan történik.
 
 43. § (1) A következő, nem adóalany részére nyújtott szolgáltatások esetében a teljesítés helye az a hely, ahol a szolgáltatást ténylegesen teljesítik:
 
@@ -569,6 +571,8 @@ azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek 
 - d) kulturális, művészeti, tudományos, oktatási, szórakoztatási és sportszolgáltatások, továbbá más, ezekhez hasonló szolgáltatások (így különösen: kiállítások, vásárok és bemutatók rendezése), ideértve ezek szervezését is, valamint az előbbiekhez járulékosan kapcsolódó szolgáltatásokat is.
 
 (2) Az (1) bekezdés a) pontjában említett személy szállításához, termék fuvarozásához járulékosan kapcsolódó szolgáltatások körébe tartozik a be-, ki- és átrakodás is.
+
+(3) Az (1) bekezdés d) pontjától eltérően, ha az ott meghatározott szolgáltatások olyan tevékenységekhez kapcsolódnak, amelyeket online közvetítés útján vagy egyéb virtuális megoldás segítségével tesznek hozzáférhetővé, a teljesítés helye az a hely, ahol a szolgáltatást igénybe vevő nem adóalany letelepedett, letelepedés hiányában pedig ahol lakóhelye vagy szokásos tartózkodási helye van.
 
 44. § (1) Közlekedési eszközök rövid időtartamú bérbeadása esetében a teljesítés helye az a hely, ahol a közlekedési eszközt ténylegesen a bérbevevő birtokába adják.
 
@@ -1669,7 +1673,7 @@ annak importja történik az 54. § értelmében, és egyúttal annak értékes�
 
 121. § Az előzetesen felszámított adó levonásának joga megilleti az adóalanyt akkor is, ha a terméket, szolgáltatást
 
-- a) olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye külföld, de amelyet, ha belföldön teljesítene, adólevonásra jogosító termékértékesítésének, szolgáltatásnyújtásának minősülne;
+- a) olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye külföld, de amelyet, ha belföldön teljesítene, adólevonásra jogosító termékértékesítésének, szolgáltatásnyújtásának minősülne, ide nem értve a Közösség másik, a teljesítés helye szerinti tagállamának azon joga szerinti adómentesség hatálya alá tartozó azon ügyletet, amely tartalmában a Héa-irányelv 284. cikkének felel meg;
 - b) a 87/A. §, a 89. §, a 92. §, a 93. § (2) bekezdése, valamint a 98–117. § szerint adómentes termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja;
 - c) a 86. § (1) bekezdésének a)–f) pontjai szerint adómentes szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, feltéve, hogy
   - ca) a szolgáltatás igénybevevője gazdasági céllal a Közösség területén kívül telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van a Közösség területén kívül; vagy
@@ -1893,6 +1897,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 - h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében;
 - i) a 6/A. számú mellékletben felsorolt termékek értékesítése esetében;
 - j) a 6/B. számú mellékletben felsorolt termék értékesítése esetén, amennyiben az nem tartozik a XVI. Fejezet szerinti különös rendelkezések hatálya alá.
+- k) az adóalany-kereskedő által teljesített 34. § (1) bekezdés a) pontja szerinti termékértékesítés esetében.
 
 (2) Az (1) bekezdés f) és g) pontja szerinti ingatlanértékesítésre az (1) bekezdés e) pontjában meghatározottaknak is teljesülniük kell.
 
@@ -1914,7 +1919,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 
 (8) Az (1) bekezdés i) pontja nem alkalmazható a XIV. Fejezetben szabályozott jogállású, mezőgazdasági tevékenységet folytató adóalanynak e tevékenysége körébe tartozó termékértékesítésére és termékbeszerzésére.
 
-(9) Az adóalany az (1) bekezdés i) és j) pontja alá tartozó termékértékesítéséről, illetve az (1) bekezdés i) és j) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzéséről a 6/C. számú melléklet szerinti nyilatkozattételre kötelezett.
+(9) Az adóalany az (1) bekezdés i)–k) pontja alá tartozó termékértékesítéséről, illetve az (1) bekezdés i)–k) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzéséről a 6/C. számú melléklet szerinti nyilatkozattételre kötelezett.
 
 ### Adófizetésre kötelezett termék Közösségen belüli beszerzése esetében
 
@@ -2341,11 +2346,13 @@ számlakibocsátási kötelezettséget jelent.
 - b) a 159. § (2) bekezdésének b) pontjában és a 165. § (1) bekezdésének b) pontjában meghatározott esetben az ott említett személy, szervezet az adóalanytól számla kibocsátását kéri, feltéve, hogy a számlán szereplő adatok egyébként forintban kifejezettek;
 - c) a számlakibocsátásra jogalapot teremtő ügylet a 159. § (2) bekezdésének c) vagy d) pontjai alá tartozik;
 - d) a számla adóval növelt végösszege nem haladja meg a 100 eurónak megfelelő pénzösszeget, feltéve, hogy a számlakibocsátásra jogalapot teremtő ügylet a 29. § vagy a 89. § szerinti termékértékesítéstől eltérő ügylet, továbbá a számlakibocsátásra a 159. § (2) bekezdés c) és d) pontjában említett esetektől eltérő esetben kerül sor.
+- e) a számlakibocsátásra jogalapot teremtő ügyletet a 187. § (1) bekezdése vagy a 195/G. § (1) bekezdése szerinti alanyi adómentesség hatálya alá tartozó adóalany e minőségében teljesíti.
 
 (2) A számla egyszerűsített adattartalma azt jelenti, hogy
 
 - a) az (1) bekezdés a), b) és d) pontjában említett esetben a 169. §-ban felsorolt adatok közül az i) pontban megjelölt helyett az ellenérték adót is tartalmazó összege, valamint a j) pontban megjelölt helyett az alkalmazott adómértéknek megfelelő, a 83. § szerint meghatározott százalékérték feltüntetése kötelező azzal, hogy egyúttal a k) pontban megjelölt adat nem tüntethető fel;
 - b) az (1) bekezdés c) pontjában említett esetben a 169. §-ban felsorolt adatok közül csak az a)–g) és n) pontban megjelöltek kitöltése, továbbá az i) pontban megjelölt helyett az ellenérték pénzben kifejezett összegének feltüntetése kötelező.
+- c) az (1) bekezdés e) pontjában említett esetben a 169. §-ban felsorolt adatok közül csak az a)–g) és m) pontban megjelöltek kitöltése, továbbá az i) pontban megjelölt helyett az ellenérték pénzben kifejezett összegének feltüntetése kötelező.
 
 (3) Az egyszerűsített adattartalmú számlára a számla adattartalmára vonatkozó egyéb rendelkezéseket e §-sal összhangban kell alkalmazni.
 
@@ -2526,7 +2533,9 @@ számlakibocsátási kötelezettséget jelent.
 
 ### XIII. Fejezet — ALANYI ADÓMENTESSÉG
 
-187. § (1) Az az adóalany, aki (amely) gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön, jogosult az e fejezetben meghatározottak szerint alanyi adómentességet választani.
+#### 1. Az alanyi adómentességnek a belföldön letelepedett adóalanyok által belföldön történő alkalmazására vonatkozó szabályok
+
+187. § (1) Az az adóalany, akinek (amelynek) gazdasági tevékenységének székhelye, ennek hiányában pedig lakóhelye belföldön van, jogosult az ezen alcímben meghatározottak szerint belföldön alanyi adómentességet választani.
 
 (2) Abban az esetben, ha az adóalany él az (1) bekezdésben említett választási jogával, az alanyi adómentesség időszakában az adóalany alanyi adómentes minőségében
 
@@ -2548,7 +2557,7 @@ nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 - a) az adóalany vállalkozásában
   - aa) tárgyi eszközként használt termék értékesítése,
   - ab) immateriális jószágként használt, egyéb módon hasznosított vagyoni értékű jog végleges átengedése,
-- b) az aa) alpont alá nem tartozó új közlekedési eszköz 89. § (1) és (2) bekezdés szerinti értékesítése,
+- b)
 - c) az aa) alpont alá nem tartozó beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet értékesítése, amelynek
   - ca) első rendeltetésszerű használatbavétele még nem történt meg, vagy
   - cb) első rendeltetésszerű használatbavétele megtörtént, de a használatbavételi engedély véglegessé válása, a használatbavétel tudomásulvétele vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év, vagy
@@ -2581,13 +2590,14 @@ fejében megtérített vagy megtérítendő ellenérték.
 
 193. § (1) Az adóalany az alanyi adómentesség időszakában nem járhat el alanyi adómentes minőségében
 
-- a) a 188. § (3) bekezdésének a)–d) és h) pontjában meghatározott esetekben;
+- a) a 188. § (3) bekezdésének a), c)–d) és h) pontjában meghatározott esetekben;
 - b) a 11. és 12. § szerinti termékértékesítése esetében;
 - c) a 14. § szerinti szolgáltatásnyújtása esetében;
 - d) a külföldön teljesített szolgáltatásnyújtása és a Közösség belföldtől eltérő területén teljesített 12/B. § szerinti termékértékesítése esetében;
 - e) a terméknek a 19. § a) pontja szerinti Közösségen belüli beszerzése esetében, illetőleg abban az esetben sem, ha élt a 20. § (5) bekezdésében említett választási jogával, vagy ha a 20. § (7) bekezdése vonatkozik rá;
 - f) a terméknek a 19. § b) és c) pontja szerinti Közösségen belüli beszerzése esetében;
 - g) termék importja esetében.
+- h) a 188. § (3) bekezdés a) pont aa) alpontja alá nem tartozó új közlekedési eszköz 89. § (1) és (2) bekezdés szerinti értékesítése esetében.
 
 (2) Az adóalany nem járhat el alanyi adómentes minőségében abban az esetben sem, ha az alanyi adómentesség időszakát megelőzően keletkezett levonható előzetesen felszámított adó összegét meghatározó tényezőkben utólag, az alanyi adómentesség időszakában olyan változás következik be, amelynek eredményeként az eredetileg levonható előzetesen felszámított adó összegét a különbözet csökkenti, és amelynek rendezésére a 153/C. § (1) bekezdése alkalmazandó.
 
@@ -2600,23 +2610,142 @@ fejében megtérített vagy megtérítendő ellenérték.
 (2) Az (1) bekezdéstől eltérően:
 
 - a) a 11. § (2) bekezdésének a) pontja,
-- b) a 188. § (3) bekezdésének aa) alpontja,
-- c) a 188. § (3) bekezdésének b)–d) pontjai,
-- d) a 188. § (3) bekezdésének h) pontja, és
-- e) a 193. § (1) bekezdésének d) pontja
+- b) a 188. § (3) bekezdésének a) pont aa) alpontja,
+- c) a 188. § (3) bekezdésének c)–d) pontjai,
+- d) a 188. § (3) bekezdésének h) pontja,
+- e) a 193. § (1) bekezdésének d) pontja, és
+- f) a 193. § (1) bekezdés h) pontja
 
-szerinti termékértékesítése, szolgáltatásnyújtása esetében az adóalany jogosult az alanyi adómentesség időszakában keletkezett, az a)–e) pontokhoz kapcsolódó előzetesen felszámított adó levonására.
+szerinti termékértékesítése, szolgáltatásnyújtása esetében az adóalany jogosult az alanyi adómentesség időszakában keletkezett, az a)–f) pontokhoz kapcsolódó előzetesen felszámított adó levonására.
 
 (3) A (2) bekezdés szerinti jog gyakorlására egyebekben az előzetesen felszámított adó levonására vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal az eltéréssel, hogy
 
-- a) a (2) bekezdés c) pontjában említett esetben az adólevonási jog keletkezésére és az előzetesen felszámított adóként figyelembe vehető összeg megállapítására a 122. §-t,
+- a) a (2) bekezdés c) és f) pontjában említett esetben az adólevonási jog keletkezésére és az előzetesen felszámított adóként figyelembe vehető összeg megállapítására a 122. §-t,
 - b) a (2) bekezdés e) pontjában említett esetben az adólevonási jog terjedelmére a 121. § a) pontját
 
 kell alkalmazni.
 
 (4) Az (1) bekezdéstől eltérően az adóalany jogosult továbbá a 193. § (1) bekezdés g) pontja szerinti adó levonására, feltéve, hogy az importált termékkel a 12/B. § (2) bekezdése szerinti termékértékesítést teljesít a Közösség valamely tagállamában.
 
-196. § Az alanyi adómentesség időszakában keletkezett előzetesen felszámított adóra – a 195. § (2) bekezdésében említett kivétellel – az adóalany a későbbiekben sem alapíthat adólevonási jogot.
+(5) Az alanyi adómentesség időszakában keletkezett előzetesen felszámított adóra – a (2) bekezdésben említett kivétellel – az adóalany a későbbiekben sem alapíthat adólevonási jogot.
+
+#### 2. Az adómentességnek a belföldön letelepedett adóalanyok által a Közösség másik tagállamában történő választására vonatkozó szabályok
+
+195/A. § (1) Az az adóalany, akinek (amelynek) székhelye belföldön van, ennek hiányában lakóhelye van belföldön, jogosult az ezen alcímben meghatározottak szerint adómentességet választani a Közösség azon másik tagállamában, amely biztosítja a tartalmában a Héa-irányelv 284. cikkének megfelelő adómentesség alkalmazását.
+
+(2) Ezen alcím alkalmazásában:
+
+- a) uniós árbevétel: az adóalany által a Közösség területén teljesített termékértékesítések és szolgáltatásnyújtások ellenértékének 188. § (3) bekezdéssel összhangban számított, adó nélküli összege;
+- b) tagállami árbevétel: az adóalany által egy adott tagállamban teljesített termékértékesítések és szolgáltatásnyújtások ellenértékének 188. § (3) bekezdéssel összhangban számított, adó nélküli összege.
+
+(3) Az (1) bekezdés szerinti adómentesség abban az esetben választható, ha
+
+- a) sem a tárgy naptári évet megelőző naptári évben ténylegesen,
+- b) sem a tárgy naptári évben ténylegesen
+
+az adóalany göngyölített uniós árbevétele nem haladja meg a 100 000 eurót és az érintett tagállamban a göngyölített tagállami árbevétele nem haladja meg az érintett tagállam által alkalmazott adómentességi árbevételi értékhatárt.
+
+(4) Az adóalany az (1) bekezdés szerint választásáról előzetesen nyilatkozik az állami adó- és vámhatóságnak. Az állami adó- és vámhatóság az (1) bekezdés szerinti adómentesség alkalmazásához – a feltételek fennállása esetén – a nyilatkozatot tevő adóalanyt – legkésőbb a nyilatkozat beérkezésétől számított harmincötödik munkanapig – egyedi azonosítószámmal látja el és erről az adóalanyt elektronikus úton értesíti. Az egyedi azonosítószám tartalmazza az „EX” utótagot. Az egyedi azonosítószám érvényességét az állami adó- és vámhatóság tagállamonként állapítja meg.
+
+(5) A (4) bekezdéstől eltérően az állami adó- és vámhatóság legkésőbb a (4) bekezdés szerinti nyilatkozat állami adó- és vámhatósághoz történő beérkezésétől számított harmincötödik munkanapon értesíti a nyilatkozatot benyújtó adóalanyt arról, ha az (1) bekezdés szerinti adómentesség választásával érintett tagállam tájékoztatása alapján a (4) bekezdés szerinti egyedi azonosítószám érvényességének vagy az adott tagállam tekintetében történő érvényességének megállapítása a nyilatkozat beérkezésétől számított harmincöt munkanapon belül nem lehetséges.
+
+(6) Az adóalany a (4) bekezdés szerinti nyilatkozat módosításával előzetesen tájékoztatja az állami adó- és vámhatóságot a korábbi nyilatkozatban közölt adatok változásáról, ideértve azt is, ha változik azon, a korábbi nyilatkozatban megjelölt tagállamok köre, amelyekben élni kíván az (1) bekezdés szerinti adómentességgel. Az állami adó- és vámhatóság a módosításban megjelölt tagállamok tekintetében – legkésőbb a módosítás beérkezésétől számított harmincötödik munkanapig, a feltételek fennállása esetén – az adóalany (4) bekezdés szerinti egyedi azonosítószámának érvényességét megállapítja, illetve az azonosítószámot érvényteleníti.
+
+(7) A (6) bekezdéstől eltérően a (6) bekezdés szerinti módosítás esetén az állami adó- és vámhatóság az (5) bekezdés szerint jár el, ha a módosításban megjelölt tagállam tekintetében a (4) bekezdés szerinti egyedi azonosítószám érvényességének megállapítása a módosítás beérkezésétől számított harmincöt munkanapon belül nem lehetséges.
+
+(8) A (4) bekezdés szerinti nyilatkozatnak és a (6) bekezdés szerinti módosításnak a következő adatokat kell tartalmaznia:
+
+- a) az adóalany
+  - aa) neve,
+  - ab) tevékenysége,
+  - ac) jogi formája,
+  - ad) székhelye, annak hiányában lakóhelye,
+  - ae) belföldi és – amennyiben van – a 258. § (3) bekezdés b) pontja szerinti adószáma(i),
+  - af) elektronikus levelezési címe és telefonszáma;
+- b) a Közösség azon tagállama(i) amely(ek)ben az adóalany élni kíván az (1) bekezdés szerinti adómentességgel;
+- c) a nyilatkozatot, vagy a módosítást megelőző naptári év tagállami árbevételeinek éves szinten göngyölített összege a Közösség minden tagállamának – ideértve belföldet is – vonatkozásában;
+- d) a nyilatkozatot, vagy a módosítást megelőzően a tárgy naptári év tagállami árbevételeinek göngyölített összege a Közösség minden tagállamának – ideértve belföldet is – vonatkozásában;
+- e) az adóalany által belföldön és a Közösség azon másik tagállamában, amely élt a Héa-irányelv 288a. cikk (1) bekezdés első albekezdése szerinti lehetőséggel, a nyilatkozatot megelőző második naptári évben teljesített tagállami árbevétel éves szinten göngyölített összege.
+
+(9) Ha az adóalany a (6) bekezdés szerint arról tájékoztatja az állami adó- és vámhatóságot, hogy a korábbi nyilatkozatban megjelölt tagállamoktól eltérő tagállamban vagy tagállamokban kíván élni az (1) bekezdés szerinti adómentességgel, a (8) bekezdés szerinti adatokat nem köteles megadni abban az esetben, ha ezeket az adatokat a 195/B. § alapján korábban már megadta. A korábbi nyilatkozat (6) bekezdés szerinti módosításában az adóalany köteles feltüntetni a (4) bekezdés szerinti egyedi azonosítószámot.
+
+195/B. § (1) Az az adóalany, aki (amely) élt a 195/A. § (1) bekezdése szerinti választási lehetőséggel, minden naptári negyedévre vonatkozóan köteles adatot szolgáltatni az állami adó- és vámhatóságnak a következőkről:
+
+- a) az adott naptári negyedévben belföldön teljesített tagállami árbevétele, és
+- b) az adott naptári negyedévben a Közösség belföldtől eltérő más tagállamaiban teljesített tagállami árbevétele tagállamonkénti bontásban.
+
+(2) Ha az adott naptári negyedévben az adott tagállam vonatkozásában nem történt termékértékesítés, szolgáltatásnyújtás, az adatszolgáltatásban nulla tagállami árbevételt kell feltüntetni.
+
+(3) Az adóalany a tárgy naptári negyedévet követő hónap utolsó napjáig köteles benyújtani az (1) bekezdés szerinti adatokat.
+
+(4) Az adóalany 15 munkanapon belül tájékoztatja az állami adó- és vámhatóságot, ha a tárgyévben göngyölített uniós árbevétele meghaladja a 100 000 eurót. Ezzel egyidejűleg az adóalany adatot szolgáltat az (1) bekezdés szerinti tagállami árbevételek tárgy naptári negyedév kezdetétől az említett értékhatár átlépésének időpontjáig göngyölített összegéről.
+
+(5) Az (1)–(4) bekezdés szerinti adatszolgáltatásnak tartalmaznia kell az adóalany 195/A. § (4) bekezdése szerinti egyedi azonosítószámát.
+
+195/C. § (1) A 195/A. § (8) bekezdés c)–e) pontjainak, valamint a 195/B. § (1) és (4) bekezdésének alkalmazásában az összegeket euróban kell megadni. Az eurótól eltérő pénznemben számított tagállami és uniós árbevétel euróra történő átváltásához az adóalany az érintett naptári év első napján érvényes átváltási árfolyamot köteles alkalmazni. Az átváltást az Európai Központi Bank által az adott napra vonatkozóan közzétett átváltási árfolyamon kell elvégezni, vagy ha az adott napon nem tettek közzé árfolyamot, akkor a következő közzétételi napon kiadott árfolyamon.
+
+(2) Ha a Közösség adott tagállama az adómentességre több értékhatárt is alkalmaz, akkor ezen tagállam vonatkozásában a 195/A. § (8) bekezdés c)–e) pontja, valamint a 195/B. § (1) és (4) bekezdése szerinti tagállami árbevételt ezen értékhatárok tekintetében releváns számítás szerinti bontásban kell megadni.
+
+195/D. § A 195/A. § (4) bekezdés szerinti nyilatkozatot, illetve annak (6) bekezdés szerinti módosítását, valamint a 195/B. § (1)–(2) és (4) bekezdése szerinti adatokat elektronikus úton, az állami adó- és vámhatóság által ezen célra kialakított elektronikus felületen kell benyújtani az állami adó- és vámhatósághoz.
+
+195/E. § Ha
+
+- a) az adóalany 195/B. § szerinti adatszolgáltatása alapján az uniós árbevételének tárgyévi göngyölített összege meghaladja a 100 000 eurót;
+- b) a 195/A. § (1) bekezdése szerinti választással érintett tagállam értesíti az állami adó- és vámhatóságot arról, hogy az adóalany ezen tagállamban nem jogosult az adómentességre vagy az adómentességet ezen tagállamban már nem alkalmazzák;
+- c) az adóalany bejelentette az állami adó- és vámhatóságnak, hogy a 195/A. § (1) bekezdése szerinti választással érintett tagállamban a továbbiakban nem kívánja igénybe venni az adómentességet; vagy
+- d) az adóalany bejelentette az állami adó- és vámhatóságnak – vagy más okból feltételezhető –, hogy a 195/A. § (1) bekezdése szerinti választással érintett tagállamban tevékenysége befejeződött,
+
+az állami adó- és vámhatóság érvényteleníti a 195/A. § (4) bekezdése szerinti egyedi azonosítószámot. Ha az adóalany a b)–d) pontokban említett, érintett tagállamon kívül egy vagy több további tagállamban továbbra is él a 195/A. § (1) bekezdése szerinti választással, az állami adó- és vámhatóság a b)–d) pontokban említett tagállamok tekintetében érvényteleníti az egyedi azonosítószámot. Az érvénytelenítés azon tagállami szabályozásnak megfelelő nappal hatályosul, amely tartalmában a Héa-irányelv XII. cím 1. fejezet 2. szakaszában foglaltaknak felel meg.
+
+195/F. § Ha a 195/A. § (1) bekezdése szerinti adómentesség alkalmazása során az adóalany tárgyévi göngyölített uniós árbevétele meghaladta a 195/A. § (3) bekezdésében említett értékhatárt, az adóalany az értékhatár túllépésének évét követő naptári év végéig nem élhet újra a 195/A. § (1) bekezdése szerinti választási joggal.
+
+#### 3. Az alanyi adómentességnek a belföldön nem letelepedett adóalanyok által belföldön történő alkalmazására vonatkozó szabályok
+
+195/G. § (1) Az az adóalany, akinek (amelynek) gazdasági tevékenységének székhelye, ennek hiányában lakóhelye a Közösség másik tagállamában van, jogosult az ezen alcímben meghatározott eltéréssel e fejezet 1. alcímében meghatározottak szerint belföldön alanyi adómentességet választani.
+
+(2) Ezen alcím alkalmazásában
+
+- a) uniós árbevétel: az adóalany által a Közösség területén teljesített termékértékesítések és szolgáltatásnyújtások ellenértékének 188. § (3) bekezdéssel összhangban számított, adó nélküli összege;
+- b) belföldi árbevétel: az adóalany által belföldön teljesített termékértékesítések és szolgáltatásnyújtások ellenértékének 188. § (3) bekezdése szerint számított, adó nélküli összege.
+
+(3) Az (1) bekezdés szerinti esetben az alanyi adómentesség választhatóságához ezen fejezet 1. alcímében előírtakon túl az is szükséges, hogy
+
+- a) sem a tárgy naptári évet megelőző naptári évben ténylegesen,
+- b) sem a tárgy naptári évben ténylegesen
+
+az adóalany göngyölített uniós árbevétele ne haladja meg a 100 000 eurót.
+
+(4) A 192. §-tól eltérően az adóalany az (1) bekezdés szerinti választásáról a Közösség azon másik tagállamában nyilatkozik, amelyben székhellyel, ennek hiányában lakóhellyel rendelkezik.
+
+195/H. § (1) A 195/G. § (1) bekezdése szerinti választási jog gyakorlása esetén az adóalany azon naptól kezdődően jogosult belföldön az alanyi adómentesség alkalmazására, amely napon a székhelye, ennek hiányában lakóhelye szerinti tagállamának illetékes hatósága közölte vele, vagy Magyarország tekintetében megerősítette azon egyedi azonosítószámot, amely tartalmában megfelel a Héa-irányelv 284. cikk (3) bekezdés harmadik albekezdésében foglaltaknak, de legkésőbb az alanyi adómentesség belföldön történő választására vonatkozó nyilatkozatának ezen hatósághoz történő beérkezésétől számított 35. munkanaptól.
+
+(2) Ha az (1) bekezdésben hivatkozott tagállam illetékes hatósága az adóalanyt arról tájékoztatja, hogy az adókijátszás és adóelkerülés érdekében az (1) bekezdés szerinti 35 munkanapnál hosszabb időre van szükség az ellenőrzések elvégzéséhez, az alanyi adómentesség belföldön az (1) bekezdésben hivatkozott egyedi azonosítószám adóalannyal való közlésétől vagy Magyarország tekintetében történő megerősítésétől alkalmazható.
+
+195/I. § A 99. § (10) bekezdésének, a 169. § c) pontjának, valamint a 173. § c) pontjának alkalmazásában adószám alatt a 195/H. § (1) bekezdése szerinti egyedi azonosítószámot kell érteni.
+
+195/J. § Ha az adóalany élt a 195/G. § (1) bekezdés szerinti választási joggal, és a Közösség másik, a székhelye, ennek hiányában lakóhelye szerinti tagállamában forinttól eltérő külföldi pénznemben teljesíti Magyarország tekintetében a Héa-irányelv 284a. és 284b. cikkének megfelelő adatszolgáltatási kötelezettségét, az állami adó- és vámhatóság – a 188. § (2) bekezdés szerinti értékhatár nyomon követése érdekében – a külföldi pénznemről forintra történő átváltáshoz az érintett naptári év első napján érvényes átváltási árfolyamot alkalmazza. Az átváltást az Európai Központi Bank által az adott napra vonatkozóan közzétett átváltási árfolyamon kell elvégezni, vagy ha az adott napon nem tettek közzé árfolyamot, akkor a következő közzétételi napon kiadott árfolyamon.
+
+195/K. § (1) A 195/G. § (1) bekezdése szerinti alanyi adómentesség megszűnik, ha
+
+- a) az adóalany arról nyilatkozik, hogy a továbbiakban nem kívánja alkalmazni belföldön az alanyi adómentességet;
+- b) az adóalany tárgyévben göngyölített uniós árbevétele meghaladja a 195/G. § (3) bekezdésében említett értékhatárt;
+- c) a tárgy naptári évben a tényadatok alapján a 188. § (1) bekezdésének b) pontjában említett feltétel nem teljesül;
+- d) az adóalany bejelentette – vagy más okból feltételezhető –, hogy belföldön tevékenysége befejeződött;
+- e) a Közösség másik, az adóalany székhelye, ennek hiányában lakóhelye szerinti tagállama az a)–d) ponttól eltérő okokból érvényteleníti az adóalany azon egyedi azonosítószámát, amely tartalmában megfelel a Héa-irányelv 284. cikk (3) bekezdés harmadik albekezdésében foglaltaknak.
+
+(2) Az (1) bekezdés a) pontja szerinti nyilatkozatot az adóalany a székhelye, ennek hiányában lakóhelye szerinti tagállam illetékes hatósága részére nyújtja be.
+
+(3) Az (1) bekezdés a) pontja szerinti esetben az alanyi adómentesség a nyilatkozatnak a Közösség másik, a székhelye, ennek hiányában lakóhelye szerinti tagállamához történő beérkezését követő naptári negyedév első napjától szűnik meg. Ettől eltérően, ha a nyilatkozat a tárgy naptári negyedév utolsó hónapjában érkezik be, az alanyi adómentesség a beérkezést követő naptári negyedév második hónapjának első napjától szűnik meg.
+
+(4) Az (1) bekezdés b) pontja szerinti esetben az adóalany alanyi adómentes minőségében járhat el azon termékértékesítése, szolgáltatásnyújtása tekintetében, amelynek ellenértékével meghaladja az (1) bekezdés b) pontjában hivatkozott értékhatárt, feltéve, hogy ezen termékértékesítése, szolgáltatásnyújtása ellenértékével nem haladja meg a 188. § (2) bekezdésében meghatározott értékhatárt. Az ezt követően teljesített termékértékesítései, szolgáltatásnyújtásai tekintetében az adóalany nem járhat el alanyi adómentes minőségében.
+
+(5) Ha az alanyi adómentesség az (1) bekezdés b) pontja szerint szűnik meg, az adóalany, a (6) bekezdést is figyelembe véve, a 195/G. § (1) bekezdés szerinti választási joggal az (1) bekezdés b) pontjában hivatkozott értékhatár túllépésének évét követő naptári év végéig nem élhet.
+
+(6) Ha az alanyi adómentesség az (1) bekezdés c) pontja szerint szűnik meg, az adóalany a 195/H. § (1) bekezdés szerinti választási joggal az (1) bekezdés c) pontjában hivatkozott értékhatár túllépésének évét követő második naptári év végéig nem élhet.
+
+(7) Az (1) bekezdés d) pontja szerinti esetben, az alanyi adómentesség azzal a nappal szűnik meg, amikor az adóalany belföldön folytatott gazdasági tevékenysége befejeződik. Az adóalany gazdasági tevékenysége befejezésének tekinthető különösen, ha az adóalany két egymást követő naptári negyedévre vonatkozóan nem teljesíti a tartalmában a Héa-irányelv 284b. cikkében foglaltaknak megfelelő adatszolgáltatási kötelezettségét a Közösség azon tagállamában, amelyben székhellyel, ennek hiányában lakóhellyel rendelkezik.
+
+#### 196. §
 
 ### XIII/A. Fejezet — PÉNZFORGALMI ELSZÁMOLÁS
 
@@ -2890,7 +3019,7 @@ tünteti fel.
 
 - a) nem adóalany személy, szervezet;
 - b) olyan adóalany, akinek (amelynek) termékértékesítése a 87. § szerint mentes az adó alól;
-- c) alanyi adómentes adóalany vagy olyan adóalany, akire (amelyre) ilyen minőségében a Közösség nyilvántartásbavétele helye szerinti tagállamának azon joga vonatkozik, amely tartalmában megfelel a Héa-irányelv 282–292. cikkeinek, feltéve, hogy termékértékesítésének tárgya tárgyi eszköz;
+- c) alanyi adómentes adóalany vagy olyan adóalany, akire (amelyre) ilyen minőségében a Közösség érintett tagállamának azon joga vonatkozik, amely tartalmában megfelel a Héa-irányelv 284. cikke szerinti adómentességnek, feltéve, hogy termékértékesítésének tárgya tárgyi eszköz;
 - d) másik viszonteladó vagy olyan adóalany, akinek (amelynek) termékértékesítésére ilyen minőségében az érintett közösségi tagállamnak azon joga vonatkozik, amely tartalmában megfelel a Héa-irányelv 312–325. cikkeinek.
 
 217. § (1) Az adó alapja a viszonteladó árrése, csökkentve magával az árrésre jutó adó összegével.
@@ -2911,10 +3040,13 @@ tünteti fel.
 
 (2) A globális nyilvántartáson alapuló módszer választása mellett sem alkalmazható ez a módszer azon termékre, amelynek beszerzési ára meghaladja az 50 000 forintnak megfelelő pénzösszeget. Ilyen esetben a viszonteladó az (1) bekezdést sem alkalmazhatja.
 
-220. § (1) A belföldön nyilvántartásba vett viszonteladó – az állami adóhatóságnak tett előzetes bejelentése alapján – dönthet úgy is, hogy a következőkben felsorolt esetekben a termék értékesítésének adóalapját a 217. § szerint állapítja meg:
+220. § (1) A belföldön nyilvántartásba vett viszonteladó – az állami adó- és vámhatóságnak tett előzetes bejelentése alapján – dönthet úgy is, hogy a következőkben felsorolt esetekben a termék értékesítésének adóalapját a 217. § szerint állapítja meg:
 
 - a) műalkotásnak, gyűjteménydarabnak vagy régiségnek a viszonteladó általi közvetlen importja esetében;
-- b) műalkotás annak alkotójától vagy az alkotó jogutódjától történő közvetlen beszerzése esetében.
+- b) műalkotás annak alkotójától vagy az alkotó jogutódjától történő közvetlen beszerzése esetében;
+- c) műalkotás viszonteladónak nem minősülő adóalanytól történő közvetlen beszerzése esetében
+
+feltéve, hogy az érintett műalkotás, gyűjteménydarab vagy régiség viszonteladó részére történő értékesítésére vagy viszonteladó általi importjára normál adómérték alkalmazandó.
 
 (2) A globális nyilvántartáson alapuló módszer választása mellett sem alkalmazható ez a módszer az (1) bekezdésre kiterjedően. Ilyen esetben a viszonteladó a 219. § (1) bekezdését sem alkalmazhatja.
 
@@ -2980,7 +3112,7 @@ nem térhet el.
 
 - a) nem adóalany személy, szervezet;
 - b) olyan adóalany, akinek (amelynek) az eladási megbízással teljesülő termékértékesítése a 87. § szerint mentes az adó alól;
-- c) alanyi adómentes adóalany vagy olyan adóalany, akire (amelyre) ilyen minőségében a Közösség nyilvántartásbavétele helye szerinti tagállamának azon joga vonatkozik, amely tartalmában megfelel a Héa-irányelv 282–292. cikkeinek, feltéve, hogy az eladási megbízással teljesülő termékértékesítésének tárgya tárgyi eszköz;
+- c) alanyi adómentes adóalany vagy olyan adóalany, akire (amelyre) ilyen minőségében a Közösség érintett tagállamának azon joga vonatkozik, amely tartalmában megfelel a Héa-irányelv 284. cikke szerinti adómentességnek, feltéve, hogy az eladási megbízással teljesülő termékértékesítésének tárgya tárgyi eszköz;
 - d) viszonteladó vagy olyan adóalany, akinek (amelynek) az eladási megbízással teljesülő termékértékesítésére ilyen minőségében az érintett közösségi tagállamnak azon joga vonatkoznak, amely tartalmában megfelel a Héa-irányelv 312–325. cikkeinek.
 
 230. § Az eladási megbízás alapján a nyilvános árverés szervezője részére történő termékértékesítés akkor teljesül, amikor a nyilvános árverés szervezője a terméket a nyilvános árverésen értékesíti.
@@ -3823,7 +3955,7 @@ ezen különös szabályozás hatálya alá tartozó termékértékesítéshez k
 
 - a) az az adóalany, aki (amely) kizárólag a 85. § (1) bekezdése, 86. § (1) bekezdése vagy 87. §-a szerint adómentes termékértékesítést, szolgáltatásnyújtást végez;
 - b) az az adóalany, aki (amely) ilyen minőségében
-  - ba) alanyi adómentességben részesül;
+  - ba) a XIII. Fejezet 1., illetve 3. alcíme szerinti alanyi adómentességben részesül;
   - bb) mezőgazdasági tevékenységet folytatóként jár el.
 
 (3) Mentesül az Art. szerinti bejelentkezési kötelezettség alól az a belföldön gazdasági céllal nem letelepedett, belföldön lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany, aki (amely) belföldön
@@ -3835,6 +3967,8 @@ ezen különös szabályozás hatálya alá tartozó termékértékesítéshez k
 (4) Mentesül az Art. szerinti bejelentkezési kötelezettség alól a belföldön gazdasági céllal nem letelepedett, belföldön lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany harmadik államból importált termék távértékesítése, termék Közösségen belüli távértékesítése, ideértve azt az az esetet is, ha a 12/C. § (2) bekezdése szerint jár el, valamint nem adóalany részére nyújtott szolgáltatása tekintetében, feltéve, hogy adófizetési kötelezettségét a Közösség másik tagállamában teljesíti azon tagállami szabályozás alapján, amely tartalmában megfelel a Héa-irányelv XII. cím 6. fejezet 2–4. szakaszában foglaltaknak.
 
 (5) Mentesül az Art. szerinti bejelentkezési kötelezettség alól az az egyéni vállalkozónak nem minősülő természetes személy adóalany, aki kizárólag a 86. § (1) bekezdés l) pontja szerinti adómentes szolgáltatást nyújt, feltéve, hogy nem él a 88. § (1) bekezdés b) pont szerinti választási jogával és a 257/B. § szerint közösségi adószám kiváltására nem kötelezett.
+
+(6) Mentesül az Art. szerinti bejelentkezési kötelezettség alól a Közösség más tagállamában székhellyel, ennek hiányában lakóhellyel rendelkező adóalany a XIII. Fejezet 3. alcíme szerint alanyi adómentes tevékenysége tekintetében.
 
 ### Adóvisszatérítés kérelemre
 
@@ -3883,6 +4017,8 @@ közösségi adószám birtokában végezhet.
 257/G. § (1) Az adóalany – a 178. § (1a) bekezdésben meghatározott eltéréssel – a 4/A. számú mellékletben, valamint a 10. számú mellékletben meghatározottak szerint adatot szolgáltat az állami adó- és vámhatóság részére.
 
 (2) A 10. számú melléklet és a 178. § (1a) bekezdés szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+
+(3) A 195/G. § hatálya alá tartozó adóalany az általa e minőségében teljesített 2. § a) pontja szerinti termékértékesítésről, szolgáltatásnyújtásról kiállított, kibocsátott számlákról, számlával egy tekintet alá eső okiratokról az adatszolgáltatást azon, a székhelye, ennek hiányában lakóhelye szerinti tagállami szabályozás szerinti adatszolgáltatással is teljesítheti, mely tartalmában a Héa-irányelv 284b. cikkének felel meg.
 
 ### Ingatlan értékesítésére vonatkozó bejelentési szabály
 
@@ -4150,6 +4286,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gs) a Tanács (EU) 2020/284 irányelve (2020. február 18.) a 2006/112/EK irányelvnek a pénzforgalmi szolgáltatók számára egyes kötelezettségek bevezetése tekintetében történő módosításáról.
   - gt) a Tanács (EU) 2021/1159 irányelve (2021. július 13.) a 2006/112/EK irányelvnek az importra, valamint bizonyos termékértékesítésekre és szolgáltatásnyújtásokra vonatkozó, a Covid19-világjárványra válaszul bevezetett ideiglenes mentességek tekintetében történő módosításáról;
   - gu) a Tanács (EU) 2022/890 irányelve (2022. június 3.) a 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózási mechanizmus, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszakának meghosszabbítása tekintetében történő módosításáról.
+  - gv) a Tanács (EU) 2020/285 irányelve (2020. február 18.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a kisvállalkozásokra vonatkozó különös szabályozás tekintetében történő módosításáról és a 904/2010/EU rendeletnek a kisvállalkozásokra vonatkozó különös szabályozás megfelelő alkalmazásának nyomon követését célzó közigazgatási együttműködés és információcsere tekintetében történő módosításáról;
+  - gw) a Tanács (EU) 2022/542 irányelve (2022. április 5.) a 2006/112/EK és az (EU) 2020/285 irányelvnek a hozzáadottértékadó-mértékek tekintetében történő módosításáról;
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
   - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
 - i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról;
@@ -4547,6 +4685,12 @@ az állami adó- és vámhatóság részére.
 367. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése azokban az esetekben alkalmazható, amikor a pénzvisszatérítést az adóalany ezen rendelkezések hatálybalépésének napján vagy azt követő időpontban teljesíti.
 
 (2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése ezen rendelkezések hatálybalépésének időpontját megelőzően, de a 2023. december 31-ét követően teljesített pénzvisszatérítések esetében is alkalmazható feltéve, hogy az adóalany a pénzvisszatérítésből fakadó adóalap-csökkentési igényét más módon nem érvényesítette.
+
+369. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontját, 142. § (9) bekezdését, valamint a 6/C. számú melléklet 1a. és 2a. pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetében kell először alkalmazni, amelyek teljesítési időpontja 2025. január 1-jére vagy azt követő időpontra esik.
+
+(2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontja szerinti termékértékesítés esetén továbbra is a 2024. december 31-én hatályos szabályok szerint kell eljárni, ha a teljesítés időpontja 2025. január 1-jére vagy azt követő időpontra esik, de a terméket beszerző adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2025. január 1-jét megelőzően kellene megállapítani.
+
+(3) Amennyiben az e törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontja szerinti termékértékesítéshez fizetett előleg jóváírásának, kézhezvételének időpontja 2025. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a terméket beszerző adóalany adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -4991,8 +5135,10 @@ c) a számla kiállításának időpontja, illetve az első forgalomba helyezés
 
 #### Nyilatkozat a fordított adózás alá tartozó ügyletekről
 
-- 1. Az adóalany bevallásában nyilatkozik az adómegállapítási időszakban teljesített, a 142. § (1) bekezdés i) és j) pontja alá tartozó termékértékesítése tekintetében a termék beszerzőjének adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint – a 6/A. és 6/B. számú mellékletben meghatározott vámtarifaszám szerinti bontásban – az értékesített termék ezer forintra kerekített összegben meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
-- 2. Az adóalany bevallásában azon, a 142. § (1) bekezdés i) és j) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzései tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint – a 6/A. és 6/B. számú mellékletben meghatározott vámtarifaszám szerinti bontásban – a beszerzett termék ezer forintra kerekített összegben meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
+- 1. Az adóalany bevallásában nyilatkozik az adómegállapítási időszakban teljesített, a 142. § (1) bekezdés i) és j) pontja alá tartozó termékértékesítése tekintetében a termék beszerzőjének adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint – a 6/A. és 6/B. számú mellékletben meghatározott vámtarifaszám szerinti bontásban – az értékesített termék forintban meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
+- 1a. Az adóalany bevallásában nyilatkozik az adómegállapítási időszakban teljesített, a 142. § (1) bekezdés k) pontja alá tartozó termékértékesítése tekintetében a termék beszerzőjének adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint az értékesített termék forintban meghatározott adóalapjáról és köbméterben meghatározott mennyiségéről.
+- 2. Az adóalany bevallásában azon, a 142. § (1) bekezdés i) és j) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzései tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint – a 6/A. és 6/B. számú mellékletben meghatározott vámtarifaszám szerinti bontásban – a beszerzett termék forintban meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
+- 2a. Az adóalany bevallásában azon, a 142. § (1) bekezdés k) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzései tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint a beszerzett termék forintban meghatározott adóalapjáról és köbméterben meghatározott mennyiségéről.
 - 3. Az 1. és 2. pont alkalmazásában nem kell nyilatkozni a kilogrammban meghatározott mennyiségről, ha a termék külön jogszabály szerint hibrid vetőmagnak minősül és erről a tényről a terméket értékesítő nyilatkozik.
 
 ### 7. számú melléklet a 2007. évi CXXVII. törvényhez
@@ -5126,7 +5272,7 @@ Számla kiállítása, -kibocsátása
   - c) a számlában a 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
 - 10. A 9. pont szerinti számla módosítása vagy érvénytelenítése esetén a számlával egy tekintet alá eső okiratot befogadó adóalany abban a bevallásban, amelyben a módosítás, érvénytelenítés hatását figyelembe veszi, köteles a módosított, érvénytelenített számlát érintően a 9. pont szerint nyilatkozni. Ebben az esetben az adóalany nyilatkozik annak a számlának a 9. pontban meghatározott adatairól, amelyet a módosítás, érvénytelenítés érint, a módosítás számszaki hatásáról az adóalap és áthárított adó tekintetében, valamint a számlát módosító, érvénytelenítő okirat sorszámáról.
 - 11. Amennyiben az adóalany 59. § szerinti előleget fizetett, a teljesítésről kibocsátott, kiállított számla, számlával egy tekintet alá eső okirat vonatkozásában az előleg figyelembevételével adódó különbözetről is szolgáltat adatot.
-- 12. A 9–10. pont szerinti nyilatkozatra a bevallásra vonatkozó rendelkezéseket kell alkalmazni.
+- 12. A 9–11. pont szerinti nyilatkozatra a bevallásra vonatkozó rendelkezéseket kell alkalmazni, azzal az eltéréssel, hogy az adatokról forintra kerekítve kell adatot szolgáltatni.
 - 13. A XIII/A. Fejezet szerinti adózási módot választó adóalany által kibocsátott számla esetében a 9–10. pont szerinti nyilatkozatot csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban kell megtenni, amelyben ezen számla alapján az adóalany első alkalommal adólevonási jogot érvényesít.
 - 14. A XIII/A. Fejezet szerinti adózási módot választó adóalany termék beszerzése, szolgáltatás igénybevétele esetén a 9–10. pont szerinti nyilatkozatot ugyanazon számláról csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban teljesíti, amelyben ezen számla alapján első alkalommal adólevonási jogot érvényesít.
 - 15. Mentesül a 9–10. pontban meghatározott nyilatkozattételi kötelezettség alól az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti.

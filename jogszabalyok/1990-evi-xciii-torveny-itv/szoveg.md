@@ -64,7 +64,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 - a) a Magyar Állam,
 - b) a helyi önkormányzatok és azok társulásai,
-- c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság, valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
+- c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
 - d) az egyesület, a köztestület,
 - e) az egyházi jogi személy,
 - f) az alapítvány (ideértve a közalapítványt is), továbbá a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény,
@@ -195,6 +195,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - h) az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott, hitelviszonyt megtestesítő értékpapír megszerzése;
 - i) az örökhagyó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), valamint túlélő házastársa által megszerzett örökrész;
 - j) az örökhagyó testvére által megszerzett örökrész.
+- k) a nemzeti emléknek minősülő műemlék lakóépület, továbbá a nemzeti emléknek minősülő műemlék épületben lévő lakás öröklése;
 
 (2a) Az (1) bekezdés g) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi a lakóház felépítését. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -491,9 +492,11 @@ Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben
 
 (5) Gépjármű, pótkocsi tulajdonjoga, illetve gépjárműre, pótkocsira vonatkozó haszonélvezeti, használati jog meghatározott hányadának megszerzése esetén a megszerzett hányadra arányosan eső illetéket kell fizetni.
 
-(6) Nem kell az illetéket megfizetni, ha a vagyonszerző a tulajdonszerzés bejelentésével egyidejűleg külföldi kivitel céljából ideiglenes rendszám kiadását kéri, mindaddig, míg a gépjármű tartós belföldi használatához szükséges forgalmi engedély kiadását nem kéri vagy a gépjárművet belföldön nem értékesíti.
+(6) Nem kell az illetéket megfizetni, ha a vagyonszerző a tulajdonszerzés bejelentésével egyidejűleg külföldi kivitel céljából ideiglenes rendszám kiadását kéri, mindaddig, míg a gépjármű tartós belföldi használatához szükséges forgalmi engedély kiadását nem kéri vagy a gépjárművet belföldön nem ruházza át.
 
 (7)
+
+24/A. § A 2024. évet követően a 24. § (1) és (2) bekezdése szerinti illeték mértéke a tárgyévet megelőző évi illeték mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege. A 24. § (1) bekezdés szerinti mértékeket 50 vagy 100 forintra, a 24. § (2) bekezdésben említett illeték mértékeket 1000 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az állami adó- és vámhatóság a honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
 ### Illeték közös tulajdon megszüntetése esetén
 
@@ -632,9 +635,15 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
   - ab) a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítés,
   - ac) a birtokösszevonási célú földcsere,
   - ad) a termőföld tulajdonjogának, vagyoni értékű jogának az agrárgazdaságok átadásáról szóló törvény szerinti gazdaságátadási szerződés alapján megvalósuló átadása;
-- b) nem minősül az (1) bekezdés p) pont pb) és pc) alpontjaiban foglalt feltételek megszegésének, ha a vagyonszerző a termőföld használatát, hasznosítását a földművesnek minősülő, Polgári Törvénykönyv szerinti közeli hozzátartozója vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági termelőszervezet vagy olyan erdőbirtokossági társulat javára engedi át, amelyben a vagyonszerző vagy a közeli hozzátartozója társulati érdekeltséggel rendelkezik, vagy erdőkezelésbe adja, feltéve, hogy az 5 éves időtartam hátralévő részére
-  - ba) a mezőgazdasági termelőszervezet, az erdőbirtokossági társulat, az erdőkezelő vagy a közeli hozzátartozó vállalja, hogy a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja, továbbá
-  - bb) a termőföld használatának, hasznosításának mezőgazdasági termelőszervezet részére történő átengedése esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy a mezőgazdasági termelőszervezetben fennálló tulajdoni hányada nem csökken 25% alá vagy erdőbirtokossági társulat részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy az erdőbirtokossági társulati tagságát fenntartja.
+  - ae) földön fennálló a tulajdonjognak, vagyoni értékű jognak a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerinti bekebelezés következtében történő megszűnése.
+- b) nem minősül az (1) bekezdés p) pont pb) és pc) alpontjaiban foglalt feltételek megszegésének, ha a vagyonszerző a termőföld használatát, hasznosítását
+  - ba) földművesnek minősülő, Polgári Törvénykönyv szerinti közeli hozzátartozója javára engedi át, vagy
+  - bb) legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági termelőszervezet javára engedi át, vagy
+  - bc) olyan családi mezőgazdasági társaság javára engedi át, amelyben tag, vagy
+  - bd) olyan erdőbirtokossági társulat javára engedi át, amelyben a vagyonszerző vagy a közeli hozzátartozója társulati érdekeltséggel rendelkezik, vagy
+  - be) erdőkezelésbe adja,
+
+feltéve, hogy az 5 éves időtartam hátralévő részére a termőföld használója, hasznosítója vállalja, hogy a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja, továbbá mezőgazdasági termelőszervezet részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy a mezőgazdasági termelőszervezetben fennálló tulajdoni hányada nem csökken 25% alá, továbbá erdőbirtokossági társulat részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy az erdőbirtokossági társulati tagságát fenntartja.
 
 (18a) Az (1) bekezdés p) pontja szerinti feltételek fennállásáról és vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig, véglegessé válásáig kell nyilatkoznia az állami adóhatóságnál. Ha az eredetileg vállalt 5 év letelte előtt
 
@@ -643,7 +652,7 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 - c) a vagyonszerző a termőföldet saját maga vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet, erdőbirtokossági társulat, erdőkezelő vagy közeli hozzátartozója igazolhatóan nem mező-, illetve erdőgazdasági tevékenység céljára hasznosítja,
 - d) a vagyonszerző vagy a vagyonszerző közeli hozzátartozója a mezőgazdasági termelőszervezetben fennálló tulajdoni hányadát 25% alá csökkenti, vagy az erdőbirtokossági társulati tagságát nem tartja fenn,
 
-az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet, erdőbirtokossági társulat, erdőkezelő vagy közeli hozzátartozó által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
+az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet, családi mezőgazdasági társaság, erdőbirtokossági társulat, erdőkezelő vagy közeli hozzátartozó által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
 
 (19) Az (1) bekezdés y) pontja szerinti illetékmentességet:
 
@@ -1537,7 +1546,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 ### Az ajándék és a visszterhes vagyonszerzés bejelentése
 
-91. § (1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ingatlanügyi hatósághoz kell bejelenteni illetékkiszabásra az azt tartalmazó szerződés (okirat), valamint az állami adóhatóság által erre a célra rendszeresített – a felek adóazonosító számát vagy az ennek hiányára utaló nyilatkozatot is tartalmazó – nyomtatvány benyújtásával, az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel egyidejűleg, az illetékkötelezettség keletkezését követő 30 napon belül.
+91. § (1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ingatlanügyi hatóságnál kell bejelenteni illetékkiszabásra az azt tartalmazó szerződés (okirat), valamint az állami adóhatóság által erre a célra rendszeresített – a felek adóazonosító számát vagy az ennek hiányára utaló nyilatkozatot is tartalmazó – nyomtatvány benyújtásával, az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel egyidejűleg, az illetékkötelezettség keletkezését követő 30 napon belül.
 
 (1a) A 18. § (1a) bekezdése szerinti esetben az átruházó fél az (1) bekezdésben említett nyomtatványon nyilatkozik arról, hogy a jogügylet tárgya a 102. § (1a) bekezdés a)–b) pontja szerinti vagyontárgy.
 
@@ -1741,7 +1750,7 @@ megkötött adásvételi szerződés alapján történő vagyonszerzésre kell a
 - s) lakóépület: kizárólag vagy túlnyomó részben lakást tartalmazó épület;
 - sz) kisvállalkozás: az az egyéni cég, illetve gazdasági társaság, amelynél az éves összes foglalkoztatott létszám az 50 főt nem éri el és éves nettó árbevétele legfeljebb 700 millió forint. Az éves foglalkoztatottak létszámát az egyes foglalkoztatottak munkaviszonyának kezdetétől annak megszűnéséig eltelt naptári napok összegezésével, majd az így kapott összeg 365-tel történő elosztásával, tört hányados esetén lefelé kerekítve kell meghatározni;
 - t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőföld, telek, épület, egyéb építmény), ingó vagyon (műszaki berendezés, gép, jármű, üzemi és üzleti felszerelés, egyéb berendezés), továbbá az ilyen vagyonra vonatkozó építményi jog, haszonélvezeti jog, amelyet a kisvállalkozó kizárólag a vállalkozói tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősül vállalkozói vagyonnak a személygépkocsi, a lakástulajdon (tulajdoni hányad), valamint az ezekre vonatkozó vagyoni értékű jog;
-- u) vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény szerinti vagyonkezelő alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a vagyonkezelő alapítványokról szóló törvény által előírt, a vagyonkezelő alapítványok alapítására és működésére vonatkozó feltételeket;
+- u) vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény szerinti vagyonkezelő alapítvány, mezőgazdasági vagyonkezelő alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a vagyonkezelő alapítványokról szóló törvény által előírt, a vagyonkezelő alapítványok alapítására és működésére vonatkozó feltételeket;
 - v) alapítvány: a Civil törvény szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a Civil törvény szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt; valamint az alapítás évében és az azt követő két évben az az újonnan létrejött alapítvány, amely vállalja, hogy az alapítás évét követő második év végéig e feltételeknek eleget tesz;
 - w) közigazgatási hatósági eljárás: az az eljárás, amelynek intézése során a hatóság döntésével az ügyfél jogát vagy kötelezettségét megállapítja, jogvitáját eldönti, jogsértését megállapítja, tényt, állapotot, adatot igazol vagy nyilvántartást vezet, illetve az ezeket érintő döntését érvényesíti, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés;
 - z) cég: a cégnyilvánosságról, a bírósági eljárásról és a végelszámolásról szóló 2006. évi V. törvény 2. §-ában meghatározott jogalany.
@@ -1891,7 +1900,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 1. | a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíj-köteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás |
 | 2. | a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás |
 | 3. | a termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló telekalakítási eljárás |
-| 4. | a mezőgazdasági és erdészeti gépkezelői jogosítvány kiállítása |
+| 4. |  |
 | 5. | az őstermelők és őstermelők családi gazdasága, valamint családi mezőgazdasági társaságok nyilvántartásával kapcsolatos hatósági eljárás |
 | 6. | a mezőgazdasági, vidékfejlesztési szaktanácsadók nyilvántartásba vételével kapcsolatos eljárás |
 | V. Az egészségügyi, szociális ügyekkel összefüggő eljárások közül |  |

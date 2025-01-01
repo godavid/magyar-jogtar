@@ -2362,7 +2362,7 @@ rendelkezéseket kell értelemszerűen alkalmazni.
 
 (3) Mentesül az elektronikus kapcsolattartás alól a büntetőeljárásban részt vevő személy, ha elektronikus ügyintézéshez való joga szünetel.
 
-(4) A bíróság, az ügyészség és a nyomozó hatóság felhívhatja a nem elektronikus úton kapcsolatot tartó szakértőt, hogy a szakvéleményt adathordozón is nyújtsa be. A szakértő felel azért, hogy a papíralapú szakvélemény tartalma megegyezzen az adathordozón benyújtott szakvélemény tartalmával.
+(4)
 
 #### 151. §
 

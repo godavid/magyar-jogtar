@@ -1207,7 +1207,9 @@ miatt ítéltek el.
 - b) tíz évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén tíz év,
 - c) öt évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén öt év.
 
-(4) A büntethetőség elévülése határidejének számításánál és a visszaesőkre vonatkozó rendelkezések szempontjából a (2)–(3) bekezdésben meghatározott időtartamok az irányadóak.
+(4) A (2) bekezdés b) pontjában, valamint a (3) bekezdés b) és c) pontjában írt esetben a büntethetőség elévülése határidejének számításánál az ott meghatározott időtartamok az irányadók.
+
+(4a) A visszaesőkre vonatkozó rendelkezések szempontjából a (2)–(3) bekezdésben meghatározott időtartamok az irányadók.
 
 (5) Fiatalkorúval szemben a 38. § (4) bekezdés e) pontja és (5) bekezdése alapján a feltételes szabadságra bocsátás lehetősége akkor zárható ki, ha a bűncselekmény elkövetésekor a tizenhatodik életévét betöltötte, és tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélik.
 
@@ -4361,6 +4363,17 @@ követik el.
 - c) a lakosság egyes csoportjai, illetve azok tagjai ellen – különösen fogyatékosságra, nemi identitásra, szexuális irányultságra tekintettel –
 
 erőszakra vagy gyűlöletre uszít, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+### Internetes agresszió
+
+332/A. § (1) Aki nagy nyilvánosság előtt elektronikus hírközlő hálózat útján olyan kifejezést, ábrázolást vagy kép- és hangfelvételt használ vagy tesz közzé, amely beazonosítható személlyel vagy személyekkel szembeni erőszakos
+
+- a) halált okozó, vagy
+- b) különös kegyetlenséggel elkövetett
+
+büntetendő cselekményre irányuló szándékot vagy kívánságot fejez ki, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Nem büntethető az (1) bekezdésben meghatározott bűncselekmény miatt, aki azt ismeretterjesztő, oktatási, tudományos, művészeti célból vagy a történelem, illetve a jelenkor eseményeiről szóló tájékoztatás céljából követi el, feltéve, hogy a cselekmény félelemkeltésre nem alkalmas.
 
 ### A nemzetiszocialista vagy kommunista rendszerek bűneinek nyilvános tagadása
 

@@ -166,6 +166,8 @@ feltéve hogy a vele szembeni végrehajtás eredménytelen volt.
 
 (4) A cégbíróság a végrehajtó, illetve a végrehajtást foganatosító egyéb hatóság (bíróság) elektronikus értesítése, illetve elektronikusan megküldött foglalási jegyzőkönyv alapján hivatalból meghozott végzésével eltiltja az érintett személyt.
 
+(5) A cégbíróság hivatalból – a Magyarország kiberbiztonságáról szóló törvény szerinti kiberbiztonsági hatóság (a továbbiakban: kiberbiztonsági hatóság) végleges határozata alapján – a kiberbiztonsági hatóság határozatában foglalt időtartamra, de legfeljebb öt évre eltiltja a kiberbiztonsági hatóság által megjelölt szervezet vonatkozásában a vezető tisztségviselői feladatok ellátásától azt a személyt, akinek felelősségét a kiberbiztonsági hatóság végleges határozatával megállapította a tekintetben, hogy a szervezet határidőn belül nem tett eleget a szervezet elektronikus információs rendszereinek kiberbiztonságára vonatkozó hatósági kötelezésnek.
+
 9/C. § (1) A cégbíróság e törvényben megállapított esetben eltiltja a cégnek a kényszertörlési eljárás megindításának időpontjában vagy az azt megelőző két évben bejegyzett vezető tisztségviselőjét, korlátlan tagi felelősséggel működő cég esetén a cég tagjait (tagját), korlátolt tagi felelősséggel működő gazdasági társaság esetén a társaság többségi befolyással rendelkező tagját. E § szerinti szabályt kell alkalmazni akkor is, ha a cég törlésére felszámolási eljárásban történő megszüntetést követően kerül sor, azonban a felszámolási eljárást kényszertörlési eljárás előzte meg.
 
 (2) A cégbíróság a felszámolási eljárást követően, folytatva a kényszertörlési eljárást, az eltiltásról a kényszertörlési eljárás iratai, különösen a törvénysértő működésben való közrehatás vizsgálata során keletkezett bizonyítási eszközök alapján dönt, azonban szükség esetén további bizonyítást is lefolytathat.
@@ -223,9 +225,7 @@ eltiltja.
 
 - a) a cégbejegyzési kérelemben megjelölt, a cégalapításhoz kapcsolódóan jognyilatkozatot tevő személynek nem kellett az eljáró jogi képviselő vagy más szervezet előtt személyesen megjelennie,
 - b) jogszabály az eljáró jogi képviselő számára más azonosítási módról nem rendelkezik, az a) pont szerinti személyek azonosítására úgy került sor, hogy a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti elektronikus hírközlő eszköz útján történő ügyfél-átvilágítás és az ügyvédi tevékenységről szóló törvény szerinti azonosítás vagy a közjegyzőkről szóló törvény szerinti ellenőrzés együttesen elvégzésre került,
-- c) az a) pont szerinti személy a cégbejegyzési kérelemhez csatolt jognyilatkozatát tartalmazó elektronikus okiratokat
-  - ca) minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, elektronikus bélyegzővel látta el, vagy
-  - cb) azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással hitelesítette,
+- c) az a) pont szerinti személy a cégbejegyzési kérelemhez csatolt jognyilatkozatát tartalmazó elektronikus okiratokat minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, elektronikus bélyegzővel látta el,
 - d) a cégbejegyzési kérelem mellékletét képező valamennyi dokumentum elektronikus formában létrejött és a c) pont szerint elektronikusan hitelesített okirat, és
 - e) a társaság törzstőkéje kizárólag pénzbeli vagyoni hozzájárulásból áll.
 
@@ -2246,7 +2246,11 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (7) Ha a (6) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a cégbíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik. Ellenkező esetben a cégbíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
 
-#### 131. §
+131. § (1) Azokat a cég által az állami adó- és vámhatósághoz bejelentett főtevékenységeket azonosító TEÁOR-kódokat, amelyek a TEÁOR’08 és a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelettel (e § alkalmazásában a továbbiakban: Rendelet) bevezetett, a Központi Statisztikai Hivatal honlapján nyilvánosságra hozott új TEÁOR’25 közötti fordítókulcs szerint átkódolhatók az új TEÁOR’25 tevékenységi szakágazati kódra, az állami adó- és vámhatóság 2025. január 31. napjáig hivatalból módosítja a Rendeletnek megfelelően és intézkedik a változás cégjegyzékben való átvezetése iránt. Azon cégnek, amelyik az átvezetett főtevékenység kódot módosítani kívánja, a főtevékenységét azonosító TEÁOR-kódot az új TEÁOR’25-kód alapján kell az állami adó- és vámhatósághoz bejelentenie legkésőbb 2025. július 1. napjáig.
+
+(2) Azokat a cég által az állami adó- és vámhatósághoz bejelentett egyéb tevékenységeket azonosító TEÁOR-kódokat, amelyek a TEÁOR’08 és a Rendelettel bevezetett, a Központi Statisztikai Hivatal honlapján nyilvánosságra hozott új TEÁOR’25 közötti fordítókulcs szerint átkódolhatók az új TEÁOR’25 tevékenységi szakágazati kódra, az állami adó- és vámhatóság 2025. január 31. napjáig hivatalból módosítja a Rendeletnek megfelelően és intézkedik a változás cégjegyzékben való átvezetése iránt. Azon a cég által, 2024. december 31. napjáig az állami adó- és vámhatósághoz bejelentett egyéb tevékenységeket azonosító TEÁOR-kódokat, amelyek a Központi Statisztikai Hivatal honlapján nyilvánosságra hozott fordítókulcs alapján automatikusan nem sorolhatók át, a cégnek az új TEÁOR’25-kód alapján kell az állami adó- és vámhatósághoz bejelenteniük legkésőbb 2025. július 1. napjáig. 2025. augusztus 31. napjával az állami adó- és vámhatóság valamennyi TEÁOR’08-as (vagy korábbi) egyéb tevékenységet – 2024. december 31-ei hatállyal – hivatalból lezárhatja, függetlenül attól, hogy a cég jelentett-e be TEÁOR’25 kód szerinti egyéb tevékenységet.
+
+(3) A cégek 2024. december 31. napját követően, de legkésőbb a cégjegyzékben vezetett adataik – ide nem értve az (1) bekezdés szerint módosuló adatokat – 2025. július 1-jét követő első változásakor kötelesek a cégbíróságnak benyújtani a létesítő okiratuk Rendeletnek megfelelő módosítását. Ha a létesítő okirat módosítása kizárólag a Rendeletnek való megfelelést szolgálja, a változásbejegyzési kérelem illeték és közzétételi költség megfizetése nélkül terjeszthető elő.
 
 131/A. § (1) A Módtv. 136. §-ának hatálybalépésekor folyamatban lévő kényszer-végelszámolásokban és a 2006. július 1-jén folyamatban lévő, be nem fejezett végelszámolásokban, – amennyiben a cégbíróság még nem kezdeményezett felszámolási eljárást – a végelszámoló 2013. január 1-jéig
 
@@ -2345,15 +2349,19 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (1a) E törvény – végrehajtási rendeleteivel és a Ptk.-val együtt – az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+(1b) E törvény az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 - a) a Tanács 2137/85/EGK rendelete az európai gazdasági egyesülésről (az európai gazdasági egyesülésről, valamint a gazdasági társaságokról szóló 1997. évi CXLIV. törvény és a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény jogharmonizációs célú módosításáról szóló 2003. évi XLIX. törvénnyel együtt);
 - b) a Tanács 2157/2001/EK rendelete (2001. október 8.) az európai részvénytársaság (SE) statútumáról (az európai részvénytársaságról szóló 2004. évi XLV. törvénnyel együtt);
 - c) A Tanács 1435/2003/EK rendelete (2003. július 22.) az európai szövetkezet (SCE) statútumáról;
-- d) az Európai Parlament és a Tanács 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról;
+- d) az Európai Parlament és a Tanács 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2.1. rendszerének létrehozásáról;
 - e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet;
 - f) a nyilvántartások összekapcsolására szolgáló 2009/101/EK európai parlamenti és tanácsi irányelvvel létrehozott rendszer céljából szükséges műszaki leírások és eljárások megállapításáról szóló, 2015. június 8-i (EU) 2015/884 bizottsági végrehajtási rendelet;
 - g) az (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek a nyilvántartások összekapcsolására szolgáló rendszerre vonatkozó műszaki leírások és eljárások tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az (EU) 2020/2244 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. június 18-i (EU) 2021/1042 bizottsági végrehajtási rendelet.
+- h) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet;
+- i) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet.
 
 #### 133. §
 

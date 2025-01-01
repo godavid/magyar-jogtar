@@ -299,7 +299,7 @@ tart.
 - j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, vagy egészségi állapota 50 százalékos vagy ennél kisebb mértékű, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
 - k) az öregségi nyugdíjkorhatárt betöltötte és jövedelme nem éri el a minimálbér 30 százalékát,
 - l) kiskorú, magyar állampolgársággal, menekült vagy oltalmazott jogállással és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
-- m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá magyar hatóság által a Gyvt. alapján ideiglenes hatállyal elhelyezett vagy nevelésbe vett külföldi kiskorú személy,
+- m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá magyar hatóság által a Gyvt. alapján ideiglenes hatállyal elhelyezett vagy nevelésbe vett külföldi vagy ismeretlen állampolgárságú kiskorú személy,
 - n) fogvatartott,
 - o) a Szoctv. 54. §-a alapján szociálisan rászorult,
 - p) táncművészeti életjáradékban részesül,
@@ -322,7 +322,7 @@ tart.
 
 (7) Belföldi
 
-- a) – a (3) bekezdés alkalmazásában – az a Magyarországon élő magyar állampolgár is,
+- a) – az (1) bekezdés l) pontja és a (3) bekezdés alkalmazásában – az a Magyarországon élő magyar állampolgár is,
 - b) – a 43. § (1) bekezdés a) pontja alkalmazásában – az a legalább egy éve Magyarországon élő magyar állampolgár is,
 
 aki a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 80. § (5) bekezdése szerinti – a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosításra vonatkozó – bejelentést nem teljesített.
@@ -386,7 +386,7 @@ a járulékfizetési alsó határ meghatározása során az a)–c) pontok szeri
 
 (3) A (2) bekezdés szerinti járulékfizetési alsó határra vonatkozó rendelkezést nem kell alkalmazni a munkaviszonyban álló és
 
-- a) csecsemőgondozási díjban, gyermekgondozási díjban, gyermekek otthongondozási díjában, örökbefogadói díjban, gyermeknevelést segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesülők,
+- a) csecsemőgondozási díjban, gyermekgondozási díjban, gyermekek otthongondozási díjában, örökbefogadói díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesülők,
 - b) a köznevelési intézményben nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerint folyó oktatásban tanulmányokat folytató tanuló, a szakképző intézmény által szervezett szakmai oktatásban jogszabály alapján ingyenesen részt vevő tanuló, illetve képzésben részt vevő személy, továbbá a felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató hallgató esetében.
 
 (4) Járulékalapot képező jövedelemként kell figyelembe venni azt az (1) bekezdés a) és b) pontja szerinti jövedelmet, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban e törvény alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától, ha a kifizetés, juttatás időpontjában a 3. § alapján más ország járulékszabályai alkalmazandók.
@@ -446,7 +446,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 (5) A családi járulékkedvezmény (3) bekezdés szerinti összegét a biztosított az éves bevallásában feltünteti.
 
-(6) A családi járulékkedvezmény nem csökkenti azt a járulékkötelezettséget, amelyet az Szja tv. szerint adómentes vagy bevételnek nem minősülő járulékalap után kell megfizetni (ide nem értve a munkavállalói érdekképviseletet ellátó szervezet részére az adóévben levont, befizetett tagdíj összegét). Egyéni és társas vállalkozó esetén a családi járulékkedvezményt a kivétet, a Tbj. 40. § (2) bekezdése szerint megállapított járulékalapot vagy a személyes közreműködői díjat terhelő társadalombiztosítási járulék erejéig lehet érvényesíteni, azzal, hogy járulékkedvezmény az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó e tevékenységéből származó jövedelme adómentes részével egyező nagyságú járulékalap után fizetendő járulék terhére is érvényesíthető. Ha az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó járulékalapjaként a minimálbért köteles figyelembe venni, a járulékkedvezmény az e járulékalapnak az átalányban megállapított jövedelmet (akkor is, ha az adómentes) meg nem haladó nagyságú része után fizetendő járulék terhére is érvényesíthető.
+(6) A családi járulékkedvezmény nem csökkenti azt a járulékkötelezettséget, amelyet az Szja tv. szerint adómentes vagy bevételnek nem minősülő járulékalap után kell megfizetni (ide nem értve a munkavállalói érdekképviseletet ellátó szervezet részére az adóévben levont, befizetett tagdíj összegét). Egyéni és társas vállalkozó esetén a családi járulékkedvezményt a kivétet, a 40. § (2) bekezdése szerint megállapított járulékalapot vagy a személyes közreműködői díjat terhelő társadalombiztosítási járulék erejéig lehet érvényesíteni, azzal, hogy járulékkedvezmény az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó e tevékenységéből származó jövedelme adómentes részével egyező nagyságú járulékalap után fizetendő járulék terhére is érvényesíthető. Ha az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó járulékalapjaként a minimálbért köteles figyelembe venni, a járulékkedvezmény az e járulékalapnak az átalányban megállapított jövedelmet (akkor is, ha az adómentes) meg nem haladó nagyságú része után fizetendő járulék terhére is érvényesíthető.
 
 35. § A családi járulékkedvezmény érvényesítése nem érinti a biztosított társadalombiztosítási és munkaerő-piaci ellátásokra való jogosultságát és az ellátások összegét.
 
@@ -522,7 +522,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 42. § (1) Több biztosítási kötelezettséggel járó jogviszony egyidejű fennállása esetén a járulékalap után mindegyik jogviszonyban meg kell fizetni a társadalombiztosítási járulékot.
 
-(2) A társadalombiztosítási járulék alapja a ténylegesen elért járulékalapot képező jövedelem, átalányadózó egyéni vállalkozó esetében a Tbj. 40. § (2) bekezdése szerint megállapított járulékalap, ha
+(2) A társadalombiztosítási járulék alapja a ténylegesen elért járulékalapot képező jövedelem, átalányadózó egyéni vállalkozó esetében a 40. § (2) bekezdése szerint megállapított járulékalap, ha
 
 - a) az egyéni vállalkozó, a társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, vagy
 - b) az egyéni vállalkozó, a társas vállalkozó a nemzeti köznevelésről szóló törvény hatálya alá tartozó köznevelési intézményben nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerint folyó oktatásban, a szakképzésről szóló törvény szerint nappali rendszerű szakmai oktatásban, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, vagy EGT-államban vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat.
@@ -732,7 +732,7 @@ kívánja szolgálati időként elismertetni.
 - b) név (születési családi és utónév, viselt családi név és utónév),
 - c) anyja születési neve,
 - d) születési hely (születés országa, születési hely),
-- e) születési idő (élveszületés esetén annak bejegyzési folyószáma és éve),
+- e) születési idő,
 - f) állampolgárság,
 - g) nem,
 - h) családi állapot,
@@ -740,12 +740,12 @@ kívánja szolgálati időként elismertetni.
 - j) külföldi állampolgár esetén a Magyarország területén való tartózkodás jogcíme,
 - k) külföldön történő letelepedés időpontja, időpontjai,
 - l) nyilvántartásba vételi adatok (személyes dokumentum típusa, száma, nyilvántartásba vétel dátuma, jogcíme, adatforrás, BM és ÖNY kapcsolati kód),
-- m) a nyilvántartásba bekerülés és az abból történő kikerülés oka (passziválási jogcím),
+- m) a nyilvántartásba történő bekerülés oka,
 - n) kiadott TAJ számot tartalmazó hatósági igazolvány lejáratának dátuma,
 - o) TAJ érvényesség státusza,
 - p) érvényesség kezdeti dátuma,
 - q) érvénytelenítés dátuma, oka, dokumentum típusa, azonosítója,
-- r) érvényváltozás és a változás bejegyzés időpontja, időpontjai (jogcím, passziválás, viselt név, születési név, anyja neve, családi állapot, állampolgárság adatkörök esetén),
+- r) a b)–q) pontban felsorolt adatok változásbejegyzésének időpontja,
 - s) elhalálozás időpontja és helye,
 - t) foglalkozás, munkakör, tevékenység, munkahely vagy egészségügyi szolgáltatásra való jogosultságra vonatkozó bejelentő, jogosulti jogcím.
 
@@ -1092,7 +1092,7 @@ Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, an
 
 80. § (1) A biztosított egyéni vállalkozó és mezőgazdasági őstermelő a családi járulékkedvezmény havi, illetve negyedéves összegét saját maga állapítja meg.
 
-(2) A biztosított egyéni vállalkozó által érvényesíthető családi járulékkedvezmény havi összege a családi kedvezmény havi összege (közös igénybevétel esetén a biztosított egyéni vállalkozóra jutó összege) és a vállalkozói kivét vagy az átalányban megállapított jövedelem havi összege után megállapított személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 15 százaléka, de legfeljebb a kivétre vagy a Tbj. 40. § (2) bekezdése szerint megállapított járulékalap után fizetendő járulék. Ha az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó az adott havi járulékalapjaként a minimálbért köteles figyelembe venni, a járulékkedvezmény az e járulékalapnak az átalányban megállapított havi jövedelmet (akkor is, ha az adómentes) meg nem haladó nagyságú része után fizetendő járulék terhére érvényesíthető.
+(2) A biztosított egyéni vállalkozó által érvényesíthető családi járulékkedvezmény havi összege a családi kedvezmény havi összege (közös igénybevétel esetén a biztosított egyéni vállalkozóra jutó összege) és a vállalkozói kivét vagy az átalányban megállapított jövedelem havi összege után megállapított személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 15 százaléka, de legfeljebb a kivétre vagy a 40. § (2) bekezdése szerint megállapított járulékalap után fizetendő járulék. Ha az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó az adott havi járulékalapjaként a minimálbért köteles figyelembe venni, a járulékkedvezmény az e járulékalapnak az átalányban megállapított havi jövedelmet (akkor is, ha az adómentes) meg nem haladó nagyságú része után fizetendő járulék terhére érvényesíthető.
 
 (3) A biztosított őstermelő által érvényesíthető családi járulékkedvezmény negyedéves összege a családi kedvezmény negyedévre eső összege (közös igénybevétel esetén a biztosított mezőgazdasági őstermelőre jutó összege) és a mezőgazdasági őstermelésből származó jövedelem vagy az átalányban megállapított jövedelem negyedéves összege után megállapított személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 15 százaléka, de legfeljebb a biztosítottat a tárgyhónapban terhelő társadalombiztosítási járulék összege.
 
@@ -1366,6 +1366,13 @@ a 25 százalékot.
 
 (2) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(3) Ez a törvény
+
+- a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet, és
+- b) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 ### XI. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
 
 #### 35. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
@@ -1629,7 +1636,7 @@ a) munkáltató neve (elnevezése), székhelye (lakóhelye), adóazonosító sz�
 
 b) a kiküldött munkavállaló természetes személyazonosító adatai, állampolgársága, lakcíme, TAJ száma, a kérelmet benyújtó munkáltatóval fennálló munkaviszony kezdete,
 
-c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-szám (egyéni vállalkozó esetén a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód), amelynek megfelelő tevékenységre a kiküldött munkavállalót a kiküldetés ideje alatt foglalkoztatja,
+c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten és az (EU) 2024/1840 bizottsági végrehajtási rendeleten alapuló TEÁOR-szám (egyéni vállalkozó esetén a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód), amelynek megfelelő tevékenységre a kiküldött munkavállalót a kiküldetés ideje alatt foglalkoztatja.
 
 d) a külföldi vállalkozás (személy) neve és címe, amelynél a kiküldött munkát végez, vagy ennek hiányában a külföldi foglalkoztatás helye (címe), és
 
@@ -1665,7 +1672,7 @@ b) egyszerűsített beszámoló készítésére kötelezett gazdálkodó, egyén
 
 a) természetes személyazonosító adatai, állampolgársága, lakcíme, TAJ száma, vállalkozásának nyilvántartási száma,
 
-b) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett, a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód, amelynek megfelelő tevékenységet a másik államban folytat,
+b) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten és az (EU) 2020/1197, az (EU) 2024/1840 bizottsági végrehajtási rendeleten alapuló TEÁOR-számokból képzett, a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód, amelynek megfelelő tevékenységet a másik államban folytat.
 
 c) annak a külföldi vállalkozásnak (személynek) a neve és címe, amelynél munkát végez, vagy ennek hiányában a külföldön folytatott tevékenység helye (címe), és
 
@@ -1677,7 +1684,7 @@ a) természetes személyazonosító adatai, állampolgársága, lakcíme, TAJ sz
 
 b) a munkáltató(k) neve (elnevezése), székhelye (lakóhelye), adóazonosító száma,
 
-c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-szám vagy a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód, amelynek megfelelő tevékenységet végez a munkavállaló a külföldi munkáltató részére, illetve amelynek megfelelő tevékenységet végez az önálló vállalkozó a másik államban,
+c) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeleten és az (EU) 2020/1197, az (EU) 2024/1840 bizottsági végrehajtási rendeleten alapuló TEÁOR-szám vagy a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke szerinti ÖVTJ kód, amelynek megfelelő tevékenységet végez a munkavállaló a külföldi munkáltató részére, illetve amelynek megfelelő tevékenységet végez az önálló vállalkozó a másik államban.
 
 d) ha a munkavállaló belföldön és a másik államban is munkavállaló, a belföldi és külföldi munkaviszonyához kapcsolódó munkaidő mértéke és munkabér (egyéb díjazás) összege, és azok egymáshoz viszonyított aránya, és
 

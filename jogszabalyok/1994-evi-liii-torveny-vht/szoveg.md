@@ -1558,13 +1558,13 @@ ismételten benyújtja.
 - a) a feleknek,
 - b) az árverés helye szerinti községi, városi, fővárosi kerületi jegyzőnek.
 
-122. § (1) Az árverési hirdetményt ki kell függeszteni:
+122. § (1) Az árverési hirdetményt közzé kell tenni
 
-- a) a bíróság hirdetőtábláján,
+- a) a bíróságok központi internetes honlapján,
 - b) a bírósági árverési csarnok hirdetőtábláján,
-- c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján.
+- c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal honlapján.
 
-(2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a hirdetőtáblán kifüggesztve tartani.
+(2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a bírósági árverési csarnok hirdetőtábláján kifüggesztve tartani és a 122. § (1) bekezdés a) és c) pontjában megjelölt honlapokon hozzáférhetővé tenni.
 
 (3)
 
@@ -1985,13 +1985,13 @@ ismételten benyújtja.
 
 (2) Az ingatlanügyi hatóság az árverés kitűzését bejegyzi az ingatlan-nyilvántartásba.
 
-145. § (1) Az árverési hirdetményt ki kell függeszteni:
+145. § (1) Az árverési hirdetményt közzé kell tenni
 
-- a) a bíróság hirdetőtábláján,
-- b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján,
-- c) az ingatlanügyi hatóság hirdetőtábláján.
+- a) a bíróságok központi internetes honlapján,
+- b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal honlapján,
+- c) az ingatlanügyi hatóság honlapján.
 
-(2) Az árverési hirdetményt az árverésnek a hirdetményben feltüntetett időtartamára kell a hirdetőtáblán kifüggesztve tartani.
+(2) Az árverési hirdetményt az árverésnek a hirdetményben feltüntetett időtartamára kell az (1) bekezdésben meghatározott honlapon hozzáférhetővé tenni.
 
 (3)
 
@@ -2533,9 +2533,7 @@ indított perben hozott határozat végrehajtása
 
 (3) Ha az önkéntes teljesítés elmaradt, a végrehajtó a hitelbiztosítéki nyilvántartásról szóló törvény szerint intézkedik a határozat végrehajtása iránt.
 
-### Az állam képviselete törvényes öröklése esetén
-
-184/D. § Az állam szükségképpeni törvényes öröklése útján megszerzett, a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlása alatt álló vagyontárgyakat érintő meghatározott cselekmények végrehajtása iránti eljárásban a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság képviseli az államot.
+#### 184/D. §
 
 ### X. Fejezet — BIZTOSÍTÁSI INTÉZKEDÉS VÉGREHAJTÁSA
 
@@ -2820,7 +2818,7 @@ közötti felosztása.
 
 (3) A végrehajtás elrendelésére és foganatosítására a pénzkövetelés végrehajtásának szabályait az e Fejezetben foglalt eltérésekkel kell alkalmazni. A végrehajtás során nem kell alkalmazni a 7. §-t, a 8. §-t, a 13–14/A. §-t, a 36. §-t, az 52. § d) és f) pontját, az 52/B. §-t, az 54. § d) pontját, a 85–87. §-t, a 89. §-t, a 90. § (1) bekezdés a)–m) pontját, (2) és (3) bekezdését, a 91–96/B. §-t, a 133. §-t, a 138/C. §-t, a 139. § (1) és (8) bekezdését, a 140. § (4) és (5) bekezdését, a 154/A. § (4)–(9) és (11) bekezdését, a 154/B. §-t, a 157. §-t, a 159. §-t, a 160. §-t és a 172–177. §-t. Ha az árverezésre kerülő lakóingatlanban természetes személy lakik, részére a 154/A. § (4)–(9) bekezdése szerint biztosítható az ingatlan elhagyására halasztás, valamint a 139. § (1) bekezdése, a 138/C. § és a 154/A. § (11) bekezdése is alkalmazandó.
 
-(4) A végrehajtásban a végrehajtást kérő és a kötelezett is az állam, amelyet a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság képvisel. A végrehajtást a vagyontárgyat öröklés folytán megszerző állammal, mint kötelezettel szemben kell megindítani örökhagyónként; e törvénynek az adósra vonatkozó rendelkezéseit a kötelezettre megfelelően alkalmazni kell.
+(4) A végrehajtásban a végrehajtást kérő és a kötelezett is az állam, amelyet a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság képvisel. A végrehajtást a vagyontárgyat öröklés folytán megszerző állammal, mint kötelezettel szemben kell megindítani örökhagyónként; e törvénynek az adósra vonatkozó rendelkezéseit a kötelezettre megfelelően alkalmazni kell.
 
 (5) A végrehajtás elrendelése iránti kérelemben a fél adatain kívül meg kell jelölni
 
@@ -2848,7 +2846,7 @@ közötti felosztása.
 
 (5) Ha adat merül fel arra, hogy az ingóság a (2) és (3) bekezdés szerinti helyszíneken kívül van harmadik személy birtokában, e személy a végrehajtó felhívására köteles a vagyontárgyat átadni; ennek elmulasztása esetén a harmadik személynél történő foglalás szabályait kell alkalmazni.
 
-(6) Ha az ingóság nem fellelhető, a végrehajtó ennek tényéről 30 napig tartó időtartamra hirdetményt tesz közzé a Kar honlapján, valamint az örökhagyó utolsó ismert lakóhelye, ennek hiányában tartózkodási helye szerint illetékes járásbíróság és polgármesteri hivatal hirdetőtábláján, amelyben az ingóság végrehajtó részére történő átadására hívja fel az ingóságot őrző személyt. Ha az átadásra nem kerül sor, a végrehajtó a hirdetmény közzétételi határidejének lejártát követő 30 napon belül jegyzőkönyvet készít a hirdetmény közzétételének eredményéről.
+(6) Ha az ingóság nem fellelhető, a végrehajtó ennek tényéről 30 napig tartó időtartamra hirdetményt tesz közzé a Kar honlapján, valamint az örökhagyó utolsó ismert lakóhelye, ennek hiányában tartózkodási helye szerint illetékes járásbíróság és polgármesteri hivatal honlapján, amelyben az ingóság végrehajtó részére történő átadására hívja fel az ingóságot őrző személyt. Ha az átadásra nem kerül sor, a végrehajtó a hirdetmény közzétételi határidejének lejártát követő 30 napon belül jegyzőkönyvet készít a hirdetmény közzétételének eredményéről.
 
 (7) Ha a foglalásnak a vagyontárgyról vezetett nyilvántartásba történő bejegyzését jogszabály írja elő, a bejegyzésben – végrehajtandó követelés megjelölése nélkül – fel kell tüntetni azt, hogy a vagyontárgy lefoglalására az állam által törvényes öröklés útján megszerzett vagyontárgy értékesítésére irányuló, ezen alcímben szabályozott végrehajtási eljárás során került sor. Az ingóság nyilvántartását vezető hatóság a foglalás bejegyzése iránti megkeresés teljesítésével együtt a megelőző beadványok bejegyzéséről is soron kívül intézkedik.
 
@@ -2981,7 +2979,7 @@ feltételei fennállnak.
 
 (4) A végrehajtó intézkedése ellen bármilyen címen előterjesztett megtámadást kifogásnak kell tekinteni. A kifogásban meg kell jelölni a kifogásolt végrehajtói intézkedést, és azt, hogy a kifogást előterjesztő az intézkedés megsemmisítését vagy megváltoztatását milyen okból, mennyiben kívánja. A végrehajtó intézkedésével szembeni ismételt kifogásban új tény állítására, új bizonyíték előadására akkor kerülhet sor, ha az a kifogásolt intézkedésről való tudomásszerzést követően jutott az előterjesztő tudomására, feltéve, hogy az – elbírálása esetén – reá kedvezőbb döntést eredményezett volna, vagy ha az az intézkedés jogszabálysértő voltának alátámasztására irányul.
 
-(5) Ha a kifogás elkésett, nem tartalmazza a miniszteri rendeletben meghatározott szakértői díjelőleg letétbe helyezéséről szóló igazolást, vagy olyan intézkedés ellen irányul, amely nyilvánvalóan nem lényegesen jogszabálysértő, továbbá ha a kifogást az előterjesztő felhívás ellenére hiányosan adja be, a bíróság a kifogást hivatalból elutasítja. Azt, aki a kifogást elutasító végzés ellen nyilvánvalóan alaptalan fellebbezéssel él, a másodfokú bíróság pénzbírsággal (Pp. 166. §) sújthatja.
+(5) Ha a kifogás elkésett vagy nem tartalmazza a miniszteri rendeletben meghatározott szakértői díjelőleg letétbe helyezéséről szóló igazolást, a bíróság a kifogást visszautasítja. Azt, aki a kifogást elutasító végzés ellen nyilvánvalóan alaptalan fellebbezéssel él, a másodfokú bíróság a Pp. 166. §-a szerinti pénzbírsággal sújthatja.
 
 (6) A végrehajtó intézkedésének elmulasztása miatt kifogás különösen akkor terjeszthető elő, ha
 

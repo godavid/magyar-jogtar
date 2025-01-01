@@ -368,6 +368,7 @@ az az adóhatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 - b) az Áfa tv. szerinti összesítő nyilatkozat benyújtására köteles,
 - c) az Áfa tv. szerinti összesítő jelentés benyújtására köteles, vagy
 - d) a Dáptv. alapján elektronikus ügyintézésre köteles.
+- e) az Áfa tv. 195/A. § (1) bekezdése szerinti adómentességet választ.
 
 (5) Az elektronikus kapcsolattartásra kötelezett adózó meghatalmazottjával az adóhatóság elektronikus úton tart kapcsolatot. Ha a meghatalmazott a (4) bekezdés szerint elektronikus kapcsolattartásra kötelezett, – függetlenül a képviselt adózóra vonatkozó kapcsolattartási szabályoktól – az állami adó- és vámhatóság elektronikus úton tart vele kapcsolatot.
 
@@ -548,6 +549,7 @@ Az adóhatóság a kérelmet nyolc napon belül végzéssel visszautasítja, ha
 
 - a) a hiánypótlásra és a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő,
 - b) a próbagyártás időtartama.
+- c) az e-pénztárgép és a vevői alkalmazás forgalmazásának engedélyezésére irányuló eljárásban a típusvizsgálat időtartama.
 
 (6) Ha jogszabály valamely eljárási cselekmény teljesítésének határidejéről nem rendelkezik, az adóhatóság, az adózó és az eljárás egyéb résztvevője azonnal, de legkésőbb nyolc napon belül gondoskodik arról, hogy az eljárási cselekményt teljesítse, vagy a végzést meghozza.
 
@@ -1036,7 +1038,7 @@ Az adóhatóság az adótörvényekben és más jogszabályokban előírt kötel
   - ac) az állami adó- és vámhatóságot irányító miniszter utasítása alapján,
   - ad)
 - b) az önkormányzati adóhatóság hatáskörébe tartozó adóellenőrzés esetén
-  - ba) az önkormányzat képviselő-testületének, a különleges gazdasági övezet esetében a vármegyei önkormányzat képviselő-testületének határozata alapján,
+  - ba) az önkormányzat képviselő-testületének határozata alapján,
   - bb) az Állami Számvevőszék elnökének megkeresése alapján
   - bc) az adópolitikáért felelős miniszter utasítása alapján.
 
@@ -1044,7 +1046,7 @@ Az adóhatóság az adótörvényekben és más jogszabályokban előírt kötel
 
 (1b) Az (1) bekezdés a) pont ad) alpontját a jogelőd nélkül alapított gazdasági társaság esetében az első négy üzleti év tekintetében nem kell alkalmazni. Jogutódlás esetén az (1) bekezdés a) alpont ad) alpontja szerinti feltételek teljesülése tekintetében a jogelőd gazdasági társaság működését is figyelembe kell venni.
 
-(2) Az Állami Számvevőszék elnöke, az önkormányzati adóhatóság hatáskörébe tartozó adók esetében az önkormányzat képviselő-testülete, illetve a különleges gazdasági övezet esetében a vármegyei önkormányzat képviselő-testülete akkor kezdeményezhet ellenőrzést, ha a rendelkezésére álló adatok, körülmények arra utalnak, hogy az adóhatóság a megkülönböztetés nélküli eljárás elvének megsértésével mellőzi valamely adózó vagy adózói csoport vizsgálatát, illetve a lefolytatott ellenőrzések eredménytelensége mögött a megkülönböztetés nélküli eljárás elvének megsértése áll.
+(2) Az Állami Számvevőszék elnöke, az önkormányzati adóhatóság hatáskörébe tartozó adók esetében az önkormányzat képviselő-testülete akkor kezdeményezhet ellenőrzést, ha a rendelkezésére álló adatok, körülmények arra utalnak, hogy az adóhatóság a megkülönböztetés nélküli eljárás elvének megsértésével mellőzi valamely adózó vagy adózói csoport vizsgálatát, illetve a lefolytatott ellenőrzések eredménytelensége mögött a megkülönböztetés nélküli eljárás elvének megsértése áll.
 
 #### 87/A. § [Az Európai Unió tagállamai között a hozzáadottérték-adó területén történő közigazgatási együttműködés keretében végzett ellenőrzés egyes szabályai]
 
@@ -1097,6 +1099,7 @@ valósítja meg.
 - b) adatokat gyűjthet a nyilvántartásában és az adózó nyilvántartásában, bevallásában szereplő adatok, tények, körülmények valóságtartalmának, illetve ezek hitelességének megállapítása érdekében;
 - c) vizsgálhatja a gazdasági események valódiságát;
 - d) adatokat gyűjthet az ellenőrzési tevékenysége támogatása érdekében, így különösen becslési adatbázis létrehozásához, karbantartásához.
+- e) ellenőrizheti, hogy az adózó eleget tett-e a szokásos piaci ár meghatározásával összefüggő nyilvántartási és adatszolgáltatási kötelezettségének, illetve e nyilvántartással összefüggő iratmegőrzési kötelezettségének, továbbá ellenőrizheti az adózó e nyilvántartásában szereplő adatok, tények, körülmények valóságtartalmát, illetve ezek hitelességét.
 
 (2) Az adóhatóság az állami adó- és vámhatóság nyomozó hatósági hatáskörrel felruházott szerve által feltárt adatok és bizonyítékok alapján bűncselekmény elkövetési értékének megállapítása céljából is vizsgálhatja gazdasági események valódiságát jogkövetési vizsgálat keretében.
 
@@ -1113,7 +1116,7 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 
 (1) Felülellenőrzést folytat le a felettes szerv, ha
 
-- a) az állami adó- és vámhatóság hatáskörébe tartozó ellenőrzés esetén az állami adó- és vámhatóságot irányító miniszter, az önkormányzati adóhatóság hatáskörébe tartozó ellenőrzés esetén az adópolitikáért felelős miniszter ellenőrzéssel már lezárt időszak ellenőrzését rendelte el, vagy az Állami Számvevőszék elnöke, a különleges gazdasági övezet esetében a vármegyei önkormányzat képviselő-testülete, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzat képviselő-testülete ellenőrzéssel már lezárt időszak ellenőrzését kezdeményezte,
+- a) az állami adó- és vámhatóság hatáskörébe tartozó ellenőrzés esetén az állami adó- és vámhatóságot irányító miniszter, az önkormányzati adóhatóság hatáskörébe tartozó ellenőrzés esetén az adópolitikáért felelős miniszter ellenőrzéssel már lezárt időszak ellenőrzését rendelte el, vagy az Állami Számvevőszék elnöke, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzat képviselő-testülete ellenőrzéssel már lezárt időszak ellenőrzését kezdeményezte,
 - b) az állami adó- és vámhatóság vezetője erre utasítást ad, amely alapján a felettes szerv ellenőrzi a korábban lefolytatott ellenőrzés szakszerűségét és törvényességét,
 - c) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi adóellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzati adóhatóság döntései elleni fellebbezések elbírálására jogosult hatóság vezetője utasítást ad.
 
@@ -1135,6 +1138,8 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 - b) jogkövetési vizsgálat esetében harminc nap.
 
 (1a) A jogutód adózónál lefolytatandó, a jogelőd adókötelezettségeire is kiterjedő adóellenőrzés határideje százhúsz nap, ha a vizsgált időszakban, illetve annak egy részében valamelyik jogelőd a legnagyobb adóteljesítménnyel rendelkező adózók körébe tartozott.
+
+(1b) A jogkövetési vizsgálat határideje hatvan nap, ha azt az adóhatóság a 91. § (1) bekezdés e) pontjára hivatkozva folytatja le.
 
 (2) Az (1) bekezdésben meghatározott határidőnél hosszabb határidőt törvény, rövidebb határidőt jogszabály állapíthat meg.
 
@@ -1411,12 +1416,32 @@ Fellebbezés benyújtására az jogosult, akire a döntés rendelkezést tartalm
 - l) a visszatartási jog gyakorlásáról rendelkező, valamint
 - m) a hatósági átvezetésről rendelkező
 - n) az adatok zárt kezelésére irányuló kérelmet elutasító
+- o) az Áfa tv. XVIII. Fejezete szerinti adó-visszatéríttetési kérelmet elutasító
 
 végzés ellen.
 
 (4) A visszavonó, illetve a módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a visszavont, illetve a módosított döntés ellen volt.
 
 (5) A végleges elsőfokú döntés módosítása esetén fellebbezni csak a módosító döntés ellen lehet.
+
+(6) Ha
+
+- a) az Áfa tv. 195/A. § (4) bekezdése szerinti egyedi azonosítószám megállapítása tárgyában hozott elutasító döntés alapja az adómentesség választásával érintett tagállam által az állami adó- és vámhatóság részére szolgáltatott információ,
+- b) az egyedi azonosítószám érvénytelenítése tárgyában hozott – az Áfa tv. 195/E. § d) pontjára alapított – döntés alapja az adómentesség választásával érintett tagállam által az állami adó- és vámhatóság részére szolgáltatott információ, vagy
+- c) az egyedi azonosítószám érvénytelenítése tárgyában hozott döntés az Áfa tv. 195/E. § b) pontján alapul,
+
+a döntés ezen részét az adózó az érintett tagállam által biztosított jogorvoslat keretében, az érintett tagállam illetékes hatósága előtt vitathatja.
+
+(7) Ha az adózó a (6) bekezdés alá eső jogorvoslati kérelmét az állami adó- és vámhatósághoz nyújtja be, az állami adó- és vámhatóság a kérelmet a beérkezéstől számított nyolc napon belül – az adózó egyidejű értesítése mellett – az adómentességgel érintett tagállamhoz átteszi.
+
+(8) Ha az Áfa tv. 195/G. § (1) bekezdése szerinti választási jog gyakorlása esetén az Áfa tv. 195/G. § (4) bekezdése szerinti tagállama
+
+- a) az ezen választásra irányuló adózói kérelmet elutasító döntést hoz, vagy
+- b) az adózó által alkalmazott alanyi adómentesség megszűnését eredményező döntést hoz,
+
+és ezen döntés az állami adó- és vámhatóság által szolgáltatott információn alapul, az adózó az Áfa tv. 195/G. § (4) bekezdése szerinti tagállami döntés ezen részét az állami adó- és vámhatósághoz benyújtott kérelem útján vitathatja. Az eljárás lezárását követően az állami adó- és vámhatóság az eljárás eredményéről az Áfa tv. 195/G. § (4) bekezdése szerinti tagállamot értesíti.
+
+(9) A (8) bekezdésben foglalt kérelemre e törvény fellebbezésre vonatkozó rendelkezései az irányadóak.
 
 #### 123. § [Az adó megfizetésére kötelezett személy fellebbezési joga]
 
@@ -1432,7 +1457,7 @@ végzés ellen.
 
 (2) A fellebbezést a megtámadott döntést hozó adóhatóságnál kell előterjeszteni. A fellebbezési határidőt megtartottnak kell tekinteni, ha a határidőben benyújtott fellebbezés iránti kérelmet nem a hatáskörrel és illetékességgel rendelkező szervnél terjesztették elő.
 
-(3) A fellebbezésben és a fellebbezés alapján indult eljárásban – semmisségi okon kívül – nem lehet olyan új tényt állítani, illetve olyan új bizonyítékra hivatkozni, amelyről a fellebbezésre jogosultnak az elsőfokú döntés meghozatala, ellenőrzés esetén az észrevétel benyújtására nyitva álló határidő letelte előtt tudomása volt, azonban a bizonyítékot az adóhatóság felhívása ellenére nem terjesztette elő, a tényre nem hivatkozott.
+(3) A fellebbezésben és a fellebbezés alapján indult eljárásban – semmisségi okon kívül – nem lehet olyan új tényt állítani, illetve olyan új bizonyítékra hivatkozni, amelyről a fellebbezésre jogosultnak az elsőfokú döntés meghozatala, ellenőrzés esetén az észrevétel benyújtására nyitva álló határidő letelte előtt tudomása volt, azonban a bizonyítékot az adóhatóság felhívása ellenére nem terjesztette elő, a tényre nem hivatkozott. Az e bekezdésben foglaltak nem alkalmazhatóak az Áfa tv. XVIII. Fejezete szerinti adó-visszatéríttetési eljárásokban.
 
 (4) A (3) bekezdés szerinti felhívásnak tartalmaznia kell azoknak a megállapításoknak és körülményeknek a bemutatását, amelyekkel összefüggésben az adóhatóság az adózót a bizonyítékok előterjesztésére felhívja, valamint tartalmaznia kell a jogkövetkezményekre történő figyelmeztetést.
 
@@ -1679,6 +1704,12 @@ E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvény
 
 (4) E törvénynek a Módtv.5. által megállapított 94. § (1a) bekezdését a hatálybalépést követően indult ellenőrzések során kell alkalmazni.
 
+#### 139/H. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2024. évi LV. törvényhez]
+
+(1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel (a továbbiakban: Módtv.6.) megállapított 50. § (5a) bekezdés c) pontját a hatálybalépését követően indult engedélyezési eljárások során kell alkalmazni.
+
+(2) E törvénynek a Módtv.6. által megállapított 91. § (1) bekezdés e) pontját és 94. § (1b) bekezdését a Módtv.6. hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
 #### 57. Az Európai Unió jogának való megfelelés
 
 #### 140. § [Az Európai Unió jogának való megfelelés]
@@ -1688,6 +1719,10 @@ E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvény
 (2) A törvény 20. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
 (3) E törvény 30. §-a, 67. § (1) bekezdés b) pontja, 87/A. §-a, és 97. § (1) bekezdés a) pontja a 904/2010/EU és az (EU) 2017/2454 rendeletnek a hozzáadottérték-adó területén történő közigazgatási együttműködés megerősítésére irányuló intézkedések tekintetében történő módosításáról szóló 2018. október 2-i 2018/1541/EU tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) E törvénynek a Módtv.5-tel megállapított 36. § (4) bekezdés e) pontja a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a kisvállalkozásokra vonatkozó különös szabályozás tekintetében történő módosításáról és a 904/2010/EU rendeletnek a kisvállalkozásokra vonatkozó különös szabályozás megfelelő alkalmazásának nyomon követését célzó közigazgatási együttműködés és információcsere tekintetében történő módosításáról szóló, 2020. február 18-i 2020/285 tanácsi irányelvnek való megfelelést szolgálja.
+
+(5) A 8. § (1) bekezdése a jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló 2019. december 19-i (EU) 2020/262 tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 58. A törvény hivatalos rövid megjelölése
 

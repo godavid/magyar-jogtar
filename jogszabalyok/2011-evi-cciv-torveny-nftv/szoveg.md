@@ -80,6 +80,8 @@ alapíthat.
 
 (3) A felsőoktatási intézmény e törvény szerinti átalakulása – egyesülése, kiválása, beolvadása – nem tartozik a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerinti piaci magatartás körébe.
 
+5/A. § Az 1. mellékletben meghatározott, Magyarországon államilag elismert felsőoktatási intézmény az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 2. § 8. pontjában meghatározott szervek eljárásában eseti szakértőként kirendelhető.
+
 ## MÁSODIK RÉSZ — A FELSŐOKTATÁSI INTÉZMÉNYEK MŰKÖDÉSE
 
 ### II. Fejezet — A FELSŐOKTATÁSI INTÉZMÉNY LÉTESÍTÉSE
@@ -429,7 +431,7 @@ folytathat tevékenységet.
 
 (5) A képzés duális képzésként is megszervezhető.
 
-### V. Fejezet — ADATKEZELÉS A FELSŐOKTATÁSI INTÉZMÉNYEKBEN, A FELSŐOKTATÁS INFORMÁCIÓS RENDSZERE
+### V. Fejezet — ADATKEZELÉS A FELSŐOKTATÁSI INTÉZMÉNYEKBEN ÉS A DIÁKHITEL SZERVEZETNÉL, A FELSŐOKTATÁS INFORMÁCIÓS RENDSZERE
 
 #### 9. Az adatkezelés célja
 
@@ -450,6 +452,12 @@ nélkülözhetetlenül szükséges személyes és különleges adatokat tartja n
 (3) A felsőoktatási intézmény a tanulmányi rendszerében kezelt és rögzítésre kerülő adatok ellenőrzését, továbbá a tanulmányi rendszeren keresztül benyújtott dokumentumok és elektronikus űrlapok adatainak előzetes ellenőrzését és a benyújtó általi hitelesítését elsősorban a Szabályozott Elektronikus Ügyintézési Szolgáltatások (a továbbiakban: SZEÜSZ) és a Központi Elektronikus Ügyintézési Szolgáltatások (a továbbiakban: KEÜSZ) díjmentes felhasználásával köteles elvégezni.
 
 (4) A felsőoktatási intézmény a tanulmányi rendszerében tárolt adatok alapján, szakonként – a hallgatói lemorzsolódás csökkentése és a sikeres felvételi eljárások elősegítésének érdekében –, jogszabályban előírt módon és tartalommal középiskolai rangsort köteles vezetni, és ezen adatokat a tanulmányi rendszer minden felhasználója számára, továbbá az adott középiskolában végzett hallgatók tanulmányi eredményeivel kiegészítve az Szkt.-ban meghatározott regisztrációs és tanulmányi alaprendszerek és a Köznevelési Regisztrációs és Tanulmányi Alaprendszerek számára a kapcsolódó statisztikai adatokkal együtt a tanulmányi rendszeréből az EVOP-portálon keresztül elektronikus úton hozzáférhetővé kell tennie.
+
+18/A. § (1) A hallgatói hitelrendszerről szóló kormányrendeletben (a továbbiakban: Korm. rendelet) meghatározott, külföldön felvett hitel kiváltásához kapcsolódó feladatainak teljesítése körében a Korm. rendelet szerinti Diákhitel szervezet (a továbbiakban: Diákhitel szervezet) a központi kormányzati szolgáltatási busz használatával jogosult az igénylő – a hitelkiváltást követő 7 éven belül legalább 5 évig hallgatói jogviszony vagy munkaviszony fenntartására vonatkozó – vállalását igazoló adatot kezelő szervet megkeresni és a szükséges ellenőrzést elvégezni.
+
+(2) A Diákhitel szervezet jogosult az (1) bekezdés szerint tudomására jutott személyes adat megismerésére, nyilvántartására és kezelésére.
+
+(3) A (2) bekezdés alapján nyilvántartott adatok körét, az adatkezelés célját és időtartamát az 5. melléklet rögzíti.
 
 #### 10. A felsőoktatási információs rendszer
 
@@ -3785,6 +3793,20 @@ V.
   - d) a pályázatkezelő szervezet a felsőoktatási információs rendszer működtetéséért felelős szervnek a b) pontban meghatározott adatok lekérdezéséhez szükséges adatokat.
 
 ### 5. melléklet a 2011. évi CCIV. törvényhez
+
+#### A Diákhitel szervezet által nyilvántartott és kezelt személyes adatok
+
+- 1. A Diákhitel szervezet a külföldi diákhiteleknek a Korm. rendelet szerinti, a külföldön felvett hitel kiváltása, továbbá a kiváltáshoz kapcsolódó kamatkedvezményre való jogosultság vizsgálata céljából nyilvántartja a hiteligénylő
+  - a) nevére,
+  - b) születési helyére,
+  - c) születési idejére,
+  - d) anyja nevére,
+  - e) adóazonosító jelére, és
+  - f) biztosítotti jogviszonya kezdő és záró időpontjára
+
+vonatkozó személyes adatokat.
+
+- 2. A Diákhitel szervezet az 1. pont szerint nyilvántartott adatokat a Korm. rendeletben meghatározott kiváltó hitelre vonatkozó kölcsönszerződés megkötéstől számított 8 évig kezeli.
 
 ### 6. melléklet a 2011. évi CCIV. törvényhez
 

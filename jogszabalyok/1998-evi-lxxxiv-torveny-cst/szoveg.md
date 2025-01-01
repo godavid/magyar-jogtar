@@ -377,6 +377,8 @@ közös szabályai
 
 35/A. § A Külszoltv. hatálya alá tartozó személy részére a külszolgálatra tekintettel az e törvény alapján ellátásra jogosító gyermek után bármilyen jogcímen járó ellátás, díj vagy támogatás megállapításáról valamint megszűnéséről a külpolitikáért felelős miniszter adatot szolgáltat a családtámogatási ügyben eljáró hatóság részére.
 
+35/B. § A tartós külszolgálat vagy más jogszabály szerinti tartós külföldi szolgálat ideje alatt az ellátásra jogosító gyermek után folyósított ellátás, díj vagy támogatás e törvény alkalmazásában az 5. § a), illetve b) pontja szerinti ellátásnak minősül, amelyre a Külszoltv. szabályai alkalmazandóak.
+
 36. § A családtámogatási ellátással kapcsolatos eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
 36/A. § (1) Az igényelbíráló szerv részére adatot szolgáltat
@@ -560,6 +562,12 @@ fennállásáról, szüneteléséről és megszűnéséről.
 - h) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdés c) pontjában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a központi családtámogatási szerv által kibocsátott, az utazási kedvezményre való jogosultságot igazoló hatósági igazolványon szereplő személyekre vonatkozóan az ellenőrzéshez szükséges adatokat,
 - i) az állami foglalkoztatási szerv a gyermekek után járó támogatások lekérdezése, nyilvántartásba vétel, ellátás megállapítása érdekében szükséges adatokat
 - j) a nyomozó hatóság a törvényben meghatározott feladatainak ellátása érdekében szükséges adatokat
+- k) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához szükséges adatokat,
+- l) a pártfogó felügyelői szolgálat a pártfogó felügyelői feladatok végrehajtásához szükséges adatokat,
+- m) az egészségbiztosítási szerv az egészségbiztosító szak- és pénzügyi ellenőrzése érdekében szükséges adatokat,
+- n) a nyugdíjbiztosítási igazgatási szerv a nyugellátás megállapítása, egyeztetési eljárás lefolytatása érdekében szükséges adatokat,
+- o) az áldozatsegítő szolgálat az áldozatsegítő támogatások engedélyezéséhez szükséges adatokat,
+- p) a jogi segítségnyújtó szolgálat a jogi segítségnyújtási támogatások engedélyezéséhez szükséges adatokat
 
 közvetlen lekérdezéssel díjmentesen elérheti.
 
@@ -602,6 +610,14 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 50/D. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 50/E. § A 7. § (2) bekezdése alapján járó, 2021. július 1-jén – a 2021. június 30-án hatályos 14. § alapján – szünetelő nevelési ellátást kérelemre, 2021. július 1-jei időponttól újra folyósítani kell.
+
+50/F. § A
+
+- a) családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló kormányrendelet szerinti kölcsön,
+- b) kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet szerinti többgyermekes családok otthonteremtési kamattámogatásával érintett kölcsön, és
+- c) babaváró támogatásról szóló kormányrendelet szerinti babaváró kölcsön
+
+igénybevétele tekintetében a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 53. § (1) bekezdés b)–d) pontja szerinti átalányban megállapított jövedelemmel rendelkező egyéni vállalkozó, mezőgazdasági őstermelő jövedelmeként a jövedelem megállapításánál figyelembe vett bevétele 50 százalékát kell figyelembe venni.
 
 51. § Felhatalmazást kap
 
