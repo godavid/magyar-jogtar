@@ -1,0 +1,754 @@
+# 2024. évi XCI. törvény
+
+a HUN-REN Magyar Kutatási Hálózatról
+
+Az Országgyűlés a tudományos kutatás Alaptörvényben rögzített autonómiájának további erősítése, a kutatási tevékenység hatékonyabb megszervezése, eredményesebb támogatása, a magyar tudósok kutatásainak hosszú távú biztosítása, továbbá annak érdekében, hogy a magyar kutatásokat a nemzetközi színtéren is a legkiválóbbak között tartsák számon és ehhez méltó elismerést kapjanak a következő törvényt alkotja:
+
+### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### 1. A HUN-REN Magyar Kutatási Hálózat közfeladatai, jogállása
+
+1. § (1) A HUN-REN Magyar Kutatási Hálózat (a továbbiakban: HUN-REN) küldetése, hogy az általa végzett tudományos kutatásokkal és innovációs tevékenységekkel hozzájáruljon
+
+- a) új tudományos és innovációs eredmények létrehozásához,
+- b) a nemzeti kultúra őrzéséhez és ápolásához, valamint
+- c) az egyetemes tudomány és kultúra gazdagításához,
+
+ezáltal a magyar gazdaság és az egész magyar nemzet előtt álló társadalmi, gazdasági és környezeti kihívások megoldásához.
+
+(2) Az (1) bekezdésben meghatározott célok elérése érdekében a HUN-REN a következő közfeladatokat látja el:
+
+- a) kutatási intézményein keresztül tudományos kutatásokat végez, ennek érdekében fenntartja, működteti, folyamatosan fejleszti az ehhez szükséges infrastruktúrát,
+- b) intézkedéseket tesz a tudományos kutatások eredményeinek hasznosítása érdekében,
+- c) megállapodásokat köt és kapcsolatokat tart fenn hazai, külföldi és nemzetközi tudományos intézményekkel és szervezetekkel, az Európai Unió tudományos szervezeteivel,
+- d) felsőoktatási intézményekkel és közgyűjteményekkel kötött megállapodás alapján ezen intézményekben tudományos kutatócsoportokat tarthat fenn, valamint közreműködhet az oktatásban és a felsőoktatási intézményekben folyó doktori (PhD) képzésben,
+- e) gondoskodik a kutatói utánpótlási rendszer működtetéséről,
+- f) az állami, önkormányzati szervek megkeresése alapján kutatást végez, állást foglal tudományos kérdésekben,
+- g) kutatási tevékenységével összefüggő közcélú szolgáltatásokat nyújt,
+- h) az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről,
+- i) üzemelteti a Budapesti Kutatóreaktort, valamint
+- j) ellátja mindazon közfeladatokat, amelyeket törvény a feladat- és hatáskörébe utal.
+
+(3) Az állam a HUN-REN (2) bekezdésben foglalt közfeladatainak érvényre juttatása érdekében védi a HUN-REN, mint sajátos magánjogi jogalany jogintézményét és magánjogi autonómiáját, ideértve annak szervezeti, vagyoni és működési függetlenségét és biztosítja a működéséhez szükséges jogszabályi környezetet.
+
+(4) Magyarország mindenkori költségvetésének tervezésekor előresorolt tényező a HUN-REN közfeladat ellátásához közvetlenül szükséges finanszírozási feltételeinek a biztosítása.
+
+(5) A HUN-REN feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát, tevékenységét érintő jogszabályok megalkotása és módosítása során.
+
+2. § (1) A HUN-REN az 1. § (2) bekezdésében meghatározott közfeladatainak ellátása érdekében működő sajátos jogállású jogi személy.
+
+(2) A HUN-REN-re a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) jogi személyekre vonatkozó általános szabályait az e törvényben foglalt eltérésekkel kell alkalmazni. Ahol jogszabály egyéb jogi személyt vagy egyéb szervezetet említ, azon a HUN-REN-t is érteni kell, hacsak a jogszabály céljából vagy e törvényből más nem következik.
+
+(3) A HUN-REN e törvény rendelkezése alapján egyúttal közhasznú jogállásúnak is minősül, ha ezt kérelmezi, ebben az esetben e jogállást a nyilvántartásban is fel kell tüntetni.
+
+(4) A HUN-REN
+
+- a) más jogi személlyé nem alakulhat át,
+- b) más jogi személlyel nem olvadhat össze,
+- c) más jogi személybe nem olvadhat be, valamint
+- d) nem válhat külön.
+
+(5) A HUN-REN esetében az 1. §-ban foglalt céljait és közfeladatait érintően – a Ptk. 3:45. § (1a) bekezdése szerinti leválás kivételével – a kiválás kizárt.
+
+(6) A HUN-REN a Ptk.-ban foglaltaknak megfelelően rendelkezhet egyes szervezeti egységeinek jogi személlyé nyilvánításáról.
+
+### II. Fejezet — A HUN-REN ALAPÍTÁSA
+
+#### 2. A HUN-REN nyilvántartásba vétele
+
+3. § (1) Az Országgyűlés felhívja a Kormányt, hogy az állam nevében tegye meg a szükséges intézkedéseket a HUN-REN létrehozására.
+
+(2) A HUN-REN alapítása során az állam képviseletében a tudománypolitika koordinációjáért felelős miniszter (a továbbiakban: miniszter) jár el.
+
+(3) A HUN-REN határozatlan időre jön létre.
+
+4. § (1) A Ptk. szerinti, a jogi személy létesítő okiratának általános kötelező tartalmi elemein kívül a HUN-REN alapító okiratának tartalmaznia kell
+
+- a) az arra való utalást, hogy e törvény szerinti közfeladatot lát el,
+- b) a HUN-REN vagyona kezelésének és felhasználásának e törvényben foglaltakkal összhangban álló részletszabályait,
+- c) az Irányító Testület elnökének nevét, aki kizárólag a tudomány művelője lehet,
+- d) az Irányító Testület további tagjainak nevét, valamint megbízatásuk időtartamát, ha az a 8. § (3) bekezdésében meghatározottnál rövidebb,
+- e) a vezérigazgató és a felügyelőbizottság tagjainak nevét és megbízatásuk időtartamát,
+- f) az Irányító Testület kijelölését az alapítói jogok teljes körének gyakorlására,
+- g) az Irányító Testületi, valamint a felügyelőbizottsági tagság keletkezésére és megszűnésére vonatkozó szabályokat, továbbá az Irányító Testület, valamint a felügyelőbizottság tagjaira vonatkozó, e törvényben nem szabályozott kizáró és összeférhetetlenségi szabályokat, és
+- h) az Irányító Testületi, valamint a felügyelőbizottsági tagsági díjazás megállapításának szabályait.
+
+(2) A HUN-REN alapításakor az alapító okiratában az Irányító Testület elnökének és (1) bekezdés d) pont szerinti tagjainak a miniszterelnök által megjelölt személyt kell kijelölni. Az Irányító Testület elnökére és (1) bekezdés d) pont szerinti tagjaira a miniszter és a Magyar Tudományos Akadémia elnöke konszenzusos módon tesz a miniszterelnöknek javaslatot.
+
+(3) A HUN-REN alapítása során az (1) bekezdés e) pontja szerinti személyeket a miniszter jelöli.
+
+(4) A HUN-REN alapító okiratát közokiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni.
+
+5. § (1) A HUN-REN létesítéséhez annak javára a Ptk. 3:9. §-ában foglaltakra tekintettel legalább egymilliárd forintnak megfelelő hozzájárulást kell rendelni.
+
+(2) A HUN-REN javára rendelt hozzájárulást az alapító okiratban vagyontárgyanként, vagyonelemenként, az azonosításukhoz szükséges részletességgel kell megjelölni.
+
+(3) A HUN-REN nyilvántartásba vétele iránti kérelem benyújtását megelőzően az (1) bekezdés szerinti hozzájárulást a HUN-REN rendelkezésére kell bocsátani.
+
+(4) Az alapító okiratban foglaltaknak megfelelően a magyar állam a HUN-REN részére – az alapításkor vállalt és annak megfelelően teljesített vagyonrendelésen felül – további vagyon rendelkezésre bocsátását is vállalhatja egyoldalú írásbeli jognyilatkozattal azzal a céllal, hogy e vagyonjuttatással a HUN-REN alapításkor rendelt vagyonát növelje. E vagyonnövelés – ideértve az annak felhasználása körében harmadik személy javára teljesített kifizetést és juttatást is – nem minősül külön törvény szerinti támogatásnak és arra alkalmazni kell a (2) bekezdést azzal, hogy az alapító okiratot az Irányító Testület módosítja.
+
+6. § A HUN-REN nyilvántartásba vételi eljárására a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény (a továbbiakban: Cnytv.) rendelkezéseit kell alkalmazni azzal, hogy kérelmezőnek a miniszter minősül, és a bíróság a HUN-REN-t az 1. § (1) bekezdésében meghatározott névvel, egyéb szervezetként veszi nyilvántartásba, azzal, hogy a HUN-REN típusa a 2024. évi XCI. törvény hatálya alá tartozó jogi személy.
+
+### III. Fejezet — A HUN-REN SZERVEZETE
+
+#### 3. A HUN-REN főbb szervezeti egységei és tisztségviselői
+
+7. § A HUN-REN
+
+- a) ügyvezető és döntéshozó szerve az Irányító Testület,
+- b) képviselője és az Irányító Testület vezetője az elnök,
+- c) operatív vezetője a vezérigazgató,
+- d) tevékenységének gazdasági ellenőrzésre jogosult szervezete a felügyelőbizottság,
+- e) kutatási intézményei tudományos és innovációs tevékenységének koordinálói a tudományterületi alelnökök, valamint
+- f) tudományos kutatást végző kutatási intézményeinek vezetői a kutatási intézményvezetők.
+
+8. § (1) A HUN-REN irányító testületi és felügyelőbizottsági tagjainak kijelöléséről – e tisztségek megüresedése esetén – az Irányító Testület a felügyelőbizottsággal együttesen határoz akként, hogy a döntéshez a megüresedő tisztség által érintett testületi szerv tagjai többségének szavazata is szükséges. Az alapító okirat e kérdésben való döntéshozatalhoz további minősített többséget is előírhat.
+
+(2) Az Irányító Testület és felügyelőbizottság tagjainak, valamint elnökének visszahívásáról a kijelölésükkel azonos módon hozható döntés.
+
+(3) Az elnök, a vezérigazgató, valamint az Irányító Testület és a felügyelőbizottság tagjainak megbízatása legfeljebb hat évre szól. Az elnök, valamint az Irányító Testület tagja egy alkalommal, legfeljebb hat évre újraválasztható, a vezérigazgató megbízatása egy alkalommal, legfeljebb hat évvel meghosszabbítható.
+
+(4) Az elnök és a vezérigazgató a tevékenységéért az Irányító Testületnek felel.
+
+(5) Az Irányító Testület és a felügyelőbizottság tagjai csak a jogszabályokban és az alapító okiratban foglaltaknak vannak alárendelve, tevékenységük körében nem utasíthatóak.
+
+9. § (1) Az Irányító Testületnek – ideértve a vezérigazgatót is – vagy felügyelőbizottságának nem lehet tagja
+
+- a) országgyűlési képviselő,
+- b) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti politikai felsővezető,
+- c) a Kit. szerinti kormánybiztos,
+- d) a Kit. szerinti miniszteri biztos,
+- e) a Kit. szerinti szakmai felsővezető,
+- f) a Kit. szerinti szakmai vezető,
+- g) a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) szerinti szervnél foglalkoztatott köztisztviselő,
+
+vagy aki irányító testületi, vezérigazgatói vagy felügyelőbizottsági megbízatásának kezdetét megelőző egy évben az a)–g) pont szerinti tisztséget töltött be.
+
+(2) A HUN-REN által létesített vagy fenntartott, a Ptk. alapján létrehozott jogi személy ügyvezetője nem lehet
+
+- a) országgyűlési képviselő,
+- b) a Kit. szerinti politikai felsővezető,
+- c) a Kit. szerinti kormánybiztos,
+- d) a Kit. szerinti miniszteri biztos,
+- e) a Kit. szerinti szakmai felsővezető,
+- f) a Kit. szerinti szakmai vezető,
+- g) a Küt. szerinti szervnél foglalkoztatott köztisztviselő,
+
+vagy aki ügyvezetői megbízatásának kezdetét megelőző egy évben az a)–d) pont szerinti tisztséget töltött be.
+
+(3) A HUN-REN Irányító Testületének vagy felügyelőbizottságának tagja (a továbbiakban együtt: tisztviselő) nem lehet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti támogatott alapítvány vagy támogatott jogi személy (a továbbiakban együtt: támogatott szerv) kuratóriumának, felügyelőbizottságának tagja vagy vezető tisztségviselője, amennyiben ezen tisztségek egyidejű betöltése miatt a feladatai pártatlan, tárgyilagos és elfogulatlan ellátására nem, vagy csak korlátozottan képes.
+
+(4) Tisztviselő csak olyan személy lehet, aki rendelkezik a tisztség betöltéséhez szükséges függetlenséggel, feddhetetlenséggel, pártatlansággal és integritással.
+
+(5) Az e § szerinti összeférhetetlenségi szabályoknak való megfelelést az Állami Számvevőszék álláspontja figyelembevételével az Irányító Testület állapítja meg.
+
+(6) Az Állami Számvevőszék vizsgálatát – a tisztviselő megbízatásának megkezdését megelőzően – a HUN-REN tisztviselője kezdeményezheti. Az Állami Számvevőszék állásfoglalását a kezdeményezés kézhezvételétől számított 30 napon belül hozza meg.
+
+(7) A 4. § (1) bekezdés c)–e) pontjaiban foglalt személyek összeférhetetlenségi szabályoknak való megfelelését az Állami Számvevőszék a HUN-REN létrejöttét követő 3 hónapon belül ellenőrzi.
+
+10. § (1) A tisztviselő a tisztsége betöltésének napjától számított harminc napon belül, valamint a megbízatásának megszűnését követő harminc napon belül vagyonnyilatkozatot tesz az Országgyűlésről szóló 2012. évi XXXVI. törvény 1. melléklete szerinti tartalommal és formában.
+
+(2) Az (1) bekezdés szerinti vagyonnyilatkozatot a HUN-REN felügyelőbizottsága őrzi.
+
+(3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a tisztviselő tisztségéből eredő jogait nem gyakorolhatja, díjazásban nem részesülhet.
+
+(4) A tisztviselő által tett, (1) bekezdés szerinti vagyonnyilatkozatát az Integritás Hatóság az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény szerint ellenőrzi.
+
+#### 4. Az Irányító Testület, az elnök és a vezérigazgató feladat- és hatásköre
+
+11. § (1) A HUN-REN ügyvezető és döntéshozó szerve a hétfős Irányító Testület, amely tagjainak többsége a tudomány művelői közül kerül kiválasztásra. Az Irányító Testület ülésein – tanácskozási joggal – részt vehet a kutatási intézményvezetők által delegált legfeljebb három személy.
+
+(2) Az Irányító Testület:
+
+- 1. gyakorolja az alapítói jogokat az e törvényben foglaltak szerint;
+- 2. elfogadja a HUN-REN stratégiáját, és ennek keretében a kutatási intézmények céljait;
+- 3. megválasztja az elnököt;
+- 4. az elnök javaslatára dönt a tudományterületi alelnökök vonatkozásában jogviszony létesítéséről és annak megszüntetéséről, felkéri a tudományterületi alelnököket segítő tudományterületi kutatási tanácsok tagjait;
+- 5. dönt a kutatási intézmények létrehozásáról, átszervezéséről, megszüntetéséről;
+- 6. véleményt nyilvánít a kutatási intézményvezetők kinevezéséről;
+- 7. dönt a HUN-REN szervezeti és működési szabályairól;
+- 8. elfogadja a HUN-REN
+  - a) üzleti tervét,
+  - b) általános költségvetését,
+  - c) kutatási intézményekre vonatkozó költségvetését, valamint
+  - d) a vagyongazdálkodásával kapcsolatos szabályokat;
+- 9. meghatározza a HUN REN teljesítménymérésének és -értékelésének rendszerét.
+
+(3) Az Irányító Testület a (2) bekezdés 1–6. és 8. pontjában szereplő jogkörei kizárólagos jogkörök, azokat nem ruházhatja át.
+
+(4) Az Irányító Testület (2) bekezdés 2., 5., valamint 8. pont c) alpontjában foglalt döntéseihez az Irányító Testület tudomány művelői közül kinevezett tagjai többségének támogató szavazata szükséges.
+
+(5) Az Irányító Testület munkáját a tudomány művelőiből álló, javaslattételi, véleményezési jogkörrel rendelkező nemzetközi tudományos tanácsadó testület támogatja. A testület tagjait az Irányító Testület elnöke kéri fel a közreműködésre.
+
+(6) Az Irányító Testület munkáját a mindenkori kutatási intézményvezetőkből álló, konzultatív jogkörrel rendelkező Intézményvezetői Kollégium segíti, amelyet az Irányító Testület évente legalább két alkalommal hív össze.
+
+12. § (1) Az Irányító Testület és a HUN-REN vezetője az elnök, akit – az alapításkori 4. § (1) bekezdés c) pontja és (2) bekezdése szerinti kijelölés kivételével – az Irányító Testület tagjai maguk közül választanak. Elnöknek csak a tudomány művelője választható.
+
+(2) A HUN-REN tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
+
+(3) Az elnök
+
+- 1. képviseli a HUN-REN-t;
+- 2. a vezérigazgató és a tudományterületi alelnökök útján gondoskodik az Irányító Testület döntéseinek végrehajtásáról;
+- 3. a tudományterületi alelnökök és az Irányító Testület véleményének kikérésével kinevezi a kutatási intézmények vezetőit;
+- 4. a HUN-REN vagyona tekintetében gyakorolja a tulajdonosi jogokat;
+- 5. munkáltatói jogot gyakorol
+  - a) a vezérigazgató,
+  - b) – a kinevezés, a felmondás és a módosítás jogának kivételével – a tudományterületi alelnökök,
+  - c) a kutatási intézményvezetők, valamint
+  - d) a HUN-REN szervezeti és működési szabályzatban meghatározott munkavállalói felett,
+- 6. ellátja az alapító okirat által hatáskörébe utalt további feladatokat.
+
+(4) Az elnököt – akadályoztatása esetén – tudományos ügyekben a tudományterületi alelnökök, operatív és szervezeti ügyekben a vezérigazgató helyettesíti, egyebekben az elnök a (3) bekezdés 4. és 6. pontjában foglalt jogköreit vagy azok meghatározott részét a vezérigazgatóra ruházhatja, aki e jogát nem ruházhatja át.
+
+13. § A vezérigazgató a HUN-REN operatív vezetője, ennek keretében
+
+- a) ellátja a HUN-REN adminisztratív irányítását,
+- b) ellátja az alapító okiratban, a szervezeti és működési szabályzatban foglalt feladatokat és
+- c) eljár azokban az ügyekben, amelyekben átruházott jogkört gyakorol.
+
+#### 5. A felügyelőbizottság
+
+14. § (1) A HUN-REN működése során felügyelőbizottság létrehozása kötelező. A felügyelőbizottság három tagból áll. A felügyelőbizottság elnökét a tagok maguk közül választják.
+
+(2) Az alapító okirat a felügyelőbizottság elnökére, valamint tagjaira vonatkozóan képesítési, végzettségi és egyéb szakmai követelményeket állapíthat meg.
+
+#### 6. A tudományterületi alelnökök és a kutatási intézmények feladat- és hatásköre
+
+15. § (1) A kutatási intézmények tudományos tevékenységének koordinálására tudományterületi alelnökök nevezhetők ki. Tudományterületi alelnöknek kizárólag a tudomány művelője nevezhető ki. A tudományterületi alelnök ellátja az alapító okiratban, valamint a szervezeti és működési szabályzatban számára meghatározott feladatokat.
+
+(2) A tudományterületi alelnök munkáját a javaslattételi, véleményezési jogkörrel rendelkező kutatási tanács segíti.
+
+16. § (1) A HUN-REN 1. § (2) bekezdésében foglalt közfeladatai ellátására HUN-REN kutatási intézményeket (a továbbiakban: kutatási intézmény) hoz létre. A HUN-REN a tudomány szabadsága elvének érvényre juttatásával kutatási intézményekben végzi a tudományos kutatási és innovációs tevékenységét.
+
+(2) A kutatási intézmények szakmai programjuk alapján a szakterületükön
+
+- a) tudományos kutatás végeznek,
+- b) állást foglalnak tudományos kérdésekben,
+- c) gondoskodnak kutatóik szakmai fejlődéséről és a szakmai utánpótlás biztosításáról, továbbá
+- d) felsőoktatási intézménnyel kötött megállapodás alapján közreműködnek az oktatásban, kutatásban és doktori képzésekben.
+
+(3) Kutatási intézményvezetővé kizárólag a tudomány művelője nevezhető ki.
+
+### IV. Fejezet — A HUN-REN GAZDÁLKODÁSA ÉS FINANSZÍROZÁSA
+
+#### 7. A HUN-REN gazdálkodása
+
+17. § (1) A HUN-REN a vagyonát kizárólag az 1. § (2) bekezdésében meghatározott közfeladatával összefüggő tevékenység végzésére fordíthatja. Ennek során a HUN-REN a piaci magánbefektető elvével összhangban gazdálkodási tevékenységet végezhet, ami nem veszélyeztetheti a közfeladat-ellátást. E gazdasági tevékenységek költségeit és bevételeit számvitelileg elkülönítetten tartja nyilván.
+
+(2) A HUN-REN gazdasági tevékenységként a javára rendelt, valamint az általa az 5. § alapján, valamint egyéb forrásból származó vagyona kezelését az 1. § (2) bekezdésében meghatározott közfeladataihoz kapcsolódó céljaként végzi, és azzal a felelős gazdálkodás követelménye sérelme nélkül szabadon gazdálkodhat.
+
+(3) A HUN-REN vagyona nem csökkenhet az 5. § (1) bekezdésben meghatározott hozzájárulás mértéke alá.
+
+18. § (1) Ha a HUN-REN részére alapításkor vagy annak induló vagyonát növelő vagyonjuttatásként vagyonelem kerül átadásra, akkor a tulajdonjog átruházását a HUN-REN alapító okiratában fel kell tüntetni.
+
+(2) Az e § szerinti vagyonjuttatásra nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 6. § (1) bekezdésében és 13. § (4), (5), (7) és (8) bekezdésében foglaltakat.
+
+(3) Az állam által ingyenesen juttatott vagyonelemekkel a HUN-REN vagyongazdálkodási tevékenysége keretében szabadon gazdálkodhat, azzal a felelős gazdálkodás követelménye sérelme nélkül szabadon rendelkezhet. Az állam az ingyenes vagyonjuttatáskor rendelkezhet akként is, hogy egyes vagyonelemek tekintetében a szabad gazdálkodást oly módon korlátozza, hogy a vagyonelem tekintetében az alapító okiratban államot megillető elővásárlási jogot alapít.
+
+(4) Az állam által juttatott társasági részesedés esetén az államot az alapító okiratban rögzített feltételekkel elővásárlási jog, valamint nyilvánosan működő részvénytársaság esetén vételi jog illeti meg. Amennyiben az állam nem él elővásárlási jogával vagy vételi jogával, akkor az elővásárlási jog vagy vételi jog a társasági részesedéssel érintett gazdasági társaságot illeti meg.
+
+(5) Ha az elővásárlási jog, vagy a vételi jog jogosultja az elővásárlási jogával, vagy vételi jogával a felhívást követő 90 napon belül nem él, akkor az elővásárlási jog, illetve vételi jog megszűnik.
+
+(6) Az ingyenes vagyonjuttatáskor a (3) bekezdéstől eltérően az állam rendelkezhet akként is, hogy egyes vagyonelemeket közvetlenül HUN-REN céljai szerinti közfeladat, közérdekű tevékenység megvalósítására rendeli. Ez esetben kiköthető olyan feltétel, hogy a meghatározott közfeladat HUN-REN általi ellátása vagy a cél megszűnése, valamint megvalósulása esetén az ekként juttatott, közfeladattal terhelt vagyon az államra visszaszáll, amit elidegenítési és terhelési tilalom biztosít. E jogot ingatlan esetén az ingatlan-nyilvántartásba be kell jegyezni.
+
+(7) Ha az állam a HUN-REN részére közvetlenül a közfeladat megvalósítására állami vagyon tulajdonjogát – törvény felhatalmazásán alapuló jognyilatkozattal, szerződéssel vagy jogi személy létesítő okiratával (a továbbiakban együtt: alapokirat) – ingyenesen átruházza, akkor az ezt magában foglaló alapokiratot kizárólag az abban erre feljogosított személyek módosíthatják. E közfeladathoz kapcsolódóan közép- vagy hosszú távú, költségvetési éven túli év kiadási előirányzat terhére kötelezettség törvényi felhatalmazás alapján vállalható.
+
+(8) Az Nvtv. 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján – a HUN-REN vagyongazdálkodási tevékenységének, továbbá közfeladatának ellátása és közérdekű céljának megvalósítása érdekében – az állam által a HUN-REN részére ingyenesen juttatott vagyonelemeket nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérően – a HUN-REN tulajdonába kell adni.
+
+(9) Vagyonjuttatás úgy is adható, hogy az állam a HUN-REN vagy a fenntartásában álló jogi személy tulajdonában álló ingatlanon közvetlenül központi költségvetési forrásból célzott beruházást finanszíroz.
+
+(10) Az e § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésben meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+(11) A vagyonjuttatás részletes kérdései e törvény keretein belül az állam és a HUN-REN közötti polgári jogi megállapodásban is rendezhetőek.
+
+(12) Ha a HUN-REN az 1. § (2) bekezdésében meghatározott közfeladatát a tulajdonában álló vagy általa fenntartott jogi személy bevonásával látja el, úgy e jogi személy részére biztosított vagyonjuttatásra is e § rendelkezéseit kell alkalmazni.
+
+(13) Jelen alcím szabályait alkalmazni kell arra az esetre, ha nem az állam juttat a HUN-REN részére vagyont. A vagyonjuttatás részletes kérdései a vagyont juttató és a HUN-REN közötti polgári jogi megállapodásban is rendezhetőek.
+
+#### 8. A HUN-REN finanszírozására vonatkozó rendelkezések
+
+19. § (1) A HUN-REN e törvény szerinti tevékenységeit az állam
+
+- a) közfeladat-finanszírozási szerződéssel,
+- b) támogatással,
+- c) az 5. § és a 21. § szerinti vagyonjuttatással, illetve
+- d) adománnyal
+
+biztosítja.
+
+(2) A HUN-REN céljai megvalósításához az államon kívüli más személy is támogatást adhat vagy adományt nyújthat. A HUN-REN részére pénzbeli és nem pénzbeli vagyoni juttatás, adomány egyaránt adható.
+
+(3) A HUN-REN az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet, és pályázati támogatásban részesülhet.
+
+20. § (1) A HUN-REN közfeladatának ellátása elsődlegesen közfeladat-finanszírozási szerződéssel történik.
+
+(2) Az érintett közfeladat hosszú távon történő biztosítása érdekében a HUN-REN mint szolgáltató finanszírozásának alapvető elveit és biztosítékait, valamint az állam mint megrendelő együttműködésének rendjét az állam és a HUN-REN hosszú távú, huszonöt év időtartamra szóló keretmegállapodásban rögzítik.
+
+(3) A (2) bekezdésben foglalt keretmegállapodás hatálya alatt az állam és a HUN-REN kötelesek hat év időtartamra szóló részletes közfeladat-finanszírozási megállapodásban megállapítani
+
+- a) a megállapodással érintett tevékenység vállalt volumenét, indikátorrendszerét,
+- b) a támogatás a) ponthoz igazodó mértékét és a támogatás értékkövetésének szabályrendszerét,
+- c) a szabad témaválasztás alapján végzendő felfedező kutatások lehetőségét, valamint a tématerületi prioritások alapján meghatározott kutatási témák körét, valamint
+- d) a közfeladat-ellátás időszakos közös értékelését, felülvizsgálatát és a szükséges részletszabályokat.
+
+(4) A (3) bekezdés szerinti feladatfinanszírozási megállapodás megkötésekor és módosításakor az állam nevében eljáró miniszter a megállapodás időtartamára vállalhat éven túli kötelezettséget.
+
+(5) A (3) bekezdés szerinti közfeladat-finanszírozási szerződés évenként rögzített összege nem haladhatja meg a HUN-REN előző évi központi költségvetésből származó támogatásának legfeljebb kétszázötven százalékát.
+
+(6) Amennyiben valamelyik fél a közfeladat-finanszírozási szerződésben foglaltakat nem teljesíti, a másik fél jogosult a polgári perrendtartásról szóló 2016. évi CXXX. törvény szabályai szerint bírósághoz fordulni. A bíróság az ügyben soron kívül jár el, és bírósághoz fordulás esetén köteles ideiglenes intézkedést hozni a közfeladat-ellátás folyamatos biztosítása érdekében.
+
+21. § (1) A HUN-REN részére annak működése során az állam által az 1. § (2) bekezdése szerinti közfeladatok, valamint a HUN-REN alapító okiratában meghatározott célok megvalósításának elősegítése érdekében pénzbeli és nem pénzbeli vagyoni juttatás teljesíthető. A HUN-REN számára teljesített vagyoni juttatás – ideértve az annak felhasználása körében harmadik személy javára teljesített kifizetést és juttatást is – nem minősül külön törvény szerinti támogatásnak.
+
+(2) A pénzbeli vagyoni juttatás teljes körű felhasználásáig a HUN-REN a számvitelről szóló törvény szerinti éves beszámolójában mutatja be annak felhasználását.
+
+(3) Az (1) bekezdés szerinti, a HUN-REN-nek teljesített vagyoni juttatás az 5. § (4) bekezdése szerinti vagyonnövelésnek minősül.
+
+22. § (1) A HUN-REN egyoldalú nyilatkozattal csatlakozhat bármely egységes állami beszerzési rendszerhez, és onnan egyoldalú nyilatkozattal távozhat.
+
+(2) Az állam által nyújtott 19. § (1) bekezdés a) és c) pontja szerinti juttatásra nem kell alkalmazni az államháztartási szabályokat.
+
+#### 9. Vagyonkezelés
+
+23. § (1) A HUN-REN javára vagyontárgy vagyonkezelésbe a közfeladatához rendelten adható, ebben az esetben a HUN-REN-t közfeladathoz rendelt vagyonkezelői jog illeti meg, amelyet ezzel a megjelöléssel ingatlan esetén az ingatlan-nyilvántartásba, ingó esetén a vagyontárgy tulajdonjogát, valamint a vagyontárgyra vonatkozó jog fennállását tanúsító közhiteles nyilvántartásba is be kell jegyezni.
+
+(2) A közfeladathoz rendelt vagyonkezelői jog az állam, valamint kizárólag a (9) bekezdés szerinti közfeladathoz rendelt vagyonkezelői jog alapítása során a Nemzeti Földalap kezeléséért felelős szerv által a HUN-REN javára az alapító okiratba foglalt vagyonrendeléssel vagy a HUN-REN induló vagyonát növelő vagyonjuttatással az alapító okiratba vagy vagyonjuttatást tartalmazó okiratba foglalt jogügylettel alapítható.
+
+(3) A közfeladathoz rendelt vagyonkezelői jog megszűnik, ha
+
+- a) megszűnik az a közfeladat, amelyhez a vagyontárgyat rendelték, vagy elpusztul, megsemmisül az a vagyontárgy, amelyet a közfeladat ellátásához rendeltek,
+- b) a Cnytv. szerinti törvényességi felügyeleti eljárás során a bíróság megállapítja, hogy a HUN-REN nem látja el azt a közfeladatot, amelynek ellátásához javára közfeladathoz rendelt vagyonkezelői jogot alapítottak.
+
+(4) A közfeladathoz rendelt vagyonkezelői jog a (3) bekezdésben foglalt eseteken kívül nem szűnhet meg.
+
+(5) A közfeladathoz rendelt vagyonkezelői jogot a HUN-REN nem idegenítheti el és nem terhelheti meg, és azzal egyéb módon sem rendelkezhet.
+
+(6) A HUN-REN a közfeladathoz rendelt vagyonkezelői joga alapján az e jogával terhelt vagyontárgy felett a tulajdonost megillető jogokat és a tulajdonost terhelő kötelezettségeket azzal gyakorolja, hogy a vagyontárgyat
+
+- a) nem idegenítheti el és nem terhelheti meg,
+- b) harmadik személy részére – sem visszterhesen, sem ingyenesen – használatba nem adhatja, hasznosítás céljára nem engedheti át
+  - ba) a kizárólagos tulajdonában álló gazdasági társaság vagy az általa létesített, valamint fenntartott intézménye vagy ezek kizárólagos tulajdonában álló gazdasági társaság kivételével vagy
+  - bb) lakás célú, elektronikus hírközlési építmény létesítése vagy fenntartása, valamint közszolgáltatások biztosítása céljából történő használat és hasznosítás kivételével.
+
+(7) A közfeladathoz rendelt vagyonkezelői jog és az e joggal terhelt vagyontárgy nem része a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 4. § (1) és (2) bekezdése szerinti, a csődeljárás és felszámolási eljárás körébe tartozó vagyonnak.
+
+(8) A közfeladathoz rendelt vagyonkezelői joggal terhelt állami tulajdonban álló vagyontárgy tekintetében annak tulajdonosi joggyakorlóját a tulajdonost megillető jogosítványok közül csak az elidegenítés és a terhelés joga illeti meg, de e jogát is csak a HUN-REN hozzájárulásával gyakorolhatja.
+
+(9) A HUN-REN részére – közérdekű céljainak megvalósítása és közfeladatának ellátása érdekében – a Nemzeti Földalapba tartozó földrészlet határozatlan időre, ingyenesen, közfeladata ellátásához szükséges vagyonként közfeladathoz rendelt vagyonkezelői jog biztosításával is vagyonkezelésbe adható. A földek vonatkozásában az Nvtv., a Vtv., valamint a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: NFA tv.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni. A földrészleteken a HUN-REN javára fennálló közfeladathoz rendelt vagyonkezelői jog esetében a magyar államot megillető tulajdonosi jogokat és kötelezettségeket a (6) bekezdés alapján és a (8) bekezdés szerinti kivétellel – az NFA tv. 3. § (1) bekezdésétől eltérően – a HUN-REN gyakorolja, és a (8) bekezdés szerinti kivétellel jogosult a földrészleteket illetően a tulajdonos képviseletére is.
+
+(10) A HUN-REN a közfeladatának ellátása érdekében jogosult a közfeladathoz rendelt vagyonkezelői jogával terhelt föld birtoklására, használatára és hasznai szedésére, továbbá a használat, valamint a hasznosítás jogának – (6) bekezdés b) pontja szerinti kivétel alapján történő – átengedésére, köteles továbbá a föld értékét megőrizni, állagának megóvásáról, jó karbantartásáról gondoskodni. A használati jogosultság átengedése esetében a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumot nem kell alkalmazni.
+
+(11) A közfeladathoz rendelt vagyonkezelői jogot az ingatlanügyi hatóság a HUN-REN erre irányuló kérelme alapján jegyzi be az ingatlan-nyilvántartásba.
+
+#### 10. A HUN-REN részére történő vagyonjuttatás
+
+24. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a 18. § alapján – a HUN-REN közfeladatainak ellátása érdekében – az 1. melléklet szerinti állami tulajdonban álló ingatlanokat (a továbbiakban: ingatlanok) ingyenesen, nyilvántartási értéken történő átvezetéssel alapítói vagyoni juttatásként a HUN-REN tulajdonába kell adni.
+
+(2) Az ingatlanok tekintetében a HUN-REN nyilvántartásba vételének hatályával a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
+
+(3) Az ingatlanok tulajdonjogát a HUN-REN a fennálló terhekkel együtt szerzi meg.
+
+(4) Az ingatlanok elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítést követően fennmaradó részét a 17. § (1) bekezdésére tekintettel a HUN-REN az 1. § (2) bekezdése szerinti közfeladatainak ellátására, valamint közérdekű céljainak megvalósítására köteles fordítani.
+
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az 1. § (2) bekezdésében meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd költségvetési szerv tulajdonában lévő, valamint a jogelőd költségvetési szerv vagyonkezelésében lévő, állami tulajdonban lévő ingó vagyontárgyak (e § alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva
+
+- a) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) alapján alapított Magyar Kutatási Hálózat HUN-REN Központja (a továbbiakban: MKH Központ) esetében a HUN-REN,
+- b) az MKH kutatóközpontjai és kutatóintézetei (a továbbiakban együtt: MKH kutatóintézetek) esetében a 29. § (2) bekezdése szerinti jogi személyiséggel rendelkező szervezeti egység
+
+tulajdonába kerülnek.
+
+(6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+25. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a 18. § alapján – a HUN-REN közérdekű céljainak megvalósítása és közfeladata ellátása érdekében – az állam tulajdonában álló, a 2. melléklet szerinti üzletrészeket ingyenesen, nyilvántartási értéken történő átvezetéssel a HUN-REN tulajdonába kell adni.
+
+(2) Ha a HUN-REN a tulajdonába adott üzletrészt elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a HUN-REN az e törvény szerinti közérdekű céljainak megvalósítására, közfeladata ellátására köteles fordítani.
+
+26. § A HUN-REN részére az alapításra tekintettel juttatandó egyéb ingóságokat és vagyoni értékű jogokat az állam az alapító okiratban határozza meg.
+
+#### 11. A HUN-REN megszűnése
+
+27. § (1) A HUN-REN megszűnésének rendjére az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényt – 2/D. alcíme kivételével – alkalmazni kell.
+
+(2) A HUN-REN jogutód nélküli megszűnése esetén a hitelezők kielégítése után megmaradó vagyon az államot illeti meg abban az esetben is, ha a vagyon az alapítói juttatás mértékét meghaladja.
+
+(3) A HUN-REN jogutód nélküli megszűnése esetén a hitelezők kielégítését követően az állam által juttatott ingatlan és társasági részesedés az államra száll vissza.
+
+### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 12. Hatályba léptető rendelkezések
+
+28. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2025. január 1-jén lép hatályba.
+
+(2) A 30. §, a 39. §, a 77. § 17., 18. és 23. pontja a Magyar Tudományos Akadémia és a Magyar Nemzeti Vagyonkezelő Zrt. által megkötött szerződés alapján, az MKH kutatóintézetei által használt vagyonelemek állami tulajdonba kerülését követő napon lép hatályba.
+
+(3) A 29. §, a 31. §, a 32. §, a 15–17. alcím, a 19. alcím, a 20. alcím, a 43. §, a 44. § (2) bekezdése, a 45. §, a 46. §, a 22–34. alcím, a 64. §, a 75. §, a 76. § 1. pontja, a 77. § 1., 13–16. és 19–22. pontja és a 36–46. alcím a HUN-REN bírósági nyilvántartásba vételéről szóló határozat jogerőre emelkedését követő napon, de legkorábban 2025. április 1-jén lép hatályba.
+
+(4) A 30. §, a 39. § és a 77. § 17., 18. és 23. pontja hatálybalépésének naptári napját az állami vagyon felügyeletéért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+(5) A 29. §, a 31. §, a 32. §, a 15–17. alcím, a 19. alcím, a 20. alcím, a 43. §, a 44. § (2) bekezdése, a 45. §, a 46. §, a 22–34. alcím, a 64. §, a 75. §, a 76. § 1. pontja, a 77. § 1., 13–16. és 19–22. pontja és a 36–46. alcím hatálybalépésének naptári napját a miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+#### 13. Átmeneti rendelkezések
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 14. Sarkalatos rendelkezések
+
+33. § (1) A 18. § (2), (3), (6)–(8) bekezdése, a 23. § (1), (3), (8) és (9) bekezdése, 24. § (1), (4), (5) bekezdése, 25. §, 26. §, a 60. § és a 87. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(2) A 23. § (2) bekezdése, a 28. alcím az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
+(3) A 23. § (10) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése és a P) cikk (2) bekezdése alapján sarkalatosnak minősül.
+
+(4) A 63. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
+
+(5) Az 56. § a) pontja az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+
+(6) Az 56. § b) pontja az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
+### VI. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
+
+#### 15.
+
+#### 34. §
+
+#### 16.
+
+#### 35. §
+
+#### 36. §
+
+#### 17.
+
+#### 37. §
+
+#### 18. A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény módosítása
+
+38. § A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 9. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A Közgyűlés akkor határozatképes, ha azon a szavazásra jogosultak több mint fele személyesen vagy – videókonferencia alkalmazás igénybevételével tartott közgyűlés esetén – személyesen és távjelenléttel együttesen jelen van. Távjelenlét által elektronikus szavazás útján is hozható közgyűlési döntés, ha az egyes napirendi pontok megtárgyalása előzetes írásbeli véleménynyilvánítás útján biztosított az Akadémia belső szabályai szerint.”
+
+#### 39. §
+
+#### 19.
+
+#### 40. §
+
+#### 41. §
+
+#### 20.
+
+#### 42. §
+
+#### 21. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
+
+#### 43. §
+
+44. § (1) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 20. § (1) bekezdése a következő g) ponttal egészül ki:
+
+(Nem kell az adót megfizetnie)
+
+„g) a Magyar Tudományos Akadémiának az adóalapja azon része után, amelyet céljainak, törvényben meghatározott közfeladatainak megvalósítását szolgáló tevékenysége révén szerzett bevétele – így különösen vagyonelemei hasznainak szedéséből származó bevétele – képvisel az összes bevételén belül, ideértve a Magyar Tudományos Akadémiának a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény szerinti, a magyar állam számára történő visszterhes vagyonjuttatását is.”
+
+(2)
+
+#### 45. §
+
+#### 46. §
+
+#### 22.
+
+#### 47. §
+
+#### 23.
+
+#### 48. §
+
+#### 24.
+
+#### 49. §
+
+#### 25.
+
+#### 50. §
+
+#### 26.
+
+#### 51. §
+
+#### 27.
+
+#### 52. §
+
+#### 28.
+
+#### 53. §
+
+#### 54. §
+
+#### 29.
+
+#### 55. §
+
+#### 30.
+
+#### 56. §
+
+#### 31.
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 32.
+
+#### 60. §
+
+#### 33.
+
+#### 61. §
+
+#### 62. §
+
+#### 34.
+
+#### 63. §
+
+#### 35. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
+
+#### 64. §
+
+65. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 10/D. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A KKT tesz javaslatot az NKFI Alap éves programstratégiájában a Kutatási Alaprész keretében meghirdetendő pályázatokra és azok keretösszegére a tudománypolitika koordinációjáért felelős miniszter által meghatározott pénzügyi keretek alapján.”
+
+66. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A pályázatokat az e törvényben meghatározottak szerint kell értékelni. A pályázat támogatására – amennyiben e törvény másként nem rendelkezik – a Kormány által kijelölt szerv vezetője által összehívott – az egyes Alaprészek tekintetében 25. § (2) bekezdés, a 29. § (2) bekezdés, illetve a 29/B. § (2) bekezdés szerinti – testület tesz javaslatot. A támogatási döntést – a 12. § (2) bekezdése szerint jóváhagyott programstratégiában foglaltakra figyelemmel –
+
+- a) az Innovációs Alaprész és a Missziók Alaprész tekintetében a tudománypolitika koordinációjáért felelős miniszter, illetve
+- b) a Kutatási Alaprész tekintetében a Kormány által kijelölt szerv kormányrendeletben meghatározott tudományos vezetője
+
+hozza meg.”
+
+67. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 10. alcíme a következő 22/A–22/E. §-sal egészül ki:
+
+„22/A. § A nyertes pályázóval a Kormány által kijelölt szerv köt támogatási szerződést vagy ad ki támogatói okiratot.
+
+22/B. § Az értékelő testületek számát és összetételét úgy kell meghatározni, hogy a benyújtott pályázatok elfogulatlan, szakszerű és a pályázati kiírásban megadott határidőn belüli értékelése elvégezhető legyen. Az NKFI Alap egyes Alaprészeiből meghirdetett pályázatok értékelésében közreműködő értékelő testületek elnökei, tagjai és a pályázók számára nem megismerhető személyazonosságú szakértők (a továbbiakban: anonim szakértők) a munkájukért díjazásban részesülhetnek. A díjazás feltételeit és összegét a Kormány által kijelölt szerv – a Kutatási Alaprész vonatkozásában a KKT egyetértésével – állapítja meg.
+
+22/C. § Az NKFI Alap kezelését végző szervek az NKFI Alap terhére finanszírozott pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, valamint az anonim szakértők vagy a 25. § (3) bekezdésében, a 29. § (3) bekezdésében, illetve a 29/B. § (4) bekezdésében foglaltak alkalmazása esetében a szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezelik.
+
+22/D. § (1) Ha a kutatás feltételeit valamely szervezet biztosítja, az e törvény szerinti közfinanszírozású támogatás összegét a közszolgáltatások díjai, az üzemeltetési költségek és a szervezetnél az elnyert pályázat intézményi kezelésével összefüggő költség kivételével, a Kormány rendeletében meghatározottak szerint a kedvezményezett rendelkezési jogának biztosításával köteles a szervezet kezelni.
+
+(2) Az NKFI Alapból nyújtott támogatásra kiírt pályázat nyertese által a közfinanszírozású támogatásból beszerzett tárgyi eszközöket, készleteket a támogatási szerződés hatálya alatt a kutatás feltételeit biztosító szervezet eszköznyilvántartásába kell venni és tartani.
+
+(3) E törvény szerinti közfinanszírozású támogatás biztosítása érdekében kötött támogatási szerződés, kiadott támogatói okirat időtartamán belül az eredetileg jóváhagyott támogatás maradványa a következő évre átvihető.
+
+22/E. § Amennyiben egy felhívás lebonyolítását az NKFI Alap kezelésében a 11. § (3) bekezdése szerinti NKFI Alap kezelését végző szervek végzik, akkor a Kormány által kijelölt szervnek a 13. § (2) bekezdése, 25. § (1) és (2) bekezdése, valamint a 27. § szerinti feladatait ezen szerv vagy gazdasági társaság látja el azzal, hogy
+
+- a) a felhívást a Kormány által kijelölt szerv honlapján is közzé kell tenni,
+- b) a 25. § (2) bekezdése szerinti értékelő testületek és szakértői csoportok tagjaival, valamint az anonim szakértőkkel a Kormány által kijelölt szerv köt megbízási szerződést,
+- c) a b) pont szerinti esetben sem lehet eltérni a 22/B. § szerinti rendelkezésektől.”
+
+68. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény a 23. §-át megelőzően a következő alcím címmel egészül ki:
+
+#### „10/A. Az Országos Kutatási és Innovációs Támogatási Adatbázis”
+
+69. § (1) A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 23. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Az NKFI Alap kezelését végző szervek
+
+- a) az általuk kezelt közfinanszírozású támogatással megvalósuló projektek
+- b) az egyéni kutatói kiválóságon alapuló, alapkutatásra, alkalmazott kutatásra, valamint kísérleti fejlesztésekre irányuló, pályázat útján biztosított közfinanszírozású támogatások és ösztöndíjak (ide nem értve a doktori képzésben résztvevők állami ösztöndíját)
+
+nyilvántartása céljából, országos kutatási és innovációs támogatási adatbázisként saját informatikai nyilvántartási rendszert működtetnek vagy kötelesek csatlakozni olyan informatikai rendszerhez, amely alkalmas az 1. mellékletben meghatározott adatok fogadására, tárolására és kezelésére.
+
+(2) Az (1) bekezdés szerinti nyilvántartási rendszer részére
+
+- a) az NKFI Alap terhére közfinanszírozású támogatásban részesített, valamint
+- b) az (1) bekezdés b) pontja szerinti támogatás biztosítója
+
+az 1. mellékletben meghatározott adatokat köteles szolgáltatni. Az adatszolgáltató az 1. melléklet 1–10. pontjában meghatározott adatokat a projekt megkezdésekor, ha azokban változás következett be, a változástól számított 30 napon belül szolgáltatja. Az 1. melléklet 11–15. pontjában meghatározott adatokat kizárólag a projekt befejezésekor kell szolgáltatni.”
+
+(2) A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 23. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A KKT az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatásokkal összefüggésben jogosult a (4) bekezdés szerinti személyes adatok kezelésére.”
+
+70. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 25. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által – a KKT javaslata alapján, annak egyetértésével – felkért értékelő testületek értékelik. Az értékelésben – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.”
+
+71. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 28. § l)–n) pontja helyébe a következő rendelkezések lépnek:
+
+(Az NKFI Alap Innovációs Alaprésze terhére a következő célokra nyújtható támogatás:)
+
+„l) a kutatás-fejlesztés területén nemzetközileg is elismert szervezetek, vállalkozások Magyarországra vonzására,
+
+m) innovatív vállalkozások tőkeági finanszírozását biztosító kockázati tőkealapok létrehozására, valamint
+
+n) Tudományos és Innovációs Parkok fejlesztésére.”
+
+72. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 29. §-a helyébe a következő rendelkezés lép:
+
+„29. § (1) Az NKFI Alap Innovációs Alaprésze terhére finanszírozott pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
+
+(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által felkért értékelő testületek értékelik. Az értékelésben, valamint a támogatásban részesült projektek esetében a megvalósítás szakmai nyomon követésében – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.
+
+(3) A pályázati felhívás rendelkezhet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
+
+(4) A Kormány által kijelölt szerv vezetője az NKFI Alap Innovációs Alaprészéből meghirdetett pályázatok és finanszírozott támogatások kezelésének eljárásrendjéről normatív utasításban határoz.
+
+(5) Az NKFI Alap Innovációs Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a Kormány által kijelölt szerv által kiadott útmutató szerint kell ellenőrizni.”
+
+73. § (1) A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 29/A. § (2) bekezdés 5. pontja helyébe a következő rendelkezés lép:
+
+(Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére a következő célokra nyújtható támogatás:)
+
+„5. olyan programokra, amelyek stratégiailag jelentős tudományos és technológiai területeken hozzájárulnak a hazai kutatási és innovációs kapacitások erősítéséhez, együttműködésüknek és hálózatosodásuknak előmozdításához,”
+
+(2) A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 29/A. § (2) bekezdése a következő 19–21. ponttal egészül ki:
+
+(Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére a következő célokra nyújtható támogatás:)
+
+„19. Nemzeti Laboratórium létrehozatalára, fejlesztésére, tevékenységére és működtetésére,
+
+20. külföldi kutatási infrastruktúra szolgáltatásainak igénybevételére,
+
+21. a Kormány döntése alapján nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.”
+
+74. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 29/B. §-a helyébe a következő rendelkezés lép:
+
+„29/B. § (1) Az NKFI Alap Missziók Alaprésze terhére finanszírozott pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
+
+(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által felkért értékelő testületek értékelik. Az értékelésben – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.
+
+(3) A pályázatok és a közfinanszírozású támogatásban részesült projektek tartalmi értékelésére és szakmai nyomon követésére a Kormány által kijelölt szerv a tudománypolitika koordinációjáért felelős miniszter által meghatározott programirányítási rendszert működtet. A programirányítási rendszer szerinti testületek elnökét és tagjait a tudománypolitika koordinációjáért felelős miniszter jelöli ki. Az értékelésben a programirányítási rendszer szerinti testületek mellett – a Kormány által kijelölt szerv vezetőjének felkérése alapján – anonim szakértők közreműködhetnek.
+
+(4) A pályázati felhívás rendelkezhet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
+
+(5) A Kormány által kijelölt szerv vezetője az NKFI Alap Missziók Alaprészéből meghirdetett pályázatok és finanszírozott támogatások eljárásrendjéről normatív utasításban határoz.
+
+(6) Az NKFI Alap Missziók Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a Kormány által kijelölt szerv által kiadott útmutató szerint kell ellenőrizni.”
+
+#### 75. §
+
+76. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
+
+- 1.
+- 2. 10/D. § (1) bekezdésében a „kutatási támogatási programokkal kapcsolatos” szövegrész helyébe az „ , az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatásokkal összefüggő” szöveg,
+- 3. 10/D. § (3) bekezdésében a „ , valamint az (1) bekezdés szerinti támogatási programok forrását önálló fejezeti kezelésű előirányzat biztosítja a 12. § (1) bekezdése szerinti bevételek terhére.” szövegrész helyébe az „az NKFI Alap Kutatási Alaprész terhére szükséges biztosítani.” szöveg,
+- 4. 11. § (6) bekezdésében a „Nemzeti Laboratóriumok” szövegrész helyébe a „Missziók” szöveg,
+- 5. 12. § (2) bekezdésében az „Alap éves programstratégiáját a tudománypolitika koordinációjáért felelős miniszter terjeszti az NTT” szövegrész helyébe az „Alap – a 10/D. § (1a) bekezdésében foglaltakra figyelemmel elkészített – éves programstratégiáját a tudománypolitika koordinációjáért felelős miniszter – az NTT” szöveg,
+- 6. V. Fejezet címében a „TÁMOGATÁSA” szövegrész helyébe a „TÁMOGATÁSA, AZ ORSZÁGOS KUTATÁSI ÉS INNOVÁCIÓS TÁMOGATÁSI ADATBÁZIS” szöveg,
+- 7. 23. § (4) bekezdés nyitó szövegrészében az „Az NKFI Alap kezelését végző szervek az NKFI Alapból finanszírozott támogatásban részesített projekttel” szövegrész helyébe az „Az (1) bekezdésben foglalt nyilvántartással” szöveg,
+- 8. 24. § (1) bekezdés nyitó szövegrészében az „Alaprésze” szövegrész helyébe az „Alaprészének elsődleges célja egyéni kiválóságon alapuló kutatási támogatások biztosítása. A Kutatási Alaprész” szöveg,
+- 9. 24. § (1) bekezdés a) pontjában a „tudományos kutatási témákkal, területekkel” szövegrész helyébe az „egyéni kiválóságon alapuló kutatásokkal” szöveg,
+- 10. 24. § (1) bekezdés c) pontjában a „több régiót érintő, stratégiailag fontos országos kutatás-fejlesztési programokra” szövegrész helyébe a „tudománykommunikációs, tudomány-népszerűsítési célra” szöveg,
+- 11. 25. § (1) bekezdésében az „a tudománypolitika koordinációjáért felelős miniszter dönt” szövegrész helyébe a „KKT elnöke, mint Kormány által kijelölt szerv tudományos vezetője dönt a KKT javaslata szerint” szöveg,
+- 12. 25. § (7) bekezdésében a „(2) bekezdés” szövegrész helyébe a „KKT javaslata alapján a Kormány által kijelölt szerv által kiadott útmutató” szöveg,
+- 13. 27. § (1) bekezdésében a „szakértői vélemény” szövegrész helyébe a „szakértői vélemény, valamint a KKT véleménye” szöveg,
+- 14. 28. § nyitó szövegrészében az „Alaprésze” szövegrész helyébe az „Alaprészének elsődleges célja a hazai innováció ösztönzéséhez szükséges finanszírozási eszközök biztosítása. Az Innovációs Alaprész” szöveg,
+- 15. 12/A. alcím címében a „Nemzeti Laboratóriumok” szövegrész helyébe a „Missziók” szöveg,
+- 16. 29/A. § (2) bekezdés nyitó szövegrészében a „Nemzeti Laboratóriumok Alaprésze” szövegrész helyébe a „Missziók Alaprészének elsődleges célja stratégiailag fontos területeken megvalósuló, nagy horderejű társadalmi vagy gazdasági hatás elérésére irányuló kutatás-fejlesztési programok megvalósítása. A Missziók Alaprész” szöveg,
+- 17. 29/A. § (2) bekezdés 1. pontjában az „országos kutatás-fejlesztési, valamint innovációs programokra,” szövegrész helyébe a „területeken megvalósuló országos kutatás-fejlesztési, valamint innovációs programokra, amelyek nagy horderejű társadalmi vagy gazdasági hatás elérésére irányulnak,” szöveg,
+- 18. 1. melléklet címében a „támogatással” szövegrész helyébe a „támogatással, valamint a 23. § (1) bekezdés b) pontja szerinti támogatással” szöveg,
+- 19. 1. melléklet 10. pontjában a „megoszlása,” szövegrész helyébe a „megoszlása, a támogatásokból részesülő személyek 23. § (4) bekezdés a) pont aa)–ad) alpontjai szerinti adatai, a támogatásokból részesülő szervezetek megnevezése, valamint e személyeknek és szervezeteknek a támogatásokból való részesülésének mértéke,” szöveg
+
+lép.
+
+77. § Hatályát veszti a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
+
+- 1.
+- 2. 5. § (2) bekezdés c)–e) pontja,
+- 3. 10/E. és 10/F. §-a,
+- 4. 24. § (1) bekezdés f) pontjában a „témapályázat,” szövegrész,
+- 5. 24. § (1) bekezdés i) pontja,
+- 6. 25. § (5) és (6) bekezdése,
+- 7. 25. § (8) bekezdése,
+- 8. 26. §-a,
+- 9. 27/A. §-a,
+- 10. 28. § a) pontjában az „országos” szövegrész,
+- 11. 29/A. § (1) bekezdése,
+- 12. 29/A. § (2) bekezdés 10. pontja,
+- 13.
+- 14.
+- 15.
+- 16.
+- 17.
+- 18.
+- 19.
+- 20.
+- 21.
+- 22.
+- 23.
+
+#### 36.
+
+#### 78. §
+
+#### 37.
+
+#### 79. §
+
+#### 38.
+
+#### 80. §
+
+#### 39.
+
+#### 81. §
+
+#### 40.
+
+#### 82. §
+
+#### 41.
+
+#### 83. §
+
+#### 42.
+
+#### 84. §
+
+#### 43.
+
+#### 85. §
+
+#### 44.
+
+#### 86. §
+
+#### 45.
+
+#### 87. §
+
+#### 46.
+
+#### 88. §
+
+### 1. melléklet a 2024. évi XCI. törvényhez
+
+#### A HUN-REN részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | Település | Helyrajzi szám | Magyar Állam tulajdoni hányada | Megnevezés |
+| 2 | Budapest | belterület 24847 | 1/1 |  |
+| 3 | Budapest | belterület 3823/6 | 8060/50305 | kivett üzem |
+
+### 2. melléklet a 2024. évi XCI. törvényhez
+
+#### A HUN-REN részére történő vagyonjuttatás
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés/üzletrész megjelölése |
+| 2 | Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft. | 100% |

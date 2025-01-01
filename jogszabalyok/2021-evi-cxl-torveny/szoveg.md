@@ -715,7 +715,7 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 - i) a vegyi és sugárfelderítés, a vegyi és sugármentesítés, a fertőtlenítés és a hasonló óvintézkedések,
 - j) a szükségelszállásolás és -ellátás,
 - k) a szükségintézkedések összessége a hadműveletek által sújtott területek rendjének helyreállítására és fenntartására,
-- l) a közreműködés a létfontosságú, vagy a lakosság ellátásához nélkülözhetetlen termelői kapacitásokat biztosító, illetve szolgáltatásokat nyújtó infrastruktúrák működőképességének fenntartásában, működési feltételeinek gyors helyreállításában,
+- l) a közreműködés az alapvető szolgáltatások folyamatosságának biztosításában, a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességének biztosításában, működőképességének fenntartásában, működési feltételeinek gyors helyreállításában,
 - m) a járvány- és közegészségügyi, továbbá a kegyeleti és a halaszthatatlan adminisztrációs feladatok ellátása,
 - n) az a)–m) pont szerinti feladatok végrehajtásához szükséges további kiegészítő tevékenységek, ideértve többek között a tájékoztatást, a tervezést és szervezést, valamint a készletek fenntartását és biztosítását.
 
@@ -731,7 +731,7 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 - b) a címzett a behívóparancs, vagy az abban szereplő kötelezettség tudomásul vételét megtagadja,
 - c) a hadkötelezett a katonai igazolványát vagy a hadköteles a behívóparancsát másra átruházza, más őrizetére bízza, biztosítékul adja vagy külföldre viszi, az arra jogosult személy felszólítására nem mutatja fel,
 - d) a honvédelemben közreműködő szerv vagy szervezet a 11. § (3) és (4) bekezdésében foglalt kötelezettségének nem tesz eleget,
-- e) a honvédelmi létfontosságú és a honvédelmi célból kijelölt létfontosságú rendszerelem üzemeltetője a kijelölő hatóság által előírt intézkedéseket nem, vagy nem megfelelően hajtja végre.
+- e)
 
 (2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a honvédelmi adatkezelés szervének, a központi katonai igazgatási szervnek vagy a területi védelmi bizottság honvédelmi elnökhelyettesének a kezdeményezése alapján, a minősített adatok védelmére vonatkozó szabályok figyelembevételével folytatja le.
 
@@ -831,7 +831,7 @@ illeti meg.
 - b) a Szent Korona és a hozzá tartozó egyes jelvények őrzése és védelme,
 - c) váratlan támadás esetén a felkészített erőkkel arányos ellentevékenység végrehajtása,
 - d) a szövetségi és nemzetközi szerződésből eredő egyéb katonai kötelezettségek – különösen a kollektív védelmi, békefenntartó, válságkezelési és humanitárius feladatok – teljesítése,
-- e) a honvédelem szempontjából létfontosságúnak kijelölt rendszerelemek, illetve a honvédelem szempontjából fokozott védelmet igénylő létesítmények, valamint a Kormány által kijelölt egyéb létesítmények és rendezvények őrzése és védelme,
+- e) az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrák, illetve a honvédelem szempontjából fokozott védelmet igénylő létesítmények, valamint a Kormány által kijelölt egyéb létesítmények és rendezvények őrzése és védelme,
 - f) a felkészített erőkkel védett személyek személykísérésében való részvétel,
 - g) a talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok végrehajtása,
 - h) honvédelmi válsághelyzetben az államhatár ellenőrzésében való részvétel,
@@ -846,7 +846,7 @@ illeti meg.
 
 - a) közreműködés az (1) bekezdés m) pontjába nem tartozó, katasztrófavédelemmel összefüggő további feladatok végrehajtásában,
 - b) közreműködés a katonai szakértelmet és speciális eszközöket igénylő feladatokban,
-- c) közreműködés a honvédelem szempontjából létfontosságúnak kijelölt rendszerelemek működtetésében,
+- c) közreműködés az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra működtetésében,
 - d) részvétel az állami protokolláris feladatok teljesítésében,
 - e) közreműködés a nemzetközi megállapodásban vagy jogszabályban meghatározott hadisírok, katonai és hősi emlékművek fenntartásával kapcsolatos feladatok végrehajtásában és a kegyeleti tevékenységben,
 - f) Magyarország biztonságát, honvédelmi érdekeit sértő, veszélyeztető támadás esetén az élet, az anyagi javak és az objektumok oltalmazása érdekében az elektromágneses spektrumot kihasználó támadó, információszerző, felderítő eszközök elleni aktív elektromágneses műveletek végzése, passzív védelmi rendszabályok alkalmazása,
@@ -1623,7 +1623,7 @@ rendelhető el.
 - 12. a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei kijelölésének eljárási szabályait és az eljáró hatóságot,
 - 13. a csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány, valamint a honvédelemért felelős miniszter hatáskörébe tartozó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat, valamint a közjogi engedélyt nem igénylő csapatmozgásokat,
 - 14.
-- 15. a honvédelmi létfontosságú rendszerelemek azonosításának, kijelölésének és védelmének szabályait,
+- 15.
 - 16. a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés követelményeit,
 - 17. az e törvényben meghatározott kibertér műveleti feladatok további szabályait,
 - 18. a hadkötelezettségtől eltérő időszakban a járulékos kötelezettségek teljesítésére vonatkozó szabályokat és az eljárást, valamint a meghagyásba bevont szervek és szervezetek által elvégzendő meghagyási feladatok ellenőrzésének rendjét,
@@ -1695,6 +1695,10 @@ rendelhető el.
 - g) 117. § (2) bekezdése az Alaptörvény XXXI. cikk (3) bekezdése
 
 alapján sarkalatosnak minősül.
+
+#### 59/A. Az Európai Unió jogának való megfelelés
+
+113/A. § A 45. § (1) bekezdés l) pontja, 59. § (1) bekezdés e) pontja és 59. § (2) bekezdés c) pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 60. Hatályon kívül helyező és hatályba nem lépésről szóló rendelkezések
 

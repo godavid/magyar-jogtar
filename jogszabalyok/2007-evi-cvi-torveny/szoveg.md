@@ -43,14 +43,14 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 3. § (1) A rábízott állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként – ha törvény vagy miniszteri rendelet eltérően nem rendelkezik – a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
 
-(1a) A kivezetésre szánt állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) gyakorolja.
+(1a)
 
 (1b)
 
 (2) A tulajdonosi jogokat
 
 - a) a Magyar Posta Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter),
-- b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az MNV Zrt. vagy – a 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – az MVH az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint az annak végrehajtására kiadott rendeletben meghatározottak szerint,
+- b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az MNV Zrt. az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint az annak végrehajtására kiadott rendeletben meghatározottak szerint,
 - c)
 - d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett – ha miniszteri rendelet eltérően nem rendelkezik – a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
@@ -74,7 +74,7 @@ gyakorolja.
 
 (6) Az (5) bekezdés szerinti megállapodás megkötéséhez nem szükséges a miniszter jóváhagyása, ha az érintett vagyonelem más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerülésére törvény rendelkezése alapján kerül sor.
 
-(7) A kivezetésre szánt állami vagyon tekintetében a tulajdonosi joggyakorlás átadására vonatkozó szabályokat az V/A. Fejezet állapítja meg.
+(7)
 
 4. § A miniszter az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj mértékét rendeletben állapítja meg.
 
@@ -90,7 +90,7 @@ gyakorolja.
 
 5/C. § (1) Az állami tulajdonban álló a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény, valamint a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény hatálya alá nem tartozó egyéb gyűjtemény (a továbbiakban e § alkalmazásában: közgyűjteménynek nem minősülő egyéb gyűjtemény) olyan különálló dolgok összessége, amelyeket valamely tulajdonságuk vagy rendeltetésük összekapcsol és amelyek a forgalomban egységként szerepelnek.
 
-(1a) Az állam a szükségképpeni törvényes öröklése útján állami tulajdonba és az MVH tulajdonosi joggyakorlásába került, illetve kerülő, kivezetésre szánt állami vagyonba tartozó, a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény szerinti hagyaték egészét, vagy annak egymástól elkülönülő elemeit, amelyeket valamely tulajdonságuk vagy rendeltetésük összekapcsol, az MVH hagyatéki gyűjteményként kezelheti (a továbbiakban: hagyatéki gyűjtemény).
+(1a) Az állam öröklése útján állami tulajdonba került, illetve kerülő, kivezetésre szánt állami vagyonba tartozó, a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény szerinti hagyaték egészét, vagy annak egymástól elkülönülő elemeit, amelyeket valamely tulajdonságuk vagy rendeltetésük összekapcsol, az MNV Zrt. hagyatéki gyűjteményként kezelheti (a továbbiakban: hagyatéki gyűjtemény).
 
 (2) A tulajdonosi joggyakorló dönthet valamely állami vagyonelem közgyűjteménynek nem minősülő egyéb gyűjtemény, illetve hagyatéki gyűjtemény körébe történő bevonásáról, vagy a közgyűjteménynek nem minősülő egyéb gyűjteményt alkotó, illetve hagyatéki gyűjteményt alkotó valamely állami vagyonelem gyűjteményi körből történő kivonásáról.
 
@@ -137,10 +137,11 @@ gyakorolja.
 - g) elektronikus árverési rendszert működtet, vezeti az árverezők elektronikus nyilvántartását és elektronikus árverési hirdetmény közzététele útján elektronikus árverési eljárást bonyolít le,
 - h) az állami feladatok ellátása során a költségvetési szervek, illetve az egyéb, az állami vagyont használó természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek részére a működésükhöz szükséges állami tulajdon használatához szükséges szolgáltatásokat (üzemeltetés, beszerzés) nyújt.
 - i) elektronikus bérleti licit rendszert működtet, vezeti az elektronikus bérleti licitben résztvevők elektronikus nyilvántartását, elektronikus bérleti hirdetmény közzététele útján, a tulajdonosi joggyakorlása alatt álló állami ingatlanok tekintetében elektronikus bérleti licit eljárást bonyolít le, valamint gondoskodik az e célra létrehozott informatikai rendszernek az e törvény végrehajtási rendeletében meghatározottak szerinti működtetéséről.
+- j) ellátja a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében átvett vagyonelemek értékesítésével, hasznosításával, kezelésével és a vagyonelemként átvett követelések érvényesítésével kapcsolatos feladatokat.
 
 (2) Az MNV Zrt. jogszabályokban meghatározott feladatai állami feladatnak minősülnek.
 
-(3) Az állami vagyon feletti tulajdonosi jogokat gyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon adatot szolgáltatnak az egységes állami vagyonnyilvántartás vezetése érdekében az MNV Zrt. részére a rájuk bízott állami vagyonról készített mérlegről, valamint – a nemzetbiztonsági szolgálatok és az MVH kivételével – a mérleg soraival megegyező, vagyonelemenkénti tételes adatokról (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatás). A nemzetbiztonsági szolgálatok és az MVH az e törvény végrehajtási rendeletében meghatározottak szerint teljesítik adatszolgáltatási kötelezettségüket.
+(3) Az állami vagyon feletti tulajdonosi jogokat gyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon adatot szolgáltatnak az egységes állami vagyonnyilvántartás vezetése érdekében az MNV Zrt. részére a rájuk bízott állami vagyonról készített mérlegről, valamint – a nemzetbiztonsági szolgálatok kivételével – a mérleg soraival megegyező, vagyonelemenkénti tételes adatokról (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatás). A nemzetbiztonsági szolgálatok az e törvény végrehajtási rendeletében meghatározottak szerint teljesítik adatszolgáltatási kötelezettségüket.
 
 18. § (1) Az MNV Zrt. az állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapszabályának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
 
@@ -319,9 +320,16 @@ gyakorolja.
 
 22. § (1) Az MNV Zrt. rábízott állami vagyonnal való gazdálkodását el kell különíteni a saját vagyonával történő gazdálkodástól.
 
-(2) Az MNV Zrt. rábízott vagyonával való gazdálkodása során az államháztartás központi alrendszerére vonatkozó szabályokat kell alkalmazni a (3) bekezdésben foglalt eltérésekkel.
+(2) Az MNV Zrt. rábízott vagyonával való gazdálkodása során az államháztartás központi alrendszerére vonatkozó szabályokat kell alkalmazni a (3) és (4) bekezdésben foglalt eltérésekkel.
 
-(3) Az MNV Zrt. egyes értékesítési tranzakciók esetében a biztosítékok, óvadékok, letétek elhelyezésére, illetve vételár kifizetések lebonyolítása céljából pénzügyi intézménynél, befektetési szolgáltatónál és központi letétkezelőnél, értéktárnál – az adott értékesítési vagy vásárlási tranzakció lebonyolításáig – számlát vezethet.
+(3) Az MNV Zrt.
+
+- a) egyes értékesítési tranzakciók esetében – a tranzakció lezárásáig – a biztosítékok, óvadékok, letétek elhelyezésére, illetve vételár-kifizetések lebonyolítása céljából, továbbá
+- b) a kivezetésre szánt állami vagyonnal kapcsolatos feladatai ellátása érdekében
+
+pénzügyi intézménynél, befektetési szolgáltatónál és központi letétkezelőnél, értéktárnál számlát vezethet.
+
+(4) A kivezetésre szánt állami vagyonba tartozó forgóeszközök között kimutatott készletek értékvesztésének elszámolása során a különbözetet akkor kell jelentős összegűnek tekinteni, ha az értékvesztés összege meghaladja a bekerülési érték 10%-át, de legalább a százezer forintot.
 
 22/A. § (1) Az MNV Zrt. szervezetének működéséhez szükséges forrást a központi költségvetés biztosítja.
 
@@ -682,6 +690,7 @@ lehet végezni.
   - qa) a közvetlenül határos ingatlan tulajdonosa részére kerül értékesítésre, vagy
   - qb) osztatlan közös tulajdonban álló védett természeti terület, amely földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább három éve tulajdoni hányaddal rendelkezik,
 - r) hulladéknak nem minősülő vissznyereményi anyagok értékesítése esetén.
+- s) a kisajátításról szóló törvény szerinti fejlesztési befektetési területhez tartozó ingatlan értékesítése esetén.
 
 (2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a az Nvtv. 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
 
@@ -785,105 +794,65 @@ lehet végezni.
 
 ### V/A. Fejezet — A KIVEZETÉSRE SZÁNT ÁLLAMI VAGYONNAL KAPCSOLATOS SZABÁLYOK
 
-### A kivezetésre szánt állami vagyon, az MVH feladatai, jogállása
+### A kivezetésre szánt állami vagyon, az MNV Zrt. kivezetésre szánt állami vagyonnal kapcsolatos feladatai
 
 42/A. § (1) A kivezetésre szánt állami vagyon körébe tartoznak az Nvtv. 3. § (1) bekezdés 7. pontja szerinti:
 
-- a) az állam szükségképpeni törvényes öröklése útján állami tulajdonba kerülő vagyonelemek,
-- b) az 1. § (6a) bekezdése szerint, köztartozások fejében állami tulajdonba kerülő vagyonelemek,
-- c) az MNV Zrt. által – a tulajdonosi joggyakorlása alatt álló, általa közvetlenül kezelt, kis értékű vagyonelemek köréből – kivezetésre szánt állami vagyonba tartozó vagyonnak minősített és az MVH részére átadott vagyonelemek, valamint
-- d) az államra öröklés útján átszállt, továbbá a köztartozások fejében átvett, az MNV Zrt. által az MVH részére átadott követelések.
+- a) az állam szükségképpeni törvényes öröklése útján állami tulajdonba került vagy kerülő vagyonelemek,
+- b) az 1. § (6a) bekezdése szerinti, köztartozások fejében állami tulajdonba került vagy kerülő vagyonelemek,
+- c) az MNV Zrt. által – a tulajdonosi joggyakorlása alatt álló, általa közvetlenül kezelt – kivezetésre szánt állami vagyonba tartozó vagyonnak minősített
+  - ca) kis értékű vagyonelemek, továbbá
+  - cb) terhelt vagyonelemek,
+- d) az államra öröklés útján átszállt, továbbá az 1. § (6a) bekezdése szerinti köztartozások fejében átvett követelések, valamint
+- e) állami tulajdonban álló, hulladéknak nem minősülő vissznyereményi anyagok.
 
-(2) Az (1) bekezdés c) pontja szerinti kis értékű vagyonelemnek minősül:
+(2) Az (1) bekezdés c) pont ca) alpontja szerinti kis értékű vagyonelemnek minősül:
 
 - a) az az ingóság, amelynek az egyedi, nyilvántartási értéke az 1 millió forintot nem haladja meg, az e törvény végrehajtási rendeletében meghatározott ingóságok kivételével,
 - b) a jármű,
 - c) az a) és b) pontba nem tartozó egyéb vagyonelem, amelynek az egyedi, nyilvántartási értéke nem haladja meg a 25 millió forintot.
 
-(3) Az MVH az e fejezetben foglaltak szerint jár el a kivezetésre szánt állami vagyonnal kapcsolatos feladatai ellátása során. A kivezetésre szánt állami vagyon tekintetében a IV. és V. Fejezetben foglalt rendelkezések nem alkalmazhatóak.
+(2a) Az (1) bekezdés c) pont cb) alpontja szerinti terhelt vagyonelemnek minősül az az ingatlan, amely tekintetében az ingatlan-nyilvántartásba bejegyzett jelzálogjoggal, zálogjoggal biztosított követelések, valamint az ingatlan-nyilvántartásba bejegyzett végrehajtandó követelések összesített értéke meghaladja az ingatlan egyedi, nyilvántartási értékének 70%-át. A követelések értékének megállapítása során az ingatlan-nyilvántartásba devizakölcsön alapján fennálló fizetési kötelezettség biztosítására bejegyzett követelés, teher mértékét az ingatlan állami tulajdonba kerülése napján érvényes MNB devizaárfolyamon kell figyelembe venni.
 
-42/B. § (1) Az MVH feladatai:
+(3) Az MNV Zrt. az e fejezetben foglaltak szerint jár el a kivezetésre szánt állami vagyonnal kapcsolatos feladatai ellátása során. A kivezetésre szánt állami vagyon tekintetében a IV. és V. Fejezetben foglalt rendelkezések nem alkalmazhatóak.
 
-- a) az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint értékesíti a kivezetésre szánt állami vagyont,
-- b) az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint lefolytatja a kivezetésre szánt állami vagyon ingyenes tulajdonba adására irányuló eljárásokat,
-- c) közvetlenül vagy polgári jogi szerződések útján – átmeneti jelleggel, a tulajdonjog átruházásáig – hasznosítja a kivezetésre szánt állami vagyont,
-- d) a kivezetésre szánt állami vagyon tekintetében ellátja az ingatlanok birtokbavételével, őrzésével, kiürítésével, állagmegóvásával, valamint az ingóságok őrzésével, szállításával, raktározásával, selejtezésével, megsemmisítésével kapcsolatos feladatokat,
-- e) nyilvántartást vezet a tulajdonosi joggyakorlása alá tartozó, kivezetésre szánt állami vagyonról,
-- f) a kivezetésre szánt állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli az államot,
-- g) nyilvántartja, folyamatosan nyomon követi és kezeli a kivezetésre szánt állami vagyont érintő jogokat, követeléseket és terheket,
-- h) működteti a kivezetésre szánt állami vagyon tulajdonjogának átruházását szolgáló informatikai rendszereket,
-- i) folyamatosan vizsgálja a 42/A. § (1) bekezdés a) és b) pontja alapján állami tulajdonba és a tulajdonosi joggyakorlása alá kerülő vagyonelemeket és az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint kezdeményezi a vagyonelemek MNV Zrt. tulajdonosi joggyakorlása alá kerülését, ha azok nem minősülnek az Nvtv. 3. § (1) bekezdés 7. pontja szerinti vagyonelemnek;
-- j) gyakorolja a tulajdonosi jogokat a 42/A. § (1) bekezdés szerinti kivezetésre szánt állami vagyon tekintetében,
-- k) ellátja a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében átvett vagyonelemek értékesítésével, hasznosításával, kezelésével és a vagyonelemként átvett követelések érvényesítésével kapcsolatos feladatokat.
+42/B. § (1) Az MNV Zrt. folyamatosan vizsgálja a 42/A. § (1) bekezdés a)–c) pontja szerinti kivezetésre szánt állami vagyonként nyilvántartott vagyonelemeket, és ha a vagyonelem nem felel meg az Nvtv. 3. § (1) bekezdés 7. pontja szerinti feltételeknek, az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint átminősíti, ha
 
-(2) Ha az (1) bekezdés i) pontja szerinti vizsgálat alapján az MVH megállapítja, hogy valamely vagyonelem
+- a) az e törvény végrehajtási rendeletében meghatározott ingóságnak minősül,
+- b) egyedi tulajdonságai vagy a rendelkezésre álló információk alapján állami feladatok ellátásához felhasználható lehet, vagy
+- c) annak egyedi nyilvántartási értéke meghaladja a 42/A. § (2) bekezdése szerinti értéket és tehermentes vagy teljes tehermentesítésére került sor.
 
-- a) egyedi bruttó értéke meghaladja a 42/A. § (2) bekezdése szerinti értéket,
-- b) a vagyonelem egyedi tulajdonságai vagy a rendelkezésre álló információk alapján valószínűsíthető, hogy az adott vagyonelem állami feladatok ellátásához felhasználható lehet vagy
-- c) az e törvény végrehajtási rendeletében meghatározott ingóságnak minősül,
+(2) Az MNV Zrt. – az állami vagyonnal való felelős gazdálkodás vonatkozásában az Nvtv. 7. §-ában meghatározott követelményeknek való megfelelés érdekében – átminősítheti azt az (1) bekezdés c) pontja szerinti vagyonelemet, amely tekintetében a fennálló teher alapjául szolgáló követelés pontos mértéke nem haladja meg a 42/A. § (2a) bekezdése szerinti értéket.
 
-a vagyonelemet az a) és a c) pont szerinti esetben átadja, a b) pont szerinti esetben felajánlja az MNV Zrt. részére.
+(3) Az (1) és (2) bekezdés szerinti vagyonelemek tekintetében az átminősítés napjától az e Fejezetben foglalt rendelkezések nem alkalmazhatóak.
 
-(3) Az (1) bekezdés k) pontja szerinti feladatok ellátása során az MVH e fejezet szabályai szerint jár el azzal, hogy a 42/O. §-ban foglalt rendelkezések nem alkalmazhatóak.
+#### 42/C. §
 
-42/C. § (1) Az MVH az állam kizárólagos tulajdonában álló gazdasági társaság, amelynek társasági részesedése forgalomképtelen. Az MVH felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként az MNV Zrt. gyakorolja. Az MVH nem válhat szét és más jogi személlyel nem egyesülhet.
+42/D. § (1) Az MNV Zrt. folyamatosan vizsgálja az állami tulajdonba és a tulajdonosi joggyakorlása alá kerülő vagyonelemeket, és ha valamely vagyonelem az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint kivezetésre szánt állami vagyonnak minősül, átsorolja a kivezetésre szánt állami vagyon körébe.
 
-(2) Az MVH köteles a kivezetésre szánt állami vagyonnal való gazdálkodását elkülöníteni a saját vagyonával és a vagyonkezelésében lévő állami vagyonnal történő gazdálkodásától.
+(2) Az (1) bekezdés szerinti átsorolás napjától a vagyonelem tekintetében a kivezetésre szánt állami vagyonra vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
 
-(3) Az MVH-nak a kivezetésre szánt vagyonnal való gazdálkodása során az államháztartás központi alrendszerére vonatkozó szabályokat kell alkalmaznia az alábbi eltérésekkel:
+#### 42/E. §
 
-- a) feladatai ellátása érdekében jogosult pénzügyi intézménynél, befektetési szolgáltatónál és központi letétkezelőnél, értéktárnál számlát vezetni,
-- b) a nemzeti vagyonba tartozó forgóeszközök között kimutatott készletek értékvesztésének elszámolása során alkalmazható a számvitelről szóló 2000. évi C. törvény 56. § (3) bekezdése szerinti rendelkezés, amely szerint a fajlagosan kis értékű készleteknél az MVH által kialakított készletcsoportok könyv szerinti értékének arányában is meghatározható az értékvesztés összege azzal, hogy a különbözetet akkor kell jelentős összegűnek tekinteni, ha az értékvesztés összege meghaladja a bekerülési érték 10%-át, de legalább a százezer forintot.
-
-(4) Az MVH működéséhez szükséges forrást a központi költségvetés biztosítja.
-
-(5) Az MVH kivezetésre szánt állami vagyonnal való gazdálkodása során ellátott feladatai állami feladatnak minősülnek.
-
-### Az MNV Zrt. és az MVH közötti vagyonátadások
-
-42/D. § (1) Az MNV Zrt. folyamatosan vizsgálja az állami tulajdonba és a tulajdonosi joggyakorlása alá kerülő vagyonelemeket és az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint kezdeményezi a vagyonelemek MVH tulajdonosi joggyakorlása alá kerülését, ha azok kivezetésre szánt állami vagyonnak minősülnek.
-
-(2) Az MNV Zrt. a 42/A. § (1) bekezdés c) és d) pontja szerinti, kivezetésre szánt állami vagyonnak minősített vagyonelemeket az ahhoz kapcsolódó jogokkal, terhekkel és követelésekkel együtt – ingatlan-nyilvántartási átvezetésre is alkalmas – egyoldalú nyilatkozatával adja át az MVH részére.
-
-(3) A tárgyfélév utolsó napjáig a (2) bekezdés szerinti egyoldalú nyilatkozattal átadott vagyonelem tulajdonosi joggyakorlása – e törvény erejénél fogva – a tárgyfélévet követő félév első napján száll át az MVH-ra. A kivezetésre szánt állami vagyonnak minősített vagyonelemek MVH általi átvétele a tárgyfélév utolsó napján érvényes záró nyilvántartási értéken történik.
-
-(4) A tulajdonosi joggyakorlás (3) bekezdés szerinti átszállásának napjával az érintett vagyonelemekkel kapcsolatos valamennyi jogviszonyba az MNV Zrt. helyébe jogutódként az MVH lép. Az érintett vagyonelemekkel kapcsolatos peres és nemperes eljárásokba az MVH az MNV Zrt. jogutódjaként belép.
-
-(5) Az MVH – jogszabály eltérő rendelkezése hiányában – jogosult a tulajdonosi joggyakorlás átszállásától számított kilencven napon belül felmondani azokat a szerződéseket, amelyekbe a (4) bekezdés alapján jogutódként belépett.
-
-(6) Az MVH egyoldalú kérelmével gondoskodik a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről. Az MNV Zrt. (2) bekezdés szerinti egyoldalú nyilatkozata képezi a bejegyzés alapjául szolgáló okiratot, amely tartalmazza a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket.
-
-42/E. § (1) Az MVH tulajdonosi joggyakorlása alatt álló, 42/B. § (2) bekezdés a) és c) pontja szerinti vagyonelemeket, valamint a 42/B. § (2) bekezdés b) pontja szerint felajánlott vagyonelemet, amelyet az MNV Zrt. írásbeli nyilatkozatával állami vagyongazdálkodási feladatok ellátásához szükséges vagyonnak minősít, az ahhoz kapcsolódó jogokkal, terhekkel és követelésekkel együtt – ingatlan-nyilvántartási átvezetésre is alkalmas – egyoldalú nyilatkozattal adja át az MNV Zrt. részére.
-
-(2) A tárgyfélév utolsó napjáig az (1) bekezdés szerinti egyoldalú nyilatkozattal átadott vagyonelem tulajdonosi joggyakorlása – a törvény erejénél fogva – a tárgyfélévet követő félév első napján száll át az MNV Zrt.-re. Az (1) bekezdés szerint átadott vagyonelemek MNV Zrt. általi átvétele a tárgyfélév utolsó napján érvényes záró nyilvántartási értéken történik.
-
-(3) A tulajdonosi joggyakorlás átszállásának napjával az érintett vagyonelemekkel kapcsolatos jogviszonyokba az MVH helyébe jogutódként az MNV Zrt. lép.
-
-(4) Az MNV Zrt. – jogszabály eltérő rendelkezése hiányában – jogosult a tulajdonosi joggyakorlás átszállásától számított kilencven napon belül felmondani azokat a szerződéseket, amelyekbe a (3) bekezdés alapján jogutódként belépett.
-
-(5) Az MNV Zrt. egyoldalú kérelmével gondoskodik a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről. Az MVH (1) bekezdés szerinti egyoldalú nyilatkozata képezi a bejegyzés alapjául szolgáló okiratot, amely tartalmazza a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket.
-
-42/F. § (1) Ha vagyongazdálkodási célok megvalósítása érdekében indokolt, a 42/D. §-ban és a 42/E. §-ban meghatározott vagyonátadások helyett az MNV Zrt. eseti egyoldalú nyilatkozattal is rendelkezhet valamely vagyonelem tulajdonosi joggyakorlásának átadásáról vagy átvételéről.
-
-(2) Az (1) bekezdés szerinti esetben a tulajdonosi joggyakorlás az érintett vagyonelemre vonatkozó eseti egyoldalú nyilatkozat kiállításának napján, az azon a napon érvényes nyilvántartási értéken száll át az átvevőre azzal, hogy az átadás tekintetében a 42/D. § (4)–(6) bekezdésében és a 42/E. § (3)–(5) bekezdésében foglaltakat alkalmazni kell.
+#### 42/F. §
 
 ### A kivezetésre szánt állami vagyonnal való gazdálkodás
 
-42/G. § (1) Az MVH a kivezetésre szánt állami vagyonnal kapcsolatos feladatai ellátása érdekében jogosult 100%-os állami tulajdonú gazdasági társaság közreműködését igénybe venni.
+42/G. § (1)
 
-(2) Az MVH a kivezetésre szánt állami vagyont az Nvtv. 11/A. §-ában foglaltakra figyelemmel átmeneti jelleggel hasznosítja.
+(2) Az MNV Zrt. a kivezetésre szánt állami vagyont az Nvtv. 11/A. §-ában foglaltakra figyelemmel átmeneti jelleggel hasznosítja.
 
-(3) A kivezetésre szánt állami vagyon körébe tartozó követelések tekintetében a követelés nyilvántartási értékén vagy azt meghaladó értéken történő értékesítése és átütemezése mellett – a köztartozások fejében állami tulajdonba kerülő, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében vagyonelemként átvett követelések kivételével – az MVH a hosszú távú költségvetési hatásokra, így különösen a követelés érvényesítésére tett kísérletek eredményességére, az érvényesítéssel kapcsolatban közvetlenül vagy közvetve felmerült vagy várhatóan felmerülő költségekre, valamint azok megtérülésének várható idejére és mértékére figyelemmel jogosult a követelés
+(3) A kivezetésre szánt állami vagyon körébe tartozó követelések tekintetében a követelés nyilvántartási értékén vagy azt meghaladó értéken történő értékesítése és átütemezése mellett – a köztartozások fejében állami tulajdonba kerülő, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében vagyonelemként átvett követelések kivételével – az MNV Zrt. a hosszú távú költségvetési hatásokra, így különösen a követelés érvényesítésére tett kísérletek eredményességére, az érvényesítéssel kapcsolatban közvetlenül vagy közvetve felmerült vagy várhatóan felmerülő költségekre, valamint azok megtérülésének várható idejére és mértékére figyelemmel jogosult a követelés
 
 - a) nyilvántartási értéket el nem érő áron történő értékesítésére vagy
 - b) részleges vagy teljes elengedésére, ideértve a kamat elengedését is.
 
-(4) Az MVH (3) bekezdés a) és b) pontja szerinti tevékenysége követelésről történő lemondásnak minősül.
+(4) Az MNV Zrt. (3) bekezdés a) és b) pontja szerinti tevékenysége követelésről történő lemondásnak minősül.
 
-(5) Az MVH jogosult a kivezetésre szánt állami vagyon körébe tartozó követelések
+(5) Az MNV Zrt. jogosult a kivezetésre szánt állami vagyon körébe tartozó követelések
 
 - a) pályázat útján,
-- b) az MVH által működtetett e célra létrehozott elektronikus értékesítési felületen vagy
+- b) az MNV Zrt. által működtetett e célra létrehozott elektronikus értékesítési felületen vagy
 - c) versenyeztetés mellőzésével
 
 történő értékesítésére.
@@ -892,62 +861,59 @@ történő értékesítésére.
 
 (7) A kivezetésre szánt állami vagyon körébe tartozó követelés értékesítésére versenyeztetés mellőzésével akkor kerülhet sor, ha jogszabály rendelkezései vagy az ügylet egyéb körülményei a lehetséges vevő személyének megválasztását olyan jelentősen korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatóak.
 
-(8) A kivezetésre szánt állami vagyon körébe tartozó követelések értékesítése során az MVH csomagban történő értékesítést is alkalmazhat azzal, hogy csomagban történő értékesítés esetén csak az adott csomagban értékesítésre kerülő valamennyi követelésre együttesen vonatkozó ajánlat fogadható el.
+(8) A kivezetésre szánt állami vagyon körébe tartozó követelések értékesítése során az MNV Zrt. csomagban történő értékesítést is alkalmazhat azzal, hogy csomagban történő értékesítés esetén csak az adott csomagban értékesítésre kerülő valamennyi követelésre együttesen vonatkozó ajánlat fogadható el.
 
-(9) Az MVH a követelés (3) bekezdés b) pontja szerinti elengedése esetén a követelés kötelezettjével megállapodást köt.
+(9) Az MNV Zrt. a követelés (3) bekezdés b) pontja szerinti elengedése esetén a követelés kötelezettjével megállapodást köt.
 
 (10) A kivezetésre szánt állami vagyon körébe tartozó követelésekkel kapcsolatos feladatokra, így különösen a követelés (3) bekezdés a) és b) pontja szerinti értékesítésére és elengedésére, valamint az (5) bekezdés szerinti értékesítési módokra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
-(11) Az MVH a kivezetésre szánt állami vagyon körébe tartozó követelésekkel kapcsolatos feladatok ellátására vonatkozó részletes szabályokról követeléskezelési szabályzatot készít, amelynek része az MVH által alkalmazható engedménypolitika.
+(11) Az MNV Zrt. a kivezetésre szánt állami vagyon körébe tartozó követelésekkel kapcsolatos feladatok ellátására vonatkozó részletes szabályokról követeléskezelési szabályzatot készít, amelynek része az MNV Zrt. által alkalmazható engedménypolitika.
 
 (12) A kivezetésre szánt állami vagyon körébe tartozó követelések tekintetében a 42/H–42/O. §-ban foglalt rendelkezések nem alkalmazhatóak.
 
 ### A kivezetésre szánt állami vagyon elidegenítésére vonatkozó szabályok
 
-42/H. § (1) Az MVH a kivezetésre szánt állami vagyon típusára, jellegére, fizikai állapotára, a piaci viszonyokra, továbbá az Nvtv. 7. § (3) bekezdésében meghatározott vagyongazdálkodási követelményekre, valamint a várható bevételekre figyelemmel dönt a vagyontárgy állami tulajdonból való kivezetésének módjáról.
+42/H. § (1) Az MNV Zrt. a kivezetésre szánt állami vagyon típusára, jellegére, fizikai állapotára, a piaci viszonyokra, továbbá az Nvtv. 7. § (3) bekezdésében meghatározott vagyongazdálkodási követelményekre, valamint a várható bevételekre és a kivezetéssel járó költségekre figyelemmel dönt a vagyontárgy állami tulajdonból való kivezetésének módjáról.
 
-(2) Az MVH a kivezetésre szánt állami vagyon értékesítése során a kereskedelmi észszerűség követelményének megfelelően köteles eljárni azzal, hogy az MVH a kivezetésre szánt állami vagyont bármely e törvényben meghatározott vagy egyéb olyan eljárással értékesítheti, amely megfelel az érintett vagyonelem kereskedelmi forgalma során általában alkalmazott, az adott piacon szokásos értékesítési módokra vonatkozó szabályoknak és a kivezetésre szánt állami vagyon tekintetében az állami tulajdon gyors, hatékony, célszerű és költségtakarékos megszűnését eredményezi. A kivezetésre szánt állami vagyon értékesítésének elsődleges célja a költségtakarékos, észszerű állami vagyongazdálkodás feltételeinek biztosítása, amely célok megelőzik az értékarányosság követelményének érvényesítését.
+(2) Az MNV Zrt. a kivezetésre szánt állami vagyon értékesítése során a kereskedelmi észszerűség követelményének megfelelően köteles eljárni azzal, hogy az MNV Zrt. a kivezetésre szánt állami vagyont bármely e törvényben meghatározott vagy egyéb olyan eljárással értékesítheti, amely megfelel az érintett vagyonelem kereskedelmi forgalma során általában alkalmazott, az adott piacon szokásos értékesítési módokra vonatkozó szabályoknak és a kivezetésre szánt állami vagyon tekintetében az állami tulajdon gyors, hatékony, célszerű és költségtakarékos megszűnését eredményezi. A kivezetésre szánt állami vagyon értékesítésének elsődleges célja a költségtakarékos, észszerű állami vagyongazdálkodás feltételeinek biztosítása, amely célok megelőzik az értékarányosság követelményének érvényesítését.
 
-(3) A (2) bekezdés szerinti értékesítési eljárás során az MVH jogosult arra, hogy a vagyontárgy ellenértékének megállapításakor a vagyontárgy rendelkezésre álló forgalmi értéke mellett figyelembe vegye különösen:
+(3) A (2) bekezdés szerinti értékesítési eljárás során az MNV Zrt. jogosult arra, hogy a vagyontárgy ellenértékének megállapításakor a vagyontárgy rendelkezésre álló forgalmi értéke mellett figyelembe vegye különösen:
 
 - a) az értékesítésre szánt vagyonelem tárolásának, állagmegőrzésének, őrzés-védelmének és működtetésének költségeit,
 - b) az esetleges újabb értékesítési eljárás költségeit,
-- c) az állagromlásból eredő értékcsökkenést,
-- d) ingóság esetén a vagyonelem szállításával, megsemmisítésével vagy hulladékként történő kezelésével kapcsolatos ráfordításokat, továbbá
-- e) a fennálló piaci keresleti viszonyokat.
+- c) a terhelt vagyontárgyak esetében a végrehajtási eljárás költségeit,
+- d) az állagromlásból eredő értékcsökkenést,
+- e) ingóság esetén a vagyontárgy szállításával, megsemmisítésével vagy hulladékként történő kezelésével kapcsolatos ráfordításokat, továbbá
+- f) a fennálló piaci keresleti viszonyokat.
 
-(4) A kivezetésre szánt állami vagyon értékesítése előtt meg kell állapítani az értékesítésre szánt vagyontárgy egyedi forgalmi értékét. A forgalmi érték megállapítását az MVH által foglalkoztatott értékbecslő (a továbbiakban: belső értékbecslő) vagy külső értékbecslő is elvégezheti.
+(4) A kivezetésre szánt állami vagyon értékesítése előtt meg kell állapítani az értékesítésre szánt vagyontárgy egyedi forgalmi értékét. A forgalmi érték megállapítását az MNV Zrt. által foglalkoztatott értékbecslő (a továbbiakban: belső értékbecslő) vagy külső értékbecslő is elvégezheti.
 
-(5) A belső értékbecslő által készítendő értékbecslés (a továbbiakban: belső értékbecslés) elkészítésének részletszabályait és módszertanát az MVH szabályzatban határozza meg. Az MVH a 42/N. § szerinti csomagban történő értékesítés tekintetében a belső értékbecslésekre vonatkozó szabályzatában a (4) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg a vagyontárgyak forgalmi értékének megállapítására vonatkozóan.
+(5) A belső értékbecslő által készítendő értékbecslés (a továbbiakban: belső értékbecslés) elkészítésének részletszabályait és módszertanát az MNV Zrt. szabályzatban határozza meg. Az MNV Zrt. a 42/N. § szerinti csomagban történő értékesítés tekintetében a belső értékbecslésekre vonatkozó szabályzatában a (4) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg a vagyontárgyak forgalmi értékének megállapítására vonatkozóan.
 
 (6) Az (1)–(3) bekezdésben meghatározottakra figyelemmel a kivezetésre szánt állami vagyon értékesítésére forgalmi érték alatt is sor kerülhet.
 
-(7) Az MVH jogosult a kivezetésre szánt vagyontárgyak versenyeztetés mellőzésével történő értékesítésére is.
+(7) Az MNV Zrt. jogosult a kivezetésre szánt vagyontárgyak versenyeztetés mellőzésével történő értékesítésére is.
 
 (8) A 42/O. § szerinti ingyenes tulajdonba adásnak nem előfeltétele a kivezetésre szánt állami vagyonelem értékesítésének előzetes megkísérlése, továbbá ingyenes tulajdonba adás esetén mellőzhető a vagyontárgy forgalmi értékének megállapítása is. Az átadás nyilvántartási értéken történő átvezetéssel történik.
 
-(9) Az MVH tulajdonosi joggyakorlása alá tartozó, művelés alól kivett védett természeti terület értékesítésére akkor van lehetőség, ha
+(9)
 
-- a) az adott ingatlan közvetlenül határos azzal a magántulajdonban álló területtel, amelynek tulajdonosa a vételi ajánlatot benyújtotta az MVH részére és
-- b) a védett természeti területek természetvédelmi kezeléséért felelős szerv az adott ingatlan tekintetében megállapította, hogy az ingatlan védettségi szintjének fenntartása annak állami tulajdonból való kikerülése esetén is biztosítható, és meghatározta ennek feltételeit.
-
-(10) Osztatlan közös tulajdonban álló védett természeti terület esetében az MVH tulajdonosi joggyakorlása alá tartozó tulajdoni hányad értékesítésére akkor van lehetőség, ha a földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább 3 éve tulajdoni hányaddal rendelkezik.
+(10)
 
 ### A kivezetésre szánt állami vagyon értékesítése
 
-42/I. § (1) Az MVH az értékesítést – a 42/H. § (2) és (3) bekezdésében foglaltakra figyelemmel – a vagyontárgy jellegétől függően
+42/I. § (1) Az MNV Zrt. az értékesítést – a 42/H. § (2) és (3) bekezdésében foglaltakra figyelemmel – a vagyontárgy jellegétől függően
 
-- a) a kivezetésre szánt állami vagyon tulajdonjogának átruházását szolgáló elektronikus árverési rendszer útján,
+- a) elektronikus árverési rendszer útján,
 - b) egyszerűsített pályázat útján,
-- c) versenyeztetés mellőzésével forgalmi értéken,
-- d) a kivezetésre szánt állami vagyon tulajdonjogának átruházását szolgáló katalógus útján vagy
-- e) egyéb módon
+- c) versenyeztetés mellőzésével, vagy
+- d) egyéb módon
 
 végezheti.
 
-(2) Az (1) bekezdés szerinti értékesítési módok esetén az MVH csomagban történő értékesítést is alkalmazhat a 42/N. § szerint.
+(2) Az (1) bekezdés szerinti értékesítési módok esetén az MNV Zrt. csomagban történő értékesítést is alkalmazhat a 42/N. § szerint.
 
-(3) Az értékesítés lebonyolítására az MVH harmadik személynek megbízást adhat.
+(3) Az értékesítés lebonyolítására az MNV Zrt. harmadik személynek megbízást adhat.
 
 (4) A kivezetésre szánt állami vagyon értékesítésének részletes szabályait a Kormány rendeletben állapítja meg.
 
@@ -955,44 +921,50 @@ végezheti.
 
 (2) Az árverezők elektronikus nyilvántartásába bármely természetes személy vagy olyan jogi személy kérheti a felvételét, aki megfelel az Nvtv. 3. § (1) bekezdés 1. pontja vagy az Nvtv. 14/B. §-a szerinti feltételeknek, és az elektronikus árverési rendszer árverezőként történő használatának feltételeit rögzítő felhasználási szabályzatban foglaltakat elfogadta.
 
-(3) Az MVH részére az MNV Zrt. az elektronikus árverésen történő értékesítést ingyenesen bonyolítja le.
+(3)
 
-42/K. § (1) Az MVH a 42/I. § (1) bekezdés b) pontja szerinti egyszerűsített pályázati eljárás útján értékesítheti azokat a kivezetésre szánt állami vagyoni körbe tartozó vagyonelemeket, amelyek értékesítését célszerű helyben megkísérelni, vagy amelyek értékesítését a vagyontárgy jellegére, fekvésére, értékére vagy a piaci viszonyokra figyelemmel nem indokolt a 42/I. § (1) bekezdés a) pontja szerinti elektronikus árverési rendszeren lefolytatni.
+42/K. § (1) Az MNV Zrt. a 42/I. § (1) bekezdés b) pontja szerinti egyszerűsített pályázati eljárás útján értékesítheti azokat a kivezetésre szánt állami vagyoni körbe tartozó vagyonelemeket, amelyek értékesítését célszerű helyben megkísérelni, vagy amelyek értékesítését a vagyontárgy jellegére, fekvésére, értékére vagy a piaci viszonyokra figyelemmel nem indokolt a 42/I. § (1) bekezdés a) pontja szerinti elektronikus árverési rendszeren lefolytatni.
 
-(2) Az egyszerűsített pályázati eljárás során az MVH a pályázati felhívást a honlapján teszi közzé.
+(2) Az egyszerűsített pályázati eljárás során az MNV Zrt. a pályázati felhívást a honlapján teszi közzé.
 
-42/L. § A 42/I. § (1) bekezdés c) pontja szerinti versenyeztetés nélküli értékesítés során az MVH a kivezetésre szánt állami vagyoni körbe tartozó vagyontárgyat legalább a becsült forgalmi értéken idegenítheti el.
+42/L. § A 42/I. § (1) bekezdés c) pontja szerinti versenyeztetés nélküli értékesítés során az MNV Zrt. a kivezetésre szánt állami vagyoni körbe tartozó vagyontárgyat legalább a becsült forgalmi értéken idegenítheti el.
 
-42/M. § (1) A 42/I. § (1) bekezdés d) pontja szerinti katalóguson keresztül történő értékesítési eljárás azoknak a kivezetésre szánt állami vagyoni körbe tartozó vagyonelemeknek az értékesítésére szolgál, amelyek tekintetében a 42/I. § (1) bekezdés a) vagy b) pontja szerinti eljárás lefolytatása nem vezetett eredményre.
-
-(2) A katalóguson keresztül történő értékesítés során a vételárként meghatározott összeget legkorábban megajánló, érvényes vételi ajánlatot tevő személy részére kerülhet sor a kivezetésre szánt állami vagyon értékesítésére.
+#### 42/M. §
 
 42/N. § Egymástól elkülönülő egynemű, vagy egymással alkotórészi kapcsolatban nem álló, de gazdasági, jogi vagy funkcionális egységet képező kivezetésre szánt állami vagyoni körbe tartozó vagyontárgyak csomagban történő értékesítése esetén csak a vagyontárgyak teljes egészére mint dologösszességre vonatkozó ajánlat fogadható el.
 
 ### A kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházása
 
-42/O. § (1) A kivezetésre szánt állami vagyon tulajdonjogát az MVH ingyenesen átruházhatja:
+42/O. § (1) A kivezetésre szánt állami vagyon tulajdonjogát – a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében átvett vagyonelemek kivételével – az MNV Zrt. ingyenesen átruházhatja:
 
 - a) helyi önkormányzat,
 - b) egyház, egyházi jogi személy,
-- c) karitatív tevékenységet folytató civil szervezet vagy
-- d) közhasznú szervezet
+- c) karitatív tevékenységet folytató civil szervezet,
+- d) közhasznú szervezet,
+- e) nemzetiségi önkormányzat, vagy
+- f) nem központi költségvetési szervként működő egészségügyi, továbbá oktatási, nevelési intézmény
 
 részére.
 
-(2) Az MVH – az (1) bekezdéstől eltérően – az Nvtv. 7. § (3) bekezdésében meghatározott vagyongazdálkodási célok megvalósítása érdekében a kivezetésre szánt állami vagyon körébe tartozó
+(2) Az MNV Zrt. – az (1) bekezdésben foglaltakon túl – az Nvtv. 7. § (3) bekezdésében meghatározott vagyongazdálkodási célok megvalósítása érdekében a kivezetésre szánt állami vagyon körébe tartozó
 
 - a) osztatlan közös tulajdonban álló ingatlan állami tulajdoni hányadát a tulajdonostárs részére ingyenesen átruházhatja, ha az állam legfeljebb az ingatlan tulajdoni hányadának a felével rendelkezik és az állami tulajdonban álló ingatlanhányad értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - b) beépítésre vagy önmagában hasznosításra nem alkalmas önálló, így különösen a kisajátításból visszamaradt ingatlan tulajdonjogát ingyenesen átruházhatja az érintett ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa vagy – amennyiben az ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa az ingatlant nem kívánja tulajdonba venni vagy az részére egyéb okból tulajdonba nem adható – az ingatlan fekvése szerinti településen ingatlantulajdonnal rendelkező személy részére, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - c) földhasználati joggal terhelt ingatlant a földhasználati jog jogosultja részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - d) társasági részesedést a társaság vagy a társaság tagja részére ingyenesen átruházhatja, ha az állam kisebbségi társasági részesedés tulajdonosa, és az állami tulajdonban álló társasági részesedés értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
-- e) hagyatékból származó állami tulajdonú ingatlanban lévő ingóság tulajdonjogát ingyenesen átruházhatja az ingatlanban bejelentett lakóhellyel rendelkező, vagy huzamos ideje, életvitelszerűen az ingatlanban tartózkodó személy, vagy – közös tulajdonban álló ingóság esetén – a tulajdonostárs részére, ha az ingóság egyedi értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket.
+- e) hagyatékból származó állami tulajdonú ingatlanban lévő ingóság tulajdonjogát ingyenesen átruházhatja
+  - ea) az ingatlanban bejelentett lakóhellyel rendelkező, vagy huzamos ideje, életvitelszerűen az ingatlanban tartózkodó személy, az ingatlan tulajdoni lapjára bejegyzett haszonélvező, vagy özvegyi jog jogosultja, valamint – közös tulajdonban álló ingóság esetén – a tulajdonostárs, továbbá
+  - eb) az ingatlan értékesítése során annak vevője
 
-(3) Az (1) és (2) bekezdés szerinti ingyenes tulajdonba adást az MVH, továbbá az (1) és (2) bekezdés szerinti kedvezményezett személyek is kezdeményezhetik.
+részére, ha az ingóság nyilvántartási értéke nem éri el az e törvény végrehajtási rendeletében meghatározott értéket;
+
+- f) hagyatékból származó, muzeális és történeti értéket nem képviselő állami tulajdonú könyv, folyóirat, kiadmány ingóság tulajdonjogát ingyenesen átruházhatja Magyarország területén lévő vagy határon túli nem központi költségvetési szervként működő könyvtárak vagy azok fenntartója részére, ha az ingóság nyilvántartási értéke nem éri el az e törvény végrehajtási rendeletében meghatározott értéket.
+
+(3) Az (1) és (2) bekezdés szerinti ingyenes tulajdonba adást az MNV Zrt., továbbá az (1) és (2) bekezdés szerinti kedvezményezett személyek is kezdeményezhetik.
 
 (4) Ha a (2) bekezdés szerinti esetekben a kivezetésre szánt állami vagyon tulajdonjogának megszerzésére több személy is jogosult, a tulajdonszerzés módját és sorrendjét az e törvény végrehajtási rendeletében meghatározott szabályok szerint kell megállapítani.
 
-(5) Az MVH az állam mint szükségképpeni törvényes örökös nevében az örökségről az örökhagyó utolsó belföldi lakóhelye, ennek hiányában a hagyaték fekvési helye szerinti helyi önkormányzat vagy ingatlan esetében annak fekvési helye szerinti helyi önkormányzat javára lemondhat, ha az érintett helyi önkormányzat előzetesen írásban nyilatkozik az MVH felé az örökség elfogadásáról.
+(5) Az MNV Zrt. az állam mint szükségképpeni törvényes örökös nevében az örökségről az örökhagyó utolsó belföldi lakóhelye, ennek hiányában a hagyaték fekvési helye szerinti helyi önkormányzat vagy ingatlan esetében annak fekvési helye szerinti helyi önkormányzat javára lemondhat, ha az érintett helyi önkormányzat előzetesen írásban nyilatkozik az MNV Zrt. felé az örökség elfogadásáról.
 
 ### Kivezetésre szánt állami vagyoni körbe tartozó gazdasági társaságok működésének speciális szabályai
 
@@ -1250,7 +1222,7 @@ lép.
 
 (1a) Más személy tulajdonában lévő ingatlanon a lakáscélú állami támogatásokkal kapcsolatban az állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételére az állam nevében a lakáscélú állami támogatások ügyében eljáró szerv jogosult.
 
-(2) Az államot megillető elővásárlási vagy vételi jog gyakorlására – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az MNV Zrt., a kivezetésre szánt állami vagyonnal kapcsolatos elővásárlási vagy vételi jog gyakorlására az MVH jogosult.
+(2) Az államot megillető elővásárlási vagy vételi jog gyakorlására – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az MNV Zrt. jogosult.
 
 (3) Amennyiben az állam valamely vagyonelemet ellenérték fejében szerez meg és a vagyonelem létrehozásához, értéknövelő felújításához, fejlesztéséhez – annak állam általi megszerzését megelőzően – központi költségvetési forrás került felhasználásra, akkor a vagyonelem vételárának megállapításakor a vételárat csökkenteni kell a felhasznált központi költségvetési forrás összegével akként, hogy a vételár meghatározásának alapjául szolgáló becsült forgalmi értékből értéknövelő beruházás, felújítás esetén az értékelés fordulónapján fennálló könyv szerinti értékére jutó felhasznált központi költségvetési forrás összegét le kell vonni.
 
@@ -1382,8 +1354,8 @@ lép.
 - h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait,
 - i) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezésére, az állami elhelyezési célú ingatlanhasználati jogviszonyra, valamint az állami elhelyezési célú ingatlanok hasznosítására, üzemeltetésére vonatkozó részletszabályokat,
 - j) a 24/A. § (1) bekezdése szerinti elektronikus bérleti licit rendszeren keresztül folytatott elektronikus bérleti licit szabályait, ezen belül a bérleti licit rendszer működtetésének szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartása vezetésének szabályait, a bérleti licit rendszeren keresztül történő elektronikus bérleti licit eljárás lebonyolításának szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus bérleti licit rendszer szakmai követelményeit, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az elektronikus bérleti licit rendszerhez felhasználóként történő csatlakozás feltételeit és a bérleti licit rendszer használóira vonatkozó szabályzatok kötelező tartalmát.
-- k) a kivezetésre szánt állami vagyon minősítésére, átadás-átvételére, az MVH tulajdonosi joggyakorlása alatt álló vagyon számviteli nyilvántartására, a kivezetésre szánt állami vagyonnal való gazdálkodásra és a kivezetésre szánt állami vagyon elidegenítésére, valamint a kivezetésre szánt állami vagyon körébe tartozó követelésekkel kapcsolatos feladatokra – ideértve a követelés 42/G. § (3) bekezdés a) és b) pontja szerinti értékesítését és elengedését is – vonatkozó részletes szabályokat, valamint a kivezetésre szánt állami vagyoni körbe tartozó gazdasági társaságok működésének sajátos szabályait;
-- l) az MNV Zrt. közvetlen kezelésében lévő állami vagyonelemek minősítésére, a kivezetésre szánt állami vagyon körének megállapítására, valamint az MVH részére átadásra nem kerülő kis értékű vagyonelemek meghatározására vonatkozó szabályokat.
+- k) a kivezetésre szánt állami vagyon minősítésére, a kivezetésre szánt állami vagyonnal való gazdálkodásra és a kivezetésre szánt állami vagyon elidegenítésére, valamint a kivezetésre szánt állami vagyon körébe tartozó követelésekkel kapcsolatos feladatokra – ideértve a követelés 42/G. § (3) bekezdés a) és b) pontja szerinti értékesítését és elengedését is – vonatkozó részletes szabályokat, valamint a kivezetésre szánt állami vagyoni körbe tartozó gazdasági társaságok működésének sajátos szabályait;
+- l) az MNV Zrt. közvetlen kezelésében lévő állami vagyonelemek minősítésére, a kivezetésre szánt állami vagyon körének megállapítására vonatkozó szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy
 

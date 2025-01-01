@@ -197,7 +197,7 @@ A pénztárszervezet és működési forma bevezetése, új intézménytípuské
 
 11. § (1) Pénztártag lehet az a 16. életévét betöltött személy, aki az alapszabály rendelkezéseit magára nézve kötelezőnek ismeri el és tagdíjfizetést vállal.
 
-(2) A tagsági viszony, a tagdíjfizetési kötelezettség és a várakozási idő a pénztárhoz benyújtott belépési nyilatkozatnak a pénztár általi elfogadásával kezdődik. A pénztár a belépési nyilatkozat elfogadását annak záradékolásával tanúsítja. A belépési nyilatkozatot a benyújtástól számított 30 napon belül kell záradékolni, majd annak egy példányát vagy a tagsági okiratot a pénztártagnak nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként át kell adni. Az internetes honlappal rendelkező pénztár a tagot a belépési nyilatkozatban vagy a tagsági okiratban tájékoztatja arról, hogy a pénztár honlapján az alapszabály elérhető. Az alapszabályt a tag kérésére, illetve internetes honlappal nem rendelkező pénztár esetében díjmentesen, nyomtatott formában is ki kell adni.
+(2) A tagsági viszony, a tagdíjfizetési kötelezettség és a várakozási idő a pénztárhoz benyújtott belépési nyilatkozatnak a pénztár általi elfogadásával kezdődik. A pénztár a belépési nyilatkozat elfogadását annak záradékolásával tanúsítja. A belépési nyilatkozatot a benyújtástól számított 30 napon belül kell záradékolni, majd annak egy példányát vagy a tagsági okiratot elektronikus iratként vagy ha arra nincs lehetőség, nyomtatott formában a pénztártagnak át kell adni. A pénztár a tagot a belépési nyilatkozatban vagy a tagsági okiratban tájékoztatja arról, hogy a pénztár honlapján az alapszabály elérhető. Az alapszabályt a tag kérésére – elektronikus vagy nyomtatott formában – ki kell adni.
 
 (3) A tevékenységi engedély véglegessé válása előtt a pénztár tagdíjat nem fogadhat, az alapító tagokon kívül új tagokat nem vehet fel. Az alapító tagok tagdíjfizetési kötelezettsége és várakozási ideje a tevékenységi engedély véglegessé válását követő napon kezdődik. A pénztár a tevékenységi engedély véglegessé válásától számított 30 napon belül nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként átadja az alapító tagok részére a pénztár alapszabályát és a tagsági okiratot.
 
@@ -392,7 +392,7 @@ A pénztárszervezet és működési forma bevezetése, új intézménytípuské
 
 (3) A módosított alapszabályt – a módosítások megjelölésével – a közgyűlés időpontját követő 30 napon belül meg kell küldeni a bíróságnak és a Felügyeletnek.
 
-(4) Internetes honlappal rendelkező pénztár az alapszabályát honlapján közzéteszi.
+(4) A pénztár az alapszabályát honlapján közzéteszi.
 
 ### A nemek közötti megkülönböztetés tilalma
 
@@ -477,7 +477,7 @@ A pénztárszervezet és működési forma bevezetése, új intézménytípuské
 
 21. § (1) A pénztár legfőbb szerve a tagok összességéből álló közgyűlés, vagy a tagok által — az alapszabályban meghatározottak szerint — közvetlenül vagy közvetett úton választott testület (küldöttközgyűlés). Az alapszabály a hatásköri és eljárási szabályok rögzítése mellett részközgyűlések tartásáról is rendelkezhet.
 
-(2) A közgyűlést az éves beszámoló és a pénzügyi terv elfogadása céljából évente össze kell hívni. A közgyűlés, küldöttgyűlés – ideértve a küldöttválasztó gyűlést és részközgyűlést is – összehívásának módjáról az alapszabályban kell rendelkezni. A hirdetmény közzététele vagy a meghívó elküldése, valamint a közgyűlés időpontja között legalább 15 napnak kell eltelnie. A pénztár a meghívó elküldésével egyidejűleg az abban foglaltakat – amennyiben rendelkezik ilyen felülettel – az internetes honlapján is közzéteszi. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét. A közgyűlés (ha van: a részközgyűlés, illetve a küldöttközgyűlés) elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható.
+(2) A közgyűlést az éves beszámoló és a pénzügyi terv elfogadása céljából évente össze kell hívni. A közgyűlés, küldöttgyűlés – ideértve a küldöttválasztó gyűlést és részközgyűlést is – összehívásának módjáról az alapszabályban kell rendelkezni. A hirdetmény közzététele vagy a meghívó elküldése, valamint a közgyűlés időpontja között legalább 15 napnak kell eltelnie. A pénztár a meghívó elküldésével egyidejűleg az abban foglaltakat az internetes honlapján is közzéteszi. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét. A közgyűlés (ha van: a részközgyűlés, illetve a küldöttközgyűlés) elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható.
 
 (3) A közgyűlést a (2) bekezdésben meghatározott eseteken kívül akkor is össze kell hívni, ha azt a bíróság elrendeli, a Felügyelet, vagy az ellenőrző bizottság, illetve a pénztártagok legalább tíz százaléka — az ok és a cél megjelölésével — írásban indítványozza, illetve, ha az igazgatótanács szükségesnek látja. Az alapszabály más esetekben is előírhatja közgyűlés összehívását. A közgyűlés összehívása az igazgatótanács feladata. Amennyiben az igazgatótanács a közgyűlés összehívása iránt nem intézkedik, az indítványozók bírósághoz fordulhatnak.
 
@@ -810,11 +810,11 @@ kell helyezni.
 
 (4) A pénztár likviditási helyzetének ellenőrzése érdekében a Felügyelet a pénztárat év közben is beszámoltathatja.
 
-(5) Az internetes honlappal rendelkező pénztár köteles éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt internetes honlapján évente, a tárgyévet követő év június 30-áig közzétenni.
+(5) A pénztár az éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt internetes honlapján évente, a tárgyévet követő év június 30-áig közzéteszi.
 
 (6) A pénztár a pénztári beszámoló részét képező mérleget, eredménykimutatást, kiegészítő mellékletet a tárgyévet követő év június 30-áig a beszámoló könyvvizsgálói záradékával együtt a Felügyelet által üzemeltetett közzétételi helyen köteles közzétenni.
 
-(7) Az internetes honlappal rendelkező pénztár köteles alapszabályának, ezen belül a bevételek tartalékok közötti megosztásának változását a változtatásról hozott döntést követő 2 munkanapon belül – a változások kiemelésével – honlapján közzétenni.
+(7) A pénztár az alapszabályának, ezen belül a bevételek tartalékok közötti megosztásának változását a változtatásról hozott döntést követő 2 munkanapon belül – a változások kiemelésével – honlapján közzéteszi.
 
 (8) Az elszámolóegységekre épülő nyilvántartási rendszert működtető pénztár az elszámolóegységek árfolyamát (amennyiben választható portfóliós rendszert működtet, akkor választható portfóliónként) honlapján naponta közzéteszi. A pénztárnak honlapján jelezni kell, hogy a Felügyelet honlapján az elszámolóegységek árfolyamára vonatkozóan összehasonlító adatok találhatók. A közzététellel egyidőben a pénztárnak az elszámolóegységek árfolyamát be kell jelentenie és azt a Felügyelet a honlapján közzéteszi.
 
@@ -1713,7 +1713,7 @@ nyújthat.
 
 (6) A Felügyelet a pénztár tevékenységének korlátozásával megtilthatja a pénztár szolgáltatási körében szereplő egyes szolgáltatások nyújtását, ha valamely szolgáltatás nem felel meg a jogszabályi előírásoknak. A tevékenységet korlátozó határozatban megjelölt szolgáltatáson kívül a pénztár a többi szolgáltatását továbbra is nyújthatja.
 
-(7) A pénztár köteles a Felügyelet által a (3) bekezdés alapján vele szemben hozott határozat rendelkező részét az adott határozat közlésétől számított öt évig honlapján közzétenni. Ha a pénztár nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
+(7) A pénztár köteles a Felügyelet által a (3) bekezdés alapján vele szemben hozott határozat rendelkező részét az adott határozat közlésétől számított öt évig honlapján közzétenni.
 
 (8) A pénztár jogosult a (7) bekezdésben meghatározott határozat indokolását is közzétenni. Az indokolás közzététele során a pénztári és üzleti titokvédelmi szabályok által védett adatok közzétételét mellőzni kell, a pénztár mérlegelése alapján a saját üzleti titkai körébe tartozó adatokat közzéteheti.
 

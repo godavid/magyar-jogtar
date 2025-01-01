@@ -39,7 +39,9 @@ a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelő
 
 3. § (1) A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában a mezőgazdasági és élelmiszer-ipari termék ellenértékének kifizetése az áru átvételétől számított harminc napot nem haladhatja meg, amennyiben a helyesen kiállított számla a feldolgozó, a felvásárló, illetve a forgalmazó részére az átvételt követő tizenöt napon belül átadásra kerül. Ha a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátják rendelkezésére, a termék ellenértékét a helyesen kiállított számla kézhezvételétől számított tizenöt napon belül kell kifizetni.
 
-(2) Amennyiben az (1) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a fizetésre kötelezett köteles a termék ellenértékét a Ptk.-ban meghatározott késedelmi kamattal, de legalább a jegybanki alapkamat kétszeresével növelt kamattal megfizetni.
+(1a) Amennyiben a szerződő felek a mezőgazdasági termék szolgáltatására irányuló szerződésben folyamatos teljesítésben állapodnak meg, akkor a fizetési határidő a tárgyhónapi teljesítés tekintetében a tárgyhónapot követő 30. nap azzal, hogy a vevő a tárgyhónapot követő 5. napig a legalább tárgyhónapi teljesítés értéke 30%-ának megfelelő összeget megfizet a termék szolgáltatójának.
+
+(2) Amennyiben az (1) és (1a) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a fizetésre kötelezett köteles a termék ellenértékét a Ptk.-ban meghatározott késedelmi kamattal, de legalább a jegybanki alapkamat kétszeresével növelt kamattal megfizetni.
 
 (3) A termelő és a feldolgozó, illetve a felvásárló közötti mezőgazdasági és élelmiszer-ipari termék tulajdonjogának átruházására irányuló szerződésnek tartalmaznia kell a fizetésre kötelezett késedelmes teljesítése esetére a fizetésre kötelezettnek a pénzforgalmi szolgáltatója részére adott,
 
@@ -48,7 +50,17 @@ a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelő
 
 vonatkozó beszedési megbízás teljesítésére irányuló hozzájárulását, felhatalmazó nyilatkozatát.
 
-(4) Amennyiben a szerződő felek az adott ágazatban elismert szakmaközi szervezet által elfogadott, fizetési határidőt tartalmazó szabványos szerződésminta szerint kötnek szerződést, akkor eltérhetnek az (1) bekezdésben foglalt fizetési határidőre vonatkozó előírástól.
+(4) A szerződő felek az adott ágazatban elismert szakmaközi szervezet által elfogadott, és a miniszter által jóváhagyott – fizetési határidőt tartalmazó – mintaszerződés szerint kötött szerződésben eltérhetnek az (1) és (1a) bekezdésben foglalt fizetési határidőre vonatkozó előírástól.
+
+(5) A mezőgazdasági igazgatási szerv az ellenérték (1) vagy (1a) bekezdés szerinti határidőre történő meg nem fizetése esetén ágazatfelügyeleti bírságot szab ki.
+
+(6) Az (5) bekezdés szerinti ágazatfelügyeleti bírság mértéke a szerződés szerinti, meg nem fizetett ellenérték tíz százaléka, de legalább egymillió forint.
+
+(7) Ha a jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
+
+(8) Az (5) bekezdés szerinti közigazgatási hatósági eljárásban a termelők érdekképviseletét ellátó, adott ágazatban elismert szakmaközi szervezetet az ügyfél jogállása illeti meg.
+
+(9) A (8) bekezdés alapján fennálló eljárási jogosultság nem érinti a termelő azon jogát, hogy a jogsértővel szemben igényét érvényesítse.
 
 #### 4. Betakarítás előtti szerződési szabályok
 
@@ -105,6 +117,12 @@ kötöttek, valamint
   - bf) a szerződéstől való elállás feltételeire és
   - bg) a teljesítés vis maior miatti akadályoztatása következményeire.
 
+6/B. § (1) A 6/A. §-ban meghatározott feltételek teljesítését a mezőgazdasági igazgatási szerv ellenőrzi. A mezőgazdasági igazgatási szerv ágazatfelügyeleti bírságot szab ki, ha megállapítja, hogy a vevő vagy a szolgáltatást igénybe vevő nem teljesíti a 6/A. §-ban foglalt feltételeket.
+
+(2) Az (1) bekezdés szerinti ágazatfelügyeleti bírság legkisebb mértéke tízezer forint, legmagasabb mértéke tízmillió forint, de legfeljebb a vevő vagy a szolgáltatást igénybe vevő fél – jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért – nettó árbevételének tíz százaléka.
+
+(3) Az (1) bekezdés szerinti bírság kiszabása során a 3. § (7)–(9) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+
 #### 5. Kötelező szerződések
 
 7. § (1) A nyerstej Magyarországon történő értékesítésére irányuló szerződést – a végső fogyasztó részére történő közvetlen értékesítés kivételével – a nyerstej feldolgozásáig a Rendelet 148. cikkében meghatározott tartalommal írásba kell foglalni.
@@ -149,6 +167,58 @@ hatályba kell lépnie.
 7/B. § A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában értékesített friss, illetve gyorsan romló mezőgazdasági és élelmiszer-ipari termék vonatkozásában a felek között létrejött írásbeli szerződésben meghatározott fogyaszthatósági vagy minőség megőrzési idő leteltét követően, erre vonatkozó szerződéses rendelkezés hiányában a termék birtokba vételét követően minőségi kifogásnak nincs helye.
 
 7/C. § A Magyarország területén cukrot előállító cukorgyártó vállalkozás és a cukorrépa-termesztők érdekképviseletét ellátó szervezet minden gazdasági év december 10. napjáig megkezdi a Rendelet X. melléklete szerinti termékértékesítési szerződésről szóló tárgyalásokat. A szerződés kötelező tartalmát az e törvény felhatalmazása alapján kiadott miniszteri rendelet határozza meg.
+
+#### 5/A. Mezőgazdasági termeltetői szerződések
+
+7/D. § (1) A mezőgazdasági termeltetői szerződés (a továbbiakban: termeltetői szerződés) a termeltető és a termelő szerződéses kapcsolatának önkéntesen választható formája.
+
+(2) Termeltetői szerződésnek kell tekinteni a mezőgazdasági termelő vagy termelők csoportja és egy vagy több élelmiszer-, ital-, valamint dohánytermék gyártásával, mezőgazdasági termékek, mezőgazdasági nyersanyag, élőállat, élelmiszer, ital, valamint dohányáru nagykereskedelmével foglalkozó vállalkozás mint termeltető között létrejött
+
+- a) mezőgazdasági termékek szolgáltatására, és
+- b) az e törvény végrehajtására kiadott rendeletben rögzített, a szerződés szerinti szállítási kötelezettséggel érintett termékek termeléséhez, előállításához kapcsolódó szolgáltatások nyújtására vonatkozó
+
+kölcsönös kötelezettségekről rendelkező szerződést, amelyben a szerződő felek tevékenységeiket összehangolják.
+
+(3) Az állattenyésztés területén termeltetői szerződésnek minősülnek azok a szerződések, amelyek alapján a termelő
+
+- a) a (2) bekezdés szerinti termeltető, valamint
+- b) az állatok tenyésztését, hizlalását szolgáltatásként igénybe vevő mezőgazdasági termelő mint termeltető
+
+irányában vállalja az állatok tenyésztését, hizlalását, és egyben vállalja az állattartásra, a termelőeszközök és alapanyagok beszerzésére vagy a késztermékek felhasználására vonatkozó, a szerződésben meghatározott szabályok betartását.
+
+(4) Nem tekinthető termeltetői szerződésnek az a szerződés, amely a vevő részére a szerződésben meghatározott ár megfizetésén felül további kötelezettségeket nem tartalmaz.
+
+(5) A termeltetői szerződésben foglalt áruszállításhoz és szolgáltatás nyújtásához kapcsolódóan a termeltetői szerződésen kívül más háttér-megállapodás nem köthető.
+
+(6) A miniszter – az adott ágazatban működő elismert szakmaközi szervezet kezdeményezésére – a szakmaközi szervezet által elfogadott mintaszerződéseket hagyhat jóvá. Amely ágazatban nem működik elismert szakmaközi szervezet, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: Agrárkamara) kezdeményezheti az általa elfogadott mintaszerződés jóváhagyását.
+
+7/E. § (1) A termeltetőkről és az általuk kötött termeltetői szerződésekről a Nemzeti Kifizető Ügynökség – egyéb nyilvántartásaitól elkülönülten – nyilvántartást vezet.
+
+(2) A Nemzeti Kifizető Ügynökség – a termeltetői szerződések lejáratát követő 10 évig – nyilvántartja
+
+- a) a termeltetőnek és a termelőnek a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosítóját, amennyiben azzal rendelkezik, valamint levelezési címét, telefonos és elektronikus elérhetőségét, számlázási címét,
+- b) természetes személy termeltető és termelő természetes személyazonosító adatait, állampolgárságát, lakcímét,
+- c) gazdálkodó szervezet termeltető és termelő székhelyét, telephelyét, adószámát, cégjegyzékszámát, amennyiben azzal rendelkezik,
+- d) a termeltető és a termelő által kötött termeltetői szerződést.
+
+(3) A Nemzeti Kifizető Ügynökség a (2) bekezdésben meghatározott személyes adatokat a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvényben meghatározott ellenőrzési feladatai ellátása érdekében kezeli.
+
+(4) A Nemzeti Kifizető Ügynökség az adatszolgáltató termeltető és termelő hozzájárulása esetén a Kedvezményezetti Nyilvántartási Rendszerben rendelkezésére álló adatokat az általa vezetett egyéb nyilvántartásába átveszi.
+
+(5) A Nemzeti Kifizető Ügynökség a termeltető által szolgáltatott adatokhoz a (2) bekezdés b) pontja szerinti adatok kivételével – az e törvényben meghatározott feladatai ellátása érdekében – térítésmentes hozzáférést biztosít
+
+- a) a 8. § (2) bekezdése szerinti szervezet, valamint
+- b) a miniszter által vezetett minisztérium számára.
+
+(6) A nyilvántartásba vett termeltető minden év március 31-ig a Nemzeti Kifizető Ügynökség számára adatot szolgáltat az előző naptári évi tevékenységéről, a következő adatok és dokumentumok megküldésével:
+
+- a) a termeltető által végzett termeltetői tevékenység egyértelmű – végterméke alapján meghatározott – megnevezése,
+- b) a megnevezés alapján körülhatárolt tevékenység gazdasági eredménye,
+- c) a termeltetés keretében
+  - ca) megművelt földterület nagysága,
+  - cb) tartott állatállomány nagysága,
+- d) a termeltetésben részt vevő termelők száma összesen és végtermékek szerint megbontva,
+- e) a termeltetői szerződések másolata.
 
 #### 6. Mezőgazdasági adatbázisok
 
@@ -209,6 +279,10 @@ az e törvény végrehajtására kiadott rendeletben meghatározottak szerint k�
 #### 7. Piaci kategorizálás
 
 13. § Jogszabályban meghatározott állatokat a levágás során az Európai Unió közvetlenül alkalmazandó jogi aktusában, illetve e törvény végrehajtására kiadott rendeletben meghatározott módon és feltételek szerint minősíteni kell.
+
+#### 7/A. Mezőgazdasági termékek nagykereskedelmi tevékenységének szabályozása
+
+13/A. § Mezőgazdasági termékek nagykereskedelmét vagy feldolgozását végző vállalkozásnak nem lehet tulajdonosa vagy vezető tisztségviselője az a személy, aki korábban tulajdonosa vagy vezető tisztségviselője volt olyan vállalkozásnak, amely az annak végelszámolására vagy felszámolására irányuló eljárás megkezdésekor a vállalkozás vagyonát meghaladóan rendelkezett a mezőgazdasági termékek nagykereskedelmi tevékenység keretében vásárolt termékek tekintetében fennálló szállítói kötelezettségekkel, és akinek felelősségét e jogellenes cselekmény megvalósításában az arra hatáskörrel rendelkező szerv megállapította.
 
 ### III. Fejezet — SZAKMAKÖZI SZERVEZETEK, TERMELŐI SZERVEZETEK, TERMELŐI CSOPORTOK
 
@@ -375,6 +449,7 @@ elismeréséről.
 - m) a cukorágazatban kötelezően alkalmazandó szerződés szabályait,
 - n) a meggy, az alma és a torma feldolgozására irányuló szerződésekkel kapcsolatban szolgáltatandó, személyes adatnak nem minősülő adatokat és az adatszolgáltatási kötelezettség részletszabályait
 - o) a 6/A. § (1) bekezdése szerinti szerződések kockázatmegosztással kapcsolatos rendelkezéseire vonatkozó részletes szabályokat
+- p) a mezőgazdasági termeltetői szerződés, a termeltetői nyilvántartás és adatszolgáltatás részletes szabályait
 
 rendeletben állapítsa meg.
 

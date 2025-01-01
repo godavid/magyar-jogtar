@@ -135,6 +135,8 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (4) Gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó intézményben, óvodában, általános iskolában, hat vagy nyolc évfolyammal működő gimnáziumban és általános iskolai tanulókat, valamint hat vagy nyolc évfolyammal működő gimnáziumi tanulókat fogadó kollégiumban tilos a reklámtevékenység. E tilalom nem vonatkozik az egészséges életmódra és a környezet védelmére neveléssel összefüggő, továbbá a közéleti és kulturális tevékenység vagy esemény, valamint az oktatási tevékenység reklámjára, valamint az ilyen tevékenységet folytató, illetve ilyen eseményt szervező vagy annak megvalósulásához bármilyen formában hozzájárulást nyújtó vállalkozás nevének, védjegyének vagy egyéb megjelölésének az adott tevékenységgel, eseménnyel közvetlenül összefüggő megjelenítésére.
 
+(5) Tilos az olyan gyermek-, illetve fiatalkorúaknak szóló reklám, amely árut vagy annak használatát, igénybevételét életet, egészséget vagy testi épséget sértő vagy veszélyeztető módon mutat be.
+
 9. § (1) Tilos az olyan reklám, amely a nemiséget súlyosan szeméremsértő nyíltsággal ábrázolja, különösen amelyik nemi aktust vagy nemi szervet nyíltan ábrázol (pornográf reklám).
 
 (2) Tilos a szexuális szolgáltatás reklámja. A szexuális szolgáltatás fogalmát és reklámozásának további korlátozásait külön törvény állapítja meg.
@@ -180,10 +182,11 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (2) Tilos közzétenni alkoholtartalmú ital reklámját
 
-- a) sajtótermék első borítólapjának külső oldalán, illetve – honlap esetén – a nyitó oldalon,
-- b) színházban vagy moziban 20 óra előtt, illetve gyermek-, illetve fiatalkorúak számára készült műsorszámot közvetlenül megelőzően, annak teljes időtartama alatt és közvetlenül azt követően,
-- c) egyértelműen játék céljára szánt terméken és annak csomagolásán, és
-- d) köznevelési és egészségügyi intézményben, továbbá ilyen intézmény bejáratától légvonalban mért kétszáz méteres távolságon belül szabadtéri reklámhordozón.
+- a) sajtótermék első borítólapjának külső oldalán, illetve − honlap esetén − a nyitó oldalon,
+- b) színházban vagy moziban 20 óra előtt,
+- c) gyermek-, illetve fiatalkorúak számára készült műsorszámot közvetlenül megelőzően, annak teljes időtartama alatt és közvetlenül azt követően,
+- d) egyértelműen játék céljára szánt terméken és annak csomagolásán, vagy
+- e) köznevelési és egészségügyi intézményben, továbbá ilyen intézmény bármely bejáratától számított kétszáz méteres közúti, illetve közterületi távolságon belül szabadtéri reklámhordozón, kirakatban vagy közterületről egyébként látható helyen.
 
 19. § (1) Tilos a dohánytermék reklámja.
 
@@ -334,4 +337,4 @@ is megfelelően alkalmazni kell.
 - b) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről, az 5. cikk (2) bekezdése kivételével [a 3. § a) és p) pont, a 19. § (1) és (2) bek., (4) bek. a) és b) pont, a 20. §, a 23. § (7) bek. és a 26. § (2) bek.],
 - c) az Európai Parlament és a Tanács – a 97/36/EK és a 2007/65/EK irányelvekkel módosított – 89/552/EGK irányelve (1989. október 3.) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról, 3e. cikk (1) bekezdés e) pontja és 15. cikk [a 18. § (1) bek.].
 
-(2)
+(2) E törvény 8. § (5) bekezdése, 18. § (2) bekezdés d) pontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535. európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

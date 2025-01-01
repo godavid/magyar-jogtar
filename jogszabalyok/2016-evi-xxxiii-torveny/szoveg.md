@@ -64,10 +64,10 @@ kell alkalmazni.
 
 (2) Értékelő az lehet, aki
 
-- a) büntetlen előéletű,
+- a) büntetlen előéletű, és nem áll állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet) vagy közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt,
 - b) cselekvőképes,
 - c) alapjogviszonyban áll és
-- d) megfelel a pályázatban meghatározott feltételeknek és az előírt biztonsági követelményeknek.
+- d) megfelel a pályázatban meghatározott feltételeknek.
 
 4. § (1) A jogviszony pályázati eljárás alapján létesíthető.
 
@@ -80,19 +80,27 @@ kell alkalmazni.
 - e) mindazokat az egyéb tartalmi és formai elemeket, amelyeket jogszabály ír elő, továbbá
 - f) annak megjelölését, hogy a pályázat tartalmi értékelés vagy közbeszerzési értékelés végzésére irányul.
 
-(3) A jogviszony létesítését megelőzően a pályázó nyilatkozik arról, hogy büntetlen előéletű és nem áll foglalkozástól eltiltás hatálya alatt. Ha a pályázó, értékelő büntetlen előéletével összefüggésben kétség merül fel, a munkáltatói jogkör gyakorlója írásban, indokolással felszólíthatja, hogy a felhívástól számított tizenöt napon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvány bemutatásával igazolja, hogy büntetlen előéletű.
+(3) A jogviszony létesítését megelőzően a pályázó nyilatkozik arról, hogy megfelel a 3. § (2) bekezdés a) pontjában meghatározott feltételeknek. Ha a pályázó, értékelő e feltételeknek való megfelelésével összefüggésben kétség merül fel, a munkáltatói jogkör gyakorlója írásban, indokolással felszólíthatja, hogy a felhívástól számított tizenöt napon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvány bemutatásával igazolja, hogy megfelel a 3. § (2) bekezdés a) pontjában meghatározott feltételeknek.
 
 (3a) A pályázati eljárás során megfelelt és kiválasztott személy a jogviszony létesítésével egyidejűleg általános összeférhetetlenségi nyilatkozatot és az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közlemény (2021/C 121/01) 6.3. pontja szerinti adatokat is tartalmazó érdekeltségi nyilatkozatot tesz.
 
+(3b) Az állami projektértékelők tekintetében az államtitkár – 1. § (3) bekezdésében foglalt jogkörében eljárva – vizsgálat keretében
+
+- a) a jogviszony fennállása alatt adatot igényelhet a bűnügyi nyilvántartási rendszerből arra vonatkozóan, hogy a foglalkoztatott büntetlen előéletű és vele szemben a 3. § (2) bekezdés a) pontjában meghatározott kizáró okok nem állnak fenn,
+- b) a jogviszony létesítése előtt vagy fennállása alatt a részére benyújtott, végzettséget igazoló okiratok hitelességének ellenőrzése céljából az oktatási nyilvántartás működéséért felelős szervtől, az okiratot kiállító oktatási intézménytől adatszolgáltatást kérhet, továbbá
+- c) a jogviszony létesítése előtt vagy fennállása alatt a (3a) bekezdésében foglalt érdekeltségi nyilatkozatban szereplő alapjogviszony és azon kívüli foglalkoztatási jogviszony ellenőrzése céljából az állami adó- és vámhatóságtól adatszolgáltatást kérhet.
+
+(3c) A (3b) bekezdés alapján megismert személyes adatokat a Nemzeti Fejlesztési Központ a jogviszony létesítéséről meghozott döntés időpontjáig vagy – a jogviszony fennállása esetén – a jogviszony megszűnéséig, illetve megszüntetéséig kezeli.
+
 (4) Az államtitkár gondoskodik arról, hogy a pályázati eljárás során megfelelt és kiválasztott személyt a szakértői névsorba bejegyezzék.
 
-(5) Az értékelőre az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény és a nemzetbiztonsági szolgálatokról szóló törvény nemzetbiztonsági ellenőrzésre vonatkozó rendelkezéseit megfelelően alkalmazni kell.
+(5) Az értékelőre az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény rendelkezéseit megfelelően alkalmazni kell.
 
 (6) A pályázat tartalmával, benyújtásával és elbírálásának rendjével kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
 
 (7) A pályázói adatlaphoz mellékelni kell a pályázó alapjogviszonya fennállásáról szóló munkáltatói igazolást és a Kormány rendeletében meghatározott nyilatkozatokat.
 
-(8) Ha az értékelő nem teljesíti a keretszerződésében vállalt kötelezettségeit, különös tekintettel a vagyonnyilatkozat-tételi kötelezettségre és a nemzetbiztonsági ellenőrzésnek való alávetésre, vele új állami projektértékelői jogviszony nem létesíthető.
+(8) Ha az értékelő nem teljesíti a keretszerződésében vállalt kötelezettségeit, különös tekintettel a vagyonnyilatkozat-tételi kötelezettségre, vele új állami projektértékelői jogviszony nem létesíthető.
 
 5. § (1) Nem keletkeztet összeférhetetlenséget az értékelő alapjogviszonya.
 
@@ -226,7 +234,7 @@ kell alkalmazni.
 - b) egy naptári éven belül neki felróható okból határidőt mulasztott,
 - c) megszegte a keretszerződésben megállapított feltételeket,
 - d) vonatkozásában lefolytatott ellenőrzés során összeférhetetlenség kerül megállapításra.
-- e) vonatkozásában a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg.
+- e) vonatkozásában lefolytatott 4. § (3b) bekezdése szerinti vizsgálat eredményeképpen a munkáltató tudomására jut, hogy a 3. § (2) bekezdés a) pontja szerinti feltételeknek nem felel meg, az általa benyújtott végzettséget igazoló okiratok nem hitelesek, továbbá az érdekeltségi nyilatkozatban tett kijelentései nem felelnek meg a valóságnak, valamint az érdekeltségi nyilatkozatban foglalt bejelentési kötelezettségének nem tett eleget.
 
 (5a) Az (1) bekezdés c) pontja alapján a jogviszony nem szűnik meg, ha az értékelő alapjogviszonyának megszűnésétől számított harminc napon belül újabb alapjogviszonyt létesít. Nem szűnik meg továbbá a jogviszony az alapjogviszony nyugvása alatt sem, ha a nyugvás kezdő időpontját követő harminc napon belül az értékelő új beosztási okiratát a fogadó szerv kiállítja. Ezekben az esetekben az értékelő állami projektértékelői jogviszonya folyamatosnak tekintendő.
 
@@ -251,7 +259,7 @@ kell alkalmazni.
 
 céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó személy és az állami projektértékelő személyes adatait, a 4. § (3) és (3a) bekezdése szerinti nyilatkozatait, valamint azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(1a) A Kit. 29/B. § (1) bekezdése szerinti Belső Ellenőrzési és Integritási Igazgatóság a Kit. 29/B. § (3) bekezdés a) pontja szerinti ellenőrzés lefolytatásához kezeli a Kit. 29/B. § (3c) bekezdése szerinti adatokat az állami projektértékelők vonatkozásában.
+(1a)
 
 (2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – legfeljebb az érintett operatív programra irányadó dokumentum-megőrzési kötelezettség leteltéig kezeli.
 

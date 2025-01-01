@@ -26,15 +26,23 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 #### 6. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-7. § (1)
+7. § (1) Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A tagsági viszony, a tagdíjfizetési kötelezettség és a várakozási idő a pénztárhoz benyújtott belépési nyilatkozatnak a pénztár általi elfogadásával kezdődik. A pénztár a belépési nyilatkozat elfogadását annak záradékolásával tanúsítja. A belépési nyilatkozatot a benyújtástól számított 30 napon belül kell záradékolni, majd annak egy példányát vagy a tagsági okiratot elektronikus iratként vagy ha arra nincs lehetőség, nyomtatott formában a pénztártagnak át kell adni. A pénztár a tagot a belépési nyilatkozatban vagy a tagsági okiratban tájékoztatja arról, hogy a pénztár honlapján az alapszabály elérhető. Az alapszabályt a tag kérésére – elektronikus vagy nyomtatott formában – ki kell adni.”
 
 (2)
 
-(3)
+(3) Az Öpt. 18. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-(4)
+„(4) A pénztár az alapszabályát honlapján közzéteszi.”
 
-(5)
+(4) Az Öpt. 40. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A pénztár az éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt internetes honlapján évente, a tárgyévet követő év június 30-áig közzéteszi.”
+
+(5) Az Öpt. 40. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A pénztár az alapszabályának, ezen belül a bevételek tartalékok közötti megosztásának változását a változtatásról hozott döntést követő 2 munkanapon belül – a változások kiemelésével – honlapján közzéteszi.”
 
 (6)
 
@@ -46,11 +54,11 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 8. § Hatályát veszti az Öpt.
 
-- a)
+- a) 21. § (2) bekezdésében az „– amennyiben rendelkezik ilyen felülettel –” szövegrész,
 - b)
 - c)
 - d)
-- e)
+- e) 65. § (7) bekezdésében a „Ha a pénztár nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.” szövegrész.
 
 #### 7. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
@@ -78,9 +86,11 @@ a hazai gazdasági szereplők versenyképességének erősítésével és a köz
 
 (2)
 
-(3)
+(3) A Tny. 99/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 16. §
+„(1) A Tbj. szerinti nyilvántartásra kötelezett a biztosított, volt biztosított biztosítási jogviszonyával összefüggő, a szolgálati időről vagy a nyugellátás megállapítása során figyelembevételre kerülő keresetről, jövedelemről adatot tartalmazó, 2024. december 31-éig keletkezett munkaügyi iratokat, adatokat és foglalkoztatási igazolásokat a biztosítottra, volt biztosítottra irányadó öregségi nyugdíjkorhatár betöltését követő öt évig köteles megőrizni.”
+
+16. § A Tny. 68. §-ában a „nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal” szövegrész helyébe a „nyugdíjbiztosítási igazgatási szerv” szöveg lép.
 
 #### 12. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 

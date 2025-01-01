@@ -812,9 +812,9 @@ foglalkoztatás lehetőségéről.
 (1) A nyugdíjasnak nem minősülő köznevelési foglalkoztatotti jogviszonyban álló a 49. § (1) bekezdés a) és b) pontjában foglalt esetben, valamint ha a 49. § (1) bekezdés c) pontjában foglalt alkalmatlanság egészségügyi ok következménye, akkor menthető fel, ha
 
 - a) eredeti munkakörében nem foglalkoztatható tovább, és
-- b) a munkáltatónál nincs végzettségének, képzettségének, szakképesítésének és egészségi állapotának megfelelő munkakör, óraadóként történő foglalkoztatási lehetőség nincs, vagy az ilyen foglalkoztatásához köznevelési foglalkoztatotti jogviszonyban álló nem járul hozzá.
+- b) a munkáltatónál vagy a munkáltató fenntartója által fenntartott más, e törvény hatálya alá tartozó munkáltatónál nincs végzettségének, képzettségének, szakképesítésének és egészségi állapotának megfelelő munkakör, óraadóként történő foglalkoztatási lehetőség nincs, vagy az ilyen foglalkoztatásához köznevelési foglalkoztatotti jogviszonyban álló nem járul hozzá.
 
-(2) Az (1) bekezdés szerinti esetben a munkáltató a köznevelési foglalkoztatotti jogviszonyban állót írásban tájékoztatja a munkáltatón belül vagy a munkáltató fenntartója által fenntartott más, e törvény hatálya alá tartozó munkáltatónál az iskolai végzettségének és szakképzettségének, szakképesítésének, továbbá – egészségügyi alkalmatlanság esetén – egészségi állapotának megfelelő másik betöltetlen munkakör felajánlásának lehetőségéről. A köznevelési foglalkoztatotti jogviszonyban álló a tájékoztatás közlésétől számított két munkanapon belül írásban nyilatkozik a munkakör-felajánlási lehetőség igénybevételéről. Ha a köznevelési foglalkoztatotti jogviszonyban álló a határidő leteltéig a nyilatkozattételt elmulasztja, azt úgy kell tekinteni, mintha a munkakör-felajánlási lehetőséget nem igényelte volna.
+(2) Az (1) bekezdés szerinti esetben a munkáltató a köznevelési foglalkoztatotti jogviszonyban állót írásban tájékoztatja a munkáltatón belül vagy a munkáltató fenntartója által fenntartott más, e törvény hatálya alá tartozó munkáltatónál az iskolai végzettségének és szakképzettségének, szakképesítésének, továbbá – egészségügyi alkalmatlanság esetén – egészségi állapotának megfelelő másik betöltetlen munkakör, illetve óraadói megbízás felajánlásának lehetőségéről. A köznevelési foglalkoztatotti jogviszonyban álló a tájékoztatás közlésétől számított két munkanapon belül írásban nyilatkozik a felajánlott lehetőség igénybevételéről, ideértve, ha lehetőség van rá, a munkavégzés két típusa közötti választást is. Ha a köznevelési foglalkoztatotti jogviszonyban álló a határidő leteltéig a nyilatkozattételt elmulasztja, azt úgy kell tekinteni, mintha a felajánlott lehetőséget nem igényelte volna.
 
 (3) A munkakör-felajánlással kapcsolatos eljárást e törvény felhatalmazása alapján kiadott kormányrendelet határozza meg.
 
@@ -1177,6 +1177,7 @@ kell tekinteni.
 - 16. megőrizze a köznevelési foglalkoztatotti jogviszonya során tudomására jutó titkot,
 - 17. hivatásához méltó, az Etikai Kódex szerinti magatartást tanúsítson,
 - 18. a gyermek, tanuló érdekében működjön együtt munkatársaival és más intézményekkel.
+- 19. a nevelő-oktató munka során az ismeretek átadását a tankönyvjegyzéken szereplő tankönyvek, továbbá az Alaptörvényben, valamint a Nemzeti Alaptantervben szereplő érvényes értékeknek megfelelő tansegédletek használatával közvetítse.
 
 (2) A nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott az (1) bekezdés 1., 4., 5., 7., 8., 13–18. pontjaiban foglalt feladatokat köteles ellátni.
 
@@ -1337,7 +1338,7 @@ gyakorolja.
 
 (2) A vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult köznevelési foglalkoztatotti jogviszonyban álló munkakörével, vezető megbízásával összeférhetetlen a munkáltatóval rendszeres gazdasági kapcsolatban álló gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság, egyéni vállalkozói minőség.
 
-(3) Nem lehet a köznevelési intézmény igazgatója a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köznevelési foglalkoztatotti jogviszonyban álló személy. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magán fenntartású köznevelési intézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló testület tagjaira.
+(3) Nem lehet a köznevelési intézmény igazgatója a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köznevelési foglalkoztatotti jogviszonyban, vagy a köznevelési intézmény fenntartójánál kormányzati szolgálati jogviszonyban álló személy. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magán fenntartású köznevelési intézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló testület tagjaira.
 
 (4) A munkáltató a köznevelési foglalkoztatotti jogviszonyban állóval munkaköri feladatai ellátására munkavégzésre irányuló további jogviszonyt nem létesíthet, kivéve, ha azonos tankerületi központ által fenntartott másik köznevelési intézményben történő foglalkoztatásra vendégtanárként óraadói megbízás alapján kerül sor.
 
@@ -1361,7 +1362,7 @@ gyakorolja.
 
 (2) A nevelési-oktatási intézmény igazgatója felel
 
-- a) a pedagógiai munkáért,
+- a) a pedagógiai munkáért, valamint a nevelő-oktató munka során a tankönyvjegyzéken szereplő tankönyvek, továbbá az Alaptörvényben, valamint a Nemzeti Alaptantervben szereplő érvényes értékeknek megfelelő tansegédletek használatáért,
 - b) a nevelőtestület vezetéséért,
 - c) a nevelőtestület jogkörébe tartozó döntések előkészítéséért, végrehajtásuk szakszerű megszervezéséért és ellenőrzéséért,
 - d) önálló költségvetéssel rendelkező intézmény esetében a rendelkezésre álló költségvetés alapján a nevelési-oktatási intézmény működéséhez szükséges személyi és tárgyi feltételek biztosításáért,
@@ -1443,7 +1444,7 @@ rendelhetők el.
 (4) Az (1) bekezdésben foglaltaktól eltérően a nevelési-oktatási intézmény, a pedagógiai szakszolgálat vezetőjének és helyettesének, továbbá vezető megbízással rendelkező pedagógusának munkaideje
 
 - a) neveléssel-oktatással lekötött munkaidőre és
-- b) a vezetői feladatok ellátására szolgáló időre
+- b) a vezetői és pedagógus munkakörébe tartozó egyéb feladatok ellátására szolgáló időre
 
 oszlik, melynek mértékét a 2. melléklet határozza meg. Vezetői megbízással rendelkező pedagógus heti neveléssel-oktatással lekötött munkaidejétől a fenntartó döntése alapján lefelé el lehet térni.
 
@@ -1509,11 +1510,11 @@ rendelhetők el.
 (2) A többlettanítás oka lehet:
 
 - a) eseti helyettesítés, ha a betöltött munkakör feladatainak ellátása betegség, baleset vagy egyéb ok miatt váratlanul lehetetlenné vált,
-- b) tartós helyettesítés, ha a munkakör nincs betöltve, a pályázati vagy álláshirdetési eljárás idejére, vagy sikertelen pályázati vagy álláshirdetési eljárás esetén.
+- b) tartós helyettesítés, ha a munkakör nincs betöltve, a pályázati vagy álláshirdetési eljárás idejére, vagy sikertelen pályázati vagy álláshirdetési eljárás esetén, továbbá ha az eseti helyettesítés időtartama a (3) bekezdés szerinti két hetet meghaladja.
 
 (3) Eseti helyettesítés egy nevelési, tanítási évben több alkalommal is elrendelhető, egybefüggő két hét eseti helyettesítést követően azonban az ugyanazon munkakört érintő helyettesítési feladatok csak tartós helyettesítéssel láthatók el. A foglalkoztatott egy tanévben, nevelési évben teljes munkaidő esetén legfeljebb hatvan órában, részmunkaidő esetén ennek időarányos részéig végezhet eseti helyettesítést.
 
-(4) Ha a feladatellátás más munkaszervezési eszközökkel nem oldható meg, a pedagógus számára a munkáltató a munkakörére irányadó neveléssel-oktatással lekötött munkaidő mértékéig bármely okból, annak legfeljebb száztíz százalékáig kizárólag eseti helyettesítésre egyoldalúan rendelhet el többlettanítást.
+(4) Ha a feladatellátás más munkaszervezési eszközökkel nem oldható meg, a pedagógus számára a munkáltató a munkakörére irányadó neveléssel-oktatással lekötött munkaidő legfeljebb száztíz százalékáig kizárólag eseti helyettesítésre egyoldalúan rendelhet el többlettanítást.
 
 (5) Az eseti helyettesítés óraszáma az egyes tanítási hetek között havi szinten átcsoportosítható.
 
@@ -1523,12 +1524,11 @@ rendelhetők el.
 
 #### 83. § [Rendkívüli munkavégzés]
 
-(1) A kötött munkaidőben foglalkoztatott számára a munkáltató rendkívüli munkaidőben történő munkavégzést rendelhet el. Rendkívüli munkaidő
+(1) A kötött munkarendben foglalkoztatott számára a munkáltató rendkívüli munkaidőben történő munkavégzést rendelhet el. Rendkívüli munkaidő
 
-- a) a munkáltató által előírt munkaidő-beosztástól eltérő,
-- b) a munkaidőkereten felüli,
-- c) az elszámolási időszak alkalmazása esetén az ennek alapjául szolgáló heti munkaidőt meghaladó munkaidő, továbbá
-- d) az ügyelet tartama.
+- a) a munkáltató által előírt munkaidő-beosztástól eltérő munkaidő,
+- b) a munkaidőkereten felüli munkaidő, továbbá
+- c) az ügyelet tartama.
 
 (2) Naptári évenként kétszázötven óra rendkívüli munkaidő rendelhető el. Ennek időarányos részét lehet elrendelni, ha a köznevelési foglalkoztatotti jogviszony
 
@@ -1713,7 +1713,7 @@ munkanap pótszabadság jár.
 
 #### 91. § [A szabadság kiadása]
 
-(1) A szabadságot természetben kell kiadni. Ettől eltérően, a köznevelési foglalkoztatotti jogviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt – az apasági szabadság és a szülői szabadság kivételével – meg kell váltani.
+(1) A szabadságot természetben kell kiadni. Ettől eltérően, a köznevelési foglalkoztatotti jogviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt – az áthelyezés esetét, az apasági szabadság és a szülői szabadság kivételével – meg kell váltani.
 
 (2) A szabadságot – a köznevelési foglalkoztatotti jogviszonyban álló előzetes meghallgatása után – a munkáltató az iskolai szünetben, óvodában július 1-jétől augusztus 31-éig tartó időszakban adja ki.
 
@@ -1723,7 +1723,7 @@ munkanap pótszabadság jár.
 
 (5) A (4) bekezdésben foglaltaktól eltérően
 
-- a) az apasági szabadságot legkésőbb a gyermek születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig a köznevelési foglalkoztatotti jogviszonyban álló kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni,
+- a) az apasági szabadságot legkésőbb a gyermek születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig a köznevelési foglalkoztatotti jogviszonyban álló kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni,
 - b) szülői szabadságot a köznevelési foglalkoztatotti jogviszonyban álló gyermeke hároméves koráig terjedő időszakban, kérésének megfelelő időpontban kell kiadni.
 - c) a 90. § (11)–(12) bekezdése szerinti pótszabadságot a köznevelési foglalkoztatotti jogviszonyban álló – legalább tizenöt nappal a szabadság kezdete előtt közölt – kérésének megfelelő időpontban kell kiadni.
 
@@ -1894,10 +1894,7 @@ a havi illetményének pótlék és egyes köznevelési feladatokért járó meg
 
 (6) A havi illetményt száz forintra kerekítve kell megállapítani.
 
-(7) Havi illetmény esetén az egy órára járó illetmény meghatározása során a havi illetmény összegét osztani kell
-
-- a) általános teljes napi munkaidő esetén: százhetvennégy órával,
-- b) általánostól eltérő teljes napi vagy részmunkaidő esetén: százhetvennégy óra időarányos részével.
+(7) Havi illetmény esetén az egy órára járó illetmény meghatározása során a havi illetmény összegét osztani kell a hónapban irányadó általános munkarend szerinti óraszámmal, általánostól eltérő teljes napi vagy részmunkaidő esetén annak időarányos részével.
 
 (8) Az egyházi és magán fenntartású köznevelési intézmény – a (2) bekezdésben foglaltaktól eltérően – a pedagógus havi illetményét az adott illetménysáv felső határánál magasabb összegben is megállapíthatja.
 
@@ -2025,7 +2022,7 @@ a kifizetés esedékességekor érvényes, pótlék és megbízási díj nélkü
 
 (4) Ha a köznevelési foglalkoztatotti jogviszonyban álló köznevelési foglalkoztatotti jogviszonya
 
-- a) áthelyezés vagy elbocsátás esete kivételével megszűnik és legkésőbb a megszűnés időpontjában nyugdíjasnak minősül, vagy
+- a) áthelyezés, rendkívüli felmentés vagy elbocsátás esete kivételével megszűnik és legkésőbb a megszűnés időpontjában nyugdíjasnak minősül, vagy
 - b) felmentésére nyugdíjjogosultság megszerzésének indokával kerül sor
 
 és legalább harmincöt évi szakmai gyakorlattal rendelkezik, a negyven évhez kötődő köznevelési foglalkoztatotti jutalmat részére a köznevelési foglalkoztatotti jogviszony megszűnésekor ki kell fizetni.
@@ -2034,7 +2031,7 @@ a kifizetés esedékességekor érvényes, pótlék és megbízási díj nélkü
 
 (6) A szakmai gyakorlatot a Kormány rendeletében állapítja meg. A szakmai gyakorlati időbe bele kell számítani
 
-- a) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban,
+- a) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban,
 - b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban,
 - c) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) hatálya alá tartozó szervnél munkaviszonyban, közszolgálati jogviszonyban,
 - d) a Kttv., valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél munkaviszonyban, közszolgálati, kormányzati szolgálati, kormánytisztviselői jogviszonyban,
@@ -2047,12 +2044,15 @@ a kifizetés esedékességekor érvényes, pótlék és megbízási díj nélkü
 - k) a Kit. hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
 - l) a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vagy szerződéses szolgálati viszonyban,
 - m) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
+- n) egészségügyi szolgálati jogviszonyban
 
 töltött időt.
 
 (7) A szakmai gyakorlat munkavégzési kötelezettséggel nem járó szünetelésének időszaka – kormányrendeletben meghatározottak alapján – köznevelési foglalkoztatotti jutalomra jogosító időnek tekintendő.
 
 (8) A közalkalmazotti jogviszonyban töltött időként és szakmai gyakorlatként is figyelembe vehető időszak csak egyszer számítható be.
+
+(9) Ha a köznevelési foglalkoztatotti jogviszony megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
 #### 106. § [Kifizetés munkavégzés hiányában]
 
@@ -2067,6 +2067,9 @@ töltött időt.
 - g) bíróság vagy hatóság felhívására, vagy az eljárásban tanúként való személyes részvételhez szükséges időtartamra,
 - h) ha a munkáltató foglalkoztatási kötelezettségének – az elháríthatatlan külső ok esetét kivéve – a beosztás szerinti munkaidőben nem tesz eleget (állásidő),
 - i) a munkáltatói utasítás megtagadása esetén előírt rendelkezésre állási kötelezettség teljesítésének ideje alatt.
+- j) a felmentési idő alatt a munkavégzés alóli mentesítés időtartamára,
+- k) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – járó munkavégzés alóli mentesülés időtartamára,
+- l) minden olyan időre, amelyre az 5. § szerinti köznevelési foglalkoztatotti jogviszonyra vonatkozó szabály rendelkezésre állás vagy munkavégzés hiányában, annak mértéke meghatározása nélkül díjazás fizetését írja elő.
 
 (2) A betegszabadság tartamára, ideértve a munkaszüneti napon fennálló keresőképtelenséget is, a távolléti díj hetven százaléka jár. Nem illeti meg a betegszabadság idejére díjazás, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül, vagy egyébként munkaköre ellátására egészségi okból alkalmatlan.
 
@@ -2083,7 +2086,7 @@ illeti meg.
 
 (6) A távolléti díjat
 
-- a) az esedékessége időpontjában érvényes, a 98. § alapján megállapított havi illetmény, tartós pótlék, ügyeleti, készenléti átalánydíj, egyes köznevelési feladatokért járó megbízási díj, ösztönzési keresetkiegészítés,
+- a) az esedékessége időpontjában érvényes, a 98. § alapján megállapított havi illetmény, tartós pótlék, egyes köznevelési feladatokért járó megbízási díj, ösztönzési keresetkiegészítés,
 - b) az esedékesség időpontját megelőző utolsó hat hónapra (a továbbiakban: irányadó időszak) kifizetett eseti pótlék, többlettanítási óradíj, készenléti és ügyeleti díj
 
 figyelembevételével kell megállapítani.
@@ -2094,7 +2097,7 @@ figyelembevételével kell megállapítani.
 - b) a végkielégítés tekintetében a munkáltatói felmentés közlésének vagy a köznevelési foglalkoztatotti jogviszony munkáltató jogutód nélküli megszűnése miatti megszűnésének időpontja,
 - c) kártérítési felelősség megállapítása esetén a kár bekövetkezésének időpontja, ha a köznevelési foglalkoztatotti jogviszony ezt megelőzően megszűnt, a megszűnés időpontja.
 
-(8) A (6) bekezdés a) pontjában meghatározott díjazást az esedékesség időpontja szerinti összegben, ha pedig a távollét tartama során annak összege módosul, a távollét módosítást követő tartamára a módosított összegben kell figyelembe venni. A (6) bekezdés a) pontjában meghatározott díjazás meghatározott időszakra járó részének számításánál a díjazásnak az így egy hónapra megállapított összegét osztani kell 174-gyel és szorozni kell a meghatározott időszakra eső általános munkarend szerinti teljesítendő órák számával.
+(8) A (6) bekezdés a) pontjában meghatározott díjazást az esedékesség időpontja szerinti összegben, ha pedig a távollét tartama során annak összege módosul, a távollét módosítást követő tartamára a módosított összegben kell figyelembe venni.
 
 (9) A (6) bekezdés b) pontjában meghatározott díjazás vonatkozásában
 
@@ -2102,7 +2105,7 @@ figyelembevételével kell megállapítani.
 - b) az éjszakai bérpótlékot a távolléti díj kiszámításánál akkor kell figyelembe venni, ha a köznevelési foglalkoztatotti jogviszonyban álló az irányadó időszakban legalább a beosztás szerinti munkaideje harminc százalékának megfelelő tartamban éjszakai bérpótlékra jogosító időszakban végzett munkát,
 - c) a rendkívüli munkavégzés pótlékát és a többlettanítási óradíjat minden esetben figyelembe kell venni.
 
-(10) A (6) bekezdés b) pontjában meghatározott díjazást az egy órára járó távolléti díj kiszámításánál úgy kell figyelembe venni, hogy az irányadó időszakra kifizetett díjazás összegét osztani kell az irányadó időszakban, a beosztás szerinti munkaidőben teljesített órák számával (osztószám).
+(10) A (6) bekezdésben meghatározott díjazást az egy órára járó távolléti díj kiszámításánál úgy kell figyelembe venni, hogy az irányadó időszakra kifizetett díjazás összegét osztani kell az irányadó időszakban, a beosztás szerinti munkaidőben teljesített órák számával (osztószám).
 
 (11) A távolléti díj megállapításakor a (6) bekezdés a) és b) pontja szerinti összegeket együttesen kell figyelembe venni.
 
@@ -2486,7 +2489,7 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 
 (5) Költségvetési intézmény által foglalkoztatott köznevelési dolgozó munkaviszonyára alkalmazni kell a Mt. köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó szabályait.
 
-(6) A köznevelésben foglalkoztatott köznevelési dolgozóra nem alkalmazható az Mt. 71–76. §-a.
+(6) A köznevelésben foglalkoztatott köznevelési dolgozóra nem alkalmazható az Mt. 36–40. § és 71–76. §-a.
 
 (7) A köznevelési dolgozó részére járó végkielégítés összegének, szabadságának, jubileumi jutalmának és a felmentési idejének megállapítására a Kjt. 2023. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
@@ -2525,7 +2528,7 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 
 - a) nevét,
 - b) születési helyét, idejét,
-- c) nemét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat megnevezését, számát,
+- c) nemét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat, a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány megnevezését, számát,
 - d) lakóhelyét, tartózkodási helyét,
 - e) végzettségével, szakképzettségével kapcsolatos adatokat,
 - f) oktatási azonosító számát

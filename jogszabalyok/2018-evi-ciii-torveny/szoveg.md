@@ -292,7 +292,7 @@ is alkalmazni kell.
 
 22/A. § (1) Ha a Kormány a Lebonyolító feladataira másik, állami tulajdonban lévő gazdasági társaságot jelöl ki, a korábbi, lebonyolítói feladatokat ellátó gazdasági társaságot a kijelölésről szóló kormányrendelet kihirdetését követő harmadik hónap utolsó napjával a cégbíróság a tulajdonosi joggyakorló kérelmére törli a cégjegyzékből.
 
-(2) Az (1) bekezdés szerinti esetben a korábbi, lebonyolítói feladatokat ellátó gazdasági társaság jogai, kötelezettségei, valamint az e törvényben, és a végrehajtására kiadott kormányrendeletben előírt lebonyolítói feladatai a megszűnésének időpontjától a Kormány által, az (1) bekezdés szerint kijelölt lebonyolító szervezetre szállnak. A jogok és kötelezettségek átszállása nem minősül a jogviszonyok módosításának, a korábbi, lebonyolítói feladatokat ellátó gazdasági társaság munkavállalóinak az (1) bekezdés szerint kijelölt lebonyolító szervezetnél történő továbbfoglalkoztatása munkáltatói jogutódlásnak minősül.
+(2) Az (1) bekezdés szerinti esetben a korábbi, lebonyolítói feladatokat ellátó gazdasági társaság jogai, kötelezettségei, valamint az e törvényben, és a végrehajtására kiadott kormányrendeletben előírt lebonyolítói feladatai a megszűnésének időpontjától a Kormány által, az (1) bekezdés szerint kijelölt lebonyolító szervezetre szállnak. A jogok és kötelezettségek átszállása nem minősül a jogviszonyok módosításának.
 
 22/B. § A 2022. január 1-jén folyamatban lévő ügyekben az e törvénynek az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény 9. §-a hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 

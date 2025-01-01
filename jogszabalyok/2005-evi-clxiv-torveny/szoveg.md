@@ -60,6 +60,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 39. magánszálláshely: az a nem kizárólag szálláshely-szolgáltatás folytatása céljából, magánszemély vagy egyéni vállalkozó által hasznosított lakás, üdülő vagy emberi tartózkodásra alkalmas gazdasági épület, illetve azok egy lehatárolt részének és hozzátartozó területének hasznosítása, ahol a szobák száma legfeljebb nyolc darab, és az ágyak száma legfeljebb tizenhat darab,
 - 40. egyéb szálláshely: nem kizárólag szálláshely-szolgáltatás folytatása céljából létesített épületben, de szálláshely-szolgáltatási céllal és nem magánszemély vagy nem egyéni vállalkozó által hasznosított, önálló rendeltetési egységet képező épületrész, ahol az egy szobában található ágyak külön-külön is hasznosításra kerülhetnek, illetve a szobák száma legfeljebb huszonöt, és az ágyak száma legfeljebb száz.
 - 41. szálláshely-minősítés: a szálláshelyek számára előírt minőségi követelményeknek való megfelelés vizsgálata és annak alapján a szálláshelyek minőségi fokozatokba sorolása a szálláshely-minősítő szervezet által.
+- 42. borravaló: a vendéglátás szolgáltatással való elégedettség kifejezéseként a fogyasztó által önkéntesen juttatott pénzösszeg.
 
 ### A kereskedelmi tevékenységek folytatásának általános feltételei
 
@@ -141,6 +142,14 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 5/E. § A jogszabályban meghatározott utazási csomagot tilos a fogyasztó részére részekre bontva értékesíteni.
 
 5/F. § A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet 1. §-a szerinti kereskedő köteles biztosítani a fogyasztó számára az elektronikus fizetés lehetőségét és annak folyamatos rendelkezésre állását.
+
+5/G. § (1) A vendéglátás tevékenységet folytató kereskedő által kiállított számla adóval növelt végösszegén felül a fogyasztó által fizetett többletösszeg borravalónak minősül.
+
+(2) A felszolgálónak közvetlenül juttatott borravaló kivételével a kereskedő köteles napi szintű nyilvántartást vezetni a hozzá beérkezett borravalóról.
+
+(3) Az (1) bekezdés szerinti borravalót legalább havonta kell a vendéglátó üzlet munkavállalóinak kifizetni. A munkavállalóknak történő kifizetést a kereskedő által vezetett nyilvántartásban rögzíteni kell.
+
+(4) A borravaló munkavállalók közötti felosztásának szabályairól, arányáról az üzemeltetőnek – ha a munkahelyen munkavállalói érdekképviseleti szervezet működik – az érdekképviseleti szervezettel kell írásban megállapodnia. Ha a munkahelyen munkavállalói érdekképviseleti szervezet nem működik, a borravaló felosztásának arányáról az üzemeltetőnek a munkavállalókkal kell írásban megállapodnia.
 
 ### Az üzletek üzemeltetésének és nyitva tartásának rendje
 
@@ -410,6 +419,12 @@ kell érteni.
 11/G. § (1) A 6/G. § a)–c) pontja szerinti nyilvántartások adattartalmát képező adatokat a kereskedelmi hatóság 2020. december 31-ig az önkormányzati ASP rendszeren keresztül közvetlen adatkapcsolat útján továbbítja az Országos Kereskedelmi Nyilvántartási Rendszer részére.
 
 (2) Az (1) bekezdés szerinti közvetlen adatkapcsolat útján történő adattovábbítást akadályozó körülmény fennállása esetén a kereskedelmi hatóság az adatok továbbítását az önkormányzati ASP rendszer ipar- és kereskedelmi szakrendszerének üzemeltetési és rendszertámogatási feladatait ellátó szerv közreműködésével is teljesítheti.
+
+11/H. § (1) Új magánszálláshely és új egyéb szálláshely 2026. december 31. napjáig a kereskedelmi hatóság által nem vehető nyilvántartásba Budapest főváros közigazgatási területén.
+
+(2) A (1) bekezdés rendelkezéseit nem kell alkalmazni, ha 2024. december 31. napjáig a szálláshely-minősítő szervezethez a szálláshely-minősítési eljárás iránti igény benyújtásra került. A szálláshely-minősítési eljárás iránti igény akkor minősül benyújtottnak, ha a szolgáltató a szálláshely-minősítő szervezet elektronikus felületén az önértékelését befejezte.
+
+(3) A 2024. december 31. napjáig nyilvántartásba vett magánszálláshely és egyéb szálláshely esetében a szálláshely-szolgáltató személyében bekövetkezett változás 2026. december 31. napjáig a kereskedelmi hatóság által nem vehető nyilvántartásba Budapest főváros közigazgatási területén.
 
 12. § (1) Felhatalmazást kap a Kormány, hogy
 

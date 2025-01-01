@@ -135,6 +135,7 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 - d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató),
 - e) a Nemzeti Fejlesztési Központon belül működő főigazgatóságot vezető főigazgató, és
 - f) a Belső Ellenőrzési és Integritási Igazgatóság vezetője.
+- g) a 13/C. § (1) bekezdése szerinti igazgató.
 
 (8) Szakmai vezető:
 
@@ -287,9 +288,17 @@ segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (6) A nemzetbiztonsági főtanácsadói kabinetben és az (5) bekezdés szerinti titkárságon szolgálatot teljesítő politikai főtanácsadó, politikai tanácsadó, kormánytisztviselő, munkavállaló és szakmai vezető felett a munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója gyakorolja. A Nemzetbiztonsági Irodán szolgálatot teljesítő politikai főtanácsadó, politikai tanácsadó, kormánytisztviselő, munkavállaló és szakmai vezető felett az alapvető munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója, az egyéb munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója által kijelölt személy gyakorolja.
 
-(7) A nemzetbiztonsági főtanácsadói kabinetet vezető kabinetfőnök felett a munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója gyakorolja.
+(7) A nemzetbiztonsági főtanácsadói kabinetet vezető kabinetfőnök, valamint a 13/C. § (1) bekezdése szerinti igazgató felett a munkáltatói jogokat a miniszterelnök nemzetbiztonsági főtanácsadója gyakorolja.
 
 (8) A miniszterelnök nemzetbiztonsági főtanácsadója e tisztsége betöltése során, illetve annak megszűnését követően a miniszterelnök politikai igazgatójára vonatkozó szabályok szerint nevezhető ki, illetve nem választható meg törvényben meghatározott tisztségre.
+
+13/C. § (1) A miniszterelnök nemzetbiztonsági főtanácsadója a feladat- és hatáskörébe tartozó feladatok ellátására igazgatókat nevezhet ki (a továbbiakban e § alkalmazásában: igazgató). Az igazgató tevékenységét a miniszterelnök nemzetbiztonsági főtanácsadója irányítja.
+
+(2) Az igazgató ellátja mindazon feladatokat, amelyeket a miniszterelnök nemzetbiztonsági főtanácsadója meghatároz, valamint amelyeket a 13/B. § (4) bekezdése szerinti minisztérium szervezeti és működési szabályzata megállapít számára.
+
+(3) Az igazgató illetményét a miniszterelnök nemzetbiztonsági főtanácsadója állapítja meg azzal, hogy az illetmény összege a helyettes államtitkári illetménysávnak megfelelően állapítható meg. Az igazgató helyettes államtitkári juttatásokra jogosult.
+
+(4) Az igazgató kormányzati szolgálati jogviszonyára – az e §-ban foglalt eltérésekkel – a főosztályvezetőre vonatkozó szabályokat kell alkalmazni.
 
 #### 14. § [A miniszterelnöki biztos]
 
@@ -794,6 +803,16 @@ meghatározott kizáró okok nem állnak fenn,
 (1) A központi hivatal törvény vagy kormányrendelet által létrehozott, miniszter irányítása alatt álló különös hatáskörű központi kormányzati igazgatási szerv.
 
 (2) Törvény vagy kormányrendelet a központi hivatal irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben – a hatékonysági és a pénzügyi ellenőrzés kivételével – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), e) és f)–h) pontjában meghatározott egyes hatásköröket vagy ezek együttesét valamely központi kormányzati igazgatási szerv vezetője vagy kormánybiztos gyakorolja.
+
+(2a) A Kormány rendelkezhet úgy, hogy a központi hivatal vezetőjének feladat- és hatáskörét a központi hivatalt irányító miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár gyakorolja.
+
+(2b) A (2a) szerinti esetben az államtitkárt a (2a) bekezdése szerinti feladatkörében – a 24. § (2) bekezdésben foglaltaktól eltérően – a központi hivatalt létrehozó kormányrendeletben meghatározott vezető helyettesíti.
+
+(2c) A (2a) bekezdés szerinti esetben
+
+- a) a (2a) bekezdés szerinti államtitkár a központi hivatal vezetőjének feladat- és hatásköre gyakorlásával összefüggésben nem jogosult illetményre és kormányrendeletben meghatározott juttatásokra,
+- b) a központi hivatal vezetője kinevezésével, kormányzati szolgálati jogviszonyával összefüggő szabályokat nem kell alkalmazni és
+- c) nem létesíthető vagy tartható fenn kormányzati szolgálati jogviszony a központi hivatal vezetője feladatainak az ellátására.
 
 (3) A központi hivatal szervezeti és működési szabályzatát a központi hivatalt irányító miniszter normatív utasításban adja ki.
 
@@ -3287,9 +3306,9 @@ munkanap pótszabadság igénybevételére jogosult.
 
 (3) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizennyolcadik életévét betölti.
 
-(4) Az apa gyermeke születése esetén, legkésőbb a születést követő második hónap végéig nyolc, ikergyermekek születése esetén tíz munkanap pótszabadság igénybevételére jogosult, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+(4) Az apa gyermeke születése esetén, legkésőbb a születést követő negyedik hónap végéig nyolc, ikergyermekek születése esetén tíz munkanap pótszabadság igénybevételére jogosult, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
 
-(4a) Az apa a gyermek örökbefogadása esetén, legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig nyolc, ikergyermekek örökbefogadása esetén tíz munkanap pótszabadság igénybevételére jogosult.
+(4a) Az apa a gyermek örökbefogadása esetén, legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig nyolc, ikergyermekek örökbefogadása esetén tíz munkanap pótszabadság igénybevételére jogosult.
 
 (5) A nagyszülő unokája születése esetén öt munkanap pótszabadságot vehet igénybe legkésőbb a születést követő második hónap végéig, amelyet kérésének megfelelő időpontban kell kiadni.
 
@@ -5305,7 +5324,7 @@ illetménynek megfelelő összeg.
 - 8. a kormánytisztviselők részére e törvény alapján biztosítható visszatérítendő és vissza nem térítendő juttatásokat, támogatásokat és kedvezményeket, továbbá azok – ideértve a XX. Fejezet szerinti juttatások és kedvezmények – mértékét és feltételeit, a juttatásokkal, támogatásokkal és kedvezményekkel kapcsolatos elbírálás és elszámolás rendjét, a cafetéria-juttatásra vonatkozó nyilatkozat megtételének és módosításának szabályait, valamint a visszafizetés szabályait;
 - 9. a közszolgálati szabályzat tartalmára vonatkozó szabályokat;
 - 10. a kiválasztásra, a toborzási adatbázisra, továbbá az önéletrajz tartalmi elemeire vonatkozó részletes szabályokat;
-- 11. pártfogó felügyelői feladatokat ellátó kormánytisztviselőinek belépési igazolványához szükséges adatok körét;
+- 11.
 - 12. belföldi kiküldetésen lévő kormánytisztviselő többletköltségei fedezetére és a napidíjára vonatkozó részletes szabályokat;
 - 13. a kormánytisztviselő ideiglenes – három hónapot meg nem haladó – külföldi kiküldetésére vonatkozó részletes szabályokat;
 - 14. az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban, illetve a nemzetközi szervezeteknél foglalkoztatott szakértőként résztvevő kormánytisztviselő kormányzati szolgálati jogviszonyára és köztisztviselő közszolgálati jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat;
@@ -5360,6 +5379,8 @@ illetménynek megfelelő összeg.
 (14) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 296. § (8) bekezdése szerinti jövedelem számításának módját.
 
 (15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és vármegyei kormányhivatal helyett eljáró másik fővárosi és vármegyei kormányhivatalt.
+
+(16) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványa kiadására vonatkozó részletes szabályokat.
 
 #### 282. § [Hatálybalépés]
 

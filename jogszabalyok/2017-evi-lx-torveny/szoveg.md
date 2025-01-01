@@ -511,7 +511,7 @@ illetve az eljárási szabályzatuk szerint megalakított választottbírósági
 
 (3) Az alelnöki tisztséget a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara által delegált tag tölti be. Az alelnöki tisztségben a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara által delegált tagok – ebben a sorrendben – évente váltják egymást.
 
-(4) Az elnökség tagja olyan személy lehet, aki jogász munkakörben eltöltött, legalább 10 év szakmai gyakorlattal rendelkezik, valamint a jogi szakvizsgát, vagy a hazai joga szerint annak megfelelő szakvizsgát letette, és jelentős tapasztalattal rendelkezik a választottbíráskodásra vonatkozó szabályok alkalmazásával kapcsolatban.
+(4) Az elnökség tagja olyan személy lehet, aki jogász munkakörben eltöltött, legalább 10 év szakmai gyakorlattal rendelkezik, valamint a jogi szakvizsgát, vagy a hazai joga szerint annak megfelelő szakvizsgát letette, és gyakorlati tapasztalattal rendelkezik választottbíráskodásra vagy egyéb mediáción alapuló eljárásra vonatkozó szabályok alkalmazásával kapcsolatban. A Magyar Kereskedelmi és Iparkamara elnöke visszautasítja annak a személynek az elnökségbe delegálását, aki nem felel meg az elnökségbe delegálhatóság e törvényben meghatározott feltételeinek.
 
 (5) Az elnökségi tagok megbízatása három évre szól, és egyszer delegálhatók újra.
 
@@ -546,7 +546,7 @@ illetve az eljárási szabályzatuk szerint megalakított választottbírósági
 
 (3) Az elnökség tagja havi tiszteletdíjra jogosult, amelynek mértékéről és a megfizetésével összefüggésben felmerülő terhek viseléséről az elnökségbe tagot delegáló jogi személyek állapodnak meg.
 
-(4) A 61. § (4) bekezdése szerinti jelentős tapasztalattal az a személy rendelkezik, akinek a neve legalább öt éve fel van tüntetve valamely belföldi vagy külföldi állandó választottbíróság választottbírói listáján (névjegyzékén), vagy legalább öt éve rendszeresen jogi képviseletet lát el választottbírósági ügyekben. A Magyar Kereskedelmi és Iparkamara elnöke visszautasítja annak a személynek az elnökségbe delegálását, aki nem felel meg az elnökségbe delegálhatóság e törvényben meghatározott feltételeinek.
+(4)
 
 (5) Ha a felek által meg nem térítendő díjak és költségek fedezése céljából képzett elkülönített tartalékalap nem nyújt fedezetet a szükséges kifizetések teljesítéséhez, a fedezet rendelkezésre állásáról a Kereskedelmi Választottbíróságot működtető Magyar Kereskedelmi és Iparkamara gondoskodik.
 

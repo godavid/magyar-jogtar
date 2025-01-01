@@ -16,7 +16,13 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 (3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
-(4) E törvény hatálya alá tartozó igazságügyi szakértő, valamint szakértőjelölt szolgálati viszonyára az igazságügyi szakértőkről szóló 2016. évi XXIX. törvénynek és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit, a végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit is alkalmazni kell.
+(4) E törvény hatálya alá tartozó
+
+- a) igazságügyi szakértő szolgálati viszonyára az igazságügyi szakértőkről szóló 2016. évi XXIX. törvénynek (a továbbiakban: Szaktv.) és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit,
+- b) szakértő gyakornok szolgálati viszonyára a Szaktv. 8. § (2) bekezdését, 17. § (3) bekezdését, valamint a 47. § (5) bekezdését,
+- c) végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit
+
+is alkalmazni kell.
 
 (5) Az igazságügyi alkalmazottak szolgálati viszonyára más jogszabály rendelkezéseit akkor kell alkalmazni, ha azt e törvény elrendeli.
 
@@ -28,7 +34,7 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 - a) a bírósági fogalmazó és a bírósági titkár,
 - b) a technikus,
-- c) az igazságügyi szakértő és a szakértőjelölt,
+- c) az igazságügyi szakértő és a szakértő gyakornok,
 - d) a tisztviselő,
 - e) az írnok, valamint
 - f) a fizikai dolgozó.
@@ -53,7 +59,9 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 5. § (1) Az igazságügyi szakértő a feladatkörébe tartozó ügyekben a bíróság, az ügyészség, a rendőrség, illetve jogszabályban meghatározott más hatóság kirendelésére, továbbá megbízás alapján szakvéleményt ad.
 
-(2) A szakértőjelölt az igazságügyi szakértői kinevezéshez szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – az igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
+(2) A szakértő gyakornok az igazságügyi szakértői kinevezéshez szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – az igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
+
+(3) Szakértő gyakornok az, aki a Szaktv. 5. § (2) bekezdésében foglaltaknak – a b) pont bb) alpont és d) pont kivételével – megfelel, és vele szemben a Szaktv. 5. § (3) bekezdésében meghatározott kizáró okok nem állnak fenn.
 
 6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a főtanácsadó, a bírósági ügyintéző, továbbá a végrehajtási ügyintéző is.
 
@@ -158,9 +166,9 @@ gyakorolja.
 
 (3) Egyéb igazságügyi szervhez igazságügyi szakértővé az nevezhető ki, aki az e törvényben meghatározott feltételeknek megfelel és az igazságügyi szakértői tevékenységről szóló törvény szerint igazságügyi szakértő.
 
-(4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
+(4) Szakértő gyakornoknak a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 
-(5) A bírósági fogalmazó, a bírósági titkár, az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
+(5) A bírósági fogalmazó, a bírósági titkár, az igazságügyi szakértő, a szakértő gyakornok, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
 
 (6) A munkáltató a munkakörre előírt szakvizsga vagy egyéb vizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb öt évre – halasztást engedélyezhet.
 
@@ -170,7 +178,7 @@ gyakorolja.
   - aa) az OBH és a bíróságok képesítési követelményei esetében az OBH elnöke véleményének kikérésével,
   - ab) az OBT képesítési követelményei esetében az OBT véleményének beszerzése mellett,
 - b) egyéb igazságügyi szerv esetében – a c) pontban foglalt kivétellel – az a miniszter,
-- c) az egyéb igazságügyi szerv igazságügyi szakértője és szakértőjelöltje esetében a miniszter az igazságügyért felelős miniszterrel egyetértésben
+- c) az egyéb igazságügyi szerv igazságügyi szakértője és szakértő gyakornoka esetében a miniszter az igazságügyért felelős miniszterrel egyetértésben
 
 rendeletben határozza meg.
 
@@ -1168,7 +1176,7 @@ okozta.
 
 (4) A kijelölt titkár a besorolása szerinti fizetési fokozathoz tartozó felső határ szerinti illetményre jogosult.
 
-98. § (1) A bírósági titkárt és az igazságügyi szakértőt az I. fizetési osztályba kell besorolni; a fizetési fokozatokat a bírósági titkár tekintetében a 3. melléklet 1. pontja, az igazságügyi szakértő tekintetében a 3. melléklet 2. pontja tartalmazza. A bírósági fogalmazót és a szakértőjelöltet a II. fizetési osztályba kell besorolni; a fizetési fokozatokat a bírósági fogalmazó tekintetében a 4. melléklet 1. pontja, a szakértőjelölt tekintetében a 4. melléklet 2. pontja tartalmazza. A szakirányú felsőfokú iskolai végzettségű tisztviselőt és technikust a III. fizetési osztályba kell besorolni, amely tekintetében az 5. melléklet tartalmazza a fizetési fokozatokat. A nem szakirányú felsőfokú iskolai végzettségű, valamint a középfokú iskolai végzettségű tisztviselőt és technikust, továbbá az írnokot a IV. fizetési osztályba kell besorolni, amely tekintetében a fizetési fokozatokat a 6. melléklet tartalmazza.
+98. § (1) A bírósági titkárt és az igazságügyi szakértőt az I. fizetési osztályba kell besorolni; a fizetési fokozatokat a bírósági titkár tekintetében a 3. melléklet 1. pontja, az igazságügyi szakértő tekintetében a 3. melléklet 2. pontja tartalmazza. A bírósági fogalmazót és a szakértő gyakornokot a II. fizetési osztályba kell besorolni; a fizetési fokozatokat a bírósági fogalmazó tekintetében a 4. melléklet 1. pontja, a szakértő gyakornok tekintetében a 4. melléklet 2. pontja tartalmazza. A szakirányú felsőfokú iskolai végzettségű tisztviselőt és technikust a III. fizetési osztályba kell besorolni, amely tekintetében az 5. melléklet tartalmazza a fizetési fokozatokat. A nem szakirányú felsőfokú iskolai végzettségű, valamint a középfokú iskolai végzettségű tisztviselőt és technikust, továbbá az írnokot a IV. fizetési osztályba kell besorolni, amely tekintetében a fizetési fokozatokat a 6. melléklet tartalmazza.
 
 (2) A munkáltatói jogkör gyakorlója a 2. § (2) bekezdés b)–d) pontja szerinti igazságügyi alkalmazott munkakörét kiemelt munkakörré minősítheti.
 
@@ -1195,7 +1203,7 @@ okozta.
 (4) Részben vagy egészben igazságügyi szolgálati időként lehet figyelembe venni
 
 - a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének napjától számított időt,
-- b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, egészségügyi szolgálati, köznevelési foglalkoztatotti, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
+- b) igazságügyi szakértő, szakértő gyakornok és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, egészségügyi szolgálati, köznevelési foglalkoztatotti, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
 - c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, egészségügyi szolgálati jogviszony, köznevelési foglalkoztatotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
 
 (5) A (4) bekezdés alkalmazásakor a beszámítandó időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás az adott év első napjával történjék. A beszámításnál figyelemmel kell lenni a helyes bérarányok fenntartására.
@@ -1204,7 +1212,7 @@ okozta.
 
 #### 102. §
 
-103. § (1) Átlagon felüli színvonalú munkavégzés esetén a bírósági titkár, a bírósági fogalmazó és a szakértőjelölt egy alkalommal, az igazságügyi szakértő, a tisztviselő és az írnok két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható (a továbbiakban: soron kívüli előresorolás). A bírósági fogalmazó soron kívüli előresorolására legalább egy évi joggyakorlat után kerülhet sor.
+103. § (1) Átlagon felüli színvonalú munkavégzés esetén a bírósági titkár, a bírósági fogalmazó és a szakértő gyakornok egy alkalommal, az igazságügyi szakértő, a tisztviselő és az írnok két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható (a továbbiakban: soron kívüli előresorolás). A bírósági fogalmazó soron kívüli előresorolására legalább egy évi joggyakorlat után kerülhet sor.
 
 (2) Két soron kívüli előresorolás között legalább hat évnek kell eltelnie.
 
@@ -1224,12 +1232,12 @@ okozta.
 
 ### A beosztási pótlék
 
-105. § (1) A Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági titkárt, bírósági fogalmazót, tisztviselőt és írnokot, valamint az egyéb igazságügyi szervnél dolgozó igazságügyi szakértőt, szakértőjelöltet, tisztviselőt és technikust beosztási pótlék illeti meg.
+105. § (1) A Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági titkárt, bírósági fogalmazót, tisztviselőt és írnokot, valamint az egyéb igazságügyi szervnél dolgozó igazságügyi szakértőt, szakértő gyakornokot, tisztviselőt és technikust beosztási pótlék illeti meg.
 
 (2) A beosztási pótlék mértéke
 
 - a) a Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági titkár és az egyéb igazságügyi szervnél dolgozó igazságügyi szakértő esetén az illetményalap 20 százaléka,
-- b) a Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági fogalmazó, a III. és V. fizetési osztályba sorolt tisztviselő, valamint az egyéb igazságügyi szervnél dolgozó szakértőjelölt, a III. és V. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 15 százaléka,
+- b) a Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági fogalmazó, a III. és V. fizetési osztályba sorolt tisztviselő, valamint az egyéb igazságügyi szervnél dolgozó szakértő gyakornok, a III. és V. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 15 százaléka,
 - c) a Kúrián, az OBH-nál és az OBT-nél dolgozó IV. fizetési osztályba sorolt tisztviselő, írnok, valamint az egyéb igazságügyi szervnél dolgozó IV. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 5 százaléka.
 
 ### A címpótlék
@@ -1267,7 +1275,7 @@ okozta.
 
 ### A rendkívüli munkavégzés elismerése
 
-113. § (1) Az igazságügyi szakértő, a szakértőjelölt, valamint a tisztviselő részére – ha ügyeleti vagy készenléti díjra nem jogosult – rendkívüli munkavégzés esetén ezzel azonos tartamú szabadidő jár. A heti pihenőnapon vagy munkaszüneti napon végzett rendkívüli munkavégzés ellenértékeként kétszeres idejű szabadidő jár.
+113. § (1) Az igazságügyi szakértő, a szakértő gyakornok, valamint a tisztviselő részére – ha ügyeleti vagy készenléti díjra nem jogosult – rendkívüli munkavégzés esetén ezzel azonos tartamú szabadidő jár. A heti pihenőnapon vagy munkaszüneti napon végzett rendkívüli munkavégzés ellenértékeként kétszeres idejű szabadidő jár.
 
 (2) Az (1) bekezdés szerinti szabadidő helyett a rendszeresen rendkívüli munkát végzők részére legfeljebb évi tizenöt nap szabadidő-átalány állapítható meg.
 
@@ -1635,7 +1643,7 @@ rendeletben állapítsa meg.
 
 ### 4. melléklet az 1997. évi LXVIII. törvényhez
 
-#### A II. fizetési osztály (bírósági fogalmazó, szakértőjelölt) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+#### A II. fizetési osztály (bírósági fogalmazó, szakértő gyakornok) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
 
 - 1. Bírósági fogalmazó
 
@@ -1646,7 +1654,7 @@ rendeletben állapítsa meg.
 | 3. | 2. | 2 | 3 | 0,57 | 0,79 |
 | 4. | 3. | 4 |  | 0,60 | 0,83 |
 
-- 2. Szakértőjelölt
+- 2. Szakértő gyakornok
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |

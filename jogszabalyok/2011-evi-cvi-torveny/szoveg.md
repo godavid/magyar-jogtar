@@ -8,13 +8,13 @@ Az Országgyűlés az értékteremtő közfoglalkoztatás jogi kereteinek megter
 
 (2) Közfoglalkoztatási jogviszony olyan munkára létesíthető, amely
 
-- a) e törvényben meghatározott feladat, továbbá törvény által előírt állami feladat vagy
-- b) a helyi önkormányzatokról szóló törvényben előírt kötelező vagy önként vállalt feladat, vagy
+- a) e törvényben meghatározott feladat, továbbá törvény által előírt állami feladat, vagy
+- b) törvényben meghatározott kötelező vagy önként vállalt önkormányzati feladat, vagy
 - c) a nemzetiségek jogairól szóló törvényben előírt kötelező vagy önként vállalt feladat, vagy
-- d) a helyi vagy azon túlmutató közösségi – így különösen – egészségmegőrzési, szociális, nevelési, oktatási, kulturális, kulturális örökség megóvása, építészeti örökség védelmével összefüggő, természet-, környezet- és állatvédelemi, gyermek- és ifjúságvédelemi, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével sport, közrend és közlekedésbiztonsági, ár- és belvízvédelemi célú, közforgalom számára megnyitott út, híd, alagút fejlesztéséhez, fenntartásához és üzemeltetéséhez kapcsolódó szükségletek kielégítését szolgáló feladat vagy
+- d) a helyi vagy azon túlmutató közösségi – így különösen – egészségmegőrzési, szociális, nevelési, oktatási, kulturális, kulturális örökség megóvása, építészeti örökség védelmével összefüggő, természet-, környezet- és állatvédelmi, gyermek- és ifjúságvédelmi, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével sport, közrend és közlekedésbiztonsági, ár- és belvízvédelmi célú, közforgalom számára megnyitott út, híd, alagút fejlesztéséhez, fenntartásához és üzemeltetéséhez kapcsolódó szükségletek kielégítését szolgáló feladat, vagy
 - e) a Kormány által meghatározott közösségi célok megvalósítását elősegítő feladat
 
-ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, rendvédelmi igazgatási szolgálati vagy honvédelmi alkalmazotti jogviszonyt, közszolgálati, kormányzati szolgálati jogviszonyt.
+ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, rendvédelmi igazgatási szolgálati vagy honvédelmi alkalmazotti jogviszonyt, közszolgálati, kormányzati szolgálati jogviszonyt, egészségügyi szolgálati jogviszonyt, köznevelési foglalkoztatotti jogviszonyt.
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
@@ -68,7 +68,7 @@ végleges határozatban,
 
 - c) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerint megfelelő munkahelyet nem fogadja el,
 - d) a számára egyszerűsített foglalkoztatás keretében felajánlott munkát nem fogadja el, vagy
-- e) a közfoglalkoztatási jogviszony létesítését megelőző három hónapon belül a közfoglalkoztatáson kívüli egyéb foglalkoztatási jogviszonya munkavállalói felmondással vagy a munkáltató azonnali hatályú felmondásával – ide nem értve a próbaidő alatti azonnali hatályú felmondást – szűnt meg,
+- e) a közfoglalkoztatási jogviszony létesítését megelőző három hónapon belül a közfoglalkoztatáson kívüli egyéb foglalkoztatási jogviszonya munkavállalói felmondással vagy a munkáltató azonnali hatályú felmondásával szűnt meg, ide nem értve a próbaidő alatti azonnali hatályú felmondást, valamint azon eseteket, ha a munkavállalói felmondásra azért kerül sor, mert a munkavállaló körülményeiben önhibáján kívül bekövetkezett változás a munkaviszony fenntartását lehetetlenné teszi vagy az a munkavállaló számára aránytalan sérelemmel járna,
 - f) a közfoglalkoztatási jogviszonya a közfoglalkoztató azonnali hatályú felmondásával szűnik meg,
 - g) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerinti képzési lehetőséget nem fogadja el.
 

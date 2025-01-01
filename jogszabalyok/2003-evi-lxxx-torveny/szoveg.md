@@ -294,7 +294,7 @@ egyéb tanácsadás
 34. § A nyilvántartás a következő adatokat tartalmazza:
 
 - a) a fél nevét, születési helyét és idejét, anyja nevét és lakóhelyét,
-- b) a kérelem elbírálására vonatkozó következő adatokat: 1. a határozat tartalma (engedélyezés, elutasítás), 2. a határozathozatal időpontja, 3. a jogorvoslati kérelem elbírálása, véglegessé válás vagy jogerőre emelkedés időpontja, 4. a megismételt eljárás adatai (1–6. pontok szerint), 5. a támogatás formája, 6. a támogatás felülvizsgálatára vonatkozó adatok.
+- b) a kérelem elbírálására vonatkozó következő adatokat: 1. a határozat tartalma (engedélyezés, elutasítás), 2. a határozathozatal időpontja, 3. a jogorvoslati kérelem elbírálása, véglegessé válás, illetve jogerőre emelkedés időpontja, 4. a megismételt eljárás adatai (1–6. pontok szerint), 5. a támogatás formája, 6. a támogatás felülvizsgálatára vonatkozó adatok.
 
 35. § (1) A jogi segítségnyújtó szolgálat a nyilvántartásban rögzített adatokat a támogatás iránti kérelem előterjesztéstől számított 10 évig tartja nyilván és kezeli, továbbá köteles azokat megvédeni a jogosultatlan hozzáférés, nyilvánosságra hozás vagy jogszabályellenes felhasználás ellen.
 

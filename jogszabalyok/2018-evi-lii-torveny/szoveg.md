@@ -35,7 +35,7 @@ Szja tv. szerinti adóalapként meghatározott összegét.
 - d) az árfolyamnyereségből származó jövedelem [Szja tv. 67. §],
 - e) az Szja tv. 1/B. § hatálya alá tartozó természetes személy e tevékenységből származó jövedelme,
 - f) az ingatlanalap befektetési jegyéből származó kamatjövedelem kivételével a természetes személy kamatjövedelme (Szja tv. 65. §)
-- g)
+- g) az Szja tv. 67/B. § (5) bekezdés c) pont szerinti lekötési hozam
 
 Magyarországon adóztatható része után.
 
@@ -52,6 +52,14 @@ Magyarországon adóztatható része után.
 #### 2. Az adó mértéke és fizetendő összege
 
 2. § (1) Az adó mértéke az adóalap 13 százaléka, az 1. § (4) bekezdésben foglalt esetekben a juttatások adóalapként meghatározott összegének 13 százaléka.
+
+(1a) Az adó mértéke az 1. § (5) bekezdés g) pontja szerinti adókötelezettség esetén az adóalap
+
+- a) nulla százaléka az Szja tv. 67/B. § (5) bekezdés a) pontja,
+- b) 8 százaléka az Szja tv. 67/B. § (5) bekezdés b) pontja,
+- c) 13 százaléka az Szja tv. 67/B. § (5) bekezdés c) pontja
+
+szerinti esetben.
 
 (2) Az 1. § (5) bekezdés a)–e) pontja esetében az adót addig kell megfizetni, amíg a természetes személy 1. § (1)–(3) bekezdés és az 1. § (5) bekezdés a)–e) pontja szerinti jövedelme a tárgyévben eléri a minimálbér összegének huszonnégyszeresét (a továbbiakban: adófizetési felső határ).
 
@@ -132,7 +140,7 @@ alapján létrejött jogviszonyra tekintettel;
 
 (6) A Tbj. szerint külföldinek minősülő személy által megszerzett
 
-- a) az 1. § (5) bekezdés a)–d) és f) pontja szerinti jövedelmet,
+- a) az 1. § (5) bekezdés a)–d), f) és g) pontja szerinti jövedelmet,
 - b) az Szja tv. szerint egyéb jövedelemnek minősülő jövedelmet és
 - c) az 1. § (4) bekezdés c) pontja szerinti jövedelmet
 
@@ -249,9 +257,9 @@ munkaviszonyban természetes személyt foglalkoztató kifizető az őt a munkavi
 
 11. § (1) A munkaerőpiacra lépő személyt munkaviszonyban foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
 
-(2) E § alkalmazásában munkaerőpiacra lépő az a magyar állampolgár, aki az állami adó- és vámhatóság rendelkezésére álló adatok szerint a kedvezményezett foglalkoztatás kezdetének hónapját megelőző 275 napon belül legfeljebb 92 napig rendelkezett a Tbj. szerint biztosítási kötelezettséggel járó munkaviszonnyal, egyéni, társas vállalkozói jogviszonnyal. E szabály alkalmazása szempontjából a biztosítási kötelezettséggel járó munkaviszonyba, egyéni, társas vállalkozói jogviszonyba nem kell beszámítani a csecsemőgondozási díj, örökbefogadói díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy a gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósításának időszakát, kivéve ha ezen időszakokban az ellátás folyósítása mellett egyéb biztosítási kötelezettséggel járó jogviszony áll fenn, valamint a közfoglalkoztatásban történő részvétel időtartamát. A kedvezményezett foglalkoztatás kezdetének minősül az anyasági ellátásban részesült, illetve részesülő természetes személynek a korábbi kifizetőjénél történő ismételt munkába állásának kezdete is. E § alkalmazásában munkaerőpiacra lépőnek minősül a Magyarországgal határos, nem EGT-állam állampolgára is.
+(2) E § alkalmazásában munkaerőpiacra lépő az a magyar állampolgár, aki az állami adó- és vámhatóság rendelkezésére álló adatok szerint a kedvezményezett foglalkoztatás kezdetének hónapját megelőző 365 napon belül legfeljebb 92 napig rendelkezett a Tbj. szerint biztosítási kötelezettséggel járó munkaviszonnyal, egyéni, társas vállalkozói jogviszonnyal. E szabály alkalmazása szempontjából a biztosítási kötelezettséggel járó munkaviszonyba, egyéni, társas vállalkozói jogviszonyba nem kell beszámítani a csecsemőgondozási díj, örökbefogadói díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy a gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósításának időszakát, kivéve, ha ezen időszakokban az ellátás folyósítása mellett egyéb biztosítási kötelezettséggel járó jogviszony áll fenn, valamint a közfoglalkoztatásban történő részvétel időtartamát. A kedvezményezett foglalkoztatás kezdetének minősül az anyasági ellátásban részesült, illetve részesülő természetes személynek a korábbi kifizetőjénél történő ismételt munkába állásának kezdete is. E § alkalmazásában munkaerőpiacra lépőnek minősül a Magyarországgal határos, nem EGT-állam állampolgára is.
 
-(3) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb a minimálbér után a 2. § (1) bekezdés szerinti adómértékkel megállapított összeggel a foglalkoztatás első két évében, és legfeljebb a minimálbér után a 2. § (1) bekezdés szerinti adómérték 50 százalékával megállapított összeggel a foglalkoztatás harmadik évében (a továbbiakban e § alkalmazásában: érvényesítési időszak).
+(3) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény a foglalkozatás első évében a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb a minimálbér után a 2. § (1) bekezdés szerinti adómértékkel megállapított összeg, a foglalkoztatás ezt követő további hat hónapjában pedig legfeljebb a minimálbér után a Szocho tv. 2. § (1) bekezdése szerinti adómérték 50 százalékával megállapított összeg (a továbbiakban e § alkalmazásában: érvényesítési időszak).
 
 (4) Ha a természetes személyt foglalkoztató kifizető a kedvezmény érvényesítési időszaka alatt megváltozik, az új kifizető a természetes személy után az érvényesítési időszak végéig igénybe veheti az adókedvezményt, ideértve azt az esetet is, ha a természetes személy foglalkoztatása nem folyamatos.
 
@@ -262,7 +270,7 @@ munkaviszonyban természetes személyt foglalkoztató kifizető az őt a munkavi
 
 állítja ki és elektronikus kapcsolattartás útján megküldi a kifizető részére.
 
-(6) A (3) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
+(6) A (3) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első éve, illetve tizennyolcadik hónapja véget ér.
 
 #### 12. A három vagy több gyermeket nevelő munkaerőpiacra lépő nők után érvényesíthető adókedvezmény
 
@@ -353,7 +361,7 @@ megváltozott munkaképességű személynek minősül e § alapján.
 
 (3) Az adókedvezményeket (ide nem értve a 14. §-ban szabályozott adókedvezményt) a költségvetési szerv kifizető nem érvényesítheti.
 
-(4) Az adókedvezmények egy adott hónap tekintetében egyszeresen vehetők igénybe ugyanazon kifizető és természetes személy között ismételten létesített munkaviszony során. Az ugyanazon kifizető és természetes személy között egyidejűleg fennálló több munkaviszony esetében az kedvezmények egy adott hónap tekintetében egyszeresen vehetők igénybe. Az adókedvezmények igénybevételét ugyanazon kifizető és természetes személy között ismételten létrejött munkaviszonyok során az elsőként létrejött munkaviszony, az egyidejűleg fennálló munkaviszonyok esetében a kifizető döntése alapozza meg.
+(4) Az adókedvezmények egy adott hónap tekintetében egyszeresen vehetők igénybe ugyanazon kifizető és természetes személy között ismételten létesített munkaviszony során. Az ugyanazon kifizető és természetes személy között egyidejűleg fennálló több munkaviszony esetében a kedvezmények egy adott hónap tekintetében egyszeresen vehetők igénybe. Az adókedvezmények igénybevételét ugyanazon kifizető és természetes személy között ismételten létrejött munkaviszonyok során az elsőként létrejött munkaviszony, az egyidejűleg fennálló munkaviszonyok esetében a kifizető döntése alapozza meg.
 
 (5) A munka törvénykönyve szerinti munkáltató személyében bekövetkező változás esetén az adókedvezményt az átvevő munkáltató tovább érvényesítheti a kedvezménnyel érintett időszak fennmaradó részére.
 
@@ -370,7 +378,7 @@ arányosított önköltsége alapján az egy munkanapra vetített mérték és a
 - b) – ha a tanuló, illetve a képzésben részt vevő személy sikeres szakmai vizsgát tett – az Szkt. 83. § (2) bekezdés a) pontja szerint megkötött és legalább hat hónapos egybefüggő időtartamban fennálló szakképzési munkaszerződésre tekintettel az a) pont alapján jogszerűen igénybe vett adókedvezmény húsz százalékának megfelelő összeg,
 - c) hallgatónként az Nftv. szerinti duális képzés és gyakorlatigényes alapképzési szak arányosított alapnormatívája alapján az egy munkanapra vetített mérték és a tárgyhónapban ténylegesen teljesített képzési napok számának szorzataként számított összege.
 
-(2)
+(2) Az (1) bekezdés a) pontja szerinti adókedvezményt ugyanazon munkáltató ugyanazon munkavállalója tekintetében legfeljebb 12 hónapig érvényesítheti azon képzésben részt vevő személy tekintetében, aki a szakirányú oktatást az Szkt. 90/A. §-a szerint saját foglalkoztatónál teljesíti és legkésőbb a szakirányú oktatás befejezését követő második vizsgaidőszakban szakmai vizsgát tesz.
 
 (3) Az önköltség és az alapnormatíva mértékét a központi költségvetésről szóló törvény, az önköltség szakmánként alkalmazandó és az alapnormatíva képzési területenként alkalmazandó súlyszorzóját a Kormány rendeletben határozza meg.
 
@@ -394,6 +402,8 @@ származó jövedelmet juttató, a 3. § szerint adófizetésre kötelezett kifi
 (2) Az (1) bekezdésben foglaltakon kívül a kifizető az adót a természetes személytől levonja, és a juttatást követő hónap 12. napjáig fizeti meg és vallja be.
 
 (2a) Ha az Szja tv. szerint egyéb jövedelemnek minősülő jövedelem kifizetőtől származik, az adót a kifizető az Art. rendelkezései szerint havonta állapítja meg és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg, kivéve, ha a jövedelem adóelőlegét a kifizető nem köteles megállapítani.
+
+(2b) Az Szja tv. 69. § (5) bekezdés a) pontja szerinti esetben az adót a kifizető negyedévente állapítja meg és a negyedévet követő hónap 12-éig vallja be és fizeti meg.
 
 (3) Amennyiben a jövedelem nem kifizetőtől, nem külföldi kifizetőtől származik vagy a juttatásból az adó, az adóelőleg levonása nem lehetséges, az adó megállapítására és megfizetésére a természetes személy kötelezett a 27. § rendelkezéseinek megfelelő alkalmazásával.
 
@@ -440,7 +450,7 @@ esetén,
 
 24. § Az adó megállapítására, bevallására és megfizetésére kötelezett adózó olyan nyilvántartást köteles vezetni, amelynek alapján az adó alapja és összege, valamint az annak megállapításánál figyelembe vett mentesség és kedvezmény összege, továbbá az adó megfizetésének napja ellenőrizhető. E nyilvántartási kötelezettségét a számvitelről szóló törvény hatálya alá tartozó kifizető a számvitelről szóló törvény szerinti nyilvántartása (könyvvezetése) megfelelő részletezésével, más kifizető az Szja tv. rendelkezése alapján vezetett külön nyilvántartás révén teljesíti.
 
-25. § Az 1. § (5) bekezdés e) pontjában meghatározott fizetési kötelezettséget az arra kötelezett a személyi jövedelemadóval egyidejűleg állapítja meg, vallja be és fizeti meg.
+25. § Az 1. § (5) bekezdés e) és g) pontjában meghatározott fizetési kötelezettséget az arra kötelezett a személyi jövedelemadóval egyidejűleg állapítja meg, vallja be és fizeti meg.
 
 26. § Az 1. § (4) bekezdés c) pontja szerinti kamatkedvezményből származó jövedelem után fizetendő adót évente, az adóévet követő év január 12-éig kell megfizetni. Ha a kamatkedvezmény év közben megszűnik, az adót a megszűnés napját követő hónap 12-éig kell megfizetni.
 
@@ -456,7 +466,7 @@ esetén,
 
 (3a) Ha az adó tekintetében a természetes személy nem köteles bevallás benyújtására, és igazolja, hogy a Tbj. szerint külföldinek minősül vagy a szociális biztonsági rendszerek koordinálásáról szóló rendeletek hatálya alá tartozó másik tagállamban vagy az Európai Unió intézményeiben biztosított, akkor a kifizető által a levont adóról kiállított igazolás benyújtásával az állami adó- és vámhatóságnál adóvisszatérítési kérelmet terjeszthet elő. Az adókülönbözetet az állami adó- és vámhatóság a természetes személy által megjelölt fizetési számlára utalja át.
 
-(4) Ha a természetes személy az 1. § (5) bekezdés a)–d) és f) pontjában foglaltak szerint adó fizetésére kötelezett, vagy a (3) bekezdés szerint visszaigénylési jogosultságát gyakorolja, az adóévről köteles személyi jövedelemadó bevallást benyújtani. Nem kell az adót a természetes személynek bevallania, ha a kifizető az adót levonta, és a természetes személy az Szja tv. alapján az adó alapjaként figyelembe vett jövedelmet nem köteles bevallani.
+(4) Ha a természetes személy az 1. § (5) bekezdés a)–d), f) és g) pontjában foglaltak szerint adó fizetésére kötelezett, vagy a (3) bekezdés szerint visszaigénylési jogosultságát gyakorolja, az adóévről köteles személyi jövedelemadó bevallást benyújtani. Nem kell az adót a természetes személynek bevallania, ha a kifizető az adót levonta, és a természetes személy az Szja tv. alapján az adó alapjaként figyelembe vett jövedelmet nem köteles bevallani.
 
 30. § A külföldi pénznemben megszerzett jövedelem utáni adó megállapítására az Szja tv. külföldi pénznemről forintra történő átszámításra vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -576,6 +586,12 @@ irányadó rendelkezést tartalmaz, azon – jogszabály eltérő rendelkezése 
 kell alkalmazni.
 
 (2) A 2024. augusztus 1-jét megelőző időszak tekintetében a szociális hozzájárulási adóról szóló 2018. évi LII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 205/2023. (V. 31.) Korm. rendelet 2024. július 31-én hatályos rendelkezéseit alkalmazni kell.
+
+36/I. § (1) Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 1. § (5) bekezdés g) pontja, 2. § (1a) bekezdése, 5. § (6) bekezdés a) pontja, 25. §-a és 29. § (4) bekezdése a 2024. december 31-ét követően kötött tartós befektetési szerződések tekintetében alkalmazandó ideértve a tartós befektetési szerződésnek az Szja tv. 67/B. § (10) bekezdése szerinti újrakötését is.
+
+(2) Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 11. § (2), (3) és (6) bekezdése először a 2025. január 1-jétől létesített munkaviszony tekintetében alkalmazandó.
+
+(3) Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 17/A. § (2) bekezdése először a 2024. december 31-ét követően induló képzések tekintetében alkalmazandó.
 
 #### 23. Módosító rendelkezések
 

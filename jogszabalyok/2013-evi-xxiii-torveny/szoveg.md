@@ -13,6 +13,8 @@ Az Országgyűlés a behozott kőolaj és kőolajtermékek biztonsági készlete
 - 3. az ellátás súlyos zavara: az Európai Unió vagy valamely tagállam kőolaj- vagy kőolajtermék ellátásának jelentős és hirtelen csökkenése függetlenül attól, hogy eredményezett-e biztonsági kőolajkészlet felszabadítására irányuló nemzetközi döntést;
 - 4. fizikai hozzáférés: a kőolajkészlet kitárolása, szabad forgalomba hozatala, valamint a felhasználók részére történő eljuttatása annak érdekében, hogy enyhítse vagy megoldja az esetlegesen felmerülő ellátási problémákat, valamint lehetővé tegye a készletek karbantartásával, frissítésével kapcsolatos feladatok ellátását;
 - 5. kőolaj- és kőolajtermék-ellátási válsághelyzet: az a helyzet, amikor a behozatal belföldi fogyasztáshoz mért csökkenése eléri a 7%-ot, és a belföldi felhasználási igény csak a biztonsági kőolajkészlet terhére elégíthető ki, továbbá az, amikor az Európai Unió vagy a Nemzetközi Energia Ügynökség válsághelyzeti intézkedéseket rendel el, így különösen a készletek felszabadítására irányuló nemzetközi döntést hoz; a nyersolaj és a kőolajtermékek hazai árának alakulása következtében kialakuló helyzet nem minősül kőolaj- és kőolajtermék-ellátási válsághelyzetnek.
+- 6. ország működését biztosító felhasználó: a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezet, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerint kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezet az általa nyújtott alapvető szolgáltatás nyújtásának mértékéig.
+- 7. KN-kód: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. melléklete szerinti Kombinált Nómenklatúrában meghatározott, nyolc számjegyű áruazonosító szám.
 
 #### 2. A biztonsági kőolajkészlet mértékének kiszámítása, a különleges kőolajkészlet képzése, a biztonsági kőolajkészlet tárolása és felhasználása
 
@@ -81,6 +83,7 @@ figyelembevételével kell számítani.
 
 - a) a felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését és mennyiségét,
 - b) a felhasznált készletek visszapótlásának határidejét, termékek szerinti összetételét.
+- c) a kritikus szervezetek ellenálló képességéről szóló törvény, továbbá a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti alapvető szolgáltatásokat és a hozzájuk tartozó felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését és mennyiségét, ha az ellátás zavara, az ellátási válsághelyzet, az ellátási nehézség hatással lehet kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet működésére.
 
 (4) A (2) bekezdés szerinti rendeletben a miniszter
 
@@ -115,7 +118,7 @@ figyelembevételével kell számítani.
 
 #### 3. A Magyar Szénhidrogén Készletező Szövetség
 
-12. § A Szövetség központi készletező szervezet, amelynek feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése, továbbá közreműködik a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében.
+12. § A Szövetség központi készletező szervezet, amelynek feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése, továbbá közreműködik a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében, továbbá a magyarországi termékszabvány szerinti paraméterek vizsgálatában.
 
 13. § (1) A Szövetség e törvény alapján létrehozott jogi személy, működését saját bevételeiből fedezi, a bevételeket
 
@@ -123,7 +126,7 @@ figyelembevételével kell számítani.
 - b) kőolaj-, kőolajtermék-, villamosenergia-tároló vásárlására, létesítésére, fejlesztésére,
 - c) a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére,
 - d) a Szövetség működésére,
-- e) a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés, és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében való közreműködésre, valamint
+- e) a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés, és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében, továbbá a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködésre, valamint
 - f) az Fbkt.-ban meghatározott feladatai teljesítésére
 
 fordíthatja.
@@ -136,7 +139,7 @@ fordíthatja.
 
 (2) A szövetségi tagság a 40. § (2) bekezdés szerinti tevékenység megkezdésének időpontjában jön létre. A szövetségi tagság megszűnik, ha a tag a készletezési kötelezettséggel járó tevékenységet megszünteti. A tagsági jogviszony fennállása során felmerült kötelezettségek az elszámolásban foglaltak szerint az elszámolások lezárásának napjáig terhelik a tagot.
 
-15. § A 9. § (4) bekezdés c) pontja alapján a miniszter által meghatározott célból kijelölt felhasználók ellátására felszabadított készleten felül, a felszabadított készletek vonatkozásában a kőolaj szekció tagjait, a készlet felszabadítást megelőző naptári év forgalmának egyenlege alapján esedékessé vált és teljesített nettó tagi hozzájárulásuk arányában elővásárlási jog illeti meg. A nettó tagi hozzájárulás összege a befizetett, valamint a visszaigényelt és levont tagi hozzájárulás egyenlege.
+15. § A 9. § (3) bekezdés c) pontja és a 9. § (4) bekezdés c) pontja alapján a miniszter által meghatározott célból kijelölt felhasználók ellátására felszabadított készleten felül, a felszabadított készletek vonatkozásában a kőolaj szekció tagjait, a készlet felszabadítást megelőző naptári év forgalmának egyenlege alapján esedékessé vált és teljesített nettó tagi hozzájárulásuk arányában elővásárlási jog illeti meg. A nettó tagi hozzájárulás összege a befizetett, valamint a visszaigényelt és levont tagi hozzájárulás egyenlege.
 
 16. § A Szövetség az e törvényben és az Fbkt.-ben előírt tevékenységein kívül, csak az azokkal összefüggő – a Szövetség Alapszabályában (a továbbiakban: alapszabály) meghatározott – tevékenységek gyakorlására jogosult.
 
@@ -273,7 +276,7 @@ fordíthatja.
 
 (2) A Szövetség könyvvezetésére a kettős könyvvitel előírásai vonatkoznak. A Számvtv. előírásait a 37. §-ban foglaltak figyelembevételével kell alkalmazni.
 
-(3) A Szövetség eszközeit és forrásait, bevételeit és ráfordításait a kőolaj- és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységenként, illetve azokat a nem készletezési tevékenységeitől belső számvitelében elkülöníti, valamint azokat az éves beszámoló kiegészítő mellékletében bemutatja. A készletezési tevékenységhez közvetlenül nem kapcsolódó költségeket, ráfordításokat a kőolaj- és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységek között fele-fele arányban kell felosztani.
+(3) A Szövetség eszközeit és forrásait, bevételeit és ráfordításait a kőolaj- és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységenként, illetve azokat a nem készletezési tevékenységeitől belső számvitelében elkülöníti, valamint azokat az éves beszámoló kiegészítő mellékletében bemutatja. A készletezési tevékenységhez közvetlenül nem kapcsolódó költségeket, ráfordításokat a kőolaj- és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységek között fele-fele arányban kell felosztani, azzal, hogy a 13. § (1) bekezdés e) pontja szerinti jelentések elkészítésében és a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködéshez kapcsolódó költségek a kőolaj szekció költségei közé tartoznak.
 
 33. § (1) A készletezéshez, a készletnöveléshez, továbbá a Szövetség egyéb feladatai ellátásához és működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli tagi hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
 
@@ -282,7 +285,7 @@ fordíthatja.
 (3) A Szövetség éves költségvetésében megtervezi:
 
 - a) a biztonsági kőolaj- és földgázkészletezés,
-- b)
+- b) a 13. § (1) bekezdés e) pontja szerinti jelentések elkészítésében és a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködéshez kapcsolódó költségeket,
 - c) a működésének várható ráfordításait.
 
 (4) A Szövetség a tagi hozzájárulásból eredő bevételét oly módon tervezi meg, hogy az – figyelembe véve a Szövetség egyéb jogcímen (nem a tagi hozzájárulásból származó) tervezett bevételeit – fedezze a (3) bekezdésben meghatározott, várható ráfordításokat.
@@ -361,7 +364,7 @@ fordíthatja.
 
 (2) Az (1) bekezdés szerinti havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a hónap utolsó munkanapjáig a Szövetség pénzforgalmi számlájára befizeti. A tagi hozzájárulás megfizetésének időpontja az a nap, amikor a Szövetség számláján a befizetést jóváírják.
 
-(3) A tagi hozzájárulási nyilatkozat benyújtásától számított 90 napon belül visszaigényelhető a Szövetségtől a 4. melléklet szerinti Kombinált Nómenklatúra-kóddal (a továbbiakban: KN-kód) azonosított kőolajtermék azon mennyisége után bevallott tagi hozzájárulás, amelyet a tag a 41. §-ban meghatározott célra értékesített vagy használt fel. Az adott KN-kódú kőolajtermékre vonatkozóan, a visszaigényelt tagi hozzájárulás alapját képező mennyiség nem haladhatja meg a kőolajterméknek a visszaigénylést megelőző 90 napra benyújtott nyilatkozatokban megadott, tagi hozzájárulás fizetési kötelezettség alá eső, összesített mennyiségét. A Szövetség a visszaigénylést annak beérkezésétől, a felhasználás könyvelésen alapuló igazolásától, és a tagi hozzájárulás megfizetésétől számított 15 napon belül köteles elbírálni, valamint a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
+(3) A tagi hozzájárulási nyilatkozat benyújtásától számított 90 napon belül visszaigényelhető a Szövetségtől a 4. melléklet szerinti KN-kóddal azonosított kőolajtermék azon mennyisége után bevallott tagi hozzájárulás, amelyet a tag a 41. §-ban meghatározott célra értékesített vagy használt fel. Az adott KN-kódú kőolajtermékre vonatkozóan, a visszaigényelt tagi hozzájárulás alapját képező mennyiség nem haladhatja meg a kőolajterméknek a visszaigénylést megelőző 90 napra benyújtott nyilatkozatokban megadott, tagi hozzájárulás fizetési kötelezettség alá eső, összesített mennyiségét. A Szövetség a visszaigénylést annak beérkezésétől, a felhasználás könyvelésen alapuló igazolásától, és a tagi hozzájárulás megfizetésétől számított 15 napon belül köteles elbírálni, valamint a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
 
 (4) A tag az esedékessé vált tagi hozzájárulásból a kiviteltől számított 90 napon belül levonhatja az olyan kőolajtermék mennyiség után megfizetett tagi hozzájárulást, amelyet külföldön értékesített.
 
@@ -375,11 +378,11 @@ fordíthatja.
 
 (9) A Szövetség a (1) bekezdés szerinti nyilatkozatot az adatok helytállóságának ellenőrzése érdekében elektronikusan megküldi az illetékes adóhatóságnak, amely a nyilatkozatot záradékolja és megküldi a Szövetség, valamint a Szövetségen keresztül a tag részére. Üzemszünet esetén az illetékes adóhatóság elektronikus záradékolására az üzemszünet lezárását követően kerül sor.
 
-(9a) A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) a záradékolt nyilatkozatokról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(9a) Az adó- és vámhatóság (a továbbiakban: NAV) a záradékolt nyilatkozatokról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
 (10) A kőolaj szekció tagja köteles a NAV ellenőrzést végző szervével egyeztetést lefolytatni, ha a nyilatkozat adatait a NAV nem helytállónak minősítette.
 
-42/A. § A Szövetség tüzelő- és fűtőanyagok kéntartalmának megállapított alakulásáról szóló jelentéssel kapcsolatos kötelezettségének teljesítéséhez a 2710 19 51–2710 19 68, 2710 20 31, 2710 20 35, 2710 20 39, a 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17, 2710 20 19 KN kód szerinti termékeket értékesítő tag minden év november 15-ig megküldi a Szövetség részére a tárgyévet megelőző év november 1-től tárgyév október 31-ig terjedő időszakban fenti KN kódú termékeket beszerző partnerei nevét, címét és a beszerzett termékek KN kódját.
+42/A. § A Szövetség tüzelő- és fűtőanyagok kéntartalmának megállapított alakulásáról szóló jelentéssel kapcsolatos kötelezettségének teljesítéséhez a 2710 19 51–2710 19 67, 2710 20 32, 2710 20 38, a 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 16, 2710 20 19 KN kód szerinti termékeket értékesítő tag minden év november 15-ig megküldi a Szövetség részére a tárgyévet megelőző év november 1-től tárgyév október 31-ig terjedő időszakban az e bekezdésben felsorolt KN kódú termékeket tüzelő-, fűtőanyagként történő beszerző partnerei nevét, címét és a beszerzett termékek KN kódját.
 
 43. § A Szövetség a tag kérésére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről.
 
@@ -451,9 +454,11 @@ az e törvény, valamint az Fbkt. hatálya alá tartozó termékkör vonatkozás
 
 #### 15. Záró rendelkezések
 
-49. § Felhatalmazást kap a miniszter, hogy
+49. § (1) Felhatalmazást kap a Kormány, hogy az ország működését biztosító felhasználó folyamatos kőolaj, kőolajtermék ellátásbiztonságára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
-- a) a 9. § (1) bekezdés szerinti fogyasztást korlátozó intézkedéseket,
+(2) Felhatalmazást kap a miniszter, hogy
+
+- a) a 9. § (1) bekezdése szerinti fogyasztást korlátozó intézkedéseket,
 - b) a biztonsági kőolajkészlet 9. § (2) bekezdés szerinti felhasználási rendjét,
 - c) az adatszolgáltatásra vonatkozó részletes előírásokat,
 - d) az ellátás súlyos zavara esetén és az 1999. évi XXXIX. törvény 2. §-a szerinti nemzetközi szerződés 5. cikk 1. pontja szerinti esetben alkalmazandó készenléti terv szabályait
@@ -476,8 +481,9 @@ rendeletben állapítsa meg.
 
 53. § (1) E törvény
 
-- a) a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek, valamint
-- b) a 2009/119/EK tanácsi irányelvnek a készletezési kötelezettségek számítási módszerei tekintetében történő módosításáról szóló, 2018. október 19-i 2018/1581/EU bizottsági végrehajtási irányelvnek
+- a) a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek,
+- b) a 2009/119/EK tanácsi irányelvnek a készletezési kötelezettségek számítási módszerei tekintetében történő módosításáról szóló, 2018. október 19-i 2018/1581/EU bizottsági végrehajtási irányelvnek, valamint
+- c) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -515,10 +521,10 @@ való megfelelést szolgálja.
 
 |  | A | B |
 | --- | --- | --- |
-| 1. | Készletezett anyag | Kombinált Nómenklatúra-kód (KN-kód) |
+| 1. | Készletezett anyag | KN-kód |
 | 2. | Nyersolaj | 27090090 |
 | 3. | Motorbenzin | 27101231-27101270 |
-| 4. | Motorikus gázolaj/dízelolaj | 27101943-27101948, 27102011-27102019 |
+| 4. | Motorikus gázolaj/dízelolaj | 27101942-27101948, 27102011-27102019 |
 | 5. | Háztartási és egyéb tüzelőolaj |
 | 6. | Fűtőolaj – alacsony kéntartalmú (legfeljebb 0,5 tömegszázalék kéntartalom) | 27101962, 27101966, 27102032 |
 | 7. | Fűtőolaj – magas kéntartalmú (0,5 tömegszázalékot meghaladó kéntartalom) | 27101967, 27102038 |
@@ -573,23 +579,24 @@ való megfelelést szolgálja.
 
 |  | A | B |
 | --- | --- | --- |
-| 1. | Kőolajtermék megnevezése | Kombinált Nómenklatúra-kód (KN-kód) |
-| 2. | Motorbenzinek | 27101231 |
-| 3. | 27101241 |
-| 4. | 27101245 |
-| 5. | 27101249 |
-| 6. | 27101250 |
-| 7. | 27101270 |
-| 8. | Kerozin típusú sugárhajtómű üzemanyag | 27101921 |
-| 9. | Gáz- és tüzelőolajok | 27101943 |
-| 10. | 27101946 |
-| 11. | 27101947 |
-| 12. | 27101948 |
-| 13. | 27102011 |
-| 14. | 27102016 |
-| 15. | 27102019 |
-| 16. | Alacsony és magas kéntartalmú fűtőolajok | 27101962 |
-| 17. | 27101966 |
-| 18. | 27101967 |
-| 19. | 27102032 |
-| 20. | 27102038 |
+| 1 | Kőolajtermék megnevezése | KN-kód |
+| 2 | Motorbenzinek | 27101231 |
+| 3 | 27101241 |
+| 4 | 27101245 |
+| 5 | 27101249 |
+| 6 | 27101250 |
+| 7 | 27101270 |
+| 8 | Kerozin típusú sugárhajtómű üzemanyag | 27101921 |
+| 9 | Gáz- és tüzelőolajok | 27101942 |
+| 10 | 27101944 |
+| 11 | 27101946 |
+| 12 | 27101947 |
+| 13 | 27101948 |
+| 14 | 27102011 |
+| 15 | 27102016 |
+| 16 | 27102019 |
+| 17 | Alacsony és magas kéntartalmú fűtőolajok | 27101962 |
+| 18 | 27101966 |
+| 19 | 27101967 |
+| 20 | 27102032 |
+| 21 | 27102038 |

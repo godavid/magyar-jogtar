@@ -177,7 +177,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - g) meghallgatja a házelnök által kinevezni kívánt személyeket, valamint a háznagy tisztségére jelölt, képviselői megbízatással nem rendelkező személyt,
 - h) megállapítja azokat az eseteket, amelyekben a házszabályi rendelkezések szerinti írásbeliség követelményének elektronikus úton történő benyújtással kell vagy lehet eleget tenni, és meghatározza az elektronikus benyújtás feltételeit,
 - i) a házelnök felkérésére megvitatja az Országgyűléshez, illetve annak tisztségviselőihez érkezett jelentősebb beadványokat, petíciókat, felhívásokat, nyílt leveleket, valamint véleményezi az ezekkel kapcsolatos esetleges intézkedéseket,
-- j)
+- j) dönt az Országgyűlés által tartandó megemlékezésről,
 - k) állást foglal a miniszteri tisztségre javasolt személyek kinevezés előtti bizottsági meghallgatásának rendjéről,
 - l) ajánlást tesz a köztársasági elnök jelölésére vonatkozó ajánlás érvénytelenségének megállapítására,
 - m) javaslatot tesz az alelnök vagy jegyző felmentésére,
@@ -211,7 +211,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (6) A Házbizottság a döntéseit valamennyi – szavazati joggal rendelkező – tagjának egyhangú szavazatával hozza meg, ennek hiányában a 11. § (1) bekezdés a) pontjában foglaltakról az Országgyűlés vita nélkül, egyéb kérdésekben a házelnök dönt.
 
-(7)
+(7) A 11. § (1) bekezdés j) pontjától eltérően a házelnök dönt az Országgyűlés által tartandó megemlékezésről, ha az arra okot adó rendkívüli esemény a Házbizottság ülését követően következett be vagy vált ismertté.
 
 (8) A Házbizottság a működési rendjét – a házszabályi rendelkezésekre tekintettel – maga határozza meg.
 
@@ -844,6 +844,8 @@ megegyező mértékben csökkentheti.
 
 (8) A (7) bekezdés szerinti kérelemről az Országgyűlés vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.
 
+(8a) Ha a Mentelmi Bizottság az (1), illetve (2) bekezdés szerinti kérelem elbírálására rendelkezésre álló határidőben nem hozott döntést, és a képviselő a (7) bekezdés szerint kérte az Országgyűlés döntését, a határozathozatal előtt a képviselő, továbbá a Mentelmi Bizottság elnöke vagy az általa kijelölt előadó öt-ötperces időtartamban felszólalhat.
+
 (9) Az Országgyűlés
 
 - a) az (1) bekezdés szerinti kérelem esetén az ülést vezető elnök intézkedését helybenhagyhatja, vagy a kérelemnek helyt adva megállapíthatja, hogy az intézkedésnek nem volt helye,
@@ -1303,31 +1305,55 @@ megegyező mértékben csökkentheti.
 
 #### 35. Eljárási szabályok
 
-91. § (1) A képviselő az eskütételétől vagy az összeférhetetlen helyzet keletkezésétől, illetve annak a képviselő tudomására jutásától, a házelnök és az alelnök az e tisztségre való megválasztásától számított harminc napon belül köteles a vele szemben fennálló összeférhetetlenségi okot megszüntetni, és erről haladéktalanul tájékoztatni a házelnököt. A képviselő az összeférhetetlenség fennállása alatt az Országgyűlés és az országgyűlési bizottságok ülésén tanácskozási, szavazati és a 98. § (1) és (2) bekezdése szerinti jogát nem gyakorolhatja, indítványt nem nyújthat be és javadalmazásra sem jogosult.
+91. § (1) A képviselő az eskütételétől vagy az összeférhetetlen helyzet keletkezésétől, illetve annak a képviselő tudomására jutásától számított harminc napon belül köteles a vele szemben fennálló összeférhetetlenségi okot megszüntetni, és erről haladéktalanul tájékoztatni a házelnököt. A képviselő az összeférhetetlenség fennállása alatt az Országgyűlés és az országgyűlési bizottságok ülésén tanácskozási, szavazati és a 98. § (1) és (2) bekezdése szerinti jogát nem gyakorolhatja, indítványt nem nyújthat be és javadalmazásra sem jogosult.
 
-(1a) Az (1) bekezdéstől eltérően, ha a képviselővel szemben fennálló összeférhetetlenségi ok megszűnését eredményező intézkedés meghozatala más szerv vagy szervezet hatáskörébe tartozik, a képviselő az (1) bekezdés szerinti határidőben köteles az összeférhetetlenségi ok megszüntetését az erre vonatkozó szabályoknak megfelelően kezdeményezni, és a megszüntetés kezdeményezését haladéktalanul és hitelt érdemlően bejelenteni a házelnöknek. A bejelentés napjától az összeférhetetlenség fennállása alatt a képviselő csak a szavazati jogát nem gyakorolhatja. A képviselő az összeférhetetlenségi ok megszűnéséről – az azt eredményező intézkedés tudomására jutását követően haladéktalanul – tájékoztatja a házelnököt.
+(2) Az (1) bekezdéstől eltérően, ha a képviselővel szemben fennálló összeférhetetlenségi ok megszűnését eredményező intézkedés meghozatala más szerv vagy szervezet hatáskörébe tartozik, a képviselő az (1) bekezdés szerinti határidőben köteles az összeférhetetlenségi ok megszüntetését az erre vonatkozó szabályoknak megfelelően kezdeményezni, és a megszüntetés kezdeményezését haladéktalanul és hitelt érdemlően bejelenteni a házelnöknek. A bejelentés napjától az összeférhetetlenség fennállása alatt a képviselő csak a szavazati jogát nem gyakorolhatja. A képviselő az összeférhetetlenségi ok megszűnéséről – az azt eredményező intézkedés tudomására jutását követően haladéktalanul – tájékoztatja a házelnököt.
 
-(1b) A képviselő a vele szemben felmerült összeférhetetlenségi okról annak felmerülését vagy tudomására jutását követően haladéktalanul tájékoztatja a házelnököt.
+(3) A képviselő a vele szemben felmerült összeférhetetlenségi okról annak felmerülését vagy tudomására jutását követően haladéktalanul tájékoztatja a házelnököt.
 
-(2) Az (1) és (1a) bekezdés szerinti határidő elmulasztása esetén bármely képviselő indítványára az Országgyűlés – a Mentelmi Bizottság véleményének kikérése után – tizenöt napon belül határoz az összeférhetetlenség kimondásáról.
+92. § (1) Képviselői összeférhetetlenségre vonatkozó bejelentést bárki tehet írásban a házelnöknél. A bejelentésben pontosan meg kell jelölni, hogy mely képviselővel szemben és milyen összeférhetetlenségi ok merült fel; mellékelni kell az összeférhetetlenségi ok megállapításához szükséges bizonyítékokat is. A bejelentésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását.
 
-(3) A 88. §-ban meghatározott összeférhetetlenségről a jogerős ítéletet hozó bíróság vagy véglegessé vált határozatot hozó hatóság haladéktalanul tájékoztatja a házelnököt. Az Országgyűlés bármely képviselő indítványára – a Mentelmi Bizottság véleményének kikérése után – tizenöt napon belül határoz az összeférhetetlenség kimondásáról.
+(2) A Mentelmi Bizottság elnöke nem indítja meg az összeférhetetlenségi eljárást, és erről tájékoztatja a Mentelmi Bizottságot, ha
 
-(4) Képviselői összeférhetetlenségre vonatkozó bejelentést bárki tehet írásban a házelnöknél. A bejelentésben pontosan meg kell jelölni, hogy mely képviselővel szemben és milyen összeférhetetlenségi ok merült fel; mellékelni kell az összeférhetetlenségi ok megállapításához szükséges bizonyítékokat is. A bejelentésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását. Hiányos bejelentés esetén a Mentelmi Bizottság elnöke nem indítja meg a szükséges eljárást, de a kezdeményezésről tájékoztatja a Mentelmi Bizottságot.
+- a) a képviselői összeférhetetlenségre vonatkozó bejelentés nem felel meg az (1) bekezdésben meghatározott feltételeknek,
+- b) a képviselői összeférhetetlenségre vonatkozó bejelentés nyilvánvalóan alaptalan,
+- c) a képviselő a Mentelmi Bizottság elnökének felhívására, öt napon belül megszüntette az összeférhetetlenséget, vagy – ha az összeférhetetlenségi ok megszűnését eredményező intézkedés meghozatala más szerv vagy szervezet hatáskörébe tartozik – annak megszüntetését kezdeményezte, vagy
+- d) a Mentelmi Bizottság elnöke az érintett képviselőtől öt napon belül kapott válasz alapján – további adatbeszerzés nélkül is – meg tudja állapítani, hogy az összeférhetetlenség nyilvánvalóan nem áll fenn.
 
-(5) Összeférhetetlenséget nem lehet kimondani a 86. § (2) és (3) bekezdése, valamint a 87. § (1) bekezdése alapján.
+(3) Ha a Mentelmi Bizottság elnöke az összeférhetetlenségi eljárást nem indítja meg – és a (2) bekezdés d) pontja szerinti esetben ezzel szemben a Mentelmi Bizottság nem emel kifogást –, erről tájékoztatja az érintett képviselőt, a házelnököt és a bejelentőt. Ha a Mentelmi Bizottság a (2) bekezdés d) pontja szerinti esetben kifogást emel, az elnök haladéktalanul megindítja az összeférhetetlenségi eljárást.
 
-92. § (1) Összeférhetetlenségi eljárás kezdeményezése esetén az ügyet a Mentelmi Bizottság 30 napon belül kivizsgálja. Az adott ügy kivizsgálására tagjai sorából – sorsolással – háromtagú vizsgálati testületet hoz létre. A Mentelmi Bizottság elnöke nem lehet tagja a vizsgálati testületnek. A vizsgálati testület elnöke a Mentelmi Bizottság alelnöke.
+(4) Ha a Mentelmi Bizottság elnöke megindítja az összeférhetetlenségi eljárást, erről haladéktalanul értesíti a házelnököt, aki a soron következő ülésen tájékoztatja az Országgyűlést. Az ügyet a Mentelmi Bizottság – a bejelentés Mentelmi Bizottság elnöke által történő kézhezvételétől számított – 30 napon belül kivizsgálja. E határidő számításánál a rendes ülésszakok közötti időtartamot és az (5) bekezdés szerinti adatszolgáltatás időtartamát figyelmen kívül kell hagyni.
 
-(2) Az összeférhetetlenségi üggyel összefüggésben a Mentelmi Bizottság, illetve a vizsgálati testület által kért adatokat a képviselő és minden állami szerv haladéktalanul köteles a Mentelmi Bizottság, illetve a vizsgálati testület rendelkezésére bocsátani. Az összeférhetetlenségi üggyel kapcsolatban átvett, rendelkezésre bocsátott adatokat az összeférhetetlenségi üggyel kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
+(5) Az összeférhetetlenségi üggyel összefüggésben a Mentelmi Bizottság által kért adatokat a képviselő és minden állami szerv haladéktalanul köteles a Mentelmi Bizottság rendelkezésére bocsátani. Az összeférhetetlenségi üggyel kapcsolatban átvett, rendelkezésre bocsátott adatokat az összeférhetetlenségi üggyel kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
 
-(3) Az összeférhetetlenséggel kapcsolatos minden nyilvántartást a Mentelmi Bizottság vezet.
+(6) Az összeférhetetlenséggel kapcsolatos minden nyilvántartást a Mentelmi Bizottság vezet.
 
-93. § (1) Ha az Országgyűlés nem mondta ki az összeférhetetlenséget, a képviselővel szemben ugyanazon tények alapján nem lehet újabb összeférhetetlenségi eljárást kezdeményezni.
+93. § (1) Ha a Mentelmi Bizottság vizsgálata alapján az összeférhetetlenség fennáll, a Mentelmi Bizottság a 92. § (4) bekezdése szerinti határidőben az összeférhetetlenség kimondására irányuló határozati javaslatot nyújt be az Országgyűléshez. A határozati javaslat tartalmazza, hogy az összeférhetetlenség kimondásával egyidejűleg a képviselői megbízatás megszűnik. Az Országgyűlés az összeférhetetlenség kimondására irányuló határozati javaslat benyújtásától számított 30 napon belül határoz az összeférhetetlenség kimondásáról. E határidő számításánál a rendes ülésszakok közötti időtartamot figyelmen kívül kell hagyni.
 
-(2) Az összeférhetetlenség megállapításával egyidejűleg az Országgyűlés felszólítja a képviselőt, hogy öt napon belül szüntesse meg, vagy kezdeményezze az összeférhetetlenség megszüntetését, és ennek tényét jelentse be a házelnöknek. Az Országgyűlés egyúttal kimondja, hogy ha a képviselő nem szünteti meg, nem kezdeményezi az összeférhetetlenség megszüntetését, illetve ha ennek tényét nem jelenti be a házelnöknek, akkor képviselői megbízatása ezen határozat alapján, az összeférhetetlenség megállapításától számított öt nap elteltével megszűnik. A Mentelmi Bizottság elnöke az összeférhetetlenség megállapításától számított öt nap elteltével bejelenti az összeférhetetlenség megszüntetését, illetve ennek kezdeményezését vagy ennek hiányát, aminek következtében a képviselő képviselői megbízatása az összeférhetetlenség megállapításától számított öt nap elteltével megszűnt.
+(2) Ha a Mentelmi Bizottság vizsgálata alapján összeférhetetlenség nem áll fenn, erről a Mentelmi Bizottság elnöke tájékoztatja a házelnököt, az érintett képviselőt, valamint a bejelentőt, és az összeférhetetlenségi eljárás megszűnik. A házelnök a Mentelmi Bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 
-(3) Ha az Országgyűlés határozata alapján a képviselő megbízatása megszűnik, a képviselő köteles az összeférhetetlenség keletkezésétől a megbízatása megszűnéséig részére kifizetett javadalmazást az Országgyűlésnek visszafizetni.
+(3) Ha az összeférhetetlenségi eljárás megindítását követően lefolytatott vizsgálat lezárultával a Mentelmi Bizottság döntéséhez nincs meg a 27/C. § (2) bekezdése szerinti többség, a Mentelmi Bizottság elnöke határozati javaslat benyújtásával kezdeményezi az Országgyűlés döntését.
+
+(4) Ha a Mentelmi Bizottság elnöke nem indította meg az összeférhetetlenségi eljárást, határozati javaslat benyújtására nem került sor, vagy az Országgyűlés nem mondta ki az összeférhetetlenséget, a képviselővel szemben ugyanazon tények alapján nem lehet újabb összeférhetetlenségi eljárást kezdeményezni.
+
+93/A. § (1) A 88. §-ban meghatározott összeférhetetlenség esetén az eljárásra a (2)–(4) bekezdés rendelkezéseit kell alkalmazni.
+
+(2) A 88. §-ban meghatározott összeférhetetlenségről a jogerős ítéletet hozó bíróság vagy véglegessé vált határozatot hozó hatóság haladéktalanul tájékoztatja a házelnököt.
+
+(3) A házelnök a tájékoztatást megküldi a Mentelmi Bizottság elnökének. A Mentelmi Bizottság elnöke a tájékoztatás alapján haladéktalanul az összeférhetetlenség kimondására irányuló határozati javaslatot nyújt be az Országgyűlésnek. A határozati javaslat tartalmazza, hogy az összeférhetetlenség kimondásával egyidejűleg a képviselői megbízatás megszűnik.
+
+(4) Az Országgyűlés az összeférhetetlenség kimondására irányuló határozati javaslat benyújtásától számított 30 napon belül határoz az összeférhetetlenség kimondásáról. E határidő számításánál a rendes ülésszakok közötti időtartamot figyelmen kívül kell hagyni.
+
+93/B. § A 86. § (2) és (3) bekezdése, valamint a 87. § (1) bekezdése szerinti esetekben a 92. és 93. §-t kell megfelelően alkalmazni azzal, hogy ezekben az esetekben az összeférhetetlenséget nem lehet kimondani, a Mentelmi Bizottság, illetve az Országgyűlés csak a jogsértés tényét állapítja meg.
+
+93/C. § (1) Az Országgyűlés az összeférhetetlenség kimondásáról szóló és a jogsértés tényének megállapításáról szóló határozatát a Magyar Közlönyben közzéteszi.
+
+(2) Ha az Országgyűlés határozata alapján a képviselő megbízatása megszűnik, a képviselő köteles
+
+- a) a 92. § (1) bekezdése szerinti bejelentés alapján indult eljárás esetén a határozati javaslat benyújtásától,
+- b) a 93/A. § szerinti eljárás esetén az ítélet jogerőre emelkedésétől, illetve a 88. § b) pontjában meghatározott összeférhetetlenség bekövetkeztétől
+
+az Országgyűlés határozathozataláig terjedő időszakra vonatkozóan részére kifizetett javadalmazást az Országgyűlésnek visszafizetni.
 
 94. § (1) A vagyonnyilatkozatokról a nyilvántartást a Mentelmi Bizottság vezeti.
 
@@ -1335,15 +1361,39 @@ megegyező mértékben csökkentheti.
 
 (3) A családtag vagyonnyilatkozatába csak a Mentelmi Bizottság tagjai tekinthetnek be a képviselő vagyonnyilatkozatával kapcsolatos eljárás során.
 
-(4) A képviselő vagyonnyilatkozatával kapcsolatos eljárást a Mentelmi Bizottság elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a Mentelmi Bizottság elnöke az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a Mentelmi Bizottság ellenőrzi.
+(4) A volt képviselő családtagja vagyonnyilatkozatát a Mentelmi Bizottság a képviselő megbízatásának megszűnését követő egy évig őrzi.
 
-(5) A vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság felhívására a képviselő köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az adatokba csak a Mentelmi Bizottság tagjai tekinthetnek be. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Mentelmi Bizottság elnöke tájékoztatja a házelnököt, aki a Mentelmi Bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
+(5)
 
-(6) Ha a vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság azt állapítja meg, hogy a képviselő vagyonnyilatkozat-tételi kötelezettségét szándékosan mulasztotta el, vagy a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közölt, akkor a Mentelmi Bizottság elnöke köteles kezdeményezni a képviselő összeférhetetlenségének a kimondását.
+(6)
 
-(7) A képviselő által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
+(7)
 
-(8) A volt képviselő családtagja vagyonnyilatkozatát a Mentelmi Bizottság a képviselő megbízatásának megszűnését követő egy évig őrzi.
+(8)
+
+94/A. § (1) A képviselő vagyonnyilatkozatával kapcsolatos eljárást a Mentelmi Bizottság elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely pontosan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. A kezdeményezésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását. A vagyonnyilatkozatban foglaltak valóságtartalmát a Mentelmi Bizottság ellenőrzi.
+
+(2) A Mentelmi Bizottság elnöke nem indítja meg a képviselő vagyonnyilatkozatával kapcsolatos eljárást, és erről tájékoztatja a Mentelmi Bizottságot, ha
+
+- a) a kezdeményezés nem felel meg az (1) bekezdésben meghatározott feltételeknek,
+- b) a kezdeményezés nyilvánvalóan alaptalan,
+- c) az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz,
+- d) a képviselő a Mentelmi Bizottság elnökének felhívására, öt napon belül kijavítja a vagyonnyilatkozat kifogásolt tartalmát,
+- e) a Mentelmi Bizottság elnöke az érintett képviselőtől öt napon belül kapott válasz alapján – további adatbeszerzés nélkül is – meg tudja állapítani, hogy a vagyonnyilatkozat kifogásolt tartalma a valóságnak nyilvánvalóan megfelel.
+
+(3) Ha a Mentelmi Bizottság elnöke a vagyonnyilatkozattal kapcsolatos eljárást nem indítja meg – és a (2) bekezdés e) pontja szerinti esetben ezzel szemben a Mentelmi Bizottság nem emel kifogást –, erről tájékoztatja az érintett képviselőt, a házelnököt és a kezdeményezőt. Ha a Mentelmi Bizottság a (2) bekezdés e) pontja szerinti esetben kifogást emel, az elnök haladéktalanul megindítja a vagyonnyilatkozattal kapcsolatos eljárást.
+
+(4) Ha a Mentelmi Bizottság elnöke megindítja a vagyonnyilatkozattal kapcsolatos eljárást, erről haladéktalanul értesíti a házelnököt, aki a soron következő ülésen tájékoztatja az Országgyűlést. Az ügyet a Mentelmi Bizottság – a kezdeményezés Mentelmi Bizottság elnöke által történő kézhezvételétől számított – 30 napon belül kivizsgálja. E határidő számításánál a rendes ülésszakok közötti időtartamot és az (5) bekezdés szerinti adatszolgáltatás időtartamát figyelmen kívül kell hagyni.
+
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság felhívására a képviselő köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. A vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság által kért adatokat minden állami szerv haladéktalanul köteles a Mentelmi Bizottság rendelkezésére bocsátani. Az adatokba csak a Mentelmi Bizottság tagjai tekinthetnek be.
+
+(6) Ha a vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság azt állapítja meg, hogy a képviselő vagyonnyilatkozat-tételi kötelezettségét szándékosan mulasztotta el, vagy a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közölt, akkor a Mentelmi Bizottság elnöke haladéktalanul köteles kezdeményezni a képviselő összeférhetetlenségének a kimondását a 93/A. § (3) bekezdésében meghatározott tartalmú határozati javaslat benyújtásával. A határozati javaslatról az Országgyűlés a 93/A. § (4) bekezdésének alkalmazásával dönt.
+
+(7) Ha a vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság azt állapítja meg, hogy a képviselő vagyonnyilatkozat-tételi kötelezettségét nem mulasztotta el szándékosan, a vagyonnyilatkozatban lényeges adatot, tényt nem közölt szándékosan valótlanul, a vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Mentelmi Bizottság elnöke tájékoztatja a házelnököt, az érintett képviselőt, valamint a kezdeményezőt, és a vagyonnyilatkozattal kapcsolatos eljárás megszűnik. A házelnök a Mentelmi Bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
+
+(8) Ha a vagyonnyilatkozattal kapcsolatos eljárás megindítását követően lefolytatott vizsgálat lezárultával a Mentelmi Bizottság döntéséhez nincs meg a 27/C. § (2) bekezdése szerinti többség, a Mentelmi Bizottság elnöke határozati javaslat benyújtásával kezdeményezi az Országgyűlés döntését.
+
+(9) Az (5) bekezdés alapján a Mentelmi Bizottság rendelkezésére bocsátott adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
 
 ### IX. Fejezet — A KÉPVISELŐK ÉS KÉPVISELŐJELÖLTEK MUNKAJOGI ÉS TÁRSADALOMBIZTOSÍTÁSI JOGÁLLÁSA
 
@@ -1359,9 +1409,9 @@ megegyező mértékben csökkentheti.
 
 (3) Ha a képviselő a megválasztása napján ügyész, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban vagy köznevelési foglalkoztatotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló személy, közigazgatási szerv munkavállalója, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
-97. § (1) A képviselői tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (1a) bekezdés szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti, adó- és vámhatósági szolgálati, rendvédelmi igazgatási, honvédelmi alkalmazotti, valamint bírói és ügyészségi szolgálati jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
+97. § (1) A képviselői tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (2) bekezdése szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti, adó- és vámhatósági szolgálati, rendvédelmi igazgatási, honvédelmi alkalmazotti, valamint bírói és ügyészségi szolgálati jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
 
-(2) A képviselői, illetve a háznagyi tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (1a) bekezdés szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
+(2) A képviselői, illetve a háznagyi tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (2) bekezdése szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 
 (3) Ha a képviselő házelnöki, miniszterelnöki, miniszteri, a miniszterelnök politikai igazgatója, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi megbízatással rendelkezik, a társadalombiztosítás ellátásaira való jogosultság szempontjából e megbízatását kell figyelembe venni.
 
@@ -1384,7 +1434,7 @@ megegyező mértékben csökkentheti.
 - c) a külügyekkel foglalkozó állandó bizottság tagja – a bizottság döntése alapján – a bizottság feladatai ellátásához elengedhetetlenül szükséges minősített adat felhasználására,
 - d) ha a vizsgálóbizottság létrehozásáról szóló országgyűlési határozat minősített adatok megismerésére felhatalmazást adott, a vizsgálóbizottság tagja – a vizsgálóbizottság döntése alapján – a vizsgálóbizottság feladatának ellátásához elengedhetetlenül szükséges minősített adat felhasználására
 
-felhasználói engedély és titoktartási nyilatkozat nélkül, a minősített adat védelmére vonatkozó követelmények megtartásával jogosult.
+titoktartási nyilatkozat nélkül, a minősített adat védelmére vonatkozó követelmények megtartásával jogosult.
 
 ### XI. Fejezet — A KÉPVISELŐI MEGBÍZATÁS MEGSZŰNÉSE
 
@@ -1401,14 +1451,24 @@ felhasználói engedély és titoktartási nyilatkozat nélkül, a minősített 
 - a) aki már nem magyar állampolgár,
 - b) aki jogerős ítélet alapján szabadságvesztés büntetését tölti,
 - c) aki jogerős ítélet alapján büntetőeljárásban elrendelt intézeti kényszergyógykezelését tölti,
-- d) akit bíróság a választójogból a választójog gyakorlásához szükséges belátási képességének csökkenése vagy hiánya miatt kizárt,
+- d) akit bíróság a választójogból a választójog gyakorlásához szükséges belátási képességének csökkenése vagy hiánya miatt jogerős ítélettel kizárt,
 - e) aki közügyek gyakorlásától eltiltás hatálya alatt áll.
 
-(2) Az Országgyűlés a képviselő megválasztásához szükséges feltételek fenn nem állásáról bármely képviselő írásbeli indítványára – a Mentelmi Bizottság véleményének kikérése után – az indítvány kézhezvételétől számított harminc napon belül határoz.
+(2) A képviselői megbízatás (1) bekezdés szerinti megszűnése esetén a 93/A. és a 93/C. §-t kell alkalmazni azzal, hogy
 
-102. § (1) A képviselő megbízatása az Alaptörvény 4. cikk (3) bekezdés f) pontja alapján akkor szűnik meg, ha a képviselő egy éven keresztül egy esetben sem vett részt az Országgyűlés szavazásain.
+- a) az (1) bekezdés a), d) és e) pontjában meghatározott döntést hozó, valamint b) és c) pontjában meghatározott jogkövetkezményt végrehajtó szerv haladéktalanul tájékoztatja a házelnököt a döntésről, illetve a jogkövetkezmény alkalmazásának megkezdéséről és annak időpontjáról,
+- b) a határozati javaslat tartalmazza, hogy az országgyűlési képviselő megválasztásához szükséges feltételek hiányának megállapításával egyidejűleg a képviselői megbízatás megszűnik,
+- c) összeférhetetlenség kimondására nem kerül sor, és
+- d) a 93/C. § (2) bekezdése szerinti visszafizetési kötelezettség az (1) bekezdés szerinti körülmény bekövetkezésének időpontjától az Országgyűlés határozathozataláig terjedő időszakra vonatkozóan keletkezik.
 
-(2) Az Országgyűlés az (1) bekezdésben meghatározottakról bármely képviselő írásbeli indítványára – a Mentelmi Bizottság véleményének kikérése után – az indítvány kézhezvételétől számított harminc napon belül határoz.
+102. § (1) A képviselő megbízatása az Alaptörvény 4. cikk (3) bekezdés f) pontja alapján akkor szűnik meg, ha a képviselő egy éven keresztül egy esetben sem vett részt az Országgyűlés ülésén szavazatszámláló gép alkalmazásával tartott szavazásokon.
+
+(2) A képviselői megbízatás (1) bekezdés szerinti megszűnése esetén a 93/A. és 93/C. §-t kell alkalmazni azzal, hogy
+
+- a) az (1) bekezdésben meghatározott körülményt a házelnök javaslatára a Házbizottság állapítja meg, és erről a házelnök tájékoztatja a Mentelmi Bizottság elnökét,
+- b) a határozati javaslat tartalmazza, hogy annak megállapításával egyidejűleg, hogy az országgyűlési képviselő egy éven keresztül nem vett részt az Országgyűlés munkájában, a képviselői megbízatás megszűnik,
+- c) összeférhetetlenség kimondására nem kerül sor, és
+- d) a 93/C. § (2) bekezdése szerinti visszafizetési kötelezettség az a) pont szerinti tájékoztatástól az Országgyűlés határozathozataláig terjedő időszakra vonatkozóan keletkezik.
 
 103. § (1) Az önkéntes tartalékos szolgálati jogviszonyban álló képviselőnek az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés érdekében történő behívása kizárólag a vele egyeztetett időpontban kerülhet sor. Különleges jogrend esetén a képviselő felkészítés vagy tényleges szolgálatteljesítés érdekében történő behívására kizárólag a kezdeményezésére kerülhet sor. A képviselő az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés megkezdésének az időpontját a behívóparancs kézhezvételétől számított 5 napon belül bejelenti a házelnöknek.
 
@@ -2198,8 +2258,9 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 - d) az Országházban, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben gondoskodik a jogszabályokban meghatározott tűzbiztonsági követelmények megtartásáról, valamint a tevékenységi körükkel kapcsolatos veszélyhelyzetek megelőzésének és elhárításának a feltételeiről,
 - e) ellátja a tárgyalási rend fenntartásával kapcsolatos, e törvényben meghatározott feladatokat,
 - f) a kiemelt nemzeti emlékhely méltóságának megőrzése, valamint a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása érdekében járőr- és őrszolgálatot lát el,
-- g) protokolláris díszelgési feladatokat lát el, és
-- h) elvégzi a részére törvényben előírt, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
+- g) protokolláris díszelgési feladatokat lát el,
+- h) elvégzi a részére törvényben előírt, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat,
+- i) közreműködik az Országgyűlés Hivatala kiemelt nemzeti emlékhely és környezete megóvásával kapcsolatos, jogszabályban meghatározott feladatainak ellátása során.
 
 (3) A (2) bekezdés a) és b) pontjában meghatározott feladatokat az Országgyűlési Őrség kizárólagos hatáskörrel és országos illetékességgel látja el, a feladatok végrehajtásába azonban – együttműködési megállapodás vagy felkérés alapján – más szerveket is bevonhat.
 
@@ -2295,6 +2356,13 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 
 (2) Az Országgyűlési Őrség – az (1) bekezdésben meghatározott személyes adatok kezelésén túl – a 125. § (2) bekezdés a), b), c), e) és f) pontjában meghatározott feladatai ellátása során az intézkedéssel érintett személyről, a környezetéről, továbbá az intézkedés szempontjából lényeges körülményről, tárgyról képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban együtt: felvétel) készít.
 
+(2a) Az Országgyűlési Őrség
+
+- a) a 125. § (2) bekezdés d) pontjában meghatározott feladata ellátása céljából az Országházról, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekről, és
+- b) a 125. § (2) bekezdés i) pontjában meghatározott feladata ellátása céljából az Országgyűlés Hivatala vagyonkezelésébe tartozó, a kiemelt nemzeti emlékhely részét képező ingatlanokról és azok környezetéről
+
+pilóta nélküli állami légijárművel felvételt készít.
+
 (3) Az Országgyűlési Őrség a 125. § (2) bekezdés a) pontjában meghatározott feladata ellátása során a házelnök szállítására használt gépjármű külső környezete megfigyelésére képfelvevő eszközt alkalmaz és képfelvételt készít.
 
 (4) Az Országgyűlési Őrség elektronikus megfigyelőrendszer működtetése útján képfelvételt a 125. § (2) bekezdés a), b), c), e) és f) pontjában meghatározott feladatai ellátásának támogatása, az Országház, az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint a házelnök tartózkodási helye biztosítása, a létesítményekben tartózkodók biztonsága, az őrzésbiztonsági feltételek ellenőrzése, a rendkívüli események megelőzése, következményeinek elhárítása és kivizsgálásának elősegítése, a jogsértések észlelése és megelőzése, az elkövető tettenérése céljából készít, illetve kezel.
@@ -2306,7 +2374,7 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 
 (6) Az Országgyűlési Őrség az ügyeleti szolgálatához beérkezett hívásokat az elsődleges intézkedések foganatosításának biztosítása érdekében rögzíti.
 
-(7) Az Országgyűlési Őrség a (2)–(4) bekezdés alapján készített felvételt, illetve az abban szereplő személyes adatot
+(7) Az Országgyűlési Őrség a (2), (3) és (4) bekezdés alapján készített felvételt, illetve az abban szereplő személyes adatot
 
 - a) büntetőeljárás, szabálysértési eljárás vagy közigazgatási hatósági eljárás kezdeményezése, vagy
 - b) az országgyűlési őr intézkedése jogszerűségének közigazgatási hatósági eljárásban történő vizsgálata
@@ -2315,7 +2383,7 @@ céljából használhatja fel.
 
 (8) A (6) bekezdés alapján készített hangfelvétel, illetve az abban szereplő személyes adat a hívással elkövetett, vagy a hívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás kezdeményezése során, vagy a hívást követő intézkedés jogszerűségének közigazgatási hatósági eljárás kezdeményezése céljából használható fel.
 
-(9) A (2)–(4) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat
+(9) A (2), (3) és (4) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat
 
 - a) bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során,
 - b) titkos információgyűjtés keretében,
@@ -2328,7 +2396,9 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (11) A (6) bekezdés alapján készített hangfelvétel, illetve az abban szereplő személyes adat a hívással elkövetett, vagy a hívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során, vagy a hívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében a megkereső, illetve adatszolgáltatást kérő, az eljárásra feladat- és hatáskörrel rendelkező nyomozó hatóság, szabálysértési hatóság, ügyészség, bíróság vagy más közigazgatási hatósági eljárást lefolytató szerv, továbbá az érintett személy részére továbbítható.
 
-(12) A (2)–(4) és (6) bekezdés alapján rögzített felvételt – ha a (7)–(11) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség – a rögzítést követő harminc nap elteltével törölni kell.
+(11a) A (2a) bekezdés b) pontja alapján készített felvétel az abban szereplő személyes adat felismerhetetlenné tételét követően továbbítható az Országgyűlés Hivatala részére, a kiemelt nemzeti emlékhely és környezete megóvásával kapcsolatos feladatok ellátása céljából.
+
+(12) A (2)–(4) és (6) bekezdés alapján rögzített felvételt – ha a (7)–(11a) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség – a rögzítést követő harminc nap elteltével törölni kell.
 
 (13) Az, akinek jogát vagy jogos érdekét a felvétel rögzítése érinti, a felvétel rögzítésétől számított harminc napon belül – a jog vagy jogos érdek valószínűsítésével – kérheti, hogy a (7)–(11) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb cél érdekében az adatot annak kezelője a (12) bekezdés szerinti határidőben ne törölje. Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a kérelem beérkezésétől számított harminc napon belül nem kerül sor a megkeresésre, a rögzített felvételt törölni kell.
 

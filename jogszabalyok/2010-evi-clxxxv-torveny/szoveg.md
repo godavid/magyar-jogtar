@@ -3235,6 +3235,7 @@ a Biztos hivatalánál panasszal élhet.
 - p) ellátja az önszabályozó szervezetek eljárásával kapcsolatos nem hatósági feladatokat,
 - q) összeállítja a társadalom számára kiemelten nagy jelentőséggel bíró események listáját,
 - r) kidolgozza a kiskorút szerepeltető olyan tudósításokra vonatkozó ajánlását, amelyek bűncselekményt vagy megalázó, kiszolgáltatott helyzetben lévő kiskorút mutatnak be,
+- s) kidolgozza az Smtv. 20/A. § szerinti szabályzatra és hatékony megoldások követelményeire vonatkozó ajánlást.
 
 (2) A Médiatanács látja el a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU európai parlamenti és tanácsi irányelv 19–26. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében. Ennek végrehajtásánál a kölcsönös jogsegély során a Médiatanács a 2007/76/EK bizottsági határozatnak megfelelően jár el.
 
@@ -3900,6 +3901,8 @@ rendeletben megállapítsa.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
+218/F. § A Médiatanács az Smtv. 20/A. § szerinti szabályzatra és a hatékony megoldások követelményeire vonatkozó ajánlását 2025. február 28-ig teszi közzé. Az Smtv. 20/A. § (1) bekezdésében foglalt kötelezettségeknek az internetes sajtótermék kiadója 2025. április 1-jétől köteles eleget tenni. Az internetes sajtótermék kiadójával szemben e kötelezettségek megsértése miatt hatósági eljárás csak ezen időpont után elkövetett jogsértés miatt indítható.
+
 ### V. Fejezet
 
 #### 219. §
@@ -3926,7 +3929,7 @@ rendeletben megállapítsa.
 
 ### VI/A. Fejezet — Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-229. § E törvény 1–203. §-a, 206–209. § és 211–218/E. §-a, 1. számú melléklete és 4. számú melléklete az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján sarkalatosnak minősül.
+229. § E törvény 1–203. §-a, 206–209. § és 211–218/F. §-a, 1. számú melléklete és 4. számú melléklete az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján sarkalatosnak minősül.
 
 ### VII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 

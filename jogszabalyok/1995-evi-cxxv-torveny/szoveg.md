@@ -181,77 +181,45 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (6) A titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 
-(7) A Nemzetbiztonsági Szakszolgálat – a 6. § g) pontjában foglaltak és a katonai kibertér műveletek kivételével – információbiztonsággal kapcsolatos feladatkörében
+(7)
 
-- a) ellátja az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó szervek tekintetében az ott meghatározott hatásköri szabályok szerint a kibertérből érkező fenyegetésekkel és támadásokkal szembeni védelmet,
-- b) a honvédelmi ágazat kivételével irányítja a kibertérből érkező fenyegetésekre történő felkészülést és a kapcsolódó biztonsági feladatokat,
-- c) ellenőrzi – az azon folytatott kommunikáció megismerése nélkül – az elektronikus hírközlési hálózatok forgalmát, észleli a kibertérből érkező fenyegetéseket és támadásokat,
-- d) végrehajtja vagy kezdeményezi a kibertérből érkező támadás megszakításához szükséges intézkedéseket.
+(8)
 
-(8) A (7) bekezdés d) pontja szerinti intézkedés végrehajtására a Kormány által kijelölt személy erre vonatkozó döntése alapján van lehetőség. A támadás megszakítását követően meg kell vizsgálni a védelem fokozásához szükséges további intézkedések lehetséges körét, illetve az ország védelmével összefüggő további döntések szükségességét.
+(9)
 
-(9) A (7) bekezdés d) pontja szerinti intézkedésnek
-
-- a) az okozott sérelemmel vagy közvetlen fenyegetéssel arányosnak és szükséges mértékűnek kell lennie, és törekedni kell arra, hogy a támadás megszakításán túli eredményre vagy sérelemre ne vezessen,
-- b) biztosítani kell az összhangot a nemzetbiztonsági, honvédelmi, bűnüldözési és külpolitikai érdekekkel és törekvésekkel.
-
-(10) Külföldről érkező jelentős kibertámadás esetén a foganatosított intézkedésekről és azok okairól tájékoztatni kell a külpolitikáért felelős minisztert a további intézkedések megtétele céljából.
+(10)
 
 (11) A Nemzetbiztonsági Szakszolgálat a (3) bekezdés szerint, az (1) bekezdés f) és i) pontjában meghatározott feladatai ellátása érdekében saját kezdeményezésre végzett tevékenységből, illetve az (1) bekezdés f) és i) pontjában meghatározott feladatai érdekében a saját kezdeményezésre alkalmazott eszközök és módszerek által megszerzett, a Nemzeti Információs Központ 8/A. §-ban meghatározott feladat- és hatásköre gyakorlásához szükséges információkat haladéktalanul biztosítja a Nemzeti Információs Központnak.
 
-8/A. § (1) A Nemzeti Információs Központ vizsgálja Magyarország biztonsági és bűnügyi helyzetét, amelynek keretében
+8/A. § (1) A Nemzeti Információs Központ
 
-- a) figyelemmel kíséri és a rendelkezésre álló valamennyi adat felhasználásával folyamatosan elemzi Magyarország biztonsági, nemzetbiztonsági, bűnügyi és terrorfenyegetettségi helyzetét;
-- b) az együttműködő szervek által átadott adatokat elemzi-értékeli és ennek alapján – az e törvényben, illetve a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben meghatározott kivétellel – kizárólagos hatáskörrel teljesíti a hírigényeket;
-- c) folyamatosan figyelemmel kíséri a Magyarország biztonsági, nemzetbiztonsági, bűnügyi és terrorhelyzetére vonatkozó információkat;
-- d) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;
-- e) figyelemmel kíséri a Magyarország biztonsági, nemzetbiztonsági, terrorveszélyeztetettségi és bűnügyi helyzetét érintő tendenciákat, Magyarország biztonsági, nemzetbiztonsági, terrorveszélyeztetettségi és bűnügyi helyzetét érintő új jelenségekről elemzéseket, tanulmányokat készít.
+- a) kormányzati tájékoztató és döntés-előkészítő tevékenységet végez, amelynek keretén belül – az e törvényben meghatározott kivételekkel – kizárólagos hatáskörrel teljesíti a hírigényeket;
+- b) nyílt információgyűjtést és -feldolgozást végző szolgáltató és támogató szervet működtet a kormányzati tájékoztató tevékenységének ellátása, valamint az együttműködő szervek és az ügyészség tevékenységének elősegítése céljából;
+- c) Magyarország biztonsági, nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztatókat, kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
+- d) az együttműködő szerveket és az ügyészséget visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
+- e) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott eljárásokat és ezekről tájékoztatja az érintett ügyészséget, illetve együttműködő szervet;
+- f) amennyiben olyan információt szerez, amely megalapozza az együttműködő szerv, valamint az ügyészség eljárását, intézkedését, úgy erre vonatkozó kezdeményezéssel él, vagy javaslatot tesz, amelynek elfogadásáról vagy elutasításáról az együttműködő szerv nyolc munkanapon belül tájékoztatja az irányító minisztert és a Nemzeti Információs Központot;
+- g) a Magyarország terrorhelyzetére vonatkozó információk értékelése alapján javaslatot tesz a terrorfenyegetettség szintjének meghatározására;
+- h) országos jelentőségű, több szervet érintő ügyekben elemző-értékelő és koordinációs tevékenységet lát el;
+- i) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;
+- j) ellátja az utasadat-információs egység feladatait, e feladatkörében a rendelkezésére álló utasadatok és információk tekintetében elemző-értékelő tevékenység keretében kockázatelemzést végezhet;
+- k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatra, információra.
 
-(2) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a biztonsági, nemzetbiztonsági, bűnügyi és terrorfenyegetettségi kérdésekkel kapcsolatos stratégiai döntések meghozatalának elősegítése céljából
+(2) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a nemzeti szuverenitás védelméről szóló törvény szerinti feladatok ellátásának elősegítése céljából a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Szuverenitásvédelmi Hivatal részére tájékoztató tevékenységet folytat.
 
-- a) javaslatot tesz a nemzetbiztonsági szolgálatokat irányító miniszterek részére az időszerű feladatok meghatározására;
-- b) kormányzati tájékoztató és döntéstámogató, valamint biztonságpolitikai és bűnügyi stratégiai elemző tevékenységet folytat, ennek érdekében az együttműködő szervek számára információs igényeket határoz meg;
-- c) a Magyarország terrorhelyzetére vonatkozó információk értékelése alapján javaslatot tesz a terrorfenyegetettség szintjének meghatározására;
-- d) összeállítja, folyamatosan aktualizálja, majd az együttműködő szervek irányába közvetíti az eseti és időszakos hírigényeket;
-- e) a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Kormány, valamint a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport részére tájékoztató tevékenységet folytat;
-- f) az általa kezelt adatok elemzésének eredményeként személyazonosításra alkalmatlan statisztikai adatok szolgáltatásával segítséget nyújt a biztonsági és bűnügyi kérdésekkel kapcsolatos kormányzati döntések meghozatalához.
+(3) Az (1) bekezdés a) pontjában foglalt tevékenysége keretén belül a Nemzeti Információs Központ javaslatot tesz a nemzetbiztonsági szolgálatokat irányító miniszterek részére az időszerű feladatok meghatározására, valamint az együttműködő szervek számára információs igényeket fogalmaz meg.
 
-(2a) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a nemzeti szuverenitás védelméről szóló törvény szerinti feladatok ellátásának elősegítése céljából a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Szuverenitásvédelmi Hivatal részére tájékoztató tevékenységet folytat.
+(4) A hírigények teljesítése érdekében a Nemzeti Információs Központ bármely együttműködő szervet adat- és információátadásra, továbbá a szolgáltatott adatok, információk kiegészítésére, pontosítására hívhatja fel.
 
-(3) A Nemzeti Információs Központ támogató, koordinációs elemző-értékelő tevékenység során
+(5) Az együttműködő szerv a Nemzeti Információs Központ (3) és (4) bekezdésben meghatározott megkeresését köteles a Nemzeti Információs Központ által meghatározott határidőben teljesíteni. Az együttműködő szerv a teljesítés akadályáról, valamint ennek okáról a Nemzeti Információs Központot a megkeresés megérkezését követő 24 órán belül tájékoztatja.
 
-- a) elemző, tájékoztató és koordinációs tevékenysége kiterjed
-  - aa) az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint
-  - ab) az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatokra, információkra;
-- b) az együttműködő szerveket és az ügyészséget visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
-- c) a nemzeti szintű koordináció elősegítése érdekében, elemzési feladatai ellátása, illetve az együttműködő szervek támogatása és az ügyészség a) pont ab) alpontja szerinti hatásköre gyakorlásának támogatása céljából adatbázisokat kezel;
-- d) nyílt információgyűjtést és -feldolgozást végző szolgáltató és támogató szervet működtet;
-- e) elemzések készítésével információs támogatást nyújt a Kormány, a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport számára;
-- f) országos jelentőségű, több szervet érintő, valamint a Kormány, a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport által meghatározott ügyekben elemző-értékelő és koordinációs tevékenységet lát el;
-- g) Magyarország biztonsági, nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, ezek meghatározott elemeivel, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztató jelentéseket, háttér- és kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az a) pont ab) alpontja szerinti feladatok törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
-- h) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott titkos információgyűjtéseket, leplezetteszköz-alkalmazásokat, illetve az ugyanazon bűncselekmény miatt párhuzamosan folytatott nyomozásokat és előkészítő eljárásokat érintő párhuzamos adatkezeléseket és ezekről tájékoztatja az érintett ügyészséget, illetve együttműködő szervet;
-- i) abban az esetben, ha
-  - ia) bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, az 52/E. § (2) bekezdésében foglaltak figyelembevételével feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy ügyészségnél, és átadja az általa összegyűjtött adatokat, szükség esetén javaslatot tehet leplezett eszközök alkalmazására;
-  - ib) olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye, az 52/E. § (2) bekezdésében foglaltak figyelembevételével előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, nyomozó hatóságnál, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervénél vagy a rendőrség terrorizmust elhárító szervénél, és átadhatja az általa összegyűjtött adatokat, szükség esetén javaslatot tehet leplezett eszközök alkalmazására;
-  - ic) olyan információt szerez meg, amely alapján nemzetbiztonsági szolgálat vagy a rendőrség terrorizmust elhárító szervének hatáskörébe tartozó intézkedés megtételének lehet helye, ennek kezdeményezése céljából a hatáskörrel rendelkező nemzetbiztonsági szolgálatnak, illetve a rendőrség terrorizmust elhárító szervének átadhatja az általa összegyűjtött adatokat, szükség esetén javaslatot tehet titkos információgyűjtés lefolytatására;
-- j) figyelemmel kíséri, hogy az együttműködő szerv vagy az ügyészség által folytatott előkészítő eljárás, nyomozás vagy titkos információgyűjtés során keletkezett és a Nemzeti Információs Központ által felhasznált adattal kapcsolatban rendelkezésre áll-e az adatot pontosító, kiegészítő információ; ha azt az ügyészség vagy másik együttműködő szerv kezeli, a Nemzeti Információs Központ értesíti az érintett szerveket és kezdeményezi a kapcsolatfelvételt;
-- k) figyelemmel kíséri a bűnszervezetek és terrorszervezetek, valamint a szervezett bűnözői és terrorista csoportok tevékenységét, az ilyen szervezetek és csoportok egymáshoz való viszonyát, kapcsolatait, a jogsértő módon szerzett vagyonuk, illetve az ilyen vagyon jogsértő eredetének leplezésére irányuló törekvéseik és az ilyen célt szolgáló vállalkozásaik elemzésével segítséget nyújt az ellenük való fellépéshez;
-- l) az általa kezelt adat együttműködő szerv részére történő továbbításával egyidejűleg javaslatot tesz az adat további, az együttműködő szerv feladat- és hatáskörébe tartozó eljárásban történő felhasználására;
-- m) hírigény-teljesítés érdekében bármely együttműködő szervet az általa kezelt adatok kiegészítésére, pontosítására hívhatja fel.
+(6) Az (1) bekezdés e) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Nemzeti Információs Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
 
-(3a) Az együttműködő szerv a Nemzeti Információs Központ (3) bekezdés m) pontjában meghatározott felhívását – a (3b) bekezdés szerinti kivétellel – köteles a Nemzeti Információs Központ által meghatározott határidőben teljesíteni.
+(7) A Nemzeti Információs Központ ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését
 
-(3b) Az együttműködő szerv a Nemzeti Információs Központ (3) bekezdés m) pontjában meghatározott felhívását csak abban az esetben tagadhatja meg, ha annak végrehajtásával e törvény rendelkezését sértené meg.
-
-(3c) Az együttműködő szerv a (3b) bekezdés szerinti megtagadás okáról a Nemzeti Információs Központot a felhívás megérkezését követő 24 órán belül tájékoztatja.
-
-(4) A Nemzeti Információs Központ ellátja az utasadat-információs egység feladatait.
-
-(5) A (3) bekezdés h) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Nemzeti Információs Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
-
-(6) Az együttműködő szerv a Nemzeti Információs Központ által továbbított adat felhasználásáról, valamint a Nemzeti Információs Központ által az adat felhasználására tett javaslat, illetve a Nemzeti Információs Központ által tett egyéb jelzés, kezdeményezés elfogadásáról vagy elutasításáról nyolc munkanapon belül tájékoztatja az irányító minisztert és a Nemzeti Információs Központot.
-
-(7) A Nemzeti Információs Központ a saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését.
+- a) a saját állománya tekintetében,
+- b) a Nemzeti Információs Központba vezényelt állomány tekintetében, valamint
+- c) azon személyek tekintetében, akiknek szolgálatteljesítési helyeként a Nemzeti Információs Központot jelölték ki.
 
 9. § A nemzetbiztonsági szolgálatok
 
@@ -890,13 +858,13 @@ kapcsolatos adatok.
 
 ### A Nemzeti Információs Központ adatkezelésére vonatkozó különös rendelkezések
 
-52/A. § (1) A Nemzeti Információs Központ az együttműködő szervtől adatokat az 52/B–52/G. §-ban meghatározottak szerint kizárólag a 8/A. § (1)–(3) bekezdésében meghatározott feladatok ellátása céljából szerezhet be.
+52/A. § (1) A Nemzeti Információs Központ az együttműködő szervtől adatokat az 52/B–52/G. §-ban meghatározottak szerint kizárólag a 8/A. § (1) bekezdésében meghatározott feladatok ellátása céljából szerezhet be.
 
 (2)
 
 (3) A Nemzeti Információs Központ és a Legfőbb Ügyészség megállapodásban rögzíti a megállapodás megkötését követően indult, az ügyészség és az együttműködő szervek által párhuzamosan folytatott titkos információgyűjtések, leplezett eszköz-alkalmazások, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárások és nyomozások Nemzeti Információs Központ általi feltárása, illetve ezen tevékenységek támogatása érdekében elektronikus úton átadható adatok, tájékoztatás, illetve iratok körét, valamint az adatszolgáltatás részletes rendjét.
 
-52/B. § (1) A Nemzeti Információs Központ az együttműködő szerv által kezelt, a Nemzeti Információs Központ 8/A. § (1)–(3) bekezdésében meghatározott feladat- és hatáskörének gyakorlásához szükséges adatot
+52/B. § (1) A Nemzeti Információs Központ az együttműködő szerv által kezelt, a Nemzeti Információs Központ 8/A. § (1) bekezdésében meghatározott feladat- és hatáskörének gyakorlásához szükséges adatot
 
 - a) – e törvény eltérő rendelkezése hiányában – az azt tartalmazó adatkezelési rendszerből közvetlen elektronikus adatkapcsolat útján,
 - b) az azt tartalmazó adatkezelési rendszerhez közvetlen és teljes körű hozzáférést biztosító más módon, elsősorban a Nemzeti Információs Központ által meghatározott elektronikus adathordozó eszközzel
@@ -930,7 +898,7 @@ szerzi be.
 
 52/D. § A Nemzeti Információs Központ nemzetbiztonsági célból beszerzi és kezeli a törvénnyel kihirdetett nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján az ott meghatározott adatkörben és időtartamban a külföldi szerv által a rendelkezésére bocsátott adatot is.
 
-52/E. § (1) A Nemzeti Információs Központ az általa kezelt adatot az adat kezelésére feljogosított, hatáskörénél fogva érintett ügyészségnek vagy együttműködő szervnek a 8/A. § (3) bekezdésében foglaltakra figyelemmel továbbítja, feltéve, hogy az ügyészség vagy az együttműködő szerv törvény alapján jogosult az adat kezelésére és az adat kezelése hatásköre gyakorlásához, illetve feladatai ellátásához szükséges.
+52/E. § (1) A Nemzeti Információs Központ az általa kezelt adatot az adat kezelésére feljogosított, hatáskörénél fogva érintett ügyészségnek vagy együttműködő szervnek a 8/A. § (1) bekezdésében foglaltakra figyelemmel továbbítja, feltéve, hogy az ügyészség vagy az együttműködő szerv törvény alapján jogosult az adat kezelésére és az adat kezelése hatásköre gyakorlásához, illetve feladatai ellátásához szükséges.
 
 (2) Az együttműködő szerv vezetője nemzetbiztonsági vagy bűnüldözési érdekre tekintettel a Nemzeti Információs Központ által közvetlen elektronikus adatkapcsolat útján elért vagy a Nemzeti Információs Központnak más módon szolgáltatott, titkos információgyűjtés eredményeként keletkezett adat büntetőeljárásban történő felhasználását, illetve meghatározott más együttműködő szerv vagy más állami adatkezelő szerv részére történő továbbítását előzetes hozzájárulásához kötheti.
 
@@ -944,13 +912,13 @@ szerzi be.
 
 52/G. § A Nemzeti Információs Központ által kezelt adatot tartalmazó adatkezelési rendszerbe csak a Nemzeti Információs Központ hozzáférési jogosultsággal rendelkező munkatársa, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítói jogkörében eljárva, továbbá sarkalatos törvény által feljogosított más szerv tekinthet be, annak adattartalmáról felvilágosítást vagy értesítést kérhet.
 
-52/H. § (1) A Nemzeti Információs Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
+52/H. § (1) A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
 
 (2) A légiutas-adatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
 
-(3) A légiutas-adat szolgáltatója a Nemzeti Információs Központ által meghatározott elektronikus formátumban és módon adja át a légiutas-adatot.
+(3) A Nemzeti Információs Központ és a légiutas-adat szolgáltatója közötti kapcsolattartás, valamint a légiutas-adat átadásának módját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletben határozza meg.
 
-(4) A Nemzeti Információs Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében
+(4) A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében
 
 - a) a légiutas-adat szolgáltatója által szolgáltatott légiutas-adatokat összeveti az elemző-értékelő tevékenység céljából kezelt adatokkal,
 - b) légiutas-adatok tekintetében a (2) bekezdésben meghatározott bűncselekményekre, tevékenységekre, illetve törekvésekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
@@ -960,7 +928,7 @@ szerzi be.
 
 (6) A Nemzeti Információs Központ a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Nemzeti Információs Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
 
-(7) Ha a Nemzeti Információs Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (3) bekezdés i) pontjában meghatározottak szerint jár el.
+(7) Ha a Nemzeti Információs Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (1) bekezdés f) pontjában meghatározottak szerint jár el.
 
 (8) A Nemzeti Információs Központ az átvett légiutas-adatot a Nemzeti Információs Központhoz érkezést követő öt évig kezeli.
 
@@ -1044,7 +1012,7 @@ indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazono
 
 52/M. § A Nemzeti Információs Központ évente, jogszabályban meghatározottak szerint az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott légiutas-adatokról összeállított statisztikai információkat; ezek az információk személyes adatokat nem tartalmazhatnak.
 
-52/N. § (1) A Nemzeti Információs Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében átveszi és kezeli a hajó felelős vezetője vagy az úszólétesítmény üzemben tartója által a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettség teljesítése érdekében biztosított elektronikus felületen rögzített adatokat (a továbbiakban: folyami utasadatok).
+52/N. § (1) A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében átveszi és kezeli a hajó felelős vezetője vagy az úszólétesítmény üzemben tartója által a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettség teljesítése érdekében biztosított elektronikus felületen rögzített adatokat (a továbbiakban: folyami utasadatok).
 
 (2) A folyami utasadatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
 
@@ -1561,7 +1529,7 @@ iránt intézkedik.
   - it) azon alapítvány, közalapítvány vezető tisztségviselője, vezető állású munkavállalója, felügyelőbizottságának tagja, amely felett az alapítói jogokat a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv gyakorolja;
   - iu) az Országgyűlési Őrség személyi állománya;
   - iv) a Nemzeti Emlékezet Bizottsága tagja;
-  - iw) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény (a továbbiakban: Lrtv.) szerinti közigazgatási hatósági eljárásban a hatóságok és a szakhatóságok részéről részt vevő személy, valamint – az Lrtv. szerinti üzemeltető kezdeményezésére – az európai létfontosságú rendszerelemekre vonatkozó, Lrtv. szerinti azonosítási eljárásban az üzemeltető által igénybe vett közreműködő személy;
+  - iw) a kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezetekkel, kritikus infrastruktúrákkal, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, az ország védelme és biztonsága szempontjából jelentős szervezetekkel, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal kapcsolatos közigazgatási hatósági eljárásban a hatóságok és az ágazati szakhatóságok részéről eljáró személy;
   - ix) a Szabályozott Tevékenységek Felügyeleti Hatósága foglalkoztatottja.
   - iy) az Országos Atomenergia Hivatal foglalkoztatottja;
 - j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
@@ -1683,6 +1651,8 @@ iránt intézkedik.
 - a) az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése és a vádeljárás lefolytatása érdekébe történő felhasználásáról szóló 2016. április 27-i 2016/681/EU Európai Parlament és a Tanács irányelv.
 - b) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet;
 - c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [11/A. §, 45. §].
+
+80/A. § A 74. § i) pont iw) alpontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 81. § E törvény 40. és 41. §-ának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 

@@ -9,7 +9,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 1. § E törvény és a végrehajtására kiadott jogszabályok alkalmazásában:
 
 - 1. a földhasználat közvetett megváltozása tekintetében alacsony kockázatot jelentő bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok: azok a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok, amelyek alapanyagainak előállítására olyan rendszer keretében került sor, amely – a mezőgazdasági gyakorlatok javítása, valamint a korábban nem növénytermesztésre használt területek termelésbe való bevonása révén – lehetővé teszi az élelmiszer- és takarmánynövény-alapú bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok okozta kiszorító hatás elkerülését, és amelyeket az e törvény végrehajtására kiadott kormányrendeletben meghatározott, bioüzemanyagokra, folyékony bio-energiahordozókra és biomasszából előállított tüzelőanyagokra vonatkozó fenntarthatósági kritériumoknak megfelelően állítottak elő;
-- 2. alternatív üzemanyag: a közlekedés energiaellátásában a kőolajforrásokat legalább részben helyettesítő üzemanyag vagy energiaforrás – ideértve a villamos energiát, hidrogént, bioüzemanyagot, szintetikus és paraffinos üzemanyagokat, földgázt (beleértve a biometánt) gáznemű (sűrített földgáz – CNG) és cseppfolyósított (cseppfolyósított földgáz – LNG) formában, valamint a cseppfolyósított propán-bután gázt (LPG) –, amely potenciálisan hozzájárul a közlekedési ágazat dekarbonizációjához és javítja annak környezeti teljesítményét;
+- 2.
 - 3. biomassza: a mezőgazdaságból (a növényi és állati eredetű anyagokat is beleértve), erdőgazdálkodásból és a kapcsolódó iparágakból – többek között a halászatból és az akvakultúrából – származó, biológiai eredetű termékek, hulladékok és maradékanyagok biológiailag lebontható része, valamint az ipari és települési hulladék biológiailag lebontható része;
 - 3a. biomasszából előállított tüzelőanyagok: biomasszából előállított szilárd és gáz halmazállapotú tüzelőanyagok;
 - 3b. biomassza-energiatermelő: biomasszából hő- vagy hűtőenergiát vagy villamosenergiát előállító természetes személy vagy gazdálkodó szervezet;
@@ -53,7 +53,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 #### 2. A megújuló energia közlekedési célú felhasználásának növelése
 
-2. § A megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya (a továbbiakban: tagállami célszám) 2020-ban a közlekedési célra felhasznált végső energiafogyasztás 10%-a, 2030-ban a közlekedési célra felhasznált végső energiafogyasztás 14%-a.
+2. § A megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya (a továbbiakban: tagállami célszám) 2030-ban a közlekedési célra felhasznált végső energiafogyasztás 25%-a.
 
 #### 2/A. Eljárásjogi szabályok
 
@@ -105,7 +105,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 6. § (1) A forgalomba hozatal céljából előállított, beszerzett, értékesített és a forgalomba hozott bioüzemanyagra vonatkozó, valamint bioüzemanyag fenntarthatósági követelményeknek való megfelelését és nyomon követhetőségét igazoló, az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti adatokat az e törvény végrehajtására kiadott jogszabályban rögzítettek szerint kell nyilvántartani és bizonylatolni.
 
-(2) Az üzemanyag-forgalmazó köteles évente, a tárgyévet követő év március 20. napjáig a tárgyévben forgalomba hozott motorbenzinről, dízelgázolajról és bioüzemanyagról az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti jelentést az állami adó- és vámhatóságnak benyújtani.
+(2) Az üzemanyag-forgalmazó köteles évente, a tárgyévet követő év április 20. napjáig a tárgyévben forgalomba hozott motorbenzinről, dízelgázolajról és bioüzemanyagról az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti jelentést az állami adó- és vámhatóságnak benyújtani.
 
 (3) Az üzemanyag-forgalmazó a Jöt. szerinti engedélye megszűnése esetén – az engedély megszűnésének napjával – köteles a (2) bekezdés szerinti jelentést elkészíteni, és az engedélye megszűnésének napját követő 12 munkanapon belül az állami adó- és vámhatósághoz benyújtani.
 
@@ -141,6 +141,8 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 8. § (1) A biomassza-kereskedő, a biomassza-feldolgozó, a biomassza-energiatermelő, valamint az üzemanyag-forgalmazó a folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, a köztes termékek és ezek alapanyagainak értékesítése, feldolgozása vagy felhasználása során az e törvény végrehajtására kiadott rendeletben meghatározott tartalmú dokumentummal igazolja a bioüzemanyag, folyékony bio-energiahordozó, a biomasszából előállított tüzelőanyag, a köztes termék és ezek alapanyagául szolgáló termékek nyomon követhetőségét.
 
 (2) A biomassza-kereskedő, a biomassza-feldolgozó, az üzemanyag-forgalmazó, valamint a biomassza-energiatermelő – a biomassza típusának megfelelően – a mezőgazdasági igazgatás szerv és az erdészeti hatóság részére az e törvény, valamint a végrehajtására kiadott rendeletben meghatározott módon és időközönként az ott meghatározott adatokat szolgáltatja.
+
+(3) Közlekedési célú bioüzemanyagok és biogázok esetében a biomassza-kereskedő, a biomassza-feldolgozó és az üzemanyag-forgalmazó az (EU) 2018/2001 parlamenti és tanácsi irányelvnek az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2413 európai parlamenti és tanácsi irányelv 1. cikk 22 pontja által beillesztett 31a. cikkében meghatározott Uniós Adatbázisba (a továbbiakban: Uniós Adatbázis) regisztrál, és rögzíti az e törvény végrehajtására kiadott rendeletben meghatározott módon és időközönként az e törvény végrehajtására kiadott rendeletben meghatározott adatokat.
 
 8/A. § (1) A biomassza-kereskedő, a biomassza-feldolgozó, valamint az üzemanyag-forgalmazó a nyomon követhetőségre vonatkozó adatszolgáltatási kötelezettségét a mezőgazdasági igazgatási szerv által létrehozott és működtetett közhiteles elektronikus nyilvántartáson keresztül teljesítheti.
 
@@ -207,41 +209,9 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 #### 6. Bejelentés, nyilvántartás, adatszolgáltatás
 
-9. § (1) Az üzemanyag-forgalmazó köteles nyilvántartani az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti tartalommal az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátást.
+#### 9. §
 
-(2) Az üzemanyag-forgalmazó minden naptári évre vonatkozóan, a tárgyévet követő év augusztus 31. napjáig jelentést nyújt be az állami adó- és vámhatóságnak:
-
-- a) az általa forgalomba hozott üzemanyag és más, közlekedésben felhasznált energiatermék tekintetében a forgalomba hozott teljes mennyiségről, valamint
-- b) az üzemanyagból vagy más közlekedésben felhasznált energiatermékből származó, a teljes életciklusra vonatkozó, energiaegységre számított üvegházhatású gázkibocsátásról.
-
-(2a) Az üzemanyag-forgalmazó a Jöt. szerinti engedélye megszűnése esetén – az engedély megszűnésének napjával – köteles a (2) bekezdés szerinti jelentést elkészíteni, és az engedélye megszűnésének napját követő 12 munkanapon belül az állami adó- és vámhatósághoz benyújtani.
-
-(3) Az állami adó- és vámhatóság az üzemanyag-forgalmazók jelentéseiről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
-
-(4) Ha az üzemanyag-forgalmazó a (2) bekezdés szerinti jelentést az előírt határidőre nem nyújtja be, vagy nem a meghatározott tartalommal nyújtja be, vagy valótlan adatot közöl, az állami adó- és vámhatóság bírságot szab ki.
-
-(5) A (4) bekezdés szerinti esetben az üzemanyag-forgalmazó egyszázezer forinttól egyszázmillió forintig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott üzemanyag vagy energiatermék azon mennyiségét, amelyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható.
-
-10. § (1) Az üzemanyag-forgalmazó köteles az Európai Unió jogi aktusában meghatározott kiindulási értékhez képest 2020. december 31-ig 6%-kal csökkenteni és ezen a szinten tartani az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó energiaegységre számított üvegházhatású gázkibocsátást. A csökkentett üvegházhatású gázkibocsátás szintjének fenntartását az üzemanyag-forgalmazó a 9. § (2) és (2a) bekezdése szerinti tárgyévre vonatkozó jelentéstétel során igazolja.
-
-(2) Az üzemanyag-forgalmazók csoportjai dönthetnek úgy, hogy együttesen tesznek eleget az (1) bekezdés szerinti csökkentési kötelezettségnek, amely esetben egy üzemanyag-forgalmazónak minősülnek.
-
-(3) Az üzemanyag-forgalmazó az (1) bekezdés szerinti csökkentési kötelezettségének teljesítéséhez csak olyan bioüzemanyagot vehet figyelembe, amelyre a fenntarthatósági követelmények teljesítését igazolták.
-
-(4) Az (1) bekezdésben előírt csökkentési kötelezettség teljesítését az üzemanyag-forgalmazó a 9. § (2) és (2a) bekezdés szerinti, 2020. tárgyévre vonatkozó jelentéstétel során tudja igazolni. Ha az üzemanyag-forgalmazók csoportja együttesen tesz eleget a kötelezettségnek, az igazoláshoz közös jelentés benyújtása szükséges.
-
-(5) A kötelezettség elmulasztása esetén az állami adó- és vámhatóság bírságot szab ki, amelynek mértékét az 1. melléklet rögzíti.
-
-(6) Az (5) bekezdés szerinti bírságot az állami adó- és vámhatóság abban az esetben szabhatja ki, ha a 9. § (2) és (2a) bekezdése szerinti jelentést
-
-- a) 2020. tárgyévre vonatkozóan az üzemanyag-forgalmazó
-  - aa) hiánytalanul benyújtotta, és az abban foglaltak alapján megállapítható az (1) bekezdésben előírt kötelezettség elmulasztása, vagy
-  - ab) a 9. § (5) bekezdése szerinti bírságot megállapító határozatban rögzített határidőn belül, de legkésőbb 2021. október 31-ig nem, vagy nem megfelelően nyújtotta be,
-- b) a csökkentett üvegházhatású gázkibocsátás szintje fenntartásának igazolása vonatkozásában az üzemanyag-forgalmazó
-  - ba) hiánytalanul benyújtotta, és az abban foglaltak alapján megállapítható a tárgyévi szintentartási kötelezettség nem teljesítése, vagy
-  - bb) a 9. § (5) bekezdése szerinti bírságot megállapító határozatban rögzített határidőn belül, de legkésőbb a tárgyévet követő október 31. napjáig nem, vagy nem megfelelően nyújtotta be.
-
-(7) Ha a 9. § (2) és (2a) bekezdés szerinti, 2020. tárgyévre vonatkozó jelentéstételre az üzemanyag-forgalmazók csoportja részéről együttesen, közös jelentés formájában kerül sor, úgy az 1. mellékletben rögzített bírság megfizetéséért az érintett üzemanyag-forgalmazókat egyetemleges felelősség terheli.
+#### 10. §
 
 #### 7.
 
@@ -255,7 +225,7 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 (4) A földmérési és térinformatikai államigazgatási szerv az (1) bekezdés szerinti feladatok ellátása érdekében díjmentesen hozzáférést biztosít a Mezőgazdasági Parcella Azonosító Rendszerhez (továbbiakban: MePAR) a mezőgazdasági igazgatási szerv részére a MePAR-böngésző kezelésére történő feljogosítás útján.
 
-11/A. §
+#### 11/A. §
 
 11/B. § Az energiapolitikáért felelős miniszter elektronikus úton, havonta frissülő honlapon a megújuló energiaforrásból előállított energiával működő járművek üzembe helyezői és üzemeltetői, valamint felhasználói számára a megújuló energia közlekedési célú felhasználásának elősegítése céljából tájékoztatást nyújt a megújuló energiaforrásból előállított energiával működő járművek használatáról és az ilyen járművek használatával összefüggő előnyökről.
 
@@ -281,6 +251,7 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 - l) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
 - m) a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállítását, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
 - n) a személyes adatok kivételével az erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó kötelezően nyilvántartandó adatokat.
+- o) az Uniós Adatbázisba történő adatszolgáltatás részletes szabályait.
 
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -303,9 +274,7 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 14/B. § A 9. §-ban foglalt rendelkezéseket a 13. § (2) bekezdés a) pontja szerinti felhatalmazás alapján kiadott rendelet hatálybalépésének napjától kell alkalmazni.
 
-14/C. § (1) A csökkentett üvegházhatású gázkibocsátás szintjének fenntartásáról az üzemanyag-forgalmazó először 2022. október 31. napjáig tesz jelentést.
-
-(2) A 10. § (1) bekezdésében meghatározott csökkentett szint fenntartására vonatkozó kötelezettséget az üzemanyag-forgalmazói tevékenységet 2020. december 31. napját követően megkezdő üzemanyag-forgalmazóra is alkalmazni kell.
+14/C. § Az e törvénynek az egyes energetikai törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel (a továbbiakban: Módtv.) hatályon kívül helyezett 9. és 10. §-a hatályon kívül helyezését megelőzően 2024-ben forgalomba hozott üzemanyag és más közlekedési célú energiatermék vonatkozásában az üzemanyag-forgalmazó a Módtv. hatálybalépését követő 15 napon belül nyilatkozik az állami adó- és vámhatóság felé, hogy alkalmazza-e az e törvény Módtv. által hatályon kívül helyezett 9. és 10. §-a rendelkezéseit az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátás 6%-os csökkentésére és e szinten tartására vonatkozó kötelezettség, továbbá az általa forgalomba hozott üzemanyag és más, közlekedésben felhasznált energiatermék tekintetében a forgalomba hozott teljes mennyiségről, valamint az üzemanyagból vagy más közlekedésben felhasznált energiatermékből származó, a teljes életciklusra vonatkozó, energiaegységre számított üvegházhatású gázkibocsátásról szóló jelentés tekintetében. Ha az üzemanyag-forgalmazó nem nyilatkozik, a forgalomba hozatal időpontjában hatályos rendelkezések alkalmazandók.
 
 14/D. § A 11. § (1a) bekezdés szerinti adatszolgáltatásra kötelezett 2021. évben 2021. szeptember 1. napjáig tesz eleget a 11. § (1a) bekezdés szerinti kötelezettségének.
 
@@ -313,29 +282,17 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 - a) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illetőleg az üvegházhatású gázok kibocsátott mennyiségének nyomon követését és mérséklését célzó mechanizmus bevezetése tekintetében a 98/70/EK irányelv módosításáról, a belvízi hajókban felhasznált tüzelőanyagokra vonatkozó követelmények tekintetében az 1999/32/EK irányelv módosításáról, valamint a 93/12/EGK irányelv hatályon kívül helyezéséről szóló 2009. április 23-i 2009/30/EK európai parlamenti és tanácsi irányelv 1. cikk 2. pont a) alpont ii) 5–9. pontjának,
 - b) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek,
-- c) az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelv 2. cikk 1. pontjának,
-- d) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK irányelv és a megújuló energiaforrásból előállított energia támogatásáról szóló 2009/28/EK irányelv módosításáról szóló, 2015. szeptember 9-i (EU) 2015/1513 európai parlamenti és tanácsi irányelvnek
+- c) az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2413 európai parlamenti és tanácsi irányelvnek,
+- d)
 
 való megfelelést szolgálja.
 
-15/A. §
+#### 15/A. §
 
-15/B. §
+#### 15/B. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
 ### 1. melléklet a 2010. évi CXVII. törvényhez
-
-#### Az üzemanyag-forgalmazók részére előírt üvegházhatású gázkibocsátás csökkentés elmulasztásából eredő bírság mértéke
-
-- 1. A bírság mértéke a 10. § (6) bekezdés a) pont aa) és b) pont ba) alpontja esetén:
-
-|  |  | A | B |
-| --- | --- | --- | --- |
-|  | 1. | üvegházhatású gázkibocsátás csökkentésének energiaegységben számított mértéke (%) | büntetési tétel |
-|  | 2. | 0–4% | 100 000 Ft / hiányzó tCO2 egyenérték |
-|  | 3. | 4–6% | 10 000 Ft / hiányzó tCO2 egyenérték |
-
-- 2. A bírság mértéke a 10. § (6) bekezdés a) pont ab) és b) pont bb) alpontja esetén az üvegházhatású gázkibocsátás csökkentésének energiaegységben számított, 2017–2019. tárgyévek során leadott érvényes üzemanyag-forgalmazói jelentésekből átlagolt mértékét tekintve 100 000 Ft / hiányzó tCO2 egyenérték.

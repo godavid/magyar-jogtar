@@ -174,6 +174,8 @@ azzal, hogy a visszaszolgáltatást megelőzően az iratról a Hatóság elektro
 
 (4) A közirat tulajdonosa az (1) bekezdés szerinti nyilvántartásban szereplő közirat tulajdonjogának átruházására irányuló szándékát köteles a Hatóság részére bejelenteni.
 
+(4a) A Hatóság ellenőrizheti a tulajdonosnak a köziratra vonatkozó – e törvényben foglaltak szerint biztosított – épségben és használható állapotban történő megőrzési kötelezettsége teljesítését.
+
 (5) Ha a Hatóság él az elővásárlási jogával, a közirat az illetékes közlevéltár levéltári anyaga részévé válik, és azt az (1) bekezdés szerinti nyilvántartásból törölni kell.
 
 ### A levéltári anyag védelmének irányítása
@@ -373,6 +375,8 @@ során a kultúráért felelős miniszter véleményezési jogot gyakorol.
 16. § (1) Az e törvényben meghatározottak szerint más közlevéltár illetékességébe nem tartozó közfeladatot ellátó szervek, illetve azok irattári anyaga az általános levéltárak illetékességi körébe tartozik. Általános levéltárat törvény létesíthet, illetve szüntethet meg, a megszűnő levéltár anyagának átvételére illetékes közlevéltár megnevezésével.
 
 (2) Általános levéltár a Magyar Nemzeti Levéltár és a Budapest Főváros Önkormányzata által fenntartott levéltár.
+
+(3) A nemzeti levéltár a Magyar Nemzeti Levéltár.
 
 17. § (1) A Magyar Nemzeti Levéltár központi általános levéltár, amely vármegyei szervezeti egységekkel (tagintézményekkel) rendelkezik. A tagintézmény
 

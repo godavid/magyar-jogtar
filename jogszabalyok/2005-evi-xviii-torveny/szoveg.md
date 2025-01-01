@@ -185,7 +185,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (2) Az 5 MW vagy annál nagyobb névleges hőteljesítményű távhőtermelő létesítmény létesítése, bővítése, átalakítása, teljesítményének növelése vagy csökkentése, tüzelőanyagának megváltoztatása (a továbbiakban együtt: létesítés) engedélyköteles tevékenység, amelyre a Hivatal távhőtermelői létesítési engedélyt ad ki. A létesítési engedélyben foglalt tevékenység az engedély birtokában kezdhető meg. A létesítési engedély az abban meghatározott időpontig, vagy az abban meghatározott üzembehelyezési eljárás eredményes lezárásáig hatályos.
 
-(3) A távhőtermelő létesítmény, a távhőtermelői tevékenység vagy a távhőszolgáltatói tevékenység tervezett megszüntetése előtt legalább egy évvel az engedélyes engedélyt kér a megszüntetésre a Hivataltól az érintett önkormányzat egyidejű értesítésével. A megszüntetésre kiadott engedély az abban meghatározott időpontig, de legfeljebb 3 évig hatályos, amely nem hosszabbítható meg.
+(3) Ha a meglevő távhőtermelő létesítmény, a távhőtermelői tevékenység vagy a távhőszolgáltatói tevékenység megszüntetésére úgy kerül sor, hogy a létesítmény vagy a tevékenység másik engedélyes számára nem kerül átadásra, a tervezett megszüntetés előtt legalább egy évvel az engedélyes engedélyt kér a megszüntetésre a Hivataltól az érintett önkormányzat egyidejű értesítésével. A megszüntetésre kiadott engedély az abban meghatározott időpontig, de legfeljebb 3 évig hatályos, amely nem hosszabbítható meg.
 
 (4) A távhőtermelő létesítmény, a távhőtermelői tevékenység vagy a távhőszolgáltatói tevékenység megszüntetése megtagadható vagy feltételhez köthető, ha az e törvényben meghatározott ellátási kötelezettség teljesítését veszélyezteti.
 
@@ -361,7 +361,9 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 ### Vezetékjog
 
-23. § (1) Távhővezeték-hálózat vagy annak részét képező vezeték közterületnek, közútnak és vasúti pályának (a továbbiakban együtt: közterület) nem minősülő idegen ingatlanon történő elhelyezésére és üzemeltetésére kártalanítás ellenében, hatósági határozattal vezetékjog létesíthető a távhőszolgáltató javára, ha az az ingatlan használatát lényegesen nem akadályozza. Nem kell vezetékjogot megállapítani a közterületen létesített távhővezeték-hálózatra vagy annak részét képező vezetékre és annak idegen ingatlant érintő biztonsági övezetére. Ebben az övezetben építmény létesítése esetén, ha az építmény használati jellege indokolja, az illetékes vezetékjogot engedélyező hatóság kötelezheti az engedélyest a biztonsági övezet csökkentésére.
+23. § (1) Távhővezeték-hálózat vagy annak részét képező vezeték közterületnek, közútnak és vasúti pályának (a továbbiakban együtt: közterület) nem minősülő idegen ingatlanon történő elhelyezésére és üzemeltetésére kártalanítás ellenében, hatósági határozattal vezetékjog alapítható a távhőszolgáltató javára, ha az az ingatlan használatát lényegesen nem akadályozza. Nem lehet vezetékjogot alapítani a közterületen létesített távhővezeték-hálózatra vagy annak részét képező vezetékre és annak idegen ingatlant érintő biztonsági övezetére. A biztonsági övezetben építmény létesítése esetén, ha az építmény használati jellege indokolja, az illetékes vezetékjogot engedélyező hatóság kötelezheti az engedélyest a biztonsági övezet csökkentésére.
+
+(1a) A távhővezeték-hálózat vagy annak részét képező vezeték közterületen történő elhelyezését, átalakítását és üzemeltetését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátozását is – okozott károkért az építtető köteles kártalanítást fizetni.
 
 (2) A vezetékjogot a műszaki biztonsági szerv engedélyezi. A vezetékjog iránti kérelemhez csatolandó műszaki leírásokat, helyszínrajzokat, ütemtervet a kormány az e törvény végrehajtására kiadott rendeletében meghatározott tartalommal, méretben és példányszámban az engedélyesnek kell elkészítenie.
 
@@ -372,9 +374,9 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 - c) a távhővezeték-hálózat mentén levő, annak épségét közvetlenül veszélyeztető fákat, bokrokat, azok ágait, gyökereit – kártérítési kötelezettség mellett – eltávolíthatja;
 - d) a távhővezeték-hálózattal – a miniszternek a szabályozásban érdekelt miniszterrel egyetértésben kiadott, az e törvény végrehajtásáról szóló rendeletében meghatározott módon – más építményt és nyomvonalas műtárgyat megközelíthet, illetve keresztezhet.
 
-24. § Távhővezeték-hálózat részét képező vezeték az ingatlantulajdonossal, az ingatlan kezelőjével, illetőleg a közterület tulajdonosával kötött szerződés alapján is létesíthető és üzemeltethető.
+24. § Távhővezeték-hálózat részét képező vezeték az ingatlantulajdonossal, az ingatlan kezelőjével, illetve a közterület tulajdonosával kötött szerződés alapján is létesíthető és üzemeltethető.
 
-25. § A vezetékjognak az ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal, az ingatlan kezelőjével, illetőleg a közterület tulajdonosával kötött szerződés vagy véglegessé vált hatósági határozat alapján. A vezetékjog a távhőszolgáltatás engedélyesét illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A vezetékjog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható.
+25. § A vezetékjognak az ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal, illetve az ingatlan kezelőjével kötött szerződés vagy véglegessé vált hatósági határozat alapján. A vezetékjog a távhőszolgáltatás engedélyesét illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A vezetékjog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható, azonban az harmadik személyekkel szemben akkor hatályos, ha azt az ingatlan-nyilvántartásba bejegyezték.
 
 26. § Az ingatlan tulajdonosa kérheti az engedélyestől a távhővezeték és a tartószerkezet eltávolítását, átalakítását vagy áthelyezését, ha annak műszaki feltételei adottak, az üzemeltetésben jelentős hátrányt nem jelentenek és vállalja az azokkal kapcsolatos költségek viselését.
 
@@ -390,7 +392,7 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 (3) A használati jog alapítását és a fizetendő kártalanítás mértékét a bíróság állapítja meg a magyar építészetről szóló törvényben meghatározott módon.
 
-29. § (1) A használati jog ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal kötött szerződés vagy véglegessé vált hatósági határozat alapján. A használati jog a mindenkori engedélyest illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A használati jog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható.
+29. § (1) A használati jog ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal kötött szerződés vagy véglegessé vált hatósági határozat alapján. A használati jog a mindenkori engedélyest illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A használati jog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható, azonban az harmadik személyekkel szemben akkor hatályos, ha azt az ingatlan-nyilvántartásba bejegyezték.
 
 (2) Megszűnik a használati jog, ha az engedélyes a használati joggal terhelt ingatlanon a szolgáltatói hőközpontot a használati jog keletkezésétől számított öt éven belül nem építi meg vagy azt véglegesen eltávolítja. Megszűnik a használati jog a felek megállapodásával is.
 
@@ -506,9 +508,9 @@ szerződéskötési kötelezettség terheli a távhőellátás biztonságát gar
 
 (2) A távhőszolgáltató köteles az előre tervezhető karbantartási, felújítási munkák miatti szüneteltetés időpontjáról és várható időtartamáról az üzletszabályzatban vagy a szerződésben rögzített módon az érintett felhasználókat előre értesíteni.
 
-41. § (1) A távhőszolgáltató jogosult az önkormányzat rendeletében foglaltak szerint
+41. § (1) A távhőszolgáltató jogosult az önkormányzat rendeletében vagy a földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló kormányrendeletben foglaltak szerint
 
-- a) az országos tüzelőanyag-hiány miatt nála vagy a vele szerződéses jogviszonyban álló távhőtermelőnél fellépő termeléskiesés esetén, vagy
+- a) az országos tüzelőanyag-hiány vagy földgázellátási válsághelyzet miatt nála vagy a vele szerződéses jogviszonyban álló távhőtermelőnél fellépő termeléskiesés esetén, vagy
 - b) környezetvédelmi érdekből
 
 a szolgáltatást korlátozni. A korlátozás általános feltételeit a kormány az e törvény végrehajtásáról szóló rendeletben határozza meg.

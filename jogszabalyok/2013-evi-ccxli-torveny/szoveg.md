@@ -39,7 +39,7 @@ Az Országgyűlés a kommunista diktatúrával kapcsolatos emlékezet állami me
 
 (2) A Bizottságnak nem lehet tagja, aki 1972. február 14-e előtt született.
 
-7. § (1) A Bizottság választott tagjainak és elnökének megbízatási ideje kilenc év. A Bizottság elnökét és két tagját az Országgyűlés titkos szavazással választja meg. A Bizottság elnökének és két tagjának választását az Országgyűlés elnöke tűzi ki.
+7. § (1) A Bizottság választott tagjainak és elnökének megbízatási ideje kilenc év. A Bizottság elnökét és két tagját az Országgyűlés választja meg egyenkénti szavazással. A Bizottság elnökének és két tagjának választását az Országgyűlés elnöke tűzi ki.
 
 (2) A Bizottság tagja és elnöke tisztségében egyszer választható újra vagy bízható meg.
 

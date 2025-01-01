@@ -10,12 +10,13 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 
 1. § E törvény alkalmazásában:
 
-- 1. effektív névleges teljesítmény: a gyártó által előírt és garantált maximális leadott hőteljesítmény (kW-ban kifejezve), amely a folyamatos működés során átadható, ugyanakkor megfelel a gyártó által megjelölt hasznos teljesítménynek;
+- 1. adatközpont: az 1099/2008/EK európai parlamenti és tanácsi rendelet A. melléklet 2.6.3.1.16. pontjában meghatározott adatközpont;
+- 1a. effektív névleges teljesítmény: a gyártó által előírt és garantált maximális leadott hőteljesítmény (kW-ban kifejezve), amely a folyamatos működés során átadható, ugyanakkor megfelel a gyártó által megjelölt hasznos teljesítménynek;
 - 2. egyéni fellépés: olyan energiahatékonysági beruházás, energiahatékonyságot javító intézkedés vagy ezek kombinációja, amely ellenőrizhető és mérhető vagy megbecsülhető energiahatékonysági javulást eredményez, és arra egy szakpolitikai intézkedés szerinti lényeges hozzájárulás nyomán került sor;
 - 2a. „első az energiahatékonyság” elve: az energiapolitikai tervezés, valamint a szakpolitikai és beruházási döntéshozatal során a költséghatékony, technikailag, gazdaságilag és környezetvédelmi szempontból megfelelő energiahatékonysági intézkedéseknek a lehető legnagyobb mértékű figyelembevétele;
 - 2b. egyéni fellépés kezdete: a beruházás, vagy intézkedés célját szolgáló termékek, szolgáltatások megrendelésének a napja, vagy bármely olyan kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi;
-- 3. energia: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti energiatermékek minden formája, éghető üzemanyagok, hő, megújuló energiák, villamos energia vagy az energia bármely más formája;
-- 4. energiagazdálkodási rendszer: az energiahatékonysági célkitűzést, valamint az annak elérését célzó stratégiát meghatározó terv egymással összefüggő vagy kölcsönhatásban lévő elemeinek összessége;
+- 3. energia: az 1099/2008/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti energiatermékek;
+- 4. energiagazdálkodási rendszer: az energiahatékonysági célkitűzést, valamint az annak elérését célzó tervet meghatározó stratégia egymással összefüggő vagy kölcsönhatásban lévő elemeinek összessége, ideértve a tényleges energiafogyasztás nyomon követését, az energiahatékonyság növelésére hozott intézkedéseket és a haladás mérését is;
 - 5. energiahatékony beszerzéssel kapcsolatos dokumentáció: az energiahatékony beszerzések lefolytatására köteles szervezet ezen beszerzései során keletkezett olyan irat, amely rögzíti a beszerzés energiahatékonysági jellemzőit, valamint azt a tényt, hogy régi termék, épület cseréje vagy új beszerzés történt, továbbá a beszerzéssel elérhető éves energiamegtakarítás mértékét;
 - 6. energiahatékonyság: a teljesítményben, a szolgáltatásban, a termékben vagy az energiában kifejezett eredmény és a befektetett energia hányadosa;
 - 7. energiahatékonyság-alapú szerződés: az energiafogyasztó és az energiahatékonysági szolgáltató között létrejött olyan szerződés, amelyet teljes időtartama alatt ellenőriznek és nyomon követnek, és amelynek keretében nyújtott energiahatékonysági szolgáltatások ellentételezése a szerződésben megállapodott szintű energiahatékonyság-javulás vagy más energiahatékonysági kritérium teljesítésével összefüggésben történik;
@@ -25,7 +26,7 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - 11. energiamegtakarítás: az az energiamennyiség, amellyel csökkent valamely energiahatékonyság-javító intézkedés végrehajtása után a mért vagy becsült energiaigény az intézkedést megelőzőhöz képest, biztosítva az energiaigényt befolyásoló külső feltételeknek megfelelő normalizálást;
 - 11a. energiamegtakarítás első jogosultja: az egyéni fellépéssel érintett végső felhasználó és a lényeges hozzájárulást kifejtő személy közötti írásbeli megállapodásban – ideértve az elektronikus úton kötött megállapodást is – az energiamegtakarítás első jogosultjaként megjelölt személy, ilyen megállapodás hiányában pedig az a személy, aki az energiahatékonyság-javító intézkedés vagy beruházás végrehajtásához a lényegesnek minősülő hozzájárulást kifejtette;
 - 12. energetikai audit: az energetikai auditálás eredményeit tartalmazó, jogszabályban meghatározott tartalmi és formai követelményeknek megfelelő irat;
-- 13. energetikai auditálás: olyan, meghatározott módszerrel végzett eljárás, amelynek célja megfelelő ismeretek gyűjtése valamely épület vagy épületcsoport, ipari vagy kereskedelmi művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energiamegtakarítási lehetőségeket és beszámol az eredményekről;
+- 13. energetikai auditálás: olyan, meghatározott módszerrel végzett eljárás, amelynek célja megfelelő ismeretek gyűjtése valamely épület vagy épületcsoport, ipari vagy kereskedelmi művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energiamegtakarítási lehetőségeket, azonosítja a megújuló energia költséghatékony felhasználásának vagy előállításának potenciálját és beszámol az eredményekről;
 - 14. energetikai auditáló szervezet: energetikai auditálást végző gazdálkodó szervezet;
 - 15. energetikai auditor: energetikai auditálást végző természetes személy;
 - 15a. épületautomatizálási és -szabályozási rendszer: olyan rendszer, amely magában foglalja mindazon termékeket, szoftvereket és mérnöki szolgáltatásokat, amelyek automatikus vezérlés révén és a kézi működtetés megkönnyítésével elősegíthetik az épülettechnikai rendszerek energiahatékony, gazdaságos és biztonságos üzemeltetését;
@@ -40,7 +41,9 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - 20. kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 3. § (4) bekezdésének kivételével a Kkvtv. alapján mikro-, kis- és középvállalkozásnak minősülő vállalkozás;
 - 21. kiskereskedelmi energiaértékesítő vállalat: az a gazdálkodó szervezet, amely energiát értékesít a végső felhasználó számára;
 - 22. komplex korszerűsítés: az épülethatároló szerkezetek és az épületgépészeti rendszerek többségét érintő korszerűsítés, amely a korszerűsítés előtti szinthez képest jelentős energiahatékonyság-javulást eredményez;
-- 23. közintézmény: a közbeszerzésekről szóló törvényben meghatározott ajánlatkérő szervezet;
+- 22a. környezeti energia: az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 2. cikk 2. pontja szerinti környezeti energia;
+- 22b. középület: a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész;
+- 23. közintézmény: állami vagy önkormányzati feladatot ellátó szerv, valamint a többségben ezen szervek által finanszírozott és igazgatott olyan jogi személy és a jogi személyiséggel nem rendelkező szervezet, amely nem ipari vagy kereskedelmi jellegű tevékenységet folytat;
 - 23a. közlekedési célú üzemanyag: a jövedéki adóról szóló törvény szerinti üzemanyag a repülőgép-üzemanyag kivételével;
 - 24. központi kormányzat: a központi kormányzati igazgatási szervek, a rendvédelmi szervek és a honvédelmi szervezetek országos hatáskörrel rendelkező szervezeti egységei, továbbá ha e szervezetek körében egy adott hatáskör vonatkozásában nem létezik országos hatáskörű szervezeti egység, akkor azok a szervezeti egységek vagy szervezetek, amelyek illetékessége együttesen terjed ki az ország területére;
 - 24a. lakóépület: jellemzően lakást és a hozzá tartozó kiszolgáló helyiségeket magába foglaló épület;
@@ -49,13 +52,14 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - 25. nagy hatásfokú kapcsolt energiatermelés: a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendelet szerint nagy hatásfokúnak minősülő kapcsolt energiatermelés;
 - 26. nagyvállalat: a Kkvtv. 4. § (2) bekezdése szerinti partnervállalkozások és a Kkvtv. 4. § (5) bekezdésének figyelmen kívül hagyásával kis- és középvállalkozásnak nem minősülő vállalkozás;
 - 27. névleges bemenő hőteljesítmény: az adott energiaátalakító berendezésre vonatkozó hatósági határozatban vagy a berendezés gépkönyvében vagy gyártói nyilatkozatában rögzített névleges teljesítményen történő üzemeltetéséhez szükséges, az energiaátalakító berendezésbe bevitt hőteljesítmény megawattban (MWth) kifejezve;
-- 28. primerenergia-fogyasztás: a nem energiacélú felhasználással csökkentett bruttó belföldi energiafogyasztás;
+- 28. primerenergia-fogyasztás: a bruttó rendelkezésre álló energia, a nemzetközi vízi közlekedés fogyasztása, a végső nem energetikai célú fogyasztás és a környezeti energia kivételével;
 - 28a. szellőzőrendszer: a 2009/125/EK európai parlamenti és tanácsi irányelvnek a szellőztetőberendezések környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2014. július 7-i 1253/2014/EU bizottsági rendelet szerinti szellőztetőberendezés;
 - 28b. támogatandó háztartás: az a kiszolgáltatott helyzetben lévő háztartás, amely által használt lakóépületben a lakóépület 20 °C fokra való fűtéséhez és melegvíz készítéshez kapcsolódó, a háztartásra jutó éves energiaköltség meghaladja a háztartás éves jövedelmének 25%-át, ahol az éves energiaköltség és a háztartás éves jövedelme a 2020-tól kezdődő, a számítás időpontjában lezárt naptári évek energiaköltségének, illetve átlagjövedelmének számtani átlaga;
+- 28c. telepített információtechnológiai teljesítményigény: az adatközpont gépterem alapterületén telepített hálózatok, szerverek és tárolóberendezések kW-ban kifejezett névleges teljesítményigényének összege;
 - 29. teljes bemenő hőteljesítmény: az összes olyan műszaki egység névleges bemenő hőteljesítményének összege, amely a létesítmény részét képezi;
 - 30. végfelhasználási energiamegtakarítás: a 12. § szerinti egyes kötelezettségi időszakok tekintetében az e törvény végrehajtására kiadott kormányrendeletben meghatározott alapelvek szerinti számítási módszer alkalmazásával megállapított mértékű energiamegtakarítási cél, amelynek a végső felhasználók körében történő eléréséről a Kormány gondoskodik;
 - 31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát; távhűtéssel ellátott épület esetében, ha a távhűtési szolgáltatás a több személy tulajdonában lévő épület valamennyi épületrészében – a közös használatú épületrészek kivételével – mérhető, végső felhasználónak kell tekinteni az egyes épületrészek tulajdonosát is.
-- 32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével;
+- 32. végsőenergia-fogyasztás: az ipar, a közlekedés – ideértve a nemzetközi légi közlekedés energiafogyasztását is –, a háztartások, a köz- és magánszolgáltatások, a mezőgazdaság, az erdészet, a halászat és egyéb végfelhasználói ágazatok számára szolgáltatott energia összessége, amely nem foglalja magában a nemzetközi vízi közlekedés energiafogyasztását, a környezeti energiát, az energiaátalakítási ágazatnak és az energiaágazatnak történő szállítást, valamint a szállítási és elosztási veszteségeket az 1099/2008/EK európai parlamenti és tanácsi rendelet A. mellékletében meghatározottak szerint;
 - 33. vállalkozáscsoport: azon vállalkozások összessége, amelyek egymással a Kkvtv. szerinti kapcsolódó vállalkozási vagy partnervállalkozási kapcsolatban állnak.
 
 ### II. Fejezet — AZ ENERGIAHATÉKONYSÁGI CÉLKITŰZÉS MEGVALÓSÍTÁSÁNAK KÖZPONTI FELADATAI
@@ -136,7 +140,7 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 
 7. § A Hivatal
 
-- a) a 12. § (2) bekezdés szerinti kötelezettségi időszakban gyűjti – és az energiapolitikáért felelős miniszter felhívására 3 munkanapon belül megküldi – az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes szakpolitikai intézkedések, továbbá az energiahatékonysági kötelezettségi rendszernek a Hivatal elnökének rendeletében meghatározott nyomonkövetési adatait, valamint az integrált nemzeti energia- és klímatervnek és az e törvény végrehajtására kiadott kormányrendeletben meghatározott módszereknek és elveknek megfelelően biztosítja az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes alternatív szakpolitikai intézkedések, továbbá az energiahatékonysági kötelezettségi rendszer nyomonkövetési adatainak hitelesítését – ideértve annak biztosítását is, hogy amennyiben átfedés van a szakpolitikai intézkedések vagy az egyéni fellépések hatása között, az energiamegtakarítás nem kerül kétszeresen elszámolásra –;
+- a) a 12. § (2) bekezdés szerinti kötelezettségi időszakban gyűjti – és az energiapolitikáért felelős miniszter felhívására 3 munkanapon belül megküldi – az egyes alternatív intézkedések, továbbá az energiahatékonysági kötelezettségi rendszernek a Hivatal elnökének rendeletében meghatározott nyomonkövetési adatait, valamint az integrált nemzeti energia- és klímatervnek és az e törvény végrehajtására kiadott kormányrendeletben meghatározott módszereknek és elveknek megfelelően biztosítja az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes alternatív szakpolitikai intézkedések, továbbá az energiahatékonysági kötelezettségi rendszer nyomonkövetési adatainak hitelesítését – ideértve annak biztosítását is, hogy amennyiben átfedés van a szakpolitikai intézkedések vagy az egyéni fellépések hatása között, az energiamegtakarítás nem kerül kétszeresen elszámolásra –;
 - b) az integrált nemzeti energia- és klímaterv felülvizsgálatai során javaslatot tesz az egyes, az integrált nemzeti energia- és klímatervben rögzített és rögzíteni tervezett szakpolitikai intézkedések nyomonkövetési rendszerét megalapozó módszertani keret meghatározására.
 - c) névjegyzéket (a továbbiakban: névjegyzék) vezet az energetikai auditorokról és energetikai auditáló szervezetekről, valamint a természetes személy energetikai szakreferensekről és energetikai szakreferens szervezetekről, nyilvántartást vezet a közreműködő szervezetekről, ellátja e személyek és szervezetek felügyeletét; valamint elvégzi az energetikai auditálás ellenőrzését;
 - d) a 20. § szerinti energiahatékonysági tájékoztató honlapot tart fenn;
@@ -180,7 +184,7 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 - b) azon műemlék épületek, helyi védelem alatt álló épületek, amelyek esetében az energiahatékonyságra vonatkozó minimumkövetelmények betartása a műemléki vagy a helyi védettséget megalapozó érték elfogadhatatlan mértékű megváltoztatását eredményezné,
 - c) a fegyveres erők vagy központi kormányzat használatában lévő nemzetvédelmi célt szolgáló épületek, a fegyveres erők vagy a nemzetvédelmi hatóságok egyéb alkalmazottai által használt lakónegyedei vagy irodaépületei kivételével.
 
-9. § A felújítási kötelezettség alá eső kormányzati épületekről nyilvántartást kell vezetni, amely tartalmazza az épületek négyzetméterben kifejezett alapterületét, valamint energiahatékonysági adatait. A nyilvántartást közzé kell tenni.
+9. § A felújítási kötelezettség alá eső kormányzati épületekről nyilvántartást kell vezetni, amely tartalmazza az épületek négyzetméterben kifejezett alapterületét, energetikai tanúsítványát, valamint ha ezen adatok rendelkezésre állnak, a fűtés, a hűtés, a villamos energia és a meleg víz mért éves energiafogyasztását. A nyilvántartást közzé kell tenni az energiapolitikáért felelős miniszter által vezetett minisztérium honlapján.
 
 #### 9. Energiahatékonysági célú beszerzés
 
@@ -189,6 +193,12 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 (2) Az (1) bekezdés csak olyan mértékben vonatkozik a katonai nemzetbiztonsági és az országos hatáskörrel rendelkező rendvédelmi szervekre, valamint a honvédségi szervezetekre, amennyiben az nem eredményez összeütközést ezen szervezetek alaptevékenységének céljával.
 
 (3)
+
+10/A. § Az energiapolitikáért felelős miniszter a közbeszerzésekért felelős miniszter, a gazdaságfejlesztésért felelős miniszter és az építésgazdaságért felelős miniszter bevonásával kétévente az integrált nemzeti energia- és klímaterv részeként jelentést nyújt be az Európai Bizottság részére az alábbi adatokról:
+
+- a) az energiahatékonyságra irányuló közberuházások volumene és az energiahatékonysági intézkedéseket támogató közfinanszírozás révén elért átlagos tőkeáttételi tényező;
+- b) az energiahatékonysági hiteltermékek volumene, különbséget téve a különböző termékek között;
+- c) adott esetben az energiahatékonyság és a legjobb gyakorlatok elterjedésének fokozása érdekében bevezetett nemzeti finanszírozási programok, valamint az energiahatékonyságra irányuló innovatív finanszírozási rendszerek.
 
 11. § Ha közintézmény az energiahatékonysági célú beszerzése során energiahatékonyság-alapú szerződést kíván kötni, e szerződésnek legalább az e törvény végrehajtására kiadott kormányrendeletben meghatározott tartalmi elemeket kell tartalmaznia. A szerződést írásban kell megkötni.
 
@@ -205,6 +215,7 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 - g) együttműködik a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti elosztó, a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) szerinti földgázelosztó (a továbbiakban együtt: elosztói engedélyesek) és a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) szerinti távhőszolgáltató (a továbbiakban: távhőszolgáltató) által a Hivatal számára bejelentett energiafogyasztási adatok vizsgálatában;
 - h) mentesül az a), b) és d) pont szerinti feladatok alól, ha a közintézmény nagyvállalatnak vagy energetikai szakreferens igénybevételére köteles gazdálkodó szervezetnek minősül.
 - i) energetikai felelőst jelöl ki a Nemzeti Energetikusi Hálózattal történő kapcsolattartás és e §-ban meghatározott feladatok közvetlen ellátása céljából.
+- j) teljesíti a 9. § szerinti nyilvántartás vezetésével összefüggő adatszolgáltatási kötelezettséget.
 
 11/B. § (1) A Magyar Államkincstár a Hivatal megkeresésének megfelelő rendszerességgel és adattartalommal elektronikus úton megküldi a Hivatal számára az e törvény szerinti közintézmények törzskönyvi nyilvántartásában szereplő adatait.
 
@@ -284,7 +295,7 @@ kell elérni.
 
 (1b) A végrehajtó hatóság az (1) bekezdés b) pont bb) alpontja szerinti adatszolgáltatással érintett adatokat az adatszolgáltatással egyidejűleg megküldi az energiapolitikáért felelős miniszter részére is. Az átadott adatokat az energiapolitikáért felelős miniszter és a Hivatal az elért energiamegtakarítás megállapítása és hitelesítése céljából az adott kötelezettségi időszak lejártát követő ötödik év végéig kezeli.
 
-(1c) Ha az (1) bekezdés b) pont bb) alpontja szerinti adatszolgáltatás az egyéni fellépések megvalósulása szerinti tárgyévet követő május 31-ig nem valósul meg, a Hivatal erről tájékoztatja az energiapolitikáért felelős minisztert.
+(1c) Ha az (1) bekezdés b) pont bb) alpontja szerinti adatszolgáltatás az egyéni fellépések megvalósulása szerinti tárgyévet követő év május 31-éig nem valósul meg, a Hivatal erről tájékoztatja az energiapolitikáért felelős minisztert, és a bevonásával egyeztetést kezdeményez a végrehajtó hatósággal a hiányzó adatok előállítása érdekében. Az egyeztetés eredményeként megállapított módszertan alapján előállított adatokat a végrehajtó hatóság haladéktalanul átadja a Hivatal számára.
 
 (1d) Energiamegtakarítás elérését célzó támogatási, tanácsadási program esetén a program kiírója a program kidolgozása során figyelembe veszi a Hivatal által – az energiahatékonysági tájékoztató honlapon – közzétett módszertani útmutatót.
 
@@ -307,10 +318,10 @@ kell elérni.
 - a) a 2021. évben az általa 2019-ben végső felhasználók részére Magyarországon értékesített, kötelezettség alá vont energiamennyiség 0,05%-ának,
 - b) a 2022. évben az általa 2020-ban végső felhasználók részére Magyarországon értékesített, kötelezettség alá vont energiamennyiség 0,1%-ának,
 - c) a 2023. évben az általa 2021-ben végső felhasználók részére Magyarországon értékesített, kötelezettség alá vont energiamennyiség 0,3%-ának,
-- d) a 2024–2027. években az egyes éveket megelőző második évben általa végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,5%-ának,
-- e) a 2028. évben az általa 2026-ban végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,35%-ának,
-- f) a 2029. évben az általa 2027-ben végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,15%-ának,
-- g) a 2030. évben az általa 2028-ban végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,05%-ának
+- d) a 2024–2030. években az egyes éveket megelőző második évben általa végső felhasználók részére Magyarországon értékesített, szállított, kötelezettség alá vont energiamennyiség 0,5%-ának
+- e)
+- f)
+- g)
 
 megfelelő mértékű éves energiamegtakarítást köteles elérni a végső felhasználók körében (a továbbiakban: energiamegtakarítási kötelezettség).
 
@@ -320,17 +331,30 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 
 (2b) A saját jogon eljáró felhasználó részére szerződés keretében földgázt szállíttató fél és a közlekedési célú üzemanyagot végső felhasználók részére értékesítő egyesület először a 2024. évben köteles energiamegtakarítási kötelezettséget teljesíteni.
 
-(3) A kötelezett fél az energiamegtakarítási kötelezettség teljesítését a 13. § (1) bekezdés b)–g) pontja szerinti olyan alternatív szakpolitikai intézkedésekkel is kombinálhatja, amelyekhez a kötelezett fél – vagy hitelesített energiamegtakarítás átruházása esetén bármely személy – részéről lényeges hozzájárulás történt. Ha a kötelezett fél az elért energiamegtakarítást ilyen alternatív szakpolitikai intézkedések igénybevételével éri el, az elért energiamegtakarításból a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás és adókedvezmény részaránya – a (4) bekezdésben meghatározott kivétellel – az alternatív szakpolitikai intézkedés keretében, az egyéni fellépés további elszámolható költségének részaránya pedig kötelezetti energiamegtakarításként számolható el. Oktatási, képzési, tanácsadási és szemléletformálási programok kötelezetti igénybevétele esetén a kötelezetti elszámolhatóság részarányát az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
+(3) A kötelezett fél az energiamegtakarítási kötelezettség teljesítését a (4a) bekezdés szerinti esetben a 13. § (1) bekezdés b)–g) pontja szerinti olyan alternatív szakpolitikai intézkedésekkel is kombinálhatja, amelyekhez a kötelezett fél – vagy hitelesített energiamegtakarítás átruházása esetén bármely személy – részéről lényeges hozzájárulás történt. Ha a kötelezett fél az elért energiamegtakarítást ilyen alternatív szakpolitikai intézkedések igénybevételével éri el, az elért energiamegtakarításból a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás és adókedvezmény részaránya – a (4) bekezdésben meghatározott kivétellel – az alternatív szakpolitikai intézkedés keretében, az egyéni fellépés további elszámolható költségének részaránya pedig kötelezetti energiamegtakarításként számolható el. Oktatási, képzési, tanácsadási és szemléletformálási programok kötelezetti igénybevétele esetén a kötelezetti elszámolhatóság részarányát az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
 
 (4) Lakóépületek energiahatékonyságát javító egyéni fellépés megvalósítása során a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás, adókedvezmény vagy ezek együttes igénybevétele esetén a kötelezett az energiamegtakarítás 70%-át akkor is elszámolhatja kötelezetti energiamegtakarításként, ha a (3) bekezdés alapján ennél kevesebbre lenne jogosult. A Hivatal az így keletkező megtakarítást a 13. § (5) bekezdése szerinti adatszolgáltatásában külön feltünteti.
 
-(4a) Az alternatív szakpolitikai intézkedés végrehajtó hatósága az adott alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételek meghatározásával egyező formában meghatározhatja, hogy az adott alternatív szakpolitikai intézkedés mely feltételek fennállása esetén vehető igénybe energiamegtakarítási kötelezettség teljesítésére.
+(4a) Az alternatív szakpolitikai intézkedés végrehajtó hatósága az energiapolitikáért felelős miniszter bevonásával az adott alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételek meghatározásával egyező formában meghatározza, hogy az adott alternatív szakpolitikai intézkedés mely feltételek fennállása esetén vehető igénybe energiamegtakarítási kötelezettség teljesítésére, amely esetben az elszámolásra a (3) és (4) bekezdés szerinti arány alkalmazandó. Ha az alternatív szakpolitikai intézkedés végrehajtó hatósága az adott alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételeket nem határoz meg, az adott alternatív szakpolitikai intézkedés nem vehető igénybe energiamegtakarítási kötelezettség teljesítésére.
+
+(4b) A (4a) bekezdés szerint keletkező megtakarítást a végrehajtó hatóság a 14. § (1) bekezdés b) pont bb) alpontja, a Hivatal a 13. § (5) bekezdése szerinti adatszolgáltatásában külön feltünteti.
+
+(4c) Az alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételek (4a) bekezdés szerinti meghatározása esetén az adott alternatív szakpolitikai intézkedésből származó energiamegtakarítást kizárólag az igénybevételi feltételek végrehajtó hatóság általi igazolt teljesítése esetén lehet hitelesíteni.
 
 (5) Nem számolható el az energiamegtakarítási kötelezettség teljesítéseként olyan egyéni fellépésből származó energiamegtakarítás, amely 2020. január 16. előtt megkezdődött.
+
+(5a) Nem számolható el az Energiahatékonysági Kötelezettségi Rendszerben az alábbi intézkedésekből származó energiamegtakarítás:
+
+- a) üzemanyag adalékolásából származó energiamegtakarítás,
+- b) gépjármű abroncsnyomás korrekciójával elért energiamegtakarítás,
+- c) perlátor felszereléséből vagy cseréjéből származó energiamegtakarítás,
+- d) világításkorszerűsítés esetén az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló kormányrendeletben foglaltaknak nem megfelelő világítótestekkel végrehajtott világításkorszerűsítésből származó energiamegtakarítás.
 
 (6) A villamos energia és földgáz kereskedelmi és egyetemes szolgáltatói engedélyes a Vet. vagy a Get. szerinti engedélye időbeli hatályának megszűnéséig terjedő időtartamra vonatkozóan vagy az engedély visszavonásáról szóló határozatban megjelölt időpontig, ennek hiányában a visszavonást elrendelő határozat véglegessé válásának napjáig terjedő időtartamra vonatkozóan időarányosan teljesíti az energiamegtakarítási kötelezettségét. A közlekedési célú üzemanyagot végső felhasználók számára értékesítő gazdálkodó szervezet az értékesítési tevékenységének megszűnése esetén a tevékenység befejezéséig időarányosan teljesíti az energiamegtakarítási kötelezettségét.
 
 (7) A kötelezett fél az energiamegtakarítási kötelezettsége teljesítésével összefüggésben nem akadályozhatja, hogy a végső felhasználó más energiaszolgáltatóval kössön energia vásárlására irányuló szerződést. Ha az energiahatékonyság-alapú szerződés egyben a Vet. hatálya alá tartozó villamosenergia-vásárlásra vagy a Get. hatálya alá tartozó földgáz-kereskedelemre is irányul, a megállapodásban rögzíteni kell az energiahatékonysági intézkedésekhez kapcsolódó jogok és kötelezettségek kereskedőváltás esetén alkalmazandó szabályait. Az ilyen megállapodások nem lehetnek ellentétesek a Vet. és a Get. kereskedőváltásra vonatkozó előírásaival.
+
+(8) A (7) bekezdésben foglaltakat a Hivatal piacfelügyeleti jogkörében eljárva érvényesíti.
 
 15/A. § (1) Az egyéni fellépésekből származó energiamegtakarítást a Hivatal elnökének e törvény végrehajtására kiadott rendeletében meghatározott jegyzék (a továbbiakban: jegyzék) alapján, vagy energetikai auditor, energetikai auditáló szervezet által kiállított energetikai audit alapján, az e törvény végrehajtására kiadott kormányrendelet szerinti átváltási tényezők, valamint számítási módszerek és elvek alkalmazásával kell megállapítani. Az energiamegtakarítás megállapítása céljából készített energetikai audit kiegészítő kötelező tartalmi elemeit a Hivatal elnöke az e törvény végrehajtására kiadott rendeletében határozza meg.
 
@@ -338,7 +362,7 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 
 (3) A jegyzék tervezetét a Hivatal megküldi az energiapolitikáért felelős miniszter részére. Az energiapolitikáért felelős miniszter a tervezetre a kézhezvételtől számított 60 napon belül írásbeli észrevételt tehet. Az észrevételt a Hivatal mérlegeli, és ha azzal nem ért egyet, erről tájékoztatja az energiapolitikáért felelős minisztert.
 
-(4) Az egyéni fellépésekből származó, energiamegtakarítási kötelezettségként elszámolni vagy más kötelezettek számára átruházni kívánt energiamegtakarítást a Hivatal által névjegyzékbe vett – kötelezett félnek nem minősülő – energetikai auditáló szervezet (a továbbiakban: hitelesítő szervezet) hitelesíti. A hitelesítő szervezet nem válhat a saját maga által hitelesített energiamegtakarítás első jogosultjává, kivéve, ha a Hivatal ellenőrzése eredményeként az energiamegtakarítás pótlására kötelezi. Hitelesítés nélküli energiamegtakarítás a Hivatalhoz nem jelenthető be és a Hivatal részéről nem számolható el energiamegtakarítási kötelezettség teljesítéseként.
+(4) Az egyéni fellépésekből származó, energiamegtakarítási kötelezettségként elszámolni vagy más kötelezettek számára átruházni kívánt energiamegtakarítást a Hivatal által névjegyzékbe vett – kötelezett félnek nem minősülő – energetikai auditáló szervezet (a továbbiakban: hitelesítő szervezet) hitelesíti. Az egyéni fellépésekből származó energiamegtakarítás az intézkedés megvalósulását követő 14 hónap elteltével nem hitelesíthető, kivéve a technológiai fejlesztéseket létrehozó egyéni fellépéseket, amelyek esetében az energiamegtakarítás az intézkedés megvalósulását követő 18 hónapig hitelesíthető. A hitelesítő szervezet nem válhat a saját maga által hitelesített energiamegtakarítás első jogosultjává. Hitelesítés nélküli energiamegtakarítás a Hivatalhoz nem jelenthető be és a Hivatal részéről nem számolható el energiamegtakarítási kötelezettség teljesítéseként.
 
 (4a) A Hivatal online felületen – a hitelesített energiamegtakarítások nyilvántartásában – tartja nyilván az energiamegtakarításnak, valamint az energiamegtakarítás jogosultjának a Hivatal elnökének rendeletében meghatározott – személyes adatnak nem minősülő – adatait. Ezen adatokat a hitelesítő szervezet az energiamegtakarítás hitelesítését követően haladéktalanul felvezeti a Hivatal online felületén.
 
@@ -350,7 +374,7 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 
 (4e) A hitelesített energiamegtakarítások nyilvántartásában szereplő, egy adott évre elszámolható energiamegtakarítás adatait, ideértve a hitelesített energiamegtakarítás természetes személy jogosultjának nevét és címét a Hivatal a következő év március 31-ig az energiahatékonysági tájékoztató honlapján elérhetővé teszi.
 
-(5) A hitelesítő szervezet hitelesítésével igazolja, hogy az (1) bekezdés szerinti energiamegtakarítás megállapítása során megfelelően vették figyelembe az e törvény végrehajtására kiadott kormányrendelet szerinti átváltási tényezőket, számítási módszereket és elveket, továbbá a lényeges hozzájárulás meglétét, valamint az energiamegtakarítás addicionális mértékét a tárgyévre és az azt követő évekre egyaránt.
+(5) A hitelesítő szervezet hitelesítésével igazolja az egyéni fellépés tényleges megvalósulását, valamint azt, hogy az (1) bekezdés szerinti energiamegtakarítás megállapítása során megfelelően vették figyelembe az e törvény végrehajtására kiadott kormányrendelet szerinti átváltási tényezőket, számítási módszereket és elveket, a lényeges hozzájárulás meglétét, továbbá az energiamegtakarítás addicionális mértékét a tárgyévre és az azt követő évekre egyaránt.
 
 (6) Az addicionalitás kritériumait az e törvény végrehajtására kiadott kormányrendelet a szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszerei és elvei között rögzíti.
 
@@ -418,22 +442,22 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 
 (2) A Hivatal a kötelezett felekre vonatkozó energiahatékonyság-javító intézkedéseket és energiamegtakarítási adatokat folyamatosan, visszakövethetően, a kötelezett felek számára hozzáférhető módon nyilvántartja.
 
-(2a) Azon 2026. január 1-től megkezdett intézkedésekből származó megtakarítások esetében, amelyeknél az intézkedés élettartama nem éri el a második kötelezettségi időszak végét, a Hivatal a megtakarításokat a második kötelezettségi időszak végéhez arányosítva, csökkentett értékkel veszi figyelembe a 15. § (1) bekezdése szerinti megtakarítási kötelezettség teljesítésénél.
+(2a) Azon egyéni fellépésekből származó megtakarítások esetében, amelyeknél az intézkedés élettartama nem éri el a második kötelezettségi időszak végét, a hitelesítő szervezet a megtakarításokat a második kötelezettségi időszak végéhez arányosítva, csökkentett értékkel vezeti fel a hitelesített energiamegtakarítások nyilvántartásába.
 
 (3) A kötelezett fél az adott évre bejelentett energiamegtakarítás tárgyévi kötelezettség feletti részét – a (6) bekezdés szerinti kivétellel – a két megelőző évre visszamenőleg is elszámolhatja elért megtakarításként. A két megelőző évre elszámolt energiamegtakarítás csökkentett értékeléssel történhet. A csökkentés mértéke:
 
 - a) a tárgyévet megelőző évre vonatkozó elszámolás esetén 50%;
 - b) a tárgyévet megelőző második évre vonatkozó elszámolás esetén 75%.
 
-(4) A kötelezett fél a tárgyévet követő év március 31-ig nyilatkozik arról, hogy a számára az adott évre előírt kötelezettség teljesítésén felüli energiamegtakarításból mennyit kíván a korábbi évekre visszamenőlegesen elszámolni. A korábbi évekre el nem számolt, adott évre előírt kötelezettség teljesítésén felüli energiamegtakarítást a Hivatal a következő évek energiamegtakarítási kötelezettsége teljesítéseként veszi figyelembe. Az adott évre előírt kötelezettség teljesítésén felüli, a korábbi évekre el nem számolt energiamegtakarítást a Hivatal másfélszeres szorzóval veszi figyelembe a következő évek megtakarítási kötelezettsége teljesítéseként, feltéve, hogy az energiamegtakarítás hitelesített élettartama legalább három év. 2024. január 1-től a lakossági és középületekben megkezdett, az adott évre előírt kötelezettség teljesítésén felüli, a korábbi évekre el nem számolt energiamegtakarítást a Hivatal kétszeres szorzóval veszi figyelembe a következő évek megtakarítási kötelezettsége teljesítéseként, feltéve, hogy az energiamegtakarítás hitelesített élettartama eléri a második kötelezettségi időszak végét. A másfélszeres vagy kétszeres szorzóval egyszer már beszámított energiamegtakarítás ismételten nem többszörözhető. A 2025. évi és az azt követő évekre meghatározott kötelezettség teljesítésére a másfélszeres szorzóval történő elszámolás akkor alkalmazható, ha az érintett energiamegtakarítás hitelesített élettartama legalább öt év.
+(4) A kötelezett fél a tárgyévet követő év március 31-ig nyilatkozik arról, hogy a számára az adott évre előírt kötelezettség teljesítésén felüli energiamegtakarításból mennyit kíván a korábbi évekre visszamenőlegesen elszámolni. A korábbi évekre el nem számolt, adott évre előírt kötelezettség teljesítésén felüli energiamegtakarítást a Hivatal a következő évek energiamegtakarítási kötelezettsége teljesítéseként veszi figyelembe. Az adott évre előírt kötelezettség teljesítésén felüli, a korábbi évekre el nem számolt energiamegtakarítást a Hivatal másfélszeres szorzóval veszi figyelembe a következő évek megtakarítási kötelezettsége teljesítéseként, feltéve, hogy az energiamegtakarítás hitelesített élettartama legalább három év. 2024. január 1-től a lakossági és középületekben megkezdett, az adott évre előírt kötelezettség teljesítésén felüli, a korábbi évekre el nem számolt energiamegtakarítást a Hivatal kétszeres szorzóval veszi figyelembe a következő évek megtakarítási kötelezettsége teljesítéseként, feltéve, hogy az energiamegtakarítás hitelesített élettartama eléri a második kötelezettségi időszak végét. A másfélszeres vagy kétszeres szorzóval egyszer már beszámított energiamegtakarítás ismételten nem többszörözhető. A másfélszeres vagy kétszeres szorzó igénybevétele esetén a 15. § (4) bekezdésében foglalt kedvezmény egyidejűleg nem alkalmazható. A 2025. évi és az azt követő évekre meghatározott kötelezettség teljesítésére a másfélszeres szorzóval történő elszámolás akkor alkalmazható, ha az érintett energiamegtakarítás hitelesített élettartama legalább öt év.
 
 (5) Ha a kötelezett fél az adott évre számára előírt energiamegtakarítási kötelezettséget nem éri el, a tárgyévet követő év március 31-ig nyilatkozik, hogy kötelezettségét részben vagy egészben a 15/E. § (1) bekezdésében meghatározott energiahatékonysági járulék megfizetésével teljesíti-e, vagy a következő két év egyikében fogja azt teljesíteni a (3) bekezdés szerinti csökkentés figyelembevételével. A Hivatal a tárgyévet követő év január 31-ig írásbeli emlékeztetőt küld a kötelezett feleknek a járulékfizetés lehetőségéről és a nyilatkozattételi határidőről, amely tartalmazza a nyilatkozattételi határidő elmulasztása, valamint a járulék 15/E. § (1) bekezdése szerinti határidőre történő megfizetésének elmulasztása esetére alkalmazandó jogkövetkezményeket. Ha a kötelezett fél a fenti határidőn belül a hiányzó kötelezettség tekintetében nem nyilatkozik, vagy a járulék megfizetésére a 15/E. § (1) bekezdése szerinti határidőn belül nem, vagy csak részben kerül sor, az a kötelezett fél 15/F. § (1) bekezdése szerinti nemteljesítésének minősül.
 
 (6) A 2021. és a 2022. évekre vonatkozó energiamegtakarítási kötelezettség teljesítésénél a tárgyévet követő évekből az energiamegtakarítási kötelezettség feletti energiamegtakarítás visszamenőlegesen nem számítható be.
 
-(7) A tárgyévben hitelesített energiamegtakarítások reprezentatív módon kiválasztott, statisztikailag jelentős részének megfelelőségét a Hivatal ellenőrzi, függetlenül attól, hogy azt kötelezett fél az energiamegtakarítási kötelezettség teljesítéseként az (1) bekezdés alapján elszámolásra bejelentette-e. A statisztikailag jelentős hányadot a Hivatal éves ellenőrzési tervben határozza meg.
+(7) A tárgyévben hitelesített energiamegtakarítások reprezentatív módon kiválasztott, statisztikailag jelentős részének megfelelőségét a Hivatal ellenőrzi, függetlenül attól, hogy azt a kötelezett fél az energiamegtakarítási kötelezettség teljesítéseként az (1) bekezdés alapján elszámolásra bejelentette-e. A statisztikailag jelentős hányadot a Hivatal éves ellenőrzési tervben határozza meg. A Hivatal a hitelesítő szervezet által hitelesített energiamegtakarításokat akkor is ellenőrizheti, valamint a hitelesítést elvégző szervezettel szemben a hitelesítő szervezetekkel szemben alkalmazható jogkövetkezményeket akkor is alkalmazhatja, ha a hitelesítést elvégző szervezet már bármely okból nem szerepel az energetikai auditáló szervezetek nyilvántartásában.
 
-(7a) Ha a Hivatal az ellenőrzés során megállapítja, hogy az energiamegtakarítás, vagy annak egy része nem megfelelően került megállapításra, a hitelesítő szervezetet a nem megfelelően megállapított energiamegtakarítással egyező mértékű energiamegtakarításnak a végső felhasználók körében történő 180 napon belüli teljesítésére kötelezi, amely kötelezettség hitelesítő szervezet választása szerint a Hivatal elnökének az e törvény végrehajtására kiadott rendeletében megállapított mértékű megváltási díj (a továbbiakban: megváltási díj) megfizetésével is teljesíthető. A Hivatal az energiamegtakarítás teljesítésére kötelező határozatában a teljesítésre nyitva álló határidő elmulasztása esetére a hitelesítő szervezetet minden nem teljesített 1 GJ energiamegtakarítás után 70 000 Ft mértékű bírság fizetésére kötelezi. A jogkövetkezmény meghatározására irányuló, illetve bírságot kiszabó eljárásban figyelmeztetés közigazgatási szankció nem alkalmazható. Ha a Hivatal az ellenőrzése során megállapítja, hogy az energiamegtakarítás, vagy annak egy része nem megfelelően került megállapításra, az nem befolyásolja az energiamegtakarításnak az energiamegtakarítási kötelezettség teljesítéseként történő teljes mértékű elszámolhatóságát. A Hivatal a nem megfelelően megállapított energiamegtakarítási mennyiséget, valamint azt, hogy milyen korrekciókat és intézkedéseket tett a nem megfelelő megtakarítások kiküszöbölésére, külön feltünteti a 13. § (5) bekezdése szerinti jelentésében. Amennyiben a Hivatal ellenőrzése során megállapítja, hogy a hitelesítő szervezet adatszolgáltatásában jelentett hitelesített megtakarítás a Hivatal által megállapítottnál kevesebb, a Hivatal elnökének rendeletében meghatározott átalány igazgatási szolgáltatási díj alkalmazásával egyéb szankció alkalmazása nélkül felszólítja a hitelesítő szervezetet az adatszolgáltatás kijavítására.
+(7a) Ha a Hivatal az ellenőrzés során megállapítja, hogy az energiamegtakarítás vagy annak egy része nem megfelelően került megállapításra, a hitelesítő szervezetet a nem megfelelően megállapított energiamegtakarítással egyező mértékű energiamegtakarításnak a végső felhasználók körében történő 180 napon belüli teljesítésére kötelezi, amely kötelezettség – a hitelesítő szervezet választása szerint – a Hivatal elnökének az e törvény végrehajtására kiadott rendeletében megállapított mértékű megváltási díj (a továbbiakban: megváltási díj) megfizetésével is teljesíthető. A Hivatal az energiamegtakarítás teljesítésére nyitva álló határidő elmulasztása esetén a hitelesítő szervezetet minden nem teljesített 1 GJ energiamegtakarítás után 70 000 Ft mértékű bírság fizetésére kötelezi. A jogkövetkezmény meghatározására irányuló, illetve bírságot kiszabó eljárásban figyelmeztetés közigazgatási szankció nem alkalmazható. Ha a Hivatal az ellenőrzése során megállapítja, hogy az energiamegtakarítás, vagy annak egy része nem megfelelően került megállapításra, az nem befolyásolja az energiamegtakarításnak az energiamegtakarítási kötelezettség teljesítéseként történő teljes mértékű elszámolhatóságát. A Hivatal a nem megfelelően megállapított energiamegtakarítási mennyiséget, valamint azt, hogy milyen korrekciókat és intézkedéseket tett a nem megfelelő megtakarítások kiküszöbölésére, külön feltünteti a 13. § (5) bekezdése szerinti jelentésében. Ha a Hivatal ellenőrzése során megállapítja, hogy a hitelesítő szervezet adatszolgáltatásában jelentett hitelesített megtakarítás a Hivatal által megállapítottnál kevesebb, a Hivatal a (7b) bekezdésben foglaltak szerint jár el.
 
 (7b) Ha a Hivatal az ellenőrzése során megállapítja, hogy az adott egyéni fellépés kapcsán a hitelesített energiamegtakarításnál több energiamegtakarítást kellett volna megállapítani, a többlet jogosultjaként a Hivatal az energiamegtakarítás első jogosultját tünteti fel a hitelesített energiamegtakarítások nyilvántartásában. Több első jogosult esetén a különbözet a hitelesítés időpontja szerinti jogosulti arány szerint kerül szétosztásra az első jogosultak közt.
 
@@ -442,6 +466,8 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 (8) Ha a Hivatal a hitelesítő szervezettel szemben két éven belül a megállapított és a megfelelően megállapítható elszámolható energiamegtakarítás között több mint 10%-os eltérést állapít meg, és emiatt a (7a) bekezdés alapján négy alkalommal jogkövetkezményt alkalmaz, a Hivatal a jogkövetkezményt alkalmazó negyedik határozatában két évre eltiltja a hitelesítő szervezetet a hitelesítés végzésétől. Erről a hitelesítő szervezetet a (7a) bekezdés szerinti jogkövetkezmény első három alkalommal történő alkalmazásakor tájékoztatni kell. A tiltás hatálya alatt az energetikai auditáló szervezet energetikai auditoraként bejegyzett személlyel későbbiekben bejegyzésre kerülő energetikai auditáló szervezet sem végezhet hitelesítést.
 
 (9) A Hivatal (7a) bekezdés szerinti, energiamegtakarítás teljesítésére kötelező határozatában foglalt mértékig a hitelesítő szervezet hitelesített energiamegtakarítást vásárolhat. A (7a) bekezdés szerinti határozat alapján teljesítendő energiamegtakarítás bejelentésének módját a Hivatal elnöke az e törvény végrehajtására kiadott rendeletében határozza meg. A (7a) bekezdés szerinti határozatban foglaltak teljesítése céljából bejelentett hitelesített energiamegtakarítás forgalomképtelen és kizárólag a (7a) bekezdés szerinti határozatban foglalt kötelezettség teljesítésére használható fel.
+
+(10) Ha a Hivatal az ellenőrzése során megállapítja az energiamegtakarítás nem megfelelő megállapítását, és a hitelesítő szervezettel szemben a (7a) bekezdés szerinti jogkövetkezményeket alkalmazza, a Hivatal a döntéséről szóló határozatot honlapján közzéteszi a határozat véglegessé válását követő 10 napon belül.
 
 15/E. § (1) Ha a kötelezett fél az adott évre számára előírt energiamegtakarítási kötelezettséget hitelesített energiamegtakarítás bejelentésével nem teljesítette, az energiamegtakarítási kötelezettség teljesítése helyett – részben vagy egészben – energiahatékonysági járulék megfizetését választhatja. Az energiahatékonysági járulék mértéke 50 000 Ft / minden nem teljesített 1 GJ/év energiamegtakarításra. Az energiahatékonysági járulékot a kötelezett fél a tárgyévet követő május 31-ig fizeti meg az energiapolitikáért felelős miniszter e törvény végrehajtására kiadott rendeletében meghatározott számlaszámra. Az energiahatékonysági járulékfizetésre vonatkozó nyilatkozatok 15/D. § (5) bekezdése szerinti határidejének lejártát követően a Hivatal elnöke haladéktalanul tájékoztatást küld az energiapolitikáért felelős miniszternek a járulék beszedéséhez szükséges adatokkal, ideértve a befizető kötelezett felek személyét és a megfizetendő összeget. Az energiahatékonysági járulékfizetés teljesítésének határidejét követően az energiapolitikáért felelős miniszter tájékoztatja a Hivatalt a befizető kötelezett felek személyéről, a megfizetett összegről és a jóváírás dátumáról.
 
@@ -509,6 +535,10 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 - c) a lakosság számára ingyenes energetikai tanácsadást biztosít, valamint nyomon követi a tanácsadás következtében elért energiamegtakarítás mértékét,
 - d) tájékoztatást nyújt az elérhető energiahatékonysági pályázatokról.
 - e) tájékoztatást nyújt az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet szerinti energiahatékonysági tanúsítványokról, ezek rendeltetéséről és céljáról, a megújuló energiahasználatot, és a rendkívül energiahatékony megoldásokat is ösztönző költséghatékony intézkedésekről, felújítási tanácsadás keretében az épület energiahatékonyságának javítását és a megújuló energiahasználat növelését szolgáló pénzügyi eszközökről, valamint a fosszilis tüzelőanyaggal működő kazánok fenntarthatóbb – pl. megújuló energián, hulladékhőn vagy hulladék hűtőenergián alapuló – alternatívával való helyettesítéséről.
+
+(5) A Magyar Mérnöki Kamara az energetikai tanácsadással összefüggő tájékoztató és nyomonkövetési tevékenysége ellátása érdekében kezeli a tanácsadásra jelentkező ügyfelek adatait és a végrehajtó hatósági tevékenysége ellátása keretében adatot szolgáltat az erre kijelölt szerveknek.
+
+(6) A Magyar Mérnöki Kamara tájékoztatási feladatai ellátásának fedezetét a központi költségvetés az energiapolitikáért felelős minisztérium fejezeti kezelésű előirányzata keretében biztosítja.
 
 #### 17/A. Fogyasztóvédelmi feladatok a távhűtés terén
 
@@ -1070,7 +1100,7 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 
 (13)
 
-#### 25. A névjegyzék vezetésének és a közreműködő szervezetek nyilvántartásának, az adatok kezelésének közös szabályai
+#### 25. A névjegyzék vezetésének és a közreműködő szervezetek nyilvántartásának, az adatok kezelésének közös szabályai, tanúsítási, képesítési rendszerek értékelése
 
 40. § (1) A Hivatal az energetikai auditorok és energetikai auditáló szervezetek, valamint a természetes személy energetikai szakreferensek és az energetikai szakreferens szervezetek engedélyezése, névjegyzékének vezetése, a közreműködő szervezetek nyilvántartásának vezetése, valamint az e törvény szerinti ellenőrzési feladatainak ellátása céljából kezeli
 
@@ -1090,6 +1120,15 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 (2) A közreműködő szervezet a képzésre, továbbképzésre, szakmai vizsgára, valamint megújító vizsgára való jelentkezés időpontjától számított két év elteltéig gondoskodik az (1) bekezdés b) pontja szerinti, valamint a névjegyzékből történő törlés időpontjától számított tíz év elteltéig gondoskodik az (1) bekezdés a) pontja szerinti adatok megőrzéséről, azt követően intézkedik azok megsemmisítése iránt.
 
 42. § Az adatkezelők által kezelt személyes adatokat az adatkezelő és az adatfeldolgozó korlátozás nélkül, egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával ismerhetik meg.
+
+42/A. § (1) Az energiapolitikáért felelős miniszter a Magyar Mérnöki Kamara és a Hivatal bevonásával négyévente értékeli, hogy a nemzeti tanúsítási vagy az azzal egyenértékű képesítési rendszerek:
+
+- a) az energiahatékonysági szolgáltatók, az energetikai auditokat végző szolgáltatók, az energiakezelők, a független szakértők, a kivitelezők számára biztosítják-e a szükséges kompetenciaszintet,
+- b) a megkülönböztetésmentesség elvének megfelelően mindenki számára biztosítják-e az egyenlő hozzáférést.
+
+(2) Az értékelésnek ki kell terjednie a rendelkezésre álló és a keresett szakemberek száma közötti eltérés vizsgálatára is.
+
+(3) Az értékelést az energiapolitikáért felelős miniszter közzéteszi és benyújtja az Európai Bizottság részére az (EU) 2018/1999 európai parlamenti és tanácsi rendelet 28. cikkével összhangban létrehozott e-platformon keresztül.
 
 ### VIII/A. Fejezet — ENERGETIKAI FELÜLVIZSGÁLAT
 
@@ -1115,6 +1154,15 @@ hozzáférhető részeinek vonatkozásában rendszeres energetikai felülvizsgá
 - b) az épület energiahatékonyságának értékelésére, az épülettechnikai rendszerek hatékonyságcsökkenésének feltárására, a berendezések vagy az épülettechnikai rendszer kezeléséért felelős személy tájékoztatására az energiahatékonyság javításának lehetőségéről; valamint
 - c) az összekapcsolt épülettechnikai rendszerekkel vagy az épületen belüli más készülékekkel való kommunikáció lehetővé tételére, valamint az épülettechnikai rendszerekkel történő átjárhatóságra, a különböző típusú jogvédett technológiáktól, berendezésektől és gyártóktól függetlenül.
 
+(4a) Nem szükséges energetikai felülvizsgálat azon épületautomatizálási és -szabályozási rendszerrel felszerelt nem lakóépületek vonatkozásában, amelyekben az (1) bekezdésben meghatározott rendszer üzemel, és amelyek épületautomatizálási és -szabályozási rendszere megfelel a (4) bekezdés a)–c) pontjának.
+
+(4b) Nem szükséges energetikai felülvizsgálat azon épületek vonatkozásában, amelyekben az (1) bekezdésben meghatározott rendszer üzemel, és amelyekben a rendszer működtetése
+
+- a) az e törvény végrehajtására kiadott kormányrendeletben meghatározott tartalmi elemeket rögzítő energiahatékonyság-alapú szerződés, vagy
+- b) távhőszolgáltatóval megkötött rendszerüzemeltetési szerződés
+
+hatálya alá tartozik.
+
 (5) Az energetikai felülvizsgálat elvégzéséről az (1) bekezdésben meghatározott rendszer üzemeltetője, ennek hiányában az épület tulajdonosa (a továbbiakban együtt: rendszerüzemeltető) köteles gondoskodni.
 
 (6) Az energetikai felülvizsgálatot a klímavédelemért felelős hatóság (a továbbiakban: Hatóság) által üzemeltetett adatbázisban (a továbbiakban: Adatbázis) regisztrációval rendelkező energetikai felülvizsgáló végezhet.
@@ -1130,9 +1178,13 @@ hozzáférhető részeinek vonatkozásában rendszeres energetikai felülvizsgá
 
 (10) Az energetikai felülvizsgálat akkor minősül teljesítettnek, amikor a felülvizsgálati jelentés átadása a (9) bekezdés szerint megtörtént, és az energiapolitikáért felelős miniszter rendeletében meghatározott díját az energetikai felülvizsgáló megfizette.
 
-(11) Az energetikai felülvizsgálati kötelezettséggel érintett épület vonatkozásában fennálló (3) és (4) bekezdés szerinti mentességet a rendszerüzemeltető köteles igazolni. A Magyar Mérnöki Kamara a mentesség igazolására szolgáló dokumentumok vizsgálatának eredményéről az Adatbázis útján értesíti a Hatóságot.
+(11) Az energetikai felülvizsgálati kötelezettség alól a (3)–(4b) bekezdésben meghatározottak alapján mentesülő épület esetében a rendszerüzemeltető gondoskodik az energetikai felülvizsgáló útján a mentességi kérelem Magyar Mérnöki Kamarához történő benyújtásáról a (6) bekezdés szerinti Adatbázison keresztül. A Magyar Mérnöki Kamara a mentességi kérelemről hatósági eljárásban dönt. A Magyar Mérnöki Kamara a döntéséről az ügyféllel való közlésen felül az Adatbázis útján értesíti a Hatóságot.
 
-43/A. § (1) A Hatóság a 43. § (1) bekezdésben meghatározott rendszerekről inspekciós szám alkalmazásával, a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a 43. § (3) és (4) bekezdésben meghatározott mentességi feltétel igazolásának időpontjáig az alábbi célok érdekében:
+(12) A mentességi kérelem elbírálásáért az energetikai felülvizsgáló kérelmenként a Magyar Mérnöki Kamara külön szabályzatában meghatározott díjat köteles fizetni a Magyar Mérnöki Kamarának. A díj a Magyar Mérnöki Kamara bevételét képezi, amelyet a Magyar Mérnöki Kamara a mentességi kérelem elbírálásával kapcsolatos tevékenységei ellátására fordít. A Magyar Mérnöki Kamara a tárgyévre vonatkozó díjat a tárgyévet megelőző év december 31-ig a honlapján közzéteszi.
+
+(13) A (4b) bekezdés a) pontjában meghatározott esetben a mentesség az energiahatékonyság-alapú szerződés időtartamáig érvényes.
+
+43/A. § (1) A Hatóság a 43. § (1) bekezdésben meghatározott rendszerekről inspekciós szám alkalmazásával, a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a 43. § (3)–(4b) bekezdésében meghatározott mentességi feltétel igazolásának időpontjáig az alábbi célok érdekében:
 
 - a) az épületek energiahatékonyságának, különösen a fűtési és hűtési rendszerek szükségleteknek megfelelő, leginkább költséghatékony javításának előmozdítása;
 - b) az energetikai felülvizsgálattal kapcsolatos jogok és kötelezettségek teljesülésének ellenőrzése;
@@ -1205,7 +1257,7 @@ hozzáférhető részeinek vonatkozásában rendszeres energetikai felülvizsgá
 
 43/C. § (1) A Hatóság az e törvényben és végrehajtására kiadott kormányrendeletben meghatározottak szerint ellenőrzi a kötelező energetikai felülvizsgálat teljesítését.
 
-(2) A felülvizsgálati jelentés kiállításához felhasznált adatok és a felülvizsgálati jelentésben feltüntetett eredmények, ajánlások szakmai ellenőrzéséről a Hatóság a Magyar Mérnöki Kamara útján, megállapodás keretében gondoskodik.
+(2) A felülvizsgálati jelentés kiállításához felhasznált adatok és a felülvizsgálati jelentésben feltüntetett eredmények, ajánlások szakmai ellenőrzését a Magyar Mérnöki Kamara látja el.
 
 (3) A Magyar Mérnöki Kamara az ellenőrzése során a 43. § (1) bekezdésben meghatározott rendszer rendszerüzemeltetőjétől bekérhet a kötelezettség teljesítésével kapcsolatos bármely adatot, kapcsolódó dokumentációt, ideértve valamely mentesülési lehetőség igénybevételét igazoló iratot.
 
@@ -1244,6 +1296,7 @@ hozzáférhető részeinek vonatkozásában rendszeres energetikai felülvizsgá
 - w) az energetikai felülvizsgálattal kapcsolatos hatósági feladatokat ellátó hatóság kijelölését, az energetikai felülvizsgálat ellenőrzésére, valamint annak teljesítésének ellenőrzésére és az energetikai felülvizsgálattal kapcsolatos kötelezettségek megszegése esetén kiszabható bírság mértékére vonatkozó szabályokat,
 - x) az energetikai felülvizsgáló képzésére vonatkozó részletszabályokat,
 - y) az energetikai felülvizsgálatra vonatkozó egyéb részletszabályokat
+- z) az adatközpontok által az adatközpontok európai adatbázisába történő adatszolgáltatási kötelezettség keretében történő – személyes adatnak nem minősülő – adatszolgáltatás kötelező tartalmi elemeit
 
 rendeletben állapítsa meg.
 
@@ -1274,6 +1327,7 @@ rendeletben állapítsa meg.
 - k) a nem megfelelően megállapított energiamegtakarítás esetén teljesítendő energiamegtakarítás helyett választható megváltási díj mértékét
 - l) a hitelesített energiamegtakarításról, valamint az energiamegtakarítás jogosultjáról vezetett nyilvántartás – személyes adatnak nem minősülő – adattartalmát,
 - m) a közintézmények energiamegtakarítási adatainak nyomon követéséhez szükséges adatszolgáltatás adattartalmát és részletszabályait
+- n) a 15/D. § (1h) bekezdésében meghatározott esetben a hitelesített energiamegtakarítások bejelentésének felfüggesztésével kapcsolatos technikai részletszabályokat
 
 rendeletben állapítsa meg.
 
@@ -1296,6 +1350,10 @@ rendeletben állapítsa meg.
 (5) A társasági adóbevallásban tett nyilatkozatuk szerint a Kkvtv. alapján mikro-, kis- és középvállalkozásnak nem minősülő gazdálkodó szervezeteket tartalmazó listát a Nemzeti Adó- és Vámhivatal 2016. évre vonatkozóan a Mód. Tv. 5. alcímének hatálybalépését követő 30 napon belül bocsátja a Hivatal rendelkezésére.
 
 (6) Első alkalommal 2017. július 1-jétől kell az energetikai auditornak és az energetikai szakreferensnek éves továbbképzést teljesíteni, valamint a közreműködő szervezetnek a továbbképzést megszervezni.
+
+(6a) A nemzeti tanúsítási vagy az azzal egyenértékű képesítési rendszerek értékelésének 42/A. § (3) bekezdés szerinti benyújtására első alkalommal 2025. június 30-ig kerül sor.
+
+(6b) A 10/A. § szerinti jelentés benyújtására első alkalommal 2025. március 15-ig kerül sor.
 
 (7) A Hivatal 2017. június 30-ig nem szab ki bírságot az energetikai szakreferens igénybevételéről szóló bejelentés elmulasztása miatt.
 
@@ -1327,6 +1385,12 @@ rendeletben állapítsa meg.
 
 (21) A Módtv. hatálybalépése előtt határozott időtartamra kiadott és a Módtv. hatálybalépésekor hatályos engedély határozatlan időtartamúvá válik.
 
+(22) E törvénynek a klímagázokról szóló 2024. évi LXXXVII. törvénnyel (a továbbiakban: Klímagáz tv.) megállapított 15. § (4a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megindult alternatív szakpolitikai intézkedésekre.
+
+(23) E törvénynek a Klímagáz tv.-vel megállapított 15. § (5a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megkezdett intézkedésekre, amennyiben az intézkedésből származó energiamegtakarítást 2025. március 31-ig felvezetik a hitelesített energiamegtakarítások nyilvántartásába.
+
+(24) E törvénynek a Klímagáz tv.-vel megállapított 15/D. § (2a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megkezdett intézkedésekre, amennyiben az intézkedésből származó energiamegtakarítást 2025. március 31-ig felvezetik a hitelesített energiamegtakarítások nyilvántartásába.
+
 #### 29. Jogharmonizációs záradék
 
 49. § (1) E törvény
@@ -1336,13 +1400,16 @@ rendeletben állapítsa meg.
 - c) az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelvnek,
 - d) az épületek energiahatékonyságáról szóló 2010/31/EU irányelv és az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/844 európai parlamenti és tanácsi irányelvnek,
 - e) az energiahatékonyságról szóló, 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelvnek
-- f) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 15. cikk (5) és (6) bekezdésének
+- f) a megújulóenergia-forrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv 15. cikk (5) és (6) bekezdésének,
+- g) az energiahatékonyságról és az (EU) 2023/955 rendelet módosításáról szóló, 2023. szeptember 13-i (EU) 2023/1791 európai parlamenti és a tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 (2) E törvény 5. §-a a 2012/27/EU európai parlamenti és tanácsi irányelv VIII. és IX. mellékletének a hatékony fűtési és hűtési potenciál átfogó értékelésének tartalma tekintetében történő módosításáról szóló, 2019. március 4-i 2019/826/EU felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(3) A 2. § (3) és (4) bekezdése, a 4. § (4) bekezdése, a 6. § 6. és 18. pontja, a 7. § a) és b) pontja, továbbá a 13. § (6) bekezdése az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1999 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(3) A 2. § (3) és (4) bekezdése, a 4. § (4) bekezdése, a 6. § 6. és 18. pontja, a 7. § a) és b) pontja, a 13. § (6) bekezdése, továbbá a 42/A. § (3) bekezdése az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1999 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) Az 1. § 1a., 3., és 32. pontja az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 30. Módosító rendelkezések
 

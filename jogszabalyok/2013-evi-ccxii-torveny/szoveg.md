@@ -85,7 +85,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 12. § A föld tulajdonjogának megszerzésére irányuló szerződés létrejöttében érdekeltek, illetve a szerződő felek közötti írásbeli közlésnek minősül a postai úton, elektronikus úton, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés, ide nem értve az adás-vételi szerződésnek az elővásárlásra jogosultakkal a Földforgalmi törvényben meghatározott hirdetményi úton való közlését.
 
-13. § (1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13–15. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
+13. § (1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13. és 14. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
 
 - a) természetes személy szerződő fél
   - aa) természetes személyazonosító adatait,
@@ -113,7 +113,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 (2) Az (1) bekezdésbe ütköző szerződés semmis.
 
-14. § Visszavásárlási, vételi jog, illetve eladási jog alapítása esetén az adás-vételi szerződés a visszavásárlási, a vételi jog, illetve az eladási jog gyakorlásával jön létre. E jogok gyakorlására irányuló nyilatkozatnak tartalmaznia kell a Földforgalmi törvény 13–15. §-ában foglalt nyilatkozatokat is.
+14. § Visszavásárlási, vételi jog, illetve eladási jog alapítása esetén az adás-vételi szerződés a visszavásárlási, a vételi jog, illetve az eladási jog gyakorlásával jön létre. E jogok gyakorlására irányuló nyilatkozatnak tartalmaznia kell a Földforgalmi törvény 13. és 14. §-ában foglalt nyilatkozatokat is.
 
 15. § A Földforgalmi törvény 36. § (1) bekezdésében meghatározott, hatósági jóváhagyáshoz nem kötött, a föld tulajdonjogának a megszerzésére irányuló szerződés, valamint a tulajdonjog-átruházásnak nem minősülő tulajdonszerzés alapjául szolgáló okirat esetében, a szerző fél jogosultságának valamely hatósági nyilvántartásba vétele tekintetében a kérelem tartalmára és a szerződés, illetve az okirat benyújtásának módjára a hatósági nyilvántartásra vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
 
@@ -364,6 +364,7 @@ használhatja fel.
 - b) a Földforgalmi törvény 20. §-ában foglalt esetek kivételével az adásvételi szerződés közzétételének mellőzése,
 - c) a helyi földbizottság megkeresésének mellőzése,
 - d) az adásvételi szerződésnek a Földforgalmi törvény 23. § (4) bekezdésében foglalt valamely kizáró okkal érintett elővásárlási jogosulttal való jóváhagyása
+- e) a Földforgalmi törvény 23. § (3a) bekezdésében foglaltak megsértése
 
 súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozott jóváhagyó határozatot meg kell semmisíteni, illetve vissza kell vonni, és szükség esetén új eljárást kell lefolytatni.
 
@@ -375,7 +376,7 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 
 (2) A föld tulajdonjogának a Földforgalmi törvény 67/A. §-a alapján vételi jog érvényesítésével történő megszerzésének jóváhagyására vonatkozó eljárást a mezőgazdasági igazgatási szerv hivatalból indítja meg a vételi jog gyakorlására irányuló nyilatkozat mezőgazdasági igazgatási szervhez történő beérkezését követő napon.
 
-(3) A vételi jog gyakorlására irányuló nyilatkozatnak tartalmaznia kell a Földforgalmi törvény 13–15. §-ában foglalt nyilatkozatokat. A vételi jog jogosultjának adatai tekintetében a vételi jog gyakorlására irányuló nyilatkozatnak tartalmaznia kell a 13. § (1) és (2) bekezdésében foglaltakat.
+(3) A vételi jog gyakorlására irányuló nyilatkozatnak tartalmaznia kell a Földforgalmi törvény 13. és 14. §-ában foglalt nyilatkozatokat. A vételi jog jogosultjának adatai tekintetében a vételi jog gyakorlására irányuló nyilatkozatnak tartalmaznia kell a 13. § (1) és (2) bekezdésében foglaltakat.
 
 (4) A jogügylet jóváhagyása esetén a mezőgazdasági igazgatási szerv a vételi jog gyakorlására irányuló nyilatkozat két eredeti példányát látja el jóváhagyó záradékkal.
 
@@ -501,7 +502,7 @@ kell érteni.
 
 (2) Az (1) bekezdésbe ütköző szerződés semmis.
 
-(3) Ha a haszonbérleti szerződés a gazdasági év végével megszűnik, a haszonbérlő az adott gazdasági évhez kapcsolódó betakarításra a szerződés megszűnését követően is jogosult. A felek ezzel ellentétes megállapodása – a haszonbérleti szerződés közös megegyezéssel történő megszüntetése kivételével – semmis.
+(3) Ha a haszonbérleti szerződés a gazdasági év végével megszűnik, a haszonbérlő az ugyanazon gazdasági évhez kapcsolódó betakarításra a szerződés megszűnését követően is jogosult. A felek ezzel ellentétes megállapodása – a haszonbérleti szerződés közös megegyezéssel történő megszüntetése kivételével – semmis.
 
 #### 13. A haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal való közlése
 
@@ -521,7 +522,7 @@ kell érteni.
 
 #### 14. Az előhaszonbérleti jog gyakorlása
 
-55. § Az előhaszonbérletre jogosulttól származó elfogadó jognyilatkozatnak a jogosult adatai tekintetében a 13. § (1) bekezdésében foglaltakat kell tartalmaznia.
+55. § Az előhaszonbérletre jogosulttól származó elfogadó jognyilatkozatnak a jogosult adatai tekintetében a 13. § (1) és (2) bekezdésében foglaltakat kell tartalmaznia.
 
 55/A. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az előhaszonbérletre jogosult gazdaság termelőként a haszonbérlet tárgyát képező föld valamely művelési ága szerinti művelési ágú föld vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
 
@@ -597,7 +598,7 @@ fog előállítani.
 
 61. § (1) Az 58–60. §-ban meghatározott felmondás esetén, ha a felmondás ellen a másik fél annak kézhezvételét követő 30 napon belül írásban tiltakozik, a felmondást gyakorló további 30 napon belül bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
 
-(2) A szerződő felek az 58–60. §-ban meghatározott rendelkezésektől érvényesen nem térhetnek el.
+(2) A szerződő felek az 57–60. §-ban meghatározott rendelkezésektől érvényesen nem térhetnek el.
 
 62. § (1) A szerződés bármilyen okból történő megszűnésekor a haszonbérbeadó és a haszonbérlő köteles egymással elszámolni. Semmis az olyan megállapodás, amely az elszámolást előre kizárja.
 
@@ -629,7 +630,7 @@ fog előállítani.
 
 64. § A Földforgalmi törvény 42. § (1) bekezdésének alkalmazásában a föld használata átengedésének tilalma nem vonatkozik a 65. §-ban meghatározott alhaszonbérbe adásra. A 65. §-ban és a Földforgalmi törvény 42. § (2) bekezdésében meghatározott esetek kivételével az alhaszonbérbe adásra kötött szerződés semmis.
 
-65. § (1) Ha a haszonbérelt földön megtermelendő termény vetésforgó, illetve túlnyomó részben élőmunka ráfordítás alkalmazását igényli – ideértve a vetőmag előállítást is –, a haszonbérlő a haszonbérbeadó hozzájárulásával megállapodhat más földművessel vagy mezőgazdasági termelőszervezettel, hogy a részére a föld használatát egyes, a vetésforgó alkalmazásához szükséges vagy túlnyomó részben élőmunka ráfordítást igénylő mezőgazdasági munkák elvégzésének időtartamára, de legfeljebb a haszonbérleti szerződés lejártáig átengedi. E bekezdés szerinti alhaszonbérleti szerződést önálló, egységes okiratba kell foglalni.
+65. § (1) Ha a haszonbérelt földön megtermelendő termény vetésforgó, illetve túlnyomó részben élőmunka ráfordítás alkalmazását igényli – ideértve a vetőmag előállítást is –, a haszonbérlő a haszonbérbeadó hozzájárulásával megállapodhat más földművessel vagy mezőgazdasági termelőszervezettel, hogy a részére a föld használatát egyes, a vetésforgó alkalmazásához szükséges vagy túlnyomó részben élőmunka ráfordítást igénylő mezőgazdasági munkák elvégzésével érintett legfeljebb egy gazdasági évre, de a haszonbérleti szerződés lejártát meg nem haladó időtartamra átengedi. Az adott föld öt egymást követő gazdasági évben legfeljebb két gazdasági évet érintően adható alhaszonbérbe. E bekezdés szerinti alhaszonbérleti szerződést önálló, egységes okiratba kell foglalni.
 
 (2) Az (1) bekezdés szerinti alhaszonbérleti szerződés nem érinti a haszonbérlőnek a haszonbérbeadóval szemben fennálló kötelezettségeit.
 
@@ -761,7 +762,7 @@ meg kell térítenie.
 
 (9) Erdőkezelés esetén az erdészeti hatóság az erdőgazdálkodói nyilvántartásba erdőgazdálkodóként az erdőkezelőt jegyzi be.
 
-(10) Az erdőkezelésre irányuló szerződést írásba kell foglalni. Közös tulajdonban álló önálló erdőgazdálkodási egység esetén a szerződés létrejöttéhez az érintett tulajdonostársak tulajdoni hányad alapján – a 72. § (5) bekezdésében foglaltak alkalmazásával – számított többségének döntése szükséges.
+(10) Az erdőkezelésre irányuló szerződést írásba kell foglalni. Közös tulajdonban álló önálló erdőgazdálkodási egység esetén a szerződés létrejöttéhez az érintett tulajdonostársak tulajdoni hányad alapján – a 72. § (5) bekezdésében foglaltak alkalmazásával – számított egyszerű többségének döntése szükséges.
 
 (11) A tulajdonos azonnali hatállyal felmondhatja az erdőkezelési szerződést, ha az erdőkezelő
 
@@ -875,7 +876,7 @@ javára történő átengedésére.
 
 73. § (1) Az ajánlat tartalmától eltérő tartalmú elfogadó nyilatkozatokat az ajánlattevő megvizsgálja, és ha a használatba vételi szándéka továbbra is fennáll, az elfogadó nyilatkozatok tartalmától függően módosított ajánlatot köteles közölni. A módosított ajánlat új ajánlatnak minősül, amelynek közlésére és elfogadására a 72. §-ban foglaltakat kell alkalmazni.
 
-(2) Az (1) bekezdésben foglaltakat kell alkalmazni akkor is, ha a tulajdonostárs az ajánlatra a megadott határidőn belül úgy nyilatkozik, hogy a használati megosztás alapján a tulajdoni hányadának megfelelő vagy attól eltérő területet maga kívánja használni, illetve annak használatát az ajánlattevőtől eltérő más személynek vagy gazdálkodó szervezetnek kívánja átengedni.
+(2) Az (1) bekezdésben foglaltakat kell alkalmazni akkor is, ha a tulajdonostárs az ajánlatra a 72. § (3) bekezdés g) pontja szerinti határidőn belül úgy nyilatkozik, hogy a használati megosztás alapján a tulajdoni hányadának megfelelő vagy attól eltérő területet maga kívánja használni, illetve annak használatát az ajánlattevőtől eltérő más személynek vagy gazdálkodó szervezetnek kívánja átengedni. Ebben az esetben a 71. § (1a) bekezdése alkalmazásának nincs helye.
 
 74. § (1) A földhasználati szerződést egységes okiratba kell foglalni.
 
@@ -1038,6 +1039,7 @@ javára történő átengedésére.
 - a) a Földforgalmi törvény 51. § (2) bekezdésében foglaltak megsértése,
 - b) a Földforgalmi törvény 48. § (1) bekezdésében foglalt esetek kivételével a haszonbérleti szerződés közzétételének mellőzése,
 - c) a haszonbérleti szerződésnek a Földforgalmi törvény 51. § (5) bekezdésében foglalt valamely kizáró okkal érintett előhaszonbérleti jogosulttal való jóváhagyása
+- d) a Földforgalmi törvény 51. § (3a) bekezdésében foglaltak megsértése
 
 súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozott jóváhagyó határozatot meg kell semmisíteni, illetve vissza kell vonni, és szükség esetén új eljárást kell lefolytatni.
 
@@ -1112,7 +1114,7 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 - a) a családi mezőgazdasági társaság tagja,
 - b) az őstermelők családi gazdaságának tagja,
 - c) fiatal földműves,
-- d) pályakezdő gazdálkodó.
+- d)
 
 (10) Ha több, azonos ranghelyen álló nyilvántartott kérelmezőt lehetne kényszerhasznosítóként kijelölni, a mezőgazdasági igazgatási szerv a helyi földbizottság javaslatának figyelembevételével választja ki az azonos ranghelyen álló nyilvántartott kérelmezők közül a föld kényszerhasznosítóját.
 

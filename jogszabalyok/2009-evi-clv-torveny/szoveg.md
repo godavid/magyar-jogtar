@@ -221,7 +221,7 @@ minősítési szintű.
 (4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő,
 
 - a) az e törvényben és a végrehajtására kiadott rendeletekben meghatározott személyi, fizikai és adminisztratív, valamint
-- b) ha a szerv a minősített adatot elektronikus információs rendszeren kezeli, az e törvényben és az elektronikus információbiztonságról szóló törvényben és végrehajtásukra kiadott jogszabályokban meghatározott elektronikus
+- b) ha a szerv a minősített adatot elektronikus információs rendszeren kezeli, az e törvényben és a Magyarország kiberbiztonságáról szóló törvény végrehajtására kiadott jogszabályokban meghatározott elektronikus
 
 biztonsági feltételeket.
 

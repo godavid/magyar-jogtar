@@ -1721,15 +1721,16 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 (2) A menekültügyi hatóság
 
-- a) az (1) bekezdés a)–o) és q)–z) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
-- b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől
+- a) az (1) bekezdés a)–o) és q)–z) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől számított huszonöt évig,
+- b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől számított tíz évig
 
-számított huszonöt évig kezeli.
+kezeli.
 
 (3) Az ujjnyomat-adat rögzítésének és tárolásának célja
 
 - a) a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet végrehajtása;
 - b) a tizenkettedik életévét betöltött elismerését kérő esetében a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 21. és 22. cikke szerinti hozzáférés biztosítása.
+- c) az (EU) 2019/818 európai parlamenti és tanácsi rendelet végrehajtása.
 
 (4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek. A (3) bekezdés a) és b) pontjában meghatározott célból rögzített ujjnyomat-adat ellenőrzés eredményét a menekültügyi hatóság haladéktalanul továbbítja a szakhatóságként eljáró rendőrségi szerv és polgári nemzetbiztonsági szolgálat részére.
 
@@ -1862,6 +1863,7 @@ számított huszonöt évig kezeli.
 - o) a jogszabály, illetve szerződés alapján támogatást folyósító szervek,
 - p) a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendeletben meghatározott Felelős Hatóság a Menekültügyi, Migrációs és Integrációs Alap által finanszírozott intézkedésekben résztvevőkről az Európai Parlament és a Tanács 514/2014/EU Rendelete 25. cikk (1) bekezdés a) pontjában meghatározott egyéni szintű nyomonkövetés, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében,
 - q) a konzuli szolgálat
+- r) a közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság
 
 igényelhetnek adatot.
 
@@ -1936,8 +1938,8 @@ igényelhetnek adatot.
 
 (7) A menekültügyi hatóság a (2) bekezdés a)–e) pontja szerinti adatokat
 
-- a) az Európai Unió tagállamainak menekültügyi hatóságai számára,
-- b) az Európai Unió tagállamainak 87. § (1) bekezdés a)–e) pontjai szerinti más hatóságai számára
+- a) az Európai Unió tagállamainak, vagy a többi schengeni államnak a menekültügyi hatóságai számára,
+- b) az Európai Unió tagállamainak, vagy a többi schengeni államnak a 87. § (1) bekezdés a)–e) pontjai szerinti más hatóságai számára
 
 hatósági eljárás lefolytatása érdekében adhatja át.
 
@@ -2112,3 +2114,4 @@ az Alaptörvény XIV. cikk (5) bekezdése alapján sarkalatosnak minősül.
 - d) az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1561/2003/EK rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet;
 - e) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet;
 - f) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet.
+- g) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet.

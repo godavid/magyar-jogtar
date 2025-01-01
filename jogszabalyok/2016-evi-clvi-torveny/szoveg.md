@@ -169,7 +169,7 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 (3)
 
-9/C. § (1) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője a tevékenysége megkezdésétől számított 5 napon belül a Nemzeti Turisztikai Adatszolgáltató Központban elektronikus úton regisztrál.
+9/C. § (1) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője a tevékenysége bejelentését megelőzően elektronikus úton regisztrál a Nemzeti Turisztikai Adatszolgáltató Központba.
 
 (2) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, a turisztikai attrakció üzemeltetője regisztrációja, annak módosítása vagy törlése, valamint a nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a Vhr.-ben megjelölt egyéb szabályozott és központi elektronikus ügyintézési szolgáltatásokra (a továbbiakban együtt: SZEÜSZ) vonatkozó szabályok megfelelő alkalmazásával, a Vhr.-ben meghatározott módon, elektronikus úton történik.
 
@@ -201,23 +201,30 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 - a) a Magyar Turisztikai Ügynökség Zrt.,
 - b) a helyi önkormányzat,
-- c) az állami adóhatóság, valamint
-- d) a KSH.
+- c) az állami adóhatóság,
+- d) a KSH, valamint
+- e) a rendőrség.
 
 (2) A Nemzeti Turisztikai Adatszolgáltató Központnak a vendéglátó üzlet üzemeltetője által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:
 
 - a) a Magyar Turisztikai Ügynökség Zrt.,
 - b) az állami adóhatóság,
-- c) a helyi önkormányzat, valamint
-- d) a KSH.
+- c) a helyi önkormányzat,
+- d) a KSH, valamint
+- e) a rendőrség.
 
 (3) A Nemzeti Turisztikai Adatszolgáltató Központnak a turisztikai attrakció üzemeltetője által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:
 
 - a) a Magyar Turisztikai Ügynökség Zrt.,
-- b) az állami adóhatóság, valamint
-- c) a KSH.
+- b) az állami adóhatóság,
+- c) a KSH,
+- d) a rendőrség.
+- e) a helyi önkormányzat, valamint
+- f) a fővárosi, vármegyei kormányhivatal.
 
 (4) A helyi önkormányzat, valamint a KSH a hatáskörükbe tartozó feladatok ellátása során nem kérhetnek olyan adatot, amely a Nemzeti Turisztikai Adatszolgáltató Központban az (1)–(3) bekezdés szerinti hozzáférési jogosultság alapján a rendelkezésükre áll.
+
+(5) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője az (1) bekezdés e) pontja, (2) bekezdés e) pontja, valamint (3) bekezdés d) pontja szerinti hozzáférés céljából együttműködési megállapodást köt a rendőrséggel.
 
 9/F. § A Nemzeti Turisztikai Adatszolgáltató Központ részére, e alcím szerint történő adattovábbítás, valamint a Nemzeti Turisztikai Adatszolgáltató Központból történő adatátvétel térítésmentes.
 
@@ -266,6 +273,16 @@ továbbítsa.
 
 (3) A szálláshely-szolgáltató a harmadik országbeli állampolgárokra vonatkozó, 6/B. alcímben meghatározott adatok rögzítését és a helyi önkormányzat idegenforgalmi adót meghatározó rendelete szerinti nyilvántartás vezetését elektronikusan, a szálláshelykezelő szoftver alkalmazásával teljesíti.
 
+#### 6/C. A Nemzeti Turisztikai Adatszolgáltató Központhoz kapcsolódó regisztrációs és adatszolgáltatási kötelezettségek ellenőrzése és alkalmazandó jogkövetkezmények
+
+9/J. § A Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációs kötelezettség elmulasztása esetén nincs helye figyelmeztetés szankció alkalmazásának.
+
+9/K. § (1) A turisztikai attrakció üzemeltetője által az e törvény szerinti Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációs és adatszolgáltatási tevékenységekre vonatkozó jogszabályi előírások megtartását a Vhr. szerinti hatóságok ellenőrzik.
+
+(2) A turisztikai attrakció üzemeltetője általi Nemzeti Turisztikai Adatszolgáltató Központtal összefüggő regisztrációs kötelezettség megsértése esetén az (1) bekezdés szerinti hatóságok közigazgatási bírság szankciót alkalmazhatnak.
+
+(3) A turisztikai attrakció üzemeltetője általi Nemzeti Turisztikai Adatszolgáltató Központtal összefüggő adatszolgáltatási kötelezettség megsértése esetén az (1) bekezdés szerinti hatóságok közigazgatási bírság szankciót alkalmaznak.
+
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 7. Felhatalmazó rendelkezések
@@ -283,7 +300,7 @@ továbbítsa.
 - i) vendéglátó üzlet üzemeltetője által alkalmazandó vendéglátó szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
 - j) turisztikai attrakció üzemeltetője által alkalmazandó jegykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
 - k) Nemzeti Turisztikai Adatszolgáltató Központban adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;
-- l) turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos kötelezettségeinek ellenőrzésére jogosult szervet;
+- l) turisztikai attrakció üzemeltetőjének a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos regisztrációs és adatszolgáltatási kötelezettségei ellenőrzésére jogosult szervet, a kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 - m) turisztikailag kiemelt jelentőségű településeket
 
 rendeletben határozza meg.

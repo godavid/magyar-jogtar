@@ -39,6 +39,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - 27. az alapítvány – a közalapítvány és a pártalapítvány kivételével;
 - 28. köztestület és
 - 29. jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy, amennyiben annak állami vagy önkormányzati tulajdoni hányada közvetlenül, vagy a Ptk. 8:2. § (4) bekezdésében meghatározott módon közvetve nem éri el a 75%-ot.
+- 30. zártkörű befektetési alap.
 
 (2) E törvény hatálya – az (1) bekezdésen túl – kiterjed a bizalmi vagyonkezelési jogviszonyokra, amennyiben a bizalmi vagyonkezelő
 
@@ -96,7 +97,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
   - gc) állampolgársága;
   - gd) születési helye, ideje;
   - ge) lakcíme, ennek hiányában tartózkodási helye;
-  - gf) érdekeltségének a Pmt. 3. § 38. pont a) és b), valamint d)–f) pontjai szerinti jellege és mértéke;
+  - gf) érdekeltségének a Pmt. 3. § 38. pont a) és b), valamint d)–g) pontja szerinti jellege és mértéke;
 - h) a tényleges tulajdonosi adat TT indexe.
 
 (2) A tényleges tulajdonosi nyilvántartás az (1) bekezdésben meghatározott adatok tekintetében nem minősül közhiteles hatósági nyilvántartásnak.
@@ -129,7 +130,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - b) a Bűnügyi Együttműködés Európai Uniós Ügynökségének (Europol) és az Európai Csalás Elleni Hivatalnak (OLAF), valamint
 - c) harmadik ország hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének, ha az adatkezelés megfelel a harmadik országok részére történő adatátadásra vonatkozó szabályokban foglalt feltételeknek.
 
-(2a) Jogszabályban meghatározott feladatainak ellátása érdekében az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztérium jogosult ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) bekezdése szerinti adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat és azok rögzítésének időpontját.
+(2a) Jogszabályban meghatározott feladatainak ellátása érdekében az európai uniós források felhasználásával kapcsolatos irányító hatósági, közreműködő szervezeti vagy audit hatósági feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztérium jogosult ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) bekezdése szerinti adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat és azok rögzítésének időpontját.
 
 (2b) Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvényben (a továbbiakban: Eufetv.) meghatározott feladatainak ellátása érdekében az Integritás Hatóság jogosult ingyenesen, a 21/B. §-a szerinti regisztráció nélkül, közvetlen adatkapcsolat keretében átvenni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az Eufetv. IV. Fejezete hatálya alá tartozó adatszolgáltató tényleges tulajdonosának a tényleges tulajdonosi nyilvántartásban tárolt természetes személyazonosító adatait és lakcímadatát.
 
@@ -154,7 +155,13 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 (3) A miniszter a kérelem elbírálása során az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezései szerint jár el. A miniszter a kérelem átvételét követő 30 napon belül megvizsgálja a kérelmet, és dönt a felhasználási cél és a jogos érdek, vagy a többségi befolyásra feljogosító vagyonelem fennállásáról.
 
-(4) A 8. § (6) és (7) bekezdésében meghatározott adatigénylés esetén a harmadik személy az általa benyújtott kérelemhez köteles mellékelni a miniszter által kiadott előzetes engedélyt.
+(4) A 8. § (6) és (7) bekezdésében meghatározott adatigénylés esetén a harmadik személy köteles feltüntetni a miniszter által kiadott előzetes engedély számát.
+
+(5) A miniszter a kiadott előzetes engedélyt a kérelem jóváhagyását követő 5 munkanapon belül a nyilvántartó szerv által meghatározott módon megküldi a nyilvántartó szervnek.
+
+(6) Az előzetes engedély egyszeri alkalommal biztosítja az abban meghatározott adatszolgáltatók tényleges tulajdonosi adatainak a megismerését, abban az esetben is, ha az adatigénylés nem az előzetes engedélyben megjelölt minden adatszolgáltató tényleges tulajdonosainak megismerésére vonatkozik.
+
+(7) A nyilvántartó szerv a 8. § (6) és (7) bekezdése szerinti egyedi adatszolgáltatást az előzetes engedélyt alapul véve teljesíti.
 
 #### 6. Eltérések jelzése
 
@@ -418,6 +425,8 @@ végzett adathozzáféréseket naplózza.
 (2) Az e törvény hatálybalépése után megalakuló szolgáltató a 21. § (3) bekezdésében meghatározott belső szabályzatát megalakulását követően negyvenöt napon belül kidolgozza, és az engedélyezési, nyilvántartásba-vételi eljárás során a szabályzatát a felügyeletét ellátó szervnek jóváhagyás céljából benyújtja.
 
 26/A. § A 19. § (1) bekezdés e) pontja szerinti adatot is tartalmazó adatszolgáltatást a nyilvántartásban már szereplő széfszolgáltatási szerződésekhez kapcsolódóan a számlavezetők első alkalommal a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény hatálybalépését követő 180 napon belül teljesítik a nyilvántartó szerv felé. Az ezt követő változások bejelentésére a 19. § (3) bekezdésében foglaltak az irányadók.
+
+26/B. § Azon zártkörű befektetési alapok vonatkozásában, amelyek felügyeleti nyilvántartásba történő bejegyzése az egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi LVI. törvénnyel megállapított 1. § (1) bekezdés 30. pontja hatálybalépésének napjáig megtörtént, a 7. § szerinti adattovábbítást először a 2026. július hónapra vonatkozó adatszolgáltatás keretében kell elvégezni.
 
 #### 16. Az Európai Unió jogának való megfelelés
 

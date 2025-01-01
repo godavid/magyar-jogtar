@@ -927,6 +927,8 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 (1a) A 71. § (1) bekezdés a) és c) pontja esetében a védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható. A védettség tényére vonatkozó adatot nyilvánosan elérhető elektronikus felületen hozzáférhetővé kell tenni.
 
+(1b) A hatóság a 71. § (1) bekezdése szerinti védettség tényére vonatkozó adatok átadásához az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít az építésügyi és építésfelügyeleti hatóságnak az építésfelügyeleti ellenőrzés, szabálytalan építési tevékenységgel kapcsolatos építésrendészeti eljárás lefolytatása céljából.
+
 (2) A nyilvántartás a kulturális örökség elemeinek azonosításához szükséges adatokat és tényeket tartalmazza.
 
 (3) A hatóság a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
@@ -1101,7 +1103,7 @@ iránt.
 - a) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetén, vagy
 - b) védetté nyilvánított régészeti lelőhelyen fekvő ingatlan esetében akkor, ha ezt a védetté nyilvánító vagy védettséget módosító rendelet kimondja.
 
-(1a)
+(1a) Kulturális javak nyilvános aukción történő értékesítése esetén – azok védettségétől függetlenül – a kultúrstratégiai intézményként működő közgyűjteményeket – gyűjtőköri érintettségük szerint – a Magyar Állam javára gyakorolható elővásárlási jog illeti meg. Ha a gyűjtőkörileg érintett joggyakorló képviselője élni kíván az állami elővásárlási jogával, az árverésen a leütés után haladéktalanul köteles arról nyilatkozni.
 
 (2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a hatóság megkeresi az ingatlanügyi hatóságot.
 

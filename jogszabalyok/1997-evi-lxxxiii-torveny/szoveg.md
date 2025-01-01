@@ -84,7 +84,7 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 5/C. § (1) E törvény alkalmazásában
 
-- a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra adóelőleg megállapításához az állami adóhatóságnál bevallott, társadalombiztosítási járulékalapot képező jövedelem;
+- a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra személyi jövedelemadó-előleg (a továbbiakban: adóelőleg) megállapításához az állami adóhatósághoz bevallott, társadalombiztosítási járulékalapot képező jövedelem;
 - b) szerződés szerinti havi jövedelem:
   - ba) betegszabadságra jogosultak esetén az ellátásra való jogosultság kezdő napjának hónapjára számított távolléti díj, illetve az illetmény egy hónapra járó összege,
   - bb) egészségügyi szabadságra jogosultak esetében az ellátásra való jogosultság kezdő napjának hónapjára számított, egészségügyi szabadság idejére járó távolléti díj,
@@ -94,6 +94,7 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 - c) az egészségbiztosítás pénzbeli ellátásai: a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz;
 - d) kereset: a Tbj. 6. §-ában meghatározott jogviszonyban személyes munkavégzésért járó társadalombiztosítási járulékalapot képező jövedelem.
 - e) egyedülálló: az, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van.
+- f) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltató: olyan magántulajdonban álló egészségügyi szolgáltató, amely olyan közfinanszírozott ellátást nyújt a biztosítottak széles köre számára, amelyet állami, önkormányzati, egyházi tulajdonban vagy fenntartásban álló egészségügyi szolgáltató, vagy az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központ nem, vagy olyan kis mértékben végez, amely nem képes az ellátást igénybe vevő biztosítottak széles körű ellátására.
 
 (2) Az 5/B. §-ban és az (1) bekezdésben meg nem határozott fogalmak tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ában foglaltakat kell alkalmazni.
 
@@ -366,6 +367,8 @@ tartalmazza.
 (1b) Ha a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelem új eszközt igénylő, illetve új eszközt nem igénylő új orvosi eljárásra vagy korábban befogadott eszköz, orvosi eljárás új indikációban való alkalmazására irányul, az ügyintézési határidő hatvan nap.
 
 (1c) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelmek esetén az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló kormányrendelet alapján véleményezésre jogosult szervek az egészségbiztosító által részükre megküldött kérelmekhez kapcsolódó véleményeiket a kérelem kézhezvételétől számított 30 napon belül küldik meg a véleményt kérő egészségbiztosító részére.
+
+(1d) Az egészségbiztosító az (1) bekezdés szerinti eljárását az (1c) bekezdés szerinti vélemények beérkezéséig, legfeljebb azonban a kérelem beérkezésétől – ha hiánypótlásra került sor, a hiánypótlás teljesítésétől – számított 60 napig felfüggeszti.
 
 (2) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó egyes eljárásokért – az egészségbiztosításért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
@@ -692,13 +695,13 @@ méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogath
 
 (2) Az Alapítvány alapítása során az állam képviseletében az egészségbiztosításért felelős miniszter jár el.
 
-(3) Az Alapítvány – a 26. § (1) bekezdés c) pontjában foglaltak kivételével – a Magyarországon szakmailag elfogadott, de társadalombiztosítási támogatással nem rendelhető gyógyszerek, gyógyászati segédeszközök árához méltányosságból a biztosított kérelmére támogatást nyújthat. Az Alapítvány méltányossági jogköre nem terjed ki a 26. § (3) és (4) bekezdésében foglaltakra. Az Alapítvány a méltányossági jogkörében eljárva, az emberi élet és egészség védelme, valamint a társadalmi és gazdasági felelősségvállalás szellemében, nem hatósági eljárás keretében dönt a támogatás nyújtásáról vagy annak megtagadásáról.
+(3) Az Alapítvány méltányosságból támogatást nyújthat – a 26. § (1) bekezdés c) pontjában foglaltak kivételével – a Magyarországon szakmailag elfogadott, de társadalombiztosítási támogatással nem rendelhető gyógyszerek térítési díjához, valamint a Magyarországon társadalombiztosítási támogatással nem rendelhető azon gyógyászati segédeszközök árhoz, amelyek árajánlatban szereplő egy mennyiségi egységre vetített bruttó ára meghaladja a mindenkori bruttó minimálbér havi összegének kétszeresét. Az Alapítvány jogköre nem terjed ki a 26. § (3) és (4) bekezdésében foglaltakra. Az Alapítvány döntéseit az emberi élet és egészség védelme, valamint a társadalmi és gazdasági felelősségvállalás szellemében hozza meg.
 
 (4) Az Alapítvány vagyonának biztosításáról a Kormány gondoskodik, és működéséhez 2025-től kezdődően évente támogatást nyújt.
 
-(5) Az Alapítvány kezeli a mindenkori költségvetési törvényben a (3) bekezdés szerinti feladatra rendelkezésre álló előirányzatot.
+(5) Az Alapítvány (3) bekezdés szerinti feladatára rendelt vagyon a központi költségvetésből az Alapítvány céljainak finanszírozására elkülönített összeg, amelyet az Alapítvány a (3) bekezdés szerinti célból továbbadhat. Az Alapítvány az ezen forráson túl egyéb bevételeit is a (3) bekezdés szerinti célra fordítja.
 
-(6) Az Alapítvány az (5) bekezdés szerinti előirányzaton rendelkezésre álló forráson túl egyéb bevételeit is a (3) bekezdés szerinti feladatra fordítja.
+(6) A támogatás elszámolása során, a Kormány rendeletében meghatározott feltételeknek megfelelő elszámoló szervezet igénybevétele esetén az Alapítvány (3) bekezdés szerinti célja teljesítése során az általa megítélt támogatást az elszámoló szervezet felé a vele kötött megállapodásban és a Kormány rendeletében meghatározottak szerint megtéríti. Az Alapítványnak az általa megítélt támogatásról szóló döntése közokirat, amelynek tartalmát – a felhasználáshoz, elszámoláshoz szükséges mértékben és ideig – a biztosított mellett az elszámoló szervezet, valamint az Alapítvány méltányossági döntésével érintett gyógyszertár és egészségügyi szolgáltató ismerheti meg
 
 (7) Az Alapítvány közhasznú jogállással rendelkezik.
 
@@ -817,8 +820,12 @@ köthető finanszírozási szerződés.
 (2) Az (1) bekezdésben foglaltakon túl gyógyszer árhoz nyújtott támogatással történő kiszolgáltatására, gyógyászati segédeszköz árhoz nyújtott támogatással történő forgalmazására, kölcsönzésére, javítására és amennyiben a gyártó az eszköz kiszolgáltatását is végzi, egyedi méretvétel alapján történő gyártására (a továbbiakban együtt: forgalmazás), valamint gyógyászati ellátás támogatással történő nyújtására az egészségbiztosító szerződést köt a szolgáltatóval, amennyiben az
 
 - a) erre külön jogszabályban foglaltak szerint jogosult, valamint
-- b) megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek, így különösen a finanszírozással kapcsolatos adatkezeléssel, adatellenőrzéssel és a társadalombiztosítási támogatás elszámolásával kapcsolatos személyi és tárgyi feltételeknek, és
+- b) megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek, így különösen a finanszírozással kapcsolatos adatkezeléssel, adatellenőrzéssel és a társadalombiztosítási támogatás elszámolásával kapcsolatos személyi és tárgyi feltételeknek,
 - c) nem rendelkezik olyan köztartozással vagy az E. Alap felé fennálló tartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
+- d) nem áll semmilyen, egészségügyi tevékenység végzésére irányuló jogviszonyban olyan orvossal, aki a szolgáltatót működtető társaságban vezető tisztségviselő vagy abban ötven százalékot meghaladó tulajdoni hányaddal rendelkezik, és
+- e) nem rendelkezik járóbeteg-szakellátás nyújtására vonatkozó érvényes működési engedéllyel.
+
+(2a) A (2) bekezdés szerinti szerződés nem köthető olyan szolgáltatóval, amelynek ugyanazon szolgáltatás árhoz nyújtott támogatással történő nyújtására korábban kötött szerződése legalább két alkalommal, a szolgáltató súlyos szerződésszegése miatt az egészségbiztosító által felmondásra került, a második alkalommal történő felmondástól számított 10 évig.
 
 (3) Az egészségbiztosító külön jogszabályban meghatározott esetben külön jogszabály szerinti hatósági bizonyítvánnyal rendelkező nem egészségügyi szolgáltatóval is köthet szerződést gyógyászati segédeszköz egyedi méretvétel alapján társadalombiztosítási támogatással történő gyártására, illetve ezen eszközök társadalombiztosítási támogatással történő javítására.
 
@@ -1062,7 +1069,7 @@ alapuló rendszerben történik.
 
 (7) A finanszírozott egészségügyi szolgáltató – a (8) bekezdésben foglalt kivétellel – megtéríti a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegének 20 százalékát, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással történt rendelése a hatályos jogszabályoknak nem felelt meg, de orvosszakmai szempontból indokolt, szükséges és az orvosszakmai előírásoknak megfelelő volt.
 
-(8) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz után folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa gyógyszert, gyógyászati segédeszközt nem a finanszírozási eljárásrendnek megfelelően, ennek hiányában nem a kiemelt és emelt társadalombiztosítási támogatásra jogosító indikációnak megfelelően vagy jogosulatlanul rendelt. Amennyiben a gyógyszer, gyógyászati segédeszköz rendelése a rendelés időpontjában érvényes szakorvosi javaslat alapján történt és az (5a) bekezdésben foglaltak nem állnak fenn, a szakorvosi javaslatot adó, finanszírozási szerződéssel rendelkező szolgáltató téríti meg a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
+(8) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz vagy gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást nem a finanszírozási eljárásrendnek megfelelően, ennek hiányában nem a kiemelt és emelt társadalombiztosítási támogatásra jogosító indikációnak megfelelően vagy jogosulatlanul rendelt. Amennyiben a gyógyszer, gyógyászati segédeszköz vagy gyógyászati ellátás rendelése a rendelés időpontjában érvényes szakorvosi javaslat alapján történt és az (5a) bekezdésben foglaltak nem állnak fenn, a szakorvosi javaslatot adó, finanszírozási szerződéssel rendelkező szolgáltató téríti meg a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
 
 (9) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással való rendelésére a 32. § szerinti szerződés alapján jogosult orvos tekintetében az (5)–(8) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
@@ -1171,7 +1178,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (7) A közös háztartásban élő gyermek jogán – választásuk szerint – a szülők valamelyike gyermekápolási táppénzre szerezhet jogosultságot.
 
-39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének megállapításánál – az e törvényben foglalt kivételekkel – az ellátásra való jogosultság kezdő napján kizárólag ugyanannál a foglalkoztatónál fennálló biztosítási jogviszonyban személyi jövedelemadó-előleg (a továbbiakban: adóelőleg) megállapításához bevallott jövedelmet kell figyelembe venni.
+39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének megállapításánál – az e törvényben foglalt kivételekkel – az ellátásra való jogosultság kezdő napján kizárólag ugyanannál a foglalkoztatónál fennálló biztosítási jogviszonyban az adóelőleg megállapításához bevallott jövedelmet kell figyelembe venni.
 
 (2) Az (1) bekezdés szerinti ellátások alapjának megállapításánál a jogosultság kezdőnapjának hónapjára járó, szerződés szerinti jövedelmet kell figyelembe venni, ha a tényleges jövedelem 30 naptári napnál kevesebb.
 
@@ -1197,8 +1204,8 @@ PÉNZBELI ELLÁTÁSAI
 
 40. § (1) Csecsemőgondozási díjra jogosult az a nő, aki a gyermeke születését megelőző két éven belül 365 napon át biztosított volt, és akinek a gyermeke
 
-- a) a biztosítás tartama alatt vagy a biztosítás megszűnését követő negyvenkét napon belül születik, vagy
-- b) a biztosítás megszűnését követően negyvenkét napon túl baleseti táppénz folyósításának az ideje alatt vagy a folyósítás megszűnését követő huszonnyolc napon belül születik.
+- a) a biztosítás tartama alatt, vagy a biztosítás megszűnését, a szünetelés kezdetét követő negyvenkét napon belül születik, vagy
+- b) a biztosítás megszűnését, a szünetelés kezdetét követően negyvenkét napon túl baleseti táppénz folyósításának az ideje alatt vagy a folyósítás megszűnését követő huszonnyolc napon belül születik.
 
 (1a) A szülő nő csecsemőgondozási díjra való jogosultsága legkésőbb a gyermek születésének napjával, koraszülött gyermekre tekintettel a szülési szabadság első napjával nyílik meg.
 
@@ -1208,7 +1215,7 @@ PÉNZBELI ELLÁTÁSAI
 - b) köznevelési intézmény, a szakképző intézmény vagy a felsőoktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
 - c) a rehabilitációs ellátás folyósításának idejét.
 
-(3) A csecsemőgondozási díj a szülési szabadságnak megfelelő időtartamra jár. A csecsemőgondozási díj legfeljebb a gyermek születését követő 168. napig jár, kivéve a jogszabály szerint a koraszülött gyermekek esetében a szülési szabadságra vonatkozó rendelkezés alkalmazásakor. Ha a csecsemőgondozási díj iránti kérelem a szülés várható időpontját megelőző 28 napnál korábban kerül benyújtásra, akkor a kérelem elbírálására vonatkozó határidő a szülés várható időpontját megelőző 28. napon kezdődik.
+(3) A csecsemőgondozási díj a szülési szabadságnak megfelelő időtartamra jár. A csecsemőgondozási díj legfeljebb a gyermek születésének napjától számított 168 napig jár, kivéve a jogszabály szerint a koraszülött gyermekek esetében a szülési szabadságra vonatkozó rendelkezés alkalmazásakor. Ha a csecsemőgondozási díj iránti kérelem a szülés várható időpontját megelőző 28 napnál korábban kerül benyújtásra, akkor a kérelem elbírálására vonatkozó határidő a szülés várható időpontját megelőző 28. napon kezdődik.
 
 (4) Az (1) bekezdésben foglaltakon túl csecsemőgondozási díjra – az (5) bekezdésben foglaltak figyelembevételével – jogosult
 
@@ -1235,7 +1242,7 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 
 42. § (1) A csecsemőgondozási díj összege – figyelemmel a (4c) bekezdésben foglaltakra –
 
-- a) a (2) és (3) bekezdés szerinti esetben a naptári napi alap 100%-a,
+- a) a (2), (3) és (4a) bekezdés szerinti esetben a naptári napi alap 100%-a,
 - b) a (4) bekezdés szerinti esetben a naptári napi jövedelem 100%-a.
 
 (2) A csecsemőgondozási díj naptári napi alapját a 48. § (1) és (2) bekezdésében foglaltak szerint kell megállapítani.
@@ -1246,7 +1253,7 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 
 (4a) Ha a gyermek gyermekgondozási díj vagy gyermekgondozást segítő ellátás igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2)–(4) bekezdés alapján számított csecsemőgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
 
-(4b) A (4a) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított ellátás alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
+(4b) A (4a) bekezdés akkor alkalmazható, ha a jogosultság kezdő napján a biztosított ugyanazon foglalkoztatónál, ugyanazon – a 48/A. § (2) bekezdése szerint folyamatos – biztosítási jogviszonyban áll, mint amelyből az előző gyermekre tekintettel a csecsemőgondozási díj megállapításra került.
 
 (4c) Ha a csecsemőgondozási díjra jogosult megfelel a 42/E. § (1) bekezdés a) pont ab) alpontja szerinti feltételeknek, az ellátás összege nem lehet kevesebb a 42/E. § (5) bekezdésében meghatározott összegnél.
 
@@ -1257,6 +1264,8 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 (7) A csecsemőgondozási díj összegének megállapítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 (8) A csecsemőgondozási díjra, ha jogszabály eltérő rendelkezést nem tartalmaz, a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(9) A (4c) bekezdés szerinti összegben megállapított csecsemőgondozási díj összegét a minimálbér, illetve a garantált bérminimum emelésének napjától számított 15 napon belül hivatalból felül kell vizsgálni, és a megemelt minimálbér, illetve garantált bérminimum figyelembevételével, – ha kormányrendelet korábbi időpontot nem állapít meg – az emelés napjára visszamenőlegesen újra meg kell állapítani.
 
 ### Gyermekgondozási díj
 
@@ -1384,13 +1393,15 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (3) Ha a nevelőszülő egyidejűleg több olyan nevelt gyermekről is gondoskodik, akire tekintettel gyermekgondozási díjra válna jogosulttá, választása szerint csak egy nevelt gyermekre tekintettel jogosult gyermekgondozási díjra.
 
-(4) A gyermekgondozási díj az (1) bekezdés alapján legkorábban a gyermek nevelésbe vételének napjától a gyermek 2. életévének betöltéséig jár.
+(4) A gyermekgondozási díj az (1) bekezdés alapján legkorábban a nevelt gyermek gondozási helyének a nevelőszülőnél történő kijelölésének napjától a gyermek 2. életévének betöltéséig jár.
 
-(5) A nevelt gyermek után járó gyermekgondozási díj alapja a gyermekgondozási díjra való jogosultság első napján érvényes minimálbér 55%-a, a gyermekgondozási díj összege a naptári napi alap 70%-a.
+(5) A nevelt gyermek után járó gyermekgondozási díj alapja a gyermekgondozási díjra való jogosultság első napján érvényes minimálbér 55%-ának harmincad része, a gyermekgondozási díj naptári napi összege a naptári napi alap 70%-a.
 
 (6) Ha a nevelőszülő nevelt gyermek és vér szerinti vagy örökbe fogadott gyermek után is jogosult egyidejűleg gyermekgondozási díjra, a 42/A. § (1) bekezdése alapján megállapított gyermekgondozási díj összegét az (1) bekezdés alapján megállapított gyermekgondozási díj összege nem érinti.
 
-(7) Az (1)–(6) bekezdés szerint megállapított gyermekgondozási díjra alkalmazni kell a 42/A. § (4) bekezdését, a 42/C. § (1) és (3) bekezdését, a 42/D. § (4), (7) és (8) bekezdését azzal, hogy a 42/C. § (1) bekezdés d) pontja alkalmazásában nem minősül keresőtevékenységnek a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység.
+(7) Az (1)–(6) bekezdés szerint megállapított gyermekgondozási díjra alkalmazni kell a 42/A. § (4) bekezdését, a 42/C. § (1) bekezdés b)–g) pontját, a 42/D. § (7) és (8) bekezdését azzal, hogy a 42/C. § (1) bekezdés d) pontja alkalmazásában nem minősül keresőtevékenységnek a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység.
+
+(8) Az (5) bekezdés alapján megállapított gyermekgondozási díj összegét a minimálbér emelésének napjától számított 15 napon belül hivatalból felül kell vizsgálni, és a megemelt minimálbér figyelembevételével, – ha kormányrendelet korábbi időpontot nem állapít meg – az emelés napjára visszamenőlegesen újra meg kell állapítani.
 
 42/G. § (1) A gyermekgondozási díjra a 42/A. § (1) bekezdése alapján jogosult személy (e § alkalmazásában a továbbiakban: alapjogosult) jogán annak vagy az alapjogosulttal együtt élő házastársának – ide nem értve a családbafogadó gyám házastársát – vér szerinti és örökbe fogadó biztosított szülője, továbbá a szülővel együtt élő biztosított házastárs (a továbbiakban együtt: nagyszülő) is jogosult a gyermekgondozási díjra, ha
 
@@ -1477,6 +1488,8 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 - e) hatéves vagy annál idősebb, de tizenkét évesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek tizennégy, egyedülálló szülőnek huszonnyolc naptári napon át.
 
 (1a) Ha a biztosított szülő a gyermek ápolása címén igényel táppénzt, előzményként a gyermek előző születésnapjától a gyermek következő születésnapját megelőző napig eltöltött táppénzes napokat kell figyelembe venni.
+
+(1b) Ha az egyik szülőt egyedülállónak kell tekinteni, ugyanazon gyermekre tekintettel a másik szülő nem jogosult gyermekápolási táppénzre, kivéve azon szülőt, aki a maga vagy házastársa (élettársa) egészségi állapotára tekintettel e törvény végrehajtására kiadott kormányrendeletben foglaltak alapján egyedülállónak minősül.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően a biztosított, ha részére külön törvény rendelkezése szerint betegszabadság jár, a 44. § a) és f) pontjában említett keresőképtelenség esetében táppénzre legkorábban a betegszabadságra való jogosultság lejártát követő naptól jogosult.
 
@@ -1597,8 +1610,11 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 53. § (1) Nem üzemi baleset az a baleset, amely
 
 - a) részben vagy egészben a balesetet szenvedett biztosított alkohol vagy kábítószer általi – igazolt – befolyásoltsága miatt következett be,
-- b) munkahelyi feladatokhoz nem tartozó engedély nélkül végzett munka, engedély nélküli járműhasználat, munkahelyi rendbontás során, vagy
-- c) a lakásról (szállásról) munkába, illetőleg a munkából lakásra (szállásra) menet közben indokolatlanul nem a legrövidebb útvonalon közlekedve, vagy az utazás indokolatlan megszakítása során történt.
+- b) munkahelyi feladatokhoz nem tartozó engedély nélkül végzett munka, engedély nélküli járműhasználat, munkahelyi rendbontás során történt,
+- c) a lakásról (szállásról) munkába, illetőleg a munkából lakásra (szállásra) menet közben indokolatlanul nem a legrövidebb útvonalon közlekedve, vagy az utazás indokolatlan megszakítása során történt, vagy
+- d) szakirányú oktatás során, duális képzés esetén a szakképzési munkaszerződéssel foglalkoztatott személy lakásáról (szállásról) a szakképző intézmény által felügyelt szakirányú oktatás helyszínére vagy onnan a lakására (szállására) közlekedve, menet közben következett be.
+
+történt.
 
 (2) Az, aki sérülését szándékosan okozta, vagy az orvosi segítség igénybevételével, illetőleg a baleset bejelentésével szándékosan késlekedett, az egészségbiztosítás baleseti ellátásaira nem jogosult.
 
@@ -1819,6 +1835,13 @@ folyósítja.
 
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást attól lehet visszakövetelni, akinek az ellátás felvétele felróható.
 
+(2a) A jogalap nélkül igénybe vett egészségügyi szolgáltatás költségét köteles megtéríteni
+
+- a) a foglalkoztató és egyéb bejelentésre kötelezett szerv, ha az egészségügyi szolgáltatás jogalap nélküli igénybevétele, a biztosítási jogviszony megszűnésére, szünetelésére vonatkozóan az egészségbiztosítás jogviszony-nyilvántartásába történő bejelentés elmulasztásának, késedelmes teljesítésének, vagy a valóságtól eltérő adatszolgáltatásának a következménye,
+- b) az egészségügyi szolgáltatást igénybe vett magánszemély, ha a magánszemély vagy törvényes képviselője valótlan nyilatkozata alapján szerez jogosultságot térítésmentes egészségügyi szolgáltatásokra, és utólag megállapítják, hogy nem Magyarországon volt jogosult térítésmentes egészségügyi szolgáltatásra.
+
+(2b) A (2a) bekezdés szerinti esetben az érintett szerv vagy személy a (2a) bekezdésben meghatározott körülménynek az egészségbiztosítási szerv általi tudomásszerzésétől számított öt éven belül kötelezhető az egészségügyi szolgáltatás költségének megtérítésére. Nincs helye megtérítésnek, ha az érintett egészségügyi szolgáltatás nyújtásától számított 15 év már eltelt.
+
 (3) A foglalkoztató és egyéb szerv, valamint az egészségügyi szolgáltató köteles megtéríteni a jogalap nélkül felvett ellátást, ha az ellátás jogalap nélküli megállapítása, illetőleg folyósítása mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye és az ellátást az (1) bekezdés alapján visszakövetelni nem lehet.
 
 (4) Ha az ellátás jogalap nélküli megállapításáért, illetőleg felvételéért a foglalkoztatót vagy egyéb szervet vagy egészségügyi szolgáltatót és az ellátásban részesülőt is felelősség terheli, a jogalap nélkül felvett ellátást közrehatásuk arányában kötelesek megtéríteni, illetőleg visszafizetni. Ha a közrehatások aránya nem állapítható meg, a felelősöket egyenlő arányban kell megtérítésre, illetőleg visszafizetésre kötelezni.
@@ -1855,9 +1878,15 @@ folyósítja.
 
 (4) Az egészségbiztosító jogosult a 67–68. §-ok szerinti megtérítési igényt megalapozó eseménnyel kapcsolatban a más hatóságnál, illetve egyéb szervnél indult eljárás során hozott, a megtérítési igény elbírálásához szükséges döntés megismerésére. Biztosítani kell az egészségbiztosító részére, hogy a döntés alapjául szolgáló iratokba betekinthessen és arról másolatot készíthessen. Az egészségbiztosító megkeresésére a kért iratok másolatát az érintett szerv harminc napon belül megküldi a megkereső részére.
 
+(5) Az Ákr. 125. § (1) bekezdésétől eltérően, ha a 68. § szerinti követelés érvényesítése a 18. § (8) bekezdésében foglaltakon alapul, akkor a megtérítésre irányuló eljárás során a szakhatóság közreműködésével felmerült költséget a 70. § (1) bekezdés b) pontja szerinti fizetési meghagyásban kötelezett személy viseli.
+
 68/B. § (1) A biztosított köteles megtéríteni a neki felróható módon jogalap nélkül igénybe vett, gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás után folyósított támogatás összegét, közgyógyellátás jogcímen történő rendelés esetén pedig a közgyógyellátás jogcímcsoport előirányzatából finanszírozott összeget is, ha arra a 38/B. § alapján lefolytatott eljárást követően írásban kötelezték.
 
 (2) A biztosítottat a megtérítésre előírt összeg után az Art.-ban meghatározott késedelmi pótlékkal azonos mértékű kamatfizetési kötelezettség terheli. Nem kell megfizetni a kamatot, ha annak összege az 1000 forintot nem éri el.
+
+68/C. § (1) Aki társadalombiztosítás keretében egészségügyi szolgáltatásra nem jogosult, de az egészségügyről szóló 1997. évi CLIV. törvény 3. § i) pontja szerinti sürgős szükség fennállása miatt E. Alapból finanszírozott szolgáltatónál egészségügyi szolgáltatást vett igénybe, köteles a Magyarország területén tartózkodó, egészségügyi szolgáltatásra a társadalombiztosítás keretében nem jogosult személyek egészségügyi ellátásának, valamint az egészségügyi szolgáltatás biztosítására kötött megállapodás egyes szabályairól szóló miniszteri rendelet szerinti térítési díjat az egészségügyi szolgáltató részére megfizetni. Az egészségügyi szolgáltatásról kibocsátott számla alapján és a szolgáltató fizetési felszólításának eredménytelenségét követően a követelést a szolgáltató székhelye szerinti egészségbiztosító érvényesíti.
+
+(2) Az (1) bekezdés szerinti kötelezettet az egészségügyi ellátás térítési díjaként előírt összeg után az Art.-ban meghatározott késedelmi pótlékkal azonos mértékű kamatfizetési kötelezettség terheli. Nem kell megfizetni a kamatot, ha annak összege nem éri el az 1000 forintot.
 
 ### Az ellátások késedelmes kifizetése
 
@@ -1869,9 +1898,12 @@ folyósítja.
 
 - a) a 66. § szerinti visszafizetésre kötelező határozattal, illetve megtérítésre kötelező fizetési meghagyással,
 - b) a 67–68. § szerinti megtérítésre kötelező fizetési meghagyással,
-- c) a 68/B. § szerinti megtérítésre kötelező határozattal érvényesíti. A fizetési meghagyás hatósági határozat.
+- c) a 68/B. § szerinti megtérítésre kötelező határozattal,
+- d) a 68/C. § szerinti megtérítésre kötelező fizetési meghagyással
 
-(2) A 66–68. §-on alapuló követelés a felvett ellátás kifizetésétől, illetőleg az egészségügyi vagy baleseti egészségügyi szolgáltatás igénybevételétől számított öt éven belül, míg a 68/B. §-on alapuló követelés a gyógyszerhez, gyógyászati segédeszközhöz vagy gyógyászati ellátáshoz nyújtott támogatás igénybevételétől számított öt éven belül érvényesíthető. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, a 66–68. §-on alapuló követelés öt éven túl, a 68/B. §-on alapuló követelés pedig öt éven túl is érvényesíthető mindaddig, amíg a büntethetőség el nem évül.
+érvényesíti. A fizetési meghagyás hatósági határozat.
+
+(2) A 66–68. §-on alapuló követelés a felvett ellátás kifizetésétől, illetőleg az egészségügyi vagy baleseti egészségügyi szolgáltatás igénybevételétől számított öt éven belül, míg a 68/B. §-on alapuló követelés a gyógyszerhez, gyógyászati segédeszközhöz vagy gyógyászati ellátáshoz nyújtott támogatás igénybevételétől, valamint a 68/C. §-on alapuló követelés az egészségügyről szóló 1997. évi CLIV. törvény 3. § i) pontja szerinti sürgős szükség fennállása miatt igénybe vett egészségügyi szolgáltatástól számított öt éven belül érvényesíthető. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, a 66–68. §-on alapuló követelés öt éven túl, a 68/B. §-on alapuló követelés pedig öt éven túl is érvényesíthető mindaddig, amíg a büntethetőség el nem évül.
 
 (3) A jogalap nélkül felvett pénzbeli ellátás és baleseti táppénz visszafizetésére kötelező határozatot az a szerv hozza, amely az ellátást megállapította. A 66. §-on alapuló megtérítésre kötelező fizetési meghagyást az egészségbiztosító, vagy a vasutas egészségbiztosítási szerv hozza. Ez utóbb említett igazgatási szerv rendelkezik hatáskörrel a visszafizetésre kötelező határozat meghozatalára is, ha a visszafizetési kötelezettség mellett a foglalkoztató vagy egyéb szerv (személy) megtérítési kötelezettsége is megállapítható.
 
@@ -1952,6 +1984,8 @@ kell érteni.
 
 (5) A (2) bekezdésben meghatározott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
+(6) A nyugdíjbiztosítási igazgatási szerv, az állami foglalkoztatási szerv, a rehabilitációs hatóság, a családtámogatási feladatokat ellátó szerv, a munkaügyi és munkavédelmi hatóság, valamint a szociális igazgatás szerve a rá vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén a nyilvántartásba felvett adatok azon körét ismerheti meg – figyelemmel az Eüak. rendelkezéseire is – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel, amely tevékenységéhez közvetlenül szükséges.
+
 79/A. § (1) Az egészségbiztosító az e törvény alapján kötött szerződésekhez kapcsolódóan az Eüak. 4. §-a (2) bekezdésének g) pontjában foglalt célok teljesítése érdekében kezeli az Eüak. 22. §-ának (5) bekezdésében meghatározott adatokat.
 
 (2) Az egészségügyi szolgáltató az (1) bekezdésében meghatározott adatok kezelését, az egészségbiztosító felé történő továbbítását a külön jogszabályban és a szerződésében előírt formában és módon teljesíti.
@@ -2006,6 +2040,8 @@ vonatkozó adatokról, továbbá minden olyan, törvényben előírt személyes 
 (8) A (4)–(7) bekezdéstől eltérően a polgári nemzetbiztonsági szolgálatok az egészségbiztosító részére az általuk megállapított és folyósított pénzbeli egészségbiztosítási ellátásokról és baleseti táppénzről kizárólag összesített elszámolási adatokra vonatkozó adatszolgáltatást teljesítenek. Az adatszolgáltatást a polgári nemzetbiztonsági szolgálatok papíralapon, minden hónap 20. napjáig kötelesek teljesíteni.
 
 (9) Az (1) bekezdés szerinti nyilvántartásba felvett adatok igénylésére alkalmazni kell a 79. § (3)–(6) bekezdését.
+
+(10) A (4) bekezdés szerinti kifizetőhellyel rendelkező foglalkoztató alatt a Magyar Honvédség vonatkozásában a Magyar Honvédség központi pénzügyi és számviteli feladatokat ellátó szervét kell érteni.
 
 80. § (1) A foglalkoztatók, az egyéni vállalkozók és egyéb szervek az egészségbiztosítás pénzbeli és baleseti ellátásainak megállapításához szükséges nyilvántartások vezetésére, valamint adatok bejelentésére kötelezhetők. A foglalkoztatók és egyéb szervek nem kezelhetnek egészségügyi adatot. A nyilvántartások vezetése, illetve az adatszolgáltatás az egészségbiztosító által meghatározott esetben és módon elektronikus adathordozón is teljesíthető. A foglalkoztató e törvényben előírt adatszolgáltatási és nyilvántartási kötelezettségeit a felszámolás és a végelszámolás kezdő időpontjától a felszámoló, illetve a végelszámoló teljesíti.
 
@@ -2217,9 +2253,9 @@ foglalt rendelkezések helyett a 2021. december 31-én hatályos 5/B. § f) pont
 - d) önkormányzati fenntartású egészségügyi szolgáltató,
 - e) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltató, feltéve, hogy az egészségügyi szolgáltató CT-MRI vizsgálati tevékenységének vonatkozásában – ideértve a közreműködői szerződés alapján történő ellátást is – az egészségbiztosításért felelős miniszter a 82. § (26) bekezdése szerint az ellátási érdek fennállását megállapította.
 
-82/Z. § (1) A 26/D. § (1) bekezdése szerinti Batthyány-Strattmann László Alapítvány A Gyógyításért a 26/D. § (3) bekezdése alapján 2025. január 1-jétől benyújtott kérelmek alapján jár el.
+82/Z. § (1) A 26/D. § (1) bekezdése szerinti Batthyány-Strattmann László Alapítvány A Gyógyításért a 26/D. § (3) bekezdése alapján a Batthyány-Strattmann László Alapítvány A Gyógyításért bírósági bejegyzését követő 31. naptól (a továbbiakban: Kezdőnap) benyújtott kérelmek alapján jár el.
 
-(2) A 26/D. § (3), (5), (6) és (9) bekezdésében foglaltakat 2025. január 1-jétől kell alkalmazni.
+(2) A 26/D. § (3), (5), (6) és (9) bekezdésében foglaltakat a Kezdőnaptól kell alkalmazni.
 
 ### Záró rendelkezések
 
@@ -2293,6 +2329,8 @@ meghatározására.
 (2o) Felhatalmazást kap a Kormány, hogy a 82. § (26) bekezdés szerinti ellátási érdek fennállásának szempontjait és a 82. § (26) bekezdése szerinti kérelem benyújtásának részletes szabályait rendeletben állapítsa meg.
 
 (2p) Felhatalmazást kap a Kormány, hogy a 82/Y. § (2) bekezdése szerinti használati díj megállapítására vonatkozó részletes szabályokat rendeletben határozza meg.
+
+(2q) Felhatalmazást kap a Kormány, hogy a 26/D. § (6) bekezdése szerinti megtérítés részletszabályait, valamint az elszámoló szervezetre vonatkozó feltételeket rendeletben határozza meg.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 

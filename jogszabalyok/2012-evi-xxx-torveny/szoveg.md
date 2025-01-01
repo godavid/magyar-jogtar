@@ -26,17 +26,17 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 
 1. § (1) E törvény alkalmazásában:
 
-- a) ágazati értéktár: az egyes ágazatokért felelős miniszterek által azonosított nemzeti értékek adatainak gyűjteménye;
+- a) ágazati értéktár: az egyes ágazatokért felelős miniszterek által feladat-és hatáskörük szerint azonosítva nyilvántartott nemzeti értékek adatainak gyűjteménye;
 - b) értéktár bizottság: települési értéktár, tájegységi értéktár, külhoni települési értéktár, külhoni tájegységi értéktár, valamint vármegyei értéktár esetén legalább három tagból álló bizottság, ágazati értéktár bizottság esetén öt tagból álló bizottság, akiket az egyes ágazatokért felelős miniszterek nevezik ki;
-- c) hungarikum: gyűjtőfogalom, amely egységes osztályozási, besorolási és nyilvántartási rendszerben olyan megkülönböztetésre, kiemelésre méltó értéket jelöl, amely a magyarságra jellemző tulajdonságával, egyediségével, különlegességével és minőségével a magyarság csúcsteljesítménye;
-- d) Hungarikumok Gyűjteménye: a kiemelkedő nemzeti értékek köréből a Hungarikum Bizottság (a továbbiakban: HB) által hungarikummá nyilvánított nemzeti értékek gyűjteménye;
+- c) hungarikum: gyűjtőfogalom, amely – szakterületi kategóriák szerinti besorolásban nyilvántartva – olyan megkülönböztetésre, kiemelésre méltó értéket jelöl, amely a magyarságra jellemző tulajdonságával, egyediségével, különlegességével és minőségével a magyarság csúcsteljesítménye;
+- d) Hungarikumok Gyűjteménye: a hungarikummá nyilvánított nemzeti értékek gyűjteménye;
 - e) hungarikum termék: olyan hungarikum, amely termékként jogszabály alapján magyar terméknek minősül;
 - f) kiemelkedő nemzeti érték: olyan nemzeti érték, amely nemzeti szempontból meghatározó jelentőségű, a magyarságra jellemző és közismert, jelentősen öregbíti hírnevünket, növelheti megbecsülésünket az Európai Unióban és szerte a világon, továbbá hozzájárul új nemzedékek nemzeti hovatartozásának, magyarságtudatának kialakításához, megerősítéséhez;
 - g) külhoni települési értéktár: a külhoni települési önkormányzat területén fellelhető nemzeti értékek adatait tartalmazó gyűjtemény;
 - h) külhoni tájegységi értéktár: több földrajzi, történelmi vagy néprajzi szempontok alapján szomszédos külhoni település, illetve földrajzi, történelmi vagy néprajzi szempontok alapján egységet alkotó tájegység területén fellelhető nemzeti értékek közül az adott Külhoni Tájegységi Értéktár Bizottság által külhoni tájegységi értékké nyilvánított értékek adatait tartalmazó gyűjtemény;
 - i) külhoni magyarság értéktár: a külhoni települési értéktár, a külhoni tájegységi értéktár és a külhoni nemzetrész értéktár összefoglaló elnevezése;
 - j) külhoni nemzetrész értéktár: az országhatáron túl, egy adott ország területén élő magyarságra jellemző nemzeti értékek közül az adott Külhoni Nemzetrész Értéktár Bizottság által külhoni értékké nyilvánított értékek adatait tartalmazó gyűjtemény;
-- k) Magyar Értéktár: a nemzeti értékek köréből a HB által kiemelkedő nemzeti értékké nyilvánított értékek gyűjteménye;
+- k) Magyar Értéktár: a nemzeti értékek köréből a Hungarikum Bizottság (a továbbiakban: HB) által kiemelkedő nemzeti értékké nyilvánított értékek gyűjteménye;
 - l) vármegyei értéktár: a vármegye területén fellelhető nemzeti értékek közül a Vármegyei Értéktár Bizottság által vármegyei értékké nyilvánított értékek adatait tartalmazó gyűjtemény; ahol e törvény vármegyei értéktárat említ, az alatt a fővárosi értéktárat is érteni kell;
 - m) nemzeti érték: a magyarság és a magyarországi államalkotó nemzetiségek tevékenységéhez, termelési kultúrájához, tudásához, hagyományaihoz, a magyar tájhoz és élővilághoz kapcsolódó, nemzetünk történelme, valamint a közelmúlt során felhalmozott és megőrzött minden szellemi és anyagi, természeti, közösségi érték vagy termék, illetve a tájhoz és élővilághoz kapcsolódó materiális vagy immateriális javakat magába foglaló tájérték, amely tanúskodik egy emberi közösség és az adott terület történelmi kapcsolatáról;
 - n) nemzetközi elismerésben részesített nemzeti érték: azon nemzeti érték, amely az Országgyűlés által ratifikált vagy kormányrendelettel kihirdetett nemzetközi megállapodások vagy viszonosság alapján nemzetközi elismerésben részesült;
@@ -54,7 +54,7 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 
 #### 2. A nemzeti értékek azonosítása
 
-2. § A nemzeti értékek megóvandó értékek, azonosításukban, rendszerezésükben, adataik nyilvántartásba vételében és folyamatos frissítésében, gondozásában a természetes személyek, települési önkormányzatok, a vármegyei önkormányzatok, a települési, külhoni települési, a vármegyei és az országos nemzetiségi önkormányzatok, a hatáskörrel rendelkező állami szervek, a Magyar Állandó Értekezleten (a továbbiakban: MÁÉRT) részt vevő külhoni szervezetek és az általuk megbízott természetes és jogi személyek működhetnek közre.
+2. § A nemzeti értékek megóvandó értékek, azonosításukban, rendszerezésükben, adataik nyilvántartásba vételében és folyamatos frissítésében, gondozásában a természetes személyek, települési önkormányzatok, a vármegyei önkormányzatok, a települési, külhoni települési, a vármegyei és az országos nemzetiségi önkormányzatok, a hatáskörrel rendelkező állami szervek, a Magyar Állandó Értekezlet (a továbbiakban: MÁÉRT) külhoni tagszervezetei és az általuk megbízott természetes és jogi személyek működhetnek közre.
 
 #### 3. Települési, valamint tájegységi értéktár
 
@@ -84,23 +84,23 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 
 #### 5. A külhoni magyarság értéktára
 
-5. § (1) A MÁÉRT-en részt vevő külhoni szervezet vagy szervezetek a saját országuk vonatkozásában külhoni nemzetrész értéktárat hozhatnak létre. Egy nemzetrész esetén a HB kizárólag egy külhoni nemzetrész értéktár működését veheti figyelembe.
+5. § (1) A MÁÉRT külhoni tagszervezete az általa képviselt ország, illetve annak meghatározott területe vonatkozásában külhoni nemzetrész értéktárat, valamint Külhoni Nemzetrész Értéktár Bizottságot hozhat létre, kijelölve a működési feltételeket biztosító szervezetet.
 
-(2) A MÁÉRT-en részt vevő külhoni szervezet vagy szervezetek a saját országuk vonatkozásában Külhoni Nemzetrész Értéktár Bizottságot hozhatnak létre, amely szervezheti az országhatáron túl fellelhető nemzeti értékek azonosítását, dönthet a külhoni nemzetrész értéktárba bekerülő nemzeti értékről, létrehozhatja a külhoni nemzetrész értéktárat és megküldheti azt a HB-nek.
+(2) A MÁÉRT külhoni tagszervezete az (1) bekezdésben foglaltakról tájékoztatja a HB-t. Egy ország egésze vagy annak egy meghatározott területe tekintetében a HB egy külhoni nemzetrész értéktár működését veszi figyelembe.
 
-(3) A Külhoni Nemzetrész Értéktár Bizottság létrehozásáról a MÁÉRT-en részt vevő külhoni szervezet tájékoztathatja a HB-t.
+(3) A Külhoni Nemzetrész Értéktár Bizottság azonosítja a külhoni nemzeti értékeket és lefolytatja a külhoni nemzetrész értéktárba történő felvételre irányuló eljárást.
 
-(4) Ha valamely nemzetrészben nem hoztak létre Külhoni Nemzetrész Értéktár Bizottságot, a HB elláthatja annak feladatait.
+(4) Ha valamely külhoni nemzetrészben nem hoztak létre Külhoni Nemzetrész Értéktár Bizottságot, a HB elláthatja annak feladatait.
 
-5/A. § (1) A MÁÉRT-en részt vevő külhoni szervezet által támogatott önkormányzat vagy jogi személy (a továbbiakban: külhoni szervezet) saját országa vonatkozásában az országhatáron túl külhoni települési, illetve külhoni tájegységi értéktárat hozhat létre. A HB egy település esetén kizárólag egy külhoni települési értéktár, egy tájegység esetén kizárólag egy külhoni tájegységi értéktár működését veheti figyelembe.
+5/A. § (1) A MÁÉRT külhoni tagszervezete által támogatott, önkormányzatisággal rendelkező szervezet vagy más jogi személy (a továbbiakban: külhoni szervezet) működési területe vonatkozásában külhoni települési, illetve külhoni tájegységi értéktárat hozhat létre. A HB egy település esetén kizárólag egy külhoni települési értéktár, egy tájegység esetén kizárólag egy külhoni tájegységi értéktár működését veheti figyelembe.
 
 (2) A külhoni szervezet Külhoni Települési Értéktár Bizottságot, illetve Külhoni Tájegységi Értéktár Bizottságot hozhat létre, amely azonosíthatja és gondozhatja az adott település, illetve tájegység területén fellelhető nemzeti értékeket, továbbá azok adatait nyilvántartás céljából megküldheti a HB-nak és a területileg illetékes Külhoni Nemzetrész Értéktár Bizottságnak.
 
-(3) A Külhoni Települési Értéktár Bizottság, illetve a Külhoni Tájegységi Értéktár Bizottság létrehozásáról az érintett külhoni szervezet tájékoztathatja a HB-t és a területileg illetékes Külhoni Nemzetrész Értéktár Bizottságot.
+(3) A Külhoni Települési Értéktár Bizottság, illetve a Külhoni Tájegységi Értéktár Bizottság létrehozásáról a MÁÉRT érintett külhoni tagszervezete tájékoztatja a HB-t és a területileg illetékes Külhoni Nemzetrész Értéktár Bizottságot.
 
-(4) Az önkormányzat közigazgatási területén fellelhető, illetve az ott létrehozott nemzeti értéknek a külhoni települési, külhoni tájegységi értéktárba történő felvétele kezdeményezésének az adott érték fellelhetőségének helye szerint illetékes értéktár bizottság elnökéhez címzett javaslat tekinthető.
+(4) Nemzeti értéknek a külhoni települési, külhoni tájegységi értéktárba történő felvétele kezdeményezésének az adott érték fellelhetőségének helye szerint illetékes értéktár bizottság elnökéhez címzett javaslat tekinthető.
 
-(5) A Magyarország határain túl fellelhető nemzeti értékeknek a külhoni nemzetrész értéktárába történő felvétele kezdeményezésének a MÁÉRT szakbizottság ügyrendjében foglaltak szerinti javaslat tekinthető.
+(5) A Magyarország határain túl fellelhető nemzeti értékeknek a külhoni nemzetrész értéktárába történő felvétele kezdeményezésének a Külhoni Nemzetrész Értéktár Bizottság ügyrendjében foglaltak szerinti javaslat tekinthető.
 
 #### 6. Az ágazati értéktár
 
@@ -162,6 +162,7 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 - d) a Külhoni Nemzetrész Értéktár Bizottság,
 - e) az ágazati értéktárat működtető, hatáskörrel rendelkező miniszter, valamint
 - f) a Magyar Értéktárban nyilvántartott kiemelkedő nemzeti értéket gondozó vagy fenntartó természetes vagy jogi személy.
+- g) a nemzeti érték települési, tájegységi, vármegyei, külhoni nemzetrész, külhoni települési, külhoni tájegységi értéktárba való felvételének kezdeményezője.
 
 (2) Az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete által kiemelkedő egyetemes értékként vagy szellemi kulturális örökségként nyilvántartott és az 1. § (1) bekezdés b) pontja szerinti feltételeknek megfelelő értékek a HB külön elbírálása alapján minősülhetnek hungarikumoknak.
 
@@ -184,7 +185,7 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 (2) A HB
 
 - a) az Országgyűlés által delegált négy,
-- b) a MÁÉRT-en részt vevő külhoni szervezetek által delegált három,
+- b) a MÁÉRT külhoni tagszervezetei által delegált három,
 - c) a nemzetpolitikáért felelős miniszter által delegált egy,
 - d) az igazságügyért felelős miniszter által delegált egy,
 - e) a helyi önkormányzatokért felelős miniszter által delegált egy,
@@ -265,6 +266,30 @@ tagból áll.
 18/B. § (1) Az állam a külhoni magyarság digitális tájékozódási igényének kielégítése, a magyar nemzeti értékek és a hungarikumok megismertetése, a magyar kultúra megőrzése, védelme, a magyar nyelv ápolása, továbbá a külhoni magyarság közügyeinek Magyarországon történő ügyintézése és a demokratikus közéletben való részvételének elősegítése érdekében az interneten ingyenesen elérhető információs portált üzemeltet.
 
 (2) Az információs portál igénybevételét, az elérhető szolgáltatásokat és tartalmakat az információs portál üzemeltetője (a továbbiakban: Üzemeltető) megkülönböztetés nélkül, ingyenesen, átlátható és objektív feltételek alapján biztosítja. A regisztráció részletes feltételeit az Üzemeltető vagy a virtuális magánhálózatot (VPN) biztosító szolgáltató által rögzített felhasználási feltételek tartalmazzák.
+
+18/C. § (1) Az agrárpolitikáért felelős miniszter létrehozza és működteti a Nemzeti Értékek Tárát (a továbbiakban: NEKTÁR).
+
+(2) A NEKTÁR tartalmazza
+
+- a) valamennyi, e törvény alapján létrejött értéktárba, valamint a Hungarikumok Gyűjteményébe felvett nemzeti értéket és azok adatait,
+- b) az értéktárba, valamint a Hungarikumok Gyűjteményébe való felvételt kezdeményező személy nevét, elektronikus elérhetőségét, levelezési címét és telefonszámát.
+
+(3) A NEKTÁR (2) bekezdés
+
+- a) a) pontja szerinti adatai,
+- b) b) pontja szerinti adatai az értéktárba vagy a Hungarikumok Gyűjteményébe való felvételt kezdeményező személy hozzájárulása esetén
+
+nyilvánosak.
+
+(4) Az agrárpolitikáért felelős miniszter a NEKTÁR személyes adatok körébe tartozó adatait a nemzeti értékek védelme és megőrzése céljából a nemzeti érték értéktárból való törlését követő 5 évig kezeli.
+
+#### 13. A kiemelkedő nemzeti érték védjegy
+
+18/D. § (1) A kiemelkedő nemzeti érték védjegy a Magyar Értéktárban szereplő kiemelkedő nemzeti értékek megismertetésének elősegítését szolgálja.
+
+(2) A kiemelkedő nemzeti érték védjegy használatát a védjegyjogosult a kiemelkedő nemzeti értéket gondozó vagy fenntartó természetes vagy jogi személy kérelmére engedélyezheti.
+
+(3) A kiemelkedő nemzeti érték védjegy népszerűsítése az agrárpolitikáért felelős miniszter feladata.
 
 ## IV. RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

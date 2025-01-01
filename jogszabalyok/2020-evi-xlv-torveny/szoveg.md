@@ -8,46 +8,54 @@ Az Országgyűlés a fogyasztási-forgalmi adók adórendszerben betöltött sze
 
 1. § E törvény alkalmazásában:
 
-- 1. kiskereskedelmi tevékenység: a 2020. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere szerint
-  - a) a 45.1 ágazatba – ide nem értve a gépjármű, pótkocsi nagykereskedelmét –,
-  - b) a 45.32 ágazatba,
-  - c) a 45.40 ágazatba – ide nem értve a motorkerékpár javítását, nagykereskedelmét –, továbbá
-  - d) a 47.1–47.9 ágazatokba
-
-sorolt azon tevékenységek, melyek folytatása esetén a vevő magánszemély is lehet;
-
+- 1. kiskereskedelmi tevékenység: a 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint a 47.1–47.9 alágazatokba sorolt azon tevékenységek, amelyek folytatása esetén a vevő magánszemély is lehet;
 - 2. nettó árbevétel:
   - a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) hatálya alá tartozó adóalany esetén az Sztv-ben meghatározott értékesítés nettó árbevétele,
   - b) az egyedi beszámolóját az Sztv. 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint készítő adóalany esetén, a helyi adókról szóló 1990. évi C. törvény 40/C. §-a szerinti nettó árbevétel,
   - c) a kisadózó vállalkozók tételes adójáról szóló törvény szerinti kisadózó esetén a kisadózó bevétele,
   - d) a személyi jövedelemadóról szóló törvény hatálya alá tartozó adóalany esetében a személyi jövedelemadóról szóló törvény szerinti általános forgalmi adó nélküli bevétel,
-  - e) a 2. § szerinti tevékenységét nem fióktelep útján kifejtő külföldi illetőségű személy vagy szervezet esetén a belföldön átadott áru értékesítéséből származó általános forgalmi adó nélküli ellenérték.
+  - e) a 2. § (1) bekezdése szerinti tevékenységét nem fióktelep útján kifejtő külföldi illetőségű személy vagy szervezet esetén a belföldön és külföldön átadott áru értékesítéséből származó általános forgalmi adó nélküli ellenérték.
+- 3. platform: az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 5. melléklet I/A/1. pontja szerinti platform;
+- 4. platformüzemeltető: az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 5. melléklet I/A/2. pontja szerinti platformüzemeltető;
+- 5. adómértéket megállapító rendelkezés: a 6. § (1) bekezdése és az extraprofit adókról szóló 197/2022. (VI. 4.) Korm. rendelet 21. § (3) bekezdése.
 
 #### 2. Adókötelezettség
 
-2. § Adóköteles a kiskereskedelmi tevékenység, ideértve a külföldi illetőségű személy vagy szervezet által a vevője részére – az 1. § 1. pontja szerinti tevékenység keretében – belföldön átadott áru nem fióktelep útján való értékesítését.
+2. § (1) Adóköteles a kiskereskedelmi tevékenység, ideértve a külföldi illetőségű személy vagy szervezet által a vevője részére – az 1. § 1. pontja szerinti tevékenység keretében – belföldön átadott áru nem fióktelep útján való értékesítését.
+
+(2) Az (1) bekezdés szerinti adóalany platformon keresztül történő értékesítése tekintetében adókötelezettség terheli a kül- vagy belföldi illetőségű platformüzemeltetőt.
 
 #### 3. Adóalany
 
-3. § Az adó alanya a 2. § szerinti tevékenységet üzletszerűen végző kül- vagy belföldi illetőségű személy vagy szervezet.
+3. § Az adó alanya
+
+- a) a 2. § (1) bekezdése szerinti tevékenységet üzletszerűen végző kül- vagy belföldi illetőségű személy vagy szervezet,
+- b) a 2. § (2) bekezdése szerinti kötelezettség esetén a kül- vagy belföldi illetőségű platformüzemeltető.
 
 #### 4. Adóalap
 
-4. § (1) Az adó alapja az adóalanynak az adóévben a 2. § szerinti tevékenységéből származó nettó árbevétele.
+4. § (1) Az adó alapja a 3. § a) pontja szerinti adóalanynak az adóévben a 2. § (1) bekezdése szerinti tevékenységéből származó nettó árbevétele.
 
-(2) Az (1) bekezdés szerinti adóalapba tartozik a kiskereskedelmi forgalomban eladásra szánt, beszerzett áruk szállítójának (az áru előállítójának, forgalmazójának) – a beszerzett áruk értékesítésével összefüggésben – az adóalany által nyújtott szolgáltatásból származó árbevétele, valamint a kiskereskedelmi forgalomban eladásra szánt áru szállítója által az adóalanynak adott engedmény összege.
+(1a) A platformüzemeltető adóalapja a platformon keresztül értékesítő 3. § a) pontja szerinti adóalanyok által az adóévben a platformon keresztül eladott áru értékesítéséből származó nettó árbevétel együttes összege.
+
+(1b) Amennyiben a platformüzemeltető az 1. § 1. pontja szerinti kiskereskedelmi tevékenységet is végez, akkor az adóalapja az (1) bekezdés és az (1a) bekezdés szerinti adóalap együttes összege a saját kiskereskedelmi tevékenység keretében a platformon keresztül eladott áru értékesítéséből származó nettó árbevétel kivételével.
+
+(2) Az (1) és (1b) bekezdések szerinti adóalapba tartozik
+
+- a) a kiskereskedelmi forgalomban eladásra szánt, beszerzett áruk szállítójának (az áru előállítójának, forgalmazójának) – a beszerzett áruk értékesítésével összefüggésben – az adóalany által nyújtott szolgáltatásból származó árbevétele, valamint a kiskereskedelmi forgalomban eladásra szánt áru szállítója által az adóalanynak adott engedmény összege,
+- b) a kiskereskedő által kiállított, az értékesítésről szóló bizonylatban megjelenő, a vevő által fizetendő szállítási díj.
 
 (3) Ha az adó alapját nem forintban fejezik ki, akkor annak értékét a Magyar Nemzeti Bank hivatalos – az adóév utolsó napján érvényes – devizaárfolyamának alapulvételével kell átszámítani forintra. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által jegyzett árfolyama, a Magyar Nemzeti Bank által az adóév utolsó napjára vonatkozóan közzétett, euróban megadott árfolyamot kell a forintra történő átszámításkor figyelembe venni.
 
 #### 5. Adóalap-összeszámítás az adóelkerülés kizárása miatt
 
-5. § (1) A társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásnak minősülő adóalanyok adóját úgy kell megállapítani, hogy az egymással kapcsolt vállalkozási viszonyban álló adóalanyok 2. § szerinti tevékenységéből származó nettó árbevételét össze kell adni, és az eredmény alapulvételével a 6. § szerinti adómértékkel kiszámított összeget az egyes adóalanyok között olyan arányban kell megosztani, mint amilyen arányt az általuk elért, 2. § szerinti tevékenységből származó nettó árbevétel az egymással kapcsolt vállalkozási viszonyban álló adóalanyok által elért összes, 2. § szerinti tevékenységből származó nettó árbevételben képvisel.
+5. § (1) A társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásnak minősülő adóalanyok adóját úgy kell megállapítani, hogy az egymással kapcsolt vállalkozási viszonyban álló adóalanyok 2. § (1) bekezdése szerinti tevékenységéből származó nettó árbevételét össze kell adni, és az eredmény alapulvételével a 6. § alapján kiszámított összeget az egyes adóalanyok között olyan arányban kell megosztani, mint amilyen arányt az általuk elért, 2. § (1) bekezdése szerinti tevékenységből származó nettó árbevétel az egymással kapcsolt vállalkozási viszonyban álló adóalanyok által elért összes, 2. § (1) bekezdése szerinti tevékenységből származó nettó árbevételben képvisel.
 
 (2) Az adó (1) bekezdésben foglalt számítási módja szerint kell – a 7. §-ban foglaltakra is figyelemmel – megállapítani az adóelőleget is.
 
 (3) Az (1)–(2) bekezdés szerinti számítások végrehajtása érdekében az egymással kapcsolt vállalkozási viszonyban álló adóalanyok kötelesek együttműködni. A számítások dokumentálását (ideértve az elkészítést és a megőrzést is) az egymással kapcsolt vállalkozási viszonyban álló adóalanyok mindegyike köteles elvégezni. A számítások dokumentációját az adóhatóság kérésére be kell mutatni.
 
-(4) Az (1)–(3) bekezdés szerinti rendelkezéseket azon kapcsolt vállalkozásoknak kell alkalmazni, amelyek esetén a kapcsolt vállalkozási viszony a Gazdaságvédelmi Akcióterv végrehajtása érdekében a Járványügyi Alap feltöltését szolgáló kiskereskedelmi adóról szóló 109/2020. (IV. 14.) Korm. rendelet (a továbbiakban: Korm. rendelet) kihirdetését követő szétválással, kiválással jött létre vagy, ha a Korm. rendelet kihirdetését követően a 2. § szerinti tevékenységet végző jogalany a 2. § szerinti tevékenységet lehetővé tevő eszközeit a Korm. rendelet kihirdetését követően más kapcsolt vállalkozás gazdálkodó szervezet számára adta át vagy adta használatba.
+(4) Az (1)–(3) bekezdés szerinti rendelkezéseket azon kapcsolt vállalkozásoknak kell alkalmazni, amelyek esetén a kapcsolt vállalkozási viszony a Gazdaságvédelmi Akcióterv végrehajtása érdekében a Járványügyi Alap feltöltését szolgáló kiskereskedelmi adóról szóló 109/2020. (IV. 14.) Korm. rendelet (a továbbiakban: Korm. rendelet) kihirdetését követő szétválással, kiválással jött létre vagy, ha a Korm. rendelet kihirdetését követően a 2. § (1) bekezdése szerinti tevékenységet végző jogalany a 2. § (1) bekezdése szerinti tevékenységet lehetővé tevő eszközeit a Korm. rendelet kihirdetését követően más kapcsolt vállalkozás gazdálkodó szervezet számára adta át vagy adta használatba.
 
 (5) Nem kell az (1)–(4) bekezdésben foglaltakat alkalmazni, ha az adóalany bizonyítja, hogy a (4) bekezdésben említett ügyleteket nem az e törvényben foglalt rendelkezések megkerülése céljából, hanem kizárólag gazdasági okok miatt hajtotta végre.
 
@@ -62,11 +70,25 @@ sorolt azon tevékenységek, melyek folytatása esetén a vevő magánszemély i
 
 (2) Ha az adóév 365 napnál rövidebb, a fizetendő adó összege az adóévi 4. § szerinti adóalapnak az adóév naptári napjai alapján 365 napos időszakra számított összege alapján az (1) bekezdés szerinti adómértékkel megállapított adóösszegnek az adóév naptári napjaival arányos része.
 
+(3) Az adómértéket megállapító rendelkezés szerinti adómértékkel kiszámított adót a 3. § a) pontja szerinti adóalany csökkenti
+
+- a) az üzemanyag-kiskereskedelmi tevékenységből származó, és
+- b) a külföldön átadott áru értékesítéséből származó, és
+- c) a platformon keresztül értékesített belföldön átadott áru értékesítéséből származó
+
+nettó árbevétel együttes összegére jutó, az adómértéket megállapító rendelkezés szerinti adómértékkel megállapított adóval.
+
+(4) Az adómértéket megállapító rendelkezés szerinti adómértékkel kiszámított adót a 3. § b) pontja szerinti adóalany csökkenti a platformon keresztül más által folytatott kiskereskedelmi tevékenység keretében külföldön átadott áru értékesítéséből származó nettó árbevételre jutó, az adómértéket megállapító rendelkezés szerinti adómértékkel megállapított adóval.
+
+(5) Amennyiben a platformüzemeltető az 1. § 1. pontja szerinti kiskereskedelmi tevékenységet is végez az adómértéket megállapító rendelkezés szerinti adómértékkel megállapított adót csökkenti a saját kiskereskedelmi tevékenysége és a platformján keresztül más által folytatott kiskereskedelmi tevékenysége keretében külföldön átadott áru értékesítéséből származó nettó árbevételre jutó, az adómértéket megállapító rendelkezés szerinti adómértékkel megállapított adóval.
+
 #### 7. Eljárási rendelkezések
 
 7. § (1) Az adó alanya adókötelezettségét az adóév utolsó napját követő ötödik hónap utolsó napjáig állapítja meg és vallja be az állami adó- és vámhatóság által erre a célra rendszeresített űrlapon.
 
-(2) Az adóalany az adóévre – a (3) bekezdés a)–b) pontja szerinti esetben az adóév ötödik hónapjának utolsó napjáig, a (3) bekezdés c)–d) pontja szerinti esetben a 2. § szerinti tevékenység megkezdését követő 15 napon belül az állami adó- és vámhatóság által erre a célra rendszeresített űrlapon – adóelőleget vall be. Nem kell adóelőleget bevallani az előtársaságnak.
+(1a) A 3. § a) pontja szerinti adóalanynak az adóbevallásában a platformok megjelölésével, platformonként külön-külön fel kell tüntetnie a platformon keresztül értékesített belföldön átadott áru értékesítéséből származó nettó árbevételét.
+
+(2) Az adóalany az adóévre – a (3) bekezdés a)–b) pontja szerinti esetben az adóév ötödik hónapjának utolsó napjáig, a (3) bekezdés c)–d) pontja szerinti esetben a 2. § (1) bekezdés szerinti tevékenység megkezdését, a 2. § (2) bekezdés szerinti kötelezettség esetén a platformon keresztül történő értékesítés megkezdését követő 15 napon belül az állami adó- és vámhatóság által erre a célra rendszeresített űrlapon – adóelőleget vall be. Nem kell adóelőleget bevallani az előtársaságnak.
 
 (3) Az adóelőleg összege
 
@@ -79,7 +101,13 @@ sorolt azon tevékenységek, melyek folytatása esetén a vevő magánszemély i
 
 (5) Az adófizetésre nem kötelezett adóalanynak adó- és adóelőlegbevallás benyújtási kötelezettsége nincs.
 
+(5a) Az (5) bekezdéstől eltérően a platformon keresztül is értékesítő adóalanynak vagy a 2. § (1) bekezdése szerinti tevékenységet kizárólag a platformon keresztül végző más személynek, szervezetnek az (1a) bekezdés szerinti adatokat akkor is be kell vallania, ha adófizetésre nem kötelezett.
+
 (6) Az adóztatással kapcsolatos hatósági feladatokat az állami adó- és vámhatóság látja el, az adóból származó bevétel a központi költségvetés bevétele.
+
+(7) Amennyiben az adókötelezettség a 3. § b) pontja alapján keletkezik, a platformüzemeltető bejelentési kötelezettségét az adóalanyiság létrejöttétől számított 15 napon belül teljesíti.
+
+(8) Amennyiben a platformüzemeltető az adófizetési kötelezettségének nem tesz eleget, és az adótartozás tőle be sem hajtható, akkor az adó megfizetésére az állami adó- és vámhatóság az adóalapja arányában a platformon keresztül értékesítő kiskereskedőt kötelezi. A kiskereskedő által fizetendő adó mértéke legalább a platformon keresztül értékesített belföldön átadott áru értékesítéséből származó nettó árbevételnek az adómértéket megállapító rendelkezés szerinti adómértékkel megállapított adója.
 
 #### 8. Záró rendelkezések
 
@@ -128,3 +156,14 @@ sorolt azon tevékenységek, melyek folytatása esetén a vevő magánszemély i
 
 - a) a (3) bekezdés szerinti különbözet teljes adóévre számított (évesített) összegének alapulvételével a Mód. tv. hatálybalépése napján hatályos 6. § szerint meghatározott adóösszegnek az adóév Mód. tv. hatálybalépése napját követő naptári napjaival arányos része, növelve
 - b) az adóévben a Mód. tv. hatálybalépése napját megelőző napig keletkezett adóalaprész teljes adóévre számított (évesített) összegének alapulvételével a Mód. tv. hatálybalépése napját megelőző napon hatályos 6. § szerint meghatározott adóösszegnek az adóév Mód. tv. hatálybalépése napjáig terjedő időszak naptári napjaival arányos részével.
+
+(5) Azon adóalanynak, akinek az adóéve nem egyezik meg a naptári évvel az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított rendelkezéseket a 2025. évben kezdődő adóévtől kell alkalmaznia.
+
+(6) E törvény 1. § 3. és 4. pontjának, 3. §-ának, 4. § (1a)–(1b) bekezdésének, 6. §. (3)–(5) bekezdésének, 7. § (1a), (5a) és (7)–(8) bekezdésének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+12. § Ez a törvény
+
+- a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet, és
+- b) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

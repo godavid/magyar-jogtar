@@ -16,7 +16,12 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 3. § (1) A hegyközség egy borvidék egy vagy több településének szőlészeti és borászati termelői által e tevékenységükhöz fűződő közös érdekeik előmozdítására, valamint az általuk előállított termékek származás-, minőség- és eredetvédelmére létrehozott köztestület.
 
-(2) Szőlészeti és borászati termelőtevékenység szakigazgatási egység területén csak hegyközség tagjaként folytatható, szakigazgatási egység területén kívül pedig csak akkor, ha a szőlészeti és borászati termelő eleget tett a külön jogszabály szerinti nyilvántartásba vételi kötelezettségének.
+(2) Kizárólag hegyközség tagjaként folytatható
+
+- a) szakigazgatási egység területén a szőlészeti és borászati termelőtevékenység, valamint
+- b) szakigazgatási egység területén és azon kívül a szőlő-szaporítóanyag előállítása, illetve forgalmazása.
+
+(2a) Szakigazgatási egység területén kívül – a (2) bekezdés b) pontjában foglalt kivétellel – szőlészeti és borászati termelőtevékenységet nyilvántartásba vett szőlészeti és borászati termelő folytathat.
 
 (3) Szőlészeti és borászati felvásárló tevékenység akkor folytatható, ha a szőlészeti és borászati felvásárló a külön jogszabály szerinti nyilvántartásba vételi kötelezettségének eleget tett.
 
@@ -24,7 +29,9 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 4. § E törvény és e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:
 
-- a) szőlészeti termelő: aki 1000 m2-nél nagyobb területen borszőlőt művel, vagy területnagyságtól függetlenül borszőlőültetvényének termését értékesíti, és nem minősül borászati termelőnek,
+- a) szőlészeti termelő:
+  - aa) aki 1000 m2-nél nagyobb területen borszőlőt művel, vagy területnagyságtól függetlenül borszőlőültetvényének termését értékesíti, és nem minősül borászati termelőnek, valamint
+  - ab) aki szőlő-szaporítóanyagot előállít, illetve forgalmaz,
 - b) borászati termelő: aki borászati terméket értékesítés céljából állít elő,
 - c) szőlészeti és borászati felvásárló: aki borszőlőt, mustot, illetve bort tovább-feldolgozási célú továbbértékesítés vagy alapanyagként történő felhasználás céljából vásárol,
 - d) borvidék: termőhelyek összességéből álló szakigazgatási egység, amely több település közigazgatási területére kiterjedően hasonló éghajlati, domborzati, talajtani adottságokkal, jellemző fajtaösszetételű és művelésű ültetvényekkel, sajátos szőlő- és bortermelési hagyományokkal rendelkezik,
@@ -66,7 +73,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 - b) a hegyközség éves költségvetésének megállapítása és a zárszámadás elfogadása,
 - c) a hegyközség tisztségviselőinek megválasztása,
 - d) a hegyközségi tanács szőlészeti és borászati szekciójába tartozó azonos számú küldöttek megválasztása,
-- e) a hegyközségi járulék mértékének meghatározása.
+- e) e törvény eltérő rendelkezése hiányában a hegyközségi járulék mértékének meghatározása.
 
 (3) A közgyűlést az alapszabályban meghatározott időközönként, de évente legalább egy alkalommal össze kell hívni.
 
@@ -202,7 +209,10 @@ kezeli.
 
 #### 12. A hegyközség tagjai
 
-15. § (1) Hegyközségi tagságra kötelezett – lakóhelyétől (telephelyétől, székhelyétől) függetlenül – az a szőlészeti és borászati termelő, aki tevékenységét a hegyközség működési területén végzi.
+15. § (1) Hegyközségi tagságra kötelezett – lakóhelyétől (telephelyétől, székhelyétől) függetlenül –
+
+- a) a szőlő-szaporítóanyagot előállító, illetve forgalmazó szőlészeti termelő kivételével az a szőlészeti és borászati termelő, aki tevékenységét a hegyközség működési területén végzi, valamint
+- b) a szőlő-szaporítóanyagot előállító, illetve forgalmazó szőlészeti termelő, aki tevékenységét a hegyközség működési területén vagy azon kívül eső területen végzi.
 
 (2) A szőlészeti és borászati termelő minden olyan hegyközségnek tagja, amelynek területén termel.
 
@@ -218,7 +228,7 @@ kezeli.
 
 #### 14. A tagsági viszony keletkezése és megszűnése
 
-17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a szakigazgatási egység területén kívül a szőlészeti és borászati termelőtevékenységet végző nyilvántartásba-vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
+17. § (1) A szőlészeti és borászati termelő, valamint a szőlő-szaporítóanyagot előállító, illetve forgalmazó hegyközségi tagsági viszonya, illetve a szakigazgatási egység területén kívül a szőlészeti és borászati termelőtevékenységet végző nyilvántartásba-vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
 (2) A nyilvántartott adatszolgáltató nyilvántartásba vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
@@ -228,7 +238,7 @@ kezeli.
 
 (5) A hegyközségi tag, valamint a szőlészeti és borászati felvásárló, illetve a szakigazgatási egységbe nem sorolt településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni, hogy tevékenységével felhagyott, vagy a szőlészeti termelő a szőlőültetvény használatát másnak engedte át. A hegybíró a bejelentés alapján a tagsági jogviszony megszüntetéséről, ezzel összefüggésben a névjegyzékből való törlésről, illetve az adatszolgáltatási kötelezettség megszűnéséről határozatot hoz, amennyiben a szőlészeti és borászati termelőnek, illetve a szőlészeti és borászati felvásárlónak nincs járuléktartozása, illetve adatszolgáltatási kötelezettségének eleget tett.
 
-(6) A szőlészeti termelő 30 napon belül köteles a hegybírónak bejelenteni, ha a szőlőültetvény művelésével felhagyott, az ültetvény tulajdonosának, illetve – amennyiben a szőlészeti termelő a tulajdonos volt – az új használó nevének és címének feltüntetésével.
+(6) A szőlészeti termelő 30 napon belül köteles a hegybírónak bejelenteni, ha a szőlőültetvény művelésével, illetve a szőlő-szaporítóanyag előállításával, forgalmazásával felhagyott, az ültetvény tulajdonosának, illetve – amennyiben a szőlészeti termelő a tulajdonos volt – az új használó nevének és címének feltüntetésével.
 
 (7) Az önkéntes tag bármikor kérheti írásban a névjegyzékből való törlését. A tagsági jogviszony ebben az esetben a kérelem benyújtásának napjával szűnik meg.
 
@@ -644,7 +654,7 @@ részére adhatja át.
 - f) pályázatból származó bevétel,
 - g) egyéb, az alapszabályban meghatározott bevételek.
 
-(2) A hegyközségi tag, valamint a nyilvántartott adatszolgáltató hegyközségi járulékot fizet azon hegyközségi szervezet részére, amelynek működési területén a termelő-, illetve a felvásárló tevékenységét végzi. A hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegyközség a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel számviteli bizonylatban közli.
+(2) A hegyközségi tag, valamint a nyilvántartott adatszolgáltató hegyközségi járulékot fizet azon hegyközségi szervezet részére, amelynek működési területén a termelő-, illetve a felvásárló tevékenységét végzi. E törvény eltérő rendelkezése hiányában a hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegyközség a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel számviteli bizonylatban közli.
 
 (3) A közgyűlés a járulék mértékét a következők szerint állapítja meg:
 
@@ -668,8 +678,9 @@ részére adhatja át.
 - a) a hegyközségi hozzájárulásból,
 - b) jogszabályban, illetve az állammal kötött szerződésekben rögzített, valamint pályázat alapján kapott forrásokból,
 - c) adományokból,
-- d) rendezvények bevételeiből, és
-- e) egyéb, az alapszabályban meghatározott bevételekből
+- d) rendezvények bevételeiből,
+- e) egyéb, az alapszabályban meghatározott bevételekből, valamint
+- f) a bevételét képező hegyközségi járulékból
 
 kell fedezni.
 
@@ -681,7 +692,7 @@ kell fedezni.
 
 (5)
 
-(6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál.
+(6) A szőlő-szaporítóanyagot előállító, illetve forgalmazó szőlészeti termelő esetében a hegyközségi járulék mértékét a főtitkárnak – a szőlő-szaporítóanyag előállítás sajátosságaira figyelemmel tett – javaslata alapján a Hegyközségek Nemzeti Tanácsa határozza meg. A hegyközségi járulék 50%-a a 47. § (2) bekezdése szerinti hegyközségi szervezet és 50%-a a Hegyközségek Nemzeti Tanácsának bevétele.
 
 (7) Az Európai Gazdasági Térség valamely szerződő államából továbbfeldolgozási célból behozott borászati termék mennyisége után a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni, amelynek 50%-a a feldolgozás helye szerint illetékes hegyközséget és 50%-a a Hegyközségek Nemzeti Tanácsát illeti meg.
 
@@ -780,5 +791,9 @@ kell fedezni.
 (3)
 
 63. § Az egyes ingatlan-nyilvántartással és földméréssel összefüggő törvények módosításáról szóló 2015. évi XLIV. törvény hatályba lépését megelőzően borszőlő termőhelyi kataszterbe sorolt ingatlanok vonatkozásában a termőhelyi katasztert vezető szerv hatósági bizonyítvánnyal keresi meg az ingatlanügyi hatóságot a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg feltüntetése érdekében. A hatósági bizonyítványnak az érintett földrészlet helyrajzi számát és a borszőlő termőhelyi kataszterbe tartozás tényét kell tartalmaznia.
+
+63/A. § (1) E törvénynek az egyes agrártárgyú törvények módosításáról szóló 2024. évi LXXX. törvénnyel megállapított 4. § a) pontja alapján 2025. január 1. napján hegyközségi tagsági viszonya keletkezik annak, aki 2025. január 1. napján szőlő-szaporítóanyag előállítását, illetve forgalmazását végzi.
+
+(2) Az (1) bekezdés szerinti szőlészeti termelő a 18. § (1) bekezdése szerinti kötelezettségének 2025. március 31-ig tesz eleget.
 
 64. § A 20/A. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.

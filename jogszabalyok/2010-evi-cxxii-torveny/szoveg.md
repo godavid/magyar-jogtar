@@ -177,7 +177,7 @@ kapcsolatos feladatokat.
 - a) külön jogszabályban szabályozott, nemzetközileg ellenőrzött termékek és technológiák forgalmának ellenőrzését,
 - b) a nemesfémforgalommal és fémjelzéssel kapcsolatos ellenőrzési feladatokat,
 - c) a vám-, a jövedéki, a szabálysértési, a Központi Bűnjelnyilvántartó Rendszer működtetése és egyéb eljárások során keletkezett, a feladat- és hatáskörébe tartozó adatok kezelését,
-- d) a fémkereskedelmi hatósági feladatokat,
+- d) üzemanyagtöltő állomáson forgalmazott folyékony motorhajtóanyagok esetében a piacfelügyeleti hatósági feladatokat.
 - e) a környezetvédelmi termékdíjjal és a regisztrációs adóval kapcsolatos adóztatási és ellenőrzési feladatokat.
 - f) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti és a különleges jogrendre történő felkészülés tekintetében jogszabályban meghatározott feladatokat.
 

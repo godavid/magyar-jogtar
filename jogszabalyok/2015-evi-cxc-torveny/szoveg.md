@@ -860,7 +860,7 @@ A. A jurisdiction must have rules and administrative procedures in place to ensu
 
 4. administrative procedures to ensure that the Entities and accounts defined in domestic law as Non-Reporting Financial Institutions and Excluded Accounts continue to have a low risk of being used to evade tax; and
 
-5. effective enforcement provisions to address non-compliance.”
+5. effective enforcement provisions to address non-compliance.
 
 „KÖZÖS JELENTÉSTÉTELI ELŐÍRÁSA PÉNZÜGYI SZÁMLAINFORMÁCIÓKKAL KAPCSOLATOS JELENTÉSTÉTELRE ÉS ÁTVILÁGÍTÁSRA VONATKOZÓ KÖZÖS ELŐÍRÁS
 
@@ -1466,6 +1466,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 38. Japán
 - 39. Jersey
 - 40. Kajmán-szigetek
+- 40a. Kamerun
 - 41. Kanada
 - 41a. Katar
 - 41b. Kazahsztán
@@ -1502,9 +1503,10 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 58. Olaszország
 - 58a. Omán
 - 58b. Orosz Föderáció
-- 58c. Pakisztán
-- 58d. Panama
-- 58e. Peru
+- 58c. Örményország
+- 58d. Pakisztán
+- 58e. Panama
+- 58f. Peru
 - 59. Portugália
 - 60. Románia
 - 60a. Ruanda
@@ -1519,7 +1521,8 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 68. Svájc
 - 69. Svédország
 - 69a. Szaúd-Arábia
-- 69b. Szingapúr
+- 69b. Szenegál
+- 69c. Szingapúr
 - 70. Szlovák Köztársaság
 - 71. Szlovénia
 - 71a. Törökország

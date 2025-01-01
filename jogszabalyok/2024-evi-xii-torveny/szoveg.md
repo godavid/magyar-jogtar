@@ -22,13 +22,15 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 5. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-#### 6. §
+6. § A közjegyzőkről szóló 1991. évi XLI. törvény 182. §-a a következő (20) bekezdéssel egészül ki:
+
+„(20) Az az elektronikus közjegyzői okirat, amelyet az ügyfél a közjegyzői okiratszerkesztési eljárásban 2024. december 31-ig a 2024. augusztus 31-én hatályos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással írt alá és ezt követően a közjegyző azt hivatali elektronikus aláírásával látta el, közjegyzői okiratnak minősül.”
 
 #### 7. §
 
 8. § Hatályát veszti a közjegyzőkről szóló 1991. évi XLI. törvény
 
-- a)
+- a) 111. § (4) bekezdés b) pontja,
 - b)
 
 #### 6. Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény módosítása
@@ -251,7 +253,11 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 47. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-#### 77. §
+77. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 9/G. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Az Európai Unió tagállamának állampolgára vagy az Európai Unió tagállamában bejegyzett jogi személy vagy egyéb szervezet által alapított korlátolt felelősségű társaság akkor minősül online alapított cégnek, és kérheti az e törvény szerinti, az online alapított cég bejegyzésére vonatkozó rendelkezések alkalmazását, ha)
+
+„c) az a) pont szerinti személy a cégbejegyzési kérelemhez csatolt jognyilatkozatát tartalmazó elektronikus okiratokat minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, elektronikus bélyegzővel látta el,”
 
 #### 78. §
 
@@ -429,9 +435,13 @@ lép.
 
 #### 79. A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény módosítása
 
-#### 131. §
+131. § A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 4. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 132. §
+„(2) A felhasználóként történő nyilvántartásba vétel (a továbbiakban: regisztráció) a hitelbiztosítéki rendszer e célra rendszeresített felületén kezdeményezhető. A kérelmezőnek a regisztrációs kérelemben – személyazonosító adatainak megadásán túlmenően – nyilatkoznia kell a felhasználói szabályzat elfogadásáról, vagy azt minősített elektronikus aláírással kell ellátnia. A kérelmezőnek a következő személyes adatait kell megadnia: családi és utónév, születési családi és utónév, anyja születési neve, születési hely és idő, lakcím.”
+
+132. § A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A regisztrált felhasználó hitelbiztosítéki nyilatkozatát annak megtételekor minősített elektronikus aláírással és időbélyegzővel látja el. Elektronikus aláírás alkalmazására kizárólag olyan aláírás-létrehozó adat használható, amely olyan tulajdonosi azonosítókhoz kötött, amiket a 4. § (2) bekezdése szerinti adatokat tartalmazó kérelem aláírása során használtak, feltéve, hogy az űrlapon így elhelyezett elektronikus aláírás tulajdonosi azonosítói a regisztrált felhasználó hitelbiztosítéki rendszerben rögzített adataival a 4. § (4) bekezdése szerint összerendelésre kerültek.”
 
 #### 133. §
 
@@ -481,7 +491,9 @@ lép.
 
 #### 148. §
 
-#### 149. §
+149. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/E. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére az igénybevételre jogosult szerv által a 3. § (3) bekezdés l), t) és v) pontjában meghatározott célból a részére átadott arcképmásokból arckép profilt képez. Ha az átadott arcképmások alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.”
 
 #### 150. §
 
@@ -509,7 +521,7 @@ lép.
 
 #### 158. §
 
-#### 159. §
+159. § Hatályát veszti a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés g) pontja.
 
 #### 91. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
@@ -527,13 +539,15 @@ lép.
 
 #### 163. §
 
-#### 164. §
+164. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 91. alcíme a következő 208/E. §-sal egészül ki:
+
+„208/E. § A fél vagy képviselője által a 2024. augusztus 31-én hatályos az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással való hitelesítéssel 2024. december 31-ig aláírt és azt követően az ügyvéd vagy a kamarai jogtanácsos által ellenjegyzett elektronikus okirat ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratnak minősül.”
 
 #### 165. §
 
 166. § Hatályát veszti az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény
 
-- a)
+- a) 43. § (2a) bekezdés b) pontja,
 - b)
 
 #### 95. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
@@ -596,9 +610,9 @@ lép.
 
 #### 189. §
 
-#### 102.
+#### 102. A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény módosítása
 
-#### 190. §
+190. § Nem lép hatályba a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény 31. § (3) bekezdése.
 
 #### 103. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
@@ -620,9 +634,9 @@ lép.
 
 #### 195. §
 
-#### 108.
+#### 108. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
 
-#### 196. §
+196. § Hatályát veszti a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény 17. § (2) bekezdésében az „ , ennek hiányában azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással való hitelesítéssel látja el” szövegrész.
 
 #### 109. A veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény módosítása
 
@@ -652,15 +666,28 @@ lép.
 
 #### 206. §
 
-#### 113.
+#### 113. A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény módosítása
 
-#### 207. §
+207. § A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény 206. §-ának
+
+- a) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) 23/A. § (1) bekezdését megállapító rendelkezése az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.)” szövegrész helyett az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.)” szöveggel,
+- b) a Kkt. 23/A. § (3) bekezdését megállapító rendelkezése az „Az Eüsztv.” szövegrész helyett az „A Dáptv.” szöveggel
+
+lép hatályba.
 
 #### 114. Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvény módosítása
 
 #### 208. §
 
-#### 209. §
+209. § Nem lép hatályba az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvény
+
+- a) 9. § (2)–(4) bekezdése, 10. és 11. §-a,
+- b) 69. § (1)–(3), valamint (7) és (8) bekezdése,
+- c) 75. §-a és 76. § a) pontja,
+- d) 100. § (2) és (3) bekezdése,
+- e) 101. § (2)–(6) bekezdése, (10) bekezdése, 102. § a) pontja, 103. § a) és b) pontja,
+- f) 106. § (1)–(3) bekezdése, (7) és (8) bekezdése, 107. § b) pontja, 108. § a) és b) pontja,
+- g) 114. § (1) bekezdése, 115. §-a, 116. § a) pontja.
 
 #### 115. A magyar építészetről szóló 2023. évi C. törvény módosítása
 

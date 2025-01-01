@@ -602,7 +602,7 @@ szabályait kell alkalmazni.
 - f) az a harmadik országbeli állampolgár, aki a kereskedelem és a befektetések terén tevékenykedő természetes személyek egyes kategóriáinak beutazását és tartózkodását megkönnyítő nemzetközi megállapodásban foglalt kötelezettségvállalás alapján utazott be Magyarország területére, kivéve azokat a harmadik országbeli állampolgárokat, akiknek beutazását egy tagállam területére vállalaton belüli áthelyezés keretében engedélyezték,
 - g) a 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó az a harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik.
 
-(4) Az EU Kék Kártyát legalább kettő évre kell kiállítani. Ha a foglalkoztatásra irányuló szerződés kettő évnél rövidebb időtartamra szól, az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó időtartamra kell kiállítani.
+(4) Az EU Kék Kártyát legalább kettő évre, ha az úti okmány ennél hamarabb veszíti érvényességét, akkor az úti okmány érvényességi időtartamára kell kiállítani. Ha a foglalkoztatásra irányuló szerződés kettő évnél rövidebb időtartamra szól, az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó, de az úti okmány érvényességét meg nem haladó időtartamra kell kiállítani, amely esetben az EU Kék Kártya érvényessége nem haladhatja meg a két évet.
 
 (5) Az EU Kék Kártya érvényességi ideje legfeljebb négy év, amely alkalmanként legfeljebb négy évvel meghosszabbítható.
 
@@ -2200,7 +2200,7 @@ származó jövedelemmel rendelkezik.
 - d) munkakör,
 - e) a tényleges munkavégzés vagy vállalaton belül áthelyezés megkezdésének vagy meg nem kezdésének, vagy a munkavállalási engedély, vagy az összevont engedély érvényességi idején belül történő megszűnésének időpontja.
 
-(7) Az idegenrendészeti hatóság az (1)–(5) bekezdésben meghatározott kötelezettséget elmulasztó munkáltatót vagy fogadó szervezetet a foglalkoztatott harmadik országbeli állampolgárok számával arányos mértékű – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.
+(7) Az idegenrendészeti hatóság az (1)–(5) bekezdésben meghatározott kötelezettséget elmulasztó munkáltatót vagy fogadó szervezetet – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.
 
 (8) A közrendvédelmi bírság megfizetésének kötelezettsége alól a munkáltató vagy a fogadó szervezet akkor mentesül, ha bizonyítja, hogy az (1)–(5) bekezdésben foglalt ellenőrzési és bejelentési kötelezettségének eleget tett, kivéve, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az érvényes tartózkodási engedélyként vagy más, tartózkodásra jogosító engedélyként bemutatott okmány hamis volt.
 
@@ -2999,6 +2999,8 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 - c) az eljárás megindítására nemzetbiztonsági, közrendi, közbiztonsági okból kerül sor vagy
 - d) az ügyfél nem tartózkodik Magyarországon.
 
+(5a) Közrendvédelmi bírság kiszabására irányuló eljárás esetén az idegenrendészeti hatóság – az ügyfél eljárás megindításáról szóló és nyilatkozattételre felhívó értesítésére figyelemmel – az idézéstől eltekinthet.
+
 (6) Az idegenrendészeti hatóság előtt megjelent ügyfelet az idegenrendészeti hatóság tájékoztatja a vele szemben hivatalból megindult idegenrendészeti eljárás okairól, eljárási jogairól és kötelezettségeiről.
 
 (7) A hivatalból indított eljárásban az ügyfél a hatóság erre irányuló felhívására köteles közölni az érdemi döntéshez szükséges adatokat. Törvény vagy kormányrendelet jogkövetkezményeket állapíthat meg az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetére. Az adatszolgáltatást az ügyfél akkor tagadhatja meg, ha arra a tanúvallomást megtagadhatná.
@@ -3122,6 +3124,26 @@ a végrehajtási kifogás elbírálására jogosult hatóság a döntést megsem
 (3) Az idegenrendészeti hatóság a végrehajtást hivatalból rendeli el.
 
 214. § Az e törvény alapján elrendelt pénzfizetési kötelezettség végrehajtását – ha törvény vagy kormányrendelet másként nem rendelkezik – az állami adóhatóság foganatosítja.
+
+214/A. § (1) Részletfizetés a közrendvédelmi bírság megfizetésére kötelezett munkáltató idegenrendészeti hatósághoz a teljesítési határidő utolsó napját megelőzően az idegenrendészeti ügyindítási elektronikus felületen előterjesztett indokolt kérelmére engedélyezhető.
+
+(2) A részletfizetés abban az esetben engedélyezhető, ha a fizetési nehézség
+
+- a) a munkáltatónak nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható,
+- b) átmeneti jellegű, a közrendvédelmi bírság későbbi megfizetése valószínűsíthető és
+- c) a munkáltatóval szemben korábban idegenrendészeti jogszabályok alapján nem került kiszabásra közrendvédelmi bírság.
+
+(3) Természetes személy munkáltató esetében a részletfizetés a (2) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a munkáltató igazolja vagy valószínűsíti, hogy a közrendvédelmi bírság azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel súlyos megterhelést jelent.
+
+(4) A részletfizetési kérelmet az ügyben az elsőfokú eljárásban eljárt regionális igazgatóság bírálja el.
+
+(5) A részletfizetési kérelem elbírálására az ügyintézési határidő nyolc nap.
+
+(6) A részletfizetési kérelem alapján folytatott elsőfokú eljárás illetékmentes.
+
+(7) A részletfizetési kérelem tárgyában hozott döntéssel szemben a fellebbezést nyolc napon belül lehet előterjeszteni, amelynek elbírálási határideje 15 nap. A fellebbezésre az általános fellebbezési szabályok alkalmazandók, a másodfokú döntéssel szemben perorvoslatnak helye nincs.
+
+(8) Az idegenrendészeti hatóság megszünteti az eljárást, ha a munkáltató felhívás ellenére nem tesz nyilatkozatot, a kért adatokat nem közli, a kért okiratokat nem nyújtja be, és a kérelem a felhívás teljesítése nélkül nem bírálható el.
 
 215. § (1) A törvény vagy végrehajtási rendelet alapján meghatározott pénzfizetési kötelezettség – e törvény eltérő rendelkezése hiányában – a teljesítési határidő utolsó napjától számított három év elteltével évül el.
 
@@ -3538,9 +3560,9 @@ rendelkezik.
 - a) a szezonális munkavállalás célú tartózkodási engedély kiadására vagy meghosszabbítására, valamint
 - b) a vendégmunkás-tartózkodási engedély kiadására
 
-irányuló összevont kérelmezési eljárás lefolytatását megelőzően – a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 3. § (3) bekezdésében foglaltak alapján – köteles az adott álláshely vagy álláshelyek betöltése céljából a munkaerőigényét bejelenteni, és a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendeletben meghatározott könnyített közvetítési eljárás lefolytatására irányuló kérelmét benyújtani az állami foglalkoztatási szerv részére.
+irányuló összevont kérelmezési eljárás lefolytatását megelőzően – a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 3. § (3) bekezdésében foglaltak alapján – köteles az adott álláshely vagy álláshelyek betöltése céljából a munkaerőigényét bejelenteni, és a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendeletben meghatározott könnyített közvetítési szolgáltatás lefolytatására irányuló kérelmét benyújtani az állami foglalkoztatási szerv részére.
 
-(9) A (8) bekezdés b) pontjában meghatározott tartózkodási engedély iránti kérelemhez mellékelni kell az állami foglalkoztatási szerv által kiállított igazolást a munkaerőigény-bejelentéséről és a lefolytatott könnyített közvetítési eljárás eredményéről.
+(9) A (8) bekezdés b) pontjában meghatározott tartózkodási engedély iránti kérelemhez mellékelni kell az állami foglalkoztatási szerv által kiállított igazolást a munkaerőigény-bejelentéséről és a lefolytatott könnyített közvetítési szolgáltatás eredményéről.
 
 ### XXXIII. Fejezet — A HONTALANSÁGGAL KAPCSOLATOS ELJÁRÁSOK
 
@@ -3811,7 +3833,7 @@ szerinti állam vonatkozásában.
   - kf) az idegenrendészeti óvadék visszaadásának napját,
   - kg) az idegenrendészeti óvadék összege államra szállásának időpontját.
 
-(2) Az idegenrendészeti hatóság a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtás kérése, illetve engedélyezése céljából a harmadik országbeli állampolgár következő adatait kezelheti:
+(2) Az idegenrendészeti hatóság a légi úton történő kitoloncolás céljából történő átszállítás eseteiben biztosított segítségnyújtás kérése, illetve engedélyezése céljából a harmadik országbeli állampolgár következő adatait kezelheti:
 
 - a) a természetes személyazonosító adatok;
 - b) az úti okmány típusa, száma és érvényessége;
@@ -3872,6 +3894,8 @@ szerinti állam vonatkozásában.
 - a) a fogadó szervezet nevét, székhelyét és adószámát;
 - b) a gyakornoki program kezdetét és végét, megnevezését;
 - c) a gyakornoki program folytatásától eltiltott szervezet esetén a tilalom kezdetének és megszűnésének időpontját, valamint az eltiltás okát.
+
+271/A. § Az idegenrendészeti hatóság a harmadik országbeli állampolgárok engedélyügyi eljárásai, valamint közrendvédelmi bírság kiszabására irányuló eljárások tekintetében jogosult a munkáltatóra vonatkozó adatok kezelésére, valamint a munkáltatóra vonatkozó adatok más jogszabályon alapuló közzétételére.
 
 #### 152. Adatátadás
 

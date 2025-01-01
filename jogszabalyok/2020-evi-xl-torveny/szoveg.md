@@ -127,7 +127,7 @@ sarkalatosnak minősül.
 
 (3)
 
-(4)
+(4) Hatályát veszti a Vszt.
 
 #### 7. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása
 

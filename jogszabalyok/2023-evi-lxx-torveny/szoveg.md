@@ -26,7 +26,9 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 #### 5. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-#### 8. §
+8. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 21/C. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A hirdetményi úton történő kézbesítéskor a végzést a Cégközlöny honlapján kell közzétenni. A közzétételre a Cégközlöny honlapján, napi feltöltéssel kerül sor. A hirdetményi úton történő kézbesítéskor a végzés rendelkező részét tizenöt napra a bíróságok központi internetes honlapján is közzé kell tenni és postai úton meg kell küldeni az adósnak, a vagyonfelügyelőnek és a hitelezői választmánynak, illetve a hitelezői képviselőnek. A végzés rendelkező részét a Cégközlöny honlapján két alkalommal, 2 napos időközökkel kell közzétenni, és a második közzététel napján kell kézbesítettnek tekinteni. A közzététel tartalmazza, hogy a végzés teljes szövege a bíróságon átvehető, továbbá, hogy a végzés ellen benyújtott esetleges fellebbezéseket a fellebbezés bírósághoz érkezését követő 3 munkanapon belül lehet a bíróságon megtekinteni, és a fellebbezés bírósághoz érkezését követő 5 munkanapon belül lehet rá észrevételt benyújtani.”
 
 #### 6. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
@@ -72,9 +74,29 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 #### 11. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-#### 17. §
+17. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 122. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 18. §
+„(1) Az árverési hirdetményt közzé kell tenni
+
+- a) a bíróságok központi internetes honlapján,
+- b) a bírósági árverési csarnok hirdetőtábláján,
+- c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal honlapján.”
+
+(2) A Vht. 145. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az árverési hirdetményt közzé kell tenni
+
+- a) a bíróságok központi internetes honlapján,
+- b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal honlapján,
+- c) az ingatlanügyi hatóság honlapján.”
+
+18. § A Vht.
+
+- a) 122. § (2) bekezdésében a „hirdetőtáblán kifüggesztve tartani” szövegrész helyébe a „bírósági árverési csarnok hirdetőtábláján kifüggesztve tartani és a 122. § (1) bekezdés a) és c) pontjában megjelölt honlapokon hozzáférhetővé tenni” szöveg,
+- b) 145. § (2) bekezdésében az „a hirdetőtáblán kifüggesztve tartani” szövegrész helyébe az „az (1) bekezdésben meghatározott honlapon hozzáférhetővé tenni” szöveg,
+- c) 210/D. § (6) bekezdésében a „hirdetőtábláján” szövegrész helyébe a „honlapján” szöveg
+
+lép.
 
 #### 12. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
@@ -100,7 +122,7 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 #### 16. A közraktározásról szóló 1996. évi XLVIII. törvény módosítása
 
-#### 26. §
+26. § A közraktározásról szóló 1996. évi XLVIII. törvény 42. § (1) bekezdésében a „közraktár székhelye szerint illetékes törvényszék székhelyén működő járásbíróságnál (Budapesten a Pesti Központi Kerületi Bíróságnál)” szövegrész helyébe a „bíróságok központi internetes honlapján” szöveg, valamint a „bírósági hirdetőtáblán való kifüggesztésétől” szövegrész helyébe a „bíróságok központi internetes honlapján történt közzétételétől” szöveg lép.
 
 #### 17. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
@@ -268,12 +290,17 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 (8)
 
-#### 70. §
+70. § A Kttv.
+
+- a) 42. § (7) bekezdésében az „(1)–(5a)” szövegrész helyébe az „(1), (2) és (4)” szöveg,
+- b) 63. § (2b) bekezdés b) pontjában az „(1)–(3) bekezdése alapján vizsgálandó követelményeknek való megfelelést a kormánytisztviselő a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni” szövegrész helyébe az „(1) és (2) bekezdése alapján vizsgálandó követelményeknek való megfelelést a bűnügyi nyilvántartás nem igazolja” szöveg
+
+lép.
 
 71. § Hatályát veszti a Kttv.
 
-- a)
-- b)
+- a) 42. § (3), (5) és (5a) bekezdése,
+- b) 63. § (2b) bekezdés a) pontja,
 - c)
 - d)
 
@@ -283,7 +310,9 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 #### 51. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-#### 73. §
+73. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 89. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára, továbbá közzé kell tenni az elektronikus tájékoztatásra szolgáló honlapon. A hirdetmény útján közölt hivatalos iratot a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.”
 
 #### 52. A kölcsönzött kulturális javak különleges védelméről szóló 2012. évi XCV. törvény módosítása
 
@@ -332,11 +361,13 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 #### 60. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-#### 86. §
+86. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 145. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 87. §
+„(1) A hirdetményt tizenöt napra közzé kell tenni a bíróságok központi internetes honlapján (a továbbiakban: honlap), valamint a fél utolsó ismert belföldi lakóhelyén a polgármesteri vagy közös önkormányzati hivatal honlapján. Ha a bíróságnak a fél elektronikus levélcímét bejelentették, a hirdetményt a fél elektronikus levélcímére is meg kell küldeni.”
 
-#### 88. §
+87. § A Pp. 142. § (5) bekezdés a) pontjában a „kifüggesztés” szövegrész helyébe az „a honlapon való közzététel” szöveg lép.
+
+88. § Hatályát veszti a Pp. 145. § (2) bekezdés a) pontjában az „és a bírósági hirdetőtáblán történő kifüggesztés” szövegrész.
 
 #### 61. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
@@ -360,9 +391,11 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 #### 65. A bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény módosítása
 
-#### 95. §
+95. § A bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény (a továbbiakban: Pnp.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 96. §
+„(2) A hirdetményt harminc napra közzé kell tenni a bíróságok központi internetes honlapján (a továbbiakban: honlap) és az eltűnt személy utolsó belföldi lakóhelye, ennek hiányában utolsó belföldi tartózkodási helye szerinti polgármesteri vagy közös önkormányzati hivatal honlapján.”
+
+96. § Hatályát veszti a Pnp. 6. § (3) bekezdés a) pontjában az „és a bírósági hirdetőtáblán történő kifüggesztés” szövegrész.
 
 #### 66. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 
@@ -449,6 +482,8 @@ lép.
 
 - a)
 - b)
+
+lép.
 
 108. § Hatályát veszti a Küt.
 

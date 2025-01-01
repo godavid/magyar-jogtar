@@ -57,7 +57,7 @@ a termőföld védelméről
 - 16. talaj: feltételesen megújuló természeti erőforrás, amely egyben a mezőgazdasági termelés, az erdőgazdálkodás alapvető termelő eszköze, a Föld szilárd felszínének élő közege, amelynek a legfontosabb tulajdonsága a termékenység;
 - 17. talajvédelem: a termőföld termékenységének és minőségének megóvása, javítása, fizikai, kémiai és biológiai romlásának megelőzése;
 - 18. talajvédelmi terv: a talajvédelmi hatósági eljárásokat megalapozó szakanyag;
-- 19. termőföld: az a földrészlet, amely a település külterületén fekszik, és az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas vagy fásított terület művelési ágban van nyilvántartva, kivéve, ha a földrészlet az Evt.-ben meghatározott erdőnek minősül;
+- 19. termőföld: az a földrészlet vagy alrészlet, amely a település külterületén fekszik, és az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas vagy fásított terület művelési ágban van nyilvántartva, kivéve, ha a földrészlet vagy alrészlet az Evt.-ben meghatározott erdőnek minősül;
 - 20. termőföld eredeti állapotának helyreállítása: a beruházási célterület céljára fel nem használt, valamint az időlegesen, illetve az engedély nélkül más célra hasznosított termőföldnek a más célú hasznosítását közvetlenül megelőző, az ingatlan-nyilvántartásban rögzített művelési ágnak és minőségi osztálynak megfelelő állapotába történő helyreállítása;
 - 21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet;
 - 22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 32. pontjában meghatározott olyan kiserőmű, amely a napenergiát felhasználva termel villamos energiát és 0,5 MW-nál kisebb névleges teljesítőképességű;
@@ -213,13 +213,7 @@ a termőföld védelméről
 
 8/A. § Földvédelmi szakkérdés vizsgálata során a 8. § (1)–(3a) bekezdésében foglaltakat alkalmazni kell.
 
-8/B. § (1) Ha a termőföld végleges más célú hasznosításával járó tervezett beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő üggyé nyilvánította, és a beruházó – a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvényben meghatározottak szerint – a földvédelmi eljárás lefolytatását a környezeti hatásvizsgálati eljárás keretében kéri lefolytatni, az érintett termőföldnek a földvédelmi szakkérdés vizsgálata alapján engedélyezhető végleges más célú hasznosítása esetén – a 22. § (1) bekezdésében foglaltaktól eltérően – a környezetvédelmi engedély részét nem képezi a földvédelmi járulék összegének a megállapításáról és megfizetéséről szóló rendelkezés.
-
-(2) Az (1) bekezdésben meghatározott esetben a beruházó – a 10/A. § (2) bekezdésében meghatározottak szerint – a termőföld más célú hasznosításának a megkezdése előtt legalább 15 nappal köteles az ingatlanügyi hatóságnak bejelenteni a más célú hasznosítással érintett földrészletek listáját – a település, fekvés és helyrajzi szám megjelölésével –, továbbá a bejelentéshez csatolni kell a 12. § (2) bekezdés a) pontja szerinti területkimutatást. A bejelentésben továbbá meg kell jelölni annak a kormányrendeletnek a számát, amely a beruházást nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánította, valamint annak a környezetvédelmi engedélynek az ügyszámát, amelynek részét képezi a termőföld végleges más célú hasznosításának az engedélyezése.
-
-(3) Az ingatlanügyi hatóság a (2) bekezdés szerinti bejelentés alapján – a bejelentés beérkezését követő 15 napon belül – a földvédelmi járulék összegének megállapításáról és megfizetéséről önálló határozatban rendelkezik a termőföld végleges más célú hasznosításának engedélyezése esetére irányadó szabályok szerint.
-
-(4) Az ingatlanügyi hatóság földvédelmi bírsággal sújtja a beruházót, ha a (2) bekezdésben meghatározott bejelentési kötelezettségét elmulasztja.
+#### 8/B. §
 
 8/C. § (1) Kis teljesítményű erőmű létesítése érdekében a termőföld más célú hasznosítása iránti kérelem elbírálásának ügyintézési határideje 8 nap, ha
 
@@ -302,7 +296,7 @@ szerinti építményeket kell érteni.
 
 (1a) Olyan termőföld, melynek tulajdoni lapján fenntartható vízgazdálkodási közösség területe jogi jelleg került feljegyzésre, az igénybevevő személyétől függetlenül kizárólag a (3) bekezdés g) pontja, a 10. § (2) bekezdés a), b), d), f) és g) pontja, a 15/B. § (3) bekezdése, valamint a 21. § (3) bekezdés a), b) és f) pontja szerinti esetekben hasznosítható más célra.
 
-(2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetve helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető. A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az átlagosnál jobb minőségű termőföld végleges más célú hasznosítása is engedélyezhető, ha annak megvalósítása más jogszabály rendelkezéseire figyelemmel más helyen vagy más nyomvonalon nem lehetséges.
+(2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetve helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető. A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás és a kiemelt közlekedési infrastruktúra-beruházással összefüggő kiemelt jelentőségű ügy esetében az átlagosnál jobb minőségű termőföld végleges más célú hasznosítása is engedélyezhető, ha annak megvalósítása más jogszabály rendelkezéseire figyelemmel más helyen vagy más nyomvonalon nem lehetséges.
 
 (3) A (2) bekezdés alkalmazása szempontjából helyhez kötött igénybevételnek kell tekinteni különösen
 
@@ -312,7 +306,7 @@ szerinti építményeket kell érteni.
 - d) kis teljesítményű erőmű létesítését a betáplálásra alkalmas villamosenergia-elosztói hálózat 1000 méteres közvetlen környezetében;
 - e) a régészeti lelet feltárásához és megőrzéséhez szükséges területigényt.
 - f) a legfeljebb 1 hektár területű termőföldet érintő, a 21. § (3) bekezdés f) pontja szerinti más célú hasznosítást;
-- g) a legfeljebb 1 hektár területű termőföldet érintő, nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás megvalósítását, építését vagy üzemeltetését szolgáló létesítmény vagy tárolótér elhelyezését, annak közműkapcsolatainak kiépítését.
+- g) a legfeljebb 1 hektár területű termőföldet érintő, nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás vagy kiemelt beruházásnak minősülő közlekedési infrastruktúra-beruházás megvalósítását, építését vagy üzemeltetését szolgáló létesítmény vagy tárolótér elhelyezését, annak közműkapcsolatainak kiépítését.
 
 (3a) A helyhez kötöttséget megalapozó körülmény fennállását – a (3) bekezdés c) pontjában foglalt kivétellel – az igénybevevőnek kell igazolni a kérelem benyújtásakor. Az igénybevétel helyhez kötöttségét nem alapozza meg önmagában a létesítmény elhelyezésének célszerűsége, a településrendezési eszközök által szabályozott területfelhasználási mód, a termőföld tulajdonosainak együttműködési hajlandósága miatti beruházói könnyebbség, illetve ha az igénybevevőnek többletterhet jelentene a beruházás más ingatlanon történő megvalósítása.
 
@@ -343,7 +337,7 @@ szerinti építményeket kell érteni.
 - f) a 10. § (4) bekezdése szerinti esetben a tulajdonszerzés alapjául szolgáló okirat másolatát, valamint
 - g) a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát, ha az igénybevevő nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, kivéve, ha a termőföld igénybevétele kisajátítás céljának megvalósítása érdekében szükséges, vagy ha a termőföld igénybevétele olyan, a tulajdonjog korlátozását lehetővé tevő közérdekű célt szolgál, amelynél törvény lehetővé teszi a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező hozzájáruló nyilatkozatának bíróság vagy hatóság döntésével történő pótlását.
 
-(2a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás megvalósításához szükséges időleges más célú hasznosítás esetén a (2) bekezdés g) pontja szerinti hozzájárulást megadottnak kell tekinteni az olyan tulajdonos vagy haszonélvező esetében,
+(2a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás vagy kiemelt beruházásnak minősülő közlekedési infrastruktúra-beruházás megvalósításához szükséges időleges más célú hasznosítás esetén a (2) bekezdés g) pontja szerinti hozzájárulást megadottnak kell tekinteni az olyan tulajdonos vagy haszonélvező esetében,
 
 - a) akit az igénybevevő a tervezett más célú hasznosításról az ingatlan-nyilvántartásban feltüntetett címen előzetesen írásban, igazolt módon értesített és kérte a tulajdonos vagy haszonélvező teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát, az értesítés közlése eredményes volt, de a tulajdonos vagy haszonélvező a nyilatkozattételre megszabott, legalább 30 napos határidőn belül nem nyilatkozott;
 - b) aki számára az a) pont szerinti értesítés és nyilatkozatkérés közlése meghiúsult, mert a postai küldemény
@@ -360,7 +354,7 @@ szerinti építményeket kell érteni.
 
 (3) Az (1) bekezdésben foglaltakon túl a kérelemben meg kell jelölni annak
 
-- a) a kormányrendeletnek a számát, amely a kérelemben megjelölt termőföld végleges más célú hasznosításával járó tervezett építési beruházást nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánította, vagy
+- a) a kormányrendeletnek a számát, amely a kérelemben megjelölt termőföld végleges más célú hasznosításával járó tervezett építési beruházást nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, és a kiemelt beruházással összefüggő földvédelmi eljárást kiemelt jelentőségű üggyé nyilvánította, vagy
 - b) kormányhatározatnak a számát, amely a kérelemben szereplő termőföldeket beruházási célterületté nyilvánította.
 
 (4) A (3) bekezdésben meghatározott esetekben a kérelemben megjelölt más célú hasznosítás célja nem térhet el a kormányrendeletben, illetve a kormányhatározatban megjelölt beruházás céljától.
@@ -520,7 +514,7 @@ esetében.
 
 (2) A cél-kitermelőhely létesítéséhez szükséges termőföld végleges más célú hasznosításának engedélyezése iránti kérelmet a külön törvény szerinti építtető, az építtetővel szerződéses jogviszonyban álló vállalkozó, és a bányavállalkozó (ezen alcímben a továbbiakban együtt: jogosult) nyújthat be. A kérelemnek – a 12. § (1) bekezdésben foglaltakon túl – tartalmaznia kell a tevékenység megszüntetését követően a terület helyreállításának, természeti környezetbe való visszahelyezésének tervezett módját.
 
-(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a Kormány a Magyar Közlönyben közzétett határozatával cél-kitermelőhely létesítése céljából az ásványi nyersanyag kitermelési, kinyerési, illetve a külfejtéses bányászati tevékenységgel érintett területet beruházási célterületté, vagy azt a beruházást, amelyre figyelemmel a célkitermelést végzik – a cél-kitermelőhellyel érintett termőföldterületek pontos lehatárolásával – nemzetgazdasági szempontból kiemelt jelentőségű üggyé, a célkitermelést pedig ahhoz közvetlenül kapcsolódónak nyilvánította.
+(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a Kormány a Magyar Közlönyben közzétett határozatával cél-kitermelőhely létesítése céljából az ásványi nyersanyag kitermelési, kinyerési, illetve a külfejtéses bányászati tevékenységgel érintett területet beruházási célterületté, vagy azt a beruházást, amelyre figyelemmel a célkitermelést végzik – a cél-kitermelőhellyel érintett termőföldterületek pontos lehatárolásával – nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, a célkitermelést pedig ahhoz közvetlenül kapcsolódónak nyilvánította.
 
 (3a) A földvédelmi eljárás során a (3) bekezdésben foglaltak figyelmen kívül hagyása súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozott más célú hasznosítást engedélyező határozatot meg kell semmisíteni, illetve vissza kell vonni, és szükség esetén új eljárást kell lefolytatni.
 
@@ -545,6 +539,21 @@ esetében.
 (4) Ha az ingatlanügyi hatóság a kisajátítási célú kérelem alapján a más célú hasznosítást engedélyezi, az egyéni kérelmet a kisajátítási célú kérelemre tekintettel az ingatlanügyi hatóság elutasítja. Az ingatlanügyi hatóság az egyéni kérelem elutasításáról szóló döntésével egyidejűleg intézkedik az eljárás megindításáért befizetett igazgatási szolgáltatási díjnak az egyéni kérelmet benyújtó kérelmező részére történő visszafizetéséről, továbbá a döntésében tájékoztatja a kérelmezőt arról, hogy ha a kisajátítási eljárásban a kisajátítás iránti kérelmet elutasító véglegessé vált döntés születik, nincs akadálya annak, hogy az egyéni kérelmező a más célú hasznosítás iránti kérelmét ismételten benyújtsa.
 
 (5) Ha az ingatlanügyi hatóság a kisajátítási célú kérelmet elutasítja, az egyéni kérelmet a kisajátítási célú kérelem elutasításáról szóló véglegessé vált döntés meghozatalát követően haladéktalanul elbírálja.
+
+### Beruházási célterületté nyilvánítás tárgyában hozott kormányhatározat és nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházással összefüggő kiemelt jelentőségű üggyé nyilvánítás tárgyában hozott kormányrendelet deregulálását követő eljárás
+
+15/D. § (1) Ha a Kormány a beruházási célterületté nyilvánítás tárgyában hozott határozatát (a továbbiakban: kormányhatározat) részben vagy teljesen visszavonja, a nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházással összefüggő kiemelt jelentőségű üggyé nyilvánítás tárgyában hozott rendeletét (a továbbiakban: kormányrendelet) részben vagy teljesen hatályon kívül helyezi, a földügyért felelős miniszter jelzése alapján az ingatlanügyi hatóság az igénybevevőt a 17. § (1) bekezdésében foglaltak szerint a termőföld eredeti állapotba történő helyreállítására kötelezi azon ingatlanok vonatkozásában,
+
+- a) amelyeken a kormányhatározat alapján kiadott, végleges más célú hasznosítás tárgyában hozott engedély alapján a beruházás a határozat véglegessé válását követő 5 éven belül nem valósul meg, vagy amelyekre a beruházás megvalósításához nem volt szükség, és az adott ingatlan természetbeni állapota alapján termőföldnek minősül, vagy
+- b) amelyek a kormányrendeletben szerepelnek, és a kormányrendelet kihirdetése óta több mint tíz év eltelt anélkül, hogy a beruházás megvalósult volna az adott, természetbeni állapota alapján termőföldnek minősülő ingatlanon.
+
+(2) E § alkalmazásában a beruházás akkor tekintendő megvalósultnak, ha az ingatlan művelési ága tekintetében a beruházás rendeltetésének megfelelő kivett megnevezés az ingatlan-nyilvántartásban átvezetésre került.
+
+(3) Az igénybevevő az eredeti állapot helyreállítását a 17. § (2) bekezdése szerint az ingatlanügyi hatóságnak bejelenti.
+
+(4) A bejelentés alapján az ingatlanügyi hatóság helyszíni szemlét tart.
+
+(5) Az ingatlanügyi hatóság az eredeti állapot helyreállításának elfogadásáról szóló határozatában földvédelmi bírság és földvédelmi járulék kiszabását mellőzi. Az eredeti állapot helyreállításának el nem fogadása esetén az ingatlanügyi hatóság újabb határidő megjelölésével a helyreállítás érdekében szükséges további munkák elvégzését írja elő.
 
 ### Más célú hasznosítás engedély nélkül
 
@@ -804,6 +813,7 @@ bejelentését;
   - eb) a határozatban megállapított határidő eltelte után teszi termelésre alkalmassá;
 - f) a termőföldet engedély nélkül hasznosítja más célra;
 - g) a 8/B. § (2) bekezdésében meghatározott bejelentési kötelezettségét elmulasztja.
+- h) az ingatlanügyi hatóság felhívására a 14. § (3a) bekezdésében meghatározott nyilatkozatot határidőben nem nyújtja be.
 
 (2) Engedély nélküli más célú hasznosítás esetén a bírság megállapításáról
 
@@ -941,6 +951,8 @@ felhasználására.
 
 27. § (1) A földminősítési eljárás az ingatlanügyi hatóság által lefolytatott azon eljárás, amelynek során a földminősítés eredményeként a termőföld művelési ága, valamint minősége megállapításra kerül. A földminősítési eljárás lefolytatásának eredményéről szóló határozatot a földrészlet megváltozott adatainak az ingatlan-nyilvántartásban történő átvezetéséről szóló határozattal szembeni jogorvoslati kérelemben lehet megtámadni.
 
+(1a) Ha a földminősítési eljárás lefolytatásának eredményéről szóló határozat alapján a földrészlet művelési ága szőlőről más művelési ágra változik, az ingatlanügyi hatóság a véglegessé vált határozatának másolatát tájékoztatás céljából megküldi az illetékes hegybírónak.
+
 (2) A hivatalból indult, illetve folytatott földminősítési eljárás során a helyszíni szemle, illetve ellenőrzés, és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek eljárási költségnek minősülnek.
 
 (3) A földminősítést e törvény és a végrehajtására kiadott rendelet szabályai szerint kell végrehajtani.
@@ -997,7 +1009,7 @@ felhasználására.
 
 (2) A talajvédelmi hatóság a hatósági feladatok ellátása érdekében, különös tekintettel az agrártámogatások ellenőrzésére, valamint a gazdálkodási tevékenység talajra gyakorolt hatásainak vizsgálatára, kialakítja és működteti a talajvédelmi hatósági és a talajtani adatbázist.
 
-(2a) A talajvédelmi vizsgálatokat végző laboratóriumok az elvégzett talajvédelmi vizsgálatok eredményeiről a talajvédelmi hatóság erre a célra létrehozott elektronikus felületén adatot szolgáltatnak a (2) bekezdés szerinti adatbázisba, átadva a mintavevő, a megrendelő és – ha a megrendelő és a minta tulajdonosa eltér egymástól – a minta tulajdonosának személyes adatok körébe tartozó adatai közül az érintett nevét és címét.
+(2a) A talajjal kapcsolatos vizsgálatokat végző laboratóriumok a vizsgálatok eredményeiről a talajvédelmi hatóság erre a célra létrehozott elektronikus felületén adatot szolgáltatnak a (2) bekezdés szerinti adatbázisba, átadva a mintavevő, a megrendelő és – ha a megrendelő és a minta tulajdonosa eltér egymástól – a minta tulajdonosának személyes adatok körébe tartozó adatai közül az érintett nevét és címét.
 
 (3) A talajvédelmi hatóság az általa e törvény alapján nyilvántartott adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
@@ -1519,7 +1531,8 @@ a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2
   - a) a más célú hasznosításhoz való utólagos hozzájárulás és a 16. § (11c) bekezdés szerinti döntés esetén az 1. melléklet 4.1. pontjában,
   - b) az elrendelt eredeti állapot helyreállításának elfogadása esetén az 1. melléklet 4.2. pontjában meghatározott módon számított földvédelmi járulék négyszerese;
 - 2.7. a 24. § (1) bekezdés g) pontjában foglalt esetekben a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezer-hatszázszorosa;
-- 2.8. összegét, ha a terület AK értéke nem szerepel az ingatlan-nyilvántartásban, a településen levő szántók átlagos AK értéke alapján kell megállapítani.
+- 2.8. összege a 24. § (1) bekezdés h) pontjában foglalt esetben 50 000 Ft;
+- 2.9. összegét, ha a terület AK értéke nem szerepel az ingatlan-nyilvántartásban, a településen levő szántók átlagos AK értéke alapján kell megállapítani.
 
 ### 3. melléklet a 2007. évi CXXIX. törvényhez
 
@@ -1560,7 +1573,7 @@ A 26/A. § (2a) bekezdése szerinti nyilvántartás a következő adatokat tarta
 - 10.8. lakóingatlan, szociális intézmény, egészségügyi- és sportlétesítmény építése,
 - 10.9. mezőgazdasági célú beruházás,
 - 10.10. egyéb;
-- 11. annak megjelölése, hogy a beruházást a Kormány nemzetgazdasági szempontból kiemelt beruházássá nyilvánította-e;
+- 11. annak megjelölése, hogy a beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, és a kiemelt beruházással összefüggő földvédelmi eljárást kiemelt jelentőségű üggyé nyilvánította-e;
 - 12. annak megjelölése, hogy a területet a Kormány beruházási célterületté nyilvánította-e;
 - 13. a földvédelmi engedély típusa – végleges más célú hasznosítást engedélyező határozat vagy az engedély nélküli más célú hasznosítás miatt indult eljárásban hozott utólagos engedélyező határozat;
 - 14. az engedélyező határozat száma;

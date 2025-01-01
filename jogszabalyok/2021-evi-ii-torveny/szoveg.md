@@ -55,6 +55,8 @@ egyes energetikai és hulladékgazdálkodási tárgyú törvények módosítás�
 
 (4)
 
+(5)
+
 #### 5. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
 #### 5. §
@@ -359,7 +361,19 @@ l)
 
 (4)
 
-(5)
+(5) A Ht. 43. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az elkülönített hulladékgyűjtési rendszert a közszolgáltató úgy alakítja ki, hogy)
+
+„a) legalább
+
+aa) a települési papír-, üveg-, műanyag, fém- és zöldhulladék,
+
+ab) a háztartásokban képződő biohulladék, és
+
+ac) a háztartásokban képződő veszélyes hulladék és a textilhulladék
+
+elkülönített gyűjtése biztosított legyen;”
 
 (6)
 
@@ -387,7 +401,11 @@ l)
 
 #### 64. §
 
-#### 65. §
+65. § A Ht. VI. Fejezete a következő 25/B. alcímmel egészül ki:
+
+„25/B. A textilhulladék
+
+60/B. § A hulladékbirtokos a textilhulladékot elkülönítve gyűjti.”
 
 66. § (1)
 
@@ -478,6 +496,10 @@ l)
 91. § (1)
 
 (2)
+
+- 1–14.
+- 15.
+- 16–49.
 
 (3)
 

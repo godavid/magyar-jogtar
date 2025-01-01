@@ -508,6 +508,18 @@ kell alkalmazni.
 
 (17) Az alkalmazotti nyilvántartás a pedagógiai-szakmai ellenőrzés időpontjának és megállapításainak kivételével tartalmazza az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 1. melléklet II. pontjában foglalt adatokat, valamint a szociális szakvizsga megszerzésének idejét.
 
+15/A. § (1) A bölcsőde, mini bölcsőde a bölcsődei ellátásba beíratott 1-es típusú diabétesszel élő gyermek részére abban az időtartamban, amikor az intézmény felügyelete alatt áll, az 1-es típusú diabétesszel élő gyermek szülőjének, más törvényes képviselőjének szakorvosi igazolást is tartalmazó kérelmére, a gyermekkori diabétesz gondozásával foglalkozó egészségügyi intézmények szakmai iránymutatása alapján a (2)–(6) bekezdés szerinti speciális ellátást biztosítja.
+
+(2) Az intézményvezető az (1) bekezdés szerinti kérelemre a (3) bekezdés szerinti kisgyermeknevelő számára előírja, hogy – az (1) bekezdés szerinti szakmai iránymutatásban foglaltak szerint, ahhoz igazodva – a gyermek vércukorszintjét mérje, illetve előírt időközönként a szükséges mennyiségű inzulint adja be. Az intézményvezető a szülővel, más törvényes képviselővel a megadott kapcsolattartási módon egyeztet az inzulin beadásáról, valamint a szükséges eszközök és az inzulin átvételéről.
+
+(3) Az intézmény a (2) bekezdés szerinti ellátást olyan kisgyermeknevelő útján biztosítja, aki az Oktatási Hivatal által szervezett, a feladat ellátásához kapcsolódó ismeretekről szóló szakmai továbbképzésen részt vett, és aki a speciális ellátásban való részvételt vállalja.
+
+(4) Mentesül a (3) bekezdés szerinti továbbképzésen való részvételi kötelezettség alól az a (2) bekezdés szerinti feladatot vállaló kisgyermeknevelő, aki egészségügyi végzettséggel – államilag elismert legalább középfokú egészségügyi szakképesítéssel – rendelkezik.
+
+(5) A szülő, más törvényes képviselő az (1) bekezdés szerinti kérelmét az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 15. § (5) bekezdésével összhangban megtett formában nyújtja be.
+
+(6) Az intézményvezető a (2)–(5) bekezdés szerinti esetkörben egy esetleges rosszullét esetére az Eütv.-vel összhangban álló speciális ellátási eljárásrendet alakít ki.
+
 16. § (1) Az e törvényben meghatározott, a gyermekek védelmét biztosító hatósági feladat- és hatásköröket
 
 - a) a helyi önkormányzat képviselő-testülete,
@@ -1182,7 +1194,7 @@ a kérelmezővel, illetve törvényes képviselőjével írásban megállapodás
 
 (6) Az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermekkel történő kapcsolattartásról a gyámhatóság hivatalból dönt. A gyermek legfeljebb két napra történő eltávozását és két napnál hosszabb időtartamú szabadságát a gyermekvédelmi gyám engedélyezi, ha arra a gyámhatóság döntésében felhatalmazta. A gyermekvédelmi gyám jelzi a gyámhatóságnak, ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyermek gondozási helyét biztosító személy, intézmény között vita keletkezik.
 
-(7) Az örökbefogadhatónak nyilvánítás szempontjából nem tekinthető rendszeres kapcsolattartásnak a levélírás, a telefonhívás, a csomagküldés és a gyámhatóság határozatában szabályozottól jelentősen eltérő évenkénti egy-két látogatás.
+(7) Az örökbefogadhatónak nyilvánítás szempontjából nem tekinthető rendszeres kapcsolattartásnak a levélírás, a telefonhívás, a csomagküldés és a gyámhatóság határozatában szabályozottól jelentősen eltérő félévenkénti egy-két látogatás.
 
 (8) A kapcsolattartással összefüggő, a gyermek számára a bentlakásos gyermekintézményben, a befogadó szülőnél biztosított teljes körű ellátás által nem fedezett költségeket a kapcsolattartásra jogosult viseli. A települési önkormányzat rendkívüli települési támogatás formájában nyújthat segítséget a kapcsolattartásra jogosult számára a kapcsolattartással összefüggő költségek viseléséhez, különösen az utazási költségekhez, illetve a kapcsolattartásra jogosult otthonában történő kapcsolattartás esetén a gyermek ellátásának költségeihez. A területi gyermekvédelmi szakszolgálat a kapcsolattartást szabályozó jogszabályokban meghatározottak szerint nyújt segítséget és támogatást a kapcsolattartás megvalósításához.
 
@@ -1529,7 +1541,7 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 
 (3) A családi bölcsődében gondozott saját gyermek után a központi költségvetésről szóló törvényben biztosított támogatást nem lehet igénybe venni.
 
-(4) A családi bölcsőde feladatait önálló szolgáltató vagy legalább három – egy szolgáltató székhelyeként, illetve telephelyeiként, egy vagy több épületben működő – családi bölcsődét magába foglaló hálózat biztosítja. Három vagy annál több családi bölcsőde fenntartását hálózatba kell szervezni. A hálózatban biztosítani kell a szolgáltatást nyújtó személyek részére a folyamatos szakmai tanácsadást, valamint a gyermekek igényeihez rugalmasan igazodó szolgáltatások összehangolását.
+(4) A családi bölcsőde feladatait önálló szolgáltató vagy legalább három családi bölcsődét magába foglaló hálózat biztosítja. Három vagy annál több családi bölcsőde fenntartását hálózatba kell szervezni. A hálózatban biztosítani kell a szolgáltatást nyújtó személyek részére a folyamatos szakmai tanácsadást, valamint a gyermekek igényeihez rugalmasan igazodó szolgáltatások összehangolását.
 
 ### Napközbeni gyermekfelügyelet
 
@@ -1539,7 +1551,7 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 - b) a kötelező óvodai nevelésben való részvétel alól felmentett gyermek számára,
 - c) az óvodai nevelésben részesülő gyermek számára a kötelező óvodai nevelésben való részvételének idején kívül,
 - d) az egyéni munkarenddel rendelkező tanuló számára,
-- e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvételének idején kívül, valamint a tanítási szünetekben, és
+- e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvételének idején kívül, és
 - f) az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek számára.
 
 (2) A napközbeni gyermekfelügyelet keretében a sajátos nevelési igényű gyermekek, valamint a korai fejlesztésre és gondozásra jogosult gyermekek számára szükségleteikhez igazodó ellátást kell nyújtani.
@@ -1564,6 +1576,8 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 
 - a) a sajátos nevelési igényű gyermek, amelyben a tizenhatodik életévét betölti,
 - b) az a) pont alá nem tartozó gyermek, amelyben a tizennegyedik életévét betölti.
+
+(7) Az (1) bekezdés e) pontja szerint nyújtott napközbeni gyermekfelügyelet rendjének fenntartásában, ha a szolgáltatás nyújtására nem a szolgáltatást nyújtó vagy a szülő, törvényes képviselő otthonában kerül sor, az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.
 
 44/C. § (1) A szülő, törvényes képviselő otthonában akkor biztosítható a napközbeni gyermekfelügyelet, ha a gyermek állandó vagy időszakos ellátása nappali intézményben – betegsége vagy egyéb ok miatt – nem biztosítható, és a szülő, törvényes képviselő a gyermek napközbeni ellátását nem vagy csak részben tudja megoldani, így különösen amikor
 
@@ -1745,6 +1759,10 @@ feltéve, ha a szolgáltató, intézmény rendelkezik az ehhez szükséges – j
   - ac) segítséget nyújt a bántalmazás következtében kialakult pszichés sérülések kezelésében és jogi tanácsadással segíti érdekeinek védelmét,
 - b) legfeljebb öt év időtartamra kiegészítő tevékenysége keretében a bántalmazott társadalmi reintegrációja érdekében félutasház-szolgáltatást nyújthat.
 
+(11a) Új krízisközpont, titkos menedékház szolgáltatás kizárólag családok átmeneti otthona új férőhellyel együtt hozható létre.
+
+(11b) A (11a) bekezdés alkalmazásában nem minősül új családok átmeneti otthona férőhelyszámnak, krízisközpontnak, titkos menedékház szolgáltatásnak, ha a családok átmeneti otthona férőhelyszáma, a krízisközpont, titkos menedékház szolgáltatás fenntartóváltással, más telephelyre, székhelyre történő átcsoportosítással, fenntartók közötti szolgáltatás-átadással jön létre.
+
 (12) A családok átmeneti otthona az otthonhoz kapcsolódó külső férőhelyeken biztosíthatja azoknak a családoknak az ellátását, amelyek önálló lakhatásra támogatással képesek.
 
 (13) A külső férőhelyen történő ellátás időtartama a 45. § (6) bekezdése és a 47. § (3) bekezdés a) pontja szerinti időtartammal együtt sem haladhatja meg a három évet.
@@ -1834,13 +1852,13 @@ a területi gyermekvédelmi szakszolgálat támogatásával, különösen csalá
 
 54/A. § (1) A nevelőszülő a saját kiskorú gyermekeit is beszámítva legfeljebb hat gyermek és fiatal felnőtt együttes ellátását biztosíthatja. Ha a nevelőszülő saját kiskorú gyermekről háztartásában nem gondoskodik, akkor legfeljebb öt gyermek és fiatal felnőtt együttes ellátását biztosíthatja.
 
-(2) Ha a nevelőszülő vagy a speciális nevelőszülő speciális szükségletű gyermek teljes körű ellátását biztosítja, a nevelőszülői hálózatnak az (1) bekezdés szerinti létszámot minden speciális szükségletű gyermek teljes körű ellátása esetén egy fővel kell csökkentenie.
+(2)
 
-(3) Ha a nevelőszülő vagy a különleges nevelőszülő egy vagy két fő különleges szükségletű gyermek teljes körű ellátását biztosítja, a nevelőszülői hálózatnak az (1) bekezdés szerinti létszámot egy fővel kell csökkentenie. Ha a nevelőszülő, különleges nevelőszülő három vagy négy fő különleges szükségletű gyermek teljes körű ellátását biztosítja, a nevelőszülői hálózatnak az (1) bekezdés szerinti létszámot két fővel kell csökkentenie.
+(3)
 
-(3a) Ha a nevelőszülő, a speciális nevelőszülő vagy a különleges nevelőszülő kettős szükségletű gyermek teljes körű ellátását biztosítja, a nevelőszülői hálózatnak az (1) bekezdés szerinti létszámot minden kettős szükségletű gyermek teljes körű ellátása esetén egy fővel kell csökkentenie.
+(3a)
 
-(4) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (1)–(3a) bekezdésben meghatározott gyermeklétszámtól – a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit szabályozó kormányrendeletben foglaltak szerint – el lehet térni. Az eltérés feltétele ideiglenes hatállyal elhelyezett gyermek esetén a területi gyermekvédelmi szakszolgálat, nevelésbe vett gyermek esetén a gyermekvédelmi gyám hozzájárulása.
+(4) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (1) bekezdésben meghatározott gyermeklétszámtól – a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit szabályozó kormányrendeletben foglaltak szerint – el lehet térni. Az eltérés feltétele ideiglenes hatállyal elhelyezett gyermek esetén a területi gyermekvédelmi szakszolgálat, nevelésbe vett gyermek esetén a gyermekvédelmi gyám hozzájárulása.
 
 55. § (1) A nevelőszülő – egyéni gondozási-nevelési terv alapján – a saját háztartásában nyújt teljes körű ellátást az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermeknek.
 
@@ -1946,6 +1964,8 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 (4) Ha a gyermekotthon kizárólag a fiatal felnőttek teljes körű utógondozói ellátását biztosítja, a gyermekotthon utógondozó otthonként működik.
 
 (5)
+
+59/A. § A gyermekotthon rendjének fenntartásában az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.
 
 ### Területi gyermekvédelmi szakszolgáltatás
 
@@ -2887,6 +2907,7 @@ egy eljárás keretében, negyvenöt napon belül, azonnal végrehajthatóvá ny
 - b) hivatalból, ha
   - ba) a gyermek szüleinek a szülői felügyeleti jogát a bíróság megszüntette, a szülők elhaláloztak vagy a korábbi örökbefogadást felbontották.
   - bb) a felülvizsgálatot indokoló egyéb körülmény jut a tudomására.
+  - bc) a gyermek hat hónapot meghaladó időtartamban van engedély nélkül távol a gondozási helyétől.
 
 (5) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt az egyéni elhelyezési terv fenntartásáról vagy módosításáról, illetve – szükség szerint a vármegyei, fővárosi gyermekvédelmi szakértői bizottság véleményének beszerzésével és mérlegelésével – a gyermek gondozási helyének megváltoztatásáról.
 
@@ -2921,8 +2942,11 @@ egy eljárás keretében, negyvenöt napon belül, azonnal végrehajthatóvá ny
 - a) kórházi kezelés alatt áll,
 - b) kollégiumban van,
 - c) tanulmányai folytatása, illetve üdülés céljából harminc napot meghaladóan külföldön tartózkodik,
-- d) letartóztatásban van, illetve szabadságvesztését vagy egyéb büntetését tölti, vagy
-- e) a gyermek örökbefogadásának előkészítése során a szülő-gyermek kapcsolat kialakulása érdekében a kötelező gondozásba kihelyezést megelőzően az örökbe fogadni szándékozóknál tartózkodik.
+- d) letartóztatásban van, illetve szabadságvesztését egyéb büntetését tölti,
+- e) a gyermek örökbefogadásának előkészítése során a szülő-gyermek kapcsolat kialakulása érdekében a kötelező gondozásba kihelyezést megelőzően az örökbe fogadni szándékozóknál tartózkodik, vagy.
+- f) a gondozási helyéről engedély nélkül eltávozott, feltéve, hogy a távolléte a három hónapot nem haladja meg.
+
+(5a) Ha az (5) bekezdés d) vagy f) pontja szerinti távollét a három hónapot meghaladja, a távollét idejére a gondozási helyen – ideiglenes hatállyal vagy nevelésbe vétel elrendelésével egyidejűleg, ideiglenes gondozási hely kijelölésével – más gyermek helyezhető el.
 
 (6) A gyermek tartózkodási helyét, illetve annak megváltoztatását – az (5) bekezdés a) és d) pontjának kivételével – a gyermekvédelmi gyám bejelenti a gyámhatóságnak, és kéri annak jóváhagyását. Az (5) bekezdés a) és d) pontjában meghatározott esetekben a gyermekvédelmi gyám értesíti a gyámhatóságot a gyermek tartózkodási helye megváltozásáról.
 
@@ -3504,7 +3528,7 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (4)
 
-(5) Az otthont nyújtó ellátás, utógondozói ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén az ellátottak száma éves átlagban nem haladhatja meg a fenntartó által működtetett – a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett – nevelőszülői, illetve gyermekotthoni összférőhelyszám 100%-át. A helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában ellátottak száma éves átlagban nem haladhatja meg a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszám 100%-át.
+(5) Az otthont nyújtó ellátás, utógondozói ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén, valamint a helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszámtól éves átlagban az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott mértékben lehet eltérni.
 
 ### A gyermekvédelmi igazgatási bírság
 
@@ -4399,6 +4423,8 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 
 136/B. § A területi gyermekvédelmi szakszolgálat a fiatalok életkezdési támogatásának megállapítása céljából a gyermeknek a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény 9/B. §-ában foglalt adatait az ott meghatározott gyakorisággal átadja a kincstárnak.
 
+136/C. § A Biztos Kezdet Gyerekház és a tanoda szolgáltatás fenntartója a tanulói teljesítménymérések céljából átadja a köznevelési és a szakképzési intézmény részére a szolgáltatást igénybe vevő gyermek természetes személyazonosító adatait és a szolgáltatás igénybevételének időtartamára vonatkozó adatot.
+
 ### Nyilvántartások vezetése
 
 137. § (1) Az ellátást nyújtó intézmény és személy az e törvényben előírt nyilvántartást köteles vezetni, a Országos Statisztikai Adatgyűjtési Programban, valamint a helyi önkormányzati rendeletben meghatározott adatokat köteles szolgáltatni.
@@ -4623,6 +4649,44 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 
 (4) A 135. § (3) bekezdés a) és b) pontja, a 137. § (3a) bekezdése, a 139. § (2) bekezdése és a 141/A. § szerinti nyilvántartási és egyéb rendszerekhez, valamint a szolgáltatói nyilvántartás informatikai rendszeréhez kapcsolódó elektronikus adatfeldolgozást a Kormány által kijelölt szerv végzi.
 
+### Eseti gondnokok és eseti gyámok nyilvántartása
+
+142/A. § (1) Ezen alcím hatálya kiterjed az eseti gondnokok és az eseti gyámok adatainak nyilvántartására (ezen alcím alkalmazásában a továbbiakban: nyilvántartás).
+
+(2) A nyilvántartásban szereplő adatok kezelésének célja az eseti gondnokság és eseti gyámság alá helyezett személy jogai gyakorlásának elősegítése, illetve harmadik személyek jogainak védelme.
+
+142/B. § (1) A nyilvántartás az eseti gondnok tekintetében a következő adatokat és a változás időpontjának megjelölésével az adatváltozásokat tartalmazza:
+
+- a) az eseti gondnok
+  - aa) családi és utónevét,
+  - ab) születési családi és utónevét,
+  - ac) születési helyét és idejét,
+  - ad) anyja születési családi és utónevét,
+  - ae) lakcímét,
+  - af) személyi azonosítóját,
+- b) az eseti gondnok kijelöléséről szóló döntést és annak ügyszámát,
+- c) az eseti gondnok kijelöléséről szóló döntést hozó hatóság megnevezését,
+- d) azon ügycsoportot vagy ügycsoportokat, amelyben az eseti gondnok jogosult eljárni.
+
+(2) A nyilvántartás az eseti gyám tekintetében a következő adatokat és a változás időpontjának megjelölésével az adatváltozásokat tartalmazza:
+
+- a) az eseti gyám
+  - aa) családi és utónevét,
+  - ab) születési családi és utónevét,
+  - ac) születési helyét és idejét,
+  - ad) anyja születési családi és utónevét,
+  - ae) lakcímét,
+  - af) személyi azonosítóját,
+- b) az eseti gyám kijelöléséről szóló döntést és annak ügyszámát,
+- c) az eseti gyám kijelöléséről szóló döntést hozó hatóság megnevezését,
+- d) azon ügycsoportot vagy ügycsoportokat, amelyben az eseti gyám jogosult eljárni.
+
+(3) Az (1)–(2) bekezdés b)–d) pontja szerinti adatokat a nyilvántartás közhitelesen tartalmazza.
+
+142/C. § Az eseti gondnokot, illetve eseti gyámot kirendelő hatóság a nyilvántartásba történő bejegyzés céljából a döntését megküldi az Országos Bírósági Hivatal (a továbbiakban: nyilvántartást vezető szerv) részére. A nyilvántartásba az adatokat a nyilvántartást vezető szerv jegyzi be.
+
+142/D. § A nyilvántartást vezető szerv az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett a nyilvántartáshoz ingyenesen közvetlen hozzáférést biztosít.
+
 ### XXII. Fejezet — A gyermekek védelmének főbb finanszírozási szabályai
 
 ### Általános szabályok
@@ -4650,14 +4714,14 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 
 145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a szolgáltatói nyilvántartásba végleges döntéssel bejegyzett szolgáltató, intézmény vagy hálózat útján gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet folytató, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
-(2) Az állami fenntartó, az egyházi fenntartó és a nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele
+(2) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultság feltétele
 
-- a) a személyes gondoskodást nyújtó gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
-- b) a gyermekek napközbeni ellátása, gyermekvédelmi szakellátás és – az 51. § (4)–(9) bekezdése szerinti ellátás kivételével – a gyermekek átmeneti gondozása esetében az új férőhelyeknek
+- a) a gyermekek napközbeni ellátása, – a b) pontban foglaltak kivételével – a gyermekek átmeneti gondozása és a gyermekvédelmi szakellátás esetében az új férőhelyszámnak,
+- b) krízisközpont, titkos menedékház, félutas ház esetében az új szolgáltatásnak
 
-a gyermekjóléti szolgáltatások és a gyermekvédelmi szakellátás területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás), a családsegítés és gyermekjóléti szolgáltatás, a területi gyermekvédelmi szakszolgáltatás, valamint a 145/C. §-ban foglaltak kivételével.
+a gyermekjóléti szolgáltatások és a gyermekvédelmi szakellátás területi lefedettségét figyelembe vevő, jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás), a területi gyermekvédelmi szakszolgáltatás kivételével.
 
-(2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, hálózatnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó a kérelem benyújtásakor nem rendelkezik befogadással.
+(2a) A (2) bekezdés alkalmazásában új szolgáltatásnak vagy férőhelyszámnak az minősül, amelyre a fenntartó a kérelem benyújtásakor nem rendelkezik befogadással.
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatás befogadás nélkül is jár, ha
 
@@ -4672,8 +4736,8 @@ a gyermekjóléti szolgáltatások és a gyermekvédelmi szakellátás területi
 - c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is bejegyzett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag költségvetési többletkiadást nem eredményező
   - ca) szétválás vagy egyesítés,
   - cb) szolgáltatásiforma-váltás,
-  - cc) a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás, vagy
-  - cd)
+  - cc) a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás,
+  - cd) költözés, vagy
   - ce) fenntartóváltás
 
 teszi szükségessé.
@@ -4684,9 +4748,15 @@ teszi szükségessé.
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen, átcsoportosításon az egyik intézményben, telephelyen történő férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű férőhelyszám-növelést kell érteni.
 
-(2f) A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben dönthet a szolgáltató, intézmény, hálózat, férőhelyszám befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter a döntését – az államháztartásért felelős miniszter 30 napon belül közölt álláspontja alapján – 60 napon belül hozza meg.
+(2f) A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben dönthet a szolgáltató, szolgáltatás, intézmény, hálózat, férőhelyszám befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter a döntését – az államháztartásért felelős miniszter 30 napon belül közölt álláspontja alapján – 60 napon belül hozza meg.
 
-(2g) A gyermekek átmeneti otthonára és a családok átmeneti otthonára a (2a)–(2f) bekezdés szabályai helyett az Szt. 58/A. § (2a)–(2f) bekezdését kell alkalmazni, azzal, hogy a családok átmeneti otthona keretében létrehozott külső férőhelyek esetében a központi költségvetésről szóló törvényben biztosított támogatás befogadás nélkül is jár.
+(2g) A gyermekek átmeneti gondozására a (2a)–(2f) bekezdés szerinti rendelkezések helyett az Szt. 58/A. § (2a)–(2f) bekezdését kell alkalmazni, azzal, hogy
+
+- a) a családok átmeneti otthona keretében létrehozott külső férőhelyek esetében a központi költségvetésről szóló törvényben biztosított támogatás befogadás nélkül is jár,
+- b) krízisközpont, titkos menedékház és félutas ház szolgáltatás esetén a befogadásról a miniszter dönt, az Szt. 58/A. § (2c) bekezdésében foglalt esetek kivételével a gyermek- és ifjúságpolitikáért felelős miniszter egyetértésével,
+- c) krízisközpont, titkos menedékház és félutas ház-szolgáltatás esetében nem alkalmazható az Szt. 58/A. § (2b) bekezdés f) pontja, és a (2c) bekezdés b) pontja csak a Helyreállítási és Ellenállóképességi Terv keretében vagy a 2021-2027-es uniós programozási időszakban elnyert uniós és hazai pályázatokra vonatkozik.
+
+(2h) A (2c) bekezdés c) pont cd) alpontja szerinti esetben költözésen a gyermekek napközbeni ellátását nyújtó szolgáltató, intézmény, hálózat székhelyének, telephelyének a szolgáltatás nyújtásának településén, fővárosi kerületén belül másik címre történő elköltöztetését kell érteni.
 
 (3) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi szolgáltató, intézmény, hálózat – a munkakörüket sajátos egyházi szolgálati viszonyban ellátó személyeket kivéve –
 
@@ -4724,18 +4794,7 @@ köteles biztosítani.
 
 van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti eljárás befejezéséig – ideértve a másodfokú eljárást, a közigazgatási pert, a Kúria felülvizsgálati eljárását és a megismételt eljárást is – függesztheti fel.
 
-145/A. § (1) Ha a települési önkormányzat vagy a társulás – a gyermekek napközbeni ellátása kivételével – a fenntartásában működő szolgáltatót, intézményt egyházi fenntartó fenntartásába adja át, az egyházi kiegészítő támogatást a települési önkormányzat, illetve a társulás köteles a központi költségvetésnek öt éven keresztül folyamatosan, a nettó finanszírozás keretében megtéríteni.
-
-(2) Ha a települési önkormányzat vagy a társulás – a gyermekek napközbeni ellátása kivételével – a fenntartásában működő szolgáltató, intézmény megszűnésétől számított tizenkét hónapon belül egyházi fenntartó új szolgáltatót, intézményt hoz létre, a megszűnt intézményben is végzett gyermekjóléti, gyermekvédelmi szolgáltató tevékenység után kifizetett egyházi kiegészítő támogatást a települési önkormányzat, illetve a társulás köteles a központi költségvetésnek öt éven keresztül folyamatosan, a nettó finanszírozás keretében megtéríteni, feltéve, hogy
-
-- a) a megszűnt és a létrehozott szolgáltatónál, intézményben ellátott gyermekeknek legalább ötven százaléka azonos, valamint
-- b) a megszűnt és a létrehozott intézmény – részben vagy egészben – ugyanabban az ingatlanban működik.
-
-(3) A megtérítendő összeg megállapítása során nem vehető figyelembe a korábbi fenntartónak a szolgáltatói nyilvántartásban bejegyzett adatai között nem szereplő szolgáltató tevékenység – ide nem értve azt az esetet, ha az új szolgáltató tevékenységet a korábbi férőhelyek átminősítésével hozták létre – és férőhelyszám.
-
-(4) Az egyházi kiegészítő támogatás megtérítéséről a kincstár külön kormányrendeletben meghatározott eljárás szerint határozatban dönt.
-
-(5)
+#### 145/A. §
 
 145/B. § (1) Ha a gyermekvédelmi szakellátás nyújtására egyházi, nem állami fenntartóval kötött ellátási szerződést megszüntetik és a gyermekvédelmi szakellátást a továbbiakban állami fenntartó biztosítja, az egyházi, nem állami fenntartóval munkaviszonyban álló személyek jogviszonya a gyermekvédelmi szakellátási feladat átvételének időpontjában e törvény erejénél fogva közalkalmazotti jogviszonnyá alakul át (a továbbiakban: jogállásváltozás).
 
@@ -4775,7 +4834,7 @@ van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti
 - a) tett munkáltatói vagy munkavállalói egyoldalú jognyilatkozat, vagy
 - b) megkötött megállapodás alapján a munkaviszony ezen időpontot követően megszűnik. Az a) és b) pont szerinti, a gyermekvédelmi szakellátási feladat átvételének időpontja előtti jognyilatkozattal vagy megállapodással kapcsolatban a munkavállaló által kezdeményezett munkaügyi jogvita esetén a gyermekvédelmi szakellátási feladat átvételének időpontját követően az átadó helyébe az átvevő munkáltató lép és ezen időpont után a keresetlevelet az átvevő munkáltató ellen kell előterjeszteni.
 
-145/C. § (1) A gyermekek esélynövelő szolgáltatásai, a krízisközpontok, a félutas házak és a titkos menedékházak működtetését az állam – kormányrendeletben meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződés legfeljebb három évre köthető meg. A fenntartóval a finanszírozási szerződést a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv köti meg.
+145/C. § (1) A gyermekek esélynövelő szolgáltatásai működtetését az állam – kormányrendeletben meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződés legfeljebb három évre köthető meg. A fenntartóval a finanszírozási szerződést a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv köti meg.
 
 (2) Az éves támogatási összeget a költségvetési törvény állapítja meg.
 
@@ -5096,7 +5155,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - g) a személyes adatok kezelésére és az egységes örökbefogadási nyilvántartás vezetésére vonatkozó eljárási szabályokat, valamint az egységes örökbefogadási nyilvántartás adatfeldolgozójának feladataira vonatkozó szabályokat,
 - gy) a Gyermekeink védelmében elnevezésű informatikai rendszerre és a javítóintézeti informatikai rendszerre vonatkozó részletes szabályokat, valamint a Gyermekeink védelmében elnevezésű informatikai rendszer és a javítóintézeti informatikai rendszer adatkezelőjére, valamint adatfeldolgozójának kijelölésére és feladataira vonatkozó szabályokat,
 - h) a helyettes szülői jogviszony és a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit,
-- i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 98. § (11)–(14) bekezdése szerinti közhírré tétel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
+- i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, az engedélyezett férőhelyszám-túllépés mértékét, a jogsértés esetén alkalmazható jogkövetkezményeket, a 98. § (11)–(14) bekezdése szerinti közhírré tétel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
 - j) az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző magánszervezetek tevékenységét és működésük engedélyezését, továbbá a szolgáltatást engedélyező szerv kijelölését,
 - k) a gyermekvédelmi közvetítői eljárás és a támogatott közvetítői eljárás elrendelésének és alkalmazásának szabályait,
 - l) a gyermekvédelmi szakellátási intézményekben, a javítóintézetben és a bölcsődében, mini bölcsődében betölthető pedagógus munkaköröket, valamint a pedagógus munkakörben foglalkoztatottak munkaidejének beosztására vonatkozó részletes szabályokat,
@@ -5111,7 +5170,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
 - u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait,
 - v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
-- w) a gyermekek esélynövelő szolgáltatásai, a krízisközpontok, a félutas házak és a titkos menedékházak finanszírozásának rendjére vonatkozó részletes szabályokat,
+- w) a gyermekek esélynövelő szolgáltatásai finanszírozásának rendjére vonatkozó részletes szabályokat,
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait, valamint a szociálpolitikai feladatokat ellátó szerv kijelölését,
 - y) az e törvény szerinti gyermekvédelmi és szociálpolitikai szakértői szakterületeket, a gyermekvédelmi és szociálpolitikai szakértői tevékenység folytatásának, a tevékenység bejelentésének részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket és a névjegyzék vezetésére vonatkozó eljárás részletes szabályait,
 - z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait,
@@ -5161,6 +5220,11 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - a) a gyermekek esélynövelő szolgáltatásainak szakmai feladatait és működési feltételeit,
 - b) a Biztos Kezdet Alapképzés szakmai és vizsgakövetelményeit.
 
+(8) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy rendeletben szabályozza
+
+- a) a hozzátartozók közötti erőszak áldozatait segítő ellátórendszer szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételének részletes szabályait,
+- b) a hozzátartozók közötti erőszak áldozatait segítő ellátórendszer körébe tartozó egyes feladatokat ellátó személyek képesítési előírásait.
+
 163. § (1) A 2013. december 31-én nevelőszülői vagy hivatásos nevelőszülői jogviszonyban álló személynek a nevelőszülői, hivatásos nevelőszülői jogviszonya e törvény erejénél fogva 2014. január 1-jétől nevelőszülői foglalkoztatási jogviszonnyá alakul át.
 
 (2)
@@ -5185,7 +5249,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 164. § A 2014. január 1-jét megelőzően nevelésbe vett gyermek gondozási helyét kizárólag a nevelőszülői vagy a hivatásos nevelőszülői jogviszonynak nevelőszülői foglalkoztatási jogviszonnyá történő átalakulása miatt nem lehet megváltoztatni.
 
-165. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 54. § (1) bekezdés f) pontjában foglaltak – a (2) bekezdésben foglalt kivétellel – 2024. december 31-ét követően követelhetők meg a nevelőszülői foglalkoztatási jogviszonyban álló személytől. 2024. december 31-ig a nevelőszülői tevékenység ellátásához – az egyéb feltételek fennállása esetén – elegendő a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyam eredményes elvégzése vagy az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés „Befogadott gyermek ellátásának alapfeladatai” követelménymodul záróvizsgájának sikeres letétele.
+165. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 54. § (1) bekezdés f) pontjában foglaltak – a (2) bekezdésben foglalt kivétellel – 2025. december 31-ét követően követelhetők meg a nevelőszülői foglalkoztatási jogviszonyban álló személytől. 2025. december 31-ig a nevelőszülői tevékenység ellátásához – az egyéb feltételek fennállása esetén – elegendő a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyam eredményes elvégzése vagy az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés „Befogadott gyermek ellátásának alapfeladatai” követelménymodul záróvizsgájának sikeres letétele.
 
 (2) Mentesül az 54. § (1) bekezdés f) pontjában meghatározott képesítési előírások teljesítése alól az a személy, aki 2013. december 31-én
 
@@ -5221,7 +5285,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (8) 2014. január 1-je és június 30-a között a 62. § (2) bekezdése, a 80/A. § (6) bekezdése és a 141. § (4) bekezdése rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy egységes örökbefogadási nyilvántartás alatt az országos örökbefogadást elősegítő szerv által vezetett, a 141/C. § szerinti nyilvántartást kell érteni.
 
-#### 167. §
+167. § 2025. január 1-jétől a területi lefedettséget figyelembe vevő finanszírozási rendszerbe – a rendelkezésre álló kapacitástól függetlenül – törvény erejénél fogva befogadottnak minősül az a krízisközpont, titkos menedékház, valamint félutas ház szolgáltatás, amely után a fenntartó a 2024. október 1-jén hatályos finanszírozási szerződése alapján támogatásra jogosult. A 2025. január 1-jét megelőzően hatályos 145/C. §-a alapján nyújtott állami támogatásra 2024. december 31-ét követően is a 2025. január 1-jét megelőzően hatályos rendelkezéseket kell alkalmazni.
 
 #### 168. §
 

@@ -931,6 +931,8 @@ tarthatók nyilván.
 
 64/C. § A környezetvédelmi, valamint a vízvédelmi hatóság a jogszabályban meghatározott feladatai ellátása céljából jogosult a vízgazdálkodásról szóló törvényben meghatározott VIZEK rendszer, valamint annak alrendszerei adataihoz való közvetlen hozzáférésre és azok kezelésére.
 
+64/D. § A levegőtisztaság-védelmi ügyben eljáró járási környezetvédelmi hatóság jogszabályban meghatározott feladatai ellátása céljából az ingatlan tulajdonosának azonosítása érdekében a jogosulti adatokkal kiegészített földkönyvben foglalt adatokat kezeli.
+
 ### A környezetvédelmi hatósági együttműködés
 
 65. § (1)
@@ -1226,7 +1228,7 @@ közös szabályai
 
 (2) Környezetveszélyeztetés, valamint környezetkárosítás esetén a környezetveszélyeztetés, illetve a környezetkárosítás hatásterületén levő ingatlan tulajdonosa, jogszerű használója és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-(3) Elektronikus ügyintézés kivételével a környezetvédelmi hatóság részére a környezetvédelmi engedély és az egységes környezethasználati engedély iránti kérelmet, illetve azoknak a 69. § (2) bekezdés és a 70. § (2) bekezdés szerinti jogszabályban meghatározott mellékletét egy példányban elektronikus adathordozón is be kell nyújtani, amelyet a környezetvédelmi hatóság elektronikus úton nyilvánosságra hoz.
+(3)
 
 91. § (1) A környezetvédelmi engedély megszerzésére, továbbá a működési engedély kiadására irányuló eljárásban az ügyintézési határidő százöt nap nap.
 
@@ -1287,7 +1289,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 91/E. § Szennyezőanyag-elhelyezés, bevezetés, vagy ezzel járó tevékenység engedélyezése során, ha a tevékenységet nem a vízvédelemi hatóság engedélyezi, a vízvédelmi hatóságot az eljárásba szakhatóságként be kell vonni.
 
-91/F. § A környezetvédelmi bírságot kiszabó határozatot megtámadó keresetlevélnek a végrehajtásra halasztó hatálya van.
+#### 91/F. §
 
 ### Szakértői tevékenység
 

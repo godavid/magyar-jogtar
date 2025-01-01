@@ -410,6 +410,15 @@ továbbíthatóak a Diákhitel Központnak.
 
 (27) A tanköteles gyermekek nyilvántartásából adat továbbítható a kötelező felvételt biztosító általános iskola fenntartója részére az iskolai felvétel biztosítása céljából, a felmentést engedélyező szerv részére a hatósági eljárás lefolytatása céljából, valamint a szabálysértési hatóság részére a szabálysértési eljárás lefolytatása céljából.
 
+(28) A felsőoktatási információs rendszerből az oktatási nyilvántartás működéséért felelős szerv a kormányablaknak, a családtámogatási ügyben eljáró hatóságnak, az állami foglalkoztatási szervnek, a nyugdíjbiztosítási igazgatási szervnek, valamint a rehabilitációs hatóságnak a feladatellátásához szükséges adatok tekintetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít.
+
+(29) Az oktatási nyilvántartás működéséért felelős szerv az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásából, illetve a tanköteles gyermekek nyilvántartásából
+
+- a) a családi pótlékra való jogosultság ellenőrzése céljából a tankötelezettség teljesítésére vonatkozó adatok tekintetében a családtámogatási ügyben eljáró hatóság részére,
+- b) az árvaellátáshoz kapcsolódó kérelmek elbírásához a nyugdíjbiztosítási igazgatási szerv részére
+
+az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít.
+
 (30) Az oktatási nyilvántartás működéséért felelős szerv az oktatási igazolványok intézményi adminisztrációs rendszeréből az igazolványok érvényességére vonatkozóan adatot szolgáltat az oktatási igazolványokhoz kapcsolódó kedvezmények szervezője és a kedvezmények nyújtói részére.
 
 (31) Az oktatási nyilvántartás működéséért felelős szerv a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásából előzetes regisztrációt követően
@@ -530,7 +539,7 @@ i)
   - h) felnőttoktatás esetében az oktatás munkarendjével kapcsolatos adatokat,
   - i) évfolyamát,
   - j) melyik évfolyamon, mely országban vett részt az Nkt.-ban szabályozott határon túli kiránduláson,
-  - k)
+  - k) annak tényét és időtartamát, hogy a tanuló igénybe vette vagy veszi a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti tanoda szolgáltatásait,
   - l) melyik évfolyamon, mely országban vett részt külföldi tanulmányúton,
   - m) annak tényét és idejét, hogy az egyéni munkarendben tanuló neki felróható okból két alkalommal nem jelent meg az osztályozó vizsgán, vagy két alkalommal nem teljesítette a tanulmányi követelményeket. II. Alkalmazotti nyilvántartás Az alkalmazotti nyilvántartás az alkalmazott alábbi személyes adatait tartalmazza:
   - a) oktatási azonosító számát,
@@ -640,7 +649,7 @@ i)
   - d) halmozottan hátrányos helyzet;
   - e) előző tanévi matematika osztályzat;
   - f) évfolyam, osztály;
-  - g)
+  - g) annak tényére és időtartamára vonatkozó adatok, hogy a tanuló, korábban az óvodai nevelésben való részvétele alatt igénybe vette a Biztos Kezdet Gyerekházak szolgáltatásait, továbbá, hogy a tanuló igénybe vette vagy veszi a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti tanoda szolgáltatásait,
   - h) jogviszonnyal kapcsolatos adatok;
   - i) az országos mérés típusa és eredménye. VII. Országos köznevelési szakértői névjegyzék Az országos köznevelési szakértői névjegyzék a szakértő alábbi személyes adatait tartalmazza:
   - a) oktatási azonosító száma;
@@ -929,7 +938,7 @@ A felsőoktatási intézménytörzs az alábbi – 2006. február 1-jén, illetv
 
 2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
-3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács, az Országos Tudományos Diákköri Tanács esetében
+3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács, az Országos Tudományos Diákköri Tanács esetében
 
 3.1. a szervezet neve, székhelye,
 

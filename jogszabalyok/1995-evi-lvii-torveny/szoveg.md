@@ -42,7 +42,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - m) vízgyűjtő-gazdálkodási terv készítése;
 - n) az állami tulajdonú vízi utak fenntartásának, valamint fejlesztésének felügyelete;
 - o) a vízrajzi tevékenység ellátása;
-- p) a vízkészletek mennyiségi és minőségi számbavétele, a vízkészletvédelmi országtérkép elkészítése és felülvizsgálata,
+- p) a vízkészletek mennyiségi és minőségi számbavétele, a vízkészletvédelmi országtérkép elkészítése és felülvizsgálata, valamint a különleges vízkészlet-gazdálkodási körzetek lehatárolása és felülvizsgálata;
 - q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 - r) állami tulajdonú vizekre és vízi létesítményekre vonatkozó vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása;
 - s) a megfelelő mennyiségű és minőségű ivóvízhez való hozzáférés biztosítása minden természetes személy számára.
@@ -320,16 +320,16 @@ kell érteni.
 
 ### A közalkalmazott besorolása, előmenetele és illetményrendszere
 
-13/C. § (1) A közalkalmazottnak a vízügyi pályán belátható, tervszerű előmeneteli lehetőséget kell biztosítani a munkaköri kategóriához tartozó munkakörön belüli fizetési fokozatban, valamint a munkaköri kategórián belül más munkakörben való előmenetelhez, továbbá a magasabb munkaköri kategóriába tartozó munkakör eléréséhez.
+13/C. § (1) A közalkalmazottnak a vízügyi pályán belátható, tervszerű előmeneteli lehetőséget kell biztosítani a munkaköri kategórián belül más munkakörben való előmenetelhez, továbbá a magasabb munkaköri kategóriába tartozó munkakör eléréséhez.
 
 (2) A munkaköri kategóriákat és az egyes munkaköri kategóriákhoz tartozó munkaköröket a Kormány rendeletben állapítja meg.
 
-(3) A közalkalmazottat és a vezetőt a foglalkoztatási jogviszonyban töltött ideje, iskolai végzettsége és munkaköre alapján kell a (2) bekezdés szerinti kormányrendeletben megállapított illetménytábla megfelelő fizetési fokozatába sorolni.
+(3) A közalkalmazott és a vezető illetményét iskolai végzettsége és munkaköre alapján kell megállapítani a vízügyi igazgatási szerveknél foglalkoztatottak közalkalmazotti jogviszonyának különös szabályairól szóló kormányrendeletben meghatározott illetménytábla alkalmazásával.
 
 13/D. § Az előmenetel általános feltételei:
 
 - a) a jogszabályban előírt képzési és továbbképzési kötelezettség teljesítése,
-- b) a következő fizetési fokozathoz jogszabályban meghatározott feltételek teljesítése,
+- b)
 - c) a munkakör ellátásához szükséges gyakorlati tapasztalat, készségek és kompetenciák,
 - d) a meghatározott szintű teljesítményértékelés és minősítés.
 
@@ -337,11 +337,11 @@ kell érteni.
 
 (2) A közalkalmazott garantált illetménye összegének legalább a Kormány által rendeletben megállapított minimálbér és garantált bérminimum összegét el kell érnie.
 
-(3) A közalkalmazott illetményét úgy kell megállapítani, hogy annak összege elérje a besorolása szerinti előmeneteli fokozathoz tartozó alsó határt, de ne haladja meg annak felső határát. A közalkalmazott a besorolása szerinti előmeneteli fokozathoz tartozó alsó határ szerinti illetményre alanyi jogon jogosult. A vízügyi ágazatban foglalkoztatott közalkalmazottak előmeneteli fokozatait és az azokhoz tartozó illetmények alsó és felső határait a Kormány rendeletben határozza meg.
+(3) A közalkalmazott illetményét úgy kell megállapítani, hogy annak összege elérje a besorolása szerinti illetménytábla szerinti alsó határt, de ne haladja meg annak felső határát. A közalkalmazott a besorolása szerinti alsó határ szerinti illetményre alanyi jogon jogosult. A vízügyi ágazatban foglalkoztatott közalkalmazottak besorolását és az ahhoz tartozó illetmény alsó és felső határait a Kormány rendeletben állapítja meg.
 
 (4) A közalkalmazott illetményét a munkáltatói jogkör gyakorlója minden év január 31-éig felülvizsgálja.
 
-(5) A munkáltatói jogkör gyakorlója a (4) bekezdés szerinti felülvizsgálat során az illetményt a tárgyévre vonatkozóan a közalkalmazott besorolása szerinti előmeneteli fokozathoz tartozó illetmény felső határáig megemelheti, illetve alsó határáig csökkentheti. A munkáltatói jogkör gyakorlója az illetmény felülvizsgálatakor, döntése során figyelembe veszi
+(5) A munkáltatói jogkör gyakorlója a (4) bekezdés szerinti felülvizsgálat során az illetményt a tárgyévre vonatkozóan a közalkalmazott besorolása szerinti illetmény felső határáig megemelheti, illetve alsó határáig csökkentheti. A munkáltatói jogkör gyakorlója az illetmény felülvizsgálatakor, döntése során figyelembe veszi
 
 - a) a közalkalmazotti jogviszonyban eltöltött időt,
 - b) a vízügyi igazgatásban szerzett tapasztalatot,
@@ -473,7 +473,7 @@ lehet gyakorolni.
 (4) Ha a kinevezés módosítása következtében a vezető
 
 - a) alacsonyabb vezetői munkakört tölt be, illetményét az új vezetői munkaköre szerint,
-- b) nem vezetői munkakört tölt be, illetményét új munkaköre szerint, a kormányrendeletben meghatározott illetménytábla megfelelő alkalmazásával, a közalkalmazotti jogviszonyban eltöltött idejének megfelelő fizetési fokozata alapján
+- b) nem vezetői munkakört tölt be, illetményét új munkaköre szerint, a kormányrendeletben meghatározott illetménytábla alkalmazásával
 
 kell megállapítani.
 
@@ -520,9 +520,19 @@ kell törekedni.
 
 (7) Az állam kizárólagos tulajdonában lévő természetes vizek medrében található nádasok vízminőség-védelmi nádgazdálkodásáról a meder kezelője köteles gondoskodni.
 
+14/A. § (1) A különleges vízkészlet-gazdálkodási körzetben a vízhasználó – ideértve a vízjogi engedélyhez kötött vízhasználatok céljából indult közigazgatási hatósági eljárásban ügyfélnek minősülő személyt is – a lekötött vagy igénybe venni tervezett vízkészlet mennyiségére, minőségére, valamint felszín alatti vízkészlet esetén a vízszint süllyedésére gyakorolt hatásának nyomon követése céljából monitoringrendszer kiépítésére, üzemeltetésére és adatszolgáltatásra kötelezhető. A vízügyi igazgatási szerv a monitoringrendszer adatait kiértékeli, és az állapotértékelés eredményéről tájékoztatja a vízügyi hatóságot.
+
+(2) A különleges vízkészlet-gazdálkodási körzet területén a területi vízügyi hatóság
+
+- a) fokozottan ellenőrzi a 15. § (1) bekezdésében meghatározott mennyiségi és minőségi követelmények, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott feltételek teljesülését,
+- b) új vízjogi engedélyt csak akkor ad ki, ha azzal más, a vízigények kielégítésének sorrendjében előrébb álló, véglegessé vált vízjogi engedéllyel rendelkező engedélyes vízhasználata nem kerül veszélybe; felszín alatti vízhasználatra vonatkozó kérelem esetén ennek igazolása a vízhasználatok egymásra hatásának – vízügyi igazgatási szerv által elvégzett – vizsgálatával történik;
+- c) a 30. § (1) bekezdés szerinti döntését – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott feltételek és körülmények bekövetkezése esetén – az (1) bekezdésben foglalt állapotértékelés eredményének figyelembevételével hozza meg.
+
 15. § (1) A felszín alatti vizet – az e törvényben foglaltak figyelembevételével – csak olyan mértékben szabad igénybe venni, hogy a vízkivétel és a vízutánpótlás egyensúlya minőségi károsodás nélkül megmaradjon, és teljesüljenek a külön jogszabály szerinti, a vizek jó állapotára vonatkozó célkitűzések elérését biztosító követelmények.
 
 (2) A vízigények a felhasználható vízkészlet mennyiségi és minőségi védelmére is tekintettel elsősorban a vízhasználat céljára még le nem kötött vízkészletből elégíthetők ki.
+
+(2a) A különleges vízkészlet-gazdálkodási körzetben vízigény a 14/A. § (1) bekezdésében meghatározott állapotértékelés alapján is kielégíthető, ha a vízkészlet mennyiségi és minőségi védelme biztosított.
 
 (3) Az ásvány-, gyógy- és termálvizek felhasználásánál előnyben kell részesíteni a gyógyászati, illetve a gyógyüdülési használatot.
 
@@ -567,9 +577,9 @@ vízhasználat.
 
 15/B. § (1) A vízhasználónak a vízkészletjárulékot
 
-- a) 4,50 forint/m3 alapjárulék,
-- b) ha a vízjogi engedélyben, bányafelügyeleti szerződésben meghatározott vízmennyiséget – az egyes külön megjelölt időszakra is tekintettel – 10%-nál nagyobb mértékben túllépi, a teljes többletmennyiség után 9,00 forint/m3 alapjárulék,
-- c) ha tevékenységét bányafelügyeleti szerződés nélkül vagy a vízjogi engedélyköteles a tevékenységet engedély nélkül folytatja (a továbbiakban: engedély nélküli vízhasználat), 28,90 forint/m3 alapjárulék figyelembevételével, a befizetés összegét meghatározó, külön jogszabályban előírt – az igénybe vett vízmennyiség meghatározásának módjától, a vízhasznosítás és a vízkészlet jellegétől, továbbá az adott térség vízkészlet-gazdálkodási helyzetétől függő – szorzószámok alkalmazásával, a ténylegesen igénybe vett vízmennyiség
+- a) 9,00 forint/m3 alapjárulék,
+- b) ha a vízjogi engedélyben, bányafelügyeleti szerződésben meghatározott vízmennyiséget – az egyes külön megjelölt időszakra is tekintettel – 10%-nál nagyobb mértékben túllépi, a teljes többletmennyiség után 18,00 forint/m3 alapjárulék,
+- c) ha tevékenységét bányafelügyeleti szerződés nélkül vagy a vízjogi engedélyköteles a tevékenységet engedély nélkül folytatja (a továbbiakban: engedély nélküli vízhasználat), 60,00 forint/m3 alapjárulék figyelembevételével, a befizetés összegét meghatározó, e törvény végrehajtására kiadott jogszabályban előírt – az igénybe vett vízmennyiség meghatározásának módjától, a vízhasznosítás és a vízkészlet jellegétől, továbbá az adott térség vízkészlet-gazdálkodási helyzetétől függő – szorzószámok alkalmazásával, a ténylegesen igénybe vett vízmennyiség
 
 alapján kell kiszámítania.
 
@@ -639,7 +649,7 @@ alapján kell kiszámítania.
 
 (1c) A közüzemi szolgáltató köteles nyilatkozni az üzemi fogyasztó részére lekötött és ténylegesen szolgáltatott vízmennyiségről a tárgyévet követő hónap 15. napjáig az e célra szolgáló adatlapon.
 
-(2) A vízkészletjárulék-fizetés bizonylatait a vízügyi hatóság ellenőrzi. Ha a fizetésre kötelezett a bejelentkezési, a nyilatkozattételi, a nyilvántartási, illetve a vízkészletjárulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon vízügyi hatóságot kell érteni. Az adózás rendjéről szóló törvény, valamint az adóigazgatási rendtartásról szóló törvény alkalmazásakor a vízügyi hatóság eljárása adóigazgatási eljárásnak minősül.
+(2) A vízkészletjárulék-fizetés bizonylatait a vízügyi hatóság ellenőrzi. Ha a fizetésre kötelezett a bejelentkezési, a nyilatkozattételi, a nyilvántartási, illetve a vízkészletjárulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy az adóhatóságra vonatkozó rendelkezéseket a vízügyi hatóságra kell alkalmazni. Az adózás rendjéről szóló törvény, valamint az adóigazgatási rendtartásról szóló törvény alkalmazásakor a vízügyi hatóság eljárása adóigazgatási eljárásnak minősül, amely eljárásban hozott döntéssel szemben nincs helye fellebbezésnek.
 
 (3) Az adózás rendjéről szóló törvény szerinti, a késedelmi pótlék mérséklése szabályai között a pótlékfizetés kezdő napjának eltérő megállapítására, az adóbírság mérséklésére, kiszabásának mellőzésére, valamint az adómérséklésre vonatkozó szabályokat a vízügyi hatóság nem alkalmazhatja a vízkészletjárulék-fizetési kötelezettség vízhasználó általi teljesítése során.
 
@@ -1423,6 +1433,8 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 
 (7h) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza egyes hatósági eljárásokban a vízvédelmi hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket.
 
+(7h) Felhatalmazást kap a Kormány, hogy a különleges vízkészlet-gazdálkodási körzet lehatárolását, valamint a fenntartható vízhasználat megőrzését és a nemzetgazdasági jelentőségű fejlesztések vízigényének felszín alatti vízkészletekből történő kielégítését szolgáló különleges intézkedések végrehajtása érdekében szükséges, a vízügyi igazgatási szervek által ellátandó feladatokat, illetve a felszín alatti vízkészletekből történő vízigény kielégítését célzó vízjogi engedély iránti kérelmek vízügyi hatósági elbírálásának, valamint a vízügyi hatósági ellenőrzésnek részletszabályait rendeletben állapítsa meg.
+
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 - a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
@@ -1536,7 +1548,7 @@ való megfelelést szolgálja.
 
 (2) A vezető – az alsó és felső határ közötti – illetményét úgy kell megállapítani, hogy annak havi összege nem lehet kevesebb a magasabb vezető vagy vezető 2017. december 31-én megállapított illetményénél. Az illetmény megállapítása során figyelembe kell venni a magasabb vezetőt vagy vezetőt 2017. december 31-én megillető pótlékok összegét.
 
-(3) A közalkalmazott és a vezető 2018. január 1-jétől cafetériajuttatásra nem jogosult.
+(3)
 
 (4) A közalkalmazott és a vezető Vgtv. mód.-dal megállapított 13/G. § rendelkezései szerinti szabadságát úgy kell megállapítani, hogy az nem lehet kevesebb a közalkalmazott 2017. évre járó szabadságánál.
 
@@ -1640,6 +1652,7 @@ biztosítása, függetlenül a kút létesítési helye szerinti ingatlan tulajd
 - 42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 43. árvízi lefolyási sáv: a nagyvízi meder azon része, amely az árvíz és a jég elvezetésében részt vesz, mely lehet elsődleges, másodlagos és átmeneti lefolyási sáv.
 - 44. ökológiai vízhasználat: a természeti rendszerek fennmaradásához, megóvásához szükséges vízmennyiség igénybevétele.
+- 45. különleges vízkészlet-gazdálkodási körzet: az e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt terület, amelyen a fenntartható vízhasználat megőrzése, valamint a nemzetgazdasági jelentőségű fejlesztések vízigényének kielégítése céljából különleges intézkedések határozhatóak meg.
 
 ### 2. számú melléklet az 1995. évi LVII. törvényhez
 

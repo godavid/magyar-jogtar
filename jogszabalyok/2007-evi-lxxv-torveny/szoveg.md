@@ -383,9 +383,7 @@ Isten engem úgy segéljen!”
 
 (2) Az (1) bekezdésben foglaltak nem érintik a kamarai tag könyvvizsgálók jogszabályban meghatározott egyéb jogosultságait.
 
-21/A. § (1) A kamarai tag könyvvizsgáló jogosult a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során kiadott független könyvvizsgálói jelentést elektronikus okiratban kiállítani és azt elektronikusan aláírni, valamint időbélyegzővel ellátni.
-
-(2) A kamara az elektronikus okiratban történő kiállításra és elektronikus aláírásra vonatkozó részletes előírásokat a független könyvvizsgálói jelentés elektronikus okiratban történő kiállításáról és az ahhoz szükséges elektronikus aláírás alkalmazásáról szóló szabályzatában határozza meg.
+#### 21/A. §
 
 ### A kamarai tag kötelességei
 
@@ -405,6 +403,27 @@ Isten engem úgy segéljen!”
 
 - a) feladatait lelkiismeretesen, esküjének megfelelően, a jogszabályok és a 4. § (5) bekezdésének b) pontja szerinti standardok alapján, körültekintően ellátni,
 - b) a könyvvizsgálói tevékenysége során az adott helyzetben elvárható gondossággal, legjobb tudása szerint eljárni.
+
+23/A. § (1) A kamarai tag könyvvizsgáló köteles a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során kiadott független könyvvizsgálói jelentését elektronikus okiratban kiállítani és azt elektronikusan aláírni, valamint időbélyegzővel ellátni, amelyhez a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti minősített elektronikus aláírást vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírást kell használni (a továbbiakban együtt: elektronikus aláírás).
+
+(2) A kamara a kamarai tag könyvvizsgáló elektronikus aláírásáról nyilvántartást vezet, és köteles azt naprakészen tartani.
+
+(3) A Dáptv szerinti bizalmi szolgáltató a kamarai tag könyvvizsgáló elektronikus aláírásának kibocsátásáról, valamint annak visszavonásáról haladéktalanul adatot szolgáltat a kamarának.
+
+(4) A kamarai tag könyvvizsgáló az elektronikus aláírással kapcsolatos változásokat haladéktalanul bejelenti a kamara részére.
+
+(5) A kamarai tag könyvvizsgáló kizárólag jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége, vagy az azon kívüli egyéb szakmai szolgáltatások nyújtása során használhatja az elektronikus aláírást. A kamarai tag könyvvizsgáló nem használhatja az elektronikus aláírást és haladéktalanul köteles gondoskodni annak megszüntetéséről, ha
+
+- a) kamarai tagsága megszűnt, illetve a kamarai nyilvántartásból törölték,
+- b) 26. § alapján a könyvvizsgálói tevékenységét szünetelteti,
+- c) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás alatt áll,
+- d) az elektronikus aláírás létrehozásához használható adat elvesztéséről, vagy arról szerzett tudomást, hogy az elektronikus aláírás létrehozására illetéktelen személy vált képessé.
+
+(6) A kamara az elektronikus aláírásra vonatkozó további részletes szabályokat a független könyvvizsgálói jelentés elektronikus okiratban történő kiállításáról és az ahhoz szükséges elektronikus aláírás alkalmazásáról szóló szabályzatában határozza meg.
+
+23/B. § (1) A kamarai tag könyvvizsgáló köteles a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása során a fenntarthatósági jelentéshez kapcsolódó bizonyossági véleményt tartalmazó jelentését elektronikus okiratban kiállítani és azt elektronikusan aláírni, valamint időbélyegzővel ellátni.
+
+(2) Az (1) bekezdés szerinti kötelezettség teljesítése során a 23/A. §-ban foglaltakat kell megfelelően alkalmazni.
 
 24. § (1) Ha a 3. § (1) bekezdésének a) pontja szerinti tevékenységet végző kamarai tag könyvvizsgáló megállapítja vagy tudomást szerez arról, hogy megbízója vagyonának jelentős mértékű csökkenése várható, illetve olyan tényt észlel, amely a legfőbb irányító (vezető) szerv vagy a felügyelő testület tagjainak jogszabályban meghatározott felelősségét vonja maga után, köteles kezdeményezni a megbízó legfőbb szervének összehívását.
 
@@ -512,12 +531,13 @@ Isten engem úgy segéljen!”
 - q) az IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás, valamint a számviteli törvény 10. § (6) bekezdés b) pontja szerinti IFRS mérlegképes könyvelői szakképesítés-ráépülést igazoló bizonyítvány száma, kelte és a kiállító intézmény neve,
 - r) a 11. § (1a) bekezdés szerinti egyéni vállalkozói jogviszony fennállása,
 - s) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges igazolás megadásáról, valamint visszavonásáról szóló hatósági döntések.
+- t) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.
 
 (2) A kamarai tag könyvvizsgálók nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
 (3) A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy a nyilvántartásban szereplő rendelkezik a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez előírt feltételekkel. A nyilvántartásban szereplők közérdekből nyilvános adatainak, az azokban bekövetkező változásoknak a közzététele az ellenőrzés lehetőségének a megteremtését, illetve az időszerű tájékoztatást szolgálja.
 
-(4) Az (1) bekezdés a), b), c), f), h), i), j), n), o), p) és q) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
+(4) Az (1) bekezdés a), b), c), f), h), i), j), n), o), p), q) és t) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
 
 (5) A kamara az újonnan nyilvántartásba vettek nyilvántartási számát, nevét, címét a kamara lapjában közzéteszi, továbbá biztosítja, hogy a nyilvános adatok a kamara honlapján folyamatosan és bárki számára szabadon megtekinthetők legyenek. A kamara a nyilvántartásból töröltek nyilvántartási számát, nevét és a kamarai tagság megszűnésének időpontját a kamara lapjában és a kamara holnapján közzéteszi.
 
@@ -590,6 +610,10 @@ Isten engem úgy segéljen!”
 
 40/B. § A könyvvizsgáló cég köteles bejelenteni a közfelügyeleti hatóságnak, amennyiben vezető tisztségviselője a jogerős bíróság ítélete alapján nem felel meg a Polgári Törvénykönyv vezető tisztségviselőre vonatkozó követelményeinek, vagy vele szemben bármely olyan kizáró ok áll fenn, amely alapján a továbbiakban nem lehet vezető tisztségviselő.
 
+40/C. § (1) A könyvvizsgáló cég képviseletére jogosult személy köteles a kamarai tag könyvvizsgáló által jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során kibocsátott és a 23/A. § szerint elektronikusan aláírt független könyvvizsgálói jelentést elektronikusan aláírni, valamint időbélyegzővel ellátni.
+
+(2) A könyvvizsgáló cég képviseletében eljáró személy elektronikus aláírásával összefüggésben a 23/A. § szerinti kamarai tag könyvvizsgálóra vonatkozó elektronikus aláírással kapcsolatos előírásokat kell alkalmazni.
+
 ### A könyvvizsgáló cég engedélyének megszűnése
 
 41. § (1) A közfelügyeleti hatóság a könyvvizsgáló cég 35. § szerinti engedélyét visszavonja
@@ -648,6 +672,7 @@ Isten engem úgy segéljen!”
 - p) a kérelemben megjelölt Európai Gazdasági Térség államának illetékes hatóságának neve és – ha van – a könyvvizsgáló cég kérelemben megjelölt nyilvántartási száma, ha a könyvvizsgáló céget a 35/A. § alapján vették nyilvántartásba, valamint annak feltüntetése, hogy az Európai Gazdasági Térség állama illetékes hatóságának nyilvántartása szerint jogosult-e fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására,
 - q) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, illetve érvényességének időtartama,
 - r) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges engedély megadásáról, valamint visszavonásáról szóló hatósági döntések.
+- s) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.
 
 (2) A könyvvizsgáló cégek nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
@@ -687,6 +712,19 @@ Isten engem úgy segéljen!”
 (5) Minőségellenőrzés, kamarai minőségellenőrzés vagy más vizsgálat esetén, jogszabály eltérő rendelkezésének hiányában, a csoportkönyvvizsgáló felelős a harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó által végzett könyvvizsgálói munka dokumentációjának és adott esetben a fenntarthatósági bizonyossági munka dokumentációjának – ideértve a csoport könyvvizsgálatára vonatkozó munkaanyagokat és adott esetben az összevont (konszolidált) fenntarthatósági jelentésre vonatkozó bizonyosság nyújtásához kapcsolódó munkaanyagokat is – a közfelügyeleti hatósághoz – kérelemre – történő eljuttatásáért, ha az összevont (konszolidált) éves beszámolóban és adott esetben az összevont (konszolidált) fenntarthatósági jelentésben szereplő valamely gazdálkodó tekintetében harmadik országbeli könyvvizsgáló, harmadik országbeli könyvvizsgáló gazdálkodó látta el a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet.
 
 (6) Az (5) bekezdésben foglaltak teljesítése érdekében a csoportkönyvvizsgálónak meg kell őriznie a dokumentáció egy példányát, vagy meg kell állapodnia a harmadik országbeli könyvvizsgálóval, a harmadik országbeli könyvvizsgáló gazdálkodóval, hogy azokhoz kérelem esetén megfelelően és korlátozásmentesen hozzáférhessen, vagy bármilyen egyéb megfelelő intézkedést tehessen. Ha jogi vagy egyéb akadályok miatt a dokumentáció a harmadik országból nem kerülhet a csoportkönyvvizsgálóhoz, a csoportkönyvvizsgálónak dokumentálnia kell annak bizonyítékát, hogy megtette a megfelelő lépéseket az (5) bekezdés szerinti dokumentációhoz való hozzáférés érdekében, valamint a felmerülő akadályokat.
+
+48/A. § (1) A kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég, a könyvvizsgálat során keletkezett könyvvizsgálati dokumentációt köteles elektronikusan archiválni és a dokumentumokat az archiválást követően legalább 8 évig megőrizni.
+
+(2) Az (1) bekezdés szerinti kötelezettség teljesítése során a kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég
+
+- a) a digitális archiválás szabályairól szóló jogszabály és
+- b) a papíralapú dokumentumokról elektronikus úton történő másolat készítésének szabályairól szóló jogszabály
+
+előírásai szerint jár el.
+
+48/B. § (1) A kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása során keletkezett fenntarthatósági bizonyossági dokumentációt köteles elektronikusan archiválni és a dokumentumokat az archiválást követően legalább 8 évig megőrizni.
+
+(2) Az (1) bekezdés szerinti kötelezettség teljesítése során a 48/A. § (2) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
 48/C. § (1) Amennyiben egyazon kamarai tag könyvvizsgáló végzi az éves beszámoló jogszabály szerint engedélyezett könyvvizsgálatát és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását, a fenntarthatósági bizonyossági dokumentáció részét képezheti a könyvvizsgálati dokumentációnak.
 
@@ -2697,6 +2735,10 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 (2) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 170. § (4) és (6) bekezdését, 173/A. § (5) bekezdését, valamint a 173/B. § (15) bekezdését az azok hatálybalépését követően indult eljárásokra kell először alkalmazni.
 
 208/O. § E törvénynek az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 30. § (5) bekezdését és 41. § (7) bekezdését a hatálybalépést követően indult eljárásokra kell alkalmazni.
+
+208/P. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 23/A. §-át, valamint 40/C. §-át a 2025. üzleti évi beszámolókra vonatkozó könyvvizsgálói jelentések elkészítése során kell először alkalmazni.
+
+208/Q. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 48/A. §-át a 2025. üzleti évi beszámolók könyvvizsgálati dokumentációinak archiválása és megőrzése során kell először alkalmazni.
 
 208/R. § E törvénynek a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény (a továbbiakban: Mód3. törvény) által megállapított 50. § (2e) bekezdés b) pontjában foglalt követelményt a 2024. január 1. előtt nyilvántartásba vett kamarai tag könyvvizsgálókra nem kell alkalmazni.
 

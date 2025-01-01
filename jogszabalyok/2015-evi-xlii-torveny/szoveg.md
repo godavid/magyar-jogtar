@@ -64,7 +64,7 @@ is alkalmazni kell.
 - 2a. állami vezető: a kormányzati igazgatásról szóló törvény szerinti politikai felsővezető, közigazgatási államtitkár és helyettes államtitkár;
 - 3. állományilletékes parancsnok: a rendvédelmi szerv általános munkáltatói jogkört gyakorló azon hivatásos állományba tartozó elöljárója vagy nem hivatásos állományba tartozó munkahelyi vezetője, aki a rendvédelmi szerv olyan szervezeti egységét vezeti, amely önálló állománytáblázattal rendelkezik; az állományilletékes parancsnok gyakorolja mindazon munkáltatói jogokat, és teljesíti azokat a kötelezettségeket, amelyeket e törvény vagy a végrehajtására kiadott kormányrendelet nem határoz meg más parancsnok vagy vezető részére;
 - 4. állománytáblázat: a rendvédelmi szerv szervezeti egységénél rendszeresített szervezeti elemeket, a rendszeresített szolgálati beosztásokat, azok besorolását, az azokban rendszeresített rendfokozatokat, valamint az azok ellátásához szükséges képesítési, képzettségi, végzettségi és egyéb követelményeket meghatározó okmány; az állománytáblázat tartalmazhatja a rendvédelmi szerv által más foglalkoztatási jogviszonyban foglalkoztatott személyekkel betölthető munkakörökre vonatkozó adatokat is;
-- 5. átszervezés: a rendvédelmi szervnél végrehajtott minden olyan, az állománytáblázat módosításával járó szervezési intézkedés, amelynek következtében a hivatásos állomány tagja által betöltött szolgálati beosztás megszűnik, vagy lényeges tartalma – így különösen a szolgálati beosztás besorolása vagy az ahhoz rendelt képesítési, képzettségi, végzettségi követelmények –, vagy a szolgálatteljesítési hely megváltozik; nem minősül átszervezésnek, ha a rendvédelmi szerv egészét vagy érintett szervezeti egységét más rendvédelmi szervvel összevonják vagy annak alárendelik, és ennek következtében a hivatásos állomány tagja más rendvédelmi szerv állományába kerül, feltéve, hogy a szolgálati beosztás lényeges tartalma nem változik;
+- 5. átszervezés: a rendvédelmi szervnél végrehajtott minden olyan, az állománytáblázat módosításával járó szervezési intézkedés, amelynek következtében a hivatásos állomány tagja által betöltött szolgálati beosztás megszűnik, vagy lényeges tartalma – így különösen a szolgálati beosztás besorolása vagy az ahhoz rendelt képesítési, képzettségi, végzettségi követelmények –, vagy a szolgálatteljesítési hely megváltozik; nem minősül átszervezésnek, ha a rendvédelmi szerv egészét vagy érintett szervezeti egységét más rendvédelmi szervvel összevonják vagy annak alárendelik, és ennek következtében a hivatásos állomány tagja más rendvédelmi szerv állományába kerül, feltéve, hogy a szolgálati beosztás lényeges tartalma nem változik, nem minősül továbbá átszervezésnek – a szolgálati beosztás lényeges tartalmának módosítása nélkül – a szolgálati beosztás megnevezésének módosítása;
 - 6. azonos besorolású szolgálati beosztás: olyan szolgálati beosztás, amely a betöltött szolgálati beosztással azonos besorolási osztályba és besorolási kategóriába tartozik;
 - 7. azonos besorolású vezetői beosztás: olyan vezetői beosztás, amelynek besorolási kategóriája megegyezik a betöltött vezetői beosztás besorolási kategóriájával;
 - 8. belföldi szolgálati kiküldetés: a hivatásos állomány tagjának meghatározott szolgálati feladat teljesítése céljából a szolgálatteljesítési helyének közigazgatási határán kívül történő ideiglenes szolgálatteljesítése, ide nem értve, ha a hivatásos állomány tagja a szolgálati kötelezettség teljesítésének természetéből eredően szolgálati feladatait szokásosan a szolgálatteljesítési helyének közigazgatási határán kívül teljesíti;
@@ -86,7 +86,7 @@ is alkalmazni kell.
 - 22a. rendvédelmi tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti szolgálati jogviszonyban áll;
 - 23. szervezeti állománytáblázat: a rendvédelmi szerv önálló jogi személynek minősülő egységeihez tartozó szervezeti egységek állománytáblázatát összesítő állománytáblázat, valamint a rendvédelmi szerv egészére vonatkozó, valamennyi, a rendvédelmi szervhez tartozó szervezeti egység állománytáblázatát összesítő állománytáblázat;
 - 24. szervezeti egység: a rendvédelmi szervnek a rendvédelmi szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, önálló feladatra és működésre létrehozott, meghatározott székhellyel vagy telephellyel rendelkező, az állományilletékes parancsnok által vezetett szervezete;
-- 24a. szerződéses határvadász: az általános rendőrségi feladatok ellátására létrehozott szerv tisztesi rendfokozati állománycsoportba tartozó személyi állományának tagja, aki három éves határozott időre szóló szerződésben vállalja a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 10., 11. és 13. pontjában meghatározott feladatokhoz kapcsolódó rendvédelmi feladatok (a továbbiakban együtt: határvadász feladat) ellátását;
+- 24a. szerződéses határvadász: az általános rendőrségi feladatok ellátására létrehozott szerv tisztesi rendfokozati állománycsoportba tartozó személyi állományának tagja, aki három éves határozott időre szóló szerződésben vállalja a Rendőrségről szóló 1994. évi XXXIV. törvény 6/A. §-ában meghatározott feladatokhoz kapcsolódó rendvédelmi feladatok (a továbbiakban együtt: határvadász feladat) ellátását;
 - 25. szolgálati beosztás: az állománytáblázatban rendszeresített, a hivatásos állomány tagjával betölthető munkakör;
 - 26. szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, rendvédelmi igazgatási alkalmazottként vagy igazságügyi alkalmazottként foglalkoztatott személy is minősülhet;
 - 27. szolgálati érdek: a rendvédelmi szerv vagy a szervezeti egység jogszerű, rendeltetésszerű és eredményes működéséhez, jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott feladatainak teljesítéséhez szükséges vagy azt meghatározó módon befolyásoló személyi feltétel vagy körülmény;
@@ -1057,19 +1057,19 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 
 71. § (1) A hivatásos állomány arra alkalmas tagja átmenetileg megbízható
 
-- a) az ideiglenesen megüresedett vagy betöltetlen szolgálati beosztás ellátásával,
-- b) a szolgálati beosztás ellátásában tartósan akadályozott személy helyettesítésével, vagy
-- c) a hivatásos állomány tagjának szolgálati beosztásához nem tartozó feladatkör ellátásával, többletfeladatként.
+- a) az ideiglenesen megüresedett vagy betöltetlen szolgálati beosztás ellátásával, vagy
+- b) a szolgálati beosztás ellátásában tartósan akadályozott személy helyettesítésével,
+- c)
 
-(2) Az (1) bekezdés szerinti szolgálati beosztás ellátására vagy helyettesítésre szóló megbízás történhet az eredeti szolgálati beosztás ellátása mellett vagy az eredeti szolgálati beosztás ellátása alóli mentesítéssel. A helyettesítés az egy évet nem haladhatja meg. Az illetmény nélküli szabadságon távollevő helyettesítése az illetmény nélküli szabadság tartamára szólhat. Az egyhavi időtartamot meg nem haladó megbízáshoz a hivatásos állomány tagjának beleegyezése nem szükséges.
+(2) Az (1) bekezdés szerinti szolgálati beosztás ellátására vagy helyettesítésre szóló megbízás történhet az eredeti szolgálati beosztás ellátása mellett vagy az eredeti szolgálati beosztás ellátása alóli mentesítéssel. A helyettesítésre irányuló megbízás harminc napnál rövidebb nem lehet és az egy évet nem haladhatja meg. Az illetmény nélküli szabadságon távollevő helyettesítése az illetmény nélküli szabadság tartamára szólhat. Az (1) bekezdés szerinti megbízáshoz a hivatásos állomány tagjának beleegyezése szükséges.
 
-(3) A szolgálati beosztáshoz nem tartozó feladatkörrel való megbízás nem esik a (2) bekezdés szerinti időkorlátozás alá. A hivatásos állomány tagja az (5) bekezdés szerinti díjazásra akkor jogosult, ha az (1) bekezdés c) pontja szerinti többletfeladat ellátásával jelentős többletmunkát végez és a szolgálati beosztáshoz nem tartozó feladatkörrel való megbízás nem eseti jellegű.
+(3)
 
 (4) Ha a megbízott személyt az eredeti szolgálati beosztás ellátása alól mentesítették, részére a megbízással betöltött szolgálati beosztás figyelembevételével megállapított illetmény jár, amely nem lehet kevesebb az eredeti illetményénél. A helyettesítés a viselt rendfokozatot nem érinti.
 
 (5) Ha a hivatásos állomány tagja a megbízást az eredeti szolgálati beosztásának ellátása mellett végzi, a többletszolgálatért a rendvédelmi illetményalap 50–200%-áig terjedő mértékű díjazásra jogosult.
 
-(6) A (4) bekezdés szerinti illetmény és az (5) bekezdés szerinti díjazás az egybefüggően harminc napot meghaladó megbízás esetén visszamenőleg, a megbízás első napjától jár.
+(6) A (4) bekezdés szerinti illetmény és az (5) bekezdés szerinti díjazás az egybefüggően harminc napot meghaladó megbízás esetén jár, visszamenőleg a megbízás első napjától.
 
 (7) E § alkalmazásában tartósan akadályozott személy az, aki keresőképtelenség, átrendelés, szolgálati feladatra vezénylés miatt, vagy más okból – ide nem értve a 143–146. §, a 289/O. és 289/P. § szerinti szabadság miatti helyettesítést – harminc napnál hosszabb ideje nem tudja ellátni a szolgálati beosztását vagy abból adódó feladatait, vagy előre láthatóan harminc napnál hosszabb ideig nem fogja azt ellátni.
 
@@ -1814,7 +1814,7 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 
 #### 61. Megtérítési kötelezettség
 
-100. § (1) Ha a szolgálati viszony a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés b) vagy f) pontja, a 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján az oktatási intézményben kötelező tanulmányi időnél rövidebb idő alatt szűnt meg, a rendvédelmi szerv a szolgálati beosztáshoz és előmenetelhez szükséges iskolarendszerű képzéshez térítésmentesen nyújtott támogatást időarányosan visszakövetelheti, ideértve a pénzbeli juttatásokat, a természetbeni élelmezés értékét, valamint a megállapított, de meg nem fizetett tandíjnak azt a hányadát is, amelyet a felsőoktatási intézményben a szociális és tanulmányi kedvezményekkel is meg kellett volna fizetni.
+100. § (1) Ha a szolgálati viszony a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés b) vagy f) pontja, a 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján az oktatási intézményben kötelező tanulmányi időnél rövidebb idő alatt szűnt meg, a rendvédelmi szerv a szolgálati beosztáshoz és előmenetelhez szükséges iskolarendszerű vagy iskolarendszeren kívüli képzéshez térítésmentesen nyújtott támogatást időarányosan visszakövetelheti, ideértve a pénzbeli juttatásokat, a természetbeni élelmezés értékét, valamint a megállapított, de meg nem fizetett tandíjnak azt a hányadát is, amelyet a felsőoktatási intézményben a szociális és tanulmányi kedvezményekkel is meg kellett volna fizetni.
 
 (2) Ha a hivatásos állomány tagjának szolgálati viszonya a 132. § szerint megkötött tanulmányi szerződésben meghatározott időtartam előtt az (1) bekezdésben felsorolt okból szűnt meg, a hivatásos állomány tagja a tanulmányi szerződés alapján részére kifizetett tanulmányi támogatás összegét köteles
 
@@ -1865,7 +1865,7 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 
 (4) A rendvédelmi szerv előzetesen írásban tájékoztatja a hivatásos állomány tagját annak a technikai eszköznek az alkalmazásáról, amely az ellenőrzésére szolgál.
 
-(5) A technikai ellenőrzés során rögzített adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult eljárás, egyéb jogsértés miatt indult közigazgatási eljárás, a kényszerítő eszköz alkalmazása vagy rendőri intézkedés jogszerűségének vizsgálata, a fegyelmi eljárás vagy a kártérítési eljárás lefolytatása céljából, valamint a hivatásos állomány tagja jogainak gyakorlása érdekében használható fel, és azt a rendvédelmi szerv kizárólag az ezen eljárás lefolytatására jogosult bíróságnak vagy hatóságnak adhatja át.
+(5) A technikai ellenőrzés során rögzített adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult eljárás, egyéb jogsértés miatt indult közigazgatási eljárás, a kényszerítő eszköz alkalmazása vagy rendőri intézkedés jogszerűségének vizsgálata, a fegyelmi eljárás vagy a kártérítési eljárás lefolytatása céljából, a megbízhatósági vizsgálat előkészítése vagy lefolytatása során, valamint a hivatásos állomány tagja jogainak gyakorlása érdekében használható fel, és azt a rendvédelmi szerv kizárólag az ezen eljárás lefolytatására jogosult bíróságnak vagy hatóságnak adhatja át.
 
 (6) A technikai ellenőrzés során rögzített adatok legfeljebb a rögzítést követő harminc napig kezelhetőek, ezt követően – ha nem indul azok felhasználásával az (5) bekezdésben meghatározott eljárás – azokat törölni kell. Ha a rögzített adatok alapján az (5) bekezdésben meghatározott eljárás indul, úgy azok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 
@@ -2112,7 +2112,7 @@ besorolási kategóriába kell besorolni.
 
 (2) A fizetési fokozatban történő soros előresorolás esetén az új fizetési fokozatban a fizetési várakozási idő újraindul.
 
-(3) A nem vezetői beosztásból vezetői beosztásba első alkalommal történő kinevezéskor a hivatásos állomány tagját a vezetői besorolási kategória első fizetési fokozatába kell besorolni.
+(3) A nem vezetői beosztásból vezetői beosztásba első alkalommal történő kinevezéskor a hivatásos állomány tagját a vezetői besorolási kategória első fizetési fokozatába kell besorolni. Ha a besorolása a korábbi beosztásához képest alacsonyabb rendfokozatot vagy beosztási illetményt eredményezne, a hivatásos állomány tagját a második vezetői fizetési fokozatba kell besorolni és részére a korábbi rendfokozatának megfelelő rendfokozatot megállapítani, abban az esetben is, ha a 9. mellékletben az adott vezetői fizetési fokozathoz rendszeresített rendfokozat annál alacsonyabb.
 
 (4) A hivatásos állomány vezetői beosztást betöltő tagjának másik, alacsonyabb vagy azonos besorolású vezetői beosztásba helyezésekor fizetési fokozata nem változik, és az adott fizetési fokozatban már eltelt időtartamot továbbra is figyelembe kell venni.
 
@@ -2498,7 +2498,7 @@ munkanap pótszabadság illeti meg.
 
 145. § (1) Gyermeke születése esetén apasági szabadságként tíz munkanap pótszabadság illeti meg az apát, amelyet
 
-- a) legkésőbb a születést követő második hónap végéig,
+- a) legkésőbb a születést követő negyedik hónap végéig,
 - b) a kérésének megfelelő időpontban, és
 - c) legfeljebb két részletben
 
@@ -3743,9 +3743,9 @@ kezdődik.
 
 (2) Az árvák kiegészítő támogatásának a mértéke
 
-- a) hősi halott árvája esetében a megállapított árvaellátás 50%-a,
-- b) a hivatásos állomány szolgálati kötelmekkel összefüggő balesetben vagy szolgálati eredetű betegségben elhunyt tagjának árvája esetében a megállapított árvaellátás 25%-a, vagy
-- c) a hivatásos állomány elhunyt tagjának a) és b) pont hatálya alá nem tartozó árvája esetében a megállapított árvaellátás 10%-a.
+- a) hősi halott árvája esetében a megállapított árvaellátás 100%-a,
+- b) a hivatásos állomány szolgálati kötelmekkel összefüggő balesetben vagy szolgálati eredetű betegségben elhunyt tagjának árvája esetében a megállapított árvaellátás 50%-a, vagy
+- c) a hivatásos állomány elhunyt tagjának a) és b) pont hatálya alá nem tartozó árvája esetében a megállapított árvaellátás 20%-a.
 
 261/B. § (1) Az árvák kiegészítő támogatására és a kiegészítő hozzátartozói támogatásra való jogosultságról
 
@@ -4170,7 +4170,7 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 
 (11b) A terrorizmust elhárító szervnél foglalkoztatott munkavállaló munkaviszonyára a XXXI. Fejezet rendelkezései közül a 124/B. alcím rendelkezéseit alkalmazni kell.
 
-(12) Az általános rendőrségi feladatok ellátására létrehozott szerv az általa a nevelési-oktatási intézmények rendjének fenntartása érdekében foglalkoztatott munkavállalói (a továbbiakban: iskolaőr) vonatkozásában
+(12) Az általános rendőrségi feladatok ellátására létrehozott szerv az általa a nevelési-oktatási intézmény, a technikum, a szakképző iskola, a gyermekotthon, a napközbeni gyermekfelügyelet, a 18 év alatti személyek csoportos, többnapos táboroztatása, üdültetése és egyéb szabadidős foglalkoztatása (e § alkalmazásában a továbbiakban együtt: nevelési-oktatási intézmény) rendjének fenntartása érdekében foglalkoztatott munkavállalói (a továbbiakban: iskolaőr) vonatkozásában
 
 - a) hivatalból kiállítja, visszavonja, ideiglenesen bevonja, és nyilvántartja a szolgálati igazolványt,
 - b) kiadja a szolgálati jelvényt,
@@ -4185,12 +4185,22 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 
 (14) Iskolaőr az a cselekvőképes magyar állampolgár lehet, akinek a vonatkozásában nem áll fenn a (15) bekezdésben meghatározott foglalkoztatást kizáró ok.
 
-(15) Nem lehet iskolaőr, aki
+(15) Nem lehet iskolaőr,
 
-- a) a munka törvénykönyvéről szóló 2012. évi I. törvény 24/A. alcímében meghatározott, a munkaviszony létesítésére vonatkozó különös feltételeknek nem felel meg,
-- b) a rendvédelmi szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt áll.
+- a) aki a munka törvénykönyvéről szóló 2012. évi I. törvény 24/A. alcímében meghatározott, a munkaviszony létesítésére vonatkozó különös feltételeknek nem felel meg,
+- b) aki a rendvédelmi szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt áll,
+- c) akinek az életvitele nem kifogástalan.
 
-(16) A jogviszony létesítésekor a (15) bekezdés szerinti alkalmassági feltételeket az érintett igazolja.
+(15a) Az iskolaőr foglalkoztatási jogviszonyára a 29. alcím rendelkezéseit alkalmazni kell azzal az eltéréssel, hogy
+
+- a) hivatásos állományba jelentkezőn az iskolaőrnek jelentkezőt,
+- b) szolgálati viszonyon munkaviszonyt,
+- c) hivatásos állomány tagján az iskolaőrt,
+- d) állományilletékes parancsnokon a munkáltatói jogkör gyakorlóját
+
+kell érteni.
+
+(16) A jogviszony létesítésekor a (15) bekezdés a) és b) pontja szerinti alkalmassági feltételeket az érintett igazolja.
 
 (17) A (12) bekezdés g) pontja szerinti ellenőrzés során az általános rendőrségi feladatok ellátására létrehozott szerv a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult a (15) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni és kezelni.
 
@@ -4208,7 +4218,7 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 - a) megfelel az e törvényben és a végrehajtására kiadott jogszabályban meghatározott feltételeknek, valamint
 - b) teljesíti a jogszabályban meghatározott pszichológiai alkalmassági és fizikai állóképességi követelményeket.
 
-(22) Az iskolaőr a nevelési, oktatási intézményben az iskolaőri feladatok ellátását akkor kezdheti meg, ha – a munkáltató által meghatározott határidőn, de legfeljebb a munkaviszony létesítésétől számított kilencven napon belül – sikeres iskolaőri vizsgát tett
+(22) Az iskolaőr a nevelési-oktatási intézményben az iskolaőri feladatok ellátását akkor kezdheti meg, ha – a munkáltató által meghatározott határidőn, de legfeljebb a munkaviszony létesítésétől számított kilencven napon belül – sikeres iskolaőri vizsgát tett
 
 - a) a törvényben részére meghatározott intézkedések és kényszerítő eszközök alkalmazásával kapcsolatos elméleti ismeretekből, azok gyakorlati alkalmazásából,
 - b) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben, valamint a Büntető Törvénykönyvről szóló törvényben meghatározott rendelkezések ismeretéből, valamint
@@ -4222,6 +4232,8 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 
 (26) Az iskolaőr elméleti és gyakorlati felkészültségét, valamint fizikai állóképességét a rendőrség kétévente ellenőrzi.
 
+(26a) Az iskolaőr foglalkoztatási jogviszonyát a munkáltató haladéktalanul, azonnali hatállyal megszünteti, ha az iskolaőr életvitele nem kifogástalan. Ebben az esetben az iskolaőr végkielégítésre nem jogosult.
+
 (27) Az általános rendőrségi feladatok ellátására létrehozott szerv az iskolaőr szolgálati igazolványát haladéktalanul
 
 - a) visszavonja, ha
@@ -4233,7 +4245,7 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 
 (28) Ha a (27) bekezdés b) pontjában foglalt esetben a szolgálatellátás felfüggesztésének oka megszűnt, az általános rendőrségi feladatok ellátására létrehozott szerv a szolgálati igazolványt visszaadja.
 
-(29) Az általános rendőrségi feladatok ellátására létrehozott szerv a szolgálati igazolvány visszavonásának vagy bevonásának tényéről a szolgálatteljesítés helyéül kijelölt oktatási-nevelési intézményt haladéktalanul tájékoztatja.
+(29) Az általános rendőrségi feladatok ellátására létrehozott szerv a szolgálati igazolvány visszavonásának vagy bevonásának tényéről a szolgálatteljesítés helyéül kijelölt nevelési-oktatási intézményt haladéktalanul tájékoztatja.
 
 (30) Az iskolaőröket formaruhával és szolgálati jelvénnyel kell ellátni.
 
@@ -5318,7 +5330,7 @@ munkanap.
 
 (4) A vezetői pótszabadság mértéke:
 
-- a) beosztott vezetői munkakör esetében évente 10,
+- a) beosztott vezetői munkakör esetében évente 12,
 - b) középvezetői és kiemelt vezetői munkakör esetében évente 15
 
 munkanap.
@@ -5341,7 +5353,7 @@ munkanap pótszabadság jár.
 
 (10) Gyermeke születése esetén apasági szabadságként tíz, ikergyermekek esetén tizenöt munkanap pótszabadság illeti meg az apát, amelyet
 
-- a) legkésőbb a születést követő második hónap végéig,
+- a) legkésőbb a születést követő negyedik hónap végéig,
 - b) a kérésének megfelelő időpontban, és
 - c) legfeljebb két részletben
 
@@ -6650,7 +6662,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (3) A 369. § 2025. január 1-jén lép hatályba.
 
-(4) A 370. § 2025. január 1-jén lép hatályba.
+(4)
 
 344. § (1) 2015. július 1. napjától folyamatosnak tekintendő e törvény szerinti szolgálati viszonya annak, aki 2015. június 30-án az 1996. évi XLIII. törvény alapján hivatásos szolgálati jogviszonyban állt.
 
@@ -7128,6 +7140,8 @@ alakul át.
 
 #### 369. §
 
+#### 370. §
+
 371. § (1) A rendvédelmi szerv által ellátott hatósági hatáskör a kormányzati igazgatásról szóló törvény hatálya alá tartozó kormányzati igazgatási szervhez 2024. október 1-jén történő átkerülése esetén a hatósági hatáskört telepítő jogszabály kihirdetését követő 30 napon belül – a hatáskör átadásával kapcsolatos megállapodásban foglaltakra is figyelemmel –
 
 - a) a hivatásos katasztrófavédelmi szerv az 51. § (3a) bekezdésében meghatározott szolgálati beosztásban foglalkoztatott hivatásos szolgálati jogviszonyban álló tagját (a továbbiakban: érintett) tájékoztatja arról, hogy az általa ellátott feladat kormányzati igazgatási szervhez kerül átadásra,
@@ -7218,6 +7232,8 @@ alakul át.
 (16) A kártérítési, fegyelmi ügyekben, jogvitákban az eljárás megindulásakor hatályos szabályok alapján kell eljárni.
 
 373. § 2026. szeptember 30-ig terjedő időre az 51. § (3a) bekezdésétől és a 288. § (13) bekezdésétől eltérően a hivatásos katasztrófavédelmi szervnél foglalkoztatott, a hatósági feladatellátásra előírt végzettséggel rendelkező hivatásos szolgálati jogviszonyban, illetve rendvédelmi igazgatási jogviszonyban álló személy hatósági vezénylésére, illetve hatósági kirendelésére is sor kerülhet, ha a hivatásos katasztrófavédelmi szervtől a kormányzati igazgatási szervhez 2024. október 1-jén átkerülő hatáskör átadással érintett álláshely megüresedik és azt a hatáskört átvevő kormányzati igazgatási szerv a megüresedéstől számított 30 napon belül nem tudja betölteni. E szabályok szerinti hatósági vezénylésre és hatósági kirendelésre e törvény hatósági vezénylésre és hatósági kirendelésre vonatkozó szabályait és a 371–372. §-t megfelelően alkalmazni kell.
+
+374. § A 2025. január 1-jét megelőző időponttól megállapított árvák kiegészítő támogatását 2025. január 1-jétől – a Tny. 62. §-ában foglalt emelésen túl – a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel módosított 261/A. § (2) bekezdés a)–c) pontjának alapulvételével is meg kell emelni.
 
 ### 1. melléklet a 2015. évi XLII. törvényhez
 
@@ -7729,8 +7745,8 @@ A) Központi szerv vezetője és központi szerv vezetőjének helyettese
 |  | A | B | C |
 | --- | --- | --- | --- |
 | 1. | besorolási kategória | illetmény (Ft) | rendfokozat |
-| 2. | központi szerv vezetője | 1.500.000 – 1.900.000 | tábornok |
-| 3. | központi szerv vezetőjének helyettese | 1.300.000 – 1.650.000 | tábornok |
+| 2. | központi szerv vezetője | 1.500.000–2.500.000 | tábornok |
+| 3. | központi szerv vezetőjének helyettese | 1.300.000–2.100.000 | tábornok |
 
 B) Területi szerv vezetője
 
@@ -7789,77 +7805,74 @@ B) Területi szerv vezetője
 
 ### 12. melléklet a 2015. évi XLII. törvényhez
 
-Középfokú munkaköri osztályba tartozó munkakörökhöz tartozó munkaköri kategóriákhoz tartozó alapilletmények alsó és felső határai
+- 1. Középfokú munkaköri osztályba tartozó munkakörökhöz tartozó munkaköri kategóriákhoz tartozó alapilletmények alsó és felső határai
+- 1.1. „A” munkaköri kategória
 
-„A” munkaköri kategória
-
-|  | A) | B) |
+|  | A | B |
 | --- | --- | --- |
 | 1 | Alsó határ (Ft) | Felső határ (Ft) |
-| 2 | garantált bérminimum | 550 000 |
+| 2 | garantált bérminimum | 627 000 |
 
-„B” munkaköri kategória
+- 1.2. „B” munkaköri kategória
 
-|  | A) | B) |
+|  | A | B |
 | --- | --- | --- |
-| 1. | Alsó határ (Ft) | Felső határ (Ft) |
-| 2. | 350 000 | 620 000 |
+| 1 | Alsó határ (Ft) | Felső határ (Ft) |
+| 2 | 350 000 | 706 000 |
 
-Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+- 2. Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+- 2.1. „C” munkaköri kategória
 
-„C” munkaköri kategória
-
-|  | A) | B) | C) | D) | E) |
+|  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | garantált bérminimum | 465 000 |
-| 3. | 2 | 4 | 7 | garantált bérminimum | 496 000 |
-| 4. | 3 | 8 | 14 | garantált bérminimum | 528 000 |
-| 5. | 4 | 15 | 23 | garantált bérminimum | 554 000 |
-| 6. | 5 | 24 | 34 | 300 000 | 580 000 |
-| 7. | 6 | 35 |  | 325 000 | 612 000 |
+| 1 | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
+| 2 | 1 | 0 | 3 | garantált bérminimum | 530 000 |
+| 3 | 2 | 4 | 7 | garantált bérminimum | 565 000 |
+| 4 | 3 | 8 | 14 | garantált bérminimum | 601 000 |
+| 5 | 4 | 15 | 23 | garantált bérminimum | 631 000 |
+| 6 | 5 | 24 | 34 | garantált bérminimum | 661 000 |
+| 7 | 6 | 35 |  | garantált bérminimum | 697 000 |
 
-„D” munkaköri kategória
+- 2.2. „D” munkaköri kategória
 
-|  | A) | B) | C) | D) | E) |
+|  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | garantált bérminimum | 510 000 |
-| 3. | 2 | 4 | 7 | garantált bérminimum | 536 000 |
-| 4. | 3 | 8 | 14 | 300 000 | 552 000 |
-| 5. | 4 | 15 | 23 | 325 000 | 584 000 |
-| 6. | 5 | 24 | 34 | 340 000 | 615 000 |
-| 7. | 6 | 35 |  | 370 000 | 668 000 |
+| 1 | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
+| 2 | 1 | 0 | 3 | garantált bérminimum | 581 000 |
+| 3 | 2 | 4 | 7 | garantált bérminimum | 611 000 |
+| 4 | 3 | 8 | 14 | garantált bérminimum | 629 000 |
+| 5 | 4 | 15 | 23 | garantált bérminimum | 665 000 |
+| 6 | 5 | 24 | 34 | 340 000 | 701 000 |
+| 7 | 6 | 35 |  | 370 000 | 761 000 |
 
-„E” munkaköri kategória
+- 2.3. „E” munkaköri kategória
 
-|  | A) | B) | C) | D) | E) |
+|  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | garantált bérminimum | 546 000 |
-| 3. | 2 | 4 | 7 | 320 000 | 583 000 |
-| 4. | 3 | 8 | 14 | 350 000 | 620 000 |
-| 5. | 4 | 15 | 23 | 380 000 | 651 000 |
-| 6. | 5 | 24 | 34 | 410 000 | 688 000 |
-| 7. | 6 | 35 |  | 420 000 | 725 000 |
+| 1 | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti alapilletmény alsó határa (Ft) | A fizetési fokozat szerinti alapilletmény felső határa (Ft) |
+| 2 | 1 | 0 | 3 | garantált bérminimum | 622 000 |
+| 3 | 2 | 4 | 7 | garantált bérminimum | 664 000 |
+| 4 | 3 | 8 | 14 | 350 000 | 706 000 |
+| 5 | 4 | 15 | 23 | 380 000 | 742 000 |
+| 6 | 5 | 24 | 34 | 410 000 | 784 000 |
+| 7 | 6 | 35 |  | 420 000 | 826 000 |
 
-Felsőfokú tábla a felsőfokú végzettséget igénylő kiemelt munkaköri kategóriához tartozó alapilletmények alsó és felső határaihoz
+- 3. Felsőfokú tábla a felsőfokú végzettséget igénylő kiemelt munkaköri kategóriához tartozó alapilletmények alsó és felső határaihoz
+- 3.1. „F” munkaköri kategória
 
-„F” munkaköri kategória
-
-|  | A) | B) |
+|  | A | B |
 | --- | --- | --- |
-| 1. | Alsó határ (Ft) | Felső határ (Ft) |
-| 2. | 500 000 | - |
+| 1 | Alsó határ (Ft) | Felső határ (Ft) |
+| 2 | 500 000 | – |
 
-Vezetői munkaköri osztály
+- 3.2. Vezetői munkaköri osztály
 
-|  | A) | B) | C) |
+|  | A | B | C |
 | --- | --- | --- | --- |
 | 1 | A vezetői munkaköri kategória megnevezése | A vezetői munkaköri kategória szerinti alapilletmény alsó határa (Ft) | A vezetői munkaköri kategória szerinti alapilletmény felső határa (Ft) |
-| 2 | Főigazgató | 850 000 | 1 283 000 |
-| 3 | Igazgató, főosztályvezető | 530 000 | 1 022 000 |
-| 4 | Osztályvezető | 420 000 | 900 000 |
+| 2 | Főigazgató | 850 000 | 1 462 000 |
+| 3 | Igazgató, főosztályvezető | 530 000 | 1 165 000 |
+| 4 | Osztályvezető | 420 000 | 1 026 000 |
 
 ### 13. melléklet a 2015. évi XLII. törvényhez
 

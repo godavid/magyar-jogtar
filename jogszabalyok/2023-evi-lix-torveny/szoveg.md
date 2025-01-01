@@ -16,43 +16,19 @@ a következő törvényt alkotja:
 
 #### 1. Általános rendelkezések
 
-1. § (1) Hozzájárulás-köteles a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) szerinti légi személyszállítási tevékenység.
-
-(2) A hozzájárulással kapcsolatos hatósági feladatokat az állami adó- és vámhatóság látja el.
-
-(3) Az e törvényben nem szabályozott eljárási kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
-
-(4) A hozzájárulásból származó bevétel az államháztartás központi alrendszerének bevétele.
+#### 1. §
 
 #### 2. A hozzájárulás alanya, alapja, mértéke
 
-2. § (1) A hozzájárulás fizetésére kötelezett az az Lt. szerinti földi kiszolgálást végző gazdálkodó szervezet, amely az utas- és poggyászkezelési tevékenységet látja el.
-
-(2) A hozzájárulás alapja az 1. § (1) bekezdése szerinti légi személyszállítási tevékenység keretében, az (1) bekezdés szerinti földi kiszolgálást végző gazdálkodó szervezet által kiszolgált légi jármű belföldről induló utasainak száma, a tranzitutasokat kivéve.
-
-(3) A hozzájárulás mértéke
-
-- a) ha az utas végső úti célja az Albán Köztársaság, az Andorrai Fejedelemség, Bosznia-Hercegovina, az Észak-macedón Köztársaság, Izrael Állam, az Izlandi Köztársaság, a Koszovói Köztársaság, a Liechtensteini Fejedelemség, a Moldovai Köztársaság, a Monacói Hercegség, Montenegró, Nagy-Britannia és Észak-Írország Egyesült Királysága, a Norvég Királyság, San Marino Köztársaság, a Svájci Államszövetség, Szerbia Köztársaság, a Török Köztársaság, Ukrajna és az Európai Unió területén található,
-- b) az a) pontban meghatározottakon kívüli országokba végső úti céllal repülő utasonként
-  - ba) 10,50 kilogrammnál alacsonyabb 3. § (1) bekezdése szerinti egy ülésre jutó kibocsátási értékkel rendelkező légi jármű esetén 3900 forint,
-  - bb) 10,50 kilogramm vagy annál magasabb és 17,50 kilogrammnál alacsonyabb 3. § (1) bekezdése szerinti egy ülésre jutó kibocsátási értékkel rendelkező légi jármű esetén 9750 forint,
-  - bc) 17,50 kilogramm vagy annál magasabb 3. § (1) bekezdése szerinti egy ülésre jutó kibocsátási értékkel rendelkező légi jármű esetén 15 600 forint.
+#### 2. §
 
 #### 3. Adatszolgáltatás
 
-3. § (1) A 2. § (2) bekezdése szerinti légi járművet üzemeltető légitársaság a tárgyhót követő hónap 5. napjáig elkülöníthető és beazonosítható módon megküldi a 2. § (1) bekezdése szerinti földi kiszolgálást végző gazdálkodó szervezetnek az adott hónapban üzemeltetett valamennyi érintett légi járműve vonatkozásában a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) hajtómű-kibocsátási adatbázisában (ICAO Engine Emissions Databank) meghatározott fel- és leszállási ciklusban átlagosan elégetett üzemanyag mértékének, a hajtóművek számának és a kibocsátási érték (3,16) szorzatának egy ülésre jutó értékét.
-
-(2) Ha a 2. § (2) bekezdés szerinti légi járművet üzemeltető légitársaság az (1) bekezdés szerinti adatszolgáltatási kötelezettségét nem teljesíti, akkor a hozzájárulást az utas végső úti céljától függően a 2. § (3) bekezdés a) pont ac) alpontja vagy a 2. § (3) bekezdés b) pont bc) alpontja szerinti mértékkel kell megállapítani.
+#### 3. §
 
 #### 4. A hozzájárulás megállapítása, bevallása
 
-4. § (1) A hozzájárulást azon induló utasok száma után kell az önadózás szabályai szerint megállapítani és a (3) bekezdés szerint bevallani, akik esetében az indulás időpontja a (3) bekezdés szerinti bevallási időszakra esik.
-
-(2) A hozzájárulás fizetésére kötelezett a hozzájárulás alapjának megállapítására alkalmas nyilvántartást vezet.
-
-(3) A hozzájárulás fizetésére kötelezett bevallási kötelezettségét a tárgyhót követő hónap 20. napjáig teljesíti az állami adó- és vámhatóság e célra rendszeresített elektronikus nyomtatványán.
-
-(4) A hozzájárulás fizetésére kötelezett a hozzájárulást a bevallás benyújtására előírt határnapig fizeti meg.
+#### 4. §
 
 ### II. Fejezet — A JÖVEDELEMADÓZÁST ÉRINTŐ TÖRVÉNYEK MÓDOSÍTÁSA
 
@@ -534,17 +510,55 @@ a következő törvényt alkotja:
 
 #### 30. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-#### 206. §
+206. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) a következő 23/A. §-sal egészül ki:
 
-#### 207. §
+„23/A. § (1) A kamarai tag könyvvizsgáló köteles a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során kiadott független könyvvizsgálói jelentését elektronikus okiratban kiállítani és azt elektronikusan aláírni, valamint időbélyegzővel ellátni, amelyhez a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti minősített elektronikus aláírást vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírást kell használni (a továbbiakban együtt: elektronikus aláírás).
+
+(2) A kamara a kamarai tag könyvvizsgáló elektronikus aláírásáról nyilvántartást vezet, és köteles azt naprakészen tartani.
+
+(3) A Dáptv. szerinti bizalmi szolgáltató a kamarai tag könyvvizsgáló elektronikus aláírásának kibocsátásáról, valamint annak visszavonásáról haladéktalanul adatot szolgáltat a kamarának.
+
+(4) A kamarai tag könyvvizsgáló az elektronikus aláírással kapcsolatos változásokat haladéktalanul bejelenti a kamara részére.
+
+(5) A kamarai tag könyvvizsgáló kizárólag jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége, vagy az azon kívüli egyéb szakmai szolgáltatások nyújtása során használhatja az elektronikus aláírást. A kamarai tag könyvvizsgáló nem használhatja az elektronikus aláírást és haladéktalanul köteles gondoskodni annak megszüntetéséről, ha
+
+- a) kamarai tagsága megszűnt, illetve a kamarai nyilvántartásból törölték,
+- b) 26. § alapján a könyvvizsgálói tevékenységét szünetelteti,
+- c) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás alatt áll,
+- d) az elektronikus aláírás létrehozásához használható adat elvesztéséről, vagy arról szerzett tudomást, hogy az elektronikus aláírás létrehozására illetéktelen személy vált képessé.
+
+(6) A kamara az elektronikus aláírásra vonatkozó további részletes szabályokat a független könyvvizsgálói jelentés elektronikus okiratban történő kiállításáról és az ahhoz szükséges elektronikus aláírás alkalmazásáról szóló szabályzatában határozza meg.”
+
+207. § A Kkt. 33. § (1) bekezdése a következő t) ponttal egészül ki:
+
+(A kamarai tag könyvvizsgálók nyilvántartása – az egyes kamarai tagokra vonatkozóan – a következő adatokat tartalmazza:)
+
+„t) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.”
 
 #### 208. §
 
-#### 209. §
+209. § A Kkt. A könyvvizsgáló cég kötelességei alcíme a következő 40/C. §-sal egészül ki:
 
-#### 210. §
+„40/C. § (1) A könyvvizsgáló cég képviseletére jogosult személy köteles a kamarai tag könyvvizsgáló által jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során kibocsátott és a 23/A. § szerint elektronikusan aláírt független könyvvizsgálói jelentést elektronikusan aláírni, valamint időbélyegzővel ellátni.
 
-#### 211. §
+(2) A könyvvizsgáló cég képviseletében eljáró személy elektronikus aláírásával összefüggésben a 23/A. § szerinti kamarai tag könyvvizsgálóra vonatkozó elektronikus aláírással kapcsolatos előírásokat kell alkalmazni.”
+
+210. § A Kkt. 44. § (1) bekezdése a következő s) ponttal egészül ki:
+
+(A könyvvizsgáló cégek nyilvántartása – az egyes könyvvizsgáló cégekre vonatkozóan – a következő adatokat tartalmazza:)
+
+„s) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.”
+
+211. § A Kkt. Általános szabályok alcíme a következő 48/A. §-sal egészül ki:
+
+„48/A. § (1) A kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég, a könyvvizsgálat során keletkezett könyvvizsgálati dokumentációt köteles elektronikusan archiválni és a dokumentumokat az archiválást követően legalább 8 évig megőrizni.
+
+(2) Az (1) bekezdés szerinti kötelezettség teljesítése során a kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég
+
+- a) a digitális archiválás szabályairól szóló jogszabály és
+- b) a papíralapú dokumentumokról elektronikus úton történő másolat készítésének szabályairól szóló jogszabály
+
+előírásai szerint jár el.”
 
 #### 212. §
 
@@ -552,12 +566,16 @@ a következő törvényt alkotja:
 
 #### 214. §
 
-#### 215. §
+215. § A Kkt. Átmeneti rendelkezések alcíme a következő 208/P. és 208/Q. §-sal egészül ki:
+
+„208/P. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 23/A. §-át, valamint 40/C. §-át a 2025. üzleti évi beszámolókra vonatkozó könyvvizsgálói jelentések elkészítése során kell először alkalmazni.
+
+208/Q. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 48/A. §-át a 2025. üzleti évi beszámolók könyvvizsgálati dokumentációinak archiválása és megőrzése során kell először alkalmazni.”
 
 216. § A Kkt.
 
 - 1.
-- 2.
+- 2. 33. § (4) bekezdésében a „p) és q) pontjában” szövegrész helyébe a „p), q) és t) pontjában” szöveg,
 - 3.
 - 4.
 - 5.
@@ -569,7 +587,7 @@ lép.
 - 1.
 - 2.
 - 3.
-- 4.
+- 4. 21/A. §-a,
 - 5.
 - 6.
 - 7.

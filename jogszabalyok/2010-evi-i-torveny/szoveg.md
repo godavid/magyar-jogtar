@@ -1494,8 +1494,10 @@ foglalt adatait tartja nyilván.
 - a) a bíróság az előtte folyamatban lévő eljárásban részt vevő személyek személyazonosságának, valamint a családi kapcsolatok fennállásának megállapítása, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése céljából,
 - b) a nyomozó hatóság a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - c) az ügyészség az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
-- d) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból.
+- d) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, továbbá, a titkos információgyűjtés, valamint előkészítő eljárás végrehajtása céljából.
+- e) a kormányablak az előtte folyamatban lévő eljárásban részt vevő személyek személyi adatainak ellenőrzése, valamint a családi kapcsolatok fennállásának megállapítása, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése céljából,
+- f) a gyámhatóság a jogszabályban meghatározott feladatainak ellátása céljából.
 
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból és alapiratokból.
 
@@ -1532,6 +1534,10 @@ foglalt adatait tartja nyilván.
 - g) a családtámogatási szerv az anyasági támogatás megállapítása iránti eljárás lefolytatása céljából.
 - h) a mezőgazdasági igazgatási szerv a támogatások igénybevételének hozzátartozói minőségre vonatkozó feltételei fennállásának ellenőrzése során a gyermek és szülő, valamint a házastársak vagy bejegyzett élettársak közötti közeli hozzátartozói viszony megállapítása céljából.
 - i) az ingatlanügyi hatóság a földhasználati nyilvántartásból való törlés iránti eljárásban a gyermek és szülő, valamint a házastársak vagy bejegyzett élettársak közötti közeli hozzátartozói viszony megszűnésének megállapítása céljából.
+- j) a pártfogó felügyelői szolgálat a pártfogó felügyelet végrehajtása céljából,
+- k) a Kormány által a lakáscélú állami támogatásokkal kapcsolatos feladatok ellátására kijelölt szerv a lakáscélú állami támogatásokkal kapcsolatos eljárások lefolytatása céljából,
+- l) az állami foglalkoztatási szerv a foglalkoztatási és közfoglalkoztatási adatbázis vezetésével összefüggő feladatai ellátása céljából,
+- m) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásának lefolytatása céljából.
 
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 

@@ -1133,7 +1133,7 @@ nyújtásában.
 
 (4) A regisztráció megszüntetését a regisztráló és a regisztrált személy bármikor kezdeményezheti. A NAVÜ ebben az esetben a megszüntetés iránti igény kézhezvételétől számított öt munkanapon belül a regisztrációt megszünteti és a (3) bekezdés szerinti személyes adatokat törli.
 
-(5) Az adathasznosítás-támogatási szolgáltatások nyújtóira, valamint a szolgáltatás nyújtásához igénybe vett informatikai rendszerekre az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) előírásait kell alkalmazni abban az esetben is, ha a szolgáltató nem tartozik az Ibtv. hatálya alá.
+(5) Az adathasznosítás-támogatási szolgáltatások nyújtóira, valamint a szolgáltatás nyújtásához igénybe vett informatikai rendszerekre a Magyarország kiberbiztonságáról szóló törvény előírásait kell alkalmazni abban az esetben is, ha a szolgáltató nem tartozik az a Magyarország kiberbiztonságáról szóló törvény hatálya alá.
 
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

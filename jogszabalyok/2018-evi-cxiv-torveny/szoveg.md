@@ -835,7 +835,7 @@ alapszabadság illeti meg.
 
 (5) A honvédelmi szervezetek köznevelési feladatot ellátó szervezeti egységénél pedagógus-munkakörben foglalkoztatott honvédelmi alkalmazottakat évi huszonöt munkanap pótszabadság illeti meg. A pótszabadságból legfeljebb tizenöt munkanapot vehet igénybe a munkáltató az oktatással összefüggő feladatok ellátására.
 
-55. § Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a honvédelmi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
+55. § Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a honvédelmi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 56. § A férjnek és a feleségnek a házasságkötést követően öt munkanap pótszabadság jár, feltéve, hogy legalább az egyik házastárs első házasságát kötötte. Ezt a pótszabadságot az igénybe vevő kérésének megfelelően a házasságkötés napját követő 365 napon belül kell kiadni.
 

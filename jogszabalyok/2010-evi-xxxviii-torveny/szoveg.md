@@ -92,7 +92,7 @@ szerinti közjegyző illetékes.
 
 9. § (1) A hagyatéki eljárásban a képviselőként fellépő személy képviseleti jogosultságát hivatalból kell vizsgálni.
 
-(2) Az eljárásban a jogi képviselet nem kötelező.
+(2) Az eljárásban a jogi képviselet nem kötelező. Ha az eljárás során a fél jogi képviselővel jár el, az a Pp. 244. §-ának alkalmazása szempontjából nem minősül a jogi képviselővel történő eljárás választásának.
 
 10. § Az eljárásban az ügy érdemében is végzéssel kell határozni.
 
@@ -764,11 +764,11 @@ tárgyában bírósági vagy hatósági eljárás van folyamatban, vagy
 
 75. § (1) A hagyatéki eljárás költségeinek megfizetésére megfelelő határidőt kell tűzni, amely az eljárást befejező végzés jogerőre emelkedésétől számított 15 napnál későbbi nem lehet.
 
-(2) A meg nem fizetett közjegyzői díjazás erejéig a hagyatékon a közjegyzőt törvényes zálogjog illeti meg.
+(2) A meg nem fizetett közjegyzői díjazás és járulékai erejéig – ideértve az igényérvényesítés költségeit is – a hagyatékon a közjegyzőt törvényes zálogjog és elidegenítési és terhelési tilalom illeti meg.
 
-(3) A törvényes zálogjog létrejöttét a közjegyző – a zálogjoggal biztosított követelés meghatározását is magában foglaló – végzéssel állapítja meg.
+(3) A törvényes zálogjog és az elidegenítési és terhelési tilalom létrejöttét a közjegyző – a zálogjoggal biztosított követelés meghatározását is magában foglaló – végzéssel állapítja meg.
 
-(4) A közjegyzőt megillető törvényes zálogjogot a megfelelő nyilvántartásba a közjegyző (3) bekezdés szerinti jogerős végzése alapján a megkeresésben megjelölt hagyatéki vagyontárgyra vonatkozóan a közjegyző megkeresésére jelzálogjogként kell bejegyezni, ehhez a zálogkötelezett bejegyzési engedélye, illetve a bejegyzéshez hozzájáruló zálogjogi nyilatkozata nem szükséges.
+(4) A közjegyzőt megillető törvényes zálogjogot a megfelelő nyilvántartásba a közjegyző (3) bekezdés szerinti jogerős végzése alapján a megkeresésben megjelölt hagyatéki vagyontárgyra vonatkozóan a közjegyző megkeresésére jelzálogjogként kell bejegyezni, ehhez a zálogkötelezett bejegyzési engedélye, illetve a bejegyzéshez hozzájáruló zálogjogi nyilatkozata nem szükséges. Az elidegenítési és terhelési tilalom bejegyzéséhez a tulajdonos bejegyzési engedélye nem szükséges.
 
 (5) Arra alkalmas hagyatéki vagyontárgyon a törvényes zálogjog a közjegyző (3) bekezdés szerinti végzése és megkeresése alapján a zálogkötelezett hozzájárulása nélkül óvadékként is létrejöhet.
 
@@ -1315,7 +1315,7 @@ végzés ellen.
 
 (2) A jegyző és a közjegyző az örökhagyó gondnokság alatt állásának megállapítása és az erről rendelkezésére álló adat ellenőrzése céljából arra vonatkozóan igényelhet adatot a gondnokoltak nyilvántartásából, hogy abban az örökhagyó szerepel-e és ki a gondnoka (név, cím, egyéb elérhetőség).
 
-(3) A jegyző és a közjegyző az örökhagyó vagyonának megállapítása és a rendelkezésre álló adatok ellenőrzése céljából adatot igényelhet a számítógépes ingatlan-nyilvántartási rendszerből közvetlenül, az egyedi azonosító jellel ellátott (lajstromozott) vagyontárgyak nyilvántartásából és a zálogjogi, valamint a hitelbiztosítéki nyilvántartásból.
+(3) A jegyző és a közjegyző az örökhagyó vagyonának megállapítása és a rendelkezésre álló adatok ellenőrzése céljából adatot igényelhet a számítógépes ingatlan-nyilvántartási rendszerből közvetlenül, az egyedi azonosító jellel ellátott (lajstromozott) vagyontárgyak nyilvántartásából, a járműnyilvántartásból és a zálogjogi, valamint a hitelbiztosítéki nyilvántartásból.
 
 (4) A jegyző és a közjegyző az ismert vagy ismeretlen öröklésben érdekelt e törvény szerint kezelhető adatainak megállapítása és az ezekről rendelkezésére álló adatok ellenőrzése céljából adatot igényelhet a személyiadat- és lakcímnyilvántartásból, valamint az anyakönyvből.
 

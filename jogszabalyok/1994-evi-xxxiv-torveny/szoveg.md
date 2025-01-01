@@ -35,7 +35,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
   - c) megakadályozza, hogy magánszemélyek, csoportok, szervezetek terrorszervezet működését anyagi források biztosításával vagy más módon elősegítsék.
 - 16. elvégzi a részére törvényben vagy kormányrendeletben megállapított, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat, valamint
 - 17. részt vesz az Egyesült Nemzetek Szervezete, az Európai Unió, az Európai Biztonsági és Együttműködési Szervezet, az Észak-atlanti Szerződés Szervezete keretében szervezett, vagy nemzetközi szerződés alapján a béketámogató és polgári válságkezelési feladatokban,
-- 18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában,
+- 18. a fenntartó kezdeményezésére közreműködik a nevelési-oktatási intézmény, a technikum, szakképző iskola, a gyermekotthon, a 10/A. § (1) bekezdés d) pontja szerinti napközbeni gyermekfelügyelet, a nevelési-oktatási intézmény, technikum vagy szakképző iskola által szervezett foglalkozás, valamint 18 év alatti személyek csoportos, többnapos táboroztatása, üdültetése és egyéb szabadidős foglalkoztatása rendjének fenntartásában,
 - 19. ellátja a segélyhívó számokra érkező hívások, illetve egyéb jelzések fogadásából eredő feladatokat,
 - 20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.
 - 21. biztosítja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 35. cikk (1) bekezdésében meghatározott hatásszinteknek megfelelő határellenőrzést.
@@ -170,7 +170,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (13) Az Ügynökség igazgatótanácsának Magyarország képviseletét ellátó tagját és póttagját az országos rendőrfőkapitány jelöli ki.
 
-6/A. § Az általános rendőrségi feladatok ellátására létrehozott szerv az 1. § (2) bekezdés 10–11. és 13. pontjában meghatározott feladatok ellátásáról a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti, szerződéses határvadász jogviszonyban foglalkoztatott tagja (a továbbiakban: határvadász) útján is gondoskodhat.
+6/A. § Az általános rendőrségi feladatok ellátására létrehozott szerv az 1. § (2) bekezdés 10–11. és 13. pontjában meghatározott feladatok, valamint az 1. § (2) bekezdés 6a. pontjában meghatározott létesítménybiztosítási feladatok ellátásáról a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti, szerződéses határvadász jogviszonyban foglalkoztatott tagja (a továbbiakban: határvadász) útján is gondoskodhat.
 
 6/B. § (1) A határvadász az e törvény szerinti feladatai ellátása során
 
@@ -271,10 +271,10 @@ foglalkoztatott.
 
 (2) A megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja a következők szerint végezheti:
 
-- a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, tiltott határátlépés szabálysértést, határrendészeti szabálysértést, gyógyszerrendészeti szabálysértést, segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértést, büntetés-végrehajtási intézet rendjének megzavarása szabálysértést, fertőző betegség elleni védekezés elmulasztása szabálysértést, védelmi intézkedés megszegése szabálysértést, engedély nélküli vezetés szabálysértést, érvénytelen hatósági engedéllyel vagy jelzéssel való közlekedés szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
+- a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, tiltott határátlépés szabálysértést, határrendészeti szabálysértést, gyógyszerrendészeti szabálysértést, segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértést, büntetés-végrehajtási intézet rendjének megzavarása szabálysértést, fertőző betegség elleni védekezés elmulasztása szabálysértést, védelmi intézkedés megszegése szabálysértést, engedély nélküli vezetés szabálysértést, érvénytelen hatósági engedéllyel vagy jelzéssel való közlekedés szabálysértést, a légiközlekedés biztonságát és védelmét szolgáló szabályok megszegése szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
 - b) nem követhet el
   - ba) az 1978. évi IV. törvény X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés (1978. évi IV. törvény 176. §) kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés (1978. évi IV. törvény 225. §), a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése (1978. évi IV. törvény 296. §), valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (1978. évi IV. törvény 329/A. §) kivételével –, XIX. fejezetében és XX. fejezetében meghatározott bűncselekményt,
-  - bb) a Btk.-ban meghatározott bűncselekményt, a kábítószer-kereskedelem (Btk. 176. §), a kábítószer birtoklás (Btk. 178–180. §), a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § és 269. § a) pont], a hatóság félrevezetése [Btk. 271. § (1) és (2) bekezdés], a hamis tanúzás (Btk. 272. §), a hivatali visszaélés (Btk. 305. §), a lopás (Btk. 370. §), a sikkasztás (Btk. 372. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
+  - bb) a Btk.-ban meghatározott bűncselekményt, a kábítószer-kereskedelem (Btk. 176. §), a kábítószer birtoklás (Btk. 178–180. §), a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), emberkereskedelem és kényszermunka (Btk. 192. §), kerítés, (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), gyermekpornográfia (Btk. 204. §), a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § és 269. § a) pont], a hatóság félrevezetése [Btk. 271. § (1) és (2) bekezdés], a hamis tanúzás (Btk. 272. §), a hivatali visszaélés (Btk. 305. §), a lopás (Btk. 370. §), a sikkasztás (Btk. 372. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
 - c) elkövetheti a jövedéki adóról szóló törvény szerinti szabálytalanságot, illetve megsértheti a jövedéki adóról szóló törvény szerinti kötelezettséget,
 - d) elkövetheti a környezetvédelmi termékdíj-kötelezettségi szabályok megsértését, a fémkereskedő fémkereskedelmi tevékenységével, fémkereskedelmi engedélyköteles anyagok más személy általi értékesítésével, szállításával, fuvarozásával, raktározásával, tárolásával, hasznosításával összefüggő szabályok megsértését, az elektronikus közúti áruforgalom ellenőrző rendszerbe a közúti fuvarozáshoz kapcsolódó bejelentési kötelezettséghez kötődő szabályok megsértését, költségvetési vagy egyéb pénzeszközök, állami támogatások felhasználásával összefüggésben adózási bejelentési, bevallási, megfizetési kötelezettségek, számviteli renddel kapcsolatos kötelezettségek megsértését.
 
@@ -439,23 +439,32 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 
 (4) Ha a települési önkormányzat képviselő-testülete a saját szervezetén belül közbiztonsági ügyekkel foglalkozó bizottságot hoz létre, a rendőrkapitány, a fővárosi önkormányzat esetében a rendőrfőkapitány, a bizottság munkáját — a titok- és az adatvédelemre vonatkozó rendelkezések figyelembevételével — a feladatai ellátásához szükséges tájékoztatás megadásával köteles elősegíteni.
 
-10/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv a nevelési-oktatási intézmények rendjének fenntartását – a nevelési, oktatási intézmény területén tanítási időben – iskolaőrség útján biztosíthatja.
+10/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv
 
-(2) Az iskolaőrséget az érintett nevelési-oktatási intézmény igényeinek megfelelően úgy kell megszervezni, hogy az biztosítsa az adott nevelési-oktatási intézmény pedagógusai, a nevelő és oktató munkát közvetlenül segítő alkalmazottai, illetve oktatói nemzeti köznevelésről szóló törvényben, illetve szakképzésről szóló törvényben meghatározott feladatainak zavartalan ellátását, a sérelmükre elkövetett jogellenes cselekmények megelőzését.
+- a) a nevelési-oktatási intézmény,
+- b) a technikum, szakképző iskola [az a) és b) pontban foglaltak a továbbiakban együtt: nevelési-oktatási intézmény],
+- c) a gyermekotthon,
+- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 44/B. § (1) bekezdés e) pontja szerint nyújtott napközbeni gyermekfelügyelet (a továbbiakban: napközbeni gyermekfelügyelet), ha a szolgáltatás nyújtására nem a szolgáltatást nyújtó vagy a szülő, törvényes képviselő otthonában kerül sor,
+- e) a nevelési-oktatási intézmény által szervezett foglalkozás, valamint
+- f) a 18 év alatti személyek csoportos, többnapos táboroztatása, üdültetése és egyéb szabadidős foglalkoztatása (a továbbiakban együtt: táboroztatás)
 
-(3) Az iskolaőr a nevelési-oktatási intézmények rendjének fenntartásával össze nem függő kérdésben nem tehet javaslatot, és nem hozhat döntést.
+rendjének fenntartását – a nevelési-oktatási intézmény és a gyermekotthon területén, továbbá a napközbeni gyermekfelügyelet és a nevelési-oktatási intézmény által szervezett foglalkozás helyszínén – iskolaőrség útján biztosíthatja.
+
+(2) Az iskolaőrséget az érintett nevelési-oktatási intézmény, a gyermekotthon vagy a napközbeni gyermekfelügyelet szolgáltatásnyújtója igényeinek megfelelően úgy kell megszervezni, hogy az biztosítsa a nevelési-oktatási intézmény, a gyermekotthon alkalmazottai, valamint a napközbeni gyermekfelügyelet szolgáltatásnyújtója törvényben meghatározott feladatainak zavartalan ellátását, a sérelmükre elkövetett jogellenes cselekmények megelőzését.
+
+(3) Az iskolaőr a rend fenntartásával össze nem függő kérdésben nem tehet javaslatot és nem hozhat döntést.
 
 (4) Az iskolaőr az e törvényben meghatározott feladatokat ellátó, kényszerítő eszközzel rendelkező, sajátos jogokkal felruházott személy, aki az általános rendőrségi feladatok ellátására létrehozott szervvel munkaviszonyban áll.
 
-(5) Az iskolaőr a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül, az e törvény szerinti intézkedési és kényszerítőeszköz-használati jogosultság kizárólag az őrutasításban szereplő feladatok ellátása során, a nevelési, oktatási intézmény területén illeti meg.
+(5) Az iskolaőr a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül, az e törvény szerinti intézkedési és kényszerítőeszköz-használati jogosultság kizárólag az őrutasításban szereplő feladatok ellátása során, a nevelési-oktatási intézmény, a gyermekotthon, a napközbeni gyermekfelügyelet, a táboroztatás területén illeti meg.
 
-10/B. § Az általános rendőrségi feladatok ellátására létrehozott szerv a nevelési-oktatási intézménnyel együttműködési megállapodást köt, amely tartalmazza különösen
+10/B. § Az általános rendőrségi feladatok ellátására létrehozott szerv a nevelési-oktatási intézménnyel, a gyermekotthonnal, a napközbeni gyermekfelügyelet szolgáltatásnyújtójával, a táboroztatóval együttműködési megállapodást köt, amely tartalmazza különösen
 
 - a) az iskolaőr részére a feladatai ellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket,
 - b) az ellátandó feladatokról nyújtandó tájékoztatás módját és tartalmát,
 - c) a kapcsolattartás módját, az együttműködéssel kapcsolatban eljárásra jogosult rendőri szervet,
 - d) az együttműködést segítő további rendelkezéseket, valamint
-- e) a nevelési-oktatási intézmény elkötelezettségét tartalmazó nyilatkozatot az együttműködési megállapodásban foglaltak betartására vonatkozóan.
+- e) a nevelési-oktatási intézmény, a gyermekotthon, a napközbeni gyermekfelügyelet szolgáltatásnyújtója, a táboroztató elkötelezettségét tartalmazó nyilatkozatot az együttműködési megállapodásban foglaltak betartására vonatkozóan.
 
 10/C. § (1) Az iskolaőr az e törvény szerinti feladatai ellátása során jogosult
 
@@ -467,7 +476,7 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
   - ea) megtenni a veszélyhelyzet elhárításához, megszüntetéséhez haladéktalanul szükséges intézkedéseket,
   - eb) intézkedni az önmagát vagy mást veszélyeztető állapotban lévő személy orvosi vizsgálatára, és közreműködni az egészségügyi intézetbe történő szállítatásában,
   - ec) intézkedni az öngyilkosság lehetőség szerinti megakadályozására,
-  - ed) a nevelési, oktatási intézmény területét lezárni, és megakadályozni, hogy oda bárki belépjen, vagy onnan távozzék.
+  - ed) a nevelési-oktatási intézmény, a gyermekotthon, a napközbeni gyermekfelügyelet, a táboroztatás területét lezárni, és megakadályozni, hogy oda bárki belépjen, vagy onnan távozzék.
 
 (2) Az iskolaőr a biztonságot sértő vagy veszélyeztető tevékenység megszakítása érdekében, az azt elkövető személlyel szemben, illetve tettenérés esetén az arányosság követelményének betartásával:
 
@@ -806,7 +815,7 @@ igazolja.
 
 ### Kiemelt biztonsági intézkedés
 
-37/A. § (1) Magyarország területén olyan terrorcselekmény elkövetése vagy előkészülete esetén, amely alkalmas a közrend és a nemzetgazdaság vagy a létfontosságú rendszerelem működésének súlyos megzavarására, és a lakosság élet- és vagyonbiztonságát közvetlenül és súlyosan veszélyezteti, a rendőrség a terrorcselekmény megelőzése, félbeszakítása, következményeinek elhárítása és az elkövetők elfogása érdekében külön-külön és együttesen is alkalmazhatja a következő intézkedéseket a terrorcselekmény hatásterületén:
+37/A. § (1) Magyarország területén olyan terrorcselekmény elkövetése vagy előkészülete esetén, amely alkalmas a közrend és a nemzetgazdaság vagy a kritikus infrastruktúra működésének vagy az alapvető szolgáltatás nyújtásának súlyos megzavarására, és a lakosság élet- és vagyonbiztonságát közvetlenül és súlyosan veszélyezteti, a rendőrség a terrorcselekmény megelőzése, félbeszakítása, következményeinek elhárítása és az elkövetők elfogása érdekében külön-külön és együttesen is alkalmazhatja a következő intézkedéseket a terrorcselekmény hatásterületén:
 
 - a) az oda belépőket vagy az ott tartózkodókat igazoltathatja,
 - b) az oda belépők vagy az ott tartózkodók ruházatát a 31. §-ban meghatározottak szerint átvizsgálhatja,
@@ -1089,7 +1098,7 @@ igényelhet adatot.
 
 (3) A rendőr az intézkedésről haladéktalanul értesíti a figyelmeztető jelzés elhelyezését elrendelő szervet, külföldi figyelmeztető jelzés esetén a SIRENE Irodát.
 
-(4) A rendőr megakadályozza, hogy Magyarország területét elhagyja az a személy, akivel szemben az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja alapján áldozattá válás kockázata miatt utazás megakadályozásával járó külföldi figyelmeztető jelzés van érvényben.
+(4) A rendőr megakadályozza, hogy Magyarország területét elhagyja az a személy, akivel szemben az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja alapján áldozattá válás kockázata miatt utazás megakadályozásával járó figyelmeztető jelzés van érvényben.
 
 (5) A rendőr a (4) bekezdés szerinti intézkedésről haladéktalanul értesíti a SIRENE Irodát, szükség esetén intézkedik az érintett személy védelem alá helyezéséről.
 
@@ -1110,6 +1119,80 @@ igényelhet adatot.
 (2) A jóváhagyást követően a Nemzetközi Bűnügyi Együttműködési Központ, vagy a terrorizmust elhárító szerv információs figyelmeztető jelzést helyez el a Schengeni Információs Rendszerben olyan harmadik országbeli állampolgárral szemben, aki vonatkozásában az Europol erre javaslatot tett harmadik országoktól vagy nemzetközi szervezetektől kapott információ alapján terrorista vagy súlyos bűncselekménynek minősülő bűncselekményben való érintettség miatt.
 
 (3) Ha a rendőr az e fejezetben meghatározott intézkedése során megállapítja, hogy az intézkedéssel érintett személy azonos a Schengeni Információs Rendszerben elhelyezett információs figyelmeztető jelzés szerinti harmadik országbeli állampolgárral, rögzíti a rendőri intézkedés megtörténtének tényét és az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 37b. cikk (1) bekezdése szerinti adatokat, valamint az e fejezetben meghatározott intézkedéseket foganatosíthatja.
+
+### A súlyos bűncselekmény áldozatává vagy elkövetőjévé válás veszélyével érintett gyermekek és különleges bánásmódot igénylő nagykorú személyek vonatkozásában szükséges, utazás megakadályozásának lehetőségével járó figyelmeztető jelzés elhelyezése
+
+46/M. § (1) A rendőrség az e törvényben meghatározott bűnmegelőzési feladatai ellátása céljából a (3) bekezdésben meghatározott személyek bejelentése alapján az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja szerinti figyelmeztető jelzés (a továbbiakban: az áldozattá válás kockázatára utaló figyelmeztető jelzés) elhelyezését rendelheti el a Schengeni Információs Rendszerben
+
+- a) arra a tizennyolc év alatti személyre, akinek esetében fennáll a (2) bekezdésben foglalt súlyos bűncselekmény áldozatává vagy elkövetőjévé válás konkrét és közvetlen veszélye (a továbbiakban: áldozattá válás kockázatának kitett gyermek) vagy
+- b) arra a különleges bánásmódot igénylő nagykorú személyre, akinek esetében fennáll a (2) bekezdés 13–21. pontjában vagy 24. pontjában foglalt súlyos bűncselekmény áldozatává válás konkrét és közvetlen veszélye (a továbbiakban: az áldozattá válás kockázatának kitett különleges bánásmódot igénylő nagykorú személy).
+
+(2) Ezen alcím alkalmazásában súlyos bűncselekmény
+
+- 1. az emberiesség elleni bűncselekmények (Btk. XIII. fejezet),
+- 2. a tiltott toborzás (Btk. 146. §),
+- 3. a hadikövet elleni erőszak (Btk. 148. §),
+- 4. a védett személyek elleni erőszak (Btk. 149. §),
+- 5. a túlélők megölésére utasítás (Btk. 150. §),
+- 6. az élő pajzs használata (Btk. 151. §),
+- 7. a tiltott sorozás (Btk. 152. §),
+- 8. a védett tulajdon elleni támadás (Btk. 153. §),
+- 9. a háborús fosztogatás (Btk. 154. §),
+- 10. a nemzetközi szerződés által tiltott fegyver alkalmazása (Btk. 155. §),
+- 11. a humanitárius szervezet elleni támadás (Btk. 156. §),
+- 12. az emberölés előkészülete [Btk. 160. § (3) bekezdés],
+- 13. a testi sértés Btk. 164. § (5) és (6) bekezdése szerint minősülő esetei,
+- 14. az emberrablás (Btk. 190. §),
+- 15. az emberkereskedelem és kényszermunka (Btk. 192. §),
+- 16. a személyi szabadság megsértése (Btk. 194. §),
+- 17. a kényszerítés (Btk. 195. §),
+- 18. a szexuális kényszerítés (Btk. 196. §),
+- 19. a szexuális erőszak (Btk. 197. §),
+- 20. a szexuális visszaélés (Btk. 198. §),
+- 21. a prostitúció elősegítése (Btk. 201. §),
+- 22. a gyermekprostitúció kihasználása (Btk. 203. §),
+- 23. a gyermekpornográfia (Btk. 204. §),
+- 24. a kapcsolati erőszak (Btk. 212/A. §),
+- 25. a családi jogállás megsértése (Btk. 213. §),
+- 26. a közösség tagja elleni erőszak (Btk. 216. §),
+- 27. a terrorcselekmény (Btk. 314. §).
+
+(3) A rendőrség az áldozattá válás kockázatára utaló figyelmeztető jelzés elhelyezését
+
+- a) az áldozattá válás kockázatának kitett gyermek törvényes képviselője vagy a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója (a továbbiakban: közeli hozzátartozó),
+- b) a gyámság alatt álló áldozattá válás kockázatának kitett gyermek gyámja,
+- c) – ha az áldozattá válás kockázatának kitett gyermek gyermekotthonban van elhelyezve –, az elhelyezésére szolgáló gyermekotthon vezetője,
+- d) az áldozattá válás kockázatának kitett különleges bánásmódot igénylő nagykorú személy közeli hozzátartozója,
+- e) a gondnokság alatt álló áldozattá válás kockázatának kitett különleges bánásmódot igénylő nagykorú személy gondnoka, vagy
+- f) az ügyben eljáró nyomozó hatóság
+
+bejelentése alapján rendelheti el.
+
+(4) Ha a bejelentést nem az áldozattá válás kockázatának kitett gyermek törvényes képviselője tette meg, a rendőrség tájékoztatja a törvényes képviselőt annak érdekében, hogy kifejthesse a bejelentéssel kapcsolatos álláspontját. A rendőrség a törvényes képviselő tájékoztatásától eltekint, amennyiben a bejelentés adatai alapján a veszélyeztetés a törvényes képviselővel hozható összefüggésbe.
+
+(5) A rendőrség a gyermekotthon vezetője által tett bejelentésről tájékoztatja a gyámot.
+
+(6) Az áldozattá válás kockázatára utaló figyelmeztető jelzés elhelyezése alapjául szolgáló bejelentésnek tartalmaznia kell
+
+- a) a bejelentő nevét, lakóhelyét vagy székhelyét, továbbá a bejelentés tételére való jogosultság jogcímét és az arra vonatkozó okirati bizonyítékot, amennyiben szükséges,
+- b) az áldozattá válás kockázatának kitett gyermek vagy az áldozattá válás kockázatának kitett különleges bánásmódot igénylő nagykorú személy (a továbbiakban együtt: áldozattá válás kockázatának kitett személy) nevét, anyja nevét, születési helyét és idejét, lakóhelyét, bejelentett tartózkodási helyét,
+- c) azoknak a tényeknek és körülményeknek a megjelölését, amelyek alapján fennáll annak konkrét és közvetlen veszélye, hogy az áldozattá válás kockázatának kitett személyt valamely súlyos bűncselekménnyel összefüggésben rövid időn belül elvihetik Magyarországról,
+- d) annak a személynek a nevét és kapcsolattartási adatait, akit az áldozattá válás kockázatának kitett személy feltartóztatása esetén értesíteni kell, és
+- e) azoknak a személyeknek az adatait, akiknek a kíséretében az áldozattá válás kockázatának kitett személy elhagyhatja Magyarországot.
+
+(7) A rendőrség a bejelentőt és az áldozattá válás kockázatának kitett személyt szükség szerint meghallgathatja.
+
+(8) A jelzésben fel kell tüntetni annak megjelölését, hogy mely bűncselekmény konkrét és nyilvánvaló veszélye áll fenn, hivatkozva az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) és e) pontjában meghatározott bűncselekményekre, illetve a (2) bekezdésben felsorolt tényállásokra is.
+
+(9) A figyelmeztető jelzés elhelyezésének elrendelése esetén a rendőrség – legfeljebb egy évre – meghatározza annak időtartamát.
+
+(10) A rendőrség a figyelmeztető jelzés elrendelése esetén annak Schengeni Információs Rendszerben történő elhelyezésére a körözési nyilvántartási rendszer útján intézkedik, ezzel egyidejűleg értesíti a SIRENE Irodát.
+
+(11) Az áldozattá válás kockázatára utaló figyelmeztető jelzés elhelyezéséről a rendőrség a lehető legrövidebb úton értesíti a bejelentőt, az áldozattá válás kockázatának kitett személyt és szükség szerint annak törvényes képviselőjét. A rendőrség a törvényes képviselő jelzés elhelyezéséről szóló értesítésétől eltekint, amennyiben a veszélyeztetés a törvényes képviselővel hozható összefüggésbe.
+
+(12) Ha az áldozattá válás kockázatára utaló figyelmeztető jelzés elhelyezésének elrendelése során az iratokból kitűnik, hogy súlyos bűncselekmény gyanúja merül fel, a rendőrség a nyomozást hivatalból megindítja.
+
+(13) A rendőrség a figyelmeztető jelzés szükségességét az annak lejárta előtt a jelzést megalapozó bejelentést tevő személytől beérkezett újabb bejelentés alapján vagy hivatalból felülvizsgálja. Ha a bejelentés megalapozott vagy az (EU) 2018/1862 rendelet 53. cikk (6) bekezdésében foglalt feltételek fennállnak, a rendőrség a figyelmeztető jelzést legfeljebb egy évvel meghosszabbítja, ellenkező esetben törli.
 
 ### VI. Fejezet — A KÉNYSZERÍTŐ ESZKÖZÖK
 
@@ -1920,16 +2003,13 @@ adatok köre
 - b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, eszközöket a c) pontban meghatározott ideig;
 - c) a szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, különös ismertetőjegyeit, hangmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
 - d) a rendőrségen fogvatartott, a Be. szerinti személyi szabadságot érintő bírói engedélyes kényszerintézkedés hatálya alatt álló személyek adatait az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
-- e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény
+- e) a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, valamint banktitoknak minősülő adatait, kriminalisztikai szempontból fontos jellemzőit az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig súlyos bűncselekmény esetén, vagy ha a bűncselekmény
   - ea) élet, testi épség, emberi szabadság vagy vagyon elleni erőszakos bűntett, illetve az embercsempészés három évig terjedő szabadságvesztéssel büntetendő alakzata,
   - eb) nemi élet szabadsága és nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel büntetendő alakzata,
   - ec) gyermekkorú személy sérelmére elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűntett,
   - ed) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
   - ee) kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
-  - ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
-
-a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, kriminalisztikai szempontból fontos jellemzőit az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
-
+  - ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, információs rendszer vagy adat megsértése, online hálózaton elkövetett csalás, információs rendszer védelmét biztosító technikai intézkedés kijátszása, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
 - f) a nemzetközi kötelezettségvállalás alapján mindazon személyek, cselekményeik, valamint kapcsolataik adatait, akikkel szemben nemzetközi bűnügyi együttműködés keretében intézkedéseket kell foganatosítani, az adatok bűnüldözési adatállományba történt bekerülésétől számított húsz évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
 - g) a szervezett bűnözésre utaló cselekményekben érintett, illetve a bűnözői csoportban részt vevő vagy azzal együttműködő személyek, valamint kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozó utolsó adatnak a bűnüldözési adatállományba történt bekerülése időpontjától számított negyven évig;
 - h)
@@ -2248,6 +2328,8 @@ részére.
 
 (4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a 7. § (5) bekezdése szerinti előzetes véleményalkotási eljárás során a személyügyi alapnyilvántartásba és az annak alapjául szolgáló iratokba tekinthet be. Az előzetes véleményalkotási eljárás lefolytatását követően a keletkezett adatokat törölni kell.
 
+(5) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv hivatásos állományának tagja a megbízhatósági vizsgálat során – a feladatai ellátása, a vizsgálat előkészítése és lefolytatása céljából – betekinthet a védett állomány tagját foglalkoztató szervnek az általa üzemeltetett járművekre vonatkozó adataiba, valamint a járművek menetleveleibe. A vizsgálat lefolytatását követően a keletkezett adatokat törölni kell.
+
 ### A terrorizmust elhárító szerv adatkezelése
 
 91/T. § (1) A terrorizmust elhárító szerv kezeli azokat az adatokat, amelyek a 7/E. § szerint meghatározott feladatai ellátásához – bűnmegelőzési, bűnfelderítési, illetve személyvédelmi célból – szükségesek.
@@ -2341,6 +2423,7 @@ bírálja el.
 - o) tranzitterület: egyes nemzetközi határátkelőhelyen az üzemeltető által – a rendőrség, valamint a vámhatóság egyetértésével – kijelölt terület, amely a személyek várakozására szolgál;
 - p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatározott gazdasági célú légi közlekedési tevékenység végzésére jogosult;
 - q) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége.
+- t) különleges bánásmódot igénylő nagykorú személy: a fogyatékos, a gondokság alatt álló vagy olyan nagykorú személy, aki korábban emberkereskedelem vagy nemi erkölcs elleni bűncselekmény sértettjévé vált.
 
 (2)
 

@@ -142,7 +142,7 @@ A színház-, tánc- és zeneművészet sokszínűségének és értékeinek gya
 
 ### III. Fejezet — AZ ELŐADÓ-MŰVÉSZETI SZERVEZETEK NYILVÁNTARTÁSA, MINŐSÍTÉSE, A KÖZSZOLGÁLTATÁSI SZERZŐDÉS
 
-### 1. CÍM — Az előadó-művészeti szervezetek nyilvántartása
+### 1. CÍM — Az előadó-művészeti szervezetek hatósági nyilvántartása
 
 7. § (1) A költségvetési szervként vagy közhasznú szervezetként működő előadó-művészeti szervezetekről és az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről a kijelölt szerv nyilvántartást vezet, amely nyilvántartás az előadó-művészeti szervezetek (2) bekezdés a) pontjában, b) pont ba) és bd) alpontjában szereplő adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -150,8 +150,8 @@ A színház-, tánc- és zeneművészet sokszínűségének és értékeinek gya
 
 - a) a nyilvántartott szervezet nevét, szervezeti formáját, székhelyét, telephelyeit, cégjegyzékszámát, bírósági nyilvántartási számát vagy törzskönyvi nyilvántartási számát,
 - b) az előadó-művészeti szervezet
-  - ba) művészeti tevékenységének jellege szerinti megjelölését: színház, zenekar, énekkar, balettegyüttes, táncegyüttes,
-  - bb) művészeti tevékenységének sajátos jellege szerinti típusmegjelölését: többtagozatos színház, bábszínház, gyermek- és ifjúsági színház, kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar, népi koncertzenekar, fúvószenekar big band, kamarakórus,
+  - ba) művészeti tevékenységének jellege szerinti megjelölését: színház, zenekar, énekkar, balettegyüttes, táncegyüttes, cirkusz,
+  - bb) művészeti tevékenységének sajátos jellege szerinti típusmegjelölését: többtagozatos színház, bábszínház, gyermek- és ifjúsági színház, cirkusz, kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar, népi koncertzenekar, fúvószenekar big band, kamarakórus,
   - bc) működése szerinti típusmegjelölését: független színház, produkciós színház, befogadó színház, szabadtéri színház, nemzetiségi színház, valamint
   - bd) fenntartójának nevét, szervezeti formáját, székhelyét, fenntartó hiányában az alapító, illetve a képviselő nevét, lakcímét,
 - c) az előadó-művészeti szakmai érdek-képviseleti szervezetek esetében a működési terület (színházművészet, zeneművészet, táncművészet) megjelölését.
@@ -236,7 +236,7 @@ részére.
 
 (3) A központi költségvetési támogatás feltétele – a (4) bekezdésben foglalt kivétellel – a kijelölt szerv által történő nyilvántartásba vétel.
 
-(4) A 20. § alapján kiírt pályázati támogatásokból a nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
+(4) A 20. § alapján kiírt pályázati támogatásokból a hatósági nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
 
 (5) E Fejezet 2. Címét az állami fenntartású előadó-művészeti szervezetekre nem lehet alkalmazni.
 
@@ -305,7 +305,7 @@ részére.
 
 (4) A beszámoló központi költségvetési támogatásra vonatkozó, valamint külön jogszabályban meghatározott adatait a kijelölt szerv a honlapján bárki számára ingyenesen, korlátozás nélkül hozzáférhető és kereshető módon közzéteszi.
 
-(5) A kijelölt szerv a beszámolókat összegzi, és azt megküldi a miniszternek, valamint az érintett bizottság tagjainak.
+(5) A kijelölt szerv a beszámolókat összegzi, és azt megküldi a miniszternek.
 
 (6)
 
@@ -354,7 +354,7 @@ részére.
 
 (4) A munkáltató a munkaviszony meghosszabbítására vonatkozó részletes ajánlatát legkésőbb március 31-ig írásban közli, a munkáltató ajánlatára pedig a munkavállaló április 30-ig írásban nyilatkozik.
 
-30. § (1) A munkáltató a karmester, karnagy, színművész, bábművész, artistaművész, magánénekes, magántáncos, segédszínész, csoportos szereplő munkakörben foglalkoztatott határozatlan idejű munkaviszonyát rendes felmondással akkor is megszüntetheti, ha a munkavállaló számára a munkaszerződésben vagy – ha a munkaszerződésben erről nem állapodtak meg – a 31. § (3) bekezdésében megállapított előadásszám legalább 40%-a mértékéig az elmúlt évadban nem tudott és a következő évadban sem tud művészi feladatot biztosítani az előadó-művészeti szervezet megváltozott művészeti koncepciójával összefüggő ok miatt.
+30. § (1) A munkáltató a karmester, karnagy, színművész, bábművész, artistaművész, magánénekes, magántáncos, tánckari tag, segédszínész, csoportos szereplő munkakörben foglalkoztatott határozatlan idejű munkaviszonyát rendes felmondással akkor is megszüntetheti, ha a munkavállaló számára a munkaszerződésben vagy – ha a munkaszerződésben erről nem állapodtak meg – a 31. § (3) bekezdésében megállapított előadásszám legalább 40%-a mértékéig az elmúlt évadban nem tudott és a következő évadban sem tud művészi feladatot biztosítani az előadó-művészeti szervezet megváltozott művészeti koncepciójával összefüggő ok miatt.
 
 (2) A munkáltató az (1) bekezdés szerint csak különösen indokolt esetben szüntetheti meg a munkaviszonyt, ha a munkavállalót legalább harminc éve foglalkoztatja.
 
@@ -450,7 +450,7 @@ valamint a tánckari tag munkakört betöltő munkavállalóra vonatkozó eltér
 
 39. § (1) Költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezetnél a munkáltató vezetőjével (a továbbiakban: vezető) – az e törvényben foglalt eltérésekkel – az Mt. vezető állású munkavállalókra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni.
 
-(2) A vezető feladatainak ellátására a munkáltatói – a 16. § (9) bekezdése szerinti esetben az alapvető munkáltatói – jogkör gyakorlója pályázatot ír ki.
+(2) A vezető feladatainak ellátására a munkáltatói jogkör gyakorlója pályázati, vagy a miniszter előzetes engedélyével meghívásos eljárást alkalmaz. A pályázati, illetve meghívásos eljárás kiírásának, benyújtásának és értékelésének rendjét, valamint a meghívásos eljárás feltételeit a Kormány rendeletben határozza meg.
 
 (3) A munkáltatói – a 16. § (9) bekezdése szerinti esetben az alapvető munkáltatói – jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel.
 
@@ -615,7 +615,7 @@ valamint a tánckari tag munkakört betöltő munkavállalóra vonatkozó eltér
 - o) határozza meg a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szabályokat,
 - p) szabályozza a zenekar és az énekkar tevékenysége folytatásának tárgyi feltételeit,
 - q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
-- r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, valamint a pályázatok elbírálásának rendjét,
+- r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, a pályázatok elbírálásának rendjét, valamint a meghívásos pályázat feltételeit, tartalmát, kiírásának, benyújtásának és értékelésének rendjét,
 - s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait,
 - t) állapítsa meg az állami és önkormányzati közös működtetés kérelmezésének határidejét.
 

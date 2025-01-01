@@ -1518,9 +1518,9 @@ munkanap pótszabadság igénybevételére jogosult.
 
 (11) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizennyolcadik életévét betölti.
 
-(12) Az apa gyermeke születése esetén, legkésőbb a születést követő második hónap végéig nyolc, ikergyermekek születése esetén tíz munkanap pótszabadság igénybevételére jogosult, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+(12) Az apa gyermeke születése esetén, legkésőbb a születést követő negyedik hónap végéig nyolc, ikergyermekek születése esetén tíz munkanap pótszabadság igénybevételére jogosult, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
 
-(12a) Az apa a gyermek örökbefogadása esetén, legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig nyolc, ikergyermekek örökbefogadása esetén tíz munkanap pótszabadság igénybevételére jogosult.
+(12a) Az apa a gyermek örökbefogadása esetén, legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig nyolc, ikergyermekek örökbefogadása esetén tíz munkanap pótszabadság igénybevételére jogosult.
 
 (13) A nagyszülő unokája születése esetén öt munkanap pótszabadságot vehet igénybe legkésőbb a születést követő második hónap végéig, amelyet kérésének megfelelő időpontban kell kiadni. A pótszabadság igénybevételéhez a különleges jogállású szerv jogosult a köztisztviselő unokájának természetes személyazonosító adatait a közszolgálati nyilvántartásban kezelni.
 

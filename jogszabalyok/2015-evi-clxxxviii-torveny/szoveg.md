@@ -394,7 +394,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 #### 9/E. Összehasonlító ellenőrzés elemzői támogatása
 
-12/E. § (1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére az igénybevételre jogosult szerv által részére átadott arcképmásokból arckép profilt képez. Ha az átadott arcképmások alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
+12/E. § (1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére az igénybevételre jogosult szerv által a 3. § (3) bekezdés l), t) és v) pontjában meghatározott célból a részére átadott arcképmásokból arckép profilt képez. Ha az átadott arcképmások alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
 
 (2) Az arcképelemző tevékenységet végző szerv az általa képzett arckép profilokat az arcképelemző rendszer igénybevételével összehasonlítja. Az összehasonlítást követően az arcképelemző tevékenységet végző szerv az összehasonlítás eredményét kiértékeli.
 

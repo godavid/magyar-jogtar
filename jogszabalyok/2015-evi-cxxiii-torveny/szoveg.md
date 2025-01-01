@@ -145,6 +145,16 @@ a következő törvényt alkotja:
 
 (2) A háziorvosi, házi gyermekorvosi és fogorvosi feladatok rendelési időn kívüli, ügyeleti ellátásának részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
+(3) Az állami mentőszolgálat az (1) bekezdés szerinti ellátás körében a központi ügyeleti hívószámra érkezett, az általa fogadott hívások esetén a telefonos kommunikációt, valamint a hívó fél által használt telefonállomás azonosított adatait – az ellátás nyomon követése, az ellátás szervezése, az ellátás és az egységes telefonos időpontfoglalási központ minőségének ellenőrzése céljából – visszakövethető módon, hangfelvétellel vagy egyéb elektronikus úton rögzíteni köteles.
+
+(4) Az állami mentőszolgálat a (3) bekezdés szerinti adatokat a hívás fogadásától számított öt évig kezeli.
+
+(5) A (3) bekezdésben meghatározott adatok – a törvényben meghatározott szerveken túl – az érintett beteg ellátása érdekében az egészségügyi ellátóhálózat érintett beteget ellátó egészségügyi szolgáltatója részére továbbíthatók.
+
+(6) A (3) bekezdésben szereplő adatok nem képezik az egészségügyi dokumentáció részét azzal, hogy amennyiben az (1) bekezdés szerinti ellátás körében a központi ügyeleti hívószámon keresztül telemedicina ellátásra is sor került, a telemedicina ellátás adatait – a (3) bekezdésben szereplő rögzített felvételen túl – az egészségügyi dokumentáció részeként a rá vonatkozó törvényi szabályok szerint is kell kezelni.
+
+(7) Az állami mentőszolgálat által biztosított egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátás esetén a személyes közreműködés hatósági nyilvántartásba vételre irányuló eljárásért nem kell igazgatási szolgáltatási díjat fizetni.
+
 11. § (1) A praxisközösség elsősorban az egészségügyi alapellátáshoz tartozó megelőző ellátások hatékonyabb nyújtása érdekében jöhet létre.é
 
 (2) A praxisközösségek kialakításának szempontjait a Kormány rendeletben állapítja meg.
@@ -314,7 +324,7 @@ a praxiskezelő által biztosított elektronikus felületen bejelenti.
 
 25. § 2024. szeptember 30. napjával a Budapest területére vonatkozóan a települési önkormányzat által a háziorvosi, házi gyermekorvosi ügyeletre kötött feladat-ellátási szerződés hatályát veszti.
 
-#### 26. §
+26. § A 2025. január 1-jét megelőzően az állami mentőszolgálat által biztosított egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátás esetén a személyes közreműködés hatósági nyilvántartásba vételre irányuló eljárásért kifizetett igazgatási szolgáltatási díjat a nyilvántartásba vételt lefolytató egészségügyi államigazgatási szerv 2025. március 1-jéig visszatéríti.
 
 #### 27. §
 

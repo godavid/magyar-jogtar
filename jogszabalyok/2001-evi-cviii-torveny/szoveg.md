@@ -225,7 +225,15 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 #### 11. §
 
-#### 12. §
+### Elektronikus adat ideiglenes hozzáférhetetlenné tétele a kiberbiztonsági hatóság határozata alapján
+
+12. § (1) Ha a kiberbiztonsági hatóság az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendelte el, a 2. § 13. pont c) alpontjában meghatározott szolgáltató az elrendelésről szóló határozat kézhezvételétől számított egy munkanapon belül intézkedik az elektronikus úton közzétett jogellenes adat visszaállítható módon történő eltávolításáról.
+
+(2) Az ideiglenes hozzáférhetetlenné tétel teljesítésére kötelezett köteles a kiberbiztonsági hatóság megnevezésével és a határozat számának a megjelölésével tájékoztatni a felhasználókat a tartalom eltávolításának vagy a tartalomhoz hozzáférés megakadályozásának a jogalapjáról.
+
+(3) Ha a kiberbiztonsági hatóság által elrendelt ideiglenes hozzáférhetetlenné tétel időtartama lejárt, a szolgáltató a lejárat napjától számított egy munkanapon belül az adatot ismételten hozzáférhetővé teszi.
+
+(4) A 2. § 13. pont c) alpontjában meghatározott szolgáltatóval szemben a kiberbiztonsági hatóság az (1) és (3) bekezdésben meghatározott kötelezettség elmulasztása miatt a Magyarország kiberbiztonságáról szóló törvényben meghatározott mértékű bírságot szabhat ki.
 
 ### Eljárás elektronikus úton közzétett jogellenes adat ideiglenes vagy végleges hozzáférhetetlenné tétele érdekében
 
@@ -420,13 +428,13 @@ köteles átadni.
 
 (2) Az állam ösztönzi továbbá, hogy az információs társadalommal kapcsolatos tevékenységet ellátó szervezetek az informatikáért felelős miniszterrel – amennyiben a szolgáltatás az Európai Gazdasági Térségről szóló megállapodás bármely részes államába is irányul, az Európai Bizottsággal is – együttműködve az érdekeltek számára tájékoztatást adhassanak a magatartási kódexeikről, azok alkalmazásának tapasztalatairól, az elektronikus kereskedelemre gyakorolt hatásairól.
 
-### Együttműködés a biztonsági eseménykezelésben
+### Együttműködés a kiberbiztonsági incidenskezelésben
 
-15/B. § (1) A szolgáltató az elektronikus információs rendszereket érintő biztonsági események megelőzésével, kezelésével összefüggő tevékenység vonatkozásában köteles együttműködni az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 19. § (1) bekezdés szerinti eseménykezelő központtal.
+15/B. § (1) A szolgáltató az elektronikus információs rendszereket érintő kiberbiztonsági incidensek megelőzésével, kezelésével összefüggő tevékenység vonatkozásában köteles együttműködni a Magyarország kiberbiztonságáról szóló törvény szerinti nemzeti kiberbiztonsági incidenskezelő központtal.
 
-(2) A közvetítő szolgáltató a konkrét biztonsági esemény kezelése, kivizsgálása céljából az eseménykezelő központ egyedi kérelme alapján köteles az általa kezelt és rendelkezésére álló adatokat az eseménykezelő központ részére átadni.
+(2) A közvetítő szolgáltató a konkrét kiberbiztonsági incidens kezelése, kivizsgálása céljából az eseménykezelő központ egyedi kérelme alapján köteles az általa kezelt és rendelkezésére álló adatokat a nemzeti kiberbiztonsági incidenskezelő központ részére átadni.
 
-(3) A közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait a Kormány rendeletben határozza meg.
+(3) A közvetítő szolgáltatónak a kiberbiztonsági incidensek kezelésével és kivizsgálásával kapcsolatos feladatait a Kormány rendeletben határozza meg.
 
 (4) A Kormány által rendeletben kijelölt hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.
 
@@ -471,9 +479,9 @@ köteles átadni.
 - a) a videómegosztóplatform-szolgáltató által a nyilvánossághoz eljuttatott műsorszám, felhasználó által létrehozott videó, a videómegosztóplatform-szolgáltató vagy más által forgalmazott, értékesített, szervezett kereskedelmi közlemény (a továbbiakban együtt: tartalom) alkalmas a kiskorúak fizikai, szellemi, lelki vagy erkölcsi fejlődésének károsítására;
 - b) a videómegosztóplatform-szolgáltató által a nyilvánossághoz eljuttatott tartalom sérti az emberi méltóságot, valamint alkalmas lehet valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely vallási közösség vagy ezek bármely tagja elleni – a közösséghez tartozása miatt történő – gyűlölet keltésére vagy erőszakra uszításra;
 - c) a tartalom bűncselekményt vagy bűncselekmény elkövetésére való felhívást valósíthat meg, így különösen, ha a tartalom alkalmas terrorcselekmény elkövetésére való felhívásra, közösség elleni uszításra, a nemzetiszocialista vagy kommunista rendszerek bűneinek nyilvános tagadására, illetve, ha gyermekpornográf tartalom megosztását, terjesztését vagy továbbítását valósíthatja meg; vagy
-- d) videómegosztóplatform-szolgáltatás igénybe vevője által közzétett kereskedelmi közlemény nem felel meg a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv.) 20. § (1)–(7) bekezdése vagy az Mttv. 24. §-a szerinti előírásoknak.
+- d) a videómegosztóplatform-szolgáltatás felhasználója által közzétett kereskedelmi közlemény nem felel meg a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv.) 20. § (1)–(7) bekezdése vagy az Mttv. 24. §-a és 30. § (3) bekezdés b) pontja szerinti előírásoknak.
 
-(2) A videómegosztóplatform-szolgáltató által forgalmazott, értékesített, szervezett kereskedelmi közleménynek meg kell felelnie az Smtv. 20. § (1)–(7) bekezdése és az Mttv. 24. §-a szerinti követelményeknek.
+(2) A videómegosztóplatform-szolgáltató által forgalmazott, értékesített, szervezett kereskedelmi közleménynek meg kell felelnie az Smtv. 20. § (1)–(7) bekezdése, és az Mttv. 24. §-a, valamint 30. § (3) bekezdés b) pontja szerinti követelményeknek.
 
 (3) A videómegosztóplatform-szolgáltató köteles egyértelmű tájékoztatást adni az igénybe vevőnek a kereskedelmi közleményt tartalmazó műsorszámról és azon felhasználó által létrehozott videóról, amely vonatkozásában a 15/G. § b) pontja szerint nyilatkozatot tettek, vagy amely videó esetében a videómegosztóplatform-szolgáltatónak tudomása van arról, hogy kereskedelmi közleményt tartalmaz.
 
@@ -485,9 +493,9 @@ köteles átadni.
 
 15/E. § (1) A videómegosztóplatform-szolgáltató a felhasználók és a szolgáltatást igénybe vevők megfelelő tájékoztatása és a tartalomra vonatkozó követelmények érvényre juttatása érdekében köteles az általános szerződési feltételeibe foglalni a 15/D. § (1) bekezdésében írt eseteket, követelményeket és az azok biztosítását szolgáló, a 15/F. § szerinti intézkedéseket, műszaki megoldásokat.
 
-(2) A videómegosztóplatform-szolgáltató köteles a videómegosztóplatform-szolgáltatás igénybe vevője által közzétett kereskedelmi közlemények vonatkozásában az Mttv. 24. §-ában és az Smtv. 20. § (1)–(7) bekezdésében foglalt követelményeket belefoglalni az általános szerződési feltételeibe.
+(2) A videómegosztóplatform-szolgáltató köteles a videómegosztóplatform-szolgáltatás felhasználója által közzétett kereskedelmi közlemények vonatkozásában az Mttv. 24. §-ában és 30. § (3) bekezdés b) pontjában, valamint az Smtv. 20. § (1)–(7) bekezdésében foglalt követelményeket belefoglalni az általános szerződési feltételeibe.
 
-(3) A videómegosztóplatform-szolgáltató általános szerződési feltételeinek tartalmaznia kell a felhasználók és a videómegosztóplatform-szolgáltató közötti, a 15/F. és 15/G. § alkalmazásával kapcsolatos jogviták peren kívüli és bírósági rendezésére szolgáló igényérvényesítési lehetőségekre vonatkozó tájékoztatást.
+(3) A videómegosztóplatform-szolgáltató általános szerződési feltételeinek tartalmaznia kell a felhasználók, illetve igénybe vevők és a videómegosztóplatform-szolgáltató közötti, a 15/F. és 15/G. § alkalmazásával kapcsolatos jogviták peren kívüli és bírósági rendezésére szolgáló igényérvényesítési lehetőségekre vonatkozó tájékoztatást.
 
 15/F. § (1) A videómegosztóplatform-szolgáltató a 15/D. § (1) bekezdésében írt követelmények érvényesülését köteles megfelelő intézkedésekkel, hatékony műszaki megoldásokkal biztosítani.
 
@@ -501,7 +509,7 @@ köteles átadni.
 
 (6) A videómegosztóplatform-szolgáltató által a kiskorúak (1) és (2) bekezdés alkalmazása céljából gyűjtött vagy más módon generált személyes adatai kereskedelmi céllal – így például közvetlen üzletszerzés, profilalkotás és viselkedésalapú célzott reklámozás céljából – nem kezelhetők.
 
-(7) Az (1) és (2) bekezdésben foglalt követelményekre vonatkozó legjobb gyakorlatokról a Hivatal ajánlást tehet közzé. Az ajánlás kötőerővel nem rendelkezik.
+(7) Az (1) és (2) bekezdésben, valamint a 15/D. § (2) bekezdésében foglalt követelményekre vonatkozó legjobb gyakorlatokról a Hivatal ajánlást tehet közzé. Az ajánlás kötőerővel nem rendelkezik.
 
 15/G. § A videómegosztóplatform-szolgáltató köteles olyan átlátható, hatékony és felhasználóbarát mechanizmust, funkciót biztosítani, amely
 
@@ -749,7 +757,7 @@ látja el.
 - d)
 - e)
 - f)
-- g) rendeletben határozza meg a közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
+- g) rendeletben határozza meg a közvetítő szolgáltatónak a kiberbiztonsági incidensek kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
 - h) rendeletben állapítsa meg az online szálláshely-közvetítők szálláshely-szolgáltatás értékesítési tevékenységéhez kapcsolódó részletes szabályokat,
 - i) rendeletben jelölje ki a 15/B. § (4) bekezdése szerinti hatóságot.
 
@@ -780,6 +788,6 @@ látja el.
 - d) az online terrorista tartalom terjesztésével szembeni fellépésről szóló, 2021. április 29-i (EU) 2021/784 európai parlamenti és tanácsi rendelet.
 - e) az online közvetítő szolgáltatások üzleti felhasználói tekintetében alkalmazandó tisztességes és átlátható feltételek előmozdításáról szóló, 2019. június 20-i (EU) 2019/1150 európai parlamenti és tanácsi rendelet.
 
-(3) E törvény 2. és 3/B. §-ainak a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+(3) E törvény 2. §-a, 3/B. §-a, 15/D. § (1) bekezdés d) pontja, 15/D. § (2) bekezdése, 15/E. § (2) és (3) bekezdése, 15/F. § (7) bekezdése tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 (4) A 12/C. §-nak a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

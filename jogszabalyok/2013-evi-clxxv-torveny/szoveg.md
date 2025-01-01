@@ -61,6 +61,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 - m) az ingatlanügyi hatóság a hatósági eljárásaiban a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–f) pontjában szereplő adatokat.
 - n) az adóhatóság az eljárása során az adózó vagy az eljárás egyéb résztvevője eljárási képessége fennállásának vagy hiányának megállapításához a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–e) pontjában szereplő adatokat.
 - o) a Katonai Nemzetbiztonsági Szolgálat a feladatainak ellátásához a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–f) pontjában szereplő adatokat.
+- p) a bányafelügyelet előmunkálati jog, vezetékjog és használati jog engedélyezési, továbbá szolgalomalapítási eljárása során az ügyfél eljárási képessége fennállásának vagy hiányának megállapításához a 3. § (1) bekezdés a) pont aa)–ae) alpontjában, és b)–e) pontjában szereplő adatokat.
 
 (3) A közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság a cselekvőképesség és a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult megismerni és kezelni a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és a 3. § (1) bekezdés b)–e) pontjában szereplő adatokat.
 

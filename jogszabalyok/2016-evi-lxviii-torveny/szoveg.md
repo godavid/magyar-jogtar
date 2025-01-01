@@ -135,7 +135,7 @@ jogosult személy;
 - 3. biodízel: növényi olajból vagy állati olajból átészterezéssel előállított, 3826 00 10 és 3826 00 90 KN-kód szerinti termék;
 - 4. bioetanol: az igazoltan kizárólag mezőgazdasági eredetű, 2207 10 00 KN-kód szerinti, legalább 99 térfogatszázalék alkoholtartalmú víztelenített alkoholtermékből denaturálással előállított, 2207 20 00 KN-kód szerinti alkoholtermék;
 - 5. E85: a 2207 20 00 KN-kód szerinti, üzemanyagcélra előállított, legalább 70%, legfeljebb 85% olyan bioetanolt tartalmazó termék, amelyet kizárólag az Európai Unióban termelt, mezőgazdasági eredetű alapanyagból gyártottak és amely fenntarthatósági bizonyítvány alapján fenntartható módon előállítottnak minősül;
-- 6. egyéb ellenőrzött ásványolaj: a 2707 10 00-2707 30 00, a 2707 50 00, a 2710 12 11-2710 12 25, a 2710 12 70-2710 19 15, a 2710 19 25, a 2710 19 29-2710 19 35, a 2710 19 51, a 2710 19 55, a 2901 10 00, a 2902 20 00-2902 44 00 KN-kód szerinti, valamint a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti, nem üzemanyagként vagy tüzelő-, fűtőanyagként értékesített, beszerzett vagy importált ellenőrzött energiatermék;
+- 6. egyéb ellenőrzött ásványolaj: a 2707 10 00-2707 30 00, a 2707 50 00, a 2710 12 11-2710 12 25, a 2710 12 70-2710 19 15, a 2710 19 25, a 2710 19 29-2710 19 35, a 2710 19 51, a 2710 19 55, a 2901 10 00, a 2902 20 00-2902 44 00 KN-kód szerinti, valamint a 2710 19 44-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti, nem üzemanyagként vagy tüzelő-, fűtőanyagként értékesített, beszerzett vagy importált ellenőrzött energiatermék;
 - 7. ellenőrzött energiatermék:
   - a) a 2707 10 00-2707 30 00, a 2707 50 00, a 2711 12 11-2711 19 00, a 2901 10 00, a 2902 20 00-2902 44 00, a 3811 11 10-3811 19 00 és a 3811 90 00 KN-kód szerinti termék,
   - b) – az ezen alpontban felsorolt, etil-alkoholt tartalmazó termékek kivételével – a 2710 12 21, 2710 12 25 és 2710 19 29 KN-kód szerinti ömlesztetten szállított termék, valamint a 2710 12 11, 2710 12 15, 2710 12 31–2710 19 25, 2710 19 31–2710 19 67 és a 2710 20 11–2710 20 38 KN-kód szerinti termék,
@@ -161,7 +161,7 @@ történő felhasználásra állítanak elő vagy ilyenként kínálnak, érték
 - 15. földgázfelhasználó: a földgázellátásról szóló törvényben meghatározott felhasználó;
 - 16. földgáz felhasználási hely: a földgázellátásról szóló törvényben meghatározott felhasználási hely;
 - 17. fűtőolaj: a 2710 19 62–2710 19 67 és a 2710 20 32–2710 20 38 KN-kód szerinti termék;
-- 18. gázolaj: a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti termék;
+- 18. gázolaj: a 2710 19 42, a 2710 19 44-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti termék;
 - 19. hálózati engedélyes: a villamos energiáról szóló törvény szerinti hálózati engedélyes és a földgázellátásról szóló törvény szerinti földgázelosztó és szállítási rendszerüzemeltető;
 - 20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2022. január 17-i 2022/197/EU bizottsági végrehajtási határozata szerint ACCUTRACE™ PLUS jelölőanyaggal megjelölt gázolaj;
 - 21. kereskedelmi gázolaj: gázolaj, amelyet
@@ -240,7 +240,7 @@ használnak fel;
 - 24. tényleges alkoholtartalom: a termékben jelen lévő etil-alkohol térfogatának aránya a termék teljes térfogatához viszonyítva 20 °C hőmérsékleten;
 - 25. termelői borkimérés: az egyszerűsített adóraktár engedélyes vagy a kisüzemi bortermelő
   - a) saját előállítású csendes borának,
-  - b) saját előállítású csendes borból előállított palackos erjesztésű habzóborának és
+  - b) saját szőlőből vagy saját előállítású csendes borból előállított habzóborának és
   - c) kedvezményes párlatának
 
 az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a kisüzemi bortermelő, egyszerűsített adóraktár engedélyese használatában lévő, a kereskedelemről szóló törvény szerinti üzletben elvitelre vagy kóstolás céljából helyben fogyasztásra történő, a kereskedelemről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő értékesítése;
@@ -654,7 +654,7 @@ formájában.
 - b) a magánfőzésben előállított párlatot,
 - c) a közvetlen fogyasztásra szánt italt, ha az összetevőkre megfizetett adó összege nem kevesebb mint a keverékükből előállított jövedéki termék után fizetendő adó összege,
 - d) az adófizetési kötelezettség alól mentesült, magánszemély által előállított sört, csendes bort, habzóbort, egyéb csendes és habzó erjesztett italt,
-- e) a kisüzemi bortermelő által előállított csendes bort, valamint előállítható vagy tárolható palackos erjesztésű habzóbort,
+- e) a kisüzemi bortermelő által előállított csendes bort, valamint előállítható vagy tárolható habzóbort,
 - f) a tudományos és oktatási célra előállított és felhasznált alkoholterméket,
 - g) a hulladékhasznosítási tevékenység során – a 48. § (1) bekezdése szerinti bejelentési kötelezettség teljesítése mellett – köztes fázisban keletkezett egyéb ellenőrzött ásványolajat,
 - h) a biológiai ecet előállítása során – a 48. § (3) bekezdése szerinti bejelentési kötelezettség teljesítése mellett – köztes fázisban keletkezett alkoholterméket,
@@ -855,7 +855,7 @@ csökken.
 - f) az a) és e) pont szerinti termékekkel folytatja, 6 millió forint,
 - g) LPG-vel, egyéb ellenőrzött ásványolajjal és repülőgép-üzemanyaggal folytatja, 120 millió forint.
 
-(4) Az (1) bekezdéstől eltérően nem kell jövedéki biztosítékot nyújtani, ha a jövedéki engedélyes kereskedő a tevékenységét kizárólag csendes borral, a 129. § (2) bekezdés a) pontja szerinti termékkel és – ha a jövedéki engedélyes személy egyszerűsített adóraktári engedélyes vagy kisüzemi bortermelő, a saját előállítású csendes borából előállított – palackos erjesztésű habzóborral folytatja.
+(4) Az (1) bekezdéstől eltérően nem kell jövedéki biztosítékot nyújtani, ha a jövedéki engedélyes kereskedő a tevékenységét kizárólag csendes borral, a 129. § (2) bekezdés a) pontja szerinti termékkel és – ha a jövedéki engedélyes személy egyszerűsített adóraktári engedélyes vagy kisüzemi bortermelő, a saját szőlőből vagy saját előállítású csendes borból előállított – habzóborral folytatja.
 
 (5) Ha a jövedéki engedélyes kereskedő adóraktári engedéllyel vagy bejegyzett kereskedői engedéllyel is rendelkezik, jövedéki biztosítékot csak olyan összegben kell nyújtania, amennyivel meghaladja az (1)–(3) bekezdés alapján nyújtandó biztosíték összege az adóraktári engedélyhez vagy a bejegyzett kereskedői engedélyhez kapcsolódóan nyújtott jövedéki biztosíték összegét.
 
@@ -973,7 +973,7 @@ folytató személynek, ha nem minősül az Art. szerinti kockázatos adózónak.
 - a) az energiatermék előállítására alkalmas desztillálóberendezés,
 - b) az alkoholtermék előállítására alkalmas desztillálóberendezés,
 - c) a sör előállítására alkalmas főzőüst és komlóforraló üst – a 133. § (1) bekezdésében meghatározott tevékenységhez használt berendezés kivételével –,
-- d) a dohánygyártmány gyártására alkalmas gép és egyéb eszköz – a kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz kivételével, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére alkalmas –
+- d) a dohánygyártmány gyártására alkalmas gép és egyéb eszköz – a kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz kivételével, amelyik kézi töltésű cigaretta elkészítésére alkalmas –
 
 előállításához, értékesítéséhez és birtoklásához.
 
@@ -1059,7 +1059,7 @@ felhasználásához.
 
 #### 31. Exportáló, tagállamba feladó kisüzemi bortermelő
 
-42. § A csendes bort, saját előállítású csendes borból előállított palackos erjesztésű habzóbort exportáló vagy másik tagállamba feladó kisüzemi bortermelőt az állami adó- és vámhatóság nyilvántartásba veszi.
+42. § A csendes bort, saját szőlőből vagy saját előállítású csendes borból előállított habzóbort exportáló vagy másik tagállamba feladó kisüzemi bortermelőt az állami adó- és vámhatóság nyilvántartásba veszi.
 
 ### V. Fejezet — BEJELENTÉSEK
 
@@ -2000,14 +2000,14 @@ felszólítja, hogy jogszabályi kötelezettségének tegyen eleget 15 napon bel
 - c) a gázolajra üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén,
   - ca) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 142 900 Ft/ezer liter,
   - cb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 152 900 Ft/ezer liter,
-- d) a fűtőolajra tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 5375 Ft/ezer kilogramm, üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 116 000 Ft/ezer kilogramm,
-- e) az LPG-re közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 95 800 Ft/ezer kilogramm, egyéb motorikus célú kínálás, értékesítés vagy felhasználás esetén 14 685 Ft/ezer kilogramm, tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 0 Ft/ezer kilogramm,
-- f) földgázra közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 32 Ft/nm3, egyébként 0,3492 Ft/kWh,
-- g) a villamos energiára 358,50 Ft/megawattóra,
-- h) a szénre 2905 Ft/ezer kilogramm,
+- d) a fűtőolajra tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 5970 Ft/ezer kilogramm, üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 116 000 Ft/ezer kilogramm,
+- e) az LPG-re közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 95 800 Ft/ezer kilogramm, egyéb motorikus célú kínálás, értékesítés vagy felhasználás esetén 16 320 Ft/ezer kilogramm, tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 0 Ft/ezer kilogramm,
+- f) földgázra közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 36 Ft/nm3, egyébként 0,3879 Ft/kWh,
+- g) a villamos energiára 398 Ft/megawattóra,
+- h) a szénre 3230 Ft/ezer kilogramm,
 - i) – figyelemmel a 94. § (2) bekezdésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya és az a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 70 000 Ft/ezer liter szorzatának együttes összege,
 - j) a 2207 10 00-2207 20 00 KN-kód szerinti alkoholtermék bioüzemanyag esetében a 132. § (2) bekezdés b) pontja szerinti adómérték,
-- k) a tiszta növényi olajat előállító által a 117. § (1) bekezdésében meghatározott mennyiségben és célra felhasznált tiszta növényi olaj esetében a c) pont ca) alpontja szerinti adómérték alkalmazása esetén az adómérték 14%-a, a c) pont cb) alpontja szerinti adómérték alkalmazása esetén az adómérték 13%-a, egyébként a c) pont szerinti adómérték.
+- k) a tiszta növényi olajat előállító által a 117. § (1) bekezdésében meghatározott mennyiségben és célra felhasznált tiszta növényi olaj esetében 14 290 Ft/ezer liter, egyébként a c) pont szerinti adómérték.
 
 (2) Az adó mértéke az (1) bekezdésben meg nem határozott energiatermékre
 
@@ -2110,12 +2110,12 @@ használ fel.
 
 (4) Az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv jogosult a közfeladat ellátásával közvetlen összefüggésben közlekedési célra felhasznált földgáz adójának visszaigénylésére.
 
-(5) A 3. § (2) bekezdés 21. pontja szerinti jármű üzembentartója vagy – bérelt jármű esetében – bérlője jogosult
+(5) A 3. § (2) bekezdés 21. pontja szerinti jármű üzembentartója vagy – bérelt jármű esetében – bérlője jogosult visszaigényelni
 
-- a) az üzemanyagtöltő-állomáson üzemanyagkártyával megvásárolt, vagy
+- a) az üzemanyagtöltő állomáson üzemanyagkártyával megvásárolt, vagy
 - b) belföldi telephelyén üzemanyag-tárolásra rendszeresített üzemanyag-tankoló automatával ellátott tartályból elektronikus mérőeszközön keresztül betöltött
 
-kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén literenként 10 Ft, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén literenként 20 Ft visszaigénylésére.
+kereskedelmi gázolaj után literenként a gázolaj egy literre vetített adómértékének, valamint 0,33 és az Európai Unió Hivatalos Lapjában kihirdetett tárgyévet megelőző év október első munkanapján érvényes euró/forint árfolyam szorzatának különbségét, öttized forintra lefelé kerekítve. Az előbbiek szerint megállapított adó-visszaigénylés mértékét a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig az állami adó- és vámhatóság internetes honlapján közzéteszi.
 
 (6) E § szerinti adó-visszaigénylés – a 112. § (1) bekezdés b) pontjától eltérően – a 3. § (2) bekezdés 20. pontja szerinti jelölőanyagot nem tartalmazó gázolaj után érvényesíthető.
 
@@ -2144,11 +2144,11 @@ kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerint
 
 117. § (1) A mezőgazdasági termelő az igazoltan használatában lévő
 
-- a) olyan szántó, kert, gyümölcsös, szőlő és gyep (rét, legelő) művelési ágú földterület után, amelyen mezőgazdasági termelőtevékenységet folytat, a mezőgazdasági termelési célú földművelési munkákhoz, valamint a betakarításhoz kapcsolódó közvetlen szállításhoz,
+- a) olyan szántó, kert, gyümölcsös, szőlő és gyep (rét, legelő) művelési ágú földterület után, amelyen mezőgazdasági tevékenységet folytat, a mezőgazdasági célú földművelési munkákhoz, valamint a betakarításhoz kapcsolódó közvetlen szállításhoz,
 - b) olyan erdő után, amelyben erdőgazdálkodási tevékenységet folytat, az erdőfelújítási célú munkákhoz,
 - c) olyan vízjogi üzemeltetési engedély szerinti halastó után, amelyben halgazdálkodási tevékenységet folytat, – a tóterület nettó üzemelő vízfelületét figyelembe véve – közvetlenül a halgazdálkodáshoz
 
-felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett adója a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén 86 százalékának, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén 87 százalékának visszaigénylésére jogosult.
+felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett adójából jogosult visszaigényelni literenként a gázolaj egy literre vetített adómértékének és 14,29 forintnak a különbségét, öttized forintra kerekítve. Az előbbiek szerint megállapított adó-visszaigénylés mértékét a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig az állami adó- és vámhatóság internetes honlapján közzéteszi.
 
 (2) Ha a mezőgazdasági termelő a földművelési, az erdőfelújítási és halgazdálkodási munkákhoz gépi bérmunka-szolgáltatást vesz igénybe, a gépi bérmunka-szolgáltatás során felhasznált, a gépi bérmunka-szolgáltatást végző által kiállított számlán feltüntetett gázolajmennyiség után is jogosult az (1) bekezdésben meghatározott visszatérítésre.
 
@@ -2311,7 +2311,13 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (2) Egyszerűsített adóraktárban nem állítható elő, nem tárolható, nem palackozható sör, a (3) bekezdés szerinti eseten túl habzóbor, a 129. § (2) bekezdés a) pontja szerinti termék kivételével egyéb csendes vagy habzó erjesztett ital, köztes alkoholtermék, a (3a) bekezdés szerinti eseten túl alkoholtermék.
 
-(3) Egyszerűsített adóraktárban a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital, valamint a saját szőlőből vagy saját előállítású csendes borból előállított, évente legfeljebb 50 000 liter palackos erjesztésű habzóbor is előállítható, átvehető, tárolható, utóbbi termékből az egyszerűsített adóraktár készlete nem haladhatja meg az 50 000 litert. Egyszerűsített adóraktárból nem adható fel palackos erjesztésű habzóbor másik egyszerűsített adóraktárnak és kisüzemi bortermelőnek.
+(3) Egyszerűsített adóraktárban
+
+- a) a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital előállítható, átvehető, tárolható, forgalomba hozható,
+- b) a saját szőlőből vagy saját előállítású csendes borból palackos erjesztéssel előállított habzóbor előállítható, átvehető, tárolható, forgalomba hozható,
+- c) a saját szőlőből vagy saját előállítású csendes borból nem palackos erjesztéssel előállított, palackozott habzóbor átvehető, tárolható, forgalomba hozható,
+
+azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmennyisége évente legfeljebb 50 000 liter lehet és a b) és c) pont szerinti termék együttes készlete nem haladhatja meg az 50 000 litert, valamint egyszerűsített adóraktárból nem adható fel habzóbor másik egyszerűsített adóraktárnak és kisüzemi bortermelőnek.
 
 (3a) Az egyszerűsített adóraktár engedélyese egyszerűsített adóraktárban a fogyasztó számára történő közvetlen értékesítés céljából egy borpiaci évben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de legfeljebb összesen 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot vehet át. Az egyszerűsített adóraktár engedélyese egyidőben az általa vagy vele egy borgazdasági egységbe tartozó személy által az elmúlt három borpiaci évben művelt szőlőterület után hektáronként legfeljebb 0,7 hektoliter tiszta szesz, de összesen legfeljebb 1,5 hektoliter tiszta szesz mennyiségű kedvezményes párlatot tarthat készleten.
 
@@ -2337,7 +2343,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (9) Az egyszerűsített adóraktár engedélyese a kockázatos adózói és a Btv. végrehajtására kiadott jogszabály szerinti kockázatos üzemengedélyesi minősítés megszűnésének évét követő három évig nem vehet át kedvezményes párlatot.
 
-135. § A csendes bor, az egyszerűsített adóraktárban előállítható palackos erjesztésű habzóbor és a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital egyszerűsített adóraktárból induló belföldi szállításakor az 54. § (1) bekezdésétől és a 64. §-tól eltérően borkísérő okmány alkalmazandó vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
+135. § A csendes bor, az egyszerűsített adóraktárban előállítható vagy tárolható habzóbor és a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital egyszerűsített adóraktárból induló belföldi szállításakor az 54. § (1) bekezdésétől és a 64. §-tól eltérően borkísérő okmány alkalmazandó vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
 
 136. § (1) Az egyszerűsített adóraktár a 23. §-tól eltérően a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort és a 134. § (3) bekezdés szerinti terméket 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett termékeket kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
 
@@ -2351,17 +2357,24 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 #### 91. Kisüzemi bortermelő
 
-137. § (1) A csendes bor és a kisüzemi bortermelőnél előállítható és tárolható palackos erjesztésű habzóbor kisüzemi bortermelőtől indított belföldi szállításakor az 54. § (1) bekezdésétől eltérően borkísérő okmány alkalmazandó vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
+137. § (1) A csendes bor és a kisüzemi bortermelőnél előállítható vagy tárolható habzóbor kisüzemi bortermelőtől indított belföldi szállításakor az 54. § (1) bekezdésétől eltérően borkísérő okmány alkalmazandó vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
 
-(2) A kisüzemi bortermelő a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett csendes bort és a palackos erjesztésű habzóbort kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
+(2) A kisüzemi bortermelő a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett csendes bort és a habzóbort kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
 
-(3) A kisüzemi bortermelő a vásárolt és a saját termésű szőlő, az előállított (kiszerelt), tárolt és feladott csendes bor, valamint palackos erjesztésű habzóbor, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről, készletváltozásokról és a borpiaci év tényleges zárókészletéről a (2) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára. Az elektronikus adóbevallásra kötelezett kisüzemi bortermelő mennyiségi elszámolását is elektronikusan nyújtja be.
+(3) A kisüzemi bortermelő a vásárolt és a saját termésű szőlő, az előállított (kiszerelt), tárolt és feladott csendes bor, valamint habzóbor, továbbá az átvett, tárolt és értékesített kedvezményes párlat mennyiségéről, készletváltozásokról és a borpiaci év tényleges zárókészletéről a (2) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára. Az elektronikus adóbevallásra kötelezett kisüzemi bortermelő mennyiségi elszámolását is elektronikusan nyújtja be.
 
-(4) Ha a családtagok közössége a saját művelésben lévő szőlőterületen termelt szőlőből a csendes bor és a palackos erjesztésű habzóbor előállítását, tárolását ugyanazon a közösen használt telephelyen végzi, e tevékenység kisüzemi bortermelőnek minősülve folytatható. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
+(4) Ha a családtagok közössége a saját művelésben lévő szőlőterületen termelt szőlőből a csendes bor és a habzóbor előállítását, tárolását ugyanazon a közösen használt telephelyen végzi, e tevékenység kisüzemi bortermelőnek minősülve folytatható. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
 
 (4a) A kisüzemi bortermelő szőlőt, valamint sűrített szőlőmust és finomított szőlőmustsűrítmény kivételével az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet II. részében felsorolt terméket másik tagállamból vagy harmadik országból nem vesz át, a (4b) és (4c) bekezdés szerinti esetekben sem.
 
-(4b) A kisüzemi bortermelő csendes bort a (4c) bekezdésben foglaltak kivételével nem vesz át, és csendes boron kívül, valamint a saját szőlőből vagy saját előállítású csendes borból előállított, évente legfeljebb 50 000 liter palackos erjesztésű habzóbor előállításán, átvételén, tárolásán, forgalmazásán kívül, ha utóbbi termékből a kisüzemi bortermelő készlete nem haladja meg az 50 000 litert, más jövedéki terméket nem állít elő, továbbá a (4d) bekezdésben foglaltak kivételével nem vesz át, nem tárol és nem hoz forgalomba. Kisüzemi bortermelő nem adhat fel palackos erjesztésű habzóbort másik kisüzemi bortermelőnek és egyszerűsített adóraktárnak.
+(4b) A kisüzemi bortermelő
+
+- a) csendes bort a (4c) bekezdésben foglaltak kivételével nem vesz át,
+- b) saját szőlőből vagy saját előállítású csendes borból palackos erjesztéssel előállított habzóbort előállíthat, átvehet, tárolhat, forgalomba hozhat,
+- c) saját szőlőből vagy saját előállítású csendes borból nem palackos erjesztéssel előállított, palackozott habzóbort átvehet, tárolhat, forgalomba hozhat,
+- d) az a)–c) pont szerinti termékeken kívül – a (4d) bekezdésben foglaltak kivételével – más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba,
+
+azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmennyisége évente legfeljebb 50 000 liter lehet és a b) és c) pont szerinti termék együttes készlete nem haladhatja meg az 50 000 litert, valamint kisüzemi bortermelőtől nem adható fel habzóbor másik kisüzemi bortermelőnek és egyszerűsített adóraktárnak.
 
 (4c) Kisüzemi bortermelő csendes bort a következő esetekben vesz át:
 
@@ -2376,11 +2389,11 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (5) Ha a kisüzemi bortermelő törvényi meghatározásában foglalt feltételek közül valamelyik nem teljesül, a kisüzemi bortermelő a feltétel nem teljesülésének bekövetkezését követő hónap 15. napjáig egyszerűsített adóraktári engedély iránti kérelmet köteles előterjeszteni.
 
-(6) A kisüzemi bortermelőnek az általa előállítható és tárolható palackos erjesztésű habzóbor után nem kell jövedéki biztosítékot nyújtania. Ha a kisüzemi bortermelő az Art. szerinti kockázatos adózónak minősül, köteles haladéktalanul egyszerűsített adóraktári engedély iránti kérelmet előterjeszteni.
+(6) A kisüzemi bortermelőnek az általa előállítható vagy tárolható habzóbor után nem kell jövedéki biztosítékot nyújtania. Ha a kisüzemi bortermelő az Art. szerinti kockázatos adózónak minősül, köteles haladéktalanul egyszerűsített adóraktári engedély iránti kérelmet előterjeszteni.
 
-(7) A kisüzemi bortermelő az előállított, tárolt, feladott palackos erjesztésű habzóbor utáni adóbevallást a (3) bekezdés szerinti elszámolással egyidejűleg készíti el és küldi meg az állami adó- és vámhatóságnak, valamint fizeti meg az adót.
+(7) A kisüzemi bortermelő az előállított, tárolt, feladott habzóbor utáni adóbevallást a (3) bekezdés szerinti elszámolással egyidejűleg készíti el és küldi meg az állami adó- és vámhatóságnak, valamint fizeti meg az adót.
 
-(8) A csendes bor és a kisüzemi bortermelőnél előállítható és tárolható palackos erjesztésű habzóbor kisüzemi bortermelő által végzett értékesítésekor, exportálásakor és másik tagállamba a 62. § szerinti kereskedelmi céllal történő szállításakor nem kell alkalmazni a 67. § (1) bekezdésének rendelkezését.
+(8) A csendes bor és a kisüzemi bortermelőnél előállítható vagy tárolható habzóbor kisüzemi bortermelő által végzett értékesítésekor, exportálásakor és másik tagállamba a 62. § szerinti kereskedelmi céllal történő szállításakor nem kell alkalmazni a 67. § (1) bekezdésének rendelkezését.
 
 (9) Kisüzemi bortermelő csak abban az esetben vehet át és értékesíthet kedvezményes párlatot, ha
 
@@ -2500,16 +2513,18 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 145. § (1) A jövedéki adó mértéke
 
-- a) a cigarettára 29 500 forint/ezer darab és a kiskereskedelmi eladási ár 24 százaléka, de legalább 41 800 forint/ezer darab,
-- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4840 forint/ezer darab,
-- c) a finomra vágott fogyasztási dohányra és az egyéb fogyasztási dohányra 25 960 forint/kilogramm,
-- d) a töltőfolyadékra 33 forint/milliliter,
-- e) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
-  - ea) egyszer használatos termékeire 35 forint/darab (szál),
-  - eb) folyadékára 70 forint/milliliter,
-- f) a füst nélküli dohánytermékre 25 960 forint/kilogramm,
-- g) a dohányzást helyettesítő nikotintartalmú termékre 25 960 forint/kilogramm,
-- h) a hevített termékre 35 forint darabonként (szálanként).
+- a) a cigarettára 32 300 forint/ezer darab és a kiskereskedelmi eladási ár 24 százaléka, de legalább 45 200 forint/ezer darab,
+- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 5 230 forint/ezer darab,
+- c) a finomra vágott fogyasztási dohányra és az egyéb fogyasztási dohányra 28 060 forint/kilogramm,
+- d) a töltőfolyadékra 36 forint/milliliter,
+- e) az új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt fogyasztott
+  - ea) egyszer használatos termékeire 38 forint/darab (szál),
+  - eb) folyadékára 76 forint/milliliter,
+- f) a füst nélküli dohánytermékre 28 060 forint/kilogramm,
+- g) a dohányzást helyettesítő nikotintartalmú termékre 28 060 forint/kilogramm,
+- h) a hevített termékre 38 forint/darab (szál).
+
+(1a) A 2025. évet követően az adó mértéke az (1) bekezdés szerinti esetekben a tárgyévet megelőző évi adó mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege. Az (1) bekezdés d)–e) és h) pontja szerinti adómértékeket 1 forintra, az (1) bekezdés a)–c) és f)–g) pontja szerinti adómértékeket 10 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az állami adó- és vámhatóság internetes honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
 (2) A jövedéki adó megállapítása szempontjából a cigaretta tételes adójának alapját kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter; az előzőek szerinti mérettartomány minden további 3 centiméterenkénti növekedése esetén a tételes adó alapjának szorzószámát eggyel növelni kell.
 

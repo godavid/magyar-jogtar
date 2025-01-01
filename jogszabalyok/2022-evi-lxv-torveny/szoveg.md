@@ -107,7 +107,7 @@ tekintetében.
 
 12. § (1) A Nemzeti Irányító Hatóság a KAP I rendelet 123. cikke szerinti feladatot ellátó agrárpolitikáért felelős miniszter (a továbbiakban: miniszter). A Nemzeti Irányító Hatóság feladatait, felelősségének fenntartása mellett közreműködő szervezetnek, jogszabályban meghatározottak szerint átadhatja.
 
-(2) Az illetékes hatóság a KAP II rendelet 8. cikke szerinti akkreditációs feladatot ellátó miniszter.
+(2) Az illetékes hatóság a KAP II rendelet 8. cikke szerinti akkreditációs feladatot ellátó miniszter. A Nemzeti Kifizető Ügynökség tekintetében a miniszter illetékes hatósági feladatkörében gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény 9. § e), h) és i) pontjában meghatározott hatásköröket.
 
 (3) A Nemzeti Kifizető Ügynökség a KAP II rendelet 9. cikke szerinti feladatot ellátó szervezet. A Nemzeti Kifizető Ügynökség feladatait, felelősségének fenntartása mellett jogszabályban és megállapodásban rögzítettek szerint együttműködő szervezetnek átruházhatja.
 

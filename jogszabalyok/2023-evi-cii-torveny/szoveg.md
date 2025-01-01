@@ -10,7 +10,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 1. § (1) A törvény célja a területfejlesztés és a területrendezés alapvető feladatainak, szabályainak megállapítása, intézményrendszerének kialakítása.
 
-(2) A törvény hatálya az állami területfejlesztési feladatok, valamint a területfejlesztési feladatokat ellátó önkormányzatok koordinációs feladatainak, továbbá a területrendezési feladatok szabályozására terjed ki. A törvény hatálya alá tartoznak az e tevékenységben közreműködő, illetve az általa érintett természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek.
+(2) A törvény hatálya az állami területfejlesztési feladatok, valamint a területfejlesztési feladatokat ellátó önkormányzatok területfejlesztési feladatainak, továbbá a területrendezési feladatok szabályozására terjed ki. A törvény hatálya alá tartoznak az e tevékenységben közreműködő, illetve az általa érintett természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek.
 
 #### 2. A területfejlesztés célja és feladata
 
@@ -235,7 +235,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 (5) A térségi fejlesztési tanács működtetését a tagok által képviselt szervezetek befizetései és egyéb bevételek biztosítják. A működtetéshez a központi költségvetés támogatást nem nyújt.
 
-(6) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes vármegyei kormányhivatal látja el.
+(6) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes fővárosi vagy vármegyei kormányhivatal látja el. Ennek keretében a kormányhivatal kezdeményezheti az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 68/B. §-a szerinti kincstári ellenőrzést, valamint a térségi fejlesztési tanácsok gazdálkodását érintően tájékoztathatja az Állami Számvevőszéket az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 23. § (2) bekezdésében foglalt feladatkörét érintő intézkedés érdekében.
 
 (7) A térségi fejlesztési tanács
 
@@ -269,6 +269,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - b) a Tokaj Borvidéken a Tokaj Borvidék Fejlesztési Tanács;
 - c) a Közép-Duna Menti Kiemelt Térségben a Közép-Duna Menti Fejlesztési Tanács;
 - d) a Budapesti Agglomerációban a Budapesti Agglomeráció Fejlesztési Tanács.
+- e) a Tisza-tó Kiemelt Térségben a Tisza-tó Fejlesztési Tanács.
 
 (2) A Balaton Fejlesztési Tanács tagjai:
 
@@ -323,6 +324,20 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - n) a közlekedésért felelős miniszter képviselője;
 - o) a nemzeti közműszolgáltatásokért felelős miniszter képviselője.
 
+(5a) A Tisza-tó Fejlesztési Tanács tagjai:
+
+- a) a 12. § (1) bekezdése szerinti tagok;
+- b) az európai uniós források felhasználásáért felelős miniszter képviselője;
+- c) az aktív Magyarországért felelős miniszter képviselője;
+- d) a területrendezésért felelős miniszter képviselője;
+- e) a környezetvédelemért felelős miniszter képviselője;
+- f) a vízgazdálkodásért felelős miniszter képviselője;
+- g) a turizmusért felelős miniszter képviselője;
+- h) a természetvédelemért felelős miniszter képviselője;
+- i) a vidékfejlesztésért felelős miniszter képviselője;
+- j) a közlekedésért felelős miniszter képviselője;
+- k) a társadalmi felzárkózásért felelős miniszter képviselője.
+
 (6) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokba a területfejlesztésért felelős miniszter és az európai uniós források felhasználásáért felelős miniszter egy-egy tagot delegál, míg más felelősségi körökben érintett miniszterek kizárólag egy tagot delegálhatnak akkor is, ha több kormányzati felelősségi kör alapján jogosultak a tagdelegálásra.
 
 (7) A kormányzati hatáskörbe tartozó napirendi pont tárgyalására az illetékes központi kormányzati igazgatási szerv képviselőjét meg kell hívni.
@@ -334,7 +349,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - c) irányítják a térség területfejlesztési programjának végrehajtását;
 - d) döntenek a hatáskörükbe utalt fejlesztési források tekintetében azok felhasználásáról.
 
-(9) A kiemelt térségi fejlesztési tanácsok működtetésére – a (10) bekezdésben meghatározott kivétellel – a 11. §-t és a 12. § (2)–(4) bekezdését kell alkalmazni azzal az eltéréssel, hogy a kiemelt térségi fejlesztési tanácsok működtetéséhez a központi költségvetés támogatást nyújt.
+(9) A kiemelt térségi fejlesztési tanácsok működtetésére a 11. §-t és a 12. § (2)–(4) bekezdését kell alkalmazni azzal az eltéréssel, hogy a kiemelt térségi fejlesztési tanácsok működtetéséhez a központi költségvetés támogatást nyújt.
 
 (10) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokban az elnöki feladatokat két elnök, mint társelnök látja el, azzal, hogy az egyik elnök a területfejlesztésért felelős miniszter vagy az általa kijelölt személy, a másik elnököt a tanácsok a tagjaik közül választják. A társelnökök a tanács üléseit együttesen hívják össze, és az elnöki teendőiket azonos jogkörrel, – a társelnök tevékenységére is figyelemmel – egymással együttműködve látják el.
 
@@ -349,9 +364,10 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - c) kiemelt térség területfejlesztési koncepciója;
 - d) operatív program;
 - e) kiemelt térség területfejlesztési programja;
-- f) vármegyei és fővárosi területfejlesztési koncepció és területfejlesztési program;
-- g) vármegyei és fővárosi szintű Integrált Területi Program;
-- h) együtt kezelendő térség fejlesztési programja.
+- f) a nem kiemelt térségekben működő térségi fejlesztési tanácsok által a 11. § (7) bekezdés c) pontja alapján készített területfejlesztési koncepció és program;
+- g) vármegyei és fővárosi területfejlesztési koncepció és területfejlesztési program;
+- h) vármegyei és fővárosi Integrált Területi Program;
+- i) együtt kezelendő térség területfejlesztési programja.
 
 (2) Az (1) bekezdés szerinti tervek egymásra épülő rendszert alkotnak. A felsorolásban hátrébb álló, kisebb területi szintű tervnek meg kell felelnie a felsorolásban előrébb álló, magasabb területi szintű terv célrendszerével, azzal ellentétes elemet nem tartalmazhat.
 
@@ -377,7 +393,13 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 (3) A támogatások adataira vonatkozó nyilvántartás és a minisztériumok területi értékelései alapján a területfejlesztésért felelős miniszter – a kormányzati területfejlesztési feladatokért felelős szerv előkészítése mellett – jelentést nyújt be a Kormánynak arról, hogy a központi támogatások a területfejlesztési politika céljaival mennyire voltak összhangban.
 
-17. § A területfejlesztési célokat közvetlenül szolgáló területfejlesztési állami pénzalapról törvény rendelkezik.
+17. § (1) Az átfogó területfejlesztési politika megvalósításának érvényesítésére a területi kohézió erősítése, a fejlettségben mutatkozó területi különbségek mérséklése, a térségi versenyképesség javítása, a fenntartható fejlődés feltételeinek megteremtése, az innováció térbeli terjedése, valamint a közszolgáltatásokhoz való egyenlő hozzáférés elősegítése érdekében Területfejlesztési Alap (a továbbiakban: Alap) jön létre, amely pénzügyi támogatást biztosít a 2. §-ban rögzített célkitűzések megvalósításához.
+
+(2) Ha a Kormány a területi felzárkózás elősegítése céljából – azok teljes vagy részbeni fedezetének biztosítása érdekében pályázati úton – a Területfejlesztési Alap elnevezésű fejezeti kezelésű előirányzat terhére támogatást nyújt, a fejezetet irányító szerv vezetője az államháztartásról szóló törvényben meghatározott tárgyévi és költségvetési éven túli kötelezettségvállalási szabályoktól eltérően – a Kormány egyedi határozatában adott felhatalmazása alapján – kötelezettséget vállalhat.
+
+(3) A Kormány (2) bekezdés szerinti felhatalmazása a tárgyévi és a költségvetési éven túli kötelezettségek együttes összegét tartalmazza.
+
+(4) A Kormány által adott felhatalmazás kiterjedhet az Alappal érintett feladatok előkészítésére is.
 
 #### 12. Szabad vállalkozási zónák és ipari parkok működése
 
@@ -613,7 +635,7 @@ amely a területi tervek alapján valósul meg.
 - 10. a területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő – személyes adatot nem tartalmazó – dokumentumok körét, azok gyűjtésének, megőrzésének, nyilvántartásának és hasznosításának részletes szabályait;
 - 11. a Területfejlesztési Szolgálat szervezetrendszerének kialakítását, feladatainak részletes meghatározását, valamint működésének szakmai felügyeletére vonatkozó szabályokat;
 - 12. az együtt kezelendő térségek lehatárolását, körének meghatározását;
-- 13. az e törvényben meghatározott területfejlesztési programok végrehajtási rendszerének kialakítását
+- 13.
 
 rendeletben állapítsa meg.
 
@@ -624,7 +646,12 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a területfejlesztésért felelős miniszter, hogy a területfejlesztési tervezési tevékenység szabályait rendeletben megállapítsa.
+(3) Felhatalmazást kap a területfejlesztésért felelős miniszter, hogy
+
+- a) a területfejlesztési tervezési tevékenység szabályait, valamint
+- b) az Alapból finanszírozott programok végrehajtási rendszerének kialakítását
+
+rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a kiadott térségi területfelhasználási engedélyek okán felmerülő – az országos és a kiemelt térségi területrendezési terveket érintő – területhasználati változásokat rendeletben kihirdesse.
 

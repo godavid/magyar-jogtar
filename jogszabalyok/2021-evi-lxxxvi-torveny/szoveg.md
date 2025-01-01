@@ -4,7 +4,7 @@ egyes otthonteremtési állami feladatok karitatív szervezetek általi átváll
 
 Az Országgyűlés elismerve és támogatva a karitatív szervezetek társadalomért, különösen a nehéz helyzetben lévő családokért végzett szociális, segítő-szolgáltató, mentori tevékenységét, a következő törvényt alkotja:
 
-1. § (1) Az állam tulajdonában és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) vagyonkezelésében lévő
+1. § (1) Az állam tulajdonában lévő
 
 - a) határozatlan idejű lakásbérleti szerződéssel hasznosított ingatlanok, kivéve a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) V. fejezete szerinti, a tulajdonszerzési lehetőségekről és bérleti jogviszony fenntartásának feltételeiről szóló, folyamatban lévő nyilatkozattételi eljárással érintett ingatlanokat (a továbbiakban: nyilatkozattételi eljárással érintett ingatlanok),
 - b) olyan ingatlanok, amelyek tekintetében a lakásbérleti jogviszony megszűnt, de az ingatlan az egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamint az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásával összefüggő törvények módosításáról szóló 2021. évi CXXXII. törvény 12. §-a hatálybalépésekor a korábbi bérlő használatában áll,
@@ -12,7 +12,7 @@ Az Országgyűlés elismerve és támogatva a karitatív szervezetek társadalom
 
 e törvény alapján 2022. január 1. napjával ingyenesen, nyilvántartási értéken történő átvezetéssel az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: MR Közösségi Lakásalap NKft.) tulajdonába adhatóak.
 
-(2) Azok a nyilatkozattételi eljárással érintett ingatlanok, amelyek vonatkozásában a bérlő a 2018. évi CIII. törvény V. fejezete szerinti joghatás kiváltására alkalmas nyilatkozatában (a továbbiakban: nyilatkozat) úgy nyilatkozik, hogy a határozatlan idejű lakásbérleti jogviszonyát fenntartja, ingyenesen az MR Közösségi Lakásalap NKft. tulajdonába adhatóak a bérlő nyilatkozatának az MVH-hoz történő megérkezését követő második hónap első napját követően.
+(2) Azok a nyilatkozattételi eljárással érintett ingatlanok, amelyek vonatkozásában a bérlő a 2018. évi CIII. törvény V. fejezete szerinti joghatás kiváltására alkalmas nyilatkozatában (a továbbiakban: nyilatkozat) úgy nyilatkozik, hogy a határozatlan idejű lakásbérleti jogviszonyát fenntartja, ingyenesen az MR Közösségi Lakásalap NKft. tulajdonába adhatóak a bérlő nyilatkozatának a tulajdonosi joggyakorlóhoz történő megérkezését követő második hónap első napját követően.
 
 (3) Azok a nyilatkozattételi eljárással érintett ingatlanok, amelyek vonatkozásában a bérlő nem tesz nyilatkozatot sem a tulajdonszerzésre, sem a lakásbérleti jogviszony fenntartására – a lakásbérleti jogviszony fenntartása mellett – ingyenesen, nyilvántartási értéken történő átvezetéssel az MR Közösségi Lakásalap NKft. tulajdonába adhatóak a 2018. évi CIII. törvény V. fejezete szerinti nyilatkozattételi határidő elmulasztását követő második hónap első napját követően.
 
@@ -27,7 +27,7 @@ e törvény alapján 2022. január 1. napjával ingyenesen, nyilvántartási ér
 
 (7) Az MR Közösségi Lakásalap NKft. az (1) bekezdés a) pontja, valamint a (2) és (3) bekezdés szerinti ingatlanok ingyenes tulajdonba adását követő két évig a bérlő számára a 2018. évi CIII. törvény alapján megkötött lakásbérleti szerződésben meghatározottaknál hátrányosabb feltételeket nem határozhat meg.
 
-(8) Az ingatlanügyi hatóság az (1)–(3) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában az MVH-nak az (1) bekezdésre, valamint (2) vagy (3) bekezdésre való hivatkozást, a Kormány ingyenes tulajdonba adásról szóló határozatára való hivatkozást, a lakóingatlan helyrajzi számát, a tulajdonszerző MR Közösségi Lakásalap NKft. adatait és a tulajdonba adott tulajdoni hányad mértékét tartalmazó kérelme alapján jegyzi be.
+(8) Az ingatlanügyi hatóság az (1)–(3) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a tulajdonosi joggyakorlónak az (1) bekezdésre, valamint (2) vagy (3) bekezdésre való hivatkozást, a Kormány ingyenes tulajdonba adásról szóló határozatára való hivatkozást, a lakóingatlan helyrajzi számát, a tulajdonszerző MR Közösségi Lakásalap NKft. adatait és a tulajdonba adott tulajdoni hányad mértékét tartalmazó kérelme alapján jegyzi be.
 
 (9) Az (1)–(3) bekezdés szerint ingyenesen tulajdonba adott ingatlanok MR Közösségi Lakásalap NKft. általi értékesítése, cseréje esetén az értékesítésből származó bevételt és az ingatlanok helyébe lépő vagyontárgyat az MR Közösségi Lakásalap NKft. által végzett lakásgazdálkodási feladatok ellátására, valamint az ingatlanállomány fejlesztésére, bővítésére kell fordítani, illetve használni.
 

@@ -54,7 +54,7 @@ számára végzett jogi tanácsadás és okiratszerkesztés, vagy
 - e) munkaügyi tanácsadás,
 - f) bírósági, hatósági, illetve más közhatalmi eljáráson kívüli képviselet ellátása,
 - g) pénzügyi és egyéb üzletviteli tanácsadás,
-- h) felelős akkreditált közbeszerzési szaktanácsadói tevékenység,
+- h) a közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 24a. pontja szerinti közbeszerzési szolgáltatói tevékenység,
 - i) bizalmi vagyonkezelési tevékenység,
 - j) ingatlanközvetítői tevékenység,
 - k) társasházi közös képviselői tevékenység,
@@ -625,7 +625,7 @@ alapján folytatható.
 (2a) Elektronikus okirat esetében a (2) bekezdés c) pontja szerinti aláírás történhet
 
 - a) a fél minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásának elhelyezésével,
-- b) a fél által azonosításra visszavezetett dokumentumhitelesítés szolgáltatással való hitelesítéssel, vagy
+- b)
 - c) a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés h) pontja szerinti szolgáltatással.
 
 (2b) Jogi személy vagy jogi személyiség nélküli szervezet esetében az elektronikus okiratot a képviseletére jogosult természetes személy a (2a) bekezdés szerint írja alá.
@@ -2916,6 +2916,8 @@ rendeletben szabályozza.
 208/C. § (1) Az ingatlan-nyilvántartási ügyben való eljárási jogosultság nyilvántartásba vétele iránti kérelem 2024. október 1-jétől terjeszthető elő. A kérelemről a területi kamara elnöke a 2025. január 15-étől hatályos 183/A. §-ban meghatározott feltételek alapján dönt. Ha a területi kamara elnöke a kérelemnek helyt ad, az ingatlan-nyilvántartási ügyben való eljárási jogosultságot legkorábban 2025. január 15-i hatállyal veszi nyilvántartásba.
 
 (2) A 39/A. §-t és a 42/A. §-t abban az esetben kell alkalmazni, ha az ingatlan-nyilvántartási ügyben a kérelem benyújtására az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül kerül sor.
+
+208/E. § A fél vagy képviselője által a 2024. augusztus 31-én hatályos az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással való hitelesítéssel 2024. december 31-ig aláírt és azt követően az ügyvéd vagy a kamarai jogtanácsos által ellenjegyzett elektronikus okirat ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratnak minősül.
 
 #### 92. Az Európai Unió jogának való megfelelés
 

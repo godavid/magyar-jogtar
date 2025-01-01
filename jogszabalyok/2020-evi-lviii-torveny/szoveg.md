@@ -1975,56 +1975,25 @@ korlátozhatja.
 
 #### 266. §
 
-#### 84. A menekültügyi eljárás átmeneti szabályai
+#### 84.
 
-267. § A menekültügyi hatóság a menedékjogi kérelmeket 2024. december 31-ig az ebben az alcímben foglalt eltérésekkel bírálja el.
+#### 267. §
 
-268. § (1) Menedékjogi kérelem benyújtására irányuló szándéknyilatkozat személyes benyújtásával a külföldi tájékoztatja a menekültügyi hatóságot, hogy menedékjog iránti kérelem benyújtása céljából Magyarországra kíván beutazni.
+#### 268. §
 
-(2) Menedékjogi kérelem benyújtására irányuló szándéknyilatkozatot a menekültügyi hatóság részére címzett beadványként a Kormány rendeletében meghatározott, Magyarországnak a Külszoltv. 3. § (1) bekezdés a) pontja szerinti diplomáciai képviseletén (a továbbiakban: nagykövetség) lehet benyújtani, a menekültügyi hatóság által meghatározott és közzétett tartalommal.
+#### 269. §
 
-(3) A menekültügyi hatóság a szándéknyilatkozatot megvizsgálja, ennek keretében a külföldit távmeghallgatás keretében a nagykövetségein meghallgathatja.
+#### 270. §
 
-(4) A menekültügyi hatóság 60 napon belül tájékoztatja a nagykövetséget a menedékjogi kérelem benyújtása céljából kiállított, Magyarországra történő egyszeri utazásra jogosító okmány (a továbbiakban: utazási okmány) kiadása érdekében.
+#### 271. §
 
-(5) Ha a szándéknyilatkozat alapján a menekültügyi hatóság nem tesz javaslatot utazási okmány kiadására, erről a külföldit a nagykövetség útján tájékoztatja.
+#### 272. §
 
-269. § A menekültügyi hatóság 268. § (4) bekezdése szerinti tájékoztatása alapján Magyarország nagykövetsége 30 napig érvényes utazási okmányt állít ki, ha a külföldi Magyarországra történő belépésre jogosító engedéllyel nem rendelkezik.
+#### 273. §
 
-270. § (1) Menedékjogi kérelmet – a 271. § kivételével – a 268. § és a 269. § szerint lefolytatott eljárásokat követően lehet benyújtani.
+#### 274. §
 
-(2) Az utazási okmánnyal rendelkező külföldi menedékjogi kérelme előterjesztésének szándékát az országba történő belépéskor haladéktalanul jelzi a határrendészeti szerv részére.
-
-(3) A határrendészeti szerv a külföldit legkésőbb 24 órán belül a menekültügyi hatóság elé állítja.
-
-(4) A menedékjogi kérelmet előterjesztő külföldi a menedékjogról szóló törvény szerinti jogait menedékjogi kérelmének a menekültügyi hatóság előtti előterjesztése időpontjától gyakorolhatja.
-
-(5) Az elismerését kérő számára a menekültügyi hatóság végzéssel szálláshelyet jelölhet ki zárt befogadó intézményben. Ha a kérelem benyújtásától számított négy hét eltelt és a menekültügyi őrizet elrendelésének feltételei nem állnak fenn, a menekültügyi hatóság a menekültügyi eljárás általános szabályai szerint határozza meg a szálláshelyet.
-
-271. § (1) A menedékjogi kérelem benyújtásának nem feltétele a 268. § szerinti szándéknyilatkozat benyújtása
-
-- a) a Magyarországon tartózkodó oltalmazott,
-- b) a menekültként vagy oltalmazottként elismert személynek a menedékjogról szóló törvény szerinti, a menedékjogi kérelem benyújtása idején Magyarországon tartózkodó családtagja, valamint
-- c) a személyi szabadságot érintő kényszerintézkedés, intézkedés vagy büntetés hatálya alatt álló személy – kivéve, ha jogellenesen lépte át Magyarország államhatárát –
-
-tekintetében.
-
-(2) A Magyarország államhatárát jogellenesen átlépő külföldit – ha a menedékjogi kérelem benyújtásának a szándékát a rendőrség előtt jelzi – a rendőrség a határátlépés helye szerinti szomszédos országban található magyar nagykövetségre irányítja.
-
-(3) Az (1) bekezdés szerinti esetben a menekültügyi hatóság a menekültügyi eljárás általános szabályai szerint jár el.
-
-272. § A menekültügyi hatóság a menedékjogi kérelem benyújtására irányuló szándéknyilatkozattal összefüggő eljárása során a külföldiek adatait 10 évig kezeli.
-
-273. § A menedékjogi kérelem elbírálása során nem alkalmazható
-
-- a) a menedékjogról szóló 2007. évi LXXX. törvény 71/A–72. §-a és 80/H–80/K. §-a,
-- b) a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet VII/A. Fejezete.
-
-274. § Az ebben az alcímben foglalt rendelkezéseket az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében elrendelt veszélyhelyzet során a menekültügyi eljárás szabályairól szóló 233/2020. (V. 26.) Korm. rendelet hatálybalépését követően előterjesztett menedékjogi kérelmek elbírálására kell alkalmazni.
-
-275. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg Magyarország nagykövetségeinek azt a körét, ahol menedékjogi kérelem benyújtására irányuló szándéknyilatkozat benyújtható.
-
-(2) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az ezen alcím végrehajtásához szükséges részletes eljárási szabályokat a külpolitikáért felelős miniszter egyetértésével rendeletben állapítsa meg.
+#### 275. §
 
 #### 85. Az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása érdekében a magyarországi székhelyű gazdasági társaságok gazdasági célú védelméhez szükséges intézkedések
 

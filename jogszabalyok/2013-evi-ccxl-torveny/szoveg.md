@@ -3433,7 +3433,7 @@ miatt kiszabott fegyelmi fenyítés.
 
 (5) Ha a bv. intézet az általa tartalmilag ellenőrizhető levél tekintetében megállapítja, hogy az a fogvatartás biztonságát veszélyeztető adatot, információt vagy tárgyat tartalmaz, a levél nem továbbítható, az elítéltnek nem kézbesíthető.
 
-(6) Az elítélt a házirendben meghatározottak szerint a bv. intézet által létrehozott elektronikus levelezési címen is levelezhet. Az elektronikus levélhez dokumentum is csatolható. Az elektronikus levelezés informatikai alkalmazással is ellenőrizhető.
+(6) Az elítélt a technikai feltételek rendelkezésre állása esetén, a házirendben meghatározottak szerint a bv. intézet által létrehozott elektronikus levelezési címen is levelezhet. Az elektronikus levélhez dokumentum is csatolható. Az elektronikus levelezés informatikai alkalmazással is ellenőrizhető.
 
 ### Telefonbeszélgetés
 

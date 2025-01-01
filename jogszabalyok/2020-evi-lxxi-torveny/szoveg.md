@@ -296,7 +296,7 @@ használja, vagy
 
 (5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét, valamint a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt év leteltének dátumát.
 
-(5a) Az ingatlan használati jogosultságának átengedésére irányuló szerződés az (5) bekezdés szerinti dátumot meghaladóan semmis.
+(5a) Az ingatlant a (3) bekezdés alapján megöröklő tulajdonostársak által kötött, az ingatlan használati jogosultságának átengedésére irányuló szerződés az (5) bekezdés szerinti dátumot meghaladóan semmis.
 
 (6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét
 
@@ -332,7 +332,7 @@ ingatlan-nyilvántartási átvezetésével egyidejűleg.
 
 (5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányad vonatkozásában, valamint a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt év leteltének dátumát.
 
-(5a) Az ingatlan használati jogosultságának átengedésére irányuló szerződés az (5) bekezdés szerinti dátumot meghaladóan semmis.
+(5a) Az ingatlanban fennálló tulajdoni hányadot a (3) bekezdés alapján megöröklő tulajdonostársak által kötött, az örökléssel érintett tulajdoni hányad használati jogosultságának átengedésére irányuló szerződés az (5) bekezdés szerinti dátumot meghaladóan semmis.
 
 (6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét
 

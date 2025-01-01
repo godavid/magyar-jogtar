@@ -79,9 +79,25 @@ alapul, amelyek előmozdításához és szervezéséhez szükséges alapvető fe
   - f) Magyarországot jelentősen érintő katonai fenyegetés,
   - g) szövetségesi kötelezettség teljesítésére okot adó esemény, vagy
   - h) terrortámadás bekövetkezése, illetve annak jelentős veszélye;
+  - i) a kiberbiztonsági válsághelyzet;
 - 16. védelmi és biztonsági igazgatás: a közigazgatás részét képező feladat- és szervezetrendszer, amely a Kormány irányítása mellett a Magyarországot és annak lakosságát veszélyeztető fenyegetésekkel és támadásokkal szembeni fellépésre létrehozott, illetve jogszabályban ilyen feladatra kijelölt állami szervek központilag összehangolt tervező, végrehajtó és rendelkező tevékenysége, különös tekintettel a válsághelyzetek kezelésére, a különleges jogrend kihirdetésére, valamint a védelem- és biztonságtudatosság polgári és állami fokozásával összefüggő feladatokra és az ezekre való felkészülésre, beleértve a honvédelmi igazgatást és az annak részét képző katonai igazgatást, továbbá a kapcsolódó rendvédelmi szervek által ellátott igazgatást;
 - 17. védelmi és biztonsági kötelezettségek: az ország és a nemzet védelme és biztonságának fenntartása és fejlesztése érdekében az állam által természetes személyek, jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek részére meghatározható kötelezettségek;
 - 18. védelmi és biztonsági szervezetek: a Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség.
+- 19. az ország védelme és biztonsága szempontjából jelentős infrastruktúra: az általános kijelölő hatóság vagy a honvédelmi ágazati kijelölő hatóság által kijelölt olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges,
+- 20. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúra: az az ország védelme és biztonsága szempontjából jelentős infrastruktúra, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki honvédelmi ágazatban,
+- 21. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet: az az ország védelme és biztonsága szempontjából jelentős szervezet, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki honvédelmi ágazatban,
+- 22. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra: az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű infrastruktúra és az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett infrastruktúra,
+- 23. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet: az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű szervezet és az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet,
+- 24. az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra: az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúra és az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra,
+- 25. az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet: az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet és az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet,
+- 26. az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett infrastruktúra: az az ország védelme és biztonsága szempontjából jelentős infrastruktúra, amelyet a honvédelmi ágazati kijelölő hatóság jelölt ki nem honvédelmi ágazatban, és az általános kijelölő hatóság nem jelölte ki, valamint a honvédelmi ágazati kijelölő hatóság által a 43/N. § alapján kijelölt olyan infrastruktúra, mely kritikus infrastruktúraként nem került kijelölésre,
+- 27. az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet: az ország védelme és biztonsága szempontjából jelentős szervezet, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki nem honvédelem ágazatban, és az általános kijelölő hatóság nem jelölte ki, valamint a honvédelmi ágazati kijelölő hatóság által a 43/N. § alapján kijelölt olyan szervezet, mely kritikus szervezetként nem került kijelölésre,
+- 28. az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű infrastruktúra: az ország védelme és biztonsága szempontjából jelentős infrastruktúra, melyet a honvédelmi ágazati kijelölő hatóság is kijelölt, valamint az a kritikus infrastruktúra, melyet a honvédelmi ágazati kijelölő hatóság a 43/N. § alapján is kijelölt,
+- 29. az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű szervezet: az ország védelme és biztonsága szempontjából jelentős szervezet, melyet a honvédelmi ágazati kijelölő hatóság is kijelölt, valamint az a kritikus szervezet, melyet a honvédelmi ágazati kijelölő hatóság a 43/N. § alapján is kijelölt,
+- 30. az ország védelme és biztonsága szempontjából jelentős szervezet: az általános kijelölő hatóság vagy a honvédelmi ágazati kijelölő hatóság által kijelölt olyan alapvető szolgáltatást nyújtó szervezet, amely elengedhetetlen Magyarország társadalmi, gazdasági stabilitásához és a biztonság, a környezet, a védelmi képességek és a nemzeti ellenálló képességi rendszer fenntartásához.
+- 31. általános kijelölő hatóság: az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésére, a kijelölés fenntartására, vagy a kijelölés visszavonására irányuló közigazgatási hatósági eljárás lefolytatására kormányrendeletben kijelölt hatóság, amely a honvédelmi ágazati kijelölő hatóság kijelölési eljárása során az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendeletben meghatározott esetekben szakhatóságként is közreműködik,
+- 32. ellenálló képességért felelős vezető: az ország védelme és biztonsága szempontjából jelentős szervezet vezető tisztségviselője vagy a vezető tisztségviselőkből álló testület közvetlen irányítása alá tartozó, az ország védelme és biztonsága szempontjából jelentős szervezet ellenálló képességének fejlesztéséért és a szervezet az ország védelme és biztonsága szempontjából jelentős státuszából eredő, az V/A. Fejezet és a kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény (a továbbiakban: Kszetv.) szerinti kötelezettségeinek teljesítéséért felelős személy,
+- 33. honvédelmi ágazati kijelölő hatóság: az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra kijelölésére, a kijelölés fenntartására, vagy a kijelölés visszavonására irányuló közigazgatási hatósági eljárás lefolytatására kormányrendeletben kijelölt hatóság.
 
 ### II. Fejezet — A VÉDELEMMEL ÉS BIZTONSÁGGAL ÖSSZEFÜGGŐ KÖTELEZETTSÉGEK
 
@@ -161,7 +177,7 @@ kötelezettséget foglalja magában.
 - l) a közüzemi feladatot ellátó létesítmények üzemeltető személyzete,
 - m) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló pap, lelkész, rabbi,
 - n) a léginavigációs szolgáltatást ellátó szervezet személyzete,
-- o) a létfontosságú rendszerelem kritikus munkakörben foglalkoztatottja.
+- o) a kritikus szervezet és az ország védelme és biztonsága szempontjából jelentős szervezet kritikus munkakörben foglalkoztatottja.
 
 (3) A polgármester – kérelmére – a polgári védelmi kötelezettség alól legfeljebb egy év időtartamra mentesítheti azt a kötelezettet, aki
 
@@ -291,7 +307,7 @@ miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető elő
 - f) az országos munkavállalói és munkaadói érdekképviseletek, illetve érdekképviseleti szövetségei azon dolgok és jogok tekintetében, amelyek érdekképviseleti feladatuk ellátásához nélkülözhetetlenek,
 - g) azok az országos közutak kezelését ellátó a közforgalmú személyszállító, továbbá árufuvarozó szervezetek – ideértve a légi személyszállítást és légi árufuvarozást ellátó szervezeteket is –, amelyeket e tevékenység végzésére hoztak létre, vagy amelyek e tevékenységet szerződés illetve jogszabályi kijelölés alapján végzik, a létfontosságú közlekedés és szállítás fenntartásához szükséges mértékben, valamint a léginavigációs szolgáltatást ellátó szervezet,
 - h) a közszolgáltató vagy közüzemi tevékenységet folytató természetes vagy jogi személyek, különösen az áram-, víz-, gáz-, távhőszolgáltatást, víziközmű-szolgáltatást, kommunálishulladék-eltávolítást végzők, és ezek üzemvitelét biztosító üzemek, a rendeltetésszerű feladataik teljesítéséhez nélkülözhetetlen mértékben, beleértve a hozzájuk tartozó védő és biztonsági területeket is,
-- i) létfontosságú rendszerek üzemeltetői és az üzemeltetéshez nélkülözhetetlen szolgáltatásokat teljesítő szervezetek a létfontosságú rendszerelemek üzemeltetéséhez kapcsolódó szolgáltatásokhoz szükséges eszközök és erőforrások erejéig.
+- i) a kritikus szervezetek és a kritikus szervezetek által nyújtott alapvető szolgáltatáshoz nélkülözhetetlen szolgáltatásokat teljesítő szervezetek, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek által nyújtott alapvető szolgáltatáshoz nélkülözhetetlen szolgáltatásokat teljesítő szervezetek, az alapvető szolgáltatáshoz szükséges eszközök és erőforrások erejéig.
 
 17. § (1) A lakosság létfenntartása szempontjából nélkülözhetetlen egyéb termelési és szolgáltatási tevékenységet végzők kérelemre mentesíthetők a szolgáltatás alól.
 
@@ -313,7 +329,7 @@ miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető elő
 
 - a) az ország honvédelmi érdekeit súlyosan sértő vagy veszélyeztető cselekmények,
 - b) az államhatár rendjét súlyosan sértő cselekmények,
-- c) az élet- és vagyonbiztonságot jelentős mértékben veszélyeztető létfontosságú rendszer üzemzavara, illetve károsítása vagy
+- c) az élet- és vagyonbiztonságot jelentős mértékben veszélyeztető kritikus infrastruktúra, az ország védelme és biztonsága szempontjából jelentős infrastruktúra rendkívüli eseménye, illetve károsítása vagy
 - d) az a)–c) pont szerinti körülmény közvetlen veszélye
 
 bejelentésére is.
@@ -454,13 +470,13 @@ intézkedések és feladatok összessége.
 - g) energetikai eszközök és készletek és elektronikus hírközlő hálózati kapacitások,
 - h) vízügyi és árvízvédelmi termékek,
 - i) pénzeszközök, valamint
-- j) az a)–i) pont alá nem tartozó létfontosságú rendszerelemek által nyújtott, a társadalom alapvető szükségleteit kielégítő szolgáltatások.
+- j) az a)–i) pont alá nem tartozó kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek által nyújtott alapvető szolgáltatásokhoz szükséges eszközök, erőforrások.
 
 (2) Az (1) bekezdés g) pontja szerinti energetikai eszközök nem foglalják magukban az atomenergiáról szóló törvény szerinti nukleáris üzemanyagot.
 
 (3) Az állami célú tartalékok tekintetében a korlátozott felhasználhatóságú készleteket az elavulást, illetve a felhasználhatósági időtartam lejáratát megelőzően – a Kormány rendeletében meghatározottak szerint – más állami célra kell felhasználni a tartalékkészletek egyidejű pótlása mellett. A fel nem használható készleteket – az állami vagyonnal való gazdálkodásról szóló jogszabályokban és a Kormány rendeletében meghatározottak szerint – az elavulást megelőzően a 26. § (2) bekezdésében meghatározottakra figyelemmel értékesíteni kell.
 
-(4) A tartalékolási kötelezettség teljesítéséhez az állam elsősorban pénzbeli támogatásának biztosítása során – az egyéb, jogszabályban előírt feltételek fennállása esetén – elsőbbséget kell biztosítani a létfontosságú rendszerek üzemeltetői számára.
+(4) A tartalékolási kötelezettség teljesítéséhez az állam elsősorban pénzbeli támogatásának biztosítása során – az egyéb, jogszabályban előírt feltételek fennállása esetén – elsőbbséget kell biztosítani a kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek számára.
 
 28. § (1) A nemzetgazdaság szereplői számára előírt tartalékolási kötelezettség teljesítéséhez az állam elsősorban pénzbeli támogatást biztosíthat. Az államot a tartalékolással felhalmozott javak tekintetében – az állami támogatás összegével csökkentett, felhalmozáskor megállapított vételár figyelembevételével – vételi jog illeti meg, amelynek gyakorlására a Magyar Nemzeti Vagyonkezelő Zrt. jogosult. Ha az állam nem él a vételi jogával, akkor a tartalékolásra kötelezett jogosult a tartalékkészletet – annak egyidejű pótlásával – értékesíteni.
 
@@ -529,7 +545,7 @@ intézkedések és feladatok összessége.
 
 (5) A gazdaságmozgósítással összefüggő szerződéskötések körében, amennyiben az tényleges kapacitás lekötést jelent, közbeszerzési eljárást kell lefolytatni, kivéve az EUMSZ 346. cikke alapján azokat a beszerzéseket, amelyek esetében a beszerzésre vonatkozó törvény szabályainak alkalmazása olyan információk átadására kötelezné Magyarországot, amelyek felfedése ellentétes a biztonságához fűződő alapvető érdekeivel, és amely beszerzések megrendelésére az Országgyűlés feladatkörrel rendelkező bizottsága jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a beszerzésre vonatkozó törvény alkalmazása alól felmentést adott.
 
-(6) A rögzített védelmi ipari kapacitások korszerűsítésére, bővítésére szolgáló fejlesztésekre a feladat- és hatáskörrel rendelkező miniszter – kormánydöntés alapján, kapacitásfejlesztési szerződéssel – támogatást nyújt. A támogatás biztosítása során – az egyéb, jogszabályban előírt feltételek fennállása esetén – a támogatásra vonatkozó rendes szabályoktól eltérően elsőbbséget kell biztosítani a létfontosságú rendszerek üzemeltetői számára.
+(6) A rögzített védelmi ipari kapacitások korszerűsítésére, bővítésére szolgáló fejlesztésekre a feladat- és hatáskörrel rendelkező miniszter – kormánydöntés alapján, kapacitásfejlesztési szerződéssel – támogatást nyújt. A támogatás biztosítása során – az egyéb, jogszabályban előírt feltételek fennállása esetén – a támogatásra vonatkozó rendes szabályoktól eltérően elsőbbséget kell biztosítani a kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek számára.
 
 #### 13. A nemzetgazdaság védelmi és biztonsági célú felkészítésével és mozgósításával összefüggő kártalanítás közös szabályai
 
@@ -583,7 +599,7 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 - a) az Alaptörvényben meghatározott állami működés, a kormányzás és az alapvető fontosságú kormányzati szolgáltatások folytonosságának biztosítása,
 - b) rugalmas és a kihívásokhoz alkalmazkodó energetikai rendszer és energiabiztonsági megoldások kialakítása,
 - c) az ellenőrizetlen, tömeges személymozgások hatékony kezelésére való képesség,
-- d) a rugalmas és a kihívásokhoz alkalmazkodó, az alapvető élet- és egészségügyi feltételek fenntartását szolgáló rendszerek kialakítása, a társadalom alapvető szükségletei ellátásában nélkülözhetetlen létfontosságú rendszerek üzemfolytonos működésének biztosítása,
+- d) a rugalmas és a kihívásokhoz alkalmazkodó, az alapvető élet- és egészségügyi feltételek fenntartását szolgáló rendszerek kialakítása, az alapvető szolgáltatások folyamatosságának biztosítása,
 - e) a tömeges mértékű személyi sérüléssel fenyegető események kezelésére való képesség,
 - f) a rugalmas és a kihívásokhoz alkalmazkodó infokommunikációs rendszer kialakítása és működtetése,
 - g) a rugalmas és a kihívásokhoz alkalmazkodó közlekedési rendszer kialakítása és működtetése,
@@ -599,9 +615,116 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 - d) a lakosság ezzel összefüggő védelem- és biztonságtudatosságának erősítése,
 - e) a szövetségesi kötelezettségek és vállalások teljesítése,
 - f) a természeti és ipari katasztrófák megelőzése, valamint a kockázatok lehető legkisebbre csökkentése, a következmények mielőbbi helyreállítása, valamint
-- g) a társadalom alapvető szükségletei ellátásában nélkülözhetetlen létfontosságú rendszerek üzemfolytonos működése.
+- g) a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képessége és az alapvető szolgáltatások folyamatosságának biztosítása.
 
 #### 43. §
+
+### V/A. Fejezet — AZ ORSZÁG VÉDELME ÉS BIZTONSÁGA SZEMPONTJÁBÓL JELENTŐS SZERVEZETEK, AZ ORSZÁG VÉDELME ÉS BIZTONSÁGA SZEMPONTJÁBÓL JELENTŐS INFRASTRUKTÚRÁK
+
+#### 14/A. Általános szabályok
+
+43/A. § E fejezet szabályozza a Magyarország területén székhellyel rendelkező, az ország védelme és biztonsága szempontjából jelentős szervezetek ellenálló képességének fokozását célzó intézkedéseket, támogatási és felügyeleti rendszerüket.
+
+43/B. § (1) Az 5. melléklet szerinti alapvető szolgáltatást nyújtó szervezet, infrastruktúra az állampolgárok ellátásában vagy a nemzetgazdaság működésében betöltött szerepe alapján az alapvető szolgáltatás folyamatosságának biztosítása érdekében az ország védelme és biztonsága szempontjából jelentős szervezetként, az ország védelme és biztonsága szempontjából jelentős infrastruktúraként jelölhető ki.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésére, adatszolgáltatására, nyilvántartására, hatósági felügyeletére, támogatására, ellenálló képességének fejlesztésére vonatkozó kötelezettségeire, a rendkívüli események bejelentésére, az ország védelme és biztonsága szempontjából jelentős szervezetek és az eljáró hatóságok közötti együttműködésre, valamint az adatvédelemre – a (3) bekezdésben meghatározott kivételekkel – a Kszetv.-ben foglaltakat e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy
+
+- a) az ország védelme és biztonsága szempontjából jelentős szervezetre a kritikus szervezetre,
+- b) az ország védelme és biztonsága szempontjából jelentős infrastruktúrára a kritikus infrastruktúrára,
+- c) az ellenálló képességért felelős vezetőre a kritikus szervezet ellenálló képességéért felelős vezetőre
+
+vonatkozó rendelkezéseit kell alkalmazni.
+
+(3) Az ország védelme és biztonsága szempontjából jelentős szervezetekre, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákra nem alkalmazandó a Kszetv.
+
+- a) IV. Fejezete,
+- b) 23. § (1) bekezdés c) pontja,
+- c) 27. §-a,
+- d) 34. §-a,
+- e) IX. Fejezete,
+- f) 1. melléklete.
+
+#### 14/B. Az eljáró hatóságok
+
+43/C. § (1) Az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák kijelölésével összefüggő hatósági eljárások lefolytatására – a (2) bekezdésben meghatározott kivétellel – kormányrendeletben kijelölt általános kijelölő hatóság rendelkezik hatáskörrel.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetek, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrák kijelölésével összefüggő hatósági eljárások lefolytatására kormányrendeletben kijelölt honvédelmi ágazati kijelölő hatóság rendelkezik hatáskörrel.
+
+43/D. § (1) Az ország védelme és biztonsága szempontjából jelentős szervezetekről, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákról – a (2) bekezdésben meghatározott kivétellel – kormányrendeletben kijelölt nyilvántartó hatóság (a továbbiakban: nyilvántartó hatóság) nyilvántartást vezet.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezetekről, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúrákról a honvédelmi ágazati nyilvántartó hatóság nyilvántartást vezet. A honvédelmi ágazati nyilvántartó hatósági feladatokat a honvédelmi ágazati kijelölő hatóság látja el.
+
+(3) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezetekről, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúrákról a nyilvántartó hatóság és a honvédelmi ágazati nyilvántartó hatóság is nyilvántartást vezet.
+
+43/E. § (1) Az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenőrzésére – a (2) bekezdésben és a 43/J. § (2) bekezdésében foglalt kivétellel – kormányrendeletben kijelölt ellenőrző hatóság (a továbbiakban: ellenőrző hatóság) rendelkezik hatáskörrel.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezetek, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúrák ellenőrzésével összefüggő feladatok ellátására kizárólag a honvédelmi ágazati ellenőrző hatósági jogkörében a honvédelmi ágazati kijelölő hatóság rendelkezik hatáskörrel.
+
+(3) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezetek, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúrák ellenőrzésére mind az ellenőrző hatóság, mind a honvédelmi ágazati ellenőrző hatóság rendelkezik hatáskörrel.
+
+#### 14/C. Különös szabályok
+
+43/F. § (1) A Nemzeti Biztonsági Stratégiának ki kell terjednie az ország védelme és biztonsága szempontjából jelentős szervezetek ellenálló képességére is.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős szervezet a Kszetv. 19. §-a szerinti kockázatértékelést, ellenálló képességi mátrixot a Kszetv. 5. §-a szerinti nemzeti kockázatértékelés figyelembevételével készíti el.
+
+(3) Az ország védelme és biztonsága szempontjából jelentős szervezetekről, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákról vezetett nyilvántartás adatairól a nyilvántartó hatóság havonta adatot szolgáltat a védelmi és biztonsági igazgatás központi szerve részére a védelmi és biztonsági feladatai ellátásának támogatása céljából.
+
+#### 14/D. A hatósági eljárásokra vonatkozó, honvédelmi szempontú különös szabályok
+
+43/G. § (1) A honvédelmi ágazati kijelölő hatóság a kijelölési, a kijelölés fenntartására, vagy a kijelölés visszavonására irányuló eljárása során vizsgálja a honvédelmi érdek, meghatározott esetekben az általános kijelölő hatóság bevonásával a horizontális kritériumok fennállását, valamint a kettős kijelöléssel nem érintett az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet esetében – az általános kijelölő hatóság javaslatának figyelembevételével – meghatározza a szervezet ellenálló képességi szintjét.
+
+(2) A honvédelmi ágazati kijelölő hatóság a kijelölési eljárása keretében
+
+- a) az 5. mellékletben meghatározott ágazatba tartozó szervezetet honvédelmi érdekből, kormányrendeletben meghatározott honvédelmi szempontok alapján az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetté jelölheti ki, és
+- b) a kijelölő határozatban megállapítja az ellenálló képességi terv elkészítésének határidejét.
+
+(3) A honvédelmi ágazati kijelölő hatóság a döntését honvédelmi érdekre tekintettel gyorsított eljárásban is meghozhatja.
+
+(4) A honvédelmi ágazati kijelölő hatóság az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra kijelöléséről szóló véglegessé vált határozatát megküldi a nyilvántartó hatóság részére az abban foglalt adatok nyilvántartásba vétele céljából.
+
+(5) A honvédelmi kijelölő hatóság legalább egy honvédelmi szempont teljesülése esetén az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúraként jelöli ki azt az infrastruktúrát, amely
+
+- a) az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet által nyújtott alapvető szolgáltatáshoz szükséges és
+- b) Magyarország területén helyezkedik el.
+
+43/H. § (1) Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet által elkészített ellenálló képességi terv, ellenálló képességi mátrix elfogadásáról, kiegészíttetéséről, módosításáról vagy elutasításáról a tartalmi és formai követelmények vizsgálata alapján az általános kijelölő hatóság dönt az érintett honvédelmi ágazati kijelölő hatóság bevonásával.
+
+(2) Az ellenálló képességi terv, ellenálló képességi mátrix honvédelmi fejezeteinek megfelelőségét a honvédelmi kijelölő hatóság vizsgálja.
+
+(3) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet ellenálló képességi tervének, ellenállóképességi mátrixának elkészítésével, valamint gyakorlataikkal kapcsolatos, a Kszetv-ben meghatározott hatósági feladatokat kizárólag a honvédelmi ágazati kijelölő hatóság látja el.
+
+43/I. § (1) Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetként kijelölt, a honvédelemről szóló törvény szerinti honvédelmi szervezet esetében a kritikus szervezet ellenálló képességéért felelős vezetői tevékenységi kör egyéb beosztás ellátása melletti megbízással is végezhető.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli, továbbá az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett honvédelmi ágazaton kívüli szervezethez a Kszetv. szerinti Ellenálló Képességért Felelős Vezetők Tanácsadó Bizottságából tanácsadó nem rendelhető ki.
+
+43/J. § (1) A honvédelmi ágazati kijelölő hatóság a (2) bekezdésben foglalt kivétellel az ország védelme és biztonsága szempontjából jelentős szervezetek tekintetében ellenőrző hatósági feladatokat is ellát.
+
+(2) Az ország védelme és biztonsága szempontjából jelentős szervezetek tekintetében a honvédelmi célú elektronikus információs rendszerekre irányuló ellenőrző hatósági feladatokat a Magyarország kiberbiztonságáról szóló törvényben meghatározott hatóság látja el.
+
+(3) A honvédelmi ágazati kijelölő hatóság az ellenőrzési tervét az ellenőrző hatósággal előzetesen, legkésőbb a tárgyévet megelőző év december 1-ig egyezteti, majd az ellenőrző hatóság javaslatai alapján december 31-ig véglegesíti.
+
+(4) A honvédelmi ágazati kijelölő hatóság az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetekre vonatkozóan önálló ellenőrzés keretében vizsgálja a honvédelmi szempontok megfelelőségét.
+
+43/K. § A kormányrendeletben kijelölt honvédelmi nyilvántartó hatóság az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra vonatkozásában nyilvántartást vezet. A honvédelmi nyilvántartó hatósági feladatokat a honvédelmi kijelölő hatóság látja el.
+
+43/L. § (1) A rendkívüli eseményt az általános kijelölő hatóság által közzétett formanyomtatványon az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet és az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra esetén a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálat részére kell bejelenteni, amely szervek értesítik a nemzeti eseménykezelő központot.
+
+(2) A rendkívüli esemény lezárását követően annak kialakulásáról, a megtett intézkedésekről, a hasonló események megelőzése érdekében tett intézkedésekről az ellenálló képességért felelős vezető az általános kijelölő hatóság által meghatározott határidőre jelentést nyújt be az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet esetében a honvédelmi ágazati kijelölő hatóság részére, amely szervek a jelentést megküldik a nemzeti eseménykezelő központ részére.
+
+(3) A kontrollált rendkívüli esemény kialakulásáról, a megtett intézkedésekről, a hasonló események megelőzése érdekében tett intézkedésekről az ellenálló képességéért felelős vezető éves jelentést nyújt be az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet esetében a honvédelmi ágazati kijelölő hatóság részére, amely szervek a jelentést megküldik a nemzeti eseménykezelő központ részére.
+
+43/M. § (1) Az általános kijelölő hatóság és az ország védelme és biztonsága szempontjából jelentős szervezet együttműködik a honvédelemi ágazati kijelölő hatósággal az ország védelme és biztonsága szempontjából jelentős szervezeteket érintő, honvédelemmel összefüggő kockázatokról, fenyegetésekről és eseményekről az ellenálló képesség felmérése és fejlesztése érdekében.
+
+(2) A honvédelmi ágazati kijelölő hatóság az e fejezet szerinti eljárásaiban az általános kijelölő hatósággal együttműködve végzi tevékenységét.
+
+(3) Az ellenálló képességi terv, az ellenálló képességi mátrix és a rendkívüli események bejelentésének iratmintái, formanyomtatványai ágazatspecifikus szempontjaihoz a honvédelmi ágazati kijelölő hatóság szükség szerint aktualizálja javaslatát, és megküldi azokat az általános kijelölő hatóság részére.
+
+43/N. § (1) A honvédelmi ágazati kijelölő hatóság honvédelmi érdekből az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetként, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúraként a Kszetv. 1. melléklete szerinti alapvető szolgáltatást nyújtó szervezetet, infrastruktúrát is kijelölhet.
+
+(2) Az (1) bekezdés szerint kijelölt, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetek és az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrák esetében is ezen alcímben foglaltakat kell alkalmazni.
+
+(3) A Kszetv. 1. mellékletében meghatározott digitális infrastruktúra alágazatban kijelölt, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet és az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra esetében a 43/B. § (2) bekezdésében foglaltakon túl a Kszetv. V. Fejezetét, 13. alcímét, valamint 15–17. alcímét is alkalmazni kell.
 
 ## MÁSODIK RÉSZ — A VÉDELMI ÉS BIZTONSÁGI TEVÉKENYSÉGEK IRÁNYÍTÁSA ÉS ÖSSZEHANGOLÁSA, VALAMINT AZ EZZEL ÖSSZEFÜGGŐ FELADATOK SAJÁTOS IGAZGATÁSI RENDSZERE
 
@@ -696,7 +819,7 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 - i) a Nemzeti Média- és Hírközlési Hatóság,
 - j) a Magyar Energetikai és Közmű-szabályozási Hivatal,
 - k) a közellátást, illetve a közüzemi szolgáltatást végző szervek,
-- l) az a)–k) pontban meghatározottakon túl a társadalom alapvető szükségleteinek ellátásában nélkülözhetetlen létfontosságú rendszerek üzemeltetői,
+- l) az a)–k) pontban meghatározottakon túl a kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek,
 - m) minden olyan szerv, amely jogszabály alapján védelmi és biztonsági feladat ellátására vagy védelmi és biztonsági kötelezettség teljesítésében való közreműködésre köteles.
 
 (2) Az (1) bekezdésben felsorolt szervek a jogszabályban meghatározott feladataik végrehajtása keretében, működési területükön
@@ -754,7 +877,7 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 - f) összehangolja a nemzeti ellenálló képesség előmozdításával és fejlesztésével összefüggő feladatok tervezését és ellátását,
 - g) kormányrendeletben meghatározottak szerint koordinálja a Kormány válsághelyzeti és különleges jogrendi működéséhez szükséges speciális feltételek kialakítását és fenntartását, továbbá javaslatot tesz az e célra szükséges költségvetési forrásokra,
 - h) figyelemmel kíséri és feladatkörét érintően támogatja a védelmi és biztonsági érdekek érvényesítését, illetve az ezekkel összefüggő fejlesztéseket segítő, valamint a biztonsági és védelmi összefüggésű technológiai, illetve társadalmi kihívások beazonosításához hozzájáruló tudományos kutatásokat,
-- i) ellenőrzi a védelmi és biztonsági célú feladatellátást és az arra való felkészülést a minisztériumok, kormányzati főhivatalok és központi hivatalok tekintetében,
+- i) ellenőrzi a védelmi és biztonsági célú feladatellátást és az arra való felkészülést a minisztériumok, kormányzati főhivatalok, központi hivatalok tekintetében, valamint a nemzetbiztonsági szolgálatok tekintetében, valamint, a kritikus szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek kijelölő hatóságai körében,
 - j) koordinálja a különleges jogrendi felkészülés ágazati feladatainak ellátását, valamint
 - k) ellátja a jogszabályban részére meghatározott további feladatokat.
 
@@ -1203,7 +1326,7 @@ riasztási és tájékoztatási eljárásrendekre tagozódik.
 
 #### 34. A védelmi és biztonsági feladatok ellátásával összefüggő kötelezettségek ellenőrzése
 
-72. § (1) A védelmi és biztonsági igazgatás központi szerve ellenőrzi az e törvényben és a kapcsolódó jogszabályokban meghatározott védelmi és biztonsági feladatok ellátásából fakadó kötelezettségek teljesítését a minisztériumok, a kormányzati főhivatalok, központi hivatalok és a nemzetbiztonsági szolgálatok körében.
+72. § (1) A védelmi és biztonsági igazgatás központi szerve ellenőrzi az e törvényben és a kapcsolódó jogszabályokban meghatározott védelmi és biztonsági feladatok ellátásából fakadó kötelezettségek teljesítését a minisztériumok, a kormányzati főhivatalok, központi hivatalok, a nemzetbiztonsági szolgálatok, a kritikus szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek kijelölő hatóságai körében.
 
 (2) Az ellenőrzés magában foglalja a védelmi és biztonsági feladatokkal összefüggésben különösen
 
@@ -1419,10 +1542,23 @@ szabályozási tárgykörökben gyakorolhatja.
 - 7.
 - 8. a NATO Válságreagálási Rendszerével összefüggő döntéshozatal és feladatellátás részletes szabályait, valamint az ezzel összhangban álló Nemzeti Intézkedési Rendszer alkalmazásával összefüggő szabályokat,
 - 9. az összehangolt védelmi tevékenység elrendelését, valamint az e törvényben meghatározott intézkedések bevezetését.
+- 10. az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésével kapcsolatos részletes szabályokat, az eljáró hatóságokat, a kijelölés ágazati kritériumait.
+
+83/A. § (1) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg az ellenálló képességért felelős vezető továbbképzésére vonatkozó szabályokat.
+
+(2) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza az ország védelme és biztonsága szempontjából jelentős szervezetek anyagi támogatására vonatkozó részletes szabályokat.
 
 #### 44.
 
 #### 84. §
+
+#### 44/A. Átmeneti rendelkezések
+
+84/A. § (1) Az általános kijelölő hatóság és a honvédelmi ágazati kijelölő hatóság a V/A. Fejezet szerinti kijelölési eljárásokat első alkalommal 2025. április 30-ig megindítja, és az eljárás részeként dönt a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény szerint hozott kijelölő, kijelölést fenntartó határozatok érvényességének megszűnéséről, vagy a kijelölések megszüntetéséről.
+
+(2) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény alapján kijelölt létfontosságú rendszerelem üzemeltetője az (1) bekezdésben meghatározott kijelölési eljárásban hozott döntés véglegessé válásáig e törvény alkalmazásában az ország védelme és biztonsága szempontjából jelentős szervezetnek minősül.
+
+(3) Az (1) bekezdés szerinti határozat véglegessé válásáig a Kszetv. 42. § (3) és (4) bekezdésében meghatározott átmeneti rendelkezéseket az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák vonatkozásában is alkalmazni kell.
 
 #### 45. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -1433,21 +1569,25 @@ szabályozási tárgykörökben gyakorolhatja.
 - c) 5. alcíme az Alaptörvény XXXI. cikk (6) bekezdése alapján,
 - d) 79–81. §-a az Alaptörvény 52. cikk (5) bekezdése és 54. cikk (8) bekezdése alapján,
 - e) 82. §-a az Alaptörvény T) cikk (1) bekezdése alapján,
-- f) 86. §-a és 87. § (1) bekezdése az Alaptörvény 46. cikk (6) bekezdése alapján,
+- f)
 - g)
-- h) 92. § (5) bekezdés f) pontja az Alaptörvény 52. cikk (5) bekezdése alapján,
-- i) 92. § (5) bekezdés g) pontja az Alaptörvény XXXI. cikk (5) bekezdése alapján,
-- j) 92. § (5) bekezdés h) pontja az Alaptörvény XXXI. cikk (6) bekezdése alapján
+- h)
+- i)
+- j)
 
 sarkalatosnak minősül.
 
 (1a) E törvény 82/A. §-a az Alaptörvény 52. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 93. § az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
+(2)
 
-#### 46. Módosító és hatályon kívül helyező rendelkezések
+#### 45/A. Az Európai Unió jogának való megfelelés
 
-#### 86. §
+85/A. § A 10. § (2) bekezdés o) pontja, 16. § i) pontja, 27. § (1) bekezdés j) pontja, 27. § (4) bekezdése, 34. § (6) bekezdése, 42. § (2) bekezdés d) pontja, 42. § (4) bekezdés g) pontja és 49. § (1) bekezdés l) pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+#### 46. Az Európai Unió jogának való megfelelés
+
+86. § E törvény az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 87. §
 
@@ -1539,3 +1679,52 @@ A tulajdonos, birtokos, rendelkezni jogosult, valamint a szolgáltatást nyújt�
 - 9. a nemzetgazdaság védelmi és biztonsági célú felkészítésének és mozgósításának finanszírozásához szükséges költségvetési többletigények, valamint a költségvetési előirányzatok átcsoportosítási tervjavaslata,
 - 10. összesítő a követő tervezés információs rendszere által előállított bázisadatok elemzéséhez, feldolgozásához,
 - 11. jegyzék a gazdaságmozgósítási szerződésekről.
+
+### 5. melléklet a 2021. évi XCIII. törvényhez
+
+#### Az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ágazatai, alágazatai, alapvető szolgáltatásai
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 | Ágazat | Alágazat | Alapvető szolgáltatás |
+| 2 | Egészségügy | Mentési tevékenység | mentés |
+| 3 |  | Egészségügyi tartalékok | állami egészségügyi tartalék szolgáltatás és gazdálkodás |
+| 4 | Gyártás | Elsődleges fémgyártás | vas- és acélgyárak és vasötvözet gyártás, kereskedelem |
+| 5 |  |  | alumínium gyártás, -feldolgozás, -kereskedelem |
+| 6 |  | Gépgyártás | motor és turbina gyártás, kereskedelem |
+| 7 |  |  | bányászat, mezőgazdasági és építőipari berendezés gyártás, kereskedelem |
+| 8 |  | Elektromos berendezések, készülékek és alkatrészek gyártása | transzformátor, elektromos motor- és generátor gyártás, kereskedelem |
+| 9 |  |  | elektronikai alkatrész és egyéb villamos berendezés gyártás, kereskedelem |
+| 10 |  |  | akkumulátor gyártás, kereskedelem |
+| 11 |  | Közlekedési eszközök gyártása | jármű és kereskedelmi hajó gyártás, kereskedelem |
+| 12 |  |  | közúti jármű- és motorgyártás, kereskedelem |
+| 13 |  |  | repülésjárműtechnikai termék és alkatrész gyártás, kereskedelem |
+| 14 |  |  | vasúti pályafelszerelés gyártás, kereskedelem |
+| 15 |  | Vegyipar | alapvető vegyi anyag, termék gyártás, kereskedelem |
+| 16 |  |  | mezőgazdasági vegyi termék gyártás, kereskedelem |
+| 17 |  |  | polgári robbanóanyag gyártás, kereskedelem |
+| 18 |  | Máshova nem sorolt gyártói tevékenység | máshova nem sorolt gép és gépi berendezés gyártás, kereskedelem |
+| 19 | Honvédelem | Honvédelmi szempontból fontos rendszerek és létesítmények | honvédelmi szempontból fontos létesítmény, infrastruktúra, eszköz, informatikai rendszer üzemeltetése, szolgáltatás biztosítása |
+| 20 |  | Védelmi ipar | katonai rendeltetésű, felhasználású eszköz, felszerelés, anyag gyártása, forgalmazása, karbantartása, javítása, raktározása |
+| 21 | Hulladékgazdálkodás | Települési nem veszélyes hulladék gazdálkodás | települési nem veszélyes hulladék gyűjtése, szállítása |
+| 22 |  |  | települési nem veszélyes hulladék energetikai hasznosítása |
+| 23 |  |  | települési nem veszélyes hulladék lerakása |
+| 24 |  | Veszélyes hulladék gazdálkodás | veszélyes hulladék gyűjtése, szállítása |
+| 25 |  |  | veszélyes hulladék égetése |
+| 26 |  |  | veszélyes hulladék lerakása |
+| 27 | Infokommunikációs technológiák | Postai szolgáltatások | postai szolgáltatás |
+| 28 |  | IKT-szolgáltatások irányítása (vállalkozások között) | kihelyezett (irányított) infokommunikációs szolgáltatás |
+| 29 |  |  | kihelyezett (irányított) infokommunikációs biztonsági szolgáltatás |
+| 30 |  | Futárszolgáltatás | futárszolgáltatás |
+| 31 |  | Digitális szolgáltatók | online piacterekkel kapcsolatos szolgáltatás és üzemeltetés |
+| 32 |  |  | online keresőmotorokkal kapcsolatos szolgáltatás és üzemeltetés |
+| 33 |  |  | közösségi média szolgáltatás és üzemeltetés |
+| 34 | Közigazgatás | Központi kormányzati közigazgatás | társadalombiztosítás |
+| 35 |  | Rendvédelmi szervek | központi segélyhívó szolgáltatás |
+| 36 |  |  | rendőrségi tevékenységirányítás |
+| 37 |  |  | katasztrófavédelmi műveletirányítás |
+| 38 |  | Köznevelés | a köznevelés szempontjából nélkülözhetetlen informatikai rendszerek szolgáltatása |
+| 39 |  | Gondoskodás-, gyermek- és ifjúságpolitika | szociális, gyermekjóléti, gyermekvédelmi szolgáltatások és országos informatikai szakrendszereik működése |
+| 40 | Közlekedés | Logisztika | logisztikai szolgáltatás |
+| 41 | Pénzügy | Adó- és vámigazgatás | Nemzeti Adó- és Vámhivatal alapvető feladatai |
+| 42 | Víz | Árvízi védművek, műtárgyak és tározók | árvízi védművek, műtárgyak és tározók üzemeltetése |

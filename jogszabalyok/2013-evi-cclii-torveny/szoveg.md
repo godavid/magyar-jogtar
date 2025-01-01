@@ -810,7 +810,7 @@ lép hatályba.
 
 „105. § A Cnytv. 63. §-ának nyitó szövegrésze helyébe a következő rendelkezés lép:
 
-„Az egyesület nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell az egyesület képviselőjének anyja születési nevét és a vezető tisztségviselői megbízás időtartamát is. Az egyesület nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon kívül csatolni kell a következőket is:””
+„Az egyesület nyilvántartásba vétele iránti kérelemnek a 20. §-ban foglaltakon túlmenően tartalmaznia kell az egyesület képviselőjének anyja születési nevét és a vezető tisztségviselői megbízás időtartamát is. Az egyesület nyilvántartásba vétele iránti kérelemhez a 21. és 22. §-ban foglaltakon kívül csatolni kell a következőket is:”
 
 (2)
 
@@ -1472,7 +1472,17 @@ alapján sarkalatosnak minősül.
 
 193. § A 175. § (15) és (21) bekezdése a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről szóló, 1992. október 19-i 92/85/EGK tanácsi irányelvnek való megfelelést szolgálja.
 
-### 1–6. melléklet a 2013. évi CCLII. törvényhez
+### 1. melléklet a 2013. évi CCLII. törvényhez
+
+### 2. melléklet a 2013. évi CCLII. törvényhez
+
+### 3. melléklet a 2013. évi CCLII. törvényhez
+
+### 4. melléklet a 2013. évi CCLII. törvényhez
+
+### 5. melléklet a 2013. évi CCLII. törvényhez
+
+### 6. melléklet a 2013. évi CCLII. törvényhez
 
 ### 7. melléklet a 2013. évi CCLII. törvényhez
 

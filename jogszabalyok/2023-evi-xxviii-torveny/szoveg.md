@@ -86,9 +86,9 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 #### 17. A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény módosítása
 
-#### 21. §
+21. § Hatályát veszti a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény 100. § (10) bekezdésében az „ , a 40. § (3) bekezdése” szövegrész.
 
-#### 22. §
+22. § Nem lép hatályba a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény 40. § (3) bekezdése.
 
 #### 18. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
@@ -106,4 +106,4 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 (5)
 
-(6) Az 5. § (6) bekezdése, a 21. § és a 22. § 2025. január 1-jén lép hatályba.
+(6) A 21. § és a 22. § 2025. január 1-jén lép hatályba.
