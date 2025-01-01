@@ -102,6 +102,8 @@ k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés alapj
 
 (3) Az ideiglenesen forgalomban tartott gépjármű után személyszállító gépjármű esetében 10 000 forint, tehergépjármű esetében pedig 46 000 forint adót kell fizetni. A rendszámtábla próbajárműre való kiadása esetén 23 000 forint adót kell fizetni. A gépjármű állandó rendszámtáblával való ellátását követő hónap első napjától az adófizetési kötelezettségre az általános szabályok az irányadók.
 
+7/A. § A 2024. évet követően a gépjárműadó mértéke a tárgyévet megelőző évi gépjárműadó mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege. A 7. § (1) és (2) bekezdés szerinti mértékeket 5 vagy 10 forintra, a 7. § (3) bekezdésben említett adómértékeket 1000 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az állami adó- és vámhatóság a honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
+
 ### Adókedvezmény
 
 8. § (1) 20%-os kedvezmény illeti meg azon autóbuszt, tehergépjárművet – a nyergesvontató kivételével, amely után 30 %-os kedvezmény jár -, amely a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: KöHÉM rendelet) 5. számú melléklete II. alpontja szerinti „5”, „6”, „7” vagy „8” környezetvédelmi osztály-jelzéssel (kóddal) ellátott.
@@ -185,7 +187,7 @@ k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés alapj
 
 (5) Az adót az állami adó- és vámhatóság külföldi gépjárműadó számlája javára kell megfizetni.
 
-#### 16. §
+16. § A 2024. évet követően a külföldön nyilvántartott gépjárművek adójának mértéke a tárgyévet megelőző évi külföldön nyilvántartott gépjárművek adójának adómértéke a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege. A 15. §-ban említett adómértékeket 1000 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az állami adó- és vámhatóság a honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
 ### Az adó megfizetésének ellenőrzése
 
@@ -247,11 +249,13 @@ k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés alapj
 - e) amelyet a betegségmegelőző vagy gyógyító céllal, szociális céllal, az egészségkárosodott, hátrányos helyzetűek segítésére létrehozott alapítvány, közalapítvány, egyesület, köztestület, nonprofit gazdasági társaság kizárólag – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti – súlyosan fogyatékos magánszemély(ek), vagy a magasabb összegű családi pótlékra jogosító látási, hallási, értelmi, mozgásszervi fogyatékos vagy autista magánszemély(ek) rendszeres szállítására üzemeltet, ha működési szabályzatából, gazdálkodásából – az összes körülmény figyelembevételével – egyértelműen megállapítható, hogy az üzemeltetés ténylegesen az említett cél érdekében történik,
 - f) amelyet kizárólag az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 5. § (1) bekezdése vagy 16. §-a szerinti tevékenység ellátása érdekében, valamint az egészségügyi államigazgatási szerv törvény alapján kizárólag betegségmegelőző, gyógyító, egészségkárosodást csökkentő közegészségügyi, járványügyi és egészségvédelmi alapfeladatának ellátása érdekében üzemeltetnek,
 - g) amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltet,
-- h) amely törvényes öröklés eredményeként vagy végintézkedés alapján a magyar állam tulajdonában áll, azon hónap utolsó napjáig, amelyben a személygépkocsi használati jogát a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság, vagy a vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
+- h) amely törvényes öröklés eredményeként vagy végintézkedés alapján a magyar állam tulajdonában áll, azon hónap utolsó napjáig, amelyben a személygépkocsi vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
 
 ### Az adó mértéke
 
-17/E. § Az adó havi mértékét személygépkocsinként, a személygépkocsi kilowattban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján az 1. melléklet tartalmazza.
+17/E. § (1) Az adó havi mértékét személygépkocsinként, a személygépkocsi kilowattban kifejezett teljesítménye és környezetvédelmiosztály-jelzése alapján az 1. melléklet tartalmazza.
+
+(2) A 2025. évet követően a cégautóadó tárgyévi havi mértéke a tárgyévet megelőző évi cégautóadó havi mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege, 500 vagy 1000 forintra kerekítve. Az előbbiek szerint megállapított adómértékeket az állami adó- és vámhatóság a honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
 ### A kétszeres adóztatás kizárása
 
@@ -283,7 +287,7 @@ az eljáró hatóság
 - 6. autóbusz: személyszállítás céljára készült, elektromos felsővezetékhez nem kötött gépjármű, amelyben a vezető ülésével együtt kilencnél több állandó ülőhely van,
 - 7. motorkerékpár: olyan gépjármű, amelynek két vagy három kereke van és a tervezési legnagyobb sebessége 45 km/óránál nagyobb, továbbá olyan négykerekű gépjármű, amelynek saját tömege legfeljebb 550 kg és motorteljesítménye nem haladja meg a 15 kilowattot,
 - 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
-- 9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2015. július 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül, valamint a környezetkímélő motorkerékpár,
+- 9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2024. szeptember 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül, valamint a környezetkímélő motorkerékpár,
 - 10. költségvetési szerv az állam, a helyi önkormányzat, a nemzetiségi önkormányzat és az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 - 11. helyi és a helyközi tömegközlekedés lebonyolítását szolgálja a gépjármű (autóbusz), amellyel a vállalkozó kizárólag menetrendszerinti személyszállítást díjfizetés ellenében bárki által igénybe vehető módon végzi,
 - 12. súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő az a személy, aki a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet 2016. április 1-jén hatályos 2. § a) pontja szerint súlyos mozgáskorlátozottnak vagy 2. § h) pontja szerint egyéb fogyatékossággal élőnek minősül, és ezt a tényt az ott meghatározott szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja,
@@ -359,12 +363,12 @@ az eljáró hatóság
 
 ### 1. melléklet az 1991. évi LXXXII. törvényhez
 
-#### A cégautóadó havi mértékei
+#### A cégautóadó havi mértéke
 
 |  | A | B | C | D |
 | --- | --- | --- | --- | --- |
 | 1 | Teljesítmény (kW) | „0”–„4” környezetvédelmi osztályjelzések esetén | „6”–„10” környezetvédelmi osztályjelzések esetén | „5”; „14–15” környezetvédelmi osztályjelzések esetén |
-| 2 | 0–50 | 30 500 forint | 16 000 forint | 14 000 forint |
-| 3 | 51–90 | 41 000 forint | 20 000 forint | 16 000 forint |
-| 4 | 91–120 | 61 000 forint | 41 000 forint | 20 000 forint |
-| 5 | 120 felett | 81 000 forint | 61 000 forint | 41 000 forint |
+| 2 | 0–50 | 37 000 forint | 19 000 forint | 17 000 forint |
+| 3 | 51–90 | 49 000 forint | 24 000 forint | 19 000 forint |
+| 4 | 91–120 | 73 000 forint | 49 000 forint | 24 000 forint |
+| 5 | 120 felett | 97 000 forint | 73 000 forint | 49 000 forint |

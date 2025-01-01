@@ -817,6 +817,8 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 
 (6) Az (1) bekezdés o) pontjában foglalt adatátadás valamint ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.
 
+(7) A kötvénynyilvántartás a 46. § (2) bekezdésében meghatározott adatokat automatikusan és díjmentesen szolgáltatja a Kknyt. szerinti járműnyilvántartásnak.
+
 48. § (1) A kötvénynyilvántartó szerv legalább havonta köteles a járműnyilvántartás, az ideiglenes rendszámtáblák nyilvántartása és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzembentartók vagy ideiglenes rendszámtábla jogosultjainak adatait tartalmazó listát, és azt a 45. § (2) bekezdésében meghatározott eljárás lefolytatása érdekében az üzembentartó vagy ideiglenes rendszámtábla jogosultjának lakóhelye (székhelye, telephelye) szerinti illetékes járási hivatal részére informatikai rendszerén keresztül elérhetővé tenni.
 
 (1a) A járási hivatal a 45. § (2) bekezdésében foglalt eljárás során az ügyfél által bemutatott kötelező gépjármű-felelősségbiztosítást igazoló okirat érvényességét a járműnyilvántartás, továbbá az ideiglenes rendszámtáblák nyilvántartása kötvénynyilvántartással meglévő adatkapcsolata útján a kötvénynyilvántartásban ellenőrzi.

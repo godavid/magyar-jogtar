@@ -21,7 +21,7 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 - 7. munkaadó: az Flt. 58. § (5) bekezdés c) pontja szerinti munkaadó;
 - 8. öregségi nyugdíjkorhatár: a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (1) bekezdése szerinti öregségi nyugdíjkorhatár;
 - 9. rehabilitáció: orvosi, szociális, képzési, foglalkoztatási és egyéb tevékenységek komplex rendszere, amelynek célja a megváltozott munkaképességű személy munkaerő-piaci integrációja, megfelelő munkahelyen történő foglalkoztatásra való felkészítése, továbbá a munkaképességének megfelelő munkahelyen történő elhelyezés biztosítása;
-- 10. rendszeres pénzellátás: a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátások, valamint a szociális biztonsági tárgyú nemzetközi egyezmények, továbbá az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások, ide nem értve a hadigondozottak és nemzeti gondozottak ellátásait, a nemzeti helytállásért elnevezésű pótlékot, a gyermekek otthongondozási díját, az ápolási díjat, a Tny. szerinti hozzátartozói nyugellátásokat és a gyermekgondozást segítő ellátást.
+- 10. rendszeres pénzellátás: a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátások, valamint a szociális biztonsági tárgyú nemzetközi egyezmények, továbbá az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások, ide nem értve a hadigondozottak és nemzeti gondozottak ellátásait, a nemzeti helytállásért elnevezésű pótlékot, a táppénzt, a baleseti táppénzt, a gyermekek otthongondozási díját, az ápolási díjat, a Tny. szerinti hozzátartozói nyugellátásokat és a gyermekgondozást segítő ellátást.
 - 11. egyéni vállalkozó: a Tbj. 4. § 2. pontjában meghatározott személy;
 - 12. társas vállalkozó: a Tbj. 4. § 21. pontjában meghatározott személy;
 - 13. biztosított: a 2020. július 1-jét megelőző időszakra a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. július 1-jét megelőzően hatályos 5. §-a, a 2020. július 1-jétől kezdődő időszakra a Tbj. 6. §-a alapján biztosítottnak minősülő személy.
@@ -154,7 +154,7 @@ megszűnik.
 
 - a) kérte,
 - b)
-- c) más rendszeres pénzellátásban részesül, ide nem értve a táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
+- c) más rendszeres pénzellátásban részesül, ide nem értve a csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
 - d) egészségi állapotában olyan tartós rosszabbodás következett be, amely a rehabilitációt lehetetlenné teszi,
 - e) egészségi állapotában olyan tartós javulás következett be, amely alapján már nem minősül megváltozott munkaképességű személynek,
 - f) az együttműködési, értesítési kötelezettségét neki felróható okból ismételten nem teljesíti,
@@ -199,7 +199,7 @@ megszűnik.
 (2) A rokkantsági ellátást meg kell szüntetni, ha az ellátásban részesülő
 
 - a) kérte,
-- b) más rendszeres pénzellátásban részesül, ide nem értve a táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
+- b) más rendszeres pénzellátásban részesül, ide nem értve a csecsemőgondozási díjat, gyermekgondozási díjat és az örökbefogadói díjat,
 - c) egészségi állapotában olyan tartós javulás következett be, amely alapján a jogosultsági feltételek már nem állnak fenn,
 - d)
 - e) foglalkoztatására a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor,
@@ -370,7 +370,7 @@ az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet
 
 (5) Ha a jogalap nélkül felvett vagy fizetési számlára átutalt jogalap nélküli ellátás összege nem éri el a 10 000 Ft-ot, a visszafizetést és a megtérítést nem kell elrendelni.
 
-20/A. § (1) A megváltozott munkaképességű személyek ellátásában részesülő halála esetén a fel nem vett pénzbeli ellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőssé válása napjától számított egy éven belül.
+20/A. § (1) A megváltozott munkaképességű személyek ellátásában részesülő halála esetén a fel nem vett pénzbeli ellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökösök egyenlő arányban – kérelemre – vehetik fel a halál napjától, illetve a teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés, az öröklési bizonyítvány vagy az öröklési perben hozott bírósági ítélet jogerőssé válása napjától számított egy éven belül.
 
 (2) Aki a megváltozott munkaképességű személyek ellátásában részesülő személy halála esetén a kiutalt pénzbeli ellátást jogalap nélkül vette fel, köteles azt visszafizetni.
 
@@ -435,7 +435,9 @@ vonatkozó adatokat kezelheti.
 
 (2) A megváltozott munkaképességű személyek ellátásai folyósításának és a megszüntetési ok fennállásának vizsgálata céljából az állami adóhatóság az Art. szerinti havi adó- és járulékbevallás alapján az ellátásban részesülő jövedelmére vonatkozó adatokat havonta, a bevallásra előírt határidőt követő hónap utolsó napjáig továbbítja a rehabilitációs hatósághoz. A rehabilitációs hatóság az adóazonosító jelet az e bekezdés, valamint a 14. § (3) bekezdés szerinti adatok átvételével összefüggésben használhatja.
 
-(3) A bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a büntetés-végrehajtás szervei, a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a munkaügyi hatóság, az állami foglalkoztatási szerv, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a családtámogatási ellátásokat megállapító szerv, a gyámügyi feladatokat ellátó szerv, az egészségbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény feladatai ellátása érdekében az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
+(3) A bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a gyámügyi feladatokat ellátó szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
+
+(3a) Az állami foglalkoztatási szerv, a munkaügyi és munkavédelmi hatóság, a családtámogatási ellátásokat megállapító szerv, az egészségbiztosítási szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel jogosult az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – lekérdezésére. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
 
 (4) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
 

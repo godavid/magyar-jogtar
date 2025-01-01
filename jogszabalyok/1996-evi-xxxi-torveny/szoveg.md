@@ -373,7 +373,7 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 (2) Minden tűz- vagy robbanásveszélyes technológia bevezetése, forgalomba hozatala, ezek hiányában alkalmazása előtt a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő, ezek hiányában a megrendelő vagy alkalmazó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat, legalább a kijelölt tanúsító szervezetekre vonatkozó követelményeknek megfelelő vagy akkreditált szervezettel elvégezni vagy elvégeztetni, és a vizsgálatok eredményét a tűzvédelmi hatóság kérésére rendelkezésre bocsátani.
 
-20/A. § Beépített tűzjelző berendezés vagy beépített tűzoltó berendezés jogszabályi rendelkezés vagy hatósági előírás alapján történő létesítési kötelezettsége esetén a beépített tűzjelző vagy beépített tűzoltó berendezés létesítését, továbbá átalakítását, bővítését, használatbavételét és megszüntetését a tűzvédelmi hatósággal előzetesen engedélyeztetni kell.
+20/A. § Beépített tűzjelző berendezés vagy beépített tűzoltó berendezés jogszabályi rendelkezés vagy hatósági előírás alapján történő létesítési kötelezettsége esetén a beépített tűzjelző vagy beépített tűzoltó berendezés létesítését, átalakítását és bővítését a tűzvédelmi hatósággal előzetesen engedélyeztetni kell, valamint annak használatbavételét és megszüntetését a tűzvédelmi hatóság részére előzetesen be kell jelenteni.
 
 21. § (1) Jogszabályban meghatározott esetben az építészeti-műszaki tervdokumentáció része a tűzvédelmi dokumentáció, amely tartalmazza törvény és annak végrehajtási rendeletében előírt tűzvédelmi követelményeknek való megfelelés dokumentálását tervekkel és műszaki leírásokkal.
 
@@ -855,3 +855,5 @@ kezeli.
 52. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 53. § Az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szükséges törvénymódosításokról szóló 2021. évi L. törvény által megállapított 46/A. § (1) bekezdését a 46/A. § (3) bekezdése szerinti nyilvántartásban szereplő szakértő esetében 2021. augusztus 1. napjától kell alkalmazni.
+
+54. § Az egyes iparbiztonsági, tűzvédelmi és hulladékgazdálkodási hatósági eljárások egyszerűsítéséről szóló 2024. évi LXXXIII. törvénnyel (a továbbiakban: 2024. évi LXXXIII. törvény) megállapított 20/A. §-t a 2024. évi LXXXIII. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

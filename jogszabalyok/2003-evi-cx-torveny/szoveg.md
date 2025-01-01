@@ -296,8 +296,8 @@ Adótételek az egyes adókategóriákban
 | 5. | Otto-motoros személygépkocsi 1801–2000 cm3-ig és dízelmotoros személygépkocsi 2001–2500 cm3-ig | 185 000 Ft/db | 740 000 Ft/db | 1 110 000 Ft/db | 1 480 000 Ft/db | 2 220 000 Ft/db |
 | 6. | Otto-motoros személygépkocsi 2001–2500 cm3-ig és dízelmotoros személygépkocsi 2501–3000 cm3-ig | 265 000 Ft/db | 1 060 000 Ft/db | 1 590 000 Ft/db | 2 120 000 Ft/db | 3 180 000 Ft/db |
 | 7. | Otto-motoros személygépkocsi 2500 cm3 felett és dízelmotoros személygépkocsi 3000 cm3 felett | 400 000 Ft/db | 1 600 000 Ft/db | 2 400 000 Ft/db | 3 200 000 Ft/db | 4 800 000 Ft/db |
-| 8. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezet- védelmi osztályba sorolása: 5E, 5P, 5N, 5Z) | 0 Ft/db |  |  |  |  |
-| 9. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, vagy az 1.–8. kategória alá nem tartozó más személygépkocsi. | 76 000 Ft/db |  |  |  |  |
+| 8. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezetvédelmi osztályba sorolása: 5E, 5Z) | 0 Ft/db |  |  |  |  |
+| 9. |  |  |  |  |  |  |
 
 - 2. Az adó összege motorkerékpárok esetén
 

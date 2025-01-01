@@ -226,7 +226,7 @@ a honvédelem térképészeti támogatásáért felelős szervtől – a 32. § 
 
 (18) A földmérési és térinformatikai államigazgatási szerv az erdészeti hatóság részére díj-, költség- és térítésmentesen közvetlen hozzáférést biztosít a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázis a körzeti erdőtervezéshez, az Országos Erdőállomány Adattár vezetéséhez, valamint az erdészeti mérő- és megfigyelő rendszer működtetéséhez szükséges, miniszteri rendeletben meghatározott adataihoz.
 
-(18a) A természetvédelmi hatóság a természetvédelmi törzskönyvek vezetése, továbbá a nemzeti park igazgatóságok a természetvédelmi törzskönyvek adatainak gyűjtése és nyilvántartása érdekében díj-, költség- és térítésmentesen, közvetlenül hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisoknak ezen feladatok ellátásához szükséges adataihoz.
+(18a) A természetvédelmi hatóság egyedi hatósági feladatok ellátása és hatósági nyilvántartások vezetése érdekében, a természet védelméért felelős miniszter – természetvédelmi hatósági hatáskörében – a természetvédelmi törzskönyvek vezetése, továbbá a nemzeti park igazgatóságok a természetvédelmi törzskönyvek adatainak gyűjtése és nyilvántartása érdekében díj-, költség- és térítésmentesen, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztül hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisoknak ezen feladatok ellátásához szükséges adataihoz.
 
 (18b) A Nemzeti Földalap kezeléséért felelős szerv az állami vagyonnyilvántartási és földgazdálkodási feladatai ellátása érdekében, díj-, költség- és térítésmentesen, a feladatellátáshoz szükséges, 3. § (1) bekezdés d)–f) pontjában foglalt, a földmérési és térinformatikai államigazgatási szerv által kezelt adatokhoz közvetlenül hozzáférhet, a honvédelemért felelős miniszter felelősségi körébe tartozó adatokból évente egyszeri adatszolgáltatást kérhet.
 
@@ -281,6 +281,8 @@ díj-, költség- és térítésmentesen hozzáférhet.
 (35) A hulladékgazdálkodási hatóság – az elhagyott hulladék felszámolása érdekében – az elektronikus formában szolgáltatott térképmásolatok tekintetében teljes személyes díjmentességben részesül.
 
 (36) Az adatszolgáltató a Nemzeti Adatvagyon Ügynökség (a továbbiakban: NAVÜ) részére adatelemzési feladatainak ellátása érdekében az általa kért – a 3. § (1) bekezdése szerinti – adatokat átadja. A NAVÜ az átadott adatokat kizárólag adatelemzési célra használhatja fel, és kizárólag az adatelemzés eredményét jogosult továbbítani.
+
+(38) A Magyar Nemzeti Vagyonkezelő Zrt. – a jogszabályban meghatározott állami vagyon nyilvántartása teljeskörű és naprakész rendelkezésre állásának biztosítása érdekében – önköltséggel megegyező összegű díj megfizetése ellenében hozzáférhet a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz.
 
 #### 5/A. Földmérési és térképészeti adatok felhasználása
 

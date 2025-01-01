@@ -90,7 +90,7 @@ kell megtenni.
 
 - a) a bejelentő családi és utónevét, születési családi és utónevét, anyja családi és utónevét, születési helyét és idejét, lakcímét vagy szálláshelyét (a továbbiakban együtt: lakcím), állampolgárságát,
 - b) nyilatkozatot arról, hogy nem állnak fenn a 3. §-ban meghatározott kizáró okok,
-- c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevékenységeket) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kód szerint megjelölve,
+- c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevékenységeket) a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (a továbbiakban: ÖVTJ) szerinti ÖVTJ kód szerint megjelölve,
 - d) a székhely, valamint szükség szerint a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 - e) az adózás rendjéről szóló törvényben meghatározott további adatokat és nyilatkozatokat, amelyek az állami adóhatósághoz való bejelentkezési kötelezettség teljesítéséhez szükségesek.
 - f) a székhelye szerint illetékes területi gazdasági kamarához címzett nyilvántartásba vétel iránti kérelmet.
@@ -494,6 +494,10 @@ számítandó.
 
 (2) E törvény 87. § (2) és (4) bekezdése a 77/91/EGK tanácsi irányelvnek a nyilvánosan működő részvénytársaságok alapítása, valamint tőkéjük megtartása és átalakítása tekintetében történő módosításáról szóló, 2006. szeptember 6-i 2006/68/EK európai parlamenti és tanácsi irányelv 1. cikkének való megfelelést szolgálja.
 
+(3) E törvény a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: Rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) E törvény az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 ### Átmeneti rendelkezések
 
 37. § (1) Az egyéni vállalkozók e törvény hatálybalépését megelőző nyilvántartásának az e törvény alapján kezelendő adatait a nyilvántartást vezető szerv köteles nyolc napon belül az új nyilvántartás számára átadni, egyidejűleg az egyéni vállalkozók korábbi nyilvántartásának adatait köteles törölni.
@@ -523,6 +527,10 @@ számítandó.
 38/D. § Az egyéni vállalkozói igazolványok 2020. január 1-jén érvénytelenné válnak. Az egyéni vállalkozó köteles 2020. március 1-ig leadni az érvénytelen igazolványt a Hatóság részére. A leadott igazolványt a Hatóság bevonja. Ha az egyéni vállalkozó az igazolványt nem adta le, vagy nem küldte meg, azt a Hatóság visszavonja.
 
 38/E. § A 11. § (1) bekezdés h) pontja szerinti adatokat a 2019. december 31-i állapotnak megfelelően a nyilvántartást vezető szerv az egyéni vállalkozói igazolvány leadásának ellenőrzése és az egyéni vállalkozói igazolvány visszavonására irányuló eljárás lefolytatása érdekében archiválja. Az archivált adatokat a nyilvántartást vezető szerv legkésőbb 2020. december 31-én törli.
+
+38/F. § (1) Azokat az egyéni vállalkozók nyilvántartásába 2024. december 31. napjáig bejegyzett főtevékenységeket azonosító ÖVTJ kódokat (tevékenységi köröket), amelyek a TEÁOR’08 és a Rendelettel bevezetett, a Központi Statisztikai Hivatal honlapján nyilvánosságra hozott új TEÁOR’25 közötti fordítókulcs alapján automatikusan átkódolhatóak a hatályos ÖVTJ kódra, 2025. január 31. napjáig az állami adó- és vámhatóság hivatalból módosítja a Rendeletnek megfelelően. Azon egyéni vállalkozónak, aki az átvezetett főtevékenység kódot módosítani kívánja, a főtevékenységét azonosító TEÁOR-kódot az új TEÁOR’25-kód alapján kell az állami adó- és vámhatósághoz bejelentenie legkésőbb 2025. július 1. napjáig.
+
+(2) Azokat az egyéni vállalkozók nyilvántartásába 2024. december 31. napjáig bejegyzett egyéb tevékenységeket azonosító ÖVTJ kódokat (tevékenységi köröket), amelyek a TEÁOR’08 és a Rendelettel bevezetett, a Központi Statisztikai Hivatal honlapján nyilvánosságra hozott új TEÁOR’25 közötti fordítókulcs alapján automatikusan átkódolhatóak a hatályos ÖVTJ kódra, 2025. január 31. napjáig az állami adó- és vámhatóság hivatalból módosítja a Rendeletnek megfelelően. A fordítókulcs alapján automatikusan át nem fordítható és az egyéni vállalkozók nyilvántartásába 2024. december 31. napjáig bejegyzett tevékenységi kör változását az egyéni vállalkozónak az új, hatályos ÖVTJ kód alapján a 4. § (3) bekezdésében foglaltaknak megfelelően kell a nyilvántartást vezető szervhez bejelentenie legkésőbb 2025. július 1. napjáig. 2025. augusztus 31. napjával az állami adó- és vámhatóság valamennyi TEÁOR’08-as (vagy korábbi) egyéb tevékenységet – 2024. december 31-ei hatállyal – hivatalból lezárhatja, függetlenül attól, hogy az egyéni vállalkozó jelentett-e be TEÁOR’25 kód szerinti egyéb tevékenységet.
 
 ### Felhatalmazások
 

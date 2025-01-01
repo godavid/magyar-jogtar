@@ -151,7 +151,7 @@ jogkövetkezmények
 
 (7)
 
-(8) A mezőgazdasági igazgatási szerv honlapján, valamint az agrárpolitikáért felelős miniszter az általa vezetett minisztérium hivatalos lapjában, továbbá honlapján nyilvánosságra hozza a tisztességtelen forgalmazói magatartást tanúsító kereskedő nevét (cégnevét), címét (székhelyét), a megállapított jogsértést, a kiszabott bírság mértékét, valamint a döntés visszavonása esetén annak tényét, bírósági felülvizsgálat megindulásának tényét, a jogerős ítélet tartalmát, továbbá a 8. § (1) bekezdése szerinti kötelezettségvállalást kötelezővé tevő döntést. Az adatokat a honlapról a jogsértés jogerős megállapításától számított két év után törölni kell, illetve ezen időpontot követően az adatok nem hozhatók újra nyilvánosságra.
+(8) A mezőgazdasági igazgatási szerv honlapján, valamint a kereskedelemért felelős miniszter az általa vezetett minisztérium honlapján nyilvánosságra hozza a tisztességtelen forgalmazói magatartást tanúsító kereskedő nevét (cégnevét), címét (székhelyét), a megállapított jogsértést, a kiszabott bírság mértékét, valamint a döntés visszavonása esetén annak tényét, bírósági felülvizsgálat megindulásának tényét, a jogerős ítélet tartalmát, továbbá a 8. § (1) bekezdése szerinti kötelezettségvállalást kötelezővé tevő döntést. Az adatokat a honlapról a jogsértés jogerős megállapításától számított két év után törölni kell, illetve ezen időpontot követően az adatok nem hozhatók újra nyilvánosságra.
 
 7. § (1) A bírságot az azt kiszabó határozat közlésétől számított tizenötödik napig meg kell fizetni.
 

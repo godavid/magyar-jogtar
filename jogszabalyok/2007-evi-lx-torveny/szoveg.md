@@ -85,9 +85,9 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) A kiotói egységek átruházásához a forgalmi jegyzékben vezetett számlán történő nyilvántartásba vétel is szükséges.
 
-(4) A forgalmi jegyzékben számlával rendelkezők az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott számlavezetési díjat kötelesek fizetni.
+(4)
 
-(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. E tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott megkeresése alapján – továbbítja. Az adatkezelés az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet szerint történik.
+(5)
 
 ### Az üvegházhatású gázokkal kapcsolatos adatok nyilvánossága
 
@@ -99,11 +99,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### A kiotói egységek létrejötte és megszűnése
 
-8. § (1) A Jegyzőkönyv alapján keletkező, a nemzeti számlákon lévő kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
-
-(2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. A miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik az adott kötelezettségvállalási időszakra vonatkozóan kibocsátott a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
-
-(3) A kiotói egység csak az e törvény és külön jogszabály rendelkezéseinek megfelelően szerezhető meg, illetve ruházható át.
+#### 8. §
 
 ### A kibocsátási jogosultságokkal való gazdálkodás
 
@@ -113,32 +109,19 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) A kiotói egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
-(4) Egy adott kötelezettségvállalási időszakban a forgalmi jegyzékben a kibocsátható mennyiségi egységek száma nem lehet kevesebb a Keretegyezmény, továbbá a Jegyzőkönyv által előírt tartalék mennyiségnél.
+(4)
 
 (5) A kibocsátható mennyiségi egységek korlátozás nélkül, a kibocsátás-csökkentési egységek, valamint az igazolt kibocsátás-csökkentési egységek az adott kötelezettségvállalási időszak kibocsátható mennyiségének 2,5%-áig a következő kötelezettségvállalási időszakba átvihetők.
 
 (6) A kibocsátható mennyiséget, illetve a kibocsátható mennyiségi egységeknek a Jegyzőkönyvnek és az azt követő döntéseknek megfelelően megállapított számát, megállapításukat követően a miniszter közleményben teszi közzé.
 
-(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről és azok teljes mennyiségéről a forgalmi jegyzékbe való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
+(7)
 
-(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről és törléséről a miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
+(8)
 
-10. § (1) A kibocsátási jogosultságok a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
+#### 10. §
 
-- a) Magyarországnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
-- b) Magyarország mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
-
-(2) A nemzetközi és európai kibocsátás-kereskedelem keretében a miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
-
-(3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
-
-(4) A (3) bekezdés szerinti kiotói egységek átruházásából keletkezett bevételek felhasználásáról a miniszter a Zöld Beruházási Rendszer keretében az Éghajlatváltozási Stratégiával összhangban gondoskodik.
-
-(4a)
-
-(5) A bevételek felhasználásáról a Kormány a bevétel keletkezését követő évben beszámol az Országgyűlésnek.
-
-A fluortartalmú üvegházhatású gázokra vonatkozó általános szabályok
+### A fluortartalmú üvegházhatású gázokra vonatkozó általános szabályok
 
 10/A. § (1) Valamennyi fluortartalmú üvegházhatású gázzal kapcsolatos tevékenység végzése során törekedni kell a fluortartalmú üvegházhatású gázok minél hatékonyabban történő használatára és a fluortartalmú üvegházhatású gázok mennyiségének csökkentésére.
 
@@ -427,7 +410,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 - b) a kibocsátási jogosultságokkal és az abból származó bevételekkel való gazdálkodás, valamint az árveréssel, a versenyeztetés mellőzésével vagy közvetetten történő értékesítési eljárás részletes szabályait;
 - c)
 - d) a forgalmi jegyzék működésének szabályait;
-- e) a forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait;
+- e)
 - f) a nemzetközi jelentések tartalmának és elkészítésének módját;
 - g) az üvegházhatású gázok kibocsátására vonatkozó nyilvántartási rendszer működésének, valamint a nyilvántartási rendszerrel kapcsolatos adatszolgáltatásnak a rendjét, a nyilvántartási rendszerhez szükséges adatok körét a személyes adatok kivételével;
 - h) a nyilvántartási rendszerrel kapcsolatos adatszolgáltatási, illetve előrejelzési kötelezettség megszegése esetén fizetendő bírság összegét;

@@ -27,7 +27,7 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 - f) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó;
 - g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által létrehozott köztestülete;
 - h) ÖVTJ: az önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló mindenkor hatályos jogszabályban meghatározott tevékenységek jegyzéke;
-- i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg;
+- i) TEÁOR: a gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendeletnek (a továbbiakban: TEÁOR’25) felel meg;
 - j)
 
 2/A. § (1) E törvény alkalmazásában agrárgazdasági tevékenység folytatásának kell tekinteni, ha az 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási nyilvántartási feladatokat ellátó szervnek, vagy a cégbíróságnak az érintett személyről vezetett nyilvántartásában szerepelnek.
@@ -167,7 +167,7 @@ nyilvántartást vezet.
   - ai) az őstermelői igazolványa számát, az őstermelői nyilvántartásban azonosítására szolgáló számát, azok hatályossági és érvényességi időtartamát, a nyilvántartásba vétel kezdetét és végét, valamint a biztosítási jogviszonyára vonatkozó adatát;
   - aj) az őstermelők családi gazdaságának alapításáról szóló szerződés számát,
   - ak) az őstermelők családi gazdaságában szereplő tagok aa), ab), ac), ae), af), ag), al), ar) alpontok szerinti adatait,
-  - al) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
+  - al) a Nemzeti Kifizető Ügynökségnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
   - am) az agrárkamarai nyilvántartási számát,
   - an) az általa folytatott agrárgazdasági tevékenységek körét,
   - ao) a bankszámlaszámát,
@@ -182,7 +182,7 @@ nyilvántartást vezet.
   - bd) az adószámát,
   - be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét, elérhetőségeit, egyéb, a nyilvános cégnyilvántartásban szereplő adatait, és – önkéntes adatszolgáltatás alapján, a gazdálkodó szervezet erre irányuló kérelme esetén – a kamarai kapcsolattartásra jogosult személy nevét és elérhetőségeit,
   - bf) a statisztikai azonosítóját,
-  - bg) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
+  - bg) a Nemzeti Kifizető Ügynökségnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
   - bh) az agrárkamarai nyilvántartási számát,
   - bi) az általa folytatott tevékenységek körét,
   - bj) a bankszámlaszámát,
@@ -294,13 +294,13 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 - e) amennyiben rendelkezésre áll az a)–d) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – az alábbi adatokról
   - ea) a tárgyévben megfizetendő és vissza nem térített, illetve meg nem térülő, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék, az alkoholtermék és a dohánygyártmány után fizetendő jövedéki adó – lehetőség szerint összesített – összegéről,
   - eb) a tárgyévben fizetendő népegészségügyi termékadó összegéről,
-- f) amennyiben rendelkezésre áll az a)–b) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – a tárgyévben a támogatási szerv által folyósított támogatások összegéről.
+- f) amennyiben rendelkezésre áll az a)–b) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – a tárgyévben a Nemzeti Kifizető Ügynökség által folyósított támogatások összegéről.
 
 (2a) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni az agrárkamara részére a tárgyévben elhunyt őstermelő, az agrárkamarai tag egyéni vállalkozó adóazonosító jeléről és adószámáról, valamint megszűnt agrárkamarai tag egyéni cég nevéről és adószámáról. Az állami adóhatóságnak az e bekezdés szerint nyújtott adatokat úgy kell átadnia, hogy az agrárkamara számára megállapítható legyen az elhunyt őstermelő, egyéni vállalkozó, illetve egyéni cég tagja elhalálozásának időpontja.
 
 (2b) Az állami adóhatóság a Ctv. 24. § (4a) bekezdése szerinti értesülésével és a Ctv. 24. § (4b) bekezdése szerinti értesítésével egyidejűleg értesíti az agrárkamarát a cég agrárgazdasági tevékenységnek minősülő fő- és további tevékenységi köreiről és az azokat érintő változásokról. Az értesítésben az adóhatóság megjelöli a tevékenységi kör megváltozására vonatkozó bejelentés megtételének napját.
 
-(2c) Az élelmiszerlánc-felügyeleti szerv az agrárkamara számára az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti élelmiszerlánc-felügyeleti információs rendszerhez folyamatos hozzáférést biztosít.
+(2c) Az élelmiszerlánc-felügyeleti szerv az agrárkamara számára az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv) szerinti élelmiszerlánc-felügyeleti információs rendszerhez folyamatos hozzáférést biztosít.
 
 (2d) A földművesekről, a mezőgazdasági termelőszervezetekről vezetett nyilvántartásból adatszolgáltatásra jogosult szerv az adat keletkezésével, illetve a változás átvezetésével egyidejűleg köteles adatot szolgáltatni az agrárkamara részére
 
@@ -317,9 +317,9 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
 (2f) Az agrárkamara jogosult – a megjelölt kötelező adatszolgáltatási időponton kívül is – újabb adatszolgáltatást kérni az állami adóhatóságtól a (2)–(2a) bekezdésekben foglalt adatokra.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa kezelt adatok közül a tárgyévet követő év június 1. napjáig köteles adatot szolgáltatni a kamara részére a tárgyévben a központi költségvetésből, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA), az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA), továbbá az Európai Halászati Alapból (a továbbiakban: EHA) – ideértve ezen pénzügyi alapok helyébe lépő közösségi pénzügyi forrásokat is – finanszírozott támogatásban részesülő kamarai tagra vonatkozóan a következő adattartalommal:
+(3) A Nemzeti Kifizető Ügynökség az általa kezelt adatok közül a tárgyévet követő év június 1. napjáig köteles adatot szolgáltatni a kamara részére a tárgyévben a központi költségvetésből, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA), az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA), továbbá az Európai Halászati Alapból (a továbbiakban: EHA) – ideértve ezen pénzügyi alapok helyébe lépő közösségi pénzügyi forrásokat is – finanszírozott támogatásban részesülő kamarai tagra vonatkozóan a következő adattartalommal:
 
-- a) ügyfélazonosító száma;
+- a) a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosító (a továbbiakban: támogatási azonosító) száma;
 - b) családi és utóneve (elnevezése), lakóhelye, székhelye, telephelye;
 - c) támogatási jogcíme;
 - d) a jóváhagyott támogatási összege;
@@ -330,17 +330,17 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 - f) az EMVA-ból és az EHA-ból finanszírozott, beruházási jellegű intézkedések esetében továbbá a beruházás megvalósulási helyének települése;
 - g) adóazonosító jele, adószáma.
 
-(3a) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa kezelt adatok közül havonta, a tárgyhót követő hónap 15. napjáig köteles adatot szolgáltatni a kamara részére a kamara közreműködésével – ideértve a jogszabályban meghatározott kamarai meghatalmazott útján – benyújtott agrártámogatásokra vonatkozó következő adatokról:
+(3a) A Nemzeti Kifizető Ügynökség az általa kezelt adatok közül havonta, a tárgyhót követő hónap 15. napjáig köteles adatot szolgáltatni a kamara részére a kamara közreműködésével – ideértve a jogszabályban meghatározott kamarai meghatalmazott útján – benyújtott agrártámogatásokra vonatkozó következő adatokról:
 
-- a) a kérelmező ügyfélazonosító száma,
+- a) a kérelmező támogatási azonosító száma,
 - b) a kérelmező adóazonosító jele, adószáma,
 - c) a kérelmező neve,
 - d) a kérelmező lakóhelye, székhelye, telephelye,
 - e) a kérelem jogcíme,
-- f) a kérelmet benyújtó kamarai alkalmazott ügyfélazonosító száma,
+- f) a kérelmet benyújtó kamarai alkalmazott támogatási azonosító száma,
 - g) a kérelem benyújtásának időpontja.
 
-(4) Az 5. § (9) bekezdése szerinti szervezetek az egyéni vállalkozók nyilvántartását vezető szerv, az állami és önkormányzati adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv, az agrárkár-enyhítési szerv, az élelmiszerlánc-felügyeleti szerv, a fogyasztóvédelmi hatóság, az ingatlanügyi hatóság, a foglalkoztatás-felügyeleti hatóság, a kereskedelmi hatóság, a Gazdasági Versenyhivatal, a polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartást kezelő szerv és a mezőgazdasági igazgatási szerv az e törvényben meghatározott agrárkamarai nyilvántartások vezetéséhez szükséges, az e törvényben meghatározott adatokat, továbbá az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat átadja az agrárkamara számára.
+(4) Az 5. § (9) bekezdése szerinti szervezetek az egyéni vállalkozók nyilvántartását vezető szerv, az állami és önkormányzati adóhatóság, a Nemzeti Kifizető Ügynökség az agrárkár-enyhítési szerv, az élelmiszerlánc-felügyeleti szerv, a fogyasztóvédelmi hatóság, az ingatlanügyi hatóság, a foglalkoztatás-felügyeleti hatóság, a kereskedelmi hatóság, a Gazdasági Versenyhivatal, a polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartást kezelő szerv és a mezőgazdasági igazgatási szerv az e törvényben meghatározott agrárkamarai nyilvántartások vezetéséhez szükséges, az e törvényben meghatározott adatokat, továbbá az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat átadja az agrárkamara számára.
 
 (4a) A céginformációs és az elektronikus cégeljárásban közreműködő szolgálat az e törvényben meghatározott agrárkamarai nyilvántartás vezetéséhez és az agrárkamarai közfeladatok ellátásához szükséges nyilvános adatokat tovább feldolgozásra alkalmas módon, elektronikus úton, díj- és térítésmentesen – a cégnyilvántartás elektronikus hálózata használatával az átadónál felmerülő költség megtérítésével – és a szükséges időben átadja az agrárkamara számára. Az adatszolgáltatás lebonyolításának részletes szabályait a kamara és a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat közti megállapodásban kell meghatározni.
 
@@ -413,7 +413,7 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
 (3a) Az agrárkamara által ellátott közfeladat finanszírozása az ellátott feladattal arányos pénzügyi fedezet részben vagy egészben történő, az e törvényben foglaltaknak megfelelő biztosításával valósul meg. A pénzügyi fedezetet elsődlegesen az államháztartás működési rendjére vonatkozó szabályok szerint a központi költségvetésből nyújtott támogatásból, ennek hiánya esetén – ha a közfeladat jellege alapján egyébként igazgatási szolgáltatási díj állapítható meg – az agrárkamara részére fizetendő igazgatási szolgáltatási díjból kell biztosítani. Az agrárkamara által ellátandó közfeladat költségvetési támogatással, vagy igazgatási szolgáltatási díjjal, továbbá közfeladat vonatkozásában költségvetési szerv és az agrárkamara között létrejött szerződés alapján az agrárkamara számára járó díjjal nem fedezett részének finanszírozásáról való döntés az országos küldöttgyűlés kizárólagos hatáskörébe tartozik.
 
-(4) Az agrárkamara a jogszabályban meghatározottak, valamint a mezőgazdasági támogatási szervvel kötött megállapodásban foglaltak szerint átruházott illetve, együttműködői feladatokat lát el.
+(4) Az agrárkamara a jogszabályban meghatározottak, valamint a Nemzeti Kifizető Ügynökséggel kötött megállapodásban foglaltak szerint átruházott illetve, együttműködői feladatokat lát el.
 
 (5) Az agrárkamara a földről szóló törvényben meghatározottak szerint eljár a közös tulajdonban álló föld használati rendjének hatósági úton történő megállapítására irányuló eljárásban.
 
@@ -479,25 +479,40 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
 (9)
 
-14/A. § (1) Az agrárkamara a kamarai meghatalmazás alapján technikai közreműködőként jogosult képviselni a meghatalmazót az agrártámogatások igénybevételével összefüggő elektronikus ügyintézés során.
+14/A. § (1) Az agrárkamara a kamarai meghatalmazás alapján technikai közreműködőként jogosult képviselni a meghatalmazót
 
-(2) Ha a meghatalmazó nevében kamarai meghatalmazás alapján az agrárkamara jár el, a kamarai meghatalmazás rögzítéséhez az agrárkamara elektronikus úton átadja a mezőgazdasági és vidékfejlesztési támogatási szervnek
+- a) az agrártámogatások igénybevételével összefüggő elektronikus ügyintézésben, valamint
+- b) az Éltv. 38/A. § (18) bekezdése szerinti Elektronikus Gazdálkodási Napló (a továbbiakban: Elektronikus Gazdálkodási Napló) vezetésében.
 
-- a) a kamarai meghatalmazás alapján eljáró munkavállalója és a természetes személy meghatalmazó ügyfélazonosítóját és születési idejét,
-- b) nem természetes személy meghatalmazó esetén annak ügyfélazonosítóját és adóazonosítóját,
+(2) Az (1) bekezdés a) pontja szerinti esetben a kamarai meghatalmazás rögzítéséhez az agrárkamara elektronikus úton átadja a Nemzeti Kifizető Ügynökségnek
+
+- a) a kamarai meghatalmazás alapján eljáró munkavállalója és a természetes személy meghatalmazó támogatási azonosítóját és születési idejét,
+- b) nem természetes személy meghatalmazó esetén annak támogatási azonosítóját és adóazonosítóját,
 - c) a kamarai meghatalmazás egyedi azonosítóját és tárgyi hatályát.
+
+(2a) Az (1) bekezdés b) pontja szerinti esetben a kamarai meghatalmazás tényének rögzítéséhez az agrárkamara elektronikus úton átadja az élelmiszerlánc-felügyeleti szervnek
+
+- a) a kamarai meghatalmazás alapján eljáró munkavállalójának támogatási azonosítóját, annak hiányában természetes személyazonosító adatait,
+- b) természetes személy meghatalmazó FELIR azonosítóját, annak hiányában támogatási azonosítóját, annak hiányában természetes személyazonosító adatait, valamint lakcímét,
+- c) nem természetes személy meghatalmazó FELIR azonosítóját, annak hiányában támogatási azonosítóját, annak hiányában adóazonosítóját,
+- d) a kamarai meghatalmazás egyedi azonosítóját és tárgyi hatályát.
 
 (3) Az agrárkamara a kamarai meghatalmazás alapján az (1) bekezdés szerinti feladatai ellátása érdekében, a kamarai meghatalmazás megszűnésétől számított tíz évig
 
 - a) a kamarai meghatalmazást és a létrejöttéhez szükséges, jogszabályban meghatározott, a meghatalmazó beazonosítására és elérhetőségére vonatkozó személyes adatokat nyilvántartja és kezeli, továbbá
 - b) a kamarai meghatalmazás alapján végzett eljárás során keletkezett összes dokumentumot megőrzi.
 
-(4) A kamarai meghatalmazás tárgyi hatálya az agrárkamara által meghatározott és honlapján közzétett azon agrártámogatások igénybevételével összefüggő elektronikus ügyintézésre terjedhet ki, amelyek vonatkozásában jogszabály vagy pályázati felhívás a kamarai meghatalmazással való eljárást nem zárja ki. A honlapon közzétett agrártámogatási listát az agrárkamara – a mezőgazdasági és vidékfejlesztési támogatási szerv előzetes tájékoztatását követően – legalább háromhavonta felülvizsgálja azzal, hogy annak módosítása nem érinti a hatályos kamarai meghatalmazás alapján folyamatban lévő ügyeket.
+(4) A kamarai meghatalmazás tárgyi hatálya kiterjed
+
+- a) az agrárkamara által meghatározott és honlapján közzétett azon agrártámogatások igénybevételével összefüggő elektronikus ügyintézésre, amelyek vonatkozásában jogszabály vagy pályázati felhívás a kamarai meghatalmazással való eljárást nem zárja ki,
+- b) az Elektronikus Gazdálkodási Napló vezetésére.
+
+(4a) A (4) bekezdés a) pontja szerinti, honlapon közzétett agrártámogatási listát az agrárkamara – a Nemzeti Kifizető Ügynökség előzetes tájékoztatását követően – legalább háromhavonta felülvizsgálja azzal, hogy annak módosítása nem érinti a hatályos kamarai meghatalmazás alapján folyamatban lévő ügyeket.
 
 (5) A kamarai meghatalmazás alapján az agrárkamara kizárólag
 
 - a) a meghatalmazó erre irányuló kifejezett kezdeményezésére és a meghatalmazó által szolgáltatott adatok rögzítésével, a (4) bekezdés szerinti agrártámogatásokra vonatkozó kérelem, dokumentum elektronikus benyújtásáért, és
-- b) a mezőgazdasági és vidékfejlesztési támogatási szerv által az agrárkamara részére a kamarai meghatalmazásra tekintettel küldött, a meghatalmazót érintő iratok továbbításáért
+- b) a Nemzeti Kifizető Ügynökség által az agrárkamara részére a kamarai meghatalmazásra tekintettel küldött, a meghatalmazót érintő iratok továbbításáért
 
 felelős.
 
@@ -534,7 +549,7 @@ felelős.
 - b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
 - c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttműködve ellátja a szakképzésről szóló törvényben meghatározott feladatait, szervezi a mesterképzést és a mestervizsgáztatást;
 - d) országos jégkármegelőző rendszert működtet;
-- e) ellátja az élelmiszerlánc-felügyeletért, illetve az erdőgazdálkodásért felelős miniszter által rendeletben meghatározott, a mezőgazdasági és az erdészeti gépkezelői jogosítvány megszerzésével összefüggő feladatokat;
+- e)
 - f) ellátja a Digitális Agrárakadémia működtetésével összefüggő feladatokat,
 - g) ellátja a helyi földbizottsági feladatokat.
 
@@ -926,10 +941,12 @@ felelős.
 
 53. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-- a) az ingatlanügyi hatóság, az adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv és a fővárosi és vármegyei kormányhivatal általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait;
+- a) az ingatlanügyi hatóság, az adóhatóság, a Nemzeti Kifizető Ügynökség és a fővárosi és vármegyei kormányhivatal általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait;
 - b) az agrárkamara hatáskörébe tartozó igazgatási feladatok ellátásával és azok elvégzésének díjával kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy egyes agrárigazgatási hatósági feladatok tekintetében eljáró hatóságként, egyes feladatok tekintetében mezőgazdasági igazgatási szervként az agrárkamarát rendeletben kijelölje és megállapítsa e hatósági feladatok ellátásáért fizetendő igazgatási szolgáltatási díjat, valamint megfizetésének szabályait.
+
+(3) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kamarai meghatalmazás létrehozására, megszűnésére, a kamarai meghatalmazás tartalmára, valamint a nyilvántartás adataira vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 54. § (1)
 
@@ -964,6 +981,19 @@ felelős.
 (3)
 
 60. § E törvénynek az egyes törvényeknek az agrárminiszter feladatkörét érintő módosításáról szóló 2023. évi XLIV. törvénnyel (a továbbiakban: 2023. évi XLIV. törvény) megállapított 14/A. §-át a 2023. évi XLIV. törvény hatálybalépésekor a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény alapján folyamatban lévő ügyekben is alkalmazni kell.
+
+61. § (1) A gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i, 1893/2006/EK európai parlamenti és tanácsi rendelet szerinti NACE Rev. 2. rendszer (a továbbiakban: TEÁOR’08) szerinti tevékenység alapján nyilvántartásba vett kamarai tag tagsági jogviszonya folyamatos a TEÁOR’08 kódról TEÁOR’25 kódra való átkódolást (a továbbiakban: átkódolás) követően is.
+
+(2) A TEÁOR’08 szerinti tevékenységet folytató, természetes vagy nem természetes személy agrárkamarai tagsági jogviszonya e törvény alapján létrejön akkor is, ha a kamarai tagságot keletkeztető nyilvántartásba vételről, bírósági bejegyzésről, az agrárgazdasági tevékenység folytatásának kezdő napjáról vagy az 5. § (1) bekezdés f) pontja szerinti egyéb feltételről az agrárkamara 2025. január 1. napján vagy ezt követően szerez csak tudomást, illetve a bejegyzés, nyilvántartásba vétel 2025. január 1. napján vagy azt követően történik.
+
+(3) Ha 2025. január 1. napján vagy azt követően valamely természetes vagy nem természetes személy esetében az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási nyilvántartási feladatokat ellátó szervnek vagy a cégbíróságnak az érintett személyről vezetett nyilvántartásában az e törvény 2024. december 31-én hatályos állapota szerinti 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámú tevékenységek szerepelnek, azt e törvény alkalmazásában agrárgazdasági tevékenység folytatásának kell tekinteni 2024. december 31. napját követően is, és e törvény rendelkezéseit kell alkalmazni.
+
+62. § A 2. és 3. melléklet
+
+- a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet, és
+- b) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végrehajtási rendeletnek a gazdasági tevékenységek statisztikai osztályozásának az 1893/2006/EK európai parlamenti és tanácsi rendelettel létrehozott NACE Rev. 2. rendszerére való hivatkozások tekintetében történő módosításáról szóló, 2024. június 27-i (EU) 2024/1840 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2012. évi CXXVI. törvényhez
 
@@ -1008,27 +1038,28 @@ felelős.
 
 |  | A | B |
 | --- | --- | --- |
-| 1 | TEÁOR’08 kód,illetve annak kezdete | Megnevezése |
+| 1 | TEÁOR’25 kód,illetve annak kezdete | Megnevezése |
 | 2 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 | 3 | 02 | Erdőgazdálkodás |
-| 4 | 03 | Halászat, halgazdálkodás |
+| 4 | 03 | Halászat, akvakultúra |
 | 5 | 10 | Élelmiszergyártás |
 | 6 | 11 | Italgyártás |
 | 7 | 12 | Dohánytermék gyártása |
 | 8 | 20.15 | Műtrágya, nitrogénvegyület gyártása |
 | 9 | 20.20 | Mezőgazdasági vegyi termék gyártása |
 | 10 | 46.11 | Mezőgazdasági termék ügynöki nagykereskedelme |
-| 11 | 46.2 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
+| 11 | 46.2 | Mezőgazdasági nyersanyag, élő állat nagykereskedelme |
 | 12 | 46.3 | Élelmiszer, ital, dohányáru nagykereskedelme |
-| 13 | 46.61 | Mezőgazdasági gép, berendezés nagykereskedelme |
+| 13 | 46.61 | Mezőgazdasági gép, berendezés, tartozék nagykereskedelme |
 | 14 | 77.31 | Mezőgazdasági gép kölcsönzése |
 
 ### 3. melléklet a 2012. évi CXXVI. törvényhez
 
-#### Az agrárkamara tagjai a tevékenységek egységes ágazati osztályozás rendjének (TEÁOR) jegyzéke alapján
+#### Az agrárkamara tagjai a gazdasági tevékenységek egységes ágazati osztályozás rendszerének (TEÁOR) jegyzéke alapján
 
 |  | A | B |
 | --- | --- | --- |
-| 1 | TEÁOR’08 kód,illetve annak kezdete | Megnevezés |
-| 2 | 38.21 | Nem veszélyes hulladék kezelése, ártalmatlanítása szakágazatból: komposztálás |
-| 3 | 46.75 | Vegyi áru nagykereskedelme szakágazatból: műtrágya és egyéb agrokémiai termékek nagykereskedelme |
+|  | TEÁOR’25 kód | Megnevezés |
+| 1 | 38.21 | Hulladékanyag-hasznosítás szakágazatból: a komposzt előállítása |
+| 2 | 38.23 | Egyéb hulladékhasznosítás szakágazatból: a szennyvíziszap előkészítése mezőgazdasági vagy ökológiai javulást eredményező talajművelési célú hasznosításához |
+| 3 | 46.85 | Vegyi áru nagykereskedelme szakágazatból: műtrágya és agrokémiai termékek nagykereskedelme |

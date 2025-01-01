@@ -105,13 +105,66 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (2) Az (1) bekezdést a szúnyogirtási tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
-4/B. § (1) 18 év alatti személyek csoportos, több napos táboroztatására, üdültetésére és egyéb szabadidős foglalkoztatására (a továbbiakban együtt: táboroztatás) csak akkor kerülhet sor, ha a táboroztatás szervezője gondoskodik az egészségügyért felelős miniszter rendeletében meghatározott személyi és tárgyi feltételek meglétéről. A táboroztatás személyi és tárgyi feltételeinek betartását az egészségügyi államigazgatási szerv ellenőrzi.
+4/B. § (1) 18 év alatti személyek csoportos, többnapos táboroztatására, üdültetésére és egyéb szabadidős foglalkoztatására (a továbbiakban együtt: táboroztatás) csak akkor kerülhet sor, ha a táboroztatás szervezője gondoskodik az egészségügyért felelős miniszter rendeletében meghatározott személyi és tárgyi feltételek meglétéről. A táboroztatás személyi és tárgyi feltételeinek betartását – ide nem értve az (5)–(7), valamint a (9) és (10) bekezdésben foglalt kötelezettségeknek való megfelelést – az egészségügyi államigazgatási szerv ellenőrzi.
 
-(2) A táboroztatás szervezője köteles legkésőbb 6 héttel a táboroztatás megkezdését megelőzően az egészségügyi államigazgatási szervnek bejelenteni a tervezett táboroztatás helyét, kezdő időpontját és tervezett időtartamát, továbbá a táborozásban részt vevő személyek tervezett számát és az egészségügyért felelős miniszter rendeletében meghatározott egyéb adatokat.
+(2) A táboroztatás szervezője köteles legkésőbb 3 héttel a táboroztatás megkezdését megelőzően az egészségügyi államigazgatási szervnek bejelenteni a tervezett táboroztatás helyét, kezdő időpontját és tervezett időtartamát, továbbá a táborozásban részt vevő személyek tervezett számát és az egészségügyért felelős miniszter rendeletében meghatározott egyéb adatokat.
+
+(2a) A táboroztatás szervezője a táboroztatásra jelentkezéskor a gyermek törvényes képviselője részére a tanuló ifjúság üdülésének és táborozásának egészségügyi feltételeiről szóló miniszteri rendeletben meghatározott tájékoztatást nyújt.
+
+(2b) Az (5)–(14) bekezdés alkalmazásában a táboroztatás szervezésében, illetve lebonyolításában közreműködő személynek az egészségügyért felelős miniszter rendeletében meghatározott személy minősül.
 
 (3) Ha az egészségügyi államigazgatási szerv megállapítja, hogy a táboroztatás személyi és tárgyi feltételei nem biztosítottak, a szükséges feltételek biztosításáig a táboroztatást megtiltja, vagy az egészségügyért felelős miniszter rendeletében meghatározott más jogkövetkezményt alkalmaz.
 
 (4) E §-t a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében folytatott táboroztatási tevékenység esetén is alkalmazni kell.
+
+(5) Nem lehet táboroztatás szervezője, valamint a táboroztatás szervezésében, illetve lebonyolításában közreműködő személy, aki
+
+- a) a bűntettesek nyilvántartásában
+  - aa) a 2013. június 30-ig hatályban volt emberölés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 166. § (2) bekezdés i) pont], öngyilkosságban közreműködés [1978. évi IV. törvény 168. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (3) bekezdés e) pont], emberkereskedelem [1978. évi IV. törvény 175/B. § (2) bekezdés a) pont és (5) bekezdés], családi állás megváltoztatása [1978. évi IV. törvény 193. § (2) bekezdés b) pont], kiskorú veszélyeztetése [1978. évi IV. törvény 195. § (1)–(3) bekezdés], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás (1978. évi IV. törvény 201–202/A. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont], visszaélés kábítószerrel [1978. évi IV. törvény 282/B. § (1) bekezdés, (2) bekezdés a) és c) pont, 282/B. § (5) bekezdés és (7) bekezdés a) pont],
+  - ab) tiltott toborzás [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem és kényszermunka [Btk. 192. § (5) bekezdés a) pont és (6) bekezdés a) pont], kényszermunka [az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § 2020. június 30-ig hatályban volt (1) bekezdés c) pont, (2) bekezdés, (4) bekezdés b) pont], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204–204/A. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] bűncselekmény elkövetése miatt szerepel,
+- b) az a) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll,
+- c) a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll, vagy
+- d) az a) pontban meghatározott bűncselekmények elkövetése miatt kényszergyógykezelés alatt áll.
+
+(6) Nem lehet táboroztatás szervezője, valamint a táboroztatás szervezésében, illetve lebonyolításában közreműködő személy, akivel szemben az (5) bekezdés a) pontjában meghatározott
+
+- a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
+  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
+- b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított három évig,
+- c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított öt évig.
+
+(7) Azt a tényt, hogy megfelel az (5) és (6) bekezdésben meghatározott feltételeknek, a táboroztatás szervezésében, illetve lebonyolításában közreműködni kívánó személy a táboroztatás szervezőjének
+
+- a) legkésőbb az erre vonatkozó jogviszony létrejötte előtt, vagy
+- b) – feltéve, hogy a táboroztatás szervezője és a táboroztatás szervezésében, illetve lebonyolításában közreműködni kívánó személy között már olyan jogviszony fennáll, amelynek keretében a táboroztatás szervezésében, illetve lebonyolításában közreműködni kívánó személy a táboroztatás szervezésében, illetve lebonyolításában közreműködésre is kötelezhető – a táboroztatás szervezésében, illetve lebonyolításában való közreműködésre is kiterjedő jogviszony fennállása alatt, a táboroztatás szervezője írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, de legkésőbb tíz nappal a táboroztatás megkezdését megelőzően,
+
+hatósági bizonyítvány bemutatásával igazolja, amely igazolási kötelezettség teljesítésének tényét a táboroztatás szervezője – az igazolási kötelezettség teljesítése utólagos ellenőrizhetősége céljából – a táboroztatás szervezésében, illetve lebonyolításában közreműködni kívánó személy természetes személyazonosító adatait tartalmazó nyilatkozatban rögzíti.
+
+(8) A (7) bekezdésben foglalt előírásokat nem kell alkalmazni
+
+- a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény hatálya alá tartozó köznevelési intézmény által szervezett táborokban a köznevelési intézménnyel a pedagógusok új életpályájáról szóló törvény szerinti jogviszonyban álló személyek vonatkozásában,
+- b) azon személyek vonatkozásában, akik a táboroztatás szervezésében, illetve lebonyolításában való közreműködésre jelentkezéskor a 18. életévüket még nem töltötték be.
+
+(9) Ha az (5) és (6) bekezdésben meghatározott
+
+- a) feltételeknek való megfelelést a táboroztatás szervezésében, illetve lebonyolításában közreműködni kívánó személy a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni, vagy
+- b) kizáró ok egyéb módon a táboroztatás szervezője tudomására jut,
+
+a táboroztatás szervezője a táboroztatás szervezésében, illetve lebonyolításában közreműködni kívánó személyt a táboroztatás szervezésébe, illetve lebonyolításába nem vonhatja be.
+
+(10) A (7) bekezdés szerint rögzített nyilatkozatot a táboroztatás szervezője – a (7) bekezdésben foglalt igazolási kötelezettség teljesítése utólagos ellenőrizhetősége céljából – a táboroztatás befejezését követő három évig megőrzi, valamint azt – a (11) bekezdés szerinti ellenőrzés során – a fogyasztóvédelmi hatóság felhívására a fogyasztóvédelmi hatóság rendelkezésére bocsátja.
+
+(11) Az (5)–(7), valamint a (9) és (10) bekezdésben foglalt kötelezettségeknek való megfelelést a fogyasztóvédelmi hatóság ellenőrzi.
+
+(12) Az (5)–(7), valamint a (9) és (10) bekezdésben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+
+(13) Ha a fogyasztóvédelmi hatóság megállapítja, hogy a táboroztatás szervezője, illetve a táboroztatás szervezésében, illetve lebonyolításában közreműködő személy az (5) vagy (6) bekezdés szerinti feltételnek nem felel meg vagy a táboroztatás szervezője az (5)–(7), valamint a (9), illetve (10) bekezdés szerinti kötelezettségeit nem teljesítette,
+
+- a) a táboroztatást, illetve az (5) vagy (6) bekezdés szerinti kötelezettségeknek meg nem felelő személynek a táboroztatásban való részvételét megtiltja, valamint
+- b) – az a) ponton túlmenően, a (10) bekezdés szerinti megőrzési kötelezettség teljesítése ellenőrzésének esetét is ideértve – a fogyasztóvédelemről szóló törvényben meghatározott más jogkövetkezményt alkalmazhat.
+
+(14) A fogyasztóvédelmi hatóság az (5) és (6) bekezdés szerinti feltétel ellenőrzése során, a feltételeknek való megfelelés ellenőrzése céljából adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az így megismert személyes adatokat a fogyasztóvédelmi hatóság az eljárás végleges befejezéséig kezeli.
 
 4/C. § (1) Az egészségügyi szolgáltató a sérülések megelőzése céljából a jogszabályban előírt munkavédelmi és foglalkozás-egészségügyi kötelezettségei teljesítésével összhangban, az egészségügyért felelős miniszter rendeletében meghatározottak szerint biztosítja az egészségügyi dolgozók védelmét az egészségügyi tevékenység végzéséhez szükséges éles vagy hegyes eszközök használatából eredő kockázatokkal szemben.
 
@@ -138,6 +191,8 @@ az egészségügyi hatósági és igazgatási tevékenységről
 (5) A (2) bekezdés szerinti nyilvántartást az egészségügyi államigazgatási szerv a honlapján közzéteszi.
 
 (6) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő mintavételi és laboratóriumi vizsgálati tevékenységének folytatására irányuló szándékát köteles a minőség-ellenőrzésért felelős egészségügyi államigazgatási szervnek bejelenteni.
+
+4/E. § A 18 év alatti személyek táboroztatása rendjének fenntartásában az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.
 
 5. § (1) Az egészségügyi államigazgatási szerv az egészségfejlesztési (egészségvédelmi, egészségnevelési és egészségmegőrzési) tevékenysége keretében összehangolja, szervezi és felügyeli a népbetegségek megelőzését szolgáló feladatok végrehajtását, így különösen
 
@@ -299,20 +354,20 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (5) Az egészségügyi államigazgatási szerv az egészségügyi dolgozók alapnyilvántartási száma alapján elektronikus úton adategyeztetést folytathat az egészségbiztosítási szervvel az egészségügyi szolgáltató nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozók (1) bekezdés szerinti adatairól.
 
-7. § (1) Az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek bejelentéséről és a víz kezelésére alkalmazni kívánt technológiák ivóvíz-biztonsági engedélyéről az egészségügyi államigazgatási szerv nyilvántartást vezet.
+7. § (1) Az ivóvízzel és használati melegvízzel érintkezésbe kerülő, közegészségügyi szempontú nyilvántartásba vételhez kötött termékek, vízkezelő vegyszerek és szűrőanyagok bejelentéséről, az ivóvízzel és használati melegvízzel érintkezésbe kerülő, ivóvíz-biztonsági engedély alapján forgalomba kerülő termékek, vízkezelésre szolgáló berendezések ivóvíz-biztonsági engedélyéről, valamint a fürdővíz előállítása során a vízzel érintkezésbe kerülő bejelentésköteles anyagok, termékek bejelentéséről és a fürdővíz-biztonsági engedélyhez kötött fürdővíz-vízkezelési eljárások engedélyeiről az egészségügyi államigazgatási szerv nyilvántartást vezet.
 
-(2) Az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek vonatkozásában az (1) bekezdés szerinti nyilvántartás tartalmazza:
+(2) Az ivóvízzel és használati melegvízzel érintkezésbe kerülő termékek, vízkezelő vegyszerek és szűrőanyagok, valamint a fürdővízzel közvetlenül érintkező anyagok, termékek vonatkozásában az (1) bekezdés szerinti nyilvántartás tartalmazza:
 
 - a) a bejelentés nyilvántartási számát,
 - b) a forgalmazó és a gyártó nevét,
 - c) a termék, anyag nevét, valamint
 - d) a termék, anyag rendeltetését.
 
-(3) Az ivó- és használatimelegvíz-ellátásban, valamint a medencés közfürdőkben a víz kezelésére alkalmazni kívánt technológiák vonatkozásában az (1) bekezdés szerinti nyilvántartás tartalmazza:
+(3) Az ivóvízzel és használati melegvízzel érintkezésbe kerülő termékek, vízkezelésére szolgáló berendezések ivóvíz-biztonsági engedélyei, valamint a fürdővíz-kezelési eljárások engedélyei vonatkozásában az (1) bekezdés szerinti nyilvántartás tartalmazza:
 
 - a) az ivóvíz-biztonsági engedély számát,
-- b) az engedélyes és a forgalmazó nevét, valamint
-- c) az engedélyezett technológia megjelölését.
+- b) a forgalmazó és a gyártó nevét, valamint
+- c) az engedélyezett termék, technológia rendeltetését.
 
 (4) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), c) és d) pontja, valamint a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -444,6 +499,29 @@ vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészség
 
 (5) A befolyt összeg – a miniszter jóváhagyásával – az egészségügyi államigazgatási szerv hatósági ellenőrzésének és vizsgálati módszereinek folyamatos fejlesztésére, szakembereinek képzésére, valamint szakfelügyeleti és közegészségügyi-járványügyi tevékenységére használható fel.
 
+13/C. § (1) Ha a 4. § (5) bekezdés c) pont ca) alpontja hatálya alá tartozó élelmiszerek forgalomba hozatalával összefüggésben fennálló egészségi ártalom vagy annak gyanúja, illetve az emberi egészség veszélyeztetésének megszüntetésére más hatékony eszköz nem áll rendelkezésre, az egészségügyi államigazgatási szerv
+
+- a) előírhatja a kapcsolódó termékre utaló tartalom eltávolítását az online interfészről vagy megkövetelheti a végfelhasználóknak szóló kifejezett figyelmeztetés megjelenítését az online interfészre való belépéskor, vagy
+- b) ha a kötelezett az a) pont szerinti kötelezésnek nem tesz eleget, úgy megkövetelheti az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatótól, hogy korlátozza az online interfészre való belépést (a továbbiakban együtt: ideiglenes hozzáférhetetlenné tétel).
+
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét az egészségügyi államigazgatási szerv legfeljebb 365 napra rendeli el.
+
+(3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot az egészségügyi államigazgatási szerv hirdetményi úton közli. A hirdetményt 3 napig kell az egészségügyi államigazgatási szerv honlapján közzétenni. A határozat közlésének napja a hirdetmény közzétételét követő 3. nap.
+
+(4) Az egészségügyi államigazgatási szerv (3) bekezdés szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(5) Az egészségügyi államigazgatási szerv (3) bekezdés szerinti határozatát megküldi a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: NMHH).
+
+(6) Az ideiglenes hozzáférhetetlenné tétel végrehajtását az NMHH az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+
+(7) Az ideiglenes hozzáférhetetlenné tételt az egészségügyi államigazgatási szerv a (2) bekezdés szerinti időtartam letelte előtt megszünteti, ha
+
+- a) az elrendelés oka már nem áll fenn,
+- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
+- c) azt az egészségügyi államigazgatási szerv határozatával szemben kezdeményezett közigazgatási perben eljáró bíróság által biztosított azonnali jogvédelem indokolja.
+
+(8) Az egészségügyi államigazgatási szerv a (3) bekezdése szerinti határozatot megküldi az országos tisztifőorvosnak, aki e § szerinti intézkedés végrehajtásának időtartama alatt honlapján közzéteszi annak a honlapnak az elérhetőségét, amelynek tekintetében az egészségügyi államigazgatási szerv véglegessé vált döntésével ideiglenes hozzáférhetetlenné tételt rendelt el.
+
 14. § Az egészségügyi államigazgatási szervnek
 
 - a) a környezet- és település-egészségügy – ideértve különösen a vizekkel, az ivó-, gyógy- és ásványvizekkel, a gyógy- és közfürdőkkel, valamint a természetes fürdőhelyekkel és természetes fürdővizekkel kapcsolatos feladatokat –,
@@ -487,7 +565,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (8) Az ivóvízbiztonsággal, az ivóvíz vizsgálatával, valamint a természetes gyógytényezőkkel, természetes ásványvizekkel kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.
 
-(9) Az ivóvíz-, fürdővíz- és használati melegvíz-ellátásban a vízzel közvetlenül érintkező anyagok, termékek bejelentésével és a technológiák, termékek vízbiztonsági engedélyezésével kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.
+(9) Az ivóvízzel és használati melegvízzel érintkezésbe kerülő közegészségügyi szempontú nyilvántartásba vételhez kötött termékek, vízkezelő vegyszerek és szűrőanyagok bejelentésével, az ivóvízzel és használati melegvízzel érintkezésbe kerülő, ivóvíz-biztonsági engedély alapján forgalomba hozható termékek, vízkezelésére szolgáló berendezések ivóvíz-biztonsági engedélyezésével, valamint a fürdővízzel közvetlenül érintkezésbe kerülő bejelentésköteles anyagok, termékek bejelentésével és a fürdővíz-biztonsági engedélyhez kötött fürdővíz-vízkezelési eljárások engedélyezésével kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.
 
 14/C. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban tett, a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasszal kapcsolatban az az egészségügyi államigazgatási szerv jár el, amely a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult.
 
@@ -534,7 +612,7 @@ rendeletben állapítsa meg.
 (11) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
 
 - a) a szúnyogirtószer és szúnyoglárvairtó-szer légi úton történő környezetbe juttatásának feltételeit és az egészségügyi államigazgatási szervnek teljesítendő bejelentésekre és az engedélyezésre vonatkozó eljárás részletes szabályait, valamint
-- b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat,
+- b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, a táboroztatás kapcsán a gyermek törvényes képviselője részére nyújtandó tájékoztatásra, a táboroztatás szervezésében, illetve lebonyolításában közreműködőnek minősülő személyek meghatározására, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat,
 - c) a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeit és hatósági ellenőrzésének szabályait, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokat az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben
 
 rendeletben határozza meg.

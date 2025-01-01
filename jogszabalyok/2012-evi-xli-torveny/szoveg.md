@@ -71,7 +71,7 @@ a következő törvényt alkotja:
   - c) közúti jármű: az autóbusz, az iskolabusz, a közösségi busz, a személytaxi és a személygépkocsis személyszállító szolgáltatás eszköze,
   - d) különleges személyszállító szolgáltatást nyújtó jármű: személyszállító szolgáltatáshoz használt – a c) pontban meghatározott közúti járműkörbe nem tartozó – a közúti közlekedésről szóló törvény szerinti közúti jármű, kivéve a személygépkocsit, amellyel különleges személyszállító szolgáltatás nem végezhető,
   - e) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra szolgáló gépi hajtású vízi jármű, valamint a komp;
-- 13.
+- 13. kiemelt közszolgáltatói közreműködő: az országos, regionális és elővárosi személyszállítási közszolgáltatások teljesítésébe – stratégiai tervezési és ellenőrzési, valamint összehangolási feladatok ellátása érdekében – bevont, a személyszállítási közszolgáltatási szerződésben ekként nevesített szervezet;
 - 14. közforgalmú személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyet – a közzétett feltételek alkalmazásával, díj ellenében – bárki igénybe vehet;
 - 15. közlekedési szolgáltató: a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvényben meghatározott vasúti igazgatási szerv, az e törvényben meghatározott közlekedési hatóság vagy a hajózási hatóság által kiadott, a tevékenység végzésére jogosító engedély vagy a vasúti igazgatási szerv által tudomásul vett bejelentés birtokában e törvény alapján személyszállítási szolgáltatási tevékenységet végző gazdálkodó szervezet;
 - 15a.
@@ -293,7 +293,7 @@ jogosult a személyszállítási szolgáltatásban részt vevő utas (4) bekezd�
 - a) a szolgáltató az (5) bekezdésben meghatározott helyeken, valamint
 - b) az (1) bekezdés a) és b) pontjában meghatározott szolgáltató – az a) ponton túlmenően – a jármű közlekedése során, a jármű közlekedésével közvetlenül érintett területen
 
-elektronikus biztonságtechnikai rendszeren keresztül, a (6)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt, és kezelheti a rögzített képfelvételeket.
+elektronikus biztonságtechnikai rendszeren keresztül, a (6)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt vagy kép- és hangfelvételt, és kezelheti a rögzített képfelvételeket vagy kép- és hangfelvételeket.
 
 (3) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai ellen irányuló jogsértő cselekmény felderítése, bizonyítása, továbbá a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyonba tartozó vagyontárgyak védelme érdekében – elektronikus biztonságtechnikai rendszeren keresztül működtetett testkamerán, valamint a gépjárműben elhelyezett, a jegyértékesítési terület megfigyelésére alkalmazott fedélzeti kamerán az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést. A szolgáltató a megfigyelés során képfelvételt vagy kép- és hangfelvételt készít, valamint kezeli a rögzített képfelvételt vagy kép- és hangfelvételt. Testkamera esetében a szolgáltató biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét.
 
@@ -697,9 +697,9 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 23. § (1) Belföldi személyszállítási közszolgáltatás végzésére – a közforgalmú kötöttpályás közlekedést helyettesítő autóbuszjáratokkal végzett és a kabotázs személyszállítási szolgáltatás, valamint az e törvényben meghatározott kivételekkel – a közlekedési szolgáltató kizárólag közszolgáltatási szerződés keretében bízható meg.
 
-(1a) A koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) szerinti eljárások vonatkozásában e törvényt azzal az eltéréssel kell alkalmazni, hogy a Ktv. 5. § (1) bekezdése szerinti feladatok tekintetében az ellátásért felelősnek a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt minisztert vagy központi kormányzati igazgatási szervet kell tekinteni.
+(1a) A koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) szerinti eljárások – ideértve a (2) bekezdés szerinti eljárásokat is – vonatkozásában e törvényt azzal az eltéréssel kell alkalmazni, hogy a Ktv. 5. § (1) bekezdése szerinti feladatok tekintetében az ellátásért felelősnek a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt minisztert vagy központi kormányzati igazgatási szervet kell tekinteni.
 
-(2) A szolgáltatási koncesszióra irányuló közszolgáltatási szerződést – az 1370/2007/EK rendelet 5. cikke alapján közvetlenül odaítélhető közszolgáltatási szerződések kivételével – az e törvény pályázatra vonatkozó szabályai szerint kell megkötni.
+(2) A szolgáltatási koncesszióra irányuló közszolgáltatási szerződést – az 1370/2007/EK rendelet 5. cikke alapján közvetlenül odaítélhető közszolgáltatási szerződések kivételével – az e törvény pályázatra vonatkozó szabályai szerint kell megkötni azzal, hogy az e törvény és egyéb jogszabály által nem szabályozott kérdések tekintetében a Ktv. előírásait kell figyelembe venni.
 
 (2a) Az országos, a regionális és az elővárosi vasúti személyszállítási közszolgáltatásra vonatkozó közszolgáltatási szerződés az egyéb kötöttpályás szállítást kivéve az 1370/2007/EK rendelet 5. cikk (6) bekezdése alapján 2023. december 24-ig pályázati eljárás mellőzésével is megköthető.
 
@@ -801,6 +801,19 @@ valósulhat meg.
 (7) Amennyiben a közszolgáltatási szerződés a szolgáltatónak kizárólagos jogot biztosít valamely területen, a beleegyezése nélkül csak a 29. § (3) bekezdésében foglaltak alapján, valamint abban az esetben korlátozható, ha arról a szerződés kifejezetten rendelkezik. A szerződés csak az abban foglalt esetekben és feltételekkel mondható fel. A szerződésben rögzített közszolgáltatási tevékenység gyakorlásának joga más, az e törvényben meghatározott feltételeknek megfelelő személyre – kivételesen indokolt esetben – az ellátásért felelős hozzájárulásával ruházható át.
 
 (8) A személyszállítási közszolgáltatások teljesítésébe – az 1370/2007/EK rendelet 4. cikk (7) bekezdés 3. mondatában meghatározott feltételek teljesülésének kivételével – a szolgáltató a közszolgáltatási szerződésben meghatározott mértékben, de legfeljebb 49%-ban vonhat be alvállalkozót. Alvállalkozóként kizárólag csak a nemzeti vagyonról szóló törvény szerint átlátható szervezetnek minősülő közlekedési szolgáltató vonható be.
+
+(9) Országos, regionális és elővárosi személyszállítási közszolgáltatások esetében a szolgáltató a közszolgáltatási szerződés teljesítésébe a személyszállítási közszolgáltatásokra vonatkozó
+
+- a) stratégiai tervezési,
+- b) nyomonkövetési,
+- c) fejlesztés és működés összehangolási,
+- d) az infrastrukturális feltételek összehangolási,
+- e) utastájékoztatási – ideértve a haváriahelyzetben történő utastájékoztatást is – összehangolási, és
+- f) haváriahelyzetben történő közlekedésirányítás összehangolási
+
+közfeladatainak egységes ellátására – az ellátásért felelős előzetes jóváhagyásával – kiemelt közszolgáltatói közreműködőt vonhat be azzal, hogy a kiemelt közszolgáltatói közreműködő a közszolgáltatási szerződés keretében nem láthat el a közszolgáltatási szerződés tárgya szerinti tevékenységi engedélyhez kötött tevékenységet.
+
+(10) Kiemelt közszolgáltatói közreműködőként kizárólag a nemzeti vagyonról szóló törvény szerint átlátható szervezetnek minősülő szervezet vonható be.
 
 #### 19. Az országos, a regionális és az elővárosi közszolgáltatási menetrend előkészítésére vonatkozó szabályok, a közszolgáltatás mennyiségi és minőségi alapfeltételei
 
@@ -1040,13 +1053,13 @@ szolgáltatásokat nyújt.
 
 #### 26. Menetkedvezmények
 
-37. § (1) Az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaság munkavállalóját, azt a volt munkavállalóját, aki legkésőbb a munkaviszony megszűnését követő naptól kezdődően nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül (a továbbiakban: nyugdíjas) és igényjogosult hozzátartozóikat, továbbá a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott személyeket utazási kedvezmény illeti meg (a továbbiakban: menetkedvezmény). Az egyes vasúti társaságok munkavállalóit megillető menetkedvezmények kölcsönös elismerésére, elszámolásának módjára és megtérítésére az érintett vasúti társaságok megállapodása irányadó. Az elkülönült vasútegészségügyi szervezet munkavállalóját a menetkedvezmények szempontjából az országos vasúti személyszállítási közszolgáltatást végző vasúti társaság munkavállalójának kell tekinteni.
+37. § (1) Az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaság, az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság, továbbá ezen szervezetek kapcsolt vállalkozásai (e § alkalmazásában a továbbiakban együtt: vasúti társaság) munkavállalóját, azt a volt munkavállalóját, aki legkésőbb a munkaviszony megszűnését követő naptól kezdődően nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül (a továbbiakban: nyugdíjas) és igényjogosult hozzátartozóikat, továbbá a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott személyeket utazási kedvezmény illeti meg (a továbbiakban: menetkedvezmény). Az egyes társaságok munkavállalóit megillető, igénybe vehető menetkedvezményekre, azok elismerésére, elszámolásának módjára és megtérítésére az érintett társaságok megállapodása irányadó. Az elkülönült vasútegészségügyi szervezet munkavállalóját a menetkedvezmények szempontjából az országos vasúti személyszállítási közszolgáltatást végző vasúti társaság munkavállalójának kell tekinteni.
 
 (2) A vasúti társaság, valamint a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott kedvezményre jogosultak munkáltatója (e § alkalmazásában a továbbiakban: munkáltató) az (1) bekezdés szerinti menetkedvezményre jogosult (5) bekezdésben meghatározott adatait kezeli.
 
-(3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság részére továbbítja.
+(3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság, illetve az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság részére továbbítja.
 
-(4) A menetkedvezményre jogosultság biztosítása céljából menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre jogosultság megszűnéséig kezeli.
+(4) A menetkedvezményre való jogosultság biztosítása céljából a menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság, illetve az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást és az országos, regionális vagy elővárosi autóbusszal végzett személyszállítási közszolgáltatást együttesen végző társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre való jogosultság megszűnéséig, illetve a kedvezmény igénybevételére jogosító igazolvány vasúti társaság részére történő visszaszolgáltatásáig kezeli.
 
 (5) Az adatkezelés a következő adatokra terjed ki:
 
@@ -1057,13 +1070,16 @@ szolgáltatásokat nyújt.
 - e) a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott, a menetkedvezményre való jogosultság igazolásához szükséges adatok,
 - f) a jogosult képmása a kedvezmény igénybevételére jogosító igazolvány kiállítása céljából.
 
-(6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat a jogosultság megszűnéséig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
+(6)
 
-(7)
+(7) E § alkalmazásában kapcsolt vállalkozás az a vállalkozás, amely a számvitelről szóló törvény értelmében az országos, regionális vagy elővárosi személyszállítási közszolgáltatást végző és az országos vasúti pályahálózatot működtető vasúti társasággal (e § alkalmazásában a továbbiakban együtt: közszolgáltatást végző társaság) összevont (konszolidált) éves beszámoló készítésére köteles, vagy olyan vállalkozás
+
+- a) amely felett a közszolgáltatást végző társaság közvetlenül vagy közvetve a Polgári Törvénykönyv szerinti többségi befolyást gyakorol, vagy
+- b) amely a közszolgáltatást végző társaság felett a Polgári Törvénykönyv szerinti többségi befolyást gyakorol.
 
 (8)
 
-37/A. § Az országos, regionális vagy elővárosi közúti vagy helyi menetrend szerinti személyszállítási szolgáltatást vagy a menetrend szerinti vízi személyszállítási szolgáltatást végző közlekedési szolgáltató munkavállalói és jogszabályban meghatározott igényjogosultjai számára az alkalmazott menetdíjakból díjkedvezményt nyújthat. A közlekedésszervező munkavállalóját a menetkedvezmények szempontjából a személyszállítási közszolgáltatást végző közlekedési szolgáltató munkavállalójának kell tekinteni.
+37/A. § Az országos, regionális vagy elővárosi közúti vagy helyi menetrend szerinti személyszállítási szolgáltatást vagy a menetrend szerinti vízi személyszállítási szolgáltatást végző közlekedési szolgáltató munkavállalói és jogszabályban meghatározott igényjogosultjai számára az alkalmazott menetdíjakból díjkedvezményt nyújthat. A közlekedésszervező és az 5. § (6) bekezdése szerinti szervezet 5. § (6) bekezdés a)–d) pontjában meghatározott feladatokat ellátó munkavállalóját a menetkedvezmények szempontjából a személyszállítási közszolgáltatást végző közlekedési szolgáltató munkavállalójának kell tekinteni.
 
 #### 27. Iskolabuszokra és közösségi buszokra vonatkozó rendelkezések
 
@@ -1150,7 +1166,7 @@ adja ki.
 
 (2) Nem az Európai Unió tagállamában bejegyzett szolgáltató – amennyiben nemzetközi szerződés eltérően nem rendelkezik – belföldi menetrend szerinti személyszállítási szolgáltatást a miniszter által kiadott járati engedéllyel végezhet.
 
-45. § (1) A vállalkozó vasúti társaságok – az 1370/2007/EK rendeletben foglaltak sérelme nélkül – a vasúti személyszállítási szolgáltatások valamennyi típusának üzemeltetése céljából méltányos, megkülönböztetésmentes és átlátható feltételek mellett hozzáférhetnek a hazai vasúti infrastruktúrához. A vállalkozó vasúti társaságok vasúti személyszállítási szolgáltatás nyújtása esetén jogosultak arra, hogy bármely állomáson utasokat vegyenek fel és azok számára egy másik állomáson lehetővé tegyék a kiszállást. E jog magában foglalja a 2012/34/EU irányelv II. melléklet 2. pontjában említett kiszolgáló létesítményeket összekötő infrastruktúrához való hozzáférést is.
+45. § (1) A vállalkozó vasúti társaságok – az 1370/2007/EK rendeletben foglaltak sérelme nélkül – a vasúti személyszállítási szolgáltatások valamennyi típusának üzemeltetése céljából méltányos, megkülönböztetésmentes és átlátható feltételek mellett hozzáférhetnek a nyílt hozzáférésű hazai vasúti infrastruktúrához. A vállalkozó vasúti társaságok vasúti személyszállítási szolgáltatás nyújtása esetén jogosultak arra, hogy bármely állomáson utasokat vegyenek fel és azok számára egy másik állomáson lehetővé tegyék a kiszállást. E jog magában foglalja a 2012/34/EU irányelv II. melléklet 2. pontjában említett kiszolgáló létesítményeket összekötő infrastruktúrához való hozzáférést is.
 
 (2) Amennyiben egy kérelmező személyszállítási szolgáltatás nyújtása céljából infrastruktúra-kapacitást szándékozik kérelmezni azt követően, hogy vasúti infrastruktúrához való hozzáférés jogát a 47. §-sal összefüggésben korlátozták, erről legalább 18 hónappal az adott kapacitáskérelemhez kapcsolódó üzemi menetrend hatálybalépése előtt tájékoztatnia kell az érintett pályahálózat-működtetőket és a vasúti igazgatási szervet. A vasúti igazgatási szerv biztosítja a miniszter és az e személyszállítási szolgáltatási útvonalon a közszolgáltatási szerződést teljesítő vállalkozó vasúti társaság haladéktalan – de legkésőbb a tájékoztatás megismerését követő 10 napon belüli – tájékoztatását.
 
@@ -1224,7 +1240,7 @@ rendeletben állapítsa meg.
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) a vasúti személyszállítási szolgáltatások végzésének és engedélyezésének részletes szabályait,
-- b) a vasúti dolgozók menetkedvezményre jogosultságának és igénybevételének részletes szabályait,
+- b) a vasúti dolgozók menetkedvezményre való jogosultságának és igénybevételének részletes szabályait,
 - c) az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közforgalmú menetrend készítésére, az egységes egyeztetési eljárásra vonatkozó, és az országos, regionális és elővárosi személyszállítási közszolgáltatások keretében nyújtandó alapellátás meghatározására vonatkozó részletes szabályokat,
 - d) a vasúti pályahálózathoz való nyílt hozzáférésnek a 47. § (1) bekezdés szerinti korlátozására vonatkozó részletes szabályokat,
 - e) a 48. §-ban meghatározott, a vasúti személyszállítási közszolgáltatási szerződésben meghatározott kötelezettségek pénzügyi ellentételezése fedezetének biztosítása érdekében a vasúti személyszállítási szolgáltatást nyújtó vasúti társaságokat terhelő pénzügyi ellentételezés megállapításának mérlegelési szempontjait az államháztartásért felelős miniszterrel egyetértésben,

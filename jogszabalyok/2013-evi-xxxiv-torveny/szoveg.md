@@ -35,7 +35,7 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 
 (5) A szakértői vélemény jogszabályban meghatározott díjazás ellenében kérhető.
 
-(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per, valamint az (1a) és (1e) bekezdésben meghatározott szakértői tevékenység kivételével – az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában nem rendelhető ki.
+(6) A Teljesítésigazolási Szakértői Szerv az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában a tevékenységi körébe eső szakterületekhez tartozó szakkérdésben szakértőként kirendelhető. A Teljesítésigazolási Szakértői Szerv csak olyan kirendelést fogadhat el, amely az (1)–(3) bekezdésében foglalt kötelezettségeinek teljesítését nem veszélyezteti. A Teljesítésigazolási Szakértői Szerv nem járhat el szakértőként a szakvéleményére alapított perben.
 
 (7) Az e törvényben nem szabályozott kérdésekben a Teljesítésigazolási Szakértői Szerv, valamint a tagjának jogaira és kötelezettségeire a Szaktv. rendelkezéseit megfelelően alkalmazni kell.
 
@@ -61,7 +61,7 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 (2) A Teljesítésigazolási Szakértői Szerv
 
 - a) vezetőjét, vezető helyettesét az igazságügyi szakértők közül az építésgazdaságért felelős miniszter az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter és az igazságügyért felelős miniszter,
-- b) tagjait az igazságügyi szakértők és az építési műszaki ellenőrök közül az építésgazdaságért felelős miniszter – a Magyar Kereskedelmi és Iparkamara, a Magyar Mérnöki Kamara, a Magyar Építész Kamara, a Magyar Igazságügyi Szakértői Kamara és építőipari szakmai szervezetek véleményezése mellett – az igazságügyért felelős miniszter
+- b) tagjait az igazságügyi szakértők vagy az építési műszaki ellenőrök közül az építésgazdaságért felelős miniszter – a Magyar Kereskedelmi és Iparkamara, a Magyar Mérnöki Kamara, a Magyar Építész Kamara, a Magyar Igazságügyi Szakértői Kamara és építőipari szakmai szervezetek véleményezése mellett – az igazságügyért felelős miniszter
 
 egyetértésével nevezi ki.
 
@@ -89,7 +89,7 @@ egyetértésével nevezi ki.
 
 (4) Ha a szakértői tanács tagja a kizáró okot maga jelentette be vagy a kizáráshoz maga is hozzájárult, továbbá ha a kizáró okot a Teljesítésigazolási Szakértői Szerv vezetője állapítja meg, az eljárásra másik tagot jelöl ki. Így kell eljárni akkor is, ha a szakértői tanács tagja a szakértői vélemény elkészítésének egyéb akadályát maga jelentette be.
 
-(5) A Teljesítésigazolási Szakértői Szerv vezetőjének akadályoztatása esetén – ideértve a kizárást is – a vezetői feladatait az erre kijelölt helyettese látja el.
+(5) A Teljesítésigazolási Szakértői Szerv vezetőjének akadályoztatása esetén – ideértve a kizárást is – a vezetői feladatait a vezető helyettes látja el.
 
 #### 5. A szakértői vélemény elkészítése
 
@@ -98,7 +98,7 @@ egyetértésével nevezi ki.
 (2) A szakvélemény – a jogszabályban a szakértői vélemény tartalmára vonatkozó előírások szerint – a következő kérdések tárgyában készül:
 
 - a) a szerződés műszaki tartalma szerint a vállalkozót (alvállalkozót) terhelő munkák leírása,
-- b) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan teljesített munkák mennyiségének és minőségének meghatározása,
+- b) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan teljesített munkák mennyiségének és a szerződésben meghatározott, az alapvető követelmények teljesülését szolgáló minőségének meghatározása,
 - c) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan el nem végzett munkák meghatározása, és
 - d) a b) és c) pont szerinti munkáknak a szerződés szerinti költségvetési tételek, vagy az átalánydíj arányos részének alapulvételével meghatározott értéke.
 

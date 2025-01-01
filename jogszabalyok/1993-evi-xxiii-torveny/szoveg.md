@@ -12,7 +12,17 @@ a Nemzeti Kulturális Alapról
 
 (2) A Bizottság a miniszter és az MMA elnöke által jóváhagyott éves munkaterv alapján látja el feladatát.
 
-(3) A miniszter az Alap forrásainak felhasználására állandó szakmai kollégiumokat hoz létre és kinevezi azok tagjait és vezetőit. Az irodalmi, a zenei, a képző- az ipar- és tervezőművészeti, valamint az építészeti, továbbá a fotó-, a film- az előadó-, a népművészeti főtematikájú (a továbbiakban: művészeti főtematikájú) állandó szakmai kollégiumokat a miniszter – az MMA elnöke véleményének kikérése után – rendelettel hozza létre, és az MMA elnökének egyetértésével nevezi ki azok vezetőit. Az állandó szakmai kollégiumok hatáskörébe nem tartozó igények elbírálására a miniszter ideiglenes szakmai kollégiumot is létrehozhat.
+(3) A miniszter az Alap forrásainak felhasználására állandó szakmai kollégiumokat hoz létre és kinevezi azok tagjait és vezetőit. A
+
+- a) könyvkiadás és szépirodalom főtematikájú Anyanyelvi Kultúra Kollégiumot,
+- b) színház-, tánc-, zene (zeneművészet, könnyűzene, jazz-, világ- és népzene) főtematikájú Előadó-művészetek Kollégiumát,
+- c) építőművészet és örökségvédelem főtematikájú Épített Örökség Kollégiumot,
+- d) ismeretterjesztés, környezetkultúra, közművelődés és népművészet főtematikájú Hagyomány- és Ismeretátadás Kollégiumát,
+- e) könyvtár, levéltár és múzeum főtematikájú Közgyűjtemények Kollégiumát,
+- f) a Közösségi Programok és Fesztiválok Kollégiumát, valamint
+- g) a film-, fotó-, ipar-, képző- és tervezőművészet főtematikájú Vizuális Művészetek Kollégiumát
+
+mint állandó szakmai kollégiumot [a továbbiakban az a)–g) pontok együtt: művészeti főtematikájú állandó szakmai kollégium] a miniszter – az MMA elnöke véleményének kikérése után – rendelettel hozza létre, és az MMA elnökének egyetértésével nevezi ki azok vezetőit. Az állandó szakmai kollégiumok hatáskörébe nem tartozó igények elbírálására a miniszter ideiglenes szakmai kollégiumot is létrehozhat.
 
 (4) A miniszter a művészeti főtematikájú állandó szakmai kollégiumok tagjainak egyharmadát saját hatáskörben kéri fel az érintett szakmai szervezetek véleményének meghallgatása után, egyharmadát az MMA, további egyharmadát pedig az érintett szakmai szervezetek delegálják.
 
@@ -34,7 +44,9 @@ a Nemzeti Kulturális Alapról
 
 2/A. § (1) A kollégium döntéseiben nem vehet részt a miniszter, az Alap alelnöke, valamint a Bizottság tagja.
 
-(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozóinak, továbbá bejegyzett élettársának pályázatát érdemi vizsgálat nélkül el kell utasítani tekintet nélkül arra, hogy a pályázó milyen keretre – beleértve a 7/C. § szerinti keretet is –, vagy melyik kollégiumhoz nyújtotta be pályázatát.
+(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, ezek, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozóinak, továbbá bejegyzett élettársának, valamint a kollégium vezetőinek és tagjainak pályázatát érdemi vizsgálat nélkül el kell utasítani tekintet nélkül arra, hogy a pályázó milyen keretre – beleértve a 7/C. § szerinti keretet is –, vagy melyik kollégiumhoz nyújtotta be pályázatát.
+
+(2a) A kollégium vezetője és tagja nem vehet részt a Ptk. szerinti közeli hozzátartozója vagy bejegyzett élettársa által a kollégiumhoz benyújtott pályázat elbírálásában.
 
 (3) A miniszter, az Alap alelnöke, a Bizottság tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 
@@ -63,9 +75,9 @@ a Nemzeti Kulturális Alapról
 
 (4) Költségvetési támogatás felhasználását a miniszter e törvényben foglaltaktól eltérően szabályozhatja.
 
-(5) Az Alap bevétele és év végi maradványa, valamint kezelő szervének az Alap kezelésével összefüggő bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
+(5) Az Alap bevétele és év végi maradványa, valamint kezelő szervének az Alap kezelésével összefüggő bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával.
 
-(6)
+(6) Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a tárgyévet megelőző évben az Alap pályázati felhívással vagy támogatói okirattal, támogatási szerződéssel lekötött forrása tárgyévi felhasználásának engedélyezésére – az Áht. 86. § (4) bekezdésétől eltérően – a Bizottság javaslatára a fejezetet irányító szerv az államháztartásért felelős miniszter jóváhagyása nélkül is jogosult.
 
 5. § (1) Az Alap működtetésének szervezeti és eljárási részletszabályait e törvény és a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény végrehajtásáról szóló miniszteri rendelet előírásainak keretei között a miniszter mint az Alap elnöke Ügyrendben állapítja meg.
 
@@ -103,6 +115,8 @@ a Nemzeti Kulturális Alapról
 7/C. § (1) A miniszter által közvetlenül felhasználható keret a 4. § (1) bekezdés a) pontja szerinti bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének legfeljebb 25%-a (a továbbiakban: miniszteri keret). A tárgyévi miniszteri keret pontos mértékét a miniszter a tárgyévet megelőző év december 15-éig állapítja meg.
 
 (2) A 4. § (1) bekezdés a) pontjában foglalt bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének legfeljebb 10%-ának mértékéig a miniszter – a kultúráért felelős államtitkár javaslatára – egyedi elbírálással az ágazati minisztérium irányítása, valamint felügyelete alá tartozó állami fenntartású intézmények számára egyedi kérelem alapján működési támogatást nyújthat.
+
+7/D. § Az Alap pályázati felhívással vagy támogatói okirattal, támogatási szerződéssel lekötött forrásával az előző évi éves költségvetési beszámoló elkészítését megelőzően – az államháztartásért felelős miniszter Áht. 86. § (4) bekezdése szerinti hozzájárulása nélkül is − az Alap tárgyévi kiadási előirányzata megemelhető, a kötelezettségvállalással terhelt maradvány a Bizottság tárgyévet követő év február 28-ig történő jóváhagyásával felhasználható.
 
 8. § (1) Az Alapból természetes és jogi személyek, társasházak, egyéni cégek, valamint egyéni vállalkozók igényelhetnek támogatást.
 

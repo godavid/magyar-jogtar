@@ -871,8 +871,9 @@ a működési engedélyt hivatalból felfüggeszti.
 
 - a) pályahálózat-működtető,
 - b) a vertikálisan integrált vállalkozás,
-- c) központi költségvetési szerv vagy
-- d) az állam 100%-os tulajdonába tartozó más nem pályahálózat-működtető vagyonkezelő gazdasági társaság [a c) és d) pont a továbbiakban együtt: nem pályaműködtető vagyonkezelő.]
+- c) központi költségvetési szerv,
+- d) az állam 100%-os tulajdonába tartozó más nem pályahálózat-működtető vagyonkezelő gazdasági társaság, vagy
+- e) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 19. pont ah) alpontja szerinti vagyonkezelő gazdasági társaság [a c)–e) pont a továbbiakban együtt: nem pályaműködtető vagyonkezelő]
 
 a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a magyar állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg.
 
@@ -886,7 +887,9 @@ a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyelet
 
 (6) Az országos vasúti pályahálózat-működtető az állami tulajdonú áruterminál, konténerterminál, logisztikai központ üzemeltetését közfeladatként látja el.
 
-27. § (1) A nem pályaműködtető vagyonkezelő az MNV Zrt.-vel megkötött vagyonkezelési szerződés alapján a pályahálózat hasznosítási jogát a pályahálózat-működtetőnek – a hasznosítási jog átengedésére, fejlesztési, felújítási és karbantartási feladatok ellátására vonatkozó szerződés keretében – ingyenesen átengedi. A nem pályaműködtető vagyonkezelő a vagyonkezelt vagyonra vonatkozó indokolt költségeit és ráfordításait a pályahálózat-működtetőre átháríthatja.
+(7) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 19. pont a) alpont ah) alpontja szerinti vagyonkezelőt – ha a vagyonkezelési szerződésben a felek másként nem rendelkeznek – nem terheli az állami vagyonról szóló 2007. évi CVI. törvény 27. § (2a) bekezdése szerinti díjfizetési és a 27. § (7) bekezdése szerinti visszapótlási kötelezettség azzal, hogy a vagyonkezelő ilyen esetben a jogviszony megszűnésekor a vagyonkezelésében álló állami vagyon tekintetében megvalósult értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben az állammal szemben követelést nem támaszthat.
+
+27. § (1) A nem pályaműködtető vagyonkezelő az MNV Zrt.-vel megkötött vagyonkezelési szerződés alapján a pályahálózat használatát és hasznosítási jogát a pályahálózat-működtetőnek – a hasznosítási jog átengedésére, fejlesztési, felújítási és karbantartási feladatok ellátására vonatkozó szerződés keretében – ingyenesen átengedi. A nem pályaműködtető vagyonkezelő – a 26. § (1) bekezdés e) pontjában meghatározott vagyonkezelő kivételével – a vagyonkezelt vagyonra vonatkozó indokolt költségeit és ráfordításait a pályahálózat-működtetőre átháríthatja.
 
 (2) A nem pályaműködtető vagyonkezelő és az MNV Zrt. közötti vagyonkezelési szerződésben rögzíteni kell a vagyonkezelés keretében átadásra kerülő vagyon rendezésével és a nyilvántartások egységesítésével összefüggésben alkalmazandó eljárásokat, ideértve az egyes vagyoni kimutatások között fellelt eltérések rendezésével és átvezetésével összefüggésben alkalmazandó szabályokat is.
 

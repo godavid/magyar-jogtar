@@ -557,6 +557,10 @@ van lehetőség.
 
 19/L. § Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a feladatainak ellátásához a 17. § (2) bekezdés f) pontja szerinti adatokat jogosult igényelni.
 
+19/M. § A hulladékgazdálkodási hatóság a hulladékgazdálkodási tevékenységek felügyelete, az elhagyott hulladék felszámolása, a hulladékgazdálkodási kötelezettségek teljesítésének ellenőrzése érdekében e feladatainak ellátásához a természetes személy ingatlanhasználó 17. § (2) bekezdés f) pontja szerinti adatait jogosult igényelni.
+
+19/N. § A bányafelügyelet a hatáskörébe tartozó eljárás lefolytatása érdekében a természetes személy ügyfél 17. § (2) bekezdés f) pontja szerinti adatait jogosult igényelni.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;
@@ -572,7 +576,7 @@ van lehetőség.
   - cs)
 - d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
 - e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
-- f)
+- f) lakcímadatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára vonatkozó adatok kivételével a házassági és az élettársi vagyonjogi szerződések országos nyilvántartásában szereplő személy halálának a házassági és az élettársi vagyonjogi szerződések országos nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;
 - gy) a lakcím, az állampolgárság, a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, valamint a nemre vonatkozó adatok kivételével a vizsgára jelentkező adatainak vagy a vizsgakötelezettség alóli mentesülés ellenőrzése céljából a Magyar Vöröskereszt;
 - h) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való kikerülés helyére, annak – az elhalálozáson kívüli – okára és idejére vonatkozó adatok kivételével a cégnyilvántartással összefüggő feladatai ellátásához a cégbíróság, valamint a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat;
@@ -584,7 +588,7 @@ van lehetőség.
   - ma) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével – a lakcímadatok vonatkozásában azonban a történeti adatokat is beleértve – a fizetési meghagyásos eljáráshoz, az európai fizetési meghagyásos eljáráshoz, a végrehajtási eljáráshoz, az európai uniós jogforráson alapuló tanúsítvány, igazolás, kivonat kiállítása iránti eljáráshoz,
   - mb)
   - mc) a bejegyzett élettársi kapcsolat megszüntetésére irányuló, valamint az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló polgári nemperes eljáráshoz, továbbá az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az egyéb közjegyzői nemperes eljárásokhoz;
-- n) az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
+- n) lakcímadatok, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára vonatkozó adatok kivételével az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
 - o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
 - p) az állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a nyilvántartást vezető szerv a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához.
 - q) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, valamint a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a TAJ szám nyilvántartásának vezetésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben, valamint jogszabályban meghatározott feladatai ellátásához;
@@ -617,7 +621,7 @@ van lehetőség.
 
 - a) az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás vezetésével összefüggésben;
 - b) a Magyar Honvédség központi nyilvántartó szerve, a területi katonai igazgatási szervek és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
-- c) a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, a kábítószerekkel és pszichotrop anyagokkal, személy- és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz;
+- c)
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
 - e) a központi menekültügyi szerv a törvényben meghatározott feladatai ellátásához;
 - f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
@@ -639,10 +643,35 @@ van lehetőség.
 
 a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása iránti eljáráshoz és az ingatlan-nyilvántartási feladatok ellátásához.
 
+22/B. § E törvény felhatalmazása alapján a 17. § (2) bekezdés e) pontja szerinti adatok és a lakcím igénylésére jogosultak a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, az ellenőrzött anyagokkal és kábítószer prekurzorokkal, az atomenergiával, a személy és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz.
+
 23. § E törvény felhatalmazása alapján a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a 17. § (2) bekezdés c) pontja szerinti adatok igénylésére jogosult
 
 - a) a választási szerv a népszavazásról és az európai polgári kezdeményezésről szóló törvényben, valamint a választási eljárásról szóló törvényben meghatározott feladatai ellátásához,
 - b) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv a nyilvántartás vezetéséhez.
+
+23/A. § E törvény felhatalmazása alapján a 17. § (2) bekezdés f) pontja szerinti adatok igénylésére jogosultak:
+
+- a) a Kormány által a lakáscélú állami támogatásokkal kapcsolatos feladatok ellátására kijelölt szerv a lakáscélú állami támogatásokkal összefüggő feladatai tekintetében,
+- b) a nyugdíj-megállapító szerv a jogszabályban meghatározott feladatai ellátásához,
+- c) a családtámogatási ügyben eljáró hatóság a jogszabályban meghatározott feladatai ellátásához,
+- d) a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésével, valamint a jogosulatlan vadászattal, illetve halászattal kapcsolatos feladatai ellátásához,
+- e) a növény- és talajvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- f) a környezet- és természetvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- g) élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-biztonsági és állategészségügyi feladatai ellátásához,
+- h) erdészeti hatóság az erdőgazdálkodói nyilvántartás vezetésével, erdészeti jogsértésekkel összefüggő feladatai ellátásához,
+- i) ingatlan-nyilvántartási hatóság jogszabályban meghatározott feladatai ellátásához,
+- j) a rehabilitációs hatóság a rehabilitációs elbírálási és megállapítási feladatai ellátásához,
+- k) szociális hatóság pénzbeli és természetbeni ellátások megállapításával összefüggő feladatai ellátásához,
+- l) a gyámhatóság a jogszabályban meghatározott feladatai ellátásához,
+- m) az egészségügyi államigazgatási szerv a jogszabályban meghatározott feladatai ellátásához,
+- n) a kulturális örökség védelmével összefüggő feladatokat ellátó szerv a jogszabályban meghatározott feladatai ellátásához,
+- o) az építésügyi és építésfelügyeleti hatóság a jogszabályban meghatározott feladatai ellátásához,
+- p) a fogyasztóvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- q) a kereskedelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- r) a jogi segítségnyújtó szolgálat, a pártfogó felügyelői szolgálat, valamint az áldozatsegítő szolgálat jogszabályban meghatározott feladatai ellátásához,
+- s) a Családi Csődvédelmi Szolgálat a jogszabályban meghatározott feladatai ellátásához,
+- t) a munkaügyi és munkavédelmi hatóság a jogszabályban meghatározott feladatai ellátásához.
 
 23/B. § A 11. § (4) bekezdése szerint kezelt ujjnyomatot kizárólag a nyilvántartást kezelő szerv jogosult igényelni az állandó személyazonosító igazolvány pótlása céljából.
 

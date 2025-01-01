@@ -427,7 +427,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
   - ea)
   - eb)
   - ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
-  - ed)
+  - ed) a bontási átvételi igazolás adatairól,
 - f) a biztosító elektronikus úton a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
 - g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról;
 - h) a vizsgaközpont elektronikusan, haladéktalanul
@@ -573,6 +573,10 @@ A NYILVÁNTARTÁSBÓL
 - e) a Gfbt.-ben meghatározott biztosító és a Kártalanítási Számla kezelője díjmentesen a káreseménnyel érintett jármű Gfbt.-ben meghatározott Kártörténeti nyilvántartásba (a továbbiakban: kárnyilvántartás) történő vétele során, a károsult jármű rendszámának és alvázszámának, valamint magyarországi nyilvántartásba vétele tényének elektronikus ellenőrzése érdekében a 9. § (2) bekezdés a) pontjában foglalt adatokból a járműazonosító adatokat;
 - f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat;
 - g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési, vizsgáztatási és okmánykiállítási, valamint a vezetői engedély automatikus kiállításával összefüggő feladatainak ellátásához a 8. §-ban meghatározott adatokat ingyenesen;
+- h) a kereskedelmi hatóság az utazásszervezői tevékenységgel összefüggő eljárások és az azokkal kapcsolatos ellenőrzési feladatok ellátásához a 9. § (1) bekezdésében foglalt adatokat,
+- i) a szociális hatóság a pénzbeli és természetbeni ellátások megállapításához a 9. § (1) bekezdésében foglalt adatokat,
+- j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához a 9. § (1)–(1b) bekezdésében foglalt adatokat,
+- k) a környezet- és természetvédelmi hatóság a környezetkárosítást végzők beazonosítása érdekében a 9. § (1) bekezdésében foglalt adatokat,
 - l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
 - m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
 - n) a közlekedési hatóság a digitális tachográf kártya kiadásához a 8. § (1) bekezdés a) pont aj) alpontjában, a 8. § (1) bekezdés b) pont ba)–bc) alpontjában lévő adatokat.

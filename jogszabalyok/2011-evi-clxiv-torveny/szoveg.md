@@ -181,7 +181,7 @@ hívja össze.
 
 #### 6. A kinevezés
 
-11. § (1) Ügyésszé azt az egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező magyar állampolgárt lehet kinevezni, aki nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
+11. § (1) Ügyésszé kinevezni, illetve legfőbb ügyésszé megválasztani azt az egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező magyar állampolgárt lehet, aki nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
 
 (2) Az (1) bekezdésben foglalt feltételeken túl az a személy nevezhető ki ügyésszé, aki a jogi szakvizsga letételét követően
 
@@ -1076,7 +1076,7 @@ irányadó összeggel azonos.
 
 (3) A magasabb vezető állású és a vezető állású ügyész évi öt munkanap pótszabadságra jogosult. Az alapszabadság és a vezetői pótszabadság együttes mértéke évente a negyven munkanapot nem haladhatja meg.
 
-(3a) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra az ügyészségi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
+(3a) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra az ügyészségi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 (4) Az ügyészt az (1)–(3a) bekezdésben meghatározott szabadságon felül megilleti a munka törvénykönyvéről szóló törvényben meghatározott pótszabadság is.
 

@@ -36,6 +36,8 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 (3) A munkáltató a munkaegészségügyi szaktevékenységnek minősített feladatokat munkaegészségügyi – ezen belül foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan – szakképesítéssel rendelkező személlyel végeztetheti. Jogszabályban meghatározott esetekben közegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthat munkaegészségügyi szaktevékenységnek minősített feladatokat.
 
+(4) A (2) és a (3) bekezdésben meghatározott személyek a munkabiztonsági és munkaegészségügyi szaktevékenység keretében elkészített dokumentumokat naprakész állapotban átadják a munkáltatónak. A munkáltató a székhelyén, illetve telephelyén eredetiben, illetve elektronikus úton tárolja a dokumentumokat, valamint biztosítja, hogy azok tartalma az érintettek – különösen a munkavállalók és képviselőik – számára megismerhető legyen.
+
 ### A törvény hatálya
 
 9. § (1) A törvény hatálya — a (2)—(3) bekezdésekben megállapított kivételekkel — kiterjed minden szervezett munkavégzésre, függetlenül attól, hogy az milyen szervezeti vagy tulajdoni formában történik.
@@ -83,7 +85,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 - a) Szabályzat kiadása;
 - b) a munkavédelem nemzeti politikájával összhangban az ágazati jellegű munkavédelmi kutatás, fejlesztés, továbbá a tájékoztatás, közreműködés a továbbképzés szervezésében.
 
-16. § Az állam hatósági tevékenység keretében, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási rendben – a VII. Fejezetben meghatározottak szerint –
+16. § Az állam hatósági tevékenység keretében, az általános közigazgatási rendtartásról szóló törvény szerinti eljárási rendben – a VII. Fejezetben meghatározottak szerint –
 
 - a) elősegíti és ellenőrzi a munkavédelemre vonatkozó szabályok végrehajtását,
 - b) ellátja az e törvény, a foglalkoztatáspolitikáért felelős miniszter rendelete és külön jogszabály szerinti engedélyezést és nyilvántartást.
@@ -108,9 +110,9 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 (2) Az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeinek teljesítése helyett a munkáltató pénzbeli vagy egyéb megváltást a munkavállalónak nem adhat.
 
-(3) Munkaeszközt üzembe helyezni, valamint használatba venni csak abban az esetben szabad, ha az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit kielégíti, és rendelkezik az adott munkaeszközre, mint termékre, külön jogszabályban meghatározott EK-megfelelőségi nyilatkozattal, illetve a megfelelőséget tanúsító egyéb dokumentummal (pl. tanúsítvány).
+(3) Munkaeszközt üzembe helyezni, valamint használatba venni csak abban az esetben szabad, ha az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit kielégíti, és rendelkezik az adott munkaeszközre, mint termékre, külön jogszabályban meghatározott EK-megfelelőségi nyilatkozattal, vagy EU-megfelelőségi nyilatkozattal, illetve a megfelelőséget igazoló egyéb dokumentummal (pl. tanúsítvány).
 
-(4) Egyéni védőeszközt forgalomba hozni és használatba venni akkor szabad, ha rendelkezik EU-megfelelőségi nyilatkozattal és szükség esetén EU-típusvizsgálati tanúsítvánnyal.
+(4) Egyéni védőeszközt használatba venni akkor szabad, ha rendelkezik EU-megfelelőségi nyilatkozattal és szükség esetén EU-típusvizsgálati tanúsítvánnyal.
 
 (5)
 
@@ -146,7 +148,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 (7) Ha a veszélyes munkaeszközt, technológiát próba- vagy kísérleti jelleggel üzemeltetik, úgy az üzembe helyezési eljárás során figyelemmel kell lenni a próba- vagy kísérleti üzemeltetés kockázataira is. A veszélyes munkaeszköz, technológia próba- vagy kísérleti jelleggel történő üzemeltetésére kizárólag a (3) bekezdés szerinti próba- vagy kísérleti jelleggel történő üzemeltetéstől független előzetes vizsgálatok lefolytatását követően kerülhet sor. Az ilyen jellegű üzemeltetés a 180 napot nem haladhatja meg.
 
-(8) A munkavédelmi szempontú előzetes vizsgálatot – kivéve a veszélyes technológia esetét – szakirányú képzettséggel és munkavédelmi szakmai képesítéssel rendelkező személy, vagy jogszabályban erre feljogosított személy, vagy erre akkreditált intézmény végezheti. A veszélyes technológia vizsgálatát szakirányú munkabiztonsági szakértői engedéllyel rendelkező személy végezheti.
+(8) A munkavédelmi szempontú előzetes vizsgálatot – kivéve a veszélyes technológia esetét – szakirányú képzettséggel és munkavédelmi szakmai képesítéssel rendelkező személy, vagy szakirányú munkabiztonsági szakértő, vagy jogszabályban erre feljogosított személy, vagy erre akkreditált intézmény végezheti. A veszélyes technológia vizsgálatát szakirányú munkabiztonsági szakértői engedéllyel rendelkező személy végezheti.
 
 (9) A (8) bekezdés és a 23. § (1) bekezdése szerinti veszélyes technológia vizsgálata munkaegészségügyi szaktevékenység is.
 
@@ -154,7 +156,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 ### A munkavégzés tárgyi feltételei
 
-23. § (1) A biztonságos műszaki állapot megőrzése érdekében időszakos biztonsági felülvizsgálat alá kell vonni a veszélyes technológiát és a 21. § (2) bekezdésében meghatározott veszélyes munkaeszközt, továbbá azt a munkaeszközt, amelynek időszakos biztonsági felülvizsgálatát jogszabály, szabvány, vagy a rendeltetésszerű és biztonságos üzemeltetésre, használatra vonatkozó dokumentáció előírja. Az időszakos biztonsági felülvizsgálatot – kivéve a veszélyes technológia esetét – szakirányú képzettséggel és munkavédelmi szakmai képesítéssel rendelkező személy (munkabiztonsági szaktevékenység) vagy külön jogszabályban erre feljogosított személy, illetve erre akkreditált intézmény végezheti. A veszélyes technológia vizsgálatát szakirányú munkabiztonsági szakértői engedéllyel rendelkező személy végezheti.
+23. § (1) A biztonságos műszaki állapot megőrzése érdekében időszakos biztonsági felülvizsgálat alá kell vonni a veszélyes technológiát és a 21. § (2) bekezdésében meghatározott veszélyes munkaeszközt, továbbá azt a munkaeszközt, amelynek időszakos biztonsági felülvizsgálatát jogszabály, szabvány, vagy a rendeltetésszerű és biztonságos üzemeltetésre, használatra vonatkozó dokumentáció előírja. Az időszakos biztonsági felülvizsgálatot – kivéve a veszélyes technológia esetét – szakirányú képzettséggel és munkavédelmi szakmai képesítéssel rendelkező személy, vagy szakirányú munkabiztonsági szakértő, vagy külön jogszabályban erre feljogosított személy, illetve erre akkreditált intézmény végezheti. A veszélyes technológia vizsgálatát szakirányú munkabiztonsági szakértői engedéllyel rendelkező személy végezheti.
 
 (2) A munkahelyet, az egyéni védőeszközt, a munkaeszközt, a technológiát az üzemeltető munkáltatónak soron kívül ellenőriznie kell,
 
@@ -224,7 +226,7 @@ az anyagra vonatkozó követelmények
 
 40. § (1) A munkafolyamatot, a technológiát, a munkaeszközt, az anyagot úgy kell megválasztani, hogy az sem a munkavállalók, sem a munkavégzés hatókörében tartózkodók egészségét és biztonságát ne veszélyeztesse.
 
-(2) Olyan munkahelyen, ahol különböző munkáltatók alkalmazásában álló munkavállalókat egyidejűleg foglalkoztatnak, a munkavégzést úgy kell összehangolni, hogy az ott dolgozókra és a munkavégzés hatókörében tartózkodókra az veszélyt ne jelentsen. Az összehangolás keretében különösen az egészséget és biztonságot érintő kockázatokról és a megelőzési intézkedésekről az érintett munkavállalókat, munkavédelmi képviselőiket, és a munkavégzés hatókörében tartózkodókat tájékoztatni kell. Az összehangolás megvalósításáért felelős a felek által szerződésben meghatározott munkáltató, ilyen kikötés hiányában az a személy vagy szervezet, aki, illetve amely a tényleges irányítást gyakorolja, ennek hiányában, aki a munkahelyért a fő felelősséget viseli, ha ilyen nincs, akkor az, akinek a területén a munkavégzés folyik.
+(2) Olyan munkahelyen, ahol különböző munkáltatók alkalmazásában álló munkavállalókat egyidejűleg foglalkoztatnak, a munkavégzést úgy kell összehangolni, hogy az ott dolgozókra és a munkavégzés hatókörében tartózkodókra az veszélyt ne jelentsen. Az összehangolás keretében különösen az egészséget és biztonságot érintő kockázatokról és a megelőzési intézkedésekről az érintett munkáltatókat, munkavállalókat, munkavédelmi képviselőiket, és a munkavégzés hatókörében tartózkodókat tájékoztatni kell. Az összehangolás megvalósításáért felelős a felek által szerződésben meghatározott munkáltató, ilyen kikötés hiányában az a személy vagy szervezet, aki, illetve amely a tényleges irányítást gyakorolja, ennek hiányában, aki a munkahelyért a fő felelősséget viseli, ha ilyen nincs, akkor az, akinek a területén a munkavégzés folyik.
 
 41. § (1) Anyagot, terméket mozgatni csak az anyag, termék tulajdonságainak megfelelő, arra alkalmas eszközzel, a kijelölt helyen és módon, a súly- és mérethatárok megtartásával szabad.
 
@@ -326,12 +328,14 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2a) A foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a kockázatértékelés munkaegészségügyi tartalmával kapcsolatos feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
-(3) A munkáltató a kockázatértékelést, a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 3 évente köteles elvégezni. Az 56. §-ban meghatározottak a kockázatértékelésben rögzítésre kerülhetnek. Indokolt esetnek kell tekinteni
+(3) A munkáltató a kockázatértékelést, annak részeként a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 5 évente köteles elvégezni. Az 56. §-ban meghatározottak a kockázatértékelésben kerülnek rögzítésre. Indokolt esetnek kell tekinteni
 
-- a) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának megváltozását,
-- b) minden olyan, az eredeti tevékenységgel összefüggő változtatást, amelynek eredményeképpen a munkavállalók egészségét, biztonságát meghatározó munkakörülményi tényezők megváltozhattak – ideértve a munkaklíma-, zaj-, rezgésterhelést, légállapotokat (gázállapotú, por, rost légszennyezők minőségi, illetve mennyiségi változást),
+- a) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának megváltozását, valamint a munkáltató tevékenységi körének változását,
+- b) minden olyan, az eredeti tevékenységgel összefüggő változtatást, amelynek eredményeképpen a munkavállalók egészségét, biztonságát meghatározó munkakörülményi tényezők megváltozhattak – ideértve a munkaklíma-, zaj-, rezgésterhelést, légállapotokat (gázállapotú, por, rost légszennyezők minőségi, illetve mennyiségi változását),
 - c) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának hiányosságával összefüggésben bekövetkezett munkabaleset, fokozott expozíció, illetve foglalkozási megbetegedés előfordulását, továbbá
-- d) ha a kockázatértékelés a külön jogszabályban meghatározott szempontra nem terjedt ki.
+- d) ha a kockázatértékelés jogszabályban meghatározott szempontra nem terjedt ki.
+
+(3a) Az (1) bekezdés g) pontjában, valamint az 56. §-ban meghatározottak a kockázatértékelésben is rögzítésre kerülhetnek.
 
 (4) A munkavédelmi hatósági ellenőrzés során a munkáltatónak kell bizonyítania a tevékenység megkezdésének tényét, időpontját.
 
@@ -348,7 +352,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (6) Az (1) bekezdés g) pontjában meghatározott megelőzési stratégia munkabiztonsági és munkaegészségügyi tartalmának kialakítása munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül.
 
-(6a) A megelőzési stratégia a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt 1–9 főt foglalkoztatók esetében a kockázatértékelés részét is képezheti.
+(6a)
 
 (6b) A megelőzési stratégia munkaegészségügyi tartalmának kialakítása a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel is ellátható.
 
@@ -947,6 +951,10 @@ kell rögzítenie.
 
 (6) Az (1) bekezdés alapján kiszabott pénzbírságot a munkavédelmi hatóság kincstári előirányzat-felhasználási keretszámlájára kell befizetni.
 
+(7) A munkavédelmi hatóság a munkavédelmi bírság megfizetésére nyitva álló határidőben előterjesztett kérelemre engedélyezheti a munkavédelmi bírság részletekben történő megfizetését.
+
+(8) Részletfizetés engedélyezése esetén bármely részlet megfizetésének elmulasztásakor az egész munkavédelmi bírság, vagy az abból még fennmaradó összeg egésze azonnal esedékessé válik.
+
 82/A. § Az Mt. 295. § (1) bekezdés e) pontjában meghatározottak betartása, továbbá a munkavédelemre vonatkozó szabályok betartásának ellenőrzése céljából tartott vizsgálatok tapasztalatairól, valamint a munkabalesetek alakulásáról a munkavédelmi hatóság félévente beszámolót készít a foglalkoztatáspolitikáért felelős miniszter számára. A beszámolót a miniszter a tárgyidőszakot követő 60 napon belül elektronikusan közzéteszi. A beszámolóban foglalt megállapításokra a 14. § (1) bekezdés e) pontjában meghatározott jelentésnek ki kell terjednie.
 
 #### 82/B. §
@@ -1170,35 +1178,79 @@ kapcsolatban.
 - 1/J. egyéni védőeszköz EU-típusvizsgálati tanúsítvány: a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EU-típusvizsgálat alapján megfelel az (EU) 2016/425 európai parlamenti és tanácsi rendelet előírásainak.
 - 2. Létesítés: az a folyamat, melynek eredményeként új üzem, munkahely jön létre, vagy meglévő felújítása, bővítése, átalakítása, illetve gép telepítése történik, függetlenül attól, hogy létrejötte után termelő vagy nem termelő célra használják.
 - 2/A. Megelőzés: a munkáltató által megtett vagy tervezett intézkedések a munkáltatói tevékenység bármely fázisában, amelyeknek célja a munkával összefüggő kockázatok megelőzése vagy csökkentése.
-- 3. Munkabaleset: az a baleset, amely a munkavállalót a szervezett munkavégzés során vagy azzal összefüggésben éri, annak helyétől és időpontjától és a munkavállaló (sérült) közrehatásának mértékétől függetlenül. A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállalót a foglalkozás körében végzett munkához kapcsolódó közlekedés, anyagvételezés, anyagmozgatás, tisztálkodás, szervezett üzemi étkeztetés, foglalkozás-egészségügyi szolgáltatás és a munkáltató által nyújtott egyéb szolgáltatás stb. igénybevétele során éri. Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (munkabalesetnek) az a baleset, amely a sérültet a lakásáról (szállásáról) a munkahelyére, illetve a munkahelyéről a lakására (szállására) menet közben éri, kivéve, ha a baleset a munkáltató saját tulajdonában álló, bérleti vagy más szerződés alapján, továbbá egyéb megállapodás alapján biztosított járművel történt. Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be. Súlyos az a munkabaleset (bányászati munkabaleset), amely
-  - a) a sérült halálát (halálos munkabaleset az a baleset is, amelynek bekövetkezésétől számított egy éven belül a sérült orvosi szakvélemény szerint a balesettel összefüggésben életét vesztette), magzata vagy újszülöttje halálát, önálló életvezetését gátló maradandó károsodását;
-  - b) valamely érzékszerv, érzékelőképesség, illetve a reprodukciós képesség elvesztését vagy jelentős mértékű károsodását okozta;
-  - c) orvosi vélemény szerint életveszélyes sérülést, egészségkárosodást;
-  - d) hüvelykujj vagy kéz, láb két vagy több ujja nagyobb részének elvesztését, továbbá ennél súlyosabb csonkulást okozott, illetve;
-  - e) beszélőképesség elvesztését vagy feltűnő eltorzulást, bénulást, illetőleg elmezavart okozott.
-- 4. Munkaeszköz: minden gép, készülék, szerszám, berendezés vagy eszköz, amelyet a munkavégzés során alkalmaznak vagy azzal összefüggésben használnak (kivéve: az egyéni védőeszköz).
-- 5. Munkahely: minden olyan szabad vagy zárt tér (ideértve a föld alatti létesítményt, a járművet is), ahol munkavégzés céljából vagy azzal összefüggésben munkavállalók tartózkodnak. Munkahelynek kell tekinteni a mást nem foglalkoztató, a munkáját kizárólag személyesen végző egyéni vállalkozó (akkor is, ha egyéni céget alapított) munkavégzési helyét e törvénynek a 9. § (2) bekezdésében meghatározott rendelkezései tekintetében.
-- 5/A. Munkahigiénés vizsgálatok: a munkakörnyezetben lévő kóroki (fizikai, kémiai, biológiai, ergonómiai, pszichoszociális) tényezők feltárására, szintjének, továbbá a végzett munkából és a munkakörnyezet hatásaiból adódó megterhelés mennyiségi meghatározására alkalmas eljárások, valamint olyan vizsgálatok, amelyek eredményeként javaslat tehető a munkából és a munkakörnyezetből származó egészségkárosító kockázatok kezelésére (csökkentésére).
-- 5/B. Munkaképtelen: az a munkavállaló, aki a balesettel vagy egészségkárosodással összefüggő és gyógykezelést igénylő állapota miatt munkát nem tud végezni, függetlenül attól, hogy erre az időtartamra táppénzben részesül vagy sem.
-- 6. Munkavállaló: a szervezett munkavégzés keretében munkát végző személy.
-- 6/A. Munkavédelmi képviselő: olyan, a munkavállalók által választott személy, aki a munkáltatóval való együttműködés során képviseli az egészséget nem veszélyeztető és biztonságos munkavégzéssel összefüggő munkavállalói jogokat és érdekeket.
-- 7. Munkavédelmi üzembe helyezés: az a munkavédelmi eljárás, amelynek során az üzemeltető meggyőződik arról, hogy az adott létesítmény, munkahely, technológia, munkaeszköz a munkavédelmi követelményeket kielégíti, és üzemeltetését elrendeli.
-- 8. Munkáltató: a munkavállalót szervezett munkavégzés keretében foglalkoztató. Munkáltatónak kell tekinteni a munkaerő-kölcsönzés keretében átengedett munkavállalót kölcsönvevőként foglalkoztatót, a kirendelt munkavállalót foglalkoztatót, a szakképzés keretében gyakorlati oktatást folytatót, valamint a mást nem foglalkoztató, a munkáját kizárólag személyesen végző egyéni vállalkozót (akkor is, ha egyéni céget alapított) a munkavégzés hatókörében tartózkodók védelmére vonatkozó rendelkezések [9. § (2) bekezdés] tekintetében. A társadalmi munka esetén munkáltató a társadalmi munka szervezője. Magyar adószámmal nem rendelkező külföldi munkáltató esetén munkáltató az a személy vagy szervezet, aki, illetve amely a tényleges irányítást gyakorolja, vagy a munkahelyért a fő felelősséget viseli, ennek hiányában az, akinek a területén a munkavégzés folyik.
-- 8/A. Sérülékeny csoport: az a munkavállalói kategória, amelybe tartozó munkavállalókat testi, lelki adottságaik, állapotuk következtében a munkavégzéssel összefüggő kockázatok fokozottan fenyegetnek, illetve akik maguk is fokozott kockázatot jelenthetnek munkavégzésük során (pl. fiatalkorúak, terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, idősödők, megváltozott munkaképességűek).
-- 9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában történő munkavégzést –, a közfoglalkoztatási, a kormányzati szolgálati, a politikai szolgálati, a biztosi, a közszolgálati, a közalkalmazotti, a köznevelési foglalkoztatotti, az egészségügyi szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, hivatásos és szerződéses szolgálati viszonyban, a honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, szociális szövetkezetben tagsági jogviszonyon alapuló közvetlen közreműködés keretében, iskolaszövetkezetben, kisgyermekkel otthon lévők szövetkezetében és közérdekű nyugdíjas szövetkezetben külső szolgáltatásra vonatkozó tagsági megállapodás alapján történő személyes közreműködés keretében, a szakirányú oktatás keretében a szakképző intézményben, illetve a duális képzőhelyen, a hallgatói jogviszonyban a gyakorlati képzés során, az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka, a szabálysértési eljárás során alkalmazott közérdekű munka, valamint a büntetőügyben kiszabott közérdekű munka, a rendvédelmi szerveknél, az Országgyűlési Őrségnél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.
-- 9/A. Telephely: A tevékenység (munkavégzés) gyakorlásának – a munkáltató székhelyétől különböző – helye, ideértve a munkáltató fióktelepét is.
-- 9/B. Természetes személy munkáltató háztartásában történő munkavégzés: kizárólag a maga és háztartásában vele együtt élő személyek, továbbá közeli hozzátartozói mindennapi életéhez szükséges feltételek biztosítására irányuló munkaviszony.
-- 10. Újraindítás: az olyan — munkavédelmi szempontból korábban üzembe helyezett — munkaeszköz, technológia újbóli üzembe helyezése, amelyet műszaki okból egybefüggően 30 napot meghaladóan nem használtak, vagy amelyen teljes szétszereléssel együttjáró javítási munkafolyamatot végeztek.
-- 11. Veszélyes: az a létesítmény, munkaeszköz, anyag/keverék, munkafolyamat, technológia (beleértve a fizikai, biológiai, kémiai kóroki tényezők expozíciójával járó tevékenységeket is), amelynél a munkavállalók egészsége, testi épsége, biztonsága megfelelő védelem hiányában károsító hatásnak lehet kitéve.
-- 12. Veszélyes anyag:
-  - a) az 1272/2008/EK európai parlamenti és tanácsi rendelet alapján fizikai, egészségi veszélyek vagy mindkettő tulajdonság alapján veszélyesként osztályozott anyag, vagy
-  - b) az a vegyi anyag, amely bár nem felel meg az a) pontban meghatározott osztályozás feltételeinek, mégis kockázatot jelent a munkavállalók biztonságára vagy egészségére fiziko-kémiai, kémiai vagy toxikológiai tulajdonságai és felhasználási módja vagy munkahelyen való jelenlét miatt, ideértve minden olyan vegyi anyagot, amelyre a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendelet határértéket határoz meg.
-- 12/A. Veszélyes keverék: egy vagy több veszélyes anyagot tartalmazó keverék vagy oldat, amely az osztályozás során a fizikai, egészségi veszélyek vagy mindkét tulajdonság tekintetében veszélyes besorolást kap.
-- 13. Veszélyforrás: a munkavégzés során vagy azzal összefüggésben jelentkező minden olyan tényező, amely a munkát végző vagy a munkavégzés hatókörében tartózkodó személyre veszélyt vagy ártalmat jelenthet. Veszélyforrás lehet különösen: — a fizikai veszélyforrás, ezen belül a = munkaeszközök, járművek, szállító-, anyagmozgató eszközök, ezek részei, illetve mozgásuk, termékek és anyagok mozgása, = szerkezetek egyensúlyának megbomlása, = csúszós felületek, = éles, sorjás, egyenetlen felületek, szélek és sarkok, = tárgyak hőmérséklete, = a munkahelynek a föld (padló) szintjéhez viszonyított elhelyezése, = szintkülönbség, = súlytalanság, = a levegő nyomása, hőmérséklete, nedvességtartalma, ionizációja és áramlása, = zaj, rezgés, infra- és ultrahang, = világítás, = elektromágneses sugárzás vagy tér, = részecskesugárzás, = elektromos áramköri vagy sztatikus feszültség, = aeroszolok és porok a levegőben; — a veszélyes anyag (lásd 12. pont); — a biológiai veszélyforrás, ezen belül a = mikroorganizmus és anyagcsereterméke, = makroorganizmus (növény, állat); — a fiziológiai, idegrendszeri és pszichés igénybevétel.
-- 14. Munkáltatói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti országos munkáltatói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
-- 15. Munkavállalói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti munkavállalói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
-- 16. Technológia: a folyamat, illetve a folyamatok egysége, amellyel az adott cél elérhető.
-- 17. Közvetlen veszélyeztetés: a veszélyeztetés térben és időben konkretizálódik, meghatározott személyt vagy személyeket érint, realizálódása előreláthatóan bekövetkezhet.
+- 3. Munkabaleset: az a baleset, amely a munkavállalót a szervezett munkavégzés során vagy azzal összefüggésben éri, annak helyétől, időpontjától és a sérült munkavállaló közrehatásának mértékétől függetlenül. A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállalót a foglalkozás körében végzett munkához kapcsolódó közlekedés, anyagvételezés, anyagmozgatás, tisztálkodás, szervezett üzemi étkeztetés, foglalkozás-egészségügyi szolgáltatás és a munkáltató által nyújtott egyéb szolgáltatás igénybevétele során éri. Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek az a baleset
+  - a) amely a munkavállalót a lakásáról vagy szállásáról a munkahelyére, illetve a munkahelyéről a lakására vagy szállására menet közben éri, kivéve, ha a baleset a munkáltató saját tulajdonában álló, bérleti vagy más szerződés alapján, továbbá egyéb megállapodás alapján biztosított járművel történt;
+  - b) amely a szakképzésről szóló 2019. évi LXXX. törvény szerint tanulóbalesetnek minősül.
+- 3/A. Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be.
+- 3/B. Súlyos munkabaleset vagy bányászati munkabaleset: az a munkabaleset vagy bányászati munkabaleset, amely
+
+a) a sérült halálát – beleértve azt a munkabalesetet is, amelynek bekövetkezésétől számított egy éven belül a sérült orvosi szakvélemény szerint a balesettel összefüggésben vesztette életét –, magzata vagy újszülöttje halálát, önálló életvezetését gátló maradandó károsodását;
+
+b) valamely érzékszerv, érzékelőképesség, illetve a reprodukciós képesség elvesztését vagy jelentős mértékű károsodását okozta;
+
+c) orvosi vélemény szerint életveszélyes sérülést, egészségkárosodást;
+
+d) hüvelykujj vagy kéz, láb két vagy több ujja nagyobb részének elvesztését, továbbá ennél súlyosabb csonkulást okozott, vagy
+
+e) beszélőképesség elvesztését vagy feltűnő eltorzulást, bénulást, illetőleg elmezavart okozott.
+
+4. Munkaeszköz: minden gép, készülék, szerszám, berendezés vagy eszköz, amelyet a munkavégzés során alkalmaznak vagy azzal összefüggésben használnak (kivéve: az egyéni védőeszköz).
+
+5. Munkahely: minden olyan szabad vagy zárt tér (ideértve a föld alatti létesítményt, a járművet is), ahol munkavégzés céljából vagy azzal összefüggésben munkavállalók tartózkodnak. Munkahelynek kell tekinteni a mást nem foglalkoztató, a munkáját kizárólag személyesen végző egyéni vállalkozó (akkor is, ha egyéni céget alapított) munkavégzési helyét e törvénynek a 9. § (2) bekezdésében meghatározott rendelkezései tekintetében.
+
+5/A. Munkahigiénés vizsgálatok: a munkakörnyezetben lévő kóroki (fizikai, kémiai, biológiai, ergonómiai, pszichoszociális) tényezők feltárására, szintjének, továbbá a végzett munkából és a munkakörnyezet hatásaiból adódó megterhelés mennyiségi meghatározására alkalmas eljárások, valamint olyan vizsgálatok, amelyek eredményeként javaslat tehető a munkából és a munkakörnyezetből származó egészségkárosító kockázatok kezelésére (csökkentésére).
+
+5/B. Munkaképtelen: az a munkavállaló, aki a balesettel vagy egészségkárosodással összefüggő és gyógykezelést igénylő állapota miatt munkát nem tud végezni, függetlenül attól, hogy erre az időtartamra táppénzben részesül vagy sem.
+
+6. Munkavállaló: a szervezett munkavégzés keretében munkát végző személy.
+
+6/A. Munkavédelmi képviselő: olyan, a munkavállalók által választott személy, aki a munkáltatóval való együttműködés során képviseli az egészséget nem veszélyeztető és biztonságos munkavégzéssel összefüggő munkavállalói jogokat és érdekeket.
+
+7. Munkavédelmi üzembe helyezés: az a munkavédelmi eljárás, amelynek során az üzemeltető meggyőződik arról, hogy az adott létesítmény, munkahely, technológia, munkaeszköz a munkavédelmi követelményeket kielégíti, és üzemeltetését elrendeli.
+
+8. Munkáltató: a munkavállalót szervezett munkavégzés keretében foglalkoztató. Munkáltatónak kell tekinteni:
+
+a) a munkaerő-kölcsönzés keretében átengedett munkavállalót kölcsönvevőként foglalkoztatót,
+
+b) a kirendelt munkavállalót foglalkoztatót,
+
+c) a duális képzőhelyet,
+
+d) a munkavégzés hatókörében tartózkodók védelmére vonatkozó rendelkezések tekintetében a mást nem foglalkoztató, a munkáját kizárólag személyesen végző önfoglalkoztatót, gazdasági társaságok tagjait, illetve vezető tisztségviselőit személyes közreműködéssel történő munkavégzés esetén,
+
+e) társadalmi munka esetén a társadalmi munka szervezőjét, valamint
+
+f) magyar adószámmal nem rendelkező külföldi munkáltató esetén azt a személyt vagy szervezetet, aki, illetve amely a tényleges irányítást gyakorolja, vagy a munkahelyért a fő felelősséget viseli, ennek hiányában azt, akinek a területén a munkavégzés folyik.
+
+8/A. Sérülékeny csoport: az a munkavállalói kategória, amelybe tartozó munkavállalókat testi, lelki adottságaik, állapotuk következtében a munkavégzéssel összefüggő kockázatok fokozottan fenyegetnek, illetve akik maguk is fokozott kockázatot jelenthetnek munkavégzésük során (pl. fiatalkorúak, terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, idősödők, megváltozott munkaképességűek).
+
+9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában történő munkavégzést –, a közfoglalkoztatási, a kormányzati szolgálati, a politikai szolgálati, a biztosi, a közszolgálati, a közalkalmazotti, a köznevelési foglalkoztatotti, az egészségügyi szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, hivatásos és szerződéses szolgálati viszonyban, a honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, szociális szövetkezetben tagsági jogviszonyon alapuló közvetlen közreműködés keretében, iskolaszövetkezetben, kisgyermekkel otthon lévők szövetkezetében és közérdekű nyugdíjas szövetkezetben külső szolgáltatásra vonatkozó tagsági megállapodás alapján történő személyes közreműködés keretében, a szakirányú oktatás keretében a szakképző intézményben, illetve a duális képzőhelyen, a hallgatói jogviszonyban a gyakorlati képzés során, az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka, a szabálysértési eljárás során alkalmazott közérdekű munka, valamint a büntetőügyben kiszabott közérdekű munka, a rendvédelmi szerveknél, az Országgyűlési Őrségnél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.
+
+9/A. Telephely: A tevékenység (munkavégzés) gyakorlásának – a munkáltató székhelyétől különböző – helye, ideértve a munkáltató fióktelepét is.
+
+9/B. Természetes személy munkáltató háztartásában történő munkavégzés: kizárólag a maga és háztartásában vele együtt élő személyek, továbbá közeli hozzátartozói mindennapi életéhez szükséges feltételek biztosítására irányuló munkaviszony.
+
+10. Újraindítás: az olyan — munkavédelmi szempontból korábban üzembe helyezett — munkaeszköz, technológia újbóli üzembe helyezése, amelyet műszaki okból egybefüggően 30 napot meghaladóan nem használtak, vagy amelyen teljes szétszereléssel együttjáró javítási munkafolyamatot végeztek.
+
+11. Veszélyes: az a létesítmény, munkaeszköz, anyag/keverék, munkafolyamat, technológia (beleértve a fizikai, biológiai, kémiai kóroki tényezők expozíciójával járó tevékenységeket is), amelynél a munkavállalók egészsége, testi épsége, biztonsága megfelelő védelem hiányában károsító hatásnak lehet kitéve.
+
+12. Veszélyes anyag:
+
+a) az 1272/2008/EK európai parlamenti és tanácsi rendelet alapján fizikai, egészségi veszélyek vagy mindkettő tulajdonság alapján veszélyesként osztályozott anyag, vagy
+
+b) az a vegyi anyag, amely bár nem felel meg az a) pontban meghatározott osztályozás feltételeinek, mégis kockázatot jelent a munkavállalók biztonságára vagy egészségére fiziko-kémiai, kémiai vagy toxikológiai tulajdonságai és felhasználási módja vagy munkahelyen való jelenlét miatt, ideértve minden olyan vegyi anyagot, amelyre a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendelet határértéket határoz meg.
+
+12/A. Veszélyes keverék: egy vagy több veszélyes anyagot tartalmazó keverék vagy oldat, amely az osztályozás során a fizikai, egészségi veszélyek vagy mindkét tulajdonság tekintetében veszélyes besorolást kap.
+
+13. Veszélyforrás: a munkavégzés során vagy azzal összefüggésben jelentkező minden olyan tényező, amely a munkát végző vagy a munkavégzés hatókörében tartózkodó személyre veszélyt vagy ártalmat jelenthet.Veszélyforrás lehet különösen:— a fizikai veszélyforrás, ezen belül a= munkaeszközök, járművek, szállító-, anyagmozgató eszközök, ezek részei, illetve mozgásuk, termékek és anyagok mozgása,= szerkezetek egyensúlyának megbomlása,= csúszós felületek,= éles, sorjás, egyenetlen felületek, szélek és sarkok,= tárgyak hőmérséklete,= a munkahelynek a föld (padló) szintjéhez viszonyított elhelyezése,= szintkülönbség,= súlytalanság,= a levegő nyomása, hőmérséklete, nedvességtartalma, ionizációja és áramlása,= zaj, rezgés, infra- és ultrahang,= világítás,= elektromágneses sugárzás vagy tér,= részecskesugárzás,= elektromos áramköri vagy sztatikus feszültség,= aeroszolok és porok a levegőben;— a veszélyes anyag (lásd 12. pont);— a biológiai veszélyforrás, ezen belül a= mikroorganizmus és anyagcsereterméke,= makroorganizmus (növény, állat);— a fiziológiai, idegrendszeri és pszichés igénybevétel.
+
+14. Munkáltatói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti országos munkáltatói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
+
+15. Munkavállalói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti munkavállalói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
+
+16. Technológia: a folyamat, illetve a folyamatok egysége, amellyel az adott cél elérhető.
+
+17. Közvetlen veszélyeztetés: a veszélyeztetés térben és időben konkretizálódik, meghatározott személyt vagy személyeket érint, realizálódása előreláthatóan bekövetkezhet.
 
 ### ZÁRÓ RENDELKEZÉSEK
 

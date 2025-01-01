@@ -234,7 +234,7 @@ a kincstári vagyon részét képezi.
 
 (10a) A (10) bekezdés alkalmazásában az 1. mellékletben meghatározott gazdasági társaságokat kell az erdőt vagyonkezelő 100%-os állami tulajdonú gazdasági társaságnak tekinteni.
 
-(11) Az (5) bekezdés rendelkezéseit nem kell alkalmazni az állam tulajdonában és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság vagyonkezelésében lévő ingatlanoknak az egyes otthonteremtési feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére ingyenesen történő tulajdonba adására.
+(11)
 
 9. § Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelője – a Nemzeti Földalap kezelésére kijelölt szerv előzetes hozzájárulását követően – a földterületet vagy annak meghatározott részét erdőgazdálkodási céloktól eltérő, de az erdő termelésből való kivonásával nem járó közjóléti, kulturális, illetve szabadidős hasznosítása érdekében harmadik személy részére, hatósági engedély alapján végzett tevékenység gyakorlására, a hatósági engedélyekben előírt feltételekkel és időtartamra, de legfeljebb 5 évre átengedheti. Az erdőgazdálkodási céloktól eltérő hasznosítás nem terjedhet ki az erdei haszonvételek gyakorlására, és nem érintheti a vagyonkezelőnek a földhasználati jogosultságát.
 
@@ -946,6 +946,7 @@ közli.
 - f) az ingatlanügyi hatóság részére a földügyi igazgatási feladatok ellátása céljából az erdők és szabad rendelkezésű erdők,
 - g) az erdészeti tudományos kutatással foglalkozó költségvetési szerv részére az erdők és szabad rendelkezésű erdők, valamint
 - h) a mezőgazdasági igazgatási szerv részére a jogügylet hatósági jóváhagyása iránti eljárásban, az e feladatkörébe tartozó ügy elbírálása érdekében, valamint a Földforgalmi törvényben meghatározott szerzési feltételek, korlátozások és tilalmak betartásának ellenőrzése céljából az erdők és szabad rendelkezésű erdők
+- i) a környezet- és természetvédelmi hatóság részére az erdészeti hatósági eljárásban természetvédelmi szakkérdés vizsgálata, valamint az erdőgazdálkodási tevékenységek természetvédelmi szempontú korlátozása érdekében szükséges erdők
 
 Adattárban nyilvántartott adataihoz.
 
@@ -1312,6 +1313,8 @@ során a talaj tápanyag- és vízgazdálkodásának javítása céljából – 
 
 (7) Ha jogszabály másként nem rendelkezik, az állam 100%-os tulajdonában álló erdőben az erdőgazdálkodó köteles tűrni az egyéni szükségletet meg nem haladó mennyiségű gomba, vadgyümölcs, gyógynövény gyűjtését, valamint forrásvíz elhordását.
 
+(8) Úszóműben vagy úszómű rögzítését szolgáló eszközben fennakadt uszadékfa tekintetében annak eltávolításával összefüggésben az úszómű üzemeltetőjét a rendelkezés joga illeti meg.
+
 #### 69/A. §
 
 ### Fakitermelés
@@ -1626,7 +1629,7 @@ kerülhet sor.
 85. § Erdő engedély nélküli vagy engedélytől eltérő igénybevétele esetén az erdészeti hatóság fennmaradási eljárást folytat le, amelynek során
 
 - a) ha az igénybevevő által benyújtott dokumentumok alapján az igénybevétel engedélyezésének feltételei fennállnak, erdővédelmi bírság egyidejű kiszabása mellett engedélyezheti a kialakult állapot fennmaradását, vagy
-- b) szankció kiszabása mellett, határidő kitűzésével határozatban kötelezi az igénybevevőt – ha az igénybevevő nem ismert vagy az igénybevevővel szemben a végrehajtási eljárás sem vezet eredményre, akkor az erdőgazdálkodót, annak hiányában a tulajdonost – a helyreállításra.
+- b) határidő kitűzésével határozatban kötelezi az igénybevevőt – ha az igénybevevő nem ismert vagy az igénybevevővel szemben a végrehajtási eljárás sem vezet eredményre, akkor az erdőgazdálkodót, annak hiányában a tulajdonost – a helyreállításra, és szankciót szab ki.
 
 ### Az erdő megosztása
 
@@ -2137,14 +2140,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 #### 100/B. §
 
-### Az erdészeti gépek kezelésére vonatkozó követelmények
-
-101. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott erdészeti gépet az adott erdészeti gép vonatkozásában erdészeti gépkezelői jogosítványt (a továbbiakban: gépkezelői jogosítvány) szerzett személy kezelhet.
-
-(2) A gépkezelői jogosítvány megszerzésének feltétele az e törvény végrehajtására kiadott jogszabályban meghatározott
-
-- a) szakmai végzettség megléte vagy
-- b) felkészítő tanfolyamot követően a miniszter által kijelölt intézmény által szervezett gépkezelői vizsga letétele.
+#### 101. §
 
 ### Bejelentési kötelezettség
 
@@ -2553,7 +2549,7 @@ esetén.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
-- 1. az erdészeti gépkezelői jogosítvánnyal üzemeltethető erdészeti gépek körét, valamint az erdészeti gépkezelői jogosítvány megszerzésének és kiadásának részletes szabályait;
+- 1.
 - 2. az erdészeti hatósági eljárásokhoz kapcsolódó bejelentés, kérelem, valamint adatszolgáltatás tartalmának részletes szabályait;
 - 3. az erdészeti létesítményekre vonatkozó szabályokat;
 - 4. az erdő rendeltetése, elsődleges rendeltetése, üzemmódja meghatározásának részletes szabályait;

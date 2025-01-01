@@ -234,6 +234,8 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (3) Az (1) és (2) bekezdés szerinti szabályozás nem vonatkozik az olyan részben önkormányzati tulajdonban lévő gazdasági társaságok adósságot keletkezető ügyleteire, amelyek cégformája nyilvánosan működő részvénytársaság.
 
+10/G. § Az önkormányzat közvetlen vagy közvetett többségi tulajdoni részesedésével működő, vagy az önkormányzat közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaság önkormányzattal szemben fennálló követelése átruházására irányuló szerződést érvényesen nem köthet.
+
 ### III. Fejezet — AZ ÁLLAMADÓSSÁG KEZELŐ KÖZPONT
 
 #### 4. Az Államadósság Kezelő Központ jogállása

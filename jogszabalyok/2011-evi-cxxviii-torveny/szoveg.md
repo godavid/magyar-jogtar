@@ -21,9 +21,9 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 3. § E törvény alkalmazásában:
 
 - 1. Belső védelmi terv: a veszélyes anyagokkal kapcsolatos súlyos balesetek kialakulásának megelőzését, a balesetek elhárítását, következményeinek mérséklését szolgáló intézkedések megtételét, az értesítési, riasztási, felkészítési feladatok veszélyes anyagokkal foglalkozó üzemen, veszélyes anyagokkal foglalkozó létesítményen belüli végrehajtásának rendjét, feltételeit szabályozó üzemeltetői okmány.
-- 2. Biztonsági elemzés: az üzemeltető által készített dokumentum, amely tartalmazza a veszélyes anyagokkal foglalkozó üzem üzemeltetőjének a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére vonatkozó általános célkitűzéseit, továbbá annak az irányítási, vezetési és műszaki eszközrendszernek a bemutatását, amely biztosítja mind az ember, mind a környezet magas szintű védelmét, valamint annak bizonyítását, hogy az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, és a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte. A dokumentumnak elegendő információt kell szolgáltatnia a hatósági döntés kialakításához. A biztonsági elemzésben rögzített feladatoknak és intézkedéseknek arányosnak kell lenniük a biztonsági elemzésben leírt veszélyeztetéssel.
-- 3. Biztonsági jelentés: az üzemeltető által készített dokumentum, amely annak bizonyítására szolgál, hogy rendelkezik a veszélyes anyagokkal kapcsolatos súlyos baleseteket megelőző politikával és az annak végrehajtását szolgáló biztonsági irányítási rendszerrel, működőképes belső védelmi tervvel, a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, és a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte, a megelőzésükre a szükséges intézkedéseket megtette, kellő mértékű a létesítményeinek biztonsága, megbízhatósága. A jelentésnek elegendő információt kell szolgáltatnia a külső védelmi tervek elkészítéséhez és a hatósági döntés kialakításához.
-- 4. Dominóhatás: a veszélyes anyagokkal foglalkozó létesítményben bekövetkező olyan baleset, amely a közelben lévő más, veszélyes anyagokkal foglalkozó üzemre átterjedve a veszélyes anyagokkal kapcsolatos súlyos balesetek valószínűségét és lehetőségét megnöveli vagy a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos baleset következményeit súlyosbítja.
+- 2. Biztonsági elemzés: az üzemeltető által készített dokumentum, amely tartalmazza a veszélyes anyagokkal foglalkozó üzem üzemeltetőjének a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére vonatkozó általános célkitűzéseit, továbbá annak az irányítási, vezetési és műszaki eszközrendszernek a bemutatását, amely biztosítja mind az ember, mind a környezet magas szintű védelmét, valamint annak bizonyítását, hogy az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, és a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte. A dokumentumnak elegendő információt kell szolgáltatnia a hatósági döntés kialakításához. A biztonsági elemzésben rögzített feladatoknak és intézkedéseknek arányosnak kell lenniük a biztonsági elemzésben leírt veszélyeztetéssel. A biztonsági elemzés az egészség és a környezet magas fokú védelmét szolgálja.
+- 3. Biztonsági jelentés: az üzemeltető által készített dokumentum, amely annak bizonyítására szolgál, hogy rendelkezik a veszélyes anyagokkal kapcsolatos súlyos baleseteket megelőző politikával és az annak végrehajtását szolgáló biztonsági irányítási rendszerrel, működőképes belső védelmi tervvel, a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, és a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte, a megelőzésükre a szükséges intézkedéseket megtette, kellő mértékű a létesítményeinek biztonsága, megbízhatósága. A jelentésnek elegendő információt kell szolgáltatnia a külső védelmi tervek elkészítéséhez és a hatósági döntés kialakításához. A biztonsági jelentés az egészség és a környezet magas fokú védelmét szolgálja.
+- 4.
 - 4a. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
 - 5. Katasztrófa: a veszélyhelyzet kihirdetésére alkalmas, illetve e helyzet kihirdetését el nem érő mértékű olyan állapot vagy helyzet, amely emberek életét, egészségét, anyagi értékeiket, a lakosság alapvető ellátását, a természeti környezetet, a természeti értékeket olyan módon vagy mértékben veszélyezteti, károsítja, hogy a kár megelőzése, elhárítása vagy a következmények felszámolása meghaladja az erre rendelt szervezetek előírt együttműködési rendben történő védekezési lehetőségeit, és különleges intézkedések bevezetését, valamint az önkormányzatok és az állami szervek folyamatos és szigorúan összehangolt együttműködését, illetve nemzetközi segítség igénybevételét igényli.
 - 6. Katasztrófasegély: a katasztrófák következményeinek felszámolása érdekében a katasztrófa károsító hatása által érintett területen az alapvető életfeltételeknek a központi költségvetésben létrehozott tartalékból történő biztosítása.
@@ -55,8 +55,8 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - 28. Veszélyes anyagokkal foglalkozó üzem: egy adott üzemeltető irányítása alatt álló azon terület egésze, ahol egy vagy több veszélyes anyagokkal foglalkozó létesítményben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a törvény végrehajtására kiadott jogszabályban meghatározott küszöbértéket elérő mennyiségben, és ennek alapján alsó vagy felső küszöbértékűnek minősül.
 - 29. Veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélyes anyag kibocsátásával, tűzzel vagy robbanással járó, veszélyes anyagokkal kapcsolatos esemény, amely a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működése során befolyásolhatatlan folyamatként megy végbe, és amely az üzemen belül vagy azon kívül közvetlenül vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetve a környezetet.
 - 30. Veszélyes anyagokkal kapcsolatos esemény: veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben a rendeltetésszerű működés során vagy a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely nem minősül veszélyes anyagokkal kapcsolatos súlyos balesetnek, de azonnali beavatkozást igényel és az alábbi következmények egyikével jár:
-  - a) veszélyes anyaggal kapcsolatos tűz,
-  - b) veszélyes anyaggal kapcsolatos robbanás,
+  - a) veszélyes anyaggal kapcsolatos tűz, amennyiben személyi sérüléssel nem jár, de a tűzkár a 300 000 Ft-os értékhatárt meghaladja,
+  - b) veszélyes anyaggal kapcsolatos robbanás, amennyiben kizárólag az üzem, létesítmény telephelyét, székhelyét érinti, személyi sérüléssel nem jár, de az anyagi kár a 300 000 Ft-os értékhatárt meghaladja,
   - c) mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása,
   - d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú folyadék halmazállapotú veszélyes anyag kikerülése legalább 1000 kg mennyiségben,
   - e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben.
@@ -90,31 +90,31 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 5. § A Kormány a katasztrófavédelem megszervezése és irányítása körében:
 
-- a) meghatározza a Kormány tagjainak és a védekezésben érintett állami szerveknek a katasztrófavédelemmel kapcsolatos feladatait,
-- b) megköti a katasztrófákkal kapcsolatos kölcsönös tájékoztatásra és segítségnyújtásra, valamint a megelőzés területén történő együttműködésre irányuló nemzetközi egyezményeket,
+- a) meghatározza a védekezésben érintett állami szerveknek a katasztrófavédelemmel kapcsolatos feladatait,
+- b)
 - c) összehangolja a katasztrófavédelemmel összefüggő oktatási, képzési, tudományos kutatási és műszaki fejlesztési tevékenységet,
 - d) létrehozza az országos katasztrófavédelmi információs rendszert,
 - e)
-- f) az éves költségvetésben tervezi a hazai és a nemzetközi segítségnyújtásra fordítható előirányzat mértékét,
-- g) gondoskodik a központi költségvetési tervezés keretében a katasztrófavédelem működésének és fejlesztésének pénzügyi feltételeiről,
+- f)
+- g)
 - h) meghatározza a nemzeti kockázatelemzési, -értékelési és feltérképezési követelményeket,
 - i) a katasztrófák elleni védekezésért felelős miniszternek a honvédelemért felelős miniszter, valamint a védelmi és biztonsági igazgatás központi szervének vezetője véleményének kikérését követően kialakított javaslatára meghatározza a polgári védelmi szervezetek összlétszámát,
 - j) a katasztrófák elleni védekezésért felelős miniszter útján, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározottak szerint, továbbá a védelmi és biztonsági igazgatás központi szervével együttműködve irányítja a területi védelmi bizottságok katasztrófavédelmi feladatainak végrehajtását.
 - k) összehangolja a katasztrófákkal szembeni ellenálló képesség fejlesztésével kapcsolatos feladatokat,
 - l) koordinálja a katasztrófák miatti veszteségekre vonatkozó adatok gyűjtését.
 
-6. § (1) A Kormány megszervezi a katasztrófák elleni védekezés irányítását és a végrehajtás összehangolását, a tervezés kormányszintű feladatainak végrehajtását, a katasztrófák következményeinek felszámolására való felkészülés, a megelőzés, a végrehajtás és a helyreállítás feladatainak tárcák közötti koordinációját.
+6. § (1)
 
-(2) A katasztrófavédelem irányítása a szakirányítást végző kormányzati szervek közreműködésével valósul meg.
+(2)
 
 (3) A Kormány a katasztrófavédelem irányítása során dönt
 
 - a) a védekezéshez szükséges külföldi (nemzetközi) segítség igénybevételéről,
 - b) a külföldi állam részére történő segítségnyújtásról.
 
-#### 5. Katasztrófavédelmi koordináció
+#### 5.
 
-7. § A Kormány a katasztrófavédelemmel összefüggő döntéseinek előkészítése, valamint a katasztrófák elleni felkészüléssel, megelőzéssel, védekezéssel és helyreállítással kapcsolatos feladatok összehangolt megoldása érdekében katasztrófavédelmi koordinációs szervet (a továbbiakban: katasztrófavédelmi koordinációs szerv) működtet.
+#### 7. §
 
 #### 6. A katasztrófák elleni védekezésért felelős miniszter feladatai
 
@@ -130,7 +130,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - f) gondoskodik a polgári veszélyhelyzeti tervezés katasztrófavédelmi feladatainak hazai koordinálásáról és végrehajtásáról, amelynek érdekében biztosítja a képviseletet a NATO Reziliencia Bizottságban (a továbbiakban: NATO RC), ellátja a NATO RC katasztrófavédelmi szerveivel való kapcsolattartást,
 - g) gondoskodik az EU polgári védelmi tevékenységének hazai koordinálásáról és végrehajtásáról, ennek keretében biztosítja a kapcsolattartást és a képviseletet az EU intézményeiben,
 - h) a külpolitikáért felelős miniszterrel együttműködve részt vesz a nemzetközi segítségnyújtásban,
-- i) felelős a kritikus infrastruktúrák védelméért a katasztrófák elleni védekezés területén,
+- i) felelős a kritikus szervezetek és a kritikus infrastruktúrák ellenálló képességéért, az ágazatokért felelős miniszterekkel együttműködve,
 - j) jóváhagyja a központi veszélyelhárítási tervet.
 - k) az irányítása alá tartozó szervezetek tekintetében biztosítja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatok végrehajtását, valamint gondoskodik az irányítása alá tartozó szervezetek hatékony együttműködéséről a védelmi és biztonsági feladatok ellátásban részt vevő szervek, szervezetek, különösen a védelmi és biztonsági igazgatás szervei tekintetében.
 
@@ -141,9 +141,9 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - a) megállapítja az ágazati tevékenységgel összefüggő adatközlési, bejelentési, hatósági engedélyezési kötelezettségeket, és végzi az érvényesítésükhöz szükséges szabályozási és jogalkalmazói feladatokat,
 - b) irányítja a megelőző védelmi feladatok ágazati végrehajtását,
 - c) az állami költségvetési tervezés rendszerében az államháztartásért felelős miniszter egyetértésével meghatározza az ágazati katasztrófavédelmi rendszer és szervek működéséhez szükséges pénzügyi feltételeket,
-- d) a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyeztetve végrehajtja a katasztrófavédelmi célú távközlési, informatikai, valamint ágazati mérő- és ellenőrző rendszerek egységes irányítási rendszerbe illeszkedő kialakítását és működtetését,
-- e) kijelöli az ágazat katasztrófavédelemben részt vevő szerveit és a katasztrófavédelembe bevonható gazdálkodó, valamint az önkéntesen jelentkező civil szervezetek közül az állandó együttműködésre alkalmas és a helyi részvételnél átfogóbb tevékenységre is képes szervezeteket, meghatározza a katasztrófavédelemmel kapcsolatos feladataikat, jogszabály alapján intézkedik felkészítésükre és a működési feltételeik megteremtésére,
-- f) a területi szerv vezetőjének javaslatára kinevezi és felmenti a helyi szervek vezetőit, gyakorolja a velük kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket.
+- d) a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyeztetve végrehajtja a katasztrófavédelmi célú távközlési, informatikai, valamint ágazati mérő- és ellenőrző rendszerek egységes irányítási rendszerbe illeszkedő kialakítását és működtetését.
+- e)
+- f)
 
 #### 8.
 
@@ -180,9 +180,9 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 #### 13. A katasztrófák elleni védekezésben közreműködő önkéntes szervezetek feladatai
 
-18. § (1) Az önkéntesen segítséget nyújtó személyek, az önkéntesen közreműködő társadalmi és karitatív szervezetek részt vehetnek a katasztrófák elleni védekezéssel összefüggő feladatok ellátásában.
+18. § (1) Az önkéntesen segítséget nyújtó személyek részt vehetnek a katasztrófák elleni védekezéssel összefüggő feladatok ellátásában. Az önként jelentkező társadalmi és karitatív szervezetek a katasztrófák elleni védekezéssel összefüggő feladatok ellátásában a hivatásos katasztrófavédelmi szervekkel kötött megállapodás alapján vehetnek részt.
 
-(2) Az önként jelentkező társadalmi és karitatív szervezetek a katasztrófák elleni védekezéssel összefüggő feladatok ellátásában a hivatásos katasztrófavédelmi szervekkel kötött megállapodás alapján vehetnek részt.
+(2)
 
 (3) Az önkéntesen segítséget nyújtó személyek a katasztrófák elleni védekezéssel összefüggő feladat végrehajtásáért felelős személy irányításával látják el a számukra meghatározott feladatot.
 
@@ -194,17 +194,13 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (3) A minősített önkéntes mentőszervezetek a hivatásos katasztrófavédelmi szervek szakmai irányítása mellett vesznek részt a katasztrófák hatásai elleni védekezésben és a kárelhárításban.
 
-(4) A minősített önkéntes mentőszervezet tagjai részére – a minősített önkéntes mentőszervezet tagjának azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése érdekében – a hivatásos katasztrófavédelmi szerv visszavonásig érvényes egységes mentési igazolványt ad ki, valamint adatváltozás esetén a mentési igazolvány cseréjéről gondoskodik.
+(4) A minősített önkéntes mentőszervezet tagjai részére a hivatásos katasztrófavédelmi szerv a (8) bekezdés szerinti nyilvántartás alapján – a minősített önkéntes mentőszervezet tagjának azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése érdekében – visszavonásig érvényes egységes mentési igazolványt ad ki, valamint adatváltozás esetén a mentési igazolvány cseréjéről gondoskodik.
 
-(5) A minősített önkéntes mentőszervezet tagja a kárhelyszínen intézkedésre jogosult személy felszólítására köteles a mentési igazolványát felmutatni.
+(5)
 
-(6) A mentési igazolvány adattartalma:
+(6)
 
-- a) a minősített önkéntes mentőszervezet megnevezése,
-- b) a minősített önkéntes mentőszervezet tagja arcfényképe,
-- c) a minősített önkéntes mentőszervezet tagja neve.
-
-(7) A mentési igazolványt a hivatásos katasztrófavédelmi szerv a (8) bekezdés alapján vezetett nyilvántartás alapján állítja ki.
+(7)
 
 (8) A hivatásos katasztrófavédelmi szerv a minősített önkéntes mentőszervezetek védekezésbe történő bevonásának elrendelése, az önkéntes mentőszervezet tagja nyilvántartási számmal történő azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése, felkészítések és gyakorlatok megszervezése érdekében a minősített önkéntes mentőszervezetekről és azok tagjairól vezetett nyilvántartásban (a továbbiakban: nyilvántartás) kezeli a tag
 
@@ -221,23 +217,15 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (9) A (8) bekezdés szerinti adatokban bekövetkezett változás esetén az adatokat a minősített önkéntes mentőszervezet tagja – a mentőszervezet vezetője útján – az adatváltozás időpontjától számított 15 napon belül szolgáltatja.
 
-(10) A mentési igazolványt a hivatásos katasztrófavédelmi szerv a minősített önkéntes mentőszervezet megszűnésekor, a minősített önkéntes mentőszervezeti tagság megszűnésekor, a minősített önkéntes mentőszervezet tagjának halála esetén, a minősített önkéntes mentőszervezet tagjának adataiban bekövetkezett változás esetén vagy a hivatásos katasztrófavédelmi szervvel kötött együttműködési megállapodás megszűnésekor visszavonja és érvényteleníti.
+(10)
 
 (11) A (8) bekezdés alapján nyilvántartott adat – ha törvény eltérően nem rendelkezik – más szerv részére nem továbbítható.
 
 (12) A minősített önkéntes mentőszervezeti tagság megszűnése, valamint a minősített önkéntes mentőszervezet tagjának halála esetén a tag adatainak a nyilvántartásban történő kezelését meg kell szüntetni.
 
-#### 14. Egyéb rendelkezések
+#### 14.
 
-19. § (1)
-
-(2) A főpolgármester és a vármegyei közgyűlés elnöke, a polgármester a katasztrófavédelmi feladatait a hivatásos katasztrófavédelmi szerv közreműködésével látja el.
-
-(2a) A vármegyei közgyűlés elnöke, a főpolgármester és a polgármester a katasztrófavédelmi feladatok e törvényben meghatározott végrehajtása során államigazgatási jogkörben jár el.
-
-(3) A katasztrófavédelmi feladatok ellátása érdekében a kormánytisztviselő, a köztisztviselő, a közalkalmazott és az egészségügyi szolgálati jogviszonyban álló személy túlmunkára kötelezhető.
-
-(4)
+#### 19. §
 
 #### 15. Általános jelzési kötelezettség
 
@@ -245,15 +233,15 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 21. § (1) A lakossági riasztórendszer elemeinek, végpontjainak idegen építményen történő elhelyezésénél törekedni kell elsődlegesen az állami, önkormányzati építményeken történő elhelyezésre. Amennyiben a magántulajdonú építménnyel szemben az állami, önkormányzati területen történő elhelyezés aránytalanul nagy költségráfordítást, illetve technológiai változást jelent, a lakossági riasztórendszer magántulajdonú építményeken kerül elhelyezésre.
 
-(2) A lakossági riasztórendszer végpontjainak telepítése és üzemeltetése céljából a hivatásos katasztrófavédelmi szerv központi szerve, illetve területi szervei javára ingatlanon közérdekből szolgalmi jog alapítható. A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről az ingatlan tulajdonosával (vagyonkezelőjével, használójával) ajánlat megküldésével kell egyezség létrehozását megkísérelni. Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a hivatásos katasztrófavédelmi szerv központi szerve vagy a hivatásos katasztrófavédelmi szerv területi szerve kérelmére a fővárosi és vármegyei kormányhivatal állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog közérdekű szolgalomnak minősül.
+(2) A lakossági riasztórendszer végpontjainak telepítése és üzemeltetése céljából a hivatásos katasztrófavédelmi szerv központi szerve, illetve területi szervei javára ingatlanon közérdekből szolgalmi jog alapítható. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog közérdekű szolgalomnak minősül.
 
-(3) A szolgalom jogosultja a szolgalmi jog alapján az idegen ingatlanon építményt építhet, távközlési és energetikai vezetékeket, mérő, vezérlő és egyéb speciális berendezéseket helyezhet el. A szolgalom alapján a központi, illetve a hivatásos katasztrófavédelmi szerv területi szervei jogosultak a tevékenység végzéséhez szükséges mértékben az ingatlan igénybevételére, különösen ellenőrzés, javítás, karbantartás, kapacitásfenntartás és -bővítés, az üzemelés, a biztonság fenntartása, az üzemzavar megelőzése és elhárítása érdekében szükséges intézkedések végrehajtására.
+(3) A szolgalom jogosultja a szolgalmi jog alapján az idegen ingatlanon építményt építhet, távközlési és energetikai vezetékeket, mérő-, vezérlő- és egyéb speciális berendezéseket helyezhet el.
 
 (4) Az idegen ingatlanon elhelyezett lakossági riasztórendszer végpontjaival kapcsolatos üzemeltetési költség a hivatásos katasztrófavédelmi szerv központi szervét, illetve a hivatásos katasztrófavédelmi szerv területi szerveit terheli.
 
-(5) Az illetékes áramszolgáltatók a katasztrófák elleni védekezés támogatása érdekében külön díjazás nélkül biztosítják a lakossági riasztórendszer végpontjainak energiavételezését. A lakossági riasztórendszer végpontjait – a mindenkori érvényes szabványok és előírások betartása mellett – az áramszolgáltatói méretlen hálózatra kötelesek kötni.
+(5)
 
-(6) Az áramszolgáltató külön kérésére évente egy alkalommal a hivatásos katasztrófavédelmi szerv központi szerve, illetve a hivatásos katasztrófavédelmi szerv területi szerve az áramszolgáltató illetékességi területén telepített lakossági riasztórendszer végpontjainak listáját megküldi.
+(6)
 
 ### III. Fejezet — A KATASZTRÓFÁK ELLENI VÉDEKEZÉSÉRT FELELŐS MINISZTER IRÁNYÍTÁSA ALÁ TARTOZÓ, A KATASZTRÓFAVÉDELEM VÉGREHAJTÁSÁT VÉGZŐ SZERVEK ÉS FELADATAIK
 
@@ -280,21 +268,13 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - a) javaslatot tesz a hivatásos katasztrófavédelmi szerv központi szerve vezetője helyettesének vagy helyetteseinek kinevezésére és felmentésére,
 - b) gyakorolja a munkáltatói jogokat a hivatásos katasztrófavédelmi szerv központi szerve állományába tartozó személyek felett.
 
-(4) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a katasztrófaelhárítás irányításával és koordinálásával kapcsolatos jogkörében:
+(4) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a katasztrófaelhárítás irányításával és koordinálásával kapcsolatos jogkörében
 
-- a) biztosítja a hivatásos katasztrófavédelmi szervezetek működési feltételeit, tervezi és felügyeli a katasztrófák elleni védekezéssel összefüggő jóváhagyott fejlesztéseket,
-- b) javaslatot tesz a katasztrófák elleni védekezésért felelős miniszter részére a katasztrófavédelem működését, a hivatásos katasztrófavédelmi szerv feladatkörét érintő jogszabályoknak és a közjogi szervezetszabályozó eszközöknek megalkotására,
-- c) kidolgozza a katasztrófavédelemmel összefüggő tervezési, szervezési, felkészítési szakmai elveket és követelményeket, végzi a lakosság mentésével kapcsolatos tervező, szervező feladatokat, irányítja az alárendelt szerveknek a bekövetkezett események következményeinek felszámolására irányuló tevékenységét,
-- d) a katasztrófák elleni védekezésért felelős miniszter irányításával közreműködik a katasztrófák várható következményeinek megelőzésére és elhárítására vonatkozó tervezésben,
-- e) felelős a polgári védelmi kötelezettségen alapuló központi polgári védelmi szervezet létrehozásáért és a központi veszélyelhárítási terv elkészítéséért,
-- f) meghatározza a tűzvédelmi és műszaki mentési, a katasztrófavédelmi feladatok végrehajtásának szakmai követelményeit, irányítja és ellenőrzi az alárendelt szervek szakmai munkáját és tevékenységét,
-- g) ellátja a polgári védelmi szervezetek létrehozásával és felkészítésével, ellátásával és alkalmazásával, valamint a lakosság és az anyagi javak mentésével összefüggő tervezési és szervezési feladatokat,
-- h) biztosítja a védelmi igazgatás szerveinek működéséhez szükséges szakértőket, és részt vesz a védelmi igazgatás tervezési feladataiban,
-- i) együttműködik az országos illetékességgel eljáró szervek ágazati katasztrófaelhárítási szervezeteivel,
-- j) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
-- k) gondoskodik a közfoglalkoztatás feltételeinek rendelkezésre állásáról a katasztrófák elleni védekezésre való felkészüléssel, a védekezéssel és a helyreállítással összefüggő katasztrófavédelmi feladatok hatékonyabb ellátása érdekében,
-- l) irányítja a veszélyes áruk szállításának ellenőrzésével kapcsolatos, a hivatásos katasztrófavédelmi szerv hatáskörébe tartozó hatósági feladatok ellátását.
-- m) ellátja a veszélyes áruk szállítására használt nem nyomástartó csomagoló- és szállítóeszközök gyártási típus jóváhagyási engedélyezésével, a gyártás ellenőrzésével és azzal összefüggő szankcionálással kapcsolatos hatósági feladatok irányítását.
+- a) felelős a polgári védelmi kötelezettségen alapuló központi polgári védelmi szervezet létrehozásáért és a központi veszélyelhárítási terv elkészítéséért,
+- b) ellátja a polgári védelmi szervezetek létrehozásával és felkészítésével, ellátásával és alkalmazásával, valamint a lakosság és az anyagi javak mentésével összefüggő tervezési és szervezési feladatokat,
+- c) biztosítja a védelmi igazgatás szerveinek működéséhez szükséges szakértőket, és részt vesz a védelmi igazgatás tervezési feladataiban,
+- d) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
+- e) ellátja az e törvény végrehajtására kiadott kormányrendeletben meghatározott feladatokat.
 
 (5) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a nemzetközi együttműködéssel kapcsolatos jogkörében:
 
@@ -311,7 +291,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - k) szükség esetén – a külpolitikáért felelős miniszterrel együttműködve – biztosítja a nemzetközi segítség fogadását, elősegíti kapacitásai függvényében a nemzetközi segítségnek a veszélyhelyzet vagy a katasztrófa károsító hatása által érintett területre való eljuttatását, és szétosztását,
 - l) végzi az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő katasztrófavédelmi feladatokat.
 
-(6) A hivatásos katasztrófavédelmi szerv központi szerve vezetője irányítja az országos szúnyoggyérítési program keretében a szúnyoggyérítéssel kapcsolatos feladatok ellátását.
+(6)
 
 #### 18. A hivatásos katasztrófavédelmi szerv területi szervei
 
@@ -378,27 +358,19 @@ igazolja.
 
 (7) A (6) bekezdésben meghatározott döntéssel szemben a (4) bekezdésben meghatározott személy, illetve az állomány tagja – a közigazgatási hatósági eljárás szabályai szerint – jogorvoslattal élhet.
 
-#### 18/B. A veszélyes áruk szállítására használt nem nyomástartó csomagoló- és szállítóeszközök gyártási típus jóváhagyása, a gyártás ellenőrzése és bírság kiszabása
+#### 18/B. A veszélyes áruk szállítására használt nem nyomástartó csomagoló- és szállítóeszközök gyártási típus jóváhagyása és bírság kiszabása
 
-24/E. § (1) A veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyása során az általános közigazgatási rendtartásról szóló törvény szerinti sommás eljárásnak nincs helye.
+24/E. § (1) A veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyása során az általános közigazgatási rendtartásról szóló törvény szerinti sommás eljárásnak nincs helye.
 
-(2) A Kormány rendeletében kijelölt hatóság a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártásának jóváhagyását követően ellenőrzi a jóváhagyási engedélyében és a vonatkozó jogszabályokban meghatározott előírások betartását.
+(2) A Kormány rendeletében kijelölt hatóság az előírások megsértése esetén a gyártási típus jóváhagyási engedéllyel rendelkezővel, a gyártóval, a forgalmazóval szemben kormányrendeletben meghatározott intézkedést alkalmazhat, és közigazgatási bírságot szabhat ki, amely az államháztartás központi alrendszerének bevételét képezi.
 
-(3) A Kormány rendeletében kijelölt hatóság az ellenőrzés során a gyártásból mintát vehet, és elrendelheti annak soron kívüli vizsgálatát.
-
-(4) A Kormány rendeletében kijelölt hatóság az előírások megsértése esetén a gyártási típus jóváhagyási engedéllyel rendelkezővel, a gyártóval, a forgalmazóval szemben kormányrendeletben meghatározott intézkedést alkalmazhat, és közigazgatási bírságot szabhat ki, amely az államháztartás központi alrendszerének bevételét képezi.
-
-(5) Az egyes rendelkezések megsértése esetén kiszabható bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén ugyanabban az eljárásban kiszabható bírság maximális összegét kormányrendelet állapítja meg.
-
-(6) A kiszabott bírság megfizetésére a hatóság legfeljebb 12 havi részletekben történő teljesítést, illetve legfeljebb 6 hónapra történő fizetési halasztást is engedélyezhet a (7) bekezdésben foglaltak alapján.
-
-(7) A kötelezett a bírság megfizetésére nyitva álló határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti a pénzfizetési kötelezettség teljesítésére halasztás vagy részletekben történő teljesítés engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre történő teljesítést, vagy az számára aránytalan nehézséget jelentene.
-
-(8) Nincs helye bírság kiszabásának, ha a jogsértő cselekmény felderítése a gyártási típus jóváhagyási engedély érvényességének lejártától számított 5 évet követően történik.
+(3) Nincs helye bírság kiszabásának, ha a jogsértő cselekmény a jóváhagyási engedély visszavonásától számított 5 év elteltével jutott a hatóság tudomására.
 
 ### IV. Fejezet — VESZÉLYES ANYAGOKKAL KAPCSOLATOS SÚLYOS BALESETEK ELLENI VÉDEKEZÉS
 
-25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak az iparbiztonsági hatóság engedélye alapján adható. Veszélyes tevékenység kizárólag az iparbiztonsági hatóság engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges iparbiztonsági engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentést vagy biztonsági elemzést.
+25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak az iparbiztonsági hatóság engedélye alapján adható. Az engedélyt az ügyfél kérésére jogszabályban meghatározott integrált hatósági eljárás keretein belül jogszabályban meghatározott közreműködő szerv szerzi be.
+
+(1a) Veszélyes tevékenység kizárólag az iparbiztonsági hatóság engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentést vagy biztonsági elemzést.
 
 (2) Amennyiben a biztonsági jelentés vagy biztonsági elemzés védendő adatot tartalmaz, az üzemeltető egyidejűleg a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentést vagy biztonsági elemzést is köteles az iparbiztonsági hatóság részére benyújtani.
 
@@ -406,74 +378,64 @@ igazolja.
 
 (3) Az iparbiztonsági hatóság által az e jogszabály IV. fejezete alapján lefolytatott közigazgatási eljárásokért igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az iparbiztonsági hatóság a IV. fejezet hatálya alá tartozás megállapítása céljából bármely gazdálkodó szervezetet adatszolgáltatásra kötelezhet és annak telephelyén hatósági ellenőrzést tarthat.
+(4)
 
 (5)
 
-26. § (1) Ha az iparbiztonsági hatóság hatáskörébe tartozó eljárásban benyújtott biztonsági jelentés vagy biztonsági elemzés nem felel meg a jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
+26. § (1)
 
 (1a) A veszélyes anyagokkal foglalkozó üzemek elsőfokú engedélyezési eljárásának ügyintézési határideje 70 nap.
 
-(2) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a veszélyes anyagokkal foglalkozó üzemre vonatkozó biztonsági jelentéssel, biztonsági elemzéssel kapcsolatos hiánypótlási felhívásnak vagy a biztonsági jelentésben vagy biztonsági elemzésben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig az iparbiztonsági hatóság a veszélyes tevékenység végzését korlátozhatja vagy felfüggesztheti.
+(2)
 
 27. § (1) A veszélyes anyagokkal foglalkozó üzemek megvalósítását, jelentős változtatását, megszüntetését, illetve azok veszélyességi övezeti határait fel kell tüntetni a településrendezési tervben. A veszélyességi övezeten belüli fejlesztésekkel kapcsolatos eljárási rendet, a polgármester feladatát és hatáskörét a biztonsági követelmények figyelembevételével külön jogszabály határozza meg.
 
 (1a) A településrendezési terv módosításának költségeit az üzemeltető viseli. Az e törvény IV. fejezete alapján kiadott hatósági döntés nem tartalmazza a településrendezési terv módosításának költségét, viselésének módját.
 
-(2) Az üzemeltető az iparbiztonsági hatóság számára köteles haladéktalanul bejelenteni a veszélyes anyagokkal foglalkozó üzem, veszélyes anyagokkal foglalkozó létesítmény, küszöbérték alatti üzem ideiglenes leállítását, végleges bezárását.
+(2) Az üzemeltető az iparbiztonsági hatóság számára köteles haladéktalanul bejelenteni a veszélyes anyagokkal foglalkozó üzem, veszélyes anyagokkal foglalkozó létesítmény, valamint küszöbérték alatti üzem ideiglenes leállítását, végleges bezárását. A bejelentésben meg kell jelölni az üzem ideiglenes leállításának az okát és a veszélyes tevékenység ismételt folytatásának várható időpontját.
 
-(3) Az üzemeltető köteles az e törvény végrehajtását szolgáló kormányrendeletben meghatározott felülvizsgálati eljárást kezdeményezni az iparbiztonsági hatóságnál
+(3) A (2) bekezdésben foglalt bejelentés alapján az e törvény végrehajtására kiadott kormányrendeletben meghatározott felülvizsgálati eljárás lefolytatásának van helye.
 
-- a) a veszélyes tevékenység ismételt folytatása,
-- b) a működő veszélyes anyagokkal foglalkozó üzem, a veszélyes anyagokkal foglalkozó létesítmény, küszöbérték alatti üzem, a tárolóberendezés vagy a technológiai eljárás, vagy a védekezés belső (létesítményi) rendszerének a biztonságra hátrányosan kiható jelentős változtatása,
-- c) a jelen lévő veszélyes anyagok mennyiségének jelentős növekedése vagy csökkenése; a veszélyes anyag jellegének vagy fizikai tulajdonságának, vagy felhasználási folyamatának jelentős változása,
-- d) az üzem besorolásának megváltozása
+(4)
 
-esetén.
+28. § (1) Amennyiben a veszélyes anyagokkal foglalkozó üzemben a veszélyes anyagok mennyisége eléri
 
-(4) Ha a (3) bekezdés szerinti felülvizsgálati eljárásban a biztonsági elemzés, biztonsági jelentés vagy a súlyos káresemény elhárítási terv módosítása szükséges, akkor annak az iparbiztonsági hatóság általi elfogadásáig a megváltoztatott veszélyes tevékenység nem kezdhető meg, vagy a veszélyes tevékenység nem folytatható.
+- a) a jogszabályban meghatározott alsó küszöbértéket, de nem éri el a felső küszöbértéket, az üzemeltető biztonsági elemzést, vagy
+- b) meghaladja a jogszabályban meghatározott felső küszöbértéket, az üzemeltető jogszabályban meghatározottak szerint biztonsági jelentést
 
-28. § (1) Amennyiben a veszélyes anyagokkal foglalkozó üzemben a veszélyes anyagok mennyisége eléri a jogszabályban meghatározott alsó küszöbértéket, de nem éri el a felső küszöbértéket, az üzemeltető biztonsági elemzést készít és az iparbiztonsági hatósághoz elfogadásra benyújtja.
+készít és az iparbiztonsági hatósághoz elfogadásra benyújtja.
 
-(2) Amennyiben a veszélyes anyagokkal foglalkozó üzemben a veszélyes anyagok mennyisége eléri vagy meghaladja a jogszabályban meghatározott felső küszöbértéket, az üzemeltető a külön jogszabályban meghatározottak szerint biztonsági jelentést készít és az iparbiztonsági hatósághoz elfogadásra benyújtja.
+(2) A biztonsági elemzést és jelentést, működő veszélyes anyagokkal foglalkozó üzem esetén a jogszabályban meghatározott esetekben, de legalább ötévenként az üzemeltető felülvizsgálja, és szükség szerint módosítja. Az üzemeltető a felülvizsgálat eredményét, illetve a módosított biztonsági elemzést vagy jelentést az iparbiztonsági hatóság részére megküldi. Az iparbiztonsági hatóság a megküldött biztonsági elemzés vagy jelentés alapján dönt az engedély meghosszabbításáról, illetve annak feltételeiről.
 
-(3) A biztonsági elemzés és jelentés veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésre és elhárítására vonatkozó előírásait úgy kell kialakítani, hogy képes legyen biztosítani az egészség és a környezet magas fokú védelmét. Ennek érdekében tartalmaznia kell a védekezéshez szükséges erőkre és eszközökre, a szervezési és vezetési rendszerre vonatkozó elgondolást is.
+#### 29. §
 
-(4) A biztonsági elemzést és jelentést, működő veszélyes anyagokkal foglalkozó üzem esetén a külön jogszabályban meghatározott esetekben, de legalább ötévenként az üzemeltető felülvizsgálja, és szükség szerint módosítja. A felülvizsgálat eredményét, illetve a módosított biztonsági elemzést vagy jelentést az iparbiztonsági hatóság részére megküldi. Az iparbiztonsági hatóság a megküldött biztonsági elemzés vagy jelentés alapján dönt az engedély meghosszabbításáról, illetve annak feltételeiről.
-
-29. § Az iparbiztonsági hatóság a hozzá benyújtott biztonsági jelentés vagy biztonsági elemzés vizsgálata, illetve a hatósági ellenőrzésen tapasztaltak alapján állapítja meg a dominóhatásban érintett veszélyes anyagokkal foglalkozó üzemek körét. Az iparbiztonsági hatóság a dominóhatásban érintett üzemek irányába intézkedik a veszélyes anyagokkal foglalkozó üzemek veszélyes anyagokkal kapcsolatos súlyos baleset-megelőzési célkitűzéseinek, biztonsági irányítási rendszerének, belső védelmi terveinek összehangolására a biztonsági jelentés vagy biztonsági elemzés soron kívüli felülvizsgálatának kezdeményezésével. Az iparbiztonsági hatóság az intézkedéseiről tájékoztatja a külső védelmi tervek és a lakossági tájékoztatók elkészítésében érintetteket.
-
-30. § (1) Az iparbiztonsági hatóság a biztonsági jelentés vagy biztonsági elemzés megküldésével értesíti a veszélyeztetett települések polgármestereit, a veszélyeztetett fővárosi kerületek polgármestereit (a továbbiakban együtt: a veszélyeztetett települések polgármesterei), valamint a fővárosban a főpolgármestert az új veszélyes anyagokkal foglalkozó üzem építésével vagy a már működő veszélyes anyagokkal foglalkozó üzem jelentős változtatásával kapcsolatos engedélyezési eljárás megindításáról.
-
-(2) A biztonsági jelentés vagy biztonsági elemzés nyilvános, és a veszélyeztetett település polgármesterének biztosítania kell, hogy abba a külön jogszabályban meghatározottaknak megfelelően bárki betekinthessen. Amennyiben a biztonsági jelentés vagy biztonsági elemzés védendő adatot is tartalmaz, akkor az üzemeltető által készített, a biztonsági jelentésnek vagy biztonsági elemzésnek a védendő adatot nem tartalmazó változata bocsátható nyilvános megtekintésre.
+#### 30. §
 
 31. § (1) A védendő adatot tartalmazó biztonsági jelentésbe, illetve biztonsági elemzésbe csak az üzemeltető vagy írásban meghatalmazott képviselője, az iparbiztonsági hatóság (a továbbiakban együtt: eljárásban érintett felek), valamint a külön jogszabály alapján arra jogosultak tekinthetnek be.
 
 (2) A nyilvánosságra hozható biztonsági jelentésről, illetve biztonsági elemzésről az iparbiztonsági hatóság csak az eljárásban érintett felek, a veszélyeztetett települések polgármesterei, e törvény végrehajtására kiadott kormányrendeletben megjelölt szervezetek és a külső védelmi terv készítésére kötelezettek részére adhat másolatot.
 
-32. § (1) A veszélyes anyagokkal foglalkozó üzem biztonsági jelentésében vagy az iparbiztonsági hatóság döntése alapján a biztonsági elemzésében bemutatott veszélyeztető hatások elleni védekezés érdekében a veszélyeztetett településeken külső védelmi tervet kell készíteni.
+32. § (1) A veszélyes anyagokkal foglalkozó üzem biztonsági jelentésében vagy az iparbiztonsági hatóság döntése alapján a biztonsági elemzésében bemutatott veszélyeztető hatások elleni védekezés érdekében a veszélyeztetett településeken külső védelmi tervet kell készíteni. A külső védelmi tervek elkészítésének és gyakoroltatásának költségeit a hivatásos katasztrófavédelmi szerv központi szerve saját költségvetése terhére biztosítja.
 
-(2) A külső védelmi tervet a hivatásos katasztrófavédelmi szerv helyi szerve a veszélyeztetett települések polgármestereinek közreműködésével készíti el. A külső védelmi tervek tartalmi követelményeit és elkészítésének határidejét külön jogszabály állapítja meg. A külső védelmi tervek elkészítésének és gyakoroltatásának költségeit a hivatásos katasztrófavédelmi szerv központi szerve saját költségvetése terhére biztosítja.
+(2)
 
 (3) Az iparbiztonsági hatóság külön jogszabályban meghatározottak szerint végzi a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére és elhárítására, valamint a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos balesetek kivizsgálására vonatkozó műszaki, szervezési és vezetési információk gyűjtését, értékelését és készíti a nemzeti jelentéseket.
 
-(4) Az iparbiztonsági hatóság a IV. fejezet hatálya alá tartozó üzemekre vonatkozóan koordinálja az ágazati hatósági feladatokat ellátó szervezetek (a IV. fejezet alkalmazásában: társhatóságok) hatósági ellenőrzéseit, ennek keretében a társhatóságok részére hatósági ellenőrzés foganatosítására vonatkozó javaslatot tesz, több társhatóság bevonásával együttes ellenőrzéseket szervez.
+(4)
 
-(5) A társhatóságok a IV. fejezet hatálya alá tartozó üzemek tekintetében külön jogszabályban rögzített feladat és hatáskörük szerint önálló engedélyezési, felügyeleti és ellenőrzési tevékenységet végeznek, melyek eredményéről az iparbiztonsági hatóságot tájékoztatják.
+(5)
 
-(6) Az iparbiztonsági hatóság gyűjti az (5) bekezdésben megjelölt társhatóságok a IV. fejezet hatálya alá tartozó üzemekkel kapcsolatos közigazgatási hatósági eljárási dokumentumait, továbbá a hatósági engedélyeket – törvény alapján – nyilvánosságra hozza.
+(6) Az iparbiztonsági hatóság gyűjti az ágazati hatósági feladatokat ellátó szervezetek (a továbbiakban: társhatóságok) IV. fejezet hatálya alá tartozó üzemekkel kapcsolatos közigazgatási hatósági eljárási dokumentumait, továbbá a hatósági engedélyeket – törvény alapján – nyilvánosságra hozza. Az iparbiztonsági hatóság a rendelkezésére álló adatokhoz a társhatóságok részére hozzáférést biztosít.
 
-(7) Az iparbiztonsági hatóság a (6) bekezdés alapján rendelkezésére álló adatokhoz az (5) bekezdésben megjelölt társhatóságok részére hozzáférést biztosít.
+(7)
 
-(8) A társhatóságok az e §-ban meghatározott körben kötelesek az iparbiztonsági hatósággal együttműködni.
+(8)
 
 33. § (1) A veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes polgármesternek az üzemeltetővel és az iparbiztonsági hatósággal együttműködve külön jogszabályban meghatározottak szerint biztosítania kell, hogy a lakosság véleményt nyilváníthasson az új veszélyes anyagokkal foglalkozó üzem építésére, vagy a már működő veszélyes anyagokkal foglalkozó üzem tevékenységének jelentős változtatására vonatkozó engedély kiadása előtt.
 
 (2) Külön jogszabály szerint biztosítani kell, hogy a veszélyes anyagokkal foglalkozó üzem veszélyességi övezetének határán belül történő fejlesztések során a lakosság véleményt nyilváníthasson.
 
-34. § (1) Az iparbiztonsági hatóság a 25. § (1) bekezdése szerinti végleges határozatát a veszélyeztetett települések polgármestereivel, az üzem telephelye szerint illetékes környezetvédelmi, valamint természetvédelmi hatósággal, a fővárosban a főpolgármesterrel, valamint a veszélyes anyagokkal foglalkozó üzem telephelye szerint illetékes helyi, területi védelmi bizottság elnökével közli.
-
-(2) Az iparbiztonsági hatóság a veszélyes tevékenység végzésére vonatkozó határozatának kiadását követően a veszélyes tevékenységet végzőkről és a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyekről tájékoztatja a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes vármegyei (budapesti) rendőr-főkapitányságot, az egészségügyi államigazgatási szervet, a környezetvédelmi hatóságot, valamint az állami mentőszolgálatot.
+#### 34. §
 
 35. § (1) Az iparbiztonsági hatóság az üzemeltetőt megfelelő határidő megjelölésével kötelezheti a IV. fejezetben és a végrehajtási rendeletekben meghatározott üzemeltetői kötelezettségek teljesítésére, vagy ha a biztonságos üzemeltetés feltétele bármely okból hiányzik, a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzéséhez és elhárításához szükséges intézkedések megtételére. Az iparbiztonsági hatóság az előírt kötelezettség vagy intézkedés megtételéig a veszélyes tevékenység folytatásának felfüggesztését rendelheti el.
 
@@ -496,11 +458,11 @@ esetén.
 - b) a IV. fejezetben és a végrehajtási rendeletekben, vagy az azok alapján meghozott hatósági döntésben foglalt előírások elmulasztása esetén,
 - c) a veszélyes tevékenységgel kapcsolatos súlyos balesettel, vagy eseménnyel összefüggésben megelőző, elhárító és helyreállító intézkedésekre vonatkozó kötelezettség be nem tartása esetén.
 
-(6) A katasztrófavédelmi bírság legkisebb összege háromszázezer forint, legmagasabb összege hárommillió forint. A bírság összegét a törvényi keretek között a jogsértésnek az emberi életre és egészségre, az anyagi javakra és a környezetre való veszélyességével arányos mértékben, igazodva a jogsértés súlyához és ismétlődéséhez kell meghatározni.
+(6)
 
 (7) A bírság egy eljárásban ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
 
-(8) A bírság megfizetése nem mentesít a büntetőjogi, illetve a polgári jogi felelősség, valamint az elmulasztott kötelezettség teljesítése alól.
+(8)
 
 (9) A katasztrófavédelmi bírság a központi költségvetés központosított bevételét képezi.
 
@@ -515,7 +477,7 @@ esetén.
 - g) veszélyes anyagokkal kapcsolatos súlyos balesettel kapcsolatos védekezési, elhárítási és helyreállító intézkedések elmulasztása,
 - h) belső védelmi terv gyakorlat végrehajtásának elmulasztása.
 
-36. § Az iparbiztonsági hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek és események megelőzése, kivizsgálása, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében az e törvény végrehajtását szolgáló kormányrendeletben meghatározott gyakorisággal hatósági ellenőrzést tart.
+#### 36. §
 
 37. § Az üzemeltető köteles:
 
@@ -547,7 +509,7 @@ esetén.
 - a) a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését és elhárítását, az egészség és a környezet magas fokú védelmét biztosító súlyos káresemény-elhárítási tervet az iparbiztonsági hatóság részére jóváhagyásra benyújtani,
 - b) a súlyos káresemény-elhárítási terv részeként súlyos balesetek megelőzését és elhárítását biztosító irányítási rendszert működtetni,
 - c) a súlyos káresemény-elhárítási tervben megjelölt feladatok végrehajtásához szükséges feltételeket biztosítani,
-- d) a súlyos káresemény-elhárítási tervet a külön jogszabályban meghatározott esetekben, de legalább ötévenként felülvizsgálni, és szükség szerint módosítani,
+- d) a súlyos káresemény-elhárítási tervet a külön jogszabályban meghatározott esetekben, de legalább hétévenként felülvizsgálni, és szükség szerint módosítani,
 - e) a súlyos káresemény-elhárítási terv végrehajthatóságát a külön jogszabályban meghatározott módon gyakorlattal ellenőrizni,
 - f) a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeit kivizsgálni és az arról készült jelentést az iparbiztonsági hatóság részére megküldeni.
 
@@ -743,7 +705,7 @@ kezelheti.
 - c) a személyi adat- és lakcímnyilvántartás,
 - d)
 
-(4) A (3) bekezdésben meghatározott adatszolgáltató az adatszolgáltatást 15 napon belül térítésmentesen teljesíti.
+(4) A (3) bekezdésben meghatározott adatszolgáltató az adatszolgáltatást 8 napon belül térítésmentesen teljesíti.
 
 (5) A hadkiegészítő parancsnokság a polgármester kiválasztási szempontokat is tartalmazó megkeresésére adja át a beosztható személyeknek az (1) bekezdésben meghatározott adatait.
 
@@ -809,17 +771,7 @@ lehet.
 
 ### VII. Fejezet — A FELKÉSZÜLÉS ÉS A VÉDEKEZÉS KÖLTSÉGEINEK MEGTÉRÍTÉSE ÉS FEDEZETE
 
-73. § (1) Az Országgyűlés
-
-- a) a hivatásos katasztrófavédelmi szerv központi, területi és helyi szervei fenntartásával, működésével és fejlesztésével összefüggő kiadások,
-- b) a polgári védelmi kötelezettség alapján létrehozott polgári védelmi szervezetek működéséhez szükséges technikai eszközök beszerzésének,
-- c) a polgári védelmi szervezeteknek a Kormány vagy a katasztrófák elleni védekezésért felelős miniszter irányítási jogkörében elrendelt felkészítésével, alkalmazásával összefüggő kiadások, ezen belül
-- d) a munkavállaló és a munkaviszonyban nem álló személy polgári védelmi kötelezettségének teljesítésével összefüggésben a munkáltatónál felmerülő és igazolt költségeinek, valamint a térítési díjnak,
-- e) a lakosság riasztását szolgáló berendezések telepítésének, fejlesztésének, karbantartásának és működésének
-
-fedezetét évente a költségvetésről szóló törvény a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium fejezetében biztosítja.
-
-(2) Az Országgyűlés más minisztérium esetén a katasztrófavédelmi feladatok végrehajtására a forrást az adott költségvetési fejezeten belül elkülönítetten biztosítja.
+#### 73. §
 
 74. § Az Országgyűlés a helyi önkormányzatok számára biztosítja a vármegyei közgyűlés elnöke, a főpolgármester és a polgármester katasztrófavédelmi feladatának ellátásához szükséges anyagi feltételeket.
 
@@ -827,11 +779,11 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 (2) A gazdálkodó szervezet a hatósági határozattal elrendelt katasztrófavédelmi feladatok ellátásával összefüggésben felmerülő kiadásait költségként számolhatja el.
 
-76. § (1) Az állami szervek, a Magyar Honvédség, a védelmi bizottságok felkészülésének, katasztrófa elleni védekezésének költségeit az állam viseli.
+76. § (1)
 
-(2) A felkészülés költségeit az érintettek az éves költségvetésükben tervezik.
+(2)
 
-(3) A 18. § (2) bekezdése alapján a védekezésbe bevont önkéntes mentőszervezetek védekezési költségeit az állam viseli.
+(3) A 18. § (1) bekezdése alapján a védekezésbe bevont önkéntes mentőszervezetek védekezési költségeit az állam viseli.
 
 (4) Ha a védekezésben részt vevőt egészséget károsító vagy halálos baleset érte, az üzemi balesetre, foglalkozási betegségre vonatkozó társadalombiztosítási szabályok alapján meg nem térülő károkat, egészséget károsító baleset esetén a személyiségi jogsértésért járó sérelemdíjat az állam téríti meg.
 
@@ -907,15 +859,15 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 79/B. § (1) A hivatásos katasztrófavédelmi szerv a hatáskörébe utalt hatósági eljárások gyors és hatékony lefolytatása érdekében törvényben vagy kormányrendeletben meghatározott eljárásokban a Dáptv. 18. § (1) bekezdése és 20. §-a alapján az ügy elektronikus intézéséhez elektronikus Integrált Hatósági Rendszert (a továbbiakban: IHR) biztosít.
 
-(2) A hivatásos katasztrófavédelmi szerv hatáskörébe utalt, törvényben meghatározott hatósági eljárásaiban az ügyfél – az elektronikus azonosítását követően – a kérelmét és egyéb beadványait az IHR-en keresztül nyújtja be a hivatásos katasztrófavédelmi szerv részére, illetve a hivatásos katasztrófavédelmi szerv az általa kiállított dokumentumokat az IHR-be tölti fel.
+(2) Az IHR biztosítja a hatósági eljárás kezdeményezését, lefolytatását, valamint a végrehajtási eljárás lefolytatását és a hatósági eljárás lefolytatása során benyújtott, illetve keletkezett dokumentumok tárolását.
 
-(3) Az IHR támogatja a hatósági eljárásoknál az ügyfélnek, valamint az eljárás egyéb résztvevőjének a Kormány rendeletében meghatározott szervekkel az elektronikus kapcsolattartást.
+(3)
 
-(4) Az IHR a kérelmező számára biztosítja a hatósági eljárást megelőző tájékozódást biztosító felületet, amelynek részletes működési rendjét a Kormány rendeletben állapítja meg.
+(4)
 
-(5) Az ügyfél a hatósági eljárás kezdeményezésével egyidejűleg, elektronikus azonosítását követően az IHR keretei között működtetett ügyfélportálra tölti fel a hatósági eljárás lefolytatásához szükséges dokumentumokat.
+(5)
 
-79/C. § A 79/B. § (1) bekezdése szerinti, elektronikusan kezdeményezett ügyekben a magyarországi székhellyel vagy lakóhellyel rendelkező, a 79/B. § (2) bekezdésében meghatározott ügyfél és képviselője számára a hivatásos katasztrófavédelmi szerv az elektronikus ügyintézést az IHR alkalmazásával biztosítja.
+#### 79/C. §
 
 79/D. § Az IHR és az IHR-ben tárolt adatok igénybevételére jogszabályban meghatározott esetekben és módon a hatáskörükbe tartozó ügyekben a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság is jogosult.
 
@@ -996,7 +948,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 (5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.
 
-85. § A lakossági riasztórendszer végpontjainak listáját az áramszolgáltatók részére a hivatásos katasztrófavédelmi szerv központi szerve, illetve területi szervei 2012. március 1-jéig megküldik. A lakossági riasztó rendszer végpontjaiban bekövetkezett változást, az azt követő 72 órán belül kell megküldeni az áramszolgáltatók részére.
+#### 85. §
 
 85/A. § A hivatásos katasztrófavédelmi szervtől kormányzati igazgatási szervhez 2024. október 1-jén átkerülő hatósági hatáskör telepítéssel összefüggésben a katasztrófavédelmi IHR használatával kapcsolatos kérdésekről – ide értve az adatfeldolgozással összefüggő kérdéseket is – továbbá a költségvetési, vagyoni, üzemeltetési, iratátadási és adminisztrációs kérdésekről, valamint a hatáskört átvevő szervek számára nyújtott humánigazgatási és informatikai támogatásról 2024. szeptember 30-ig a katasztrófák elleni védekezésért felelős miniszter és a közigazgatás szervezéséért felelős miniszter megállapodást köt.
 

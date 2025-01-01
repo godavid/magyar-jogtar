@@ -72,7 +72,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - r) álláskeresési ellátás, foglalkoztatás elősegítése, valamint az ezzel összefüggő ellenőrzés,
 - s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás folyamatos és biztonságos kiszolgáltatása, illetve nyújtása érdekében,
 - t) a munkabalesetek, foglalkozási megbetegedések – ideértve a fokozott expozíciós eseteket is – kivizsgálása, nyilvántartása és a szükséges munkavédelmi intézkedések megtétele,
-- u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás,
+- u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 18. § (8) bekezdés b) pontjában meghatározott összefüggés megállapításához szükséges szakhatósági állásfoglalás kialakítása,
 - v) eredményesség alapú támogatásban részesülő gyógyszerek, gyógyászati segédeszközök eredményességének, támogatásának megállapítása, és ezen gyógyszerekkel kezelt kórképek finanszírozási eljárásrendjének alkotása,
 - w) betegút-szervezés,
 - x) az egészségügyi szolgáltatások minőségének értékelése és fejlesztése, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálata és fejlesztése,
@@ -143,7 +143,7 @@ van szükség, és
 
 (2) Az érintett gyógykezelésével kapcsolatos tevékenységet végző egyéb személy a kezelést végző orvos utasításának megfelelően, illetve a feladatai ellátásához szükséges mértékben vehet fel egészségügyi adatot.
 
-10. § (1) A 4. § (1)–(3) bekezdése szerinti célból történő adatkezelés és adatfeldolgozás esetén az egészségügyi ellátóhálózaton belül az egészségügyi és személyazonosító adatok továbbíthatók, illetve összekapcsolhatók. Az egészségbiztosítási szervnek a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 81. §-ában meghatározott feladata ellátása érdekében egészségügyi adatok és a társadalombiztosítási azonosító jelek (a továbbiakban: TAJ szám) az egészségügyi ellátóhálózat és az egészségbiztosítási szerv között is továbbíthatók és összekapcsolhatók, a feladat ellátásához szükséges mértékben. A különböző forrásból származó egészségügyi és személyazonosító adatokat csak addig az időpontig és olyan mértékig lehet összekapcsolni, ameddig az a megelőzés, a gyógykezelés, a népegészségügyi, közegészségügyi-járványügyi intézkedések megtétele érdekében feltétlenül szükséges.
+10. § (1) A 4. § (1)–(3) bekezdése szerinti célból történő adatkezelés és adatfeldolgozás esetén az egészségügyi ellátóhálózaton belül az egészségügyi és személyazonosító adatok továbbíthatók, illetve összekapcsolhatók. Az egészségbiztosítási szervnek az Ebtv. 81. §-ában meghatározott feladata ellátása érdekében egészségügyi adatok és a társadalombiztosítási azonosító jelek (a továbbiakban: TAJ szám) az egészségügyi ellátóhálózat és az egészségbiztosítási szerv között is továbbíthatók és összekapcsolhatók, a feladat ellátásához szükséges mértékben. A különböző forrásból származó egészségügyi és személyazonosító adatokat csak addig az időpontig és olyan mértékig lehet összekapcsolni, ameddig az a megelőzés, a gyógykezelés, a népegészségügyi, közegészségügyi-járványügyi intézkedések megtétele érdekében feltétlenül szükséges.
 
 (1a) Az (1) bekezdés alkalmazásánál az egészségügyi ellátóhálózaton belüli egészségügyi és személyazonosító adatok továbbítására és összekapcsolására – a 4. § (1) és (3) bekezdésében foglaltakon túl – a 4. § (2) bekezdésében meghatározott célok esetén csak akkor kerülhet sor, ha azok az egészségügyi és betegellátó rendszer működésével közvetlenül összefüggnek.
 
@@ -370,6 +370,18 @@ tartalmazza.
 
 (5) A Donor Regiszter a nyilvántartott adatokat a donor plazmaferezis eljárásban részt vevő véradókról az utolsó teljes vér vagy plazma adásának időpontjától számított harminc évig kezelheti személyazonosításra alkalmas módon.
 
+(6) Az (1) bekezdés szerinti egészségügyi szolgáltató a véradásból véglegesen kizártság tényének megismerése, valamint a donor egészségi állapotának megőrzése és ellenőrizhetősége, továbbá a levett plazma minőségének biztosítása érdekében a véradást megelőzően
+
+- a) a Donor Regiszterből ellenőrzi, hogy a donort bármely egészségügyi szolgáltató a véradásból véglegesen kizárta-e,
+- b) a Donor Regiszterben foglalt, valamint a donor által átadott, illetve a donor vizsgálatával nyert egészségügyi adatok alapján ellenőrzi, hogy van-e a donor plazmaferezis eljárás megkezdését kizáró egészségügyi ok.
+
+(7) A (6) bekezdésben foglalt célból az (1) bekezdés szerinti egészségügyi szolgáltató
+
+- a) a (6) bekezdés a) pontja szerinti adatot,
+- b) a donorra vonatkozó (2) bekezdés szerinti, egy évnél nem régebbi adatokat
+
+a Donor Regiszterből lekérdezheti.
+
 ### Egészségügyi szakember-képzés
 
 17. § (1) Az egészségügyi szakember-képzés céljából – a betegellátó és a (2) bekezdés kivételével – az érintett (törvényes képviselője) hozzájárulásával lehet jelen a gyógykezelés során orvos, orvostanhallgató, egészségügyi szakdolgozó, egészségügyi főiskola hallgatója, illetve egészségügyi szakképző intézmény tanulója.
@@ -466,7 +478,10 @@ tartalmazza.
 
 (3) A társadalombiztosítási igazgatási szervek által lefolytatott ellenőrzés során a társadalombiztosítás szerveinek csak egészségügyi felsőfokú szakképesítéssel rendelkező alkalmazottja ismerheti meg az érintett összekapcsolt egészségügyi és személyazonosító adatait.
 
-(4)
+(4) Az Egészségügyi Tudományos Tanács részére abban az esetben is továbbítható egészségügyi és személyazonosító adat, ha az
+
+- a) a 4. § (2) bekezdés u) pontjában foglalt szakhatósági állásfoglalás teljesítéséhez szükséges,
+- b) az Ebtv. 18. § (8) bekezdésén, valamint ezzel összefüggésben az Ebtv. 70. § (1) bekezdés b) pontján alapuló megtérítésre irányuló eljárás lefolytatásához indokolt.
 
 (5) A társadalombiztosítási igazgatási szerv és a minisztérium – a 4. § (2) bekezdés g) pontjában meghatározott célból – kezelheti:
 
@@ -477,6 +492,11 @@ tartalmazza.
 (6) Az (5) bekezdés szerinti adatokat az egészségbiztosítási szerv az érintett halálát követő 10 évig, amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, amely a 10 éves őrzési időn túlmutat, akkor az ügy lezárásának időpontjáig kezeli. Ezt követően az adatokat meg kell fosztani a személyes azonosítás lehetőségétől.
 
 (7) Az egészségbiztosítási szerv a 4. § (2) bekezdés g) pontja szerinti célból, törvényben meghatározott feladata ellátása során, az ehhez szükséges mértékű egészségügyi adathoz az EESZT útján is hozzáférhet.
+
+(8) Az Egészségügyi Tudományos Tanács a 4. § (2) bekezdés u) pontjában foglalt szakhatósági állásfoglalás elkészítése céljából
+
+- a) kezeli az (5) bekezdésben meghatározott adatokat,
+- b) a feladata ellátása során, az ehhez szükséges mértékű egészségügyi adathoz az EESZT útján is hozzáférhet.
 
 22/A. § (1) A 4. § (2) bekezdés v) pontja szerinti célból az egészségügyért felelős miniszter rendelete szerint vezetett Betegségregiszter működik.
 
@@ -725,6 +745,8 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 35/A. § (1) A Kormány által rendeletben kijelölt szerv működtetőként ellátja az EESZT, mint az egészségügyi ellátóhálózat informatikai rendszereinek együttműködését biztosító, az e törvényben vagy e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott központi elektronikus szolgáltatásokat megvalósító egészségügyi ágazati informatikai rendszer működtetésével kapcsolatos feladatokat.
 
 (2) A működtető az (1) bekezdésben meghatározottakon túl biztosítja a törvényben vagy kormányrendeletben meghatározott egyéb, az EESZT útján történő adattovábbítási szolgáltatásokat.
+
+(2a) A működtető az (1) és (2) bekezdés szerinti feladatainak ellátása céljából, a feladat ellátása szükségességének mértékéig – ha törvény eltérően nem rendelkezik, a feladat végrehajtásának idejéig – kezeli a 35/F. § (1) bekezdésében foglalt adatokat, az érintett az érintett EESZT-ben képzett azonosítóját, a szolgáltatások nyújtásához szükséges eszköz azonosítót, továbbá az érintett halálának idejét.
 
 (3) A működtető az (1) és (2) bekezdésben meghatározottakon túl az érintett hozzájárulása alapján egyéb adattárolási és az EESZT útján történő adattovábbítási szolgáltatásokat biztosíthat.
 

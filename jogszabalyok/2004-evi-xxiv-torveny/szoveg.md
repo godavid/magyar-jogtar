@@ -41,7 +41,7 @@ a lőfegyverekről és lőszerekről
 - 16. lőfegyver: a tűzfegyver, valamint az a légfegyver, amelyből 7,5 joule-nál nagyobb csőtorkolati energiájú, szilárd anyagú lövedék lőhető ki;
 - 17. lőfegyverjavítás: a rendeltetésszerű használatnak meg nem felelő lőfegyver fegyverrészének ugyanolyan alkatrészre történő kicserélése, a lőfegyver irányzékán – a rendeltetés szerinti beállítás, illetve a tartozékok rendeltetésszerű, a körülményekhez igazodó cseréje kivételével – végrehajtott módosítás, továbbá a lőfegyver működőképességének helyreállítása;
 - 18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver-, lőfegyverdarab-, lőszer-, illetve lőszerelem-gyártás, kereskedelem, közvetítő kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
-- 19. forgalmazás: lőfegyver, lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
+- 19. forgalmazás: lőfegyver, – a lőszer ideiglenes átvétele, valamint a lőszer továbbadása kivételével – lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
 - 20. lőfegyver- és lőszerkészítés (a továbbiakban: gyártás): lőfegyver, lőszer, lőfegyverdarab, flóberttöltény és lőszeralkatrész elkészítése, az elkészített alkatrészek készre szerelése, valamint a lőfegyver olyan megmunkálása, amely azt az eredetitől eltérő kaliberjelű lőszer használatára teszi alkalmassá;
 - 21. lőfegyvertartás: a birtoklás, a viselés és a tárolás;
 - 22. lőszer: olyan egybeszerelt töltény, amely lövedéket, lőport, továbbá gyúelegyet tartalmaz;
@@ -82,6 +82,8 @@ a lőfegyverekről és lőszerekről
 - 50. egyedi jóváhagyást igénylő lőfegyver: az a lőfegyver, amelynek az engedély nélküli megszerzését és tartását, illetve amelyre nézve az adott tevékenység engedély nélküli végzését e törvény kizárja;
 - 51. működőképes lőfegyver: a 16. pontban meghatározott légfegyver, valamint a 29. pont b)–d) alpontjában meghatározott tűzfegyver kivételével a tűzfegyver.
 - 52. a lőfegyverhez (tűzfegyverhez) tartozó (használható) lőszer: kaliberjelére való tekintet nélkül a jogszerűen tartott lőfegyverhez (tűzfegyverhez) rendeltetésszerűen használható lőszer, ha annak a lőfegyverrel (tűzfegyverrel) – az engedélyezett célra – történő együttes használatát a jogszabály nem zárja ki.
+- 53. lőszer ideiglenes átvétele: az átadás és az átengedés esetét ide nem értve a lőszernek közvetlenül a tartására jogosulttól a továbbadás céljából megvalósuló, ellenérték nélküli megszerzése;
+- 54. lőszer továbbadása: az átadás és az átengedés esetét ide nem értve az ideiglenes átvétel keretében megszerzett lőszernek közvetlenül a tartására jogosult részére történő, ellenérték nélküli rendelkezésre bocsátása.
 
 ### A HATÓSÁGI ENGEDÉLYEZÉS SZABÁLYAI
 
@@ -96,9 +98,11 @@ a lőfegyverekről és lőszerekről
 - e) a muzeális fegyver gyártásához, javításához, forgalmazásához, sportlövészeti célú használatához, illetve az elöltöltő fegyver vadászati célú használatához,
 - f) a polgári rendeltetésű lőtér, a lőfegyver- és lőszertárolóhely üzemeltetéséhez, valamint lövészetvezetői tevékenység végzéséhez.
 
-(2) Az (1) bekezdés c) pontjában meghatározott eszköz – a (2a) bekezdésben meghatározott kivétellel – a tartására jogosító engedély birtokában szerezhető meg. A rendőrség az engedélyt visszavonja, ha a jogosult az abban meghatározott eszközt az engedély kiállításától számított 90 napon belül nem szerzi meg.
+(2) Az (1) bekezdés c) pontjában meghatározott eszköz – a (2a) és a (2b) bekezdésben meghatározott kivétellel – a tartására jogosító engedély birtokában szerezhető meg. A rendőrség az engedélyt visszavonja, ha a jogosult az abban meghatározott eszközt az engedély kiállításától számított 90 napon belül nem szerzi meg.
 
 (2a) A 3/A. § (6) bekezdése alapján kiadott engedély az abban meghatározott tűzfegyver adásvétel útján történő megszerzésére nem jogosít.
+
+(2b) A lőszer ideiglenes átvétele keretében – az e törvényben, valamint a Kormány rendeletében meghatározottak szerint – a lőfegyverhez tartozó (használható) lőszertől különböző lőszer is megszerezhető.
 
 (3) Az (1) bekezdés c) pont ca) alpontjában meghatározott engedéllyel rendelkező személy vagy szervezet az engedélyben nem szereplő – az engedélyben meghatározott célra rendelt és az adott célra jogszerűen tartható – tűzfegyvert, lőfegyverdarabot, az e törvény alapján lőfegyvernek minősülő légfegyvert, lőszerelemet, valamint a jogszerűen tartott működőképes lőfegyverhez tartozó (használható) lőszert az engedély birtokában szerezheti meg. A jogszerűen tartott működőképes lőfegyverhez tartozó (használható) lőszer megszerzéséhez a lőfegyvernek a tartására jogosító engedély meglétét igazoló hatósági igazolványba történő bejegyzése szükséges. Filmgyártási célra tartott lőfegyverhez, valamint a 2. § 29. pont b)–d) alpontjában meghatározott tűzfegyverhez lőszer nem szerezhető meg. A központi gyújtású félautomata tűzfegyverhez való, 20 lőszert meghaladó befogadóképességű töltőszerkezet, illetve a hosszú tűzfegyverhez való, 10 lőszert meghaladó befogadóképességű töltőszerkezet kizárólag az ilyen tűzfegyver tartására jogosító engedély birtokában szerezhető meg. A hangtompító az annak tartására, vagy – ha a hangtompító tartását a jogszabály a lőfegyver tartására való jogosultság alapján is lehetővé teszi, – a lőfegyver tartására jogosító engedély birtokában szerezhető meg, a lőfegyver tartására való jogosultság alapján abban az esetben, ha a hangtompító felszerelésére alkalmas lőfegyvert a tartására jogosító engedély meglétét igazoló hatósági igazolványba bejegyezték.
 
@@ -366,6 +370,25 @@ meghatározott hatósági feladatokat.
 
 megőrzi.
 
+### A lőszer ideiglenes átvételének, továbbadásának szabályai
+
+11/B. § (1) A 3. § (2b) bekezdése alapján kizárólag vadászlőfegyverhez, illetve sportlőfegyverhez tartozó lőszer szerezhető meg, abban az esetben, ha
+
+- a) a vadászlőfegyverhez tartozó lőszert megszerző személy rendelkezik lőfegyver tartására jogosító engedéllyel és érvényes vadászjeggyel, illetve
+- b) a sportlőfegyverhez tartozó lőszert megszerző személy rendelkezik a sportlőfegyver tartására jogosító engedéllyel.
+
+(2) A 3. § (2b) bekezdése alapján megszerzett lőszer legfeljebb 1 évig tárolható; ha e határidőn belül annak továbbadására nem került sor, a 3. § (2b) bekezdése alapján megszerzett lőszert haladéktalanul le kell adni a rendőrségen.
+
+(3) A 3. § (2b) bekezdése alapján megszerzett lőszer egyidejűleg tárolt mennyisége nem haladhatja meg a Kormány rendeletében meghatározott mennyiséget.
+
+(4) A (2) bekezdés alapján tárolt lőszer nem használható, nem szerelhető szét, nem vihető ki az ország területéről és – a továbbadás kivételével – nem idegeníthető el.
+
+11/C. § (1) A lőszer ideiglenes átvételéről, illetve továbbadásáról a Kormány rendeletében meghatározott adatokat tartalmazó magánokiratot kell készíteni.
+
+(2) A lőszer ideiglenes átvételéről készült magánokiratot a lőszert megszerző személy az okirat kiállításától számított öt évig köteles megőrizni.
+
+(3) A lőszer továbbadásáról készült magánokirat 1-1 példányát a (2) bekezdésben meghatározott személy, valamint a lőszert tőle megszerző személy – jogi személy esetén a vezető tisztségviselő vagy jogi személyiséggel nem rendelkező szervezet esetén a tevékenységért felelős vezető – az okirat kiállításától számított öt évig köteles megőrizni.
+
 ### A lőfegyver-kereskedőkre vonatkozó szabályok
 
 12. § (1) A lőfegyver-kereskedő a lőfegyver, a lőszer, illetve a lőszerelem forgalmazásakor köteles
@@ -540,6 +563,20 @@ ha azt nem a bejelentés előterjesztésére jogosult ügyfélkapuján keresztü
 
 (2) Az (1) bekezdés szerinti állatvédelmi tájékoztató szövegét a természetvédelemért felelős miniszter rendeletben állapítja meg.
 
+18/K. § (1) A polgári célú pirotechnikai tevékenység feltételeként előírt képesítés megszerzéséhez kapcsolódó képzési tevékenység (e § alkalmazásában a továbbiakban: képzési tevékenység) szervezését és lebonyolítását engedélyező szerv a képzési tevékenység végzésére jogosultakról nyilvántartást vezet, amely tartalmazza
+
+- a) a jogosult nevét,
+- b) a jogosult lakcímét – szervezet esetében a székhelyét –, levelezési címét, telefonszámát, elektronikus levelezési címét,
+- c) a jogosult képviselőjének nevét és tisztségének megnevezését,
+- d) a jogosult részére engedélyezett képzési tevékenység megjelölését, valamint
+- e) a jogosultnak a felnőttképzési államigazgatási szerv általi nyilvántartásba vétel során generált nyilvántartásba vételi számát és az e § szerinti nyilvántartásba történő felvétele időpontját.
+
+(2) Az (1) bekezdés a)–c) pontjában meghatározott adataiban bekövetkezett változást a jogosult tizenöt napon belül köteles bejelenteni a képzési tevékenység szervezését és lebonyolítását engedélyező szervnek.
+
+(3) Az (1) bekezdés e) pontjában meghatározott, valamint az e § szerinti nyilvántartásból való törlés időpontjára és okára vonatkozó adatokat a jogosultnak az e § szerinti nyilvántartásból való törlésétől számított 5 évig meg kell őrizni.
+
+(4) Az (1) bekezdés a) és c)–e) pontjában meghatározott adatokat – a jogosultnak az e § szerinti nyilvántartásból való törléséig – a képzési tevékenység szervezését és lebonyolítását engedélyező szerv nyilvánosan elérhetővé teszi.
+
 ### ZÁRÓ RENDELKEZÉSEK
 
 ### Hatálybalépés
@@ -578,7 +615,7 @@ ha azt nem a bejelentés előterjesztésére jogosult ügyfélkapuján keresztü
 
 22. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-- a) a lőfegyverek – ideértve a filmgyártási célú lőfegyvereket is – és más fegyverek, a lőszerek, valamint a gáz-, a riasztó és a vaktöltények gyártását, javítását, átalakítását, szállítását, hatástalanítását, forgalmazását, megszerzését, tartását, kiállítását, behozatalát, kivitelét, átszállítását, használatát, a hatástalanított lőfegyverek tartását és forgalomba hozatalát, az engedélyek és a bejelentések tartalmi, formai követelményeit, valamint az ezekkel összefüggő nyilvántartás és az e nyilvántartásba, illetve az abból történő adatszolgáltatás eljárási szabályait,
+- a) a lőfegyverek – ideértve a filmgyártási célú lőfegyvereket is – és más fegyverek, a lőszerek, valamint a gáz-, a riasztó és a vaktöltények gyártását, javítását, átalakítását, szállítását, hatástalanítását, forgalmazását, megszerzését, tartását, kiállítását, behozatalát, kivitelét, átszállítását, használatát, a 3. § (2b) bekezdése alapján megszerzett lőszer, egyidejűleg tárolható mennyiségét és a lőszer ideiglenes átvételéről, továbbadásáról készült magánokirat adattartalmát, a hatástalanított lőfegyverek tartását és forgalomba hozatalát, az engedélyek és a bejelentések tartalmi, formai követelményeit, valamint az ezekkel összefüggő nyilvántartás és az e nyilvántartásba, illetve az abból történő adatszolgáltatás eljárási szabályait,
 - b) a polgári célú pirotechnikai termékek körét, a polgári célú pirotechnikai tevékenység folytatásának feltételeire és hatósági felügyeletére, továbbá az e tevékenységre jogosító további engedélyezési feltételekre, az engedélyek kiadásának rendjére, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, a nyilvántartás vezetésére, valamint az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek meg nem tartásának esetén alkalmazandó jogkövetkezményekre vonatkozó részletes szabályokat és a polgári célú pirotechnikai termékek felhasználásával, valamint a felhasználáshoz szükséges segédeszközök használatával kapcsolatos biztonsági szabályzatot,
 - c) a 3. § (1) bekezdése, valamint a 4/F. § szerinti közigazgatási hatósági ügyek ágazati intézményi szabályait és az ezen ügyek elbírálására irányuló közigazgatási hatósági eljáráshoz, illetve az azzal összefüggő hatósági ellenőrzéshez kapcsolódó kiegészítő eljárási rendelkezéseket,
 - d) a 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyek ágazati intézményi szabályait és az ezen ügyek elbírálására irányuló közigazgatási eljáráshoz, illetve az azzal összefüggő hatósági ellenőrzéshez kapcsolódó kiegészítő eljárási rendelkezéseket.

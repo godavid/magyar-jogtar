@@ -127,7 +127,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 12. § (1) Az eljárásban – törvény eltérő rendelkezése hiányában – kérelmező az eljárást kezdeményező személy; kérelmezett, akivel szemben az eljárást megindítják, feltéve, hogy van az eljárásban a kérelmezővel szemben álló személy.
 
-(2) Az eljárásban a jogi képviselet nem kötelező, kivéve, ha törvény eltérően rendelkezik.
+(2) Az eljárásban a jogi képviselet nem kötelező, kivéve, ha törvény eltérően rendelkezik. Ha az eljárás során a fél jogi képviselővel jár el, az a Pp. 244. §-ának alkalmazása szempontjából nem minősül a jogi képviselővel történő eljárás választásának.
 
 (3) Ha a közjegyző az eljárás során pénzt vesz át, annak kezelésére a bizalmi őrzés szabályait kell megfelelően alkalmazni, azzal az eltéréssel, hogy ezen pénzösszegeket azonos számlán kezeli, és a pénzösszeg után annak átadója, illetve átvevője kamatra, a közjegyző pedig a pénzösszeg kezelésével járó költségekre nem tarthat igényt.
 
@@ -291,7 +291,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (4) A szakértő díját megállapító végzés ellen a kérelmező és a szakértő fellebbezéssel élhet. A fellebbezésnek csak a kifogásolt összeg erejéig van halasztó hatálya.
 
-(5) A közjegyző a végzés jogerőre emelkedését követően intézkedik a szakértői díjnak a szakértő részére történő kifizetése iránt. A szakértői díj kifizetésére a szakértői díj kifizetését szabályozó jogszabály rendelkezései megfelelően irányadóak. A szakértő a szakértői díj megfizetéséről a számlát a kérelmező nevére állítja ki.
+(5) A közjegyző a végzés jogerőre emelkedését követően intézkedik a szakértői díjnak a szakértő, a szakértő által felszámított és a fél által megelőlegezett képzési hozzájárulásnak – a képzési hozzájárulás mértékét, bevallásának és megfizetésének részletes szabályairól szóló jogszabályban meghatározottak szerint – a névjegyzéket vezető hatóság részére történő kifizetése iránt. A szakértő a szakértői díj megfizetéséről, a névjegyzéket vezető hatóság a képzési hozzájárulás megfizetéséről a számlát a kérelmező nevére állítja ki.
 
 27/A. § A közjegyző a szakértői véleményt a kérelmezőn kívül kizárólag bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére vagy adatkérésére küldheti meg, ha a megkereső vagy az adatszolgáltatást kérő törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére és megjelölte annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult. Ezek a szabályok alkalmazandók a szakértői véleménybe való betekintés engedélyezésére is.
 
@@ -562,7 +562,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
   - ae) állampolgársága,
 - b) az élettársi kapcsolat fennállásáról szóló nyilatkozat,
 - c) nyilatkozat arról, hogy az élettársi nyilvántartásba bejegyzett élettársi kapcsolat már nem áll fenn,
-- d) az az időpont, amikor az anyakönyvi bejegyzés szerint a nyilvántartásba bejegyzett élettársi kapcsolat a kérelmezők bármelyikének házassága, bejegyzett élettársi kapcsolata vagy halála miatt megszűnt,
+- d) az a tény, hogy az anyakönyvi bejegyzés szerint a nyilvántartásba bejegyzett élettársi kapcsolat a kérelmezők bármelyikének házassága, bejegyzett élettársi kapcsolata vagy halála miatt megszűnt,
 - e) a nyilatkozatot a nyilvántartásba bejegyző közjegyző neve, székhelye és a bejegyzésről szóló végzés ügyszáma.
 
 (5)
@@ -659,6 +659,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 - c) a vagyonjogi szerződést tartalmazó közokirat ügyszámát és keltét, az ügyvéd által ellenjegyzett magánokirat keltét,
 - d) a közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a bejegyzés időpontját,
 - e) a szerződés megszüntetése vagy megszűnése esetében ennek tényét és a bejegyző közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a bejegyzés időpontját.
+- f) azt, hogy az anyakönyvi bejegyzés szerint az élettársi kapcsolat vagy a házasság a kérelmezők bármelyikének halála miatt megszűnt.
 
 (2) A nyilvántartás adatairól közigazgatási hatóság, közigazgatási szerv, bíróság, bírósági végrehajtó, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, terrorizmust elhárító szerv, nemzetbiztonsági szolgálat, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szerv az országos kamarától közvetlen hozzáféréssel adatot igényelhet. Az adatigénylés megkezdésekor az annak alapjául szolgáló eljárás tárgyát és ügyszámát, az igényelt adat tekintetében az adatigénylőt az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adatkezelésre feljogosító törvényi rendelkezést, valamint az adott személy beazonosításához szükséges valamennyi adatot elektronikus úton az országos kamara rendszere számára rendelkezésre kell bocsátani.
 
@@ -683,7 +684,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 
 (9) Az országos kamarának biztosítania kell az adatok megismeréséhez szükséges technikai eszközöket. A napló adatait az országos kamara a (2) bekezdésnek megfelelően eljárva továbbítja.
 
-(10)
+(10) Az országos kamara az (1) bekezdés b) pontjában foglalt adatokban bekövetkezett változásokat és a nyilvántartásban szereplő személy halálára vonatkozó adatokat a nyilvántartásban átvezeti, e célból a polgárok személyi adatainak és lakcímének nyilvántartását vezető szervtől elektronikus úton adatot igényelhet.
 
 ### A közjegyző letéti eljárása
 

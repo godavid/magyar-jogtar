@@ -524,7 +524,7 @@ vonható vissza.
 
 köteles megőrizni, illetve tárolni.
 
-(12)
+(12) E fejezet alkalmazásában Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján történő készpénzfelvételnek minősül a forintban vezetett fizetési számláról a Posta Elszámoló Központot működtető intézmény – ideértve a Posta Elszámoló Központot működtető intézmény pénzforgalmi közvetítőjét is – által üzemeltetett POS terminál útján történő készpénzfelvétel is.
 
 (13) A fogyasztóval kötött szerződésben – annak részét képező egyéb szerződési feltételben – megállapított díj, költség vagy ezek számítási módja nem módosítható a fogyasztó számára kedvezőtlenül a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított rendelkezésekkel összefüggésben.
 

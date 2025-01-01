@@ -32,6 +32,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése;
 - s) kulturális infrastruktúra fejlesztése;
 - t) optimális birtokszerkezet kialakítása céljából.
+- u) fejlesztési befektetési területen beruházás megvalósítása céljából.
 
 3. § (1) Kisajátításnak akkor van helye, ha
 
@@ -57,7 +58,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
   - dd) híd vagy alagút építése, fejlesztése érdekében szükséges, amennyiben arra – országos közút vagy helyi közút építése, fenntartása, fejlesztése, üzemeltetése érdekében – közlekedésbiztonsági vagy közlekedéspolitikai szempontok alapján kerül sor,
   - de) közforgalmú kikötő, úszóműves kikötőhely, komp- és révátkelőhely, valamint más hajózási létesítmény, továbbá a víziközlekedés irányítására és a hajóút kitűzésére szolgáló jelek elhelyezése a parti ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza,
-  - df) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvényben meghatározott intermodális csomópont megvalósítása érdekében szükséges;
+  - df) a vasúti közlekedésről szóló törvényben meghatározott intermodális csomópont megvalósítása érdekében szükséges;
 - e) energiatermelés céljából, ha
   - ea) az ingatlan 50 MW vagy annál nagyobb teljesítményű erőmű építéséhez, bővítéséhez szükséges,
   - eb) az ingatlan 50 MW vagy annál nagyobb teljesítményű távhőtermelő létesítmény elhelyezéséhez szükséges,
@@ -107,10 +108,11 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében;
 - p) kulturális infrastruktúra fejlesztése keretében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti muzeális intézmény, könyvtár, közművelődési intézmény vagy közösségi színtér létesítése céljából;
 - q) optimális birtokszerkezet kialakítása céljából, ha a Nemzeti Földalap kezeléséért felelős szerv – a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerint – kezdeményezi.
+- r) fejlesztési befektetési területen olyan beruházás – az ipari parkot is ideértve – megvalósítása céljából, amely a 40/Y. § (2) bekezdése alapján közcélú kiemelt fejlesztési beruházás megvalósítását szolgálja.
 
 (2) Nem kell alkalmazni
 
-- a) a 3. § (1) bekezdés d) pontját, az (1) bekezdés d) pont da), db) és df) alpontja, k) pont ka) alpontja, o) pontja, valamint nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházások (a továbbiakban: nemzetgazdasági szempontból kiemelt jelentőségű beruházás) esetében,
+- a) a 3. § (1) bekezdés d) pontját, az (1) bekezdés d) pont da), db) és df) alpontja, k) pont ka) alpontja, o) pontja, valamint a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) szerinti kiemelt beruházás (a továbbiakban: kiemelt beruházás) esetében,
 - b) a 3. § (1) bekezdés c) pontját e paragrafus (1) bekezdés i) pont ia) alpontja, j) pontja, l) pont la) alpontja és m) pont ma) és mc) alpontja esetében.
 
 (3) Ha a közérdekű célnak a kisajátítandó ingatlanon történő megvalósítására építési engedélyt adtak ki, a kisajátítási hatóság a 3. § (1) bekezdés c) pontja szerinti feltételt csak akkor vizsgálja, ha az ügyfél valószínűsíti, hogy a közérdekű cél más ingatlanon is megvalósítható, és hogy a más ingatlanon történő megvalósítás a tulajdon kisebb sérelmével járna.
@@ -122,7 +124,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 jelentősen akadályozza vagy megszünteti.
 
-(2) Az (1) bekezdés a) pontja szerinti esetben a tulajdonos annak a szervnek a kisajátítási kérelem benyújtására vonatkozó kötelezését kérheti, akivel – a magyar építészetről szóló törvény szerint – az ingatlan adásvételére vonatkozó megállapodás a tulajdonos kezdeményezésétől számított öt éven belül nem jött létre.
+(2) Az (1) bekezdés a) pontja szerinti esetben a tulajdonos annak a szervnek a kisajátítási kérelem benyújtására vonatkozó kötelezését kérheti, akivel – a Méptv. szerint – az ingatlan adásvételére vonatkozó megállapodás a tulajdonos kezdeményezésétől számított öt éven belül nem jött létre.
 
 (3) Az (1) bekezdés b) pontja szerinti esetben a közérdekű cél jogosultjának a kisajátítási kérelem benyújtására vonatkozó kötelezését a tulajdonos a jog létesítésétől, vagy a létesítmény használatbavételi engedélye végrehajthatóvá válásától számított két évig kérheti.
 
@@ -376,7 +378,7 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 - a) az e törvény végrehajtására kiadott jogszabály szerint a kisajátítási tervet, az e törvény végrehajtására kiadott jogszabály szerinti esetben záradékkal ellátva;
 - b) a kisajátítást kérő bejelentését az ingatlan tulajdonosa és más ügyfelek nevéről, lakáscíméről (székhelyéről), ha ezek az adatok a kisajátítási terv elkészítését követően megváltoztak;
-- c) a kisajátítást kérő nyilatkozatát – kivéve az 5. § szerinti, valamint a nemzetgazdasági szempontból kiemelt jelentőségű ügyek közül nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő üggyé minősítő jogszabályban meghatározott beruházást (a továbbiakban: nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás) – arról, hogy a kártalanításhoz szükséges pénzügyi fedezet rendelkezésre áll;
+- c) a kisajátítást kérő nyilatkozatát – kivéve az 5. § szerinti, valamint a kiemelt közlekedési infrastruktúra-beruházást – arról, hogy a kártalanításhoz szükséges pénzügyi fedezet rendelkezésre áll;
 - d) a kisajátítás céljának megfelelően a 7. § szerinti dokumentumokat;
 - e) kisajátítást kérő harmadik személy esetében a tevékenység végzésére vonatkozó engedélyt, nem engedélyköteles tevékenység esetén létesítő okiratát;
 - f) a 8. § (6) bekezdése szerinti nyilatkozatokat, ennek hiányában annak igazolását, hogy a kisajátítást kérő a jogosultat a nyilatkozat beszerzése érdekében megkereste.
@@ -478,11 +480,11 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 #### 31. §
 
-31/A. § (1) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetében e törvény kisajátítási eljárásra vonatkozó rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+31/A. § (1) Kiemelt közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetében e törvény kisajátítási eljárásra vonatkozó rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) Az ügyintézési határidő meghosszabbításának nincs helye.
 
-(3) Ha jogszabály nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggésben az általános illetékességű területtől eltérő illetékességi terület meghatározásával jelöli ki az eljáró kisajátítási hatóságot (a továbbiakban: kijelölt kisajátítási hatóság), és ennek folytán a kisajátítási tárgyalásra nem az általános illetékességű kisajátítási hatóság hivatali helyiségében kerülne sor, a kijelölt kisajátítási hatóság a tárgyalást az általános illetékességű kisajátítási hatóság hivatali helyiségében tartja meg, kivéve, ha ez ellen valamennyi ügyfél – a kisajátítást kérőt ide nem értve – tiltakozik.
+(3) Ha jogszabály kiemelt közlekedési infrastruktúra-beruházással összefüggésben az általános illetékességű területtől eltérő illetékességi terület meghatározásával jelöli ki az eljáró kisajátítási hatóságot (a továbbiakban: kijelölt kisajátítási hatóság), és ennek folytán a kisajátítási tárgyalásra nem az általános illetékességű kisajátítási hatóság hivatali helyiségében kerülne sor, a kijelölt kisajátítási hatóság a tárgyalást az általános illetékességű kisajátítási hatóság hivatali helyiségében tartja meg, kivéve, ha ez ellen valamennyi ügyfél – a kisajátítást kérőt ide nem értve – tiltakozik.
 
 (4)
 
@@ -506,7 +508,7 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 (3) Az e §-ban foglaltak a kisajátítási hatóság e törvény szerinti egyéb eljárásokban hozott döntéseivel szemben kezdeményezett közigazgatási perek esetében megfelelően alkalmazandók.
 
-32/A. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggésben hozott kisajátítási döntéssel szemben indított közigazgatási perre a 32. §-ban foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
+32/A. § (1) A kiemelt közlekedési infrastruktúra-beruházással összefüggésben hozott kisajátítási döntéssel szemben indított közigazgatási perre a 32. §-ban foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A kisajátítási hatóság a keresetlevelet az ügy irataival együtt 3 napon belül továbbítja a bírósághoz.
 
@@ -533,6 +535,14 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 (2) A kisajátítást kérőnek az ingatlant a kisajátítási határozatban meghatározott határidőn belül a kisajátítás céljára fel kell használnia és a kisajátítási cél szerinti használatot a kisajátítási határozatban előírt időtartamig biztosítania kell.
 
 (3) Amennyiben a kisajátítás célja a (2) bekezdésben meghatározott időtartamon belül nem valósul meg, az ingatlan korábbi tulajdonosát visszavásárlási jog illeti meg. Az ingatlan korábbi tulajdonosának jogutód nélküli megszűnése esetén, vagy ha a korábbi tulajdonos (vagy annak jogutódja, örököse) a visszavásárlási jogról lemond, a visszavásárlási jog az állam, illetve az ingatlan fekvése szerinti önkormányzat tulajdonosi jogainak gyakorlóját illeti meg.
+
+(3a) A visszavásárlási jogról való lemondásnak kell tekinteni, ha az ingatlan tulajdonosának – a visszavásárlási árat is tartalmazó – felhívásának
+
+- a) közlésétől számított 180 napon belül a jogosult nem tesz a visszavásárlási jog gyakorlására vonatkozó jognyilatkozatot, vagy
+- b) közlése a jogosult részére azért nem lehetséges, mert
+  - ba) a jogosult személye nem állapítható meg egyértelműen,
+  - bb) a jogosult lakóhelye, tartózkodási helye, székhelye ismeretlen, vagy
+- c) a közlés egyéb körülmények folytán rendkívüli nehézséggel vagy számottevő késedelemmel járna azzal, hogy önmagában a jogosultak nagy száma nem minősül ilyen egyéb körülménynek.
 
 (4) E § rendelkezései a 4. § (1) bekezdés b), i) és j) pontja, l) pont la) alpontja és az 5. § szerinti esetekben történő kisajátítás esetében nem alkalmazhatók.
 
@@ -592,7 +602,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (9) A kisajátítási hatóság végzését közigazgatási perben a kérelmező és a szakértő támadhatja meg.
 
-37/D. § (1) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetén az ezen alcímben foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
+37/D. § (1) Kiemelt közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetén az ezen alcímben foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A kisajátítást kérő köteles kérni szakértő előzetes kirendelését, valamint a kisajátítási eljárásban az előzetes szakvélemény felhasználását.
 
@@ -600,13 +610,13 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 ### Előmunkálat
 
-38. § (1) A kisajátítás előtt az ingatlanon előmunkálatot csak különösen indokolt esetekben, az ingatlan rendeltetésszerű használatát a lehető legkevésbé korlátozva lehet végezni. Az előmunkálatok célja a kisajátítás előkészítése érdekében szükséges mérések, vizsgálatok elvégzése lehet. Nemzetgazdasági szempontból kiemelt jelentőségű beruházások esetében előmunkálatnak minősül a lőszermentesítés és a próbafeltárás, valamint a megelőző régészeti feltárás is, amennyiben az nem eredményezi az ingatlan helyreállíthatatlan változását. Amennyiben az ingatlan kisajátítására nem kerül sor, az előmunkálatok végzésére jogosult köteles az ingatlant a rendeltetésszerű használatra alkalmassá tenni.
+38. § (1) A kisajátítás előtt az ingatlanon előmunkálatot csak különösen indokolt esetekben, az ingatlan rendeltetésszerű használatát a lehető legkevésbé korlátozva lehet végezni. Az előmunkálatok célja a kisajátítás előkészítése érdekében szükséges mérések, vizsgálatok elvégzése lehet. Kiemelt beruházások esetében előmunkálatnak minősül a lőszermentesítés és a próbafeltárás, valamint a megelőző régészeti feltárás is, amennyiben az nem eredményezi az ingatlan helyreállíthatatlan változását. Amennyiben az ingatlan kisajátítására nem kerül sor, az előmunkálatok végzésére jogosult köteles az ingatlant a rendeltetésszerű használatra alkalmassá tenni.
 
 (2) A kisajátításhoz szükséges előmunkálatokra engedélyt kell kérni a kisajátítási hatóságtól. Az előmunkálatok engedélyezését a kisajátítást kérő és az előmunkálatokat végző szerv együttesen köteles kérni. A kérelemben meg kell jelölni az ingatlan adatait, a tulajdonos, a használó, az ingatlan-nyilvántartásban feltüntetett egyéb jogosult lakáscímét (telephelyét), az elvégezni kívánt előmunkálatokat és a kisajátítás célját. A kérelemben be kell mutatni azokat az adatokat és körülményeket, és csatolni kell azokat a dokumentumokat, amelyek a kisajátítás feltételeinek fennállását valószínűsítik, és az előmunkálatok végzésének szükségességét indokolják.
 
 (3) Az engedélyezés során a kisajátítási hatóság megvizsgálja, hogy kisajátítás feltételeinek fennállása a rendelkezésre álló adatok alapján valószínűsíthető-e, és annak érdekében az adott ingatlanon az adott előmunkálat elvégzése indokolt-e, illetve az az ingatlan rendeltetésszerű használatát milyen mértékben korlátozza. Ennek érdekében az ingatlan tulajdonosát (használóját) meghallgathatja. Az engedélyezésről szóló határozatot közölni kell az ingatlan tulajdonosával, használójával és az ingatlan-nyilvántartásban feltüntetett egyéb jogosulttal.
 
-(4) Nemzetgazdasági szempontból kiemelt jelentőségű beruházások céljára történő kisajátításhoz szükséges előmunkálat esetén a kisajátítást kérő önállóan is kérheti az előmunkálat engedélyezését.
+(4) Kiemelt beruházások céljára történő kisajátításhoz szükséges előmunkálat esetén a kisajátítást kérő önállóan is kérheti az előmunkálat engedélyezését.
 
 (5) Az előmunkálatot engedélyező határozat elleni közigazgatási per során azonnali jogvédelem biztosításának nincs helye.
 
@@ -870,6 +880,34 @@ kell érteni.
 
 (5) A 40/W. § szerinti eljárásban a kisajátítási hatóság az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti eljárás megindításának ténye feljegyzése és elidegenítési tilalom feljegyzése iránt keresi meg az ingatlanügyi hatóságot.
 
+### Fejlesztési befektetési terület
+
+40/Y. § (1) E törvény alkalmazásában fejlesztési beruházásnak minősül az olyan új beruházás vagy bővítés, amely
+
+- a) legalább 10 milliárd forint teljes költségigényű,
+- b) Magyarország, vagy legalább egy vármegye területének jelentős részére kiható gazdasági jelentőségű, és
+- c) munkahelyek tömeges elvesztésének elkerülését vagy új munkahelyek létesítését szolgálja.
+
+(2) Ha a fejlesztési beruházást törvény vagy kormányrendelet kiemelt beruházássá nyilvánítja, akkor a beruházásra a Méptv. 193. § (6) bekezdése szerinti közcélú kiemelt beruházásra vonatkozó szabályokat kell alkalmazni.
+
+(3) A Kormány rendeletében a fejlesztési beruházás területét fejlesztési befektetési területté nyilváníthatja, amelyben meghatározza a fejlesztési befektetési területet és a fejlesztési beruházás célját.
+
+(4) Fejlesztési befektetési terület elsősorban olyan területen alakítható ki, amely barnamezős területnek minősül. Ha a fejlesztési beruházással érintett település területén barnamezős terület található, és az a területhez illeszthető és a fejlesztési beruházás megvalósítását nem teszi aránytalanul költségesebbé, akkor a Kormány a területet a barnamezős területtel együtt nyilvánítja fejlesztési befektetési területté. Amennyiben az előzőek egyike sem megvalósítható, úgy kivételesen, a feltétlenül szükséges mértékben fejlesztési befektetési terület olyan területen is kialakítható, amely a fejlesztési befektetési terület kijelöléséről szóló kormányrendelet hatályba lépését megelőzően nem minősült barnamezős területnek.
+
+40/Z. § (1) A fejlesztési befektetési területen fekvő, állami tulajdonban álló ingatlanok és az azok rendeltetésszerű használatához kapcsolódó ingóságok a Kormány rendeletében kijelölt, 100%-ban állami tulajdonban álló gazdasági társaság (a továbbiakban: Társaság) tulajdonosi joggyakorlása alá tartoznak.
+
+(2) A Társaság a fejlesztési beruházás megvalósításához szükséges ingatlan és ingó vagyonelemeket az állam nevében eljárva, az állam javára polgári jogi úton megszerezheti, ennek sikertelensége esetén a Társaság az állam nevében az ingatlan kisajátítását kezdeményezheti az állam javára.
+
+(3) A Társaság a fejlesztési befektetési területen fekvő és fejlesztési befektetési terület kijelöléséről szóló kormányrendelet hatályba lépése napján állami tulajdonban álló ingatlanok tekintetében intézkedik az ingatlanon, vagy annak egy részén más szerv vagy személy javára fennálló vagyonkezelési vagy hasznosítási – ide értve a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény szerinti hasznosítást is – szerződés módosítása vagy megszüntetése, illetve ezen jogok ingatlan-nyilvántartásból vagy földhasználati nyilvántartásból történő törlése érdekében. A Társaság a vagyonkezelési vagy hasznosítási jogviszony szabályai szerint az állam nevében elszámol a szerződés módosítása vagy megszüntetése során a szerződő féllel.
+
+(4) A Társaság a fejlesztési beruházás megvalósítása érdekében az (1) és (2) bekezdés szerinti
+
+- a) ingatlan fejlesztésre alkalmassá tételéhez szükséges feladatokat, így különösen a terület-előkészítést ellátja;
+- b) ingatlanokat és ingóságokat szükség szerint értékesíti;
+- c) ingatlanokat és ingóságokat fenntartja és hasznosítja.
+
+(5) A Társaság az (1) és (2) bekezdés szerinti ingatlanok és ingóságok tekintetében kizárólag a fejlesztési befektetési terület kijelöléséről szóló kormányrendelet szerinti célok elérése érdekében köthet azok fejlesztésével, értékesítésével, fenntartásával és hasznosításával kapcsolatos szerződést.
+
 ### Záró rendelkezések
 
 41. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2008. január 1-jén lép hatályba, rendelkezéseit – ide értve az általános forgalmi adó fizetésére vonatkozó kötelezettséget is – a hatálybalépését követően indult kisajátítási eljárásokra kell alkalmazni.
@@ -878,14 +916,20 @@ kell érteni.
 
 (3) Felhatalmazást kap a Kormány, hogy
 
-- a) a kisajátítási terv kötelező elemeire, elkészítésére, felülvizsgálására, záradékolására és a kisajátítási hatóság részére történő benyújtására,
-- b) a kártalanítás megfizetésének egyéb előírásaira, valamint az értékkülönbözet megfizetése tekintetében fizetési kedvezmény megadására
+- a) a kisajátítási terv kötelező elemeire, elkészítésére, felülvizsgálására, záradékolására és a kisajátítási hatóság részére történő benyújtására vonatkozó szabályokat,
+- b) a kártalanítás megfizetésének egyéb előírásaira, valamint az értékkülönbözet megfizetése tekintetében fizetési kedvezmény megadására vonatkozó szabályokat,
+- c) a fejlesztési befektetési területet és a fejlesztési beruházás célját
 
-vonatkozó szabályokat rendeletben állapítsa meg.
+rendeletben állapítsa meg.
 
-(3a) Felhatalmazást kap a Kormány, hogy a kisajátítási hatóságot rendeletben jelölje ki.
+(3a) Felhatalmazást kap a Kormány, hogy
 
-(3b) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás kapcsán a szakértő előzetes kirendelése során a kisajátítást kérő által előzetesen letétbe helyezendő szakértői költségek összegét, vagy az összeg számításának módját rendeletben határozza meg.
+- a) a kisajátítási hatóságot,
+- b) a Társaságot
+
+rendeletben jelölje ki.
+
+(3b) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a kiemelt közlekedési infrastruktúra-beruházás kapcsán a szakértő előzetes kirendelése során a kisajátítást kérő által előzetesen letétbe helyezendő szakértői költségek összegét, vagy az összeg számításának módját rendeletben határozza meg.
 
 (4) Azok a nem igazságügyi szakértők, akik e törvény hatálybalépésének időpontjában, jogszabályi rendelkezés alapján kisajátítási eljárásban szakértőként való eljárásra jogosultak, e törvény hatálybalépését követő egy évig szakértőként kirendelhetők, eljárásukra az e törvény hatálybalépését megelőzően hatályos rendelkezéseket kell alkalmazni.
 

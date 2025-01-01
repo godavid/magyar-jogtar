@@ -1064,7 +1064,9 @@ szükséges hozzáférést.
 
 (3a) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése és a rehabilitációs szolgáltatások nyújtása céljából az 57/B. § (1) bekezdés 1. pont a) pont aa) és ac)–af) alpontjában, 1. pont b) és c) pontjában, valamint 2. és 3. pontjában szereplő adatokat közvetlen hozzáféréssel átveheti.
 
-(4)
+(3b) A nyugdíjbiztosítási igazgatási szerv nyugdíj-megállapítás céljából az 57/B. § (1) bekezdés 1. pont a) pont aa) és ac)–ae) alpontjában, 1. pont b)–d) pontjában szereplő adatokat az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel átveheti.
+
+(4) A pártfogó felügyelői szolgálatként a Kormány által kijelölt szerv a pártfogolt számára előírt külön magatartási szabályok ellenőrzése céljából az 57/B. § (1) bekezdés 1. pont a) pont aa) és ac)–ae) alpontjában, 1. pont c)–d) pontjában, 2. pont a) pont aa) alpontjában és 2. pont b) pont ba)–bc) alpontjában szereplő adatokat az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel átveheti.
 
 (5) A közfoglalkoztatott bérének a központi költségvetés által finanszírozott része folyósítása feltételeinek ellenőrzése érdekében a Magyar Államkincstár az adatbázisnak az 57/B. § (1) bekezdés 2. pont ab), ba), bb), bd) és bf) alpontjában, továbbá a 3. pont a) alpontjában szereplő adataiba tekinthet be.
 

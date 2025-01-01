@@ -215,6 +215,8 @@ a közjegyzőkről
 
 (2) Az (1) bekezdés b) pontjában meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a közjegyzői kinevezésre pályázó személy tekintetében a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény fennáll-e.
 
+17/B. § A közjegyzői kinevezésre irányuló pályázati eljárásban kötelező az elektronikus ügyintézés.
+
 18. § (1) A közjegyzői álláshelyet – a 20. §-ban foglalt kivétellel – pályázat útján kell betölteni.
 
 (2) A területi kamara elnöksége a közjegyzői szolgálat megszűnése miatt megüresedő vagy megüresedett közjegyzői állásról
@@ -576,7 +578,13 @@ kezeli.
 
 (6) A közjegyző iroda egyesüléséhez és szétválásához a területi kamara elnökségének előzetes engedélye, korlátolt felelősségű társasággá történő átalakuláshoz vagy annak kiválással történő létrehozásához a közjegyzői szolgálatnak a 22. § (1) bekezdés a) vagy d) pontjában meghatározott okból történő megszűnéséről kiállított igazolása szükséges.
 
-31/G. § A közjegyzői iroda végelszámolója csak közjegyző vagy közjegyzőhelyettes, illetve saját irodája tekintetében a nyugalmazott közjegyző lehet.
+31/G. § (1) A közjegyzői iroda végelszámolója – a (2) bekezdésben foglalt kivétellel – csak közjegyző, közjegyzőhelyettes, vagy az a személy lehet, aki a közjegyzői szolgálatának megszűnését megelőzően a közjegyzői iroda vezető tisztségviselője volt.
+
+(2) A közjegyzői iroda végelszámolására kerülhet sor a 31/F. § (4) bekezdés b) pontja szerinti megszűnési ok bekövetkezte esetén, ideértve azt is, ha az egyszemélyes közjegyzői iroda a közjegyző tag halála miatt szűnik meg. A végelszámolásról a megszűnési ok bekövetkeztétől számított 90 napon belül a közjegyzői iroda taggyűlése, az egyszemélyes közjegyzői iroda megszűnése esetén a közjegyző tag halálától számított 90 napon belül a közjegyző örökösei dönthetnek. Végelszámolóvá bárki választható, aki megfelel a végelszámolóra vonatkozó törvényi feltételeknek.
+
+(3) A (2) bekezdés szerint elhatározott végelszámolás alatt a közjegyzői iroda üzletszerű gazdasági tevékenységet nem folytathat, valamint a végelszámolás megszüntetésére és a közjegyzői iroda továbbműködésének, átalakulásának, egyesülésének vagy szétválásának elhatározására nem kerülhet sor.
+
+(4) Ha a (2) bekezdés szerinti esetben a végelszámolás feltételei nem állnak fenn, a (2) bekezdésben meghatározott döntéshozatallal a közjegyzői iroda felszámolása iránti kérelem benyújtására is sor kerülhet.
 
 ### V. Fejezet — A KÖZJEGYZŐ HELYETTESÍTÉSE
 
@@ -736,14 +744,17 @@ illetékességi területén.
 
 40. § A területi kamara székhelye a megnevezésében szereplő város.
 
-41. § A területi kamara jogai és feladatai különösen:
+41. § (1) A területi kamara jogai és feladatai különösen:
 
 - a) megválasztja és visszahívja a területi kamara elnökségét, elnökét, valamint számvizsgálóit,
 - b) meghatározza a kamarai hozzájárulást,
 - c) meghatározza a területi kamara éves költségvetését, ellenőrzi és elfogadja a költségvetési beszámolót,
 - d) jelentést, javaslatot készít, véleményt nyilvánít a Magyar Országos Közjegyzői Kamara számára a közjegyzők helyzetéről, szervezetéről és az őket érintő jogszabályok tervezetéről,
-- e) megállapítja a területi kamara szervezeti és működési szabályzatát,
-- f) szociális és jótékonysági alapokat hozhat létre.
+- e) megállapítja a területi kamara szervezeti és működési szabályzatát, továbbá – szervezeti és működési szabályzatában vagy attól elkülönülten – választási szabályzatát,
+- f) szabályzatban megállapíthatja a panaszkezelés, az adatkezelés, a kamarai hozzájárulás fizetése és a kamarai ügyvitel rendjét, valamint szabályzatot alkothat minden olyan kérdésről, amelyre jogszabály vagy a szervezeti és működési szabályzata feljogosítja,
+- g) szociális és jótékonysági alapokat hozhat létre.
+
+(2) Ha a területi kamara illetékességi területén legalább száz közjegyzői székhely található, a területi kamara a szervezeti és működési szabályzatától elkülönült választási szabályzatot alkot.
 
 42. § (1) A területi kamara a szükséghez képest, de évente legalább egyszer tart ülést.
 
@@ -1588,7 +1599,7 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
 (4) Ha a közjegyzői okiratot e törvény rendelkezései szerint a félnek, illetve képviselőjének, valamint a segédszemélynek aláírásával vagy kézjegyével kell ellátnia, az elektronikus közjegyzői okiratot e személy a közjegyző jelenlétében
 
 - a) legalább minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással látja el,
-- b) a Kormány rendeletében meghatározott azonosításra visszavezetett dokumentumhitelesítés szolgáltatással hitelesíti, vagy
+- b)
 - c) olyan aláírással látja el, amely olyan, törvényben vagy kormányrendeletben meghatározott szolgáltatás keretében jött létre, ahol a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adattal együtt vagy az alapján hitelesen igazolja; továbbá a szolgáltató az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább fokozott biztonságú elektronikus bélyegzővel és legalább fokozott biztonságú időbélyegzővel látja el.
 
 (5) Az elektronikus közjegyzői okiratot a közjegyző a (4) bekezdésben meghatározott személy általi aláírást követően hivatali elektronikus aláírásával és időbélyegzővel látja el.
@@ -1610,17 +1621,24 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
 
 113. § A közjegyző felel azért, hogy a közjegyzői okirat a valóságnak megfelelően tartalmazza a közjegyző jelenlétében történt tényeket.
 
-114. § (1) A közjegyzőt és a közjegyzőhelyettest az országos elnök feljogosíthatja, hogy az eljárás nyelvétől eltérő nyelven (a továbbiakban: idegen nyelv) készítsen közjegyzői okiratot, ennek igazolására nyelvi jogosítványt ad ki. Az országos elnök és az alkalmazásában álló közjegyzőhelyettes nyelvi jogosítványát – az országos kamara kérelmére – az igazságügyért felelős miniszter adja ki. A nyelvi jogosítvány számának a közjegyzői okiratból ki kell tűnnie.
+114. § (1) A közjegyzőt és a közjegyzőhelyettest az országos elnök az országos kamarai szabályzatban meghatározottak szerint vagy az igazságügyért felelős miniszter az igazságügyért felelős miniszter rendeletében meghatározottak szerint feljogosíthatja, hogy az eljárás nyelvétől eltérő nyelven (a továbbiakban: idegen nyelv) készítsen közjegyzői okiratot, ennek igazolására nyelvi jogosítványt ad ki. Az országos elnök és az alkalmazásában álló közjegyzőhelyettes nyelvi jogosítványát – az országos kamara kérelmére – az igazságügyért felelős miniszter adja ki. A nyelvi jogosítvány számának a közjegyzői okiratból ki kell tűnnie.
 
 (2) A nyelvi jogosítvánnyal rendelkező közjegyző az okiratot a felek választása szerint egy – a nyelvi jogosítványban szereplő vagy magyar – nyelven készíti el és adja ki.
 
-(3) Az országos elnök a nyelvi jogosítványt akkor adja ki, ha a közjegyző és a közjegyzőhelyettes a nyelvismeretét a nyelvi meghallgatáson megfelelően igazolta, és közjegyzőhelyettes esetén az alkalmazó közjegyző az adott nyelvre nyelvi jogosítvánnyal rendelkezik.
+(3) Az országos elnök vagy az igazságügyért felelős miniszter a nyelvi jogosítványt akkor adja ki, ha a közjegyző és a közjegyzőhelyettes a nyelvismeretét a nyelvi meghallgatáson megfelelően igazolta, és közjegyzőhelyettes esetén az alkalmazó közjegyző az adott nyelvre nyelvi jogosítvánnyal rendelkezik.
 
-(4) A nyelvi jogosítvány iránti kérelmet a közjegyző vagy közjegyzőhelyettes székhelye szerinti területi kamara terjeszti fel az országos elnökhöz, aki a meghallgatást követően dönt a nyelvi jogosítvány kiadásáról.
+(4) A nyelvi jogosítvány iránti kérelmet
+
+- a) a közjegyző vagy közjegyzőhelyettes székhelye szerinti területi kamara terjeszti fel az országos elnökhöz, vagy
+- b) a közjegyző vagy közjegyzőhelyettes közvetlenül terjeszti fel az igazságügyért felelős miniszterhez,
+
+aki a meghallgatást követően dönt a nyelvi jogosítvány kiadásáról.
+
+(4a) Az igazságügyért felelős miniszter a nyelvi jogosítvány kiadásáról történő döntéséről haladéktalanul értesíti az országos elnököt.
 
 (5) Ha a nyelvi jogosítvánnyal rendelkező közjegyzőhelyettes közjegyzői kinevezést kap, részére az adott nyelvre a nyelvi jogosítványt ki kell adni.
 
-(6) Az országos elnök a nyelvi jogosítványt visszavonja, ha
+(6) Az országos elnök, illetve az igazságügyért felelős miniszter a nyelvi jogosítványt visszavonja, ha
 
 - a) a közjegyző szolgálati viszonya megszűnik, vagy a közjegyzőhelyettest törölték a névjegyzékből,
 - b) a közjegyzőhelyettesnek nem áll fenn olyan munkaviszonya, amely esetében a közjegyző rendelkezik az adott nyelvre nyelvi jogosítvánnyal.
@@ -1671,7 +1689,20 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
 - f) előzetesen tájékoztassa a személyazonosság ellenőrzésével érintett személyt az ellenőrzés céljáról, módjáról és tartalmáról, a közjegyzői közreműködés megtagadásának kötelezettségéről és a 122. § (8) bekezdésében megjelölt bejelentési kötelezettségéről, valamint az ellenőrzés során megismert adatok kezeléséről,
 - g) ha a fél a közjegyzői okirat felolvasásánál, aláírásánál képviselő útján jár el, meggyőződjék a fél képviselőjének képviseleti jogosultságáról.
 
-(2) A tervezeten eszközölt változtatás és kiegészítés szövegének kivételével mellőzhető a felek által rendelkezésre bocsátott írásbeli tervezet felhasználásával készített közjegyzői okirat felolvasása, ha a jogi képviselővel eljáró jogi személy felek a közjegyző előtt együttesen kijelentik, hogy az okirat tervezetét megismerték és ezért kérik az okirat felolvasásának mellőzését. A felolvasás mellőzése nem érinti a közjegyzői okirat készítésével kapcsolatban előírt egyéb kötelezettségek teljesítését. Nincs lehetőség a felolvasás mellőzésére, ha a felek jogi képviselőjének bármelyike a 124. § a)–c) pontjában megjelölt személy.
+(2) A felolvasás mellőzhető, ha a fél, képviselő útján történő eljárás esetén a képviselő – több fél esetén a felek vagy képviselőjük – a 132. § (1) bekezdésében meghatározott alakiságokkal rendelkező – a készítendő közjegyzői okirattól elkülönült, de ahhoz fűzendő – okiratba foglaltan kijelenti – több fél vagy képviselők eljárása esetén együttesen kijelentik –, hogy az okirat tervezetét megismerte és elolvasta – több fél vagy képviselők eljárása esetén megismerték és elolvasták – és kéri – több fél vagy képviselők eljárása esetén együttesen kérik – az okirat felolvasásának mellőzését.
+
+(2a) A közjegyző a (2) bekezdés szerinti kérelem ellenére az okiratot felolvashatja.
+
+(2b) A közjegyző a (2) bekezdés esetén tájékoztatja a felet vagy feleket – képviselő útján történő eljárás esetén a képviselőt vagy képviselőket – a bírósági végrehajtásról szóló 1994. évi LIII. törvény 23/C. §-ában foglaltakkal megegyező tartalmi elemekről.
+
+(2c) A felolvasás mellőzése nem érinti a közjegyzői okirat készítésével kapcsolatban előírt egyéb kötelezettségek teljesítését.
+
+(2d) A felolvasás mellőzésére nincs lehetőség
+
+- a) abban az esetben, ha
+  - aa) a fél – képviselő útján történő eljárás esetén a képviselő – a 124. § a)–c) pontjában megjelölt személy, vagy
+  - ab) az okiratba foglalni kért jognyilatkozatok bármelyike csak személyesen tehető meg, vagy
+- b) végrendelet és más végintézkedés (a továbbiakban: végrendelet) közjegyzői okiratba foglalása során.
 
 (3) Ha a közjegyzői okirat felolvasása egy napon nem lehetséges, az okiratnak tartalmaznia kell a felolvasás napjait, valamint a felolvasás megszakításának és folytatásának időpontját is óra, perc pontossággal.
 
@@ -1679,7 +1710,7 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
 
 122. § (1) Ha a közjegyző a felet, képviselő útján történő eljárás esetén a képviselőt, illetve a segédszemélyt személyesen nem ismeri, személyazonosságáról és szükség esetén a személyi adatairól köteles meggyőződni
 
-- a) saját kezű aláírással és fényképpel ellátott hivatalos igazolványból,
+- a) a személyazonosság igazolására alkalmas hatósági igazolványból, vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerint digitálisan kiállított hiteles igazolásból,
 - b) a közjegyző által személyesen ismert vagy személyazonosságát az a) pont szerint igazoló két azonossági tanú közreműködésével.
 
 (2) A közjegyző a személyazonosítással érintett személy
@@ -1743,7 +1774,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 
 126. § (1) Az ügyleti tanúk általában a közjegyzői okirat felolvasásánál és aláírásánál vannak jelen.
 
-(2) A fél – képviselő útján történő eljárás esetén a képviselő – kérheti, hogy az ügyleti tanúk csak a közjegyzői okirat aláírásánál legyenek jelen; ilyenkor a fél – képviselő útján történő eljárás esetén a képviselő – a tanúk előtt kijelenti, hogy a közjegyzői okirat felolvasása megtörtént vagy kérte a közokirat felolvasásának mellőzését, az okirat tartalma a fél akaratával megegyező, és az okiratot a tanúk jelenlétében aláírja. Mindezeknek az okiratból ki kell tűnniük.
+(2) A fél – képviselő útján történő eljárás esetén a képviselő – kérheti, hogy az ügyleti tanúk csak a közjegyzői okirat aláírásánál legyenek jelen; ilyenkor a fél – képviselő útján történő eljárás esetén a képviselő – a tanúk előtt kijelenti, hogy a közjegyzői okirat felolvasása megtörtént vagy kérte a közokirat felolvasásának mellőzését, az okirat tartalma a fél akaratával megegyező, és az okiratot – ha erre képes – a tanúk jelenlétében aláírja vagy kézjegyével látja el. Mindezeknek az okiratból ki kell tűnniük.
 
 (3) Ha a fél – képviselő útján történő eljárás esetén a képviselő – vak, az ügyleti tanúk jelenléte a közjegyzői okirat felolvasásánál és aláírásánál is kötelező.
 
@@ -1763,7 +1794,7 @@ kommunikálhat.
 
 129. § A közjegyzői okiratnak tartalmaznia kell:
 
-- a) az eljárás helyét – a közjegyző hivatali helyiségén kívüli eljárása esetén az eljárás helyének pontos megjelölését –, évét, hónapját és napját,
+- a) az eljárás helyét – a közjegyzői hivatali helyiségben történő eljárás esetén a hivatali helyiségének (a 30. § szerinti irodájának) címét, a közjegyző hivatali helyiségén kívüli eljárása esetén az eljárás helye azonosításra alkalmas módon történő megjelölését –, évét, hónapját és napját,
 - b) a közjegyző családi és utónevét, továbbá székhelyét,
 - c) a természetes személy fél, az azonossági és az ügyleti tanúk, valamint az eljárt természetes személy képviselő és a tolmács családi és utónevét, illetve a nem természetes személy fél és az eljárt nem természetes személy képviselő elnevezését,
 - d) a jogügylet tartalmát, utalva az esetleges meghatalmazásra és az olyan mellékletre, amely nincs a közjegyzői okirathoz hozzáfűzve,
@@ -1801,7 +1832,7 @@ kommunikálhat.
 
 ### Végrendelet
 
-133. § (1) A közjegyzői okiratban foglalt végrendelet és más végintézkedés (a továbbiakban: végrendelet) érvényességéhez a 117. § (1)–(3) bekezdésében, valamint a 120–129 §-ban foglalt érvényességi kellékeken kívül az szükséges, hogy a végrendelkező személyesen jelentse ki végakaratát a közjegyző előtt, és ez magából a közjegyzői okiratból kitűnjék
+133. § (1) A közjegyzői okiratban foglalt végrendelet érvényességéhez a 117. § (1)–(3) bekezdésében, valamint a 120–129 §-ban foglalt érvényességi kellékeken kívül az szükséges, hogy a végrendelkező személyesen jelentse ki végakaratát a közjegyző előtt, és ez magából a közjegyzői okiratból kitűnjék
 
 (2) Az (1) bekezdésben foglalt rendelkezést a végrendelet visszavonására megfelelően alkalmazni kell.
 
@@ -1893,7 +1924,7 @@ kommunikálhat.
 
 142. § (1) Nyilatkozat vagy értesítés közlését a közjegyző akkor tanúsíthatja, ha a közlés vagy elmaradása jogkövetkezménnyel járhat.
 
-(2) A közjegyző a nyilatkozat vagy értesítés szövegét szó szerint jegyzőkönyvbe foglalja, és az okiratot postán ajánlott vagy tértivevényes küldeményként, illetve a Dáptv.-ben meghatározott módon a másik fél részére továbbítja. A közjegyző a jegyzőkönyvbe foglalt nyilatkozat vagy értesítés szövegét a nyilatkozattevő – képviselő eljárása esetén a képviselő – előtt felolvassa, e jegyzőkönyvet a nyilatkozattevőnek – képviselő eljárása esetén a képviselőnek – alá kell írnia. A közjegyző a nyilatkozat vagy értesítés közléséről a kérelmet előterjesztő félnek jegyzőkönyvet állít ki, amelybe belefoglalja a nyilatkozat vagy értesítés szó szerinti szövegét, a felek nevét, lakóhelyét, ennek hiányában tartózkodási helyét, illetve székhelyét, a feladás évét, hónapját, napját, a kérelmet előterjesztő kívánságára óráját is.
+(2) A közjegyző a nyilatkozat vagy értesítés szövegét szó szerint jegyzőkönyvbe foglalja, és az okiratot postán ajánlott vagy tértivevényes küldeményként, illetve a Dáptv.-ben meghatározott módon a másik fél részére továbbítja. A jegyzőkönyvet a nyilatkozattevőnek – képviselő eljárása esetén a képviselőnek – alá kell írnia. A közjegyző a nyilatkozat vagy értesítés közléséről a kérelmet előterjesztő félnek jegyzőkönyvet állít ki, amelybe belefoglalja a nyilatkozat vagy értesítés szó szerinti szövegét, a felek nevét, lakóhelyét, ennek hiányában tartózkodási helyét, illetve székhelyét, a feladás évét, hónapját, napját, a kérelmet előterjesztő kívánságára óráját is.
 
 (3) A másik fél írásbeli válaszát a közjegyző a jegyzőkönyvhöz csatolja, szóbeli válaszát jegyzőkönyvbe foglalja, és minderről értesíti a kérelmet előterjesztő felet.
 
@@ -2152,8 +2183,6 @@ alapján tanúsíthatja.
 
 174. § Ha az e törvényben szabályozott eljárásban a fél a kérelmét visszavonja vagy az eljárás lefolytatása a fél mulasztása miatt hiúsul meg, a közjegyző az eljárást végzéssel befejezetté nyilvánítja. E végzés ellen fellebbezésnek van helye. A jogerőre emelkedésről a felet külön értesíteni nem kell, de a fél kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.
 
-#### 174/A. §
-
 175. § (1) Ha a közjegyzői okirat elkészítéséhez vagy a közjegyző által közokiratba foglalt jognyilatkozat joghatásának kiváltásához vagy a jognyilatkozat alapján történő nyilvántartási bejegyzéshez bíróság vagy más hatóság eljárása szükséges, a közjegyző azt az eljárás lefolytatása végett hivatalból megkeresi. A közjegyző megkeresésére indult eljárásban a közjegyzőt a közokiratban szereplő fél vagy felek képviselőjének jogállása illeti meg.
 
 (2) A közjegyző az (1) bekezdésben rögzítetten túlmenően jogi képviseletet nem láthat el.
@@ -2238,6 +2267,10 @@ alapján tanúsíthatja.
 
 (19) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 142. § (2) bekezdését az e rendelkezés módosításának hatálybalépését követően indult, a 142. § szerinti nyilatkozat vagy értesítés közlésének tanúsítása iránti eljárásokra kell alkalmazni.
 
+(20) Az az elektronikus közjegyzői okirat, amelyet az ügyfél a közjegyzői okiratszerkesztési eljárásban 2024. december 31-ig a 2024. augusztus 31-én hatályos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással írt alá és ezt követően a közjegyző azt hivatali elektronikus aláírásával látta el, közjegyzői okiratnak minősül.
+
+(21) E törvénynek a jogi versenyképesség érdekében egyes törvények deregulációs célú módosításáról szóló 2024. évi LXXXV. törvénnyel módosított 41. § (1) bekezdés e) pontja szerinti választási szabályzatot a területi kamara 2026. december 31-ig alkotja meg. A szervezeti és működési szabályzat jóváhagyásának nem akadálya, ha a területi kamara a választási szabályzatát a szervezeti és működési szabályzatában állapította meg. A jogi versenyképesség érdekében egyes törvények deregulációs célú módosításáról szóló 2024. évi LXXXV. törvénnyel módosított 41. §-t a hatálybalépését megelőzően elfogadott szabályzatokra is alkalmazni kell.
+
 ### Felhatalmazás
 
 183. § Felhatalmazást kap a miniszter, hogy — a 12. § (3) bekezdésében foglaltakon túl — rendelettel állapítsa meg:
@@ -2255,6 +2288,7 @@ alapján tanúsíthatja.
 - k) a közjegyző okirat-szerkesztési, az okirat megőrzése iránti, a pénz, értéktárgy és értékpapír bizalmi őrzése iránti eljárására irányuló kérelem tartalmi és formai követelményeit,
 - l) a közjegyzői vizsga részletes szabályait.
 - m) az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalása esetén alkalmazandó okiratmintát.
+- n) a nyelvi jogosítvány kiadásának rendjét.
 
 183/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

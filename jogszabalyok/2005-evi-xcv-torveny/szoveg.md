@@ -307,7 +307,17 @@ szempontjai alátámasztják.
 
 (6) A fekvőbeteg-szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz- és fertőtlenítőszer-beszerzések országos központosított rendszeréről szóló kormányrendelet szerinti saját hatáskörben történő beszerzés keretében az intézeti gyógyszertár a gyógyszert az Állami Egészségügyi Tartalékkal való gazdálkodás feladatait ellátótól is beszerezheti.
 
-#### 13. §
+13. § (1) A gyógyszer beszerzését, raktározását, szállítását, forgalmazását, betegre szabott, automatizált gyógyszerosztását és a beteg részére történő átadását egyaránt magában foglaló, változó helyszínen végzett járóbeteg-szakellátáshoz és a személyes gondoskodás keretébe tartozó szakosított ellátáshoz kapcsolódó gyógyszerellátási tevékenységet végezni a gyógyszerészeti államigazgatási szerv által kiadott, e tevékenység végzésére jogosító engedély birtokában lehet.
+
+(2) Az (1) bekezdés szerinti tevékenységet végző – ha jogszabály másként nem rendelkezik – gyógyszert csak olyan gazdálkodó szervezettől szerezhet be, amely rendelkezik gyógyszer-nagykereskedelmi tevékenységre jogosító hatósági engedéllyel. Az (1) bekezdés szerinti tevékenységet végző gyógyszerellátást az egészségügyért felelős miniszter rendeletében meghatározott gyógyszerkörben nyújthat.
+
+(3) Az (1) bekezdés szerinti engedély iránti kérelmet a Kormány rendeletében meghatározott adattartalommal és mellékletekkel kell a gyógyszerészeti államigazgatási szervhez benyújtani.
+
+(4) Az (1) bekezdés szerinti engedélyt a gyógyszerészeti államigazgatási szerv akkor adja meg, ha a kérelmező megfelel az egészségügyért felelős miniszter rendeletében meghatározott követelményeknek. Az (1) bekezdésben meghatározott engedély kiadásának további feltétele, hogy a kérelmező rendelkezzen az (1) bekezdés szerinti tevékenysége során okozott kár megtérítésére vonatkozó felelősségbiztosítási szerződéssel. Az engedélyesnek teljesítenie kell a gyógyszerészeti államigazgatási szerv által az engedélyben előírt adatszolgáltatási, illetve mintabeküldési kötelezettséget.
+
+(5) A gyógyszerészeti államigazgatási szerv az (1) bekezdés szerinti engedély iránti kérelem tárgyában a kérelem beérkezéséről számított kilencven napon belül dönt. Az (1) bekezdés szerinti engedélyt a gyógyszerészeti államigazgatási szerv kormányrendeletben meghatározott határozott időre adja ki. Az e törvényben, az e törvény felhatalmazása alapján kiadott jogszabályokban előírt, valamint az (1) bekezdés szerinti engedélyben meghatározott követelmények betartását a gyógyszerészeti államigazgatási szerv ellenőrzi. Az ellenőrzésre a 20. §-ban foglaltakat kell alkalmazni.
+
+(6) Az (1) bekezdés szerinti engedéllyel kapcsolatos változásbejelentési kötelezettség, valamint az engedély módosításának szabályait a Kormány rendeletben határozza meg. Az engedély módosítása tárgyában a gyógyszerészeti államigazgatási szerv a kérelem beérkezésétől számított kilencven napon belül dönt.
 
 #### 14. §
 
@@ -504,13 +514,13 @@ szempontjai alátámasztják.
 
 hatósági ellenőrzése
 
-17. § (1) A gyógyszer, illetve a gyógyszer gyártási tételére vonatkozó – feltételezett – minőségi hibát, valamint a feltételezhetően hamisított gyógyszerre vonatkozó információt a forgalombahozatali engedély jogosultja, valamint a gyógyszerek nagykereskedelmében és a lakossági gyógyszerellátásban részt vevő gyógyszerész vagy a gyógyszertáron kívüli gyógyszerforgalmazást folytató üzlet, valamint a gyógyszert alkalmazó orvos a tudomásra jutást követően haladéktalanul köteles a gyógyszerészeti államigazgatási szervnek bejelenteni.
+17. § (1) A gyógyszer, illetve a gyógyszer gyártási tételére vonatkozó – feltételezett – minőségi hibát, valamint a feltételezhetően hamisított gyógyszerre vonatkozó információt a forgalombahozatali engedély jogosultja, valamint a gyógyszerek nagykereskedelmében, a lakossági gyógyszerellátásban, a 13. § (1) bekezdése szerinti tevékenységben, részt vevő gyógyszerész vagy a gyógyszertáron kívüli gyógyszerforgalmazást folytató üzlet, valamint a gyógyszert alkalmazó orvos a tudomásra jutást követően haladéktalanul köteles a gyógyszerészeti államigazgatási szervnek bejelenteni.
 
 (2) A feltételezett minőségi hiba bejelentője a bejelentéssel egyidejűleg köteles a minőség-ellenőrző vizsgálathoz szükséges – a külön jogszabályban meghatározott mennyiségű – gyógyszert is megküldeni.
 
 (2a) A gyógyszerészeti államigazgatási szerv jogosult bármely Magyarországon gyártott vagy forgalmazott gyógyszer minőségét és a gyártására vagy forgalmazására vonatkozó dokumentációját ellenőrizni, továbbá jogosult vizsgálat céljából saját költségére – kivéve, ha jogszabály a költséget másra nem terheli – mintát és ellenmintát beszerezni.
 
-(3) Ha a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében, illetve az (EU) 2016/161 rendeletben rögzített követelményeknek, vagy ha a minősége nem igazolható, továbbá ha minőségi hibájának gyanúja merül fel, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó döntés rendelkező részét és a megállapított tényállás összefoglaló ismertetését a közzététel napjának, az ügy számának és tárgyának, a forgalombahozatali engedély jogosultjának és az érintett gyógyszernek a megjelölésével a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+(3) Ha a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében, illetve az (EU) 2016/161 rendeletben rögzített követelményeknek, vagy ha a minősége nem igazolható, továbbá ha minőségi hibájának gyanúja merül fel, a gyógyszer előny/kockázat arányának, valamint a további biztonságos és hatásos alkalmazhatóság értékelését követően dönt a gyógyszer érintett gyártási tételére vonatkozó forgalmazás felfüggesztésének szükségességéről vagy annak a forgalomból történő kivonásának, illetve visszahívásának elrendeléséről. Az erről szóló, üzleti titkot nem tartalmazó döntés rendelkező részét és a megállapított tényállás összefoglaló ismertetését a közzététel napjának, az ügy számának és tárgyának, a forgalombahozatali engedély jogosultjának és az érintett gyógyszernek a megjelölésével a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
 
 (4)
 
@@ -892,7 +902,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 (6) Az engedélyezés előtti gyógyszerrendelés engedélyezési eljárása igazgatási szolgáltatási díjmentes.
 
-(7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát a 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala az Európai Unió területén még nem történt meg.
+(7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát a 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala Magyarország területén még nem történt meg.
 
 (8) Engedélyezés előtti gyógyszeralkalmazás keretében gyógyszert kiemelt közegészségügyi vagy járványügyi érdekkel összefüggő különös méltánylást érdemlő betegellátási érdekből az (1), (2) és (7) bekezdésben foglaltaktól a következő eltérésekkel lehet a gyógyszerészeti államigazgatási szerv engedélye alapján alkalmazni, amennyiben a már rendelkezésre álló klinikai evidenciákra tekintettel a gyógyszer alkalmazásától várható előny/kockázat arány kedvező:
 
@@ -978,6 +988,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 - h) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének engedélyezésére vonatkozó szabályokat,
 - i) a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok felügyeletére vonatkozó részletes szabályokat
 - j) a 25. § (2b) és (2h) bekezdése alapján engedélyezett gyógyszer alkalmazásának további feltételeit
+- k) a 13. § (1) bekezdés szerinti gyógyszerellátási tevékenység engedélyezésének eljárási szabályait
 
 rendeletben szabályozza.
 
@@ -997,7 +1008,7 @@ rendeletben szabályozza.
 - l) az emberi szervezetbe nem kerülő, illetve emberi szervezettel nem érintkező diagnosztikumok körét,
 - m) a Gyógyszerkönyvnek és a Vényminta Gyűjteménynek a gyógyszergyártók, a forgalmazók, az orvosok és a gyógyszerészek általi alkalmazásának elrendelését,
 - n) a gyógyszerek címkéjére és a betegtájékoztatóra vonatkozó szabályokat,
-- o) a gyógyszertár által történő gyógyszer kiszolgáltatás formáit és szakmai szabályait, illetve a gyógyszerészi gondozás szabályait,
+- o) a gyógyszertár általi gyógyszer-kiszolgáltatás formáit és szakmai szabályait, a 13. § (1) bekezdése szerinti gyógyszerellátás keretében a gyógyszerátadás szakmai szabályait, illetve a gyógyszerészi gondozás szabályait,
 - p) a gyógyszerek ártalmatlanításának módját és a követendő eljárás rendjét, a kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerek esetén alkalmazandó fokozott biztonsági rendszabályokat, valamint a környezetvédelmi előírások betartásának ellenőrzését,
 - q) a fejlett terápiás gyógyszerkészítmények kórházi eseti gyártásának engedélyezési szabályait,
 - r) a gyógykezelt személy által a határátlépés során a gyógykezeléshez szükséges, kábítószerként vagy pszichotróp anyagként minősített gyógyszerekről kiállítandó kezelőorvosi igazolás nemzetközi előírásoknak megfelelő tartalmi és formai követelményeit,
@@ -1006,7 +1017,7 @@ rendeletben szabályozza.
 - u) a gyógyszerhiány kezelése és megelőzése érdekében a gyógyszerhiánnyal érintett gyógyszer forgalomba hozatali engedély jogosultja, a gyógyszer-nagykereskedő, az állami egészségügyi, katasztrófa- és védelmi készlet kezelője, az egészségbiztosítási szerv, valamint a gyógyszerészeti államigazgatási szerv közötti együttműködésre vonatkozó szabályokat
 - v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
 - w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
-- x)
+- x) a 13. § (1) bekezdése szerinti gyógyszerellátási tevékenység végzésének személyi és tárgyi feltételeit, valamint szakmai szabályait,
 - y) az engedélyezés, illetve a kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
 - z) a gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre, azok kezelésére vonatkozó részletszabályokat, illetve a biztonsági elemek kezelésére jogosultak körét
 

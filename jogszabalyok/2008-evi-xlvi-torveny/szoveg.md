@@ -217,7 +217,7 @@ gazdasági előny vagy haszonszerzés céljából.
 
 (2) Az (1) bekezdés szerinti jogszerű és objektív oknak minősül különösen, ha az élelmiszer összetételében vagy jellemzőjében jelentkező eltérést az e törvény végrehajtására kiadott rendeletben meghatározottak szerint jogszabály által előírt követelményeknek való megfelelés, valamely alapanyag élelmiszer-jelölésen feltüntetett eredete, időszakos jellege vagy a hazai fogyasztók egészséges és tápláló élelmiszerekhez való fokozottabb hozzáférése érdekében tett receptúramódosítás indokolja.
 
-14/C. § Az egészségügyért felelős miniszter – az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) egyetértésével – rendeletében határozhat meg az étrend-kiegészítők vagy azok egyes csoportjai tekintetében olyan feltételeket, amely feltételeknek nem megfelelő étrend-kiegészítők – az egészségügyért felelős miniszter rendeletében meghatározottak szerint – csak gyógyszertárban vagy az egészségügyért felelős miniszter rendeletében meghatározott feltételeknek megfelelő üzletekben forgalmazhatóak.
+14/C. § Az egészségügyért felelős miniszter – az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) és a kereskedelemért felelős miniszter egyetértésével – rendeletében határozhat meg az étrend-kiegészítők vagy azok egyes csoportjai tekintetében olyan feltételeket, amely feltételeknek nem megfelelő étrend-kiegészítők – az egészségügyért felelős miniszter rendeletében meghatározottak szerint – csak gyógyszertárban vagy az egészségügyért felelős miniszter rendeletében meghatározott feltételeknek megfelelő üzletekben forgalmazhatóak.
 
 15. § (1) Az élelmiszer fogyaszthatósági vagy minőségmegőrzési időtartamának megállapítása az előállító felelőssége.
 
@@ -303,11 +303,7 @@ az e törvény végrehajtására kiadott jogszabály szerint, írásbeli szerző
 
 (4) Amennyiben a műszaki felülvizsgálat eredményével a növényvédelmi gép üzemeltetője nem ért egyet, a műszaki felülvizsgálatot követő tizenöt napon belül az élelmiszerlánc-felügyeleti szervhez kifogást terjeszthet elő. Az élelmiszerlánc-felügyeleti szerv harminc napon belül elvégzi a növényvédelmi gép teljes körű műszeres vizsgálatát.
 
-### A mezőgazdasági gépek kezelésére vonatkozó követelmények
-
-17/C. § (1) Az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mezőgazdasági gépet az adott mezőgazdasági gép vonatkozásában mezőgazdasági gépkezelői jogosítványt (a továbbiakban: gépkezelői jogosítvány) szerzett személy kezelhet.
-
-(2) A gépkezelői jogosítvány megszerzésének feltétele – az e törvény végrehajtására kiadott rendeletben meghatározott felkészítő tanfolyamot követően – a miniszter által kijelölt intézmény által szervezett gépkezelői vizsga letétele vagy az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szakmai végzettség megléte.
+#### 17/C. §
 
 ### Az állattartó és az állatorvos jogai és kötelezettségei
 
@@ -382,7 +378,7 @@ terheli.
 
 (2) Az élelmiszer-, illetve takarmány-vállalkozás az élelmiszer, illetve a takarmány előállítását, valamint forgalomba hozatalát megelőzően az e törvény végrehajtására kiadott jogszabályban meghatározott részletes, írásos dokumentációt (így különösen gyártmánylapot, anyaghányad-nyilvántartást) köteles készíteni és vezetni.
 
-(3) Ha az élelmiszer- vagy takarmányvállalkozás információval rendelkezik arról vagy okkal feltételezi, hogy az általa behozott, előállított, feldolgozott, gyártott vagy forgalmazott termék nem felel meg az élelmiszer- vagy takarmánybiztonsági vagy -minőségi követelményeknek, és a termék már kikerült a közvetlen ellenőrzése alól, haladéktalanul kezdeményezi a termék forgalomból való kivonását és erről tájékoztatja az élelmiszerlánc-felügyeleti szervet.
+(3) Ha az élelmiszer- vagy takarmányvállalkozás információval rendelkezik arról vagy okkal feltételezi, hogy az általa behozott, előállított, feldolgozott, gyártott vagy forgalmazott termék nem felel meg az élelmiszer- vagy takarmánybiztonsági vagy -minőségi követelményeknek, és a termék már kikerült a közvetlen ellenőrzése alól, haladéktalanul kezdeményezi a termék forgalomból való kivonását, valamint az élelmiszer- vagy takarmányfelhasználóktól való visszahívását, és erről tájékoztatja az élelmiszerlánc-felügyeleti szervet.
 
 (4) Az élelmiszer- és a takarmányvállalkozás haladéktalanul tájékoztatja az élelmiszerlánc-felügyeleti szervet, ha információval rendelkezik arról vagy okkal feltételezi, hogy az általa forgalomba hozott termék ártalmas lehet az emberi vagy állati egészségre, és haladéktalanul bejelenti az élelmiszerlánc-felügyeleti szervnek a veszély megelőzésére tett intézkedéseket.
 
@@ -454,11 +450,11 @@ köteles e tevékenység folytatására irányuló szándékát az élelmiszerl�
 
 (2)
 
-27. § (1) E törvény szerinti élelmiszerlánc-felügyeleti állami feladatokat látnak el
+27. § (1) E törvény szerinti élelmiszerlánc-felügyeleti állami feladatokat lát el
 
 - a) a miniszter,
-- b) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző állami laboratóriumok,
-- c)
+- b) a kereskedelemért felelős miniszter,
+- c) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző állami laboratóriumok,
 - d) az élelmiszerlánc-felügyeleti szerv,
 - e) az országos főállatorvos.
 
@@ -489,20 +485,30 @@ köteles e tevékenység folytatására irányuló szándékát az élelmiszerl�
 - g) kiadja a takarmánykódex-irányelveket, és gondoskodik a Magyar Takarmánykódex összeállításáról és közzétételéről;
 - h) gondoskodik az Állat-egészségügyi és Állatvédelmi Kódex összeállításáról és közzétételéről;
 - i) gondoskodik a Növényvédelmi Módszertani Gyűjtemény összeállításáról és közzétételéről;
-- j) meghatározza a nemzetközi kötelezettségekkel, valamint az ország agrárgazdaságának céljaival összhangban az élelmiszerlánc-ellenőrzés feladatait;
+- j) meghatározza a nemzetközi kötelezettségekkel, valamint az ország agrárgazdaságának céljaival összhangban az élelmiszerlánc-ellenőrzés feladatait az általa irányított élelmiszerlánc-felügyeleti szerv vonatkozásában;;
 - k) kinevezi, illetve felmenti a közvetlen irányítása alá tartozó országos főállatorvost és annak helyettesét;
-- l) az országos főállatorvos útján ellátja az élelmiszerlánc-felügyeleti szerv szakmai irányítását, amelynek keretében közvetlen szakmai utasítást adhat az élelmiszerlánc-felügyeleti szervek részére hatósági eljárás lefolytatására
+- l) az országos főállatorvos útján ellátja – a kereskedelemért felelős miniszter által irányított, élelmiszerlánc-felügyeleti szervként kijelölt hatóság kivételével – az élelmiszerlánc-felügyeleti szerv szakmai irányítását, amelynek keretében közvetlen szakmai utasítást adhat az élelmiszerlánc-felügyeleti szervek részére hatósági eljárás lefolytatására
   - la) járványos állat- vagy növénybetegség megjelenése, valamint
   - lb) nagy egészségügyi kockázattal járó, nagy gazdasági kárral fenyegető, több vármegye területét érintő vagy Magyarország területén kívüli hatással is bíró élelmiszerlánc-esemény
 - m) rendkívüli élelmiszerlánc-esemény esetén meghatározza az állattartó létesítmények közötti védőtávolságot.
 
 esetén.
 
+### A kereskedelemért felelős miniszter feladatai
+
+28/A. § A kereskedelemért felelős miniszter az élelmiszerlánc-felügyelet területén
+
+- a) ellátja az általa irányított élelmiszerlánc-felügyeleti szerv tevékenységével összefüggő feladatokat,
+- b) ellátja az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott feladatokat,
+- c) közreműködik a nemzetközi kötelezettségekkel, valamint az ország agrárgazdaságának és kereskedelempolitikai céljaival összhangban az élelmiszerlánc-ellenőrzés feladatainak meghatározásában.
+
+### Az országos főállatorvos feladatai
+
 29. § Az országos főállatorvos
 
 - a) előkészíti a nemzeti középtávú élelmiszerlánc-biztonsági stratégiát (a továbbiakban: élelmiszerlánc-biztonsági stratégia);
 - b) kiadja a 47/A. § szerinti többéves tervet, irányítja annak végrehajtását, továbbá ellátja annak vonatkozásában a koordinációs és kapcsolattartói feladatokat;
-- c) ellátja az élelmiszerlánc-felügyeleti szerv operatív irányítását;
+- c) ellátja – a kereskedelemért felelős miniszter által irányított élelmiszerlánc-felügyeleti szerv kivételével – az élelmiszerlánc-felügyeleti szerv operatív irányítását;
 - d) szakmai útmutatót adhat ki az élelmiszerlánc egységes felügyeletének elősegítése céljából;
 - e) tájékoztatást ad a közvélemény részére az élelmiszerláncot érintő, országos vagy kiemelt jelentőségű ügyekről;
 - f) kijelöli a nemzeti referencialaboratóriumokat;
@@ -558,7 +564,7 @@ esetén.
 - h) ellátja az ökológiai termeléssel és integrált gazdálkodással, az ahhoz kapcsolódó élelmiszer-előállítással és forgalomba hozatallal, valamint a géntechnológiával módosított szervezetekkel, szaporítóanyagokkal, élelmiszerekkel és takarmányokkal kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatait;
 - i) feladatai ellátására ügyeleti és készenléti szolgálatot szervez, az e törvény végrehajtására kiadott jogszabály szerint kezeli a rendkívüli élelmiszerlánc-eseményeket;
 - j) az integrált többéves nemzeti ellenőrzési terv alapján kidolgozza az élelmiszerlánc valamennyi elemére kiterjedő, kockázat alapú, területi éves ellenőrzési tervet, irányítja, szervezi és ellenőrzi annak végrehajtását;
-- k) ellát az egyes élelmiszerlánc-felügyeleti feladatok végrehajtását segítő hazai és nemzetközi informatikai rendszerek használatával és működtetésével kapcsolatos feladatokat;
+- k) ellátja az egyes élelmiszerlánc-felügyeleti feladatok végrehajtását segítő hazai és nemzetközi informatikai rendszerek használatával és működtetésével kapcsolatos feladatokat;
 - l) feladatainak ellátása során folyamatosan kapcsolatot tart és együttműködik a települési önkormányzatokkal, a társhatóságokkal, valamint a civil szervezetekkel;
 - m) élelmiszer-fertőzés és -mérgezés, valamint emberről állatra vagy állatról emberre terjedő betegségek fellépése, illetve gyanúja esetén kölcsönös tájékoztatás mellett együttműködik az egészségügyi államigazgatási szervvel;
 - n) szakmai segítséget nyújt a nemzeti stratégiák kialakításában, valamint a laboratóriumok fejlesztési irányának meghatározásában;
@@ -589,9 +595,9 @@ esetén.
 - d) működteti a növényvédelem, továbbá a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal és növényvédelemmel kapcsolatos monitoring- és információs rendszerét;
 - e) biztosítja a növényvédelmi gépek műszaki felülvizsgálatára vonatkozó tevékenység szakmai felügyeletét.
 
-(4a) A 17. § (4) bekezdésében foglalt kötelezettséggel összefüggésben tett közérdekű bejelentés esetében 5 napon belül kell a helyszíni ellenőrzést lefolytatni és a közérdekű bejelentést elbírálni az 50. § (4) és (5) bekezdésében foglaltak szerint.
+(4a) A 17. § (4) bekezdésében foglalt kötelezettség elmulasztásával összefüggésben tett bejelentés esetében 5 napon belül e törvény végrehajtására kiadott rendeletben foglaltak szerint helyszíni ellenőrzést kell lefolytatni és a helyszíni ellenőrzésről készült jegyzőkönyvet haladéktalanul továbbítani kell az élelmiszerlánc-felügyeleti szerv részére a parlagfű elleni közérdekű védekezés elrendelése érdekében.
 
-(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
+(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása során
 
 - a) ellenőrzi a kockázatbecslés alapján kiemelten kockázatosnak minősített, élelmiszerláncot érintő tevékenységet végzőket, és azok létesítményeit;
 - b) ellenőrzi e törvény és a végrehajtására kiadott jogszabályok előírásainak betartását;
@@ -769,7 +775,7 @@ esetén.
 - 17. a Növényvédelmi Gépek Jegyzékében azokról a növényvédelmi géptípusokról, amelyekre a benyújtott nyilatkozat alapján forgalombahozatali engedélyt adott ki;
 - 18. a tanúsító szervezetekről;
 - 19. a gombaszakellenőrökről, a 853/2004/EK európai parlamenti és tanácsi rendelet III. melléklet IV. szakasz I. fejezet 2. pontja szerinti képzett személynek minősülő személyekről (a továbbiakban: vadhúsvizsgáló) és a hatósági állatorvos méhegészségüggyel kapcsolatos munkáját segítő, e törvény végrehajtására kiadott rendeletben meghatározott méhészeti ismeretekkel rendelkező személyekről (a továbbiakban: méhegészségügyi felelős);
-- 20. élelmiszerlánc-felügyeleti díj bevallására, illetve fizetésére kötelezettekről;
+- 20.
 - 21. a légi permetezés iránti kérelmekről és az ezzel kapcsolatos döntésekről;
 - 22. a növényorvosokról, a növényvédelmi gépek felülvizsgálatát végzőkről, a használatban lévő növényvédelmi gépekről, a növényvédelmi szolgáltatási tevékenységet végzőkről és a növényvédelmi munkavégzőkről;
 - 23. kistermelői élelmiszer előállítást és forgalmazást végzőkről;
@@ -805,11 +811,7 @@ esetén.
 
 (5) A vámhatóság az országos vámadatbázishoz hozzáférést biztosít az élelmiszerlánc-felügyeleti szerv részére, annak hatósági eljárásához szükséges mértékben, melynek során a személyes adatok körébe tartozó adatok közül az érintett nevét, címét is hozzáférhetővé teszi.
 
-(6) Az állami adóhatóság megkeresésre adatot szolgáltat az élelmiszerlánc-felügyeleti szervnek elektronikus úton a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj bevallására kötelezettek nyilvántartása céljából, a felügyeleti díj bevallására kötelezett adózó
-
-- a) nevéről (cégnevéről), lakcíméről (székhelyéről, telephelyéről, fióktelepéről), adóazonosító jeléről (adószámáról), születési helyéről és idejéről,
-- b) társasági adóbevallás szerinti éves nettó árbevételének összegéről, az egyszerűsített vállalkozási adó alapját képező bevételének összegéről, magánszemélyek esetében az önálló tevékenységből származó jövedelem és árbevétel összegéről az egyéni vállalkozói tevékenységből, illetve a mezőgazdasági őstermelői tevékenységből származó jövedelem és árbevétel vonatkozásában,
-- c) által végzett tevékenységekről.
+(6)
 
 (7) Az állami adó- és vámhatóság megkeresésre tájékoztatja az élelmiszerlánc-felügyeleti szervet az adó- és vámtitkot képező adatról vagy információról, ha az az ügyfél személyének azonosításához vagy az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátásához szükséges. Az állami adó- és vámhatóság az adózás rendjéről szóló törvényben meghatározott, az állami adó- és vámhatóság által működtetett EKAER-ben a 4. § szerint az élelmiszerlánc-felügyeleti szerv felügyeleti hatáskörébe tartozó termékekkel összefüggésben rögzített adatokat a rögzítést követően haladéktalanul, elektronikus úton továbbítja az élelmiszerlánc-felügyeleti szerv részére az ügyfél személyének azonosítása és az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátása céljából.
 
@@ -856,7 +858,7 @@ engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fog
 - l) a talaj, növény, növénytermesztés nyilvántartási, ellenőrzési és engedélyezési rendszerét;
 - m) a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos nyilvántartási, ellenőrzési, valamint kockázatelemzést megalapozó adatait;
 - n) vállalkozók által az élelmiszerlánc-felügyeleti szervhez beküldött önellenőrzési adatokat;
-- o) a 47/B. § (12) bekezdés szerinti rendszert;
+- o) a 38/B. § (1) bekezdés szerinti rendszert;
 - p) FELIR felhasználók természetes személyazonosító adatait.
 - q) a megújuló energiaforrásokból előállított energia használatát szolgáló biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fogyasztási, felhasználási adatait is.
 - r) az Elektronikus Gazdálkodási Naplóba rögzített adatokat.
@@ -911,6 +913,10 @@ való folyamatos hozzáférést.
 
 (10) Az élelmiszerlánc-felügyeleti szervtől a FELIR-ben nyilvántartott adatok, illetve az adatok meghatározott szempontú csoportosításban történő továbbítása rendszeres vagy eseti jelleggel is igényelhető.
 
+(10a) Az élelmiszerlánc-felügyeleti szerv a kereskedelemért felelős miniszter által irányított élelmiszerlánc-felügyeleti szerv részére az e törvényben meghatározott feladatai ellátása érdekében közvetlen hozzáférést biztosít a FELIR-ben tárolt egyedi és személyes adatokhoz.
+
+(10b) Az élelmiszerlánc-felügyeleti szerv az állami adó- és vámhatóság részére a felügyeleti díjjal kapcsolatos hatósági feladatai ellátása érdekében közvetlen hozzáférést biztosít a FELIR-ben tárolt egyedi és személyes adatokhoz.
+
 (11) Az élelmiszerlánc-felügyeleti szerv az agrárgazdasági elemzésekkel foglalkozó intézménnyel kötött megállapodásban rögzített ütemterv szerint ingyenes hozzáférést biztosít az agrárgazdasági elemzésekkel foglalkozó intézmény részére a FELIR-ben tárolt egyedi és személyes adatokhoz. Az agrárgazdasági elemzésekkel foglalkozó intézmény a lekérdezett adatokat kizárólag szakpolitikai, gazdaságelemzési, valamint statisztikai célra használhatja fel.
 
 (11a) Az élelmiszerlánc-felügyeleti szerv kockázatbecsléssel, adatelemzéssel összefüggő tudományos célra, valamint kutatás-fejlesztési és statisztikai célból a Magyar Állatorvostudományi Egyetem részére – szerződésben meghatározottak szerinti ütemezésben – ingyenesen hozzáférést biztosít a FELIR-ben tárolt egyedi adatokhoz.
@@ -959,7 +965,7 @@ adatait.
 - c) az élelmiszerlánc-felügyelet alá tartozó tevékenységét, továbbá
 - d) a tevékenység végzésének helyét
 
-az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni.
+az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni, amelyet az élelmiszerlánc-felügyeleti szerv erre a célra kialakított központi elektronikus rendszerének használatával kell teljesíteni.
 
 (2) Az élelmiszerlánc-felügyeleti szerv az ügyfél bejelentése alapján nyilvántartásba veszi az (1) bekezdés szerinti adatokat, és egyidejűleg FELIR azonosító számot (a továbbiakban: FELIR azonosító) állapít meg számára a nyilvántartásba vétel igazolására.
 
@@ -1170,7 +1176,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 - d) eljárása dokumentálására a helyszínen kép-, illetve hangfelvételt készíteni;
 - e) eljárásához szükséges vizsgálatok elvégzése céljából térítésmentesen mintát és ellenmintát venni;
 - f)
-- g) élelmiszerlánc-esemény alapos gyanúja esetén továbbá élelmiszerlánc-esemény elhárítása, illetve a felügyeleti díj bevallási és fizetési kötelezettség ellenőrzése érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére, illetve a jogosult távollétében is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
+- g) élelmiszerlánc-esemény alapos gyanúja esetén továbbá élelmiszerlánc-esemény elhárítása érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére, illetve a jogosult távollétében is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
 
 (1a) Az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő az e törvény végrehajtására kiadott jogszabályban meghatározott feladatok végzése során, valamint az ÉBC által megbízott, átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő, továbbá az ÉBC helyszíni ellenőrzésre feljogosított, megfelelő szakképzettséggel rendelkező munkavállalója az ÉBC hatáskörébe utalt hatósági feladatok végzése során jogosult az (1) bekezdés a)–e) pontjában meghatározott cselekmények végzésére
 
@@ -1209,7 +1215,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 - a) 35. cikk (1) bekezdése szerinti második szakvéleményhez, és
 - b) 35. cikk (3) bekezdése szerinti másik hatósági laboratórium által végzett újabb analízis, teszt vagy diagnosztika elvégzéséhez
 
-ellenmintát biztosít az e törvény végrehajtására kiadott rendeletben foglaltak szerint.
+ellenmintát biztosít.
 
 (2) Az (1) bekezdés szerinti ellenminta biztosítási kötelezettség nem áll fenn, ha
 
@@ -1273,61 +1279,59 @@ ellenmintát biztosít az e törvény végrehajtására kiadott rendeletben fogl
 
 ### Felügyeleti díj
 
-47/B. § (1) Az élelmiszerlánc-felügyeleti szerv részére, az élelmiszerlánc hatósági felügyeleti tevékenységével összefüggő feladatai ellátásának fedezése érdekében az élelmiszerlánc (2) bekezdésben meghatározott szereplői évente felügyeleti díjat kötelesek fizetni. A felügyeleti díj az élelmiszerlánc-felügyeleti szerv bevétele.
+47/B. § (1) Az élelmiszerlánc (2) bekezdésben meghatározott szereplői évente felügyeleti díjat kötelesek fizetni.
 
-(2) Felügyeleti díjat köteles fizetni az a természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, aki (amely):
+(2) Felügyeleti díjat köteles fizetni az a természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely:
 
 - a) az élelmiszer-termelési, tenyésztési, kísérleti célból tartott állatokat forgalomba hozza,
-- b) élelmiszer-, takarmány-termelési célból termesztett növényt, vetőmagot, növényi terméket, illetve az e törvény végrehajtására kiadott jogszabály szerinti szaporító és ültetési anyagot, forgalomba hozza,
+- b) élelmiszer-, takarmánytermelési célból termesztett növényt, vetőmagot, növényi terméket, illetve az e törvény végrehajtására kiadott jogszabály szerinti szaporító és ültetési anyagot, forgalomba hozza,
 - c) a 35. § szerint nyilvántartott vagy engedélyezett élelmiszer-vállalkozás,
-- d) a 35. és 36. § szerint nyilvántartott vagy engedélyezett takarmány-vállalkozás,
+- d) a 35. § és 36. § szerint nyilvántartott vagy engedélyezett takarmány-vállalkozás,
 - e) állatgyógyászati készítményt, állatgyógyászati terméket állít elő vagy forgalomba hozza,
 - f) engedélyköteles terméket, uniós termésnövelő anyagot, illetve EK-műtrágyát állít elő vagy forgalomba hoz,
 - g) állati eredetű melléktermék kezelését, felhasználását, további feldolgozását, szállítását végzi vagy az ezekből származó terméket forgalomba hozza,
-- h) élő állat szállítást végző vállalkozást, továbbá élőállat-szállító járművek mosását és fertőtlenítését végző helyet, az idegen állományból származó állatok fogadására kiválasztott elkülönítőt (karantént), állatrakodót, gyűjtőállomást, kereskedői telepet, etető-itató állomást, pihentető állomást, állatvásárt üzemeltet,
+- h) élő állat szállítást végző vállalkozást, továbbá élőállat-szállító járművek mosását és fertőtlenítését végző helyet, az idegen állományból származó állatok fogadására kiválasztott elkülönítőt, állatrakodót, gyűjtőállomást, kereskedői telepet, etető-itató állomást, pihentető állomást, állatvásárt üzemeltet,
 - i) szaporítóanyag előállítást és tárolást végez,
 - j) e törvény végrehajtására kiadott jogszabály szerint nyilvántartott vagy engedélyezett laboratóriumot üzemeltet,
 - k) az állatok jelölésére szolgáló eszközt forgalomba hoz.
 
-(3) A felügyeleti díj mértéke – a (4)–(6) bekezdésben foglalt eltéréssel – a felügyeleti díj fizetésére kötelezett (2) bekezdés szerinti tevékenységből származó, jövedéki adó, illetve népegészségügyi termékadó nélkül számított
+(3) A felügyeleti díj mértéke – a (6) és (7), valamint (9)–(11) bekezdésben foglalt eltéréssel – a felügyeleti díj fizetésére kötelezett (2) bekezdés szerinti tevékenységből származó, jövedéki adó, illetve népegészségügyi termékadó nélkül számított
 
-- a) előző naptári évi értékesítési nettó árbevételének, vagy
+- a) előző naptári évi értékesítés nettó árbevételének, vagy
 - b) – személyi jövedelemadó-bevallásra köteles természetes személy – előző naptári évi bevételének
 
 0,1%-a.
 
-(3a)
+(4) Költségvetési szerv esetében a (3) bekezdés a) pontja szerinti árbevétel a költségvetési szerv államháztartás számviteléről szóló kormányrendelet szerinti, vállalkozási tevékenységből származó, az eszközök és szolgáltatások értékesítése nettó eredményszemléletű bevétele.
 
-(4) A termelői szerveződésen vagy a termelői szerveződés, valamint annak tagjai kizárólagos tulajdonában lévő vállalkozáson keresztül történő forgalomba-hozatal után fizetendő felügyeleti díj mértéke a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás előző évi nettó árbevételéből, a (2) bekezdés szerinti tevékenységhez kapcsolódó rész 0,1%-a, amennyiben a felügyeleti díjfizetési kötelezettséget a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás szerződésben vagy egyoldalú jognyilatkozattal átvállalta a fizetésre kötelezett termelői szerveződés tagjától.
+(5) A (3) bekezdés szerinti értékesítés nettó árbevételének, illetve bevételnek nem része a felügyeleti díj fizetésére kötelezett által kapott, az államháztartásról szóló törvény szerinti támogatás összege.
 
-(4a) Felügyeleti díj bevallására és megfizetésére kötelezettnek minősül a (3) bekezdésben foglaltak szerint az, aki nem magyarországi illetékességű, de Magyarország területén a (2) bekezdés szerinti tevékenységet végez és a 38/B. § szerinti FELIR-azonosítóval rendelkezik, továbbá az állami adóhatóságnál regisztrált általános forgalmi adóalanynak minősül.
+(6) A termelői szerveződésen vagy a termelői szerveződés, valamint annak tagjai kizárólagos tulajdonában lévő vállalkozáson keresztül történő forgalomba hozatal után fizetendő felügyeleti díj mértéke a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás előző évi értékesítés nettó árbevételéből, a (2) bekezdés szerinti tevékenységhez kapcsolódó rész 0,1%-a, amennyiben a felügyeleti díjfizetési kötelezettséget a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás szerződésben vagy egyoldalú jognyilatkozattal átvállalta a fizetésre kötelezett termelői szerveződés tagjától.
 
-(5) A felügyeleti díj mértéke az elsődlegesen végső fogyasztó számára értékesítő felügyeleti díj fizetésére kötelezett
+(7) A felügyeleti díj (6) bekezdés szerinti átvállalása esetén, a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában álló vállalkozás és annak tagja közötti értékesítésből származó árbevétel nem része a (3) bekezdés szerinti értékesítés nettó árbevételének.
 
-- a) mikrovállalkozás és e törvény végrehajtására kiadott rendeletben meghatározott kistermelő esetén évi húszezer forint;
-- b) kisvállalkozás esetén évi hétszázezer forint.
+(8) Felügyeleti díj fizetésére kötelezettnek minősül a (3) bekezdésben foglaltak szerint az, aki nem magyarországi illetékességű, de Magyarország területén a (2) bekezdés szerinti tevékenységet végez és a 38/B. § szerinti FELIR-azonosítóval rendelkezik, továbbá az állami adó- és vámhatóságnál regisztrált általános forgalmi adóalanynak minősül.
 
-(6) Az (5) bekezdés szerinti felügyeleti díj fizetésére kötelezett az ott meghatározott összegű felügyeleti díj megfizetése helyett választása alapján a (3) bekezdés szerint számított felügyeleti díjat a (8) és (9) bekezdés szerint vallja be és fizeti meg.
+(9) A felügyeleti díj mértéke az elsődlegesen végső fogyasztó számára értékesítő felügyeleti díj fizetésére kötelezett, a megelőző üzleti év mérlegforduló napján
 
-(7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 50. § (2) bekezdése alapján az átalányadózás választására jogosult mezőgazdasági őstermelő kizárólag az őstermelői tevékenysége vonatkozásában.
+- a) a KKVtv. szerinti mikrovállalkozás és e törvény végrehajtására kiadott rendeletben meghatározott kistermelő esetén évi húszezer forint;
+- b) a KKVtv. szerinti kisvállalkozás esetén évi hétszázezer forint.
 
-(8) A fizetésre kötelezettnek évente egyszer kell bevallania a díjfizetés alapjául szolgáló nettó árbevételét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
+(10) A (9) bekezdés szerinti felügyeleti díj fizetésére kötelezett a (9) bekezdésben meghatározott összegű felügyeleti díj megfizetése helyett választása alapján a (3) bekezdés szerint számított felügyeleti díjat fizeti meg.
 
-(9) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig, illetve január 31. napjáig. A határidőn belül meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló törvény rendelkezései irányadók. A meg nem fizetett felügyeleti díj és késedelmi pótlék adók módjára behajtandó köztartozásnak minősül. A felügyeleti díj fizetésére kötelezett által a (8) bekezdés alapján benyújtott bevallás végrehajtható okiratnak minősül.
+(11) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 50. § (2) bekezdése alapján az átalányadózás választására jogosult mezőgazdasági őstermelő kizárólag az őstermelői tevékenysége vonatkozásában.
 
-(10) Az élelmiszerlánc-felügyeleti szervet megillető felügyeleti díjat az élelmiszerlánc-biztonsági stratégiában, a többéves tervben és az éves ellenőrzési tervben meghatározott feladatok végrehajtására kell fordítani. Az évente befolyt felügyeleti díj 10%-át fejlesztésre kell fordítani. A felügyeleti díjból befolyt bevétel az élelmiszerlánc-felügyeleti szerv működésére is fordítható.
+(12) A fizetésre kötelezett a felügyeleti díj fizetési kötelezettségét május 31-ig állapítja meg és vallja be az állami adó- és vámhatóság által erre a célra rendszeresített űrlapon.
 
-(11) Az élelmiszerlánc-felügyeleti szervet megillető felügyeleti díj felhasználásáról az élelmiszerlánc-felügyeleti szerv elkülönített nyilvántartást vezet. A felhasználásról feladatonkénti szöveges beszámolót kell készíteni az országos főállatorvos részére a felhasználást követő év április 30-ig.
+(13) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig és január 31. napjáig. Az ezer forintot el nem érő felügyeleti díjat nem kell megfizetni.
 
-(12) A 38/B. § (1) bekezdése szerinti regisztrációt, valamint a felügyeleti díj bevallási kötelezettséget az élelmiszerlánc-felügyeleti szerv erre a célra kialakított központi elektronikus rendszerének használatával kell teljesíteni. A felügyeleti díj bevallására és megfizetésére vonatkozó részletes szabályokat e törvény végrehajtására kiadott jogszabály állapítja meg.
+(14) A felügyeleti díjjal kapcsolatos hatósági feladatokat az állami adó- és vámhatóság látja el. A felügyeleti díjból származó bevétel az állam bevétele, amelyet az élelmiszerlánc felügyeleti szerv élelmiszerlánc hatósági felügyeleti tevékenységével összefüggő feladatai ellátására kell fordítani.
 
-(13) A felügyeleti díj bevallására kötelezettnek olyan nyilvántartást kell vezetnie, amelyből a felügyeleti díj alapjának, mértékének számítása egyértelműen megállapítható. Nem vonatkozik az előírás azon fizetésre kötelezettekre, akik az (5) bekezdés szerinti fizetési módot választják.
-
-(14) A felügyeleti díj bevallása, nyilvántartása, befizetése, kezelése, ellenőrzése és önellenőrzése kapcsán e törvényben, illetve az annak végrehajtására kiadott jogszabályban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény, valamint az adózás rendjéről szóló törvény képviseletre, önellenőrzési jogra, bevallásra, bevallás kijavítására, a megfizetésre, a bizonylatokra, könyvvezetésre, nyilvántartásra, bizonylatok megőrzésére, önellenőrzésre, az önellenőrzés bevallása és megfizetése, a becslésre, az utólagos megállapításra, fizetési halasztásra, részletfizetés engedélyezésére, elévülésre, késedelmi pótlékra, önellenőrzési pótlékra, valamint az eljárás költségeire vonatkozó rendelkezései az irányadóak.
+(15) Az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései az irányadók.
 
 ### Jelentések
 
-47/C. § (1) Az élelmiszerlánc-biztonsági stratégia, a többéves terv és az éves ellenőrzési terv végrehajtásáról, a célok teljesüléséről, valamint a felügyeleti díj felhasználásáról az országos főállatorvos évente jelentést készít, amelyet az élelmiszerlánc-felügyeleti szerv honlapján a következő naptári év szeptember 1-jéig közzétesz.
+47/C. § (1) Az élelmiszerlánc-biztonsági stratégia, a többéves terv és az éves ellenőrzési terv végrehajtásáról, a célok teljesüléséről az országos főállatorvos évente jelentést készít, amelyet az élelmiszerlánc-felügyeleti szerv honlapján a következő naptári év szeptember 1-jéig közzétesz.
 
 (2) Az országos főállatorvos a vonatkozó uniós jogi aktusban foglaltak figyelembevételével éves jelentést küld a többéves terv végrehajtásáról az Európai Bizottságnak.
 
@@ -1511,7 +1515,7 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 
 (6) Az (1) bekezdés a) pontja szerinti kártalanítás jogosultja az általános forgalmi adó bevallásában – a bevallás benyújtására előírt határidőig – nyilatkozhat úgy, hogy a kártalanítás általános forgalmi adó tartalmának összegére a kártalanítás folyósítását követő 30. napig fizetési halasztást vesz igénybe.
 
-(7) A jogosult a kártalanítási eljárás során jelzi a (6) bekezdés szerinti fizetési halasztás igénybevételét a kártalanítási eljárás lefolytatására kijelölt szervnél, és egyben hozzájárul ahhoz, hogy a kártalanítási összeget folyósító szerv a fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adóhatóságnál vezetett, általánosforgalmiadó-bevételi számlára utalja.
+(7) A jogosult a kártalanítási eljárás során jelzi a (6) bekezdés szerinti fizetési halasztás igénybevételét a kártalanítási eljárás lefolytatására kijelölt szervnél, és egyben hozzájárul ahhoz, hogy a kártalanítási összeget folyósító szerv a fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adó- és vámhatóságnál vezetett, általánosforgalmiadó-bevételi számlára utalja.
 
 ### VI. Fejezet — JOGKÖVETKEZMÉNYEK
 
@@ -1556,7 +1560,7 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 
 57/A. § Az 57. § v)–x) pontjában meghatározott jogkövetkezmények alkalmazásakor – kötelezés kivételével – figyelmeztetés alkalmazásának helye nincs.
 
-57/A. § Az 57. § v) és w) pontjában meghatározott intézkedés alkalmazásakor figyelmeztetés, illetve közigazgatási óvadék alkalmazásának nincs helye.
+#### 57/A. §
 
 57/B. § Ha a mezőgazdasági igazgatási szerv a kábítószer előállítására alkalmas növényekkel kapcsolatos előírások megszegése miatt megállapítja a jogsértés elkövetését, közigazgatási szankcióként elrendeli a növényállománynak, illetve a termésnek a termesztő költségén történő megsemmisítését.
 
@@ -1723,7 +1727,7 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 (3) A mulasztási bírság kiszabásánál mérlegelni kell az eset összes körülményét, az ügyfél jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az ügyfél, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el. A körülmények mérlegelése alapján a mulasztás súlyához igazodó bírságot kell kiszabni, vagy a bírság kiszabását mellőzni.
 
-(4) A mulasztási bírság megállapításával egyidejűleg az élelmiszerlánc-felügyeleti szerv az ügyfelet – határidő tűzésével – teljesítésre hívja fel. A kiszabott bírság kétszeresét kell újabb határidő tűzésével megállapítani, ha a teljesítésre kötelező újabb végzésben előírt határidőt az ügyfél szintén elmulasztja. A kötelezettség teljesítése esetén az e bekezdés alapján kiszabott bírság korlátlanul mérsékelhető.
+(4) A mulasztási bírság megállapításával egyidejűleg az élelmiszerlánc-felügyeleti szerv, a felügyeleti díjjal összefüggő mulasztás esetén az állami adó- és vámhatóság az ügyfelet – határidő tűzésével – teljesítésre hívja fel. A kiszabott bírság kétszeresét kell újabb határidő tűzésével megállapítani, ha a teljesítésre kötelező újabb végzésben előírt határidőt az ügyfél szintén elmulasztja. A kötelezettség teljesítése esetén az e bekezdés alapján kiszabott bírság korlátlanul mérsékelhető.
 
 ### Élelmiszermentési bírság
 
@@ -1820,13 +1824,14 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 (4) Az élelmiszerlánc-felügyeleti szerv a kockázatos vállalkozások listája tekintetében a miniszter által vezetett minisztérium, valamint az élelmiszerlánc-felügyeleti szerv honlapján nyilvánosságra hozza
 
-- a) élelmiszer emberi egészséget veszélyeztető szennyezettsége, élelmiszer-hamisítás, engedély vagy bejelentés nélküli élelmiszer-vállalkozási tevékenység vagy engedély visszavonása, élelmiszerrel kapcsolatos azonnali intézkedést igénylő jogsértés, ökológiai termelésre, illetve integrált gazdálkodásra vonatkozó jogszabályi előírások megsértése, valamint ételmérgezés vagy ételfertőzés esetén az élelmiszer megnevezését, azonosításra alkalmas adatait, a feltárt szabálytalanságot, továbbá a jogsértést elkövető élelmiszer-vállalkozás nevét vagy cégnevét és címét, székhelyét, telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét;
+- a) élelmiszer emberi egészséget veszélyeztető szennyezettsége, élelmiszer-hamisítás, engedélyezési kötelezettség elmulasztása, a 14/B. §-ban foglalt rendelkezés megsértése, engedély vagy bejelentés nélküli élelmiszer-vállalkozási tevékenység vagy engedély visszavonása, élelmiszerrel kapcsolatos azonnali intézkedést igénylő jogsértés, ökológiai termelésre, illetve integrált gazdálkodásra vonatkozó jogszabályi előírások megsértése, valamint ételmérgezés vagy ételfertőzés esetén az élelmiszer megnevezését, azonosításra alkalmas adatait, a feltárt szabálytalanságot, továbbá a jogsértést elkövető élelmiszer-vállalkozás nevét vagy cégnevét és címét, székhelyét, telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét;
 - b) takarmánynak az állatok egészségét közvetlenül, az emberi egészséget közvetve veszélyeztető szennyezettsége, működési engedély visszavonása, takarmánnyal kapcsolatos azonnali intézkedést igénylő jogsértés esetén a takarmány megnevezését, azonosításra alkalmas adatait, a feltárt szabálytalanságot, továbbá a jogsértést elkövető takarmány-vállalkozás nevét vagy cégnevét és címét, székhelyét, telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét;
 - c) engedélyköteles termék vagy állatgyógyászati termék hamisítása, illegális forgalmazása, engedélyköteles termékkel vagy állatgyógyászati termékkel kapcsolatos, azonnali intézkedést igénylő jogsértés esetén az érintett termék megnevezését, azonosításra alkalmas adatait, a feltárt szabálytalanságot, valamint a jogsértést elkövető nevét vagy cégnevét és címét, székhelyét telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét;
 - d) az élelmiszerláncban felhasználásra szánt, a vonatkozó rendelkezéseknek meg nem felelő fertőtlenítőszerek megnevezését, azonosításra alkalmas adatait, a feltárt szabálytalanságot, a jogsértést elkövető nevét vagy cégnevét és címét, székhelyét, telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét;
 - e) az állati eredetű melléktermékre vonatkozó jogszabályok megsértése, valamint az állattartásra, állatszállításra vonatkozó jogszabályok súlyos megsértése esetén a feltárt szabálytalanságot elkövető nevét vagy cégnevét és lakcímét, székhelyét telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét;
 - f) a mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló törvény szerinti tisztességtelen forgalmazói magatartás tilalmának megsértése esetén a tisztességtelen forgalmazói magatartást tanúsító kereskedő nevét vagy cégnevét és lakcímét, székhelyét telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét;
-- g) távértékesítés útján forgalmazott lényeges tulajdonságára vonatkozóan félrevezető jelölést tartalmazó, nem megfelelő minőségű, valamint nem biztonságos élelmiszer esetén az élelmiszer megnevezését, a távközlő eszköz és az élelmiszer azonosítására alkalmas adatait, a feltárt szabálytalanságot, továbbá a jogsértést elkövető élelmiszer-vállalkozás nevét vagy cégnevét és lakcímét, székhelyét, telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét.
+- g) távértékesítés útján forgalmazott lényeges tulajdonságára vonatkozóan félrevezető jelölést tartalmazó, nem megfelelő minőségű, illetve nem engedélyezett új élelmiszert összetevőként tartalmazó, valamint nem biztonságos élelmiszer vagy nem engedélyezett új élelmiszer megnevezését, a távközlő eszköz és az élelmiszer azonosítására alkalmas adatait, a feltárt szabálytalanságot, továbbá a jogsértést elkövető élelmiszer-vállalkozás nevét vagy cégnevét és lakcímét, székhelyét, telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét.
+- h) az e törvény végrehajtására kiadott jogszabályban vagy közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott előírásoknak meg nem felelő élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy, eszköz és gép megnevezését, azonosításra alkalmas adatait, a feltárt szabálytalanságot, a jogsértést elkövető nevét vagy cégnevét és címét, székhelyét, telephelyét vagy fióktelepét, a jogsértés időpontjában bejegyzett vezető tisztségviselő nevét.
 
 (5) Az élelmiszerlánc-felügyeleti szerv az általa ellenőrzött növény vagy növényi termék növényvédőszer-maradék, illetve termésnövelő anyagból származó, vagy egyéb toxikus anyag tartalmának laboratóriumi vizsgálati eredményeit a megengedett határértéket meghaladó tartalom esetén – a termelő, illetve az ellenőrzött személy nevével vagy cégnevével és lakcímével vagy székhelyével együtt – az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint közzéteszi.
 
@@ -1890,7 +1895,7 @@ vonatkozó előírásokat;
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
 - 1–2.
-- 3. az élelmiszerlánc területén alkalmazható intézkedések részletes szabályait;
+- 3.
 - 4. a kártalanítás összegének megállapítására, a kártalanítási eljárásra és a kártalanításból való kizárásra vonatkozó részletes szabályokat;
 - 5. a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény kötelező előírásait;
 - 6. a nemzeti növény-egészségügyi szabályozás alatt álló károsítók körét, valamint azok behurcolása és elterjedése elleni növény-egészségügyi intézkedésekre vonatkozó részletes szabályokat;
@@ -1900,12 +1905,12 @@ vonatkozó előírásokat;
 - 10. a növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén megengedhető növényvédőszer-maradék, illetőleg termésnövelő anyagból származó megengedett toxikus vegyianyag-tartalom mértéket;
 - 11. a növényvédő szer kis- és nagykereskedelmi forgalomba hozatalának részletes szabályait;
 - 12. a termésnövelő anyagok engedélyezésének, nyilvántartásba vételének, tárolásának, jelölésének, forgalomba hozatalának, felhasználásának és ezek ellenőrzésének részletes szabályait;
-- 13. a zöldség és gyümölcs ellenőrzésére vonatkozó részletes szabályokat;
+- 13.
 - 14. a takarmányok előállításának, tárolásának, szállításának, forgalomba hozatalának, felhasználásának, csomagolásának, jelölésének, a megengedettnél több nemkívánatos anyagot tartalmazó takarmány felhasználásának feltételeit és rendjét;
 - 15. az új takarmányok engedélyezésének és nyilvántartásba vételének, a nem engedélyezett és nyilvántartásba nem vett takarmányok előállítása, felhasználása és behozatala eseti jellegű engedélyezésének, az engedélyek feltételhez kötésének, módosításának, felfüggesztésének és megszüntetésének feltételeit és rendjét;
 - 16. a takarmány-ellenőrzés rendjét;
 - 17. a bejelentendő állatbetegségek körét és azok leküzdésének részletes szabályait;
-- 18. az élelmiszer-ellenőrzés rendjét;
+- 18.
 - 19. az állat tartásának, tenyésztésének, szaporításának, forgalomba hozatalának, levágásának, leölésének, az állatvásár, az állatkiállítás, az állatbemutató, az állatverseny tartásának állat-egészségügyi szabályait;
 - 20. az állatállományok állat-egészségügyi védelmének, állatbetegségektől való mentesítésének részletes szabályait;
 - 21. az állatok belföldi forgalmára és szállítására, belső piaci kereskedelmére, behozatalára vonatkozó feltételeket;
@@ -1913,38 +1918,38 @@ vonatkozó előírásokat;
 - 23. az állati eredetű melléktermék előállításának, feldolgozásának, ártalmatlanításának, gyűjtésének, tárolásának, szállításának, forgalomba hozatalának, felhasználásának állat-egészségügyi szabályait;
 - 24. az állatgyógyászati készítmények és egyes állatgyógyászati termékek előállítására, törzskönyvezésére, gyakorlati kipróbálására, forgalomba hozatalára, rendelésére, felhasználására, az állatgyógyászatban használt elektroorvosi eszközök használatára vonatkozó részletes szabályokat, a gyógyszeres takarmányok előállításának, forgalomba hozatalának, felhasználásának, az állatgyógyászatban használatos gyógyhatású készítmények, ápolószerek, segédanyagok forgalomba hozatalának feltételeit;
 - 25. a nem állami laboratóriumok engedélyezésének, nyilvántartásba vételének és működésének részletes szabályait;
-- 26. az élelmiszer-előállítás, -jelölés, -tárolás, továbbá -szállítás szabályait;
+- 26. az élelmiszer-előállítás, szabályait;
 - 27. az élelmiszer-adalékanyagok, enzimek, aromák felhasználásának egyes szabályait;
-- 28. az élelmiszer-előállítás és forgalomba hozatal élelmiszer-higiéniai feltételeit;
+- 28.
 - 29. a kistermelői élelmiszer-előállítás és forgalmazás élelmiszer-higiéniai feltételeit;
 - 30. a vendéglátó-ipari termékek előállításának feltételeit;
-- 31. az élelmiszer-ipari gépek, berendezések élelmiszer-higiéniai engedélyezésének feltételeit;
-- 32. az ivóvíz, az ásványvíz, a forrásvíz és az ízesített víz palackozásának és forgalomba hozatalának szabályait;
+- 31.
+- 32.
 - 33. a mezőgazdasági termékek és élelmiszerek ökológiai termelési és integrált gazdálkodási követelmények szerinti tanúsításának, előállításának, forgalomba hozatalának és jelölésének egyes szabályait, valamint a tanúsító szervezet elismerésére, működésére, adatszolgáltatására, felügyeletére, az elismerés felfüggesztésére, visszavonására vonatkozó szabályokat;
-- 34. az élelmiszerekkel érintkezésbe kerülő anyagok felhasználásának szabályait;
+- 34.
 - 35. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait;
 - 36. az állat- és növény-egészségügyi határállomásokra vonatkozó részletes szabályokat;
-- 37. a gyógy- és fűszernövények gyűjtésére, termesztésére, feldolgozására, gyógynövénytermékek és fűszernövények előállítására, forgalomba hozatalára, valamint ezen tevékenységek ellenőrzésére vonatkozó részletes szabályokat;
-- 38. az étkezési célra kerülő vadon termett gombák gyűjtésére, feldolgozására, forgalomba hozatalára vonatkozó minőségi, élelmiszerbiztonsági és ellenőrzési szabályokat;
+- 37.
+- 38.
 - 39. a gombaszakellenőri tevékenység folytatásának részletes feltételeit, a gombaszakellenőri tevékenység bejelentésére és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a gombaszakellenőri tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
 - 40. az élelmiszer-vállalkozás működéséhez szükséges szakképesítéseket;
 - 41. az élelmiszerlánc területén alkalmazott iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait;
 - 42. az élelmiszerek ionizáló energiával való kezelésének feltételeit és szabályait;
-- 43. a felügyeleti díj bevallásának és megfizetésének részletes szabályait;
+- 43.
 - 44. a méhek tartásának és a méz előállításának részletes szabályait;
 - 45. az élelmiszer-vállalkozás önellenőrzési kötelezettségeinek részletes szabályait.
 - 46. az élelmiszer-előállítás során alkalmazott technológiai segédanyagok felhasználásának részletes szabályait.
 - 47. az e törvény hatálya alá tartozó termékekkel kapcsolatos tanúsítványokra vonatkozó hatósági felügyelet szabályait;
-- 48. az élelmiszerlánc-felügyeleti szerv által lefolytatott eljárás eljárási költségének mértékét és kiszámításának részletes szabályait;
+- 48.
 - 49. a géntechnológiával módosított szervezettől mentes élelmiszer és takarmány előállításának, jelölésének, forgalomba hozatalának és ellenőrzésének szabályait;
 - 50. az ízesített borászati termékek meghatározásának, megnevezésének és kiszerelésének szabályait;
-- 51. a vendéglátó-ipari létesítmények minősítési rendszerének, a higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti vizsgálatának, értékelésének részletes szabályait, valamint a minősített vendéglátó-ipari létesítmények működésére vonatkozó követelményeket;
+- 51.
 - 52. a növényvédelmi szolgáltatás nyújtására irányuló szerződés élelmiszerlánc-felügyeleti szervnek történő bejelentésének részletes szabályait;
 - 53. a növényvédelmi gépek típusminősítésének és műszaki felülvizsgálatának részletes szabályait;
-- 54. a mezőgazdasági gépkezelői jogosítvány megszerzésének és kiadásának részletes szabályait;
+- 54.
 - 55. a szolgáltató állatorvosok által ellátandó állategészségügyi állami feladatok végzésének szakmai szabályait;
 - 56. a diagnosztikai kilövés során használható eszközök körét.
-- 57. az (EU) 2017/625 európai parlamenti és tanácsi rendelet 35. cikke szerinti ellenminta vételével, valamint második szakvélemény és másik hatósági laboratóriumi vizsgálat kezdeményezésével és elvégzésével kapcsolatos részletes szabályokat;
+- 57.
 - 58. rendkívüli élelmiszerlánc-esemény esetén az állattartó létesítmények között alkalmazandó védőtávolságot;
 - 59. a vadbegyűjtő és a mobil vadfeldolgozó létesítmény üzemeltetésének és a vadhúsvizsgálói tevékenység folytatásának részletes feltételeit, valamint a vadbegyűjtő és a mobil vadfeldolgozó létesítmény, továbbá a vadhúsvizsgálói tevékenység bejelentésére, nyilvántartásba vételére és a nyilvántartásból való törlésre, továbbá a nyilvántartás vezetésére vonatkozó részletes szabályokat;
 - 60. a méhegészségügyi felelősi tevékenység folytatásának részletes feltételeit, valamint a méhegészségügyi felelősi tevékenység bejelentésére, a méhegészségügyi felelős nyilvántartásba vételére és a nyilvántartásból való törlésre, továbbá a nyilvántartás vezetésére vonatkozó részletes szabályokat.
@@ -1964,21 +1969,40 @@ vonatkozó előírásokat;
 - b) a kereskedelemért felelős miniszterrel egyetértésben a vásári, a piaci és a vásárcsarnoki árusítás állat-egészségügyi és élelmiszer-biztonsági szabályait;
 - c) a kereskedelemért felelős miniszterrel egyetértésben az élelmiszerek forgalomba hozatalának szabályait;
 - d) a vendéglátásért, valamint a kereskedelemért felelős miniszterrel egyetértésben a vendéglátó-ipari termékek forgalomba hozatalának szabályait;
-- e)
+- e) a kereskedelemért felelős miniszterrel egyetértésben
+  - ea) az élelmiszerlánc területén alkalmazható intézkedések részletes szabályait,
+  - eb) az élelmiszer-jelölés, -tárolás, továbbá -szállítás szabályait,
+  - ec) az ivóvíz, az ásványvíz, a forrásvíz és az ízesített víz palackozásának és forgalomba hozatalának szabályait,
+  - ed) az élelmiszerekkel érintkezésbe kerülő anyagok felhasználásának szabályait,
+  - ee) a gyógy- és fűszernövények gyűjtésére, termesztésére, feldolgozására, gyógynövénytermékek és fűszernövények előállítására, forgalomba hozatalára, valamint ezen tevékenységek ellenőrzésére vonatkozó részletes szabályokat,
+  - ef) az étkezési célra kerülő vadon termett gombák gyűjtésére, feldolgozására, forgalomba hozatalára vonatkozó minőségi, élelmiszerbiztonsági és ellenőrzési szabályokat,
+  - eg) az élelmiszerlánc-felügyeleti szerv által lefolytatott eljárás eljárási költségének mértékét és kiszámításának részletes szabályait, és
+  - eh) a vendéglátó-ipari létesítmények minősítési rendszerének, a higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti vizsgálatának, értékelésének részletes szabályait, valamint a minősített vendéglátó-ipari létesítmények működésére vonatkozó követelményeket.
 - f) a hulladékgazdálkodásért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
 - g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, biocid termékek, valamint termésnövelő anyagok légi kijuttatásának részletes szabályait;
 - h) a környezetvédelemért felelős miniszterrel egyetértésben az állati melléktermékből készített komposztok mezőgazdasági területen történő felhasználásának feltételeit;
-- i) az adópolitikáért felelős miniszterrel egyetértésben az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
+- i) az adópolitikáért felelős miniszterrel, valamint a kereskedelemért felelős miniszterrel egyetértésben az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
 - j) az adópolitikáért felelős miniszterrel egyetértésben az áruk behozatala, illetve kivitele során a vámhatóságra vonatkozó, e törvény hatálya alá tartozó eljárásokkal kapcsolatos rendelkezéseket;
 - k) a rendészetért felelős miniszterrel egyetértésben az élelmiszer-rendészek feladatellátásának és nyilvántartásba vételének részletes szabályait.
 
+(5a) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+- a) az élelmiszer-előállítás, és
+- b) – a kereskedelemért felelős miniszterrel egyetértésben – az élelmiszer forgalomba hozatal
+
+élelmiszer-higiéniai feltételeit.
+
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokra, továbbá a tápértékjelölésre vonatkozó részletes szabályokat.
 
-(7) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az előrecsomagolt élelmiszerek megengedett tömeg- és térfogatértékeit és azok ellenőrzési módszereit.
+(7) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza
+
+- a) az előrecsomagolt élelmiszerek megengedett tömeg- és térfogatértékeit és azok ellenőrzési módszereit,
+- b) a zöldség és gyümölcs ellenőrzésére vonatkozó részletes szabályokat, valamint
+- c) az élelmiszer-ellenőrzés rendjét.
 
 (8) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség élelmiszer-biztonsággal kapcsolatos feladatait.
 
-(9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben szabályozza
+(9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel és a kereskedelemért felelős miniszterrel egyetértésben rendeletben szabályozza
 
 - a) a különleges táplálkozási célú élelmiszerek előállítására és forgalomba hozatalára;
 - b) azon feltételekre, amelyeknek nem megfelelő étrend-kiegészítők csak gyógyszertárban vagy jogszabályban meghatározott feltételeknek megfelelő üzletekben forgalmazhatóak;
@@ -1995,6 +2019,16 @@ vonatkozó előírásokat.
 76/B. § A 47/B. § 2015. május 31-én hatályos (3a) bekezdésének hatálya alá tartozó és a 47/B. §-nak az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításáról szóló 2015. évi CLXXXII. törvénnyel megállapított (3) bekezdése alapján felügyeleti díj további összegű fizetésére kötelezettnek a 2014. naptári évi árbevétele alapján 2015. december 30-ig bevallást vagy helyesbítő bevallást kell tennie és a felügyeleti díjat 2016. január 31-ig egy összegben, késedelmi pótlék alkalmazása nélkül kell megfizetnie.
 
 76/C. § Az élelmiszerlánccal kapcsolatos egyes törvények módosításáról szóló 2017. évi LXIV. törvény (a továbbiakban: 2017. évi LXIV. törvény) hatálybalépésekor már működő, közétkeztetést végző létesítménynek a 2017. évi LXIV. törvénnyel megállapított 23. § (5) bekezdése szerinti minősítésére vonatkozó kérelmét 2018. január 31-ig kell benyújtania.
+
+76/D. § (1) E törvénynek az egyes közigazgatási tárgyú törvények módosításáról szóló 2024. évi L. törvénnyel (a továbbiakban: Módtv.) megállapított 47/B. §-át és 63/A. § (4) bekezdését első alkalommal a 2025. évben teljesítendő felügyeleti díj bevallási kötelezettség esetében kell alkalmazni.
+
+(2) A 2025. január 1-jét megelőzően teljesítendő felügyeleti díj bevallási kötelezettséggel kapcsolatos hatósági feladatokat a Kormány rendeletében a 2024. december 31-én hatályos szabályok szerint kijelölt élelmiszerlánc-felügyeleti szerv látja el azzal az eltéréssel, hogy a fizetésre kötelezett által 2025. január 31-ig fizetendő, a Módtv. hatálybalépését követően megfizetett felügyeleti díjat a kijelölt élelmiszerlánc-felügyeleti szerv az államháztartásért felelős miniszter által megjelölt számlaszámra átutalja.
+
+(3) E törvény 2024. december 31-ig hatályos 32. § (5) bekezdését és 44. § (1) bekezdés g) pontját a 2025. január 1-jét megelőzően teljesítendő felügyeleti díj bevallási kötelezettség tekintetében 2025. január 1-jét követően is alkalmazni kell.
+
+(4) E törvénynek a Módtv. által hatályon kívül helyezett 38. § (1) bekezdés 20. pontját és 38. § (6) bekezdését a hatályvesztését megelőzően teljesítendő felügyeleti díj bevallási kötelezettség tekintetében a hatályvesztését követően is alkalmazni kell.
+
+(5) E törvénynek a Módtv. által módosított 47/C. § (1) bekezdése szerinti jelentés 2025. január 1-jét követően is tartalmazza az élelmiszerlánc-felügyeleti szerv saját bevételét képező felügyeleti díj felhasználását.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -2092,19 +2126,19 @@ E törvény alkalmazásában:
 - 9/C. EK-műtrágya: a 2003/2003/EK európai parlamenti és tanácsi rendelet 3. cikke szerinti műtrágya;
 - 10. élelmiszer: az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, az Európai Parlament és a Tanács 2002. január 28-i 178/2002/EK rendelete (a továbbiakban: 178/2002/EK rendelet) 2. cikke szerinti fogalom;
 - 11. élelmiszer-biztonság: az élelmiszer emberi egészségre ártalmatlansága és emberi fogyasztásra alkalmassága a 178/2002/EK rendeletnek megfelelő fogalom;
-- 12. élelmiszer-higiénia: a 852/2004/EK rendelet 2. cikkének a) pontja szerinti fogalom;
+- 12. élelmiszer-higiénia: a 852/2004/EK rendelet 2. cikk (1) bekezdés a) pontja szerinti fogalom;
 - 13. élelmiszer-jelölés: az 1169/2011/EU rendelet 2. cikk (2) bekezdés j) pontja szerinti fogalom továbbá távértékesítés esetén ezen kívül a távértékesítést elősegítő anyagban, vagy más megfelelő, az élelmiszer-vállalkozó által egyértelműen meghatározott eszközökön szereplő, az élelmiszerre vonatkozó bármilyen szöveg, adat, védjegy, márkanév, ábra vagy szimbólum;
 - 14. élelmiszer-csomagolóanyag: olyan anyag, amelyet az élelmiszerek burkolására, megóvására, kezelésére, szállítására használnak az élelmiszerlánc bármely szakaszában;
 - 14/A. élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagok és tárgyak: az 1935/2004/EK rendelet 1. cikkének 2. pontja szerinti fogalom;
 - 15. élelmiszer-előállítás: feldolgozatlan és feldolgozott termék – kivéve az alaptermék – előállítása érdekében történő alapanyag-tárolási, tisztítási, osztályozási, előkészítési, gyártástechnológiai, csomagolási, jelölési, tárolási és szállítási műveletek bármelyike;
 - 15a. élelmiszermentés: a várhatóan élelmiszer-hulladékká váló, de még emberi fogyasztásra szánt biztonságos élelmiszer a lehető legnagyobb mértékben történő hasznosítása és újraelosztása;
 - 16. élelmiszer-vállalkozás: a 178/2002/EK rendelet 3. cikkének 2. pontjában meghatározott fogalom;
-- 17. élelmiszer-vállalkozási létesítmény: a 852/2004/EK rendelet 2. cikkének c) pontja szerinti fogalom;
+- 17.
 - 18. élelmiszer-vállalkozó: a 178/2002/EK rendelet 3. cikkének 3. pontjában meghatározott fogalom;
 - 19. élelmiszerjog: a 178/2002/EK rendelet 3. cikkének 1. pontja szerinti fogalom;
 - 20. élelmiszer-minőség: az élelmiszer azon tulajdonságainak összessége, hogy az megfelel a rá vonatkozó, e törvény végrehajtására kiadott jogszabályban vagy közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott, az élelmiszer-biztonságra vonatkozó követelményektől eltérő előírásoknak, valamint az előállító 22. § (2) bekezdése szerinti írásos dokumentációjában feltüntetett jellemzőknek;
-- 21. élelmiszerlánc: azon folyamatok összessége, melyek szereplői közvetlen vagy közvetett hatással vannak az élelmiszerre a talajvédelem, agrár-környezetvédelem, növénytermesztés, növény-egészségügy, növényvédelem, az engedélyköteles termék és az állatgyógyászati termék előállítása, forgalomba hozatala és felhasználása, az élelmiszer- és takarmány-előállítás, szállítás, tárolás és forgalomba hozatal, felhasználás, az állat tartása, szállítása, forgalomba hozatala, az állat-egészségügy, a növényi és állati eredetű melléktermék kezelés, tárolás, szállítás, forgalomba hozatal és felhasználás során;
-- 21/A. élelmiszerlánc szereplő: az e jogszabály által meghatározott személy, továbbá bármely más személy vagy szervezet, aki/amely az élelmiszerláncban termeléssel, előállítással, feldolgozással, tárolással, szállítással, forgalomba hozatallal vagy felhasználással összefüggő tevékenységet folytat.
+- 21. élelmiszerlánc: azon folyamatok összessége, melyek szereplői közvetlen vagy közvetett hatással vannak az élelmiszerre a talajvédelem, agrár-környezetvédelem, növénytermesztés, növény-egészségügy, növényvédelem, az engedélyköteles termék és az állatgyógyászati termék előállítása, laboratóriumi vizsgálata, forgalomba hozatala és felhasználása, az élelmiszer- és takarmány-előállítás, laboratóriumi vizsgálat, szállítás, tárolás és forgalomba hozatal, felhasználás, az állat tartása, szállítása, forgalomba hozatala, az állat-egészségügy, a növényi és állati eredetű melléktermék laboratóriumi vizsgálat, kezelés, tárolás, szállítás, forgalomba hozatal és felhasználás során;
+- 21/A. élelmiszerlánc szereplő: az e jogszabály által meghatározott személy, továbbá bármely más személy vagy szervezet, aki/amely az élelmiszerláncban termeléssel, előállítással, feldolgozással, laboratóriumi vizsgálattal, tárolással, szállítással, forgalomba hozatallal vagy felhasználással összefüggő tevékenységet folytat.
 - 22. élelmiszerlánc-esemény: az élelmiszerláncban bekövetkező olyan e törvény hatálya alá tartozó esemény, mely az élelmiszerlánc-felügyeleti szerv hatósági intézkedését teszi szükségessé;
 - 22/A. ellenőrzési rendszer: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 7. pontja szerinti fogalom;
 - 22/B. ellenőrzési terv: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 8. pontja szerinti fogalom;
@@ -2115,13 +2149,16 @@ E törvény alkalmazásában:
 
 - 23. elsődleges termelés: a 178/2002/EK rendelet 3. cikk 17. pontja szerinti meghatározás,
 - 24. engedélyköteles termék: a növényvédő szer, növényvédőszer-adalékanyag, -segédanyag, a növényvédelmi hatású termék, a növényvédelmi célú eszköz és anyag (a műszerek kivételével), valamint a termésnövelő anyag, amelynek forgalomba hozatala és felhasználása engedélyhez vagy nyilvántartásba vételhez kötött;
-- 25. feldolgozás: a 852/2004/EK rendelet 2. cikkének m) pontja szerinti fogalom;
-- 26. feldolgozatlan termékek: a 852/2004/EK rendelet 2. cikkének n) pontja szerinti fogalom;
-- 27. feldolgozott termék: a 852/2004/EK rendelet 2. cikkének o) pontja szerinti fogalom;
+- 25. feldolgozás: a 852/2004/EK rendelet 2. cikk (1) bekezdés m) pontja szerinti fogalom;
+- 26. feldolgozatlan termékek: a 852/2004/EK rendelet 2. cikk (1) bekezdés n) pontja szerinti fogalom;
+- 27. feldolgozott termék: a 852/2004/EK rendelet 2. cikk (1) bekezdés o) pontja szerinti fogalom;
 - 28. felhasználó: a végső fogyasztó, valamint az élelmiszert tevékenységéhez felhasználó élelmiszer-vállalkozás;
 - 28/A. FELIR felhasználó: aki a FELIR-t feladatai ellátásához használja.
 - 29. forgalomba hozatal: az élelmiszerek vagy takarmányok tekintetében a 178/2002/EK rendelet 3. cikkének 8. pontja szerinti fogalom, egyéb esetben a termék készentartása eladás céljára, beleértve az eladásra való felkínálását vagy ingyenes vagy ellenérték fejében történő átadásának bármely egyéb formáját, valamint az eladását, forgalmazását vagy átadásának egyéb módját;
-- 30. földhasználó: földdel rendelkezik, illetve azt használja, vagy a föld hasznosítására kötelezett, vagy olyan dologgal (eszközzel, berendezéssel, tárggyal) rendelkezik, illetve azt használja, amelyben növény fenntartható;
+- 30. földhasználó:
+  - a) a földhasználati nyilvántartásba bejegyzett földhasználó, ennek hiányában
+  - b) az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jog jogosultja, ennek hiányában
+  - c) a tulajdonos;
 - 30/A. géntechnológiával módosított szervezet: a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 2. §-ának b) pontja szerinti fogalom;
 - 30/B. gyógynövény termék: olyan vadon termett vagy termesztett – az e törvény végrehajtására kiadott rendeletben meghatározott – növény vagy növény feldolgozásával előállított – külön jogszabály szerint gyógyszernek nem minősülő – előnyös élettani hatással rendelkező termék, amelyet emberi fogyasztásra szánnak, illetve amelyet várhatóan emberek fogyasztanak el;
 - 30/C. gyógyszeres köztes termék: az (EU) 2019/4 európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdés b) pontjában meghatározott termék;
@@ -2132,7 +2169,7 @@ E törvény alkalmazásában:
 - 33. import: áru harmadik országból Magyarország területére forgalomba hozatal céljából történő beszállítása;
 - 34. integrált növényvédelem: biológiai, biotechnológiai, kémiai, termesztési vagy növénynemesítési intézkedések ésszerű alkalmazása, amelyek során a kémiai növényvédő szerek használata arra a szorosan vett legalacsonyabb értékre korlátozódik, amely a károsító populációnak egy gazdaságilag elfogadhatatlan kárt vagy veszteséget okozó szint alatt való tartásához szükséges;
 - 34/A. integrált gazdálkodás: olyan komplex növénytermesztési technológia, amely a növénytermesztéshez közvetlenül vagy közvetve kapcsolódó minden munkafolyamatot úgy foglal rendszerbe, hogy az egyes munkafolyamatok növényvédelmi hatásait veszi alapul, és ezzel a lehető legmagasabb fokon valósítja meg az integrált növényvédelem követelményeit a környezetvédelmi szempontok maximális figyelembevételével;
-- 35. ivóvíz: a 852/2004/EK rendelet 2. cikkének g) pontja szerinti fogalom;
+- 35. ivóvíz: a 852/2004/EK rendelet 2. cikk (1) bekezdés g) pontja szerinti fogalom;
 - 36. járványos állatbetegség: állatról állatra terjedő fertőző állatbetegség;
 - 37. károsító: a 2016/2031/EU európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdésében meghatározott károsító;
 - 38. kockázat: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 24. pontja szerinti fogalom;
@@ -2140,7 +2177,7 @@ E törvény alkalmazásában:
 - 39/A. közétkeztetés: olyan vendéglátó tevékenység, amelynek során fogyasztók meghatározott csoportját vendéglátó ipari termékekkel, többnyire előre megrendelés alapján, a nap egy-egy meghatározott időszakában, meghatározott időtartamban látnak el, különösen oktatási, gyermek-, szociális, egészségügyi-, bentlakásos intézményben, táborban és munkahelyen;
 - 40. laboratórium: az élelmiszerlánc bármely szakaszában fizikai, kémiai, biológiai komponensek, radioaktív szennyezők vizsgálatát, így különösen analitikai, virológiai, szerológiai, géntechnológiával módosított szervezet, mikrobiológiai, mikológiai, entomológiai, károsító-diagnosztikai, toxikológiai vagy radiológiai vizsgálatot, továbbá egyéb, az élelmiszerek és takarmányok biztonságosságát, illetve az élelmiszerekre és takarmányokra vonatkozó minőségi előírásoknak való megfelelését ellenőrző vizsgálatot végző laboratórium, ide nem értve a termelési folyamat részeként mérési pontként működtetett vagy azt kiszolgáló vizsgálati feladatokat ellátó, vagy elkülönített mátrixon mintavételt, illetve vizsgálati tevékenységet végző laboratóriumot;
 - 40/A. létesítmény: a 852/2004/EK rendelet 2. cikk (1) bekezdés c) pontja szerinti fogalom;
-- 40/B. nem állam által működtetett laboratórium: olyan laboratórium, amely a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) kijelölése hiányában hatósági intézkedést megalapozó vizsgálatot nem végez;
+- 40/B. nem állami laboratórium: olyan laboratórium, amely az élelmiszerlánc-felügyeleti szerv kijelölése hiányában hatósági intézkedést megalapozó vizsgálatot nem végez;
 - 40/C. szolgáltató laboratórium: olyan nem állami laboratórium, amely vizsgálati eredményeit ingyenes vagy térítéses formában egyéb, azonos csoportos adószám alá nem tartozó vállalkozás számára készíti el;
 - 40/D. üzemi laboratórium: olyan nem állami laboratórium, amely vizsgálati eredményeit kizárólag a fenntartó vállalkozás és az ezzel azonos csoportos adószám alá tartozó vállalkozások önellenőrzési rendszereiben használja fel, és amely szolgáltatásként nem végez vizsgálatot;
 - 41. szolgáltató állatorvos: a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló törvény szerinti állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos;

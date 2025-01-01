@@ -146,7 +146,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - 26. ellátja a hatályban lévő koncessziós szerződésekkel kapcsolatos állami képviseletet, továbbá eljár a hatályban lévő koncessziós szerződések hatósági szerződéssé alakításával kapcsolatos hatósági ügyekben;
 - 27. végzi a légi-riasztási rendszer működtetésével, fenntartásával, korszerűsítésével kapcsolatos tervezési, szervezési feladatokat;
 - 28. szervezi és ellenőrzi az elektronikus hírközlő hálózat útján közzétett adat büntetőügyben elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétele végrehajtását, valamint a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel végrehajtását, és ennek érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát, valamint közreműködik a hozzáférhetetlenné tételhez szükséges technikai környezet biztosításában;
-- 29. az elektronikus hírközlési szolgáltatások információbiztonságát érintő eseményekkel összefüggésben együttműködik az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti kormányzati eseménykezelő központtal.
+- 29. az elektronikus hírközlési szolgáltatások információbiztonságát érintő kiberbiztonsági incidensekkel összefüggésben együttműködik a Magyarország kiberbiztonságáról szóló törvény szerinti nemzeti kiberbiztonsági incidenskezelő központtal.
 
 (2) A Nemzeti Média- és Hírközlési Hatóság elnöke (a továbbiakban: Elnök) ellátja az (1) bekezdés 2., 4–8., valamint 22–28. pontjaiban meghatározott hatáskörökből eredő feladatokat, ellátja az egyéb, jogszabályban kifejezetten az Elnök hatáskörébe tartozó feladatokat, elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását, továbbá kijelöli a honvédelmi és a katasztrófavédelmi feladatok ellátásában részt vevő elektronikus hírközlési szolgáltatókat és meghatározza felkészülési feladataikat. A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) eljár az (1) bekezdés 1., 3., 10., valamint 12–21. pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A Nemzeti Média- és Hírközlési Hatóság főigazgatója (a továbbiakban: főigazgató) eljár az (1) bekezdés 9. és 11. pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.
 
@@ -771,7 +771,8 @@ véglegessé vált vagy azonnal végrehajthatóvá nyilvánított határozatát.
 - f) elrendelheti a piacelemzést követően kiszabott kötelezettségek tekintetében a versenyt jelentős mértékben hátráltató szolgáltatás vagy szolgáltatáscsomag nyújtásának beszüntetését vagy késleltetését;
 - g) a 2 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhasználati díjtartozásról – a fizetési kötelezettséget, annak mértékét, a lejárt határidejű díjtartozás megfizetésére előírt 15 napos teljesítési póthatáridőt, továbbá az önkéntes teljesítés elmaradásának jogkövetkezményeire való figyelmeztetést is tartalmazó – fizetési felszólítást küld, amelynek eredménytelensége esetén a jogosított engedélyeit (a frekvenciakijelölést, rádióengedélyt, illetve az azonosítókijelölést) visszavonja;
 - h) azonosító felhasználásával elkövetett csalás, visszaélés esetén megtilthatja az azonosító további használatát, kötelezheti az érintett szolgáltatókat az azonosító elérésének megakadályozására, elrendelheti az azonosító eléréséért fizetendő díjak (így különösen a végződtetési díjak) visszatartását, és az előfizetőknek felszámított, vagy tőlük beszedett díj jóváírását, illetve visszatérítését;
-- i) egyéb, törvényben meghatározott szankciót alkalmazhat.
+- i) elrendeli az állagmegóvásra, átalakításra, helyreállításra vonatkozó kötelezettség teljesítését, illetve az elektronikus hírközlési építmény bontását, ha annak állapota az állékonyságot, az életet, testi épséget és az egészséget, a köz- és vagyonbiztonságot veszélyezteti, vagy az elektronikus hírközlési építmény használatra alkalmatlan, vagy a használatával véglegesen felhagytak;
+- j) egyéb, törvényben meghatározott szankciót alkalmazhat.
 
 (8) A (4)–(7) bekezdésben meghatározott jogkövetkezmények együttesen is megállapíthatók.
 
@@ -1580,7 +1581,7 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 (7) A Kormány rendeletében meghatározhatja azokat az építési munkákat, amelyek esetében az e §-ban foglalt rendelkezéseket vagy azok rendeletben meghatározott részét
 
 - a) az építési munkák csekély jelentőségére tekintettel vagy
-- b) létfontosságú rendszerelem védelme érdekében
+- b) kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében
 
 nem kell alkalmazni.
 
@@ -1661,7 +1662,9 @@ nem kell alkalmazni.
 
 86/A. § Az elektronikus hírközlő hálózat üzemeltetője vagy az elektronikus hírközlési szolgáltató nem írhat elő a végfelhasználó számára az állampolgársága, lakóhelye vagy székhelye helye szerinti tagállamra tekintettel eltérő követelményeket vagy az érintett hálózathoz, illetve szolgáltatáshoz való csatlakozás feltételeként különböző általános hozzáférési, szerződési vagy használati követelményeket, kivéve, ha ez az eltérő bánásmód objektív módon alátámasztható.
 
-86/B. § Az elektronikus hírközlő hálózat üzemeltetője a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnöke által kiadott rendeletben meghatározott kiberbiztonsági követelmények betartásával és alkalmazásával köteles végezni az üzemeltetési tevékenységet.
+86/B. § (1) Az elektronikus hírközlő hálózat üzemeltetője a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnöke által kiadott rendeletben meghatározott kiberbiztonsági követelmények betartásával és alkalmazásával köteles végezni az üzemeltetési tevékenységet.
+
+(2) Az elektronikus hírközlési szolgáltató által az elektronikus hírközlési szolgáltatáshoz használt rendszernek rendelkeznie kell a Magyarország kiberbiztonságáról szóló törvény alapján kiállított nemzeti vagy európai kiberbiztonsági tanúsítvánnyal, ha az adott, hírközlési szolgáltatáshoz használt rendszerre vonatkozóan nemzeti vagy európai kiberbiztonsági tanúsítási rendszer meghatározásra került.
 
 ### A tevékenység elkülönítése
 
@@ -1783,13 +1786,17 @@ nem kell alkalmazni.
 
 (7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a kormányzati célú hálózat működtetőjével.
 
-(8) Az Elnök rendeletében meghatározott szolgáltató köteles az ott meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott kockázatelemzéssel rendelkezni, és ennek alapján az azonosított kockázatokkal arányos védelmi intézkedéseket alkalmazni. Amennyiben a szolgáltatónál sor került a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény szerinti európai vagy nemzeti létfontosságú rendszerelem kijelölésére, akkor az ennek alapjául szolgáló azonosítási jelentés a kockázatelemzés részét képezi, a védelmi intézkedéseket pedig az üzemeltetői biztonsági terv figyelembevételével kell meghatározni. A szolgáltató köteles továbbá az üzemzavar és a katasztrófahelyzet kezelésére jogszabályban meghatározott tartalmú zavarelhárítási, katasztrófaelhárítási és üzletmenet-folytonossági tervekkel rendelkezni.
+(8) Az Elnök rendeletében meghatározott szolgáltató köteles az ott meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott kockázatelemzéssel rendelkezni, és ennek alapján az azonosított kockázatokkal arányos védelmi intézkedéseket alkalmazni. Amennyiben a szolgáltatónál sor került a kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezet, kritikus infrastruktúra, illetve a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti ország védelme és biztonsága szempontjából jelentős szervezet, ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésére, akkor az ennek alapjául szolgáló kockázatértékelés részét képezi, a védelmi intézkedéseket pedig az ellenálló képességi terv figyelembevételével kell meghatározni. A szolgáltató köteles továbbá az üzemzavar és a katasztrófahelyzet kezelésére jogszabályban meghatározott tartalmú zavarelhárítási, katasztrófaelhárítási és üzletmenet-folytonossági tervekkel rendelkezni.
 
 (8a) A szolgáltató a különleges jogrend, összehangolt védelmi tevékenység idejére, váratlan támadás esetére való felkészülésre vonatkozó jogszabályokban meghatározott feladatok ellátására felkészülési tervet készít, valamint az ilyen feladatok ellátásához szükséges mértékű és összetételű tartalékot képez.
 
 (9) Különleges jogrendben, összehangolt védelmi tevékenység idején, váratlan támadás esetére alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében az elektronikus hírközlési szolgáltatóknak jogszabályban meghatározott módon együtt kell működniük egymással, illetve a feladat- és hatáskörrel rendelkező állami szervekkel.
 
 (10) Az elektronikus hírközlési szolgáltató a (9) bekezdés szerinti intézkedési terv alapján tett intézkedések, illetve a honvédelmi, védelmi és biztonsági érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott elektronikus hírközlési szolgáltatások tényleges költségeinek megtérítésére jogosult.
+
+(11) Az elektronikus hírközlési szolgáltató köteles együttműködni a Magyar Honvédség katonai kibertér műveleti erőivel a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 48. alcímében meghatározott feladataik végrehajtása céljából.
+
+(12) Az az elektronikus hírközlési szolgáltató, amely a Magyar Honvédség katonai kibertér műveleti erői részére a (11) bekezdés szerinti együttműködés keretében valamely személyes adatra is kiterjedő adatszolgáltatást teljesített, illetve ilyen adathoz hozzáférést biztosított, a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) szerinti érintetti jogok gyakorlása során az ezen műveletek tényéről, tartalmáról, a megtett intézkedésekről szóló tájékoztatást az elérni kívánt céllal arányosan késlelteti, a tájékoztatás tartalmát korlátozza vagy a tájékoztatást mellőzi, ha ezen intézkedés honvédelmi érdekből elengedhetetlenül szükséges. Az elektronikus hírközlési szolgáltató az érintetti jogok gyakorlása esetén haladéktalanul megkeresi a Magyar Honvédséget, amely 15 napon belül nyilatkozik az e korlátozás szükségességéről és annak terjedelméről, amelytől az elektronikus hírközlési szolgáltató nem térhet el.
 
 ### Együttműködés elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében
 
@@ -1803,13 +1810,15 @@ nem kell alkalmazni.
 
 (5) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság vagy a külön törvényben meghatározott hatóság által a szolgáltatás Magyarországon történő megkezdésének időpontja előtt elrendelt elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozását a szolgáltatás megkezdésétől a 159/C. § (1) bekezdése szerint teljesíteni.
 
-### Együttműködés a kormányzati eseménykezelő központtal
+### Együttműködés a nemzeti kiberbiztonsági incidenskezelő központtal
 
-92/B. § (1) Az elektronikus hírközlési szolgáltató köteles együttműködni a kormányzati eseménykezelő központtal az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben foglalt feladatai végrehajtása érdekében.
+92/B. § (1) Az elektronikus hírközlési szolgáltató köteles együttműködni a nemzeti kiberbiztonsági incidenskezelő központtal a Magyarország kiberbiztonságáról szóló törvényben foglalt feladatai végrehajtása érdekében.
 
-(2) Az elektronikus hírközlési szolgáltató köteles értesíteni a kormányzati eseménykezelő központot az általa üzemeltetett elektronikus hírközlő hálózatokat, illetve elektronikus hírközlési szolgáltatásokat érintő biztonsági eseményről, tudomására jutott fenyegetettségről, amely az elektronikus hírközlési hálózatban vagy az elektronikus hírközlési szolgáltatásban kedvezőtlen változást vagy egy előzőleg ismeretlen helyzetet idéz elő, vagy amelynek hatására az elektronikus hírközlési hálózatban vagy az elektronikus hírközlési szolgáltatásban hordozott információ bizalmassága, sértetlensége, hitelessége, funkcionalitása vagy rendelkezésre állása elvész, illetve megsérül.
+(2) Az elektronikus hírközlési szolgáltató köteles értesíteni a nemzeti kiberbiztonsági incidenskezelő központot az általa üzemeltetett elektronikus hírközlő hálózatokat, illetve elektronikus hírközlési szolgáltatásokat érintő kiberbiztonsági incidensről, tudomására jutott kiberbiztonsági incidensközeli helyzetről, valamint fenyegetettségről, amely az elektronikus hírközlési hálózatban vagy az elektronikus hírközlési szolgáltatásban kedvezőtlen változást vagy egy előzőleg ismeretlen helyzetet idéz elő, vagy amelynek hatására az elektronikus hírközlési hálózatban vagy az elektronikus hírközlési szolgáltatásban hordozott információ bizalmassága, sértetlensége, funkcionalitása vagy rendelkezésre állása elvész, illetve megsérül.
 
-(3) Az elektronikus hírközlési szolgáltató a kormányzati eseménykezelő központ tájékoztatása alapján köteles értesíteni azon előfizetőjét vagy felhasználóját, amelynek elektronikus hírközlő végberendezése vagy információs rendszere a biztonsági esemény bekövetkezésében érintett vagy azt okozta, vagy az által tudomása szerint fenyegetett.
+(3) Az elektronikus hírközlési szolgáltató a nemzeti kiberbiztonsági incidenskezelő központ tájékoztatása alapján köteles értesíteni azon előfizetőjét vagy felhasználóját, amelynek elektronikus hírközlő végberendezése vagy információs rendszere a kiberbiztonsági incidens bekövetkezésében érintett vagy azt okozta, vagy az által tudomása szerint fenyegetett.
+
+(4) Az az adatkezelő szerv, amely a nemzeti kiberbiztonsági incidenskezelő központ részére kiberbiztonsági érdekből adatszolgáltatást teljesített, adatbetekintést biztosított, az információs önrendelkezési jogról és információszabadságról szóló 2011. évi CXII. törvény 16. § (3) bekezdés a), b) d)–f) pontjában és 17. § (3) bekezdésében biztosított feltételek fennállása esetén ezek tényéről, tartalmáról, a megtett intézkedésekről az érintettet, illetve harmadik felet nem tájékoztathat.
 
 ### Együttműködés a hivatásos katasztrófavédelmi szervvel
 
@@ -1850,7 +1859,7 @@ nem kell alkalmazni.
 (9) A Kormány rendeletében
 
 - a) a nagy sebességű elektronikus hírközlő hálózatok kiépítésére műszakilag alkalmatlannak minősülő meglévő fizikai infrastruktúrára való tekintettel, vagy
-- b) létfontosságú rendszerelem védelme érdekében
+- b) kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében
 
 mentességeket határozhat meg az e §-ban foglalt rendelkezések vagy azok egy részének alkalmazása alól.
 
@@ -1891,7 +1900,7 @@ mentességeket határozhat meg az e §-ban foglalt rendelkezések vagy azok egy 
 (7) A Kormány rendeletében meghatározhatja azokat az építési munkákat, amelyek esetében az e §-ban foglalt rendelkezéseket vagy azok rendeletben meghatározott részét
 
 - a) az építési munkák csekély jelentőségére tekintettel vagy
-- b) létfontosságú rendszerelem védelme érdekében
+- b) kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében
 
 nem kell alkalmazni.
 
@@ -2089,9 +2098,37 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (2) Ha az áthelyezés a meglévő építmény korszerűsítésével vagy fejlesztésével jár együtt, a költségeket az érdekeltség arányában meg kell osztani.
 
+97/A. § (1) Az elektronikus hírközlési építmény üzemeltetője, ennek hiányában a tulajdonosa a használat során köteles az építmény állagát megóvni, az élet, a testi épség és az egészség, a köz- és vagyonbiztonság védelme érdekében az építmény műszaki állapotának rendszeres felülvizsgálatát és a szükséges átalakítási, felújítási, helyreállítási munkálatokat elvégezni, továbbá az üzemen vagy használaton kívüli hálózatokat elbontani.
+
+(2) Az elektronikus hírközlési építmény üzemeltetője, ennek hiányában tulajdonosa az építményt elbontja, ha annak használatával véglegesen felhagy, vagy az építmény további használatra alkalmatlan. Az üzemeltető, ennek hiányában a tulajdonos az elektronikus hírközlési építmény elbontását követően az eredeti állapot helyreállítására köteles, kivéve, ha az érintett ingatlan tulajdonosával vagy a tulajdonosi jog gyakorlójával eltérően állapodnak meg.
+
+(3) Azt az elektronikus hírközlési építményt, amelynek használatával véglegesen felhagytak, vagy használatra alkalmatlan, és tulajdonosa nem ismert vagy nem elérhető, az ingatlan tulajdonosa – a tulajdonát képező ingatlant érintő építményrész erejéig – az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló NMHH rendelet szerinti engedély alapján elbontathatja. A bontással okozott kárért a bontási engedélyt kérő felel.
+
+(4) Az elektronikus hírközlési építmény rongálódott, használaton kívüli, vagy használatra alkalmatlan állapotát a Hatóság ügyfélszolgálatán bárki bejelentheti.
+
 98. § Az elektronikus hírközlési építmény építtetője jogosult a folyóvíz, csatorna, természetes tavak és azok medrének, valamint az ország területe feletti légtérnek elektronikus hírközlési célú igénybevételére.
 
 98/A. § A szélessávú hálózatfejlesztési beruházás lehetséges nyomvonalai kiválasztásának elősegítése, a hiánytalan engedélyezési, bejelentési dokumentáció előkészítése érdekében az elektronikus hírközlési szolgáltató, illetve a tervező a hatósági eljárás megindítását megelőzően egyeztetést kezdeményezhet a Hatóságnál, valamint az érintett szakhatóságoknál, hatóságoknál, amelyek kötelesek az egyeztetésen részt venni.
+
+98/B. § (1) 2027. január 1-jétől belterületen a helyi építési szabályzatokban meghatározott területeken nyomvonalas elektronikus hírközlési építmény csak földfelszín alatti elhelyezéssel létesíthető.
+
+(2) Az (1) bekezdés nem vonatkozik
+
+- a) a földfelszín feletti elektronikus hírközlő hálózat
+  - aa) egyes szakaszainak más nyomvonalra történő áthelyezésére (kiváltás),
+  - ab) korszerűsítésére (ideértve a meglévő hálózat modernizálását, új technológiájú hálózattal történő kiváltását is),
+  - ac) felújítására, vagy
+- b) a meglévő, földfelszín feletti elektronikus hírközlő hálózatról előfizetői leágazással történő bekötésre.
+
+98/C. § (1) A helyi önkormányzat a működési területéhez tartozó, a helyi építési szabályzatában megjelölt belterületen – kormányrendeletben meghatározott feltételek szerint – jogosult a földfelszín felett 5 évnél régebben létesített nyomvonalas elektronikus hírközlő hálózat földfelszín alatti elhelyezésre történő cseréjét kezdeményezni, amennyiben az érintett előfizetők, illetve ingatlantulajdonosok az ingatlanukat érintő munkavégzéshez előzetesen hozzájárulnak, és annak költségeit vállalják.
+
+(2) A jogszerűen létesített elektronikus hírközlő hálózat üzemeltetője a kezdeményezés alapján 6 hónapon belül kiváltási-ütemezési tervet készít annak figyelembevételével, hogy az a szolgáltatásnyújtás folytonosságát ne veszélyeztesse.
+
+(3) Ha a kezdeményezés szerinti területen több elektronikus hírközlési szolgáltató, illetve hálózatüzemeltető is rendelkezik hálózattal, akkor a kiváltási-ütemezési tervet e törvénynek a tervezett építési munkák összehangolására vonatkozó szabályai szerint kell elkészíteni.
+
+(4) Az (1)–(3) bekezdés alkalmazandó a villamos energiáról szóló 2007. évi LXXXVI. törvény 33/F. §-ában foglalt, használaton kívüli hálózati infrastruktúra elbontásának esetében is.
+
+(5) Az (1)–(4) bekezdés alapján kialakított kiváltási-ütemezési tervet az érintett üzemeltetők és az önkormányzat közös megállapodásban véglegesítik. A megállapodás tartalmazza az elvégzendő munkákat és azoknak az egyes feleket terhelő költségeit.
 
 ### Az ingatlan tulajdonosának
 
@@ -2855,7 +2892,7 @@ adatainak egyeztetésére köteles.
 
 (5)
 
-(6) Az elektronikus hírközlési szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről a szolgáltató az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
+(6) Az elektronikus hírközlési szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről a szolgáltató Magyarország kiberbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
 
 (7) A logikai védelmi intézkedések teljesítésének vizsgálata során a számlázási rendszer vizsgálatának a számlázó szoftveren túl a teljes, a számlázásban részt vevő rendszer technológiai vizsgálata szükséges, beleértve a számlázási folyamathoz szükséges összes releváns bemeneti adatot (pl. mérési, fogyasztási adatok) kezelő rendszerelemet. A vizsgálatnak ki kell terjednie a rendszerben alkalmazott számlázó szoftver termék konkrét beállításainak, telepítésének és üzemeltetésének ellenőrzésére is.
 
@@ -3070,6 +3107,14 @@ kiállított számla érvénytelen.
 
 149/E. § A Hatóság a közérdekű feladatellátása keretében olyan programokat, tájékoztató kampányokat szervez, amelyek segítik a kiskorúakat és szüleiket az internetes bántalmakkal, visszaélésekkel és jogsértésekkel szembeni fellépésben.
 
+149/F. § (1) A Magyarországon letelepedett internet-hozzáférés szolgáltatást nyújtó szolgáltató köteles a szolgáltatás részeként, az előfizető nyilatkozata alapján, megfelelő műszaki megoldás alkalmazásával – egyéni előfizetők számára ingyenesen – lehetővé tenni, hogy az internet-hozzáférés szolgáltatás felhasználója ne férhessen hozzá a (3) bekezdésben meghatározott listán szereplő honlapokhoz (a továbbiakban: kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás). A szolgáltató az előfizetői szerződés megkötését megelőzően, valamint a 129. § (2b) bekezdés szerinti adategyeztetés során tájékoztatja az előfizetőt a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás igénybevételének lehetőségéről és egyéni előfizetők esetén annak ingyenességéről. Az előfizető jogosult a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás igénybevételéről szóló nyilatkozatát az előfizetői szerződés időtartama alatt díjmentesen, a szerződés egyéb feltételeire tekintet nélkül bármikor megváltoztatni.
+
+(2) A Magyarországon letelepedett helyhez kötött internet-hozzáférés szolgáltatást nyújtó szolgáltató az előfizető nyilatkozata alapján köteles azt is – egyéni előfizetők számára ingyenesen – lehetővé tenni, hogy az előfizetői szolgáltatás keretében ugyanazon előfizetői hozzáférési ponton az előfizető egyidejűleg külön-külön is hozzáférjen a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatáshoz és a nem szűrt internetszolgáltatáshoz.
+
+(3) A kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás nyújtása érdekében az Elnök a Magyarországról leggyakrabban látogatott, kifejezetten pornográf tartalmak bemutatását célzó honlapokról listát állít össze.
+
+(4) Az Elnök rendeletben állapítja meg a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatással összefüggő, (1) bekezdés szerinti előfizetői tájékoztatás és a szolgáltatás nyújtása módjának, valamint a (3) bekezdés szerinti lista összeállításának, felülvizsgálatának és közzétételének részletes szabályait.
+
 ### Szolgáltatóváltás és számhordozhatóság
 
 150. § (1) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató kérelemre köteles lehetővé tenni előfizetője számára, hogy megtarthassa a nemzeti számozási tervben szereplő
@@ -3175,7 +3220,7 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
 (11) Ha a hálózat egységességét és a szolgáltatás biztonságát érintő vagy veszélyeztető esemény következtében korábban nem ismert, új biztonsági kockázat jelentkezik, a szolgáltató legalább ügyfélszolgálatán és internetes honlapján haladéktalanul tájékoztatja a felhasználókat a korábban nem ismert, új biztonsági kockázatról, a védelem érdekében a felhasználó által tehető intézkedésekről, és azok várható költségeiről. A szolgáltató által nyújtott tájékoztatásért külön díj nem kérhető a felhasználótól. A szolgáltató által nyújtott tájékoztatás nem mentesíti a szolgáltatót a védelem érdekében teendő, a hálózat egységességével és a szolgáltatás megszokott biztonsági szintjének visszaállítása érdekében szükséges intézkedések megtétele alól.
 
-(12) A szolgáltató a személyes adatok védelmével, a szolgáltatás nyújtása során továbbított közlések bizalmasságával, valamint a hálózat és a szolgáltatás biztonságával kapcsolatos, e törvényben meghatározott kötelezettségein túlmenően, a biztonsági esemény kezelése érdekében vagy biztonsági esemény jelentős kockázatának fennállása esetén a megelőzés érdekében szükséges műszaki és szervezési intézkedések szempontjait, a megteendő intézkedések határidejét, a személyes adatok kezelésének részletes szabályait, a szolgáltatás nyújtása során továbbított közlések és küldemények bizalmasságának védelmére vonatkozó különleges feltételeket, valamint az azonosítókijelzés és hívásátirányítás feltételeit az Elnök rendeletben állapítja meg.
+(12) A szolgáltató a személyes adatok védelmével, a szolgáltatás nyújtása során továbbított közlések bizalmasságával, valamint a hálózat és a szolgáltatás biztonságával kapcsolatos, e törvényben meghatározott kötelezettségein túlmenően, a kiberbiztonsági incidens kezelése érdekében vagy kiberbiztonsági incidens jelentős kockázatának fennállása esetén a megelőzés érdekében szükséges műszaki és szervezési intézkedések szempontjait, a megteendő intézkedések határidejét, a személyes adatok kezelésének részletes szabályait, a szolgáltatás nyújtása során továbbított közlések és küldemények bizalmasságának védelmére vonatkozó különleges feltételeket, valamint az azonosítókijelzés és hívásátirányítás feltételeit az Elnök rendeletben állapítja meg.
 
 (13) Amennyiben valamely értéknövelt szolgáltatás nyújtásához a forgalmi adatokon kívüli helymeghatározási adatok szükségesek, a szolgáltató köteles a felhasználót, és előfizetőt tájékoztatni ezen adatok típusáról, az adatfeldolgozás céljáról, időtartamáról, továbbá arról, hogy az adatokat szükséges-e harmadik fél számára továbbítani.
 
@@ -3295,7 +3340,7 @@ vonatkozó adatokat.
 
 ### Bűnüldözési, nemzetbiztonsági és honvédelmi célú adatmegőrzési kötelezettség
 
-159/A. § (1) Az elektronikus hírközlő hálózat üzemeltetője, illetve az elektronikus hírközlési szolgáltatás szolgáltatója – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, a kérelmükre történő adatszolgáltatás érdekében – megőrzi az elektronikus hírközlési szolgáltatás előfizető, illetve felhasználó általi igénybevételével kapcsolatos, az érintett elektronikus hírközlési szolgáltatás nyújtásával összefüggésben a szolgáltató által előállított vagy kezelt alábbi adatokat:
+159/A. § (1) Az elektronikus hírközlő hálózat üzemeltetője, illetve az elektronikus hírközlési szolgáltatás szolgáltatója – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, a kijelölt honvédelmi szervezet, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, a kérelmükre történő adatszolgáltatás érdekében – megőrzi az elektronikus hírközlési szolgáltatás előfizető, illetve felhasználó általi igénybevételével kapcsolatos, az érintett elektronikus hírközlési szolgáltatás nyújtásával összefüggésben a szolgáltató által előállított vagy kezelt alábbi adatokat:
 
 - a) helyhez kötött telefon- vagy mobil rádiótelefon szolgáltatás, internet hozzáférési szolgáltatás, internetes telefon-, internetes levelezési szolgáltatás, illetve ezek kombinációja esetén az előfizető egyedi előfizetői szerződésben rögzített személyes adatai;
 - b) helyhez kötött telefon- vagy mobil rádiótelefon szolgáltatás, internet hozzáférési szolgáltatás, internetes telefon-, internetes levelezési szolgáltatás, illetve ezek kombinációja esetén az előfizetői, felhasználói végberendezés vagy előfizetői hozzáférési pont hívószáma vagy egyéb, az előfizető, felhasználó egyedi azonosításához szükséges – az előfizetői szerződésben rögzített, vagy az elektronikus hírközlési szolgáltató által egyéb módon az előfizetőhöz, felhasználóhoz rendelt – állandó műszaki-technikai azonosítók;
@@ -3474,7 +3519,7 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 163/E. § E törvény rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatályba lépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
-#### 163/F. §
+163/F. § E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 98/B. §-át a 2027. január 1-ét követően indult építésügyi hatósági engedélyezési eljárásokban kell alkalmazni.
 
 163/G. § A Kerekasztal a 149/A. § (2) bekezdésében említett ajánlást első ízben 2014. május elsejéig fogadja el és teszi közzé.
 
@@ -3507,7 +3552,23 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 (3) A közvélemény-kutató a Módtv2. által megállapított 162. § (6) bekezdése szerinti kötelezettségét első alkalommal a Módtv2. hatálybalépését követő harminc napon belül teljesíti.
 
-163/P. § E törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 86/B. §-át e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményekre vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 30. naptól kell alkalmazni.
+163/P. § (1) E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 86/B. § (1) bekezdését e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményekre vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 30. naptól kell alkalmazni.
+
+(2) E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 86/B. § (2) bekezdését e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlési szolgáltatáshoz használt rendszerek nemzeti kiberbiztonsági tanúsítási rendszeréről szóló rendelete hatálybalépését követő 180. naptól kell alkalmazni.
+
+163/Q. § (1) Az Elnök a gyermekek védelme érdekében az internetes pornográf tartalmak elérhetőségének korlátozásáról, valamint egyes elektronikus kereskedelmi szolgáltatással és reklámtevékenységgel összefüggő törvények módosításáról szóló 2024. évi XLIX. törvénnyel (a továbbiakban: Módtv3.) megállapított 149/F. § (3) bekezdése szerinti listát a Módtv3. hatálybalépését követő 120 napon belül állítja össze.
+
+(2) A Módtv3. által megállapított 149/F. §
+
+- a) (1) bekezdésének rendelkezéseit 2026. január 1-től kell alkalmazni a Magyarországon letelepedett mobil internet-hozzáférési szolgáltatást nyújtó szolgáltató mobil internet-hozzáférési szolgáltatása,
+- b) (1) és (2) bekezdésének rendelkezéseit 2026. május 1-től kell alkalmazni a 10 000 vagy annál több előfizetővel rendelkező, Magyarországon letelepedett internet-hozzáférés szolgáltatást nyújtó szolgáltató,
+- c) (1) és (2) bekezdésének rendelkezéseit 2027. január 1-től kell alkalmazni a 10 000-nél kevesebb előfizetővel rendelkező, Magyarországon letelepedett internet-hozzáférés szolgáltatást nyújtó szolgáltató
+
+esetében.
+
+(3) A (2) bekezdés alkalmazásában mobil internet-hozzáférési szolgáltatás: olyan rádiótávközlő hálózaton megvalósuló internet-hozzáférési szolgáltatás, amelyet a végfelhasználó a szolgáltatási területen belül mozgás közben is igénybe vehet.
+
+(4) A Módtv3. által megállapított 149/F. § (1) és (2) bekezdését a (2) bekezdés szerinti időpontokat megelőzően megkötött előfizetői szerződésekre is alkalmazni kell azzal, hogy a (2) bekezdésben meghatározott időpontokat követő egy éven belül az érintett szolgáltató köteles legalább harminc napos határidő biztosításával ingyenesen felajánlani az egyéni előfizető számára a 149/F. §-ban meghatározottak szerinti kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás igénybevételének lehetőségét.
 
 ### Hatálybalépés
 
@@ -3603,7 +3664,7 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 - 4. a frekvenciakijelöléshez egyes esetekben szükséges műszaki terv elkészítésére vonatkozó jogosultság képesítési feltételeit;
 - 5. a rádióspektrum másodlagos kereskedelmének elveit és részletes feltételeit;
 - 6. az egyedi használati jog biztosításával kapcsolatos hatósági eljárás rendjét, különösen a frekvenciakijelölési és rádióengedélyezési eljárás részletes feltételeit, az egyedi használati jogok kiadására, módosítására, visszavonására, meghosszabbítására, megújítására és kiadásának megtagadására vonatkozó részletes szabályokat, a rádióspektrum-használati jog gyakorlásának feltételeit és a rádióspektrum-használati engedélyben (frekvenciakijelölésben, rádióengedélyben, rádióspektrum-használati jogosultságban) foglalható feltételek részletes szabályait, valamint a rádióspektrum-használati jog érvényességének idejét a polgári célú rádióspektrum-gazdálkodás területén;
-- 7.
+- 7. a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatással összefüggő előfizetői tájékoztatás és a szolgáltatás nyújtása módjának, a 149/F. § (3) bekezdése szerinti lista összeállításának, felülvizsgálatának és közzétételének részletes szabályait;
 - 8. a rádióberendezések és elektronikus hírközlő végberendezések megfelelőség-igazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
 - 9. a rádióamatőrökre vonatkozó vizsgakövetelményeket, a vizsgáztatás rendjét és a vizsgabizonyítvány kiadásának feltételeit;
 - 10. az ellenőrzés, a mérőszolgálati és a zavarelhárítási tevékenység rendjét;
@@ -3641,6 +3702,8 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
 
 (5) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben határozza meg az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményeket.
+
+(6) Felhatalmazást kap az SZTFH elnöke, hogy – az Elnök véleményének kikérésével – rendeletben határozza meg az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.
 
 ### Módosuló jogszabályok
 
@@ -3733,10 +3796,11 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - i) a nagy sebességű elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről szóló, 2014. május 15-i 2014/61/EU európai parlamenti és a tanácsi irányelv 2. cikk 1–4. 7–9. valamint 11. pontja, 3. cikk, 4. cikk, 5. cikk, 6. cikk, 7. cikk, 8. cikk és a 9. cikk (1)–(4) bekezdésének,
 - j) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelvnek, valamint
 - k) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról szóló, 2007. május 16-i 2007/344/EK bizottsági határozatnak
+- l) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-(3) A 92/C. §, a 145/A. § és a 182. § (1) bekezdésének h) pontja a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+(3) E törvény 92/C. §-a, a 145/A. §-a, a 149/F. § (1) és (2) bekezdése, a 163/Q. § (2)–(4) bekezdése és a 182. § (1) bekezdés h) pontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 ### Értelmező rendelkezések
 
@@ -3753,7 +3817,7 @@ való megfelelést szolgálja.
 - 8. Áthelyezés: a helyhez kötött elektronikus hírközlési szolgáltatás előfizetői hozzáférési pontjának a szolgáltató földrajzi szolgáltatási területén belül másik földrajzi helyre áthelyezése.
 - 9. Barangolás mobil rádiótelefon-hálózaton: mobil rádiótelefon-hálózat üzemeltetőjének előfizetője által más mobil rádiótelefon-szolgáltató vagy -üzemeltető hálózatának igénybevétele oly módon, hogy az előfizető a részére előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltató hálózatában használt szolgáltatásokat és hívási módokat részben vagy egészben az igénybe vett hálózaton is használni tudja, anélkül, hogy ezen szolgáltató előfizetőjévé válna.
 - 10. Bitfolyam hozzáférés: kétirányú, adott nagy sebességű digitális hálózati szolgáltatás, amelynek során aktív hálózati eszközeinek átviteli kapacitását engedi át, illetve osztja meg az arra kötelezett szolgáltató az arra jogosult szolgáltatóval.
-- 11. Biztonsági esemény: olyan nem kívánt vagy nem várt esemény, amely ténylegesen kedvezőtlen hatást gyakorol az elektronikus hírközlő hálózatok és információs rendszereik, vagy az azokon – közvetve vagy közvetlenül – nyújtott elektronikus hírközlési szolgáltatások biztonságára, különösen azáltal, hogy hátrányosan érinti a tárolt, továbbított vagy kezelt adatok rendelkezésre állását, használatát, hitelességét, sértetlenségét, biztonságát vagy bizalmasságát.
+- 11. Kiberbiztonsági incidens: Magyarország kiberbiztonságáról szóló törvény szerinti fogalom.
 - 12. E-segélyhívás: olyan, járműből az európai harmonizált segélyhívó számra érkező segélyhívás, amelyet vagy automatikusan a járműbe épített érzékelő aktiválása hatására, vagy manuálisan indítanak, és amely szabványos adatokat továbbít mobil rádiótelefon-hálózatok segítségével, és hangátviteli csatornát hoz létre a járműben tartózkodók és a segélyszolgálati állomás között.
 - 13. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
 - 14. Elektronikus hírközlési építmény: a magyar építészetről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – többek között burkoló, tartó, védő, jelző – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket.
