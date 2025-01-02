@@ -68,37 +68,7 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 17. §
 
-18. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. §-a helyébe a következő rendelkezés lép:
-
-„8/A. § (1) A Nemzeti Információs Központ
-
-- a) kormányzati tájékoztató és döntés-előkészítő tevékenységet végez, amelynek keretén belül – az e törvényben meghatározott kivételekkel – kizárólagos hatáskörrel teljesíti a hírigényeket;
-- b) nyílt információgyűjtést és -feldolgozást végző szolgáltató és támogató szervet működtet a kormányzati tájékoztató tevékenységének ellátása, valamint az együttműködő szervek és az ügyészség tevékenységének elősegítése céljából;
-- c) Magyarország biztonsági, nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztatókat, kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
-- d) az együttműködő szerveket és az ügyészséget visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
-- e) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott eljárásokat és ezekről tájékoztatja az érintett ügyészséget, illetve együttműködő szervet;
-- f) amennyiben olyan információt szerez, amely megalapozza az együttműködő szerv, valamint az ügyészség eljárását, intézkedését, úgy erre vonatkozó kezdeményezéssel él, vagy javaslatot tesz, amelynek elfogadásáról vagy elutasításáról az együttműködő szerv nyolc munkanapon belül tájékoztatja az irányító minisztert és a Nemzeti Információs Központot;
-- g) a Magyarország terrorhelyzetére vonatkozó információk értékelése alapján javaslatot tesz a terrorfenyegetettség szintjének meghatározására;
-- h) országos jelentőségű, több szervet érintő ügyekben elemző-értékelő és koordinációs tevékenységet lát el;
-- i) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;
-- j) ellátja az utasadat-információs egység feladatait, e feladatkörében a rendelkezésére álló utasadatok és információk tekintetében elemző-értékelő tevékenység keretében kockázatelemzést végezhet;
-- k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatra, információra.
-
-(2) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a nemzeti szuverenitás védelméről szóló törvény szerinti feladatok ellátásának elősegítése céljából a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Szuverenitásvédelmi Hivatal részére tájékoztató tevékenységet folytat.
-
-(3) Az (1) bekezdés a) pontjában foglalt tevékenysége keretén belül a Nemzeti Információs Központ javaslatot tesz a nemzetbiztonsági szolgálatokat irányító miniszterek részére az időszerű feladatok meghatározására, valamint az együttműködő szervek számára információs igényeket fogalmaz meg.
-
-(4) A hírigények teljesítése érdekében a Nemzeti Információs Központ bármely együttműködő szervet adat- és információátadásra, továbbá a szolgáltatott adatok, információk kiegészítésére, pontosítására hívhatja fel.
-
-(5) Az együttműködő szerv a Nemzeti Információs Központ (3) és (4) bekezdésben meghatározott megkeresését köteles a Nemzeti Információs Központ által meghatározott határidőben teljesíteni. Az együttműködő szerv a teljesítés akadályáról, valamint ennek okáról a Nemzeti Információs Központot a megkeresés megérkezését követő 24 órán belül tájékoztatja.
-
-(6) Az (1) bekezdés e) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Nemzeti Információs Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
-
-(7) A Nemzeti Információs Központ ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését
-
-- a) a saját állománya tekintetében,
-- b) a Nemzeti Információs Központba vezényelt állomány tekintetében, valamint
-- c) azon személyek tekintetében, akiknek szolgálatteljesítési helyeként a Nemzeti Információs Központot jelölték ki.”
+#### 18. §
 
 #### 19. §
 
@@ -114,9 +84,7 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 25. §
 
-26. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 52/H. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A Nemzeti Információs Központ és a légiutas-adat szolgáltatója közötti kapcsolattartás, valamint a légiutas-adat átadásának módját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletben határozza meg.”
+#### 26. §
 
 #### 27. §
 
@@ -142,17 +110,17 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 - 12.
 - 13.
 - 14.
-- 15. 52/A. § (1) bekezdésében a „8/A. § (1)–(3) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdésében” szöveg,
-- 16. 52/B. § (1) bekezdés nyitó szövegrészében a „8/A. § (1)–(3) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdésében” szöveg,
-- 17. 52/E. § (1) bekezdésében a „8/A. § (3) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdésében” szöveg,
-- 18. 52/H. § (1) bekezdésében a „8/A. § (4) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdés j) pontjában” szöveg,
+- 15.
+- 16.
+- 17.
+- 18.
 - 19.
 - 20.
-- 21. 52/H. § (4) bekezdés nyitó szövegrészében a „8/A. § (4) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdés j) pontjában” szöveg,
+- 21.
 - 22.
 - 23.
 - 24.
-- 25. 52/H. § (7) bekezdésében a „(3) bekezdés i) pontjában” szövegrész helyébe a „(1) bekezdés f) pontjában” szöveg,
+- 25.
 - 26.
 - 27.
 - 28.
@@ -176,7 +144,7 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 - 46.
 - 47.
 - 48.
-- 49. 52/N. § (1) bekezdésében a „8/A. § (4) bekezdésében” szövegrész helyébe a „8/A. § (1) bekezdés j) pontjában” szöveg,
+- 49.
 - 50.
 - 51.
 - 52.
@@ -361,7 +329,7 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 - d)
 - e)
 - f)
-- g) 102. § (4) bekezdésében a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+- g)
 - h)
 - i)
 - j)
@@ -422,9 +390,9 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 - b)
 - c)
 - d)
-- e) 145. § (1) bekezdés a) pontjában a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+- e)
 - f)
-- g) 289/P. § (10) bekezdés a) pontjában a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+- g)
 - h)
 - i)
 
@@ -482,21 +450,9 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 64. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-111. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 3. § (7) bekezdése a következő g) ponttal egészül ki:
+#### 111. §
 
-(Szakmai felsővezető:)
-
-„g) a 13/C. § (1) bekezdése szerinti igazgató.”
-
-112. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény a következő 13/C. §-sal egészül ki:
-
-„13/C. § (1) A miniszterelnök nemzetbiztonsági főtanácsadója a feladat- és hatáskörébe tartozó feladatok ellátására igazgatókat nevezhet ki (a továbbiakban e § alkalmazásában: igazgató). Az igazgató tevékenységét a miniszterelnök nemzetbiztonsági főtanácsadója irányítja.
-
-(2) Az igazgató ellátja mindazon feladatokat, amelyeket a miniszterelnök nemzetbiztonsági főtanácsadója meghatároz, valamint amelyeket a 13/B. § (4) bekezdése szerinti minisztérium szervezeti és működési szabályzata megállapít számára.
-
-(3) Az igazgató illetményét a miniszterelnök nemzetbiztonsági főtanácsadója állapítja meg azzal, hogy az illetmény összege a helyettes államtitkári illetménysávnak megfelelően állapítható meg. Az igazgató helyettes államtitkári juttatásokra jogosult.
-
-(4) Az igazgató kormányzati szolgálati jogviszonyára – az e §-ban foglalt eltérésekkel – a főosztályvezetőre vonatkozó szabályokat kell alkalmazni.”
+#### 112. §
 
 #### 113. §
 
@@ -507,13 +463,13 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 116. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény
 
 - a)
-- b) 13/B. § (7) bekezdésében a „kabinetfőnök” szövegrész helyébe a „kabinetfőnök, valamint a 13/C. § (1) bekezdése szerinti igazgató” szöveg,
+- b)
 - c)
 - d)
 - e)
 - f)
 - g)
-- h) 155. § (4) és (4a) bekezdésében a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+- h)
 - i)
 - j)
 - k)
@@ -527,7 +483,7 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 - a)
 - b)
-- c) 63. § (12) és (12a) bekezdésében a „második hónap” szövegrész helyébe a „negyedik hónap” szöveg,
+- c)
 - d)
 - e)
 - f)

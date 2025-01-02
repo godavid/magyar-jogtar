@@ -67,11 +67,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 4. § (1)
 
-(2) Az Flt. 57/C. §-a a következő (3b)–(4) bekezdéssel egészül ki:
-
-„(3b) A nyugdíjbiztosítási igazgatási szerv nyugdíj-megállapítás céljából az 57/B. § (1) bekezdés 1. pont a) pont aa) és ac)–ae) alpontjában, 1. pont b)–d) pontjában szereplő adatokat az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel átveheti.
-
-(4) A pártfogó felügyelői szolgálatként a Kormány által kijelölt szerv a pártfogolt számára előírt külön magatartási szabályok ellenőrzése céljából az 57/B. § (1) bekezdés 1. pont a) pont aa) és ac)–ae) alpontjában, 1. pont c)–d) pontjában, 2. pont a) pont aa) alpontjában és 2. pont b) pont ba)–bc) alpontjában szereplő adatokat az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel átveheti.”
+(2)
 
 (3)
 
@@ -95,49 +91,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 9. § (1)
 
-(2) Az Nytv. a következő 23/A. §-sal egészül ki:
-
-„23/A. § E törvény felhatalmazása alapján a 17. § (2) bekezdés f) pontja szerinti adatok igénylésére jogosultak:
-
-a) a Kormány által a lakáscélú állami támogatásokkal kapcsolatos feladatok ellátására kijelölt szerv a lakáscélú állami támogatásokkal összefüggő feladatai tekintetében,
-
-b) a nyugdíj-megállapító szerv a jogszabályban meghatározott feladatai ellátásához,
-
-c) a családtámogatási ügyben eljáró hatóság a jogszabályban meghatározott feladatai ellátásához,
-
-d) a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésével, valamint a jogosulatlan vadászattal, illetve halászattal kapcsolatos feladatai ellátásához,
-
-e) a növény- és talajvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-
-f) a környezet- és természetvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-
-g) élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-biztonsági és állategészségügyi feladatai ellátásához,
-
-h) erdészeti hatóság az erdőgazdálkodói nyilvántartás vezetésével, erdészeti jogsértésekkel összefüggő feladatai ellátásához,
-
-i) ingatlan-nyilvántartási hatóság jogszabályban meghatározott feladatai ellátásához,
-
-j) a rehabilitációs hatóság a rehabilitációs elbírálási és megállapítási feladatai ellátásához,
-
-k) szociális hatóság pénzbeli és természetbeni ellátások megállapításával összefüggő feladatai ellátásához,
-
-l) a gyámhatóság a jogszabályban meghatározott feladatai ellátásához,
-
-m) az egészségügyi államigazgatási szerv a jogszabályban meghatározott feladatai ellátásához,
-
-n) a kulturális örökség védelmével összefüggő feladatokat ellátó szerv a jogszabályban meghatározott feladatai ellátásához,
-
-o) az építésügyi és építésfelügyeleti hatóság a jogszabályban meghatározott feladatai ellátásához,
-
-p) a fogyasztóvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-
-q) a kereskedelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-
-r) a jogi segítségnyújtó szolgálat, a pártfogó felügyelői szolgálat, valamint az áldozatsegítő szolgálat jogszabályban meghatározott feladatai ellátásához,
-
-s) a Családi Csődvédelmi Szolgálat a jogszabályban meghatározott feladatai ellátásához,
-
-t) a munkaügyi és munkavédelmi hatóság a jogszabályban meghatározott feladatai ellátásához.”
+(2)
 
 (3)
 
@@ -245,9 +199,7 @@ t) a munkaügyi és munkavédelmi hatóság a jogszabályban meghatározott fela
 
 #### 21. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-21. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81/A. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az őstermelői nyilvántartást vezető szerv a szükséges adatok átvétele érdekében az őstermelői nyilvántartáshoz az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít a munkaügyi és munkavédelmi hatóságnak a munkaügyi és munkavédelmi hatósági eljárással, ellenőrzéssel összefüggő feladatai ellátása céljából a (2) bekezdés a) és d)–e) pontjában szereplő adatokhoz.”
+#### 21. §
 
 #### 22. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
@@ -309,63 +261,7 @@ t) a munkaügyi és munkavédelmi hatóság a jogszabályban meghatározott fela
 
 (6)
 
-(7) A Gyvt. XXI. Fejezete a következő alcím címmel és 142/A–142/D. §-sal egészül ki:
-
-„Eseti gondnokok és eseti gyámok nyilvántartása
-
-142/A. § (1) Ezen alcím hatálya kiterjed az eseti gondnokok és az eseti gyámok adatainak nyilvántartására (ezen alcím alkalmazásában a továbbiakban: nyilvántartás).
-
-(2) A nyilvántartásban szereplő adatok kezelésének célja az eseti gondnokság és eseti gyámság alá helyezett személy jogai gyakorlásának elősegítése, illetve harmadik személyek jogainak védelme.
-
-142/B. § (1) A nyilvántartás az eseti gondnok tekintetében a következő adatokat és a változás időpontjának megjelölésével az adatváltozásokat tartalmazza:
-
-a) az eseti gondnok
-
-aa) családi és utónevét,
-
-ab) születési családi és utónevét,
-
-ac) születési helyét és idejét,
-
-ad) anyja születési családi és utónevét,
-
-ae) lakcímét,
-
-af) személyi azonosítóját,
-
-b) az eseti gondnok kijelöléséről szóló döntést és annak ügyszámát,
-
-c) az eseti gondnok kijelöléséről szóló döntést hozó hatóság megnevezését,
-
-d) azon ügycsoportot vagy ügycsoportokat, amelyben az eseti gondnok jogosult eljárni.
-
-(2) A nyilvántartás az eseti gyám tekintetében a következő adatokat és a változás időpontjának megjelölésével az adatváltozásokat tartalmazza:
-
-a) az eseti gyám
-
-aa) családi és utónevét,
-
-ab) születési családi és utónevét,
-
-ac) születési helyét és idejét,
-
-ad) anyja születési családi és utónevét,
-
-ae) lakcímét,
-
-af) személyi azonosítóját,
-
-b) az eseti gyám kijelöléséről szóló döntést és annak ügyszámát,
-
-c) az eseti gyám kijelöléséről szóló döntést hozó hatóság megnevezését,
-
-d) azon ügycsoportot vagy ügycsoportokat, amelyben az eseti gyám jogosult eljárni.
-
-(3) Az (1)–(2) bekezdés b)–d) pontja szerinti adatokat a nyilvántartás közhitelesen tartalmazza.
-
-142/C. § Az eseti gondnokot, illetve eseti gyámot kirendelő hatóság a nyilvántartásba történő bejegyzés céljából a döntését megküldi az Országos Bírósági Hivatal (a továbbiakban: nyilvántartást vezető szerv) részére. A nyilvántartásba az adatokat a nyilvántartást vezető szerv jegyzi be.
-
-142/D. § A nyilvántartást vezető szerv az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett a nyilvántartáshoz ingyenesen közvetlen hozzáférést biztosít.”
+(7)
 
 (8)
 
@@ -378,13 +274,7 @@ d) azon ügycsoportot vagy ügycsoportokat, amelyben az eseti gyám jogosult elj
 
 #### 29. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-29. § (1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 59. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) A Nyilvántartáshoz az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztül hozzáfér
-
-a) a környezet- és természetvédelmi hatóság a környezetkárosítást végzők beazonosítása érdekében,
-
-b) a munkaügyi és munkavédelmi hatóság a helyszíni munkaügyi és munkavédelmi ellenőrzések végrehajtása céljából.”
+29. § (1)
 
 (2)
 
@@ -422,9 +312,7 @@ b) a munkaügyi és munkavédelmi hatóság a helyszíni munkaügyi és munkavé
 
 32. § (1)
 
-(2) Az Ebtv. 79. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A nyugdíjbiztosítási igazgatási szerv, az állami foglalkoztatási szerv, a rehabilitációs hatóság, a családtámogatási feladatokat ellátó szerv, a munkaügyi és munkavédelmi hatóság, valamint a szociális igazgatás szerve a rá vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén a nyilvántartásba felvett adatok azon körét ismerheti meg – figyelemmel az Eüak. rendelkezéseire is – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel, amely tevékenységéhez közvetlenül szükséges.”
+(2)
 
 (3)
 
@@ -447,29 +335,7 @@ b) a munkaügyi és munkavédelmi hatóság a helyszíni munkaügyi és munkavé
 
 34. § (1)
 
-(2) Az Inytv. 72. § (1) bekezdése a következő f)–o) ponttal egészül ki:
-
-[Az ingatlanügyi hatóság kérelemre, ha jogszabály másként nem rendelkezik, az Elektronikus Kormányzati Gerinchálózaton (a továbbiakban: EKG) keresztül hozzáférést biztosít, hogy]
-
-„f) a Kormány által a lakáscélú állami támogatásokkal kapcsolatos feladatok ellátására kijelölt szerv a lakáscélú állami támogatásokkal kapcsolatos, jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-
-g) a mezőgazdasági igazgatási szerv, a környezet- és természetvédelmi hatóság és az erdészeti hatóság a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-
-h) a gyámhatóság a gondnoksági ügyekben a gondnokolt ingatlanvagyonának megismerése céljából szükséges egyedi adatokat lekérdezze,
-
-i) a szociális hatóság pénzbeli és természetbeni ellátások megállapítása céljából szükséges egyedi adatokat lekérdezze,
-
-j) az állami foglalkoztatási szerv az álláskeresési támogatás megállapításához szükséges egyedi adatokat lekérdezze,
-
-k) a munkaügyi és munkavédelmi hatóság a munkaügyi és munkavédelmi ellenőrzés és az annak alapján induló hatósági eljáráshoz szükséges egyedi adatokat lekérdezze,
-
-l) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához szükséges egyedi adatokat lekérdezze,
-
-m) a kulturális örökség védelmével összefüggő feladatokat ellátó, kormányrendeletben meghatározott eljáró hatóság a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-
-n) az építésügyi és építésfelügyeleti hatóság a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-
-o) a fővárosi és vármegyei kormányhivatal személyiadat- és lakcímnyilvántartási feladatkörében eljáró járási (fővárosi kerületi) hivatala, a kormányablak a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze.”
+(2)
 
 (3)
 
@@ -525,17 +391,7 @@ o) a fővárosi és vármegyei kormányhivatal személyiadat- és lakcímnyilvá
 
 #### 42. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-42. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 19. § (2) bekezdése a következő h)–k) ponttal egészül ki:
-
-(A nyilvántartásból adatot igényelhetnek:)
-
-„h) a kereskedelmi hatóság az utazásszervezői tevékenységgel összefüggő eljárások és az azokkal kapcsolatos ellenőrzési feladatok ellátásához a 9. § (1) bekezdésében foglalt adatokat,
-
-i) a szociális hatóság a pénzbeli és természetbeni ellátások megállapításához a 9. § (1) bekezdésében foglalt adatokat,
-
-j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához a 9. § (1)–(1b) bekezdésében foglalt adatokat,
-
-k) a környezet- és természetvédelmi hatóság a környezetkárosítást végzők beazonosítása érdekében a 9. § (1) bekezdésében foglalt adatokat.”
+42. § (1)
 
 (2)
 
@@ -565,9 +421,7 @@ k) a környezet- és természetvédelmi hatóság a környezetkárosítást vég
 
 47. § (1)
 
-(2) A Kötv. 72. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) A hatóság a 71. § (1) bekezdése szerinti védettség tényére vonatkozó adatok átadásához az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít az építésügyi és építésfelügyeleti hatóságnak az építésfelügyeleti ellenőrzés, szabálytalan építési tevékenységgel kapcsolatos építésrendészeti eljárás lefolytatása céljából.”
+(2)
 
 (3)
 
@@ -677,13 +531,7 @@ k) a környezet- és természetvédelmi hatóság a környezetkárosítást vég
 
 63. § (1)
 
-(2) Az Evt. 39. § (3) bekezdése a következő i) ponttal egészül ki:
-
-(Az erdészeti hatóság térítésmentesen elektronikus hozzáférést biztosít)
-
-„i) a környezet- és természetvédelmi hatóság részére az erdészeti hatósági eljárásban természetvédelmi szakkérdés vizsgálata, valamint az erdőgazdálkodási tevékenységek természetvédelmi szempontú korlátozása érdekében szükséges erdők”
-
-(Adattárban nyilvántartott adataihoz.)
+(2)
 
 (3)
 
@@ -711,9 +559,7 @@ k) a környezet- és természetvédelmi hatóság a környezetkárosítást vég
 
 #### 65. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-65. § (1) A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Kgfbtv.) 47. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A kötvénynyilvántartás a 46. § (2) bekezdésében meghatározott adatokat automatikusan és díjmentesen szolgáltatja a Kknyt. szerinti járműnyilvántartásnak.”
+65. § (1)
 
 (2)
 
@@ -773,13 +619,7 @@ k) a környezet- és természetvédelmi hatóság a környezetkárosítást vég
 
 (3)
 
-(4) Az At. 81/A. § (1) bekezdése a következő e)–f) ponttal egészül ki:
-
-[Az elektronikus anyakönyvben, az apai elismerő nyilatkozatok nyilvántartásában, az okirat-nyilvántartásban és a jogosultsági nyilvántartásban kezelt adatok teljes körét, valamint az elektronikus alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, valamint az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával]
-
-„e) a kormányablak az előtte folyamatban lévő eljárásban részt vevő személyek személyi adatainak ellenőrzése, valamint a családi kapcsolatok fennállásának megállapítása, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése céljából,
-
-f) a gyámhatóság a jogszabályban meghatározott feladatainak ellátása céljából.”
+(4)
 
 (5)
 
@@ -839,13 +679,9 @@ f) a gyámhatóság a jogszabályban meghatározott feladatainak ellátása cél
 
 (6)
 
-(7) Az Mmtv. 21. § (3) bekezdése helyébe a következő rendelkezés lép:
+(7)
 
-„(3) A bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a gyámügyi feladatokat ellátó szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.”
-
-(8) Az Mmtv. 21. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az állami foglalkoztatási szerv, a munkaügyi és munkavédelmi hatóság, a családtámogatási ellátásokat megállapító szerv, az egészségbiztosítási szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel jogosult az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – lekérdezésére. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.”
+(8)
 
 (9)
 
@@ -867,9 +703,7 @@ f) a gyámhatóság a jogszabályban meghatározott feladatainak ellátása cél
 
 #### 81. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-81. § (1) A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 6. § (18a) bekezdése helyébe a következő rendelkezés lép:
-
-„(18a) A természetvédelmi hatóság egyedi hatósági feladatok ellátása és hatósági nyilvántartások vezetése érdekében, a természet védelméért felelős miniszter – természetvédelmi hatósági hatáskörében – a természetvédelmi törzskönyvek vezetése, továbbá a nemzeti park igazgatóságok a természetvédelmi törzskönyvek adatainak gyűjtése és nyilvántartása érdekében díj-, költség- és térítésmentesen, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztül hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisoknak ezen feladatok ellátásához szükséges adataihoz”.”
+81. § (1)
 
 (2)
 
@@ -883,11 +717,9 @@ f) a gyámhatóság a jogszabályban meghatározott feladatainak ellátása cél
 
 #### 84. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-84. § (1) A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:20. § (1) bekezdése helyébe a következő rendelkezés lép:
+84. § (1)
 
-„(1) Az eljáró hatóság eseti gondnokot rendel, ha a gondnok jogszabály vagy a gyámhatóság rendelkezése folytán, érdekellentét vagy más tényleges akadály miatt nem járhat el.”
-
-(2) A Ptk. 6:20. § (5) bekezdésében az „A gyámhatóság” szövegrész helyébe az „Az eljáró hatóság” szöveg lép.
+(2)
 
 (3)
 
@@ -943,17 +775,7 @@ f) a gyámhatóság a jogszabályban meghatározott feladatainak ellátása cél
 
 #### 96. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény módosítása
 
-96. § Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 7. §-a a következő (28) és (29) bekezdéssel egészül ki:
-
-„(28) A felsőoktatási információs rendszerből az oktatási nyilvántartás működéséért felelős szerv a kormányablaknak, a családtámogatási ügyben eljáró hatóságnak, az állami foglalkoztatási szervnek, a nyugdíjbiztosítási igazgatási szervnek, valamint a rehabilitációs hatóságnak a feladatellátásához szükséges adatok tekintetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít.
-
-(29) Az oktatási nyilvántartás működéséért felelős szerv az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásából, illetve a tanköteles gyermekek nyilvántartásából
-
-a) a családi pótlékra való jogosultság ellenőrzése céljából a tankötelezettség teljesítésére vonatkozó adatok tekintetében a családtámogatási ügyben eljáró hatóság részére,
-
-b) az árvaellátáshoz kapcsolódó kérelmek elbírásához a nyugdíjbiztosítási igazgatási szerv részére
-
-az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít.”
+#### 96. §
 
 #### 97. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról szóló 2018. évi XCVII. törvény módosítása
 

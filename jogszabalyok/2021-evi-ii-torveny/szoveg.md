@@ -361,19 +361,7 @@ l)
 
 (4)
 
-(5) A Ht. 43. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az elkülönített hulladékgyűjtési rendszert a közszolgáltató úgy alakítja ki, hogy)
-
-„a) legalább
-
-aa) a települési papír-, üveg-, műanyag, fém- és zöldhulladék,
-
-ab) a háztartásokban képződő biohulladék, és
-
-ac) a háztartásokban képződő veszélyes hulladék és a textilhulladék
-
-elkülönített gyűjtése biztosított legyen;”
+(5)
 
 (6)
 
@@ -401,11 +389,7 @@ elkülönített gyűjtése biztosított legyen;”
 
 #### 64. §
 
-65. § A Ht. VI. Fejezete a következő 25/B. alcímmel egészül ki:
-
-„25/B. A textilhulladék
-
-60/B. § A hulladékbirtokos a textilhulladékot elkülönítve gyűjti.”
+#### 65. §
 
 66. § (1)
 

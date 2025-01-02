@@ -114,9 +114,7 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 #### 33. §
 
-34. § Az Nbtv. a következő 8/E. §-sal egészül ki:
-
-„8/E. A Nemzeti Információs Központ a 8/A. § (8) bekezdésében meghatározott feladatkörében végrehajtja az (EU) 2019/817 európai parlament és tanácsi rendelet szerinti esetekben az ETIAS nemzeti egység számára meghatározott feladatokat. Ezzel összefüggésben adatokat kérhet – az adatkérés céljának megjelölésével – a tagállami illetékes hatóságoktól, valamint e törvény alapján a 30/A. § szerinti együttműködő szervtől, továbbá az általa kezelt adatot az adat kezelésére feljogosított, feladat- és hatáskörénél fogva érintett tagállami illetékes hatóságnak és a 30/A. § szerinti együttműködő szervnek a hatáskörébe tartozó intézkedés megtétele érdekében továbbítja.”
+#### 34. §
 
 #### 35. §
 
@@ -324,11 +322,7 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 (2)
 
-(3) A Bnytv. 68. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-[Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni]
-
-„g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés b) pontjában, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (2), (4) és (8) bekezdésében meghatározott feladatai ellátása céljából,”
+(3)
 
 #### 98. §
 

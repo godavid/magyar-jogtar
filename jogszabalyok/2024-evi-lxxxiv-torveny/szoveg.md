@@ -868,15 +868,13 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 29. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-46. § Hatályát veszti a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 32. alpontja.
+#### 46. §
 
 #### 30. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-47. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény a következő 22/B. §-sal egészül ki:
+#### 47. §
 
-„22/B. § E törvény felhatalmazása alapján a 17. § (2) bekezdés e) pontja szerinti adatok és a lakcím igénylésére jogosultak a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, az ellenőrzött anyagokkal és kábítószer prekurzorokkal, az atomenergiával, a személy és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz.”
-
-48. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 22. § c) pontja.
+#### 48. §
 
 #### 31. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
@@ -884,115 +882,25 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 50. §
 
-51. § A Rendőrségről szóló 1994. évi XXXIV. törvény V. Fejezete a következő alcímmel egészül ki:
-
-### „A súlyos bűncselekmény áldozatává vagy elkövetőjévé válás veszélyével érintett gyermekek és különleges bánásmódot igénylő nagykorú személyek vonatkozásában szükséges, utazás megakadályozásának lehetőségével járó figyelmeztető jelzés elhelyezése
-
-46/M. § (1) A rendőrség az e törvényben meghatározott bűnmegelőzési feladatai ellátása céljából a (3) bekezdésben meghatározott személyek bejelentése alapján az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) vagy e) pontja szerinti figyelmeztető jelzés (a továbbiakban: az áldozattá válás kockázatára utaló figyelmeztető jelzés) elhelyezését rendelheti el a Schengeni Információs Rendszerben
-
-- a) arra a tizennyolc év alatti személyre, akinek esetében fennáll a (2) bekezdésben foglalt súlyos bűncselekmény áldozatává vagy elkövetőjévé válás konkrét és közvetlen veszélye (a továbbiakban: áldozattá válás kockázatának kitett gyermek) vagy
-- b) arra a különleges bánásmódot igénylő nagykorú személyre, akinek esetében fennáll a (2) bekezdés 13–21. pontjában vagy 24. pontjában foglalt súlyos bűncselekmény áldozatává válás konkrét és közvetlen veszélye (a továbbiakban: az áldozattá válás kockázatának kitett különleges bánásmódot igénylő nagykorú személy).
-
-(2) Ezen alcím alkalmazásában súlyos bűncselekmény
-
-- 1. az emberiesség elleni bűncselekmények (Btk. XIII. fejezet),
-- 2. a tiltott toborzás (Btk. 146. §),
-- 3. a hadikövet elleni erőszak (Btk. 148. §),
-- 4. a védett személyek elleni erőszak (Btk. 149. §),
-- 5. a túlélők megölésére utasítás (Btk. 150. §),
-- 6. az élő pajzs használata (Btk. 151. §),
-- 7. a tiltott sorozás (Btk. 152. §),
-- 8. a védett tulajdon elleni támadás (Btk. 153. §),
-- 9. a háborús fosztogatás (Btk. 154. §),
-- 10. a nemzetközi szerződés által tiltott fegyver alkalmazása (Btk. 155. §),
-- 11. a humanitárius szervezet elleni támadás (Btk. 156. §),
-- 12. az emberölés előkészülete [Btk. 160. § (3) bekezdés],
-- 13. a testi sértés Btk. 164. § (5) és (6) bekezdése szerint minősülő esetei,
-- 14. az emberrablás (Btk. 190. §),
-- 15. az emberkereskedelem és kényszermunka (Btk. 192. §),
-- 16. a személyi szabadság megsértése (Btk. 194. §),
-- 17. a kényszerítés (Btk. 195. §),
-- 18. a szexuális kényszerítés (Btk. 196. §),
-- 19. a szexuális erőszak (Btk. 197. §),
-- 20. a szexuális visszaélés (Btk. 198. §),
-- 21. a prostitúció elősegítése (Btk. 201. §),
-- 22. a gyermekprostitúció kihasználása (Btk. 203. §),
-- 23. a gyermekpornográfia (Btk. 204. §),
-- 24. a kapcsolati erőszak (Btk. 212/A. §),
-- 25. a családi jogállás megsértése (Btk. 213. §),
-- 26. a közösség tagja elleni erőszak (Btk. 216. §),
-- 27. a terrorcselekmény (Btk. 314. §).
-
-(3) A rendőrség az áldozattá válás kockázatára utaló figyelmeztető jelzés elhelyezését
-
-- a) az áldozattá válás kockázatának kitett gyermek törvényes képviselője vagy a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója (a továbbiakban: közeli hozzátartozó),
-- b) a gyámság alatt álló áldozattá válás kockázatának kitett gyermek gyámja,
-- c) – ha az áldozattá válás kockázatának kitett gyermek gyermekotthonban van elhelyezve –, az elhelyezésére szolgáló gyermekotthon vezetője,
-- d) az áldozattá válás kockázatának kitett különleges bánásmódot igénylő nagykorú személy közeli hozzátartozója,
-- e) a gondnokság alatt álló áldozattá válás kockázatának kitett különleges bánásmódot igénylő nagykorú személy gondnoka, vagy
-- f) az ügyben eljáró nyomozó hatóság
-
-bejelentése alapján rendelheti el.
-
-(4) Ha a bejelentést nem az áldozattá válás kockázatának kitett gyermek törvényes képviselője tette meg, a rendőrség tájékoztatja a törvényes képviselőt annak érdekében, hogy kifejthesse a bejelentéssel kapcsolatos álláspontját. A rendőrség a törvényes képviselő tájékoztatásától eltekint, amennyiben a bejelentés adatai alapján a veszélyeztetés a törvényes képviselővel hozható összefüggésbe.
-
-(5) A rendőrség a gyermekotthon vezetője által tett bejelentésről tájékoztatja a gyámot.
-
-(6) Az áldozattá válás kockázatára utaló figyelmeztető jelzés elhelyezése alapjául szolgáló bejelentésnek tartalmaznia kell
-
-- a) a bejelentő nevét, lakóhelyét vagy székhelyét, továbbá a bejelentés tételére való jogosultság jogcímét és az arra vonatkozó okirati bizonyítékot, amennyiben szükséges,
-- b) az áldozattá válás kockázatának kitett gyermek vagy az áldozattá válás kockázatának kitett különleges bánásmódot igénylő nagykorú személy (a továbbiakban együtt: áldozattá válás kockázatának kitett személy) nevét, anyja nevét, születési helyét és idejét, lakóhelyét, bejelentett tartózkodási helyét,
-- c) azoknak a tényeknek és körülményeknek a megjelölését, amelyek alapján fennáll annak konkrét és közvetlen veszélye, hogy az áldozattá válás kockázatának kitett személyt valamely súlyos bűncselekménnyel összefüggésben rövid időn belül elvihetik Magyarországról,
-- d) annak a személynek a nevét és kapcsolattartási adatait, akit az áldozattá válás kockázatának kitett személy feltartóztatása esetén értesíteni kell, és
-- e) azoknak a személyeknek az adatait, akiknek a kíséretében az áldozattá válás kockázatának kitett személy elhagyhatja Magyarországot.
-
-(7) A rendőrség a bejelentőt és az áldozattá válás kockázatának kitett személyt szükség szerint meghallgathatja.
-
-(8) A jelzésben fel kell tüntetni annak megjelölését, hogy mely bűncselekmény konkrét és nyilvánvaló veszélye áll fenn, hivatkozva az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés d) és e) pontjában meghatározott bűncselekményekre, illetve a (2) bekezdésben felsorolt tényállásokra is.
-
-(9) A figyelmeztető jelzés elhelyezésének elrendelése esetén a rendőrség – legfeljebb egy évre – meghatározza annak időtartamát.
-
-(10) A rendőrség a figyelmeztető jelzés elrendelése esetén annak Schengeni Információs Rendszerben történő elhelyezésére a körözési nyilvántartási rendszer útján intézkedik, ezzel egyidejűleg értesíti a SIRENE Irodát.
-
-(11) Az áldozattá válás kockázatára utaló figyelmeztető jelzés elhelyezéséről a rendőrség a lehető legrövidebb úton értesíti a bejelentőt, az áldozattá válás kockázatának kitett személyt és szükség szerint annak törvényes képviselőjét. A rendőrség a törvényes képviselő jelzés elhelyezéséről szóló értesítésétől eltekint, amennyiben a veszélyeztetés a törvényes képviselővel hozható összefüggésbe.
-
-(12) Ha az áldozattá válás kockázatára utaló figyelmeztető jelzés elhelyezésének elrendelése során az iratokból kitűnik, hogy súlyos bűncselekmény gyanúja merül fel, a rendőrség a nyomozást hivatalból megindítja.
-
-(13) A rendőrség a figyelmeztető jelzés szükségességét az annak lejárta előtt a jelzést megalapozó bejelentést tevő személytől beérkezett újabb bejelentés alapján vagy hivatalból felülvizsgálja. Ha a bejelentés megalapozott vagy az (EU) 2018/1862 rendelet 53. cikk (6) bekezdésében foglalt feltételek fennállnak, a rendőrség a figyelmeztető jelzést legfeljebb egy évvel meghosszabbítja, ellenkező esetben törli.”
+#### 51. §
 
 #### 52. §
 
 #### 53. §
 
-54. § A Rendőrségről szóló 1994. évi XXXIV. törvény 97. § (1) bekezdése a következő t) ponttal egészül ki:
+#### 54. §
 
-„t) különleges bánásmódot igénylő nagykorú személy: a fogyatékos, a gondokság alatt álló vagy olyan nagykorú személy, aki korábban emberkereskedelem vagy nemi erkölcs elleni bűncselekmény sértettjévé vált.”
-
-55. § A Rendőrségről szóló 1994. évi XXXIV. törvény
-
-- a) 6/A. §-ában a „meghatározott feladatok ellátásáról” szövegrész helyébe a „meghatározott feladatok, valamint az 1. § (2) bekezdés 6a. pontjában meghatározott létesítménybiztosítási feladatok ellátásáról” szöveg,
-- b) 37/A. § (1) bekezdés nyitó szövegrészében a „létfontosságú rendszerelem működésének” szövegrész helyébe a „kritikus infrastruktúra működésének vagy az alapvető szolgáltatás nyújtásának” szöveg,
-- c) 46/I. § (4) bekezdésében a „külföldi figyelmeztető jelzés” szövegrész helyébe a „figyelmeztető jelzés” szöveg
-
-lép.
+#### 55. §
 
 #### 32. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-56. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont iw) alpontja helyébe a következő rendelkezés lép:
+#### 56. §
 
-(E törvény alkalmazásában
-
-nemzetbiztonsági ellenőrzés alá eső személy:)
-
-  - „iw) a kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezetekkel, kritikus infrastruktúrákkal, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, az ország védelme és biztonsága szempontjából jelentős szervezetekkel, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal kapcsolatos közigazgatási hatósági eljárásban a hatóságok és az ágazati szakhatóságok részéről eljáró személy;”
-
-57. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény a következő 80/A. §-sal egészül ki:
-
-„80/A. § A 74. § i) pont iw) alpontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+#### 57. §
 
 #### 33. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-58. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § 12. pontjában az „a kábítószerekkel és pszichotrop anyagokkal,” szövegrész helyébe az „az ellenőrzött anyagokkal és kábítószer-prekurzorokkal, az atomenergiával,” szöveg lép.
+#### 58. §
 
 #### 34.
 
@@ -1004,7 +912,7 @@ nemzetbiztonsági ellenőrzés alá eső személy:)
 
 #### 61. §
 
-62. § Hatályát veszti a víziközlekedésről szóló 2000. évi XLII. törvény 88. § (1) bekezdés n) pontja.
+#### 62. §
 
 #### 36.
 
@@ -1014,22 +922,9 @@ nemzetbiztonsági ellenőrzés alá eső személy:)
 
 #### 37. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-65. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 187. § (2) bekezdése a következő l) ponttal egészül ki:
+#### 65. §
 
-(Ez a törvény)
-
-„l) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-66. § Az elektronikus hírközlésről szóló 2003. évi C. törvény
-
-- a) 83/A. § (7) bekezdés b) pontjában a „létfontosságú rendszerelem védelme” szövegrész helyébe a „kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége” szöveg,
-- b) 92. § (8) bekezdésében a „létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről” szövegrész helyébe a „kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezet, kritikus infrastruktúra, illetve a védelmi és biztonsági tevékenységek összehangolásáról” szöveg, az „európai vagy nemzeti létfontosságú rendszerelem” szövegrész helyébe az „ország védelme és biztonsága szempontjából jelentős szervezet, ország védelme és biztonsága szempontjából jelentős infrastruktúra” szöveg, az „azonosítási jelentés a kockázatelemzés” szövegrész helyébe a „kockázatértékelés” szöveg és az „üzemeltetői biztonsági” szövegrész helyébe az „ellenálló képességi” szöveg,
-- c) 93/A. § (9) bekezdés b) pontjában a „létfontosságú rendszerelem védelme” szövegrész helyébe a „kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége” szöveg,
-- d) 93/B. § (7) bekezdés b) pontjában a „létfontosságú rendszerelem védelme” szövegrész helyébe a „kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége” szöveg
-
-lép.
+#### 66. §
 
 #### 38. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
@@ -1057,43 +952,23 @@ lép.
 
 #### 76. §
 
-77. § A menedékjogról szóló 2007. évi LXXX. törvény 83. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 77. §
 
-„(2) A menekültügyi hatóság
-
-- a) az (1) bekezdés a)–o) és q)–z) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől számított huszonöt évig,
-- b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől számított tíz évig
-
-kezeli.”
-
-78. § (1) A menedékjogról szóló 2007. évi LXXX. törvény 87. § (1) bekezdése a következő r) ponttal egészül ki:
-
-(Az e fejezetben meghatározott nyilvántartásokból jogszabályban meghatározott feladataik ellátása céljából – törvényben meghatározott adatkörben –)
-
-„r) a közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság”
-
-(igényelhetnek adatot.)
+78. § (1)
 
 (2)
 
-79. § A menedékjogról szóló 2007. évi LXXX. törvény 89. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A menekültügyi hatóság a (2) bekezdés a)–e) pontja szerinti adatokat
-
-- a) az Európai Unió tagállamainak, vagy a többi schengeni államnak a menekültügyi hatóságai számára,
-- b) az Európai Unió tagállamainak, vagy a többi schengeni államnak a 87. § (1) bekezdés a)–e) pontjai szerinti más hatóságai számára
-
-hatósági eljárás lefolytatása érdekében adhatja át.”
+#### 79. §
 
 #### 80. §
 
 #### 41. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-81. § Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 44. pontja.
+#### 81. §
 
 #### 42. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-82. § Hatályát veszti a földgázellátásról szóló 2008. évi XL. törvény 132. § 49. pontja.
+#### 82. §
 
 #### 43. A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény módosítása
 
@@ -1113,28 +988,13 @@ hatósági eljárás lefolytatása érdekében adhatja át.”
 
 #### 44. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-90. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 8. § (2) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-(A katasztrófák elleni védekezésért felelős miniszter)
-
-„i) felelős a kritikus szervezetek és a kritikus infrastruktúrák ellenálló képességéért, az ágazatokért felelős miniszterekkel együttműködve,”
+#### 90. §
 
 #### 45. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-91. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 58. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 91. §
 
-„(2) Az (1) bekezdés nem alkalmazható
-
-- a) egészségügyi, valamint köznevelési, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény,
-- b) lakossági felhasználó részére végzett közműves szennyvízelvezetés és -tisztítás,
-- c) a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezetek, kritikus infrastruktúrák, valamint
-- d) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák
-
-esetében.”
-
-92. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 88. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az 58. § (2) bekezdés c) pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+#### 92. §
 
 #### 46.
 
@@ -1168,41 +1028,21 @@ esetében.”
 
 #### 48. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
 
-106. § (1) Hatályát veszti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 1–6. alcíme, 14. §-a, 15/A–15/C. §-a és 1. melléklete.
+106. § (1)
 
-(2) Hatályát veszti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 6/A. alcíme és 15/D. §-a.
+(2)
 
-(3)
+(3) Hatályát veszti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény.
 
 #### 49. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 
-107. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 1. §-a a következő 6. ponttal egészül ki:
+#### 107. §
 
-(E törvény alkalmazásában:)
+#### 108. §
 
-„6. ország működését biztosító felhasználó: a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezet, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerint kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezet az általa nyújtott alapvető szolgáltatás nyújtásának mértékéig.”
+#### 109. §
 
-108. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 9. § (3) bekezdése a következő c) ponttal egészül ki:
-
-[A (2) bekezdés szerinti rendeletben meg kell határozni:]
-
-„c) a kritikus szervezetek ellenálló képességéről szóló törvény, továbbá a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti alapvető szolgáltatásokat és a hozzájuk tartozó felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését és mennyiségét, ha az ellátás zavara, az ellátási válsághelyzet, az ellátási nehézség hatással lehet kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet működésére.”
-
-109. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 53. § (1) bekezdése a következő c) ponttal egészül ki:
-
-(E törvény)
-
-„c) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-110. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény
-
-- a) 15. §-ában a „9. § (4) bekezdés c) pontja” szövegrész helyébe a „9. § (3) bekezdés c) pontja és a 9. § (4) bekezdés c) pontja” szöveg,
-- b) 53. § (1) bekezdés a) pontjában az „irányelvnek, valamint” szövegrész helyébe az „irányelvnek,” szöveg,
-- c) 53. § (1) bekezdés b) pontjában a „végrehajtási irányelvnek” szövegrész helyébe a „végrehajtási irányelvnek, valamint” szöveg
-
-lép.
+#### 110. §
 
 #### 50. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
@@ -1212,259 +1052,49 @@ lép.
 
 #### 113. §
 
-114. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 2. § 24a. pontjában az „1. § (2) bekezdés 10., 11. és 13. pontjában” szövegrész helyébe a „6/A. §-ában” szöveg lép.
+#### 114. §
 
 #### 51. A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény módosítása
 
-115. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 2. § (5) bekezdése helyébe a következő rendelkezés lép:
+#### 115. §
 
-„(5) A (4) bekezdés e)–h) pontja alapján a Kormány az e törvény felhatalmazása alapján kiadott rendeletében azon tevékenységet határozhatja meg, amelyet a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezetek alapvető szolgáltatásként a kritikus infrastruktúra közvetlen igénybevétele útján végeznek.”
-
-116. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 7. alcíme a következő 15. §-sal egészül ki:
-
-„15. § A 2. § (5) bekezdése a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+#### 116. §
 
 #### 52. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény módosítása
 
-117. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 5. §-a a következő 19–33. ponttal egészül ki:
+#### 117. §
 
-(E törvény alkalmazásában)
+#### 118. §
 
-„19. az ország védelme és biztonsága szempontjából jelentős infrastruktúra: az általános kijelölő hatóság vagy a honvédelmi ágazati kijelölő hatóság által kijelölt olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges,
+#### 119. §
 
-20. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúra: az az ország védelme és biztonsága szempontjából jelentős infrastruktúra, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki honvédelmi ágazatban,
+#### 120. §
 
-21. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet: az az ország védelme és biztonsága szempontjából jelentős szervezet, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki honvédelmi ágazatban,
+#### 121. §
 
-22. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra: az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű infrastruktúra és az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett infrastruktúra,
+#### 122. §
 
-23. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet: az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű szervezet és az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet,
+#### 123. §
 
-24. az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra: az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúra és az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra,
+#### 124. §
 
-25. az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet: az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet és az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet,
+#### 125. §
 
-26. az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett infrastruktúra: az az ország védelme és biztonsága szempontjából jelentős infrastruktúra, amelyet a honvédelmi ágazati kijelölő hatóság jelölt ki nem honvédelmi ágazatban, és az általános kijelölő hatóság nem jelölte ki, valamint a honvédelmi ágazati kijelölő hatóság által a 43/N. § alapján kijelölt olyan infrastruktúra, mely kritikus infrastruktúraként nem került kijelölésre,
+#### 126. §
 
-27. az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet: az ország védelme és biztonsága szempontjából jelentős szervezet, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki nem honvédelem ágazatban, és az általános kijelölő hatóság nem jelölte ki, valamint a honvédelmi ágazati kijelölő hatóság által a 43/N. § alapján kijelölt olyan szervezet, mely kritikus szervezetként nem került kijelölésre,
+#### 127. §
 
-28. az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű infrastruktúra: az ország védelme és biztonsága szempontjából jelentős infrastruktúra, melyet a honvédelmi ágazati kijelölő hatóság is kijelölt, valamint az a kritikus infrastruktúra, melyet a honvédelmi ágazati kijelölő hatóság a 43/N. § alapján is kijelölt,
-
-29. az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű szervezet: az ország védelme és biztonsága szempontjából jelentős szervezet, melyet a honvédelmi ágazati kijelölő hatóság is kijelölt, valamint az a kritikus szervezet, melyet a honvédelmi ágazati kijelölő hatóság a 43/N. § alapján is kijelölt,
-
-30. az ország védelme és biztonsága szempontjából jelentős szervezet: az általános kijelölő hatóság vagy a honvédelmi ágazati kijelölő hatóság által kijelölt olyan alapvető szolgáltatást nyújtó szervezet, amely elengedhetetlen Magyarország társadalmi, gazdasági stabilitásához és a biztonság, a környezet, a védelmi képességek és a nemzeti ellenálló képességi rendszer fenntartásához.
-
-31. általános kijelölő hatóság: az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésére, a kijelölés fenntartására, vagy a kijelölés visszavonására irányuló közigazgatási hatósági eljárás lefolytatására kormányrendeletben kijelölt hatóság, amely a honvédelmi ágazati kijelölő hatóság kijelölési eljárása során az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendeletben meghatározott esetekben szakhatóságként is közreműködik,
-
-32. ellenálló képességért felelős vezető: az ország védelme és biztonsága szempontjából jelentős szervezet vezető tisztségviselője vagy a vezető tisztségviselőkből álló testület közvetlen irányítása alá tartozó, az ország védelme és biztonsága szempontjából jelentős szervezet ellenálló képességének fejlesztéséért és a szervezet az ország védelme és biztonsága szempontjából jelentős státuszából eredő, az V/A. Fejezet és a kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény (a továbbiakban: Kszetv.) szerinti kötelezettségeinek teljesítéséért felelős személy,
-
-33. honvédelmi ágazati kijelölő hatóság: az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra kijelölésére, a kijelölés fenntartására, vagy a kijelölés visszavonására irányuló közigazgatási hatósági eljárás lefolytatására kormányrendeletben kijelölt hatóság.”
-
-118. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 10. § (2) bekezdés o) pontja helyébe a következő rendelkezés lép:
-
-(A polgári védelmi kötelezettségét munkaköre ellátásával, közmegbízatása gyakorlásával teljesíti:)
-
-„o) a kritikus szervezet és az ország védelme és biztonsága szempontjából jelentős szervezet kritikus munkakörben foglalkoztatottja.”
-
-119. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 16. § i) pontja helyébe a következő rendelkezés lép:
-
-(Mentes a szolgáltatás alól:)
-
-„i) a kritikus szervezetek és a kritikus szervezetek által nyújtott alapvető szolgáltatáshoz nélkülözhetetlen szolgáltatásokat teljesítő szervezetek, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek által nyújtott alapvető szolgáltatáshoz nélkülözhetetlen szolgáltatásokat teljesítő szervezetek, az alapvető szolgáltatáshoz szükséges eszközök és erőforrások erejéig.”
-
-120. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 27. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(A nemzetgazdaság védelmi és biztonsági célú állami tartalékát különösen a következő ágazati besorolású termékek, eszközök alkotják:)
-
-„j) az a)–i) pont alá nem tartozó kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek által nyújtott alapvető szolgáltatásokhoz szükséges eszközök, erőforrások.”
-
-121. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 42. § (4) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(A nemzeti ellenálló képesség fejlesztése tekintetében kiemelt szempont különösen)
-
-„g) a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képessége és az alapvető szolgáltatások folyamatosságának biztosítása.”
-
-122. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény ELSŐ Része a következő V/A. Fejezettel egészül ki:
-
-### „V/A. Fejezet — AZ ORSZÁG VÉDELME ÉS BIZTONSÁGA SZEMPONTJÁBÓL JELENTŐS SZERVEZETEK, AZ ORSZÁG VÉDELME ÉS BIZTONSÁGA SZEMPONTJÁBÓL JELENTŐS INFRASTRUKTÚRÁK
-
-#### 14/A. Általános szabályok
-
-43/A. § E fejezet szabályozza a Magyarország területén székhellyel rendelkező, az ország védelme és biztonsága szempontjából jelentős szervezetek ellenálló képességének fokozását célzó intézkedéseket, támogatási és felügyeleti rendszerüket.
-
-43/B. § (1) Az 5. melléklet szerinti alapvető szolgáltatást nyújtó szervezet, infrastruktúra az állampolgárok ellátásában vagy a nemzetgazdaság működésében betöltött szerepe alapján az alapvető szolgáltatás folyamatosságának biztosítása érdekében az ország védelme és biztonsága szempontjából jelentős szervezetként, az ország védelme és biztonsága szempontjából jelentős infrastruktúraként jelölhető ki.
-
-(2) Az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésére, adatszolgáltatására, nyilvántartására, hatósági felügyeletére, támogatására, ellenálló képességének fejlesztésére vonatkozó kötelezettségeire, a rendkívüli események bejelentésére, az ország védelme és biztonsága szempontjából jelentős szervezetek és az eljáró hatóságok közötti együttműködésre, valamint az adatvédelemre – a (3) bekezdésben meghatározott kivételekkel – a Kszetv.-ben foglaltakat e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy
-
-- a) az ország védelme és biztonsága szempontjából jelentős szervezetre a kritikus szervezetre,
-- b) az ország védelme és biztonsága szempontjából jelentős infrastruktúrára a kritikus infrastruktúrára,
-- c) az ellenálló képességért felelős vezetőre a kritikus szervezet ellenálló képességéért felelős vezetőre
-
-vonatkozó rendelkezéseit kell alkalmazni.
-
-(3) Az ország védelme és biztonsága szempontjából jelentős szervezetekre, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákra nem alkalmazandó a Kszetv.
-
-- a) IV. Fejezete,
-- b) 23. § (1) bekezdés c) pontja,
-- c) 27. §-a,
-- d) 34. §-a,
-- e) IX. Fejezete,
-- f) 1. melléklete.
-
-#### 14/B. Az eljáró hatóságok
-
-43/C. § (1) Az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák kijelölésével összefüggő hatósági eljárások lefolytatására – a (2) bekezdésben meghatározott kivétellel – kormányrendeletben kijelölt általános kijelölő hatóság rendelkezik hatáskörrel.
-
-(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetek, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrák kijelölésével összefüggő hatósági eljárások lefolytatására kormányrendeletben kijelölt honvédelmi ágazati kijelölő hatóság rendelkezik hatáskörrel.
-
-43/D. § (1) Az ország védelme és biztonsága szempontjából jelentős szervezetekről, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákról – a (2) bekezdésben meghatározott kivétellel – kormányrendeletben kijelölt nyilvántartó hatóság (a továbbiakban: nyilvántartó hatóság) nyilvántartást vezet.
-
-(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezetekről, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúrákról a honvédelmi ágazati nyilvántartó hatóság nyilvántartást vezet. A honvédelmi ágazati nyilvántartó hatósági feladatokat a honvédelmi ágazati kijelölő hatóság látja el.
-
-(3) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezetekről, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúrákról a nyilvántartó hatóság és a honvédelmi ágazati nyilvántartó hatóság is nyilvántartást vezet.
-
-43/E. § (1) Az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenőrzésére – a (2) bekezdésben és a 43/J. § (2) bekezdésében foglalt kivétellel – kormányrendeletben kijelölt ellenőrző hatóság (a továbbiakban: ellenőrző hatóság) rendelkezik hatáskörrel.
-
-(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezetek, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúrák ellenőrzésével összefüggő feladatok ellátására kizárólag a honvédelmi ágazati ellenőrző hatósági jogkörében a honvédelmi ágazati kijelölő hatóság rendelkezik hatáskörrel.
-
-(3) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezetek, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúrák ellenőrzésére mind az ellenőrző hatóság, mind a honvédelmi ágazati ellenőrző hatóság rendelkezik hatáskörrel.
-
-#### 14/C. Különös szabályok
-
-43/F. § (1) A Nemzeti Biztonsági Stratégiának ki kell terjednie az ország védelme és biztonsága szempontjából jelentős szervezetek ellenálló képességére is.
-
-(2) Az ország védelme és biztonsága szempontjából jelentős szervezet a Kszetv. 19. §-a szerinti kockázatértékelést, ellenálló képességi mátrixot a Kszetv. 5. §-a szerinti nemzeti kockázatértékelés figyelembevételével készíti el.
-
-(3) Az ország védelme és biztonsága szempontjából jelentős szervezetekről, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákról vezetett nyilvántartás adatairól a nyilvántartó hatóság havonta adatot szolgáltat a védelmi és biztonsági igazgatás központi szerve részére a védelmi és biztonsági feladatai ellátásának támogatása céljából.
-
-#### 14/D. A hatósági eljárásokra vonatkozó, honvédelmi szempontú különös szabályok
-
-43/G. § (1) A honvédelmi ágazati kijelölő hatóság a kijelölési, a kijelölés fenntartására, vagy a kijelölés visszavonására irányuló eljárása során vizsgálja a honvédelmi érdek, meghatározott esetekben az általános kijelölő hatóság bevonásával a horizontális kritériumok fennállását, valamint a kettős kijelöléssel nem érintett az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet esetében – az általános kijelölő hatóság javaslatának figyelembevételével – meghatározza a szervezet ellenálló képességi szintjét.
-
-(2) A honvédelmi ágazati kijelölő hatóság a kijelölési eljárása keretében
-
-- a) az 5. mellékletben meghatározott ágazatba tartozó szervezetet honvédelmi érdekből, kormányrendeletben meghatározott honvédelmi szempontok alapján az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetté jelölheti ki, és
-- b) a kijelölő határozatban megállapítja az ellenálló képességi terv elkészítésének határidejét.
-
-(3) A honvédelmi ágazati kijelölő hatóság a döntését honvédelmi érdekre tekintettel gyorsított eljárásban is meghozhatja.
-
-(4) A honvédelmi ágazati kijelölő hatóság az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra kijelöléséről szóló véglegessé vált határozatát megküldi a nyilvántartó hatóság részére az abban foglalt adatok nyilvántartásba vétele céljából.
-
-(5) A honvédelmi kijelölő hatóság legalább egy honvédelmi szempont teljesülése esetén az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúraként jelöli ki azt az infrastruktúrát, amely
-
-- a) az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet által nyújtott alapvető szolgáltatáshoz szükséges és
-- b) Magyarország területén helyezkedik el.
-
-43/H. § (1) Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet által elkészített ellenálló képességi terv, ellenálló képességi mátrix elfogadásáról, kiegészíttetéséről, módosításáról vagy elutasításáról a tartalmi és formai követelmények vizsgálata alapján az általános kijelölő hatóság dönt az érintett honvédelmi ágazati kijelölő hatóság bevonásával.
-
-(2) Az ellenálló képességi terv, ellenálló képességi mátrix honvédelmi fejezeteinek megfelelőségét a honvédelmi kijelölő hatóság vizsgálja.
-
-(3) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet ellenálló képességi tervének, ellenállóképességi mátrixának elkészítésével, valamint gyakorlataikkal kapcsolatos, a Kszetv-ben meghatározott hatósági feladatokat kizárólag a honvédelmi ágazati kijelölő hatóság látja el.
-
-43/I. § (1) Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetként kijelölt, a honvédelemről szóló törvény szerinti honvédelmi szervezet esetében a kritikus szervezet ellenálló képességéért felelős vezetői tevékenységi kör egyéb beosztás ellátása melletti megbízással is végezhető.
-
-(2) Az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli, továbbá az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett honvédelmi ágazaton kívüli szervezethez a Kszetv. szerinti Ellenálló Képességért Felelős Vezetők Tanácsadó Bizottságából tanácsadó nem rendelhető ki.
-
-43/J. § (1) A honvédelmi ágazati kijelölő hatóság a (2) bekezdésben foglalt kivétellel az ország védelme és biztonsága szempontjából jelentős szervezetek tekintetében ellenőrző hatósági feladatokat is ellát.
-
-(2) Az ország védelme és biztonsága szempontjából jelentős szervezetek tekintetében a honvédelmi célú elektronikus információs rendszerekre irányuló ellenőrző hatósági feladatokat a Magyarország kiberbiztonságáról szóló törvényben meghatározott hatóság látja el.
-
-(3) A honvédelmi ágazati kijelölő hatóság az ellenőrzési tervét az ellenőrző hatósággal előzetesen, legkésőbb a tárgyévet megelőző év december 1-ig egyezteti, majd az ellenőrző hatóság javaslatai alapján december 31-ig véglegesíti.
-
-(4) A honvédelmi ágazati kijelölő hatóság az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetekre vonatkozóan önálló ellenőrzés keretében vizsgálja a honvédelmi szempontok megfelelőségét.
-
-43/K. § A kormányrendeletben kijelölt honvédelmi nyilvántartó hatóság az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra vonatkozásában nyilvántartást vezet. A honvédelmi nyilvántartó hatósági feladatokat a honvédelmi kijelölő hatóság látja el.
-
-43/L. § (1) A rendkívüli eseményt az általános kijelölő hatóság által közzétett formanyomtatványon az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet és az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra esetén a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálat részére kell bejelenteni, amely szervek értesítik a nemzeti eseménykezelő központot.
-
-(2) A rendkívüli esemény lezárását követően annak kialakulásáról, a megtett intézkedésekről, a hasonló események megelőzése érdekében tett intézkedésekről az ellenálló képességért felelős vezető az általános kijelölő hatóság által meghatározott határidőre jelentést nyújt be az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet esetében a honvédelmi ágazati kijelölő hatóság részére, amely szervek a jelentést megküldik a nemzeti eseménykezelő központ részére.
-
-(3) A kontrollált rendkívüli esemény kialakulásáról, a megtett intézkedésekről, a hasonló események megelőzése érdekében tett intézkedésekről az ellenálló képességéért felelős vezető éves jelentést nyújt be az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezet esetében a honvédelmi ágazati kijelölő hatóság részére, amely szervek a jelentést megküldik a nemzeti eseménykezelő központ részére.
-
-43/M. § (1) Az általános kijelölő hatóság és az ország védelme és biztonsága szempontjából jelentős szervezet együttműködik a honvédelemi ágazati kijelölő hatósággal az ország védelme és biztonsága szempontjából jelentős szervezeteket érintő, honvédelemmel összefüggő kockázatokról, fenyegetésekről és eseményekről az ellenálló képesség felmérése és fejlesztése érdekében.
-
-(2) A honvédelmi ágazati kijelölő hatóság az e fejezet szerinti eljárásaiban az általános kijelölő hatósággal együttműködve végzi tevékenységét.
-
-(3) Az ellenálló képességi terv, az ellenálló képességi mátrix és a rendkívüli események bejelentésének iratmintái, formanyomtatványai ágazatspecifikus szempontjaihoz a honvédelmi ágazati kijelölő hatóság szükség szerint aktualizálja javaslatát, és megküldi azokat az általános kijelölő hatóság részére.
-
-43/N. § (1) A honvédelmi ágazati kijelölő hatóság honvédelmi érdekből az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetként, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúraként a Kszetv. 1. melléklete szerinti alapvető szolgáltatást nyújtó szervezetet, infrastruktúrát is kijelölhet.
-
-(2) Az (1) bekezdés szerint kijelölt, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű szervezetek és az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrák esetében is ezen alcímben foglaltakat kell alkalmazni.
-
-(3) A Kszetv. 1. mellékletében meghatározott digitális infrastruktúra alágazatban kijelölt, az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli szervezet és az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton kívüli infrastruktúra esetében a 43/B. § (2) bekezdésében foglaltakon túl a Kszetv. V. Fejezetét, 13. alcímét, valamint 15–17. alcímét is alkalmazni kell.”
-
-123. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. §-a a következő 10. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
-
-„10. az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésével kapcsolatos részletes szabályokat, az eljáró hatóságokat, a kijelölés ágazati kritériumait.”
-
-124. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 43. alcíme a következő 83/A. §-sal egészül ki:
-
-„83/A. § (1) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg az ellenálló képességért felelős vezető továbbképzésére vonatkozó szabályokat.
-
-(2) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza az ország védelme és biztonsága szempontjából jelentős szervezetek anyagi támogatására vonatkozó részletes szabályokat.”
-
-125. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény a következő 44/A. alcímmel egészül ki:
-
-#### „44/A. Átmeneti rendelkezések
-
-84/A. § (1) Az általános kijelölő hatóság és a honvédelmi ágazati kijelölő hatóság a V/A. Fejezet szerinti kijelölési eljárásokat első alkalommal 2025. április 30-ig megindítja, és az eljárás részeként dönt a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény szerint hozott kijelölő, kijelölést fenntartó határozatok érvényességének megszűnéséről, vagy a kijelölések megszüntetéséről.
-
-(2) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény alapján kijelölt létfontosságú rendszerelem üzemeltetője az (1) bekezdésben meghatározott kijelölési eljárásban hozott döntés véglegessé válásáig e törvény alkalmazásában az ország védelme és biztonsága szempontjából jelentős szervezetnek minősül.
-
-(3) Az (1) bekezdés szerinti határozat véglegessé válásáig a Kszetv. 42. § (3) és (4) bekezdésében meghatározott átmeneti rendelkezéseket az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák vonatkozásában is alkalmazni kell.”
-
-126. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény a következő 45/A. alcímmel egészül ki:
-
-#### „45/A. Az Európai Unió jogának való megfelelés
-
-85/A. § A 10. § (2) bekezdés o) pontja, 16. § i) pontja, 27. § (1) bekezdés j) pontja, 27. § (4) bekezdése, 34. § (6) bekezdése, 42. § (2) bekezdés d) pontja, 42. § (4) bekezdés g) pontja és 49. § (1) bekezdés l) pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-127. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény a 2. melléklet szerinti 5. melléklettel egészül ki.
-
-128. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény
-
-- a) 19. § (2) bekezdés c) pontjában a „létfontosságú rendszer üzemzavara” szövegrész helyébe a „kritikus infrastruktúra, az ország védelme és biztonsága szempontjából jelentős infrastruktúra rendkívüli eseménye” szöveg,
-- b) 27. § (4) bekezdésében a „létfontosságú rendszerek üzemeltetői” szövegrész helyébe a „kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek” szöveg,
-- c) 34. § (6) bekezdésében a „létfontosságú rendszerek üzemeltetői” szövegrész helyébe a „kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek” szöveg,
-- d) 42. § (2) bekezdés d) pontjában az „a társadalom alapvető szükségletei ellátásában nélkülözhetetlen létfontosságú rendszerek üzemfolytonos működésének” szövegrész helyébe az „az alapvető szolgáltatások folyamatosságának” szöveg,
-- e) 49. § (1) bekezdés l) pontjában a „társadalom alapvető szükségleteinek ellátásában nélkülözhetetlen létfontosságú rendszerek üzemeltetői” szövegrész helyébe a „kritikus szervezetek, az ország védelme és biztonsága szempontjából jelentős szervezetek” szöveg,
-- f) 52. § i) pontjában a „kormányzati főhivatalok és központi hivatalok tekintetében,” szövegrész helyébe a „kormányzati főhivatalok, központi hivatalok tekintetében, valamint a nemzetbiztonsági szolgálatok tekintetében, valamint, a kritikus szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek kijelölő hatóságai körében,” szöveg,
-- g) 72. § (1) bekezdésében a „központi hivatalok és a nemzetbiztonsági szolgálatok körében” szövegrész helyébe a „központi hivatalok, a nemzetbiztonsági szolgálatok, a kritikus szervezetek és az ország védelme és biztonsága szempontjából jelentős szervezetek kijelölő hatóságai körében” szöveg
-
-lép.
+#### 128. §
 
 #### 53. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény módosítása
 
-129. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 45. § (1) bekezdés l) pontja helyébe a következő rendelkezés lép:
+#### 129. §
 
-[A fegyveres összeütközések időszakában, a Vbö. 8. § (4) bekezdésének alkalmazása körében polgári védelmi feladatnak minősül:]
+#### 130. §
 
-„l) a közreműködés az alapvető szolgáltatások folyamatosságának biztosításában, a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességének biztosításában, működőképességének fenntartásában, működési feltételeinek gyors helyreállításában,”
+#### 131. §
 
-130. § (1) A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(A Honvédség a következő feladatokat fegyverhasználati joggal látja el:)
-
-„e) az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrák, illetve a honvédelem szempontjából fokozott védelmet igénylő létesítmények, valamint a Kormány által kijelölt egyéb létesítmények és rendezvények őrzése és védelme,”
-
-(2) A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A Honvédség a következő feladatokat fegyverhasználati jog nélkül látja el:)
-
-„c) közreműködés az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúra működtetésében,”
-
-131. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény a következő 59/A. alcímmel egészül ki:
-
-#### „59/A. Az Európai Unió jogának való megfelelés
-
-113/A. § A 45. § (1) bekezdés l) pontja, 59. § (1) bekezdés e) pontja és 59. § (2) bekezdés c) pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-132. § Hatályát veszti a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény
-
-- a) 46. § (1) bekezdés e) pontja,
-- b) 110. § (1) bekezdés 15. pontja.
+#### 132. §
 
 #### 54.
 
@@ -1480,13 +1110,9 @@ lép.
 
 #### 136. §
 
-137. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 37. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 137. §
 
-„(4) Az EU Kék Kártyát legalább kettő évre, ha az úti okmány ennél hamarabb veszíti érvényességét, akkor az úti okmány érvényességi időtartamára kell kiállítani. Ha a foglalkoztatásra irányuló szerződés kettő évnél rövidebb időtartamra szól, az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó, de az úti okmány érvényességét meg nem haladó időtartamra kell kiállítani, amely esetben az EU Kék Kártya érvényessége nem haladhatja meg a két évet.”
-
-138. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 145. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az idegenrendészeti hatóság az (1)–(5) bekezdésben meghatározott kötelezettséget elmulasztó munkáltatót vagy fogadó szervezetet – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.”
+#### 138. §
 
 #### 139. §
 
@@ -1496,39 +1122,15 @@ lép.
 
 #### 142. §
 
-143. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 204. §-a a következő (5a) bekezdéssel egészül ki:
+#### 143. §
 
-„(5a) Közrendvédelmi bírság kiszabására irányuló eljárás esetén az idegenrendészeti hatóság – az ügyfél eljárás megindításáról szóló és nyilatkozattételre felhívó értesítésére figyelemmel – az idézéstől eltekinthet.”
-
-144. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény a következő 214/A. §-sal egészül ki:
-
-„214/A. § (1) Részletfizetés a közrendvédelmi bírság megfizetésére kötelezett munkáltató idegenrendészeti hatósághoz a teljesítési határidő utolsó napját megelőzően az idegenrendészeti ügyindítási elektronikus felületen előterjesztett indokolt kérelmére engedélyezhető.
-
-(2) A részletfizetés abban az esetben engedélyezhető, ha a fizetési nehézség
-
-- a) a munkáltatónak nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható,
-- b) átmeneti jellegű, a közrendvédelmi bírság későbbi megfizetése valószínűsíthető és
-- c) a munkáltatóval szemben korábban idegenrendészeti jogszabályok alapján nem került kiszabásra közrendvédelmi bírság.
-
-(3) Természetes személy munkáltató esetében a részletfizetés a (2) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a munkáltató igazolja vagy valószínűsíti, hogy a közrendvédelmi bírság azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel súlyos megterhelést jelent.
-
-(4) A részletfizetési kérelmet az ügyben az elsőfokú eljárásban eljárt regionális igazgatóság bírálja el.
-
-(5) A részletfizetési kérelem elbírálására az ügyintézési határidő nyolc nap.
-
-(6) A részletfizetési kérelem alapján folytatott elsőfokú eljárás illetékmentes.
-
-(7) A részletfizetési kérelem tárgyában hozott döntéssel szemben a fellebbezést nyolc napon belül lehet előterjeszteni, amelynek elbírálási határideje 15 nap. A fellebbezésre az általános fellebbezési szabályok alkalmazandók, a másodfokú döntéssel szemben perorvoslatnak helye nincs.
-
-(8) Az idegenrendészeti hatóság megszünteti az eljárást, ha a munkáltató felhívás ellenére nem tesz nyilatkozatot, a kért adatokat nem közli, a kért okiratokat nem nyújtja be, és a kérelem a felhívás teljesítése nélkül nem bírálható el.”
+#### 144. §
 
 #### 145. §
 
 #### 146. §
 
-147. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 151. alcíme a következő 271/A. §-sal egészül ki:
-
-„271/A. § Az idegenrendészeti hatóság a harmadik országbeli állampolgárok engedélyügyi eljárásai, valamint közrendvédelmi bírság kiszabására irányuló eljárások tekintetében jogosult a munkáltatóra vonatkozó adatok kezelésére, valamint a munkáltatóra vonatkozó adatok más jogszabályon alapuló közzétételére.”
+#### 147. §
 
 #### 148. §
 
@@ -1540,10 +1142,10 @@ lép.
 
 152. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény
 
-- a) 242. § (8) bekezdés záró szövegrészében a „könnyített közvetítési eljárás” szövegrész helyébe a „könnyített közvetítési szolgáltatás” szöveg,
-- b) 242. § (9) bekezdésében a „könnyített közvetítési eljárás” szövegrész helyébe a „könnyített közvetítési szolgáltatás” szöveg,
+- a)
+- b)
 - c)
-- d) 262. § (2) bekezdés nyitó szövegrészében a „kiutasítás” szövegrész helyébe a „kitoloncolás” szöveg,
+- d)
 - e)
 
 lép.
@@ -1640,54 +1242,3 @@ lép.
 | 78 |  | Szennyvíz | települési szennyvíz elvezetése, összegyűjtése, tisztítása, kezelése, befogadóba vezetése |
 
 ### 2. melléklet a 2024. évi LXXXIV. törvényhez
-
-„5. melléklet a 2021. évi XCIII. törvényhez
-
-Az ország védelme és biztonsága szempontjából jelentős szervezetek, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ágazatai, alágazatai, alapvető szolgáltatásai
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | Ágazat | Alágazat | Alapvető szolgáltatás |
-| 2 | Egészségügy | Mentési tevékenység | mentés |
-| 3 |  | Egészségügyi tartalékok | állami egészségügyi tartalék szolgáltatás és gazdálkodás |
-| 4 | Gyártás | Elsődleges fémgyártás | vas- és acélgyárak és vasötvözet gyártás, kereskedelem |
-| 5 |  |  | alumínium gyártás, -feldolgozás, -kereskedelem |
-| 6 |  | Gépgyártás | motor és turbina gyártás, kereskedelem |
-| 7 |  |  | bányászat, mezőgazdasági és építőipari berendezés gyártás, kereskedelem |
-| 8 |  | Elektromos berendezések, készülékek és alkatrészek gyártása | transzformátor, elektromos motor- és generátor gyártás, kereskedelem |
-| 9 |  |  | elektronikai alkatrész és egyéb villamos berendezés gyártás, kereskedelem |
-| 10 |  |  | akkumulátor gyártás, kereskedelem |
-| 11 |  | Közlekedési eszközök gyártása | jármű és kereskedelmi hajó gyártás, kereskedelem |
-| 12 |  |  | közúti jármű- és motorgyártás, kereskedelem |
-| 13 |  |  | repülésjárműtechnikai termék és alkatrész gyártás, kereskedelem |
-| 14 |  |  | vasúti pályafelszerelés gyártás, kereskedelem |
-| 15 |  | Vegyipar | alapvető vegyi anyag, termék gyártás, kereskedelem |
-| 16 |  |  | mezőgazdasági vegyi termék gyártás, kereskedelem |
-| 17 |  |  | polgári robbanóanyag gyártás, kereskedelem |
-| 18 |  | Máshova nem sorolt gyártói tevékenység | máshova nem sorolt gép és gépi berendezés gyártás, kereskedelem |
-| 19 | Honvédelem | Honvédelmi szempontból fontos rendszerek és létesítmények | honvédelmi szempontból fontos létesítmény, infrastruktúra, eszköz, informatikai rendszer üzemeltetése, szolgáltatás biztosítása |
-| 20 |  | Védelmi ipar | katonai rendeltetésű, felhasználású eszköz, felszerelés, anyag gyártása, forgalmazása, karbantartása, javítása, raktározása |
-| 21 | Hulladékgazdálkodás | Települési nem veszélyes hulladék gazdálkodás | települési nem veszélyes hulladék gyűjtése, szállítása |
-| 22 |  |  | települési nem veszélyes hulladék energetikai hasznosítása |
-| 23 |  |  | települési nem veszélyes hulladék lerakása |
-| 24 |  | Veszélyes hulladék gazdálkodás | veszélyes hulladék gyűjtése, szállítása |
-| 25 |  |  | veszélyes hulladék égetése |
-| 26 |  |  | veszélyes hulladék lerakása |
-| 27 | Infokommunikációs technológiák | Postai szolgáltatások | postai szolgáltatás |
-| 28 |  | IKT-szolgáltatások irányítása (vállalkozások között) | kihelyezett (irányított) infokommunikációs szolgáltatás |
-| 29 |  |  | kihelyezett (irányított) infokommunikációs biztonsági szolgáltatás |
-| 30 |  | Futárszolgáltatás | futárszolgáltatás |
-| 31 |  | Digitális szolgáltatók | online piacterekkel kapcsolatos szolgáltatás és üzemeltetés |
-| 32 |  |  | online keresőmotorokkal kapcsolatos szolgáltatás és üzemeltetés |
-| 33 |  |  | közösségi média szolgáltatás és üzemeltetés |
-| 34 | Közigazgatás | Központi kormányzati közigazgatás | társadalombiztosítás |
-| 35 |  | Rendvédelmi szervek | központi segélyhívó szolgáltatás |
-| 36 |  |  | rendőrségi tevékenységirányítás |
-| 37 |  |  | katasztrófavédelmi műveletirányítás |
-| 38 |  | Köznevelés | a köznevelés szempontjából nélkülözhetetlen informatikai rendszerek szolgáltatása |
-| 39 |  | Gondoskodás-, gyermek- és ifjúságpolitika | szociális, gyermekjóléti, gyermekvédelmi szolgáltatások és országos informatikai szakrendszereik működése |
-| 40 | Közlekedés | Logisztika | logisztikai szolgáltatás |
-| 41 | Pénzügy | Adó- és vámigazgatás | Nemzeti Adó- és Vámhivatal alapvető feladatai |
-| 42 | Víz | Árvízi védművek, műtárgyak és tározók | árvízi védművek, műtárgyak és tározók üzemeltetése |
-
-”

@@ -1738,223 +1738,89 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 54. Módosító és hatályon kívül helyező rendelkezések
 
-93. § Hatályát veszti a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. § (7)–(10) bekezdése.
+#### 93. §
 
-94. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/A. § (14) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe a „Magyarország kiberbiztonságáról” szöveg és a „biztonsági esemény” szövegrész helyébe a „kiberbiztonsági incidens” szöveg lép.
+#### 94. §
 
-95. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény a következő alcímmel egészül ki:
+#### 95. §
 
-### „Elektronikus adat ideiglenes hozzáférhetetlenné tétele a kiberbiztonsági hatóság határozata alapján
+#### 96. §
 
-12. § (1) Ha a kiberbiztonsági hatóság az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendelte el, a 2. § 13. pont c) alpontjában meghatározott szolgáltató az elrendelésről szóló határozat kézhezvételétől számított egy munkanapon belül intézkedik az elektronikus úton közzétett jogellenes adat visszaállítható módon történő eltávolításáról.
+#### 97. §
 
-(2) Az ideiglenes hozzáférhetetlenné tétel teljesítésére kötelezett köteles a kiberbiztonsági hatóság megnevezésével és a határozat számának a megjelölésével tájékoztatni a felhasználókat a tartalom eltávolításának vagy a tartalomhoz hozzáférés megakadályozásának a jogalapjáról.
+#### 98. §
 
-(3) Ha a kiberbiztonsági hatóság által elrendelt ideiglenes hozzáférhetetlenné tétel időtartama lejárt, a szolgáltató a lejárat napjától számított egy munkanapon belül az adatot ismételten hozzáférhetővé teszi.
+#### 99. §
 
-(4) A 2. § 13. pont c) alpontjában meghatározott szolgáltatóval szemben a kiberbiztonsági hatóság az (1) és (3) bekezdésben meghatározott kötelezettség elmulasztása miatt a Magyarország kiberbiztonságáról szóló törvényben meghatározott mértékű bírságot szabhat ki.”
+#### 100. §
 
-96. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény
+#### 101. §
 
-- a) „Együttműködés a biztonsági eseménykezelésben” alcím címében a „biztonsági eseménykezelésben” szövegrész helyébe a „kiberbiztonsági incidenskezelésben” szöveg,
-- b) 15/B. § (1) bekezdésében a „biztonsági események” szövegrész helyébe a „kiberbiztonsági incidensek” szöveg és az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 19. § (1) bekezdés szerinti eseménykezelő” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló törvény szerinti nemzeti kiberbiztonsági incidenskezelő” szöveg,
-- c) 15/B. § (2) bekezdésében a „biztonsági esemény kezelése” szövegrész helyébe a „kiberbiztonsági incidens kezelése” szöveg és az „az eseménykezelő központ részére” szövegrész helyébe az „a nemzeti kiberbiztonsági incidenskezelő központ részére” szöveg,
-- d) 15/B. § (3) bekezdésében a „biztonsági események” szövegrész helyébe a „kiberbiztonsági incidensek” szöveg,
-- e) 17. § (1a) bekezdés g) pontjában a „biztonsági események” szövegrész helyébe a „kiberbiztonsági incidensek” szöveg
+#### 102. §
 
-lép.
+#### 103. §
 
-97. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 10. § (1) bekezdés 29. pontja helyébe a következő rendelkezés lép:
+#### 104. §
 
-(A Hatóság)
+#### 105. §
 
-„29. az elektronikus hírközlési szolgáltatások információbiztonságát érintő kiberbiztonsági incidensekkel összefüggésben együttműködik a Magyarország kiberbiztonságáról szóló törvény szerinti nemzeti kiberbiztonsági incidenskezelő központtal.”
+#### 106. §
 
-98. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 49. § (7) bekezdés i) pontja helyébe a következő rendelkezés lép és a bekezdés a következő j) ponttal egészül ki:
+#### 107. §
 
-(A Hatóság)
+#### 108. §
 
-„i) elrendeli az állagmegóvásra, átalakításra, helyreállításra vonatkozó kötelezettség teljesítését, illetve az elektronikus hírközlési építmény bontását, ha annak állapota az állékonyságot, az életet, testi épséget és az egészséget, a köz- és vagyonbiztonságot veszélyezteti, vagy az elektronikus hírközlési építmény használatra alkalmatlan, vagy a használatával véglegesen felhagytak;
+#### 109. §
 
-j) egyéb, törvényben meghatározott szankciót alkalmazhat.”
+#### 110. §
 
-99. § Az elektronikus hírközlésről szóló 2003. évi C. törvény „Együttműködés a kormányzati eseménykezelő központtal” alcím címe helyébe a következő rendelkezés lép:
+#### 111. §
 
-### „Együttműködés a nemzeti kiberbiztonsági incidenskezelő központtal”
+#### 112. §
 
-100. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 86/B. §-a helyébe a következő rendelkezés lép:
+#### 113. §
 
-„86/B. § (1) Az elektronikus hírközlő hálózat üzemeltetője a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnöke által kiadott rendeletben meghatározott kiberbiztonsági követelmények betartásával és alkalmazásával köteles végezni az üzemeltetési tevékenységet.
+#### 114. §
 
-(2) Az elektronikus hírközlési szolgáltató által az elektronikus hírközlési szolgáltatáshoz használt rendszernek rendelkeznie kell a Magyarország kiberbiztonságáról szóló törvény alapján kiállított nemzeti vagy európai kiberbiztonsági tanúsítvánnyal, ha az adott, hírközlési szolgáltatáshoz használt rendszerre vonatkozóan nemzeti vagy európai kiberbiztonsági tanúsítási rendszer meghatározásra került.”
+#### 115. §
 
-101. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 92/B. §-a helyébe a következő rendelkezés lép:
+#### 116. §
 
-„92/B. § (1) Az elektronikus hírközlési szolgáltató köteles együttműködni a nemzeti kiberbiztonsági incidenskezelő központtal a Magyarország kiberbiztonságáról szóló törvényben foglalt feladatai végrehajtása érdekében.
+#### 117. §
 
-(2) Az elektronikus hírközlési szolgáltató köteles értesíteni a nemzeti kiberbiztonsági incidenskezelő központot az általa üzemeltetett elektronikus hírközlő hálózatokat, illetve elektronikus hírközlési szolgáltatásokat érintő kiberbiztonsági incidensről, tudomására jutott kiberbiztonsági incidensközeli helyzetről, valamint fenyegetettségről, amely az elektronikus hírközlési hálózatban vagy az elektronikus hírközlési szolgáltatásban kedvezőtlen változást vagy egy előzőleg ismeretlen helyzetet idéz elő, vagy amelynek hatására az elektronikus hírközlési hálózatban vagy az elektronikus hírközlési szolgáltatásban hordozott információ bizalmassága, sértetlensége, funkcionalitása vagy rendelkezésre állása elvész, illetve megsérül.
+#### 118. §
 
-(3) Az elektronikus hírközlési szolgáltató a nemzeti kiberbiztonsági incidenskezelő központ tájékoztatása alapján köteles értesíteni azon előfizetőjét vagy felhasználóját, amelynek elektronikus hírközlő végberendezése vagy információs rendszere a kiberbiztonsági incidens bekövetkezésében érintett vagy azt okozta, vagy az által tudomása szerint fenyegetett.
+#### 119. §
 
-(4) Az az adatkezelő szerv, amely a nemzeti kiberbiztonsági incidenskezelő központ részére kiberbiztonsági érdekből adatszolgáltatást teljesített, adatbetekintést biztosított, az információs önrendelkezési jogról és információszabadságról szóló 2011. évi CXII. törvény 16. § (3) bekezdés a), b) d)–f) pontjában és 17. § (3) bekezdésében biztosított feltételek fennállása esetén ezek tényéről, tartalmáról, a megtett intézkedésekről az érintettet, illetve harmadik felet nem tájékoztathat.”
-
-102. § Az elektronikus hírközlésről szóló 2003. évi C. törvény a következő 97/A. §-sal egészül ki:
-
-„97/A. § (1) Az elektronikus hírközlési építmény üzemeltetője, ennek hiányában a tulajdonosa a használat során köteles az építmény állagát megóvni, az élet, a testi épség és az egészség, a köz- és vagyonbiztonság védelme érdekében az építmény műszaki állapotának rendszeres felülvizsgálatát és a szükséges átalakítási, felújítási, helyreállítási munkálatokat elvégezni, továbbá az üzemen vagy használaton kívüli hálózatokat elbontani.
-
-(2) Az elektronikus hírközlési építmény üzemeltetője, ennek hiányában tulajdonosa az építményt elbontja, ha annak használatával véglegesen felhagy, vagy az építmény további használatra alkalmatlan. Az üzemeltető, ennek hiányában a tulajdonos az elektronikus hírközlési építmény elbontását követően az eredeti állapot helyreállítására köteles, kivéve, ha az érintett ingatlan tulajdonosával vagy a tulajdonosi jog gyakorlójával eltérően állapodnak meg.
-
-(3) Azt az elektronikus hírközlési építményt, amelynek használatával véglegesen felhagytak, vagy használatra alkalmatlan, és tulajdonosa nem ismert vagy nem elérhető, az ingatlan tulajdonosa – a tulajdonát képező ingatlant érintő építményrész erejéig – az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló NMHH rendelet szerinti engedély alapján elbontathatja. A bontással okozott kárért a bontási engedélyt kérő felel.
-
-(4) Az elektronikus hírközlési építmény rongálódott, használaton kívüli, vagy használatra alkalmatlan állapotát a Hatóság ügyfélszolgálatán bárki bejelentheti.”
-
-103. § Az elektronikus hírközlésről szóló 2003. évi C. törvény „Ingatlanhasználat, közös építményhasználat” alcíme a következő 98/B. §-sal egészül ki:
-
-„98/B. § (1) 2027. január 1-jétől belterületen a helyi építési szabályzatokban meghatározott területeken nyomvonalas elektronikus hírközlési építmény csak földfelszín alatti elhelyezéssel létesíthető.
-
-(2) Az (1) bekezdés nem vonatkozik
-
-- a) a földfelszín feletti elektronikus hírközlő hálózat
-  - aa) egyes szakaszainak más nyomvonalra történő áthelyezésére (kiváltás),
-  - ab) korszerűsítésére (ideértve a meglévő hálózat modernizálását, új technológiájú hálózattal történő kiváltását is),
-  - ac) felújítására, vagy
-- b) a meglévő, földfelszín feletti elektronikus hírközlő hálózatról előfizetői leágazással történő bekötésre.”
-
-104. § Az elektronikus hírközlésről szóló 2003. évi C. törvény „Ingatlanhasználat, közös építményhasználat” alcíme a következő 98/C. §-sal egészül ki:
-
-„98/C. § (1) A helyi önkormányzat a működési területéhez tartozó, a helyi építési szabályzatában megjelölt belterületen – kormányrendeletben meghatározott feltételek szerint – jogosult a földfelszín felett 5 évnél régebben létesített nyomvonalas elektronikus hírközlő hálózat földfelszín alatti elhelyezésre történő cseréjét kezdeményezni, amennyiben az érintett előfizetők, illetve ingatlantulajdonosok az ingatlanukat érintő munkavégzéshez előzetesen hozzájárulnak, és annak költségeit vállalják.
-
-(2) A jogszerűen létesített elektronikus hírközlő hálózat üzemeltetője a kezdeményezés alapján 6 hónapon belül kiváltási-ütemezési tervet készít annak figyelembevételével, hogy az a szolgáltatásnyújtás folytonosságát ne veszélyeztesse.
-
-(3) Ha a kezdeményezés szerinti területen több elektronikus hírközlési szolgáltató, illetve hálózatüzemeltető is rendelkezik hálózattal, akkor a kiváltási-ütemezési tervet e törvénynek a tervezett építési munkák összehangolására vonatkozó szabályai szerint kell elkészíteni.
-
-(4) Az (1)–(3) bekezdés alkalmazandó a villamos energiáról szóló 2007. évi LXXXVI. törvény 33/F. §-ában foglalt, használaton kívüli hálózati infrastruktúra elbontásának esetében is.
-
-(5) Az (1)–(4) bekezdés alapján kialakított kiváltási-ütemezési tervet az érintett üzemeltetők és az önkormányzat közös megállapodásban véglegesítik. A megállapodás tartalmazza az elvégzendő munkákat és azoknak az egyes feleket terhelő költségeit.”
-
-105. § Az elektronikus hírközlésről szóló 2003. évi C. törvény a következő 163/F. §-sal egészül ki:
-
-„163/F. § E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 98/B. §-át a 2027. január 1-ét követően indult építésügyi hatósági engedélyezési eljárásokban kell alkalmazni.”
-
-106. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 163/P. §-a helyébe a következő rendelkezés lép:
-
-„163/P. § (1) E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 86/B. § (1) bekezdését e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményekre vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 30. naptól kell alkalmazni.
-
-(2) E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 86/B. § (2) bekezdését e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlési szolgáltatáshoz használt rendszerek nemzeti kiberbiztonsági tanúsítási rendszeréről szóló rendelete hatálybalépését követő 180. naptól kell alkalmazni.”
-
-107. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Felhatalmazást kap az SZTFH elnöke, hogy – az Elnök véleményének kikérésével – rendeletben határozza meg az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.”
-
-108. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 11. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„11. Kiberbiztonsági incidens: Magyarország kiberbiztonságáról szóló törvény szerinti fogalom.”
-
-109. § Az elektronikus hírközlésről szóló 2003. évi C. törvény
-
-- a) 142. § (6) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvénynek” szövegrész helyébe a „Magyarország kiberbiztonságáról szóló törvénynek” szöveg,
-- b) 156. § (12) bekezdésében a „biztonsági esemény” szövegrészek helyébe a „kiberbiztonsági incidens” szöveg
-
-lép.
-
-110. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 9/B. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A cégbíróság hivatalból – a Magyarország kiberbiztonságáról szóló törvény szerinti kiberbiztonsági hatóság (a továbbiakban: kiberbiztonsági hatóság) végleges határozata alapján – a kiberbiztonsági hatóság határozatában foglalt időtartamra, de legfeljebb öt évre eltiltja a kiberbiztonsági hatóság által megjelölt szervezet vonatkozásában a vezető tisztségviselői feladatok ellátásától azt a személyt, akinek felelősségét a kiberbiztonsági hatóság végleges határozatával megállapította a tekintetben, hogy a szervezet határidőn belül nem tett eleget a szervezet elektronikus információs rendszereinek kiberbiztonságára vonatkozó hatósági kötelezésnek.”
-
-111. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 132. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) E törvény az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-112. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 43. § (7) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg lép.
-
-113. § A földgázellátásról szóló 2008. évi XL. törvény 100. § (1e) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg lép.
-
-114. § A minősített adat védelméről szóló 2009. évi CLV. törvény 10. § (4) bekezdés b) pontjában az „az elektronikus információbiztonságról szóló törvényben és végrehajtásukra” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló törvény végrehajtására” szöveg lép.
-
-115. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény
-
-- a) 14. § (4) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg,
-- b) 14. § (5) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg,
-- c) 63. § (8) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg
-
-lép.
-
-116. § Hatályát veszti az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény.
-
-117. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 2. § (4) bekezdés i) pontjában az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg lép.
-
-118. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 1. § (1) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
-
-[A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)]
-
-„e) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek nyilvántartásba vételével és ellenőrzésével,
-
-f) a Magyarország kiberbiztonságáról szóló törvény (a továbbiakban: Kiberbiztonsági tv.) 54. § (1) bekezdése szerinti tanúsító szervezet nyilvántartásba vételével és ellenőrzésével,”
-
-[kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.]
-
-119. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 3. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a Kiberbiztonsági tv. szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait, továbbá a Kiberbiztonsági tv. 1. § (1) bekezdés d) és e) pontja szerinti szervezetek elektronikus információs rendszerei kiberbiztonsági felügyeletét.”
-
-120. § (1)
-
-(2) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § q) pontja helyébe a következő rendelkezés lép:
+120. § (1) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § m) pontja helyébe a következő rendelkezés lép:
 
 (A Hatóság elnöke)
 
-„q) megállapítja a kiberbiztonsági felügyeleti díj mértékét és a megfizetésére vonatkozó rendelkezéseket, az auditorok nyilvántartásba vételi eljárásának rendjét, és az auditorral szemben támasztott követelményeket, a kiberbiztonsági audit lefolytatásának rendjét, valamint a kiberbiztonsági audit – általános forgalmi adó nélkül számított – legmagasabb díját, a Kiberbiztonsági tv. 1. § (1) bekezdés d) és e) pontja szerinti szervezetek vonatkozásában a kiberbiztonsági felügyelet és feladatellátás, továbbá a hatósági ellenőrzés lefolytatásának részletes szabályait, a Kiberbiztonsági tv. 1. § (1) bekezdés b), d) és e) pontja szerinti szervezeteknek a Kiberbiztonsági tv. 29. § (1) bekezdés a) pontja szerinti kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, valamint a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, a Kiberbiztonsági tv. 1. § (1) bekezdés d) és e) pontja szerinti szervezetek esetében az információbiztonsági felügyelő személyével szembeni követelményeket, a kirendelésére, jogosítványaira, feladataira vonatkozó részletes szabályokat, a poszt-kvantumtitkosítás alkalmazására kötelezett szervezeteket, a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére, a nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet ellenőrzésére vonatkozó részletes szabályokat, a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet informatikai rendszerelemei zártsága tanúsítására vonatkozó részletes szabályokat, a Kiberbiztonsági tv. 54. § (1) bekezdése szerinti tanúsító szervezet nyilvántartásba vételére, a nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a tanúsító szervezet ellenőrzésére vonatkozó részletes szabályokat, a Kiberbiztonsági tv. 45. § (1) bekezdés b) pontja szerinti tanúsító hatósági tevékenység kivételével a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait és a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat, – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a megfelelőségi önértékelésre, a tanúsítási eljárásra, a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat, – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a nemzeti kiberbiztonsági tanúsítási rendszereket, a kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett, a Kiberbiztonsági tv. 1. § (1) bekezdés d) és e) pontja szerinti szervezeteket, a sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetek és személyek nyilvántartásba vételének részletes szabályait, a tevékenység végzéséhez szükséges infrastrukturális feltételeket és szakértelmet, továbbá a kiberbiztonsági incidensek kezelésére jogosult gazdálkodó szervezetek nyilvántartásba vételének részletes szabályait, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a tevékenység végzéséhez szükséges infrastrukturális feltételeket és szakértelmet,”
+„m) megállapítja a Pmt. 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók (a továbbiakban: szolgáltatók) számára kiadandó, a Pvkit. szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat, a szolgáltatók tekintetében a belső kockázatértékelés elkészítésének szabályrendszerére, a belső ellenőrző és információs rendszer működtetésére, az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira, az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfélátvilágítás végrehajtására, a megerősített eljárás esetköreire és feltételrendszerére, a kijelölt felelős vezető és a megfelelési vezető kijelölésére és helyettesítésére, valamint a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára, a képzési programra, az ügylet felfüggesztésére, az ügyfél és a tényleges tulajdonos vonatkozásában kiemelt közszereplői minőség megállapításával kapcsolatos kockázatkezelési rendszer kialakítására vonatkozó részletszabályokat,”
 
-121. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13/A. §-a a következő 3. ponttal egészül ki:
+(2)
 
-„3. meghatározza az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.”
+#### 121. §
 
-122. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény
+#### 122. §
 
-- a) 5. § (2a) bekezdésében a „Kibertan.tv.-ben” szövegrész helyébe a „Kiberbiztonsági tv.-ben” szöveg,
-- b) 5/A. § nyitó szövegrészében a „Kibertan.tv.-ben” szövegrész helyébe a „Kiberbiztonsági tv.-ben” szöveg
+#### 123. §
 
-lép.
+#### 124. §
 
-123. § Hatályát veszti a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § t) pontja.
+#### 125. §
 
-124. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 5. § 15. pontja a következő i) alponttal egészül ki:
+#### 126. §
 
-(E törvény alkalmazásában
+#### 127. §
 
-védelmi és biztonsági esemény:)
+#### 128. §
 
-  - „i) a kiberbiztonsági válsághelyzet;”
+#### 129. §
 
-125. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 46. alcím címe helyébe a következő rendelkezés lép:
+#### 130. §
 
-#### „46. Az Európai Unió jogának való megfelelés”
-
-126. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 46. alcíme a következő 86. §-sal egészül ki:
-
-„86. § E törvény az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-127. § Hatályát veszti a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 85. § (1) bekezdés f) és h)–j) pontja, valamint (2) bekezdése.
-
-128. § Hatályát veszti a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény.
-
-129. § A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény 98. § (5) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.)” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló törvény” szöveg és az „Ibtv.” szövegrész helyébe az „a Magyarország kiberbiztonságáról szóló törvény” szöveg lép.
-
-130. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény
-
-- a) 2. § (5) bekezdés b) pontjában az „az állami és önkormányzati szervek elektronikus információbiztonságáról” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg,
-- b) 9. § (4) bekezdés a) pontjában az „a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről” szövegrész helyébe az „a Magyarország kiberbiztonságáról” szöveg
-
-lép.
-
-131. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény
-
-- a) 37. §-ában a „kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény” szövegrész helyébe a „Magyarország kiberbiztonságáról szóló törvény” szöveg és a „Kibertan.tv.” szövegrész helyébe a „Kiberbiztonsági tv.” szöveg,
-- b) 42. § (1) bekezdés e) pontjában a „Kibertantv.” szövegrész helyébe a „Kiberbiztonsági tv.” szöveg
-
-lép.
+#### 131. §
 
 ### 1. melléklet a 2024. évi LXIX. törvényhez
 

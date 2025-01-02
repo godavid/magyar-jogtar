@@ -14,7 +14,7 @@ egyes agrártárgyú törvények módosításáról
 
 #### 2. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-5. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 7. § (1) bekezdés t) pontjában a „támogatása jogosultsága feltételeként megvalósuló termőföld értékesítéséből származó bevételt” szövegrész helyébe a „szerződésből származó bevételét” szöveg lép.
+#### 5. §
 
 #### 3. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása
 
@@ -52,25 +52,13 @@ egyes agrártárgyú törvények módosításáról
 
 #### 22. §
 
-23. § (1)
-
-(2)
+#### 23. §
 
 #### 24. §
 
 #### 25. §
 
-26. § (1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
+#### 26. §
 
 #### 27. §
 
@@ -110,17 +98,11 @@ egyes agrártárgyú törvények módosításáról
 
 #### 42. §
 
-43. § A Tfvt. 24. § (1) bekezdése a következő h) ponttal egészül ki:
-
-[Földvédelmi bírságot (a továbbiakban: bírság) köteles fizetni az, aki]
-
-„h) az ingatlanügyi hatóság felhívására a 14. § (3a) bekezdésében meghatározott nyilatkozatot határidőben nem nyújtja be.”
+#### 43. §
 
 #### 44. §
 
-45. § (1) A Tfvt. 2. melléklete az 1. melléklet szerint módosul.
-
-(2)
+#### 45. §
 
 #### 46. §
 
@@ -217,115 +199,21 @@ lép.
 
 #### 14. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 
-79. § (1) A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény (a továbbiakban: Termékpiaci tv.) 3. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Amennyiben a szerződő felek a mezőgazdasági termék szolgáltatására irányuló szerződésben folyamatos teljesítésben állapodnak meg, akkor a fizetési határidő a tárgyhónapi teljesítés tekintetében a tárgyhónapot követő 30. nap azzal, hogy a vevő a tárgyhónapot követő 5. napig a legalább tárgyhónapi teljesítés értéke 30%-ának megfelelő összeget megfizet a termék szolgáltatójának.”
-
-(2) A Termékpiaci tv. 3. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A szerződő felek az adott ágazatban elismert szakmaközi szervezet által elfogadott, és a miniszter által jóváhagyott – fizetési határidőt tartalmazó – mintaszerződés szerint kötött szerződésben eltérhetnek az (1) bekezdésben foglalt fizetési határidőre vonatkozó előírástól.”
-
-(3) A Termékpiaci tv. 3. §-a a következő (5)–(9) bekezdéssel egészül ki:
-
-„(5) A mezőgazdasági igazgatási szerv az ellenérték (1) bekezdés szerinti határidőre történő meg nem fizetése esetén ágazatfelügyeleti bírságot szab ki.
-
-(6) Az (5) bekezdés szerinti ágazatfelügyeleti bírság mértéke a szerződés szerinti, meg nem fizetett ellenérték tíz százaléka, de legalább egymillió forint.
-
-(7) Ha a jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
-
-(8) Az (5) bekezdés szerinti közigazgatási hatósági eljárásban a termelők érdekképviseletét ellátó, adott ágazatban elismert szakmaközi szervezetet az ügyfél jogállása illeti meg.
-
-(9) A (8) bekezdés alapján fennálló eljárási jogosultság nem érinti a termelő azon jogát, hogy a jogsértővel szemben igényét érvényesítse.”
+#### 79. §
 
 #### 80. §
 
-81. § A Termékpiaci tv. 4. alcíme a következő 6/B. §-sal egészül ki:
+#### 81. §
 
-„6/B. § (1) A 6/A. §-ban meghatározott feltételek teljesítését a mezőgazdasági igazgatási szerv ellenőrzi. A mezőgazdasági igazgatási szerv ágazatfelügyeleti bírságot szab ki, ha megállapítja, hogy a vevő vagy a szolgáltatást igénybe vevő nem teljesíti a 6/A. §-ban foglalt feltételeket.
-
-(2) Az (1) bekezdés szerinti ágazatfelügyeleti bírság legkisebb mértéke tízezer forint, legmagasabb mértéke tízmillió forint, de legfeljebb a vevő vagy a szolgáltatást igénybe vevő fél – jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért – nettó árbevételének tíz százaléka.
-
-(3) Az (1) bekezdés szerinti bírság kiszabása során a 3. § (7)–(9) bekezdésében foglalt rendelkezéseket kell alkalmazni.”
-
-82. § A Termékpiaci tv. a következő alcímmel egészül ki:
-
-#### „5/A. Mezőgazdasági termeltetői szerződések
-
-7/D. § (1) A mezőgazdasági termeltetői szerződés (a továbbiakban: termeltetői szerződés) a termeltető és a termelő szerződéses kapcsolatának önkéntesen választható formája.
-
-(2) Termeltetői szerződésnek kell tekinteni a mezőgazdasági termelő vagy termelők csoportja és egy vagy több élelmiszer-, ital-, valamint dohánytermék gyártásával, mezőgazdasági termékek, mezőgazdasági nyersanyag, élőállat, élelmiszer, ital, valamint dohányáru nagykereskedelmével foglalkozó vállalkozás mint termeltető között létrejött
-
-- a) mezőgazdasági termékek szolgáltatására, és
-- b) az e törvény végrehajtására kiadott rendeletben rögzített, a szerződés szerinti szállítási kötelezettséggel érintett termékek termeléséhez, előállításához kapcsolódó szolgáltatások nyújtására vonatkozó
-
-kölcsönös kötelezettségekről rendelkező szerződést, amelyben a szerződő felek tevékenységeiket összehangolják.
-
-(3) Az állattenyésztés területén termeltetői szerződésnek minősülnek azok a szerződések, amelyek alapján a termelő
-
-- a) a (2) bekezdés szerinti termeltető, valamint
-- b) az állatok tenyésztését, hizlalását szolgáltatásként igénybe vevő mezőgazdasági termelő mint termeltető
-
-irányában vállalja az állatok tenyésztését, hizlalását, és egyben vállalja az állattartásra, a termelőeszközök és alapanyagok beszerzésére vagy a késztermékek felhasználására vonatkozó, a szerződésben meghatározott szabályok betartását.
-
-(4) Nem tekinthető termeltetői szerződésnek az a szerződés, amely a vevő részére a szerződésben meghatározott ár megfizetésén felül további kötelezettségeket nem tartalmaz.
-
-(5) A termeltetői szerződésben foglalt áruszállításhoz és szolgáltatás nyújtásához kapcsolódóan a termeltetői szerződésen kívül más háttér-megállapodás nem köthető.
-
-(6) A miniszter – az adott ágazatban működő elismert szakmaközi szervezet kezdeményezésére – a szakmaközi szervezet által elfogadott mintaszerződéseket hagyhat jóvá. Amely ágazatban nem működik elismert szakmaközi szervezet, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: Agrárkamara) kezdeményezheti az általa elfogadott mintaszerződés jóváhagyását.
-
-7/E. § (1) A termeltetőkről és az általuk kötött termeltetői szerződésekről a Nemzeti Kifizető Ügynökség – egyéb nyilvántartásaitól elkülönülten – nyilvántartást vezet.
-
-(2) A Nemzeti Kifizető Ügynökség – a termeltetői szerződések lejáratát követő 10 évig – nyilvántartja
-
-- a) a termeltetőnek és a termelőnek a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosítóját, amennyiben azzal rendelkezik, valamint levelezési címét, telefonos és elektronikus elérhetőségét, számlázási címét,
-- b) természetes személy termeltető és termelő természetes személyazonosító adatait, állampolgárságát, lakcímét,
-- c) gazdálkodó szervezet termeltető és termelő székhelyét, telephelyét, adószámát, cégjegyzékszámát, amennyiben azzal rendelkezik,
-- d) a termeltető és a termelő által kötött termeltetői szerződést.
-
-(3) A Nemzeti Kifizető Ügynökség a (2) bekezdésben meghatározott személyes adatokat a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvényben meghatározott ellenőrzési feladatai ellátása érdekében kezeli.
-
-(4) A Nemzeti Kifizető Ügynökség az adatszolgáltató termeltető és termelő hozzájárulása esetén a Kedvezményezetti Nyilvántartási Rendszerben rendelkezésére álló adatokat az általa vezetett egyéb nyilvántartásába átveszi.
-
-(5) A Nemzeti Kifizető Ügynökség a termeltető által szolgáltatott adatokhoz a (2) bekezdés b) pontja szerinti adatok kivételével – az e törvényben meghatározott feladatai ellátása érdekében – térítésmentes hozzáférést biztosít
-
-- a) a 8. § (2) bekezdése szerinti szervezet, valamint
-- b) a miniszter által vezetett minisztérium számára.
-
-(6) A nyilvántartásba vett termeltető minden év március 31-ig a Nemzeti Kifizető Ügynökség számára adatot szolgáltat az előző naptári évi tevékenységéről, a következő adatok és dokumentumok megküldésével:
-
-- a) a termeltető által végzett termeltetői tevékenység egyértelmű – végterméke alapján meghatározott – megnevezése,
-- b) a megnevezés alapján körülhatárolt tevékenység gazdasági eredménye,
-- c) a termeltetés keretében
-  - ca) megművelt földterület nagysága,
-  - cb) tartott állatállomány nagysága,
-- d) a termeltetésben részt vevő termelők száma összesen és végtermékek szerint megbontva,
-- e) a termeltetői szerződések másolata.”
+#### 82. §
 
 #### 83. §
 
-84. § A Termékpiaci tv. II. Fejezete a következő alcímmel egészül ki:
+#### 84. §
 
-#### „7/A. Mezőgazdasági termékek nagykereskedelmi tevékenységének szabályozása
+#### 85. §
 
-13/A. § Mezőgazdasági termékek nagykereskedelmét vagy feldolgozását végző vállalkozásnak nem lehet tulajdonosa vagy vezető tisztségviselője az a személy, aki korábban tulajdonosa vagy vezető tisztségviselője volt olyan vállalkozásnak, amely az annak végelszámolására vagy felszámolására irányuló eljárás megkezdésekor a vállalkozás vagyonát meghaladóan rendelkezett a mezőgazdasági termékek nagykereskedelmi tevékenység keretében vásárolt termékek tekintetében fennálló szállítói kötelezettségekkel, és akinek felelősségét e jogellenes cselekmény megvalósításában az arra hatáskörrel rendelkező szerv megállapította.”
-
-85. § (1)
-
-(2) A Termékpiaci tv. 28. § (1) bekezdése a következő p) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„p) a mezőgazdasági termeltetői szerződés, a termeltetői nyilvántartás és adatszolgáltatás részletes szabályait”
-
-(rendeletben állapítsa meg.)
-
-86. § A Termékpiaci tv.
-
-- a) 3. § (2) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1) és (1a) bekezdésben” szöveg,
-- b)
-- c)
-
-lép.
+#### 86. §
 
 #### 15. Az állattenyésztés szabályozásához szükséges törvényi szintű rendelkezésekről szóló 2019. évi LVI. törvény módosítása
 
@@ -430,10 +318,5 @@ lép.
 123. § A 12. alcím, a 77. §, a 101. §, a 105. §, a 112. §, a 113. § és a 115. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2024. évi XIX. törvényhez
-
-- 1. A Tfvt. 2. melléklet 2.8. pontja helyébe a következő pont lép:
-- „2.8. összege a 24. § (1) bekezdés h) pontjában foglalt esetben 50 000 Ft;”
-- 2. A Tfvt. 2. melléklet 2. pontja a következő 2.9. ponttal egészül ki:
-- „2.9. összegét, ha a terület AK értéke nem szerepel az ingatlan-nyilvántartásban, a településen levő szántók átlagos AK értéke alapján kell megállapítani.”
 
 ### 2. melléklet a 2024. évi XIX. törvényhez

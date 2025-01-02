@@ -154,35 +154,13 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 31. §
 
-32. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 155. §-a a következő (11a) és (11b) bekezdéssel egészül ki:
+#### 32. §
 
-„(11a) Az (1a) bekezdés b) pontjától eltérően az irányító vármegyei intézmény vezetője jogosult az irányítása alá tartozó városi intézmény kapacitásai átcsoportosítására – ideértve az irányító vármegyei intézmény javára történő kapacitás-átcsoportosítást is –, csökkentésére, illetve szakmai összetételének módosítására.
-
-(11b) A városi intézmény 200 000 forint feletti értékű eszközeinek vagyonkezelője az irányító vármegyei intézmény.”
-
-(2) Az egészségügyről szóló 1997. évi CLIV. törvény 155. § (13) bekezdése helyébe a következő rendelkezés lép:
-
-„(13) A városi intézmény (12) bekezdés alá nem tartozó foglalkoztatottjai tekintetében az alapvető és az egyéb munkáltató jogokat az irányító vármegyei intézmény vezetője gyakorolja.”
-
-(3) Az egészségügyről szóló 1997. évi CLIV. törvény 155. § (15) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-[Az országos gyógyintézetek és országos társgyógyintézetek vonatkozásában az (1)–(14) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy:]
-
-„i) az országos társgyógyintézet h) pont alá nem tartozó foglalkoztatottjai felett az alapvető munkáltatói jogokat és az egyéb munkáltatói jogokat az országos gyógyintézet vezetője gyakorolja.”
-
-33. § Az egészségügyről szóló 1997. évi CLIV. törvény a következő 155/A. §-sal egészül ki:
-
-„155/A. § (1) Az állami fenntartású egészségügyi intézmények esetében a munkáltató – az egészségügyi ellátás folyamatossága biztosítása érdekében – egységes beléptető rendszer alkalmazásával ellenőrizheti az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy munkaidejének betartását, az intézménybe történő be- és kilépését.
-
-(2) A munkáltató az (1) bekezdés szerinti rendszer alkalmazásával tudomására jutott, az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy munkaidejének betartására, az intézménybe történő be- és kilépésére vonatkozó személyes adatokat az ellenőrzött tevékenységgel összekapcsolható módon az adatkezelés célja szerinti ellenőrzés lefolytatásához szükséges mértékben és időtartamban, de legfeljebb a be- és kilépéstől számított egy évig kezeli.
-
-(3) Az (1) bekezdés szerinti egységes beléptető rendszer használata és az (1) bekezdésben foglaltak ellenőrzése érdekében a munkáltató – a munkavégzésre irányuló jogviszonyra irányadó törvényben meghatározott adatokon túlmenően – legfeljebb a jogviszony fennállásának idejéig kezeli az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy arcképmását.”
+#### 33. §
 
 #### 34. §
 
-35. § Az egészségügyről szóló 1997. évi CLIV. törvény a következő 244/N. §-sal egészül ki:
-
-„244/N. § E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 155. § (11b) bekezdése szerinti vagyonkezelés átadásáról 2026. március 1-jéig szükséges gondoskodni.”
+#### 35. §
 
 #### 15. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
@@ -568,9 +546,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 65. Egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi IX. törvény módosítása
 
-177. § Nem lép hatályba az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi IX. törvény 18. §-a.
+#### 177. §
 
-178. § Az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi IX. törvény 21. §-a az „állam képviseletében” szövegrész helyett az „állam protokolláris képviseletében” szöveggel lép hatályba.
+#### 178. §
 
 #### 66.
 
@@ -592,7 +570,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 184. § Nem lép hatályba az egyes ingatlan-nyilvántartási tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XXVII. törvény
 
-- a) 35. §-a,
+- a)
 - b)
 
 #### 70. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 205/2023. (V. 31.) Korm. rendelet hatályon kívül helyezése

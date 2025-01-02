@@ -510,55 +510,17 @@ a következő törvényt alkotja:
 
 #### 30. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-206. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) a következő 23/A. §-sal egészül ki:
+#### 206. §
 
-„23/A. § (1) A kamarai tag könyvvizsgáló köteles a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során kiadott független könyvvizsgálói jelentését elektronikus okiratban kiállítani és azt elektronikusan aláírni, valamint időbélyegzővel ellátni, amelyhez a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti minősített elektronikus aláírást vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírást kell használni (a továbbiakban együtt: elektronikus aláírás).
-
-(2) A kamara a kamarai tag könyvvizsgáló elektronikus aláírásáról nyilvántartást vezet, és köteles azt naprakészen tartani.
-
-(3) A Dáptv. szerinti bizalmi szolgáltató a kamarai tag könyvvizsgáló elektronikus aláírásának kibocsátásáról, valamint annak visszavonásáról haladéktalanul adatot szolgáltat a kamarának.
-
-(4) A kamarai tag könyvvizsgáló az elektronikus aláírással kapcsolatos változásokat haladéktalanul bejelenti a kamara részére.
-
-(5) A kamarai tag könyvvizsgáló kizárólag jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége, vagy az azon kívüli egyéb szakmai szolgáltatások nyújtása során használhatja az elektronikus aláírást. A kamarai tag könyvvizsgáló nem használhatja az elektronikus aláírást és haladéktalanul köteles gondoskodni annak megszüntetéséről, ha
-
-- a) kamarai tagsága megszűnt, illetve a kamarai nyilvántartásból törölték,
-- b) 26. § alapján a könyvvizsgálói tevékenységét szünetelteti,
-- c) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás alatt áll,
-- d) az elektronikus aláírás létrehozásához használható adat elvesztéséről, vagy arról szerzett tudomást, hogy az elektronikus aláírás létrehozására illetéktelen személy vált képessé.
-
-(6) A kamara az elektronikus aláírásra vonatkozó további részletes szabályokat a független könyvvizsgálói jelentés elektronikus okiratban történő kiállításáról és az ahhoz szükséges elektronikus aláírás alkalmazásáról szóló szabályzatában határozza meg.”
-
-207. § A Kkt. 33. § (1) bekezdése a következő t) ponttal egészül ki:
-
-(A kamarai tag könyvvizsgálók nyilvántartása – az egyes kamarai tagokra vonatkozóan – a következő adatokat tartalmazza:)
-
-„t) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.”
+#### 207. §
 
 #### 208. §
 
-209. § A Kkt. A könyvvizsgáló cég kötelességei alcíme a következő 40/C. §-sal egészül ki:
+#### 209. §
 
-„40/C. § (1) A könyvvizsgáló cég képviseletére jogosult személy köteles a kamarai tag könyvvizsgáló által jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során kibocsátott és a 23/A. § szerint elektronikusan aláírt független könyvvizsgálói jelentést elektronikusan aláírni, valamint időbélyegzővel ellátni.
+#### 210. §
 
-(2) A könyvvizsgáló cég képviseletében eljáró személy elektronikus aláírásával összefüggésben a 23/A. § szerinti kamarai tag könyvvizsgálóra vonatkozó elektronikus aláírással kapcsolatos előírásokat kell alkalmazni.”
-
-210. § A Kkt. 44. § (1) bekezdése a következő s) ponttal egészül ki:
-
-(A könyvvizsgáló cégek nyilvántartása – az egyes könyvvizsgáló cégekre vonatkozóan – a következő adatokat tartalmazza:)
-
-„s) az elektronikus aláírás azonosító száma és érvényességének kezdő és lejárati dátuma.”
-
-211. § A Kkt. Általános szabályok alcíme a következő 48/A. §-sal egészül ki:
-
-„48/A. § (1) A kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég, a könyvvizsgálat során keletkezett könyvvizsgálati dokumentációt köteles elektronikusan archiválni és a dokumentumokat az archiválást követően legalább 8 évig megőrizni.
-
-(2) Az (1) bekezdés szerinti kötelezettség teljesítése során a kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég
-
-- a) a digitális archiválás szabályairól szóló jogszabály és
-- b) a papíralapú dokumentumokról elektronikus úton történő másolat készítésének szabályairól szóló jogszabály
-
-előírásai szerint jár el.”
+#### 211. §
 
 #### 212. §
 
@@ -566,31 +528,11 @@ előírásai szerint jár el.”
 
 #### 214. §
 
-215. § A Kkt. Átmeneti rendelkezések alcíme a következő 208/P. és 208/Q. §-sal egészül ki:
+#### 215. §
 
-„208/P. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 23/A. §-át, valamint 40/C. §-át a 2025. üzleti évi beszámolókra vonatkozó könyvvizsgálói jelentések elkészítése során kell először alkalmazni.
+#### 216. §
 
-208/Q. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 48/A. §-át a 2025. üzleti évi beszámolók könyvvizsgálati dokumentációinak archiválása és megőrzése során kell először alkalmazni.”
-
-216. § A Kkt.
-
-- 1.
-- 2. 33. § (4) bekezdésében a „p) és q) pontjában” szövegrész helyébe a „p), q) és t) pontjában” szöveg,
-- 3.
-- 4.
-- 5.
-
-lép.
-
-217. § Hatályát veszti a Kkt.
-
-- 1.
-- 2.
-- 3.
-- 4. 21/A. §-a,
-- 5.
-- 6.
-- 7.
+#### 217. §
 
 ### XII. Fejezet — EGYÉB TÖRVÉNYEK MÓDOSÍTÁSA
 

@@ -28,7 +28,7 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 6. A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény módosítása
 
-8. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 34. § b) pont 3. alpontjában a „vagy” szövegrész helyébe az „ , illetve” szöveg lép.
+#### 8. §
 
 #### 7. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -124,7 +124,7 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 - b)
 - c)
 - d)
-- e) 174. § (6) bekezdésében az „elítélt a” szövegrész helyébe az „elítélt a technikai feltételek rendelkezésre állása esetén, a” szöveg,
+- e)
 - f)
 - g)
 - h)
@@ -152,9 +152,7 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 48. §
 
-49. § A Kbt. 27. §-a a következő (3c) bekezdéssel egészül ki:
-
-„(3c) Ha a közbeszerzési eljárás lefolytatása során az állami közbeszerzési szaktanácsadó bevonására kötelezett ajánlatkérő javára a 3. § 14. pontja szerinti járulékos közbeszerzési szolgáltatás nyújtásával központi beszerző szerv jár el, az eljárásba bevont állami közbeszerzési szaktanácsadót a központi beszerző szerv biztosítja.”
+#### 49. §
 
 #### 50. §
 
@@ -178,15 +176,13 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 60. §
 
-61. § A Kbt. 197/E. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az (1) bekezdés szerinti időpontig a 145. § (7) bekezdése szerinti képviseletet felelős akkreditált közbeszerzési szaktanácsadó is elláthatja.”
+#### 61. §
 
 #### 62. §
 
 63. § A Kbt.
 
-- 1. 9. § (8) bekezdés g) pontjában a „jogviszony, egészségügyi” szövegrész helyébe a „jogviszony, köznevelési foglalkoztatotti jogviszony, egészségügyi” szöveg,
+- 1.
 - 2.
 - 3.
 - 4.
@@ -196,12 +192,12 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 - 8.
 - 9.
 - 10.
-- 11. 111. § c) pontjában a „valamint a jogi szolgáltatásokra” szövegrész helyébe a „3. melléklet szerinti jogi szolgáltatásokra, valamint a járulékos közbeszerzési szolgáltatásokra” szöveg,
-- 12. 111. § d) pontjában az „a harmincmillió” szövegrész helyébe a „az ötvenmillió” szöveg,
-- 13. 111. § m) pontjában a „6. § (1) bekezdés b) pontja szerinti” szövegrész helyébe a „6. § (1) bekezdés b) pontja szerinti közszolgáltató tevékenységet folytató” szöveg,
+- 11.
+- 12.
+- 13.
 - 14.
-- 15. 156. § (4) bekezdésében a „fenntartása” szövegrész helyébe a „fenntartása, valamint az egészségügyi ellátás biztosítása kapcsán az emberi élet és egészség védelme” szöveg,
-- 16. 198. § (1) bekezdés 20. pontjában az „az előzetes piaci konzultáció kötelező alkalmazásának eseteit és feltételeit,” szövegrész helyébe az „az előzetes piaci konzultáció, valamint a 75. § (2) bekezdés e) pontja szerinti eredménytelenségi ok kötelező alkalmazásának eseteit és feltételeit,” szöveg,
+- 15.
+- 16.
 - 17.
 
 64. § Hatályát veszti a Kbt.
@@ -215,11 +211,7 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 22. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-65. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 3. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(Az ügyvédi tevékenység gyakorlása keretében kiegészítő jelleggel folytatható:)
-
-„h) a közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 24a. pontja szerinti közbeszerzési szolgáltatói tevékenység,”
+#### 65. §
 
 #### 23. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
@@ -306,11 +298,9 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 25. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-93. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 281. §-a a következő (16) bekezdéssel egészül ki:
+#### 93. §
 
-„(16) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványa kiadására vonatkozó részletes szabályokat.”
-
-94. § Hatályát veszti a Kit. 281. § (4) bekezdés 11. pontja.
+#### 94. §
 
 #### 26. Záró rendelkezések
 

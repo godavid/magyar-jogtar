@@ -788,11 +788,7 @@ készíti el és teszi közzé.
 
 #### 71. §
 
-72. § A Kkt. a következő 23/B. §-sal egészül ki:
-
-„23/B. § (1) A kamarai tag könyvvizsgáló köteles a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása során a fenntarthatósági jelentéshez kapcsolódó bizonyossági véleményt tartalmazó jelentését elektronikus okiratban kiállítani és azt elektronikusan aláírni, valamint időbélyegzővel ellátni.
-
-(2) Az (1) bekezdés szerinti kötelezettség teljesítése során a 23/A. §-ban foglaltakat kell megfelelően alkalmazni.”
+#### 72. §
 
 #### 73. §
 
@@ -800,13 +796,7 @@ készíti el és teszi közzé.
 
 #### 75. §
 
-76. § (1) A Kkt. „Általános szabályok” alcíme a következő 48/B. §-sal egészül ki:
-
-„48/B. § (1) A kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása során keletkezett fenntarthatósági bizonyossági dokumentációt köteles elektronikusan archiválni és a dokumentumokat az archiválást követően legalább 8 évig megőrizni.
-
-(2) Az (1) bekezdés szerinti kötelezettség teljesítése során a 48/A. § (2) bekezdésében foglaltakat kell megfelelően alkalmazni.”
-
-(2)
+#### 76. §
 
 #### 77. §
 

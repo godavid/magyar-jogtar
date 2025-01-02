@@ -40,21 +40,7 @@ egyes agrártárgyú törvények deregulációs szempontú módosításáról
 
 #### 8. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-12. § (1)
-
-(2)
-
-(3) Az At. 81/D. § (1) bekezdése a következő j)–m) ponttal egészül ki:
-
-[Az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni, vagy a papír alapú anyakönyvből jogosult megtekinteni és átvenni az anyakönyvi kivonat adattartalmát képező adatokat a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával]
-
-„j) a pártfogó felügyelői szolgálat a pártfogó felügyelet végrehajtása céljából,
-
-k) a Kormány által a lakáscélú állami támogatásokkal kapcsolatos feladatok ellátására kijelölt szerv a lakáscélú állami támogatásokkal kapcsolatos eljárások lefolytatása céljából,
-
-l) az állami foglalkoztatási szerv a foglalkoztatási és közfoglalkoztatási adatbázis vezetésével összefüggő feladatai ellátása céljából,
-
-m) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásának lefolytatása céljából.”
+#### 12. §
 
 #### 9. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
@@ -84,10 +70,7 @@ m) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendez
 
 #### 14. Az egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosításáról szóló 2023. évi XXI. törvény módosítása
 
-21. § Nem lép hatályba az egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosításáról szóló 2023. évi XXI. törvény
-
-- a)
-- b) 32. § (3) bekezdése.
+#### 21. §
 
 #### 15. Egyes törvények hatályon kívül helyezése
 

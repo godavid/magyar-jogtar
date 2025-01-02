@@ -44,25 +44,7 @@ a pénzügyi közvetítő rendszert érintő törvények jogharmonizációs és 
 
 #### 18. §
 
-19. § (1)
-
-(2) A Cst. 49/C. § (2) bekezdése a következő k)–p) ponttal egészül ki:
-
-(Az egységes szociális nyilvántartásból)
-
-„k) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához szükséges adatokat,
-
-l) a pártfogó felügyelői szolgálat a pártfogó felügyelői feladatok végrehajtásához szükséges adatokat,
-
-m) az egészségbiztosítási szerv az egészségbiztosító szak- és pénzügyi ellenőrzése érdekében szükséges adatokat,
-
-n) a nyugdíjbiztosítási igazgatási szerv a nyugellátás megállapítása, egyeztetési eljárás lefolytatása érdekében szükséges adatokat,
-
-o) az áldozatsegítő szolgálat az áldozatsegítő támogatások engedélyezéséhez szükséges adatokat,
-
-p) a jogi segítségnyújtó szolgálat a jogi segítségnyújtási támogatások engedélyezéséhez szükséges adatokat”
-
-(közvetlen lekérdezéssel díjmentesen elérheti.)
+#### 19. §
 
 #### 20. §
 
@@ -194,14 +176,7 @@ p) a jogi segítségnyújtó szolgálat a jogi segítségnyújtási támogatáso
 
 #### 17. A családok ügyintézésének egyszerűsítésével összefüggő egyes törvények módosításáról szóló 2023. évi XXVIII. törvény módosítása
 
-71. § (1) A családok ügyintézésének egyszerűsítésével összefüggő egyes törvények módosításáról szóló 2023. évi XXVIII. törvény (a továbbiakban: 2023. évi XXVIII. törvény) 24. § (6) bekezdésében az „Az 5. § (6) bekezdése, a 21. §” szövegrész helyébe az „A 21. §” szöveg lép.
-
-(2) Nem lép hatályba a 2023. évi XXVIII. törvény
-
-- a)
-- b) 5. § (6) bekezdése.
-
-(3)
+#### 71. §
 
 #### 18. Záró rendelkezések
 

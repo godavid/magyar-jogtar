@@ -429,9 +429,7 @@ tulajdonába kerülnek.
 
 #### 18. A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény módosítása
 
-38. § A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 9. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A Közgyűlés akkor határozatképes, ha azon a szavazásra jogosultak több mint fele személyesen vagy – videókonferencia alkalmazás igénybevételével tartott közgyűlés esetén – személyesen és távjelenléttel együttesen jelen van. Távjelenlét által elektronikus szavazás útján is hozható közgyűlési döntés, ha az egyes napirendi pontok megtárgyalása előzetes írásbeli véleménynyilvánítás útján biztosított az Akadémia belső szabályai szerint.”
+#### 38. §
 
 #### 39. §
 
@@ -449,11 +447,7 @@ tulajdonába kerülnek.
 
 #### 43. §
 
-44. § (1) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 20. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(Nem kell az adót megfizetnie)
-
-„g) a Magyar Tudományos Akadémiának az adóalapja azon része után, amelyet céljainak, törvényben meghatározott közfeladatainak megvalósítását szolgáló tevékenysége révén szerzett bevétele – így különösen vagyonelemei hasznainak szedéséből származó bevétele – képvisel az összes bevételén belül, ideértve a Magyar Tudományos Akadémiának a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény szerinti, a magyar állam számára történő visszterhes vagyonjuttatását is.”
+44. § (1)
 
 (2)
 
@@ -525,159 +519,66 @@ tulajdonába kerülnek.
 
 #### 64. §
 
-65. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 10/D. §-a a következő (1a) bekezdéssel egészül ki:
+#### 65. §
 
-„(1a) A KKT tesz javaslatot az NKFI Alap éves programstratégiájában a Kutatási Alaprész keretében meghirdetendő pályázatokra és azok keretösszegére a tudománypolitika koordinációjáért felelős miniszter által meghatározott pénzügyi keretek alapján.”
+#### 66. §
 
-66. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 67. §
 
-„(2) A pályázatokat az e törvényben meghatározottak szerint kell értékelni. A pályázat támogatására – amennyiben e törvény másként nem rendelkezik – a Kormány által kijelölt szerv vezetője által összehívott – az egyes Alaprészek tekintetében 25. § (2) bekezdés, a 29. § (2) bekezdés, illetve a 29/B. § (2) bekezdés szerinti – testület tesz javaslatot. A támogatási döntést – a 12. § (2) bekezdése szerint jóváhagyott programstratégiában foglaltakra figyelemmel –
+#### 68. §
 
-- a) az Innovációs Alaprész és a Missziók Alaprész tekintetében a tudománypolitika koordinációjáért felelős miniszter, illetve
-- b) a Kutatási Alaprész tekintetében a Kormány által kijelölt szerv kormányrendeletben meghatározott tudományos vezetője
+#### 69. §
 
-hozza meg.”
+#### 70. §
 
-67. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 10. alcíme a következő 22/A–22/E. §-sal egészül ki:
+#### 71. §
 
-„22/A. § A nyertes pályázóval a Kormány által kijelölt szerv köt támogatási szerződést vagy ad ki támogatói okiratot.
+#### 72. §
 
-22/B. § Az értékelő testületek számát és összetételét úgy kell meghatározni, hogy a benyújtott pályázatok elfogulatlan, szakszerű és a pályázati kiírásban megadott határidőn belüli értékelése elvégezhető legyen. Az NKFI Alap egyes Alaprészeiből meghirdetett pályázatok értékelésében közreműködő értékelő testületek elnökei, tagjai és a pályázók számára nem megismerhető személyazonosságú szakértők (a továbbiakban: anonim szakértők) a munkájukért díjazásban részesülhetnek. A díjazás feltételeit és összegét a Kormány által kijelölt szerv – a Kutatási Alaprész vonatkozásában a KKT egyetértésével – állapítja meg.
+#### 73. §
 
-22/C. § Az NKFI Alap kezelését végző szervek az NKFI Alap terhére finanszírozott pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, valamint az anonim szakértők vagy a 25. § (3) bekezdésében, a 29. § (3) bekezdésében, illetve a 29/B. § (4) bekezdésében foglaltak alkalmazása esetében a szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezelik.
-
-22/D. § (1) Ha a kutatás feltételeit valamely szervezet biztosítja, az e törvény szerinti közfinanszírozású támogatás összegét a közszolgáltatások díjai, az üzemeltetési költségek és a szervezetnél az elnyert pályázat intézményi kezelésével összefüggő költség kivételével, a Kormány rendeletében meghatározottak szerint a kedvezményezett rendelkezési jogának biztosításával köteles a szervezet kezelni.
-
-(2) Az NKFI Alapból nyújtott támogatásra kiírt pályázat nyertese által a közfinanszírozású támogatásból beszerzett tárgyi eszközöket, készleteket a támogatási szerződés hatálya alatt a kutatás feltételeit biztosító szervezet eszköznyilvántartásába kell venni és tartani.
-
-(3) E törvény szerinti közfinanszírozású támogatás biztosítása érdekében kötött támogatási szerződés, kiadott támogatói okirat időtartamán belül az eredetileg jóváhagyott támogatás maradványa a következő évre átvihető.
-
-22/E. § Amennyiben egy felhívás lebonyolítását az NKFI Alap kezelésében a 11. § (3) bekezdése szerinti NKFI Alap kezelését végző szervek végzik, akkor a Kormány által kijelölt szervnek a 13. § (2) bekezdése, 25. § (1) és (2) bekezdése, valamint a 27. § szerinti feladatait ezen szerv vagy gazdasági társaság látja el azzal, hogy
-
-- a) a felhívást a Kormány által kijelölt szerv honlapján is közzé kell tenni,
-- b) a 25. § (2) bekezdése szerinti értékelő testületek és szakértői csoportok tagjaival, valamint az anonim szakértőkkel a Kormány által kijelölt szerv köt megbízási szerződést,
-- c) a b) pont szerinti esetben sem lehet eltérni a 22/B. § szerinti rendelkezésektől.”
-
-68. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény a 23. §-át megelőzően a következő alcím címmel egészül ki:
-
-#### „10/A. Az Országos Kutatási és Innovációs Támogatási Adatbázis”
-
-69. § (1) A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 23. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az NKFI Alap kezelését végző szervek
-
-- a) az általuk kezelt közfinanszírozású támogatással megvalósuló projektek
-- b) az egyéni kutatói kiválóságon alapuló, alapkutatásra, alkalmazott kutatásra, valamint kísérleti fejlesztésekre irányuló, pályázat útján biztosított közfinanszírozású támogatások és ösztöndíjak (ide nem értve a doktori képzésben résztvevők állami ösztöndíját)
-
-nyilvántartása céljából, országos kutatási és innovációs támogatási adatbázisként saját informatikai nyilvántartási rendszert működtetnek vagy kötelesek csatlakozni olyan informatikai rendszerhez, amely alkalmas az 1. mellékletben meghatározott adatok fogadására, tárolására és kezelésére.
-
-(2) Az (1) bekezdés szerinti nyilvántartási rendszer részére
-
-- a) az NKFI Alap terhére közfinanszírozású támogatásban részesített, valamint
-- b) az (1) bekezdés b) pontja szerinti támogatás biztosítója
-
-az 1. mellékletben meghatározott adatokat köteles szolgáltatni. Az adatszolgáltató az 1. melléklet 1–10. pontjában meghatározott adatokat a projekt megkezdésekor, ha azokban változás következett be, a változástól számított 30 napon belül szolgáltatja. Az 1. melléklet 11–15. pontjában meghatározott adatokat kizárólag a projekt befejezésekor kell szolgáltatni.”
-
-(2) A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 23. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A KKT az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatásokkal összefüggésben jogosult a (4) bekezdés szerinti személyes adatok kezelésére.”
-
-70. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 25. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által – a KKT javaslata alapján, annak egyetértésével – felkért értékelő testületek értékelik. Az értékelésben – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.”
-
-71. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 28. § l)–n) pontja helyébe a következő rendelkezések lépnek:
-
-(Az NKFI Alap Innovációs Alaprésze terhére a következő célokra nyújtható támogatás:)
-
-„l) a kutatás-fejlesztés területén nemzetközileg is elismert szervezetek, vállalkozások Magyarországra vonzására,
-
-m) innovatív vállalkozások tőkeági finanszírozását biztosító kockázati tőkealapok létrehozására, valamint
-
-n) Tudományos és Innovációs Parkok fejlesztésére.”
-
-72. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 29. §-a helyébe a következő rendelkezés lép:
-
-„29. § (1) Az NKFI Alap Innovációs Alaprésze terhére finanszírozott pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
-
-(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által felkért értékelő testületek értékelik. Az értékelésben, valamint a támogatásban részesült projektek esetében a megvalósítás szakmai nyomon követésében – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.
-
-(3) A pályázati felhívás rendelkezhet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
-
-(4) A Kormány által kijelölt szerv vezetője az NKFI Alap Innovációs Alaprészéből meghirdetett pályázatok és finanszírozott támogatások kezelésének eljárásrendjéről normatív utasításban határoz.
-
-(5) Az NKFI Alap Innovációs Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a Kormány által kijelölt szerv által kiadott útmutató szerint kell ellenőrizni.”
-
-73. § (1) A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 29/A. § (2) bekezdés 5. pontja helyébe a következő rendelkezés lép:
-
-(Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére a következő célokra nyújtható támogatás:)
-
-„5. olyan programokra, amelyek stratégiailag jelentős tudományos és technológiai területeken hozzájárulnak a hazai kutatási és innovációs kapacitások erősítéséhez, együttműködésüknek és hálózatosodásuknak előmozdításához,”
-
-(2) A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 29/A. § (2) bekezdése a következő 19–21. ponttal egészül ki:
-
-(Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére a következő célokra nyújtható támogatás:)
-
-„19. Nemzeti Laboratórium létrehozatalára, fejlesztésére, tevékenységére és működtetésére,
-
-20. külföldi kutatási infrastruktúra szolgáltatásainak igénybevételére,
-
-21. a Kormány döntése alapján nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.”
-
-74. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 29/B. §-a helyébe a következő rendelkezés lép:
-
-„29/B. § (1) Az NKFI Alap Missziók Alaprésze terhére finanszírozott pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
-
-(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által felkért értékelő testületek értékelik. Az értékelésben – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.
-
-(3) A pályázatok és a közfinanszírozású támogatásban részesült projektek tartalmi értékelésére és szakmai nyomon követésére a Kormány által kijelölt szerv a tudománypolitika koordinációjáért felelős miniszter által meghatározott programirányítási rendszert működtet. A programirányítási rendszer szerinti testületek elnökét és tagjait a tudománypolitika koordinációjáért felelős miniszter jelöli ki. Az értékelésben a programirányítási rendszer szerinti testületek mellett – a Kormány által kijelölt szerv vezetőjének felkérése alapján – anonim szakértők közreműködhetnek.
-
-(4) A pályázati felhívás rendelkezhet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
-
-(5) A Kormány által kijelölt szerv vezetője az NKFI Alap Missziók Alaprészéből meghirdetett pályázatok és finanszírozott támogatások eljárásrendjéről normatív utasításban határoz.
-
-(6) Az NKFI Alap Missziók Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a Kormány által kijelölt szerv által kiadott útmutató szerint kell ellenőrizni.”
+#### 74. §
 
 #### 75. §
 
 76. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
 
 - 1.
-- 2. 10/D. § (1) bekezdésében a „kutatási támogatási programokkal kapcsolatos” szövegrész helyébe az „ , az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatásokkal összefüggő” szöveg,
-- 3. 10/D. § (3) bekezdésében a „ , valamint az (1) bekezdés szerinti támogatási programok forrását önálló fejezeti kezelésű előirányzat biztosítja a 12. § (1) bekezdése szerinti bevételek terhére.” szövegrész helyébe az „az NKFI Alap Kutatási Alaprész terhére szükséges biztosítani.” szöveg,
-- 4. 11. § (6) bekezdésében a „Nemzeti Laboratóriumok” szövegrész helyébe a „Missziók” szöveg,
-- 5. 12. § (2) bekezdésében az „Alap éves programstratégiáját a tudománypolitika koordinációjáért felelős miniszter terjeszti az NTT” szövegrész helyébe az „Alap – a 10/D. § (1a) bekezdésében foglaltakra figyelemmel elkészített – éves programstratégiáját a tudománypolitika koordinációjáért felelős miniszter – az NTT” szöveg,
-- 6. V. Fejezet címében a „TÁMOGATÁSA” szövegrész helyébe a „TÁMOGATÁSA, AZ ORSZÁGOS KUTATÁSI ÉS INNOVÁCIÓS TÁMOGATÁSI ADATBÁZIS” szöveg,
-- 7. 23. § (4) bekezdés nyitó szövegrészében az „Az NKFI Alap kezelését végző szervek az NKFI Alapból finanszírozott támogatásban részesített projekttel” szövegrész helyébe az „Az (1) bekezdésben foglalt nyilvántartással” szöveg,
-- 8. 24. § (1) bekezdés nyitó szövegrészében az „Alaprésze” szövegrész helyébe az „Alaprészének elsődleges célja egyéni kiválóságon alapuló kutatási támogatások biztosítása. A Kutatási Alaprész” szöveg,
-- 9. 24. § (1) bekezdés a) pontjában a „tudományos kutatási témákkal, területekkel” szövegrész helyébe az „egyéni kiválóságon alapuló kutatásokkal” szöveg,
-- 10. 24. § (1) bekezdés c) pontjában a „több régiót érintő, stratégiailag fontos országos kutatás-fejlesztési programokra” szövegrész helyébe a „tudománykommunikációs, tudomány-népszerűsítési célra” szöveg,
-- 11. 25. § (1) bekezdésében az „a tudománypolitika koordinációjáért felelős miniszter dönt” szövegrész helyébe a „KKT elnöke, mint Kormány által kijelölt szerv tudományos vezetője dönt a KKT javaslata szerint” szöveg,
-- 12. 25. § (7) bekezdésében a „(2) bekezdés” szövegrész helyébe a „KKT javaslata alapján a Kormány által kijelölt szerv által kiadott útmutató” szöveg,
-- 13. 27. § (1) bekezdésében a „szakértői vélemény” szövegrész helyébe a „szakértői vélemény, valamint a KKT véleménye” szöveg,
-- 14. 28. § nyitó szövegrészében az „Alaprésze” szövegrész helyébe az „Alaprészének elsődleges célja a hazai innováció ösztönzéséhez szükséges finanszírozási eszközök biztosítása. Az Innovációs Alaprész” szöveg,
-- 15. 12/A. alcím címében a „Nemzeti Laboratóriumok” szövegrész helyébe a „Missziók” szöveg,
-- 16. 29/A. § (2) bekezdés nyitó szövegrészében a „Nemzeti Laboratóriumok Alaprésze” szövegrész helyébe a „Missziók Alaprészének elsődleges célja stratégiailag fontos területeken megvalósuló, nagy horderejű társadalmi vagy gazdasági hatás elérésére irányuló kutatás-fejlesztési programok megvalósítása. A Missziók Alaprész” szöveg,
-- 17. 29/A. § (2) bekezdés 1. pontjában az „országos kutatás-fejlesztési, valamint innovációs programokra,” szövegrész helyébe a „területeken megvalósuló országos kutatás-fejlesztési, valamint innovációs programokra, amelyek nagy horderejű társadalmi vagy gazdasági hatás elérésére irányulnak,” szöveg,
-- 18. 1. melléklet címében a „támogatással” szövegrész helyébe a „támogatással, valamint a 23. § (1) bekezdés b) pontja szerinti támogatással” szöveg,
-- 19. 1. melléklet 10. pontjában a „megoszlása,” szövegrész helyébe a „megoszlása, a támogatásokból részesülő személyek 23. § (4) bekezdés a) pont aa)–ad) alpontjai szerinti adatai, a támogatásokból részesülő szervezetek megnevezése, valamint e személyeknek és szervezeteknek a támogatásokból való részesülésének mértéke,” szöveg
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
+- 7.
+- 8.
+- 9.
+- 10.
+- 11.
+- 12.
+- 13.
+- 14.
+- 15.
+- 16.
+- 17.
+- 18.
+- 19.
 
 lép.
 
 77. § Hatályát veszti a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
 
 - 1.
-- 2. 5. § (2) bekezdés c)–e) pontja,
-- 3. 10/E. és 10/F. §-a,
-- 4. 24. § (1) bekezdés f) pontjában a „témapályázat,” szövegrész,
-- 5. 24. § (1) bekezdés i) pontja,
-- 6. 25. § (5) és (6) bekezdése,
-- 7. 25. § (8) bekezdése,
-- 8. 26. §-a,
-- 9. 27/A. §-a,
-- 10. 28. § a) pontjában az „országos” szövegrész,
-- 11. 29/A. § (1) bekezdése,
-- 12. 29/A. § (2) bekezdés 10. pontja,
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
+- 7.
+- 8.
+- 9.
+- 10.
+- 11.
+- 12.
 - 13.
 - 14.
 - 15.

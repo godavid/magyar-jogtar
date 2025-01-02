@@ -18,17 +18,7 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 #### 4. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-5. § (1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
+#### 5. §
 
 #### 5. A fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosítása
 
@@ -86,9 +76,9 @@ a családok ügyintézésének egyszerűsítésével összefüggő egyes törvé
 
 #### 17. A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény módosítása
 
-21. § Hatályát veszti a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény 100. § (10) bekezdésében az „ , a 40. § (3) bekezdése” szövegrész.
+#### 21. §
 
-22. § Nem lép hatályba a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény 40. § (3) bekezdése.
+#### 22. §
 
 #### 18. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 

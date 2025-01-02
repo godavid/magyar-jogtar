@@ -8,57 +8,15 @@ az igazságügyi tárgyú törvények módosításáról
 
 #### 2. §
 
-3. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény 114. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 3. §
 
-„(4) A nyelvi jogosítvány iránti kérelmet
+#### 4. §
 
-- a) a közjegyző vagy közjegyzőhelyettes székhelye szerinti területi kamara terjeszti fel az országos elnökhöz, vagy
-- b) a közjegyző vagy közjegyzőhelyettes közvetlenül terjeszti fel az igazságügyért felelős miniszterhez,
+#### 5. §
 
-aki a meghallgatást követően dönt a nyelvi jogosítvány kiadásáról.”
+#### 6. §
 
-(2) A közjegyzőkről szóló 1991. évi XLI. törvény 114. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Az igazságügyért felelős miniszter a nyelvi jogosítvány kiadásáról történő döntéséről haladéktalanul értesíti az országos elnököt.”
-
-4. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény 120. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A felolvasás mellőzhető, ha a fél, képviselő útján történő eljárás esetén a képviselő – több fél esetén a felek vagy képviselőjük – a 132. § (1) bekezdésében meghatározott alakiságokkal rendelkező – a készítendő közjegyzői okirattól elkülönült, de ahhoz fűzendő – okiratba foglaltan kijelenti – több fél vagy képviselők eljárása esetén együttesen kijelentik –, hogy az okirat tervezetét megismerte és elolvasta – több fél vagy képviselők eljárása esetén megismerték és elolvasták – és kéri – több fél vagy képviselők eljárása esetén együttesen kérik – az okirat felolvasásának mellőzését.”
-
-(2) A közjegyzőkről szóló 1991. évi XLI. törvény 120. §-a a következő (2a)–(2d) bekezdéssel egészül ki:
-
-„(2a) A közjegyző a (2) bekezdés szerinti kérelem ellenére az okiratot felolvashatja.
-
-(2b) A közjegyző a (2) bekezdés esetén tájékoztatja a felet vagy feleket – képviselő útján történő eljárás esetén a képviselőt vagy képviselőket – a bírósági végrehajtásról szóló 1994. évi LIII. törvény 23/C. §-ában foglaltakkal megegyező tartalmi elemekről.
-
-(2c) A felolvasás mellőzése nem érinti a közjegyzői okirat készítésével kapcsolatban előírt egyéb kötelezettségek teljesítését.
-
-(2d) A felolvasás mellőzésére nincs lehetőség
-
-- a) abban az esetben, ha
-  - aa) a fél – képviselő útján történő eljárás esetén a képviselő – a 124. § a)–c) pontjában megjelölt személy, vagy
-  - ab) az okiratba foglalni kért jognyilatkozatok bármelyike csak személyesen tehető meg, vagy
-- b) végrendelet és más végintézkedés (a továbbiakban: végrendelet) közjegyzői okiratba foglalása során.”
-
-5. § A közjegyzőkről szóló 1991. évi XLI. törvény 183. §-a a következő n) ponttal egészül ki:
-
-[Felhatalmazást kap a miniszter, hogy – a 12. § (3) bekezdésében foglaltakon túl – rendelettel állapítsa meg:]
-
-„n) a nyelvi jogosítvány kiadásának rendjét.”
-
-6. § A közjegyzőkről szóló 1991. évi XLI. törvény
-
-- a)
-- b) 114. § (1) bekezdésében az „elnök feljogosíthatja” szövegrész helyébe az „elnök az országos kamarai szabályzatban meghatározottak szerint vagy az igazságügyért felelős miniszter az igazságügyért felelős miniszter rendeletében meghatározottak szerint feljogosíthatja” szöveg,
-- c) 114. § (3) bekezdésében az „elnök a” szövegrész helyébe az „elnök vagy az igazságügyért felelős miniszter a” szöveg,
-- d) 114. § (6) bekezdésében az „elnök a” szövegrész helyébe az „elnök, illetve az igazságügyért felelős miniszter a” szöveg
-
-lép.
-
-7. § Hatályát veszti a közjegyzőkről szóló 1991. évi XLI. törvény
-
-- a) 133. § (1) bekezdésében az „és más végintézkedés (a továbbiakban: végrendelet)” szövegrész,
-- b) 142. § (2) bekezdésében a „közjegyző a jegyzőkönyvbe foglalt nyilatkozat vagy értesítés szövegét a nyilatkozattevő – képviselő eljárása esetén a képviselő – előtt felolvassa, e” szövegrész.
+#### 7. §
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
