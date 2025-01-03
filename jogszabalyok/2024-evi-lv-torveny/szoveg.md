@@ -96,45 +96,23 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 38. §
 
-39. § Az Áfa tv. 121. § a) pontja helyébe a következő rendelkezés lép:
-
-(Az előzetesen felszámított adó levonásának joga megilleti az adóalanyt akkor is, ha a terméket, szolgáltatást)
-
-„a) olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye külföld, de amelyet, ha belföldön teljesítene, – feltéve, hogy nem választotta a XIII. Fejezet 1. vagy 3. alcíme szerinti alanyi adómentesség alkalmazását – adólevonásra jogosító termékértékesítésének, szolgáltatásnyújtásának minősülne, ide nem értve a Közösség másik, a teljesítés helye szerinti tagállamának azon joga szerinti adómentesség hatálya alá tartozó azon ügyletet, amely tartalmában a Héa-irányelv 284. cikkének felel meg;”
+#### 39. §
 
 #### 40. §
 
 #### 41. §
 
-42. § Az Áfa tv. 195. §-a a következő (6) bekezdéssel egészül ki:
+#### 42. §
 
-„(6) Az adóalany nem jogosult az alanyi adómentesség időszakában keletkezett előzetesen felszámított adó levonására, ha az előzetesen felszámított adó alapjául szolgáló, beszerzett terméket, igénybe vett szolgáltatást olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye a Közösség olyan, másik tagállama, amelyben az adóalany nem választott a Héa-irányelv 284. cikkének megfelelő adómentességet.”
+#### 43. §
 
-43. § Az Áfa tv. 195/A. §-a a következő (10) és (11) bekezdéssel egészül ki:
+#### 44. §
 
-„(10) Ha az adóalany a (4) bekezdés szerinti egyedi azonosítószámnak a (4) bekezdés szerinti nyilatkozat alapján történő megállapítását megelőzően e nyilatkozat tartalmi hibájának kijavítására irányuló dokumentumot nyújt be az állami adó- és vámhatósághoz, abban az esetben a nyilatkozatot javító dokumentumra kell a (4) bekezdés szerinti előírásokat alkalmazni, azzal, hogy a (4) bekezdésben hivatkozott határidő az említett dokumentum állami adó- és vámhatósághoz történő beérkezésétől kezdődően számítandó.
+#### 45. §
 
-(11) Ha az adóalany a (6) bekezdés szerinti módosítást – ideértve különösen a nyilatkozatban megjelölt tagállamok körének változását – azt megelőzően nyújtja be az állami adó- és vámhatósághoz, hogy az a (4) bekezdés szerinti nyilatkozatban megjelölt minden tagállam tekintetében megállapította vagy megerősítette a (4) bekezdés szerinti egyedi azonosítószámot, abban az esetben a (6) bekezdés szerinti módosításra alkalmazandó előírások azzal az eltéréssel alkalmazandóak, hogy a (6) és (7) bekezdésben hivatkozott határidő a (4) bekezdés szerinti nyilatkozat elbírálását követő naptól kezdődik.”
+#### 46. §
 
-44. § Az Áfa tv. 195/B. §-a a következő (6)–(8) bekezdéssel egészül ki:
-
-„(6) Ha a 195/A. § (4) bekezdése szerinti nyilatkozat állami adó- és vámhatósághoz történő beérkezésének napja és e nyilatkozat alapján a 195/A. § (1) bekezdése szerinti adómentesség alkalmazásának kezdő napja azonos naptári negyedévbe esik, abban az esetben a 195/A. § (1) bekezdése szerinti adómentesség alkalmazásának kezdő napját követő első adatszolgáltatás nem tartalmazza a tárgy naptári negyedévre vonatkozóan az (1) bekezdés alapján feltüntetendő azon árbevételi adatokat, amelyeket az adóalany a 195/A. § (4) bekezdése szerinti nyilatkozatában már feltüntetett.
-
-(7) Ha a 195/A. § (1) bekezdése szerinti adómentesség alkalmazásának kezdő napja a 195/A. § (4) bekezdése szerinti nyilatkozat állami adó- és vámhatósághoz történő beérkezésének napját magában foglaló naptári negyedévet követő naptári negyedévbe esik, abban az esetben a 195/A. § (1) bekezdése szerinti adómentesség alkalmazásának kezdő napját követő első adatszolgáltatás tartalmazza a tárgy naptári negyedévet megelőző naptári negyedévre vonatkozó azon árbevételi adatokat is – az (1) bekezdésben előírt módon –, amely árbevételt az adóalany a 195/A. § (4) bekezdése szerinti nyilatkozatban nem tüntetett fel.
-
-(8) Ha a már benyújtott adatszolgáltatás adataiban az adóalany hibát tár fel vagy azok utólag módosulnak, annak helyesbítése érdekében az adóalany az érintett adatszolgáltatást a helyes adattartalommal ismételten köteles benyújtani az állami adó- és vámhatósághoz.”
-
-45. § Az Áfa tv. 195/H. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az az adóalany, amely élt a 195/G. § (1) bekezdése szerinti választási joggal, nem jogosult az ezen választással érintett alanyi adómentesség időszakában keletkezett előzetesen felszámított adó levonására, ha az előzetesen felszámított adó alapjául szolgáló, beszerzett terméket, igénybe vett szolgáltatást olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye a Közösség olyan, másik tagállama, amelyben az adóalany nem választott a Héa-irányelv 284. cikkének megfelelő adómentességet.”
-
-46. § Az Áfa tv. 253/P. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A (3) bekezdés szerinti választási jog nem illeti meg azt az adóalanyt, aki (amely) a XIII. Fejezet 3. alcíme szerinti vagy a Közösség belföldtől eltérő tagállama tekintetében a Héa-irányelv 284. cikkének megfelelő adómentességet alkalmaz.”
-
-47. § Az Áfa tv. 253/Q. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az (1) bekezdés szerinti választási jog nem illeti meg azt az adóalanyt, aki (amely) a XIII. Fejezet 1., illetve 2. alcíme szerinti adómentességet alkalmaz.”
+#### 47. §
 
 #### 48. §
 
@@ -148,17 +126,7 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 53. §
 
-54. § Az Áfa tv.
-
-- a)
-- b)
-- c)
-- d) 195. § (2) bekezdés záró szövegrészében az „a)–f) pontokhoz” szövegrész helyébe az „a)–c) és f) pontokhoz” szöveg,
-- e) 195/C. § (1) bekezdésében az „a 195/B. § (1) és (4) bekezdésének alkalmazásában” szövegrész helyébe az „a 195/B. § (1), (4) és (8) bekezdésének alkalmazásában” szöveg,
-- f) 195/D. §-ában az „illetve annak (6) bekezdés szerinti módosítását, valamint a 195/B. § (1)–(2) és (4) bekezdése szerinti adatokat” szövegrész helyébe az „annak (6) bekezdése szerinti módosítását, illetve (10) bekezdése szerinti kijavítását, valamint a 195/B. § (1)–(2), (4) és (8) bekezdése szerinti adatokat” szöveg,
-- g)
-
-lép.
+#### 54. §
 
 #### 55. §
 
@@ -167,12 +135,12 @@ lép.
 57. § Hatályát veszti az Áfa tv.
 
 - 1.
-- 2. 188. § (3) bekezdés h) pontja,
-- 3. 193. § (1) bekezdés a) pontjában az „és h)” szövegrész,
-- 4. 193. § (1) bekezdés d) pontja,
-- 5. 195. § (2) bekezdés d)–e) pontja,
-- 6. 195. § (3) bekezdés b) pontja,
-- 7. 195. § (4) bekezdése,
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
+- 7.
 - 8.
 
 #### 6. Az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló 2008. évi LXVIII. törvény módosítása

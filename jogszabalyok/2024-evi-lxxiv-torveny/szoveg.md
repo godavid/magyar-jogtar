@@ -98,13 +98,7 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 32. §
 
-33. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény
-
-- 1.
-- 2.
-- 3. 1. számú melléklet 6. pont 6.1. alpont c) pontjában a „sérelemdíjként (ide nem értve a felek peren kívüli megállapodása alapján kifizetett sérelemdíjat)” szövegrész helyébe a „sérelemdíjként (ide nem értve a nem független felek peren kívüli, bírósági jóváhagyás nélküli megállapodása alapján kifizetett sérelemdíjat)” szöveg
-
-lép
+#### 33. §
 
 #### 13. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
@@ -126,9 +120,7 @@ lép
 
 #### 39. §
 
-40. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 100. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az otthont nyújtó ellátás, utógondozói ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén, valamint a helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában az ellátottak száma éves átlagban nem haladhatja meg a fenntartó által működtetett, a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszám 100%-át, azzal, hogy gyermekotthoni férőhelyszám esetén a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszámtól éves átlagban a fenntartónak a gyermekek és az ifjúság védelméért, valamint az államháztartásért felelős miniszterrel egyeztetett döntésében meghatározott mértékben lehet eltérni.”
+#### 40. §
 
 #### 41. §
 
@@ -136,10 +128,7 @@ lép
 
 #### 43. §
 
-44. § Hatályát veszti gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
-
-- 1.
-- 2. 162. § (1) bekezdés i) pontjában az „az engedélyezett férőhelyszám-túllépés mértékét,” szöveg.
+#### 44. §
 
 #### 17. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
@@ -644,7 +633,7 @@ lép.
 
 #### 64. Egyes törvények és kormányrendeletek hatályon kívül helyezése
 
-236. § Hatályát veszti különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2020. évi LIX. törvény.
+#### 236. §
 
 #### 237. §
 

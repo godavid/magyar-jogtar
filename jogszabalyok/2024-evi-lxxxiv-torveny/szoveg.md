@@ -1028,11 +1028,7 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 48. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
 
-106. § (1)
-
-(2)
-
-(3) Hatályát veszti a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény.
+#### 106. §
 
 #### 49. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 

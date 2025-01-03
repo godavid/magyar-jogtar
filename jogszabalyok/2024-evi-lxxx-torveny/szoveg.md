@@ -166,29 +166,9 @@ lép.
 
 #### 51. §
 
-52. § A NAK tv. 61. §-a a következő (4) bekezdéssel egészül ki:
+#### 52. §
 
-„(4) Az e törvény 2024. december 31. napján hatályos 1. melléklete szerinti ÖVTJ kód alatt 2025. január 1. napjától a TEÁOR’25 kódra figyelemmel jogszabály alapján megállapított ÖVTJ kódot kell érteni.”
-
-53. § A NAK tv.
-
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
-- 13.
-- 14. 61. § (1) bekezdésében a „kódra való” szövegrész helyébe a „kódra, és annak megfelelő szakágazaton belüli ÖVTJ kódra való” szöveg,
-- 15. 61. § (2) bekezdésében a „TEÁOR’08 szerinti” szövegrész helyébe a „TEÁOR’08 szerinti és az annak megfelelő szakágazaton belüli ÖVTJ kódú” szöveg
-
-lép.
+#### 53. §
 
 #### 11. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 

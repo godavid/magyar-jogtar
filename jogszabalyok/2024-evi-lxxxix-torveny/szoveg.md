@@ -158,11 +158,7 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 64. §
 
-65. § A villamos energiáról szóló 2007. évi LXXXVI. törvény a 108. §-át követően a következő fejezetcímmel és alcím címmel egészül ki:
-
-### „XIII/A. Fejezet — A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
-
-### Általános szabályok”
+#### 65. §
 
 #### 66. §
 
@@ -246,11 +242,7 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 100. §
 
-101. § A földgázellátásról szóló 2008. évi XL. törvény az 57. §-át követően a következő fejezetcímmel és alcím címmel egészül ki:
-
-### „III/A. Fejezet — A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
-
-### Általános szabályok”
+#### 101. §
 
 #### 102. §
 
