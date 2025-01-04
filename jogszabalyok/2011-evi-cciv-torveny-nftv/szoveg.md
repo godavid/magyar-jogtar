@@ -2227,6 +2227,8 @@ a felsőoktatási intézménynek a 85/A. § szerint nyújtott költségvetési f
 
 (4) Az állami felsőoktatási intézmény a vagyonnal kapcsolatos könyvvezetési és beszámoló-készítési kötelezettségének az államháztartás számviteléről szóló jogszabály szerint köteles eleget tenni, azzal, hogy a vagyonra vonatkozó nyilvántartásban elkülönítve kell nyilvántartani a saját vagyonát, valamint a rendelkezésre bocsátott állami vagyont.
 
+(5) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 19. pont a) alpont ai) alpontja szerinti vagyonkezelőt – ha a vagyonkezelési szerződésben a felek másként nem rendelkeznek – nem terheli az állami vagyonról szóló 2007. évi CVI. törvény 27. § (2a) bekezdése szerinti díjfizetési és 27. § (7) bekezdése szerinti visszapótlási kötelezettség azzal, hogy a vagyonkezelő ilyen esetben a jogviszony megszűnésekor a vagyonkezelésében álló állami vagyon tekintetében megvalósult értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben az állammal szemben követelést nem támaszthat.
+
 88. § (1) Az állami felsőoktatási intézmény
 
 - a) vezetője a kiemelt előirányzatok között év közben, saját hatáskörben a feladatellátáshoz szükséges mértékben – a kincstár és a fenntartó egyidejű értesítése mellett – átcsoportosítást hajthat végre;
