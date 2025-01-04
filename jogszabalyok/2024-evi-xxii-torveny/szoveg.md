@@ -18,7 +18,7 @@ a Magyarország Kormánya és az Európai Unió Bűnüldözési Képzési Ügyn�
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyarország Kormánya és az Európai Rendőrakadémia (CEPOL) közötti Székhely-megállapodás kihirdetéséről szóló 2014. évi XLIII. törvény.
+#### 6. §
 
 ### 1. melléklet a 2024. évi XXII. törvényhez
 

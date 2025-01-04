@@ -222,7 +222,9 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 
 #### 98. §
 
-#### 99. §
+99. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 87. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 19. pont a) alpont ai) alpontja szerinti vagyonkezelőt – ha a vagyonkezelési szerződésben a felek másként nem rendelkeznek – nem terheli az állami vagyonról szóló 2007. évi CVI. törvény 27. § (2a) bekezdése szerinti díjfizetési és 27. § (7) bekezdése szerinti visszapótlási kötelezettség azzal, hogy a vagyonkezelő ilyen esetben a jogviszony megszűnésekor a vagyonkezelésében álló állami vagyon tekintetében megvalósult értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben az állammal szemben követelést nem támaszthat.”
 
 #### 100. §
 
@@ -271,7 +273,11 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 
 #### 115. §
 
-#### 116. §
+116. § A felnőttképzésről szóló 2013. évi LXXVII. törvény 17/A. §-a a következő c) ponttal egészül ki:
+
+(A felnőttképző)
+
+„c) hirdetéseiben és tájékoztatóban köteles feltüntetni az általa indítani kívánt szakmai képzés tekintetében a szakmai képzés pontos megnevezését és a programkövetelmény számát.”
 
 #### 117. §
 
