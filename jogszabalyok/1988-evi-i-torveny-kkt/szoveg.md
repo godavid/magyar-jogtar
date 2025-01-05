@@ -805,7 +805,7 @@ vonatkozóan a megismert személyes adatokat a közlekedési hatóság az enged�
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
-(1a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés – az (1c) bekezdésben meghatározott kivételre is figyelemmel – az (1) bekezdés a)–d), f)–j), l), n) és q) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint rendkívül súlyos vagy nagyon súlyos fokúnak minősül.
+(1a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés – az (1c) bekezdésben meghatározott kivételre is figyelemmel – az (1) bekezdés a)–d), f)–j), l), n) és q) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint súlyos, rendkívül súlyos vagy nagyon súlyos fokúnak minősül.
 
 (1b) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés e) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározott I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás.
 
@@ -1377,7 +1377,7 @@ adatokat.
 
 (5) A vizsgáló állomás tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait a közlekedési hatóság látja el.
 
-(5a) A vizsgáló állomás által a közúti járművek időszakos vizsgálatával és rendszeres környezetvédelmi felülvizsgálatával kapcsolatos rendelkezések megsértése esetén a közlekedési hatóság a vizsgáló állomással szemben 130 000 forinttól 1 300 000 forintig terjedő bírságot szabhat ki.
+(5a) A vizsgáló állomás által a közúti járművek időszakos vizsgálatával és rendszeres környezetvédelmi felülvizsgálatával kapcsolatos rendelkezések megsértése esetén a közlekedési hatóság a vizsgáló állomással szemben 130 000 forinttól 1 300 000 forintig terjedő bírságot szabhat ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló kormányrendelet állapítja meg.
 
 (6) A jármű időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság kormánytisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló személy (a továbbiakban együtt: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenységet az folytathat, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, a műszaki vizsgabiztosi tevékenység folytatásához a közlekedési hatóság által kiadott engedéllyel rendelkezik, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság által a tevékenység folytatására jogosult személyekről vezetett közhiteles hatósági nyilvántartás tartalmazza a vizsgabiztosi tevékenység végzésére jogosult személy természetes személyazonosító adatait.
 
