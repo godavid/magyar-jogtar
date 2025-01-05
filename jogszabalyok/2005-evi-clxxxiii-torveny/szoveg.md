@@ -2558,27 +2558,19 @@ felfüggesztheti, megtilthatja vagy visszavonhatja,
 
 (13) A közlekedési hatóság az ellenőrzés alá vont vasúti jármű túlterhelésének gyanúja esetén elrendelheti a vasúti jármű ellenőrző mérlegelését, és ennek érdekében – amennyiben szükséges menetvonal igénylésével is – a vasúti járművet (járműszerelvényt) a legközelebbi, a Hálózati Üzletszabályzatban meghirdetett vasúti járműmérleghez irányíttathatja. A túlterhelés tényének megállapítása esetén a mérlegelés költségét az ellenőrzés alá vont vasúti társaság viseli.
 
-(14) A közlekedési hatóság az e § alapján mérlegelési jogkörben hozott döntése során figyelembe veszi:
+(14) Az e §-ban foglalt jogsértések esetén a közlekedési hatóság által kiszabható bírság mértéke 50 000 000 forintig terjedhet.
+
+(15) A közigazgatási bírság összegének meghatározása során a közlekedési hatóság figyelembe veszi
 
 - a) a jogsértés súlyát, a vasúti közlekedés biztonságára gyakorolt hatását,
 - b) a jogsértő állapot fennállásának időtartamát,
 - c) a jogsértő magatartás felróhatóságát,
 - d) a korábbi jogsértő magatartást, valamint
-- e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartást, illetőleg a jogsértő állapot megszüntetésére tett, a közlekedési hatóság eljárását megelőző, attól független tevékenységet.
-
-(15) Az e § szerinti közigazgatási bírság ismételten is kiszabható.
+- e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartást, valamint a jogsértő állapot megszüntetésére tett, a közlekedési hatóság eljárását megelőző, attól független tevékenységet.
 
 (16) Az e törvényben vagy a végrehajtására kiadott rendeletben meghatározott adatszolgáltatási kötelezettség elmulasztása esetén a közlekedési hatóság bírságot szab ki.
 
-(16a) Ha a jogsértés
-
-- a) a vasúti pályahálózat vonatkozásában merül fel, a bírság 50 millió forintig,
-- b) vasúti járművek és gépészeti berendezések vonatkozásában merül fel, a bírság 15 millió forintig,
-- c) egységes biztonsági tanúsítvány és engedély vonatkozásában merül fel, a bírság 15 millió forintig,
-- d) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzése és vizsgáztatása vonatkozásában merül fel, a bírság 3 millió forintig,
-- e) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók egészségi alkalmassága vonatkozásában merül fel, a bírság 3 millió forintig
-
-terjedhet jogsértésenként.
+(16a) Az e § szerinti közigazgatási bírság ismételten is kiszabható.
 
 (17) A vasúti közlekedési hatóság a feladatai ellátásához szükséges információk és adatok –beleértve az üzleti titkot is – szolgáltatására, iratok bemutatására kötelezheti indítványra, vagy hivatalból a vasúti társaságot, a megfelelőségértékelő szervezetet, a kockázatértékelő szervezetet, a karbantartást végző szervezetet, valamint a VPSZ-t.
 
@@ -2941,14 +2933,15 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 (2) Az e törvényben vagy a végrehajtására kiadott jogszabályokban meghatározott adatszolgáltatási kötelezettség elmulasztása esetén a közlekedési hatóság bírságot szab ki.
 
-(3) Ha a jogsértés
+(3) A közlekedési hatóság a különleges kötöttpályás közlekedés biztonságával és a különleges kötöttpályás forgalom lebonyolításával kapcsolatos jogsértések esetén a közlekedési hatóság által kiszabható bírság mértéke 5 000 000 forintig terjedhet.
 
-- a) a pályahálózat vonatkozásában merül fel, a bírság 1 millió forintig,
-- b) járművek és gépészeti berendezések vonatkozásában merül fel, a bírság 500 ezer forintig,
-- c) a különleges kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalókés egyéb foglalkoztatottak képzése és vizsgáztatása vonatkozásában merül fel, a bírság 50 ezer forintig,
-- d) a különleges kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók és egyéb foglalkoztatottak egészségi alkalmassága vonatkozásában merül fel, a bírság 50 ezer forintig
+(4) A közigazgatási bírság összegének meghatározása során a közlekedési hatóság figyelembe veszi
 
-terjedhet jogsértésenként.
+- a) a jogsértés súlyát, a vasúti közlekedés biztonságára gyakorolt hatását,
+- b) a jogsértő állapot fennállásának időtartamát,
+- c) a jogsértő magatartás felróhatóságát,
+- d) a korábbi jogsértő magatartást, valamint
+- e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartást, valamint a jogsértő állapot megszüntetésére tett, a közlekedési hatóság eljárását megelőző, attól független tevékenységet.
 
 84/N. § (1) A tevékenység végzését szüneteltető szervezet kivételével a 84/C. § (1) bekezdése szerinti tevékenységet végző szervezetnek a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatosan, a kormányrendeletben meghatározott keskeny nyomtávolságú vasút és a múzeumvasút kötelező baleseti kárfedezeti képességének biztosítására vonatkozó részletes szabályoknak folyamatosan meg kell felelnie.
 
