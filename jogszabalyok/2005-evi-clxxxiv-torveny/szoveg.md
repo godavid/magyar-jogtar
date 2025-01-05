@@ -688,7 +688,7 @@ látja el.
 - d) a közlekedési baleset vagy egyéb közlekedési esemény bejelentésére vonatkozó kötelezettségét elmulasztja,
 - e) a 376/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (2) bekezdésében a jelentéstételi rendszer létrehozására, a 6. cikk (1) és (5) bekezdésében a jelentések kezelésére, a 13. cikk (1)–(4) bekezdésében az események elemzésére, a 16. cikk (2) és (11) bekezdésében az információk védelmére vonatkozó kötelezettségét elmulasztja azzal szemben természetes személy esetén 1 000 000 Ft-ig, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén 20 000 000 Ft-ig terjedő bírság szabható ki.
 
-(1a) Az (1) bekezdésben meghatározott jogsértő magatartások elkövetésekor víziközlekedési esemény és víziközlekedési baleset esetén természetes személlyel szemben legfeljebb 50 000 forintig, jogi személlyel és jogi személyiséggel nem rendelkező szervezettel szemben legfeljebb 200 000 forintig terjedő bírság szabható ki.
+(1a)
 
 (2) A bírság összegének megállapításánál a közlekedésbiztonsági szerv a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett figyelembe veszi:
 

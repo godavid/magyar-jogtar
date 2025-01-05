@@ -34,7 +34,7 @@ terjed ki.
 
 #### 3. Az egyéb kötöttpályás közlekedés igazgatásának szervezete
 
-3. § Az egyéb kötöttpályás közlekedéssel összefüggő igazgatási és hatósági tevékenységet a közlekedésért felelős miniszter (a továbbiakban: miniszter), a vasúti igazgatási szerv, valamint a vasúti közlekedési hatóság (a továbbiakban: közlekedési hatóság) látja el.
+3. § Az egyéb kötöttpályás közlekedéssel összefüggő hatósági tevékenységet a vasúti közlekedési hatóság (a továbbiakban: közlekedési hatóság) látja el.
 
 ### II. Fejezet
 
@@ -58,23 +58,30 @@ terjed ki.
 
 #### 5. Bejelentés
 
-6. § (1) Egyéb kötöttpályás közlekedési tevékenység a vasúti igazgatási szerv, valamint a közlekedési hatóság részére a tervezett tevékenység megkezdése előtt legalább 30 nappal tett bejelentés mellett végezhető.
+6. § (1) Egyéb kötöttpályás közlekedési tevékenység a közlekedési hatóság részére – a tervezett tevékenység megkezdése előtt legalább 30 nappal – tett bejelentés mellett végezhető.
 
-(2) Az (1) bekezdés szerinti bejelentés alapján a vasúti igazgatási szerv és a közlekedési hatóság az egyéb kötöttpályás tevékenységet végző személyt vagy szervezetet nyilvántartásba veszi.
+(2) Az (1) bekezdés szerinti bejelentés alapján a közlekedési hatóság az egyéb kötöttpályás tevékenységet végző személyt vagy szervezetet nyilvántartásba veszi.
 
-(3) A folyamatos üzemeltetésű egyéb kötöttpályás közlekedési tevékenységet, a tervezett kezdőnapot legalább 15 nappal megelőzően, a vasúti igazgatási szervnek és a közlekedési hatóságnak megtett bejelentést követően lehet szüneteltetni.
+(3) A folyamatos üzemeltetésű egyéb kötöttpályás közlekedési tevékenységet, a tervezett kezdőnapot legalább 15 nappal megelőzően, a közlekedési hatóságnak megtett bejelentést követően lehet szüneteltetni.
 
-(4) Az időszakos üzemeltetésű egyéb kötöttpályás közlekedési tevékenységet végző szervezet a tevékenységének egy vagy több üzemeltetési cikluson át történő szüneteltetését a közlekedési hatóságnál és a vasúti igazgatási szervnél, az üzemeltetési ciklus kezdőnapját megelőzően legalább 15 nappal, bejelenti. Az üzemeltetési ciklusok közötti leállást nem kell bejelenteni.
+(4) Az időszakos üzemeltetésű egyéb kötöttpályás közlekedési tevékenységet végző szervezet a tevékenységének egy vagy több üzemeltetési cikluson át történő szüneteltetését a közlekedési hatóságnál – az üzemeltetési ciklus kezdőnapját megelőzően legalább 15 nappal – bejelenti. Az üzemeltetési ciklusok közötti leállást nem kell bejelenteni.
 
-(5) Az e § szerinti bejelentés alapján, a tevékenység szüneteltetés tényét a vasúti igazgatási szerv és a vasúti közlekedési hatóság a (2) bekezdés szerinti nyilvántartásában rögzíti.
+(5) Az e § szerinti bejelentés alapján a tevékenység-szüneteltetés tényét a közlekedési hatóság a (2) bekezdés szerinti nyilvántartásában rögzíti.
 
-(6) Az egyéb kötöttpályás közlekedési tevékenységgel felhagyni, a tevékenység befejezésének tervezett napját legalább 15 nappal megelőzően, a vasúti igazgatási szervnek és a közlekedési hatóságnak megtett bejelentést követően lehet.
+(6) Az egyéb kötöttpályás közlekedési tevékenységgel felhagyni – a tevékenység befejezésének tervezett napját legalább 15 nappal megelőzően – a közlekedési hatóságnak megtett bejelentést követően lehet.
 
-(7) Az (1) bekezdés szerinti bejelentés alapján a vasúti igazgatási szerv és a közlekedési hatóság a (2) bekezdés szerinti nyilvántartásából törli az egyéb kötöttpályás közlekedési tevékenységgel felhagyó személyt vagy szervezetet, ha valamennyi egyéb kötöttpályás közlekedési tevékenységével felhagy.
+(7) A (6) bekezdés szerinti bejelentés alapján a közlekedési hatóság a (2) bekezdés szerinti nyilvántartásából törli az egyéb kötöttpályás közlekedési tevékenységgel felhagyó személyt vagy szervezetet, ha valamennyi egyéb kötöttpályás közlekedési tevékenységével felhagy.
 
-6/A. § (1) A jelen alcím szerinti bejelentést tevő a vasúti igazgatási szervnek és a közlekedési hatóságnak rendelkezésére bocsátja a miniszteri rendeletben meghatározott információkat.
+6/A. § (1) A jelen alcím szerinti bejelentést tevő a közlekedési hatóság rendelkezésére bocsátja a vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályairól és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben meghatározott információkat.
 
-(2) A közlekedési hatóság és a vasúti igazgatási szerv a (1) bekezdés alapján megismert személyes adatokat nyilvántartásba veszi és a tevékenység felhagyását követő 12 hónapig kezeli.
+(2) A közlekedési hatóság az (1) bekezdés alapján nyilvántartásba veszi
+
+- a) a tevékenységet végző személy nevét, a szervezet cégnevét,
+- b) a személy vagy szervezet címét, székhelyét, levelezési címét, telefonszámát,
+- c) a kapcsolattartó személy nevét, levelezési címét és telefonszámát, és
+- d) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók és egyéb foglalkoztatott személyek nevét és munkakörét.
+
+(2a) A (2) bekezdés alapján nyilvántartásba vett adatokat a közlekedési hatóság a tevékenység felhagyását követő 12 hónapig kezeli.
 
 (3) A képzési rendelet szerinti alapképzés és időszakos oktatás végzésére irányuló szándékot a szolgáltató köteles a közlekedési hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni.
 
@@ -82,7 +89,7 @@ terjed ki.
 
 (5) Egyéb kötöttpályás közlekedési szakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
 
-(6) Ha a bejelentést a bejelentő a jogszabályi követelményeknek megfelelően nyújtotta be, a vasúti igazgatási szerv és a közlekedési hatóság a bejelentőt ennek tényéről értesíti.
+(6) Ha a bejelentést a bejelentő a jogszabályi követelményeknek megfelelően nyújtotta be, a közlekedési hatóság a bejelentőt ennek tényéről értesíti.
 
 #### 6. Műszaki engedély
 
@@ -148,15 +155,16 @@ terjed ki.
 
 #### 12. A közlekedési hatóság feladat- és hatásköre
 
-15. § (1) A közlekedési hatóság feladat- és hatáskörébe tartozik:
+15. § (1) A közlekedési hatóság feladat- és hatáskörébe tartozik
 
 - a) a műszaki engedély kiadása,
 - b) az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörben foglalkoztatott személy a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 - c) a siklók, sífelvonók, és az egyéb kötöttpályás üzemi létesítmények, az egyéb kötöttpályás közlekedési tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben foglaltaknak,
 - d) az egyéb kötöttpályás közlekedési rendszerek műszaki-biztonsági, valamint a kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásának vezetése,
 - e) az egészségi alkalmasság megállapítása és ellenőrzése, valamint a vizsgáló szervezet 12/A. § szerinti tevékenységének ellenőrzése,
-- f) jogszabály külön rendelkezésének hiányában a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
-- g) mindazon feladatok ellátása, amelyeket kormány- vagy miniszteri rendelet feladatkörébe utal.
+- f) jogszabály eltérő rendelkezésének hiányában a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
+- g) egyéb kötöttpályás tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képessége biztosításának részletes szabályairól szóló kormányrendeletben foglaltaknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység megtiltása,
+- h) mindazon feladatok ellátása, amelyeket kormány- vagy miniszteri rendelet feladatkörébe utal.
 
 (2) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -202,29 +210,9 @@ ingatlan.
 
 (6) A (3) bekezdés szerinti személyes adatokat a közlekedési hatóság vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.
 
-#### 12/A. A vasúti igazgatási szerv feladat- és hatásköre
+#### 12/A.
 
-18/A. § (1) A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:
-
-- a) az 5. alcím szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a bejelentésre vonatkozó követelményeket nem teljesítő személyre vagy szervezetre vonatkozóan bírság kiszabása, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének megtiltása,
-- b) nyilvántartás vezetése az egyéb kötöttpályás tevékenységeket végző személyekről és szervezetekről,
-- c) az egyéb kötöttpályás tevékenységet végző személyekről és szervezetekről felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység megtiltása,
-- d) az egyéb kötöttpályás közlekedési tevékenységek piacának nyomon követése, elemzése, értékelése
-- e) jogszabályban meghatározott adatgyűjtési, adatszolgáltatási feladatok ellátása,
-- f) a miniszter részére a miniszter által előírt adatszolgáltatások teljesítése,
-- g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
-
-(2)
-
-(3) Az egyéb kötöttpályás közlekedési tevékenységet végző személy vagy szervezet a vasúti igazgatási szerv feladatai ellátásához szükséges adatokat, iratokat átadja, a vasúti igazgatási szerv által meghatározott, ésszerű határidőn belül.
-
-(4) A vasúti igazgatási szerv jogosult a bejelentésre kötelezett tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni.
-
-(5) A vasúti igazgatási szerv hiánypótlási felhívást legfeljebb két ízben adhat ki.
-
-(6) Az ügyintézési határidő a vasúti igazgatási szerv eljárásában hat hét.
-
-(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatairól szóló közleményt a honlapján közhírré teszi.
+#### 18/A. §
 
 #### 13. A hatósági ellenőrzés, jogkövetkezmények, bírság
 
@@ -272,11 +260,11 @@ terjedhet jogsértésenként.
 
 20/A. § (1) A tevékenység végzését szüneteltető személy vagy szervezet kivételével a 6. § (1) bekezdése szerinti tevékenységet végző személynek vagy szervezetnek a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatban az egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képességének biztosításának részletes szabályairól szóló kormányrendeletben meghatározott részletes szabályoknak folyamatosan meg kell felelnie.
 
-(2) Ha a vasúti igazgatási szerv ellenőrzése során megállapítja, hogy az (1) bekezdés szerinti személy vagy szervezet a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételnek nem felel meg, a vasúti igazgatási szerv a megfelelés igazolásáig, legfeljebb hat hónapra megtiltja a tevékenység folytatását, és ennek tényét az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában rögzíti.
+(2) Ha a közlekedési hatóság ellenőrzése során megállapítja, hogy az (1) bekezdés szerinti személy vagy szervezet a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételnek nem felel meg, a közlekedési hatóság a megfelelés igazolásáig, legfeljebb hat hónapra megtiltja a tevékenység folytatását, és ennek tényét az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában rögzíti.
 
-(3) A vasúti igazgatási szerv a tevékenység folytatását megtiltja, és ennek tényét rögzíti az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában – továbbá, ha a személy vagy szervezet felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételek nem teljesítése a személy vagy szervezet által végzett valamennyi tevékenységet érinti, akkor a személyt vagy szervezetet a nyilvántartásból törli –, ha a személy vagy szervezet a feltételeknek való megfelelést a tevékenységet megtiltó határozat véglegessé válását követő hat hónapon belül nem igazolja.
+(3) A közlekedési hatóság a tevékenység folytatását megtiltja, és ennek tényét rögzíti az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában – továbbá, ha a személy vagy szervezet felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételek nem teljesítése a személy vagy szervezet által végzett valamennyi tevékenységet érinti, akkor a személyt vagy szervezetet a nyilvántartásból törli –, ha a személy vagy szervezet a feltételeknek való megfelelést a tevékenységet megtiltó határozat véglegessé válását követő hat hónapon belül nem igazolja.
 
-(4) A 18/A. § (1) bekezdés a) pontjában meghatározott bírság legmagasabb összege 500 ezer forint.
+(4) Az e törvény szerinti bejelentésre vonatkozó követelményeket nem teljesítő személyre vagy szervezetre kiszabható bírság legmagasabb összege 500 000 forint.
 
 #### 14. Adatvédelem, adatkezelés
 
@@ -304,17 +292,11 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 (3) A közlekedési hatóság vezetője a minősített adat védelméről szóló törvény tekintetében minősítésre jogosultnak minősül.
 
-22/B. § (1) A vasúti igazgatási szerv jogosult az egyéb kötöttpályás közlekedési tevékenységet végző személy és szervezet vezető tisztségviselői, valamint az e tevékenységek szakmai irányítását ellátó vezetőinek természetes személyazonosító adatait a tevékenység ellátásának ideje alatt kezelni.
+#### 22/B. §
 
-(2) Az (1) bekezdésben felsorolt személyek adataiban bekövetkezett változásról különleges kötöttpályás közlekedési tevékenységet végző személy és szervezet, a változást követő 8 napon belül tájékoztatja a vasúti igazgatási szervet.
+#### 15.
 
-#### 15. Üzleti titok
-
-23. § (1) Nem minősíthető üzleti titokká olyan adat vagy annak bármilyen szempont szerinti feldolgozása, amely adat nyilvánosságra hozatalára az ügyfelet jogszabály kötelezi.
-
-(2) Ha az eljárásban részt vevő ügyfél jogérvényesítése érdekében indokolt, a közlekedési hatóság felszólíthatja az üzleti titokkal rendelkező ügyfelet az üzleti titok minősítés azonnali hatállyal történő megszüntetésére. Ha az üzleti titokkal rendelkező ügyfél az üzleti titok minősítést nem oldja fel, és ezzel az ügy érdemi elbírálását akadályozza, a közlekedési hatóság végzésben az eljárás folytatásához szükséges mértékben kötelezi az üzleti titok másik fél számára történő rendelkezésre bocsátására.
-
-(3) A vasúti igazgatási szerv (2) bekezdésben foglalt végzése 15 napon belül közigazgatási perben megtámadható, a keresetlevél benyújtásának halasztó hatálya van.
+#### 23. §
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -322,22 +304,22 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 24. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a) a közlekedési hatóság, valamint a vasúti igazgatási szerv kijelölését, eljárásuk szabályait,
+- a) a közlekedési hatóság kijelölését, eljárása szabályait,
 - b) az egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, valamint az egyéb kötöttpályás közlekedési rendszerek üzemeltetése, illetve üzemben tartása ellenőrzésének részletes szabályait,
 - c) az egyéb kötöttpályás vizsgaközpont kijelölését,
-- d) a vasúti igazgatási szerv által kiszabható bírság megállapításának szempontjaira és megfizetésére, továbbá a közlekedési hatóság által kiszabható bírság megfizetésére vonatkozó szabályokat,
+- d) a közlekedési hatóság által kiszabható bírság megfizetésére vonatkozó szabályokat,
 - e) az e törvény szerinti szakértői tevékenység folytatásának a részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - f) a jogszabályban meghatározott munkakörben foglalkoztatottakkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző szerv vagy személyek kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
 - g) az egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képességének biztosításának részletes szabályait
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy
+(2) Felhatalmazást kap a közlekedésért felelős miniszter, hogy
 
 - a) az egyéb kötöttpályás közlekedési rendszereken közlekedő járművek műszaki engedélyezésének szabályait,
 - b) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre vonatkozó szabályokat,
-- c) az egyéb kötöttpályás közlekedési rendszer üzemeltetési szabályzatának tartalmi és a formai követelményeire, valamint közlekedési hatósági jóváhagyására vonatkozó szabályokat, valamint az egyéb kötöttpályás közlekedési rendszer üzemeltetési engedélyezési szabályait
-- d) a közlekedési hatóság és a vasúti igazgatási szerv eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, továbbá az azok megfizetésére, a közlekedési hatóság, valamint a vasúti igazgatási szerv és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
+- c) az egyéb kötöttpályás közlekedési rendszer üzemeltetési szabályzatának tartalmi és a formai követelményeire, valamint közlekedési hatósági jóváhagyására vonatkozó szabályokat, valamint az egyéb kötöttpályás közlekedési rendszer üzemeltetési engedélyezési szabályait,
+- d) a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, továbbá az azok megfizetésére, a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
 - e) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakör betöltéséhez szükséges vizsgán való részvételért fizetendő díjak körét és mértékét, valamint azok megfizetésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
