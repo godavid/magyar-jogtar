@@ -2883,7 +2883,13 @@ adatok megismerésére és kezelésére.
 
 (5) A korlátozottan megismerhető adatot tartalmazó iratot az ügy iratai között elkülönítve olyan módon kell kezelni, hogy a korlátozottan megismerhető adat az eljárási cselekmények során az ügy elintézésében részt vevő munkatárson, valamint a Hivatal elnökén, elnökhelyettesén, továbbá az ezen adatok kezelésére vagy megismerésére – törvényben meghatározott módon és körben – jogosult bíróságon, más szerven vagy személyen kívüli más személy számára ne váljon megismerhetővé.
 
-#### 112. §
+112. § (1) Határidőhöz kötött, még nem teljesített kötelezettség esetén az eljárási bírság napi összegben is meghatározható oly módon, hogy a kötelezett az eljárási bírságot, az azt kiszabó végzés véglegessé válásától a kötelezettség teljesítéséig terjedő időszakra fizeti meg.
+
+(2) Az (1) bekezdés alapján megállapított eljárási bírság esetében, az azt kiszabó végzés véglegessé válásától számított, a teljesítés nélkül eltelt minden egyes hónapot követő napon, az adott teljesítés nélkül eltelt hónapra eső eljárási bírság esedékessé válik; a teljesítés hónapjában a teljesítés napjáig terjedő időre eső eljárási bírság a teljesítés napján válik esedékessé.
+
+(3) Az eljárási bírság legfeljebb 6 hónapos időtartamra szabható ki, azonban egy eljárásban ismételten, vagy több eljárási kötelezettség teljesítése érdekében is kiszabható.
+
+(4) Az eljárási bírság kiszabása során a Vhr. eljárási bírságot érintő rendelkezéseit alkalmazni kell.
 
 113. § (1) Hivatal a zár alá vett dolgot megőrzésre alkalmas tárolóban vagy külön helyiségben helyezi el, azt lezárja és lepecsételi. Ha a dolog a helyszínen nem áll rendelkezésre, azt a Hivatal úgy is zár alá veheti, hogy kötelezi a dolog birtokosát, hogy azt változatlan formában, meghatározott helyen és időben bocsássa a Hivatal rendelkezésére.
 
@@ -2952,6 +2958,28 @@ rendelhet el.
 (7) Az egyezségi nyilatkozatba csak az ügyfél tekinthet be. Az egyezségi nyilatkozat visszavonása esetén a nyilatkozatot az arról készült másolatokkal együtt vissza kell szolgáltatni a nyilatkozatot tevő ügyfélnek.
 
 113/D. § Az ACER-nek a REMIT 13g. cikke alapján kiszabott kényszerítő bírságra vonatkozó határozatát az állami adó- és vámhatóság látja el végrehajtási záradékkal.
+
+### Jogkövetkezmények, szankciók
+
+113/E. § (1) Ha a Hivatal az e fejezet szerinti eljárásában megállapítja a REMIT-ben és a REMIT módosításában meghatározott tilalom vagy kötelezettség, illetve a 114/B. §-ban meghatározott kötelezettség megszegését vagy megkerülését vagy elmulasztását vagy késedelmes vagy hiányos teljesítését, akkor az alábbi jogkövetkezményeket alkalmazhatja
+
+- a) határidő tűzésével írásban felszólítja a kötelezettet a kötelezettségei betartására, illetve a jogsértő magatartás befejezésére,
+- b) határidő tűzésével kötelezi az ügyfelet a kötelezettség utólagos teljesítésére,
+- c) nyilvánosan figyelmezteti a jogsértésért felelős ügyfelet, a jogsértés tényét és súlyát megjelölve,
+- d) közleményt ad ki a jogsértő magatartás megvalósítójáról és a jogsértés tényéről,
+- e) ideiglenesen eltiltja a jogsértésért felelős természetes személyt a nagykereskedelmi energiatermékhez kapcsolódó kereskedési tevékenységet végző piaci szereplőnél történő vezetői feladatok gyakorlásától,
+- f) bírságot szab ki,
+- g) ha az érintett összeg meghatározható, elrendeli a jogsértő magatartással elért nyereség, vagy az emiatt elkerült veszteség megfizetését.
+
+(2) A jogkövetkezmények megállapítása során a Hivatal az egyes jogkövetkezményeket együtt is alkalmazhatja.
+
+(3) Nem alkalmazható jogkövetkezmény, ha ugyanazon tények tekintetében más tagállam nemzeti szabályozó hatósága már eljárt, döntése véglegessé vagy jogerőssé vált. A jogkövetkezmény megállapításakor a Hivatal a közigazgatási szabályszegések szankcióiról szóló törvényben foglaltakon túl mérlegeli az eset összes lényeges körülményét a REMIT 18. cikk (7) bekezdésében foglaltak figyelembevételével.
+
+(4) A Hivatal pénzfizetési kötelezettséget megállapító jogkövetkezmény alkalmazása esetén a Vhr.-ben meghatározott mértékű bírságot szab ki.
+
+(5) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
+
+(6) A bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe.
 
 ### Együttműködés az ACER-rel és más tagállam nemzeti szabályozó hatóságával
 
