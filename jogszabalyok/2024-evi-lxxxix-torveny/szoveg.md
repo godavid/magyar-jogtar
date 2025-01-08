@@ -170,13 +170,43 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 70. §
 
-#### 71. §
+71. § A villamos energiáról szóló 2007. évi LXXXVI. törvény a következő 112. §-sal egészül ki:
+
+„112. § (1) Határidőhöz kötött, még nem teljesített kötelezettség esetén az eljárási bírság napi összegben is meghatározható oly módon, hogy a kötelezett az eljárási bírságot, az azt kiszabó végzés véglegessé válásától a kötelezettség teljesítéséig terjedő időszakra fizeti meg.
+
+(2) Az (1) bekezdés alapján megállapított eljárási bírság esetében, az azt kiszabó végzés véglegessé válásától számított, a teljesítés nélkül eltelt minden egyes hónapot követő napon, az adott teljesítés nélkül eltelt hónapra eső eljárási bírság esedékessé válik; a teljesítés hónapjában a teljesítés napjáig terjedő időre eső eljárási bírság a teljesítés napján válik esedékessé.
+
+(3) Az eljárási bírság legfeljebb 6 hónapos időtartamra szabható ki, azonban egy eljárásban ismételten, vagy több eljárási kötelezettség teljesítése érdekében is kiszabható.
+
+(4) Az eljárási bírság kiszabása során a Vhr. eljárási bírságot érintő rendelkezéseit alkalmazni kell.”
 
 #### 72. §
 
 #### 73. §
 
-#### 74. §
+74. § A villamos energiáról szóló 2007. évi LXXXVI. törvény a 113/D. §-át követően a következő alcímmel egészül ki:
+
+### „Jogkövetkezmények, szankciók
+
+113/E. § (1) Ha a Hivatal az e fejezet szerinti eljárásában megállapítja a REMIT-ben és a REMIT módosításában meghatározott tilalom vagy kötelezettség, illetve a 114/B. §-ban meghatározott kötelezettség megszegését vagy megkerülését vagy elmulasztását vagy késedelmes vagy hiányos teljesítését, akkor az alábbi jogkövetkezményeket alkalmazhatja
+
+- a) határidő tűzésével írásban felszólítja a kötelezettet a kötelezettségei betartására, illetve a jogsértő magatartás befejezésére,
+- b) határidő tűzésével kötelezi az ügyfelet a kötelezettség utólagos teljesítésére,
+- c) nyilvánosan figyelmezteti a jogsértésért felelős ügyfelet, a jogsértés tényét és súlyát megjelölve,
+- d) közleményt ad ki a jogsértő magatartás megvalósítójáról és a jogsértés tényéről,
+- e) ideiglenesen eltiltja a jogsértésért felelős természetes személyt a nagykereskedelmi energiatermékhez kapcsolódó kereskedési tevékenységet végző piaci szereplőnél történő vezetői feladatok gyakorlásától,
+- f) bírságot szab ki,
+- g) ha az érintett összeg meghatározható, elrendeli a jogsértő magatartással elért nyereség, vagy az emiatt elkerült veszteség megfizetését.
+
+(2) A jogkövetkezmények megállapítása során a Hivatal az egyes jogkövetkezményeket együtt is alkalmazhatja.
+
+(3) Nem alkalmazható jogkövetkezmény, ha ugyanazon tények tekintetében más tagállam nemzeti szabályozó hatósága már eljárt, döntése véglegessé vagy jogerőssé vált. A jogkövetkezmény megállapításakor a Hivatal a közigazgatási szabályszegések szankcióiról szóló törvényben foglaltakon túl mérlegeli az eset összes lényeges körülményét a REMIT 18. cikk (7) bekezdésében foglaltak figyelembevételével.
+
+(4) A Hivatal pénzfizetési kötelezettséget megállapító jogkövetkezmény alkalmazása esetén a Vhr.-ben meghatározott mértékű bírságot szab ki.
+
+(5) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
+
+(6) A bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe.”
 
 #### 75. §
 
@@ -254,13 +284,45 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 106. §
 
-#### 107. §
+107. § A földgázellátásról szóló 2008. évi XL. törvény a következő 60. §-sal egészül ki:
+
+„60. § (1) Határidőhöz kötött, még nem teljesített kötelezettség esetén az eljárási bírság napi összegben is meghatározható oly módon, hogy a kötelezett az eljárási bírságot az azt kiszabó végzés véglegessé válásától, a kötelezettség teljesítéséig terjedő időszakra köteles megfizetni.
+
+(2) Az (1) bekezdés alapján megállapított eljárási bírság esetében, az azt kiszabó végzés véglegessé válásától számított, teljesítés nélkül eltelt minden egyes hónapot követő napon az adott teljesítés nélkül eltelt hónapra eső eljárási bírság esedékessé válik; a teljesítés hónapjában a teljesítés napjáig terjedő időre eső eljárási bírság a teljesítés napján válik esedékessé.
+
+(3) Az eljárási bírság maximum 6 hónapos időtartamra szabható ki, azonban egy eljárásban ismételten, vagy több eljárási kötelezettség teljesítése érdekében is kiszabható.
+
+(4) Az eljárási bírság kiszabása során a villamosenergiáról szóló 2007. évi LXXXVI. törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet eljárási bírságot érintő rendelkezéseit alkalmazni kell.”
 
 #### 108. §
 
 #### 109. §
 
-#### 110. §
+110. § A földgázellátásról szóló 2008. évi XL. törvény a 61/D. §-át követően a következő alcímmel egészül ki:
+
+### „Jogkövetkezmények, szankciók
+
+61/E. § (1) Ha a Hivatal az e fejezet szerinti eljárásában megállapítja a REMIT-ben és REMIT módosításában meghatározott tilalom vagy kötelezettség, illetve a 61/H. §-ban meghatározott kötelezettség megszegését vagy megkerülését vagy elmulasztását vagy késedelmes vagy hiányos teljesítését, akkor az alábbi jogkövetkezményeket alkalmazhatja:
+
+- a) a jogkövetkezményekre való utalással – megfelelő határidő tűzésével – írásban felszólítja a kötelezettet a kötelezettségei betartására, illetve a jogsértő magatartás befejezésére,
+- b) határidő tűzésével kötelezi az ügyfelet a kötelezettség utólagos teljesítésére,
+- c) nyilvánosan figyelmezteti a jogsértésért felelős ügyfelet, a jogsértés tényét és súlyát megjelölve,
+- d) közleményt ad ki a jogsértő magatartás megvalósítójáról és a jogsértés tényéről,
+- e) ideiglenesen eltiltja a jogsértésért felelős természetes személyt a nagykereskedelmi energiatermékhez kapcsolódó kereskedési tevékenységet végző piaci szereplőnél történő vezetői feladatok gyakorlásától,
+- f) bírságot szab ki,
+- g) ha az érintett összeg meghatározható, elrendeli a jogsértő magatartással elért nyereség, vagy az emiatt elkerült veszteség megfizetését.
+
+(2) A jogkövetkezmények megállapítása során a Hivatal az egyes jogkövetkezményeket együtt is alkalmazhatja.
+
+(3) Nem alkalmazható jogkövetkezmény, ha ugyanazon tények tekintetében más tagállam nemzeti szabályozó hatósága már eljárt, döntött és döntése véglegessé vagy jogerőssé vált.
+
+(4) A jogkövetkezmény megállapításakor a Hivatal a közigazgatási szabályszegések szankcióiról szóló 2017. CXXV. törvényben foglaltakon túl mérlegeli az eset összes lényeges körülményét a REMIT 18. cikk (7) bekezdésében foglaltak figyelembevételével.
+
+(5) A Hivatal pénzfizetési kötelezettséget megállapító jogkövetkezmény alkalmazása esetén a villamos energiáról szóló 2007. évi LXXXVI. törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű bírságot szab ki.
+
+(6) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
+
+(7) A bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe”
 
 #### 111. §
 
