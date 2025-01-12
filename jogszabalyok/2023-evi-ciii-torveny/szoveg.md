@@ -140,6 +140,7 @@ Az Országgyűlés – felismerve azt, hogy az információs és kommunikációs
 - 31. keretalkalmazás: a Kormány által kijelölt szolgáltató által vagy megbízásából a digitális állampolgárság szolgáltatások igénybevétele céljából a nyilvánosság számára mobileszközökre tervezett és kifejlesztett mobilalkalmazás;
 - 32. kormányzati célú hírközlési szolgáltatás: az elektronikus hírközlésről szóló törvényben meghatározott kormányzati célú hálózatnak minősülő, jogszabályban meghatározott elektronikus hírközlő hálózat felhasználásával, jogszabályban meghatározott felhasználók részére nyújtott elektronikus hírközlési szolgáltatás;
 - 33. központi állami szolgáltatás: olyan, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásnak, valamint központi elektronikus ügyintézési szolgáltatásnak nem minősülő, központi szolgáltatásként nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet az állam a piac szereplői részére a kijelölt központi szolgáltatón keresztül biztosít;
+- 33a. közszférabeli szervezet: az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 6. pontja szerinti szervezet, a 9. § (2) bekezdése szerinti digitális szolgáltatás nyújtására köteles szerv;
 - 34. lenyomat: olyan meghatározott hosszúságú, az elektronikus dokumentumhoz rendelt bitsorozat, amelynek képzése során a használt eljárás (lenyomatképző eljárás) a képzés időpontjában teljesíti az e törvény végrehajtására kiadott rendeletben megfogalmazott követelményeket;
 - 35. minősített adat: a minősített adat védelméről szóló törvény szerinti minősített adat;
 - 36. minősített bizalmi szolgáltatás: az eIDAS Rendelet 3. cikk 17. pontja szerinti szolgáltatás;
@@ -1123,6 +1124,8 @@ kormányrendelet állapítja meg.
 
 72. § (1) A digitális szolgáltatások felügyeletének (a továbbiakban: Felügyelet) feladata a digitális állampolgársághoz, a digitális szolgáltatások igénybevételéhez való jog érvényesülésének, továbbá a digitális szolgáltatások biztosításának ellenőrzése, összehangolása és elősegítése. A Felügyeletet a Kormány rendeletben jelöli ki.
 
+(1a) A Felügyelet az (EU) 2024/903 európai parlamenti és tanácsi rendelet alkalmazásáért felelős illetékes nemzeti hatóság és egyedüli kapcsolattartó pontként ellátja (EU) 2024/903 európai parlamenti és tanácsi rendelet 17. cikk (2) bekezdése szerinti feladatokat.
+
 (2) A Felügyelet az (1) bekezdés szerinti feladatkörében ellenőrzi különösen:
 
 - a) a digitális szolgáltatást biztosító szervezet által biztosított digitális szolgáltatásokat,
@@ -1139,6 +1142,8 @@ kormányrendelet állapítja meg.
 - e) ellátja a digitális szolgáltatások nyújtásának alapjául szolgáló állami alkalmazásokkal és digitális szolgáltatások nyújtásával kapcsolatos követelményeket meghatározó jogszabályokban foglaltak végrehajtásának ellenőrzésével kapcsolatos hatósági és felügyeleti feladatokat és eljár azok megsértése esetén;
 - f) kérelemre vagy hivatalból koordinációs eljárást folytat le.
 - g) ellátja a támogató szolgáltatások és a digitális állampolgárság szolgáltatások tekintetében e szolgáltatásoknak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti hatósági felügyeletét.
+
+(3a) A Felügyelet az (1a) bekezdés szerinti feladatkörében az e törvényben és e törvény végrehajtására kiadott jogszabályban meghatározottak szerint különösen a közszférabeli szervezet által elvégzendő, az (EU) 2024/903 európai parlamenti és tanácsi rendelet 3. cikke szerinti értékelési eljárást támogatja.
 
 (4) A Felügyelet az e törvény és a végrehajtására kiadott jogszabályokba foglalt követelmények megtartását hatósági ellenőrzés keretében vizsgálja.
 
@@ -1744,6 +1749,7 @@ kell biztosítani.
 - 23. a digitális szolgáltatóközpont feladatait, és a szolgáltatások tervezésére és megvalósítására vonatkozó követelményeket,
 - 24. azokat az eseteket, amelyek során nem alkalmazható a felhasználóval szemben kötelező elektronikus ügyintézés esetén hátrányos jogkövetkezmény.
 - 25. a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket.
+- 26. az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 14. pontja szerinti ellenőrzött környezet fejlesztésével, létrehozásával és üzemeltetésével kapcsolatos szabályokat, valamint az ahhoz való csatlakozás szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
 
@@ -1872,6 +1878,8 @@ kell biztosítani.
 (2) E törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) E törvény az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i (EU) 2018/1724 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) E a törvény a közszféra Unión belüli magas szintű interoperabilitását biztosító intézkedések meghatározásáról (az interoperábilis Európáról szóló rendelet) szóló, 2024. március 13-i (EU) 2024/903 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 123. § (1) E törvény a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
