@@ -214,11 +214,7 @@ a digitális állammal és az okmányok digitalizációjával összefüggő egye
 
 64. § (1)
 
-(2) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 8. §-a a következő 33a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„33a. közszférabeli szervezet: az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 6. pontja szerinti szervezet, a 9. § (2) bekezdése szerinti digitális szolgáltatás nyújtására köteles szerv;”
+(2)
 
 (3)
 
@@ -256,13 +252,7 @@ a digitális állammal és az okmányok digitalizációjával összefüggő egye
 
 #### 81. §
 
-82. § (1) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 72. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A Felügyelet az (EU) 2024/903 európai parlamenti és tanácsi rendelet alkalmazásáért felelős illetékes nemzeti hatóság és egyedüli kapcsolattartó pontként ellátja (EU) 2024/903 európai parlamenti és tanácsi rendelet 17. cikk (2) bekezdése szerinti feladatokat.”
-
-(2) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 72. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A Felügyelet az (1a) bekezdés szerinti feladatkörében az e törvényben és e törvény végrehajtására kiadott jogszabályban meghatározottak szerint különösen a közszférabeli szervezet által elvégzendő, az (EU) 2024/903 európai parlamenti és tanácsi rendelet 3. cikke szerinti értékelési eljárást támogatja.”
+#### 82. §
 
 #### 83. §
 
@@ -278,11 +268,7 @@ a digitális állammal és az okmányok digitalizációjával összefüggő egye
 
 #### 89. §
 
-90. § (1) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 113. § (1) bekezdése a következő 26. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:)
-
-„26. az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 14. pontja szerinti ellenőrzött környezet fejlesztésével, létrehozásával és üzemeltetésével kapcsolatos szabályokat, valamint az ahhoz való csatlakozás szabályait.”
+90. § (1)
 
 (2)
 
@@ -292,9 +278,7 @@ a digitális állammal és az okmányok digitalizációjával összefüggő egye
 
 #### 92. §
 
-93. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 122. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) E a törvény a közszféra Unión belüli magas szintű interoperabilitását biztosító intézkedések meghatározásáról (az interoperábilis Európáról szóló rendelet) szóló, 2024. március 13-i (EU) 2024/903 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.”
+#### 93. §
 
 #### 94. §
 
