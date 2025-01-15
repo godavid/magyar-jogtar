@@ -23,6 +23,12 @@ valamint a céginformációs szolgálat feladatai
 - g) azoknak az egyéb ügyeknek az elbírálása, amelyeket törvény a cégbíróság hatáskörébe utal, továbbá
 - h) a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről és szétválásáról szóló törvényben foglalt feladatok ellátása.
 
+(1a) A cégbíróság jogszabályban meghatározott módon és feltételekkel elrendeli és intézkedik az ingatlan-nyilvántartásban feltüntetett jog vagy tény keletkezésének, változásának vagy megszűnésének bejegyzése (a továbbiakban együtt: ingatlan-nyilvántartási bejegyzés) iránt, ha az e törvény szerinti eljárásában az ügy érdemében hozott jogerős végzése, vagy a cégbejegyzési (változásbejegyzési) eljárásban hozott bejegyzést elrendelő végzése alapján ingatlan-nyilvántartási bejegyzésnek van helye.
+
+(1b) Ingatlan nem pénzbeli vagyoni hozzájárulásként történő szolgáltatása esetén a cég a bejegyzési (változásbejegyzési) kérelmében – jogszabályban előírt okiratok csatolása mellett – kérelmezi az (1a) bekezdés szerinti döntés meghozatalát is. Ingatlannak mint nem pénzbeli vagyoni hozzájárulásnak a cégbejegyzést vagy a változásbejegyzést követően való szolgáltatása esetén a szolgáltatás teljesítését jogi képviselő útján kell bejelenteni, és ezzel egyidejűleg kérelmezni kell az (1a) bekezdés szerinti döntés meghozatalát is.
+
+(1c) Ingatlan nem pénzbeli vagyoni hozzájárulásként történő szolgáltatása esetén csak olyan ingatlan jelölhető meg, amelynek tulajdoni lapjából az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható.
+
 (2) A céginformációs és az elektronikus cégeljárásban közreműködő szolgálat (a továbbiakban: céginformációs szolgálat) feladatai a következők:
 
 - a) az e törvényben szabályozott módon hozzájárul a cégnyilvánosság követelményének megvalósításához, a cégjegyzékben szereplő adatok és cégiratok megismeréséhez;
@@ -1790,6 +1796,8 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (2) A hitelezők kielégítése után fennmaradó vagyonnak a tagok közötti természetbeni felosztása esetén a vagyonelemek értékét a vagyonfelosztási javaslatban kell meghatározni. Ha a cég tagjai valamely vagyonelemet a tudomásuk ellenére a piaci értékénél alacsonyabb értékkel fogadtak el, a vagyonfelosztás ilyen hibájából eredő fizetési kötelezettségekért egyetemlegesen felelnek.
 
+(2a) A vagyonfelosztási javaslatban a vagyonelemet az azonosításához szükséges adatokkal kell megjelölni, és a vagyonelem természetbeni felosztása esetén egyértelműen kell megjelölni azt a személyt, aki a vagyonelem tulajdonjogát a cég törlésével megszerzi. Pénzösszeg esetén az összegét, a pénznemét és azt a tagot kell megjelölni, aki a pénzösszegre jogosult lesz.
+
 (3) A legfőbb szerv az előterjesztett iratok, illetve a vagyonfelosztás tárgyában határozatot hoz, amelyben dönthet a jogok engedményezéséről és a kötelezettségek átruházásáról, illetve a cég tartozásának más által történő átvállalásáról is. A határozatban – szükség esetén – rendelkezni kell a végelszámoló díjáról és a végelszámolás költségeinek, köztük az iratanyag őrzésének és a cég megszűnésével kapcsolatban felmerülő egyéb költségeknek a viseléséről is.
 
 112. § (1) A végelszámoló köteles gondoskodni a cég iratanyagának elhelyezéséről. Az ezzel kapcsolatos költségeket és a megszűnés utáni iratőrzés költségeit a vagyonfelosztási javaslatban fel kell tüntetni. A vagyonfelosztás során úgy is meg lehet állapodni, hogy a cég iratanyagának őrzését (ingyenesen vagy ellenérték fejében) a tagok valamelyike vállalja. A cég iratanyagának elhelyezésére egyebekben a Cstv. erre vonatkozó szabályai megfelelően alkalmazandók.
@@ -1798,7 +1806,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (3) A 111. §-ban felsorolt iratok jóváhagyása és a vagyonfelosztási határozat elfogadása után a legfőbb szerv dönt a felosztott vagyon kiadásának időpontjáról, amelynek lebonyolítására a végelszámoló köteles. A vagyon kiadására nem kerülhet sor a cég törlésére vonatkozó végzés meghozatalát megelőzően.
 
-(4) A végelszámoló által benyújtott, a cég törlésére irányuló kérelem illetékmentes, és a cég törlését tartalmazó végzés közzétételéért közzétételi költségtérítést nem kell fizetni. A kérelemhez az arra vonatkozó határozatot, a 111. § (1) bekezdésének b)–d) pontjaiban felsorolt iratokat, valamint a 111. § (3) bekezdésében megjelölt határozatot kell csatolni.
+(4) A végelszámoló által benyújtott, a cég törlésére irányuló kérelem illetékmentes, és a cég törlését tartalmazó végzés közzétételéért közzétételi költségtérítést nem kell fizetni. A kérelemhez az arra vonatkozó határozatot, a 111. § (1) bekezdés b) és c) pontjában felsorolt iratokat, valamint a 111. § (3) bekezdésében megjelölt határozatot kell csatolni. Ingatlant érintő vagyonfelosztási határozat esetén a törlési kérelmet az 1. § (1b) bekezdésének alkalmazásával kell előterjeszteni. A cég törlésére irányuló kérelemnek helyt adó végzés esetén a cégbíróság szükség szerint az 1. § (1a) bekezdése szerint jár el.
 
 (5) A végelszámolást nem lehet addig befejezni, amíg a cégnek olyan ismert követelése vagy tartozása áll fenn, amelyről a vagyonfelosztási határozatban nem rendelkeztek.
 
@@ -1890,7 +1898,7 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (2b) A cégbíróság a követelést tartalmazó elkésett bejelentést visszautasítja; e végzés ellen fellebbezésnek van helye.
 
-(3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e feljegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart.
+(3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e bejegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart.
 
 (4) A cégbíróság megkeresi a pénzforgalmi szolgáltatókat, befektetési vállalkozókat és az árutőzsdei szolgáltatókat a cég vagyonára vonatkozó adatszolgáltatás teljesítése érdekében.
 
@@ -1990,9 +1998,9 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (6) Ha a céggel szemben követelés bejelentésére nem került sor, azonban a cég fellelhető vagyonnal rendelkezik, a cégbíróság – a 116. § (1) bekezdés d) pontja szerinti esetben eltiltás mellőzése mellett – a céget a 62. § (4) bekezdése figyelembevételével törli a cégjegyzékből. Ha azonban a cég fellelhető vagyonának tulajdonjogával összefüggésben kétség merül fel, a cégbíróság megszünteti a kényszertörlési eljárást és kezdeményezi a cég ellen a felszámolási eljárás megindítását.
 
-(6a) A cég törlése esetén, ha a cég fellelhető vagyontárggyal rendelkezik, a cégbíróság a Ptk. 3:48. § (2) bekezdése alkalmazásával rendelkezik a vagyontárgynak a tagok közötti felosztásáról, és szükség szerint rendelkezik a vagyontárgyra vonatkozóan a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban a tagot megillető tulajdonjog bejegyzéséről. A cégbíróság a cég törléséről rendelkező végzésében szükség szerint rendelkezik valamely vagyontárgyra vonatkozóan a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban a céget megillető vagyoni értékű jog – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tény törléséről is. A cégbíróság végzését a vagyontárgy tulajdonosának is megküldi.
+(6a) A cég törlése esetén, ha a cég fellelhető vagyontárggyal rendelkezik, a cégbíróság a Ptk. 3:48. § (2) bekezdése alkalmazásával rendelkezik a vagyontárgynak a tagok közötti felosztásáról, és szükség szerint rendelkezik a vagyontárgyra vonatkozóan a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban a tagot megillető tulajdonjog bejegyzéséről, valamint szükség szerint az 1. § (1a) bekezdése szerint jár el. A cégbíróság a cég törléséről rendelkező végzésében szükség szerint rendelkezik valamely vagyontárgyra vonatkozóan a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban a céget megillető vagyoni értékű jog – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében bejegyzett tény törléséről is. A cégbíróság végzését a vagyontárgy tulajdonosának is megküldi.
 
-(6b) Az érintett nyilvántartásra vonatkozó szabályoktól eltérően a céget megillető vagyoni értékű jogok – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tények törlésére a cég törlését elrendelő, a céget megillető vagyoni értékű jog – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tény törléséről is rendelkező végzés csatolásával kerül sor. Az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
+(6b) Az érintett nyilvántartásra vonatkozó szabályoktól eltérően a céget megillető vagyoni értékű jogok – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében bejegyzett tények törlésére a cég törlését elrendelő, a céget megillető vagyoni értékű jog – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében bejegyzett tény törléséről is rendelkező végzés csatolásával kerül sor, és a cégbíróság szükség szerint az 1. § (1a) bekezdése szerint jár el. Az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
 
 (6c) A cégbíróság az eljárást befejező végzésében feltünteti a cég vagyontárgyait és azok – valószínűsíthető – értékét is. A cégbíróság az (1), a (2) és a (6) bekezdés szerinti, a cég törlését elrendelő végzésében a kényszertörlési eljárás kezdő időpontjában a cégjegyzékbe bejegyzett tagokat és vezető tisztségviselőit egyetemlegesen kötelezi az eljárás illetékének megfizetésére, kivéve, ha a kényszertörlési eljárás elrendelésére a 116. § (1) bekezdés d) pontja alapján került sor.
 
@@ -2114,6 +2122,8 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (4) A tulajdonjognak a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásba történő bejegyzésére, illetve a vagyontárgy birtokba adására csak akkor kerülhet sor, ha a jogosultak a vagyonrendező bíróság által megállapított költségeit és munkadíját – amennyiben azok levonására az (1) bekezdés szerint nem került sor – megfizették.
 
+(4a) Ha a bíróság (2) vagy (3) bekezdés szerinti jogerős végzése alapján az ingatlan-nyilvántartásba bejegyzett jog vagy tény keletkezését, változását vagy megszűnését kell átvezetni, a bíróság jogszabályban meghatározott módon és feltételekkel intézkedik az ingatlan-nyilvántartásban feltüntetett jog vagy tény keletkezésének, változásának vagy megszűnésének bejegyzése iránt.
+
 (5) Ha a vagyonrendezési eljárás lefolytatására hivatalból került sor, a vagyonrendező az (1) bekezdésben meghatározott költségeinek és díjának a vagyonfelosztási javaslat alapján nem fedezett részét az állam viseli.
 
 (6) A vagyonfelosztásról döntő végzés ellen fellebbezésnek van helye. Az eljárás jogerős befejezésének tényét a bíróság a Cégközlönyben közzéteszi.
@@ -2145,7 +2155,7 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 ### 6. CÍM — NYILVÁNTARTÁSBA BEJEGYZETT JOG ÉS TÉNY TÖRLÉSE IRÁNTI VAGYONRENDEZÉSI ELJÁRÁS
 
-124/B. § (1) Ha a jogutód nélkül törölt cég közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, – ha a 130. § (2) bekezdése szerinti feltételek nem állnak fenn – a vagyontárgy tulajdonosának kérelmére a bíróság e § szerinti különleges vagyonrendezési eljárást folytat le.
+124/B. § (1) Ha a jogutód nélkül törölt cég közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van bejegyezve, – ha a 130. § (2) bekezdése szerinti feltételek nem állnak fenn – a vagyontárgy tulajdonosának kérelmére a bíróság e § szerinti különleges vagyonrendezési eljárást folytat le.
 
 (2) A vagyontárgy tulajdonosa által benyújtott kérelemnek tartalmaznia kell a törölt cég azonosításához szükséges adatokat, valamint csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, továbbá azokat az egyéb okiratokat és határozatokat, amelyek a jog vagy tény bejegyzésével összefüggésben a kérelmező rendelkezésére állnak.
 
@@ -2155,11 +2165,11 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (5) Ha jogutód nélküli megszűnéssel összefüggő irat (ideértve különösen a vagyonfelosztási okiratokat) nincs bírósági irattárban, és az más, a jogutód nélküli eljárásban részt vevő személytől, vagy a levéltártól nem szerezhető be, továbbá nem áll rendelkezésre más olyan okirat, amellyel hitelt érdemlő módon bizonyítható lenne annak ténye, hogy a kérelemmel érintett jog vagy tény mást illet meg, a bíróság a Cégközlönyben a törölt cég adatait, valamint a jog vagy tény megjelölését is tartalmazó végzést tesz közzé. A végzés felhívást tartalmaz arra, hogy akit a jog megillet, vagy akinek a tény feltüntetése az érdekében áll, ezt a közzétételtől számított harmincnapos jogvesztő határidőn belül – az azt megalapozó okiratok csatolásával – jelentheti be a bíróságnál.
 
-(6) Ha az (5) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a bíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik.
+(6) Ha az (5) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a bíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő bejegyzéséhez érdek nem fűződik.
 
 (7) Ha az eljárás alapján az állapítható meg, hogy a kérelemben megjelölt jog vagy tény más javára történő átengedésére került sor, a bíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
 
-(8) A közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozóan a törölt cég javára bejegyzett jog (ide nem értve a tulajdonjogot) vagy javára, illetve érdekében feljegyzett tény törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a (6) bekezdés szerinti végzés csatolásával kerülhet sor. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
+(8) A közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozóan a törölt cég javára bejegyzett jog (ide nem értve a tulajdonjogot) vagy javára, illetve érdekében bejegyzett tény törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a (6) bekezdés szerinti végzés csatolásával kerülhet sor, és a bíróság szükség szerint a 123. § (4a) bekezdése szerint jár el. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
 
 ### 7. CÍM — VÉGELSZÁMOLÁS LEFOLYTATÁSÁT KÖVETŐEN TÖRÖLT CÉG VAGYONÁRA VONATKOZÓ KÉRELEMRE INDULÓ VAGYONRENDEZÉSI ELJÁRÁS
 
@@ -2169,7 +2179,7 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (3) Az e § szerinti eljárásban vagyonrendező kijelölésére és vagyontárgy értékesítésére nem kerül sor.
 
-(4) Ha a kérelem és kérelemhez csatolt iratok megfelelnek a jogszabályi előírásoknak, a bíróság a vagyonfelosztási javaslatot végzésével jóváhagyja.
+(4) Ha a kérelem és kérelemhez csatolt iratok megfelelnek a jogszabályi előírásoknak, a bíróság a vagyonfelosztási javaslatot végzésével jóváhagyja, és a bíróság szükség szerint a 123. § (4a) bekezdése szerint jár el.
 
 ### X. Fejezet — Hatályba léptető és átmeneti rendelkezések,
 
@@ -2234,7 +2244,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 130. § (1) E törvénynek a Módtv.-vel megállapított rendelkezéseit – (2)–(7) bekezdés, továbbá a 131/A. § szerinti kivételekkel – a hatálybalépést követően kezdeményezett eljárásokban kell alkalmazni.
 
-(2) Amennyiben 2012. március 1-jét megelőzően – végelszámolási eljárást követően– jogutód nélkül megszűnt cég közhiteles nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, ezek törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a vagyontárgy tulajdonosának kérelmére, a (3) vagy (7) bekezdés szerinti végzés csatolásával kerülhet sor. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
+(2) Amennyiben 2012. március 1-jét megelőzően – végelszámolási eljárást követően– jogutód nélkül megszűnt cég közhiteles nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van bejegyezve, ezek törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a vagyontárgy tulajdonosának kérelmére, a (3) vagy (7) bekezdés szerinti végzés csatolásával kerülhet sor. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
 
 (3) A vagyontárgy tulajdonosa kérelmére, a (4)–(7) bekezdés szerinti nemperes eljárásban a jogutód nélkül megszűnt cég székhelye szerinti cégbíróság végzést hoz arról, hogy a jogutód nélküli megszűnéssel összefüggő vagyonfelosztási határozatban, illetve vagyonfelosztási javaslatban nem volt rendelkezés a jog vagy tény más javára történő átengedéséről.
 
@@ -2244,7 +2254,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (6) Ha a legfőbb szerv által jóváhagyott vagyonfelosztási javaslat már nincs a bírósági irattárban, és az sem a végelszámolótól, sem a levéltártól nem szerezhető be, továbbá nem áll rendelkezésre más olyan okirat, amellyel hitelt érdemlő módon bizonyítható lenne annak ténye, hogy a (2) bekezdés szerinti jog vagy tény mást illet meg, a cégbíróság a Cégközlönyben a megszűnt cég, valamint a jog vagy tény megjelölését is tartalmazó végzést tesz közzé. A végzés felhívást tartalmaz arra, hogy akit a jog megillet, vagy akinek a tény feltüntetése az érdekében áll, ezt a közzétételtől számított harminc napos jogvesztő határidőn belül – az azt megalapozó okiratok csatolásával – jelentheti be a cégbíróságnál.
 
-(7) Ha a (6) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a cégbíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik. Ellenkező esetben a cégbíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
+(7) Ha a (6) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a cégbíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő bejegyzéséhez érdek nem fűződik, és a cégbíróság szükség szerint az 1. § (1a) bekezdése szerint jár el. Ellenkező esetben a cégbíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
 
 131. § (1) Azokat a cég által az állami adó- és vámhatósághoz bejelentett főtevékenységeket azonosító TEÁOR-kódokat, amelyek a TEÁOR’08 és a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelettel (e § alkalmazásában a továbbiakban: Rendelet) bevezetett, a Központi Statisztikai Hivatal honlapján nyilvánosságra hozott új TEÁOR’25 közötti fordítókulcs szerint átkódolhatók az új TEÁOR’25 tevékenységi szakágazati kódra, az állami adó- és vámhatóság 2025. január 31. napjáig hivatalból módosítja a Rendeletnek megfelelően és intézkedik a változás cégjegyzékben való átvezetése iránt. Azon cégnek, amelyik az átvezetett főtevékenység kódot módosítani kívánja, a főtevékenységét azonosító TEÁOR-kódot az új TEÁOR’25-kód alapján kell az állami adó- és vámhatósághoz bejelentenie legkésőbb 2025. július 1. napjáig.
 
@@ -2324,6 +2334,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 (4) E törvénynek a 2021. évi LXX. tv.-nyel megállapított 80. § (6) bekezdését a folyamatban lévő törvényességi felügyeleti eljárásokban is alkalmazni kell azzal, hogy a cég vezető tisztségviselője köteles a tagokat a 2021. évi LXX. tv. hatálybalépését követő 30 napon belül tájékoztatni a céggel szemben folyamatban lévő törvényességi felügyeleti eljárásról.
 
 131/P. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről és szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény hatálybalépését megelőzően a 24. § (1) bekezdés l) pontja szerinti, a cégjegyzékbe bejegyzett adat a cégjegyzékből nem kerül törlésre.
+
+131/R. § E törvénynek az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvénnyel megállapított rendelkezéseit azokban a 2025. január 15-én folyamatban lévő eljárásokban is alkalmazni kell, amelyekben ingatlan-nyilvántartásban feltüntetett jog vagy tény keletkezésének, változásának vagy megszűnésének bejegyzése iránti intézkedés 2025. január 15-én vagy azt követően válik szükségessé.
 
 131/S. § E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított 119. § (1b) bekezdését, 121. § (2a)–(2d) és (4) bekezdését, valamint 124. §-át a folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -2415,7 +2427,7 @@ d) a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem á
 
 8. ha a könyvvizsgáló szervezet, a könyvvizsgálatot ellátó személynek a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata;
 
-9. ingatlan nem pénzbeli hozzájárulásként történő szolgáltatása esetén az ingatlan – három hónapnál nem régebbi – tulajdoni lapja, melyből az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható; a tulajdoni lapon a következő bejegyzésre váró széljegy jogosultjaként csak a nem pénzbeli hozzájárulást szolgáltató személy vagy szervezet szerepelhet;
+9.
 
 10. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása;
 
@@ -2702,6 +2714,8 @@ e) az üzletrész elzálogosításához kapcsolódóan
 ea) a zálogjog bejegyzése esetén a zálogszerződés egy példánya vagy annak – legalább a szerződő felek nevét (cégnevét), lakóhelyét (székhelyét), a zálog tárgyának meghatározását, a zálogjog kikötését, a követelés összegét, amelynek biztosítására a zálogjog szolgál, kikötése esetén az elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat, a szerződés megkötésének helyét és időpontját, valamint a felek aláírását tartalmazó – kivonata, továbbá a zálogjogosult által benyújtott bejegyzési kérelem esetén a tag (zálogkötelezett) teljes bizonyító erejű magánokiratba foglalt – szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – bejegyzési engedélye,
 
 eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt– szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – törlési engedélye,
+
+eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye,
 
 ec) zálogjogosulti bizományos bejegyzése (törlése) esetén a zálogjogosulti bizományost kijelölő (kijelölést megszüntető) okirat, ha az üzletrészen alapított zálogjog feltüntetésére a zálogjogosulti bizományos bejegyzésével együtt kerül sor, az ea) pont szerinti okiratok is;
 

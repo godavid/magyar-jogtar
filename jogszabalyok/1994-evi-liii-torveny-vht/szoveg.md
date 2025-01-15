@@ -1828,7 +1828,7 @@ ismételten benyújtja.
 
 ### Az ingatlan-végrehajtás általános szabályai
 
-136. § (1) Az adós tulajdonában levő ingatlant az ingatlan jellegére, művelési ágára és az ingatlant terhelő jogra vagy tilalomra, továbbá az ingatlanhoz kapcsolódó, az ingatlan-nyilvántartásba feljegyzett tényekre tekintet nélkül végrehajtás alá lehet vonni.
+136. § (1) Az adós tulajdonában levő ingatlant az ingatlan jellegére, művelési ágára és az ingatlant terhelő jogra vagy tilalomra, továbbá az ingatlanhoz kapcsolódó, az ingatlan-nyilvántartásba bejegyzett tényekre tekintet nélkül végrehajtás alá lehet vonni.
 
 (2) Ha az állami tulajdonban álló ingatlant a kezelőjének a tartozása fejében vonták végrehajtás alá, e törvénynek a tulajdonjogra vonatkozó rendelkezéseit a kezelői jogra kell megfelelően alkalmazni.
 
@@ -1869,7 +1869,7 @@ ismételten benyújtja.
 
 (1a) Ha az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megfizetését a végrehajtást kérő a végrehajtási eljárásban igazolta, az igazgatási szolgáltatási díjat a végrehajtási eljárásban végrehajtási költségként kell behajtani.
 
-(2) A végrehajtó az ingatlan lefoglalása végett megkeresi az ingatlanügyi hatóságot, hogy a végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba, egyúttal felhívja az ingatlanügyi hatóságot, hogy a végrehajtási jog bejegyzésével kapcsolatos határozatának megküldésével együtt tájékoztassa a végrehajtót azoknak a nevéről és lakóhelyéről (székhelyéről), akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van, valamint a lefoglalt ingatlant érintően a földhasználati nyilvántartásba bejegyzett földhasználat jogcíméről és időtartamáról. A foglalás a végrehajtási jog bejegyzésével valósul meg.
+(2) A végrehajtó az ingatlan lefoglalása végett felhívja az ingatlanügyi hatóságot, hogy a végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba. A lefoglalás a végrehajtási jog bejegyzésével valósul meg.
 
 (3) Az ingatlanügyi hatóság a végrehajtási jog bejegyzését – ideértve a megelőző beadványokat is – a végrehajtási költségként megelőlegezett igazgatási szolgáltatási díj megfizetését követően soron kívül intézi el.
 
@@ -1883,7 +1883,7 @@ ismételten benyújtja.
 
 (2) Az (1) bekezdés szerinti esetben az ingatlanügyi hatóság a beadvány széljegyzését követően a jogszerzésre jogosultat hiánypótlás keretében az eljárás igazgatási szolgáltatási díjának megfizetésére szólítja fel. A díj meg nem fizetése esetén az ingatlanügyi hatóság az érintett ingatlanok vonatkozásában az eljárást megszünteti.
 
-138/B. § Ha az ingatlanra kisajátítási eljárás megindításának ténye van feljegyezve, a lefoglalt ingatlan végrehajtási értékesítése és becsértékének megállapítása iránt nem lehet intézkedni. A végrehajtó az ingatlanügyi hatóság zálogjogosultak nevéről és lakóhelyéről (székhelyéről) szóló értesítésének kézhezvétele után tájékoztatja a zálogjogosultat a végrehajtási eljárásba történő bekapcsolódás lehetőségéről. A zálogjogosultnak a bekapcsolódás iránti kérelmét ezen értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet a 140. § (6) bekezdésében foglalt módon továbbítja a bíróságnak, amely azt a 140/A. § szerint bírálja el.
+138/B. § Ha az ingatlanra kisajátítási eljárás megindításának ténye van bejegyezve, a lefoglalt ingatlan végrehajtási értékesítése és becsértékének megállapítása iránt nem lehet intézkedni. A végrehajtó az ingatlanügyi hatóság zálogjogosultak nevéről és lakóhelyéről (székhelyéről) szóló értesítésének kézhezvétele után tájékoztatja a zálogjogosultat a végrehajtási eljárásba történő bekapcsolódás lehetőségéről. A zálogjogosultnak a bekapcsolódás iránti kérelmét ezen értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet a 140. § (6) bekezdésében foglalt módon továbbítja a bíróságnak, amely azt a 140/A. § szerint bírálja el.
 
 138/C. § Lakóingatlan lefoglalásának tényéről a végrehajtó – a végrehajtási jog bejegyzéséről szóló határozat részére történt kézbesítését követő 15 napon belül – tájékoztatja az ingatlan fekvése szerint illetékes jegyzőt.
 
@@ -2087,7 +2087,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 - a) az árverési vevő részére az árverési vétel igazolása céljából, és
 - b) az ingatlanügyi hatóság részére az árverési vevő tulajdonjogának az ingatlan-nyilvántartásba való bejegyzése érdekében.
 
-(3) A végrehajtó a tulajdonjog bejegyzési eljárás megindítása iránti megkeresésében tájékoztatja az ingatlanügyi hatóságot az adós adóazonosító jeléről, adóazonosító jel hiányában az adós nevéről, születési helyéről, idejéről, anyja leánykori nevéről és lakóhelyéről (nem magyar állampolgárságú magánszemélynek az útlevélszámáról), továbbá arról, hogy az árverés jogerőre emelkedett, és az árverési vételárat kifizették.
+(3) A végrehajtó a tulajdonjog bejegyzése iránti felhívásában tájékoztatja az ingatlanügyi hatóságot az adós adóazonosító jeléről, adóazonosító jel hiányában az adós nevéről, születési helyéről, idejéről, anyja leánykori nevéről és lakóhelyéről (nem magyar állampolgárságú magánszemélynek az útlevélszámáról), továbbá arról, hogy az árverés jogerőre emelkedett, és az árverési vételárat kifizették.
 
 (4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan megszünteti az elektronikus árverési hirdetmény közzétételét, valamint archiválja az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót. Az archivált árverési hirdetményt és licitnaplót a Kar hivatali szerve az archiválástól számított tíz évig őrzi meg.
 
@@ -2606,7 +2606,7 @@ indított perben hozott határozat végrehajtása
 
 (4) A fizetési számlán elhelyezett összegre vonatkozó mentességi szabályokat a biztosítási intézkedés esetén is alkalmazni kell.
 
-(5) Az ingatlan lefoglalása végett a végrehajtó haladéktalanul megkeresi az ingatlanügyi hatóságot, hogy a pénzkövetelés biztosítására irányuló végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba. A további eljárásra a 138. § megfelelően irányadó.
+(5) Az ingatlan lefoglalása végett a végrehajtó haladéktalanul felhívja az ingatlanügyi hatóságot, hogy a pénzkövetelés biztosítására irányuló végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba. A további eljárásra a 138. § megfelelően irányadó.
 
 (6) Munkabér [7. § (1) bek.] akkor tiltható le, ha az adósnak a biztosítandó összeg fedezetéül szolgáló, végrehajtás alá vonható más vagyontárgya nincs.
 
@@ -2640,7 +2640,7 @@ indított perben hozott határozat végrehajtása
 
 (4) Az elrendelt zárlat ellenére sem lehet lefoglalni a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javakat a különleges védelem időtartama alatt.
 
-195. § Az ingatlan zárlatát elrendelő végzés átvétele után a végrehajtó haladéktalanul megkeresi az ingatlanügyi hatóságot, hogy a zárlatot jegyezze be az ingatlan-nyilvántartásba. A további eljárásra a 138. § megfelelően irányadó.
+195. § Az ingatlan zárlatát elrendelő végzés átvétele után a végrehajtó haladéktalanul felhívja az ingatlanügyi hatóságot, hogy a zárlatot jegyezze be az ingatlan-nyilvántartásba. A további eljárásra a 138. § megfelelően irányadó.
 
 196. § A zárlat bejegyzéséről szóló ingatlan-nyilvántartási határozat kézhezvétele után a végrehajtó az ingatlant zárgondnok kezelésébe adja, ha
 

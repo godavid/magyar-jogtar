@@ -376,7 +376,7 @@ A cselekvőképességet nem érintő támogatott döntéshozatal elősegítése 
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a kérelmet a hatósághoz írásban vagy személyesen lehet előterjeszteni.
 
-(3) Az ügyfél kérelmével a tárgyában hozott döntés véglegessé válásáig rendelkezhet.
+(3) Ha törvény vagy kormányrendelet későbbi időpontot nem állapít meg, az ügyfél kérelmével addig az időpontig rendelkezhet, amíg a tárgyában hozott döntés közlése iránt a hatóság nem intézkedik.
 
 (4) E § rendelkezéseit az eljárás megindítására irányuló kérelmen kívüli egyéb, az eljárás valamennyi résztvevőjének az eljárással összefüggő kérelmeire is megfelelően alkalmazni kell.
 
@@ -433,7 +433,7 @@ Ha az automatikus döntéshozatali eljárásban és a sommás eljárásban hozot
 (1) A hatóság az eljárás megindításától számított nyolc napon belül
 
 - a) a kérelmet visszautasítja, az eljárást megszünteti vagy érdemben dönt,
-- b) a beadvány elintézését függőben tartja, vagy az eljárás felfüggesztése vagy szünetelése iránt intézkedik, vagy
+- b) az eljárás felfüggesztése vagy szünetelése iránt intézkedik, vagy
 - c) – szükség esetén – szakhatóságot keres meg, rendelkezik a tényállás tisztázásához szükséges előre látható eljárási cselekményekről, hiánypótlásra hív fel.
 
 (2) A hatóság teljes eljárásra történő áttérés esetén – amennyiben annak feltételei fennállnak – elektronikus úton tájékoztatja az ügyfelet a teljes eljárás ügyintézési határidejéről, a határidő túllépésének jogkövetkezményeiről és arról, hogy a hatóság a továbbiakban a teljes eljárás szabályai szerint jár el.

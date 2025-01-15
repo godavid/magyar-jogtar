@@ -315,7 +315,7 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 ### (A Ptk. 5:19. §-ához)
 
-44. § A földhasználat szerződéses szabályozásának az ingatlan-nyilvántartásba való feljegyzését a szerződő felek a Ptk. hatálybalépése előtt megkötött szerződések esetén is – a Ptk. 5:19. §-a alapján és joghatásával – kérhetik.
+44. § A földhasználat szerződéses szabályozása tényének az ingatlan-nyilvántartásba való bejegyzését a szerződő felek a Ptk. hatálybalépése előtt megkötött szerződések esetén is – a Ptk. 5:19. §-a alapján és joghatásával – kérhetik.
 
 #### 16. Túlépítés
 
@@ -401,7 +401,7 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 (4) A (2) és (3) bekezdésben meghatározott esetben az ügyész keresetében a szerződések sértettekkel szembeni hatálytalanságának megállapítását is kérheti.
 
-(5) Ha az ügyészi keresettel érintett vagyontárgy ingatlan, az ügyész a (2) és (3) bekezdés szerinti szerződésekkel kapcsolatos széljegyzett beadványok elintézésének függőben tartása érdekében kérheti az ingatlanügyi hatóság megkeresését. A bíróság e kérelem tárgyában a tárgyalás előkészítésére irányuló intézkedések körében dönt. A bíróság megkeresése alapján az ingatlanügyi hatóság a megkereséssel érintett beadványok elintézését a bíróság jogerős döntéséig függőben tartja.
+(5) Ha az ügyészi keresettel érintett vagyontárgy ingatlan, az ügyész a (2) és (3) bekezdés szerinti szerződésekkel kapcsolatos széljegyzett beadványok alapján indult bejegyzési eljárások felfüggesztése érdekében a bíróság intézkedését kérheti. A bíróság az ügyészi kérelem tárgyában előzetesen végrehajtható végzéssel dönt. A bíróság végzése alapján az ingatlanügyi hatóság az érintett beadványok intézésére irányuló eljárását a bíróság jogerős döntéséig felfüggeszti.
 
 #### 22/B. A tisztességtelenségtől eltérő okból semmis általános szerződési feltétellel kapcsolatos közérdekű kereset
 
@@ -416,6 +416,17 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 53/C. § (1) Ha a Ptk. hatálybalépése előtt kötött szerződésből származó valamennyi jog és kötelezettség Ptk. hatálybalépését követően jogszabály rendelkezése alapján száll át másra, úgy erre a Ptk. 6:211. §-át kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti esetben a szerződésből kilépő és a szerződésben maradó fél tekintetében a szerződést megszűntnek, a szerződésbe belépő és a szerződésben maradó fél tekintetében pedig a szerződést az átszálló valamennyi jog és kötelezettség vonatkozásában a jogszabály rendelkezése alapján létrejött új szerződésnek kell tekinteni.
+
+#### 22/D. Az elővásárlási, a visszavásárlási, a vételi és az eladási jog közös szabályai
+
+### (A Ptk. 6:226. §-ához)
+
+53/D. § (1) Ha ugyanarra a dologra nézve több jogszabály más javára állapít meg elővásárlási jogot és a jogszabály az ilyen jog gyakorlásának rangsoráról nem rendelkezik vagy e jogok gyakorlásának rangsora az elővásárlási jogot alapító jogszabályokból nem állapítható meg,
+
+- a) az állam (ideértve annak szerveit is), a helyi önkormányzat (ideértve annak szerveit is), illetve más személy az őt megillető elővásárlási jogot ebben a sorrendben gyakorolhatja, egyebekben
+- b) a korábban hatályba lépett jogszabályi rendelkezés alapján fennálló elővásárlási jog megelőzi a későbbi időpontban hatályba lépett jogszabályon alapuló elővásárlási jogot.
+
+(2) Az (1) bekezdést a jogszabályon alapuló visszavásárlási jog, vételi jog és eladási jog esetében is alkalmazni kell.
 
 #### 23. Felelősség szerződésen kívül okozott kárért
 

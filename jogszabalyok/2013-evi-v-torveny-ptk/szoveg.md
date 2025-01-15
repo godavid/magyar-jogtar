@@ -6276,17 +6276,17 @@ A tulajdonjog kétség esetén kiterjed arra is, ami nem alkotórész ugyan, de 
 
 (1) Az épület tulajdonjoga - ha az épület és a föld tulajdonosa eltérően nem állapodnak meg - a földtulajdonost illeti meg.
 
-(2) Az ingatlan tulajdonosa rendelkezhet úgy, hogy a földet és a rajta álló épületet önálló ingatlanokként jegyezzék be az ingatlan-nyilvántartásba.
+(2) Az ingatlan tulajdonosa rendelkezhet úgy, hogy a földet és a földön létesített épületet önálló ingatlanokként jegyezzék be az ingatlan-nyilvántartásba.
 
 #### 5:19. § [A földhasználat szerződéses szabályozása a föld és az épület tulajdonosa között]
 
-(1) Ha a földtulajdonos és az épület tulajdonosa az épület létesítésével és a föld használatával kapcsolatos jogaikat és kötelezettségeiket szerződésben szabályozzák, e szerződés harmadik személlyel szemben akkor hatályos, ha azt az ingatlan-nyilvántartásba feljegyezték.
+(1) Ha a földtulajdonos és az épület tulajdonosa az épület létesítésével és a föld használatával kapcsolatos jogaikat és kötelezettségeiket szerződésben szabályozzák, e szerződés harmadik személlyel szemben akkor hatályos, ha e tényt az ingatlan-nyilvántartásba bejegyezték.
 
 (2) A földtulajdonos és az épület tulajdonosa megállapodhatnak abban, hogy az épület tulajdonosa az épületet a földtulajdonos hozzájárulásával idegenítheti el vagy terhelheti meg. Az épület tulajdonosa a föld tulajdonosától a hozzájárulás megadását követelheti, ha az elidegenítés vagy a terhelés az épület tulajdonosát terhelő kötelezettségek teljesítését vagy az épület létesítésének a szerződésben rögzített célját nem veszélyezteti.
 
 #### 5:20. § [Elővásárlási jog az épület és a föld elváló tulajdona esetén]
 
-Ha a föld és a rajta álló épület tulajdonjoga elválik, a földtulajdonost az épületre, az épület tulajdonosát a földre elővásárlási jog illeti meg.
+Ha a föld és a földön létesített épület tulajdonjoga elválik, a földtulajdonost az épületre, az épület tulajdonosát a földre elővásárlási jog illeti meg.
 
 ### IV. CÍM — A TULAJDONJOG TARTALMA ÉS VÉDELME
 
@@ -6378,9 +6378,9 @@ A tulajdonos nem foszthatja meg a szomszédos épületet a szükséges földtám
 
 #### 5:31. § [Elidegenítési és terhelési tilalom alapítása]
 
-(1) Tulajdonjog tárgyára vonatkozó jog biztosítása érdekében a tulajdonos harmadik személlyel szemben hatályosan a tulajdonjog tárgyára elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat alapíthat. Ingatlan esetén az ingatlan-nyilvántartásban azt a jogot is fel kell tüntetni, amelynek biztosítására a tilalom szolgál.
+(1) Tulajdonjog tárgyára vonatkozó jog biztosítása érdekében a tulajdonos harmadik személlyel szemben hatályosan a tulajdonjog tárgyára elidegenítési és terhelési tilalmat együttesen, de külön-külön is alapíthat. Ingatlan esetén az ingatlan-nyilvántartásban azt a jogot is fel kell tüntetni, amelynek biztosítására a tilalom szolgál.
 
-(2) Az elidegenítési és terhelési tilalom, valamint az elidegenítési tilalom az azzal biztosított jog megszűnésével megszűnik.
+(2) Az (1) bekezdés szerinti tilalom az azzal biztosított jog megszűnésével megszűnik.
 
 #### 5:32. § [Az elidegenítési és terhelési tilalom hatása]
 
@@ -6388,7 +6388,7 @@ A tulajdonos nem foszthatja meg a szomszédos épületet a szükséges földtám
 
 (2) Az ellenérték fejében jogot szerző jóhiszemű személyek jogszerzését az elidegenítési és terhelési tilalom nem korlátozza.
 
-(3) Az elidegenítési és terhelési tilalomra vonatkozó rendelkezéseket megfelelően alkalmazni kell, ha a dolgon csak elidegenítési tilalom áll fenn, vagy ha a rendelkezés jogát a tilalom más módon korlátozza.
+(3) Az elidegenítési és terhelési tilalomra vonatkozó rendelkezéseket kell alkalmazni, ha a dolgon csak elidegenítési, illetve csak terhelési tilalom áll fenn, vagy a dologgal való rendelkezés jogát a tilalom más módon korlátozza.
 
 #### 5:33. § [Elidegenítési és terhelési tilalom jogszabály vagy bírósági határozat alapján]
 
@@ -7149,7 +7149,7 @@ Ha ugyanazt a zálogtárgyat óvadék és jelzálogjog is terheli, az óvadék j
 
 #### 5:124. § [Ranghely-szerződés]
 
-(1) A zálogjogok rangsora valamennyi érdekelt hozzájárulásával megváltoztatható. A rangsor megváltozásához a ranghely megváltozásának a bejegyzése, illetve feljegyzése szükséges.
+(1) A zálogjogok rangsora valamennyi érdekelt hozzájárulásával megváltoztatható. A rangsor megváltozásához a ranghely megváltozásának a bejegyzése szükséges.
 
 (2) A bejegyzések ranghelyével való rendelkezés nem járhat harmadik személy - a ranghely módosításának időpontjában bejegyzett - jogának sérelmével.
 
@@ -7157,11 +7157,11 @@ Ha ugyanazt a zálogtárgyat óvadék és jelzálogjog is terheli, az óvadék j
 
 #### 5:125. § [A zálogjog ranghelyének előzetes biztosítása]
 
-(1) A tulajdonos a megfelelő nyilvántartásba - meghatározott személy javára vagy a jogosult megjelölése nélkül - feljegyeztetheti, illetve bejegyezheti, hogy valamely vagyontárgyat zálogjoggal kíván megterhelni.
+(1) A tulajdonos a megfelelő nyilvántartásba - meghatározott személy javára vagy a jogosult megjelölése nélkül - bejegyezheti, hogy valamely vagyontárgyat zálogjoggal kíván megterhelni.
 
-(2) A feljegyzés iránti kérelemben, illetve a bejegyzésben meg kell határozni azt az összeget, amelynek erejéig a tulajdonos zálogjogot kíván alapítani.
+(2) A bejegyzésben meg kell határozni azt az összeget, amelynek erejéig a tulajdonos zálogjogot kíván alapítani.
 
-(3) Az előzetesen biztosított ranghelyre bejegyzett zálogjog a feljegyzés, illetve a bejegyzés ranghelyéhez igazodó ranghelyet kap.
+(3) Az előzetesen biztosított ranghelyre bejegyzett zálogjog a bejegyzés ranghelyéhez igazodó ranghelyet kap.
 
 ### XXVII. Fejezet — A zálogjog érvényesítése
 
@@ -7391,7 +7391,7 @@ Az elzálogosított jog vagy követelés érvényesítésére és az aljelzálog
 
 #### 5:145. § [Földhasználati jog a föld és az épület szétváló tulajdonjoga esetén]
 
-(1) Ha a föld és a rajta álló épület tulajdonjoga nem ugyanazt a személyt illeti meg, az épület tulajdonosát az épület fennállásáig az épület rendeltetésszerű használatához szükséges mértékben a földre földhasználati jog illeti meg.
+(1) Ha a föld és a földön létesített épület tulajdonjoga nem ugyanazt a személyt illeti meg, az épület tulajdonosát az épület fennállásáig az épület rendeltetésszerű használatához szükséges mértékben a földre földhasználati jog illeti meg.
 
 (2) Földhasználati jogánál fogva az épület tulajdonosa az épület használathoz szükséges mértékben jogosult a föld használatára és hasznai szedésére, valamint a használat arányában köteles viselni a föld fenntartásával járó terheket.
 
@@ -7613,173 +7613,106 @@ Ha a haszonélvezetnek olyan jog a tárgya, amelynél fogva valaminek a szolgál
 
 #### 5:164. § [A közérdekű használati jog]
 
-(1) Ingatlanra közérdekből, a jogszabályban feljogosított személyek javára - hatóság határozatával - szolgalmat vagy más használati jogot lehet alapítani. A használati jog alapításáért a korlátozás mértékének megfelelő kártalanítás jár.
+(1) Ingatlanra közérdekből, a jogszabályban feljogosított személyek javára - hatóság határozatával vagy az érintett feleknek a határozatot pótló megállapodásával – szolgalmat vagy más használati jogot lehet alapítani. A használati jog alapításáért a korlátozás mértékének megfelelő kártalanítás jár.
 
 (2) A használati jog alapításából eredő károkat a kisajátítási kártalanításra vonatkozó szabályok szerint kell megtéríteni.
 
 ## NEGYEDIK RÉSZ — AZ INGATLAN-NYILVÁNTARTÁS
 
-### X. CÍM — AZ INGATLAN-NYILVÁNTARTÁS ÉS ANNAK ELVEI
+### X. CÍM — AZ INGATLAN-NYILVÁNTARTÁS TARTALMA ÉS AZ AHHOZ FŰZŐDŐ JOGHATÁSOK
 
-#### 5:165. § [Az ingatlan-nyilvántartás]
+#### 5:165. § [Az ingatlan-nyilvántartás tartalma]
 
-Az ingatlan-nyilvántartás az ingatlanokra vonatkozó jogok, valamint jogi szempontból jelentős tények nyilvános és közhiteles nyilvántartása. Az ingatlan-nyilvántartás tartalmazza az ingatlanoknak és az ingatlan-nyilvántartásba bejegyzett személyeknek a jogszabályban meghatározott adatait.
+Az ingatlan-nyilvántartás az ingatlanokra vonatkozóan bejegyezhető jogokat, tényeket és adatokat az ingatlan-nyilvántartásról szóló jogszabályban meghatározottak szerint tartalmazza.
 
-#### 5:166. § [Az ingatlan-nyilvántartás nyilvánossága]
+#### 5:166. § [Az ingatlan-nyilvántartásba való bejegyzés]
 
-(1) Az ingatlan-nyilvántartás nyilvános.
+(1) E törvény eltérő rendelkezése hiányában az ingatlanra vonatkozó dologi jogok és korlátolt dologi jogok (a továbbiakban együtt: dologi jogok) az ingatlan-nyilvántartásba történő bejegyzéssel keletkeznek, módosulnak és szűnnek meg.
 
-(2) Az ingatlan-nyilvántartási tulajdoni lap, illetve térkép tartalmát - a különös védelem alá tartozó személyes adatok kivételével - bárki megismerheti, arról feljegyzést készíthet, továbbá hiteles másolat vagy tanúsítvány kiadását kérheti.
+(2) Az ingatlan-nyilvántartásba bejegyezhető nem dologi jogok és tények harmadik személyekkel szemben az ingatlan-nyilvántartásba történő bejegyzéssel válnak hatályossá.
 
-(3) Az ingatlan-nyilvántartási bejegyzés, feljegyzés és a széljegyzett ingatlan-nyilvántartási igény alapjául szolgáló okiratok tartalma - a hozzájárulás és az igazolt igény keretei között - akkor ismerhető meg, ha a kérelmező igazolja, hogy a megismeréshez az okirat tartalma által érintett jogosultak és kötelezettek hozzájárultak, vagy hogy az okirat megismerése joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
+(3) A jogszabály erejénél fogva keletkező jog vagy tény harmadik személyekkel szemben bejegyzés nélkül is hatályos, ha az ingatlannak a jogot vagy tényt keletkeztető jogszabály hatálya alá tartozása az ingatlan-nyilvántartásban szereplő más jog, tény vagy – a helyrajzi számot ide nem értve – adat alapján az ingatlan tekintetében kétségtelenül megállapítható.
 
-(4) Az ingatlan természetben meghatározott részére bejegyzett jogok, tények és átvezetett adatok alapjául szolgáló okiratnak az érintett természetbeni rész meghatározására vonatkozó tartalma korlátozás nélkül megismerhető akkor is, ha a tulajdoni lapon lévő bejegyzés nem hivatkozik arra, hogy a természetbeni rész meghatározását az okirat tartalmazza.
+(4) Törvényben meghatározott jogok vagy tények bejegyzése a későbbi jogszerzők szerzését korlátozza vagy feltételessé teszi.
 
-#### 5:167. § [Az okirati elv]
+#### 5:167. § [Az ingatlan-nyilvántartás közhitelességének joghatása]
 
-Az ingatlan-nyilvántartásba jog és jogilag jelentős tény bejegyzésére, feljegyzésére és adatok átvezetésére jogszabályban meghatározott okirat, továbbá bírósági vagy hatósági határozat alapján kerülhet sor.
+Ha valamely jogot, tényt vagy adatot az ingatlan-nyilvántartásba bejegyeztek vagy az ingatlan-nyilvántartásból töröltek, senki sem hivatkozhat arra, hogy annak fennállásáról vagy törléséről nem tudott.
 
-#### 5:168. § [A bejegyzési elv]
+#### 5:168. § [Jóhiszeműen és ellenérték fejében szerzők védelme]
 
-(1) Törvényben meghatározott egyes jogok keletkezése, módosulása és megszűnése az ingatlan-nyilvántartási tulajdoni lapra történő bejegyzéssel megy végbe. Az ingatlan-nyilvántartásba azokat a jogokat lehet bejegyezni, amelyek bejegyezését jogszabály lehetővé teszi.
+(1) A jóhiszemű és ellenérték fejében szerző javára az ingatlan-nyilvántartás tartalmát akkor is helyesnek és teljesnek kell tekinteni, ha ez az anyagi jogi jogállapottól eltér.
 
-(2) A jogátruházásról kiállított okiraton alapuló bejegyzés keletkezteti az átruházáson alapuló tulajdonjogot, a jogalapításról kiállított okiraton alapuló bejegyzés pedig a szerződésen alapuló vagyonkezelői jogot, földhasználati jogot, haszonélvezeti jogot és a használat jogát, telki szolgalmi jogot és jelzálogjogot.
+(2) Az (1) bekezdés szerinti rendelkezésre nem lehet hivatkozni azzal szemben, aki a jóhiszemű és ellenérték fejében szerző ellen az ingatlan-nyilvántartási bejegyzés törlése vagy kiigazítása iránt, illetve az ingatlan-nyilvántartásban feltüntetett bejegyzési igény alapjául szolgáló jogügylet érvénytelenségének vagy a bejegyzési igény elévülésének megállapítása iránt pert indít. Ugyanez a szabály irányadó, ha a törlési vagy kiigazítási perindítást bejegyezték az ingatlan-nyilvántartásba.
 
-(3) Törvényben meghatározott egyes jogilag jelentős tények feljegyzésének, illetve jogszabály erejénél fogva keletkező jogok bejegyzésének elmaradása a hozzájuk fűződő joghatást nem érinti.
+#### 5:169. § [Az ingatlan-nyilvántartáson kívül jogot szerző jogállása]
 
-(4) Törvényben meghatározott egyes jogok bejegyzésének és jogilag jelentős tények feljegyzésének elmaradása esetén a jogosult azokat a jóhiszemű harmadik jogszerzővel szemben nem érvényesítheti.
+(1) Az ingatlan-nyilvántartáson kívül az ingatlanra vonatkozóan dologi jogot szerző a szerzett jogát nem érvényesítheti az ingatlan-nyilvántartásba bejegyzett vagy őt a bejegyzési igénnyel rangsorban megelőző, jóhiszemű és ellenérték fejében jogot szerzővel szemben.
 
-(5) Törvényben meghatározott egyes jogok és jogilag jelentős tények bejegyzése a későbbi jogszerzők szerzését korlátozza vagy feltételessé teszi.
+(2) Az ingatlan-nyilvántartásba be nem jegyzett jogot vagy tényt annak jogosultja a jóhiszemű és ellenérték fejében jogot szerző bejegyzett jogosulttal, valamint a be nem jegyzett jog vagy tény jogosultját bejegyzési igénnyel rangsorban megelőző jóhiszeműen és ellenérték fejében jogot szerzővel szemben nem érvényesítheti.
 
-#### 5:169. § [A rangsor elve]
+#### 5:170. § [Az ingatlan-nyilvántartási bejegyzés hatályának kiterjesztése]
 
-Az ingatlanra bejegyzett jogok ingatlan-nyilvántartási sorrendjét (a továbbiakban: rangsor) a bejegyzések hatályának kezdetére irányadó időpontok határozzák meg.
+Az ingatlan-nyilvántartási bejegyzés hatályára, továbbá a jóhiszemű és ellenérték fejében szerzők védelmére vonatkozó szabályokat kell alkalmazni arra az esetre, ha az ingatlan-nyilvántartásba bejegyzett jog alapján az ingatlan-nyilvántartásban jogosultként megjelölt részére szolgáltatást teljesítenek.
 
-#### 5:170. § [Az ingatlan-nyilvántartás közhitelessége]
+### XI. CÍM — A TÖRLÉSI ÉS A KIIGAZÍTÁSI PER; JOGVÉDELMI HATÁS
 
-Az ingatlan-nyilvántartás a bejegyzett jogok és a feljegyzett tények fennállását hitelesen tanúsítja.
+#### 5:171. § [A bejegyzés törlése]
 
-### XI. CÍM — AZ INGATLAN-NYILVÁNTARTÁS KÖZHITELESSÉGE
+Az ingatlan-nyilvántartási bejegyzés törlésének a bejegyzés alapjául szolgáló jogügylet érvénytelensége vagy a bejegyzés utólagos helytelenné válása miatt van helye.
 
-#### 5:171. § [Az ingatlan-nyilvántartási közhitelesség tartalma]
+#### 5:172. § [A törlési és kiigazítási igény]
 
-(1) Ha valamely jogot az ingatlan-nyilvántartásba bejegyeztek, vagy ha valamely tényt oda feljegyeztek, senki sem hivatkozhat arra, hogy annak fennállásáról nem tudott.
+(1) A jogosultat megillető törlési vagy kiigazítási igény az ingatlan tulajdonjogát vagy az ingatlanra vonatkozó valamely más jogot közvetlenül szerzővel szemben nem évül el.
 
-(2) Az (1) bekezdésben foglaltak megfelelően irányadók az ingatlan-nyilvántartásban széljegyzett kérelmek kapcsán a folyamatban lévő eljárás tényére és tárgyára is.
+(2) Azzal szemben, aki közvetlenül a bejegyzés folytán szerzett jogot vagy mentesült kötelezettség alól, a bejegyzés törlése iránti pert addig lehet megindítani, amíg a bejegyzés alapjául szolgáló jognyilatkozat érvénytelensége vagy a bejegyzés utólagos helytelenné válása megállapításának helye van.
 
-#### 5:172. § [Az ingatlan-nyilvántartásban bízva jogot szerző jóhiszeműsége]
+#### 5:173. § [Bejegyeztetési kötelezettség]
 
-(1) A jóhiszemű jogszerzésre hivatkozó fél jóhiszeműségének megítélése során a jóhiszeműség fennállását a jogszerzésre alapított kérelmének az ingatlan-nyilvántartásba való bejegyzés céljából való benyújtása szerinti időpontban kell vizsgálni. Ha a jogváltozásra irányuló megállapodás a bejegyzés hatályossá válásának időpontja után jött létre, a jóhiszeműség megítélése során a megállapodás létrejöttének időpontja az irányadó.
+Ha az ingatlan-nyilvántartás kiigazításának feltétele az, hogy ezt megelőzően más jogát bejegyezzék, a jogosult ettől a személytől az őt megillető jog ingatlan-nyilvántartásba történő bejegyeztetését követelheti.
 
-(2) Nem tekinthető jóhiszeműnek az a jogot szerző vagy a jóhiszeműség védelme alá eső egyéb cselekményt végző személy, aki jogának szerzésekor vagy a cselekmény véghezvitelének időpontjában az ingatlan-nyilvántartás tartalmának helytelenségéről vagy az ingatlan-nyilvántartásban jogosultként bejegyzett személy jogának korlátozottságáról tudott vagy akinek arról tudnia kellett.
+#### 5:174. § [Az ingatlan-nyilvántartás jogvédelmi hatása]
 
-(3) Nem hivatkozhat a jogszerző a jóhiszeműségére olyan jogosulttal szemben, aki saját jogszerzését olyan bejegyzés vagy feljegyzés tárgyát képező jogra vagy tényre alapítja, amelynek ingatlan-nyilvántartásba való bejegyzése vagy feljegyzése iránti eljárás megindítását a jóhiszeműség megítélése során irányadó időpontban az ingatlan-nyilvántartásban széljegy formájában már feltüntették, ha a bejegyzés vagy feljegyzés iránti kérelem alapján a bejegyzésre vagy feljegyzésre sor kerül.
+(1) A törlési pert a jóhiszeműen és ellenérték fejében jogot szerző harmadik személlyel szemben az anyagi jog szerinti jogosult vagy a bejegyzés törlése esetén jogosulttá váló személy
 
-#### 5:173. § [Az ingatlan-nyilvántartás teljessége]
+- a) az érvénytelen bejegyzésről vagy az utólag helytelenné vált bejegyzés alapján történt jogszerzés bejegyzéséről szóló határozat részére történő kézbesítésétől számított hat hónap alatt,
+- b) ha a határozat részére történő kézbesítésére nem került sor, a bejegyzés hatályossá válásától számított hároméves határidő alatt
 
-(1) Az ellenkező bizonyításáig úgy kell tekinteni, hogy az ingatlan-nyilvántartásba bejegyzett jog vagy feljegyzett tény fennáll, és az az ingatlan-nyilvántartás szerinti jogosultat illeti meg.
+indíthatja meg.
 
-(2) Az ellenkező bizonyításáig úgy kell tekinteni, hogy az ingatlan-nyilvántartásból törölt jog vagy tény nem áll fenn.
+(2) Az (1) bekezdés szerinti perindítási határidők elmulasztása jogvesztéssel jár.
 
-#### 5:174. § [Jóhiszeműen és ellenérték fejében szerzők védelme]
+(3) Az (1) és (2) bekezdés a kiigazítási igény érvényesítésére irányuló kiigazítási perre is irányadó, ha az ingatlanügyi hatósági eljárásban a sérelem nem orvosolható, vagy ha a sérelem orvoslását a bejegyzést sérelmesnek tartó fél eredménytelenül kísérelte meg.
 
-(1) A jóhiszemű és ellenérték fejében szerző javára az ingatlan-nyilvántartás tartalmát akkor is helyesnek és teljesnek kell tekinteni, ha az a valódi anyagi jogi jogállapottól eltér. Ennek alapján a szerző az e törvény szerinti védelemben részesül.
+#### 5:175. §
 
-(2) A jóhiszemű szerző az (1) bekezdésben foglalt védelemre nem hivatkozhat azzal szemben, aki ellene az ingatlan-nyilvántartási bejegyzés törlése iránt vagy az ingatlan-nyilvántartásban széljegyzett bejegyzési igény alapjául szolgáló jogügylet érvénytelenségének vagy ezen igény elévülésének megállapítása iránt pert indít. Ugyanez irányadó arra az esetre is, ha az ingatlan-nyilvántartásba a kérelem benyújtása előtt a törlési vagy kiigazítási pert feljegyezték.
+#### 5:176. §
 
-#### 5:175. § [Az ingatlan-nyilvántartáson kívül jogot szerző jogállása]
+#### 5:177. §
 
-(1) Az ingatlan-nyilvántartáson kívül jogot szerző személy vagy az ingatlan-nyilvántartásban feljegyezhető tény jogosultja a szerzett jogát, illetve a feljegyezhető tényt nem érvényesítheti az ingatlan-nyilvántartásba bejegyzett vagy az őt bejegyzési igénnyel rangsorban megelőző, jóhiszemű szerzővel szemben.
+### XII. CÍM
 
-(2) Az ingatlan-nyilvántartásba be nem jegyzett jogot és fel nem jegyzett tényt a jóhiszemű és ellenérték fejében jogot szerző, valamint bejegyzési igénnyel rangsorban előbb álló, jóhiszemű jogszerzővel szemben nem lehet érvényesíteni. A jóhiszemű szerző jogvédelme az ingatlan-nyilvántartási állapot függő jogi helyzetére utaló tény feljegyzése esetére nem terjed ki.
+#### 5:178. §
 
-#### 5:176. § [Az ingatlan-nyilvántartási bejegyzés hatályának kiterjesztése]
+#### 5:179. §
 
-Az ingatlan-nyilvántartási bejegyzés hatályára, továbbá a jóhiszemű és ellenérték fejében szerzők védelmére vonatkozó szabályokat kell megfelelően alkalmazni arra az esetre, ha az ingatlan-nyilvántartásba bejegyzett jog alapján az ingatlan-nyilvántartásban jogosultként megjelölt részére szolgáltatást teljesítenek.
+#### 5:180. §
 
-#### 5:177. § [Az ingatlan-nyilvántartási adatok irányadó jellege]
+#### 5:181. §
 
-(1) Ingatlannal kapcsolatos hatósági eljárásokban az ingatlan-nyilvántartásban feltüntetett adatokat, valamint az ingatlan-nyilvántartási térképen ábrázolt határvonalat kell irányadónak tekinteni.
+### XIII. CÍM
 
-(2) Az ingatlan-nyilvántartásban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét vitatja.
+#### 5:182. §
 
-(3) Ha az ingatlannak az ingatlan-nyilvántartásban feltüntetett, valamint az ingatlan-nyilvántartási térképen ábrázolt határvonala alapján számított, jogszabály szerint meghatározható területnagysága eltér egymástól, akkor ez utóbbi az irányadó.
+#### 5:183. §
 
-### XII. CÍM — BEJEGYZÉS, FELJEGYZÉS. RANGSOR ÉS RANGHELY
+#### 5:184. §
 
-#### 5:178. § [A bejegyzés]
+#### 5:185. §
 
-(1) A bejegyzéssel a jog megszerzése, változása vagy megszűnése, továbbá a jog érvényesíthetősége - a jogváltozás egyéb feltételeinek megléte esetén - közvetlenül áll be.
+#### 5:186. §
 
-(2) Az ingatlan-nyilvántartási bejegyzéshez jogváltozásra irányuló jogcím és a jogváltozással érintett, ingatlan-nyilvántartásba bejegyzett jogosult bejegyzési engedélye; a jog törléséhez a jogosult törlési engedélye szükséges. A bejegyzési és a törlési engedélyre a szerződés létrejöttére és érvényességére vonatkozó szabályokat kell megfelelően alkalmazni.
-
-(3) A bejegyzés alapjául bírósági ítélet vagy hatósági határozat is szolgálhat.
-
-(4) A bejegyzés az elrendelésének alapjául szolgáló kérelem benyújtásának időpontjára visszamenőleges hatályú.
-
-(5) Ha az ingatlan tulajdonának megszerzéséhez vagy az ingatlant terhelő jog alapításához, átruházásához vagy megterheléséhez ingatlan-nyilvántartási bejegyzés szükséges, a jogváltozás az ingatlan-nyilvántartási bejegyzéssel, a bejegyzés tartalmának megfelelően jön létre.
-
-(6) Ha az ingatlan tulajdonának vagy az ingatlant terhelő jognak a megszüntetéséhez ingatlan-nyilvántartási bejegyzés szükséges, a jog a törlésének ingatlan-nyilvántartási bejegyzésével, a bejegyzésnek megfelelően szűnik meg.
-
-(7) Ha a bejegyzés folytán az ingatlant terhelő jogok és a tulajdonjog jogosultja azonos személy, az ingatlant terhelő jogok a rangsorban hátrább álló jogosultak irányában fennmaradnak.
-
-#### 5:179. § [A feljegyzés]
-
-(1) A feljegyzés az ingatlan-nyilvántartásba bejegyzett jogokat érintő egyes tények ingatlan-nyilvántartási feltüntetése.
-
-(2) Az ingatlan-nyilvántartásban törvényben meghatározott tények feljegyzésének van helye.
-
-(3) A feljegyzés az elrendelésének alapjául szolgáló kérelem benyújtásának időpontjára visszamenőleges hatályú.
-
-#### 5:180. § [A rangsor és a ranghely]
-
-(1) Ranghelyet olyan kérelemmel lehet alapítani, amelyhez a bejegyzés alapjául szolgáló okiratot is mellékelték.
-
-(2) Azok a jogok, amelyek bejegyzésének hatálya ugyanazon időpontban kezdődik, azonos ranghelyen állnak.
-
-(3) Az azonos napon érkezett kérelmek bejegyzésének sorrendjét, a bejegyzések és a feljegyzések hatályosulásának ranghelyét a bejegyzés alapjául szolgáló okiratok keltezésének, kiállításának vagy - ha az okirat alapján való bejegyzéshez ellenjegyzés szükséges - ellenjegyzésének időpontja határozza meg.
-
-(4) A bejegyzések rangsora valamennyi érdekelt hozzájárulásával megváltoztatható. A rangsor megváltoztatásához a ranghely megváltoztatása tényének ingatlan-nyilvántartásban való feljegyzése szükséges.
-
-(5) A bejegyzések ranghelyével való rendelkezés nem járhat harmadik személy - a ranghely módosításának időpontjában bejegyzett - jogának sérelmével.
-
-(6) A rangsor megváltoztatása folytán előrelépett jog az előrelépéssel szerzett ranghelyét megtartja akkor is, ha a hátralépett jog megszűnik, vagy ha a hátralépett jelzáloggal biztosított követelés elévül.
-
-#### 5:181. § [A jog tartalmának megváltozása]
-
-Az ingatlant terhelő jog tartalmának megváltoztatására az ingatlant terhelő jog keletkezésének és megszűnésének a szabályait kell megfelelően alkalmazni.
-
-### XIII. CÍM — AZ INGATLAN-NYILVÁNTARTÁS HELYESBÍTÉSE; A TÖRLÉSI ÉS A KIIGAZÍTÁSI KERESET; JOGVÉDELMI HATÁS
-
-#### 5:182. § [Az ingatlan-nyilvántartás helyesbítése]
-
-(1) Ha az ingatlan-nyilvántartás tartalma a bejegyzés vagy feljegyzés alapjául szolgáló okirathoz képest helytelen, az ingatlan-nyilvántartás helyesbítésének van helye.
-
-(2) A helyesbítés a helytelen ingatlan-nyilvántartási bejegyzés vagy feljegyzés törlésével vagy az ingatlan-nyilvántartás tartalmának kiigazításával történik.
-
-#### 5:183. § [Bejegyzés törlése]
-
-Az ingatlan-nyilvántartási bejegyzés vagy feljegyzés törlésének a bejegyzés vagy feljegyzés alapjául szolgáló jogügylet érvénytelensége vagy a bejegyzés utólagos helytelenné válása miatt van helye.
-
-#### 5:184. § [A törlési és kiigazítási igény]
-
-(1) A jogosultat megillető törlési vagy kiigazítási igény az ingatlan tulajdonjogát vagy az ingatlanra vonatkozó valamely jogot közvetlenül szerzővel szemben nem évül el.
-
-(2) Azzal szemben, aki közvetlenül a bejegyzés folytán szerzett jogot vagy mentesült kötelezettség alól, az érvénytelen bejegyzés törlése iránti pert addig lehet megindítani, amíg a bejegyzés alapjául szolgáló jognyilatkozat érvénytelensége megállapításának helye van.
-
-#### 5:185. § [Bejegyeztetési kötelezettség]
-
-Ha az ingatlan-nyilvántartás kiigazításának feltétele az, hogy más jogát előbb bejegyezzék, a jogosult ettől a személytől követelheti, hogy jogát az ingatlan-nyilvántartásba jegyeztesse be.
-
-#### 5:186. § [A bejegyzés kijavítása]
-
-(1) A bejegyzésben vagy feljegyzésben történt hibás névírást, szám- vagy számítási hibát, más hasonló elírást és helytelen megjelölést az ingatlan-nyilvántartást vezető hatóság saját hatáskörében kijavítja. Az ingatlan-nyilvántartást vezető hatóság kiegészíti a határozatát, ha az a bejegyzés vagy feljegyzés iránti kérelem és az annak alapjául szolgáló okirat valamely részéről nem rendelkezett, továbbá ha a bejegyzés vagy feljegyzés az okiratban és a kérelemben foglaltakhoz képest hiányos.
-
-(2) Ha az ingatlan-nyilvántartásból megállapítható, hogy az ingatlanra időközben harmadik személy jóhiszeműen és ellenérték fejében jogot szerzett, és a kijavítás vagy a kiegészítés az ő jogát sértené, a jogra és tényre vonatkozó kijavításnak vagy kiegészítésnek akkor van helye, ha ehhez az érdekelt harmadik személy hozzájárul.
-
-#### 5:187. § [Az ingatlan-nyilvántartás jogvédelmi hatása]
-
-Az anyagi jog szerinti jogosult vagy a bejegyzés törlése esetén jogosulttá váló személy a jogsértő vagy utólag helytelenné vált bejegyzés alapján, a bejegyzés teljességében és helyességében bízva, jóhiszeműen és ellenérték fejében jogot szerző harmadik személlyel szemben a törlési keresetet az anyagi jog szerinti jogosult esetén az eredetileg érvénytelen bejegyzésről szóló határozat kézbesítéstől számított hat hónap alatt, a bejegyzés törlése esetén jogosulttá váló személy esetén pedig az utólag helytelenné vált bejegyzés alapján történt jogszerzés bejegyzéséről szóló határozat kézbesítésétől számított hat hónap alatt indíthatja meg, ha a határozatot a részére kézbesítették. Ha kézbesítés nem történt, a törlési keresetet a bejegyzés hatályossá válásától számított hároméves határidő alatt lehet megindítani. E határidők elmulasztása jogvesztéssel jár.
+#### 5:187. §
 
 ## HATODIK KÖNYV — KÖTELMI JOG
 
@@ -9508,11 +9441,11 @@ E rendelkezéseket kell megfelelően alkalmazni a szerződés bíróság által 
 
 #### 6:216. § [Tulajdonjog-fenntartás]
 
-(1) Az eladó a tulajdonjogát a vételár kiegyenlítéséig fenntarthatja.
+(1) Az eladó a tulajdonjogát a vételár kiegyenlítéséig fenntarthatja, ennek időtartama alatt a vevő tulajdonszerzésre irányuló jogát hozzájárulása nélkül nem csorbíthatja.
 
 (2) A tulajdonjog-fenntartásra vonatkozó megállapodást írásba kell foglalni.
 
-(3) Az ingatlanra vonatkozó tulajdonjog-fenntartást az eladó köteles a tulajdonjog-fenntartás tényének és a vevő személyének a feltüntetésével az ingatlan-nyilvántartásba feljegyeztetni.
+(3) Az ingatlanra vonatkozó tulajdonjog-fenntartást az ahhoz kapcsolódó vevői jog feltüntetésével kell az ingatlan-nyilvántartásba bejegyezni.
 
 (4) Az ingó dologra vonatkozó tulajdonjog-fenntartást az eladó köteles a tulajdonjog-fenntartás tényének és a vevő személyének a hitelbiztosítéki nyilvántartásba, vagy ha az ingó dolog tulajdonjogát közhiteles nyilvántartás tanúsítja, és jogszabály a dolog elzálogosítását a lajstromba való bejegyzéshez köti, a megfelelő lajstromba bejegyeztetni. Nyilvántartásba vétel hiányában
 
@@ -10979,7 +10912,7 @@ Pénzügyi lízingszerződés alapján a lízingbeadó a tulajdonában álló do
 
 #### 6:410. § [Nyilvántartásba-vételi kötelezettség]
 
-(1) Ha a lízingtárgy ingatlan, a lízingbeadó köteles a lízingbeadás tényét és a lízingbevevő személyét a tulajdonjog bejegyzésével egyidejűleg az ingatlan-nyilvántartásba bejegyeztetni. Ha a lízingszerződés megkötésekor a dolog a lízingbeadó tulajdonában van, a bejegyzésre a birtokátruházásig kell, hogy sor kerüljön.
+(1) Ha a lízingtárgy ingatlan, a lízingbeadáshoz kapcsolódó lízingbevevői jogot a lízingbevevő javára a tulajdonjog bejegyzésével egyidejűleg – vagy ha az ingatlan a lízingszerződés megkötésekor már a lízingbeadó tulajdonában van, úgy a birtokátruházás időpontjáig – be kell jegyezni az ingatlan-nyilvántartásba.
 
 (2) Ha a lízingtárgy ingó dolog vagy jog, a lízingbeadó köteles a lízingbeadás tényét és a lízingbevevő személyét a hitelbiztosítéki nyilvántartásba bejegyezni. Ha az ingó dolog tulajdonjogát vagy a jog fennállását közhiteles nyilvántartás tanúsítja, és jogszabály a dolog vagy jog elzálogosítását a lajstromba való bejegyzéshez köti, a lízingbeadó köteles a lízingbeadás tényét és a lízingbevevő személyét a megfelelő lajstromba bejegyeztetni. Nyilvántartásba vétel hiányában a lízingbevevőtől jóhiszeműen és ellenérték fejében szerző harmadik személy
 

@@ -4065,6 +4065,21 @@ tartalmazza.
 
 tartalmazza.
 
+#### 347/A. § [Az ingatlanon fennálló közös tulajdon megszüntetése tárgyában hozott ítélet biztosítékadás mellett]
+
+(1) A bíróság kizárólag biztosítékadás mellett hozhat olyan ítéletet, amellyel az ingatlanon fennálló közös tulajdont úgy szünteti meg, hogy az ingatlant megfelelő ellenérték fejében egy vagy több tulajdonostárs tulajdonába adja.
+
+(2) A biztosíték mértéke az ingatlan megfelelő ellenértékének fedezésére előreláthatóan szükséges összeg.
+
+(3) Biztosítékként különösen pénz, értékpapír, pénzhelyettesítő eszköz vagy bankgarancia esetén garanciavállaló nyilatkozat bírósági letétbe helyezése határozható meg.
+
+(4) A bíróság – tulajdonba adás esetén – az ítéletében rendelkezik a biztosíték kiadásáról az ellenérték jogosultja részére. Ha a biztosíték összege
+
+- a) kisebb, mint az ingatlan ellenértékének az ítéletben meghatározott összege, a bíróság az ítéletben az ellenérték fennmaradó részének megfizetésére kötelezi a biztosítékot adó felet,
+- b) nagyobb, mint az ingatlan ellenértékének az ítéletben meghatározott összege, a bíróság az ítéletben a fennmaradó biztosíték kiadásáról rendelkezik a biztosítékot adó fél részére.
+
+(5) A tulajdonba adás meghiúsulása esetén a bíróság ítéletében a biztosíték visszaadásáról rendelkezik.
+
 #### 348. § [A bírósági meghagyás tartalma]
 
 (1) A bírósági meghagyásra a (2)–(4) bekezdésben foglalt kivétellel a 346. §-ban foglaltakat kell alkalmazni.
@@ -4733,7 +4748,7 @@ miatt indokolt.
 
 (1) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, vagy ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Kúriához, és értesíti az ellenérdekű felet, valamint – a felülvizsgálati kérelem megküldésével – a jogerős határozatot hozó bíróságot az eljárás megindításáról.
 
-(2) A fél kérelmére a felülvizsgálati kérelem benyújtásáról az elsőfokú bíróság értesíti az ingatlanügyi hatóságot.
+(2) A fél kérelmére az elsőfokú bíróság elrendeli a felülvizsgálati kérelem benyújtása tényének bejegyzését az ingatlan-nyilvántartásba, és a felülvizsgálati eljárás befejezését követően – az iratoknak az elsőfokú bírósághoz való visszaérkezésétől számított tizenöt napon belül – elrendeli a felülvizsgálati kérelem benyújtása tényének törlését az ingatlan-nyilvántartásból.
 
 (3) Ha a végrehajtást már elrendelték vagy a végrehajthatóság felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.
 
@@ -5042,7 +5057,7 @@ Ha a bíróság az alperest gondnokság alá helyezi, erre irányuló kereseti k
 
 (2) Az alperes gondnokság alá helyezését elrendelő jogerős ítéletet az elsőfokú bíróság a gondnok kirendelése és az esetleg szükséges egyéb intézkedések megtétele végett közli a gyámhatósággal.
 
-(3) Ha a bíróság az alperes cselekvőképességét teljesen vagy az ingatlannal való rendelkezés tekintetében részlegesen korlátozta, és az alperesnek ingatlana van vagy ingatlanon haszonélvezeti joga áll fenn, továbbá ingatlanra az alperest érintő egyéb jog vagy tény van bejegyezve, feljegyezve, az elsőfokú bíróság hivatalból intézkedik a gondnokság alá helyezésnek az ingatlan-nyilvántartásba történő feljegyzése iránt.
+(3) Ha a bíróság az alperes cselekvőképességét teljesen vagy az ingatlannal való rendelkezés tekintetében részlegesen korlátozta, és az alperesnek ingatlana van vagy ingatlanon haszonélvezeti joga áll fenn, továbbá ingatlanra az alperest érintő egyéb jog vagy tény van bejegyezve, az elsőfokú bíróság hivatalból elrendeli a gondnokság alá helyezésnek az ingatlan-nyilvántartásba történő bejegyzését.
 
 (4) A bíróság a gondnokság alá helyezettek – a gondnokoltak nyilvántartására vonatkozó törvényben meghatározott – adatairól számítógépes nyilvántartást vezet.
 
@@ -5922,7 +5937,7 @@ A perben eljáró bíróság a végrehajtást kérelemre – kizárólag az igé
 
 (1) A bíróság a halasztó hatályú igényperben a keresetlevél vizsgálata és a kereset közlése során soron kívül jár el.
 
-(2) A bíróság a keresetlevélnek az alperes részére történő kézbesítésével egyidejűleg a halasztó hatályú igényperről a végrehajtót, ingatlanigényperről pedig az ingatlanügyi hatóságot is haladéktalanul értesíti.
+(2) A bíróság a keresetlevélnek az alperes részére történő kézbesítésével egyidejűleg a halasztó hatályú igényperről haladéktalanul értesíti a végrehajtót, továbbá ha a halasztó hatályú igényper ingatlanra vonatkozik, haladéktalanul elrendeli a halasztó hatályú ingatlanigényper indítása tényének az ingatlan-nyilvántartásba történő bejegyzését is.
 
 (3) A perben nincs helye viszontkeresetnek.
 
@@ -5932,7 +5947,9 @@ A perben eljáró bíróság a végrehajtást kérelemre – kizárólag az igé
 
 (2) Ha a bíróság a haszonélvezeti joggal terhelt vagyontárgy iránt a haszonélvező által indított igénykeresetnek helyt ad, a vagyontárgyat kizárólag a haszonélvező vonatkozásában a foglalás alól feloldja azzal, hogy azt csak a haszonélvezeti jog megszűnése után lehet értékesíteni.
 
-(3) Az igényperben hozott jogerős határozatot a végrehajtó részére, ingatlanigényper esetén pedig az ingatlanügyi hatóság részére is kézbesíteni kell.
+(2a) Ha a bíróság a halasztó hatályú ingatlanigényper indítása tényének az ingatlan-nyilvántartásba történő bejegyzését elrendelte, az eljárást befejező határozatában elrendeli e tény törlését az ingatlan-nyilvántartásból.
+
+(3) Az igényperben hozott jogerős határozatot a végrehajtó részére kézbesíteni kell.
 
 #### 545. § [Perújítás]
 
