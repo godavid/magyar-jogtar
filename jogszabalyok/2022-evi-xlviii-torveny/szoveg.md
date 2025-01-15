@@ -126,7 +126,7 @@ a területi közigazgatás működésével, az ingatlan-nyilvántartással és a
 
 44. § Hatályát veszti az Fttv.
 
-- a)
+- a) 6. § (33) bekezdése,
 - b)
 - c)
 
@@ -148,15 +148,29 @@ a területi közigazgatás működésével, az ingatlan-nyilvántartással és a
 
 #### 51. §
 
-#### 18.
+#### 18. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-#### 52. §
+52. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 5:31. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
 
-#### 53. §
+„(1) Tulajdonjog tárgyára vonatkozó jog biztosítása érdekében a tulajdonos harmadik személlyel szemben hatályosan a tulajdonjog tárgyára elidegenítési és terhelési tilalmat együttesen, de külön-külön is alapíthat. Ingatlan esetén az ingatlan-nyilvántartásban azt a jogot is fel kell tüntetni, amelynek biztosítására a tilalom szolgál.
 
-#### 54. §
+(2) Az (1) bekezdés szerinti tilalom az azzal biztosított jog megszűnésével megszűnik.”
 
-#### 55. §
+53. § A Ptk. 5:32. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az elidegenítési és terhelési tilalomra vonatkozó rendelkezéseket kell alkalmazni, ha a dolgon csak elidegenítési, illetve csak terhelési tilalom áll fenn, vagy a dologgal való rendelkezés jogát a tilalom más módon korlátozza.”
+
+54. § (1) A Ptk. 6:216. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az eladó a tulajdonjogát a vételár kiegyenlítéséig fenntarthatja, ennek időtartama alatt a vevő tulajdonszerzésre irányuló jogát hozzájárulása nélkül nem csorbíthatja.”
+
+(2) A Ptk. 6:216. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az ingatlanra vonatkozó tulajdonjog-fenntartást az ahhoz kapcsolódó vevői jog feltüntetésével kell az ingatlan-nyilvántartásba bejegyezni.”
+
+55. § A Ptk. 6:410. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a lízingtárgy ingatlan, a lízingbeadáshoz kapcsolódó lízingbevevői jogot a lízingbevevő javára a tulajdonjog bejegyzésével egyidejűleg – vagy ha az ingatlan a lízingszerződés megkötésekor már a lízingbeadó tulajdonában van, úgy a birtokátruházás időpontjáig – be kell jegyezni az ingatlan-nyilvántartásba.”
 
 #### 19. A fémkereskedelemről szóló 2013. évi CXL. törvény módosítása
 
@@ -194,19 +208,48 @@ a területi közigazgatás működésével, az ingatlan-nyilvántartással és a
 
 #### 27. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
 
-#### 65. §
+65. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 19. § (5) bekezdése a következő szöveggel lép hatályba:
 
-#### 66. §
+„(5) A ranghely előzetes biztosításának ténye a jogosultak kérelmére az ingatlan-nyilvántartásba legfeljebb egyévi időtartamra jegyezhető be.”
 
-#### 67. §
+66. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 32. § (3) bekezdése a következő szöveggel lép hatályba:
 
-#### 68. §
+„(3) A bejegyzési engedélyt a (2) bekezdés szerinti jogosult külön, a bejegyzés alapjául szolgáló okiratra előírt alakisággal rendelkező okiratban is megadhatja. Az e törvény végrehajtására kiadott kormányrendelet kötelező jelleggel előírhatja, hogy a bejegyzési engedélyt a kormányrendeletben meghatározott módon, elektronikus űrlapon kell megszerkeszteni és hitelesíteni.”
+
+67. § (1) Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 36. § (1) bekezdés b) pontja a következő szöveggel lép hatályba:
+
+(Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, a meghatalmazást az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott tartalommal és módon, elektronikus űrlapon kell megszerkeszteni és hitelesíteni, ha)
+
+„b) az ügyleti meghatalmazás az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott valamely korlátozást tartalmazza,”
+
+(2) Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 36. § (1) bekezdése a következő c) ponttal kiegészülve lép hatályba:
+
+(Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, a meghatalmazást az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott tartalommal és módon, elektronikus űrlapon kell megszerkeszteni és hitelesíteni, ha)
+
+„c) az ügyleti meghatalmazás a b) pont szerinti korlátozáson kívül egyéb korlátozást is tartalmaz.”
+
+(3) Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 36. § (2) és (3) bekezdése a következő szöveggel lép hatályba:
+
+„(2) Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá és az ügyleti meghatalmazás az (1) bekezdés c) pontja szerinti korlátozást is tartalmaz, a kérelem kizárólag sommás vagy teljes eljárás keretében bírálható el.
+
+(3) Írásra vagy olvasásra képtelen, illetve a magyar nyelvet nem értő személy jognyilatkozata alapján a jogügylet akkor kerülhet bejegyzésre, ha a jognyilatkozat megfelel a 35. § (2) bekezdésében, valamint a Ptk. 6:7. § (4) bekezdésében előírt feltételeknek.”
+
+68. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 88. § (5) bekezdése a következő 22. ponttal kiegészülve lép hatályba:
+
+(Tárgyánál fogva díjmentes:)
+
+„22. a bányatelek jogi jelleg törlésére irányuló eljárás.”
 
 #### 69. §
 
-#### 70. §
+70. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény
 
-#### 71. §
+- a)
+- b)
+
+lép hatályba.
+
+71. § Nem lép hatályba az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 102. §-a.
 
 #### 28. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
 

@@ -491,11 +491,11 @@ díjmentesen biztosítja az e törvény végrehajtására kiadott kormányrendel
 
 (6) A víziközmű-szolgáltató díjmentesen szolgáltatja az egységes elektronikus közműnyilvántartást üzemeltető szervezet részére a vízellátási, illetve vízelvezetési szakág feladatkörébe tartozó publikálandó objektumokat.
 
-13/A. § (1) E törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt hatóság vezeti a 61/B. § (1) bekezdésében meghatározott Nyilvántartással összekapcsolt víziközmű térképi nyilvántartás közhiteles adatállományát.
+13/A. § (1) E törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt hatóság vezeti a 61/B. § (1) bekezdésében meghatározott Nyilvántartással összekapcsolt víziközmű térképi nyilvántartás adatállományát.
 
-(2) A víziközmű térképi nyilvántartás közhiteles adatállományát e törvény felhatalmazása alapján kiadott kormányrendelet határozza meg. A víziközmű-szolgáltató az általa a 13. § (1) bekezdés szerint vezetett nyilvántartás valamennyi, a közhiteles adatállományt érintő változásáról a megváltozott vagy új térképi adatok díjmentes átadásával haladéktalanul tájékoztatja az (1) bekezdés szerint kijelölt hatóságot.
+(2) A víziközmű térképi nyilvántartás adatállományát e törvény felhatalmazása alapján kiadott kormányrendelet határozza meg. A víziközmű-szolgáltató az általa a 13. § (1) bekezdés szerint vezetett nyilvántartás valamennyi, a adatállományt érintő változásáról a megváltozott vagy új térképi adatok díjmentes átadásával haladéktalanul tájékoztatja az (1) bekezdés szerint kijelölt hatóságot.
 
-(3) A víziközmű térképi nyilvántartás közhiteles adatállományba történő betekintésre és az abból történő adatszolgáltatásra a 13. § (3) és (5) bekezdése szerinti szabályokat kell alkalmazni.
+(3) A víziközmű térképi nyilvántartás adatállományba történő betekintésre és az abból történő adatszolgáltatásra a 13. § (3) és (5) bekezdése szerinti szabályokat kell alkalmazni.
 
 13/B. § (1) A víziközmű-szolgáltatásért felelős miniszter (a továbbiakban: miniszter) – a vízgazdálkodásért felelős miniszter és a Hivatal bevonásával – szakmai bizottságot hoz létre, amely a 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése szerint értékeli a víziközmű-rendszereken a hálózati fizikai vízveszteség mértékét, valamint megvizsgálja a hálózati fizikai vízveszteség csökkentése céljából szükséges intézkedéseket és azok lehetséges eredményeit.
 
@@ -1094,7 +1094,7 @@ alapul.
 
 55/A. § (1) Ha a víziközmű-szolgáltatást olyan ingatlanon igénylik, ahol az ingatlan és a közműves ivóvízellátás vagy a közműves szennyvízelvezetés és -tisztítás biztosítását szolgáló víziközmű-rendszer között másik ingatlan helyezkedik el, a bekötés a szomszédos ingatlan tulajdonosának hozzájárulásával – az ingatlantulajdonosok megállapodása (szerződéses szolgalom) alapján – a szomszédos ingatlan vagy ingatlanok igénybevételével is elvégezhető. A szerződésnek tartalmaznia kell a szolgáló telken lévő, az uralkodó telek ellátását biztosító házi ivóvíz-, illetve szennyvízvezeték bekötővezeték elhelyezésével, az ingatlan használatával kapcsolatos kölcsönös jogokat és kötelezettségeket. A szolgáló telek birtokosa az uralkodó telek birtokosát a jogszabályokból és a közszolgáltatási szerződésből eredő kötelezettségei teljesítésében nem akadályozhatja.
 
-(2) Az (1) bekezdés szerinti szerződést, valamint a szolgalomalapítás iránti ingatlan-nyilvántartási kérelem ingatlanügyi hatóság által érkeztetett másolatát a víziközmű-szolgáltató részére az igénybejelentés kiegészítéseként az igénybejelentő megküldi.
+(2) Az (1) bekezdés szerinti szerződést, valamint a szolgalomalapítás iránti ingatlan-nyilvántartási eljárás megindítása tényének ingatlanügyi hatóság általi igazolását a víziközmű-szolgáltató részére az igénybejelentés kiegészítéseként az igénybejelentő megküldi.
 
 (3) Az (1) bekezdésben meghatározott megállapodás hiányában – ha a szomszédos ingatlant érintő ivóvíz-, illetve szennyvízvezeték megvalósítása és üzemeltetése az ingatlan rendeltetésszerű használatát nem lehetetleníti el – a kormányhivatal a szomszédos ingatlanra az uralkodó telek tulajdonosa kérelmére szolgalmat alapíthat.
 
@@ -1110,7 +1110,7 @@ alapul.
 
 - a) 55/A. § (1) bekezdésben meghatározott szerződéses ajánlatot és annak a szolgáló telek tulajdonosa általi átvételét igazoló okiratot,
 - b) az ivóvíz-, illetve szennyvízvezeték elhelyezésével és üzemeltetésével összefüggő használati korlátozások tartalmát,
-- c) ha a vezetékjogot az ingatlan természetben vagy területi mértékben meghatározott részére kérik bejegyeztetni, akkor a szolgáló telek korlátozással érintett részét bemutató ingatlanügyi hatóság hatályos záradékával ellátott vázrajzot, és
+- c) ha a vezetékjogot az ingatlan természetben vagy területi mértékben meghatározott részére kérik bejegyeztetni, akkor a szolgáló telek korlátozással érintett részét bemutató ingatlanügyi hatóság érvényes záradékával ellátott vázrajzot, és
 - d) a vezetékjog alapítását kérő nyilatkozatát arról, hogy a kártalanításhoz szükséges pénzügyi fedezet rendelkezésére áll.
 
 55/D. § A kormányhivatal a szolgáló telek tulajdonosa vonatkozásában hivatalból szerzi be az ingatlan-nyilvántartást vezető szervtől:
@@ -1128,9 +1128,9 @@ alapul.
 
 (2) Ha a szolgáló telek mezőgazdasági művelés alatt áll, a birtokba bocsátásra közvetlenül a termés betakarítása előtti időpontot nem lehet megjelölni.
 
-55/F. § (1) A véglegessé vált határozatot a kormányhivatal az ingatlanügyi hatóság részére megküldi.
+55/F. § (1) A véglegessé vált határozatban foglaltak bejegyzésére a kormányhivatal felhívja az ingatlanügyi hatóságot.
 
-(2) A szolgalmi jogot az ingatlanügyi hatóság a véglegessé vált határozat alapján a záradékolt vázrajz szerint vezeti át az ingatlan-nyilvántartáson.
+(2)
 
 55/H. § (1) Mentes a víziközmű-fejlesztési hozzájárulás, az igénybejelentés elbírálásának díja, a tervegyeztetés, adategyeztetés vagy ennek megfelelő szolgáltatás díja, a kiszállási díj, az igényfelméréssel és az igénybejelentés feldolgozásával, elbírálásával kapcsolatban bármilyen tevékenység, szolgáltatás díja, továbbá rácsatlakozáskor a bekötési vízmérőóra költsége, a bekötési vízmérőóra felszerelésének díja és a nyomáspróba díja alól a legfeljebb 32 mm átmérőjű ivóvízvezeték és a legfeljebb 160 mm átmérőjű szennyvízvezeték bekötése.
 
@@ -1599,7 +1599,7 @@ együttes mértékét, úgy a tárgyévet követő évben a kiadási előirányz
 - 21. a védendő felhasználók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő felhasználókat megillető különleges bánásmód részletes szabályait, a védendő felhasználói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit;
 - 22. a mellékvízmérőkön mért fogyasztáson alapuló elszámolási mód esetén az elkülönített vízhasználók és a víziközmű-szolgáltató sajátos feladatait, a kötelezettség megszegésének következményeit, az elszámolási mód alkalmazhatóságának műszaki feltételeit, a házi és csatlakozó ivóvízhálózat ellenőrzési rendjét, továbbá az elszámolás alapját képező szennyvízmennyiség meghatározásának részletes szabályait;
 - 23. az ideiglenes szolgáltatásra vonatkozó átmeneti díjkérelem tartalmi és formai követelményeit, az átmeneti díj meghatározásánál figyelembe vehető ráfordítások körét
-- 24. a közhiteles víziközmű-térképi nyilvántartást vezető hatóságot, a hatóság hatáskörére és illetékességére vonatkozó részletes szabályokat, továbbá közhiteles hatósági nyilvántartás tartalmát, az abba történő bejegyzés, valamint az onnan való törlés során alkalmazható bizonyítási eszközök körét;
+- 24. a víziközmű-térképi nyilvántartást vezető hatóságot, a hatóság hatáskörére és illetékességére vonatkozó részletes szabályokat, továbbá hatósági nyilvántartás tartalmát, az abba történő bejegyzés, valamint az onnan való törlés során alkalmazható bizonyítási eszközök körét;
 - 25. a víziközmű-üzemeltetési tevékenységek kiszervezésére vonatkozó részletes szabályokat
 - 26. a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartására vonatkozó részletes szabályokat, valamint a nyilvántartást vezető műszaki biztonsági hatóságot,
 - 27. a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt a műszaki-biztonsági hatóság előtt indított eljárás szabályait, valamint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi megtagadása esetén a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása, továbbá az 55/K. § (2) bekezdése szerinti eljárás anyagi és eljárási szabályait, továbbá a jelen pontban megjelölt tevékenységeket végző műszaki biztonsági hatóságot
@@ -1629,11 +1629,9 @@ rendeletben állapítsa meg.
 - 1. a használati díjak mértékét,
 - 2. a rendszeres adatszolgáltatásra kötelezett engedélyesek vagy ellátásért felelősök és az általuk szolgáltatandó adatok körét, valamint az adatszolgáltatási kötelezettség határidejét,
 - 3. a közszolgáltatási szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint – a bírság kivételével – az e törvény szerinti jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
-- 4. a víziközmű-fejlesztési hozzájárulás mértékét
+- 4. a víziközmű-fejlesztési hozzájárulás mértékét rendeletben állapítsa meg.
 - 5. a 31/A. § (4) bekezdés szerinti átmeneti díj meghatározására irányuló kérelemhez benyújtandó adatok körét,
 - 6. a 18. § (5) bekezdés szerinti elszámoló jelentés tartalmi követelményeit
-
-rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy a Hivatal határozatában megállapított átmeneti díjra vonatkozóan – akár a rezsicsökkentésről szóló törvényekben meghatározott kedvezményen felül további – díjkedvezményt, az arra jogosultak körét, valamint a díjkedvezmény mértékét rendeletben állapítsa meg.
 
@@ -1699,9 +1697,9 @@ rendeletben állapítsa meg.
 
 (8) Ha az ellátásért felelős és a víziközmű-tulajdonos gazdálkodó szervezet, az ellátásért felelős 5/F. § (2) bekezdés a) pontjában meghatározott tevékenységének elvégzése körében a víziközmű térítésmentes átruházásáról állapodik meg, a térítésmentes vagyonátruházás az általános forgalmi adó szempontjából közcélú adománynak minősül.
 
-80. § (1) Ha az ingatlan-nyilvántartásban az idegen ingatlanon lévő víziközmű vonatkozásában vízvezetési szolgalmi jog jogosultjaként nem települési önkormányzat, vagy az állam van bejegyezve, vagy a szolgalom bejegyzése korábban elmaradt, az ellátásért felelős 2020. december 31-ig igazgatási szolgáltatási díj megfizetése nélkül kérheti a vízvezetési szolgalmi jog részére történő megállapítását és a vízvezetési szolgalmi jog bejegyzésére alkalmas határozat kiadását a vízügyi hatóságtól. A vízügyi hatóság az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) bekezdésében meghatározott tartalmi követelmények mellett a vízvezetési szolgalmi jog fennállását és keletkezésének időpontját is megállapítja azzal, hogy a határozatnak az ingatlan-nyilvántartásban már szereplő, bejegyzett jogosultra vonatkozó adatokat nem kell tartalmaznia. A vízvezetési szolgalmi jog ingatlan-nyilvántartásba történő bejegyzésére a vízügyi hatóság véglegessé vált határozata alapján kerül sor.
+80. § (1) Ha az ingatlan-nyilvántartásban az idegen ingatlanon lévő víziközmű vonatkozásában vízvezetési szolgalmi jog jogosultjaként nem települési önkormányzat, vagy az állam van bejegyezve, vagy a szolgalom bejegyzése korábban elmaradt, az ellátásért felelős kérheti a vízvezetési szolgalmi jog részére történő megállapítását és a vízvezetési szolgalmi jog bejegyzésére alkalmas határozat kiadását a vízügyi hatóságtól. A vízvezetési szolgalmi jog ingatlan-nyilvántartásba történő bejegyzésére a vízügyi hatóság véglegessé vált határozata alapján kerül sor.
 
-(2) A vízügyi hatóság a véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a vízvezetési szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt. Ha a vízvezetési szolgalmi jog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
+(2) A vízügyi hatóság a véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a vízvezetési szolgalmi jog ingatlan-nyilvántartásba történő bejegyzésére. Ha a vízvezetési szolgalmi jog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
 
 (3) A vízvezetési szolgalmi jog utólagos bejegyzése az ingatlannal kapcsolatban többletjogokat és -kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
 
@@ -1712,17 +1710,17 @@ rendeletben állapítsa meg.
 (2) A kérelemhez mellékelni kell:
 
 - a) meglévő víziközmű üzemeltetésével összefüggésben gyakorolt használati korlátozások tartalmát;
-- b) ha a vízvezetési szolgalmat az ingatlan természetben vagy területi mértékben meghatározott részén gyakorolják, az ingatlan korlátozással érintett részét bemutató, ingatlanügyi hatóság hatályos záradékával ellátott vázrajzot;
+- b) ha a vízvezetési szolgalmat az ingatlan természetben vagy területi mértékben meghatározott részén gyakorolják, az ingatlan korlátozással érintett részét bemutató, ingatlanügyi hatóság érvényes záradékával ellátott vázrajzot;
 - c)
 
-(3) Ha a szolgalom gyakorlása megkezdésének tényleges időpontját a kérelemben meghatározták, akkor a vízvezetési szolgalom keletkezésének időpontját a vízügyi hatóság ennek megfelelően állapítja meg. Ha az időpontot a kérelemben nem határozták meg, vagy ha e kérdésben az ügyfél és a szolgalommal érintett telek tulajdonosa között vita alakul ki, a szolgalom keletkezésének időpontjaként az érintett víziközmű vízjogi üzemeltetési vagy fennmaradási engedélye véglegessé válása napját jelöli ki a vízügyi hatóság.
+(3)
 
 (4) A vízügyi hatóság határozatában rendelkezik:
 
 - a) víziközmű üzemeltetésével összefüggő használati korlátozások tartalmáról, figyelembe véve a jogosult és a vezetékjoggal érintett ingatlan tulajdonosának, vagyonkezelőjének, használójának érdekeit, valamint az ingatlanhasználat módját,
 - b) a korlátozással érintett ingatlanrész meghatározásáról, az ingatlanügyi hatóság által érvényes záradékkal ellátott változási vázrajzra történő utalással.
 
-(5) A véglegessé vált határozatot a vízügyi hatóság az ingatlanügyi hatóság, valamint az érintett víziközmű-szolgáltató részére megküldi.
+(5) A véglegessé vált határozatot a vízügyi hatóság az érintett víziközmű-szolgáltató részére megküldi.
 
 (6) A szolgalmi jogot az ingatlanügyi hatóság a véglegessé vált határozat alapján a záradékolt vázrajz szerint vezeti át az ingatlan-nyilvántartáson.
 

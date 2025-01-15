@@ -517,7 +517,7 @@ sarkalatosnak minősül.
 24. § A közúti közlekedésről szóló 1988. évi I. törvény
 
 - 1.
-- 2.
+- 2. 29. § (1c) és (6) bekezdésében az „a fővárosi és vármegyei kormányhivatal” szövegrész helyébe az „az ingatlanügyi hatóság” szöveg,
 - 3.
 
 lép.
@@ -1292,9 +1292,14 @@ lép.
 
 #### 232. §
 
-#### 192.
+#### 192. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény eltérő szöveggel történő hatályba léptetése
 
-#### 233. §
+233. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény
+
+- a)
+- b) 72/B. § (2) bekezdése, 88. § (2) bekezdés b) pontja a „megyei” szövegrészek helyett a „vármegyei” szöveggel
+
+lép hatályba.
 
 #### 193. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
 
@@ -1312,9 +1317,11 @@ lép.
 
 #### 237. §
 
-#### 197.
+#### 197. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény eltérő szöveggel történő hatályba léptetése
 
-#### 238. §
+238. § (1) Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 1. § (3) bekezdése a „megyei” szövegrész helyett a „vármegyei” szöveggel lép hatályba.
+
+(2) Nem lép hatályba az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 7. § a) pontja.
 
 #### 198. A honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény módosítása
 

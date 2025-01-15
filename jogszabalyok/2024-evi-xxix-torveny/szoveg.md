@@ -444,17 +444,60 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 49. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
 
-#### 142. §
+142. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény I. Fejezete a következő szöveggel lép hatályba:
+
+### „I. Fejezet — AZ ELEKTRONIKUS INGATLAN-NYILVÁNTARTÁS BEVEZETÉSÉHEZ KAPCSOLÓDÓ ÁTMENETI SZABÁLYOK
+
+1. § (1) Ha e törvény eltérően nem rendelkezik, az ingatlan-nyilvántartásról szóló 2021. évi C. törvény (a továbbiakban: Inytv.) első, második, harmadik és negyedik részének rendelkezéseit a 2025. január 15-én és az azt követően indult ingatlan-nyilvántartási eljárásokban kell alkalmazni.
+
+(2) A megismételt eljárásban az Inytv. első és második részének rendelkezéseit 2025. január 15-től az ingatlanügyi hatóság eljárási cselekményeire kell alkalmazni.
+
+(3) A 2025. január 15-én folyamatban lévő, 2025. január 15-ét megelőzően több fővárosi és vármegyei kormányhivatal illetékességébe tartozó eljárásokat a 2025. január 15-én hatályos illetékességi szabályok szerint kell lefolytatni.
+
+2. § (1) Az Inytv. alkalmazásában, ahol jogszabály tény feljegyzéséről vagy adat átvezetéséről rendelkezik, azon tény vagy adat bejegyzését kell érteni.
+
+(2) Az Inytv. alkalmazásában, ahol jogszabály ingatlan-nyilvántartási bejegyzés vagy törlés iránti megkeresésről rendelkezik, azon bírósági elrendelést, illetve hatósági felhívást kell érteni.
+
+3. § Az Inytv. 64. § (1) bekezdésétől eltérően a föld tulajdonjogának megszerzésére irányuló azon szerződések esetében, amelyeknél
+
+- a) a hatósági jóváhagyás iránti eljárás 2025. január 15-ét megelőzően megindult, vagy
+- b) az adásvételi szerződés közzététele a hatósági jóváhagyás iránti eljárás megindítását megelőzi, és a közzétételére 2025. január 15-ét megelőzően került sor,
+
+a közokiratba foglalt, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett, jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon elkészített és hatósági jóváhagyáshoz kötött szerződés bejegyzés alapjául szolgál, ha annak eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék.
+
+3/A. § (1) Az Inytv. 18. § (2), (4) és (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy
+
+- a) azonos időponton azonos napot,
+- b) ugyanazon időponton ugyanazon napot
+
+kell érteni.
+
+(2) Az Inytv. 35. § (3) bekezdését és a 36. §-át, 39. § (5) bekezdését, 40. § (4) és (5) bekezdését, 42. § (2) bekezdését és 46. §-át abban az esetben kell alkalmazni, ha a beadvány benyújtására az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül kerül sor.
+
+(3) Az Inytv. 42. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a jogok és tények bejegyzésére irányuló, kérelemre induló eljárásokban jogi képviselőként az ingatlanügyi hatósági eljárásban ügyvédi kamarai nyilvántartásba bejegyzett eljárási jogosultsággal nem rendelkező ügyvéd vagy kamarai jogtanácsos eljárhat, ha a beadvány benyújtására nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül kerül sor.
+
+(4) Az Inytv. 53. §-át csak sommás eljárásban meghozott döntés esetén lehet alkalmazni.
+
+3/B. § Az Inytv. 35. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a beadvány benyújtására nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül kerül sor, jelzálogjogra, önálló zálogjogra, valamint ezek biztosítására elidegenítési és terhelési tilalomra, elidegenítési tilalomra vagy terhelési tilalomra vagy átalakításos önálló zálogjogra, valamint ezek biztosítására elidegenítési és terhelési tilalomra, elidegenítési tilalomra vagy terhelési tilalomra vonatkozó változás bejegyzése olyan – ügyvéd vagy kamarai jogtanácsos által nem ellenjegyezett – magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet nevének feltüntetésével szabályszerűen és nyilvánvalóan azonosítható módon aláírt.
+
+3/C. § (1) A 2025. január 15-ét megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közérdekű használati jog jogosultja 2029. december 31-ig gondoskodik a közérdekű használati jog bejegyeztetéséről.
+
+(2) Az (1) bekezdés szerinti közérdekű használati jogok bejegyzésének elmaradása esetén e jogok a 2025. január 15. és 2029. december 31. napja közötti időszakban a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:166. § (1) bekezdése szerinti bejegyzés nélkül is fennállónak tekintendők, ha megszűnésük a felek megállapodása vagy a hatóság rendelkezése alapján nem állapítható meg.”
 
 #### 143. §
 
-#### 144. §
+144. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény
+
+- a) 66. § (5) bekezdésének a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 131/R. §-át megállapító rendelkezése a „2023. február 1-jén” szövegrészek helyett a „2025. január 15-én” szöveggel,
+- b) 82. § (2) bekezdésének a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 111/A. §-át megállapító rendelkezése a „2023. február 1-jén” szövegrészek helyett a „2025. január 15-én” szöveggel
+
+lép hatályba.
 
 #### 50. Egyes agrártárgyú törvények módosításáról szóló 2021. évi CL. törvény módosítása
 
 #### 145. §
 
-#### 146. §
+146. § Az egyes agrártárgyú törvények módosításáról szóló 2021. évi CL. törvény 129. § (2) bekezdésének a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 110/F. § (3) bekezdését megállapító rendelkezése a „2023. február 1.” szövegrészek helyett a „2025. január 15.” szöveggel lép hatályba.
 
 #### 51. Egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvényhez kapcsolódó módosításáról szóló 2022. évi IV. törvény módosítása
 
@@ -486,7 +529,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 156. §
 
-#### 157. §
+157. § Nem lép hatályba a területi közigazgatás működésével, az ingatlan-nyilvántartással és a területfejlesztéssel összefüggő egyes törvények módosításáról szóló 2022. évi XLVIII. törvény 73. §-a.
 
 #### 56. Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény módosítása
 
@@ -514,7 +557,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 164. §
 
-#### 165. §
+165. § Nem lép hatályba az egyes közigazgatási tárgyú törvények módosításáról szóló 2023. évi LXI. törvény 36. §-a, 38. §-a, 41. §-a és 47. §-a.
 
 #### 62. A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény módosítása
 
@@ -566,12 +609,18 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 182. §
 
-#### 183. §
+183. § Az egyes ingatlan-nyilvántartási tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XXVII. törvény
+
+- a) 31. §-ában az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 40/C. alcímének címe a „2024. szeptember 30-án” szövegrész helyett a „2025. január 14-én” szöveggel,
+- b) 31. §-ának az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 72/C. §-át megállapító rendelkezése a „2024. szeptember 30-át” szövegrész helyett a „2025. január 15-ét” szöveggel,
+- c) 32. §-ának az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 91. § (2b) bekezdését megállapító rendelkezése a „2024. szeptember 30-át” szövegrész helyett a „2025. január 15-ét” szöveggel
+
+lép hatályba.
 
 184. § Nem lép hatályba az egyes ingatlan-nyilvántartási tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XXVII. törvény
 
 - a)
-- b)
+- b) 36. §-a és 37. §-a.
 
 #### 70. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 205/2023. (V. 31.) Korm. rendelet hatályon kívül helyezése
 

@@ -1441,7 +1441,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (3) A biztonsági övezet és a kutatási védőidom kijelölésére, továbbá a (2) bekezdésben említett tilalmakra és korlátozásokra vonatkozó követelményeket, valamint a kártalanításra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
-35. § (1) A biztonsági övezetben és a kutatási védőidomon belül a telekalakítási és építési tilalmat, valamint a használati korlátozást az illetékes építésügyi hatóság, a bányászati jog korlátozását a bányafelügyelet, a vízhasználat korlátozását a vízügyi hatóság rendeli el. A biztonsági övezet és a kutatási védőidom fennállásának tényét, továbbá az ingatlanokra elrendelt tilalmakat és korlátozásokat az ingatlan-nyilvántartásba fel kell jegyezni.
+35. § (1) A biztonsági övezetben és a kutatási védőidomon belül a telekalakítási és építési tilalmat, valamint a használati korlátozást az illetékes építésügyi hatóság, a bányászati jog korlátozását a bányafelügyelet, a vízhasználat korlátozását a vízügyi hatóság rendeli el. A biztonsági övezet és a kutatási védőidom fennállásának tényét, továbbá az ingatlanokra elrendelt tilalmakat és korlátozásokat az ingatlan-nyilvántartásba be kell jegyezni.
 
 (2) Ha a biztonsági övezetben és a kutatási védőidomon belül elrendelt tilalom vagy korlátozás az ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza, továbbá ha az atomenergia alkalmazását szolgáló, a biztonsági övezetben és a kutatási védőidomon belül telepítendő létesítmény biztonságos használata ezt szükségessé teszi, az érintett terület kisajátításának van helye a kisajátításra vonatkozó általános szabályok szerint.
 

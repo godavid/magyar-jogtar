@@ -256,6 +256,10 @@ az e §-ban meghatározottak szerint belső kontrollrendszert működtet.
 
 (4) Az (1)–(2) bekezdéstől eltérően, a befektető akkor jogosult új hitelminősítő intézetet megbízni, ha a korábban igénybe vett hitelminősítő intézet megbízatását az új hitelminősítő intézet megbízatásától kezdődően legalább három évig fenntartja.
 
+7/M. § (1) Azon köztulajdonban álló gazdasági társaság tekintetében, amely az állam többségi tulajdonában áll a Kormány rendeletében előírhatja, hogy e gazdasági társaság munkavállalói részére a munkáltatói intézkedéseket elektronikus dokumentumba foglalva, a digitális államról és digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény III. Fejezetében meghatározottak szerint kell kézbesíteni azzal, hogy felhasználó alatt a munkavállalót, digitális szolgáltatást biztosító szervezet alatt a gazdasági társaságot kell érteni.
+
+(2) Az (1) bekezdés szerinti kapcsolattartásra a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 72. §-át alkalmazni kell.
+
 8. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
 (2) E törvény 3–4. §-a, 5. § (3) bekezdése, 6. §-a, valamint 8. § (3) bekezdése 2010. január 1-jén lép hatályba.
@@ -268,7 +272,7 @@ az e §-ban meghatározottak szerint belső kontrollrendszert működtet.
 
 (6) A köztulajdonban álló gazdasági társaságnak az e törvény hatálybalépését megelőzően kötött, a 2. § (7) bekezdésében meghatározott közzétételi kötelezettség hatálya alá eső szerződésekkel kapcsolatos adatait első alkalommal 2010. március 1-jéig kell közzétenni.
 
-(7) E törvény 5–7. §-át a Magyar Nemzeti Bankra, annak felügyelőbizottsági tagjaira, illetve a Magyar Nemzeti Bankkal munkaviszonyban álló személyekre nem kell alkalmazni.
+(7) E törvény 5–7. §-át, valamint 7/M. §-át a Magyar Nemzeti Bankra, annak felügyelőbizottsági tagjaira, illetve a Magyar Nemzeti Bankkal munkaviszonyban álló személyekre nem kell alkalmazni.
 
 (8) A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 7/I. § (2) és (3) bekezdésének rendelkezéseit a Módtv2. hatálybalépését megelőzően keletkezett adatok, megkötött szerződések és adat megismerése iránt benyújtott igények tekintetében, valamint a Módtv2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
@@ -296,6 +300,8 @@ az e §-ban meghatározottak szerint belső kontrollrendszert működtet.
 számított 15 napon belül kell kezdeményezni.
 
 11. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a köztulajdonban álló gazdasági társaságok belső kontrollrendszerére vonatkozó részletszabályokat, valamint a köztulajdonban álló gazdasági társaságnál belső ellenőrzési tevékenység folytatására jogosult személyekről vezetett nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 7/M. § szerinti elektronikus kapcsolattartásra kötelezett gazdasági társaságok körét, továbbá az elektronikus kapcsolattartás e gazdasági társaságokra vonatkozó részletes szabályait.
 
 (2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg a belső ellenőrzési tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a bejelentések alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a belső ellenőrzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények részletes szabályait, továbbá a nyilvántartásba vétel iránti eljárásért, valamint a nyilvántartásba bejegyzett adatok módosítása vagy törlése iránti eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 

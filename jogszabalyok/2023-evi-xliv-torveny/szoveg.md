@@ -8,17 +8,29 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 2. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
-#### 2. §
+2. § A természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 15. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 3. §
+„(3) A (2) bekezdés szerint közzétett természeti terület kijelölésére vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a kijelölés feloldását követően a bejegyzést törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.”
 
-4. § (1)
+3. § A Tvt. 26. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Terület védetté, fokozottan védetté nyilvánítására vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a védettség feloldását követően a védettség tényét pedig törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.
+
+(3) A 23. § (2) bekezdésének hatálya alá tartozó védett természeti terület kiterjedését a természetvédelmi hatóság ingatlan-nyilvántartási bejegyzésre alkalmas módon, hatósági határozatban állapítja meg.”
+
+4. § (1) A Tvt. 41/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdésben meghatározott kijelölésre vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a kijelölés feloldását követően a bejegyzést törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.”
 
 (2)
 
-#### 5. §
+5. § A Tvt. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 6. §
+„(1) A barlangokat és a 48. § (5) bekezdése szerinti védőövezetet az ingatlan-nyilvántartásba, jogszabályban meghatározottak szerint – a természetvédelmi hatóság felhívására – az ingatlanügyi hatóság soron kívül jegyzi be.”
+
+6. § A Tvt. 53. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ökológiai (zöld) folyosóvá történő kijelölésére vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a kijelölés feloldását követően a bejegyzést törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.”
 
 #### 7. §
 
@@ -104,7 +116,12 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 42. §
 
-#### 43. §
+43. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény
+
+- a) 79/C. § (1) bekezdésében a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg és a „megkeresi” szövegrész helyébe a „felhívja” szöveg,
+- b) 79/C. § (2) bekezdésében a „megkereséssel” szövegrész helyébe a „felhívással” szöveg és a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg
+
+lép.
 
 #### 44. §
 
@@ -229,7 +246,9 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 100. § Az Evt.
 
 - a)
-- b)
+- b) 113/A. § (3) bekezdés a) pontjában az „az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 28. § (1) bekezdésében foglalt rendelkezéseket és az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény” szövegrész helyébe az „az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 29. § (3) bekezdésében foglalt rendelkezéseket és az ingatlan-nyilvántartásról szóló 2021. évi C. törvény” szöveg
+
+lép.
 
 #### 101. §
 
@@ -435,7 +454,37 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 187. §
 
-188. § (1)
+188. § (1) A Foktftv. 4. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A kérelmet vissza kell utasítani, ha)
+
+„a) az ingatlan tulajdoni lapján
+
+aa) kisajátítási eljárás megindítása,
+
+ab) telekalakítási eljárás megindítása,
+
+ac) felmérési, térképezési és területszámítási hiba kijavítására irányuló eljárás megindítása,
+
+ad) földminősítési eljárás megindítása,
+
+ae) az ingatlanügyi hatósági határozat elleni jogorvoslati kérelem, ügyészi felhívás, ügyészi fellépés benyújtása, felügyeleti eljárás megindítása,
+
+af) a bejegyzés alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati, illetve perújítási kérelem benyújtása,
+
+ag) bírósági ítéleten alapuló tulajdoni korlátozás,
+
+ah) az Inytv.-ben meghatározott perek vagy büntetőeljárás megindítása,
+
+ai) a zárlat, a zár alá vétel, a zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
+
+aj) a tulajdonjog-fenntartással történt eladás,
+
+ak) a megismételt hagyatéki eljárás megindítása,
+
+al) a föld tulajdonjogának átruházására irányuló szerződés benyújtása
+
+tény szerepel;”
 
 (2)
 
@@ -501,7 +550,11 @@ egyes törvényeknek az agrárminiszter feladatkörét érintő módosításár�
 
 #### 31. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
 
-#### 216. §
+216. § Nem lép hatályba az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény
+
+- a) 31. § (1)–(4) bekezdése,
+- b) 31. § (6) bekezdése,
+- c) 121. § (1) bekezdése.
 
 #### 32. A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény módosítása
 

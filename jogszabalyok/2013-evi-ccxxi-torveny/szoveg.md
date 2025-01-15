@@ -97,7 +97,7 @@ a hitelbiztosítéki nyilvántartásról
   - fb) vételi jog biztosítéki célból történő kikötéséről,
 - g) egyéb, e törvény szerinti nyilatkozat.
 
-(1a) A követelés elzálogosítására vonatkozó, az (1) bekezdés a) vagy b) pontja szerinti hitelbiztosítéki nyilatkozat alapján a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzésével a Ptk. 5:99. § (4) bekezdése szerinti alzálogjogot is megalapítottnak kell tekinteni. Ha a zálogjog tárgyául szolgáló követelést az elzálogosításának hitelbiztosítéki nyilvántartásba történő bejegyzését követően biztosítják zálogjoggal, e követelést biztosító zálogjog megalapításával egyidejűleg kell megalapítottnak tekinteni a Ptk. 5:99. § (4) bekezdése szerinti alzálogjogot.
+(1a) Hitelbiztosítéki nyilatkozat a nyilvántartásba bejegyzett zálogjoggal biztosított követelés elzálogosítására is irányulhat, amely esetében az (1) bekezdés a) és b) pontja szerinti nyilatkozatokra vonatkozó szabályokat kell alkalmazni azzal, hogy a zálogjogosult alatt az alzálogjog jogosultját, a zálogkötelezett alatt pedig a zálogjogosultat kell érteni. Az ilyen nyilatkozattal alapított alzálogjogot ennek, valamint az alzálogjog jogosultjának megjelölésével a nyilvántartásba bejegyzett zálogjoggal együtt az alzálogjog tárgyául szolgáló követelésre és az azt biztosító zálogjogra utalással kell nyilvántartani.
 
 (2) A regisztrált felhasználó hitelbiztosítéki nyilatkozatát annak megtételekor minősített elektronikus aláírással és időbélyegzővel látja el. Elektronikus aláírás alkalmazására kizárólag olyan aláírás-létrehozó adat használható, amely olyan tulajdonosi azonosítókhoz kötött, amiket a 4. § (2) bekezdése szerinti adatokat tartalmazó kérelem aláírása során használtak, feltéve, hogy az űrlapon így elhelyezett elektronikus aláírás tulajdonosi azonosítói a regisztrált felhasználó hitelbiztosítéki rendszerben rögzített adataival a 4. § (4) bekezdése szerint összerendelésre kerültek.
 
@@ -343,7 +343,7 @@ kell igazolnia.
 
 #### 35. §
 
-35/A. § Ha a zálogjoggal biztosított követelés zálogjoggal való megterhelésére irányuló zálogszerződést a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi LXVII. törvény (a továbbiakban: Módtv.) hatálybalépésének napján vagy azt megelőzően kötötték, az alzálogjogot a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzése időpontjában az e törvénynek a Módtv. 135. §-ával megállapított 7. § (1a) bekezdése szerint megalapítottnak kell tekinteni.
+#### 35/A. §
 
 36. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

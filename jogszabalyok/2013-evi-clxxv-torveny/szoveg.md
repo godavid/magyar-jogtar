@@ -74,6 +74,8 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 6/B. § A Hivatal elnöke a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § f) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
 
+6/C. § A gondnokoltak nyilvántartásából a 6. § (2) bekezdés h) és m) pontjában meghatározott jogosult számára a hozzáférést automatikus információátadás útján is biztosítani kell. Automatikus információátadás útján biztosított hozzáférés esetén a 22. § és az 5. alcím rendelkezéseit nem kell alkalmazni.
+
 7. § (1) A gondnokoltak nyilvántartásában szereplő, a 3. § (1) bekezdés c)–e) pontja szerinti adatokról írásbeli kérelemre az kaphat felvilágosítást, aki
 
 - a) az ehhez fűződő jogi érdekét igazolja vagy

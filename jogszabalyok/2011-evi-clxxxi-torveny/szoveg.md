@@ -39,6 +39,8 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - l) a 2013. évi CXXXV. törvénnyel létrehozott Szövetkezeti Hitelintézetek Integrációs Szervezetét és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapját.
 - m) azt a szervezetet, amelynek e törvény szerinti nyilvántartásba vételét törvény elrendeli.
 
+4/A. § Ha bíróság e törvény szerinti eljárásában az ügy érdemében hozott jogerős végzése alapján az ingatlan-nyilvántartásba bejegyzett jog vagy tény keletkezését, változását vagy megszűnését kell átvezetni, a bíróság jogszabályban meghatározott módon és feltételekkel intézkedik az ingatlan-nyilvántartásban feltüntetett jog vagy tény keletkezésének, változásának vagy megszűnésének bejegyzése iránt.
+
 #### 3. A Polgári perrendtartás alkalmazása
 
 5. § (1) Az e törvényben szabályozott polgári nemperes eljárásokban azokra az eljárási kérdésekre, amelyeket törvény eltérően nem szabályoz a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
@@ -1385,6 +1387,8 @@ rendeletben állapítsa meg.
 
 (3) A külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény 3. §-a alapján indult, 2021. június 30-án folyamatban lévő elsőfokú és másodfokú eljárások a Módtv2. hatálybalépésének napján megszűnnek. Ha az elsőfokú bíróság a 37. § (2) bekezdése szerinti bírságot szabott ki, a folyamatban levő eljárás bírság alkalmazása nélkül szűnik meg. Az eljárás megszűnéséről az elsőfokú bíróság a Módtv2. hatálybalépését követő 30 napon belül tájékoztatja a szervezetet.
 
+111/A. § E törvénynek az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvénnyel megállapított rendelkezéseit azokban a 2025. január 15-én folyamatban lévő eljárásokban is alkalmazni kell, amelyekben ingatlan-nyilvántartásban feltüntetett jog vagy tény keletkezésének, változásának vagy megszűnésének bejegyzése iránti intézkedés 2025. január 15-én vagy azt követően válik szükségessé.
+
 #### 47. Módosuló jogszabályok
 
 #### 112. §
@@ -1441,23 +1445,23 @@ c) kölcsön, vissza nem térítendő támogatás összege.
 
 (6) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 454. § (4) bekezdése a következő szöveggel lép hatályba:
 
-„(4) Az adófizetési kötelezettséget eredményező jogviszonyban elrendelt kirendelés alapján foglalkoztatott természetes személlyel fennálló jogviszonyra tekintettel fizetendő adó alanya a kirendelést elrendelő kifizető. A természetes személyt a kirendelés alapján foglalkoztató személy minősül azonban (kifizetőként) az adó alanyának, ha a kirendelést elrendelő kifizetővel megállapodott arról, hogy a természetes személy foglalkoztatásához kapcsolódó munkabér és közterhek őt terhelik.”
+„(4) Az adófizetési kötelezettséget eredményező jogviszonyban elrendelt kirendelés alapján foglalkoztatott természetes személlyel fennálló jogviszonyra tekintettel fizetendő adó alanya a kirendelést elrendelő kifizető. A természetes személyt a kirendelés alapján foglalkoztató személy minősül azonban (kifizetőként) az adó alanyának, ha a kirendelést elrendelő kifizetővel megállapodott arról, hogy a természetes személy foglalkoztatásához kapcsolódó munkabér és közterhek őt terhelik.
 
 (7) Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 455. § (1) bekezdés e) pontja a következő szöveggel lép hatályba:
 
 [A kifizetőt terhelő adó alapja:]
 
-„e) az a)–b) pont hatálya alá tartozó juttatás hiányában az adófizetési kötelezettséget eredményező munkaviszonyt, vagy más jogviszonyt szabályozó munkaszerződésben, illetőleg más szerződésben meghatározott személyi alapbér, illetőleg díjazás; külföldi kiküldetés esetén e pont alkalmazásában személyi alapbér a munkaszerződés alapján fizetett (juttatott), az adott munkakörben foglalkoztatott kiküldetését megelőző évi havi átlagos alapbére, ennek hiányában a tárgyhavi személyi alapbér.”
+„e) az a)–b) pont hatálya alá tartozó juttatás hiányában az adófizetési kötelezettséget eredményező munkaviszonyt, vagy más jogviszonyt szabályozó munkaszerződésben, illetőleg más szerződésben meghatározott személyi alapbér, illetőleg díjazás; külföldi kiküldetés esetén e pont alkalmazásában személyi alapbér a munkaszerződés alapján fizetett (juttatott), az adott munkakörben foglalkoztatott kiküldetését megelőző évi havi átlagos alapbére, ennek hiányában a tárgyhavi személyi alapbér.
 
 (8) Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 455. § (4) bekezdés h) pontja a következő szöveggel lép hatályba:
 
 [A kifizetőt terhelő adónak nem alapja:]
 
-„h) az olyan személynek juttatott bevétel, akire a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény 11. §-a és 13. §-a szerint a biztosítási kötelezettség nem terjed ki,”
+„h) az olyan személynek juttatott bevétel, akire a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény 11. §-a és 13. §-a szerint a biztosítási kötelezettség nem terjed ki,
 
 (9) Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 458. § (6) bekezdése a következő szöveggel lép hatályba:
 
-„(6) A kifizető a tagjával (ideértve az egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(5) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja más kifizetővel is az adóalap megállapításának különös szabályai hatálya alá tartozó adófizetési kötelezettséget eredményező jogviszonyban áll, vagy egyéni vállalkozóként az adóalap megállapításának különös szabályai hatálya alatt áll, feltéve, hogy a másik kifizető e napot a taggal fennálló jogviszonya alapján őt terhelő adó, illetve az egyéni vállalkozó e napot a saját maga után fizetendő adó alapjának megállapításkor számításba veszi.”
+„(6) A kifizető a tagjával (ideértve az egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(5) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja más kifizetővel is az adóalap megállapításának különös szabályai hatálya alá tartozó adófizetési kötelezettséget eredményező jogviszonyban áll, vagy egyéni vállalkozóként az adóalap megállapításának különös szabályai hatálya alatt áll, feltéve, hogy a másik kifizető e napot a taggal fennálló jogviszonya alapján őt terhelő adó, illetve az egyéni vállalkozó e napot a saját maga után fizetendő adó alapjának megállapításkor számításba veszi.
 
 (10) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 459. § (2) bekezdés c) pontja a „lehet” szövegrész helyett a „céljából” szövegrésszel lép hatályba.
 

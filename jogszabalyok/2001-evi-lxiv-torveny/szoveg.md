@@ -870,14 +870,14 @@ kötelezheti.
 
 (6) A (4) bekezdés szerinti határozatával a hatóság megkeresi
 
-- a) az ingatlanügyi hatóságot a jelzálogjog bejegyzése és a terhelési tilalom ingatlan-nyilvántartásba történő feljegyzése,
+- a) az ingatlanügyi hatóságot a jelzálogjog és a terhelési tilalom ingatlan-nyilvántartásba történő bejegyzése,
 - b) az illetékes állami adóhatóságot – amennyiben a kötelezettség teljesítése határidőre nem történt meg – a követelés végrehajtása
 
 iránt.
 
-(7) A követelés kielégítése vagy megszűnése esetén a hatóság 15 napon belül megkeresi az ingatlanügyi hatóságot a bejegyzett jog és a feljegyzett tény törlése iránt.
+(7) A követelés kielégítése vagy megszűnése esetén a hatóság 15 napon belül megkeresi az ingatlanügyi hatóságot a bejegyzett jog és a bejegyzett tény törlése iránt.
 
-(8) Abban az esetben, ha a (4) bekezdés szerinti jelzálogjogot olyan ingatlanra kell bejegyezni és a terhelési tilalom tényét feljegyezni, amelyre a 74. § (1) bekezdése szerinti jogi jelleg az ingatlan-nyilvántartásban ezt megelőzően még nem került feljegyzésre, az eljáró hatóság köteles a jogi jelleg ingatlan-nyilvántartási feljegyeztetéséről gondoskodni. A jelzálogjog bejegyzése és a terhelési tilalom tényének feljegyzése csak a jogi jelleg feljegyzését követően kezdeményezhető.
+(8) Abban az esetben, ha a (4) bekezdés szerinti jelzálogjogot és a terhelési tilalmat olyan ingatlanra kell bejegyezni, amelyre a 74. § (1) bekezdése szerinti jogi jelleg az ingatlan-nyilvántartásban ezt megelőzően még nem került bejegyzésre, az eljáró hatóság köteles a jogi jelleg ingatlan-nyilvántartási bejegyeztetéséről gondoskodni. A jelzálogjog és a terhelési tilalom bejegyzése csak a jogi jelleg bejegyzését követően kezdeményezhető.
 
 68. § (1) A hatóság kulturális örökségvédelmi érdekből elrendelheti:
 
@@ -937,7 +937,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 (5) A (4) bekezdés szerinti igazgatási szolgáltatási díj megfizetése alól mentességet kap a világörökségi gondnokság, valamint a nyilvántartási adatokat jogszabályban meghatározott feladatellátásához igénylő, feltárásra jogosult intézmény vagy a jogszabályban kijelölt örökségvédelmi szerv, amely ezt az adatszolgáltatás iránti kérelmében igazolja.
 
-(6) A 71. § (2) bekezdés a) pontja szerinti kulturális javak körébe tartozó tartozékok, alkotórészek esetében a védettség tényének ingatlan-nyilvántartásba történő feljegyzése iránt a hatóság intézkedik.
+(6) A 71. § (2) bekezdés a) pontja szerinti kulturális javak körébe tartozó tartozékok, alkotórészek esetében a védettség tényének ingatlan-nyilvántartásba történő bejegyzése iránt a hatóság intézkedik.
 
 73. § (1) A védetté nyilvánított kulturális javak esetében a nyilvántartás tartalmazza:
 
@@ -956,9 +956,9 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 74. § (1) A 11. § szerinti nyilvántartott régészeti lelőhely, a 15. §-ban meghatározott védett régészeti lelőhellyé, régészeti védőövezetté nyilvánítás adatát az ingatlan-nyilvántartásban be kell jegyezni.
 
-(2) Az (1) bekezdésben meghatározott jogi jelleg feljegyzése iránt az ezt megállapító végleges döntésével a hatóság megkeresi az ingatlanügyi hatóságot.
+(2) Az (1) bekezdésben meghatározott jogi jelleg bejegyzése iránt az ezt megállapító végleges döntésével a hatóság megkeresi az ingatlanügyi hatóságot.
 
-(3) A feljegyzés elmaradása a védettség fennállásának tényét nem érinti.
+(3) A bejegyzés elmaradása a védettség fennállásának tényét nem érinti.
 
 (4) Ha az (1) bekezdés szerinti védettség feltétele már nem áll fenn, a hatóság végleges döntésével megkeresi az ingatlanügyi hatóságot a jogi jelleg ingatlan-nyilvántartásból történő törlése céljából.
 
@@ -1077,14 +1077,14 @@ nem tesz eleget.
 
 (2) Az (1) bekezdés szerinti határozatával a hatóság megkeresi
 
-- a) az ingatlanügyi hatóságot az (1) bekezdésben meghatározott jelzálogjog bejegyzése és a terhelési tilalom ingatlan-nyilvántartásba történő feljegyzése,
+- a) az ingatlanügyi hatóságot az (1) bekezdésben meghatározott jelzálogjog és a terhelési tilalom ingatlan-nyilvántartásba történő bejegyzése,
 - b) az illetékes állami adóhatóságot – amennyiben a kötelezettség teljesítése határidőre nem történt meg – a követelés végrehajtása
 
 iránt.
 
-(3) A követelés kielégítése vagy megszűnése esetén a hatóság 15 napon belül megkeresi az ingatlanügyi hatóságot a bejegyzett jog és a feljegyzett tény törlése iránt.
+(3) A követelés kielégítése vagy megszűnése esetén a hatóság 15 napon belül megkeresi az ingatlanügyi hatóságot a bejegyzett jog és a bejegyzett tény törlése iránt.
 
-(4) Az (1) bekezdésben meghatározott jelzálogjog bejegyzése és terhelési tilalom tényének feljegyzése iránt a 67. § (8) bekezdésének alkalmazásával kell feljegyezni.
+(4) Az (1) bekezdésben meghatározott jelzálogjog és a terhelési tilalom bejegyzése iránt a 67. § (8) bekezdésének alkalmazásával kell intézkedni.
 
 85. § A bírságolásra vonatkozó részletes szabályokat, valamint a bírság megállapításának alapjául szolgáló értékhatárokat és a bírság legmagasabb összegét a Kormány rendeletben határozza meg.
 

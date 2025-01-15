@@ -2183,7 +2183,9 @@ alapján tanúsíthatja.
 
 174. § Ha az e törvényben szabályozott eljárásban a fél a kérelmét visszavonja vagy az eljárás lefolytatása a fél mulasztása miatt hiúsul meg, a közjegyző az eljárást végzéssel befejezetté nyilvánítja. E végzés ellen fellebbezésnek van helye. A jogerőre emelkedésről a felet külön értesíteni nem kell, de a fél kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.
 
-175. § (1) Ha a közjegyzői okirat elkészítéséhez vagy a közjegyző által közokiratba foglalt jognyilatkozat joghatásának kiváltásához vagy a jognyilatkozat alapján történő nyilvántartási bejegyzéshez bíróság vagy más hatóság eljárása szükséges, a közjegyző azt az eljárás lefolytatása végett hivatalból megkeresi. A közjegyző megkeresésére indult eljárásban a közjegyzőt a közokiratban szereplő fél vagy felek képviselőjének jogállása illeti meg.
+174/A. § Ha a közokiratba foglalt jognyilatkozat joghatásának kiváltásához ingatlan-nyilvántartási bejegyzés szükséges, a jog vagy tény bejegyzésével közvetlenül érintett valamennyi személy egybehangzóan nyilatkozik arról, hogy a közjegyző jogosult a 175. § (1) bekezdése szerinti képviselet ellátására. E felhatalmazást az ingatlan-nyilvántartásról szóló törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott tartalommal és módon, elektronikus űrlapon kell megszerkeszteni és hitelesíteni.
+
+175. § (1) Ha a közjegyzői okirat elkészítéséhez vagy a közjegyző által közokiratba foglalt jognyilatkozat joghatásának kiváltásához vagy a jognyilatkozat alapján történő nyilvántartási bejegyzéshez bíróság vagy más hatóság eljárása szükséges, a közjegyző azt az eljárás lefolytatása végett hivatalból megkeresi. Az ingatlanügyi hatóság a nyilvántartásba való bejegyzést a közjegyző kérelmére teljesíti, amelyhez csatolni kell a bejegyzés alapjául szolgáló közokiratot. A közjegyző megkeresésére vagy kérelmére indult eljárásban a közjegyzőt a közokiratban szereplő fél vagy felek, illetve a 174/A. §-ban meghatározott érintett személyek képviselőjének jogállása illeti meg.
 
 (2) A közjegyző az (1) bekezdésben rögzítetten túlmenően jogi képviseletet nem láthat el.
 

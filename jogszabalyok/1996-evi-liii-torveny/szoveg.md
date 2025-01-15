@@ -177,7 +177,7 @@ során.
 
 (2) Az (1) bekezdés hatálya alá tartozó természeti területek jegyzékét a miniszter az agrárpolitikáért felelős miniszterrel együtt közzéteszi.
 
-(3) A (2) bekezdés szerint közzétett természeti terület kijelölésének tényét az ingatlan-nyilvántartásba fel kell jegyezni, a kijelölés feloldását követően a feljegyzést törölni kell. A feljegyzést, illetve annak törlését a természetvédelmi hatóság hivatalból kezdeményezi.
+(3) A (2) bekezdés szerint közzétett természeti terület kijelölésére vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a kijelölés feloldását követően a bejegyzést törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.
 
 ### Az élőhelyek általános védelme
 
@@ -325,9 +325,9 @@ nyilvánít védetté.
 
 26. § (1) A védett természeti területet és a Natura 2000 területet a természetvédelmi hatóságnak – a természetvédelmi kezelést ellátó szerv útján – táblával meg kell jelölnie, amellyel fel kell hívnia a figyelmet a védettség tényére, valamint az ebből fakadó főbb korlátozó rendelkezésekre.
 
-(2) Terület védetté, fokozottan védetté nyilvánításának tényét az ingatlan-nyilvántartásba fel kell jegyezni, védettség feloldását követően a védettség tényét pedig törölni kell. A feljegyzést, illetve annak törlését a természetvédelmi hatóság hivatalból kezdeményezi.
+(2) Terület védetté, fokozottan védetté nyilvánítására vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a védettség feloldását követően a védettség tényét pedig törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.
 
-(3) A 23. § (2) bekezdésének hatálya alá tartozó védett természeti terület kiterjedését a természetvédelmi hatóság ingatlan-nyilvántartási feljegyzésre alkalmas módon, hatósági határozatban állapítja meg.
+(3) A 23. § (2) bekezdésének hatálya alá tartozó védett természeti terület kiterjedését a természetvédelmi hatóság ingatlan-nyilvántartási bejegyzésre alkalmas módon, hatósági határozatban állapítja meg.
 
 (4) A természetvédelmi hatóság a (3) bekezdésben meghatározott határozatot az érintett ingatlan tulajdonosának és vagyonkezelőjének, valamint a feladat- és hatáskör szempontjából külön törvény alapján érintett hatóságnak, továbbá az igazgatóságnak kézbesíti.
 
@@ -523,7 +523,7 @@ engedélyezésekor.
 
 41/A. § (1) A Natura 2000 területeket a Kormány jelöli ki és teszi közzé, valamint határozza meg az e területekre vonatkozó szabályokat. A Natura 2000 területeken lévő földrészleteket a miniszter hirdeti ki.
 
-(2) Az (1) bekezdésben meghatározott kijelölés tényét az ingatlan-nyilvántartásba fel kell jegyezni, a kijelölés feloldását követően a feljegyzést törölni kell. A feljegyzést, illetve annak törlését a természetvédelmi hatóság hivatalból kezdeményezi.
+(2) Az (1) bekezdésben meghatározott kijelölésre vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a kijelölés feloldását követően a bejegyzést törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.
 
 (3) Egy adott földrészletnek a Natura 2000 területbe tartozását az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló jogszabály által meghatározott területek térképszelvényei – és szükség szerint a térképszelvényeknek a kormányzati honlap elektronikus tájékoztatásra szolgáló oldalán közzétett digitális térinformatikai határvonala – alapján kell megállapítani.
 
@@ -622,7 +622,7 @@ engedélyezésekor.
 
 (7) A gyógybarlanggá nyilvánítás és gyógyászati célú hasznosítás feltételeinek és eljárási rendjének meghatározásához a miniszter egyetértése szükséges.
 
-49. § (1) A barlangokat és a 48. § (5) bekezdése szerinti védőövezetet az ingatlan-nyilvántartásban, külön jogszabályokban meghatározottak szerint – a természetvédelmi hatóság kezdeményezése alapján – fel kell tüntetni.
+49. § (1) A barlangokat és a 48. § (5) bekezdése szerinti védőövezetet az ingatlan-nyilvántartásba, jogszabályban meghatározottak szerint – a természetvédelmi hatóság felhívására – az ingatlanügyi hatóság soron kívül jegyzi be.
 
 (2) A barlangokról – az ingatlan-nyilvántartástól függetlenül – közhiteles nyilvántartást kell vezetni.
 
@@ -634,7 +634,7 @@ engedélyezésekor.
 
 (3) A barlang bejáratának biztonságáról, ha szükséges szakszerű lezárásáról az igazgatóság gondoskodik.
 
-(4) Az (1) bekezdésben foglaltak biztosítására az igazgatóságot szolgalmi jog illeti meg, illetve annak az ingatlannak a tulajdonosát (vagyonkezelőjét, használóját), amelyről a barlang nyílik, szolgalmi jog terheli (szolgáló telek). Ennek tényét az ingatlan-nyilvántartásba – az igazgatóság kezdeményezésére – be kell jegyezni.
+(4) Az (1) bekezdésben foglaltak biztosítására az igazgatóságot szolgalmi jog illeti meg, illetve azt az ingatlant, amelyről a barlang nyílik, szolgalmi jog terheli (szolgáló telek). Ennek tényét az ingatlan-nyilvántartásba – az igazgatóság felhívására – az ingatlanügyi hatóság jegyzi be.
 
 (5) Bármilyen ingatlanon végzett tevékenység következtében feltárult barlangok esetén, a (3) bekezdés szerinti barlangbiztosítási munkák költségeit annak kell fedeznie, akinek érdekében, ennek hiányában beavatkozása nyomán a barlangkiépítési munkák elvégzése szükségessé vált.
 
@@ -711,7 +711,7 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
 (5) A miniszter az Alapterv végrehajtása érdekében az agrárpolitikáért felelős miniszter és a közlekedésért felelős miniszter egyetértésével kiadott rendeletben jelöl ki ökológiai (zöld) folyosókat, és határozza meg az e területekre vonatkozó szabályokat. Az érzékeny természeti területek létesítésére és fenntartására vonatkozó részletes szabályokat a miniszter az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg.
 
-(6) Ökológiai (zöld) folyosóvá történő kijelölés tényét az ingatlan-nyilvántartásba fel kell jegyezni, a kijelölés feloldását követően a feljegyzést törölni kell. A feljegyzést, illetve annak törlését a természetvédelmi hatóság hivatalból kezdeményezi.
+(6) Ökológiai (zöld) folyosóvá történő kijelölésére vonatkozó adatot az ingatlan-nyilvántartásba be kell jegyezni, a kijelölés feloldását követően a bejegyzést törölni kell. A bejegyzés soron kívüli teljesítésére, illetve annak soron kívüli törlésére a természetvédelmi hatóság hívja fel az ingatlanügyi hatóságot.
 
 54. § (1) Területrendezési, területfejlesztési, vízrendezési, meliorációs és a táj jellegét megváltoztató egyéb terv jóváhagyására, módosítására a külön jogszabályok rendelkezései szerint, a miniszter, illetve az igazgatóság bevonásával kerülhet sor.
 

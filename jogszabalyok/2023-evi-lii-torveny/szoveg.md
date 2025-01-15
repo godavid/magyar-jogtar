@@ -313,15 +313,15 @@ kézbesítettnek kell tekinteni.
 
 (4) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
 
-(5)
+(5) A kinevezési okmányt és annak módosítását, a jogviszony megszüntetésével kapcsolatos jognyilatkozatot, az összeférhetetlenség megszüntetésére irányuló felszólítást és a fizetési felszólítást a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kell kiadmányozni.
 
-(6)
+(6) Az (5) bekezdés szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény (a továbbiakban: Dáptv.) III. Fejezetét a (8) bekezdésben foglalt eltéréssel kell alkalmazni azzal, hogy felhasználó alatt a köznevelésben foglalkoztatottat, a digitális szolgáltatást biztosító szervezet alatt a munkáltatót kell érteni.
 
-(7)
+(7) A köznevelésben foglalkoztatott köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A köznevelési foglalkoztatotti jogviszonyban álló e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
 
-(8)
+(8) A Dáptv. 27. §-ától eltérően a jogviszonyt azonnali hatállyal megszüntető munkáltatói intézkedést tartalmazó irat a címzett (7) bekezdés szerinti tárhelyére történő megküldésről szóló értesítési igazolásban foglalt időpontban minősül kézbesítettnek.
 
-(9)
+(9) Ha az elektronikus dokumentum elektronikus kézbesítése vagy a kézbesítési fikció szabályainak alkalmazása bármely okból nem lehetséges, vagy az a jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papíralapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papíralapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A köznevelési foglalkoztatotti jogviszonyban állóval a papíralapú kiadmányt kell közölni.
 
 (10)
 

@@ -52,7 +52,12 @@ a honvédelmi tárgyú törvények módosításával összefüggésben egyes tö
 
 #### 13. §
 
-#### 14. §
+14. § A társasházakról szóló 2003. évi CXXXIII. törvény
+
+- a) 6. § (1) bekezdésében a „társasháztulajdon földrészletre való feljegyzésének vagy meglevő épületre való bejegyzésének” szövegrész helyébe a „társasháztulajdon földrészletre, illetve meglevő épületre való bejegyzésének” szöveg,
+- b) 6. § (2) bekezdésében a „bejegyzése, illetve feljegyzése” szövegrész helyébe a „bejegyzése” szöveg
+
+lép.
 
 #### 12. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
@@ -153,9 +158,9 @@ lép.
 
 #### 46. §
 
-#### 27.
+#### 27. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
 
-#### 47. §
+47. § Nem lép hatályba az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 62. § a) pontja.
 
 #### 28. Az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvény módosítása
 

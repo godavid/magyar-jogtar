@@ -480,6 +480,10 @@ bármely fél a 7. § (2) bekezdésében meghatározott bírósághoz fordulhat,
 
 58. § Állandó választottbíróság a választottbírósági közvetítői eljárásra a jelen törvénnyel és az UNCITRAL 2002-es nemzetközi kereskedelmi békéltetésről szóló mintatörvényével összhangban álló szabályzatot alkothat.
 
+#### 40/A. Ingatlan-nyilvántartási hatósági felhívás kezdeményezése
+
+58/A. § A választottbíróság az ingatlan-nyilvántartásba bejegyezhető jogra, tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, feltételt nem tartalmazó, végrehajtható határozatát hatósági felhívásra irányuló eljárás lefolytatására illetékes közjegyző kijelölése végett megküldi a Magyar Országos Közjegyzői Kamara részére.
+
 ### XII. Fejezet — ÁLLANDÓ VÁLASZTOTTBÍRÓSÁG
 
 #### 41. Magyarországi állandó választottbíráskodás

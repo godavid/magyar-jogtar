@@ -106,7 +106,11 @@ Magyarország biztonságát szolgáló egyes törvények módosításáról
 
 #### 40. §
 
-#### 41. §
+41. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § 6. pontja helyébe a következő rendelkezés lép:
+
+(A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult)
+
+„6. az ingatlan-nyilvántartás, 2026. december 31-ig a földhasználati nyilvántartás, a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás és a földvédelmi nyilvántartás szerve törvényben meghatározottak szerint;”
 
 #### 42. §
 
@@ -568,9 +572,9 @@ Magyarország biztonságát szolgáló egyes törvények módosításáról
 
 #### 221. §
 
-#### 58.
+#### 58. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
 
-#### 222. §
+222. § Nem lép hatályba az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 97. § (1) bekezdése.
 
 #### 59. Az egyes eljárások korszerűsítését és a polgárok biztonságának további megerősítését célzó intézkedésekről szóló 2021. évi CXX. törvény módosítása
 

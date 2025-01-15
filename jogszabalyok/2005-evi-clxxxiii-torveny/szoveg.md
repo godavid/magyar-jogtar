@@ -1408,7 +1408,7 @@ műszaki hatósági engedélye kiadásának alapjául szolgáló feltételek fen
 42. § A vasúti telekalakítási eljárás
 
 - a) a vasúti telekalakítás engedélyezésére, és
-- b) a vasúti telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a vasúti telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére
+- b) a vasúti telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és tények vonatkozásában a vasúti telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére
 
 irányul.
 
@@ -1424,9 +1424,9 @@ irányul.
 
 42/C. § (1) A vasúti telekalakítás következtében önálló helyrajzi számon létrejövő vasúti pályát és azok tartozékait hordozó ingatlant az ingatlan-nyilvántartásban kivett vasúti pálya megnevezéssel kell nyilvántartani.
 
-(2) Az (1) bekezdés szerint létrejövő ingatlan tekintetében az érintett ingatlanra bejegyzett azon jogok és feljegyzett tények, amelyek a vasúti pályák és tartozékai természetbeni területe tekintetében kerültek bejegyzésre vagy feljegyzésre az ingatlan-nyilvántartásba, változatlan tartalommal fennmaradnak.
+(2) Az (1) bekezdés szerint létrejövő ingatlan tekintetében az érintett ingatlanra bejegyzett azon jogok és tények, amelyek a vasúti pályák és tartozékai természetbeni területe tekintetében kerültek bejegyzésre az ingatlan-nyilvántartásba, változatlan tartalommal fennmaradnak.
 
-(3) Azok a jogok vagy tények, amelyek az érintett ingatlan vonatkozásában az országos jelentőségű vasútvonal természetbeni területe tekintetében kerültek bejegyzésre vagy feljegyzésre az ingatlan-nyilvántartásban a vasúti telekalakítási eljárás következtében kialakult visszamaradó ingatlan tulajdoni lapjáról törlésre kerülnek, míg az egyéb jogok és tények változatlan tartalommal fennmaradnak a visszamaradó ingatlan tulajdoni lapján.
+(3) Azok a jogok vagy tények, amelyek az érintett ingatlan vonatkozásában az országos jelentőségű vasútvonal természetbeni területe tekintetében kerültek bejegyzésre az ingatlan-nyilvántartásban a vasúti telekalakítási eljárás következtében kialakult visszamaradó ingatlan tulajdoni lapjáról törlésre kerülnek, míg az egyéb jogok és tények változatlan tartalommal fennmaradnak a visszamaradó ingatlan tulajdoni lapján.
 
 42/D. § (1) Amennyiben az érintett ingatlan az állam és más személy osztatlan közös tulajdonában áll, a vasúti telekalakításról – közös tulajdon megszüntetése útján, illetve, amennyiben indokolt a szomszédos ingatlan bevonásával – az ingatlanok tulajdonosai megállapodhatnak. A megállapodásban rendezni kell a vasúti közlekedéshez szükséges, a visszamaradó ingatlant, illetve az újonnan kialakuló további ingatlant érintő vezetékjogi, szolgalmi jogi, használati jogi kérdéseket, valamint rendezni kell az ingatlan-nyilvántartás szerint az érintett ingatlanon fennálló egyéb jogok és tények kérdését.
 
@@ -1462,7 +1462,7 @@ irányul.
 
 (6) A használati jog gyakorlása során a pályahálózat-működtető, illetve a fejlesztési közreműködő a létesítmények elhelyezésével, vagy azok megközelítésével, azokon való munkavégzéssel, az ingatlan használatának akadályozásával vagy korlátozásával okozott kárt – az állami tulajdonban álló ingatlan kivételével – az ingatlan tulajdonosának vagy használójának köteles megtéríteni. Az állami tulajdonban álló ingatlanra már meglévő létesítmény üzemeltetéséhez kapcsolódó használati jog alapítása a pályahálózat működtető részére ingyenesen történik. Az okozott kár megtérítésére a 85/J. § (2)–(5) bekezdését kell alkalmazni, azzal, hogy a felszín alatti vasútlétesítési joggal terhelt ingatlanon a használati joggal terhelt ingatlant, a felszín alatti vasúti pálya létesítőjén pedig a használati jog jogosultját kell érteni.
 
-(7) A megállapodáson alapuló használati jog ingatlan-nyilvántartásba történő bejegyzését a megállapodás alapján a pályahálózat-működtető, illetve a fejlesztési közreműködő köteles kérni. Határozaton alapuló használati jog esetén a vasúti közlekedési hatóság a véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a használati jog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A használati jog a véglegessé vált határozat alapján a bejegyzés előtt is gyakorolható.
+(7) A megállapodáson alapuló használati jog ingatlan-nyilvántartásba történő bejegyzését a megállapodás alapján a pályahálózat-működtető, illetve a fejlesztési közreműködő köteles kérni. Határozaton alapuló használati jog esetén a vasúti közlekedési hatóság a véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzésére. Amennyiben a használati jog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A használati jog a véglegessé vált határozat alapján a bejegyzés előtt is gyakorolható.
 
 (8) A hatósági határozaton alapuló használati jog a mindenkori pályahálózat-működtetőt illeti meg, a pályahálózat-működtető névváltozása, jogutódlás vagy a pályahálózat-működtető személyében bekövetkezett változás esetén a pályahálózat-működtető a közlekedési hatóságot a változás bekövetkezésétől számított 30 napon belül értesíti.
 
@@ -1470,7 +1470,7 @@ irányul.
 
 (10) A vasúti közlekedési hatóság az építési engedély hatályát a pályahálózat-működtető, illetve a fejlesztési közreműködő által a hatály lejárta előtt legalább 60 nappal benyújtott kérelem alapján, jogszabályban meghatározott esetben, legfeljebb két évvel meghosszabbíthatja, amennyiben az engedély a meghosszabbítás idején hatályban lévő jogszabályi előírásoknak megfelel.
 
-(11) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését a pályahálózat-működtető, illetve a fejlesztési közreműködő a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használati jog esetén a vasúti közlekedési hatóság a használati jog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog törlése iránt.
+(11) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését a pályahálózat-működtető, illetve a fejlesztési közreműködő a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használati jog esetén a vasúti közlekedési hatóság a használati jog megszűnését megállapító véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásból való törlésére.
 
 (12) Amennyiben már meglévő vasúti üzemi létesítmény idegen ingatlanon helyezkedik el, a használati jog alapítására, gyakorlására, valamint megszüntetésére az (1)–(11) bekezdésben foglaltakat kell alkalmazni.
 
@@ -1489,7 +1489,7 @@ irányul.
 
 (4) A vasúti társaság a tulajdonosi jogkörében, vagyonkezelésében vagy vagyonműködtetésében álló területen megvalósuló vasútfejlesztés esetén a beruházás végleges döntés alapján történő használatbavételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
 
-(5) Az e §-ban valamint a 44/A. §-ban szabályozott vagyonkezelői, vagyonműködtetési jog ingatlan-nyilvántartásban történő bejegyzésére, törlésére, egyéb módon történő átvezetésére irányuló eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
+(5) Az e §-ban valamint a 44/A. §-ban szabályozott vagyonkezelői, vagyonműködtetési joggal kapcsolatos ingatlan-nyilvántartási eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
 
 (6) A (2)–(4) bekezdésben meghatározott rendelkezéseket alkalmazni kell azon önkormányzati fejlesztésekre is, amelyek során fejlesztési közreműködő jár el.
 

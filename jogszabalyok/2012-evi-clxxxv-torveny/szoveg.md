@@ -1412,7 +1412,7 @@ vonatkozó adatokat.
 
 (23) A jegyző a foglalkoztatói nyilvántartás adatait a döntés véglegessé válásától számított két évig kezeli.
 
-(24) A (4) bekezdésben, és a 12. § (1) bekezdésében foglaltak megsértése esetén a hulladékgazdálkodási hatóság a magyar állam javára a követelés és kamatai összegéig jelzáloggal terheli meg a hulladék jogellenes elhelyezője, elhagyója tulajdonában lévő ingatlant, ennek hiányában a (3) bekezdésben meghatározott ingatlant, és az ingatlanügyi hatóság a hulladékgazdálkodási hatóság felhívására a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.
+(24) A (4) bekezdésben, és a 12. § (1) bekezdésben foglaltak megsértése esetén a hulladékgazdálkodási hatóság a magyar állam javára a követelés és kamatai összegéig jelzáloggal terheli meg a (3) bekezdésben meghatározott ingatlant, és az ingatlanügyi hatóság a hulladékgazdálkodási hatóság felhívására a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi. Az eljárás soron kívüli ügyintézési határideje az eljárás ügyintézési határidejének a fele.
 
 (24a) A hulladék felszámolásának a hulladékgazdálkodási hatóság általi foganatosítása során felmerült, a kötelezett által megtérítendő költségek megfizetési kötelezettségét a hulladékgazdálkodási hatóság – a (3) bekezdés szerint kötelezett ingatlantulajdonos kérelmére – különös méltánylást igénylő esetben mérsékelheti vagy a megtérítési kötelezettség alól felmentést adhat, illetve a végrehajtást a (3) bekezdésben meghatározott ingatlanra korlátozhatja.
 

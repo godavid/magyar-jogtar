@@ -167,10 +167,10 @@ egyes agrártárgyú törvények módosításáról
 70. § A Földforgalmi tv.
 
 - a)
-- b)
+- b) 23. § (1) bekezdésében a „megkeresi” szövegrész helyébe a „felhívja” szöveg és a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg,
 - c)
 - d)
-- e)
+- e) 23/A. § (1a) bekezdésében az „egyidejűleg megkeresi” szövegrész helyébe az „egyidejűleg felhívja” szöveg és a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg
 - f)
 - g)
 - h)
@@ -195,7 +195,7 @@ lép.
 
 #### 77. §
 
-#### 78. §
+78. § A Fétv. 37. § (1) bekezdésében a „megkeresés” szövegrész helyébe a „felhívás” szöveg és a „megkeresi” szövegrész helyébe a „felhívja” szöveg lép.
 
 #### 14. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 
@@ -283,9 +283,9 @@ lép.
 
 #### 115. §
 
-#### 20.
+#### 20. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény eltérő szöveggel történő hatályba léptetése
 
-#### 116. §
+116. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 74. § (1) bekezdésének a termőföld védelméről szóló 2007. évi CXXIX. törvény 2. § 1. pontját megállapító rendelkezése a „megfelelő termőföld” szövegrész helyett a „megfelelő, de hektáronként szántó esetében legfeljebb 22 AK értékű, rét esetében legfeljebb 16 AK értékű, legelő esetében legfeljebb 6 AK értékű termőföld” szöveggel lép hatályba.
 
 #### 21. A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény módosítása
 

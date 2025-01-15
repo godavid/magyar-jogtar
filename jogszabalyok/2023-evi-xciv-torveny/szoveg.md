@@ -75,7 +75,7 @@ egyes agrártárgyú törvények módosításáról
 28. § A Tfvt.
 
 - a)
-- b)
+- b) 11. § (1a) bekezdésében a „feljegyzésre” szövegrész helyébe a „bejegyzésre” szöveg,
 - c)
 - d)
 - e)
@@ -326,11 +326,11 @@ lép.
 - d)
 - e)
 - f)
-- g)
+- g) 45/B. § (7) bekezdésében a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg és a „feljegyzésnek” szövegrész helyébe a „bejegyzésnek” szöveg,
 - h)
 - i)
 - j)
-- k)
+- k) 76/A. § (4) bekezdésében a „feljegyzését” szövegrész helyébe a „bejegyzését” szöveg,
 - l)
 - m)
 - n)
@@ -343,7 +343,11 @@ lép.
 
 #### 20. Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény módosítása
 
-#### 137. §
+137. § Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény (a továbbiakban: Ögt.) 2. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Az öntözési szolgalmat a vízügyi hatóság a vízjogi létesítési vagy üzemeltetési engedélyben alapítja, amelynek az ingatlan-nyilvántartásba történő bejegyzése érdekében felhívja az ingatlanügyi hatóságot. Ha a vízilétesítmény vízjogi engedélyesének személye megváltozik, kérelmére a vízügyi hatóság megállapítja az öntözési szolgalom új jogosultját, és az erről szóló döntésnek az ingatlan-nyilvántartásban történő átvezetése érdekében felhívja az ingatlanügyi hatóságot.
+
+(4) Ha a vízjogi engedélyes a tevékenységével felhagy, a vízügyi hatóság rendelkezik az öntözési szolgalom megszüntetéséről, és e döntésnek az ingatlan-nyilvántartásban történő átvezetése érdekében felhívja az ingatlanügyi hatóságot. Ha a vízilétesítmény az ingatlan rendeltetésszerű használatát akadályozza, a vízügyi hatóság elrendeli a vízilétesítmény megszüntetését.”
 
 #### 138. §
 
@@ -353,7 +357,7 @@ lép.
 
 #### 141. §
 
-#### 142. §
+142. § Az Ögt. 9/A. § (1) bekezdésében a „feljegyzését” szövegrész helyébe a „bejegyzését” szöveg lép.
 
 #### 21. Az egyes agrártárgyú törvények módosításáról szóló 2021. évi CL. törvény módosítása
 

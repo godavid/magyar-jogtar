@@ -37,7 +37,7 @@ a termőföld védelméről
 
 2. § E törvény alkalmazásában
 
-- 1. átlagos minőségű termőföld: az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben (a továbbiakban: Inytv.) meghatározott törzskönyvben szereplő, az adott település – ideértve a fővárosi kerületet és az Inytv. 10. § (1) bekezdésében megjelölt városok esetében a kerületet – azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona-értékeinek területtel súlyozott átlagának megfelelő, de hektáronként szántó esetében legfeljebb 22 aranykorona (a továbbiakban: AK) értékű, rét esetében legfeljebb 16 AK értékű, legelő esetében legfeljebb 6 AK értékű termőföld;
+- 1. átlagos minőségű termőföld: az adott település azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona-értékeinek területtel súlyozott átlagának megfelelő, de hektáronként szántó esetében legfeljebb 22 AK értékű, rét esetében legfeljebb 16 AK értékű, legelő esetében legfeljebb 6 AK értékű termőföld;
 - 1a. bányaüzem: az ásványi nyersanyag kutatására, valamint feltárására és kitermelésére meghatározott terület;
 - 2. cél-kitermelőhely és anyagnyerő hely: a bányászatról szóló 1993. évi XLVIII. törvényben meghatározott cél-kitermelőhely és anyagnyerő hely;
 - 3. első igénybevétel: a termőföld más célú hasznosítása érdekében végzett első munkafolyamat, illetve fizikai beavatkozás;
@@ -100,13 +100,13 @@ a termőföld védelméről
 
 (5c) Az ingatlanügyi hatóság által az (1)–(4) bekezdésben foglalt kötelezettség elmulasztása miatt indított eljárásban a kötelezettnek nyilatkoznia kell az (5b) bekezdésben foglaltak fennállásáról.
 
-(6) Az ingatlanügyi hatóság az (1)–(4) bekezdésben foglalt kötelezettségek elmulasztása miatt a földvédelmi bírság megfizetésére kötelező véglegessé vált határozatának egy példányát közli a mezőgazdasági igazgatási szervvel.
+(6) Az ingatlanügyi hatóság az (1)–(4) bekezdésben foglalt kötelezettségek elmulasztása miatt a földvédelmi bírság megfizetésére kötelező véglegessé vált határozatának megküldésével értesíti a mezőgazdasági igazgatási szervet.
 
 ### A zártkerti ingatlanok hasznosításának elmulasztására vonatkozó külön szabályok
 
-5/A. § (1) Ha az ingatlanügyi hatóság a zártkerti ingatlant érintően az 5. §-ban meghatározott hasznosítási kötelezettség, illetve ideiglenes hasznosítási vagy mellékhasznosítási kötelezettség elmulasztása miatt földvédelmi bírság megfizetésére kötelező határozatot hoz, a határozat véglegessé válását követően a határozat egy példányát közli a zárkerti ingatlan fekvése szerint illetékes települési önkormányzattal, a fővárosban a fővárosi kerületi önkormányzattal (a továbbiakban együtt: önkormányzat).
+5/A. § (1) Ha az ingatlanügyi hatóság a zártkerti ingatlant érintően az 5. §-ban meghatározott hasznosítási kötelezettség, illetve ideiglenes hasznosítási vagy mellékhasznosítási kötelezettség elmulasztása miatt földvédelmi bírság megfizetésére kötelező határozatot hoz, a határozatot – annak véglegessé válását követően – közli a zárkerti ingatlan fekvése szerint illetékes települési önkormányzattal, a fővárosban a fővárosi kerületi önkormányzattal (a továbbiakban együtt: önkormányzat).
 
-(2) A településen szociális földprogramot, illetve mezőgazdasági tevékenység végzése céljából közfoglalkoztatási programot (a továbbiakban együtt: földprogram) működtető önkormányzatnak a részére megküldött, az (1) bekezdésben foglalt véglegessé vált határozatban a földvédelmi bírság megfizetésére kötelezett személyt, valamint – ha az nem azonos a tulajdonossal – a tulajdonost (a továbbiakban együtt: kötelezett) értesítenie kell arról, hogy amennyiben az értesítés kézhezvételétől számított 30 napon belül az 5. §-ban meghatározott kötelezettségének nem tesz eleget, az önkormányzat a határidő lejártát követően – az önkormányzati hatósági hatáskörben hozott határozattal – a zártkerti ingatlant 1 évre a földprogram működtetése céljából kijelölheti.
+(2) A településen szociális földprogramot, illetve mezőgazdasági tevékenység végzése céljából közfoglalkoztatási programot (a továbbiakban együtt: földprogram) működtető önkormányzatnak a részére megküldött, az (1) bekezdésben foglalt véglegessé vált határozatban a földvédelmi bírság megfizetésére kötelezett személyt, valamint – ha az nem azonos a tulajdonossal – a tulajdonost (a továbbiakban együtt: kötelezett) értesítenie kell arról, hogy amennyiben az értesítés közlésétől számított 30 napon belül az 5. §-ban meghatározott kötelezettségének nem tesz eleget, az önkormányzat a határidő lejártát követően – az önkormányzati hatósági hatáskörben hozott határozattal – a zártkerti ingatlant 1 évre a földprogram működtetése céljából kijelölheti.
 
 (2a) A (2) bekezdés szerinti értesítés egy példányát az önkormányzat közli a földvédelmi bírság megfizetésére kötelező határozatot meghozó ingatlanügyi hatósággal.
 
@@ -139,8 +139,8 @@ a termőföld védelméről
 (4) A bejelentéshez csatolni kell:
 
 - a) az (5) bekezdés szerinti újrahasznosítási tervet,
-- b) az 50. § (2) bekezdés d) pontjában előírt, a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosítást megalapozó talajvédelmi tervet, kivéve, ha a tervezett újrahasznosításra oszlophelyek vagy vonalas létesítmény megszüntetésével kerül sor, és az nem jár a talajfelszín megbontásával, illetve roncsolásával;
-- c) a tervezett újrahasznosítással kialakítandó terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból nyomtatott olyan méretarányú térképmásolatot, amelynek tartalma áttekinthető és tartalmazza a méretarány tényezőt.
+- b) az 50. § (2) bekezdés e) pontjában előírt, a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosítást megalapozó talajvédelmi tervet, kivéve, ha a tervezett újrahasznosításra oszlophelyek vagy vonalas létesítmény megszüntetésével kerül sor, és az nem jár a talajfelszín megbontásával, illetve roncsolásával;
+- c) a tervezett újrahasznosítással kialakítandó terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból szolgáltatott olyan méretarányú térképmásolatot, amelynek tartalma áttekinthető és tartalmazza a méretarány tényezőt.
 
 (4a)
 
@@ -168,7 +168,7 @@ a termőföld védelméről
 
 (12) Ha az erdészeti hatóság megállapítja, hogy az erdő telepítésének a megvalósítása bármely okból meghiúsult, és ezért az adott terület nem minősülhet az Evt. alapján erdőnek, erről a tényről az erdészeti hatóság tájékoztatja az ingatlanügyi hatóságot.
 
-6/A. § (1) Ha az ingatlanügyi hatóság hivatalból vagy más eljárás kapcsán észleli, hogy az igénybevevő az újrahasznosítást előzetes bejelentés hiányában, illetve a bejelentésnek az ingatlanügyi hatóság általi jóváhagyása nélkül valósította meg, az ingatlanügyi hatóság – az újrahasznosításról való tudomásszerzést követő 15 napon belül – határidő megjelölésével felhívja az igénybevevőt, hogy az újhasznosítással érintett földrészletre vonatkozóan dokumentálja az újrahasznosítás megvalósítása érdekében elvégzett munkafolyamatokat, az újrahasznosítással kialakult új terepviszonyokat, valamint csatolja az újrahasznosított terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból nyomtatott olyan méretarányú térképmásolatot, amelynek tartama áttekinthető és tartalmazza a méretarány tényezőt.
+6/A. § (1) Ha az ingatlanügyi hatóság hivatalból vagy más eljárás kapcsán észleli, hogy az igénybevevő az újrahasznosítást előzetes bejelentés hiányában, illetve a bejelentésnek az ingatlanügyi hatóság általi jóváhagyása nélkül valósította meg, az ingatlanügyi hatóság – az újrahasznosításról való tudomásszerzést követő 15 napon belül – határidő megjelölésével felhívja az igénybevevőt, hogy az újhasznosítással érintett földrészletre vonatkozóan dokumentálja az újrahasznosítás megvalósítása érdekében elvégzett munkafolyamatokat, az újrahasznosítással kialakult új terepviszonyokat, valamint csatolja az újrahasznosított terület adatait ábrázoló ingatlan-nyilvántartási térképi adatbázisból szolgáltatott olyan méretarányú térképmásolatot, amelynek tartama áttekinthető és tartalmazza a méretarány tényezőt.
 
 (2) Az újrahasznosítás megvalósulását az ingatlanügyi hatóság állapítja meg.
 
@@ -294,7 +294,7 @@ szerinti építményeket kell érteni.
 
 11. § (1) Termőföldet más célra csak kivételesen – elsősorban a gyengébb minőségű termőföld igénybevételével – lehet felhasználni.
 
-(1a) Olyan termőföld, melynek tulajdoni lapján fenntartható vízgazdálkodási közösség területe jogi jelleg került feljegyzésre, az igénybevevő személyétől függetlenül kizárólag a (3) bekezdés g) pontja, a 10. § (2) bekezdés a), b), d), f) és g) pontja, a 15/B. § (3) bekezdése, valamint a 21. § (3) bekezdés a), b) és f) pontja szerinti esetekben hasznosítható más célra.
+(1a) Olyan termőföld, melynek tulajdoni lapján fenntartható vízgazdálkodási közösség területe jogi jelleg került bejegyzésre, az igénybevevő személyétől függetlenül kizárólag a (3) bekezdés g) pontja, a 10. § (2) bekezdés a), b), d), f) és g) pontja, a 15/B. § (3) bekezdése, valamint a 21. § (3) bekezdés a), b) és f) pontja szerinti esetekben hasznosítható más célra.
 
 (2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetve helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető. A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás és a kiemelt közlekedési infrastruktúra-beruházással összefüggő kiemelt jelentőségű ügy esetében az átlagosnál jobb minőségű termőföld végleges más célú hasznosítása is engedélyezhető, ha annak megvalósítása más jogszabály rendelkezéseire figyelemmel más helyen vagy más nyomvonalon nem lehetséges.
 
@@ -335,7 +335,7 @@ szerinti építményeket kell érteni.
 - d) időleges más célú hasznosítás iránti kérelem esetében az 50. § (2) bekezdés d) pontjában meghatározott, az eredeti állapot helyreállítását megalapozó talajvédelmi tervet;
 - e) az illetékes hegyközség hozzájárulását, ha a kérelem a borszőlő termőhelyi kataszterébe tartozó területet érint;
 - f) a 10. § (4) bekezdése szerinti esetben a tulajdonszerzés alapjául szolgáló okirat másolatát, valamint
-- g) a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát, ha az igénybevevő nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, kivéve, ha a termőföld igénybevétele kisajátítás céljának megvalósítása érdekében szükséges, vagy ha a termőföld igénybevétele olyan, a tulajdonjog korlátozását lehetővé tevő közérdekű célt szolgál, amelynél törvény lehetővé teszi a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező hozzájáruló nyilatkozatának bíróság vagy hatóság döntésével történő pótlását.
+- g) a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát vagy annak másolatát, ha az igénybevevő nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, kivéve, ha a termőföld igénybevétele kisajátítás céljának megvalósítása érdekében szükséges, vagy ha a termőföld igénybevétele olyan, a tulajdonjog korlátozását lehetővé tevő közérdekű célt szolgál, amelynél törvény lehetővé teszi a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező hozzájáruló nyilatkozatának bíróság vagy hatóság döntésével történő pótlását.
 
 (2a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás vagy kiemelt beruházásnak minősülő közlekedési infrastruktúra-beruházás megvalósításához szükséges időleges más célú hasznosítás esetén a (2) bekezdés g) pontja szerinti hozzájárulást megadottnak kell tekinteni az olyan tulajdonos vagy haszonélvező esetében,
 
@@ -365,7 +365,7 @@ szerinti építményeket kell érteni.
 
 (3) A honvédelmi vagy rendészeti feladatok ellátásával kapcsolatos más célú hasznosításra e törvény rendelkezéseit akkor kell alkalmazni, ha törvény eltérően nem rendelkezik.
 
-(4) Az ingatlanügyi hatóság a végleges más célú hasznosítás engedélyezéséről szóló véglegessé vált határozatát tájékoztatás céljából közli az illetékes települési – a fővárosban a kerületi – önkormányzattal (a továbbiakban: önkormányzat).
+(4) Az ingatlanügyi hatóság a végleges más célú hasznosítás engedélyezéséről a véglegessé vált határozat másolatának megküldésével tájékoztatja az illetékes települési – a fővárosban a kerületi – önkormányzatot (a továbbiakban: önkormányzat).
 
 #### 13/A. §
 
@@ -386,7 +386,7 @@ szerinti építményeket kell érteni.
 
 (3) Ha az ingatlanügyi hatóság a termőföld időleges más célú hasznosítását 5 évnél rövidebb időtartamra engedélyezte, és az igénybevevő – az engedély időbeli hatálya alatt – kérelmezi az engedély időtartamának meghosszabbítását, az ingatlanügyi hatóság a kérelemnek megfelelően módosíthatja az engedélyt azzal, hogy az időleges más célú hasznosítás az engedély meghosszabbításával sem haladhatja meg a (2) bekezdésben meghatározott időtartamot.
 
-(3a) Ha az időleges más célú hasznosítás engedélyben meghatározott időtartama lejárt anélkül, hogy az igénybevevő a 10/A. § (2) bekezdése szerinti bejelentést megtette volna és az igénybevevő az engedély hatálya alatt nem kezdeményezte sem az engedély időtartamának meghosszabbítását, sem annak hatályon kívül helyezését, az ingatlanügyi hatóság az engedély időbeli hatályának lejártát követő 15 napon belül felszólítja az igénybevevőt, hogy a felhívás kézhezvételétől számított 15 napon belül nyilatkozzon az engedélyezett időleges más célú hasznosítás megkezdéséről és megvalósításáról.
+(3a) Ha az időleges más célú hasznosítás engedélyben meghatározott időtartama lejárt anélkül, hogy az igénybevevő a 10/A. § (2) bekezdése szerinti bejelentést megtette volna és az igénybevevő az engedély hatálya alatt nem kezdeményezte sem az engedély időtartamának meghosszabbítását, sem annak hatályon kívül helyezését, az ingatlanügyi hatóság az engedély időbeli hatályának lejártát követő 15 napon belül felszólítja az igénybevevőt, hogy a felhívás közlésétől számított 15 napon belül nyilatkozzon az engedélyezett időleges más célú hasznosítás megkezdéséről és megvalósításáról.
 
 (4) Az engedély jogosultja az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 
@@ -413,7 +413,7 @@ szerinti építményeket kell érteni.
 
 (4) A bejelentéshez csatolni kell:
 
-- a) az (1) bekezdésben meghatározott megállapodás vagy véglegessé vált hatósági engedély hiteles másolatát,
+- a) az (1) bekezdésben meghatározott megállapodás vagy véglegessé vált hatósági engedély másolatát,
 - b) ha a bejelentésig az eredeti állapot helyreállítása megtörtént, akkor az elvégzett munkák leírását, és az azt tartalmazó jegyzéket.
 
 (5) Ha a (4) bekezdés a) pontja szerinti iratok valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, elegendő a korábbi benyújtásra, és a korábbi ügy ügyiratszámára való hivatkozással arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratokban szereplő adatok a bejelentés időpontjáig nem változtak meg.
@@ -500,7 +500,7 @@ esetében.
 
 (8) A (7) bekezdésben foglalt esetben az ingatlan természetes személy tulajdonosának saját, illetve közeli hozzátartozóinak lakhatása szempontjából az építésügyi tárgyú jogszabályokban foglaltakat kell alkalmazni.
 
-(9) A belterületbe vonás (7) bekezdésben rögzített esetében az önkormányzatnak – a (2) bekezdésben foglaltakon túl – csatolnia a kell az ingatlan természetes személy tulajdonosának közokiratba, vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy az érintett ingatlan a saját tulajdonában áll, és azon saját, illetve közeli hozzátartozói lakhatására kíván lakóépületet létesíteni.
+(9) A belterületbe vonás (7) bekezdésben rögzített esetében az önkormányzatnak – a (2) bekezdésben foglaltakon túl – csatolnia a kell az ingatlan természetes személy tulajdonosának közokiratba, vagy teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát vagy annak másolatát arra vonatkozóan, hogy az érintett ingatlan a saját tulajdonában áll, és azon saját, illetve közeli hozzátartozói lakhatására kíván lakóépületet létesíteni.
 
 (10) Ha az ingatlan természetes személy tulajdonosa nem tesz eleget a (9) bekezdés szerinti nyilatkozatában foglaltaknak, vele szemben a 24. § (1) bekezdés f) pontja szerinti földvédelmi bírság kiszabásának van helye.
 
@@ -526,7 +526,7 @@ esetében.
 
 (6) Az újrahasznosítás bejelentése esetén az eljárásra a 6/A. § (1)–(3) bekezdésében foglaltakat kell alkalmazni azzal, hogy a 6/A. § (3) bekezdése szerinti földvédelmi bírság kiszabásának nincs helye.
 
-(7) Az újrahasznosítás elfogadásáról szóló határozat alapján, annak véglegessé válását követő 60 napon belül, a jogosult kérheti az újrahasznosítás elfogadásáról rendelkező határozatban szereplő, az újrahasznosítást követően kialakult termőföldre, annak minősége és aranykorona-értéke alapján az 1. melléklet 1. pontja alapján kiszámított földvédelmi járulék 50%-ának megfelelő pénzösszeg megfizetését, feltéve, hogy a jogosult a cél-kitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban a végleges más célú hasznosításért megállapított földvédelmi járulékot maradéktalanul megfizette. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelmet ahhoz az ingatlanügyi hatósághoz kell benyújtani, amely az újrahasznosítás elfogadásáról szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
+(7) Az újrahasznosítás elfogadásáról szóló határozat alapján, annak véglegessé válását követő 60 napon belül, a jogosult kérheti az újrahasznosítás elfogadásáról rendelkező határozatban szereplő, az újrahasznosítást követően kialakult termőföldre, annak minősége és aranykorona-értéke alapján az 1. melléklet 1. pontja alapján kiszámított földvédelmi járulék 50%-ának megfelelő pénzösszeg megfizetését, feltéve, hogy a jogosult a cél-kitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban a végleges más célú hasznosításért megállapított földvédelmi járulékot maradéktalanul megfizette. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az újrahasznosítás elfogadásáról szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
 
 ### Kisajátítás alapjául szolgáló közérdekű cél megvalósításához szükséges más célú hasznosítás engedélyezésére vonatkozó különös szabályok
 
@@ -576,7 +576,7 @@ esetében.
 
 (7) Az igénybevevőt a termőföld eredeti állapotba történő helyreállítására kell kötelezni, kivéve, ha az ingatlanügyi hatóság a (8) bekezdésben, vagy a 17. § (1d) bekezdésben meghatározott kérelemre a végleges más célú hasznosítás folytatásához hozzájárul (a továbbiakban: utólagos hozzájárulás). Az ingatlanügyi hatóságnak a termőföld végleges más célú hasznosítás folytatásához adott utólagos hozzájárulása a termőföld végleges más célú hasznosítására kiadott engedélynek minősül.
 
-(8) Az igénybevevő a végleges más célú hasznosítás utólagos hozzájárulása iránti kérelmét a (4) bekezdésben meghatározott értesítés kézhezvételétől számított 15 napon belül terjesztheti elő.
+(8) Az igénybevevő a végleges más célú hasznosítás utólagos hozzájárulása iránti kérelmét a (4) bekezdésben meghatározott értesítés közlésétől számított 15 napon belül terjesztheti elő.
 
 (9) A végleges más célú hasznosítás utólagos hozzájárulása iránti kérelem előterjesztése esetén, ha az igénybevevő nem a tulajdonos, vagy haszonélvezet fennállása esetén a haszonélvező, az ingatlanügyi hatóság – a (10) bekezdésben meghatározott eset kivételével – nyilatkozattételre hívja fel a tulajdonost vagy haszonélvezet fennállása esetén a haszonélvezőt arról, hogy a termőföld végleges más célú hasznosításához hozzájárul-e. A tulajdonosi vagy haszonélvezet fennállása esetén a haszonélvezői hozzájáruló nyilatkozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére. Közös tulajdonban lévő termőföld esetén valamennyi tulajdonostárs, több haszonélvező esetén valamennyi haszonélvező egyhangú hozzájáruló nyilatkozata szükséges.
 
@@ -760,7 +760,7 @@ esedékes.
 
 (5) A járulék fizetése alól felmentés nem adható és részletfizetési vagy egyéb kedvezmény sem engedélyezhető.
 
-(6) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósult meg, és a más célú hasznosításról szóló engedély időbeli hatálya már lejárt, a járulék megfizetésének esedékessé válása napjától számított 4 éven belül a járulékkülönbözet visszafizetését kérheti az igénybevevő. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelmet ahhoz az ingatlanügyi hatósághoz kell benyújtani, amely az engedélyről szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
+(6) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósult meg, és a más célú hasznosításról szóló engedély időbeli hatálya már lejárt, a járulék megfizetésének esedékessé válása napjától számított 4 éven belül a járulékkülönbözet visszafizetését kérheti az igénybevevő. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az újrahasznosítás elfogadásáról szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
 
 (6a) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósult meg, és a más célú hasznosításról szóló engedély időbeli hatálya még nem járt le, az igénybevevő a (6) bekezdésben meghatározottak szerint kérheti a járulékkülönbözet visszafizetését, azzal, hogy a kérelmében nyilatkoznia kell arról, hogy az engedélyezett, de más célra nem hasznosított termőföld más célú hasznosításának jogosultságáról lemond.
 
@@ -773,7 +773,7 @@ esedékes.
   - ba) igénybevételére, illetve
   - bb) belterületbe vonás engedélyezése esetén a fekvéshatár-változásnak, beruházási terület, illetve beruházási célterület céljára történő engedélyezés esetén a művelésiág-változásnak az ingatlan-nyilvántartásban történő átvezetésére nem került sor,
 
-a földvédelmi járulékot megfizető személy vagy szervezet a járulék összegének visszafizetését az engedély hatályának lejárta napját követő 1 éven belül kérheti. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelmet ahhoz az ingatlanügyi hatósághoz kell benyújtani, amely az engedélyről szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
+a földvédelmi járulékot megfizető személy vagy szervezet a járulék összegének visszafizetését az engedély hatályának lejárta napját követő 1 éven belül kérheti. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az újrahasznosítás elfogadásáról szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
 
 23. § (1) A járulék felét kell fizetni, ha a termőföldet engedély alapján és annak megfelelően
 
@@ -910,8 +910,8 @@ szóló véglegessé vált határozatban szereplő földrészleteken.
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
 - a) a járulékmentességet élvező, valamint a járulék és bírság megfizetésére kötelezett igénybevevő (ezen alcím alkalmazásában a továbbiakban együtt: igénybevevő)
-  - aa) természetes személy esetén a természetes személyazonosító adatait és lakcímét,
-  - ab) nem természetes személy esetén megnevezését, statisztikai azonosítóját és székhelyét;
+  - aa) természetes személy természetes személyazonosító adatait, lakcímét, és 2026. december 31-ig a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy személyi azonosítóját,
+  - ab) nem természetes személy megnevezését, adószámát, statisztikai azonosítóját, székhelyét, és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszámát;
 - b) az érintett földrészlet(ek) megjelölését (település, fekvés, helyrajzi szám);
 - c) a más célú hasznosítással érintett területet földrészletenkénti, azon belül művelési ág és minőségi osztály szerinti bontásban;
 - d) a járulékmentességet, illetve a fizetési kötelezettséget megállapító határozat számát és véglegessé válásának időpontját;
@@ -941,7 +941,9 @@ termőföldekről minőségi osztály szerinti bontásban, a 4. melléklet szeri
 
 felhasználására.
 
-(5) Az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás szerveitől természetes személyazonosító adatok, illetve lakcím alapján a természetes személy igénybevevő azonosításához díjmentesen igényelheti a (2) bekezdés a) pont aa) alpontjában foglalt adatokat.
+(5) Az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás szerveitől természetes személyazonosító adatok, 2026. december 31-ig személyi azonosító és lakcím alapján a természetes személy igénybevevő azonosításához díjmentesen igényelheti a (2) bekezdés a) pont aa) alpontjában foglalt adatokat.
+
+(5a) Az ingatlanügyi hatóság a cégnyilvántartásból a cég megnevezése, adószáma, statisztikai azonosítója és cégjegyzékszáma alapján a nem természetes személy igénybevevő azonosításához díjmentesen igényelheti a (2) bekezdés a) pont ab) alpontjában foglalt adatokat.
 
 (6) Az ingatlanügyi hatóság a (4) bekezdésben meghatározott nyilvántartásokból átvett, illetve lekérdezett adatokat kizárólag az e törvényben meghatározott feladatának ellátásához használhatja fel.
 
@@ -1579,6 +1581,9 @@ A 26/A. § (2a) bekezdése szerinti nyilvántartás a következő adatokat tarta
 - 14. az engedélyező határozat száma;
 - 15. az engedély véglegessé válásának időpontja;
 - 16. az engedély hatályon kívül helyezésének időpontja.
+- 17. az igénybevevő
+- 17.1. természetes személy természetes személyazonosító adatai, lakcíme és 2026. december 31-ig a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy személyi azonosítója,
+- 17.2. nem természetes személy megnevezése, adószáma, statisztikai azonosítója, székhelye, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszáma.
 
 ### 5. melléklet a 2007. évi CXXIX. törvényhez
 
@@ -1600,3 +1605,6 @@ A 26/A. § (2a) bekezdése szerinti nyilvántartás a következő adatokat tarta
 - 14. az eredeti állapot helyreállítása bejelentésének napja;
 - 15. az eredeti állapot helyreállításának elfogadásáról rendelkező határozat száma;
 - 16. az eredeti állapot helyreállításának elfogadásáról rendelkező határozat véglegessé válásának napja.
+- 17. az igénybevevő
+- 17.1. természetes személy természetes személyazonosító adatai, lakcíme és 2026. december 31-ig a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy személyi azonosítója,
+- 17.2. nem természetes személy megnevezése, adószáma, statisztikai azonosítója, székhelye, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszáma.

@@ -17,9 +17,9 @@ Az Országgyűlés a természeti erőforrások megóvása, a mezőgazdaság alka
 
 (2) Az öntözési szolgalom a vízjogi engedélyben meghatározott engedélyest addig illeti meg, amíg a vízjogi engedély alapján folytatja tevékenységét.
 
-(3) Az öntözési szolgalmat a vízügyi hatóság a vízjogi létesítési vagy üzemeltetési engedélyben alapítja, amelyet az ingatlan-nyilvántartásba történő bejegyzés érdekében megküld az ingatlanügyi hatóságnak. Ha a vízilétesítmény vízjogi engedélyesének személye megváltozik, kérelmére a vízügyi hatóság megállapítja az öntözési szolgalom új jogosultját és az erről szóló döntését az ingatlan-nyilvántartásban történő átvezetés érdekében megküldi az ingatlanügyi hatóságnak.
+(3) Az öntözési szolgalmat a vízügyi hatóság a vízjogi létesítési vagy üzemeltetési engedélyben alapítja, amelynek az ingatlan-nyilvántartásba történő bejegyzése érdekében felhívja az ingatlanügyi hatóságot. Ha a vízilétesítmény vízjogi engedélyesének személye megváltozik, kérelmére a vízügyi hatóság megállapítja az öntözési szolgalom új jogosultját, és az erről szóló döntésnek az ingatlan-nyilvántartásban történő átvezetése érdekében felhívja az ingatlanügyi hatóságot.
 
-(4) Ha a vízjogi engedélyes a tevékenységével felhagy, a vízügyi hatóság rendelkezik az öntözési szolgalom megszüntetéséről, és e döntését az ingatlan-nyilvántartásban történő átvezetés érdekében megküldi az ingatlanügyi hatóságnak. Ha a vízilétesítmény az ingatlan rendeltetésszerű használatát akadályozza, a vízügyi hatóság elrendeli a vízilétesítmény megszüntetését.
+(4) Ha a vízjogi engedélyes a tevékenységével felhagy, a vízügyi hatóság rendelkezik az öntözési szolgalom megszüntetéséről, és e döntésnek az ingatlan-nyilvántartásban történő átvezetése érdekében felhívja az ingatlanügyi hatóságot. Ha a vízilétesítmény az ingatlan rendeltetésszerű használatát akadályozza, a vízügyi hatóság elrendeli a vízilétesítmény megszüntetését.
 
 3. § (1) Az ingatlan tulajdonosát a 2. § (1) bekezdése szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. A kártalanítás az ingatlan tulajdonosát
 
@@ -100,7 +100,7 @@ illeti meg.
 
 (3) Az öntözési körzet az öntözési igazgatási szervnek az (1) és (2) bekezdésnek megfelelő javaslata alapján csak a fenntartható vízgazdálkodási közösség tagjai által öntözni kívánt egymástól elkülönülő, vagy a közösség tagjai használatában nem álló közbeékelődött területeket is magába foglaló körbehatárolt külterületi földterületeken jelölhető ki. Az öntözési körzet a 7. § (2) bekezdés a) pontja szerinti esetben legfeljebb 10 000 hektár, a b) pontja szerinti esetben legfeljebb 1 000 hektár területen jelölhető ki azzal, hogy a körzet határának két legtávolabbi pontja egymástól – légvonalban mérve – legfeljebb 20 kilométerre lehet.
 
-9/A. § (1) A miniszter a fenntartható vízgazdálkodási közösség elismeréséről szóló döntés véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg feljegyzését a közösség tagjai által öntözendő ingatlanok tulajdoni lapján.
+9/A. § (1) A miniszter a fenntartható vízgazdálkodási közösség elismeréséről szóló döntés véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg bejegyzését a közösség tagjai által öntözendő ingatlanok tulajdoni lapján.
 
 (2) A miniszter az e törvény végrehajtásáról szóló kormányrendeletben foglaltaknak megfelelő változásbejelentés alapján hozott, a fenntartható vízgazdálkodási közösség elismerését módosító döntés véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a bekövetkezett változás átvezetését az érintett ingatlanok tulajdoni lapján.
 

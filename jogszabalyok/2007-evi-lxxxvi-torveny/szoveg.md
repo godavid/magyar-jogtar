@@ -3246,13 +3246,19 @@ kérhet.
 
 122. § (1) A közcélú hálózat létesítésével kapcsolatban a hálózati engedélyes előmunkálati jog engedélyezése iránti kérelmet nyújthat be a Hatósághoz.
 
+(1a) A Hatóság a véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot az előmunkálati jog ingatlan-nyilvántartásba történő bejegyzésére.
+
 (2) Az előmunkálati jog alapján az ingatlan tulajdonosa köteles tűrni, hogy ingatlanán a szükséges jeleket elhelyezzék, a méréseket és a talajvizsgálatot elvégezzék. Az előmunkálatok megkezdése előtt az ingatlan tulajdonosát a hálózati engedélyes az előmunkálatokról és azok megkezdésének időpontjáról értesíti.
+
+122/A. § (1) Az előmunkálati jog megszűnését a Hatóság az engedélyes bejelentésére, a tulajdonos kérelmére, vagy egyéb módon történő tudomásszerzés esetén hivatalból állapítja meg. Az engedélyes a megszűnést követő 30 napon belül az előmunkálati jog megszűnését bejelenti a Hatóságnak.
+
+(2) Az előmunkálati jog megszűnése esetén a Hatóság az előmunkálati jog megszűnését megállapító véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot az előmunkálati jog ingatlan-nyilvántartásból történő törlésére.
 
 ### Vezetékjog
 
 123. § (1) A közcélú hálózat nyomvonalát belterületen úgy kell kijelölni és megtervezni, hogy az közterületen haladjon és nem köztulajdonban lévő ingatlant csak akkor érintsen, ha a beruházás műszaki okokból máshol nem, vagy csak aránytalan költséggel lenne megvalósítható.
 
-(2) A 116. § (3) bekezdés d) és f) pontja szerinti villamosmű az építésére szolgáló és a biztonsági övezetével érintett ingatlan tulajdonosának hozzájárulása alapján is építhető. Ha az ingatlan közös tulajdonban áll, a hozzájáruláshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. Amennyiben az építés termőföldet érint, ahhoz a termőföld más célú hasznosításának engedélyezéséről szóló ingatlanügyi hatósági határozat szükséges.
+(2) A 116. § (3) bekezdés d) és f) pontja szerinti villamosmű az építésére szolgáló és a biztonsági övezetével érintett ingatlan tulajdonosának hozzájárulása alapján is építhető. Ha az ingatlan közös tulajdonban áll, a hozzájáruláshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. Ha az építés termőföldet érint, ahhoz a termőföld más célú hasznosításának engedélyezéséről szóló ingatlanügyi hatósági határozat szükséges. A vezetékjog létrejöttét a Hatóság állapítja meg.
 
 (2a) A (2) bekezdés szerinti hozzájárulást megadottnak, valamint a (3b) bekezdése szerint megküldött nyomvonal-kijelölési dokumentációt közöltnek kell tekinteni az olyan tulajdonos, tulajdonostárs, kezelő, vagyonkezelő esetében, akinek a részére a hozzájárulás kérésének vagy a nyomvonal-kijelölési dokumentációnak közlése a hálózati engedélyes részéről
 
@@ -3275,7 +3281,7 @@ kérhet.
 
 (3b) A hatósági vezetékjogi engedélyezési eljárást megelőző előkészítő eljárás során a nyomvonal-kijelölési dokumentációt az érintett hatóságok, szakhatóságok, valamint a nyomvonallal és a biztonsági övezettel érintett közművek, kezelők, üzemeltetők, ingatlantulajdonosok és vagyonkezelők részére kell megküldeni. A nyomvonallal és a biztonsági övezettel érintett közművek, kezelők, üzemeltetők, ingatlantulajdonosok és vagyonkezelők a megküldött nyomvonal-kijelölési dokumentációval és a tervezett közcélú hálózat létesítésével kapcsolatos nyilatkozatuk, hozzájárulásuk kiadása kapcsán ügyintézési vagy egyéb díj, illetve költség megfizetését nem kérhetik.
 
-(4) A (2) bekezdés szerinti hozzájárulás az e törvény szerint a vezetékjog alapján fennálló jogokkal és kötelezettségekkel azonos – az ingatlan-nyilvántartásba az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § e) pontja szerint bejegyzendő – jogokat és kötelezettségeket keletkeztet. A tulajdonosi hozzájárulás nem vonható vissza.
+(4) A (2) bekezdés szerinti hozzájáruláson alapuló vezetékjog a 124–126. §-ban meghatározott jogokat és kötelezettségeket foglalja magában. A tulajdonosi hozzájárulás nem vonható vissza.
 
 (5) A rendszerhasználónak a hálózati engedélyes részére a hálózati csatlakozásra vonatkozóan tett igénybejelentését a rendszerhasználó tulajdonában lévő ingatlan esetén a csatlakozó berendezés építésére vonatkozó hozzájárulásnak kell tekinteni.
 
@@ -3302,9 +3308,9 @@ kérhet.
 
 (6) Ha a (2) bekezdés a) pontja szerinti hálózatátalakítás, felújítás, fejlesztés során új hálózati elem, berendezés kerül a vezetékjoggal rendelkező hálózat nyomvonalán vagy oly módon kerül elhelyezésre, hogy az új hálózati elem vagy berendezés létesítése az eddig fennálló biztonsági övezet méretét nem növeli, az új hálózati elem vagy berendezés vonatkozásában új vezetékjogi eljárást nem kell lefolytatni, azok a meglévő vezetékjogi engedély birtokában üzemeltethetőek.
 
-125. § (1) A Hatóság a véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A vezetékjog a jogerős határozat alapján a bejegyzés előtt is gyakorolható.
+125. § (1) A Hatóság a véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzésére. Ha a vezetékjog nem az egész földrészletet érinti, a Hatóság a határozathoz mellékeli az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A vezetékjog a véglegessé vált határozat alapján, az ingatlan-nyilvántartási bejegyzés előtt is gyakorolható.
 
-(2) Ha a vezetékjog a 123. § (2) bekezdés szerinti hozzájárulás alapján jön létre, a vezetékjog ingatlan-nyilvántartásba történő bejegyzését a hálózati engedélyes kéri.
+(2) Ha a vezetékjog a 123. § (2) bekezdése szerinti hozzájárulás alapján jön létre, a Hatóság a vezetékjog létrejöttét megállapító véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzésére. Ha a vezetékjog nem az egész földrészletet érinti, a Hatóság a határozathoz mellékeli az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
 
 (3) A vezetékjog a határozat véglegessé válásától, illetve tulajdonosi hozzájárulás megadásától kezdődően az ingatlan-nyilvántartásba történő bejegyzés előtt is gyakorolható.
 
@@ -3312,13 +3318,13 @@ kérhet.
 
 (2) Az (1) bekezdés szerinti határozat hiányában a vezetékjog ingatlan-nyilvántartásból való törlése iránt az engedélyes jár el az ingatlanügyi hatóság felé és nyilatkozatával törölteti a bejegyzett vezetékjogot.
 
-(3) A vezetékjog megszűnése esetén a Hatóság a vezetékjog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlése iránt.
+(3) A vezetékjog megszűnése esetén a Hatóság a vezetékjog megszűnését megállapító véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlésére.
 
 ### Használati jog
 
 127. § (1) A hálózati engedélyes idegen ingatlanon közcélú hálózathoz tartozó, nem tartószerkezeten elhelyezett, külön jogszabályban meghatározott átalakító- és kapcsolóberendezés építésére a használati jog birtokában kérheti a Hatóságtól az építési engedély megadását.
 
-(2) A használati jog az idegen ingatlan tulajdonosával kötött megállapodás alapján keletkezik. Ha az építése helyéül szolgáló ingatlan közös tulajdonban áll, a megállapodáshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. A használati jog alapítására egyebekben a Ptk. rendelkezései az irányadók.
+(2) A használati jog az idegen ingatlan tulajdonosával kötött megállapodás és annak ingatlan-nyilvántartási bejegyzése alapján keletkezik. Ha az építése helyéül szolgáló ingatlan közös tulajdonban áll, a megállapodáshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. A használati jog alapítására egyebekben a Ptk. rendelkezései az irányadók.
 
 (2a) A (2) bekezdés szerinti megállapodás megkötéséhez való hozzájárulást megadottnak kell tekinteni az olyan tulajdonos, tulajdonostárs esetében, akinek a részére a megállapodás tervezetének közlése
 
@@ -3339,7 +3345,7 @@ kérhet.
 
 (4) Közterületen elhelyezett, az (1) bekezdés szerinti átalakító- és kapcsolóberendezésre használati jogot nem kell alapítani. Az ilyen terület igénybevételére az érintetteknek megállapodást kell kötni.
 
-128. § (1) A megállapodáson alapuló használati jog ingatlan-nyilvántartásba történő bejegyzését a megállapodás alapján a hálózati engedélyes köteles kérni. Határozaton alapuló használati jog esetén a Hatóság a véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a használati jog nem az egész földrészletet érinti, akkor a kérelemhez, illetőleg a jogerős hatósági határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A megállapodáson alapuló használati jog bejegyzésének késedelme a jog gyakorlását nem érinti. A hatósági határozaton alapuló használati jog a jogerős közigazgatási határozat alapján a bejegyzés előtt is gyakorolható.
+128. § (1) A megállapodáson alapuló használati jog ingatlan-nyilvántartásba történő bejegyzését a megállapodás alapján a hálózati engedélyes köteles kérni. Határozaton alapuló használati jog esetén a Hatóság a véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzésére. Amennyiben a használati jog nem az egész földrészletet érinti, akkor a kérelemhez, illetőleg a jogerős hatósági határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A megállapodáson alapuló használati jog bejegyzésének késedelme a jog gyakorlását nem érinti. A hatósági határozaton alapuló használati jog a jogerős közigazgatási határozat alapján a bejegyzés előtt is gyakorolható.
 
 (2) A hatósági határozaton alapuló használati jog a mindenkori engedélyest illeti meg, az engedélyes névváltozása, jogutódlás vagy az engedélyes személyében bekövetkezett változás esetén az engedélyes a Hatóságot a változás bekövetkezésétől számított 30 napon belül értesíti.
 
@@ -3347,15 +3353,15 @@ kérhet.
 
 (2) A Hatóság az építési engedély hatályát a hálózati engedélyes által a hatály lejárta előtt benyújtott kérelem alapján, külön jogszabályban meghatározott esetben, legfeljebb két évvel meghosszabbíthatja, amennyiben az engedély a meghosszabbítás idején hatályban lévő jogszabályi előírásoknak megfelel.
 
-(3) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használati jog esetén a Hatóság a használati jog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog törlése iránt.
+(3) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használati jog esetén a Hatóság a használati jog megszűnését megállapító véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásból történő törlésére.
 
 #### 130. §
 
 ### Erőművek építése idegen ingatlanon
 
-131. § (1) Az építtető idegen ingatlanon erőmű építésére abban az esetben kérheti a Hatóságtól az építési engedély megadását, ha az erőmű elhelyezésére szolgáló ingatlanra vonatkozó építési jogosultságát hitelt érdemlő módon külön jogszabályban meghatározott okirattal igazolja.
+131. § (1) Az építtető idegen ingatlanon erőmű építésére a Hatóságtól építési engedélyt kérhet, ha az erőmű idegen ingatlanon történő elhelyezését biztosító az idegen ingatlan tulajdonosával a Ptk. szerint megkötött megállapodáson alapuló használati szolgalom fennáll.
 
-(2) A külön törvényben meghatározottak szerint a termelői engedélyes vagy az építtető szolgalmi jog alapítását kérheti az erőmű céljára szolgáló függőpálya (függősín, sodronykötélpálya) és tartószerkezeteinek, közvetlen vezeték, valamint a bányától, a szénhidrogénmezőtől továbbá a megújuló energiaforrástól a termelői engedélyeshez elsődleges energiaforrást szállító szállítószalag, szénhidrogén szállítóvezeték idegen ingatlanon történő elhelyezéséhez és üzemeltetéséhez.
+(2) A külön törvényben meghatározottak szerint a termelői engedélyes vagy az építtető vezetékszolgalom és használati szolgalom alapítását kérheti az erőmű céljára szolgáló függőpálya (függősín, sodronykötélpálya) és tartószerkezeteinek, közvetlen vezeték, valamint a bányától, a szénhidrogénmezőtől továbbá a megújuló energiaforrástól a termelői engedélyeshez elsődleges energiaforrást szállító szállítószalag, szénhidrogén szállítóvezeték idegen ingatlanon történő elhelyezéséhez és üzemeltetéséhez.
 
 (3)
 
@@ -3365,11 +3371,11 @@ idegen ingatlanon
 
 132. § (1) Az 50 MW feletti teljesítményű erőművek és a megújuló energiaforrást hasznosító erőművek termelői vezetékeinek idegen ingatlanon történő elhelyezésére az építtető vagy a termelői vezeték engedélyese javára a Hatóság előmunkálati és vezetékjogot engedélyezhet, ha az ingatlan használatát az lényegesen nem akadályozza. Az építtető vagy a termelői vezeték engedélyese az előmunkálati jog alapján a 122. § (2) bekezdésében és a vezetékjogi engedély alapján a 124–126. §-ban foglalt jogokkal bír, és az ezekben a rendelkezésekben meghatározott kötelezettségek terhelik.
 
-(2) Az (1) bekezdésben említett vezetékek kivételével az építtető, illetve a termelői, magán- vagy közvetlen vezeték engedélyese, magánvezeték vagy közvetlen vezeték idegen ingatlanon történő elhelyezésére az idegen ingatlan tulajdonosával a Ptk. rendelkezései szerint kötött megállapodás birtokában kérheti a Hatóságtól az építési engedély megadását.
+(2) Az (1) bekezdésben említett vezetékek kivételével az építtető, illetve a termelői, magán- vagy közvetlen vezeték engedélyese, magánvezeték vagy közvetlen vezeték idegen ingatlanon történő elhelyezésére az idegen ingatlan tulajdonosával a Ptk. rendelkezései szerint kötött megállapodáson alapuló vezetékszolgalom alapján kérheti a Hatóságtól az építési engedély megadását.
 
 ### Ideiglenes vezeték építése idegen ingatlanon
 
-132/A. § A közcélú hálózatra csatlakozást kérő az ideiglenes vezeték idegen ingatlanon – ideértve a közterületet is – történő elhelyezésére az idegen ingatlan tulajdonosával a Ptk. rendelkezései szerint kötött megállapodás birtokában kérheti a Hatóságtól az építési engedély megadását.
+132/A. § A közcélú hálózatra csatlakozást kérő az ideiglenes vezeték idegen ingatlanon – ideértve a közterületet is – történő elhelyezésére az idegen ingatlan tulajdonosával a Ptk. rendelkezései szerint kötött megállapodáson alapuló vezetékszolgalom alapján kérheti a Hatóságtól az építési engedély megadását.
 
 ### Integrált építési és környezetvédelmi engedélyezési eljárás
 

@@ -330,15 +330,21 @@ lép.
 
 #### 61. A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosítása
 
-#### 101. §
+101. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény a következő 7/M. §-sal egészül ki:
+
+„7/M. § (1) Azon köztulajdonban álló gazdasági társaság tekintetében, amely az állam többségi tulajdonában áll a Kormány rendeletében előírhatja, hogy e gazdasági társaság munkavállalói részére a munkáltatói intézkedéseket elektronikus dokumentumba foglalva, a digitális államról és digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény III. Fejezetében meghatározottak szerint kell kézbesíteni azzal, hogy felhasználó alatt a munkavállalót, digitális szolgáltatást biztosító szervezet alatt a gazdasági társaságot kell érteni.
+
+(2) Az (1) bekezdés szerinti kapcsolattartásra a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 72. §-át alkalmazni kell.”
 
 #### 102. §
 
 #### 103. §
 
-#### 104. §
+104. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 11. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 105. §
+„(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 7/M. § szerinti elektronikus kapcsolattartásra kötelezett gazdasági társaságok körét, továbbá az elektronikus kapcsolattartás e gazdasági társaságokra vonatkozó részletes szabályait.”
+
+105. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 8. § (7) bekezdésében az „5–7. §-át” szövegrész helyébe az „5–7. §-át, valamint 7/M. §-át” szöveg lép.
 
 #### 62.
 
@@ -640,7 +646,17 @@ lép.
 
 #### 112. A pedagógusok új életpályájáról szóló 2023. évi LII. törvény módosítása
 
-#### 204. §
+204. § A pedagógusok új életpályájáról szóló 2023. évi LII. törvény 20. §-a a következő (5)–(9) bekezdéssel egészül ki:
+
+„(5) A kinevezési okmányt és annak módosítását, a jogviszony megszüntetésével kapcsolatos jognyilatkozatot, az összeférhetetlenség megszüntetésére irányuló felszólítást és a fizetési felszólítást a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kell kiadmányozni.
+
+(6) Az (5) bekezdés szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény (a továbbiakban: Dáptv.) III. Fejezetét a (8) bekezdésben foglalt eltéréssel kell alkalmazni azzal, hogy felhasználó alatt a köznevelésben foglalkoztatottat, a digitális szolgáltatást biztosító szervezet alatt a munkáltatót kell érteni.
+
+(7) A köznevelésben foglalkoztatott köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A köznevelési foglalkoztatotti jogviszonyban álló e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
+
+(8) A Dáptv. 27. §-ától eltérően a jogviszonyt azonnali hatállyal megszüntető munkáltatói intézkedést tartalmazó irat a címzett (7) bekezdés szerinti tárhelyére történő megküldésről szóló értesítési igazolásban foglalt időpontban minősül kézbesítettnek.
+
+(9) Ha az elektronikus dokumentum elektronikus kézbesítése vagy a kézbesítési fikció szabályainak alkalmazása bármely okból nem lehetséges, vagy az a jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papíralapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papíralapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A köznevelési foglalkoztatotti jogviszonyban állóval a papíralapú kiadmányt kell közölni.”
 
 #### 205. §
 

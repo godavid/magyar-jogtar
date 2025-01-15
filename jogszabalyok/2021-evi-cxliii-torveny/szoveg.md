@@ -14,7 +14,7 @@ Az Országgyűlés célja a családtagok részvételével, erőforrásaik közö
 
 2. § E törvény alkalmazásában:
 
-- a) gazdaság: a gazdaság működtetését szolgáló,
+- a) gazdaság: minden, a gazdaság működtetését szolgáló,
   - aa) a gazdaságátadó tulajdonában vagy használatában álló mező-, erdőgazdasági hasznosítású föld – ideértve a tanyát is – a 3. § (3) bekezdésének figyelembevételével,
   - ab) a gazdaságátadó tulajdonában vagy használatában álló, mező- és erdőgazdasági tevékenység folytatásához szükséges egyéb ingatlanok,
   - ac) a gazdaságátadó tulajdonában vagy használatában álló, mező- és erdőgazdasági tevékenység folytatásához szükséges ingó dolgok, amelyekre nézve a gazdaságátadót megilleti a termelés szervezésének, valamint – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása kivételével – a termelés eredménye felhasználásának a jogosultsága,
@@ -23,11 +23,15 @@ Az Országgyűlés célja a családtagok részvételével, erőforrásaik közö
   - af) aa)–ae) pontokban meghatározott vagyonelemekhez kapcsolódó jogok és kötelezettségek;
 - b) gazdaságátadó: az az öregségi nyugdíjkorhatárt elért vagy a szerződés megkötésétől számítva legfeljebb 5 éven belül elérő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki
   - ba) saját vagy jogelődjének tevékenységi idejével egybeszámítva legalább 10 évig saját nevében és saját kockázatára mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytatott, és ebből igazoltan árbevétele származott, valamint
-  - bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a gazdaságátadás időpontját megelőzően legalább 5 éve tulajdonosi földhasználója – az 5 éven belül szerzett mező-, erdőgazdasági hasznosítású föld kivételével –, vagy más jogcímen a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója, ezen személy közeli hozzátartozója vagy a földhasználóként vagy erdőgazdálkodóként bejegyzett mezőgazdasági termelőszervezet legalább 25%-ban tulajdonosa.
+  - bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a gazdaságátadási szerződés megkötését megelőzően legalább 5 éve tulajdonosi földhasználója – az 5 éven belül szerzett mező-, erdőgazdasági hasznosítású föld kivételével –, vagy más jogcímen a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója;
 - c) gazdaságátvevő: az a gazdaságátadónál legalább tíz évvel fiatalabb, az 50. életévét el nem érő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki az átvenni kívánt gazdaság működtetésére a jogszabályban előírt feltételeknek megfelel és aki
   - ca) a gazdaságátadóval a családi gazdaságokról szóló törvényben meghatározott hozzátartozói láncolatban áll, vagy
   - cb) a gazdaságátadóval legalább 7 éve munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
 - d) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, valamint a személyes közreműködéssel járó gazdasági társasági tevékenység.
+- e) mező-, erdőgazdasági tevékenység: növénytermesztés, kertészet, állattartás, állattenyésztés, halgazdálkodás, szaporítóanyag-termesztés, vadgazdálkodás, erdőgazdálkodás, valamint a kiegészítő tevékenységgel vegyesen végzett gazdálkodás;
+- f) kiegészítő tevékenység: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 5. § 14. pontja szerinti fogalom.
+
+2/A. § A 2. § b) pont bb) alpontja szerinti, legalább 5 éves földhasználói vagy erdőgazdálkodói minőség időtartamába beleszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint a gazdaságátadó közeli hozzátartozója vagy a legalább 25%-ban a gazdaságátadó tulajdonában álló, földhasználóként vagy erdőgazdálkodóként bejegyzett mezőgazdasági termelőszervezet használta.
 
 ### II. Fejezet — GAZDASÁGÁTADÁSI SZERZŐDÉS
 
@@ -42,7 +46,7 @@ Az Országgyűlés célja a családtagok részvételével, erőforrásaik közö
 - c) a gazdaságátvevő a gazdaságátadó, illetve a gazdaságátadó által megjelölt személy haláláig körülményeinek és szükségleteinek megfelelő ellátásra, gondozásra, a gazdaságátadó a gazdaság tulajdonjogának és a gazdasághoz kapcsolódó vagyoni értékű jogok átruházására köteles (a továbbiakban: gazdaságátadási tartási szerződés), vagy
 - d) a gazdaságátvevő a gazdaságátadó haláláig meghatározott pénzösszeg vagy más helyettesíthető dolog időszakonként visszatérő szolgáltatására a gazdaságátadó a gazdaság tulajdonjogának és a gazdasághoz kapcsolódó vagyoni értékű jogok átruházására köteles (a továbbiakban: gazdaságátadási életjáradéki szerződés).
 
-(3) A felek megállapodhatnak akként, hogy a gazdaságátadó a tulajdonában és használatában is álló mező- és erdőgazdasági földek vagy azok egy részének használatát a Földforgalmi törvény szerinti haszonbérlet, szívességi földhasználat vagy erdőnek minősülő föld esetében a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben (a továbbiakban: Fétv.) meghatározott jogcímen átengedi a gazdaságátvevőnek. Ebben az esetben a (2) bekezdésben meghatározott gazdaságátadási szerződés alapján a gazdaságátadó a (2) bekezdésben meghatározott kötelezettsége mellett a gazdaságátadási szerződésben meghatározott mező- és erdőgazdasági föld használatát átengedi, a gazdaságátvevő a (2) bekezdésben meghatározott kötelezettsége mellett a földet használatba veszi és – szívességi földhasználat kivételével – haszonbért fizet, vagy a Fétv. alapján meghatározott szolgáltatást, ellenszolgáltatást teljesít.
+(3) A felek megállapodhatnak akként, hogy a gazdaságátadó a tulajdonában és használatában is álló mező- és erdőgazdasági hasznosítású földek használatát a Földforgalmi törvény szerinti haszonbérlet, szívességi földhasználat vagy erdőnek minősülő föld esetében a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben (a továbbiakban: Fétv.) meghatározott jogcímen átengedi a gazdaságátvevőnek. Ebben az esetben a (2) bekezdésben meghatározott gazdaságátadási szerződés alapján a gazdaságátadó a (2) bekezdésben meghatározott kötelezettsége mellett a gazdaságátadási szerződésben meghatározott mező- és erdőgazdasági föld használatát átengedi, a gazdaságátvevő a (2) bekezdésben meghatározott kötelezettsége mellett a földet használatba veszi és – szívességi földhasználat kivételével – haszonbért fizet, vagy a Fétv. alapján meghatározott szolgáltatást, ellenszolgáltatást teljesít.
 
 (4) Ha a felek a (2)–(3) bekezdésben meghatározott szerződések szabályait vegyesen alkalmazzák, a gazdaság egyes elemei tekintetében meg kell határozni az azokra vonatkozó szerződési rendelkezéseket.
 
@@ -50,12 +54,26 @@ Az Országgyűlés célja a családtagok részvételével, erőforrásaik közö
 
 (6) A gazdaságátvevő egy személy lehet.
 
+(7) A gazdaság valamennyi vagyonelemének tulajdonjoga egy adott naptári napon száll át a gazdaságátvevőre, amely naptári nap a gazdaság átruházásának időpontja.
+
+(8) Ingatlan tulajdonjogának átruházása esetén a gazdaságátadási szerződést annak hatósági jóváhagyását követően – a gazdaságátadási szerződésben együttműködési időszak megállapítása esetén a tulajdonjog átruházásához a hozzájáruló nyilatkozatot –, valamennyi érintett ingatlanügyi hatósághoz ugyanazon, a szerződő felek által a gazdaságátadási szerződésben meghatározott naptári napon – együttműködési időszak megállapítása esetén a 10. § (5) bekezdése szerinti időszak alatt egy naptári napon – kell benyújtani.
+
+(9) A gazdaság egésze átszállásának időpontja a (8) bekezdés szerinti esetben a tulajdonjog ingatlan-nyilvántartásba történő bejegyzésének napja.
+
+(10) Ha a (8) bekezdés szerinti gazdaságátadási szerződéssel mező-, erdőgazdasági hasznosítású föld használatának átengedése is megvalósul, a földhasználat kezdő időpontja a (9) bekezdés szerinti időpont.
+
+(11) A gazdaságátadási szerződés (7), (9) és (10) bekezdésben foglaltaktól eltérő rendelkezése semmis.
+
+(12) Ha a gazdaságátadási szerződés nem tartalmaz ingatlan tulajdonjoga átruházására vonatkozó előírást, akkor a gazdaság egésze átszállásának időpontja a felek által a gazdaságátadási szerződésben meghatározott naptári nap, amely nem lehet korábbi, mint a gazdaságátadási szerződés hatósági jóváhagyása.
+
+(13) A gazdaságátadónak a gazdasághoz tartozó, használatában álló valamennyi mező- és erdőgazdasági hasznosítású föld használati jogosultságát át kell adnia a gazdaságátvevőnek.
+
 4. § (1) A gazdaságátadási szerződés megkötését követően a gazdaságátadó az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó – az átadott gazdaságot érintő – új tevékenységet nem kezdhet.
 
 (1a) A gazdaságátadási szerződés jóváhagyása körében eljáró mezőgazdasági igazgatási szervnek az e törvény végrehajtására kiadott kormányrendelet szerinti értesítése alapján a gazdaságátadót hivatalból törli
 
 - a) a gazdaságátadó mezőgazdasági üzemközpontja vagy lakóhelye szerint illetékes mezőgazdasági igazgatási szerv a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartásból,
-- b) a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara a mezőgazdasági őstermelői nyilvántartásból,
+- b) a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: Agrárkamara) a mezőgazdasági őstermelői nyilvántartásból,
 - c) az élelmiszerlánc-felügyeleti szerv a gazdaságátadással érintett tevékenység vonatkozásában az élelmiszerlánc-felügyeleti információs rendszerből és
 - d) az erdészeti hatóság az erdőgazdálkodói nyilvántartásból
 
@@ -99,8 +117,8 @@ kell megfelelnie.
 7. § A felek a gazdaságátadási szerződésben rögzítik
 
 - a) a gazdaságátadási szerződés 3. § (1) bekezdése szerinti jellege alapján a feleket megillető jogokat és kötelezettségeket,
-- b) a gazdaság egyes elemeinek pontos meghatározását, mező- és erdőgazdasági hasznosítású föld tulajdonjogának vagy használatának átengedése esetén a gazdaságátadó és a gazdaságátvevő Fétv. 13. § (1) és (2) bekezdésében meghatározott adatait, valamint erdőnek minősülő föld tulajdonjogának vagy használatának átengedése esetén az Evt. 19. § (2) bekezdés a) pontjában meghatározott adatait,
-- c) a gazdaság egyes elemeihez kapcsolódó hitel- és kölcsönszerződések, földhasználatra irányuló szerződések, egyéb polgári jogi szerződések, valamint a vagyonelemekhez kapcsolódó jogok és kötelezettségek felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
+- b) a gazdaság egyes elemeinek pontos meghatározását, a gazdaságátadó és a gazdaságátvevő 12/C. § (1) bekezdés a) pont aa)–ae) alpontjában és b) pontjában, valamint, amennyiben rendelkezik vele, a 12/C. § (1) bekezdés a) pont af)–am) alpontjában meghatározott adatait,
+- c) a gazdaság egyes elemeihez kapcsolódó hitel- és kölcsönszerződések (ideértve a folyószámlához kapcsolódó hitelszerződéseket is), földhasználatra irányuló szerződések, egyéb polgári jogi szerződések, valamint a vagyonelemekhez kapcsolódó jogok és kötelezettségek felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
 - d) a gazdaság egyes elemeihez kapcsolódó mező- és erdőgazdálkodási tevékenységek folytatására irányuló engedélyek, – ha a jogosultságok gyakorlása hatósági nyilvántartásba vételhez kötött – a kérelem benyújtására vonatkozó kötelezettségek felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
 - e) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény, valamint a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény (a továbbiakban: KAP tv.) hatálya alá tartozó folyamatban lévő eljárásokat, folyamatban lévő támogatásokat és a gazdaságátvevő nyilatkozatát arra vonatkozóan, hogy megismerte és magára nézve kötelezőnek ismeri el az azokból eredő jogosultságokat és kötelezettségeket,
 - f) a KAP tv., valamint az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletek alapján benyújtott és még el nem bírált támogatási kérelmek azonosítóit, valamint a létrejött támogatási jogviszonyok létesítő okiratainak számát és a gazdaságátvevő nyilatkozatát arra vonatkozóan, hogy megismerte és magára nézve kötelezőnek ismeri el az azokból eredő jogosultságokat és kötelezettségeket,
@@ -111,7 +129,13 @@ kell megfelelnie.
 
 8. § (1) A gazdaságátadási adásvételi szerződés esetén meg kell határozni a gazdaság egyes elemeinek szerződéskötéskori forgalmi értékét.
 
-(2) A gazdaságátadási adásvételi szerződés esetén visszavásárlási jog, elővásárlási jog, vételi jog és eladási jog nem alapítható, a felek megtekintésre vételben és próbára vételben nem állapodhatnak meg.
+(2) A gazdaságátadási adásvételi szerződés esetén a felek
+
+- a) haszonélvezeti jogot, visszavásárlási jogot, elővásárlási jogot, vételi jogot és eladási jogot nem alapíthatnak,
+- b) megtekintésre vételben, próbára vételben nem állapodhatnak meg és
+- c) tulajdonjog-fenntartáshoz kapcsolódó vevői jogot nem köthetnek ki.
+
+(3) A gazdaságátadási szerződés (2) bekezdésben foglaltaktól eltérő rendelkezése semmis.
 
 #### 6. A gazdaságátadási ajándékozási, tartási és életjáradéki szerződés szabályai
 
@@ -140,9 +164,9 @@ kell elszámolni.
 
 (4) Ha a felek másként nem állapodnak meg, a gazdaság ügyeinek vitelére együttesen jogosultak és az ügyviteli döntéseket együttesen hozzák meg.
 
-(5) A gazdaságátadó az együttműködés időtartamának utolsó napján ruházza át a gazdaság minden elemének tulajdonjogát, a 3. § (3) bekezdésében meghatározott esetben a mező- és erdőgazdasági földek használatát és a gazdaságátadót illető jogokat és kötelezettségeket, a gazdaságátvevőre.
+(5) A gazdaságátadó az együttműködés időtartamának utolsó napját követő 30 napon belül ruházza át a gazdaság minden elemének tulajdonjogát, a 3. § (3) bekezdésében meghatározott esetben a mező- és erdőgazdasági földek használatát és a gazdaságátadót illető jogokat és kötelezettségeket, a gazdaságátvevőre.
 
-(6) Ha a gazdaságátvevő gazdaságátadási adásvételi szerződés esetén a vételárat részletekben fizeti meg, – a felek eltérő rendelkezése hiányában – a gazdaság vagyontárgyain a megfizetett vételárrészletek erejéig zálogjog illeti meg. A gazdaság vagyontárgyai tulajdonjogának gazdaságátvevő általi megszerzését követően a gazdaságátadót a meg nem fizetett vételárrészletek erejéig a gazdaság vagyontárgyain – a felek eltérő rendelkezése hiányában – zálogjog illeti meg.
+(6) Ha a gazdaságátvevő gazdaságátadási adásvételi szerződés esetén a vételárat részletekben fizeti meg, – a felek eltérő rendelkezése hiányában – a gazdaságátvevőt a gazdaság vagyontárgyain a megfizetett vételárrészletek erejéig zálogjog illeti meg. A gazdaság vagyontárgyai tulajdonjogának gazdaságátvevő általi megszerzését követően a gazdaságátadót a meg nem fizetett vételárrészletek erejéig a gazdaság vagyontárgyain – a felek eltérő rendelkezése hiányában – zálogjog illeti meg.
 
 (7) A gazdaságátadási szerződésben meghatározott együttműködés időtartamára a gazdaságátvevő kezdeményezi az ingatlanügyi hatósághoz benyújtott kérelemmel a gazdasághoz tartozó, a gazdaságátadó tulajdonában álló ingatlan tulajdoni lapjára a folyamatban levő gazdaságátadás tényének feljegyzését.
 
@@ -155,13 +179,15 @@ kell elszámolni.
 
 #### 8. A gazdaságátadási szerződés jóváhagyása
 
-12. § (1) A gazdaságátadásról szóló szerződést a megkötését követő hatvan napon belül jóváhagyás céljából be kell nyújtani a mezőgazdasági igazgatási szervhez. A hatósági jóváhagyásra vonatkozó eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni. A mezőgazdasági igazgatási szerv eljárása során azt vizsgálja, hogy
+12. § (1) A gazdaságátadásról szóló szerződést a megkötését követő hatvan napon belül jóváhagyás céljából be kell nyújtani a mezőgazdasági igazgatási szervhez. A hatósági jóváhagyásra vonatkozó eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni. A mezőgazdasági igazgatási szerv eljárása során – az (1a) bekezdésben foglaltak kivételével – azt vizsgálja, hogy
 
 - a) a gazdaságátadó és a gazdaságátvevő megfelelnek-e az e törvényben előírt feltételeknek,
 - b) a gazdaságátvevő jogosult-e megszerezni a mező- és erdőgazdasági föld tulajdonjogát vagy használati jogát,
 - c) a 3. § (3) bekezdésében meghatározott esetben a mező- és erdőgazdasági föld használatára vonatkozó rendelkezések megfelelnek-e a Földforgalmi törvénynek és a Fétv.-nek,
 - d) a felek a Földforgalmi törvény 13. §-a és 42. §-a szerinti nyilatkozatokat a szerződésbe foglalták-e, valamint
 - e) a felek megállapodása megfelel-e a jogszabályban előírt azon feltételeknek, amelyektől a felek nem térhetnek el.
+
+(1a) A 6. § (6) bekezdésében foglaltakat a tulajdonjognak az ingatlan-nyilvántartásba való bejegyzése, illetve a földhasználatnak a földhasználati nyilvántartásba vétele során az ingatlanügyi hatóság vizsgálja.
 
 (2) A gazdaságátadási szerződés jóváhagyása iránti eljárásban sommás eljárásnak nincs helye.
 
@@ -202,7 +228,12 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
   - ae) adóazonosító jele vagy adószáma,
   - af) KAP tv. 10. § (2) bekezdés b) pontja szerinti támogatási azonosítója,
   - ag) FELIR azonosítója,
-  - ah) kamarai tagsági azonosító száma,
+  - ah) Agrárkamara által adott tagsági azonosító száma,
+  - ai) egyéni vállalkozói nyilvántartási száma,
+  - aj) gazdaságátadási szerződés megkötésekor fennálló mezőgazdasági őstermelői státusza,
+  - ak) földművesnek minősülő természetes személyekről vezetett nyilvántartásba történő bejegyzéséről szóló döntés száma,
+  - al) erdőgazdálkodói kódja,
+  - am) statisztikai számjele,
 - b) a gazdaságátvevő legmagasabb mezőgazdasági képzettsége,
 - c) a gazdaságátadási szerződés tárgyát képező ingatlanok e törvény végrehajtására kiadott rendeletben meghatározott ingatlan-nyilvántartási adatai,
 - d) az állatállományra vonatkozó adatok,
@@ -211,7 +242,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 - g) a gazdaság utolsó lezárt évi árbevétele,
 - h) a szerződés létrejöttének és módosításának dátuma,
 - i) a gazdaság tulajdonjoga átruházásának időpontja,
-- j) a gazdaság főtevékenysége (ÖVTJ besorolási főszámmal).
+- j)
 
 (2) A mezőgazdasági igazgatási szerv a gazdaságátadó és a gazdaságátvevő (1) bekezdés a) és b) pontja szerinti adatait agrárpolitikai intézkedések tervezése és nyomon követése céljából jogosult kezelni.
 
@@ -245,7 +276,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 16. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a gazdaságátadási szerződés részletes tartalmára és a gazdaságátadási szerződés hatósági jóváhagyási eljárására vonatkozó szabályokat,
+- a) a gazdaságátadási szerződés részletes tartalmára, a gazdaságátadási szerződés hatósági jóváhagyási eljárására, valamint a jóváhagyást követő, kapcsolódó eljárásokra vonatkozó szabályokat,
 - b) a mezőgazdasági igazgatási szerv által vezetett nyilvántartás személyes adatok körébe nem tartozó adattartalmát.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a mezőgazdasági igazgatási szervet.
@@ -260,7 +291,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 #### 12. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-18. § A 2. §, a 3. § (2)–(4) bekezdése, a 6. §, a 9. § (2) bekezdése, a 12. § (1) és (4) bekezdése, valamint a 21–28. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
+18. § A 2. §, a 2/A. §, a 3. § (2)–(4) és (13) bekezdése, a 6. §, a 9. § (2) bekezdése, a 12. § (1), (1a) és (4) bekezdése, valamint a 21–28. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 
 #### 13. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 

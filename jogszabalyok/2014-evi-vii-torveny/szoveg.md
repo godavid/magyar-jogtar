@@ -36,7 +36,7 @@ Az Országgyűlés a termőföldek tulajdonjogának megszerzését vagy használ
 - f) az Országos Halgazdálkodási Adattárból a halgazdálkodásra jogosult azonosítására szolgáló adatokat,
 - g) a személyek azonosítására a személyiadat- és lakcímnyilvántartásból a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. § (1) bekezdés a)–h) pontjában foglalt adatokat,
 - h) a cégjegyzékből a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 24. § (1) bekezdés a)–e) és g)–j), valamint 25. § a)–g), i), k), l), p) és q) pontjában foglalt adatokat,
-- i) az ingatlan-nyilvántartásból az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 14. §-ában, 15. § (1) bekezdésében, valamint 16. §-ában foglalt adatokat,
+- i) az ingatlan-nyilvántartásból az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 7. §-ában, 8. § (1) bekezdésében, valamint 9. §-ában foglalt adatokat,
 - j) a földhasználati nyilvántartásból a földhasználati lap adatait,
 - k) az adóhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére, és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból az adózó azonosítására, árbevételére, jövedelmi és vagyoni helyzetére, köztartozás-fizetési kötelezettségére vonatkozó adatokat,
 - l) az egyéni vállalkozók nyilvántartásából az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 11. § (1) bekezdésében foglalt adatokat.
