@@ -1111,6 +1111,8 @@ okozta.
 
 (2b) Az igazságügyi alkalmazottnak a személyi nyilvántartásban szereplő adatairól és a vele kapcsolatos iratok tartalmáról törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére lehet adatot továbbítani.
 
+(2c) Az igazságügyi alkalmazottnak a személyi nyilvántartásban szereplő adatairól az ingatlanügyi hatóság részére, az ingatlan-nyilvántartási informatikai rendszer használatához szükséges mértékben lehet adatot továbbítani.
+
 (3) Az adatok közül az igazságügyi szerv megnevezése, az igazságügyi alkalmazott neve, munkakörének az elnevezése, valamint elektronikus aláírási jogosultsága és annak típusa közérdekből nyilvános adatnak minősül, bármely más adat – a (4) bekezdésben foglalt kivétellel – nem igazságügyi szerv részére csak a személyazonosításra alkalmatlan módon adható ki.
 
 (4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OBH – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Bizalmi szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához a Dáptv. szerint szükséges mértékben adatot továbbítani.

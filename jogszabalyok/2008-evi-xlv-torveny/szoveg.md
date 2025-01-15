@@ -377,6 +377,12 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (9) Az eljárásban a felek eljárási költséget nem számíthatnak fel, a felek költségeiket maguk viselik.
 
+27/G. § (1) A bizonyítvány jogerőre emelkedése után és azt követően, hogy az ezzel felmerülő közjegyzői díjat és költséget, valamint az ingatlan-nyilvántartási bejegyzés költségét az alzálogjog jogosultja megelőlegezte, az alzálogjog jogosultjának kérelmére a közjegyző a bizonyítvány megküldésével hatósági felhívás útján intézkedik a bizonyítvány tartalma szerint az alzálogjognak az ingatlan-nyilvántartásba történő bejegyzése iránt.
+
+(2) A hatósági felhívást megelőzően a közjegyző felhívja az alzálogjoggal biztosított követelés kötelezettjét (zálogjogosult), hogy a felhívásban megszabott határidő alatt nyilatkozzon a követelés fennállásáról.
+
+(3) Ha az alzálogjoggal biztosított követelés kötelezettje (zálogjogjogosult) a követelés fennállását vitatja, a közjegyző az alzálogjog jogosultjának az (1) bekezdés szerinti kérelmét visszautasítja.
+
 ### A közjegyző előtti egyezségi eljárás
 
 27/H. § (1) Keresetindítás előtt a közjegyzőtől polgári peres útra tartozó ügyben egyezségi kísérletre idézést lehet kérni. Az idézést kérő félnek a határnapot szóval is tudtára lehet adni.
@@ -429,6 +435,79 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 (7) Ha az egyezség hatályosságához harmadik személy vagy hatóság beleegyezése vagy jóváhagyása szükséges, annak bemutatására a közjegyző a feleknek megfelelő határidőt szab. Ha a határidő eredménytelenül telt el, vagy a hatóság, illetve a harmadik személy a beleegyezést, jóváhagyást nem adta meg, a közjegyző az egyezség jóváhagyását megtagadja.
 
 27/L. § A 27/H–27/K. § rendelkezéseit kell megfelelően alkalmazni akkor is, ha a felek idézés nélkül egyezségkötés céljából jelennek meg a közjegyző előtt.
+
+### Jelzálogjog és az azt biztosító elidegenítési tilalom, terheléséi tilalom, vagy elidegenítési és terhelési tilalom ingatlan-nyilvántartási bejegyzése vagy törlése iránti eljárás
+
+27/M. § (1) Ha a jelzálogjog jogosultja hitelintézet, a közjegyző
+
+- a) a zálogkötelezett kérelmére zálogjog bejegyzése iránti eljárást,
+- b) a zálogjogjogosult és a zálogkötelezett közös kérelmére zálogjog változásának bejegyzésére irányuló eljárást,
+- c) a zálogjogosult kérelmére zálogjog törlése iránti eljárást
+
+[az a)–c) pontban meghatározottak a továbbiakban együtt: eljárás] folytat le.
+
+(2) Az eljárásban kérhető a zálogjogot biztosító elidegenítési tilalom, terheléséi tilalom vagy elidegenítési és terhelési tilalom bejegyzése vagy törlése, továbbá ezek változásainak és a zálogjog-jogviszonyhoz, valamint az elidegenítési és terhelési tilalomhoz kapcsolódó egyéb adatoknak az ingatlan-nyilvántartásba történő bejegyzése és ezek törlése iránti közjegyzői intézkedés.
+
+(3) Az eljárásra az a közjegyző illetékes, akinek az illetékességi területén
+
+- a) a zálogkötelezett
+  - aa) természetes személy kérelmező lakóhelye vagy tartózkodási helye van,
+  - ab) nem természetes személy kérelmező székhelye vagy az annak képviseletére hivatott szerv székhelye van azzal, hogy a 4. § (3) bekezdés második mondatát megfelelően alkalmazni kell; vagy
+- b) a zálogtárgy fekszik.
+
+(4) A zálogszerződés vagy az az alapján tett zálogkötelezetti kötelezettségvállaló nyilatkozat, illetve bejegyzés vagy törlési engedély közokiratba foglalása esetén a közokiratot készítő közjegyző is illetékes az eljárás lefolytatására.
+
+27/N. § (1) Az ingatlan-nyilvántartási bejegyzéshez szükséges adatokat a hitelintézet elektronikus úton úgy küldi meg a közjegyző számára, hogy abból a bejegyzés iránti hatósági felhívás űrlap kitöltéséhez szükséges adatok informatikai úton kinyerhetőek legyenek.
+
+(2) A kérelemhez csatolni kell
+
+- a) a zálogszerződést, illetve annak módosítását,
+- b) a zálogkötelezett bejegyzési engedélyét, ha azt nem a zálogszerződés tartalmazza,
+- c) a zálogjoghoz kapcsolódó elidegenítési tilalomra, a terheléséi tilalomra vagy az elidegenítési és terhelési tilalomra vonatkozó bejegyzési vagy törlési engedélyt, ha azt nem a zálogszerződés tartalmazza,
+- d) a zálogjog törlésének bejegyzése esetén a zálogjogosult hozzájáruló nyilatkozatát és
+- e) a bejegyzéssel érintett ingatlan-nyilvántartási jogosultak hozzájáruló nyilatkozatát
+
+[az a)–e) pontban meghatározottak a továbbiakban együtt: okirat].
+
+(3) A kérelemhez meghatalmazás vagy más melléklet a (2) bekezdésben meghatározott kivétellel nem csatolható. A meghatalmazást vagy a kérelemre kell rávezetni vagy a kérelemnek tartalmaznia kell a képviselő azon nyilatkozatát, hogy az ügyben érvényes és hatályos írásbeli meghatalmazással rendelkezik vagy képviseleti joga jogszabály alapján fennáll.
+
+(4) Az eljárásban nincs helye
+
+- a) igazolásnak,
+- b) bizonyítás felvételének.
+
+(5) Az eljárásban hiánypótlásnak – a fellebbezés esetleges hiányai kivételével – helye nincs. A közjegyző a hiánypótlást visszautasítja, ez ellen a végzés ellen fellebbezésnek helye nincs. A végzést a közjegyző kizárólag az előterjesztő részére küldi meg.
+
+(6) Ha a kérelem hiányos, a bejegyzéshez szükséges adatokat informatikai úton feldolgozható módon a közjegyzőnek nem küldték meg, vagy a felek a kérelem előterjesztésének közjegyzői díját a közjegyző felhívása ellenére nem fizették meg, a közjegyző a kérelmet hiánypótlási felhívás kibocsátása nélkül visszautasítja. Ez ellen a végzés ellen a felek fellebbezhetnek, a fellebbezést észrevételre megküldeni nem kell.
+
+(7) A kérelem kijavításának, kiegészítésének vagy módosításának helye nincs, ilyen esetben a kérelmet a közjegyző visszautasítja, a felek újabb eljárást kezdeményezhetnek. A visszautasító végzés ellen fellebbezésnek helye nincs. A végzést a közjegyző megküldi a felek részére.
+
+(8) Az eljárás félbeszakadásának nincs helye, az eljárás félbeszakadásának megállapítása helyett az eljárást meg kell szüntetni, e végzés ellen a kérelmező fellebbezhet. A fellebbezést észrevételre kiadni nem kell.
+
+(9) Ha az eljárás során a kérelmező személyében változás következik be, az eljárást meg kell szüntetni, e végzés ellen az eredeti kérelmező fellebbezhet. A fellebbezést észrevételre kiadni nem kell. A meghalt vagy megszűnt fél jogutódjának a megszüntető végzést kézbesíteni nem kell.
+
+27/O. § (1) Ha a kérelem tartalma az okirat tartalmától eltér, vagy az ingatlan-nyilvántartási bejegyzés feltételei nem állnak fenn, a közjegyző a kérelmet elutasítja. A kérelemtől eltérő tartalmú végzés nem hozható. Az elutasító végzés ellen a kérelmező fellebbezhet. A fellebbezést észrevételre kiadni nem kell.
+
+(2) Ha a kérelem és az okirat tartalmának egybevetése alapján az ingatlan-nyilvántartási bejegyzés feltételei fennállnak, a közjegyző a kérelemnek helyt ad és végzésben megállapítja, hogy
+
+- a) a zálogszerződésben a felek a kérelemben megjelölt zálogjogosult javára és a zálogkötelezett terhére a kérelemben megjelölt ingatlanra a kérelemben megjelölt tartalommal zálogjogot alapítottak vagy azt módosították,
+- b) a zálogkötelezett a zálogjog, az elidegenítési tilalom, a terheléséi tilalom, vagy az elidegenítési és terhelési tilalom bejegyzéséhez vagy törléséhez hozzájárult,
+- c) a zálogjogosult a kérelemben megjelölt zálogjog törléséhez hozzájárult.
+
+(3) A kérelemnek helyt adó végzés ellen fellebbezésnek helye nincs, az jogerős és végrehajtható. A felek a hatósági felhívás tárgyában hozott ingatlan-nyilvántartási döntés ellen élhetnek jogorvoslattal.
+
+(4) A végzés kijavításának csak annyiban van helye, amennyiben az a kérelemtől eltér. A hatósági felhívás kijavításának csak annyiban van helye, amennyiben az a végzéstől eltér.
+
+(5) A közjegyző a végzés alapján felhívja az ingatlanügyi hatóságot a bejegyzésre. A hatósági felhíváshoz csatolni kell az annak alapjául szolgáló végzést és az okiratot is.
+
+27/P. § (1) Ha ezen alcím eltérően nem rendelkezik, az eljárásban hozott végzés ellen csak a kérelmező fellebbezhet, és csak akkor, ha a fellebbezést
+
+- a) e törvény megengedi, vagy
+- b) a Pp. megengedi és e törvény nem zárja ki.
+
+(2) A fellebbezést észrevételezésre kiadni nem kell.
+
+(3) A felek a közjegyzői eljárás megismétlését nem kérhetik, újabb eljárást kezdeményezhetnek.
 
 ### Értékpapír és okirat semmissé nyilvánítása
 
@@ -742,6 +821,38 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 (5) A közjegyző a határozat jogerőre emelkedését követően intézkedik a jogelőd hitelbiztosítéki nyilvántartásból való törléséről és a jogutód személyének a hitelbiztosítéki nyilvántartásban való átvezetéséről.
 
 (6) Az (1)–(5) bekezdés rendelkezései nem alkalmazhatók a hitelbiztosítéki nyilvántartásba bejegyzett jogosult, illetve kötelezett személyében átalakulás vagy egyesülés folytán bekövetkező jogutódlás hitelbiztosítéki nyilvántartási átvezetésére.
+
+### Ingatlan-nyilvántartási hatósági felhívásra irányuló eljárás
+
+36/Q. § (1) Az ingatlan-nyilvántartási hatósági felhívásra irányuló eljárásban a közjegyző a választottbírósági határozat alapján felhívja az ingatlanügyi hatóságot a bejegyzés teljesítésére.
+
+(2) Az ingatlan-nyilvántartási hatósági felhívásra irányuló eljárás lefolytatására az a közjegyző illetékes, amelynek az illetékességi területén a bejegyzéssel érintett ingatlan fekszik. Ha az ingatlan fekvése alapján több közjegyző illetékessége is fennáll, az eljáró közjegyzőt az országos kamara elnöke a közjegyzők székhelye szerinti sorrendben jelöli ki. Az országos kamara elnökének döntése ellen jogorvoslatnak helye nincs.
+
+(3) Ha a hatósági felhívás nem végrehajtható, az ingatlanügyi hatóság döntéséről a közjegyző tájékoztatja az eljáró választottbíróságot.
+
+(4) Az ingatlan-nyilvántartási hatósági felhívásra irányuló eljárás lefolytatásának feltétele, hogy a választottbírósági határozattal érintett felek valamelyike a közjegyző munkadíját, költségátalányát és készkiadását megelőlegezze.
+
+### Ingatlan-nyilvántartási eljárásban felhasználandó, külföldön kiállított ügyleti meghatalmazás, jogi képviselet ellátására adott meghatalmazás vagy a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) 174/A. §-a szerinti felhatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat rögzítése
+
+36/R. § (1) Az ingatlan-nyilvántartási eljárásban felhasználandó, külföldön kiállított ügyleti meghatalmazás, jogi képviselet ellátására adott meghatalmazás vagy a Kjtv. 174/A. §-a szerinti felhatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat rögzítésére irányuló kérelemhez csatolni kell az ügyleti meghatalmazás, jogi képviselet ellátására adott meghatalmazás vagy a Kjtv. 174/A. §-a szerinti felhatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat eredeti példányát vagy annak közjegyző által hitelesített másolatát.
+
+(2) Az eljárásra az a közjegyző illetékes, amelynek az illetékességi területén a meghatalmazott lakóhelye vagy tartózkodási helye van.
+
+(3) A külföldön kiállított ügyleti meghatalmazást, jogi képviselet ellátására adott meghatalmazást vagy a Kjtv. 174/A. §-a szerinti felhatalmazást, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozatot a közjegyző akkor rögzíti az ingatlanügyi hatóság informatikai rendszerében, ha az okirat megfelel az ingatlan-nyilvántartásról szóló törvény külföldön kiállított okiratokra vonatkozó követelményeinek.
+
+### Ingatlan-nyilvántartási eljárásban jogi képviselet ellátására adott meghatalmazás vagy a Kjtv. 174/A. §-a szerinti felhatalmazás, az ingatlan-nyilvántartási eljárásban felhasználandó ügyleti meghatalmazás, illetve az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat elektronikus hitelesítése
+
+36/S. § (1) A közjegyző a személyesen jelen lévő fél kérelmére
+
+- a) az ingatlan-nyilvántartás informatikai rendszerében a fél által az ingatlan-nyilvántartási eljárásban való jogi képviselet ellátására ügyvéd vagy kamarai jogtanácsos részére adott meghatalmazást vagy a közjegyző részére adott, Kjtv. 174/A. §-a szerinti felhatalmazást,
+- b) az ingatlan-nyilvántartási eljárásban felhasználandó ügyleti meghatalmazást,
+- c) az ingatlan-nyilvántartás informatikai rendszerében megtehető nyilatkozatot
+
+a fél helyett elektronikus úton hitelesíti.
+
+(2) Az eljárásra bármelyik közjegyző illetékes.
+
+(3) A közjegyző a saját, az ingatlan-nyilvántartási eljárásban való jogi képviselet ellátására szóló Kjtv. 174/A. §-a szerinti felhatalmazásának (1) bekezdés a) pontja szerinti hitelesítésére is jogosult.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

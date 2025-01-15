@@ -1413,6 +1413,7 @@ kezdődik.
 - a) igazságügyi szerv részére,
 - b) törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére,
 - c) az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához a Dáptv. szerint szükséges mértékben a Bizalmi szolgáltató részére
+- d) az ingatlanügyi hatóság részére az ingatlan-nyilvántartási informatikai rendszer használatához szükséges mértékben
 
 lehet adatot továbbítani.
 

@@ -1147,7 +1147,7 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 - h)
 - i) az alapítási, illetve tevékenységi engedélyt kiadó hatóságot, amennyiben az adós alapítási vagy tevékenységi engedélyhez kötött tevékenységet is folytat.
 
-(2) A bíróság a felszámoló által beszerzett tulajdoni lapok adatai alapján megkeresi az illetékes ingatlanügyi hatóságokat a felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése, továbbá az adós nevére vonatkozó adatváltozás átvezetése iránt. A megkeresést a Kormány által kijelölt ingatlanügyi hatóság útján kell megküldeni, és a megkereséshez mellékelni kell az érintett ingatlanok pontos megjelölését (település neve, helyrajzi szám) és a bejegyzéssel érintett tulajdoni hányadot, valamint a felszámolási eljárásra vonatkozó tény megjelölését.
+(2) Az adós tulajdonában álló ingatlanon és egyéb vagyontárgyain fennálló elidegenítési és terhelési tilalom és végrehajtási jog a felszámolás kezdő időpontjában megszűnik. A felszámolás elrendelésekor a bíróság elrendeli, hogy az ingatlanügyi hatóság a felszámolási eljárásra vonatkozó adatot az ingatlan-nyilvántartásba jegyezze be, az ingatlanra vonatkozó elidegenítési és terhelési tilalmat és végrehajtási jogot törölje, valamint a civil szervezetek nyilvántartásába bejegyzett adós esetén az adós nevére vonatkozó adatváltozást vezesse át.
 
 (3) A felszámolás kezdő időpontjától számított 15 napon belül hivatalból meg kell szüntetni az adós ellen kezdeményezett egyéb felszámolási eljárást, ha pedig a másik eljárásban az adós értesítése még nem történt meg, a felszámolás elrendelése iránti kérelmet vissza kell utasítani.
 
@@ -1241,13 +1241,13 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 (4) A felszámolási eljárás befejezésének időpontjában esedékessé váló követelések közül a gazdálkodó szervezet jogutód nélküli megszűnése miatt az Mt. 70. § (3) bekezdése alapján a munkavállalót megillető távolléti díjat, az Mt. 77. § (3)–(4) bekezdése szerinti végkielégítést, valamint a munkaviszonyra tekintettel járó egyéb juttatásokat a felszámoló igénybejelentés hiányában is hitelezői igényként veszi nyilvántartásba, és elégíti ki a kielégítési sorrend általános szabályai (57–58. §) szerint.
 
-38. § (1) Az adós ellen a felszámolás kezdő időpontjában folyamatban lévő – a felszámolás körébe tartozó vagyonnal kapcsolatos – végrehajtási eljárásokat a végrehajtást foganatosító bíróságnak (hatóságnak) haladéktalanul meg kell szüntetni, a lefoglalt vagyontárgyakat és a befolyt, a végrehajtás költségeinek levonása után fennmaradó, de még ki nem fizetett pénzeszközöket a kijelölt felszámolónak kell átadni. Az adós ingatlanán, illetve bírósági, hatósági nyilvántartásba vett vagyontárgyán fennálló végrehajtási jog a felszámolás kezdő időpontjában megszűnik. A felszámoló a végrehajtói díjjegyzékben foglalt díjfelszámítás ellen külön jogszabály rendelkezései szerint végrehajtási kifogást terjeszthet elő. A bíróság a felszámolást elrendelő jogerős végzést megküldi a végrehajtást elrendelő, vagy – ha azt ismeri – közvetlenül a foganatosító bíróságnak (hatóságnak); a végrehajtást elrendelő bíróság (hatóság) a felszámolás elrendeléséről haladéktalanul tájékoztatja a végrehajtást foganatosító bíróságot (hatóságot).
+38. § (1) Az adós ellen a felszámolás kezdő időpontjában folyamatban lévő – a felszámolás körébe tartozó vagyonnal kapcsolatos – végrehajtási eljárásokat a végrehajtást foganatosító bíróságnak (hatóságnak) haladéktalanul meg kell szüntetnie, a lefoglalt vagyontárgyakat és a befolyt, a végrehajtás költségeinek levonása után fennmaradó, de még ki nem fizetett pénzeszközöket a kijelölt felszámolónak kell átadnia. A felszámoló a végrehajtói díjjegyzékben foglalt díjfelszámítás ellen a végrehajtási eljárás szabályai szerint végrehajtási kifogást terjeszthet elő. A bíróság a felszámolást elrendelő jogerős végzést megküldi a végrehajtást elrendelő, vagy – ha azt ismeri – közvetlenül a foganatosító bíróságnak (hatóságnak); a végrehajtást elrendelő bíróság (hatóság) a felszámolás elrendeléséről haladéktalanul tájékoztatja a végrehajtást foganatosító bíróságot (hatóságot).
 
 (2) A felszámolás kezdő időpontja előtt indult peres és nemperes eljárások a korábban eljáró bíróság előtt folytatódnak. A pénzkövetelés érvényesítése céljából a felszámolás kezdő időpontja előtt indított eljárás a hitelezőt nem mentesíti a 28. § (2) bekezdésének f) pontjában és a 46. § (7) bekezdésében foglalt kötelezettség teljesítése alól. A hitelező pervesztessége esetén a 46. § (7) bekezdése alapján teljesített befizetést – a hitelező kérelmére – 30 napon belül vissza kell fizetni. A hitelező részleges pervesztessége esetén a megítélt követelésnek megfelelő befizetésen felüli összeget kell – a hitelező kérelmére – 30 napon belül visszafizetni.
 
 (3) A felszámolás kezdő időpontjától a gazdálkodó szervezet ellen a felszámolás körébe tartozó vagyonnal kapcsolatos pénzkövetelést csak a felszámolási eljárás keretében lehet érvényesíteni. A hitelező – a gazdálkodó szervezet által indított perben – a gazdálkodó szervezettel szemben a felszámolás kezdő időpontjában fennálló követelését beszámítás útján is érvényesítheti, feltéve, hogy a követelés jogosultja a felszámolás kezdő időpontjában is a hitelező volt.
 
-(4) Az adós ingatlanán és egyéb vagyontárgyain fennálló elidegenítési és terhelési tilalom a felszámolás kezdő időpontjában, a visszavásárlási és vételi jog, valamint a zálogjog a vagyontárgy értékesítésével megszűnik. Az elővásárlási jog megszűnik, ha az elővásárlásra jogosult nem él vagy e törvény rendelkezései szerint nem élhet az elővásárlási jogával. Ha a visszavásárlási vagy a vételi jog jogosultja a felszámolás kezdő időpontja után a vagyontárgyat egyoldalú nyilatkozattal megvásárolja, az adóssal szemben beszámítással nem élhet. A szükségessé vált törlést az ingatlan-nyilvántartásban – a felszámoló megkeresésére az értékesítési jegyzőkönyv vagy adásvételi szerződés alapján – az ingatlanügyi hatóság, illetve a jelzálogjogot nyilvántartó más szervezet végzi.
+(4) Az adós ingatlanán és egyéb vagyontárgyain fennálló visszavásárlási és vételi jog, valamint a zálogjog a vagyontárgy értékesítésével megszűnik. Az elővásárlási jog megszűnik, ha az elővásárlásra jogosult nem él vagy e törvény rendelkezései szerint nem élhet az elővásárlási jogával. Ha a visszavásárlási vagy a vételi jog jogosultja a felszámolás kezdő időpontja után a vagyontárgyat egyoldalú nyilatkozattal megvásárolja, az adóssal szemben beszámítással nem élhet. A szükségessé vált törlést az ingatlan-nyilvántartásban – a felszámoló kérelmére az értékesítési jegyzőkönyv vagy adásvételi szerződés alapján – az ingatlanügyi hatóság, illetve a jelzálogjogot nyilvántartó más szervezet végzi.
 
 (5) Ha az adós valamely kötelezettség biztosítására a felszámolás kezdő időpontjáig óvadékot nyújtott, a jogosult a felszámolás megindulásától függetlenül az óvadék tárgyából közvetlenül kielégítheti követelését, ezt követően köteles a fennmaradó összeget a felszámoló részére elszámolással haladéktalanul kiadni. Ha az óvadék jogosultja a felszámolást elrendelő végzés közzétételétől számított három hónapon belül nem él közvetlen kielégítési jogával, követelésének kielégítésére a 49/D. §-ban foglaltak szerint zálogjogosultként tarthat igényt. Ha a jogosult az adós többségi befolyása alatt áll, az óvadék tárgyát a felszámolás közzétételekor köteles haladéktalanul kiadni a felszámolónak – mint az adós képviselőjének –, aki a továbbiakban az óvadéki szerződésnek megfelelően jár el, és a jogosultnak járó összeget csak akkor adja ki, ha a 40. § szerinti jogvesztő megtámadási határidő anélkül telt el, hogy a jogosult és az adós között létrejött szerződést megtámadták volna.
 
@@ -1345,7 +1345,7 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 45. § (1) Ha az egyezség folytán a gazdálkodó szervezet fizetésképtelensége megszűnik, az 57. § (1) bekezdés a) pontja szerinti követelések kiegyenlítésre kerültek, vagy annak fedezete rendelkezésre áll, továbbá az egyezség megfelel a jogszabályoknak, a bíróság az egyezséget jóváhagyja [60. § (2)–(3) bekezdés], ellenkező esetben azt megtagadó végzést hoz. A végzés ellen perújításnak nincs helye. Az egyezség jóváhagyását megtagadó végzés ellen fellebbezésnek van helye.
 
-(2)
+(2) A felszámolás egyezséggel történő befejezetté nyilvánítása esetén a bíróság elrendeli, hogy az ingatlanügyi hatóság a felszámolási eljárásra vonatkozó adatot az ingatlan-nyilvántartásból törölje, valamint a civil szervezetek nyilvántartásába bejegyzett adós esetén az adós nevére vonatkozó adatváltozást vezesse át.
 
 45/A. § (1) A bíróság a felszámolási eljárást megszünteti, ha az adós valamennyi nyilvántartásba vett, elismert vagy nem vitatott tartozásának megfizetése megtörtént [ideértve a 46. § (8) bekezdése szerint bejelentett, de a felszámolási eljárásban nem érvényesített, azóta meg nem térült követeléseket is], a vitatott követelésekre, továbbá a felszámoló díjának megfizetésére pedig biztosítékot nyújt.
 
@@ -1361,6 +1361,8 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 (4) Az (1)–(3) bekezdésben foglaltakat nem lehet alkalmazni a Ctv. 116. § (5) bekezdése szerinti esetekben.
 
 (5) Az adósnak a (2) bekezdés szerinti felszámolási eljárás megszüntetése iránti kérelmét elutasító végzés ellen fellebbezésnek van helye.
+
+(6) A felszámolás megszüntetése esetén a bíróság elrendeli, hogy az ingatlanügyi hatóság a felszámolási eljárásra vonatkozó adatot az ingatlan-nyilvántartásból törölje, valamint a civil szervezetek nyilvántartásába bejegyzett adós esetén az adós nevére vonatkozó adatváltozást vezesse át.
 
 ### A felszámoló eljárása
 
@@ -1625,6 +1627,7 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 - d) a ki nem egyenlített tartozásokat hitelezőkénti bontásban, ideértve a felszámolási költségek miatti tartozásokat is, könyv szerinti értéken,
 - e) a fel nem osztható vagyont,
 - f) a felosztható vagyont.
+- g) azoknak az ingatlanoknak és egyéb vagyontárgyaknak az adatait, ahol az adós jogosultként vagy kötelezettként van bejegyezve, valamint a nyilvántartást vezető bíróság (hatóság) megnevezését.
 
 (4) A bevételek és költségek alakulásáról készített kimutatás tartalmazza:
 
@@ -1746,11 +1749,13 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 
 60. § (1) A bíróság a felszámolási zárómérleg és a vagyonfelosztási javaslat alapján végzéssel határoz a költségek viseléséről, a felszámoló díjazásáról, a hitelezők követelésének kielégítéséről, a pénzforgalmi számlák megszüntetéséről és a központi értéktár megkeresésével az adós által kibocsátott értékpapírok érvénytelenítéséről, valamint kötelezi a felszámolót a még szükséges intézkedések megtételére. Ezzel egyidejűleg dönt a felszámolás befejezéséről s az adós jogutód nélküli megszüntetéséről, továbbá rendelkezik az adós leányvállalatának, illetve tröszt esetén a tröszti vállalatnak a megszüntetéséről is.
 
+(1a) A bíróság elrendeli, hogy az ingatlanügyi hatóság törölje az ingatlan-nyilvántartásból azokat a jogokat és tényeket, amelyeknél az adós jogosultként van feltüntetve.
+
 (2) Ha a felek egyezséget kötöttek, a bíróság az egyezséget jóváhagyó végzésben dönt a felszámolási eljárás befejezéséről, a felszámoló díjazásáról, a költségek viseléséről és az egyezségi megállapodásból kizárt hitelezők követeléseinek kielégítéséről.
 
-(3) A bíróság elrendeli az (1)—(2) bekezdés szerinti jogerős végzéseknek a Cégközlönyben való közzétételét, és azokat megküldi a 29. §-ban felsorolt szerveknek.
+(3) A bíróság elrendeli az (1) és (2) bekezdés szerinti jogerős végzéseknek a Cégközlönyben való közzétételét, és azokat megküldi a 29. §-ban felsorolt szerveknek, továbbá a jóváhagyott vagyonfelosztási javaslatnak megfelelően és az ingatlan-nyilvántartásról szóló jogszabályokban meghatározott módon és feltételekkel rendeli el jog vagy adat keletkezésének, változásának vagy megszűnésének bejegyzését.
 
-(3a) A felszámoló az (1) bekezdés szerinti jogerős végzés közzétételétől számított 15 napon belül köteles a közhiteles nyilvántartásoknál, hatósági nyilvántartásoknál eljárni annak érdekében, hogy törlésre kerüljenek azok a jogok és tények, amelyeknél az adós jogosultként van feltüntetve.
+(3a) A felszámoló az (1) bekezdés szerinti jogerős végzés közzétételétől számított 15 napon belül köteles a közhiteles járműnyilvántartásnál eljárni annak érdekében, hogy törlésre kerüljenek azok a jogok és adatok, amelyeknél az adós jogosultként van feltüntetve.
 
 (4) A felszámolónak az 59. § (1) bekezdése szerint megállapított díját – megnövelve az általános forgalmi adó fizetéséhez szükséges arányos összeggel – elsősorban a Gazdasági Hivatal által kezelt elkülönített számlán rendelkezésre álló összegből kell megfizetni. Ha az elkülönített számlán a díj megfizetésére szolgáló összeg kevesebb, mint az 59. § (1) bekezdése alapján megállapítható díj, a felszámoló a különbözetet felszámolási költségként [57. § (2) bek. g) pont] érvényesítheti, kiegészítve az általános forgalmi adó fizetéséhez szükséges arányos összeggel.
 
@@ -1808,7 +1813,9 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 
 (4) Ha a felszámoló által benyújtott jelentést és vagyonfelosztási javaslatot – a kifogás elbírálásának eredményeként – nem kell átdolgozásra visszaadni a felszámolónak, a bíróság végzéssel elrendeli az adós vagyonának, illetve be nem hajtott követeléseinek a hitelezők közötti felosztását az 57. § (1) bekezdése alapján, valamint az adós jogutód nélküli megszüntetését és a felszámolási eljárás befejezését. Ha a jelentésre kifogást nem nyújtottak be, a végzést a felszámoló által benyújtott jelentés és vagyonfelosztási javaslat beérkezésétől számított 90 napon belül kell meghozni. Amennyiben kifogást nyújtottak be, ennek tárgyában a bíróság a (2) bekezdés szerinti észrevételezésre nyitva álló határidő elteltét követő 15 napon belül dönt. Az adós jogutód nélküli megszüntetéséről és a felszámolási eljárás befejezéséről hozott végzés ellen nincs helye felülvizsgálatnak.
 
-(5) A bíróság elrendeli a (4) bekezdés szerinti jogerős végzés kivonatának a Cégközlönyben való közzétételét, és azt megküldi a 29. §-ban foglalt szerveknek. A felszámoló a közzétételtől számított 15 napon belül köteles a közhiteles nyilvántartásoknál, hatósági nyilvántartásoknál eljárni annak érdekében, hogy abból törlésre kerüljenek azok az adatok, amelyeknél az adós tulajdonosként vagy más jogosultként van feltüntetve.
+(5) A bíróság elrendeli a (4) bekezdés szerinti jogerős végzés kivonatának a Cégközlönyben való közzétételét, és azt megküldi a 29. §-ban foglalt szerveknek. A felszámoló a közzétételtől számított 15 napon belül köteles a közhiteles járműnyilvántartásnál eljárni annak érdekében, hogy abból törlésre kerüljenek azok az adatok, amelyeknél az adós tulajdonosként vagy más jogosultként van feltüntetve.
+
+(5a) A bíróság a (4) bekezdés szerinti végzésben elrendeli, hogy az ingatlanügyi hatóság törölje az ingatlan-nyilvántartásból azokat a jogokat és adatokat, amelyeknél az adós jogosultként van feltüntetve.
 
 (6) A bíróság a (4) bekezdés szerinti végzésben az adós gazdálkodó szervezet vezetőjét
 
@@ -2187,7 +2194,7 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (4) A Hatóság az (1) és (2) bekezdésben meghatározott jogszabályok szerinti felsőfokú végzettségre vonatkozó szakhatósági állásfoglalást szerezhet be.
 
-83/C. § (1) A vagyontárgy tulajdonosa kérelmére, a (2)–(5) bekezdés szerinti nemperes eljárásban a jogutód nélkül megszűnt gazdálkodó szervezet felszámolási eljárását lefolytató törvényszék végzést hoz arról, hogy a jogutód nélküli megszűnéssel összefüggő jóváhagyott vagyonfelosztási javaslatban nem volt rendelkezés a jog vagy tény más javára történő átengedéséről.
+83/C. § (1) A vagyontárgy tulajdonosa kérelmére, a (2)–(5) bekezdés szerinti nemperes eljárásban a jogutód nélkül megszűnt gazdálkodó szervezet felszámolási eljárását lefolytató törvényszék végzést hoz arról, hogy a jogutód nélküli megszűnéssel összefüggő jóváhagyott vagyonfelosztási javaslatban nem volt rendelkezés a jogutód nélkül megszűnt gazdálkodó szervezetet megillető jog vagy adat más javára történő átengedéséről vagy a jog vagy adat megszűnéséről.
 
 (2) A nemperes eljárásra – ha e § eltérően nem rendelkezik – a Polgári perrendtartásról szóló törvény szabályait megfelelően alkalmazni kell, szünetelésnek azonban nincs helye.
 
@@ -2195,7 +2202,7 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (4) Ha a felszámolási eljárás befejezéséről szóló határozat és a bíróság által jóváhagyott vagyonfelosztási javaslat már nincs a bírósági irattárban, és azok sem a felszámolótól, sem a levéltártól nem szerezhetők be, továbbá nem áll rendelkezésre más olyan okirat, amellyel hitelt érdemlő módon bizonyítható lenne annak ténye, hogy az (1) bekezdés szerinti jog vagy tény mást illet meg, a bíróság a Cégközlönyben a megszűnt gazdálkodó szervezet, valamint a jog vagy tény megjelölését is tartalmazó végzést tesz közzé. A végzés felhívást tartalmaz arra, hogy akit a jog megillet, vagy akinek a tény feltüntetése az érdekében áll, ezt a közzétételtől számított harminc napos jogvesztő határidőn belül – az azt megalapozó okiratok csatolásával – jelentheti be a bíróságnál.
 
-(5) Ha a (4) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a bíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára vagy érdekében történő feljegyzéséhez érdek nem fűződik. Ellenkező esetben a bíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
+(5) Ha a (4) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a bíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve az adat más javára vagy érdekében történő bejegyzéséhez jogszerű érdek nem fűződik. Ha a jog vagy adat közhiteles nyilvántartásba van bejegyezve, a bíróság elrendeli annak törlését is.
 
 83/D. § A Módtv-vel módosított 65–70. §-t (ide nem értve a Módtv-vel módosított 66. § (5) bekezdést) a 2012. január 1-jét követően kezdeményezett eljárásokban kell alkalmazni, a Módtv-vel módosított 66. § (5) bekezdést pedig a 2012. január 1-jén már folyamatban lévő eljárásokban is alkalmazni kell.
 

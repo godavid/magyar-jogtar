@@ -396,7 +396,7 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 (2) Megszűnik a használati jog, ha az engedélyes a használati joggal terhelt ingatlanon a szolgáltatói hőközpontot a használati jog keletkezésétől számított öt éven belül nem építi meg vagy azt véglegesen eltávolítja. Megszűnik a használati jog a felek megállapodásával is.
 
-(3) A használati jog megszűnése esetén az engedélyes a használati jog megszűnésével egyidejűleg köteles kérni az ingatlan-nyilvántartásból történő törlést. Ennek elmulasztása esetén – az engedélyes költségére – az ingatlan tulajdonosa is kérheti a használati jog törlését. Az ehhez szükséges nyilatkozatot az engedélyes köteles az ingatlantulajdonosnak kiadni, és a törléssel összefüggésben felmerült kiadásait megtéríteni.
+(3) A használati jog megszűnése esetén az engedélyes kéri a használati jog ingatlan-nyilvántartásból történő törlését. Ennek elmulasztása esetén – az engedélyes költségére – az ingatlan tulajdonosa is kérheti a használati jog törlését. Az ehhez szükséges nyilatkozatot az engedélyes köteles az ingatlantulajdonosnak kiadni, és a törléssel összefüggésben felmerült kiadásait megtéríteni.
 
 30. § Ha a használati joggal terhelt idegen ingatlan tulajdonosa a saját felhasználási helyére vonatkozó közszolgáltatási szerződést felmondja, a használati jog az engedélyest továbbra is megilleti mindaddig, amíg a hőközpontból más felhasználót is ellát. Ebben az esetben a használati jog az érdekeltek megállapodásával szüntethető meg.
 
@@ -801,9 +801,9 @@ megállapodásokat.
 
 (2) E törvény 21–32. §-ainak hatálya nem terjed ki azokra a szolgáltatói hőközpontokat magában foglaló helyiségekre, amelyeket a törvény hatálybalépésekor a távhőszolgáltató az ingatlantulajdonossal kötött külön megállapodás alapján használ.
 
-(3) A távhőszolgáltató jogosult az e törvény hatálybalépésekor meglévő vezetékjogot és használati jogot a jog létrejöttekor hatályos jogszabályok előírásainak megfelelően gyakorolni.
+(3) A távhőszolgáltató – az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 3/C. §-ára is tekintettel – jogosult az e törvény hatálybalépésekor meglévő vezetékjogot és használati jogot a jog létrejöttekor hatályos jogszabályok előírásainak megfelelően gyakorolni.
 
-(4)
+(4) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 23. § (1) és (1a) bekezdésében, 25. §-ában és 29. § (1) bekezdésében foglaltakat a módosítás hatálybalépését követően létrejött vezetékjogra és használati jogra kell alkalmazni.
 
 59. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 5. § (1) bekezdését a 2021. évi felügyeleti díj megállapítása során azzal az eltéréssel kell alkalmazni, hogy a 2021. január 1. és 2021. március 31. közé eső időszakra esedékes felügyeleti díjat, valamint a 2021. április 1-jétől esedékes felügyeleti díjat – az időszakban hatályos szabályok szerint – időarányosan kell megfizetni.
 

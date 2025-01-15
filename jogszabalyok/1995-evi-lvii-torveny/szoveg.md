@@ -876,7 +876,7 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 
 26. § Ha a vizek mennyisége vagy a vízilétesítmények teljesítőképessége a többletvizek fokozatos leeresztését teszi szükségessé (szükséghelyzet), az érintett ingatlan tulajdonosa (használója) köteles tűrni, hogy a vizeket a nagyobb kár csökkentése és elhárítása érdekében ideiglenesen az ingatlanon tartsák, odavezessék, ideiglenesen tározzák, illetve az ingatlanon átvezessék.
 
-27. § A 20. § (1) és (2) bekezdése alapján megállapított vízvezetési és vízhasználati szolgalmi jogot az ingatlan-nyilvántartásba be kell jegyezni, továbbá a 21. § szerinti vízkárelhárítási célú tározóban, a 25. § (3) bekezdése szerinti védőterületen, a nagyvízi mederben, illetve a parti sávban való elhelyezkedés tényét, mint jogi jelleget a vízügyi hatóságnak az érintett ingatlanra vonatkozó végleges határozata alapján az ingatlan-nyilvántartásba fel kell jegyezni.
+27. § A 20. § (1) és (2) bekezdése alapján megállapított vízvezetési és vízhasználati szolgalmi jogot, továbbá a 21. § szerinti vízkárelhárítási célú tározóban, a 25. § (3) bekezdése szerinti védőterületen, a nagyvízi mederben, illetve a parti sávban való elhelyezkedést mint jogi jelleget a vízügyi hatóságnak az érintett ingatlanra vonatkozó végleges határozatán alapuló felhívása alapján az ingatlan-nyilvántartásba be kell jegyezni.
 
 ### VIII. Fejezet — A VÍZGAZDÁLKODÁSI HATÓSÁGI JOGKÖR
 

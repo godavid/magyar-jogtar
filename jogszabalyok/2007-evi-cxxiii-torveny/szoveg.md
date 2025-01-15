@@ -43,8 +43,8 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 (2) Az adásvételi vagy csereszerződés megkötését meghiúsultnak kell tekinteni, ha
 
-- a) a kisajátítást kérőnek – a kisajátítási kérelem benyújtását megelőző 1 éven belül megtett – ajánlatára a tulajdonos vagy más kártalanításra jogosult a kézhezvételtől számított harminc napon belül nem tesz a tulajdonjog ingatlan-nyilvántartási átvezetésére is alkalmas elfogadó nyilatkozatot vagy írásban úgy nyilatkozik, hogy nem fogadja el az ajánlatot;
-- b) a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen, illetve az ingatlan tulajdonjogával összefüggésben per van folyamatban és azt az ingatlan-nyilvántartásba feljegyezték, feljegyzés alatt áll, illetve más módon igazolták; vagy
+- a) a kisajátítást kérőnek – a kisajátítási kérelem benyújtását megelőző 1 éven belül megtett – ajánlatára a tulajdonos vagy más kártalanításra jogosult a kézhezvételtől számított harminc napon belül nem tesz a tulajdonjog ingatlan-nyilvántartási bejegyzésére is alkalmas elfogadó nyilatkozatot vagy írásban úgy nyilatkozik, hogy nem fogadja el az ajánlatot;
+- b) a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen, illetve az ingatlan tulajdonjogával összefüggésben per van folyamatban és azt az ingatlan-nyilvántartásba bejegyezték, bejegyzés alatt áll, illetve más módon igazolták; vagy
 - c) a tulajdonos vagy más kártalanításra jogosult lakóhelye, tartózkodási helye, székhelye ismeretlen, vagy a kisajátítást kérő ajánlatának közlése részükre egyéb körülményeik folytán rendkívüli nehézséggel vagy számottevő késedelemmel járna; önmagában a tulajdonosok vagy más kártalanításra jogosultak nagy száma nem minősül ilyen egyéb körülménynek.
 
 4. § (1) A 2. § szerinti közérdekű célokra az alábbi esetekben lehetséges kisajátítás:
@@ -94,7 +94,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - la) az erdőben olyan tevékenység folyik, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
   - lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna;
 - m) környezetvédelem céljából, ha
-  - ma) ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszámolása,
+  - ma) ingatlan-nyilvántartásba bejegyzett tartós környezetkárosodás felszámolása,
   - mb) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szereplő hulladékkezelő létesítmény elhelyezése,
   - mc) hulladékkezelő létesítmény rekultivációja,
   - md) sűrűn beépített nagyvárosias lakóterület levegőszennyezettségének és zajterhelésének csökkentése céljából zöldterület kialakítása
@@ -148,9 +148,9 @@ jelentősen akadályozza vagy megszünteti.
 
 (5) A visszamaradó rész kisajátítását legkésőbb a kisajátítási tárgyalás befejezéséig lehet kérni.
 
-(6) A kisajátítással érintett ingatlan tulajdonosa az ingatlan tulajdonjogával a kisajátítási eljárás időtartama alatt csak a kisajátítást kérő javára vagy más részére a kisajátítást kérő hozzájárulásával rendelkezhet. A kisajátítási hatóság a kisajátítási eljárás időtartamára az ingatlanra – a kisajátítást kérő javára – elidegenítési tilalmat jegyeztet fel az ingatlan-nyilvántartásban.
+(6) A kisajátítással érintett ingatlan tulajdonosa az ingatlan tulajdonjogával a kisajátítási eljárás időtartama alatt csak a kisajátítást kérő javára vagy más részére a kisajátítást kérő hozzájárulásával rendelkezhet. A kisajátítási hatóság a kisajátítási eljárás időtartamára az ingatlanra – a kisajátítást kérő javára – elidegenítési tilalmat jegyeztet be az ingatlan-nyilvántartásban.
 
-(7) Ha az ingatlanra végrehajtási jog van bejegyezve, a kisajátítási eljárás megindítása tényének feljegyzését követően a végrehajtó a bírósági végrehajtásról szóló törvény által meghatározott külön szabályok szerint jár el.
+(7) Ha az ingatlanra végrehajtási jog van bejegyezve, a kisajátítási eljárás megindítása tényének bejegyzését követően a végrehajtó a bírósági végrehajtásról szóló törvény által meghatározott külön szabályok szerint jár el.
 
 7. § (1) Termőföld kisajátítására – amennyiben a kisajátítás céljának megvalósítása érdekében a termőföld igénybevétele szükséges – akkor kerülhet sor, ha a földnek a végleges más célú hasznosítását az ingatlanügyi hatóság engedélyezte, vagy a más célú hasznosítás folytatásához hozzájárult. A termőföld védelméről szóló 2007. évi CXXIX. törvény 17/A. §-ában említett területek esetében a termőföld a más célú hasznosítás folytatásához való hozzájárulás hiányában is kisajátítható, ha az ingatlanügyi hatóság a más célú hasznosítás folytatásához kizárólag a tulajdonosi, illetve haszonélvezői hozzájárulás hiánya miatt nem járult hozzá.
 
@@ -176,9 +176,9 @@ jelentősen akadályozza vagy megszünteti.
 
 8. § (1) A kisajátítási határozat véglegessé válásával – e törvény eltérő rendelkezése hiányában – az ingatlan tulajdonjogának tehermentes megszerzésére kerül sor.
 
-(2) A kisajátítási határozatban rendelkezni kell az ingatlanra vonatkozóan más személyt megillető jogokról és az ingatlanra feljegyzett tényekről.
+(2) A kisajátítási határozatban rendelkezni kell az ingatlanra vonatkozóan más személyt megillető jogokról és az ingatlanra bejegyzett tényekről.
 
-(3) Pénzbeli kártalanítás esetén a kisajátított ingatlanra vonatkozóan más személyt megillető jogok – a (6) bekezdésben foglalt eltéréssel –, és az ingatlanra feljegyzett tények megszűnnek.
+(3) Pénzbeli kártalanítás esetén a kisajátított ingatlanra vonatkozóan más személyt megillető jogok – a (6) bekezdésben foglalt eltéréssel –, és az ingatlanra bejegyzett tények megszűnnek.
 
 (4) Ha a kisajátított ingatlanon jelzálogjog állt fenn, a tulajdonos és a zálogjogosult eltérő megállapodásának hiányában a pénzbeli kártalanítás – a jelzálogjoggal biztosított követelés erejéig – a zálogjog tárgyaként a kisajátított ingatlan helyébe lép és a kártalanítás ezen hányadát bírósági letétbe kell helyezni. A jelzálogjoggal biztosított követelés összegéről a kisajátítási hatóság felhívására a jelzálogjogosult nyilatkozni köteles. Ha a jelzálogjogosult a nyilatkozattételi kötelezettségét nem teljesíti, a letétbe helyezés helyett a pénzbeli kártalanítás egészét a kártalanításra jogosult részére kell megfizetni.
 
@@ -211,7 +211,7 @@ kell figyelembe venni.
 
 10. § (1) Nem jár kártalanítás
 
-- a) az ingatlanra feljegyzett tények megszűnéséért;
+- a) az ingatlanra bejegyzett tények megszűnéséért;
 - b) az olyan épületért,
   - ba) amelynél az építést, a használatbevételt vagy fennmaradást engedélyező véglegessé vált határozat a későbbi lebontás esetére a kártalanítást kizárta,
   - bb) amelynek a lebontását az építésügyi vagy az építésfelügyeleti hatóság véglegessé vált döntéssel elrendelte.
@@ -406,7 +406,7 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 24/C. § A 18. §-ban foglalt esetben a kisajátítási eljárást a kisajátítást kérő kérelmére – legfeljebb a kárelhárítási intézkedések végrehajtásához szükséges időtartamra – fel kell függeszteni. Az eljárást a kisajátítást kérő kérelmére, de legkésőbb a kárelhárítási intézkedések befejezését követően folytatni kell. Ha a kisajátítást kérő a kárelhárítási intézkedések befejezését megelőzően vagy azzal egyidejűleg nem kérte az eljárás folytatását, a kárelhárítási intézkedések befejezését köteles a kisajátítási hatóság részére haladéktalanul bejelenteni.
 
-25. § (1) A kisajátítási hatóság a kisajátítási kérelem beérkezésétől számított nyolc napon belül a kisajátítással érintett tulajdonosok nevét és lakcímét, valamint az ingatlan helyrajzi számát tartalmazó végzésével megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének és az elidegenítési tilalomnak az ingatlan-nyilvántartásba történő feljegyzése, valamint az ingatlan tulajdoni lapján széljegyzett személynek és ingatlan-nyilvántartási jogelődjének neve (cégneve) és lakcíme (székhelye) közlése érdekében. A kisajátítási hatóság végzése és annak melléklete ingatlan-nyilvántartási feljegyzésre alkalmas okirat, valamint az ingatlanügyi hatóság ezen okirat alapján teljesíti a név- és lakcímadatok szolgáltatását is.
+25. § (1) A kisajátítási hatóság a kisajátítási kérelem beérkezésétől számított nyolc napon belül a kisajátítással érintett tulajdonosok nevét és lakcímét, valamint az ingatlan helyrajzi számát tartalmazó végzésével felhívja az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének és az elidegenítési tilalomnak az ingatlan-nyilvántartásba történő bejegyzése, valamint az ingatlan tulajdoni lapján széljegyzett személynek és ingatlan-nyilvántartási jogelődjének neve (cégneve) és lakcíme (székhelye) közlése érdekében. A kisajátítási hatóság végzése és annak melléklete ingatlan-nyilvántartási bejegyzésre alkalmas okirat, valamint az ingatlanügyi hatóság ezen okirat alapján teljesíti a név- és lakcímadatok szolgáltatását is.
 
 (2) Ha a kérelem és mellékletei megfelelnek az e törvényben előírt feltételeknek, a kisajátítási hatóság – a 26. §-ban foglalt kivételekkel – tárgyalást tűz ki. A kisajátítási hatóság – ha a szükséges szakértelemmel nem rendelkezik – a kisajátításra vonatkozó szakvélemény elkészítése céljából az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértőt (a továbbiakban: szakértő) rendel ki, és meghatározza a szakvélemény elkészítésének határidejét. A kisajátítási hatóság részleges kisajátítás esetén – ha szükséges – kötelezi a kisajátítást kérőt a kisajátítandó ingatlan határainak a szakértővel egyeztetett időpontra történő ideiglenes kitűzésére is, amely kitűzést az ingatlanon fennálló jog jogosultja tűrni köteles.
 
@@ -568,7 +568,7 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 
 alapján vezeti át az ingatlan-nyilvántartáson.
 
-(3) Az ingatlanügyi hatóság a kisajátítási hatóság megkeresésére, a kisajátítás tárgyában hozott döntés alapján törli az ingatlan-nyilvántartásból a kisajátítási eljárás megindításának tényére, valamint az elidegenítési tilalomra vonatkozó feljegyzést.
+(3) Az ingatlanügyi hatóság a kisajátítási hatóság felhívására, a kisajátítás tárgyában hozott döntés alapján törli az ingatlan-nyilvántartásból a kisajátítási eljárás megindításának tényére, valamint az elidegenítési tilalomra vonatkozó bejegyzést.
 
 ### Járulékos költség megtérítése
 
@@ -659,7 +659,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (4) A kérelemben meg kell jelölni azt is, hogy annak célja a kisajátítás jogalapjának és a kártalanítás összegének előzetes megállapítása. A kérelemhez mellékelni kell a tulajdoni per megindítását igazoló iratot is, valamint meg kell jelölni az igénylő nevét, lakcímét (székhelyét) is.
 
-(5) Az előzetes eljárás megindításától kezdve az érintett ingatlanon építési tilalom áll fenn. Az építési tilalom a kérelmezőre nem vonatkozik, feltéve, hogy az érintett ingatlanon való építkezésének egyéb akadálya nincs. Az építési tilalmat az ingatlan-nyilvántartásba fel kell jegyezni, eziránt a kisajátítási hatóság az előzetes eljárásra irányuló kérelem beérkezését követő nyolc napon belül – a kérelmező és az igénylő nevét, címét (székhelyét) is megjelölő végzésével – megkeresi az ingatlanügyi hatóságot. Az építési tilalom annak 40/D. § szerinti törléséig áll fenn.
+(5) Az előzetes eljárás megindításától kezdve az érintett ingatlanon építési tilalom áll fenn. Az építési tilalom a kérelmezőre nem vonatkozik, feltéve, hogy az érintett ingatlanon való építkezésének egyéb akadálya nincs. Az építési tilalmat az ingatlan-nyilvántartásba be kell jegyezni, eziránt a kisajátítási hatóság az előzetes eljárásra irányuló kérelem beérkezését követő nyolc napon belül – a kérelmező és az igénylő nevét, címét (székhelyét) is megjelölő végzésével – felhívja az ingatlanügyi hatóságot. Az építési tilalom annak 40/D. § szerinti törléséig áll fenn.
 
 (6) Az eljárás tárgyából értelemszerűen következő rendelkezések alkalmazásának mellőzésén felül az előzetes eljárás során az alábbi rendelkezéseket sem kell alkalmazni:
 
@@ -675,9 +675,9 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (3) Az előzetes állásfoglalás az igénylőnek az érintett ingatlanon való tulajdonszerzését követő hat hónapig, vagy – ha ez a korábbi időpont – a véglegessé válásától számított két évig hatályos.
 
-40/D. § (1) Az előzetes eljárásban feljegyzett építési tilalmat
+40/D. § (1) Az előzetes eljárásban bejegyzett építési tilalmat
 
-- a) az ingatlanügyi hatóság hivatalból törli, ha a tulajdoni per eredménye alapján történő tulajdonosváltozás ingatlan-nyilvántartási bejegyzését követő 60 napon belül az érintett ingatlanra nem kérik – a kérelmező által vagy nevében indított – kisajátítási eljárás megindítása tényének feljegyzését,
+- a) az ingatlanügyi hatóság hivatalból törli, ha a tulajdoni per eredménye alapján történő tulajdonosváltozás ingatlan-nyilvántartási bejegyzését követő 60 napon belül az érintett ingatlanra nem kérik – a kérelmező által vagy nevében indított – kisajátítási eljárás megindítása tényének bejegyzését,
 - b) a kérelmező kérelmére törölni kell.
 
 (2) Ha a tulajdoni per nem az igénylő pernyertességével zárul, a per befejezését követő 30 napon belül a kérelmező köteles az építési tilalom törlését kérelmezni.

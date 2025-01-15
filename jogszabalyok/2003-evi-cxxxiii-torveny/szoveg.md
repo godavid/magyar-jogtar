@@ -40,15 +40,15 @@ Az Országgyűlés a társasháztulajdon létesítése és biztonságos fenntart
 
 (5) Az alapításhoz a társasháztulajdonnak az ingatlan-nyilvántartásba való bejegyzése is szükséges. Az alapító okiratot az ingatlan-nyilvántartási iratokhoz kell csatolni.
 
-6. § (1) A társasháztulajdon földrészletre való feljegyzésének vagy meglevő épületre való bejegyzésének feltétele, hogy az ingatlan-nyilvántartásban feltüntetett jogokat töröljék, vagy az érdekeltek megegyezzenek abban, hogy azok a társasházzá történő átalakítás után mely ingatlanokat fogják terhelni.
+6. § (1) A társasháztulajdon földrészletre, illetve meglevő épületre való bejegyzésének feltétele, hogy az ingatlan-nyilvántartásban feltüntetett jogokat töröljék, vagy az érdekeltek megegyezzenek abban, hogy azok a társasházzá történő átalakítás után mely ingatlanokat fogják terhelni.
 
-(2) Ha – a jogszabályon alapuló elővásárlási jog kivételével – az adott ingatlanra vonatkozóan elővásárlási jog áll fenn, úgy az elővásárlási jog jogosultját a tulajdonos – több tulajdonostárs esetén a tulajdonostársak együttesen – írásban felhívja annak érdekében, hogy nyilatkozzon arról, hogy a társasházzá történő átalakítást követően mely újonnan létrejövő ingatlanokra kívánja az elővásárlási jogát fenntartani. Ha a felhívás közlésétől számított harmincnapos jogvesztő határidőn belül az elővásárlási jog jogosultja a felhívásra nem ad írásbeli választ vagy az általa adott írásbeli válasz alapján az elővásárlási jog átjegyzésével érintett, újonnan létrejövő ingatlanok nem azonosíthatóak be egyértelműen, akkor a társasháztulajdon (1) bekezdés szerinti ingatlan-nyilvántartási bejegyzése, illetve feljegyzése az elővásárlási jog jogosultjának nyilatkozata, illetve a vele történt (1) bekezdés szerinti megegyezés nélkül is kérhető abban az esetben, ha az elővásárlási jog valamennyi újonnan létrejövő önálló ingatlanra bejegyzésre kerül.
+(2) Ha – a jogszabályon alapuló elővásárlási jog kivételével – az adott ingatlanra vonatkozóan elővásárlási jog áll fenn, úgy az elővásárlási jog jogosultját a tulajdonos – több tulajdonostárs esetén a tulajdonostársak együttesen – írásban felhívja annak érdekében, hogy nyilatkozzon arról, hogy a társasházzá történő átalakítást követően mely újonnan létrejövő ingatlanokra kívánja az elővásárlási jogát fenntartani. Ha a felhívás közlésétől számított harmincnapos jogvesztő határidőn belül az elővásárlási jog jogosultja a felhívásra nem ad írásbeli választ vagy az általa adott írásbeli válasz alapján az elővásárlási jog átjegyzésével érintett, újonnan létrejövő ingatlanok nem azonosíthatóak be egyértelműen, akkor a társasháztulajdon (1) bekezdés szerinti ingatlan-nyilvántartási bejegyzése az elővásárlási jog jogosultjának nyilatkozata, illetve a vele történt (1) bekezdés szerinti megegyezés nélkül is kérhető abban az esetben, ha az elővásárlási jog valamennyi újonnan létrejövő önálló ingatlanra bejegyzésre kerül.
 
 (3) Arról a tényről, hogy az elővásárlási jog jogosultja a 30 napos jogvesztő határidőn belül nem tett a (2) bekezdés szerinti feltételeknek megfelelő nyilatkozatot, közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt nyilatkozattal a tulajdonos, illetve a tulajdonostársak az ingatlan-nyilvántartási eljárás során nyilatkoznak.
 
-7. § (1) Társasház felépítendő épületre úgy alapítható, hogy a földrészlet tulajdonosa vagy valamennyi tulajdonostársa az alapítási szándékot alapító okiratba foglalja, és az előzetes alapítás tényét az ingatlan-nyilvántartásban a földrészlet tulajdoni lapjára feljegyzik.
+7. § (1) Társasház felépítendő épületre úgy alapítható, hogy a földrészlet tulajdonosa vagy valamennyi tulajdonostársa az alapítási szándékot alapító okiratba foglalja, és az előzetes alapítás tényét az ingatlan-nyilvántartásban a földrészlet tulajdoni lapjára bejegyzik.
 
-(2) A feljegyzett alapítás ténye kihat arra is, aki később az ingatlanra nézve jogot szerez.
+(2) A bejegyzett alapítás ténye kihat arra is, aki később az ingatlanra nézve jogot szerez.
 
 (3) Az épület felépítését követően kérhető a társasház ingatlan-nyilvántartásba történő bejegyzése. Ha a felépült épület nem felel meg az (1) bekezdés szerinti alapító okiratban foglaltaknak, a társasház ingatlan-nyilvántartási bejegyzéséhez az alapító okirat megfelelő módosítása szükséges.
 
@@ -137,7 +137,7 @@ vonatkozó részletes szabályokat.
 
 (4) Ha a (2) bekezdésben említett írásbeli szavazás eredménytelen, vagy a tulajdoni hányad 1/10-ével rendelkező tulajdonostársak módosító javaslatot tesznek, a közös képviselő vagy az intézőbizottság elnöke az (1) bekezdésben előírt határidőn belül a közgyűlést köteles összehívni.
 
-15. § A közösség – a 14. §-ban meghatározottak szerint – a szervezeti-működési szabályzatot bármikor módosíthatja. A szervezeti-működési szabályzatot, illetőleg annak módosítását az ingatlan-nyilvántartási iratokhoz kell csatolni.
+15. § A közösség – a 14. §-ban meghatározottak szerint – a szervezeti-működési szabályzatot bármikor módosíthatja. A szervezeti-működési szabályzatot, illetve annak módosítását a közösség 15 napon belül az ingatlanügyi hatóságnak annak okirattárba helyezése céljából benyújtja.
 
 ### II. Fejezet — JOGOK ÉS KÖTELEZETTSÉGEK A TÁRSASHÁZBAN
 
@@ -614,7 +614,7 @@ jogok és kötelezettségek
 
 55/A. § (1) A társasházi tisztségviselők nyilvántartásának célja, hogy a közösség ügyintézését ellátó tisztségviselők e törvényben meghatározott adatainak országosan nyilvános közzétételével megvalósuljon a társasházak működésének transzparenciája, a jegyző társasházak felett gyakorolt törvényességi felügyeletének hatékonysága biztosított legyen, továbbá a társasházak és a közösség jogait és kötelezettségeit érintő hatósági eljárások során a megfelelő kapcsolattartást elősegítse.
 
-(2) A közgyűlés által megválasztott közös képviselő vagy az intézőbizottság elnöke a közösség ügyintézését ellátó tevékenységet csak akkor láthat el, ha a tisztség keletkezésének tényét az ingatlanügyi hatóság – az erre irányuló kérelme alapján – az ingatlan-nyilvántartásba – a társasház törzslapra – feljegyezte.
+(2) A közgyűlés által megválasztott közös képviselő vagy az intézőbizottság elnöke a közösség ügyintézését ellátó tevékenységet csak akkor láthat el, ha a tisztség keletkezésének tényét az ingatlanügyi hatóság – az erre irányuló kérelme alapján – az ingatlan-nyilvántartásba – a társasház törzslapra – bejegyezte.
 
 55/B. § (1) A tisztség keletkezésének ténye tartalmazza
 
@@ -625,7 +625,7 @@ jogok és kötelezettségek
   - ad) jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén – valamint ha a természetes személy tisztségviselő bejelenti – az elektronikus levélcímét, telefonos elérhetőségét,
 - b) a társasházközösség nevét.
 
-(2) A közös képviselő vagy az intézőbizottság elnöke a közgyűlés által elfogadott számviteli szabályok szerinti beszámolót benyújtja az ingatlanügyi hatósághoz. A beszámoló benyújtásának tényét az ingatlanügyi hatóság a társasház törzslapra feljegyzi.
+(2) A közös képviselő vagy az intézőbizottság elnöke a közgyűlés által elfogadott számviteli szabályok szerinti beszámolót benyújtja az ingatlanügyi hatósághoz. A beszámoló benyújtásának tényét az ingatlanügyi hatóság a társasház törzslapra bejegyzi.
 
 55/C. § A földmérési és térinformatikai államigazgatási szerv az általa üzemeltetett honlapon – bárki számára korlátozásmentes hozzáférést biztosítva – közzéteszi a társasházi tisztségviselők e fejezetben meghatározott adatait, a társasházak számviteli szabályok szerinti beszámolóit, valamint a társasház közösségének nevét, címét, helyrajzi számát.
 

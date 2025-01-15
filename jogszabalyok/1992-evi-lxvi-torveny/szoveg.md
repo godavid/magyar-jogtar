@@ -619,7 +619,7 @@ van lehetőség.
 
 22. § E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:
 
-- a) az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás és a földvédelmi nyilvántartás vezetésével összefüggésben;
+- a) a lakcímadatok, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való, az elhalálozáson kívüli kikerülés oka, helye és ideje kivételével az ingatlan-nyilvántartás, a földhasználati nyilvántartás, a földvédelmi nyilvántartás, továbbá a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás, a földvédelmi nyilvántartás, továbbá a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás vezetésével összefüggésben;
 - b) a Magyar Honvédség központi nyilvántartó szerve, a területi katonai igazgatási szervek és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
 - c)
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
@@ -642,6 +642,8 @@ van lehetőség.
   - qd) a kieséses örökös tekintetében az állampolgárságra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére és a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével,
 
 a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása iránti eljáráshoz és az ingatlan-nyilvántartási feladatok ellátásához.
+
+22/A. § A nyilvántartást kezelő szerv az ingatlanügyi hatóság kérésére a tulajdoni lapon történő feltüntetés céljából átadja az azon szereplő polgár lakcímadatát.
 
 22/B. § E törvény felhatalmazása alapján a 17. § (2) bekezdés e) pontja szerinti adatok és a lakcím igénylésére jogosultak a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, az ellenőrzött anyagokkal és kábítószer prekurzorokkal, az atomenergiával, a személy és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz.
 

@@ -930,7 +930,7 @@ közli.
 
 (6) Az Adattárba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság bizonyítékként kizárólag közokiratot, teljes bizonyító erejű magánokiratot, valamint az erdészeti hatósági eljárások során keletkező iratot használhat fel.
 
-(7) Az erdészeti hatóság az ingatlan-nyilvántartásban – az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló rendelet előírásai alapján – nem a megfelelő művelési ágban nyilvántartott erdő, szabad rendelkezésű erdő, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vonatkozásában kezdeményezi az ingatlanügyi hatóságnál a művelési ág módosítását.
+(7) Az erdészeti hatóság az ingatlan-nyilvántartásban – az ingatlan-nyilvántartásról szóló jogszabályok előírásai alapján – nem a megfelelő művelési ágban nyilvántartott erdő, szabad rendelkezésű erdő, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vonatkozásában hatósági felhívást intéz az ingatlanügyi hatósághoz a művelési ág módosításának bejegyzésére.
 
 39. § (1) Az erdőgazdálkodási tevékenységgel összefüggő tervezés, irányítás, ellenőrzés és tájékoztatás az Adattár adatainak felhasználásával történik.
 
@@ -2274,6 +2274,12 @@ vonatkozó adat igénylésére.
 
 (7) Az erdészeti hatóság által vezetett közhiteles hatósági nyilvántartás adataiban bekövetkező változások bejelentése azon adatok tekintetében, amelyeket más nyilvántartás tartalmaz közhitelesen, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bejelentésre kötelezett személy kéri – a bejelentési kötelezettségre meghatározott határidőben értesíti az erdészeti hatóságot.
 
+(8) A földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlan-nyilvántartási rendszerből, valamint a földhasználati nyilvántartás számítógépes adatbázisából a Kormány által biztosított azonosítási szolgáltatás igénybevételével való azonosítás útján, elektronikusan feldolgozható formában vagy elektronikus dokumentumként informatikai hálózaton keresztül az erdészeti hatóság számára a faanyag-kereskedelmi lánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében díj, költség és térítésmentesen adatszolgáltatást teljesít.
+
+(9) A (8) bekezdés szerinti adatszolgáltatás során az ingatlanra vonatkozóan a teljes tulajdonilap-másolat és földhasználatilap-másolat teljes adattartalma továbbítható.
+
+(10) Az adatszolgáltatás során átadott adatok kizárólag a (8) bekezdés szerinti feladatellátáshoz használhatók fel, harmadik személy részére nem adhatók tovább.
+
 ### Erdőgazdálkodási tevékenység gyakorlásával kapcsolatos eljárásokban fizetendő igazgatási szolgáltatási díj
 
 105/B. § (1) Az e törvényben foglalt, kérelemre induló eljárásokért – beleértve a szakhatósági eljárásokat – valamint igazgatási jellegű szolgáltatásokért, a (2) bekezdésben foglalt kivétellel, igazgatási szolgáltatási díjat kell fizetni.
@@ -2695,7 +2701,7 @@ felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 
 (3) A felépítmény ingatlan-nyilvántartásban önálló ingatlanként történő feltüntetésére, továbbá a felépítmény mindenkori tulajdonosát és egyéb jogosultját megillető jogok bejegyzésére irányuló ingatlanügyi eljárásban
 
-- a) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 28. § (1) bekezdésében foglalt rendelkezéseket és az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtására kiadott, az ingatlannal kapcsolatos jogok bejegyzésére, tények feljegyzésére és az ingatlan adataiban bekövetkezett változások vezetésére vonatkozó részletes szabályokat tartalmazó miniszteri rendeletnek az adatváltozás átvezetéséhez szükséges végleges hatósági engedélyre, jóváhagyásra és – a (4) bekezdésben valamint a (6) bekezdés c) pontjában meghatározott kivétellel – bizonyítványra vonatkozó rendelkezéseit nem kell alkalmazni,
+- a) az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 29. § (3) bekezdésében foglalt rendelkezéseket és az ingatlan-nyilvántartásról szóló 2021. évi C. törvény végrehajtására kiadott, az ingatlannal kapcsolatos jogok bejegyzésére, tények feljegyzésére és az ingatlan adataiban bekövetkezett változások vezetésére vonatkozó részletes szabályokat tartalmazó miniszteri rendeletnek az adatváltozás átvezetéséhez szükséges végleges hatósági engedélyre, jóváhagyásra és – a (4) bekezdésben valamint a (6) bekezdés c) pontjában meghatározott kivétellel – bizonyítványra vonatkozó rendelkezéseit nem kell alkalmazni,
 - b) a felépítményt tartalmazó földrészletre az ingatlan-nyilvántartásba bejegyzett telekalakítási és építési tilalmat vagy egyéb korlátozást nem kell figyelembe venni.
 
 (4) A kérelmező a (3) bekezdés szerinti ingatlanügyi eljárásban, ha rendelkezésre áll, a felépítményre vonatkozó, építésügyi hatóság által kiadott használatbavételi engedélyt, használatbavétel tudomásulvételét igazoló okiratot, fennmaradási engedélyt vagy hatósági bizonyítványt benyújtja.
@@ -2714,7 +2720,14 @@ felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 
 (9) A (3) bekezdés szerinti ingatlanügyi eljárásokat 2026. december 31-ig le kell zárni.
 
-114. § Az egyes agrártárgyú törvények deregulációs szempontú módosításáról szóló 2023. évi XCIII. törvénnyel (a továbbiakban: Módtv.) megállapított 15. § (4) bekezdés rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+114. § (1) Az Országos Erdőállomány Adattárból a 113. § (24) vagy (27) bekezdése szerinti kivezetést vagy átminősítést át kell vezetni az ingatlan-nyilvántartás szerinti művelési ágban, továbbá a településrendezési eszközökön is.
+
+(2) Az erdészeti hatóság a határozat véglegessé válásától számított 8 napon belül
+
+- a) köteles hatósági felhívást intézni az ingatlanügyi hatósághoz az ingatlan-nyilvántartásnak, valamint
+- b) a települési önkormányzatot megkeresni a településrendezési eszközöknek
+
+az Országos Erdőállomány Adattárral történő összhangba hozatala érdekében.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

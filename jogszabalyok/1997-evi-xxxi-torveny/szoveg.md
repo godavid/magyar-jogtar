@@ -1021,7 +1021,7 @@ kell kifizetni.
 
 (5) Ha a hitelintézet igazolása szerint a lakás-előtakarékossági szerződés alapján a hitelintézet által kifizetett, állami támogatással és kamattal növelt betétösszeget a fiatal felnőtt
 
-- a) teljes mértékben az Ltv.-ben meghatározott lakáscélra használta fel, a gyámhatóság elfogadja az otthonteremtési támogatás felhasználását, és intézkedik a (3) bekezdés alapján kirendelt utógondozó intézmény felmentése, valamint a 26/C. § (2) bekezdésében foglalt elidegenítési tilalom tényének feljegyzése iránt,
+- a) teljes mértékben az Ltv.-ben meghatározott lakáscélra használta fel, a gyámhatóság elfogadja az otthonteremtési támogatás felhasználását, és intézkedik a (3) bekezdés alapján kirendelt utógondozó intézmény felmentése, valamint a 26/C. § (2) bekezdésében foglalt elidegenítési tilalom bejegyzése iránt,
 - b) nem vagy nem teljes mértékben az Ltv.-ben meghatározott lakáscélra használta fel, a gyámhatóság – a lakáscélra fordított összeg felhasználásának elfogadása mellett – a nem cél szerint felhasznált otthonteremtési támogatás visszafizetésére kötelezi a fiatal felnőttet, egyidejűleg intézkedik a (3) bekezdés alapján kirendelt utógondozó intézmény felmentése iránt.
 
 (6) Az (5) bekezdés b) pontja szerinti esetben a gyámhatóság a fiatal felnőtt kérelmére a visszafizetendő összeget méltányosságból elengedheti, csökkentheti, illetve arra részletfizetést engedélyezhet, feltéve, hogy a 133. § (5) bekezdésében foglalt feltétel fennáll.
@@ -1036,11 +1036,11 @@ kell kifizetni.
 
 26/C. § (1) A gyámhatóság az otthonteremtési támogatást a központi költségvetés terhére biztosítja.
 
-(2) A gyámhatóság öt év időtartamra elidegenítési tilalom tényét jegyezteti fel az állam javára az ingatlan-nyilvántartásba a 25. § (5) bekezdés a), b) és 2020. december 31-én hatályos e) pontjában foglalt felhasználási célra megállapított otthonteremtési támogatással megszerzett építési telekre, lakásra, családi házra vagy tanyára.
+(2) A gyámhatóság öt év időtartamra elidegenítési tilalmat jegyeztet be az állam javára az ingatlan-nyilvántartásba a 25. § (5) bekezdés a), b) és 2020. december 31-én hatályos e) pontjában foglalt felhasználási célra megállapított otthonteremtési támogatással megszerzett építési telekre, lakásra, családi házra vagy tanyára.
 
-(3) Az otthonteremtési támogatásra jogosult fiatal felnőtt kérelmére, körülményeinek lényeges változása esetén a gyámhatóság az általa feljegyeztetett elidegenítési tilalom tényét feloldhatja.
+(3) Az otthonteremtési támogatásra jogosult fiatal felnőtt kérelmére, körülményeinek lényeges változása esetén a gyámhatóság az általa bejegyeztetett elidegenítési tilalmat feloldhatja.
 
-(4) A gyámhatóság a (2) bekezdésben meghatározott elidegenítési tilalom tényét feljegyezteti a korábbi – az otthonteremtési támogatás felhasználásával a fiatal felnőtt tulajdonába került – lakás, családi ház, tanya, építési telek felhasználásával megszerzett újabb lakásra, családi házra, tanyára, építési telekre, legfeljebb az előzőleg előírt elidegenítési tilalom időtartamának lejártáig.
+(4) A gyámhatóság a (2) bekezdésben meghatározott elidegenítési tilalmat bejegyezteti a korábbi – az otthonteremtési támogatás felhasználásával a fiatal felnőtt tulajdonába került – lakás, családi ház, tanya, építési telek felhasználásával megszerzett újabb lakásra, családi házra, tanyára, építési telekre, legfeljebb az előzőleg előírt elidegenítési tilalom időtartamának lejártáig.
 
 (5) A (2) és (4) bekezdésben meghatározott elidegenítési tilalomból eredő valamennyi polgári jogi jogviszonyban a Magyar Államot a kincstár képviseli.
 

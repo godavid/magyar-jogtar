@@ -832,7 +832,7 @@ vonatkozó információ.
 
 (3) A bányatelket kérelemre, külfejtéses művelésre vonatkozó bányatelek esetében az ingatlantulajdonosoknak a bányatelekkel lefedni tervezett ingatlanok várható igénybevételi ütemtervével és az ingatlanok használati, hasznosítási, illetve rendelkezési jogával kapcsolatos észrevételei figyelembevételével a bányafelügyelet állapítja meg.
 
-(4) A bányafelügyelet a bányatelek megállapításáról szóló véglegessé vált határozatot megküldi az ingatlanügyi hatóságnak a bányatelek ingatlan-nyilvántartásba történő bejegyzése végett. Ha a megállapított bányatelek nem az egész ingatlant érinti, a határozathoz a bányafelügyelet mellékeli az ingatlan bányatelekkel érintett részét ábrázoló, közigazgatási határonként egy vagy több ingatlant is tartalmazó, az ingatlanügyi hatóság által záradékolt változási vázrajzot is. Nem kell az ingatlan-nyilvántartásba bejegyeztetni a kőolaj, földgáz – ideértve a szén-dioxid gázt is – kitermelésére és a föld alatti gáztárolásra megállapított bányatelket.
+(4) A bányafelügyelet a bányatelek megállapításáról szóló véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a bányatelek ingatlan-nyilvántartásba történő bejegyzésére. Ha a megállapított bányatelek nem az egész ingatlant érinti, a határozathoz a bányafelügyelet mellékeli az ingatlan bányatelekkel érintett részét ábrázoló, közigazgatási határonként egy vagy több ingatlant is tartalmazó, az ingatlanügyi hatóság által záradékolt változási vázrajzot is. Nem kell az ingatlan-nyilvántartásba bejegyeztetni a kőolaj, földgáz – ideértve a szén-dioxid gázt is – kitermelésére és a föld alatti gáztárolásra megállapított bányatelket.
 
 (5) A bányatelek megállapítása és az ingatlan-nyilvántartásba történt bejegyzése nem változtatja meg a bányatelekkel lefedett felszíni ingatlanok tulajdonjogát, rendeltetését és használatát. A bányatelek megállapítása nem minősül a terület-igénybevétel megkezdésének.
 
@@ -899,11 +899,11 @@ vonatkozó információ.
 
 (3b) A (3a) bekezdés szerinti nyilvántartás – a jogosítottjának neve és lakóhelye, illetve megnevezése és székhelye kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) A bányafelügyelet a bányatelket kérelemre vagy hivatalból módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
+(4) A bányafelügyelet a bányatelket kérelemre vagy hivatalból módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
 
 (4a) A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni. Nem kell alkalmazni a 26/A. § (3) bekezdés b) pontjában és (3a) bekezdésében foglaltakat abban az esetben, ha a módosítás a bányatelek megosztására vagy bányatelkek egyesítésére irányul, és a módosítással megállapított bányatelek nem érint új térrészt a megosztott, illetve egyesített bányatelkek EOV rendszer szerinti koordinátái, alap- és fedőlapja által körülhatárolt térrészhez képest.
 
-(5) Ha a bányafelügyelet törli a bányatelket, a törlés tényét a nyilvántartásában átvezeti és a véglegessé vált törlő határozattal megkeresi az ingatlanügyi hatóságot a bányatelek-bejegyzés ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.
+(5) Ha a bányafelügyelet törli a bányatelket, a törlés tényét a nyilvántartásában átvezeti és a véglegessé vált törlő határozata alapján felhívja az ingatlanügyi hatóságot a bányatelek-bejegyzés ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.
 
 (6)
 
@@ -1377,7 +1377,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (5e)
 
-(5f) A hatóság a vezetékjogi rendelkezést tartalmazó jogerős határozatával megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Ha a vezetékjog nem az egész földterületet, hanem annak csak egy részletét érinti, akkor a hatósági határozathoz mellékelni szükséges az ingatlannak a vezetékjoggal érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
+(5f) A hatóság a vezetékjogi rendelkezést tartalmazó véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Ha a vezetékjog nem az egész földterületet, hanem annak csak egy részletét érinti, akkor a hatósági határozathoz mellékelni szükséges az ingatlannak a vezetékjoggal érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
 
 (6) A felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -1407,7 +1407,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 38/C. § (1) Az elosztóvezeték idegen ingatlanon történő elhelyezésére, illetve üzemeltetésére, kártalanítás ellenében, az engedélyes vagy az elosztóvezeték tulajdonosa javára a bányafelügyelet a biztonsági övezet mértékének megfelelően vezetékjogot állapíthat meg, ha az ingatlan használatát az lényegesen nem akadályozza.
 
-(2) A véglegessé vált határozattal a bányafelügyelet – a (3) bekezdésben foglaltak kivételével – megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt.
+(2) A véglegessé vált határozattal a bányafelügyelet – a (3) bekezdésben foglaltak kivételével – felhívja az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzésére.
 
 (3) Ha a vezetékjog az ingatlan tulajdonosának az engedélyessel vagy az elosztóvezeték tulajdonosával kötött megállapodása alapján jön létre, a vezetékjog ingatlan-nyilvántartásba történő bejegyzését az engedélyes vagy az elosztóvezeték tulajdonosa köteles kérni. A vezetékjog a gázelosztó-vezeték mindenkori engedélyesét vagy tulajdonosát illeti meg, és az ingatlant terheli.
 
@@ -1422,7 +1422,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (6) A bányafelügyelet határozatával alapított vezetékjog megszűnik, ha az engedélyes, illetőleg az elosztóvezeték tulajdonosa az (5) bekezdés a) pontjában meghatározott létesítményeket az engedélyezéstől számított öt éven belül nem építi meg, vagy azokat véglegesen eltávolítja. A vezetékjog megszűnését az engedélyes, illetve az elosztóvezeték tulajdonosa az azt követő 30 napon belül köteles bejelenteni a bányafelügyeletnek. A bányafelügyelet a vezetékjog megszűnését az engedélyes, illetve az elosztóvezeték tulajdonosának bejelentése, vagy annak hiányában az ingatlantulajdonos kérelmére, vagy egyéb módon történő tudomásszerzése alapján hivatalból határozatban állapítja meg.
 
-(7) A vezetékjog megszűnése esetén a bányafelügyelet a vezetékjog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlése iránt.
+(7) A vezetékjog megszűnése esetén a bányafelügyelet a vezetékjog megszűnését megállapító véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlésére.
 
 ### Használati jog
 
@@ -2111,7 +2111,7 @@ bányahatósági felügyelete
 
 48. § (1) A 49. § 55. pontjában meghatározott ásványi nyersanyagra vonatkozó bányászati joggal érintett ingatlan tulajdonjogának átruházása esetén a magyar államot elővásárlási jog illeti meg.
 
-(2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a bányafelügyelet megkeresi az ingatlanügyi hatóságot.
+(2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzésére a bányafelügyelet felhívja az ingatlanügyi hatóságot.
 
 (3) A magyar állam elővásárlási jogát az ingatlan esetében az állam tulajdonosi jogkörében eljáró szerv gyakorolja.
 
