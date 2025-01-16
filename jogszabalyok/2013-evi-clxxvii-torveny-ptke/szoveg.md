@@ -417,6 +417,12 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 (2) Az (1) bekezdés szerinti esetben a szerződésből kilépő és a szerződésben maradó fél tekintetében a szerződést megszűntnek, a szerződésbe belépő és a szerződésben maradó fél tekintetében pedig a szerződést az átszálló valamennyi jog és kötelezettség vonatkozásában a jogszabály rendelkezése alapján létrejött új szerződésnek kell tekinteni.
 
+#### 22/E. A bizalmi vagyonkezelési jogviszony alapján történő vagyonátruházás
+
+### (A Ptk. 6:310. §-ához)
+
+53/E. § A bizalmi vagyonkezelési jogviszony alapján a bizalmi vagyonkezelőre történő vagyonátruházást – ideértve azt az esetet is, ha az átruházás vagyonkezelő alapítvány, illetve közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére történik – közokiratba, vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
+
 #### 22/D. Az elővásárlási, a visszavásárlási, a vételi és az eladási jog közös szabályai
 
 ### (A Ptk. 6:226. §-ához)
