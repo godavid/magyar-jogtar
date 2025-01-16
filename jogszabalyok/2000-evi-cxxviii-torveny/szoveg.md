@@ -76,7 +76,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 (5) A Nyilvántartót az (1) bekezdés l) pontjában megjelölt adatokról az utánképzésről szóló igazolás kiadására jogosult, külön jogszabályban meghatározott vizsgaközpont az igazolás kiállítását követő nyolc napon belül értesíti.
 
-5/A. § A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyszolgáltatás kijelölt szolgáltatója a Nyilvántartó természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a Nyilvántartó részére a természetes személy kapcsolati kódját és tárhely-azonosítóját. Az adatszolgáltatás adatait a Nyilvántartó a járművezetővel való elektronikus úton történő kapcsolatfelvételre használhatja fel.
+5/A. § A digitális állampolgárság nyilvántartást vezető szerv a Nyilvántartó természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a Nyilvántartó részére a természetes személy kapcsolati kódját és az ajánlott elektronikus kézbesítési szolgáltatáshoz kapcsolódó tárhelyének azonosításához szükséges adatokat. Az adatszolgáltatás adatait a Nyilvántartó a járművezetővel való elektronikus úton történő kapcsolatfelvételre használhatja fel.
 
 6. § (1) A nyilvántartásba vett pontszámot a pontszám alapját képező szabályszegést megállapító határozat jogerőre emelkedésének, illetve a helyszíni bírság tudomásulvételének időpontjától számított legfeljebb három évig lehet a pontok összesítésénél figyelembe venni (elévülés).
 
@@ -121,7 +121,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 (2)–(3)
 
-14. §
+#### 14. §
 
 15. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 4. § (1) bekezdés c) és d) pontjában meghatározott ponthatárok között – a szabálysértés és a közigazgatási bírsággal sújtandó szabályszegés tárgyi súlyát és gyakoriságát figyelembe véve – a pontrendszer hatálya alá tartozó szabálysértéseket és közigazgatási bírsággal sújtandó szabályszegéseket, az azokhoz rendelt pontok számát, valamint a pontrendszer alkalmazásának részletes szabályait.
 
@@ -134,6 +134,8 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 ### 1. számú melléklet a 2000. évi CXXVIII. törvényhez
 
 #### A pontrendszer hatálya alá tartozó bűncselekmények
+
+2K37548_0
 
 |  | Kódszám |  | Tényállás |  | Pontszám |
 | --- | --- | --- | --- | --- | --- |

@@ -501,7 +501,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 
-- n) az Nytv. 24/L. §-a szerinti, a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Program) megvalósítására a Kormány által kijelölt jogi személy részére az Nytv.-ben meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
+- n) az Nytv. 24/L. §-a szerinti, a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Gondosóra program) megvalósítására a Kormány által kijelölt jogi személy részére az Nytv.-ben meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
 - o) a közigazgatási szankciót kiszabó hatóságoknak a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 3. §-a szerinti nyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, továbbá állampolgárságának változásáról.
 - p) a digitális állampolgárság nyilvántartást vezető szervnek a kezelt adatok naprakészségének biztosítása és az elektronikus azonosításhoz szükséges adatellenőrzés érdekében a nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének változásáról, az érintett nyilvántartásból való kikerülése okáról és idejéről.
 - q) a Magyar Országos Közjegyzői Kamarának a házassági és élettársi vagyonjogi szerződések országos nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának változásáról, az érintett elhalálozása tényéről;
@@ -558,7 +558,7 @@ változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 - i) az (1) bekezdés c) pontja szerinti nyugdíjbiztosítási nyilvántartást vezető társadalombiztosítási szerv,
 - j) az (1) bekezdés k) pontja szerinti kincstár,
 - k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató,
-- l) az (1) bekezdés n) pontja szerinti, a Kormány által a Program megvalósítására kijelölt jogi személy,
+- l) az (1) bekezdés n) pontja szerinti, a Kormány által a Gondosóra program megvalósítására kijelölt jogi személy,
 - m) az (1) bekezdés i) pontja szerinti bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásokról szóló törvény szerinti nyilvántartását vezető szerv,
 - n) a (2) bekezdés f) pontja szerinti gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv
 - o) a (2) bekezdés h) pontja szerinti ingatlan-nyilvántartás és földhasználati nyilvántartás szervei

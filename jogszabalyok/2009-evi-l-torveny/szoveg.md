@@ -293,7 +293,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (6) A fizetési meghagyás iránti kérelem visszautasítása esetén a már kibocsátott fizetési meghagyás hatályát veszti.
 
-(7) A (2) bekezdés nem zárja ki, hogy a jogosult ugyanarra a címre sikertelen postai kézbesítést követően végrehajtói kézbesítést kérjen. A végrehajtói kézbesítés eredménytelensége esetén a kérelmet az (1) bekezdés h) pontja alapján kell visszautasítani.
+(7) A (2) bekezdés nem zárja ki, hogy a jogosult ugyanarra a címre sikertelen postai kézbesítést követően végrehajtói kézbesítést kérjen. A végrehajtói kézbesítés eredménytelensége esetén a kérelmet az (1) bekezdés h) pontja alapján vissza kell utasítani.
 
 25. § (1) A fizetési meghagyás kibocsátása iránti kérelmet visszautasító végzést kézbesíteni kell a jogosultnak, a kötelezettnek pedig meg kell küldeni. A végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.
 
