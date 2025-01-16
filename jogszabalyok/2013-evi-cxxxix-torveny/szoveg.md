@@ -844,7 +844,7 @@ nem szabályozott kérdésekben az általános közigazgatási rendtartásról s
 - 2. az eljárási képességre és a képviseletre,
 - 2a. a 15. § (2) bekezdésében meghatározott eljárási kötelezettségre,
 - 3. a hatáskör és az illetékesség vizsgálatára, a hatásköri és illetékességi vitára,
-- 4. a megkeresés szabályaira, a kapcsolattartás általános szabályaira,
+- 4. a megkeresés szabályaira,
 - 5. az adatkezelésre, az adatok zárt kezelésére,
 - 6. a kiskorú, a cselekvőképtelen és a cselekvőképességében részlegesen korlátozott nagykorú, valamint a fogyatékossággal élő személy eljárási védelmére,
 - 7. a támogatóra,
@@ -1282,9 +1282,7 @@ esetében kell alkalmazni.
 
 (4) A 39. § (1) bekezdés a), c), f), h), i), k), l), m) és s) pontjában, valamint a 40. § (10) bekezdésében meghatározott jogszabályok hatálya alá tartozó engedélyezési, jóváhagyási és nyilvántartásba vételi, törlési eljárásokban, valamint a bejelentéseknél a kérelmet, illetve bejelentést az e célra rendszeresített formanyomtatványon vagy elektronikus űrlapon kell benyújtani.
 
-60. § (1) Az engedélyezési eljárásokban csak eredeti dokumentum vagy hiteles elektronikus másolat nyújtható be.
-
-(2) Az engedélyezési eljárásban a gazdálkodó szervezetek őrzésében lévő papíralapú közokiratról, más által kiállított papíralapú teljes bizonyító erejű magánokiratról vagy egyéb magánokiratról a gazdálkodó szerv által készített elektronikus másolat hiteles másolatként nem fogadható el.
+#### 60. §
 
 61. § (1) Az alapítási, az egyesülési és a tevékenységi engedély megszerzésére, valamint a tevékenység megszüntetésére irányuló eljárásban, továbbá a 45. § c) és d) pontjában meghatározott eljárásban az ügyintézési határidő indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítható.
 
@@ -2886,6 +2884,8 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 
 (4) Az MNB az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség tevékenységének támogatása céljából, a monetáris finanszírozás 146. § szerinti tilalmának betartásával jogosult forint és külföldi bankjegyeket biztosítani e szervek részére a büntetőeljárás lefolytatásához.
 
+(5) Az MNB a monetáris politika végrehajtásával, devizatartalék kezelésével, bankszámlavezetéssel, fizetési rendszer működtetésével kapcsolatos, valamint a készpénzforgalmazási tevékenysége során a Dáptv. rendelkezéseit a magas vagy jelentős biztonsági osztályba sorolt, zárt célú elektronikus információs rendszereken kívül nyújtott digitális szolgáltatására alkalmazza.
+
 160. § (1) Az MNB-t a 4. § (1)–(7) bekezdésben meghatározott feladatainak ellátásával összefüggésben keletkező követelése alapján belföldi adósának bármilyen címen birtokába jutott vagyona felett törvényes zálogjog illeti meg. Az MNB követelését törvényes zálogjoga alapján a zálogtárgyakból bírósági eljárás nélkül, a legalkalmasabbnak talált módon elégítheti ki. E rendelkezéseket értelemszerűen alkalmazni kell az MNB rendelkezésére bocsátott óvadékból történő kielégítésre is.
 
 (1a) Amennyiben a monetáris politikai eszköz vonatkozásában kerül sor a pénzügyi intézmények egymás közötti, valamint a pénzügyi intézmény és az MNB közötti fogyasztói szerződésnek nem minősülő hitel- és pénzkölcsön nyújtására és pénzügyi lízingre vonatkozó szerződések átruházására, a Ptk. szerződésátruházásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy a szerződésállomány-átruházással sem a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, sem a 2013. évi V. törvény hatálya alatt álló szerződés biztosítékai nem szűnnek meg, valamint nem szükséges a szerződésben maradó fél hozzájárulása.
@@ -3121,7 +3121,7 @@ irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékér
 - b) a forgalomban lévő törvényes fizetőeszközről, továbbá az MNB által forgalomból bevont bankjegyről és érméről utánzat készítésének vagy készíttetésének engedélyezésére irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékére, valamint a díj megfizetésére,
 - c) az MNB által elfogadott, illetve a nemzetközi pénzügyi piacokon általában használt nyelvekre,
 - d) a 59. § (4) bekezdésében meghatározottak alapján alkalmazandó formanyomtatvány és elektronikus űrlap tartalmára, formájára és benyújtására,
-- e)
+- e) az 1. mellékletben meghatározott elektronikus kapcsolattartással érintett ügyekben a szervezet és az MNB között kizárólagos elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára,
 - f) a 174/A. §-ban meghatározott informatikai rendszer működtetésének minimum követelményeire, auditálásának módjára, valamint az e rendszer útján végzett adat továbbításra
 
 vonatkozó részletes szabályokat.
@@ -3310,13 +3310,19 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - a) a Pénzügyi Békéltető Testület a 106. § (3) bekezdésétől eltérően hetvenöt napon belüli meghallgatási időpontot tűz ki a felek számára,
 - b) a szolgáltató a 108. § (2) bekezdésben részletezett tartalmú válasziratát az értesítés részére történt kézbesítéstől számított tizenöt napon belül küldi meg a Pénzügyi Békéltető Testület részére.
 
-#### 183/F. §
+183/F. § (1) E törvénynek az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel (a továbbiakban: Módtv.) megállapított 26. § (3) és (4) bekezdését e rendelkezések hatálybalépését követően indított hatósági eljárásokban kell alkalmazni.
+
+(2) A Módtv.-vel megállapított 64. § (2) bekezdését az MNB az átfogó vizsgálatainak az időbeli ütemezése során 2016. január 1-jétől alkalmazza. Ezen időpontot megelőzően az e törvény Módtv. hatálybalépését megelőző napján hatályos 64. § (3) bekezdését kell alkalmazni.
+
+(3) Ha a Magyar Nemzeti Bank az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 183/G. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2016. évi XXXI. törvénnyel (a továbbiakban: Módtv.2.) megállapított 49. § (1), (1a), (4)–(7) bekezdését, valamint 60. § (1a) bekezdését a Módtv.2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 (2) A Módtv.2.-vel megállapított 149. § (1)–(3) és (5)–(6) bekezdését a Módtv.2. hatálybalépését követő naptári hónap első napjától kell alkalmazni.
 
-#### 183/H. §
+183/H. § (1) Az e törvény – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – 58. § (2) bekezdésében meghatározott szervezetek legkésőbb 2017. január 1-jéig kötelesek az elektronikus kapcsolattartással érintett egyéb ügyekben a szervezet és az MNB között elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára vonatkozó részletes szabályokat tartalmazó rendeletben meghatározott követelményeknek eleget tenni, az ehhez szükséges regisztrációt elvégezni.
+
+(2) Az e törvény – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – 58. § (2) bekezdésében meghatározott szervezetek az (1) bekezdésben meghatározott rendelet követelményeinek való megfelelést és az ehhez szükséges regisztrációt követően, de legkésőbb 2017. január 1-jétől kötelesek elektronikus kapcsolattartásra.
 
 #### 183/I. §
 
@@ -3480,3 +3486,65 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 #### 188. §
 
 ### 1. melléklet a 2013. évi CXXXIX. törvényhez
+
+#### Kötelező elektronikus kapcsolattartással érintett egyes ügyek
+
+Az MNB és
+
+- 1. a befektetési alapkezelő között az általa kezelt befektetési alap tekintetében
+- 1.1. a befektetési jegyek forgalomba hozatalával összefüggésben a
+- 1.1.1. nyilvános, nyílt végű, harmonizációja szerint ÁÉKBV értékpapíralap tájékoztatója, hirdetménye, kezelési szabályzata, kiemelt befektetői információja jóváhagyására, valamint a letétkezelői szerződés hatálybalépésének jóváhagyására,
+- 1.1.2. nyilvános, nyílt végű, harmonizációja szerint ABA értékpapíralap tájékoztatója, hirdetménye, kezelési szabályzata, kiemelt befektetői információja jóváhagyására,
+- 1.1.3. nyilvános, nyílt végű ingatlanalap tájékoztatója, kezelési szabályzata, hirdetménye és kiemelt befektetői információi jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
+- 1.1.4. nyilvános, zárt végű értékpapíralap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására,
+- 1.1.5. nyilvános, zárt végű ingatlanalap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, kezelési szabályzat jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
+- 1.1.6. az ABAK által kezelt, más EGT-államban engedélyezett uniós ABA kollektív befektetési értékpapírjainak Magyarországon lakossági befektetők számára történő forgalmazásának engedélyezésére,
+- 1.2. a befektetési alap nyilvántartásba vételére,
+- 1.3. a befektetési alap nyilvántartásból való törlésére,
+- 1.4. a befektetési alappal kapcsolatos megszűnési eljárás esetén az értékesítésre megállapított határidő meghosszabbításának engedélyezésére,
+- 1.5. az ÁÉKBV-kel kapcsolatban
+- 1.5.1. a gyűjtő-ÁÉKBV-nek a cél-ÁÉKBV-be történő befektetésének engedélyezésére,
+- 1.5.2. a cél-ÁÉKBV megszűnése esetén annak engedélyezése, hogy a gyűjtő-ÁÉKBV egy másik cél-ÁÉKBV-be fektesse eszközeinek legalább 85 százalékát,
+- 1.5.3. a cél-ÁÉKBV megszűnése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV módosítsa a kezelési szabályzatát olyan módon, hogy nem gyűjtő ÁÉKBV-ként működik tovább,
+- 1.5.4. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV továbbra is a cél-ÁÉKBV gyűjtő-ÁÉKBV-je maradjon,
+- 1.5.5. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV az egyesülés, illetve szétválás eredményeképp létrejött másik ÁÉKBV gyűjtő-ÁÉKBV-je maradjon,
+- 1.5.6. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV eszközeinek legalább 85 százalékát egy másik, nem az egyesülés vagy szétválás eredményeképp létrejött cél-ÁÉKBV kollektív befektetési értékpapírjaiba fektesse,
+- 1.5.7. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdés b) pontja, valamint a Kbftv. 143. § (6) bekezdés c) pontja szerint nem gyűjtő-ÁÉKBV-ként működjön tovább,
+- 1.5.8. a cél-ÁÉKBV egyesülése vagy szétválása esetén a gyűjtő-ÁÉKBV törlésére,
+- 1.5.9. annak engedélyezésére, hogy a cél-ÁÉKBV a tervezett egyesülés átvevő ÁÉKBV-je legyen,
+- 1.5.10. annak engedélyezésére, hogy a cél-ÁÉKBV a tervezett szétválás után létrejövő ÁÉKBV-k egyikeként lényegében változatlanul működjön tovább,
+- 1.5.11. ha a cél-ÁÉKBV a beolvadó ÁÉKBV, és az egyesülés következtében a gyűjtő ÁÉKBV az átvevő ÁÉKBV befektetőjévé válik, ezen befektetés jóváhagyására,
+- 1.5.12. annak engedélyezésére, ha a gyűjtő-ÁÉKBV a szétválás eredményeként létrejövő olyan ÁÉKBV befektetővé válik, amely lényegesen különbözik a cél-ÁÉKBV-től,
+- 1.5.13. a cél-ÁÉKBV megszűnése esetén a gyűjtő-ÁÉKBV nyilvántartásból való törlésére,
+- 1.6. egyebekben
+- 1.6.1. a nyilvános befektetési alap kezelési szabályzata módosításának engedélyezésére,
+- 1.6.2. a nyilvános befektetési alap átalakulásához készült tájékoztató jóváhagyására,
+- 1.6.3. a zártkörű befektetési alap nyilvános befektetési alappá történő átalakulásának engedélyezésére,
+- 1.6.4. a befektetési alap kezelése átadásának engedélyezésére,
+- 1.6.5. az ABA-k egyesülésének engedélyezésére,
+- 1.6.6. az ÁÉKBV-k egyesülésének engedélyezésére,
+- 1.6.7. a Kbftv. 82. § (7) bekezdésében meghatározott körbe tartozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülés engedélyezésére,
+- 1.6.8. a kollektív befektetési forma, illetve annak részalapja szétválásának engedélyezésére,
+- 1.6.9. egyesülés esetén a befektetési jegyek folyamatos forgalmazása felfüggesztésének engedélyezésére,
+- 1.6.10. a befektetési jegyek folyamatos forgalmazása felfüggesztésének meghosszabbítására,
+- 1.6.11. ingatlanértékelővel kötött szerződés és annak módosítása jóváhagyására,
+- 1.6.12. tájékoztató vagy alaptájékoztató kiegészítése közzétételének engedélyezésére,
+- 1.6.13. nyilvános, nyílt végű, harmonizációja szerint ÁÉKBV esetében a letétkezelői szerződés módosítása hatálybalépésének jóváhagyására,
+- 2. a letétkezelő között azon befektetési alap tekintetében, amellyel kapcsolatos letétkezelői feladatok ellátására megbízással rendelkezik a
+- 2.1. befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert a befektetési alapkezelő befektetési alapkezelési tevékenység végzésére jogosító engedélyét az MNB visszavonta,
+- 2.2. befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert az MNB kötelezte a befektetési alapkezelőt a befektetési alap kezelésének átadására, azonban a befektetési alap kezelését egyetlen befektetési alapkezelő sem veszi át,
+- 3. a kibocsátó vagy a szabályozott piacra bevezetést kezdeményező személy között az (EU) 2017/1129 európai parlamenti és tanácsi rendelet 1. cikk (4) bekezdés f) és g) pontjában, illetve 1. cikk (5) bekezdés e) és f) pontjában meghatározott tájékoztató dokumentumban szereplő információknak a tájékoztatóban foglalt információkkal való egyenértékűségével kapcsolatos döntés meghozatalára,
+- 4. a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy vagy a forgalmazó között
+- 4.1. a kibocsátási tájékoztató kiegészítése közzétételének jóváhagyására,
+- 4.2. az alaptájékoztató kiegészítése közzétételének jóváhagyására,
+- 5. a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy között
+- 5.1. a kibocsátási tájékoztató közzétételének jóváhagyására,
+- 5.2. az alaptájékoztató közzétételének jóváhagyására,
+- 6. a Tpt. 23. számú mellékletében meghatározott nemzetközi pénzügyi intézmény, vagy az olyan nemzetközi intézmény között, amelynek az Európai Unió legalább egy tagállama a tagja, az ismertető közzétételének engedélyezésére,
+- 7. a helyi önkormányzat vagy az Európai Unió tagállama regionális vagy helyi önkormányzata között a helyi önkormányzat, az Európai Unió tagállama regionális vagy helyi önkormányzata által kibocsátott hitelviszonyt megtestesítő értékpapír, továbbá az Európai Unió tagállama regionális vagy helyi önkormányzata által garantált értékpapír nyilvános forgalomba hozatalához, illetve szabályozott piacra történő bevezetéséhez készített tájékoztató, hirdetmény közzétételének engedélyezésére,
+- 8. a harmadik országban székhellyel rendelkező kibocsátó között a tájékoztató közzétételének engedélyezésére,
+- 9. a zártkörű részvénytársasággá alakuló, értékpapírt nyilvánosan forgalomba hozott kibocsátó között a nyilvánosság felé történő adatszolgáltatási kötelezettség alóli mentesítésre,
+- 10. a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdése alapján megbízott befektetési szolgáltató között
+- 10.1. az általuk tett nyilvános vételi ajánlat jóváhagyására,
+- 10.2. az általuk tett és módosított nyilvános vételi ajánlat jóváhagyására,
+- 11. a nyilvánosan forgalomba hozott értékpapír kibocsátója között a szabályozott információ bejelentésére vonatkozó eljárásban kizárólag elektronikus úton történhet a kapcsolattartás.

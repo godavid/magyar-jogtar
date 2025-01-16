@@ -184,9 +184,7 @@ egyes agrártárgyú törvények módosításáról
 
 #### 76. §
 
-77. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A föld tulajdonjogának átruházására irányuló vagy a föld tulajdonjogát érintő más jogügyletet tartalmazó szerződés, továbbá azok ingatlan-nyilvántartási bejegyzéséhez szükséges jognyilatkozat érvényességéhez szükséges az e törvény végrehajtására kiadott rendeletben meghatározott elektronikus regisztráció.”
+#### 77. §
 
 #### 78. §
 
@@ -200,17 +198,9 @@ egyes agrártárgyú törvények módosításáról
 
 82. § (1)
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+(2)
 
-„(1) A jegyző a nyilatkozattételre nyitva álló határidő leteltét követő 8 napon belül a beérkezett, illetve a 21. § (4) bekezdésében meghatározottak szerint átvett jognyilatkozatokról iratjegyzéket készít, és azt
-
-a) a 21. § (1a) bekezdésben foglalt esetben az e törvény végrehajtására kiadott rendeletben foglaltak szerinti közzétételre vonatkozó záradékkal ellátott, anonimizált adásvételi szerződés, valamint a jognyilatkozatok és a kormányzati portált működtető szervezet által a közzétételről és a levételről küldött igazolás másolatával együtt elektronikus úton megküldi a mezőgazdasági igazgatási szerv részére,
-
-b) a 21. § (1c) bekezdésben foglalt esetben az adás-vételi szerződés eredeti példányával, valamint a jognyilatkozatokkal és a kormányzati portált működtető szervezet által a közzétételről és a levételről küldött igazolással együtt megküldi az eladó részére.”
-
-(3) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 22. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdés a) pontja szerinti esetben az átvett jognyilatkozatok eredeti példányának őrzéséről az e törvény végrehajtására kiadott rendeletben foglaltak szerint a jegyző gondoskodik és köteles azt a föld tulajdonjogának megszerzésével kapcsolatban eljáró hatóság, vagy bíróság megkeresésére eredetben rendelkezésre bocsátani.”
+(3)
 
 83. § (1)
 
@@ -226,17 +216,9 @@ b) a 21. § (1c) bekezdésben foglalt esetben az adás-vételi szerződés erede
 
 88. § (1)
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 50. § (1) bekezdése helyébe a következő rendelkezés lép:
+(2)
 
-„(1) A jegyző a nyilatkozattételre nyitva álló határidő leteltét követő 8 napon belül a beérkezett jognyilatkozatokról iratjegyzéket készít, és azt
-
-a) a 49. § (1a) bekezdésében foglalt esetben az e törvény végrehajtására kiadott rendeletben foglaltak szerinti közzétételre vonatkozó záradékkal ellátott, anonimizált haszonbérleti szerződés, valamint a jognyilatkozatok és a kormányzati portált működtető szervezet által a közzétételről és a levételről küldött igazolás másolatával együtt elektronikus úton megküldi a mezőgazdasági igazgatási szerv részére,
-
-b) a 49. § (1c) bekezdésében foglalt esetben a haszonbérleti szerződés eredeti példányával, valamint a jognyilatkozatokkal és a kormányzati portált működtető szervezet által a közzétételről és a levételről küldött igazolással együtt megküldi a haszonbérbeadó részére.”
-
-(3) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 50. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdés a) pontja szerinti esetben az átvett jognyilatkozatok eredeti példányának őrzéséről az e törvény végrehajtására kiadott rendeletben foglaltak szerint a jegyző gondoskodik és köteles azt a földhasználati jogosultság megszerzésével kapcsolatban eljáró hatóság, vagy bíróság megkeresésére eredetben rendelkezésre bocsátani.”
+(3)
 
 #### 89. §
 
@@ -256,108 +238,77 @@ b) a 49. § (1c) bekezdésében foglalt esetben a haszonbérleti szerződés ere
 
 #### 95. §
 
-96. § (1) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 72. § c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„c) a föld tulajdonjogának átruházására irányuló vagy a föld tulajdonjogát érintő más jogügyletet tartalmazó szerződés, továbbá azok ingatlan-nyilvántartási bejegyzéséhez szükséges jognyilatkozat elektronikus regisztrációjának szabályait;”
-
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 72. § j) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„j) a föld tulajdonjogának és a föld használati jogosultságának megszerzésével kapcsolatos hatósági eljárások részletes szabályait.”
+#### 96. §
 
 97. § (1)
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 78. §-a a következő (3) bekezdéssel egészül ki:
+(2)
 
-„(3) A 8. § (1) bekezdésének, a 21. § (1) bekezdésének, a 22. § (1) és (3) bekezdésének, a 23/A. § (2) bekezdésének, a 30. § (1) bekezdésének, a 35. § (5) bekezdésének, az 50. § (1) és (3) bekezdésének, az 55. § (1) bekezdésének, az 58. § (4) bekezdésének a Módtv.2. által megállapított, 2025. január 15. napján hatályba lépő rendelkezéseit a 2025. január 15. napján, vagy azt követően indult hatósági jóváhagyási eljárásban vagy ennek hiányában ingatlanügyi hatósági eljárásban kell alkalmazni.”
+#### 98. §
 
-98. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény
+a)
 
-- a)
-- b)
-- c)
-- d)
-- e) 21. § (1) bekezdésében a „céljából.” szövegrész helyébe a „céljából az e törvény végrehajtására kiadott rendeletben foglaltak szerint.” szöveg,
-- f)
-- g)
-- h) 23/A. § (2) bekezdésében az „(5)” szövegrész helyébe a „(3)” szöveg, a „jognyilatkozatának” szövegrész helyébe a „jognyilatkozata” szöveg és a „haladéktalanul megkeresi” szövegrész helyébe a „haladéktalanul elektronikus úton megkeresi” szöveg,
-- i)
-- j)
-- k)
-- l) 30. § (1) bekezdés nyitó szövegrészében az „az adás-vételi szerződést záradékkal látja el” szövegrész helyébe a „kiállítja az adásvételi szerződéshez kapcsolódó záradékot” szöveg,
-- m)
-- n) 35. § (5) bekezdésében a „szerint az” szövegrész helyébe a „szerint kiállítja az” szöveg és a „jegyzőkönyvet záradékolja” szövegrész helyébe a „jegyzőkönyvhöz kapcsolódó záradékot” szöveg,
-- o)
-- p) 51. § (2) bekezdés nyitó szövegrészében a „megtagadja” szövegrész helyébe a „döntést hoz” szöveg és a „jóváhagyását” szövegrész helyébe a „jóváhagyásának a megtagadásáról” szöveg,
-- q)
-- r)
-- s) 55. § (1) bekezdés nyitó szövegrészében az „egyidejűleg a” szövegrész helyébe az „egyidejűleg kiállítja a” szöveg és a „szerződést záradékkal látja el” szövegrész helyébe a „szerződéshez kapcsolódó záradékot” szöveg,
-- t)
-- u) 58. § (4) bekezdésében az „a mezőgazdasági igazgatási szerv az 55. § (2) bekezdése szerinti záradékkal köteles ellátni” szövegrész helyébe az „a mezőgazdasági igazgatási szerv köteles kiállítani az 55. § (2) bekezdése szerinti záradékot” szöveg,
-- v)
-- w) 78. § (1) bekezdésében a „(2) bekezdésben” szövegrész helyébe a „(2) és (3) bekezdésben” szöveg
+b)
 
-lép.
+c)
 
-99. § Hatályát veszti a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény
+d)
 
-- a) 23/A. § (2) bekezdésében a „másolatának” szövegrész,
-- b)
-- c)
-- d) 58. § (4) bekezdésében az „a módosított szerződést a” szövegrész.
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
+
+l)
+
+m)
+
+n)
+
+o)
+
+p)
+
+q)
+
+r)
+
+s)
+
+t)
+
+u)
+
+v)
+
+w)
+
+#### 99. §
+
+a)
+
+b)
+
+c)
+
+d)
 
 #### 10. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-100. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 13. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13. és 14. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
-
-a) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy szerződő fél
-
-aa) természetes személyazonosító adatait,
-
-ab) személyi azonosítóját,
-
-ac) állampolgárságát,
-
-ad) lakcímét, értesítési címét,
-
-b) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személy szerződő fél
-
-ba) állampolgársága szerinti úti okmányában feltüntetett természetes személyazonosító adatait,
-
-bb) állampolgárságát,
-
-bc) lakcímét,
-
-bd) értesítési címét,
-
-c) a gazdálkodó szervezet szerződő fél
-
-ca) megnevezését,
-
-cb) statisztikai azonosítóját,
-
-cc) cégjegyzékszámát, ha a gazdálkodó szervezet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozik,
-
-cd) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá nem tartozó gazdálkodó szervezet nyilvántartását vezető szervet és a nyilvántartási számát,
-
-ce) székhelyét (telephelyét),
-
-cf) vezető tisztségviselő vagy cégvezető családi és utónevét, lakcímét, illetve a törvényes képviselő családi és utónevét, tisztségét,
-
-cg) a képviseletében eljáró meghatalmazott természetes személy családi és utónevét, lakcímét,
-
-ch) bélyegzőjének lenyomatát.”
+#### 100. §
 
 101. § (1)
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az adásvételi szerződést az e törvény végrehajtására kiadott rendeletben foglaltak szerint kell benyújtani a mezőgazdasági igazgatási szervhez, illetve a Földforgalmi törvény 21. § (1c) bekezdése szerinti esetben a föld fekvése szerint illetékes települési önkormányzat (a fővárosban a fővárosi kerületi önkormányzat) jegyzőjéhez (a továbbiakban: jegyző). A szerződéshez csatolni kell a Földforgalmi törvény 8. § (1) bekezdése szerinti elektronikus regisztrációt igazoló dokumentumot.”
+(2)
 
 (3)
 
@@ -373,17 +324,9 @@ ch) bélyegzőjének lenyomatát.”
 
 107. § (1)
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 35. § (2) bekezdése helyébe a következő rendelkezés lép:
+(2)
 
-„(2) A mezőgazdasági igazgatási szerv a megkereséshez csatolja:
-
-a) a jegyző által a mezőgazdasági igazgatási szerv részére megküldött, a Földforgalmi törvény 21. § (2) bekezdésében előírtak szerint a jegyző által anonimizált és a kormányzati portálon közzétételre került adás-vételi szerződés másolatát,
-
-b) az elfogadó jognyilatkozat olyan másolatát, amelyen a mezőgazdasági igazgatási szerv felismerhetetlenné teszi a jognyilatkozatot tevő nevén, lakcímén vagy értesítési címén, valamint állampolgárságán kívül valamennyi természetes személyazonosító adatot.”
-
-108. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 37. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A jogügylet jóváhagyása esetén a mezőgazdasági igazgatási szerv kiállítja a jogügyletet tartalmazó szerződéshez, illetve okirathoz tartozó záradékot tartalmazó dokumentumot és azt a szerző fél részére a jóváhagyását tartalmazó határozatával egyidejűleg küldi meg.”
+#### 108. §
 
 #### 109. §
 
@@ -409,21 +352,13 @@ b) az elfogadó jognyilatkozat olyan másolatát, amelyen a mezőgazdasági igaz
 
 #### 120. §
 
-121. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 83. §-a helyébe a következő rendelkezés lép:
-
-„83. § A mezőgazdasági igazgatási szerv a földhasználati szerződés jóváhagyása esetén kiállítja a szerződéshez tartozó záradékot tartalmazó dokumentumot és azt a jóváhagyását tartalmazó határozatával egyidejűleg megküldi a szerző félnek, valamint – az e törvény végrehajtására kiadott rendelet szerinti eljárás lefolytatása érdekében – az ingatlanügyi hatóságnak.”
+#### 121. §
 
 #### 122. §
 
 #### 123. §
 
-124. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 94. § (1) bekezdés c) pontja a következő ce) alponttal egészül ki:
-
-[Az ingatlanügyi hatóság az illetékességi területéhez tartozó földek – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – használatáról és a földhasználókról a közhiteles ingatlan-nyilvántartás adataira épülő, de attól elkülönülő, önálló nyilvántartást vezet. A földhasználati nyilvántartás tartalmazza
-
-a földrészlet (alrészlet) vagy földrészletek gazdálkodó szervezet földhasználójának]
-
-„ce) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá nem tartozó gazdálkodó szervezet nyilvántartását vezető szervet és a gazdálkodó szervezet nyilvántartási számát;”
+#### 124. §
 
 #### 125. §
 
@@ -435,40 +370,57 @@ a földrészlet (alrészlet) vagy földrészletek gazdálkodó szervezet földha
 
 129. § (1)
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 110/F. §-a a következő (3) bekezdéssel egészül ki:
+(2)
 
-„(3) A 13. § (1) bekezdésének, a 17. § (1) bekezdésének, a 34/A. §-nak, a 35. § (2) bekezdésének, a 37. § (3) és (5) bekezdésének, a 39/A. § (4) bekezdésének, a 53. § (1) bekezdésének, a 81/A. §-nak, a 83. §-nak és a 94. § (1) bekezdés c) pontjának, a Módtv.3. által megállapított 2025. január 15. napján hatályba lépő rendelkezéseit 2025. január 15. napján vagy azt követően indult hatósági jóváhagyási eljárásban, vagy ha nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, akkor azok hatálybalépését követően indult ingatlan-nyilvántartási eljárásban kell alkalmazni.”
+#### 130. §
 
-130. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény
+a)
 
-- a)
-- b) 34/A. §-ában az „egy eredeti, nem biztonsági okmányon szerkesztett példányát” szövegrész helyébe a „másolatát” szöveg,
-- c)
-- d)
-- e)
-- f) 39/A. § (4) bekezdésében a „szerv a” szövegrész helyébe a „szerv kiállítja a” szöveg és a „nyilatkozat két eredeti példányát látja el jóváhagyó záradékkal” szövegrész helyébe a „nyilatkozathoz tartozó záradékot” szöveg,
-- g) 53. § (1) bekezdésében a „szerződésnek az előhaszonbérletre jogosultakkal történő közlése érdekében a szerződést három eredeti példányban” szövegrész helyébe a „szerződést az e törvény végrehajtására kiadott rendeletben foglaltak szerint” szöveg,
-- h)
-- i)
-- j)
-- k) 81/A. §-ában az „egy eredeti példányát” szövegrész helyébe a „másolatát” szöveg,
-- l)
-- m)
-- n) 110/F. § (1) bekezdésében a „(2) bekezdésben” szövegrész helyébe a „(2) és (3) bekezdésben” szöveg
+b)
 
-lép.
+c)
 
-131. § Hatályát veszti a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény
+d)
 
-- a) 2/A–2/C. §-a,
-- b)
-- c)
-- d) 9/A. alcíme,
-- e)
-- f) 94. § (1) bekezdés b) pont be) alpontja,
-- g) 104. § (1) bekezdés f) pontja,
-- h)
-- i)
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
+
+l)
+
+m)
+
+n)
+
+#### 131. §
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
 
 #### 11. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 

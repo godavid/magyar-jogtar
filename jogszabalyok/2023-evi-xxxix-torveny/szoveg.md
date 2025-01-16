@@ -118,11 +118,7 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 44. §
 
-45. § A Kjnp. „Alzálogjog fennállásának igazolására irányuló eljárás” alcíme a következő 27/G. §-sal egészül ki:
-
-„27/G. § (1) A bizonyítvány jogerőre emelkedése után és azt követően, hogy az ezzel felmerülő közjegyzői díjat és költséget, valamint az ingatlan-nyilvántartási bejegyzés költségét az alzálogjog jogosultja megelőlegezte, az alzálogjog jogosultjának kérelmére a közjegyző a bizonyítvány megküldésével hatósági felhívás útján intézkedik a bizonyítvány tartalma szerint az alzálogjognak az ingatlan-nyilvántartásba történő bejegyzése iránt.
-
-(2) A hatósági felhívást megelőzően a közjegyző felhívja az alzálogjoggal biztosított követelés kötelezettjét (zálogjogosult), hogy a felhívásban megszabott határidő alatt nyilatkozzon a követelés fennállásáról. (3) Ha az alzálogjoggal biztosított követelés kötelezettje (zálogjogjogosult) a követelés fennállását vitatja, a közjegyző az alzálogjog jogosultjának az (1) bekezdés szerinti kérelmét visszautasítja.”
+#### 45. §
 
 #### 15. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
@@ -268,13 +264,11 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 109. §
 
-#### 23. A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény módosítása
+#### 23.
 
-110. § A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény (a továbbiakban: Hbnyt.) 7. § (1a) bekezdése helyébe a következő rendelkezés lép:
+#### 110. §
 
-„(1a) Hitelbiztosítéki nyilatkozat a nyilvántartásba bejegyzett zálogjoggal biztosított követelés elzálogosítására is irányulhat, amely esetében az (1) bekezdés a) és b) pontja szerinti nyilatkozatokra vonatkozó szabályokat kell alkalmazni azzal, hogy a zálogjogosult alatt az alzálogjog jogosultját, a zálogkötelezett alatt pedig a zálogjogosultat kell érteni. Az ilyen nyilatkozattal alapított alzálogjogot ennek, valamint az alzálogjog jogosultjának megjelölésével a nyilvántartásba bejegyzett zálogjoggal együtt az alzálogjog tárgyául szolgáló követelésre és az azt biztosító zálogjogra utalással kell nyilvántartani.”
-
-111. § Hatályát veszti a Hbnyt. 35/A. §-a.
+#### 111. §
 
 #### 24. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
@@ -386,22 +380,11 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 158. §
 
-#### 30. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
+#### 30.
 
-159. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény (a továbbiakban: Új Inytv.) 36. alcíme a következő szöveggel lép hatályba:
+#### 159. §
 
-#### „36. Az engedményezés bejegyzése
-
-67. § Követelés engedményezése esetén az engedményezett követelést biztosító jogok és tények engedményesre történő átszállása ingatlan-nyilvántartási bejegyzése során bejegyzés alapjául szolgáló okiratnak kell tekinteni az engedményező egyoldalú nyilatkozatát, ha az – az érdekeltek megállapodása, valamint az engedményes nyilvánvalóan azonosítható aláírása kivételével – rendelkezik mindazon alaki és tartalmi kellékekkel, amelyeket e törvény a bejegyzés alapjául szolgáló okiratokra vonatkozóan előír.
-
-67/A. § Alzálogjog alapításának ingatlan-nyilvántartási bejegyzése esetén bejegyzés alapjául szolgáló okirat az elzálogosított követelést biztosító zálogjog jogosultjának egyoldalú nyilatkozata, továbbá a bejegyzési engedélynek minősülő, az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/E. § (9) bekezdése szerinti jogerős bizonyítvány, ha az az érdekeltek megállapodása kivételével rendelkezik mindazon alaki és tartalmi kellékekkel, amelyeket e törvény a bejegyzés alapjául szolgáló okiratokra vonatkozóan előír.
-
-67/B. § (1a) Ha az alzálogjogosult az elzálogosított követelést biztosító zálogjog jogosultjának helyébe lép, az alzálogjogosultnak a helyébe lépés tényét, az ingatlan helyrajzi számát, az érintett jogok, tények megjelölését, valamint a jelzálog jogosultjának hozzájáruló nyilatkozatát tartalmazó okirattal kell kérnie az ingatlanügyi hatóságtól az érintett jogok módosítását. (2) Az ingatlanügyi hatóság a kérelem alapján az elzálogosított követelést biztosító zálogjog bejegyzését módosítva az alzálogjog jogosultját tünteti fel jogosultként, a tárgyi alzálogjog bejegyzését pedig törli az ingatlan-nyilvántartásból.”
-
-160. § Nem lép hatályba az Új Inytv.
-
-- a) 96. § (3) bekezdése,
-- b) 97. § (2) bekezdése.
+#### 160. §
 
 #### 31. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
 
@@ -409,9 +392,9 @@ a gazdaság versenyképességének növelése érdekében történő törvénym�
 
 #### 162. §
 
-#### 32. Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény módosítása
+#### 32.
 
-163. § Nem lép hatályba a Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény 43. § (6) bekezdése.
+#### 163. §
 
 #### 33. Záró rendelkezések
 

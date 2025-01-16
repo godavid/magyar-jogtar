@@ -77,6 +77,8 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (8) A Hatóság látja el az ESG törvény és az annak felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó szervezetek, személyek ezen jogszabályok szerinti tevékenységének felügyeletét, valamint az e jogszabályokban meghatározott, a Hatóság feladat- és hatáskörébe tartozó feladatokat.
 
+(9) A Hatóság látja el a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti integrátorok nyilvántartásának vezetésével kapcsolatos feladatokat.
+
 #### 3. Együttműködés a feladatellátás során
 
 4. § (1) A Hatóság feladatai ellátása során együttműködik az állami vagyon felügyeletéért, az állami vagyonnal való gazdálkodás szabályozásáért felelős és a koncessziós tevékenység tárgya szerint hatáskörrel rendelkező miniszterrel, az igazságügyért felelős miniszterrel, az állami adó- és vámhatósággal, a rendvédelmi szervekkel, a fogyasztóvédelmi hatóságként és a mérésügyi hatóságként kijelölt szervezettel, valamint a 3. § (1) és (8) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetek, személyek ellenőrzését ellátó más hatósággal, ezen jogszabályok alapján létrehozott köztestülettel, továbbá az AMLA-val. A Hatóság az együttműködés érdekében együttműködési megállapodást köthet.
@@ -264,7 +266,9 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 13/A. § A Hatóság elnöke
 
 - 1. megállapítja a vállalkozás fenntarthatósági célú átvilágítási kötelezettségei teljesítésének részletszabályait, a kockázatelemzés rendszere kialakításának szabályait, az ESG tanúsítóként és az ESG tanácsadóként történő akkreditálás eljárási szabályait, az ESG szoftverek kiberbiztonsági tanúsítása vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert, a Tanúsítók Névjegyzéke, a vállalkozások, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők, valamint az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, az ESG menedzsmentplatform működési szabályait, a hitelesített támogatásmenedzsment központ működésének részletes szabályait, az ESG beszámoló és az ESG beszámoló mellékletét képező kérdőív minimum követelményeit, tartalmát, formai követelményeit és közzétételének szabályait, továbbá az ESG törvény 27. § (5) bekezdése szerinti további adatszolgáltatás előírására vonatkozó követelményeket és a Hatóság által engedélyezett adatszolgáltatás teljesítésének szabályait,
-- 2. a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti szabályozott elektronikus ügyintézési szolgáltatás kiberbiztonsági követelményeit, továbbá a követelményeknek való megfelelés igazolásának módját.
+- 2. megállapítja a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti
+  - a) szabályozott elektronikus ügyintézési szolgáltatás kiberbiztonsági követelményeit, továbbá a követelményeknek való megfelelés igazolásának módját, valamint
+  - b) integrátorok nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat és a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
 - 3. meghatározza az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.
 
 14. § A Hatóság feladatkörét érintő napirendi pontok tárgyalása esetén a Hatóság elnöke meghívásra a Kormány ülésén részt vesz.

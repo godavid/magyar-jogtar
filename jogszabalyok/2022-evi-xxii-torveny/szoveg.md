@@ -514,13 +514,7 @@ sarkalatosnak minősül.
 
 #### 14. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-24. § A közúti közlekedésről szóló 1988. évi I. törvény
-
-- 1.
-- 2. 29. § (1c) és (6) bekezdésében az „a fővárosi és vármegyei kormányhivatal” szövegrész helyébe az „az ingatlanügyi hatóság” szöveg,
-- 3.
-
-lép.
+#### 24. §
 
 #### 15. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
@@ -1294,12 +1288,7 @@ lép.
 
 #### 192. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény eltérő szöveggel történő hatályba léptetése
 
-233. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény
-
-- a)
-- b) 72/B. § (2) bekezdése, 88. § (2) bekezdés b) pontja a „megyei” szövegrészek helyett a „vármegyei” szöveggel
-
-lép hatályba.
+#### 233. §
 
 #### 193. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
 
@@ -1319,9 +1308,7 @@ lép hatályba.
 
 #### 197. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény eltérő szöveggel történő hatályba léptetése
 
-238. § (1) Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 1. § (3) bekezdése a „megyei” szövegrész helyett a „vármegyei” szöveggel lép hatályba.
-
-(2) Nem lép hatályba az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 7. § a) pontja.
+#### 238. §
 
 #### 198. A honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény módosítása
 

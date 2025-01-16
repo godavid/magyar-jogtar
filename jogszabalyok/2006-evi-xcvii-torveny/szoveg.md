@@ -434,7 +434,7 @@ adja ki.
 
 (4) A kamarai hatósági ügyben első fokon a területi szervezet elnöksége, másodfokon az országos elnökség jár el.
 
-19/C. § A szakmai kamara az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
+19/C. § A szakmai kamara az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
 ### VI. Fejezet — FELELŐSSÉGI SZABÁLYOK
 

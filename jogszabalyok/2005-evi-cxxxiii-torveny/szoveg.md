@@ -601,7 +601,7 @@ is felhasználható.
 
 (3) A kamara tisztségviselőire vonatkozó részletes szabályokat az alapszabály határozza meg.
 
-54/A. § A kamara és a területi szervezet az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
+54/A. § A kamara és a területi szervezet az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
 ### A területi szervezet
 

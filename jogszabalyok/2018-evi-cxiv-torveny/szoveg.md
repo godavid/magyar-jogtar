@@ -64,19 +64,27 @@ terjed ki.
 
 6/A. § (1) A jognyilatkozatok megtétele során előnyben kell részesíteni az elektronikus ügyintézést.
 
-(2) A honvédelmi alkalmazott részére az elektronikus kapcsolattartás és ügyintézés, a jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében a miniszter által vezetett minisztérium központi pénzügyi és számviteli feladatokat ellátó szervezete által üzemeltetett elektronikus ügyintézési felületen (a továbbiakban: Ügyfélszolgálati Rendszer) biztosított, jóváhagyott elektronikus azonosítási szolgáltatást és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhelyet kell biztosítani.
+(2) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje.
 
-(3) Ha az Ügyfélszolgálati Rendszer azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítés ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+(3) Az elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (továbbiakban: Dáptv.) 25. §-ában és 27. §-ában foglalt rendelkezéseket megfelelően alkalmazni kell azzal, hogy felhasználó alatt a honvédelmi alkalmazottat, digitális szolgáltatást biztosító szervezet alatt a foglalkoztatót kell érteni.
+
+(3a) A honvédelmi alkalmazott az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében köteles a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni, és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A honvédelmi alkalmazott e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő tizenöt napon belül köteles teljesíteni.
+
+(3b) Ha az elektronikus dokumentum elektronikus kézbesítése vagy a kézbesítési vélelem szabályainak alkalmazása bármely okból nem lehetséges, vagy az a honvédelmi alkalmazotti jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papíralapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papíralapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A honvédelmi alkalmazottal a papíralapú kiadmányt kell közölni.
 
 (4) A honvédelmi szervezet jegyzőkönyvet vesz fel arról, ha az írásbeli jognyilatkozat átvételét a címzett vagy az átvételre jogosult más személy megtagadta vagy szándékosan megakadályozta.
 
 (5) Ha az elektronikus dokumentum elektronikus kézbesítése nem lehetséges, az elektronikusan kiadmányozott jognyilatkozatról öt napon belül záradékolással hiteles papíralapú másolatot kell készíteni. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a másolat az alapul szolgáló elektronikusan hitelesített irattal megegyezik. Ebben az esetben a honvédelmi alkalmazottal a hiteles papíralapú másolatot kell közölni.
 
+(6) Az (1)–(5) bekezdésben foglaltak a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) által foglalkoztatott honvédelmi alkalmazottakra nem alkalmazhatók.
+
 #### 3/B. Az elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás kézbesítése
 
-6/B. § (1) A honvédelmi alkalmazotti jogviszonyban álló személy köteles az elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás kézhezvétele érdekében az Ügyfélszolgálati rendszeren biztosított, jóváhagyott elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni.
+6/B. § (1) A honvédelmi alkalmazotti jogviszonyban álló személy köteles az elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás kézhezvétele érdekében
 
-(2) Ha az Ügyfélszolgálati Rendszer azt igazolja vissza, hogy az elektronikus formában kiadott összesített adóigazolást és a társadalombiztosítási nyilvántartás adatairól szóló igazolást a címzett kétszeri értesítés ellenére sem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés időpontját követő ötödik munkanapon.
+a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni.
+
+(2) Ha az (1) bekezdés szerinti tárhely azt igazolja vissza, hogy az elektronikus formában kiadott összesített adóigazolást és a társadalombiztosítási nyilvántartás adatairól szóló igazolást a címzett kétszeri értesítés ellenére sem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés időpontját követő ötödik munkanapon.
 
 (3) Az (1) és (2) bekezdésben foglaltak a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) által foglalkoztatott honvédelmi alkalmazottakra nem alkalmazható.
 

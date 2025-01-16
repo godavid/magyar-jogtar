@@ -3195,7 +3195,7 @@ I.
 
 9. e-mail-címe,
 
-10. ügyfélkapu elérhetősége,
+10. biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetősége,
 
 II.
 

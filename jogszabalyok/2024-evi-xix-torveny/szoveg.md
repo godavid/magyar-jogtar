@@ -164,20 +164,7 @@ egyes agrártárgyú törvények módosításáról
 
 #### 69. §
 
-70. § A Földforgalmi tv.
-
-- a)
-- b) 23. § (1) bekezdésében a „megkeresi” szövegrész helyébe a „felhívja” szöveg és a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg,
-- c)
-- d)
-- e) 23/A. § (1a) bekezdésében az „egyidejűleg megkeresi” szövegrész helyébe az „egyidejűleg felhívja” szöveg és a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg
-- f)
-- g)
-- h)
-- i)
-- j)
-
-lép.
+#### 70. §
 
 #### 13. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
@@ -195,7 +182,7 @@ lép.
 
 #### 77. §
 
-78. § A Fétv. 37. § (1) bekezdésében a „megkeresés” szövegrész helyébe a „felhívás” szöveg és a „megkeresi” szövegrész helyébe a „felhívja” szöveg lép.
+#### 78. §
 
 #### 14. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 
@@ -285,7 +272,7 @@ lép.
 
 #### 20. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény eltérő szöveggel történő hatályba léptetése
 
-116. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 74. § (1) bekezdésének a termőföld védelméről szóló 2007. évi CXXIX. törvény 2. § 1. pontját megállapító rendelkezése a „megfelelő termőföld” szövegrész helyett a „megfelelő, de hektáronként szántó esetében legfeljebb 22 AK értékű, rét esetében legfeljebb 16 AK értékű, legelő esetében legfeljebb 6 AK értékű termőföld” szöveggel lép hatályba.
+#### 116. §
 
 #### 21. A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény módosítása
 
