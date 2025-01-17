@@ -158,6 +158,8 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 47. javadalmazás: a hitelintézet által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás;
 - 48. járulékos vállalkozás: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 49. jegyzett tőke: az Szmt. 35. § (3) bekezdése szerint meghatározott tőke;
+- 49a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
+- 49b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 - 50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön;
 - 51. jó üzleti hírnév: a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő vezetőinek, befolyásoló részesedéssel rendelkező tagjainak a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
 - 52. kamat: az adós által a kölcsönnyújtónak (betételhelyezőnek) az elfogadott betét vagy az igénybe vett kölcsön használatáért, kockázatáért fizetendő, a betét- vagy kölcsönösszeg százalékában meghatározott, időarányosan térítendő (elszámolandó) pénzösszeg vagy egyéb hozadék;
@@ -325,7 +327,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
 - g) a pénzforgalmi szolgáltatóra címzett csekken, váltón, papíralapú utalványon, papíralapú utazási csekken vagy az Egyetemes Postaegyesület (UPU) által meghatározott papíralapú postautalványon alapuló olyan fizetési művelet, amelynél az irat kiállítása abból a célból történik, hogy pénzeszközt bocsássanak a kedvezményezett rendelkezésére,
 - h) a fizetési vagy értékpapír-kiegyenlítési rendszeren belül egyrészt a teljesítő fél, a központi szerződő fél, az elszámolóház, a központi bank, valamint a rendszer más résztvevői, másrészt a pénzforgalmi szolgáltató között végrehajtott fizetési művelet,
 - i) a h) pontban meghatározott személy, a befektetési szolgáltatást nyújtó befektetési vállalkozás, hitelintézet, kollektív befektetési forma és kezelője, valamint pénzügyi eszközök letéti őrzésére feljogosító egyéb szervezet által végzett értékpapír letétkezelésével – ideértve az osztalékot, kamatot, egyéb kifizetések kezelését, a beváltást és az értékesítést is – összefüggő fizetési művelet,
-- j) a pénzforgalmi szolgáltatást támogató (járulékos) technikai szolgáltatás, ha ennek szolgáltatója nem rendelkezhet a fizetési művelet tárgyát képező pénzzel, valamint nem válhat a fizetési művelet tárgyát képező pénz birtokosává, ideértve az adatfeldolgozást, az adatok tárolását, hitelesítését, a bizalmi és a magánélet védelmével kapcsolatos szolgáltatásokat, az adatok és személyek hitelesítését, az információtechnológiai eszközök biztosítását, valamint – a fizetéskezdeményezési szolgáltatás és a számlainformációk összesítése kivételével – a pénzforgalmi szolgáltatáshoz használt terminálok és eszközök biztosítását és karbantartását is,
+- j) a pénzforgalmi szolgáltatást támogató (járulékos) technikai szolgáltatás, ha ennek szolgáltatója nem rendelkezhet a fizetési művelet tárgyát képező pénzzel, valamint nem válhat a fizetési művelet tárgyát képező pénz birtokosává, ideértve az adatfeldolgozást, az adatok tárolását, hitelesítését, a bizalmi és a magánélet védelmével kapcsolatos szolgáltatásokat, az adatok és személyek hitelesítését, az információs és kommunikációs technológia (a továbbiakban: IKT) biztosítását, valamint – a fizetéskezdeményezési szolgáltatás és a számlainformációk összesítése kivételével – a pénzforgalmi szolgáltatáshoz használt terminálok és eszközök biztosítását és karbantartását is,
 - k) az olyan specifikus készpénz-helyettesítő fizetési eszközökön alapuló szolgáltatások, amelyek csak korlátozott módon használhatók és amelyekre teljesül az alábbi feltételek egyike:
   - ka) a fizetési eszköz kizárólag a kibocsátó által használt helyiségekben vagy a kibocsátóval közvetlen kereskedelmi szerződésben álló szolgáltatók zártkörű hálózatán belül teszi lehetővé az eszköz birtokosa számára áruk vagy szolgáltatások beszerzését,
   - kb) a fizetési eszköz áruk vagy szolgáltatások igen szűk körű beszerzését teszi lehetővé,
@@ -1318,7 +1320,17 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (3) A pénzügyi szolgáltatási tevékenységet végző az (1) és (2) bekezdésben foglaltakat székhely-, telephelyváltozás esetén, valamint a pénzügyi szolgáltatási tevékenység módosításakor is biztosítja.
 
-67/A. § (1) A pénzügyi szolgáltatói tevékenység – a kiegészítő pénzügyi szolgáltatás kivételével – végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a hitelintézetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
+67/A. § (1) A pénzügyi vállalkozás vonatkozásában alkalmazandó (EU) 2022/2554 európai parlamenti és tanácsi rendelet (a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet.
+
+(2) A pénzügyi vállalkozásnak meg kell felelnie az (EU) 2022/2554 európai parlamenti és tanácsi rendelet szerinti egyszerűsített IKT kockázatkezelési keretrendszer követelményeinek.
+
+(3) A (2) bekezdésben foglaltaktól eltérően a fizetési rendszert működtető pénzügyi vállalkozásnak, a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozásnak, valamint az olyan pénzügyi vállalkozásnak, amelyre az összevont alapú felügyelet kiterjed, meg kell felelnie az (EU) 2022/2554 európai parlamenti és tanácsi rendelet szerinti IKT kockázatkezelési keretrendszer követelményeinek.
+
+(4) A hitelintézet és a pénzügyi vállalkozás a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(5) Ha a hitelintézet és a pénzügyi vállalkozás a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
+
+67/B. § (1) A pénzügyi szolgáltatói tevékenység – a kiegészítő pénzügyi szolgáltatás kivételével – végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a hitelintézetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
 
 (2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket külön jogszabály határozza meg.
 
@@ -1326,7 +1338,7 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (4) A tanúsító szervezet és alvállalkozója a vizsgált intézmény kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
 
-(5) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti tikokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is
+(5) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is.
 
 #### 28. Kiszervezés
 
@@ -2091,7 +2103,7 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 - b) a felelősségi köröket, feladatokat egymástól elhatárolja és egyértelműen meghatározza,
 - c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kiküszöböli,
 - d) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz,
-- e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmaz,
+- e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat, továbbá az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmaz,
 - f) a hitelintézet a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 117–121. §-okban meghatározott elveknek megfelelő, nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
 - g) elősegíti a szervezet zavartalan és eredményes működését, az intézménnyel szembeni bizalom fenntartását, a tulajdonosok és az ügyfelek intézménnyel összefüggő gazdasági érdekeinek és társadalmi céljainak védelmét.
 
@@ -2137,6 +2149,8 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 - a) a hitelintézet az (5a) bekezdés a) pontjában foglaltak teljesítése érdekében a sztenderd módszert alkalmazza, ha a Felügyelet megítélése szerint a belső rendszer nem alkalmas a kockázatok értékelésére,
 - b) az 575/2013/EU rendeletben meghatározott kis méretű és nem összetett intézmény a sztenderd módszert alkalmazza, ha a Felügyelet megítélése szerint az egyszerűsített sztenderd módszer nem alkalmas a nem kereskedési tevékenységből származó kamatlábkockázat értékelésére.
+
+(5c) Az (5) bekezdés e) pontja szerinti vészhelyzeti és üzletmenet-folytonossági tervek keretében a hitelintézet rendelkezik az információközlésre használt technológia tekintetében az IKT-vonatkozású üzletmenet-folytonossági politikákkal és tervekkel, valamint IKT-vonatkozású reagálási és helyreállítási tervekkel. Ezen tervek kidolgozására, végrehajtására és tesztelésére az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 11. cikkének megfelelően kerül sor annak érdekében, hogy a hitelintézet súlyos üzletviteli zavar esetén tovább működjön, és a zavar során felmerülő veszteségeket mérsékelje.
 
 (6) Az (5) bekezdés f) pontjában foglaltak teljesítése érdekében:
 
@@ -2260,7 +2274,7 @@ az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevéke
 - n) a hitelintézet által tett vagy tervezett előkészítő lépések a helyreállítási terv végrehajtásának előmozdítására, ideértve a hitelintézet esetleges tőkeemeléséről szóló döntést korlátozó szabályok felülvizsgálatát is,
 - o) arra vonatkozó elemzés, hogy a tervben vázolt körülmények között a hitelintézet hogyan és mikor igényelhet a jegybanki feladatkörében eljáró MNB-től rendkívüli likviditási hitelt, ideértve a lehetséges fedezetet is,
 - p) a Felügyelet által alkalmazható intézkedést, kivételes intézkedést kiváltó esemény teljesülésekor a hitelintézet részéről alkalmazandó lehetséges lépéseket,
-- q) feltételek és eljárások a tervben foglalt intézkedések hitelintézet által történő gyors végrehajtása biztosításához,
+- q) feltételek és eljárások a tervben foglalt intézkedések hitelintézet által történő gyors végrehajtása biztosításához, továbbá a hitelintézet folyamatos működésének – ideértve az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket – fenntartásához szükséges feltételek és eljárások,
 - r) alternatív forgatókönyvek a hitelintézet egyedi működése szempontjából súlyos makrogazdasági, illetve a pénzügyi közvetítőrendszerben fennálló általános válsághelyzet kialakulásához kapcsolódóan.
 
 (4) A helyreállítási tervet a hitelintézet legalább évente egyszer, valamint a hitelintézet jogi vagy szervezeti felépítésével, tevékenységével vagy pénzügyi helyzetével kapcsolatos minden olyan változást követően felülvizsgálja, amely a tervben foglaltak végrehajtására lényeges hatással lehet.
@@ -3027,7 +3041,7 @@ e szervek írásbeli megkeresése alapján, ha teljesülnek a (7b) bekezdésben 
 - a) a pénzügyi intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzügyi intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltásának kezdeményezését is – nyújtja,
 - b) e törvény a banktitok megtartásának kötelezettsége alól felmentést ad,
 - c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy követelése érvényesítéséhez szükségessé teszi,
-- d) a pénzügyi intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
+- d)
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
@@ -3420,8 +3434,9 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 
 (4) A Felügyelet a felülvizsgálati és értékelési eljárás során értékeli:
 
-- a) azon kockázatokat, amelyeknek a hitelintézet ki van vagy ki lehet téve, és
-- b) azon kockázatokat, amelyeket a stressz-teszt során a hitelintézet tevékenységének jellegét, nagyságrendjét és összetettségét figyelembe véve feltártak.
+- a) azon kockázatokat, amelyeknek a hitelintézet ki van, vagy ki lehet téve,
+- b) azon kockázatokat, amelyeket a stressz-teszt során a hitelintézet tevékenységének jellegét, nagyságrendjét és összetettségét figyelembe véve feltártak, és
+- c) azon kockázatokat, amelyeket a digitális működési reziliencia tesztelése által az (EU) 2022/2554 európai parlamenti és tanácsi rendelet IV. fejezetével összhangban tártak fel.
 
 (5) A felülvizsgálatnak és értékelésnek a hitel-, piaci és működési kockázatokon kívül ki kell terjednie:
 
@@ -3979,7 +3994,7 @@ vonatkozó előírások.
 - c) a pénzügyi intézmény tulajdonosait,
 - d) a pénzügyi intézmény, a független közvetítő vezető állású személyeit,
 - e) a könyvvizsgálókat,
-- f) a pénzügyi intézmény részére kiszervezett tevékenységet végzőket,
+- f) a pénzügyi intézmény részére kiszervezett tevékenységet végzőket, ideértve az (EU) 2022/2554 európai parlamenti és tanácsi rendelet V. fejezet szerinti IKT-szolgáltatókat is,
 - g) a belső ellenőrt, illetve a belső ellenőrzési szervezet vezetőjét,
 - h) a kérelmezőket.
 
@@ -4393,6 +4408,8 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 (3) A munkaszervezet kamarai jogtanácsosa ellátja az (1) bekezdés szerinti jogi személy kamarai jogtanácsosi tevékenységét is.
 
 227. § Az igazgatótanács feladatkörében eljárva a megbízásokat az e törvényben meghatározott összeférhetetlenségi szabályok megfelelő alkalmazásával adja ki.
+
+227/A. § Az OBA olyan informatikai rendszert működtet, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint annak észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében az OBA-nak adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
 
 #### 94. Az OBA információellátása
 
@@ -5166,7 +5183,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, illetve kiegészítő pénzügyi szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
 - b) az egységesített betéti kamatláb mutató számítására és közzétételére,
-- c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre, továbbá a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre,
+- c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre
 - d) a hitelintézet nyilvánosságra hozatali követelményeinek teljesítésére,
 - e) a független közvetítők, valamint a jelzáloghitel közvetítői tevékenységet végző függő közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
 - f) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
@@ -5175,6 +5192,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára,
 - j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára,
 - k) a szociális számlához való jogosultságra, díjra és jellemzőire
+- l) a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre
 
 vonatkozó részletes szabályokat.
 
@@ -5508,6 +5526,7 @@ Qn= az érintett kvartilis sorszáma
   - m) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek,
   - n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek
   - o) a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelvnek,
+  - p) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -5518,6 +5537,7 @@ való megfelelést szolgálja.
   - c) a tőkepiacról szóló 2001. évi CXX. törvénnyel és a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendeletnek
   - d) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendeletnek
   - e) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletnek
+  - f) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
