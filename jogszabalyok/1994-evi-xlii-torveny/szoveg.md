@@ -22,6 +22,8 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (3a) A Mehibre és az általa végzett nem piacképes kockázatú biztosítási tevékenységére a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényt (a továbbiakban: Bit.) – az e törvény 25. § (1)–(2) bekezdésében foglaltak kivételével – nem kell alkalmazni. Amennyiben a Mehib piacképes kockázatú biztosítási tevékenységet is végez, a Mehibre és az általa végzett piacképes biztosítási tevékenységére a Bit. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
+(3b) Az Eximbank vonatkozásában nem alkalmazandó a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet.
+
 (4) Az Eximbankra és a Mehibre a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata nemzetközi versenyképességet javító befektetéseire, beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, a magyar befektetők külföldi befektetéseire, külföldiek magyarországi beruházásaira vonatkozóan, továbbá a Kormány egyedi döntése alapján egyéb célokból jogosult végezni.

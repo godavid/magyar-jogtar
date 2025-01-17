@@ -19,9 +19,11 @@ a pénzforgalmi szolgáltatás nyújtásáról
 
 (5) E törvény rendelkezései a 62/B. § (1) bekezdése szerinti nyilvántartást kezelő pénzügyi vállalkozásra a 62/B. § (1) bekezdése szerinti nyilvántartás kezelése tekintetében terjednek ki.
 
-(6) A számlainformációs szolgáltatásra e törvény 5. §-a, 10. §-a, 31. §-a, 38/C. §-a, 55/A–55/C. §-a, valamint azon rendelkezések alkalmazandóak, ahol e törvény a számlainformációs szolgáltatást kifejezetten nevesíti.
+(6) A számlainformációs szolgáltatásra az 5. §, a 10. §, a 31. §, a 38/C. §, az 55/A. §, az 55/C. §, valamint azon rendelkezések alkalmazandók, ahol e törvény a számlainformációs szolgáltatást kifejezetten nevesíti.
 
 (7) E törvény 6. § (1) bekezdése, 7. § (2) és (3) bekezdése, 31. § (1) bekezdése, 32. § (1) bekezdése és 33. § (1) bekezdése szerinti átváltási árfolyamról, díjról, költségről vagy egyéb fizetési kötelezettségről történő tájékoztatási kötelezettség a fizetési műveletben részt vevő más félre – így különösen az automata bankjegykiadó gép üzemeltetőjére – akkor is kiterjed, ha az általa nyújtott szolgáltatás a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) alapján nem minősül pénzforgalmi szolgáltatásnak.
+
+(8) Az 55/B. § nem terjed ki a hitelintézetre, az elektronikuspénz-kibocsátó intézményre és pénzforgalmi intézményre.
 
 ### Értelmező rendelkezések
 
@@ -830,6 +832,8 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 (2) A pénzforgalmi szolgáltató évente egyszer – vagy a Felügyelet által meghatározott rövidebb időközönként – aktualizált és átfogó értékelést küld a Felügyeletnek az általa nyújtott pénzforgalmi szolgáltatáshoz kapcsolódó működési és biztonsági kockázatokról, továbbá az e kockázatok mérséklésére alkalmazott intézkedések és a kapcsolódó ellenőrzési mechanizmusok megfelelőségéről.
 
+(3) A hitelintézet, az elektronikuspénz-kibocsátó intézmény és a pénzfogalmi intézmény vonatkozásában az (1) bekezdés nem érinti a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. fejezetében foglalt kötelezettségek teljesítését.
+
 55/B. § (1) A pénzforgalmi szolgáltató haladéktalanul tájékoztatja a Felügyeletet a súlyosabb működési vagy biztonsági esemény bekövetkezéséről.
 
 (2) Ha a súlyosabb működési vagy biztonsági esemény sérti vagy sértheti a pénzforgalmi szolgáltató ügyfeleinek érdekeit, a pénzforgalmi szolgáltatónak indokolatlan késedelem nélkül tájékoztatnia kell az ügyfeleit az eseményről, valamint minden olyan rendelkezésre álló intézkedésről, amelyet az esemény káros hatásainak enyhítése érdekében meghozhatnak.
@@ -1111,10 +1115,17 @@ vonatkozó részletes szabályokat.
 
 ### Jogharmonizációs záradék
 
-67. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+67. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) az Európai Parlament és a Tanács (EU) 2015/2366 irányelve (2015. november 25.) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről,
-- b) az Európai Parlament és a Tanács 2015. április 29-i a 2015/751/EU rendelete a kártyaalapú fizetési műveletek bankközi jutalékairól.
+- a) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2366 európai parlamenti és tanácsi irányelv,
+- b) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
+
+(2) Ez a törvény
+
+- a) a kártyaalapú fizetési műveletek bankközi jutalékairól szóló, 2015. április 29-i (EU) 2015/751 európai parlamenti és tanácsi rendelet,
+- b) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### XV. Fejezet
 

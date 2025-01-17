@@ -217,6 +217,8 @@ használnak,
 - 32. indulótőke: a 13. §-ban meghatározott alapításkori induló tőke, amely az (EU) 2019/2033 rendelet 9. cikke szerinti elemekből áll,
 - 33. jegyzési garanciavállalás: az értékpapír saját számlára történő lejegyzésére, illetve megvásárlására vonatkozó kötelezettségvállalás vagy a jegyzés vagy eladás meghiúsulásának elkerülése érdekében szerződésben vállalt mennyiségű értékpapír lejegyzésére, illetőleg megvásárlására vonatkozó kötelezettségvállalás,
 - 33a. jó üzleti hírnév: a befektetési vállalkozás vezető állású személyeinek, minősített befolyással rendelkező tagjainak a befektetési vállalkozás irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte,
+- 33b. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom,
+- 33c. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom,
 - 34. kereskedési szándékkal tartott pozíció: a rövid távú újraértékesítés szándékával vagy a vételi és eladási árak közötti tényleges vagy várható különbözetből, valamint egyéb ár- vagy kamatlábváltozásokból származó rövid távú haszonszerzés szándékával tartott pozíció, amelybe beletartoznak mind a saját számlás, mind az ügyfelek által adott megbízások végrehajtásából és az árjegyzésből származó pozíciók,
 - 34a. kereskedési helyszín: bármely szabályozott piac, multilaterális kereskedési rendszer vagy szervezett kereskedési rendszer,
 - 34b. keresztértékesítés gyakorlata (cross-selling): egy befektetési szolgáltatás felajánlása egy másik szolgáltatással vagy termékkel együtt, egy csomag részeként vagy ugyanazon megállapodás vagy csomag feltételeként,
@@ -597,7 +599,7 @@ induló tőkével kell rendelkeznie.
 
 (2) Annak a befektetési vállalkozásnak, amely összevont alapú felügyelet alá tartozik, az e §-ban és a 100–102. §-ban foglaltaknak az ellenőrző befolyása alatt álló hitelintézettel és befektetési vállalkozással együttesen is meg kell felelnie.
 
-(3) A befektetési vállalkozás az általa végzett befektetési szolgáltatási tevékenységekben, kiegészítő szolgáltatásokban és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos átfogó, hatékony és megbízható vállalatirányítási rendszerrel és a (4) bekezdés szerinti belső kontroll funkcióval rendelkezik, amelynek keretén belül
+(3) A befektetési vállalkozás az általa végzett befektetési szolgáltatási tevékenységekben, kiegészítő szolgáltatásokban és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos átfogó, hatékony és megbízható vállalatirányítási rendszerrel – ideértve a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] 7. cikkének megfelelően létrehozott és működtetett hálózati és információs rendszert – és a (4) bekezdés szerinti belső kontroll funkcióval rendelkezik, amelynek keretén belül
 
 - a) a szervezeti felépítését belső szabályzatban áttekinthetően rögzíti,
 - b) a felelősségi köröket, feladatokat egymástól elhatárolja és egyértelműen meghatározza,
@@ -610,6 +612,12 @@ induló tőkével kell rendelkeznie.
 (4) A befektetési vállalkozás a (3) bekezdés d) és e) pontjában rögzítettek, ezáltal a belső kontroll funkciók teljesítése érdekében belső eljárásrendjében egyértelműen meghatározza a belső kontroll funkciók ellátásáért felelős szervezeti egységet vagy egységeket.
 
 (5) A 19/A. § (1) bekezdésben foglaltak alapján a befektetési vállalkozás kockázatvállalása megbízható és a belső szabályzatában rögzített szempontrendszeren alapul.
+
+(6) A befektetési vállalkozás megbízható biztonsági mechanizmusokkal rendelkezik, amelyek garantálják – az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben meghatározott követelményekkel összhangban – az információk továbbítására használt eszközök biztonságát és hitelesítését, minimalizálják az adatsérülés és jogosulatlan hozzáférés kockázatát és megelőzik az információk kiszivárgását, ezáltal biztosítva azok bizalmas jellegét.
+
+(7) A befektetési vállalkozás a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(8) Ha a befektetési vállalkozás a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 17/A. § (1) Az ügyfelek számára történő értékesítés céljából pénzügyi eszközöket kialakító befektetési vállalkozás az egyes pénzügyi eszközök jóváhagyására és a meglévő pénzügyi eszközök jelentős kiigazításainak jóváhagyására szolgáló folyamatot (a továbbiakban: termék-jóváhagyási folyamat) tart fenn, működtet, és elvégzi annak felülvizsgálatát, mielőtt pénzügyi eszközt hoz forgalomba vagy forgalmaz ügyfelek részére.
 
@@ -646,6 +654,8 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 (2a) A befektetési vállalkozás minden eljárást és rendszert olyan módon dokumentál, hogy a Felügyelet az e törvényben és az (EU) 2019/2033 rendeletben meghatározott prudenciális követelményeknek való megfelelését ellenőrizhesse.
 
 (3) Az MNB elnöke a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében a hatékony és eredményes kockázatkezelés elősegítése érdekében rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
+
+18/A. § Az árutőzsdei szolgáltató olyan informatikai rendszert működtet, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében az árutőzsdei szolgáltatónak adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
 
 ### Belső ellenőrzési szervezeti egység
 
@@ -912,17 +922,17 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 ### VI/A. Fejezet — ALGORITMIKUS KERESKEDÉS
 
-26/B. § (1) Az algoritmikus kereskedést folytató befektetési vállalkozás az általa végzett üzleti tevékenységnek megfelelő, hatékony rendszerekkel és kockázatellenőrzési mechanizmussal rendelkezik, amelyek biztosítják, hogy kereskedési rendszerei
+26/B. § (1) Az algoritmikus kereskedést folytató befektetési vállalkozás az általa végzett üzleti tevékenységnek megfelelő, hatékony rendszerekkel és kockázatellenőrzési mechanizmussal rendelkezik, amelyek biztosítják, hogy kereskedési rendszerei az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. fejezetében meghatározott követelményekkel összhangban
 
-- a) rugalmasak legyenek, és elegendő kapacitással rendelkezzenek,
+- a) reziliensek legyenek, és elegendő kapacitással rendelkezzenek,
 - b) megfelelő kereskedési küszöbértékek és limitek hatálya alá tartozzanak,
 - c) a hibás megbízások kiküldését vagy a rendszerek egyéb, potenciálisan rendellenes piaci helyzetet eredményező vagy ilyen helyzet kialakulását elősegítő működését megakadályozzák,
 - d) ne legyenek felhasználhatók olyan célra, amely ellentétes a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelettel (a továbbiakban: 596/2014/EU rendelet) vagy annak a kereskedési helyszínnek a szabályaival, amelyhez kapcsolódnak.
 
 (2) Az algoritmikus kereskedést folytató befektetési vállalkozás
 
-- a) az üzletvitel folyamatosságát biztosító hatékony megoldásokkal rendelkezik, amelyek alkalmasak a kereskedési rendszereiben fellépő bármely hiba kezelésére, és
-- b) gondoskodik rendszerei teljes körű teszteléséről és megfelelő ellenőrzéséről annak biztosítása érdekében, hogy az (1) bekezdés és e bekezdés követelményeinek mindenkor megfeleljen.
+- a) az üzletvitel folyamatosságát biztosító hatékony megoldásokkal rendelkezik, amelyek alkalmasak a kereskedési rendszereiben fellépő bármely hiba kezelésére, ideértve az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 11. cikkének megfelelően létrehozott IKT-vonatkozású üzletmenet-folytonossági politikát és terveket, valamint IKT-vonatkozású reagálási és helyreállítási terveket, és
+- b) gondoskodik rendszereinek teljes körű teszteléséről és nyomon követéséről annak biztosítása érdekében, hogy az (1) bekezdés és e bekezdés követelményeinek, valamint az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. és IV. fejezetben meghatározott követelményeknek mindenkor megfeleljen.
 
 (3) Az a befektetési vállalkozás, amely algoritmikus kereskedést folytat, értesíti erről a Felügyeletet, valamint annak a kereskedési helyszínnek a székhelye szerint hatáskörrel rendelkező felügyeleti hatóságát, amelynek tagjaként vagy résztvevőjeként a befektetési vállalkozás algoritmikus kereskedést folytat. A Felügyelet kötelezheti a befektetési vállalkozást, hogy rendszeresen vagy eseti jelleggel adjon leírást
 
@@ -2593,7 +2603,7 @@ rendelkezhet.
 - b) tulajdoni részesedést szerezni kívánó,
 - c) vezető állású, és
 - d) alkalmazottként foglalkoztatott,
-- e) a befektetési vállalkozás és az árutőzsdei szolgáltató által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
+- e)
 
 személy vagy bármely más személy, aki valamilyen módon birtokába jutott, az üzleti titkot – a (2) és (3) bekezdésben foglalt kivétellel – időbeli korlátozás nélkül köteles megőrizni.
 
@@ -3360,7 +3370,9 @@ vonatkozó rendelkezések alkalmazandók.
 
 (3) Az adatszolgáltatási tevékenység engedélyezésének, az engedély visszavonásának és az adatszolgáltatók működésének részletes feltételeit a 600/2014/EU európai parlamenti és tanácsi rendelet tartalmazza.
 
-#### 154/I. §
+154/I. § (1) Az adatszolgáltató a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(2) Ha az adatszolgáltató a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 #### 154/J. §
 
@@ -3726,7 +3738,7 @@ kezelheti.
 
 (7)
 
-(8) A Felügyelet által végzett felülvizsgálat és értékelés a kereskedési könyvet vezető befektetési vállalkozásnál arra is kiterjed, hogy a befektetési vállalkozás által elszámolt értékvesztés és képzett céltartalék lehetővé teszi-e a pozíciók rövid időn – legfeljebb harminc napon – belüli lezárását normális piaci körülmények között.
+(8)
 
 (9)
 
@@ -3736,14 +3748,14 @@ kezelheti.
 
 (12)
 
-(13) Az (5) bekezdés c) pontja szerinti felülvizsgálat és értékelés keretében a Felügyelet figyelembe veszi a befektetési vállalkozás üzleti modelljét.
+(13)
 
 (14) Az (5) bekezdés f) pontja szerinti felülvizsgálat és értékelés keretében a befektetési vállalkozásnak a Felügyelet rendelkezésére kell bocsátania legalább
 
 - a) a vezető és ellenőrző testület és egyéb bizottsági ülésének napirendjét és a kapcsolódó dokumentumokat, valamint
 - b) a vezető testület teljesítményének belső vagy külső értékelésének eredményeit.
 
-(15) A felügyeleti felülvizsgálat és értékelés elősegítése érdekében a Felügyelet legalább évente felügyeleti stressztesztet végez az általa felügyelt befektetési vállalkozásokra vonatkozóan.
+(15)
 
 (16) A Felügyelet – az egyes helyreállítási tervek benyújtását követő hat hónapon belül és azon EGT-állam illetékes felügyeleti hatóságával történt egyeztetést követően, amelyben a befektetési vállalkozás rendszerszinten jelentős fiókteleppel rendelkezik – felülvizsgálja és értékeli a befektetési vállalkozás helyreállítási tervét. A felülvizsgálat a 102. §-ban meghatározott feltételeken kívül kiterjed arra is, hogy a helyreállítási tervben foglaltak alapján megalapozottan valószínűsíthető, hogy
 
@@ -4256,10 +4268,10 @@ megsértését tapasztalja, értesíti a székhely szerinti EGT-állam hatáskö
 
 180. § (1) Felhatalmazást kap a Kormány arra, hogy
 
-- a) a befektetési szolgáltatási tevékenység végzésének, a kiegészítő szolgáltatás nyújtásának és az árutőzsdei szolgáltatás nyújtásának személyi, tárgyi, technikai, biztonsági feltételeit és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételeit,
+- a)
 - b) a befektetési szolgáltatási tevékenységet végző, a kiegészítő szolgáltatást nyújtó és az árutőzsdei szolgáltató üzletszabályzatának, valamint a befektetési szolgáltatási tevékenység, a kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás keretében kötött szerződések kötelező tartalmi elemeit,
 - c) a pénzügyi eszközök, továbbá egyes értékpapírok körében a zálogjog érvényesítésének a kielégítési jog közvetlen gyakorlására, továbbá bírósági végrehajtáson kívüli értékesítésre vonatkozó eljárás részletes szabályait,
-- d) a befektetési vállalkozás és az árutőzsdei szolgáltató informatikai rendszerét felülvizsgáló szakértővel szembeni követelményeket,
+- d)
 - e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályokat,
 - f) a befektetési vállalkozás panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára vonatkozó részletes szabályokat,
 - g)
@@ -4278,23 +4290,7 @@ vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg az 575/2013/EU rendelet
-
-- a) 465. cikk (2) bekezdésének megfelelően az elsődleges alapvető tőkemegfelelési mutatónak és az alapvető tőkemegfelelési mutatónak azt a szintjét, amelyet a befektetési vállalkozásnak el kell érnie vagy meg kell haladnia,
-- b) 467. cikk (2) bekezdésben meghatározott tartományokon belül alkalmazandó százalékos arányt,
-- c) 468. cikk (3) bekezdésének megfelelően a valós értéken értékelt eszközökkel és kötelezettségekkel kapcsolatos nem realizált nyereség azon százalékos arányát, amely az elsődleges alapvető tőkeelemek számítása során figyelembe vehető,
-- d) 478. cikk (3) bekezdésének megfelelően az elsődleges alapvető tőkeelemekből, a kiegészítő alapvető tőkeelemekből, valamint a járulékos tőkeelemekből való levonások során alkalmazandó százalékos arányokat,
-- e) 479. cikk (4) bekezdésének megfelelően azon tőkeelemek átmeneti figyelembevételi lehetőségére vonatkozó százalékos arányokat, amelyek a 2013. december 31-ig hatályos jogszabályok alapján figyelembe vehetőek voltak az összevont alapú elsődleges alapvető tőke számítás során, de az 575/2013/EU rendelet hatályos követelményeinek már nem felelnek meg,
-- f) 480. cikk (3) bekezdésének megfelelően a kisebbségi részesedések, a kiegészítő alapvető tőkébe beszámítható tőkeelemek, illetve a járulékos tőkébe beszámítható tőkeelemek összevont alapú szavatolótőkében való figyelembevételi lehetőségére vonatkozó arányokat,
-- g) 481. cikk (5) bekezdésének megfelelően az elsődleges alapvető tőkeelemekre, az alapvető tőkeelemekre, a járulékos tőkeelemekre és a szavatolótőke-elemekre a 2013. december 31-ig hatályos jogszabályok által előírt, de az 575/2013/EU rendeletben nem szereplő szűrők és levonások átmeneti alkalmazására vonatkozó százalékos arányokat,
-- h) 486. cikk (6) bekezdésének megfelelően az elsődleges alapvető tőkében, a kiegészítő alapvető tőkében, valamint a járulékos tőkében a 2013. december 31-ig hatályos jogszabályok alapján figyelembevehető, de az 575/2013/EU rendeletben foglalt követelményeknek meg nem felelő tételek átmeneti figyelembevételére vonatkozó százalékos arányokat,
-- i) 89. cikk (3) bekezdésének megfelelően azt, hogy a befektetési vállalkozásnak a pénzügyi ágazaton kívüli minősített befolyás vonatkozásában az 575/2013/EU rendelet 89. cikk (3) bekezdés a) vagy b) pontjában meghatározott követelményeknek kell megfelelniük,
-- j) 178. cikk (1) bekezdés b) pontjának megfelelően azon időtartamot, amelyen túl az ügyfél nemteljesítését megtörténtnek kell tekinteni,
-- k) 178. cikk (2) bekezdés d) pontjának megfelelően azt a határértéket, amely alapján a hitelkötelezettség-teljesítési késedelem jelentősnek minősül,
-- l) 327. cikk (2) bekezdésének megfelelően az átváltható értékpapír és az annak alapjául szolgáló eszköz kiegyenlítő pozíciója közötti nettósítás alkalmazhatóságának feltételéül szolgáló módszert,
-- m) 395. cikk (1) bekezdésének megfelelően a 150 millió eurónál alacsonyabb nagykockázat-vállalási határérték alkalmazását,
-- n) 400. cikk (2) bekezdésének megfelelően a nagykockázat-vállalási korlát alól mentesített kitettségek körét,
-- o) 416. cikk (5) bekezdésének megfelelően a magas és rendkívül magas likviditású és hitelminőségű eszközök körét.
+(4)
 
 (5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.
 
@@ -4455,6 +4451,7 @@ foglalt követelményeknek.
 - m) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelv.
 - n) a 2014/65/EU irányelv tájékoztatási követelmények, termékirányítás és pozíciólimitek tekintetében, valamint a 2013/36/EU és az (EU) 2019/878 irányelv befektetési vállalkozásokra való alkalmazása tekintetében, a Covid19-válság utáni helyreállítás elősegítése érdekében történő módosításáról szóló, 2021. február 16-i (EU) 2021/338 európai parlamenti és tanácsi irányelv.
 - o) a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv,
+- p) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 
@@ -4465,6 +4462,7 @@ foglalt követelményeknek.
 - e) a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet
 - f) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
 - g) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet.
+- h) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

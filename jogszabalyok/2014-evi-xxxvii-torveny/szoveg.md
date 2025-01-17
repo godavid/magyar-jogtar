@@ -2199,6 +2199,7 @@ ezen instrumentumok, illetve kötelezettségek tőkeösszegét a másik EGT-áll
 - a) felmondási, felfüggesztési, nettósítási vagy egymással szembeni elszámolási jog gyakorlását, többek között
   - aa) olyan, leányvállalat által kötött szerződések vonatkozásában, amelyek esetében a szerződés szerinti kötelezettségek teljesítését az anyavállalat vagy egy csoporthoz tartozó vállalkozás garantálja vagy másképpen támogatja,
   - ab) az intézménnyel azonos csoportba tartozó féllel kötött olyan szerződések vonatkozásában, amelyek a nemteljesítéskor felmondásra jogosító rendelkezést tartalmaznak;
+  - ac) az Európai Parlament és a Tanács (EU) 2022/2554 rendelete szerinti IKT szolgáltatások igénybevételére vonatkozó megállapodások tekintetében, ideértve azok módosítását is figyelemmel arra is, hogy a felmondási jogok gyakorlását a megállapodásokban az Európai Parlament és a Tanács (EU) 2022/2554 rendelete 30. cikk (2) bekezdés h) pontja szerint a Felügyelet és a szanálási feladatkörében eljáró MNB elvárásainak megfelelően kell kialakítani;
 - b) az érintett intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás a szerződés nemteljesítésekor felmondásra jogosító rendelkezéseket tartalmazó szerződését biztosító vagyontárgy birtokba vételét, a vagyontárgy feletti ellenőrző befolyás gyakorlását vagy biztosítéki jogosultság érvényesítését a vagyontárgy terhére;
 - c) az érintett intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás vagy bármely csoporttag bármely a szerződés nemteljesítésekor felmondásra jogosító rendelkezéseket tartalmazó szerződésből származó jogának befolyásolását;
 
@@ -3129,7 +3130,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 foglaltakat a Módtv. hatálybalépésekor folyamatban lévő eljárásokra is alkalmazni kell.
 
-150/B. § Ha az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 150/B. §
 
 150/C. § A pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs célú módosításáról szóló 2018. évi CXXVI. törvény (a továbbiakban: 2018. évi CXXVI. törvény) hatálybalépésekor már működő harmadik országbeli intézmény magyarországi fióktelepe a 2018. évi CXXVI. törvény hatálybalépését követő 90 napon belül köteles a csatlakozásról szóló nyilatkozatot az Alapnak megküldeni, valamint 137. § szerinti csatlakozási díjat az Alap részére csatlakozási díjként befizetni.
 
@@ -3171,6 +3172,7 @@ foglaltakat a Módtv. hatálybalépésekor folyamatban lévő eljárásokra is a
 - a) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. május 15-i 2014/59/EU európai parlamenti és tanácsi irányelvnek,
 - b) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek, és
 - c) a hitelintézetek és a befektetési vállalkozások veszteségviselő és feltőkésítési képessége tekintetében a 2014/59/EU irányelv, valamint a 98/26/EK irányelv módosításáról szóló, 2019. május 20-i (EU) 2019/879 európai parlamenti és tanácsi irányelvnek
+- d) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelvnek
 - e) a 2014/59/EU irányelvnek és a 806/2014/EU rendeletnek a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény egyes vonatkozásai tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1174 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
@@ -3229,7 +3231,7 @@ A) Az egyedi szanálási terv tartalmazza legalább az alábbi tartalmi elemeket
 
 2. a szanálási terv legutóbbi módosítása óta az intézmény tekintetében bekövetkezett érdemi változások összefoglalása;
 
-3. annak bemutatása, hogy a kritikus funkciók és a fő üzletágak jogilag és gazdaságilag hogyan különíthetők el más funkcióktól a szükséges mértékben annak érdekében, hogy az intézmény fizetésképtelensége esetén a folytonosság biztosítható legyen;
+3. annak bemutatása, hogy a kritikus funkciók és a fő üzletágak jogilag és gazdaságilag hogyan különíthetők el más funkcióktól a szükséges mértékben annak érdekében, hogy az intézmény fizetésképtelensége esetén a folytonosság és a digitális működési reziliencia biztosítható legyen;
 
 4. becsült időkeret a terv minden egyes lényegi vonatkozásának megvalósítása tekintetében;
 
@@ -3253,7 +3255,7 @@ A) Az egyedi szanálási terv tartalmazza legalább az alábbi tartalmi elemeket
 
 14. szanálás esetén a médiával és az állampolgárokkal folytatandó kommunikációt bemutató terv;
 
-15. az intézmény működési eljárásainak folyamatos fenntartását szolgáló lényeges műveletek és rendszerek bemutatása;
+15. az intézmény működési eljárásainak folyamatos fenntartását szolgáló lényeges műveletek és rendszerek bemutatása, ideértve a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] meghatározott hálózati és információs rendszereket;
 
 16. a terv végrehajtásának a munkavállalókra gyakorolt hatása, beleértve a velejáró költségek felmérését, valamint a szanálási eljárás során a munkavállalókkal történő konzultációt szolgáló tervezett eljárások leírása;
 
@@ -3290,7 +3292,8 @@ A szanálási feladatkörében eljáró MNB-nek egy intézmény vagy csoport sza
 - 1. az intézmény mennyire tudja hozzárendelni a fő üzletágakat és a kritikus funkciókat az egyes jogalanyokhoz;
 - 2. a jogi és a vállalati struktúrák mennyire vannak összehangolva a fő üzletágakkal és a kritikus funkciókkal;
 - 3. milyen mértékben léteznek olyan intézkedések, amelyek célja a fő üzletágak és a kritikus működési folyamatok támogatása és fenntartása érdekében az alapvető személyzetről, az infrastruktúráról, a finanszírozásról, a likviditásról és a tőkéről való gondoskodás;
-- 4. az intézmény által fenntartott szolgáltatási megállapodások mekkora hányada érvényesíthető teljes körűen az intézmény szanálása esetén;
+- 4. az intézmény által fenntartott szolgáltatási megállapodások – ideértve az IKT szolgáltatások igénybevételére vonatkozó megállapodásokat – mekkora hányada érvényesíthető teljes körűen az intézmény szanálása esetén;
+- 4a. megfelelően biztosítják-e az intézmény kritikus funkcióit és fő üzletágait támogató hálózati és információs rendszerek digitális működési rezilienciáját, figyelembe véve a jelentős IKT-vonatkozású eseményjelentéseket és a digitális működési reziliencia (EU) 2022/2554 rendelet szerinti tesztelés eredményeit;
 - 5. az intézmény irányítási struktúrája mennyire megfelelő az intézmény szolgáltatási szintre vonatkozó megállapodásainak kezeléséhez, továbbá mennyire biztosítja az e megállapodásokra vonatkozó belső politikáinak betartását;
 - 6. az intézménynél létezik-e – és milyen mértékben – eljárás arra az esetre, ha a kritikus funkciók vagy fő üzletágak elkülönítése miatt a szolgáltatási szintre vonatkozó megállapodások keretében nyújtott szolgáltatásokat át kell adni harmadik feleknek;
 - 7. milyen mértékben léteznek olyan készenléti tervek és intézkedések, amelyek biztosítják a fizetési és az elszámolási rendszerekhez való folyamatos hozzáférést;

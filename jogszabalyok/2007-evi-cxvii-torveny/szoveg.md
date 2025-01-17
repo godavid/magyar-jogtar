@@ -48,6 +48,8 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 14. foglalkoztatói nyugdíjszolgáltató intézmény: olyan e törvény alapján létrehozott zártkörűen működő részvénytársaság, továbbá valamely más EGT-államban bejegyzett intézmény, amely foglalkoztatótól vagy szakmai szervezettől elkülönítetten jön létre és működik, és amelynek célja munkaviszonyhoz kapcsolódó nyugellátás biztosítása a foglalkoztatók és a munkavállalók vagy képviselőik között megkötött tagi, illetve több munkavállalót érintő megállapodás alapján, feltéve, hogy az intézmény a megállapodásban foglaltak szerinti tevékenységet folytat;
 - 15. határon átnyúló tevékenység: olyan nyugdíjkonstrukció működtetése, amelyre a csatlakozó foglalkoztató, illetve a tagok és az ellátottak viszonya vonatkozásában a székhely szerinti tagállamtól eltérő tagállam foglalkoztatói nyugdíjkonstrukciók tekintetében releváns szociális- és munkajogi jogszabályokat kell alkalmazni;
 - 16. ellátott: nyugdíjszolgáltatásban részesülő személy;
+- 16a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
+- 16b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 - 17. jogosultság nyilvántartása: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a tag által megszerzett jogosultságok nyilvántartása;
 - 18. jogosultság tőkeértéke: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a szolgáltatás megkezdése előtt a tag által megszerzett jogosultságoknak a tőkeérték kiszámításának időpontjára meghatározott összértéke. A tőkeértéket a megszerzett jogosultságok alapján várható szolgáltatási kiadásoknak a nyugdíjtechnikai tartalékok befektetésén várható jövőbeli hozamok felhasználásával számított jelenértéke alapján kell meghatározni. A számítás során figyelembe kell venni a jogosultságok valorizációját illetően a csatlakozásra vonatkozó szerződésben szereplő rendelkezéseket is;
 - 19. kiszervezés: a foglalkoztatói nyugdíjszolgáltató intézmény feladatkörébe tartozó tevékenységének e tevékenység ellátásával üzletszerűen foglalkozó szervezet által, szerződés alapján történő ellátása;
@@ -304,7 +306,11 @@ igazolását.
 
 (8) A foglalkoztatói nyugdíjszolgáltató intézmény hatékony belső kontrollrendszert működtet. A belső kontrollrendszer igazgatási és számviteli eljárásokat, ellenőrzési keret- és szabályrendszert, a foglalkoztatói nyugdíjszolgáltató intézmény valamennyi szintjén megjelenő jelentéstételi szabályokat tartalmaz.
 
-(9) A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének folyamatos és szabályszerű végrehajtása érdekében az intézmény méretének, belső szervezetének, tevékenysége nagyságrendjének, jellegének, mértékének és összetettségének megfelelő és arányos rendszereket, erőforrásokat és eljárásokat alkalmaz. A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének végrehajtása érdekében készenléti terveket dolgoz ki.
+(9) A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének folyamatos és szabályszerű végrehajtása érdekében az intézmény méretének, belső szervezetének, tevékenysége nagyságrendjének, jellegének, mértékének és összetettségének megfelelő és arányos rendszereket, erőforrásokat és eljárásokat így különösen az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmaz. A foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének végrehajtása érdekében készenléti terveket dolgoz ki.
+
+(10) Az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá tartozó foglalkoztatói nyugdíjszolgáltató a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(11) Ha a foglalkoztatói nyugdíjszolgáltató a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 ### A vezető állású személy
 
@@ -575,9 +581,7 @@ rendelkezik,
 - d) jogszabályban előírt adatszolgáltatási kötelezettségének teljesítésére; valamint
 - e) a tagok, járadékosok és kedvezményezettek felé fennálló kötelezettségek megállapítására.
 
-### Informatikai rendszer védelme
-
-18. § A foglalkoztatói nyugdíjszolgáltató intézmény informatikai rendszerének védelmét az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 40/C. §-ában foglaltak szerint kell kialakítani.
+#### 18. §
 
 ### A tevékenység kiszervezésének feltételei
 
@@ -1909,8 +1913,14 @@ után nyílik meg.
 - g) az Európai Parlament és a Tanács 2009/138/EK irányelve (2009. november 25.) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II.),
 - h) a munkavállalók mobilitásának a kiegészítő nyugdíjjogosultságok megszerzésének és megtartásának javításával történő növelésére vonatkozó minimumkövetelményekről szóló, 2014. április 16-i 2014/50/EK európai parlamenti és tanácsi irányelv,
 - i) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i (EU) 2016/2341 európai parlamenti és tanácsi irányelv.
+- j) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
 
-91. § Ez a törvény a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+91. § Ez a törvény
+
+- a) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet, és
+- b) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2007. évi CXVII. törvényhez
 

@@ -16,7 +16,7 @@ az egyes fizetési szolgáltatókról
 
 2. § (1) A 3. § 40. pont, az 5. § (2)–(4) bekezdése, a 6. §, a 12. §, a 14. §, a 17. §, a 31–32. §, a 34. §, a 37. §, a 45–46. §, az 50–51. §, az 57. § (3) bekezdése, a 66. §, a 72–79. §, a 82. § és a 83. § a Posta Elszámoló Központot működtető intézmény által végzett pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt említenek, azon a Posta Elszámoló Központot működtető intézmény is értendő.
 
-(2) A 12. § (1) és (3) bekezdése, az 59–64. §, a 66. § és a 72–79. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon és a kincstári körön kívüli számlatulajdonosokon kívül más személyek részére végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikuspénz-kibocsátó intézményt említenek, azon a kincstár is értendő.
+(2) A 12. § (1) bekezdése, az 59–64. §, a 66. § és a 72–79. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon és a kincstári körön kívüli számlatulajdonosokon kívül más személyek részére végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikuspénz-kibocsátó intézményt említenek, azon a kincstár is értendő.
 
 (3) Az 5. § (3)–(4) bekezdése, a 11. §, a 12. § (1) bekezdés a) és f) pontja, a 13. §, a 13/A. § (1) bekezdése, a 14. §, a 15. § (1) bekezdés a), c)–e) pontja, a 15. § (2) bekezdése és a 17. § nem terjed ki a kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézményre.
 
@@ -43,6 +43,8 @@ az egyes fizetési szolgáltatókról
 - 15. határon átnyúló szolgáltatás: a pénzügyi szolgáltatás és kiegészítő pénzügyi szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél lakóhelye, székhelye sem abban az országban van, amelyben a szolgáltatást nyújtó pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény székhelye,
 - 16. hitel és pénzkölcsön nyújtása: a Hpt.-ben meghatározott hitel és pénzkölcsön nyújtása,
 - 17. induló tőke: a jegyzett tőke – ide nem értve az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozam kifizetésére is feljogosító jegyzett és befizetett részvények névértékét –, a tőketartalék és az eredménytartalék összege,
+- 17a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom,
+- 17b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom,
 - 18. jegyzett tőke: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szmt.) 35. § (3) bekezdése szerint meghatározott tőke,
 - 18a. jelentős elektronikuspénz-token: az (EU) 2023/1114 európai parlamenti és tanácsi rendelet alapján jelentősnek minősített elektronikuspénz-token,
 - 19. jó üzleti hírnév: a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény vezetőinek, befolyásoló részesedéssel rendelkező tulajdonosainak a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte,
@@ -181,7 +183,7 @@ az egyes fizetési szolgáltatókról
 
 (2) Az (1) bekezdésben foglaltakat székhely-, telephelyváltozás esetén, valamint a pénzügyi szolgáltatási tevékenység, kiegészítő pénzügyi szolgáltatási tevékenység módosításakor is biztosítani kell.
 
-(3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által működtetett informatikai rendszernek meg kell felelnie a jogszabályban meghatározott biztonsági követelményeknek.
+(3)
 
 12/A. § (1) A fizetési számlavezetésre engedéllyel rendelkező pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek a tevékenysége végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
 
@@ -192,6 +194,10 @@ az egyes fizetési szolgáltatókról
 (4) A tanúsító szervezet és alvállalkozója a vizsgált intézmény kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
 
 (5) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titkokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is
+
+12/B. § (1) A pénzforgalmi intézmény, elektronikus-pénz kibocsátó intézmény a jelentős IKT-vonatkozású eseményeket a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelőközpontnak (CSIRT).
+
+(2) Ha a pénzforgalmi intézmény, elektronikus-pénz kibocsátó intézmény a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 13. § A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény befolyásoló részesedéssel rendelkező tulajdonosa csak olyan személy lehet,
 
@@ -215,7 +221,7 @@ az egyes fizetési szolgáltatókról
 - c) nem eredményezhet változást a tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében, valamint
 - d) nem szüntethet meg és nem módosíthat semmilyen más olyan feltételt, amelynek meglétéhez a pénzforgalmi intézményként, elektronikuspénz-kibocsátó intézményként történő működési engedély megadását kötötték.
 
-(4) A pénzügyi szolgáltatáshoz, kiegészítő pénzügyi szolgáltatáshoz kapcsolódó kritikus feladatok kiszervezése nem befolyásolhatja a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény belső ellenőrzési rendszere, a könyvvizsgáló és a Felügyelet hatáskörének gyakorlását.
+(4) A pénzügyi szolgáltatáshoz, kiegészítő pénzügyi szolgáltatáshoz kapcsolódó kritikus feladatok – ideértve az IKT-rendszerek kiszervezését – nem befolyásolhatják a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény belső ellenőrzési rendszerét, a könyvvizsgáló és a Felügyelet hatáskörének gyakorlását.
 
 (5) A (3)–(4) bekezdés alkalmazásában a pénzügyi szolgáltatáshoz, kiegészítő pénzügyi szolgáltatáshoz kapcsolódó kritikus feladatnak minősül minden olyan feladat, amelynek végrehajtásában bekövetkezett hiányosság vagy eltérés kétségessé teszi a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény pénzügyi szolgáltatása, kiegészítő pénzügyi szolgáltatása jogszabályban előírt kötelezettségeinek teljesítését, vagy lényegesen csökkentené jövedelmezőségét, pénzügyi szolgáltatási tevékenységének, kiegészítő pénzügyi szolgáltatási tevékenységének megbízhatóságát, folyamatosságát.
 
@@ -251,7 +257,7 @@ az egyes fizetési szolgáltatókról
 - b) középtávú – az első három évre vonatkozó – előzetes költségvetést is tartalmazó üzleti tervet, a működéshez szükséges személyi és tárgyi feltételek biztosítására vonatkozó tényeket,
 - c) igazolást az induló tőke teljes összegének rendelkezésre állásáról,
 - d) az ügyfelek pénzeszközeinek védelme érdekében a 46. §-ban és az 51. §-ban foglalt feltételek biztosításának leírását, ideértve az ügyfélpénzek elkülönített nyilvántartására alkalmas informatikai rendszer részletes leírását és a rendszer alkalmasságáról készített könyvvizsgálói igazolást is,
-- e) a kérelmező vállalatirányítási és belső ellenőrzési rendszerének leírását, ideértve az adminisztratív, a kockázatkezelési és számviteli eljárásokat is, bemutatva ezen vállalatirányítási, ellenőrzési eljárások arányosságát, helyénvalóságát és megbízhatóságát,
+- e) a kérelmező vállalatirányítási és belső ellenőrzési rendszerének leírását, ideértve az adminisztratív, a kockázatkezelési és számviteli eljárásokat is, valamint az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően az IKT-szolgáltatások igénybevételére vonatkozó megállapodásokat bemutatva ezen vállalatirányítási, ellenőrzési eljárások arányosságát, helyénvalóságát és megbízhatóságát,
 - f) a kérelmező könyvvizsgálójának megnevezését,
 - g) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatokat, eljárásrendeket,
 - h) a kérelmező szervezeti felépítésének és felelősségi köreinek bemutatását, szervezeti és működési szabályzatát, valamint az általános szerződési feltételeit tartalmazó szabályzatait,
@@ -264,9 +270,9 @@ az egyes fizetési szolgáltatókról
 - o) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
 - p) a 6. §-ban és a 8. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
 - q) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak,
-- r) a biztonsági események és biztonsággal kapcsolatos ügyfélpanaszok monitorozására, kezelésére és nyomon követésére szolgáló eljárások leírását, ideértve a Pft. 55/B. §-ában meghatározott bejelentési kötelezettségnek megfelelően kialakított eseményjelentési eljárást is,
+- r) a biztonsági események és biztonsággal kapcsolatos ügyfélpanaszok monitorozására, kezelésére és nyomon követésére szolgáló eljárások leírását, ideértve az eseményjelentési eljárást is, amely figyelembe veszi a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény (EU) 2022/2554 európai parlamenti és tanácsi rendelet III. fejezetében megállapított értesítési kötelezettségeit,
 - s) az érzékeny fizetési adatokhoz való hozzáférés iktatására, monitorozására, követésére és korlátozására szolgáló eljárás leírását,
-- t) az üzletmenet-folytonosság biztosítását célzó intézkedések leírását, amely tartalmazza a kritikus műveletek egyértelmű azonosítását, a hatékony készenléti terveket, valamint az e tervek megfelelőségének és hatékonyságának rendszeres tesztelésére és felülvizsgálatára szolgáló eljárást,
+- t) az üzletmenet-folytonossági mechanizmusok leírását, amely tartalmazza a kritikus műveletek, a hatékony IKT vonatkozású üzletmenet-folytonossági politikák és tervek, valamint IKT vonatkozású reagálási és helyreállítási tervek, továbbá az ilyen tervek megfelelőségének és hatékonyságának rendszeres tesztelésére és felülvizsgálatára szolgáló, az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelő eljárás egyértelmű azonosítását,
 - u) a teljesítményre, a műveletekre és a csalásra vonatkozó statisztikai adatok gyűjtése során alkalmazott elvek és fogalommeghatározások leírását,
 - v) a biztonsági elvek leírását, ezen belül a nyújtott pénzforgalmi szolgáltatásokkal kapcsolatos részletes kockázatértékelés, valamint azoknak a biztonsági ellenőrzési és kockázatmérséklési intézkedéseknek a leírását, amelyek biztosítják az ügyfelek megfelelő védelmét az azonosított kockázatokkal szemben, ideértve a csalást, valamint az érzékeny és személyes adatok illegális felhasználását,
 - w) a panaszkezelési szabályzatát, valamint
@@ -274,7 +280,7 @@ az egyes fizetési szolgáltatókról
 
 (2) Az (1) bekezdés d), e), h) és r) pontjához kapcsolódóan a kérelmező mellékeli azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást igénybe vevők érdekeinek védelmét, valamint a pénzügyi szolgáltatási tevékenység és kiegészítő pénzügyi szolgáltatási tevékenység végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
 
-(2a) Az (1) bekezdés v) pontjában meghatározott biztonsági ellenőrzési és kockázatmérséklési intézkedések leírásakor a kérelmező bemutatja, hogy azok hogyan biztosítják a magas szintű műszaki biztonságot és adatvédelmet, ideértve a kérelmező által, illetve a kérelmező működésének egy részét vagy egészét kiszervezett tevékenységként végző vállalkozás által alkalmazott szoftvereket, valamint informatikai rendszereket. Ezen intézkedések között a Pft. 55/A. §-ában meghatározott biztonsági intézkedéseknek is szerepelniük kell.
+(2a) Az (1) bekezdés v) pontjában meghatározott biztonsági ellenőrzési és kockázatmérséklési intézkedések leírásakor a kérelmező bemutatja, hogy azok hogyan biztosítják a magas szintű digitális működési rezilienciát az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. fejezetével összhangban, különösen a műszaki biztonságot és adatvédelmet, ideértve a kérelmező által, illetve a kérelmező működésének egy részét vagy egészét kiszervezett tevékenységként végző vállalkozás által alkalmazott szoftvereket, valamint IKT rendszereket. Ezen intézkedések között a Pft. 55/A. §-ában meghatározott biztonsági intézkedéseknek is szerepelniük kell.
 
 (3) Ha a kérelmezőnek befolyásoló részesedéssel rendelkező tulajdonosa van, az (1) bekezdésben foglaltakon kívül a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre jogosító engedély iránti kérelemhez mellékeli:
 
@@ -902,7 +908,7 @@ szemben.
 - a) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható fizetési titokkört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri, vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltását is – nyújtja,
 - b) e törvény a fizetési titok megtartásának kötelezettsége alól felmentést ad,
 - c) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi,
-- d) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
+- d)
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a fizetési titok megtartásának kötelezettsége nem áll fenn
 
@@ -1385,7 +1391,7 @@ végzését.
 
 88. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-- a) a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenységet végző Posta Elszámoló Központot működtető intézmény informatikai rendszerének biztonsági követelményeit,
+- a)
 - b) a közvetítői díj meghatározásának és kifizetésének módját, időbeli ütemezését,
 - c) a pénzforgalmi intézmények, az elektronikuspénz-kibocsátó intézmények és az utalványkibocsátók panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára vonatkozó követelményeket.
 
@@ -1398,11 +1404,13 @@ végzését.
 - a) az Európai Parlament és a Tanács (EU) 2015/2366 irányelve (2015. november 25.) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről,
 - b) az Európai Parlament és a Tanács 2009/110/EK irányelve (2009. szeptember 16.) az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről, a 2005/60/EK és a 2006/48/EK irányelv módosításáról, valamint a 2000/46/EK irányelv hatályon kívül helyezéséről,
 - c) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
+- d) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
 
 (1a) Ez a törvény
 
 - a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
 - b) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
+- c) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

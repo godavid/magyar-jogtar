@@ -128,6 +128,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
   - b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítottak szerint nem azzal a fő céllal hoztak létre, hogy a befektetőknek a leányvállalatok vagy kapcsolt vállalkozások eladása révén hozzon hozamot;
 - 52. hozzátartozó: a Ptk.-ban meghatározott fogalom;
 - 53. induló tőke: a vállalkozás alapításkori jegyzett tőkéjének, a tőketartalékának és az eredménytartalékának összege;
+- 53a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
+- 53b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 - 54. jogi képviselő: az a természetes személy, akinek lakóhelye az Európai Unióban van, illetve az a jogi személy, amelynek székhelye az Európai Unióban van, és akit vagy amelyet egy nem uniós ABAK jelölt ki arra, hogy a hatóságok, ügyfelek, szervezetek és nem uniós ABAK üzletfelei felé az Európai Unióban a nevében eljárjon ezen törvény szerinti kötelezettségei tekintetében;
 - 54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
 - 55. kereskedelmi kommunikáció: a tájékoztató, a kezelési szabályzat, a kiemelt befektetői információ és a hirdetmény kivételével minden, a befektetők tájékoztatását szolgáló, a kollektív befektetési értékpapír nyilvános forgalomba hozatalával és forgalmazásával összefüggésbe hozható, reklámban vagy egyéb módon közölt információ;
@@ -430,11 +432,15 @@ alá.
 
 (2) A befektetési alapkezelőnek rendelkeznie kell megfelelő irodai elhelyezéssel, kommunikációs rendszerrel (telefon, internetkapcsolat, elektronikus postacím, nyilvános befektetési alapot kezelő befektetési alapkezelő esetén saját honlap). A befektetési alapkezelőnek olyan szervezeti és működési szabályokat kell kialakítania, amelyek biztosítják ÁÉKBV-alapkezelő esetében a 22–26. §-ban, ABAK esetében a 32. §-ban megfogalmazott működési szabályok megtartását.
 
-(3) A befektetési alapkezelőnek rendelkeznie kell olyan elektronikus portfólió-nyilvántartási rendszerrel, amely alkalmas az általa kezelt portfóliók vagyonváltozásainak, a jegyzési és visszavásárlási megbízásoknak naprakész – és az információs kötelezettség teljesítését lehetővé tevő – rögzítésére és kimutatására és a belső ellenőrzés, valamint a Felügyelet által történő ellenőrzés követelményeinek teljesítésére. A befektetési alapkezelő gondoskodik az elektronikus adatfeldolgozás magas szintű biztonságáról és a rögzített információk védelméről és bizalmas kezeléséről.
+(3) A befektetési alapkezelőnek rendelkeznie kell olyan elektronikus portfólió-nyilvántartási rendszerrel, amely alkalmas az általa kezelt portfóliók vagyonváltozásainak, a jegyzési és visszavásárlási megbízásoknak naprakész – és az információs kötelezettség teljesítését lehetővé tevő – rögzítésére és kimutatására és a belső ellenőrzés, valamint a Felügyelet által történő ellenőrzés követelményeinek teljesítésére. A befektetési alapkezelő gondoskodik az elektronikus adatfeldolgozás magas szintű biztonságáról – többek között az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszerek tekintetében – és a rögzített információk védelméről és bizalmas kezeléséről.
 
 (4) Amennyiben a befektetési alapkezelő kollektív befektetési értékpapírt forgalmaz, a befektetési alapkezelőnek rendelkeznie kell olyan, a befektetők nyilvántartására szolgáló nyilvántartási rendszerrel, amely biztosítja a befektetők adatainak mindenkori naprakész nyilvántartását, visszakereshetőségét és az értékpapírtitok folyamatos megtartását.
 
 (5) A befektetési alapkezelőnek meg kell felelnie a Tpt. 355. §, 364. § és 368–371. §-ában meghatározott rendelkezéseknek.
+
+(6) Az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá tartozó befektetési alapkezelő a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(7) Ha a befektetési alapkezelő a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 19. § (1) A befektetési alapkezelő ügyvezetését – a 2. § (2) bekezdés szerinti ABAK kivételével – legalább két természetes személy, munkaviszony keretében köteles ellátni. A vezető állású személyek között legalább két olyan személynek kell lennie, aki a devizajogszabályok alapján devizabelföldinek minősül, és – legalább egy éve – állandó belföldi lakóhellyel rendelkezik.
 
@@ -3149,6 +3155,7 @@ van összefüggésben.
 - g) az Európai Parlament és a Tanács 2019. november 27-i (EU) 2019/2034 irányelve a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról.
 - h) az Európai Parlament és a Tanács 2019. június 20-i (EU) 2019/1160 irányelve a 2009/65/EK és a 2011/61/EU irányelvnek a kollektív befektetési vállalkozások határokon átnyúló forgalmazása tekintetében történő módosításáról.
 - i) az Európai Parlament és a Tanács 2021. december 15-i (EU) 2021/2261 irányelve a 2009/65/EK irányelvnek a kiemelt információkat tartalmazó dokumentumok átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) alapkezelő társaságai általi használata tekintetében történő módosításáról.
+- j) az Európai Parlament és a Tanács (EU) 2022/2556 irányelve (2022. december 14.) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK. a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 201465/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról
 
 (2) E törvény
 
@@ -3166,6 +3173,7 @@ van összefüggésben.
 - l) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet
 - m) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
 - n) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
+- o) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

@@ -118,7 +118,9 @@ kapcsán megvalósuló büntetlen előélet;
 - 43. indulótőke: a kölcsönös biztosító egyesület alapításkori jegyzett tőkéje;
 - 44. Információs Központ: a Gfbt.-ben meghatározott fogalom;
 - 45. járadékszolgáltatás: a jogosult részére szerződés alapján meghatározott pénzösszeg időszakonként visszatérő szolgáltatása;
-- 46. jegyzett tőke és saját tőke: a számvitelről szóló törvényben (a továbbiakban: Szmt.) meghatározottak szerinti jegyzett tőke és saját tőke;
+- 46. jegyzett tőke és saját tőke: a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: Szmt.) meghatározottak szerinti jegyzett tőke és saját tőke;
+- 46a. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
+- 46b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 - 47. jellemző kockázat: több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék ágazati, illetve alágazati besorolását meghatározó kockázat. A több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék abba az egy biztosítási ágazatba, illetve biztosítási alágazatba tartozik, amely megfelel az adott termék díjkalkulációja szerint a legnagyobb arányú díjrésszel fedezett kockázat ágazati, illetve alágazati besorolásának;
 - 48. jogvédelmi biztosítás: a jogi eljárási költségek viselésére és a biztosítási fedezetből fakadó más szolgáltatások nyújtására vonatkozó kötelezettség díj ellenében történő elvállalása, így különösen
   - a) a biztosított által elszenvedett kár és a részére járó sérelemdíj peren kívüli egyezséggel vagy polgári, illetve büntetőeljárás során történő megtérülésének biztosítása,
@@ -1009,11 +1011,15 @@ szerzett végzettség.
 - a) a szervezeti felépítését, valamint a kiemelten fontos feladatköreit belső szabályzatban áttekinthetően rögzíteni;
 - b) a felelősségi köröket egyértelműen meghatározni és egymástól megfelelően elhatárolni;
 - c) hatékony információáramlást biztosító rendszert működtetni; és
-- d) tevékenységei folyamatos és szabályszerű ellátása érdekében megfelelő és arányos rendszereket, erőforrásokat és eljárásokat – ideértve a készenléti tervet is – alkalmazni.
+- d) tevékenységei folyamatos és szabályszerű ellátása érdekében megfelelő és arányos rendszereket, erőforrásokat és eljárásokat (ideértve a készenléti tervet is), így különösen az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmazni.
 
 (3) A belső szabályzatokban egyértelműen meg kell állapítani a vonatkozó feladatokat, célkitűzéseket, folyamatokat és az alkalmazandó beszámolási eljárásokat, amelyek mindegyikének összhangban kell lennie a biztosító általános üzleti stratégiájával.
 
 (4) A szabályzatokat az irányítási rendszer vagy az érintett terület bármely jelentős változása esetén, de évente legalább egyszer felül kell vizsgálni.
+
+(5) A biztosító vagy a viszontbiztosító a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(6) Ha a biztosító vagy a viszontbiztosító a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 78. § (1) A biztosító vagy viszontbiztosító igazgatóságának és felügyelőbizottságának üléseiről jegyzőkönyvet kell vezetni. A jegyzőkönyv tartalmazza:
 
@@ -4586,6 +4592,8 @@ birtokában végezheti a biztosításközvetítői tevékenységét.
 
 (4) Ha a Felügyelet a biztosításközvetítői tevékenységet végző természetes személy felügyeleti nyilvántartásban szereplő státusza inaktív szerepeltetéséről döntött, a közvetítő köteles az arcképes igazolványt a kibocsátónak visszaadni.
 
+374/A. § A 77. § (5) és (6) bekezdésében foglaltak az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá tartozó biztosításközvetítőkre, viszontbiztosítás-közvetítőkre és kiegészítő biztosításközvetítői tevékenységet végző személyekre is megfelelően alkalmazandók.
+
 375. § (1) A 131. §-ban meghatározott rendelkezéseket alkalmazni kell a biztosításközvetítő által történő termékterjesztésre is.
 
 (2) A független biztosításközvetítő és a többes ügynök esetében megfelelően alkalmazni kell a 108/A. §-ban meghatározott rendelkezéseket, azzal, hogy ahol a rendelkezés biztosítót említ, azon a független biztosításközvetítőt és a többes ügynököt kell érteni. Ha a független biztosításközvetítő vagy a többes ügynök nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő közzététellel is eleget tehet.
@@ -5587,7 +5595,7 @@ a Felügyelet – a másik tagállam illetékes hatóságának tájékoztatásá
 
 - a)
 - b) a biztosítók és a viszontbiztosítók szavatolótőkéjére és biztosítástechnikai tartalékaira,
-- c) a biztosítók és viszontbiztosítók informatikai rendszere védelmének követelményeire és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeire,
+- c)
 - d)
 - e) a többes ügynöki és az alkuszi felelősségbiztosítási szerződés minimális tartalmi követelményeire,
 - f) a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokra,
@@ -5923,6 +5931,7 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 - 12. a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i (EU) 2016/2341 európai parlamenti és tanácsi irányelvnek
 - 13. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek
 - 14. a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelvnek
+- 15. a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
