@@ -134,6 +134,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 63. jegyzés: az értékpapír forgalomba hozatala során az értékpapírt megszerezni szándékozó befektetőnek az értékpapír megszerzésére irányuló, feltétetlen és visszavonhatatlan nyilatkozata, amellyel az ajánlatot elfogadja és kötelezettséget vállal az ellenszolgáltatás teljesítésére,
 - 64. jegyzett tőke: az Szmt.-ben meghatározott tőke, valamint a dotációs tőke,
 - 64a. jogsértésről szóló bejelentés: a bejelentő személy által a Felügyelethez eljuttatott bejelentés az 596/2014/EU rendelet tényleges vagy lehetséges megsértéséről,
+- 64b. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom,
+- 64c. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom,
 - 65. kapcsolt vállalkozás: a vállalkozás anyavállalata és leányvállalata, a vállalkozás anyavállalatának leányvállalata, a vállalkozásban minősített befolyással rendelkező tulajdonos vagy olyan vállalkozás, amelyben a vállalkozás vagy a vállalkozás tulajdonosa, felügyelőbizottsági tagja, vezető tisztségviselője, vagy ezek közeli hozzátartozója minősített befolyással rendelkezik,
 - 65a. kereskedési helyszín: a Bszt.-ben meghatározott fogalom,
 - 66. kibocsátási program: egy kibocsátótól származó, hitelviszonyt megtestesítő értékpapírok, illetve zártvégű befektetési alapra forgalomba hozott befektetési jegyek egymást követő nyilvános értékpapírkibocsátás-összessége, amelynek alapfeltételeit a kibocsátó, illetve az alapkezelő a program indításakor rögzíti, és az egyes részkibocsátások során a kibocsátó, illetve az alapkezelő meghatározza a kibocsátás egyedi adatait,
@@ -2458,7 +2460,9 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (4) A platform szintű, kiemelt befektetési információkat tartalmazó adatlapon szereplő információk más nyelvre fordításában történt hibával okozott kárért a közösségi finanszírozási szolgáltató és a fordításért felelős személy egyetemlegesen felel.
 
-#### 296/C. §
+296/C. § (1) A közösségi finanszírozási szolgáltató a jelentős IKT-vonatkozású eseményeket a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(2) Ha a közösségi finanszírozási szolgáltató a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti az Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 #### 296/D. §
 
@@ -2810,7 +2814,11 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 ### A rendszerek rugalmassága, szüneteltetési mechanizmusok és elektronikus kereskedés
 
-316/A. § (1) A tőzsde által alkalmazott eljárás és rendszer biztosítja, hogy kereskedési rendszerei rugalmasak, rendelkeznek elegendő kapacitással csúcsterhelések esetére a megbízások és az üzenetek volumenét illetően, valamint képesek a szabályos kereskedést biztosítani jelentős piaci stressz esetén. A kereskedési rendszereket megfelelően tesztelik ezen feltételek teljesítésének ellenőrzése érdekében. A kereskedési rendszer hatékony eljárásokkal rendelkezik meghibásodás esetére az üzletmenet folyamatosságának biztosítására.
+316/A. § (1) A tőzsde által alkalmazott eljárás és rendszer biztosítja, hogy kereskedési rendszerei reziliensek legyenek – az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. fejezetében meghatározott követelményekkel összhangban kialakított és fenntartott működési rezilienciával összhangban –, rendelkeznek elegendő kapacitással csúcsterhelések esetére a megbízások és az üzenetek volumenét illetően, valamint képesek a szabályos kereskedést biztosítani jelentős piaci stressz esetén. A kereskedési rendszereket teljes körűen tesztelik ezen feltételek teljesítésének ellenőrzése érdekében. A kereskedési rendszer a meghibásodás esetére, az üzletmenet folyamatosságának biztosítása céljából hatékony eljárásokkal rendelkezik, ideértve az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 11. cikkének megfelelően létrehozott IKT-vonatkozású üzletmenet-folytonossági politikát és terveket, valamint IKT-vonatkozású reagálási és helyreállítási terveket.
+
+(1a) A tőzsde a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(1b) Ha a tőzsde a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 (2) A tőzsde biztosítja az alábbiakat:
 
@@ -2835,9 +2843,9 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 - a) az egész piacra kiterjedő válaszintézkedés összehangolása céljából és
 - b) annak eldöntése érdekében, hogy a pénzügyi eszközzel kereskedő más helyszíneken is célszerű-e leállítani a kereskedést mindaddig, amíg az eredeti piacon a kereskedés nem folytatódik.
 
-(9) A tőzsde által alkalmazott eljárás és rendszer – ideértve a tőzsdei kereskedők arra való kötelezését, hogy végezzék el az algoritmusok megfelelő tesztelését, és biztosítsanak megfelelő környezetet az ilyen tesztelés elvégzésének megkönnyítéséhez – hatékonyan biztosítja, hogy
+(9) A tőzsde által alkalmazott eljárás és rendszer – ideértve a tőzsdei kereskedők arra való kötelezését, hogy végezzék el az algoritmusok megfelelő tesztelését, és biztosítsanak megfelelő környezetet az ilyen tesztelés elvégzésének megkönnyítéséhez – az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. és IV. fejezetében meghatározott követelményekkel összhangban hatékonyan biztosítja, hogy
 
-- a) az algoritmikus kereskedés rendszerei ne hozhassanak létre rendellenes kereskedési feltételeket a piacon vagy ne járuljanak hozzá ilyen feltételek kialakulásához, és
+- a) az algoritmikus kereskedés rendszerei ne hozhassanak létre rendellenes kereskedési feltételeket a piacon, vagy ne járuljanak hozzá ilyen feltételek kialakulásához, és
 - b) kezelni tudja az algoritmikus kereskedési rendszerek által előidézett rendellenes kereskedési feltételeket.
 
 (10) A (9) bekezdés szerinti algoritmikus kereskedési rendszer az olyan rendszert is magában foglalja, amely lehetővé teszi
@@ -2885,7 +2893,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (3) A tőzsdei szabályzatoknak biztosítaniuk kell, hogy
 
-- a) a tőzsde a működésével összefüggésben felmerülő kockázatok kezelésére, csökkentésére megfelelő rendszereket és megoldásokat alkalmazzon,
+- a) a tőzsde a működésével összefüggésben felmerülő lényeges kockázatok azonosítására, kezelésére és csökkentésére megfelelő rendszereket és megoldásokat alkalmazzon, és felkészüljön a felmerülő kockázatok kezelésére, ideértve az IKT-kockázatoknak az (EU) 2022/2554 európai parlamenti és tanácsi rendelet II. fejezet szerinti kezelését is,
 - b) a piac általános érdekeinek megfelelően a tőzsdei tevékenység, a kereskedés és az ezekről szóló információ átlátható és ellenőrizhető legyen, ezáltal teremtve meg a kereskedésben részt vevők esélyegyenlőségét, egyenlő elbírálását és a befektetők objektív piaci védelmét,
 - c) a tőzsde hatékony mechanizmusokkal segítse elő a rendszereiben végrehajtott ügyletek hatékony és határidőben történő véglegesítését, valamint
 - d) a tőzsde figyelemmel kísérje a tőzsdei kereskedők által a rendszereik keretében elküldött megbízásokat és törléseket, illetve az általuk végrehajtott ügyleteket annak érdekében, hogy azonosítsák a szabályok megsértését, a szabálytalan kereskedési feltételeket, az 596/2014/EU rendelet által tiltott magatartásra utaló magatartást vagy a rendszer zavarait valamely tőzsdei termékkel kapcsolatban.
@@ -2899,7 +2907,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 - e) a kereskedés felfüggesztésének szabályait és eljárási rendjét;
 - f) az árfolyam és az egyéb tőzsdei információ nyilvánosságra hozatalának módját;
 - g) a tőzsdei kereskedők, a tőzsdére bevezetett értékpapírok kibocsátói adatszolgáltatásának tartalmát, módját és ellenőrzésének rendjét;
-- h) a tőzsdei kereskedési rendszer technikai működésének megalapozott irányítására vonatkozó szabályokat, ideértve az előre nem látható események hatékony kezelésére vonatkozó megoldásokat is, annak érdekében, hogy a tőzsde csökkentse a rendszerleállás kockázatát,
+- h)
 - i) a tőzsde, a tőzsde tulajdonosai vagy működtetője érdekei és a tőzsde stabil működése között potenciálisan felmerülő összeférhetetlenség kezelésére vonatkozó szabályokat, továbbá a tőzsde vezető állású személyeire és alkalmazottaira vonatkozó összeférhetetlenségi szabályokat;
 - j) a tőzsde által a szolgáltatást igénybe vevők részére felszámított díjakat.
 
@@ -3048,9 +3056,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (4) Ha a tőzsde és a kiszervezett tevékenységet végző személy vagy szervezet ugyanazon csoport tagja, e fejezet rendelkezéseinek történő megfelelés céljából a tőzsde figyelembe veheti az általa a kiszervezett tevékenységet végzőre gyakorolt ellenőrzés és befolyás mértékét.
 
-### Az informatikai rendszer védelme
-
-318/D. § A tőzsdei tevékenységet végzőnek alkalmaznia kell a Bszt. 12. §-ában foglaltakat.
+#### 318/D. §
 
 ### XXXVII. Fejezet — TŐZSDEI ÜGYLET
 
@@ -3273,7 +3279,11 @@ MEGSZŰNÉSE
 
 (4) Ha központi értéktár, központi szerződő fél feladatkörében eljárva e törvény, illetőleg e törvény felhatalmazása alapján kiadott jogszabály megsértését észleli, arról haladéktalanul értesíti a Felügyeletet.
 
-344. § Központi értéktár és központi szerződő fél – a 648/2012/EU rendeletben, a 909/2014/EU rendeletben foglaltakra figyelemmel – tevékenységét vagy szolgáltatását kiszervezheti.
+344. § (1) Központi értéktár és központi szerződő fél – a 648/2012/EU rendeletben, a 909/2014/EU rendeletben foglaltakra figyelemmel – tevékenységét vagy szolgáltatását kiszervezheti.
+
+(2) A központi értéktár és a központi szerződő fél a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
+
+(3) Ha a központi értéktár és a központi szerződő fél a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
 345. § (1) Központi szerződő fél ellen indított felszámolási eljárás esetén nem tartozik a központi szerződő fél felszámolási vagyonába a 648/2012/EU rendeletben meghatározott biztosíték, valamint az általa létrehozott garanciaalap.
 
@@ -4847,5 +4857,7 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 31. A biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelv.
 - 32. A 2014/65/EU irányelv tájékoztatási követelmények, termékirányítás és pozíciólimitek tekintetében, valamint a 2013/36/EU és az (EU) 2019/878 irányelv befektetési vállalkozásokra való alkalmazása tekintetében, a Covid19-válság utáni helyreállítás elősegítése érdekében történő módosításáról szóló, 2021. február 16-i (EU) 2021/338 európai parlamenti és tanácsi irányelv.
 - 33. A 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló 2022. december 14-i, (EU) 2022/2464 európai parlamenti és tanácsi irányelv.
+- 34. A pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
+- 35. A pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez
