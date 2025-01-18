@@ -46,27 +46,11 @@ az online csalások elleni fellépés érdekében szükséges törvények és eg
 
 #### 8. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-15. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 27. alcíme a következő 67/B. §-sal egészül ki:
-
-„67/B. § (1) A pénzügyi szolgáltatói tevékenység – a kiegészítő pénzügyi szolgáltatás kivételével – végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a hitelintézetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
-
-(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket külön jogszabály határozza meg.
-
-(3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a hitelintézet informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a hitelintézet folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a hitelintézet belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
-
-(4) A tanúsító szervezet és alvállalkozója a vizsgált intézmény kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
-
-(5) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is.”
+#### 15. §
 
 #### 16. §
 
-17. § A Hpt. 290. § (1) bekezdése a következő l) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:)
-
-„l) a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre”
-
-(vonatkozó részletes szabályokat.)
+#### 17. §
 
 #### 18. §
 
