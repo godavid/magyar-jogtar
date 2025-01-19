@@ -525,7 +525,11 @@ lép.
 
 #### 54. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
-#### 192. §
+192. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13/A. § 1. pontja helyébe a következő rendelkezés lép:
+
+(A Hatóság elnöke)
+
+„1. megállapítja a vállalkozás fenntarthatósági célú átvilágítási kötelezettségei teljesítésének részletszabályait, a kockázatelemzés rendszere kialakításának szabályait, az ESG tanúsítóként és az ESG tanácsadóként történő akkreditálás eljárási szabályait, az ESG szoftverek kiberbiztonsági tanúsítása vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert, a Tanúsítók Névjegyzéke, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők és az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat, az ESG menedzsmentplatform működési szabályait, a hitelesített támogatásmenedzsment központ működésének részletes szabályait, az ESG beszámoló és az ESG beszámoló mellékletét képező kérdőív minimum követelményeit, tartalmát, formai követelményeit és közzétételének szabályait, továbbá az ESG törvény 27. § (5) bekezdése szerinti további adatszolgáltatás előírására vonatkozó követelményeket és a Hatóság által engedélyezett adatszolgáltatás teljesítésének szabályait,”
 
 #### 55. Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény módosítása
 
@@ -587,41 +591,293 @@ lép.
 
 #### 61. A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény módosítása
 
-#### 216. §
+216. § (1) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 217. §
+„(3) E törvény rendelkezéseit köteles betartani az (1) bekezdés hatálya alá nem tartozó szervezet, amely az e törvény szerinti ESG adatszolgáltatást önként, egyoldalú jognyilatkozatban vagy szerződésben vállalja, vagy számára jogszabály az ESG adatszolgáltatást kötelezővé teszi.”
 
-#### 218. §
+(2) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 1. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-#### 219. §
+„(5) E törvény hatálya nem terjed ki
 
-#### 220. §
+- 1. a Magyarország területén székhellyel rendelkező, közérdeklődésre számot tartó gazdálkodónak minősülő mikrovállalkozásra,
+- 2. a Magyarországon székhellyel, fiókteleppel rendelkező szabályozott pénzügyi szolgáltatóra, és
+- 3. a Magyar Nemzeti Bankra, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaságra.”
 
-#### 221. §
+(3) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 1. §-a a következő (6) bekezdéssel egészül ki:
 
-#### 222. §
+„(6) Az (5) bekezdéstől eltérően e törvény hatálya kiterjed – e tevékenysége vonatkozásában – a szabályozott pénzügyi szolgáltatóra abban az esetben, ha ESG közreműködői tevékenységet végez.”
+
+217. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 3. §-a helyébe a következő rendelkezés lép:
+
+„3. § (1) A lényegesség elve azt biztosítja, hogy a vállalkozások megfelelő információkat hozzanak nyilvánosságra a náluk felmerülő ESG kockázatokról és lehetőségekről.
+
+(2) A vállalkozás a lényegesség elvét szem előtt tartva a fenntarthatósági célú átvilágítási kötelezettségei keretében – az üzleti titok sérelme nélkül – bárki számára megismerhetővé teszi
+
+- 1. azt, hogy a fenntarthatósági kérdések hogyan befolyásolják a vállalkozás teljesítményét, helyzetét és fejlődését,
+- 2. a vállalkozásnál felmerülő ESG kockázatokat és lehetőségeket, valamint
+- 3. az 1. és 2. pontban felsoroltak emberekre és környezetre gyakorolt hatásait.”
+
+218. § (1) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 7. § 5. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„5. ESG adatszolgáltatás: minden, fenntarthatósági kérdésekben más szervezet vagy személy részére továbbított, illetve közzétett információ, ideértve az ESG beszámolót is;”
+
+(2) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 7. § 6a. pontja helyébe a következő rendelkezés lép és a 7. § a következő 6b. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„6a. ESG kockázat: a környezeti, illetve társadalmi felelősségvállalás körében felmerülő, illetve vállalatirányítási kockázat;
+
+6b. ESG közreműködő: az ESG tanúsító, az ESG tanácsadó és az ESG minősítő;”
+
+(3) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 7. § 18. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„18. környezeti kockázat: olyan kockázat, amely a környezet – használat, terhelés vagy szennyezés miatti – károsodásával, valamint az éghajlat vagy természeti események, illetve tényezők változásával kapcsolatos negatív változás lehetőségét jelenti;”
+
+(4) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 7. §-a a következő 28a. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„28a. szabályozott pénzügyi szolgáltató:
+
+a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet és pénzügyi holding társaság,
+
+b) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési vállalkozás,
+
+c) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény szerinti befektetési alapkezelő (ABAK) és ÁÉKBV-alapkezelő,
+
+d) a biztosítási tevékenységről szóló törvény szerinti biztosító, viszontbiztosító, biztosítói holding társaság és csoportfelügyelet alól nem mentesített vegyes pénzügyi holding társaság,
+
+e) a tőkepiacról szóló törvény szerinti központi szerződő fél, központi értéktár, közösségi finanszírozási szolgáltató és különleges célú gazdasági egység,
+
+f) az egyes fizetési szolgáltatókról szóló törvény szerinti pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény és
+
+g) a kriptoeszközök piacáról szóló törvény szerinti kriptoeszköz-szolgáltató.”
+
+(5) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 7. § 29. pontja helyébe a következő rendelkezés lép és a 7. § a következő 29a. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„29. társadalmi felelősségvállalás körében felmerülő kockázat: olyan kockázat, amely az alapjogok tiszteletben nem tartása, a családok támogatásának hiánya, a méltányos munkafeltételek biztosításának elmaradása vagy a társadalmi egyenlőtlenségek, valamint a tisztességtelen, átláthatatlan vagy rosszindulatú vállalkozási gyakorlatok következtében merül fel;
+
+29a. vállalatirányítási kockázat: olyan kockázat, amelyet a nem megfelelő vállalati magatartás, illetve vállalatirányítási tevékenység, intézkedés vagy szabályozás eredményez, beleértve a pénzmosás, a vesztegetés és a korrupció elleni intézkedések hiányát vagy a vállalkozás működéséhez kapcsolódó jogszabályokkal, így különösen az adózási szabályokkal kapcsolatos jogsértéseket, továbbá a nem megfelelő panaszkezelési tevékenységet is;”
+
+219. § (1) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 11. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[A Hatóság az (1) bekezdés szerinti feladat- és hatáskör keretében]
+
+„a) nyilvántartást vezet
+
+aa) az ESG tanúsítókról;
+
+ab) az ESG tanácsadókról;
+
+ac) az ESG szoftverekről;
+
+ad) az ESG minősítőkről;”
+
+(2) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 11. § (2) bekezdés b) pont ba) alpontja helyébe a következő rendelkezés lép:
+
+[A Hatóság az (1) bekezdés szerinti feladat- és hatáskör keretében
+
+akkreditálja]
+
+  - „ba) az ESG tanácsadókat;”
+
+(3) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 11. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+[A Hatóság az (1) bekezdés szerinti feladat- és hatáskör keretében]
+
+„g) minden év szeptember 30-ig közzéteszi a törvény hatálya alá tartozó vállalkozások ugyanezen év június 30. napját megelőző egy éves időszakban benyújtott ESG adatszolgáltatása alapján készült éves beszámolóját;”
+
+(4) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 11. § (3) bekezdése helyébe a következő rendelkezés lép
+
+„(3) A (2) bekezdés b) pontja szerinti akkreditált státusz három évre szól, amely az ESG tanácsadók esetében alkalmanként további három éves időtartamra megújítható a Hatóság elnökének az ESG tanácsadóként történő akkreditálás eljárási szabályairól és az ESG tanácsadók nyilvántartásáról szóló rendeletében foglaltak szerint.”
+
+(5) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 11. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A (2) bekezdés b) pontja szerinti akkreditálásra irányuló kérelem és az akkreditált státusz megújítása iránti kérelem benyújtásakor a kérelmező elektronikus ügyintézésre köteles.”
+
+220. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 6. alcíme a következő 15/A. §-sal egészül ki:
+
+„15/A. § (1) A vállalkozás bejelenti a Hatóság részére a vállalkozással szerződéses jogviszonyban álló ESG közreműködő nevét, nyilvántartási számát és a jogviszony kezdő napját a szerződés megkötésétől számított 15 napon belül.
+
+(2) A vállalkozás az (1) bekezdés szerinti adatokban bekövetkezett változást annak bekövetkezésétől számított 15 napon belül bejelenti a Hatóság részére.
+
+(3) Az (1) bekezdés szerinti adatok kezelésének célja az ESG közreműködőkre vonatkozó információk naprakészen tartása, valamint a Hatóság hatósági ellenőrzési feladatainak ellátása.”
+
+221. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A vállalkozásnak a kockázatelemzést legalább 12 havi gyakorisággal, valamint eseti jelleggel akkor kell elvégeznie, ha a vállalkozásnak az ellátási láncban jelentősen megváltozott vagy jelentősen bővülő kockázati helyzettel kell számolnia, ideértve különösen új termékek, projektek bevezetését, valamint új üzleti ágban való részvételt. Az eseti jellegű kockázatelemzés célzottan vonatkozhat kifejezetten a megváltozott vagy jelentősen bővülő kockázati helyzetre. A kockázatelemzés eredményeit a Hatóság elnökének rendeletében foglaltak szerint a vállalkozás ügyvezetésével ismertetni kell.”
+
+222. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 23. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A vállalkozás az ESG beszámolót a Hatóság elnökének az ESG beszámolók, az ESG minősítők és az ESG szoftverek nyilvántartásáról szóló rendeletében foglaltak szerint módosíthatja. A módosított ESG beszámolót a vállalkozás ügyvezető szerve hagyja jóvá, és azt ESG tanúsítóval auditáltatni kell.”
 
 #### 223. §
 
-#### 224. §
+224. § (1) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 27. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 225. §
+„(1) Az 1. § (3) bekezdése szerinti szervezet az ESG adatszolgáltatási kötelezettségének ESG beszámoló készítésével vagy az ESG beszámoló mellékletét képező kérdőív vagy a Hatóság elnökének a vállalkozások fenntarthatósági célú átvilágítási kötelezettségei teljesítésének részletszabályairól szóló rendeletében meghatározott, a közvetlen szállítók részére küldendő kérdőív (a továbbiakban: szállítói kérdőív) kitöltésével tehet eleget.”
 
-#### 226. §
+(2) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 27. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
 
-#### 227. §
+„(3) Az 1. § (3) bekezdése szerinti szervezet az ESG beszámolóját ESG tanúsítóval auditáltathatja, ebben az esetben a IV. Fejezet rendelkezéseit alkalmazni kell. Az 1. § (3) bekezdése szerinti szervezetnek – a 23. § (6) bekezdésétől eltérően – csak abban az esetben kell a módosított ESG beszámolót ESG tanúsítóval auditáltatni, ha a módosításra kerülő ESG beszámolót is auditáltatta.
 
-#### 228. §
+(4) Ha a vállalkozástól vagy az 1. § (3) bekezdése szerinti szervezettől az ESG beszámoló mellékletét képező kérdőív vagy a szállítói kérdőívek tekintetében kérnek tartalmát tekintve e törvény hatálya alá tartozó adatszolgáltatást, és a vállalkozás vagy az 1. § (3) bekezdése szerinti szervezet vállalja, hogy eleget tesz a kérésnek, akkor a vállalkozásnak vagy az 1. § (3) bekezdése szerinti szervezetnek legfeljebb az ESG beszámoló mellékletét képező kérdőívet vagy a szállítói kérdőívnek azt a részét kell kitöltenie, amelyre a megkeresés vonatkozott.
 
-#### 229. §
+(5) Ha a vállalkozástól vagy az 1. § (3) bekezdése szerinti szervezettől az ESG beszámoló mellékletét képező kérdőív – e törvény vagy a Hatóság elnökének rendelete szerinti – tartalmán túl igényt tartanak további, tartalmát tekintve e törvény hatálya alá tartozó adatszolgáltatásra, abban az esetben a további adatszolgáltatás előírására vonatkozóan adatszolgáltatás iránti kérelmet kell benyújtani a Hatósághoz. Az adatszolgáltatás iránti kérelmet annak kell benyújtania, aki a további adatszolgáltatásra igényt tart a vállalkozástól vagy az 1. § (3) bekezdése szerinti szervezettől. Ha a vállalkozás vagy az 1. § (3) bekezdése szerinti szervezet vállalja, hogy a Hatóság által engedélyezett adatszolgáltatást teljesíti, akkor az adatszolgáltatás során a Hatóság elnökének rendeletében meghatározottak szerint jár el.”
 
-#### 230. §
+(3) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 27. §-a a következő (7) bekezdéssel egészül ki:
 
-#### 231. §
+„(7) A vállalkozás a közvetlen szállítói részérére kiküldött kérdőívek kitöltésének elősegítése érdekében a közvetlen szállítók számára a kérdőívek kitöltésére ellenszolgáltatás nélkül – a miniszter rendeletében foglaltak szerint – felkészítő programot (továbbiakban: felkészítő program) nyújt.”
 
-#### 232. §
+225. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 35. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 233. §
+„(3) ESG minősítőként a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló gazdasági társaság (a továbbiakban: állami ESG minősítő) is eljárhat.”
+
+226. § (1) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 41. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A névjegyzék a természetes személy ESG tanácsadó esetén tartalmazza
+
+- 1. a tanácsadó családi és utónevét, születési családi és utónevét, születési helyét, születési idejét, anyja nevét, állampolgárságát, elérhetőségét, szakképesítését,
+- 2. a tanácsadó nyilvántartási számát,
+- 3. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
+- 4. az akkreditált státusz hatálya kezdetének és lejártának időpontját,
+- 5. azt a tényt, hogy a természetes személy ESG tanácsadó
+  - a) akkreditált státusza érvényes,
+  - b) akkreditált státusza felfüggesztett, a felfüggesztés időtartamának megjelölésével,
+  - c) akkreditált státusza visszavonásra került, vagy
+  - d) akkreditált státusza megszűnt,
+- 6. az ESG Tanácsadó képesítés megszerzésének időpontját,
+- 7. a tanácsadó tanácsadói jogviszonya kezdetét,
+- 8. azon jogi személyek nevét és adószámát, amelyekkel a tanácsadó ESG adatszolgáltatásban nyújtott tanácsadási szolgáltatásra irányuló szerződéses jogviszonyban áll,
+- 9. az összeférhetetlenségi nyilatkozatot,
+- 10. a miniszter rendeletében meghatározott akkreditálási követelmények teljesülését alátámasztó dokumentumokat,
+- 11. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.”
+
+(2) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 41. §-a következő (2a) és (2b) bekezdéssel egészül ki:
+
+„(2a) Ha a természetes személy kérelmező az ESG tanácsadói tevékenységet munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében vagy személyesen közreműködő tagként kívánja folytatni, a névjegyzék tartalmazza ezt a tényt és – feltéve, hogy a jogviszony már fennáll – a természetes személy kérelmezőt munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztató személy nevét, adószámát vagy annak a betéti társaságnak, közkereseti társaságnak a nevét, adószámát is, amelynek a természetes személy kérelmező a személyesen közreműködő tagja.
+
+(2b) Ha a természetes személy kérelmező az ESG tanácsadói tevékenységet egyéni vállalkozói jogviszony keretében kívánja folytatni, a névjegyzék tartalmazza ezt a tényt és az egyéni vállalkozói nyilvántartási számot és az adószámot is.”
+
+(3) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 41. § (3) bekezdés 1. pontja helyébe a következő rendelkezés lép:
+
+(A névjegyzék jogi személy tanácsadó esetén tartalmazza)
+
+„1. a tanácsadó nevét, székhelyét és adószámát;”
+
+(4) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 41. § (3) bekezdés 7. pontja helyébe a következő rendelkezés lép:
+
+(A névjegyzék jogi személy tanácsadó esetén tartalmazza)
+
+„7. a miniszter rendeletében meghatározott akkreditálási követelmények teljesülését alátámasztó dokumentumokat;”
+
+(5) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 41. § (3) bekezdése a következő 8–10. ponttal egészül ki:
+
+(A névjegyzék jogi személy tanácsadó esetén tartalmazza)
+
+„8. azon – az ESG tanácsadók nyilvántartásában szereplő – természetes személy ESG tanácsadó családi és utónevét és nyilvántartási számát, aki
+
+a) a jogi személy ESG tanácsadóval legalább heti 30 órás munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, vagy
+
+b) a betéti társaság vagy a közkereseti társaság jogi személy ESG tanácsadó személyesen közreműködő tagja;
+
+9. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
+
+10. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.”
+
+227. § (1) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 43. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Nem vehető fel a névjegyzékbe az,
+
+- a) aki olyan személyt foglalkoztat munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban, aki a Hatósággal a különleges jogállású szervekről, és az általuk foglalkoztatottak jogállásáról szóló törvény által meghatározott jogviszonyban áll,
+- b) aki olyan személyt foglalkoztat munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban, aki a Hatósággal a különleges jogállású szervekről, és az általuk foglalkoztatottak jogállásáról szóló törvény által meghatározott jogviszonyban álló személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója,
+- c) akinek a tulajdonosa a Hatósággal a különleges jogállású szervekről, és az általuk foglalkoztatottak jogállásáról szóló törvény által meghatározott jogviszonyban álló személy,
+- d) akinek a vezető tisztségviselője vagy személyesen közreműködő tagja a Hatósággal a különleges jogállású szervekről, és az általuk foglalkoztatottak jogállásáról szóló törvény által meghatározott jogviszonyban áll.”
+
+(2) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 43. § (2) bekezdés 8. pontja helyébe a következő rendelkezés lép és a bekezdés a következő 9. ponttal egészül ki:
+
+(A névjegyzék tartalmazza)
+
+„8. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
+
+9. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.”
+
+228. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 20/A. alcíme a következő 43/B. §-sal egészül ki:
+
+„43/B. § (1) Ha az ESG tanácsadóként történő akkreditálást, vagy a 43. § (1) bekezdése szerinti névjegyzékbe történő felvételt kérelmező nem természetes személy ügyfél Magyarországon székhellyel nem rendelkezik, a kérelemben kézbesítési megbízottat kell megjelölni, feltüntetve a kézbesítési megbízott nevét, és lakcímét vagy székhelyét. A kézbesítési megbízott magyarországi székhellyel rendelkező szervezet vagy állandó lakóhellyel rendelkező természetes személy lehet. A kérelemhez mellékelni kell a kézbesítési megbízott megbízására és a megbízatás elfogadására vonatkozó teljes bizonyító erejű magánokiratot vagy közokiratot.
+
+(2) A kézbesítési megbízott feladata, hogy a Magyarországon székhellyel nem rendelkező kérelmező vagy ESG közreműködő (a továbbiakban: megbízó) nyilvántartásba vételével, illetve ESG közreműködői működésével összefüggésben keletkezett, a Hatóság által a megbízó részére kézbesítendő iratokat átvegye, és azokat a megbízó részére továbbítsa. A hatósági eljárás, illetve hatósági ellenőrzés során a kézbesítési megbízott az általános közigazgatási rendtartásról szóló törvény szerinti kézbesítési meghatalmazottnak minősül.
+
+(3) Az (1) bekezdés szerinti megbízás megszűnését követő 15 napon belül a kézbesítési megbízott a megbízás megszűnésének tényét bejelenti a Hatóságnak.
+
+(4) A (3) bekezdés szerinti tény bejelentésének elmulasztása esetén a Hatóság a kézbesítési megbízottal szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szabhat ki.
+
+(5) Ha a Hatóság tudomást szerez arról, hogy a kézbesítési megbízott nem fellelhető vagy a megbízása megszűnt, és az ESG közreműködő új kézbesítési megbízottat nem jelentett be a Hatóság részére, továbbá ezt a hiányosságot a Hatóság felhívásában foglalt határidőn belül nem orvosolja, a Hatóság
+
+- a) az ESG tanácsadó akkreditált státuszát visszavonja,
+- b) az ESG minősítőt törli a 43. § (1) bekezdése szerinti névjegyzékből.
+
+(6) A Hatóság az (5) bekezdés szerinti felhívását, illetve döntését hirdetményi úton közli. A hirdetményt 15 napig kell a Hatóság honlapján közzétenni.”
+
+229. § (1) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 52. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„f) határozza meg az ESG tanácsadókat oktató intézményként történő akkreditálás részletes eljárási szabályait, valamint az ESG tanácsadókat oktató intézmények nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat.”
+
+(2) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 52. § (2) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+
+(Felhatalmazást kap a miniszter, hogy rendeletben szabályozza)
+
+„c) az ESG tanácsadókat oktató intézményként történő akkreditálás követelményrendszerét, valamint az ESG tanácsadói képzés szabályait, továbbá a képzés és a vizsga díjának mértékére vonatkozó szabályokat;
+
+d) a felkészítő program nyújtásának részletszabályait.”
+
+(3) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 52. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Felhatalmazást kap a miniszter, hogy az ESG tanácsadóként történő akkreditálás és az akkreditált státusz megújítása követelményrendszerét rendeletben szabályozza.”
+
+(4) A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 52. § (5) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Hatóság elnöke, hogy rendeletben szabályozza)
+
+„f) a Tanúsítók Névjegyzéke, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők és az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat;”
+
+230. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 54. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az 1. § (1) bekezdés a) és b) pontja szerinti vállalkozás a fenntarthatósági célú átvilágítási kötelezettségekre vonatkozó rendelkezéseket az 54. § (1) bekezdésében meghatározott esetekben oly módon teljesíti, hogy az ESG platformra ESG beszámolót tölt fel, amelyet követően a 33–34. §-ban foglaltaktól eltérően nem tanúsítás, hanem egy előaudit történik és sem az ESG beszámoló, sem az előaudit eredménye nem nyilvános és nem kerül közzétételre.”
+
+231. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 56. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+
+232. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény
+
+- 1. 1. § (1) bekezdés a) pontjában a „megelőző üzleti” szövegrész helyébe „megelőző két üzleti” szöveg,
+- 2. 7. § 24. pontjában az „a kettős lényegesség elvét figyelembe véve” szövegrész helyébe az „a lényegesség elvét figyelembe véve” szöveg,
+- 3. 7. § 26.pont b) alpontjában az „a 50 millió eurót” szövegrész helyébe az „az 50 millió eurót” szöveg,
+- 4. 9. § (2) bekezdésében „A vállalkozásfejlesztési ügynökség az (1) bekezdés c) és d) pontjában meghatározott feladatait hatósági hatáskörben látja el” szövegrész helyébe „A vállalkozásfejlesztési ügynökség az (1) bekezdés c) és d) pontjában meghatározott feladatait hatósági hatáskörben látja el, ezen hatósági eljárások során a sommás eljárás alkalmazása kizárt” szöveg,
+- 5. 13. § f) pontjában az „a felmerülő kockázatok” szövegrész helyébe az „a felmerülő ESG kockázatok” szöveg,
+- 6. 27. § (2) bekezdésében az „elkészítésére” szövegrész helyébe az „elkészítésére vagy módosítására” szöveg,
+- 7. 35. § (5) bekezdésében az „Az ESG minősítő” szövegrész helyébe az „Az állami ESG minősítő” szöveg,
+- 8. 45. § a) pontjában a „jogsértést tapasztal” szövegrész helyébe az „az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban előírt kötelezettség megsértését tapasztalja” szöveg,
+- 9. 52. § (1) bekezdés c) pontjában az „az ESG minősítőt” szövegrész helyébe az „az állami ESG minősítőt” szöveg,
+- 10. 52. § (1) bekezdés d) pontjában az „az ESG minősítő” szövegrész helyébe az „az állami ESG minősítő” szöveg
+
+lép.
+
+233. § Hatályát veszti a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény
+
+- 1. 1. § (2) bekezdése,
+- 2. 1. § (3) bekezdésben az „és (2)” szövegrész,
+- 3. 15. alcíme,
+- 4. 52. § (2) bekezdés e) pontja.
 
 #### 62. Az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi IX. törvény egyes rendelkezéseinek hatályba nem lépése
 
