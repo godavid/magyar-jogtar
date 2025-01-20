@@ -970,7 +970,7 @@ csak írásban terjeszthető elő.
 - a) a kivitelező kétséget kizáróan bizonyítja, hogy a jogellenes létesítésért való felelősség nem őt terheli, vagy
 - b) a kivitelező személye nem ismert.
 
-(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltetett felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezési eljárást 2023. december 31-ig kérelmezi vagy ha a vízjogi fennmaradási engedélyezési eljárást e törvény rendelkezései alapján nem kell lefolytatni.
+(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltetett felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezési eljárást e törvény rendelkezései alapján nem kell lefolytatni.
 
 (8) Nem szabható ki vízgazdálkodási bírság
 
@@ -1006,6 +1006,8 @@ indokolja.
 - b) a felszín alatti vízkivételt biztosító vízilétesítmények engedélyezési eljárása.
 
 31/A. § A vízügyi igazgatási szerveknek – a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetniük.
+
+31/B. § A víziközmű-szolgáltató esetében, ha az engedélyezési eljárás a víziközmű-szolgáltató kérelmére, a tevékenységével összefüggésben kezdeményezett eljárás lefolytatására irányul, az eljárás díja a vízügyi és vízvédelmi hatósági eljárások igazgatási szolgáltatási díjainak megállapítására vonatkozó rendeletben meghatározott díjtétel 70%-a.
 
 32. § Ha a vizek mennyiségi védelme, a vizek kártételeinek elhárítása, a károk megelőzése vagy a jogszerűen gyakorolt vízhasználat azt egyébként szükségessé teszi, a vízügyi hatóság a vízhasználót, vagy azt, aki a vízviszonyokba jogellenesen beavatkozott, a káros, illetve a károsodás veszélyével fenyegető állapot megszüntetésére, a szükséges vízimunka elvégzésére vagy meghatározott módon történő gyakorlására kötelezheti.
 
@@ -1449,7 +1451,7 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 - j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 - k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
 - l) a vízkészletjárulék kiszámításának, a 15/C. § (1a) bekezdésére alapított kedvezményeknél a mérlegelési szempontoknak, a számításnál alkalmazott szorzószámoknak és a befizetés rendjének;
-- m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, a vízügyi igazgatási szervek díjfizetési mentességével érintett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
+- m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, az igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért, valamint a közigazgatás-szervezésért felelős miniszterrel egyetértésben;
 - n)
 - o)
 - p) a távlati vízbázisok megnevezésének, valamint az egyes távlati vízbázisokkal érintett települések jegyzékének
@@ -1586,6 +1588,8 @@ létesített háztartási kútra.
 (4) A hatósági hatáskör telepítésének napján folyamatban lévő szakhatósági eljárásban szakhatósági állásfoglalás kiadására nem kerül sor azokban az ügyekben, amelyekben a hatóságként eljáró kormányzati igazgatási szerv veszi át a volt szakhatósági hatáskört. Ezekben az esetekben a szakkérdést az eljáró hatóság saját eljárásban vizsgálja.
 
 (5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú hatósági eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.
+
+(6) E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 31/B. §-át a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 ### 1. számú melléklet az 1995. évi LVII. törvényhez
 

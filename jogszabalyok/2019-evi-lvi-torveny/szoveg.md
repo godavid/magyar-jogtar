@@ -73,6 +73,8 @@ az állattenyésztés szabályozásához szükséges törvényi szintű rendelke
 
 (3) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a természetes személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
 
+8/A. § A tenyésztési hatóságnál kérelemre induló eljárásokért, valamint igazgatási jellegű szolgáltatásokért igazgatási szolgáltatási díjat kell fizetni.
+
 9. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) jelölje ki a tenyésztési hatóságot;
@@ -93,6 +95,8 @@ az állattenyésztés szabályozásához szükséges törvényi szintű rendelke
 - c) állapítsa meg a törzskönyv vezetésének és a származási igazolás kiállításának részletes szabályait;
 - d) állapítsa meg a művi szaporító létesítményekre és a spermatároló központokra vonatkozó részletes szabályokat;
 - e) állapítsa meg a tenyészállat és a szaporítóanyag behozatalának és kivitelének, valamint forgalmazásának részletes szabályait.
+
+(3) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésének és felhasználásának részletes szabályait, valamint az igazgatási szolgáltatási díjak mértékét.
 
 10. § (1) Ez a törvény 2019. augusztus 1-jén lép hatályba.
 

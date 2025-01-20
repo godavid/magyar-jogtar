@@ -1117,246 +1117,249 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. számú melléklet a 2005. évi XCV. törvényhez
 
-|  |  |  |  |  |  |  |  |  |  | Összeg |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| I. | Nem hasonszenvi (allopátiás) készítmények |  |  |  |  |  |  |  |  |  |
-| I.A. |  | Minden allopátiás készítmény kivéve az allergéneket |  |  |  |  |  |  |  |  |
-| I.A.1. |  |  | Új forgalombahozatali engedély |  |  |  |  |  |  |  |
-| I.A.1.1. |  |  |  | Nemzeti eljárásban |  |  |  |  |  |  |
-| I.A.1.1.a. |  |  |  |  |  | Originális, vagy originális családbővítés |  |  |  | 1 350 000 |
-| I.A.1.1.b. |  |  |  |  |  | Generikus, vagy generikus családbővítése |  |  |  | 675 000 |
-| I.A.1.1.c. |  |  |  |  |  | Egyéb, vagy egyéb családbővítés |  |  |  | 675 000 |
-| I.A.1.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
-| I.A.1.2.a. |  |  |  |  |  | Originális, vagy originális családbővítés |  |  |  |  |
-| I.A.1.2.a.1. |  |  |  |  |  |  | RMS |  |  | 3 150 000 |
-| I.A.1.2.a.2. |  |  |  |  |  |  | CMS |  |  | 2 250 000 |
-| I.A.1.2.b. |  |  |  |  |  | Generikus, vagy generikus családbővítése |  |  |  |  |
-| I.A.1.2.b.1. |  |  |  |  |  |  | RMS |  |  | 1 575 000 |
-| I.A.1.2.b.2. |  |  |  |  |  |  | CMS |  |  | 1 175 000 |
-| I.A.1.2.c. |  |  |  |  |  | Egyéb, vagy egyéb családbővítés |  |  |  |  |
-| I.A.1.2.c.1. |  |  |  |  |  |  | RMS |  |  | 1 575 000 |
-| I.A.1.2.c.2. |  |  |  |  |  |  | CMS |  |  | 1 175 000 |
-| I.A.2. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |  |
-| I.A.2.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
-| I.A.2.1.a. |  |  |  |  |  | Type IA-IB |  |  |  | 234 000 |
-| I.A.2.1.b. |  |  |  |  |  | Type II |  |  |  | 351 000 |
-| I.A.2.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
-| I.A.2.2.a. |  |  |  |  |  | Type IA-IB |  |  |  |  |
-| I.A.2.2.a.1. |  |  |  |  |  |  | RMS |  |  | 325 000 |
-| I.A.2.2.a.2. |  |  |  |  |  |  | CMS |  |  | 234 000 |
-| I.A.2.2.b. |  |  |  |  |  | Type II |  |  |  |  |
-| I.A.2.2.b.1. |  |  |  |  |  |  | RMS |  |  | 455 000 |
-| I.A.2.2.b.2. |  |  |  |  |  |  | CMS |  |  | 351 000 |
-| I.A.2.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  |  | 26 000 |
-| I.A.2.3.a. |  |  |  |  |  | Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  |  | 130 000 |
-| I.A.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  |  | 26 000 |
-| I.A.2.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  |  | 234 000 |
-| I.A.2.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  |  | 130 000 |
-| I.A.2.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  |  | 130 000 |
-| I.A.2.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  |  | 351 000 |
-| I.A.3. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |  |
-| I.A.3.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
-| I.A.3.1.a. |  |  |  |  |  | Originális |  |  |  | 675 000 |
-| I.A.3.1.b. |  |  |  |  |  | Generikus |  |  |  | 325 000 |
-| I.A.3.1.c. |  |  |  |  |  | Egyéb |  |  |  | 325 000 |
-| I.A.3.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
-| I.A.3.2.a. |  |  |  |  |  | Originális |  |  |  |  |
-| I.A.3.2.a.1. |  |  |  |  |  |  | RMS |  |  | 1 575 000 |
-| I.A.3.2.a.2. |  |  |  |  |  |  | CMS |  |  | 1 125 000 |
-| I.A.3.2.b. |  |  |  |  |  | Generikus |  |  |  |  |
-| I.A.3.2.b.1. |  |  |  |  |  |  | RMS |  |  | 775 000 |
-| I.A.3.2.b.2. |  |  |  |  |  |  | CMS |  |  | 550 000 |
-| I.A.3.2.c. |  |  |  |  |  | Egyéb |  |  |  |  |
-| I.A.3.2.c.1. |  |  |  |  |  |  | RMS |  |  | 775 000 |
-| I.A.3.2.c.2. |  |  |  |  |  |  | CMS |  |  | 550 000 |
-| I.A.4. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  |  | 67 500 |
-| I.A.5. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |  | 270 000 |
-| I.B |  | Allergének |  |  |  |  |  |  |  |  |
-| I.B.1. |  |  | Új forgalombahozatali engedély |  |  |  |  |  |  |  |
-| I.B.1.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
-| I.B.1.1.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  | 45 000 |
-| I.B.1.1.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  |  | 315 000 |
-| I.B.1.1.c. |  |  |  |  |  | Egyéb |  |  |  | 315 000 |
-| I.B.1.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
-| I.B.1.2.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  |  |
-| I.B.1.2.a.1. |  |  |  |  |  |  | RMS |  |  | 245 000 |
-| I.B.1.2.a.2. |  |  |  |  |  |  | CMS |  |  | 90 000 |
-| I.B.1.2.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  |  |  |
-| I.B.1.2.b.1. |  |  |  |  |  |  | RMS |  |  | 1 215 000 |
-| I.B.1.2.b.2. |  |  |  |  |  |  | CMS |  |  | 565 000 |
-| I.B.1.2.c. |  |  |  |  |  | Egyéb |  |  |  |  |
-| I.B.1.2.c.1. |  |  |  |  |  |  | RMS |  |  | 1 215 000 |
-| I.B.1.2.c.2. |  |  |  |  |  |  | CMS |  |  | 565 000 |
-| I.B.2. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |  |
-| I.B.2.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
-| I.B.2.1.a. |  |  |  |  |  | Type IA-IB |  |  |  |  |
-| I.B.2.1.a.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  | 11 700 |
-| I.B.2.1.a.2. |  |  |  |  |  |  | Kevert allergének (több komponens) |  |  | 58 500 |
-| I.B.2.1.a.3. |  |  |  |  |  |  | Egyéb |  |  | 58 500 |
-| I.B.2.1.b. |  |  |  |  |  | Type II |  |  |  |  |
-| I.B.2.1.b.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  | 26 000 |
-| I.B.2.1.b.2. |  |  |  |  |  |  | Kevert allergének (több komponens) |  |  | 130 000 |
-| I.B.2.1.b.3. |  |  |  |  |  |  | Egyéb |  |  | 130 000 |
-| I.B.2.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
-| I.B.2.2.a. |  |  |  |  |  | Type IA-IB |  |  |  |  |
-| I.B.2.2.a.1. |  |  |  |  |  |  | RMS |  |  |  |
-| I.B.2.2.a.1.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 11 700 |
-| I.B.2.2.a.1.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 58 500 |
-| I.B.2.2.a.1.3. |  |  |  |  |  |  |  | Egyéb |  | 58 500 |
-| I.B.2.2.a.2. |  |  |  |  |  |  | CMS |  |  |  |
-| I.B.2.2.a.2.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 11 700 |
-| I.B.2.2.a.2.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 58 500 |
-| I.B.2.2.a.2.3. |  |  |  |  |  |  |  | Egyéb |  | 58 500 |
-| I.B.2.2.b. |  |  |  |  |  | Type II |  |  |  |  |
-| I.B.2.2.b.1. |  |  |  |  |  |  | RMS |  |  |  |
-| I.B.2.2.b.1.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 39 000 |
-| I.B.2.2.b.1.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 260 000 |
-| I.B.2.2.b.1.3. |  |  |  |  |  |  |  | Egyéb |  | 260 000 |
-| I.B.2.2.b.2. |  |  |  |  |  |  | CMS |  |  |  |
-| I.B.2.2.b.2.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 26 000 |
-| I.B.2.2.b.2.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 130 000 |
-| I.B.2.2.b.2.3. |  |  |  |  |  |  |  | Egyéb |  | 130 000 |
-| I.B.2.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  |  | 26 000 |
-| I.B.2.3.a. |  |  |  |  |  | Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  |  | 130 000 |
-| I.B.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  |  | 26 000 |
-| I.B.2.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  |  | 234 000 |
-| I.B.2.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  |  | 130 000 |
-| I.B.2.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  |  | 130 000 |
-| I.B.2.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  |  | 351 000 |
-| I.B.3. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |  |
-| I.B.3.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
-| I.B.3.1.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  | 45 000 |
-| I.B.3.1.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  |  | 180 000 |
-| I.B.3.1.c. |  |  |  |  |  | Egyéb |  |  |  | 180 000 |
-| I.B.3.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
-| I.B.3.2.a. |  |  |  |  |  |  | RMS |  |  |  |
-| I.B.3.2.a.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 145 000 |
-| I.B.3.2.a.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 765 000 |
-| I.B.3.2.a.3. |  |  |  |  |  |  |  | Egyéb |  | 765 000 |
-| I.B.3.2.b. |  |  |  |  |  |  | CMS |  |  |  |
-| I.B.3.2.b.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 90 000 |
-| I.B.3.2.b.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 615 000 |
-| I.B.3.2.b.3. |  |  |  |  |  |  |  | Egyéb |  | 615 000 |
-| I.B.4. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  |  | 9 000 |
-| I.B.5. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |  |  |
-| I.B.5.1. |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  |  |  | 90 000 |
-| I.B.5.2. |  |  |  | Kevert allergének (több komponens) |  |  |  |  |  | 135 000 |
-| I.B.5.3. |  |  |  | Egyéb |  |  |  |  |  | 135 000 |
-| II. | Hasonszenvi (homeopátiás) készítmények |  |  |  |  |  |  |  |  |  |
-| II.A. |  |  | Új engedélyezések |  |  |  |  |  |  |  |
-| II.A.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |  |
-| II.A.1.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  |  | 67 500 |
-| II.A.1.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  |  | 270 000 |
-| II.A.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |  |
-| II.A.2.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  |  | 135 000 |
-| II.A.2.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  |  | 540 000 |
-| II.A.3. |  |  |  |  |  | Egyéb |  |  |  | 540 000 |
-| II.B. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |  |
-| II.B.1. |  |  |  | Type IA-IB |  |  |  |  |  |  |
-| II.B.1.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |  |
-| II.B.1.1.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  |  | 11 700 |
-| II.B.1.1.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  |  | 11 700 |
-| II.B.1.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |  |
-| II.B.1.2.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  |  | 117 000 |
-| II.B.1.2.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  |  | 117 000 |
-| II.B.1.3. |  |  |  |  |  | Egyéb |  |  |  | 117 000 |
-| II.B.2. |  |  |  | Type II |  |  |  |  |  |  |
-| II.B.2.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |  |
-| II.B.2.1.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  |  | 23 400 |
-| II.B.2.1.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  |  | 23 400 |
-| II.B.2.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |  |
-| II.B.2.2.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  |  | 234 000 |
-| II.B.2.2.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  |  | 234 000 |
-| II.B.2.3. |  |  |  |  |  | Egyéb |  |  |  | 234 000 |
-| II.B.2.3.a. |  |  |  |  |  | 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  |  | 130 000 |
-| II.B.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  |  | 26 000 |
-| II.B.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  |  | 26 000 |
-| II.B.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  |  | 234 000 |
-| II.B.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  |  | 130 000 |
-| II.B.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  |  | 130 000 |
-| II.B.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  |  | 351 000 |
-| II.C. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |  |
-| II.C.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |  |
-| II.C.1.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  |  | 45 000 |
-| II.C.1.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  |  | 180 000 |
-| II.C.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |  |
-| II.C.2.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  |  | 90 000 |
-| II.C.2.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  |  | 350 000 |
-| II.C.3. |  |  |  |  |  | Egyéb |  |  |  | 350 000 |
-| II.D. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |  |  |
-| II.D.1. |  |  |  | Egykomponensű gyógyszer |  |  |  |  |  | 90 000 |
-| II.D.2. |  |  |  | Többkomponensű gyógyszer |  |  |  |  |  | 135 000 |
-| II.E. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  |  | 27 000 |
-| III. | Egyéb eljárások |  |  |  |  |  |  |  |  |  |
-| III.A. | Párhuzamos Importengedély kiadása |  |  |  |  |  |  |  |  | 500 000 |
-| III.B. | Párhuzamos Importengedély módosítása |  |  |  |  |  |  |  |  |  |
-| III.B.1. |  | Type IA-IB |  |  |  |  |  |  |  | 234 000 |
-| III.B.2. |  | Type II |  |  |  |  |  |  |  | 234 000 |
-| III.C. | Párhuzamos Importengedély megújítása újabb öt évre |  |  |  |  |  |  |  |  | 250 000 |
-| III.D. | Párhuzamos Importengedély fenntartása |  |  |  |  |  |  |  |  | 234 000 |
-| III.E. | Egyes gyártási tételek felhasználhatóságának meghosszabbítása |  |  |  |  |  |  |  |  | 27 000 |
-| III.F. | A forgalombahozatali engedélytől való eltérés engedélyezése egyes gyártási tételek esetén |  |  |  |  |  |  |  |  | 27 000 |
-| III.G. | Vizsgálati gyógyszerrel végzendő klinikai vizsgálat az emberi felhasználásra kerülő vizsgálati gyógyszerek a nem kereskedelmi vizsgálat kivételével |  |  |  |  |  |  |  |  |  |
-| III.G.1. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot csak Magyarországon tervezik folytatni |  |  |  |  |  |  |  | 580 000 |
-| III.G.2. |  | Kismértékű beavatkozással járó klinikai vizsgálat engedélyezése |  |  |  |  |  |  |  | 580 000 |
-| III.G.3. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot több tagállamban tervezik folytatni |  |  |  |  |  |  |  | 750 000 |
-| III.G.4. |  | A III.G.1. és a III.G.2. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés I. részére vonatkozó szakasza |  |  |  |  |  |  |  | 435 000 |
-| III.G.5. |  | A III.G.1. és a III.G.2. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés II. részére vonatkozó szakasza |  |  |  |  |  |  |  | 145 000 |
-| III.G.6. |  | A III.G.3. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés I. részére vonatkozó szakasza |  |  |  |  |  |  |  | 562 500 |
-| III.G.7. |  | A III.G.3. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés II. részére vonatkozó szakasza |  |  |  |  |  |  |  | 187 500 |
-| III.G.8. |  | A III.G.2., III.G.3., a III.G.4. és a III.G.6. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam |  |  |  |  |  |  |  | 500 000 |
-| III.G.9. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. részében szereplő szempont tekintetében |  |  |  |  |  |  |  | 110 000 |
-| III.G.10. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés II. részében szereplő szempont tekintetében |  |  |  |  |  |  |  | 110 000 |
-| III.G.11. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. és II. részében szereplő szempont tekintetében |  |  |  |  |  |  |  | 220 000 |
-| III.G.12. |  | A III.G.9. és a III.G.11. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam |  |  |  |  |  |  |  | 90 000 |
-| III.G.13. |  | Érintett tagállam utólagos bevonására irányuló eljárás, ha Magyarország a jelentéskészítő tagállam |  |  |  |  |  |  |  | 200 000 |
-| III.G.14. |  | Az 536/2014/EU parlamenti és tanácsi rendelet 44. cikke szerinti tagállami együttműködésben végzett értékelési eljárás díja, ha Magyarország a biztonsági értékelést végző tagállam |  |  |  |  |  |  |  | 500 000 |
-| III.H. | Gyógyszergyártási engedély |  |  |  |  |  |  |  |  |  |
-| III.H.1. |  | Helyszíni ellenőrzése (telephelyenként) |  |  |  |  |  |  |  | 450 000 |
-| III.H.2. |  | Gyógyszergyártási engedély kiadása |  |  |  |  |  |  |  | 225 000 |
-| III.H.3. |  | Gyógyszergyártási engedély módosítása |  |  |  |  |  |  |  | 90 000 |
-| III.I. | Gyógyszer-nagykereskedelmi engedély |  |  |  |  |  |  |  |  |  |
-| III.I.1. |  | Helyszíni ellenőrzése (telephelyenként) |  |  |  |  |  |  |  | 360 000 |
-| III.I.2 |  | Gyógyszer-nagykereskedelmi engedély kiadása |  |  |  |  |  |  |  | 90 000 |
-| III.I.3. |  | Gyógyszer-nagykereskedelmi engedély módosítása |  |  |  |  |  |  |  | 90 000 |
-| III.I.4. | Gyógyszer-közvetítői tevékenység regisztrációja |  |  |  |  |  |  |  |  | 90 000 |
-| III.I.5. | Gyógyszer-közvetítői tevékenység regisztrációjának módosítása |  |  |  |  |  |  |  |  | 9 000 |
-| III.J. | Vizsgálati gyógyszerek biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylatkiadás |  |  |  |  |  |  |  |  | 382 500 |
-| III.K. | Magyarországon forgalombahozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylatkiadása, készítményenként és bizonylatonként |  |  |  |  |  |  |  |  | 22 500 |
-| III.L. |  |  |  |  |  |  |  |  |  |  |
-| III.M. | Gyógyszerkészítménnyé történő átminősítés |  |  |  |  |  |  |  |  | 405 000 |
-| III.N. | Géntechnológiai engedély |  |  |  |  |  |  |  |  |  |
-| III.N.1. | Természetes szervezetek géntechnológiával való módosításának engedélyezése: géntechnológiai módosításonként |  |  |  |  |  |  |  |  | 70 000 |
-| III.N.2. | Géntechnológiai módosításokat végző létesítmény létesítése: létesítményenként |  |  |  |  |  |  |  |  | 260 000 |
-| III.N.3. | A géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben történő felhasználása: géntechnológiai módosításonként |  |  |  |  |  |  |  |  | 135 000 |
-| III.N.4. | A géntechnológiával módosított szervezetek és az azokból előállított termékeknek a környezetbe való kibocsátása: géntechnológiai módosításonként és kibocsátási helyenként |  |  |  |  |  |  |  |  | 300 000 |
-| III.N.5. | A géntechnológiával módosított szervezetek és az azokból előállított termékek forgalombahozatala: géntechnológiai módosításonként |  |  |  |  |  |  |  |  | 250 000 |
-| III.N.6. | A géntechnológiával módosított szervezetek és az azokból előállított termékek kivitele és behozatala: kérelmenként |  |  |  |  |  |  |  |  | 180 000 |
-| III.N.7. | A géntechnológiával módosított szervezetek és az azokból előállított termékek szállítása: kérelmenként |  |  |  |  |  |  |  |  | 70 000 |
-| III.O. | Vizsgálóhely I. fázisú klinikai farmakológiai vizsgálóhellyé történő minősítése |  |  |  |  |  |  |  |  | 450 000 |
-| III.P. | Gyógyszernek nem minősülő gyógyhatású készítmény |  |  |  |  |  |  |  |  |  |
-| III.P.1. | A forgalombahozatali engedély módosítása |  |  |  |  |  |  |  |  | 90 000 |
-| III.P.2. | A forgalombahozatali engedély meghosszabbítása |  |  |  |  |  |  |  |  | 90 000 |
-| III.Q. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja |  |  |  |  |  |  |  |  |  |
-| III.Q.1. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára |  |  |  |  |  |  |  |  | 90 000 |
-| III.Q.2. | Gyógyszerhatóanyag-gyártási tevékenység nyilvántartásba vétele 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |  |
-| III.Q.2.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  |  | 225 000 |
-| III.Q.2.2. | Gyártott hatóanyagonként és telephelyenként |  |  |  |  |  |  |  |  | 90 000 |
-| III.Q.3. | Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |  |
-| III.Q.3.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  |  | 225 000 |
-| III.Q.3.2. | Importált hatóanyagonként és telephelyenként |  |  |  |  |  |  |  |  | 90 000 |
-| III.Q.4. | Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |  |
-| III.Q.4.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  |  | 225 000 |
-| III.Q.4.2. | Forgalmazott hatóanyagonként és telephelyenként |  |  |  |  |  |  |  |  | 90 000 |
-| III.Q.5 | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció új hatóanyaggal, hatóanyagonként és telephelyenként |  |  |  |  |  |  |  |  | 90 000 |
-| III.Q.6. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként |  |  |  |  |  |  |  |  | 15 000 |
-| III.R. | Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP- megfelelőség igazolása céljából (telephelyenként) |  |  |  |  |  |  |  |  | 450 000 |
-| III.S. | Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről, illetve a belföldi forgalombahozatal céljára behozni kívánt gyógyszer engedélyéről |  |  |  |  |  |  |  |  | 22 500 |
-| III.T. | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése, első készítmény (első hatáserősség, első gyógyszerforma) |  |  |  |  |  |  |  |  | 750 000 |
-| III. U | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése további készítményenként (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 600 000 |
-| III.V. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének módosítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 200 000 |
-| III.W. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének megújítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 200 000 |
-| III. X. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének éves fenntartása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 200 000 |
-| III.Y. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének visszavonása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 30 000 |
+|  |  |  |  |  |  |  |  | Összeg |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I. | Nem hasonszenvi (allopátiás) készítmények |  |  |  |  |  |  |  |
+| I.A. |  | Minden allopátiás készítmény kivéve az allergéneket |  |  |  |  |  |  |
+| I.A.1. |  |  | Új forgalombahozatali engedély |  |  |  |  |  |
+| I.A.1.1. |  |  |  | Nemzeti eljárásban |  |  |  |  |
+| I.A.1.1.a. |  |  |  |  | Originális, vagy originális családbővítés |  |  | 1 822 500 forint |
+| I.A.1.1.b. |  |  |  |  | Generikus, vagy generikus családbővítése |  |  | 911 250 forint |
+| I.A.1.1.c. |  |  |  |  | Egyéb, vagy egyéb családbővítés |  |  | 911 250 forint |
+| I.A.1.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |
+| I.A.1.2.a. |  |  |  |  | Originális, vagy originális családbővítés |  |  |  |
+| I.A.1.2.a.1. |  |  |  |  |  | RMS |  | 4 252 500 forint |
+| I.A.1.2.a.2. |  |  |  |  |  | CMS |  | 3 037 500 forint |
+| I.A.1.2.b. |  |  |  |  | Generikus, vagy generikus családbővítése |  |  |  |
+| I.A.1.2.b.1. |  |  |  |  |  | RMS |  | 2 126 250 forint |
+| I.A.1.2.b.2. |  |  |  |  |  | CMS |  | 1 586 250 forint |
+| I.A.1.2.c. |  |  |  |  | Egyéb, vagy egyéb családbővítés |  |  |  |
+| I.A.1.2.c.1. |  |  |  |  |  | RMS |  | 2 126 250 forint |
+| I.A.1.2.c.2. |  |  |  |  |  | CMS |  | 1 586 250 forint |
+| I.A.2. |  |  | Forgalomba-hozatali engedély módosítása |  |  |  |  |  |
+| I.A.2.1. |  |  |  | Nemzeti |  |  |  |  |
+| I.A.2.1.a. |  |  |  |  | Type IA-IB |  |  | 315 900 forint |
+| I.A.2.1.b. |  |  |  |  | Type II |  |  | 473 850 forint |
+| I.A.2.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |
+| I.A.2.2.a. |  |  |  |  | Type IA-IB |  |  |  |
+| I.A.2.2.a.1. |  |  |  |  |  | RMS |  | 438 750 forint |
+| I.A.2.2.a.2. |  |  |  |  |  | CMS |  | 315 900 forint |
+| I.A.2.2.b. |  |  |  |  | Type II |  |  |  |
+| I.A.2.2.b.1. |  |  |  |  |  | RMS |  | 614 250 forint |
+| I.A.2.2.b.2. |  |  |  |  |  | CMS |  | 473 850 forint |
+| I.A.2.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  | 35 100 forint |
+| I.A.2.3.a. |  |  |  |  | Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  | 175 500 forint |
+| I.A.2.3.b. |  |  |  |  | Egyéb beadványok |  |  | 35 100 forint |
+| I.A.2.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  | 315 900 forint |
+| I.A.2.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása / törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  | 175 500 forint |
+| I.A.2.6. |  |  |  | Globál számozásra történő változtatás |  |  |  | 175 500 forint |
+| I.A.2.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  | 473 850 forint |
+| I.A.3. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |
+| I.A.3.1. |  |  |  | Nemzeti |  |  |  |  |
+| I.A.3.1.a. |  |  |  |  | Originális |  |  | 911 250 forint |
+| I.A.3.1.b. |  |  |  |  | Generikus |  |  | 438 750 forint |
+| I.A.3.1.c. |  |  |  |  | Egyéb |  |  | 438 750 forint |
+| I.A.3.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |
+| I.A.3.2.a. |  |  |  |  | Originális |  |  |  |
+| I.A.3.2.a.1. |  |  |  |  |  | RMS |  | 2 126 250 forint |
+| I.A.3.2.a.2. |  |  |  |  |  | CMS |  | 1 518 750 forint |
+| I.A.3.2.b. |  |  |  |  | Generikus |  |  |  |
+| I.A.3.2.b.1. |  |  |  |  |  | RMS |  | 1 046 250 forint |
+| I.A.3.2.b.2. |  |  |  |  |  | CMS |  | 742 500 forint |
+| I.A.3.2.c. |  |  |  |  | Egyéb |  |  |  |
+| I.A.3.2.c.1. |  |  |  |  |  | RMS |  | 1 046 250 forint |
+| I.A.3.2.c.2. |  |  |  |  |  | CMS |  | 742 500 forint |
+| I.A.4. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  | 91 125 forint |
+| I.A.5. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  | 364 500 forint |
+| I.B. |  | Allergének |  |  |  |  |  |  |
+| I.B.1. |  |  | Új forgalombahozatali engedély |  |  |  |  |  |
+| I.B.1.1. |  |  |  | Nemzeti |  |  |  |  |
+| I.B.1.1.a. |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  | 60 750 forint |
+| I.B.1.1.b. |  |  |  |  | Kevert allergének (több komponens) |  |  | 425 250 forint |
+| I.B.1.1.c. |  |  |  |  | Egyéb |  |  | 425 250 forint |
+| I.B.1.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |
+| I.B.1.2.a. |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  |
+| I.B.1.2.a.1. |  |  |  |  |  | RMS |  | 330 750 forint |
+| I.B.1.2.a.2. |  |  |  |  |  | CMS |  | 121 500 forint |
+| I.B.1.2.b. |  |  |  |  | Kevert allergének (több komponens) |  |  |  |
+| I.B.1.2.b.1. |  |  |  |  |  | RMS |  | 1 640 250 forint |
+| I.B.1.2.b.2. |  |  |  |  |  | CMS |  | 762 750 forint |
+| I.B.1.2.c. |  |  |  |  | Egyéb |  |  |  |
+| I.B.1.2.c.1. |  |  |  |  |  | RMS |  | 1 640 250 forint |
+| I.B.1.2.c.2. |  |  |  |  |  | CMS |  | 762 750 forint |
+| I.B.2. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |
+| I.B.2.1. |  |  |  | Nemzeti |  |  |  |  |
+| I.B.2.1.a. |  |  |  |  | Type IA-IB |  |  |  |
+| I.B.2.1.a.1. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 15 795 forint |
+| I.B.2.1.a.2. |  |  |  |  |  | Kevert allergének (több komponens) |  | 78 975 forint |
+| I.B.2.1.a.3. |  |  |  |  |  | Egyéb |  | 78 975 forint |
+| I.B.2.1.b. |  |  |  |  | Type II |  |  |  |
+| I.B.2.1.b.1. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 35 100 forint |
+| I.B.2.1.b.2. |  |  |  |  |  | Kevert allergének (több komponens) |  | 175 500 forint |
+| I.B.2.1.b.3. |  |  |  |  |  | Egyéb |  | 175 500 forint |
+| I.B.2.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |
+| I.B.2.2.a. |  |  |  |  | Type IA-IB |  |  |  |
+| I.B.2.2.a.1. |  |  |  |  |  | RMS |  |  |
+| I.B.2.2.a.1.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 15 795 forint |
+| I.B.2.2.a.1.2. |  |  |  |  |  |  | Kevert allergének (több komponens) | 78 975 forint |
+| I.B.2.2.a.1.3. |  |  |  |  |  |  | Egyéb | 78 975 forint |
+| I.B.2.2.a.2. |  |  |  |  |  | CMS |  |  |
+| I.B.2.2.a.2.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 15 795 forint |
+| I.B.2.2.a.2.2. |  |  |  |  |  |  | Kevert allergének (több komponens) | 78 975 forint |
+| I.B.2.2.a.2.3. |  |  |  |  |  |  | Egyéb | 78 975 forint |
+| I.B.2.2.b. |  |  |  |  | Type II |  |  |  |
+| I.B.2.2.b.1. |  |  |  |  |  | RMS |  |  |
+| I.B.2.2.b.1.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 52 650 forint |
+| I.B.2.2.b.1.2. |  |  |  |  |  |  | Kevert allergének (több komponens) | 351 000 forint |
+| I.B.2.2.b.1.3. |  |  |  |  |  |  | Egyéb | 351 000 forint |
+| I.B.2.2.b.2. |  |  |  |  |  | CMS |  |  |
+| I.B.2.2.b.2.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 35 100 forint |
+| I.B.2.2.b.2.2. |  |  |  |  |  |  | Kevert allergének (több komponens) | 175 500 forint |
+| I.B.2.2.b.2.3. |  |  |  |  |  |  | Egyéb | 175 500 forint |
+| I.B.2.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény 10. § (2) bek.] |  |  |  | 35 100 forint |
+| I.B.2.3.a. |  |  |  |  | Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  | 175 500 forint |
+| I.B.2.3.b. |  |  |  |  | Egyéb beadványok |  |  | 35 100 forint |
+| I.B.2.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  | 315 900 forint |
+| I.B.2.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása / törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  | 175 500 forint |
+| I.B.2.6. |  |  |  | Globál számozásra történő változtatás |  |  |  | 175 500 forint |
+| I.B.2.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  | 473 850 forint |
+| I.B.3. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |
+| I.B.3.1. |  |  |  | Nemzeti |  |  |  |  |
+| I.B.3.1.a. |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  | 60 750 forint |
+| I.B.3.1.b. |  |  |  |  | Kevert allergének (több komponens) |  |  | 243 000 forint |
+| I.B.3.1.c. |  |  |  |  | Egyéb |  |  | 243 000 forint |
+| I.B.3.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |
+| I.B.3.2.a. |  |  |  |  |  | RMS |  |  |
+| I.B.3.2.a.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 195 750 forint |
+| I.B.3.2.a.2. |  |  |  |  |  |  | Kevert allergének (több komponens) | 1 032 750 forint |
+| I.B.3.2.a.3. |  |  |  |  |  |  | Egyéb | 1 032 750 forint |
+| I.B.3.2.b. |  |  |  |  |  | CMS |  |  |
+| I.B.3.2.b.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 121 500 forint |
+| I.B.3.2.b.2. |  |  |  |  |  |  | Kevert allergének (több komponens) | 830 250 forint |
+| I.B.3.2.b.3. |  |  |  |  |  |  | Egyéb | 830 250 forint |
+| I.B.4. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  | 12 150 forint |
+| I.B.5. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |
+| I.B.5.1. |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  | 121 500 forint |
+| I.B.5.2. |  |  |  | Kevert allergének (több komponens) |  |  |  | 182 250 forint |
+| I.B.5.3. |  |  |  | Egyéb |  |  |  | 182 250 forint |
+| II. | Hasonszenvi (homeopátiás) készítmények |  |  |  |  |  |  |  |
+| II.A. |  |  | Új engedélyezések |  |  |  |  |  |
+| II.A.1. |  |  |  |  | Egykomponensű gyógyszer |  |  |  |
+| II.A.1.1. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  | 91 125 forint |
+| II.A.1.2. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  | 364 500 forint |
+| II.A.2. |  |  |  |  | Többkomponensű gyógyszer |  |  |  |
+| II.A.2.1. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  | 182 250 forint |
+| II.A.2.2. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  | 729 000 forint |
+| II.A.3. |  |  |  |  | Egyéb |  |  | 729 000 forint |
+| II.B. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |
+| II.B.1. |  |  |  | Type IA-IB |  |  |  |  |
+| II.B.1.1. |  |  |  |  | Egykomponensű gyógyszer |  |  |  |
+| II.B.1.1.a. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  | 15 795 forint |
+| II.B.1.1.b. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  | 15 795 forint |
+| II.B.1.2. |  |  |  |  | Többkomponensű gyógyszer |  |  |  |
+| II.B.1.2.a. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  | 157 950 forint |
+| II.B.1.2.b. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  | 157 950 forint |
+| II.B.1.3. |  |  |  |  | Egyéb |  |  | 157 950 forint |
+| II.B.2. |  |  |  | Type II |  |  |  |  |
+| II.B.2.1. |  |  |  |  | Egykomponensű gyógyszer |  |  |  |
+| II.B.2.1.a. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  | 31 590 forint |
+| II.B.2.1.b. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  | 31 590 forint |
+| II.B.2.2. |  |  |  |  | Többkomponensű gyógyszer |  |  |  |
+| II.B.2.2.a. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  | 315 900 forint |
+| II.B.2.2.b. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  | 315 900 forint |
+| II.B.2.3. |  |  |  |  | Egyéb |  |  | 315 900 forint |
+| II.B.2.3.a. |  |  |  |  | 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  | 175 500 forint |
+| II.B.2.3.b. |  |  |  |  | Egyéb beadványok |  |  | 35 100 forint |
+| II.B.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény 10. § (2) bek.] |  |  |  | 35 100 forint |
+| II.B.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  | 315 900 forint |
+| II.B.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása / törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  | 175 500 forint |
+| II.B.6. |  |  |  | Globál számozásra történő változtatás |  |  |  | 175 500 forint |
+| II.B.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  | 473 850 forint |
+| II.C. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |
+| II.C.1. |  |  |  |  | Egykomponensű gyógyszer |  |  |  |
+| II.C.1.1. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  | 60 750 forint |
+| II.C.1.2. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  | 243 000 forint |
+| II.C.2. |  |  |  |  | Többkomponensű gyógyszer |  |  |  |
+| II.C.2.1. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  | 121 500 forint |
+| II.C.2.2. |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  | 472 500 forint |
+| II.C.3. |  |  |  |  | Egyéb |  |  | 472 500 forint |
+| II.D. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |
+| II.D.1. |  |  |  | Egykomponensű gyógyszer |  |  |  | 121 500 forint |
+| II.D.2. |  |  |  | Többkomponensű gyógyszer |  |  |  | 182 250 forint |
+| II.E. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  | 36 450 forint |
+| III. | Egyéb eljárások |  |  |  |  |  |  |  |
+| III.A. | Párhuzamos Importengedély kiadása |  |  |  |  |  |  | 675 000 forint |
+| III.B. | Párhuzamos Importengedély módosítása |  |  |  |  |  |  |  |
+| III.B.1. |  | Type IA-IB |  |  |  |  |  | 315 900 forint |
+| III.B.2. |  | Type II |  |  |  |  |  | 315 900 forint |
+| III.C. | Párhuzamos Importengedély megújítása újabb öt évre |  |  |  |  |  |  | 337 500 forint |
+| III.D. | Párhuzamos Importengedély fenntartása |  |  |  |  |  |  | 315 900 forint |
+| III.E. | Egyes gyártási tételek felhasználhatóságának meghosszabbítása |  |  |  |  |  |  | 36 450 forint |
+| III.F. | A forgalombahozatali engedélytől való eltérés engedélyezése egyes gyártási tételek esetén |  |  |  |  |  |  | 36 450 forint |
+| III.G. | Vizsgálati gyógyszerrel végzendő klinikai vizsgálat a nem kereskedelmi vizsgálat kivételével |  |  |  |  |  |  |  |
+| III.G.1. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot csak Magyarországon tervezik folytatni |  |  |  |  |  | 1 740 000 forint |
+| III.G.2. |  | Kismértékű beavatkozással járó klinikai vizsgálat engedélyezése |  |  |  |  |  | 1 740 000 forint |
+| III.G.3. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot több tagállamban tervezik folytatni |  |  |  |  |  | 2 250 000 forint |
+| III.G.4. |  | A III.G.1. és a III.G.2. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés I. részére vonatkozó szakasza |  |  |  |  |  | 1 305 000 forint |
+| III.G.5. |  | A III.G.1. és a III.G.2. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés II. részére vonatkozó szakasza |  |  |  |  |  | 435 000 forint |
+| III.G.6. |  | A III.G.3. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés I. részére vonatkozó szakasza |  |  |  |  |  | 1 687 500 forint |
+| III.G.7. |  | A III.G.3. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés II. részére vonatkozó szakasza |  |  |  |  |  | 562 500 forint |
+| III.G.8. |  | A III.G.2. III.G.3. a III.G.4. és a III.G.6. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam (kivéve, ha a vizsgálatot csak Magyarországon tervezik folytatni) |  |  |  |  |  | 800 000 forint |
+| III.G.9. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. részében szereplő szempont tekintetében |  |  |  |  |  | 330 000 forint |
+| III.G.10. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés II. részében szereplő szempont tekintetében |  |  |  |  |  | 330 000 forint |
+| III.G.11. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. és II. részében szereplő szempont tekintetében |  |  |  |  |  | 660 000 forint |
+| III.G.12. |  | A III.G.9. és a III.G.11. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam (kivéve, ha a vizsgálatot csak Magyarországon tervezik folytatni) |  |  |  |  |  | 120 000 forint |
+| III.G.13. |  | Érintett tagállam utólagos bevonására irányuló eljárás, ha Magyarország a jelentéskészítő tagállam |  |  |  |  |  | 600 000 forint |
+| III.G.14. |  | Az 536/2014/EU parlamenti és tanácsi rendelet 44. cikke szerinti tagállami együttműködésben végzett értékelési eljárás díja, ha Magyarország a biztonsági értékelést végző tagállam |  |  |  |  |  | 675 000 forint |
+| III.H. | Gyógyszergyártási tevékenység |  |  |  |  |  |  |  |
+| III.H.1.1. |  | Helyszíni ellenőrzése gyógyszergyártási engedély kiadása iránti eljárásban (telephelyenként) |  |  |  |  |  | 675 000 forint |
+| III.H.1.2. |  | Helyszíni ellenőrzése gyógyszergyártási engedély módosítása iránti eljárásban (telephelyenként) |  |  |  |  |  | 600 000 forint |
+| III.H.1.3. |  | Helyszíni ellenőrzése a helyes gyógyszergyártási gyakorlatnak való megfelelés igazolására (telephelyenként) |  |  |  |  |  | 600 000 forint |
+| III.H.2. |  | Gyógyszergyártási engedély kiadása |  |  |  |  |  | 300 000 forint |
+| III.H.3. |  | Gyógyszergyártási engedély módosítása |  |  |  |  |  | 120 000 forint |
+| III.I. | Gyógyszer-nagykereskedelmi tevékenység |  |  |  |  |  |  |  |
+| III.I.1.1. |  | Helyszíni ellenőrzése gyógyszer-nagykereskedelmi engedély kiadása iránti eljárásban (telephelyenként) |  |  |  |  |  | 530 000 forint |
+| III.I.1.2. |  | Helyszíni ellenőrzése gyógyszer-nagykereskedelmi engedély módosítása iránti eljárásban (telephelyenként) |  |  |  |  |  | 500 000 forint |
+| III.I.1.3. |  | Helyszíni ellenőrzése a helyes forgalmazási gyakorlatnak való megfelelés igazolására (telephelyenként) |  |  |  |  |  | 500 000 forint |
+| III.I.2. |  | Gyógyszer-nagykereskedelmi engedély kiadása |  |  |  |  |  | 120 000 forint |
+| III.I.3. |  | Gyógyszer-nagykereskedelmi engedély módosítása |  |  |  |  |  | 120 000 forint |
+| III.I.4. | Gyógyszer-közvetítői tevékenység regisztrációja |  |  |  |  |  |  | 120 000 forint |
+| III.I.5. | Gyógyszer-közvetítői tevékenység regisztrációjának módosítása |  |  |  |  |  |  | 12 000 forint |
+| III.J. | Vizsgálati gyógyszerek biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylatkiadás |  |  |  |  |  |  | 515 000 forint |
+| III.K. | Magyarországon forgalombahozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylatkiadása, készítményenként és bizonylatonként |  |  |  |  |  |  | 30 000 forint |
+| III.L. | Gyógyszerkészítménnyé történő átminősítés |  |  |  |  |  |  | 546 750 forint |
+| III.M. | Géntechnológiai engedély |  |  |  |  |  |  |  |
+| III.M.1 | Természetes szervezetek géntechnológiával való módosításának engedélyezése: géntechnológiai módosításonként |  |  |  |  |  |  |  |
+| III.M.2. | Géntechnológiai módosításokat végző létesítmény létesítése: létesítményenként |  |  |  |  |  |  | 94 500 forint |
+| III.M.3. | A géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben történő felhasználása: géntechnológiai módosításonként |  |  |  |  |  |  | 351 000 forint |
+| III.M.4. | A géntechnológiával módosított szervezetek és az azokból előállított termékeknek a környezetbe való kibocsátása: géntechnológiai módosításonként és kibocsátási helyenként |  |  |  |  |  |  | 182 250 forint |
+| III.M.5. | A géntechnológiával módosított szervezetek és az azokból előállított termékek forgalombahozatala: géntechnológiai módosításonként |  |  |  |  |  |  | 405 000 forint |
+| III.M.6. | A géntechnológiával módosított szervezetek és az azokból előállított termékek kivitele és behozatala: kérelmenként |  |  |  |  |  |  | 337 500 forint |
+| III.M.7. | A géntechnológiával módosított szervezetek és az azokból előállított termékek szállítása: kérelmenként |  |  |  |  |  |  | 243 000 forint |
+| III.N. | Vizsgálóhely I. fázisú klinikai farmakológiai vizsgálóhellyé történő minősítése |  |  |  |  |  |  | 600 000 forint |
+| III.O. | Gyógyszernek nem minősülő gyógyhatású készítmény |  |  |  |  |  |  |  |
+| III.O.1. | A forgalombahozatali engedély módosítása |  |  |  |  |  |  | 121 500 forint |
+| III.O.2. | A forgalombahozatali engedély meghosszabbítása |  |  |  |  |  |  | 121 500 forint |
+| III.P. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja |  |  |  |  |  |  |  |
+| III.P.1. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára |  |  |  |  |  |  | 120 000 forint |
+| III.P.2. | Gyógyszerhatóanyag-gyártási tevékenység nyilvántartásba vétele 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |
+| III.P.2.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  | 300 000 forint |
+| III.P.2.2. | Gyártott hatóanyagonként és telephelyenként |  |  |  |  |  |  | 120 000 forint |
+| III.P.3. | Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |
+| III.P.3.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  | 300 000 forint |
+| III.P.3.2. | Importált hatóanyagonként és telephelyenként |  |  |  |  |  |  | 120 000 forint |
+| III.P.4. | Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |
+| III.P.4.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  | 300 000 forint |
+| III.P.4.2. | Forgalmazott hatóanyagonként és telephelyenként |  |  |  |  |  |  | 120 000 forint |
+| III.P.5. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció új hatóanyaggal, hatóanyagonként és telephelyenként |  |  |  |  |  |  | 120 000 forint |
+| III.P.6 | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként |  |  |  |  |  |  | 20 000 forint |
+| III.Q. | Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP-megfelelőség igazolása céljából (telephelyenként) |  |  |  |  |  |  | 675 000 forint |
+| III.R. | Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről, illetve a belföldi forgalombahozatal céljára behozni kívánt gyógyszer engedélyéről |  |  |  |  |  |  | 30 750 forint |
+| III.S. | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése, első készítmény (első hatáserősség, első gyógyszerforma) |  |  |  |  |  |  | 1 050 000 forint |
+| III.T. | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése további készítményenként (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  | 800 000 forint |
+| III.U. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének módosítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  | 270 000 forint |
+| III.V. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének megújítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  | 270 000 forint |
+| III.W. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének éves fenntartása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  | 270 000 forint |
+| III.X. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének visszavonása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  | 40 000 forint |
 
 ### 2. számú melléklet a 2005. évi XCV. törvényhez

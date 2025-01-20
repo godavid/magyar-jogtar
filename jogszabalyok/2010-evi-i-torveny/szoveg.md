@@ -693,9 +693,15 @@ az irányadó.
 
 (3) A születési név megváltoztatására irányuló kérelemben meg kell jelölni azt a családi, illetve utónevet, amelyet a kérelmező új névként kíván viselni.
 
-(4) A születési név megváltoztatására irányuló kérelem igazgatási szolgáltatási díja 10 000 forint.
+(4) A születési utónév megváltoztatására irányuló kérelem igazgatási szolgáltatási díja 13 000 forint.
 
-(5) A (4) bekezdés szerinti igazgatási szolgáltatási díjat az eljáró hatóság által megjelölt számlára kell megfizetni. Az igazgatási szolgáltatási díj nem minősül a központi költségvetés központosított bevételének, az az eljáró hatóság bevételét képezi.
+(5) A születési családi nevet, valamint a születési családi és utónevet érintő névváltoztatási kérelem igazgatási szolgáltatási díja 18 000 forint.
+
+(6) Az igazgatási szolgáltatási díjat az anyakönyvi szerv által megjelölt számlára kell megfizetni.
+
+(7) Az igazgatási szolgáltatási díj – a (8) bekezdésben meghatározott kivétellel – az anyakönyvi szerv bevételét képezi.
+
+(8) A 49. § (6) bekezdésében foglaltak alkalmazása esetén a Nyelvtudományi Kutatóközpontot 5000 forint illeti meg. Az anyakönyvi szerv a díjbevételt félévente, a tárgyi időszakot követő hónap 25. napjáig utalja át a Nyelvtudományi Kutatóközpont által megjelölt számlára.
 
 51. § (1) A névváltoztatási iratok nem selejtezhetők, őrzésükről a Magyar Nemzeti Levéltár az adatvédelmi szabályok megtartásával és – a (2) bekezdésben meghatározottak szerint – az anyakönyvi szerv gondoskodik.
 

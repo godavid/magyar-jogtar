@@ -1615,7 +1615,7 @@ elérhetővé tételével összefügg.
 - a) a 60. § (1) bekezdés a)–i) pontjában meghatározott tényállások,
 - b) a 61. § (1) bekezdés a)–c) pontjában meghatározott tényállások,
 - c) a 62. § (1) bekezdés a)–e) pontjában meghatározott tényállások,
-- d) a 63. § (1) bekezdés a) pont aa)–al) alpontjában meghatározott tényállások,
+- d) a 63. § (1) bekezdés a) pont aa)–al) valamint aq) alpontjában meghatározott tényállások,
 - e) három éven belül ismételten megállapított azonos jogsértés,
 - f) a 14/A. § (1) és (4) bekezdésének megsértése esetén.
 

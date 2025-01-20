@@ -91,7 +91,7 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 
 (2) A törvény hatálya alá tartozók a tűz jelzéséhez, a segítségkéréshez híradási eszközüket kötelesek rendelkezésre bocsátani, szükség esetén járműveikkel segítséget nyújtani.
 
-(3) A rendőrség, a mentőszolgálat, a polgármesteri hivatal (körjegyzőség), a hozzá beérkezett tűzjelzést köteles haladéktalanul továbbítani a jelzésfogadónak.
+(3) A rendőrség, a mentőszolgálat, a polgármesteri hivatal (közös önkormányzati hivatal), a hozzá beérkezett tűzjelzést köteles haladéktalanul továbbítani a jelzésfogadónak.
 
 (4) A telefonon történő tűzjelzés lehetőségét minden településről a jelzésfogadó részére biztosítani kell. A tűzjelzés telefonon történő fogadásának biztosítása, és az ezzel kapcsolatos költségek a jelzésfogadó fenntartóját terhelik.
 
@@ -791,6 +791,7 @@ kezeli.
 - i) a tűzvédelmi tervezői tevékenység folytatásának részletes feltételeit, a névjegyzék személyes adatot nem tartalmazó adattartalmát, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 - j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásának részletes szabályait;
 - k) a tűzesetek vizsgálatára vonatkozó eljárási szabályokat.
+- l) egyes hatósági eljárásokban a tűzvédelmi hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket.
 
 (2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben határozza meg:
 
@@ -833,7 +834,7 @@ kezeli.
 - a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjét a honvédelemért felelős miniszterrel,
 - b)
 - c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel,
-- d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel
+- d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatási szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért, valamint a közigazgatás-szervezésért felelős miniszterrel,
 - e) a tűzvédelmi tervezői tevékenység engedélyezési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 48. § (1) Ez a törvény a kihirdetését követő 90. napon lép hatályba. A törvény 44. §-ának rendelkezését 1997. január 1-jétől kell alkalmazni.
