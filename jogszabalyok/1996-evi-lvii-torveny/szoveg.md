@@ -731,7 +731,7 @@ azzal, hogy e rendelkezések alkalmazásában ügyfél alatt az 52. § a) pont a
 
 (2) Az előzetes egyeztetés kezdeményezésekor vagy az egyeztetés során átadott iratok, közölt adatok kizárólag az egyeztetés céljából, valamint az egyeztetés tárgyára vonatkozó összefonódás-bejelentés elintézésével kapcsolatos eljárásban, illetve az annak vizsgálatára irányuló versenyfelügyeleti eljárásban használhatók fel.
 
-43/M. § (1) Az összefonódás-bejelentéssel egyidejűleg az összefonódás-bejelentés elintézéséért egymillió forint igazgatási szolgáltatási díjat kell megfizetni. A díjat – a vállalkozások eltérő megállapodása hiányában – az összefonódás-bejelentést tevő vállalkozás köteles megfizetni.
+43/M. § (1) Az összefonódás-bejelentéssel egyidejűleg az összefonódás-bejelentés elintézéséért egymillió-háromszázezer forint igazgatási szolgáltatási díjat kell megfizetni. A díjat – a vállalkozások eltérő megállapodása hiányában – az összefonódás-bejelentést tevő vállalkozás köteles megfizetni.
 
 (2) Ha egy összefonódás-bejelentésben több összefonódást jelentenek be, az (1) bekezdés szerinti igazgatási szolgáltatási díjat összefonódásonként kell megfizetni.
 
@@ -1046,8 +1046,8 @@ kell figyelembe venni.
 
 62. § (1) Az összefonódás-bejelentés alapján indított versenyfelügyeleti eljárásért igazgatási szolgáltatási díjat kell fizetni, amelynek mértéke
 
-- a) a 67. § (4) bekezdés a) pontja alapján indított eljárásban, vagy ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, tizenkilencmillió forint,
-- b) az a) pont hatálya alá nem tartozó esetben négymillió forint.
+- a) a 67. § (4) bekezdés a) pontja alapján indított eljárásban, vagy ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, huszonegymillió forint,
+- b) az a) pont hatálya alá nem tartozó esetben ötmillió forint.
 
 (2) Ha a vizsgáló az összefonódás-bejelentés alapján elrendeli az összefonódás vizsgálatát, végzésében – nyolcnapos határidő megjelölésével és a jogkövetkezményekre való figyelmeztetés mellett – kötelezi az összefonódást bejelentőt – az eljárás megindításának okától függően – az (1) bekezdés a) vagy b) pontja szerinti igazgatási szolgáltatási díj megfizetésére.
 

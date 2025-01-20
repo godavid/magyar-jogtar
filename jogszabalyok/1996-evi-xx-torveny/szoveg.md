@@ -83,7 +83,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (3) Amennyiben a kiállító hatóság az (1) bekezdésben meghatározott hatósági igazolvány eltulajdonításáról hivatalból tudomást szerez, intézkedik az eltulajdonított hatósági igazolvány pótlásáról.
 
-10. § Az adóazonosító jelet, illetőleg a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány kiadásáért az általános tételű eljárási illetéknek megfelelő összegű igazgatási szolgáltatási díjat fizet a polgár, ha az új hatósági igazolvány kiadása a birtokából való elkerülés (elvesztés, megsemmisülés) vagy megrongálódás miatt válik szükségessé.
+10. § Az adóazonosító jelet, illetve a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány kiadásáért 4000 forint összegű igazgatási szolgáltatási díjat fizet a polgár, ha az új hatósági igazolvány kiadása a birtokából való elkerülés (elvesztés, megsemmisülés) vagy megrongálódás miatt válik szükségessé.
 
 ### Összerendelési nyilvántartás
 

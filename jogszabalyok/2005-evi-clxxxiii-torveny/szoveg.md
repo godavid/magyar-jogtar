@@ -548,14 +548,16 @@ a működési engedélyt hivatalból felfüggeszti.
 
 9/D. § A vasúti igazgatási szerv haladéktalanul tájékoztatja az Európai Unió Vasúti Ügynökségét (a továbbiakban: Ügynökség) az országos vállalkozó vasúti működési engedély vagy ideiglenes működési engedély kiadásáról, módosításáról, felfüggesztéséről vagy visszavonásáról.
 
-9/E. § A vasúti igazgatási szerv a működési engedély kiadása feltételeinek fennállását évente – felügyeleti díj ellenében – ellenőrzi.
+9/E. § (1) A vasúti igazgatási szerv a működési engedély kiadása feltételeinek fennállását évente – felügyeleti díj ellenében – ellenőrzi.
 
 (2) Az éves felügyeleti díj mértéke:
 
-- a) országos vállalkozó vasúti társaság esetén 1 363 000 forint,
-- b) elővárosi, vállalkozó vasúti társaság esetén 136 000 forint,
-- c) térségi, vállalkozó vasúti társaság esetén 14 000 forint,
-- d) helyi, városi, vállalkozó vasúti társaság esetén 14 000 forint.
+- a) országos vállalkozó vasúti tevékenység esetén 1 635 000 forint,
+- b) elővárosi, városi, térségi és helyi vállalkozó vasúti tevékenység esetén 360 000 forint.
+
+(3) Az éves felügyeleti díjat a vállalkozó vasúti társaság működési engedélyenként fizeti meg.
+
+(4) A (2) bekezdés szerinti felügyeleti díj a vasúti igazgatási szervet illeti meg, amelyet a feladataival összefüggésben használ fel.
 
 ### Bejelentéssel végezhető vasúti tevékenységek
 
@@ -1175,18 +1177,18 @@ hagyja jóvá a közlekedési hatóság.
 
 (4) A jogosult haladéktalanul tájékoztatja a közlekedési hatóságot az egységes biztonsági tanúsítvánnyal és a vasútbiztonsági engedéllyel kapcsolatos feltételekben bekövetkezett minden változásról, valamint minden olyan esetben, amikor új személyi állományi kategóriák vagy új típusú vasúti járművek bevezetésére kerül sor.
 
-(5) A közlekedési hatóság évente ellenőrzi, hogy egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiadásának alapjául szolgáló feltételek fennállnak-e. Az ellenőrzésért felügyeleti díjat kell fizetni.
+(5) Az egységes biztonsági tanúsítvánnyal, valamint vasútbiztonsági engedéllyel rendelkező szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére. A közlekedési hatóság a felügyeleti tevékenysége során vizsgálja az egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiadásának alapjául szolgáló feltételek fennállását.
 
 (5a) Az éves felügyeleti díj mértéke:
 
 - a) pályahálózat-működtető, valamint vertikálisan integrált vállalkozás vasúti pályahálózatot működtető szervezeti egysége esetén
-  - aa) 200 km üzemeltetett vasúti hálózatig: 2 540 000 forint,
-  - ab) 200 km feletti üzemeltetett vasúti hálózatnál: 4 612 500 forint,
+  - aa) 200 km üzemeltetett vasúti hálózatig: 3 302 000 forint,
+  - ab) 200 km feletti üzemeltetett vasúti hálózatnál: 5 996 500 forint,
 - b) vállalkozó vasúti társaság, valamint vertikálisan integrált vállalkozás vállalkozó vasúti tevékenységet végző szervezeti egysége esetén, a vállalkozó vasúti tevékenységenként külön-külön
-  - ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 1 502 000 forint,
-  - bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 1 955 000 forint,
-  - bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 2 560 000 forint,
-- c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 1 052 500 forint,
+  - ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 1 950 000 forint,
+  - bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 2 541 500 forint,
+  - bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 3 328 000 forint,
+- c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 1 368 500 forint,
 - d)
 - e)
 - f) a kizárólag történelmi és muzeális vasúti járműveket üzembentartó vasúti társaságok egységes biztonsági tanúsítványa esetén a b)–f) pontokban meghatározott díjtételek 30%-a.
@@ -1225,7 +1227,18 @@ kapcsolatos szabályokat.
 
 (7) Az alapvizsga és az időszakos vizsga lebonyolítását a Kormány által a vasúti vizsgaközpont kijelöléséről szóló kormányrendeletben kijelölt vasúti vizsgaközpont, az alapképzés és az időszakos oktatás szakmai irányítását, valamint a vasútszakmai oktatók és a vasútüzemvezetők továbbképzését, továbbá a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzését és továbbképzését a Kormány által a vasúti képzési módszertani központ kijelöléséről szóló kormányrendeletben kijelölt vasúti képzési módszertani központ végzi.
 
-(8) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi.
+(8) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi és felügyeli.
+
+(8a) Az alapképzést, valamint az időszakos oktatást végző szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére.
+
+(8b) A felügyeleti díj mértéke
+
+- a) alapképzést végző szervezetek esetén 830 000 forint,
+- b) időszakos oktatást végző szervezetek esetén 1 000 000 forint,
+
+amelyet a tevékenységre vonatkozó engedély alapján kell megfizetni.
+
+(8c) A (8a) bekezdés szerinti felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a feladataival összefüggésben használ fel.
 
 (9) Az alapvizsgáztatást és az időszakos vizsgáztatást a vasúti vizsgaközpont, mint tanúsító szerv a külön jogszabályban előírt feltételeknek megfelelő, a közlekedési hatóság vizsgabiztosi névjegyzékébe felvett és közlekedési hatóság által kinevezett vizsgabiztosok bevonásával szervezi és végzi. A közlekedési hatóság eljárása során a vizsgák eredménye alapján adja ki a hatósági bizonyítványokat.
 
@@ -1344,7 +1357,7 @@ kapcsolatos szabályokat.
 
 vasúti jármű országos vasúti pályahálózaton való közlekedtetéséhez.
 
-(6) A közlekedési hatóság évente – felügyeleti díj ellenében – ellenőrzi, hogy
+(6) A közlekedési hatóság évente ellenőrzi, hogy
 
 - a) a vasúti járművek gyártását, javítását végző személyek és szervezetek,
 - b) a vasútüzemi célt szolgáló tartály vagy kazán megfelelőségértékelését, az időszakos és soron kívüli vizsgálatát, valamint az üzemi vizsgálóhely felügyeletét ellátó vizsgáló szervezetek,
@@ -1353,13 +1366,16 @@ vasúti jármű országos vasúti pályahálózaton való közlekedtetéséhez.
 
 műszaki hatósági engedélye kiadásának alapjául szolgáló feltételek fennállnak-e.
 
-(7) Az éves felügyeleti díj mértéke
+(7) A (6) bekezdés szerinti ellenőrzéssel érintett személyek és szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére. A felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a vasúti közlekedési hatósági feladataival összefüggésben használ fel.
+
+(8) Az éves felügyeleti díj mértéke
 
 - a) a vasúti járművek gyártását, javítását végző személyek és szervezetek
   - aa) járműgyártása, főjavítás végzése esetén 2 417 500 forint,
   - ab) fővizsgák végzése esetén 1 812 500 forint,
   - ac) közlekedés biztonságával összefüggő részegységek gyártása, javítása esetén 1 210 000 forint,
-- b) az (1) bekezdés b)–d) pontjában meghatározott szervezetek esetén 1 817 500 forint.
+  - ad) vasúti járművek időszakos vizsgálata esetén 1 200 000 forint,
+- b) a (6) bekezdés b)–d) pontjában meghatározott szervezetek esetén 1 817 500 forint.
 
 ### TÍPUSENGEDÉLY
 
@@ -2774,7 +2790,7 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 (2) A különleges kötöttpályás közlekedési rendszerekre a működési engedélyre vonatkozó 6–9/D. §-t, a pályahálózat-működtető üzleti tervére vonatkozó 12–13. §-t, a számviteli elkülönítésre vonatkozó 21. §-t, a biztonságirányítási rendszerre és a biztonsági szervezetre vonatkozó 32–32/A. §-t, az egységes biztonsági tanúsítványra és vasútbiztonsági engedélyre vonatkozó 33–35. §-t, a nyílt hozzáférésre, a kapacitáselosztásra és a hálózat-hozzáférési díjakra vonatkozó 49–67/W. §-t, a felügyeleti díjakra vonatkozó 9/E. §-t, a 35. § (5)–(5a) bekezdését, valamint a jogvitás eljárásra vonatkozó 79/B–79/D. §-t nem kell alkalmazni.
 
-(3) A különleges kötöttpályás járművekre vonatkozóan a 36/I. § (7) bekezdését azzal eltéréssel kell alkalmazni, hogy a felügyeleti díj mértéke az ott meghatározott díjtételek 20%-a. A 36/I. § (7) bekezdés a) pontját nem kell alkalmazni abban az esetben, ha a vasúti járművek gyártását, javítását végző szervezet a vasúti járművet üzemben tartó múzeum vagy muzeális intézmény.
+(3) A különleges kötöttpályás járművekre vonatkozóan a 36/I. § (8) bekezdését azzal eltéréssel kell alkalmazni, hogy a felügyeleti díj mértéke az ott meghatározott díjtételek 20%-a. A 36/I. § (8) bekezdés a) pontját nem kell alkalmazni abban az esetben, ha a vasúti járművek gyártását, javítását végző szervezet a vasúti járművet üzemben tartó múzeum vagy muzeális intézmény.
 
 #### 2. Idegen ingatlan használata
 
@@ -3292,7 +3308,7 @@ rendeletben állapítsa meg.
 - 6. a Hálózati Üzletszabályzatának tartalmára vonatkozó részletes szabályokat,
 - 7. a vasúti pályahálózat kapacitásának elosztására vonatkozó részletes szabályokat,
 - 8. a vasúti igazgatási szerv, valamint a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére vonatkozó anyagi jogi, továbbá a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben, valamint az Ügynökség eljárásába bevont közlekedési hatóság nemzeti óradíját,
-- 9.
+- 9. a vasúti pályahálózatok minőségi követelményei megvalósulásának, illetve fennállásának ellenőrzésére vonatkozó szabályokat, az ellenőrzést végző szervezetek kijelölését, valamint az ellenőrzésért fizetendő díjakat,
 - 10. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények 10.1. üzembe helyezése engedélyezésének, időszakos vizsgálatának és ellenőrzésének anyagi jogi előírásait, 10.2. gyártásának, javításának ellenőrzését, minősítését, valamint műszaki vizsgálatát végző személyekre (kazánbiztosok) vonatkozó képzettségi, végzettségi követelményekre, képzésükre, vizsgáztatásukra, elismerésükre, valamint nyilvántartásukra vonatkozó anyagi jogi szabályokat, 10.3. gyártásának, javításának ellenőrzését, minősítését, valamint műszaki vizsgálatát végző szervezetek engedélyezésének és nyilvántartásának anyagi jogi szabályait,
 - 11.
 - 12.

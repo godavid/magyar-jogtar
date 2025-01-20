@@ -745,7 +745,7 @@ méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogath
 
 (11) A biztosított által valamely EGT tagállam területén történő ideiglenes tartózkodása során igénybe vett egészségügyi szolgáltatásra – az uniós rendeletek szerint – jogosító, az egészségbiztosító által kibocsátott Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya), illetve az azt helyettesítő nyomtatványt az egészségbiztosító a biztosított kérelmére, a (12) bekezdésben foglaltak kivételével díjmentesen, a külön jogszabályban foglaltak figyelembevételével bocsátja a biztosított rendelkezésére.
 
-(12) Az EU-Kártya kiadásáért az általános tételű eljárási illetéknek megfelelő összegű igazgatási szolgáltatási díjat kell fizetnie a biztosítottnak, ha annak kiadása a még érvényes EU-Kártyának a jogosult birtokából való kikerülése (lopás, elvesztés, megsemmisülés) vagy megrongálódása miatt vált szükségessé.
+(12) Az EU-Kártya kiadásáért 4000 forint összegű igazgatási szolgáltatási díjat kell fizetnie a biztosítottnak, ha annak kiadása a még érvényes EU-Kártyának a jogosult birtokából való kikerülése (lopás, elvesztés, megsemmisülés) vagy megrongálódása miatt vált szükségessé.
 
 (13)
 

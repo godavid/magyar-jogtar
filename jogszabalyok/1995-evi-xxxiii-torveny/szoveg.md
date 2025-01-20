@@ -288,7 +288,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A szabadalmi oltalom fenntartása
 
-23. § (1) A szabadalmi oltalom tartamára, a negyedik évtől évenként, az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott fenntartási díjat kell fizetni. A negyedik évre szóló díj a bejelentés napjától számított három év lejártával, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes.
+23. § (1) A szabadalmi oltalom tartamára, a harmadik évtől évenként, az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott fenntartási díjat kell fizetni. A harmadik évre szóló díj a bejelentés napjától számított két év lejártával, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes.
 
 (2) A szabadalmi bejelentés közzétételét megelőzően esedékessé vált fenntartási díjat a közzétételtől, a minősített adatként kezelt bejelentés alapján megadott szabadalom megadását megelőzően esedékessé vált fenntartási díjat a megadó határozat jogerőre emelkedésétől, a többi fenntartási díjat pedig az esedékességtől számított hat hónapos türelmi idő alatt is meg lehet fizetni.
 
@@ -2532,14 +2532,7 @@ bírósági eljárásokra alkalmazandó szabályok
 
 115/O. § (1) Ha a megfizetés időpontjában az oltalmi igény, illetve az oltalom jogosultja kizárólag maga a feltaláló, a nemesítő, illetve a szerző, a használati mintaoltalmi bejelentés, a növényfajta-oltalmi bejelentés, a formatervezési mintaoltalmi bejelentés, illetve a topográfia oltalmára irányuló bejelentés díjának az egynegyedét köteles megfizetni.
 
-(1a) Ha a megfizetés időpontjában az oltalmi igény, illetve az oltalom jogosultja kizárólag
-
-- a) maga a feltaláló,
-- b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti vállalkozás,
-- c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében felsorolt államilag elismert felsőoktatási intézmény vagy
-- d) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény szerinti költségvetési kutatóhely vagy nonprofit közhasznú kutatóhely
-
-a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjaknak az egynegyedét köteles megfizetni.
+(1a) A szabadalmi igény, illetve a szabadalom jogosultja a szabadalom megadására irányuló eljárásban a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjak felét köteles megfizetni, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.
 
 (1b) Elektronikus úton történő benyújtás esetén
 
@@ -2560,34 +2553,21 @@ díjaknak a 85%-át kell megfizetni.
 
 (2) Ha a megfizetés időpontjában a használati mintaoltalmi, illetve a növényfajta-oltalmi jogosult kizárólag maga a feltaláló, illetve a nemesítő, a használati mintaoltalmi, illetve a növényfajta-oltalmi fenntartási díjnak a felét köteles megfizetni.
 
-(2a) Ha a megfizetés időpontjában az oltalmi igény, illetve az oltalom jogosultja kizárólag
+(2a) A szabadalmi fenntartási díj felét kell megfizetni, ha az oltalommal kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.
 
-- a) maga a feltaláló,
-- b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti vállalkozás,
-- c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében felsorolt államilag elismert felsőoktatási intézmény vagy
-- d) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény szerinti költségvetési kutatóhely vagy nonprofit közhasznú kutatóhely
-
-a szabadalmi fenntartási díjnak az egynegyedét köteles megfizetni.
-
-(2b) Több igényjogosult, illetve több jogosult esetén az (1a) és a (2a) bekezdés szerinti kedvezmény akkor érvényesíthető, ha a fizetésre kötelezettek mindegyike megfelel az (1a) bekezdés a)–d) pontja vagy a (2a) bekezdés a)–d) pontja valamelyikének.
+(2b)
 
 (3) Ha a megfizetés időpontjában a formatervezési mintaoltalom jogosultja kizárólag maga a szerző, a mintaoltalom megújítására irányuló kérelem díjának a felét köteles megfizetni.
 
-(4) Az (1) és (1a), valamint az (1c)–(3) bekezdésben meghatározott kedvezmények akkor illetik meg a feltalálót, a nemesítőt, illetve a szerzőt, továbbá az (1a) bekezdés b)–d) pontja és (2a) bekezdés b)–d) pontja szerinti jogosultakat, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.
+(4) Az (1)–(3) bekezdésben meghatározott kedvezmények akkor illetik meg a feltalálót, a nemesítőt, illetve a szerzőt, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.
 
 (5) Az (1)–(4) bekezdésben foglalt rendelkezéseket alkalmazni kell akkor is, ha – több feltaláló, nemesítő, illetve szerző esetén – a feltalálók, a nemesítők, illetve a szerzők valamelyike az oltalmi igényéről, illetve az oltalomról feltalálótársa, nemesítőtársa, illetve szerzőtársa javára lemondott, továbbá, ha a feltalálók, a nemesítők, illetve a szerzők bármelyike helyébe az örököse lép.
 
-(6) Az (1a) és a (2a) bekezdés szerinti kedvezményre való jogosultság fennállásáról az esedékessé vált fenntartási díj megfizetésével egyidejűleg nyilatkozni kell.
+(6)
 
-(7) Az (1a) és a (2a) bekezdés szerinti díjkedvezmény az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és
+(7)
 
-- a) az 1407/2013/EU bizottsági rendelet és a helyébe lépő, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa szerinti általános csekély összegű támogatás,
-- b) az 1408/2013/EU bizottsági rendelet vagy
-- c) a 717/2014/EU bizottsági rendelet
-
-szabályaival összhangban vehető igénybe.
-
-115/P. § (1) A Szellemi Tulajdon Nemzeti Hivatala kérelemre a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjak, továbbá a növényfajta-oltalmi, a használati mintaoltalmi, a formatervezési mintaoltalmi és a topográfia-oltalmára irányuló bejelentés díja alól mentességet adhat, továbbá a negyedik és az ötödik évekre szóló szabadalmi, valamint elsőtől az ötödik évekre szóló növényfajta-oltalmi és használati mintaoltalmi fenntartási díjak megfizetésére halasztást engedélyezhet, ha a természetes személy jogosult – kereseti, jövedelmi és vagyoni viszonyai folytán – azokat fedezni nem tudja; a halasztás alá eső fenntartási díjakat a hatodik évi fenntartási díjjal együtt kell megfizetni.
+115/P. § (1) A Szellemi Tulajdon Nemzeti Hivatala kérelemre a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjak, továbbá a növényfajta-oltalmi, a használati mintaoltalmi, a formatervezési mintaoltalmi és a topográfia-oltalmára irányuló bejelentés díja alól mentességet adhat, továbbá a harmadiktól az ötödik évekre szóló szabadalmi, valamint elsőtől az ötödik évekre szóló növényfajta-oltalmi és használati mintaoltalmi fenntartási díjak megfizetésére halasztást engedélyezhet, ha a természetes személy jogosult – kereseti, jövedelmi és vagyoni viszonyai folytán – azokat fedezni nem tudja; a halasztás alá eső fenntartási díjakat a hatodik évi fenntartási díjjal együtt kell megfizetni.
 
 (2) Mentességre, illetve halasztásra az a természetes személy jogosult, aki igazolja, hogy jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása) nem haladja meg a mindenkori kötelező legkisebb munkabér (minimálbér) összegét, vagyona pedig – a szokásos életszükségleti és berendezési tárgyakon felül – nincs. Mentességben kell részesíteni – jövedelmi és vagyoni helyzetének vizsgálata nélkül – azt a személyt, aki aktív korúak ellátására jogosult.
 

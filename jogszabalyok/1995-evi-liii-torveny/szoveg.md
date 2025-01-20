@@ -1634,12 +1634,14 @@ kapcsolatos részletes szabályokat.
 
 (12a) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy az egyedi szennyvízelhelyezés alkalmazási feltételeivel kapcsolatos szabályokat rendeletben állapítsa meg.
 
-(13) Felhatalmazást kap a miniszter, hogy – a vízvédelmi eljárások kivételével – az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg:
+(13) Felhatalmazást kap a miniszter, hogy – a vízvédelmi és természetvédelmi eljárások kivételével – az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg:
 
 - a) az igazgatási szolgáltatási díj fizetésére kötelezett eljárásokat, igazgatási jellegű szolgáltatásokat és bejelentéseket, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat;
 - b) a felügyeleti díjjal kapcsolatos részletes szabályokat.
 
 (13a) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg az igazgatási szolgáltatási díj fizetésére kötelezett vízvédelmi eljárásokat, igazgatási jellegű szolgáltatásokat és bejelentéseket, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat.
+
+(13b) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg az igazgatási szolgáltatási díj fizetésére kötelezett természetvédelmi eljárásokat, igazgatási jellegű szolgáltatásokat és bejelentéseket, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat.
 
 (14) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a vízvédelemért felelős miniszterrel egyetértésben rendeletben
 

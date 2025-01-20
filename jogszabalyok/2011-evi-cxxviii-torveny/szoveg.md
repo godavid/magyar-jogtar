@@ -902,7 +902,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 - o) a veszélyes anyagokkal foglalkozó üzemekre vonatkozó hatósági koordináció szabályait,
 - p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatok, illetve termékek, továbbá az ingatlan-nyilvántartási adatok (jogok, tények) körét, valamint ezek szolgáltatásának részletes szabályait,
 - q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
-- r)
+- r) egyes hatósági eljárásokban az iparbiztonsági hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket,
 - s) az IHR működésének részletes szabályait, az IHR-nek a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság és a veszélyesáru-szállítás ellenőrzésére kijelölt hatóság által történő igénybevételének feltételeit és részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani,
 - t) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyási engedélyezésére, az engedélyben és a kapcsolódó jogszabályokban meghatározott előírások megtartásának hatósági ellenőrzésére, a gyártásból történő mintavételre és annak soron kívüli vizsgálatára, valamint az előírások megsértőivel szemben intézkedések megtételére, az egyes szabálytalanságokért kiszabható bírságok összegének megállapítására, továbbá a bírságolással összefüggő hatósági feladatokra vonatkozó részletes szabályokat.
 
@@ -921,7 +921,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 - f) a katasztrófavédelmi felkészítés követelményeit,
 - g) a hivatásos katasztrófavédelmi szervek állományának Szolgálati Szabályzatát, valamint a polgári védelmi szervezetek Szolgálati Szabályzatát.
 
-82. § (1) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg az igazgatási szolgáltatási díj fizetési körébe tartozó hatósági eljárásokat, igazgatási jellegű szolgáltatásokat és bejelentéseket, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat.
+82. § (1) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy az adópolitikáért, valamint a közigazgatás-szervezésért felelős miniszterrel egyetértésben rendeletben állapítsa meg az igazgatási szolgáltatási díj fizetési körébe tartozó hatósági eljárásokat, igazgatási jellegű szolgáltatásokat és bejelentéseket, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat.
 
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben szabályozza a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésével kapcsolatban a tervezési, jelentési, adatközlési, együttműködési feladatokat, valamint a korai riasztási technikai rendszer létrehozásának és működésének szabályait.
 
