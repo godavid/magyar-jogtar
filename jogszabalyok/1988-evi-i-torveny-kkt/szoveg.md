@@ -2190,6 +2190,10 @@ szociális előírások ellenőrzése
 
 (10) A tachográf kártya nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen kell átadni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
+(11) A közlekedési hatóság a digitális tachográf kártya kiadásához – a kártyára jogosult adatainak ellenőrzése céljából – az érintett természetes személyazonosító adatait, három évnél nem régebbi arcképmását, aláírását és érvényes lakcímadatát igényelheti a személyiadat- és lakcímnyilvántartásból díj megfizetése mellett.
+
+(12) A személyiadat- és lakcímnyilvántartást kezelő szerv a közlekedési hatóság adatkérése alapján – a (11) bekezdésben foglaltak céljából – értesíti a közlekedési hatóságot a személy természetes személyazonosító adatairól, érvényes lakcímadatáról, továbbá aláírását és arcképmását elektronikus úton átadja díj megfizetése mellett.
+
 45. § (1) Az országos és az önkormányzati közút kezelője útellenőri szolgálatot működtet. Az útellenőri szolgálat működésének feltételeit a miniszter által megállapított keretek között a közút kezelője határozza meg.
 
 (2) Az útellenőr feladata
