@@ -30,11 +30,7 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 13. §
 
-14. § A közúti közlekedésről szóló 1988. évi I. törvény 44/A. §-a a következő (11) és (12) bekezdéssel egészül ki:
-
-„(11) A közlekedési hatóság a digitális tachográf kártya kiadásához – a kártyára jogosult adatainak ellenőrzése céljából – az érintett természetes személyazonosító adatait, három évnél nem régebbi arcképmását, aláírását és érvényes lakcímadatát igényelheti a személyiadat- és lakcímnyilvántartásból díj megfizetése mellett.
-
-(12) A személyiadat- és lakcímnyilvántartást kezelő szerv a közlekedési hatóság adatkérése alapján – a (11) bekezdésben foglaltak céljából – értesíti a közlekedési hatóságot a személy természetes személyazonosító adatairól, érvényes lakcímadatáról, továbbá aláírását és arcképmását elektronikus úton átadja díj megfizetése mellett.”
+#### 14. §
 
 #### 15. §
 
@@ -89,53 +85,13 @@ lép.
 
 #### 27. §
 
-28. § (1)
-
-(2) A légiközlekedésről szóló 1995. évi XCVII. törvény 67. §-a a következő (23)–(32) bekezdéssel egészül ki:
-
-„(23) A légiközlekedési hatóság az (EU) 2015/1998 bizottsági végrehajtási rendelet szerint a védelmi háttérellenőrzésre kötelezett személyekről nyilvántartást vezet.
-
-(24) A nyilvántartás tartalmazza a védelmi háttérellenőrzés alá vont személy
-
-- a) természetes személyazonosító adatait, személyazonosság igazolására alkalmas hatósági igazolvány okmányazonosítóját, lakcímét,
-- b) a foglalkoztatójának nevét, lakcímét vagy székhelyét,
-- c) a foglalkoztatóval létrejövő jogviszony kezdő időpontját, a jogviszony megszűnésének időpontját,
-- d) a védelmi háttérellenőrzésének fokozatát,
-- e) nyilvántartásba vétel számát, időpontját, és
-- f) nyilvántartásból való törlés számát, időpontját.
-
-(25) A (23) bekezdés szerinti nyilvántartás a (24) bekezdés d)–f) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
-
-(26) A légiközlekedési hatóság a védelmi háttérellenőrzés alá vont személyt, az ellenőrzés sikeres lefolytatását követően hivatalból nyilvántartásba veszi.
-
-(27) A légiközlekedési hatóság nyilvántartásában szereplő adatok valóságáért az felel, akinek foglalkoztatásában a nyilvántartott személy áll. A foglalkoztató a jogviszony tekintetében bekövetkező változást annak bekövetkeztétől számított 15 napon belül köteles a légiközlekedési hatóság felé írásban bejelenteni.
-
-(28) A légiközlekedési hatóság törli a védelmi háttérellenőrzés alá vont személyt a nyilvántartásból
-
-- a) a védelmi háttérellenőrzés alá vont személy halála esetén, vagy
-- b) a foglalkoztatóval fennálló jogviszony megszűnését követő egy év eltelte esetén, kivéve, amennyiben a jogviszony megszűnésétől számított egy éven belül ismételten olyan foglalkoztatóval létesít jogviszonyt, ahol védelmi háttérellenőrzési kötelezettsége fennáll.
-
-(29) A légiközlekedési hatóság által vezetett nyilvántartásból – a törvényben meghatározottakon túl – adatkérésre jogosult különösen
-
-- a) az általános rendőrségi feladatok ellátására létrehozott szerv,
-- b) a terrorizmust elhárító szerv,
-- c) a nemzetbiztonsági szolgálatok.
-
-(30) A nyilvántartásba vett személyek védelmi háttérellenőrzésének biztosításáért a védelmi háttérellenőrzésre kötelezett személyek – az állami szervek kivételével – foglalkoztatói éves felügyeleti díjat fizetnek. A felügyeleti díjat a hatóság részére az a foglalkoztató köteles megfizetni, aki a tárgyév november 30. napján a nyilvántartás alapján legalább egy éve védelmi háttérellenőrzés alá vont személyt foglalkoztat. A foglalkoztató és a védelmi háttérellenőrzésre kötelezett személy közötti fennálló jogviszony év közbeni megszűnése a felügyeletidíj-fizetési kötelezettséget nem érinti.
-
-(31) A felügyeleti díj éves mértéke védelmi háttérellenőrzés alá vont személyenként 30 000 forint. A felügyeleti díj 50%-át a tárgyévet követő év június 30. napjáig, a felügyeleti díj további 50%-át a tárgyévet követő év január 31. napjáig kell a légiközlekedési hatóság számlájára átutalással megfizetni.
-
-(32) A felügyeleti díj a légiközlekedési hatóságot illeti meg, amely azt a felügyeleti feladataival összefüggésben használhatja fel.”
+#### 28. §
 
 #### 29. §
 
 #### 30. §
 
-31. § A légiközlekedésről szóló 1995. évi XCVII. törvény KILENCEDIK Része a következő 81. §-sal egészül ki:
-
-„81. § (1) E törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2024. évi LXXXI. törvénnyel (a továbbiakban: Módr.tv.) megállapított 67. § (23)–(29) bekezdése szerinti nyilvántartás tekintetében a légiközlekedési hatóság hivatalból intézkedik a nyilvántartásba vétel iránt azon védelmi háttérellenőrzésre kötelezett személyek tekintetében, akik védelmi háttérellenőrzésére ezen rendelkezések hatálybalépése előtt már sor került.
-
-(2) A Módr.tv.-nyel megállapított 67. § (30) bekezdése szerinti felügyeleti díjat első alkalommal 2025. június 30. napjáig kell megfizetni.”
+#### 31. §
 
 #### 32. §
 
@@ -173,18 +129,7 @@ lép.
 
 #### 45. §
 
-46. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 9/E. §-a helyébe a következő rendelkezés lép:
-
-„9/E. § (1) A vasúti igazgatási szerv a működési engedély kiadása feltételeinek fennállását évente – felügyeleti díj ellenében – ellenőrzi.
-
-(2) Az éves felügyeleti díj mértéke:
-
-- a) országos vállalkozó vasúti tevékenység esetén 1 635 000 forint,
-- b) elővárosi, városi, térségi és helyi vállalkozó vasúti tevékenység esetén 360 000 forint.
-
-(3) Az éves felügyeleti díjat a vállalkozó vasúti társaság működési engedélyenként fizeti meg.
-
-(4) A (2) bekezdés szerinti felügyeleti díj a vasúti igazgatási szervet illeti meg, amelyet a feladataival összefüggésben használ fel.”
+#### 46. §
 
 #### 47. §
 
@@ -194,47 +139,11 @@ lép.
 
 #### 50. §
 
-51. § (1) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 35. § (5) bekezdése helyébe a következő rendelkezés lép:
+#### 51. §
 
-„(5) Az egységes biztonsági tanúsítvánnyal, valamint vasútbiztonsági engedéllyel rendelkező szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére. A közlekedési hatóság a felügyeleti tevékenysége során vizsgálja az egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiadásának alapjául szolgáló feltételek fennállását.”
+#### 52. §
 
-(2) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 35. § (5a) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Az éves felügyeleti díj mértéke:)
-
-„c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 1 368 500 forint,”
-
-52. § (1) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 36. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi és felügyeli.”
-
-(2) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 36. §-a a következő (8a)–(8c) bekezdéssel egészül ki:
-
-„(8a) Az alapképzést, valamint az időszakos oktatást végző szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére.
-
-(8b) A felügyeleti díj mértéke
-
-- a) alapképzést végző szervezetek esetén 830 000 forint,
-- b) időszakos oktatást végző szervezetek esetén 1 000 000 forint,
-
-amelyet a tevékenységre vonatkozó engedély alapján kell megfizetni.
-
-(8c) A (8a) bekezdés szerinti felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a feladataival összefüggésben használ fel.”
-
-53. § (1) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 36/I. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A (6) bekezdés szerinti ellenőrzéssel érintett személyek és szervezetek évente május 31. napjáig felügyeleti díjat fizetnek a közlekedési hatóság részére. A felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a vasúti közlekedési hatósági feladataival összefüggésben használ fel.”
-
-(2) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 36/I. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az éves felügyeleti díj mértéke
-
-- a) a vasúti járművek gyártását, javítását végző személyek és szervezetek
-  - aa) járműgyártása, főjavítás végzése esetén 2 417 500 forint,
-  - ab) fővizsgák végzése esetén 1 812 500 forint,
-  - ac) közlekedés biztonságával összefüggő részegységek gyártása, javítása esetén 1 210 000 forint,
-  - ad) vasúti járművek időszakos vizsgálata esetén 1 200 000 forint,
-- b) a (6) bekezdés b)–d) pontjában meghatározott szervezetek esetén 1 817 500 forint.”
+#### 53. §
 
 #### 54. §
 
@@ -250,48 +159,11 @@ amelyet a tevékenységre vonatkozó engedély alapján kell megfizetni.
 
 #### 60. §
 
-61. § (1)
+#### 61. §
 
-(2)
+#### 62. §
 
-(3) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (2) bekezdése a következő 9. ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„9. a vasúti pályahálózatok minőségi követelményei megvalósulásának, illetve fennállásának ellenőrzésére vonatkozó szabályokat, az ellenőrzést végző szervezetek kijelölését, valamint az ellenőrzésért fizetendő díjakat,”
-
-(rendeletben állapítsa meg.)
-
-62. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény
-
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7. 35. § (5a) bekezdés a) pont aa) alpontjában a „2 540 000” szövegrész helyébe a „3 302 000” szöveg,
-- 8. 35. § (5a) bekezdés a) pont ab) alpontjában a „4 612 500” szövegrész helyébe az „5 996 500” szöveg,
-- 9. 35. § (5a) bekezdés b) pont ba) alpontjában az „1 502 000” szövegrész helyébe az „1 950 000” szöveg,
-- 10. 35. § (5a) bekezdés b) pont bb) alpontjában az „1 955 000” szövegrész helyébe a „2 541 500” szöveg,
-- 11. 35. § (5a) bekezdés b) pont bc) alpontjában a „2 560 000” szövegrész helyébe a „3 328 000” szöveg,
-- 12.
-- 13.
-- 14.
-- 15.
-- 16. 84/A. § (3) bekezdésében a „36/I. § (7)” szövegrészek helyébe a „36/I. § (8)” szöveg,
-- 17.
-
-lép.
-
-63. § Hatályát veszti a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény
-
-- a)
-- b) 36/I. § (6) bekezdés nyitó szövegrészében a „– felügyeleti díj ellenében –” szövegrész,
-- c)
-- d)
-- e)
-- f)
+#### 63. §
 
 #### 8. A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosítása
 
