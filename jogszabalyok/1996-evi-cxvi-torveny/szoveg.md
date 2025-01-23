@@ -1439,7 +1439,13 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (2) A biztonsági övezetben és a kutatási védőidomon belül telekalakítási, illetve építési tilalom, bányászati, föld- és vízhasználati jog korlátozása, valamint egyéb használati korlátozás rendelhető el.
 
-(3) A biztonsági övezet és a kutatási védőidom kijelölésére, továbbá a (2) bekezdésben említett tilalmakra és korlátozásokra vonatkozó követelményeket, valamint a kártalanításra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+(2a) A nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez, telephelyjellemzőinek és alkalmasságának megállapításához, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez, telepítéséhez az engedélyes a hatásterületen lévő idegen ingatlanokon jogosult az engedélyben meghatározott célból műszeres mérések, vizsgálatok, fúrások elvégzésére, mintavételezésre, valamint kutatólétesítmény kivitelezésére.
+
+(2b) A (2a) bekezdés szerinti ingatlan tulajdonosa – ideértve kezelőjét és használóját is – köteles tűrni, hogy az engedélyes az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el, a meglévő kutatólétesítményt megközelítse. Az engedélyes e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat köteles megtéríteni.
+
+(2c) A (2b) bekezdés szerinti tevékenységnek minősül a szeizmikus mérések helyszínére történő behajtás, a mérési pontok és nyomvonalak kitűzése, a mérések elvégzése, ideértve a többdimenziós szeizmikus méréseket és a felvételezést is. A geofizikai mérések és a (2b) bekezdés szerinti tevékenységek elvégzése nem minősül a termőföld védelméről szóló törvényben meghatározott termőföld időleges más célú hasznosításának.
+
+(3) A biztonsági övezet és a kutatási védőidom kijelölésére, továbbá a (2) bekezdésben említett tilalmakra és korlátozásokra vonatkozó követelményeket a Kormány rendeletben állapítja meg.
 
 35. § (1) A biztonsági övezetben és a kutatási védőidomon belül a telekalakítási és építési tilalmat, valamint a használati korlátozást az illetékes építésügyi hatóság, a bányászati jog korlátozását a bányafelügyelet, a vízhasználat korlátozását a vízügyi hatóság rendeli el. A biztonsági övezet és a kutatási védőidom fennállásának tényét, továbbá az ingatlanokra elrendelt tilalmakat és korlátozásokat az ingatlan-nyilvántartásba be kell jegyezni.
 
@@ -1447,7 +1453,9 @@ szükséges nukleáris biztonsági engedélyezés;
 
 36. § Az atomerőmű, a kutatóreaktor és a kiégett üzemanyag átmeneti tárolója felett repülési tilalmat kell elrendelni. A tiltott légtérré nyilvánításról és annak mértékéről jogszabály rendelkezik.
 
-37. § A biztonsági övezetben és a kutatási védőidomon belül elrendelt tilalmak és korlátozások fenntartása, valamint nukleáris létesítmény, illetve a radioaktívhulladék-tároló létesítése, továbbá a biztonsági övezetben és a kutatási védőidomon belül ezen létesítményekkel összefüggésben végzett munkálatok folytán keletkezett kárt meg kell téríteni.
+37. § (1) A biztonsági övezetben és a kutatási védőidomon belül elrendelt tilalmak és korlátozások fenntartása, valamint nukleáris létesítmény, illetve a radioaktívhulladék-tároló létesítése, továbbá a biztonsági övezetben és a kutatási védőidomon belül ezen létesítményekkel összefüggésben végzett munkálatok folytán keletkezett kárt meg kell téríteni.
+
+(2) Az (1) bekezdés és 34. § (2b) bekezdés szerinti kártalanításra a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
 
 ### Radioaktív hulladék, kiégett üzemanyag tárolása
 
@@ -1624,6 +1632,7 @@ alkalmazásával kell megállapítani.
 - b) az első előzetes leszerelési terv költsége kivételével valamennyi, az atomerőmű, továbbá a kiégett üzemanyag átmeneti tárolója leszerelésével,
 - c) a 10/A. § (2) bekezdése szerint az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatással,
 - d) a Központi Nukleáris Pénzügyi Alap létrejöttét megelőzően létesített radioaktívhulladék-tárolóban a 63/A. § szerinti befizetési kötelezettségből származó bevételből nem fedezett, a véglegesen elhelyezett radioaktív hulladék tárolásával, a tároló biztonságnövelésével és üzemeltetésével, valamint
+- e) az atomerőmű tervezett üzemidőn túli üzemeltetést követő további üzemeltetésével összefüggő, a nemzeti program szerinti alternatív forgatókönyvek megvalósítását előkészítő tevékenységekkel
 
 együtt járó költségeket.
 

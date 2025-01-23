@@ -423,7 +423,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - k)
 - l)
 - m) az európai rendszer-együttműködésből a magyar villamosenergia-rendszerre nézve keletkező feladatok összehangolása,
-- n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása, beleértve az átviteli hálózati csomópontokon kiadható kapacitás mértékének a hathavi rendszerességgel történő meghatározását és hozzáférhetővé tételét is,
+- n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása – a csatlakozás földrajzi elhelyezkedését, a csatlakozási díj hozzávetőleges mértékét, a rugalmas hálózati csatlakozási szerződés lehetőségét is ideértve –, beleértve az erőművi hálózati hozzáférés érdekében átviteli hálózaton kiadható csatlakozási kapacitás mértékének a meghatározását is,
 - o) a keresletoldali szabályozási intézkedéseknek a villamosenergia-ellátási szabályzatokban meghatározott összehangolása és ösztönzése,
 - p) az átviteli hálózattal kapcsolatos valamennyi díj, a 2019/943/EU rendelet 49. cikke és a 838/2010/EU európai bizottsági rendelet szerinti, az átviteli rendszerüzemeltetők közötti ellentételezési mechanizmus keretében előírt kifizetések teljesítése, és ennek keretében az átviteli rendszerirányítót megillető bevételek, továbbá a szűk keresztmetszetek kezeléséért felszámított díjak beszedése és elszámolása,
 - q) Vhr.-ben meghatározott pénzügyi biztosítékok meglétének folyamatos figyelemmel kísérése, és a Vhr.-ben meghatározott esetekben a Hivatal tájékoztatása,
@@ -4243,6 +4243,8 @@ rendeletben állapítsa meg.
 - 22. a REMIT 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit
 - 23. a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználását elősegítő kötelező átvételi rendszerben és prémium típusú támogatási rendszerben kiosztható új támogatási jogosultságok maximális mértékét,
 - 24. a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználását elősegítő prémium típusú támogatás kiosztására irányuló pályázat kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait
+- 25. közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárás kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, a kiosztható szabad kapacitások meghatározásának módját, valamint a pályázati eljárás szabályait,
+- 26. az energetikai adatszolgáltató platform működtetője által kezelt háztartási méretű kiserőművek nem elszámolási célú adatok kezelésének részletes műszaki előírásainak meghatározását
 
 rendeletben állapítsa meg.
 
