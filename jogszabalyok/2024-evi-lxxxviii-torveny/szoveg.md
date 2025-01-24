@@ -16,44 +16,17 @@ az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról
 
 #### 6. §
 
-7. § Az atomenergiáról szóló 1996. évi CXVI. törvény 34. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
+#### 7. §
 
-„(2a) A nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez, telephelyjellemzőinek és alkalmasságának megállapításához, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez, telepítéséhez az engedélyes a hatásterületen lévő idegen ingatlanokon jogosult az engedélyben meghatározott célból műszeres mérések, vizsgálatok, fúrások elvégzésére, mintavételezésre, valamint kutatólétesítmény kivitelezésére.
+#### 8. §
 
-(2b) A (2a) bekezdés szerinti ingatlan tulajdonosa – ideértve kezelőjét és használóját is – köteles tűrni, hogy az engedélyes az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el, a meglévő kutatólétesítményt megközelítse. Az engedélyes e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat köteles megtéríteni.
-
-(2c) A (2b) bekezdés szerinti tevékenységnek minősül a szeizmikus mérések helyszínére történő behajtás, a mérési pontok és nyomvonalak kitűzése, a mérések elvégzése, ideértve a többdimenziós szeizmikus méréseket és a felvételezést is. A geofizikai mérések és a (2b) bekezdés szerinti tevékenységek elvégzése nem minősül a termőföld védelméről szóló törvényben meghatározott termőföld időleges más célú hasznosításának.”
-
-8. § Az atomenergiáról szóló 1996. évi CXVI. törvény 37. §-a helyébe a következő rendelkezés lép:
-
-„37. § (1) A biztonsági övezetben és a kutatási védőidomon belül elrendelt tilalmak és korlátozások fenntartása, valamint nukleáris létesítmény, illetve a radioaktívhulladék-tároló létesítése, továbbá a biztonsági övezetben és a kutatási védőidomon belül ezen létesítményekkel összefüggésben végzett munkálatok folytán keletkezett kárt meg kell téríteni.
-
-(2) Az (1) bekezdés és 34. § (2b) bekezdés szerinti kártalanításra a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.”
-
-9. § Az atomenergiáról szóló 1996. évi CXVI. törvény 63. § (2) bekezdése a következő e) ponttal egészül ki:
-
-(Atomerőmű esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze:)
-
-„e) az atomerőmű tervezett üzemidőn túli üzemeltetést követő további üzemeltetésével összefüggő, a nemzeti program szerinti alternatív forgatókönyvek megvalósítását előkészítő tevékenységekkel”
-
-(járó költségeket.)
+#### 9. §
 
 #### 10. §
 
 #### 11. §
 
-12. § Hatályát veszti az atomenergiáról szóló 1996. évi CXVI. törvény
-
-- a)
-- b)
-- c) 34. § (3) bekezdésében a „ , valamint a kártalanításra vonatkozó részletes szabályokat” szövegrész,
-- d)
-- e)
-- f)
-- g)
-- h)
-- i)
-- j)
+#### 12. §
 
 13. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
 

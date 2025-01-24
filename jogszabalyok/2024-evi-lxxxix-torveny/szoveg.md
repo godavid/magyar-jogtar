@@ -104,11 +104,7 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 38. §
 
-39. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 16. § n) pontja helyébe a következő rendelkezés lép:
-
-(Az átviteli rendszerirányító feladatai a villamosenergia-ellátás biztonságával, az átviteli és elosztó hálózatok üzemével kapcsolatban)
-
-„n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása – a csatlakozás földrajzi elhelyezkedését, a csatlakozási díj hozzávetőleges mértékét, a rugalmas hálózati csatlakozási szerződés lehetőségét is ideértve –, beleértve az erőművi hálózati hozzáférés érdekében átviteli hálózaton kiadható csatlakozási kapacitás mértékének a meghatározását is,”
+#### 39. §
 
 #### 40. §
 
@@ -212,25 +208,7 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 89. §
 
-90. § (1)
-
-(2)
-
-(3)
-
-(4) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdése a következő 25. és 26. ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„25. közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárás kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, a kiosztható szabad kapacitások meghatározásának módját, valamint a pályázati eljárás szabályait,
-
-26. az energetikai adatszolgáltató platform működtetője által kezelt háztartási méretű kiserőművek nem elszámolási célú adatok kezelésének részletes műszaki előírásainak meghatározását”
-
-(rendeletben állapítsa meg.)
-
-(5)
-
-(6)
+#### 90. §
 
 #### 91. §
 
