@@ -762,7 +762,7 @@ nem haladhatja meg.
 
 (6) A vezetői beosztást ellátó igazságügyi alkalmazottnak a vezetői megbízatása előtt betöltött munkaköre alapján kell a pótszabadságot megállapítani, ha a vezetőként járó pótszabadsága nem éri el a vezetői megbízatása előtt betöltött munkakörében neki járó pótszabadság mértékét.
 
-(7) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra az igazságügyi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
+(7) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra az igazságügyi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 (8) A (2) és az (5) bekezdésben meghatározott szabadság az igazságügyi alkalmazottat abban az évben illeti meg először, amikor az adott fizetési fokozatba besorolták, amikor a fizikai alkalmazott a (2) bekezdés e) pontjában meghatározott időt elérte, illetve amely évben vezetői beosztás ellátására kapott megbízást.
 
