@@ -1983,12 +1983,12 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 118. § (1) Ha a cégbíróság azt állapítja meg, hogy a céggel szemben követelés bejelentésére nem került sor, valamint a cég vagyonával kapcsolatos bejelentés vagy adatszolgáltatás nem érkezett, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget – a 116. § (1) bekezdés d) pontja szerinti esetben eltiltás mellőzése mellett – törli a cégjegyzékből.
 
-(2) Ha a céggel szemben a (3) bekezdés szerinti mértéket el nem érő összértékű követelés bejelentésére került sor, azonban a 117. § szerinti bejelentés, illetve a vagyonfelmérés adatai alapján a cég vagyontalan vagy a vagyona nem éri el a 400 000 forintot, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget törli a cégjegyzékből és rendelkezik az eltiltásról. A vezető tisztségviselő köteles gondoskodni a cég iratanyagának elhelyezéséről.
+(2) Ha a céggel szemben a (3) bekezdés szerinti mértéket el nem érő összértékű követelés bejelentésére került sor, azonban a 117. § szerinti bejelentés, illetve a vagyonfelmérés adatai alapján a cég vagyontalan vagy a vagyona nem éri el az 1 000 000 forintot, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget törli a cégjegyzékből és rendelkezik az eltiltásról. A vezető tisztségviselő köteles gondoskodni a cég iratanyagának elhelyezéséről.
 
 (3) A cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen a felszámolási eljárás megindítását azzal, hogy a 117. § (7) bekezdése szerinti költségek viselésére a céget kötelezi, ha
 
-- a) a céggel szemben bejelentett követelések összértéke eléri a 400 000 forintot, vagy
-- b) a céggel szemben követelés bejelentésére kerül sor, és a 117. § szerinti bejelentés vagy a vagyonfelmérés adatai alapján a cégbíróság megállapítja, hogy a cég vagyona eléri a 400 000 forintot.
+- a) a céggel szemben bejelentett követelések összértéke eléri az 1 000 000 forintot, vagy
+- b) a céggel szemben követelés bejelentésére kerül sor, és a 117. § szerinti bejelentés vagy a vagyonfelmérés adatai alapján a cégbíróság megállapítja, hogy a cég vagyona eléri az 1 000 000 forintot.
 
 (3a) A cégbíróság a felszámolási eljárásban kirendelt felszámoló részére átadja a 117. § szerinti bejelentés és a vagyonfelmérés során beszerzett vagy rendelkezésére álló adatokat és iratokat.
 
@@ -2344,6 +2344,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 131/U. § (1) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XCVI. törvénnyel megállapított 36. § (2) bekezdését a 2024. január 1. napján és azt követően benyújtott cégbejegyzési (változásbejegyzési) kérelmekre kell alkalmazni.
 
 (2) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XCVI. törvénnyel megállapított 24. § (2) bekezdését a 2024. március 1. napján és az azt követően benyújtott cégbejegyzési (változásbejegyzési) kérelmekre kell alkalmazni.
+
+131/V. § E törvénynek az egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi LVI. törvénnyel módosított 118. § (2) bekezdését és (3) bekezdés a) és b) pontját azokban a kényszertörlési eljárásokban kell alkalmazni, amelyeknek kezdő időpontja e rendelkezések hatálybalépésének napja vagy azt követő időpont.
 
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
