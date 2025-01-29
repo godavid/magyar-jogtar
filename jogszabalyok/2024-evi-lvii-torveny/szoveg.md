@@ -87,11 +87,11 @@ sarkalatosnak minősül.
 
 #### 6. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-13. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 48. § (7) bekezdésében a „második hónap végéig” szövegrész helyébe a „negyedik hónap végéig” szöveg lép.
+#### 13. §
 
 #### 7. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-14. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 55. § (3a) bekezdésében a „második hónap végéig” szövegrész helyébe a „negyedik hónap végéig” szöveg lép.
+#### 14. §
 
 #### 8. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 

@@ -72,19 +72,11 @@ egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáró
 
 #### 22. §
 
-23. § A Ctv. a következő 131/V. §-sal egészül ki:
-
-„131/V. § E törvénynek az egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi LVI. törvénnyel módosított 118. § (2) bekezdését és (3) bekezdés a) és b) pontját azokban a kényszertörlési eljárásokban kell alkalmazni, amelyeknek kezdő időpontja e rendelkezések hatálybalépésének napja vagy azt követő időpont.”
+#### 23. §
 
 #### 24. §
 
-25. § A Ctv.
-
-- a) 118. § (2) bekezdésében az „a 400 000 forintot” szövegrész helyébe az „az 1 000 000 forintot” szöveg,
-- b) 118. § (3) bekezdés a) és b) pontjában az „a 400 000 forintot” szövegrész helyébe az „az 1 000 000 forintot” szöveg,
-- c)
-
-lép.
+#### 25. §
 
 #### 14. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
@@ -252,9 +244,7 @@ lép.
 
 #### 87. §
 
-88. § A Pmt. 46. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A pénzügyi információs egység operatív elemzése keretében tájékoztatást küldhet az 5. §-ban meghatározott felügyeletet ellátó szerv vagy a cégbíróság hatáskörébe tartozó eljárás lefolytatásához. A felügyeletet ellátó szerv vagy a cégbíróság a tájékoztatás pénzügyi információs egység általi elküldésével jogosultságot szerez a tájékoztatásban szereplő adat, titok megismerésére.”
+#### 88. §
 
 #### 89. §
 
