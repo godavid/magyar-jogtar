@@ -374,6 +374,8 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 
 (4e) A hitelesített energiamegtakarítások nyilvántartásában szereplő, egy adott évre elszámolható energiamegtakarítás adatait, ideértve a hitelesített energiamegtakarítás természetes személy jogosultjának nevét és címét a Hivatal a következő év március 31-ig az energiahatékonysági tájékoztató honlapján elérhetővé teszi.
 
+(4f) A Hivatal ellenőrzési tevékenységéért a hitelesítő szervezet felügyeleti díjat köteles fizetni, amelynek mértéke a hitelesített energiamegtakarítások nyilvántartásába felvezetett 1 GJ hitelesített energiamegtakarítás után az energiahatékonysági járulék 0,1%-a.
+
 (5) A hitelesítő szervezet hitelesítésével igazolja az egyéni fellépés tényleges megvalósulását, valamint azt, hogy az (1) bekezdés szerinti energiamegtakarítás megállapítása során megfelelően vették figyelembe az e törvény végrehajtására kiadott kormányrendelet szerinti átváltási tényezőket, számítási módszereket és elveket, a lényeges hozzájárulás meglétét, továbbá az energiamegtakarítás addicionális mértékét a tárgyévre és az azt követő évekre egyaránt.
 
 (6) Az addicionalitás kritériumait az e törvény végrehajtására kiadott kormányrendelet a szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszerei és elvei között rögzíti.
