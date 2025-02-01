@@ -91,9 +91,9 @@ az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt elt
 
 (2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a munkaviszony minden naptári napjára munkavállalónként
 
-- a) a 7. § (2) bekezdés a) pontja esetén a tárgyhónap első napján érvényes minimálbér 0,5 százaléka,
-- b) a 7. § (2) bekezdés b) pontja esetén a tárgyhónap első napján érvényes minimálbér 1 százaléka,
-- c) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakoztatása esetén a tárgyhónap első napján érvényes minimálbér 3 százaléka,
+- a) a 7. § (2) bekezdés a) pontja esetén a tárgyhónap első napján érvényes minimálbér 0,75 százaléka,
+- b) a 7. § (2) bekezdés b) pontja esetén a tárgyhónap első napján érvényes minimálbér 1,5 százaléka,
+- c) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatása esetén a tárgyhónap első napján érvényes minimálbér 3 százaléka,
 
 azzal, hogy a mértéket száz forintra kerekítve kell meghatározni.
 
@@ -137,8 +137,9 @@ napibérként meghatározott összege 130 százalékának szorzatát (a további
 
 (2) A nyugellátás számítási alapja
 
-- a) a 8. § (2) bekezdés a) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 1,4 százaléka,
-- b) a 8. § (2) bekezdés b) és c) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,8 százaléka,
+- a) a 8. § (2) bekezdés a) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,1 százaléka,
+- b) a 8. § (2) bekezdés b) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 4,2 százaléka,
+- c) a 8. § (2) bekezdés c) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,8 százaléka,
 
 azzal, hogy az ellátási alapot száz forintra kerekítve kell meghatározni.
 
@@ -224,7 +225,11 @@ rendeletben szabályozza.
 
 20. § E törvénynek az egyes törvényeknek a mozgóképipar versenyképességének növelésével összefüggő módosításáról szóló 2020. évi CLXXVIII. törvénnyel megállapított 2. § 8. pontja, 4. § (2) bekezdése és 8. § (2) bekezdése szerinti rendelkezések a 2020. december 31-ét követően megszerezett bevétel adókötelezettségére alkalmazhatóak első alkalommal.
 
-#### 21. §
+21. § (1) A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 8. § (2) bekezdését és 10. § (2) bekezdését a 2025. február 1-jét követően keletkezett, e törvény szerinti foglalkoztatási jogviszonyok esetében kell alkalmazni.
+
+(2) A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 1. § (4) bekezdését 2025. július 1-jétől kell alkalmazni úgy, hogy a 2025. évben a foglalkoztatás időtartamának számításakor annak 120 naptári napos korlátját 2025. július 1-jétől kell figyelembe venni.
+
+(3) A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 8. § (2) bekezdése szerint megállapított közterhek mértékét és a nyugellátás 10. § (2) bekezdése szerint meghatározott alapját az állami adóhatóság 2025. január 20-áig honlapján és a Magyar Közlönyben közzéteszi.
 
 #### 22. §
 

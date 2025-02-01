@@ -77,6 +77,8 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (3) A tárolóelemmel rendelkező állandó személyazonosító igazolvány a 6. § (1)–(3) bekezdése szerinti azonosító kódot elektronikusan hitelesen igazolja, amennyiben a külön törvényben meghatározottak szerint a tároló elem azt tartalmazza.
 
+(4) A polgár a 6. § (1)–(3) bekezdése szerinti azonosító kódot a digitális állampolgárság szolgáltató által digitálisan előállított hitelesített igazolással igazolhatja.
+
 9. § (1) Az adóazonosító jel és a Társadalombiztosítási Azonosító Jel képzése és az ezekről szóló hatósági igazolványnak a polgár részére első alkalommal történő kiadása díjmentes.
 
 (2) Díjmentesen kell kiadni az (1) bekezdésben meghatározott hatósági igazolványt akkor is, ha a korábban kiadott igazolványban szereplő adat megváltozott, téves, illetve a megváltozott adat beírására szolgáló rovat betelt, vagy ha annak kiadása eltulajdonítás miatt válik szükségessé.
@@ -300,6 +302,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - e) TAJ szám,
 - f) a hatósági bizonyítvány kiállításának időpontja.
 
+(5a) Ha jogszabály a TAJ szám igazolására a TAJ számról szóló hatósági igazolvány bemutatását írja elő, az a 8. § (4) bekezdés szerinti digitálisan előállított hiteles formában is bemutatható.
+
 (6) E törvény 8. §-ának (1) bekezdése szerinti hatósági igazolvánnyal esik egy tekintet alá a külön törvény szerint kiállított, az egészségügyi szolgáltatásra való jogosultságot is igazoló okirat.
 
 (7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát és nemét, lakcímét, valamint ha a Magyarországon élő magyar állampolgár újszülött intézetben született, ennek tényét közli a kincstárral a TAJ szám képzésével és nyilvántartásával kapcsolatos, valamint az anyasági támogatás és a családi pótlék hivatalból történő megállapításával, a kérelmek elbírálásával összefüggő feladatok ellátása céljából.
@@ -308,7 +312,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 (7b) Amennyiben az újszülött – a titkolt terhesség, valamint a szülőnek az újszülött örökbefogadásához adott hozzájárulás esete kivételével – intézetben született, Magyarországon élő magyar állampolgár, a kincstár a (7) bekezdésben meghatározott adatainak átadását követően haladéktalanul TAJ számot képez, és erről adatot szolgáltat az egészségbiztosítási nyilvántartásokat vezető szerv részére. Az egészségbiztosítási nyilvántartásokat vezető szerv az adatok átadását követő 8 órán belül gondoskodik az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány tároló elemén a TAJ szám elhelyezése céljából a TAJ számnak, valamint a hivatalból kiállításra kerülő TAJ számot tartalmazó hatósági igazolvány adatainak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő megküldéséről.
 
-(7c) Az egészségbiztosítási szerv a TAJ számot tartalmazó hatósági igazolványt hivatalból állítja ki a Magyarországon házasságot kötött magyar állampolgár részére, amennyiben a polgár a házasságkötést követően a korábban viselt nevétől eltérő házassági nevet visel. Az egészségbiztosítási nyilvántartásokat vezető szerv a házasságkötésből eredő névváltozásra vonatkozó, a személyiadat- és lakcímnyilvántartás szerve általi adatszolgáltatást követően gondoskodik a hivatalból kiállításra kerülő TAJ számot tartalmazó hatósági igazolvány adatainak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő megküldésről.
+(7c)
 
 (8) Amennyiben a rendőrség tudomást szerez a TAJ számot tartalmazó hatósági igazolvány eltulajdonításáról, haladéktalanul értesíti az egészségbiztosítási szervet.
 

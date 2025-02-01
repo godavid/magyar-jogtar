@@ -69,19 +69,19 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 (4) Ha a kitöltetlen vezetői engedély eltűnéséről, elvesztéséről, eltulajdonításáról vagy az eltűnt kitöltetlen okmány megkerüléséről értesül, a nyilvántartó a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés elhelyezéséről, illetve törléséről.
 
-4/A. § (1) Kategóriára vonatkozó vezetési jogosultság Magyarországon történő megszerzése, valamint magyar vezetői engedély érvényességi idejének meghosszabbítása esetén a nyilvántartó hivatalból, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatali eljárásban bejegyzi a járművezetési jogosultságot az engedély-nyilvántartásba, ha a járművezető a vezetői engedély kiállításához szükséges összes feltételt teljesítette.
+4/A. § (1) Kategóriára vonatkozó vezetési jogosultság Magyarországon történő megszerzése, valamint magyar vezetői engedély érvényességi idejének meghosszabbítása esetén a nyilvántartó kérelemre, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatali eljárásban bejegyzi a járművezetési jogosultságot az engedély-nyilvántartásba, ha a járművezető a vezetői engedély kiállításához szükséges összes feltételt teljesítette.
 
-(2) Az (1) bekezdésben meghatározott esetekben a nyilvántartó hivatalból gondoskodik a vezetői engedélynek a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatali eljárás útján történő (a továbbiakban: automatikus) kiállításáról, ha a járművezető a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tett.
+(2) Az (1) bekezdésben meghatározott esetekben a nyilvántartó gondoskodik a vezetői engedélynek a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatali eljárás útján történő (a továbbiakban: automatikus) kiállításáról.
 
-(3) A nyilvántartó házasságkötésből eredő névváltozás esetén, a személyiadat- és lakcímnyilvántartást kezelő szerv által továbbított adatok alapján hivatalból gondoskodik a vezetői engedély automatikus kiállítás útján történő cseréjéről, ha a járművezető a vezetői engedély kiállításához szükséges összes feltételt teljesítette, továbbá az anyakönyvvezetőnél a vezetői engedély automatikus kiállításához szükséges nyilatkozatokat megtette és a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tett.
+(3)
 
 4/B. § Ha a vezetői engedély 4/A. §-ban foglaltak szerinti automatikus kiállítása valamely jogszabályi feltétel hiánya miatt akadályba ütközik, arról a nyilvántartó a személyre szabott ügyintézési felületen keresztül értesíti az ügyfelet.
 
-4/C. § A nyilvántartó házasságkötésből eredő névváltozás esetén, a személyiadat- és lakcímnyilvántartást kezelő szerv által továbbított adatok alapján hivatalból gondoskodik a forgalmi engedély és törzskönyv automatikus kiállítás útján történő cseréjéről, ha az okmány jogosultja az okmány kiállításához szükséges összes feltételt teljesítette, és a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tesz.
+#### 4/C. §
 
-4/D. § A nyilvántartó a 4/A. §-ban foglalt esetekben hivatalból gondoskodik az okmányok kiállításáról, ha a hivatalbóli okmánykiállítás akadálya elhárult.
+4/D. § A nyilvántartó a 4/A. §-ban foglalt esetekben kérelemre gondoskodik az okmányok kiállításáról, ha az automatikus okmánykiállítás akadálya elhárult.
 
-4/E. § A vezetői engedély és a törzskönyv hivatalbóli kiállításáról a nyilvántartó a megszemélyesítést végző szervezet útján, az állandó forgalmi engedély hivatalbóli kiállításáról az okmány jogosultjának lakó-, ennek hiányában tartózkodási vagy szálláshelye szerint illetékes közlekedési igazgatási hatóság útján gondoskodik.
+4/E. § A vezetői engedély és a törzskönyv automatikus kiállításáról a nyilvántartó a megszemélyesítést végző szervezet útján, az állandó forgalmi engedély automatikus kiállításáról az okmány jogosultjának lakó-, ennek hiányában tartózkodási vagy szálláshelye szerint illetékes közlekedési igazgatási hatóság útján gondoskodik.
 
 4/F. § A 4/A–4/E. §-ban foglalt esetekben eljáró hatóság az okmány jogosultjának lakó-, ennek hiányában tartózkodási helye vagy szálláshelye szerint illetékes közlekedési igazgatási hatóság.
 
@@ -126,7 +126,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - cb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása számára a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
   - cc) a ca) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, és a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
 
-(3) A személyiadat- és lakcímnyilvántartást kezelő szerv a Magyarországon házasságot kötött magyar állampolgár esetén továbbítja a nyilvántartó részére a vezetői engedély, törzskönyv, forgalmi engedély házasságkötésből eredő névváltozás miatti, hivatalbóli cseréjéhez szükséges adatokat.
+(3)
 
 5/A. § (1) A közúti közlekedés ellenőrzésére jogosult hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott esetekben a vezetési jogosultság azonnali felfüggesztését a helyszínen bejegyzi az engedély-nyilvántartásba.
 
@@ -140,9 +140,9 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 - b) ha a vezetői engedély automatikus kiállítása visszautasításra került,
 - c) ha a vezetői engedély automatikus kiállításának ügyfél által elhárítható akadálya van.
 
-(1a) Az ügyfél a vezetői engedély elektronikus pótlása iránti kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe. A közlekedési igazgatási hatóság ebben az esetben írásban tart kapcsolatot az ügyféllel.
+(1a)
 
-(1b) A nyilvántartó az elektronikus ügyintézési ponton történő személyazonosítás céljából a járművezető engedély-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
+(1b)
 
 (2) A nyilvántartónak
 
@@ -152,6 +152,8 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 (3) A 3–5. §-ban meghatározott feladatok ellátásával kapcsolatos eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
 (4) A kérelemre induló, azonnal elintézhető eljárások esetén az ügyintézési határidő a kérelem benyújtásának napján kezdődik.
+
+(4a) A vezetői engedély automatikus kiállítása iránti kérelem akkor tekinthető benyújtottnak, amikor az okmány kiállításához szükséges valamennyi feltétel fennállása a közúti közlekedési nyilvántartásból megállapítható.
 
 6/A. § (1) A közlekedési igazgatási hatóság haladéktalanul intézkedik a vezetési jogosultság szünetelésének, valamint a vezetői engedély visszavonásának engedély-nyilvántartásba történő bejegyzése iránt azokban az esetekben, amelyekben a vezetési jogosultság szünetelésének kezdő időpontja a határozat meghozatalánál korábbi időpontra esik.
 
@@ -439,7 +441,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - j)
 - k) a vizsgálatot végző szerv elektronikus úton a 8. § (1) bekezdés a) pont ae) alpontjában meghatározott egészségi alkalmassági adatokról és azok változásáról az Elektronikus Egészségügyi Szolgáltatási Téren keresztül,
 - l) a Magyar Vöröskereszt fővárosi, vármegyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
-- m) a személyiadat- és lakcímnyilvántartást kezelő szerv a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, az anyakönyvvezetőnél a házasságkötési szándék bejelentésekor tett nyilatkozatairól.
+- m)
 - n) a kötvénynyilvántartó szerv elektronikusan a 9. § (2a) bekezdésében, illetve a 9/D. § (4a) bekezdésében meghatározott adatokról.
 
 (3) A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyszolgáltatás kijelölt szolgáltatója a nyilvántartó természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a nyilvántartó részére a természetes személy kapcsolati kódját és tárhely-azonosítóját. Az adatszolgáltatás adatait a nyilvántartó a járművezetővel vagy járművezető-jelölttel, a jármű tulajdonosával (üzembentartójával), valamint a parkolási igazolvány jogosultjával való elektronikus úton történő kapcsolatfelvételre használhatja fel.
@@ -552,7 +554,7 @@ A NYILVÁNTARTÁSBÓL
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (4) bekezdése, valamint a 9/D. § (1) bekezdése szerinti adatokat;
 - r) az országos közutak kezelői a Kkt. 15. § (1) bekezdésében meghatározott közútkezelői hozzájárulás kiadására és a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésében, a (2) bekezdés a) és b), valamint d) és e) pontjában, a 9/C. § (1) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 - s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1) és (1a) bekezdésében, valamint a 9/D. § (1) bekezdésében megjelölt adatokat,
-- t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása, vagy a névváltozási eljárással összefüggő feladatainak ellátása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
+- t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 - u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, a (2) bekezdés a)–c) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, a (2) bekezdés a)–b) pontjában és (3) bekezdésében, valamint a gyermekvédelmi és gyámügyi hatáskört gyakorló szerv a vagyoni helyzet vizsgálata céljából, a 9. § (1) bekezdés a), b) és e) pontjában, és a (2) bekezdés a)–c) pontjában megjelölt adatokat térítésmentesen;
 - v) a hulladékgazdálkodási hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a)–b) és d)–e) pontjában, valamint a 9/D. § (1) bekezdésében megjelölt adatokat.
 - w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
@@ -577,7 +579,7 @@ A NYILVÁNTARTÁSBÓL
 - i) a szociális hatóság a pénzbeli és természetbeni ellátások megállapításához a 9. § (1) bekezdésében foglalt adatokat,
 - j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához a 9. § (1)–(1b) bekezdésében foglalt adatokat,
 - k) a környezet- és természetvédelmi hatóság a környezetkárosítást végzők beazonosítása érdekében a 9. § (1) bekezdésében foglalt adatokat,
-- l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
+- l) a nyilvántartó által megbízott megszemélyesítést végző szervezet ingyenesen az automatikus úton kiállított vezetői engedély, törzskönyv és forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez az okmányra kerülő adatok tekintetében,
 - m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
 - n) a közlekedési hatóság a digitális tachográf kártya kiadásához a 8. § (1) bekezdés a) pont aj) alpontjában, a 8. § (1) bekezdés b) pont ba)–bc) alpontjában lévő adatokat.
 
@@ -933,7 +935,18 @@ bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (5) A nyilvántartásba és a vizsgálat eredményét igazoló okiratba a jogszabályban meghatározott feladatainak ellátása érdekében a rendőrhatóság betekinthet.
 
-34/A. § Az ügyfelet költségmentesség illeti meg az eltulajdonítás miatt hivatalból átmeneti időszakra forgalomból kivont jármű forgalomba helyezése iránt benyújtott kérelem alapján indult eljárásban.
+34/A. § (1) Igazgatási szolgáltatási díjat kell fizetni a jogszabályban meghatározott esetek kivételével az alábbi eljárásokért:
+
+- a) a vezetői engedély kiállítása és pótlása,
+- b) a törzskönyv kiállítása és pótlása,
+- c) a forgalmi engedély kiállítása és pótlása,
+- d) a b) és c) pont alá nem tartozó közlekedési igazgatási hatósági eljárások,
+- e) az egyes rendszámtáblákkal és a hatósági jelzéssel összefüggő eljárások,
+- f) az előzetes eredetiségvizsgálat elvégzése.
+
+(2) Az ügyfelet költségmentesség illeti meg az eltulajdonítás miatt, hivatalból, átmeneti időszakra forgalomból kivont jármű forgalomba helyezése iránt benyújtott kérelem alapján indult eljárásban.
+
+(3) Az (1) bekezdés a) pontjában foglalt esetekben az ügyfelet költségmentesség illeti meg, amennyiben a vezetői engedély kiállítására automatikus eljárás keretében kerül sor.
 
 ### VI. Fejezet — ÁTMENETI, ZÁRÓ, FELHATALMAZÓ RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
