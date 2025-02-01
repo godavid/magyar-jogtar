@@ -551,11 +551,11 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 (3) A helyi önkormányzatok általános működésének és ágazati feladatainak ellátásához járó támogatás jogosulatlan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából a 2. melléklet 1.1.2. Nem közművel összegyűjtött háztartási szennyvíz ártalmatlanítása jogcím, 1.2. A települési önkormányzatok egyes köznevelési feladatainak támogatása jogcím, 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím, 1.3.4. A települési önkormányzatok által biztosított egyes szociális szakosított ellátások, valamint a gyermekek átmeneti gondozásával kapcsolatos feladatok támogatása jogcím, és az 1.4. A települési önkormányzatok gyermekétkeztetési feladatainak támogatása jogcím szerinti támogatások együttes összegét kell figyelembe venni.
 
-(4)
+(4) Az önkormányzat a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulás fizetési kötelezettségének beszámítása a települési önkormányzat számára folyósítandó támogatás havi összegéből a nettó finanszírozás keretében történik. Ennek összegét a IX. Helyi önkormányzatok támogatásai fejezet, 4. Önkormányzati szolidaritási hozzájárulás címen kell elszámolni.
 
-(5)
+(5) Az önkormányzat a helyi iparűzési adóbevétel többlete alapján törvényben meghatározott fizetési kötelezettségének beszámítása a települési önkormányzat számára folyósítandó támogatás összegéből a nettó finanszírozás keretében történik. Ennek összegét a XXV. Közigazgatási és Területfejlesztési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 8. Területfejlesztési Alap alcímen kell elszámolni.
 
-(6)
+(6) Ha a települési önkormányzatot az (1) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (4) és (5) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a Kincstár az Áht. 83. § (3) bekezdése alapján havonta beszedési megbízást nyújt be a települési önkormányzattal szemben. Ha a települési önkormányzatnak 2025. december 16-án bármilyen elmaradása van a (4) és (5) bekezdés szerinti befizetési kötelezettsége tekintetében, a Kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára beszedési megbízást nyújt be.
 
 #### 16. A helyi önkormányzatok adósságrendezési eljárásának indításával kapcsolatos szabály
 
@@ -1839,7 +1839,24 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 - 61.3. A támogatást a vármegyei hatókörű városi könyvtár a Könyvtárellátási Szolgáltató Rendszer (a továbbiakban: KSZR) működtetésére használhatja fel.
 - 61.4. Ha a vármegyei hatókörű városi könyvtár a KSZR működtetésére megállapodást köt a városi könyvtárral, a városi könyvtár által ellátott feladatok költségeinek fedezetéről e támogatás keretei között a vármegyei hatókörű városi könyvtár gondoskodik.
-- 62.
+- 62. 4. Önkormányzati szolidaritási hozzájárulás jogcím
+- 62.1. A 25 000 forint feletti egy lakosra jutó iparűzési adóerő-képességgel rendelkező önkormányzat az egy lakosra jutó iparűzési adóerő-képességétől függő mértékű szolidaritási hozzájárulást teljesít a központi költségvetésnek. A szolidaritási hozzájárulás alapja az önkormányzat 1.3. pont szerinti iparűzési adóerő-képességet meghatározó adóalapja (a továbbiakban: a szolidaritási hozzájárulás alapja). A szolidaritási hozzájárulás központi költségvetés felé történő teljesítése a nettó finanszírozás keretében történik.
+- 62.2. A szolidaritási hozzájárulás számításakor alkalmazandó paramétertábla:
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+|  | Kategóriák az önkormányzat egy lakosra jutó iparűzési adóerő-képessége szerint (forint) |  | Hozzájárulás mértéke a szolidaritási hozzájárulás alapjának százalékában |  |
+|  | alsó határ | felső határ | minimum | maximum |
+| 1 | 0 | 25 000 | 0 | 0 |
+| 2 | 25 001 | 50 000 | 0 | 0,40 |
+| 3 | 50 001 | 58 000 | 0,40 | 0,50 |
+| 4 | 58 001 | 78 000 | 0,50 | 0,60 |
+| 5 | 78 001 | 102 000 | 0,60 | 0,67 |
+| 6 | 102 001 | 950 000 | 0,67 | 0,75 |
+
+- 62.3. A szolidaritási hozzájárulás az alábbi képlet alapján határozható meg: SZH = SZHA * [ C + (AE - A)/(B - A) * (D - C) ] / 100, egész számra kerekítve - KT, de értéke legalább 0 ahol: SZH = szolidaritási hozzájárulás fizetendő összege, SZHA = szolidaritási hozzájárulás alapja, AE = az önkormányzat egy lakosra jutó iparűzési adóerő-képessége, ami alapján a szolidaritási hozzájárulás mértékének számításakor alkalmazandó 62.2. pont szerinti paramétertábla megfelelő sora alkalmazandó, A-D = a szolidaritási hozzájárulás számításakor alkalmazandó 62.2. pont szerinti paramétertábla oszlopai szerinti érték, KT = 600 fő lakosságszám alatti települések esetében alkalmazandó korrekciós tényező, amelynek összege 12,0 millió forint.
+- 62.4. Amennyiben a település közös hivatal székhelye, a 62.2. pont szerinti paramétertábla 2-6 sorai szerinti kategóriákban a rá irányadó százalékos mérték 0,05 százalékponttal kisebb.
+- 62.5. Az államháztartásért felelős miniszter az önkormányzati szolidaritási hozzájárulás e pont szerint számított önkormányzatonkénti összegét rendeletben teszi közzé.
 
 ### 3. melléklet a 2024. évi XC. törvényhez
 

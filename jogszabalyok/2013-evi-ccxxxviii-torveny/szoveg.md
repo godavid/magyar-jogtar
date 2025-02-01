@@ -687,6 +687,8 @@ alapján megállapítja a választás eredményét.
 
 (5) A Ve. 233. § alkalmazása során az alkotmányjogi panasz benyújtására és az Alkotmánybíróság döntéseire rendelkezésre álló határidő öt munkanap; közös eljárás esetén az alkotmányjogi panasz benyújtására rendelkezésre álló határidő három nap, az Alkotmánybíróság döntéseire rendelkezésre álló határidő három munkanap.
 
+(6) A 77. § (2) bekezdés b) és c) pontja szerinti részeredményt megállapító döntés elleni jogorvoslatnak csak a Nemzeti Választási Bizottságnak a népszavazás eredményét megállapító döntése elleni bírósági felülvizsgálati kérelem keretében van helye.
+
 ### VI. Fejezet — A HELYI NÉPSZAVAZÁSI ELJÁRÁS
 
 80. § (1) A helyi népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 307/A. § és a 307/B. § rendelkezéseit is.

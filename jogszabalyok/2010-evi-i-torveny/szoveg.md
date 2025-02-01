@@ -294,7 +294,7 @@ az irányadó.
 
 (3) A magyarországi lakcímmel nem rendelkező házasuló vagy – ha a házasulók egyike sem rendelkezik magyarországi lakcímmel – az egyikük a házassági szándékát személyesen hivatásos konzuli tisztviselőnél is bejelentheti, amelyről a konzuli tisztviselő jegyzőkönyvet vesz fel, és azt a házasságkötés tervezett helye szerinti anyakönyvvezetőnek továbbítja.
 
-(3a) A hivatásos konzuli tisztviselőnél tett szándékbejelentés esetén a 20. § (2) bekezdésében meghatározott adatok felvételezésére nem kerül sor, hivatalból nem kerülnek kiállításra személyazonosság igazolására alkalmas hatósági igazolványok.
+(3a)
 
 (4) A kiskorú számára a gyámhatóság által kiadott előzetes házasságkötési engedély a kiadástól számított hat hónapig érvényes.
 
@@ -322,19 +322,19 @@ az irányadó.
 
 (2) A hivatali munkaidőn kívül történő házasságkötésben közreműködő anyakönyvvezetőt választása szerint a közszolgálati tisztviselőkről szóló törvényben meghatározott szabadidő helyett az önkormányzati rendeletben meghatározott mértékű díjazás illeti meg.
 
-### A házasulók bejelentése a névviselésről és a hivatalból kiállításra kerülő okmányokhoz szükséges adatok felvételezése
+### A házasulók bejelentése a névviselésről
 
 20. § (1) A házasulók a házassági szándék bejelentésekor nyilatkoznak arról, hogy a házasságkötés után milyen házassági nevet kívánnak viselni. A nyilatkozat a házasság megkötéséig egy alkalommal, legkésőbb a házasságkötés tervezett időpontját megelőző ötödik munkanapig megváltoztatható.
 
-(2) Ha a magyar állampolgár házasuló a házasságkötést követően nem a születési nevét vagy a házasságkötés előtt közvetlenül viselt nevét kívánja viselni, az anyakönyvvezető a házasságkötési szándék bejelentésével egyidejűleg – ha hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tesz a házasuló – felvételezi a hivatalból kiállításra kerülő személyazonosság igazolására alkalmas hatósági igazolványok kiállításához szükséges arcképmást, aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot.
+(2)
 
 (2a) Ha a magyar állampolgár házasuló a házasságkötést követően nem a házasságkötés előtt közvetlenül viselt nevét kívánja viselni, az anyakönyvvezető a házasságkötési szándék bejelentésével egyidejűleg tájékoztatja a házasulót a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 11. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
 
-(3) Ha a házasuló a házasság megkötéséig megváltoztatja a házassági név viselésére vonatkozóan tett nyilatkozatát, az anyakönyvvezető intézkedik az új nyilatkozatnak megfelelő aláírás, valamint szükség esetén a (2) bekezdésben meghatározott valamennyi adat felvételezéséről.
+(3)
 
-(4) A házasságkötési szándék bejelentését követően a házasuló hivatalbóli okmánykiállítást megakadályozó nyilatkozatot egy alkalommal, legkésőbb a házasságkötés tervezett időpontját megelőző ötödik munkanapig tehet.
+(4)
 
-(5) Közeli halállal fenyegető egészségi állapot esetén a (2) bekezdésben meghatározott adatok felvételezésére nem kerül sor, hivatalból nem kerülnek kiállításra személyazonosság igazolására alkalmas hatósági igazolványok.
+(5)
 
 ### Megállapodás a gyermek családi nevéről
 
@@ -1569,11 +1569,11 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 (1a) A nyilvántartó szerv az (1) bekezdés szerinti értesítéssel egyidejűleg továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiállításához szükséges adatokat a személyiadat- és lakcímnyilvántartásnak.
 
-(1b) A nyilvántartó szerv a házasságkötés bejegyzését követően – ha hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tett a házasuló – a hivatalból kiállításra kerülő személyazonosság igazolására alkalmas hatósági igazolványok kiállításához szükséges arcképmást, aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot haladéktalanul továbbítja a személyiadat- és lakcímnyilvántartásnak.
+(1b) A nyilvántartó szerv az (1a) bekezdés szerinti adatokat annak továbbításáig vagy az (1c) bekezdésben meghatározott törlés időpontjáig kezeli.
 
-(1c) A nyilvántartó szerv az arcképmás, az aláírás, illetve az ujjnyomat adatot annak továbbításáig vagy az (1d) bekezdésben meghatározott törlés időpontjáig kezeli. Adattovábbítás kizárólag a személyiadat- és lakcímnyilvántartás részére teljesíthető.
+(1c) A nyilvántartó szerv, ha az (1a) bekezdés szerinti hivatalból kiállításra kerülő állandó személyazonosító igazolvány kiállításának akadálya van, haladéktalanul törli a kiállításához rögzített adatokat.
 
-(1d) A nyilvántartó szerv a 27. § (3) bekezdésében meghatározott esetben, valamint ha a hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiadásának akadálya van, haladéktalanul törli a hivatalból kiállításra kerülő személyazonosság igazolására alkalmas hatósági igazolványok kiállításához felvételezett arcképmást, aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot.
+(1d)
 
 (2) Ha az anyakönyv és a személyiadat- és lakcímnyilvántartás adattartalma eltér, az e törvényben foglalt eltérő rendelkezés hiányában, ellenkező bizonyításig az anyakönyvet kell hitelesnek tekinteni.
 
@@ -1748,7 +1748,9 @@ részletes szabályait rendeletben állapítsa meg.
 
 ### Átmeneti rendelkezések
 
-#### 98. §
+98. § (1) 2025. február 1. napjától nem kerülnek hivatalból kiállításra a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő házassági nevet felvevő, Magyarországon házasságot kötő magyar állampolgárok részére a személyazonosság igazolására alkalmas hatósági igazolványok, a forgalmi engedély, a törzskönyv, a személyi azonosítót és lakcímet igazoló hatósági igazolvány, a TAJ számról szóló hatósági igazolvány és az adóigazolvány.
+
+(2) A nyilvántartó szerv haladéktalanul törli az (1) bekezdésben felsorolt hatósági igazolványok kiállításához rögzített adatokat.
 
 #### 99. §
 

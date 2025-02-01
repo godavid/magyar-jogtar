@@ -110,13 +110,15 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 8. § (1) A magánútlevél érvényességének időtartama – a 7. § (5) bekezdésben foglalt kivétellel – az állampolgárnak az útlevél iránti kérelem benyújtásakor betöltött életkorától függően
 
-- a) 6 éves életkor betöltéséig 3 év;
-- b) 6–65 éves életkor közöttiek esetén – a (2) bekezdésben foglalt kivétellel – 5 év;
-- c) 65 éven felüliek esetén 10 év.
+- a) 6 éves életkor betöltéséig 3 év,
+- b) 6–18 éves életkor közöttiek esetén 5 év,
+- c) 18 éven felüliek esetén 10 év.
 
-(2) A 18–65 éves életkor közötti állampolgár részére a magánútlevél – kérelmére – 10 éves érvényességgel is kiállítható.
+(2) A magánútlevél kiállításáért, pótlásáért igazgatási szolgáltatási díjat kell fizetni, kivéve
 
-(3) Az (1) bekezdés a) és b) pontjában megállapított időtartamot az ügyfélnek az okmány kiállítását követő születésnapja hónapjától és napjától kell számítani. Az (1) bekezdés c) pontjában és a (2) bekezdésben megállapított időtartamot az ügyfélnek az okmány kiállítását megelőző születésnapja hónapjától és napjától kell számítani. Amennyiben a kiállítás napja a születésnap hónapjával és napjával megegyezik, úgy az érvényességi időt ezen időponttól kell számítani. Amennyiben az ügyfél február 29-én született és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a magánútlevél érvényességi ideje február 28-án jár le.
+- a) kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett eljárás esetén,
+- b) a korábbi okmány gyártáshibája esetén,
+- c) a korábbi okmány tároló elemének nem működése esetén, vagy ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az okmánynak az útiokmány-nyilvántartásban szereplő adatait.
 
 9. § (1) Az állampolgár a (2) és (2a) bekezdésben foglalt kivétellel egyidejűleg csak egy érvényes magánútlevéllel rendelkezhet.
 
@@ -127,6 +129,12 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 (3) A második magánútlevél az arra jogosító foglalkozás gyakorlásának időtartamáig, de legfeljebb – a 7. § (5) bekezdésben foglalt kivétellel – öt évig érvényes. A különös méltánylást érdemlő okból kiadott második magánútlevél érvényességi ideje öt év.
 
 (4) A (3) bekezdés szerinti időtartamokat az ügyfélnek az okmány kiállítását követő születésnapja hónapjától és napjától kell számítani. Amennyiben az ügyfél február 29-én született és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a második magánútlevél érvényességi ideje február 28-án jár le.
+
+(5) A második magánútlevél kiállításáért, pótlásáért igazgatási szolgáltatási díjat kell fizetni, kivéve
+
+- a) kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett eljárás esetén,
+- b) a korábbi okmány gyártáshibája esetén,
+- c) a korábbi okmány tároló elemének nem működése esetén, vagy ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az okmánynak az útiokmány-nyilvántartásban szereplő adatait.
 
 10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább- és hazautazásához ideiglenes magánútlevelet lehet kiállítani, ha az állampolgárnak a külföldre utazásra jogosító útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és az utazásig magánútlevél nem állítható ki vagy egyéb okból nem szerezhető be az utazás megkezdéséig.
 
@@ -145,6 +153,8 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (7) A kiskorú részére Magyarországra való hazatérés céljából kiállítandó ideiglenes magánútlevelet kérelmező szülő nyilatkozatot tehet a szülői felügyeleti jog gyakorlásáról abban az esetben, ha a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:186. § (1) bekezdés d) pontjának megfelelően a távollevő szülő tartózkodási helye nem ismert, vagy ténylegesen akadályozva van a szülői felügyelet ellátásában, illetve a vele való kapcsolatfelvétel a kérelmet benyújtó szülő részéről nem vezetett eredményre, és a Magyarországra való hazatérés késedelme a kiskorú számára aránytalan érdeksérelemmel járna.
 
+(8) Az ideiglenes magánútlevél kiállításáért igazgatási szolgáltatási díjat kell fizetni.
+
 ### A hivatalos útlevél
 
 11. § (1) A 7. § (5) bekezdésben foglalt kivétellel a hivatalos útlevél a jogosultságot megalapozó megbízatás vagy jogviszony időtartamára, de legfeljebb öt évig érvényes.
@@ -153,7 +163,11 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, a nemzetiségi szószóló, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
 
-(4)
+(4) A hivatalos útlevél kiállításáért, valamint a szolgálati és a hajós szolgálati útlevél pótlásáért igazgatási szolgáltatási díjat kell fizetni, kivéve
+
+- a) kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett eljárás esetén,
+- b) a korábbi okmány gyártáshibája esetén,
+- c) a korábbi okmány tároló elemének nem működése esetén, vagy ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az okmánynak az útiokmány-nyilvántartásban szereplő adatait.
 
 12. § (1) Diplomata-útlevélre jogosult
 
@@ -312,7 +326,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 21/A. § (1) Az útlevélhatóság erre irányuló kérelemre a magánútlevelet, valamint a második magánútlevelet soron kívüli, sürgősségi vagy – a 21/B. § (5a) bekezdésében foglalt kivétellel – azonnali eljárás keretében adja ki. A magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, továbbá az azonnali eljárásban történő kiadásának eljárási szabályait a Kormány rendeletben állapítja meg.
 
-(2) A magánútlevél, valamint a második magánútlevél soron kívüli, azonnali, illetve sürgősségi eljárásban történő kiadásáért és pótlásáért az ügyfél az illetékekről szóló törvényben meghatározott illetéken felül igazgatási szolgáltatási pótdíjat köteles fizetni.
+(2) A magánútlevél, valamint a második magánútlevél soron kívüli, azonnali, illetve sürgősségi eljárásban történő kiadásáért és pótlásáért az ügyfél a jogszabályban meghatározott igazgatási szolgáltatási díjon felül további igazgatási szolgáltatási pótdíjat köteles fizetni.
 
 (3) A magánútlevél és a második magánútlevél azonnali vagy sürgősségi eljárás keretében történő kiállítása esetén, illetve az ideiglenes magánútlevél kiállítása esetén az okmány kiállításának ügyintézési határideje a kérelem benyújtásának napján kezdődik.
 
@@ -338,21 +352,13 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (10) Ha a kérelmező a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti kérelem előterjesztésekor a személyazonossága igazolására útlevelet mutat be, és az útlevél tároló eleme tartalmaz második biometrikus adatot, a második biometrikus adatot az eljáró hatóság személyazonosítás céljából összeveti a polgár ujjnyomatával, kizárólag abból a célból, hogy a személyazonosság igazolására bemutatott útlevél és a polgár közötti kapcsolat kétséget kizáróan megállapítható legyen. Az eljáró hatóság az összevetés elvégzéséig kezelheti a második biometrikus adatot.
 
-(11) Az elektronikus ügyintézési pont útján felvett kérelem esetében az elkészült okmány átvétele kizárólag a kérelmező által személyesen történhet. Ennek során a személyazonosítást jogszabályban meghatározott automatizált ujjnyomat-összevetéssel is el kell végezni. Az eljáró hatóság az összevetés elvégzéséig kezeli a második biometrikus adatot.
+(11)
 
 21/C. § Ha az útlevélhatóság határozatának meghozatala az ügyfél magyar állampolgárságának megállapításától mint előkérdés előzetes elbírálásától függ, a közreműködő hatóság vagy az általános hatáskörű útlevélhatóság az eljárást felfüggeszti.
 
-21/D. § (1) Hivatalból történik az 5 vagy 10 éves érvényességi idővel kiállított, érvényes magánútlevéllel rendelkező polgár részére a magánútlevél kiállítása, ha házasságkötésére irányuló szándéka bejelentésekor a házasságkötést követően viselni kívánt, a korábbitól eltérő házassági név viselésére vonatkozó szándékáról nyilatkozik, és a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tesz.
+#### 21/D. §
 
-(2) A magánútlevél kiállítására csak abban az esetben kerülhet sor az (1) bekezdés szerinti hivatalbóli eljárás keretében, ha a magánútlevél lejárat szerinti érvényessége a házasságkötésre irányuló szándék bejelentésekor és a házasság megkötésének napján is fennáll.
-
-(3) Ha a házasságkötési szándék bejelentését követően a magánútlevél érvénytelenítésre kerül, akkor az (1) bekezdés szerinti eljárásban magánútlevél nem állítható ki.
-
-(4) A magánútlevél kiállításához szükséges arcképmás, aláírás és ujjnyomat adatokat az anyakönyvvezető veszi fel, a személyiadat- és lakcímnyilvántartást kezelő szerv továbbítja az okmány előállításához szükséges adatokat.
-
-(5) Az (1) bekezdés szerint hivatalból kiállításra kerülő okmány érvényességi ideje megegyezik a korábbi okmány érvényességi idejével, de legalább 5 év.
-
-21/E. § Elektronikus ügyintézési ponton végzett ügyintézés során az e törvényben foglaltakat a Kormány rendeletében meghatározott eltérésekkel kell alkalmazni.
+#### 21/E. §
 
 22. § (1)
 
@@ -419,7 +425,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 - j) a hivatalos útlevél – a hajós szolgálati útlevél kivételével – használatára jogosult személy diplomáciai rangját, a hivatalos útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímét,
 - k) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot,
 - l) a kérelem egyedi azonosítására szolgáló technikai azonosítóját,
-- m) az eljárás illetékének és igazgatási szolgáltatási pótdíjának az összegét, valamint a teljesítésének tényét,
+- m) az eljárás igazgatási szolgáltatási díjának, illetve pótdíjának az összegét, valamint a teljesítésének tényét,
 - n) az okmány kézbesítésének, illetve átvételének idejét, helyét, meghatalmazotti átvétel esetén az átvevő nevét és az átvételkor bemutatott okmány azonosítóját,
 - o) az ideiglenes magánútlevél esetében az a)–b) pont szerinti adatokat, az okmány számát, az ellenőrző sorszámot, a kiállítás idejét és okát, az érvényesség idejét és az utazás célországát,
 - p) a 7. § (7a) bekezdésében foglalt esetben a nemzetiségi névadatot.
@@ -434,7 +440,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 24/A. § (1) Az adatkezelő szerv útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
 
-- a) felügyeletet gyakorol a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselőjének, továbbá az anyakönyvvezető közreműködői tevékenysége felett,
+- a) felügyeletet gyakorol a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselőjének közreműködői tevékenysége felett,
 - b) biztosítja a nyilvántartásban kezelt adatok helyességét,
 - c) a nyilvántartásból a törvényben meghatározott feltételek fennállása esetén adatszolgáltatást teljesít,
 - d) végzi a figyelmeztető jelzés kezelésével kapcsolatos nyilvántartási és adattovábbítási feladatokat, valamint
@@ -498,11 +504,11 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (1d) Az adatkezelő szerv a szerencsejáték szervezéséről szóló törvény szerinti szervező részére a természetes személy által a magánútlevele alapján megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségének és az úti okmány érvényességének tényéről adatszolgáltatást teljesít a természetes személy személyazonosságának igazoló ellenőrzése céljából.
 
-(1e) Az adatkezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás céljából a polgár útiokmány-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
+(1e)
 
 (1f) Az adatkezelő szerv a közölt okmányazonosító adat alapján, az érintett családi és utónevét, állampolgárságát, az útlevél érvényességére vonatkozó adatot, az útlevél okmányazonosítóját, születési családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét átadja a természetes személy személyazonosságának ellenőrzése céljából a videotechnológián keresztül történő személyazonosítást végző szervezet részére.
 
-(1g) Az adatkezelő szerv a közölt természetes személyazonosító adatok alapján, az érintett úti okmánya érvényességének tényére és kiállítás szerinti érvényességi idejére vonatkozó adatokat átadja a házasságkötés miatt hivatalból történő okmánykiállításra való jogosultság megállapítása céljából az anyakönyvvezető részére.
+(1g)
 
 (1h) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat, továbbá az érintett saját kezű aláírását a Nemzeti Szakértői és Kutató Központ részére, az általa végzett igazságügyi szakértői tevékenység ellátása céljából átadja.
 
@@ -675,7 +681,7 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 - e) az adópolitikáért felelős miniszterrel egyetértésben az útiokmány-nyilvántartásból történő adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, megállapításának, megfizetésének, elszámolásának, kezelésének szabályait;
 - f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért és pótlásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 - g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát;
-- h)
+- h) az adópolitikáért felelős miniszterrel egyetértésben az útlevél kiadásáért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait.
 
 (3)
 

@@ -39,7 +39,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 (2) Az e törvény által meghatározott adatokról az egyes nyilvántartások személyi köre tekintetében, törvényekben meghatározott jogok érvényesítése és kötelezettségek teljesítése céljából elektronikus, illetve papíralapú nyilvántartást kell vezetni. Az adatkezelés alapelveinek megfelelően, különböző jogosultsági szintű hozzáféréssel biztosított az egyes szakterületek nyilvántartásai számára az azokban szereplő adatok kezelése.
 
-(3) Az egyes adatkezelők az általuk nyilvántartott adatok alapjául szolgáló eredeti iratokat vagy másolatait kezelik.
+(3) Az egyes adatkezelők az általuk nyilvántartott adatok alapjául szolgáló eredeti iratokat vagy azok másolatait vagy a digitális állampolgárság szolgáltató által hitelesített egyenértékű dokumentumokat kezelik.
 
 (4) Az e törvény szerint kezelt adatokat a minisztérium adatvédelmi és információszabadsággal összefüggő feladatokat ellátó szervezeti egységének kijelölt állománya, valamint az adatkezelő honvédelmi szervezet adatvédelmi tisztviselője az adatkezelési szabályok betartásának ellenőrzéséhez szükséges mértékben megismeri.
 
@@ -483,7 +483,7 @@ adatok.
 
 35. § (1) Az e fejezet szerinti nyilvántartásban kezelt adatokat és azok változásait az érintett az adatkezelő részére elektronikus úton vagy papíralapon, 8 munkanapon belül, illetve, ha a bejelentési kötelezettséget más jogszabály határozza meg, a jogszabályban meghatározott határidőig köteles bejelenteni.
 
-(2) Ha az (1) bekezdés szerint bejelentett adatváltozás alapján kezdeményezett eljárást az eredeti okirat vagy annak másolata alapján kell végrehajtani, az érintett az adatokat a személyes ügyintézés során az ügyfélszolgálaton az okirat eredeti példányának bemutatásával, elektronikus ügyintézés esetén az elektronikus rendszeren, elektronikus formában történő továbbításával igazolja. Ha jogszabály eltérően nem rendelkezik, az előírt eljárást az elektronikusan bejelentett adatközlés, illetve elektronikusan benyújtott okirat alapján kell megindítani.
+(2) Ha az (1) bekezdés szerint bejelentett adatváltozás alapján kezdeményezett eljárást az eredeti okirat vagy annak másolata alapján kell végrehajtani, az érintett az adatokat a személyes ügyintézés során az ügyfélszolgálaton az okirat eredeti példányának bemutatásával, elektronikus ügyintézés esetén az elektronikus rendszeren, elektronikus formában történő továbbításával igazolja. Ha jogszabály eltérően nem rendelkezik, az előírt eljárást az elektronikusan bejelentett adatközlés, illetve elektronikusan benyújtott okirat alapján kell megindítani. Ezen bekezdés szerinti okiratot – annak bemutatása és másolatának továbbítása során – a digitális állampolgár digitálisan előállított hiteles formában is igazolhatja.
 
 35/A. § (1) Az információs rendszerekben, hálózatokban az infokommunikációs szolgáltatások felhasználói részére nyújtott helyi vagy központi infokommunikációs szolgáltatásokat, szervezeti folyamatokat, ügymeneteket, szakterületeket és feladatokat támogató alkalmazásokat úgy kell kialakítani, hogy a felhasználói azonosítás érdekében kezelt személyes adatok helyileg vagy központilag megosztva rendelkezésre álljanak.
 
