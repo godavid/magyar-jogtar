@@ -151,7 +151,7 @@ kizárólag kamarai jogtanácsos, ügyvéd, nyilvántartásba vett adószakért�
 - d) ügyvédi iroda,
 - e) európai közösségi jogász,
 - f) nyilvántartásba vett adószakértő, nyilvántartásba vett okleveles adószakértő, nyilvántartásba vett adótanácsadó, könyvvizsgáló, könyvelő,
-- g) számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság, illetve egyéb szervezet törvényes vagy szervezeti képviselője, foglalkoztatottja, tagja,
+- g) számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság, illetve egyéb szervezet,
 - h) környezetvédelmi termékdíjjal kapcsolatos ügyben termékdíj ügyintéző szakképesítéssel rendelkező személy is és
 - i) a jövedéki adóról szóló törvény szerinti jövedéki üggyel kapcsolatban jövedéki ügyintéző szakképesítéssel rendelkező személy is
 
@@ -159,7 +159,7 @@ képviselheti.
 
 (2) Természetes személyt az adóhatóság előtt állandó meghatalmazás alapján bármely – képviseletre alkalmas – nagykorú személy is képviselheti.
 
-(3)
+(3) Az (1) bekezdés g) pontja szerinti állandó meghatalmazott szervezet arra az esetre, ha a képviselet ellátásához természetes személy jelenléte vagy természetes személy elektronikus azonosítását igénylő ügyintézés szükséges, kijelöli azt a törvényes vagy szervezeti képviselőjét, foglalkoztatottját vagy tagját, aki a meghatalmazó ügyében az állandó meghatalmazott szervezet nevében eljárhat.
 
 #### 18. § [A belföldön nem letelepedett adóalany képviselete]
 
@@ -194,6 +194,8 @@ Az általános forgalmi adóról szóló törvény (a továbbiakban: Áfa tv.) s
 (9) Az adóhatóság a belföldön székhellyel, telephellyel nem rendelkező külföldi vállalkozást megillető adó-visszaigénylést, adó-visszatérítést a külföldi vállalkozás adóügyeivel összefüggésben nyitott belföldi pénzforgalmi számla javára történő átutalással teljesíti.
 
 (10) Ha a képviselet azért szűnt meg, mert a külföldi vállalkozásnak megszűnt a Magyarországon végzett gazdasági tevékenysége, a pénzügyi képviselő a külföldi vállalkozás záróbevallását elkészíti. A pénzügyi képviselő az adózással összefüggő iratokat az adómegállapításhoz való jog elévüléséig megőrzi.
+
+(11) A pénzügyi képviselő arra az esetre, ha a pénzügyi képviselet ellátásához természetes személy jelenléte vagy természetes személy elektronikus azonosítását igénylő ügyintézés szükséges, kijelöli azt a törvényes vagy szervezeti képviselőjét, foglalkoztatottját vagy tagját, aki a külföldi vállalkozás ügyében a pénzügyi képviselő nevében eljárhat.
 
 #### 21. § [A kezelt vagyon képviselete]
 
@@ -1709,6 +1711,10 @@ E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvény
 (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel (a továbbiakban: Módtv.6.) megállapított 50. § (5a) bekezdés c) pontját a hatálybalépését követően indult engedélyezési eljárások során kell alkalmazni.
 
 (2) E törvénynek a Módtv.6. által megállapított 91. § (1) bekezdés e) pontját és 94. § (1b) bekezdését a Módtv.6. hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+#### 139/I. § [Átmeneti rendelkezés a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvényhez]
+
+E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény által megállapított 17. § (1) bekezdés g) pontjának hatálybalépését megelőzően, számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság illetve egyéb szervezet törvényes vagy szervezeti képviselőjeként, foglalkoztatottjaként, tagjaként bejelentett természetes személyek állandó meghatalmazottként 2027. december 31-ig járhatnak el.
 
 #### 57. Az Európai Unió jogának való megfelelés
 

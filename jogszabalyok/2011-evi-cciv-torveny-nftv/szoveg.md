@@ -1012,6 +1012,8 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 
 45. § (1) Ha a hallgató bejelenti, hogy a következő képzési időszakban hallgatói kötelezettségének nem kíván eleget tenni, illetve, ha a hallgató a soron következő képzési időszakra nem jelentkezik be, a hallgatói jogviszonya szünetel. A hallgatói jogviszony egybefüggő szüneteltetésének ideje nem lehet hosszabb, mint két félév. A hallgató, a tanulmányi és vizsgaszabályzatban meghatározottak szerint több alkalommal is élhet a hallgatói jogviszonyának szüneteltetésével.
 
+(1a) Az (1) bekezdéstől eltérően a hallgató egybefüggően négy félévig szüneteltetheti hallgatói jogviszonyát, ha részére csecsemőgondozási díjat, gyermekgondozási díjat vagy – szülési szolgálatmentességére tekintettel – illetményt folyósítanak.
+
 (2) A felsőoktatási intézmény a hallgató kérelmére engedélyezheti a hallgatói jogviszony szünetelését
 
 - a) az (1) bekezdésben meghatározottnál hosszabb, egybefüggő időtartamban is,
@@ -1082,10 +1084,15 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 - d) azt a félévet, amelyet a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: a Nemzeti Közszolgálati Egyetemről szóló törvény) 21/A. § (1) bekezdés a), b) és d) pontjában meghatározott jogviszonyban álló hallgató a Nemzeti Közszolgálati Egyetem képzésén vett igénybe.
 - e) azt a félévet, amelyet a hallgató a 39. § (4a) bekezdése szerint felvett tanári mesterszakon vett igénybe, továbbá
 - f) a 2, 3, valamint a 4 féléves tanári mesterszakon igénybe vett félévet.
+- g) a házas hallgató gyermeke születésének vagy örökbefogadásának időpontját követő félévétől kezdődő, valamint a gyermekes hallgató házasságkötésének időpontját követő félévtől kezdődő és a hallgató 30. születésnapját követő félévet megelőző félévig tartó a féléveket.
 
 (7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
 
 (8) Ha a hallgató kimerítette az e §-ban meghatározottak szerint rendelkezésére álló támogatási időt, csak önköltséges képzési formában folytathat tanulmányokat a felsőoktatásban.
+
+(9) A hallgató házasságának megszűnése a (6) bekezdés g) pontjában foglalt rendelkezést nem érinti.
+
+(10) A (6) bekezdés g) pontjában foglalt rendelkezés a 48. § (2) bekezdése szerinti önköltséges képzésre történő átsorolás lehetőségét nem érinti.
 
 48. § (1) A hallgatót magyar állami (rész)ösztöndíjas vagy önköltséges képzési formára kell besorolni.
 
@@ -1096,6 +1103,12 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 (3) Ha a magyar állami (rész)ösztöndíjjal támogatott képzésre felvett hallgatónak a tanulmányai befejezése előtt megszűnik a hallgatói jogviszonya, vagy a hallgató a tanulmányait bármely okból önköltséges formában folytatja tovább, helyére – ilyen irányú kérelem esetén – a felsőoktatási intézményben önköltséges formában azonos szakon tanulmányokat folytató hallgató léphet. Az átsorolásról a felsőoktatási intézmény a magyar állami (rész)ösztöndíjjal támogatott képzésre átsorolását kérő önköltséges hallgatók tanulmányi teljesítménye alapján dönt.
 
 (4) A magyar állami ösztöndíjjal támogatott képzésre felvett hallgató helyére magyar állami részösztöndíjjal támogatott képzésben részt vevő hallgató is átsorolható a (3) bekezdésben foglaltak szerint.
+
+(5) A házas hallgatót a gyermeke születésének vagy örökbefogadásának időpontját, illetve a gyermekes hallgatót a házasságkötésének időpontját követő félévtől magyar állami ösztöndíjas képzési formára kell átsorolni, ha a félév kezdő napján a 30. életévét még nem töltötte be.
+
+(6) Ha az (5) bekezdésnek a beiratkozáskor megfelelő hallgató önköltséges képzési formára nyert felvételt, beiratkozását követően magyar állami ösztöndíjas képzési formára kell átsorolni.
+
+(7) Az (5) bekezdésben foglalt rendelkezések nem alkalmazhatók ismételten, ha a hallgatót az (5) vagy a (6) bekezdés alkalmazásával magyar állami ösztöndíjas képzési formára sorolták át, majd ezt követően a 48. § (2) bekezdése alapján önköltséges képzésre került átsorolásra.
 
 #### 28/A. A magyar állami (rész)ösztöndíjjal támogatott képzés sajátos feltételei
 
@@ -3188,6 +3201,8 @@ megnevezéssel működik.
 
 (36) A Budapest Kortárstánc Főiskola 2023. augusztus 1-jétől Budapest Cirkuszművészeti és Kortárstánc Főiskola megnevezéssel működik.
 
+(37) A Budapesti Gazdasági Egyetem 2025. február 1-jétől Budapesti Gazdaságtudományi Egyetem megnevezéssel egyetemként működik.
+
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
 (2)
@@ -3441,29 +3456,29 @@ köt azzal, hogy az a) és b) pontban szereplő megállapodások megkötésekor 
 | 9 |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
 | 10 |  |  | Állatorvostudományi Egyetem, Budapest |
 | 11 |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 12 |  |  | Debreceni Egyetem, Debrecen |
-| 13 |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 14 |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
-| 15 |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 16 |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 17 |  |  | Közép-európai Egyetem, Budapest |
-| 18 |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
-| 19 |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 20 |  |  | Magyar Testnevelési és Sporttudományi Egyetem, Budapest |
-| 21 |  |  | Miskolci Egyetem, Miskolc |
-| 22 |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 23 |  |  | Óbudai Egyetem, Budapest |
-| 24 |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 25 |  |  | Pannon Egyetem, Veszprém |
-| 26 |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 27 |  |  | Pécsi Tudományegyetem, Pécs |
-| 28 |  |  | Semmelweis Egyetem, Budapest |
-| 29 |  |  | Soproni Egyetem, Sopron |
-| 30 |  |  | Széchenyi István Egyetem, Győr |
-| 31 |  |  | Szegedi Tudományegyetem, Szeged |
-| 32 |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 33 | II. NEM ÁLLAMI ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
-| 34 |  |  | Budapesti Gazdasági Egyetem, Budapest |
+| 12 |  |  | Budapesti Gazdaságtudományi Egyetem, Budapest |
+| 13 |  |  | Debreceni Egyetem, Debrecen |
+| 14 |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
+| 15 |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
+| 16 |  |  | Evangélikus Hittudományi Egyetem, Budapest |
+| 17 |  |  | Károli Gáspár Református Egyetem, Budapest |
+| 18 |  |  | Közép-európai Egyetem, Budapest |
+| 19 |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
+| 20 |  |  | Magyar Táncművészeti Egyetem, Budapest |
+| 21 |  |  | Magyar Testnevelési és Sporttudományi Egyetem, Budapest |
+| 22 |  |  | Miskolci Egyetem, Miskolc |
+| 23 |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
+| 24 |  |  | Óbudai Egyetem, Budapest |
+| 25 |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
+| 26 |  |  | Pannon Egyetem, Veszprém |
+| 27 |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
+| 28 |  |  | Pécsi Tudományegyetem, Pécs |
+| 29 |  |  | Semmelweis Egyetem, Budapest |
+| 30 |  |  | Soproni Egyetem, Sopron |
+| 31 |  |  | Széchenyi István Egyetem, Győr |
+| 32 |  |  | Szegedi Tudományegyetem, Szeged |
+| 33 |  |  | Színház- és Filmművészeti Egyetem, Budapest |
+| 34 | II. NEM ÁLLAMI ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
 | 35 |  |  | Budapesti Metropolitan Egyetem, Budapest |
 | 36 |  |  | Dunaújvárosi Egyetem, Dunaújváros |
 | 37 |  |  | Edutus Egyetem, Tatabánya |

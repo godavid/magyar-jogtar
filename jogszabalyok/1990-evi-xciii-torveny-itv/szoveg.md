@@ -12,7 +12,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 1. § (1) Öröklés, ajándékozás és visszterhes vagyonátruházás esetén vagyonszerzési illetéket, a közigazgatási hatósági és bírósági eljárásért eljárási illetéket vagy az e törvényben meghatározott módon, de külön jogszabályban megállapított igazgatási, bírósági szolgáltatási díjat, a cégbíróságok törvényességi felügyeleti tevékenységéért felügyeleti illetéket kell fizetni.
 
-(2) Jogszabály előírhatja, hogy igazgatási szolgáltatási pótdíjat kell az e törvényben megállapított illetéken felül fizetni, ha az illetékfizetéshez kötött hatósági eljárást a hatóság az ügyfél kérelmére – közigazgatási szolgáltatásként –
+(2) Jogszabály előírhatja, hogy igazgatási szolgáltatási pótdíjat kell az e törvényben megállapított illetéken vagy jogszabályban megállapított igazgatási szolgáltatási díjon felül fizetni, ha az illetékfizetéshez kötött hatósági eljárást a hatóság az ügyfél kérelmére – közigazgatási szolgáltatásként –
 
 - a) a hatóság hivatali munkaidején túli időtartamban meghatározott munkarendben eljárva vagy a hatóság székhelyén kívül szervezett szolgáltató helyen a hatósági eljáráshoz szükséges eszközök biztosítása mellett azonnal, vagy
 - b) soron kívüli, sürgősségi vagy azonnali eljárás keretében folytatja le.
@@ -1847,36 +1847,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### Egyes okmányok, igazolások, hatósági bizonyítványok kiállításával kapcsolatos eljárások illetéke, igazgatási szolgáltatási pótdíja
 
-#### I. Az úti okmányok kiállításával kapcsolatos eljárás illetéke
+#### I.
 
-|  | Eljárás | Illeték, igazgatási szolgáltatási pótdíj |
-| --- | --- | --- |
-| I. Úti okmányok kiállításával kapcsolatos eljárások |  |  |
-| 1. | a magánútlevél, a szolgálati és a hajós szolgálati útlevél kiállítása | 7 500 Ft |
-| 2. | a magánútlevél kiállítása, ha érvényességi ideje 10 év | 14 000 Ft |
-| 3. | a) a kérelem benyújtásának időpontjában 18. életévét be nem töltött személy magánútlevelének, b) az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, c) a menekültként elismert személyek kétnyelvű úti okmányának kiállítása | 2 500 Ft |
-| 4. | a kérelem benyújtásának időpontjában három vagy több kiskorú gyermeket háztartásában nevelő törvényes képviselő esetén a kiskorú gyermek magánútlevelének kiállítása | 500 Ft |
-| 5. | a kérelem benyújtásának időpontjában két kiskorú gyermeket háztartásában nevelő törvényes képviselő esetén a kiskorú gyermek magánútlevelének kiállítása | 1 250 Ft |
-| II. Úti okmányok kiállításával kapcsolatos különleges eljárások |  |  |
-| 1. | a második magánútlevél kiállítása | 15 000 Ft |
-| 2. | a második magánútlevél kiállítása, ha a) a kérelem benyújtásakor a magánszemély a 18. életévét még nem töltötte be b) az okmány érvényességi ideje 1 év | 5 000 Ft |
-| 3. | a magánútlevél, valamint a második magánútlevél a) soron kívüli, b) sürgősségi, c) azonnali kiállítása | az I. pontban és az 1–2. alpontban meghatározott mértékű illeték és a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj |
-| 4. | a pótolt úti okmány kiállítása | 5 500 Ft |
-| 5. | a pótolt úti okmány kiállítása, ha az úti okmány érvényességi ideje 10 év | 8 500 Ft |
-| 6. | a pótolt úti okmány kiállítása, ha a) a kérelem benyújtásakor a magánszemély a 18. életévét még nem töltötte be, b) az okmány érvényességi ideje 1 év | 2 500 Ft |
-| 7. | a pótolt úti okmány kiállítása, ha a kérelem benyújtásának időpontjában két kiskorú gyermeket háztartásában nevelő törvényes képviselő kéri a kiskorú gyermek magánútlevelének pótlását | 1 000 Ft |
-| 8. | a pótolt úti okmány kiállítása, ha a kérelem benyújtásának időpontjában három vagy több kiskorú gyermeket háztartásában nevelő törvényes képviselő kéri a kiskorú gyermek magánútlevelének pótlását | 400 Ft |
-| 9. | a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi és azonnali pótlása | a 4–8. pontban meghatározott mértékű illeték és a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj |
-
-#### II. A gépjárművezetői engedély, a forgalmi engedély és a törzskönyv kiállításával kapcsolatos eljárás illetéke
-
-|  | Eljárás | Illeték |
-| --- | --- | --- |
-| 1. | a gépjárművezetői engedély kiállítására irányuló eljárás | 4 000 Ft |
-| 2. | a gépjárművezetői engedély kiállítására irányuló eljárás a) az öregségi nyugdíjkorhatárt betöltött kérelmező esetében, b) ha az egészségügyi hatóság előírása alapján a vezetői engedély érvényessége 1 év vagy annál rövidebb | 1 500 Ft |
-| 3. | a forgalmi engedély kiállításával kapcsolatos eljárás | 6 000 Ft |
-| 4. | az ideiglenes forgalmi engedély kiállítására irányuló eljárás | 2 500 Ft |
-| 5. | a törzskönyv kiállítására irányuló eljárás | 6 000 Ft |
+#### II.
 
 #### III. Az adó- és értékbizonyítvány kiállításával kapcsolatos eljárás illetéke
 
@@ -1894,7 +1867,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 1. | a) a születéssel, b) a házasságkötéssel, c) az örökbefogadással, d) tartással, e) gondozással, f) a halálesettel, g) nemzetiségek anyakönyvi adatainak első ízben történő kijavításával kapcsolatos eljárás, kivéve a magyar állampolgár, illetve Magyarországon lakó hontalan külföldön történő házasságkötéséhez szükséges irat és a nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges irat kiállítása |
 | 2. | az anyakönyvi kivonat kiállítása |
 | 3. | a házassági név megváltoztatására irányuló eljárás |
-| 4. | a családi állapot változásából eredő névváltozás miatt indult eljárás |
+| 4. | a családi állapot változásából eredő névváltozás miatt indult eljárás jogszabály eltérő rendelkezése hiányában |
 | 5. | a családi név korrekciójára irányuló eljárás |
 | 6. | a gyámhatóság előtt kezdeményezett eljárás és az ilyen eljáráshoz szükséges irat |
 | 7. | a házasságon kívül született gyermek családi jogállásának bírósági rendezéséhez szükséges irat kiállítása |
@@ -1949,20 +1922,20 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 4. | a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás |
 | 5. | az érintett polgár adatainak a polgárok személyi adatainak és lakcímének nyilvántartásából való törlésére irányuló eljárás |
 | 6. |  |
-| 7. | évente egy alkalommal az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiállítására irányuló eljárás |
+| 7. | a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításával, pótlásával szembeni jogorvoslati eljárás |
 | 8. | a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal |
 | 9. | a vállalkozói igazolvánnyal és az üzlet működési engedélyével kapcsolatos eljárás |
 | 10. | hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartásában szereplő adatokról |
-| 11. | az eltulajdonított okmányok pótlására irányuló eljárás |
+| 11. | az eltulajdonított okmányok pótlására irányuló eljárás jogszabály eltérő rendelkezése hiányában |
 | 12. | a mozgásában korlátozott személy parkolási igazolványával kapcsolatos eljárás |
 | 13. | a népművészeti és népi iparművészeti igazolvánnyal kapcsolatos eljárás |
 | 14. | a) a „Magyar igazolvány” b) a „Magyar hozzátartozói igazolvány” kiállításával, cseréjével, pótlásával, visszavonásával és nyilvántartásával kapcsolatos eljárás, továbbá az igazolvány-nyilvántartásból teljesített adatszolgáltatás |
 | 15. | a Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi- és lakcímadatait tartalmazó nyilvántartásba vételére irányuló eljárás |
-| 16. | a) a diplomata-útlevél, b) a külügyi szolgálati útlevél, c) az ideiglenes magánútlevél, d) a határátlépési igazolvány, e) a 65. életévét betöltött személy magánútlevelének, második magánútlevelének kiállítása |
-| 17. | a gépjárművezetői engedély kiállítása első alkalommal |
+| 16. | d) a határátlépési igazolvány, kiállítása |
+| 17. | a 25 év alatti személyek vonatkozásában a B kategória megszerzésekor kiállításra kerülő első vezetői engedély esetén |
 | 18. | a forgalmi engedély cseréjére irányuló eljárás, amennyiben az a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása vagy kizárólag jogszabályváltozás miatt szükséges |
 | 19. | a) a kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése, b) az okmány gyártáshibája, valamint a tároló elem hibás adattartalma vagy nem megfelelő működése miatt kezdeményezett hatósági eljárás |
-| 20. | a személyi azonosító képzése – ideértve a személyi azonosító megváltozását eredményező adatváltozást is – miatt kiállított hatósági igazolvány |
+| 20. |  |
 | 21. | társasház esetén a) a közösség ügyintézését ellátó közös képviselő vagy az intézőbizottság elnöke adatainak bejegyzésére, törlésére, megváltozására, b) a közgyűlés által elfogadott számviteli szabályok szerinti beszámoló benyújtására és helyesbítésére irányuló eljárás |
 | 22. | az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet szerinti többnyelvű formanyomtatvány kiállítása |
 | X. A másolat, fordítás, hitelesítés közül |  |
@@ -2001,4 +1974,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 19. | Az igazságügyi szakértői névjegyzékbe vétel és a szakterület kiterjesztése iránti eljárás |
 | 20. | A honosítás, visszahonosítás, a magyar állampolgárság nyilatkozattal történő visszaszerzésére, valamint a magyar állampolgárságról történő lemondásra irányuló eljárás |
 | 21. | A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti belső szabályzat jóváhagyására irányuló eljárás |
-| 22. | A 18. életévét be nem töltött személy által kezdeményezett eljárás |
+| 22. | A 18. életévét be nem töltött személy által kezdeményezett eljárás jogszabály eltérő rendelkezése hiányában |

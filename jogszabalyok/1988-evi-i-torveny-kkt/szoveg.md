@@ -272,7 +272,7 @@ alapvető jogai és kötelezettségei
 - e) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges, és
 - f) az életmentő funkciót ellátó reklámcélú eszközre az (5) bekezdésben foglaltak irányadók.
 
-(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 130 000 forinttól 650 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
+(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 156 000 forinttól 780 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
 
 (4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett a közvetlen balesetveszély lehetőségét is mérlegeli.
 
@@ -329,7 +329,7 @@ jogosultak.
 - b) az ingatlan közvetlen környezete nem sűrűn lakott és
 - c) az ingatlanon tárolt, a (8) bekezdésben meghatározott járművek által okozott környezeti zaj vagy bűzhatás által okozott zavaró hatás – tekintettel a lakókörnyezet jellegére is – nem jelentős.
 
-(10) Ha a (8) bekezdésben meghatározott járművek tényleges tárolási helyéül szolgáló székhely, telephely címe szerinti ingatlan tárolásra való alkalmasságáról a jegyzői döntés alapjául szolgáló körülmények megváltozása miatt az ingatlan a továbbiakban nem felel meg a (9) bekezdésben meghatározott feltételeknek, a jegyző kötelezi az üzembentartót vagy a tulajdonost a (8) bekezdésben meghatározott járművek adott ingatlanon történő tárolásának megszüntetésére. Ha az üzembentartó vagy a tulajdonos a kötelezésnek határidőn belül nem tesz eleget, a jegyző 650 000 forintig terjedő közigazgatási bírsággal sújtja.
+(10) Ha a (8) bekezdésben meghatározott járművek tényleges tárolási helyéül szolgáló székhely, telephely címe szerinti ingatlan tárolásra való alkalmasságáról a jegyzői döntés alapjául szolgáló körülmények megváltozása miatt az ingatlan a továbbiakban nem felel meg a (9) bekezdésben meghatározott feltételeknek, a jegyző kötelezi az üzembentartót vagy a tulajdonost a (8) bekezdésben meghatározott járművek adott ingatlanon történő tárolásának megszüntetésére. Ha az üzembentartó vagy a tulajdonos a kötelezésnek határidőn belül nem tesz eleget, a jegyző 780 000 forintig terjedő közigazgatási bírsággal sújtja.
 
 (11) Ha az ingatlannak a (8) bekezdésben említett járművek tárolására való alkalmassága a (9) bekezdés b) pontjában foglalt okból változott meg, a jegyző nem alkalmazhatja a (10) bekezdésben foglaltakat. Ebben az esetben a jegyző kötelezi az üzembentartót vagy a tulajdonost a (8) bekezdésben meghatározott járműveknek a megváltozott lakókörnyezethez igazodó mértékű tárolására.
 
@@ -495,7 +495,7 @@ oktatása, szakképzése és utánképzése
 - a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki;
 - b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
-(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság összege legfeljebb 13 000 000 Ft lehet, a bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost és az utánképzés-foglalkozásvezetőt a tevékenység végzésétől eltilthatja.
+(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság összege legfeljebb 15 600 000 Ft lehet, a bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost és az utánképzés-foglalkozásvezetőt a tevékenység végzésétől eltilthatja.
 
 (7a) A (7) bekezdésben meghatározott eljárásokban figyelmeztetés alkalmazásának nincs helye.
 
@@ -576,7 +576,7 @@ meghatározott szerv felé – a közúti járművezetők és a közúti közlek
 (17) Ha a felügyeleti szerv a lefolytatott vizsgálat alapján megállapítja, hogy a vizsgaközpont nem a jogszabályoknak megfelelően végzi a tevékenységet, az alábbi jogkövetkezményeket alkalmazhatja:
 
 - a) a figyelmeztetést tartalmazó döntésében felhívja a vizsgaközpont figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére, vagy
-- b) bírságot szab ki, amelynek mértéke 13 millió forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.
+- b) bírságot szab ki, amelynek mértéke 15 600 000 forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.
 
 (18) A (2) bekezdéstől eltérően az Nkt. 30/A. §-a és az Szkt. 35/A. §-a szerinti képzés vezetési gyakorlati részét – a honvédelemért felelős miniszter rendeletében meghatározottak szerint – a Magyar Honvédség is nyújthatja, a Magyar Honvédség és a (2b) bekezdés szerinti középiskola erre irányuló együttműködési megállapodása alapján.
 
@@ -819,7 +819,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j), l), n)–q) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 13 000 forinttól 1 500 000 forintig, a k) és m) pontokban foglalt esetben 13 000 forinttól 390 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j), l), n)–q) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 16 000 forinttól 1 800 000 forintig, a k) és m) pontokban foglalt esetben 16 000 forinttól 468 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k), m), p) vagy q) pontjában, vagy a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) és q) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja a (4) bekezdés szerinti közigazgatási bírság összegével megegyező összegben közigazgatási bírságként helyszíni bírságot szabhat ki.
 
@@ -925,8 +925,8 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval (járműszerelvény esetében a vontatást végző jármű üzemben tartójával), illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben
 
-- a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 13 000 forinttól 390 000 forintig,
-- b) az (1) bekezdés d) és i) pontja szerinti esetben 13 000 forinttól 1 500 000 forintig
+- a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 16 000 forinttól 468 000 forintig,
+- b) az (1) bekezdés d) és i) pontja szerinti esetben 16 000 forinttól 1 800 000 forintig
 
 terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
 
@@ -1311,7 +1311,7 @@ meghatározott piacfelügyeleti feladatokat.
 
 (4a) A (4) bekezdés szerinti eljárásokban a járműforgalmazó a közlekedési hatóság által kiadott engedély alapján a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározottak szerint, tanúsítóként a tényállás tisztázásában közreműködik.
 
-(4b) A közlekedési hatóság a (4a) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt 130 000 forinttól 1 300 000 forintig terjedő bírság fizetésére kötelezheti. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a járműforgalmazó tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a járműforgalmazót a tevékenység végzésétől eltilthatja.
+(4b) A közlekedési hatóság a (4a) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt 156 000 forinttól 1 560 000 forintig terjedő bírság fizetésére kötelezheti. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a járműforgalmazó tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a járműforgalmazót a tevékenység végzésétől eltilthatja.
 
 (5) Egyedileg előállított (összeépített) vagy átalakított jármű esetén a közlekedési hatóság azt vizsgálja, hogy a jármű megfelel-e az előzetes engedélyben foglaltaknak. Előzetes engedély nélkül előállított vagy átalakított járműre hatósági engedély és jelzés nem adható.
 

@@ -444,7 +444,7 @@ Az állami adó- és vámhatóság az együttműködő közösség leendő tagja
 
 (3) Az állami adó- és vámhatóság az adózó által bejelentett természetes személyazonosító adatokat, lakcímet a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv nyilvántartásában szereplő adatokkal, nem magyar állampolgárok esetén a csatolt okiratok tartalmával egybeveti, és az okmányok érvényességét ellenőrzi.
 
-(4) Az (1) és a (2) bekezdés szerinti bejelentés alapján az adóhatóság megállapítja a természetes személy adóazonosító jelét, és arról tizenöt napon belül hatósági igazolványt (a továbbiakban: adóigazolvány) állít ki, ennek során, továbbá az adóigazolvány egyéb okból történő kiállítása esetén megküldi az adóigazolvány kiállításához szükséges adatokat az adóigazolvány megszemélyesítését végző szervezet részére.
+(4) Az (1) és a (2) bekezdés szerinti bejelentés alapján az adóhatóság megállapítja a természetes személy adóazonosító jelét, és arról kérelemre tizenöt napon belül hatósági igazolványt (a továbbiakban: adóigazolvány) állít ki, ennek során, továbbá az adóigazolvány egyéb okból történő kiállítása esetén megküldi az adóigazolvány kiállításához szükséges adatokat az adóigazolvány megszemélyesítését végző szervezet részére.
 
 (5) Az állami adó- és vámhatóság az adóazonosító jelről első ízben hatvan napra érvényes ideiglenes adóigazolványt állít ki, ha a természetes személy által az (1) bekezdés szerint bejelentett adatok (3) bekezdés szerinti egybevetése és ellenőrzése során eltérést állapít meg.
 
@@ -464,10 +464,7 @@ Az állami adó- és vámhatóság hivatalból állapítja meg az adóazonosít�
 
 #### 33/A. § [Adóigazolvány kiállítása hivatalból]
 
-Az állami adó- és vámhatóság hivatalból gondoskodik az adóigazolvány kiállításáról, és az adóigazolvány megszemélyesítése érdekében a megszemélyesítéshez szükséges adatoknak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő elküldéséről
-
-- a) az intézetben született, Magyarországon élő magyar állampolgár újszülött esetében;
-- b) azon természetes személy adózó esetében, akire vonatkozóan – házasságkötésére tekintettel – a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, valamint a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján adatot szolgáltatott.
+Az állami adó- és vámhatóság hivatalból gondoskodik az adóigazolvány kiállításáról, és az adóigazolvány megszemélyesítése érdekében a megszemélyesítéshez szükséges adatoknak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő elküldéséről az intézetben született, Magyarországon élő magyar állampolgár újszülött esetében, akire vonatkozóan a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, valamint a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján adatot szolgáltatott.
 
 #### 34. § [Az adóazonosító jel közlése, igazolása]
 
@@ -475,7 +472,7 @@ Az állami adó- és vámhatóság hivatalból gondoskodik az adóigazolvány ki
 
 (2) Ha a természetes személy az adóazonosító jelét nem közli, a munkáltató és a kifizető a kifizetést, az adókedvezmény (adómentesség), a költségvetési támogatás igénybevételére jogosító igazolás kiállítója az igazolás kiadását – az adóazonosító jel közléséig – megtagadja. Az Szja tv. szerinti kamat kifizetését, jóváírását a kifizető a természetes személynek adóazonosító jel hiányában is teljesítheti.
 
-(3) Az (1) bekezdés szerinti adóigazolvány bemutatásával egyenértékű, ha – a technikai feltételek megléte esetén – a természetes személy az adóazonosító jelét a tárolóelemmel rendelkező érvényes állandó személyazonosító igazolványával elektronikusan igazolja, ha a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározottak szerint a tárolóelem azt tartalmazza.
+(3) Az (1) bekezdés szerinti adatszolgáltatásra kötelezettek felhívására az adóazonosító jelét a természetes személy digitálisan előállított hiteles formában is igazolhatja, vagy – a technikai feltételek megléte esetén – a tárolóelemmel rendelkező érvényes állandó személyazonosító igazolványával elektronikusan is igazolhatja, ha a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározottak szerint a tárolóelem azt tartalmazza.
 
 #### 35. § [Adatközlés illetékeljáráshoz]
 
