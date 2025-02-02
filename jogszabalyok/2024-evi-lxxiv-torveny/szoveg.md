@@ -228,45 +228,9 @@ lép.
 
 #### 27. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-77. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 51. §-a helyébe a következő rendelkezés lép:
+#### 77. §
 
-„51. § (1) Intézeti gyógyszertárat – a (2)–(9) bekezdésben foglaltak figyelembevételével – fekvőbeteg-ellátást végző intézmény működtethet. Az erre vonatkozó engedélyt az egészségügyi államigazgatási szerv adja meg a fekvőbeteg-ellátást végző intézmény kérelmére, amennyiben a kérelmező megfelel az e törvényben és a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló miniszteri rendeletben előírt feltételeknek. Az intézeti gyógyszertár fekvőbeteg-ellátást végző intézményben történő felhasználásra és közvetlen lakossági gyógyszerellátás céljából szolgáltathat ki gyógyszert.
-
-(2) A fekvőbeteg-ellátást végző intézmény – a Kormány rendeletében meghatározottak szerint – az intézeti gyógyszertári feladatok ellátásához közreműködőt vehet igénybe.
-
-(3) Az állam az állami fenntartású és az önként csatlakozó más fenntartású fekvőbeteg-ellátást végző intézmények esetében a (2) bekezdés szerinti közreműködő igénybevételét egységes intézeti gyógyszertári közreműködői szolgáltatás útján biztosíthatja az intézeti gyógyszertár kormányrendeletben meghatározott tevékenységei tekintetében, azzal, hogy ebben az esetben a közreműködőre és annak igénybevételére vonatkozó szabályokat az e §-ban és az egységes intézeti gyógyszertári közreműködői szolgáltatást szabályozó kormányrendeletben meghatározott eltérésekkel kell alkalmazni.
-
-(4) Az állam az egységes intézeti gyógyszertári közreműködői szolgáltatásra a Kbt. szerint lefolytatott eljárás alapján az eljárás nyertesével a Kbt. szerint köt szerződést.
-
-(5) A Kbt. szerinti eljárás nyertese az egységes intézeti gyógyszertári közreműködői szolgáltatás nyújtására közreműködő szervezetként projekttársaságot köteles létrehozni.
-
-(6) A fekvőbeteg-ellátást végző intézmény és a projekttársaság együttműködik az egységes intézeti gyógyszertári közreműködői szolgáltatás működtetéséhez szükséges feltételek biztosítása során, melynek keretében a fekvőbeteg-ellátást végző intézménynél foglalkoztatott vezető főgyógyszerész, valamint az intézeti gyógyszertár szakgyógyszerészének, gyógyszerészének, egészségügyi dolgozójának tekintetében a munkáltató – az egészségügyről szóló 1997. évi CLIV. törvény 3/A. § e) pontja szerinti alapvető munkáltatói jogok kivételével – a fekvőbeteg-ellátást végző intézmény fenntartójának egyetértésével a közreműködői szolgáltatás folyamatos ellátásához szükséges munkáltatói jogok gyakorlását írásbeli nyilatkozatával a projekttársaság által meghatározott személyre átruházhatja.
-
-(7) Az (3) bekezdés szerinti esetben az egységes intézeti gyógyszertári közreműködői szolgáltatás nyújtó szolgáltató – a (4) bekezdés szerinti szerződésben foglaltak szerint – ellátja a Kormány rendeletében meghatározott, a betegek gyógyszerrel való ellátásához kapcsolódó nem intézeti gyógyszertári feladatokat is.
-
-(8) Az intézeti gyógyszertár köteles biztosítani az intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönítését szolgáló feltételeket. Az intézeti gyógyszertár működésének részletes szakmai szabályait, személyi és tárgyi feltételeit, nyilvántartási kötelezettségeit az intézeti és közvetlen lakossági gyógyszerellátási feladatok elkülönítésével kapcsolatos feladatok részletes szabályait jogszabály állapítja meg.
-
-(9) A (2) bekezdés szerinti közreműködő igénybevételére, illetve a (3) bekezdés szerinti egységes intézeti gyógyszertári közreműködői szolgáltatásra, valamint ezek igénybevétele esetén az intézeti gyógyszertári tevékenység engedélyezésére, szakmai és tárgyi feltételeinek biztosítására, működésére, felügyeletére vonatkozó szabályokat a Kormány rendeletben állapítja meg.”
-
-78. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 77. § (1) bekezdése a következő q)–w) ponttal egészül ki:
-
-[(1) Felhatalmazást kap a Kormány, hogy]
-
-„q) az intézeti gyógyszertári feladatok ellátásához történő közreműködő igénybevétel feltételeit és szabályait,
-
-r) azokat az intézeti gyógyszertári és egyéb feladatokat, amelyekhez egységes intézeti gyógyszertári közreműködői szolgáltatást biztosíthat az állam,
-
-s) az egységes intézeti gyógyszertári közreműködői szolgáltatás nyújtása engedélyezésének, végzésének és hatósági ellenőrzésének részletes szabályait,
-
-t) az egységes intézeti gyógyszertári közreműködői szolgáltatás nyújtásának engedélyezésére és hatósági ellenőrzésére jogosult szervet,
-
-u) az állam nevében az egységes intézeti gyógyszertári közreműködői szolgáltatás tárgyában a Kbt. szerinti eljárás lefolytatására, az eljárás nyertesével a Kbt. szerinti szerződés megkötésére, valamint e szerződés módosítására és megszüntetésére jogosult miniszter és a feladat ellátásában közreműködő szerv kijelölését,
-
-v) az 51. § (2) bekezdése szerinti közreműködő, illetve az 51. § (3) bekezdés szerinti egységes intézeti gyógyszertári közreműködői szolgáltatás igénybevétele esetén az intézeti gyógyszertári tevékenység engedélyezésére, szakmai és tárgyi feltételeinek biztosítására, működésére, felügyeletére vonatkozó szabályokat,
-
-w) a nem állami fenntartású fekvőbeteg-ellátást végző intézménynek az egységes intézeti gyógyszertári közreműködői szolgáltatás tárgyában a Kbt. szerint megkötött szerződéshez történő önkéntes csatlakozás részletes szabályait”
-
-[rendeletben állapítsa meg.]
+#### 78. §
 
 #### 28. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
@@ -288,33 +252,13 @@ w) a nem állami fenntartású fekvőbeteg-ellátást végző intézménynek az 
 
 #### 84. §
 
-85. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A nyugellátás számítási alapja
-
-- a) a 8. § (2) bekezdés a) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,1 százaléka,
-- b) a 8. § (2) bekezdés b) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 4,2 százaléka,
-- c) a 8. § (2) bekezdés c) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,8 százaléka,
-
-azzal, hogy az ellátási alapot száz forintra kerekítve kell meghatározni.”
+#### 85. §
 
 #### 86. §
 
-87. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény a következő 21. §-sal egészül ki:
+#### 87. §
 
-„21. § (1) A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 8. § (2) bekezdését és 10. § (2) bekezdését a 2025. február 1-jét követően keletkezett, e törvény szerinti foglalkoztatási jogviszonyok esetében kell alkalmazni.
-
-(2) A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 1. § (4) bekezdését 2025. július 1-jétől kell alkalmazni úgy, hogy a 2025. évben a foglalkoztatás időtartamának számításakor annak 120 naptári napos korlátját 2025. július 1-jétől kell figyelembe venni.
-
-(3) A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 8. § (2) bekezdése szerint megállapított közterhek mértékét és a nyugellátás 10. § (2) bekezdése szerint meghatározott alapját az állami adóhatóság 2025. január 20-áig honlapján és a Magyar Közlönyben közzéteszi.”
-
-88. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény
-
-- 1. 8. § (2) bekezdés a) pontjában a „minimálbér 0,5 százaléka” szövegrész helyébe a „minimálbér 0,75 százaléka” szöveg,
-- 2. 8. § (2) bekezdés b) pontjában a „minimálbér 1 százaléka” szövegrész helyébe a „minimálbér 1,5 százaléka” szöveg,
-- 3. 8. § (2) bekezdés c) pontjában a „foglakoztatása” szövegrész helyébe a „foglalkoztatása” szöveg
-
-lép.
+#### 88. §
 
 #### 89. §
 
@@ -326,7 +270,7 @@ lép.
 
 #### 91. §
 
-92. § Hatályát veszti a népegészségügyi termékadóról szóló 2011. évi CIII. törvény 8. § (4)–(8) bekezdése.
+#### 92. §
 
 #### 34. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
@@ -540,26 +484,13 @@ lép.
 
 #### 50. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 
-182. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 17. §-a a következő (3) bekezdéssel egészül ki:
+#### 182. §
 
-„(3) Az (1) bekezdés g) pontja szerinti állandó meghatalmazott szervezet arra az esetre, ha a képviselet ellátásához természetes személy jelenléte vagy természetes személy elektronikus azonosítását igénylő ügyintézés szükséges, kijelöli azt a törvényes vagy szervezeti képviselőjét, foglalkoztatottját vagy tagját, aki a meghatalmazó ügyében az állandó meghatalmazott szervezet nevében eljárhat.”
+#### 183. §
 
-183. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 20. §-a a következő (11) bekezdéssel egészül ki:
+#### 184. §
 
-„(11) A pénzügyi képviselő arra az esetre, ha a pénzügyi képviselet ellátásához természetes személy jelenléte vagy természetes személy elektronikus azonosítását igénylő ügyintézés szükséges, kijelöli azt a törvényes vagy szervezeti képviselőjét, foglalkoztatottját vagy tagját, aki a külföldi vállalkozás ügyében a pénzügyi képviselő nevében eljárhat.”
-
-184. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény a következő 139/I. §-sal egészül ki:
-
-#### „139/I. § [Átmeneti rendelkezés a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvényhez]
-
-E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény által megállapított 17. § (1) bekezdés g) pontjának hatálybalépését megelőzően, számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság illetve egyéb szervezet törvényes vagy szervezeti képviselőjeként, foglalkoztatottjaként, tagjaként bejelentett természetes személyek állandó meghatalmazottként 2027. december 31-ig járhatnak el.”
-
-185. § Hatályát veszti az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény
-
-- 1. 17. § (1) bekezdés g) pontjában a „törvényes vagy szervezeti képviselője, foglalkoztatottja, tagja” szövegrész,
-- 2.
-- 3.
-- 4.
+#### 185. §
 
 #### 51. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 

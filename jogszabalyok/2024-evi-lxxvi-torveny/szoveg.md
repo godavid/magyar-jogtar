@@ -206,29 +206,11 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 
 #### 90. §
 
-91. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 45. §-a a következő (1a) bekezdéssel egészül ki:
+#### 91. §
 
-„(1a) Az (1) bekezdéstől eltérően a hallgató egybefüggően négy félévig szüneteltetheti hallgatói jogviszonyát, ha részére csecsemőgondozási díjat, gyermekgondozási díjat vagy – szülési szolgálatmentességére tekintettel – illetményt folyósítanak.”
+#### 92. §
 
-92. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 47. § (6) bekezdése a következő g) ponttal egészül ki:
-
-(A támogatási idő számításakor nem kell figyelembe venni)
-
-„g) a házas hallgató gyermeke születésének vagy örökbefogadásának időpontját követő félévétől kezdődő, valamint a gyermekes hallgató házasságkötésének időpontját követő félévtől kezdődő és a hallgató 30. születésnapját követő félévet megelőző félévig tartó a féléveket.”
-
-(2) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 47. §-a a következő (9) és (10) bekezdéssel egészül ki:
-
-„(9) A hallgató házasságának megszűnése a (6) bekezdés g) pontjában foglalt rendelkezést nem érinti.
-
-(10) A (6) bekezdés g) pontjában foglalt rendelkezés a 48. § (2) bekezdése szerinti önköltséges képzésre történő átsorolás lehetőségét nem érinti.”
-
-93. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 48. §-a a következő (5)–(7) bekezdéssel egészül ki:
-
-„(5) A házas hallgatót a gyermeke születésének vagy örökbefogadásának időpontját, illetve a gyermekes hallgatót a házasságkötésének időpontját követő félévtől magyar állami ösztöndíjas képzési formára kell átsorolni, ha a félév kezdő napján a 30. életévét még nem töltötte be.
-
-(6) Ha az (5) bekezdésnek a beiratkozáskor megfelelő hallgató önköltséges képzési formára nyert felvételt, beiratkozását követően magyar állami ösztöndíjas képzési formára kell átsorolni.
-
-(7) Az (5) bekezdésben foglalt rendelkezések nem alkalmazhatók ismételten, ha a hallgatót az (5) vagy a (6) bekezdés alkalmazásával magyar állami ösztöndíjas képzési formára sorolták át, majd ezt követően a 48. § (2) bekezdése alapján önköltséges képzésre került átsorolásra.”
+#### 93. §
 
 #### 94. §
 
@@ -248,19 +230,13 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 
 #### 102. §
 
-103. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 115. §-a a következő (37) bekezdéssel egészül ki:
-
-„(37) A Budapesti Gazdasági Egyetem 2025. február 1-jétől Budapesti Gazdaságtudományi Egyetem megnevezéssel egyetemként működik.”
+#### 103. §
 
 #### 104. §
 
 #### 105. §
 
-106. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. melléklete helyébe a 2. melléklet lép.
-
-(2)
-
-(3)
+#### 106. §
 
 #### 107. §
 
@@ -470,86 +446,6 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 ### 1. melléklet a 2024. évi LXXVI. törvényhez
 
 ### 2. melléklet a 2024. évi LXXVI. törvényhez
-
-„1. melléklet a 2011. évi CCIV. törvényhez
-
-Magyarország államilag elismert felsőoktatási intézményei
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | I. EGYETEMEK |  |  |
-| 2 |  | I/A. Állami egyetemek |  |
-| 3 |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
-| 4 |  |  | Eötvös Loránd Tudományegyetem, Budapest |
-| 5 |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
-| 6 |  |  | Magyar Képzőművészeti Egyetem, Budapest |
-| 7 |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 8 |  | I/B. Nem állami egyetemek |  |
-| 9 |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 10 |  |  | Állatorvostudományi Egyetem, Budapest |
-| 11 |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 12 |  |  | Budapesti Gazdaságtudományi Egyetem, Budapest |
-| 13 |  |  | Debreceni Egyetem, Debrecen |
-| 14 |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 15 |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
-| 16 |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 17 |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 18 |  |  | Közép-európai Egyetem, Budapest |
-| 19 |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
-| 20 |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 21 |  |  | Magyar Testnevelési és Sporttudományi Egyetem, Budapest |
-| 22 |  |  | Miskolci Egyetem, Miskolc |
-| 23 |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 24 |  |  | Óbudai Egyetem, Budapest |
-| 25 |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 26 |  |  | Pannon Egyetem, Veszprém |
-| 27 |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 28 |  |  | Pécsi Tudományegyetem, Pécs |
-| 29 |  |  | Semmelweis Egyetem, Budapest |
-| 30 |  |  | Soproni Egyetem, Sopron |
-| 31 |  |  | Széchenyi István Egyetem, Győr |
-| 32 |  |  | Szegedi Tudományegyetem, Szeged |
-| 33 |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 34 | II. NEM ÁLLAMI ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
-| 35 |  |  | Budapesti Metropolitan Egyetem, Budapest |
-| 36 |  |  | Dunaújvárosi Egyetem, Dunaújváros |
-| 37 |  |  | Edutus Egyetem, Tatabánya |
-| 38 |  |  | Gábor Dénes Egyetem, Budapest |
-| 39 |  |  | Gál Ferenc Egyetem, Szeged |
-| 40 |  |  | Kodolányi János Egyetem, Székesfehérvár |
-| 41 |  |  | Milton Friedman Egyetem, Budapest |
-| 42 |  |  | Neumann János Egyetem, Kecskemét |
-| 43 |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 44 |  |  | Sárospataki Református Hittudományi Egyetem, Sárospatak |
-| 45 |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
-| 46 | III. FŐISKOLÁK |  |  |
-| 47 |  | III/A. Állami főiskolák |  |
-| 48 |  |  | Eötvös József Főiskola, Baja |
-| 49 |  | III/B. Nem állami főiskolák |  |
-| 50 |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 51 |  |  | Adventista Teológiai Főiskola, Pécel |
-| 52 |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 53 |  |  | Baptista Teológiai Akadémia, Budapest |
-| 54 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 55 |  |  | Brenner János Hittudományi Főiskola, Győr |
-| 56 |  |  | Budapest Cirkuszművészeti és Kortárstánc Főiskola, Budapest |
-| 57 |  |  | Egri Hittudományi Főiskola, Eger |
-| 58 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 59 |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 60 |  |  | Pápai Református Teológiai Akadémia, Pápa |
-| 61 |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
-| 62 |  |  | Pünkösdi Teológiai Főiskola, Budapest |
-| 63 |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
-| 64 |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
-| 65 |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
-| 66 |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
-| 67 |  |  | Szent Pál Akadémia, Budapest |
-| 68 |  |  | Tomori Pál Főiskola, Budapest |
-| 69 |  |  | Veszprémi Érseki Főiskola, Veszprém |
-| 70 |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
-| 71 |  |  | Wesley János Lelkészképző Főiskola, Budapest |
-
-”
 
 ### 3. melléklet a 2024. évi LXXVI. törvényhez
 
