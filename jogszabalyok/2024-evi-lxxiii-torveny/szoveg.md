@@ -153,13 +153,20 @@ szövegrész.
 
 #### 47. §
 
-#### 16.
+#### 16. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-#### 48. §
+48. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 323. § (3a) bekezdése helyébe a következő rendelkezés lép:
 
-#### 49. §
+„(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek a Dáptv. szerinti szerepkörét, ha a szerepkört
 
-#### 50. §
+- a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta, vagy
+- b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.”
+
+49. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 630. §-a a következő (15) bekezdéssel egészül ki:
+
+„(15) A 2024. augusztus 31-én hatályos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás használatával 2024. december 31-ig hitelesített elektronikus okirat teljes bizonyító erejű magánokiratnak minősül, és a 325. § (3a) bekezdése szerint tanúsítja az aláíró szerepkörét, ha a szerepkört az azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás igazolása tartalmazza.”
+
+50. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 605. § (2) bekezdésében a „benyújtását” szövegrész helyébe a „benyújtás” szöveg és a „kell tekinteni” szövegrész helyébe a „minősül” szöveg lép.
 
 #### 17. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 

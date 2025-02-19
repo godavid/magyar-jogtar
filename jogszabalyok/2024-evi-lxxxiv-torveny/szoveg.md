@@ -942,11 +942,15 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 70. §
 
-#### 39.
+#### 39. A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény módosítása
 
-#### 71. §
+71. § A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény 29. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 72. §
+„(2) A külföldi határozatban végrehajtásra átadott pénzbírság és eljárási költség végrehajthatóságára a Szabs. tv. elévülésre vonatkozó szabályait kell alkalmazni azzal, hogy az elévülés határideje a végrehajtás átvétele iránti megkeresés központi hatósághoz érkezésének napján kezdődik.”
+
+72. § A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény 30. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja. Ha a megkeresésben a pénzbírság szabálysértési elzárásra való átváltoztatását kizárták, a pénzbírság adók módjára történő behajtásáról kell intézkedni.”
 
 #### 40. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
@@ -1026,11 +1030,31 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 103. §
 
-#### 47.
+#### 47. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-#### 104. §
+104. § (1) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 12. pontja a következő t)–w) alponttal egészül ki:
 
-#### 105. §
+(E törvény alkalmazásában
+
+közfeladatot ellátó személy:)
+
+  - „t) a kritikus szervezet által kritikus munkakörben foglalkoztatott személy a kritikus szervezetnél végzett tevékenysége körében,
+  - u) a kritikus szervezet ellenálló képességéért felelős vezető a kritikus szervezetek ellenálló képességéről szóló törvényben meghatározott tevékenysége körében,
+  - v) a létfontosságú szervezet kritikus munkakörben foglalkoztatott személye a létfontosságú szervezetnél végzett tevékenysége körében,
+  - w) az ellenálló képességért felelős vezető a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott tevékenysége körében.”
+
+(2) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 21. pontja a következő f) és g) alponttal egészül ki:
+
+(E törvény alkalmazásában
+
+közérdekű üzem:)
+
+  - „f) a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus infrastruktúra,
+  - g) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős infrastruktúra;”
+
+105. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 465. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A 459. § (1) bekezdés 12. pont t)–w) alpontja, valamint 459. § (1) bekezdés 21. pont f) és g) alpontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
 
 #### 48. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
 
