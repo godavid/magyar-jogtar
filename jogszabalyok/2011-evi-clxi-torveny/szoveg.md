@@ -610,7 +610,7 @@ kezdeményezéséről határoz.
 (9) Az OBH elnöke egyéb feladatkörében
 
 - a) ellátja az ítélőtáblák és a törvényszékek elnökeinek vagyonnyilatkozatával kapcsolatos feladatokat,
-- b) ha a bírák jogállásáról és javadalmazásáról szóló törvény szerint a cím adományozásáról az OBT dönt, „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” cím adományozását, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi cím adományozását, valamint kitüntetés, díj, oklevél vagy plakett adományozását kezdeményezi az OBT-nél, továbbá ha a bírák jogállásáról és javadalmazásáról szóló törvény cím adományozására az OBH elnökét jogosítja fel, dönt a „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” cím adományozásáról,
+- b) ha a bírák jogállásáról és javadalmazásáról szóló törvény szerint a cím adományozásáról az OBT dönt, „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró” cím adományozását, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi cím adományozását, valamint kitüntetés, díj, oklevél vagy plakett adományozását kezdeményezi az OBT-nél, továbbá ha a bírák jogállásáról és javadalmazásáról szóló törvény cím adományozására az OBH elnökét jogosítja fel, dönt a „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró” cím adományozásáról,
 - c) biztosítja az érdek-képviseleti szervek jogainak gyakorlását, és
 - d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
@@ -859,7 +859,7 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 - g) kinevezi a szolgálati bíróság elnökét és tagjait,
 - h) felmentést adhat a bírósági vezető és a vezetése alatt álló szervezeti egységben bíráskodó hozzátartozója közötti összeférhetetlenség esetében,
 - i) lefolytatja a bírák vagyonnyilatkozatával kapcsolatos ellenőrzési eljárást,
-- j) az OBH elnökének kezdeményezése alapján „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” címet, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi címet adományozhat, továbbá az OBH elnökének kezdeményezésére javaslatot tehet kitüntetés adományozására, díjat, oklevelet, plakettet adományozhat, illetve díj, plakett, oklevél más általi adományozásához hozzájárulhat,
+- j) az OBH elnökének kezdeményezése alapján „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró” címet, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi címet adományozhat, továbbá az OBH elnökének kezdeményezésére javaslatot tehet kitüntetés adományozására, díjat, oklevelet, plakettet adományozhat, illetve díj, plakett, oklevél más általi adományozásához hozzájárulhat,
 - k) a bíró lemondása esetén hozzájárulhat, hogy a lemondási idő 3 hónapnál rövidebb legyen, illetve a bírót a lemondási időre vagy egy részére mentesítheti a munkavégzési kötelezettség alól,
 - l) a bíró nyugállományba helyezése vagy a felmentési okként meghatározott életkor elérése esetén a bírák jogállásáról és javadalmazásáról szóló törvény alapján dönt a felmentési időre vonatkozóan a munkavégzési kötelezettség alóli mentesítés idejéről.
 - m) egyetértési jogot gyakorol az OBH elnökének a 76. § (5) bekezdés

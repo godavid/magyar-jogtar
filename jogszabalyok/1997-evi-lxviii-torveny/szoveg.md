@@ -212,7 +212,7 @@ rendeletben határozza meg.
 
 #### 14/A. §
 
-15. § (1) A kinevezési okirat a kinevezés kezdő napját, határozott idejű kinevezés esetén ennek időtartamát, a munkakört, a vezetői munkakört, a szolgálati helyet, a szolgálati idő kezdő időpontját, a fizetési osztályt, a fizetési fokozatot és az ezekhez kapcsolódóan megállapított alapilletményt, az esetleges pótlékok jogcímét és összegét, a legközelebbi kötelező előresorolás időpontját, a hiányzó képesítés megszerzésére adott halasztást, illetve kötelezést és ezek határidejét, a jubileumi jutalomra jogosító idő számításának kezdő időpontját, valamint a kinevezés évére járó szabadság napjainak a számát tartalmazza.
+15. § (1) A kinevezési okirat a kinevezés kezdő napját, határozott idejű kinevezés esetén ennek időtartamát, a munkakört, a vezetői munkakört, a szolgálati helyet, a szolgálati idő kezdő időpontját, a fizetési osztályt, a fizetési fokozatot és az ezekhez kapcsolódóan megállapított alapilletményt, az esetleges pótlékok jogcímét és összegét, a legközelebbi kötelező előresorolás időpontját, illetve a bíróságokon, az OBH-ban és az OBT-nél foglalkoztatott tisztviselő, írnok és fizikai dolgozó, valamint a közülük kinevezett vezető esetében az álláshelyi besorolási kategóriát és az illetményt, a hiányzó képesítés megszerzésére adott halasztást, illetve kötelezést és ezek határidejét, a jubileumi jutalomra jogosító idő számításának kezdő időpontját, valamint a kinevezés évére járó szabadság napjainak a számát tartalmazza.
 
 (2) A kinevezési okirattal együtt az igazságügyi alkalmazottnak át kell adni a feladatait tartalmazó munkaköri leírást.
 
@@ -743,8 +743,8 @@ nem haladhatja meg.
   - ba) az 1. fizetési fokozatban évente 2 munkanap,
   - bb) a 2. fizetési fokozatban évente 3 munkanap,
   - bc) a 3. fizetési fokozatban évente 4 munkanap;
-- c) a tisztviselő és az írnok esetén a 2. fizetési fokozatban évente 2 munkanap, amely a többi fizetési fokozatban 2 munkanappal növekszik;
-- d) a bírósági ügyintéző esetén az 1. fizetési fokozatban évente 1 munkanap, amely a többi fizetési fokozatban 2 munkanappal növekszik;
+- c) a tisztviselő és az írnok esetén 4 év szolgálati idő után 2 munkanap, 8 év szolgálati idő után 4 munkanap, 12 év szolgálati idő után 6 munkanap, 19 év szolgálati idő után 8 munkanap, 26 év szolgálati idő után 10 munkanap, 31 év szolgálati idő után 12 munkanap, 36 év szolgálati idő után 13 munkanap;
+- d) a bírósági ügyintéző esetén 3 év szolgálati időig 1 munkanap, 4 év szolgálati idő után 3 munkanap, 8 év szolgálati idő után 5 munkanap, 12 év szolgálati idő után 7 munkanap, 19 év szolgálati idő után 9 munkanap, 26 év szolgálati idő után 11 munkanap, 31 év szolgálati idő után 13 munkanap;
 - e) a fizikai alkalmazott esetén a kinevezéstől számított 3 évenként évente 1-1 munkanap, de legfeljebb 10 munkanap.
 
 (3) A (2) bekezdés a), c) és d) pontja szerinti pótszabadság mértéke a 13 munkanapot nem haladhatja meg.
@@ -764,7 +764,7 @@ nem haladhatja meg.
 
 (7) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő negyedik hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra az igazságügyi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
-(8) A (2) és az (5) bekezdésben meghatározott szabadság az igazságügyi alkalmazottat abban az évben illeti meg először, amikor az adott fizetési fokozatba besorolták, amikor a fizikai alkalmazott a (2) bekezdés e) pontjában meghatározott időt elérte, illetve amely évben vezetői beosztás ellátására kapott megbízást.
+(8) A (2) és az (5) bekezdésben meghatározott szabadság az igazságügyi alkalmazottat abban az évben illeti meg először, amikor az adott fizetési fokozatba besorolták, amikor a tisztviselő, írnok, fizikai alkalmazott a (2) bekezdés c), d), illetve e) pontjában meghatározott időt elérte, illetve amely évben vezetői beosztás ellátására kapott megbízást.
 
 (9) Az igazságügyi alkalmazott alacsonyabb fizetési fokozatba való sorolása a rendes szabadságát nem érinti.
 
@@ -934,7 +934,7 @@ FEGYELMI FELELŐSSÉGE
 
 (3) Az (1) bekezdés b)–c) pontjaiban foglalt fegyelmi büntetések kiszabása esetén a következő fizetési fokozat eléréséhez, illetve az eredeti fizetési fokozatba való visszahelyezéshez szükséges várakozási időt a határozat jogerőre emelkedésének napjától kell számítani.
 
-(3a) Azon igazságügyi alkalmazott esetében, akinek az illetménye az Mt. alapján került megállapításra, az (1) bekezdés b) pontjában foglalt fegyelmi büntetés helyett kétévi időtartamra illetményemelés elmaradása, az (1) bekezdés c) pontjában foglalt fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni. Az illetménycsökkentés mértéke az illetmény öt százalékáig terjedhet.
+(3a) Azon igazságügyi alkalmazott esetében, akinek az illetménye az Mt. alapján került megállapításra, továbbá a 103/A. §-ban meghatározott igazságügyi alkalmazottak esetében az (1) bekezdés b) pontjában foglalt fegyelmi büntetés helyett kétévi időtartamra illetményemelés elmaradása, az (1) bekezdés c) pontjában foglalt fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni. Az illetménycsökkentés mértéke az illetmény öt százalékáig terjedhet.
 
 (4) Kivételesen indokolt esetben az (1) bekezdés b)–d) pontjaiban foglalt fegyelmi büntetések végrehajtása egy év próbaidőre felfüggeszthető. Ha a próbaidő eredményesen eltelt, ezt úgy kell tekinteni, mintha az igazságügyi alkalmazott fegyelmi büntetésben nem részesült volna. Ha a próbaidő alatt az igazságügyi alkalmazott ellen újabb fegyelmi eljárás indult és vele szemben – a hivatalvesztést vagy az elbocsátást kivéve – újabb fegyelmi büntetést szabtak ki, a felfüggesztett fegyelmi büntetést is végre kell hajtani.
 
@@ -1097,7 +1097,7 @@ okozta.
 - b) a név (nőknél a leánykori név is),
 - c) az igazságügyi szervhez történő kinevezés időpontja,
 - d) az igazságügyi szervnél a kinevezés utáni beosztások (a szolgálati helyek – a bírósági titkár és a bírósági fogalmazó kivételével – a munkakörök és a szakterületek),
-- e) a fizetési fokozat megjelölése, a besorolás időpontja és az alapilletmény összege, beosztási pótlék és címpótlék esetén azok megnevezése, százaléka és összege, valamint az illetmény összege,
+- e) a fizetési fokozat, illetve álláshelyi besorolási kategória megjelölése, a besorolás időpontja és az alapilletmény összege, beosztási pótlék és címpótlék esetén azok megnevezése, százaléka és összege, valamint az illetmény összege,
 - f) a következő kötelező előresorolás időpontja,
 - g) a munkából való távollétek jogcíme és időtartama, valamint
 - h) az igazságügyi szolgálati viszony megszűnésének jogcíme és időpontja,
@@ -1131,7 +1131,7 @@ okozta.
 
 ### Az illetmény
 
-96. § (1) Az igazságügyi alkalmazott a szolgálati viszonya alapján havonta alapilletményre, továbbá – ha a folyósítás e törvényben meghatározott feltételei fennállnak – beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. Az alapilletmény összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.
+96. § (1) Az igazságügyi alkalmazott – a 103/A. §-ban foglalt kivétellel – a szolgálati viszonya alapján havonta alapilletményre, továbbá, ha a folyósítás e törvényben meghatározott feltételei fennállnak, beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. Az alapilletmény összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.
 
 (2) Az OBH elnökhelyettesének illetményére – a (3) bekezdésben foglalt kivétellel – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt illetménytábla szerinti közigazgatási államtitkári illetményre vonatkozó szabályokat kell alkalmazni azzal, hogy az illetmény összegét az OBH elnöke állapítja meg.
 
@@ -1161,7 +1161,7 @@ okozta.
 
 ### A besorolás és az alapilletmény megállapítása
 
-97. § (1) Az igazságügyi alkalmazottat munkaköre és iskolai végzettsége alapján – a fizikai dolgozó kivételével – a megfelelő fizetési osztályba, ezen belül az igazságügyi szolgálati ideje alapján – a vezető kivételével – a megfelelő fizetési fokozatba kell besorolni. Az alapilletmény megállapításának alapjául a bírói illetményalap (a továbbiakban: illetményalap) szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
+97. § (1) Az igazságügyi alkalmazottat munkaköre és iskolai végzettsége alapján a megfelelő fizetési osztályba, ezen belül az igazságügyi szolgálati ideje alapján – a vezető kivételével – a megfelelő fizetési fokozatba kell besorolni. Az alapilletmény megállapításának alapjául a bírói illetményalap (a továbbiakban: illetményalap) szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
 
 (2) Az igazságügyi alkalmazott alapilletményét – a kijelölt titkár kivételével – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között kell megállapítani úgy, hogy annak összege elérje legalább az alsó határt, de ne haladja meg a felső határt. Az igazságügyi alkalmazott a besorolása szerinti fizetési fokozathoz tartozó alsó határ szerinti alapilletményre alanyi jogon jogosult.
 
@@ -1180,17 +1180,17 @@ okozta.
 
 98. § (1) A bírósági titkárt és az igazságügyi szakértőt az I. fizetési osztályba kell besorolni; a fizetési fokozatokat a bírósági titkár tekintetében a 3. melléklet 1. pontja, az igazságügyi szakértő tekintetében a 3. melléklet 2. pontja tartalmazza. A bírósági fogalmazót és a szakértő gyakornokot a II. fizetési osztályba kell besorolni; a fizetési fokozatokat a bírósági fogalmazó tekintetében a 4. melléklet 1. pontja, a szakértő gyakornok tekintetében a 4. melléklet 2. pontja tartalmazza. A szakirányú felsőfokú iskolai végzettségű tisztviselőt és technikust a III. fizetési osztályba kell besorolni, amely tekintetében az 5. melléklet tartalmazza a fizetési fokozatokat. A nem szakirányú felsőfokú iskolai végzettségű, valamint a középfokú iskolai végzettségű tisztviselőt és technikust, továbbá az írnokot a IV. fizetési osztályba kell besorolni, amely tekintetében a fizetési fokozatokat a 6. melléklet tartalmazza.
 
-(2) A munkáltatói jogkör gyakorlója a 2. § (2) bekezdés b)–d) pontja szerinti igazságügyi alkalmazott munkakörét kiemelt munkakörré minősítheti.
+(2)
 
-(3) A munkáltatói jogkör gyakorlója a kiemelt munkakörben foglalkoztatott igazságügyi alkalmazott illetményét az Mt. alapján állapíthatja meg, amelynek havi mértéke a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozóan nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
+(3)
 
-(4) Az igazságügyi szervnél a tárgyévben kiemelt munkakörben foglalkoztatott igazságügyi alkalmazottak aránya együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát.
+(4)
 
-(5) Azokat a munkaköröket, amelyek esetében a 97. § (3) bekezdés f) pontjának figyelembevétele nem mellőzhető, az igazságügyért felelős miniszter, valamint a miniszter rendeletben határozza meg.
+(5)
 
 99. § (1) A III. fizetési osztályba az a tisztviselő kaphat besorolást, aki a munkakörére előírt szakirányú felsőfokú iskolai végzettséggel rendelkezik. A besorolásnál a képesítési követelmények részletes szabályairól szóló jogszabály rendelkezéseit is figyelembe kell venni.
 
-(2) A nem szakirányú felsőfokú iskolai végzettséggel és a munkakörére meghatározott, szakirányú felsőfokú szakképesítéssel is rendelkező igazságügyi alkalmazottat kivételesen lehet besorolni a III. fizetési osztályba; a besorolás részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBT határozatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
+(2) A nem szakirányú felsőfokú iskolai végzettséggel és a munkakörére meghatározott, szakirányú felsőfokú szakképesítéssel is rendelkező igazságügyi alkalmazottat kivételesen lehet besorolni a III. fizetési osztályba; a besorolás részletes szabályait az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
 
 (3) Az írnoki munkakört ellátó alkalmazott besorolásánál a 101. §-ban foglaltak megfelelő alkalmazásával legfeljebb két fizetési fokozattal csökkentett fokozat állapítható meg.
 
@@ -1222,35 +1222,108 @@ okozta.
 
 (4) Ha – mindaddig, amíg az igazságügyi alkalmazott igazságügyi szolgálati ideje nem éri el azt az időt, amely alapján a soron kívüli előresorolása szerinti fizetési fokozatba lépne – a teljesítményértékelés alapján megállapítható, hogy az igazságügyi alkalmazott munkájának színvonala tartósan átlag alattivá válik, alapilletményét a soron kívüli előresorolása szerinti fizetési fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
 
-#### 103/A. §
+103/A. § (1) A bíróságokon, az OBH-ban és az OBT-nél foglalkoztatott tisztviselő, írnok és fizikai dolgozó (a továbbiakban együtt: bíróságon foglalkoztatott ügyintéző), valamint – az OBH elnökhelyettesének kivételével – a tisztviselők, írnokok és fizikai dolgozók közül kinevezett vezető (a továbbiakban együtt: bíróságon foglalkoztatott vezető) az e törvényben meghatározottak szerint megállapított illetményre jogosult. Az illetmény összege nem lehet kevesebb, mint a garantált bérminimum összege.
+
+(2) A bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők esetében nem alkalmazhatók – a szolgálati idő számítására vonatkozó szabályok kivételével – e törvény 97–106. §-ában, valamint a 122. § foglaltak, a bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők besorolására és illetmény megállapítására, valamint érdemeik elismerésére a 107-109/A. §-ok rendelkezéseit kell alkalmazni.
 
 ### A vezetői illetmény
 
-104. § (1) Az egyéb igazságügyi szerv vezetőjét és helyettesét, a főosztályvezetőt és a főosztályvezető-helyettest, az igazgatót és az igazgatóhelyettest, az osztályvezetőt és az osztályvezető-helyettest, a csoportvezetőt és a csoportvezető-helyettest, valamint a bírósági irodavezetőt az V. fizetési osztályba kell besorolni, amely tekintetében a fizetési fokozatokat a 7. melléklet tartalmazza.
+104. § (1) Az egyéb igazságügyi szerv vezetőjét és helyettesét, a főosztályvezetőt és a főosztályvezető-helyettest, az igazgatót és az igazgatóhelyettest, az osztályvezetőt és az osztályvezető-helyettest, a csoportvezetőt és a csoportvezető-helyettest az V. fizetési osztályba kell besorolni, amely tekintetében a fizetési fokozatokat a 7. melléklet tartalmazza.
 
-(2) A bírósági irodavezető akkor sorolható az V. fizetési osztályba, ha legalább két beosztottja van.
+(2)
 
 (3) A munkáltatói jogkör gyakorlója a vezetői munkakört betöltő igazságügyi alkalmazott illetményének megállapítása során a 97. § (3) bekezdésében meghatározott szempontok mellett figyelembe veszi a vezetett igazságügyi szerv vagy szervezeti egység szintjét, nagyságát, valamint a beosztottak létszámát.
 
 ### A beosztási pótlék
 
-105. § (1) A Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági titkárt, bírósági fogalmazót, tisztviselőt és írnokot, valamint az egyéb igazságügyi szervnél dolgozó igazságügyi szakértőt, szakértő gyakornokot, tisztviselőt és technikust beosztási pótlék illeti meg.
+105. § (1) A Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági titkárt, bírósági fogalmazót, valamint az egyéb igazságügyi szervnél dolgozó igazságügyi szakértőt, szakértő gyakornokot, tisztviselőt és technikust beosztási pótlék illeti meg.
 
 (2) A beosztási pótlék mértéke
 
 - a) a Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági titkár és az egyéb igazságügyi szervnél dolgozó igazságügyi szakértő esetén az illetményalap 20 százaléka,
-- b) a Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági fogalmazó, a III. és V. fizetési osztályba sorolt tisztviselő, valamint az egyéb igazságügyi szervnél dolgozó szakértő gyakornok, a III. és V. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 15 százaléka,
-- c) a Kúrián, az OBH-nál és az OBT-nél dolgozó IV. fizetési osztályba sorolt tisztviselő, írnok, valamint az egyéb igazságügyi szervnél dolgozó IV. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 5 százaléka.
+- b) a Kúrián, az OBH-nál és az OBT-nél dolgozó bírósági fogalmazó, valamint az egyéb igazságügyi szervnél dolgozó szakértő gyakornok, a III. és V. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 15 százaléka,
+- c) az egyéb igazságügyi szervnél dolgozó IV. fizetési osztályba sorolt tisztviselő és technikus esetén az illetményalap 5 százaléka.
 
 ### A címpótlék
 
 106. § Az igazságügyi alkalmazott az e törvény alapján adományozott címmel az illetményalap 15 százalékának megfelelő összegű címpótlékra jogosult. Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a szakirányú felsőfokú iskolai végzettségű V. fizetési osztályba tartozó, tanácsosi cím pedig a középfokú iskolai végzettségű V. fizetési osztályba tartozó igazságügyi alkalmazott részére is adományozható. A cím adományozására a bíróság, az OBH és az OBT alkalmazottainak tekintetében az OBT, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
 
-#### 107. §
+### A bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők besorolása, illetmény megállapítása és érdemeik elismerése
 
-#### 108. §
+107. § (1) A bíróságon foglalkoztatott ügyintézők tekintetében – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
 
-#### 109. §
+- a) ügyintéző, ezen belül:
+  - aa) igazságügyi-tanácsos I.,
+  - ab) igazságügyi-tanácsos II.,
+  - ac) igazságügyi-főtanácsos I.,
+  - ad) igazságügyi-főtanácsos II.,
+  - ae) igazságügyi-főtanácsos III.,
+- b) vezető.
+
+(2) A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintézők tekintetében az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
+
+- a) ügyintéző, ezen belül:
+  - aa) igazságügyi-tanácsos III.,
+  - ab) igazságügyi-tanácsos IV.,
+  - ac) igazságügyi-főtanácsos IV.,
+  - ad) igazságügyi-főtanácsos V.,
+- b) vezető.
+
+108. § (1) A bíróságon foglalkoztatott ügyintézőt a munkáltatói jogkör gyakorlója sorolja be – a (2) bekezdésben foglaltak kivételével – a 8. mellékletben foglalt Illetménytábla igazságügyi-tanácsos I., igazságügyi-tanácsos II., igazságügyi-főtanácsos I., igazságügyi-főtanácsos II. vagy igazságügyi-főtanácsos III. besorolási kategóriába.
+
+(2) A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintézőt a munkáltatói jogkör gyakorlója sorolja be a 9. mellékletben foglalt Illetménytábla igazságügyi-tanácsos III., igazságügyi-tanácsos IV., igazságügyi-főtanácsos IV. vagy igazságügyi-főtanácsos V. besorolási kategóriába.
+
+(3) A bíróságon foglalkoztatott vezetőt a munkáltatói jogkör gyakorlója – a (4) bekezdésben foglaltak kivételével – a 8. mellékletben foglalt Illetménytábla osztályvezető vagy főosztályvezető besorolási kategóriáiba sorolja be. A bíróságon foglalkoztatott magasabb vezetőt a főosztályvezető besorolási kategóriába kell sorolni.
+
+(4) A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott vezetőt a munkáltatói jogkör gyakorlója a 9. mellékletben foglalt Illetménytábla osztályvezető vagy főosztályvezető besorolási kategóriába sorolja be. A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott magasabb vezetőt a főosztályvezető besorolási kategóriába kell sorolni.
+
+(5) A jogviszonya alapján
+
+- a) az (1) bekezdés szerinti, a bíróságon foglalkoztatott ügyintéző az (1) bekezdés,
+- b) a (3) bekezdés szerinti, a bíróságon foglalkoztatott vezető a (3) bekezdés
+
+szerinti besorolása alapján havonta a 8. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg – a szakmai képességek, a képzettség, a gyakorlat, valamint a teljesítmény alapján – az álláshelyhez tartozó besorolási kategória szerinti sávon belül.
+
+(6) A jogviszonya alapján
+
+- a) a (2) bekezdés szerinti, a Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintéző a (2) bekezdés,
+- b) a (4) bekezdés szerinti, a Kúrián, az OBH-nál és az OBT-nél foglalkoztatott vezető a (4) bekezdés
+
+szerinti besorolása alapján havonta a 9. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg – a szakmai képességek, a képzettség, a gyakorlat, valamint a teljesítmény alapján – az álláshelyhez tartozó besorolási kategória szerinti sávon belül.
+
+(7) A besorolás részletes szabályait a Kúriával szolgálati jogviszonyban álló bíróságon foglalkoztatott ügyintézők és bíróságon foglalkoztatott vezetők tekintetében a Kúria elnöke állapítja meg, az egyéb bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló bíróságon foglalkoztatott ügyintézők és bíróságon foglalkoztatott vezetők tekintetében az OBH elnöke szabályzatban állapítja meg, az OBT-vel szolgálati jogviszonyban álló bíróságon foglalkoztatott ügyintézők és bíróságon foglalkoztatott vezetők tekintetében az OBT határozatban állapítja meg.
+
+109. § (1) A munkáltatói jogkör gyakorlója a bíróságon foglalkoztatott ügyintéző és vezető tárgyévet megelőző teljesítményértékelése vagy értékelése alapján
+
+- a) illetményét az adott besorolási kategóriához tartozó összeghatáron belül legfeljebb 20%-kal csökkentheti, illetve legfeljebb 30%-kal növelheti,
+- b) részére teljesítmény elismerést fizetését rendelheti el.
+
+(2) Az (1) bekezdés szerinti intézkedések elrendelése tekintetében a teljesítményértékelésen és értékelésen túl a munkáltatói jogkör gyakorlója az alábbi szempontokat veszi figyelembe:
+
+- a) a munkakörre előírt képesítés megszerzése során elért tanulmányi eredmény,
+- b) az igazságügyi szervnél szerzett szakmai tapasztalat,
+- c) az igazságügyi szervnek nem minősülő, egyéb munkáltatónál szerzett, a munkaköre alapján ellátott feladatok szempontjából jelentős tapasztalat,
+- d) az igazságügyi alkalmazott által szerzett végzettség, egyéb képesítés, nyelvtudás,
+- e) a munkavégzés színvonala,
+- f) a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés, és
+- g) a munkakör ellátásához kapcsolódó felelősség.
+
+109/A. § A bíróságon foglalkoztatott ügyintéző és vezető a munkaköri feladatok hosszabb időn át történő eredményes ellátásáért vagy adott feladat kiemelkedő teljesítéséért a következő elismerésekben részesíthető:
+
+- a) pénz- vagy tárgyjutalom,
+- b) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel alapított kitüntetés, illetve az e törvényben kapott felhatalmazás alapján alapított díj, oklevél, plakett stb.
+
+### A kiemelt munkakör
+
+109/B. § (1) A munkáltatói jogkör gyakorlója a 2. § (2) bekezdés b)–d) pontja szerinti igazságügyi alkalmazott munkakörét kiemelt munkakörré minősítheti.
+
+(2) A munkáltatói jogkör gyakorlója a kiemelt munkakörben foglalkoztatott igazságügyi alkalmazott illetményét az Mt. alapján állapíthatja meg, amelynek havi mértéke a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozóan nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
+
+(3) Az igazságügyi szervnél a tárgyévben kiemelt munkakörben foglalkoztatott igazságügyi alkalmazottak aránya együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát.
+
+### A munkakör ellátásához kapcsolódó terhelés figyelembe vétele
+
+109/C. § Azokat a munkaköröket, amelyek esetében a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés figyelembevétele nem mellőzhető, az igazságügyért felelős miniszter, valamint a miniszter rendeletben határozza meg.
 
 ### Kirendelési díj
 
@@ -1413,7 +1486,7 @@ okozta.
 - d) főtanácsosi vagy tanácsosi cím adományozása,
 - e) Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel alapított kitüntetés, illetve az e törvényben kapott felhatalmazás alapján alapított díj, oklevél, plakett stb.
 
-(2) Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a III. fizetési osztályba tartozó, a tanácsosi cím pedig a IV. fizetési osztályba tartozó igazságügyi alkalmazott részére adományozható. A cím adományozására a bíróság, az OBH és az OBT alkalmazottainak tekintetében az OBT, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
+(2) Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a III. fizetési osztályba tartozó, a tanácsosi cím pedig a IV. fizetési osztályba tartozó igazságügyi alkalmazott részére adományozható. A cím adományozására az igazságügyi alkalmazott tekintetében a miniszter jogosult.
 
 (3) Kiváló munkavégzés esetén és igazságügyi szolgálati jogviszonyban eltöltött legalább tíz év után az I. fizetési osztályba tartozó igazságügyi alkalmazottnak „főtanácsos” cím adományozható.
 
@@ -1525,6 +1598,20 @@ okozta.
 
 (5) A munkáltató, ha az igazságügyi alkalmazott gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – az igazságügyi alkalmazott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
 
+134/K. § (1) Az igazságügyi alkalmazott számára – a 134/L. §-ban foglaltak kivételével – az e törvénynek Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény (a továbbiakban: Módtv3.) 52. § (1) bekezdésével megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 52. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(2) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – a Módtv3. 52. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3. 52. § (1) bekezdésével megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a Módtv3. 52. §-ának hatálybalépése előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A Módtv3. 52. §-ának hatálybalépése előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
+
+(3) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – az e törvénynek a Módtv3. 52. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 52. §-ának hatálybalépését követő 60 napon belül kerül sor.
+
+134/L. § (1) A bíróságon foglalkoztatott ügyintéző és a bíróságon foglalkoztatott vezető számára Módtv3. rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 50. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(2) A bíróságon foglalkoztatott ügyintézőt és a bíróságon foglalkoztatott vezetőt a Módtv3. 50. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3.-al megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani.
+
+(3) A bíróságon foglalkoztatott ügyintézőt és a bíróságon foglalkoztatott vezetőt az e törvénynek a Módtv3.-al megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 50. §-ának hatálybalépését követő 60 napon belül kerül sor.
+
+134/M. § Ha a tisztviselő, az írnok és bírósági ügyintéző számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.
+
 135. § (1) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerveket rendeletben határozza meg.
 
 (2)
@@ -1595,23 +1682,47 @@ rendeletben állapítsa meg.
 - 14. Az igazságügyi alkalmazott észrevételei, dátum és aláírás.
 - 15. Az érdek-képviseleti szerv észrevételei, dátum, aláírás.
 
-### 2. számú melléklet az 1997. évi LXVIII. törvényhez
+### 2. melléklet az 1997. évi LXVIII. törvényhez
 
 #### Az igazságügyi alkalmazottak személyi nyilvántartásának adatköre
 
-- 1. Nyilvántartási szám, – név (nőknél a leánykori név is), – születési hely és idő, – anyja neve, – lakóhely – családi állapota, – házastárs neve, – gyermekei neve és születési ideje.
-- 2. A legmagasabb iskolai végzettség (több végzettség esetén valamennyi), – szakképzettség, – szaktanfolyam és szakvizsga megnevezése és időpontja, – jelenleg folytatott tanulmányok megnevezése, – idegennyelv-ismeret.
+- 1. Nyilvántartási szám,
+- 1.1. név (születési név is),
+- 1.2. születési hely és idő,
+- 1.3. anyja neve,
+- 1.4. lakóhely,
+- 1.5. családi állapota,
+- 1.6. házastárs neve,
+- 1.7. gyermekei neve és születési ideje.
+- 2. A legmagasabb iskolai végzettség (több végzettség esetén valamennyi),
+- 2.1. szakképzettség,
+- 2.2. szaktanfolyam és szakvizsga megnevezése és időpontja,
+- 2.3. jelenleg folytatott tanulmányok megnevezése,
+- 2.4. idegennyelv-ismeret.
 - 3. Katonai szakképzettség száma, katonai rendfokozat.
-- 4. Az igazságügyi szervhez történő kinevezés időpontja – a beszámított szolgálati idő kezdete, – a korábbi tevékenységek és a vonatkozó munkahelyek megnevezése, a belépés és kilépés időpontjai, a beosztások (munkakörök) megjelölése, a beszámított jogviszonyok megszűnésének jogcímei, – a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány száma és kelte.
-- 5. Az igazságügyi szervnél a kinevezés utáni beosztások, – a szolgálati helyek (időtartam kezdete és vége), – munkakörök (időtartam kezdete és vége), – szakterületek (időtartam kezdete és vége), – elektronikus aláírási jogosultság (időtartam kezdete és vége, típusa), – FEOR-szám.
-- 6. A fizetési fokozat megjelölése, annak összege és a besorolás időpontja, a következő kötelező előresorolás időpontja, – a beosztási pótlék megnevezése, százaléka és összege, – az egyéb folyósított pótlékok megnevezése és összege, – az összilletmény összege.
+- 4. Az igazságügyi szervhez történő kinevezés időpontja
+- 4.1. a beszámított szolgálati idő kezdete,
+- 4.2. a korábbi tevékenységek és a vonatkozó munkahelyek megnevezése, a belépés és kilépés időpontjai, a beosztások (munkakörök) megjelölése, a beszámított jogviszonyok megszűnésének jogcímei,
+- 4.3. a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány száma és kelte.
+- 5. Az igazságügyi szervnél a kinevezés utáni beosztások,
+- 5.1. a szolgálati helyek (időtartam kezdete és vége),
+- 5.2. munkakörök (időtartam kezdete és vége),
+- 5.3. szakterületek (időtartam kezdete és vége),
+- 5.4. elektronikus aláírási jogosultság (időtartam kezdete és vége, típusa),
+- 5.5. FEOR-szám.
+- 6. A fizetési fokozat vagy álláshelyi besorolási kategória megjelölése, annak összege és a besorolás időpontja, a következő kötelező előresorolás időpontja,
+- 6.1. a beosztási pótlék megnevezése, százaléka és összege,
+- 6.2. az egyéb folyósított pótlékok megnevezése és összege,
+- 6.3. az összilletmény összege.
 - 7. A tárgyévben kapott külön juttatás, jubileumi jutalom, egyéb javadalmazások, kedvezmények és költségtérítések megnevezése, összegei és egyéb adatai.
 - 8. A más kereső foglalkozás megnevezése.
 - 9. A korábbi értékelés időpontjai és az összefoglaló vélemények szerinti minősítések, a következő értékelés időpontja.
 - 10. A kitüntetések és egyéb elismerések megnevezése és az adományozás időpontja.
 - 11. A hatályos fegyelmi büntetésre vonatkozó adatok.
 - 12. A munkából való távollétek jogcíme és időtartama.
-- 13. Az igazságügyi szolgálati viszony megszűnésének jogcíme és időpontja. Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és beosztására utal, továbbá a szolgálati helyen belüli azonosításra szolgál.
+- 13. Az igazságügyi szolgálati viszony megszűnésének jogcíme és időpontja.
+
+Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és beosztására utal, továbbá a szolgálati helyen belüli azonosításra szolgál.
 
 ### 3. melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1621,49 +1732,49 @@ rendeletben állapítsa meg.
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,84 | 0,92 |
-| 3. | 2. | 4 | 7 | 0,90 | 1,08 |
-| 4. | 3. | 8 | 11 | 0,98 | 1,19 |
-| 5. | 4. | 12 | 18 | 1,04 | 1,25 |
-| 6. | 5. | 19 | 25 | 1,09 | 1,31 |
-| 7. | 6. | 26 | 35 | 1,14 | 1,37 |
-| 8. | 7. | 36 |  | 1,26 | 1,40 |
+| 1 | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2 | 1. | 0 | 3 | 0,99 | 1,07 |
+| 3 | 2. | 4 | 7 | 1,05 | 1,23 |
+| 4 | 3. | 8 | 11 | 1,13 | 1,34 |
+| 5 | 4. | 12 | 18 | 1,19 | 1,4 |
+| 6 | 5. | 19 | 25 | 1,24 | 1,46 |
+| 7 | 6. | 26 | 35 | 1,29 | 1,52 |
+| 8 | 7. | 36 |  | 1,41 | 1,55 |
 
 - 2. Igazságügyi szakértő
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,84 | 0,92 |
-| 3. | 2. | 4 | 7 | 0,90 | 1,08 |
-| 4. | 3. | 8 | 11 | 0,98 | 1,19 |
-| 5. | 4. | 12 | 18 | 1,04 | 1,25 |
-| 6. | 5. | 19 | 25 | 1,09 | 1,31 |
-| 7. | 6. | 26 | 35 | 1,14 | 1,37 |
-| 8. | 7. | 36 |  | 1,26 | 1,40 |
+| 2. | 1. | 0 | 3 | 0,99 | 1,07 |
+| 3. | 2. | 4 | 7 | 1,05 | 1,23 |
+| 4. | 3. | 8 | 11 | 1,13 | 1,34 |
+| 5. | 4. | 12 | 18 | 1,19 | 1,4 |
+| 6. | 5. | 19 | 25 | 1,24 | 1,46 |
+| 7. | 6. | 26 | 35 | 1,29 | 1,52 |
+| 8. | 7. | 36 |  | 1,41 | 1,55 |
 
 ### 4. melléklet az 1997. évi LXVIII. törvényhez
 
-#### A II. fizetési osztály (bírósági fogalmazó, szakértő gyakornok) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+#### A II. fizetési osztály (bírósági fogalmazó, szakértőjelölt) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
 
 - 1. Bírósági fogalmazó
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 1 | 0,53 | 0,74 |
-| 3. | 2. | 2 | 3 | 0,57 | 0,79 |
-| 4. | 3. | 4 |  | 0,60 | 0,83 |
+| 1 | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
+| 2 | 1. | 0 | 1 | 0,68 | 0,89 |
+| 3 | 2. | 2 | 3 | 0,72 | 0,94 |
+| 4 | 3. | 4 |  | 0,75 | 0,98 |
 
-- 2. Szakértő gyakornok
+- 2. Szakértőjelölt
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 1 | 0,53 | 0,74 |
-| 3. | 2. | 2 | 3 | 0,57 | 0,79 |
-| 4. | 3. | 4 |  | 0,60 | 0,83 |
+| 2. | 1. | 0 | 1 | 0,68 | 0,89 |
+| 3. | 2. | 2 | 3 | 0,72 | 0,94 |
+| 4. | 3. | 4 |  | 0,75 | 0,98 |
 
 ### 5. melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1672,14 +1783,14 @@ rendeletben állapítsa meg.
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,42 | 0,70 |
-| 3. | 2. | 4 | 7 | 0,54 | 0,76 |
-| 4. | 3. | 8 | 11 | 0,59 | 0,88 |
-| 5. | 4. | 12 | 18 | 0,65 | 0,92 |
-| 6. | 5. | 19 | 25 | 0,73 | 1,05 |
-| 7. | 6. | 26 | 30 | 0,81 | 1,09 |
-| 8. | 7. | 31 | 35 | 0,85 | 1,13 |
-| 9. | 8. | 36 |  | 0,90 | 1,16 |
+| 2: | 1. | 0 | 3 | 0,57 | 0,85 |
+| 3. | 2. | 4 | 7 | 0,69 | 0,91 |
+| 4. | 3. | 8 | 11 | 0,74 | 1,03 |
+| 5. | 4. | 12 | 18 | 0,8 | 1,07 |
+| 6. | 5. | 19 | 25 | 0,88 | 1,2 |
+| 7. | 6. | 26 | 30 | 0,96 | 1,24 |
+| 8. | 7. | 31 | 35 | 1 | 1,28 |
+| 9. | 8. | 36 |  | 1,05 | 1,31 |
 
 ### 6. melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1688,14 +1799,14 @@ rendeletben állapítsa meg.
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,38 | 0,47 |
-| 3. | 2. | 4 | 7 | 0,42 | 0,54 |
-| 4. | 3. | 8 | 11 | 0,46 | 0,66 |
-| 5. | 4. | 12 | 18 | 0,53 | 0,73 |
-| 6. | 5. | 19 | 25 | 0,56 | 0,77 |
-| 7. | 6. | 26 | 30 | 0,59 | 0,80 |
-| 8. | 7. | 31 | 35 | 0,65 | 0,85 |
-| 9. | 8. | 36 |  | 0,72 | 0,93 |
+| 2. | 1. | 0 | 3 | 0,53 | 0,62 |
+| 3. | 2. | 4 | 7 | 0,57 | 0,69 |
+| 4. | 3. | 8 | 11 | 0,61 | 0,81 |
+| 5. | 4. | 12 | 18 | 0,68 | 0,88 |
+| 6. | 5. | 19 | 25 | 0,71 | 0,92 |
+| 7. | 6. | 26 | 30 | 0,74 | 0,95 |
+| 8. | 7. | 31 | 35 | 0,8 | 1 |
+| 9. | 8. | 36 |  | 0,87 | 1,08 |
 
 ### 7. melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1704,9 +1815,38 @@ rendeletben állapítsa meg.
 |  | A | B | C |
 | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese | 1,23 | 1,85 |
-| 3. | Főosztályvezető-helyettes, igazgató | 1,09 | 1,74 |
-| 4. | Osztályvezető, igazgatóhelyettes | 0,97 | 1,62 |
-| 5. | Osztályvezető-helyettes | 0,68 | 1,51 |
-| 6. | Csoportvezető | 0,64 | 1,45 |
-| 7. | Csoportvezető-helyettes, bírósági irodavezető | 0,53 | 1,39 |
+| 2. | Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese | 1,38 | 2 |
+| 3. | Főosztályvezető-helyettes, igazgató | 1,24 | 1,89 |
+| 4. | Osztályvezető, igazgatóhelyettes | 1,12 | 1,77 |
+| 5. | Osztályvezető-helyettes | 0,83 | 1,66 |
+| 6. | Csoportvezető | 0,79 | 1,6 |
+| 7. | Csoportvezető-helyettes, bírósági irodavezető | 0,68 | 1,54 |
+
+### 8. melléklet az 1997. évi LXVIII. törvényhez
+
+#### Illetménytábla a járásbíróságon, a törvényszéken és az ítélőtáblán foglalkoztatott ügyintézők és vezetők részére
+
+|  | A) | B) | C) |
+| --- | --- | --- | --- |
+|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa |
+| 1 | igazságügyi-tanácsos I. | a mindenkori garantált bérminimum | 500 000 Ft |
+| 2 | igazságügyi-tanácsos II. | 300 000 Ft | 650 000 Ft |
+| 3 | igazságügyi-főtanácsos I. | 400 000 Ft | 750 000 Ft |
+| 4 | igazságügyi-főtanácsos II. | 450 000 Ft | 1 000 000 Ft |
+| 5 | igazságügyi-főtanácsos III. | 500 000 Ft | 1 450 000 Ft |
+| 6 | osztályvezető | 400 000 Ft | 1 450 000 Ft |
+| 7 | főosztályvezető | 550 000 Ft | 2 000 000 Ft |
+
+### 9. melléklet az 1997. évi LXVIII. törvényhez
+
+#### Illetménytábla a Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintézők és vezetők részére
+
+|  | A) | B) | C) |
+| --- | --- | --- | --- |
+|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa |
+| 1 | igazságügyi-tanácsos III. | a mindenkori garantált bérminimum | 750 000 Ft |
+| 2 | igazságügyi-tanácsos IV. | 350 000 Ft | 1 000 000 Ft |
+| 3 | igazságügyi-főtanácsos IV. | 400 000 Ft | 1 250 000 Ft |
+| 4 | igazságügyi-főtanácsos V. | 600 000 Ft | 1 800 000 Ft |
+| 5 | osztályvezető | 700 000 Ft | 1 600 000 Ft |
+| 6 | főosztályvezető | 800 000 Ft | 2 000 000 Ft |

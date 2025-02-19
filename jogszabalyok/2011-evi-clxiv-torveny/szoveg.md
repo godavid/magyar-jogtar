@@ -291,7 +291,7 @@ hívja össze.
 
 (3) Vezető állású ügyész:
 
-- a) a legfőbb ügyészségi osztályvezető helyettes ügyész;
+- a)
 - b) a fellebbviteli főügyészségi osztályvezető ügyész;
 - c) a főügyészségi osztályvezető ügyész;
 - d) a legfőbb ügyészségi csoportvezető ügyész;
@@ -834,23 +834,33 @@ köteles foglalkoztatni. Ezt követően az ügyész munkaidejét a kérelem beny
 
 jogosult.
 
-(2) Az ügyész illetménye alapilletményből, továbbá az e törvényben meghatározott pótlékból tevődik össze. A beosztási pótlék, a vezetői pótlék és a címpótlék alapilletmény jellegű.
+(2) A legfőbb ügyészségi ügyész kivételével az ügyész illetménye alapilletményből, továbbá az e törvényben meghatározott pótlékból tevődik össze. A beosztási pótlék, a vezetői pótlék és a címpótlék alapilletmény jellegű.
 
 (3) Az alapilletmény és a pótlékok számításának alapjául szolgáló ügyészi illetményalapot (a továbbiakban: illetményalap) évenként a központi költségvetésről szóló törvény határozza meg úgy, hogy annak összege az előző évinél nem lehet alacsonyabb és mindenkor meg kell felelnie a bírói illetményalapnak.
 
 (4) A legfőbb ügyész a Kúria elnökével azonos illetményre és más javadalmazásra jogosult.
 
+(5) A legfőbb ügyész helyettes a Kúria elnökhelyettesével azonos havi illetményre és más javadalmazásra jogosult.
+
+(6) A legfőbb ügyészségi főosztályvezető ügyész és a legfőbb ügyészségi főosztályvezető helyettes ügyész a Kúria kollégiumvezetőjével és a Kúria kollégiumvezető-helyettesével azonos havi illetményre jogosult.
+
+(7) A legfőbb ügyészségi osztályvezető ügyész a Kúria tanácselnökével azonos havi illetményre jogosult.
+
+(8) A legfőbb ügyészségi csoportvezető ügyész havi illetményként a legfőbb ügyész havi illetményének a 65 százalékára jogosult.
+
+(9) A legfőbb ügyészségi ügyész a kúriai bíróval azonos havi illetményre jogosult.
+
 #### 21. Az alapilletmény
 
-60. § (1) Az ügyész alapilletményét az e törvény szerint számított szolgálati idő (a továbbiakban: szolgálati idő) alapján, az illetményalap és e törvény 1. mellékletében fizetési fokozatonként meghatározott szorzószámok szorzataként kell megállapítani.
+60. § (1) A legfőbb ügyészségi ügyész kivételével az ügyész alapilletményét az e törvény szerint számított szolgálati idő (a továbbiakban: szolgálati idő) alapján, az illetményalap és e törvény 1. mellékletében fizetési fokozatonként meghatározott szorzószámok szorzataként kell megállapítani.
 
-(2) A besorolásánál számított alapilletmény havibér, amelynek fokozatait e törvény 1. melléklete tartalmazza.
+(2) A legfőbb ügyészségi ügyész kivételével az ügyész besorolásánál számított alapilletmény havibér, amelynek fokozatait e törvény 1. melléklete tartalmazza.
 
-61. § (1) Az 1. fizetési fokozatba kell besorolni azt az ügyészt, aki a kinevezésekor szolgálati idővel még nem rendelkezik, vagy a kinevezésekor beszámított szolgálati idő a három évet nem haladja meg.
+61. § (1) Az 1. fizetési fokozatba kell besorolni a legfőbb ügyészség ügyész kivételével azt az ügyészt, aki a kinevezésekor szolgálati idővel még nem rendelkezik, vagy a kinevezésekor beszámított szolgálati idő a három évet nem haladja meg.
 
-(2) Az ügyész minden három év szolgálati idő megszerzése után eggyel magasabb fizetési fokozatba lép.
+(2) A legfőbb ügyészségi ügyész kivételével az ügyész minden három év szolgálati idő megszerzése után eggyel magasabb fizetési fokozatba lép.
 
-(3) A legfőbb ügyész helyettes a Kúria elnökhelyettesével azonos illetményre és más javadalmazásra jogosult.
+(3)
 
 62. § (1) A szolgálati időt – a (2) bekezdésben foglalt eltéréssel – az ügyészi kinevezés napjától kell számítani.
 
@@ -858,32 +868,34 @@ jogosult.
 
 (3) A (2) bekezdésben foglalt rendelkezés alkalmazásakor a szolgálati időt úgy kell meghatározni, hogy a következő fizetési fokozatba sorolás az év első napjával történjék.
 
-63. § (1) Az ügyészt – kiváló, magasabb ügyészi beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén – az ügyészi tisztségének a fennállása alatt két alkalommal eggyel magasabb fizetési fokozatba lehet besorolni. Két soron kívüli előresorolás között legalább hat évnek kell eltelnie. A soron kívüli előresorolásnál a korábbi fizetési fokozatban megszerzett szolgálati időt az új fizetési fokozatban is figyelembe kell venni.
+63. § (1) A legfőbb ügyészségi ügyész kivételével az ügyészt – kiváló, magasabb ügyészi beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén – az ügyészi tisztségének a fennállása alatt két alkalommal eggyel magasabb fizetési fokozatba lehet besorolni. Két soron kívüli előresorolás között legalább hat évnek kell eltelnie. A soron kívüli előresorolásnál a korábbi fizetési fokozatban megszerzett szolgálati időt az új fizetési fokozatban is figyelembe kell venni.
 
 (2) A soron kívüli előresorolást az adott naptári év első napjával kell végrehajtani.
 
 #### 22. Az illetménypótlékok
 
-64. § (1) Az ügyészt havonta beosztási pótlék illeti meg, amelynek összege az illetményalap
+64. § (1) A legfőbb ügyészségi ügyész kivételével az ügyészt havonta beosztási pótlék illeti meg, amelynek összege az illetményalap
 
 - a) húsz százaléka a járási ügyészség ügyésze esetében,
 - b) negyven százaléka a főügyészség ügyésze esetében,
 - c) hetven százaléka a fellebbviteli főügyészség ügyésze esetében,
-- d) százhúsz százaléka a Legfőbb Ügyészség ügyésze esetében.
+- d)
 
 (2) Kiváló, magasabb ügyészi beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén és az adott szintű ügyészségen, ügyészként eltöltött legalább hat év után – beszámítva a magasabb szintű ügyészségen ügyészként teljesített időt is –
 
 - a) a járási ügyészség ügyésze részére „Címzetes főügyészségi ügyész”,
 - b) a főügyészség ügyésze részére „Címzetes fellebbviteli főügyészségi ügyész”,
 - c) a fellebbviteli főügyészség ügyésze részére „Címzetes legfőbb ügyészségi ügyész”,
-- d) a Legfőbb Ügyészség ügyésze részére „Legfőbb ügyészségi tanácsos” cím adományozható.
+- d)
+
+cím adományozható.
 
 (3) Az adott szintű ügyészségen ténylegesen folytatott ügyészi gyakorlattal eltöltött legalább húsz év után
 
 - a) a járási ügyészség ügyésze részére „Címzetes főügyészségi ügyész”,
 - b) a főügyészség ügyésze részére „Címzetes fellebbviteli főügyészségi ügyész”,
 - c) a fellebbviteli főügyészség ügyésze részére „Címzetes legfőbb ügyészségi ügyész”,
-- d) a Legfőbb Ügyészség ügyésze részére „Legfőbb ügyészségi tanácsos”
+- d)
 
 cím jár.
 
@@ -892,17 +904,17 @@ cím jár.
 - a) harminc százaléka a „Címzetes főügyészségi ügyész”,
 - b) ötven százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
 - c) nyolcvan százaléka a „Címzetes legfőbb ügyészségi ügyész”,
-- d) százharminc százaléka a „Legfőbb ügyészségi tanácsos”
+- d)
 
 cím esetén.
 
 (4a) A címpótlékban részesülő ügyészt beosztási pótlék nem illeti meg.
 
-(5) Ha az ügyészt ügyészségi érdekből alacsonyabb szintű ügyészséghez helyezik át, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Ügyészségi érdeknek minősül, ha az ügyészt alacsonyabb szintű ügyészségen vezetőnek nevezik ki, valamint ha a 25. § (2) vagy (4) bekezdésében, illetve 36. § (1) bekezdés a)–b) pontjában vagy a 47. § (5) bekezdésében említett okból alacsonyabb szintű ügyészségre helyezik át.
+(5) Ha az ügyészt ügyészségi érdekből alacsonyabb szintű ügyészséghez helyezik át, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Ha a legfőbb ügyészségi ügyészt ügyészségi érdekből alacsonyabb szintű ügyészséghez helyezik át, legfőbb ügyészségi ügyészi illetményére továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Ügyészségi érdeknek minősül, ha az ügyészt alacsonyabb szintű ügyészségen vezetőnek nevezik ki, valamint ha a 25. § (2) vagy (4) bekezdésében, illetve 36. § (1) bekezdés a)–b) pontjában vagy a 47. § (5) bekezdésében említett okból alacsonyabb szintű ügyészségre helyezik át.
 
-(6) Alacsonyabb szintű ügyészségre történő kirendelés esetén az ügyész beosztási pótléka nem változik, illetőleg címét és a címmel járó pótlékát megtartja, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Magasabb szintű ügyészségre történő kirendelés esetében az ügyész a kirendelés helyének megfelelő beosztási pótlékra jogosult; a kirendelés időtartamára az ügyészt a címpótlék nem illeti meg.
+(6) Alacsonyabb szintű ügyészségre történő kirendelés esetén az ügyész beosztási pótléka nem változik, illetve címét és a címmel járó pótlékát megtartja, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Alacsonyabb szintű ügyészségre történő kirendelés esetén a legfőbb ügyészségi ügyész legfőbb ügyészségi ügyészi illetményére továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Magasabb szintű ügyészségre történő kirendelés esetében az ügyész a kirendelés helyének megfelelő beosztási pótlékra jogosult; a kirendelés időtartamára az ügyészt a címpótlék nem illeti meg.
 
-65. § (1) A 2. mellékletben meghatározott vezetői tisztséget betöltő ügyészt havonta vezetői pótlék illeti meg.
+65. § (1) A 2. mellékletben meghatározott vezetői tisztséget betöltő ügyészt, a legfőbb ügyészségi ügyész kivételével havonta vezetői pótlék illeti meg.
 
 (2) A vezetői pótlékot – a 2. mellékletben meghatározottak szerint – az illetményalap százalékában kell megállapítani.
 
@@ -912,17 +924,17 @@ cím esetén.
 
 (5) A vezetői pótlék csak egy jogcímen, a magasabb vezetői tisztség után jár.
 
-66. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzata terhére – az ügyész részére határozott időre, illetve a feladat ellátásának idejére kiegészítő pótlékot állapíthat meg, ha az ügyészség alaptevékenységébe tartozó munkaköri feladatai mellett sajtószóvivői, instruktori vagy más, a működéshez szükséges feladatokat rendszeresen teljesít.
+66. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzata terhére – a legfőbb ügyészségi ügyész kivételével az ügyész részére határozott időre, illetve a feladat ellátásának idejére kiegészítő pótlékot állapíthat meg, ha az ügyészség alaptevékenységébe tartozó munkaköri feladatai mellett sajtószóvivői, instruktori vagy más, a működéshez szükséges feladatokat rendszeresen teljesít.
 
 (2) A kiegészítő pótlék összege az illetményalap öt százalékától harminc százalékáig terjedhet, és több feladat teljesítése esetén sem haladhatja meg az illetményalap negyven százalékát.
 
-67. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzata terhére – az ügyész részére képzettségi pótlékot állapíthat meg felsőfokú iskolarendszerű képzésben, továbbképzésben szerzett szakképesítés, szakképzettség, továbbá doktori (PhD) vagy ennél magasabb tudományos fokozat elnyerése esetén, ha a megszerzett ismeretek a munkaköre ellátásánál vagy az ügyészség feladatainak teljesítése során közvetlenül hasznosíthatók.
+67. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzata terhére – a legfőbb ügyészségi ügyész kivételével az ügyész részére képzettségi pótlékot állapíthat meg felsőfokú iskolarendszerű képzésben, továbbképzésben szerzett szakképesítés, szakképzettség, továbbá doktori (PhD) vagy ennél magasabb tudományos fokozat elnyerése esetén, ha a megszerzett ismeretek a munkaköre ellátásánál vagy az ügyészség feladatainak teljesítése során közvetlenül hasznosíthatók.
 
 (2) A képzettségi pótlék összege az illetményalap tíz százalékától harminc százalékáig terjedhet.
 
-(3) Ha az ügyész a munkáltatóval kötött tanulmányi szerződés alapján pénzügyi támogatást kap a képzettség megszerzéséhez, addig a képzettségi pótlékra nem jogosult, amíg a havonta fizethető pótlék összege nem éri el a tanulmányi szerződés alapján számára nyújtott pénzügyi támogatás mértékét.
+(3) Ha a legfőbb ügyészségi ügyész kivételével az ügyész a munkáltatóval kötött tanulmányi szerződés alapján pénzügyi támogatást kap a képzettség megszerzéséhez, addig a képzettségi pótlékra nem jogosult, amíg a havonta fizethető pótlék összege nem éri el a tanulmányi szerződés alapján számára nyújtott pénzügyi támogatás mértékét.
 
-68. § (1) Az ügyész idegennyelv-ismereti pótlékra jogosult, ha munkakörében az idegen nyelvet a munkáltatói jogkör gyakorlójának rendelkezése szerint használja, és az adott nyelvből állami nyelvvizsga tételét igazoló bizonyítvánnyal vagy azzal egyenértékű igazolással rendelkezik.
+68. § (1) A legfőbb ügyészségi ügyész kivételével az ügyész idegennyelv-ismereti pótlékra jogosult, ha munkakörében az idegen nyelvet a munkáltatói jogkör gyakorlójának rendelkezése szerint használja, és az adott nyelvből állami nyelvvizsga tételét igazoló bizonyítvánnyal vagy azzal egyenértékű igazolással rendelkezik.
 
 (2) A pótlék minden idegen nyelv után külön-külön jár.
 
@@ -937,11 +949,11 @@ cím esetén.
 - b) középfokú komplex típusú nyelvvizsga esetén az illetményalap nyolc százaléka,
 - c) alapfokú komplex típusú nyelvvizsga esetén az illetményalap két százaléka.
 
-(5) Ha az ügyész a (4) bekezdésben meghatározott idegen nyelvekből szóbeli vagy írásbeli nyelvvizsgával rendelkezik, a (3) bekezdésben foglalt komplex nyelvvizsgára meghatározott mérték szerint jogosult pótlékra.
+(5) Ha a legfőbb ügyészségi ügyész kivételével az ügyész a (4) bekezdésben meghatározott idegen nyelvekből szóbeli vagy írásbeli nyelvvizsgával rendelkezik, a (3) bekezdésben foglalt komplex nyelvvizsgára meghatározott mérték szerint jogosult pótlékra.
 
-(6) Ha az ügyész ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú, illetve különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult. Ha pedig az ügyész különböző típusú, de azonos fokozatú nyelvvizsgával rendelkezik, nem jogosult a komplex nyelvvizsgánál magasabb mértékű pótlékra.
+(6) Ha a legfőbb ügyészségi ügyész kivételével az ügyész ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú, illetve különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult. Ha pedig a legfőbb ügyészségi ügyész kivételével az ügyész különböző típusú, de azonos fokozatú nyelvvizsgával rendelkezik, nem jogosult a komplex nyelvvizsgánál magasabb mértékű pótlékra.
 
-(7) Ha az ügyész – kivéve a felsőfokú szaknyelvi vizsgát – tanulmányi szerződés alapján pénzügyi támogatást kap a nyelvvizsga megszerzéséhez, idegennyelv-ismereti pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék együttes összege nem éri el a tanulmányi szerződés alapján kifizetett pénzügyi támogatás mértékét.
+(7) Ha a legfőbb ügyészségi ügyész kivételével az ügyész – kivéve a felsőfokú szaknyelvi vizsgát – tanulmányi szerződés alapján pénzügyi támogatást kap a nyelvvizsga megszerzéséhez, idegennyelv-ismereti pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék együttes összege nem éri el a tanulmányi szerződés alapján kifizetett pénzügyi támogatás mértékét.
 
 #### 23. Egyéb javadalmazások, kedvezmények és költségtérítések
 
@@ -1070,9 +1082,11 @@ irányadó összeggel azonos.
 
 ### IX. Fejezet — A PIHENŐIDŐ
 
-79. § (1) Az 1. fizetési fokozatba tartozó ügyész alapszabadsága évi harminc munkanap. A 2. fizetési fokozattal kezdődően az alapszabadság a fizetési fokozattal azonos számú munkanappal emelkedik.
+79. § (1) A legfőbb ügyészségi ügyész kivételével az 1. fizetési fokozatba tartozó ügyész alapszabadsága évi harminc munkanap, a 2. fizetési fokozattal kezdődően az alapszabadság a fizetési fokozattal azonos számú munkanappal emelkedik.
 
-(2) Az ügyészt az ötvenedik életéve betöltésének évétől – a fizetési fokozatától függetlenül – évi negyven munkanap alapszabadság illeti meg.
+(1a) A legfőbb ügyészségi ügyész alapszabadsága három éves szolgálati időig harminc munkanap, négy év szolgálati idő után harminckét munkanap, majd ezt követően az alapszabadság 3 évenként további egy munkanappal emelkedik.
+
+(2) Az ügyészt az ötvenedik életéve betöltésének évétől – a fizetési fokozatától, illetve az (1a) bekezdésben foglalt számítástól függetlenül – évi negyven munkanap alapszabadság illeti meg.
 
 (3) A magasabb vezető állású és a vezető állású ügyész évi öt munkanap pótszabadságra jogosult. Az alapszabadság és a vezetői pótszabadság együttes mértéke évente a negyven munkanapot nem haladhatja meg.
 
@@ -1123,6 +1137,8 @@ nincs helye fegyelmi felelősségre vonásnak.
 - e) két fizetési fokozattal való visszavetés;
 - f) alacsonyabb munkakörbe helyezés, illetve vezetői tisztségből való felmentés;
 - g) hivatalvesztés.
+
+(1a) A legfőbb ügyészségi ügyész esetében az egy fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az illetmény öt százalékáig terjedhet.
 
 (2) Az elismerés visszavonása az (1) bekezdés d)–g) pontjában meghatározott fegyelmi büntetésekkel együttesen is kiszabható.
 
@@ -1210,7 +1226,7 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 (2) A hivatalvesztést kiszabó fegyelmi határozat a szülési szabadság tartama alatt nem hajtható végre.
 
-96. § (1) Az ügyész a hivatalvesztés fegyelmi büntetésnél három évig, a vezetői tisztségből való felmentés, alacsonyabb munkakörbe helyezés, egy fizetési fokozattal való visszavetés, két fizetési fokozattal való visszavetés, az elismerés visszavonása fegyelmi büntetésnél két évig, megrovás esetén egy évig a fegyelmi büntetés hatálya alatt áll. Ha az ügyész a büntetés hatályának eltelte előtt jogerősen újabb fegyelmi büntetésben részesül, az új büntetésre előírt határidővel büntetésének hatálya meghosszabbodik. Az ügyész a hatályos fegyelmi büntetéséről köteles számot adni. Ha az ügyészségi szolgálati viszony hivatalvesztés miatt szűnt meg, a volt ügyésszel a büntetés hatályának fennálltáig újabb ügyészségi szolgálati viszony nem létesíthető.
+96. § (1) Az ügyész a hivatalvesztés fegyelmi büntetésnél három évig, a vezetői tisztségből való felmentés, alacsonyabb munkakörbe helyezés, egy fizetési fokozattal való visszavetés, két fizetési fokozattal való visszavetés – legfőbb ügyészségi ügyész esetében egyévi illetménycsökkentés, kétévi illetménycsökkentés –, az elismerés visszavonása fegyelmi büntetésnél két évig, megrovás esetén egy évig a fegyelmi büntetés hatálya alatt áll. Ha az ügyész a büntetés hatályának eltelte előtt jogerősen újabb fegyelmi büntetésben részesül, az új büntetésre előírt határidővel büntetésének hatálya meghosszabbodik. Az ügyész a hatályos fegyelmi büntetéséről köteles számot adni. Ha az ügyészségi szolgálati viszony hivatalvesztés miatt szűnt meg, a volt ügyésszel a büntetés hatályának fennálltáig újabb ügyészségi szolgálati viszony nem létesíthető.
 
 (2) A fegyelmi büntetés hatálya alatt álló ügyész
 
@@ -1330,11 +1346,11 @@ lehet adatot továbbítani.
 
 (2) A legfőbb ügyész a megválasztott legfőbb ügyésszel egyeztetve a megbízatási ideje lejártát legalább 20, de legfeljebb 30 nappal megelőzően kiírja a főtitkári és főtitkár-helyettesi tisztségre vonatkozó pályázatot. A megválasztott legfőbb ügyész a pályázatokat hivatalba lépését követően haladéktalanul elbírálja. Ha a legfőbb ügyész megbízatása a megbízatási időtartam letelte előtt szűnik meg, a pályázatot a megválasztott legfőbb ügyész hivatalba lépését követően haladéktalanul kiírja. A legfőbb ügyész újraválasztása esetén pályázat kiírására nem kerül sor.
 
-108/C. § (1) A főtitkár az illetményén kívül a Kúria főtitkárával azonos juttatásra jogosult.
+108/C. § (1) Az ügyészek közül kinevezett főtitkár a Kúria főtitkárával azonos havi illetményre jogosult.
 
-(2) A főtitkár-helyettes az illetményén kívül a Kúria főtitkár-helyettesével azonos juttatásra jogosult.
+(2) Az ügyészek közül kinevezett főtitkár-helyettes a Kúria főtitkár-helyettesével azonos havi illetményre jogosult.
 
-(3) A főtitkárt és a főtitkár-helyettest megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetét terheli.
+(3) Az illetményén kívül az ügyészek és a tisztviselők közül kinevezett főtitkár a Kúria főtitkárával, az ügyészek és a tisztviselők közül kinevezett főtitkár-helyettes a Kúria főtitkár-helyettesével azonos juttatásra jogosult. A főtitkárt és a főtitkár-helyettest megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetét terheli.
 
 (4) A főtitkár és a főtitkár-helyettes köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. A jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül kell visszafizetni.
 
@@ -1666,9 +1682,9 @@ lehet gyakorolni.
 - b) a 45. § (1) bekezdésében tiltott kereső tevékenységet is folytathat, továbbá gazdasági társaságban, kooperációs társaságban, közhasznú társaságban, szövetkezetben személyes közreműködési kötelezettséggel járó tagsági viszonyt létesíthet, valamint egyéni cég tagja lehet, ha ahhoz a munkáltatói jogkör gyakorlója előzetesen hozzájárult;
 - c) összeférhetetlenségét a munkáltatói jogkör gyakorlója állapítja meg.
 
-131/A. § (1) A munkáltatói jogkör gyakorlója a tisztviselő és az írnok teljesítményét évente értékeli. A teljesítményértékelés eredményét a minősítés során figyelembe kell venni.
+131/A. § (1) A munkáltatói jogkör gyakorlója a tisztviselő, az írnok és a fizikai alkalmazott teljesítményét évente értékeli. A teljesítményértékelés eredményét a minősítés során figyelembe kell venni.
 
-(2) A tisztviselő és az írnok mentesül a teljesítményértékelés alól
+(2) A tisztviselő, az írnok és a fizikai alkalmazott mentesül a teljesítményértékelés alól
 
 - a) az öregségi nyugdíjkorhatár betöltését megelőző hat évben, kivéve, ha a teljesítményértékelés eredményének megváltoztatását valószínűsítő körülmény merül fel, vagy a tisztviselő, írnok a teljesítményértékelését maga kéri, vagy
 - b) a próbaidő alatt.
@@ -1677,11 +1693,11 @@ lehet gyakorolni.
 
 (4) A tisztviselő teljesítményét nem kell külön értékelni, ha minősítése fél éven belül esedékes; ilyen esetben a teljesítmény értékelése a minősítéssel egyidejűleg is elvégezhető.
 
-(5) A teljesítményértékelés alapján jutalom fizethető.
+(5)
 
-(6) A teljesítményértékelés és a minősítés alapján a tisztviselő és az írnok alapilletménye – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között – módosítható.
+(6)
 
-(7) A tisztviselő és az írnok a teljesítményértékelés hibás vagy valótlan ténymegállapításának, illetve a személyiségi jogát sértő megállapításának a megsemmisítése iránt – ha azt az értékelő az ismertetéstől számított 15 napon belül nem változtatja meg, az ezt követő 30 napon belül – bírósághoz fordulhat.
+(7) A tisztviselő, az írnok és a fizikai alkalmazott a teljesítményértékelés hibás vagy valótlan ténymegállapításának, illetve a személyiségi jogát sértő megállapításának a megsemmisítése iránt – ha azt az értékelő az ismertetéstől számított 15 napon belül nem változtatja meg, az ezt követő 30 napon belül – bírósághoz fordulhat.
 
 (8) A teljesítményértékelés részletes szabályait a legfőbb ügyész utasításban határozza meg.
 
@@ -1705,67 +1721,79 @@ lehet gyakorolni.
 
 (2) A tisztviselő, az írnok és a fizikai alkalmazott belföldi kiküldetésénél az 57. § (1)–(3), (5)–(7) bekezdésében, gépjárművezető belföldi kiküldetésénél az 57. § (1), (5)–(7) bekezdésében foglalt rendelkezést is megfelelően alkalmazni kell.
 
-135. § (1) A tisztviselő, az írnok és a fizikai alkalmazott szolgálati viszonya alapján havonta alapilletményre, továbbá – ha a folyósítás e törvényben meghatározott feltételei fennállnak – beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. A fizikai alkalmazott kivételével az alapilletmény megállapításának alapjául az illetményalap szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
+135. § (1) A tisztviselőt, írnokot és fizikai alkalmazottat – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
 
-(2) Az alapilletmény összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.
+- a) ügyintéző, ezen belül:
+  - aa) ügyészségi-tanácsos I.,
+  - ab) ügyészségi-tanácsos II.,
+  - ac) ügyészségi-főtanácsos I.,
+  - ad) ügyészségi-főtanácsos II.,
+  - ae) ügyészségi-főtanácsos III.,
+- b) vezető.
 
-136. § (1) A tisztviselőt, az írnokot munkaköre és az annak ellátásához szükséges iskolai végzettsége (képzettség) alapján a III. vagy IV. fizetési osztályba, ezen belül – szolgálati ideje szerint – a megfelelő fizetési fokozatba kell besorolni. A tisztviselő és az írnok alapilletményét a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között kell megállapítani úgy, hogy annak összege elérje legalább az alsó határt, de ne haladja meg a felső határt. A tisztviselő és az írnok a besorolása szerinti fizetési fokozathoz tartozó alsó határ szerinti alapilletményre alanyi jogon jogosult.
+(2) A Legfőbb Ügyészségen foglalkoztatott tisztviselők, írnokok és fizikai alkalmazottak tekintetében az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
 
-(2) A munkáltatói jogkör gyakorlója az (1) bekezdésben meghatározott alapilletményt tárgyévre vonatkozóan a tisztviselő és az írnok tárgyévet megelőző teljesítményértékelése vagy minősítése alapján a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között módosíthatja. A teljesítményértékelésen és minősítésen túl a munkáltatói jogkör gyakorlója a következő szempontokat veszi figyelembe:
+- a) ügyintéző, ezen belül:
+  - aa) ügyészségi-tanácsos III.,
+  - ab) ügyészségi-tanácsos IV.,
+  - ac) ügyészségi-főtanácsos IV.,
+  - ad) ügyészségi-főtanácsos V.,
+- b) vezető.
+
+136. § (1) A tisztviselőt, írnokot és fizikai alkalmazottat a munkáltatói jogkör gyakorlója sorolja be – a (2) bekezdésben foglaltak kivételével – a 6. mellékletben foglalt Illetménytábla ügyészségi-tanácsos I., ügyészségi-tanácsos II., ügyészségi-főtanácsos I., ügyészségi-főtanácsos II. vagy ügyészségi-főtanácsos III. besorolási kategóriába.
+
+(2) A Legfőbb Ügyészségen foglalkoztatott tisztviselőt, írnokot és fizikai alkalmazottat a munkáltatói jogkör gyakorlója sorolja be a 6/A. mellékletben foglalt Illetménytábla ügyészségi-tanácsos III., ügyészségi-tanácsos IV., ügyészségi-főtanácsos IV. vagy ügyészségi-főtanácsos V. besorolási kategóriába.
+
+(3) A vezetőt a munkáltatói jogkör gyakorlója – a (4) bekezdésben foglaltak kivételével – a 6. mellékletben foglalt Illetménytábla osztályvezető vagy főosztályvezető besorolási kategóriába sorolja be. A magasabb vezetőt a főosztályvezető besorolási kategóriába kell sorolni.
+
+(4) A Legfőbb Ügyészségen foglalkoztatott vezetőt a munkáltatói jogkör gyakorlója a 6/A. mellékletben foglalt Illetménytábla osztályvezető vagy főosztályvezető besorolási kategóriába sorolja be. A Legfőbb Ügyészségen foglalkoztatott magasabb vezetőt a főosztályvezető besorolási kategóriába kell sorolni.
+
+(5) A jogviszonya alapján
+
+- a) az (1) bekezdés szerinti tisztviselő, írnok és fizikai alkalmazott az (1) bekezdés,
+- b) a (3) bekezdés szerinti vezető a (3) bekezdés
+
+szerinti besorolása alapján havonta a 6. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg – a szakmai képességek, a képzettség, a gyakorlat, valamint a teljesítmény alapján – az álláshelyhez tartozó besorolási kategória szerinti sávon belül.
+
+(6) A jogviszonya alapján
+
+- a) a (2) bekezdés szerinti, a Legfőbb Ügyészségen foglalkoztatott tisztviselő, írnok és fizikai alkalmazott a (2) bekezdés,
+- b) a (4) bekezdés szerinti, a Legfőbb Ügyészségen foglalkoztatott vezető a (4) bekezdés
+
+szerinti besorolása alapján havonta a 6/A. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg – a szakmai képességek, a képzettség, a gyakorlat, valamint a teljesítmény alapján – az álláshelyhez tartozó besorolási kategória szerinti sávon belül.
+
+(7) A besorolás részletes szabályait a legfőbb ügyész állapítja meg.
+
+137. § (1) A munkáltatói jogkör gyakorlója a tisztviselő, írnok, fizikai alkalmazott és vezető tárgyévet megelőző teljesítményértékelése vagy minősítése alapján
+
+- a) illetményét az adott besorolási kategóriához tartozó összeghatáron belül legfeljebb 20%-kal csökkentheti, illetve legfeljebb 30%-kal növelheti,
+- b) részére teljesítmény elismerést fizetését rendelheti el.
+
+(2) Az (1) bekezdés szerinti intézkedések elrendelése tekintetében a teljesítményértékelésen és minősítésén túl a munkáltatói jogkör gyakorlója az alábbi szempontokat veszi figyelembe:
 
 - a) a munkakörre előírt képesítés megszerzése során elért tanulmányi eredmény,
 - b) az ügyészi szervezetben szerzett szakmai tapasztalat,
 - c) az ügyészi szervnek nem minősülő, egyéb munkáltatónál szerzett, a munkaköre alapján ellátott feladatok szempontjából jelentős tapasztalat,
-- d) a tisztviselő és az írnok által szerzett végzettség, egyéb képesítés, nyelvtudás,
+- d) a tisztviselő, az írnok és a fizikai alkalmazott által szerzett végzettség, egyéb képesítés, nyelvtudás,
 - e) a munkavégzés színvonala,
-- f) a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés,
-- g) a munkakör ellátásához kapcsolódó felelősség, és
-- h) a IV. fizetési osztályba sorolt tisztviselő esetén a nem szakirányú felsőfokú iskolai végzettség vagy munkakörének betöltéséhez nem szükséges szakirányú felsőfokú iskolai végzettség, illetve munkakörének betöltéséhez szükséges szakirányú felsőfokú vagy emelt szintű szakképesítés megszerzése.
+- f) a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés, és
+- g) a munkakör ellátásához kapcsolódó felelősség.
 
-(3) A III. fizetési osztályba a szakirányú felsőfokú iskolai végzettséggel, a IV. fizetési osztályba a legalább középfokú iskolai végzettséggel rendelkező tisztviselők tartoznak. A nem szakirányú felsőfokú iskolai végzettséggel és a szakirányú felsőfokú szakképesítéssel is rendelkező tisztviselőt kivételesen a III. fizetési osztályba lehet besorolni. A besorolásnál a képesítési követelmények meghatározásáról szóló jogszabályok és legfőbb ügyészi utasítások rendelkezéseit is figyelembe kell venni. A nem szakirányú felsőfokú iskolai végzettséggel és a szakirányú felsőfokú szakképesítéssel is rendelkező tisztviselő III. fizetési osztályba történő besorolásának a részletes szabályait a legfőbb ügyész utasításban állapítja meg.
+138. § Azokat a munkaköröket, amelyek esetében a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés figyelembevétele nem mellőzhető, a legfőbb ügyész határozza meg.
 
-(4) Az írnokot a IV. fizetési osztályba kell besorolni.
+139. § (1) A szolgálati időt – a (3)–(4) bekezdésben foglalt kivétellel – a kinevezés (alkalmazás) napjától kell számítani azzal, hogy a kezdő évet (töredékévet) egész évként kell figyelembe venni.
 
-(5) A III. fizetési osztály fizetési fokozatait a 6. melléklet, a IV. fizetési osztály fizetési fokozatait a 6/A. melléklet tartalmazza.
+(2) Szolgálati időként kell figyelembe venni az igazságügyi szolgálati jogviszonyban hasonló jellegű munkakörben eltöltött időt.
 
-(6) A fizikai alkalmazott illetményét a felek közös megegyezésével a munka törvénykönyvének a munka díjazására irányadó szabályai szerint kell megállapítani.
+(3) Részben vagy egészben szolgálati időként lehet figyelembe venni a 154. § (1), (3) és (4) bekezdésében felsorolt jogviszonyokban és a szakirányú végzettségnek megfelelő tevékenységgel eltöltött időt.
 
-(7) Azokat a munkaköröket, amelyek esetében a (2) bekezdés f) pontjának figyelembevétele nem mellőzhető, a legfőbb ügyész határozza meg.
+#### 140. §
 
-137. § (1) A tisztviselő és az írnok fizetési fokozatát a (2)–(5) bekezdésben foglaltak szerint számított szolgálati idő alapján kell megállapítani.
-
-(2) A szolgálati időt – a (3)–(4) bekezdésben foglalt kivétellel – a kinevezés (alkalmazás) napjától kell számítani azzal, hogy a kezdő évet (töredékévet) egész évként kell figyelembe venni.
-
-(3) Szolgálati időként kell figyelembe venni az igazságügyi szolgálati jogviszonyban hasonló jellegű munkakörben eltöltött időt.
-
-(4) Részben vagy egészben szolgálati időként lehet figyelembe venni a 154. § (1), (3) és (4) bekezdésében felsorolt jogviszonyokban és a szakirányú végzettségnek megfelelő tevékenységgel eltöltött időt.
-
-(5) A (3)–(4) bekezdésben foglalt rendelkezések alkalmazásakor a beszámítandó szolgálati időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás a naptári év első napjával történjék. A (4) bekezdés szerinti beszámításnál figyelemmel kell lenni a helyes illetményarányokra is.
-
-138. § Ha a tisztviselő, az írnok magasabb fizetési osztályba kerül, az addig elért fizetési fokozatát az új fizetési osztályban legfeljebb két fokozattal csökkenteni lehet, az új alapilletményének azonban a korábbit meg kell haladnia.
-
-#### 139. §
-
-140. § (1) A tisztviselő, az írnok átlagon felüli színvonalú munkavégzés esetén két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható. Két soron kívüli előresorolás között legalább hat évnek kell eltelnie.
-
-(2) A soron kívüli előresorolást a naptári év első napjával kell végrehajtani, ennek során a korábbi fizetési fokozatban megszerzett szolgálati időt az új fizetési fokozatban is figyelembe kell venni.
-
-(3) Ha – mindaddig, amíg a tisztviselő és az írnok szolgálati ideje nem éri el azt az időt, amely alapján a soron kívüli előresorolása szerinti fizetési fokozatba lépne – a teljesítményértékelés alapján megállapítható, hogy a tisztviselő és az írnok munkájának színvonala tartósan átlag alattivá válik, alapilletményét a soron kívüli előresorolása szerinti fizetési fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
-
-141. § (1) A Legfőbb Ügyészségen és az OKRI-nál dolgozó tisztviselőt és írnokot beosztási pótlék illeti meg.
-
-(2) A beosztási pótlék mértéke
-
-- a) a Legfőbb Ügyészségen és az OKRI-nál dolgozó III. és V. fizetési osztályba sorolt tisztviselő esetében az illetményalap 15 százaléka,
-- b) a Legfőbb Ügyészségen és az OKRI-nál dolgozó IV. fizetési osztályba sorolt tisztviselő és írnok esetében az illetményalap 5 százaléka.
+#### 141. §
 
 #### 142. §
 
-143. § (1) A vezetői tisztséget betöltő tisztviselőt az V. fizetési osztályba kell besorolni, amely tekintetében a fizetési fokozatokat a 6/B. melléklet tartalmazza.
-
-(2) Az irodavezető akkor sorolható az V. fizetési osztályba, ha legalább két beosztottja van.
-
-(3) A munkáltatói jogkör gyakorlója a vezetői tisztséget betöltő tisztviselő illetményének a megállapítása során a 136. § (2) bekezdésében meghatározott szempontok mellett figyelembe veszi a szolgálati hely szintjét, nagyságát, valamint a beosztottak létszámát.
+#### 143. §
 
 144. § (1) Az ügyészség éves költségvetésében biztosított előirányzatoktól függően a nyugállományú tisztviselő, írnok és fizikai alkalmazott részére szociális és temetési segély, a tisztviselő, írnok és fizikai alkalmazott közeli hozzátartozója és a nyugállományú tisztviselő, írnok és fizikai alkalmazott közeli hozzátartozója részére temetési segély adható.
 
@@ -1774,20 +1802,13 @@ lehet gyakorolni.
 - a) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó,
 - b) nyugállományú tisztviselő, írnok és fizikai alkalmazott: a nyugállományba vonulását közvetlenül megelőzően az ügyészségnél szolgálati jogviszonyban állt tisztviselő, írnok és fizikai alkalmazott.
 
-145. § (1) Kiváló munkavégzés esetén és ügyészségi szolgálati viszonyban eltöltött legalább tíz év után
-
-- a) a III. fizetési osztályba sorolt tisztviselőnek „főtanácsos”,
-- b) a IV. fizetési osztályba sorolt tisztviselőnek pedig „tanácsos”
-
-cím adományozható.
-
-(2) Az (1) bekezdésben meghatározott címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. Kiváló munkavégzés esetén és ügyészségi szolgálati viszonyban eltöltött legalább tíz év után főtanácsosi cím a szakirányú felsőfokú iskolai végzettségű V. fizetési osztályba tartozó, tanácsosi cím pedig a középfokú iskolai végzettségű V. fizetési osztályban tartozó vezetőnek is adományozható.
+#### 145. §
 
 #### 146. §
 
 147. § (1) A tisztviselőt és az írnokot évi huszonöt munkanap alapszabadságból és a (2)–(5) bekezdés szerinti pótszabadságból álló rendes szabadság illeti meg.
 
-(2) A tisztviselő és az írnok esetén a pótszabadság mértéke a 2. fizetési fokozatban évente két munkanap, amely a többi fizetési fokozatban két munkanappal növekszik. Az ügyészségi megbízott esetén a pótszabadság mértéke az 1. fizetési fokozatban évente egy munkanap, amely a többi fizetési fokozatban két munkanappal növekszik. A tisztviselő, az írnok és az ügyészségi megbízott pótszabadságának mértéke a tizenhárom munkanapot nem haladhatja meg.
+(2) A tisztviselő és az írnok esetén a pótszabadság mértéke esetén 4 év szolgálati idő után 2 munkanap, 8 év szolgálati idő után 4 munkanap, 12 év szolgálati idő után 6 munkanap, 19 év szolgálati idő után 8 munkanap, 26 év szolgálati idő után 10 munkanap, 31 év szolgálati idő után 12 munkanap, 36 év szolgálati idő után 13 munkanap. Az ügyészségi megbízott esetén a pótszabadság mértéke 3 év szolgálati időig 1 munkanap, 4 év szolgálati idő után 3 munkanap, 8 év szolgálati idő után 5 munkanap, 12 év szolgálati idő után 7 munkanap, 19 év szolgálati idő után 9 munkanap, 26 év szolgálati idő után 11 munkanap, 31 év szolgálati idő után 13 munkanap. A tisztviselő, az írnok és az ügyészségi megbízott pótszabadságának mértéke a tizenhárom munkanapot nem haladhatja meg.
 
 (3) A vezetői beosztást ellátó tisztviselőt a (2) bekezdésben meghatározott pótszabadság helyett vezetői pótszabadság illeti meg, amelynek mértéke:
 
@@ -1812,7 +1833,7 @@ cím adományozható.
 
 - a) az eljárás alá vont ügyészségi alkalmazottat az első meghallgatásakor ki kell oktatni az eljárással kapcsolatos jogaira;
 - b) a 96. § (2) bekezdésében foglaltakon túl a fegyelmi büntetés hatálya alatt álló tisztviselő, írnok magasabb fizetési osztályba nem sorolható és a fegyelmi büntetés hatálya miatt elmaradt magasabb fizetési osztályba történő besorolása a mentesülés vagy mentesítés időpontjában esedékes, az előresorolás időpontját – a fegyelmi büntetés hatálya miatti szünetelés figyelmen kívül hagyásával – az eredeti időponttól számítva kell megállapítani;
-- c) kiemelt munkakörben foglalkoztatott tisztviselő esetében az egy, illetve két fizetési fokozattal visszavetés fegyelmi büntetés helyett a kiemelt munkakörré minősítés visszavonása fegyelmi büntetés szabható ki. Fizikai alkalmazott esetében az egy fizetési fokozattal visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb kétévi időtartamra alapilletmény-csökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az alapilletmény öt százalékáig terjedhet;
+- c) kiemelt munkakörben foglalkoztatott tisztviselő esetében az egy, illetve két fizetési fokozattal visszavetés fegyelmi büntetés helyett a kiemelt munkakörré minősítés visszavonása fegyelmi büntetés szabható ki, tisztviselő, írnok, fizikai alkalmazott esetében az egy fizetési fokozattal visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetmény-csökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az alapilletmény öt százalékáig terjedhet;
 - d) az alacsonyabb munkakörbe helyezés a fegyelmi büntetés kiszabása előtti munkakörére előírt szintű képesítésnek megfelelő munkakörbe, illetve – ha a kinevezési követelmény alól korábban felmentést kapott – a tényleges képesítésének megfelelő munkakörbe történhet;
 - e) a hivatalvesztés fegyelmi büntetés helyett elbocsátás fegyelmi büntetést kell kiszabni;
 - f) a fegyelmi felelősségre vonásra a munkáltatói jogkör gyakorlója jogosult, ezt a jogát a járási ügyészséget vezető ügyészre átruházhatja;
@@ -1961,7 +1982,7 @@ kell érteni.
 
 158/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, 165/T. §-a, 165/U. §-a, 165/W. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, 165/T. §-a, 165/U. §-a, 165/W. §-a, 165/Y. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Üjt.
 
@@ -2150,6 +2171,24 @@ kerülhet sor.
 - a) a 79. § (3a) bekezdése szerinti apai pótszabadságot nem vette igénybe, vagy
 - b) a 79. § (3a) bekezdése szerinti apai pótszabadságot igénybe vette, annak és a Módtv2. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
 
+165/X. § (1) Az alügyész és az ügyészségi fogalmazó számára az e törvénynek Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény (a továbbiakban: Módtv3.) 123. § ával megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 123. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(2) Az alügyészt és az ügyészségi fogalmazót a Módtv3. 123. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3. 123. §-ával megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a Módtv3. 123. §-ának hatálybalépése előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A Módtv3. 123. § hatálybalépése előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
+
+(3) Az alügyészt és az ügyészségi fogalmazót az e törvénynek a Módtv3. 123. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 123. § hatálybalépését követő 60 napon belül kerül sor.
+
+(4) A tisztviselő, írnok, fizikai alkalmazott és vezető számára Módtv3. rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 119. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(5) A tisztviselőt, írnokot, fizikai alkalmazottat és vezetőt a Módtv3. 119. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3.-al megállapított rendelkezései szerint besorolni és – a (4) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani.
+
+(6) A tisztviselőt, írnokot, fizikai alkalmazottat és vezetőt az e törvénynek a Módtv3.-al megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 119. § -ának hatálybalépését követő 60 napon belül kerül sor.
+
+(7) Ha a tisztviselő és az írnok számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.
+
+165/Y. § (1) A legfőbb ügyészségi ügyészeket és vezető ügyészeket az e törvénynek a Módtv3. 110. § és 114. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg, ez az illetmény nem lehet kevesebb mint az érintett illetményének a Módtv3. 110. § és 114. §-ának hatályba lépése előtti összege. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 110. § és 114. §-ának hatálybalépését követő 60. napig kerül sor.
+
+(2) Ha a legfőbb ügyészségi ügyész számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.
+
 166. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelv,
@@ -2186,156 +2225,86 @@ kerülhet sor.
 
 #### Az ügyész vezetői pótléka
 
-A vezetői pótlék az illetményalap százalékában
-
-A vezetői munkakörök %
+A vezetői pótlék az illetményalap százalékábanA vezetői munkakörök %
 
 |  | A | B |
 | --- | --- | --- |
-| 1. | A főtitkár A főosztályvezető ügyész A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
-| 2. | A főtitkár-helyettes A főosztályvezető-helyettes ügyész | 150 |
-| 3. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető ügyész A fellebbviteli főügyész A főügyész | 120 |
-| 4. | A legfőbb ügyészségi osztályvezető ügyész A fellebbviteli főügyészhelyettes A fővárosi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 100 |
-| 5. | A fellebbviteli főügyészségi osztályvezető ügyész | 80 |
-| 6. | A főügyészhelyettes | 70 |
-| 7. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető helyettes ügyész A Fővárosi Főügyészség osztályvezető ügyésze Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt és nagyobb járási ügyészségi vezető ügyész | 60 |
-| 8. | A legfőbb ügyészségi csoportvezető ügyész | 50 |
-| 9. | A főügyészségi osztályvezető ügyész | 45 |
-| 10. | A főügyészségi csoportvezető ügyész A kiemelt és nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 40 |
-| 11. | A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész | 30 |
-| 12. | A kisebb járási ügyészségi vezetőhelyettes ügyész | 25 |
+| 1 | A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
+| 2 | A fellebbviteli főügyész A főügyész | 120 |
+| 3 | A fellebbviteli főügyészhelyettes A fővárosi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 100 |
+| 4 | A fellebbviteli főügyészségi osztályvezető ügyész | 80 |
+| 5 | A főügyészhelyettes | 70 |
+| 6 | A Fővárosi Főügyészség osztályvezető ügyésze Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt és nagyobb járási ügyészségi vezető ügyész | 60 |
+| 7 | A főügyészségi osztályvezető ügyész | 45 |
+| 8 | A főügyészségi csoportvezető ügyész A kiemelt és nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 40 |
+| 9 | A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész | 30 |
+| 10 | A kisebb járási ügyészségi vezetőhelyettes ügyész | 25 |
 
 ### 3. melléklet a 2011. évi CLXIV. törvényhez
 
 #### A személyi nyilvántartás adatköre
 
-Az ügyészségi alkalmazott
-
-I.
-
-– neve, születési neve,
-
-– igazolvány képe,
-
-– ügyviteli nyilvántartási sorszáma,
-
-– állampolgársága,
-
-– születési helye, ideje,
-
-– anyja neve,
-
-– lakóhelye, tartózkodási helye, telefonszáma, e-mail címe,
-
-– családi állapota,
-
-– házastársa, bejegyzett élettársa, élettársa neve, foglalkozása, munkahelye,
-
-– gyermekeinek neve, születési ideje;
-
-II.
-
-– legmagasabb iskolai végzettsége, az oklevél, diploma minősítése, a megszerzés éve, az iskola, a kar, a tagozat, a szak, a képzés szintjének megnevezése,
-
-– a tanulmányok folytatására kötött szerződés ténye, a képző intézmény megnevezése, a szerződéskötés dátuma, a támogatás típusa, a tanulmányok tényleges befejezésének éve,
-
-– szakképzettsége, a megszerzés éve, jogi szakvizsga megszerzésének éve, eredménye,
-
-– posztgraduális képzés keretében szerzett szakképesítése, a képző intézmény megnevezése, a megszerzés éve,
-
-– szakmai tanfolyami végzettsége, a képző intézmény, a tanfolyam, a képzés szintjének megnevezése, a megszerzés éve, eredménye,
-
-– belső tanfolyamon való részvétel éve, a tanfolyam megnevezése,
-
-– jelenlegi iskolai tanulmánya, a képző intézmény, a kar, a tagozat, a szak, a képzés szintjének megnevezése, a kezdés éve,
-
-– képzési kötelezettség alá eső képzés adatai,
-
-– tudományos fokozata,
-
-– idegennyelv-ismerete;
-
-III.
-
-– ügyészségi szolgálati viszonyának kezdete,
-
-– a besorolásnál beszámított szolgálati idő kezdete,
-
-– a szolgálati időbe, illetve az ügyészségi szolgálati viszonyként beszámított korábbi munka- (szolgálati) viszonyának adatai:
-
-= munkahely (munkakör) megnevezése,
-
-= belépés dátuma,
-
-= kilépés dátuma,
-
-= a jogviszony megszűnésének módja;
-
-IV.
-
-– szolgálati helye, beosztása, a kinevezés (megbízás) időpontja, szakterülete, a kinevezés (megbízás) egyéb adatai,
-
-– besorolása, kötelező előbbre sorolásának időpontja, alapilletménye, illetménypótlékai, jutalma,
-
-– tartós (harminc napot meghaladó időtartamú, rendes szabadságon kívüli) távollétének megnevezése, kezdete, befejezése,
-
-– munkavégzésre irányuló egyéb jogviszonya, vizsgabizottsági tagsága (a tagság kezdete, vége, a vizsga tárgya), oktatói címe, egyéb oktatási tevékenységének megnevezése;
-
-V.
-
-– kitüntetése, elismerése, tudományos pályázati díja,
-
-– hatályos fegyelmi büntetése,
-
-– az ügyészségi szolgálati viszonyból származó kártérítési kötelezettsége,
-
-– minősítésének időpontja, eredménye,
-
-– külföldi ösztöndíja,
-
-– külföldi konferencián való részvétel éve, a konferencia szervezője, témája
-
-– lakásszerzésének munkáltatói támogatása,
-
-– letelepedésének támogatása;
-
-VI.
-
-– az ügyészségi szolgálati viszony megszűnésének ideje, módja, a végkielégítés adatai, új munkahelye;
-
-VII.
-
-– fegyverviselési engedélyének kelte, száma,
-
-– szolgálati, önvédelmi, vadász lőfegyverének gyártási száma, típusa.
-
-VIII.
-
-Az állami készfizető kezességvállalással összefüggő adatok
-
-– a hitelszerződést kötő pénzintézet neve, címe;
-
-– az állami kezességvállalással biztosított hitel nagysága;
-
-– a hitel lejáratának időpontja.
-
-IX.
-
-– nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
-
-– utolsó nemzetbiztonsági ellenőrzésének időpontja;
-
-X.
-
-– vagyonnyilatkozat-tételi kötelezettsége, esedékessége,
-
-– utolsó vagyonnyilatkozat tételének időpontja.
-
-XI.
-
-– időszakos munkaköri alkalmassági vizsgálatának esedékessége,
-
-– utolsó munkaköri alkalmassági vizsgálatának időpontja és eredménye.
+- 1. Az ügyészségi alkalmazott
+- 1.1. neve, születési neve,
+- 1.2. igazolvány képe,
+- 1.3. ügyviteli nyilvántartási sorszáma,
+- 1.4. állampolgársága,
+- 1.5. születési helye, ideje,
+- 1.6. anyja neve,
+- 1.7. lakóhelye, tartózkodási helye, telefonszáma, e-mail címe,
+- 1.8. családi állapota,
+- 1.9. házastársa, bejegyzett élettársa, élettársa neve, foglalkozása, munkahelye,
+- 1.10. gyermekeinek neve, születési ideje;
+- 2. Az ügyészségi alkalmazott
+- 2.1. legmagasabb iskolai végzettsége, az oklevél, diploma minősítése, a megszerzés éve, az iskola, a kar, a tagozat, a szak, a képzés szintjének megnevezése,
+- 2.2. a tanulmányok folytatására kötött szerződés ténye, a képző intézmény megnevezése, a szerződéskötés dátuma, a támogatás típusa, a tanulmányok tényleges befejezésének éve,
+- 2.3. szakképzettsége, a megszerzés éve, jogi szakvizsga megszerzésének éve, eredménye,
+- 2.4. posztgraduális képzés keretében szerzett szakképesítése, a képző intézmény megnevezése, a megszerzés éve,
+- 2.5. szakmai tanfolyami végzettsége, a képző intézmény, a tanfolyam, a képzés szintjének megnevezése, a megszerzés éve, eredménye,
+- 2.6. belső tanfolyamon való részvétel éve, a tanfolyam megnevezése,
+- 2.7. jelenlegi iskolai tanulmánya, a képző intézmény, a kar, a tagozat, a szak, a képzés szintjének megnevezése, a kezdés éve,
+- 2.8. képzési kötelezettség alá eső képzés adatai,
+- 2.9. tudományos fokozata,
+- 2.10. idegennyelv-ismerete;
+- 3. Az ügyészségi alkalmazott
+- 3.1. ügyészségi szolgálati viszonyának kezdete,
+- 3.2. a besorolásnál beszámított szolgálati idő kezdete,
+- 3.3. a szolgálati időbe, illetve az ügyészségi szolgálati viszonyként beszámított korábbi munka- (szolgálati) viszonyának adatai:
+- 3.3.1. munkahely (munkakör) megnevezése,
+- 3.3.2. belépés dátuma,
+- 3.3.3. kilépés dátuma,
+- 3.3.4. a jogviszony megszűnésének módja;
+- 4. Az ügyészségi alkalmazott
+- 4.1. szolgálati helye, beosztása, a kinevezés (megbízás) időpontja, szakterülete, a kinevezés (megbízás) egyéb adatai,
+- 4.2. besorolása vagy álláshelyi besorolási kategóriája, kötelező előbbre sorolásának időpontja, alapilletménye, illetménypótlékai, illetménye, jutalma,
+- 4.3. tartós (harminc napot meghaladó időtartamú, rendes szabadságon kívüli) távollétének megnevezése, kezdete, befejezése,
+- 4.4. munkavégzésre irányuló egyéb jogviszonya, vizsgabizottsági tagsága (a tagság kezdete, vége, a vizsga tárgya), oktatói címe, egyéb oktatási tevékenységének megnevezése;
+- 5. Az ügyészségi alkalmazott
+- 5.1. kitüntetése, elismerése, tudományos pályázati díja,
+- 5.2. hatályos fegyelmi büntetése,
+- 5.3. az ügyészségi szolgálati viszonyból származó kártérítési kötelezettsége,
+- 5.4. minősítésének időpontja, eredménye,
+- 5.5. külföldi ösztöndíja,
+- 5.6. külföldi konferencián való részvétel éve, a konferencia szervezője, témája,
+- 5.7. lakásszerzésének munkáltatói támogatása,
+- 5.8. letelepedésének támogatása;
+- 6. Az ügyészségi alkalmazott ügyészségi szolgálati viszonya megszűnésének ideje, módja, a végkielégítés adatai, új munkahelye;
+- 7. Az ügyészségi alkalmazott
+- 7.1. fegyverviselési engedélyének kelte, száma,
+- 7.2. szolgálati, önvédelmi, vadász lőfegyverének gyártási száma, típusa;
+- 8. Az állami készfizető kezességvállalással összefüggő adatok
+- 8.1. a hitelszerződést kötő pénzintézet neve, címe,
+- 8.2. az állami kezességvállalással biztosított hitel nagysága,
+- 8.3. a hitel lejáratának időpontja;
+- 9. Az ügyészségi alkalmazott
+- 9.1. nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
+- 9.2. utolsó nemzetbiztonsági ellenőrzésének időpontja;
+- 10. Az ügyészségi alkalmazott
+- 10.1. vagyonnyilatkozat-tételi kötelezettsége, esedékessége,
+- 10.2. utolsó vagyonnyilatkozat tételének időpontja;
+- 11. Az ügyészségi alkalmazott
+- 11.1. időszakos munkaköri alkalmassági vizsgálatának esedékessége,
+- 11.2. utolsó munkaköri alkalmassági vizsgálatának időpontja és eredménye.
 
 ### 4. melléklet a 2011. évi CLXIV. törvényhez
 
@@ -2344,72 +2313,55 @@ XI.
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,84 | 0,92 |
-| 3. | 2. | 4 | 7 | 0,90 | 1,08 |
-| 4. | 3. | 8 | 11 | 0,98 | 1,19 |
-| 5. | 4. | 12 | 18 | 1,04 | 1,25 |
-| 6. | 5. | 19 | 25 | 1,09 | 1,31 |
-| 7. | 6. | 26 | 35 | 1,14 | 1,37 |
-| 8. | 7. | 36 |  | 1,26 | 1,40 |
+| 2. | 1. | 0 | 3 | 0,99 | 1,07 |
+| 3. | 2. | 4 | 7 | 1,05 | 1,23 |
+| 4. | 3. | 8 | 11 | 1,13 | 1,34 |
+| 5. | 4. | 12 | 18 | 1,19 | 1,4 |
+| 6. | 5. | 19 | 25 | 1,24 | 1,46 |
+| 7. | 6. | 26 | 35 | 1,29 | 1,52 |
+| 8. | 7. | 36 |  | 1,41 | 1,55 |
 
-### 5. melléklet a 2011. évi CLXIV. törvényhez
+### 5. melléklet az 2011. évi CLXIV. törvényhez
 
 #### A II. fizetési osztály (ügyészségi fogalmazó) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 1 | 0,53 | 0,74 |
-| 3. | 2. | 2 | 3 | 0,57 | 0,79 |
-| 4. | 3. | 4 |  | 0,60 | 0,83 |
+| 2. | 1. | 0 | 1 | 0,68 | 0,89 |
+| 3. | 2. | 2 | 3 | 0,72 | 0,94 |
+| 4. | 3. | 4 |  | 0,75 | 0,98 |
 
-### 6. melléklet a 2011. évi CLXIV. törvényhez
+### 6. melléklet az 2011. évi CLXIV. törvényhez
 
-#### A III. fizetési osztály (szakirányú felsőfokú végzettségű tisztviselő) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+#### Illetménytábla az alsóbb szintű ügyészségeken foglalkoztatott tisztviselők, írnokok, fizikai alkalmazottak és vezetők részére
 
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,42 | 0,70 |
-| 3. | 2. | 4 | 7 | 0,54 | 0,76 |
-| 4. | 3. | 8 | 11 | 0,59 | 0,88 |
-| 5. | 4. | 12 | 18 | 0,65 | 0,92 |
-| 6. | 5. | 19 | 25 | 0,73 | 1,05 |
-| 7. | 6. | 26 | 30 | 0,81 | 1,09 |
-| 8. | 7. | 31 | 35 | 0,85 | 1,13 |
-| 9. | 8. | 36 |  | 0,90 | 1,16 |
+|  | A) | B) | C) |
+| --- | --- | --- | --- |
+|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa |
+| 1 | ügyészségi-tanácsos I. | a mindenkori garantált bérminimum | 500 000 Ft |
+| 2 | ügyészségi-tanácsos II. | 300 000 Ft | 650 000 Ft |
+| 3 | ügyészségi-főtanácsos I. | 400 000 Ft | 750 000 Ft |
+| 4 | ügyészségi-főtanácsos II. | 450 000 Ft | 1 000 000 Ft |
+| 5 | ügyészségi-főtanácsos III. | 500 000 Ft | 1 450 000 Ft |
+| 6 | osztályvezető | 400 000 Ft | 1 450 000 Ft |
+| 7 | főosztályvezető | 550 000 Ft | 2 000 000 Ft |
 
 ### 6/A. melléklet az 2011. évi CLXIV. törvényhez
 
-#### A IV. fizetési osztály (nem szakirányú felsőfokú iskolai végzettségű, valamint középfokú iskolai végzettségű tisztviselő és írnok) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
+#### Illetménytábla a Legfőbb Ügyészségen foglalkoztatott tisztviselők, írnokok, fizikai alkalmazottak és vezetők részére
 
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,38 | 0,47 |
-| 3. | 2. | 4 | 7 | 0,42 | 0,54 |
-| 4. | 3. | 8 | 11 | 0,46 | 0,66 |
-| 5. | 4. | 12 | 18 | 0,53 | 0,73 |
-| 6. | 5. | 19 | 25 | 0,56 | 0,77 |
-| 7. | 6. | 26 | 30 | 0,59 | 0,80 |
-| 8. | 7. | 31 | 35 | 0,65 | 0,85 |
-| 9. | 8. | 36 |  | 0,72 | 0,93 |
+|  | A) | B) | C) |
+| --- | --- | --- | --- |
+|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa |
+| 1 | ügyészségi-tanácsos III. | a mindenkori garantált bérminimum | 750 000 Ft |
+| 2 | ügyészségi-tanácsos IV. | 350 000 Ft | 1 000 000 Ft |
+| 3 | ügyészségi-főtanácsos IV. | 400 000 Ft | 1 250 000 Ft |
+| 4 | ügyészségi-főtanácsos V. | 600 000 Ft | 1 800 000 Ft |
+| 5 | osztályvezető | 700 000 Ft | 1 600 000 Ft |
+| 6 | főosztályvezető | 800 000 Ft | 2 000 000 Ft |
 
 ### 6/B. melléklet az 2011. évi CLXIV. törvényhez
-
-#### A V. fizetési osztály (vezető) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | Főtitkár | 1.91 | 2.61 |
-| 3. | Főtitkár-helyettes | 1,51 | 2.15 |
-| 4. | Gazdasági főigazgató, Főosztályvezető, az OKRI igazgatója | 1,23 | 1,85 |
-| 5. | Főosztályvezető-helyettes, az OKRI igazgatóhelyettese | 1,09 | 1,74 |
-| 6. | Osztályvezető | 0,97 | 1,62 |
-| 7. | Osztályvezető-helyettes | 0,68 | 1,51 |
-| 8. | Csoportvezető | 0,64 | 1,45 |
-| 9. | Irodavezető | 0,53 | 1,39 |
 
 ### 7. melléklet a 2011. évi CLXIV. törvényhez
 

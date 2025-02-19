@@ -640,9 +640,11 @@ történő rendelkezésre állás.
 
 #### 27. A bíró szabadsága
 
-55. § (1) Az 1. fizetési fokozatba tartozó bíró alapszabadsága évi 30 munkanap, ezt követően az alapszabadság a második fizetési fokozatban évi két munkanappal, majd fizetési fokozatonként évi egy munkanappal emelkedik.
+55. § (1) A Kúria bírájának kivételével az 1. fizetési fokozatba tartozó bíró alapszabadsága évi 30 munkanap, ezt követően az alapszabadság a második fizetési fokozatban évi két munkanappal, majd fizetési fokozatonként évi egy munkanappal emelkedik.
 
-(2) A bírót az 50. életéve betöltésének évétől – a fizetési fokozatától függetlenül – évi 40 munkanap alapszabadság illeti meg.
+(1a) A Kúria bírájának alapszabadsága három éves szolgálati időig harminc munkanap, négy év szolgálati idő után harminckét munkanap, majd ezt követően az alapszabadság 3 évenként további egy munkanappal emelkedik.
+
+(2) A bírót az 50. életéve betöltésének évétől – a fizetési fokozatától, illetve az (1a) bekezdésben foglalt számítástól függetlenül – évi 40 munkanap alapszabadság illeti meg.
 
 (3) A bírósági vezetők évi 5 munkanap pótszabadságra jogosultak. Az évi alapszabadság és a vezetői pótszabadság együttes mértéke a 40 munkanapot nem haladhatja meg.
 
@@ -1213,6 +1215,8 @@ nincs helye fegyelmi felelősségre vonásnak.
 - e) vezetői tisztségből való felmentés,
 - f) bírói tisztségből való felmentés indítványozása.
 
+(1a) A Kúria bírája esetében az egy fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az illetmény öt százalékáig terjedhet.
+
 (2) A fegyelmi büntetés kiszabásánál figyelembe kell venni a kötelességszegés súlyát és következményeit, a vétkesség fokát.
 
 (2a) A kötelességszegés súlyára és következményeire, valamint a vétkesség fokára tekintettel a szolgálati bíróság tanácsa határozatában kizárhatja a 127. § (1) bekezdése alapján történő fegyelmi büntetés hatálya alóli mentesítés alkalmazásának lehetőségét.
@@ -1234,7 +1238,7 @@ nincs helye fegyelmi felelősségre vonásnak.
 126. § (1) A bíró a fegyelmi büntetés jogerős kiszabása után
 
 - a) megrovás esetén egy évig,
-- b) egy fizetési fokozattal való visszavetés, két fizetési fokozattal való visszavetés, illetve a vezetői tisztségből való felmentés esetén két évig,
+- b) egy fizetési fokozattal való visszavetés, két fizetési fokozattal való visszavetés – a Kúria bírája esetében egyévi illetménycsökkentés, kétévi illetménycsökkentés –, illetve a vezetői tisztségből való felmentés esetén két évig,
 - c) a bírói tisztségből való felmentés indítványozása esetén 3 évig
 
 áll a fegyelmi büntetés hatálya alatt.
@@ -1464,9 +1468,19 @@ lehet adatot továbbítani.
 
 #### 58/A. A Kúria főtitkárának és főtitkár-helyettesének juttatásai
 
-158/A. § (1) A Kúria főtitkárának juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
+158/A. § (1) A Kúria főtitkárának havi illetménye a Kúria elnöke havi illetményének a 90 százaléka. A Kúria főtitkárának juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
-(2) A Kúria főtitkár-helyettesének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a helyettes államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
+(2) A Kúria főtitkár-helyettesének havi illetménye a Kúria elnöke havi illetményének a 80 százaléka. A Kúria főtitkár-helyettesének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a helyettes államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
+
+#### 58/B. A Kúria további vezetőinek illetménye
+
+158/B. § (1) A Kúria kollégiumvezetőjének és a Kúria kollégiumvezető-helyettesének havi illetménye a Kúria elnöke havi illetményének a 80 százaléka.
+
+(2) A Kúria tanácselnökének havi illetménye a Kúria elnöke havi illetményének a 70 százaléka.
+
+#### 58/C. A Kúria bíráinak illetménye
+
+158/C. § A kúriai bíró havi illetménye a Kúria elnöke havi illetményének a 60 százaléka.
 
 #### 59. Az OBH elnökének illetménye és juttatásai
 
@@ -1509,7 +1523,7 @@ jogosult.
 
 #### 63. A bíró illetménye
 
-168. § A bíró illetménye alapilletményből, továbbá pótlékból tevődik össze. A beosztási pótlék, a vezetői pótlék és a címpótlék alapilletmény jellegű.
+168. § A Kúria bírájának kivételével a bíró illetménye alapilletményből, továbbá pótlékból tevődik össze. A beosztási pótlék, a vezetői pótlék és a címpótlék alapilletmény jellegű.
 
 168/A. § (1) A bírót az illetménye illeti meg a következő távollétek idejére is:
 
@@ -1533,15 +1547,15 @@ jogosult.
 
 #### 64. A bírói illetményalap és a bíró alapilletménye
 
-169. § (1) A bíró alapilletményét az e törvény szerint számított szolgálati ideje alapján, a bírói illetményalap és a törvény 2. mellékletében fizetési fokozatonként meghatározott szorzószámok szorzataként kell megállapítani.
+169. § (1) A Kúria bírájának kivételével a bíró alapilletményét az e törvény szerint számított szolgálati ideje alapján, a bírói illetményalap és a törvény 2. mellékletében fizetési fokozatonként meghatározott szorzószámok szorzataként kell megállapítani.
 
 (2) A bírói illetményalapot évenként a központi költségvetésről szóló törvény határozza meg úgy, hogy annak összege az előző évi összegnél nem lehet alacsonyabb.
 
-170. § (1) Az 1. fizetési fokozatba kell besorolni azt a bírót, aki a kinevezésekor bírói szolgálati idővel még nem rendelkezik vagy a beszámított szolgálati idő a 3 évet nem haladja meg.
+170. § (1) Az 1. fizetési fokozatba kell besorolni a Kúria bírájának kivételével azt a bírót, aki a kinevezésekor bírói szolgálati idővel még nem rendelkezik vagy a beszámított szolgálati idő a 3 évet nem haladja meg.
 
-(2) A bíró minden 3 év szolgálati idő megszerzése után eggyel magasabb fizetési fokozatba lép.
+(2) A Kúria bírájának kivételével a bíró minden 3 év szolgálati idő megszerzése után eggyel magasabb fizetési fokozatba lép.
 
-171. § A bírót – kiváló, magasabb bírói beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén – a bírói tisztségének fennállása alatt két alkalommal a kollégium előterjesztésére eggyel magasabb fizetési fokozatba lehet besorolni. Két soron kívüli előresorolás között legalább hat évnek kell eltelnie. A soron kívüli előresorolásnál a korábbi fizetési fokozatban eltöltött időt az új fizetési fokozatban eltöltött időként kell figyelembe venni. A soron kívüli előresorolásokat az adott év első napjával kell végrehajtani.
+171. § A Kúria bírájának kivételével a bírót – kiváló, magasabb bírói beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén – a bírói tisztségének fennállása alatt két alkalommal a kollégium előterjesztésére eggyel magasabb fizetési fokozatba lehet besorolni. Két soron kívüli előresorolás között legalább hat évnek kell eltelnie. A soron kívüli előresorolásnál a korábbi fizetési fokozatban eltöltött időt az új fizetési fokozatban eltöltött időként kell figyelembe venni. A soron kívüli előresorolásokat az adott év első napjával kell végrehajtani.
 
 172. § (1) A szolgálati időt – a (2) bekezdésben foglalt eltéréssel – a bírói kinevezés napjától kell számítani.
 
@@ -1551,14 +1565,14 @@ jogosult.
 
 #### 65. A beosztási pótlék és a címpótlék
 
-173. § (1) A járásbírósági bíró, a törvényszéki bíró, az ítélőtábla bírája, a Kúria bírája beosztási pótlékra jogosult.
+173. § (1) A járásbírósági bíró, a törvényszéki bíró, az ítélőtábla bírája beosztási pótlékra jogosult.
 
 (2) A beosztási pótlék összege a bírói illetményalap összegének
 
 - a) a járásbírósági bírónál 20,
 - b) a törvényszéki bírónál 40,
 - c) az ítélőtábla bírájánál 70,
-- d) a Kúria bírájánál 120
+- d)
 
 százaléka.
 
@@ -1567,22 +1581,26 @@ százaléka.
 - a) a járásbírósági bíró részére „címzetes törvényszéki bíró”,
 - b) a törvényszéki bíró részére „címzetes táblabíró”,
 - c) az ítélőtábla bírája részére „címzetes kúriai bíró”,
-- d) a kúria bírája részére „kúriai tanácsos” címet adományozhat.
+- d)
+
+címet adományozhat.
 
 (2) Az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább húsz év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBH elnöke
 
 - a) a járásbírósági bíró részére „címzetes törvényszéki bíró”,
 - b) a törvényszéki bíró részére „címzetes táblabíró”,
 - c) az ítélőtábla bírája részére „címzetes kúriai bíró”,
-- d) a kúria bírája részére „kúriai tanácsos” címet adományoz.
+- d)
 
-(3) Az (1) és (2) bekezdés szerinti cím adományozásával címpótlékként a címzetes törvényszéki bíró a bírói illetményalap összegének a 30 százalékát, a címzetes táblabíró az 50 százalékát, a címzetes kúriai bíró a 80 százalékát, a kúriai tanácsos a 130 százalékát kitevő összegre jogosult. Egyidejűleg a tényleges beosztással járó beosztási pótlékra való jogosultság megszűnik.
+címet adományoz.
 
-175. § Ha a bírót – a fegyelmi okot kivéve – szolgálati érdekből alacsonyabb szintű bíróságra helyezik át, vagy alacsonyabb szintű bíróságra rendelik ki, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult. Szolgálati érdeknek minősül az is, ha a bírót alacsonyabb szintű bíróságon vezetőnek nevezik ki, vagy újabb beosztására pályázat nélkül került sor.
+(3) Az (1) és (2) bekezdés szerinti cím adományozásával címpótlékként a címzetes törvényszéki bíró a bírói illetményalap összegének a 30 százalékát, a címzetes táblabíró az 50 százalékát, a címzetes kúriai bíró a 80 százalékát kitevő összegre jogosult. Egyidejűleg a tényleges beosztással járó beosztási pótlékra való jogosultság megszűnik.
+
+175. § Ha a bírót – a fegyelmi okot kivéve – szolgálati érdekből alacsonyabb szintű bíróságra helyezik át, vagy alacsonyabb szintű bíróságra rendelik ki, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult. Ha a Kúria bíráját – a fegyelmi okot kivéve – szolgálati érdekből alacsonyabb szintű bíróságra helyezik át, vagy alacsonyabb szintű bíróságra rendelik ki, kúriai bírói illetményre továbbra is jogosult. Szolgálati érdeknek minősül az is, ha a bírót alacsonyabb szintű bíróságon vezetőnek nevezik ki, vagy újabb beosztására pályázat nélkül került sor.
 
 #### 66. A vezetői pótlék
 
-176. § (1) A bírósági vezető vezetői pótlékra a 3. mellékletben foglaltak szerint jogosult.
+176. § (1) A bírósági vezető – a Kúria vezetőinek kivételével – vezetői pótlékra a 3. mellékletben foglaltak szerint jogosult.
 
 (2) A vezetői pótlékot a bírói illetményalap összegének a százalékában kell meghatározni.
 
@@ -1596,7 +1614,7 @@ százaléka.
 
 #### 67. Az idegennyelv-ismereti pótlék
 
-179. § (1) A bíró idegennyelv-ismereti pótlékra jogosult, ha munkakörében az idegen nyelvet a munkáltatója rendelkezése szerint használja, és az adott nyelvből az állami nyelvvizsga letételét igazoló bizonyítvánnyal vagy azzal egyenértékű igazolással rendelkezik.
+179. § (1) A Kúria bírájának kivételével a bíró idegennyelv-ismereti pótlékra jogosult, ha munkakörében az idegen nyelvet a munkáltatója rendelkezése szerint használja, és az adott nyelvből az állami nyelvvizsga letételét igazoló bizonyítvánnyal vagy azzal egyenértékű igazolással rendelkezik.
 
 (2) A pótlék minden idegen nyelv után külön-külön jár.
 
@@ -1611,23 +1629,23 @@ százaléka.
 - b) középfokú komplex nyelvvizsga esetén a bírói illetményalap összegének nyolc százaléka,
 - c) alapfokú komplex nyelvvizsga esetén a bírói illetményalap összegének két százaléka.
 
-(3) Ha a bíró a (2) bekezdésben meghatározott idegen nyelvekből szóbeli vagy írásbeli nyelvvizsgával rendelkezik, az (1) bekezdésben foglalt komplex nyelvvizsgára meghatározott mérték szerint jogosult pótlékra.
+(3) Ha a Kúria bírájának kivételével a bíró a (2) bekezdésben meghatározott idegen nyelvekből szóbeli vagy írásbeli nyelvvizsgával rendelkezik, az (1) bekezdésben foglalt komplex nyelvvizsgára meghatározott mérték szerint jogosult pótlékra.
 
-(4) Ha a bíró ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú, illetve különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult. Ha a bíró különböző típusú, de azonos fokozatú nyelvvizsgával rendelkezik, nem jogosult a komplex nyelvvizsgánál magasabb mértékű pótlékra.
+(4) Ha a Kúria bírájának kivételével a bíró ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú, illetve különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult. Ha a Kúria bírájának kivételével a bíró különböző típusú, de azonos fokozatú nyelvvizsgával rendelkezik, nem jogosult a komplex nyelvvizsgánál magasabb mértékű pótlékra.
 
-(5) Ha a bíró – a felsőfokú szaknyelvi vizsga kivételével – tanulmányi szerződés alapján pénzbeli támogatást kap a nyelvvizsga megszerzéséhez, idegennyelv-ismereti pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék halmozott összege nem éri el a tanulmányi szerződés alapján kifizetett pénzbeli támogatás mértékét.
+(5) Ha a Kúria bírájának kivételével a bíró – a felsőfokú szaknyelvi vizsga kivételével – tanulmányi szerződés alapján pénzbeli támogatást kap a nyelvvizsga megszerzéséhez, idegennyelv-ismereti pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék halmozott összege nem éri el a tanulmányi szerződés alapján kifizetett pénzbeli támogatás mértékét.
 
 #### 68. A kiegészítő pótlék és a képzettségi pótlék
 
-181. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – a bíró részére határozott időre, illetve a feladat ellátásának idejére kiegészítő pótlékot állapíthat meg, ha a bíróság alaptevékenységébe tartozó munkaköri feladatai mellett sajtószóvivői, instruktori vagy más, a működéshez szükséges feladatokat rendszeresen teljesít.
+181. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – a Kúria bírájának kivételével a bíró részére határozott időre, illetve a feladat ellátásának idejére kiegészítő pótlékot állapíthat meg, ha a bíróság alaptevékenységébe tartozó munkaköri feladatai mellett sajtószóvivői, instruktori vagy más, a működéshez szükséges feladatokat rendszeresen teljesít.
 
 (2) A kiegészítő pótlék összege az illetményalap öt százalékától harminc százalékáig terjedhet, és több feladat teljesítése esetén sem haladhatja meg az illetményalap negyven százalékát.
 
-182. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – a bíró részére képzettségi pótlékot állapíthat meg felsőfokú iskolarendszerű képzésben, továbbképzésben szerzett szakképesítés, szakképzettség, továbbá doktori (PhD) vagy ennél magasabb tudományos fokozat elnyerése esetén, ha a megszerzett ismeretek a munkaköre ellátásánál vagy a bíróság feladatainak teljesítése során közvetlenül hasznosíthatók.
+182. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – a Kúria bírájának kivételével a bíró részére képzettségi pótlékot állapíthat meg felsőfokú iskolarendszerű képzésben, továbbképzésben szerzett szakképesítés, szakképzettség, továbbá doktori (PhD) vagy ennél magasabb tudományos fokozat elnyerése esetén, ha a megszerzett ismeretek a munkaköre ellátásánál vagy a bíróság feladatainak teljesítése során közvetlenül hasznosíthatók.
 
 (2) A képzettségi pótlék összege az illetményalap tíz százalékától harminc százalékáig terjedhet.
 
-(3) Ha a bíró a munkáltatóval kötött tanulmányi szerződés alapján pénzügyi támogatást kap a képzettség megszerzéséhez, a képzettségi pótlékra addig nem jogosult, amíg a havonta fizethető pótlék összege nem éri el a tanulmányi szerződés alapján számára nyújtott pénzügyi támogatás mértékét.
+(3) Ha a Kúria bírájának kivételével a bíró a munkáltatóval kötött tanulmányi szerződés alapján pénzügyi támogatást kap a képzettség megszerzéséhez, a képzettségi pótlékra addig nem jogosult, amíg a havonta fizethető pótlék összege nem éri el a tanulmányi szerződés alapján számára nyújtott pénzügyi támogatás mértékét.
 
 #### 69. Egyéb javadalmazások, kedvezmények és költségtérítések
 
@@ -2235,6 +2253,10 @@ kerülhet sor.
 
 (2) E törvénynek az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvénnyel módosított rendelkezései nem érintik az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvény hatályba lépésének napjáig hatályos 27. és 27/A. § rendelkezései alapján beosztott bíró jogállását.
 
+232/Z. § (1) A Kúria bíráit és bírósági vezetőit az e törvénynek a Módtv2. 101. § és 102. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg, ez az illetmény nem lehet kevesebb, mint az érintett illetményének a Módtv2. 101. § és 102. §-ának hatályba lépése előtti összege. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv2. 101. § és 102. §-ának hatálybalépését követő 60. napig kerül sor.
+
+(2) Ha a Kúria bírái számára az e törvénynek a Módtv2.-vel megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv2. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv2.-vel megállapított rendelkezései szerinti szabadsága meg nem haladja.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
@@ -2256,7 +2278,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 232/W. §-a, 232/X. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 232/W. §-a, 232/X. §-a, 232/Y. §-a, 232/Z. §-a 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 
@@ -2336,18 +2358,17 @@ való megfelelést szolgálja.
 |  | A | B |
 | --- | --- | --- |
 | 1 | A vezetői munkakörök | Százalék |
-| 2 | A Kúria kollégiumvezetője és főtitkára | 200 |
-| 3 | A Kúria kollégiumvezető-helyettese és főtitkár-helyettese Az ítélőtábla elnöke A Fővárosi Törvényszék elnöke | 150 |
-| 4 | A Kúria tanácselnöke Az ítélőtábla elnökhelyettese A törvényszék elnöke | 120 |
-| 5 | Az ítélőtábla kollégiumvezetője A Fővárosi Törvényszék elnökhelyettese | 100 |
-| 6 | Az ítélőtábla kollégiumvezető-helyettese | 80 |
-| 7 | A Fővárosi Törvényszék kollégiumvezetője A törvényszék elnökhelyettese | 70 |
-| 8 | A nagyobb járásbíróság elnöke | 60 |
-| 9 | Az ítélőtábla tanácselnöke | 50 |
-| 10 | A Fővárosi Törvényszék kollégiumvezető-helyettese A törvényszék kollégiumvezetője | 45 |
-| 11 | A törvényszék kollégiumvezető-helyettese A törvényszék csoportvezetője A nagyobb járásbíróság elnökhelyettese A kisebb járásbíróság elnöke | 40 |
-| 12 | A törvényszék csoportvezető-helyettese A törvényszék tanácselnöke A nagyobb járásbíróság csoportvezetője | 30 |
-| 13 | A nagyobb járásbíróság csoportvezető-helyettese A kisebb járásbíróság elnökhelyettese | 25 |
+| 2 | Az ítélőtábla elnöke A Fővárosi Törvényszék elnöke | 150 |
+| 3 | Az ítélőtábla elnökhelyettese A törvényszék elnöke | 120 |
+| 4 | Az ítélőtábla kollégiumvezetője A Fővárosi Törvényszék elnökhelyettese | 100 |
+| 5 | Az ítélőtábla kollégiumvezető-helyettese | 80 |
+| 6 | A Fővárosi Törvényszék kollégiumvezetője A törvényszék elnökhelyettese | 70 |
+| 7 | A nagyobb járásbíróság elnöke | 60 |
+| 8 | Az ítélőtábla tanácselnöke | 50 |
+| 9 | A Fővárosi Törvényszék kollégiumvezető-helyettese A törvényszék kollégiumvezetője | 45 |
+| 10 | A törvényszék kollégiumvezető-helyettese A törvényszék csoportvezetője A nagyobb járásbíróság elnökhelyettese A kisebb járásbíróság elnöke | 40 |
+| 11 | A törvényszék csoportvezető-helyettese A törvényszék tanácselnöke A nagyobb járásbíróság csoportvezetője | 30 |
+| 12 | A nagyobb járásbíróság csoportvezető-helyettese A kisebb járásbíróság elnökhelyettese | 25 |
 
 ### 4. melléklet a 2011. évi CLXII. törvényhez
 
