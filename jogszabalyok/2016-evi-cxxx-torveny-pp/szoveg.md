@@ -3771,7 +3771,10 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 - b) a közokirattal tanúsított adatok és tények valóságát,
 - c) a közokiratban foglalt nyilatkozat megtételét, annak idejét és módját.
 
-(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek a Dáptv. szerinti szerepkörét, ha a szerepkört a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta.
+(3a) Az elektronikus közokirat teljes bizonyító erővel bizonyítja a közokirat aláírása pillanatában a kiállító személynek a Dáptv. szerinti szerepkörét, ha a szerepkört
+
+- a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta, vagy
+- b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
 
 (3b) Elektronikus közokirat esetében jogszabály a (3a) bekezdéstől eltérő módon is lehetővé teheti a Dáptv. szerinti szerepkör teljes bizonyító erejű igazolását.
 
@@ -6427,7 +6430,7 @@ E törvény rendelkezéseit az elektronikus kapcsolattartás során az e fejezet
 
 (1) A perben az elektronikus kapcsolattartásra nem köteles fél vagy a jogi képviselőnek nem minősülő képviselője – az (5) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt és ezek mellékletét, valamint okiratot (e fejezetben a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja, a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon.
 
-(2) Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál. A beadvány elektronikus úton történő benyújtását az (1) bekezdés szerinti elektronikus út vállalásának kell tekinteni.
+(2) Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál. A beadvány elektronikus úton történő benyújtás az (1) bekezdés szerinti elektronikus út vállalásának minősül.
 
 (3) Az (1) bekezdés szerinti elektronikus út választása esetén az eljárás folyamán – ideértve az eljárás minden szakaszát és a rendkívüli perorvoslatot is – a fél, illetve képviselője köteles a bírósággal a kapcsolatot elektronikus úton tartani és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére, kivéve a tárgyaláson csatolt vagy kézbesíthető iratot, illetve határozatot.
 
@@ -6725,6 +6728,8 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 (13) Az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 346. § (5) bekezdését, 405. § (3) bekezdését, 406. § (1) bekezdését, 409. §-át, 410. § (2) bekezdés c) pont cd) alpontját, 413. § (1) bekezdés c)–e) pontját, 423. § (1) bekezdését, 424. § (1)–(3) bekezdését, valamint 424. § (7) bekezdését a 2020. július 1-jén és az azt követően meghozott jogerős ítélet vagy az ügy érdemében hozott jogerős végzés ellen indult felülvizsgálati eljárásokban kell alkalmazni.
 
 (14) A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosításáról szóló 2020. évi CXIX. törvénnyel módosított 20. § (3) bekezdés a) pontját, 26. §-át, 472. § (2) és (3) bekezdését, továbbá 496. § (2) bekezdését a polgári perrendtartásról szóló 2016. évi CXXX. törvény módosításáról szóló 2020. évi CXIX. törvény hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(15) A 2024. augusztus 31-én hatályos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás használatával 2024. december 31-ig hitelesített elektronikus okirat teljes bizonyító erejű magánokiratnak minősül, és a 325. § (3a) bekezdése szerint tanúsítja az aláíró szerepkörét, ha a szerepkört az azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás igazolása tartalmazza.
 
 (17) Ha e törvénynek a 2024. december 31. napján hatályos szabályai szerint a bíróság a folyamatban levő ügyben papíralapon tartotta a kapcsolatot a szakértővel, és a szakértő az igazságügyi szakértőkről szóló törvény alapján 2025. január 1. napját követően hatályos szabályai szerint köteles elektronikus úton kapcsolatot tartani, akkor a bíróság a szakértővel a folyamatban levő ügyben továbbra is papíralapon tartja a kapcsolatot, kivéve ha a szakértő a folyamatban levő ügyben 2025. január 1. napját követően szakvéleményét vagy egyéb beadványát elektronikus úton teszi meg a bírósághoz.
 

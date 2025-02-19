@@ -6357,6 +6357,10 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - q) a fegyveres biztonsági őr a szolgálatának teljesítése során,
   - r) az országos és a helyi közutakon, az állam vagy a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás biztosítását célzó parkolási közszolgáltatást a közúti közlekedésről szóló törvény szerint ellátó szervezetnél a parkolóhelyek rendeltetésszerű működtetését és a parkolóhelyek rendeltetésszerű használatának ellenőrzését végző személy e tevékenysége során.
   - s) az útellenőr, és a kezelői ellenőr a közúti közlekedésről szóló törvényben meghatározott tevékenysége körében.
+  - t) a kritikus szervezet által kritikus munkakörben foglalkoztatott személy a kritikus szervezetnél végzett tevékenysége körében,
+  - u) a kritikus szervezet ellenálló képességéért felelős vezető a kritikus szervezetek ellenálló képességéről szóló törvényben meghatározott tevékenysége körében,
+  - v) a létfontosságú szervezet kritikus munkakörben foglalkoztatott személye a létfontosságú szervezetnél végzett tevékenysége körében,
+  - w) az ellenálló képességért felelős vezető a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott tevékenysége körében.
 - 13. külföldi hivatalos személy:
   - a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy, illetve külföldi államban közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, ideértve a köztestületben vagy az állami vagy önkormányzati vállalkozásban ilyen feladatot ellátó vagy szolgálatot teljesítő személyt is,
   - b) törvényben kihirdetett nemzetközi szerződéssel létrehozott nemzetközi szervezetnél szolgálatot teljesítő személy, akinek a tevékenysége a szervezet rendeltetésszerű működéséhez tartozik,
@@ -6380,6 +6384,8 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - c) az elektronikus hírközlő hálózat,
   - d) az egyetemes postai szolgáltató közérdekű feladatainak teljesítése érdekében üzemeltetett logisztikai, pénzforgalmi és informatikai központok és üzemek,
   - e) a hadianyagot, haditechnikai eszközt termelő üzemet, energiát vagy üzemi felhasználásra szánt alapanyagot termelő üzem;
+  - f) a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus infrastruktúra,
+  - g) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős infrastruktúra;
 - 22. nagy nyilvánosságon a bűncselekménynek a sajtótermék, médiaszolgáltatás, sokszorosítás vagy elektronikus hírközlő hálózaton való közzététel útján történő elkövetését is érteni kell;
 - 23. nemzetközi szerződés által tiltott fegyver:
   - a) az 1955. évi 20. törvényerejű rendelettel kihirdetett, a fojtó, mérges és egyéb hasonló gázok, valamint a bakteriológiai eszközök hadviselési célokra történő használatának eltiltására vonatkozóan Genfben, az 1925. évi június hó 17. napján kelt jegyzőkönyvben említett fojtó, mérges és egyéb hasonló gáz, a bakteriológiai harci eszköz,
@@ -6609,3 +6615,5 @@ való megfelelést szolgálja.
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) E törvény 216. § (1) és (4) bekezdése, valamint 332. és 333. §-a a rasszizmus és az idegengyűlölet egyes formái és megnyilvánulásai elleni, büntetőjogi eszközökkel történő küzdelemről szóló, 2008. november 28-i 2008/913/IB tanácsi kerethatározat 1. cikkének való megfelelést szolgálja.
+
+(4) A 459. § (1) bekezdés 12. pont t)–w) alpontja, valamint 459. § (1) bekezdés 21. pont f) és g) alpontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
