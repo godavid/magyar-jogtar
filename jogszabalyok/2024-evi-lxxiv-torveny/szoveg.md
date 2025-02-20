@@ -124,164 +124,27 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 
 #### 17. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-45. § (1) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 48. § (2) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+#### 45. §
 
-(Az igazságügyi alkalmazott pótszabadságának mértéke)
+#### 46. §
 
-„c) a tisztviselő és az írnok esetén 4 év szolgálati idő után 2 munkanap, 8 év szolgálati idő után 4 munkanap, 12 év szolgálati idő után 6 munkanap, 19 év szolgálati idő után 8 munkanap, 26 év szolgálati idő után 10 munkanap, 31 év szolgálati idő után 12 munkanap, 36 év szolgálati idő után 13 munkanap;
+#### 47. §
 
-d) a bírósági ügyintéző esetén 3 év szolgálati időig 1 munkanap, 4 év szolgálati idő után 3 munkanap, 8 év szolgálati idő után 5 munkanap, 12 év szolgálati idő után 7 munkanap, 19 év szolgálati idő után 9 munkanap, 26 év szolgálati idő után 11 munkanap, 31 év szolgálati idő után 13 munkanap;”
+#### 48. §
 
-(2) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 48. § (8) bekezdése helyébe a következő rendelkezés lép:
+#### 49. §
 
-„(8) A (2) és az (5) bekezdésben meghatározott szabadság az igazságügyi alkalmazottat abban az évben illeti meg először, amikor az adott fizetési fokozatba besorolták, amikor a tisztviselő, írnok, fizikai alkalmazott a (2) bekezdés c), d), illetve e) pontjában meghatározott időt elérte, illetve amely évben vezetői beosztás ellátására kapott megbízást.”
-
-46. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 70. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) Azon igazságügyi alkalmazott esetében, akinek az illetménye az Mt. alapján került megállapításra, továbbá a 103/A. §-ban meghatározott igazságügyi alkalmazottak esetében az (1) bekezdés b) pontjában foglalt fegyelmi büntetés helyett kétévi időtartamra illetményemelés elmaradása, az (1) bekezdés c) pontjában foglalt fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni. Az illetménycsökkentés mértéke az illetmény öt százalékáig terjedhet.”
-
-47. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 96. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az igazságügyi alkalmazott – a 103/A. §-ban foglalt kivétellel – a szolgálati viszonya alapján havonta alapilletményre, továbbá, ha a folyósítás e törvényben meghatározott feltételei fennállnak, beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. Az alapilletmény összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.”
-
-48. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény „A besorolás és az alapilletmény megállapítása” című alcíme a következő 103/A. §-sal egészül ki:
-
-„103/A. § (1) A bíróságokon, az OBH-ban és az OBT-nél foglalkoztatott tisztviselő, írnok és fizikai dolgozó (a továbbiakban együtt: bíróságon foglalkoztatott ügyintéző), valamint – az OBH elnökhelyettesének kivételével – a tisztviselők, írnokok és fizikai dolgozók közül kinevezett vezető (a továbbiakban együtt: bíróságon foglalkoztatott vezető) az e törvényben meghatározottak szerint megállapított illetményre jogosult. Az illetmény összege nem lehet kevesebb, mint a garantált bérminimum összege.
-
-(2) A bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők esetében nem alkalmazhatók – a szolgálati idő számítására vonatkozó szabályok kivételével – e törvény 97–106. §-ában, valamint a 122. § foglaltak, a bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők besorolására és illetmény megállapítására, valamint érdemeik elismerésére a 107-109/A. §-ok rendelkezéseit kell alkalmazni.”
-
-49. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény a 106. §-t követően a következő, „A bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők besorolása, illetmény megállapítása és érdemeik elismerése” című, „A kiemelt munkakör” című és „A munkakör ellátásához kapcsolódó terhelés figyelembe vétele” című alcímekkel és a következő 107–109/C. §-okkal egészül ki:
-
-### „A bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők besorolása, illetmény megállapítása és érdemeik elismerése
-
-107. § (1) A bíróságon foglalkoztatott ügyintézők tekintetében – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
-
-- a) ügyintéző, ezen belül:
-  - aa) igazságügyi-tanácsos I.,
-  - ab) igazságügyi-tanácsos II.,
-  - ac) igazságügyi-főtanácsos I.,
-  - ad) igazságügyi-főtanácsos II.,
-  - ae) igazságügyi-főtanácsos III.,
-- b) vezető.
-
-(2) A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintézők tekintetében az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
-
-- a) ügyintéző, ezen belül:
-  - aa) igazságügyi-tanácsos III.,
-  - ab) igazságügyi-tanácsos IV.,
-  - ac) igazságügyi-főtanácsos IV.,
-  - ad) igazságügyi-főtanácsos V.,
-- b) vezető.
-
-108. § (1) A bíróságon foglalkoztatott ügyintézőt a munkáltatói jogkör gyakorlója sorolja be – a (2) bekezdésben foglaltak kivételével – a 8. mellékletben foglalt Illetménytábla igazságügyi-tanácsos I., igazságügyi-tanácsos II., igazságügyi-főtanácsos I., igazságügyi-főtanácsos II. vagy igazságügyi-főtanácsos III. besorolási kategóriába.
-
-(2) A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintézőt a munkáltatói jogkör gyakorlója sorolja be a 9. mellékletben foglalt Illetménytábla igazságügyi-tanácsos III., igazságügyi-tanácsos IV., igazságügyi-főtanácsos IV. vagy igazságügyi-főtanácsos V. besorolási kategóriába.
-
-(3) A bíróságon foglalkoztatott vezetőt a munkáltatói jogkör gyakorlója – a (4) bekezdésben foglaltak kivételével – a 8. mellékletben foglalt Illetménytábla osztályvezető vagy főosztályvezető besorolási kategóriáiba sorolja be. A bíróságon foglalkoztatott magasabb vezetőt a főosztályvezető besorolási kategóriába kell sorolni.
-
-(4) A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott vezetőt a munkáltatói jogkör gyakorlója a 9. mellékletben foglalt Illetménytábla osztályvezető vagy főosztályvezető besorolási kategóriába sorolja be. A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott magasabb vezetőt a főosztályvezető besorolási kategóriába kell sorolni.
-
-(5) A jogviszonya alapján
-
-- a) az (1) bekezdés szerinti, a bíróságon foglalkoztatott ügyintéző az (1) bekezdés,
-- b) a (3) bekezdés szerinti, a bíróságon foglalkoztatott vezető a (3) bekezdés
-
-szerinti besorolása alapján havonta a 8. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg – a szakmai képességek, a képzettség, a gyakorlat, valamint a teljesítmény alapján – az álláshelyhez tartozó besorolási kategória szerinti sávon belül.
-
-(6) A jogviszonya alapján
-
-- a) a (2) bekezdés szerinti, a Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintéző a (2) bekezdés,
-- b) a (4) bekezdés szerinti, a Kúrián, az OBH-nál és az OBT-nél foglalkoztatott vezető a (4) bekezdés
-
-szerinti besorolása alapján havonta a 9. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg – a szakmai képességek, a képzettség, a gyakorlat, valamint a teljesítmény alapján – az álláshelyhez tartozó besorolási kategória szerinti sávon belül.
-
-(7) A besorolás részletes szabályait a Kúriával szolgálati jogviszonyban álló bíróságon foglalkoztatott ügyintézők és bíróságon foglalkoztatott vezetők tekintetében a Kúria elnöke állapítja meg, az egyéb bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló bíróságon foglalkoztatott ügyintézők és bíróságon foglalkoztatott vezetők tekintetében az OBH elnöke szabályzatban állapítja meg, az OBT-vel szolgálati jogviszonyban álló bíróságon foglalkoztatott ügyintézők és bíróságon foglalkoztatott vezetők tekintetében az OBT határozatban állapítja meg.
-
-109. § (1) A munkáltatói jogkör gyakorlója a bíróságon foglalkoztatott ügyintéző és vezető tárgyévet megelőző teljesítményértékelése vagy értékelése alapján
-
-- a) illetményét az adott besorolási kategóriához tartozó összeghatáron belül legfeljebb 20%-kal csökkentheti, illetve legfeljebb 30%-kal növelheti,
-- b) részére teljesítmény elismerést fizetését rendelheti el.
-
-(2) Az (1) bekezdés szerinti intézkedések elrendelése tekintetében a teljesítményértékelésen és értékelésen túl a munkáltatói jogkör gyakorlója az alábbi szempontokat veszi figyelembe:
-
-- a) a munkakörre előírt képesítés megszerzése során elért tanulmányi eredmény,
-- b) az igazságügyi szervnél szerzett szakmai tapasztalat,
-- c) az igazságügyi szervnek nem minősülő, egyéb munkáltatónál szerzett, a munkaköre alapján ellátott feladatok szempontjából jelentős tapasztalat,
-- d) az igazságügyi alkalmazott által szerzett végzettség, egyéb képesítés, nyelvtudás,
-- e) a munkavégzés színvonala,
-- f) a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés, és
-- g) a munkakör ellátásához kapcsolódó felelősség.
-
-109/A. § A bíróságon foglalkoztatott ügyintéző és vezető a munkaköri feladatok hosszabb időn át történő eredményes ellátásáért vagy adott feladat kiemelkedő teljesítéséért a következő elismerésekben részesíthető:
-
-- a) pénz- vagy tárgyjutalom,
-- b) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel alapított kitüntetés, illetve az e törvényben kapott felhatalmazás alapján alapított díj, oklevél, plakett stb.
-
-### A kiemelt munkakör
-
-109/B. § (1) A munkáltatói jogkör gyakorlója a 2. § (2) bekezdés b)–d) pontja szerinti igazságügyi alkalmazott munkakörét kiemelt munkakörré minősítheti.
-
-(2) A munkáltatói jogkör gyakorlója a kiemelt munkakörben foglalkoztatott igazságügyi alkalmazott illetményét az Mt. alapján állapíthatja meg, amelynek havi mértéke a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozóan nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
-
-(3) Az igazságügyi szervnél a tárgyévben kiemelt munkakörben foglalkoztatott igazságügyi alkalmazottak aránya együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát.
-
-### A munkakör ellátásához kapcsolódó terhelés figyelembe vétele
-
-109/C. § Azokat a munkaköröket, amelyek esetében a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés figyelembevétele nem mellőzhető, az igazságügyért felelős miniszter, valamint a miniszter rendeletben határozza meg.”
-
-50. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény a következő 134/K–134/M. §-sal egészül ki:
-
-„134/K. § (1) Az igazságügyi alkalmazott számára – a 134/L. §-ban foglaltak kivételével – az e törvénynek Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény (a továbbiakban: Módtv3.) 52. § (1) bekezdésével megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 52. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
-
-(2) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – a Módtv3. 52. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3. 52. § (1) bekezdésével megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a Módtv3. 52. §-ának hatálybalépése előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A Módtv3. 52. §-ának hatálybalépése előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
-
-(3) Az igazságügyi alkalmazottat – a 134/L. §-ban foglaltak kivételével – az e törvénynek a Módtv3. 52. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 52. §-ának hatálybalépését követő 60 napon belül kerül sor.
-
-134/L. § (1) A bíróságon foglalkoztatott ügyintéző és a bíróságon foglalkoztatott vezető számára Módtv3. rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 50. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
-
-(2) A bíróságon foglalkoztatott ügyintézőt és a bíróságon foglalkoztatott vezetőt a Módtv3. 50. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3.-al megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani.
-
-(3) A bíróságon foglalkoztatott ügyintézőt és a bíróságon foglalkoztatott vezetőt az e törvénynek a Módtv3.-al megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 50. §-ának hatálybalépését követő 60 napon belül kerül sor.
-
-134/M. § Ha a tisztviselő, az írnok és bírósági ügyintéző számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.”
+#### 50. §
 
 #### 51. §
 
-52. § (1) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény
-
-- 1. 2. számú melléklete helyébe az 1. melléklet lép,
-- 2. 3. melléklete helyébe a 2. melléklet lép,
-- 3. 4. melléklete helyébe a 3. melléklet lép,
-- 4. 5. melléklete helyébe a 4. melléklet lép,
-- 5. 6. melléklete helyébe az 5. melléklet lép,
-- 6. 7. melléklete helyébe a 6. melléklet lép.
-
-(2) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény
-
-- 1. a 7. melléklet szerinti 8. melléklettel egészül ki,
-- 2. a 8. melléklet szerinti 9. melléklettel egészül ki.
+#### 52. §
 
 #### 53. §
 
-54. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény
+#### 54. §
 
-- a) 15. § (1) bekezdésében az „előresorolás időpontját,” szövegrész helyébe az „előresorolás időpontját, illetve a bíróságokon, az OBH-ban és az OBT-nél foglalkoztatott tisztviselő, írnok és fizikai dolgozó, valamint a közülük kinevezett vezető esetében az álláshelyi besorolási kategóriát és az illetményt,” szöveg,
-- b) 93. § (4) bekezdés e) pontjában a „fokozat” szövegrész helyébe a „fokozat, illetve álláshelyi besorolási kategória” szöveg,
-- c) 96. § (3) bekezdésében a „98. § (3) bekezdésében” szövegrész helyébe a „109/B. § (2) bekezdésében” szöveg,
-- d) 122. § (2) bekezdésében az „a bíróság, az OBH és az OBT alkalmazottainak tekintetében az OBT, más” szövegrész helyébe az „az” szöveg
-
-lép.
-
-55. § Hatályát veszti az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény
-
-- a) 97. § (1) bekezdésében a „– a fizikai dolgozó kivételével –” szövegrész,
-- b) 98. § (2)–(5) bekezdése,
-- c) 99. § (2) bekezdésében az „a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBT határozatban,” szövegrész,
-- d) 104. § (1) bekezdésében a „ , valamint a bírósági irodavezetőt” szövegrész,
-- e) 104. § (2) bekezdése,
-- f) 105. § (1) bekezdésében a „tisztviselőt és írnokot,” szövegrész,
-- g) 105. § (2) bekezdés b) pontjában az „a III. és V. fizetési osztályba sorolt tisztviselő,” szövegrész,
-- h) 105. § (2) bekezdés c) pontjában az „a Kúrián, az OBH-nál és az OBT-nél dolgozó IV. fizetési osztályba sorolt tisztviselő, írnok, valamint” szövegrész.
+#### 55. §
 
 #### 18. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
@@ -411,279 +274,77 @@ lép.
 
 #### 35. A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény módosítása
 
-95. § (1) Hatályukat vesztik a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 76. § (9) bekezdés b) pontjában a „ , „kúriai tanácsos” ” szövegrészek.
-
-(2) Hatályát veszti a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 103. § (3) bekezdés j) pontjában a „ , „kúriai tanácsos” ” szövegrész.
+#### 95. §
 
 #### 36. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
 #### 96. §
 
-97. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 55. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 97. §
 
-„(1) A Kúria bírájának kivételével az 1. fizetési fokozatba tartozó bíró alapszabadsága évi 30 munkanap, ezt követően az alapszabadság a második fizetési fokozatban évi két munkanappal, majd fizetési fokozatonként évi egy munkanappal emelkedik.”
+#### 98. §
 
-98. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 55. §-a a következő (1a) bekezdéssel egészül ki:
+#### 99. §
 
-„(1a) A Kúria bírájának alapszabadsága három éves szolgálati időig harminc munkanap, négy év szolgálati idő után harminckét munkanap, majd ezt követően az alapszabadság 3 évenként további egy munkanappal emelkedik.”
+#### 100. §
 
-99. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 55. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 101. §
 
-„(2) A bírót az 50. életéve betöltésének évétől – a fizetési fokozatától, illetve az (1a) bekezdésben foglalt számítástól függetlenül – évi 40 munkanap alapszabadság illeti meg.”
+#### 102. §
 
-100. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 124. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A Kúria bírája esetében az egy fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az illetmény öt százalékáig terjedhet.”
-
-101. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 158/A. §-a helyébe a következő rendelkezés lép:
-
-„158/A. § (1) A Kúria főtitkárának havi illetménye a Kúria elnöke havi illetményének a 90 százaléka. A Kúria főtitkárának juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
-
-(2) A Kúria főtitkár-helyettesének havi illetménye a Kúria elnöke havi illetményének a 80 százaléka. A Kúria főtitkár-helyettesének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a helyettes államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.”
-
-102. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény a 158/A. §-t követően a következő 58/B. és 58/C. alcímmel egészül ki:
-
-#### „58/B. A Kúria további vezetőinek illetménye
-
-158/B. § (1) A Kúria kollégiumvezetőjének és a Kúria kollégiumvezető-helyettesének havi illetménye a Kúria elnöke havi illetményének a 80 százaléka.
-
-(2) A Kúria tanácselnökének havi illetménye a Kúria elnöke havi illetményének a 70 százaléka.
-
-#### 58/C. A Kúria bíráinak illetménye
-
-158/C. § A kúriai bíró havi illetménye a Kúria elnöke havi illetményének a 60 százaléka.”
-
-103. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 175. §-a helyébe a következő rendelkezés lép:
-
-„175. § Ha a bírót – a fegyelmi okot kivéve – szolgálati érdekből alacsonyabb szintű bíróságra helyezik át, vagy alacsonyabb szintű bíróságra rendelik ki, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult. Ha a Kúria bíráját – a fegyelmi okot kivéve – szolgálati érdekből alacsonyabb szintű bíróságra helyezik át, vagy alacsonyabb szintű bíróságra rendelik ki, kúriai bírói illetményre továbbra is jogosult. Szolgálati érdeknek minősül az is, ha a bírót alacsonyabb szintű bíróságon vezetőnek nevezik ki, vagy újabb beosztására pályázat nélkül került sor.”
+#### 103. §
 
 #### 104. §
 
-105. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény a következő 232/Z. §-sal egészül ki:
+#### 105. §
 
-„232/Z. § (1) A Kúria bíráit és bírósági vezetőit az e törvénynek a Módtv2. 101. § és 102. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg, ez az illetmény nem lehet kevesebb, mint az érintett illetményének a Módtv2. 101. § és 102. §-ának hatályba lépése előtti összege. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv2. 101. § és 102. §-ának hatálybalépését követő 60. napig kerül sor.
+#### 106. §
 
-(2) Ha a Kúria bírái számára az e törvénynek a Módtv2.-vel megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv2. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv2.-vel megállapított rendelkezései szerinti szabadsága meg nem haladja.”
+#### 107. §
 
-106. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 3. melléklete helyébe a 15. melléklet lép.
+#### 108. §
 
-107. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény
-
-- a) 126. § (1) bekezdés b) pontjában a „két fizetési fokozattal való visszavetés,” szövegrész helyébe a „két fizetési fokozattal való visszavetés – a Kúria bírája esetében egyévi illetménycsökkentés, kétévi illetménycsökkentés –,” szöveg,
-- b) 168. §-ában, 169. § (1) bekezdésében, 170. § (2) bekezdésében, 179. § (1) bekezdésében az „A bíró” szövegrész helyébe az „A Kúria bírájának kivételével a bíró” szöveg,
-- c) 170. § (1) bekezdésében a „kell besorolni” szövegrész helyébe a „kell besorolni a Kúria bírájának kivételével” szöveg,
-- d) 171. §-ában az „A bírót” szövegrész helyébe az „A Kúria bírájának kivételével a bírót” szöveg,
-- e) 176. § (1) bekezdésében a „vezető” szövegrész helyébe a „vezető – a Kúria vezetőinek kivételével –” szöveg,
-- f) 180. § (3), (4) és (5) bekezdésében, 181. § (1) bekezdésében, 182. § (1) és (3) bekezdésében az „a bíró” szövegrész helyébe az „a Kúria bírájának kivételével a bíró” szöveg
-
-lép.
-
-108. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 237. § (1) bekezdésében a „232/X. §-a, 236. §-a,” szövegrész helyébe a „232/X. §-a, 232/Y. §-a, 232/Z. §-a 236. §-a,” szöveg lép.
-
-109. § Hatályát veszti a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény
-
-- a) 173. § (1) bekezdésében az „ , a Kúria bírája” szövegrész,
-- b) 173. § (2) bekezdésének d) pontja,
-- c) 174. § (1) bekezdésének d) pontja,
-- d) 174. § (2) bekezdésének d) pontja,
-- e) 174. § (3) bekezdésében az „ , a kúriai tanácsos a 130 százalékát” szövegrész.
+#### 109. §
 
 #### 37. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
-110. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 59. §-a következő (5)–(9) bekezdéssel egészül ki:
+#### 110. §
 
-„(5) A legfőbb ügyész helyettes a Kúria elnökhelyettesével azonos havi illetményre és más javadalmazásra jogosult.
+#### 111. §
 
-(6) A legfőbb ügyészségi főosztályvezető ügyész és a legfőbb ügyészségi főosztályvezető helyettes ügyész a Kúria kollégiumvezetőjével és a Kúria kollégiumvezető-helyettesével azonos havi illetményre jogosult.
+#### 112. §
 
-(7) A legfőbb ügyészségi osztályvezető ügyész a Kúria tanácselnökével azonos havi illetményre jogosult.
+#### 113. §
 
-(8) A legfőbb ügyészségi csoportvezető ügyész havi illetményként a legfőbb ügyész havi illetményének a 65 százalékára jogosult.
+#### 114. §
 
-(9) A legfőbb ügyészségi ügyész a kúriai bíróval azonos havi illetményre jogosult.”
+#### 115. §
 
-111. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 64. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+#### 116. §
 
-„(5) Ha az ügyészt ügyészségi érdekből alacsonyabb szintű ügyészséghez helyezik át, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Ha a legfőbb ügyészségi ügyészt ügyészségi érdekből alacsonyabb szintű ügyészséghez helyezik át, legfőbb ügyészségi ügyészi illetményére továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Ügyészségi érdeknek minősül, ha az ügyészt alacsonyabb szintű ügyészségen vezetőnek nevezik ki, valamint ha a 25. § (2) vagy (4) bekezdésében, illetve 36. § (1) bekezdés a)–b) pontjában vagy a 47. § (5) bekezdésében említett okból alacsonyabb szintű ügyészségre helyezik át.
+#### 117. §
 
-(6) Alacsonyabb szintű ügyészségre történő kirendelés esetén az ügyész beosztási pótléka nem változik, illetve címét és a címmel járó pótlékát megtartja, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Alacsonyabb szintű ügyészségre történő kirendelés esetén a legfőbb ügyészségi ügyész legfőbb ügyészségi ügyészi illetményére továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Magasabb szintű ügyészségre történő kirendelés esetében az ügyész a kirendelés helyének megfelelő beosztási pótlékra jogosult; a kirendelés időtartamára az ügyészt a címpótlék nem illeti meg.”
+#### 118. §
 
-112. § (1) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 79. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A legfőbb ügyészségi ügyész kivételével az 1. fizetési fokozatba tartozó ügyész alapszabadsága évi harminc munkanap, a 2. fizetési fokozattal kezdődően az alapszabadság a fizetési fokozattal azonos számú munkanappal emelkedik.”
-
-(2) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 79. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A legfőbb ügyészségi ügyész alapszabadsága három éves szolgálati időig harminc munkanap, négy év szolgálati idő után harminckét munkanap, majd ezt követően az alapszabadság 3 évenként további egy munkanappal emelkedik.”
-
-(3) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 79. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az ügyészt az ötvenedik életéve betöltésének évétől – a fizetési fokozatától, illetve az (1a) bekezdésben foglalt számítástól függetlenül – évi negyven munkanap alapszabadság illeti meg.”
-
-113. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 84. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A legfőbb ügyészségi ügyész esetében az egy fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az illetmény öt százalékáig terjedhet.”
-
-114. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 108/C. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az ügyészek közül kinevezett főtitkár a Kúria főtitkárával azonos havi illetményre jogosult.
-
-(2) Az ügyészek közül kinevezett főtitkár-helyettes a Kúria főtitkár-helyettesével azonos havi illetményre jogosult.
-
-(3) Az illetményén kívül az ügyészek és a tisztviselők közül kinevezett főtitkár a Kúria főtitkárával, az ügyészek és a tisztviselők közül kinevezett főtitkár-helyettes a Kúria főtitkár-helyettesével azonos juttatásra jogosult. A főtitkárt és a főtitkár-helyettest megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetét terheli.”
-
-115. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 135–138. §-a helyébe a következő rendelkezések lépnek:
-
-„135. § (1) A tisztviselőt, írnokot és fizikai alkalmazottat – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
-
-- a) ügyintéző, ezen belül:
-  - aa) ügyészségi-tanácsos I.,
-  - ab) ügyészségi-tanácsos II.,
-  - ac) ügyészségi-főtanácsos I.,
-  - ad) ügyészségi-főtanácsos II.,
-  - ae) ügyészségi-főtanácsos III.,
-- b) vezető.
-
-(2) A Legfőbb Ügyészségen foglalkoztatott tisztviselők, írnokok és fizikai alkalmazottak tekintetében az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
-
-- a) ügyintéző, ezen belül:
-  - aa) ügyészségi-tanácsos III.,
-  - ab) ügyészségi-tanácsos IV.,
-  - ac) ügyészségi-főtanácsos IV.,
-  - ad) ügyészségi-főtanácsos V.,
-- b) vezető.
-
-136. § (1) A tisztviselőt, írnokot és fizikai alkalmazottat a munkáltatói jogkör gyakorlója sorolja be – a (2) bekezdésben foglaltak kivételével – a 6. mellékletben foglalt Illetménytábla ügyészségi-tanácsos I., ügyészségi-tanácsos II., ügyészségi-főtanácsos I., ügyészségi-főtanácsos II. vagy ügyészségi-főtanácsos III. besorolási kategóriába.
-
-(2) A Legfőbb Ügyészségen foglalkoztatott tisztviselőt, írnokot és fizikai alkalmazottat a munkáltatói jogkör gyakorlója sorolja be a 6/A. mellékletben foglalt Illetménytábla ügyészségi-tanácsos III., ügyészségi-tanácsos IV., ügyészségi-főtanácsos IV. vagy ügyészségi-főtanácsos V. besorolási kategóriába.
-
-(3) A vezetőt a munkáltatói jogkör gyakorlója – a (4) bekezdésben foglaltak kivételével – a 6. mellékletben foglalt Illetménytábla osztályvezető vagy főosztályvezető besorolási kategóriába sorolja be. A magasabb vezetőt a főosztályvezető besorolási kategóriába kell sorolni.
-
-(4) A Legfőbb Ügyészségen foglalkoztatott vezetőt a munkáltatói jogkör gyakorlója a 6/A. mellékletben foglalt Illetménytábla osztályvezető vagy főosztályvezető besorolási kategóriába sorolja be. A Legfőbb Ügyészségen foglalkoztatott magasabb vezetőt a főosztályvezető besorolási kategóriába kell sorolni.
-
-(5) A jogviszonya alapján
-
-- a) az (1) bekezdés szerinti tisztviselő, írnok és fizikai alkalmazott az (1) bekezdés,
-- b) a (3) bekezdés szerinti vezető a (3) bekezdés
-
-szerinti besorolása alapján havonta a 6. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg – a szakmai képességek, a képzettség, a gyakorlat, valamint a teljesítmény alapján – az álláshelyhez tartozó besorolási kategória szerinti sávon belül.
-
-(6) A jogviszonya alapján
-
-- a) a (2) bekezdés szerinti, a Legfőbb Ügyészségen foglalkoztatott tisztviselő, írnok és fizikai alkalmazott a (2) bekezdés,
-- b) a (4) bekezdés szerinti, a Legfőbb Ügyészségen foglalkoztatott vezető a (4) bekezdés
-
-szerinti besorolása alapján havonta a 6/A. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg – a szakmai képességek, a képzettség, a gyakorlat, valamint a teljesítmény alapján – az álláshelyhez tartozó besorolási kategória szerinti sávon belül.
-
-(7) A besorolás részletes szabályait a legfőbb ügyész állapítja meg.
-
-137. § (1) A munkáltatói jogkör gyakorlója a tisztviselő, írnok, fizikai alkalmazott és vezető tárgyévet megelőző teljesítményértékelése vagy minősítése alapján
-
-- a) illetményét az adott besorolási kategóriához tartozó összeghatáron belül legfeljebb 20%-kal csökkentheti, illetve legfeljebb 30%-kal növelheti,
-- b) részére teljesítmény elismerést fizetését rendelheti el.
-
-(2) Az (1) bekezdés szerinti intézkedések elrendelése tekintetében a teljesítményértékelésen és minősítésén túl a munkáltatói jogkör gyakorlója az alábbi szempontokat veszi figyelembe:
-
-- a) a munkakörre előírt képesítés megszerzése során elért tanulmányi eredmény,
-- b) az ügyészi szervezetben szerzett szakmai tapasztalat,
-- c) az ügyészi szervnek nem minősülő, egyéb munkáltatónál szerzett, a munkaköre alapján ellátott feladatok szempontjából jelentős tapasztalat,
-- d) a tisztviselő, az írnok és a fizikai alkalmazott által szerzett végzettség, egyéb képesítés, nyelvtudás,
-- e) a munkavégzés színvonala,
-- f) a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés, és
-- g) a munkakör ellátásához kapcsolódó felelősség.
-
-138. § Azokat a munkaköröket, amelyek esetében a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés figyelembevétele nem mellőzhető, a legfőbb ügyész határozza meg.”
-
-116. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény a következő 139. §-sal egészül ki:
-
-„139. § (1) A szolgálati időt – a (3)–(4) bekezdésben foglalt kivétellel – a kinevezés (alkalmazás) napjától kell számítani azzal, hogy a kezdő évet (töredékévet) egész évként kell figyelembe venni.
-
-(2) Szolgálati időként kell figyelembe venni az igazságügyi szolgálati jogviszonyban hasonló jellegű munkakörben eltöltött időt.
-
-(3) Részben vagy egészben szolgálati időként lehet figyelembe venni a 154. § (1), (3) és (4) bekezdésében felsorolt jogviszonyokban és a szakirányú végzettségnek megfelelő tevékenységgel eltöltött időt.”
-
-117. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 147. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A tisztviselő és az írnok esetén a pótszabadság mértéke esetén 4 év szolgálati idő után 2 munkanap, 8 év szolgálati idő után 4 munkanap, 12 év szolgálati idő után 6 munkanap, 19 év szolgálati idő után 8 munkanap, 26 év szolgálati idő után 10 munkanap, 31 év szolgálati idő után 12 munkanap, 36 év szolgálati idő után 13 munkanap. Az ügyészségi megbízott esetén a pótszabadság mértéke 3 év szolgálati időig 1 munkanap, 4 év szolgálati idő után 3 munkanap, 8 év szolgálati idő után 5 munkanap, 12 év szolgálati idő után 7 munkanap, 19 év szolgálati idő után 9 munkanap, 26 év szolgálati idő után 11 munkanap, 31 év szolgálati idő után 13 munkanap. A tisztviselő, az írnok és az ügyészségi megbízott pótszabadságának mértéke a tizenhárom munkanapot nem haladhatja meg.”
-
-118. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 148. § c) pontja helyébe a következő rendelkezés lép:
-
-(A tisztviselő, az írnok és a fizikai alkalmazott fegyelmi felelősségre vonására e törvénynek az ügyész fegyelmi felelősségére vonatkozó szabályai alkalmazandók a következő eltérésekkel:)
-
-„c) kiemelt munkakörben foglalkoztatott tisztviselő esetében az egy, illetve két fizetési fokozattal visszavetés fegyelmi büntetés helyett a kiemelt munkakörré minősítés visszavonása fegyelmi büntetés szabható ki, tisztviselő, írnok, fizikai alkalmazott esetében az egy fizetési fokozattal visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetmény-csökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az alapilletmény öt százalékáig terjedhet;”
-
-119. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 165/X. §-sal egészül ki:
-
-„165/X. § (1) Az alügyész és az ügyészségi fogalmazó számára az e törvénynek Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény (a továbbiakban: Módtv3.) 123. § ával megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 123. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
-
-(2) Az alügyészt és az ügyészségi fogalmazót a Módtv3. 123. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3. 123. §-ával megállapított rendelkezései szerint besorolni és – az (1) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a Módtv3. 123. §-ának hatálybalépése előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A Módtv3. 123. § hatálybalépése előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
-
-(3) Az alügyészt és az ügyészségi fogalmazót az e törvénynek a Módtv3. 123. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 123. § hatálybalépését követő 60 napon belül kerül sor.
-
-(4) A tisztviselő, írnok, fizikai alkalmazott és vezető számára Módtv3. rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 119. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
-
-(5) A tisztviselőt, írnokot, fizikai alkalmazottat és vezetőt a Módtv3. 119. §-ának hatálybalépését követő 30 napon belül kell 2025. január 1-jétől kezdődően e törvénynek a Módtv3.-al megállapított rendelkezései szerint besorolni és – a (4) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani.
-
-(6) A tisztviselőt, írnokot, fizikai alkalmazottat és vezetőt az e törvénynek a Módtv3.-al megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 119. § -ának hatálybalépését követő 60 napon belül kerül sor.
-
-(7) Ha a tisztviselő és az írnok számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.”
+#### 119. §
 
 #### 120. §
 
-121. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény a következő 165/Y. §-sal egészül ki:
+#### 121. §
 
-„165/Y. § (1) A legfőbb ügyészségi ügyészeket és vezető ügyészeket az e törvénynek a Módtv3. 110. § és 114. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg, ez az illetmény nem lehet kevesebb mint az érintett illetményének a Módtv3. 110. § és 114. §-ának hatályba lépése előtti összege. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 110. § és 114. §-ának hatálybalépését követő 60. napig kerül sor.
+#### 122. §
 
-(2) Ha a legfőbb ügyészségi ügyész számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.”
-
-122. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
-
-- 1. 2. melléklete helyébe a 16. melléklet lép,
-- 2. 3. melléklete helyébe a 17. melléklet lép.
-
-123. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
-
-- 1. 4. melléklete helyébe a 18. melléklet lép,
-- 2. 5. melléklete helyébe a 19. melléklet lép,
-- 3. 6. melléklete helyébe a 20. melléklet lép,
-- 4. 6/A. melléklete helyébe a 21. melléklet lép.
+#### 123. §
 
 #### 124. §
 
-125. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
+#### 125. §
 
-- a) 59. § (2) bekezdésében, 60. § (1) bekezdésében, 61. § (2) bekezdésében az „Az ügyész” szövegrész helyébe az „A legfőbb ügyészségi ügyész kivételével az ügyész” szöveg,
-- b) 60. § (2) bekezdésében az „A” szövegrész helyébe az „A legfőbb ügyészségi ügyész kivételével az ügyész” szöveg,
-- c) 61. § (1) bekezdésében az „azt az ügyészt” szövegrész helyébe az „a legfőbb ügyészség ügyész kivételével azt az ügyészt” szöveg,
-- d) 63. § (1) bekezdésében, 64. § (1) bekezdésében az „Az ügyészt” szövegrész helyébe az „A legfőbb ügyészségi ügyész kivételével az ügyészt” szöveg,
-- e) 65. § (1) bekezdésében az „ügyészt” szövegrész helyébe az „ügyészt, a legfőbb ügyészségi ügyész kivételével” szöveg,
-- f) 66. § (1) bekezdésében, 67. § (1) és (3) bekezdésében, 68. § (5)–(7) bekezdésében az „az ügyész” szövegrész helyébe „a legfőbb ügyészségi ügyész kivételével az ügyész” szöveg,
-- g) 68. § (1) bekezdésében az „Az ügyész” szövegrész helyébe „A legfőbb ügyészségi ügyész kivételével az ügyész” szöveg,
-- h) 96. § (1) bekezdésében a „két fizetési fokozattal való visszavetés,” szövegrész helyébe a „két fizetési fokozattal való visszavetés – legfőbb ügyészségi ügyész esetében egyévi illetménycsökkentés, kétévi illetménycsökkentés –,” szöveg
+#### 126. §
 
-lép.
+#### 127. §
 
-126. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
-
-- a) 131/A. § (1), (2) és (7) bekezdésében a „tisztviselő és az írnok” szövegrész helyébe a „tisztviselő, az írnok és a fizikai alkalmazott” szöveg,
-- b) 159. § (1) bekezdésében a „165/W. §-a, valamint” szövegrész helyébe a „165/W. §-a, 165/Y. §-a, valamint” szöveg
-
-lép.
-
-127. § Hatályát veszti a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
-
-- a) 18. § (3) bekezdés a) pontja,
-- b) 61. § (3) bekezdése,
-- c) 64. § (1) bekezdésének d) pontja,
-- d) 64. § (2) bekezdésének d) pontja,
-- e) 64. § (3) bekezdésének d) pontja,
-- f) 64. § (4) bekezdésének d) pontja.
-
-128. § Hatályát veszti a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény
-
-- a) a 131/A. § (5) és (6) bekezdése,
-- b) 140., 141., 143. és 145. §-a,
-- c) 6/B. melléklete.
+#### 128. §
 
 #### 38. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
 
@@ -1121,198 +782,19 @@ alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2024. évi LXXIV. törvényhez
 
-„2. melléklet az 1997. évi LXVIII. törvényhez
-
-Az igazságügyi alkalmazottak személyi nyilvántartásának adatköre
-
-- 1. Nyilvántartási szám,
-- 1.1. név (születési név is),
-- 1.2. születési hely és idő,
-- 1.3. anyja neve,
-- 1.4. lakóhely,
-- 1.5. családi állapota,
-- 1.6. házastárs neve,
-- 1.7. gyermekei neve és születési ideje.
-- 2. A legmagasabb iskolai végzettség (több végzettség esetén valamennyi),
-- 2.1. szakképzettség,
-- 2.2. szaktanfolyam és szakvizsga megnevezése és időpontja,
-- 2.3. jelenleg folytatott tanulmányok megnevezése,
-- 2.4. idegennyelv-ismeret.
-- 3. Katonai szakképzettség száma, katonai rendfokozat.
-- 4. Az igazságügyi szervhez történő kinevezés időpontja
-- 4.1. a beszámított szolgálati idő kezdete,
-- 4.2. a korábbi tevékenységek és a vonatkozó munkahelyek megnevezése, a belépés és kilépés időpontjai, a beosztások (munkakörök) megjelölése, a beszámított jogviszonyok megszűnésének jogcímei,
-- 4.3. a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány száma és kelte.
-- 5. Az igazságügyi szervnél a kinevezés utáni beosztások,
-- 5.1. a szolgálati helyek (időtartam kezdete és vége),
-- 5.2. munkakörök (időtartam kezdete és vége),
-- 5.3. szakterületek (időtartam kezdete és vége),
-- 5.4. elektronikus aláírási jogosultság (időtartam kezdete és vége, típusa),
-- 5.5. FEOR-szám.
-- 6. A fizetési fokozat vagy álláshelyi besorolási kategória megjelölése, annak összege és a besorolás időpontja, a következő kötelező előresorolás időpontja,
-- 6.1. a beosztási pótlék megnevezése, százaléka és összege,
-- 6.2. az egyéb folyósított pótlékok megnevezése és összege,
-- 6.3. az összilletmény összege.
-- 7. A tárgyévben kapott külön juttatás, jubileumi jutalom, egyéb javadalmazások, kedvezmények és költségtérítések megnevezése, összegei és egyéb adatai.
-- 8. A más kereső foglalkozás megnevezése.
-- 9. A korábbi értékelés időpontjai és az összefoglaló vélemények szerinti minősítések, a következő értékelés időpontja.
-- 10. A kitüntetések és egyéb elismerések megnevezése és az adományozás időpontja.
-- 11. A hatályos fegyelmi büntetésre vonatkozó adatok.
-- 12. A munkából való távollétek jogcíme és időtartama.
-- 13. Az igazságügyi szolgálati viszony megszűnésének jogcíme és időpontja.
-
-Megjegyzés: A nyilvántartási szám az alkalmazott szolgálati helyére és beosztására utal, továbbá a szolgálati helyen belüli azonosításra szolgál.”
-
 ### 2. melléklet a 2024. évi LXXIV. törvényhez
-
-„3. melléklet az 1997. évi LXVIII. törvényhez
-
-Az I. fizetési osztály (bírósági titkár, igazságügyi szakértő) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-- 1. Bírósági titkár
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2 | 1. | 0 | 3 | 0,99 | 1,07 |
-| 3 | 2. | 4 | 7 | 1,05 | 1,23 |
-| 4 | 3. | 8 | 11 | 1,13 | 1,34 |
-| 5 | 4. | 12 | 18 | 1,19 | 1,4 |
-| 6 | 5. | 19 | 25 | 1,24 | 1,46 |
-| 7 | 6. | 26 | 35 | 1,29 | 1,52 |
-| 8 | 7. | 36 |  | 1,41 | 1,55 |
-
-- 2. Igazságügyi szakértő
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,99 | 1,07 |
-| 3. | 2. | 4 | 7 | 1,05 | 1,23 |
-| 4. | 3. | 8 | 11 | 1,13 | 1,34 |
-| 5. | 4. | 12 | 18 | 1,19 | 1,4 |
-| 6. | 5. | 19 | 25 | 1,24 | 1,46 |
-| 7. | 6. | 26 | 35 | 1,29 | 1,52 |
-| 8. | 7. | 36 |  | 1,41 | 1,55 |
 
 ### 3. melléklet a 2024. évi LXXIV. törvényhez
 
-„4. melléklet az 1997. évi LXVIII. törvényhez
-
-A II. fizetési osztály (bírósági fogalmazó, szakértőjelölt) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-- 1. Bírósági fogalmazó
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2 | 1. | 0 | 1 | 0,68 | 0,89 |
-| 3 | 2. | 2 | 3 | 0,72 | 0,94 |
-| 4 | 3. | 4 |  | 0,75 | 0,98 |
-
-- 2. Szakértőjelölt
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 1 | 0,68 | 0,89 |
-| 3. | 2. | 2 | 3 | 0,72 | 0,94 |
-| 4. | 3. | 4 |  | 0,75 | 0,98 |
-
 ### 4. melléklet a 2024. évi LXXIV. törvényhez
-
-„5. melléklet az 1997. évi LXVIII. törvényhez
-
-A III. fizetési osztály (szakirányú felsőfokú iskolai végzettségű tisztviselő, technikus) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2: | 1. | 0 | 3 | 0,57 | 0,85 |
-| 3. | 2. | 4 | 7 | 0,69 | 0,91 |
-| 4. | 3. | 8 | 11 | 0,74 | 1,03 |
-| 5. | 4. | 12 | 18 | 0,8 | 1,07 |
-| 6. | 5. | 19 | 25 | 0,88 | 1,2 |
-| 7. | 6. | 26 | 30 | 0,96 | 1,24 |
-| 8. | 7. | 31 | 35 | 1 | 1,28 |
-| 9. | 8. | 36 |  | 1,05 | 1,31 |
-
-”
 
 ### 5. melléklet a 2024. évi LXXIV. törvényhez
 
-„6. melléklet az 1997. évi LXVIII. törvényhez
-
-A IV. fizetési osztály (nem szakirányú felsőfokú iskolai végzettségű, valamint középfokú iskolai végzettségű tisztviselő, írnok és technikus) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,53 | 0,62 |
-| 3. | 2. | 4 | 7 | 0,57 | 0,69 |
-| 4. | 3. | 8 | 11 | 0,61 | 0,81 |
-| 5. | 4. | 12 | 18 | 0,68 | 0,88 |
-| 6. | 5. | 19 | 25 | 0,71 | 0,92 |
-| 7. | 6. | 26 | 30 | 0,74 | 0,95 |
-| 8. | 7. | 31 | 35 | 0,8 | 1 |
-| 9. | 8. | 36 |  | 0,87 | 1,08 |
-
-”
-
 ### 6. melléklet a 2024. évi LXXIV. törvényhez
-
-„7. melléklet az 1997. évi LXVIII. törvényhez
-
-A V. fizetési osztály (vezető) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese | 1,38 | 2 |
-| 3. | Főosztályvezető-helyettes, igazgató | 1,24 | 1,89 |
-| 4. | Osztályvezető, igazgatóhelyettes | 1,12 | 1,77 |
-| 5. | Osztályvezető-helyettes | 0,83 | 1,66 |
-| 6. | Csoportvezető | 0,79 | 1,6 |
-| 7. | Csoportvezető-helyettes, bírósági irodavezető | 0,68 | 1,54 |
-
-”
 
 ### 7. melléklet a 2024. évi LXXIV. törvényhez
 
-„8. melléklet az 1997. évi LXVIII. törvényhez
-
-Illetménytábla a járásbíróságon, a törvényszéken és az ítélőtáblán foglalkoztatott ügyintézők és vezetők részére
-
-|  | A) | B) | C) |
-| --- | --- | --- | --- |
-|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa |
-| 1 | igazságügyi-tanácsos I. | a mindenkori garantált bérminimum | 500 000 Ft |
-| 2 | igazságügyi-tanácsos II. | 300 000 Ft | 650 000 Ft |
-| 3 | igazságügyi-főtanácsos I. | 400 000 Ft | 750 000 Ft |
-| 4 | igazságügyi-főtanácsos II. | 450 000 Ft | 1 000 000 Ft |
-| 5 | igazságügyi-főtanácsos III. | 500 000 Ft | 1 450 000 Ft |
-| 6 | osztályvezető | 400 000 Ft | 1 450 000 Ft |
-| 7 | főosztályvezető | 550 000 Ft | 2 000 000 Ft |
-
-”
-
 ### 8. melléklet a 2024. évi LXXIV. törvényhez
-
-„9. melléklet az 1997. évi LXVIII. törvényhez
-
-Illetménytábla a Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintézők és vezetők részére
-
-|  | A) | B) | C) |
-| --- | --- | --- | --- |
-|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa |
-| 1 | igazságügyi-tanácsos III. | a mindenkori garantált bérminimum | 750 000 Ft |
-| 2 | igazságügyi-tanácsos IV. | 350 000 Ft | 1 000 000 Ft |
-| 3 | igazságügyi-főtanácsos IV. | 400 000 Ft | 1 250 000 Ft |
-| 4 | igazságügyi-főtanácsos V. | 600 000 Ft | 1 800 000 Ft |
-| 5 | osztályvezető | 700 000 Ft | 1 600 000 Ft |
-| 6 | főosztályvezető | 800 000 Ft | 2 000 000 Ft |
-
-”
 
 ### 9. melléklet a 2024. évi LXXIV. törvényhez
 
@@ -1328,188 +810,17 @@ Illetménytábla a Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyint
 
 ### 15. melléklet a 2024. évi LXXIV. törvényhez
 
-„3. melléklet a 2011. évi CLXII. törvényhez
-
-A vezetői munkakörök és az ahhoz tartozó pótlék a bírói illetményalap százalékában
-
-|  | A | B |
-| --- | --- | --- |
-| 1 | A vezetői munkakörök | Százalék |
-| 2 | Az ítélőtábla elnöke A Fővárosi Törvényszék elnöke | 150 |
-| 3 | Az ítélőtábla elnökhelyettese A törvényszék elnöke | 120 |
-| 4 | Az ítélőtábla kollégiumvezetője A Fővárosi Törvényszék elnökhelyettese | 100 |
-| 5 | Az ítélőtábla kollégiumvezető-helyettese | 80 |
-| 6 | A Fővárosi Törvényszék kollégiumvezetője A törvényszék elnökhelyettese | 70 |
-| 7 | A nagyobb járásbíróság elnöke | 60 |
-| 8 | Az ítélőtábla tanácselnöke | 50 |
-| 9 | A Fővárosi Törvényszék kollégiumvezető-helyettese A törvényszék kollégiumvezetője | 45 |
-| 10 | A törvényszék kollégiumvezető-helyettese A törvényszék csoportvezetője A nagyobb járásbíróság elnökhelyettese A kisebb járásbíróság elnöke | 40 |
-| 11 | A törvényszék csoportvezető-helyettese A törvényszék tanácselnöke A nagyobb járásbíróság csoportvezetője | 30 |
-| 12 | A nagyobb járásbíróság csoportvezető-helyettese A kisebb járásbíróság elnökhelyettese | 25 |
-
-”
-
 ### 16. melléklet a 2024. évi LXXIV. törvényhez
-
-„2. melléklet a 2011. évi CLXIV. törvényhez
-
-Az ügyész vezetői pótléka
-
-A vezetői pótlék az illetményalap százalékábanA vezetői munkakörök %
-
-|  | A | B |
-| --- | --- | --- |
-| 1 | A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
-| 2 | A fellebbviteli főügyész A főügyész | 120 |
-| 3 | A fellebbviteli főügyészhelyettes A fővárosi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 100 |
-| 4 | A fellebbviteli főügyészségi osztályvezető ügyész | 80 |
-| 5 | A főügyészhelyettes | 70 |
-| 6 | A Fővárosi Főügyészség osztályvezető ügyésze Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt és nagyobb járási ügyészségi vezető ügyész | 60 |
-| 7 | A főügyészségi osztályvezető ügyész | 45 |
-| 8 | A főügyészségi csoportvezető ügyész A kiemelt és nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 40 |
-| 9 | A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész | 30 |
-| 10 | A kisebb járási ügyészségi vezetőhelyettes ügyész | 25 |
-
-”
 
 ### 17. melléklet a 2024. évi LXXIV. törvényhez
 
-„3. melléklet a 2011. évi CLXIV. törvényhez
-
-A személyi nyilvántartás adatköre
-
-- 1. Az ügyészségi alkalmazott
-- 1.1. neve, születési neve,
-- 1.2. igazolvány képe,
-- 1.3. ügyviteli nyilvántartási sorszáma,
-- 1.4. állampolgársága,
-- 1.5. születési helye, ideje,
-- 1.6. anyja neve,
-- 1.7. lakóhelye, tartózkodási helye, telefonszáma, e-mail címe,
-- 1.8. családi állapota,
-- 1.9. házastársa, bejegyzett élettársa, élettársa neve, foglalkozása, munkahelye,
-- 1.10. gyermekeinek neve, születési ideje;
-- 2. Az ügyészségi alkalmazott
-- 2.1. legmagasabb iskolai végzettsége, az oklevél, diploma minősítése, a megszerzés éve, az iskola, a kar, a tagozat, a szak, a képzés szintjének megnevezése,
-- 2.2. a tanulmányok folytatására kötött szerződés ténye, a képző intézmény megnevezése, a szerződéskötés dátuma, a támogatás típusa, a tanulmányok tényleges befejezésének éve,
-- 2.3. szakképzettsége, a megszerzés éve, jogi szakvizsga megszerzésének éve, eredménye,
-- 2.4. posztgraduális képzés keretében szerzett szakképesítése, a képző intézmény megnevezése, a megszerzés éve,
-- 2.5. szakmai tanfolyami végzettsége, a képző intézmény, a tanfolyam, a képzés szintjének megnevezése, a megszerzés éve, eredménye,
-- 2.6. belső tanfolyamon való részvétel éve, a tanfolyam megnevezése,
-- 2.7. jelenlegi iskolai tanulmánya, a képző intézmény, a kar, a tagozat, a szak, a képzés szintjének megnevezése, a kezdés éve,
-- 2.8. képzési kötelezettség alá eső képzés adatai,
-- 2.9. tudományos fokozata,
-- 2.10. idegennyelv-ismerete;
-- 3. Az ügyészségi alkalmazott
-- 3.1. ügyészségi szolgálati viszonyának kezdete,
-- 3.2. a besorolásnál beszámított szolgálati idő kezdete,
-- 3.3. a szolgálati időbe, illetve az ügyészségi szolgálati viszonyként beszámított korábbi munka- (szolgálati) viszonyának adatai:
-- 3.3.1. munkahely (munkakör) megnevezése,
-- 3.3.2. belépés dátuma,
-- 3.3.3. kilépés dátuma,
-- 3.3.4. a jogviszony megszűnésének módja;
-- 4. Az ügyészségi alkalmazott
-- 4.1. szolgálati helye, beosztása, a kinevezés (megbízás) időpontja, szakterülete, a kinevezés (megbízás) egyéb adatai,
-- 4.2. besorolása vagy álláshelyi besorolási kategóriája, kötelező előbbre sorolásának időpontja, alapilletménye, illetménypótlékai, illetménye, jutalma,
-- 4.3. tartós (harminc napot meghaladó időtartamú, rendes szabadságon kívüli) távollétének megnevezése, kezdete, befejezése,
-- 4.4. munkavégzésre irányuló egyéb jogviszonya, vizsgabizottsági tagsága (a tagság kezdete, vége, a vizsga tárgya), oktatói címe, egyéb oktatási tevékenységének megnevezése;
-- 5. Az ügyészségi alkalmazott
-- 5.1. kitüntetése, elismerése, tudományos pályázati díja,
-- 5.2. hatályos fegyelmi büntetése,
-- 5.3. az ügyészségi szolgálati viszonyból származó kártérítési kötelezettsége,
-- 5.4. minősítésének időpontja, eredménye,
-- 5.5. külföldi ösztöndíja,
-- 5.6. külföldi konferencián való részvétel éve, a konferencia szervezője, témája,
-- 5.7. lakásszerzésének munkáltatói támogatása,
-- 5.8. letelepedésének támogatása;
-- 6. Az ügyészségi alkalmazott ügyészségi szolgálati viszonya megszűnésének ideje, módja, a végkielégítés adatai, új munkahelye;
-- 7. Az ügyészségi alkalmazott
-- 7.1. fegyverviselési engedélyének kelte, száma,
-- 7.2. szolgálati, önvédelmi, vadász lőfegyverének gyártási száma, típusa;
-- 8. Az állami készfizető kezességvállalással összefüggő adatok
-- 8.1. a hitelszerződést kötő pénzintézet neve, címe,
-- 8.2. az állami kezességvállalással biztosított hitel nagysága,
-- 8.3. a hitel lejáratának időpontja;
-- 9. Az ügyészségi alkalmazott
-- 9.1. nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
-- 9.2. utolsó nemzetbiztonsági ellenőrzésének időpontja;
-- 10. Az ügyészségi alkalmazott
-- 10.1. vagyonnyilatkozat-tételi kötelezettsége, esedékessége,
-- 10.2. utolsó vagyonnyilatkozat tételének időpontja;
-- 11. Az ügyészségi alkalmazott
-- 11.1. időszakos munkaköri alkalmassági vizsgálatának esedékessége,
-- 11.2. utolsó munkaköri alkalmassági vizsgálatának időpontja és eredménye.”
-
 ### 18. melléklet a 2024. évi LXXIV. törvényhez
-
-„4. melléklet a 2011. évi CLXIV. törvényhez
-
-Az I. fizetési osztály (alügyész) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,99 | 1,07 |
-| 3. | 2. | 4 | 7 | 1,05 | 1,23 |
-| 4. | 3. | 8 | 11 | 1,13 | 1,34 |
-| 5. | 4. | 12 | 18 | 1,19 | 1,4 |
-| 6. | 5. | 19 | 25 | 1,24 | 1,46 |
-| 7. | 6. | 26 | 35 | 1,29 | 1,52 |
-| 8. | 7. | 36 |  | 1,41 | 1,55 |
-
-”
 
 ### 19. melléklet a 2024. évi LXXIV. törvényhez
 
-„5. melléklet az 2011. évi CLXIV. törvényhez
-
-A II. fizetési osztály (ügyészségi fogalmazó) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-|  | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 1 | 0,68 | 0,89 |
-| 3. | 2. | 2 | 3 | 0,72 | 0,94 |
-| 4. | 3. | 4 |  | 0,75 | 0,98 |
-
-”
-
 ### 20. melléklet a 2024. évi LXXIV. törvényhez
 
-„6. melléklet az 2011. évi CLXIV. törvényhez
-
-Illetménytábla az alsóbb szintű ügyészségeken foglalkoztatott tisztviselők, írnokok, fizikai alkalmazottak és vezetők részére
-
-|  | A) | B) | C) |
-| --- | --- | --- | --- |
-|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa |
-| 1 | ügyészségi-tanácsos I. | a mindenkori garantált bérminimum | 500 000 Ft |
-| 2 | ügyészségi-tanácsos II. | 300 000 Ft | 650 000 Ft |
-| 3 | ügyészségi-főtanácsos I. | 400 000 Ft | 750 000 Ft |
-| 4 | ügyészségi-főtanácsos II. | 450 000 Ft | 1 000 000 Ft |
-| 5 | ügyészségi-főtanácsos III. | 500 000 Ft | 1 450 000 Ft |
-| 6 | osztályvezető | 400 000 Ft | 1 450 000 Ft |
-| 7 | főosztályvezető | 550 000 Ft | 2 000 000 Ft |
-
-”
-
 ### 21. melléklet a 2024. évi LXXIV. törvényhez
-
-„6/A. melléklet az 2011. évi CLXIV. törvényhez
-
-Illetménytábla a Legfőbb Ügyészségen foglalkoztatott tisztviselők, írnokok, fizikai alkalmazottak és vezetők részére
-
-|  | A) | B) | C) |
-| --- | --- | --- | --- |
-|  | besorolási kategória megnevezése | illetmény alsó határa | illetmény felső határa |
-| 1 | ügyészségi-tanácsos III. | a mindenkori garantált bérminimum | 750 000 Ft |
-| 2 | ügyészségi-tanácsos IV. | 350 000 Ft | 1 000 000 Ft |
-| 3 | ügyészségi-főtanácsos IV. | 400 000 Ft | 1 250 000 Ft |
-| 4 | ügyészségi-főtanácsos V. | 600 000 Ft | 1 800 000 Ft |
-| 5 | osztályvezető | 700 000 Ft | 1 600 000 Ft |
-| 6 | főosztályvezető | 800 000 Ft | 2 000 000 Ft |
-
-”
 
 ### 22. melléklet a 2024. évi LXXIV. törvényhez
 
