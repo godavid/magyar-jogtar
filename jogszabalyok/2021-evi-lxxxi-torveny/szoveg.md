@@ -109,6 +109,29 @@ biztosítja.
 
 kell nyilvántartásba venni. A művelés alól kivett terület elnevezése megváltozásának átvezetésére irányuló eljárást az MNV Zrt. kérelmére az ingatlanügyi hatóságként eljáró Budapest Főváros Kormányhivatala folytatja le. A művelés alól kivett terület elnevezése megváltozásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület elnevezése megváltozását, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.
 
+6/C. § (1) Az Országgyűlés úgy rendelkezik, hogy a 6/A. § (1) bekezdése szerinti közfeladatok ellátását a Tudás-Tér Alapítványra (e § alkalmazásában a továbbiakban: Alapítvány) ruházza át.
+
+(2) Az Nvtv. 14./A. § (1) bekezdése és (2) bekezdés d) pontja, valamint az 5. § (1) bekezdés a) pontja alapján – a 6/A. § (1) bekezdése és a 2/A. § (2) bekezdése szerinti, illetve törvényben meghatározott egyéb közfeladatok ellátása, valamint azok részeként az ingatlanok üzemeltetése, kezelése, működtetése, továbbá az ingatlanok fenntartása, továbbfejlesztése és az azokkal kapcsolatos beruházások elvégzése érdekében, az (1) bekezdés szerinti közfeladat-ellátás átadásával együtt – a 2. melléklet szerinti ingatlanokat az állam tulajdonszerzését követően, valamint a 4. melléklet szerinti, állami tulajdonú ingatlanokat – a 4. melléklet 8. sora szerinti ingatlan esetén a (3) bekezdés szerinti eljárást követően – vagyoni juttatásként ingyenesen, nyilvántartási értéken történő átvezetéssel, per-, teher- és igénymentesen az Alapítvány tulajdonába kell adni.
+
+(3) Az állami tulajdonban álló, 4. melléklet 8. sora szerinti ingatlant „kivett beépítetlen terület” megnevezésű ingatlanként kell nyilvántartásba venni. A művelés alól kivett terület elnevezése megváltozásának átvezetésére irányuló eljárást az MNV Zrt. kérelmére az ingatlanügyi hatóságként eljáró Budapest Főváros Kormányhivatala folytatja le. A művelés alól kivett terület elnevezése megváltozásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület elnevezése megváltozását, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.
+
+(4) Az Országgyűlés úgy rendelkezik, hogy a 6/B. § (1) bekezdése szerinti közfeladatok ellátását az Alapítványra ruházza át.
+
+(5) Az Nvtv. 14./A. § (1) bekezdése és (2) bekezdés d) pontja, valamint az 5. § (1) bekezdés a) pontja alapján – a 6/B. § (1) bekezdése szerinti közfeladatok ellátása, valamint annak részeként az ingatlanok üzemeltetése, kezelése, működtetése, továbbá az ingatlanok fenntartása, továbbfejlesztése és az azokkal kapcsolatos beruházások elvégzése érdekében, a (4) bekezdés szerinti közfeladat-ellátás átadásával együtt – a 3. melléklet szerinti ingatlanokat az állam tulajdonszerzését, valamint a 6/B. § (7) bekezdése szerinti eljárást követően vagyoni juttatásként ingyenesen, nyilvántartási értéken történő átvezetéssel, per-, teher- és igénymentesen az Alapítvány tulajdonába kell adni.
+
+(6) Az Alapítvány a Budapest Diákváros beruházás megvalósítása érdekében a 6/B. § (1) bekezdése szerinti, (4) bekezdés alapján átvett közfeladatokat az (5) bekezdés szerinti ingatlanok helyett jogosult más, a (2) bekezdés vagy az 1. melléklet szerinti ingatlanokon is ellátni azzal, hogy ez esetben az érintett, (5) bekezdés szerinti ingatlanon 6/A. § (1) bekezdése szerinti, (1) bekezdés alapján átvett közfeladatokat köteles ellátni. Az Alapítvány ez idő alatt is köteles a 6/B. § (1) bekezdése szerinti, (4) bekezdés alapján átvett közfeladatok folyamatos, azonos színvonalon történő ellátására. Az Alapítvány köteles továbbá a Budapest Diákváros beruházás megvalósítását követően, de legkésőbb 2050. január 1. napjáig a 6/B. § (1) bekezdése szerinti közfeladatok ellátását ténylegesen szolgáló ingatlanokat – a 6/B. § (1) bekezdése szerinti közfeladatok ellátásával együtt – a magyar állam részére ingyenesen, nyilvántartási értéken átadni, amellyel az Alapítvány (4) bekezdés szerinti közfeladat-ellátása megszűnik.
+
+(7) Az Alapítvány a (2) és az (5) bekezdés szerinti ingatlanokkal (e § alkalmazásában a továbbiakban együtt: Ingatlanok) kapcsolatos tevékenysége – ideértve az Ingatlanok birtoklását, használatát, hasznosítását is – közfeladat-ellátásnak minősül, és az ebből származó bevételeit az (1) és (4) bekezdés szerinti, valamint törvényben meghatározott egyéb közfeladatai ellátására fordíthatja.
+
+(8) Az Alapítvány a tulajdonába adott Ingatlanokat a tulajdon-átruházási szerződésben meghatározott, az (1) és a (4) bekezdés szerinti, illetve törvényben meghatározott egyéb közfeladatai ellátására, valamint közérdekű céljai megvalósítására használhatja fel azzal, hogy az Alapítvány közérdekű céljainak megvalósítása nem járhat közfeladatai ellátásának sérelmével. Ha az Alapítvány a tulajdonába adott Ingatlanokat értékesíti, az ingatlan-átruházásból származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány az (1) és a (4) bekezdés szerinti, illetve törvényben meghatározott egyéb közfeladatai ellátására, illetve az azokat szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+(9) A tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést
+
+- a) a 2. és a 3. melléklet szerinti, valamint a 4. melléklet 7. és 8. sora szerinti ingatlanok tekintetében az MNV Zrt.,
+- b) a 4. melléklet 2–6. sora szerinti ingatlanok tekintetében a felsőoktatásért felelős miniszter által vezetett minisztérium
+
+köti meg az Alapítvánnyal.
+
 7. § A Kormány legkésőbb 2024. június 30-áig beszámol az Országgyűlésnek az Intézmény létesítésével kapcsolatos beruházás előkészítéséről és a megvalósítás tervezett költségeiről.
 
 7/A. § Ha az Alapítvány a 2/A. § (1) bekezdése alapján a nevének megváltoztatásáról dönt, akkor a módosított névvel működő Alapítvány jár el az Alapítvány céljainak teljesítéséért, illetve látja el az e törvényben vagy más törvényben az Alapítvány számára meghatározott közfeladatokat.
@@ -193,3 +216,18 @@ kell nyilvántartásba venni. A művelés alól kivett terület elnevezése megv
 | 25 | Budapest | 38086/236 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közkert |
 | 26 | Budapest | 38086/12 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közterület |
 | 27 | Budapest | 38045/3 | Budapest Főváros IX. kerület Ferencváros Önkormányzata | 1/1 | Kivett közút |
+
+### 4. melléklet a 2021. évi LXXXI. törvényhez
+
+#### Az Alapítvány részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONOS | TULAJDONI HÁNYAD | MEGNEVEZÉS |
+| 2 | Budapest | 38047 | Magyar Állam | 1/1 | Kivett beépítetlen terület |
+| 3 | Budapest | 38087 | Magyar Állam | 1/1 | Kivett beépítetlen terület |
+| 4 | Budapest | 38080/2 | Magyar Állam | 1/1 | Kivett beépítetlen terület |
+| 5 | Budapest | 38086/80 | Magyar Állam | 1/1 | Kivett építési terület |
+| 6 | Budapest | 38089 | Magyar Állam | 1/1 | Kivett beépítetlen terület |
+| 7 | Budapest | 38086/258 | Magyar Állam | 1/1 | Kivett beépítetlen terület |
+| 8 | Budapest | 38086/22 | Magyar Állam | 1/1 | Kivett közforgalmú vasút |
