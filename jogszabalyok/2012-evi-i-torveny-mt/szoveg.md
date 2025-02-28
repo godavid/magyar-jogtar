@@ -1791,7 +1791,7 @@ havi átalányt állapíthatnak meg.
 - e) az 54. § (3) bekezdésben, az 55. § (5) bekezdésében meghatározott esetben, és
 - f) ha munkaviszonyra vonatkozó szabály rendelkezésre állás vagy munkavégzés nélkül munkabér fizetését annak mértéke meghatározása nélkül írja elő.
 
-(2) Az (1) bekezdés d) pontjától eltérően, ha a munkavállaló a munkaszüneti napon keresőképtelen, részére a távolléti díj hetven százaléka jár. Nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül, vagy egyébként munkaköre ellátására egészségi okból alkalmatlan.
+(2) Az (1) bekezdés d) pontjától eltérően, ha a munkavállaló a munkaszüneti napon keresőképtelen, részére a távolléti díj hetven százaléka jár. Nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül.
 
 (3) A munkavállaló a betegszabadság tartamára a távolléti díj hetven százalékára jogosult.
 

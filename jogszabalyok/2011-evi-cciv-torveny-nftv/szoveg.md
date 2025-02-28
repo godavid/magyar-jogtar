@@ -401,7 +401,7 @@ folytathat tevékenységet.
 
 (2) Doktori képzésre az a felsőoktatási intézmény szerezhet jogosultságot, amelyben mesterképzés folyik az adott tudományterületen.
 
-(3) A felsőoktatási intézmény doktori képzésre és doktori fokozat odaítélésére azon a tudományterületen, a tudományterületen belül tudományágban vagy művészeti ágban szerezhet jogosultságot, amelyre a működési engedélye kiterjed. A művészetek területén a tudományos fokozatszerzésre felkészítő PhD-képzésre, a „Doctor of Business Administration” a „Doctor of Liberal Arts” művészeti fokozatszerzésre felkészítő DLA-képzésre (a továbbiakban: doktori képzés) és fokozatadásra lehet jogosultságot szerezni.
+(3) A felsőoktatási intézmény doktori képzésre és doktori fokozat odaítélésére azon a tudományterületen, azon belül tudományágban vagy művészeti ágban szerezhet jogosultságot, amelyre a nyilvántartásba vételről szóló határozata kiterjed. A művészetek területén a tudományos fokozatszerzésre felkészítő PhD-képzésre, illetve a „Doctor of Liberal Arts” művészeti fokozatszerzésre felkészítő DLA-képzésre és -fokozatadásra lehet jogosultságot szerezni. Az üzleti vezetői területen „Doctor of Business Administration” doktori fokozatszerzésre felkészítő DBA-képzésre és -fokozatadásra lehet jogosultságot szerezni.
 
 (4) A doktori képzésben szerezhető oklevél által tanúsított tudományos fokozat a „Doctor of Philosophy” (rövidítve: PhD), a művészeti képzésben a „Doctor of Liberal Arts” (rövidítve: DLA), az üzleti doktori képzésben a „Doctor of Business Administration” (rövidítve: DBA). Az oklevelet a rektor és a doktori tanács elnöke írja alá.
 
@@ -1671,17 +1671,19 @@ a felsőoktatással összefüggő tevékenységét,
 
 kapcsolatos ügyekben.
 
-(4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban − ide nem értve a 15. § (4a) bekezdésének megfelelő felsőoktatási intézmény által a 15. § (1a) bekezdés szerint létesített, valamint azon a képzési területen indítandó mesterképzését, amelyen alapképzés és mesterképzés vagy osztatlan képzés folytatására korábban már jogosultságot szerzett − az oktatási hivatal beszerzi a MAB szakvéleményét. Az oktatási hivatal mesterképzés indítása esetén a (3) bekezdés c) pontja szerinti, valamint a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményéhez kötve van.
+(4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban − ide nem értve a 15. § (4a) bekezdésének megfelelő felsőoktatási intézmény által a 15. § (1a) bekezdés szerint létesített, valamint azon a képzési területen indítandó mesterképzését, amelyen alapképzés és mesterképzés vagy osztatlan képzés folytatására korábban már jogosultságot szerzett – a felsőoktatási intézmény beszerzi a MAB szakvéleményét. Ha a szakvéleményben foglaltakkal a felsőoktatási intézmény nem ért egyet, kérheti a MAB-tól, hogy vizsgálja felül véleményét. Ha a felsőoktatási intézmény az újabb szakértői véleménnyel sem ért egyet, az oktatási hivatalnál eljárást kezdeményezhet, amely a kérelemről első fokon dönt. Az oktatási hivatal mesterképzés indítása esetén a (3) bekezdés c) pontja szerinti, valamint a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakvéleményéhez kötve van.
 
 (4a) A MAB a szakértői véleményét a (3) bekezdés a), c) és e) pontjában, valamint a 8. § (2) bekezdésében szabályozott eljárásokban a felsőoktatási minőségbiztosítás európai sztenderdjeinek (Standards and Guidelines in the European Higher Education Area, a továbbiakban: ESG) figyelembe vételével alakítja ki. Az oktatási hivatal határozatában ismertetni kell a MAB ESG-nek való megfelelésről hozott szakértői megállapítását.
 
-(4b) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban a felsőoktatási intézmény kezdeményezheti, hogy a (4) bekezdésben megjelölt szakértő helyett a felsőoktatási intézmény által javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő és az Európai Felsőoktatási Minőségbiztosítási Regiszterbe (European Quality Assurance Register for Higher Education) bejegyzett szervezet felkérésére kerüljön sor. Ebben az esetben az oktatási hivatal a MAB szakvéleménye helyett – a (4) bekezdésben meghatározott feltételek mellett – a felkért szervezet szakértői véleményét szerzi be azzal, hogy az azonos tárgy vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
+(4b) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban a felsőoktatási intézmény a (4) bekezdésben megjelölt szakértő helyett felkérheti az Európai Felsőoktatási Minőségbiztosítási Regiszterbe (European Quality Assurance Register for Higher Education) bejegyzett szervezetet. Azonos tárgy vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
 
 (4c) A 15. § (4a) bekezdésének megfelelő felsőoktatási intézmény a képzés nyilvántartásba vételét követő 3 éven belül köteles beszerezni a MAB vagy a (4b) bekezdés szerinti szervezet szakvéleményét, ha arra a képzés indítását megelőzően nem került sor. Ezen időpontig köteles a képzésre jelentkezők, illetve a képzésre felvett hallgatók figyelmét felhívni arra, hogy az adott képzés még nem rendelkezik külső minőségbiztosító értékelésével.
 
 (4d) A 15. § (4a) bekezdésének megfelelő felsőoktatási intézmény a 15. § (1a) bekezdés szerint létesített mesterképzés létesítését a képzési és kimeneti követelménynek és a mintatantervnek az oktatási hivatalhoz történő megküldésével kezdeményezi.
 
-(5) A (3) bekezdés c) pontjában meghatározott eljárásban – Magyarországon folytatott alap- vagy mesterképzésként – csak a 14. § (2a) bekezdés a), b) és d) pontja szerinti helyszínen folytatott képzés indítása engedélyezhető.
+(4e) Ha a MAB a (4) bekezdés szerinti szakvélemény elkészítésére a 71/B. (2) bekezdésben meghatározott határidőt túllépi, a szakvéleményért járó díjat az eljárás megindítását kérelmező felsőoktatási intézmény részére vissza kell téríteni.
+
+(5) A (3) bekezdés c) pontjában meghatározott eljárásban – Magyarországon folytatott alap- vagy mesterképzésként – csak a 14. § (2a) bekezdés a), b) és d) pontja szerinti helyszínen folytatott képzés indítása vehető nyilvántartásba.
 
 (6) Az oktatási hivatal, illetve a miniszter döntéseinek meghozatalához független szakértői véleményt is beszerezhet, illetve nemzetközi összehasonlító tanulmányokat készíttethet.
 
@@ -1731,6 +1733,8 @@ kapcsolatos ügyekben.
 (11) A 65. §-ban, a 66. §-ban és a 68. §-ban meghatározott eljárásokban nem alkalmazható közigazgatási szankció, ha a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított három év – de legkésőbb az elkövetéstől számított öt év – eltelt.
 
 69. § (1) A felsőoktatási intézmény rektora, továbbá a 64. § (7) bekezdése szerinti esetben a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, valamint a Magyar Olimpiai Bizottság az egyetemi tanári munkaköri cím adományozásával kapcsolatos javaslatának elkészítése előtt beszerzi a MAB szakértői véleményét.
+
+(1a) A MAB egyetemi tanári pályázatok értékelése céljából kidolgozott szempontrendszerét a miniszter hagyja jóvá. A MAB a szempontrendszert honlapján közzéteszi.
 
 (2) A felsőoktatási intézmény rektora a szakértői véleményben foglaltak mérlegelésével készíti el javaslatát az egyetemi tanári kinevezésre, melyet a szakértői véleménnyel együtt megküld a felsőoktatási intézmény fenntartójának. A nem állami felsőoktatási intézmény fenntartója a rektor javaslatát a MAB szakértői véleményével és a saját álláspontjának ismertetésével együtt megküldi a miniszternek.
 
@@ -1785,13 +1789,13 @@ kapcsolatos ügyekben.
 
 (7) A miniszter által az (5) bekezdés alapján indított közigazgatási perre a köztestületi felügyeleti per szabályait kell megfelelően alkalmazni. A perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
-71/B. § (1) A MAB az oktatási hivatal felkérésére szakvéleményt készít
+71/B. § (1) A MAB szakvéleményt készít
 
 - a) a felsőoktatási intézmény működésének engedélyezésére,
 - b) a felsőoktatási intézmény működési engedélyének felülvizsgálatára,
-- c) a felsőoktatási intézmény felsőoktatási szakképzés, alap- és mesterképzés indítására,
-- d) a doktori iskola létesítésére, doktori képzésének indítására és doktori iskola új tudományágban történő képzésindítására,
-- e) a külföldi felsőoktatási intézmény magyarországi működésének engedélyezésére
+- c) a felsőoktatási intézmény vagy az oktatási hivatal felkérésére a felsőoktatási intézmény felsőoktatási szakképzés, alap- és mesterképzés indítására,
+- d) a felsőoktatási intézmény vagy az oktatási hivatal felkérésére a doktori iskola létesítésére, doktori képzésének indítására és doktori iskola új tudományágban történő képzésindítására,
+- e) a külföldi felsőoktatási intézmény vagy az oktatási hivatal felkérésére a külföldi felsőoktatási intézmény magyarországi működésének engedélyezésére
 
 irányuló eljárásban.
 
@@ -3539,7 +3543,7 @@ köt azzal, hogy az a) és b) pontban szereplő megállapodások megkötésekor 
 - 2. A működési engedély az 1. pontban foglalt keretek között tartalmazza a felsőoktatási intézmény
   - a) által meghirdethető képzések képzési területét, illetve tudományterületét, képzési szintjét,
   - b) – figyelemmel a hallgatók fogadásához és az oktatási tevékenység folytatásához rendelkezésre álló személyi feltételekre, helyiségekre és eszközökre – valamennyi évfolyamra számítva, teljes kihasználtsággal működve mekkora maximális hallgatói létszámot fogadhat,
-  - c) által meghirdethető képzésekre kapott indítási engedélyt,
+  - c)
   - d) által meghirdethető doktori képzést, annak tudományterületét, tudományágát,
   - e) által fenntartott köznevelési intézmény gyakorlóintézményi besorolását,
   - f) ESG-nek való megfeleléséről hozott szakértői megállapítást.
