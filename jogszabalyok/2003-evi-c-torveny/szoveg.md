@@ -1828,6 +1828,10 @@ nem kell alkalmazni.
 
 (3) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles a (2) bekezdésben meghatározott műszaki rendszeren ingyenesen biztosítani a lakosság riasztását és veszélyhelyzeti tájékoztatását.
 
+### Együttműködési megállapodás megkötése
+
+92/D. § A törvényben meghatározott feladatok hatékony teljesítése érdekében az elektronikus hírközlési szolgáltatók egymás között, az ügyészséggel, illetve a nyomozó hatósággal együttműködési megállapodást köthetnek.
+
 ### Űrszegmens használat
 
 93. § Az űrszegmens-szolgáltató jogosult annak ellenőrzésére, hogy a szolgáltató űrszegmensével kapcsolatban felhasznált műholdas földi állomás megfelel-e az adott szolgáltató által használt űrszegmens-kapacitásra vonatkozóan közzétett igénybevételi feltételeknek.
@@ -2562,7 +2566,7 @@ szolgáltatás tartalma
 
 (2c) A (2b) bekezdésnek nem megfelelő átruházás esete a szolgáltató megtévesztésével kötött szerződésnek minősül.
 
-(2d) A szolgáltató a Kormány rendeletében meghatározott – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által irányított – rendvédelmi szervnek jelzést küld, ha
+(2d) A szolgáltató a Kormány rendeletében meghatározott – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által irányított – polgári nemzetbiztonsági szolgálatnak jelzést küld, ha
 
 - a) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződéssel kapcsolatban rögzített ügyfélazonosító adatok valódiságával vagy megfelelőségével kapcsolatban kétség merül fel, illetve
 - b) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés igénybevételével összefüggésben – különösen az előfizető körülményei, az előfizetői szerződések száma vagy az előfizető által igénybe vett előfizetői szolgáltatások jellege alapján – bűncselekmény gyanúja merül fel.

@@ -249,7 +249,7 @@ eltelt.
 
 (2) Egységes iratkezelési szabályzatot ad ki:
 
-- a) a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője a területi államigazgatási szervek, a honvédelmi szervezetek és a rendvédelmi szervek – kivéve a nemzetbiztonsági szolgálatok – részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, a Magyar Nemzeti Levéltárral és az illetékes szaklevéltárral egyetértésben,
+- a) a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője a területi államigazgatási szervek, a honvédelmi szervezetek és a rendvédelmi szervek részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, a Magyar Nemzeti Levéltárral és az illetékes szaklevéltárral egyetértésben,
 - b) az Országos Bírósági Hivatal elnöke a bíróságok, a legfőbb ügyész az ügyészségek részére a Magyar Nemzeti Levéltárral egyetértésben,
 - c) az igazságügyért felelős miniszter a közjegyzők, valamint azok kamarája, a bírósági végrehajtók, továbbá az igazságügyi szakértői tevékenység végzésére feljogosított természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek tekintetében a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben.
 

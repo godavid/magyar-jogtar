@@ -4,22 +4,20 @@ a lőfegyverekről és lőszerekről
 
 ### ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1)
+1. § (1) Törvény eltérő rendelkezésének hiányában e törvény hatálya nem terjed ki
 
-(2) Törvény eltérő rendelkezésének hiányában e törvény
+- a) a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat,
+- b) a Magyarország területén állomásozó fegyveres szervek,
+- c) a Nemzeti Adó- és Vámhivatal,
+- d) a rendvédelmi szervek,
+- e) a fegyveres biztonsági őrség,
+- f) az Országgyűlési Őrség,
+- g) a rendészeti, illetve katonai képzést folytató felsőoktatási intézmény,
+- h) a polgári nemzetbiztonsági szolgálatok
 
-- a) hatálya nem terjed ki
-  - aa) a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat,
-  - ab) a Magyarország területén állomásozó fegyveres szervek,
-  - ac) a Nemzeti Adó- és Vámhivatal,
-  - ad) a rendvédelmi szervek,
-  - ae) a fegyveres biztonsági őrség
-  - af) az Országgyűlési Őrség,
-  - ag) a rendészeti, illetve katonai képzést folytató felsőoktatási intézmény
+által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és az általuk üzemeltetett lőterekre.
 
-által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és az általuk üzemeltetett lőterekre,
-
-- b) rendelkezései nem alkalmazandók a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló törvényben haditechnikai termékként meghatározott eszközök tekintetében a hadiipari tevékenység végzéséhez szükséges engedély alapján végzett tevékenységek hatósági engedélyezésére.
+(2) Törvény eltérő rendelkezésének hiányában e törvény rendelkezései nem alkalmazandók a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló törvényben haditechnikai termékként meghatározott eszközök tekintetében a hadiipari tevékenység végzéséhez szükséges engedély alapján végzett tevékenységek hatósági engedélyezésére.
 
 2. § E törvény, valamint a végrehajtására kiadott jogszabályok alkalmazásában:
 
@@ -469,7 +467,7 @@ jogosultak.
 - e) a gyermekjátékszerek biztonsági követelményeiről, vizsgálatáról és tanúsításáról szóló jogszabályban meghatározott, kifejezetten játékokhoz szánt gyújtólapocskák,
 - f) a repülésben, illetve az űrrepülésben való felhasználásra szánt pirotechnikai termék.
 
-(4) Nem kell engedély a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, továbbá a Magyarország területén állomásozó fegyveres szervek által nem kereskedelmi jellegű felhasználásra szánt polgári célú pirotechnikai termék gyártásához, forgalomba hozatalához, vizsgálatához, forgalmazásához, tárolásához, kiállításához, felhasználásához, birtokolásához, valamint megsemmisítéséhez.
+(4) Nem kell engedély a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, továbbá a Magyarország területén állomásozó fegyveres szervek által nem kereskedelmi jellegű felhasználásra szánt polgári célú pirotechnikai termék gyártásához, forgalomba hozatalához, vizsgálatához, forgalmazásához, tárolásához, kiállításához, felhasználásához, birtokolásához, valamint megsemmisítéséhez.
 
 (5) A rendőrség a polgári célú pirotechnikai termék vizsgálatához, megsemmisítéséhez, forgalmazásához, tárolásához, illetve kiállításához szükséges engedéllyel rendelkezőkről – ha a tevékenységet az engedéllyel rendelkező a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint végzi – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint nyilvántartást vezet.
 

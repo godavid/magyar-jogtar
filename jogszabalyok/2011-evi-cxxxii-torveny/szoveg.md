@@ -2,7 +2,7 @@
 
 a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról
 
-A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és katonai képzést folytató Nemzeti Közszolgálati Egyetem tevékenységének célja a közigazgatást, a hon- és rendvédelmet érintő tevékenységet végző szakemberek képzése, a hon- és rendvédelmi szervek tiszti utánpótlásának biztosítása, valamint az egységesülő közszolgálati életpályák közti átjárhatóság megteremtése. Az intézménynek a tiszti utánpótlás képzése során tekintettel kell lennie a Magyar Honvédség és a rendészeti szervek feladataira, sajátos szolgálati és életviszonyaira, valamint az egyes hivatásrendek képzési és kiképzési rendszereiben előzetesen megszerzett ismeretekre is. A Nemzeti Közszolgálati Egyetem a közszolgálatiság eszméjének erősítésére kiemelt hangsúlyt fektet a sport szemlélet- és közösségformáló erejének a felsőoktatási tevékenység során történő érvényesítésére. E képzési feladatok megvalósításához szükséges vezetői, oktatói és hallgatói jogállás, a fenntartói jogok, a finanszírozás, valamint az Egyetem irányításának, szervezetének és működésének szabályozása érdekében az Országgyűlés a következő törvényt alkotja:
+A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és katonai képzést folytató Nemzeti Közszolgálati Egyetem tevékenységének célja a közigazgatást, a hon- és rendvédelmet, nemzetbiztonságot érintő tevékenységet végző szakemberek képzése, a hon- és rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok tiszti utánpótlásának biztosítása, valamint az egységesülő közszolgálati életpályák közti átjárhatóság megteremtése. Az intézménynek a tiszti utánpótlás képzése során tekintettel kell lennie a Magyar Honvédség és a rendészeti szervek feladataira, sajátos szolgálati és életviszonyaira, valamint az egyes hivatásrendek képzési és kiképzési rendszereiben előzetesen megszerzett ismeretekre is. A Nemzeti Közszolgálati Egyetem a közszolgálatiság eszméjének erősítésére kiemelt hangsúlyt fektet a sport szemlélet- és közösségformáló erejének a felsőoktatási tevékenység során történő érvényesítésére. E képzési feladatok megvalósításához szükséges vezetői, oktatói és hallgatói jogállás, a fenntartói jogok, a finanszírozás, valamint az Egyetem irányításának, szervezetének és működésének szabályozása érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -133,8 +133,9 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 - c) a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó állomány tagja vezényléssel,
 - d) közszolgálati tisztviselő, kormánytisztviselő kinevezéstől eltérő foglalkoztatás keretében,
 - e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott kinevezéstől eltérő foglalkoztatás, illetve a Hszt. szerinti tartós átirányítás keretében,
-- f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel, valamint
-- g) – egyéb jogviszonyától függetlenül – munkaviszonyban álló személy
+- f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel,
+- g) polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti szolgálati jogviszonyban álló személy vezényléssel, valamint
+- h) – egyéb jogviszonyától függetlenül – munkaviszonyban álló személy
 
 tölthet be.
 
@@ -158,7 +159,7 @@ tölthet be.
 
 (3) A (2) bekezdés szerinti felróhatóság szempontjából a hivatásos szolgálati viszony megszüntetésekor kiadott szolgálati viszonyra vonatkozó igazolás az irányadó.
 
-16/A. § (1) A honvédségi szervezet, rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal állományába tartozó és az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai, rendészeti, valamint nemzetbiztonsági alap- és mesterképzési szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
+16/A. § (1) A honvédelmi szervezet, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat, illetve a Nemzeti Adó- és Vámhivatal állományába tartozó és az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai, rendészeti, valamint nemzetbiztonsági alap- és mesterképzési szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
 
 (2) A 16/E. § szerinti oktatók – ideértve azokat is, akik a 16/E. § (3) bekezdése alapján az Nftv. 32. § (2) bekezdésében meghatározott címmel nem rendelkeznek – az Egyetem oktatási akkreditációja szempontjából teljes értékű alkalmazottnak minősülnek, így különösen az Egyetem szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott, tudományos fokozattal és megfelelő szakterületi szakmai kompetenciával rendelkező oktatóként kell őket figyelembe venni, azzal, hogy e személyeket az Nftv. 9. § (3) bekezdés b) pontja szerinti számítás során figyelmen kívül kell hagyni. A 16/E. § szerinti, címüket az Egyetem szervezeti és működési szabályzatában meghatározott – az Egyetemre vagy az oktató hivatására utaló – elnevezéssel viselő személyeket – ideértve azt is, aki a 16/E. § (3) bekezdése alapján az Nftv. 32. § (2) bekezdésében meghatározott címmel nem rendelkezik – az Egyetem oktatási akkreditációja szempontjából úgy kell tekinteni, mintha a szervezeti és működési szabályzatban, az Egyetemre vagy az oktató hivatására utaló elnevezésűnek megfelelő, az Nftv. 27. § (1) bekezdésében meghatározott munkakört töltenék be.
 
@@ -193,7 +194,7 @@ tölthet be.
 
 (2) Érdemtelenségnek minősül különösen, ha a közalkalmazott a munkahelyén vagy azon kívül olyan magatartást tanúsít, amely
 
-- a) az Egyetem, a közigazgatási szervek, a rendvédelmi feladatokat ellátó szervek vagy a Magyar Honvédség, illetve ezek vezetőinek jó hírnevét vagy társadalmi megítélését hátrányosan befolyásolhatja, függetlenül attól, hogy e magatartás jogsértést megvalósít-e,
+- a) az Egyetem, a közigazgatási szervek, a rendvédelmi feladatokat ellátó szervek, a polgári nemzetbiztonsági szolgálatok vagy a honvédelmi szervezet, illetve ezek vezetőinek jó hírnevét vagy társadalmi megítélését hátrányosan befolyásolhatja, függetlenül attól, hogy e magatartás jogsértést megvalósít-e,
 - b) az Egyetem etikai kódexében vagy esélyegyenlőségi szabályzatában meghatározott előírásokat súlyosan sérti,
 - c) az Egyetem, illetve az Egyetem hallgatói vagy a 13. § (1) bekezdésében meghatározott személyek számára jogellenesen kárt okoz, vagy
 - d) vezetői beosztásához méltatlan.
@@ -363,7 +364,7 @@ kezeli.
 - i) végzettség, szakképzettség, szakképesítés, képesítés, szaktanfolyami vizsga, közigazgatási vizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség megléte vagy megkezdése, továbbá
 - j) a pályaalkalmassági vizsgálatok részeként pályaalkalmassági orientációs beszélgetésen való megfelelés.
 
-24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai és a pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban állók esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. További feltétel, hogy a hallgató hozzájárul a honvédtiszti alapképzés tekintetében a nemzetbiztonsági alkalmasságának ellenőrzéséhez, rendészeti képzés nappali munkarendben történő alapképzés tekintetében a kifogástalan életvitel ellenőrzéshez, és vállalja a tisztjelölti szolgálati viszony létesítését és fenntartását az alapképzés idejére.
+24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai és a pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban állók esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. További feltétel, hogy a hallgató hozzájárul a honvédtiszti alapképzés tekintetében a nemzetbiztonsági alkalmasságának ellenőrzéséhez, rendészeti képzés nappali munkarendben történő alapképzés tekintetében a kifogástalan életvitel ellenőrzéshez, és vállalja a tisztjelölti szolgálati viszony létesítését és fenntartását az alapképzés idejére.
 
 25. § A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya különleges jogrendben, valamint a katasztrófák megelőzése érdekében elrendelt közreműködés idején szünetelhet. A hallgatói jogviszony ettől eltérő szüneteltetését a Magyar Honvédség személyügyi szervének vezetője engedélyezheti.
 
@@ -381,7 +382,7 @@ kezeli.
 
 28. § A hallgató a tanulmányi feladatainak ellátása során köteles tartózkodni a politikai tevékenységtől. Az Egyetemen, annak kollégiumában, valamint a gyakorlat teljesítésének helyén politikai szervezet képviselőjeként vagy megbízottjaként politikai véleményt nem nyilváníthat, más személy politikai véleményét nem befolyásolhatja.
 
-29. § Az a hallgató, aki a közigazgatás szervei, a Magyar Honvédség vagy a rendvédelmi szervek törvényben meghatározott feladataival összeegyeztethetetlen célú vagy tevékenységet folytató szervezethez tartozik, a hallgatói jogviszony időtartamára köteles a tagsági viszonyát felfüggeszteni, és az azzal összefüggő tevékenységét mellőzni. Abban a kérdésben, hogy mely szervezetet kell e körbe tartozónak tekinteni, az érintett szerv állásfoglalásának kikérésével a hallgató kara szerinti dékán dönt.
+29. § Az a hallgató, aki a közigazgatás szervei, a honvédelmi szervezet, a rendvédelmi szervek vagy a polgári nemzetbiztonsági szolgálatok törvényben meghatározott feladataival összeegyeztethetetlen célú vagy tevékenységet folytató szervezethez tartozik, a hallgatói jogviszony időtartamára köteles a tagsági viszonyát felfüggeszteni, és az azzal összefüggő tevékenységét mellőzni. Abban a kérdésben, hogy mely szervezetet kell e körbe tartozónak tekinteni, az érintett szerv állásfoglalásának kikérésével a hallgató kara szerinti dékán dönt.
 
 30. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató köteles különösen
 
@@ -403,7 +404,7 @@ kezeli.
 - f) különleges jogrendben, valamint a katasztrófák megelőzése érdekében elrendelt közreműködés idején egyéb rendészeti feladat ellátására, valamint
 - g) a rendészetért felelős miniszter által elrendelt feladatokat ellátni.
 
-(3) A rendészeti képzés nappali munkarendben tanuló hivatásos állományú, valamint pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgatóját a (2) bekezdés c), f) és g) pontjában, ösztöndíjas hallgatóját a (2) bekezdés f) pontjában rögzített feladatok végrehajtásáért jogszabályban meghatározott térítés illeti meg, amelyet az adott rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal költségvetésében kell biztosítani. Az érintett hallgató számára a térítést az adott rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal folyósítja.
+(3) A rendészeti képzés nappali munkarendben tanuló hivatásos állományú, valamint pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgatóját a (2) bekezdés c), f) és g) pontjában, ösztöndíjas hallgatóját a (2) bekezdés f) pontjában rögzített feladatok végrehajtásáért jogszabályban meghatározott térítés illeti meg, amelyet az adott rendvédelmi szerv, polgári nemzetbiztonsági szolgálat, illetve a Nemzeti Adó- és Vámhivatal költségvetésében kell biztosítani. Az érintett hallgató számára a térítést az adott rendvédelmi szerv, polgári nemzetbiztonsági szolgálat, illetve a Nemzeti Adó- és Vámhivatal folyósítja.
 
 (4) A szakmai gyakorlat teljesítése során a hallgató állományviszonyának megfelelően jogosult, illetve köteles a szerv szolgálati feladatainak végrehajtásában közreműködni, bármely cselekménynél jelen lenni, intézkedésben részt venni, részfeladatokat felügyelet mellett végrehajtani.
 
@@ -411,7 +412,7 @@ kezeli.
 
 31. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató, valamint a doktori képzésben részt vevő hivatásos vagy szerződéses állományú hallgató külföldi tanulmányokat a Honvéd Vezérkar főnökének engedélyével folytathat. A honvédtiszti alap- és mesterképzésben részt vevő hallgató esetében vendéghallgatói és további (párhuzamos) hallgatói jogviszony létesítéséhez, valamint a további szakképesítés, illetve szakképzettség megszerzéséhez szükséges tanulmányok folytatásához a Magyar Honvédség személyügyi szerve vezetőjének előzetes engedélye szükséges.
 
-(2) A rendészeti felsőoktatási alap-, mester- és doktori képzésben részt vevő hivatásos állományú, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgató külföldi tanulmányokat, résztanulmányokat az adott rendvédelmi szerv országos parancsnokának, illetve a Nemzeti Adó- és Vámhivatal vezetőjének előzetes engedélyével folytathat. Vendéghallgatói jogviszonyt, illetve további (párhuzamos) hallgatói jogviszonyt az adott rendvédelmi szerv országos parancsnokának, illetve a Nemzeti Adó- és Vámhivatal vezetőjének előzetes engedélyével létesíthet.
+(2) A rendészeti felsőoktatási alap-, mester- és doktori képzésben részt vevő hivatásos állományú, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgató külföldi tanulmányokat, résztanulmányokat az adott rendvédelmi szerv országos parancsnokának, illetve a Nemzeti Adó- és Vámhivatal vezetőjének előzetes engedélyével folytathat. Vendéghallgatói jogviszonyt, illetve további (párhuzamos) hallgatói jogviszonyt az adott rendvédelmi szerv országos parancsnokának, polgári nemzetbiztonsági szolgálat főigazgatójának, illetve a Nemzeti Adó- és Vámhivatal vezetőjének előzetes engedélyével létesíthet.
 
 (3) Az (1) és (2) bekezdésben foglalt engedély megtagadását indokolni kell.
 

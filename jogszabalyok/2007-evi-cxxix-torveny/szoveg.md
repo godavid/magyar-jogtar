@@ -363,7 +363,7 @@ szerinti építményeket kell érteni.
 
 (2) A határozat időbeli hatályán belül ugyanazon földrészletnek azonos területére benyújtott más célú hasznosítás iránti kérelmet – a 15. § (1a) bekezdésében és a 15/C. §-ban meghatározott esetek kivételével – vissza kell utasítani.
 
-(3) A honvédelmi vagy rendészeti feladatok ellátásával kapcsolatos más célú hasznosításra e törvény rendelkezéseit akkor kell alkalmazni, ha törvény eltérően nem rendelkezik.
+(3) A honvédelmi, nemzetbiztonsági vagy rendészeti feladatok ellátásával kapcsolatos más célú hasznosításra e törvény rendelkezéseit akkor kell alkalmazni, ha törvény eltérően nem rendelkezik.
 
 (4) Az ingatlanügyi hatóság a végleges más célú hasznosítás engedélyezéséről a véglegessé vált határozat másolatának megküldésével tájékoztatja az illetékes települési – a fővárosban a kerületi – önkormányzatot (a továbbiakban: önkormányzat).
 

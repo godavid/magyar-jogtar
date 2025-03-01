@@ -79,7 +79,7 @@ a védelmére.
 
 (4) Az Országgyűlés az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettesét azok közül a harmincötödik életévüket betöltött jogászok közül választja meg, akik kiemelkedő elméleti tudással vagy legalább tízéves szakmai gyakorlattal rendelkeznek, és a Magyarországon élő nemzetiségek jogait érintő eljárások lefolytatásában, felügyeletében vagy tudományos elméletében jelentős tapasztalatokkal rendelkeznek.
 
-(5) Nem lehet az alapvető jogok biztosa vagy helyettese az, aki a választásra irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, nemzetiségi szószóló, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, önkormányzati képviselő, polgármester, alpolgármester, nemzetiségi önkormányzat tagja, jegyző, a Magyar Honvédség hivatásos állományú tagja, a rendvédelmi szervek és rendvédelmi feladatot ellátó szervek hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, párt tisztségviselője vagy alkalmazottja volt.
+(5) Nem lehet az alapvető jogok biztosa vagy helyettese az, aki a választásra irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, nemzetiségi szószóló, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, önkormányzati képviselő, polgármester, alpolgármester, nemzetiségi önkormányzat tagja, jegyző, a Magyar Honvédség hivatásos állományú tagja, a polgári nemzetbiztonsági szolgálatok, a rendvédelmi szervek és rendvédelmi feladatot ellátó szervek hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, párt tisztségviselője vagy alkalmazottja volt.
 
 6. § (1) A köztársasági elnök az alapvető jogok biztosának a személyére az alapvető jogok biztosa megbízatási idejének a lejártát megelőző kilencven napon belül, de legkésőbb a megbízatási idő lejártát megelőző negyvenötödik napon tesz javaslatot.
 
@@ -218,7 +218,7 @@ a védelmére.
 - c) nemzetiségi önkormányzat,
 - d) kötelező tagság alapján működő köztestület,
 - e) a Magyar Honvédség,
-- f) rendvédelmi szerv,
+- f) rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat,
 - g) közigazgatási jogkörben eljáró egyéb szerv e jogkörében,
 - h) nyomozó hatóság vagy az ügyészség nyomozást végző szerve,
 - i) közjegyző,
@@ -297,7 +297,7 @@ tevékenységét.
 - b) a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, azokról másolatot, kivonatot készíthet, és
 - c) a vizsgált hatóság bármely munkatársát meghallgathatja.
 
-(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a honvédelmi szervezet, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak a NAV nyomozó hatósági feladatokat ellátó területi szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter határozza meg.
+(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a honvédelmi szervezet, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szerve, valamint bűnügyi főigazgatósága és annak a NAV nyomozóhatósági feladatokat ellátó területi szerve működésére szolgáló területre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter határozza meg.
 
 (3) A vizsgált hatóság helyiségébe való belépést szabályozó jogszabály a helyszíni ellenőrzést érdemben nem akadályozhatja.
 
@@ -713,6 +713,8 @@ tevékenységét.
 (2) Felhatalmazást kap a rendvédelmi szerv irányításáért felelős miniszter, hogy az alapvető jogok biztosának a rendvédelmi szerv működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
 
 (3) Felhatalmazást kap a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy az alapvető jogok biztosának a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak alsó- és középfokú szervei működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
+
+(4) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy az általa irányított polgári nemzetbiztonsági szolgálat vonatkozásában az alapvető jogok biztosának a polgári nemzetbiztonsági szolgálat működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
 
 #### 14. Hatályba léptető rendelkezés
 

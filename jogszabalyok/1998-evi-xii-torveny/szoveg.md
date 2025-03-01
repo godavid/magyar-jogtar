@@ -289,7 +289,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (5) Az (1) és (3) bekezdésben megjelölt szervek a kijelölt kormányhivatal részére megküldik a polgár természetes személyazonosító adatait, valamint – a (3) bekezdés esetében – a külföldre utazási korlátozás megszűnésének várható idejét.
 
-17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, a katonai szolgálatot teljesítő személy, továbbá a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjának külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
+17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, a katonai szolgálatot teljesítő személy, a polgári nemzetbiztonsági szolgálat hivatásos állományának tagja, nemzetbiztonsági alkalmazottja, továbbá a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjának külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
 
 #### 18. §
 

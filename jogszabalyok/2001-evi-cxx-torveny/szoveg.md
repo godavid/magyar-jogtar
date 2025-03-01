@@ -3457,6 +3457,8 @@ MEGSZŰNÉSE
 
 (5) Befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsde, központi értéktár, központi szerződő fél jogutód nélküli megszűnése esetén a megszűnt szervezet által kezelt üzleti, illetőleg értékpapírtitkot tartalmazó irat a keletkezésétől számított hatvan év múlva a levéltári kutatások céljára felhasználható.
 
+371/A. § A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a tőzsde, a központi értéktár és a központi szerződő fél az ügyészség engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a tőzsde, a központi értéktár és a központi szerződő fél az ügyészségnek az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+
 372. § Nem jelenti az értékpapírtitok, üzleti titok sérelmét a központi értéktári, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti végzése érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás.
 
 373. § Nem jelenti az értékpapírtitok, üzleti titok sérelmét a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás.
@@ -3466,6 +3468,8 @@ MEGSZŰNÉSE
 374. § Nem jelenti az értékpapírtitok és az üzleti titok sérelmét a FATCA-törvény alapján az Aktv. 43/B–43/C. §-ában foglalt kötelezettség teljesítéséhez az adóhatóság felé szükséges adatszolgáltatás.
 
 374/A. § Nem jelenti az értékpapírtitok és az üzleti titok sérelmét az Aktv. 43/H. §-ában foglalt kötelezettség teljesítéséhez az adóhatóság felé szükséges adatszolgáltatás.
+
+374/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a tőzsde, a központi értéktár és a központi szerződő fél a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
 
 ### Összesített adatok átadása
 

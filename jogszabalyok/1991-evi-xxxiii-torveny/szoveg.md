@@ -280,7 +280,7 @@ törvény erejénél fogva vagy a fővárosi és vármegyei kormányhivatal dön
 
 (2) A fővárosi önkormányzatok, illetve a vármegyei önkormányzatok a tulajdonukba került ingatlanok tulajdonjogának ingatlannyilvántartásba való bejegyzésére irányuló kérelmüket kötelesek az érintett települési önkormányzatokkal egyeztetni és ellenőriztetni.
 
-35. §
+#### 35. §
 
 ### IV. Fejezet — AZ ÖNKORMÁNYZATOK TULAJDONÁRA VONATKOZÓ RENDELKEZÉSEK
 
@@ -340,7 +340,7 @@ törvény erejénél fogva vagy a fővárosi és vármegyei kormányhivatal dön
 
 (2) Az ingatlan (1) bekezdésben említett jellegéről a fővárosi és vármegyei kormányhivatal megkeresésére — szükség esetén az érintett egyház meghallgatása után — az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter nyilatkozik.
 
-45. §
+#### 45. §
 
 46. § (1) Törvény határozza meg azokat a műemlék épületeket, amelyek kiemelkedő történeti, kulturális, műemléki értéküknél fogva nem kerülhetnek ki az állam tulajdonából.
 
@@ -376,7 +376,7 @@ törvény erejénél fogva vagy a fővárosi és vármegyei kormányhivatal dön
 
 - a) állami szerv: az állami vállalat, tröszt, az egyéb állami gazdálkodó szerv, az állami költségvetési szerv;
 - b) ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog;
-- c) épületek közül: — lakóépület az, amelyben kizárólag vagy túlnyomórészben, az épület összalapterületének 50%-át meghaladó mértékben lakás van, — vegyes rendeltetésű épület az, amelyben a lakások alapterülete az épület összalapterületének 50%-át nem haladja meg, — nem lakás céljára szolgáló épület az, amely kizárólag ipari, építőipari, mezőgazdasági, vízgazdálkodási, kereskedelmi, tárolási, szolgáltatási, igazgatási, honvédelmi, rendészeti, művelődési, oktatási, kutatási, egészségügyi, szociális, jóléti és más gazdasági célra szolgál, tekintet nélkül a benne lévő munkakörrel kapcsolatos szolgálati lakásra;
+- c) épületek közül: — lakóépület az, amelyben kizárólag vagy túlnyomórészben, az épület összalapterületének 50%-át meghaladó mértékben lakás van, — vegyes rendeltetésű épület az, amelyben a lakások alapterülete az épület összalapterületének 50%-át nem haladja meg, — nem lakás céljára szolgáló épület az, amely kizárólag ipari, építőipari, mezőgazdasági, vízgazdálkodási, kereskedelmi, tárolási, szolgáltatási, igazgatási, honvédelmi, rendészeti, nemzetbiztonsági, művelődési, oktatási, kutatási, egészségügyi, szociális, jóléti és más gazdasági célra szolgál, tekintet nélkül a benne lévő munkakörrel kapcsolatos szolgálati lakásra;
 - d) önkormányzat intézménye: az önkormányzat költségvetéséből fenntartott, önkormányzat által biztosított közszolgáltatást nyújtó szerv;
 - e) önkormányzat közüzeme: közüzemi célra alapított olyan állami gazdálkodó szerv, amelynek felügyeletét e törvény hatálybalépésekor önkormányzat gyakorolja, vagy amelyet az Öt. 9. §-ának (4) bekezdése alapján az önkormányzat alapított;
 - f) műemlék épület, építmény: a műemlék, a műemlék jellegű és városképi jelentőségű épület, építmény;
@@ -402,10 +402,10 @@ törvény erejénél fogva vagy a fővárosi és vármegyei kormányhivatal dön
 
 54. § A helyi önkormányzat állammal szemben támasztott, e törvény szerinti tulajdoni igényének érvényesítése során 2017. január 1-jét követően a tulajdoni igény keletkezésének időpontjától függetlenül kizárólag a bíróság jogosult eljárni.
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §

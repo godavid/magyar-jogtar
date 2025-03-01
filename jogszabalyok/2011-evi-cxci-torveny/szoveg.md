@@ -547,6 +547,10 @@ a megváltozott munkaképességű személyek ellátásait folyósító szerv hiv
 
 (6) Az ellátást folyósító szerv a Nemzeti Adó- és Vámhivatal tájékoztatása alapján szerez tudomást arról, hogy kinek a részére állapítottak meg a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadékot vagy egészségkárosodási keresetkiegészítést, továbbá arról, ha ezen ellátások megszűntek.
 
+(7) Ha a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátásra jogosult az (1) bekezdés a) vagy b) pontjában meghatározott ellátásra jogosult vagy jogosulttá válik, vagy az ott meghatározott körülmények valamelyike bekövetkezik, akkor ezen tényekről a megváltozott munkaképességű személyek ellátásait folyósító szerv hivatalból 15 napon belül tájékoztatja a polgári nemzetbiztonsági szolgálatot.
+
+(8) Az ellátást folyósító szerv a polgári nemzetbiztonsági szolgálat tájékoztatása alapján szerez tudomást arról, hogy kinek a részére állapítottak meg a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátást, továbbá arról, ha ezen ellátások megszűntek.
+
 21/E. § A rehabilitációs hatóság a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § d) és u) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 #### 7. A rehabilitációs hozzájárulás és a megváltozott munkaképességű személyek foglalkoztatásának támogatása
@@ -609,6 +613,7 @@ kell figyelembe venni.
 - b) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 - c) a honvédelemről és a Magyar Honvédségről szóló törvény szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter fenntartói irányítása alá tartozó szakképző intézmény,
 - d) a Nemzeti Adó- és Vámhivatal.
+- e) a polgári nemzetbiztonsági szolgálat.
 
 (7) A megváltozott munkaképességű munkavállalót foglalkoztató munkaadó a rehabilitációs hozzájárulás megállapítása céljából nyilvántartást vezet, amely tartalmazza a megváltozott munkaképességű munkavállaló és a 22/A. § szerinti személy természetes személyazonosító adatait és társadalombiztosítási azonosító jelét, a megváltozott munkaképességű munkavállaló munkaképesség-változásának, egészségi állapotának, egészségkárosodásának mértékét, a sajátos nevelési igény vagy fogyatékosság tényét, továbbá az ezek igazolására szolgáló okiratok másolatát. A nyilvántartást a munkáltató a foglalkoztatás megszűnését követő 5 évig köteles megőrizni. A sajátos nevelési igényre vagy a fogyatékosság tényére vonatkozó adat a foglalkoztatás megszűnését követő 5 évig, de legfeljebb a 23. életév betöltését követő 5 évig kezelhető.
 

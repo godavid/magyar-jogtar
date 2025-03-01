@@ -15,7 +15,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 (3) Nem terjed ki a törvény hatálya
 
 - a)
-- b) a kizárólag a honvédség, a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett közlekedési balesetek és egyéb közlekedési események szakmai vizsgálatára.
+- b) a kizárólag a honvédelmi szervezet, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett közlekedési balesetek és egyéb közlekedési események szakmai vizsgálatára.
 
 1/A. § (1) Az e törvény 3. § (4) bekezdésében, 7. § (3) és (4) bekezdésében, 14. §-ában, valamint 16. § (7) bekezdésében foglaltakat a kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, repülőeseménnyel összefüggésben nem kell alkalmazni.
 
@@ -404,7 +404,7 @@ látja el.
 - a) a további vizsgálatot végző bíróság, ügyészség, nyomozó hatóság vagy más hatóság részére, ha e szerv vagy hatóság azt szükségesnek tartja,
 - b) egyéb esetben a tulajdonosának, üzemben tartójának vagy az általuk kijelölt szervezet, személy részére, illetve amennyiben ezek nem ismertek, annak, akitől az lefoglalásra került.
 
-(5) Ha a jogosult a dolgot megfelelő határidő alatt felszólításra nem szállítja el, a közlekedésbiztonsági szerv – állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény kivételével – értékesítés és felhasználás tekintetében a jogalap nélküli birtoklás szabályai szerint jár el (Ptk. 5:12. §). Állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény tekintetében az üzemben tartó a jármű, berendezés és egyéb dolog átvételéről köteles intézkedni.
+(5) Ha a jogosult a dolgot megfelelő határidő alatt felszólításra nem szállítja el, a közlekedésbiztonsági szerv – állami légijármű, honvédelmi, nemzetbiztonsági és rendvédelmi célú vasúti jármű vagy úszólétesítmény kivételével – értékesítés és felhasználás tekintetében a jogalap nélküli birtoklás szabályai szerint jár el (Ptk. 5:12. §). Állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény tekintetében az üzemben tartó a jármű, berendezés és egyéb dolog átvételéről köteles intézkedni.
 
 ### A szakmai vizsgálatban részt vevő személyek
 
@@ -738,7 +738,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter és a rendészetért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatának részletes szabályait, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályait.
 
-(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter, a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag a honvédség, illetve a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait.
+(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy – a miniszter, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter egyetértésével kiadott – rendeletben állapítsa meg a kizárólag a honvédelmi szervezet, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait.
 
 (4) Felhatalmazást kap a Kormány, hogy a közlekedésbiztonsági szervet és az állami közlekedésbiztonsági szervet rendeletben jelölje ki.
 

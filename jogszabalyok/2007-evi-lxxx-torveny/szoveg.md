@@ -1485,7 +1485,7 @@ a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt el
 
 (4) A menedékeskénti elismerésre irányuló eljárásban a VII. Fejezet, valamint a 66. § (2) bekezdés a) pontja megfelelően alkalmazandó.
 
-78. § (1) A menekültügyi hatóság a menedékeskénti elismerésre irányuló eljárás során köteles beszerezni az e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv szakhatósági állásfoglalását.
+78. § (1) A menekültügyi hatóság a menedékeskénti elismerésre irányuló eljárás során köteles beszerezni az e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat szakhatósági állásfoglalását.
 
 (2)
 
@@ -1838,7 +1838,7 @@ kezeli.
 - h) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartásból;
 - i) a nyugdíj-biztosítási és egészségbiztosítási nyilvántartásból;
 - j) az egységes szociális nyilvántartásból;
-- k) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
+- k) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi szerveitől és nemzetbiztonsági szolgálataitól.
 
 86/A. § (1) A menekültügyi hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető személyi körözések adatállományban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
 

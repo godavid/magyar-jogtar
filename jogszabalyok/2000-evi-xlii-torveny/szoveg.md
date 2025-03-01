@@ -1071,7 +1071,7 @@ vonatkozó rendelkezések megsértésekor.
 
 (3) Ha magyar úszólétesítményt külföldön víziközlekedési baleset ér, azt az úszólétesítmény üzemben tartója haladéktalanul köteles a magyar hajózási hatóságnak is bejelenteni, és a hajózási hatóság által – a balesettel kapcsolatban – kért adatokat szolgáltatni.
 
-(4) A honvédség, a rendvédelmi szervek vagy a rendvédelmi feladatokat ellátó szervek úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetekkel és víziközlekedési eseményekkel kapcsolatos szakmai vizsgálat az illetékes üzemben tartó által kijelölt szakmai bizottság feladata.
+(4) A honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a rendvédelmi feladatokat ellátó szervek úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetekkel és víziközlekedési eseményekkel kapcsolatos szakmai vizsgálat az illetékes üzemben tartó által kijelölt szakmai bizottság feladata.
 
 (5) A (4) bekezdés szerinti szakmai bizottság létrehozására, tagjaira, valamint a bizottság eljárására vonatkozó szabályokat külön jogszabály állapítja meg.
 
@@ -1232,7 +1232,7 @@ vonatkozó rendelkezések megsértésekor.
 
 (2) Az (1) bekezdés b) pontjában meghatározottakon túl saját használatú az a kikötő is, amely
 
-- a) államigazgatási szerv, a Magyar Honvédség, rendvédelmi szerv tulajdonában, illetve használatában van,
+- a) államigazgatási szerv, a Magyar Honvédség, rendvédelmi szerv, polgári nemzetbiztonsági szolgálat tulajdonában, illetve használatában van,
 - b) egyesület tulajdonában, illetve használatában van, ha a kikötő csak tagsági jogviszony alapján vehető igénybe.
 - c) horgászati tevékenység támogatására, horgászati jogosultság igazolása alapján igénybe vehető, a halgazdálkodásra jogosult horgászszervezet által üzemeltetett horgászkikötő.
 

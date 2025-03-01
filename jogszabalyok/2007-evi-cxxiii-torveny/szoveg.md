@@ -15,7 +15,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - a) honvédelem;
 - b) nemzetközi szerződés alapján megvalósuló területcsere;
 - c) terület- és településrendezés;
-- d) kötelező állami, illetve kötelező önkormányzati feladathoz kapcsolódó oktatási – ideértve a diákotthoni elhelyezést biztosító létesítményeket is –, egészségügyi, szociális, rendvédelmi létesítmény elhelyezése;
+- d) kötelező állami, illetve kötelező önkormányzati feladathoz kapcsolódó oktatási – ideértve a diákotthoni elhelyezést biztosító létesítményeket is –, egészségügyi, szociális, rendvédelmi, nemzetbiztonsági létesítmény elhelyezése;
 - e) közlekedési infrastruktúra fejlesztése;
 - f) energiatermelés;
 - g) energiaellátás;

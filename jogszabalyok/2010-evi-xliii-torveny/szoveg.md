@@ -14,8 +14,9 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 - a) a központi kormányzati igazgatási szerv,
 - b) az önálló szabályozó szerv,
-- c) az autonóm államigazgatási szerv, és
-- d) a rendvédelmi szerv és a Katonai Nemzetbiztonsági Szolgálat.
+- c) az autonóm államigazgatási szerv,
+- d) a rendvédelmi szerv, és
+- e) a nemzetbiztonsági szolgálat.
 
 (3) Önálló szabályozó szerv
 
@@ -29,17 +30,21 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 - a) a Közbeszerzési Hatóság,
 - b) az Integritás Hatóság,
 - c) a Gazdasági Versenyhivatal,
-- d) a Nemzeti Adatvédelmi és Információszabadság Hatóság, és
-- e) a Nemzeti Választási Iroda.
-- f) az Európai Támogatásokat Auditáló Főigazgatóság.
+- d) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
+- e) a Nemzeti Választási Iroda,
+- f) az Európai Támogatásokat Auditáló Főigazgatóság, és
 - g) a Szuverenitásvédelmi Hivatal.
 
 (5) Rendvédelmi szerv
 
 - a) a rendőrség,
-- b) a büntetés-végrehajtási szervezet,
-- c) a hivatásos katasztrófavédelmi szerv, és
-- d) a polgári nemzetbiztonsági szolgálatok.
+- b) a büntetés-végrehajtási szervezet és
+- c) a hivatásos katasztrófavédelmi szerv.
+
+(6) Nemzetbiztonsági szolgálat
+
+- a) a polgári nemzetbiztonsági szolgálat és
+- b) a Katonai Nemzetbiztonsági Szolgálat.
 
 ### Irányítás és felügyelet
 
@@ -85,6 +90,7 @@ meghatározott hatáskörök együttesét kell érteni.
 - f) a miniszterelnök közvetlen irányítása alatt álló és kormányrendeletben a központi államigazgatási szervnél irányítási jogkörrel felruházott kormánybiztosra,
 - g) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 29. § (3) bekezdése szerinti személyre
 - h) a szervnél a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti vezetői munkakört betöltő személyre
+- i) a polgári nemzetbiztonsági szolgálatnál a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti vezetői szolgálati beosztást betöltő személyre
 
 átruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
 

@@ -582,7 +582,7 @@ fedezi.
 
 (2) Állatorvosi tevékenységet szolgáltatásként állat-egészségügyi szolgáltató nyújthat. Az állat-egészségügyi szolgáltató működéséhez – a (3) bekezdésben foglalt kivétellel – a Kamara által kiadott praxisengedély szükséges.
 
-(3) Az Állatorvostudományi Egyetemen állatorvosként, továbbá az állami fenntartású állategészségügyi kutató intézményekben, az állami fenntartású állategészségügyi intézetekben, valamint a fegyveres testületek és rendvédelmi szervek intézményeiben a szolgálati állatok vonatkozásában, a felsorolt intézményeken belül végzett állatorvosi tevékenység FELIR azonosítóval, praxisengedély nélkül is végezhető.
+(3) Az Állatorvostudományi Egyetemen állatorvosként, továbbá az állami fenntartású állategészségügyi kutató intézményekben, az állami fenntartású állategészségügyi intézetekben, valamint a fegyveres testületek, a polgári nemzetbiztonsági szolgálatok és rendvédelmi szervek intézményeiben a szolgálati állatok vonatkozásában, a felsorolt intézményeken belül végzett állatorvosi tevékenység FELIR azonosítóval, praxisengedély nélkül is végezhető.
 
 33/A. § (1) Az üzemi állatorvos állatorvosi tevékenységet folytató állategészségügyi szolgáltatónak nem minősülő munkáltatója, munkáltatójának kapcsolt vállalkozása vagy munkáltatójával irányítási vagy fenntartói viszonyban álló szerv számára munkaviszony vagy tagsági viszony, továbbá a közérdekű önkéntes tevékenységről szóló törvény szerint a fogadó szervezet (e § alkalmazásában munkáltató és fogadó szervezet együtt a továbbiakban: munkáltató) számára önkéntes jogviszony formájában (e § alkalmazásában munkaviszony, tagsági viszony és önkéntes jogviszony együtt a továbbiakban: munkaviszony).
 

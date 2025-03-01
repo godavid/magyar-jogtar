@@ -41,7 +41,7 @@ terjed ki.
 
 (6) Az e törvény hatálya alá tartozó tevékenységek egyidejűleg is folytathatók.
 
-2. § A 22–33. §-ok rendelkezései irányadók a személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet munkajogi vagy egyéb foglalkoztatási jogviszonyban, nem vállalkozás keretében folytató személy tevékenységére, ide nem értve a Magyar Honvédség és a rendvédelmi szervek állományába tartozó személyek, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottai által e jogviszonyukkal összefüggésben végzett, illetve más, hatósági eljárás keretében, külön törvény rendelkezései alapján végzett tevékenységet és a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatokról szóló törvény rendelkezései alapján végzett tevékenységet.
+2. § A 22–33. §-ok rendelkezései irányadók a személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet munkajogi vagy egyéb foglalkoztatási jogviszonyban, nem vállalkozás keretében folytató személy tevékenységére, ide nem értve a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek állományába tartozó személyek, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottai által e jogviszonyukkal összefüggésben végzett, illetve más, hatósági eljárás keretében, külön törvény rendelkezései alapján végzett tevékenységet és a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatokról szóló törvény rendelkezései alapján végzett tevékenységet.
 
 3. § (1) A rendőrség és a polgári nemzetbiztonsági szolgálatok személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet érintő hatósági feladatokat ellátó hivatásos állományú tagja, továbbá e hatósági feladatok ellátásában közreműködő nem hivatásos állományú munkatársa
 
@@ -228,7 +228,7 @@ nem áll fenn.
 
 16. § (1) Az e törvény hatálya alá tartozó tevékenységet végző személy hatósági jogkörrel nem rendelkezik, a hatóság eljárását nem akadályozhatja.
 
-(2) Az e törvény hatálya alá tartozó tevékenységet folytató a Magyar Honvédségre, rendvédelmi szervre, a Nemzeti Adó- és Vámhivatalra, illetve más hatóságra utaló elnevezést, formaruhát, illetve hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rendfokozati jelzést nem használhat. E rendelkezés nem alkalmazható a Magyar Honvédség objektumai őrzésével kapcsolatos, önkéntes tartalékos által ellátott személy- és vagyonvédelmi tevékenységre.
+(2) Az e törvény hatálya alá tartozó tevékenységet folytató a Magyar Honvédségre, rendvédelmi szervre, nemzetbiztonsági szolgálatra, a Nemzeti Adó- és Vámhivatalra, illetve más hatóságra utaló elnevezést, formaruhát, illetve hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rendfokozati jelzést nem használhat. E rendelkezés nem alkalmazható a Magyar Honvédség objektumai őrzésével kapcsolatos, önkéntes tartalékos által ellátott személy- és vagyonvédelmi tevékenységre.
 
 (3) Közterületen vagy nyilvános helyen az 1. § (2) bekezdés b) pontja szerinti, vagyonőrzési feladatokat ellátó személy (a továbbiakban: vagyonőr) formaruhát visel, amelyen fel kell tüntetni annak a vállalkozásnak a nevét vagy engedélyezett rövidített nevét, amellyel munkaviszonyban áll, továbbá a vagyonőr nevét és a vagyonőr megjelölést. Ha a vagyonőr egyéni vállalkozó vagy egyéni cég, és alvállalkozóként teljesít szolgálatot, a saját formaruháját vagy annak a vállalkozásnak a formaruháját is viselheti, amellyel a feladat ellátására megbízási szerződést kötött.
 
@@ -806,14 +806,12 @@ is felhasználható.
 
 ### VI/B. Fejezet — A VAGYONVÉDELMI SZOLGÁLTATÁSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ KÖZBESZERZÉSI ELJÁRÁS KÜLÖNÖS SZABÁLYAI
 
-72/B. § (1) Ha az
+72/B. § Az
 
 - a) 1. § (2) bekezdés b)–d) pontjában meghatározott, valamint
 - b) 1. § (2) bekezdés b)–d) pontjában meghatározott tevékenységek szervezésével és irányításával összefüggő
 
-tevékenységre (a továbbiakban együtt: vagyonvédelmi szolgáltatási tevékenység) irányuló közbeszerzési eljárásban a rezsióradíj mértéke a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 76. §-a szerint önállóan értékelésre kerül, aránytalanul alacsony árajánlatnak minősül, és köteles az ajánlatkérő a Kbt. 72. §-a szerint indokolást kérni, ha az ajánlattevő által alkalmazott rezsióradíj alacsonyabb a Kormány rendeletében megállapított minimális vagyonvédelmi szolgáltatási rezsióradíj mértékénél.
-
-(2) Az (1) bekezdésen kívüli esetekben az ajánlatkérő a Kbt. 72. § (1) bekezdése szerinti indokolás kérése keretében köteles arra vonatkozóan is tájékoztatást kérni, hogy az aránytalanul alacsony árat benyújtó ajánlattevő ajánlatában milyen összegű rezsióradíjjal számolt, és a rezsióradíj kiszámításakor egyes költségeket milyen összeggel és módon vett figyelembe.
+tevékenységre (a továbbiakban együtt: vagyonvédelmi szolgáltatási tevékenység) irányuló közbeszerzési eljárásban az ajánlatkérő a közbeszerzésekről szóló 2015. évi CXLIII. törvény 72. § (1) bekezdése szerinti indokolás kérése keretében köteles arra vonatkozóan is tájékoztatást kérni, hogy az ajánlattevő ajánlatában milyen összegű rezsióradíjjal számolt, és a rezsióradíj kiszámításakor egyes költségeket milyen összeggel és módon vett figyelembe.
 
 ### VI/C. Fejezet — A TÖMEGRENDEZVÉNY SZERVEZŐJÉRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 

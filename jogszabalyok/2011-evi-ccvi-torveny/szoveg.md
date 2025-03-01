@@ -38,7 +38,7 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (5) bekezdése al
 
 3. § (1) A lelkiismereti és vallásszabadság gyakorlását az oktatási, egészségügyi, szociális, család-, gyermek- és ifjúságvédelmi intézményben ellátott, valamint a büntetés-végrehajtási intézetben fogva tartott számára egyéni és közösségi szinten is lehetővé kell tenni.
 
-(2) A lelkiismereti és vallásszabadság joga a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban, valamint a honvédek jogállásáról szóló kormányrendelet szerinti jogviszonyban állók számára szolgálatteljesítésük során – a szervezet működési rendjével és a honvédelmi kötelezettség teljesítésével összhangban – szabadon gyakorolható.
+(2) A lelkiismereti és vallásszabadság joga a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti jogviszonyban, valamint a honvédek jogállásáról szóló kormányrendelet szerinti jogviszonyban állók számára szolgálatteljesítésük során – a szervezet működési rendjével és a honvédelmi kötelezettség teljesítésével összhangban – szabadon gyakorolható.
 
 4. § A lelkiismereti és vallásszabadság joga kommunikációs eszköz útján is kifejezésre juttatható.
 
