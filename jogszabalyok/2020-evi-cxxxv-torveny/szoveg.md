@@ -73,7 +73,7 @@ kivéve, ha a végrehajtásra az állami adó és vámhatóság megkeresése meg
 
 (2) Általános hatáskörű foglalkoztatás-felügyeleti hatóság a Kormány rendeletében kijelölt hatóság. Az általános hatáskörű foglalkoztatás-felügyeleti hatóság jogosult eljárni minden olyan ügyben, amely nem tartozik törvényben vagy a Kormány rendeletében meghatározott más hatóság hatáskörébe.
 
-(3) Különös hatáskörű foglalkoztatásfelügyeleti hatóság a honvédelemért felelős miniszter irányítása és felügyelete alá tartozó foglalkoztató foglalkoztatásfelügyeletét, a rendvédelmi szerv foglalkoztatásfelügyeletét, vagy a büntetés-végrehajtási intézetekben fogvatartottak büntetés-végrehajtási jogviszony keretében történő munkáltatásának foglalkoztatásfelügyeletét ellátó, a Kormány rendeletében kijelölt hatóság, továbbá a bányafelügyelet.
+(3) Különös hatáskörű foglalkoztatásfelügyeleti hatóság a honvédelemért felelős miniszter irányítása és felügyelete alá tartozó foglalkoztató foglalkoztatásfelügyeletét, a rendvédelmi szerv foglalkoztatásfelügyeletét, a polgári nemzetbiztonsági szolgálatok foglalkoztatásfelügyeletét, vagy a büntetés-végrehajtási intézetekben fogvatartottak büntetés-végrehajtási jogviszony keretében történő munkáltatásának foglalkoztatásfelügyeletét ellátó, a Kormány rendeletében kijelölt hatóság, továbbá a bányafelügyelet.
 
 (4) A foglalkoztatás-felügyeleti hatóság jogosult
 

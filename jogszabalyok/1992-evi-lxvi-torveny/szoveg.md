@@ -490,7 +490,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (4) Az általános politikai koordinációért felelős miniszternek az (1) bekezdésen alapuló adatkezelésére a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény 5. és 6. §-ában, valamint 13–15. §-ában foglaltakat megfelelően alkalmaznia kell.
 
-19/B. § A közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó foglalkoztatási jogviszonyban a foglalkoztató szerv
+19/B. § A közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó foglalkoztatási jogviszonyban a foglalkoztató szerv
 
 - a) az általa törvény alapján vezetett személyügyi nyilvántartás adattartalmának ellenőrzése céljából, valamint
 - b) a jognyilatkozatok elektronikus dokumentumban történő, törvény szerinti közlése, illetve ehhez kapcsolódva az általa foglalkoztatottal való elektronikus kapcsolattartás folyamatos biztosítása céljából

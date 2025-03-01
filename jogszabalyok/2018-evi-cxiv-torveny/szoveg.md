@@ -371,7 +371,7 @@ hatályos.
 - b) áthelyezéssel az e törvény és
   - ba) a közszolgálati tisztviselőkről szóló törvény,
   - bb) a közalkalmazottak jogállásáról szóló törvény,
-  - bc) a hivatásos és szerződéses katonák szolgálati viszonyát, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát szabályozó jogszabályok,
+  - bc) a hivatásos és szerződéses katonák szolgálati viszonyát, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának szolgálati jogviszonyát szabályozó jogszabályok,
   - bd) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény
   - be) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény
   - bf) az egészségügyi szolgálati jogviszonyról szóló törvény
@@ -1258,7 +1258,7 @@ vonatkozó szabályok szerint kell figyelembe venni.
 - i) az állami vezetői szolgálati jogviszonyban,
 - j) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban,
 - k) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, valamint munkaviszonyban,
-- l) a honvédelmi szervezetnél, a rendvédelmi szervnél, illetve az állami adó- és vámhatóságnál munkaviszonyban,
+- l) a honvédelmi szervezetnél, a rendvédelmi feladatokat ellátó szervnél, a polgári nemzetbiztonsági szolgálatnál, illetve az állami adó- és vámhatóságnál munkaviszonyban,
 - m) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban,
 - n) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) és a végrehajtására kiadott rendelet szerinti egészségügyi szolgálati jogviszonyban,
 - o) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény. 2019. január 1. és 2019. december 31. között hatályos 1. mellékletében meghatározott gazdasági társaságnál, annak jogelődjénél vagy jogutódjánál munkaviszonyban

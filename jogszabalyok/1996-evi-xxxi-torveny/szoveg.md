@@ -628,7 +628,7 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 39. § (1) Az önkormányzati és a létesítményi tűzoltó, valamint az önkéntes tűzoltó egyesület tagja a ruházati és öltözködési szabályzatnak megfelelő egyenruha viselésére jogosult.
 
-(2) A viselt egyenruha a Magyar Honvédség, a rendvédelmi szervek vagy más hatóság tagjainak egyenruhájához való hasonlósága miatt megtévesztésre nem lehet alkalmas.
+(2) A viselt egyenruha a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok vagy más hatóság tagjainak egyenruhájához való hasonlósága miatt megtévesztésre nem lehet alkalmas.
 
 (3) Az önkormányzati és a létesítményi tűzoltó, valamint az önkéntes tűzoltó egyesület tagja a hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rangjelzést nem használhat, illetve gépjárművön csak az önkormányzati, illetve létesítményi tűzoltóság feliratot helyezheti el, az önkéntes vagy létesítményi tűzoltóság bejegyzett elnevezésével.
 

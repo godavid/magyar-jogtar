@@ -185,7 +185,7 @@ meghatározott intézkedés.
 - c) a politikai párt irányító szervének tagja, Magyarországon a politikai párt vezető testületének tagja és tisztségviselője,
 - d) a legfelsőbb bíróság, az alkotmánybíróság és olyan magas rangú bírói testület tagja, amelynek a döntései ellen fellebbezésnek helye nincs, Magyarországon az Alkotmánybíróság, az ítélőtábla és a Kúria tagja,
 - e) a számvevőszék és a központi bank igazgatósági tagja, Magyarországon a Állami Számvevőszék elnöke és alelnöke, a Monetáris Tanács és a Pénzügyi Stabilitási Tanács tagja,
-- f) a nagykövet, az ügyvivő és a fegyveres erők magas rangú tisztviselője, Magyarországon a rendvédelmi feladatokat ellátó szerv központi szervének vezetője és annak helyettese, valamint a Honvéd Vezérkar főnöke és a Honvéd Vezérkar főnökének helyettesei,
+- f) a nagykövet, az ügyvivő és a fegyveres erők magas rangú tisztviselője, Magyarországon a rendvédelmi feladatokat ellátó szerv központi szervének vezetője és annak helyettese, a polgári nemzetbiztonsági szolgálat főigazgatója és annak helyettese, valamint a Honvéd Vezérkar főnöke és a Honvéd Vezérkar főnökének helyettesei,
 - g) többségi állami tulajdonú vállalatok igazgatási, irányító vagy felügyelő testületének tagja, Magyarországon a többségi állami tulajdonú vállalkozás ügyvezetője, irányítási vagy felügyeleti jogkörrel rendelkező vezető testületének tagja,
 - h) nemzetközi szervezet vezetője, vezetőhelyettese, vezető testületének tagja vagy ezzel egyenértékű feladatot ellátó személy.
 

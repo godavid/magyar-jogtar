@@ -204,6 +204,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
   - g) a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény,
   - h) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szerv, valamint
   - i) a Magyarország helyi önkormányzatairól szóló törvény szerinti helyi önkormányzati szervek intézményei.
+  - j) a polgári nemzetbiztonsági szolgálat.
 - 76. Szolidaritási alapon védett felhasználó:
   - a) a lakossági fogyasztó,
   - b) a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató,

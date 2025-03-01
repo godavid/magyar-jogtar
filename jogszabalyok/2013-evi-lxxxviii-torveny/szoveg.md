@@ -795,7 +795,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (3) Ha az idézett személy ismételt idézésre sem jelenik meg, és távolmaradását nem menti ki, elővezettethető. Az elővezetés foganatosítását a körözési eljárást lefolytató szerv vezetője rendelheti el.
 
-(4) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség hivatásos vagy szerződéses állományú tagja, a rendvédelmi szervek hivatásos állományú tagja, vagy a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, az elővezetés céljából az állományilletékes parancsnokot, illetve a Nemzeti Adó- és Vámhivatal foglalkoztatottjának munkáltatóját kell megkeresni.
+(4) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség hivatásos vagy szerződéses állományú tagja, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja, vagy a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, az elővezetés céljából az állományilletékes parancsnokot, illetve a Nemzeti Adó- és Vámhivatal foglalkoztatottjának munkáltatóját kell megkeresni.
 
 (5) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, vissza kell vonni a bírságot megállapító és az elővezetést elrendelő végzést.
 

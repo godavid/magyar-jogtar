@@ -165,7 +165,7 @@ Magyarország 2025. évi központi költségvetésének megalapozásáról
 - 5.
 - 6.
 - 7.
-- 8.
+- 8. 96. § (3) bekezdés h) pontjában a „szerv” szövegrész helyébe a „szerv és a polgári nemzetbiztonsági szolgálat” szöveg,
 - 9.
 - 10.
 - 11.
@@ -278,7 +278,21 @@ lép.
 
 #### 36. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-#### 96. §
+96. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Magyarországon bíróvá az a harmincötödik életévét betöltött személy nevezhető ki, aki
+
+- a) magyar állampolgár,
+- b) nem áll a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
+- c) egyetemi jogi végzettséggel rendelkezik,
+- d) a jogi szakvizsgát letette,
+- e) vállalja, hogy e törvény rendelkezéseinek megfelelően vagyonnyilatkozatot tesz,
+- f) legalább két évig a bíróságon kívül joggyakorlatot folytatott és legalább egy évig
+  - fa) bírósági titkárként, alügyészként, ügyvédként, közjegyzőként, jogtanácsosként dolgozott,
+  - fb) kormánytisztviselőként, illetve köztisztviselőként központi közigazgatási szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben dolgozott,
+  - fc) korábban alkotmánybíróként, bíróként, katonai bíróként, ügyészként működött,
+  - fd) nemzetközi szervezetnél vagy az Európai Unió valamely szervénél ítélkezett, vagy az igazságszolgáltatással összefüggő tevékenységet folytatott,
+- g) a pályaalkalmassági vizsgálat eredménye alapján a bírói hivatás gyakorlására alkalmas.”
 
 #### 97. §
 
@@ -294,7 +308,13 @@ lép.
 
 #### 103. §
 
-#### 104. §
+104. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény a következő 232/Y. §-sal egészül ki:
+
+„232/Y. § (1) E törvénynek Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 4. § (1) bekezdésében foglaltakat a 2025. március 1. napján és az azt követően kiírt bírói pályázati eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Módtv2.-vel megállapított 4. § (1) bekezdése helyett e törvénynek a Módtv2. 96. §-ának hatályba lépése előtti napon hatályos 4. § (1) bekezdésében foglaltakat kell alkalmazni, ha a bírói álláshelyre pályázó 2025. január 1-jét megelőzően igazságügyi szervnél szolgálati jogviszonyt létesített bírósági titkár, továbbá olyan bírósági titkár, aki 2025. január 1-jét megelőzően igazságügyi szervnél bírósági fogalmazói jogviszonyban állt.
+
+(3) E törvénynek a Módtv2.-vel megállapított 4. § (1) bekezdését a már kinevezett bírókra nem kell alkalmazni.”
 
 #### 105. §
 

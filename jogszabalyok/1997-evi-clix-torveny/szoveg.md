@@ -32,7 +32,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 jelleggel.
 
-(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben, valamint a végrehajtására kiadott rendeletben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
+(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben, valamint a végrehajtására kiadott rendeletben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
 
 (7) Az általános rendőrségi feladatok ellátására létrehozott szerv szervezetében létrehozott és működtetett fegyveres biztonsági őrség az e törvényben meghatározott keretek között támogatja az általános rendőrségi feladatok ellátására létrehozott szerv határrendészeti és határőrizeti feladatainak ellátását.
 
@@ -243,7 +243,7 @@ kezeli.
 
 8. § (1) A fegyveres biztonsági őröket formaruhával és szolgálati jelvénnyel kell ellátni.
 
-(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, valamint az Országgyűlés biztonságáról gondoskodó Országgyűlési Őrség egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
+(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlés biztonságáról gondoskodó Országgyűlési Őrség egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
 
 (3) A fegyveres biztonsági őrt az őrség működési területén, szolgálati úton, szállítmánykísérés során szolgálati igazolványa és jelvénye igazolja. A formaruhán ,,fegyveres biztonsági őr'' felirat helyezhető el. A munkáltatói hovatartozás a ruházat karrészén jelezhető.
 

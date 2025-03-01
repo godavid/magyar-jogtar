@@ -1562,7 +1562,7 @@ szükségesek.
 
 (2) A rendőrség a titkos információgyűjtés, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a rendőri jelleg leplezése érdekében, valamint a fedőokirat és a fedőintézmény védelme érdekében a közhiteles nyilvántartásokba valótlan adatot (a továbbiakban: fedőadat) jegyeztethet be.
 
-(3) Fedőintézményként költségvetési szerv nem hozható létre. Rendvédelmi szerv, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak a szervet irányító miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
+(3) Fedőintézményként költségvetési szerv nem hozható létre. A rendvédelmi szerv, a nemzetbiztonsági szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak a szervet irányító miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
 
 (4) A fedőokiratot meg kell semmisíteni, illetve a közhiteles nyilvántartásokból a fedőadatot törölni kell, ha arra a továbbiakban már nincs szükség.
 
@@ -1578,6 +1578,11 @@ szükségesek.
 (2) A rendőri szerv az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
 
 (3) Ha az adatkérés engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség engedélye nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás nem tagadható meg az ügyészségi engedély hiánya miatt. Ilyen esetben az ügyészség engedélyét utólag haladéktalanul be kell szerezni. Ha az adatkérést az ügyészség nem engedélyezi, az így beszerzett adatokat haladéktalanul törölni kell.
+
+(4) A rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője az ügyészség jóváhagyása nélkül kérhet adatszolgáltatást
+
+- a) az (1) bekezdés c) vagy e) pontjában meghatározott szolgáltatótól vagy szervezettől a velük szerződésben álló személy kilétére és a személyazonosító adataira vonatkozóan, valamint
+- b) a központi bankszámla-nyilvántartást vezető nyilvántartó szervtől, a központi bankszámla-nyilvántartásban szereplő adatokra vonatkozóan.
 
 ### Bírói engedélyhez kötött eszközök
 

@@ -89,7 +89,7 @@ is alkalmazni kell.
   - d) a nevelőszülő és a helyettes szülő;
 - 33. tényleges szolgálati idő:
   - a) a NAV-nál pénzügyőri státuszon szolgálati jogviszonyban eltöltött – naptári napban meghatározandó – idő,
-  - b) a NAV-nál vagy jogelődjénél, továbbá valamely rendvédelmi feladatokat ellátó szervnél hivatásos szolgálati jogviszonyban, illetve a Magyar Honvédségnél hivatásos és szerződéses szolgálati viszonyban eltöltött – naptári napban meghatározandó – idő, valamint
+  - b) a NAV-nál vagy jogelődjénél, továbbá valamely rendvédelmi feladatokat ellátó szervnél hivatásos szolgálati jogviszonyban, a polgári nemzetbiztonsági szolgálatnál hivatásos szolgálati jogviszonyban, illetve a Magyar Honvédségnél hivatásos és szerződéses szolgálati viszonyban eltöltött – naptári napban meghatározandó – idő, valamint
   - c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati idő.
 - 33a. tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti jogviszonyban áll,
 - 34. tisztviselő: a tisztviselői munkakört betöltő, tisztviselői státuszú foglalkoztatott;
@@ -621,7 +621,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 #### 39. § [Szolgálati jogviszony létesítése áthelyezéssel]
 
-(1) A szolgálati jogviszony a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti kormányzati szolgálati jogviszonyból, a rendvédelmi feladatokat ellátó szervekkel fennálló hivatásos szolgálati jogviszonyból (a továbbiakban: hivatásos szolgálati jogviszony), vagy a Magyar Honvédség hivatásos és szerződéses katonai állományából áthelyezéssel is létesíthető, ebben az esetben próbaidő kikötésére – a (2) bekezdésben foglalt kivétellel – nem kerül sor.
+(1) A szolgálati jogviszony a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti kormányzati szolgálati jogviszonyból, a rendvédelmi feladatokat ellátó szervekkel vagy a polgári nemzetbiztonsági szolgálatokkal fennálló hivatásos szolgálati jogviszonyból (a továbbiakban: hivatásos szolgálati jogviszony), vagy a Magyar Honvédség hivatásos és szerződéses katonai állományából áthelyezéssel is létesíthető, ebben az esetben próbaidő kikötésére – a (2) bekezdésben foglalt kivétellel – nem kerül sor.
 
 (2) Ha az érintett (1) bekezdés szerinti áthelyezése időpontjában az (1) bekezdés szerinti jogviszonyában próbaidő hatálya alatt áll, úgy részére az (1) bekezdés szerinti jogviszonyban kikötött próbaidőből az áthelyezés időpontjában még hátralévő időtartamra, de legfeljebb hat hónapra kell a próbaidőt kikötni.
 
@@ -892,7 +892,7 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 
 #### 54. § [Kirendelés, vezénylés más szervhez]
 
-(1) A foglalkoztatott kormányzati, rendvédelmi vagy egyéb biztonsági érdekből a miniszter, a más szervet irányító vagy vezető miniszter, a más szerv és a NAV elnökének megállapodása alapján – beleegyezésével – munkakör vagy meghatározott feladat ellátására más szervhez kirendelhető, illetve vezényelhető.
+(1) A foglalkoztatott kormányzati, rendvédelmi, nemzetbiztonsági vagy egyéb biztonsági érdekből a miniszter, a más szervet irányító vagy vezető miniszter, a más szerv és a NAV elnökének megállapodása alapján – beleegyezésével – munkakör vagy meghatározott feladat ellátására más szervhez kirendelhető, illetve vezényelhető.
 
 (2) A más szervhez kirendelés, vezénylés legfeljebb öt évre szól. A más szervhez kirendelés, vezénylés leteltét követően újabb más szervhez kirendelésre, vezénylésre akkor kerülhet sor, ha a foglalkoztatott a más szervhez kirendelés, vezénylés megszűnése után legalább a kirendeléssel, vezénylésével megegyező időtartamban a NAV-nál került foglalkoztatásra.
 
@@ -1097,7 +1097,7 @@ A szolgálati jogviszony megszüntethető:
 - b) lemondással,
 - c) felmentéssel,
 - d) azonnali hatállyal a próbaidő alatt,
-- e) áthelyezéssel a Kttv. szerinti kormányzati szolgálati jogviszonyt és közszolgálati jogviszonyt, hivatásos szolgálati jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, közalkalmazotti jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervekhez, illetve a Magyar Honvédséghez (jogviszonyváltás),
+- e) áthelyezéssel a Kttv. szerinti kormányzati szolgálati jogviszonyt és közszolgálati jogviszonyt, hivatásos szolgálati jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, nemzetbiztonsági alkalmazotti jogviszonyt, közalkalmazotti jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervekhez, illetve a Magyar Honvédséghez (jogviszonyváltás),
 - f) a hivatalvesztés fegyelmi büntetéssel.
 
 #### 67/A. § [Speciális indokolási kötelezettség]
@@ -1312,9 +1312,9 @@ időtartama alatt.
 - a) a felmentésére a 70. § (2) bekezdés a), f) pontjában, (4) bekezdésében vagy a 142. § (7) bekezdésében meghatározott okból kerül sor,
 - b) a felmentést a 70. § (2) bekezdés d), e) pontjában, a 142. § (2) bekezdésében, vagy a 176. § (4) bekezdésében foglaltak szerint a foglalkoztatott kérelmezi.
 
-#### 76. § [Kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba, illetve a Magyar Honvédséghez történő áthelyezés]
+#### 76. § [Kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, nemzetbiztonsági alkalmazotti, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba, illetve a Magyar Honvédséghez történő áthelyezés]
 
-(1) A foglalkoztatott, a munkáltatói jogkör gyakorlója, valamint a Kttv. szerinti kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közszolgálati, közalkalmazotti, honvédelmi alkalmazotti jogviszony létrehozására feljogosított munkáltatói szerv vezetője megállapodhatnak a foglalkoztatott kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati, honvédelmi alkalmazotti jogviszonyba történő áthelyezésében.
+(1) A foglalkoztatott, a munkáltatói jogkör gyakorlója, valamint a Kttv. szerinti kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közszolgálati, közalkalmazotti, honvédelmi alkalmazotti jogviszony létrehozására feljogosított munkáltatói szerv vezetője megállapodhatnak a foglalkoztatott kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, nemzetbiztonsági alkalmazotti, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati, honvédelmi alkalmazotti jogviszonyba történő áthelyezésében.
 
 (2) A foglalkoztatott beleegyezése esetén – a miniszter és a honvédelemért felelős miniszter, vagy a NAV elnöke és a Honvéd Vezérkar főnökének döntése alapján – a Magyar Honvédség állományába áthelyezhető.
 
@@ -2325,7 +2325,7 @@ időtartamát.
 
 #### 133. § [Fizetési fokozatba történő besorolásnál figyelembe vehető jogviszonyok, fizetési fokozatban történő előmenetel]
 
-(1) A fizetési fokozatba történő besorolásnál a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, bírói, igazságügyi alkalmazotti és ügyészségi szolgálati viszonyban, kedvezményes szorzó nélkül számított hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a Kttv. 47. §-ában, illetve a Kit. 88. §-ában meghatározott ösztöndíjas jogviszonyban, munkavégzésre irányuló egyéb jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett illetmény nélküli szabadság teljes időtartamát figyelembe kell venni.
+(1) A fizetési fokozatba történő besorolásnál a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, bírói, igazságügyi alkalmazotti és ügyészségi szolgálati viszonyban, kedvezményes szorzó nélkül számított hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a Kttv. 47. §-ában, illetve a Kit. 88. §-ában meghatározott ösztöndíjas jogviszonyban, munkavégzésre irányuló egyéb jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett illetmény nélküli szabadság teljes időtartamát figyelembe kell venni.
 
 (2) Az (1) bekezdés alkalmazása szempontjából az 1992. július 1-jét megelőzően munkaviszonyban töltött időként jogszabály alapján elismert időtartamból – tekintet nélkül arra, hogy annak ideje alatt munkavégzésre irányuló jogviszony fennállt-e vagy ilyen jogviszony fennállása esetén érvényesült-e munkavégzési kötelezettség – hat hónapot be kell számítani.
 
@@ -2491,7 +2491,7 @@ kell megállapítani.
 (2) E § alkalmazásában időpótlékra jogosító szolgálati jogviszonyban eltöltött időnek kell tekinteni:
 
 - a) a NAV-nál és jogelődeinél szolgálati jogviszonyban, kormányzati szolgálati, hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszonyban és munkaviszonyban töltött időt,
-- b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, igazságügyi alkalmazotti szolgálati, bírói vagy ügyészségi szolgálati viszonyban töltött időt, ha a NAV-nál fennálló szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
+- b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, rendvédelmi igazgatási alkalmazotti, nemzetbiztonsági alkalmazotti, honvédelmi alkalmazotti, igazságügyi alkalmazotti szolgálati, bírói vagy ügyészségi szolgálati viszonyban töltött időt, ha a NAV-nál fennálló szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
 
 (3) A (2) bekezdés b) pontja alkalmazásában közvetlen kinevezés, ha az érintett jogviszonya a NAV-nál a (2) bekezdés b) pontjában meghatározott jogviszonyának megszűnését követő első munkanapon jön létre, valamint ha a jogviszony létesítésére a 39. § (3) bekezdése alkalmazásával került sor.
 
@@ -2679,7 +2679,7 @@ A jubileumi jutalomra jogosító idő megállapításánál
 - f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 - g) a Kttv., a Ktv., Ktjv., a Kjt., illetve a Kit. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 - h) az állami vezetői szolgálati és politikai szolgálati jogviszonyban és
-- i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá
+- i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, továbbá
 - j) a 39. § szerinti jogviszony-létesítés esetén a két jogviszony között,
 
 töltött időt kell figyelembe venni.
@@ -4343,8 +4343,8 @@ E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 | 17 |  |  | tábornoki kinevezés előterjesztése a köztársasági elnökhöz | X |  |
 | 18 |  |  | ezredesi előléptetés |  | X |
 | 19 |  |  | főtiszt, tiszt soron kívüli előléptetése | X | X |
-| 20 | 3. | Szolgálati jogviszonnyal kapcsolatos egyéb döntések | Tábornok Hszt. szerinti rendvédelmi szervhez történő áthelyezése | X |  |
-| 21 |  | Főtiszt, tiszt, zászlós, tiszthelyettes Hszt. szerinti rendvédelmi szervhez történő áthelyezése |  | X |
+| 20 | 3. | Szolgálati jogviszonnyal kapcsolatos egyéb döntések | Tábornok Hszt. szerinti rendvédelmi szervhez vagy polgári nemzetbiztonsági szolgálathoz történő áthelyezése | X |  |
+| 21 |  | Főtiszt, tiszt, zászlós, tiszthelyettes Hszt. szerinti rendvédelmi szervhez vagy polgári nemzetbiztonsági szolgálathoz történő áthelyezése |  | X |
 | 22 | 4. | Fegyelmi hatáskörök | Tábornok esetében rendfokozatban visszavetés, illetve hivatalvesztés fegyelmi büntetés kiszabására vonatkozó javaslat előterjesztése a köztársasági elnökhöz | X |  |
 | 23 |  |  | Rendfokozatban visszavetés, illetve hivatalvesztés fegyelmi büntetés kiszabása főtiszt, tiszt esetében |  | X |
 | 24 |  |  | Fegyelmi eljárás lefolytatása, egyéb fegyelmi büntetések kiszabása |  |  |

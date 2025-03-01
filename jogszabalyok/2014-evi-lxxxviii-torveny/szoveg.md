@@ -1909,6 +1909,8 @@ szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy
 
 van összefüggésben.
 
+(6a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a biztosító vagy a viszontbiztosító az ügyészség engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a biztosító vagy viszontbiztosító az ügyészségnek az ügyfélre vagy a biztosítási szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+
 (7) A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a biztosító vagy a viszontbiztosító az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
 (8) Nem jelenti a biztosítási titok és az üzleti titok sérelmét a felügyeleti ellenőrzési eljárás során a csoportfelügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
@@ -1919,6 +1921,8 @@ van összefüggésben.
 
 - a) a magyar bűnüldöző szerv – nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – írásban kér biztosítási titoknak minősülő adatot,
 - b) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér biztosítási titoknak minősülő adatot, valamint ha a biztosító vagy a viszontbiztosító csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti.
+
+139/A. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a biztosító vagy a viszontbiztosító a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
 
 140. § (1) Nem jelenti a biztosítási titok sérelmét a biztosító és a viszontbiztosító által a harmadik országbeli biztosítóhoz, viszontbiztosítóhoz vagy harmadik országbeli adatfeldolgozó szervezethez történő adattovábbítás abban az esetben:
 

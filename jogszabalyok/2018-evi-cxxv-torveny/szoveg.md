@@ -153,7 +153,7 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 
 - a) a honvédelemért felelős miniszter által vezetett minisztériumban, hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló kormányrendelet szerint a minisztériumba vezényelt,
 - b) a rendészetért felelős miniszter által vezetett minisztériumban a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt,
-- c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumban a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó jogviszonyban foglalkoztatott, a nemzetbiztonsági szolgálatokról szóló törvény és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt
+- c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumban a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó jogviszonyban foglalkoztatott, a nemzetbiztonsági szolgálatokról szóló törvény és a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerint a minisztériumba vezényelt
 
 személy is.
 
@@ -198,7 +198,7 @@ Ahol e törvény a miniszterelnök politikai igazgatója, a miniszterelnök nemz
 (1) A Miniszterelnöki Kormányiroda sokszorosított formában az érdekelteknek közvetlenül küldi meg
 
 - a) a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti minősített adatot tartalmazó kormányhatározatot, és
-- b) a Kormány eltérő rendelkezése hiányában az a) pont alá nem tartozó kormányhatározatot, ha az kizárólag a Kormány tagja, a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a kormánybiztos, a kormányzati főhivatal vezetője, a rendvédelmi szerv vezetője, vagy a Katonai Nemzetbiztonsági Szolgálat vezetője számára határoz meg feladatot és nem tartalmaz olyan – a központi költségvetést érintő – rendelkezést, amelyet az Alaptörvényre és az államháztartásról szóló törvényre tekintettel nyilvánosan kell közzétenni.
+- b) a Kormány eltérő rendelkezése hiányában az a) pont alá nem tartozó kormányhatározatot, ha az kizárólag a Kormány tagja, a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a kormánybiztos, a kormányzati főhivatal vezetője, a rendvédelmi szerv vezetője, a polgári nemzetbiztonsági szolgálat vezetője vagy a Katonai Nemzetbiztonsági Szolgálat vezetője számára határoz meg feladatot és nem tartalmaz olyan – a központi költségvetést érintő – rendelkezést, amelyet az Alaptörvényre és az államháztartásról szóló törvényre tekintettel nyilvánosan kell közzétenni.
 
 (2) Ha az (1) bekezdés szerinti – az érdekelteknek közvetlenül megküldött – kormányhatározat minősített adatot nem tartalmaz vagy az adat minősített jellege megszűnt, de a kormányhatározatban foglalt adat megismerése az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (2) bekezdésében meghatározott valamely közérdeket veszélyezteti, és a megtagadás alapjául szolgáló közérdek nagyobb súlyú a közérdekű adat megismerésére irányuló igény teljesítéséhez fűződő közérdeknél, ezen adat megismerése iránti igény teljesítését a megtagadás alapjául szolgáló közérdek fennállásáig, de legfeljebb a határozat érdekelteknek történő megküldésétől számított húsz évig meg kell tagadni, vagy az adat megismerésének módját korlátozni kell.
 
@@ -480,13 +480,13 @@ helyettesíti.
 
 #### 29. § [A különös szervezeti egységek]
 
-(1) A honvédelemért felelős miniszter a Magyar Honvédség irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban, valamint a rendvédelmi szervet irányító miniszter a rendvédelmi szervek irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységet is létesíthet.
+(1) A honvédelemért felelős miniszter a Magyar Honvédség irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban, a rendvédelmi szervet irányító miniszter a rendvédelmi szervek irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter a polgári nemzetbiztonsági szolgálat irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységet is létesíthet.
 
 (2) Az (1) bekezdés szerinti szervezeti egység
 
 - a) vezetésére hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló kormányrendelet szerint a minisztériumba vezényelt személy, illetve a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt személy nevezhető ki,
 - b) vezetőjét a miniszter javaslatára a miniszterelnök nevezi ki és menti fel,
-- c) vezetője a Magyar Honvédség vezetőjére vagy rendvédelmi szerv esetében az országos parancsnokra vonatkozó rendelkezések szerinti juttatásban részesül.
+- c) vezetője a Magyar Honvédség vezetőjére, rendvédelmi szerv esetében az országos parancsnokra vagy polgári nemzetbiztonsági szolgálat esetében a főigazgatóra vonatkozó rendelkezések szerinti juttatásban részesül.
 
 (3)
 
@@ -915,7 +915,7 @@ gyakorolja.
 
 (3) A központi államigazgatási szervek területi szervei – az állami adó- és vámhatóság kivételével –, továbbá a területi illetékességgel államigazgatási feladatot ellátó más szervek és személyek államigazgatási jogkörükben eljárva, illetve az általuk ellátott államigazgatási feladatokat érintően – szervezeti és szakmai önállóságuk megtartásával – a kormányhivatal koordinációs jogkörébe tartoznak.
 
-(4) Ha jogszabály kivételt nem tesz, a központi államigazgatási szervek területi szervei, továbbá a területi illetékességgel államigazgatási feladatot ellátó más szervek és személyek államigazgatási jogkörükben eljárva, illetve az általuk ellátott államigazgatási feladatokat érintően – a rendvédelmi szervek, valamint az állami adó- és vámhatóság kivételével – a kormányhivatal ellenőrzési jogkörébe tartoznak.
+(4) Ha jogszabály kivételt nem tesz, a központi államigazgatási szervek területi szervei, továbbá a területi illetékességgel államigazgatási feladatot ellátó más szervek és személyek államigazgatási jogkörükben eljárva, illetve az általuk ellátott államigazgatási feladatokat érintően – a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az állami adó- és vámhatóság kivételével – a kormányhivatal ellenőrzési jogkörébe tartoznak.
 
 (5) Ha a (2)–(4) bekezdése szerinti területi szerv illetékessége a kormányhivatal illetékességi területétől eltérő területre terjed ki, a kormányhivatal jogköreit a területi szerv székhelye szerinti kormányhivatal gyakorolja.
 
@@ -935,7 +935,7 @@ gyakorolja.
 
 #### 45. § [A véleményezés]
 
-A kormányhivatal véleményezi – a rendvédelmi szervek, valamint az állami adó- és vámhatóság kivételével – a központi államigazgatási szervek területi szervei, valamint a területi illetékességgel kizárólag államigazgatási feladatot ellátó más szervek
+A kormányhivatal véleményezi – a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az állami adó- és vámhatóság kivételével – a központi államigazgatási szervek területi szervei, valamint a területi illetékességgel kizárólag államigazgatási feladatot ellátó más szervek
 
 - a) vezetőinek kinevezését és felmentését,
 - b) létrehozására, átszervezésére, valamint jogállásuk és illetékességi területük módosítására vonatkozó előterjesztést,
@@ -943,7 +943,7 @@ A kormányhivatal véleményezi – a rendvédelmi szervek, valamint az állami 
 
 #### 46. § [A tájékozódás]
 
-(1) A kormányhivatal – a rendvédelmi szervek, valamint az állami adó- és vámhatóság kivételével – a Kormánynak alárendelt szervek bármely területi szervétől, valamint a polgármestertől és a jegyzőtől az általuk ellátott államigazgatási feladatokat érintően, valamint a területi illetékességgel államigazgatási feladatot ellátó más szervtől és személytől bármely döntést bekérhet, a szerv intézkedéséről tájékoztatást kérhet, illetve – jogszabály eltérő rendelkezése hiányában – az iratokba betekinthet.
+(1) A kormányhivatal – a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az állami adó- és vámhatóság kivételével – a Kormánynak alárendelt szervek bármely területi szervétől, valamint a polgármestertől és a jegyzőtől az általuk ellátott államigazgatási feladatokat érintően, valamint a területi illetékességgel államigazgatási feladatot ellátó más szervtől és személytől bármely döntést bekérhet, a szerv intézkedéséről tájékoztatást kérhet, illetve – jogszabály eltérő rendelkezése hiányában – az iratokba betekinthet.
 
 (2) A kormányhivatal az (1) bekezdésben meghatározott szervnél – törvénysértés észlelése esetén – egyeztető eljárást kezdeményez, ennek eredménytelensége esetén a szerv felügyeleti szervénél felügyeleti eljárást kezdeményez, ennek eredménytelensége esetén a feladatkörrel rendelkező miniszter eljárását kezdeményezi.
 
@@ -966,8 +966,8 @@ A kormányhivatal véleményezi – a rendvédelmi szervek, valamint az állami 
 A kormányhivatal
 
 - a) döntés-előkészítő és javaslattevő szervként közreműködik a Kormánynak az Alaptörvény 35. cikk (5) bekezdése szerinti indítványtételi jogosultsága, a helyi önkormányzatokért felelős miniszternek a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 128. § a) és c) pontjában, a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek az Mötv. 129. § b) és c) pontjában, valamint a szakmai irányító miniszternek az Mötv. 130. §-ában meghatározott feladatai ellátásában, a Kormánynak a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 150. § d)–e) pontjában, a nemzetiségpolitikáért felelős miniszternek az Njtv. 151. § a) pontjában, a feladat- és hatáskör szerinti miniszternek az Njtv. 152. § a) pontjában meghatározott feladatai ellátásában,
-- b) – a rendvédelmi szervek, valamint az állami adó- és vámhatóság kivételével – ellenőrzési feladatokat lát el, különös tekintettel az Ákr. végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
-- c) – a rendvédelmi szervek, valamint az állami adó- és vámhatóság kivételével – gondoskodik a területi államigazgatási szervek ellenőrzési tevékenységének összehangolásáról,
+- b) – a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az állami adó- és vámhatóság kivételével – ellenőrzési feladatokat lát el, különös tekintettel az Ákr. végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
+- c) – a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az állami adó- és vámhatóság kivételével – gondoskodik a területi államigazgatási szervek ellenőrzési tevékenységének összehangolásáról,
 - d) közigazgatási informatikai közreműködői tevékenységet lát el,
 - e) ügyfélszolgálatot működtethet,
 - f) jogszabályban meghatározottak szerint nyilvántartást vezet,
@@ -1068,8 +1068,9 @@ hozható létre.
 - a) vezényelt, hatósági vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony) vagy hatósági kirendelés alapján rendvédelmi igazgatási szolgálati jogviszonyban (a továbbiakban: rendvédelmi igazgatási szolgálati jogviszony),
 - b) a honvédek jogállásáról szóló kormányrendelet szerint vezényelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony)
 - c) kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony)
+- d) vezényelt a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonyban (a továbbiakban: nemzetbiztonsági szolgálati jogviszony)
 
-álló személlyel is azzal, hogy az a)–c) pont szerinti esetben – a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony a katonai szolgálati viszony és az adó- és vámhatósági szolgálati jogviszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony, és a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
+álló személlyel is azzal, hogy az a)–d) pont szerinti esetben – a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony a katonai szolgálati viszony, az adó- és vámhatósági szolgálati jogviszony és a nemzetbiztonsági szolgálati jogviszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony, és a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a katonai szolgálati viszony, az adó- és vámhatósági szolgálati jogviszony, valamint a nemzetbiztonsági szolgálati jogviszony továbbra is fennáll.
 
 (3a) Ha a (3) bekezdés szerint vezénylés vagy az 1. § (3) bekezdése szerinti beosztás útján szakmai vezetői álláshely betöltésére kerül sor, nem kell alkalmazni a 3. § (6) bekezdés b) pontját.
 
@@ -1717,12 +1718,13 @@ magyar állampolgárral létesíthető és tartható fenn.
 - d) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll;
 - e) aki a kormányzati szolgálati jogviszony alapján végzett tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
 
-(6) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a kormányzati szolgálati jogviszony létesítését jóváhagyta.
+(6) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető, illetve tartható fenn azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a kormányzati szolgálati jogviszony létesítését, illetve fenntartását jóváhagyta.
 
-(7) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
+(7) Ha a kormánytisztviselő nemzetbiztonsági ellenőrzés alá eső személy vagy a kormányzati szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, illetőleg ha a jogviszony létrehozására (6) bekezdés szerint előzetes engedéllyel került sor és
 
-- a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
-- b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá,
+- a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá, vagy
+- b) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre, beosztásba nem helyezte át, vagy
+- c) felülvizsgálati eljárás során kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre, beosztásba nem helyezte át,
 
 a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
@@ -2277,7 +2279,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 
 (9) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya megszűnését követő 30 napon belül első jogviszonyként újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
 
-(10) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) szerinti közszolgálati jogviszonyban, közalkalmazotti, adó- és vámhatósági szolgálati, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyban állt, és e jogviszonyának megszűnését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát e törvény alkalmazásában folyamatosnak kell tekinteni.
+(10) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) szerinti közszolgálati jogviszonyban, közalkalmazotti, adó- és vámhatósági szolgálati, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti, rendvédelmi igazgatási szolgálati, nemzetbiztonsági szolgálati vagy nemzetbiztonsági alkalmazotti jogviszonyban állt, és e jogviszonyának megszűnését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát e törvény alkalmazásában folyamatosnak kell tekinteni.
 
 #### 105. § [A kormányzati szolgálati jogviszony megszüntetése]
 
@@ -2291,7 +2293,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 
 (2) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonyának megszüntetését követő 30 napon belül első jogviszonyként újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
 
-(3) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, a Küt. szerinti közszolgálati jogviszonyban, közalkalmazotti, adó- és vámhatósági szolgálati, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyban állt, és e jogviszonyának megszüntetését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát folyamatosnak kell tekinteni.
+(3) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, a Küt. szerinti közszolgálati jogviszonyban, közalkalmazotti, adó- és vámhatósági szolgálati, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti, rendvédelmi igazgatási szolgálati, nemzetbiztonsági szolgálati vagy nemzetbiztonsági alkalmazotti szolgálati jogviszonyban állt, és e jogviszonyának megszüntetését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát folyamatosnak kell tekinteni.
 
 #### 106. § [A kormánytisztviselő lemondása]
 
@@ -2461,7 +2463,7 @@ gyakorolhatja.
 (6) A (3) és (4) bekezdés alkalmazása szempontjából kormányzati szolgálati jogviszonyban töltött időnek minősül
 
 - a) a jogelőd foglalkoztatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál –,
-- b) a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati viszonyban, honvédelmi alkalmazotti jogviszonyban, illetve a költségvetési szervnél munkaviszonyban,
+- b) a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati viszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, illetve a költségvetési szervnél munkaviszonyban,
 - c) átminősítés esetén a hivatásos szolgálati vagy katonai szolgálati viszonyban,
 - d) a Kttv. szerinti szervnél munkaviszonyban
 
@@ -2555,7 +2557,7 @@ időtartama alatt.
 
 alakul át.
 
-(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közszolgálati, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy katonai szolgálati jogviszonnyá, honvédelmi alkalmazotti jogviszonnyá, rendvédelmi igazgatási szolgálati jogviszonnyá vagy munkaviszonnyá alakul át.
+(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közszolgálati, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy katonai szolgálati jogviszonnyá, honvédelmi alkalmazotti jogviszonnyá, rendvédelmi igazgatási szolgálati jogviszonnyá, nemzetbiztonsági szolgálati, nemzetbiztonsági alkalmazotti vagy munkaviszonnyá alakul át.
 
 #### 115. § [Eljárás a jogviszony megszűnése, megszüntetése esetén]
 
@@ -3133,7 +3135,7 @@ illetménynek megfelelő összeg.
 - e) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban töltött időt,
 - f) az e törvény, a Kttv., a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény és a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
 - g) a 104. § (9) bekezdése és a 105. § (2) bekezdése szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot,
-- h)
+- h) a nemzetbiztonsági szolgálati jogviszonyban és nemzetbiztonsági alkalmazotti jogviszonyban töltött időt,
 - i) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban töltött időt
 - j) az egészségügyi szolgálati jogviszonyban töltött időt
 
@@ -4014,6 +4016,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 - f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló kormányrendelet vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
 - g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 - h) közjegyzői szolgálata a politikai felsővezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
+- i) nemzetbiztonsági szolgálati jogviszonya a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 
 (3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár, a miniszterelnök politikai igazgatója és a miniszterelnök nemzetbiztonsági főtanácsadója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.
 
@@ -4564,7 +4567,7 @@ gyakorolja.
 
 (2) A miniszteri kabinetet vezető kabinetfőnök felett a munkáltatói jogokat a miniszter, a politikai igazgatói kabinetet vezető kabinetfőnök felett a munkáltatói jogokat a miniszterelnök politikai igazgatója, az államtitkári kabinetet vezető kabinetfőnök felett az alapvető munkáltatói jogokat a miniszter, az egyéb munkáltatói jogokat az államtitkár gyakorolja.
 
-(3) A 3. § (11) bekezdése szerint a honvédek jogállásáról szóló kormányrendelet alapján a honvédelemért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény alapján a rendészetért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök, illetve a nemzetbiztonsági szolgálatokról szóló törvény és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény alapján a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök jogviszonyára a honvédek jogállásáról szóló kormányrendeletet, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényt, illetve a nemzetbiztonsági szolgálatokról szóló törvényt kell alkalmazni.
+(3) A 3. § (11) bekezdése szerint a honvédek jogállásáról szóló kormányrendelet alapján a honvédelemért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény alapján a rendészetért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök, illetve a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény alapján a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumba vezényelt kabinetfőnök jogviszonyára a honvédek jogállásáról szóló kormányrendeletet, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényt, illetve a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvényt kell alkalmazni.
 
 #### 218. § [A kabinetfőnöki munkáltatói joggyakorlás]
 
@@ -4836,7 +4839,7 @@ kell érteni.
 
 (2) Az igazgatót a 33/B. § (1) bekezdése szerinti államtitkár javaslatára a miniszterelnök négy évre nevezi ki. A 33/B. § (1) bekezdése szerinti államtitkár a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
 
-(3) Igazgatónak kinevezhető a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban álló, a 29/B. § (1) bekezdése szerinti szervezetbe vezényelt személy is azzal, hogy ebben az esetben nem kell teljesülnie a 3. § (6) bekezdés a) pontjában meghatározott feltételnek.
+(3) Igazgatónak kinevezhető a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban álló vagy a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonyban álló, a 29/B. § (1) bekezdése szerinti szervezetbe vezényelt személy is azzal, hogy ebben az esetben nem kell teljesülnie a 3. § (6) bekezdés a) pontjában meghatározott feltételnek.
 
 (4) Az igazgató jogviszonya a (2) bekezdés szerinti időtartam alatt felmentéssel nem szüntethető meg, kivéve, ha
 
@@ -5155,7 +5158,7 @@ illetménynek megfelelő összeg.
 
 (1) A kormányzati igazgatási szervnél foglalkoztatott munkavállalók munkaviszonyára az Mt.-t az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, a 95. § (5)–(7) bekezdését, valamint a 104. § (1) bekezdés k)–m) pontját alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult.
+(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, 82. § (7)–(9) bekezdését, a 95. § (5)–(7) bekezdését, a 104. § (1) bekezdés k)–m) pontját és a 107. § (2) bekezdés f) pontját alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult, a munkaviszonynak 107. § (2) bekezdés f) pontja alapján történő megszüntetése esetén felmondási időre és végkielégítésre nem jogosult.
 
 (3) A munkáltató működésével összefüggő okból történő felmondás esetén a munkavállaló a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletben jogosult, a végkielégítést pedig a felmondási idő utolsó napján kell kifizetni.
 
@@ -5242,7 +5245,7 @@ illetménynek megfelelő összeg.
 - 15. kormánytisztviselő: a 2. §-ban felsorolt kormányzati igazgatási szervek feladat- és hatáskörében eljáró szakmai felsővezető és szakmai vezető és ügyintéző, aki előkészíti a kormányzati igazgatási szerv feladat- és hatáskörébe tartozó ügyeket érdemi döntésre, illetve – felhatalmazás esetén – a döntést kiadmányozza;
 - 16. közigazgatási szerv: a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szerv és a kormányzati igazgatási szerv;
 - 17. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
-- 18. közigazgatási gyakorlat: a közigazgatási szervnél, illetve annak jogelőd szervénél kormánytisztviselői jogviszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, állami szolgálati jogviszonyban, adó- ás vámhatósági szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött idő, tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlat;
+- 18. közigazgatási gyakorlat: a közigazgatási szervnél, illetve annak jogelőd szervénél kormánytisztviselői jogviszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, állami szolgálati jogviszonyban, adó- ás vámhatósági szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött idő, tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem, a polgári nemzetbiztonsági szolgálatnál, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlat;
 - 19. kormányzati igazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a kormányzati igazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
 - 20. közszolgálati szabályzat:
   - a) a kormányzati igazgatási szerv hivatali szervezetének vezetője által – a jogalkotásról szóló 2010. évi CXXX. törvény alkalmazása szempontjából közjogi szervezetszabályozó eszközként – az e törvényben meghatározott kérdésekben, valamint a hivatali szervezet vezetőjének általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben kiadott normatív utasítás, vagy
@@ -5265,7 +5268,7 @@ illetménynek megfelelő összeg.
   - b) az, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
   - c) a gyám,
   - d) a nevelőszülő és a helyettes szülő;
-- 34. további jogviszony: különösen a közszolgálati jogviszony, a fennálló kormányzati szolgálati jogviszony esetén másik kormányzati szolgálati jogviszony, az adó- és vámhatósági szolgálati jogviszony, a munkaviszony, a politikai szolgálati jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony.
+- 34. további jogviszony: különösen a közszolgálati jogviszony, a fennálló kormányzati szolgálati jogviszony esetén másik kormányzati szolgálati jogviszony, az adó- és vámhatósági szolgálati jogviszony, a munkaviszony, a politikai szolgálati jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a nemzetbiztonsági szolgálati jogviszony, a nemzetbiztonsági alkalmazotti jogviszony, a bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony.
 
 (2)
 

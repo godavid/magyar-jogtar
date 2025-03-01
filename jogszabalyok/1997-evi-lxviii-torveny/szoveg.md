@@ -14,7 +14,7 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 (2) Az (1) bekezdés a)–c) pontjában megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
-(3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
+(3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
 (4) E törvény hatálya alá tartozó
 
@@ -1205,8 +1205,8 @@ okozta.
 (4) Részben vagy egészben igazságügyi szolgálati időként lehet figyelembe venni
 
 - a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének napjától számított időt,
-- b) igazságügyi szakértő, szakértő gyakornok és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, egészségügyi szolgálati, köznevelési foglalkoztatotti, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
-- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, egészségügyi szolgálati jogviszony, köznevelési foglalkoztatotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
+- b) igazságügyi szakértő, szakértő gyakornok és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, egészségügyi szolgálati, köznevelési foglalkoztatotti, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, nemzetbiztonsági alkalmazotti jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
+- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, nemzetbiztonsági alkalmazotti jogviszony, honvédelmi alkalmazotti jogviszony, egészségügyi szolgálati jogviszony, köznevelési foglalkoztatotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
 
 (5) A (4) bekezdés alkalmazásakor a beszámítandó időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás az adott év első napjával történjék. A beszámításnál figyelemmel kell lenni a helyes bérarányok fenntartására.
 
@@ -1250,7 +1250,7 @@ okozta.
 
 ### A bíróságon foglalkoztatott ügyintézők és a bíróságon foglalkoztatott vezetők besorolása, illetmény megállapítása és érdemeik elismerése
 
-107. § (1) A bíróságon foglalkoztatott ügyintézők tekintetében – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
+108. § (1) A bíróságon foglalkoztatott ügyintézők tekintetében – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
 
 - a) ügyintéző, ezen belül:
   - aa) igazságügyi-tanácsos I.,
@@ -1269,7 +1269,7 @@ okozta.
   - ad) igazságügyi-főtanácsos V.,
 - b) vezető.
 
-108. § (1) A bíróságon foglalkoztatott ügyintézőt a munkáltatói jogkör gyakorlója sorolja be – a (2) bekezdésben foglaltak kivételével – a 8. mellékletben foglalt Illetménytábla igazságügyi-tanácsos I., igazságügyi-tanácsos II., igazságügyi-főtanácsos I., igazságügyi-főtanácsos II. vagy igazságügyi-főtanácsos III. besorolási kategóriába.
+109. § (1) A bíróságon foglalkoztatott ügyintézőt a munkáltatói jogkör gyakorlója sorolja be – a (2) bekezdésben foglaltak kivételével – a 8. mellékletben foglalt Illetménytábla igazságügyi-tanácsos I., igazságügyi-tanácsos II., igazságügyi-főtanácsos I., igazságügyi-főtanácsos II. vagy igazságügyi-főtanácsos III. besorolási kategóriába.
 
 (2) A Kúrián, az OBH-nál és az OBT-nél foglalkoztatott ügyintézőt a munkáltatói jogkör gyakorlója sorolja be a 9. mellékletben foglalt Illetménytábla igazságügyi-tanácsos III., igazságügyi-tanácsos IV., igazságügyi-főtanácsos IV. vagy igazságügyi-főtanácsos V. besorolási kategóriába.
 
@@ -1388,7 +1388,7 @@ szerinti besorolása alapján havonta a 9. melléklet szerinti illetményre jogo
 
 (4) Ha a szolgálati viszony az igazságügyi alkalmazott halála miatt szűnik meg, a jubileumi jutalmat – a (3) bekezdés alkalmazásával – az örökösének kell kifizetni.
 
-(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a bírói szolgálati viszonyban, az ügyészségi szolgálati viszonyban, a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, az egészségügyi szolgálati jogviszonyban, a köznevelési foglalkoztatotti jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
+(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a bírói szolgálati viszonyban, az ügyészségi szolgálati viszonyban, a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, az egészségügyi szolgálati jogviszonyban, a köznevelési foglalkoztatotti jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
 
 (5a) Az (5) bekezdésben foglaltakon kívül jubileumi jutalomra jogosító időnek számít az ügyvédi tevékenység, valamint a közjegyzői és a bírósági végrehajtói szolgálat időtartama is, kivéve az ügyvédi tevékenység, illetve a közjegyzői, valamint a bírósági végrehajtói szolgálat szünetelésének idejét.
 
@@ -1511,7 +1511,7 @@ szerinti besorolása alapján havonta a 9. melléklet szerinti illetményre jogo
 
 (2a) Az egyéb igazságügyi szervnél foglalkoztatott igazságügyi alkalmazott tekintetében az (1)–(2) bekezdésben foglaltak mellett az Mt. 86. § (3) bekezdés a) pontját is megfelelően alkalmazni kell.
 
-(3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, valamint a honvédek jogállásáról szóló kormányrendelet rendelkezéseit is megfelelően alkalmazni kell.
+(3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény, valamint a honvédek jogállásáról szóló kormányrendelet rendelkezéseit is megfelelően alkalmazni kell.
 
 (4) Ha az igazságügyi alkalmazott nemzetközi szervnél vagy az Európai Unió szervénél jogviszonyt létesít, igazságügyi alkalmazotti szolgálati jogviszonya az új jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
 

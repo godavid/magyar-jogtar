@@ -32,14 +32,14 @@ a következő törvényt alkotja:
 végzése;
 
 - 7. ingatlan-nyilvántartás átalakítása: az ingatlan-nyilvántartásról szóló törvényben meghatározott eljárás;
-- 8. különleges rendeltetésű ingatlan: a honvédelmi, rendvédelmi, műemlékvédelmi és természetvédelmi, illetve sajátos rendeltetése miatt jogszabályban ekként meghatározott ingatlan;
+- 8. különleges rendeltetésű ingatlan: a honvédelmi, rendvédelmi, nemzetbiztonsági, műemlékvédelmi és természetvédelmi, illetve sajátos rendeltetése miatt jogszabályban ekként meghatározott ingatlan;
 - 9. földi, légi és űrtávérzékelés: mérések végrehajtására, illetve térképkészítésre alkalmas földi, légi és űr távérzékelési adatgyűjtés, amelynek célja és eredménye geodéziai, térképészeti, geofizikai, geológiai és navigációs adatok gyűjtése;
 - 10.
 - 11. nemzeti téradat-infrastruktúra: azon téradatok és térinformatikai rendszerek összessége, amelyek közfeladatok ellátását szolgálják;
 - 12. távérzékelés: olyan adatnyerési eljárások, amelyek az adatokat a vizsgált objektummal létrehozott közvetlen, fizikai kapcsolat nélkül állítják elő;
 - 13. téradat: valamely helymeghatározó, vagy helyhez köthető adat;
 - 14. térképi adatbázis: térinformatikai rendszerben kezelhető grafikus, numerikus és leíró adatok összessége;
-- 15. honvédelmi célú térképellátás: a Magyar Honvédségnek, a Katonai Nemzetbiztonsági Szolgálatnak, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézménynek, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karának, a katonai légügyi hatósági feladatokat ellátó szervezetnek, továbbá különleges jogrendre való felkészülés érdekében a rendvédelmi és a védelmi igazgatási szerveknek, a honvédelmi felkészülés feladataiban részt vevő egyéb központi közigazgatási szerveknek és azok területi szerveinek az ország védelmi feladataihoz szükséges, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok adatbázisaival, térképekkel, térképészeti információkkal, távérzékelési anyagokkal, geodéziai adatokkal történő ellátása.
+- 15. honvédelmi célú térképellátás: a Magyar Honvédségnek, a Katonai Nemzetbiztonsági Szolgálatnak, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézménynek, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karának, a katonai légügyi hatósági feladatokat ellátó szervezetnek, továbbá különleges jogrendre való felkészülés érdekében a polgári nemzetbiztonsági szolgálatoknak, valamint a rendvédelmi és a védelmi igazgatási szerveknek, a honvédelmi felkészülés feladataiban részt vevő egyéb központi közigazgatási szerveknek és azok területi szerveinek az ország védelmi feladataihoz szükséges, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok adatbázisaival, térképekkel, térképészeti információkkal, távérzékelési anyagokkal, geodéziai adatokkal történő ellátása.
 - 16. GNSS (Global Navigation Satellite Systems): a globális műholdas helymeghatározó rendszerek közös elnevezése.
 
 #### 1/A.
@@ -218,7 +218,7 @@ adatbázisából
 
 a honvédelem térképészeti támogatásáért felelős szervtől – a 32. § (3) bekezdése szerinti továbbfelhasználási engedély nélkül – díjmentesen igényelhet adatot.
 
-(15) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a rendvédelmi és a védelmi igazgatási szervek, valamint a különleges jogrend alatti feladatellátásban és az országmozgósítás feladataiban részt vevő egyéb központi államigazgatási szervek és azok területi szervei minősített időszakra való felkészülésre a honvédelem térképészeti támogatásáért felelős szervtől díjmentesen igényelhetnek adatot.
+(15) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a polgári nemzetbiztonsági szolgálatok, a rendvédelmi és a védelmi igazgatási szervek, valamint a különleges jogrend alatti feladatellátásban és az országmozgósítás feladataiban részt vevő egyéb központi államigazgatási szervek és azok területi szervei minősített időszakra való felkészülésre a honvédelem térképészeti támogatásáért felelős szervtől díjmentesen igényelhetnek adatot.
 
 (16) A (13)–(15) bekezdésben meghatározott szervek részére az adatszolgáltatás rendjét a honvédelemért felelős miniszter rendeletben szabályozza.
 
@@ -328,7 +328,7 @@ díj-, költség- és térítésmentesen hozzáférhet.
 8. § A 3. § (1) bekezdés d)–f) pontjában meghatározott adatbázisokat kötelező alkalmazni a közfeladatok ellátását támogató térinformatikai rendszerek geometriai alapjainak biztosításához, különös tekintettel:
 
 - a) a hatósági nyilvántartások,
-- b) a honvédelmi, katasztrófavédelmi és rendvédelmi tevékenység,
+- b) a honvédelmi, katasztrófavédelmi, nemzetbiztonsági és rendvédelmi tevékenység,
 - c) a helyi önkormányzatok feladatainak ellátásához szükséges tevékenység,
 - d) a közlekedési, a hírközlési, az erdő- és vízgazdálkodási tevékenység,
 - e) az infrastruktúra-fejlesztés,

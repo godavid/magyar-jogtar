@@ -333,7 +333,7 @@ nyilvánosságra hozott mű
 
 (6) A szerző munkaviszonyból folyó kötelessége teljesítéseként megalkotott művel kapcsolatos jognyilatkozatokat írásba kell foglalni.
 
-(7) A munkaviszonyból folyó kötelesség teljesítéseképpen elkészített műre vonatkozó rendelkezéseket megfelelően alkalmazni kell, ha közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy, vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a művet.
+(7) A munkaviszonyból folyó kötelesség teljesítéseképpen elkészített műre vonatkozó rendelkezéseket megfelelően alkalmazni kell, ha közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban vagy szolgálati viszonyban foglalkoztatott személy, vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a művet.
 
 ### A védelmi idő
 

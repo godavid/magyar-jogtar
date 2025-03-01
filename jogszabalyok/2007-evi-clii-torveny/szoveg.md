@@ -19,8 +19,9 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
   - f) aki közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban áll,
   - g) aki adó- és vámhatósági szolgálati jogviszonyban áll,
   - h) aki ügyészségi szolgálati viszonyban áll,
-  - i) az igazságügyi alkalmazott, valamint
-  - j) a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja (a továbbiakban: a Magyar Nemzeti Bank alkalmazottai);
+  - i) az igazságügyi alkalmazott,
+  - j) a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja, valamint
+  - k) aki nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban áll;
 - 2. hozzátartozó: a házastárs, az élettárs, valamint a közös háztartásban élő szülő, gyermek, a házastárs gyermeke, ideértve az örökbefogadott és a nevelt gyermeket is.
 
 ### A vagyonnyilatkozat-tételre kötelezett
@@ -36,7 +37,7 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 (2) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett, aki
 
 - a) közigazgatási államtitkár, helyettes államtitkár,
-- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezetői beosztást, valamint a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél vagy polgári nemzetbiztonsági szolgálatnál osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezetői beosztást, valamint a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
 - c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
 - d) vezetői munkakört betöltő köztisztviselő vagy kormánytisztviselő,
 - e) jogszabály alapján nemzetbiztonsági ellenőrzés alá eső köztisztviselői vagy kormánytisztviselői munkakört tölt be,

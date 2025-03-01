@@ -98,7 +98,46 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 39. §
 
-#### 40. §
+40. § (1) Az Áfa tv. 129. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az importáló helyett annak közvetett vámjogi képviselője gyakorolhatja a termék importjához kapcsolódó előzetesen felszámított adó levonását, ha
+
+- a) az importálót az adólevonási jog keletkezésekor és azt követően az adólevonási jog egyébként korlátozás nélkül megilleti,
+- b) az a) és c) pontban említett feltétel teljesüléséről az importáló nyilatkozik vámjogi képviselőjének,
+- c) az importáló a levonási jog keletkezésének időpontját magában foglaló adó-megállapítási időszakban a bevallási kötelezettségét havi gyakorisággal teljesítő adóalany,
+- d) az importáló a levonási jog keletkezésének időpontját magában foglaló adó-megállapítási időszakban nem minősül az Art. rendelkezései szerint kockázatos adózónak, valamint
+- e) a közvetett vámjogi képviselet ellátására vonatkozó szerződés megkötésének időpontjában vagy a levonási jog keletkezésének időpontját magában foglaló adó-megállapítási időszakban az Art. rendelkezései szerint megbízható adózónak nem minősülő importálóra vonatkozóan a közvetett vámjogi képviselő által az (1a) bekezdés szerinti időpontokban elvégzett partnerellenőrzés eredménye alapján nem merül fel adókockázat, és a partnerellenőrzés eredményéről a közvetett vámjogi képviselő az (1b) bekezdés szerint adatot szolgáltat.”
+
+(2) Az Áfa tv. 129. §-a a következő (1a)–(1d) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdés e) pontjában említett partnerellenőrzést a közvetett vámjogi képviselet ellátására vonatkozó szerződés megkötését megelőzően és ezt követően, ha ugyanezen importáló képviseletében több importálás történik, havi rendszerességgel, a hónap utolsó napjáig kell elvégezni. Nem kell a partnerellenőrzést elvégezni abban a hónapban, amikor az importáló képviseletében importálás nem történik.
+
+(1b) A partnerellenőrzés elvégzésének tényéről és eredményéről a közvetett vámjogi képviselő haladéktalanul, de legkésőbb az (1a) bekezdésben említett szerződés megkötéséig és a tárgyhónapot követő hónap 10. napjáig elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére. A határidő elmulasztása miatt igazolási kérelem benyújtásának nincs helye.
+
+(1c) Az (1) bekezdés e) pontja szerinti partnerellenőrzés vizsgálati szempontjait az állami adó- és vámhatóság a honlapján teszi közzé.
+
+(1d) Ha az importáló rendelkezik a 156. § szerinti engedéllyel, akkor az (1) bekezdés c)–e) pontjában foglalt feltételektől függetlenül az importáló helyett annak közvetett vámjogi képviselője gyakorolhatja a termék importjához kapcsolódó előzetesen felszámított adó levonását.”
+
+(3) Az Áfa tv. 129. § (2) bekezdésének helyébe a következő rendelkezés lép:
+
+„(2) A közvetett vámjogi képviselő az (1) bekezdés szerint megszerzett adólevonási jogot – az adólevonási jog gyakorlásának egyéb feltételeitől függetlenül – abban az esetben gyakorolhatja, ha
+
+- a) személyes rendelkezésére áll az (1) bekezdés b) pontjában említett, nevére szóló nyilatkozat,
+- b) belföldön nyilvántartásba vett adóalanyként nincs olyan, e törvényben szabályozott jogállása, amely adólevonási jogát egyébként korlátozza, valamint
+- c) a levonási jog gyakorlásának időpontjában az Art. rendelkezései szerint megbízható adózónak minősül.”
+
+(4) Az Áfa tv. 129. §-a a következő (4)–(6) bekezdésekkel egészül ki:
+
+„(4) Az állami adó- és vámhatóság a közvetett vámjogi képviselő elektronikusan benyújtott kérelme alapján az (1) bekezdés c) és d) pontjában foglalt feltételek fennállására vonatkozó, valamint az (1) bekezdés e) pontja szerinti partnerellenőrzéshez szükséges, a kérelemben megjelölt és az állami adó- és vámhatóság által nyilvántartott, az importálóra vonatkozó adatok megismerését a kérelem beérkezésétől számított 8 napon belül biztosítja, feltéve, hogy az adatok megismeréséhez az importáló a közvetett vámjogi képviselőnek címzett és a kérelemhez csatolt írásbeli nyilatkozatában előzetesen hozzájárult.
+
+(5) A közvetett vámjogi képviselő arról az adómegállapítási időszakról teljesítendő bevallásában, amelyben az engedményezett adólevonási jogot gyakorolja, importonként nyilatkozni köteles
+
+- a) az áru átengedéséről szóló vámhatóság általi értesítés számáról, vagy a termék szabad forgalomba bocsátása során az adófizetési kötelezettséget megállapító határozat számáról, vagy a termék szabad forgalomba bocsátását igazoló kiegészítő árunyilatkozat számáról,
+- b) az importáló adószámáról,
+- c) az adó alapjáról és
+- d) az adó összegéről.
+
+(6) Az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti, az (5) bekezdésben említett nyilatkozattételi kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerinti bevallásában teljesíti.”
 
 #### 41. §
 
@@ -118,7 +157,9 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 49. §
 
-#### 50. §
+50. § Az Áfa tv. a következő 368. §-sal egészül ki:
+
+„368. § E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 129. § (1) bekezdés c)–e) pontja, 129. § (1a)–(1d) bekezdése, (4)–(6) bekezdése, valamint az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 129. § (2) bekezdése az ezen rendelkezések hatályba lépésének időpontjában érvényes, közvetett vámjogi képviselet ellátására vonatkozó szerződésekre és az azok alapján történt importálásokra is alkalmazandók. Ilyen esetben a 129. § (1) bekezdés e) pontja szerinti partnerellenőrzést első alkalommal annak a hónapnak az utolsó napjáig kell elvégezni, amelyben a hatályba lépést követően első alkalommal történik importálás.”
 
 #### 51. §
 
@@ -193,15 +234,21 @@ lép.
 
 #### 8. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-#### 74. §
+74. § A regisztrációs adóról szóló 2003. évi CX. törvény (a továbbiakban: Rega tv.) 8. §-a a következő (5) bekezdéssel egészül ki:
 
-#### 75. §
+„(5) A 2025. évet követően az adótétel megállapítása során a melléklet I. részének nyitó szövegrészében szereplő forintérték tárgyévet megelőző évi összegének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összegét kell alkalmazni, amelyet 1000 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított értéket az állami adó- és vámhatóság internetes honlapján a tárgyévet megelőző év október 31-ig közzéteszi.”
 
-#### 76. §
+75. § A Rega tv. 9. § (4) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(4) Ha az adókötelezettség átalakítás miatt keletkezik, az adó alanya köteles a területileg illetékes közlekedési hatósághoz benyújtott előzetes engedély iránti kérelmet benyújtani. A közlekedési hatóság az átalakítási engedély kiadásakor, annak egy példánya megküldésével haladéktalanul értesíti a vámhatóságot az adóalany átalakítási szándékáról, közölve minden, az e törvény szerinti adókötelezettség megállapításához szükséges adatot (az eredeti és az átalakított gépjármű teljesítményét, üzemanyag fajtáját és környezetvédelmi osztályba sorolását, valamint az e törvény szerinti adó alanyának beazonosításához szükséges adatokat).”
+
+76. § A Rega tv. 15. §-a helyébe a következő rendelkezés lép:
+
+„15. § A környezetvédelmi osztályba sorolás a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 5. számú melléklete II. fejezetének 2025. január 1. napján hatályos állapota szerint történik.”
 
 #### 77. §
 
-#### 78. §
+78. § A Rega tv. melléklet I. és II. része helyébe a 11. melléklet lép.
 
 #### 79. §
 
@@ -295,7 +342,7 @@ lép.
 - b)
 - c)
 - d)
-- e)
+- e) 62. § bekezdés l) pontjában az „összefüggésben alaptalanul” szövegrész helyébe az „összefüggésben, valamint a pszichiátriai betegekkel szemben alaptalanul” szöveg,
 - f)
 - g)
 - h)
@@ -663,3 +710,67 @@ lép.
 ### 10. melléklet a 2024. évi LV. törvényhez
 
 ### 11. melléklet a 2024. évi LV. törvényhez
+
+A Rega tv. melléklet I. és II. része helyébe a következő rendelkezés lép:
+
+#### „I. rész
+
+Adótételek az egyes adókategóriákban, mely a táblázatban szereplő szorzószámok és 45 000 Ft szorzataként adódik.
+
+- 1. Személygépkocsik esetén
+
+| Adó-kate-gória | Teljesítmény (kW) | Adótétel szorzószáma[A személygépkocsi környezetvédelmi osztályba sorolása a közúti járművek forgalombahelyezésének és forgalomban tartásának műszaki feltételeiről szóló6/1990. (IV. 12.) KÖHÉM rendelet 5. számú mellékletének II. pontja szerint] |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | a) 14-nél jobb és2020. december 31-étkövetően helyezték első alkalommal forgalomba belföldön vagy külföldönb) hibrid hajtású személygépkocsi | 14-nél jobb | 12–14 | 9–11 | 8 vagy annál rosszabb |
+| 1. | 0–80 | 1 | 1,5 | 6 | 12 | 24 |
+| 2. | 81–100 | 1,5 | 2,25 | 9 | 18 | 36 |
+| 3. | 101–120 | 2 | 3 | 12 | 24 | 48 |
+| 4. | 121–140 | 3 | 4,5 | 18 | 36 | 72 |
+| 5. | 141–180 | 4 | 6 | 24 | 48 | 96 |
+| 6. | 181–250 | 6 | 9 | 36 | 72 | 144 |
+| 7. | 250-nél több | 9 | 13,5 | 54 | 108 | 216 |
+| 8. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezet-védelmi osztályba sorolása: 5E, 5Z) | 0 |  |  |  |  |
+
+- 2. Motorkerékpárok esetén
+
+| Adókategória | Teljesítmény (kW) | Adótétel szorzószáma |
+| --- | --- | --- |
+| 1. | 0–10 | 1 |
+| 2. | 11–40 | 2 |
+| 3. | 41–70 | 4 |
+| 4. | 70-nél több | 5 |
+| 6. | Elektromos meghajtású motorkerékpárok | 0 |
+
+A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
+
+#### II. rész
+
+Az adó összegének meghatározása a gépjármű forgalomba helyezésétől számított időtartam figyelembevételével
+
+Az adó összegét a vámhatóság az alábbi táblázat szerinti arányban csökkenti. A számításnál minden megkezdett hónap egész hónapnak minősül. E melléklet alkalmazásában forgalomba helyezés alatt a közlekedési hatóság által lefolytatott eljárásban, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon vagy az egyedi forgalomba helyezési engedélyen rögzített első forgalomba helyezés vagy az első hazai nyilvántartásba vétel időpontja értendő. Ezen adatok hiányában a gépjármű esetében e melléklet I. részében meghatározott adótételek e melléklet II. részében található előírások figyelembevétele nélkül alkalmazandók.
+
+A Műszaki adatlap meglétét és adatai valódiságát a vámhatóság a Nemzeti Közlekedési Hatóság és a vámhatóság között fennálló elektronikus adatkapcsolaton keresztül ellenőrzi.
+
+| I.A gépjármű forgalomba helyezésétől az adóigazgatási eljáráskezdetének hónapjáig eltelt hónapok száma | II.A Melléklet I. része szerinti adótétel csökkenés mértéke |
+| --- | --- |
+| Magyarországon újonnan forgalomba helyezett | 0 |
+| 2-ig | 0,03 |
+| 3–4 | 0,08 |
+| 5–6 | 0,13 |
+| 7–12 | 0,18 |
+| 13–18 | 0,23 |
+| 19–24 | 0,28 |
+| 25–30 | 0,33 |
+| 31–36 | 0,38 |
+| 37–48 | 0,45 |
+| 49–60 | 0,53 |
+| 61–72 | 0,59 |
+| 73–84 | 0,65 |
+| 85–96 | 0,70 |
+| 97–108 | 0,74 |
+| 109–120 | 0,78 |
+| 121–132 | 0,81 |
+| 133–144 | 0,84 |
+| 145–156 | 0,86 |
+| 157–168 | 0,88 |
+| 169– | 0,90 |

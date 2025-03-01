@@ -17,10 +17,10 @@ Magyarország a rendvédelmi feladatokat ellátó szervektől alkotmányos köte
 - e) a hivatásos katasztrófavédelmi szerv,
 - f) a büntetés-végrehajtási szervezet,
 - g) az Országgyűlési Őrség,
-- h) a polgári nemzetbiztonsági szolgálatok
+- h)
 - i)
 
-[az a)–h) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
+[az a)–g) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
 
 (2) Az Országgyűlési Őrség hivatásos állományának szolgálati viszonyára az e törvényben foglaltakat az Országgyűlésről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -79,10 +79,10 @@ is alkalmazni kell.
 - 17. miniszter: a Kormánynak a rendvédelmi szervet irányító tagja;
 - 17a. nemzetközi közigazgatási szakértői tevékenység: a nemzetközi színvonalú hazai állami digitális megoldások exportjával és programjának fejlesztésével összefüggő – külföldön történő feladatvégzéssel járó, ellentételezés fejében ellátott szakértői – tevékenység;
 - 18. országos főigazgató: a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv főigazgatója;
-- 19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, a polgári nemzetbiztonsági szolgálatok főigazgatói, valamint az Országgyűlési Őrség parancsnoka;
+- 19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, valamint az Országgyűlési Őrség parancsnoka;
 - 20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít, a véglegesítéséig;
 - 21. preferált település: olyan település vagy településrész, amelynek sajátosságai miatt – figyelemmel a rendvédelmi szerv vagy annak szervezeti egysége által ellátott feladatok jellegére – az adott településen vagy településrészen való szolgálatteljesítés ösztönzése indokolt;
-- 22. rendvédelmi oktatási intézmény: rendvédelmi szakképző intézmény, valamint a rendészeti és nemzetbiztonsági felsőoktatást folytató felsőoktatási intézmény;
+- 22. rendvédelmi oktatási intézmény: rendvédelmi szakképző intézmény, valamint a rendészeti felsőoktatást folytató felsőoktatási intézmény;
 - 22a. rendvédelmi tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti szolgálati jogviszonyban áll;
 - 23. szervezeti állománytáblázat: a rendvédelmi szerv önálló jogi személynek minősülő egységeihez tartozó szervezeti egységek állománytáblázatát összesítő állománytáblázat, valamint a rendvédelmi szerv egészére vonatkozó, valamennyi, a rendvédelmi szervhez tartozó szervezeti egység állománytáblázatát összesítő állománytáblázat;
 - 24. szervezeti egység: a rendvédelmi szervnek a rendvédelmi szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, önálló feladatra és működésre létrehozott, meghatározott székhellyel vagy telephellyel rendelkező, az állományilletékes parancsnok által vezetett szervezete;
@@ -150,7 +150,7 @@ is alkalmazni kell.
 
 (9) Az írásbeli jognyilatkozatokat – az Országgyűlési Őrség hivatásos állománya kivételével, valamint a (10) bekezdésben foglalt eltéréssel – a (4) vagy (6) bekezdés szerint kell kiadmányozni és a 6/A. § szerint kell kézbesíteni.
 
-(10) A polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében az írásbeli jognyilatkozatot papír alapú vagy elektronikus dokumentumban kell kiadmányozni és közölni. A miniszter közjogi szervezetszabályozó eszközében meghatározott szolgálati beosztások esetében a 6/A. § (3)–(5) bekezdése nem alkalmazható.
+(10)
 
 6/A. § (1) Az írásbeli jognyilatkozatot közölni kell a hivatásos állomány tagjával. Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha az elektronikus dokumentum a hivatásos állomány tagja vagy az átvételre jogosult személy részére hozzáférhetővé válik és annak kézhezvételét a hivatásos állomány tagja visszaigazolja. A közlés akkor is hatályos, ha az átvételt a címzett vagy az átvételre jogosult más személy megtagadta vagy szándékosan megakadályozta. Erről jegyzőkönyvet kell felvenni.
 
@@ -230,7 +230,7 @@ kézbesítettnek kell tekinteni.
 
 #### 9. A határidők számítása
 
-12. § (1) Napon – ha jogszabály vagy a polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében közjogi szervezetszabályozó eszköz eltérően nem rendelkezik – naptári napot kell érteni.
+12. § (1) Napon – ha jogszabály eltérően nem rendelkezik – naptári napot kell érteni.
 
 (2) A napokban megállapított határidőbe nem számít be az a nap, amelyen a határidő megkezdésére okot adó intézkedés – így különösen a kézbesítés – történt.
 
@@ -338,7 +338,7 @@ kézbesítettnek kell tekinteni.
 - a) fegyverviselési jogosultságát, valamint
 - b) intézkedési jogosultságát.
 
-(3) A szolgálati igazolvány tartalmazza a hivatásos állomány tagjának arcképét, nevét, rendfokozatát, társadalombiztosítási azonosító jelét és aláírását, a rendvédelmi szerv megjelölését, továbbá az igazolvány azonosítószámát. A polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében a szolgálati igazolvány a hivatásos állomány tagjának társadalombiztosítási azonosító jelét nem tartalmazza. A miniszter a szolgálati igazolvány egyéb adattartalmáról is rendelkezhet.
+(3) A szolgálati igazolvány tartalmazza a hivatásos állomány tagjának arcképét, nevét, rendfokozatát, társadalombiztosítási azonosító jelét és aláírását, a rendvédelmi szerv megjelölését, továbbá az igazolvány azonosítószámát. A miniszter a szolgálati igazolvány egyéb adattartalmáról is rendelkezhet.
 
 (4) A szolgálati jelvény a rendvédelmi szervnél rendszeresített, azonosító számmal ellátott jelvény, amely a hivatásos állomány tagjának szolgálati, hatósági intézkedésre való jogosultságát igazolja az egyenruhán viselve vagy a szolgálati igazolvánnyal együttesen felmutatva.
 
@@ -350,7 +350,7 @@ kézbesítettnek kell tekinteni.
 
 (2) A hivatásos állomány tagja kötelezhető arra, hogy a külföldre utazását szolgálati elöljárójának bejelentse.
 
-(3) A polgári nemzetbiztonsági szolgálatok hivatásos állománya tagjának külföldre utazása az e törvényben foglaltak szerint megtiltható vagy korlátozható. A külföldre utazás korlátozása vagy megtiltása miatt felmerült költséget a hivatásos állomány tagja részére meg kell téríteni.
+(3)
 
 20. § (1) A hivatásos állomány tagja a tartózkodási helyéről – szabadsága ideje alatt is – a szolgálatteljesítési helyére visszarendelhető.
 
@@ -482,7 +482,7 @@ kézbesítettnek kell tekinteni.
 
 #### 26. Szolgálati viszony létesítése áthelyezéssel
 
-34. § (1) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyból (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) vagy a Magyar Honvédség hivatásos katonai állományából áthelyezéssel történik, próbaidő kikötésére nem kerül sor.
+34. § (1) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyból (a továbbiakban: adó- és vámhatósági szolgálati jogviszony), a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonyból (a továbbiakban: nemzetbiztonsági szolgálati jogviszony) vagy a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos és szerződéses állományú katonák szolgálati viszonyából áthelyezéssel történik, próbaidő kikötésére nem kerül sor.
 
 (2) Ha a szolgálati viszony közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, egészségügyi szolgálati jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, szerződéses határvadász jogviszonyból vagy igazságügyi alkalmazotti jogviszonyból áthelyezéssel létesül, a próbaidő kikötése kötelező, azzal, hogy próbaidő legfeljebb hat hónap időtartamra köthető ki. Mellőzhető a próbaidő kikötése, ha az áthelyezett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
 
@@ -492,7 +492,7 @@ kézbesítettnek kell tekinteni.
 
 35. § Ha a rendvédelmi szervnél megüresedő szolgálati beosztást a rendvédelmi szerv állományából az e törvény szerinti előmenetel alapján nem lehet betölteni, előnyben kell részesíteni a rendvédelmi szerv vagy más rendvédelmi szerv hivatásos állományából, a Magyar Honvédség hivatásos katonai állományából, továbbá a kormányzati szolgálati, közszolgálati jogviszonyból tartalékállományba kerülteket.
 
-35/A. § Ha a szolgálati viszonyt létesítő személy a szolgálati viszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban, vagy adó- és vámhatósági szolgálati jogviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít szolgálati viszonyt, jogviszonyát folyamatosnak kell tekinteni.
+35/A. § Ha a szolgálati viszonyt létesítő személy a szolgálati viszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban vagy adó- és vámhatósági szolgálati jogviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít szolgálati viszonyt, jogviszonyát folyamatosnak kell tekinteni.
 
 #### 27. Hivatásos állományba visszavétel
 
@@ -598,11 +598,10 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (7) A (4) bekezdésben írt feltételek ellenőrzését
 
-- a) a saját állománya tekintetében a polgári nemzetbiztonsági szolgálat,
-- b) a Nemzeti Adó- és Vámhivatal esetében az Alkotmányvédelmi Hivatal,
-- c) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szerv esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+- a) a Nemzeti Adó- és Vámhivatal esetében az Alkotmányvédelmi Hivatal,
+- b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szerv esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 
-[az a)–c) pont ezen alcím alkalmazásában a továbbiakban együtt: kifogástalan életvitelt ellenőrző szerv] végzi.
+[az a) és b) pont ezen alcím alkalmazásában a továbbiakban együtt: kifogástalan életvitelt ellenőrző szerv] végzi.
 
 (8) A (4) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős ügydöntő határozatot hozó bíróság haladéktalanul értesíti az állományilletékes parancsnokot, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ügydöntő határozatának jogerőre emelkedését követő nappal megállapítja, hogy a hivatásos állomány tagjának életvitele kifogásolható, és e törvény szerint intézkedik a szolgálati viszony megszüntetése érdekében.
 
@@ -802,6 +801,12 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 (9) Ha a hivatásos állomány tagja a nemzetbiztonsági ellenőrzés alá eső szolgálati beosztás alóli felmentést követően vagy a (6) bekezdés szerinti rendelkezési állomány ideje alatt felajánlott, a (4) bekezdésben meghatározott feltételeknek megfelelő szolgálati beosztást nem fogadja el, szolgálati viszonyát a 86. § (2) bekezdés c) pontja alapján felmentéssel meg kell szüntetni.
 
+54/A. § Ha a hivatásos állomány tagját foglalkoztató szervezeti egységnél kizárólag nemzetbiztonsági ellenőrzéshez kötött szolgálati beosztások vannak, az 54. §-t a következő eltérésekkel kell alkalmazni:
+
+- a) az 54. § (4) bekezdésétől eltérően a felajánlható szolgálati beosztást az állományilletékes parancsnok irányítása alá tartozó valamely szervezeti elem helyett a hivatásos állomány tagját foglalkoztató rendvédelmi szerv más szervezeti egységeinél kell keresni,
+- b) az 54. § (6) bekezdésétől eltérően a hivatásos állomány tagját beleegyezésével a rendvédelmi szerv lakóhely szerint illetékes szervezeti egységének rendelkezési állományába kell helyezni,
+- c) a szolgálati beosztás felajánlása során az 57. § (2) bekezdés b) pontja szerinti szempontok figyelembevételével kell eljárni.
+
 55. § (1) A hivatásos állomány tagja alacsonyabb szolgálati beosztásba helyezhető:
 
 - a) beleegyezésével, ha létszámcsökkentés vagy átszervezés miatt a szolgálati beosztása megszűnt,
@@ -939,6 +944,8 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 (7) A hivatásos állomány más szervhez vezényelt tagjának fegyelmi felelősségre vonására a rendvédelmi szervnél szolgálatot teljesítő hivatásos állomány tagjára vonatkozó szabályok az irányadók.
 
 63/A. § A hivatásos állomány más rendvédelmi szervhez vezényelt tagja a 65. § szerinti vezénylése megszüntetése nélkül is más szervhez vezényelhető a 62. § alapján a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti szakdiplomataként történő kihelyezése érdekében. Ebben az esetben a továbbvezénylés időtartamára a hivatásos állomány tagja annak a szervnek a rendelkezési állományába kerül, amely szervtől a továbbvezénylésére sor kerül. E célból a 77. § (1) bekezdésében megjelöltek mellett az a rendvédelmi szerv is működtet rendelkezési állományt, amelynél kizárólag vezényelt hivatásos állomány teljesít szolgálatot.
+
+63/B. § A hivatásos állomány polgári nemzetbiztonsági szolgálathoz vezényelt tagja esetében a felek a más szervhez vezénylésre irányuló megállapodásban rendelkezhetnek arról, hogy a rendvédelmi szerv vezetőjének vagy az általa kijelölt vezetőnek a kezdeményezésére a polgári nemzetbiztonsági szolgálathoz vezényelt – a vezénylés megszüntetése nélkül – eseti jelleggel, ideiglenesen a vezénylő rendvédelmi szerv foglalkoztatottjaira vonatkozó szabályok szerint, meghatározott feladatokat láthat el a vezénylő rendvédelmi szervnél. Ezen ideiglenes feladatellátás időtartamára a vezényelt a vezénylő rendvédelmi szerv feladatkörébe tartozó feladatot lát el a vezénylő rendvédelmi szerv foglalkoztatottjaira vonatkozó szabályok szerint, ideértve a vezénylő rendvédelmi szerv hivatásos állományának intézkedési jogosultságára vonatkozó előírásokat is. A vezénylési megállapodás az ideiglenes feladatellátás kezdeményezésére, illetve elrendelésére vonatkozó formai követelményeket határozhat meg.
 
 64. § (1) A más szervhez vezénylés megszüntetésére a más szerv vezetőjének kezdeményezésére érdekmúlás miatt vagy a más szervhez vezényelt magatartására visszavezethető okból, valamint a hivatásos állomány tagjának kérelme alapján kerülhet sor. A szolgálat érdekére hivatkozva a más szervhez vezénylés megszüntetését a rendvédelmi szerv is kezdeményezheti. A más szervhez vezénylésnek a más szerv működése érdekkörében felmerülő okból történő megszüntetése a más szerv vezetőjének kérésére legfeljebb két hónapra elhalasztható.
 
@@ -1270,6 +1277,7 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 - g) a Magyar Honvédséghez történő áthelyezéssel,
 - h) azonnali hatállyal a próbaidő alatt.
 - i) a Nemzeti Adó- és Vámhivatalhoz történő áthelyezéssel.
+- j) polgári nemzetbiztonsági szolgálathoz történő áthelyezéssel.
 
 #### 49. A szolgálat felső korhatárának elérése
 
@@ -1543,8 +1551,8 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 - b) a hivatásos szolgálatra alkalmatlanná vált, mert nem felel meg a kifogástalan életvitel követelményének,
 - c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, és
-  - ca) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54. §-ban foglaltak szerint felajánlott szolgálati beosztást nem fogadta el, vagy
-  - cb) a rendelkezési állomány ideje úgy telik el, hogy részére az 54. §-ban foglaltaknak megfelelő, felajánlható szolgálati beosztás nem volt,
+  - ca) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54. vagy 54/A. §-ban foglaltak szerint felajánlott szolgálati beosztást nem fogadta el, vagy
+  - cb) a rendelkezési állomány ideje úgy telik el, hogy részére az 54. vagy 54/A. §-ban foglaltaknak megfelelő, felajánlható szolgálati beosztás nem volt,
 - d) a hivatásos szolgálatra méltatlanná vált, mert szolgálaton kívül olyan cselekményt követett el, amely a rendvédelmi szerv működésébe vetett közbizalmat súlyosan veszélyezteti és emiatt nem várható el, hogy a rendvédelmi szerv a szolgálati viszonyát fenntartsa,
 - e) a vezetői kinevezés visszavonását követően az 59. § (4) bekezdése szerinti szolgálati beosztás nem biztosítható vagy az 59. § (4) bekezdése szerinti felajánlott szolgálati beosztást nem fogadja el,
 - f) a 77. § (4) vagy (5) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő szolgálati beosztás nem biztosítható,
@@ -1722,11 +1730,11 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 
 (10) Ha a tartalékállományba helyezett a felmentési idő alatt elfogadja a felajánlott álláshelyet és az elfogadott álláshelyen a keresete alacsonyabb, mint a felmentési időre járó távolléti díja, részére a felmentési idő hátralévő részére járó távolléti díj és az új álláshelyen elért kereset közötti különbözetet a rendvédelmi szerv megfizeti.
 
-92. § (1) A tartalékállományba helyezésről az állományilletékes parancsnok, a polgári nemzetbiztonsági szolgálatok esetén a főigazgató tájékoztatja a tartalékállományt kezelő szervet. Az adatszolgáltató és a tartalékállományt kezelő szerv adatkezelésére az e törvényben meghatározottakon kívül a tartalékállományra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
+92. § (1) A tartalékállományba helyezésről az állományilletékes parancsnok tájékoztatja a tartalékállományt kezelő szervet. Az adatszolgáltató és a tartalékállományt kezelő szerv adatkezelésére az e törvényben meghatározottakon kívül a tartalékállományra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
 
-(2) A tartalékállomány kezelését végző szervnek a 4. melléklet szerinti adatokat az országos parancsnokság adja át. A polgári nemzetbiztonsági szolgálatok hivatásos állománya tagjának tartalékállományba helyezése esetén a mellékletben megjelölt adatkörök kitöltése részben mellőzhető.
+(2) A tartalékállomány kezelését végző szervnek a 4. melléklet szerinti adatokat az országos parancsnokság adja át.
 
-93. § (1) A hivatásos állomány tagját saját kérésére a tartalékállományt kezelő szerv nyilvántartásba veszi, és részére álláskeresési tevékenységet végez a nyilvántartásba vételtől számított egy évig. A nyilvántartásba vételről a tartalékállományt kezelő szerv tájékoztatja a hivatásos állomány tagjának állományilletékes parancsnokát. A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja csak a főigazgató hozzájárulásával vehető nyilvántartásba.
+93. § (1) A hivatásos állomány tagját saját kérésére a tartalékállományt kezelő szerv nyilvántartásba veszi, és részére álláskeresési tevékenységet végez a nyilvántartásba vételtől számított egy évig. A nyilvántartásba vételről a tartalékállományt kezelő szerv tájékoztatja a hivatásos állomány tagjának állományilletékes parancsnokát.
 
 (2) A tartalékállományt kezelő szervnél egy év időtartamra a nyilvántartásba vételét kérheti az is, akinek a 91. § (1) bekezdésében felsorolt okból szűnt meg a szolgálati viszonya, és nem került sor a 91. § (2) bekezdése szerinti tartalékállományban tartására.
 
@@ -1798,6 +1806,12 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 98/A. § (1) A hivatásos állomány tagja beleegyezése esetén – a miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter vagy az országos parancsnok és a Nemzeti Adó- és Vámhivatal vezetőjének döntése alapján – a Nemzeti Adó- és Vámhivatal állományába áthelyezhető. Az áthelyezésre a 97. § (2) bekezdését kell alkalmazni azzal, hogy új rendvédelmi szerven a Nemzeti Adó- és Vámhivatalt kell érteni és a Nemzeti Adó- és Vámhivatalnál előírt képzettségi, alkalmassági feltételeknek kell megfelelni.
 
 (2) A Nemzeti Adó- és Vámhivatal állományába történő áthelyezésre a 97/A. §-ban foglaltakat is alkalmazni kell azzal, hogy más miniszter irányítása alá tartozó rendvédelmi szerven a Nemzeti Adó- és Vámhivatalt, a más rendvédelmi szervet irányító miniszteren a Nemzeti Adó- és Vámhivatalt irányító minisztert kell érteni.
+
+#### 59/B. Áthelyezés polgári nemzetbiztonsági szolgálathoz
+
+98/B. § (1) A hivatásos állomány tagja beleegyezése esetén – a miniszter és a polgári nemzetbiztonsági szolgálatot irányító miniszter vagy az országos parancsnok és a polgári nemzetbiztonsági szolgálat vezetőjének döntése alapján – a polgári nemzetbiztonsági szolgálat állományába áthelyezhető. Az áthelyezésre a 97. § (2) bekezdését kell alkalmazni azzal, hogy új rendvédelmi szerven a polgári nemzetbiztonsági szolgálatot kell érteni és a polgári nemzetbiztonsági szolgálatnál előírt képzettségi, alkalmassági feltételeknek kell megfelelni.
+
+(2) A polgári nemzetbiztonsági szolgálat állományába történő áthelyezésre a 97/A. §-ban foglaltakat is alkalmazni kell azzal, hogy más miniszter irányítása alá tartozó rendvédelmi szerven a polgári nemzetbiztonsági szolgálatot, a más rendvédelmi szervet irányító miniszteren a polgári nemzetbiztonsági szolgálatot irányító minisztert kell érteni.
 
 #### 60. Eljárás a szolgálati viszony megszűnése esetén
 
@@ -1962,7 +1976,7 @@ továbbítható.
 
 #### 64. Összeférhetetlenség
 
-108. § (1) A rendőrség, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományának tagja pártnak vagy pártpolitikai célokat szolgáló egyesületnek nem lehet tagja, ilyen célú alapítvánnyal nem létesíthet jogviszonyt, munkájában nem vehet részt, politikai tartalmú közszereplést szolgálaton kívül – az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán jelöltként való részvételt kivéve – sem vállalhat.
+108. § (1) A rendőrség és az Országgyűlési Őrség hivatásos állományának tagja pártnak vagy pártpolitikai célokat szolgáló egyesületnek nem lehet tagja, ilyen célú alapítvánnyal nem létesíthet jogviszonyt, munkájában nem vehet részt, politikai tartalmú közszereplést szolgálaton kívül – az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán jelöltként való részvételt kivéve – sem vállalhat.
 
 (2) A hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet hivatásos állományának tagja pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán jelöltként való részvételt kivéve – közszereplést nem vállalhat, a szolgálati helyen vagy a szolgálati feladat teljesítése közben a hivatásos állomány tagja politikai tevékenységet nem folytathat.
 
@@ -2067,7 +2081,7 @@ besorolási osztályba tartoznak.
 (3) A tiszti besorolási osztályba és a tiszthelyettesi besorolási osztályba tartozó,
 
 - a) az általános rendőrségi feladatok ellátására létrehozott szervnél, az idegenrendészeti szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztásokat öt-öt, „A”, „B”, „C”, „D”, „E” jelölésű,
-- b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, az Országgyűlési Őrségnél, valamint a polgári nemzetbiztonság szolgálatoknál rendszeresített szolgálati beosztásokat négy-négy, „A”, „B”, „C”, „D” jelölésű
+- b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, valamint az Országgyűlési Őrségnél rendszeresített szolgálati beosztásokat négy-négy, „A”, „B”, „C”, „D” jelölésű
 
 besorolási kategóriába kell besorolni.
 
@@ -2290,7 +2304,7 @@ elő kell írni. Ha a hivatásos állomány tagja az előírt képzési kötelez
 - a) a rendőrség és az Országgyűlési Őrség ünnepnapja április 24-e, Szent György napja,
 - b) a hivatásos katasztrófavédelmi szerv ünnepnapja május 4-e, Szent Flórián napja, a tűzoltóság napja,
 - c) a büntetés-végrehajtási szervezet ünnepnapja szeptember 8-a, Szent Adorján napja,
-- d) a polgári nemzetbiztonsági szolgálatok ünnepnapja március 1-je, a nemzetbiztonsági szolgálatok megalakulásának napja.
+- d)
 
 (2) Munkaszüneti napon, valamint húsvét- vagy pünkösdvasárnapon teljesített szolgálatért a hivatásos állomány tagját a munkájáért járó illetményén felül távolléti díj is megilleti.
 
@@ -3432,7 +3446,7 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelke
 
 (4) A Becsületbíróság további két tagját a Becsületbíróságot összehívó elöljáró jelöli ki, a hivatásos állomány névjegyzéken szereplő, az eljárás alá vonttal legalább azonos rendfokozati állománycsoportba tartozó tagjai közül.
 
-(4a) Az Országgyűlési Őrség és a polgári nemzetbiztonsági szolgálatok a névjegyzéket
+(4a) Az Országgyűlési Őrség a névjegyzéket
 
 - a) a tiszthelyettesi és a zászlósi, valamint
 - b) a tiszti, főtiszti és tábornoki
@@ -3718,7 +3732,7 @@ kezdődik.
 
 (3) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti ellátásra a hivatásos állomány tagja nem jogosult, ha ugyanazon jogi tény alapján e törvény szerinti ellátást vett igénybe.
 
-(4) A polgári nemzetbiztonsági szolgálat hivatásos állománya tekintetében a polgári nemzetbiztonsági szolgálat főigazgatója határozza meg, hogy a hivatásos állomány tagja melyik magánnyugdíjpénztárhoz, önkéntes nyugdíjpénztárhoz vagy önkéntes egészségpénztárhoz csatlakozhat.
+(4)
 
 #### 107. Szociális gondoskodás
 
@@ -3937,13 +3951,13 @@ esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben 
 
 (2) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 26. § (2) bekezdésében foglalt adatokon túl közérdekből nyilvános adat a hivatásos állomány tagjának rendfokozata, állampolgársága, szolgálati helye, valamint a részére adományozott kitüntető cím és a kitüntető cím adományozásának időpontja is.
 
-(3) A polgári nemzetbiztonsági szolgálatok hivatásos állománya vonatkozásában az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 26. § (2) bekezdésében meghatározott adatok, valamint a (2) bekezdésben foglalt adatok a keletkezésüktől kezdődően a szolgálati viszony megszűnését követő harminc évig nemzetbiztonsági érdekből nem minősülnek nyilvánosnak. Ezen adatok megismerését a nemzetbiztonsági érdek mérlegelésével a miniszter engedélyezheti.
+(3)
 
 (3a) A rendőrség 318. § szerinti állománya, valamint titkos információgyűjtést végrehajtó vagy leplezett eszközt alkalmazó állománya vonatkozásában az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 26. § (2) bekezdésében meghatározott adatok, valamint a (2) bekezdésben foglalt adatok a keletkezésüktől kezdődően a szolgálati viszony megszűnését követő harminc évig a bűncselekmények üldözéséhez fűződő érdekből nem minősülnek nyilvánosnak. Ezen adatok megismerését a bűncselekmények üldözéséhez fűződő érdek mérlegelésével a miniszter engedélyezheti.
 
 (3b)
 
-(4) A (3), (3a) bekezdés szerinti adat megismerésére irányuló igény – az ott meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a polgári nemzetbiztonsági szolgálat, a rendőrség törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a (3) bekezdés esetén a nemzetbiztonsági, a (3a) bekezdés esetén a bűncselekmények üldözéséhez fűződő érdekeket nem veszélyezteti.
+(4) A (3a) bekezdés szerinti adat megismerésére irányuló igény – az ott meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a rendőrség törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a (3a) bekezdés esetén a bűncselekmények üldözéséhez fűződő érdekeket nem veszélyezteti.
 
 (5) A 275. §-ban és a 275/B. §-ban foglalt személyeken és szerveken kívül – törvény eltérő rendelkezése hiányában – más részére tájékoztatást, igazolást, jellemzést, javaslatot a személyügyi nyilvántartásokban őrzött iratok alapján csak az érintett hozzájárulásával lehet adni.
 
@@ -3995,14 +4009,16 @@ esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben 
 - g) e törvény hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján elismert és beszámított időt
 - h) a sor- és tartalékos katonai szolgálatban eltöltött időt.
 - i) a Nemzeti Adó- és Vámhivatalnál adó- és vámhatósági szolgálati jogviszonyban és munkaviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban töltött időt.
+- j) – ha a rendvédelmi szerv feladataira tekintettel az országos parancsnok vagy országos főigazgató javaslatára a miniszter ezen időtartamok beszámításáról dönt – a polgári nemzetbiztonsági szolgálatnál nemzetbiztonsági szolgálati jogviszonyban és nemzetbiztonsági alkalmazotti jogviszonyban, valamint 2025. március 1-jét megelőzően hivatásos szolgálati jogviszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban töltött időt.
 
 (2) Ahol e törvény tényleges szolgálati időről rendelkezik, szolgálati időként kell figyelembe venni
 
 - a) a valamely rendvédelmi szervnél szolgálati viszonyban, szerződéses határvadász jogviszonyban vagy a Magyar Honvédségnél szolgálati viszonyban eltöltött – naptári napban meghatározandó – időt
 - b) az e törvény hatálybalépése előtt az 1996. évi XLIII. törvény rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati időt.
 - c) a Nemzeti Adó- és Vámhivatalnál pénzügyőri státuszon létesített adó- és vámhatósági szolgálati jogviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban töltött időt.
+- d) – ha a miniszter az (1) bekezdés j) pontja szerinti időtartamok beszámításról döntött – a polgári nemzetbiztonsági szolgálatnál létesített nemzetbiztonsági szolgálati jogviszonyban, valamint 2025. március 1-jét megelőzően hivatásos szolgálati jogviszonyban töltött időt.
 
-(3) A szolgálati viszony létesítésekor a fizetési fokozat megállapításakor fizetési várakozási időben eltöltött időként kell figyelembe venni az (1) bekezdés a)–e), valamint i) pontjában meghatározott időket.
+(3) A szolgálati viszony létesítésekor a fizetési fokozat megállapításakor fizetési várakozási időben eltöltött időként kell figyelembe venni az (1) bekezdés a)–e), valamint i) és j) pontjában meghatározott időket.
 
 (4) Akinek a szolgálati ideje az 1996. évi XLIII. törvény 341/D. §-a alapján rögzítésre került,
 
@@ -4332,7 +4348,7 @@ kell érteni.
 - c) a teljesítményértékelés,
 - d) a fegyelmi, kártérítési és személyiségi jogsértés tárgyában hozott határozat.
 
-(3) A polgári nemzetbiztonsági szolgálatot irányító miniszter által kiadott közjogi szervezetszabályozó eszközben meghatározott rendvédelmi igazgatási alkalmazotti munkaköröket betöltő rendvédelmi alkalmazott esetében a 6/A. § (3)–(5) bekezdés nem alkalmazható.
+(3)
 
 287/J. § (1) A rendvédelmi alkalmazott személyiségi jogait tiszteletben kell tartani.
 
@@ -4919,7 +4935,7 @@ távolléti díjnak megfelelő összeg.
 
 (2) A középfokú munkaköri osztályba tartozó „A” vagy „B” munkaköri kategóriába az érettségi végzettségű rendvédelmi alkalmazottat kell sorolni.
 
-(3) A Kormány által rendeletben meghatározott, a polgári nemzetbiztonsági szolgálatoknál általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítvánnyal betölthető munkakört betöltő rendvédelmi alkalmazottat a (2) bekezdés szerinti középfokú munkaköri osztályba tartozó „A” munkaköri kategóriába kell besorolni. Az igazgatási jogviszonyra a középfokú munkaköri kategóriákba tartozókra irányadó szabályokat kell alkalmazni.
+(3)
 
 (4) A „C”, „D” és „E” munkaköri kategóriába sorolt rendvédelmi alkalmazottat a szolgálati ideje alapján meghatározott fizetési fokozatba kell besorolni.
 
@@ -5015,30 +5031,7 @@ nem lehet kevesebb.
 
 (4) Az egészségügyi tevékenységet végzők ügyeleti feladatellátásának, egészségügyi ügyeletének, készenlétének díjazására az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 13/B. §-ában foglalt rendelkezés irányadó.
 
-289/D. § (1) A polgári nemzetbiztonsági szolgálatok Kormány által meghatározott munkaköreiben foglalkoztatott rendvédelmi alkalmazott részére idegennyelv-tudási pótlék adható.
-
-(2) Az idegennyelv-tudást az államilag elismert nyelvvizsga eredményét igazoló bizonyítvánnyal vagy azzal egyenértékű okirattal kell igazolni.
-
-(3) A képzés nyelve szempontjából államilag elismert nyelvvizsga nélkül is komplex felsőfokú (Cl) nyelvvizsgának minősül a rendvédelmi alkalmazott külföldön szerzett felsőfokú végzettsége, rendészeti, katonai vagy közigazgatási tárgyú szakképzettsége, vagy az azt kiegészítő szakosító továbbképzési, továbbá vezetőképzési végzettsége, ha a képzés időtartama az egy évet eléri vagy meghaladja.
-
-(4) A idegennyelv-tudási pótlék mértéke nyelvvizsgánként
-
-- a) komplex felsőfokú (Cl) nyelvvizsga esetében a rendvédelmi illetményalap 50%-a, szóbeli vagy írásbeli nyelvvizsga esetében 25-25%-a;
-- b) komplex középfokú (B2) nyelvvizsga esetében a rendvédelmi illetményalap 30%-a, szóbeli vagy írásbeli nyelvvizsga esetében 15-15%-a.
-
-(5) A (4) bekezdéstől eltérően az angol, francia, német, arab, kínai és orosz nyelvek tekintetében az idegennyelv-tudási pótlék mértéke nyelvvizsgánként
-
-- a) komplex felsőfokú (C1) nyelvvizsga esetében a rendvédelmi illetményalap 100%-a,
-- b) komplex középfokú (B2) nyelvvizsga esetében a rendvédelmi illetményalap 60%-a,
-- c) komplex alapfokú (B1) nyelvvizsga esetében a rendvédelmi illetményalap 15%-a.
-
-(6) Ha a rendvédelmi alkalmazott az (5) bekezdésben meghatározott idegen nyelvből felsőfokú (C1) vagy középfokú (B2) típusú, szóbeli vagy írásbeli nyelvvizsgával rendelkezik, a (4) bekezdés a) és b) pontjában foglalt, a komplex nyelvvizsgára meghatározott mértékű idegennyelv-tudási pótlékra jogosult.
-
-(7) Ha a rendvédelmi alkalmazott ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú vagy különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult.
-
-(8) Ha a rendvédelmi szerv tanulmányi szerződés alapján pénzügyi támogatást nyújt a nyelvvizsga megszerzéséhez – kivéve a felsőfokú szaknyelvi vizsgát –, a rendvédelmi alkalmazott az idegennyelv-tudási pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék együttes összege nem éri el a tanulmányi szerződés alapján kifizetett pénzügyi támogatás mértékét.
-
-(9) A nemzetbiztonsági szolgálat főigazgatója határozza meg azokat a további nyelveket, amelyek után az (5) bekezdésben meghatározott mértékű idegennyelv-tudási pótlék állapítható meg.
+#### 289/D. §
 
 #### 115/O. Az illetmény kifizetése, levonás az illetményből, egyéb juttatások, költségtérítések, támogatások, elismerések
 
@@ -5109,6 +5102,13 @@ jogviszonyban eltöltött időt;
   - ea) adó- és vámhatósági szolgálati,
   - eb) 2021. január 1-jét megelőzően hivatásos szolgálati,
   - ec) 2021. január 1-jét megelőzően kormányzati szolgálati
+- f) – ha a rendvédelmi szerv feladataira tekintettel az országos parancsnok vagy országos főigazgató javaslatára a miniszter ezen időtartamok beszámításáról dönt – a polgári nemzetbiztonsági szolgálatnál
+  - fa) nemzetbiztonsági szolgálati,
+  - fb) nemzetbiztonsági alkalmazotti,
+  - fc) 2025. március 1-jét megelőzően hivatásos szolgálati,
+  - fd) 2025. március 1-jét megelőzően igazgatási
+
+jogviszonyban eltöltött időt.
 
 jogviszonyban eltöltött időt.
 
@@ -5557,11 +5557,10 @@ is alkalmazni kell.
 - a) a rendőrség,
 - b) a büntetés-végrehajtási szervezet,
 - c) a Nemzeti Adó- és Vámhivatal,
-- d) a hivatásos katasztrófavédelmi szerv,
-- e) a polgári nemzetbiztonsági szolgálatok, valamint
-- f) az Országgyűlési Őrség
+- d) a hivatásos katasztrófavédelmi szerv, valamint
+- e) az Országgyűlési Őrség
 
-hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak a)–f) pont szerint elkülönülő résztestülete.
+hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak a)–e) pont szerint elkülönülő résztestülete.
 
 292. § (1) Az MRK feladatait a döntéshozó és végrehajtó szervei útján látja el.
 
@@ -5620,13 +5619,13 @@ hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, 
 
 (3) A Közgyűlés által megválasztott elnök az MRK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja.
 
-(4) Az elnök munkáját a Közgyűlés által megválasztott, tagozatonként egy-egy, összesen hat alelnök segíti.
+(4) Az elnök munkáját a Közgyűlés által megválasztott, tagozatonként egy-egy, összesen öt alelnök segíti.
 
 (5) Az MRK elnöke a megbízatása idejére rendelkezési állományba kerül. Az elnök illetményének megállapítására – a megbízatás ideje alatt – az országos parancsnokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-296. § A Felügyelőbizottság a Közgyűlés által megválasztott, tagozatonként egy, összesen hat tagból áll. A Felügyelőbizottság elnökét a Közgyűlés választja meg.
+296. § A Felügyelőbizottság a Közgyűlés által megválasztott, tagozatonként egy, összesen öt tagból áll. A Felügyelőbizottság elnökét a Közgyűlés választja meg.
 
-297. § (1) Az Etikai Bizottság a Közgyűlés által megválasztott, a 291. § (3) bekezdés a)–e) pontja szerinti tagozatonként négy, valamint a 291. § (3) bekezdés f) pontja szerinti tagozat esetében egy, összesen huszonegy tagból áll.
+297. § (1) Az Etikai Bizottság a Közgyűlés által megválasztott, a 291. § (3) bekezdés a)–d) pontja szerinti tagozatonként négy, valamint a 291. § (3) bekezdés e) pontja szerinti tagozat esetében egy, összesen tizenhét tagból áll.
 
 (2) Az Etikai Bizottság elnökét a Közgyűlés választja meg. Az Etikai Bizottság az Alapszabályban meghatározott módon háromtagú tanácsban jár el.
 
@@ -5667,7 +5666,7 @@ hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, 
 
 (3) A Közgyűlés tagja ellen indított fegyelmi eljárás alatt a tagsági viszony szünetel.
 
-(4) A Közgyűlés a 291. § (3) bekezdés a)–e) pontja szerinti tagozatonként tíz, a 291. § (3) bekezdés f) pontja szerinti tagozat esetében három, összesen ötvenhárom tagból áll.
+(4) A Közgyűlés a 291. § (3) bekezdés a)–d) pontja szerinti tagozatonként tíz, a 291. § (3) bekezdés e) pontja szerinti tagozat esetében három, összesen negyvenhárom tagból áll.
 
 #### 119. Tagsági viszony és az MRK tagjainak nyilvántartása
 
@@ -5689,7 +5688,7 @@ hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, 
 - b) az MRK rendezvényein, valamint a tagozat munkájában részt vehet, és
 - c) az MRK tagjai részére nyújtott szolgáltatásokat igénybe veheti.
 
-(3) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja a (2) bekezdés a) és b) pontjában meghatározott jogokat kizárólag a főigazgató engedélyével gyakorolhatja.
+(3)
 
 (4) Az MRK tagja köteles az MRK működésére vonatkozó szabályokat megtartani.
 
@@ -5711,11 +5710,11 @@ hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, 
 
 (4) A nyilvántartásból – ha törvény eltérően nem rendelkezik – adatszolgáltatás csak a tag részére, saját adatairól teljesíthető.
 
-(5) A miniszter a rendőrséggel vagy a Nemzeti Adó- és Vámhivatallal szolgálati viszonyban álló, a 318. § (1) bekezdése szerinti más foglalkoztatási jogviszony létesítésével vagy egyéb jövedelemszerző tevékenység folytatásával megbízott tagjai, valamint a polgári nemzetbiztonsági szolgálatok hivatásos és rendvédelmi igazgatási alkalmazotti állománya tagjai adatainak a szolgálati feladatok ellátása érdekében szükséges védelme céljából a nyilvántartásra és a nyilvántartott adatok kezelésére vonatkozó szabályokat határozhat meg közjogi szervezetszabályozó eszközben.
+(5) A miniszter a rendőrséggel vagy a Nemzeti Adó- és Vámhivatallal szolgálati viszonyban álló, a 318. § (1) bekezdése szerinti más foglalkoztatási jogviszony létesítésével vagy egyéb jövedelemszerző tevékenység folytatásával megbízott tagjai adatainak a szolgálati feladatok ellátása érdekében szükséges védelme céljából a nyilvántartásra és a nyilvántartott adatok kezelésére vonatkozó szabályokat határozhat meg közjogi szervezetszabályozó eszközben.
 
-(6) A polgári nemzetbiztonsági szolgálatok hivatásos és rendvédelmi igazgatási alkalmazotti állománya, valamint a rendőrség és a Nemzeti Adó- és Vámhivatal (5) bekezdés szerinti állománya tekintetében az Iroda a 302. § (3) és (4) bekezdésében, valamint az (1) és (2) bekezdésben az Iroda részére meghatározott feladatokat az (5) bekezdés szerinti közjogi szervezetszabályozó eszközben meghatározottak szerint adatkezelésre kijelölt személy útján teljesíti. A rendvédelmi szerv a 302. § (3) és (4) bekezdésében, valamint a 306. §-ban meghatározott kötelezettségének az adatkezelő felé teljesített adatszolgáltatással tesz eleget.
+(6) Az Iroda a rendőrség és a Nemzeti Adó- és Vámhivatal (5) bekezdés szerinti állománya tekintetében a 302. § (3) és (4) bekezdésében, valamint az (1) és (2) bekezdésben az Iroda részére meghatározott feladatokat az (5) bekezdés szerinti közjogi szervezetszabályozó eszközben meghatározottak szerint adatkezelésre kijelölt személy útján teljesíti. A rendvédelmi szerv a 302. § (3) és (4) bekezdésében, valamint a 306. §-ban meghatározott kötelezettségének az adatkezelő felé teljesített adatszolgáltatással tesz eleget.
 
-(7) A polgári nemzetbiztonsági szolgálatok esetében a nyilvántartást a tagozaton belül polgári nemzetbiztonsági szolgálatonként elkülönítetten kell kezelni. Ezek a nyilvántartások, valamint a rendőrség és a Nemzeti Adó- és Vámhivatal fedett nyomozói vonatkozásában vezetett nyilvántartások sem egymással, sem az MRK más tagsági nyilvántartásával nem kapcsolhatók össze.
+(7) A rendőrség és a Nemzeti Adó- és Vámhivatal fedett nyomozói vonatkozásában vezetett nyilvántartások sem egymással, sem az MRK más tagsági nyilvántartásával nem kapcsolhatók össze.
 
 #### 120. Az MRK tisztségviselőire, valamint ügyintézői testületei nem tisztségviselő tagjaira vonatkozó közös szabályok
 
@@ -6340,7 +6339,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (6) Az Országgyűlési Őrség vonatkozásában a 21. § (3) bekezdésében, a 163. § (4) bekezdésében, valamint a 176. § (6) bekezdésében foglaltaktól eltérően a miniszter vagy az országos parancsnok által kiadott közjogi szervezetszabályozó eszköz helyett a megjelölt tárgyköröket az Országgyűlési Őrség parancsnoka belső szabályzatban szabályozza.
 
-330. § (1) Az 54. § alkalmazása helyett az Országgyűlési Őrség hivatásos állománya tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
+330. § (1) Az 54. § és 54/A. § alkalmazása helyett az Országgyűlési Őrség hivatásos állománya tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
 
 - a) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta vagy
 - b) a hivatásos állomány tagja a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta.
@@ -6349,82 +6348,27 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (2) Az Országgyűlési Őrségnél a könnyített állományra vonatkozó szabályok nem alkalmazhatók. Ha az Országgyűlési Őrség hivatásos állományának tagja megfelel a 79. §-ban meghatározott feltételeknek, kezdeményezésére át kell helyezni másik rendvédelmi szervhez, feltéve, hogy a másik rendvédelmi szervnél van olyan, a kérelmező által betölthető szolgálati beosztás, amely könnyített szolgálattal is ellátható.
 
-#### 128. A polgári nemzetbiztonsági szolgálatok hivatásos állományára vonatkozó szabályok
+#### 128.
 
-331. § A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja a gyülekezési törvény hatálya alá eső rendezvényen történő megjelenési szándékát köteles a munkáltatói jogkört gyakorló elöljárónak bejelenteni, aki a részvételt megtilthatja.
+#### 331. §
 
-332. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja külföldre utazásának tervezett napját, útvonalát, célját, hazatérésének várható időpontját az állományilletékes parancsnoknak köteles bejelenteni. Az állományilletékes parancsnok a külföldre utazást szolgálati és biztonsági érdekből megtilthatja vagy korlátozhatja.
+#### 332. §
 
-(2) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja – a szolgálati elöljáró által elrendelt időszakban – köteles bejelenteni a szolgálaton kívüli tartózkodási helyét.
+#### 333. §
 
-333. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja szakszervezetnek nem lehet tagja, a polgári nemzetbiztonsági szolgálatoknál a hivatásos állomány érdekvédelmére szakszervezet nem működhet.
+#### 334. §
 
-(2) A 109. § (5) bekezdésétől eltérően a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja köteles bejelenteni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső tevékenység folytatását. Ezen tevékenységek folytatását az állományilletékes parancsok korlátozhatja, ha az sérti vagy veszélyezteti a szolgálati érdeket.
+#### 335. §
 
-334. § (1) A polgári nemzetbiztonsági szolgálatoknál a szolgálati viszony létesítésének további feltétele a poligráfos vizsgálaton való részvétel vállalása. A poligráfos vizsgálatot – a miniszter által meghatározott szabályok szerint – a hivatásos állományba vételre irányuló eljárás, a nemzetbiztonsági szolgálatokról szóló törvény szerinti belső biztonsági és bűnmegelőzési feladatok végrehajtása, valamint a nemzetbiztonsági ellenőrzés végrehajtása során lehet elrendelni. A poligráfos vizsgálat kérdései csak biztonsági kockázati tényezőkkel kapcsolatos adatkörökre terjedhetnek ki.
+#### 336. §
 
-(2) A miniszter e törvényben meghatározottakon túl, a szolgálat sajátosságainak megfelelő további alkalmassági követelményeket határozhat meg.
+#### 336/A. §
 
-(3) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, egészségügyi szolgálati jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, igazságügyi alkalmazotti szolgálati jogviszonyból, a Magyar Honvédség hivatásos katonai állományából vagy más rendvédelmi szervnél fennálló szolgálati viszonyból áthelyezéssel történik, próbaidő a 49. § (1)–(3) bekezdésében foglaltakra figyelemmel kiköthető.
+#### 337. §
 
-335. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja – az 51. §-ban meghatározott szerveken kívül – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott intézményeknél és szervezeteknél is teljesíthet szolgálatot.
+#### 338. §
 
-(2) Az 54. § alkalmazása helyett a polgári nemzetbiztonsági szolgálatok hivatásos állománya tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta.
-
-(3) A polgári nemzetbiztonsági szolgálatok hivatásos állományának más szervhez vezénylése esetén a 62. § (2) bekezdésében foglalt rendelkezés nem alkalmazandó.
-
-(4) A polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében azon szolgálati beosztásban, amelyben idegen nyelv használata szükséges, valamint ahol az idegen nyelv ismerete a szolgálati beosztással járó feladat, az idegennyelv-tudási pótlék mértékét a 160. § (6) bekezdése alapján kell megállapítani.
-
-(5) A 130. § (1) bekezdésétől eltérően a polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében a miniszter által meghatározott szolgálati beosztásokban a rendészeti alapvizsga helyett közigazgatási alapvizsga, vagy közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, továbbá rendészeti szakvizsga helyett közigazgatási szakvizsga, vagy közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség teljesítése írható elő.
-
-(6) A 121. § (2) bekezdésétől eltérően a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja magasabb rendfokozatba és az ahhoz rendelt fizetési fokozatba rendfokozati vizsga teljesítése nélkül előléptethető.
-
-(7) A 125. § (3) bekezdésétől eltérően a polgári nemzetbiztonsági szolgálatok hivatásos állománya tagjának soron kívül eggyel magasabb rendfokozatba történő kinevezése, előléptetése esetén a rendfokozati vizsgát utólag nem kell teljesítenie.
-
-336. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja központi állományban van, ha szolgálatteljesítése alapvetően a munkáltató polgári nemzetbiztonsági szolgálatnál történik.
-
-(2) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja kihelyezett állományban van, ha
-
-- a) nemzetbiztonsági feladatait külső foglalkoztatásra irányuló jogviszonyt létesítve – azt felhasználva – leplezetten látja el,
-- b) nemzetbiztonsági feladatait külső foglalkoztatásra irányuló jogviszony létesítése nélkül, huzamosabb időn át leplezetten látja el.
-
-(3) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja a 77. §-ban felsorolt eseteken kívül akkor is rendelkezési állományban van, ha a külső szervvel létesített leplezett foglalkoztatási jogviszonyának megszűnését követően nemzetbiztonsági feladatokat átmenetileg nem lát el, de szolgálati viszonyának fenntartása továbbra is indokolt. A rendelkezési állomány időtartama legfeljebb egy év, amelyet az országos parancsnok indokolt esetben további egy évvel meghosszabbíthat.
-
-(4) A (2) bekezdés szerinti kihelyezett állományban, valamint a (3) bekezdés szerinti rendelkezési állományban lévők szolgálati viszonya folyamatos. Ha az állomány ezen tagjának a külső foglalkoztatásra irányuló jogviszonyából származó illetménye, díjazása nem éri el az e törvény szerint őt megillető illetményt, a különbözetet és az egyéb bér jellegű járandóságokat részére a polgári nemzetbiztonsági szolgálat fizeti meg. Az állomány ezen tagja a polgári nemzetbiztonsági szolgálat terhére illetményben és egyéb bér jellegű kifizetésekben a miniszter által meghatározott rendben és feltételekkel részesülhet.
-
-(5) A kihelyezés feltételeit, eljárásrendjét, a kihelyezés megszüntetésének, valamint a (3) bekezdés szerinti rendelkezési állományba helyezés szabályait, továbbá a kihelyezés vagy a (3) bekezdés szerinti rendelkezési állomány ideje alatt a hivatásos állomány tagja részére e törvény alapján illetmény vagy más juttatás kifizetésére, valamint a szabadság kiadására vonatkozó részletszabályokat a miniszter közjogi szervezetszabályozó eszközben szabályozza.
-
-(6) A hivatásos állomány kihelyezett állományban lévő tagjának a kihelyezés időtartama alatt a hivatásos szolgálati viszonyára tekintettel kifizetett jövedelméből – a személyi jövedelemadóról szóló törvény szerinti összevont adóalapra meghatározott általános adómérték alkalmazásával számított személyi jövedelemadó és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint a biztosított által fizetendő járulékok mértékeivel megegyező összegű – adót kell levonni és befizetni az adóhatóságnak.
-
-(7) A nemzetbiztonsági szolgálatok hivatásos állománya tagjának e jogviszonyával összefüggő, leplezett módon történő külföldi feladat-végrehajtásra irányuló külföldi szolgálati kiküldetése alapján kifizetett jövedelméből – a személyi jövedelemadóról szóló törvény szerinti összevont adóalapra meghatározott általános adómérték alkalmazásával számított személyi jövedelemadó és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint a biztosított által fizetendő járulékok mértékeivel megegyező összegű – adót kell levonni és befizetni az adóhatóságnak.
-
-(8) A (6) és (7) bekezdésben meghatározott esetben a kifizetett jövedelem járulékalapot képező jövedelemnek minősül, amely után a hivatásos állomány tagja által fizetendő egyéni járulékokat a levont adó tartalmazza. A hivatásos állomány tagjának ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek nem kell erről a jövedelemről a hivatásos állomány tagja részére igazolást kiadnia. A kifizetőnek ezen adót, valamint a munkáltatót terhelő közterheket az adóhatóság felé nem kell személyre szólóan bevallania. A nemzetbiztonsági érdek és a személyi biztonsági feltételek érvényesítése érdekében a nemzetbiztonsági szolgálatok a hatóságok részére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdése szerinti külön megállapodás alapján teljesítik a nyugdíjjárulék fizetésével összefüggő adatszolgáltatási kötelezettségeiket.
-
-336/A. § (1) A polgári nemzetbiztonsági szolgálatot irányító miniszter előzetes jóváhagyásával a polgári nemzetbiztonsági szolgálat főigazgatója át nem ruházható hatáskörében, illetve a polgári nemzetbiztonsági szolgálat főigazgatója és helyettese esetében a miniszter a polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának, valamint a polgári nemzetbiztonsági szolgálathoz vezényelt hivatásos állomány tagjának az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg.
-
-(2) A személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonást követően a polgári nemzetbiztonsági szolgálat hivatásos állományának tagját az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött beosztás alapján kell besorolni és illetményét megállapítani.
-
-(3) A személyi illetményben részesülők illetményét évente – január 31-ig – felül kell vizsgálni.
-
-(4) A személyi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
-
-(5) Visszavonás nélkül is megszűnik a személyi illetmény, ha a polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának besorolása szerinti illetményének összege eléri a személyi illetmény összegét. Ebben az esetben a polgári nemzetbiztonsági szolgálat hivatásos állományának tagját az általa betöltött beosztás alapján kell besorolni, és illetményét megállapítani.
-
-(6) A személyi illetményben részesülők nem jogosultak a 158. § (1) bekezdése szerinti teljesítményjuttatásra.
-
-(7) A (6) bekezdés szerinti állomány esetében a 158. § (3) és a (3a) bekezdése nem alkalmazandó.
-
-(8) Amennyiben a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja részére személyi illetmény került megállapításra, úgy távolléti díjként részére a megállapított személyi illetmény távollét idejére számított időarányos része jár.
-
-337. § (1) A polgári nemzetbiztonsági szolgálatok esetében az elöljáró parancsa teljesítésének módjára a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott eltérő rendelkezéseket kell alkalmazni.
-
-(2) A titoktartási kötelezettség alól a miniszter, valamint a munkáltatói jogkört gyakorló elöljáró adhat felmentést. E jogkör nem ruházható át.
-
-338. § A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja minősítését bíróság előtt nem támadhatja meg.
-
-339. § (1) A polgári nemzetbiztonsági szolgálat személyügyi alapnyilvántartásába a 275. § (1) bekezdésében meghatározottakon túl betekinteni, valamint onnan adatot átvenni a miniszter, a miniszter kabinetfőnöke, valamint a miniszter által meghatározott, a miniszteri irányítási feladatok ellátását segítő szervezetben vagy az illetékes munkáltatói jogkört gyakorló elöljáró által meghatározott, a polgári nemzetbiztonsági szolgálatoknál dolgozó személyek jogosultak.
-
-(2) A polgári nemzetbiztonsági szolgálatok esetében a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
+#### 339. §
 
 ### XXXI/A. Fejezet — AZ EGÉSZSÉGÜGYI VÁLSÁGHELYZETRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -6466,8 +6410,8 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 340/A. § Felhatalmazást kap a Kormány, hogy a rendvédelmi igazgatási alkalmazottak tekintetében rendeletben határozza meg:
 
-- a) a polgári nemzetbiztonsági szolgálatoknál az idegennyelv-tudási pótlékra jogosító munkaköröket,
-- b) a polgári nemzetbiztonsági szolgálatok esetében azon általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítványt igénylő munkaköröket, amelyek a XXVIII/A. Fejezet hatálya alá tartozó igazgatási jogviszonyban láthatók el,
+- a)
+- b)
 - c) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és az e vizsgák alóli mentesítés szabályait,
 - d) a nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat.
 - e) a hatósági kirendelés szabályait.
@@ -6563,27 +6507,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (5) Felhatalmazást kap a miniszter az általa irányított rendvédelmi szerv tekintetében – az Országgyűlési Őrség vonatkozásában az Országgyűlés elnöke véleményének kikérésével a rendészetért felelős miniszter –, hogy az egészségkárosodási ellátás megállapításával kapcsolatos részletes eljárási szabályokat, az egészségkárosodási ellátás számításának és folyósításának szabályait, továbbá az egészségkárosodási ellátásra jogosultakkal betölthető szolgálati beosztások és nem hivatásos munkakörök meghatározásának rendjét rendeletben állapítsa meg.
 
-342. § (1) A 341. § (1) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben szabályozza a 341. § (1) bekezdés
-
-- a) 2. pont a), b), c) és d) alpontjában meghatározott tárgykört,
-- b) 6. pont a), c) és f) alpontjában meghatározott tárgykört,
-- c) 7. pontjában meghatározott tárgykört,
-- d) 13. pont a), g), h) és i) alpontjában meghatározott tárgykört,
-- e) 15. pont b) alpontjában meghatározott tárgykört,
-- f) 17. pontjában meghatározott tárgykört,
-- g) 18. pont b), c), d) és e) alpontjában meghatározott tárgykört,
-- h) 19. pontjában meghatározott tárgykört,
-- i) 20. pont a), b) és c) alpontjában meghatározott tárgykört,
-- j) 21. pont b), d) és e) alpontjában meghatározott tárgykört,
-- k) 24. pontjában meghatározott tárgykört.
-
-(2) A polgári nemzetbiztonsági szolgálatok esetében a miniszter a kihelyezett állományra és a 336. § (3) bekezdése szerinti, kihelyezett állományból rendelkezési állományba helyezettekre vonatkozó különös szabályokat közjogi szervezetszabályozó eszközben állapítja meg.
-
-(3) A 341. § (4) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
-
-(4) A polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg azon hivatásos szolgálati beosztásokat és rendvédelmi igazgatási alkalmazotti munkaköröket, ahol a 6/A. § (3)–(5) bekezdése, valamint a 362/C. § nem alkalmazható.
-
-(5) A 342/F. § (1) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter a polgári nemzetbiztonsági szolgálatnál foglalkoztatott munkavállaló tekintetében közjogi szervezetszabályozó eszközben határozza meg a munkavállaló kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, a kártérítés mérséklésének, elengedésének és mellőzésének részletes szabályait.
+#### 342. §
 
 342/A. § (1) Felhatalmazást kap a miniszter, hogy a rendvédelmi igazgatási alkalmazottak tekintetében rendeletben határozza meg
 
@@ -6604,15 +6528,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - o) az önként vállalt túlmunka vállalásának és elszámolásának rendjét.
 - p) az érdemtelenség megállapítására vonatkozó eljárási szabályokat.
 
-(2) A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:
-
-- a) azokat a munkaköröket, amelyek esetében a 6/A. § (3)–(5) bekezdése nem alkalmazható,
-- b) a kirendelés részletes szabályait,
-- c) az egészségi alkalmassági követelményeket, az egészségi alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
-- d) a továbbképzés részletes szabályait,
-- e) a munkavégzés helyétől, idejétől és körülményeitől függő egyéb pótlékok folyósításának feltételeit,
-- f) a polgári nemzetbiztonsági szolgálat és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, a kártérítés mérséklésének, elengedésének és mellőzésének részletes szabályait,
-- g) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.
+(2)
 
 342/B. § Felhatalmazást kap a miniszter, hogy az iskolaőrök tekintetében rendeletben határozza meg
 
@@ -6741,7 +6657,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (4) A 140. § (2) és (3) bekezdésétől eltérően 2025. december 31-ig a túlszolgálat ellentételezéseként a hivatásos állomány tagját – az állományilletékes és annál magasabb parancsnok kivételével – szabadidő vagy díjazás illeti meg. Az ellentételezés formájáról – a szolgálatszervezés érdekeire figyelemmel, a hivatásos állomány tagja igényének, a pihenéshez való jog, a szolgálatteljesítés és a pihenőidő egyensúlya biztosításának, valamint a költségvetési forrásokkal való felelős gazdálkodás követelményének figyelembevétele mellett – az állományilletékes parancsnok dönt. A túlszolgálatért annak időtartamával megegyező, ha pedig a túlszolgálatot a heti pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesítették, a túlszolgálat kétszeresének megfelelő szabadidő vagy díjazás jár. A túlszolgálatért díjazásként annak idejére távolléti díj jár, amelyet legkésőbb a tárgyhónapot követő második hónapban kell kifizetni.
 
-(4a) A polgári nemzetbiztonsági szolgálatok hivatásos állománya vonatkozásában az állományilletékes parancsnok szolgálati érdekből dönthet úgy, hogy egyes szolgálati beosztások esetében a teljesített túlszolgálat a (4) bekezdésben foglaltaktól eltérően csak díjazással vagy csak szabadidőben ellentételezhető.
+(4a)
 
 (4b) A 140. § (6)–(24) bekezdése szerinti önként vállalt túlszolgálat és a 289/L. § (10)–(28) bekezdése szerinti önként vállalt túlmunka elrendelésére 2025. december 31-ig van lehetőség.
 
@@ -6767,7 +6683,14 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - a) illetményemelkedés: a korábbi rendszeres díjazás és a hatályos rendszeres díjazás különbözete,
 - b) korábbi rendszeres díjazás: a hivatásos állomány tagját 2015. június 30-án az 1996. évi XLIII. törvény 1.) 100. §-a szerinti beosztási illetmény, és rendfokozati illetmény, azzal, hogy a 101. § szerinti (4) bekezdése szerinti, 2015. évre megállapított illetményeltérítést nem lehet figyelembe venni, 2.) 100/A. §-a szerinti szolgálati időpótlék, 3.) 100/B. §-a szerinti vezetői illetménypótlék, 4.) 103. §-a szerinti illetménykiegészítés, 5.) 103/B. §-a szerinti kompenzációs illetménykiegészítés, 6.) 104/A. §-a szerinti képzettségi vagy munkaköri pótlék, 7.) 245/I. §-a szerinti kiegészítő juttatás, 8.) 254. § (2) bekezdés a) pontja szerinti, egy hónapra számított pótlékok, 9.) 292. § szerinti nemzetbiztonsági pótlék, 10.) 293. § (1) bekezdése szerinti, egy hónapra számított pótlékok: a személyi pótlék, a gépjárművezetői pótlék, a közterületi pótlék, 11.) 306. § (1) bekezdése szerinti, egy hónapra számított pótlékok: a gépjárművezetői pótlék, a lovasjárőri pótlék, a kutyavezetői pótlék, az őrzési pótlék együttes összege,
 - c) hatályos rendszeres díjazás: a 2015. július 1-jén a hivatásos állomány tagjának besorolása alapján a 1.) 155. § szerinti beosztási illetmény, 2.) 156. § szerinti szolgálati időpótlék, 3.) 157. § szerinti hivatásos pótlék, 4.) 161. § (1) bekezdés a) és b) pontja szerinti, egy hónapra számított pótlék együttes összege,
-- d) a rendvédelmi szerv alapfeladatának ellátására létrehozott szolgálati beosztás: az a szolgálati beosztás, amely alapján a hivatásos állomány tagja olyan tevékenységet végez, amely 1.) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdésében meghatározott, 2.) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 4., 5. és 8. §-ában meghatározott, 3.) a hivatásos katasztrófavédelmi szerv állománya esetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény szerinti tűzvédelmi, tűzoltási és műszaki mentési feladatok, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti katasztrófavédelmi, polgári védelmi, valamint iparbiztonsági, 4.) a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 1. § (1) bekezdésében meghatározott, illetve 5.) az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdésében meghatározott feladatok ellátására irányul, ezen szolgálati beosztások körét a miniszter rendeletben, a polgári nemzetbiztonsági szolgálatok esetében közjogi szervezetszabályozó eszközben határozza meg,
+- d) a rendvédelmi szerv alapfeladatának ellátására létrehozott szolgálati beosztás: az a szolgálati beosztás, amely alapján a hivatásos állomány tagja olyan tevékenységet végez, amely
+  - da) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdésében meghatározott,
+  - db) a hivatásos katasztrófavédelmi szerv állománya esetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény szerinti tűzvédelmi, tűzoltási és műszaki mentési feladatok, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti katasztrófavédelmi, polgári védelmi, valamint iparbiztonsági,
+  - dc) a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 1. § (1) bekezdésében meghatározott, illetve
+  - dd) az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdésében meghatározott
+
+feladatok ellátására irányul, ezen szolgálati beosztások körét a miniszter rendeletben határozza meg,
+
 - e) 2016-os illetménykülönbözet: a korábbi rendszeres díjazás és a 2016-os rendszeres díjazás közötti emelkedés százalékos mértékben kifejezve,
 - f) 2016-os rendszeres díjazás: a c) pont 1–4. alpontjában felsorolt illetményelemeknek a hivatásos állomány tagjának besorolása alapján a XIII. Fejezet szerint, 2016. január 1. napján számított együttes összege,
 - g) 2017-es illetménykülönbözet: a korábbi rendszeres díjazás és a 2017-es rendszeres díjazás közötti emelkedés százalékos mértékben kifejezve,
@@ -6859,7 +6782,7 @@ kell sorolni.
 
 (5) A 284–287/B. § rendelkezéseit a rendészeti alapképzésben részt vevő azon hallgatók esetében kell alkalmazni, akik tanulmányaikat a 2016/2017. tanévben vagy azt követően kezdik meg.
 
-362/A. § A Módtv.-nyel megállapított 18. § (3) bekezdésében szereplő, a polgári nemzetbiztonsági szolgálatok hivatásos állománya részére kiállított szolgálati igazolványok adattartalmára vonatkozó módosításra tekintettel a szolgálati igazolványok cseréjét 2016. december 31-ig kell elvégezni, a 2016. január 1-jét megelőzően kiadott, a társadalombiztosítási azonosító jelet is tartalmazó szolgálati igazolvány 2016. december 31-ig tovább használható.
+#### 362/A. §
 
 362/B. § A Módtv.-nyel megállapított 6. § (9) bekezdésében szereplő rendelkezés azon rendvédelmi szerveknél – az Országgyűlési Őrség kivételével –, amelyek rendelkeznek az elektronikus dokumentumok kiállításához szükséges feltételekkel, 2016. január 1-jétől kötelezően alkalmazandó. Azon rendvédelmi szerveknél – az Országgyűlési Őrség kivételével –, amelyek nem rendelkeznek az elektronikus dokumentumok kiállításához szükséges feltételekkel, a feltételek megteremtéséről legkésőbb 2016. június 30-ig kell gondoskodni és a 6. § (9) bekezdésében foglalt szabályozást 2016. július 1-jétől alkalmazni kell.
 
@@ -6969,9 +6892,13 @@ alakul át.
 
 (2) Az egészségügyi szabadság (1) bekezdés szerinti időtartamára az egészségügyi szabadság 365. napján folyósítható ellátást kell folyósítani.
 
-363/B. § A 336/A. § (1) bekezdése szerinti személyi illetményben részesülő hivatásos állomány tagjának 2022. évi teljesítményértékelésére és minősítésére 2023. évben nem kerül sor.
+#### 363/B. §
 
 363/C. § A 336/A. § (1) bekezdése szerinti személyi illetményben részesülő hivatásos állomány tagjának 2023. évi teljesítményértékelésére és minősítésére 2024. évben nem kerül sor.
+
+363/D. § Az 1. § (1) bekezdés a)–g) pontja szerinti rendvédelmi szervtől a polgári nemzetbiztonsági szolgálatokhoz történő, 2025. február 28. napján fennálló, 62. § szerinti más szervhez vezénylés hatályát nem érinti az 1. § (1) bekezdés h) pontjának 2025. március 1-jei hatályon kívül helyezése, illetve a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény 2025. március 1-jei hatálybalépése. Az e törvénynek a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásával összefüggő törvények módosításáról szóló 2024. évi LXXI. törvény hatálybalépését megelőzően hatályos rendelkezései szerinti vezénylési határozatok és vezénylési megállapodások felülvizsgálata nem szükséges.
+
+363/E. § Az MRK-nak a polgári nemzetbiztonsági szolgálatok állományából megválasztott tisztségviselőjének megbízatása 2025. március 1-jén megszűnik. A megszűnő megbízatású tisztségviselő helyett az MRK a szükséges esetben a Közgyűlés tagjai közül az új tisztségviselőt 2025. március 31-ig választja meg
 
 364. § (1) Ez a törvény a felhatalmazása alapján kiadott rendeletekkel együtt
 
@@ -7650,7 +7577,7 @@ e) alez. – alezredes
 
 ### 7. melléklet a 2015. évi XLII. törvényhez
 
-Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások besorolása a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, az Országgyűlési Őrségnél, valamint a polgári nemzetbiztonság szolgálatoknál
+Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások besorolása a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, az Országgyűlési Őrségnél
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
@@ -7694,7 +7621,7 @@ f) ftzls. – főtörzszászlós
 
 ### 8. melléklet a 2015. évi XLII. törvényhez
 
-Tiszti besorolási osztályba tartozó szolgálati beosztások besorolása a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, az Országgyűlési Őrségnél, valamint a polgári nemzetbiztonság szolgálatoknál
+Tiszti besorolási osztályba tartozó szolgálati beosztások besorolása a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, az Országgyűlési Őrségnél
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |

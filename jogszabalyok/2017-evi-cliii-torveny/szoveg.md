@@ -56,7 +56,7 @@ kell érteni.
 - 9. gépjármű: olyan jármű, amelyet beépített erőgép hajt;
 - 10. hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti hozzátartozó;
 - 11. jármű: közúti szállító- vagy vontató eszköz, ideértve az önjáró vagy vontatott munkagépet is;
-- 12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, állami szolgálati közalkalmazotti és egészségügyi szolgálati jogviszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
+- 12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, állami szolgálati közalkalmazotti és egészségügyi szolgálati jogviszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, nemzetbiztonsági alkalmazotti szolgálati jogviszonyon, nemzetbiztonsági szolgálati jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
 - 13. költségvetési támogatás: az államháztartásról szóló törvény (a továbbiakban: Áht.) szerinti támogatás és az Art. szerinti azon költségvetési támogatások, amelyek az Áht. alapján nem minősülnek támogatásnak;
 - 14. közeli hozzátartozó: a Ptk. szerinti közeli hozzátartozó;
 - 15. közeli lejáratú termék:
@@ -304,7 +304,7 @@ végzés ellen.
 - 3. az adózóval közölt adóhatósági adómegállapítás,
 - 4. az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozat, bíróság által jogerősen jóváhagyott egyezség, továbbá a bírósági eljárási illetéket megállapító bírósági határozat, valamint a bírósági eljárási illeték tárgyában küldött bírósági megkeresés és értesítés,
 - 5. az egészségügyi szolgáltatási járulékfizetési kötelezettséget tartalmazó bejelentés, valamint a biztosítottak nyilvántartásáért felelős szerv részéről az egészségügyi szolgáltatási járulékfizetési kötelezettség előírása érdekében teljesített elektronikus adatszolgáltatás,
-- 6. a büntetőeljárásban a fiatalkorúval szemben kiszabott pénzbüntetésről, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, valamint a büntetőeljárásban a jogi személlyel szemben kiszabott pénzbírságról szóló végrehajtható határozat – ideértve az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszeg, jogi személlyel szemben kiszabott pénzbírság vagy köz javára fizetendő jóvátétel és az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzás végrehajtásának átvételéről szóló határozatot is – (a továbbiakban együtt: bűnügyi követelés) esetén a behajtást kérő megkeresése,
+- 6. a büntetőeljárásban a fiatalkorúval szemben kiszabott pénzbüntetésről, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, a tárhelyszolgáltatás megszüntetéséről, valamint a büntetőeljárásban a jogi személlyel szemben kiszabott pénzbírságról szóló végrehajtható határozat – ideértve az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszeg, jogi személlyel szemben kiszabott pénzbírság vagy köz javára fizetendő jóvátétel és az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzás végrehajtásának átvételéről szóló határozatot is – (a továbbiakban együtt: bűnügyi követelés) esetén a behajtást kérő megkeresése,
 - 7. az általános közigazgatási rendtartáson alapuló végrehajtás esetén a behajtást kérő hatóság megkeresésének mellékletét képező, annak alapjául szolgáló döntés – ide értve a meghatározott cselekmény végrehajtását is –,
 - 8. az adók módjára behajtandó köztartozás esetén a behajtást kérő megkeresése,
 - 9. a bíróság pénzbírságról, teljesítési bírságról, rendbírságról – kivéve, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a Vht. 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi – szóló értesítése esetén a behajtást kérő megkeresése,
@@ -326,7 +326,7 @@ a megállapításáról szóló értesítés esetén a behajtást kérő megkere
 - 13. az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítés esetén a behajtást kérő megkeresése,
 - 14. a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról szóló értesítése esetén a behajtást kérő megkeresése,
 - 15. a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítés esetén a behajtást kérő megkeresése,
-- 16. a büntetőeljárásban a zár alá vétel elrendeléséről, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az elektronikus adat megőrzésére kötelezésről szóló határozat esetén a behajtást kérő megkeresése,
+- 16. a büntetőeljárásban a zár alá vétel elrendeléséről, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, az elektronikus adat megőrzésére kötelezésről, valamint a tárhelyszolgáltatás felfüggesztéséről szóló határozat esetén a behajtást kérő megkeresése,
 - 17. az Európai Unió és az Egyesült Nemzetek Szervezete Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés esetén a behajtást kérő megkeresése,
 - 18. a polgári ügyben az állam által előlegezett költséget tartalmazó megkeresés,
 - 19. a bíróság által előlegezett gyermektartásdíjat tartalmazó megkeresés,
@@ -1407,7 +1407,7 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 (2) A zárlat feloldásának a bíróság által engedélyezett mentesítésről vagy a végrehajtás megszüntetéséről szóló határozata alapján van helye.
 
-125/G. § (1) Az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételének végrehajtása során az állami adó- és vámhatóság jár el.
+125/G. § (1) Az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételének, továbbá a tárhelyszolgáltatás felfüggesztésének és megszüntetésének végrehajtása során az állami adó- és vámhatóság jár el.
 
 (2) A végrehajtó az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról szóló határozatot a helyszínen adja át az adósnak, egyúttal felhívja az adóst, hogy az abban foglalt kötelezettségét azonnal teljesítse. Ha az azonnali teljesítés feltételei nem állnak fenn, a végrehajtó legkésőbb a kézbesítést követő munkanapon ellenőrzi a helyszínen a teljesítést. Ha az adós, illetve képviselője nincs jelen, a végrehajtó az okiratot a jegyzőkönyv másolatával együtt kézbesíti az adósnak, illetve képviselőjének.
 
@@ -1425,7 +1425,9 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 (9) A végrehajtás megszűnik a megkeresés állami adó- és vámhatósághoz érkezésétől számított három év elteltével.
 
-(10) Az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételének végrehajtása során adós alatt a tárhelyszolgáltatót kell érteni.
+(10) Az (1) bekezdés szerinti eljárásokban adós alatt a tárhelyszolgáltatót kell érteni.
+
+(11) Az állami adó- és vámhatóság a tárhelyszolgáltatás felfüggesztésekor a (2)–(4) bekezdés szerint, a tárhelyszolgáltatás megszüntetésekor az (5)–(9) bekezdés szerint jár el.
 
 #### 57/C. A 29. § (1) bekezdés 4. pontja szerinti pénzkövetelés végrehajtásának szabályai
 

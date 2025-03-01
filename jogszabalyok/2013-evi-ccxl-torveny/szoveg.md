@@ -68,8 +68,9 @@ során kell alkalmazni.
 - 12a. kézbesítési cím: az elítélt vagy az egyéb jogcímen fogvatartott, továbbá a pártfogó felügyelet külön magatartási szabályának végrehajtásával összefüggésben a sértett vagy az egyéb érintett által megjelölt, a lakcímétől, értesítési címétől, tényleges tartózkodási helyétől eltérő, a postai úton történő kapcsolattartásra szolgáló cím;
 - 13. munkáltatás: a reintegrációs tevékenység azon formája, amikor az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető munkavégzése szervezetten, rendszeresen, haszon- vagy bevételszerzési céllal, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) által szabályozott munkaviszonytól eltérő, jogszabályban meghatározott feltételekkel és díjazás ellenében történik, az így létrejövő munkáltatási jogviszony alanyai munkáltatóként a bv. intézet, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vagy a bv. szerv szerződése és az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető hozzájárulása alapján más gazdálkodó szervezet, valamint munkavégzőként – a reintegrációs őrizetben lévő elítélt kivételével – az elítélt, a kényszerintézkedés hatálya alatt álló személy vagy a szabálysértési elzárásra kötelezett elkövető;
 - 14. munkaterápiás foglalkoztatás: a reintegrációs tevékenység azon formája, amikor elsősorban a kényszergyógykezelt, az előzetes kényszergyógykezelt és a gyógyító-reintegráló csoportba helyezett, valamint a megváltozott munkaképességű vagy egyébként az egészségi állapota miatt a munkáltatásban részt venni nem képes elítélt foglalkoztatása szervezetten, rendszeresen, e törvényben meghatározott feltételekkel és térítési díj ellenében, büntetés-végrehajtási jogviszony keretében történik,
-- 14a. rendfokozat: a Magyar honvéd esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
-- 14b. tényleges tartózkodási hely: lakcím hiányában vagy a lakcímtől eltérően az az ingatlan, ahol az elítélt vagy az egyéb jogcímen fogvatartott ténylegesen tartózkodik, továbbá közérdekű munka vagy pártfogó felügyelet végrehajtása szempontjából az elítélt munkahelye,
+- 14a. rendelkezési jogkör gyakorlója: a letartóztatással összefüggésben a bíróságnak a tárgyalás előkészítése során hozott határozatáig az ügyészség, ezt követően a bíróság; a szabadságvesztés végrehajtása esetén az elítélttel szemben szabadságvesztéssel fenyegetett bűncselekmény miatt indult büntetőeljárással összefüggésben az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van,
+- 14b. rendfokozat: a honvéd és a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
+- 14c. tényleges tartózkodási hely: lakcím hiányában vagy a lakcímtől eltérően az az ingatlan, ahol az elítélt vagy az egyéb jogcímen fogvatartott ténylegesen tartózkodik, továbbá közérdekű munka vagy pártfogó felügyelet végrehajtása szempontjából az elítélt munkahelye,
 - 15. védő: a Be. szerinti védő, valamint a büntetések és az intézkedések végrehajtása alatt az elítélt vagy az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében eljáró ügyvéd,
 - 16. végrehajtásért felelős szerv: a büntetés-végrehajtási szervezet, a javítóintézet, a pártfogó felügyelői szolgálatként a Kormány által kijelölt szerv (a továbbiakban: pártfogó felügyelői szolgálat).
 - 17. végrehajtás rendje: a büntetések és a kényszerintézkedések végrehajtására vonatkozó jogszabályok és ezeken alapuló normatív utasítások érvényesülésének összessége, amely biztosítja a büntetés-végrehajtási feladatok zavartalan ellátását, valamint az elítéltek és az egyéb jogcímen fogvatartottak jogainak érvényesülését és kötelezettségeinek teljesítését.
@@ -525,7 +526,7 @@ hajtható végre.
 
 (2) Az intézkedés végrehajtását kizárja:
 
-- a) az elkobzás, a vagyonelkobzás és az elektronikus adat végleges hozzáférhetetlenné tétele kivételével az elítélt, illetve annak a személynek a halála, akivel szemben az intézkedést elrendelték,
+- a) az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tétele és a tárhelyszolgáltatás megszüntetése kivételével az elítélt, illetve annak a személynek a halála, akivel szemben az intézkedést elrendelték,
 - b) az elévülés,
 - c) a kegyelem,
 - d) törvényben meghatározott egyéb ok.
@@ -1022,7 +1023,7 @@ alaposan feltehető-e, hogy a büntetés célja további szabadságelvonás nél
 50. § (1) A büntetés-végrehajtási bíró
 
 - a) egyesbíróként jár el,
-- b) az e törvényben meghatározott esetekben iratok alapján hozhatja meg a döntést, ez esetben beszerezheti az ügyészség és az elítélt nyilatkozatát, aminek a megtételére tizenöt napos határidővel adja ki a felhívást; egyéb esetekben, vagy ha azt szükségesnek tartja, az elítéltet meghallgatja, bizonyítás felvétele esetén tárgyalást tart; nem minősül bizonyítás felvételének az okirati bizonyíték vagy irat beszerzése, becsatolása, illetve azok ismertetése a meghallgatáson; az ügyészség és a védő az elítélt meghallgatásán jelen lehet, a tárgyaláson az ügyészség és a védő jelenléte kötelező, a végrehajtásért felelős szerv képviselője a meghallgatáson vagy a tárgyaláson jelen lehet és felszólalhat,
+- b) az e törvényben meghatározott esetekben iratok alapján hozhatja meg a döntést, ez esetben beszerezheti az ügyészség és az elítélt nyilatkozatát, aminek a megtételére tizenöt napos határidővel adja ki a felhívást; egyéb esetekben, vagy ha azt szükségesnek tartja, az elítéltet meghallgatja, bizonyítás felvétele esetén tárgyalást tart; nem minősül bizonyítás felvételének az okirati bizonyíték vagy irat beszerzése, becsatolása, illetve azok, valamint a szakértői vélemény ismertetése a meghallgatáson; az ügyészség és a védő az elítélt meghallgatásán jelen lehet, a tárgyaláson az ügyészség és a védő jelenléte kötelező, a végrehajtásért felelős szerv képviselője a meghallgatáson vagy a tárgyaláson jelen lehet és felszólalhat,
 - c) e törvény eltérő rendelkezése hiányában az indítvány, illetve az előterjesztés beérkezését követő, vagy hivatalból történő eljárás esetén, az eljárás alapjául szolgáló ténynek vagy körülménynek a tudomására jutásától számított
   - ca) harminc napon belüli, fogva lévő elítélt esetén tizenöt napon belüli időpontra tűzi ki a meghallgatást,
   - cb) negyvenöt napon belüli, fogva lévő elítélt esetén harminc napon belüli időpontra tűzi ki a tárgyalást,
@@ -1501,7 +1502,7 @@ az elítélt meghallgatása után határoz.
 
 ### A fenyítés felülvizsgálata
 
-75. § (1) A bv. intézet magánelzárás fenyítést kiszabó határozatával szembeni bírósági felülvizsgálati kérelmet a büntetés-végrehajtási bíró az iratnak a hozzá érkezésétől számított öt napon belül bírálja el. A büntetés-végrehajtási bíró a felülvizsgálat során a magánelzárás fenyítéssel járó kreditpontlevonás mértékét is vizsgálja.
+75. § (1) A bv. intézet magánelzárás fenyítést kiszabó határozatával szembeni bírósági felülvizsgálati kérelmet a büntetés-végrehajtási bíró az iratnak a hozzá érkezésétől számított öt napon belül bírálja el. A büntetés-végrehajtási bíró a felülvizsgálat során a magánelzárás fenyítéssel járó kreditpontlevonás mértékét is vizsgálja, és amelytől a jogszabályban meghatározott keretek között eltérhet.
 
 (2) A bűnügyi költséget az állam viseli.
 
@@ -2251,12 +2252,7 @@ felfüggesztheti, és ha az elítélt ez idő alatt jó magaviseletet tanúsít,
 
 (9) Jogszabályban meghatározott kivétellel kategória-előresorolásra első alkalommal a szabadságvesztés végrehajtásának megkezdésétől számított egy év elteltével kerülhet sor, ha az elítélt ezen időszak alatt legalább hét kreditpontot szerzett oly módon, hogy a második hathavi összesítés időszakában is szerzett legalább három kreditpontot. Ez utóbbi feltételnek minden további kategória-előresorolás esetén teljesülnie kell.
 
-(10) Ha az összesítés eredményeként az elítélt elérte
-
-- a) a kategória-előresoroláshoz szükséges kreditpontok hetvenöt százalékát, vagy
-- b) tizenöt évet meghaladó szabadságvesztés esetén a kategória-előresoroláshoz szükséges kreditpontok ötven százalékát
-
-az együttműködési készségére és a reintegrációs tevékenységben való előrehaladására figyelemmel a BFB méltányosságból előresorolhatja, amely esetben a hiányzó kreditpontokat jóváírja.
+(10) Ha az összesítés eredményeként az elítélt elérte a kategória-előresoroláshoz szükséges kreditpontok ötven százalékát, az együttműködési készségére és a reintegrációs tevékenységben való előrehaladására figyelemmel a BFB méltányosságból előresorolhatja, amely esetben a hiányzó kreditpontokat jóváírja.
 
 (11) Ha az elítélt a 97. § (4) bekezdése alkalmazásával a kezdeti kategória-besoroláskor eggyel szigorúbb kategóriába került, egy év elteltével a BFB az összesítéskor a szigorúbb kezdeti kategória-besorolás megalapozottságát is felülvizsgálja, és az elítélt magatartása, együttműködési készsége, illetve reintegrációs tevékenységben való részvétele alapján
 
@@ -2606,6 +2602,13 @@ idézik.
 
 (7) A bírósági ügyekben való előállításra vonatkozó szabályokat a közjegyzői eljárásra is megfelelően alkalmazni kell.
 
+(8) Az (1) bekezdés a) és b) pontja szerinti esetben, ha a büntető ügyben eljáró bíróság az elítéltet több egymást követő napra személyes megjelenéssel idézi, és a bíróság székhelye szerinti vármegyében
+
+- a) nincsen bv. intézet vagy
+- b) a bv. intézet a bíróság székhelyétől távolabb helyezkedik el, mint a rendőrségi fogda,
+
+az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szerinti vármegyében lévő rendőrségi fogdán elhelyezhető.
+
 114. § (1) A nyomozó hatóság az elítéltet az ügyészség engedélye alapján – a bv. intézettel való előzetes egyeztetés szerint – az intézetben kihallgathatja, illetve ha az elítéltek ugyanabban az intézetben vannak fogva tartva, a nyomozó hatóság a szembesítést az intézetben is végrehajthatja, továbbá biztosíthatja a Be. 352. § (1) bekezdése szerinti ügyirat megismerés jogát. A nyomozó hatóság az elítélt intézetben lévő érték- vagy tárgyletétjéből lefoglalhat. Az ügyészség más eljárási cselekmények intézetben történő elvégzésére is engedélyt adhat. Az elítélt részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő védőnek és törvényes képviselőnek a bv. intézetbe történő belépését engedélyezni kell.
 
 (2) Az elítéltet az intézetben a hatósági ügyben eljáró más szerv a bv. intézettel való előzetes egyeztetés alapján hallgathatja ki.
@@ -2613,6 +2616,12 @@ idézik.
 (3) Az elítéltet az illetékes ügyészség, illetve a nyomozó hatóságnak az illetékes ügyészség engedélyét is tartalmazó írásbeli megkeresésére a biztonsági osztályvezető adja ki, eljárási cselekmények lefolytatása, továbbá a Bnytv.-ben meghatározott bűnügyi nyilvántartási adat mintavétele céljából.
 
 (4) Ha az elítélt kiadása a rendőrségi fogdán történő elhelyezéssel jár, úgy azt az illetékes ügyészség legfeljebb hatvan napra engedélyezheti. A határozattal szemben panasznak nincs helye.
+
+(4a) A 113. § (8) bekezdésében meghatározott célból az elítélt rendőrségi fogdán történő elhelyezéssel járó kiadása külön engedélyező határozat nélkül, a bv. intézet parancsnokának és a fogda parancsnokának előzetes egyeztetése alapján végrehajtható. Az elítéltet a fogdán történő elhelyezéséről előzetesen tájékoztatni kell. Az elítélt e célból történő kiadása esetén az elítéltet hétvégére, valamint a munkaszüneti napra a bv. intézetbe vissza kell szállítani.
+
+(4b) A (4a) bekezdésben meghatározott esetben az elítéltet az első személyes megjelenéssel járó eljárási cselekmény lefolytatását követően a további napokra történő előállítás végrehajtása céljából a bíróság székhelye szerint illetékes rendőrségi fogdán át kell adni a rendőrség részére. Az elítéltnek az utolsó személyes megjelenéssel járó eljárási cselekményre történő előállítása és a bv. intézetbe visszaszállítása a végrehajtást foganatosító bv. intézet feladata.
+
+(4c) Az elítélt a rendőrségi fogdán történő elhelyezéssel járó kiadás időtartama alatt a jogszabályban meghatározott tárgyakat viheti magával, továbbá a védőn, államának konzuli tisztségviselőjén, valamint az egyházi személyen és a vallási egyesület vallásos szertartást hivatásszerűen végző tagján kívül más személlyel nem tarthat kapcsolatot. A kiadás folytán elmaradt kategória-besorolás alapján járó, engedélyezett kapcsolattartást és a személyes szükségleteire szolgáló vásárlást pótolni kell, az elítélt részére ez idő alatt érkezett levelet és csomagküldeményt legkésőbb a visszafogadást követő munkanapon át kell adni.
 
 (5) A kiadás nem teljesíthető, ha
 
@@ -3330,7 +3339,7 @@ miatt kiszabott fegyelmi fenyítés.
 (3) A magánelzárás végrehajtása alatt az elítélt
 
 - a) kimaradásra és eltávozásra nem mehet,
-- b) a védőjével való kapcsolattartást kivéve nem telefonálhat és nem levelezhet,
+- b) a védőjével való kapcsolattartást kivéve nem telefonálhat, telekommunikációs eszköz útján nem tarthat kapcsolatot és nem levelezhet,
 - c) nem küldhet, és nem kaphat csomagot,
 - d) nem fogadhat látogatót, kivéve a lelkészt, valamint a szabadulás előkészítése érdekében a leendő munkáltatóját, a büntetés-végrehajtási pártfogó felügyelőt és a karitatív szervezet megbízottját,
 - e) a személyes szükségleteire nem vásárolhat,
@@ -3383,6 +3392,26 @@ miatt kiszabott fegyelmi fenyítés.
 
 (3) Ha a szabadságvesztés foganatba vételére tekintettel szüntette meg a bíróság vagy az ügyészség az elítélttel szemben más büntetőügyben elrendelt letartóztatást, akkor a rendelkezési jogkör gyakorlójának ilyen irányú rendelkezése esetén az elítélt kapcsolattartása vagy elkülönítése tekintetében korábban hozott korlátozó intézkedéseit be kell tartani.
 
+(4) Az elítélttel szemben folyamatban lévő büntetőeljárás adataira figyelemmel a Be. 276. § (2) bekezdésében meghatározott célból a rendelkezési jogkör gyakorlója
+
+- a) az elítélt meghatározott személlyel való kapcsolattartásának vagy valamely kapcsolattartási forma gyakorlásának a megtiltásáról vagy korlátozásáról, ellenőrzésének meghatározott módjáról,
+- b) az elítéltnek a bv. intézet elhagyásával járó kapcsolattartási forma gyakorlásából történő kizárásáról,
+- c) az elítéltnek más elítélttől vagy egyéb jogcímen fogvatartottól való elkülönítéséről
+
+rendelkezhet.
+
+(5) Ha az elítélttel szemben büntetőeljárás van folyamatban, és új személyt jelöl meg kapcsolattartóként, a kapcsolattartói nyilvántartásba vétel előtt – e személynek a nyilvántartásba vételhez szükséges személyes adatainak a megküldésével, a hozzátartozói minőség megjelölésével – a bv. intézet haladéktalanul tájékoztatja a rendelkezési jogkör gyakorlóját, ha a rendelkezési jogkör gyakorlója a (4) bekezdés a) pontja alapján vagy a letartóztatás végrehajtása során már hozott tiltó vagy korlátozó rendelkezést, vagy a bv. intézet számára jelezte, hogy új kapcsolattartó esetén annak személyéről értesítést kér.
+
+(6) A rendelkezési jogkör gyakorlója a bv. intézet értesítése alapján az elítéltnek a hozzátartozójával történő kapcsolattartásának korlátozásáról vagy megtiltásáról, az elítéltnek más személlyel történő kapcsolattartásának engedélyezéséről haladéktalanul határoz.
+
+(7) Ha az elítélttel szemben több büntetőeljárás van folyamatban, a rendelkezési jogkör gyakorlójának az adott büntetőeljárásban a (4) bekezdés alapján meghozott rendelkezését a bv. intézet valamennyi büntetőeljárás vonatkozásában érvényesíti.
+
+(8) A kapcsolattartásból legfeljebb hat hónapra, ismételt szabályszegés esetén legfeljebb két évre kizárható az a kapcsolattartó, aki magatartásával súlyosan megsérti a bv. intézet rendjét, a fogvatartás biztonságát vagy a kapcsolattartás szabályait, így különösen, ha a szabályszegés bűncselekményt valósít meg vagy a kapcsolattartás során kábítószer, új pszichoaktív anyag, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer bejuttatására irányul.
+
+(9) A kizárás egy vagy több kapcsolattartási formára és az adott bv. intézetben fogva lévő egy vagy több elítélttel történő kapcsolattartásra vonatkozhat. A tizennyolcadik életévét be nem töltött személy csak ismételt szabályszegés esetén, legfeljebb hat hónapra zárható ki a kapcsolattartásból. A tizennegyedik életévét be nem töltött személy nem zárható ki a kapcsolattartásból.
+
+(10) A kizárásról a bv. intézet parancsnoka határozattal dönt. Az elítélt hozzátartozójának a kizárásáról hozott határozattal szemben az elítélt bírósági felülvizsgálati kérelmet nyújthat be.
+
 172/A. § (1) A kapcsolattartás emberi döntést támogató informatikai alkalmazással is ellenőrizhető. Az ellenőrzés a kapcsolattartásra való jogosultság vizsgálata körében a kapcsolattartó arcképmás- és hangazonosítására, valamint a kommunikáció tartalmára is kiterjed. Ez esetben, ha a kapcsolattartásra azért nem kerülhet sor, mert a kapcsolattartó személyazonosságát illetően kétség merül fel, vagy a személy nem azonos a jogosulttal, az erről való döntést a személyi állomány tagja hozza meg. A telefonbeszélgetés és a telekommunikációs eszköz útján történő kapcsolattartás során felmerülő okból a kapcsolattartást az informatikai alkalmazás közvetlenül is megszakíthatja.
 
 (2) Ha a telefonbeszélgetést és a telekommunikációs eszköz útján történő kapcsolattartást az informatikai eszköz emberi közreműködés nélkül ellenőrzi, az intézkedés jogszerűségének vizsgálata céljából a telefonbeszélgetés és a telekommunikációs eszköz útján történő kapcsolattartás rögzíthető. A felvétel a kapcsolattartást követően nem kezelhető és azt törölni kell, kivéve, ha
@@ -3420,6 +3449,12 @@ miatt kiszabott fegyelmi fenyítés.
 (3) A látogató intézeten kívüli fogadása, a kimaradás és az eltávozás időtartama a szabadságvesztésbe beszámít.
 
 (4) Az elítélt hivatalos minőségben eljáró személlyel történő kapcsolattartása nem számítható beaz egyes kategóriákhoz igazodó kapcsolattartásként és annak időtartama – a büntetés-végrehajtási szerv területére való ki- és belépés rendjére vonatkozó jogszabályban foglaltak megtartása mellett – nem korlátozott.
+
+(5) A bv. intézet az elítélt hozzátartozójának a kapcsolattartói nyilvántartásba vételhez történő hozzájárulásának beérkezését követő három munkanapon belül intézkedik a nyilvántartásba vétel iránt. A bv. intézet a nem hozzátartozóval történő kapcsolattartás engedélyezéséről a kérelem beérkezésétől számított tizenöt napon belül – a kérelem elutasítása esetén határozattal – dönt.
+
+(6) Ha az elítélt családi körülményei megnehezítik az egyébként vele más módon rendszeresen érintkező kapcsolattartójának a látogatófogadását, kérelmezheti a látogatófogadás lebonyolítása érdekében másik bv. intézetbe történő ideiglenes átszállítását.
+
+(7) A kérelemről a bv. intézet az átszállítással érintett másik bv. intézettel történő egyeztetést követően dönt. A látogatófogadás elősegítése érdekében történő átszállítás évente egy alkalommal térítésmentes, ha az a bv. intézetek közötti rendszeres szállítás keretében biztosítható, egyéb esetben arra akkor kerülhet sor, ha annak jogszabályban meghatározott költségeit az elítélt előzetesen megfizeti.
 
 ### Levelezés
 
@@ -3469,9 +3504,9 @@ miatt kiszabott fegyelmi fenyítés.
 
 (3) A csomag a bv. intézet, valamint a fogvatartás biztonsága érdekében ellenőrizhető, ennek lehetőségéről az elítéltet tájékoztatni kell.
 
-(4) A bv. szerv területén kívülről érkező csomagban élelmiszer, tisztálkodási szer, dohánytermék, valamint – a (7) bekezdésben meghatározott kivétellel – gyógyszer, gyógyászati segédeszköz vagy gyógyhatású készítmény nem küldhető, erre az elítélt és a kapcsolattartásra jogosult figyelmét fel kell hívni. Egyebekben a csomag mindazokat a tárgyakat tartalmazhatja, amelyeket az elítélt engedéllyel magánál tarthat.
+(4) A bv. szerv területén kívülről érkező csomagban élelmiszer, jogszabályban meghatározott tisztasági felszerelés dohánytermék, valamint – a (7) bekezdésben meghatározott kivétellel – gyógyszer, gyógyászati segédeszköz vagy gyógyhatású készítmény nem küldhető, erre az elítélt és a kapcsolattartásra jogosult figyelmét fel kell hívni. Egyebekben a csomag mindazokat a tárgyakat tartalmazhatja, amelyeket az elítélt engedéllyel magánál tarthat.
 
-(5) Az elítélt kapcsolattartója az élelmiszert, tisztálkodási szert, dohányterméket tartalmazó csomagot ellenérték megfizetése mellett a bv. intézet területén működő, a személyes szükségletekre fordítható összeg levásárlására kijelölt üzletben állíttathatja össze jogszabályban meghatározott módon. Az ilyen csomag fogadása beleszámít a (2) bekezdésben meghatározott gyakoriságba.
+(5) Az elítélt kapcsolattartója az élelmiszert, tisztasági felszerelést dohányterméket tartalmazó csomagot ellenérték megfizetése mellett a bv. intézet területén működő, a személyes szükségletekre fordítható összeg levásárlására kijelölt üzletben állíttathatja össze jogszabályban meghatározott módon. Az ilyen csomag fogadása beleszámít a (2) bekezdésben meghatározott gyakoriságba.
 
 (6) Ha az elítélt nem kap csomagot, a bv. intézet parancsnoka engedélyezheti, hogy az elítélt a letéti pénzéből – a személyes szükségleteire egyébként fordítható összegen felül – a csomag tartalmára vonatkozó szabályok figyelembevételével vásároljon.
 
@@ -3485,17 +3520,80 @@ miatt kiszabott fegyelmi fenyítés.
 
 177. § (1) Az elítélt az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de havonta legalább egyszer, alkalmanként legalább egy, de legfeljebb két órában, egyidejűleg legfeljebb négy fő látogatót fogadhat. Az elítélt vagy a kapcsolattartó kérésére a látogatási idő legfeljebb harminc perccel meghosszabbítható.
 
-(1a) Ha az elítéltnek kiskorú gyermeke van – kivéve, ha a bíróság a gyermekkel való kapcsolattartástól eltiltotta vagy az elítélt látogatót csak biztonsági beszélőfülkében fogadhat – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de legalább félévente egy alkalommal, legalább egy, de legfeljebb két órában családi beszélőn fogadhatja kiskorú gyermekeit egy felnőtt kíséretével. A családi beszélő a látogatófogadás alkalmába beszámít.
-
 (2) Az elítélt és a látogató beszélgetése ellenőrizhető, amelynek lehetőségéről az elítéltet és a látogatót tájékoztatni kell.
 
-(3) Ha a bv. intézet biztonsága indokolja, a bv. intézet parancsnoka elrendelheti, hogy az elítélt biztonsági beszélőfülkében beszélhet a látogatóval.
+(3) A látogatás félbeszakítható, ha az elítélt vagy a látogató a látogatás rendjét megsérti, ebben az esetben az elítéltet és a látogatót a látogatás rendjének megtartására figyelmeztetni kell. A látogatás folytatható, ha az elítélt és a látogató a látogatás rendjének megtartását vállalják.
 
-(4) A látogatásból ki kell zárni azt, akit az ügyészség vagy a bíróság a folyamatban lévő büntetőeljárás eredményessége érdekében attól eltiltott, illetve azt, akinek a magatartása a bv. intézet, valamint a fogvatartás biztonságára veszélyt jelent.
+(4) A látogatást meg kell szakítani a szükséges intézkedések megtétele mellett, ha az elítélt vagy a látogató magatartása a bv. intézet rendjét, a fogvatartás biztonságát közvetlenül sérti, vagy az elítélt, illetve a látogató a látogatás rendjét figyelmeztetést követően ismételten megsérti, vagy a látogatás rendjének megsértését figyelmeztetés ellenére sem hagyja abba.
 
-(5) A látogatás félbeszakítható, ha az elítélt vagy a látogató a látogatás rendjét megsérti, és azt figyelmeztetés ellenére sem hagyja abba.
+177/A. § (1) A látogatófogadásra a következő módon kerülhet sor
 
-(6) A látogatást meg kell szakítani a szükséges intézkedések megtétele mellett, ha az elítélt vagy a látogató magatartása a bv. intézet rendjét, a fogvatartás biztonságát közvetlenül sérti vagy veszélyezteti.
+- a) a látogatóval való személyes érintkezés nélkül, a kommunikációt nem korlátozó térelválasztó elem alkalmazásával (a továbbiakban: személyes érintkezés nélküli látogatófogadás),
+- b) az üdvözléskor és az elköszönéskor a látogatóval a személyes érintkezést jogszabályban meghatározott módon lehetővé téve, a kommunikációt nem korlátozó térelválasztó elem alkalmazásával (a továbbiakban: személyes érintkezést lehetővé tévő látogatófogadás),
+- c) kötetlen formában, a személyes érintkezést jogszabályban meghatározott módon a látogatás alatt is lehetővé téve (a továbbiakban: kötetlen látogatófogadás),
+- d) biztonsági beszélőfülkében.
+
+(2) Az általános látogatási forma a személyes érintkezés nélküli látogatófogadási forma.
+
+(3) Az elítéltnek a hozzátartozójával történő kapcsolattartás esetén az általános látogatási forma a személyes érintkezést lehetővé tévő látogatófogadás azzal, hogy annak gyakorlására
+
+- a) az I–III. kategóriába sorolt elítélt a kezdeti kategória-besorolástól,
+- b) a IV. kategóriába sorolt elítélt a kezdeti kategória-besorolástól számított hat hónap elteltével,
+- c) az V. kategóriába sorolt elítélt a kezdeti kategória-besorolástól számított egy év elteltével,
+- d) a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére helyezett elítélt kivételesen, a bv. intézet parancsnokának engedélyével
+
+jogosult.
+
+(4) Az elítélt kötetlen látogatófogadásra félévente egy alkalommal az (5) vagy a (7) bekezdésben foglaltak szerint jogosult.
+
+(5) Ha az elítélt jogszabályban meghatározott módon igazolja, hogy kiskorú gyermeke van – kivéve, ha a bíróság a gyermekkel való kapcsolattartástól eltiltotta vagy az elítélt látogatót csak biztonsági beszélőfülkében fogadhat – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, legalább egy, de legfeljebb két órában családi beszélőn, kötetlen látogatófogadás keretében fogadhatja kiskorú gyermekeit felnőtt kíséretével. A családi beszélő a látogatófogadás alkalmába beszámít.
+
+(6) Ha az elítélt a látogatófogadás során a kiskorú gyermekkel vagy felnőtt korú kísérőjével szemben személy elleni erőszakos bűncselekményt megvalósító fegyelemsértést követ el, a családi beszélőre a továbbiakban nem jogosult kivéve, ha az elítélt kiskorú gyermekének törvényes képviselője, illetve a korlátozottan cselekvőképes gyermeke azt kérelmezi és ahhoz a gyámhatóság hozzájárul.
+
+(7) Az elítélt – kivéve, ha az adott időszakban családi beszélőn vett részt – legalább egy, de legfeljebb két órában kötetlen látogatófogadás keretében fogadhatja kapcsolattartóját, ha
+
+- a) a kapcsolattartással összefüggésben a látogatófogadást megelőző egy évben nem követett el fegyelmi vétséget,
+- b) nem áll a személyes érintkezést lehetővé tevő, illetve kötetlen látogatófogadás lehetőségéből való kizárás hatálya alatt,
+- c) nem áll kategória-visszasorolás hatálya alatt, és
+- d) a kezdeti kategória-besorolástól számítva
+  - da) az I–II. kategóriába sorolt elítélt esetén eltelt hat hónap,
+  - db) a III–IV. kategóriába sorolt elítélt esetén eltelt egy év,
+  - dc) az V. kategóriába sorolt elítélt esetén eltelt két év.
+
+(8) Folyamatosan végrehajtott több szabadságvesztés esetén, ha az elítélt a korábbi végrehajtás alatt személyes érintkezést lehetővé tévő vagy kötetlen látogatófogadási forma gyakorlására volt jogosult, azt az újabb szabadságvesztés végrehajtása során is gyakorolhatja.
+
+(9) Az elítélt kérelmére a bv. intézet parancsnoka engedélyezheti, hogy a látogatófogadás helyett részére – legfeljebb a kategória-besorolás szerinti jogosultságának megfelelő gyakorisággal és időtartamban – telekommunikációs eszköz útján történő kapcsolattartást biztosítsanak.
+
+177/B. § (1) Ha a végrehajtás rendjének vagy a fogvatartás biztonságának a megőrzése, így különösen mások testi épségének és életének védelme ezt indokolja, a bv. intézet parancsnoka egyedi biztonsági előírásként elrendelheti, hogy az elítélt biztonsági beszélőfülkében fogadja a látogatóját. Ha a végrehajtás rendjének vagy a fogvatartás biztonságának a veszélyeztetése már nem áll fenn, a biztonsági beszélőfülke alkalmazását haladéktalanul meg kell szüntetni. A bv. intézet parancsnoka a biztonsági beszélőfülke alkalmazásának a szükségességét kéthavonta felülvizsgálja.
+
+(2) Az elrendelésről és a fenntartásról a bv. intézet parancsnoka határozattal dönt. Hat hónapot követően a biztonsági beszélőfülke alkalmazásának újabb fenntartásáról hozott határozattal szemben bírósági felülvizsgálati kérelem nyújtható be.
+
+(3) A fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére helyezett elítélt a behelyezéstől számított hat hónapig biztonsági beszélőfülkében fogadhatja a látogatóját. Ennek leteltével, majd ezt követően hathavonta a bv. intézet parancsnoka annak szükségességét felülvizsgálja és annak további fenntartásáról határozattal dönt. A behelyezéstől számított egy évet követően a biztonsági beszélőfülke alkalmazásának fenntartásáról hozott határozattal szemben bírósági felülvizsgálati kérelem nyújtható be.
+
+(4) A bv. intézet parancsnoka méltányosságból a biztonsági beszélőfülke alkalmazása esetén is engedélyezheti az elítéltnek a hozzátartozójával a személyes érintkezés nélküli, a személyes érintkezést lehetővé tévő látogatófogadást, vagy a 177/A §. (5) bekezdés szerinti kötetlen látogatófogadást.
+
+(5) A hivatalos minőségben eljáró kapcsolattartó kérelmére, illetve hozzájárulása esetén a látogatófogadás biztonsági beszélőfülkében történik.
+
+177/C. § (1) A személyes érintkezést lehetővé tévő és a kötetlen látogatófogadás lehetőségéből a bv. intézet parancsnoka az elítéltet
+
+- a) hat hónaptól egy évig terjedő időtartamra kizárja, ha a kapcsolattartással összefüggésben súlyos fegyelmi vétséget követett el,
+- b) egy évtől három évig terjedő időtartamra kizárja, ha az a) pont szerinti kizárását követő egy éven belül a kapcsolattartással összefüggésben ismételten súlyos fegyelmi vétséget követett el,
+- c) három évtől öt évig terjedő időtartamra kizárja, ha a b) pont szerinti kizárását követő három éven belül a kapcsolattartással összefüggésben ismételten súlyos fegyelmi vétséget követett el,
+- d) véglegesen kizárja, ha
+  - da) a c) pont szerinti kizárását követő öt éven belül a kapcsolattartással összefüggésben ismételten súlyos fegyelmi vétséget követett el, vagy
+  - db) megalapozottan gyanúsítható a látogatófogadás során elkövetett személy elleni erőszakos bűncselekmény elkövetésével.
+
+(2) Az (1) bekezdés alkalmazásában súlyos fegyelmi vétségnek minősül különösen az elítélt birtokában nem tartható tárgy átvétele, a látogatófogadás során személy elleni erőszakos bűncselekményt, kábítószer birtoklását, új pszichoaktív anyaggal visszaélést, teljesítményfokozó szerrel visszaélést vagy gyógyszerhamisítást megvalósító fegyelemsértés.
+
+(3) A személyes érintkezést lehetővé tévő vagy a kötetlen látogatófogadás lehetőségéből véglegesen kizárt elítéltet – kérelmére – a kizárástól számított öt év elteltével a bv. intézet parancsnoka méltányosságból mentesítheti a végleges kizárás hatálya alól.
+
+(4) Ha a kapcsolattartó a látogatófogadás szabályait súlyosan megsérti, e kapcsolattartó tekintetében a személyes érintkezést lehetővé tévő vagy a kötetlen látogatófogadás lehetőségéből az elítélt az (1) bekezdésben meghatározott tartamban kizárható.
+
+(5) A (4) bekezdés alkalmazásában súlyos szabályszegésnek minősül az elítélt birtokában nem tartható tárgy átadása vagy annak megkísérlése, a látogatófogadás során – ideértve a bv. intézetbe történő be- és kiléptetést is – elkövetett személy elleni erőszakos bűncselekmény, kábítószer-kereskedelem, kábítószer birtoklásának, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés vagy gyógyszerhamisítás megalapozott gyanúja.
+
+(6) A kizárásról a bv. intézet parancsnoka határozattal dönt. Az elítélt a kizárásáról hozott határozattal szemben bírósági felülvizsgálati kérelmet nyújthat be, ha (4) bekezdés szerinti kizárásra az elítélt hozzátartozójának szabályszegésével összefüggésben került sor.
+
+(7) Folyamatosan végrehajtott több szabadságvesztés esetén – függetlenül attól, hogy újabb kockázatelemzésre sor került-e – a személyes érintkezést lehetővé tévő vagy a kötetlen látogatófogadás lehetőségéből meghatározott időre történő kizárás annak tartamáig, illetve a végleges kizárás továbbra is érvényesül.
 
 ### Látogató bv. intézeten kívüli fogadása
 
@@ -3870,6 +3968,8 @@ lehet.
 (3) A fiatalkorú családterápiás foglalkozáson való részvétele kivételesen a bv. intézeten kívül is engedélyezhető.
 
 (4) A családi konzultáció és a családterápiás foglalkozás nem minősül látogatófogadásnak és az az elítéltek között is engedélyezhető.
+
+(5) A fiatalkorú tizennyolcadik életévének a betöltését követően zárható ki a személyes érintkezést lehetővé tévő és a kötetlen látogatófogadás, valamint a családi konzultáció lehetőségéből. A korlátozás tartamát a 177/C. § (1) bekezdésében meghatározott időtartamok felének a figyelembevételével kell meghatározni. Fiatalkorúval szemben nincs helye végleges kizárásnak.
 
 195. § (1) A fiatalkorú kérelmére az azonos nemű fiatalkorú testvérével együttesen elhelyezhető, ha ez mindkét fiatalkorú érdekében áll, és a bv. intézetben ennek lehetősége megteremthető.
 
@@ -5117,7 +5217,7 @@ kell végrehajtani.
 (2) Ha katonai rendfokozattal rendelkező elítélttel szemben nem katonai büntetőeljárásban alkalmaztak közügyektől eltiltást, a közügyektől eltiltásról kiállított értesítőlapot
 
 - a) nyugállományú és kiképzett hadköteles személy esetén a Magyar Honvédség központi nyilvántartó szervének és a területi katonai igazgatási szerveknek,
-- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, vagy a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó elítélt esetén a döntésre jogosult elöljárónak
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó elítélt esetén a munkáltatói jogkört gyakorlónak, vagy a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó elítélt esetén a döntésre jogosult elöljárónak
 
 kell megküldeni.
 
@@ -5512,6 +5612,7 @@ terhelik.
 - b) legalább hetenként látogató fogadására,
 - c) kétnaponként telefonkészülék használatára hívás céljából, továbbá hetenként telefonhívás fogadására az intézet rendjére figyelemmel, alkalmanként legalább húsz perc időtartamban,
 - d) legalább hetenként csomag küldésére és fogadására.
+- e) havonta három alkalommal, alkalmanként hatvan perc időtartamban telekommunikációs eszköz útján történő kapcsolattartásra.
 
 (2) Az (1) bekezdés szerinti kapcsolattartásról az IMEI főigazgató főorvosa – az IMEI biztonságára, valamint a beteg állapotára figyelemmel – dönt.
 
@@ -5592,7 +5693,11 @@ terhelik.
 
 (2) A súlyos beteg vagy önálló életvitelre képtelen beteg elbocsátása előtt kellő időben értesíteni kell a törvényes képviselőt, a gondozásra vagy egyéb ellátására kötelezett személyt, és gondoskodni kell az elbocsátott hazaszállításáról, vagy szükség esetén kezdeményezni kell a megfelelő gyógyintézetben vagy a személyes gondoskodás keretébe tartozó szakosított ellátást nyújtó intézményben történő elhelyezését. A szükséges intézkedéseket az IMEI főigazgató főorvosa teszi meg.
 
-#### 342. §
+### XXVI/A. Fejezet — A TÁRHELYSZOLGÁLTATÁS MEGSZÜNTETÉSÉNEK VÉGREHAJTÁSA
+
+342. § (1) A tárhelyszolgáltatás megszüntetésének a teljesítésére az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott tárhelyszolgáltató köteles. A tárhelyszolgáltatás megszüntetését az állami adó- és vámhatóság hajtja végre.
+
+(2) A tárhelyszolgáltatás megszüntetésének végrehajtására a 324. § (2) és (3) bekezdésében foglaltakat is alkalmazni kell.
 
 ### XXVII. Fejezet — A JAVÍTÓINTÉZETI NEVELÉS VÉGREHAJTÁSA
 
@@ -6146,7 +6251,7 @@ a javítóintézet utógondozó részleget működtet.
 
 387. § (1) A letartóztatott a büntetőeljárási jogait korlátozás nélkül gyakorolhatja.
 
-(2) A letartóztatást a bíróságnak a tárgyalás előkészítése során hozott határozatáig az ügyészség, ezt követően a bíróság (a továbbiakban: rendelkezési jogkör gyakorlója) rendelkezésének megfelelően kell végrehajtani.
+(2) A letartóztatást a rendelkezési jogkör gyakorlója rendelkezésének megfelelően kell végrehajtani.
 
 (3) A végrehajtásért felelős szerv a letartóztatottat
 
@@ -6170,7 +6275,7 @@ alapján fogadja be.
 
 (1b) Ha a gyámhatóság nem adta a hozzájárulását ahhoz, hogy a gyermek az anya-gyermek részlegen nevelkedjen, az (1a) bekezdés b) pontja szerint elrendelt együttes elhelyezést meg kell szüntetni és a letartóztatásban lévő nőt át kell szállítani a végrehajtásra kijelölt bv. intézetbe.
 
-(2) A Be. 299. § (2) bekezdésében és 688. § (4) bekezdésében meghatározott esetekben – az ott meghatározott időtartamban – a letartóztatás rendőrségi fogdában is végrehajtható.
+(2) A Be. 299. § (2) bekezdésében és 688. § (4) bekezdésében meghatározott esetekben – az ott meghatározott időtartamban – a letartóztatás rendőrségi fogdában is végrehajtható. A 113. § (8) bekezdésében meghatározott célból a letartóztatott rendőrségi fogdán történő elhelyezésére a 114. § (4a)–(4c) bekezdésben foglaltakat kell alkalmazni azzal, hogy a bv. intézetnek a rendelkezési jogkör gyakorlóját erről előzetesen értesítenie kell.
 
 (2a) A Be. 830. § (6) és (8) bekezdésében meghatározott esetben, tömeges bevándorlás okozta válsághelyzetben az őrizet és a letartóztatás rendőrségi fogdában vagy a menedékjogról és a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló létesítményben is végrehajtható.
 
@@ -6196,9 +6301,9 @@ alapján fogadja be.
 
 390. § (1) A büntetőeljárás szakaszától függően a rendelkezési jogkör gyakorlója dönthet a letartóztatott
 
-- a) 173. § (1) bekezdés a)–d) pontja szerinti kapcsolattartásának engedélyezéséről, korlátozásáról vagy ellenőrzésének módjáról, illetve megtiltásáról a büntetőeljárás eredményessége vagy más személy életének, testi épségének védelme érdekében,
+- a) 173. § (1) bekezdés a)–d) pontja szerinti kapcsolattartásának engedélyezéséről, korlátozásáról vagy ellenőrzésének módjáról, illetve megtiltásáról a bizonyítás megnehezítésének vagy meghiúsításának, vagy a bűnismétlés lehetőségének megakadályozása érdekében,
 - b) a 391. § (1) bekezdés c) pontja szerinti elkülönítéséről,
-- c) fokozott őrzéséről,
+- c) szökésének vagy elrejtőzésének veszélye esetén a fokozott őrzéséről,
 - d) előállításáról, a fogva tartó intézetben való kihallgatásáról, a nyomozó szervek részére történő kiadásáról,
 - e) más fogva tartó intézetbe történő átszállításáról, kivéve, ha az átszállítást a letartóztatott egészségi állapota indokolja,
 - f) a 406. § szerint a sajtó részére történő nyilatkozattételéről és annak közzétételéről,
@@ -6264,7 +6369,7 @@ haladéktalanul határoz.
 - d) zárkáját zárva kell tartani, kivéve a munkáltatásban részt vevő esetén, a rá vonatkozó eltérő szabályok szerint,
 - e) magánál tartható tárgyainak köre és mennyisége korlátozható.
 
-(3) A letartóztatást az általános szabályok szerint kell végrehajtani, de a parancsnok az enyhébb vagy szigorúbb szabályok alkalmazását is elrendelheti.
+(3) A letartóztatást az általános rezsimszabályok szerint kell végrehajtani. A BFB a befogadáskor a letartóztatott fogvatartási kockázata alapján az enyhébb vagy a szigorúbb rezsimbe sorolásáról dönthet, továbbá hathavonta – a fogvatartásért felelős szakterületek bevonásával – elvégzi a rezsimbe sorolás felülvizsgálatát. Az enyhébb és a szigorúbb rezsimbe sorolásról, továbbá annak megváltoztatásáról a BFB határozattal dönt. A BFB a megváltoztatás során – a 95. § (8) bekezdésében meghatározott fegyelemsértés kivételével – eggyel kedvezőbb vagy eggyel kedvezőtlenebb rezsimbe sorolásról dönthet.
 
 (4) Ha a BFB a letartóztatottat kérelmére oktatásban, képzésben, illetve speciális programban való részvételre osztotta be, az elhelyezés kivételesen zárt részlegen lévő lakóhelyiségben is biztosítható. A rendelkezési jogkör gyakorlója rendelkezését ebben az esetben is be kell tartani.
 
@@ -6296,6 +6401,8 @@ haladéktalanul határoz.
 - f) saját ruházata viselésének joga a fogva tartó intézet területén biztonsági szempontból korlátozható.
 
 (7a) A fogvatartás biztonságának fenntartása érdekében az egyes rezsimeken belül a letartóztatott őrzésére, felügyeletére, ellenőrzésére, bv. intézeten belüli mozgására, látogatónak biztonsági beszélőfülkében történő fogadására, közös kulturális vagy sportrendezvényen, oktatásban vagy képzésben, vallási szertartáson való részvételére, előállítására vagy szállítására vonatkozó biztonsági előírások szigorúbbak lehetnek.
+
+(7b) Halaszthatatlan esetben a letartóztatott rezsimbe sorolásának akár kétszeres visszasorolásáról a bv. intézet parancsnoka is határozhat. Halaszthatatlan az eset, ha a letartóztatottal szemben a fegyelmi eljárást a 95. § (8) bekezdésében meghatározott fegyelemsértés miatt elrendelik.
 
 (8) A fogva tartó intézet a letartóztatás lejártának idejét nyilvántartja.
 
@@ -6963,6 +7070,25 @@ meghatározott határidők a Mód. tv. 17. §-ának a hatálybalépését követ
 (7) A Mód. tv. 1. e törvényt módosító rendelkezéseinek hatálybalépésekor a biztonsági zárkába vagy részlegre helyezett elítélt átkerül a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére azzal, hogy a továbbiakban a részlegre helyezés meghosszabbítására alkalmanként további három hónappal kerülhet sor.
 
 436/C. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvény (a továbbiakban: 2024. évi XXX. törvény) által megállapított 46. § (4)–(6) bekezdését a 2024. évi XXX. törvény hatálybalépésekor folyamatban lévő kegyelmi eljárásokban is alkalmazni kell azzal, hogy a köztársasági elnök kegyelmi döntésről szóló, miniszteri ellenjegyzési jog gyakorlása érdekében megküldött határozata – amennyiben a miniszteri ellenjegyzési jog gyakorlására 2024. június 30-ig nem került sor – 2024. július 1-jén válik érvényessé.
+
+436/D. § (1) Ha e § hatálybalépésekor az elítélt vagy az egyéb jogcímen fogvatartott hozzátartozójaként a kiskorú gyermeke a kapcsolattartói nyilvántartásba már bejegyzésre került, a hozzátartozói minőség fennállását csak külön felhívásra kell a jogszabályban meghatározott módon igazolnia.
+
+(2) A látogatófogadás egyes formáinak gyakorlására való jogosultság megszerzéséhez szükséges időtartamba e § hatálybalépéséig az adott kategóriában eltöltött idő beszámít azzal, hogy a bv. intézeteknek e § hatálybalépésétől számított harminc napon belül kell megállapítania azt, hogy az adott elítélt mely látogatófogadási forma gyakorlására jogosult.
+
+(3) Ha az elítélt az 1978. évi IV. törvény alkalmazásával kiszabott olyan szabadságvesztést tölt, amelyből feltételes szabadságra bocsátható, az ítélet szerinti végrehajtási fokozata
+
+- a) fegyház, és a III. kategóriába előresorolják, annak napjával a feltételes szabadságra bocsátás esedékességének időpontja a büntetés háromnegyed részének,
+- b) börtön, és a II. kategóriába előresorolják, annak napjával a feltételes szabadságra bocsátás esedékességének időpontja a büntetés kétharmad részének
+
+kitöltésére változik.
+
+(4) A (3) bekezdés nem alkalmazható, ha az elítélt
+
+- a) erőszakos többszörös visszaeső,
+- b) a bűncselekményt bűnszervezetben követte el vagy
+- c) életfogytig tartó szabadságvesztés büntetést tölt.
+
+(5) A (3) bekezdésben meghatározott esetben, ha a feltételes szabadságra bocsátás lehetséges időpontjának megváltozása eredményeként annak lehetősége már esedékessé válik, a bv. intézet a feltételes szabadságra bocsátás tárgyában annak bekövetkezésétől számított harminc napon belül tesz előterjesztést a büntetés-végrehajtási bírónak.
 
 ### Sarkalatossági záradék
 

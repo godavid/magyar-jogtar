@@ -2,7 +2,9 @@
 
 a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról
 
-A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenység célja – a magyar felsőoktatási rendszer részeként a Magyar Honvédség és a rendvédelmi szervek feladataihoz, sajátos szolgálati és életviszonyaihoz igazodó körülmények között – e szervek tiszti utánpótlásának, valamint a honvédelmet és a rendvédelmet érintő tevékenységet végző szakembereknek a képzése.A képzési feladatok megvalósításához szükséges sajátos vezetői, oktatói és hallgatói jogállás szabályozása érdekében – a felsőoktatásról szóló 2005. évi CXXXIX. törvény 140. §-ának (2) bekezdése alapján, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényre, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényre, a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvényre is figyelemmel – az Országgyűlés a következő törvényt alkotja:
+A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenység célja – a magyar felsőoktatási rendszer részeként a Magyar Honvédség, a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok feladataihoz, sajátos szolgálati és életviszonyaihoz igazodó körülmények között – e szervek tiszti utánpótlásának, valamint a honvédelmet és a rendvédelmet érintő tevékenységet végző szakembereknek a képzése.
+
+A képzési feladatok megvalósításához szükséges sajátos vezetői, oktatói és hallgatói jogállás szabályozása érdekében – a felsőoktatásról szóló 2005. évi CXXXIX. törvény 140. §-ának (2) bekezdése alapján, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényre, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényre, a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvényre is figyelemmel – az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -22,9 +24,9 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 2. § E törvény alkalmazásában
 
-- a) fegyveres szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó rendvédelmi feladatokat ellátó szerv,
+- a) fegyveres szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó rendvédelmi feladatokat ellátó szerv és a polgári nemzetbiztonsági szolgálatok,
 - b)
-- c) kettős jogállású hallgató: a rendvédelmi felsőoktatási intézménybe felvett, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti hivatásos állomány tagja, aki államilag támogatott képzésben folytat tanulmányokat,
+- c) kettős jogállású hallgató: a rendvédelmi felsőoktatási intézménybe felvett, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (a továbbiakban: Hszt.) vagy a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény (a továbbiakban: Pnbjt.) szerinti hivatásos állomány tagja, aki államilag támogatott képzésben folytat tanulmányokat,
 - d)
 - e)
 - f) ösztöndíjas hallgató: a rendvédelmi felsőoktatási intézménybe felvételt nyert nappali tagozatos személy, aki valamely fegyveres szervvel vagy az idegenrendészeti és menekültügyi hatósággal (a továbbiakban együtt: szerződő szerv) kötött ösztöndíjszerződés alapján végzi a tanulmányait,
@@ -36,7 +38,13 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 ### Az oktatói és tudományos kutatói munkakörre vonatkozó külön szabályok
 
-3–6. §
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
 
 7. § (1) A hivatásos állomány tagja az oktatói munkakör ellátásának megszűnése esetén a kinevezési okmány szerinti fegyveres szervhez kerül vissza.
 
@@ -45,39 +53,59 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 - a) az oktatói, tudományos kutatói munkakörben való alkalmazás megszüntetése a hivatásos állomány tagjának nem róható fel, vagy
 - b)
 
-7/A. §
+#### 7/A. §
 
 ### Az oktatók jogai és kötelességei
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
 ### A vezetőkre vonatkozó külön szabályok
 
-10/A. §
+#### 10/A. §
 
-11–14. §
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
 
 ### III. Fejezet — A HALLGATÓK
 
 ### Hallgatói jogviszony
 
-15. §
+#### 15. §
 
-15/A. §
+#### 15/A. §
 
-16–23. §
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
 
 ### Ösztöndíjas hallgató
 
 24. § (1) Az ösztöndíjas hallgató juttatásait külön jogszabály és az ösztöndíjszerződés tartalmazza. Az ösztöndíjszerződést a szerződő szerv és a hallgató közös megegyezéssel módosíthatja. Nem minősül módosításnak a hallgató juttatásainak jogszabály szerinti emelése.
 
-(2) Az ösztöndíjas hallgató az ösztöndíjszerződésben azt vállalja, hogy tanulmányai befejezése után meghatározott ideig az ösztöndíjszerződést kötő szervnél hivatásos szolgálatot teljesít vagy kormánytisztviselői, köztisztviselői, közalkalmazotti jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, honvédelmi alkalmazotti jogviszonyt létesít, a szerződő szerv pedig a hallgató képzettségének és végzettségének megfelelő beosztásban munkát biztosít számára.
+(2) Az ösztöndíjas hallgató az ösztöndíjszerződésben azt vállalja, hogy tanulmányai befejezése után meghatározott ideig az ösztöndíjszerződést kötő szervnél hivatásos szolgálatot teljesít vagy kormánytisztviselői, köztisztviselői, közalkalmazotti jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, nemzetbiztonsági alkalmazotti jogviszonyt, honvédelmi alkalmazotti jogviszonyt létesít, a szerződő szerv pedig a hallgató képzettségének és végzettségének megfelelő beosztásban munkát biztosít számára.
 
-25. §
+#### 25. §
 
 26. § (1) Az ösztöndíjas hallgató külön jogszabály szerint egyenruha vagy formaruha (a továbbiakban együtt: egyenruha) és évfolyamjelzés viselésére köteles.
 
@@ -85,7 +113,13 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (3) Az ösztöndíjas hallgató az intézményt csak az intézmény Szabályzatában foglaltak szerint, engedéllyel hagyhatja el.
 
-27–30. §
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
 
 31. § (1) Az ösztöndíjas hallgatói jogviszony megszűnik:
 
@@ -110,7 +144,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 32. § (1) A kettős jogállású hallgató szolgálati jogviszonyból eredő jogaira és kötelességeire a Hszt. az irányadó.
 
-(2) A kettős jogállású hallgató esetén e törvény 22. §-át nem kell alkalmazni, a hallgató fegyelmi és kártérítési felelősségére a Hszt. szabályai az irányadóak.
+(2) A kettős jogállású hallgató esetén e törvény 22. §-át nem kell alkalmazni, a hallgató fegyelmi és kártérítési felelősségére a Hszt. vagy a Pnbjt. szabályai az irányadóak.
 
 (3) A kettős jogállású hallgató intézményt vagy szakot a kinevezési parancs szerinti fegyveres szerv engedélyével változtathat.
 
@@ -128,7 +162,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 ### Honvéd tisztjelölt
 
-34/A. §
+#### 34/A. §
 
 34/B. § (1)
 
@@ -142,27 +176,27 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (6)
 
-34/C. §
+#### 34/C. §
 
-34/D. §
+#### 34/D. §
 
-34/E. §
+#### 34/E. §
 
-34/F. §
+#### 34/F. §
 
-34/G. §
+#### 34/G. §
 
-34/H. §
+#### 34/H. §
 
-34/I. §
+#### 34/I. §
 
 34/J. § (1)
 
 (2)
 
-34/K. §
+#### 34/K. §
 
-34/L. §
+#### 34/L. §
 
 34/M. § (1)
 
@@ -174,19 +208,21 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (5)
 
-34/N. §
+#### 34/N. §
 
-34/O. §
+#### 34/O. §
 
-34/P. §
+#### 34/P. §
 
-34/R. §
+#### 34/R. §
 
 ### IV. Fejezet — A KATONAI FELSŐOKTATÁSI INTÉZMÉNYBEN FIZETENDŐ TÉRÍTÉSI DÍJAK ÉS A HALLGATÓ JUTTATÁSAI
 
 ### A hallgató által fizetendő térítési díjak
 
-35–36. §
+#### 35. §
+
+#### 36. §
 
 ### A kettős jogállású és a polgári hallgató juttatásai
 
@@ -194,107 +230,117 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (2)
 
-37/A. §
+#### 37/A. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40–41. §
+#### 40. §
+
+#### 41. §
 
 ### IV/A. Fejezet — A KATONAI FELSŐOKTATÁSI INTÉZMÉNYEK HONVÉD TISZTJELÖLTJEI ÉS HOZZÁTARTOZÓIK JÁRANDÓSÁGAI, SZOCIÁLIS ÉRDEKEIK VÉDELME
 
 ### A honvéd tisztjelölt ösztöndíja
 
-41/A. §
+#### 41/A. §
 
 ### A megváltozott munkaképességűek védelme
 
-41/B. §
+#### 41/B. §
 
 ### Az útiköltség megtérítése
 
-41/C. §
+#### 41/C. §
 
 ### A családi segély
 
-41/D. §
+#### 41/D. §
 
 ### Társadalombiztosítási és állami ellátások
 
-41/E. §
+#### 41/E. §
 
-41/F. §
+#### 41/F. §
 
 ### A gyógyító ellátás
 
-41/G. §
+#### 41/G. §
 
 ### A táppénz és a táppénzpótló segély
 
-41/H. §
+#### 41/H. §
 
 ### A baleseti ellátás
 
-41/I. §
+#### 41/I. §
 
 ### A baleseti táppénz
 
-41/J. §
+#### 41/J. §
 
 ### A baleseti járadék
 
-41/K. §
+#### 41/K. §
 
 ### A baleseti rokkantsági nyugdíj
 
-41/L. §
+#### 41/L. §
 
 ### A hozzátartozói baleseti nyugellátás
 
-41/M. §
+#### 41/M. §
 
 ### A hősi halott hozzátartozóinak ellátásai
 
-41/N–41/O. §
+#### 41/N. §
+
+#### 41/O. §
 
 ### A rokkantsági nyugdíj
 
-41/P. §
+#### 41/P. §
 
 ### A hozzátartozói nyugellátások
 
-41/R. §
+#### 41/R. §
 
 ### A honvéd tisztjelölt természetbeni juttatásai
 
-41/S. §
+#### 41/S. §
 
 ### A honvéd tisztjelölt érdemeinek elismerése
 
-41/T. §
+#### 41/T. §
 
-### V. Fejezet — A RENDŐRTISZTI FŐISKOLA TANDÍJAÉS A HALLGATÓK JUTTATÁSAI
+### V. Fejezet — A RENDŐRTISZTI FŐISKOLA TANDÍJA
+
+ÉS A HALLGATÓK JUTTATÁSAI
 
 ### A hallgató által fizetendő tandíj
 
-42. §
+#### 42. §
 
 ### A hallgató juttatásai
 
-43–44. §
+#### 43. §
 
-45/A. §
+#### 44. §
+
+#### 45/A. §
 
 ### VI. Fejezet — A VEZETŐKRE, OKTATÓKRA ÉS HALLGATÓKRA VONATKOZÓ KÖZÖS SZABÁLYOK
 
 ### Titokvédelem
 
-46–47. §
+#### 46. §
+
+#### 47. §
 
 ### Egyes rendelkezések alkalmazásának kizárása
 
-48. §
+#### 48. §
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -306,16 +352,16 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (3)–(4)
 
-49/A. §
+#### 49/A. §
 
 49/B. § E törvény eltérő rendelkezése hiányában, ahol törvény, kormányrendelet, illetve HM rendelet ösztöndíjas hallgatót említ, azon a honvéd tisztjelöltet is érteni kell.
 
 ### Felhatalmazás
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
 ### Melléklet az 1996. évi XLV. törvényhez

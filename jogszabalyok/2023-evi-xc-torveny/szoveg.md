@@ -204,7 +204,7 @@ szabályait kell alkalmazni.
 - a) a Magyar Nemzeti Bank által nyilvántartásba vett ingatlanalap által kibocsátott, legalább 250 000 euró összegű befektetési jegy megszerzése, vagy
 - b) legalább 1 000 000 euró értékben, oktatási, tudományos kutatási, művészeti alkotótevékenység támogatása céljából pénzbeli adomány nyújtása valamely közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény részére.
 
-(4) Az idegenrendészeti hatóság a vendégbefektetői vízum iránti kérelemről Magyarország közrendje, közbiztonsága, nemzetbiztonsága védelme érdekében Magyarország rendvédelmi- és nemzetbiztonsági szerveinek véleményét kéri.
+(4) Az idegenrendészeti hatóság a vendégbefektetői vízum iránti kérelemről Magyarország közrendje, közbiztonsága, nemzetbiztonsága védelme érdekében Magyarország rendvédelmi szerveinek és nemzetbiztonsági szolgálatainak véleményét kéri.
 
 (5) A vendégbefektetői vízum érvényességi ideje hat hónap. Ha az úti okmány érvényességi ideje rövidebb mint 6 hónap, akkor az engedélyezett tartózkodás időtartamát úgy kell megállapítani, hogy a harmadik országbeli állampolgár úti okmánya az engedélyezett tartózkodás lejártakor még legalább 30 napig érvényes legyen.
 
@@ -1039,7 +1039,7 @@ kíván Magyarország területén tartózkodni.
 
 (5) Magyarország gazdasági, tudományos, kulturális és sport érdekének fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter kormányhatározatban kijelölt testület véleményét kéri ki. A testület véleménye az idegenrendészetért és menekültügyért felelős minisztert nem köti.
 
-(5a) Az idegenrendészetért és menekültügyért felelős miniszter – a tekintetben, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát – a Kormány rendeletében kijelölt rendvédelmi és nemzetbiztonsági szervek véleményét kéri. A rendvédelmi és nemzetbiztonsági szervek véleménye nem köti az idegenrendészetért és menekültügyért felelős minisztert.
+(5a) Az idegenrendészetért és menekültügyért felelős miniszter – a tekintetben, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát – a Kormány rendeletében kijelölt rendvédelmi szervek és nemzetbiztonsági szolgálatok véleményét kéri. A rendvédelmi szervek és nemzetbiztonsági szolgálatok véleménye nem köti az idegenrendészetért és menekültügyért felelős minisztert.
 
 (6) A nemzeti érdekből kiállított tartózkodási engedély legfeljebb három évre szól, alkalmanként legfeljebb három évre hosszabbítható meg.
 
@@ -1083,7 +1083,7 @@ beutazására és tartózkodására – a II. Cikk 3–5. pontja szerinti státu
 - b) akit Magyarország befogadottként ismert el;
 - c) törvényben foglaltak alapján azt a harmadik országbeli állampolgárt, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
 - d) azt a harmadik országbeli állampolgárt, aki Magyarország területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
-- e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből a bíróság, az ügyészség, illetve a rendvédelmi és nemzetbiztonsági szerv, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon –együttműködik;
+- e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből a bíróság, az ügyészség, a rendvédelmi szerv, a nemzetbiztonsági szolgálat, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon –együttműködik;
 - f) a bíróság indítványára azt a harmadik országbeli állampolgárt, akit különösen kizsákmányoló foglalkoztatási feltételek mellett, illetve azt a kiskorú, harmadik országbeli állampolgárt, akit érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély nélkül foglalkoztattak.
 
 (2) A humanitárius célból kiadott tartózkodási engedély érvényességi ideje
@@ -1364,7 +1364,7 @@ rendelkezik.
 
 (4) Magyarország gazdasági, tudományos, kulturális és sport érdekének fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter kormányhatározatban kijelölt testület véleményét kéri ki. A testület véleménye az idegenrendészetért és menekültügyért felelős minisztert nem köti.
 
-(4a) Az idegenrendészetért és menekültügyért felelős miniszter – a tekintetben, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát – a Kormány rendeletében kijelölt rendvédelmi és nemzetbiztonsági szervek állásfoglalását kéri.
+(4a) Az idegenrendészetért és menekültügyért felelős miniszter – a tekintetben, hogy a harmadik országbeli állampolgár beutazása vagy tartózkodása veszélyezteti-e Magyarország közrendjét, közbiztonságát vagy nemzetbiztonságát – a Kormány rendeletében kijelölt rendvédelmi szervek és nemzetbiztonsági szolgálatok állásfoglalását kéri.
 
 (5) Az idegenrendészetért és menekültügyért felelős miniszter nemzeti érdekből kiállított nemzeti tartózkodási kártyával kapcsolatos döntésével szemben jogorvoslatnak nincs helye.
 
@@ -1559,7 +1559,7 @@ végrehajtásáról.
 - d) akinek a beutazása és tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti vagy veszélyezteti, vagy
 - e) akinek a beutazása és tartózkodása a közegészséget sérti vagy veszélyezteti.
 
-(2) Az (1) bekezdés d) pontja szerinti ok fennállása esetén a harmadik országbeli állampolgárral szemben az idegenrendészeti kiutasítás elrendelését törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében, a kormányrendeletben meghatározott rendvédelmi szerv is kezdeményezheti, amely során a beutazási és tartózkodási tilalom időtartamára javaslatot tesz. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.
+(2) Az (1) bekezdés d) pontja szerinti ok fennállása esetén a harmadik országbeli állampolgárral szemben az idegenrendészeti kiutasítás elrendelését törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében, a kormányrendeletben meghatározott rendvédelmi szerv vagy nemzetbiztonsági szolgálat is kezdeményezheti, amely során a beutazási és tartózkodási tilalom időtartamára javaslatot tesz. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.
 
 (3) A harmadik országbeli állampolgár magyarországi tartózkodásra való jogosultságának megszűnése esetén a kiutasításról a tartózkodási engedély kérelmet elutasító vagy a tartózkodásra jogosító okmányt visszavonó határozatban kell rendelkezni. A harmadik országbeli állampolgár a kiutasítással szemben jogorvoslattal a tartózkodási engedély kérelmet elutasító vagy a tartózkodásra jogosító okmányt visszavonó határozattal szembeni jogorvoslat során élhet.
 
@@ -1821,7 +1821,7 @@ csak az (1) bekezdésben foglalt szempontok mérlegelésével utasítható ki, a
 (3) Az (1) bekezdés c) pontja szerinti ok fennállása esetén a harmadik országbeli állampolgárral szemben az önálló beutazási és tartózkodási tilalmat az idegenrendészeti hatóság
 
 - a) saját hatáskörben eljárva, vagy
-- b) a törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében, kormányrendeletben meghatározott rendvédelmi szerv beutazási és tartózkodási tilalom időtartamára is vonatkozó – e tekintetben az idegenrendészeti hatóságot kötő – javaslata alapján
+- b) a törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében, kormányrendeletben meghatározott rendvédelmi szerv vagy nemzetbiztonsági szolgálat beutazási és tartózkodási tilalom időtartamára is vonatkozó – e tekintetben az idegenrendészeti hatóságot kötő – javaslata alapján
 
 rendeli el.
 
@@ -1866,7 +1866,7 @@ rendeli el.
 (3) Az idegenrendészeti kiutasítást, valamint az ezzel összefüggésben elrendelt beutazási és tartózkodási tilalmat az idegenrendészeti hatóság visszavonja, ha
 
 - a) a kiutasított a kiutasítás elrendelését követően a magyar hatóságok döntése alapján befogadottként vagy menekültként került elismerésre, illetve ideiglenes vagy kiegészítő védelemben részesült, vagy
-- b) a nemzetbiztonsági, közrendi, vagy közbiztonsági veszély a kormányrendeletben meghatározott rendvédelmi szerv tájékoztatása szerint már nem áll fenn.
+- b) a nemzetbiztonsági, közrendi, vagy közbiztonsági veszély a kormányrendeletben meghatározott rendvédelmi szerv vagy nemzetbiztonsági szolgálat tájékoztatása szerint már nem áll fenn.
 
 (4) Az (1) és (2) bekezdés alapján hozott döntéssel szemben fellebbezésnek nincs helye.
 
@@ -3962,7 +3962,7 @@ részére továbbíthat adatot.
 - i) a felsőoktatási információs rendszerből,
 - j) törvényben meghatározott esetben az adóhatóságtól,
 - k) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott juttatások vonatkozásában a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott adatkezelő szervtől,
-- l) Magyarország rendvédelmi és nemzetbiztonsági szerveitől,
+- l) Magyarország rendvédelmi szerveitől és nemzetbiztonsági szolgálataitól,
 - m) az állampolgársági ügyekben eljáró szervtől,
 - n) az egészségbiztosítási szervtől, a rehabilitációs hatóságtól és a nyugdíjbiztosítási igazgatási szervtől.
 
@@ -4062,7 +4062,7 @@ részére adatot szolgáltat.
 - 15. az Európai Unió tagállama vagy más schengeni állam által hozott kiutasítási határozatok elismerésének és végrehajtásának részletes szabályait;
 - 16. a hontalanság megállapítására irányuló eljárás részletes szabályait;
 - 17. a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait;
-- 18. az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket;
+- 18. az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket és nemzetbiztonsági szolgálatokat;
 - 19. az összevont engedély adattartalmát és kiállításának feltételeit, valamint az összevont kérelmezési eljárás szabályait;
 - 20. a kérelem idegenrendészeti ügyindítási elektronikus felületen történő előterjesztésének részletes szabályait;
 - 21. a vendégmunkás magyarországi szálláshelyének foglalkoztató általi biztosításával összefüggő részletes szabályokat.

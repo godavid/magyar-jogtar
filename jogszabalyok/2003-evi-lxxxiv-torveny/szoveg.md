@@ -103,13 +103,14 @@ terjed ki.
 - a) szabadfoglalkozás keretében,
 - b) egyéni egészségügyi vállalkozóként,
 - c) társas vállalkozás tagjaként,
-- d) egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
+- d) egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
 - e) munkaviszonyban,
 - f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban, szolgálati viszonyban,
 - h) egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként,
 - i) önkéntes segítőként,
 - j) egyéni cég tagjaként.
+- k) nemzetbiztonsági szolgálati jogviszonyban.
 
 (3) A 4. § a) pont ab) alpontja szerinti egészségügyi dolgozó az egészségügyi tevékenység végzésében a (2) bekezdés c)–i) pontja szerinti jogviszonyban működhet közre.
 

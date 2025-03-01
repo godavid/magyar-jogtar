@@ -309,7 +309,12 @@ valamint kötelezettségek megszegése
 
 (3) Azok a cigaretta dohánytermékek, amelyek nem felelnek meg az e törvény 6. § (1)–(2) bekezdésében és a külön jogszabályban meghatározott rendelkezéseknek nem gyárthatóak és a jövedéki adóról és a jövedéki adóról szóló 2016. évi LXVIII. törvény rendelkezései szerint nem bocsáthatóak szabadforgalomba és e rendelkezés hatálybalépésétől számított egy évet követően nem hozhatók forgalomba.
 
-(4) Felhatalmazást kapnak az érintett miniszterek, hogy az irányításuk, illetve felügyeletük alá tartozó, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében a dohányzásra, elektronikus cigaretta használatára a dohányzóhelyek kijelölésére, illetve a dohánytermékek forgalmazására vonatkozó részletes, az e törvénnyel összhangban lévő szabályokat rendeletben meghatározzák.
+(4) Felhatalmazást kap
+
+- a) a rendvédelmi feladatokat ellátó szerv irányításáért felelős miniszter, hogy az irányítása, illetve felügyelete alá tartozó, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv,
+- b) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy az irányítása, illetve felügyelete alá tartozó polgári nemzetbiztonsági szolgálat
+
+tekintetében a dohányzásra, elektronikus cigaretta használatára, a dohányzóhelyek kijelölésére, illetve a dohánytermékek forgalmazására vonatkozó részletes, az e törvénnyel összhangban lévő szabályokat rendeletben meghatározza.
 
 (4a) Felhatalmazást kap az agrárpolitikáért felelős miniszter és az élelmiszerlánc-felügyeletért felelős miniszter, hogy az egészségügyért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben
 

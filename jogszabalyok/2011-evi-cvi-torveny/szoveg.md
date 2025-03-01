@@ -14,7 +14,7 @@ Az Országgyűlés az értékteremtő közfoglalkoztatás jogi kereteinek megter
 - d) a helyi vagy azon túlmutató közösségi – így különösen – egészségmegőrzési, szociális, nevelési, oktatási, kulturális, kulturális örökség megóvása, építészeti örökség védelmével összefüggő, természet-, környezet- és állatvédelmi, gyermek- és ifjúságvédelmi, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével sport, közrend és közlekedésbiztonsági, ár- és belvízvédelmi célú, közforgalom számára megnyitott út, híd, alagút fejlesztéséhez, fenntartásához és üzemeltetéséhez kapcsolódó szükségletek kielégítését szolgáló feladat, vagy
 - e) a Kormány által meghatározott közösségi célok megvalósítását elősegítő feladat
 
-ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, rendvédelmi igazgatási szolgálati vagy honvédelmi alkalmazotti jogviszonyt, közszolgálati, kormányzati szolgálati jogviszonyt, egészségügyi szolgálati jogviszonyt, köznevelési foglalkoztatotti jogviszonyt.
+ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, rendvédelmi igazgatási szolgálati, nemzetbiztonsági alkalmazotti vagy honvédelmi alkalmazotti jogviszonyt, közszolgálati, kormányzati szolgálati jogviszonyt, egészségügyi szolgálati jogviszonyt, köznevelési foglalkoztatotti jogviszonyt.
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 

@@ -202,7 +202,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3)
 
-17. § A 9–16. §-ban foglalt rendelkezéseket megfelelően alkalmazni kell, ha kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a találmányt.
+17. § A 9–16. §-ban foglalt rendelkezéseket megfelelően alkalmazni kell, ha kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló, szolgálati viszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a találmányt.
 
 ### A szabadalmi oltalom keletkezése
 

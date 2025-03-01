@@ -43,14 +43,14 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 #### 3. A bírói kinevezés feltételei
 
-4. § (1) Magyarországon bíróvá az a harmincadik életévét betöltött személy nevezhető ki, aki
+4. § (1) Magyarországon bíróvá az a harmincötödik életévét betöltött személy nevezhető ki, aki
 
 - a) magyar állampolgár,
 - b) nem áll a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
 - c) egyetemi jogi végzettséggel rendelkezik,
 - d) a jogi szakvizsgát letette,
 - e) vállalja, hogy e törvény rendelkezéseinek megfelelően vagyonnyilatkozatot tesz,
-- f) legalább egy évig
+- f) legalább két évig a bíróságon kívül joggyakorlatot folytatott és legalább egy évig
   - fa) bírósági titkárként, alügyészként, ügyvédként, közjegyzőként, jogtanácsosként dolgozott,
   - fb) kormánytisztviselőként, illetve köztisztviselőként központi közigazgatási szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben dolgozott,
   - fc) korábban alkotmánybíróként, bíróként, katonai bíróként, ügyészként működött,
@@ -73,7 +73,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
-- g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, egészségügyi alkalmazottként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+- g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, egészségügyi alkalmazottként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként vagy rendvédelmi alkalmazottjaként, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági állomány tagjaként vagy nemzetbiztonsági alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
 - i) aki betöltötte a 90. § ha) alpontjában meghatározott életkort.
 
@@ -1583,16 +1583,12 @@ százaléka.
 - c) az ítélőtábla bírája részére „címzetes kúriai bíró”,
 - d)
 
-címet adományozhat.
-
 (2) Az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább húsz év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBH elnöke
 
 - a) a járásbírósági bíró részére „címzetes törvényszéki bíró”,
 - b) a törvényszéki bíró részére „címzetes táblabíró”,
 - c) az ítélőtábla bírája részére „címzetes kúriai bíró”,
 - d)
-
-címet adományoz.
 
 (3) Az (1) és (2) bekezdés szerinti cím adományozásával címpótlékként a címzetes törvényszéki bíró a bírói illetményalap összegének a 30 százalékát, a címzetes táblabíró az 50 százalékát, a címzetes kúriai bíró a 80 százalékát kitevő összegre jogosult. Egyidejűleg a tényleges beosztással járó beosztási pótlékra való jogosultság megszűnik.
 
@@ -1665,7 +1661,7 @@ címet adományoz.
 
 (2) A jubileumi jutalom 25 év szolgálati idő után a bíró kéthavi, 30 év után háromhavi, 35 év után négyhavi, 40 év után öthavi, 45 év után hathavi illetménye.
 
-(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti szolgálati jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, politikai felsővezetőként, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a közszolgálati jogviszonyban, az egészségügyi szolgálati jogviszonyban, a közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti szolgálati jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, politikai felsővezetőként, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a közszolgálati jogviszonyban, az egészségügyi szolgálati jogviszonyban, a közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél, a polgári nemzetbiztonsági szolgálatoknál és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
 
 (4) A (3) bekezdésben foglaltakon kívül jubileumi jutalomra jogosító időnek számít az ügyvédi tevékenység, valamint a közjegyzői és a bírósági végrehajtói szolgálat időtartama is, kivéve az ügyvédi tevékenység, illetve a közjegyzői, valamint a bírósági végrehajtói szolgálat szünetelésének idejét.
 
@@ -1925,7 +1921,7 @@ irányadó összeggel azonos.
 
 212. § (1) Ülnöknek az a 30. évét betöltött magyar állampolgár választható meg, aki nem áll a cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt, továbbá büntetlen előéletű és nem áll közügyektől eltiltás hatálya alatt sem.
 
-(2) A katonai büntetőeljárásban eljáró katonai tanácsok ülnökeinek (a továbbiakban: katonai ülnök) megválasztásához az (1) bekezdésben meghatározott feltételeken túl az is szükséges, hogy a jelölt a Magyar Honvédségnél, illetve rendvédelmi szervnél hivatásos szolgálati viszonyban álljon.
+(2) A katonai büntetőeljárásban eljáró katonai tanácsok ülnökeinek (a továbbiakban: katonai ülnök) megválasztásához az (1) bekezdésben meghatározott feltételeken túl az is szükséges, hogy a jelölt a Magyar Honvédségnél, a rendvédelmi szervnél, illetve a polgári nemzetbiztonsági szolgálatnál hivatásos szolgálati viszonyban álljon.
 
 (3) Az ülnök nem lehet tagja pártnak, és politikai tevékenységet nem folytathat.
 
@@ -1940,7 +1936,7 @@ irányadó összeggel azonos.
 
 jelölik.
 
-(3) A katonai ülnököket – ideértve a Be. 698. § (4) bekezdésére tekintettel a Be. 680. § (5) bekezdésében meghatározott feltételeknek megfelelő katonai ülnököket is – a Magyar Honvédség és a rendvédelmi szervek illetékes parancsnokai – az ott működő érdek-képviseleti szervek javaslataira is figyelemmel – jelölik.
+(3) A katonai ülnököket – ideértve a Be. 698. § (4) bekezdésére tekintettel a Be. 680. § (5) bekezdésében meghatározott feltételeknek megfelelő katonai ülnököket is – a Magyar Honvédség, a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok illetékes parancsnokai – az ott működő érdek-képviseleti szervek javaslataira is figyelemmel – jelölik.
 
 (4) A munkaügyi bíróságként eljáró bíróság ülnökeit elsősorban a munkavállalók és munkaadók érdek-képviseleti szervei jelölik.
 
@@ -2026,7 +2022,7 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 
 #### 79. Az ülnök javadalmazása
 
-221. § (1) A munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, egészségügyi szolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
+221. § (1) A munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, egészségügyi szolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél, a polgári nemzetbiztonsági szolgálatoknál és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
 
 (2) Ha valamely jogszabályban biztosított juttatáshoz való jogosultság, illetve annak mértéke meghatározott munkateljesítménytől vagy a munkában eltöltött napok számától függ, az ülnöki működés időtartamát munkában töltött időként kell számításba venni.
 
@@ -2252,6 +2248,12 @@ kerülhet sor.
 232/X. § (1) E törvénynek az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvénnyel módosított rendelkezései nem érintik az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvény hatálybalépésének napjáig hatályos rendelkezések alapján bíróvá kinevezett alkotmánybíró bírói kinevezését. E bíró szolgálati viszonya szünetel a kinevezéstől az Alkotmánybíróságban betöltött tagsága megszűnéséig. A szolgálati viszony szünetelését követően a bírót a választása szerinti ítélőtáblára kell beosztani. Ha e bíró a bírói szolgálati viszony szünetelése alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
 
 (2) E törvénynek az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvénnyel módosított rendelkezései nem érintik az egyes igazságügyi tárgyú törvényeknek a magyar helyreállítási és ellenállóképességi tervhez kapcsolódó módosításáról szóló 2023. évi X. törvény hatályba lépésének napjáig hatályos 27. és 27/A. § rendelkezései alapján beosztott bíró jogállását.
+
+232/Y. § (1) E törvénynek Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 4. § (1) bekezdésében foglaltakat a 2025. március 1. napján és az azt követően kiírt bírói pályázati eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Módtv2.-vel megállapított 4. § (1) bekezdése helyett e törvénynek a Módtv2. 96. §-ának hatályba lépése előtti napon hatályos 4. § (1) bekezdésében foglaltakat kell alkalmazni, ha a bírói álláshelyre pályázó 2025. január 1-jét megelőzően igazságügyi szervnél szolgálati jogviszonyt létesített bírósági titkár, továbbá olyan bírósági titkár, aki 2025. január 1-jét megelőzően igazságügyi szervnél bírósági fogalmazói jogviszonyban állt.
+
+(3) E törvénynek a Módtv2.-vel megállapított 4. § (1) bekezdését a már kinevezett bírókra nem kell alkalmazni.
 
 232/Z. § (1) A Kúria bíráit és bírósági vezetőit az e törvénynek a Módtv2. 101. § és 102. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg, ez az illetmény nem lehet kevesebb, mint az érintett illetményének a Módtv2. 101. § és 102. §-ának hatályba lépése előtti összege. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv2. 101. § és 102. §-ának hatálybalépését követő 60. napig kerül sor.
 

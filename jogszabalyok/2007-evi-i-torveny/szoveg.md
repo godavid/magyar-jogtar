@@ -408,7 +408,7 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 - b) akinek a beutazási vagy a tartózkodási joga nem áll fenn, de aki ennek ellenére a beutazási vagy a tartózkodási joga igazolása céljából az eljáró idegenrendészeti hatóság előtt hamis adatra vagy valótlan tényre hivatkozott,
 - c) akinek beutazása vagy tartózkodása valódi, közvetlen és súlyos veszélyt jelent Magyarország közrendjére, köz- vagy nemzetbiztonságára.
 
-(3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból, törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.
+(3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból, törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek és polgári nemzetbiztonsági szolgálatok is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörét érintő esetben – a kormányrendeletben meghatározott rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat javaslatot tesz. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.
 
 (4) Büntetőeljárás során hozott jogerős ügydöntő határozat önmagában nem képezheti a (2) bekezdés c) pontja alapján elrendelt kiutasító döntés meghozatalának alapját.
 
@@ -880,7 +880,7 @@ foglalt résznyilvántartásokból szolgáltathat adatot.
 - d) az adóhatóságtól;
 - e) a foglalkoztatás-felügyeleti hatóságtól;
 - f) az állami foglalkoztatási szervtől;
-- g) az e törvényben meghatározott véleményezési eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől;
+- g) az e törvényben meghatározott véleményezési eljárásokon túl Magyarország rendvédelmi szerveitől és nemzetbiztonsági szolgálataitól;
 - h) az állampolgársági ügyekben eljáró szervtől.
 
 (2) Az (1) bekezdés d) pontjában meghatározott nyilvántartásból az eljáró idegenrendészeti hatóság csak akkor igényelhet adatot, ha az EGT-állampolgárt vagy a családtagot Magyarország más elbánásban részesíti, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
@@ -938,7 +938,7 @@ foglalt résznyilvántartásokból szolgáltathat adatot.
 - f) a kitoloncolási őrizetbe vett, valamint a kijelölt helyen tartózkodásra kötelezett személy ellátásának és támogatásának szabályait;
 - g) a kijelölt helyen tartózkodásra kötelezett személyre vonatkozó kötelező magatartási szabályokat;
 - h) az EGT-állampolgár és a családtag egészségügyi ellátását, az egészségügyi ellátás anyagi fedezetének mértékét és igazolását;
-- i) az idegenrendészeti kiutasítás kezdeményezésére, valamint a beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket.
+- i) az idegenrendészeti kiutasítás kezdeményezésére, valamint a beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket, polgári nemzetbiztonsági szolgálatokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmány biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat.
 

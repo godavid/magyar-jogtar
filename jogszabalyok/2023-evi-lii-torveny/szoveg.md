@@ -94,7 +94,7 @@ hozzátartozójának, vagy a foglalkoztatotti jogviszonyban álló személlyel k
   - b) a köznevelési foglalkoztatotti jogviszonyban álló lakó- vagy tartózkodási helyéről a tényleges munkavégzés helyére, valamint a munkavégzés helyéről a lakó- vagy tartózkodási helyére történő utazás tartama,
 - 21. munkáltató: az Nkt.-ban meghatározott köznevelési intézmény, továbbá a tankerületi központ,
 - 22. munkaszüneti nap: január 1., március 15., nagypéntek, húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.,
-- 23. munkavégzésre irányuló jogviszony: a köznevelési foglalkoztatotti jogviszony, az adó- és vámhatósági szolgálati jogviszony, a politikai szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a munkaviszony, a közalkalmazotti jogviszony, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a szolgálati viszony, a bírói szolgálati viszony, az ügyészségi szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, a honvédelmi alkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a munkavégzési kötelezettséggel járó szövetkezeti tagsági viszony, a vállalkozási és megbízási szerződés, a gazdasági társaság vezető tisztségviselői vagy felügyelő bizottsági tagsági tevékenység ellátására irányuló jogviszony és az egyéni vállalkozás,
+- 23. munkavégzésre irányuló jogviszony: a köznevelési foglalkoztatotti jogviszony, az adó- és vámhatósági szolgálati jogviszony, a politikai szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a nemzetbiztonsági alkalmazotti jogviszony, a munkaviszony, a közalkalmazotti jogviszony, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszony, a nemzetbiztonsági szolgálati jogviszony, a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vagy szerződéses katonai szolgálati viszony, a bírói szolgálati viszony, az ügyészségi szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, a honvédelmi alkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a munkavégzési kötelezettséggel járó szövetkezeti tagsági viszony, a vállalkozási és megbízási szerződés, a gazdasági társaság vezető tisztségviselői vagy felügyelő bizottsági tagsági tevékenység ellátására irányuló jogviszony és az egyéni vállalkozás,
 - 24. nevelési-oktatási intézmény: az Nkt. 7. § (1a) bekezdésében meghatározott nevelési-oktatási intézmény,
 - 25. nevelő-oktató munkát közvetlenül segítő munkakör:
   - a) dajka,
@@ -2045,6 +2045,7 @@ a kifizetés esedékességekor érvényes, pótlék és megbízási díj nélkü
 - l) a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vagy szerződéses szolgálati viszonyban,
 - m) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
 - n) egészségügyi szolgálati jogviszonyban
+- o) a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonyban, valamint nemzetbiztonsági alkalmazotti jogviszonyban
 
 töltött időt.
 

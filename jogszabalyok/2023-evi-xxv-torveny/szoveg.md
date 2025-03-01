@@ -428,7 +428,7 @@ jogellenesnek minősül akkor is, ha egyébként jogszerű lenne.
 - c) a bejelentés megtétele során az egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként a hivatásánál fogva rá irányadó titoktartási kötelezettségének nem tesz eleget,
 - d) a bejelentés megtétele során a bírói ítélkezéssel kapcsolatban a törvény által védett titok védelmére vonatkozó szabályokat megszegi,
 - e) bejelentésével a büntetőeljárási szabályok szerinti adatkezelési szabályokat megszegi, vagy
-- f) a rendvédelmi szervek, a Katonai Nemzetbiztonsági Szolgálat, illetve a Nemzeti Adó- és Vámhivatal állományának a tagjaként a bejelentésével az e szervek tevékenységére vonatkozó, jogszabályban meghatározott szabályokat megszegi.
+- f) a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, illetve a Nemzeti Adó- és Vámhivatal állományának a tagjaként a bejelentésével az e szervek tevékenységére vonatkozó, jogszabályban meghatározott szabályokat megszegi.
 
 49. § (1) Ez az alcím irányadó arra a bejelentőre, aki személyazonosságának felfedése nélkül – így különösen neve, azonosításához szükséges személyes adatai megadása nélkül – tesz jogszerű bejelentést és későbbi azonosítását követően vele szemben a 41. § (1) bekezdése szerinti hátrányos intézkedést tesznek meg, illetve esetében a 42. § alkalmazására kerül sor.
 

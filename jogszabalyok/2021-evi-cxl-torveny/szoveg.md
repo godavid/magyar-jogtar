@@ -697,7 +697,7 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 - a) a Honvédség tényleges szolgálatot teljesítő tagjára, munkavállalójára, a honvédelmi alkalmazottra, a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban állóra,
 - b) a rendvédelmi szervek hivatásos vagy szerződéses állományú tagjára,
 - c) a nemzetbiztonsági szolgálatok hivatásos állományú tagjára,
-- d) a b) és c) pont szerinti szervek munkavállalójára és rendvédelmi igazgatási alkalmazottjára, valamint
+- d) a b) pont szerinti szervek munkavállalójára és rendvédelmi igazgatási alkalmazottjára, illetve a c) pont szerinti szerv nemzetbiztonsági alkalmazottjára, valamint
 - e) az Országgyűlési Őrség hivatásos állományú tagjára, köztisztviselőjére és munkavállalójára.
 
 #### 29. A polgári védelmi kötelezettség fegyveres összeütközések időszakával összefüggő eltérő szabályai

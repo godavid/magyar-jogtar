@@ -3074,6 +3074,8 @@ szemben, e szerveknek a befektetési alapkezelőhöz intézett adatkérése, ill
 
 van összefüggésben.
 
+(1a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a befektetési alapkezelő az ügyészség engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a befektetési alapkezelő az ügyészségnek az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+
 (2) A 199. § (1) bekezdés e), g) és h) pontjai, valamint az e § (1) bekezdésében foglaltak szerint történő adatátadásról az érintett ügyfél nem tájékoztatható.
 
 200/A. § (1) A Hpt. 164/B. §-a alapján átvett adatokat az ABAK és az ÁÉKBV-alapkezelő tevékenységi köre ellátásával összefüggésben a szolgáltatásai nyújtásához szükséges mértékben megismerheti, és az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelheti, ha az ügyfél az adattovábbítást a (2) bekezdés szerinti nem korlátozta vagy tiltotta meg.
@@ -3081,6 +3083,8 @@ van összefüggésben.
 (2) A hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő ügyfele kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a Hpt. 164/B. § (2) bekezdés szerinti adattovábbítást.
 
 (3) A hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
+
+200/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a befektetési alapkezelő a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
 
 ## NYOLCADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

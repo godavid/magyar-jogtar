@@ -978,13 +978,40 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 43. A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény módosítása
 
-#### 83. §
+83. § (1) A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 5. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-#### 84. §
+(Akivel szemben ideiglenes megelőző távoltartást, illetve megelőző távoltartást rendeltek el, a távoltartás hatálya alatt köteles)
 
-#### 85. §
+„b) magát távol tartani a bántalmazott tartózkodására szolgáló ingatlantól,”
 
-#### 86. §
+(2) A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a bántalmazó a tartózkodására szolgáló ingatlant – a használat jogcímétől függetlenül – a bántalmazottal közösen használja, a bántalmazó nem kötelezhető a bántalmazott tartózkodására szolgáló ingatlantól való távoltartásra, ha
+
+- a) a bántalmazott az ingatlan használatára a szívességi lakáshasználaton kívül egyéb jogcímmel nem rendelkezik, de a bántalmazó igen, és
+- b) a bántalmazott a bántalmazóval folytatott életközösségében gyermeket nem nevel.”
+
+84. § (1) A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 8. § a) pont aa) alpontja helyébe a következő rendelkezés lép:
+
+(Az ideiglenes megelőző távoltartó határozat rendelkező részének tartalmaznia kell:
+
+a rendőrség döntését arról, hogy)
+
+  - „aa) a bántalmazó köteles a bántalmazott tartózkodására szolgáló ingatlant elhagyni, és oda az ideiglenes megelőző távoltartó határozat hatálya alatt nem térhet vissza, vagy”
+
+(2) A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 8. § b) pontja helyébe a következő rendelkezés lép:
+
+(Az ideiglenes megelőző távoltartó határozat rendelkező részének tartalmaznia kell:)
+
+„b) a bántalmazott tartózkodására szolgáló ingatlan címét,”
+
+85. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kérelem elbírálására a bántalmazott tartózkodási helye szerinti járásbíróság jogosult. A kérelmet a határozat közlésétől számított három napon belül kell a bíróságnál benyújtani. A bíróság a kérelemről annak beérkezésétől számított három munkanapon belül határoz.”
+
+86. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 13. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az eljárásra a bántalmazott tartózkodási helye szerinti járásbíróság illetékes.”
 
 #### 87. §
 
@@ -1002,29 +1029,77 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 92. §
 
-#### 46.
+#### 46. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-#### 93. §
+93. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 2. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-#### 94. §
+„(4) Nem állapítható meg szabálysértés, ha a tevékenység vagy mulasztás bűncselekményt valósít meg, úgyszintén, ha a tevékenységre vagy mulasztásra törvény vagy önkormányzati rendelet – az eljárási bírság kivételével – közigazgatási eljárásban kiszabható bírság alkalmazását rendeli el.”
 
-#### 95. §
+94. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 21. §-a a következő (4a) bekezdéssel egészül ki:
 
-#### 96. §
+„(4a) Ha a XXVII. és XXVIII. Fejezetben meghatározott szabálysértés több közlekedési szabályszegéssel valósul meg, a szabálysértési büntetésként a pénzbírság kiszabására az általános szabályok alkalmazandóak azzal, hogy a pénzbírság összege nem lehet kevesebb, mint a kormányrendeletben meghatározott legmagasabb kötelező mértékű pénzbírság, de nem haladhatja meg az általános szabályok szerinti pénzbírság legmagasabb összegét.”
 
-#### 97. §
+95. § (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 62. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-#### 98. §
+„(6) A tizennyolcadik életévét be nem töltött tanú meghallgatására a törvényes képviselő jelenlétében kerül sor, kivéve, ha
 
-#### 99. §
+- a) a törvényes képviselő érdekei a tanú érdekeivel ellentétesek,
+- b) a törvényes képviselő a jogainak gyakorlásában akadályozva van, vagy
+- c) nincs törvényes képviselője, illetve nem állapítható meg, hogy ki a törvényes képviselője.”
 
-#### 100. §
+(2) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 62. §-a a következő (6a) bekezdéssel egészül ki:
 
-#### 101. §
+„(6a) A (6) bekezdés a)–c) pontja szerinti esetekben a gyámhatóság eseti gyámot rendel ki, akit a kiskorú tanú meghallgatásának időpontjára idézni kell.”
 
-#### 102. §
+(3) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 62. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-#### 103. §
+„(8) Kiskorút a törvényes képviselője útján kell idézni, illetve értesíteni, továbbá a kiskorú tanú törvényes képviselőjét a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell idézni, hogy a törvényes képviselő a kiskorú megjelenéséről gondoskodjék. Ha a törvényes képviselő megjelenésének akadálya van, a gyámhatóság a (6a) bekezdés szerint jár el.”
+
+96. § (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 92. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az eljárás alá vont személyt az (1) bekezdés a) pontja alapján felmerült, az állam által a büntetőeljárásban előlegezett bűnügyi költségnek csak arra a részére lehet kötelezni, amely az eljárás tárgyát képező szabálysértéssel azonos cselekménnyel kapcsolatban merült fel a büntetőeljárásban.”
+
+(2) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 92. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a szabálysértési eljárást azért szüntetik meg, mert a cselekmény nem szabálysértés, hanem bűncselekmény, akkor abban az esetben viseli az állam a szabálysértési költséget, ha a büntetőeljárás megindítására nem kerül sor. Erről az eljárást megszüntető határozatban kell rendelkezni.”
+
+97. § (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 99/A. § (4a) bekezdése helyébe a következő rendelkezés lép:
+
+„(4a) A (3) bekezdés szerinti esetekben a közlésétől számított hat hónapon belüli ügyészségi kezdeményezésre – az ügyész rendelkezése szerint – a helyszíni bírságot megállapító döntést vissza kell vonni, vagy módosítani kell.”
+
+(2) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 99/A. §-a a következő (4b) bekezdéssel egészül ki:
+
+„(4b) Az ügyész tájékoztatja a bíróságot, ha a (4a) bekezdés alapján a helyszíni bírság felülvizsgálatát kezdeményezte.”
+
+98. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 128. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Nem minősül a határozat elkövető terhére történő megváltoztatásának, ha a perújítás során az elzárásra átváltoztatásról szóló új végzésben a bíróság az elzárás tartamát a törvénynek megfelelően állapítja meg.”
+
+99. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 134. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A fiatalkorú törvényes képviselőjét, gondozóját a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell idézni, hogy a fiatalkorú megjelenéséről gondoskodjék. Ha a törvényes képviselő megjelenésének akadálya van, a gyámhatóság eseti gyámot rendel ki, akit a fiatalkorú meghallgatásának időpontjára idézni kell.”
+
+100. § (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 139. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A szabálysértési elzárás végrehajtásáról, valamint a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben kiszabott szabálysértési elzárás esetén a gyámhatóság értesítéséről az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.”
+
+(2) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 139. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben az egyéb büntetés helyébe lépő szabálysértési elzárás esetén a gyámhatóság értesítéséről a végrehajtást foganatosító szabálysértési hatóság gondoskodik.”
+
+101. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 141. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) Ha az ügyész arról tájékoztatja a bíróságot, hogy a 99/A. § (4a) bekezdése alapján a helyszíni bírság felülvizsgálatát kezdeményezte, a bíróság az elzárásra átváltoztatást mellőzi, amelyről az ügyészt, a szabálysértési hatóságot és az elkövetőt értesíti.”
+
+102. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (2) bekezdése a következő e) ponttal egészül ki:
+
+(Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy)
+
+„e) az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével a tanú költségtérítésének,”
+
+(részletes szabályait rendeletben szabályozza.)
+
+103. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 89. § (2) bekezdésében az „a jogszabályban jogosultként megjelölt személy aláírásával ellátott tértivevény” szövegrész helyébe a „kézbesítési igazolás” szöveg lép.
 
 #### 47. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 

@@ -64,15 +64,19 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (1d) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 59–61. sorában meghatározott ingatlanokat ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
+(1e) Az Országos Mozgásszervi Intézet jogutódja a reumatológiai-immunológiai járó- és fekvőbeteg szakellátás tekintetében az Egyetem. Az Országos Mozgásszervi Intézet reumatológiai-immunológiai járó- és fekvőbeteg szakellátásait az Egyetem Klinikai Központja látja el.
+
+(1f) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 62–70. sorában meghatározott ingatlanokat ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
 (2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Egyetemmel.
 
 (3) A költségvetési szervi formában működő Egyetem és az MNV Zrt. között fennálló vagyonkezelési szerződés megszűnik.
 
-(4) Az (1), az (1a), az (1b) és az (1d) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+(4) Az (1), az (1a), az (1b), az (1d) és az (1f) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
 (5) A (4) bekezdés szerint átszálló ingóságokról az átszállásról szóló rendelkezés hatálybalépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, tulajdonosi joggyakorló szervezet könyveiben szereplő nyilvántartási értékkel.
 
-(5a) Az (1b) és (1d) bekezdés szerinti ingatlanjuttatásra tekintettel az ingatlanjuttatással egyidejűleg az (1b) és (1d) bekezdés szerinti közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek a jogutód Egyetemre szállnak át. A feladat ellátásával összefüggő hatósági engedélyek jogosultja a feladat átvételének időpontjától az Egyetem klinikai központja.
+(5a) Az (1b), az (1d) és az (1f) bekezdés szerinti ingatlanjuttatásra tekintettel az ingatlanjuttatással egyidejűleg az (1b), az (1d) és az (1f) bekezdés szerinti közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek a jogutód Egyetemre szállnak át. A feladat ellátásával összefüggő hatósági engedélyek jogosultja a feladat átvételének időpontjától az Egyetem klinikai központja.
 
 (6) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
@@ -89,6 +93,10 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 6/D. § A 3. mellékletben foglalt táblázat 59–61. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló, az Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet és az Országos Mozgásszervi Intézet köti meg az Egyetemmel.
 
 6/E. § Az Amerikai úti telephely és a Rehabilitációs Intézet európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában az Amerikai úti telephely és a Rehabilitációs Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.
+
+6/F. § A 3. mellékletben foglalt táblázat 62–70. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló, az Országos Mozgásszervi Intézet köti meg az Egyetemmel.
+
+6/G. § Az Országos Mozgásszervi Intézet európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában az Országos Mozgásszervi Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.
 
 #### 4. Záró rendelkezések
 
@@ -208,3 +216,12 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 | 59. | Budapest | 10886/43 | 1/1 | kivett kórház |
 | 60. | Budapest | 31571/2 | 1/1 | kivett kórház |
 | 61. | Budapest | 31567 | 1/1 | kivett lakóház, udvar |
+| 62. | Budapest | 14481 | 1767/10000 | Kivett strandfürdő |
+| 63. | Budap est | 14494/1 | 1643/3150 | Kivett lakóház, udvar |
+| 64. | Budapest | 14493 | 1/1 | Kivett kórház |
+| 65. | Budapest | 14519/2 | 1/1 | Kivett kórház |
+| 66. | Budapest | 14547/5 | 1/1 | Kivett orvosi rendelő |
+| 67. | Budapest | 13498/1 | 1/1 | Kivett munkásszálló |
+| 68. | Budapest | 14501 | 1/1 | Kivett lakóház, udvar |
+| 69. | Budapest | 14511 | 1/1 | Kivett beépítetlen terület |
+| 70. | Budapest | 14520 | 1/1 | Kivett beépítetlen terület |

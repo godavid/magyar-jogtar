@@ -68,8 +68,11 @@ Kiadatás Magyarországról
 - c) a megkereső államban a büntetőeljárás lefolytatásához szükséges magánindítványt, vagy más ezzel azonos hatályú indítványt nem terjesztették elő, illetve hozzájárulást nem adtak meg,
 - d) a kiadatás alapjául szolgáló cselekményt Magyarországon, az Európai Unió másik tagállamában vagy az 1985. június 14-i, a közös határokon történő ellenőrzések fokozatos megszüntetéséről szóló Schengeni Megállapodás végrehajtásáról szóló 1990. június 19-i egyezményben részes állam bírósága jogerősen elbírálta, vagy a cselekmény érdeméről olyan határozatot hozott, amely – a határozatot hozó állam joga alapján – azonos cselekmény vonatkozásában újabb büntetőeljárás megindításának akadályát képezi,
 - e) a megkereső állam azzal a céllal kéri egy személy kiadatását, hogy vele szemben a távollétében meghozott határozatban kiszabott szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést hajtson végre, és a határozathozatalt megelőző eljárásban nem biztosították a védelemhez fűződő jogokat.
+- f) a kiadni kért személy kiadásához harmadik ország vagy az Európai Unió tagállamának hozzájárulása szükséges, és a hozzájárulást a harmadik ország vagy az Európai Unió tagállama nem adja meg.
 
 (2) Az (1) bekezdés e) pontja alapján nem tagadható meg a kiadatás, ha a megkereső állam megfelelő garanciát nyújt arra, hogy a kiadni kért személy kérelmére biztosítja részére az ügy újbóli tárgyalásához való jogot.
+
+(3) Az (1) bekezdés f) pontjában meghatározott esetben a Fővárosi Törvényszék a hozzájárulás megadását a kiadatási kérelemnek a hozzájárulás iránti kérelem szempontjából lényeges adatainak, így különösen a bűncselekmény tényállásának és jogi minősítésének a továbbításával, a miniszter útján kezdeményezi. Ha a megkeresett ország az Európai Unió tagállama, a hozzájárulás iránti kérelem továbbítása során az Európai Unió tagállamaival folyatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény alkalmazásával kell eljárni. A kezdeményezésben a Fővárosi Törvényszék tájékoztatást nyújt a kiadatási eljárás határidejéről, és ennek figyelembevételével a hozzájárulás megadására megfelelő határidőt tűz.
 
 13. § (1) Ha e törvény kivételt nem tesz, magyar állampolgár kiadatásának csak akkor van helye, ha
 
@@ -106,10 +109,10 @@ Kiadatás Magyarországról
 
 16. § (1) A kiadatás az egyéb feltételek fennállása esetén is csak akkor engedélyezhető, ha biztosított, hogy
 
-- a) a kiadni kért személlyel szemben a kiadatását megelőzően elkövetett olyan más bűncselekmény miatt, amelyre a kiadatást nem engedélyezték, a megkereső államban nem folytatnak le büntetőeljárást, vagy nem foganatosítanak személyi szabadságot korlátozó intézkedést, továbbá nem adják ki, és nem adják át harmadik országnak ezen cselekmény miatt,
+- a) a kiadni kért személlyel szemben a kiadatását megelőzően elkövetett olyan más bűncselekmény miatt, amelyre a kiadatást nem engedélyezték, a megkereső államban nem folytatnak le büntetőeljárást, vagy nem foganatosítanak személyi szabadságot korlátozó intézkedést, továbbá nem adják ki harmadik országnak ezen cselekmény miatt,
 - b) a kiadott személy a vele szemben a kiadatását követően lefolytatott büntetőeljárás vagy büntetés végrehajtásának befejezése után elhagyhatja a megkereső állam területét.
 
-(2) A miniszter a kiadatást engedélyező döntést követően a megkereső állam kérésére hozzájárulhat az (1) bekezdés a) pontban meghatározott korlátozások feloldásához, ha a kiadatás feltételei e tekintetben is fennállnak.
+(2) A miniszter a kiadatást engedélyező döntést követően a megkereső állam kérésére hozzájárulhat az (1) bekezdés a) pontban meghatározott korlátozások feloldásához, ha a kiadatás feltételei, vagy – az Európai Unió tagállama által előterjesztett kiadatási kérelem esetén – az európai elfogatóparancs feltételei e tekintetben is fennállnak.
 
 (3) Nem szükséges a (2) bekezdés szerinti hozzájárulás az (1) bekezdés a) pontja szerinti korlátozások feloldásához, ha a kiadott személy a szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – a megkereső állam területét, vagy elhagyása után oda visszatér. A kiadatási eljárás során a kiadni kért személyt erre figyelmeztetni kell.
 
@@ -1386,6 +1389,7 @@ Az Európai Unió jogának való megfelelés
 - a) 46. §-a az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről szóló 2008. július 24-i 2008/675/IB tanácsi kerethatározatnak,
 - b) 46. § (1) bekezdése, 60/F–H. §-a és V. Fejezete a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 25. cikkének,
 - c) 48. és 54. §-a a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározat 8. cikk (3) és (4) bekezdésének, valamint 17. cikk (2) bekezdésének
+- d) 12. § (1) bekezdés f) pontja és (3) bekezdése, valamint 16. § (1) bekezdés a) pontja és (2) bekezdése az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló, 2002. június 13-i 2002/584/IB kerethatározatnak
 
 való megfelelést szolgálja.
 

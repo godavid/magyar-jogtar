@@ -60,7 +60,7 @@ kell érteni.
 5. § (1) A bíróság az európai elfogatóparancs végrehajtását megtagadja, ha
 
 - a) az európai elfogatóparancs alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki,
-- b) egy tagállamban a terhelt ellen az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre,
+- b) egy tagállamban a terhelt ellen az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a büntetést már végrehajtották, vagy annak végrehajtása folyamatban van – ideértve, ha a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtását a bíróság elrendeli –, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre,
 - c) a terhelt gyermekkor miatt nem büntethető,
 - d) a 3. § (3) és (4) bekezdése alapján a kettős büntethetőséget vizsgálni kell, és az európai elfogatóparancs alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény,
 - e) a terhelt olyan magyar állampolgár vagy olyan, az Európai Unió más tagállamának állampolgára, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
@@ -74,18 +74,16 @@ kell érteni.
 - d) a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették vagy jogerősen elítélték, feltéve, hogy a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre, vagy
 - e) az európai elfogatóparancs olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
 
-(3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság az európai elfogatóparancs végrehajtását megtagadja, ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ideiglenes végrehajtási letartóztatását, ideiglenes végrehajtási bűnügyi felügyeletét rendeli el, vagy a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtását elrendeli.
+(3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság megállapítja, hogy az európai elfogatóparancs végrehajtásának akadálya van, ha
 
-(4) A bíróság megtagadja az európai elfogatóparancs végrehajtását, ha
+- a) az európai elfogatóparancs végrehajtásának egyéb megtagadási oka nem áll fenn, és
+- b) a rendelkezésre álló adatok alapján a végrehajtás átvételének feltételei fennállnak és a végrehajtás átvételének megtagadási oka nem állapítható meg.
 
-- a) az európai elfogatóparancs végrehajtásának egyéb megtagadási oka nem áll fenn,
-- b) az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki,
-- c) a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik és
-- d) a rendelkezésre álló adatok alapján nem áll fenn a végrehajtás átvételének egyetlen megtagadási oka sem.
+(4) Annak eldöntése érdekében, hogy a (3) bekezdésben meghatározott rendelkezés alkalmazható-e, a bíróság a minisztert keresi meg, ha a végrehajtás átvételéhez szükséges beilleszkedési feltétel vizsgálata indokolt. A miniszter a bíróság megkeresésére a 120/A. § alkalmazásával jár el.
 
-(4a) A (4) bekezdés nem alkalmazható, ha a terhelt az átadásba beleegyezik.
+(4a) A (3) bekezdés nem alkalmazható, és a terhelt ideiglenes végrehajtási letartóztatása, ideiglenes végrehajtási bűnügyi felügyelete nem rendelhető el, ha a terhelt az átadásba beleegyezik.
 
-(5) Az európai elfogatóparancs végrehajtását a bíróság megtagadja, ha azt olyan határozat végrehajtása céljából bocsátották ki, amelyet a terhelt távollétében hoztak.
+(5) Az európai elfogatóparancs végrehajtását a bíróság megtagadhatja, ha azt olyan határozat végrehajtása céljából bocsátották ki, amelyet a terhelt távollétében hoztak.
 
 (6) Az (5) bekezdés nem alkalmazható, ha a kibocsátó tagállam jogával összhangban
 
@@ -96,9 +94,11 @@ kell érteni.
 
 és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt,
 
-- c) a határozat kézbesítése megtörtént, a terhelt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot,
-- d) a határozatot nem kézbesítették a terheltnek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről vagy
-- e) a felmerült körülmények alapján a bíróság egyértelműen megállapítja, hogy az átadás nem jár a terhelt nemzetközi vagy európai uniós jogi aktusban rögzített alapvető jogainak sérelmével.
+- c) a határozat kézbesítése megtörtént, a terhelt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot, vagy
+- d) a határozatot nem kézbesítették a terheltnek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről.
+- e)
+
+(6a) Ha a (6) bekezdésben meghatározott kizáró okok nem állapíthatók meg, a bíróság az (5) bekezdés alapján az európai elfogatóparancs végrehajtását akkor tagadhatja meg, ha a felmerült körülmények alapján a bíróság egyértelműen megállapítja, hogy az átadás a terhelt távollétéből fakadóan a terhelt nemzetközi vagy európai uniós jogi aktusban rögzített védelemhez való jogának sérelmével járna.
 
 (7) Ha az európai elfogatóparancsot a (6) bekezdés d) pontjában meghatározottak szerint bocsátották ki, az európai elfogatóparancs tartalmáról való tájékoztatás alkalmával a terhelt indítványozhatja, hogy az átadásának végrehajtását megelőzően bocsássák rendelkezésére a kibocsátó tagállami határozatot. Ezt a bíróság a kézhezvételt követően haladéktalanul továbbítja – kizárólag tájékoztatás céljából – a terheltnek. A terhelt indítványának nincs halasztó hatálya az európai elfogatóparancs végrehajtására.
 
@@ -107,6 +107,10 @@ kell érteni.
 (9) A (2) bekezdés a) pontjában meghatározott megtagadási ok esetén, a bíróság az európai elfogatóparancs végrehajtásáról a magyar büntetőeljárást folytató bíróság vagy ügyészség álláspontjának figyelembevételével dönt. A terhelt átadása ahhoz a feltételhez köthető, hogy a tagállam a magyar büntetőeljárást vegye át. A bíróság az európai elfogatóparancs végrehajtása tárgyában hozott döntéséről a magyar büntetőeljárást folytató bíróságot vagy ügyészséget is tájékoztatja.
 
 (10) Ha az európai elfogatóparancs megtagadására a (2) bekezdés e) pontja alapján kerül sor, a bíróság megteszi a szükséges intézkedést a büntetőeljárás Magyarországon történő lefolytatása végett.
+
+5/A. § (1) Nincs helye a terhelt átadásának, ha az átadáshoz az Európai Unió más tagállamának vagy harmadik országnak a hozzájárulása szükséges, és a hozzájárulást a tagállam vagy a harmadik ország nem adja meg.
+
+(2) Az (1) bekezdésben meghatározott esetben a bíróság a hozzájárulás megadását az európai elfogatóparancs továbbításával kezdeményezi. Ha a megkeresett ország harmadik ország, akkor a hozzájárulás iránti kérelem továbbítása során a Nbjt. alkalmazásával kell eljárni. A kezdeményezésben a bíróság tájékoztatást nyújt az európai elfogatóparancs végrehajtására irányuló eljárás határidejéről, és ennek figyelembevételével a hozzájárulás megadására megfelelő határidőt tűz.
 
 #### 3. Eljárás több európai elfogatóparancs, vagy harmadik ország kiadatási kérelmének egyidejű elbírálása esetén
 
@@ -273,7 +277,7 @@ kell érteni.
 
 17. § Ha a terhelt az átadási letartóztatás elrendelésekor letartóztatásban van, előzetes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, vagy az átadási letartóztatás elrendelését követően letartóztatását, előzetes kényszergyógykezelését rendelik el, szabadságvesztés vagy elzárás letöltését kezdi meg, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, és ezért az átadási letartóztatás foganatosítását félbeszakítják, a 9/B. §-t megfelelően alkalmazni kell.
 
-17/A. § (1) Ha a bíróság az európai elfogatóparancs végrehajtását az 5. § (3) vagy (4) bekezdése alapján tagadta meg, és ezt követően a bíróság a IX/A. Fejezet szerinti eljárásában a végrehajtás átvételét megtagadja, a bíróság a végrehajtás átvételének megtagadásával egyidejűleg az európai elfogatóparancs végrehajtásának megtagadásáról szóló határozatát hatályon kívül helyezi.
+17/A. § (1) Ha a bíróság az 5. § (3) bekezdése alapján megállapította, hogy az európai elfogatóparancs végrehajtásának akadálya van, és ezt követően a bíróság a IX/A. Fejezet szerinti eljárásában a végrehajtás átvételét megtagadja, a bíróság a végrehajtás átvételének megtagadásával egyidejűleg az európai elfogatóparancs végrehajtásának akadályáról szóló határozatát hatályon kívül helyezi, és az európai elfogatóparancs végrehajtására irányuló eljárását folytatja.
 
 (2) Az (1) bekezdésben meghatározott esetben
 
@@ -333,7 +337,7 @@ illetve a büntetőeljárás megindításához való előzetes hozzájárulásr�
 
 (3) A (2) bekezdés szerinti határozat ellen fellebbezésnek nincs helye.
 
-(4) Az (1)–(3) bekezdés szerinti eljárást kell lefolytatni a további átadás esetén is, ha a terhelt nem mondott le a specialitás szabályának alkalmazásáról, és az átadását követően egy másik tagállam által az átadást megelőzően elkövetett bűncselekmény miatt kibocsátott európai elfogatóparancs vagy hozzájárulás iránti kérelem tárgyában kell döntést hozni.
+(4) Az (1)–(3) bekezdés szerinti eljárást kell lefolytatni a további átadás vagy kiadatás esetén is, ha a terhelt nem mondott le a specialitás szabályának alkalmazásáról, és az átadást követően egy másik tagállam vagy harmadik ország által az átadást megelőzően elkövetett bűncselekmény miatt kibocsátott európai elfogatóparancs, kiadatási kérelem vagy hozzájárulás iránti kérelem tárgyában kell döntést hozni. Harmadik országot érintő kiadatási vagy hozzájárulás iránti kérelem esetén a hozzájárulás akkor adható meg, ha az alapul szolgáló bűncselekmény az Nbjt. rendelkezései szerint önmagában is kiadatási kötelezettséget von maga után.
 
 22. § (1) A bíróság az átadásról szóló határozatában elhalaszthatja a terhelt átadásának végrehajtását annak érdekében, hogy ellene Magyarország területén a büntetőeljárást lefolytathassák, vagy ha már elítélték, az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés vagy elzárás büntetését, illetve szabadságelvonással járó intézkedését végrehajthassák.
 
@@ -2680,7 +2684,9 @@ vonatkozó szabályokat is.
 
 124/B. § Az ideiglenes végrehajtási letartóztatás legfeljebb a végrehajtás átvételével kapcsolatos határozat meghozataláig tart, és nem haladhatja meg a büntetés tartamát. Az őrizet és az ideiglenes végrehajtási letartóztatás teljes idejét be kell számítani a végrehajtásra átvett szabadságvesztés büntetésbe vagy szabadságelvonással járó intézkedésbe. A bíróság az ideiglenes végrehajtási letartóztatás indokoltságát háromhavonta felülvizsgálja.
 
-124/C. § (1) Ha a bíróság az 5. § (4) bekezdése esetén az európai elfogatóparancs végrehajtását megtagadta, az európai elfogatóparancs megtagadásával egyidejűleg elrendeli az elítélt ideiglenes végrehajtási letartóztatását.
+124/C. § (1) Ha a bíróság az 5. § (3) bekezdése alapján megállapította, hogy az európai elfogatóparancs végrehajtásának akadálya van, döntésével egyidejűleg elrendeli az elítélt ideiglenes végrehajtási letartóztatását.
+
+(1a) A bíróság az ideiglenes végrehajtási letartóztatás elrendelésével egyidejűleg tájékoztatja az európai elfogatóparancsot kibocsátó tagállamot az ideiglenes végrehajtási letartóztatás elrendeléséről és annak határidejéről, arról, hogy a rendelkezésre álló adatok alapján a szabadságvesztés büntetés vagy a szabadságelvonással járó intézkedés végrehajtása átvételének törvényi feltételei fennállnak, valamint arról, hogy amennyiben a végrehajtás átvételéhez szükséges tanúsítvány kibocsátását követően a bíróság megállapítja, hogy a végrehajtás átvételének akadálya van, úgy az európai elfogatóparancs végrehajtására irányuló eljárást folytatni fogja.
 
 (2) Az (1) bekezdés alapján elrendelt ideiglenes végrehajtási letartóztatás a (3) bekezdés szerinti ülés időpontjáig, legfeljebb azonban harminc napig tart.
 
@@ -3550,7 +3556,7 @@ rendelkezik hatáskörrel és illetékességgel.
 
 #### 60. Összekötő tisztviselő
 
-169. § (1) A rendészetért felelős miniszter az általa felügyelt rendvédelmi szervek állományából legalább egy fő összekötő tisztviselőt küld az Europolhoz. Más miniszter az általa felügyelt rendvédelmi szerv állományából, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter a Nemzeti Adó- és Vámhivatal állományából a rendészetért felelős miniszter egyetértésével küldhet összekötő tisztviselőt az Europolhoz.
+169. § (1) A rendészetért felelős miniszter az általa felügyelt rendvédelmi szervek állományából legalább egy fő összekötő tisztviselőt küld az Europolhoz. Más miniszter az általa felügyelt rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat állományából, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter a Nemzeti Adó- és Vámhivatal állományából a rendészetért felelős miniszter egyetértésével küldhet összekötő tisztviselőt az Europolhoz.
 
 (2) Az összekötő tisztviselő az Europol nemzeti összekötő irodájában, a NEBEK vezetőjének utasításai szerint teljesít szolgálatot, a magyar jogszabályoknak és az Europol működésére vonatkozó rendelkezéseknek megfelelően.
 

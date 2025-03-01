@@ -520,9 +520,10 @@ Az alapító az intézkedés tervezett végrehajtása éve májusának utolsó m
 
 - a) az agrárpolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter, az élelmiszeriparért felelős miniszter, illetve a halgazdálkodásért felelős miniszter,
 - b) a honvédelemért felelős miniszter a Magyar Honvédség részére,
-- c) a rendvédelmi szervet irányító miniszter a rendvédelmi szervek részére
+- c) a rendvédelmi szervet irányító miniszter a rendvédelmi szervek részére,
+- d) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter az általa irányított polgári nemzetbiztonsági szolgálat részére
 
-alapíthat és gyakorolhatja a fenntartót megillető jogokat. Az a) pont szerinti miniszter által az állam nevében alapított szakképző intézmény (a továbbiakban: agrárszakképző intézmény), a b) pont szerinti miniszter által az állam nevében alapított szakképző intézmény (a továbbiakban: honvédségi szakképző intézmény) és a c) pont szerinti miniszter által az állam nevében alapított szakképző intézmény (a továbbiakban: rendvédelmi szakképző intézmény) működésére a Kormány rendelete e törvénytől eltérő szabályokat állapíthat meg.
+alapíthat és gyakorolhatja a fenntartót megillető jogokat. Az a) pont szerinti miniszter által az állam nevében alapított szakképző intézmény (a továbbiakban: agrárszakképző intézmény), a b) pont szerinti miniszter által az állam nevében alapított szakképző intézmény (a továbbiakban: honvédségi szakképző intézmény), a c) pont szerinti miniszter által az állam nevében alapított szakképző intézmény (a továbbiakban: rendvédelmi szakképző intézmény), és a d) pont szerinti miniszter által az állam nevében alapított szakképző intézmény (a továbbiakban: nemzetbiztonsági szakképző intézmény) működésére a Kormány rendelete e törvénytől eltérő szabályokat állapíthat meg.
 
 (2) A Kormány rendeletben az állami szakképző intézmény állam nevében történő alapítására és a fenntartói irányítási hatáskörök gyakorlására az (1) bekezdésben meghatározott miniszter mellett más tagját is kijelölheti. A Kormány rendeletben a szakképzésért felelős miniszter mellett más tagja által alapított szakképző intézmény szakképzési centrum részeként történő működését írhatja elő.
 
@@ -1779,7 +1780,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 9. az együttműködési megállapodás tartalmát és megkötésének részletes szabályait,
 - 10. a szakképzés megkezdésének és folytatásának feltételeit, ideértve az előkészítő évfolyam, a két tanítási nyelvű oktatás és a műhelyiskola megszervezésének eseteit és feltételeit, valamint a térítési díj, illetve a tandíj ellenében nyújtható szolgáltatásokat,
 - 11. a szakképzési centrum működésének szabályait, a főigazgató, az igazgató és a kancellár feladat- és hatásköreit,
-- 12. a honvédségi szakképző intézményre és a rendvédelmi szakképző intézményre vonatkozó sajátos szabályokat,
+- 12. a honvédségi szakképző intézményre, a rendvédelmi szakképző intézményre és a nemzetbiztonsági szakképző intézményre vonatkozó sajátos szabályokat,
 - 13. a fenntartó feladatait és irányítási hatásköreit, valamint a nemzetiségi önkormányzat által alapított szakképző intézménnyel kapcsolatosan az érintett nemzetiségi önkormányzat egyetértése vagy véleményének kikérése esetköreit,
 - 14. az intézményvezető megbízási feltételeit és a megbízással kapcsolatos eljárást,
 - 15. a szakképző intézmény alkalmazottjának végzettségi és szakképzettségi, illetve gyakorlati követelményeit, munkaidő-beosztásának és szabadsága kiadásának részletes szabályait,

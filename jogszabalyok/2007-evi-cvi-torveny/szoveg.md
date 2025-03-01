@@ -682,7 +682,7 @@ lehet végezni.
 - j) nemzetközi szerződés végrehajtása érdekében történő értékesítés esetén,
 - k) külföldi állam részére történő értékesítés esetén a j) pont alá nem tartozó esetben is,
 - l) minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő értékesítés esetén,
-- m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén,
+- m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, nemzetbiztonsági, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén,
 - n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről,
 - o) az országos közút melletti pihenő- és várakozóhelyeken 2011. december 31-ig megépült felépítményekre vonatkozó osztott tulajdon létesítése és földhasználati jog alapítása során lefolytatott értékesítési eljárás során,
 - p) zálogtárgy tulajdonjogának zálogjogosult által történő megszerzése esetén.
