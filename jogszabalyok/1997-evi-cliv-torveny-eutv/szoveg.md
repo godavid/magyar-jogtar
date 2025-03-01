@@ -3092,7 +3092,7 @@ fenntartására és irányítására.
 
 (19) Nem alkalmazandóak
 
-- a) az (1)–(17) bekezdésben foglaltak a rendvédelmi feladatokat ellátó szervnél működő egészségügyi szolgáltató,
+- a) az (1)–(17) bekezdésben foglaltak a rendvédelmi feladatokat ellátó szervnél vagy a polgári nemzetbiztonsági szolgálatnál működő egészségügyi szolgáltató,
 - b) a (2)–(17) bekezdésben foglaltak a honvédelemért felelős miniszter irányítása alá tartozó, a vármegyei irányító intézmény kategóriával azonos besorolású, e törvény szerint egészségügyi szolgáltatónak minősülő honvédelmi szervezet (a továbbiakban: honvédelmi egészségügyi szolgáltató)
 
 fenntartására, irányítására.
@@ -3641,6 +3641,8 @@ különös szabályok
 
 (2) A pszichiátriai betegnek a 6–25. § szerinti jogai – egészségügyi ellátása során – csak az e törvényben foglaltak szerint, a feltétlenül szükséges mértékben és ideig, továbbá – a 193. §-ban foglalt kivétellel – abban az esetben korlátozhatók, ha a beteg veszélyeztető vagy közvetlen veszélyeztető magatartást tanúsít. Az emberi méltósághoz való jog azonban ebben az esetben sem korlátozható.
 
+(3) A pszichiátriai betegnek kártalanítás jár, ha önkéntes, sürgősségi vagy kötelező pszichiátriai gyógykezelés elrendelése során a szabadságát alaptalanul korlátozták, illetve elvonták. A kártalanítás kizárólag a szabadság korlátozásának, illetve elvonásának a ténye és a tartama miatti hátrányok orvoslására szolgál.
+
 190. § Minden pszichiátriai beteg jogosult arra, hogy
 
 - a) pszichiátriai gyógykezelése lehetőség szerint családi, illetőleg lakókörnyezetében, továbbá
@@ -3816,6 +3818,32 @@ van helye.
 (3) Az előállítás végrehajtásához az azt elrendelő egészségügyi államigazgatási szerv a körözési eljárást lefolytató szervet megfelelő tájékoztatással látja el.
 
 (4) Ha az előállítás oka megszűnt, az azt elrendelő egészségügyi államigazgatási szerv a körözést visszavonja.
+
+201/C. § (1) A kártalanítást igénylő 189. § (3) bekezdése szerinti kártalanítási igénye kártalanítási perben érvényesíthető. A kártalanítási igény fizetési meghagyásos eljárásban nem érvényesíthető.
+
+(2) A kártalanítási igényt az állammal szemben kell érvényesíteni. Az államot az igazságügyért felelős miniszter képviseli.
+
+(3) A kártalanítást igénylő a kártalanítást megalapozó
+
+- a) önkéntes gyógykezelés esetén a bíróság 197. § (7) bekezdése szerinti, az intézeti gyógykezelés indokoltságát elutasító,
+- b) sürgősségi gyógykezelés esetén a bíróság 199. § (3) bekezdése szerinti, a kötelező pszichiátriai intézeti gyógykezelés elrendelését elutasító,
+- c) kötelező gyógykezelés esetén a bíróság 200. § (1) bekezdése szerinti, a kötelező intézeti gyógykezelés elrendelését elutasító
+
+jogerős határozat vele történő közlésétől számított egy éven belül érvényesítheti a kártalanítási igényét. Amennyiben az ügyben felülvizsgálati eljárás van folyamatban, a határidő a Kúria érdemi határozatának közlésétől számít. E határidő elmulasztása jogvesztő. Az a)–c) pont szerinti határozat közlésével egyidejűleg tájékoztatni kell az érintettet a kártalanítási igényének jogalapjáról, az igény érvényesítésének határidejéről, a határidő kezdő időpontjáról és a határidő elmulasztásának jogvesztő jellegéről.
+
+(4) A kártalanítási perben a szabadság alaptalan korlátozása, illetve elvonása miatt bekövetkezett kár, illetve nem vagyoni sérelem miatt járó kártalanítás követelhető.
+
+(5) Ha a kártalanítást igénylő a kártalanítási eljárás lefolytatása alatt meghal, örököse az érintett halálától számított hat hónapon belül kérheti az eljárás folytatását. E határidő elmulasztása jogvesztő.
+
+(6) A kártalanítási perben a kártalanítás módjára és mértékére a Polgári Törvénykönyvről szóló törvénynek a kártalanításra és a sérelemdíjra vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(7) A kártalanítás a (3) bekezdés a)–c) pont szerinti határozatok jogerőre emelkedésével válik esedékessé.
+
+(8) A kártalanítási perben a polgári perrendtartásról szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(9) A keresetlevelet a kártalanítást megalapozó határozatot hozó első fokon eljárt bíróságnál kell előterjeszteni. A keresetlevelet a bíróság annak beérkezését követő harminc napon belül érdemi vizsgálat nélkül a gyógykezelés elrendelésére irányuló eljárás ügyirataival együtt a felperes belföldi lakóhelye, ennek hiányában a felperes belföldi tartózkodási helye, ha külföldön van, az elsőfokon eljárt, a perre hatáskörrel rendelkező törvényszéknek küldi meg.
+
+(10) A kártalanítási perben nem járhat el az a bíró, aki a 189. § (3) bekezdése szerinti szabadság korlátozó, illetve elvonó önkéntes, sürgősségi vagy kötelező pszichiátriai gyógykezelés elrendelésében eljárt.
 
 ### XI. Fejezet — SZERV- ÉS SZÖVETÁTÜLTETÉS
 
@@ -4187,13 +4215,13 @@ kezeli.
 
 (2) Egészségügyi válsághelyzet idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá az egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve az Szkt. 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több vármegye érintettsége esetén a 232/B. § (1) bekezdésében meghatározott Operatív Törzs vagy a Kormány rendeletében kijelölt más szerv dönt.
+(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve az Szkt. 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több vármegye érintettsége esetén a 232/B. § (1) bekezdésében meghatározott Operatív Törzs vagy a Kormány rendeletében kijelölt más szerv dönt.
 
 (3a) Az Operatív Törzs (3) bekezdés szerinti döntése elleni közigazgatási perben nincs helye azonnali jogvédelemnek.
 
 (3b) A bíróság az Operatív Törzs (3) bekezdés szerinti döntését helyben hagyja, vagy az ítélet meghozatalának időpontjára tekintettel hatályon kívül helyezi.
 
-(4) Ha az egészségügyi válsághelyzet több vármegyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
+(4) Ha az egészségügyi válsághelyzet több vármegyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
 
 (5) A miniszter javaslatára a Kormány meghatározza az egészségügyi válsághelyzet felszámolása érdekében igénybe vehető erőket, eszközöket és szervezeteket, és engedélyezi azok igénybevételét.
 
@@ -4826,6 +4854,8 @@ időtartamnak a megszűnt jogosultság szerinti gazdasági tevékenységéből s
 hatályban marad.
 
 244/N. § E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 155. § (11b) bekezdése szerinti vagyonkezelés átadásáról 2026. március 1-jéig szükséges gondoskodni.
+
+244/O. § E törvénynek a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel megállapított 189. § (3) bekezdését és 201/C. §-át a 2025. március 1-jét követően meghozott, a 201/C. § (3) bekezdés a)–c) pontjai szerinti kártalanítást megalapozó határozatok tekintetében lehet alkalmazni.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 

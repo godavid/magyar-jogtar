@@ -22,7 +22,7 @@ a közúti közlekedésről
 
 (3) Magyarország területén külföldi hatósági jelzéssel ellátott járművekre , azok üzembentartójára és vezetőjére a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben jogszabály, nemzetközi szerződés, egyezmény vagy megállapodás másként nem rendelkezik.
 
-(4) A Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek
+(4) A Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok
 
 - a) tagjaira,
 - b) üzemben tartott járműveire, és azok forgalomba helyezésére, valamint időszakos vizsgálatára, továbbá
@@ -2597,6 +2597,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
   - ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, és az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata, valamint a 18. § (18) bekezdésének végrehajtásával összefüggésben a Magyar Honvédség állományába tartozó, a képzés vezetési gyakorlati részét oktató személy esetében a szakoktatókkal szemben támasztott követelmények és képzésük, valamint az oktatójárművek műszaki feltételei tekintetében eltérő rendelkezéseket,
   - mb) az egyes rendvédelmi szerveket irányító miniszter, hogy a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
   - mc) a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a Nemzeti Adó- és Vámhivatal állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket;
+  - md) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálat állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket
 - n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos szabályokat,
 - o) a közlekedésrendészetért felelős miniszter, hogy a 21/B. § (3) bekezdésében említett, a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványt,
 - p) a miniszter, hogy a közúti jármű előéleti nyilvántartás vezetésével kapcsolatos feltételeket

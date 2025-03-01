@@ -118,7 +118,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
   - cg) a területfejlesztési önkormányzati társulás,
   - ch) a térségi fejlesztési tanács,
 - d) a 9. § (1) bekezdés h)–i) pontja szerinti jogi személyek,
-- e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az a)–f) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza,
+- e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy irányítása az a)–f) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlen vagy közvetett felügyelete alatt áll, vagy többségi részben egy vagy több ilyen szervezet (testület) finanszírozza, vagy egy vagy több ilyen szervezet (testület) választja meg a vezető tisztségviselők, a döntéshozó szerv vagy a felügyelőbizottság tagjainak a többségét,
 - f) a közfeladatot ellátó közérdekű vagyonkezelő alapítványok és az általuk létesített vagy fenntartott jogi személyek.
 
 (2) A támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy, amelynek uniós közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését többségi részben, uniós értékhatárokat el nem érő, de a nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését 75%-ot meghaladó mértékben az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy közvetlenül támogatja, feltéve, hogy a beszerzés tárgya
@@ -243,7 +243,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
   - dd) tagállami hatósági hatáskör gyakorlását megtestesítő szolgáltatások;
 - e) értékpapírok vagy a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott egyéb pénzügyi eszközök kibocsátásával, eladásával, vételével vagy átruházásával kapcsolatos, a CPV-ben a 66100000-1 CPV kód alá tartozó (a 66110000-4 CPV kódtól a 66190000-8 CPV kódig megjelölt) pénzügyi szolgáltatások, jegybanki szolgáltatások, valamint az Európai Pénzügyi Stabilitási Eszköz és az Európai Stabilitási Mechanizmus keretében végzett műveletek;
 - f) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitel- és kölcsönszerződések;
-- g) munkaviszony, közszolgálati, kormányzati szolgálati, vagy közalkalmazotti jogviszony, köznevelési foglalkoztatotti jogviszony, egészségügyi szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony, ügyészségi szolgálati jogviszony, bírói szolgálati jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
+- g) munkaviszony, közszolgálati, kormányzati szolgálati, vagy közalkalmazotti jogviszony, köznevelési foglalkoztatotti jogviszony, egészségügyi szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, nemzetbiztonsági alkalmazotti jogviszony, honvédelmi alkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony, ügyészségi szolgálati jogviszony, bírói szolgálati jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, a polgári nemzetbiztonsági szolgálatok nemzetbiztonsági állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
 - h) nonprofit szervezetek vagy egyesületek által nyújtott, az állampolgárok védelmét szolgáló 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9, 85143000-3 CPV kódok által meghatározott polgári védelmi és veszélymegelőzési szolgáltatás, kivéve a betegszállítási mentőszolgáltatás;
 - i) vasúti vagy földalatti közösségi személyszállítási szolgáltatások;
 - j) a 79341400-0, a 92111230-3 és a 92111240-6 CPV kódok által meghatározott politikai kampányszolgáltatás, amelyet valamely politikai párt választási kampánnyal összefüggésben rendel meg;
@@ -820,13 +820,13 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 (4)
 
-(5) Amennyiben az (1) bekezdés szerint az EKR-en történő kapcsolattartás a 79–80. §, a 87. § (6) bekezdésében, a 117. § (8) bekezdésében, vagy a 127. § (1)–(2) bekezdésében szabályozott cselekményekre nem alkalmazható, ezen eljárási cselekmények esetében a kapcsolattartás kizárólag az EKR-en kívüli – a (4) bekezdésben szabályozott – elektronikus úton vagy faxon történhet.
+(5) Amennyiben az (1) bekezdés szerint az EKR-en történő kapcsolattartás a 79–80. §, a 87. § (6) bekezdésében, a 117. § (8) bekezdésében, vagy a 127. § (1)–(2) bekezdésében szabályozott cselekményekre nem alkalmazható, ezen eljárási cselekmények esetében a kapcsolattartás kizárólag az EKR-en kívüli elektronikus úton vagy faxon történhet.
 
 (6)
 
 ### Nyilvánosság a közbeszerzési eljárásban
 
-42. § (1) Az 5. § (1) bekezdésében meghatározott ajánlatkérők – a központi beszerző szervek kivételével – a költségvetési év elején, legkésőbb március 31. napjáig éves összesített közbeszerzési tervet (a továbbiakban: közbeszerzési terv) készítenek az adott évre tervezett közbeszerzéseikről. A közbeszerzési tervet az ajánlatkérő legalább öt évig megőrzi. A közbeszerzési terv nyilvános.
+42. § (1) Az 5. § (1) bekezdésében, valamint a 6. és 7. §-ban meghatározott ajánlatkérők évente, legkésőbb március 31. napjáig éves összesített közbeszerzési tervet (a továbbiakban: közbeszerzési terv) készítenek az adott évre tervezett közbeszerzéseikről. Központi beszerző szervek esetén az általuk ellátott ajánlatkérők részére megvalósítandó egyedi beszerzésekre vonatkozó információkat a tervnek nem kell tartalmaznia. A közbeszerzési tervet az ajánlatkérő legalább öt évig megőrzi. A közbeszerzési terv nyilvános.
 
 (2) A közbeszerzési terv elkészítése előtt az ajánlatkérő indíthat közbeszerzési eljárást, amelyet a tervben szintén megfelelően szerepeltetni kell.
 
@@ -1016,7 +1016,7 @@ céljából, erre irányuló megkeresés alapján adhatja át.
 
 - a) ha a kiegészítő tájékoztatást, annak ellenére, hogy azt a gazdasági szereplő az 56. §-ban meghatározottak szerint időben kérte, nem tudja az előírt határidőben [56. § (2) bekezdés] teljesíteni,
 - b) ha a közbeszerzési dokumentumokat módosítja, vagy
-- c) az EKR üzemzavarára tekintettel az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet szerinti esetekben.
+- c) az EKR-t érintő üzemzavarra vagy működési hibára tekintettel az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet szerinti esetekben.
 
 (5) A meghosszabbítás mértékének arányban kell állnia a kiegészítő tájékoztatásban közölt információk vagy a változtatás jelentőségével. A (4) bekezdés b) pontjától eltérően nem köteles az ajánlatkérő a határidőt meghosszabbítani, ha a közbeszerzési dokumentumok módosítása nem jelentős és a módosítás megküldése az ajánlattételi vagy részvételi határidő lejártának napját megelőző legkésőbb hetedik, ha a módosításról hirdetményt kell feladni, annak feladása az ajánlattételi vagy részvételi határidő lejártának napját megelőző legkésőbb tizedik napra esik. Nem jelentős a közbeszerzési dokumentumok módosítása, ha nem befolyásolja a részvételi jelentkezések vagy ajánlatok időben történő megfelelő előkészítését.
 
@@ -1044,7 +1044,7 @@ céljából, erre irányuló megkeresés alapján adhatja át.
 
 ### Az ajánlati biztosíték
 
-54. § (1) Az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötheti, amit az ajánlattevőnek az ajánlati kötöttség beálltáig a felhívásban meghatározott mértékben kell az ajánlatkérő rendelkezésére bocsátania. Amennyiben az ajánlatkérő a 87. § (6) bekezdése vagy 108. § (8a) bekezdése alapján úgy dönt, hogy nem tart tárgyalást vagy elektronikus árlejtést, és az ajánlati kötöttség az erről szóló értesítés ajánlatkérő általi megküldésével áll be, az ajánlati biztosítékot ezen értesítés megküldésétől számított öt munkanapon belül kell rendelkezésre bocsátani. Az ajánlattevőnek igazolnia kell, hogy a biztosítékot az ajánlatkérő rendelkezésére bocsátotta. Az ajánlati biztosíték az ajánlati kötöttség megtartását biztosítja, az eljárás részvételi szakaszában a részvételt nem lehet biztosíték adásához kötni.
+54. § (1) Az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötheti, amit az ajánlattevőnek az ajánlati kötöttség beálltáig a felhívásban meghatározott mértékben kell az ajánlatkérő rendelkezésére bocsátania. Amennyiben az ajánlatkérő a 87. § (6) bekezdése alapján úgy dönt, hogy nem tart tárgyalást, és az ajánlati kötöttség az erről szóló értesítés ajánlatkérő általi megküldésével áll be, az ajánlati biztosítékot ezen értesítés megküldésétől számított öt munkanapon belül kell rendelkezésre bocsátani. Az ajánlattevőnek igazolnia kell, hogy a biztosítékot az ajánlatkérő rendelkezésére bocsátotta. Az ajánlati biztosíték az ajánlati kötöttség megtartását biztosítja, az eljárás részvételi szakaszában a részvételt nem lehet biztosíték adásához kötni.
 
 (2) Az ajánlati biztosíték az ajánlattevő választása szerint teljesíthető az előírt pénzösszegnek az ajánlatkérő fizetési számlájára történő befizetésével, pénzügyi intézmény vagy biztosító által vállalt garancia vagy készfizető kezesség biztosításával, vagy biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvénnyel. A befizetés helyét, az ajánlatkérő fizetési számlaszámát, továbbá a befizetés igazolásának módját az ajánlati vagy ajánlattételi felhívásban meg kell határozni.
 
@@ -1107,7 +1107,7 @@ céljából, erre irányuló megkeresés alapján adhatja át.
 - a) a szerződéstervezetet, kivéve tárgyalásos eljárásban és versenypárbeszéd esetén, ahol az ajánlatkérő jogosult szerződéstervezet helyett csak az általa ismert szerződéses feltételeket meghatározni (a szerződéstervezet és a szerződéses feltételek a továbbiakban együtt: szerződéstervezet),
 - b) az ajánlat és a részvételi jelentkezés elkészítésével kapcsolatban az ajánlattevők, illetve a részvételre jelentkezők részére szükséges információkról szóló tájékoztatást, az ajánlat és részvételi jelentkezés részeként benyújtandó igazolások, nyilatkozatok jegyzékét, valamint az egységes európai közbeszerzési dokumentum mintáját. Az ajánlatkérő további ajánlott igazolás- és nyilatkozatmintákat bocsáthat rendelkezésre. Amennyiben a nyilatkozatminták az EKR-ben elektronikus űrlapként a nyilatkozat megtételének nyelvén rendelkezésre állnak, a nyilatkozatot az elektronikus űrlap kitöltése útján kell az ajánlat vagy részvételi jelentkezés részeként megtenni.
 
-(2) A közbeszerzési dokumentumokat ajánlatonként vagy részvételi jelentkezésenként legalább egy ajánlattevőnek, részvételre jelentkezőnek vagy az ajánlatban, illetve részvételi jelentkezésben megnevezett alvállalkozónak elektronikus úton el kell érnie, az ajánlattételi határidő lejártáig, több szakaszból álló eljárásban a részvételi határidő lejártáig.
+(2)
 
 ### X. Fejezet — A KÖZBESZERZÉS TÁRGYÁRA VONATKOZÓ KÖVETELMÉNYEK
 
@@ -1314,7 +1314,7 @@ vonatkozó feltételek előírásával.
 
 (1c) Az elektronikusan benyújtott ajánlat vagy részvételi jelentkezés esetében a (4)–(5) bekezdés szerinti adatokat az EKR a bontás időpontjától kezdve azonnal elektronikusan – azzal a tartalommal, ahogyan azok az ajánlatban vagy részvételi jelentkezésben szerepelnek – az ajánlattevők vagy részvételre jelentkezők részére elérhetővé teszi.
 
-(1d) Részben elektronikusan benyújtott részvételi jelentkezés és ajánlat bontását az (1a) bekezdésben foglaltak szerint az EKR végzi, az ajánlatkérő azonban ebben az esetben köteles a részvételi jelentkezés és az ajánlat EKR-en kívül beérkező részeit a megfelelő ajánlathoz társítani és azt dokumentálni. Fizikai modellek benyújtása esetén azt fénykép vagy jegyzőkönyv készítésével és annak az EKR-be az eljárás iratai közötti feltöltésével kell az ajánlatkérőnek dokumentálnia.
+(1d) Részben elektronikusan benyújtott részvételi jelentkezés és ajánlat bontását az (1) bekezdésben foglaltak szerint az EKR végzi, az ajánlatkérő azonban ebben az esetben köteles a részvételi jelentkezés és az ajánlat EKR-en kívül beérkező részeit a megfelelő ajánlathoz társítani és azt dokumentálni. Fizikai modellek benyújtása esetén azt fénykép vagy jegyzőkönyv készítésével és annak az EKR-be az eljárás iratai közötti feltöltésével kell az ajánlatkérőnek dokumentálnia.
 
 (2) A nem elektronikusan benyújtott részvételi jelentkezés és ajánlat esetében, az ajánlatot és a részvételi jelentkezést egy példányban, írásban és zártan, az ajánlati, ajánlattételi vagy részvételi felhívásban megadott címre közvetlenül vagy postai úton kell benyújtani az ajánlattételi, illetve részvételi határidő lejártáig. Az ajánlatkérő előírhatja elektronikus másolati példányok benyújtását.
 
@@ -1413,7 +1413,7 @@ az ajánlatkérő ezen ajánlattevő ajánlatának figyelmen kívül hagyásáva
 
 ### Aránytalanul alacsony ár és egyéb aránytalan vállalások
 
-72. § (1) Az ajánlatkérő az értékelés szempontjából lényeges ajánlati elemek tartalmát megalapozó adatokat, valamint indokolást köteles írásban kérni és erről a kérésről a többi ajánlattevőt egyidejűleg, írásban értesíteni, ha az ajánlat a megkötni tervezett szerződés tárgyára figyelemmel aránytalanul alacsony összeget tartalmaz az értékelési szempontként figyelembe vett ár vagy költség, vagy azoknak valamely önállóan értékelésre kerülő eleme tekintetében.
+72. § (1) Ha az ajánlattevő ajánlata az adott közbeszerzés tárgyát képező építési beruházáshoz, szállítandó áruhoz vagy nyújtandó szolgáltatáshoz képest aránytalanul alacsonynak látszik, az ajánlatkérő köteles az ár vagy költségek tartalmát megalapozó adatokat és indokolást írásban kérni és erről a kérésről a többi ajánlattevőt egyidejűleg, írásban értesíteni.
 
 (2) Az ajánlatkérő figyelembe veheti az olyan objektív alapú indokolást, amely különösen
 
@@ -1495,7 +1495,7 @@ vonatkozik.
 - d) a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérő valamely döntését, és az ajánlatkérő új közbeszerzési eljárás lefolytatását határozza el vagy eláll az eljárás lefolytatásának szándékától, az ajánlatkérő azonban nem nyilváníthatja eredménytelennek az eljárást akkor, ha a jogszerűtlen eljárást lezáró döntés megsemmisítését követően jogszerű döntés meghozatalával az eljárás jogszerűsége helyreállítható;
 - e) – a hirdetmény nélküli tárgyalásos eljárás kivételével – egy szakaszból álló eljárásban vagy több szakaszból álló eljárás ajánlattételi (párbeszéd) szakaszában nem nyújtottak be az ajánlattételi határidőben legalább két ajánlatot (megoldási javaslatot), vagy több szakaszból álló eljárás részvételi szakaszában a részvételi határidőben legalább két részvételi jelentkezést;
 - f) a közbeszerzéshez támogatást nyújtó vagy a közbeszerzések jogszabályban előírt ellenőrzését végző szerv megállapítása szerint súlyos jogsértés történt, és a közbeszerzési eljárás szabályai szerint ajánlatkérőnek már nincs lehetősége az eljárás jogszerűségét helyreállítani;
-- g) az EKR működési hibája olyan jogsértést eredményez, amely az e törvényben meghatározott alapelvek érvényesülését biztosító módon nem orvosolható.
+- g) az EKR-t érintő üzemzavar vagy működési hiba olyan jogsértést eredményez, amely az e törvényben meghatározott alapelvek érvényesülését biztosító módon nem orvosolható.
 - h) az értékelés alapján legkedvezőbb ajánlatot tett ajánlattevő ajánlatában megadott ár vagy annak egyes összetevői alapján megállapítható, hogy a szerződéskötés a 2. § (4) bekezdésében foglalt alapelv súlyos sérelmét valósítaná meg.
 
 (3) Ha a (2) bekezdés a) pontjában foglalt eredménytelenségi eset oka a teljesítéshez eredetileg rendelkezésre álló anyagi fedezet egészben vagy részben történő elvonása, az ajánlatkérő köteles tájékoztatást adni a rendelkezésre állt anyagi fedezet összegéről, valamint arról, hogy az mely szervezet döntésével, mikor és milyen okból került elvonásra, átcsoportosításra.
@@ -2109,7 +2109,7 @@ ajánlattevőt kell ajánlattételre felhívnia.
 
 (8) Az ajánlatok (7) bekezdés szerinti értékelését követően az ajánlatkérő köteles minden ajánlattevőt elektronikus úton értesíteni és egyidejűleg felhívni arra, hogy vegyen részt az elektronikus árlejtésen, az értesítésben szereplő utasítások szerinti kapcsolattartás alkalmazásával, a megjelölt időpontban.
 
-(8a) Ha nem nyújtottak be az ajánlattételi határidőben legalább két ajánlatot, és az ajánlatkérő az eljárást megindító felhívásban jelezte, hogy fenntartja ennek a lehetőségét, dönthet úgy, hogy nem tart elektronikus árlejtést, hanem a benyújtott ajánlat bírálatával és értékelésével befejezi az eljárást. Ebben az esetben döntéséről haladéktalanul értesíti az ajánlattevőt, az ajánlattevő ajánlati kötöttsége az értesítés ajánlatkérő általi megküldésével áll be.
+(8a) Ha nem nyújtottak be az ajánlattételi határidőben legalább két ajánlatot, és az ajánlatkérő az eljárást megindító felhívásban jelezte, hogy fenntartja ennek a lehetőségét, dönthet úgy, hogy nem tart elektronikus árlejtést, hanem a benyújtott ajánlat bírálatával és értékelésével befejezi az eljárást. Ebben az esetben döntéséről haladéktalanul értesíti az ajánlattevőt.
 
 (9) Az ajánlatkérő nem használhatja az elektronikus árlejtést rendeltetésével össze nem férő célra, különösen a verseny megakadályozására, korlátozására vagy torzítására, valamint az elektronikus árlejtés lefolytatása nem járhat azzal, hogy az eljárás alapján megkötött szerződés tárgya eltér az eljárást megindító felhívásban és a közbeszerzési dokumentumokban meghatározott beszerzési tárgytól.
 
@@ -2220,7 +2220,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (6) A kiegészítő tájékoztatást az ajánlattételi vagy részvételi határidő lejárta előtt ésszerű időben köteles az ajánlatkérő megadni. Az ajánlatkérő, ha úgy ítéli meg, hogy a kérdés megválaszolása a megfelelő ajánlattételhez, illetve részvételre jelentkezéshez szükséges, azonban az ésszerű időben történő válaszadáshoz és a válasz figyelembevételéhez nem áll megfelelő idő rendelkezésre, az 52. § (3) bekezdésében foglalt módon élhet az ajánlattételi vagy részvételi határidő meghosszabbításának lehetőségével.
 
-(6a) Az ajánlatkérő nem köteles az aránytalanul alacsony ár és egyéb aránytalan vállalások vizsgálatára. Az ajánlatkérő a 73. § (2) bekezdését nem köteles alkalmazni, annak alapján azonban csak akkor nyilváníthat egy ajánlatot érvénytelennek, ha a 72. §-ban foglaltaknak megfelelően járt el.
+(6a)
 
 (7) Keretmegállapodás alkalmazása esetén a verseny újranyitása a 105. § (2) bekezdésében foglaltak helyett elektronikus árlejtés lefolytatásával is történhet, ha ez utóbbi lehetőséget az ajánlatkérő a keretmegállapodásban és a megelőző közbeszerzési eljárásban az eljárást megindító felhívásban kikötötte.
 
@@ -3158,13 +3158,13 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 ### A Közbeszerzési Döntőbizottság döntéshozatala egységének biztosítása
 
-168. § (1) A Közbeszerzési Döntőbizottságon belül a jogorvoslati gyakorlat egységének biztosítása érdekében a közbeszerzési biztosokat magában foglaló összkollégium működik. Az összkollégium ülésein a közbeszerzésekért felelős miniszter által vezetett minisztérium közbeszerzési területért felelős szervezeti egységének képviselői, valamint az európai támogatásokat auditáló szerv képviselői tanácskozási joggal részt vehetnek.
+168. § (1) A Közbeszerzési Döntőbizottságon belül a jogorvoslati gyakorlat egységének biztosítása érdekében a közbeszerzési biztosokat magában foglaló összkollégium működik.
 
 (2) A Közbeszerzési Döntőbizottság a szervezeti és működési szabályzatában meghatározott ügyekre, ügycsoportokra kollégiumot működtethet. A kollégium az egységes jogorvoslati gyakorlat biztosítása érdekében elemzi a Közbeszerzési Döntőbizottság gyakorlatát, figyelemmel kíséri a bírósági joggyakorlat alakulását, és véleményt nyilvánít a vitás jogalkalmazási kérdésekben.
 
 (3) Ha a Közbeszerzési Döntőbizottság valamely eljáró tanácsa elvi kérdésben döntött, köteles a döntését a Közbeszerzési Döntőbizottság elnökének bemutatni. A Közbeszerzési Döntőbizottság elnöke az elvi kérdésben hozott döntést az összkollégium elé terjeszti.
 
-(4) A Közbeszerzési Döntőbizottság elnöke a Közbeszerzési Döntőbizottság döntéshozatalát folyamatosan figyelemmel kíséri. Ha arról szerez tudomást, hogy az eljáró tanácsok ellentétes elvi alapokon nyugvó döntéseket hoztak, erről az összkollégiumot tájékoztatja. Az összkollégium a döntéshozatal egységének biztosítása érdekében állást foglal az adott jogkérdésben. Az összkollégium az állásfoglalását megelőzően az (1) bekezdésben említett szerveknek ésszerű határidőn belül lehetőséget biztosít az adott jogkérdésre vonatkozó véleményük kifejtésére, a vélemény az összkollégiumot nem köti. Az összkollégium állásfoglalásától csak a (5) bekezdésben foglaltak szerint lehet eltérni. Az összkollégium egyetértése esetén az összkollégium állásfoglalásáról a Közbeszerzési Döntőbizottság a Közbeszerzési Hatóság honlapján tájékoztatást ad.
+(4) A Közbeszerzési Döntőbizottság elnöke a Közbeszerzési Döntőbizottság döntéshozatalát folyamatosan figyelemmel kíséri. Ha arról szerez tudomást, hogy az eljáró tanácsok ellentétes elvi alapokon nyugvó döntéseket hoztak, erről az összkollégiumot tájékoztatja. Az összkollégium a döntéshozatal egységének biztosítása érdekében állást foglal az adott jogkérdésben. Az összkollégium állásfoglalásától csak az (5) bekezdésben foglaltak szerint lehet eltérni. Az összkollégium egyetértése esetén az összkollégium állásfoglalásáról a Közbeszerzési Döntőbizottság a Közbeszerzési Hatóság honlapján tájékoztatást ad.
 
 (4a) A Közbeszerzési Hatóság keretében működő Tanács tagjainak egyharmada jogosult együttesen a Közbeszerzési Döntőbizottság elnökéhez fordulni és javaslatot tenni összkollégiumi állásfoglalás közzététele szükségességének vizsgálatára. A javaslatot tevők a Közbeszerzési Döntőbizottság elnökéhez címzett kérelmükben megjelölik az eljáró tanácsok – álláspontjuk szerint ellentétes elvi alapokon nyugvó – azon döntéseit, amelyekre tekintettel a jogorvoslati gyakorlat egységének biztosítása érdekében összkollégiumi állásfoglalásra lehet szükség, és hogy álláspontjuk szerint miben áll e döntések közötti elvi alapú ellentét.
 
@@ -3185,7 +3185,7 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 169. § (1) Ha az Ákr., illetve e törvény alapján a végzés ellen önálló jogorvoslatnak van helye, a kereseti kérelmet – ha e törvény eltérően nem rendelkezik – a végzés kézbesítésétől számított nyolc napon belül a Közbeszerzési Döntőbizottsághoz kell benyújtani. A Közbeszerzési Döntőbizottság a kérelmet az ügy irataival együtt beérkezését követően haladéktalanul továbbítja a bíróságnak.
 
-(2) A Közbeszerzési Döntőbizottság önálló jogorvoslattal megtámadható végzése ellen indított közigazgatási perben hozott bírósági ítélet ellen felülvizsgálatnak nincs helye.
+(2)
 
 (3) A 156. § (4) bekezdése szerinti végzés elleni kereseti kérelmet a végzés kézbesítésétől számított öt napon belül kell a Közbeszerzési Döntőbizottsághoz benyújtani. A keresetindítási határidő elmulasztásának kimentésére igazolási kérelem előterjesztésének nincs helye. A perben azonnali jogvédelem iránti kérelem előterjesztésének nincs helye. A 156. § (4) bekezdése szerinti végzés ellen benyújtott kereseti kérelemnek a végzés hatályosulására halasztó hatálya van.
 
@@ -3742,6 +3742,10 @@ rendelkezik.
 (26) E törvénynek a Mód7. tv. által módosított 152. § (2)–(2a) és (4) bekezdését az ezen rendelkezések hatálybalépését követően megvalósult jogsértések, valamint az ezen rendelkezések hatálybalépését megelőzően megvalósult jogsértések miatt kezdeményezett jogorvoslati eljárásokra is alkalmazni kell, ha a hivatalbóli kezdeményező az ilyen jogsértésekről az ezen rendelkezések hatálybalépése után szerzett tudomást.
 
 (27) E törvénynek a Mód7. tv. által módosított 131. § (8) bekezdés b) és d) pontját és megállapított 137. § (1) bekezdés d) pontját az ezen rendelkezések hatálybalépését megelőzően indult közbeszerzési eljárások alapján kötött keretmegállapodások és létrejött dinamikus beszerzési rendszerek esetében is alkalmazni kell. A módosított rendelkezések nem alkalmazandók az e keretmegállapodások és dinamikus beszerzési rendszerek alapján az ezen rendelkezések hatálybalépésekor folyamatban lévő beszerzésekre.
+
+(28) E törvénynek az online csalások elleni további hatékony fellépés érdekében szükséges és egyéb törvények módosításáról szóló 2024. évi LXIV. törvénnyel (a továbbiakban: Mód8. tv.) megállapított 72. § (1) bekezdését annak hatálybalépését megelőzően indult közbeszerzési eljárások alapján kötött keretmegállapodások és létrejött dinamikus beszerzési rendszerek esetében is alkalmazni kell. A módosított rendelkezés nem alkalmazandó az e keretmegállapodások és dinamikus beszerzési rendszerek alapján az ezen rendelkezés hatálybalépésekor folyamatban lévő beszerzésekre.
+
+(29) E törvénynek a Mód8. tv.-vel hatályon kívül helyezett 169. § (2) bekezdésére tekintettel a Közbeszerzési Döntőbizottság önálló jogorvoslattal megtámadható végzése ellen indított közigazgatási perben a Mód8. tv. 64. § f) pontja hatálybalépését megelőzően hozott bírósági ítélet ellen felülvizsgálatnak abban az esetben van helye, ha az ennek kezdeményezésére irányadó határidő még nem járt le.
 
 197/A. § Az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított
 

@@ -22,7 +22,7 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 (3) Kísérlet miatt akkor van helye felelősségre vonásnak, ha a szabálysértést meghatározó jogszabály így rendelkezik.
 
-(4) Nem állapítható meg szabálysértés, ha a tevékenység vagy a mulasztás bűncselekményt valósít meg, úgyszintén, ha a tevékenységre vagy mulasztásra törvény vagy kormányrendelet – az eljárási bírság kivételével – közigazgatási eljárásban kiszabható bírság alkalmazását rendeli el.
+(4) Nem állapítható meg szabálysértés, ha a tevékenység vagy mulasztás bűncselekményt valósít meg, úgyszintén, ha a tevékenységre vagy mulasztásra törvény vagy önkormányzati rendelet – az eljárási bírság kivételével – közigazgatási eljárásban kiszabható bírság alkalmazását rendeli el.
 
 (5) Nem lehet a szabálysértési felelősséget megállapítani olyan cselekmény miatt, amelyet jogszabály az elkövetés idején nem rendelt szabálysértésként büntetni.
 
@@ -211,6 +211,8 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 (3) Ha e törvény szabálysértési elzárás büntetés kiszabását lehetővé teszi, a bíróság elzárás helyett az e törvényben meghatározottak szerint más büntetést is kiszabhat és más intézkedést is alkalmazhat.
 
 (4) Ha e törvény a szabálysértési elzárás büntetés kiszabását nem teszi lehetővé, a szabálysértési hatóság – szabálysértési elzárás kivételével – az e törvényben meghatározottak szerint bármely büntetést kiszabhat, illetve bármely intézkedést alkalmazhat. Amennyiben az egységes jogalkalmazás kialakítása érdekében ez szükséges, a szabálysértési szabályozásért felelős miniszter rendelet megalkotásával gondoskodik arról, hogy a szabálysértési hatóságok és a helyszíni bírság kiszabására jogosult szervek és személyek az e törvényben meghatározott jogkövetkezmények alkalmazása során értékelendő szempontokat azonos módon vegyék figyelembe.
+
+(4a) Ha a XXVII. és XXVIII. Fejezetben meghatározott szabálysértés több közlekedési szabályszegéssel valósul meg, a szabálysértési büntetésként a pénzbírság kiszabására az általános szabályok alkalmazandóak azzal, hogy a pénzbírság összege nem lehet kevesebb, mint a kormányrendeletben meghatározott legmagasabb kötelező mértékű pénzbírság, de nem haladhatja meg az általános szabályok szerinti pénzbírság legmagasabb összegét.
 
 (5) A közlekedési szabálysértéssel okozott kár kivételével elzárás, pénzbírság és közérdekű munka alkalmazása esetén nyomatékos enyhítő körülményként kell figyelembe venni, ha az eljárás alá vont személy a sértettnek a szabálysértéssel okozott kárt a szabálysértési hatóság határozatának vagy a bíróság első fokú határozatának meghozataláig megtérítette.
 
@@ -727,11 +729,17 @@ jelöli ki.
 
 (5) A (3) bekezdésben meghatározott figyelmeztetéseket a tizennyolcadik életévét be nem töltött tanú korára és érettségére figyelemmel, számára érthető módon kell megfogalmazni. A tizennegyedik életévét be nem töltött személy meghallgatása esetén mellőzni kell a hamis tanúzás és a hamis vád jogkövetkezményeire való figyelmeztetést.
 
-(6) A tizennyolcadik életévét be nem töltött tanú meghallgatásán törvényes képviselője is részt vehet.
+(6) A tizennyolcadik életévét be nem töltött tanú meghallgatására a törvényes képviselő jelenlétében kerül sor, kivéve, ha
+
+- a) a törvényes képviselő érdekei a tanú érdekeivel ellentétesek,
+- b) a törvényes képviselő a jogainak gyakorlásában akadályozva van, vagy
+- c) nincs törvényes képviselője, illetve nem állapítható meg, hogy ki a törvényes képviselője.
+
+(6a) A (6) bekezdés a)–c) pontja szerinti esetekben a gyámhatóság eseti gyámot rendel ki, akit a kiskorú tanú meghallgatásának időpontjára idézni kell.
 
 (7) A még meg nem hallgatott tanú nem lehet jelen az eljárás alá vont személy, más tanú és a szakértő meghallgatásakor. A tanú meghallgatásán nem lehet jelen az eljárás alá vont személy és az eljárás egyéb résztvevője, ha a tanú minősített adatról tesz vallomást. Ha elrendelték a tanú adatainak zártan kezelését, az eljárás alá vont személy a tanú meghallgatásán csak akkor lehet jelen, ha a tanú ehhez hozzájárul. Az így kizárt eljárás alá vont személyt a meghallgatást követően értesíteni kell arról, hogy a meghallgatás során távollétében történteket megismerheti.
 
-(8) A kiskorút a törvényes képviselője útján kell idézni, illetve értesíteni, idézés esetén azzal a felhívással, hogy a törvényes képviselő a megjelenéséről gondoskodjék.
+(8) Kiskorút a törvényes képviselője útján kell idézni, illetve értesíteni, továbbá a kiskorú tanú törvényes képviselőjét a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell idézni, hogy a törvényes képviselő a kiskorú megjelenéséről gondoskodjék. Ha a törvényes képviselő megjelenésének akadálya van, a gyámhatóság a (6a) bekezdés szerint jár el.
 
 62/A. § (1) A bíróság, a szabálysértési hatóság engedélyezheti, hogy a tanú a szóbeli meghallgatását követően vagy helyette írásban tegyen vallomást. Az írásbeli tanúvallomás megtétele nem zárja ki, hogy utóbb a tanút a meghallgatása céljából a bíróság, a szabálysértési hatóság idézze.
 
@@ -1332,7 +1340,7 @@ indul meg.
 - d) az (5) bekezdésben meghatározott esetben hirdetményi úton,
 - e) elektronikus úton a Dáptv. szerinti hivatalos elérhetőségre
 
-(2) Joghatás csak a szabályszerű kézbesítéshez kapcsolódik. A kézbesítés akkor szabályszerű, ha annak megtörténtét a jogszabályban jogosultként megjelölt személy aláírásával ellátott tértivevény, illetve jegyzőkönyv vagy határozatpéldány igazolja. A kézbesítés akkor is szabályszerű, ha az arra jogosult a jegyzőkönyv vagy határozatpéldány aláírását megtagadja és a szabálysértési hatóság, bíróság ennek tényét az iratra feljegyzi.
+(2) Joghatás csak a szabályszerű kézbesítéshez kapcsolódik. A kézbesítés akkor szabályszerű, ha annak megtörténtét kézbesítési igazolás, illetve jegyzőkönyv vagy határozatpéldány igazolja. A kézbesítés akkor is szabályszerű, ha az arra jogosult a jegyzőkönyv vagy határozatpéldány aláírását megtagadja és a szabálysértési hatóság, bíróság ennek tényét az iratra feljegyzi.
 
 (3) A postai úton kézbesítendő iratot szabályszerűen kézbesítettnek kell tekinteni
 
@@ -1402,11 +1410,15 @@ téríti meg.
 
 (2) A (3) bekezdésben meghatározott kivétellel az eljárás alá vont személy viseli a szabálysértési költséget, ha vele szemben szabálysértés elkövetése miatt joghátrányt alkalmaztak.
 
+(2a) Az eljárás alá vont személyt az (1) bekezdés a) pontja alapján felmerült, az állam által a büntetőeljárásban előlegezett bűnügyi költségnek csak arra a részére lehet kötelezni, amely az eljárás tárgyát képező szabálysértéssel azonos cselekménnyel kapcsolatban merült fel a büntetőeljárásban.
+
 (3) Az állam viseli azt a költséget, amely annak következtében merült fel, hogy az eljárás alá vont személy a magyar nyelvet nem ismeri, hallássérült, siketvak, beszédfogyatékos.
 
 (3a) Ha az eljárás alá vont személy a cselekmény elkövetésekor fiatalkorú volt, az állam viseli a kirendelt ügyvéd eljárása során felmerült költséget.
 
 (4) A feljelentés elutasítása és a szabálysértési eljárás megszüntetése esetén a szabálysértési költség az államot terheli, az eljárás alá vont személyt kötelezni kell annak a költségnek viselésére, amely a mulasztása folytán merült fel.
+
+(4a) Ha a szabálysértési eljárást azért szüntetik meg, mert a cselekmény nem szabálysértés, hanem bűncselekmény, akkor abban az esetben viseli az állam a szabálysértési költséget, ha a büntetőeljárás megindítására nem kerül sor. Erről az eljárást megszüntető határozatban kell rendelkezni.
 
 (5) Ha az eljárás alá vont személy a jövedelmi és vagyoni viszonyai folytán a szabálysértési költséget előreláthatóan nem tudja megfizetni és ezt a közigazgatási hatósági eljárásokban a személyes költségmentesség megállapításáról szóló kormányrendeletben meghatározottaknak megfelelően igazolta, az eljárás alá vont személy vagy képviselője kérelmére a szabálysértési hatóság, illetve a bíróság határoz arról, hogy az eljárás alá vont személy részére személyes költségmentességet engedélyez.
 
@@ -1539,7 +1551,9 @@ téríti meg.
 
 (4) A helyszíni bírság módosítására a (3) bekezdés b) pontjában és a 99. § (7)–(9) bekezdésében foglalt esetben és kizárólag a meghatározott összegnek megfelelő bírságösszeg megállapítására van lehetőség.
 
-(4a) Ha a helyszíni bírsággal érintett cselekmény bűncselekmény, a helyszíni bírságot megállapító döntés közlésétől számított hat hónapon belüli ügyészségi kezdeményezésre a helyszíni bírságot megállapító döntést vissza kell vonni.
+(4a) A (3) bekezdés szerinti esetekben a közlésétől számított hat hónapon belüli ügyészségi kezdeményezésre – az ügyész rendelkezése szerint – a helyszíni bírságot megállapító döntést vissza kell vonni, vagy módosítani kell.
+
+(4b) Az ügyész tájékoztatja a bíróságot, ha a (4a) bekezdés alapján a helyszíni bírság felülvizsgálatát kezdeményezte.
 
 (5) A helyszíni bírság módosításáról vagy visszavonásáról hozott döntés ellen, illetve a (2) bekezdés szerinti tájékoztatás ellen nincs helye jogorvoslatnak.
 
@@ -1956,6 +1970,8 @@ téríti meg.
 
 (2) Az (1) bekezdésben meghatározott személyek által előterjesztett perújítási kérelem alapján a határozatot az elkövető hátrányára nem lehet megváltoztatni.
 
+(2a) Nem minősül a határozat elkövető terhére történő megváltoztatásának, ha a perújítás során az elzárásra átváltoztatásról szóló új végzésben a bíróság az elzárás tartamát a törvénynek megfelelően állapítja meg.
+
 (3) Az ügyész terjeszthet elő perújítási kérelmet, ha az elkövető által elkövetett bűncselekményt e törvény szerinti eljárásban, szabálysértésként bírálták el.
 
 (4)
@@ -2121,7 +2137,7 @@ rendeli el, amely ellen nincs helye jogorvoslatnak.
 
 (2) Ha az eljárás adatai alapján a fiatalkorúval szemben előreláthatólag szabálysértési elzárás, közérdekű munka vagy pénzbírság kiszabására kerül sor, a meghallgatásától nem lehet eltekinteni.
 
-(3) A fiatalkorú törvényes képviselőjét, gondozóját a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell értesíteni, hogy a fiatalkorú megjelenéséről gondoskodjék. Amennyiben a törvényes képviselő megjelenésének akadálya van, a gyámhatóság képviselőjét kell a fiatalkorú meghallgatásának időpontjáról értesíteni.
+(3) A fiatalkorú törvényes képviselőjét, gondozóját a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell idézni, hogy a fiatalkorú megjelenéséről gondoskodjék. Ha a törvényes képviselő megjelenésének akadálya van, a gyámhatóság eseti gyámot rendel ki, akit a fiatalkorú meghallgatásának időpontjára idézni kell.
 
 (4) A fiatalkorú meghallgatására a törvényes képviselője jelenlétében kerül sor, kivéve, ha:
 
@@ -2199,9 +2215,9 @@ a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor
 
 (2)
 
-(3) A szabálysértési elzárás végrehajtásáról, valamint a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben elrendelt szabálysértési elzárás esetén a gyámhatóság értesítéséről az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
+(3) A szabálysértési elzárás végrehajtásáról, valamint a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben kiszabott szabálysértési elzárás esetén a gyámhatóság értesítéséről az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
-(4)
+(4) A tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben az egyéb büntetés helyébe lépő szabálysértési elzárás esetén a gyámhatóság értesítéséről a végrehajtást foganatosító szabálysértési hatóság gondoskodik.
 
 (5) Ha az elkövető a felhívásban megjelölt határnapon a szabálysértési elzárás büntetés, valamint a meg nem fizetett pénzbírság, illetve helyszíni bírság, a nem teljesített közérdekű munka helyébe lépő szabálysértési elzárás végrehajtása érdekében a büntetés-végrehajtási intézetben nem jelent meg és az elővezetése sem vezetett eredményre, a szabálysértési hatóság az elkövető kijelölt büntetés-végrehajtási intézetbe történő előállítása céljából körözését rendeli el. A körözést vissza kell vonni, ha elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.
 
@@ -2284,6 +2300,8 @@ elektronikus formában automatikusan továbbítja.
 - b) egyéb esetekben a végrehajtást foganatosító szabálysértési hatóság székhelye szerint illetékes járásbíróságnak.
 
 (7) Ha az iratok alapján a bíróság az átváltoztatás törvényi feltételének hiányát állapítja meg, a bíróság tárgyalás tartása nélkül hozott végzésével az átváltoztatást mellőzi, ha pedig az alapeljárásban vagy a végrehajtás során törvénysértés merült fel, végzésében egyúttal a (13) bekezdés d), illetve e) pontjában foglaltak szerint rendelkezik. A helyszíni bírság hatályon kívül helyezésének kizárólag a 99/A. § (3) bekezdésében foglalt jogsértés esetében van helye.
+
+(7a) Ha az ügyész arról tájékoztatja a bíróságot, hogy a 99/A. § (4a) bekezdése alapján a helyszíni bírság felülvizsgálatát kezdeményezte, a bíróság az elzárásra átváltoztatást mellőzi, amelyről az ügyészt, a szabálysértési hatóságot és az elkövetőt értesíti.
 
 (8) Ha a (7) bekezdés szerinti döntés meghozatalának nincs helye, a bíróság a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatásáról az iratok bíróságra érkezésétől számított negyvenöt napon belül dönt. A bíróság e végzésével szemben nincs helye jogorvoslatnak.
 
@@ -3172,7 +3190,7 @@ szabálysértést követ el.
 
 (2) Aki közterületen, mások előtt
 
-- a) a rendvédelmi szervek, illetve a Magyar Honvédség rendszeresített egyenruháját, azonosításra szolgáló jelvényét, ezek megtévesztésre alkalmas utánzatát jogosulatlanul viseli, továbbá az e szervekre utaló feliratot, matricát ruháján vagy járművén jogosulatlanul feltüntet,
+- a) a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, illetve a Magyar Honvédség rendszeresített egyenruháját, azonosításra szolgáló jelvényét, ezek megtévesztésre alkalmas utánzatát jogosulatlanul viseli, továbbá az e szervekre utaló feliratot, matricát ruháján vagy járművén jogosulatlanul feltüntet,
 - b) a vöröskereszt-mozgalomhoz tartozó vagy más humanitárius, illetve egészségügyi szervezetek jelvényeit jogosulatlanul használja, továbbá az e szervekre utaló feliratot, matricát ruháján vagy járművén jogosulatlanul feltüntet,
 
 szabálysértést követ el.
@@ -4014,7 +4032,7 @@ szabálysértést követ el.
 - b) a szabálysértési nyilvántartások részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének,
 - c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltatás rendjének,
 - d) az adópolitikáért felelős miniszter, a közigazgatás-szervezésért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
-- e)
+- e) az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével a tanú költségtérítésének,
 - f) az igazságügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével – ide nem értve az előállítás és elővezetés költsége mértékének megállapítását – a szabálysértési eljárásban elrendelt előállítás, valamint elővezetés végrehajtásával felmerült költség megtérítésének,
 - g) az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelésének és értékesítésének,
 - h) a szabálysértési statisztikai adatgyűjtés, adatfeldolgozás és adatszolgáltatás,

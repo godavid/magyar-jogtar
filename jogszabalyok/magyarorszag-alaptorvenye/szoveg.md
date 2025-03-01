@@ -1050,7 +1050,7 @@ b) az (5) bekezdés b) pontja szerinti esetben az Alkotmánybíróság megsemmis
 
 (1) A bírák függetlenek, és csak a törvénynek vannak alárendelve, ítélkezési tevékenységükben nem utasíthatóak. A bírákat tisztségükből csak sarkalatos törvényben meghatározott okból és eljárás keretében lehet elmozdítani. A bírák nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.
 
-(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincadik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
+(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincötödik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
 
 (3) A Kúria elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
@@ -1520,10 +1520,6 @@ Az Alaptörvény 4. cikk (3) bekezdés f) pontja szerinti határidő számítás
 
 #### 15.
 
-(1) Az Alaptörvény 26. cikk (2) bekezdésben meghatározott legalacsonyabb életkor követelményét – a (2) bekezdésben foglalt kivétellel – az Alaptörvény hatálybalépését követően kiírt pályázat alapján kinevezett bíróra kell alkalmazni.
-
-(2) Ha a kinevezésre törvényben meghatározottak szerint pályázat kiírása nélkül kerül sor, a legalacsonyabb életkor követelményét az Alaptörvény hatálybalépését követően kinevezett bíróra kell alkalmazni.
-
 #### 16.
 
 Az állampolgári jogok országgyűlési biztosa tisztségének elnevezése az Alaptörvény hatálybalépésétől alapvető jogok biztosa. Az állampolgári jogok országgyűlési biztosának, a nemzeti és etnikai jogok országgyűlési biztosának és a jövő nemzedékek országgyűlési biztosának jogutódja az alapvető jogok biztosa. A hivatalban lévő nemzeti és etnikai kisebbségi jogok országgyűlési biztosa az Alaptörvény hatálybalépésétől az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettese; a hivatalban lévő jövő nemzedékek országgyűlési biztosa az Alaptörvény hatálybalépésétől az alapvető jogok biztosának a jövő nemzedékek érdekeinek védelmét ellátó helyettese; megbízatásuk megszűnik az alapvető jogok biztosa megbízatásának megszűnésével.
@@ -1641,5 +1637,17 @@ A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 
 #### 29.
 
 Az Alaptörvény tizenkettedik módosításával megállapított XXIII. cikk (3) bekezdését 2024. március 1-jétől kell alkalmazni. 2024. január 1-jétől 2024. február 29-éig a XXIII. cikk (3) bekezdésének a 2023. december 31-én hatályos szövegét kell alkalmazni.
+
+#### 30.
+
+Az Alaptörvény tizennegyedik módosítása hatálybalépését megelőzően kiírt pályázat alapján bíróvá nevezhető ki a pályázó, ha a harmincadik életévét betöltötte.
+
+#### 31.
+
+A 2025. január 1-jét megelőzően igazságügyi szervnél szolgálati jogviszonyt létesített bírósági titkár, továbbá az a bírósági titkár, aki 2025. január 1-jét megelőzően igazságügyi szervnél bírósági fogalmazói jogviszonyban állt, bíróvá nevezhető ki, ha harmincadik életévét betöltötte.
+
+#### 32.
+
+Az Alaptörvény tizennegyedik módosításával megállapított 26. cikk (2) bekezdésében meghatározott legalacsonyabb életkor követelményét a már kinevezett bírókra nem kell alkalmazni.
 
 *Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.

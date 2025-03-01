@@ -142,7 +142,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 37. lakóhely: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhely,
 - 38. munkaviszony:
   - a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan munkavégzésre létesített jogviszony, amelyre törvény szerint az Mt. rendelkezéseit is alkalmazni kell, illetve a munkavégzésre irányuló törvényben szabályozott egyéb jogviszonyok,
-  - b) a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati jogviszonya, és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya,
+  - b) a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati jogviszonya, és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományának szolgálati jogviszonya,
   - c) az egyházi személy foglalkoztatásának alapjául szolgáló jogviszony,
 - 39. munkáltató: belföldön székhellyel, telephellyel, képviselettel rendelkező jogi személy, bejegyzett cég, személyi egyesülés és egyéb szervezet, egyéni és társas vállalkozó, ideértve a belföldön lakóhellyel rendelkező természetes személyt is, valamint – a Tbj. 87. §-a szerinti külföldi vállalkozás kivételével – a Tbj. 4. § 4. pontja szerinti foglalkoztatót a munkaviszony alapján foglalkoztatottak tekintetében,
 - 39a. nyugtatár: az Áfa tv. szerinti nyugtatár,
@@ -3600,7 +3600,7 @@ Az állami adó- és vámhatóság az adózót terhelő adókötelezettség jogs
 - h) az e törvény szerint bejelentett automataberendezés regisztrációs számát és az üzemeltetési helyét,
 - i) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvényben meghatározottak szerinti közzétételi kötelezettségének teljesítését,
 - j) az állami adó- és vámhatóság engedélye alapján utólagos illetékfizetésre jogosult gazdálkodó szervezet megnevezését, székhelyét, adószámát, az engedély számát és időbeli hatályát,
-- k) az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózó, valamint a csoportos általános forgalmi adóalanyiságot választó – kivéve a Magyar Honvédséget és a rendvédelmi feladatokat ellátó szerveket – az adóhatóság nyilvántartásában szereplő foglalkoztatottainak létszámát,
+- k) az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózó, valamint a csoportos általános forgalmi adóalanyiságot választó – kivéve a Magyar Honvédséget, a polgári nemzetbiztonsági szolgálatokat és a rendvédelmi feladatokat ellátó szerveket – az adóhatóság nyilvántartásában szereplő foglalkoztatottainak létszámát,
 - l) folyamatosan azon adózónak a nevét, elnevezését, lakóhelyét, székhelyét, telephelyét, adószámát, aki áfabevallási kötelezettségének több mint két – egymást követő, a rá irányadó – bevallási időszakon keresztül nem tesz eleget,
 - m) az általa nyilvántartott reklámadó-kötelezettséget teljesítő, illetve reklámadó fizetési kötelezettség hiányáról nyilatkozó reklámközzétevő adóalanyok nevét és adóazonosító számát,
 - n) minden év szeptember harmincadikáig a megelőző naptári évben, a Tao tv. szerint ingatlannal rendelkező társaságnak minősülő adózók nevét, székhelyét, adószámát.

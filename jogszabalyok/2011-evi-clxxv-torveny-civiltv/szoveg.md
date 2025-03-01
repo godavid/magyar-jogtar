@@ -113,7 +113,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 #### 6. §
 
-7. § A Magyar Honvédség és a rendvédelmi szervek tagjaira vonatkozóan az egyesülési jog gyakorlásának feltételeit és módját törvény állapítja meg.
+7. § A Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek tagjaira vonatkozóan az egyesülési jog gyakorlásának feltételeit és módját törvény állapítja meg.
 
 8. § (1) Minden egyesület saját maga rendelkezik nevével, címerével, logójával és minden a nevéhez kapcsolódó joggal, különös tekintettel a hirdetési, reklám és a tevékenység televíziós, rádiós valamint egyéb elektronikus technikákkal történő közvetítésével kapcsolatos jogokra.
 

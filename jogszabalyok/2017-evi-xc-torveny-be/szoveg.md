@@ -625,7 +625,9 @@ merült fel.
 
 (6) Az (1) bekezdés b) és e) pontja szerinti jog gyakorlása érdekében a bíróság, az ügyészség vagy a nyomozó hatóság az eljárási cselekmény megkezdését vagy elvégzését legalább egy órára elhalasztja, ha a terheltnek a védekezésre való felkészülésre, vagy a védővel való tanácskozásra az eljárási cselekmény megkezdése előtt – a terhelt és a védő önhibáján kívüli okból – nem volt lehetősége.
 
-(7) A (2) bekezdés d) pontja szerinti jog biztosítása során a bíróság vagy az ügyészség a hozzátartozóval való érintkezést kizárólag a büntetőeljárás eredményessége, vagy más személy életének, testi épségének védelme érdekében korlátozhatja vagy tilthatja meg. Az erről szóló határozat ellen a terhelt és a védő élhet jogorvoslattal.
+(6a) Ha a terhelt fogva van, a bíróság vagy az ügyészség a fogvatartás jogcíme szerint a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 172. § (4) bekezdésében, illetve a Bv. tv. 390. § (1) bekezdésében meghatározottakról rendelkezhet.
+
+(7) A (2) bekezdés d) pontja szerinti jog gyakorlása körében a bíróság vagy az ügyészség a hozzátartozóval való kapcsolattartást kizárólag a bizonyítás megnehezítésének, illetve meghiúsításának, vagy a bűnismétlés lehetőségének megakadályozása érdekében korlátozhatja vagy tilthatja meg. Ha az elrendeléstől számítva egy év eltelt, a bíróság, illetve az ügyészség a rendelkezést felülvizsgálja, és ha az továbbra is indokolt, annak fenntartásáról határoz. Az elrendelésről és a fenntartásról szóló határozat ellen a terhelt és a védő élhet jogorvoslattal.
 
 (8) A bűncselekmény elkövetésével megalapozottan gyanúsítható személy jogaira és kötelezettségeire – az (1) bekezdés a), f)–h), j) és k) pontja, valamint a (3) bekezdés b) pontja kivételével – a terhelt jogaira és kötelezettségeire vonatkozó szabályokat kell megfelelően alkalmazni.
 
@@ -843,6 +845,27 @@ védőt rendel ki.
 - a) az eljárási cselekményeken – a szakértői vizsgálatot is ideértve – a bíróság, az ügyészség és a nyomozó hatóság rendelkezéseinek megfelelően az e törvényben meghatározottak szerint részt venni,
 - b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, telefonos elérhetőségét, elektronikus levelezési címét vagy más elektronikus elérhetőségét és – a változást követő három munkanapon belül – ennek megváltozását az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
 
+### Védelem az önkényes kapcsolatfelvétellel szemben
+
+51/A. § (1) A személy elleni erőszakos bűncselekmény sértettje indítványozhatja, hogy a bíróság, az ügyészség vagy a nyomozó hatóság hívja fel a terheltet arra, hogy tartózkodjon a sértett a magánéletébe, illetve a mindennapi életvitelébe való önkényes beavatkozástól. A személy elleni erőszakos bűncselekmény sértettje ezt az indítványát a nyomozás során a gyanúsítotti kihallgatást megelőzően is előterjesztheti.
+
+(2) A bíróság, az ügyészség vagy a nyomozó hatóság a sértett indítványának az előterjesztésétől számított három munkanapon belül hozott határozatában
+
+- a) elutasítja a sértett indítványát, ha az (5) bekezdésben meghatározott kizáró ok áll fenn, vagy
+- b) megállapítja, hogy nem áll fenn az (5) bekezdésben meghatározott kizáró ok, és figyelmezteti a terheltet arra, hogy büntetendő cselekményt követ el, ha a büntetőeljárás hatálya alatt a sértettel kapcsolatot teremt abból a célból, hogy a sértettet megfélemlítse vagy a magánéletébe, illetve mindennapi életvitelébe önkényesen beavatkozzon.
+
+(3) Ha a sértett az indítványát a gyanúsítotti kihallgatást megelőzően terjesztette elő, akkor a gyanúsítás közlésekor kell az indítványt elbírálni és a (2) bekezdés szerinti határozatot kézbesíteni.
+
+(4) A (2) bekezdés b) pontja szerint határozatban a terheltet figyelmeztetni kell arra is, hogy a büntetőeljárási jogainak gyakorlásával összefüggésben a sértettel a kapcsolat felvételét a bíróság, az ügyészség vagy a nyomozó hatóság útján kezdeményezheti.
+
+(5) Kizárja a (2) bekezdés b) szerinti határozat meghozatalát, ha
+
+- a) a terhelt és a sértett között olyan jogviszony – különösen lakhatásra, munkavégzésre irányuló vagy közös gyermekre vonatkozó szülői felügyeleti jogviszony – áll fenn, amely alapján a terhelt jogosult kapcsolatot tartani a sértettel,
+- b) a 280. § (3) bekezdésben meghatározott magatartási szabály előírása szükséges, vagy
+- c) a terhelttel szemben nem állapítható meg a személy elleni erőszakos bűncselekmény elkövetésének a megalapozott gyanúja vagy vele szemben ilyen bűncselekmény miatt vádemelésre nem került sor.
+
+(6) Ha a (2) bekezdés b) pontja szerinti határozat meghozatalát követően az (5) bekezdés szerinti kizáró ok merül fel vagy a sértett az indítványt visszavonta, akkor a bíróság, az ügyészség vagy a nyomozó hatóság határozatában megállapítja a kizáró ok fennállását vagy azt, hogy a sértett az indítványt visszavonta, egyben tájékoztatja a terheltet arról, hogy a továbbiakban a sértettel való kapcsolatteremtésre a (4) bekezdés nem irányadó.
+
 ### Sértetti jogutódlás
 
 52. § (1) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azután meghal, helyébe hozzátartozója, törvényes képviselője vagy a sértett által jogszabály, illetve szerződés alapján eltartott személy léphet, és
@@ -865,7 +888,7 @@ esetén a vádat képviseli, feltéve, hogy az elkövető magánindítványra b�
 
 (2) Kölcsönösen elkövetett könnyű testi sértés, rágalmazás és becsületsértés miatt az egyik sértett feljelentésére megindított eljárásban – a cselekmények személyi és szoros tárgyi összefüggése esetén – e törvény rendelkezései szerint magánindítványt előterjesztő másik sértett viszonvádlóként jár el. Ahol e törvény a magánvádlóról rendelkezik, ezen a viszonvádlót is érteni kell.
 
-(3) A becsületsértés és a rágalmazás közvádra üldözendő, ha bíró, ügyész vagy rendvédelmi szerv tagjának sérelmére, annak hivatalos eljárása alatt, illetve emiatt követik el.
+(3) A becsületsértés és a rágalmazás közvádra üldözendő, ha bíró, ügyész, rendvédelmi szerv tagjának vagy polgári nemzetbiztonsági szolgálat tagjának sérelmére, annak hivatalos eljárása alatt, illetve emiatt követik el.
 
 (4) Ha a magánvádló tartós, súlyos betegsége miatt nem képes személyes megjelenési kötelezettségének eleget tenni, helyébe törvényes képviselője vagy meghatalmazott képviselője léphet. Ha a magánvádlónak nincs törvényes vagy meghatalmazott képviselője, akkor a bíróság felhívja a magánvádlót, hogy a felhívás kézbesítésétől számított egy hónapon belül gondoskodjon a képviseletről.
 
@@ -913,8 +936,9 @@ irányuló követelés érvényesíthető, amely a vád tárgyává tett cselekm
 57. § (1) Vagyoni érdekelt az a természetes vagy nem természetes személy, aki vagy amely
 
 - a) elkobozható vagy lefoglalt dolog tulajdonosa, vagy arra nézve a tulajdonjog valamely tulajdonosi részjogosítványával rendelkezik,
-- b) olyan vagyonnal rendelkezni jogosult, amelyre vagyonelkobzás rendelhető el, vagy
-- c) olyan elektronikus adattal rendelkezésre jogosult, amelynek végleges hozzáférhetetlenné tétele rendelhető el.
+- b) olyan vagyonnal rendelkezni jogosult, amelyre vagyonelkobzás rendelhető el,
+- c) olyan elektronikus adattal rendelkezésre jogosult, amelynek végleges hozzáférhetetlenné tétele rendelhető el, vagy.
+- d) olyan tárhelyszolgáltatás jogosultja, amelynek a felfüggesztését rendelték el.
 
 (2) A vagyoni érdekelt jogosult arra, hogy
 
@@ -1558,7 +1582,7 @@ zártan kell kezelni.
 (5) A zártan kezelt személyes adatot csak az ügyben eljáró bíróság, ügyészség és nyomozó hatóság kezelheti, és azokat az érintett hozzájárulása nélkül csak
 
 - a) az ügyben eljáró bíróság, ügyészség és nyomozó hatóság részére,
-- b) az áldozatsegítő szolgálat részére az áldozatsegítéssel kapcsolatos feladatok ellátása, és a pártfogó felügyelői szolgálat részére a közvetítői eljárás lefolytatása céljából, az e feladatok ellátásához elengedhetetlenül szükséges mértékben
+- b) az áldozatsegítő szolgálat részére az áldozatsegítéssel kapcsolatos feladatok ellátása, és a pártfogó felügyelői szolgálat részére a közvetítői eljárás vagy a helyreállító szemléletű konfliktuskezelő eljárás lefolytatása céljából, az e feladatok ellátásához elengedhetetlenül szükséges mértékben
 
 lehet továbbítani.
 
@@ -2055,7 +2079,7 @@ terjedhet.
 
 (9) Nincs helye a rendbírság végrehajtásának, ha a (6) bekezdésben meghatározott naptól számítva két év eltelt.
 
-(10) Kérelemre a rendbírság megfizetésére halasztás, illetve részletfizetés engedélyezhető a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között. A halasztás, illetve részletfizetés iránti kérelemnek nincs halasztó hatálya. A kérelemről a rendbírságot kiszabó bíróság, ügyészség vagy nyomozó hatóság határoz. A halasztás vagy a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye jogorvoslatnak.
+(10) Kérelemre a rendbírság megfizetésére halasztás, illetve részletfizetés engedélyezhető a Bv. tv. 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között. A halasztás, illetve részletfizetés iránti kérelemnek nincs halasztó hatálya. A kérelemről a rendbírságot kiszabó bíróság, ügyészség vagy nyomozó hatóság határoz. A halasztás vagy a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye jogorvoslatnak.
 
 128. § (1) A rendbírság kiszabása ellen bejelentett jogorvoslatnak halasztó hatálya van.
 
@@ -2329,6 +2353,7 @@ rendelkezéseket kell értelemszerűen alkalmazni.
 - b) a terhelt, a sértett, a vagyoni érdekelt és az egyéb érdekelt költsége, akkor is, ha azt az állam nem előlegezte,
 - c) a kirendelt védő, a törvényes képviselő és a meghatalmazott képviselő díja és költsége, akkor is, ha azt az állam nem előlegezte.
 - d) tolmácsolási feladatokat ellátó segítő díja és költsége, ha azt az állam közigazgatási eljárásban előlegezte.
+- e) a szabálysértési eljárásban felmerült költség, ha az eljárás tárgyát képező bűncselekménnyel azonos cselekmény miatt a büntetőeljárást megelőzően szabálysértési eljárás volt folyamatban.
 
 (2) Az (1) bekezdés a) pontja szerinti bűnügyi költség különösen a tanú költsége, a szakértő, és a szaktanácsadó munkadíja és költsége, illetve a lefoglalt dolog szállításának és megőrzésének költsége.
 
@@ -2933,7 +2958,7 @@ előtt pártfogó felügyelői vélemény beszerzését rendelheti el.
 
 (2) A pártfogó felügyelő a véleményben tájékoztatást ad a terhelt adottságainak megfelelő munkalehetőségről, egészségügyi, illetve szociális intézményi ellátási lehetőségről, javaslatot tehet a terhelttel szemben egyedi magatartási szabály vagy kötelezettség elrendelésére, és a bűnismétlési kockázatok hatását enyhítő beavatkozások alkalmazására.
 
-(3) A bíróság vagy az ügyészség rendelkezése alapján a pártfogó felügyelői véleményben ki kell térni arra, hogy a terhelt a kilátásba helyezett magatartási szabályok vagy kötelezettségek teljesítését vállalja-e és képes-e teljesíteni, valamint arra, hogy a sértett hozzájárul-e a részére adandó jóvátételhez.
+(3) A bíróság vagy az ügyészség rendelkezése alapján a pártfogó felügyelői véleményben ki kell térni arra, hogy a terhelt a kilátásba helyezett magatartási szabályok vagy kötelezettségek teljesítését vállalja-e és képes-e teljesíteni, valamint arra, hogy a sértett hozzájárul-e a részére adandó jóvátételhez vagy a 419. § (2) bekezdés e) pontja szerinti helyreállító eljárásban való részvételhez.
 
 ### XXXIII. Fejezet — TÁRGYI BIZONYÍTÁSI ESZKÖZ, ELEKTRONIKUS ADAT
 
@@ -3075,7 +3100,7 @@ titokban megfigyelhet, a történtekről információt gyűjthet, valamint az é
 
 ### Fizetési műveletek megfigyelése
 
-216. § (1) A leplezett eszközök alkalmazására feljogosított szerv az ügyészség engedélyével elrendelheti, hogy a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet (a továbbiakban: szolgáltató) meghatározott időszakban, a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési műveletekkel kapcsolatos adatokat rögzítsen és őrizzen meg, illetve azokat az elrendelőnek továbbítsa.
+216. § (1) A leplezett eszközök alkalmazására feljogosított szerv az ügyészség engedélyével elrendelheti, hogy a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet (e § alkalmazásában a továbbiakban: szolgáltató) meghatározott időszakban, a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési műveletekkel kapcsolatos adatokat rögzítsen és őrizzen meg, illetve azokat az elrendelőnek továbbítsa.
 
 (2) A fizetési műveletek megfigyelése különösen
 
@@ -3698,6 +3723,16 @@ kérhető.
 
 (5) A (4) bekezdés c) pontjában meghatározott esetben az ügyészség engedélye nélkül adatszolgáltatás a büntetőeljárásban részt vevő személyt érintő valamennyi, a szolgáltató vagy szervezet által kezelt adat vonatkozásában kérhető.
 
+262/A. § (1) Az ügyészség a 262. § (1) bekezdés c) és e) pontja szerinti adatkérésre vonatkozó engedélyét több adatszolgáltatás kérésére vonatkozóan, az engedély kereteinek meghatározásával is megadhatja, ha az eljárás bűnszervezetben elkövetett bűncselekmény, információs rendszer felhasználásával elkövetett csalás, pénzmosás, költségvetési csalás vagy olyan csalás miatt van folyamatban, amelynek elkövetésére elektronikus hírközlő hálózat – ideértve az információs rendszert is – útján került sor.
+
+(2) A nyomozó hatóság az (1) bekezdés szerinti engedély keretei között a továbbiakban az adatszolgáltatást a 262. § (1) bekezdés c) és e) pontjában meghatározott adatkérésre vonatkozó önálló ügyészségi engedély nélkül kérheti. A nyomozó hatóság az adatkérésben megjelöli, hogy az adatkérésre az ügyészség (1) bekezdés szerinti engedélye alapján kerül sor.
+
+(3) Az ügyészség az adatkérés vagy adatkérések teljesítését követően megvizsgálja, hogy a (2) bekezdésben meghatározott adatszolgáltatás kérésére az ügyészség engedélynek megfelelően került-e sor. Az adatkérés eredménye nem használható fel bizonyítékként mindaddig, amíg az ügyészség azt nem vizsgálta meg.
+
+(4) Nem használható fel bizonyítékként és haladéktalanul törölni kell azt az adatot, amely az (1) bekezdésben meghatározott ügyészségi engedély kereteinek a túllépésével jutott az adatszolgáltatást kérő szerv tudomására.
+
+(5) Az e § szerinti adatkérésre egyebekben a 262. §, valamint a 264–265. § rendelkezéseit kell alkalmazni.
+
 263. § (1) Ha törvény ezt lehetővé teszi, az adatszolgáltatást kérő szerv a nyilvántartásból vagy az adatállományból közvetlen hozzáféréssel veszi át a szükséges adatokat, illetve az adatkéréshez a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálat közreműködését is igénybe veheti.
 
 (2) Az adatkérés keretében teljesítendő adatszolgáltatásra
@@ -3847,8 +3882,9 @@ határidő állapítható meg.
 - a) a kutatás,
 - b) a motozás,
 - c) a lefoglalás,
-- d) a zár alá vétel és
-- e) az elektronikus adat ideiglenes hozzáférhetetlenné tétele.
+- d) a zár alá vétel
+- e) az elektronikus adat ideiglenes hozzáférhetetlenné tétele és.
+- f) tárhelyszolgáltatás felfüggesztése.
 
 ### A tetten ért elkövető elfogása
 
@@ -4576,6 +4612,16 @@ szükséges.
 
 (6) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a 111. § alapján az eljárás kezdeményezésére, illetve lefolytatására jogosult szervet tájékoztatja, amelynek eljárásában a lefoglalásra, zárlatra vagy zár alá vételre van lehetőség, a lefoglalás megszüntetésének végrehajtását legfeljebb öt munkanapig felfüggesztheti.
 
+321/A. § (1) Helyettesíthető dolog, számlapénz, elektronikus pénz vagy fizetésre használt elektronikus adat (e § alkalmazásában a továbbiakban együtt: helyettesíthető dolog) lefoglalásának a megszüntetésekor a 321. § rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
+
+(2) Ha a helyettesíthető dolog tekintetében megállapítható, hogy az közvetlenül a 321. § (2) bekezdésében meghatározott tulajdonostól származik, akkor a helyettesíthető dolgot neki kell kiadni.
+
+(3) Ha a (2) bekezdés alkalmazásának azért nincs helye, mert a helyettesíthető dolog több, a 321. § (2) bekezdésében meghatározott vagyoni érdekelttől származik, akik tekintetében nem állapítható meg, hogy a helyettesíthető dolog közvetlenül kitől származik, továbbá, ha a helyettesíthető dolog mértéke nem elegendő, akkor a helyettesíthető dolgot fel kell osztani.
+
+(4) Nem osztható fel olyan helyettesíthető dolog, amely nem a 321. § (2) bekezdésében meghatározott tulajdonostól származik. Nincs helye a felosztásnak, ha megalapozottan feltehető, hogy a továbbiakban a 321. § (2) bekezdésében meghatározott újabb vagyoni érdekelt fellépése várható.
+
+(5) A felosztást a bűncselekmény elkövetésekor fennálló tulajdonuk egymáshoz viszonyított arányában, azok között a 321. § (2) bekezdésében meghatározott vagyoni érdekeltek között kell elvégezni, akikről megállapítható, hogy a helyettesíthető dolog tőlük származik.
+
 322. § Ha az eredetileg lefoglalt dolog már nem adható ki, a dolog értékesítéséből vagy megváltásából befolyt ellenértéknek a kezelés, tárolás vagy őrzés költségével csökkentett összegét kell az érintettnek kiadni. Ha a lefoglalás alaptalan volt, a dolog ellenértéke a kezelés, tárolás vagy őrzés költségével nem csökkenthető. Erről a lefoglalás megszüntetéséről határozatot hozó bíróság, ügyészség vagy nyomozó hatóság a határozatában dönt. A jogosult az ezt meghaladó igényét a polgári jog szabályai szerint érvényesítheti.
 
 ### A lefoglalt dolog visszatartása
@@ -4814,6 +4860,21 @@ a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező hat�
 ### Felhívás az elektronikus adat önkéntes eltávolítása érdekében
 
 338. § Ha a büntetőeljárás érdekeit nem sérti, az ügyészség vagy a nyomozó hatóság az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelését megelőzően felhívhatja az elektronikus adat önkéntes eltávolítása érdekében a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti azon médiatartalom-szolgáltatót, illetve azon tárhelyszolgáltatót vagy tárhelyszolgáltatást is végző közvetítő szolgáltatót, amelyik képes megakadályozni az elektronikus adathoz való hozzáférést. A felhívás teljesítése nem kötelező, annak célja az elektronikus adathoz való hozzáférés megakadályozásának a gyorsabbá tétele.
+
+### LIII/A. Fejezet — A TÁRHELYSZOLGÁLTATÁS FELFÜGGESZTÉSE
+
+338/A. § (1) A bíróság, az ügyészség vagy a nyomozó hatóság elrendelheti a tárhelyszolgáltatás felfüggesztését, ha az eljárás olyan közvádra üldözendő bűncselekmény miatt folyik, amellyel kapcsolatban tárhelyszolgáltatás megszüntetésének van helye, és megalapozottan feltehető, hogy a szolgáltatás felhasználásával újabb közvádra üldözendő bűncselekményt követnének el.
+
+(2) A bíróság, az ügyészség vagy a nyomozó hatóság a szolgáltatás felfüggesztését elrendelő határozattal kötelezi a tárhelyszolgáltatást nyújtó természetes személyt, jogi személyt vagy egyéb szervezetet (e Fejezet alkalmazásában a továbbiakban együtt: szolgáltató), hogy a szolgáltatás felfüggesztése alatt szüneteltesse az igénybe vevő vagy előfizető vagyoni érdekeltnek a szolgáltatás alapján fennálló jogait, továbbá kötelezheti, hogy vele a szolgáltatás felfüggesztése alatt ne kössön újabb szolgáltatásra irányuló szerződést.
+
+(3) A szolgáltató a határozat vele történő közlését követő egy munkanapon belül köteles végrehajtani a határozatot. Ha e kötelezettségét határidőn belül nem teljesíti, rendbírsággal sújtható.
+
+(4) A szolgáltatás felfüggesztését elrendelő határozattal szemben a szolgáltató és a vagyoni érdekelt élhet jogorvoslattal.
+
+(5) A bíróság, az ügyészség vagy a nyomozó hatóság megszünteti a tárhelyszolgáltatás felfüggesztését, ha
+
+- a) az elrendelésének oka megszűnt, vagy
+- b) az eljárást megszüntették vagy felfüggesztették, kivéve, ha a Btk. 78/A. § alapján az tárhelyszolgáltatás megszüntetésének van helye, és ennek érdekében a CVI. Fejezet szerinti eljárás lefolytatására kerül sor.
 
 ## KILENCEDIK RÉSZ — ELŐKÉSZÍTŐ ELJÁRÁS
 
@@ -5391,6 +5452,7 @@ elrendelését sérelmezte,
 
 - f) ha az ügyészség, illetve a felettes ügyészség elutasította a gyanúsított vagy a védő azon panaszát, amely az ügyiratok megismerésének korlátozásáról, vagy valamely megismerési mód biztosítására irányuló indítvány elutasításáról szóló határozatot sérelmezte,
 - g) a 402. § (3) és (4) bekezdése szerint az eljárást megszüntető határozatnak a 402. § (2) bekezdése alapján hozott rendelkezése ellen.
+- h) az ügyészségnek vagy a nyomozó hatóságnak a tárhelyszolgáltatás felfüggesztéséről hozott rendelkezése ellen.
 
 (2) A felülbírálati indítványt az (1) bekezdés szerinti határozat kézbesítésétől számított nyolc napon belül, a bíróságnál kell előterjeszteni. A felülbírálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülbírálati indítvány irányul, továbbá az indítvány előterjesztésének okát és célját.
 
@@ -5544,6 +5606,8 @@ a nyomozó hatóság vagy az ügyészség a gyanúsítotti kihallgatást megkezd
 
 (5) A nyomozó hatóság vagy az ügyészség biztosítja, hogy a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy a kihallgatása előtt, illetve annak zavarása nélkül a kihallgatása alatt a védőjével tanácskozhasson.
 
+387/A. § Ha a védő az értesítése, illetve a 387. § alapján tett intézkedések ellenére az eljárási cselekményen nem jelenik meg, a gyanúsítottat vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt tájékoztatni kell, hogy a védő távolmaradása az eljárási cselekmény megkezdésének nem akadálya, ugyanakkor a 185. § (1) bekezdés a) pontja alapján a vallomástételt arra figyelemmel is megtagadhatja, hogy a védője az eljárási cselekményen nem jelent meg. Ha terhelt a védő jelenlétének hiányára tekintettel nem kíván vallomást tenni, tájékoztatni kell, hogy a továbbiakban bármikor dönthet úgy, hogy a védő jelenlétében vagy a védő jelenléte nélkül vallomást tesz.
+
 388. § (1) A gyanúsítottal a kihallgatása során a terhelti figyelmeztetést követően közölni kell a gyanúsítás tárgyává tett cselekmény tényállását és annak Btk. szerinti minősítését.
 
 (2) A gyanúsítás közlését követően a nyomozó hatóság vagy az ügyészség figyelmezteti a gyanúsítottat és a védőt arra, hogy a gyanúsítás ellen panasznak van helye.
@@ -5638,7 +5702,7 @@ a nyomozó hatóság vagy az ügyészség a gyanúsítotti kihallgatást megkezd
 - f) a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését kezdeményezte, és további, Magyarországon elvégzendő eljárási cselekmény már nincs, valamint az eljárás a külföldi ítélet elismerése vagy a tagállami ítélet megfeleltetése nélkül nem folytatható, vagy
 - g) az a létrejött egyezségben a terhelt által vállalt kötelezettség teljesítése érdekében szükséges.
 
-(5) Az eljárás felfüggesztésének a (2) bekezdés, valamint a (4) bekezdés a), b) és g) pontja alapján a nyomozás során egy alkalommal van helye.
+(5) Az eljárás felfüggesztésének a (2) bekezdés, valamint a (4) bekezdés a), b) és g) pontja alapján a nyomozás során – e törvényben meghatározott kivétellel – egy alkalommal van helye.
 
 (6) Az eljárás nem függeszthető fel
 
@@ -5785,6 +5849,8 @@ meghosszabbíthatja.
 
 402. § (1) Az eljárás megszüntetése esetén a bűnügyi költséget – a (2) bekezdésben írt kivétellel – az állam viseli.
 
+(1a) Ha az eljárás megszüntetésére a 398. § (1) bekezdés a) pontja alapján azért került sor, mert a cselekmény nem bűncselekmény, hanem szabálysértés, akkor abban az esetben viseli az állam a bűnügyi költséget, ha a szabálysértési eljárás megindítására nem kerül sor. Erről az eljárást megszüntető határozatban kell rendelkezni.
+
 (2) Az ügyészség az eljárás megszüntetése esetén a bűnügyi költség vagy egy részének megfizetésére kötelezheti a gyanúsítottat, ha az eljárást
 
 - a) tevékeny megbánás miatt,
@@ -5794,7 +5860,7 @@ meghosszabbíthatja.
 
 szünteti meg.
 
-(2a) A gyanúsított kötelezettségét a bűncselekmény tárgyi súlya, valamint a gyanúsított vagyoni, jövedelmi, személyi viszonyaihoz és életviteléhez mérten kell megállapítani.
+(2a) A (2) bekezdésben meghatározott esetben a gyanúsítottat csak azzal a cselekménnyel vagy a tényállásnak azzal a részével kapcsolatban felmerült bűnügyi költség viselésére lehet kötelezni, amelyre az eljárást a (2) bekezdésben meghatározott okból megszüntetik. A gyanúsított kötelezettségét a bűncselekmény tárgyi súlya, valamint a gyanúsított vagyoni, jövedelmi, személyi viszonyaihoz és életviteléhez mérten kell megállapítani.
 
 (3) Ha a gyanúsított vagy a védő az eljárás megszüntetéséről szóló határozat ellen bejelentett panaszában a bűnügyi költség viselésére kötelező rendelkezést is sérelmezi, és a felettes ügyészség a panasznak nem ad helyt, úgy a gyanúsított és a védő a bűnügyi költség viselésére kötelező rendelkezés ellen felülbírálati indítványt terjeszthet elő.
 
@@ -6561,7 +6627,7 @@ tárgyában.
 - b) a tárgyalás tartása iránti indítványt visszavonták, vagy
 - c) a tárgyalás tartása iránti indítvány előterjesztésére nyitva álló határidő ilyen indítvány előterjesztése nélkül telt el.
 
-(5) Az elsőfokú bíróság ügydöntő határozata az (1)–(3) bekezdésben foglaltak szerint – az elkobzást, a vagyonelkobzást, az elektronikus adat végleges hozzáférhetetlenné tételét elrendelő rendelkezés, valamint a lefoglalás megszüntetéséről szóló rendelkezés, illetve a polgári jogi igényt érdemben elbíráló rendelkezés kivételével – abban az esetben is jogerőre emelkedik, ha az ügydöntő határozat ellen kizárólag a vádlott örököse, a magánfél, vagy a vagyoni érdekelt jelentett be fellebbezést, vagy a fellebbezésre részükre nyitva álló határidő még nem telt el.
+(5) Az elsőfokú bíróság ügydöntő határozata az (1)–(3) bekezdésben foglaltak szerint – az elkobzást, a vagyonelkobzást, az elektronikus adat végleges hozzáférhetetlenné tételét, a tárhelyszolgáltatás megszüntetését elrendelő rendelkezés, valamint a lefoglalás megszüntetéséről szóló rendelkezés, illetve a polgári jogi igényt érdemben elbíráló rendelkezés kivételével – abban az esetben is jogerőre emelkedik, ha az ügydöntő határozat ellen kizárólag a vádlott örököse, a magánfél, vagy a vagyoni érdekelt jelentett be fellebbezést, vagy a fellebbezésre részükre nyitva álló határidő még nem telt el.
 
 459. § (1) Az egyesbíró vagy a tanács elnöke az ügydöntő határozat jogerőre emelkedését követően a határozatra vezetett záradékkal tanúsítja az ügydöntő határozat jogerőre emelkedésének a tényét és a jogerőre emelkedés napját (a továbbiakban: jogerősítési záradék).
 
@@ -7387,7 +7453,7 @@ ellen.
 
 535. § (1) Az eljárás felfüggesztésének a tárgyalás megkezdése után is helye van a 487. §-ban, a 488. § (1) bekezdésében, valamint a 489. §-ban és a 490. §-ban meghatározott okokból.
 
-(2) Ha a bíróság az eljárást a vádlott tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt vagy azért függesztette fel, mert a vádlott ismeretlen helyen vagy külföldön tartózkodik, elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét rendelheti el, vagy a lefoglalt dolog állami tulajdonba vételéről határozhat.
+(2) Ha a bíróság az eljárást a vádlott tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt vagy azért függesztette fel, mert a vádlott ismeretlen helyen vagy külföldön tartózkodik, elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, tárhelyszolgáltatás megszüntetését rendelheti el, vagy a lefoglalt dolog állami tulajdonba vételéről határozhat.
 
 (3) Nincs helye fellebbezésnek az eljárásnak a 488. § (1) bekezdés a)–b) pontja és a 489–490. §-a alapján történt felfüggesztése, valamint a 489. § (1)–(2) bekezdésében, vagy a 490. § (1) bekezdésében meghatározott eljárás kezdeményezésére irányuló indítvány elutasítása ellen.
 
@@ -7770,7 +7836,7 @@ ellen.
 
 (4) A felmentő ítélet indokolása tartalmazza az (1) bekezdés a)–d) pontjában meghatározottak közül annak az oknak a feltüntetését is, amely a bíróságot az ítélet kialakításában vezette.
 
-(5) Ha a felmentés alapja gyermekkor vagy kóros elmeállapot, a bíróság elkobzást, vagyonelkobzást, illetve elektronikus adat végleges hozzáférhetetlenné tételét rendelhet el.
+(5) Ha a felmentés alapja gyermekkor vagy kóros elmeállapot, a bíróság elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, illetve tárhelyszolgáltatás megszüntetését rendelhet el.
 
 ### Az eljárást megszüntető végzés
 
@@ -7809,9 +7875,9 @@ ellen.
 
 568. § Ha az ügyészség ejtette a vádat és pótmagánvádnak lehet helye, az eljárás megszüntetésének nem akadálya, hogy a sértettnek azért nem lehetett az ügyészség vádejtését tartalmazó nyilatkozatát kézbesíteni, mert ismeretlen helyen tartózkodott.
 
-569. § (1) Az eljárásnak az 567. § (1) bekezdés a), f) és g) pontja alapján történt megszüntetése esetén a bíróság ügydöntő végzésben elkobzást, vagyonelkobzást vagy elektronikus adat végleges hozzáférhetetlenné tételét rendelhet el.
+569. § (1) Az eljárásnak az 567. § (1) bekezdés a), f) és g) pontja alapján történt megszüntetése esetén a bíróság ügydöntő végzésben elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét vagy tárhelyszolgáltatás megszüntetését rendelhet el.
 
-(2) Az eljárásnak az 567. § (7) bekezdése alapján történt megszüntetése esetén a bíróság a korábbi ügydöntő határozat elkobzást, vagyonelkobzást, illetve elektronikus adat végleges hozzáférhetetlenné tételét kimondó rendelkezését hatályában fenntartja.
+(2) Az eljárásnak az 567. § (7) bekezdése alapján történt megszüntetése esetén a bíróság a korábbi ügydöntő határozat elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, illetve tárhelyszolgáltatás megszüntetését kimondó rendelkezését hatályában fenntartja.
 
 ### Rendelkezés az elektronikus adat végleges hozzáférhetetlenné tételének a hozzáférés végleges megakadályozásával történő végrehajtásáról
 
@@ -8126,7 +8192,7 @@ eredményezi.
 
 (5) Az életfogytig tartó szabadságvesztés esetén a feltételes szabadságra bocsátás legkorábbi időpontjának későbbi időpontban történő meghatározását vagy a feltételes szabadságra bocsátás lehetőségének kizárását a büntetés súlyosításának, az erre irányuló fellebbezést a vádlott terhére bejelentettnek kell tekinteni.
 
-(6) Ha az elsőfokú bíróság az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, a tényállás azonban a döntéshez szükséges adatokat tartalmazza, erről a másodfokú bíróság is határozhat abban az esetben is, ha a terhelt terhére nem jelentettek be fellebbezést.
+(6) Ha az elsőfokú bíróság az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, illetve tárhelyszolgáltatás megszüntetéséről a törvény rendelkezése ellenére nem rendelkezett, a tényállás azonban a döntéshez szükséges adatokat tartalmazza, erről a másodfokú bíróság is határozhat abban az esetben is, ha a terhelt terhére nem jelentettek be fellebbezést.
 
 (7) Ha az elsőfokú bíróság szabálysértés miatt alkalmazott jogkövetkezményt, e jogkövetkezmény a másodfokú eljárásban akkor súlyosítható, ha a fellebbezés a felmentő rendelkezés ellen irányul, vagy az a szabálysértés miatt alkalmazott jogkövetkezmény súlyosítását célozza.
 
@@ -8277,7 +8343,7 @@ eredményezi.
 - a) az 567. § (1) és (2) bekezdésében meghatározott esetekben az eljárást megszünteti, vagy
 - b) az eljárást nem ügydöntő végzéssel megszünteti, ha az elsőfokú bíróság a vádban le nem írt cselekmény alapján a vádlott bűnösségét állapította meg, felmentette, vagy vele szemben az eljárást megszüntette.
 
-(2) Ha a másodfokú bíróság az eljárást azért szünteti meg, mert a vádlott büntethetősége megszűnt, az elsőfokú bíróság ítéletének az elkobzásra, a vagyonelkobzásra, az elektronikus adat végleges hozzáférhetetlenné tételére és a polgári jogi igény megállapítására vonatkozó rendelkezését hatályban tartja, ha ezekre nézve nem jelentettek be fellebbezést.
+(2) Ha a másodfokú bíróság az eljárást azért szünteti meg, mert a vádlott büntethetősége megszűnt, az elsőfokú bíróság ítéletének az elkobzásra, a vagyonelkobzásra, az elektronikus adat végleges hozzáférhetetlenné tételére, a tárhelyszolgáltatás megszüntetésére és a polgári jogi igény megállapítására vonatkozó rendelkezését hatályban tartja, ha ezekre nézve nem jelentettek be fellebbezést.
 
 (3) Ha az elsőfokú bíróság ítélete több bűncselekményről rendelkezett, a másodfokú bíróság az elsőfokú bíróság ítéletének csak azon bűncselekményre vonatkozó rendelkezéséről határoz az (1) bekezdés szerint, amelyet a hatályon kívül helyezés oka érint.
 
@@ -8320,9 +8386,9 @@ eredményezi.
 
 ### Az egyéb kérdésekre vonatkozó rendelkezések
 
-612. § (1) Ha a vagyoni érdekelt az elsőfokú bíróság ítéletének elkobzást, vagyonelkobzást, illetve elektronikus adat végleges hozzáférhetetlenné tételét elrendelő rendelkezése ellen fellebbezést jelentett be, és a másodfokú bíróság e fellebbezés vagy bármely más fellebbezés alapján az elsőfokú bíróságnak a vagyoni érdekelt tulajdonjogát, vagyonát vagy az elektronikus adat feletti rendelkezési jogát érintő elkobzást, vagyonelkobzást, illetve elektronikus adat végleges hozzáférhetetlenné tételét kimondó rendelkezését nem mellőzte, az elsőfokú bíróság a másodfokú bíróság határozatának a vagyoni érdekelt részére történő közléséről a vagyoni érdekeltnek az 57. § (4) bekezdésében meghatározott jogára való tájékoztatással gondoskodik.
+612. § (1) Ha a vagyoni érdekelt az elsőfokú bíróság ítéletének elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, illetve tárhelyszolgáltatás megszüntetését elrendelő rendelkezése ellen fellebbezést jelentett be, és a másodfokú bíróság e fellebbezés vagy bármely más fellebbezés alapján az elsőfokú bíróságnak a vagyoni érdekelt tulajdonjogát, vagyonát, az elektronikus adat feletti rendelkezési jogát, vagy a tárhelyszolgáltatáshoz való jogosultságát érintő elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, illetve tárhelyszolgáltatás megszüntetését kimondó rendelkezését nem mellőzte, az elsőfokú bíróság a másodfokú bíróság határozatának a vagyoni érdekelt részére történő közléséről a vagyoni érdekeltnek az 57. § (4) bekezdésében meghatározott jogára való tájékoztatással gondoskodik.
 
-(2) Ha a másodfokú bíróság rendeli el a vagyoni érdekelt tulajdonjogát érintő elkobzást, vagyonelkobzást, illetve elektronikus adat végleges hozzáférhetetlenné tételét, a határozat rendelkező részének tartalmaznia kell a vagyoni érdekeltnek az 57. § (4) bekezdésében meghatározott jogára történő tájékoztatást.
+(2) Ha a másodfokú bíróság rendeli el a vagyoni érdekelt tulajdonjogát érintő elkobzást, vagyonelkobzást, elektronikus adat végleges hozzáférhetetlenné tételét, illetve tárhelyszolgáltatás megszüntetését, a határozat rendelkező részének tartalmaznia kell a vagyoni érdekeltnek az 57. § (4) bekezdésében meghatározott jogára történő tájékoztatást.
 
 (3) Ha a szülői felügyeleti jog megszüntetése kérdésében való döntés a büntetőeljárás befejezését jelentősen késleltetné, vagy a büntetőeljárásban való érdemi elbírálását más körülmény kizárja, a másodfokú bíróság az elsőfokú bíróság ítéletének e kérdésben döntő rendelkezését hatályon kívül helyezi, és a szülői felügyeleti jog megszüntetése iránti indítványt egyéb törvényes útra utasítja.
 
@@ -9100,7 +9166,7 @@ terjeszthet elő felülvizsgálati indítványt.
 - 9. a járművezetéstől eltiltás utólagos beszámításáról,
 - 10. a kitiltás helyéről vagy a Btk. 60. § (2a) bekezdésében meghatározott esetben a kiutasítás tartamáról,
 - 11. sportrendezvények látogatásától való eltiltás esetén sportszövetség vagy sportlétesítmény meghatározásáról,
-- 12. az elkobzásról, a vagyonelkobzásról vagy az elektronikus adat végleges hozzáférhetetlenné tételéről, a lefoglalt dologról, a zár alá vétel feloldásáról,
+- 12. az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, a tárhelyszolgáltatás megszüntetéséről, a lefoglalt dologról, a zár alá vétel feloldásáról vagy a tárhelyszolgáltatás felfüggesztésének a megszüntetéséről,
 - 13. a próbára bocsátás megszüntetéséről,
 - 14. a pártfogó felügyelet elrendeléséről,
 - 15. a bűnügyi költségről,
@@ -9383,7 +9449,7 @@ esetén.
 
 (2) A katonai büntetőeljárás hatálya kiterjed a terhelt által elkövetett valamennyi bűncselekményre, ha ezek közül valamelyik miatt katonai büntetőeljárásnak van helye, és az elkülönítés nem lehetséges.
 
-(3) Több terhelt esetében akkor van helye katonai büntetőeljárásnak, ha a terheltek valamelyikének bűncselekménye katonai büntetőeljárásra tartozik, és az eljárás elkülönítése – tekintettel a tényállás szoros összefüggésére – nem lehetséges. Ez a rendelkezés az orgazdára és a bűnpártolóra is kiterjed.
+(3) Több terhelt esetében akkor van helye katonai büntetőeljárásnak, ha a terheltek valamelyikének bűncselekménye katonai büntetőeljárásra tartozik, és az eljárás elkülönítése – tekintettel a tényállás szoros összefüggésére – nem lehetséges. Ez a rendelkezés kiterjed a bűnpártolóra, valamint a Btk. 399. § (3) és (4) bekezdésében és ezek Btk. 399. § (5)–(8) bekezdésében meghatározott minősített eseteiben, illetve a Btk. 400. § (1) és (2) bekezdésében meghatározott bűncselekmény elkövetőjére is.
 
 (4) Több terhelt esetén a bíróság a fiatalkorú ügyét a katona ügyével együtt a katonai büntetőeljárásban bírálja el, ha az a katona ügyével összefügg. Ebben az esetben a fiatalkorú terhelt tekintetében megfelelően alkalmazni kell a fiatalkorú elleni büntetőeljárásra vonatkozó rendelkezéseket.
 
@@ -10840,7 +10906,7 @@ a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetv
 - a) a korrupciós bűncselekmények (Btk. XXVII. Fejezet), kivéve
   - aa) a vesztegetés egyes enyhébben minősülő eseteit [Btk. 290. § (1) és (6) bekezdés],
   - ab) a vesztegetés elfogadása enyhébben minősülő esetét [Btk. 291. § (1) bekezdés];
-- b) a hivatali visszaélés (Btk. 305. §), kivéve, ha azt rendvédelmi szervnél, Katonai Nemzetbiztonsági Szolgálatnál, Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél nem vezető beosztású hivatalos személy követi el;
+- b) a hivatali visszaélés (Btk. 305. §), kivéve, ha azt rendvédelmi szervnél, nemzetbiztonsági szolgálatnál, Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél nem vezető beosztású hivatalos személy követi el;
 - c) a vagyon elleni bűncselekmények közül a nemzeti vagyonra vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által kezelt vagyonra elkövetett vagy ilyen vagyonban kárt okozó
   - ca) sikkasztás súlyosabban minősülő esetei [Btk. 372. § (4)–(6) bekezdés],
   - cb) csalás súlyosabban minősülő esetei [Btk. 373. § (4)–(6) bekezdés],
@@ -11223,12 +11289,12 @@ számított két hónapon belül nyújthatja be.
   - cb) az elkövető tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt, vagy
   - cc) az elkövető kiléte a nyomozásban nem volt megállapítható,
 
-és elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele, vagy a lefoglalt dolog állami tulajdonba vétele szükséges.
+és elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, vagy a lefoglalt dolog állami tulajdonba vétele szükséges.
 
 (2) Vagyonelvonásra irányuló eljárásnak van helye a bíróság jogerős ügydöntő határozatát követően, ha
 
 - a) a bűncselekmény elkövetéséből eredő vagyon visszaszerzése vagy
-- b) az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tételének utólagos elrendelése
+- b) az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tételének, a tárhelyszolgáltatás megszüntetésének utólagos elrendelése
 
 szükséges.
 
@@ -11245,7 +11311,7 @@ szükséges.
 
 - a) nem indult nyomozás, vagy
 - b) az eljárás adatai alapján
-  - ba) az elkobzás, vagyonelkobzás, elektronikus adat hozzáférhetetlenné tétele, vagy
+  - ba) az elkobzás, vagyonelkobzás, elektronikus adat hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, vagy
   - bb) a lefoglalt dolog állami tulajdonba vétele tárgyában nem lehet érdemben állást foglalni.
 
 (2) A 819. § (2) bekezdése esetén a bíróság jogerős ügydöntő határozatát követően az ügyészség vagyonkutatást rendel el
@@ -11253,7 +11319,7 @@ szükséges.
 - a) a bűncselekmény elkövetéséből eredő vagyon visszaszerzése érdekében, ha a jogerős ügydöntő határozattal elrendelt, pénzösszegben kifejezett vagyonelkobzás esetén
   - aa) a vagyonelkobzás végrehajtása az állami adó- és vámhatóság tájékoztatása alapján nem vezetett eredményre, vagy
   - ab) a jogerős ügydöntő határozatot megelőzően a terhelt vagyonelkobzás alá eső vagyona nem volt biztosítható,
-- b) ha az elkobzás, a vagyonelkobzás vagy az elektronikus adat végleges hozzáférhetetlenné tétele utólagos alkalmazásának lehet helye,
+- b) ha az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tétele vagy a tárhelyszolgáltatás megszüntetése utólagos alkalmazásának lehet helye,
 
 és feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető.
 
@@ -11292,7 +11358,7 @@ rendelhető el.
 
 (5) Az eljárást megszüntető határozat ellen panasznak nincs helye.
 
-822. § (1) Ha az eljárás adatai vagy a vagyonkutatás adatai alapján elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele, lefoglalt dolog állami tulajdonba vétele, vagy annak megállapítása szükséges, hogy valamely vagyon jogerős ügydöntő határozattal elrendelt vagyonelkobzás hatálya alá tartozik, az ügyészség erre irányuló indítványt tesz a bíróságnak.
+822. § (1) Ha az eljárás adatai vagy a vagyonkutatás adatai alapján elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, lefoglalt dolog állami tulajdonba vétele, vagy annak megállapítása szükséges, hogy valamely vagyon jogerős ügydöntő határozattal elrendelt vagyonelkobzás hatálya alá tartozik, az ügyészség erre irányuló indítványt tesz a bíróságnak.
 
 (2) Az ügyészség indítványa tartalmazza
 
@@ -11315,7 +11381,7 @@ rendelhető el.
 
 ### A bíróság határozata
 
-824. § (1) A bíróság a 819. § (1) bekezdése, és a (2) bekezdés b) pontja esetén az elkobzásról, a vagyonelkobzásról vagy az elektronikus adat végleges hozzáférhetetlenné tételéről, illetve a 819. § (1) bekezdése esetén a lefoglalt dolog állami tulajdonba vételéről rendelkezik, ha az indítvány alapos, egyéb esetben az indítványt elutasítja.
+824. § (1) A bíróság a 819. § (1) bekezdése, és a (2) bekezdés b) pontja esetén az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, vagy a tárhelyszolgáltatás megszüntetéséről, illetve a 819. § (1) bekezdése esetén a lefoglalt dolog állami tulajdonba vételéről rendelkezik, ha az indítvány alapos, egyéb esetben az indítványt elutasítja.
 
 (2) A bíróság a 819. § (2) bekezdés a) pontja esetén, ha az indítvány alapos, megállapítja, hogy az indítványban megjelölt vagyon a jogerős ügydöntő határozattal elrendelt vagyonelkobzás hatálya alá tartozik. Egyéb esetben az indítványt elutasítja.
 
@@ -11863,7 +11929,7 @@ miatt került sor.
 - 19. a bírósági ügyvitel szabályait,
 - 20. a fogva tartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőeljárásban hozott határozatok végrehajtása során a bíróságokra háruló feladatokat,
 - 21. a bírósági eljárásban az eljárási cselekményről hangfelvétel vagy kép- és hangfelvétel készítésének szabályait,
-- 22.
+- 22. a feltételes ügyészi felfüggesztés keretében elrendelhető helyreállító szemléletű konfliktuskezelő eljárásra vonatkozó szabályokat,
 - 23. a büntetőeljárás során a pártfogó felügyelő tevékenységének a szabályait
 
 rendeletben megállapítsa.
@@ -11876,7 +11942,7 @@ rendeletben megállapítsa.
 
 rendeletben megállapítsa.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
+(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok tekintetében
 
 - a) a parancsnoki nyomozásra jogosult jogosultakat, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
 - b) a katonával szemben elrendelt bűnügyi felügyelet ellenőrzésének szabályait

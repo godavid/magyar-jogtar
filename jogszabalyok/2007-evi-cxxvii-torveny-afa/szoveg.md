@@ -75,7 +75,7 @@ abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az E
 
 7. § (1) Nem gazdasági tevékenység és nem eredményez adóalanyiságot a Magyarország Alaptörvénye által, illetőleg az annak felhatalmazása alapján megalkotott jogszabály alapján közhatalom gyakorlására jogosított személy, szervezet által ellátott közhatalmi tevékenység.
 
-(2) Közhatalmi tevékenység különösen a jogszabály-alkotási, az igazságszolgáltatási, az ügyészi, a védelmi, a rendvédelmi, a külügyi és igazságügyi igazgatási, a közigazgatási jogalkalmazói, a hatósági ellenőrzési és pénzügyi ellenőrzési, a törvényességi felügyeleti és ellenőrzési, az államháztartási, európai uniós és egyéb nemzetközi támogatás elosztásáról való döntési tevékenység.
+(2) Közhatalmi tevékenység különösen a jogszabály-alkotási, az igazságszolgáltatási, az ügyészi, a védelmi, a rendvédelmi, a nemzetbiztonsági, a külügyi és igazságügyi igazgatási, a közigazgatási jogalkalmazói, a hatósági ellenőrzési és pénzügyi ellenőrzési, a törvényességi felügyeleti és ellenőrzési, az államháztartási, európai uniós és egyéb nemzetközi támogatás elosztásáról való döntési tevékenység.
 
 (3) A (2) bekezdéstől függetlenül a tulajdon kisajátítása, valamint a 2. számú mellékletben felsorolt tevékenységek nem minősülhetnek közhatalmi tevékenységnek.
 
@@ -1181,7 +1181,7 @@ nem minősül közszolgáltatónak.
   - jc) első rendeltetésszerű használatbavétele megtörtént, de mint önálló rendeltetési egység rendeltetését vagy a rendeltetési egységeinek számát megváltoztatták, és az ezt igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év;
 - k) a beépítetlen ingatlan (ingatlanrész) értékesítése, kivéve az építési telek (telekrész) értékesítését;
 - l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása;
-- m) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt termék vagy szolgáltatás központi költségvetési szerv részére nemzetközi megállapodáson alapuló értékesítése, és a magyar állam vagy a képviseletében eljáró központi költségvetési szerv részére nemzetközi megállapodáson alapuló térítésmentes átadása.
+- m) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, nemzetbiztonsági, rendvédelmi, rendészeti célokra szánt termék vagy szolgáltatás központi költségvetési szerv részére nemzetközi megállapodáson alapuló értékesítése, és a magyar állam vagy a képviseletében eljáró központi költségvetési szerv részére nemzetközi megállapodáson alapuló térítésmentes átadása.
 
 (2) Az (1) bekezdés l) pontja nem alkalmazható:
 
@@ -1798,15 +1798,38 @@ terhelő előzetesen felszámított adó összegének 50 százaléka.
 
 129. § (1) Az importáló helyett annak közvetett vámjogi képviselője gyakorolhatja a termék importjához kapcsolódó előzetesen felszámított adó levonását, ha
 
-- a) az importálót az adólevonási jog keletkezésekor és azt követően az adólevonási jog egyébként korlátozás nélkül megilleti, valamint
-- b) az a) pontban említett feltétel teljesüléséről az importáló nyilatkozik vámjogi képviselőjének.
+- a) az importálót az adólevonási jog keletkezésekor és azt követően az adólevonási jog egyébként korlátozás nélkül megilleti,
+- b) az a) és c) pontban említett feltétel teljesüléséről az importáló nyilatkozik vámjogi képviselőjének,
+- c) az importáló a levonási jog keletkezésének időpontját magában foglaló adó-megállapítási időszakban a bevallási kötelezettségét havi gyakorisággal teljesítő adóalany,
+- d) az importáló a levonási jog keletkezésének időpontját magában foglaló adó-megállapítási időszakban nem minősül az Art. rendelkezései szerint kockázatos adózónak, valamint
+- e) a közvetett vámjogi képviselet ellátására vonatkozó szerződés megkötésének időpontjában vagy a levonási jog keletkezésének időpontját magában foglaló adó-megállapítási időszakban az Art. rendelkezései szerint megbízható adózónak nem minősülő importálóra vonatkozóan a közvetett vámjogi képviselő által az (1a) bekezdés szerinti időpontokban elvégzett partnerellenőrzés eredménye alapján nem merül fel adókockázat, és a partnerellenőrzés eredményéről a közvetett vámjogi képviselő az (1b) bekezdés szerint adatot szolgáltat.
+
+(1a) Az (1) bekezdés e) pontjában említett partnerellenőrzést a közvetett vámjogi képviselet ellátására vonatkozó szerződés megkötését megelőzően és ezt követően, ha ugyanezen importáló képviseletében több importálás történik, havi rendszerességgel, a hónap utolsó napjáig kell elvégezni. Nem kell a partnerellenőrzést elvégezni abban a hónapban, amikor az importáló képviseletében importálás nem történik.
+
+(1b) A partnerellenőrzés elvégzésének tényéről és eredményéről a közvetett vámjogi képviselő haladéktalanul, de legkésőbb az (1a) bekezdésben említett szerződés megkötéséig és a tárgyhónapot követő hónap 10. napjáig elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére. A határidő elmulasztása miatt igazolási kérelem benyújtásának nincs helye.
+
+(1c) Az (1) bekezdés e) pontja szerinti partnerellenőrzés vizsgálati szempontjait az állami adó- és vámhatóság a honlapján teszi közzé.
+
+(1d) Ha az importáló rendelkezik a 156. § szerinti engedéllyel, akkor az (1) bekezdés c)–e) pontjában foglalt feltételektől függetlenül az importáló helyett annak közvetett vámjogi képviselője gyakorolhatja a termék importjához kapcsolódó előzetesen felszámított adó levonását.
 
 (2) A közvetett vámjogi képviselő az (1) bekezdés szerint megszerzett adólevonási jogot – az adólevonási jog gyakorlásának egyéb feltételeitől függetlenül – abban az esetben gyakorolhatja, ha
 
-- a) személyes rendelkezésére áll az (1) bekezdés b) pontjában említett, nevére szóló nyilatkozat, valamint
-- b) belföldön nyilvántartásba vett adóalanyként nincs olyan, e törvényben szabályozott jogállása, amely adólevonási jogát egyébként korlátozza.
+- a) személyes rendelkezésére áll az (1) bekezdés b) pontjában említett, nevére szóló nyilatkozat,
+- b) belföldön nyilvántartásba vett adóalanyként nincs olyan, e törvényben szabályozott jogállása, amely adólevonási jogát egyébként korlátozza, valamint
+- c) a levonási jog gyakorlásának időpontjában az Art. rendelkezései szerint megbízható adózónak minősül.
 
 (3) Abban az esetben, ha a közvetett vámjogi képviselő gyakorolja az (1) bekezdés szerint megszerzett adólevonási jogot, az importálónak a termék importjához kapcsolódó adólevonási joga elenyészik.
+
+(4) Az állami adó- és vámhatóság a közvetett vámjogi képviselő elektronikusan benyújtott kérelme alapján az (1) bekezdés c) és d) pontjában foglalt feltételek fennállására vonatkozó, valamint az (1) bekezdés e) pontja szerinti partnerellenőrzéshez szükséges, a kérelemben megjelölt és az állami adó- és vámhatóság által nyilvántartott, az importálóra vonatkozó adatok megismerését a kérelem beérkezésétől számított 8 napon belül biztosítja, feltéve, hogy az adatok megismeréséhez az importáló a közvetett vámjogi képviselőnek címzett és a kérelemhez csatolt írásbeli nyilatkozatában előzetesen hozzájárult.
+
+(5) A közvetett vámjogi képviselő arról az adómegállapítási időszakról teljesítendő bevallásában, amelyben az engedményezett adólevonási jogot gyakorolja, importonként nyilatkozni köteles
+
+- a) az áru átengedéséről szóló vámhatóság általi értesítés számáról, vagy a termék szabad forgalomba bocsátása során az adófizetési kötelezettséget megállapító határozat számáról, vagy a termék szabad forgalomba bocsátását igazoló kiegészítő árunyilatkozat számáról,
+- b) az importáló adószámáról,
+- c) az adó alapjáról és
+- d) az adó összegéről.
+
+(6) Az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti, az (5) bekezdésben említett nyilatkozattételi kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerinti bevallásában teljesíti.
 
 130. § (1) A 127. § (1) bekezdésének ca) és cb) alpontjában, valamint a 129. § (1) bekezdésének b) pontjában említett nyilatkozatnak – az ott meghatározottakon túl – tartalmaznia kell még:
 
@@ -4703,6 +4726,8 @@ az állami adó- és vámhatóság részére.
 367. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése azokban az esetekben alkalmazható, amikor a pénzvisszatérítést az adóalany ezen rendelkezések hatálybalépésének napján vagy azt követő időpontban teljesíti.
 
 (2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése ezen rendelkezések hatálybalépésének időpontját megelőzően, de a 2023. december 31-ét követően teljesített pénzvisszatérítések esetében is alkalmazható feltéve, hogy az adóalany a pénzvisszatérítésből fakadó adóalap-csökkentési igényét más módon nem érvényesítette.
+
+368. § E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 129. § (1) bekezdés c)–e) pontja, 129. § (1a)–(1d) bekezdése, (4)–(6) bekezdése, valamint az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 129. § (2) bekezdése az ezen rendelkezések hatályba lépésének időpontjában érvényes, közvetett vámjogi képviselet ellátására vonatkozó szerződésekre és az azok alapján történt importálásokra is alkalmazandók. Ilyen esetben a 129. § (1) bekezdés e) pontja szerinti partnerellenőrzést első alkalommal annak a hónapnak az utolsó napjáig kell elvégezni, amelyben a hatályba lépést követően első alkalommal történik importálás.
 
 369. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontját, 142. § (9) bekezdését, valamint a 6/C. számú melléklet 1a. és 2a. pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetében kell először alkalmazni, amelyek teljesítési időpontja 2025. január 1-jére vagy azt követő időpontra esik.
 

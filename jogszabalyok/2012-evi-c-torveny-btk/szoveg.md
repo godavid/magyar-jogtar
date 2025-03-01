@@ -513,7 +513,7 @@ ismételten életfogytig tartó szabadságvesztés büntetésre ítélik.
 
 (2) Akit haszonszerzés céljából elkövetett bűncselekmény miatt határozott ideig tartó szabadságvesztésre ítélnek, ha megfelelő jövedelme vagy vagyona van, pénzbüntetésre is kell ítélni.
 
-(3) A pénzbüntetés legkisebb mértéke harminc, legnagyobb mértéke ötszáznegyven napi tétel. Egynapi tétel összegét legalább ezerháromszáz, legfeljebb hatszázötvenezer forintban kell meghatározni.
+(3) A pénzbüntetés legkisebb mértéke harminc, legnagyobb mértéke ötszáznegyven napi tétel. Egynapi tétel összegét legalább ezerötszáz, legfeljebb hétszáznyolcvanezer forintban kell meghatározni.
 
 (4) A bíróság az ügydöntő határozatában – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.
 
@@ -658,16 +658,17 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 - g) az elektronikus adat végleges hozzáférhetetlenné tétele,
 - h) a kényszergyógykezelés,
 - i) a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerinti intézkedések.
+- j) tárhelyszolgáltatás megszüntetése.
 
 (2) A megrovás, a próbára bocsátás és a jóvátételi munka önállóan, büntetés helyett alkalmazható.
 
 (3) A pártfogó felügyelet büntetés vagy intézkedés mellett alkalmazható. Kiutasítás mellett pártfogó felügyelet nem rendelhető el és a pártfogó felügyelet kötelező alkalmazásának sincs helye.
 
-(4) Az elkobzás, a vagyonelkobzás és az elektronikus adat végleges hozzáférhetetlenné tétele önállóan, és büntetés vagy intézkedés mellett is alkalmazható.
+(4) Az elkobzás, a vagyonelkobzás, az elektronikus adat végleges hozzáférhetetlenné tétele és a tárhelyszolgáltatás megszüntetése önállóan, és büntetés vagy intézkedés mellett is alkalmazható.
 
 ### A megrovás
 
-64. § (1) Megrovásban kell részesíteni azt, akinek cselekménye az elbíráláskor már nem veszélyes, vagy olyan csekély fokban veszélyes a társadalomra, hogy az e törvény szerint alkalmazható legkisebb büntetés kiszabása vagy más intézkedés alkalmazása – ide nem értve az elkobzást, a vagyonelkobzást és az elektronikus adat végleges hozzáférhetetlenné tételét – szükségtelen.
+64. § (1) Megrovásban kell részesíteni azt, akinek cselekménye az elbíráláskor már nem veszélyes, vagy olyan csekély fokban veszélyes a társadalomra, hogy az e törvény szerint alkalmazható legkisebb büntetés kiszabása vagy más intézkedés alkalmazása – ide nem értve az elkobzást, a vagyonelkobzást, az elektronikus adat végleges hozzáférhetetlenné tételét és a tárhelyszolgáltatás megszüntetését – szükségtelen.
 
 (2) A megrovással a bíróság vagy az ügyészség helytelenítését fejezi ki a jogellenes cselekmény miatt, és felszólítja az elkövetőt, hogy a jövőben tartózkodjon bűncselekmény elkövetésétől.
 
@@ -899,6 +900,12 @@ elkövetője a büntetőeljárás megindítását megelőző öt évben szerzett
 78. § (1) Személy elleni erőszakos vagy közveszélyt okozó büntetendő cselekmény elkövetőjének kényszergyógykezelését kell elrendelni, ha elmeműködésének kóros állapota miatt nem büntethető, és tartani kell attól, hogy hasonló cselekményt fog elkövetni, feltéve, hogy büntethetősége esetén egyévi szabadságvesztésnél súlyosabb büntetést kellene kiszabni.
 
 (2) A kényszergyógykezelést meg kell szüntetni, ha szükségessége már nem áll fenn.
+
+### Tárhelyszolgáltatás megszüntetése
+
+78/A. § (1) A bíróság elrendelheti az olyan, az elkövető számára nyújtott tárhelyszolgáltatás megszüntetését, amelyet az elkövető a bűncselekmény elkövetéséhez eszközül használt vagy arra szánt.
+
+(2) A tárhelyszolgáltatás megszüntetését akkor is el lehet rendelni, ha az elkövető gyermekkor, kóros elmeállapot vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető, illetve ha az elkövetőt megrovásban részesítették.
 
 ### IX. Fejezet — A BÜNTETÉS KISZABÁSA
 
@@ -1233,7 +1240,7 @@ miatt ítéltek el.
 
 113. § (1) Fiatalkorúval szemben pénzbüntetést akkor lehet kiszabni, ha önálló keresete, jövedelme vagy megfelelő vagyona van.
 
-(2) Fiatalkorú esetén a pénzbüntetés legkisebb mértéke tizenöt, legnagyobb mértéke kétszázötven napi tétel, az egynapi tétel összegét legalább hatszázötven, legfeljebb hatvanötezer forintban kell meghatározni.
+(2) Fiatalkorú esetén a pénzbüntetés legkisebb mértéke tizenöt, legnagyobb mértéke kétszázötven napi tétel, az egynapi tétel összegét legalább hétszáznyolcvan, legfeljebb hetvennyolcezer forintban kell meghatározni.
 
 (3) Fiatalkorú esetén a pénzbüntetést behajthatatlansága esetén
 
@@ -1481,9 +1488,9 @@ büntetés mellett szabható ki.
 
 ### A várakozási idő meghosszabbítása
 
-140. § (1) A várakozási idő meghosszabbítása esetén a honvéd soron következő rendfokozatba előlépésre előírt várakozási ideje meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a rendfokozatra előírt várakozási idő felét.
+140. § (1) A várakozási idő meghosszabbítása esetén a honvéd és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja soron következő rendfokozatba előlépésre előírt várakozási ideje meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a rendfokozatra előírt várakozási idő felét.
 
-(1a) A várakozási idő meghosszabbítása esetén a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a soron következő fizetési fokozatba előresorolásra előírt várakozási idő meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a fizetési fokozathoz rendelt várakozási idő felét.
+(1a) A várakozási idő meghosszabbítása esetén a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet és a hivatásos katasztrófavédelmi szerv hivatásos állományú tagja esetében a soron következő fizetési fokozatba előresorolásra előírt várakozási idő meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a fizetési fokozathoz rendelt várakozási idő felét.
 
 (2) A várakozási időt akkor kell meghosszabbítani, ha a katonának az előléptetést vagy az előresorolást hosszabb várakozási idő eltöltésével kell kiérdemelnie.
 
@@ -1920,7 +1927,7 @@ követik el.
 
 - a) bűnszövetségben,
 - b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva vagy
-- c) a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében
+- c) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a Nemzeti Adó- és Vámhivatal létesítményében
 
 követik el.
 
@@ -2096,7 +2103,7 @@ kell érteni.
 
 - a) bűnszövetségben,
 - b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva vagy
-- c) a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében
+- c) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a Nemzeti Adó- és Vámhivatal létesítményében
 
 követik el.
 
@@ -2892,6 +2899,13 @@ büntetendő.
 
 222. § (1) Aki abból a célból, hogy mást megfélemlítsen, vagy más magánéletébe, illetve mindennapi életvitelébe önkényesen beavatkozzon, őt rendszeresen vagy tartósan háborgatja, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
+(1a) Az (1) bekezdés szerint büntetendő, aki az ellene folytatott büntetőeljárás hatálya alatt
+
+- a) azt követően, hogy vele a bíróság, az ügyészség vagy a nyomozó hatóság a büntetőeljárásról szóló 2017. évi XC. törvény 51/A. §-a szerinti önkényes kapcsolatfelvétellel szembeni védelemről szóló határozatot közölt, vagy
+- b) a vele szemben elrendelt távoltartás magatartási szabályainak megszegésével
+
+a sértettel kapcsolatot teremt abból a célból, hogy a sértettet megfélemlítse vagy a magánéletébe, illetve mindennapi életvitelébe önkényesen beavatkozzon.
+
 (2) Aki félelemkeltés céljából
 
 - a) mást vagy rá tekintettel hozzátartozóját személy elleni erőszakos vagy közveszélyt okozó büntetendő cselekmény elkövetésével megfenyeget, vagy
@@ -3005,7 +3019,7 @@ a becsület csorbítására alkalmas kifejezést használ, vagy egyéb ilyen cse
 
 231. § (1) A 218. §-ban meghatározott bűncselekmény csak magánindítványra büntethető, kivéve, ha azzal összefüggésben nem magánindítványra büntetendő bűncselekményt is elkövetnek. A 218. § (2) bekezdése esetén a magánindítványt az egészségügyről szóló törvényben meghatározott, nyilatkozatra jogosult személy, illetve az elhalt hozzátartozója vagy örököse terjesztheti elő.
 
-(2) A 221–228. §-ban meghatározott bűncselekmény csak magánindítványra büntethető, kivéve, ha a 227. §-ban meghatározott bűncselekményt rendvédelmi szerv tagjának sérelmére követik el.
+(2) A 221–228. §-ban meghatározott bűncselekmény csak magánindítványra büntethető, kivéve, ha a 227. §-ban meghatározott bűncselekményt rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat tagjának sérelmére követik el.
 
 (3) A 228. § esetén a magánindítványt az elhalt hozzátartozója vagy örököse terjesztheti elő.
 
@@ -3297,7 +3311,7 @@ terjedő szabadságvesztéssel büntetendő.
 
 - a) különös visszaesés szempontjából hasonló jellegű bűncselekmény a környezetkárosítás és a természetkárosítás;
 - b) hulladékgazdálkodási tevékenység a hulladékról szóló törvény szerinti hulladékgazdálkodás azzal, hogy a szállítás fogalmába bele kell érteni az országba történő behozatalt, onnan történő kivitelt, valamint az azon történő átszállítást;
-- c) jelentős mennyiségű hulladék az 1000 kg-ot vagy a 10 köbmétert meghaladó mennyiségű hulladék;
+- c) jelentős mennyiségű hulladék az 500 kg-ot vagy a 5 köbmétert meghaladó mennyiségű hulladék;
 - d) különösen jelentős mennyiségű hulladék a jelentős mennyiségű hulladék tízszerese.
 
 ### Ózonréteget lebontó anyaggal visszaélés
@@ -4356,13 +4370,18 @@ követik el.
 
 ### Közösség elleni uszítás
 
-332. § Aki nagy nyilvánosság előtt
+332. § (1) Aki nagy nyilvánosság előtt
 
 - a) a magyar nemzet ellen,
 - b) valamely nemzeti, etnikai, faji, vallási csoport, illetve annak tagja ellen, vagy
 - c) a lakosság egyes csoportjai, illetve azok tagjai ellen – különösen fogyatékosságra, nemi identitásra, szexuális irányultságra tekintettel –
 
 erőszakra vagy gyűlöletre uszít, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az (1) bekezdés szerint büntetendő az is, aki a nagy nyilvánosság előtt valamely nemzeti, etnikai, faji, vallási csoport, illetve annak tagja elleni erőszakra vagy gyűlöletre uszít úgy, hogy az adott nemzeti vagy etnikai, faji, vallási csoport sérelmére elkövetett, a XIII. Fejezet vagy a XIV. Fejezet szerint büntetendő
+
+- a) cselekmény megtörténtét tagadja vagy vonja kétségbe,
+- b) cselekményt jelentéktelen színben tüntet fel vagy igazolni törekszik.
 
 ### Internetes agresszió
 
@@ -6432,7 +6451,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 
 (3) Ahol e törvény honvédet, műveleti területet, szövetséges fegyveres erőt vagy békefenntartást említ, azon a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott fogalmakat kell érteni.
 
-(3a) Ahol e törvény rendfokozatot említ, azon a honvéd esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
+(3a) Ahol e törvény rendfokozatot említ, azon a honvéd és a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet és a hivatásos katasztrófavédelmi szerv hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
 
 (4) Ahol e törvény szigorúan titkos, titkos, bizalmas, illetve korlátozott terjesztésű minősítésű adatot említ, azon a minősített adat védelméről szóló törvényben meghatározott nemzeti vagy külföldi minősített adatot kell érteni.
 
