@@ -352,29 +352,13 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 
 #### 26. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
 
-150. § (1) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (1e) bekezdéssel egészül ki:
+#### 150. §
 
-„(1e) Az Országos Mozgásszervi Intézet jogutódja a reumatológiai-immunológiai járó- és fekvőbeteg szakellátás tekintetében az Egyetem. Az Országos Mozgásszervi Intézet reumatológiai-immunológiai járó- és fekvőbeteg szakellátásait az Egyetem Klinikai Központja látja el.”
+#### 151. §
 
-(2) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (1f) bekezdéssel egészül ki:
+#### 152. §
 
-„(1f) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 62–70. sorában meghatározott ingatlanokat ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.”
-
-151. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény a következő 6/F. és 6/G. §-sal egészül ki:
-
-„6/F. § A 3. mellékletben foglalt táblázat 62–70. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló, az Országos Mozgásszervi Intézet köti meg az Egyetemmel.
-
-6/G. § Az Országos Mozgásszervi Intézet európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában az Országos Mozgásszervi Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.”
-
-152. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. melléklete a 6. melléklet szerint módosul.
-
-153. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény
-
-- a) 5. § (4) bekezdésében az „(1b) és az (1d) bekezdés” szövegrész helyébe az „(1b), az (1d) és az (1f) bekezdés” szöveg,
-- b) 5. § (5a) bekezdésében az „(1b) és (1d) bekezdés” szövegrészek helyébe az „(1b), az (1d) és az (1f) bekezdés” szöveg,
-- c) 8. §-ában az „(1d), (4) bekezdés” szövegrész helyébe az „(1d), (1f), (4) bekezdés” szöveg
-
-lép.
+#### 153. §
 
 #### 27. Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény módosítása
 
@@ -457,27 +441,6 @@ lép.
 ### 5. melléklet a 2024. évi LXXVI. törvényhez
 
 ### 6. melléklet a 2024. évi LXXVI. törvényhez
-
-- 1. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. mellékletében foglalt táblázat a következő 62–70. sorokkal egészül ki:
-
-|  | (A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS) |
-
-„
-
-| 62. | Budapest | 14481 | 1767/10000 | Kivett strandfürdő |
-| --- | --- | --- | --- | --- |
-| 63. | Budap est | 14494/1 | 1643/3150 | Kivett lakóház, udvar |
-| 64. | Budapest | 14493 | 1/1 | Kivett kórház |
-| 65. | Budapest | 14519/2 | 1/1 | Kivett kórház |
-| 66. | Budapest | 14547/5 | 1/1 | Kivett orvosi rendelő |
-| 67. | Budapest | 13498/1 | 1/1 | Kivett munkásszálló |
-| 68. | Budapest | 14501 | 1/1 | Kivett lakóház, udvar |
-| 69. | Budapest | 14511 | 1/1 | Kivett beépítetlen terület |
-| 70. | Budapest | 14520 | 1/1 | Kivett beépítetlen terület |
-
-”
 
 ### 7. melléklet a 2024. évi LXXVI. törvényhez
 

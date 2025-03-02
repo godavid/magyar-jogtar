@@ -12,12 +12,7 @@ a belügyi ágazatokat érintő törvények módosításáról
 
 #### 4. §
 
-5. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény
-
-- a)
-- b) 4/B. § (2a) bekezdésében az „a tanuló ifjúság üdülésének és táborozásának egészségügyi feltételeiről szóló miniszteri rendeletben” szövegrész helyébe a „miniszteri rendeletben” szöveg
-
-lép.
+#### 5. §
 
 #### 2. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
@@ -29,12 +24,7 @@ lép.
 
 #### 8. §
 
-9. § A Rendőrségről szóló 1994. évi XXXIV. törvény 69. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője az ügyészség jóváhagyása nélkül kérhet adatszolgáltatást
-
-- a) az (1) bekezdés c) vagy e) pontjában meghatározott szolgáltatótól vagy szervezettől a velük szerződésben álló személy kilétére és a személyazonosító adataira vonatkozóan, valamint
-- b) a központi bankszámla-nyilvántartást vezető nyilvántartó szervtől, a központi bankszámla-nyilvántartásban szereplő adatokra vonatkozóan.”
+#### 9. §
 
 #### 10. §
 
@@ -102,37 +92,9 @@ lép.
 
 #### 38. §
 
-39. § Az egészségügyről szóló 1997. évi CLIV. törvény 189. §-a a következő (3) bekezdéssel egészül ki:
+#### 39. §
 
-„(3) A pszichiátriai betegnek kártalanítás jár, ha önkéntes, sürgősségi vagy kötelező pszichiátriai gyógykezelés elrendelése során a szabadságát alaptalanul korlátozták, illetve elvonták. A kártalanítás kizárólag a szabadság korlátozásának, illetve elvonásának a ténye és a tartama miatti hátrányok orvoslására szolgál.”
-
-40. § Az egészségügyről szóló 1997. évi CLIV. törvény „Közös eljárási szabályok” alcíme a következő 201/C. §-sal egészül ki:
-
-„201/C. § (1) A kártalanítást igénylő 189. § (3) bekezdése szerinti kártalanítási igénye kártalanítási perben érvényesíthető. A kártalanítási igény fizetési meghagyásos eljárásban nem érvényesíthető.
-
-(2) A kártalanítási igényt az állammal szemben kell érvényesíteni. Az államot az igazságügyért felelős miniszter képviseli.
-
-(3) A kártalanítást igénylő a kártalanítást megalapozó
-
-- a) önkéntes gyógykezelés esetén a bíróság 197. § (7) bekezdése szerinti, az intézeti gyógykezelés indokoltságát elutasító,
-- b) sürgősségi gyógykezelés esetén a bíróság 199. § (3) bekezdése szerinti, a kötelező pszichiátriai intézeti gyógykezelés elrendelését elutasító,
-- c) kötelező gyógykezelés esetén a bíróság 200. § (1) bekezdése szerinti, a kötelező intézeti gyógykezelés elrendelését elutasító
-
-jogerős határozat vele történő közlésétől számított egy éven belül érvényesítheti a kártalanítási igényét. Amennyiben az ügyben felülvizsgálati eljárás van folyamatban, a határidő a Kúria érdemi határozatának közlésétől számít. E határidő elmulasztása jogvesztő. Az a)–c) pont szerinti határozat közlésével egyidejűleg tájékoztatni kell az érintettet a kártalanítási igényének jogalapjáról, az igény érvényesítésének határidejéről, a határidő kezdő időpontjáról és a határidő elmulasztásának jogvesztő jellegéről.
-
-(4) A kártalanítási perben a szabadság alaptalan korlátozása, illetve elvonása miatt bekövetkezett kár, illetve nem vagyoni sérelem miatt járó kártalanítás követelhető.
-
-(5) Ha a kártalanítást igénylő a kártalanítási eljárás lefolytatása alatt meghal, örököse az érintett halálától számított hat hónapon belül kérheti az eljárás folytatását. E határidő elmulasztása jogvesztő.
-
-(6) A kártalanítási perben a kártalanítás módjára és mértékére a Polgári Törvénykönyvről szóló törvénynek a kártalanításra és a sérelemdíjra vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
-
-(7) A kártalanítás a (3) bekezdés a)–c) pont szerinti határozatok jogerőre emelkedésével válik esedékessé.
-
-(8) A kártalanítási perben a polgári perrendtartásról szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni.
-
-(9) A keresetlevelet a kártalanítást megalapozó határozatot hozó első fokon eljárt bíróságnál kell előterjeszteni. A keresetlevelet a bíróság annak beérkezését követő harminc napon belül érdemi vizsgálat nélkül a gyógykezelés elrendelésére irányuló eljárás ügyirataival együtt a felperes belföldi lakóhelye, ennek hiányában a felperes belföldi tartózkodási helye, ha külföldön van, az elsőfokon eljárt, a perre hatáskörrel rendelkező törvényszéknek küldi meg.
-
-(10) A kártalanítási perben nem járhat el az a bíró, aki a 189. § (3) bekezdése szerinti szabadság korlátozó, illetve elvonó önkéntes, sürgősségi vagy kötelező pszichiátriai gyógykezelés elrendelésében eljárt.”
+#### 40. §
 
 #### 41. §
 
@@ -140,9 +102,7 @@ jogerős határozat vele történő közlésétől számított egy éven belül 
 
 #### 43. §
 
-44. § Az egészségügyről szóló 1997. évi CLIV. törvény a következő 244/O. §-sal egészül ki:
-
-„244/O. § E törvénynek a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel megállapított 189. § (3) bekezdését és 201/C. §-át a 2025. március 1-jét követően meghozott, a 201/C. § (3) bekezdés a)–c) pontjai szerinti kártalanítást megalapozó határozatok tekintetében lehet alkalmazni.”
+#### 44. §
 
 #### 45. §
 
@@ -216,13 +176,7 @@ jogerős határozat vele történő közlésétől számított egy éven belül 
 
 #### 72. §
 
-73. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő 54/A. §-sal egészül ki:
-
-„54/A. § Ha a hivatásos állomány tagját foglalkoztató szervezeti egységnél kizárólag nemzetbiztonsági ellenőrzéshez kötött szolgálati beosztások vannak, az 54. §-t a következő eltérésekkel kell alkalmazni:
-
-- a) az 54. § (4) bekezdésétől eltérően a felajánlható szolgálati beosztást az állományilletékes parancsnok irányítása alá tartozó valamely szervezeti elem helyett a hivatásos állomány tagját foglalkoztató rendvédelmi szerv más szervezeti egységeinél kell keresni,
-- b) az 54. § (6) bekezdésétől eltérően a hivatásos állomány tagját beleegyezésével a rendvédelmi szerv lakóhely szerint illetékes szervezeti egységének rendelkezési állományába kell helyezni,
-- c) a szolgálati beosztás felajánlása során az 57. § (2) bekezdés b) pontja szerinti szempontok figyelembevételével kell eljárni.”
+#### 73. §
 
 #### 74. §
 
@@ -248,28 +202,7 @@ jogerős határozat vele történő közlésétől számított egy éven belül 
 
 #### 85. §
 
-86. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
-
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6. 86. § (2) bekezdés c) pont ca) alpontjában az „54. §-ban” szövegrész helyébe az „54. vagy 54/A. §-ban” szöveg,
-- 7. 86. § (2) bekezdés c) pont cb) alpontjában az „54. §-ban” szövegrész helyébe az „54. vagy 54/A. §-ban” szöveg,
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
-- 13.
-- 14.
-- 15.
-- 16.
-- 17. 330. § (1) bekezdésében az „54. §” szövegrész helyébe az „54. § és 54/A. §” szöveg,
-- 18.
-
-lép.
+#### 86. §
 
 #### 87. §
 
