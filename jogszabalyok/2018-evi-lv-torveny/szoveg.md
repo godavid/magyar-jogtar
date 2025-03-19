@@ -102,7 +102,7 @@ megjelenni.
 
 #### 10. § [A közterületi gyűlés bejelentése]
 
-(1) Aki közterületen nyilvános gyűlést szervez, a gyűlést annak megtartását megelőzően legfeljebb három hónappal, és a felhívás előtt legalább 48 órával köteles bejelenteni az illetékes rendőrkapitányságnak – Budapesten a Budapesti Rendőr-főkapitányságnak – (a továbbiakban: gyülekezési hatóság).
+(1) Aki közterületen nyilvános gyűlést szervez, a gyűlést annak megtartását megelőzően legfeljebb egy hónappal, és a felhívás előtt legalább 48 órával köteles bejelenteni az illetékes rendőrkapitányságnak – Budapesten a Budapesti Rendőr-főkapitányságnak – (a továbbiakban: gyülekezési hatóság).
 
 (2) Egy gyűlést akkor is csak egyszer kell bejelenteni, ha azt többen szervezik. Ilyenkor a szervezők azt vagy közösen jelentik be, vagy a bejelentő a többi szervező képviseletében, meghatalmazottként jár el.
 
@@ -258,6 +258,8 @@ a felmerülő költségeket megtéríteni.
 (1) Az e törvény hatálybalépésekor még el nem bírált bejelentésekre, meg nem tartott gyűlésekre, illetve folyamatban lévő eljárásokra e törvény rendelkezéseit kell alkalmazni.
 
 (2) Ha az e törvény hatálybalépése előtt bejelentett gyűlés kezdő időpontja a hatálybalépést követő három hónapon túli időpontra esik, azt a szervezőnek újra be kell jelentenie.
+
+23/A. § A gyülekezési jogról szóló 2018. évi LV. törvénynek a gyermekek védelmével összefüggő, valamint az ehhez kapcsolódó törvények módosításáról szóló 2025. évi III. törvénnyel (a továbbiakban: Módtv.) megállapított 10. § (1) bekezdését a Módtv. hatálybalépésekor folyamatban levő bejelentések, illetve jogorvoslati eljárások tekintetében is alkalmazni kell.
 
 #### 24. § [Felhatalmazó rendelkezés]
 
