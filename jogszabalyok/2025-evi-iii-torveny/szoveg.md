@@ -30,15 +30,13 @@ a gyülekezési jogról szóló 2018. évi LV. törvénynek a gyermekek védelm�
 
 #### 8. §
 
-9. § (1) A gyülekezési jogról szóló 2018. évi LV. törvény a következő 23/A. §-sal egészül ki:
-
-„23/A. § A gyülekezési jogról szóló 2018. évi LV. törvénynek a gyermekek védelmével összefüggő, valamint az ehhez kapcsolódó törvények módosításáról szóló 2025. évi III. törvénnyel (a továbbiakban: Módtv.) megállapított 10. § (1) bekezdését a Módtv. hatálybalépésekor folyamatban levő bejelentések, illetve jogorvoslati eljárások tekintetében is alkalmazni kell.”
+9. § (1)
 
 (2)
 
 10. § A gyülekezési jogról szóló 2018. évi LV. törvény
 
-- a) 10. § (1) bekezdésében a „három hónappal” szövegrész helyébe az „egy hónappal” szöveg,
+- a)
 - b)
 
 #### 4. Záró rendelkezések
