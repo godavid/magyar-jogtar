@@ -157,17 +157,17 @@ volt hadiárva, volt hadigyámolt és a volt hadigondozott családtag részére 
 
 (2) A járadék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-- a) az I. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 262%-ának,
-- b) a II. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 243%-ának,
-- c) a III. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 225%-ának,
-- d) a IV. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 194%-ának, és
-- e) az V. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 138%-ának
+- a) az I. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 288,2%-ának,
+- b) a II. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 267,3%-ának,
+- c) a III. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 247,5%-ának,
+- d) a IV. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 213,4%-ának, és
+- e) az V. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 151,8%-ának
 
 megfelelő összeg.
 
-(3) Ha a hadirokkant a hadigondozotti pénzellátáson kívül (hadirokkant-járadék) nem rendelkezik egyéb jövedelemmel, akkor a megfelelő járadékosztály szerinti pénzellátás havi összegét növelni kell a szociális vetítési alap összegével.
+(3) Ha a hadirokkant a hadigondozotti pénzellátáson kívül (hadirokkant-járadék) nem rendelkezik egyéb jövedelemmel, akkor a megfelelő járadékosztály szerinti pénzellátás havi összegét növelni kell a szociális vetítési alap 110%-ának megfelelő összeggel.
 
-(4) A járadékban részesülő hadirokkantat a saját háztartásában nevelt, valamint egészségi állapota miatt ápolást, gondozást nyújtó intézményben vagy rehabilitációs intézményben elhelyezett hadigyámolt gyermeke után a 4. §-ban meghatározott feltételek fennállása esetén nevelési pótlék illeti meg, feltéve, hogy a gyermeket a hadirokkant háztartásából helyezték az említett intézmények valamelyikébe. A nevelési pótlék mértéke – figyelemmel a 26/A. §-ban foglaltakra – gyermekenként és havonta a szociális vetítési alap összegének 50%-a.
+(4) A járadékban részesülő hadirokkantat a saját háztartásában nevelt, valamint egészségi állapota miatt ápolást, gondozást nyújtó intézményben vagy rehabilitációs intézményben elhelyezett hadigyámolt gyermeke után a 4. §-ban meghatározott feltételek fennállása esetén nevelési pótlék illeti meg, feltéve, hogy a gyermeket a hadirokkant háztartásából helyezték az említett intézmények valamelyikébe. A nevelési pótlék mértéke – figyelemmel a 26/A. §-ban foglaltakra – gyermekenként és havonta a szociális vetítési alap összegének 55%-a.
 
 (5) A véglegesen megállapított hadirokkant-járadék összege abban az esetben sem csökkenthető, ha a hadirokkant a hadieredetű fogyatkozás felülvizsgálata eredményeként alacsonyabb járadékosztályba kerül besorolásra.
 
@@ -177,17 +177,17 @@ megfelelő összeg.
 
 (2) A pótlék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-- a) az I. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 120%-ának,
-- b) a II. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 108%-ának,
-- c) a III. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 96%-ának,
-- d) a IV. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 76%-ának, és
-- e) az V. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 56%-ának
+- a) az I. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 132%-ának,
+- b) a II. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 118,8%-ának,
+- c) a III. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 105,6%-ának,
+- d) a IV. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 83,6%-ának, és
+- e) az V. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 61,6%-ának
 
 megfelelő összeg.
 
 ### Hadiözvegyi járadék
 
-13. § (1) A hadiözvegyet havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 140%-ának megfelelő összeg.
+13. § (1) A hadiözvegyet havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 154%-ának megfelelő összeg.
 
 (2) Ha a hadiözvegy a hadigondozotti pénzellátáson kívül (hadiözvegyi járadék) nem rendelkezik egyéb jövedelemmel, akkor pénzellátását a 11. § (3) bekezdésében meghatározott módon növelni kell.
 
@@ -197,8 +197,8 @@ megfelelő összeg.
 
 (2) A járadék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-- a) a 4. § a) és b) pontja szerinti esetben a szociális vetítési alap összege 30%-ának,
-- b) a 4. § c) pontja szerinti esetben a szociális vetítési alap összege 60%-ának
+- a) a 4. § a) és b) pontja szerinti esetben a szociális vetítési alap összege 33%-ának,
+- b) a 4. § c) pontja szerinti esetben a szociális vetítési alap összege 66%-ának
 
 megfelelő összeg.
 
@@ -211,11 +211,11 @@ megfelelő összeg.
 - c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
 - d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 34,04%-ának megfelelő összeg.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 37,4%-ának megfelelő összeg.
 
 ### Hadigondozott családtag járadéka
 
-15. § (1) A hadigondozott családtagot egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 30%-ának megfelelő összeg.
+15. § (1) A hadigondozott családtagot egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 33%-ának megfelelő összeg.
 
 (2) Több jogosult esetén a járadék mindegyik jogosultat külön-külön megilleti.
 
@@ -230,7 +230,7 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 - c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
 - d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 34,04%-ának megfelelő összeg.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 37,4%-ának megfelelő összeg.
 
 ### Temetési hozzájárulás
 
@@ -351,7 +351,7 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 
 ### A hadigondozottak rendszeres pénzbeli ellátásainak emelése
 
-26/A. § A 11. § (2) és (4) bekezdése, a 12. § (2) bekezdése, a 13. § (1) bekezdése, a 14. § (2) bekezdése, a 14/A. §, a 15. § (1) bekezdése, valamint a 15/A. § szerinti rendszeres pénzbeli ellátások összegét a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. §-ában foglaltak szerint kell emelni.
+26/A. § A 11. § (2)–(4) bekezdése, a 12. § (2) bekezdése, a 13. § (1) bekezdése, a 14. § (2) bekezdése, a 14/A. §, a 15. § (1) bekezdése, valamint a 15/A. § szerinti rendszeres pénzbeli ellátások összegét a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. §-ában foglaltak szerint kell emelni.
 
 ### Adó- és illetékmentesség
 
@@ -388,4 +388,6 @@ részletes szabályait rendeletben állapítsa meg.
 
 (2) E törvénynek a Módtv.-vel megállapított 14/A. §-ában, valamint 15/A. §-ában megállapított mértékű járadék (a továbbiakban: emelt összeg) 2018. január 1-től illeti meg a jogosultat. A 2018. január 1-jét követően kifizetett járadék és az emelt összeg közötti különbözet kifizetéséről a Módtv. hatálybalépését követő hónapban kell gondoskodni.
 
-#### 32. §
+32. § (1) A 2025. március 1-jét megelőző kezdő időponttól megállapított, 26/A. § szerinti ellátásokat a hadigondozásról és a bűnügyi együttműködéssel összefüggő törvények módosításáról szóló 2025. évi IV. törvény (a továbbiakban: Módtv1.) hatálybalépését követő hónap első napjától 2025. március 1-jére visszamenőlegesen 10%-kal meg kell emelni.
+
+(2) A 2025. március 1-je és a Módtv1. hatálybalépését megelőző nap közötti kezdő időponttól megállapított, 26/A. § szerinti ellátásokat a Módtv1. hatálybalépését követő hónap első napjától az ellátás kezdő időpontjára visszamenőlegesen 10%-kal meg kell emelni.
