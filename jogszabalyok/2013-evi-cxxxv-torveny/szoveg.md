@@ -59,7 +59,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - b) a Központi Adatfeldolgozó, feltéve, hogy abban az Integrációs Szervezet, vagy annak tagja a Hpt. szerinti befolyásoló részesedéssel rendelkezik, továbbá
 - c) azok a szervezetek, amelyben az Integrációs Szervezet, vagy annak tagja többségi befolyással rendelkezik.
 
-(8) Az Integrációs Szervezet hitelintézet tagja, volt tagja, vagy jogutódja jogosult a 2022. április 1. előtt forgalmazott, a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény szerinti keretszerződését kivezetni a vonatkozó szerződés és általános szerződési feltételek 17/U. § (7) bekezdés szerinti módosításával abból a célból, hogy az érintett ügyfél vonatkozásában a módosítás időpontjában a hitelintézet által forgalmazott más keretszerződés szerződési feltételei váljanak alkalmazandóvá a szerződési feltételek modernizációja és digitális transzformációja érdekében (e § alkalmazásában a továbbiakban: termékmodernizáció). A termékmodernizáció érdekében történő módosítás során kizárólag a 17/U. § (7)–(9) bekezdésében foglaltak alkalmazandóak azzal az eltéréssel, hogy a módosítással nem változik meg az ügyfél hátrányára a számlavezetés díja, a fizetési megbízások díja (az éves díjkimutatás összehasonlíthatósága alapján), a készpénz-helyettesítő fizető eszköz rendelkezésre bocsátásának éves díja, és a Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján forintban történő készpénzfelvétel hitelintézet által hirdetményben meghatározott díja.
+(8)
 
 1/A. § E törvény célja:
 
@@ -581,7 +581,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (3) A (2) bekezdés b) pontja szerinti kiszabható bírság tekintetében az Mnbtv. 75. § (4) bekezdés, 76. § (1)–(3) bekezdés rendelkezései az irányadóak.
 
-(4) A Felügyelet a 17/U. § (7)–(9) bekezdésében meghatározott rendelkezések megtartásának ellenőrzésére – az Mnbtv. 29. alcímében meghatározott szabályok alapján – hivatalból indított fogyasztóvédelmi ellenőrzési eljárást folytat le.
+(4)
 
 17. § (1) A Felügyelet visszavonhatja a működési engedélyét annak az integrált hitelintézetnek, amelyik a 17/K. § (1) bekezdés, 19. § (3) bekezdés szerinti kötelezettségeinek nem tesz eleget vagy nem határidőben tesz eleget. A Felügyelet visszavonhatja a működési engedélyét annak az integrált hitelintézetnek is, amelyik a 15/A. §-ban, illetve a 17/H. § (1) bekezdésében foglalt kötelezettségeinek ismételten nem tesz eleget.
 
@@ -858,16 +858,13 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 (6) Az adatok egységes informatikai rendszerben történő közös adatkezelésének időtartama – ha törvény eltérő időtartamot nem határoz meg – a mindenkori polgári jogi elévülés időtartama, amelyet az ügyféllel fennálló jogviszony megszűnésétől – jogviszony létre nem jötte esetén a jogviszony létrejöttét megakadályozó jogcselekmény hatályosulásától – kell számítani.
 
-(7) A csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet az ügyfelekkel kötött pénzügyi és kiegészítő pénzügyi szolgáltatásaira, valamint befektetési szolgáltatási tevékenységre és kiegészítő szolgáltatásra vonatkozó szerződéseit és általános szerződési feltételeit az egységes informatikai rendszer alkalmazása által indokolt körben módosíthatja az alábbi feltételek fennállása esetén:
+(7)
 
-- a) a módosítás az ügyfél számára nem okoz a termékjellemzők alapján versengő, hasonló szolgáltatások átlagos piaci feltételeihez képest érdeksérelmet a szerződés teljesítése során, valamint
-- b) a csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet legalább 60 nappal a módosítás hatálybalépését megelőzően, postai úton vagy az adott szerződésben a kapcsolattartásra előírt módon tájékoztatja az ügyfeleket a módosításról és a (8) bekezdésben meghatározott felmondási jogról.
+(7a)
 
-(7a) A kamatnapszámítás módosítása tekintetében kizárólag a (7) bekezdés b) pontjában foglalt feltételt kell alkalmazni.
+(8)
 
-(8) Az ügyfél a (7) bekezdésben meghatározottak szerint módosított szerződést a módosítás hatálybalépéséig költség- és díjmentesen felmondhatja, ennek hiányában úgy kell tekinteni, hogy a módosítás tényét az ügyfél tudomásul vette. A felmondásból eredően a csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet és az ügyfél között fennálló egyéb jogviszonyban az ügyfelet hátrány nem érheti.
-
-(9) A pénzforgalmi szolgáltatásra vonatkozó szerződés módosítása esetén a (7) bekezdés b) pontjában foglalt tájékoztatásban a csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet bemutatja, hogy az ügyfélnek milyen összegű fizetési kötelezettségekkel kellene számolnia a módosítást megelőzően, illetve azt követően hatályos szerződési feltételek figyelembevételével, továbbá, hogy az összehasonlítás alapján a módosítás az ügyfél számára kedvező, közömbös vagy kedvezőtlen. A csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet köteles a tájékoztatásban felhívni a fogyasztó figyelmét a szabályozott fizetési számlaváltás lehetőségére.
+(9)
 
 (10)
 
