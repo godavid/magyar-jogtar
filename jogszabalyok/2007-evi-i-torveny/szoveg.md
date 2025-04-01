@@ -845,7 +845,7 @@ részére az adatszolgáltatás céljának és jogalapjának megjelölése melle
 
 (2) A foglalkoztatás-felügyeleti hatóság csak arra a személyre vonatkozó adatot igényelhet a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból, akit Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
 
-(2a) Az eljáró idegenrendészeti hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a Nemzeti Információs Központnak az utasadatok kockázatelemzéséhez, elemzés-értékelés készítéséhez, valamint hírigény teljesítéséhez szolgáltathat adatot.
+(2a) Az eljáró idegenrendészeti hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból az utasadat-információs egységnek az utasadatok kockázatelemzéséhez, a Nemzeti Információs Központnak elemzés-értékelés készítéséhez, valamint hírigény teljesítéséhez szolgáltathat adatot.
 
 (2b) Az eljáró idegenrendészeti hatóság
 

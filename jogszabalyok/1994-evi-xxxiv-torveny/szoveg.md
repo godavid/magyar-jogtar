@@ -2147,7 +2147,7 @@ részére.
 - b) az a) pontban foglaltaktól eltérő célra is, ha a továbbítás a közbiztonságot súlyosan vagy közvetlenül fenyegető veszély elhárításához szükséges, továbbá,
 - c) ha az adattovábbításra minden kétséget kizáróan az érintett érdekében kerül sor, és ahhoz hozzájárult.
 
-(5) A bűnüldözési adatállományból a Nemzeti Információs Központ az utasadatok kockázatelemzése, elemzés-értékelés, valamint hírigény teljesítése céljából – a cél megjelölésével és az utasadatok kockázatelemzésére, az elemzés-értékelés vagy a hírigény teljesítésére vonatkozó törvényi feltételek teljesülése esetén – a rendőrségtől adatszolgáltatást kérhet.
+(5) A bűnüldözési adatállományból az utasadat-információs egység az utasadatok kockázatelemzése, valamint a Nemzeti Információs Központ elemzés-értékelés készítése, valamint hírigény teljesítése céljából – a cél megjelölésével és az utasadatok kockázatelemzésére, az elemzés-értékelés vagy a hírigény teljesítésére vonatkozó törvényi feltételek teljesülése esetén – a rendőrségtől adatszolgáltatást kérhet.
 
 91/F. § (1) A rendőrség bűnüldözési adatot az Európai Unió tagállamának bűnüldöző és igazságszolgáltatási szervei részére bűnüldözési, bűnmegelőzési és büntetés-végrehajtási célból, valamint továbbfelhasználás céljából a 91/E. § (4) bekezdésében foglaltak szerint továbbíthat.
 
@@ -2247,7 +2247,7 @@ részére.
 
 (3) A rendőrség a (2) bekezdésben felsorolt adatokat a határforgalom-ellenőrzés végrehajtásának céljából nyilvántartja. A nyilvántartott adatot az utas beléptetését vagy beléptetésének megtagadását követően, de legkésőbb az adatok átvételétől számított huszonnégy órán belül törli, kivéve, ha arra határrendészeti feladatainak végrehajtásához, illetve büntető- vagy szabálysértési eljárás lefolytatásához szüksége van. A határrendészeti feladat végrehajtását követően, illetve a szabálysértési eljárás jogerős befejezésekor, valamint a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor a nyilvántartott adatot haladéktalanul törölni kell.
 
-(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Nemzeti Információs Központ – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, elemzés-értékelés céljából, hírigény teljesítése céljából, továbbá az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
+(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat az utasadat-információs egység – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, ha az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülnek –, valamint a Nemzeti Információs Központ – elemzés-értékelés, továbbá hírigény teljesítése céljából – a konkrét cél megjelölésével átveheti.
 
 (3b) A rendőrség a 35/A. § (4) bekezdésében meghatározott határellenőrzési tevékenysége során az utasadat-információs egység részére történő továbbítás céljából a következő adatokat kezelheti:
 
@@ -2275,7 +2275,7 @@ részére.
 
 (7) A (4)–(6) bekezdés szerint a rendőrség részére átadott adatok nyilvántartására a (3) bekezdést kell alkalmazni.
 
-(8) A (4) bekezdés szerint a rendőrség által kezelt adatok (7) bekezdés szerinti nyilvántartásában kezelt adatokat a Nemzeti Információs Központ – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, elemzés-értékelés céljából, hírigény teljesítése céljából, továbbá az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
+(8) A (4) bekezdés szerint a rendőrség által kezelt adatok (7) bekezdés szerinti nyilvántartásában kezelt adatokat az utasadat-információs egység – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, ha az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülnek –, valamint a Nemzeti Információs Központ – elemzés-értékelés, továbbá hírigény teljesítése céljából – a konkrét cél megjelölésével átveheti.
 
 91/N. § A rendőrség a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet II. melléklete szerinti adatokat egy évig kezeli.
 

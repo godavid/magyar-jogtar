@@ -829,7 +829,7 @@ kezelheti, továbbíthatja, ha az adattovábbítás törvényi feltételei az ad
 
 (2a) A személyszállítást végző légifuvarozó – az utas hozzájárulásával – kezelheti 2016/681/EU parlamenti és tanács irányelv szerinti előzetes utasinformációs adatokat (a továbbiakban: előzetes utasinformációs adat), különösen az utas személyi azonosító okmánya típusát, számát, kiállító országát és lejárati idejét, az utas állampolgárságát, családi nevét, utónevét, nemét, születési idejét, a járatszámot, az indulás dátumát, az érkezés dátumát, az indulási repülőteret, az érkezési repülőteret, az indulási időt és az érkezési időt.
 
-(2b) Ha a személyszállítást végző légifuvarozó előzetes utasinformációs adatot gyűjt, a személyszállítást végző légifuvarozó az előzetes utasinformációs adatokat az (1) bekezdésben meghatározottak adatokra vonatkozó szabályok szerint és módszerrel köteles kezelni és továbbítani a Nemzeti Információs Központ felé.
+(2b) Ha a személyszállítást végző légifuvarozó előzetes utasinformációs adatot gyűjt, a személyszállítást végző légifuvarozó az előzetes utasinformációs adatokat az (1) bekezdésben meghatározottak adatokra vonatkozó szabályok szerint és módszerrel köteles kezelni és továbbítani az utasadat-információs egység felé.
 
 (3) A személyszállítást végző légifuvarozó a légi jármű indulását megelőző 345. naptól
 
@@ -842,8 +842,8 @@ kezelheti.
 
 (5) A személyszállítást végző légifuvarozó köteles az (1) és (2a) bekezdésben meghatározott adatok közül a rendelkezésére álló adatokat
 
-- a) a járat tervezett indulási ideje előtt 24 órával, valamint közvetlenül a beszállás lezárását követően haladéktalanul továbbítani a Nemzeti Információs Központnak az utasadat-információs tevékenységéhez kapcsolódó feladatellátáshoz,
-- b) – ha az adatokhoz való hozzáférés az Nbtv. 3. számú melléklete szerinti bűncselekménnyel kapcsolatos konkrét és tényleges fenyegetésre adandó válaszhoz szükséges – a Nemzeti Információs Központ egyedi megkeresése alapján a Nemzeti Információs Központ elemző-értékelő tevékenysége végzéséhez, illetve hírigény teljesítése céljából továbbítani.
+- a) a járat tervezett indulási ideje előtt 24 órával, valamint közvetlenül a beszállás lezárását követően haladéktalanul továbbítani az utasadat-információs egységnek az utasadat-információs tevékenységéhez kapcsolódó feladatellátáshoz,
+- b) – ha az adatokhoz való hozzáférés az Nbtv. 3. számú melléklete szerinti bűncselekménnyel kapcsolatos konkrét és tényleges fenyegetésre adandó válaszhoz szükséges – az utasadat-információs egység egyedi megkeresése alapján az utasadatok kockázatelemzése, valamint a Nemzeti Információs Központ egyedi megkeresése alapján a Nemzeti Információs Központ elemző-értékelő tevékenysége végzéséhez, illetve hírigény teljesítése céljából továbbítani.
 
 (5a) Az (5) bekezdés a) pontja szerinti esetben a személyszállítást végző légifuvarozó a második adattovábbítást az első adattovábbításhoz képesti változások megjelölésével is teljesítheti.
 

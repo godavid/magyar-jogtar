@@ -162,7 +162,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 53b. Szállítási rendszerirányító: az együttműködő földgázrendszer e törvényben meghatározott képviseleti, irányítási és koordinációs feladatainak ellátására a Hivatal által kijelölt szállítási rendszerüzemeltető.
 - 54. Szállítóvezeték: az a csővezeték a tartozékaival együtt, amelyen keresztül a földgáz továbbítása történik, és amelynek kezdőpontja a rendszer-összekötési pont, összekapcsolási pont a földgáztároló, az LNG-létesítmény vagy a földgáztermelő üzem szállítói betáplálási pontja, végpontja pedig a rendszer-összekötési pont, összekapcsolási pont, a gázátadó állomás szállítói kiadási pontja, a szállítóvezetékről közvetlenül ellátott felhasználó telekhatára vagy a földgáztároló szállítói kiadási pontja.
 - 54a. Szállítóvezeték-létesítő: szállítási rendszerüzemeltetési engedéllyel nem rendelkező földgázipari vállalkozás, amely e törvény szerinti szállítóvezeték létesítési engedély alapján szállítóvezetéket létesíthet.
-- 54b. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja, hogy az adott termelő egység által előállított gáz meghatározott mennyisége megújuló gáznak minősül.
+- 54b. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja, hogy az adott termelő egység által előállított gáz meghatározott mennyisége megújuló vagy alacsony szén-dioxid-kibocsátású gáz.
 - 55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben a földgáz-kereskedelem, LNG-kereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
 - 55a. Szigetüzem: olyan elszigetelt földgáz vezetékrendszer, amely csak termelői rendszerhez csatlakozik és a földgáz fizikai betáplálása az együttműködő földgázrendszerről nem biztosítható.
 - 55b. Tárolói év: a tárgyév április 1-jei gáznap kezdetétől a tárgyévet követő év március 31-ei gáznap végéig terjedő időszak.
@@ -2651,11 +2651,11 @@ amelyre vonatkozóan kérelemre a Hivatal az e törvény végrehajtására kiado
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő cseppfolyós PB-gáz turista használatú palackba történő PB-gáz-átfejtés tevékenység folytatására irányuló szándékát köteles a műszaki-biztonsági hatóságnak bejelenteni.
 
-118/B. § (1) A Hivatal származási garanciát állít ki a megújuló gázokra vonatkozóan és gondoskodik a származási garanciák megbízható és hiteles elektronikus tárolásáról. A Hivatal biztosítja, hogy a származási garanciák pontosak, megbízhatóak és hitelesek, valamint a származási garanciák bejegyzése, átruházása, felhasználása és törlése pontos és megbízható legyen. A megújuló gázok származási garanciáira vonatkozó részletes szabályokat az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
+118/B. § (1) A Hivatal a származási garancia elektronikus tárolása és kezelése során tudomására jutott személyes adatok közül kizárólag a nevet és az elektronikus levelezési címet az elektronikus számla megszűnésétől, kapcsolódó származási garanciák felhasználásától, vagy a fel nem használt származási garanciák esetében a származási garanciák érvényességi idejének lejártától számított hat évig a származási garancia ügyletekkel esetlegesen felmerülő vitás kérdések rendezése érdekében megőrzi, ezt követően végérvényesen és hozzáférhetetlen módon törli.
 
-(2) A Hivatal az (1) bekezdés szerinti egyes feladatok ellátásához kapcsolódóan közreműködő szervezeteket bízhat meg.
+(2) A Hivatal a származási garancia elektronikus tárolása és kezelése során tudomására jutott a személyes adatnak nem minősülő adatokat az elektronikus számla megszűnésétől, a kapcsolódó származási garanciák felhasználásától, vagy a fel nem használt származási garanciák esetében a származási garanciák érvényességi idejének lejártától számított tíz évig a származási garancia ügyletekkel esetlegesen felmerülő vitás kérdések rendezése érdekében megőrzi, ezt követően végérvényesen és hozzáférhetetlen módon törli.
 
-(3) A megújuló gáz energiamennyiségét az értékesítő kizárólag származási garanciával igazolhatja a felhasználó részére.
+(3) A megújuló vagy alacsony szén-dioxid-kibocsátású gázok energiamennyiségét az értékesítő kizárólag származási garanciával igazolhatja a felhasználó részére.
 
 ### XII. Fejezet — JOGKÖVETKEZMÉNYEK
 
