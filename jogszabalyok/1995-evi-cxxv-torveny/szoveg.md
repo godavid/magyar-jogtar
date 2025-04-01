@@ -922,27 +922,27 @@ szerzi be.
 
 52/G. § A Nemzeti Információs Központ által kezelt adatot tartalmazó adatkezelési rendszerbe csak a Nemzeti Információs Központ hozzáférési jogosultsággal rendelkező munkatársa, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítói jogkörében eljárva, továbbá sarkalatos törvény által feljogosított más szerv tekinthet be, annak adattartalmáról felvilágosítást vagy értesítést kérhet.
 
-52/H. § (1) A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
+52/H. § (1) Az utasadat-információs egység a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
 
 (2) A légiutas-adatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
 
-(3) A Nemzeti Információs Központ és a légiutas-adat szolgáltatója közötti kapcsolattartás, valamint a légiutas-adat átadásának módját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletben határozza meg.
+(3) Az utasadat-információs egység és a légiutas-adat szolgáltatója közötti kapcsolattartás, valamint a légiutas-adat átadásának módját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletben határozza meg.
 
-(4) A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében
+(4) Az utasadat-információs egység
 
 - a) a légiutas-adat szolgáltatója által szolgáltatott légiutas-adatokat összeveti az elemző-értékelő tevékenység céljából kezelt adatokkal,
 - b) légiutas-adatok tekintetében a (2) bekezdésben meghatározott bűncselekményekre, tevékenységekre, illetve törekvésekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
 - c) az átvett légiutas-adatokról nyilvántartást vezet.
 
-(5) A Nemzeti Információs Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
+(5) Az utasadat-információs egység a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
 
-(6) A Nemzeti Információs Központ a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Nemzeti Információs Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
+(6) Az utasadat-információs egység a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Nemzeti Információs Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
 
-(7) Ha a Nemzeti Információs Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (1) bekezdés f) pontjában meghatározottak szerint jár el.
+(7) Ha az utasadat-információs egység az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (1) bekezdés f) pontjában meghatározottak szerint jár el.
 
-(8) A Nemzeti Információs Központ az átvett légiutas-adatot a Nemzeti Információs Központhoz érkezést követő öt évig kezeli.
+(8) Az utasadat-információs egység az átvett légiutas-adatot az utasadat-információs egységhez érkezést követő öt évig kezeli.
 
-(9) A légiutas-adat szolgáltatója által szolgáltatott légiutas-adatot a Nemzeti Információs Központhoz érkezést követő 6 hónap elteltével az alábbi adatelemek elrejtése útján személyazonosításra alkalmatlanná kell tenni:
+(9) A légiutas-adat szolgáltatója által szolgáltatott légiutas-adatot az utasadat-információs egységhez érkezést követő 6 hónap elteltével az alábbi adatelemek elrejtése útján személyazonosításra alkalmatlanná kell tenni:
 
 - a) az utas neve, beleértve a 2016/681/EU parlamenti és tanács irányelv szerinti megosztott/kettős utas-nyilvántartási információt, valamint az egy utas-nyilvántartási adathoz kapcsolódó utazók számát, ezek neveit,
 - b) az utas által közölt kapcsolattartási adatok, különösen az utas és a vele utazók lakó- és tartózkodási helyének címe, telefonszámaik, e-mail címeik,
@@ -953,7 +953,7 @@ szerzi be.
 
 (9a)
 
-(10) A Nemzeti Információs Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések, valamint elveszett, eltulajdonított úti okmányok hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+(10) Az utasadat-információs egység a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések, valamint elveszett, eltulajdonított úti okmányok hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
 
 (11)
 
@@ -961,39 +961,39 @@ szerzi be.
 
 (13)
 
-52/I. § (1) A Nemzeti Információs Központ az Európai Unió tagállamainak utasadat-információs egységei, az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt légiutas-adatot, továbbá azok kezelésének eredményét.
+52/I. § (1) Az utasadat-információs egység az Európai Unió tagállamainak utasadat-információs egységei, az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt légiutas-adatot, továbbá azok kezelésének eredményét.
 
-(2) A Nemzeti Információs Központ, valamint a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság az Európai Unió tagállamainak utasadat-információs egységeitől, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetektől és adatkezelési rendszerektől az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel vehet át légiutas-adatot, továbbá azok kezelésének eredményét.
+(2) Az utasadat-információs egység, valamint a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság az Európai Unió tagállamainak utasadat-információs egységeitől, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetektől és adatkezelési rendszerektől az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel vehet át légiutas-adatot, továbbá azok kezelésének eredményét.
 
-(3) Ha a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság a (2) bekezdés szerint az Európai Unió tagállamainak utasadat-információs egységeitől vesz át légiutas-adatot, továbbá azok kezelésének eredményét, erről a Nemzeti Információs Központot értesíti.
+(3) Ha a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság a (2) bekezdés szerint az Európai Unió tagállamainak utasadat-információs egységeitől vesz át légiutas-adatot, továbbá azok kezelésének eredményét, erről az utasadat-információs egységet értesíti.
 
-(4) A Nemzeti Információs Központ harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át légiutas-adatot.
+(4) Az utasadat-információs egység harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át légiutas-adatot.
 
-(5) A Nemzeti Információs Központ harmadik ország részére – a 2008/977/IB kerethatározat 13. cikkében foglalt feltételek teljesülésével – kizárólag a 3. számú mellékletnek megfelelő bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából, nemzetközi szerződés alapján, az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt légiutas-adatot, feltéve hogy
+(5) Az utasadat-információs egység harmadik ország részére – a 2008/977/IB kerethatározat 13. cikkében foglalt feltételek teljesülésével – kizárólag a 3. számú mellékletnek megfelelő bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából, nemzetközi szerződés alapján, az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt légiutas-adatot, feltéve hogy
 
 - a) a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása,
 - b) – az Európai Unió más tagállamtól származó légiutas-adat esetén, a (7) bekezdésben meghatározott kivétellel – a tagállam, amelytől a légiutas-adat származik, előzetesen hozzájárult a légiutas-adatok harmadik országnak történő átadásához.
 
-(6) Ha az (5) bekezdés a) pontja szerint kért légiutas-adatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Nemzeti Információs Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot, ha a kérelem megalapozott és az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, feltéve, hogy az ügyészség a légiutas-adatok újbóli személyazonosításra alkalmassá tételét követő átadására engedélyt adott. Az ügyészség engedélyének beszerzésére vonatkozóan az 52/L. §-t kell megfelelően alkalmazni.
+(6) Ha az (5) bekezdés a) pontja szerint kért légiutas-adatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, az utasadat-információs egység csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot, ha a kérelem megalapozott és az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, feltéve, hogy az ügyészség a légiutas-adatok újbóli személyazonosításra alkalmassá tételét követő átadására engedélyt adott. Az ügyészség engedélyének beszerzésére vonatkozóan az 52/L. §-t kell megfelelően alkalmazni.
 
 (7) Az Európai Unió más tagállamától származó légiutas-adat harmadik ország részére történő átadásához nem szükséges a másik tagállam előzetes hozzájárulása, ha
 
 - a) a 3. számú mellékletnek megfelelő bűncselekménnyel kapcsolatos, valamely tagállamot vagy harmadik országot érintő konkrét és tényleges fenyegetés elhárításához elengedhetetlen és
 - b) az előzetes hozzájárulás kellő időben nem szerezhető be.
 
-(8) A (7) bekezdés szerinti halaszthatatlan esetben értesíteni kell a Nemzeti Információs Központ belső adatvédelmi felelősét.
+(8) A (7) bekezdés szerinti halaszthatatlan esetben értesíteni kell az utasadat-információs egység belső adatvédelmi felelősét.
 
-(9) A Nemzeti Információs Központ harmadik ország által történő megkeresés esetén felhatalmazást adhat a harmadik országnak arra, hogy a részére nemzetközi szerződés alapján a Nemzeti Információs Központ által átadott adatokat másik harmadik ország felé a 3. számú mellékletnek megfelelő, nemzetközi szerződésben meghatározott súlyos bűncselekmények megelőzése, felderítése, nyomozása, üldözése céljából átadja, ha az adatok továbbítása ezen bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából feltétlenül szükséges.
+(9) Az utasadat-információs egység harmadik ország által történő megkeresés esetén felhatalmazást adhat a harmadik országnak arra, hogy a részére nemzetközi szerződés alapján az utasadat-információs egység által átadott adatokat másik harmadik ország felé a 3. számú mellékletnek megfelelő, nemzetközi szerződésben meghatározott súlyos bűncselekmények megelőzése, felderítése, nyomozása, üldözése céljából átadja, ha az adatok továbbítása ezen bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából feltétlenül szükséges.
 
-52/J. § (1) A Nemzeti Információs Központ az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és az 52/H. § szerinti elemző-értékelő tevékenység, vagy az 52/N. §-a szerinti kockázatelemző tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, a Nemzeti Információs Központ az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából, továbbá a Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (4) bekezdése szerint kezelt adatokból.
+52/J. § (1) Az utasadat-információs egység az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és az 52/H. § szerinti elemző-értékelő tevékenység, vagy az 52/N. §-a szerinti kockázatelemző tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, az utasadat-információs egység az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából, továbbá a Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (4) bekezdése szerint kezelt adatokból.
 
-(2) A Nemzeti Információs Központ az (1) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor, – az 52/H. § szerinti elemző-értékelő tevékenység befejezését vagy a (3) bekezdésben foglalt adatátadást követően haladéktalanul törli.
+(2) Az utasadat-információs egység az (1) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor, – az 52/H. § szerinti elemző-értékelő tevékenység befejezését vagy a (3) bekezdésben foglalt adatátadást követően haladéktalanul törli.
 
-(3) A Nemzeti Információs Központ az 52/H. § (7) bekezdése szerinti esetben – ha az (1) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – az (1) bekezdés alapján átvett adatot is átadja.
+(3) Az utasadat-információs egység az 52/H. § (7) bekezdése szerinti esetben – ha az (1) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – az (1) bekezdés alapján átvett adatot is átadja.
 
-52/K. § A Nemzeti Információs Központtól a 30/A. § a)–f) pontjában meghatározott együttműködő szervek, valamint a büntetőeljárás során az ügyészség, illetve az 52/L. § (2) bekezdése szerint a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
+52/K. § Az utasadat-információs egységtől a 30/A. § a)–f) pontjában meghatározott együttműködő szervek, valamint a büntetőeljárás során az ügyészség, illetve az 52/L. § (2) bekezdése szerint a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
 
-52/L. § (1) Ha a légiutas-adatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Nemzeti Információs Központ
+52/L. § (1) Ha a légiutas-adatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, az utasadat-információs egység
 
 - a) a büntetőeljárás során eljáró bíróság kivételével az 52/K. §-ban meghatározott szervek,
 - b) az Európai Unió tagállamainak utasadat-információs egységei, valamint
@@ -1001,17 +1001,17 @@ szerzi be.
 
 indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot, ha az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, és az ügyészség az újból személyazonosításra alkalmassá tett légiutas-adat átadására engedélyt adott.
 
-(2) A büntetőeljárás során eljáró bíróság megkeresése esetén az ügyészség engedélyét nem kell kérni, a Nemzeti Információs Központ az 52/K. §-ban meghatározott feltételek esetén átadja a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot.
+(2) A büntetőeljárás során eljáró bíróság megkeresése esetén az ügyészség engedélyét nem kell kérni, az utasadat-információs egység az 52/K. §-ban meghatározott feltételek esetén átadja a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot.
 
 (3) Az engedélyezésről a legfőbb ügyész által kijelölt ügyészi szerv dönt.
 
-(4) Az (1) bekezdésben meghatározott megkeresés esetén a megkeresésben kért, az adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatokat a Nemzeti Információs Központ az engedélyezés érdekében, ideiglenesen személyazonosításra újból alkalmassá teszi.
+(4) Az (1) bekezdésben meghatározott megkeresés esetén a megkeresésben kért, az adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatokat az utasadat-információs egység az engedélyezés érdekében, ideiglenesen személyazonosításra újból alkalmassá teszi.
 
-(5) Az (1) bekezdés szerinti megkeresést az ott meghatározott szervek a Nemzeti Információs Központnak küldik meg. A Nemzeti Információs Központ a megkeresést három munkanapon belül megküldi az ügyészségnek. Az ügyészség a Nemzeti Információs Központ előterjesztése alapján öt munkanapon belül dönt az adattovábbítás engedélyezéséről.
+(5) Az (1) bekezdés szerinti megkeresést az ott meghatározott szervek az utasadat-információs egységnek küldik meg. Az utasadat-információs egység a megkeresést három munkanapon belül megküldi az ügyészségnek. Az ügyészség az utasadat-információs egység előterjesztése alapján öt munkanapon belül dönt az adattovábbítás engedélyezéséről.
 
-(6) Ha az ügyészségi engedélyezés olyan késedelemmel járna, amely az adattovábbítással elérni kívánt célt jelentősen veszélyeztetné, az (1) bekezdésben meghatározott szerv erre vonatkozó kifejezett és megalapozott kérelmére a Nemzeti Információs Központ az ügyészség döntését megelőzően átadhatja a kért utasadatot. Ha az ügyészség a megkeresés teljesítésére utóbb nem ad engedélyt, a megkeresés alapján korábban átadott utasadatokat törölni kell. Ha az ügyészség a megkeresés teljesítésére nem ad engedélyt, ugyanazon szerv kérelmére, ugyanabból a célból, változatlan indok alapján ismételten nem adhatóak át az utasadatok az ügyészség engedélyét megelőzően.
+(6) Ha az ügyészségi engedélyezés olyan késedelemmel járna, amely az adattovábbítással elérni kívánt célt jelentősen veszélyeztetné, az (1) bekezdésben meghatározott szerv erre vonatkozó kifejezett és megalapozott kérelmére az utasadat-információs egység az ügyészség döntését megelőzően átadhatja a kért utasadatot. Ha az ügyészség a megkeresés teljesítésére utóbb nem ad engedélyt, a megkeresés alapján korábban átadott utasadatokat törölni kell. Ha az ügyészség a megkeresés teljesítésére nem ad engedélyt, ugyanazon szerv kérelmére, ugyanabból a célból, változatlan indok alapján ismételten nem adhatóak át az utasadatok az ügyészség engedélyét megelőzően.
 
-(7) A Nemzeti Információs Központ az (1) bekezdés szerinti egyedi engedély alapján továbbított adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
+(7) Az utasadat-információs egység az (1) bekezdés szerinti egyedi engedély alapján továbbított adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
 
 - a) a személyazonosításra újból alkalmassá tett adatok közlésének rövid indokolását,
 - b) a személyazonosításra újból alkalmassá tett adatok közlésének időpontját,
@@ -1020,25 +1020,25 @@ indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazono
 
 (8) A (7) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett légiutas-adatokkal azonos ideig kell megőrizni, és a légiutas-adatokkal egyidejűleg törölni kell.
 
-52/M. § A Nemzeti Információs Központ évente, jogszabályban meghatározottak szerint az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott légiutas-adatokról összeállított statisztikai információkat; ezek az információk személyes adatokat nem tartalmazhatnak.
+52/M. § Az utasadat-információs egység évente, jogszabályban meghatározottak szerint az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott légiutas-adatokról összeállított statisztikai információkat; ezek az információk személyes adatokat nem tartalmazhatnak.
 
-52/N. § (1) A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében átveszi és kezeli a hajó felelős vezetője vagy az úszólétesítmény üzemben tartója által a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettség teljesítése érdekében biztosított elektronikus felületen rögzített adatokat (a továbbiakban: folyami utasadatok).
+52/N. § (1) Az utasadat-információs egység a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében átveszi és kezeli a hajó felelős vezetője vagy az úszólétesítmény üzemben tartója által a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettség teljesítése érdekében biztosított elektronikus felületen rögzített adatokat (a továbbiakban: folyami utasadatok).
 
 (2) A folyami utasadatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
 
 (3) A folyami utasadatok tekintetében az 52/H. § (6)–(8) és (10) bekezdését, valamint az 52/L. §-át alkalmazni kell azzal, hogy a légiutas-adaton a folyami utasadatot kell érteni.
 
-(4) Ha a Nemzeti Információs Központ utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és a (3) bekezdéssel alkalmazni rendelt 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, a Nemzeti Információs Központ az érintett személy azonosítása céljából adatot igényelhet a Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (4) bekezdése alapján átvett adatokat tartalmazó nyilvántartásából.
+(4) Ha az utasadat-információs egység utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és a (3) bekezdéssel alkalmazni rendelt 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, az utasadat-információs egység az érintett személy azonosítása céljából adatot igényelhet a Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (4) bekezdése alapján átvett adatokat tartalmazó nyilvántartásából.
 
-(5) A Nemzeti Információs Központ a (4) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor – az elemző-értékelő tevékenység befejezését vagy a (6) bekezdésben foglalt adatátadást követően haladéktalanul törli.
+(5) Az utasadat-információs egység a (4) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor – az elemző-értékelő tevékenység befejezését vagy a (6) bekezdésben foglalt adatátadást követően haladéktalanul törli.
 
-(6) A Nemzeti Információs Központ a (3) bekezdéssel alkalmazni rendelt 52/H. § (7) bekezdése szerinti esetben – ha a (4) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – a (4) bekezdés alapján átvett adatot is átadja.
+(6) Az utasadat-információs egység a (3) bekezdéssel alkalmazni rendelt 52/H. § (7) bekezdése szerinti esetben – ha a (4) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – a (4) bekezdés alapján átvett adatot is átadja.
 
-(7) A Nemzeti Információs Központtól a 30/A. § a)–f) pontjában meghatározott együttműködő szerv, valamint a büntetőeljárás során az ügyészség, illetve a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak folyami utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
+(7) Az utasadat-információs egységtől a 30/A. § a)–f) pontjában meghatározott együttműködő szerv, valamint a büntetőeljárás során az ügyészség, illetve a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak folyami utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
 
-(8) A Nemzeti Információs Központ az általa átvett folyami utasadatokat az átvételtől számított 6 hónap elteltével az egyes adatelemek elrejtése útján személyazonosításra alkalmatlanná teszi.
+(8) Az utasadat-információs egység az általa átvett folyami utasadatokat az átvételtől számított 6 hónap elteltével az egyes adatelemek elrejtése útján személyazonosításra alkalmatlanná teszi.
 
-52/O. § (1) A személyes adatokkal elektronikus úton végzett adatkezelési műveletek jogszerűségének ellenőrizhetősége, valamint a személyes adatok integritásának és biztonságának biztosítása céljából a Nemzeti Információs Központ automatizált adatkezelési rendszerben (a továbbiakban: naplórendszer) rögzíti a folyami utasadatokkal végzett adatkezelési művelettel összefüggő információkat.
+52/O. § (1) A személyes adatokkal elektronikus úton végzett adatkezelési műveletek jogszerűségének ellenőrizhetősége, valamint a személyes adatok integritásának és biztonságának biztosítása céljából az utasadat-információs egység automatizált adatkezelési rendszerben (a továbbiakban: naplórendszer) rögzíti a folyami utasadatokkal végzett adatkezelési művelettel összefüggő információkat.
 
 (2) A naplórendszerben történik a folyami utasadatok kezelését támogató informatikai alkalmazásban végzett adatkezelési műveletre vonatkozó eseményt leíró információk (a továbbiakban: naplóbejegyzés) gyűjtése.
 
@@ -1055,9 +1055,9 @@ indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazono
 
 (5) A naplórendszerben rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, büntetőeljárás lefolytatása céljából, törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági és bűnmegelőzési ellenőrzési célból ismerhetőek meg és használhatóak fel.
 
-(6) A naplórendszerből a Nemzeti Adatvédelmi és Információszabadság Hatóság, továbbá az (5) bekezdésben meghatározott célból jogszabályban meghatározott tevékenységet folytató személy és szervezet részére – azok erre irányuló kérelmére – a Nemzeti Információs Központ adatot továbbít. A Nemzeti Információs Központ a naplórendszerből történő adatszolgáltatást is naplózza.
+(6) A naplórendszerből a Nemzeti Adatvédelmi és Információszabadság Hatóság, továbbá az (5) bekezdésben meghatározott célból jogszabályban meghatározott tevékenységet folytató személy és szervezet részére – azok erre irányuló kérelmére – az utasadat-információs egység adatot továbbít. Az utasadat-információs egység a naplórendszerből történő adatszolgáltatást is naplózza.
 
-(7) A naplórendszert a Nemzeti Információs Központ a jogosulatlan hozzáféréstől védi.
+(7) A naplórendszert az utasadat-információs egység a jogosulatlan hozzáféréstől védi.
 
 (8) A naplórendszerben a naplóbejegyzések megőrzési ideje annak keletkezésétől számított tíz év. A megőrzési idő leteltét követően a naplóbejegyzést haladéktalanul törölni kell, kivéve, ha már megkezdett ellenőrzési eljáráshoz van szükség a naplóbejegyzésre. Ebben az esetben az eljárás lezárultát követően kell a törlést végrehajtani.
 
@@ -1635,8 +1635,8 @@ iránt intézkedik.
 
 (1b) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben szabályozza
 
-- a) a Nemzeti Információs Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját, valamint
-- b) a Nemzeti Információs Központ által az Európai Bizottság részére történő adatszolgáltatás részletes szabályait és a statisztikai adatok körét.
+- a) az utasadat-információs egység és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját, valamint
+- b) az utasadat-információs egység által az Európai Bizottság részére történő adatszolgáltatás részletes szabályait és a statisztikai adatok körét.
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 

@@ -29,18 +29,26 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 7. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
 - a)
-- b)
-- c)
+- b) 24. § (1) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- c) 28/B. § (2) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg
+
+lép.
 
 #### 7. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
 #### 8. §
 
-#### 8.
+#### 8. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-#### 9. §
+9. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (3a) bekezdése helyébe a következő rendelkezés lép:
 
-#### 10. §
+„(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat az utasadat-információs egység – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, ha az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülnek –, valamint a Nemzeti Információs Központ – elemzés-értékelés, továbbá hírigény teljesítése céljából – a konkrét cél megjelölésével átveheti.”
+
+(2) A Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A (4) bekezdés szerint a rendőrség által kezelt adatok (7) bekezdés szerinti nyilvántartásában kezelt adatokat az utasadat-információs egység – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, ha az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülnek –, valamint a Nemzeti Információs Központ – elemzés-értékelés, továbbá hírigény teljesítése céljából – a konkrét cél megjelölésével átveheti.”
+
+10. § A Rendőrségről szóló 1994. évi XXXIV. törvény 91/E. § (5) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg és a „kockázatelemzése, elemzés-értékelés” szövegrész helyébe a „kockázatelemzése, valamint a Nemzeti Információs Központ elemzés-értékelés készítése” szöveg lép.
 
 #### 9. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
@@ -54,9 +62,15 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 13. §
 
-#### 12.
+#### 12. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-#### 14. §
+14. § A légiközlekedésről szóló 1995. évi XCVII. törvény
+
+- a) 27/C. § (2b) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- b) 27/C. § (5) bekezdés a) pontjában az „a Nemzeti Információs Központnak” szövegrész helyébe az „az utasadat-információs egységnek” szöveg,
+- c) 27/C. § (5) bekezdés b) pontjában az „a Nemzeti Információs Központ egyedi megkeresése alapján a” szövegrész helyébe az „az utasadat-információs egység egyedi megkeresése alapján az utasadatok kockázatelemzése, valamint a Nemzeti Információs Központ egyedi megkeresése alapján a” szöveg
+
+lép.
 
 #### 13. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
@@ -114,46 +128,46 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 - 16.
 - 17.
 - 18.
-- 19.
-- 20.
+- 19. 52/H. § (1) bekezdésében az „A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében a” szövegrész helyébe az „Az utasadat-információs egység a” szöveg,
+- 20. 52/H. § (3) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
 - 21.
-- 22.
-- 23.
-- 24.
+- 22. 52/H. § (4) bekezdés nyitó szövegrészében az „A Nemzeti Információs Központ a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 23. 52/H. § (5) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 24. 52/H. § (6) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
 - 25.
-- 26.
-- 27.
-- 28.
-- 29.
-- 30.
-- 31.
-- 32.
-- 33.
-- 34.
-- 35.
-- 36.
-- 37.
-- 38.
-- 39.
-- 40.
-- 41.
-- 42.
-- 43.
-- 44.
-- 45.
-- 46.
-- 47.
-- 48.
+- 26. 52/H. § (7) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 27. 52/H. § (8) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg és az „a Nemzeti Információs Központhoz” szövegrész helyébe az „az utasadat-információs egységhez” szöveg,
+- 28. 52/H. § (9) bekezdés nyitó szövegrészében az „a Nemzeti Információs Központhoz” szövegrész helyébe az „az utasadat-információs egységhez” szöveg,
+- 29. 52/H. § (10) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 30. 52/I. § (1) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 31. 52/I. § (2) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 32. 52/I. § (3) bekezdésében az „a Nemzeti Információs Központot” szövegrész helyébe az „az utasadat-információs egységet” szöveg,
+- 33. 52/I. § (4) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 34. 52/I. § (5) bekezdés nyitó szövegrészében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 35. 52/I. § (6) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 36. 52/I. § (8) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 37. 52/I. § (9) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg és az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 38. 52/J. § (1) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg és az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 39. 52/J. § (2) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 40. 52/J. § (3) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 41. 52/K. §-ában az „A Nemzeti Információs Központtól” szövegrész helyébe az „Az utasadat-információs egységtől” szöveg,
+- 42. 52/L. § (1) bekezdés nyitó szövegrészében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 43. 52/L. § (2) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 44. 52/L. § (4) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 45. 52/L. § (5) bekezdésében az „a Nemzeti Információs Központnak” szövegrész helyébe az „az utasadat-információs egységnek” szöveg, az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg és az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 46. 52/L. § (6) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 47. 52/L. § (7) bekezdés nyitó szövegrészében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 48. 52/M. §-ában az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
 - 49.
-- 50.
-- 51.
-- 52.
-- 53.
-- 54.
-- 55.
-- 56.
-- 57.
-- 58.
+- 50. 52/N. § (1) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 51. 52/N. § (4) bekezdésében az „a Nemzeti Információs Központ” szövegrészek helyébe az „az utasadat-információs egység” szöveg,
+- 52. 52/N. § (5) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 53. 52/N. § (6) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 54. 52/N. § (7) bekezdésében az „A Nemzeti Információs Központtól” szövegrész helyébe az „Az utasadat-információs egységtől” szöveg,
+- 55. 52/N. § (8) bekezdésében az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 56. 52/O. § (1) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 57. 52/O. § (6) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg és az „A Nemzeti Információs Központ” szövegrész helyébe az „Az utasadat-információs egység” szöveg,
+- 58. 52/O. § (7) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
 - 59.
 - 60.
 - 61.
@@ -161,8 +175,10 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 - 63.
 - 64.
 - 65.
-- 66.
-- 67.
+- 66. 78. § (1b) bekezdés a) pontjában az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg,
+- 67. 78. § (1b) bekezdés b) pontjában az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg
+
+lép.
 
 #### 32. §
 
@@ -205,7 +221,9 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 43. § A külföldre utazásról szóló 1998. évi XII. törvény
 
 - a)
-- b)
+- b) 27. § (1b) bekezdésében az „a Nemzeti Információs Központnak” szövegrész helyébe az „az utasadat-információs egységnek” szöveg, a „kockázatelemzése, elemző-értékelő tevékenység, valamint” szövegrész helyébe a „kockázatelemzése, valamint a Nemzeti Információs Központnak elemző-értékelő tevékenység vagy” szöveg
+
+lép.
 
 #### 23. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
@@ -219,9 +237,11 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 46. §
 
-#### 26.
+#### 26. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-#### 47. §
+47. § A víziközlekedésről szóló 2000. évi XLII. törvény 48/A. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A hajó felelős vezetője vagy az úszólétesítmény üzemben tartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettségét a folyami információs szolgáltatások központ által üzemeltetett elektronikus felület használatával is teljesítheti. A folyami információs szolgáltatások központ az előzetes tájékoztatási kötelezettség keretében szolgáltatott adatokkal – a hatósági feladatok végrehajtásának biztosítása céljából – adatfeldolgozási tevékenységet végez. Az utasadat-információs egység a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény szerint terrorista és súlyos bűncselekmények megelőzése, felderítése, nyomozása és üldözése, valamint az utasadatok kockázatelemzése, továbbá a Nemzeti Információs Központ az elemző-értékelő tevékenység, valamint hírigény teljesítése céljából a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (3) bekezdésében meghatározott feladatai ellátása érdekében az előzetes tájékoztatási kötelezettség keretében szolgáltatott személyes adatokat a folyami információs szolgáltatások központ által üzemeltetett elektronikus felülethez történő hozzáféréssel közvetlen elektronikus adatkapcsolat útján átveheti.”
 
 #### 27. A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény módosítása
 
@@ -241,13 +261,13 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 52. §
 
-#### 31.
+#### 31. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-#### 53. §
+53. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 81. § (2a) bekezdésében az „a Nemzeti Információs Központnak” szövegrész helyébe az „az utasadat-információs egységnek” szöveg és az „elemzés-értékelés” szövegrész helyébe az „a Nemzeti Információs Központnak elemzés-értékelés” szöveg lép.
 
-#### 32.
+#### 32. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-#### 54. §
+54. § A menedékjogról szóló 2007. évi LXXX. törvény 87. § (1a) bekezdésében az „a Nemzeti Információs Központ” szövegrész helyébe az „az utasadat-információs egység” szöveg és az „elemzés-értékelés” szövegrész helyébe az „a Nemzeti Információs Központ elemzés-értékelés” szöveg lép.
 
 #### 33. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
@@ -261,9 +281,17 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 35. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-58. § (1)
+58. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
 
-(2)
+[Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni]
+
+„g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés a), c), h) és k) pontjában, valamint 8/A. § (3) bekezdésében meghatározott feladatai ellátása céljából,”
+
+(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (1) bekezdése a következő i) ponttal egészül ki:
+
+[Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni]
+
+„i) az utasadat-információs egység az utasadatok kockázatelemzése céljából.”
 
 (3)
 
@@ -275,11 +303,15 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 60. §
 
-#### 38.
+#### 38. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-#### 61. §
+61. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 76. § (2) bekezdése a következő j) ponttal egészül ki:
 
-#### 62. §
+[A NAV bűnüldözési célú adatkezelési rendszereiben szereplő adatokról az (1) bekezdésben foglaltakon kívül, törvényben meghatározott feladataik teljesítése érdekében, a cél megjelölésével adatszolgáltatást kérhet:]
+
+„j) az utasadat-információs egység az utasadatok kockázatelemzése céljából.”
+
+62. § Hatályát veszti a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 76. § (2) bekezdés i) pontjában a „valamint az utasadatok kockázatelemzése céljából.” szövegrész.
 
 #### 39. A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény módosítása
 
@@ -331,11 +363,15 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 76. §
 
-#### 50.
+#### 50. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-#### 77. §
+77. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 10. § (1) bekezdése a következő l) ponttal egészül ki:
 
-#### 78. §
+(A nyilvántartásból közvetlen hozzáféréssel a nyilvántartásban kezelt adatok teljes körét jogosult átvenni)
+
+„l) az utasadat-információs egység az utasadatok kockázatelemzése céljából.”
+
+78. § Hatályát veszti a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 10. § (1) bekezdés i) pontjában az „az utasadatok kockázatelemzése,” szövegrész.
 
 #### 51. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
@@ -493,7 +529,9 @@ a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásá
 
 #### 75. A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény módosítása
 
-#### 132. §
+132. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 273. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból az utasadat-információs egységnek az utasadatok kockázatelemzéséhez, valamint a Nemzeti Információs Központnak elemzés-értékelés készítéséhez és hírigény teljesítéséhez továbbíthat adatot.”
 
 #### 133. §
 

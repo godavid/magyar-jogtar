@@ -409,7 +409,7 @@ lajstromban tartja nyilván.
 
 (7) A hajózási hatóság a képzőszerv engedélyét visszavonhatja, továbbá jogsértés esetén a képzőszervet a tevékenység végzésétől eltilthatja. Az eltiltás legfeljebb 6 hónapig tarthat.
 
-26/B. § (1) A hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott vizsgát – jogszabály eltérő rendelkezése hiányában – a vizsgaközpont vizsgaszabályzata szerint kell lefolytatni. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+26/B. § (1) E törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott vizsgát a vizsgaközpont vizsgaszabályzata vagy képzőszervek által rendezett vizsga esetén a hajózási hatóság által kibocsátott vizsgaszabályzat szerint kell lefolytatni. A vizsgán vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, összeférhetetlenségtől mentes, független és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
 (2) A hajózási hatóság a vizsgabiztosokról Vizsgabiztosi Névjegyzéket (a továbbiakban e § alkalmazásában: névjegyzék) vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az alábbi adatokat:
 
@@ -737,7 +737,9 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 (1a) Azt az egészségileg alkalmas személyt, aki az alap biztonsági kompetenciákat megszerezte és tengeren közlekedő úszólétesítményen teljesít szolgálatot, vagy szolgálatot kíván teljesíteni – kérelmére – a vizsgaközpont tengerész szolgálati könyvvel látja el.
 
-(2) Magyar lobogó alatt közlekedő úszólétesítményen szolgálat csak szolgálati könyv birtokában látható el.
+(2) Magyar lobogó alatt közlekedő úszólétesítményen – a (2a) bekezdésben foglalt kivétellel – szolgálat csak érvényes szolgálati könyv birtokában látható el.
+
+(2a) A hivatásos hajós képesítésekről szóló miniszteri rendelet hatálya alá nem tartozó úszólétesítmény személyzete részére hajós szolgálati könyv nem kötelező.
 
 (3) A kiadott szolgálati könyvekről a kiadó hajózási hatóság nyilvántartást vezet, amely nyilvántartás a hajón töltött szolgálati időre, a beosztásra és az egészségügyi alkalmasságra vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -784,7 +786,7 @@ kezeli.
 
 (6b) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat a tengerész munkaközvetítő vagy a tengerész kölcsönbeadó nyilvántartásból való törlését követő két évig kezeli.
 
-(7) A hajó felelős vezetője vagy az úszólétesítmény üzemben tartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettségét a folyami információs szolgáltatások központ által üzemeltetett elektronikus felület használatával is teljesítheti. A folyami információs szolgáltatások központ az előzetes tájékoztatási kötelezettség keretében szolgáltatott adatokkal – a hatósági feladatok végrehajtásának biztosítása céljából – adatfeldolgozási tevékenységet végez. A Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény szerint terrorista és súlyos bűncselekmények megelőzése, felderítése, nyomozása és üldözése, elemző-értékelő tevékenység, valamint hírigény teljesítése céljából a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (3) és (4) bekezdésében meghatározott feladatai ellátása érdekében az előzetes tájékoztatási kötelezettség keretében szolgáltatott személyes adatokat a folyami információs szolgáltatások központ által üzemeltetett elektronikus felülethez történő hozzáféréssel közvetlen elektronikus adatkapcsolat útján átveheti.
+(7) A hajó felelős vezetője vagy az úszólétesítmény üzemben tartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettségét a folyami információs szolgáltatások központ által üzemeltetett elektronikus felület használatával is teljesítheti. A folyami információs szolgáltatások központ az előzetes tájékoztatási kötelezettség keretében szolgáltatott adatokkal – a hatósági feladatok végrehajtásának biztosítása céljából – adatfeldolgozási tevékenységet végez. Az utasadat-információs egység a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény szerint terrorista és súlyos bűncselekmények megelőzése, felderítése, nyomozása és üldözése, valamint az utasadatok kockázatelemzése, továbbá a Nemzeti Információs Központ az elemző-értékelő tevékenység, valamint hírigény teljesítése céljából a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (3) bekezdésében meghatározott feladatai ellátása érdekében az előzetes tájékoztatási kötelezettség keretében szolgáltatott személyes adatokat a folyami információs szolgáltatások központ által üzemeltetett elektronikus felülethez történő hozzáféréssel közvetlen elektronikus adatkapcsolat útján átveheti.
 
 (8) A hajózási hatóság nyilvántartásából a Bizottság elektronikus adatbázisába a következő adatokat továbbítja:
 
@@ -859,10 +861,11 @@ kezeli.
 
 - a) a nyilvántartásba vételre nem kötelezett úszólétesítményekkel végzett hajózási tevékenységhez,
 - b) a központi költségvetési szervek jogszabályban előírt feladatainak saját eszközökkel való ellátásához,
-- c) vízijármű kedvtelési célú használatához, ide nem értve az oktatási céllal folytatott hajózási tevékenységet,
+- c) vízijármű kedvtelési célú használatához,
 - d) úszómű szálláshelyként vagy kikötő, hajózási létesítmény elemeként történő üzemeltetéséhez, kivéve a gazdasági célból történő üzemeltetést,
 - e) az EGT-államok hajózási hatóságai által kiállított hajózási engedély alapján végzett hajózási tevékenységhez.
 - f) halgazdálkodást támogató hajóval végzett tevékenységhez.
+- g) kishajóval végzett oktatási tevékenységhez.
 
 (3) A hajózási engedélyben meg kell határozni azt a tevékenységet és területet, amelyre az engedély vonatkozik, továbbá a tevékenység folytatásának feltételeit.
 

@@ -498,7 +498,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (1a) Az adatkezelő szerv a 24. § (1) bekezdés d) és h)–k) pontjában meghatározott adatok kivételével a szabálysértési, illetve az előkészítő eljárást folytató hatóságnak adhat át adatot a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
 
-(1b) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat a Nemzeti Információs Központnak az utasadatok kockázatelemzése, elemző-értékelő tevékenység, valamint hírigény teljesítése céljából átadhatja.
+(1b) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat az utasadat-információs egységnek az utasadatok kockázatelemzése, valamint a Nemzeti Információs Központnak elemző-értékelő tevékenység vagy hírigény teljesítése céljából átadhatja.
 
 (1c) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat a körözési nyilvántartó szerv részére az úti okmány adatainak a körözési nyilvántartási rendszerbe rögzítését megelőző ellenőrzése céljából átadhatja.
 

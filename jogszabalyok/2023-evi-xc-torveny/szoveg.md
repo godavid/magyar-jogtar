@@ -3927,7 +3927,7 @@ szerinti állam vonatkozásában.
 
 részére továbbíthat adatot.
 
-273. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból a Nemzeti Információs Központnak az utasadatok kockázatelemzéséhez, elemzés-értékelés készítéséhez, valamint hírigény teljesítéséhez továbbíthat adatot.
+273. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból az utasadat-információs egységnek az utasadatok kockázatelemzéséhez, valamint a Nemzeti Információs Központnak elemzés-értékelés készítéséhez és hírigény teljesítéséhez továbbíthat adatot.
 
 (2) A Nemzetközi Bűnügyi Együttműködési Központ, valamint a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény alapján közvetlen információcserére feljogosított magyar bűnüldöző szerv az EGT-tagállam vagy harmadik ország bűnüldöző szerve részére a bűnüldöző szervek nemzetközi együttműködésének tárgyában létrehozott, törvénnyel kihirdetett nemzetközi szerződés alapján, az abban meghatározott adatkörben és célból az idegenrendészeti résznyilvántartásokból adatot továbbíthat.
 

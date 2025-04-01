@@ -954,8 +954,9 @@ részére tett nyilatkozatával tiltakozzon.
 - d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi feladatai ellátása céljából,
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
 - f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
-- g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés b) pontjában, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (2), (4) és (8) bekezdésében meghatározott feladatai ellátása céljából,
+- g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés a), c), h) és k) pontjában, valamint 8/A. § (3) bekezdésében meghatározott feladatai ellátása céljából,
 - h) az általános rendőri feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személy- és létesítményvédelmi feladatainak ellátása céljából.
+- i) az utasadat-információs egység az utasadatok kockázatelemzése céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 

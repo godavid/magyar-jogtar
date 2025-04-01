@@ -90,13 +90,31 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 37. §
 
-#### 38. §
+38. § A víziközlekedésről szóló 2000. évi XLII. törvény 26/B. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 39. §
+„(1) E törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott vizsgát a vizsgaközpont vizsgaszabályzata vagy képzőszervek által rendezett vizsga esetén a hajózási hatóság által kibocsátott vizsgaszabályzat szerint kell lefolytatni. A vizsgán vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, összeférhetetlenségtől mentes, független és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.”
+
+39. § (1) A víziközlekedésről szóló 2000. évi XLII. törvény 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Magyar lobogó alatt közlekedő úszólétesítményen – a (2a) bekezdésben foglalt kivétellel – szolgálat csak érvényes szolgálati könyv birtokában látható el.”
+
+(2) A víziközlekedésről szóló 2000. évi XLII. törvény 48. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A hivatásos hajós képesítésekről szóló miniszteri rendelet hatálya alá nem tartozó úszólétesítmény személyzete részére hajós szolgálati könyv nem kötelező.”
 
 #### 40. §
 
-#### 41. §
+41. § (1) A víziközlekedésről szóló 2000. évi XLII. törvény 51. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Nem kell hajózási engedély:)
+
+„c) vízijármű kedvtelési célú használatához,”
+
+(2) A víziközlekedésről szóló 2000. évi XLII. törvény 51. § (2) bekezdése a következő g) ponttal egészül ki:
+
+(Nem kell hajózási engedély:)
+
+„g) kishajóval végzett oktatási tevékenységhez.”
 
 #### 42. §
 
