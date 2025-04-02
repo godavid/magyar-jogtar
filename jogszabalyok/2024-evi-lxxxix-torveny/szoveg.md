@@ -280,13 +280,7 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 124. §
 
-125. § A földgázellátásról szóló 2008. évi XL. törvény 118/B. §-a helyébe a következő rendelkezés lép:
-
-„118/B. § (1) A Hivatal a származási garancia elektronikus tárolása és kezelése során tudomására jutott személyes adatok közül kizárólag a nevet és az elektronikus levelezési címet az elektronikus számla megszűnésétől, kapcsolódó származási garanciák felhasználásától, vagy a fel nem használt származási garanciák esetében a származási garanciák érvényességi idejének lejártától számított hat évig a származási garancia ügyletekkel esetlegesen felmerülő vitás kérdések rendezése érdekében megőrzi, ezt követően végérvényesen és hozzáférhetetlen módon törli.
-
-(2) A Hivatal a származási garancia elektronikus tárolása és kezelése során tudomására jutott a személyes adatnak nem minősülő adatokat az elektronikus számla megszűnésétől, a kapcsolódó származási garanciák felhasználásától, vagy a fel nem használt származási garanciák esetében a származási garanciák érvényességi idejének lejártától számított tíz évig a származási garancia ügyletekkel esetlegesen felmerülő vitás kérdések rendezése érdekében megőrzi, ezt követően végérvényesen és hozzáférhetetlen módon törli.
-
-(3) A megújuló vagy alacsony szén-dioxid-kibocsátású gázok energiamennyiségét az értékesítő kizárólag származási garanciával igazolhatja a felhasználó részére.”
+#### 125. §
 
 #### 126. §
 
@@ -304,26 +298,7 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 133. §
 
-134. § A földgázellátásról szóló 2008. évi XL. törvény
-
-- 1.
-- 2. 3. § 54b. pontjában a „gáznak minősül” szövegrész helyébe a „vagy alacsony szén-dioxid-kibocsátású gáz” szöveg,
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
-- 13.
-- 14.
-- 15.
-- 16.
-
-lép.
+#### 134. §
 
 #### 135. §
 
