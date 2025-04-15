@@ -170,6 +170,12 @@ megjelenni.
 
 (5) Ha a gyülekezési hatóság a gyűlés megtartását nem tiltja meg, de a közbiztonság, a közrend, vagy mások jogainak és szabadságának védelme miatt szükséges, a szervező számára határozatban előírja a gyűlés megtartásának feltételeit.
 
+#### 13/A. § [A gyermekek megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz való jogának védelme]
+
+(1) Tilos azt a gyűlést megtartani, amely a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 6/A. §-ában meghatározott tilalmat sérti, vagy a Gyvt. 6/A. § szerinti tilalmazott tartalom lényegi elemét jeleníti meg.
+
+(2) A gyülekezési hatóság a gyűlés megtartását megtiltja, ha az egyeztetést követően rendelkezésre álló információk alapján megalapozottan feltehető, hogy a bejelentés az (1) bekezdésben tilalmazott gyűlés megtartására irányul.
+
 #### 14. § [A nemzetiszocialista vagy kommunista rendszerek áldozatai emlékének védelme]
 
 A gyülekezési hatóság a gyűlés megtartását akkor is megtiltja, ha
@@ -205,7 +211,7 @@ Ha a gyűlés résztvevőinek magatartása a gyűlés törvényességét veszél
 
 - a) azt megtiltó határozat ellenére tartják meg,
 - b) a vezető a 17. § szerinti kötelezettségének, a rendőrség képviselőjének felhívása ellenére nem tesz eleget – ideértve azt is, ha a rendőrség a felhívást a vezetővel személyesen, vagy a bejelentésben, illetve a 11. § (4) bekezdése szerinti határozatban megjelölt elérhetőségen nem tudta közölni,
-- c) azt a tudomásul vett bejelentésben megjelölt helyszíntől, útvonaltól, időponttól, vagy időtartamtól eltérően úgy tartják meg, hogy a gyűlés megtiltásának lett volna helye, vagy
+- c) azt a tudomásul vett bejelentéstől eltérően úgy tartják meg, hogy a gyűlés megtiltásának lett volna helye, vagy
 - d) a gyűlés megtiltásának lett volna helye, de azt a bejelentés hiánya miatt nem tiltotta meg.
 
 (2) A feloszlatás okáról – ha foganatosítását nem veszélyezteti, annak megkezdése előtt – a rendőrség tájékoztatja a gyűlés szervezőjét, illetve vezetőjét.
@@ -260,6 +266,8 @@ a felmerülő költségeket megtéríteni.
 (2) Ha az e törvény hatálybalépése előtt bejelentett gyűlés kezdő időpontja a hatálybalépést követő három hónapon túli időpontra esik, azt a szervezőnek újra be kell jelentenie.
 
 23/A. § A gyülekezési jogról szóló 2018. évi LV. törvénynek a gyermekek védelmével összefüggő, valamint az ehhez kapcsolódó törvények módosításáról szóló 2025. évi III. törvénnyel (a továbbiakban: Módtv.) megállapított 10. § (1) bekezdését a Módtv. hatálybalépésekor folyamatban levő bejelentések, illetve jogorvoslati eljárások tekintetében is alkalmazni kell.
+
+23/B. § A Módtv.-vel megállapított 13/A. §-t a 2025. április 15-én folyamatban levő bejelentések, illetve jogorvoslati eljárások tekintetében is alkalmazni kell.
 
 #### 24. § [Felhatalmazó rendelkezés]
 

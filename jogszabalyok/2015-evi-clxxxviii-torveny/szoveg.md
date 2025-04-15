@@ -65,7 +65,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - r) az elektronikus ügyintézés során a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárásokban a személyazonosság ellenőrzésének támogatása.
 - s) az egészségügyről szóló 1997. évi CLIV. törvény szerinti arcképes azonosításra épülő telemedicina szolgáltatás esetében a beteg azonosítása.
 - u) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 63. §-a szerinti személyazonosság-ellenőrzésének támogatása,
-- w) a szabálysértési elzárással is büntethető szabálysértések megelőzése, megakadályozása, felderítése és a cselekmény megszakítása, valamint az elkövetők felelősségre vonása.
+- w) a szabálysértések megelőzése, megakadályozása, felderítése és a cselekmény megszakítása, valamint az elkövetők felelősségre vonása.
 
 (4) A jogosultsági nyilvántartás vezetésének a célja az igénybevételre jogosult szerv, a hozzáférésre felhatalmazott személy, valamint a központi szervnek az arcképelemző rendszer működtetésére jogosult tagja arckép profil nyilvántartáshoz való hozzáféréséhez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.
 
@@ -252,7 +252,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (17) A 3. § (3) bekezdés o) pontjában meghatározott célból jogosult az állampolgársági ügyekben eljáró szerv a magyar állampolgárság megszerzésére irányuló eljárás során a kérelmező személyazonosságának megállapítása, valamint ellenőrzése érdekében az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni.
 
-(18) A 3. § (3) bekezdés w) pontjában meghatározott célból jogosult a bíróság, az előkészítő eljárást lefolytató szerv a szabálysértési elzárással is büntethető szabálysértés esetén folytatott eljárásban a rendelkezésére álló vagy általa rögzített arcképmás felhasználásával a szabálysértési elzárással is büntethető szabálysértést elkövető személyazonosságának megállapítása, valamint ellenőrzése érdekében az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni.
+(18) A 3. § (3) bekezdés w) pontjában meghatározott célból jogosult a bíróság, a szabálysértési hatóság és az előkészítő eljárást folytató szerv szabálysértés esetén folytatott eljárásban a rendelkezésére álló vagy általa rögzített arcképmás felhasználásával szabálysértést elkövető személyazonosságának megállapítása, valamint ellenőrzése érdekében az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni.
 
 9/A. § (1) A 3. § (3) bekezdés p) és w) pontjában meghatározott célból jogosult az általános rendőrségi feladatok ellátására létrehozott szerv eljárása során az általa rögzített arcképmás felhasználásával az elkövető vagy az Rtv. 29. §-a alapján igazoltatott személy személyazonosságának megállapítása, valamint ellenőrzése érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
 
@@ -332,7 +332,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (11) Az arcképelemző tevékenységet végző szerv az általa képzett arckép profilt az (5) bekezdés szerinti kiértékelést követően haladéktalanul törli.
 
-#### 9/A. Személyazonosság megállapításának, ellenőrzésének támogatása rendőri intézkedés vagy szabálysértési elzárással is büntethető szabálysértés esetén folytatott eljárás során automatizált összehasonlítás igénybevételével
+#### 9/A. Személyazonosság megállapításának, ellenőrzésének támogatása rendőri intézkedés vagy szabálysértés esetén folytatott eljárás során automatizált összehasonlítás igénybevételével
 
 12/A. § (1) A központi szerv az általános rendőrségi feladatok ellátására létrehozott szerv által a 3. § (3) bekezdés p) és w) pontjában meghatározott célból a részére automatizált eljárásban, rendszer-rendszer kapcsolat útján továbbított arcképmásból arckép profilt képez. Amennyiben az átadott arcképmásból arckép profil nem képezhető, a központi szerv ennek tényéről az általános rendőrségi feladatok ellátására létrehozott szervet haladéktalanul tájékoztatja.
 
