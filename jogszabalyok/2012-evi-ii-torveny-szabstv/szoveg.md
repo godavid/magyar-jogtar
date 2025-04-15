@@ -662,6 +662,8 @@ jelöli ki.
 
 (4) Ha az adatigénylés nem vezetett az eljárás alá vont személy vagy tanú feltalálásához, a bíróság, a szabálysértési hatóság az eljárás alá vont személy vagy tanú utolsó ismert lakóhelye vagy tartózkodási helye szerint illetékes rendőri szerv közreműködését kéri. A megkeresett rendőri szerv jogosult felvilágosítást kérni az eljárás alá vont személy vagy tanú hollétéről az utolsó ismert lakóhelyén vagy tartózkodási helyén. Amennyiben a megkeresett rendőri szervnek hivatalból tudomása van a keresett személy lakó-, tartózkodási helyéről, azt közli a megkereső szervvel.
 
+(5) Szabálysértés elkövetésével gyanúsítható személy személyazonosságának megállapítása érdekében, ha az elkövető ismeretlen, a bíróság, a szabálysértési hatóság, az előkészítő eljárást lefolytató szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározottak szerint az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét veheti igénybe.
+
 #### 43/A. Megkeresések
 
 56/A. § (1) A bíróság, az előkészítő eljárást lefolytató szerv az ismeretlen személlyel szemben elzárással is sújtható szabálysértés elkövetése miatt indított szabálysértési eljárás során a szabálysértés felderítése érdekében állami és helyi önkormányzati szervet, hatóságot kereshet meg, ha az ügy elbírálásához olyan adat vagy irat szükséges, amellyel más hatóság, egyéb állami, önkormányzati szerv rendelkezik. A megkeresés teljesítésére legalább nyolc, legfeljebb harminc napos határidő állapítható meg. A megkeresett a megállapított határidő alatt – ha törvény másképp nem rendelkezik – köteles a megkeresést térítésmentesen teljesíteni, vagy a teljesítés akadályát közölni.
@@ -1786,7 +1788,7 @@ téríti meg.
 
 (8) Ha a szabálysértési elzárással is büntethető szabálysértés elkövetésével gyanúsítható személy lakóhelye, illetve tartózkodási helye ismeretlen, lakóhelyének, illetve tartózkodási helyének megállapítása, valamint előállítása érdekében a bíróság vagy az előkészítő eljárást folytató szerv a körözését rendelheti el. A körözést vissza kell vonni, ha az elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.
 
-(9) Szabálysértési elzárással is büntethető szabálysértés elkövetésével gyanúsítható személy személyazonosságának megállapítása érdekében, amennyiben az elkövető ismeretlen, a bíróság vagy az előkészítő eljárást lefolytató szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározottak szerint az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét veheti igénybe.
+(9)
 
 #### 95. A bíróság meghallgatás nélküli eljárásban hozott határozata
 
@@ -2338,7 +2340,7 @@ elektronikus formában automatikusan továbbítja.
 
 (16) Ha a szabálysértési költséget, a rendbírságot, az elővezetési költséget, valamint a körözött személy előállításával kapcsolatos költséget az arra kötelezett határidőn belül nem fizeti meg, azt adók módjára kell behajtani, az okozott kár értékének megtérítését pedig a bírósági végrehajtásról szóló törvény szabályai szerint kérelmezheti a károsult.
 
-(17) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, azt adók módjára kell behajtani, ha nincs helye elzárásra történő átváltoztatásnak, valamint közérdekű munkával sem váltotta azt meg.
+(17) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, azt adók módjára kell behajtani, ha nincs helye elzárásra történő átváltoztatásnak, valamint közérdekű munkával sem váltotta azt meg vagy e törvény a közérdekű munkával történő megváltást kizárja.
 
 142. § (1) A meg nem fizetett pénzbírság vagy helyszíni bírság – gépjárművezető távollétében kiszabott helyszíni bírság kivételével – közérdekű munkával történő megváltása érdekében az elkövető – e törvény eltérő rendelkezése hiányában – a pénzbírság, helyszíni bírság befizetésére rendelkezésre álló határidő lejártát követő nyolcadik napig személyesen jelentkezhet a lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szervnél. A határidőben történő személyes jelentkezés elmulasztása esetén a meg nem fizetett pénzbírságot, helyszíni bírságot – a 141. § (17) bekezdés kivételével – szabálysértési elzárásra kell átváltoztatni.
 
@@ -3253,7 +3255,7 @@ is szabhat ki helyszíni bírságot.
 189. § (1) Aki
 
 - a) a bejelentési kötelezettség alá eső gyűlést bejelentési kötelezettsége elmulasztásával szervez,
-- b)
+- b) a gyülekezési jogról szóló 2018. évi LV. törvény 13/A. § (1) bekezdése szerint tilos gyűlést a gyülekezési jogról szóló törvény kijátszásával a gyűlés szervezőjeként vagy vezetőjeként szervez, megtart, valamint aki az ilyen gyűlésen felhívás alapján megjelenik és – a rendőrségnek a gyűlés helyszínen megtett, a gyűlés tilalmazott jellegéről való kifejezett tájékoztatása ellenére – azon részt vesz,
 - c) a gyülekezési hatóság által tudomásul vett bejelentésben megjelölttől eltérő helyszínre, útvonalra vagy időpontra szervezi a rendezvényt, vagy a résztvevőket a bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre hívja fel,
 - d) közterületnek nem minősülő helyszínre, az ingatlan tulajdonosának vagy használójának hozzájárulása nélkül gyűlést szervez,
 
@@ -3280,9 +3282,14 @@ szabálysértést követ el.
 
 (4) Nem valósul meg szabálysértés az (1) bekezdés c) pontja alapján, ha a gyülekezési hatóság által tudomásul vett bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre a gyűlés megtartásától független külső ok miatt kerül sor.
 
-(5)
+(5) Az e §-ban meghatározott szabálysértés miatt kiszabott helyszíni bírság vagy pénzbírság
 
-(6)
+- a) közérdekű munkával történő megváltásának, valamint
+- b) szabálysértési elzárásra történő átváltoztatásának
+
+nincs helye.
+
+(6) Az (1) bekezdés b) pontja szerinti szabálysértéssel összefüggésben megfizetett vagy behajtott pénzbírságot és helyszíni bírságot az állam a gyermekvédelem céljaira fordítja.
 
 #### 144. Az egyesülési, a gyülekezési szabadság megsértése
 

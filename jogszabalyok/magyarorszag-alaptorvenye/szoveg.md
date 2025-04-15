@@ -110,7 +110,7 @@ Magyarország az egységes magyar nemzet összetartozását szem előtt tartva f
 
 (2) Magyarország védelmezi állampolgárait.
 
-(3) Senkit nem lehet születéssel keletkezett vagy jogszerűen szerzett magyar állampolgárságától megfosztani.
+(3) Senkit nem lehet születéssel keletkezett vagy jogszerűen szerzett magyar állampolgárságától megfosztani. A más állam állampolgárságával is rendelkező magyar állampolgár állampolgársága sarkalatos törvényben meghatározottak szerint határozott időre felfüggeszthető. A felfüggesztéssel érintett személy a felfüggesztés idejére elveszíti a magyar állampolgárságát. Tilos a csoportos felfüggesztés.
 
 (4) Az állampolgárságra vonatkozó részletes szabályokat sarkalatos törvény határozza meg.
 
@@ -150,7 +150,7 @@ Magyarország hivatalos pénzneme a forint.
 
 #### L) cikk
 
-(1) Magyarország védi a házasság intézményét mint egy férfi és egy nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony. Az anya nő, az apa férfi.
+(1) Magyarország védi a házasság intézményét mint egy férfi és egy nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony. Az ember férfi vagy nő. Az anya nő, az apa férfi.
 
 (2) Magyarország támogatja a gyermekvállalást.
 
@@ -370,7 +370,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 #### XIII. cikk
 
-(1) Mindenkinek joga van a tulajdonhoz és az örökléshez. A tulajdon társadalmi felelősséggel jár.
+(1) Mindenkinek joga van a tulajdonhoz és az örökléshez, valamint a készpénzzel történő fizetéshez. A tulajdon társadalmi felelősséggel jár.
 
 (2) Tulajdont kisajátítani csak kivételesen és közérdekből, törvényben meghatározott esetekben és módon, teljes, feltétlen és azonnali kártalanítás mellett lehet.
 
@@ -396,11 +396,11 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 (4) Magyarország az esélyegyenlőség és a társadalmi felzárkózás megvalósulását külön intézkedésekkel segíti.
 
-(5) Magyarország külön intézkedésekkel védi a családokat, a gyermekeket, a nőket, az időseket és a fogyatékkal élőket.
+(5) Magyarország külön intézkedésekkel védi a családokat, a gyermekeket, a nőket, az időseket és a fogyatékossággal élőket.
 
 #### XVI. cikk
 
-(1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz. Magyarország védi a gyermekek születési nemének megfelelő önazonossághoz való jogát, és biztosítja a hazánk alkotmányos önazonosságán és keresztény kultúráján alapuló értékrend szerinti nevelést.
+(1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz. Ez a jog – az élethez való jog kivételével – minden más alapvető jogot megelőz. Magyarország védi a gyermekek születési nemének megfelelő önazonossághoz való jogát, és biztosítja a hazánk alkotmányos önazonosságán és keresztény kultúráján alapuló értékrend szerinti nevelést.
 
 (2) A szülőknek joguk van megválasztani a gyermeküknek adandó nevelést.
 
@@ -439,6 +439,8 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 (1) Mindenkinek joga van a testi és lelki egészséghez.
 
 (2) Az (1) bekezdés szerinti jog érvényesülését Magyarország genetikailag módosított élőlényektől mentes mezőgazdasággal, az egészséges élelmiszerekhez és az ivóvízhez való hozzáférés biztosításával, a munkavédelem és az egészségügyi ellátás megszervezésével, a sportolás és a rendszeres testedzés támogatásával, valamint a környezet védelmének biztosításával segíti elő.
+
+(3) Magyarországon a kábítószer előállítása, használata, terjesztése, népszerűsítése tilos.
 
 #### XXI. cikk
 
@@ -492,7 +494,7 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 
 #### XXVII. cikk
 
-(1) Mindenkinek, aki törvényesen tartózkodik Magyarország területén, joga van a szabad mozgáshoz és tartózkodási helye szabad megválasztásához.
+(1) Mindenkinek, aki törvényesen tartózkodik Magyarország területén, joga van a szabad mozgáshoz és tartózkodási helye szabad megválasztásához. A tartózkodási hely szabad megválasztásához való jog gyakorlása nem járhat Magyarország helyi közösségei önazonossághoz való alapvető jogának sérelmével.
 
 (2) Minden magyar állampolgárnak joga van ahhoz, hogy külföldi tartózkodásának ideje alatt Magyarország védelmét élvezze.
 
@@ -760,7 +762,7 @@ g)
 
 h) dönt a feladat- és hatáskörébe tartozó területszervezési kérdésekben;
 
-i) dönt az állampolgárság megszerzésével és megszűnésével kapcsolatos ügyekben;
+i) a felfüggesztés kivételével dönt az állampolgárság megszerzésével és megszűnésével kapcsolatos ügyekben;
 
 j) dönt mindazokban az ügyekben, amelyeket törvény a hatáskörébe utal.
 
