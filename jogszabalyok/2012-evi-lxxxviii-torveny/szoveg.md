@@ -81,7 +81,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 - a) a termék alapvető ismérvei, különösen összetétele, csomagolása, valamint összeszerelésére, beszerelésére és karbantartására, felhasználására vonatkozó előírások,
 - b) a terméknek más termékre, valamint az egészségre és környezetre gyakorolt – az együttes használat során ésszerűen várható – hatásai,
 - c) a termék külső megjelenítése, címkézése, használati és kezelési útmutatója, hulladékkezelési vagy más tájékoztatója,
-- d) a termék használatának hatása a fokozott veszélynek kitett – különösen a gyermek- és az időskorú, valamint a fogyatékkal élő – fogyasztókra.
+- d) a termék használatának hatása a fokozott veszélynek kitett – különösen a gyermek- és az időskorú, valamint a fogyatékossággal élő – fogyasztókra.
 
 (2) Ha jogszabály vagy közvetlenül alkalmazandó európai uniós jogi aktus a termék meghatározott tulajdonságai tekintetében biztonságossági követelményeket határoz meg, az e követelményeknek megfelelő terméket az ilyen tulajdonságok tekintetében biztonságosnak kell tekinteni.
 

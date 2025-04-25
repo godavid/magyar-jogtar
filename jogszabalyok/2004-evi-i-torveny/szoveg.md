@@ -12,7 +12,7 @@ A sport a közjó része. Erősíti a közösség tagjainak egymáshoz tartozás
 
 A sport magába foglalja a nemzet által vallott értékeket, az összetartozás és a versenyzés szellemét, a részvételt és a győzelmet, a teljesítmény elismerését, vagyis a munka becsületét, az önfegyelem és az öngondoskodás fontosságát, az egyén közösségért viselt felelősségét.
 
-Magyarország Országgyűlése kinyilvánítja, hogy minden embernek alapvető joga van a sporthoz, és e jogát az állam biztosítja, függetlenül attól, hogy versenysportról, a szabadidő eltöltéséről, a diák-, egyetemi-főiskolai sportról, a fogyatékkal élők sportjáról vagy az egészség megőrzéséről van szó.
+Magyarország Országgyűlése kinyilvánítja, hogy minden embernek alapvető joga van a sporthoz, és e jogát az állam biztosítja, függetlenül attól, hogy versenysportról, a szabadidő eltöltéséről, a diák-, egyetemi-főiskolai sportról, a fogyatékossággal élők sportjáról vagy az egészség megőrzéséről van szó.
 
 Magyarország Országgyűlése elfogadja az Európai Sport Chartát, és sportról szóló törvényét azzal összhangban az alábbiak szerint alkotja meg.
 

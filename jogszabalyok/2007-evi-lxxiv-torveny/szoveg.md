@@ -26,7 +26,7 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 - b) a műsorterjesztésre használt rádiófrekvenciákkal való hatékony gazdálkodást lehetővé tevő digitális átállás és a rugalmas frekvenciagazdálkodás megteremtése;
 - c) nemzeti kultúra műsorterjesztésen keresztüli megőrzése, védelme és támogatása;
 - d) a digitális átállás előnyeinek biztosítása a fogyasztók és a vállalkozások számára;
-- e) a fogyatékkal élők és az alacsony jövedelmű felhasználók igényeinek figyelembevétele a digitális átállás során.
+- e) a fogyatékossággal élők és az alacsony jövedelmű felhasználók igényeinek figyelembevétele a digitális átállás során.
 
 3. § (1) A műsorterjesztők, a digitális műsorszóró hálózatot, vagy műsorszóró adót üzemeltetők, a médiaszolgáltatók és a kiegészítő médiaszolgáltatást nyújtók az e törvény hatálya alá tartozó tevékenységek végzése során a jóhiszeműség és a tisztesség követelményének megfelelően e törvényben meghatározottak szerint kötelesek egymással kölcsönösen együttműködve eljárni.
 

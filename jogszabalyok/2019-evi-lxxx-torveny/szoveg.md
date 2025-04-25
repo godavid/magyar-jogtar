@@ -36,7 +36,7 @@ A szakképzés feladata a korszerű szakmai ismeretek megszerzésére való felk
 
 az általa, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben ingyenesen biztosítja. A javító- és pótlóvizsga ingyenessége a tanulói jogviszony, illetve a felnőttképzési jogviszony megszűnése utáni első javító- és pótlóvizsgára is irányadó. A szakképzésben való ingyenes részvétel szempontjából nem számít önálló szakma megszerzésének a munkakör magasabb színvonalon történő ellátása céljából a meglévő részszakmát magában foglaló szakmára történő felkészítés és szakmai vizsga letétele.
 
-(1a) Az állam, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben minden esetben ingyenes a szakképzésben tanulói jogviszony keretében való részvétel a halmozottan hátrányos helyzetű és a sajátos nevelési igényű vagy fogyatékkal élő személy részére.
+(1a) Az állam, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben minden esetben ingyenes a szakképzésben tanulói jogviszony keretében való részvétel a halmozottan hátrányos helyzetű és a sajátos nevelési igényű vagy fogyatékossággal élő személy részére.
 
 (2) Attól a tanulótól, illetve képzésben részt vevő személytől, aki a szakképzésben ingyenesen vesz részt, a Kormány rendeletében meghatározott esetben szedhető térítési díj, illetve tandíj. A szakképzés megszervezése, végzése és feltételeinek biztosítása ezt meghaladóan nem tehető pénzbeli, anyagi, természetbeni hozzájárulástól vagy költségtérítéstől függővé, ha a tanuló, illetve a képzésben részt vevő személy a szakképzésben ingyenesen vesz részt.
 
@@ -48,7 +48,7 @@ az általa, illetve az együttműködési megállapodással rendelkező fenntart
 
 (3) A szakképző intézményben folyó oktatás nyelve a magyar. A szakképzés – részben vagy egészben – nem magyar nyelven is folyhat. Az állam biztosítja, hogy minden szakma tekintetében elérhető legyen magyar nyelven folyó szakmai oktatás.
 
-(4) A szakképzés kiemelt feladata a sajátos nevelési igényű vagy fogyatékkal élő személy, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló speciális igényeinek figyelembevétele és egyéni képességeihez igazodó, legeredményesebb fejlődésének elősegítése a minél teljesebb társadalmi beilleszkedés lehetőségeinek megteremtése érdekében.
+(4) A szakképzés kiemelt feladata a sajátos nevelési igényű vagy fogyatékossággal élő személy, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló speciális igényeinek figyelembevétele és egyéni képességeihez igazodó, legeredményesebb fejlődésének elősegítése a minél teljesebb társadalmi beilleszkedés lehetőségeinek megteremtése érdekében.
 
 #### 5. § [A vallási közösségek részvétele a szakképzésben]
 
@@ -67,7 +67,7 @@ Az állam tiszteletben tartja a vallási közösségek vallási, világnézeti e
 E törvény alkalmazásában
 
 - 1. akkreditált szakképzési vizsgaközpont: a szakképzési államigazgatási szerv minősítő eljárásában a jogszabályi követelmények teljesítésére, valamint a szakmai és képesítő vizsgáztatási tevékenység folytatására alkalmasnak minősített és az akkreditált szakképzési vizsgaközpontok nyilvántartásába bejegyzett szervezet,
-- 1a. beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló: az a különleges bánásmódot igénylő tanuló, aki a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakvéleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartás-szabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényű vagy fogyatékkal élő személynek,
+- 1a. beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló: az a különleges bánásmódot igénylő tanuló, aki a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakvéleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartás-szabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényű vagy fogyatékossággal élő személynek,
 - 1b. digitális kollaborációs tér: a tanulmányi rendszer modulja, amely biztosítani képes legalább a tanárok és a diákok egyéni vagy csoportos, interaktív és távolléti kapcsolattal megvalósuló, teljes értékű, digitális online és offline együttműködését, kommunikációját és az oktatással kapcsolatos feladatok komplex kezelését, ideértve többek között az órai, házi, egyéni és csoportos feladatok publikálását, beadását, a beadott feladatok értékelését és online adminisztrációját,
 - 1c. digitális bizonyítvány: a tanulmányi rendszer által kiállított, tárolt és nyilvántartott elektronikus formában kiállított közhiteles okiratnak minősülő bizonyítvány, amelyet kiállításakor az intézmény elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja,
 - 2. egészségügyi alkalmasság: annak az orvosi szakvéleményre alapozott megállapítása, hogy a szakképzésbe bekapcsolódni szándékozó személy testi adottságai, egészségi és pszichikai állapota alapján képes önmaga és mások veszélyeztetése nélkül a választott szakma szerinti tevékenység, foglalkozás gyakorlására és a szakmai vizsgára való felkészülésre,
@@ -75,7 +75,7 @@ E törvény alkalmazásában
 - 3a. nagyvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 4. § (2) bekezdése szerinti partnervállalkozások és a Kkvtv. 4. § (5) bekezdésének figyelmen kívül hagyásával kis- és középvállalkozásnak nem minősülő vállalkozás,
 - 3b. mikrotanúsítvány: tárgyleírást is tartalmazó, önálló végzettséget és szakképesítést nem igazoló, olyan igazolás, amely a szakmai oktatáshoz kapcsolódó a szakképző intézmény valamely önállóan értékelt szakmai tantárgyának elvégzése révén megszerzett tanulási eredményt igazoló közokirat,
 - 4. pályaalkalmassági követelmény: a szakképzésbe történő bekapcsolódás – képzési és kimeneti követelményekben meghatározott – azon feltétele, amely alapján megállapítható, hogy a szakképzésben részt venni szándékozó személy képességei, készségei alapján sikeresen fel tud készülni a szakmai vizsgára és a szakma végzésére,
-- 5. sajátos nevelési igényű vagy fogyatékkal élő személy: az a tanuló, illetve képzésben részt vevő személy, aki az Nkt. szerinti szakértői bizottság vagy a rehabilitációs hatóság szakvéleménye alapján mozgásszervi, érzékszervi – látási, hallási –, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrumzavarral vagy egyéb pszichés fejlődési zavarral – súlyos tanulási, figyelem- vagy magatartás-szabályozási zavarral – küzd,
+- 5. sajátos nevelési igényű vagy fogyatékossággal élő személy: az a tanuló, illetve képzésben részt vevő személy, aki az Nkt. szerinti szakértői bizottság vagy a rehabilitációs hatóság szakvéleménye alapján mozgásszervi, érzékszervi – látási, hallási –, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrumzavarral vagy egyéb pszichés fejlődési zavarral – súlyos tanulási, figyelem- vagy magatartás-szabályozási zavarral – küzd,
 - 6. szakképzési alapfeladat: a szakképző intézmény alapító okiratában meghatározott technikumi szakmai oktatás és szakképző iskolai szakmai oktatás, továbbá ahhoz kapcsolódóan az előkészítő évfolyam és a műhelyiskola megszervezése,
 - 6a. szakképzési tankönyv: olyan könyv – ideértve a szótárt, a szöveggyűjteményt, az atlaszt, a kislexikont, a munkatankönyvet, a munkafüzetet és a feladatgyűjteményt –, zárt rendszerű távoktatási képzésmenedzsment rendszerben elérhető digitális tananyag, kiegészítő ismeretanyag és egyéb tanulmányi segédlet, amely a szakképzési tankönyvjegyzéken szerepel,
 - 6b. szakmai szervezet: valamely gazdasági ágazat vagy közös gazdasági érdekek képviseletét ellátó köztestület vagy egyesület,
@@ -771,7 +771,7 @@ Az oktatót feladatának ellátásával összefüggésben megilleti az a jog, ho
 
 #### 49. § [Az oktató kötelességei]
 
-(1) Az oktató alapvető feladata a tanuló, illetve a képzésben részt vevő személy szakmai oktatása, illetve szakmai képzése, az ahhoz kapcsolódó törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű vagy fogyatékkal élő személy esetén az egyéni fejlesztési tervben foglaltak figyelembevételével.
+(1) Az oktató alapvető feladata a tanuló, illetve a képzésben részt vevő személy szakmai oktatása, illetve szakmai képzése, az ahhoz kapcsolódó törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű vagy fogyatékossággal élő személy esetén az egyéni fejlesztési tervben foglaltak figyelembevételével.
 
 (2) Az (1) bekezdéssel összefüggésben az oktató kötelessége, hogy
 
@@ -935,7 +935,7 @@ jogosult. Az e bekezdés szerinti juttatásra vonatkozó követelést hat hónap
 
 (1) A tanuló teljesítményét az oktató a tanítási év közben rendszeresen érdemjeggyel értékeli, félévkor és a tanítási év végén osztályzattal minősíti. Ha a tanuló szakirányú oktatását nem a szakképző intézmény végzi, a szakirányú oktatással összefüggésben a tanuló teljesítményét a duális képzőhely az oktatóval közösen értékeli és minősíti. Az ilyen értékelésre a szakképző intézmény szakmai programjában meghatározott, elsajátított tananyagrészenként megszervezett beszámolás keretében kerül sor. Az előkészítő évfolyamon – a nyelvi előkészítés kivételével – a tanulót kizárólag a tanítási év végén kell szövegesen minősíteni és dönteni az előrehaladásáról. A műhelyiskolában értékelés, minősítés nem alkalmazható.
 
-(2) A tanulói jogviszonyban álló sajátos nevelési igényű vagy fogyatékkal élő személyt, ha egyéni adottsága, fejlettsége szükségessé teszi, az igazgató az Nkt. szerinti szakértői bizottság szakvéleménye alapján mentesíti
+(2) A tanulói jogviszonyban álló sajátos nevelési igényű vagy fogyatékossággal élő személyt, ha egyéni adottsága, fejlettsége szükségessé teszi, az igazgató az Nkt. szerinti szakértői bizottság szakvéleménye alapján mentesíti
 
 - a) az érdemjegyekkel történő értékelés és osztályzatokkal történő minősítés alól, és ehelyett szöveges értékelés és minősítés alkalmazását írja elő,
 - b) – a szakirányú oktatás kivételével – egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól.
@@ -1317,7 +1317,7 @@ Ha a szakképzési munkaszerződés megkötésére más foglalkoztatóval fenná
 
 (2) Az, aki a szakképző iskolában folytatott tanulmányokhoz kapcsolódóan szakmát szerzett és annak megszerzését követően kíván érettségi vizsgát tenni, mentesül az érettségi vizsga kötelezően választandó vizsgatárgya alól.
 
-(3) Az érettségi vizsgán az érettségi vizsga kötelező vizsgatárgyai helyett a sajátos nevelési igényű vagy fogyatékkal élő személy – jogszabályban meghatározottak szerint – másik tantárgyat választhat.
+(3) Az érettségi vizsgán az érettségi vizsga kötelező vizsgatárgyai helyett a sajátos nevelési igényű vagy fogyatékossággal élő személy – jogszabályban meghatározottak szerint – másik tantárgyat választhat.
 
 (4) Az érettségi vizsga megszervezésére és lebonyolítására az Nkt.-t kell alkalmazni.
 
@@ -1359,11 +1359,11 @@ Ha a szakképzési munkaszerződés megkötésére más foglalkoztatóval fenná
 
 (2) Képesítő bizonyítványt az kaphat, aki sikeres képesítő vizsgát tett.
 
-### XIV. Fejezet — A SAJÁTOS NEVELÉSI IGÉNYŰ VAGY FOGYATÉKKAL ÉLŐ SZEMÉLY ÉS A BEILLESZKEDÉSI, TANULÁSI, MAGATARTÁSI NEHÉZSÉGGEL KÜZDŐ TANULÓ FELKÉSZÍTÉSE ÉS SZAKMAI VIZSGÁJA
+### XIV. Fejezet — A SAJÁTOS NEVELÉSI IGÉNYŰ VAGY FOGYATÉKOSSÁGGAL ÉLŐ SZEMÉLY ÉS A BEILLESZKEDÉSI, TANULÁSI, MAGATARTÁSI NEHÉZSÉGGEL KÜZDŐ TANULÓ FELKÉSZÍTÉSE ÉS SZAKMAI VIZSGÁJA
 
-#### 94. § [Eljárás a sajátos nevelési igényű vagy fogyatékkal élő személy és a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló felkészítése és szakmai vizsgája során]
+#### 94. § [Eljárás a sajátos nevelési igényű vagy fogyatékossággal élő személy és a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló felkészítése és szakmai vizsgája során]
 
-(1) A sajátos nevelési igényű vagy fogyatékkal élő személy részére az egészségügyi alkalmassági követelmények, a pályaalkalmassági követelmények és a fogyatékkal élő emberek egyenlő esélyű hozzáférésének figyelembevételével a Kormány rendeletében meghatározott kedvezmények útján kell biztosítani a sajátos nevelési igény, illetve a fogyatékosság jellegéhez igazodó felkészítést és vizsgáztatást.
+(1) A sajátos nevelési igényű vagy fogyatékossággal élő személy részére az egészségügyi alkalmassági követelmények, a pályaalkalmassági követelmények és a fogyatékossággal élő emberek egyenlő esélyű hozzáférésének figyelembevételével a Kormány rendeletében meghatározott kedvezmények útján kell biztosítani a sajátos nevelési igény, illetve a fogyatékosság jellegéhez igazodó felkészítést és vizsgáztatást.
 
 (2) Ha a tanuló beilleszkedési, tanulási, magatartási nehézséggel küzd, fejlesztőpedagógiai ellátásban és a Kormány rendeletében meghatározott kedvezményben részesül.
 
@@ -1670,7 +1670,7 @@ A korai iskolaelhagyás megelőzését támogató rendszer a Kormány rendeleté
 - a) a tanuló családi és utóneve, születési helye és ideje, lakóhelye, tartózkodási helye, törvényes képviselője családi és utóneve, lakcíme és telefonszáma, a tanulói jogviszony kezdete, szünetelésének ideje, megszűnése, az egyéni tanulmányi renddel kapcsolatos adatok, a tanuló mulasztásával kapcsolatos adatok a tartózkodásának megállapítása, a tanítási napon a foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a törvényes képviselővel való kapcsolatfelvétel céljából, a tanulói jogviszony fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, a bíróság, a rendőrség, az ügyészség, a települési önkormányzat jegyzője, a közigazgatási szerv és a nemzetbiztonsági szolgálat részére,
 - b) a tanuló felvételével, átvételével kapcsolatos adatok az érintett iskola, szakképző intézmény, felsőoktatási intézménybe történő felvétellel kapcsolatosan az érintett felsőoktatási intézmény részére,
 - c) a tanuló családi és utóneve, születési helye és ideje, lakcíme, levelezési címe, társadalombiztosítási azonosító jele, törvényes képviselője családi és utóneve, lakcíme, levelezési címe és telefonszáma, a szakképző intézményi egészségügyi dokumentáció, a tanulóbalesetre vonatkozó adatok az egészségi állapotának megállapítása céljából az egészségügyi intézmény és az iskola-egészségügyi feladatot ellátó intézmény részére,
-- d) a tanuló családi és utóneve, születési helye és ideje, lakcíme, levelezési címe, törvényes képviselője családi és utóneve, lakcíme, levelezési címe és telefonszáma, a tanuló mulasztásával kapcsolatos adatok, a sajátos nevelési igényű vagy fogyatékkal élő személyre, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanulóra, a hátrányos helyzetű és a halmozottan hátrányos helyzetű tanulóra, illetve képzésben részt vevő személyre vonatkozó adatok a veszélyeztetettségének feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezet, intézmény részére,
+- d) a tanuló családi és utóneve, születési helye és ideje, lakcíme, levelezési címe, törvényes képviselője családi és utóneve, lakcíme, levelezési címe és telefonszáma, a tanuló mulasztásával kapcsolatos adatok, a sajátos nevelési igényű vagy fogyatékossággal élő személyre, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanulóra, a hátrányos helyzetű és a halmozottan hátrányos helyzetű tanulóra, illetve képzésben részt vevő személyre vonatkozó adatok a veszélyeztetettségének feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezet, intézmény részére,
 - e) a tanuló igényjogosultsága elbírálásához és igazolásához szükséges adatai az igénybe vehető támogatás igénylése céljából a fenntartó részére,
 - f) a tanuló állami vizsgája alapján kiadott oklevelének, illetve bizonyítványának adatai a szakképzési államigazgatási szervnek az oklevél, illetve a bizonyítvány nyilvántartása céljából, továbbá a szakképzési államigazgatási szervtől a felsőfokú felvételi kérelmeket nyilvántartó szervezethez,
 - g) a honvédségi szakképző intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a 114. § (1) bekezdés c) pontja szerinti adatot a Magyar Honvédség központi személyügyi szerve részére
@@ -1791,7 +1791,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 20. a tanulókkal, a képzésben részt vevő személyekkel kapcsolatos fegyelmi eljárás lefolytatásának szabályait,
 - 21. a foglalkozások megszervezésének rendjét, a közösségi szolgálat végzésének megszervezésére vonatkozó részletes szabályokat, a mindennapos testnevelés megszervezésére és a diáksport-tevékenységre vonatkozó részletes szabályokat,
 - 22. a tanulók egészségügyi ellátására és egészségfejlesztésére vonatkozó részletes szabályokat,
-- 23. a tehetség kibontakoztatására, a hátrányos helyzetű tanuló, illetve képzésben részt vevő személyek felzárkóztatására, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló számára biztosított differenciált fejlesztés részletes szabályait, a sajátos nevelési igényű vagy fogyatékkal élő személy szakmai oktatásával kapcsolatos részletes szabályokat,
+- 23. a tehetség kibontakoztatására, a hátrányos helyzetű tanuló, illetve képzésben részt vevő személyek felzárkóztatására, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló számára biztosított differenciált fejlesztés részletes szabályait, a sajátos nevelési igényű vagy fogyatékossággal élő személy szakmai oktatásával kapcsolatos részletes szabályokat,
 - 24. a tanuló heti kötelező foglalkozásainak számát,
 - 25. a tanítási idő e törvényben meghatározott szabályaitól az e törvény által megengedett eltérések tartalmát és igénybevételük rendjét,
 - 26. a tanuló értékelésének és minősítésének, valamint a tanulmányok alatti vizsga részletes szabályait,

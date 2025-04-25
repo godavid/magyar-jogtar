@@ -3955,7 +3955,7 @@ ha ez az építési beruházás megvalósítását vagy építési anyagellátá
 
 (5) Az építészeti oktatás, képzés és szakmai továbbképzés kiterjed az épített környezet emberhez méltó, akadálymentes, egyenlő esélyű hozzáférést biztosító egészséges alakítására is.
 
-(6) A szakmai kamarák feladata a szakmai továbbképzések során a fogyatékkal élő személyek helyzetének bemutatása és a továbbképzésen részt vevők ezzel összefüggő szemléletformálása.
+(6) A szakmai kamarák feladata a szakmai továbbképzések során a fogyatékossággal élő személyek helyzetének bemutatása és a továbbképzésen részt vevők ezzel összefüggő szemléletformálása.
 
 #### 205. § [A szakmai kamarák feladatai végzettséget igazoló oklevéllel kapcsolatosan]
 
@@ -4419,7 +4419,7 @@ ellenőrzi.
 - 40. a kötelező tervezői művezetés részletes szabályait, ennek keretében a tevékenységre vonatkozó szerződés egyes kötelező tartalmi elemeit (különös tekintettel a szerződés ellenértékére),
 - 41. az építésügyi és örökségvédelmi hatósági eljárások során az e törvény szerinti műemlékvédelmi követelmények érvényesítésének részletszabályait,
 - 42. a műemléki értékek kategóriába sorolásának, valamint az örökségvédelmi bírság kiszabása során alkalmazandó értékkategóriák, a bírság megállapításának alapjául szolgáló értékelés szempontjait, valamint a bírságösszege számítási módjának részletes szabályait,
-- 43. a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékkal élő személyek esélyegyenlőségének előmozdítására,
+- 43. a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékossággal élő személyek esélyegyenlőségének előmozdítására,
 - 44. a műemlék fenntartására és eszmei értékével összhangban álló használatára vonatkozó szabályokat,
 - 45. a műemléki értéket érintő kulturális örökségvédelmi célú és műemlékvédelmi érdekből folytatott tevékenységek támogatására vonatkozó szabályokat,
 - 46. a határon túli magyar nemzeti vonatkozású építészeti örökség elemeinek felkutatására, feltárására és értékeinek jegyzékben történő rögzítésére vonatkozó eljárás rendjét és a jegyzék tartalmát,

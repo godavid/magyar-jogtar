@@ -2750,7 +2750,7 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 - g) a büntetés végrehajtása során jogorvoslati joggal élni,
 - h) a rendelkezésére álló pénzből havonta meghatározott összeget személyes szükségleteire fordítani, illetve azzal egyéb módon rendelkezni,
 - i) a szabadságvesztés végrehajtása során keletkezett kárának megtérítésére,
-- j) sajátos védelemre a nők, fiatalkorúak és a fogyatékkal élők a rájuk vonatkozó eltérésekkel,
+- j) sajátos védelemre a nők, fiatalkorúak és a fogyatékossággal élők a rájuk vonatkozó eltérésekkel,
 - k) jogszabályban meghatározottak szerint saját ruha viselésére, illetve használati tárgyak tartására; az elítélt magánál tartható tárgyainak köre a bv. intézet rendjére és biztonságára figyelemmel, valamint az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint korlátozható, azonban a korlátozás – a biztonsági elkülönítés és a magánelzárás fenyítés végrehajtását kivéve – a tankönyvekre és tanszerekre, a könyvtári könyvekre, a családi fényképekre és levelekre, valamint az engedélyezett kegytárgyakra és imakönyvre nem terjedhet ki,
 - l) a már megállapított, a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott valamely rendszeres pénzellátásának (e fejezetben a továbbiakban: rendszeres pénzellátás) a meghatalmazott személy kezéhez vagy a bv. intézethez történő folyósítására, továbbá a saját jogon járó családi pótléknak a letéti számláján való elhelyezésére,
 - m) a szabadulást követő társadalomba való visszailleszkedés érdekében az ehhez szükséges szociális feltételek megteremtésének segítségére,

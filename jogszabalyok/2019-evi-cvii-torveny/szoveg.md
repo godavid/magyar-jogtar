@@ -1514,7 +1514,7 @@ pótszabadságot vehet igénybe.
 
 munkanap pótszabadság igénybevételére jogosult.
 
-(10) A (9) bekezdés szerinti pótszabadság fogyatékkal élő gyermekenként két munkanappal nő.
+(10) A (9) bekezdés szerinti pótszabadság fogyatékossággal élő gyermekenként két munkanappal nő.
 
 (11) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizennyolcadik életévét betölti.
 
@@ -2530,7 +2530,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 - 4. egyéb jogviszony: különösen a munkaviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a köznevelési foglalkoztatotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, nemzetbiztonsági szolgálati jogviszony, nemzetbiztonsági alkalmazotti jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony;
 - 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 - 6. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a köztisztviselő az álláshelyéhez tartozó feladatkörhöz kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
-- 7. fogyatékkal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
+- 7. fogyatékossággal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
 - 8. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák;
 - 9. gyermekét egyedül nevelő köztisztviselő: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 - 10. hét: a naptári hét vagy a munkáltató által meghatározott megszakítás nélküli százhatvannyolc óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik;

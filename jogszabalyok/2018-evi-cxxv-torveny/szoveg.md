@@ -3304,7 +3304,7 @@ meghosszabbodik, ha azt a kormánytisztviselő a felmentés közlésétől szám
 
 munkanap pótszabadság igénybevételére jogosult.
 
-(2) Az (1) bekezdés szerinti pótszabadság fogyatékkal élő gyermekenként két munkanappal nő, ha a kormánytisztviselő gyermeke fogyatékkal él.
+(2) Az (1) bekezdés szerinti pótszabadság fogyatékossággal élő gyermekenként két munkanappal nő, ha a kormánytisztviselő gyermeke fogyatékossággal él.
 
 (3) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizennyolcadik életévét betölti.
 
@@ -5235,7 +5235,7 @@ illetménynek megfelelő összeg.
 - 5. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
 - 6. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 - 7. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a kormánytisztviselő az álláshelyén ellátandó feladatokhoz kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
-- 8. fogyatékkal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
+- 8. fogyatékossággal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
 - 9. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák;
 - 10. gyermekét egyedül nevelő kormánytisztviselő: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált vagy házastársától külön él és nincs élettársa;
 - 11. hét: a naptári hét vagy a munkáltatói jogkör gyakorlója által meghatározott megszakítás nélküli százhatvannyolc óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik;
