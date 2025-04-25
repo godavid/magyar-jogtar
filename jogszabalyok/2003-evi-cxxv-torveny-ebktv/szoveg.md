@@ -90,7 +90,7 @@ vonatkozásában nem alkalmazható.
 
 8. § Közvetlen hátrányos megkülönböztetésnek minősül az olyan rendelkezés, amelynek eredményeként egy személy vagy csoport valós vagy vélt
 
-- a) neme,
+- a) neme, illetve ennek megfelelő identitása,
 - b) faji hovatartozása,
 - c) bőrszíne,
 - d) nemzetisége,
@@ -103,7 +103,7 @@ vonatkozásában nem alkalmazható.
 - k) családi állapota,
 - l) anyasága (terhessége) vagy apasága,
 - m) szexuális irányultsága,
-- n) nemi identitása,
+- n)
 - o) életkora,
 - p) társadalmi származása,
 - q) vagyoni helyzete,
@@ -475,7 +475,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 31. § (1) A község, a város és a főváros kerületeinek önkormányzata (a továbbiakban: települési önkormányzat) ötévente öt évre szóló helyi esélyegyenlőségi programot fogad el.
 
-(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékkal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot az e törvény és a felhatalmazása alapján kiadott kormányrendeletben meghatározott szempontok és eljárásrend, valamint azok figyelembevételével a társadalmi felzárkózásért felelős miniszter által, az általa vezetett minisztérium honlapján közzétett módszertani útmutató alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a köznevelési esélyegyenlőségi terv, illetve a szakképzési esélyegyenlőségi terv és az településfejlesztési terv anti-szegregációs célkitűzéseinek összhangjáról.
+(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékossággal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot az e törvény és a felhatalmazása alapján kiadott kormányrendeletben meghatározott szempontok és eljárásrend, valamint azok figyelembevételével a társadalmi felzárkózásért felelős miniszter által, az általa vezetett minisztérium honlapján közzétett módszertani útmutató alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a köznevelési esélyegyenlőségi terv, illetve a szakképzési esélyegyenlőségi terv és az településfejlesztési terv anti-szegregációs célkitűzéseinek összhangjáról.
 
 (3) A helyi esélyegyenlőségi program elkészítése során kiemelt figyelmet kell fordítani
 

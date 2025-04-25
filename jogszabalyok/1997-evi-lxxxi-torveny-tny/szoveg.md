@@ -472,7 +472,7 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 
 - a) a reá irányadó öregségi nyugdíjra jogosító korhatárt betöltötte, vagy
 - b) megváltozott munkaképességű, vagy
-- c) házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg, vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodik.
+- c) házastársa jogán árvaellátásra jogosult fogyatékossággal élő, illetve tartósan beteg, vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodik.
 
 (3) Özvegyi nyugdíj jár akkor is, ha az erre jogosító feltételek valamelyike
 
