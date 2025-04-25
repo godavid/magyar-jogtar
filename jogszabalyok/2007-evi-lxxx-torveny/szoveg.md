@@ -47,7 +47,7 @@ a menedékjogról a következő törvényt alkotja:
   - ja) kiskorú gyermeke (ideértve az örökbefogadott és a nevelt gyermeket is),
   - jb) szülője, illetve vele érkező, a magyar jog szerint érte felelős külföldi személy, ha az elismerését kérő vagy a nemzetközi védelemben részesített személy kiskorú;
   - jc) házastársa, amennyiben a családi kapcsolat már a Magyarországra érkezést megelőzően is fennállt;
-- k) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú, vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik;
+- k) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú, vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékossággal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik;
 - l) rendelkezésre állást biztosító intézkedés: olyan intézkedés, amelyben a menekültügyi hatóság
   - la) az elismerését kérő a menekültügyi hatóság előtti rendszeres jelentkezési kötelezettségéről,
   - lb) a kijelölt tartózkodási hely – magánszállás, befogadó állomás, közösségi szállás vagy meghatározott vármegye közigazgatási területe – elrendeléséről, vagy

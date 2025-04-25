@@ -1529,7 +1529,7 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 
 (2) A rádióberendezés megfelelőségét a gyártó megfelelőségértékelési eljárás lefolytatása alapján kiállított megfelelőségi nyilatkozattal igazolja.
 
-(3) Az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák akkor hozhatók forgalomba, forgalmazhatók vagy helyezhetők üzembe, ha teljesítik az Európai Bizottság által meghatározott együttműködési képességre, csalás elleni védettségre, az előfizetők és felhasználók magánszférájának védelmére, a fogyatékkal élők hozzáférésének biztosítására és a segélyhívó szolgálatok elérésének támogatására vonatkozó követelményeket.
+(3) Az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák akkor hozhatók forgalomba, forgalmazhatók vagy helyezhetők üzembe, ha teljesítik az Európai Bizottság által meghatározott együttműködési képességre, csalás elleni védettségre, az előfizetők és felhasználók magánszférájának védelmére, a fogyatékossággal élők hozzáférésének biztosítására és a segélyhívó szolgálatok elérésének támogatására vonatkozó követelményeket.
 
 81. § (1) Nagyfrekvenciás villamos berendezést, valamint egyéb nagyfrekvenciás jelet vagy mellékhatást keltő villamos vagy elektronikus berendezést úgy kell kialakítani, hogy az általa okozott elektromágneses zavar ne haladja meg azt a szintet, amely az elektronikus hírközlő berendezések és más villamos vagy elektronikus berendezések rendeltetésszerű működését akadályozza.
 

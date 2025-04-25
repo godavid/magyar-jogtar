@@ -506,7 +506,7 @@ figyelemfelhívás.
 
 ### Fogyatékossággal élő személyek számára hozzáférhető műsorszámok
 
-39. § (1) Az audiovizuális médiaszolgáltatás médiaszolgáltatójának törekednie kell arra, hogy műsorszámait folyamatosan és fokozatosan egyre akadálymentesebben hozzáférhetővé tegye a fogyatékkal élő személyek számára.
+39. § (1) Az audiovizuális médiaszolgáltatás médiaszolgáltatójának törekednie kell arra, hogy műsorszámait folyamatosan és fokozatosan egyre akadálymentesebben hozzáférhetővé tegye a fogyatékossággal élő személyek számára.
 
 (2) Az országos audiovizuális médiaszolgáltató – amennyiben előző naptári évi átlagos közönségaránya az 1%-ot meghaladja – köteles biztosítani, hogy – a televíziós vásárlási műsorablak, reklám és a műsorelőzetesek kivételével – valamennyi műsorszáma magyar nyelvű felirattal – például teletext szolgáltatáson keresztül – vagy jelnyelvi tolmácsolással is elérhető legyen.
 
@@ -526,7 +526,7 @@ figyelemfelhívás.
 
 (9) Az audiovizuális médiaszolgáltatás médiaszolgáltatója köteles az akadálymentesítést célzó intézkedésekről cselekvési tervet készíteni és a cselekvési tervről, az annak alapján végrehajtott intézkedésekről köteles a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) felhívására tájékoztatást adni. Az (1) bekezdésben foglaltak teljesítéséről a Hatóság háromévente jelentést készít az Európai Bizottság részére.
 
-(10) A Hatóság a 184. § (1) bekezdése szerinti hatáskörébe tartozó, az akadálymentesítéssel összefüggő bejelentéskezelés, valamint az akadálymentesítési kérdésekre vonatkozó tájékoztatás biztosítására az internetes honlapján köteles kialakítani egy, a fogyatékkal élő személyek számára is könnyen elérhető online kapcsolattartási pontot.
+(10) A Hatóság a 184. § (1) bekezdése szerinti hatáskörébe tartozó, az akadálymentesítéssel összefüggő bejelentéskezelés, valamint az akadálymentesítési kérdésekre vonatkozó tájékoztatás biztosítására az internetes honlapján köteles kialakítani egy, a fogyatékossággal élő személyek számára is könnyen elérhető online kapcsolattartási pontot.
 
 ### A kiegészítő médiaszolgáltatásokra vonatkozó szabályok
 
@@ -1199,7 +1199,7 @@ figyelemfelhívás.
 
 - a) rendszeresen tájékoztat egy adott társadalmi vagy helyi közösség híreiről, illetve egyéb hírszolgáltatást is végez,
 - b) kulturális műsorszámokat tesz közzé,
-- c) törekszik a fogyatékkal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
+- c) törekszik a fogyatékossággal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
 - d)
 - e) legalább naponta négyórányi műsoridővel rendelkezik,
 - f) legalább hetente négyórányi műsoridőben az adott naptári évben általa készített, szerkesztett és első ízben bemutatott (nem ismételt)műsorszámot tesz közzé,
@@ -1453,7 +1453,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 - c) a nemzeti összetartozás és a társadalmi integráció elősegítése, illetve megerősítése, valamint a házasság intézményének és a család értékének tiszteletben tartása,
 - d) az alkotmányos jogoknak, a törvényes rend alapértékeinek és a demokratikus társadalmi rend szabályainak megismertetése, támogatása,
 - e) nemzetiségek, vallási közösségek valamint egyéb közösségek médiával szemben támasztott igényeinek kielégítése, kultúrájának bemutatása, a nemzetiségek anyanyelvének ápolása,
-- f) az életkoruk, testi, szellemi vagy lelki állapotuk, társadalmi körülményeik következtében súlyosan hátrányos helyzetben lévő csoportoknak, valamint a fogyatékkal élőknek a médiaszolgáltatásokkal szemben támasztott sajátos igényeinek kielégítése,
+- f) az életkoruk, testi, szellemi vagy lelki állapotuk, társadalmi körülményeik következtében súlyosan hátrányos helyzetben lévő csoportoknak, valamint a fogyatékossággal élőknek a médiaszolgáltatásokkal szemben támasztott sajátos igényeinek kielégítése,
 - g) a határon túli magyarság kulturális igényeinek szolgálata, nemzeti önazonosságuk és anyanyelvük megőrzésének elősegítése, az anyaországgal való szellemi kapcsolattartásuk lehetővé tétele,
 - h) a kiskorúak testi, lelki és erkölcsi fejlődését, érdeklődését szolgáló, ismereteit gazdagító műsorszámok, valamint a gyermekvédelem céljait szolgáló ismeretterjesztő, felvilágosító műsorszámok közzététele,
 - i) oktatási és ismeretterjesztő feladatok ellátása, az új tudományos eredmények bemutatása,
@@ -3246,7 +3246,7 @@ a Biztos hivatalánál panasszal élhet.
 - c) felügyeli az e törvényben foglalt alábbi rendelkezések érvényesülését:
   - ca) a politikai reklámra, közérdekű közleményre és a társadalmi célú reklámra vonatkozó rendelkezések körében a 32. § (7) bekezdésben foglaltak,
   - cb) a közszolgálati és közösségi médiaszolgáltatásban közzétett reklámra és közérdekű közleményre vonatkozó szabályok (36. §),
-  - cc) a fogyatékkal élők számára hozzáférhetővé tett műsorszámokra vonatkozó szabályok (39. §),
+  - cc) a fogyatékossággal élők számára hozzáférhetővé tett műsorszámokra vonatkozó szabályok (39. §),
   - cd) a médiaszolgáltató, a sajtótermék kiadója és a kiegészítő szolgáltatást nyújtó tulajdoni viszonyaiban és más adataiban bekövetkezett változásokkal, azok bejelentésével és az egyes adatok közzétételével kapcsolatos szabályok,
   - ce) a lineáris médiaszolgáltató tulajdonosi szerkezetére és a tulajdonosi összefonódásra vonatkozó szabályok (43. §),
   - cf) az erőszakos vagy a nyugalom megzavarására alkalmas tartalmakra vonatkozó rendelkezések és a vallási, hitbeli meggyőződést védő szabályok (14. §),
@@ -3971,7 +3971,7 @@ A Közszolgálati Testületbe az alábbi Jelölő Szervezetek delegálhatnak tag
   - j) a magyarországi nemzetiségek országos önkormányzatai
   - k) Magyarországgal szomszédos államokban bejegyzett, száz főnél nagyobb taglétszámú magyar kulturális szervezetek
   - l) a családok érdekeit védő és képviselő, Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó érdekvédelmi szervezetek, amelyek alapszabályából a működési kör országos jellege megállapítható
-  - m) a fogyatékkal élő személyek Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó érdekvédelmi szervezetei, amelyek alapszabályából a működési kör országos jellege megállapítható
+  - m) a fogyatékossággal élő személyek Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó érdekvédelmi szervezetei, amelyek alapszabályából a működési kör országos jellege megállapítható
   - n) az irodalom, a színház-, a film-, az előadó-, a zene-, a tánc-, a képző- és az iparművészet területén működő, Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó szakmai szervezetek, amelyek alapszabályából a működési kör országos jellege megállapítható, és amelyek tagsága elsősorban a felsorolt területeken tevékenységet folytató személyekből vagy szervezetekből áll
   - o) Magyar Művészeti Akadémia.
 - 2. Az a)–h) és o) pontban meghatározott szervezetek egy-egy főt delegálhatnak.

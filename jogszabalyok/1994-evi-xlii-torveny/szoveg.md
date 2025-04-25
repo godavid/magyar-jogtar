@@ -161,7 +161,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (3) Az Eximbanknak az (1) bekezdés b) és c) pontja, valamint a Mehibnek a (2) bekezdés szerinti fizetési kötelezettsége teljesítéséhez szükséges forrásokat a központi költségvetés közvetlenül biztosítja.
 
-(4) A 2. § (2) bekezdése szerint nyújtott hitelek kamatának, valamint az e célt szolgáló finanszírozási költségek különbözetének (a továbbiakban: egyenleg) forrását az Eximbank részére a központi költségvetés – kormányrendeletben megállapított feltételek szerint és módon – közvetlenül biztosítja.
+(4)
 
 (4a)
 
@@ -178,12 +178,18 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (9) Az (1) és (2) bekezdés alapján fennálló állami kezesség esetén az Eximbankot és a Mehibet nem terheli a Ptk. 6:418. § alapján teljesítendő tájékoztatási kötelezettség. Az állami kezesség beváltásának kockázatáról, továbbá a kezesség várható beváltásáról (különösen annak összegéről és időpontjáról) az Eximbank és a Mehib Rt. tájékoztatja a kezest. A tájékoztatásra vonatkozó előírásokat a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló miniszteri rendelet tartalmazza.
 
+6/A. § Az állam a központi költségvetés terhére – kormányrendeletben megállapított feltételek szerint és módon – biztosítja az Eximbank részére
+
+- a) a 2. § (2) bekezdése szerint nyújtott kötött segélyhitelek kamatjainak, valamint az e célt szolgáló finanszírozási költségek különbözetét,
+- b) a 2. § szerint nyújtott hitelek kamatjainak, valamint az e célt szolgáló finanszírozási költségek különbözetét (a továbbiakban: kamatkiegyenlítés),
+- c) az Eximbank által a 2. § (1a)–(1d) bekezdése szerinti alapokba (a továbbiakban: alap) befektetett tőkének és az alap vagy harmadik személy által az Eximbank részére a befektetési jegyekhez kapcsolódóan bármely jogcímen kifizetett összeg különbözetét (a továbbiakban: tőkekiegyenlítés).
+
 7. § (1) A Magyarország központi költségvetéséről szóló törvényben meg kell határozni:
 
 - a) a forrásszerzés céljából a 2. § (1) bekezdés g) pont ga) alpontja alapján elfogadott betétek és igénybe vett hitelek, felvett kölcsönök és forrásszerzés céljából a 2. § (1) bekezdés g) pont gb) alpontja alapján kibocsátott kötvények – devizában történő forrásbevonás esetén a szerződéskötés vagy a kötvénykibocsátás napján azok Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított értékén számított – állománya és a deviza- és kamatcsere ügyletek pótlási költsége együttes állományának felső határát,
 - b) az Eximbank által az állam készfizető kezessége mellett vállalható garanciák állományának felső határát,
 - c) a Mehib által az állam készfizető kezessége mellett vállalható biztosítási kötelezettségek és viszontbiztosításból eredő kötelezettségek állományának felső határát,
-- d) a kamatkiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
+- d) a kamatkiegyenlítési és tőkekiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
 - e) az Eximbank által folyósított kötött segélyhitelekhez kapcsolódó, a központi költségvetés terhére nyújtott támogatások előirányzatát.
 - f) a Kormány határozata alapján nyújtott hitel- és kölcsönállomány felső határát.
 
@@ -204,13 +210,13 @@ eredő fizetési kötelezettségek teljesítéséért.
 (1b) Amennyiben az (1) bekezdés szerinti követelés
 
 - a) behajtása során a követelés részleges elengedésére kerül sor és ezáltal a követelés összegének teljes megtérülése nem várható, vagy
-- b) a követelés értékesítése során az értékesítés eredményeként a vételár nem éri el a követelés összegét,
+- b) értékesítése során az értékesítés eredményeként a vételár nem éri el a követelés összegét, és valószínűsíthető, hogy a további behajtási tevékenységgel szemben a követelés részleges elengedése, illetve a követelés értékesítése kedvezőbb a központi költségvetés számára, úgy az (1a) bekezdés szerinti megállapodás megkötéséhez, valamint a követelés értékesítéséhez az államháztartásért felelős miniszter előzetes jóváhagyása szükséges. Az Eximbank és a Mehib a döntés meghozatalához köteles az államháztartásért felelős miniszter részére bemutatni a követelés részleges elengedésének, a követelés értékesítésének indokait a behajtás körülményeinek és a költségeinek ismertetése mellett.
 
 és valószínűsíthető, hogy a további behajtási tevékenységgel szemben a követelés részleges elengedése, illetve a követelés értékesítése kedvezőbb a központi költségvetés számára, úgy az (1a) bekezdés szerinti megállapodás megkötéséhez, valamint a követelés értékesítéséhez az államháztartásért felelős miniszter előzetes jóváhagyása szükséges. Az Eximbank és a Mehib a döntés meghozatalához köteles az államháztartásért felelős miniszter részére bemutatni a követelés részleges elengedésének, a követelés értékesítésének indokait a behajtás körülményeinek és a költségeinek ismertetése mellett. Külföldi kötelezettel szemben fennálló követelés esetén az államháztartásért felelős miniszter a külgazdasági ügyekért felelős miniszter írásos véleményének ismeretében dönt.
 
 (1c) A számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 10. pont c)–g) alpont alapján behajthatatlan követelésről a behajthatatlanná minősítést követő év végén az állam e törvény erejénél fogva lemond. E követelésekről az Eximbank és a Mehib a lemondást követő 30 napon belül írásban tájékoztatja az államháztartásért felelős minisztert.
 
-(2) A befolyt követelések után az Eximbankot és a Mehibet az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat. Amennyiben a követelés behajtása részben vagy egészben eredmény nélkül zárul, továbbá, ha a költségvetés terhére vállalt 6. § (1) és (2) bekezdése szerinti ügyletek beváltására a behajtás eredményessége miatt részben vagy egészben nem kerül sor, az Eximbankot és a Mehibet – az államháztartásért felelős miniszter rendeletében meghatározott mértékű – az igazolt ráfordításaival arányos költségátalány illeti meg.
+(2) A befolyt követelések után az Eximbankot és a Mehibet jogszabályban meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat. Amennyiben a követelés behajtása részben vagy egészben eredmény nélkül zárul, továbbá, ha a költségvetés terhére vállalt 6. § (1) és (2) bekezdése szerinti ügyletek beváltására a behajtás eredményessége miatt részben vagy egészben nem kerül sor, az Eximbankot és a Mehibet – jogszabályban meghatározott mértékű – az igazolt ráfordításaival arányos költségátalány illeti meg.
 
 9. § E törvénynek az Eximbank által az állam készfizető kezessége mellett vállalható garanciaügyletre vonatkozó rendelkezéseit az Eximbank által kormányrendeletben előírt feltételekkel vállalt készfizető kezességre is alkalmazni kell.
 
@@ -378,6 +384,7 @@ szerzett.
 - d) az Eximbank által az állam készfizető kezessége mellett vállalható garanciák és az állam készfizető kezességével végzett deviza- és kamatcsere ügyletei pótlási- és kamatköltségei, valamint a Kormány határozata alapján nyújtott hitel- és pénzkölcsönhöz kapcsolódó, az Eximbank javára fennálló állami készfizető kezesség részletes szabályait,
 - e) az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitelnyújtás, segélyhitel ügyletek költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatás részletes szabályait,
 - f) az Eximbank által a nemzetközi fejlesztési célú együttműködés keretében végezhető tevékenységek és azok költségvetéssel történő elszámolásának, az ehhez kapcsolódó adatszolgáltatás részletes szabályait.
+- g) az Eximbank tőkekiegyenlítési rendszere részletes szabályait.
 
 (2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az (1) bekezdés b)–d) pontjaiban meghatározott kormányrendeletek hatálya alá tartozó tevékenységekre az Eximbank és a Mehib központi költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatásának részletes szabályait, valamint e rendeletben megállapítsa a 8/A. § (2) bekezdésben meghatározott jutalék és költségátalány mértékét.
 
@@ -390,6 +397,8 @@ szerzett.
 26/D. § E törvénynek a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény és a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2012. évi CLXXII. törvény (a továbbiakban: Módtv.3.) 7. § (3) bekezdésével megállapított 6. § (6) bekezdését a Módtv.3. hatálybalépését megelőzően a Mehib Rt. által állami kezességvállalás mellett biztosított hitelekre és kölcsönökre is alkalmazni kell.
 
 26/E. § Az Eximbank által devizában bevont források a Módtv.3. hatályba lépésének napján fennálló állományát e törvénynek a Módtv.3. 8. §-ával megállapított 7. § (1) bekezdésének a) pontja alkalmazása során a Módtv.3. hatálybalépésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
+
+26/F. § Az egyes állami tulajdonban lévő részvénytársaságokkal kapcsolatos törvények módosításáról szóló 2025. évi IX. törvénnyel (a továbbiakban: Módtv4.) megállapított 6/A. § c) pontját nem kell alkalmazni azon alapok vonatkozásában, amelyek futamideje a Módtv4. hatálybalépésekor már lejárt és a megszüntetési eljárás még nem zárult le.
 
 27. § (1) E törvény a kihirdetését követő harmincadik napon lép hatályba.
 

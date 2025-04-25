@@ -222,7 +222,9 @@ kell végrehajtani.
 
 #### 10.
 
-#### 20–21. §
+#### 20. §
+
+#### 21. §
 
 #### 11. Hatályba léptető rendelkezések
 
@@ -331,7 +333,7 @@ A dokumentumok átadása tételes lista alapján történik.
 | 19. | Munkáltatói lakáskölcsön támogatási szerződése (folyamatban lévő, még vissza nem fizetett) | Eredeti | T | Aktuális |
 | 20. | Orvosi alkalmassági igazolás | Másolat | T | Aktuális |
 | B) Egyéb nyilvántartások |  |  |  |  |
-| 1. | 2012. évi családi támogatással, bérkompenzációkkal kapcsolatos dokumentumok, fogyatékkal élő személyekhez kapcsolódó kedvezmények nyilatkozatainak másolata | Másolat | T | Aktuális |
+| 1. | 2012. évi családi támogatással, bérkompenzációkkal kapcsolatos dokumentumok, fogyatékossággal élő személyekhez kapcsolódó kedvezmények nyilatkozatainak másolata | Másolat | T | Aktuális |
 | 2. | Bírósági végzések, letiltások nyilvántartása | Eredeti | T | Aktuális |
 | 3. | Rehabilitációs hozzájárulás nyilvántartásai | Eredeti | T | Aktuális |
 | 4. | Szakmai dolgozók engedélyezett létszámadatai | Másolat | T | Aktuális |

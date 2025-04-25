@@ -163,7 +163,7 @@ a védelmére.
 
 #### 7. Az alapvető jogok biztosának helyettesítése
 
-15. § Ha az alapvető jogok biztosa akadályoztatva van, vagy e tisztség nincs betöltve, az alapvető jogok biztosának jogkörét az általa kijelölt, ennek hiányában a korban idősebb helyettese gyakorolja.
+15. § Ha az alapvető jogok biztosa akadályoztatva van, vagy e tisztség – a 16. § (1a) bekezdésében meghatározottakat ide nem értve – nincs betöltve, az alapvető jogok biztosának jogkörét az általa kijelölt, ennek hiányában a korban idősebb helyettese gyakorolja.
 
 #### 8. Az alapvető jogok biztosa és helyettesei megbízatásának megszűnése
 
@@ -176,6 +176,8 @@ a védelmére.
 - e) az összeférhetetlenség kimondásával,
 - f) a felmentésével vagy
 - g) a tisztségtől való megfosztással.
+
+(1a) Ha az alapvető jogok biztosa megbízatása az (1) bekezdés a) pontja alapján szűnt meg, az alapvető jogok biztosát megillető jogköröket az új alapvető jogok biztosa megbízatása kezdetéig gyakorolja.
 
 (2) Az alapvető jogok biztosa megbízatásának a megszűnését az (1) bekezdés b) és c) pontja esetében az Országgyűlés elnöke állapítja meg. Az (1) bekezdés d)–g) pontja esetében a megbízatás megszűnéséről az Országgyűlés határoz.
 

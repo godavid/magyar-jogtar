@@ -74,8 +74,8 @@ szolgálja,
 - 26. víziközmű üzemeltetése: a víziközmű-szolgáltatás nyújtása céljából a víziközmű-szolgáltató által végzett mindazon tevékenységek összessége, amelyek a jogszabályokban és az üzemeltetési szerződésben előírt követelmények teljesítése érdekében okszerűen merülnek fel,
 - 27. víziközműves kapcsolódó szolgáltatás: szerződés alapján a víziközmű-szolgáltató által más víziközmű-szolgáltató részére nyújtott ivóvíz-értékesítési vagy szennyvízelvezetési és -tisztítási szolgáltatás,
 - 28. holding: a számvitelről szóló törvény szerint anyavállalatnak és leányvállalatnak minősülő társaságok együttese, ahol az anyavállalat egyidejűleg megfelel a nemzeti vagyonról szóló törvény tulajdonosi joggyakorlóval szemben támasztott követelményeinek is.
-- 29. védendő felhasználó: az a természetes személy felhasználó, ideértve a mellékvízmérővel rendelkező elkülönített vízhasználót, valamint a fogyatékkal élő felhasználót is, aki jogszabályban meghatározott szociális helyzete alapján a víziközmű-szolgáltatásban megkülönböztetett feltételek szerint vehet részt,
-- 30. fogyatékkal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti,
+- 29. védendő felhasználó: az a természetes személy felhasználó, ideértve a mellékvízmérővel rendelkező elkülönített vízhasználót, valamint a fogyatékossággal élő felhasználót is, aki jogszabályban meghatározott szociális helyzete alapján a víziközmű-szolgáltatásban megkülönböztetett feltételek szerint vehet részt,
+- 30. fogyatékossággal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti,
 - 31. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 - 32. egyedi szennyvízkezelő berendezés: olyan vízilétesítmény, amely legfeljebb egy ingatlanon keletkező települési szennyvíz nem közműves, biológiai tisztítását energiabevitel segítségével végzi,
 - 33. víziközmű-alap: a víziközmű-szolgáltató és az ellátásért felelősök önkéntes megállapodása alapján létrehozott, a víziközmű-fejlesztések finanszírozását biztosító források összessége, így különösen a használati díjak nyilvántartására és felhasználására szolgáló, elkülönített számlán kezelt pénzügyi eszköz.
@@ -1243,9 +1243,9 @@ esetében.
 
 (12) A közegészségügyi ivóvízigénye kielégítése érdekében eljáró lakossági felhasználó az üzemképes lift használatában nem korlátozható.
 
-58/A. § (1) A védendő felhasználók a védelemre jogosító, jogszabályban meghatározott tulajdonságuk alapján szociálisan rászoruló vagy fogyatékkal élő felhasználóként részesülhetnek a víziközmű-szolgáltató által nyújtott, jogszabályban részletesen meghatározott kedvezményben.
+58/A. § (1) A védendő felhasználók a védelemre jogosító, jogszabályban meghatározott tulajdonságuk alapján szociálisan rászoruló vagy fogyatékossággal élő felhasználóként részesülhetnek a víziközmű-szolgáltató által nyújtott, jogszabályban részletesen meghatározott kedvezményben.
 
-(2) Az a felhasználó, aki a fogyatékkal élő és a szociálisan rászoruló felhasználók nyilvántartásában egyidejűleg szerepel, jogosult igénybe venni a védendő felhasználókat megillető valamennyi kedvezményt.
+(2) Az a felhasználó, aki a fogyatékossággal élő és a szociálisan rászoruló felhasználók nyilvántartásában egyidejűleg szerepel, jogosult igénybe venni a védendő felhasználókat megillető valamennyi kedvezményt.
 
 (3) A védendő felhasználói körbe tartozás igazolásának módját, valamint a kedvezményeket és azok igénybevételének feltételeit, továbbá a különleges bánásmódra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -1256,7 +1256,7 @@ esetében.
 
 58/C. § Ha a víziközmű-szolgáltatónak az 55. § (1) és (2) bekezdésében foglaltak végrehajtása során jut tudomására, hogy a kötelezett a védendő felhasználókra vonatkozó jogszabályi feltételeket vélhetően kielégíti, haladéktalanul megadja részére a szociálisan rászoruló felhasználókat az e törvény és a végrehajtására kiadott kormányrendelet alapján megillető kedvezményekre vonatkozó tájékoztatást, és megküldi részére a nyilvántartásba vételhez szükséges információkat és formanyomtatványokat.
 
-58/D. § A fogyatékkal élő felhasználót különösen a méréssel, a leolvasással, a számlázással és a díjfizetési módokkal kapcsolatosan igényeinek megfelelő, különleges bánásmódban kell részesíteni.
+58/D. § A fogyatékossággal élő felhasználót különösen a méréssel, a leolvasással, a számlázással és a díjfizetési módokkal kapcsolatosan igényeinek megfelelő, különleges bánásmódban kell részesíteni.
 
 ### VII. Fejezet — ADATSZOLGÁLTATÁS, BIZALMAS INFORMÁCIÓK KEZELÉSE, TITOKVÉDELEM
 
@@ -1304,7 +1304,7 @@ esetében.
 
 (5) A jegyző és az ellátást megállapító szerv a (4) bekezdés szerinti igazoláson köteles feltüntetni, hogy az igazolás mely felhasználási hely tekintetében történő felhasználásra került kiadásra. Ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
 
-(6) A nyilvántartásba vételt követően a védendő felhasználói státuszra jogosító ellátást megállapító szerv minden év március 31-ig tájékoztatja a víziközmű-szolgáltatót, hogy a védendő felhasználó védettsége továbbra is fennáll-e. Határozott időre megállapított védettség esetén a védettségre megállapított határozott időszak alatti években, továbbá a védettség lejáratának évében a védendő felhasználói státuszra jogosító ellátást megállapító szerv mentesül a március 31-ei igazolási kötelezettség alól. Fogyatékkal élő felhasználó esetében, ha szakorvosi vélemény alapján az állapotában jelentős javulás nem várható, az évenkénti tájékoztatási kötelezettség nem áll fenn.
+(6) A nyilvántartásba vételt követően a védendő felhasználói státuszra jogosító ellátást megállapító szerv minden év március 31-ig tájékoztatja a víziközmű-szolgáltatót, hogy a védendő felhasználó védettsége továbbra is fennáll-e. Határozott időre megállapított védettség esetén a védettségre megállapított határozott időszak alatti években, továbbá a védettség lejáratának évében a védendő felhasználói státuszra jogosító ellátást megállapító szerv mentesül a március 31-ei igazolási kötelezettség alól. Fogyatékossággal élő felhasználó esetében, ha szakorvosi vélemény alapján az állapotában jelentős javulás nem várható, az évenkénti tájékoztatási kötelezettség nem áll fenn.
 
 (7) Ha a védettségét megalapozó körülmények megváltozása miatt a lakossági felhasználó már nem jogosult kedvezményre, az 58/A. § (1) bekezdése szerinti kedvezményre való jogosultság megszűnik. Az (1) bekezdés szerinti célból kezelt adatot a víziközmű-szolgáltató a jogosultság megszűnését követően törli.
 
@@ -1596,7 +1596,7 @@ együttes mértékét, úgy a tárgyévet követő évben a kiadási előirányz
 - 18. a víziközmű-fejlesztési hozzájárulás alkalmazásának részletes szabályait;
 - 19. az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat;
 - 20. a gördülő fejlesztési tervek tartalmát, ütemezését, felülvizsgálatának szabályait, továbbá a tervek jóváhagyásának szempontjait;
-- 21. a védendő felhasználók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő felhasználókat megillető különleges bánásmód részletes szabályait, a védendő felhasználói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit;
+- 21. a védendő felhasználók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékossággal élő felhasználókat megillető különleges bánásmód részletes szabályait, a védendő felhasználói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit;
 - 22. a mellékvízmérőkön mért fogyasztáson alapuló elszámolási mód esetén az elkülönített vízhasználók és a víziközmű-szolgáltató sajátos feladatait, a kötelezettség megszegésének következményeit, az elszámolási mód alkalmazhatóságának műszaki feltételeit, a házi és csatlakozó ivóvízhálózat ellenőrzési rendjét, továbbá az elszámolás alapját képező szennyvízmennyiség meghatározásának részletes szabályait;
 - 23. az ideiglenes szolgáltatásra vonatkozó átmeneti díjkérelem tartalmi és formai követelményeit, az átmeneti díj meghatározásánál figyelembe vehető ráfordítások körét
 - 24. a víziközmű-térképi nyilvántartást vezető hatóságot, a hatóság hatáskörére és illetékességére vonatkozó részletes szabályokat, továbbá hatósági nyilvántartás tartalmát, az abba történő bejegyzés, valamint az onnan való törlés során alkalmazható bizonyítási eszközök körét;
