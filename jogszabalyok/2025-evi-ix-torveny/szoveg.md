@@ -10,38 +10,17 @@ az egyes állami tulajdonban lévő részvénytársaságokkal kapcsolatos törv�
 
 #### 1. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-1. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Exim törvény) a következő 6/A. §-sal egészül ki:
+#### 1. §
 
-„6/A. § Az állam a központi költségvetés terhére – kormányrendeletben megállapított feltételek szerint és módon – biztosítja az Eximbank részére
+#### 2. §
 
-- a) a 2. § (2) bekezdése szerint nyújtott kötött segélyhitelek kamatjainak, valamint az e célt szolgáló finanszírozási költségek különbözetét,
-- b) a 2. § szerint nyújtott hitelek kamatjainak, valamint az e célt szolgáló finanszírozási költségek különbözetét (a továbbiakban: kamatkiegyenlítés),
-- c) az Eximbank által a 2. § (1a)–(1d) bekezdése szerinti alapokba (a továbbiakban: alap) befektetett tőkének és az alap vagy harmadik személy által az Eximbank részére a befektetési jegyekhez kapcsolódóan bármely jogcímen kifizetett összeg különbözetét (a továbbiakban: tőkekiegyenlítés).”
+#### 3. §
 
-2. § Az Exim törvény 8/A. § (1b) bekezdés b) pontja helyébe a következő rendelkezés lép:
+#### 4. §
 
-[1b) Amennyiben az (1) bekezdés szerinti követelés]
+#### 5. §
 
-„b) értékesítése során az értékesítés eredményeként a vételár nem éri el a követelés összegét, és valószínűsíthető, hogy a további behajtási tevékenységgel szemben a követelés részleges elengedése, illetve a követelés értékesítése kedvezőbb a központi költségvetés számára, úgy az (1a) bekezdés szerinti megállapodás megkötéséhez, valamint a követelés értékesítéséhez az államháztartásért felelős miniszter előzetes jóváhagyása szükséges. Az Eximbank és a Mehib a döntés meghozatalához köteles az államháztartásért felelős miniszter részére bemutatni a követelés részleges elengedésének, a követelés értékesítésének indokait a behajtás körülményeinek és a költségeinek ismertetése mellett.”
-
-3. § Az Exim törvény 26. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg)
-
-„g) az Eximbank tőkekiegyenlítési rendszere részletes szabályait.”
-
-4. § Az Exim törvény a következő 26/F. §-sal egészül ki:
-
-„26/F. § Az egyes állami tulajdonban lévő részvénytársaságokkal kapcsolatos törvények módosításáról szóló 2025. évi IX. törvénnyel (a továbbiakban: Módtv4.) megállapított 6/A. § c) pontját nem kell alkalmazni azon alapok vonatkozásában, amelyek futamideje a Módtv4. hatálybalépésekor már lejárt és a megszüntetési eljárás még nem zárult le.”
-
-5. § Az Exim törvény
-
-- 1. 7. § (1) bekezdés d) pontjában a „kamatkiegyenlítési” szövegrész helyébe a „kamatkiegyenlítési és tőkekiegyenlítési” szöveg,
-- 2. 8/A. § (2) bekezdésében az „az államháztartásért felelős miniszter rendeletében” szövegrész helyébe a „jogszabályban” szöveg
-
-lép.
-
-6. § Hatályát veszti az Exim törvény 6. § (4) bekezdése.
+#### 6. §
 
 #### 2. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
