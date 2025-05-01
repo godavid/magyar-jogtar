@@ -42,7 +42,7 @@ a következő törvényt alkotja:
 - j) jogszabályban meghatározottak szerint kötelező intézményvédelmi szervezetben és a kötelező intézményvédelmi szervezet vagyoni eszközökkel való ellátásában;
 - k) az MFB Zrt., valamint az állam közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek hitel- és tőkefinanszírozásában, valamint az érdekükben történő garancia nyújtásában és fizetési kötelezettségeikért kezesség vállalásában;
 - l) az állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében,;
-- m) az 1. mellékletben meghatározott, valamint az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére a tevékenységük megfelelő színvonalú ellátását, az átlátható és prudens működésüket, annak jogszerűségét biztosító szolgáltatások nyújtásában;
+- m) az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére a tevékenységük megfelelő színvonalú ellátását, az átlátható és prudens működésüket, annak jogszerűségét biztosító szolgáltatások nyújtásában;
 - m)
 - n)
 - o) szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás 1. cikk 2. pontja és 2. cikk 2. pontja végrehajtásának elősegítése érdekében iratvizsgálati feladatok ellátásában,
@@ -85,11 +85,11 @@ a következő törvényt alkotja:
 
 (4a) Az MFB Zrt. az (1)–(4) bekezdésben meghatározott üzletszerű tevékenységek mellett a 8. § (3) és (6) bekezdése szerinti befektetett pénzügyi eszközhöz kapcsolódó befektetési tevékenységet is alaptevékenységként végzi.
 
-(5) Az 1. mellékletben meghatározott gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonos jogait – e törvény erejénél fogva – az állam nevében az MFB Zrt. gyakorolja (a továbbiakban: tulajdonosi jogok gyakorlása). A tulajdonosi jogok gyakorlására a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
+(5) Az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
 
 (6) Kizárólag az (5) bekezdésben meghatározott társasági részesedések tulajdonjogának – az erre feljogosított szervezet által történő – átruházása, biztosítékul adása vagy más módon történő megterhelése, a részesedésekre vételi jog, elővásárlási jog szerződéssel történő alapítása, illetve a gazdálkodó szervezet végelszámolással történő megszüntetése esetén kell az állami vagyonról szóló 2007. évi CVI. törvény, valamint annak végrehajtására kiadott más jogszabályok rendelkezéseit alkalmazni.
 
-(7) Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.
+(7) Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.
 
 (8) A hallgatói hitelrendszerről szóló jogszabályban meghatározott Diákhitel szervezet számára nyújtott szolgáltatások teljesítése érdekében a Diákhitel szervezet a személyes adatokat továbbítja az MFB Zrt.-nek. Az MFB Zrt. a személyes adatokat kizárólag e szolgáltatások nyújtása céljából jogosult kezelni, mindaddig, amíg a hallgatói hitelszerződés alapján a Diákhitel szervezetet vagy a hallgatót jogok illethetik meg, illetve kötelezettségek terhelhetik.
 
@@ -103,7 +103,7 @@ a következő törvényt alkotja:
 
 (13) Az MFB Zrt. a rábízott vagyon értékének megőrzéséről köteles gondoskodni.
 
-(14) Az MFB Zrt. jogosult ellenőrizni az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
+(14) Az MFB Zrt. jogosult ellenőrizni az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
 
 (15) Az MFB Zrt. veszteségmérséklés céljából pénzügyi intézménytől hitelállományt vehet át és követelést vásárolhat.
 
@@ -200,7 +200,7 @@ szabályok
 
 (1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt, és amelyek a befektetési alapra, az alapkezelőre, az alapkezelők keresztkapcsolataira, vagy a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre tekintettel képeznének egyetlen kockázati tényezőt.
 
-(1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az 1. mellékletben meghatározott gazdasági társaságokra.
+(1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaságokra.
 
 (2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül. Az MFB Zrt. esetében a Hpt. 100. § (1) bekezdésében foglaltakat nem kell alkalmazni, ha az MFB Zrt.-vel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogot megtestesítő értékpapír ügyfél általi megvásárlásával az MFB Zrt. és a vele szoros kapcsolatban álló vállalkozás között a szoros kapcsolat megszűnik.
 
@@ -215,7 +215,7 @@ szabályok
 - e) ingatlanforgalmazó, ingatlankezelő gazdálkodó szervezetben,
 - f) korlátolt felelősségű társaságban, részvénytársaságban átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteség mérséklése, vagy a közvetlen vagy közvetett részesedésével működő gazdasági társaságok veszteségmérséklése céljából, hiteltulajdonrészre vonatkozó csereügylet vagy követelése ellenértékeként csődeljárás, felszámolás során,
 - g) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából korlátolt felelősségű társaságban, részvénytársaságban,
-- h) az 1. mellékletben meghatározott, valamint a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi CXXVIII. törvény hatálybalépésekor közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetben,
+- h) az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi CXXVIII. törvény hatálybalépésekor közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetben,
 - i) az MFB Zrt. feletti tulajdonosi jogokat gyakorló miniszter döntésében meghatározott egyéb olyan gazdálkodó szervezetben, amelynek működése az MFB Zrt. 3. § szerinti alaptevékenységéhez kapcsolódik, valamint
 - j) üzletviteli, egyéb vezetési tanácsadást vagy egyéb, máshová nem sorolt pénzügyi közvetítést főtevékenységként végző gazdálkodó szervezetben
 
@@ -227,11 +227,11 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (6) A (3) bekezdésben foglaltakat nem kell alkalmazni az MFB Zrt. közvetlen vagy közvetett részesedésszerzése esetén, ha annak tárgya
 
-- a) az 1. mellékletben meghatározott gazdálkodó szervezetben fennálló, vagy annak közvetlen vagy közvetett tulajdonában álló társasági részesedés,
+- a) az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezetben fennálló, vagy annak közvetlen vagy közvetett tulajdonában álló társasági részesedés,
 - b) az MFB Zrt. közvetlen vagy közvetett tulajdonában álló társasági részesedés vagy
 - c) olyan kockázati tőkealap közvetlen vagy közvetett tulajdonában álló társasági részesedés, amely által kibocsátott befektetési jegyek többsége az MFB Zrt. tulajdonában van.
 
-8/A. § Az 1. mellékletben szereplő és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi vállalkozásoknál, valamint az 1. mellékletben meghatározott és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek részesedésével működő pénzügyi vállalkozásoknál igazgatóság nem működik, kivéve ha a tulajdonos (alapító), illetve a miniszter vagy a közgyűlés másként rendelkezik. Egyszemélyes ügyvezetés esetén az igazgatóság jogait egy vezető tisztségviselő (vezérigazgató) gyakorolja. E rendelkezéseket 2010. július 1. napját követően létrehozott, illetve megszüntetett jogviszonyok tekintetében kell alkalmazni.
+8/A. § Az MFB Zrt. tulajdonosi joggyakorlása alatt álló és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi vállalkozásoknál, valamint az MFB Zrt. tulajdonosi joggyakorlása alatt álló és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek részesedésével működő pénzügyi vállalkozásoknál igazgatóság nem működik, kivéve ha a tulajdonos (alapító), illetve a miniszter vagy a közgyűlés másként rendelkezik. Egyszemélyes ügyvezetés esetén az igazgatóság jogait egy vezető tisztségviselő (vezérigazgató) gyakorolja. E rendelkezéseket 2010. július 1. napját követően létrehozott, illetve megszüntetett jogviszonyok tekintetében kell alkalmazni.
 
 9. § (1)
 
@@ -259,7 +259,7 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (5) A (4) bekezdésben foglaltakat nem kell alkalmazni az MFB Zrt. európai uniós forrásból nyújtott pénzügyi eszközzel kapcsolatos és az Európai Unió szerveitől származó központi uniós forrásokból nyújtott támogatásokkal kapcsolatos adatok közzétételét előíró uniós jogi aktusok és jogszabályi rendelkezések által meghatározott adatok körére. Nem jelenti a (4) bekezdésben foglaltak sérelmét a 2. § h) pontja szerinti tevékenységekkel összefüggésben ellenőrzésre jogosult szerv részére történő adatszolgáltatási kötelezettség teljesítése.
 
-10/B. § A Hpt. 159. §-a, 161. §-a és az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése szerinti titoktartási kötelezettség nem terjed ki – a Hpt. 159. § (3) bekezdésében és 161. § (2) bekezdésében meghatározottakon túlmenően – az MFB Zrt. által a miniszter által vezetett minisztérium, illetve a a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 20. § (2) bekezdés b) pontja szerinti esetben a kijelölt minisztérium vagy a Miniszterelnöki Kormányiroda részére, illetve az 1. mellékletben meghatározott és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek által az MFB Zrt. részére adott adatszolgáltatásra.
+10/B. § A Hpt. 159. §-a, 161. §-a és az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése szerinti titoktartási kötelezettség nem terjed ki – a Hpt. 159. § (3) bekezdésében és 161. § (2) bekezdésében meghatározottakon túlmenően – az MFB Zrt. által a miniszter által vezetett minisztérium, illetve a a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 20. § (2) bekezdés b) pontja szerinti esetben a kijelölt minisztérium vagy a Miniszterelnöki Kormányiroda részére, illetve az MFB Zrt. tulajdonosi joggyakorlása alatt álló és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek által az MFB Zrt. részére adott adatszolgáltatásra.
 
 ### V. Fejezet — AZ MFB ZRT. FELÜGYELETE
 
@@ -297,7 +297,7 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (4a) Az MFB Zrt. tekintetében a Hpt. 150. §-ában foglaltakat nem kell alkalmazni.
 
-(5) Az (1)–(4) bekezdésben foglaltakat az 1. mellékletben szereplő pénzügyi intézményekre, az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, vagy az 1. mellékletben meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
+(5) Az (1)–(4) bekezdésben foglaltakat az MFB Zrt. tulajdonosi joggyakorlása alatt álló pénzügyi intézményekre, az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, vagy az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
 
 13/B. § Kizárólag a miniszternek engedélye szükséges az MFB Zrt. alapító okiratának módosításához a következő esetekben:
 
@@ -405,19 +405,8 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 23/A. § Az MFB Zrt.-nek a Szövetkezeti Hitelintézetek Integrációs Szervezetéből (a továbbiakban: Integrációs Szervezet) történő kilépéséig a 10/B. §-nak – az egyes vagyongazdálkodást érintő rendelkezésekről, valamint a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról szóló 2019. évi LX. törvény hatálybalépését megelőző napon hatályos – rendelkezései alkalmazandók az Integrációs Szervezet vagy annak tagjai által az MFB Zrt. részére, továbbá a miniszter által vezetett minisztérium, illetve a a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 20. § (2) bekezdés b) pontja szerinti esetben a kijelölt minisztérium vagy a Miniszterelnöki Kormányiroda részére adott adatszolgáltatás vonatkozásában.
 
-24. § E törvénynek az 1. mellékletben meghatározott gazdálkodó szervezetekre vonatkozó rendelkezéseit alkalmazni kell azon gazdálkodó szervezetekre is, amelyekben az MFB Zrt. az állami vagyonról szóló 2007. évi CVI. törvény felhatalmazása alapján kiadott miniszteri rendelet értelmében gyakorolja az állam nevében a tulajdonosi jogokat.
+#### 24. §
 
 ### 1. melléklet a 2001. évi XX. törvényhez
-
-Az MFB Zrt. a 3. § (5) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 3. § (1) bekezdése alapján az állam nevében a következő gazdálkodó szervezetekben gyakorol tulajdonosi jogokat:
-
-- 1.
-- 2. Diákhitel Központ Zártkörűen Működő Részvénytársaság
-- 3.
-- 4.
-- 5.
-- 6. Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
-- 7.
-- 8.
 
 ### 2. melléklet a 2001. évi XX. törvényhez
