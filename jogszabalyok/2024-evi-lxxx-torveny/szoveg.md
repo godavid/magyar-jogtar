@@ -26,29 +26,94 @@ egyes agrártárgyú törvények módosításáról
 
 #### 3. A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény módosítása
 
-#### 10. §
+10. § (1) A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény (a továbbiakban: Növényvédő kamarai tv.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 11. §
+„(2) A Kamara
 
-#### 12. §
+- a) országos szervezettel, valamint
+- b) a vármegyékben és a fővárosban működő területi szervezettel (a továbbiakban: területi szervezet)
 
-#### 13. §
+rendelkezik.”
 
-#### 14. §
+(2) A Növényvédő kamarai tv. 1. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-#### 15. §
+„(4) A Kamara jogi személyiséggel rendelkezik.”
 
-#### 16. §
+11. § A Növényvédő kamarai tv. 2. § (5a) bekezdése helyébe a következő rendelkezés lép:
 
-#### 17. §
+„(5a) Az (5) bekezdés szerinti eljárásokat első fokon a titkár folytatja le. A titkár döntése ellen fellebbezésnek van helye, amelynek elbírálására a főtitkár jogosult.”
 
-#### 18. §
+12. § A Növényvédő kamarai tv. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Alapszabályban meghatározott területen és székhelyen képviseleti és ügyintéző szervekkel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri. A területi szervezet területe összefüggő, legalább egy vármegye (vagy a főváros) területére terjedhet ki. Egy vármegye területén kizárólag egy területi szervezet működhet. A Kamara küldöttközgyűlése négyötödös szavazattöbbséggel meghozott határozatával jogosult területi szervezeteket megszüntetni, összevonni, amennyiben a kamarai szervezet működése azt indokolja.”
+
+13. § A Növényvédő kamarai tv. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A területi szervezetet az elnök, akadályoztatása esetén az alelnök képviseli. A titkár ellátja a 2. § (5a) bekezdése, a 26. § (2) bekezdése szerinti, valamint az Alapszabályban meghatározott feladatokat.”
+
+14. § (1) A Növényvédő kamarai tv. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az elnökség kizárólagos hatáskörébe tartozik:
+
+- a) a Kamara általános képviselete;
+- b) a küldöttközgyűlés ülésének összehívása;
+- c) két küldöttközgyűlés közötti időben a Kamara operatív tevékenységének szervezése és irányítása;
+- d) jogszabály alapján, illetve az Alapszabály által meghatározott egyéb kamarai feladatok ellátása.”
+
+(2) A Növényvédő kamarai tv. 10. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A főtitkár
+
+- a) az Alapszabályban meghatározott körben képviseli az országos szervezetet,
+- b) irányítja a vármegyei titkárok munkáját,
+- c) elbírálja a 2. § (5a) bekezdése szerinti fellebbezéseket és határozatot hoz a 26. § (2) bekezdése szerint,
+- d) gyakorolja a 2. §-ban szabályozott véleményezési jogot, valamint
+- e) ellátja az Alapszabályban meghatározott feladatokat.”
+
+(3) A Növényvédő kamarai tv. 10. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) A főtitkár csak felsőfokú szakirányú végzettséggel rendelkező személy lehet. A főtitkár felett a munkáltatói jogokat az országos szervezet elnöke gyakorolja.”
+
+15. § (1) A Növényvédő kamarai tv. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A főtitkár és a titkár kivételével a tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a Kamara tagjai közül négyéves időtartamra, titkosan választják.”
+
+(2) A Növényvédő kamarai tv. 12. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A főtitkárt négyéves időtartamra a küldöttközgyűlés pályázat alapján választja meg. A főtitkár hivatalba lépéséhez és felmentéséhez a miniszter előzetes jóváhagyása szükséges. A titkárt négyéves időtartamra a főtitkár nevezi ki és gyakorolja felette a munkáltatói jogokat.”
+
+16. § A Növényvédő kamarai tv. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Azt a személyt, aki az (1) bekezdésben meghatározott feltételeknek megfelel, kérelmére fel kell venni. A felvételről és a tagsági viszony megszüntetéséről a titkár hoz döntést.”
+
+17. § A Növényvédő kamarai tv. 22. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A területi szervezet etikai-fegyelmi bizottsága a fegyelmi eljárást az (1) bekezdés szerinti tájékoztatást és a (2) bekezdés szerinti értesítést követően a 23. §-ban foglaltak szerint folytatja le.”
+
+18. § A Növényvédő kamarai tv. 26. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az első- és másodfokon eljáró etikai-fegyelmi bizottság a fegyelmi felelősség tárgyában, valamint az (1) bekezdés a) és b) pontjában meghatározott fegyelmi büntetés alkalmazása tekintetében egyszerű szótöbbséggel, az (1) bekezdés c) és d) pontjában meghatározott fegyelmi büntetés kiszabását illetően kétharmados szótöbbséggel hozza meg döntését. Az elsőfokon eljáró etikai-fegyelmi bizottság döntése alapján a titkár, a másodfokon eljáró etikai-fegyelmi bizottság döntése alapján a főtitkár határozatot hoz.”
 
 #### 19. §
 
-#### 20. §
+20. § A Növényvédő kamarai tv.
 
-#### 21. §
+- a) 2/B. §-ában a „miniszter rendeletében” szövegrész helyébe a „miniszter (a továbbiakban: miniszter) rendeletében” szöveg és az „az élelmiszerlánc felügyeletért felelős miniszter által” szövegrész helyébe az „a miniszter által” szöveg,
+- b) 2/C. §-ában az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény” szöveg és az „az ügyfél” szövegrész helyébe az „a felhasználó” szöveg,
+- c) 3. § (2) bekezdésében az „a jogszabályban” szövegrész helyébe az „az e törvényben” szöveg,
+- d) 8. § (3) bekezdésében a „Kamara” szövegrész helyébe a „küldöttközgyűlés” szöveg,
+- e) 8. § (4) bekezdés b) pontjában a „tisztségviselők.” szövegrész helyébe a „tisztségviselők tanácskozási joggal.” szöveg,
+- f) 23. § (4) bekezdésében a „büntetőeljárás” szövegrész helyébe a „hatósági vagy büntetőeljárás” szöveg, az „a bíróság” szövegrészek helyébe az „a hatóság vagy a bíróság” szöveg és az „a büntetőeljárásnak” szövegrész helyébe az „a hatósági vagy a büntetőeljárásnak” szöveg,
+- g) 23. § (5) bekezdésében az „A bíróság” szövegrész helyébe az „A hatóság és a bíróság” szöveg,
+- h) 29. § (1) bekezdésében az „az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter)” szövegrész helyébe az „a miniszter” szöveg
+
+lép.
+
+21. § Hatályát veszti a Növényvédő kamarai tv.
+
+- a) 3. § (3) bekezdésében az „a területi szervezet költségvetéséből működtetett” szövegrész,
+- b) 8. § (3) bekezdésében a „küldöttközgyűlés” szövegrész,
+- c) 10. § (3) bekezdése.
 
 #### 4. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 

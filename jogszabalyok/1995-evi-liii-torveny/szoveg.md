@@ -105,6 +105,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 - 39. térinformatikai eszköz: olyan informatikai, geodéziai vagy távérzékelési eszköz, amely téradat rögzítésére, tárolására, kezelésére, továbbá megjelenítésére szolgál.
 - 40. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - 41. meteorológiai obszervatórium: nagy léptékű időjárási folyamatok megfigyelésére alkalmas magaslégköri szondával, időjárási radarral, szélradarral, légkörfizikai mérőeszközökkel rendelkező létesítmény, ahol nagy területi reprezentativitású, különösen pontos meteorológiai megfigyeléseket vagy viharjelzést, légkörfizikai, magaslégköri kutatást folytatnak.
+- 42. kiemelt környezetvédelmi szabályszegést elkövető: az a természetes személy vagy gazdálkodó szervezet, akit vagy amelyet a környezetvédelmi hatóság egy költségvetési évben az e törvény végrehajtására kiadott kormányrendeletben meghatározott összeget elérő környezetvédelmi bírsággal sújt.
 
 5. § E törvény hatálybalépését követően törvény, kormányrendelet vagy önkormányzati rendelet határozhat meg környezethasználatnak minősülő tevékenységet.
 
@@ -1498,7 +1499,28 @@ A KÖRNYEZETVÉDELEMBEN
 
 (2) A környezetvédelmi bírságot a környezet igénybevételi járulékon és a környezetterhelési díjon felül kell megfizetni.
 
-(3)
+(3) A kiemelt környezetvédelmi szabályszegést elkövető tevékenységének gyakorlását a környezetvédelmi hatóság a kiemelt környezetvédelmi szabályszegést elkövető ekkénti minősítését eredményező döntés véglegessé válását követően az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint a jogsértő tevékenység fennállásáig felfüggeszti. A kiemelt környezetvédelmi szabályszegést elkövető a felfüggesztésről hozott döntés véglegessé válását követő két évig nem részesülhet a környezethasználattal összefüggő tevékenységéhez kapcsolódó támogatásban.
+
+(3a) A környezetvédelmi hatóság a (3) bekezdésben foglaltakra tekintettel az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint nyilvántartást vezet, amelynek célja a kiemelt környezetvédelmi szabályszegést elkövetők ellenőrizhetőségének biztosítása.
+
+(3b) A (3a) bekezdés szerinti nyilvántartás tartalmazza
+
+- a) a természetes személy elkövető
+  - aa) nevét,
+  - ab) születési nevét,
+  - ac) születési helyét és idejét,
+  - ad) állampolgárságát,
+- b) a jogi személy, jogi személyiséggel nem rendelkező szervezet elkövető nevét, cégjegyzékszámát vagy nyilvántartási számát, honossága szerinti állam megnevezését,
+- c) annak a költségvetési évnek a megjelölését, amely esetében a kiemelt környezetvédelmi szabályszegés ténye megállapításra került,
+- d) a c) pont vonatkozásában
+  - da) a bírságot kiszabó hatóság megnevezését,
+  - db) a hatáskör meghatározását, amelyben eljárva a hatóság a bírságot kiszabta,
+  - dc) a bírságot kiszabó döntés véglegessé válásának időpontját,
+  - dd) a bírságot kiszabó döntés ügyiratszámát,
+  - de) a bírság típusát és összegét, valamint
+  - df) a jogsértés időpontját.
+
+(3c) A nyilvántartás (3b) bekezdés b)–d) pontjában meghatározott adatok a jogi személy és a jogi személyiséggel nem rendelkező szervezet esetében nyilvánosan hozzáférhetők.
 
 (4) Kormány nyilvános határozatában engedélyezheti, hogy az állam a tulajdonosi joggyakorló szervezete útján a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben véglegesen kiszabott és határidőben meg nem fizetett környezetvédelmi bírságból eredő követelés vagy annak egy része ellenében – a követelés behajtása helyett, legfeljebb a kormányhatározatban megjelölt összegben és feltételek szerint – a bírság megfizetésére köteles gazdasági társaságban részesedéssel rendelkezőkkel való megállapodással a gazdasági társaságban való részesedést megtestesítő részvényt vagy üzletrészt szerezzen, ha
 
@@ -1554,6 +1576,8 @@ A KÖRNYEZETVÉDELEMBEN
 
 (6a) Nem minősül birtoklásban történő jogalap nélküli háborításnak, illetőleg mások, különösen a szomszédok szükségtelen zavarásának vagy jogaik gyakorlása veszélyeztetésének a jelentős tömeget mozgató, nemzetgazdasági, turisztikai, kulturális, szabadidős vagy sport szempontból kiemelkedő jelentőségű rendezvény vagy esemény zajkibocsátása, ha a jogszabályban, illetőleg az arra vonatkozó hatósági engedélyben meghatározott zajkibocsátási határértéket nem lépi túl.
 
+(6b) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 106. § (3)–(3c) bekezdésében foglaltakat hatálybalépésüket követően indult ügyekben kell alkalmazni.
+
 (7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - 1. a települési önkormányzat polgármesterének és jegyzőjének részletes környezetvédelmi államigazgatási hatáskörét;
@@ -1561,7 +1585,7 @@ A KÖRNYEZETVÉDELEMBEN
 - 3. a környezeti hatásvizsgálat elvégzéséhez kötött tevékenységek körét, a környezeti hatástanulmány általános tartalmi követelményeit, valamint a környezeti hatásvizsgálati eljárás szabályait;
 - 4. a környezetvédelmi biztosíték adására köteles, továbbá a környezetvédelmi biztosítás kötésére kötelezhető tevékenységek körét, továbbá szabályozza a biztosíték formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, továbbá a környezetvédelmi biztosítás, illetve a környezetvédelmi céltartalékképzés szabályait;
 - 5. a környezetre súlyos veszélyt jelentő anyagok és termékek előállítása, behozatala, forgalmazása, valamint tevékenységek és technológiák alkalmazása részletes feltételeit és az e tevékenységre jogosító engedély kiadásának rendjét, továbbá az engedéllyel rendelkezők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az ilyen tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
-- 6. a környezetvédelmi bírságok fajtáit és mértékét, megállapításának módját;
+- 6. a környezetvédelmi bírságok fajtáit és mértékét, megállapításának módját, valamint a környezetvédelmi bírságtól eltérő, egyéb közigazgatási szankciónak nem minősülő környezetvédelmi jogkövetkezményekre és azok nyilvántartására vonatkozó részletes szabályokat;
 - 7. a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák körét, minősítésének általános szabályait;
 - 8. azokat a környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni;
 - 9. a hatásterület meghatározásának szabályait;

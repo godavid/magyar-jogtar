@@ -164,12 +164,62 @@ vonatkozó részletes szabályokat.
 
 (4) Az e törvény hatálybalépése előtt közhitelesen nyilvántartott adatok és közhiteles nyilvántartások, amelyek nem felelnek meg e törvény rendelkezéseinek, és nem rendelkeznek a 15. § (2) bekezdés a) pontja szerinti tanúsítvánnyal vagy jogszabály nem rendelkezik külön a közhitelességükről, 2027. január 1-jén elveszítik közhiteles jellegüket, és jogszabály alapján nyilvántartott adatokká, valamint ezen adatok nyilvántartásával összefüggésben a nyilvántartást vezető szerv által vezetett nem közhiteles nyilvántartássá minősülnek át.
 
-#### 19. §
+#### 19. § [A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása]
+
+A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 92. §-a a következő (7) és (8) bekezdéssel egészül ki:
+
+„(7) A kirendelt ügyvéd díjazásra (munkadíjra és költségtérítésre) jogosult.
+
+(8) A szabálysértési hatóság a szabálysértési költség részét képező kirendelt ügyvéd díját (munkadíját és költségtérítését) a Magyar Ügyvédi Kamara (a továbbiakban: Kamara) honlapján közzétett, a Kamarának a kirendelt védő óradíjáról, továbbá a kirendelt védői tevékenységért járó díjazásáról szóló szabályzatában foglaltak szerint, az abban meghatározott díj alapján állapítja meg. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 194/B. §-a szerinti megállapodás hiányában a szabálysértési hatóság a kirendelt védő óradíját és a kirendelt védői tevékenységért járó díjazást az állam által előlegezett kirendelt védői díjakról szóló miniszteri rendelet alapján állapítja meg.”
 
 #### 20. §
 
-#### 21. §
+#### 21. § [Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása]
 
-#### 22. §
+(1) Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) 36. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A kirendelt ügyvéd – ide nem értve a 194/B. § szerinti közfeladat-ellátás esetére a büntetőeljárásnak a vádemelésig terjedő szakaszában a kirendelt védőt – jogszabályban meghatározott díjazásra (munkadíjra és költségtérítésre) tarthat igényt. A kirendelt védőnek a büntetőeljárások során, a vádemelésig terjedő szakaszban felmerülő díjazását (munkadíját és költségtérítését) a 194/B. § szerinti közfeladat-ellátás esetére a Magyar Ügyvédi Kamara szabályzatban állapítja meg.”
+
+(2) Az Üttv. 36. § (8) bekezdése helyébe a következő rendelkezés lép és a 36. § a következő (9) és (10) bekezdéssel egészül ki:
+
+„(8) A kirendelt ügyvéd óradíját a központi költségvetésről szóló törvényben az Országgyűlés állapítja meg úgy, hogy annak összege az előző évi összegnél nem lehet alacsonyabb.
+
+(9) A (8) bekezdéstől eltérően a kirendelt védő óradíját – a 194/B. § szerinti közfeladat-ellátás esetére a büntetőeljárásnak a vádemelésig terjedő szakaszában – a Magyar Ügyvédi Kamara szabályzatban állapítja meg úgy, hogy annak összege a (8) bekezdés szerinti összegnél nem lehet alacsonyabb.
+
+(10) A (9) bekezdés szerinti kamarai szabályzat hiányában a kirendelt védő óradíját miniszteri rendelet állapítja meg úgy, hogy annak összege a (8) bekezdés szerinti összegnél nem lehet alacsonyabb.”
+
+(3) Az Üttv. 158. § (1) bekezdése a következő 39. ponttal egészül ki:
+
+(A küldöttgyűlés szabályzatban rendelkezik)
+
+„39. a 194/B. § szerinti közfeladat-ellátás esetére a büntetőeljárásnak a vádemelésig terjedő szakaszában a 36. § (9) bekezdésében meghatározottak szerint a kirendelt védő óradíjáról, a kirendelt védői tevékenységért járó díjazásról, továbbá a kifizetés eljárásrendjének részletes szabályairól.”
+
+(4) Az Üttv. a következő XXVI/B. Fejezettel egészül ki:
+
+### „XXVI/B. Fejezet — AZ ÁLLAM ÁLTAL ELŐLEGEZETT KIRENDELT VÉDŐI DÍJAK KIFIZETÉSE
+
+194/B. § (1) A büntetőeljárás vádemelésig terjedő szakaszában az állam által előlegezett kirendelt védői díjak kifizetésére, mint közfeladat ellátására az állam nevében eljáró miniszter megállapodást köthet a Magyar Ügyvédi Kamarával.
+
+(2) A megállapodásnak tartalmaznia kell az (1) bekezdés szerinti közfeladat ellátásának és finanszírozásának részletes szabályait.
+
+(3) Az (1) bekezdés szerinti közfeladat finanszírozása az ellátott feladattal arányos, a zavartalan feladatellátáshoz szükséges időben, előzetesen rendelkezésre bocsátott pénzügyi fedezet biztosításával a központi költségvetésből valósul meg.
+
+(4) A megállapodás az abban meghatározott időtartamra vonatkozóan határozza meg az (1) bekezdés szerinti közfeladat-ellátás finanszírozásának feltételeit. A miniszter a megállapodás időtartamára többéves vagy a költségvetési éven túli év előirányzatát terhelő kötelezettségvállalást is tehet. A megállapodás minimális időtartama két év.
+
+(5) A megállapodás – rendes felmondással – kilencven napos határidővel a tárgyévi költségvetési év végével mondható fel.”
+
+(5) Az Üttv. 206. §-a a következő f) ponttal egészül ki:
+
+(Felhatalmazást kap a miniszter, hogy)
+
+„f) a 194/B. § szerinti megállapodás hiányában a büntetőeljárásnak a vádemelésig terjedő szakaszában a kirendelt védő óradíját, a kirendelt védői tevékenységért járó díjazást, továbbá a kifizetés eljárásrendjének részletes szabályait az állam által előlegezett kirendelt védői díjakról szóló”
+
+(rendeletben szabályozza.)
+
+#### 22. § [A büntetőeljárásról szóló 2017. évi XC. törvény módosítása]
+
+A büntetőeljárásról szóló 2017. évi XC. törvény 362. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az ügyészség, illetve a nyomozó hatóság az (1) bekezdés 9. pontja szerinti határozatában a kirendelt védő díját (munkadíját és költségtérítését) a Magyar Ügyvédi Kamara (a továbbiakban: Kamara) honlapján közzétett, a Kamarának a kirendelt védő óradíjáról, továbbá a kirendelt védői tevékenységért járó díjazásáról szóló szabályzatában foglaltak szerint, az abban meghatározott díj alapján állapítja meg. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 194/B. § szerinti megállapodás hiányában az ügyészség, illetve a nyomozó hatóság a kirendelt védő óradíját és a kirendelt védői tevékenységért járó díjat az állam által előlegezett kirendelt védői díjakról szóló miniszteri rendelet alapján állapítja meg.”
 
 #### 23. §

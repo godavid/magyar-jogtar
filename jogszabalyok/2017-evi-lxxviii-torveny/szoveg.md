@@ -544,7 +544,7 @@ alapján folytatható.
 
 (3) A területi kamara köteles a kirendelések teljesítése érdekében pihenő- és munkaszüneti napokon ügyvédi ügyeletet biztosítani.
 
-(4) A kirendelt ügyvéd jogszabályban meghatározott díjazásra (munkadíjra és költségtérítésre) tarthat igényt.
+(4) A kirendelt ügyvéd – ide nem értve a 194/B. § szerinti közfeladat-ellátás esetére a büntetőeljárásnak a vádemelésig terjedő szakaszában a kirendelt védőt – jogszabályban meghatározott díjazásra (munkadíjra és költségtérítésre) tarthat igényt. A kirendelt védőnek a büntetőeljárások során, a vádemelésig terjedő szakaszban felmerülő díjazását (munkadíját és költségtérítését) a 194/B. § szerinti közfeladat-ellátás esetére a Magyar Ügyvédi Kamara szabályzatban állapítja meg.
 
 (5) A kirendelt ügyvéd a helyettesítéséről úgy köteles gondoskodni, hogy az az eljárást ne akadályozza és ne sértse a terhelt vagy a képviselt személy érdekeit.
 
@@ -559,6 +559,10 @@ alapján folytatható.
 (7) Az eseti gondnok, az eseti gyám és az ügygondnok részére a meghatalmazást a hatóság kirendelő határozata pótolja.
 
 (8) A kirendelt ügyvéd óradíját a központi költségvetésről szóló törvényben az Országgyűlés állapítja meg úgy, hogy annak összege az előző évi összegnél nem lehet alacsonyabb.
+
+(9) A (8) bekezdéstől eltérően a kirendelt védő óradíját – a 194/B. § szerinti közfeladat-ellátás esetére a büntetőeljárásnak a vádemelésig terjedő szakaszában – a Magyar Ügyvédi Kamara szabályzatban állapítja meg úgy, hogy annak összege a (8) bekezdés szerinti összegnél nem lehet alacsonyabb.
+
+(10) A (9) bekezdés szerinti kamarai szabályzat hiányában a kirendelt védő óradíját miniszteri rendelet állapítja meg úgy, hogy annak összege a (8) bekezdés szerinti összegnél nem lehet alacsonyabb.
 
 37. § (1) Törvényben meghatározott esetben a hatóság kirendelő határozata alapján a területi kamara jelöli ki a kirendelés alapján kirendelt védőként eljáró ügyvédet.
 
@@ -2160,6 +2164,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 - 36. minden olyan kérdésben, amelyre az Alapszabály feljogosítja.
 - 37. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról
 - 38. az ügyvéd, az európai közösségi jogász, az ügyvédi iroda, illetve az európai közösségi jogászi iroda által a belső visszaélés-bejelentési rendszer működtetésével megbízható külső szervezettel, továbbá a vele kötött szerződéssel szemben támasztott – az ügyvédi titok kezeléséhez, illetve a titoktartás biztosításához szükséges – követelményekről.
+- 39. a 194/B. § szerinti közfeladat-ellátás esetére a büntetőeljárásnak a vádemelésig terjedő szakaszában a 36. § (9) bekezdésében meghatározottak szerint a kirendelt védő óradíjáról, a kirendelt védői tevékenységért járó díjazásról, továbbá a kifizetés eljárásrendjének részletes szabályairól.
 
 (2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14., 20. és 21. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
 
@@ -2760,6 +2765,18 @@ törli a nyilvántartásból.
 
 (4) Az ügyvéd, az európai közösségi jogász, az ügyvédi iroda, illetve az európai közösségi jogászi iroda által a belső visszaélés-bejelentési rendszer működtetésével megbízható külső szervezettel, továbbá a vele kötött szerződéssel szemben támasztott – az ügyvédi titok kezeléséhez, illetve a titoktartás biztosításához szükséges – követelményeket a Magyar Ügyvédi Kamara szabályzatban állapítja meg.
 
+### XXVI/B. Fejezet — AZ ÁLLAM ÁLTAL ELŐLEGEZETT KIRENDELT VÉDŐI DÍJAK KIFIZETÉSE
+
+194/B. § (1) A büntetőeljárás vádemelésig terjedő szakaszában az állam által előlegezett kirendelt védői díjak kifizetésére, mint közfeladat ellátására az állam nevében eljáró miniszter megállapodást köthet a Magyar Ügyvédi Kamarával.
+
+(2) A megállapodásnak tartalmaznia kell az (1) bekezdés szerinti közfeladat ellátásának és finanszírozásának részletes szabályait.
+
+(3) Az (1) bekezdés szerinti közfeladat finanszírozása az ellátott feladattal arányos, a zavartalan feladatellátáshoz szükséges időben, előzetesen rendelkezésre bocsátott pénzügyi fedezet biztosításával a központi költségvetésből valósul meg.
+
+(4) A megállapodás az abban meghatározott időtartamra vonatkozóan határozza meg az (1) bekezdés szerinti közfeladat-ellátás finanszírozásának feltételeit. A miniszter a megállapodás időtartamára többéves vagy a költségvetési éven túli év előirányzatát terhelő kötelezettségvállalást is tehet. A megállapodás minimális időtartama két év.
+
+(5) A megállapodás – rendes felmondással – kilencven napos határidővel a tárgyévi költségvetési év végével mondható fel.
+
 ### XXVII. Fejezet — A KÖZVETÍTŐI ELJÁRÁS
 
 195. § (1) A területi kamara elnöke – ha a bejelentés alapján a bejelentő és az ügyvédi tevékenység gyakorlója közötti, megbízási jogviszonyukkal összefüggésben álló vita várhatóan közvetítői eljárás során rendezhető – tájékoztatja a bejelentőt és az ügyvédi tevékenység gyakorlóját a közvetítői eljárás lényegéről, igénybevételének lehetőségéről.
@@ -2874,7 +2891,7 @@ ellenőrzésével gondoskodik.
 - c) az európai közösségi jogászok szakmai megnevezéseit, amelyek alatt az ügyvédi szakmai tevékenységet az Európai Közösségek Tanácsának 77/249/EGK irányelve és az Európai Parlament és a Tanács 98/5/EK irányelve szerint jogosultak folytatni,
 - d) az arcképes igazolványra vonatkozó részletes szabályokat,
 - e) az adópolitikáért felelős miniszterrel egyetértésben, a kérelemre induló kamarai hatósági eljárásokért fizetendő igazgatási szolgáltatási díj összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó szabályokat,
-- f)
+- f) a 194/B. § szerinti megállapodás hiányában a büntetőeljárásnak a vádemelésig terjedő szakaszában a kirendelt védő óradíját, a kirendelt védői tevékenységért járó díjazást, továbbá a kifizetés eljárásrendjének részletes szabályait az állam által előlegezett kirendelt védői díjakról szóló
 
 rendeletben szabályozza.
 

@@ -24,7 +24,9 @@ az egyes állami tulajdonban lévő részvénytársaságokkal kapcsolatos törv�
 
 #### 2. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-#### 7. §
+7. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB tv.) 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.”
 
 #### 8. §
 
@@ -36,11 +38,11 @@ az egyes állami tulajdonban lévő részvénytársaságokkal kapcsolatos törv�
 
 12. § Az MFB tv.
 
-- a)
-- b)
+- a) 2. § m) pontjában, 3. § (7) és (14) bekezdésében, 8. § (1c) bekezdésében, 8. § (3) bekezdés h) pontjában, 8. § (6) bekezdés a) pontjában, 8/A. §-ában, 10/B. §-ában, valamint 13/A. § (5) bekezdésében az „1. mellékletben meghatározott” szövegrész helyébe az „MFB Zrt. tulajdonosi joggyakorlása alatt álló” szöveg,
+- b) 8/A. §-ában, valamint 13/A. § (5) bekezdésében az „1. mellékletben szereplő” szövegrész helyébe az „MFB Zrt. tulajdonosi joggyakorlása alatt álló” szöveg,
 - c)
 
-#### 13. §
+13. § Hatályát veszti az MFB tv. 24. §-a és 1. melléklete.
 
 #### 3. Záró rendelkezések
 
