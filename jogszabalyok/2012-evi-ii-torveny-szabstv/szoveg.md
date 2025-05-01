@@ -1426,6 +1426,10 @@ téríti meg.
 
 (6) A szabálysértési költség viselését határozatban kell megállapítani.
 
+(7) A kirendelt ügyvéd díjazásra (munkadíjra és költségtérítésre) jogosult.
+
+(8) A szabálysértési hatóság a szabálysértési költség részét képező kirendelt ügyvéd díját (munkadíját és költségtérítését) a Magyar Ügyvédi Kamara (a továbbiakban: Kamara) honlapján közzétett, a Kamarának a kirendelt védő óradíjáról, továbbá a kirendelt védői tevékenységért járó díjazásáról szóló szabályzatában foglaltak szerint, az abban meghatározott díj alapján állapítja meg. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 194/B. §-a szerinti megállapodás hiányában a szabálysértési hatóság a kirendelt védő óradíját és a kirendelt védői tevékenységért járó díjazást az állam által előlegezett kirendelt védői díjakról szóló miniszteri rendelet alapján állapítja meg.
+
 #### 77. A szabálysértés által okozott kár megtérítése
 
 93. § (1) Ha az eljárás alá vont személy és a sértett a szabálysértési hatóság, illetve a bíróság előtt megállapodik a szabálysértéssel okozott kár összegében és megtérítésének módjában, vagy ha a kár összege a rendelkezésre álló bizonyítékok alapján aggálytalanul megállapítható és azt az eljárás alá vont személy a szabálysértési hatóság, illetve a bíróság határozatának meghozataláig megtéríti, a 21. § (5) bekezdés rendelkezéseit megfelelően alkalmazni kell.
