@@ -168,6 +168,10 @@ a következő törvényt alkotja:
 
 (9) Az MFB Zrt., az NTH Nemzeti Tőkeholding Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság, a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság, a Diákhitel Központ Zártkörűen Működő Részvénytársaság, valamint ezen gazdasági társaságok közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságok az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. §-a alkalmazásában együttesen kapcsolt vállalkozásnak minősülnek.
 
+(10) Az állam a központi költségvetés terhére a (11) bekezdésben meghatározott megállapodás szerint biztosítja a 4. § (5) és (5b) bekezdésében meghatározott befektetési alap által kibocsátott befektetési jegyekbe fektetett tőke, valamint az MFB Zrt. többségi befolyása alatt álló gazdasági társaság tulajdonában lévő befektetési jegyekbe fektetett tőke és a befektetési jegyek helyébe lépő pénzkövetelés különbözetét (a továbbiakban: tőkekiegyenlítés) az MFB Zrt. részére.
+
+(11) A tőkekiegyenlítés részletes szabályairól az állam nevében a nemzeti pénzügyi szolgáltatásokért felelős miniszter megállapodást köt az MFB Zrt.-vel.
+
 ### Az MFB Zrt. kormányzati kapcsolatai
 
 5/A. § A Kormánynak biztosítania kell az MFB Zrt. hosszú távú és stabil működőképességét.
@@ -198,11 +202,19 @@ szabályok
 
 (1a) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az (1) bekezdés alkalmazása során az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek kizárólag az MFB Zrt.-vel fennálló kapcsolatukra tekintettel képeznének egyetlen kockázati tényezőt.
 
-(1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt, és amelyek a befektetési alapra, az alapkezelőre, az alapkezelők keresztkapcsolataira, vagy a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre tekintettel képeznének egyetlen kockázati tényezőt.
+(1b) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amelyek
+
+- a) a befektetési jegy formájában részesedéssel rendelkező tulajdonosaikra, befektetési alap által kibocsátott befektetési jegy közvetett vagy közvetlen tulajdonosaira, befektetési alapot kezelő alapkezelőre, ezek keresztkapcsolataira, a bennük részesedéssel rendelkező befektetési alapra, a tulajdonukban lévő befektetési jegyekre, vagy
+- b) a befektetési alap befektetési jegyeinek lejegyzése vagy megvásárlása céljából az MFB Zrt. által nyújtott kölcsönre, továbbá a befektetési alap befektetési jegyeinek lejegyzéséhez vagy megvásárlásához nyújtott kölcsön biztosítékaként az MFB Zrt. által nyújtott garanciára vagy készfizető kezességvállalásra, vagy
+- c) a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre
+
+tekintettel képeznének egyetlen kockázati tényezőt.
 
 (1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaságokra.
 
-(2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül. Az MFB Zrt. esetében a Hpt. 100. § (1) bekezdésében foglaltakat nem kell alkalmazni, ha az MFB Zrt.-vel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogot megtestesítő értékpapír ügyfél általi megvásárlásával az MFB Zrt. és a vele szoros kapcsolatban álló vállalkozás között a szoros kapcsolat megszűnik.
+(1d) Az 575/2013/EU rendelet 390. cikk (2) bekezdésében foglaltaktól eltérően az MFB Zrt.-nek az egyedi ügyfelekkel szembeni teljes kitettség kiszámítása során a kollektív befektetési formák befektetési jegyeinek formájában fennálló kitettségeket nem kell figyelembe vennie.
+
+(2) Az MFB Zrt. esetében a Hpt. 17/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az MFB Zrt. mint a szerződésbe belépő pénzügyi intézmény húsz szerződésnél kevesebb szerződést vagy tízmilliárd forintnál kisebb tőketartozást vagy lízingdíj-követelést tartalmazó szerződéses állományt is átvehet a Magyar Nemzeti Bank felügyeleti engedélyével. Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
 
 (2a)
 
@@ -237,7 +249,7 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (2) Egy befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulás összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének hetvenöt százalékát.
 
-(3) Befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulások együttes összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kettőszázötven százalékát.
+(3) Befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulások együttes összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének háromszáz százalékát.
 
 9/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az MFB Zrt. részére a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
 
