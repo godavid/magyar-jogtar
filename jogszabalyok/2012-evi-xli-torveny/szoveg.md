@@ -2,21 +2,25 @@
 
 a személyszállítási szolgáltatásokról
 
-Magyarország gazdasági fejlődésének és az állampolgárok életminőségének meghatározó eleme a közösségi közlekedési szolgáltatások rendszere. Alapvető célkitűzés, hogy szolgáltatás központú, átlátható támogatási módokon keresztül ellentételezett, a társadalom és a költségvetés teherbíró képességét figyelembe vevő olyan egységes közszolgáltatási személyszállítási rendszer jöjjön létre, amely elősegíti
+[1] Az állam által biztosított személyszállítás egyike a legfontosabb közszolgáltatásoknak, amely jelentékeny részben határozza meg a polgári élet lehetőségét és annak minőségét magyarok milliói számára.
 
-– a közösségi közlekedés társadalmi és gazdasági elsőbbségének érvényre jutását az egyéni közlekedéssel szemben,
+[2] Alapvető jog tehát, hogy hazánk polgárai az ország minden pontjáról, akár a legkisebb településről megfelelő színvonalú szolgáltatással és a legfontosabb szükségleteikhez illeszkedő menetrenddel, biztosan és biztonságban juthassanak el a munkahelyükre, az oktatási vagy egészségügyi intézményekbe, az adott térség közigazgatási központjába.
 
-– az országos, a regionális, az elővárosi és a helyi személyszállításra vonatkozó európai uniós követelmények kielégítését, valamint
+[3] E törvény részletesen és pontosan meghatározza az állampolgárok közlekedési közszolgáltatásokhoz való jogát és szavatolja annak érvényesülését a mindennapokban.
 
-– a hatékonyan működő, folyamatosan javuló szolgáltatást megtestesítő szolgáltató előre tervezhető, átlátható és fenntartható finanszírozását.
+[4] A jogalkotó célja, hogy a törvényben kifejtett elvek gyakorlatba ültetésével Magyarország közlekedési közszolgáltatási rendszerében egységes és logikus szabályozás szerint készüljenek a szolgáltatói menetrendek, valamint megszűnjenek a szolgáltatási színvonalban korábban tapasztalható egyenetlenségek és egyenlőtlenségek.
 
-Mindezekre tekintettel az Országgyűlés a fenntarthatósági, környezetvédelmi és energiahatékonysági szempontrendszer érvényesülése, az utasok jogainak biztosítása, a személyszállítási közszolgáltatás működtetésére fordított állami és önkormányzati források hatékony és átlátható módon történő felhasználása, valamint annak érdekében, hogy
+[5] E törvény tartalmazza a különböző településtípusok esetében nyújtandó szolgáltatások mennyiségi és minőségi jellemzőit. Lépcsőzetesen – települési, járás- és vármegyeszékhelyi szinten, illetve a főváros és vonzáskörzete tekintetében – határozza meg, hol, milyen alapellátás biztosításával érvényesülnek a polgárok személyszállítási közszolgáltatásokkal kapcsolatos jogai.
 
-– a személyszállítási szolgáltatások egyéni közlekedéssel szembeni versenyképessége és vonzereje javuljon, színvonala az összehangolt fejlesztéspolitikai célok és szolgáltatásszervezés révén emelkedjen,
+[6] A személyszállítási közszolgáltatások igénybevételére vonatkozó alapvető joggal kapcsolatos törvény ezért a személyszállítási jogok legfőbb kódexe és kiindulópontja. A jövőben mobilitási közszolgáltatás csak e jogok tiszteletben tartásával és érvényesítésével szervezhető meg és működtethető Magyarországon.
 
-– a közlekedési infrastruktúra működtetésének és pótlásának költségei, a közlekedési szolgáltató bevétellel nem fedezett indokolt költségei, továbbá az állam által jogszabályban biztosított utazási kedvezmények ellentételezéséhez nyújtott szociálpolitikai jellegű támogatások átlátható módon elkülönüljenek
+[7] A törvényben felsorolt jogok érvényesítése igazságosabbá teszi a vidéken élők hozzáférését a közlekedési közszolgáltatásokhoz, ez pedig közvetett, de jelentős hatással lehet a nagyvárosokon kívüli Magyarország, a magyar vidék megtartóerejének növekedésére.
 
-a következő törvényt alkotja:
+[8] E törvény révén hazánk polgárainak közlekedéssel kapcsolatos jogai ugyanakkor nemcsak a térben, de időben is hatékonyabban érvényesülnek, miután a korábbiaktól eltérően a törvény által meghatározott alapellátást immár nem csupán a hétköznapokon, hanem a hét minden napján biztosítani szükséges. Ez a változás ugyancsak hozzájárul ahhoz, hogy a kisebb, vidéki településeken élő honfitársaink se legyenek kizárva a szokásos rendtől eltérő munkavégzés lehetőségéből, valamint ahhoz, hogy igazságosabbá, területileg kiegyenlítetté váljon a kikapcsolódási, szórakozási lehetőségekhez való hozzáférés hazánk minden polgára számára.
+
+[9] A személyszállítási közszolgáltatások igénybevételére vonatkozó alapvető joggal kapcsolatos törvény erősíti Magyarország belső kohézióját, támogatja a szülőföldön maradás és boldogulás lehetőségét, miközben a munkaerőpiac kínálati és keresleti oldalának jobb összekapcsolása, az oktatási, egészségügyi, kulturális és rekreációs lehetőségekhez való jobb hozzáférés megteremtése révén képes környezettudatos, fenntartható módon támogatni a polgári átalakulás folyamatát: a haza és haladás kettős célkitűzésének érvényesülését.
+
+[10] Mindezekre tekintettel az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény XI. cikk (1) és (2) bekezdése, XII. cikk (1) és (2) bekezdése, XIX. cikk (1) és (2) bekezdése, XX. cikk (1) és (2) bekezdése, valamint XXII. cikk (1) bekezdése alapján a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -49,7 +53,7 @@ a következő törvényt alkotja:
 
 2. § E törvény alkalmazásában:
 
-- 1. alapellátás: az országos, a regionális és az elővárosi személyszállítási közszolgáltatások ellátásért felelős által biztosítandó, az e törvény 27. § (2) és (3) bekezdésében meghatározott mértékű szolgáltatás, a főváros esetében és a megyei jogú városok közül azoknál, amelyek helyi személyszállítási közszolgáltatást működtetnek, a Főváros Közgyűlésének vagy a megyei jogú város képviselő-testületének rendeletében meghatározott szolgáltatási szint;
+- 1. alapellátás: az országos, a regionális és az elővárosi személyszállítási közszolgáltatások esetében az e törvény és a felhatalmazása alapján a közlekedésért felelős miniszter által az országos, regionális és elővárosi személyszállítási közszolgáltatások keretében nyújtandó alapellátás meghatározására vonatkozó részletes szabályokról szóló rendeletben meghatározott mértékű szolgáltatás, a főváros és a helyi személyszállítási közszolgáltatást működtető megyei jogú városok esetében a Főváros Közgyűlésének vagy a megyei jogú város képviselő-testületének rendeletében meghatározott szolgáltatási szint;
 - 2. belföldi személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye egyaránt Magyarország területén van;
 - 3. belső szolgáltató: olyan közlekedési szolgáltató, amely
   - a) a települési (fővárosi) önkormányzat belső szervezeti egysége, vagy
@@ -59,8 +63,9 @@ a következő törvényt alkotja:
 - 4a. elkülönült vasútegészségügyi szervezet: Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság, valamint a MÁV Kórház és Rendelőintézet, Szolnok;
 - 5. ellátásért felelős: a 4. § (3)–(4) bekezdésében meghatározott, 1370/2007/EK rendelet 2. cikk b) pontja szerinti illetékes hatóság;
 - 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
-- 6a.
+- 6a. garantált átszállás: a közforgalmú menetrend által biztosított átszállási lehetőség a közösségi közlekedés járatai között;
 - 7. határon átmenő személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye vagy legalább azok egyike Magyarország területén kívül van, de az útvonal részben Magyarország területén halad;
+- 7a. haváriahelyzet: természeti csapás, emberi tevékenység vagy mulasztás hatására előállt helyzet, baleset, katasztrófa vagy hirtelen bekövetkező műszaki jellegű meghibásodás, amely a személyszállítási közszolgáltatás ellátásában zavart okoz;
 - 8. helyi személyszállítási szolgáltatás: a település közigazgatási határán belül – helyi díjszabás alapján – végzett személyszállítási szolgáltatás, a közúti járművel végzett személyszállítási közszolgáltatások esetében ideértve a település közigazgatási határon kívül eső vasútállomására (vasúti megállóhelyére), komp- vagy révátkelőhelyére közbeeső megállóhely érintése nélkül történő személyszállítási szolgáltatást is;
 - 9. igényvezérelt személyszállítási szolgáltatás: az e törvényben e szolgáltatásokra meghatározott engedéllyel rendelkező szolgáltató által közszolgáltatási szerződés vagy járati engedély alapján végzett, információs technológiai eszközök alkalmazásával szervezett, változó útvonalon vagy változó időrendben, vagy változó útvonalon és változó időrendben közlekedő személyszállítási szolgáltatás;
 - 10. iskolabusszal végzett személyszállítás: kizárólag óvodások és kísérőik, valamint a köznevelésben és a szakképzésben tanulók és kisérőik szállítását szolgáló, nem közszolgáltatás keretében nyújtott sajátszámlás személyszállítás vagy személyszállítási szolgáltatás;
@@ -817,34 +822,45 @@ közfeladatainak egységes ellátására – az ellátásért felelős előzetes
 
 #### 19. Az országos, a regionális és az elővárosi közszolgáltatási menetrend előkészítésére vonatkozó szabályok, a közszolgáltatás mennyiségi és minőségi alapfeltételei
 
-26. § (1) Az országos, regionális és elővárosi személyszállítási közszolgáltatások biztosításának módját az ellátásért felelősnek e törvény szerint – az Országgyűlés és a Kormány közlekedéspolitikai célkitűzéseivel összhangban, különös tekintettel a kötöttpályás közlekedés lehetőség szerinti előnyben részesítésére – kell kialakítania.
+26. § (1) Az országos, regionális és elővárosi személyszállítási közszolgáltatások biztosításának módját az ellátásért felelősnek e törvény szerint, az Országgyűlés és a Kormány közlekedéspolitikai célkitűzéseivel összhangban – különös tekintettel a vidéki lakosság és a munkaerő mobilitására, az oktatás, a szociális és egészségügyi szolgáltatások elérhetőségére, a gazdaság támogatására, a környezet védelmére, a fenntarthatóságra, a költséghatékonyságra és a kötöttpályás közlekedés lehetőség szerinti előnyben részesítésére – kell kialakítania.
 
 (2) Az egységes egyeztetési eljárás során az ellátásért felelősök, valamint az országos, regionális és elővárosi személyszállítási közszolgáltatásokkal érintett önkormányzatok egymással együttműködve, az egységes egyeztetési eljárásban való részvétellel biztosítják az egységes hálózatot alkotó személyszállítási közszolgáltatásoknak az egyes közlekedési módok közötti ésszerű munkamegosztás és a közpénzek lehető legtakarékosabb felhasználása mellett történő kialakítását. A menetrend előkészítésének folyamatát, az egységes egyeztetési eljárás részletes szabályait, továbbá az ellátásért felelősök, az érintett önkormányzatok, valamint a közlekedési szolgáltatók egységes egyeztetési eljárásban való részvételének módját az egységes egyeztetési eljárás részletes szabályaira vonatkozó jogszabály tartalmazza.
 
 (3) Az egységes egyeztetési eljárásra tekintettel a menetrend szerinti közúti és vasúti személyszállítási szolgáltatók együttműködésre kötelesek annak érdekében, hogy a menetrendi felhívás alapján elkészített menetrendi tervezeteikben a szolgáltatás a legkisebb költség elve mentén a legmagasabb szolgáltatási színvonalon valósuljon meg.
 
-27. § (1) Amennyiben a közlekedési hálózat műszaki állapota lehetővé teszi, az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátást minden település számára – elsődlegesen menetrend szerinti közlekedéssel – kell biztosítani.
+27. § (1) Ha a közlekedési hálózat műszaki állapota lehetővé teszi, az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátást minden település számára elsődlegesen menetrend szerinti közlekedéssel kell biztosítani.
 
-(2) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátásnak – az államháztartás teherbíró képességének keretein és az infrastrukturális adottságon belül – biztosítani kell:
+(2) Az országos, regionális és elővárosi szegmensenként egy vonalon egyféle, az utasforgalmi adatok alapján azonosítható utazási igények leghatékonyabb kiszolgálását célzó közlekedési mód (a továbbiakban: leghatékonyabb közlekedési mód) finanszírozását biztosítja a megrendelő. A megrendelő dönthet a közlekedés módjának megváltoztatásáról, további közlekedési módok alkalmazásáról. A megrendelő a közszolgáltatási menetrendet az azonosítható utazási igények figyelembevételével határozza meg.
 
-- a) adott település és a a járásközpont vagy gyakorlatban kialakult vonzásközpont közötti közvetlen eljutási lehetőséget,
-- b) adott település és annak vármegyeszékhelye közötti, legfeljebb egy átszállással történő elérési lehetőséget,
-- c) az adott település és a főváros közötti legfeljebb két átszállással történő eljutási lehetőséget,
-- d) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőséget, valamint
-- e) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőséget.
+(3) A (2) bekezdés szerinti leghatékonyabb közlekedési mód tekintetében kivételt képeznek a főváros és a megyei jogú városok elővárosaiban 20 km távolságon vagy 30 percen belüli eljutások. Nem szűnhet meg olyan vonat és busz közötti párhuzamosság, ahol a párhuzamosság megszüntetése 50%-nál nagyobb mértékű eljutásiidő-növekedést jelentene.
 
-(3) Amennyiben az infrastrukturális adottságok lehetővé teszik – és az adott település közösségi közlekedési rendszere kizárólag országos, regionális vagy elővárosi menetrendszerinti autóbuszos vagy vasúti személyszállítási szolgáltatás révén biztosított – a (2) bekezdésben meghatározott viszonylatokban nyújtott alapellátás településenként napi 3 – a települési önkormányzattal az egységes egyeztetési eljárás keretében történő egyeztetések eredményének figyelembevételével kialakított menetrendi fekvésű – járatpár.
+(4) Az országos, regionális és elővárosi személyszállítási közszolgáltatást igénybe vevő – az államháztartás teherbíró képességének keretein és az infrastrukturális adottságon belül, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott esetek kivételével, térítés ellenében – az alapellátás keretében legalább a következő szolgáltatások igénybevételére jogosult:
 
-(4) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátás keretében a (2) és (3) bekezdésben meghatározott szolgáltatási mennyiség biztosítása a hétköznapokra nézve kötelező, a munkaszüneti és szabadnapok tekintetében irányadó.
+- a) adott település és a járásközpont közötti közvetlen eljutási lehetőség,
+- b) a járásközpont és a vármegyeszékhely közötti közvetlen eljutási lehetőség,
+- c) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőség, valamint
+- d) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőség.
 
-(5) Az országos, regionális és elővárosi személyszállítási közszolgáltatás – és azon belül az alapellátás – mennyiségi és minőségi tartalmának kialakításakor – az alábbi igényeket kell figyelembe venni:
+(5) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokat igénybe vevőknek naponta legalább három alkalommal a (4) bekezdés a) pontjában és naponta legalább két alkalommal a (4) bekezdés b)–d) pontjában meghatározott viszonylatokon nyújtott alapellátást kell biztosítani településenként, a települési önkormányzattal az egységes egyeztetési eljárás keretében történő egyeztetések eredményének figyelembevételével kialakított menetrend szerint közlekedő járattal.
 
-- a) az alapvető életszükségletek kielégítéséhez szükséges kereskedelmi szolgáltatásokhoz való hozzáférés,
-- b) a munkába járás és az oktatási, nevelési intézményekbe történő eljutás,
-- c) a közigazgatási és egészségügyi szolgáltatásokhoz való hozzáférés, továbbá
-- d) az egyéb célú tevékenységek támogatása.
+(6) A lakosság mobilitásának elősegítése érdekében a (4) és (5) bekezdésben foglaltakon felül e törvény felhatalmazása alapján a közlekedésért felelős miniszter rendeletben az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozóan a személyszállítási közszolgáltatások keretében nyújtandó alapellátás részeként további kötelező eljutási lehetőségek biztosítását határozhatja meg.
 
-(6) Az (5) bekezdésben meghatározott igényektől eltérő, egyéb célú utazások önmagukban nem teszik indokolttá az alapellátást meghaladó személyszállítási közszolgáltatási kötelezettség előírását, illetve fenntartását.
+(7) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátás keretében a (4)–(6) bekezdésben meghatározott szolgáltatási mennyiség biztosítása a hét valamennyi napján kötelező.
+
+(8) A megrendelő a (2)–(7) bekezdésben meghatározott személyszállítási közszolgáltatások kialakítása során figyelembe veszi
+
+- a) a munkába járás és az oktatási, nevelési intézményekbe történő eljutás biztosítását,
+- b) a közigazgatási, az egészségügyi és szociális szolgáltatásokhoz való hozzáférés biztosítását,
+- c) az alapvető életszükségletek kielégítéséhez szükséges kereskedelmi szolgáltatásokhoz való hozzáférés biztosítását,
+- d) az elmaradott térségek közlekedési kapcsolatainak fenntartását,
+- e) a környezetvédelem és a fenntarthatóság érvényre juttatását,
+- f) az egyes alágazatok közötti hatékony és takarékos együttműködés előmozdítását,
+- g) a legkisebb költség és a működési hatékonyság érvényesülésének biztosítását, valamint
+- h) a közösségi közlekedés járatai közötti garantált átszállás érvényesülésének biztosítását.
+
+(9) Az éves menetrendben meg kell határozni a (4)–(8) bekezdés szerinti alapellátást biztosító járatokat, amelyeket elsősorban a munkába és iskolába járás szempontjának érvényesülése és az utasforgalom nagyságrendje alapján kell kijelölni.
+
+(10) Ha a közlekedési hálózat műszaki állapota lehetővé teszi, a (4)–(8) bekezdés szerinti alapellátást haváriahelyzetben is biztosítani szükséges.
 
 28. § (1) Elszórt településszerkezetű, az országos átlagnál ritkábban lakott területek, települések esetében, valamint olyan településeken, ahol a közúti infrastruktúra hiánya vagy állapota ezt indokolttá teszi, a regionális és elővárosi személyszállítási közszolgáltatások részlegesen igényvezérelt személyszállítási szolgáltatással is teljesíthetőek.
 
@@ -877,7 +893,7 @@ kerülhet sor.
 
 (5) A (4) bekezdésben meghatározott szolgáltatást a vasúti személyszállítási közszolgáltatást végző vasúti társaság – ha megfelel az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabályban előírt személyi és tárgyi feltételeknek is – kizárólag a vasúti személyszállítási szolgáltatásra megállapított díj alkalmazása mellett, és az érintett települések önkormányzatával történő előzetes egyeztetés alapján a 10. §-ban meghatározott járati engedéllyel végezheti.
 
-(6) Ha a vasúti személyszállítási közszolgáltatást végző közlekedési szolgáltató által végzett személyszállítási közszolgáltatás műszaki okból vasúti járművel nem látható el, a közlekedési szolgáltató az (5) bekezdésben meghatározott feltételeket csak abban az esetben köteles teljesíteni, ha az autóbusszal végzett tevékenység meghaladja a két hónapot (vonatpótló járat).
+(6) Ha a vasúti személyszállítási közszolgáltatást végző közlekedési szolgáltató által végzett személyszállítási közszolgáltatás műszaki okból vasúti járművel nem látható el, a közlekedési szolgáltató az (5) bekezdésben meghatározott feltételeket nem köteles teljesíteni.
 
 (7) Az önkormányzatok az érintett országos, regionális, elővárosi vagy helyi személyszállítási közszolgáltatásra a közszolgáltatási menetrendben nem szereplő közszolgáltatási tevékenység ellátására szerződést köthetnek. A szerződésre az (1)–(6) bekezdésekben meghatározott rendelkezéseket kell megfelelően alkalmazni.
 
@@ -1091,16 +1107,16 @@ szolgáltatásokat nyújt.
 
 #### 28. Még elégséges szolgáltatás a közforgalmú közlekedésben
 
-39. § (1) A sztrájkról szóló 1989. évi VII. törvény (a továbbiakban: Sztrájk tv.) 4. § (2) bekezdésében meghatározott, még elégséges szolgáltatás mértéke a munkabeszüntetésben érintett időszakra vetítve vonalanként
+39. § (1) A sztrájkról szóló 1989. évi VII. törvény 4. § (2) bekezdésében meghatározott, még elégséges szolgáltatás mértéke a munkabeszüntetésben érintett időszak vonatkozásában nem lehet kevesebb, mint
 
-- a) a helyi és elővárosi személyszállítási közszolgáltatások esetén a megrendelt személyszállítási szolgáltatás mennyiségének 66%-a,
-- b) az országos és a regionális személyszállítási közszolgáltatások esetén a megrendelt személyszállítási szolgáltatás mennyiségének 50%-a.
+- a) helyi személyszállítási közszolgáltatások esetén a megrendelt személyszállítási közszolgáltatás mennyiségének 66%-a,
+- b) országos, elővárosi és regionális személyszállítási közszolgáltatások esetén a (3) bekezdésben jóváhagyott sztrájkmenetrend.
 
-(2) Az (1) bekezdésben meghatározott arányokat vonalankénti bontásban, járatonként számolva, tört szám esetén felfelé kerekítve kell meghatározni. A még elégséges szolgáltatás mértéke az (1) bekezdésben meghatározott mennyiséget a munkabeszüntetés szervezői és a munkáltató közös megállapodásával meghaladhatja.
+(2) A személyszállítási közszolgáltatást végző közlekedési szolgáltató minden menetrendi évben sztrájkmenetrend-tervezetet készít a munkavállalók képviselőinek bevonásával, amelyet – a munkavállalók képviselőinek álláspontjáról szóló tájékoztatással együtt – az éves menetrend felterjesztésével egyidejűleg jóváhagyásra megküld a megrendelőnek. A megrendelő a sztrájkmenetrendet minden évben november 18-ig, de legkésőbb a menetrend felterjesztés beérkezésétől számított 14 napon belül jóváhagyja.
 
-(3) Az (1) bekezdésben meghatározott mértékeket a munkabeszüntetés első 24 órája tekintetében óránként, ezt követően napi bontásban kell érvényesíteni oly módon, hogy ha a munkabeszüntetés munkanapon 6:00–9:00, illetve 15:00–18:00 közötti időszakot is érint, az (1) bekezdésben meghatározott mértékeknek ezen időszakokra vetítve önállóan, óránkénti bontásban is teljesülniük kell.
+(3) A lakosság közszolgáltatásokhoz való hozzáférésének biztosítása érdekében a közlekedési szolgáltató köteles legalább a (2) bekezdés szerinti, a megrendelő által jóváhagyott sztrájkmenetrendnek megfelelő szolgáltatást biztosítani.
 
-(4) A sztrájkkal érintett közlekedési szolgáltató az (1)–(3) bekezdésben foglaltaknak megfelelő és eleget tevő menetrendtervezetet dolgoz ki és azt legkésőbb sztrájk megkezdésének időpontját két nappal megelőzően a lakosság egyidejű tájékoztatásával meghirdeti.
+(4) A még elégséges szolgáltatás mértéke az (1) bekezdésben meghatározott mennyiséget a munkabeszüntetés szervezői és a munkáltató közös megállapodásával meghaladhatja.
 
 (5) Az (1) bekezdésben meghatározott mértékű szolgáltatás nyújtása csak abban az esetben tekinthető a még elégséges szolgáltatás teljesítésének, ha az a menetrendben előre meghirdetett útvonalon és időpontban megvalósul.
 
@@ -1301,6 +1317,10 @@ vonatkozó önkormányzati rendelet kiadására.
 (12) A 35/A. § szerinti Központi Rendszerként működő, az IKOP-3.1.0-15-2017-00014 és az IKOP-3.2.0-15-2017-00028. azonosítószámú Helyközi Közösségi Közlekedési Információs Rendszer (HKIR) projektben létrehozott vagyonelemeket, vagyoni értékű jogokat a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság és a KTI Kft., mint a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokról, a központi adatbázisokról és az azokhoz kapcsolódó központi szolgáltatásokról, továbbá a működtető szervezetek kijelöléséről szóló kormányrendelet szerinti Központi Rendszert működtető átadó szervezetek 2024. március 1-jével térítésmentesen kötelesek átadni a MÁV-START Vasúti Személyszállító Zárkörűen Működő Részvénytársaság és a VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság, mint a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokról, a központi adatbázisokról és az azokhoz kapcsolódó központi szolgáltatásokról, továbbá a működtető szervezetek kijelöléséről szóló kormányrendelet szerinti Központi Rendszert működtető átvevő szervezetek részére.
 
 (13) A (12) bekezdésben foglalt vagyonelemek, vagyoni értékű jogok átadására nem kell alkalmazni a társasági adóról szóló 1996. évi LXXXI. törvény 18. §-ának rendelkezéseit.
+
+(14) E törvénynek a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosításáról szóló 2025. évi XI. törvénnyel (a továbbiakban: Módtv.) megállapított 27. §-át és 39. § (1)–(4) bekezdését első alkalommal a 2025/2026. évi menetrend tervezése során kell alkalmazni.
+
+(15) A 2025/2026. évi menetrend hatálybalépéséig a Módtv. hatálybalépése előtt hatályos, még elégséges szolgáltatás mértékére vonatkozó rendelkezések szerint köteles a szolgáltató sztrájk esetén a közszolgáltatást ellátni.
 
 #### 36. Az Európai Unió jogának való megfelelés
 
