@@ -676,13 +676,15 @@ az érintett önkormányzatok részére a Területfejlesztési Alap terhére jog
 
 (2) A közfeladat-finanszírozási szerződés eltérő rendelkezése hiányában ezen alcím rendelkezéseit a közfeladatot ellátó közérdekű vagyonkezelő alapítvány – valamint a tulajdonában álló vagy általa fenntartott jogi személy – építési beruházása esetén nem kell alkalmazni. A közfeladat-finanszírozási szerződés ezen alcím rendelkezéseivel összhangban történő megkötése, valamint módosítása érdekében a közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 20. § (1) bekezdésében meghatározott miniszter jár el.
 
+(3) Ezen alcím rendelkezéseit a központi költségvetésről szóló törvény Országgyűlés fejezet Országgyűlés Hivatala és fejezeti kezelésű előirányzatok címeiből finanszírozott építési beruházás esetén nem kell alkalmazni.
+
 252. § Az ezen alcímben meghatározott szabályokat a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti egyház, illetve egyházi jogi személy építési beruházásai, valamint a nemzetpolitikai célú építési beruházások esetén 500 millió forint összegű becsült értéket meghaladó építési beruházások esetén kell alkalmazni.
 
 253. § (1) A 251. § szerinti építési beruházások előkészítésére és megvalósítására vonatkozó közbeszerzési eljárás – a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szabályai figyelembevételével – kizárólag olyan feltételes közbeszerzési eljárás keretében folytatható le, ahol a feltétel a 254. § (3) bekezdése szerinti vélemény rendelkezésre állása. E törvényben meghatározott rendelkezéseket alkalmazni kell a Kbt. 9. § (1) bekezdés a)–c,), e), f), h) és i) pontjában meghatározott építési beruházásokra vonatkozó beszerzési eljárásokra is.
 
 (2) A 251. § szerinti, nem a Kbt. hatálya alá tartozó építési beruházásra vonatkozó beszerzési eljárások kizárólag e törvény rendelkezéseinek figyelembevételével folytathatóak le.
 
-(3) Az (1) bekezdésben meghatározott feltételes beszerzési vagy közbeszerzési eljárás eredményeként megkötésre kerülő építési beruházásra vonatkozó szerződés megkötésére – e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint – kizárólag az állami beruházásokért felelős miniszternek (a továbbiakban: miniszter) a legkedvezőbb érvényes ajánlatra vonatkozó költségellenőrzést tartalmazó véleménye beszerzését követően kerülhet sor.
+(3) Az (1) bekezdésben meghatározott feltételes beszerzési vagy közbeszerzési eljárás eredményeként megkötésre kerülő építési beruházásra vonatkozó szerződés megkötésére – e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint – kizárólag az állami beruházásokért felelős miniszternek (ezen alcím alkalmazásában a továbbiakban: miniszter) a legkedvezőbb érvényes ajánlatra vonatkozó költségellenőrzést tartalmazó véleménye beszerzését követően kerülhet sor.
 
 (4) Abban az esetben, ha a 251. §-ban meghatározott építési beruházás kiviteli tervvel rendelkezik, a kivitelezésre vonatkozó feltételes beszerzési vagy közbeszerzési eljárás megkezdésére a miniszter becsült értékre vonatkozó költségellenőrzést tartalmazó véleményének beszerzését követően kerülhet sor.
 

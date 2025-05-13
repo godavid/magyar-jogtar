@@ -2166,7 +2166,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 - 38. az ügyvéd, az európai közösségi jogász, az ügyvédi iroda, illetve az európai közösségi jogászi iroda által a belső visszaélés-bejelentési rendszer működtetésével megbízható külső szervezettel, továbbá a vele kötött szerződéssel szemben támasztott – az ügyvédi titok kezeléséhez, illetve a titoktartás biztosításához szükséges – követelményekről.
 - 39. a 194/B. § szerinti közfeladat-ellátás esetére a büntetőeljárásnak a vádemelésig terjedő szakaszában a 36. § (9) bekezdésében meghatározottak szerint a kirendelt védő óradíjáról, a kirendelt védői tevékenységért járó díjazásról, továbbá a kifizetés eljárásrendjének részletes szabályairól.
 
-(2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14., 20. és 21. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
+(2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14., 20., 21. és 39. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
 
 (3) Az Alapszabály a Magyar Ügyvédi Kamara tagjaira, a Magyar Ügyvédi Kamara szabályzata a területi kamarákra, a területi kamara tagjaira, és a területi kamara által az ügyvédi kamarai nyilvántartásba vett személyekre kötelező.
 
@@ -2767,7 +2767,7 @@ törli a nyilvántartásból.
 
 ### XXVI/B. Fejezet — AZ ÁLLAM ÁLTAL ELŐLEGEZETT KIRENDELT VÉDŐI DÍJAK KIFIZETÉSE
 
-194/B. § (1) A büntetőeljárás vádemelésig terjedő szakaszában az állam által előlegezett kirendelt védői díjak kifizetésére, mint közfeladat ellátására az állam nevében eljáró miniszter megállapodást köthet a Magyar Ügyvédi Kamarával.
+194/B. § (1) A büntetőeljárás vádemelésig terjedő szakaszában az állam által előlegezett kirendelt védői díjak kifizetésére, mint közfeladat ellátására az állam nevében eljáró miniszter megállapodást köthet a Magyar Ügyvédi Kamarával, vagy a Magyar Ügyvédi Kamara által egyedüli alapítóként létesített jogi személlyel.
 
 (2) A megállapodásnak tartalmaznia kell az (1) bekezdés szerinti közfeladat ellátásának és finanszírozásának részletes szabályait.
 

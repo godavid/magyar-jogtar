@@ -165,9 +165,9 @@ Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükség
 
 (3g) A helyi önkormányzat tulajdonában álló nemzetközi kereskedelmi repülőtér – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt – tulajdonjogát a helyi önkormányzat az állam javára visszterhesen vagy ingyenesen átruházhatja, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.
 
-(3h) A Kormány kiemelt nemzetgazdasági érdekből egyedi határozatban dönthet a 4. § (1) bekezdés h) pontja szerinti vagyon, valamint e vagyoni körbe tartozó ingatlan részét képező, a 4. § (1) bekezdés d)–g) pontja szerinti kizárólagos állami vagyonba tartozó ingatlanrész tekintetében földhasználati jog alapításáról, illetve osztott tulajdon létesítéséről, valamint osztatlan közös tulajdon létrehozása, valamint annak megszüntetése érdekében e vagyon elidegenítéséről azzal, hogy az elidegenítés e vagyon állam általi működtetését nem veszélyeztetheti.
+(3h) A Kormány kiemelt nemzetgazdasági érdekből egyedi határozatban dönthet a 4. § (1) bekezdés h) pontja szerinti vagyon tekintetében földhasználati jog alapításáról, illetve osztott tulajdon létesítéséről, valamint osztatlan közös tulajdon létrehozása, valamint annak megszüntetése érdekében e vagyon elidegenítéséről azzal a feltétellel, hogy az elidegenítés e vagyon állam általi működtetését, valamint a műemléki védelem alatt álló építmények és építményegyüttesek esetében a műemlék fenntartását nem veszélyeztetheti (e bekezdés alkalmazásában a továbbiakban együtt: garanciális feltételek). A Kormány abban az esetben is dönthet földhasználati jog alapításáról, illetve osztott tulajdon létesítéséről, valamint osztatlan közös tulajdon létrehozása, valamint annak megszüntetése érdekében e vagyon elidegenítéséről – a garanciális feltételek fennállása esetén –, ha a 4. § (1) bekezdés h) pontja szerinti vagyon valamely része a 4. § (1) bekezdés d)–g) pontja szerinti kizárólagos állami vagyonba tartozik, illetve a 2. melléklet III. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül.
 
-(4) A 2. mellékletben megjelölt nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon e törvény erejénél fogva, a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
+(4) A 2. mellékletben megjelölt nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon e törvény erejénél fogva, a (3h) bekezdésben és a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
 
 (5) Törvényben, kormányrendeletben vagy – a helyi önkormányzati vagyon tekintetében – a helyi önkormányzat rendeletében nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonként meghatározott vagyonelem az erről rendelkező jogszabály erejénél fogva, a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
 
@@ -306,7 +306,9 @@ jóváhagyó határozata szükséges.
 
 (12) A nemzeti vagyon hasznosítására vonatkozó szerződést a hasznosításba adó kártalanítás nélkül és azonnali hatállyal felmondhatja, ha a nemzeti vagyon hasznosításában részt vevő bármely – a hasznosítóval közvetlen vagy közvetett módon jogviszonyban álló harmadik fél – szervezet a nemzeti vagyon hasznosítására vonatkozó szerződés megkötését követően beállott körülmény folytán már nem minősül átlátható szervezetnek. A 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet tulajdonosi szerkezetében a 3. § (1) bekezdés 1. pontjától eltérő változást a nemzeti vagyon hasznosítására a hasznosítóval közvetlenül megkötött szerződésben a hasznosításba adót megillető, valamint a (11) bekezdés c) pontjában meghatározott személyekkel kötött szerződésekben a hasznosításba adóval közvetlen jogviszonyban álló személyt megillető rendkívüli felmondási okként rögzíteni kell.
 
-(13) Nemzeti vagyon ingyenesen kizárólag közfeladat ellátása, a lakosság közszolgáltatásokkal való ellátása, valamint e feladatok ellátásához szükséges infrastruktúra biztosítása céljából az ahhoz szükséges mértékben hasznosítható, valamint adható vagyonkezelésbe.
+(13) Nemzeti vagyon ingyenesen – a (13a) bekezdésben foglalt kivétellel – kizárólag közfeladat ellátása, a lakosság közszolgáltatásokkal való ellátása, valamint e feladatok ellátásához szükséges infrastruktúra biztosítása céljából az ahhoz szükséges mértékben hasznosítható, valamint adható vagyonkezelésbe.
+
+(13a) Állami tulajdonban álló nemzeti vagyon használatát a tulajdonosi joggyakorló jogszabályban előírt állami feladatot ellátó többségi állami tulajdonú gazdasági társaság részére, székhelyként történő használat céljából ingyenesen biztosíthatja, ha az ingyenes használat biztosítása az egyéb állami feladatok ellátását nem veszélyezteti.
 
 (14) Nemzeti vagyonba tartozó állami tulajdonú ingatlant használó központi költségvetési szerv – a (15) bekezdésben meghatározott eseteket kivéve – a rábízott állami tulajdonú ingatlant vagy ingatlanrészt nem hasznosíthatja, az ingatlanra vagy annak bármely részére vonatkozóan a használatot bármely címen átengedő szerződést nem köthet, továbbá a rábízott állami tulajdonú ingatlanon beruházást, felújítási tevékenységet nem végezhet, és nem végeztethet.
 
@@ -2676,9 +2678,9 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 18.1. | ALSÓÖRS Petőfi köz 7. | gótikus ház, ún. török adószedőház |
 | --- | --- | --- |
 | 18.2. | BADACSONYTOMAJ Szegedy Róza u. 137. | Szegedy Róza háza, udvarán présház és vincellérház |
-| 18.3. | BAKONYBÉL Fő u. 15. | tájház |
-| 18.4. | CSESZNEK Vár u. | várrom |
-| 18.5. | CSOPAK Kisfaludy u. 28. | vízimalom |
+| 18.3. | BADACSONYTOMAJ Kisfaludy Sándor utca 28. | Kisfaludy Sándor présháza |
+| 18.4. | BAKONYBÉL Fő u. 15. | tájház |
+| 18.5. | CSESZNEK Vár u. | várrom |
 | 18.6. |  |  |
 | 18.7. |  |  |
 | 18.8. |  |  |
