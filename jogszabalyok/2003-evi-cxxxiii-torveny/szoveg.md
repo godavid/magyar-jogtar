@@ -691,7 +691,9 @@ jogok és kötelezettségek
 
 (2) Az átalakulásról hozott közgyűlési határozat alapján a lakásszövetkezet alapítására, szervezetére és működésére a lakásszövetkezetekről szóló külön törvény rendelkezéseit kell alkalmazni.
 
-64/A. § A közgyűlés által megválasztott közös képviselő vagy az intézőbizottság elnöke a közösség ügyintézését ellátó tevékenységet 2025. május 1. napjáig – nyilvántartásba vételtől függetlenül – elláthatja, ha a tevékenység végzésére való jogosultságát hitelt érdemlő módon igazolja.
+64/A. § A közgyűlés által megválasztott közös képviselő vagy az intézőbizottság elnöke a közösség ügyintézését ellátó tevékenységet 2026. október 31. napjáig – nyilvántartásba vételtől függetlenül – elláthatja, ha a tevékenység végzésére való jogosultságát hitelt érdemlő módon igazolja.
+
+64/B. § A közös képviselő vagy az intézőbizottság elnöke 2025. május 1. napja és az egyes törvényeknek az ügyvédi tevékenységgel összefüggő módosításáról szóló 2025. évi XXIII. törvénynek a 64/A. §-át módosító rendelkezése hatályba lépésének napja közötti időszakban végzett, a közösség ügyintézését ellátó tevékenysége nem minősül jogszerűtlennek abból az okból, hogy a közös képviselő vagy az intézőbizottság elnöke a 64/A. § 2025. május 1. napján hatályos szabályai szerint 2025. május 1-jéig nem került nyilvántartásba vételre.
 
 65. § Felhatalmazást kap a Kormány, hogy
 
