@@ -2150,7 +2150,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 - g) a legfőbb irányító (vezető) szerv, az ügyvezető szerv és a felügyelő testület, valamint ezek bizottságainak összetétele és működése.
 - h) a vállalkozó ügyviteli, ügyvezető és felügyelő testületei esetében alkalmazott, sokszínűséggel kapcsolatos politika leírása a nemre és egyéb szempontokra, így különösen az életkorra, a fogyatékosságra vagy a tanulmányi és a szakmai háttérre tekintettel, e sokszínűséggel kapcsolatos politika céljainak, megvalósítási módjának és a beszámolási időszakban elért eredményeknek a leírása; ha nem alkalmaznak ilyen politikát, a nyilatkozatnak tartalmaznia kell ennek magyarázatát.
 
-(2a) A 95/E. § (1) bekezdésének hatálya alá tartozó vállalkozó a (2) bekezdés h) pontja szerinti kötelezettségének úgy is eleget tehet, ha fenntarthatósági jelentése részeként közli az említett pontban előírt információkat, vállalatirányítási nyilatkozatába pedig erre vonatkozó hivatkozást illeszt be.
+(2a) A 95/E. § (1) bekezdésének hatálya alá tartozó vállalkozó a (2) bekezdés h) pontja szerinti kötelezettségének úgy is eleget tehet, ha fenntarthatósági jelentése, a 95/F. § (11) bekezdése szerinti anyavállalat esetében az összevont (konszolidált) fenntarthatósági jelentése részeként közli az említett pontban előírt információkat, vállalatirányítási nyilatkozatába pedig erre vonatkozó hivatkozást illeszt be.
 
 (3) A vállalkozónak hozzáférhetővé kell tennie a (2) bekezdés b) pontja szerinti gyakorlatának leírását a nyilvánosság számára. E gyakorlat – a vállalkozó döntése szerint – bemutatható az üzleti jelentésben, vagy a vállalkozó holnapján egy dokumentumban, amelyre az üzleti jelentés hivatkozást tartalmaz.
 
@@ -2261,6 +2261,13 @@ a jelentősebb összegeit, azok időbeli alakulását.
 (9) Az (1)–(3) bekezdés alkalmazásában a 2013/34/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdés első albekezdés a) pontjában említett, a 2009/138/EK irányelv 212. cikk (1) bekezdés c) pont ii. alpontjában említett pénzügyi kapcsolat alapján egy csoport részét képező és a 2009/138/EK irányelv 213. cikk (2) bekezdés a)–c) pontjával összhangban csoportszintű felügyelet alatt álló biztosítókat az említett csoport anyavállalatának leányvállalataként kell kezelni.
 
 (10) Az (1)–(3) bekezdés szerinti mentesség nem alkalmazható azokra a 95/E. § (1) bekezdés a) pontja hatálya alá tartozó vállalkozókra, amelyek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták.
+
+(11) A VI/C. Fejezet szerinti összevont (konszolidált) fenntarthatósági jelentést készítő anyavállalatot úgy kell tekinteni, hogy teljesítette a 95/E. § (1)–(11) és (13) bekezdése szerinti fenntarthatósági jelentéstételi kötelezettségét, valamint a 95. § (3) bekezdésében foglalt követelményt.
+
+(12) A (11) bekezdés akkor alkalmazható, ha a mentesülő anyavállalat üzleti jelentése tartalmazza
+
+- a) az általa készített összevont (konszolidált) fenntarthatósági jelentés és a 134/L. § (1) bekezdése szerinti bizonyossági vélemény közzétételének helyét, valamint
+- b) a (11) bekezdés szerinti mentesség tényét.
 
 ### Uniós tagállam jogának a hatálya alá nem tartozó vállalkozás fenntarthatósági jelentése
 
@@ -4470,6 +4477,8 @@ e törvénynek a Mód2. törvény által megállapított fenntarthatósági jele
 (109) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 3. § (2) bekezdés 8. pontját, 9. § (2) bekezdés a) és b) pontját, 14. § (7) bekezdését, 117. § (1) bekezdés a) és b) pontját, 134/B. § (1) bekezdés a) pont aa) és ab) alpontját, 134/C. § (1) bekezdés a) pont aa) és ab) alpontját, 134/C. § (4) bekezdés a) és b) pontját a 2024. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
 (110) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 14. § (7) bekezdésében meghatározott értékhatárokat teljesítő vállalkozó akkor is mentesül az önköltségszámítás rendjére vonatkozó belső szabályzat elkészítése alól, ha a megelőző üzleti év(ek)ben a mentesítés lehetőségével nem élhetett.
+
+(111) E törvénynek a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról szóló 2025. évi XXI. törvénnyel megállapított 95/B. § (2a) bekezdése, valamint 95/F. § (11) és (12) bekezdése a 2024. évben induló üzleti évre is alkalmazható.
 
 ### Felhatalmazás
 

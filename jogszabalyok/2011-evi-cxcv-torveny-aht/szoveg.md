@@ -613,13 +613,14 @@ szerinti bontásban,
 - g) a Gst 8. § (2) bekezdése szerinti adósságot keletkeztető ügyletekből és az önkormányzati garanciákból és önkormányzati kezességekből fennálló kötelezettségeit az adósságot keletkeztető ügyletek futamidejének végéig, illetve a garancia, kezesség érvényesíthetőségéig, és a Gst 45. § (1) bekezdés a) pontjában kapott felhatalmazás alapján kiadott jogszabályban meghatározottak szerinti saját bevételeit, és
 - h) a költségvetés végrehajtásával kapcsolatos hatásköröket, így különösen a Mötv. 68. § (4) bekezdése szerinti értékhatárt, a finanszírozási bevételekkel és a finanszírozási kiadásokkal kapcsolatos hatásköröket, valamint a 34. § (2) bekezdése szerinti esetleges felhatalmazást.
 - i) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg főösszegű gazdasági társasággal – kötelező önkormányzati feladatellátásra – kötött közszolgáltatási szerződésből eredő, az érintett gazdasági társaság önkormányzat által nem vitatott, a költségvetés tervezésekor fennálló követelésének összegét,
+- j) a helyi önkormányzat és az általa alapított költségvetési szervek – önkormányzati szinten összesített és a helyi önkormányzat által irányított költségvetési szervek szerinti tételes megbontásban a – költségvetési évre vonatkozó, jogviszonyonkénti tervezett létszámadatait.
 
 (2a) A helyi önkormányzat költségvetése tartalmazza a (2) bekezdésben foglaltakon túl
 
 - a) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg-főösszegű gazdasági társaság,
 - b) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg-főösszegű gazdasági társaság által alapított gazdasági társaság
 
-előző évi elfogadott beszámolóját, és amennyiben jogszabályi kötelezettség előírta, az ezekre vonatkozó könyvvizsgálói jelentést is.
+legutóbbi elfogadott beszámolóját, és amennyiben jogszabályi kötelezettség előírta, az ezekre vonatkozó könyvvizsgálói jelentést is.
 
 (2b) Ha a (2a) bekezdés szerinti beszámoló alapján a gazdasági társaság az előző évben veszteséges volt, és azt a mérlegben szereplő, a saját tőke részét képező eredménytartalék sem ellensúlyozta, az önkormányzat költségvetési rendeletéhez mellékelni kell az érintett gazdasági társaság tárgyévi üzleti tervét is, amelyben
 
@@ -632,13 +633,15 @@ előző évi elfogadott beszámolóját, és amennyiben jogszabályi kötelezett
 
 (4) A Mötv. 111. § (4) bekezdésének alkalmazásában működési hiányon a (2) bekezdés e) pontja szerinti külső finanszírozású működési célú költségvetési hiányt kell érteni.
 
+(5) A költségvetési rendelet 34. § (4) bekezdése szerinti módosítása részletesen bemutatja a tárgyévet megelőző év rendelkezésre álló tényadatának feltüntetése mellett azonos szerkezetben, átlátható módon és észszerű részletezettséggel a tárgyévi előirányzat-módosítások, előirányzat-átcsoportosítások összegszerű változásait, valamint annak – szükségességének oka szerinti – indokait és tervezett hatását is.
+
 #### 15. A költségvetési rendelet előkészítése, elfogadása
 
 24. § (1)
 
 (2) A jegyző, főjegyző (a továbbiakban együtt: jegyző) a költségvetési rendelet-tervezetet a 29/A. § szerinti tervszámoknak megfelelően készíti elő. A tervszámoktól csak a külső gazdasági feltételeknek a tervszámok elfogadását követően bekövetkezett lényeges változása esetén térhet el, az eltérést és annak indokát a költségvetési rendelet-tervezet indokolásában ismertetni kell.
 
-(3) A jegyző által a (2) bekezdés szerint előkészített költségvetési rendelet-tervezetet a polgármester február 15-éig, ha a központi költségvetésről szóló törvényt az Országgyűlés a naptári év kezdetéig nem fogadta el, a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek.
+(3) A jegyző által a (2) bekezdés szerint előkészített költségvetési rendelettervezetet a polgármester február 15-éig, ha a központi költségvetésről szóló törvényt az Országgyűlés a naptári év kezdetéig nem fogadta el, a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek. A költségvetési rendelettervezet képviselő-testületnek való benyújtása nem előzheti meg a központi költségvetésről szóló törvény Országgyűlés általi elfogadását.
 
 (4) A költségvetés előterjesztésekor a képviselő-testület részére tájékoztatásul a következő mérlegeket és kimutatásokat kell – szöveges indokolással együtt – bemutatni:
 
@@ -821,7 +824,7 @@ terhére történik.
 
 (3) A helyi önkormányzati költségvetési szerv bevételi előirányzatai és kiadási előirányzatai a Kormány rendeletében meghatározott esetben a helyi önkormányzati költségvetési szerv saját hatáskörében módosíthatóak, a kiadási előirányzatok egymás között átcsoportosíthatóak.
 
-(4) A képviselő-testület a (2) és (3) bekezdés szerinti előirányzat-módosítás, előirányzat-átcsoportosítás átvezetéseként – az első negyedév kivételével – negyedévenként, a döntése szerinti időpontokban, de legkésőbb az éves költségvetési beszámoló elkészítésének határidejéig, december 31-i hatállyal módosítja a költségvetési rendeletét. Ha év közben az Országgyűlés – a helyi önkormányzatot érintő módon – a 14. § (3) bekezdése szerinti fejezetben meghatározott támogatások költségvetési kiadási előirányzatait zárolja, azokat csökkenti, törli, az intézkedés kihirdetését követően haladéktalanul a képviselő-testület elé kell terjeszteni a költségvetési rendelet módosítását.
+(4) A képviselő-testület a (2) és (3) bekezdés szerinti előirányzat-módosítás, előirányzat-átcsoportosítás átvezetéseként – az első negyedév kivételével – negyedévenként, a döntése szerinti időpontokban, de legkésőbb az éves költségvetési beszámoló elkészítésének határidejéig, december 31-i hatállyal módosítja a költségvetési rendeletét a 23. § (5) bekezdésében meghatározottakra is figyelemmel. Ha év közben az Országgyűlés – a helyi önkormányzatot érintő módon – a 14. § (3) bekezdése szerinti fejezetben meghatározott támogatások költségvetési kiadási előirányzatait zárolja, azokat csökkenti, törli, az intézkedés kihirdetését követően haladéktalanul a képviselő-testület elé kell terjeszteni a költségvetési rendelet módosítását.
 
 (5) A nemzetiségi önkormányzat, a társulás, a térségi fejlesztési tanács, valamint az általuk irányított költségvetési szervek bevételi előirányzatainak és kiadási előirányzatainak módosítására, átcsoportosítására az (1)–(4) bekezdést kell alkalmazni, azzal hogy a képviselő-testület hatáskörét a nemzetiségi önkormányzat testülete, közgyűlése, a társulási tanács, illetve a térségi fejlesztési tanács tagjai gyakorolják, polgármesteren a nemzetiségi önkormányzat elnökét, a társulási tanács elnökét, illetve a térségi fejlesztési tanács elnökét kell érteni.
 
@@ -922,7 +925,7 @@ vállalható.
 
 a kirendeléssel egyidejűleg tájékoztatja.
 
-(3) A feladattal érintett helyi önkormányzat, helyi nemzetiségi önkormányzat, országos nemzetiségi önkormányzat, társulás, területfejlesztési önkormányzati társulás, térségi fejlesztési tanács vezetője által előzetesen elfogadottak szerint az államháztartásért felelős miniszter költségvetési felügyelőt rendelhet ki a költségvetés végrehajtásának és a gazdálkodást érintő egyéb feladat ellátásának ellenőrzésére. A költségvetési felügyelő feladatellátása kiterjedhet a helyi önkormányzat, a helyi nemzetiségi önkormányzat, az országos nemzetiségi önkormányzat, a társulás, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács által irányított költségvetési szerv, testület, legalább többségi tulajdonukban álló gazdasági társaság, valamint az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság tevékenységére.
+(3) A feladattal érintett helyi önkormányzat, helyi nemzetiségi önkormányzat, országos nemzetiségi önkormányzat, társulás, területfejlesztési önkormányzati társulás, térségi fejlesztési tanács vezetője által előzetesen elfogadottak szerint vagy ezek kérésére az államháztartásért felelős miniszter költségvetési felügyelőt rendelhet ki a költségvetés végrehajtásának és a gazdálkodást érintő egyéb feladat ellátásának ellenőrzésére. A költségvetési felügyelő feladatellátása kiterjedhet a helyi önkormányzat, a helyi nemzetiségi önkormányzat, az országos nemzetiségi önkormányzat, a társulás, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács által irányított költségvetési szerv, testület, legalább többségi tulajdonukban álló gazdasági társaság, valamint az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság tevékenységére.
 
 (4) A költségvetési felügyelő a központi költségvetési források takarékosabb, hatékonyabb felhasználása érdekében a Kormány rendeletében meghatározott intézkedéseket tehet.
 
@@ -938,6 +941,7 @@ a kirendeléssel egyidejűleg tájékoztatja.
 
 - a) az államháztartás központi alrendszerében a Kormány irányítása alá tartozó fejezetet irányító szerv, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szerve, a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szerv vagy testület, az államháztartás önkormányzati alrendszerében a helyi önkormányzat, a helyi nemzetiségi önkormányzat, az országos nemzetiségi önkormányzat, a társulás, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács és az általuk irányított költségvetési szerv (a továbbiakban együtt: kijelölt szerv), valamint a kormányzati szektorba sorolt egyéb szervezet, valamint az állam vagy önkormányzat legalább többségi tulajdonában álló gazdasági társaság, valamint az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság (a továbbiakban: kijelölt szervezet) kezelésében lévő, közpénz felhasználásával összefüggő adatot – ideértve az üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni, valamint jogosult ezekről másolatot készíteni,
 - b) a kijelölt szerv, a kijelölt szervezet vezetőjétől, képviselőjétől, alkalmazottjától felvilágosítást, más személyektől nyilatkozatot kérni.
+- c) az államháztartásért felelős miniszter előzetes jóváhagyásával a (3) bekezdésben meghatározott feladatai ellátása érdekében a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását kezdeményezni, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
 
 (10) A költségvetési felügyelő minősített adatot kizárólag a minősített adat védelméről szóló törvényben meghatározott személyi biztonsági feltételek teljesülése esetén ismerhet meg. Tevékenysége során a költségvetési felügyelő nem ismerheti meg azokat az adatokat, amelyek a titkos információgyűjtés során keletkezett információra, annak forrására vagy az alkalmazott titkos információgyűjtő módszer konkrét jellegére, valamint leplezett eszközökre és azok alkalmazására utalnak.
 
@@ -945,12 +949,24 @@ a kirendeléssel egyidejűleg tájékoztatja.
 
 #### 27/A. Költségvetési biztos
 
-39/A. § (1) A kincstár elnöke a helyi önkormányzat gazdasági stabilitásának megteremtése érdekében a helyi önkormányzathoz költségvetési biztost
+39/A. § (1) A kincstár elnöke – amennyiben a helyi önkormányzat kedvezőtlen gazdálkodási helyzete ezt indokolttá teszi –, a helyi önkormányzat gazdasági stabilitásának megteremtése érdekében a helyi önkormányzathoz költségvetési biztost jelölhet ki
 
-- a) jelölhet ki 12 hónap időtartamra, ha a helyi önkormányzat a költségvetési év hatodik hónapjáról, a kilencedik hónapjáról és a tizenkettedik hónapjáról szóló időközi költségvetési jelentés közül kettőt a jogszabályi határidőt követő 30 napon belül nem teljesíti, vagy az időközi mérlegjelentés alapján a 90 napon túl lejárt kötelezettségek összege meghaladja a helyi önkormányzat tárgyévet megelőző évi költségvetési bevételének 30%-át, vagy
-- b) jelöl ki az adósságrendezési eljárás jogerős befejezését követő 24 hónap időtartamra, ha a helyi önkormányzattal szemben adósságrendezési eljárás indult.
+- a) 12 hónap időtartamra, ha a helyi önkormányzat a költségvetési év hatodik hónapjáról, a kilencedik hónapjáról és a tizenkettedik hónapjáról szóló időközi költségvetési jelentés közül kettőt a jogszabályi határidőt követő 30 napon belül nem teljesít, vagy az időközi mérlegjelentés alapján a 90 napon túl lejárt kötelezettségek összege meghaladja a helyi önkormányzat tárgyévet megelőző évi költségvetési bevételének 30%-át, vagy
+- b) 12 hónap időtartamra, a helyi önkormányzat képviselő-testülete felhatalmazása alapján a polgármester megkeresésére, továbbá
+- c) 12 hónap időtartamra, ha a helyi önkormányzat vagy annak legalább többségi tulajdonában álló gazdasági társasága, vagy az ilyen gazdasági társaság legalább többségi tulajdonában álló gazdasági társasága előzetes kormányzati engedélyhez kötött működési célú adósságot keletkeztető ügyletet keletkeztet.
 
-(2) A kincstár elnöke által megbízott költségvetési biztos a helyi önkormányzat gazdasági stabilitásának megteremtése érdekében – a Kormány rendeletében meghatározott – intézkedéseket foganatosíthat –, amit a kijelöléssel érintett önkormányzat az (1) bekezdés a) vagy b) pont szerint meghatározott időtartam alatt tűrni köteles.
+(1a) A kincstár elnöke a helyi önkormányzat gazdasági stabilitásának megteremtése érdekében költségvetési biztost jelöl ki
+
+- a) a helyi önkormányzathoz az adósságrendezési eljárás jogerős befejezését követő 24 hónap időtartamra, vagy
+- b) 12 hónap időtartamra, ha a 20 000 főt meghaladó lakosságszámú települési önkormányzat költségvetési szerveivel együtt vizsgált pénzeszközei és állampapírban tartott forrásainak együttes összege a legutóbbi elfogadott, költségvetési szerveivel együtt vizsgált beszámolójának adatait és az azt megelőző negyedik év végi adatokat vizsgálva legalább 75%-kal mérséklődött, és ezen források összegének aránya kisebb, mint az önkormányzat legutóbbi elfogadott, költségvetési szerveivel együtt vizsgált beszámolójának adatai szerinti költségvetési kiadási összegének 4%-a
+
+[a b) pont e § alkalmazásában: súlyos, romló pénzügyi, gazdasági helyzet].
+
+(1b) A kincstár elnöke az (1a) bekezdés b) pontja szerinti esetben a költségvetési biztos kijelölésének időtartamát egy alkalommal, legfeljebb 12 hónap időtartammal meghosszabbíthatja. Erről a költségvetési biztos kijelölésének lejárta előtt 10 nappal tájékoztatja az érintett helyi önkormányzatot.
+
+(1c) Az (1a) bekezdés b) pontja alkalmazása során a lakosságszám tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszter által vezetett minisztérium – tárgyévet megelőző év január 1-jei állapotnak megfelelő – adatait kell figyelembe venni azzal, hogy a Budapest Főváros lakosságszámaként a fővárosi kerületek és a fővárosi önkormányzat által közvetlenül igazgatott terület együttes lakosságszámát kell figyelembe venni.
+
+(2) A kincstár elnöke által megbízott költségvetési biztos a helyi önkormányzat gazdasági stabilitásának megteremtése érdekében – a Kormány rendeletében meghatározott – intézkedéseket foganatosíthat –, amit a kijelöléssel érintett önkormányzat az (1) bekezdés a)–c) pontja, az (1a) bekezdés a) és b) pontja, valamint az (1b) bekezdés szerint meghatározott időtartam alatt tűrni köteles.
 
 (3) A költségvetési biztos a helyi önkormányzat eredményes működése érdekében
 
@@ -961,7 +977,11 @@ a kirendeléssel egyidejűleg tájékoztatja.
 - b) javaslatot tehet, ajánlást fogalmazhat meg a belső információáramlásokkal, gazdálkodási folyamatokkal, továbbá a szakmai szabályozással összefüggésben, valamint
 - c) dönt a kötelezettségvállalások ellenjegyzéséről.
 
-(4) A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak szerinti adatok megismerésére és kezelésére jogosult.
+(3a) A költségvetési biztos – a kincstár költségére – szakértőt is bevonhat, ha a (3) bekezdésben meghatározott tevékenysége során különleges szakértelmet igénylő kérdés merül fel.
+
+(3b) A költségvetési biztos a kincstár elnökének előzetes jóváhagyásával az (1a) bekezdésben meghatározott feladatai ellátása érdekében kezdeményezheti a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
+
+(4) A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak szerinti adatok megismerésére és kezelésére is jogosult. A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak kivételével a működése során tett véleményeit, javaslatait, ajánlásait, megállapításait és egyéb, a működése során készített dokumentumait nyilvánosságra hozhatja a különleges adatok, a minősített adatok, a személyes adatok és a törvény által védett egyéb adótitkok kivételével.
 
 #### 28. Rendkívüli intézkedések
 
@@ -1188,7 +1208,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (5) A (4) bekezdésben foglaltaktól eltérően nem minősül a költségvetési támogatás jogosulatlan igénybevételének, támogatási céltól eltérő felhasználásának, ha a helyi önkormányzat, a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat kedvezményezett a fejlesztési, beruházási céllal nyújtott költségvetési támogatásból származó átmenetileg szabad pénzeszközt állampapír vásárlásával hasznosítja, feltéve, hogy az állampapír vásárlása nem a kincstár által vezetett fizetési számlája terhére történik és a támogatási cél határidőben történő megvalósulását ez nem veszélyezteti. A helyi önkormányzat, a helyi nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat kedvezményezett az így elért hozamot, kamatbevételt kizárólag a támogatott tevékenységgel kapcsolatos kiadásokra használhatja fel.
 
-51/A. § (1) Az ötven millió forintot meghaladó a fejlesztési, beruházási céllal nyújtott költségvetési támogatás, valamint – a magánszektorba sorolt kedvezményezett kivételével – támogatási előleg a kedvezményezett támogatott tevékenységének megkezdéséhez – a Kormány rendeletében meghatározottak szerint – bocsátható rendelkezésre.
+51/A. § (1) Az ötven millió forintot meghaladó a fejlesztési, beruházási céllal nyújtott költségvetési támogatás, valamint – a magánszektorba sorolt kedvezményezett kivételével – támogatási előleg a kedvezményezettnek a Kormány rendeletében meghatározottak szerint bocsátható rendelkezésre.
 
 (2) A kedvezményezett a támogatási előlegként rendelkezésre bocsátott összeget kizárólag a támogatási szerződésben meghatározott támogatási céllal összefüggésben, a támogatott tevékenységre használhatja fel.
 
@@ -1214,7 +1234,9 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (2a) A (2) bekezdésben meghatározott követeléssel kapcsolatos végrehajtás elrendelése esetén az Ákr. hatálya alá tartozó eljárásokban a végrehajtási megkeresés napját követően a késedelmi kamatot az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezései alapján – az ott meghatározott kivétellel – a végrehajtást foganatosító szerv számítja fel és arról a megkereső szervet értesíti.
 
-(3) Nemteljesítés esetén a visszafizetési kötelezettség érvényesítése elsősorban a biztosíték érvényesítésével történik. Ennek eredménytelensége esetén a visszafizetendő összeget és annak kamatait az állami adóhatóság a támogató megkeresésére adók módjára behajtandó köztartozásként, a 14. § (3) bekezdése szerinti fejezetből nyújtott költségvetési támogatás esetén a 60/A. § (2) bekezdésében meghatározott módon hajtja be. Ha a nem természetes személy kedvezményezett jogszabály alapján mentesül a biztosíték nyújtása vagy választása szerint az önrész rendelkezésre állásának igazolása alól, és a jogosulatlanul igénybe vett költségvetési támogatással összefüggésben keletkező visszafizetési kötelezettségét a támogató által meghatározott határnapig nem teljesíti, illetve annak részletekben történő teljesítése esetén a részletfizetési kötelezettségét elmulasztja, és a visszafizetendő összeget nem lehet tőle behajtani, a támogató kezdeményezése alapján az állami adóhatóság a kedvezményezett és a kedvezményezettben többségi befolyással rendelkező szervezet adószámát törli.
+(2b) Nem terheli a (2) bekezdés szerinti ügyleti kamatfizetési kötelezettség a kedvezményezettet az általa fel nem használt támogatási összeg visszafizetése során, ha a kedvezményezett a támogatott tevékenységet a rendelkezésére bocsátott támogatási összeg kisebb mértékű felhasználásával és teljes mértékben valósította meg a támogatott tevékenység időtartamán belül.
+
+(3) Nemteljesítés esetén a visszafizetési kötelezettség érvényesítése elsősorban a biztosíték érvényesítésével történik. Ennek eredménytelensége esetén, ha a visszafizetendő összeg eléri vagy meghaladja az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 106. § (1) bekezdésében meghatározott összeget, akkor a visszafizetendő összeget és annak kamatait az állami adóhatóság a támogató megkeresésére adók módjára behajtandó köztartozásként, – a 14. § (3) bekezdése szerinti fejezetből nyújtott költségvetési támogatás esetén a visszafizetendő összegre tekintet nélkül – a 60/A. § (2) bekezdésében meghatározott módon hajtja be. Ha a nem természetes személy kedvezményezett jogszabály alapján mentesül a biztosíték nyújtása vagy választása szerint az önrész rendelkezésre állásának igazolása alól, és a jogosulatlanul igénybe vett költségvetési támogatással összefüggésben keletkező visszafizetési kötelezettségét a támogató által meghatározott határnapig nem teljesíti, illetve annak részletekben történő teljesítése esetén a részletfizetési kötelezettségét elmulasztja, és a visszafizetendő összeget nem lehet tőle behajtani, a támogató kezdeményezése alapján az állami adóhatóság a kedvezményezett és a kedvezményezettben többségi befolyással rendelkező szervezet adószámát törli.
 
 (4) Ha a kedvezményezett a támogatott tevékenység megvalósítása érdekében olyan jogviszonyt létesít, amely alapján a támogató előleg számla alapján közvetlenül harmadik személynek folyósítja a költségvetési támogatást, a kedvezményezettet terhelő visszafizetési kötelezettség ezt a harmadik személyt terheli, ha a visszafizetési kötelezettség azért keletkezett, mert a támogatott tevékenység megvalósítása érdekében létesített jogviszonyon alapuló kötelezettségeit nem teljesítette a kedvezményezett számára. Ha a kötelezettségek teljesítésének elmaradása e harmadik személy szándékos magatartására vezethető vissza, és a visszafizetési kötelezettségét a támogató által meghatározott határnapig nem teljesíti, illetve annak részletekben történő teljesítése esetén a részletfizetési kötelezettségét elmulasztja, a visszafizetendő összeget a támogató kezdeményezésére adók módjára behajtandó köztartozásként kell behajtani. Behajthatatlanság esetén a támogató kezdeményezése alapján az állami adóhatóság a harmadik személy és a harmadik személyben többségi befolyással rendelkező szervezet adószámát törli.
 
@@ -2125,6 +2147,8 @@ követő naptári év utolsó napjáig kezeli.
 
 (2) Az e §-ban meghatározottak teljesítése érdekében a kincstár okirati mintát, nyomtatványt, elektronikus űrlapot alkalmazhat, illetve a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter jóváhagyásával rendszeresíthet az e törvény végrehajtására kiadott jogszabályokban meghatározott bejelentések, kérelmek előterjesztésére. A kincstár a nyomtatványokról, elektronikus űrlapokról, elektronikus nyomtatványkitöltő programokról, azok formájáról, tartalmáról, használatának, kitöltésének és benyújtásának módjáról tájékoztatót tesz közzé.
 
+(3) A helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács a legalább 10%-os tulajdoni hányadában álló gazdasági társaságára kiterjedően a Kormány rendeletében meghatározott adatszolgáltatásokat teljesít.
+
 108. § (1) A Kormány rendeletében meghatározott szerv (e § alkalmazásában a továbbiakban: adatszolgáltatás kötelezettje)
 
 - a) az elemi költségvetésről és az éves költségvetési beszámolóról az államháztartás információs rendszere keretében adatszolgáltatást teljesít,
@@ -2185,7 +2209,7 @@ kell kiszabni.
 - 10. a 32. § szerinti előirányzatoknál a jóváhagyott előirányzat túllépésének rendjét,
 - 11. a kötelezettségvállalás, pénzügyi ellenjegyzés, szakmai teljesítés igazolása, utalványozás, érvényesítés jogosultsági és összeférhetetlenségi szabályait, eljárásrendjét, a 36. § (3) bekezdése szerinti eseteket, a kötelezettségvállalás 36. § (6) bekezdése szerinti további feltételeit, a Kormány által egyedileg jóváhagyott többéves kiadási kötelezettséget jelentő fejlesztési programok kötelezettségvállalásának szabályait, a 36. § (1) bekezdése szerinti kivételeket, valamint a fedezet rendelkezésre állásának vizsgálatára és a kötelezettségek nyilvántartására vonatkozó előírásokat,
 - 12. a költségvetési felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, feladatait, intézkedéseit, a 39. § (2) bekezdés szerinti nagy összegű kötelezettségvállalás fogalmát, a költségvetési felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos szabályokat,
-- 13. a költségvetési biztos megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a költségvetési biztos feladatait, intézkedéseit, a költségvetési biztos tevékenységével, helyettesítésével, kapcsolatos szabályokat,
+- 13. a költségvetési biztos megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a költségvetési biztos feladatait, intézkedéseit, a költségvetési biztos tevékenységével, helyettesítésével, kapcsolatos szabályokat, valamint a 39/A. § (1a) bekezdés b) pontja szerinti kijelölés részletes szabályait,
 - 14. a személyi juttatások felhasználásának korlátait, a kezelt állami vagyonnal való gazdálkodás államháztartási szempontú sajátos előírásait, valamint a költségvetési szervek vállalkozási tevékenysége végzésének és a vállalkozási maradvány megállapításának, felhasználásának részletszabályait,
 - 15. a költségvetési támogatások tekintetében
   - a) a támogatási igények benyújtásának, elbírálásának, folyósításának, a támogatási előleg összegének – ideértve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a költségvetési támogatás felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének, a támogatási szerződés módosításának,
@@ -2205,6 +2229,7 @@ részletes szabályait,
 - 19. a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai finanszírozási, elszámolási rendjét, az államháztartás önkormányzati alrendszere finanszírozási rendjének részletes szabályait,
 - 20. a 78. § (2) bekezdése szerinti likviditási tervek tartalmát, elkészítésének, aktualizálásának, valamint a 78. § (4) bekezdése szerinti finanszírozási igényeket és azok megelőlegezése feltételeinek, a megelőlegezett összeg visszapótlásának szabályait,
 - 21. a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, és a térségi fejlesztési tanács fizetési számláinak és az ahhoz kapcsolódó alszámlák körét, felhasználásuk szabályait, a kincstár által végzett fedezetvizsgálat szempontjait, a fedezetvizsgálat alóli kivételeket, és a 80. § (2) bekezdése szerinti szabályzat további tartalmi elemeit,
+- 21a. a 84. § szerinti kincstári számlára és számláról való átutalás, annak rendszeressége, eljárási, technikai, egyes kapcsolódó kérdései, időbelisége, kapcsolódó információk kezelése és előállítása, a források nyilvántartása, a kincstári számláról a kereskedelmi banki számlára való utalás és az ezekről való önkormányzati rendelkezés részletes szabályait,
 - 22. az államháztartás alrendszereiben a készpénzhasználat és a házipénztár működtetésének részletes szabályait,
 - 23. a maradvány megállapításának, felhasználhatóságának, jóváhagyásának részletes szabályait,
 - 24. a költségvetési beszámolás, az irányító szerv és a beszámolást készítő feladatait, a zárszámadáshoz kapcsolódó adatszolgáltatási feladatokat,
@@ -2394,9 +2419,15 @@ rendeletben szabályozza.
 
 (44) E törvénynek a Módtv4.-gyel megállapított 70. § (7c) bekezdését a hatálybalépése napján folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell.
 
-(45) E törvénynek a Módtv4.-gyel megállapított 51. § (4b) bekezdése szerinti szervek és szervezetek a nem a kincstárnál vezetett fizetési számláján lévő összegeket 2025. március 31-éig kötelesek a kincstári számlára átutalni.
+(45)
 
 (46) E törvénynek Módtv4.-gyel megállapított 79. § (2b) bekezdése szerinti felülvizsgálatot első alkalommal a Módtv4. hatályba lépését megelőző három vagy ennél korábbi évben, határozatlan időre kiadott, e törvény hatálybalépése napján még érvényes felmentések esetében legkésőbb 2025. június 30-ig kell elvégezni.
+
+(47) E törvénynek a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról szóló 2025. évi XXI. törvénnyel (a továbbiakban: Módtv5.) megállapított 51/A. § (1) bekezdését, 53/A. § (2b) és (3) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő támogatási jogviszonyokban is alkalmazni kell.
+
+(48) A 2025. január 1-jét megelőzően a Közvetlen uniós programok támogatása előirányzat terhére létrejött támogatási jogviszonyokra, a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt központi kezelésű és fejezeti kezelésű előirányzatokra a Kormány rendeletében meghatározott, e jogviszonyok létrejöttekor hatályos előleg-elszámolási szabályokat kell alkalmazni.
+
+(49) A 2025. január 1-je és a Módtv5. hatálybalépése közötti időszakban az 51. § (4b) bekezdése szerinti szervek és szervezeteknek a nem a kincstárnál vezetett fizetési számláján lévő, de a kincstár által vezetett fizetési számlára átutalt támogatási összeget a kincstár a kedvezményezett részére visszatéríti.
 
 111/A. § A befektetési jegy megszerzésére visszatérítendő költségvetési támogatást nyújtó szerv olyan tartalommal módosíthatja a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény (a továbbiakban: Módtv1.) hatálybalépését megelőzően megkötött támogatási szerződést, amely lehetőséget ad számára, hogy a támogatási jogviszonyból eredő követelését a befektetési alap befektetési jegyeinek megszüntetéséből felszabaduló pénzeszköz értéke alapján határozza meg. Ha a pénzeszközök értéke kevesebb, mint a követelés eredeti összege, akkor ez a veszteség jellegű különbözet elengedett követelésnek minősül.
 

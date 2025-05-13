@@ -1250,7 +1250,7 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 
 (4b) A (4a) bekezdés szerinti eljárás során a fővárosi vagy vármegyei kormányhivatal vezetője az érintett helyi önkormányzattól – legfeljebb 8 napos határidő tűzésével – további információkat, adatokat kérhet.
 
-(4c) Ha a helyi önkormányzat adott évi költségvetési rendeletében meghatározott, az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2) bekezdés g) pontja szerinti saját bevételének mértéke legalább 20%-kal, és legalább 1 milliárd forinttal meghaladja az előző évi jóváhagyott költségvetési rendeletében szereplő saját bevétel összegét, úgy a megtervezett támogatási összeg saját bevétel közgazdasági megalapozottságát a helyi önkormányzatnak szükséges alátámasztania a fővárosi vagy vármegyei kormányhivatal részére.
+(4c) Ha a helyi önkormányzat adott évi költségvetési rendeletében meghatározott, az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2) bekezdés g) pontja szerinti saját bevételének mértéke legalább 20%-kal, és legalább 1 milliárd forinttal meghaladja az előző évi jóváhagyott költségvetési rendeletében szereplő saját bevétel összegét, úgy a megtervezett támogatási összeg fedezetéül szolgáló saját bevétel közgazdasági megalapozottságát a helyi önkormányzatnak szükséges alátámasztania a fővárosi vagy vármegyei kormányhivatal részére.
 
 (4d) A (4a) és (4c) szerinti eljárás lefolytatása az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2b) bekezdés b) pontja alapján mellékelt üzleti tervre is kiterjed a közgazdasági megalapozottság megállapításához szükséges mértékben.
 
@@ -1259,8 +1259,9 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 - a) a képviselő-testület a költségvetési rendeletét a költségvetési évben legkésőbb március 15-ig nem fogadja el, vagy az államháztartásról szóló 2011. évi CXCV. törvény 111/P. §-ában foglalt rendelkezésnek nem tesz eleget,
 - b) az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2a) és (2b) bekezdésében foglaltakat megsérti,
 - c) a (4) bekezdésében foglaltakat megsérti,
-- d) a (4b) vagy (4d) bekezdésben foglalt adatszolgáltatást nem teljesíti, vagy
-- e) a (4a) és (4c) bekezdés szerinti vizsgálat eredménye alapján indokolt.
+- d) a (4b) vagy (4d) bekezdésben foglalt adatszolgáltatást nem teljesíti,
+- e) a (4a) és (4c) bekezdés szerinti vizsgálat eredménye alapján indokolt, vagy
+- f) az államháztartásról szóló 2011. évi CXCV. törvény 39. § (9) bekezdés c) pontja szerint azt a költségvetési felügyelő, vagy az államháztartásról szóló 2011. évi CXCV. törvény 39/A. § (3b) bekezdése szerint azt a költségvetési biztos kezdeményezi.
 
 (4f) A (4e) bekezdés szerinti önkormányzati csődbiztosnak
 
@@ -1607,7 +1608,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - f) a helyi önkormányzat tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén a csereügylet kormányhivatal általi jóváhagyására vonatkozó részletes eljárási szabályokat;
 - g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket;
 - h) az önkormányzati ASP rendszer elemeit és működtetésének szabályait, az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit.
-- i) az önkormányzati csődbiztos kijelölésére, tevékenységére, eljárására díjazására vonatkozó szabályokat
+- i) az önkormányzati csődbiztos kijelölésére, tevékenységére, eljárására és díjazására vonatkozó szabályokat
 
 (2) Felhatalmazást kap a Kormány, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
