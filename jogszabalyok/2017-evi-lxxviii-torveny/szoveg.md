@@ -358,8 +358,9 @@ vonatkozásában áll fenn, akkor a korlátozás az egyéni ügyvédre, a teljes
 - k) a végelszámolói feladat ellátása,
 - l) a felügyelőbizottsági, számvizsgáló bizottsági feladat ellátása,
 - m) a gazdasági társaság vezető tisztségviselőkből álló ügyvezető testületének tagja vagy elnöke feladatának ellátása,
-- n) az m) pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása, valamint
+- n) az m) pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása,
 - o) a békéltető testületi tevékenység.
+- p) a hitelgondozási szolgáltatói tevékenység.
 
 (2) A kamarai jogtanácsosi és a jogi előadói tevékenység gyakorlásával a 23. § (1) bekezdés c) pontja alá eső tevékenységek közül nem összeférhetetlen továbbá a jogi személy vezető tisztségviselője feladatának ellátása.
 
@@ -369,7 +370,7 @@ vonatkozásában áll fenn, akkor a korlátozás az egyéni ügyvédre, a teljes
 
 (5) Ugyanazon ügyben nem folytatható egyidejűleg a 2. § és 3. § szerinti ügyvédi tevékenység és az e § szerinti tevékenység.
 
-(6) Az (1) bekezdés h), m) és n) pontjában meghatározott tevékenység és a 2. § és 3. § szerinti ügyvédi tevékenység ugyanazon ügyfél számára nem végezhető, kivéve, ha a megbízott ügyvédi iroda, a megbízás teljesítésében az ügyvédi iroda (1) bekezdés h), m) és n) pontjában meghatározott tevékenységet folytató tagja nem vesz részt, és az ügyfél ehhez írásban kifejezetten hozzájárul.
+(6) Az (1) bekezdés h), m), n) és p) pontjában meghatározott tevékenység és a 2. § és 3. § szerinti ügyvédi tevékenység ugyanazon ügyfél számára nem végezhető, kivéve, ha a megbízott ügyvédi iroda, a megbízás teljesítésében az ügyvédi iroda (1) bekezdés h), m), n) és p) pontjában meghatározott tevékenységet folytató tagja nem vesz részt, és az ügyfél ehhez írásban kifejezetten hozzájárul.
 
 25. § A kamarai jogtanácsos és a jogi előadó munkáltatója és munkáltatójának kapcsolt vállalkozása számára munkavégzési kötelezettséggel járó, ellenérték fejében végzett tevékenységet folytathat.
 
