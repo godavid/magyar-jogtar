@@ -404,6 +404,16 @@ azzal, hogy a közlési határidő nem vagy késedelmes teljesítése – a fogy
 
 (6) A módosítással kapcsolatos tájékoztatást elektronikus kereskedelmi szolgáltatás nyújtása esetén a fogyasztók számára folyamatosan és könnyen hozzáférhető módon, elektronikusan is elérhetővé kell tenni.
 
+### A hitel feltételeinek módosítására vonatkozó tájékoztatási kötelezettség
+
+18/A. § A hitelező a hitel feltételeinek módosítása előtt tájékoztatja a fogyasztót
+
+- a) a módosítás egyértelmű tartalmáról, valamint arról, ha ahhoz a fogyasztó beleegyezése szükséges, vagy jogszabály változása miatt szükséges,
+- b) az a) pont szerinti módosítások hatálybalépésének ütemezéséről,
+- c) az a) pont szerinti módosításokkal kapcsolatban nyitva álló panasztételi lehetőségekről,
+- d) a c) pont szerinti panaszok benyújtásának határidejéről,
+- e) annak a hatóságnak a nevéről és székhelyéről, ahová a fogyasztó panaszt nyújthat be.
+
 ### Fizetési számlához kapcsolódó hitelre vonatkozó tájékoztatási kötelezettség
 
 19. § (1) A hitelező a fogyasztót a fizetési számlához kapcsolódó hitelkeret esetén köteles rendszeresen papíron vagy más tartós adathordozón a (3) bekezdésben foglaltakról tájékoztatni.
@@ -449,7 +459,15 @@ azzal, hogy a közlési határidő nem vagy késedelmes teljesítése – a fogy
 
 (3) Jelzáloghitel-szerződés felmondását megelőzően a hitelező az (1) bekezdésben meghatározott írásbeli fizetési felszólítással és tájékoztatással egyidejűleg köteles a fogyasztónak bemutatni a fogyasztó által a szerződés megkötésétől kezdődően – egyes évekre összesítve, de a fogyasztó külön kérésére havi bontásban is – teljesített törlesztő részletek, a visszafizetett tőkeösszeg, az elszámolt kamat, késedelmi kamat és egyéb költségek, továbbá a tőkésített kamat és a fennálló tartozás alakulását.
 
-(4) Jelzáloghitel fedezetéül szolgáló ingatlanra történő végrehajtás elkerülése érdekében a hitelező belső szabályzatában rögzíti a szükséges intézkedéseket, így különösen a fogyasztó megkeresését és a késedelmes tartozás kiegyenlítésének végrehajtási eljáráson kívüli rendezésének megkísérlését.
+(4) A hitelező belső szabályzatában rögzíti azokat az átstrukturálási lehetőségeket és eljárásokat, amelyeket a végrehajtási eljárás megindítását megelőzően a fogyasztók részére biztosít. Az átstrukturálási lehetőségek kialakítása során figyelembe kell venni a fogyasztó körülményeit is és legalább a következőket kell tartalmazniuk:
+
+- a) a hitel futamidejének meghosszabbítása,
+- b) a hitel típusának módosítása,
+- c) a törlesztési kötelezettség egészének vagy egy részének elhalasztása,
+- d) a kamatláb módosítása,
+- e) halasztott törlesztés,
+- f) a tartozás pénznemének módosítása,
+- g) a tartozás részleges elengedése és adósságkonszolidáció.
 
 20/C. § (1) A lakáscélú hitelszerződés esetében a szerződés felmondását követő kilencvenedik nap eltelte után a pénzügyi intézmény a fogyasztó nem teljesítése miatt a felmondás napját megelőző napon érvényes ügyleti kamatot, költséget és díjat meghaladó mértékű késedelmi kamatot, költséget és díjat nem számíthat fel.
 
@@ -719,6 +737,7 @@ kell megállapítani.
 - b) a Bizottság 2001/193/EK ajánlása (2001. március 1.) a fogyasztóknak a lakáshitel szerződések megkötését megelőzően nyújtandó tájékoztatásról (a 12. § és a 3. melléklet),
 - c) az Európai Parlament és a Tanács 2014/17/EU irányelve (2014. február 4.) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról.
 - d) a 6. § (2a) bekezdése a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet 57. cikk.
+- e) a 18/A. §-a és a 20/B. § (4) bekezdése a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelv.
 
 ### 1. melléklet a 2009. évi CLXII. törvényhez
 

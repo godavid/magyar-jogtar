@@ -618,6 +618,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (2) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló törvény hatálya alá tartozó tevékenysége tekintetében.
 
+(2a) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a hitelgondozók, a hitelgondozási szolgáltatók, vagy kijelölt képviselőjük felügyeletét a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény hatálya alá tartozó tevékenység tekintetében.
+
 (3) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében látja el a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 1. § (1) bekezdés a)–e) és m) pontja szerinti szolgáltatók vonatkozásában a Pmt.-ben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvényben, valamint a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad-törvény) 3. § 12. pontja szerinti szolgáltató minőségében eljáró szolgáltató vonatkozásában az Afad-törvényben meghatározott felügyeleti feladatokat.
 
 (4) Az MNB biztosítja, hogy feladatai ellátásához szükséges szakértelemmel és működési kapacitással rendelkezzen.
@@ -828,6 +830,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 - e) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése,
 - f) a 4. § (7) bekezdésében meghatározott feladatkörében eljárva a Hpt. 90. §-ában meghatározottak szerint a globálisan és egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer, a 35/A. § (1) bekezdésében meghatározott rendszerkockázati tőkepuffer képzésére való kötelezés
 - g) a 4. § (9) bekezdésében meghatározott feladatkörében a hitelintézet és a posta készpénzforgalma lebonyolításához kialakított infrastrukturális hálózatának az MNB elnökének a készpénzforgalmazás feltételeit szabályozó rendeletében meghatározott szempontrendszer szerinti minősítése, és az ezen minősítéshez a szempontrendszerben hozzárendelt követelményeknek megfelelő infrastrukturális hálózat kialakítására való kötelezés
+- h) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (2a) bekezdésében meghatározott törvény hatálya alá tartozó hitelgondozó, valamint a hitelgondozási és hitelfelvásárlási tevékenységek feletti folyamatos felügyelet gyakorlása
 
 (a továbbiakban együtt: hatósági tevékenység) során.
 
@@ -835,7 +838,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 - a) a fogyasztóvédelmi ellenőrzési eljárásban a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben, továbbá az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben,
 - b) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben, valamint
-- c) az a) és b) pontban nem említett eljárásokban a 39. § (1) bekezdésében meghatározott törvények szerinti ügyfajtára irányadó különös eljárási szabályokban
+- c) az a) és b) pontban nem említett eljárásokban a 39. § (1) és (2a) bekezdésében meghatározott törvények szerinti ügyfajtára irányadó különös eljárási szabályokban
 
 nem szabályozott kérdésekben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) (2) bekezdésben meghatározott rendelkezéseit és e rendelkezésekhez kapcsolódó, az Ákr. 139. és 140. §-ában kapott felhatalmazás alapján kiadott rendeleteket megfelelően alkalmazni kell.
 
@@ -884,7 +887,7 @@ vonatkozó rendelkezései megfelelően alkalmazandók.
 
 (2) Az MNB a hivatalbóli eljárást kezdeményező személyt vagy szervezetet kérelmére kizárólag az eljárás megindításának és lezárásának tényéről, valamint az alkalmazott intézkedésről tájékoztatja.
 
-48. § (1) Az MNB a 45. § a) pontjában meghatározott tevékenységének részeként
+48. § (1) Az MNB a 45. § a) és h) pontjában meghatározott tevékenységének részeként
 
 - a) engedélyezési eljárást,
 - b) ellenőrzési eljárást,
@@ -908,7 +911,7 @@ folytat le.
 
 (3a) Az MNB egyes pénzügyi eszközök vagy strukturált betétek forgalmazását, értékesítését, továbbá egyes piaci cselekmények vagy magatartások végzését határozatában megtilthatja vagy korlátozhatja a 600/2014/EU rendelet 42. cikkében meghatározott feltételek fennállása esetén. A határozat a 39. § hatálya alá tartozó személyek és szervezetek, mint kötelezettek adatai helyett a döntéssel érintett pénzügyi eszközök vagy strukturált betétek körét, vagy egyes piaci cselekményeket vagy magatartásokat tartalmazza.
 
-(4) Az MNB felhívására a 39. § (1) bekezdésében meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény hatálya alá tartozó személy és szervezet köteles az MNB feladatellátásához kért, a tevékenységére vonatkozó tájékoztatást megadni, a hatósági eljárás tárgyával összefüggő adatot, beszámolót, bizonylatot, vizsgálati anyagot, a számviteli nyilvántartásait, szabályzatait, az egyes ügyletekhez kapcsolódó dokumentációit, a legfőbb szerve, az ügyvezető és ellenőrző szerve előterjesztéseit, e szervek ülésének jegyzőkönyveit, a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit, továbbá az előbbiekben fel nem sorolt egyéb kimutatást az MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani. Az így rendelkezésre bocsátott iratokról az MNB kivonatot, illetve másolatot készíthet.
+(4) Az MNB felhívására a 39. § (1) és (2a) bekezdésében meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény hatálya alá tartozó személy és szervezet köteles az MNB feladatellátásához kért, a tevékenységére vonatkozó tájékoztatást megadni, a hatósági eljárás tárgyával összefüggő adatot, beszámolót, bizonylatot, vizsgálati anyagot, a számviteli nyilvántartásait, szabályzatait, az egyes ügyletekhez kapcsolódó dokumentációit, a legfőbb szerve, az ügyvezető és ellenőrző szerve előterjesztéseit, e szervek ülésének jegyzőkönyveit, a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit, továbbá az előbbiekben fel nem sorolt egyéb kimutatást az MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani. Az így rendelkezésre bocsátott iratokról az MNB kivonatot, illetve másolatot készíthet.
 
 (4a) Az MNB a folyamatos felügyelés keretében – a 48. § (1) bekezdésében meghatározott eljárásokat is ideértve – jogszerűen megszerzett iratot, adatot, dokumentumot vagy egyéb bizonyítási eszközt más folyamatos felügyelés során – a 48. § (1) bekezdésében meghatározott eljárásokat is ideértve – is felhasználhatja, feltéve, hogy az így megszerzett és kezelt – akár személyes adatot tartalmazó vagy annak minősülő – irat, adat, dokumentum vagy egyéb bizonyítási eszköz más eljárásban történő felhasználása az adott eljárás során a tényállás tisztázásához és az eljárás lefolytatásához szükséges.
 
@@ -1843,6 +1846,9 @@ tarthat.
 - f) pénzforgalmi intézmény esetén a pénzforgalmi szolgáltatási tevékenységből származó
   - fa) nettó árbevétel, valamint
   - fb) pénzügyi műveletekből származó bevétel
+- g) hitelgondozó, hitelgondozási szolgáltató, hitelfelvásárló (képviselője) esetén a hitelgondozási, hitelfelvásárlási tevékenységből származó
+  - ga) nettó árbevétel, valamint
+  - gb) pénzügyi műveletekből származó bevétel
 
 összegét kell figyelembe venni.
 
@@ -1860,7 +1866,7 @@ tarthat.
 
 90. § (1) Az MNB piacfelügyeleti eljárást indít
 
-- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység gyanúja esetén,
+- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői, hitelgondozási tevékenység gyanúja esetén,
 - b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
 - c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 - d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
@@ -1872,7 +1878,7 @@ tarthat.
 - a) hat hónap a hatósági ellenőrzési eljárás lefolytatására, továbbá
 - b) jogszabálysértés megállapítása esetén további három hónap a hatósági eljárás lefolytatására.
 
-(3) Az MNB – az ok és a cél megjelölésével megküldött – felhívására a 39. § (1) és (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy vagy szervezet köteles az általa kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
+(3) Az MNB – az ok és a cél megjelölésével megküldött – felhívására a 39. § (1)–(2a) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy vagy szervezet köteles az általa kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
 
 - a) iratot, elektronikus módon rögzített adatot, jelet, rögzített telefonbeszélgetést bemutatni,
 - b) egyéb tájékoztatást adni, valamint
@@ -2630,7 +2636,7 @@ terjedhet.
 
 (10) Az MNB értesítheti az Európai Értékpapír-piaci Hatóságot az olyan helyzetekről, amikor a befektetési vállalkozást érintő helyszíni ellenőrzés vagy vizsgálat elvégzéséhez vagy információcseréhez kapcsolódó felügyeleti megkeresését elutasították vagy nem jártak el észszerű időben.
 
-(11) A Felügyelet késedelem nélkül átadja a másik EGT-állam illetékes felügyeleti hatóságának a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelv átültetését biztosító jogszabályokban meghatározott feladatok ellátásához szükséges információkat. A Felügyelet jelezheti, hogy az átadott információkat hozzájárulása nélkül nem lehet közzétenni és kizárólag azokra a célokra lehet felhasználni, amelyekhez hozzájárult. A Felügyelet a másik EGT-állam illetékes felügyeleti hatóságától kapott információkat kizárólag azok hozzájárulásával és az általuk elfogadott célból továbbíthatja harmadik félnek az indokolt esetek kivételével. Indokolt esetek fennállása esetén a Felügyelet azonnal tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+(11) A Felügyelet késedelem nélkül átadja a másik EGT-állam illetékes felügyeleti hatóságának a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelv, továbbá a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelv átültetését biztosító jogszabályokban meghatározott feladatok ellátásához szükséges információkat. A Felügyelet jelezheti, hogy az átadott információkat hozzájárulása nélkül nem lehet közzétenni és kizárólag azokra a célokra lehet felhasználni, amelyekhez hozzájárult. A Felügyelet a másik EGT-állam illetékes felügyeleti hatóságától kapott információkat kizárólag azok hozzájárulásával és az általuk elfogadott célból továbbíthatja harmadik félnek az indokolt esetek kivételével. Indokolt esetek fennállása esetén a Felügyelet azonnal tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
 
 (12) A Felügyelet csak abban az esetben tagadhatja meg az együttműködést, illetve a (11) bekezdésben meghatározott információcserét, ha
 
@@ -3379,6 +3385,7 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - 21. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek
 - 22. a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2162 európai parlamenti és tanácsi irányelvnek
 - 23. a 2014/59/EU irányelvnek és a 806/2014/EU rendeletnek a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény egyes vonatkozásai tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1174 európai parlamenti és tanácsi irányelvnek
+- 24. a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
