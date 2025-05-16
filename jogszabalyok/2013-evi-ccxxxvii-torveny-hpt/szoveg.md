@@ -36,6 +36,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - a) az elkülönített állami pénzalapokra,
 - b) a kincstári vagyonnal való gazdálkodása tekintetében a Magyar Nemzeti Vagyonkezelő Zrt.-re, valamint
 - c) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezetre.
+- d) a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvényben meghatározott hitelgondozó és hitelgondozási szolgáltató hitelgondozási tevékenységére.
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az engedélyezési, felügyeleti és makroprudenciális tevékenysége, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
@@ -87,6 +88,8 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 5. § (1) A 3. § (3) bekezdés szerinti engedélyt nem szükséges beszerezni más EGT-államban székhellyel rendelkező hitelintézet, jelzáloghitel közvetítői tevékenységet végző közvetítő és a 15. § (4) bekezdésben meghatározott feltételeknek megfelelő pénzügyi vállalkozás határon átnyúló szolgáltatására vonatkozóan, és a magyarországi fióktelepe által végzett, a székhely állam illetékes felügyeleti hatósága által engedélyezett tevékenységet illetően.
 
 (2) Pénzügyi intézménynek nem minősülő vállalkozás csoportfinanszírozást a Felügyelet engedélye nélkül is végezhet.
+
+(3) A nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény hatálya alá tartozó kitettségeket felvásárló hitelfelvásárló a Felügyelet engedélye nélkül vásárolhat nemteljesítő hitelmegállapodást, vagy nemteljesítő hitelmegállapodásból származó hitelezői jogokat.
 
 #### 3. Értelmező rendelkezések
 
@@ -356,7 +359,10 @@ ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket.
 
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
 
-(6a) Nem minősül pénzügyi szolgáltatás közvetítésének az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben meghatározott közösségi finanszírozási szolgáltatás.
+(6a) Nem minősül pénzügyi szolgáltatás közvetítésének
+
+- a) az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben meghatározott közösségi finanszírozási szolgáltatás,
+- b) a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvényben meghatározott hitelgondozási tevékenység hitelfelvásárló megbízásából történő ellátása.
 
 (7) Az e törvényben vagy az 575/2013/EU rendeletben megállapított követelmények vagy felügyeleti hatáskörök összevont vagy szubkonszolidált alapon, e törvénnyel és az 575/2013/EU rendelettel összhangban történő alkalmazásának biztosítása érdekében a „hitelintézet”, a „tagállami anyavállalat”, az „EU-szintű anyavállalat” és az „anyavállalat” fogalmába bele kell érteni a következőket is:
 
@@ -381,7 +387,7 @@ ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket.
 - g) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezet hitelezési tevékenységének elősegítése érdekében végzett tevékenységet,
 - h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
 - i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében fedezet, illetve biztosíték hasznosítására vagy az értékesítésben való közreműködésre irányuló tevékenységet,
-- j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
+- j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet, ideértve a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvényben meghatározott hitelgondozási tevékenységet is,
 - k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
 - l) jogszabályban meghatározott közösségi, valamint állami támogatások közvetítését,
 - m) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvényben meghatározott úthasználati jogosultság megszerzésével összefüggő tevékenységet, valamint
@@ -3077,6 +3083,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 - e) a pénzügyi intézmény a Pmt. szerinti bejelentési, illetve pénzforgalmi szolgáltató részére történő tájékoztatási kötelezettségét, valamint csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti,
 - f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől, vagy
 - g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
+- h) a pénzügyi intézmény a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény szerint szolgáltat adatot.
 
 (4) Az adatkérésben, illetve az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és – a nemzetbiztonsági szolgálatok kivételével – az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
 
