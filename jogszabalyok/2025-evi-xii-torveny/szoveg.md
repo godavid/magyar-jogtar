@@ -564,132 +564,15 @@ vonatkozó részletes szabályokat.
 
 #### 19. Módosító rendelkezések
 
-38. § (1) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) a 18. §-t követően a következő alcímmel egészül ki:
+#### 38. §
 
-### „A hitel feltételeinek módosítására vonatkozó tájékoztatási kötelezettség
+#### 39. §
 
-18/A. § A hitelező a hitel feltételeinek módosítása előtt tájékoztatja a fogyasztót
+#### 40. §
 
-- a) a módosítás egyértelmű tartalmáról, valamint arról, ha ahhoz a fogyasztó beleegyezése szükséges, vagy jogszabály változása miatt szükséges,
-- b) az a) pont szerinti módosítások hatálybalépésének ütemezéséről,
-- c) az a) pont szerinti módosításokkal kapcsolatban nyitva álló panasztételi lehetőségekről,
-- d) a c) pont szerinti panaszok benyújtásának határidejéről,
-- e) annak a hatóságnak a nevéről és székhelyéről, ahová a fogyasztó panaszt nyújthat be.”
+#### 41. §
 
-(2) Az Fhtv. 20/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A hitelező belső szabályzatában rögzíti azokat az átstrukturálási lehetőségeket és eljárásokat, amelyeket a végrehajtási eljárás megindítását megelőzően a fogyasztók részére biztosít. Az átstrukturálási lehetőségek kialakítása során figyelembe kell venni a fogyasztó körülményeit is és legalább a következőket kell tartalmazniuk:
-
-- a) a hitel futamidejének meghosszabbítása,
-- b) a hitel típusának módosítása,
-- c) a törlesztési kötelezettség egészének vagy egy részének elhalasztása,
-- d) a kamatláb módosítása,
-- e) halasztott törlesztés,
-- f) a tartozás pénznemének módosítása,
-- g) a tartozás részleges elengedése és adósságkonszolidáció.”
-
-(3) Az Fhtv. 38. §-a a következő e) ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„e) a 18/A. §-a és a 20/B. § (4) bekezdése a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelv.”
-
-39. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 39. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a hitelgondozók, a hitelgondozási szolgáltatók, vagy kijelölt képviselőjük felügyeletét a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény hatálya alá tartozó tevékenység tekintetében.”
-
-(2) Az MNBtv. 45. §-a a következő h) ponttal egészül ki:
-
-[Az MNB hatóságként jár el]
-
-„h) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (2a) bekezdésében meghatározott törvény hatálya alá tartozó hitelgondozó, valamint a hitelgondozási és hitelfelvásárlási tevékenységek feletti folyamatos felügyelet gyakorlása”
-
-[(a továbbiakban együtt: hatósági tevékenység) során.]
-
-(3) Az MNBtv. 89. § (3) bekezdése a következő g) ponttal egészül ki:
-
-[Az a)–d) pontban meghatározott szervezet tekintetében az (1) bekezdés alkalmazásában nettó árbevételként:]
-
-„g) hitelgondozó, hitelgondozási szolgáltató, hitelfelvásárló (képviselője) esetén a hitelgondozási, hitelfelvásárlási tevékenységből származó
-
-ga) nettó árbevétel, valamint
-
-gb) pénzügyi műveletekből származó bevétel”
-
-[összegét kell figyelembe venni.]
-
-(4) Az MNBtv. 140. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) A Felügyelet késedelem nélkül átadja a másik EGT-állam illetékes felügyeleti hatóságának a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU
-
-rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelv, továbbá a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelv átültetését biztosító jogszabályokban meghatározott feladatok ellátásához szükséges információkat. A Felügyelet jelezheti, hogy az átadott információkat hozzájárulása nélkül nem lehet közzétenni és kizárólag azokra a célokra lehet felhasználni, amelyekhez hozzájárult. A Felügyelet a másik EGT-állam illetékes felügyeleti hatóságától kapott információkat kizárólag azok hozzájárulásával és az általuk elfogadott célból továbbíthatja harmadik félnek az indokolt esetek kivételével. Indokolt esetek fennállása esetén a Felügyelet azonnal tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.”
-
-(5) Az MNBtv. 185. §-a a következő 24. ponttal egészül ki:
-
-(Ez a törvény)
-
-„24. a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-(6) Az MNBtv.
-
-- a) 46. § (1) bekezdés c) pontjában a „39. § (1) bekezdésében” szövegrész helyébe a „39. § (1) és (2a) bekezdésében” szöveg,
-- b) 48. § (1) bekezdésében a „45. § a) pontjában” szövegrész helyébe a „45. § a) és h) pontjában” szöveg,
-- c) 48. § (4) bekezdésében a „39. § (1) bekezdésében” szövegrész helyébe a „39. § (1) és (2a) bekezdésében” szöveg,
-- d) 90. § (1) bekezdés a) pontjában az „elektronikuspénz-értékesítői tevékenység” szövegrész helyébe az „elektronikuspénz-értékesítői, hitelgondozási tevékenység” szöveg,
-- e) 90. § (3) bekezdésében a „39. § (1) és (2) bekezdésében” szövegrész helyébe a „39. § (1)–(2a) bekezdésében” szöveg
-
-lép.
-
-40. § (1) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 2. § (2) bekezdése a következő d) ponttal egészül ki:
-
-(E törvény hatálya nem terjed ki:)
-
-„d) a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvényben meghatározott hitelgondozó és hitelgondozási szolgáltató hitelgondozási tevékenységére.”
-
-(2) A Hpt. 5. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény hatálya alá tartozó kitettségeket felvásárló hitelfelvásárló a Felügyelet engedélye nélkül vásárolhat nemteljesítő hitelmegállapodást, vagy nemteljesítő hitelmegállapodásból származó hitelezői jogokat.”
-
-(3) A Hpt. 6. § (6a) bekezdése helyébe a következő rendelkezés lép:
-
-„(6a) Nem minősül pénzügyi szolgáltatás közvetítésének
-
-- a) az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben meghatározott közösségi finanszírozási szolgáltatás,
-- b) a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvényben meghatározott hitelgondozási tevékenység hitelfelvásárló megbízásából történő ellátása.”
-
-(4) A Hpt. 7. § (3) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:)
-
-„j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet, ideértve a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvényben meghatározott hitelgondozási tevékenységet is,”
-
-(végezhet.)
-
-(5) A Hpt. 161. § (3) bekezdése a következő h) ponttal egészül ki:
-
-(A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha)
-
-„h) a pénzügyi intézmény a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény szerint szolgáltat adatot.”
-
-41. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 28. pontja a következő p) alponttal egészül ki:
-
-(E törvény alkalmazásában:
-
-pénzügyi szolgáltató:)
-
-  - „p) a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvényben meghatározott hitelgondozó, amennyiben a hitelfelvásárlóval kötött megállapodásnak megfelelően jogosult a hitelfelvevőtől pénzeszköz átvételére;”
-
-42. § (1) Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) 24. § (1) bekezdése a következő p) ponttal egészül ki:
-
-[Nem esik a 23. § (1) bekezdés c) pont szerinti tilalom alá:]
-
-„p) a hitelgondozási szolgáltatói tevékenység.”
-
-(2) Az Üttv. 24. § (6) bekezdésében az „(1) bekezdés h), m) és n) pontjában” szövegrészek helyébe az „(1) bekezdés h), m), n) és p) pontjában” szöveg lép.
-
-(3) Hatályát veszti az Üttv. 24. § (1) bekezdés n) pontjában a „valamint” szövegrész.
+#### 42. §
 
 ### 1. melléklet a 2025. évi XII. törvényhez
 
