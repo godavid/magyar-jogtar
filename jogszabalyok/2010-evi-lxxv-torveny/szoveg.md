@@ -115,6 +115,8 @@ a munkáltató közterhet nem fizet.
 
 (6) Az állami adó- és vámhatóság a minimálbér változásának napját magában foglaló hónap 10. napjáig honlapján közzéteszi a 8. § (2) bekezdése szerinti közterhek mértékét, valamint a 4. § (2) bekezdése szerinti összeget és a nyugellátás 10. § (2) bekezdés szerint meghatározott alapját.
 
+(7) A 3. § (1) bekezdése szerinti bejelentés időpontjától függetlenül a közterhet a munkavégzés napján hatályos köztehermértékkel kell teljesíteni.
+
 9. § (1) E törvény alkalmazásában a 7. § (2) bekezdésében említett foglalkoztatásból származó jövedelemnek a kifizetett (nettó) munkabér száz százalékát kell tekinteni.
 
 (2) A 7. § (2) bekezdésében meghatározott foglalkoztatásból származó bevételből a természetes személynek nem kell jövedelmet megállapítania és bevallást benyújtania, feltéve hogy az egyszerűsített foglalkoztatásból származó bevétele nem haladja meg az egyszerűsített foglalkoztatás naptári napjainak száma és az adóév első napján hatályos
