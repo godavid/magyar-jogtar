@@ -329,6 +329,15 @@ illetve a büntetőeljárás megindításához való előzetes hozzájárulásr�
 
 (7) Ha a terhelt átadásának végrehajtására nem került sor, az átadási letartóztatás a (4)–(6) bekezdésben említett határidők lejártával megszűnik.
 
+(8) Ha a bíróság határozata a 13. § (1) bekezdése alapján a terhelt átadását rendelte el, és a terhelt átadásának végrehajtása előtt az átadás megtagadása céljából a legfőbb ügyész a törvényesség érdekében jogorvoslatot jelentett be, a jogorvoslat bejelentése a határozat végrehajtására halasztó hatályú.
+
+(9) Ha a Kúria a törvényesség érdekében bejelentett jogorvoslatot alaposnak találja, a törvénysértő határozatot
+
+- a) megváltoztathatja, vagy
+- b) hatályon kívül helyezheti, és az eljárást megszüntetheti, vagy az eljárt bíróságot új eljárásra utasíthatja.
+
+(10) A Kúria a törvényesség érdekében bejelentett jogorvoslat elbírálása során a 16. §-ban meghatározott határidők figyelembevételével jár el.
+
 #### 11. Hozzájárulás, átadás végrehajtásának elhalasztása, ideiglenes átadás
 
 21. § (1) Ha a terhelt nem mondott le a 30. §-ban meghatározott specialitás szabályának alkalmazásáról, a Fővárosi Törvényszék hozzájárul, hogy a kibocsátó tagállam a terhelt átadásának alapjául szolgáló bűncselekménytől különböző, az átadás előtt elkövetett egyéb bűncselekmény miatt büntetőeljárást folytasson le, illetve szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést hajtson végre, ha ennek érdekében a kibocsátó tagállam által megküldött újabb európai elfogatóparancs vagy hozzájárulás iránti kérelem alapjául szolgáló bűncselekmény e törvény rendelkezései szerint önmagában is átadási kötelezettséget von maga után. Az 5. § (1) bekezdés e) pontjában az átadás feltételeként megszabott jogi garanciát ebben az esetben is meg kell követelni.
