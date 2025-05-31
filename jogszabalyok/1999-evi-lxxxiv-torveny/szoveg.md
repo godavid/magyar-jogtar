@@ -81,7 +81,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 4/D. § A nyilvántartó a 4/A. §-ban foglalt esetekben kérelemre gondoskodik az okmányok kiállításáról, ha az automatikus okmánykiállítás akadálya elhárult.
 
-4/E. § A vezetői engedély és a törzskönyv automatikus kiállításáról a nyilvántartó a megszemélyesítést végző szervezet útján, az állandó forgalmi engedély automatikus kiállításáról az okmány jogosultjának lakó-, ennek hiányában tartózkodási vagy szálláshelye szerint illetékes közlekedési igazgatási hatóság útján gondoskodik.
+4/E. § A vezetői engedély automatikus kiállításáról a nyilvántartó a megszemélyesítést végző szervezet útján gondoskodik.
 
 4/F. § A 4/A–4/E. §-ban foglalt esetekben eljáró hatóság az okmány jogosultjának lakó-, ennek hiányában tartózkodási helye vagy szálláshelye szerint illetékes közlekedési igazgatási hatóság.
 
@@ -96,12 +96,12 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - ad) jogszabályban meghatározott esetekben gondoskodik a vezetői engedély ügyfél részére történő kiadásáról;
 - b) a jármű tulajdonjogát igazoló hatósági igazolvány (a továbbiakban: törzskönyv) kapcsán:
   - ba) ellenőrzi a törzskönyv kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
-  - bb) eljár a törzskönyv kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor a törzskönyv automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+  - bb) eljár a törzskönyv kiállítása, cseréje, pótlása ügyében,
   - bc) a ba) és bb) alpontban meghatározott esetekben gondoskodik a törzskönyv kiállításáról,
   - bd) jogszabályban meghatározott esetekben gondoskodik a törzskönyv ügyfél részére történő kiadásáról;
 - c) a jármű nyilvántartásba vételét igazoló okmány kapcsán:
   - ca) ellenőrzi a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
-  - cb) eljár a jármű nyilvántartásba vételét igazoló okmány kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor az állandó forgalmi engedély automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+  - cb) eljár a jármű nyilvántartásba vételét igazoló okmány kiállítása, cseréje, pótlása ügyében,
   - cc) a ca) és cb) alpontban meghatározott esetekben gondoskodik a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány kiállításáról,
   - cd) jogszabályban meghatározott esetekben gondoskodik a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány ügyfél részére történő kiadásáról;
 - d) ellátja az a)–c) és i) pontokban megjelölt okmányok kiadásával kapcsolatos hatáskörébe utalt adatkezelési feladatokat;
@@ -595,7 +595,7 @@ A NYILVÁNTARTÁSBÓL
 
 (5)
 
-20. § (1) A 19. §-ban megjelölt szervek, személyek a célt és a jogalapot az adat megismerésére jogosító jogszabályi rendelkezés megjelölésével igazolják.
+20. § (1) A 19. §-ban megjelölt szervek, személyek a célt és a jogalapot a számukra feladatot meghatározó jogszabály és e törvény rendelkezésének megjelölésével igazolják.
 
 (2) A nyilvántartó a 19. §-ban megjelölt szervek, személyek részére az adatszolgáltatást a járműnyilvántartásból az informatikai platform keretében is nyújthatja.
 

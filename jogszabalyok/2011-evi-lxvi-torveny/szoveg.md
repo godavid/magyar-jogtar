@@ -423,7 +423,7 @@ kell megfelelően alkalmazni.
 
 (3) A helyszíni ellenőrzés során az ellenőrzött szervezet, illetve munkatársai kötelesek a számvevő részére a szervezet helyiségeibe való belépést, valamint a papír alapú és informatikai eszközökkel kezelt adatnyilvántartó rendszerekbe való betekintést biztosítani, az azokról való másolat- és kivonatkészítést lehetővé tenni, valamint a kért felvilágosítást, illetve tájékoztatást megadni.
 
-(4) Az Állami Számvevőszék és a közreműködésre kötelezett, valamint az ellenőrzést támogató szervezet közötti kapcsolat elsődlegesen elektronikus úton tartható fenn. Az Állami Számvevőszék az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján szabályozott vagy központi elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+(4) Az Állami Számvevőszék és a közreműködésre kötelezett, valamint az ellenőrzést támogató szervezet közötti kapcsolat elsődlegesen elektronikus úton tartható fenn. Az Állami Számvevőszék a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti támogató szolgáltatásokat vehet igénybe.
 
 (5) Amennyiben a közreműködésre kötelezett szervezet vagy ennek munkatársa a közreműködéssel kapcsolatos kötelezettségét megalapozott indok nélkül nem vagy késedelmesen teljesíti, az Állami Számvevőszék az intézkedési kötelezettség nem megfelelő teljesítése esetére irányadó szabályok [33. § (3) bekezdés] szerint jár el.
 

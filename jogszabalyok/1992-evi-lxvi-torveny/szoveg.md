@@ -621,7 +621,7 @@ van lehetőség.
 
 - a) a lakcímadatok, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való, az elhalálozáson kívüli kikerülés oka, helye és ideje kivételével az ingatlan-nyilvántartás, a földhasználati nyilvántartás, a földvédelmi nyilvántartás, továbbá a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás, a földvédelmi nyilvántartás, továbbá a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás vezetésével összefüggésben;
 - b) a Magyar Honvédség központi nyilvántartó szerve, a területi katonai igazgatási szervek és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
-- c)
+- c) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nyilvántartásból való, az elhalálozáson kívüli kikerülés oka és ideje kivételével a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben (a továbbiakban: Bnytv.) meghatározott feladatai ellátásához;
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
 - e) a központi menekültügyi szerv a törvényben meghatározott feladatai ellátásához;
 - f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
@@ -654,26 +654,30 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 
 23/A. § E törvény felhatalmazása alapján a 17. § (2) bekezdés f) pontja szerinti adatok igénylésére jogosultak:
 
-- a) a Kormány által a lakáscélú állami támogatásokkal kapcsolatos feladatok ellátására kijelölt szerv a lakáscélú állami támogatásokkal összefüggő feladatai tekintetében,
-- b) a nyugdíj-megállapító szerv a jogszabályban meghatározott feladatai ellátásához,
-- c) a családtámogatási ügyben eljáró hatóság a jogszabályban meghatározott feladatai ellátásához,
-- d) a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésével, valamint a jogosulatlan vadászattal, illetve halászattal kapcsolatos feladatai ellátásához,
-- e) a növény- és talajvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-- f) a környezet- és természetvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-- g) élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-biztonsági és állategészségügyi feladatai ellátásához,
-- h) erdészeti hatóság az erdőgazdálkodói nyilvántartás vezetésével, erdészeti jogsértésekkel összefüggő feladatai ellátásához,
-- i) ingatlan-nyilvántartási hatóság jogszabályban meghatározott feladatai ellátásához,
-- j) a rehabilitációs hatóság a rehabilitációs elbírálási és megállapítási feladatai ellátásához,
-- k) szociális hatóság pénzbeli és természetbeni ellátások megállapításával összefüggő feladatai ellátásához,
-- l) a gyámhatóság a jogszabályban meghatározott feladatai ellátásához,
-- m) az egészségügyi államigazgatási szerv a jogszabályban meghatározott feladatai ellátásához,
-- n) a kulturális örökség védelmével összefüggő feladatokat ellátó szerv a jogszabályban meghatározott feladatai ellátásához,
-- o) az építésügyi és építésfelügyeleti hatóság a jogszabályban meghatározott feladatai ellátásához,
-- p) a fogyasztóvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-- q) a kereskedelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-- r) a jogi segítségnyújtó szolgálat, a pártfogó felügyelői szolgálat, valamint az áldozatsegítő szolgálat jogszabályban meghatározott feladatai ellátásához,
-- s) a Családi Csődvédelmi Szolgálat a jogszabályban meghatározott feladatai ellátásához,
-- t) a munkaügyi és munkavédelmi hatóság a jogszabályban meghatározott feladatai ellátásához.
+- 1. a Kormány által a lakáscélú állami támogatásokkal kapcsolatos feladatok ellátására kijelölt szerv a lakáscélú állami támogatásokkal összefüggő feladatai tekintetében,
+- 2. a nyugdíj-megállapító szerv a jogszabályban meghatározott feladatai ellátásához,
+- 3. a családtámogatási ügyben eljáró hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 4. a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésével, valamint a jogosulatlan vadászattal, halászattal, továbbá agrárkár-megállapítással kapcsolatos feladatai ellátásához,
+- 5. a növény- és talajvédelmi, valamint a növénytermesztési hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 6. a környezet- és természetvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 7. élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-biztonsági és állategészségügyi feladatai ellátásához,
+- 8. erdészeti hatóság az erdőgazdálkodói nyilvántartás vezetésével, erdészeti jogsértésekkel összefüggő feladatai ellátásához,
+- 9. ingatlan-nyilvántartási hatóság jogszabályban meghatározott feladatai ellátásához,
+- 10. a rehabilitációs hatóság jogszabályban meghatározott feladatai ellátásához,
+- 11. szociális hatóság pénzbeli és természetbeni ellátások megállapításával összefüggő feladatai ellátásához,
+- 12. a gyámhatóság a jogszabályban meghatározott feladatai ellátásához,
+- 13. az egészségügyi államigazgatási szerv a jogszabályban meghatározott feladatai ellátásához,
+- 14. a kulturális örökség védelmével összefüggő feladatokat ellátó szerv a jogszabályban meghatározott feladatai ellátásához,
+- 15. az építésügyi és építésfelügyeleti hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 16. a fogyasztóvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 17. a kereskedelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 18. a jogi segítségnyújtó szolgálat, a pártfogó felügyelői szolgálat, valamint az áldozatsegítő szolgálat jogszabályban meghatározott feladatai ellátásához,
+- 19. a Családi Csődvédelmi Szolgálat a jogszabályban meghatározott feladatai ellátásához,
+- 20. a munkaügyi és munkavédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 21. az útügyi és közúti gépjármű-közlekedéssel kapcsolatos ügyekben eljáró közlekedési hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 22. az állatvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
+- 23. a fővárosi és vármegyei kormányhivatal a feladat- és hatáskörét érintő tűzvédelmi, iparbiztonsági és vízügyi hatósági feladatok ellátásához,
+- 24. a kisajátítási hatóság a jogszabályban meghatározott feladatai ellátásához.
 
 23/B. § A 11. § (4) bekezdése szerint kezelt ujjnyomatot kizárólag a nyilvántartást kezelő szerv jogosult igényelni az állandó személyazonosító igazolvány pótlása céljából.
 
@@ -756,6 +760,8 @@ adatot igényelhet.
 (3) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató részére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 15. § (5) bekezdésében meghatározottak szerint adatszolgáltatást teljesít.
 
 #### 24/P. §
+
+24/Q. § A nyilvántartást kezelő szerv a Bnytv. 6. § (1a) bekezdésében foglaltak teljesítése érdekében a bűnügyi nyilvántartó szerv részére átadja a polgár utolsó alkalommal nyilvántartásba vett arcképmását, amennyiben a polgár arcképmásával a bűnügyi nyilvántartó szerv nem rendelkezik.
 
 ### V. Fejezet — A nyilvántartási eljárás
 
@@ -1199,6 +1205,8 @@ miatt a külföldre utazásról szóló törvényben meghatározott okból külf
 
 (4) Az (1) bekezdésben szereplő adatokat a kijelölt kormányhivatal kizárólag a személyazonosító igazolvány érvényességének vizsgálata, valamint a személyazonosító igazolvány kiállítása céljából kezeli. A kijelölt kormányhivatal az adatokat a külföldre utazási korlátozás megszűnésétől számított hat évig kezeli.
 
+(5) Az (1) bekezdésben megjelölt polgár a (2) bekezdés szerinti személyazonosító igazolvány kiadása érdekében a kényszerintézkedést vagy büntetést foganatosító büntetés-végrehajtási intézet (a továbbiakban: bv. szerv) rendelkezésére bocsátja arcképmását, saját kezű aláírását, valamint a 29/A. § (1) bekezdése szerint az ujjnyomatát. A bv. szerv – ha törvény eltérően nem rendelkezik – az adatokat a kijelölt kormányhivatal részére történő megküldésig kezeli.
+
 29/H. § (1) A nyilvántartást kezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének hálózati adatbázisa által elérhető eltulajdonított és elveszett úti okmányok adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja a személyiadat- és lakcímnyilvántartásban érvénytelenítésre került személyazonosító igazolványnak törvényben meghatározott adatait, ha az okmány nincs a hatóság birtokában.
 
 (2) Ha az (1) bekezdés szerinti személyazonosító igazolvány
@@ -1379,7 +1387,7 @@ adatvédelmi tisztviselőt nevez ki.
 
 (4) A Kormány rendeletében meghatározott esetekben és feltételekkel a nyilvántartás szerve az eljárást a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatal útján folytatja le.
 
-(5) Törvényes képviselő a cselekvőképtelen kiskorú kérelmező személyazonosító igazolványa kiadásához szükséges hozzájáruló nyilatkozatot elektronikus azonosítást követően, elektronikus kapcsolattartás útján is tehet.
+(5)
 
 (6) A polgár kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe.
 
