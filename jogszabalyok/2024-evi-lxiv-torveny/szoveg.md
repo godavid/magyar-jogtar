@@ -32,13 +32,27 @@ az online csalások elleni további hatékony fellépés érdekében szükséges
 
 #### 7. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-#### 9. §
+9. § Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) „Fellépés az azonosítók visszaélésszerű felhasználásával szemben” alcíme a következő 91/B. §-sal egészül ki:
+
+„91/B. § (1) A nyilvánosan elérhető telefonszolgáltatást nyújtó szolgáltató a hálózat és a szolgáltatás biztonságának növelése érdekében, az azonosító felhasználásával elkövetett egyes visszaélések elleni hatékony fellépés céljából, a hálózatába nemzetközi irányból érkező hívás irányítása – ideértve a végződtetést is – előtt az Elnök rendeletében meghatározott módon azonosítóval való visszaélés megelőzését szolgáló vizsgálatot végez. A hívást a szolgáltató abban az esetben irányíthatja tovább, ha az Elnök rendeletében foglalt feltételek megvalósultak.
+
+(2) Az (1) bekezdés szerinti kötelezettség teljesítése érdekében a nyilvánosan elérhető telefonszolgáltatást nyújtó szolgáltatók kötelesek a Hatósággal és egymással az Elnök rendeletében meghatározott módon együttműködni.
+
+(3) A (2) bekezdés szerint együttműködésre kötelezett szolgáltató az (1) bekezdés szerinti vizsgálat elvégzése, az ezzel kapcsolatos előfizetői panaszokkal és hibabejelentésekkel összefüggő feladatok ellátása céljából kezeli a 157. § (2) bekezdés a)–c) és e)–f) pontja szerinti adatok közül azokat, amelyek a visszaélés megelőzését szolgáló vizsgálatok elvégzéséhez, a panaszok és a hibabejelentések kezeléséhez feltétlenül szükségesek. Az adatok kezelésére az (1) bekezdés szerinti vizsgálat lefolytatása céljából a vizsgálathoz szükséges mértékben és ideig kerülhet sor.
+
+(4) A Hatóság ajánlást adhat ki a (2) bekezdés szerinti együttműködési kötelezettség teljesítésével, valamint az (1) bekezdés szerinti vizsgálattal összefüggő intézkedések részletes műszaki tartalmáról, amelyet a honlapján közzétesz.
+
+(5) Ha a szolgáltató az (1) és (2) bekezdés szerinti kötelezettségeinek nem tesz eleget, a Hivatal ideiglenes biztosítási intézkedésként megtilthatja a szolgáltató hálózatába nemzetközi irányból érkező hívások fogadását és irányítását.”
 
 #### 10. §
 
-#### 11. §
+11. § Az Eht. 156. § (12) bekezdése helyébe a következő rendelkezés lép:
 
-#### 12. §
+„(12) A szolgáltató a személyes adatok védelmével, a szolgáltatás nyújtása során továbbított közlések bizalmasságával, valamint a hálózat és a szolgáltatás biztonságával kapcsolatos, e törvényben meghatározott kötelezettségein túlmenően, a biztonsági esemény kezelése érdekében vagy biztonsági esemény jelentős kockázatának fennállása esetén a megelőzés érdekében szükséges műszaki és szervezési intézkedések szempontjait, az azonosítóval való visszaélés megelőzését szolgáló vizsgálatok részletes szabályait, a megteendő intézkedések határidejét, a személyes adatok kezelésének részletes szabályait, a szolgáltatás nyújtása során továbbított közlések és küldemények bizalmasságának védelmére vonatkozó különleges feltételeket, az azonosítókijelzés és hívásátirányítás, a hívás irányításának, ideértve a hívásvégződtetés megtagadásának feltételeit, továbbá a szolgáltatók hálózatbiztonsággal összefüggő és az azonosítóval való visszaélés megelőzését szolgáló együttműködésére vonatkozó részletes szabályokat az Elnök rendeletben állapítja meg.”
+
+12. § Az Eht. „Vegyes rendelkezések” alcíme a következő 163/R. §-sal egészül ki:
+
+„163/R. § E törvénynek az online csalások elleni további hatékony fellépés érdekében szükséges és egyéb törvények módosításáról szóló 2024. évi LXIV. törvénnyel megállapított 91/B. §-át a nemzeti számozási tervben meghatározott földrajzi és a rövid számokat hívóazonosítóként használó hívások tekintetében 2025. október 15-től, a mobilszámokat hívóazonosítóként használó hívások tekintetében 2026. június 1-jétől kell alkalmazni.”
 
 #### 8. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
 

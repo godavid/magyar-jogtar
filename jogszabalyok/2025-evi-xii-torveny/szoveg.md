@@ -449,7 +449,13 @@ meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföl
 
 (5) A megállapított közigazgatási szankciók vagy intézkedések részleteit a Felügyelet minden esetben továbbítja a fogadó EGT-állam és – amennyiben az eltér – a hitelnyújtás helye szerinti EGT-állam illetékes felügyeleti hatósága számára.
 
-#### 28. §
+28. § (1) A hitelgondozó a Felügyelet részére felügyeleti díjat fizet.
+
+(2) A felügyeleti díj éves mértéke a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben a pénzügyi vállalkozásokra megállapított alapdíjnak és a (3) bekezdés szerint számított változó díjnak az összege.
+
+(3) A változó díj összege a hitelgondozó éves beszámolója szerinti mérlegfőösszegének 0,25 ezreléke.
+
+(4) Az (1)–(3) bekezdés szerinti rendelkezések nem alkalmazandóak, amennyiben a hitelgondozó a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján fizet felügyeleti díjat.
 
 29. § (1) A Felügyelet a jogszabályokban és felügyeleti határozatban foglalt kötelezettségek sérelme esetén a hitelgondozóval, hitelfelvásárlóval (képviselőjével), a hitelintézettel, a hitelintézetnek nem minősülő hitelezővel, valamint vezető állású személyeikkel szemben – a 30. §-ban meghatározott intézkedéseket alkalmazhatja, valamint bírságot szabhat ki.
 

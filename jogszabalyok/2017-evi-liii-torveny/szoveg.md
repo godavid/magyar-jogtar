@@ -286,7 +286,7 @@ meghatározott intézkedés.
 
 (9) A játékkaszinót, kártyatermet működtető szolgáltató a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az ügyfél-átvilágítási intézkedések során birtokába jutott adatok és a játékosi tranzakciók összekapcsolhatóságának biztosítása érdekében, valamint a felügyeleti tevékenység hatékony ellátása céljából jogosult a természetes személy ügyfele képmásának rögzítésére és a létesítményen belül végzett tevékenységéről történő videofelvétel rögzítésére, valamint a képmás elektronikus nyilvántartási rendszerében történő tárolására. A kártyatermet, játékkaszinót működtető szolgáltató a videofelvételeket a rögzítéstől számított 45 napig köteles megőrizni, ezt a határidőt az érintett szolgáltató az 5. §-ban meghatározott felügyeleti szerv jelzése alapján a felügyeleti szerv eljárásának lezárultáig köteles meghosszabbítani.
 
-(10) A szolgáltató a (2)–(6) bekezdésben meghatározott intézkedéseket a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján is elvégezheti.
+(10) A szolgáltató a (2)–(6) bekezdésben meghatározott intézkedéseket a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben foglaltak szerint is elvégezheti.
 
 (11) Az 5. §-ban meghatározott felügyeletet ellátó szerv a (10) bekezdésben meghatározottak végrehajtására útmutatót ad ki.
 
@@ -584,7 +584,7 @@ vonatkozóan,
 
 (2) Az (1) bekezdésben meghatározott szolgáltató az ügyfél erre irányuló döntése esetén is megtagadhatja az (1) bekezdésben meghatározott kötelezettségek általa üzemeltetett biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján történő végrehajtását, amennyiben ilyen eszközt nem alkalmaz, vagy az ügyfél a 16. § (1) bekezdés a) vagy f) pontjának hatálya alá tartozik, vagy amennyiben az ügyfél vonatkozásában az e törvény végrehajtására kiadott, a belső szabályzat kötelező tartalmi elemeiről rendelkező rendeletben meghatározott magasabb kockázatra vonatkozó ügyfélkockázati vagy földrajzi kockázati tényező merül fel.
 
-19. § Ahol e törvény a személyazonosítást vagy a lakcím igazolását írja elő, ott az adatszolgáltatás és az adatok igazoló ellenőrzése a digitális állampolgárság szolgáltató által digitálisan kiállított hiteles igazolás alapján is elvégezhető.
+19. § Ahol e törvény a 7. § (2) bekezdés a) pontjában meghatározott adatok igazolását írja elő, ott az adatszolgáltatás és az adatok igazoló ellenőrzése a digitális állampolgárság szolgáltató által szolgáltatott adat alapján vagy digitálisan kiállított hiteles igazolás alapján is elvégezhető.
 
 #### 20. §
 

@@ -3006,6 +3006,10 @@ időtartamát.
 
 (5) A kormánytisztviselő megállapított illetménye teljesítményértékelés alapján módosítható. Az illetmény teljesítményértékelés nélkül is módosítható, ha azt a kormánytisztviselő által betöltött álláshely besorolási kategóriájának módosulása teszi szükségessé.
 
+(6) Az illetmény – az (5) bekezdésben foglaltakon túl – teljesítményértékelés nélkül megemelhető akkor is, ha a kormánytisztviselő 156. § szerinti szülési szabadsága, illetve 131. § vagy 157. § szerinti fizetés nélküli szabadsága ideje alatt a kormánytisztviselő álláshelye szerinti kormányzati igazgatási szervnél foglalkoztatottak legalább 70 százalékát érintő illetményemelésre került sor.
+
+(7) A (6) bekezdés szerinti illetményemelésre a 156. § szerinti szülési szabadság, illetve a 131. § és a 157. § szerinti fizetés nélküli szabadság megszűnését követő két hónapon belül kerülhet sor, azzal, hogy az illetményemelést visszamenőlegesen legfeljebb a 156. § szerinti szülési szabadság, illetve a 131. § és a 157. § szerinti fizetés nélküli szabadság megszűnésének időpontjától lehet alkalmazni.
+
 #### 135. § [Díjazás munkavégzés hiányában]
 
 (1) A kormánytisztviselőt, ha a kormányzati igazgatási szerv működési körében felmerült okból nem tud munkát végezni, az emiatt kiesett munkaidőre (állásidő) illetmény illeti meg.
@@ -4017,6 +4021,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 - g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 - h) közjegyzői szolgálata a politikai felsővezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
 - i) nemzetbiztonsági szolgálati jogviszonya a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerint szüneteljen.
+- j) önkéntes tartalékos szolgálati viszonyt létesítsen.
 
 (3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár, a miniszterelnök politikai igazgatója és a miniszterelnök nemzetbiztonsági főtanácsadója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.
 
@@ -4981,11 +4986,13 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 
 #### 256. § [A hivatalvezető összeférhetetlensége]
 
-(1) A hivatalvezető munkavégzésre irányuló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, vármegyei közgyűlés tagja, polgármester, vármegyei közgyűlés elnöke, főpolgármester, alpolgármester, vármegyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
+(1) A hivatalvezető munkavégzésre irányuló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, továbbá, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, vármegyei közgyűlés tagja, polgármester, vármegyei közgyűlés elnöke, főpolgármester, alpolgármester, vármegyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
 (2) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység tekintetében a 95. § (6)–(9) bekezdését alkalmazni kell.
 
 (3) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a hivatalvezető közjegyzői szolgálata a szakmai vezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
+
+(4) A hivatalvezető gazdasági társaságnál betöltött vezető tisztségviselői, vagy felügyelőbizottsági tagságára a 95. § (10) bekezdés b) pontját kell alkalmazni.
 
 #### 257. § [A hivatalvezető feletti munkáltatói jogkör gyakorlása]
 
@@ -5743,7 +5750,11 @@ azzal, hogy a jogutódlásra – az (5)–(12) bekezdésben foglaltak figyelembe
 
 #### 301. §
 
-#### 302. §
+#### 302. § [Átmeneti rendelkezés az egyes családügyi és családtámogatási vonatkozású törvények módosításáról szóló 2025. évi XXXIII. törvényhez]
+
+(1) Az egyes családügyi és családtámogatási vonatkozású törvények módosításáról szóló 2025. évi XXXIII. törvénnyel (a továbbiakban: Módtv9.) megállapított 134. § (6) és (7) bekezdését abban az esetben is alkalmazni kell, ha a kormánytisztviselő a Módtv9. hatálybalépése napján szülési szabadságon, illetve fizetés nélküli szabadságon van, vagy a szülési szabadság, illetve a fizetés nélküli szabadság megszűnésétől a Módtv9. hatálybalépéséig két hónap még nem telt el.
+
+(2) A Módtv9.-cel megállapított 182. § (2) bekezdés j) pontját a Módtv9. hatálybalépésekor fennálló önkéntes tartalékos szolgálati viszonyra is alkalmazni kell.
 
 #### 303. §
 

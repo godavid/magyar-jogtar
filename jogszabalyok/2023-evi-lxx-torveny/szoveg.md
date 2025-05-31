@@ -438,7 +438,7 @@ az állam működésének további egyszerűsítésével összefüggő rendelkez
 
 (8) A 8. §, a 9. § (2)–(4) bekezdése, a 10. §, a 11. §, a 17. §, a 18. §, a 26. §, az 55. §, a 69. § (1)–(3), (7) és (8) bekezdése, a 70. §, a 71. § a) és b) pontja, a 73. §, a 75. §, a 76. § a) pontja, a 86–88. §, a 95. §, a 96. §, a 100. § (2) és (3) bekezdése, a 101. § (2)–(6) és (10) bekezdése, a 102. § a) pontja, a 103. § a) és b) pontja, a 106. § (1)–(3), (7) és (8) bekezdése, a 107. § b) pontja, a 108. § a) és b) pontja, a 114. § (1) bekezdése, a 115. §, a 116. § a) pontja 2025. január 1-jén lép hatályba.
 
-(8a) Az 57. § és az 58. § 2026. január 1-jén lép hatályba.
+(8a) Az 57. § és az 58. § 2027. január 1-jén lép hatályba.
 
 (9) A 14. § (3) bekezdése és a 105. § az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet 88. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 

@@ -1768,6 +1768,16 @@ nem kell alkalmazni.
 - a) a határozatban megjelölt időponttól kezdve a díj meg nem fizetése előfizető esetében nem minősül az előfizetői szerződés megszegésének, szolgáltató esetén nem minősül a hálózati szerződés megszegésének, a díj az előfizetőtől, illetve a kötelezett szolgáltatótól sem jogvitás eljárásban, sem más módon nem követelhető, továbbá
 - b) a Hivatal elrendelheti a határozatában megjelölt időpontig terjedően az azonosító hívásáért felszámított díjak visszatérítését.
 
+91/B. § (1) A nyilvánosan elérhető telefonszolgáltatást nyújtó szolgáltató a hálózat és a szolgáltatás biztonságának növelése érdekében, az azonosító felhasználásával elkövetett egyes visszaélések elleni hatékony fellépés céljából, a hálózatába nemzetközi irányból érkező hívás irányítása – ideértve a végződtetést is – előtt az Elnök rendeletében meghatározott módon azonosítóval való visszaélés megelőzését szolgáló vizsgálatot végez. A hívást a szolgáltató abban az esetben irányíthatja tovább, ha az Elnök rendeletében foglalt feltételek megvalósultak.
+
+(2) Az (1) bekezdés szerinti kötelezettség teljesítése érdekében a nyilvánosan elérhető telefonszolgáltatást nyújtó szolgáltatók kötelesek a Hatósággal és egymással az Elnök rendeletében meghatározott módon együttműködni.
+
+(3) A (2) bekezdés szerint együttműködésre kötelezett szolgáltató az (1) bekezdés szerinti vizsgálat elvégzése, az ezzel kapcsolatos előfizetői panaszokkal és hibabejelentésekkel összefüggő feladatok ellátása céljából kezeli a 157. § (2) bekezdés a)–c) és e)–f) pontja szerinti adatok közül azokat, amelyek a visszaélés megelőzését szolgáló vizsgálatok elvégzéséhez, a panaszok és a hibabejelentések kezeléséhez feltétlenül szükségesek. Az adatok kezelésére az (1) bekezdés szerinti vizsgálat lefolytatása céljából a vizsgálathoz szükséges mértékben és ideig kerülhet sor.
+
+(4) A Hatóság ajánlást adhat ki a (2) bekezdés szerinti együttműködési kötelezettség teljesítésével, valamint az (1) bekezdés szerinti vizsgálattal összefüggő intézkedések részletes műszaki tartalmáról, amelyet a honlapján közzétesz.
+
+(5) Ha a szolgáltató az (1) és (2) bekezdés szerinti kötelezettségeinek nem tesz eleget, a Hivatal ideiglenes biztosítási intézkedésként megtilthatja a szolgáltató hálózatába nemzetközi irányból érkező hívások fogadását és irányítását.
+
 ### Együttműködés titkos információgyűjtés, leplezett eszközök alkalmazása érdekében, illetve különleges jogrendben és honvédelmi, valamint védelmi és biztonsági érdekből
 
 92. § (1) Az elektronikus hírközlési szolgáltató köteles együttműködni a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására törvényben feljogosított szervezetekkel. Az elektronikus hírközlési szolgáltató az elektronikus hírközlési tevékenységét olyan módon köteles folytatni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtést, illetve a leplezett eszközök alkalmazását.
@@ -2620,7 +2630,7 @@ szolgáltatás tartalma
 
 (1c) Az előzetes tájékoztatás és az előfizetői szerződés adatainak összefoglalója az előfizető rendelkezésére bocsátott tartalommal válik az előfizetői szerződés részévé, kivéve, ha a felek a szerződés megkötésekor egyező akarattal eltérnek azok tartalmától.
 
-(2) A szolgáltató az előfizető személyazonosságának igazoló ellenőrzése érdekében az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően, illetve a (2b) bekezdés szerinti adategyeztetés érdekében köteles az egyéni előfizetőnek, valamint üzleti előfizető esetén a szerződést aláíró személynek a személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizni.
+(2) A szolgáltató az előfizető személyazonosságának igazoló ellenőrzése érdekében az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően és a (2b) bekezdés szerinti adategyeztetés érdekében köteles az egyéni előfizetőnek, valamint üzleti előfizető esetén a szerződést aláíró személynek a személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizni.
 
 (2a) A (2) bekezdésben meghatározott, az előfizető személyazonosságának sikeres ellenőrzésének hiányában az előfizetői szerződés nem köthető meg, valamint a szolgáltató a szolgáltatás nyújtását nem kezdheti meg.
 
@@ -3224,7 +3234,7 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
 (11) Ha a hálózat egységességét és a szolgáltatás biztonságát érintő vagy veszélyeztető esemény következtében korábban nem ismert, új biztonsági kockázat jelentkezik, a szolgáltató legalább ügyfélszolgálatán és internetes honlapján haladéktalanul tájékoztatja a felhasználókat a korábban nem ismert, új biztonsági kockázatról, a védelem érdekében a felhasználó által tehető intézkedésekről, és azok várható költségeiről. A szolgáltató által nyújtott tájékoztatásért külön díj nem kérhető a felhasználótól. A szolgáltató által nyújtott tájékoztatás nem mentesíti a szolgáltatót a védelem érdekében teendő, a hálózat egységességével és a szolgáltatás megszokott biztonsági szintjének visszaállítása érdekében szükséges intézkedések megtétele alól.
 
-(12) A szolgáltató a személyes adatok védelmével, a szolgáltatás nyújtása során továbbított közlések bizalmasságával, valamint a hálózat és a szolgáltatás biztonságával kapcsolatos, e törvényben meghatározott kötelezettségein túlmenően, a kiberbiztonsági incidens kezelése érdekében vagy kiberbiztonsági incidens jelentős kockázatának fennállása esetén a megelőzés érdekében szükséges műszaki és szervezési intézkedések szempontjait, a megteendő intézkedések határidejét, a személyes adatok kezelésének részletes szabályait, a szolgáltatás nyújtása során továbbított közlések és küldemények bizalmasságának védelmére vonatkozó különleges feltételeket, valamint az azonosítókijelzés és hívásátirányítás feltételeit az Elnök rendeletben állapítja meg.
+(12) A szolgáltató a személyes adatok védelmével, a szolgáltatás nyújtása során továbbított közlések bizalmasságával, valamint a hálózat és a szolgáltatás biztonságával kapcsolatos, e törvényben meghatározott kötelezettségein túlmenően, a biztonsági esemény kezelése érdekében vagy biztonsági esemény jelentős kockázatának fennállása esetén a megelőzés érdekében szükséges műszaki és szervezési intézkedések szempontjait, az azonosítóval való visszaélés megelőzését szolgáló vizsgálatok részletes szabályait, a megteendő intézkedések határidejét, a személyes adatok kezelésének részletes szabályait, a szolgáltatás nyújtása során továbbított közlések és küldemények bizalmasságának védelmére vonatkozó különleges feltételeket, az azonosítókijelzés és hívásátirányítás, a hívás irányításának, ideértve a hívásvégződtetés megtagadásának feltételeit, továbbá a szolgáltatók hálózatbiztonsággal összefüggő és az azonosítóval való visszaélés megelőzését szolgáló együttműködésére vonatkozó részletes szabályokat az Elnök rendeletben állapítja meg.
 
 (13) Amennyiben valamely értéknövelt szolgáltatás nyújtásához a forgalmi adatokon kívüli helymeghatározási adatok szükségesek, a szolgáltató köteles a felhasználót, és előfizetőt tájékoztatni ezen adatok típusáról, az adatfeldolgozás céljáról, időtartamáról, továbbá arról, hogy az adatokat szükséges-e harmadik fél számára továbbítani.
 
@@ -3574,6 +3584,8 @@ esetében.
 
 (4) A Módtv3. által megállapított 149/F. § (1) és (2) bekezdését a (2) bekezdés szerinti időpontokat megelőzően megkötött előfizetői szerződésekre is alkalmazni kell azzal, hogy a (2) bekezdésben meghatározott időpontokat követő egy éven belül az érintett szolgáltató köteles legalább harminc napos határidő biztosításával ingyenesen felajánlani az egyéni előfizető számára a 149/F. §-ban meghatározottak szerinti kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás igénybevételének lehetőségét.
 
+163/R. § E törvénynek az online csalások elleni további hatékony fellépés érdekében szükséges és egyéb törvények módosításáról szóló 2024. évi LXIV. törvénnyel megállapított 91/B. §-át a nemzeti számozási tervben meghatározott földrajzi és a rövid számokat hívóazonosítóként használó hívások tekintetében 2025. október 15-től, a mobilszámokat hívóazonosítóként használó hívások tekintetében 2026. június 1-jétől kell alkalmazni.
+
 ### Hatálybalépés
 
 164. § (1) E törvény – a (2)–(3) bekezdésben meghatározott rendelkezések kivételével – 2004. január 1-jén lép hatályba.
@@ -3801,6 +3813,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - j) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelvnek, valamint
 - k) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról szóló, 2007. május 16-i 2007/344/EK bizottsági határozatnak
 - l) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek
+- m) az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

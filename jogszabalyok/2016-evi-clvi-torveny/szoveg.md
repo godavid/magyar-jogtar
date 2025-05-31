@@ -156,7 +156,7 @@ járhat el építtetőként.
 
 #### 6/A. Nemzeti Turisztikai Adatszolgáltató Központ
 
-9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, valamint hivatalos statisztikai adatok előállításának segítése céljából informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
+9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, hivatalos statisztikai adatok előállításának segítése, valamint gazdasági és pénzügyi stabilitás elősegítése érdekében a turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön igénybevételéhez és nyújtásához szükséges adatokat biztosító informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
 
 9/B. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ
 
@@ -302,6 +302,7 @@ továbbítsa.
 - k) Nemzeti Turisztikai Adatszolgáltató Központban adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;
 - l) turisztikai attrakció üzemeltetőjének a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos regisztrációs és adatszolgáltatási kötelezettségei ellenőrzésére jogosult szervet, a kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 - m) turisztikailag kiemelt jelentőségű településeket
+- n) turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön Nemzeti Turisztikai Adatszolgáltató Központ közreműködésével történő nyújtásának és igénybevételének részletes szabályait
 
 rendeletben határozza meg.
 

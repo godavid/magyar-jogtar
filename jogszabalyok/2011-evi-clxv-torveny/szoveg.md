@@ -142,6 +142,8 @@ közigazgatási területére terjed ki.
 - f) elfogadja a területi polgárőr szövetség éves költségvetését, valamint a költségvetés végrehajtásáról szóló beszámolót, valamint
 - g) elbírálja a működési támogatásra vonatkozó kérelmet.
 
+(7) Területi polgárőr szövetség vezető tisztségviselője az annak tagegyesületében tagsággal és polgárőr igazolvánnyal rendelkező természetes személy lehet.
+
 #### 4. Az Országos Polgárőr Szövetség
 
 8. § (1) Az Országos Polgárőr Szövetség az önkormányzás elvén alapuló közhasznú jogállású köztestület. Az Országos Polgárőr Szövetség névhasználatára kizárólag az e törvény által létrehozott köztestület jogosult.
@@ -180,6 +182,8 @@ közigazgatási területére terjed ki.
 (7) Az Országos Polgárőr Szövetség gazdálkodását az ellenőrző testület mellett a küldöttgyűlés által választott könyvvizsgáló is ellenőrzi. Az ellenőrző testület, valamint a könyvvizsgáló írásbeli jelentése hiányában a küldöttgyűlés a számvitelről szóló törvény szerinti beszámolóról nem dönthet.
 
 (8) Az Országos Polgárőr Szövetség működésének részletes szabályait e törvény, valamint az egyéb jogszabályok rendelkezéseinek figyelembevételével a küldöttgyűlés által elfogadott alapszabály határozza meg.
+
+(9) Az Országos Polgárőr Szövetség vezető tisztségviselője az annak tagegyesületében tagsággal és polgárőr igazolvánnyal rendelkező természetes személy lehet.
 
 9. § (1) Az Országos Polgárőr Szövetség közigazgatási hatósági feladatként
 

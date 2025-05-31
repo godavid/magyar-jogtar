@@ -17,10 +17,12 @@ Magyarország kiberbiztonságáról
 1. § (1) E törvénynek a szervezetek kötelezettségeire és a kiberbiztonsági hatósági felügyeletre vonatkozó rendelkezéseit kell alkalmazni
 
 - a) az 1. mellékletben felsorolt, a közigazgatási ágazathoz tartozó szervezetekre,
-- b) a többségi állami befolyás alatt álló azon gazdálkodó szervezetekre, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint meghaladják a középvállalkozásokra vonatkozó küszöbértékeket,
+- b) a többségi állami befolyás alatt álló azon gazdálkodó szervezetekre, amelyek nem tartoznak az a) pont hatálya alá és amelyek vonatkozásában legalább az egyik feltétel teljesül az alábbiak közül:
+  - ba) összes foglalkoztatotti létszáma eléri vagy meghaladja az 50 főt, vagy
+  - bb) éves nettó árbevétele és mérlegfőösszege meghaladja a 10 millió eurónak megfelelő forintösszeget,
 - c) a 23. § (1) bekezdés a) pontja szerinti nemzeti kiberbiztonsági hatóság (a továbbiakban: nemzeti kiberbiztonsági hatóság), vagy a 23. § (2) bekezdése szerinti honvédelmi kiberbiztonsági hatóság (a továbbiakban: honvédelmi kiberbiztonsági hatóság) által a (6) bekezdés szerint alapvető vagy fontos szervezetként azonosított, az a), b) és d)–f) pont, valamint az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó szervezetekre,
-- d) a 2. és 3. melléklet szerinti szervezetekre, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint középvállalkozásoknak minősülnek vagy meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket,
-- e) méretüktől függetlenül a 2. és 3. melléklet szerinti szervezetekre, ha a szervezet
+- d) azokra a 2. és 3. melléklet szerinti szervezetekre, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint középvállalkozásoknak minősülnek vagy meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket, és nem tartoznak az a) pont hatálya alá,
+- e) méretüktől függetlenül, az a) pont hatálya alá nem tartozó, a 2. és 3. melléklet szerinti szervezetekre, ha a szervezet
   - ea) elektronikus hírközlési szolgáltató,
   - eb) bizalmi szolgáltató,
   - ec) DNS-szolgáltató,
@@ -30,17 +32,20 @@ Magyarország kiberbiztonságáról
 
 (2) A kritikus szervezetek ellenálló képességéről szóló törvény (a továbbiakban: Kszetv.) alapján kijelölt kritikus szervezetek és kritikus infrastruktúrák (a továbbiakban együtt: kritikus szervezet), valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény (a továbbiakban: Vbö.) alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezetek és infrastruktúrák (a továbbiakban együtt: az ország védelme és biztonsága szempontjából jelentős szervezet) vonatkozásában a szervezetnek az (1) bekezdés szerinti minősülése az irányadó e törvény rendelkezéseinek az alkalmazása során, kivéve, ha a kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá tartozik.
 
+(2a) E törvénynek – a 9. § és a 13–15. § kivételével – az 1. § (1) bekezdés a) pontja szerinti szervezetekre irányadó rendelkezéseit kell alkalmazni arra a kritikus szervezetre vagy az ország védelme és biztonsága szempontjából jelentős szervezetre, amely nem minősül az (1) bekezdés szerinti szervezetnek.
+
 (3) A szervezetek – az általuk nyújtott szolgáltatásnak az állam, a társadalom, a gazdaság működése szempontjából való kritikussága, valamint bizonyos esetekben a szervezet mérete alapján – alapvető vagy fontos szervezeteknek minősülnek.
 
 (4) Az (1) bekezdés szerinti szervezetek közül alapvető szervezetnek minősülnek az alábbi szervezetek:
 
 - a) az 1. melléklet szerinti szervezetek, kivéve a 20 000 főt meg nem haladó lakosságszámú települések képviselő-testületének hivatalai,
-- b) a többségi állami befolyás alatt álló gazdálkodó szervezetek, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket,
+- b) az (1) bekezdés b) pontja szerinti szervezetek,
 - c) azon szervezetek, amelyeket a nemzeti kiberbiztonsági hatóság vagy a honvédelmi kiberbiztonsági hatóság alapvető szervezetként azonosított,
 - d) a Kszetv. alapján kijelölt kritikus szervezetek,
 - e) a Vbö. alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezetek,
 - f) a 2. melléklet szerinti azon szervezetek, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint középvállalkozásnak minősülnek vagy meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket, valamint
 - g) a minősített bizalmi szolgáltatók és a legfelső szintű doménnév-nyilvántartók, valamint a DNS-szolgáltatók, méretüktől függetlenül.
+- h) a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok.
 
 (5) Az (1) bekezdés szerinti szervezetek közül fontos szervezetnek minősülnek és a szervezetekre vonatkozó rendelkezéseket az e törvényben foglalt eltérésekkel kell alkalmazni az alábbi szervezetekre:
 
@@ -80,7 +85,7 @@ Magyarország kiberbiztonságáról
 
 (9) E törvény sérülékenységvizsgálatra vonatkozó rendelkezéseit kell alkalmazni:
 
-- a) az (1) bekezdés a)–c) pontja szerinti szervezetek elektronikus információs rendszereit, valamint
+- a) az (1) bekezdés a)–c) és f) pontja szerinti szervezetek elektronikus információs rendszereit, valamint
 - b) a megállapodásban foglalt eltérésekkel a 61. § szerinti megállapodásban meghatározott elektronikus információs rendszereket
 
 érintő sérülékenységvizsgálatokra.
@@ -98,7 +103,7 @@ elektronikus információs rendszereit érintő kiberbiztonsági incidensek keze
 
 - a) a Magyarország területén letelepedett vagy letelepedett képviselővel rendelkező 1. § szerinti szervezetekre,
 - b) a Magyarország területén szolgáltatást nyújtó elektronikus hírközlési szolgáltatókra,
-- c) azokra a DNS-szolgáltatókra, legfelső szintű doménnév-nyilvántartókra, doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetekre, felhőszolgáltatókra, adatközpont-szolgáltatókra, tartalomszolgáltató hálózati szolgáltatókra, irányított szolgáltatókra, irányított biztonsági szolgáltatókra, az online piacterek, online keresőprogramok és közösségimédia-szolgáltatási platformok szolgáltatóira, amelyek üzleti tevékenységének fő helye Magyarország területén található.
+- c) azokra a DNS-szolgáltatókra, legfelső szintű doménnév-nyilvántartókra, doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetekre, felhőszolgáltatókra, adatközpont-szolgáltatókra, tartalomszolgáltató hálózati szolgáltatókra, kihelyezett (irányított) infokommunikációs szolgáltatást nyújtó szolgáltatókra, kihelyezett (irányított) infokommunikációs biztonsági szolgáltatást nyújtó szolgáltatókra, az online piacterek, online keresőprogramok és közösségimédia-szolgáltatási platformok szolgáltatóira, amelyek üzleti tevékenységének fő helye Magyarország területén található.
 
 (2) Az (1) bekezdés c) pontja szerinti szervezet üzleti tevékenységének fő helye abban az esetben van Magyarországon, ha
 
@@ -163,7 +168,7 @@ elektronikus információs rendszereit érintő kiberbiztonsági incidensek keze
 - 34. honvédelmi célú elektronikus információs rendszer:
   - a) a honvédelmi szervezetek, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő többcélú szakképző intézmény, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságok, valamint jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok elektronikus információs rendszereinek összessége, amely ágazatspecifikus módon támogatja a honvédelmi ágazaton belüli és ágazatok közötti működést,
   - b) az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet és infrastruktúra elektronikus információs rendszerei,
-  - c) az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett honvédelmi szervezet és honvédelmi infrastruktúra elektronikus információs rendszerei, valamint
+  - c) az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet és infrastruktúra elektronikus információs rendszerei, valamint
   - d) a honvédelmi kiberbiztonsági hatóság által alapvető vagy fontos szervezetként azonosított szervezet elektronikus információs rendszere;
 - 35. honvédelmi kiberbiztonsági incidenskezelő központ: a 63. § (2) bekezdése szerint kijelölt szerv;
 - 36. ideiglenes hozzáférhetetlenné tétel: az elektronikus adathoz való hozzáférés ideiglenes megakadályozása;
@@ -214,7 +219,7 @@ elektronikus információs rendszereit érintő kiberbiztonsági incidensek keze
 - 77. nemzeti kiberbiztonsági tanúsítási rendszer: IKT-termékek, IKT-szolgáltatások és IKT-folyamatok tanúsítására, megfelelőségértékelésére Magyarországon alkalmazandó, az európai kiberbiztonsági rendszerek elvei alapján kidolgozott és a tanúsító hatóság által meghatározott szabályok, műszaki követelmények, szabványok és eljárások átfogó rendszere;
 - 78. nemzeti kiberbiztonsági stratégia: a kiberbiztonság területén követendő stratégiai célokat és prioritásokat, valamint a megvalósításukhoz szükséges irányítási intézkedéseket meghatározó dokumentum;
 - 79. nemzeti kiberbiztonsági tanúsítvány: olyan független harmadik fél által kiállított dokumentum, amely igazolja, hogy egy adott IKT-termék, IKT-szolgáltatás vagy IKT-folyamat esetében értékelték, hogy az megfelel-e valamely nemzeti kiberbiztonsági tanúsítási rendszer biztonsági követelményeinek;
-- 80. nemzeti válságkezelési terv: az (EU) 2022/2555 európai parlamenti és tanácsi irányelv alapján a nagyszabású kiberbiztonsági események és válságok elhárítására szolgáló nemzeti terv, amely meghatározza a nagyszabású kiberbiztonsági események és válságok kezelésének célkitűzéseit és szabályait;
+- 80. nemzeti válságkezelési terv: az (EU) 2022/2555 európai parlamenti és tanácsi irányelv alapján a nagyszabású kiberbiztonsági incidensek és válságok elhárítására szolgáló nemzeti terv, amely meghatározza a nagyszabású kiberbiztonsági incidensek és válságok kezelésének célkitűzéseit és szabályait;
 - 81. online keresőprogram: az online közvetítő szolgáltatások üzleti felhasználói tekintetében alkalmazandó tisztességes és átlátható feltételek előmozdításáról szóló, 2019. június 20-i (EU) 2019/1150 európai parlamenti és tanácsi rendelet 2. cikk 5. pontjában meghatározott fogalom;
 - 82. online piactér: olyan szolgáltatás, amely a kereskedő által vagy a kereskedő nevében működtetett szoftvert, többek között weboldalt, valamely weboldal egy részét vagy valamely alkalmazást használ, és amelynek révén a fogyasztók távollevők közötti szerződést köthetnek más kereskedőkkel vagy fogyasztókkal;
 - 83. regisztrált felhasználói jogosultság: a biztonsági vizsgálatot végző személy számára a sérülékenységvizsgálat elvégzése érdekében célzottan létrehozott felhasználói jogosultság;
@@ -295,7 +300,7 @@ működésére.
 - 12. a szervezeten belül dönt az elektronikus információs rendszerek használatbavételéről vagy használatának folytatásáról és
 - 13. gondoskodik a kiberbiztonsági hatósági kötelezések teljesítéséről.
 
-(4) A (3) bekezdés 10. pontjában meghatározott feladatokat a szervezet vezetője legalább kétévente, a biztonsági osztályba sorolás felülvizsgálatával egyidejűleg hajtja végre.
+(4) A (3) bekezdés 10. pontjában meghatározott feladatokat a szervezet vezetője legalább kétévente, az információbiztonsági szabályzat felülvizsgálatával, illetve amennyiben annak végrehajtására kötelezett, a biztonsági osztályba sorolás felülvizsgálatával egyidejűleg hajtja végre.
 
 (5) A szervezet vezetője az elektronikus információs rendszer védelmének biztosítása érdekében
 
@@ -316,19 +321,19 @@ működésére.
 
 (8) Az (1)–(5) bekezdés szerinti egyes követelményeknek való megfelelés igazolására – ha rendelkezésre áll – európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termék, IKT-szolgáltatás vagy IKT-folyamat alkalmazható.
 
-(9) Az informatikáért felelős miniszter rendeletében – a honvédelmi célú elektronikus információs rendszerek tekintetében a honvédelmi miniszter rendeletében – meghatározott, 1. § (1) bekezdés a)–c) pontja szerinti szervezetek, valamint az SZTFH elnökének rendeletében meghatározott, 1. § (1) bekezdés d) és e) pontja szerinti szervezetek kötelesek az európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított – az informatikáért felelős miniszter, a honvédelmi miniszter vagy az SZTFH elnöke rendeletében meghatározott – IKT-terméket, IKT-szolgáltatást vagy IKT-folyamatot használni.
+(9) Az informatikáért felelős miniszter rendeletében – a honvédelmi célú elektronikus információs rendszerek tekintetében a honvédelmi miniszter rendeletében – meghatározott, 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezetek, valamint az SZTFH elnökének rendeletében meghatározott, 1. § (1) bekezdés d) és e) pontja szerinti szervezetek kötelesek az európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított – az informatikáért felelős miniszter, a honvédelmi miniszter vagy az SZTFH elnöke rendeletében meghatározott – IKT-terméket, IKT-szolgáltatást vagy IKT-folyamatot használni.
 
 (10) Az 1. § (1) bekezdés a) és c) pontja hatálya alá tartozó fontos szervezet, valamint a 2. és 3. melléklet szerinti szervezetnek nem minősülő, 1. § (1) bekezdés b) pontja hatálya alá tartozó szervezet rendelkezésében lévő elektronikus információs rendszerek vonatkozásában
 
 - a) nem szükséges a (2) bekezdésben foglalt teljes körű kockázatmenedzsment keretrendszert működtetni,
-- b) nem kell teljesíteni a (3) bekezdés 4–5., 9. pontjában és a (4) bekezdésben foglaltakat, valamint
+- b) nem kell teljesíteni a (3) bekezdés 4–5. és 9. pontjában foglaltakat, valamint
 - c) legalább az „alap” biztonsági osztályra irányadó követelményeket kell teljesíteni.
 
 (11) A honvédelmi célú elektronikus információs rendszer felett rendelkezési jogosultsággal bíró szervezet a honvédelmi célú elektronikus információs rendszer vonatkozásában a hatósági eljárásban a honvédelmi kiberbiztonsági hatóságot keresi meg, az e törvény által előírt bejelentési és egyéb kötelezettségeket a honvédelmi kiberbiztonsági hatóság felé teljesíti.
 
-(12) A hazai kiberbiztonsági gyakorlatok megtartásának részletszabályait, valamint az 1. § (1) bekezdés a)–c) pontja hatálya alá tartozó szervezetek kötelezettségeire vonatkozó részletes rendelkezéseket kormányrendelet határozza meg.
+(12) A hazai kiberbiztonsági gyakorlatok megtartásának részletszabályait, valamint az 1. § (1) bekezdés a)–c) és f) pontja hatálya alá tartozó szervezetek kötelezettségeire vonatkozó részletes rendelkezéseket kormányrendelet határozza meg.
 
-7. § (1) Az SZTFH kiberbiztonsági felügyeleti tevékenységéért az 1. § (1) bekezdés b) pontja szerinti azon szervezet, amely egyúttal a 2. és 3. melléklet szerinti szervezet is, valamint az 1. § (1) bekezdés d) és e) pontja szerinti szervezet – ha a szervezet a Polgári Törvénykönyvről szóló törvény szerinti elismert vállalatcsoport (a továbbiakban: elismert vállalatcsoport) ellenőrzött tagja, helyette az uralkodó tag – az SZTFH elnökének rendeletében – a (2) bekezdésben foglaltak alapján – meghatározott mértékű kiberbiztonsági felügyeleti díj fizetésére köteles.
+7. § (1) A kiberbiztonsági felügyeleti tevékenységért – a költségvetési szervek kivételével – az 1. § (1) bekezdés b) pontja szerinti azon szervezet, amely egyúttal a 2. és 3. melléklet szerinti szervezet is, valamint az 1. § (1) bekezdés d) és e) pontja szerinti szervezet – ha a szervezet a Polgári Törvénykönyvről szóló törvény szerinti elismert vállalatcsoport (a továbbiakban: elismert vállalatcsoport) ellenőrzött tagja, helyette az uralkodó tag – az SZTFH elnökének rendeletében – a (2) bekezdésben foglaltak alapján – meghatározott mértékű kiberbiztonsági felügyeleti díj fizetésére köteles.
 
 (2) Az éves kiberbiztonsági felügyeleti díj mértéke az (1) bekezdés szerinti szervezet előző üzleti évi nettó árbevételének – árbevétel hiányában a tárgyévi árbevétel egész évre vetített időarányos részének – legfeljebb 0,015 százaléka, de legfeljebb 10 millió forint. Az ugyanazon elismert vállalatcsoportban vagy az ugyanazon, a Polgári Törvénykönyvről szóló törvény szerinti tényleges vállalatcsoportban, vagy a számvitelről szóló törvény szerinti anyavállalatot, leányvállalatokat és a konszolidálásba bevont közös vezetésű vállalkozásokat tartalmazó, egy konszolidációs körbe tartozó vállalkozáscsoportban részt vevő szervezetek tekintetében a fizetendő éves kiberbiztonsági felügyeleti díj együttes mértéke nem haladhatja meg az 50 millió forintot. A tényleges vállalatcsoportként vagy az egy konszolidációs körbe tartozó vállalkozáscsoportként való működés tényét az (1) bekezdés szerinti szervezet az SZTFH elnökének rendeletében foglaltak szerint igazolja.
 
@@ -343,14 +348,14 @@ működésére.
 - a) gondoskodik a jogszabályban és a hatóság honlapján meghatározottak szerint az adatoknak, dokumentumoknak, valamint ezek változásainak, a változást követő tizenöt napon belül a kiberbiztonsági hatóság részére – nyilvántartásba vétel céljából – történő megküldéséről, valamint
 - b) biztosítja az ellenőrzés lefolytatásához szükséges feltételeket.
 
-(4) Az 1. § (1) bekezdés a)–c) pontja szerinti szervezet – az 51. alcímben foglalt kivételekkel – az e törvény hatálya alá kerülését követő
+(4) Az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet – az 51. alcímben foglalt kivételekkel – az e törvény hatálya alá kerülését követő
 
 - a) 30 napon belül bejelenti a nemzeti kiberbiztonsági hatóság részére a 28. § (1) bekezdés 1. pont a)–e) és j) alpontjában meghatározott adatokat,
 - b) 30 napon belül bejelenti a nemzeti kiberbiztonsági hatóság részére az elektronikus információs rendszer biztonságáért felelős személy adatait,
 - c) 90 napon belül a 6. § (3) bekezdés 1. pontjában foglaltaknak megfelelően felméri a szervezet által használt elektronikus információs rendszereket,
 - d) 120 napon belül – ha releváns – elvégzi a 9. § szerinti adatosztályozást,
 - e) 180 napon belül megküldi a nemzeti kiberbiztonsági hatóság részére a szervezet információbiztonsági szabályzatát,
-- f) 180 napon belül – a 6. § szerinti kockázatmenedzsment keretrendszer létrehozatalával együttesen – elvégzi a már meglévő elektronikus információs rendszereinek biztonsági osztályba sorolását és megteszi a Kormány rendeletében meghatározott tartalmú bejelentést a nemzeti kiberbiztonsági hatóságnak.
+- f) 180 napon belül a 6. § szerinti kockázatmenedzsment keretrendszer létrehozatalával együttesen – amennyiben annak végrehajtására kötelezett – elvégzi a már meglévő elektronikus információs rendszereinek biztonsági osztályba sorolását, valamint felméri az elektronikus információs rendszerekhez kapcsolódó védelmi intézkedéseket, azok megfelelőségét és státuszát, továbbá megteszi a Kormány rendeletében meghatározott tartalmú bejelentést a nemzeti kiberbiztonsági hatóságnak.
 
 (5) Az 1. § (1) bekezdés b) pontja hatálya alá tartozó, és egyidejűleg 2. és 3. melléklet szerinti szervezetnek minősülő szervezet, valamint az 1. § (1) bekezdés d) és e) pontja szerinti szervezet köteles a működése megkezdését követő vagy az e törvény hatálya alá kerülést követő 30 napon belül a 29. § (1) bekezdés a) pontjában meghatározott adatokat – a 29. § (1) bekezdés a) pont ab) alpontja szerinti adatok kivételével – megküldeni az SZTFH részére a nyilvántartásba vétel érdekében.
 
@@ -368,11 +373,11 @@ napja.
 
 9. § (1) Annak érdekében, hogy a szervezet által kezelt adatok védelme a kockázatokkal arányosan biztosítható legyen, az 1. § (1) bekezdés a) pontja szerinti szervezet köteles az általa az elektronikus információs rendszerben kezelt adatok bizalmasság, sértetlenség és rendelkezésre állás szerinti osztályozására kormányrendeletben foglaltak szerint.
 
-(2) Az 1. § (1) bekezdés b) és c) pontja szerinti szervezet az adatosztályozást nem privát felhőszolgáltatás igénybevétele és külföldi adatkezelés megvalósítása esetén köteles elvégezni, a külföldi vagy nem privát felhőszolgáltatás igénybevételével történő adatkezelés kockázatainak felmérése érdekében.
+(2) Az 1. § (1) bekezdés b) és c), a honvédelmi célú elektronikus információs rendszerei vonatkozásában az f) pontja szerinti szervezet az adatosztályozást nem privát felhőszolgáltatás igénybevétele és külföldi adatkezelés megvalósítása esetén köteles elvégezni, a külföldi vagy nem privát felhőszolgáltatás igénybevételével történő adatkezelés kockázatainak felmérése érdekében.
 
 (3) Az adatosztályozás során figyelembe kell venni a logikailag együtt, egységben kezelt elektronikus adatok – ideértve az adatbázist, adattárat, egyedi dokumentumot és egyéb adatállományt – együttes biztonsági igényét.
 
-(4) Az 1. § (1) bekezdés a)–c) pontja szerinti szervezet kizárólag az adatosztályozás alapján, annak eredményére figyelemmel vehet igénybe nem privát felhőszolgáltatást, vagy kezelhet külföldön adatot, amennyiben más jogszabály a felhőszolgáltatás igénybevételét, vagy a külföldi adatkezelést nem tiltja vagy korlátozza.
+(4) Az 1. § (1) bekezdés a)–c) és a honvédelmi célú elektronikus információs rendszerei vonatkozásában az f) pontja szerinti szervezet kizárólag az adatosztályozás alapján, annak eredményére figyelemmel vehet igénybe nem privát felhőszolgáltatást, vagy kezelhet külföldön adatot, amennyiben más jogszabály a felhőszolgáltatás igénybevételét, vagy a külföldi adatkezelést nem tiltja vagy korlátozza.
 
 (5) A szervezet a biztonsági osztályba sorolás keretében, valamint abban az esetben vizsgálja felül az adatosztályozást, amennyiben az elektronikus információs rendszerben kezelendő adatok körében változás következik be.
 
@@ -386,7 +391,7 @@ napja.
 
 (4) A szervezet az elektronikus információs rendszer biztonsági osztálya alapján meghatározza és megvalósítja az informatikáért felelős miniszter rendeletében előírt védelmi intézkedéseket az adott elektronikus információs rendszerre vonatkozóan.
 
-(5) Az 1. § (1) bekezdés a) pontja szerinti szervezet, valamint a 2. és 3. melléklet szerinti szervezetnek nem minősülő, 1. § (1) bekezdés b) pontja szerinti szervezet elektronikus információs rendszere vonatkozásában az e törvény hatálya alá kerüléskor teljesítenie kell legalább az informatikáért felelős miniszter rendeletében az „alap” biztonsági osztály vonatkozásában előírt védelmi intézkedéseket.
+(5) Az 1. § (1) bekezdés a) és a honvédelmi célú elektronikus információs rendszerei vonatkozásában az f) pontja szerinti szervezet, valamint a 2. és 3. melléklet szerinti szervezetnek nem minősülő, 1. § (1) bekezdés b) pontja szerinti szervezet elektronikus információs rendszere vonatkozásában az e törvény hatálya alá kerüléskor teljesítenie kell legalább az informatikáért felelős miniszter rendeletében az „alap” biztonsági osztály vonatkozásában előírt védelmi intézkedéseket.
 
 (6) Ha az (5) bekezdés szerinti elektronikus információs rendszer vonatkozásában a biztonsági osztályba sorolás alapján az „alap”-nál magasabb biztonsági osztály került meghatározásra, a védelem elvárt erősségének eléréséhez a szervezetnek a biztonsági osztályba sorolást követően legfeljebb két év áll rendelkezésére a biztonsági osztályhoz rendelt biztonsági intézkedések kivitelezésére.
 
@@ -396,12 +401,14 @@ napja.
 
 11. § (1) A szervezet vezetője az elektronikus információs rendszer védelméhez kapcsolódó feladatok ellátása, a kockázatmenedzsment keretrendszer működtetése, a kiberbiztonsági incidensek bejelentése és a kiberbiztonsági incidenskezelő központtal való kapcsolattartás érdekében a szervezeten belül kijelöli az elektronikus információs rendszer biztonságáért felelős személyt vagy a szervezeten kívüli személlyel megállapodást köt.
 
-(2) Az 1. § (1) bekezdés a)–c) pontja szerinti szervezetek esetében az (1) bekezdés szerinti megállapodás kötelező tartalmi elemeit kormányrendelet tartalmazza. Megállapodás megkötése esetén is meg kell jelölni azt a természetes személyt, aki az elektronikus információs rendszer biztonságáért felelős személy feladatait ellátja.
+(2) Az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezetek esetében az (1) bekezdés szerinti megállapodás kötelező tartalmi elemeit kormányrendelet tartalmazza. Megállapodás megkötése esetén is meg kell jelölni azt a természetes személyt, aki az elektronikus információs rendszer biztonságáért felelős személy feladatait ellátja.
 
 (3) Az elektronikus információs rendszer biztonságáért felelős személy feladatait csak olyan személy végezheti, aki
 
 - a) cselekvőképes, büntetlen előéletű és
-- b) az 1. § (1) bekezdés a)–c) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet esetében rendelkezik a feladatellátáshoz szükséges, az informatikáért felelős miniszter rendeletében előírt végzettséggel, szakképzettséggel, akkreditált nemzetközi képzettséggel vagy az informatikáért felelős miniszter rendeletében meghatározott szakterületen szerzett szakmai tapasztalattal.
+- b) az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet esetében rendelkezik a feladatellátáshoz szükséges, az informatikáért felelős miniszter rendeletében előírt végzettséggel, valamint rendelkezik
+  - ba) a 75. § (1) bekezdése szerinti nemzeti koordinációs központ által – az informatikáért felelős miniszter rendeletében foglaltak szerint – közzétett szakképzettséggel, akkreditált nemzetközi képzettséggel (a továbbiakban együtt: szakképzettség), vagy
+  - bb) az informatikáért felelős miniszter rendeletében meghatározott szakterületen szerzett szakmai tapasztalattal.
 
 (4) Elektronikus információs rendszer biztonságáért felelős személyként – az (5) bekezdésben foglalt kivétellel – nem jelölhető ki vagy bízható meg a szervezet gazdasági vezetői feladatait ellátó személy vagy az a személy, aki a szervezeten belül informatikai üzemeltetéssel, informatikai fejlesztéssel kapcsolatos munkakört lát el, illetve ilyen személy közvetlen alárendeltségébe tartozik.
 
@@ -415,11 +422,11 @@ napja.
 - a) valamennyi, az elektronikus információs rendszerek védelmét érintő döntés előkészítésében részt vegyen;
 - b) rendelkezésére álljanak az elektronikus információs rendszer védelmének biztosításához szükséges feltételek, jogosultságok, információk, humán- és anyagi erőforrások;
 - c) hozzáférjen mindazon rendszerekhez, adatokhoz és információkhoz, amelyek az általa ellátandó feladatok végrehajtásához szükségesek és
-- d) ha a szervezeten belül került kijelölésre, a szakmai ismereteinek fenntartásához szükséges, az informatikáért felelős miniszter rendeletében meghatározott képzéseken, továbbképzéseken részt vegyen.
+- d) ha a szervezeten belül került kijelölésre, a szakmai ismereteinek fenntartásához szükséges, az informatikáért felelős miniszter rendeletében meghatározott továbbképzéseken részt vegyen.
 
 (7) Az elektronikus információs rendszer biztonságáért felelős személyt feladata ellátásával kapcsolatosan tudomására jutott adatok és információk tekintetében titoktartási kötelezettség terheli. A titoktartási kötelezettség alól a szervezet vezetője adhat felmentést.
 
-(8) Az elektronikus információs rendszer biztonságáért felelős személy részt vesz az informatikáért felelős miniszter rendeletében meghatározott szakmai képzésen, továbbképzésen.
+(8) Az elektronikus információs rendszer biztonságáért felelős személy részt vesz az informatikáért felelős miniszter rendeletében meghatározott továbbképzésen.
 
 (9) Az elektronikus információs rendszer biztonságáért felelős személy jogosult a szervezet elektronikus információbiztonsági kötelezettségeinek, feladatainak teljesítésében közreműködőktől a biztonsági követelmények teljesülésével kapcsolatban tájékoztatást kérni. Ennek keretében jogosult megismerni a követelményeknek való megfelelőség alátámasztásához szükséges közreműködői tevékenységgel kapcsolatos adatot, valamint az elektronikus információs rendszerek biztonsága tárgyában keletkezett valamennyi dokumentumot.
 
@@ -427,7 +434,7 @@ napja.
 
 (11) Ha a szervezet elektronikus információs rendszereinek száma, mérete vagy biztonsági igényei indokolják, a szervezeten belül elektronikus információbiztonsági szervezeti egység hozható létre, amelyet az elektronikus információs rendszer biztonságáért felelős személy vezet.
 
-(12) Az 1. § (1) bekezdés a)–c) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet esetében az elektronikus információs rendszer biztonságáért felelős személy feladat- és hatáskörére vonatkozó részletes szabályokat kormányrendelet határozza meg.
+(12) Az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet esetében az elektronikus információs rendszer biztonságáért felelős személy feladat- és hatáskörére vonatkozó részletes szabályokat kormányrendelet határozza meg.
 
 (13) A nemzeti kiberbiztonsági hatóság nyilvántartást vezet az elektronikus információs rendszer biztonságáért felelős személy feladatainak ellátására alkalmas személyekről.
 
@@ -435,13 +442,13 @@ napja.
 
 (15) Az elektronikus információs rendszer biztonságáért felelős személyek nyilvántartásába kerülés, illetve az onnan való törlés rendjét kormányrendelet határozza meg.
 
-(16) A nemzeti kiberbiztonsági hatóság hatósági ellenőrzés keretében vizsgálja, hogy az elektronikus információs rendszer biztonságáért felelős személy megfelel-e a (3) bekezdés a) pontjában meghatározott büntetlen előéletre irányuló követelménynek. Ennek megállapítása érdekében adatot igényelhet a bűnügyi nyilvántartási rendszerből.
+(16) A nemzeti kiberbiztonsági hatóság vizsgálhatja, hogy az elektronikus információs rendszer biztonságáért felelős személy megfelel-e a (3) bekezdés a) pontjában meghatározott büntetlen előéletre irányuló követelménynek. Ennek megállapítása érdekében adatot igényelhet a bűnügyi nyilvántartási rendszerből.
 
 #### 8. Az elektronikus információs rendszerek biztonságával kapcsolatos oktatás és képzés
 
 12. § (1) A kiberbiztonsággal kapcsolatos képzést folytató felsőoktatási intézmény a képzési tevékenység ellátásával összefüggésben
 
-- a) gondoskodik az elektronikus információs rendszer biztonságáért felelős személyek képzéséről, továbbá
+- a)
 - b) közreműködhet az információbiztonsági, kibervédelmi, valamint a kritikus szervezetek vonatkozásában a komplex ellenálló képességi gyakorlatokon.
 
 (2) A kiberbiztonsággal kapcsolatos képzést folytató szervezet
@@ -456,7 +463,7 @@ szervezhet.
 13. § (1) Új elektronikus információs rendszerek fejlesztése, vagy már meglévő elektronikus információs rendszerek továbbfejlesztése (a továbbiakban együtt: fejlesztés) vonatkozásában jelen alcím rendelkezéseit kell alkalmazni az alábbi, alapvető szervezetnek minősülő szervezetek esetében
 
 - a) az 1. § (1) bekezdés a) és c) pontja szerinti szervezet, valamint
-- b) a 2. és 3. melléklet szerinti szervezetnek nem minősülő, az 1. § (1) bekezdés b) pontja szerinti szervezet.
+- b) az 1. § (1) bekezdés b) pontja szerinti és egyben a 2. és 3. melléklet szerinti szervezetnek minősülő szervezet.
 
 (2) Elektronikus információs rendszer fejlesztése esetén a szervezet az információbiztonsági követelmények teljesülésének biztosítása és az elektronikus információs rendszer működésének nemzeti kiberbiztonsági hatóság általi jóváhagyása érdekében a kormányrendeletben meghatározottak szerint jár el.
 
@@ -481,10 +488,14 @@ szervezhet.
 
 (11) Központi rendszer fejlesztése esetén – az (1)–(10) bekezdésben foglaltakon túlmenően – az elektronikus információs rendszer felett rendelkezési jogosultsággal bíró szervezet köteles első alkalommal a tervezés fázisában és azt követően minden mérföldkő elérésekor tájékoztatni a nemzeti kiberbiztonsági hatóságot a központi rendszer biztonságát érintő kérdések vonatkozásában.
 
-14. § (1) A 13. §-ban foglaltaktól eltérően, ha az elektronikus információs rendszer fejlesztése
+13/A. § A jelen alcím rendelkezéseit az 1. § (1) bekezdés f) pontja szerinti szervezet honvédelmi célú elektronikus információs rendszerei fejlesztésére is alkalmazni kell.
 
-- a) az 1. § (1) bekezdés b) pontja szerinti és egyben a 2. vagy 3. melléklet szerinti szervezetnek minősülő alapvető szervezet által történik, az alapvető szervezet köteles biztonsági osztályba sorolni az elektronikus információs rendszert és az annak megfelelő védelmi követelményeket kell teljesíteni,
-- b) fontos szervezet által történik, a fejlesztés során legalább az „alap” biztonsági osztálynak megfelelő védelmi követelményeket kell teljesíteni.
+14. § (1) Ha az elektronikus információs rendszer fejlesztése
+
+- a) a 2. vagy 3. melléklet szerinti szervezetnek nem minősülő, az 1. § (1) bekezdés b) pontja szerinti alapvető szervezet vagy
+- b) az 1. § (1) bekezdés a) és c) pontja szerinti fontos szervezet által történik,
+
+a 13. §-ban foglaltak helyett e § rendelkezései az irányadóak.
 
 (2) Az (1) bekezdés szerinti szervezet intézkedik a védelmi követelmények megvalósulása iránt a fejlesztést végző szervezet felé.
 
@@ -516,7 +527,7 @@ szervezhet.
 
 (4) Ha az (1) bekezdés szerinti szervezet honvédelmi célú elektronikus információs rendszer felett is rendelkezési jogosultsággal bír, a szervezet vezetője felelős a (3) bekezdésben foglalt rendelkezések teljesüléséért.
 
-(5) A honvédelmi kiberbiztonsági hatóság a jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok és az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett honvédelmi szervezet és honvédelmi infrastruktúra elektronikus információs rendszere esetében a honvédelmi célú elektronikus információs rendszerként történő nyilvántartásba vételről tájékoztatja az SZTFH-t.
+(5) A honvédelmi kiberbiztonsági hatóság a jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok és az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet és honvédelmi infrastruktúra elektronikus információs rendszere esetében a honvédelmi célú elektronikus információs rendszerként történő nyilvántartásba vételről tájékoztatja az SZTFH-t.
 
 #### 11. A támogató rendszerekre vonatkozó speciális rendelkezések
 
@@ -549,7 +560,7 @@ szervezhet.
 - b) a központi rendszer felett rendelkezési jogot gyakorló szervezet által meghatározott elektronikus információbiztonsági követelményeket teljesíti, ezeket rögzíti az információbiztonsági szabályzatában és
 - c) a központi rendszert érintő kiberbiztonsági incidenseket bejelenti az illetékes kiberbiztonsági incidenskezelő központ és a központi rendszer felett rendelkezési jogot gyakorló szervezet részére.
 
-(3) Jogszabály alapján kötelezően igénybe vett felett rendelkezési jogot gyakorló szervezet esetén a központi rendszer szolgáltatója és a felhasználó szervezet közötti feladat- és felelősségmegosztást az adott központi rendszerre vonatkozó jogszabály rögzíti. Ennek hiányában, valamint önkéntesen igénybe vett központi rendszer esetében a központi rendszer felett rendelkezési jogot gyakorló szervezet és a felhasználó szervezet szolgáltatási szerződést köt.
+(3) Jogszabály alapján kötelezően igénybe vett központi rendszer felett rendelkezési jogot gyakorló szervezet esetén a központi rendszer szolgáltatója és a felhasználó szervezet közötti feladat- és felelősségmegosztást az adott központi rendszerre vonatkozó jogszabály rögzíti. Ennek hiányában, valamint önkéntesen igénybe vett központi rendszer esetében a központi rendszer felett rendelkezési jogot gyakorló szervezet és a felhasználó szervezet szolgáltatási szerződést köt.
 
 (4) A központi rendszerekről a nemzeti kiberbiztonsági hatóság nyilvántartást vezet.
 
@@ -715,7 +726,7 @@ látja el.
 - a) az (1) bekezdés 4., 5., 7., 8. és 11–15. pontjában, valamint a (3) és (4) bekezdésben, továbbá az SZTFH elnökének rendeletében foglaltak szerint jár el,
 - b) elrendelhet és ellenőrizhet minden olyan, az elektronikus információs rendszerek védelmére vonatkozó intézkedést, amellyel az érintett elektronikus információs rendszert veszélyeztető fenyegetések kezelhetőek,
 - c) nyilvántartja a 29. § (1) bekezdése szerinti adatokat,
-- d) jelentős biztonsági esemény bekövetkezése vagy a biztonsági követelményeknek való nem megfelelés gyanúja esetén rendkívüli ellenőrzést hajthat végre vagy rendkívüli auditot rendelhet el,
+- d) jelentős kiberbiztonsági incidens bekövetkezése vagy a biztonsági követelményeknek való nem megfelelés gyanúja esetén rendkívüli ellenőrzést hajthat végre vagy rendkívüli auditot rendelhet el,
 - e) a cél megjelölésével jogosult a szervezettől bekérni és megismerni:
   - ea) a biztonsági osztályba sorolás, valamint a biztonsági intézkedések megfelelőségét alátámasztó dokumentumokat,
   - eb) a belső informatikai biztonsági vizsgálat végrehajtásáról készült dokumentumot, és
@@ -730,7 +741,7 @@ látja el.
 
 (8) A kiberbiztonsági hatóság jogszabályban meghatározott feladatai ellátása érdekében jogosult kockázatelemzés alapján rangsorolni a felügyeleti feladatok végrehajtását.
 
-(9) Az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti élelmiszerlánc-felügyeleti szerv minden év február 1. napjáig tájékoztatja az SZTFH-t – a 23. § (1) bekezdés b) pontja szerinti kiberbiztonsági felügyelettel kapcsolatos feladatok ellátása céljából – a 3. mellékletben foglalt táblázat 3. sora szerinti szervezetek megnevezéséről és székhelyéről.
+(9) A Kormány rendeletében meghatározott élelmiszerlánc-felügyeleti szervek minden év február 1. napjáig tájékoztatják az SZTFH-t – a 23. § (1) bekezdés b) pontja szerinti kiberbiztonsági felügyelettel kapcsolatos feladatok ellátása céljából – a 3. mellékletben foglalt táblázat 3. sora szerinti szervezetek megnevezéséről, székhelyéről és adószámáról.
 
 #### 18. A hatósági eljárás általános szabályai
 
@@ -840,7 +851,7 @@ részére végezhető.
 
 (2) Az SZTFH összeállítja az 1. § (1) bekezdés d) és e) pontja hatálya alá tartozó alapvető és fontos szervezetek, valamint a doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetek jegyzékét, és azt kétévente felülvizsgálja. A jegyzék összeállítását és felülvizsgálatát követően az SZTFH tájékoztatja a nemzeti kiberbiztonsági hatóságot a kormányrendeletben meghatározott adatokról.
 
-(3) Az (1) bekezdés szerinti nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a kiberbiztonsági hatóságok, valamint a kiberbiztonsági incidenskezelő központok részére végezhető.
+(3) Az (1) bekezdés szerinti nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a kiberbiztonsági hatóságok, a kiberbiztonsági incidenskezelő központok, valamint a 24. § (9) bekezdése szerinti szervezetek részére végezhető.
 
 (4) Az SZTFH közvetlen hozzáférést biztosít a nemzeti kiberbiztonsági hatóság, valamint a nemzeti kiberbiztonsági incidenskezelő központ részére a szervezetnek az SZTFH által kezelt nyilvántartási adataihoz.
 
@@ -865,7 +876,7 @@ részére végezhető.
 
 - a) kötelezheti a szervezetet arra, hogy a jogszabálysértés tényét és körülményeit a kiberbiztonsági hatóság által meghatározott módon, az adatvédelmi és az üzleti titokra vonatkozó szabályokat figyelembe véve hozza nyilvánosságra,
 - b) elrendelheti a szervezet által nyújtott szolgáltatásokat igénybe vevők tájékoztatását az azokat potenciális érintő fenyegetésről, valamint az ilyen fenyegetés elhárításához szükséges vagy lehetséges megelőző, védelmi vagy helyreállítási intézkedésekről, azok várható hatásairól,
-- c) kiberbiztonsági incidens bekövetkezése esetén honlapján tájékoztathatja a nyilvánosságot, illetve a szervezeteket határozatban kötelezheti tájékoztatásra, ha az egy adott biztonsági esemény megelőzéséhez vagy egy már folyamatban lévő kiberbiztonsági incidens kezeléséhez szükséges és
+- c) kiberbiztonsági incidens bekövetkezése esetén honlapján tájékoztathatja a nyilvánosságot, illetve a szervezeteket határozatban kötelezheti tájékoztatásra, ha az egy adott kiberbiztonsági incidens megelőzéséhez vagy egy már folyamatban lévő kiberbiztonsági incidens kezeléséhez szükséges és
 - d) kötelezheti a szervezetet arra, hogy válságkezelési vagy veszélyhelyzet-kezelési intézkedés megtételének szükségessége esetén a kiberbiztonsági hatóságot tájékoztassa.
 
 (6) Ha a nem közigazgatási szervnek minősülő alapvető szervezet a kiberbiztonsági hatóság által szabott határidőn belül nem tesz eleget a hatósági kötelezésnek, a kiberbiztonsági hatóság
@@ -879,7 +890,7 @@ részére végezhető.
 
 (9) A kiberbiztonsági hatóság a jogkövetkezmények alkalmazása során az arányosság és a fokozatosság szempontjait figyelembe véve jár el, szem előtt tartva a jogkövetkezmény hatékonyságát és visszatartó erejét.
 
-(10) Ha a hatósági kötelezést az 1. § (1) bekezdés a)–c) pontja szerinti szervezet figyelmen kívül hagyja, vagy a nemzeti kiberbiztonsági hatóság által javasolt védelmi intézkedéseket önhibájából nem teljesíti és ezzel kiberbiztonsági incidens vagy kiberbiztonsági incidensközeli helyzet áll elő, a nemzeti kiberbiztonsági hatóság a szervezetet a kiberbiztonsági incidens vagy kiberbiztonsági incidensközeli helyzet bekövetkezésének elhárítására fordított költségének megtérítésére kötelezheti.
+(10) Ha a hatósági kötelezést az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet figyelmen kívül hagyja, vagy a nemzeti kiberbiztonsági hatóság által javasolt védelmi intézkedéseket önhibájából nem teljesíti és ezzel kiberbiztonsági incidens vagy kiberbiztonsági incidensközeli helyzet áll elő, a nemzeti kiberbiztonsági hatóság a szervezetet a kiberbiztonsági incidens vagy kiberbiztonsági incidensközeli helyzet bekövetkezésének elhárítására fordított költségének megtérítésére kötelezheti.
 
 (11) Ha az 1. § (1) bekezdés d) és e) pontja szerinti szervezet a jogszabályokban foglalt kiberbiztonsági követelményeket vagy az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, az SZTFH az (1)–(5) bekezdésben foglaltakon túl
 
@@ -890,7 +901,7 @@ részére végezhető.
 
 (2) Az 1. § (1) bekezdés
 
-- a) a)–c) pontja szerinti szervezetek esetében az információbiztonsági felügyelő személyével szembeni követelményeket, a kirendelésére, jogosítványaira, feladataira vonatkozó részletes szabályokat kormányrendelet, a végzettségére, képzettségére, szakképzettségére vagy szakmai tapasztalatára vonatkozó követelményeket az informatikáért felelős miniszter rendelete,
+- a) a)–c) pontja szerinti szervezetek esetében az információbiztonsági felügyelő személyével szembeni követelményeket, a kirendelésére, jogosítványaira, feladataira vonatkozó részletes szabályokat kormányrendelet, a végzettségére, továbbképzési kötelezettségére és szakmai gyakorlatára vonatkozó követelményeket, valamint a szakképzettségeknek a 75. § (1) bekezdése szerinti nemzeti koordinációs központ általi közzétételi rendjét az informatikáért felelős miniszter rendelete,
 - b) d) és e) pontja szerinti szervezetek esetében az információbiztonsági felügyelő személyével szembeni követelményeket, a kirendelésére, jogosítványaira, feladataira vonatkozó részletes szabályokat az SZTFH elnöke rendeletben
 
 határozza meg.
@@ -996,13 +1007,13 @@ határozza meg.
 
 (2) A megbízhatósági szint arra vonatkozóan szolgál biztosítékkal, hogy az adott IKT-termékek, IKT-szolgáltatások vagy IKT-folyamatok teljesítik a vonatkozó biztonsági követelményeket, biztonsági funkciókat és olyan szintű értékelésen estek át, amely
 
-- a) „alap” megbízhatósági szinten a biztonsági eseményekkel és támadásokkal kapcsolatos alapvető, ismert kockázatok,
-- b) „jelentős” megbízhatósági szinten az ismert kiberbiztonsági kockázatok, valamint a korlátozott szakértelemmel és erőforrásokkal rendelkező elkövetők által végrehajtott biztonsági események és kiberbiztonsági támadások kockázatának,
+- a) „alap” megbízhatósági szinten a kiberbiztonsági incidensekkel és támadásokkal kapcsolatos alapvető, ismert kockázatok,
+- b) „jelentős” megbízhatósági szinten az ismert kiberbiztonsági kockázatok, valamint a korlátozott szakértelemmel és erőforrásokkal rendelkező elkövetők által végrehajtott kiberbiztonsági incidensek és kiberbiztonsági támadások kockázatának,
 - c) „magas” megbízhatósági szinten a jelentős szakértelemmel és erőforrásokkal rendelkező elkövetők által, a tudomány legutolsó állása szerinti technológiával végrehajtott kibertámadások kockázatának
 
 minimalizálására törekszik.
 
-(3) A megbízhatósági szintnek a biztonsági események valószínűsége és hatása szempontjából arányban kell állnia az IKT-termék, az IKT-szolgáltatás vagy az IKT-folyamat rendeltetés szerinti használatához kapcsolódó kockázat szintjével.
+(3) A megbízhatósági szintnek a kiberbiztonsági incidensek valószínűsége és hatása szempontjából arányban kell állnia az IKT-termék, az IKT-szolgáltatás vagy az IKT-folyamat rendeltetés szerinti használatához kapcsolódó kockázat szintjével.
 
 (4) Az elvégzendő értékelési tevékenységeknek legalább a következőket kell magukban foglalniuk:
 
@@ -1053,12 +1064,12 @@ minimalizálására törekszik.
 44. § (1) Harmadik fél által végzett megfelelőségértékelési tevékenységet csak olyan szervezet végezhet,
 
 - a) amelyet a vonatkozó nemzeti vagy európai kiberbiztonsági tanúsítási rendszerben meghatározott követelményekre figyelemmel a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv akkreditált vagy külföldi akkreditált státusz esetén e státuszát elismerte,
-- b) amely az SZTFH elnökének – a 45. § (1) bekezdés b) pontja szerinti tanúsító hatóság tekintetében a Kormány – rendeletében az egyes megbízhatósági szintekre vonatkozóan meghatározott követelményeknek megfelel, és
+- b) amely – az európai tanúsítási rendszer kivételével – az SZTFH elnökének – a 45. § (1) bekezdés b) pontja szerinti tanúsító hatóság tekintetében a Kormány – rendeletében az egyes megbízhatósági szintekre vonatkozóan meghatározott követelményeknek megfelel, és
 - c) amelyet a tanúsító hatóság nyilvántartásba vett.
 
-(2) A megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és tevékenységére vonatkozó részletes szabályokat
+(2) A megfelelőségi önértékelésre, a tanúsítási eljárásra, európai tanúsítási rendszer esetében az (1) bekezdés c) pontja szerinti nyilvántartásba vétel feltételeire, valamint a megfelelőségértékelő szervezetek kötelezettségeire és tevékenységére vonatkozó részletes szabályokat
 
-- a) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével az SZTFH elnöke
+- a) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével az SZTFH elnöke,
 - b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem vonatkozásban a Kormány
 
 rendeletben határozza meg.
@@ -1269,7 +1280,7 @@ elektronikus információs rendszere vonatkozásában.
 
 (7) Az állam, a gazdaság és a társadalom működése, biztonsága szempontjából kiemelkedő jelentőséggel bíró elektronikus információs rendszer sérülékenységvizsgálatát a sérülékenységvizsgálat végzésére jogosult állami szerv magához vonhatja vagy vizsgálatát támogathatja.
 
-(8) A sérülékenységvizsgálatot a sérülékenységvizsgálat végzésére jogosult állami szerv végzi el, ha az (5) bekezdés a) pontja szerinti elektronikus információs rendszereken kívüli, a Kszetv. szerinti kritikus szervezet elektronikus információs rendszere tekintetében nincs a sérülékenységvizsgálat elvégzésére e törvényben meghatározott feltételeknek megfelelő, sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet.
+(8) A sérülékenységvizsgálatot a sérülékenységvizsgálat végzésére jogosult állami szerv végzi el, ha az (5) bekezdés a) pontja szerinti elektronikus információs rendszereken kívüli, a Kszetv. szerinti kritikus szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet elektronikus információs rendszere tekintetében nincs a sérülékenységvizsgálat elvégzésére e törvényben meghatározott feltételeknek megfelelő, sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet.
 
 (9) Az az (1) bekezdés szerinti szerv, amelynél a sérülékenységvizsgálatot kezdeményezték köteles vizsgálni a sérülékenységvizsgálat elvégzésére való jogosultságát, és ha más, az (1) bekezdés szerinti szerv kizárólagos jogosultságát állapítja meg, köteles a megkeresést az illetékes szervhez haladéktalanul továbbítani.
 
@@ -1361,7 +1372,7 @@ kapcsolatos, kormányrendeletben részletezett feladatokat.
 
 #### 40. A kiberbiztonsági incidensek bejelentése és kezelése
 
-66. § (1) Az 1. § (1) bekezdés a)–c) pontja szerinti szervezetek az elektronikus információs rendszereikben bekövetkezett, illetve a tudomásukra jutott fenyegetéseket, kiberbiztonsági incidensközeli helyzeteket és kiberbiztonsági incidenseket – beleértve az üzemeltetési kiberbiztonsági incidenst is – a nemzeti kiberbiztonsági incidenskezelő központ részére kötelesek haladéktalanul, a kormányrendeletben meghatározottak szerint bejelenteni.
+66. § (1) Az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezetek az elektronikus információs rendszereikben bekövetkezett, illetve a tudomásukra jutott fenyegetéseket, kiberbiztonsági incidensközeli helyzeteket és kiberbiztonsági incidenseket – beleértve az üzemeltetési kiberbiztonsági incidenst is – a nemzeti kiberbiztonsági incidenskezelő központ részére kötelesek haladéktalanul, a kormányrendeletben meghatározottak szerint bejelenteni.
 
 (2) Az 1. § (1) bekezdés d) és e) pontja szerinti szervezetek az elektronikus információs rendszereikben bekövetkezett, illetve a tudomásukra jutott olyan fenyegetéseket, kiberbiztonsági incidensközeli helyzeteket és kiberbiztonsági incidenseket – beleértve az üzemeltetési kiberbiztonsági incidenst is –, amelyek a szervezet működésében vagy az általa végzett szolgáltatásnyújtásban súlyos zavart vagy vagyoni hátrányt okoz, illetve jelentős vagyoni vagy nem vagyoni kárt okoz más természetes vagy jogi személyek számára kötelesek a kormányrendeletben meghatározottak szerint bejelenteni a nemzeti kiberbiztonsági incidenskezelő központ részére.
 
@@ -1522,7 +1533,30 @@ végzi.
 
 #### 47. A nemzeti koordinációs központ
 
-75. § Az (EU) 2021/887 európai parlamenti és tanácsi rendelet szerinti, a kiberbiztonsági kompetenciaközösség számára kapcsolattartási pontként szolgáló nemzeti koordinációs központ feladatait a Kormány rendeletében kijelölt szerv az abban foglaltak szerint látja el.
+75. § (1) Az (EU) 2021/887 európai parlamenti és tanácsi rendelet szerinti, a kiberbiztonsági kompetenciaközösség számára kapcsolattartási pontként szolgáló nemzeti koordinációs központ (a továbbiakban: nemzeti koordinációs központ) feladatait a Kormány rendeletében kijelölt szerv az abban foglaltak szerint látja el.
+
+(2) A nemzeti koordinációs központ az (EU) 2021/887 európai parlamenti és tanácsi rendeletben meghatározott feladatainak végrehajtása céljából nyilvántartja és kezeli az (EU) 2021/887 európai parlamenti és tanácsi rendelet szerinti kiberbiztonsági kompetenciaközösségbe jelentkező szervezet
+
+- a) azonosításához szükséges adatokat,
+- b) székhelyét, telephelyét, fióktelepét,
+- c) elérhetőségeit, ideértve az elektronikus elérhetőségeket,
+- d) nem Magyarországon bejegyzett szervezet Magyarország területén működő képviselőjének nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
+- e) kapcsolattartó személyének nevét, elérhetőségét, ideértve az elektronikus elérhetőségeket, a szervezetben betöltött pozícióját, valamint
+- f) a kormányrendeletben előírt további, személyes adatnak nem minősülő adatokat.
+
+(3) A (2) bekezdés szerinti nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag
+
+- a) az (EU) 2021/887 európai parlamenti és tanácsi rendelet szerinti Európai Kiberbiztonsági Ipari, Technológiai és Kutatási Kompetenciaközpont,
+- b) a kiberbiztonsági hatóság,
+- c) az (EU) 2022/2554 európai parlamenti és tanácsi rendelet szerinti hatóság,
+- d) az (EU) 2022/2555 európai parlamenti és tanácsi irányelv szerinti egyedüli kapcsolattartó pont, valamint
+- e) a nemzeti kiberbiztonsági incidenskezelő központ
+
+részére végezhető.
+
+(4) A nemzeti koordinációs központ a honlapján közzéteszi a kiberbiztonsági kompetenciaközösség nyilvántartásba vett tagjainak nevét, székhely szerinti országát, hivatalos weboldalát, az (EU) 2021/887 rendelet 8. cikk (3) bekezdése szerinti szervezettípusát és tevékenységi területét, valamint kormányrendeletben meghatározott személyes adatnak nem minősülő adatait.
+
+(5) A Kormány rendeletben határozza meg a nemzeti koordinációs központ feladat- és hatáskörére, eljárására, valamint a nyilvántartásra vonatkozó részletes szabályokat.
 
 #### 48. Együttműködés és jelentéstétel
 
@@ -1579,24 +1613,25 @@ végzi.
 - e) a sérülékenységvizsgálat végzésére jogosult állami szervet,
 - f) a nemzeti kiberbiztonsági incidenskezelő központ működtetését végző szervet,
 - g) a honvédelmi kiberbiztonsági incidenskezelő központ működtetését végző szervet,
-- h) a kiberbiztonsági válsághelyzet kezelésében részt vevő szerveket és szervezeteket, az EU-CyCLONE-ban Magyarország képviseletét ellátó szerveket, valamint
-- i) a nemzeti koordinációs központot.
+- h) a kiberbiztonsági válsághelyzet kezelésében részt vevő szerveket és szervezeteket, az EU-CyCLONE-ban Magyarország képviseletét ellátó szerveket
+- i) a nemzeti koordinációs központot, valamint
+- j) a 24. § (9) bekezdése szerinti adatszolgáltatást teljesítő élelmiszerlánc-felügyeleti szervet.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa
 
 - 1. a kiberbiztonsági szolgáltatások részletes szabályait, a kiberbiztonsági szolgáltatások körét, az igénybevételére kötelezett, illetve jogosult szervezeteket, valamint a szolgáltatások igénybevételének rendjét,
-- 2. az 1. § (1) bekezdés a)–c) pontja szerinti szervezetek kötelezettségeire vonatkozó részletes rendelkezéseket;
+- 2. az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezetek kötelezettségeire vonatkozó részletes rendelkezéseket;
 - 3. az elektronikus információs rendszerekben kezelt adatok osztályozására vonatkozó részletes szabályokat;
 - 4. a 11. § (1) bekezdése szerinti megállapodás minimális tartalmi elemeit;
 - 5. az elektronikus információs rendszer biztonságáért felelős személy részletes feladat- és hatáskörét, az elektronikus információs rendszer biztonságáért felelős személyek nyilvántartásába kerülés, illetve az onnan való törlés rendjét;
-- 6. az 1. § (1) bekezdés a)–c) pontja szerinti szervezet elektronikus információs rendszerei fejlesztése során alkalmazandó részletes szabályokat;
+- 6. az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet elektronikus információs rendszerei fejlesztése során alkalmazandó részletes szabályokat;
 - 7. a központi szolgáltató által az állami és önkormányzati feladatot ellátó szervezet részére jogszabály alapján kizárólagos joggal nyújtott informatikai és elektronikus hírközlési szolgáltatási feladatokra vonatkozó részletes szabályokat;
 - 8. a nemzeti kiberbiztonsági hatóság, valamint a honvédelmi célú elektronikus információs rendszerek tekintetében a kiberbiztonsági felügyeletet ellátó hatóság feladat- és hatáskörét, valamint az eljárására és a nyilvántartásra vonatkozó részletes szabályokat;
-- 9. az 1. § (1) bekezdés a)–c) pontja szerinti szervezetek esetében az információbiztonsági felügyelő személyével szembeni követelményeket, a kirendelésére, jogosítványaira, feladataira vonatkozó részletes szabályokat;
+- 9. az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezetek esetében az információbiztonsági felügyelő személyével szembeni követelményeket, a kirendelésére, jogosítványaira, feladataira vonatkozó részletes szabályokat;
 - 10. a kiberbiztonsági hatóság által kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait;
 - 11. a tanúsító hatóság által kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait;
 - 12. a 45. § (1) bekezdés b) pontja szerinti tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat;
-- 13. a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségi önértékelésre, a tanúsítási eljárásra, a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, valamint a megfelelőségértékelő szervezetek kötelezettségeire és tevékenységére vonatkozó részletes szabályokat;
+- 13. a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségi önértékelésre, a tanúsítási eljárásra, nemzeti kiberbiztonsági tanúsítási rendszer esetében a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, európai kiberbiztonsági tanúsítási rendszer esetében a megfelelőségértékelő szervezetek nyilvántartásba vételének feltételeire, valamint a megfelelőségértékelő szervezetek kötelezettségeire és tevékenységére vonatkozó részletes szabályokat;
 - 14. a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a nemzeti kiberbiztonsági tanúsítási rendszerekre figyelemmel a tanúsítási rendszereket;
 - 15. a sérülékenységvizsgálat végrehajtására vonatkozó részletszabályokat, az egyes sérülékenységvizsgálati módszereket, az állásfoglalás tartalmi elemeit;
 - 16. a nemzeti kiberbiztonsági incidenskezelő központ, valamint a honvédelmi kiberbiztonsági incidenskezelő központ feladat- és hatáskörét, feladatai ellátásának részletes szabályait;
@@ -1609,13 +1644,14 @@ végzi.
 - 23. a kiberbiztonsági válsághelyzet kezelésében érintett szervek és szervezetek feladat- és hatáskörét, a követendő eljárásrendet;
 - 24. a Nemzeti Kiberbiztonsági Munkacsoport és annak működését támogató testületek létrehozásával, működtetésével kapcsolatos szabályokat, feladat- és hatásköröket, valamint
 - 25. a 76. § (1) bekezdése szerinti szervek közötti és a 76. § (3) bekezdése szerinti szervezetekkel való együttműködés, valamint az Európai Bizottság és az ENISA részére történő tájékoztatás és adatszolgáltatás rendjére vonatkozó részletes szabályokat,
+- 26. a nemzeti koordinációs központ feladat- és hatáskörére, eljárására, valamint a nyilvántartásra vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap az informatikáért felelős miniszter, hogy rendeletben meghatározza
 
 - a) a biztonsági osztályba sorolás követelményeit, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedéseket,
-- b) a szervezet vezetőjének, munkatársainak, valamint az elektronikus információs rendszer biztonságáért felelős személynek a szakmai képzésére és továbbképzésére vonatkozó rendelkezéseket,
-- c) a – 11. § (3) bekezdés b) pontjában megjelölt szervezetek vonatkozásában az elektronikus információs rendszer biztonságáért felelős személy, valamint – az 1. § (1) bekezdés a)–c) pontja szerinti szervezetek vonatkozásában – az információbiztonsági felügyelő feladatellátásához szükséges végzettséget, szakképzettséget, képzettséget vagy szakmai tapasztalatot,
-- d) a kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett, 1. § (1) bekezdés a)–c) pontja szerinti szervezeteket.
+- b) a szervezet vezetőjének a képzésére és továbbképzésére, valamint az elektronikus információs rendszer biztonságáért felelős személynek a továbbképzésére vonatkozó rendelkezéseket,
+- c) a – 11. § (3) bekezdés b) pontjában megjelölt szervezetek vonatkozásában – az elektronikus információs rendszer biztonságáért felelős személyeknél a feladatellátásához szükséges végzettséget, a szakképzettségeknek a 75. § (1) bekezdése szerinti nemzeti koordinációs központ általi közzétételi rendjét, vagy az elfogadható szakmai tapasztalatot, valamint – az 1. § (1) bekezdés a)–c) pontja szerinti szervezetek vonatkozásában – az információbiztonsági felügyelő feladatellátásához szükséges végzettséget, továbbképzési kötelezettséget és szakmai gyakorlatot és a szakképzettségeknek a 75. § (1) bekezdése szerinti nemzeti koordinációs központ általi közzétételi rendjét,
+- d) a kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett, 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezeteket.
 
 (4) Az informatikáért felelős miniszter a (3) bekezdés a) pontja szerinti rendeletet az SZTFH elnöke véleményének kikérését követően adja ki.
 
@@ -1626,7 +1662,7 @@ végzi.
 - a) a kiberbiztonsági felügyeleti díj mértékét, megfizetésére vonatkozó rendelkezéseket,
 - b) az auditorok nyilvántartásba vételi eljárásának rendjét, és az auditorral szemben támasztott követelményeket,
 - c) a kiberbiztonsági audit lefolytatásának rendjét, valamint a kiberbiztonsági audit – általános forgalmi adó nélkül számított – legmagasabb díját,
-- d) az 1. § (1) bekezdés d) és e) pontja szerinti szervezetek vonatkozásában a kiberbiztonsági felügyelet és feladatellátás, továbbá a hatósági ellenőrzés lefolytatásának részletes szabályait,
+- d) az 1. § (1) bekezdés d) és e) pontja szerinti szervezetek, illetve az auditorok vonatkozásában a kiberbiztonsági felügyelet és feladatellátás, továbbá a hatósági ellenőrzés lefolytatásának részletes szabályait,
 - e) az 1. § (1) bekezdés b), d) és e) pontja szerinti szervezeteknek a 29. § (1) bekezdés a) pontja szerinti kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, valamint a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat,
 - f) az 1. § (1) bekezdés d) és e) pontja szerinti szervezetek esetében az információbiztonsági felügyelő személyével szembeni követelményeket, a kirendelésére, jogosítványaira, feladataira vonatkozó részletes szabályokat,
 - g) a poszt-kvantumtitkosítás alkalmazására kötelezett szervezeteket,
@@ -1634,7 +1670,7 @@ végzi.
 - i) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet informatikai rendszerelemei zártsága tanúsítására vonatkozó részletes szabályokat,
 - j) a tanúsító szervezet nyilvántartásba vételére, a nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a tanúsító szervezet ellenőrzésére vonatkozó részletes szabályokat,
 - k) a 45. § (1) bekezdés b) pontja szerinti tanúsító hatósági tevékenység kivételével a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait és a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat,
-- l) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségi önértékelésre, a tanúsítási eljárásra, a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
+- l) – a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével – a megfelelőségi önértékelésre, a tanúsítási eljárásra, nemzeti kiberbiztonsági tanúsítási rendszer esetében a megfelelőségértékelő szervezetekkel szemben támasztott követelményekre, európai kiberbiztonsági tanúsítási rendszer esetében a megfelelőségértékelő szervezetek nyilvántartásba vételének feltételeire, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
 - m) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a nemzeti kiberbiztonsági tanúsítási rendszereket,
 - n) a kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett, 1. § (1) bekezdés d) és e) pontja szerinti szervezeteket.
 
@@ -1692,7 +1728,9 @@ végzi.
 
 89. § (1) Az az 1. § (1) bekezdés b), d) vagy e) pontja szerinti szervezet, amely 2024. december 31. napján az SZTFH által a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény 26. § (1) bekezdése szerint vezetett nyilvántartásban érintett szervezetként szerepel, nem köteles a 8. § (5) bekezdése szerinti bejelentés megtételére, a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény 26. § (1) bekezdése szerinti nyilvántartásban szereplő adatait az SZTFH a 29. § (1) bekezdés a) pontja szerinti nyilvántartás részeként kezeli. A 29. § (1) bekezdés a) pont ae) alpontja szerinti adatokat 2025. február 15. napjáig kell bejelenteni az SZTFH részére.
 
-(2) Az az 1. § (1) bekezdés b), d) és e) pontja szerinti szervezet, amely 2025. január 1-je előtt megkezdte működését, a 16. § (1) bekezdése szerinti első kiberbiztonsági auditot 2025. december 31-ig köteles elvégeztetni.
+(1a) Az 1. § (1) bekezdés b) pontja szerinti azon szervezet, amely egyúttal a 2. és 3. melléklet szerinti szervezet is, valamint az 1. § (1) bekezdés d) pontja és – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti mikrovállalkozás kivételével – az 1. § (1) bekezdés e) pontja szerinti szervezet, amely 2025. január 1-je előtt megkezdte működését, a 16. § (2) bekezdés a) pontja szerinti kötelezettséget legkésőbb 2025. augusztus 31-ig köteles teljesíteni.
+
+(2) Az (1a) bekezdés szerinti szervezet a 16. § (1) bekezdése szerinti első kiberbiztonsági auditot 2026. június 30-ig köteles elvégeztetni.
 
 (3) Az a gazdálkodó szervezet, amely a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény 26. § (1) bekezdése szerint vezetett nyilvántartásban érintett szervezetként szerepel, és 2024. december 31. napjáig a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény 20. § (1) bekezdése szerint az elektronikus információs rendszereinek, valamint az azon tárolt, továbbított vagy feldolgozott adatoknak a biztonsági osztályba sorolását elvégezte, nem köteles a 10. § (1) bekezdése alapján ismételten elvégezni a biztonsági osztályba sorolást.
 
@@ -1722,7 +1760,7 @@ végzi.
 
 - a) az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek,
 - b) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek, valamint
-- c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+- c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
