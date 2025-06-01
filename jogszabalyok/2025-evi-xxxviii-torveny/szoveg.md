@@ -10,25 +10,15 @@ a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. é
 
 #### 1. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 
-1. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFI tv.) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 1. §
 
-„(1) A Kormány – a Magyar Kreatívipari Tanács útján – elősegíti a hazai kreatívipari ágazat fejlesztését, valamint a kreatívipari alkotók, vállalkozások és gyártók helyzetének javítását. A Magyar Kreatívipari Tanácsot a Kormány által kijelölt szerv működteti.”
-
-2. § A KFI tv. 6. § (2) bekezdésében, valamint 43. § (1) bekezdés f) pontjában a „Formatervezési” szövegrész helyébe a „Kreatívipari” szöveg lép.
+#### 2. §
 
 #### 2. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
 
-3. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: Turizmus tv.) 9/A. §-a helyébe a következő rendelkezés lép:
+#### 3. §
 
-„9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, hivatalos statisztikai adatok előállításának segítése, valamint gazdasági és pénzügyi stabilitás elősegítése érdekében a turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön igénybevételéhez és nyújtásához szükséges adatokat biztosító informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.”
-
-4. § A Turizmus tv. 10. §-a a következő n) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy a)
-
-„n) turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön Nemzeti Turisztikai Adatszolgáltató Központ közreműködésével történő nyújtásának és igénybevételének részletes szabályait”
-
-(rendeletben határozza meg.)
+#### 4. §
 
 #### 3. Záró rendelkezések
 

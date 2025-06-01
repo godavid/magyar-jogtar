@@ -779,7 +779,7 @@ az irányadó.
 
 59. § (1) Az adattovábbítás teljesítése érdekében, valamint az állampolgársági ügyekben eljáró szerv megkeresése esetén a nyilvántartó anyakönyvvezető öt napon belül gondoskodik a papír alapú anyakönyvi bejegyzésben szereplő adatoknak az elektronikus anyakönyvbe történő bejegyzéséről.
 
-(2) Ha a családi név korrekciójára irányuló eljárás, a nemzetiségi névviselésre irányuló eljárás, valamint az utónév módosítására irányuló eljárás esetén a kérelmező fennálló házasságára vagy bejegyzett élettársi kapcsolatára, valamint kiskorú gyermekének születésére vonatkozó papír alapú anyakönyvi bejegyzés az elektronikus anyakönyvben nem szerepel, a kérelem benyújtásának helye szerinti anyakönyvvezető megkeresi az érintett eseményt nyilvántartó anyakönyvvezetőt az anyakönyvi esemény elektronikus anyakönyvbe történő bejegyzése érdekében. A megkeresett nyilvántartó anyakönyvvezető a papír alapú anyakönyvi bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzéséről az értesítéstől számított nyolc napon belül gondoskodik, és erről értesíti a megkeresőt.
+(2) Ha a születési nevet érintő adatváltozás esetén a kérelmező házasságára vagy bejegyzett élettársi kapcsolatára, valamint kiskorú gyermekének születésére vonatkozó papír alapú anyakönyvi bejegyzés az elektronikus anyakönyvben nem szerepel, a kérelem benyújtásának helye szerinti anyakönyvvezető megkeresi az érintett eseményt nyilvántartó anyakönyvvezetőt az anyakönyvi esemény elektronikus anyakönyvbe történő bejegyzése érdekében. A megkeresett nyilvántartó anyakönyvvezető a papír alapú anyakönyvi bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzéséről a megkereséstől számított nyolc napon belül gondoskodik, és erről értesíti a megkeresőt.
 
 59/A. § (1) Ha a névváltoztatási kérelmet benyújtó személy születésére, házasságára vagy bejegyzett élettársi kapcsolatára, valamint kiskorú gyermekének születésére (a továbbiakban együtt: névváltoztatással érintett esemény) vonatkozó papír alapú anyakönyvi bejegyzés az elektronikus anyakönyvben nem szerepel, a névváltoztatási kérelem benyújtásának helye szerinti anyakönyvvezető megkeresi a névváltoztatással érintett eseményt nyilvántartó anyakönyvvezetőt a névváltoztatással érintett eseménynek az elektronikus anyakönyvbe történő bejegyzése érdekében. A megkeresett nyilvántartó anyakönyvvezető a papír alapú anyakönyvi bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzéséről az értesítéstől számított 8 napon belül gondoskodik, és erről értesíti az anyakönyvi szervet.
 
@@ -1043,11 +1043,7 @@ megismerni.
 - f) az érvényes házasság magyar jog szerinti kezdő időpontját,
 - g) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
 - h) a házasság fennállása alatt a b) pontban meghatározott adatokban bekövetkezett változást,
-- i) a házasság megszűnését követően
-  - ia) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági névviselési forma módosítása következtében történt változását és annak időpontját,
-  - ib) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági név megváltoztatása következtében történt változását és annak időpontját,
-  - ic) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak az utónév-módosítás következtében történt változását és annak időpontját,
-  - id) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a névváltoztatás következtében történt változását és annak időpontját,
+- i) a házasság megszűnését követően a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adat anyakönyvi eljárásban történő változását és annak időpontját,
 - j) az e)–g) pontban szereplő adatok változását,
 - k) az adatot bejegyző személy nevét és felhasználói azonosítóját,
 - l) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
@@ -1347,7 +1343,7 @@ foglalt adatait tartja nyilván.
 
 ### Az anyakönyvi kivonat
 
-73/A. § (1) Az anyakönyvi kivonat közhitelesen tanúsítja a kiállítás időpontjában az anyakönyvi eseményhez kapcsolódóan az anyakönyvben szereplő adatokat.
+73/A. § (1) Az anyakönyvi kivonat – a (3a) bekezdésben foglalt kivétellel – a kiállítás időpontjában érvényes adatokkal közhitelesen tanúsítja az anyakönyvi eseményhez kapcsolódóan az anyakönyvbe bejegyzett adatokat.
 
 (2) A születési anyakönyvi kivonat tartalmazza
 
@@ -1375,8 +1371,11 @@ foglalt adatait tartja nyilván.
 - d) a házasság
   - da) megszűnésének tényét, idejét,
   - db) érvénytelenné nyilvánításának tényét, idejét,
-- e) a házastársak házassági neve módosításának tényét a hatálybalépés megjelölésével,
+  - dc) megszűnése vagy érvénytelenné nyilvánítása esetén annak tényét, hogy a házassági anyakönyvi kivonat az adatokat a házasság megszűnésének vagy érvénytelenné nyilvánításának időpontjában nyilvántartott adatokkal tartalmazza,
+- e) fennálló házasság esetén a házastársak házassági neve változásának tényét a hatálybalépés megjelölésével,
 - f) az érvényes házasságnak a magyar jog szerinti kezdő időpontját.
+
+(3a) Házasság megszűnése esetén a házassági anyakönyvi kivonat a 69/D. § (1) bekezdés i) pontja szerinti adatot nem tartalmazza.
 
 (4) A bejegyzett élettársi kapcsolat létesítéséről kiállított anyakönyvi kivonat tartalmazza
 
@@ -1760,7 +1759,7 @@ részletes szabályait rendeletben állapítsa meg.
 
 101/A. § (1) E törvénynek az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2016. évi CIX. törvénnyel (a továbbiakban: Módtv.) módosított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
 
-(2)
+(2) E törvénynek az egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosításáról szóló 2023. évi XXI. törvénnyel megállapított 69/D. § (1) bekezdés i) pontjára figyelemmel az elektronikus anyakönyvbe, valamint a személyiadat- és lakcímnyilvántartásba bejegyzett adatokat 2026. június 1-jéig a házasságot nyilvántartó anyakönyvvezető köteles felülvizsgálni és a házasság megszűnését követő adatváltozást hivatalból bejegyezni.
 
 (3)
 

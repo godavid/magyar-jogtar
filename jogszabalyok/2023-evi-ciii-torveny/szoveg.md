@@ -148,7 +148,7 @@ Az Országgyűlés – felismerve azt, hogy az információs és kommunikációs
 - 31. keretalkalmazás: a Kormány által kijelölt szolgáltató által vagy megbízásából a digitális állampolgárság szolgáltatások igénybevétele céljából a nyilvánosság számára mobileszközökre tervezett és kifejlesztett mobilalkalmazás;
 - 32. kormányzati célú hírközlési szolgáltatás: az elektronikus hírközlésről szóló törvényben meghatározott kormányzati célú hálózatnak minősülő, jogszabályban meghatározott elektronikus hírközlő hálózat felhasználásával, jogszabályban meghatározott felhasználók részére nyújtott elektronikus hírközlési szolgáltatás;
 - 33. központi állami szolgáltatás: olyan, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásnak, valamint központi elektronikus ügyintézési szolgáltatásnak nem minősülő, központi szolgáltatásként nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet az állam a piac szereplői részére a kijelölt központi szolgáltatón keresztül biztosít;
-- 33a. közszférabeli szervezet: az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 6. pontja szerinti szervezet, a 9. § (2) bekezdése szerinti digitális szolgáltatás nyújtására köteles szerv;
+- 33a. közszférabeli szervezet: az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 6. pontja szerinti szervezet, a 9. § (2) bekezdése szerinti digitális szolgáltatás nyújtására köteles szerv és a 80. § (1) bekezdés a)–e), g) és h) pontja szerinti digitális szolgáltatás biztosítására kötelezett szervezet;
 - 34. lenyomat: olyan meghatározott hosszúságú, az elektronikus dokumentumhoz rendelt bitsorozat, amelynek képzése során a használt eljárás (lenyomatképző eljárás) a képzés időpontjában teljesíti az e törvény végrehajtására kiadott rendeletben megfogalmazott követelményeket;
 - 35. minősített adat: a minősített adat védelméről szóló törvény szerinti minősített adat;
 - 36. minősített bizalmi szolgáltatás: az eIDAS Rendelet 3. cikk 17. pontja szerinti szolgáltatás;
@@ -1326,11 +1326,61 @@ nem kell alkalmazni.
 
 (5) A Kormány az együttműködéshez, valamint a belső elektronikus ügymenethez szükséges támogató szolgáltatásokat a 9. § (2) bekezdés szerinti jogalanyoknak díjmentesen biztosítja.
 
-## ÖTÖDIK RÉSZ
+## ÖTÖDIK RÉSZ — A DIGITÁLIS TÉR ÉS A SZOLGÁLTATÓK KAPCSOLATA
 
-#### 80. §
+80. § (1) Digitális szolgáltatás biztosítására kötelezett szervezetnek minősül
 
-#### 81. §
+- a) a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó szolgáltatást nyújtó,
+- b) a távhőszolgáltatásról szóló törvény szerinti távhőszolgáltató,
+- c) az általa ellátott, egyetemes szolgáltatást igénybe vevő felhasználó tekintetében a földgáz egyetemes szolgáltatói engedélyes és a földgázelosztói engedélyes,
+- d) a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltatást nyújtó,
+- e) a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatást nyújtó,
+- f) a kéményseprő-ipari szolgáltatást nyújtó,
+- g) az egyetemes postai szolgáltatást nyújtó,
+- h) az általa ellátott, egyetemes szolgáltatást igénybe vevő felhasználó tekintetében a villamos energia egyetemes szolgáltatói engedélyes és a villamos energia elosztói engedélyes,
+- i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet és pénzügyi vállalkozás,
+- j) az egyes fizetési szolgáltatókról szóló törvény szerinti pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény és a Posta Elszámoló Központot működtető intézmény,
+- k) a biztosítási tevékenységről szóló törvény szerinti biztosító és viszontbiztosító,
+- l) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési vállalkozás és árutőzsdei szolgáltató,
+- m) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló törvény, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény, valamint a foglalkoztatói nyugdíjról és intézményeiről szóló törvény hatálya alá tartozó tevékenységet végző,
+- n) a biztosítási tevékenységről szóló törvény szerinti biztosító egyesületi szolgáltatást nyújtó,
+- o) az elektronikus hírközlésről szóló törvény szerinti, egyéni előfizetői szolgáltatást nyújtó elektronikus hírközlési szolgáltató
+
+gazdálkodó szervezet.
+
+(2) Arra az (1) bekezdés a) b), d), f) és g) pontja szerinti gazdálkodó szervezetre, amely a szolgáltatásaiért a tárgyévet megelőző évben havonta átlagosan legalább 50 000 számlát bocsátott ki, a 9. § (2) bekezdés szerinti jogalanyokra vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy a keretszolgáltatások közül az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
+
+(3) Az (1) bekezdés a) b), d), f) és g) pontja szerinti gazdálkodó szervezet, amelynek számlakibocsátása nem éri el a (2) bekezdésben meghatározott küszöböt, a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
+
+(4) Az (1) bekezdés i)–n) pontja szerinti gazdálkodó szervezet a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
+
+(5) Arra az (1) bekezdés c), e) és h) pontja szerinti gazdálkodó szervezetre, amelynek szolgáltatásait a tárgyévet megelőző évben legalább 50 000 természetes személy felhasználó vette igénybe, a 9. § (2) bekezdése szerinti jogalanyokra vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy a keretszolgáltatások közül az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
+
+(6) Arra az (1) bekezdés o) pontja szerinti gazdálkodó szervezetre, amelynek szolgáltatásait a tárgyérvet megelőző évben legalább 50 000 természetes személy felhasználó vette igénybe, a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
+
+81. § (1) A digitális szolgáltatás biztosítására kötelezett szervezet a következő feltételeket köteles teljesíteni a 80. § (2)–(4) bekezdése alapján kötelezően biztosított, valamint az ezen felül igénybe vett digitális állampolgárság szolgáltatáshoz, valamint támogató szolgáltatáshoz kapcsolódóan:
+
+- a) a digitális állampolgárság szolgáltató által történő regisztráció elektronikus kapcsolattartás útján,
+- b) a digitális állampolgárság szolgáltató által meghatározott szolgáltatási feltételek elfogadása,
+- c) a digitális állampolgárság szolgáltató által meghatározott műszaki követelmények teljesítése,
+- d) az elektronikus információs rendszerei tekintetében a kiberbiztonsági követelményeknek való megfelelés teljesítése, és
+- e) a kormányrendeletben meghatározott mértékű szolgáltatási díj megfizetése a digitális állampolgárság szolgáltató részére.
+
+(2) A 80. § (1) bekezdés a)–h), valamint o) pontja szerinti szervezet az (1) bekezdés d) pontja szerinti feltételt a Magyarország kiberbiztonságáról szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelés biztosításával, valamint kiberbiztonsági audit lefolytatásával teljesíti.
+
+(3) A 80. § (1) bekezdés i)–n) pontja szerinti szervezet esetében az (1) bekezdés d) pontja szerinti feltétel olyan informatikai rendszer felhasználásával teljesíthető, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint annak észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a 80. § (1) bekezdés i)–n) pontja szerinti szervezetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+(4) A (3) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket a Kormány rendeletben határozza meg.
+
+(5) A tanúsító szervezet és alvállalkozója a vizsgált, a 80. § (1) bekezdés i)–n) pontja szerinti szervezet kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
+
+(6) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azokat a munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titkokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is.
+
+(7) Kormányrendeletben az (1) bekezdésben foglaltakon túl további csatlakozási feltételek határozhatóak meg.
+
+(8) A digitális szolgáltatás biztosítására kötelezett szervezet az (1)–(7) bekezdésben foglalt feltételek betartásával folyamatosan, a szolgáltatásnyújtás teljes időtartama alatt biztosítja a keretszolgáltatások követelményeinek teljesítését. A feltételek folyamatos biztosításának módját és azok igazolását a Kormány rendeletben határozza meg.
+
+(9) A digitális szolgáltatás biztosítására kötelezett szervezet a felhasználó számára ellenszolgáltatás és további díj felszámítása nélkül biztosítja a keretszolgáltatások igénybevételét.
 
 ## HATODIK RÉSZ — A BIZALMI SZOLGÁLTATÁSOKRÓL
 
@@ -1811,6 +1861,8 @@ kell biztosítani.
 - 25. a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket.
 - 26. az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 14. pontja szerinti ellenőrzött környezet fejlesztésével, létrehozásával és üzemeltetésével kapcsolatos szabályokat, valamint az ahhoz való csatlakozás szabályait.
 - 27. az integrátorral szembeni szakmai és infrastrukturális követelményeket.
+- 28. a 81. § (4) bekezdése szerinti tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket,
+- 29. a 81. § (1)–(7) bekezdése szerinti feltételek folyamatos biztosításának módját és azok igazolását.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
 
@@ -1954,3 +2006,5 @@ kell biztosítani.
 123. § (1) E törvény a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) E törvény tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
+
+(3) A 80. § (1) bekezdés o) pontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

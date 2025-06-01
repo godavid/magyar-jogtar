@@ -759,6 +759,10 @@ adatot igényelhet.
 
 (3) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató részére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 15. § (5) bekezdésében meghatározottak szerint adatszolgáltatást teljesít.
 
+(4) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató, az életesemény-alapú szolgáltatás szolgáltatója részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából átadja a feladatellátással érintett polgárok nyilvántartott adatait.
+
+(5) A nyilvántartást kezelő szerv köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából a feladatellátással érintett polgárok nyilvántartott adatainak változásáról.
+
 #### 24/P. §
 
 24/Q. § A nyilvántartást kezelő szerv a Bnytv. 6. § (1a) bekezdésében foglaltak teljesítése érdekében a bűnügyi nyilvántartó szerv részére átadja a polgár utolsó alkalommal nyilvántartásba vett arcképmását, amennyiben a polgár arcképmásával a bűnügyi nyilvántartó szerv nem rendelkezik.
