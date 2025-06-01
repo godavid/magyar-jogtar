@@ -664,6 +664,8 @@ vonatkozó adatairól.
 
 (3d) A nyilvántartó a 9. § (1), (2) és (4) bekezdésben, a 9/A. § (1) bekezdés e) pontjában, valamint a 9/B. § (1) bekezdés h) pontjában meghatározott adatok térítésmentes, informatikai adatkapcsolat útján történő közvetlen átadását biztosítja a jármű tulajdonjogának és az üzembentartó személyének változását igazoló teljes bizonyító erejű magánokirat Automatikus Közigazgatási Döntéshozatali szolgáltatás igénybevételével történő létrehozásához szükséges ellenőrzéséhez és az automatikus döntéshozatali eljárás lefolytatásához.
 
+(3e) A nyilvántartó biztosítja a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott szolgáltatásainak nyújtásához szükséges adatok informatikai adatkapcsolat útján történő közvetlen átadását.
+
 (4) A kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartó az általa megjelölt személyt, személyi kört keresse meg, és
 
 - a) kérje írásos hozzájárulását ahhoz, hogy a kérelemben felsorolt adatait a kérelmező rendelkezésére bocsáthassa, vagy
@@ -697,7 +699,9 @@ statisztikai célra továbbíthatja.
 
 (3) A (2) bekezdés rendelkezései nem alkalmazhatók a 21. § b), c) és d) pontjaiban meghatározott célból történő adatkérés esetén.
 
-27. § A kérelemre indult adatszolgáltatási eljárásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
+27. § (1) A kérelemre indult adatszolgáltatási eljárásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+(2) Mentesek a díjfizetési kötelezettség alól a 19. § (1) bekezdés a)–d), g), i)–k), m), o) és t) pontjában, a 19. § (2) bekezdés a) pont ab) alpontjában, a 19. § (2) bekezdés b)–d) és l) pontjában, valamint a 19. § (2a) és (3) bekezdésében megjelölt szervek.
 
 ### Automatizált keresés
 

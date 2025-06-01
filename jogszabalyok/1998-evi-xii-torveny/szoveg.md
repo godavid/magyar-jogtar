@@ -514,6 +514,10 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (1h) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat, továbbá az érintett saját kezű aláírását a Nemzeti Szakértői és Kutató Központ részére, az általa végzett igazságügyi szakértői tevékenység ellátása céljából átadja.
 
+(1i) Az adatkezelő szerv a közölt okmányazonosító adat és kiállítási idő alapján, az érintett útlevelének okmányazonosítójára, az útlevél érvényességére és kiállításának idejére vonatkozó adatot a regisztrációt követően, a digitális keretalkalmazáson elvégzendő személyazonosság-ellenőrzéséhez átadja a digitális állampolgárság szolgáltató részére.
+
+(1j) Az adatkezelő szerv a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére jogszabályban meghatározott szolgáltatásaik nyújtása céljából átadja a feladatellátással érintett polgárok nyilvántartott adatait.
+
 (2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
 (2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a), e) és f) pontja alapján kezelt adatállományból.
