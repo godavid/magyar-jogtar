@@ -18,11 +18,7 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 3. §
 
-4. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 24/O. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató, az életesemény-alapú szolgáltatás szolgáltatója részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából átadja a feladatellátással érintett polgárok nyilvántartott adatait.
-
-(5) A nyilvántartást kezelő szerv köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából a feladatellátással érintett polgárok nyilvántartott adatainak változásáról.”
+#### 4. §
 
 #### 5. §
 
@@ -62,13 +58,7 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 18. §
 
-19. § (1)
-
-(2) A külföldre utazásról szóló 1998. évi XII. törvény 27. §-a a következő (1i) és (1j) bekezdéssel egészül ki:
-
-„(1i) Az adatkezelő szerv a közölt okmányazonosító adat és kiállítási idő alapján, az érintett útlevelének okmányazonosítójára, az útlevél érvényességére és kiállításának idejére vonatkozó adatot a regisztrációt követően, a digitális keretalkalmazáson elvégzendő személyazonosság-ellenőrzéséhez átadja a digitális állampolgárság szolgáltató részére.
-
-(1j) Az adatkezelő szerv a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére jogszabályban meghatározott szolgáltatásaik nyújtása céljából átadja a feladatellátással érintett polgárok nyilvántartott adatait.”
+#### 19. §
 
 #### 20. §
 
@@ -78,15 +68,9 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 22. §
 
-23. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 24. §-a a következő (3e) bekezdéssel egészül ki:
+#### 23. §
 
-„(3e) A nyilvántartó biztosítja a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott szolgáltatásainak nyújtásához szükséges adatok informatikai adatkapcsolat útján történő közvetlen átadását.”
-
-24. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 27. §-a helyébe a következő rendelkezés lép:
-
-„27. § (1) A kérelemre indult adatszolgáltatási eljárásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
-
-(2) Mentesek a díjfizetési kötelezettség alól a 19. § (1) bekezdés a)–d), g), i)–k), m), o) és t) pontjában, a 19. § (2) bekezdés a) pont ab) alpontjában, a 19. § (2) bekezdés b)–d) és l) pontjában, valamint a 19. § (2a) és (3) bekezdésében megjelölt szervek.”
+#### 24. §
 
 25. § Hatályát veszti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény
 
@@ -148,37 +132,7 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 43. §
 
-44. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 80. §-a a következő szöveggel lép hatályba:
-
-„80. § (1) Digitális szolgáltatás biztosítására kötelezett szervezetnek minősül
-
-- a) a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó szolgáltatást nyújtó,
-- b) a távhőszolgáltatásról szóló törvény szerinti távhőszolgáltató,
-- c) az általa ellátott, egyetemes szolgáltatást igénybe vevő felhasználó tekintetében a földgáz egyetemes szolgáltatói engedélyes és a földgázelosztói engedélyes,
-- d) a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltatást nyújtó,
-- e) a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatást nyújtó,
-- f) a kéményseprő-ipari szolgáltatást nyújtó,
-- g) az egyetemes postai szolgáltatást nyújtó,
-- h) az általa ellátott, egyetemes szolgáltatást igénybe vevő felhasználó tekintetében a villamos energia egyetemes szolgáltatói engedélyes és a villamos energia elosztói engedélyes,
-- i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet és pénzügyi vállalkozás,
-- j) az egyes fizetési szolgáltatókról szóló törvény szerinti pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény és a Posta Elszámoló Központot működtető intézmény,
-- k) a biztosítási tevékenységről szóló törvény szerinti biztosító és viszontbiztosító,
-- l) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési vállalkozás és árutőzsdei szolgáltató,
-- m) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló törvény, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény, valamint a foglalkoztatói nyugdíjról és intézményeiről szóló törvény hatálya alá tartozó tevékenységet végző,
-- n) a biztosítási tevékenységről szóló törvény szerinti biztosító egyesületi szolgáltatást nyújtó,
-- o) az elektronikus hírközlésről szóló törvény szerinti, egyéni előfizetői szolgáltatást nyújtó elektronikus hírközlési szolgáltató
-
-gazdálkodó szervezet.
-
-(2) Arra az (1) bekezdés a) b), d), f) és g) pontja szerinti gazdálkodó szervezetre, amely a szolgáltatásaiért a tárgyévet megelőző évben havonta átlagosan legalább 50 000 számlát bocsátott ki, a 9. § (2) bekezdés szerinti jogalanyokra vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy a keretszolgáltatások közül az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
-
-(3) Az (1) bekezdés a) b), d), f) és g) pontja szerinti gazdálkodó szervezet, amelynek számlakibocsátása nem éri el a (2) bekezdésben meghatározott küszöböt, a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
-
-(4) Az (1) bekezdés i)–n) pontja szerinti gazdálkodó szervezet a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
-
-(5) Arra az (1) bekezdés c), e) és h) pontja szerinti gazdálkodó szervezetre, amelynek szolgáltatásait a tárgyévet megelőző évben legalább 50 000 természetes személy felhasználó vette igénybe, a 9. § (2) bekezdése szerinti jogalanyokra vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy a keretszolgáltatások közül az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
-
-(6) Arra az (1) bekezdés o) pontja szerinti gazdálkodó szervezetre, amelynek szolgáltatásait a tárgyérvet megelőző évben legalább 50 000 természetes személy felhasználó vette igénybe, a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.”
+#### 44. §
 
 #### 45. §
 
@@ -201,8 +155,8 @@ gazdálkodó szervezet.
 - e)
 - f)
 - g)
-- h)
-- i)
+- h) 81. § (1) bekezdés nyitó szövegrészében a „(2)–(4)” szövegrész helyébe a „(2)–(6)” szöveg,
+- i) 81. § (1) bekezdés e) pontjában az „a kormányrendeletben meghatározott mértékű szolgáltatási díj” szövegrész helyébe az „igazgatási szolgáltatási díj” szöveg,
 - j)
 - k)
 - l)
@@ -274,7 +228,7 @@ lép.
 
 #### 15. A digitális állammal és az okmányok digitalizációjával összefüggő egyes törvények módosításáról szóló 2024. évi LXXIII. törvény módosítása
 
-73. § Nem lép hatályba a digitális állammal és az okmányok digitalizációjával összefüggő egyes törvények módosításáról szóló 2024. évi LXXIII. törvény 83. §-a.
+#### 73. §
 
 #### 16. Záró rendelkezések
 

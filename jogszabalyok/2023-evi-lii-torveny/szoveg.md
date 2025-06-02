@@ -117,7 +117,7 @@ hozzátartozójának, vagy a foglalkoztatotti jogviszonyban álló személlyel k
 - 27. oktatási központ: a köznevelésért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szerv,
 - 28. óraadó: az Nkt.-ban ekként meghatározott pedagógus, oktató,
 - 29. pedagógus: ha jogszabály eltérően nem rendelkezik, a Kormány rendeletében meghatározott pedagógus-munkakört betöltő személy,
-- 29a. pedagógus továbbképzés: a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló jogszabályban meghatározott továbbképzés,
+- 29a. pedagógus továbbképzés: a pedagógus továbbképzés rendszeréről szóló jogszabályban meghatározott továbbképzés,
 - 30. szakszervezet: a köznevelésben foglalkoztatottak minden olyan szervezete, amelynek elsődleges célja a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonnyal vagy munkaviszonnyal kapcsolatos érdekeinek előmozdítása és megvédése,
 - 31. vendégtanár: az a pedagógus, aki tankerületi központtal heti legalább húsz órás időtartamú köznevelési foglalkoztatotti jogviszonyban áll, és mellette más, a tankerületi központ által fenntartott köznevelési intézményben óraadó.
 
@@ -315,7 +315,7 @@ kézbesítettnek kell tekinteni.
 
 (5) A kinevezési okmányt és annak módosítását, a jogviszony megszüntetésével kapcsolatos jognyilatkozatot, az összeférhetetlenség megszüntetésére irányuló felszólítást és a fizetési felszólítást a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kell kiadmányozni.
 
-(6) Az (5) bekezdés szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény (a továbbiakban: Dáptv.) III. Fejezetét a (8) bekezdésben foglalt eltéréssel kell alkalmazni azzal, hogy felhasználó alatt a köznevelésben foglalkoztatottat, a digitális szolgáltatást biztosító szervezet alatt a munkáltatót kell érteni.
+(6) Az (5) bekezdés szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény (a továbbiakban: Dáptv.) III. Fejezetét a (8) bekezdésben foglalt eltéréssel kell alkalmazni azzal, hogy felhasználó alatt a köznevelési foglalkoztatotti jogviszonyban állót, a digitális szolgáltatást biztosító szervezet alatt a munkáltatót, a fenntartó által gyakorolt munkáltatói jogok tekintetében a fenntartót kell érteni.
 
 (7) A köznevelésben foglalkoztatott köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A köznevelési foglalkoztatotti jogviszonyban álló e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
 
@@ -2959,7 +2959,7 @@ együttes összege azzal, hogy annak az érintettnek, akinek a havi illetménye,
 
 (1) A 2024. január 1-jén már folyamatban lévő próbaidő a jogviszony létesítésekor kikötött időtartamban áll fenn.
 
-(2) Az a pedagógus, akinek esetében 2024. január 1-jén az öregségi nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra, vagy 2024. január 1-je előtt jogszabály alapján életkorára tekintettel a pedagógus-továbbképzésben való részvétel alól mentesült, pedagógus-továbbképzésben történő részvételre nem kötelezhető.
+(2)
 
 (3) A 2024. január 1-jén fennálló és még be nem jelentett, engedélykötelessé vagy bejelentés kötelessé váló jogviszonyokról, tevékenységekről a köznevelési foglalkoztatotti jogviszonyban álló 30 napon belül köteles az engedélyt megkérni vagy a bejelentést megtenni.
 

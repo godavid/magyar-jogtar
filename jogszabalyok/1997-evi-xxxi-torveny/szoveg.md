@@ -1609,7 +1609,7 @@ feltéve, ha a szolgáltató, intézmény rendelkezik az ehhez szükséges – j
 
 ### Az ellátás tartalma
 
-45. § (1) A gyermekek átmeneti gondozása keretében – kivéve, ha a gyermek átmeneti gondozását családok átmeneti otthona biztosítja – a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, lakhatásáról (a továbbiakban: teljes körű ellátás) kell gondoskodni.
+45. § (1) A gyermekek átmeneti gondozása keretében – kivéve, ha a gyermek átmeneti gondozását családok átmeneti otthona biztosítja, vagy ha az 50/B. § (3) bekezdése szerinti eset áll fenn – a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, lakhatásáról (a továbbiakban: teljes körű ellátás) kell gondoskodni.
 
 (2) A gyermekek átmeneti gondozását – a szülői felügyeletet gyakorló szülő vagy más törvényes képviselő (a továbbiakban együtt: szülő) kérelmére vagy belegyezésével – ideiglenes jelleggel, teljes körű ellátással kell biztosítani, ha a szülő egészségi állapota, életvezetési problémája, indokolt távolléte vagy más akadályoztatása miatt a gyermek nevelését a családban nem tudja megoldani, vagy utógondozói ellátásban részesül. A fogyatékos gyermek számára a különleges szükségleteihez igazodó ellátást kell biztosítani.
 
@@ -1704,13 +1704,19 @@ feltéve, ha a szolgáltató, intézmény rendelkezik az ehhez szükséges – j
 
 (2) A gyermekek átmeneti otthona segítséget nyújt – a gyermekjóléti szolgálattal együttműködve – a gyermek családjába történő visszatéréséhez.
 
-(3) A gyermekek átmeneti otthona legalább tizenkettő, de legfeljebb negyven gyermek teljes körű ellátását biztosítja.
+(3) A gyermekek átmeneti otthona legalább tizenkettő, de legfeljebb negyven gyermek és felnőtt ellátását biztosítja.
 
-(4) Az átmeneti lakásotthon olyan otthon, amely legfeljebb tizenkettő gyermek átmeneti gondozását biztosítja önálló lakásban, családias körülmények között.
+(4) Az átmeneti lakásotthon olyan otthon, amely legfeljebb tizenkettő gyermek és felnőtt ellátását biztosítja önálló lakásban, családias körülmények között.
 
 (5) A gyermekek átmeneti otthona önálló helyettes szülőt vagy helyettes szülői hálózatot működtethet és ebben az esetben ellátja az ezzel kapcsolatos – a 49. § (4) bekezdésében meghatározott – feladatokat. Az átmeneti otthon által foglalkoztatott helyettes szülők az átmeneti otthoni férőhely felének megfelelő létszámú gyermek teljes körű ellátását biztosíthatják.
 
 50/A. § A gyámhatóság a családjában nevelkedő, emberkereskedelem áldozatává vált gyermeket, ideértve azt a gyermeket is, aki esetében fennáll a veszélye annak, hogy emberkereskedelem áldozata, a védelembe vételével egyidejűleg, a szülő vagy más törvényes képviselő kérelmére legfeljebb hat hónapra elhelyezi az emberkereskedelem áldozatává vált gyermekek ideiglenes befogadására kijelölt, speciális terápiás ellátást biztosító gyermekek átmeneti otthonában. Az elhelyezés az intézményvezető javaslatára és a szülő vagy más törvényes képviselő kérelmére további hat hónappal meghosszabbítható.
+
+50/B. § (1) A gyermekek átmeneti otthonában kivételesen, ha a gyermek életkora, ellátási szükséglete azt indokolja, a gyermek otthontalanná vált szülője is elhelyezhető.
+
+(2) A gyermekek átmeneti otthona – a (3) bekezdésben foglalt kivétellel – a szülő és a gyermek együttes ellátása során teljes körű ellátást biztosít.
+
+(3) A szülő kérésére az elhelyezett gyermek és szülő számára a gyermekek átmeneti otthona szükség szerinti ellátást biztosíthat, ha ehhez az intézmény tárgyi feltételei adottak és azt a szülő körülményei lehetővé teszik.
 
 ### Családok átmeneti otthona
 
@@ -1829,7 +1835,15 @@ a területi gyermekvédelmi szakszolgálat támogatásával, különösen csalá
 
 53/A. § (1) A gyámhatóság által elrendelt utógondozói ellátás keretében a fiatal felnőtt számára utógondozást és szükség szerinti ellátást kell biztosítani.
 
-(2) Az utógondozói ellátást a nevelőszülő a nevelőszülői hálózat közreműködésével, a gyermekotthon, az utógondozó otthon vagy az általuk, illetve a területi gyermekvédelmi szakszolgálat által működtetett, lakhatást nyújtó külső férőhely, különösen albérlet vagy egyéb hely (a továbbiakban: külső férőhely) biztosítja.
+(2) Az utógondozói ellátást
+
+- a) a nevelőszülő a nevelőszülői hálózat közreműködésével,
+- b) a gyermekotthon,
+- c) az utógondozó otthon,
+- d) a nevelőszülői hálózat, a gyermekotthon, az utógondozó otthon vagy a területi gyermekvédelmi szakszolgálat által működtetett, lakhatást nyújtó külső férőhely vagy
+- e) a fiatal felnőtt tulajdonában álló vagy általa bérelt ingatlanban működő külső férőhely [a d) és e) pontban foglaltak a továbbiakban együtt: külső férőhely]
+
+biztosítja.
 
 (3) Az utógondozói ellátást nyújtó és a fiatal felnőtt az utógondozói ellátás konkrét formájáról, módjáról és mértékéről a külön jogszabályban foglaltak szerint megállapodást köt.
 
@@ -1858,7 +1872,7 @@ a területi gyermekvédelmi szakszolgálat támogatásával, különösen csalá
 
 (3a)
 
-(4) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (1) bekezdésben meghatározott gyermeklétszámtól – a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit szabályozó kormányrendeletben foglaltak szerint – el lehet térni. Az eltérés feltétele ideiglenes hatállyal elhelyezett gyermek esetén a területi gyermekvédelmi szakszolgálat, nevelésbe vett gyermek esetén a gyermekvédelmi gyám hozzájárulása.
+(4) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (1) bekezdésben meghatározott gyermeklétszámtól – a szükséges személyi és tárgyi feltételek megléte esetén – el lehet térni. Az eltérés feltétele ideiglenes hatállyal elhelyezett gyermek esetén a területi gyermekvédelmi szakszolgálat, nevelésbe vett gyermek esetén a gyermekvédelmi gyám hozzájárulása.
 
 55. § (1) A nevelőszülő – egyéni gondozási-nevelési terv alapján – a saját háztartásában nyújt teljes körű ellátást az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermeknek.
 
@@ -3272,7 +3286,7 @@ látja el.
 
 (6) Az utógondozói ellátás ismételten elrendelhető az (1) bekezdésben meghatározott ok fennállása esetén, legfeljebb a (2) bekezdésben meghatározott időtartamig.
 
-(7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b), c), e) és f) pontjában foglaltak miatt került sor és a megszüntető határozat véglegessé válásától számítva egy év még nem telt el.
+(7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b), c), és e)–g) pontjában foglaltak miatt került sor és a megszüntető határozat véglegessé válásától számítva egy év még nem telt el.
 
 (8) Az (1) bekezdés a) és c) pontjában meghatározott ok alapján elrendelt utógondozói ellátásban részesülő munkaképes fiatal felnőtt köteles az állami foglalkoztatási szervvel együttműködni.
 
@@ -3292,6 +3306,7 @@ látja el.
 - d) azt kéri,
 - e) az (1) bekezdés b) pontja alapján elrendelt utógondozói ellátás esetén a tanulmányi vagy vizsgakötelezettségét önhibájából nem teljesíti,
 - f) az ellátás megállapításáról szóló gyámhatósági határozat közlésétől számított 15 napon belül az ellátást nem vette igénybe és ennek okáról önhibájából nem értesítette az ellátást nyújtót.
+- g) az ellátás igénybevételéről szóló megállapodásban foglaltakat súlyosan megszegi.
 
 ## NEGYEDIK RÉSZ — A GYERMEKVÉDELMI FELADATOK
 
@@ -4112,7 +4127,7 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
   - ai) áldozattá válásának körülményeire vonatkozó, a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (a továbbiakban: Ást.) 16. § (2) bekezdés a)–c) pontjában meghatározott,
   - aj) fényképére, a róla készített mozgóképre vonatkozó,
   - ak) hátrányos vagy halmozottan hátrányos helyzetére vonatkozó;
-- b) a szülő, törvényes képviselő, befogadó szülő
+- b) a szülő, törvényes képviselő, befogadó szülő, bántalmazott személy, várandós anya
   - ba) személyazonosító, és a társadalombiztosítási azonosító jelére vonatkozó,
   - bb) vagyoni helyzetére, munkahelyére, iskolai végzettségére, kapcsolataira vonatkozó,
   - bc) gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó,
@@ -4175,6 +4190,7 @@ vonatkozó adatokat kezelhet.
 - a) a nevelőszülőnek jelentkező személy személyazonosító adatait, társadalombiztosítási azonosító jelét és a nevelőszülői tevékenység ellátására való alkalmassága vizsgálatára vonatkozó adatokat,
 - b) a nevelőszülőnek a (2) bekezdés b) pontjában foglalt adatain túl a nevelőszülői tevékenység ellátására való alkalmassága vizsgálatára és felülvizsgálatára vonatkozó adatokat,
 - c) a nevelőszülőnek jelentkező személlyel és a nevelőszülővel egy háztartásban élő személyek személyazonosító adatait, a gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó adatait és azon egészségi állapotra vonatkozó adatait, amelyek kihatással lehetnek a gyermek ellátására.
+- d) a nevelőszülőnek jelentkező személy és a nevelőszülő háztartására, a feladatellátás helyszínéül szolgáló ingatlanára és az arról készített fényképre vonatkozó adatot.
 
 (5) A gyermekvédelmi gondoskodás biztosítása, a gyermek örökbefogadásának elősegítése, utánkövetése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából a területi gyermekvédelmi szakszolgálat és a gyámhatóság kezeli
 
@@ -4212,13 +4228,15 @@ vonatkozó adatokat kezelhet.
 
 (6c) A Gyermekeink védelmében elnevezésű informatikai rendszerbe bekerülő (2) bekezdés a)–c) pontja és az (5) bekezdés szerinti személyek azonosítása, adatainak ellenőrzése céljából a kincstár a Tbj. 57. § (1) bekezdése szerinti nyilvántartásából átadja a Gyermekeink védelmében elnevezésű informatikai rendszer számára a Tbj. 57. § (2) bekezdés a)–i) és o) pontja szerinti adatokat.
 
-(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, nyomozó hatóság, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
+(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, rendőrség, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
 
 - a) az az adott gyermekre tartalmaz-e adatot,
 - b) ha az adott gyermekre tartalmaz adatot, akkor ki a gyermek törvényes képviselője, és ha van rá adat,
   - ba) a gyermek szülőjének, családbafogadó gyámjának a lakcímét, elérhetőségét,
   - bb) a gyermek gyermekvédelmi gyámjának és az utógondozói ellátásban részesülő fiatal felnőtt hivatásos gondnokának a hivatalos elérhetőségét, és
 - c) a gyermek ügyében mely gyermekjóléti, gyermekvédelmi szolgáltató és gyámhatóság jár vagy járt el.
+
+(6e) A nevelőszülői hálózatnak a szolgáltatói nyilvántartásba történő bejegyzés és adatmódosítás iránti kérelme benyújtása céljából e kérelmeknek a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendeletben meghatározott kötelező adattartalmát a nevelőszülői hálózat fenntartója a Gyermekeink védelmében elnevezésű informatikai rendszer nevelőszülői alkalmassági alrendszeréből átadja a működést engedélyező szerv részére.
 
 (7) Gyámhatóság, a gyermekjóléti központ vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(5) bekezdésében meghatározott szolgáltatások, ellátások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő központ tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
 
@@ -5249,7 +5267,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 164. § A 2014. január 1-jét megelőzően nevelésbe vett gyermek gondozási helyét kizárólag a nevelőszülői vagy a hivatásos nevelőszülői jogviszonynak nevelőszülői foglalkoztatási jogviszonnyá történő átalakulása miatt nem lehet megváltoztatni.
 
-165. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 54. § (1) bekezdés f) pontjában foglaltak – a (2) bekezdésben foglalt kivétellel – 2025. december 31-ét követően követelhetők meg a nevelőszülői foglalkoztatási jogviszonyban álló személytől. 2025. december 31-ig a nevelőszülői tevékenység ellátásához – az egyéb feltételek fennállása esetén – elegendő a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyam eredményes elvégzése vagy az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés „Befogadott gyermek ellátásának alapfeladatai” követelménymodul záróvizsgájának sikeres letétele.
+165. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény, a sportról szóló 2004. évi I. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2014. évi CI. törvénnyel megállapított 54. § (1) bekezdés f) pontjában foglaltak – a (2) bekezdésben foglalt kivétellel – 2027. december 31-ét követően követelhetők meg a nevelőszülői foglalkoztatási jogviszonyban álló személytől. 2027. december 31-ig a nevelőszülői tevékenység ellátásához – az egyéb feltételek fennállása esetén – elegendő a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyam eredményes elvégzése vagy az Országos Képzési Jegyzékben szereplő nevelőszülő szakképesítés „Befogadott gyermek ellátásának alapfeladatai” követelménymodul záróvizsgájának sikeres letétele.
 
 (2) Mentesül az 54. § (1) bekezdés f) pontjában meghatározott képesítési előírások teljesítése alól az a személy, aki 2013. december 31-én
 

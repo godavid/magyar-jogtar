@@ -1358,13 +1358,13 @@ gazdálkodó szervezet.
 
 (6) Arra az (1) bekezdés o) pontja szerinti gazdálkodó szervezetre, amelynek szolgáltatásait a tárgyérvet megelőző évben legalább 50 000 természetes személy felhasználó vette igénybe, a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
 
-81. § (1) A digitális szolgáltatás biztosítására kötelezett szervezet a következő feltételeket köteles teljesíteni a 80. § (2)–(4) bekezdése alapján kötelezően biztosított, valamint az ezen felül igénybe vett digitális állampolgárság szolgáltatáshoz, valamint támogató szolgáltatáshoz kapcsolódóan:
+81. § (1) A digitális szolgáltatás biztosítására kötelezett szervezet a következő feltételeket köteles teljesíteni a 80. § (2)–(6) bekezdése alapján kötelezően biztosított, valamint az ezen felül igénybe vett digitális állampolgárság szolgáltatáshoz, valamint támogató szolgáltatáshoz kapcsolódóan:
 
 - a) a digitális állampolgárság szolgáltató által történő regisztráció elektronikus kapcsolattartás útján,
 - b) a digitális állampolgárság szolgáltató által meghatározott szolgáltatási feltételek elfogadása,
 - c) a digitális állampolgárság szolgáltató által meghatározott műszaki követelmények teljesítése,
 - d) az elektronikus információs rendszerei tekintetében a kiberbiztonsági követelményeknek való megfelelés teljesítése, és
-- e) a kormányrendeletben meghatározott mértékű szolgáltatási díj megfizetése a digitális állampolgárság szolgáltató részére.
+- e) igazgatási szolgáltatási díj megfizetése a digitális állampolgárság szolgáltató részére.
 
 (2) A 80. § (1) bekezdés a)–h), valamint o) pontja szerinti szervezet az (1) bekezdés d) pontja szerinti feltételt a Magyarország kiberbiztonságáról szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelés biztosításával, valamint kiberbiztonsági audit lefolytatásával teljesíti.
 

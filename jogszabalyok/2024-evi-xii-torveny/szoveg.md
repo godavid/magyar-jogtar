@@ -718,13 +718,7 @@ lép.
 
 #### 237. §
 
-238. § (1) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 80. § (1) bekezdése a következő o) ponttal kiegészülve lép hatályba:
-
-(Digitális szolgáltatás biztosítására kötelezett szervezetnek minősül)
-
-„o) az elektronikus hírközlésről szóló törvény szerinti, egyéni előfizetői szolgáltatást nyújtó elektronikus hírközlési szolgáltató.”
-
-(gazdálkodó szervezet.)
+238. § (1)
 
 (2)
 
@@ -742,30 +736,9 @@ lép.
 
 #### 245. §
 
-246. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 123. §-a a következő (3) bekezdéssel egészül ki:
+#### 246. §
 
-„(3) A 80. § (1) bekezdés o) pontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
-
-247. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény
-
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
-- g)
-- h)
-- i)
-- j) 80. § (1) bekezdés i) pontja a „pénzügyi szolgáltató” szövegrész helyett a „pénzügyi vállalkozás” szöveggel,
-- k)
-- l)
-- m)
-- n)
-- o)
-- p)
-
-lép hatályba.
+#### 247. §
 
 #### 248. §
 

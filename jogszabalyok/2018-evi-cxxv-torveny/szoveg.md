@@ -3142,6 +3142,7 @@ illetménynek megfelelő összeg.
 - h) a nemzetbiztonsági szolgálati jogviszonyban és nemzetbiztonsági alkalmazotti jogviszonyban töltött időt,
 - i) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban töltött időt
 - j) az egészségügyi szolgálati jogviszonyban töltött időt
+- k) a köznevelési foglalkoztatotti jogviszonyban töltött időt
 
 kell figyelembe venni.
 
@@ -5756,7 +5757,15 @@ azzal, hogy a jogutódlásra – az (5)–(12) bekezdésben foglaltak figyelembe
 
 (2) A Módtv9.-cel megállapított 182. § (2) bekezdés j) pontját a Módtv9. hatálybalépésekor fennálló önkéntes tartalékos szolgálati viszonyra is alkalmazni kell.
 
-#### 303. §
+#### 303. § [Átmeneti rendelkezés a TB-kiskönyv megszüntetéséről, valamint a köznevelési, szociális, gyermekvédelmi és fogyatékosságügyi területet érintő egyes törvények módosításáról szóló 2025. évi XXXIV. törvényhez]
+
+(1) A kormánytisztviselő szolgálati elismerésre való jogosultságának megállapítása során a TB-kiskönyv megszüntetéséről, valamint a köznevelési, szociális, gyermekvédelmi és fogyatékosságügyi területet érintő egyes törvények módosításáról szóló 2025. évi XXXIV. törvény (a továbbiakban: Módtv10.) hatálybalépése előtt köznevelési foglalkoztatotti jogviszonyban töltött időt is figyelembe kell venni.
+
+(2) Ha a 145. § (3) és (4) bekezdése alapján számított szolgálati idő elérte vagy meghaladta a szolgálati elismerésre jogosító – a 145. § (1) bekezdésében meghatározott – időt, a kormánytisztviselő jogosult a szolgálati elismerésnek az így megállapított szolgálati idő szerinti fokozatára.
+
+(3) A (2) bekezdés nem alkalmazható arra a kormánytisztviselőre, aki már megkapta a szolgálati elismerésnek a 145. § (3) és (4) bekezdése alapján számított fokozat szerinti összegét.
+
+(4) A (2) bekezdés szerinti szolgálati elismerés összegét a Módtv10. hatálybalépését követő 60 napon belül ki kell fizetni a kormánytisztviselő részére.
 
 #### 304. §
 
