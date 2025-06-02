@@ -108,6 +108,7 @@ a köznevelésért felelős miniszter, az igazgató megbízását vagy ahhoz ado
   - v) utazó gyógypedagógusi, utazó konduktori hálózat működtetése,
   - w) nemzetiségi alapfokú művészetoktatás,
   - x) kiegészítő nemzetiségi óvodai nevelés
+  - y) a 30/B. § szerinti gépjárművezetői elméleti tanfolyam és vizsga szervezése
 
 lehet,
 
@@ -138,6 +139,7 @@ lehet,
 - 31. tanítási év: ha e törvény, valamint e törvény felhatalmazása alapján a köznevelésért felelős miniszter rendelete másként nem rendelkezik, az iskolában minden év szeptemberének első munkanapjától számított, legalább száznyolcvan tanítási napig tartó szorgalmi időszak, az érettségi és a szakmai, képesítő vizsga évét kivéve,
 - 32. tanítási nap: az egyes osztályokban a tanítási órák, továbbá az iskola pedagógiai programjában rögzített, a tanítási órák keretében meg nem valósítható osztály- vagy csoportfoglalkozás, így különösen a tanulmányi kirándulás, környezeti nevelési program, a kulturális, sportrendezvény megtartására fordított nap, ha a foglalkozási órák száma eléri a hármat,
 - 32a. tanulmányi rendszer: a köznevelési intézmény rendeltetésszerű működéséhez, a szülői felelősséggel összefüggő döntési és felügyeleti jogok gyakorlásához, a nevelés-oktatás megszervezéséhez, a köznevelési intézmény iratkezelésének, továbbá pénzügyi, számviteli, bér- és humánügyviteli funkcióinak biztosításához vagy támogatásához, az elektronikus dokumentumok hiteles nyilvántartásához és változáskövetéséhez, a Digitális Kollaborációs Tér és e-ügyintézési funkcionalitások biztosításához, az intézmények – ide értve a pedagógusoknak és tanulóknak kiadott eszközöket is – leltáradatainak nyilvántartásához, a tanulók fizikai, egészségi állapotának és edzettségének mérésével kapcsolatos adatok nyilvántartásához, az EESZT kapcsolattal rendelkező iskola-egészségügyi funkcionalitás biztosításához, a tanulmányi rendszer üzemeltetője, a miniszter, a hatóság és a fenntartó általi közvetlen intézményi, tanulói, szülői, pedagógusi kommunikáció biztosításához, a pedagógusi munka objektív véleményezésének személyazonosításra alkalmatlan módon történő biztosításához, a pedagógusi munka értékeléséhez tartozó indikátorok biztosításához, a munkáltatói jogok gyakorlásához, illetve a köznevelési intézmény által foglalkoztatottak jogainak gyakorlásához, kötelezettségeik teljesítéséhez és az ezekhez kapcsolódó igazolások kiállításához, a jogszabályban meghatározott nyilvántartások vezetéséhez, a jogszabályban, illetve a köznevelési intézmény szervezeti és működési szabályzatában biztosított kedvezményekre való jogosultság megállapításához, elbírálásához és igazolásához, a zárt rendszerű elektronikus távolléti oktatás biztosításához, a közlekedési alapismeretek elméleti vizsgájának és az elsősegélynyújtási vizsga letételéhez szükséges alapismeretek elsajátításának biztosításához, az intézményi fogadóórák és szülői értekezletek megszervezéséhez, a felsőoktatási tanulmányi rendszerekkel integrált pályaválasztási támogatás biztosításához, a szabályozott és központi elektronikus ügyintézési szolgáltatások díjmentes eléréséhez, a gyermekétkeztetési szolgáltatás eléréséhez, a kollégiumi funkcionalitások biztosításához, az alapfokú művészetoktatási intézményekre vonatkozó funkcionalitások biztosításához, az egységes gyógypedagógiai módszertani intézményekre vonatkozó funkcionalitások biztosításához, valamint a köznevelési információs rendszerrel elektronikus úton való kapcsolattartáshoz a köznevelési intézmény által használt intézményi alaprendszer a moduljaival és a kapcsolódó rendszerekkel együtt, amelyet az állam díjmentesen biztosít és azt úgy szükséges kialakítani, hogy valamennyi felhasználói felülete és funkcionalitása magyar nyelven biztosítsa az egyenlő hozzáférést webes és natív applikáción keresztül diákoknak, szülőknek és pedagógusoknak egyaránt,
+- 32b. tanulmányi rendszer üzemeltetője: a tanulmányi rendszerrel kapcsolatos fejlesztéseket, funkcionális üzemeltetést, továbbá a jogszabályban vagy szerződésben meghatározott egyéb feladatokat ellátó szervezet vagy szervezetek;
 - 33. tanuló- és gyermekbaleset: minden olyan baleset, amely a gyermeket, a tanulót az alatt az idő alatt vagy tevékenység során éri, amikor a nevelési-oktatási intézmény felügyelete alatt áll,
 - 34. telephely: a székhelyen kívül működő feladatellátási hely,
 - 35. térségi feladat ellátása: térségi feladatot lát el a köznevelési intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több vármegyében, vagy a főváros határain kívül élők veszik igénybe,
@@ -183,7 +185,7 @@ tagozat,
 
 (6)
 
-(7) A szakgimnáziumban az iskolai nevelés-oktatásnak a szakképesítés megszerzésére felkészítő szakaszának tartalmi követelményeit az adott szakképesítés programkövetelménye és az annak alapján kiadott kerettanterv határozza meg, amelyet a köznevelésért felelős miniszter az általa vezetett minisztérium honlapján a 6. § (1a) bekezdésében meghatározott módon tesz közzé.
+(7) A szakgimnáziumban az iskolai nevelés-oktatásnak a szakképesítés megszerzésére felkészítő szakaszának tartalmi követelményeit az adott szakképesítés programkövetelménye és az annak alapján kiadott kerettanterv határozza meg, amelyet a köznevelésért felelős miniszter a 6. § (1a) bekezdésében meghatározott módon tesz közzé.
 
 (8)
 
@@ -542,7 +544,7 @@ szükséges.
 - a) az Szkt. szerinti szakmai oktatás, a felsőoktatás, a köz- és felsőoktatási kutatás, a közművelődés, a kultúra, a művészet, a könyvtár, a muzeális intézményi feladat, a sport,
 - b) minden olyan gyermekvédelmi, gyermekjóléti, szociális és egészségügyi ellátás, amely gyermekek, valamint tanköteles tanulók számára nyújtható.
 
-(8) A közös igazgatású köznevelési intézményben és az általános művelődési központban a nem köznevelési szolgáltatások körébe tartozó feladatok ellátására és irányítására, az ilyen feladatot ellátó intézményegység létesítésére, tevékenységének engedélyezésére a tevékenységre vonatkozó jogszabályokat kell alkalmazni azzal az eltéréssel, hogy az általános művelődési központ létrehozásakor és működésekor a 21–22. §-ban, 25. § (1), (4) bekezdésben, a 67. § (6)–(7) bekezdésben, a 69. § (1) bekezdésben, 83. § (3)–(4) bekezdésben foglaltakat valamennyi intézményegység tekintetében alkalmazni kell.
+(8) A közös igazgatású köznevelési intézményben és az általános művelődési központban a nem köznevelési szolgáltatások körébe tartozó feladatok ellátására és irányítására, az ilyen feladatot ellátó intézményegység létesítésére, tevékenységének engedélyezésére a tevékenységre vonatkozó jogszabályokat kell alkalmazni azzal az eltéréssel, hogy az általános művelődési központ létrehozásakor és működésekor a 21–22. §-ban, 25. § (1), (4) bekezdésben, a 69. § (1) bekezdésében, 83. § (3)–(4) bekezdésében, a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 37. § (1) bekezdésében, valamint jogszabályban foglaltakat valamennyi intézményegység tekintetében alkalmazni kell.
 
 (9) EGYMI a sajátos nevelési igényű gyermekek, tanulók többi gyermekkel, tanulóval együtt történő nevelésének, oktatásának segítése céljából hozható létre. Az intézmény keretén belül működnie kell kizárólag sajátos nevelési igényű gyermekeket, tanulókat ellátó óvodai, általános iskolai, fejlesztő nevelés-oktatást végző iskolai vagy középfokú iskolai feladatot ellátó intézményegységnek, továbbá utazó gyógypedagógusi, utazó konduktori hálózatnak vagy – a szakértői bizottsági feladatok kivételével – pedagógiai szakszolgálati feladatokat ellátó intézményegységnek. Az EGYMI elláthatja továbbá az iskola-egészségügyi ellátás és a gyógypedagógiai, konduktív pedagógiai eszközök és segédanyagok kölcsönzésének feladatait, valamint kollégiumot működtethet. Az EGYMI-ben ellátott feladatokra – az iskola-egészségügyi ellátás és a gyógypedagógiai, konduktív pedagógiai eszközök és segédanyagok kölcsönzése kivételével – külön-külön szervezeti és szakmai tekintetben önálló intézményegységeket kell létrehozni.
 
@@ -937,7 +939,7 @@ a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 38. § 
 - a) a pedagógiai programban és a házirendben a tanulók számára sajátos honvédelmi nevelési szempontok, szabályok és kötelezettségek érvényesíthetők,
 - b) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a pedagógusok, a nevelő-oktató munkát közvetlenül segítők számára a Magyar Honvédségben érvényesülő viselkedési és megjelenési szabályokat, jogokat, kötelességeket, kiképzési tevékenységet írhat elő, ezek megsértése miatt fegyelmi eljárás kezdeményezhető, továbbá a jogellenesen okozott kár megtérítésére sajátos szabályokat írhat elő,
 - c) a nevelő-oktató munka pedagógus-munkakörben, szolgálati viszonyban is ellátható,
-- d) a fenntartó pályáztatás és további eljárás nélkül is adhat igazgatói megbízást, nem kell alkalmazni a 67. § (7) bekezdésében foglaltakat,
+- d) a fenntartó pályáztatás és további eljárás nélkül is adhat igazgatói megbízást, nem kell alkalmazni a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 37. § (1) bekezdésében foglaltakat,
 - e) nem kell alkalmazni az osztály-, csoportlétszámokat meghatározó rendelkezéseket, a maximális létszámra vonatkozó rendelkezések kivételével,
 - f) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan jogszabályban e törvény szabályaitól el lehet térni,
 - g) országos feladatot ellátó intézménynek minősül,
@@ -1077,7 +1079,7 @@ továbbítható.
 
 (10) A köznevelési intézmény a nyilvántartott gyermek, tanuló, szülő, értesítendő hozzátartozó adatait a jogviszony megszűnésétől számított tíz évig, az alkalmazottak, óraadók adatait – ha törvény eltérő határidőt nem állapít meg – a jogviszony megszűnésétől számított öt évig őrzi és kezeli.
 
-(11) Ha törvény alapján a kiskorú gyermek, tanuló adatai a szülő részére továbbíthatóak, törvény eltérő rendelkezése hiányában a szülői felügyeleti jog gyakorlásától függetlenül az adatokat mindkét szülőnek továbbítani kell.
+(11) Ha törvény alapján a kiskorú gyermek, tanuló adatai mindkét szülő részére továbbíthatóak, a szülői felügyeleti jogát nem gyakorló külön élő szülő részére a (2) bekezdés c) és d) pontjában, valamint e) pont eb) alpontjában nyilvántartott adatokat kell továbbítani.
 
 (12) A (11) bekezdés szerinti adatok nem továbbíthatóak azon szülőnek, akinek a bíróság – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:175. § (1) bekezdése szerint – a gyermek sorsát érintő lényeges kérdésekben a szülői felügyeleti jogát korlátozta vagy megvonta.
 
@@ -1830,7 +1832,7 @@ fegyelmi büntetés szabható ki.
 - b)
 - c)
 - d)
-- e) a továbbképzési program elfogadásáról,
+- e) a pedagógus-továbbképzési intézményi program elfogadásáról,
 - f) a nevelőtestület képviseletében eljáró pedagógus kiválasztásáról,
 - g) a házirend elfogadásáról,
 - h) a tanulók magasabb évfolyamba lépésének megállapítása, a tanulók osztályozóvizsgára bocsátásáról,
@@ -2013,7 +2015,7 @@ illeti meg.
 - a) meghatározza
   - aa) a szakgimnáziumban, a szakiskolában, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzésben megszerezhető szakképesítéseket, szakmákat, részszakmákat,
   - ab) a szakgimnáziumi szakképesítések programkövetelményeit és kerettanterveit, valamint a szakiskolai szakképesítések kerettanterveit,
-  - ac) a szakgimnáziumi képesítővizsgák, a szakiskolai szakmai vizsgák és képesítő vizsgák, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsgáinak lebonyolítására jogosult, az Szkt. szerint akkreditált szakképzési vizsgaközpontokat,
+  - ac) a szakgimnáziumi képesítővizsgák, a szakiskolai szakmai vizsgák és képesítő vizsgák, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsgáinak lebonyolítására jogosult, az Szkt. szerint akkreditált szakképzési vizsgaközpontokat, amelyekkel megállapodást köt,
   - ad) a tanulókat megillető juttatások mértékét,
   - ae) a szakgimnáziumi képesítő vizsgatevékenység, a szakiskolai szakmaivizsga-tevékenység és képesítővizsga-tevékenység, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsga-tevékenységének feladatait,
 - b) gondoskodik az a) pont aa)–ae) alpontjában foglaltak közzétételéről.
@@ -2187,7 +2189,7 @@ vizsgálja, amely során az a)–d) pont szerinti feltételeket egyenként és �
 - d) meghatározza az adott nevelési évben indítható óvodai csoportok számát, az adott tanítási évben az iskolában indítható osztályok, a kollégiumban szervezhető csoportok számát,
 - e) ellenőrizheti a köznevelési intézmény gazdálkodását, működésének törvényességét, hatékonyságát, a szakmai munka eredményességét, nevelési-oktatási intézményben továbbá a gyermek- és ifjúságvédelmi tevékenységet, a tanuló- és gyermekbaleset megelőzése érdekében tett intézkedéseket; ha a fenntartó nem települési önkormányzat, a tanuló- és gyermekbalesetet jelenti a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnak,
 - f)
-- g) jóváhagyja a köznevelési intézmény SZMSZ-ét, pedagógiai programját, éves munkatervét, továbbképzési programját, tantárgyfelosztását,
+- g) jóváhagyja a köznevelési intézmény SZMSZ-ét, pedagógiai programját, éves munkatervét, pedagógus-továbbképzési intézményi programját, tantárgyfelosztását,
 - h) értékeli a nevelési-oktatási intézmény pedagógiai programjában meghatározott feladatok végrehajtását, a pedagógiai-szakmai munka eredményességét,
 - i) ellenőrzi a házirendet.
 - j) dönt a nevelési-oktatási intézmény munkáját átfogó elemzések, értékelések, beszámolók elfogadásáról.
@@ -2762,7 +2764,7 @@ kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje k
 
 alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de legkésőbb 2015. szeptember 1-ig az egyéb pszichés fejlődési zavart (súlyos tanulási, figyelem- vagy magatartásszabályozási zavart) is érteni kell.
 
-(10) A szakképzésről szóló 2011. évi CLXXXVII. törvény szerint indított kifutó képzések, valamint az Szkt. szerint indított szakiskolai és szakgimnáziumi képzések esetében a szakmai vizsgát, képesítő vizsgát 2025. december 31-éig az addig vizsgáztatást végző képzőintézményben is meg lehet szervezni azzal, hogy a vizsgaközpont alatt a képzőintézményt kell érteni.
+(10) A szakképzésről szóló 2011. évi CLXXXVII. törvény szerint indított kifutó képzések, valamint az Szkt. szerint indított szakiskolai és szakgimnáziumi képzések esetében a szakmai vizsgát, képesítő vizsgát 2027. december 31-éig az addig vizsgáztatást végző képzőintézményben is meg lehet szervezni azzal, hogy a vizsgaközpont alatt a képzőintézményt kell érteni.
 
 97. § (1) Azok a tanulók, akik tanulmányaikat az iskolai nevelés-oktatás kilencedik évfolyamán a 2011/2012. tanévben vagy azt megelőzően kezdték meg, tankötelezettségük azon tanítási év végéig tart, amelyben a tizennyolcadik életévüket betöltik vagy sikeres érettségi vizsgát vagy szakmai vizsgát tettek. Azon sajátos nevelési igényű tanulók tankötelezettsége, akik esetében a szakértői és rehabilitációs bizottság e törvény hatálybalépése előtt a tankötelezettség huszadik életévükig történő meghosszabbításáról döntött, annak a tanévnek a végéig tart, amelyben a huszadik életévüket betöltik.
 
@@ -2882,9 +2884,9 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 99/K. § (1) A szakképzésről szóló 2019. évi LXXX. törvény hatálybalépésével összefüggő módosító és hatályon kívül helyező rendelkezésekről szóló 2019. évi CXII. törvény (a továbbiakban: Szktmód.) hatálybalépését megelőző napon hatályos 9. § (8) bekezdése szerinti óvodapedagógiai program, kerettanterv alapján működő köznevelési intézmény a 2019. december 31-én hatályos, végleges működési engedélyében, valamint a köznevelésért felelős miniszter által kiadott vagy jóváhagyott óvodapedagógiai programban vagy iskolai kerettantervben foglaltak szerint változatlan formában folytathatja tevékenységét mindaddig, amíg a pedagógiai programban foglaltakat nem kívánja módosítani vagy erre jogszabály nem kötelezi. Ebben az esetben a fenntartónak kezdeményeznie kell a 9. § (8) bekezdése szerinti eljárást.
 
-(2) Az Szktmód. hatálybalépését követő 30 napon belül a köznevelési feladatokat ellátó hatóság az általa vezetett nyilvántartás alapján a köznevelésért felelős miniszternek átadja az (1) bekezdés szerinti köznevelési intézmények adatait, valamint az ezekre a köznevelési intézményekre vonatkozóan utoljára megadott és végleges működési engedély kiadmányát.
+(2)
 
-(3) Az Szktmód. hatálybalépésekor működő szakképző iskolára, az ilyen szakképző iskolában folyó nevelésre-oktatásra, a szakképző iskola pedagógusára és tanulójára e törvénynek és a szakképzésről szóló 2011. évi CLXXXVII. törvénynek az Szktmód. hatálybalépését megelőző napon hatályos rendelkezéseit – ha törvény eltérően nem rendelkezik – a 2019/2020. tanév utolsó napjáig alkalmazni kell. E rendelkezést kell alkalmazni a Köznevelési Hídprogram keretében folyó nevelés-oktatásra is.
+(3)
 
 (4) A szakgimnáziummal 2020. május 31-ét megelőzően létesített tanulói jogviszonyban álló tanuló szakmai vizsgájára a komplex szakmai vizsgáztatás szabályainak az Szktmód. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni. A vizsgabizottság elnökét és tagjait a köznevelésért felelős miniszter javaslatára a szakképzési államigazgatási szerv delegálja, a központi kiadású tételsor, a feladatközlő lap, a segédanyag és a javítási-értékelési útmutató elkészítéséről a köznevelésért felelős miniszter gondoskodik.
 
