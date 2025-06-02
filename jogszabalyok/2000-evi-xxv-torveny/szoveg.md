@@ -56,31 +56,11 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 #### 5. §
 
-### Bejelentés
+#### 6. §
 
-6. § (1) A veszélyes keverékeket – a (2) bekezdésben foglaltak kivételével – Magyarország területén gyártó, forgalmazó az azokkal kapcsolatos gyártási, forgalombahozatali tevékenység megkezdésével egyidejűleg, a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló miniszteri rendeletben foglaltak szerint, a biztonsági adatlap csatolásával köteles elektronikus úton bejelenteni az egészségügyi államigazgatási szervnek, ha a veszélyes keverék a terméknyilvántartásban még nem szerepel. A bejelentő köteles az általa bejelentett veszélyes keverék biztonsági adatlapjának változását és a forgalmazás megszüntetését is elektronikus úton jelenteni.
+#### 7. §
 
-(2) Az (1) bekezdésben foglaltaktól eltérően nem kell bejelenteni a kizárólag ellenőrzött körülmények között végzett kutatási vagy fejlesztési célra, kísérleti gyártásra és nem termelőüzemi méretű kipróbálásra gyártott, vagy forgalmazott veszélyes keverékeket. A magyarországi gyártó, és forgalmazó a rendelkezésre álló, a veszélyesség meghatározása, a tevékenységet végző egészségének biztonsága szempontjából lényeges adatokat és információkat ebben az esetben is köteles a tevékenységet végző rendelkezésére bocsátani. Minden olyan magyarországi gyártónak és forgalmazónak, amely a bejelentés mellőzésével élni kíván, az egészségügyi államigazgatási szerv által hozzáférhető írásbeli nyilvántartást kell vezetnie a gyártott, vagy forgalomba hozott veszélyes keverékről, a feliratozási és mennyiségi adatokról. A magyarországi gyártót, és forgalmazót a bejelentés mellőzésének lehetősége a gyártástól, vagy a forgalomba hozataltól vagy ezek megkezdésétől számított egy évig illeti meg, amely az egészségügyi államigazgatási szerv engedélyével egy évig meghosszabbítható, ha a magyarországi gyártó, és forgalmazó a meghosszabbítás szükségességét indokolja.
-
-(3) Az egyes fogyasztói, foglalkozásszerű vagy ipari felhasználásra szánt keverékek (1) bekezdés szerinti bejelentési kötelezettsége a CLP VIII. melléklet A. rész 1. pontjában, az adott felhasználásra vonatkozó alkalmazási időpontot követően megszűnik.
-
-7. § (1)–(2)
-
-(3)
-
-(4)
-
-### Veszélyes keverékek bejelentése
-
-8. § (1)
-
-(2)
-
-(3) A veszélyes keverékek bejelentésével kapcsolatosan megkövetelt adatok hitelességéért a bejelentő a felelős. Az egészségügyi államigazgatási szerv a veszélyes keverék egészségügyi kockázataira vonatkozóan – a biztonsági adatlap jogszabályban meghatározott adatkörében – további adatszolgáltatásra hívhatja fel a bejelentőt.
-
-(4)
-
-(5) A formai és tartalmi követelményeknek megfelelő bejelentést az egészségügyi államigazgatási szerv elektronikus úton visszaigazolja.
+#### 8. §
 
 ### Méregközpontba történő bejelentés
 
@@ -88,7 +68,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (2) Az (1) bekezdésnek megfelelő fogyasztói, foglalkozásszerű vagy ipari felhasználásra szánt keverékek bejelentését, valamint a bejelentés naprakésszé tételét a CLP VIII. melléklet A. rész 1. pontjában, az adott felhasználásra vonatkozó alkalmazási időpontot követően, a VIII. mellékletben meghatározott formai és tartalmi követelményeknek megfelelően kell benyújtani, az Európai Vegyianyag-ügynökség méregközpont értesítésének portálján keresztül.
 
-(3) A (2) bekezdésben foglaltaktól eltérően, az adott felhasználásra vonatkozó alkalmazási időpontot megelőzően is benyújtható a toxikológiai központi bejelentés a CLP VIII. mellékletében meghatározott formai és tartalmi követelményekkel a méregközpont értesítésének portálján keresztül. A toxikológiai központi bejelentéssel a bejelentőnek a 6. § szerinti veszélyeskeverék-bejelentési kötelezettségét is teljesítettnek kell tekinteni.
+(3)
 
 (4) A bejelentéssel kapcsolatosan megkövetelt adatok hitelességéért a bejelentő felelős.
 
@@ -172,13 +152,13 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 ### A veszélyes anyagok, illetve a veszélyes keverékek nyilvántartása, információ-szolgáltatás
 
-23. § (1) Az egészségügyi államigazgatási szerv a veszélyes keverékek terméknyilvántartása keretében gyűjti, feldolgozza és rendszerezi az ezekkel kapcsolatos toxikológiai, közegészségügyi és klinikai adatokat.
+23. § (1) Az egészségügyi államigazgatási szerv kezeli a 8/A. § szerinti méregközpontba történő bejelentés alkalmazását megelőzően benyújtott, veszélyes keverékekre vonatkozó adatokat.
 
-(2) Az egészségügyi államigazgatási szerv az (1) bekezdés szerinti nyilvántartást a bejelentett adatok alapján vezeti.
+(2)
 
-(3) Az egészségügyi államigazgatási szerv a veszélyes anyagokra, illetve a veszélyes keverékekre vonatkozó, általa nyilvántartott adatokról – a CLP 45. cikkével összhangban és a közérdekű adatok nyilvánosságára vonatkozó törvényi előírások szerint – megkeresésre felvilágosítást ad. Az egészségügyi államigazgatási szerv biztosítja az ezen adatokhoz történő folyamatos – napi 24 órás – hozzáférés lehetőségét.
+(3) Az egészségügyi államigazgatási szerv a veszélyes anyagokra, illetve a veszélyes keverékekre vonatkozó, általa kezelt adatokról – a CLP 45. cikkével összhangban és a közérdekű adatok nyilvánosságára vonatkozó törvényi előírások szerint – megkeresésre felvilágosítást ad. Az egészségügyi államigazgatási szerv biztosítja az ezen adatokhoz történő folyamatos – napi 24 órás – hozzáférés lehetőségét.
 
-(4) Az (1) bekezdés szerinti nyilvántartásban kezelt, mérgezésekkel kapcsolatos adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(4) A vegyi anyag okozta emberi mérgezésekkel kapcsolatos adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (5) A Magyarország területén előforduló bármilyen eredetű, vegyi anyag okozta emberi mérgezési esetet az egészségügyért felelős miniszter által meghatározott módon az egészségügyi államigazgatási szervhez be kell jelenteni.
 
@@ -339,7 +319,7 @@ részletes szabályait rendeletben meghatározza.
   - ad) a csomagolás, a feliratozás (címkézés) részletes szabályait,
   - ae)
   - af) a vegyi anyagok okozta mérgezési esetek kötelező bejelentésének szabályait,
-  - ag) az osztályba sorolt veszélyes anyagok jegyzékbe vételének, a veszélyes keverékek nyilvántartásának rendjét, valamint a jegyzék közzétételére és rendszeres felülvizsgálatára vonatkozó részletes szabályokat,
+  - ag)
   - ah) a veszélyes anyagokkal és a veszélyes keverékekkel végzett tevékenység előzetes bejelentésének, a bejelentési eljárásnak a részletes szabályait,
   - ai) a veszélyes anyagok és a veszélyes keverékek teljes életciklusára vonatkozó, a kémiai biztonsággal kapcsolatos helyes laboratóriumi gyakorlat alkalmazásának és ellenőrzésének részletes szabályait,
   - aj) a hazai és a nemzetközi adatok fogadásáért és feldolgozásáért felelős Információs Központot működtető szervet és a REACH, valamint a CLP végrehajtásáért felelős szervet rendeletében kijelölje, valamint a magyarországi illetékes (kompetens) nemzeti hatóságnak az Európai Bizottsággal való kapcsolattartásának rendjét,

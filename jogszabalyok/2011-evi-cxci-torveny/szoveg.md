@@ -12,7 +12,7 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 
 - 1. egészségi állapot: az egyén fizikai, mentális, szociális jóllétének betegség, illetve sérülés után kialakult vagy veleszületett rendellenesség következtében fennálló tartós vagy végleges kedvezőtlen változásait (a továbbiakban: egészségkárosodás) figyelembe véve meghatározott állapot;
 - 2. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
-- 3. havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, a 2020. július 1-jét megelőző időszakra a pénzbeli egészségbiztosítási járulék, a 2020. július 1-jétől kezdődő időszakra a társadalombiztosítási járulék (a továbbiakban együtt: társadalombiztosítási járulék) alapját képező jövedelem (a továbbiakban: jövedelem) napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a referencia-időszak kezdő időpontját követően szerzett, a kérelem benyújtásának napját megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa; ha a jogosult amiatt nem rendelkezik 180 naptári napi jövedelemmel, mert a vizsgált időszakban vagy ennek egy részében táppénzben, baleseti táppénzben részesült, ha az számára kedvezőbb, a táppénzt, baleseti táppénzt megelőző 180 naptári napi jövedelmet kell figyelembe venni;
+- 3. havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, a 2020. július 1-jét megelőző időszakra a pénzbeli egészségbiztosítási járulék, a 2020. július 1-jétől kezdődő időszakra a társadalombiztosítási járulék (a továbbiakban együtt: társadalombiztosítási járulék) alapját képező jövedelem (a továbbiakban: jövedelem) napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a referencia-időszak kezdő időpontját követően szerzett, a kérelem benyújtásának napját megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa; ha a jogosult amiatt nem rendelkezik 180 naptári napi jövedelemmel, mert a vizsgált időszakban vagy ennek egy részében táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban vagy örökbefogadói díjban részesült, ha az számára kedvezőbb, a táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat vagy örökbefogadói díjat megelőző 180 naptári napi jövedelmet kell figyelembe venni;
 - 4. keresőtevékenység: a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti kereső tevékenység azzal, hogy
   - a) az egyéni vállalkozó és társas vállalkozó tevékenysége azon időszakban minősül keresőtevékenységnek, amelyben a biztosítása e jogviszony alapján a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint fennáll, ide nem értve a biztosítás szünetelésének esetét,
   - b) az uniós rendeletek hatálya alá tartozó személy esetén az EGT-államban, a szociális biztonsági tárgyú nemzetközi egyezmény hatálya alá tartozó személy esetén az egyezményben részes államban – a jogosult nyilatkozata vagy az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – fennálló keresőtevékenység is keresőtevékenységnek minősül;
@@ -246,7 +246,7 @@ meghatározott összeg 65 százaléka.
 
 #### 5. A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályok
 
-14. § (1) A megváltozott munkaképességű személyek ellátásait a rehabilitációs hatóságnál az erre rendszeresített nyomtatványon vagy elektronikus űrlapon lehet kérelmezni. Az ellátásra való jogosultságot megállapító, vagy az egészségi állapotra tekintettel hozott elutasító döntés véglegessé válását vagy jogerőre emelkedését követő 12 hónapon belül előterjesztett újabb kérelmet csak akkor kell elbírálni, ha a rendelkezésre álló egészségügyi dokumentáció alapján megállapítható, hogy a kérelmező egészségi állapotában a korábbi döntésben még figyelembe nem vett tartós változás következett be.
+14. § (1) A megváltozott munkaképességű személyek ellátásait a rehabilitációs hatóságnál az erre rendszeresített nyomtatványon vagy elektronikus űrlapon lehet kérelmezni. Az ellátásra való jogosultságot megállapító, vagy az egészségi állapotra tekintettel hozott elutasító döntés véglegessé válását követő 12 hónapon belül előterjesztett újabb kérelmet csak akkor kell elbírálni, ha a rendelkezésre álló egészségügyi dokumentáció alapján megállapítható, hogy a kérelmező egészségi állapotában a korábbi döntésben még figyelembe nem vett tartós változás következett be.
 
 (1a) Ha a megváltozott munkaképességű személyek ellátásában részesülő személy az ellátásra való jogosultságot megállapító döntés véglegessé válását követően újabb kérelmet terjeszt elő, azt a 19. § (1) bekezdés b) pontja szerinti felülvizsgálat iránti kérelemnek kell tekinteni.
 
@@ -320,7 +320,7 @@ tart.
 
 - a) az ellátást megállapító döntésben meghatározott időpontban,
 - b) az ellátott kérelmére,
-- c) a rehabilitációs ellátásban részesülő egészségi állapotában történt, a rehabilitációt lehetetlenné tevő tartós rosszabbodás vagy legalább 60 napi egybefüggő keresőképtelen állapot esetén,
+- c) a rehabilitációs ellátásban részesülő egészségi állapotában történt, a rehabilitációt lehetetlenné tevő tartós rosszabbodás vagy legalább 90 napi egybefüggő keresőképtelen állapot esetén,
 - d) olyan tényről vagy körülményről történő tudomásszerzés esetén, amely valószínűsíti, hogy a korábbi komplex minősítés során megállapított körülmény nem áll fent (rendkívüli felülvizsgálat), vagy
 - e) célzott vizsgálatok elrendelése esetén.
 
@@ -433,11 +433,11 @@ az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet
 
 vonatkozó adatokat kezelheti.
 
-(2) A megváltozott munkaképességű személyek ellátásai folyósításának és a megszüntetési ok fennállásának vizsgálata céljából az állami adóhatóság az Art. szerinti havi adó- és járulékbevallás alapján az ellátásban részesülő jövedelmére vonatkozó adatokat havonta, a bevallásra előírt határidőt követő hónap utolsó napjáig továbbítja a rehabilitációs hatósághoz. A rehabilitációs hatóság az adóazonosító jelet az e bekezdés, valamint a 14. § (3) bekezdés szerinti adatok átvételével összefüggésben használhatja.
+(2)
 
 (3) A bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a gyámügyi feladatokat ellátó szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
 
-(3a) Az állami foglalkoztatási szerv, a munkaügyi és munkavédelmi hatóság, a családtámogatási ellátásokat megállapító szerv, az egészségbiztosítási szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel jogosult az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – lekérdezésére. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
+(3a) Az állami foglalkoztatási szerv, a munkaügyi és munkavédelmi hatóság, a családtámogatási ellátásokat megállapító szerv, az egészségbiztosítási szerv a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus információelérési felületen keresztüli hozzáféréssel jogosult az (1) bekezdés a) pont ad) alpontjában és c) pontjában meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – lekérdezésére. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
 
 (4) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
 
@@ -518,7 +518,7 @@ vonatkozó adatokat kezelheti.
 - e) az akkreditált munkaadó adatait az akkreditált munkaadói minősítése megszűnését követő 5 év elteltével,
 - f) a nem akkreditált munkaadó adatait, amennyiben ezt kéri, de legkésőbb az adatfelvételt követő 5 év elteltével.
 
-(4) Az akkreditált munkaadó az Flt. 8. § (6) bekezdés b) pontjában meghatározott – a megváltozott munkaképességű személyek foglalkoztatására irányuló – munkaerőigény bejelentésével kapcsolatos kötelezettségét a rehabilitációs hatóság felé teljesíti.
+(4) Az akkreditált munkaadó a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 3. § (3) bekezdésében meghatározott – a megváltozott munkaképességű személyek foglalkoztatására irányuló – munkaerőigény bejelentésével kapcsolatos kötelezettségét a rehabilitációs hatóság felé teljesíti.
 
 (5) E § alkalmazása során megváltozott munkaképességű személynek kell tekinteni a fogyatékossági támogatásban vagy a vakok személyi járadékában részesülő személyt is.
 
@@ -551,7 +551,7 @@ a megváltozott munkaképességű személyek ellátásait folyósító szerv hiv
 
 (8) Az ellátást folyósító szerv a polgári nemzetbiztonsági szolgálat tájékoztatása alapján szerez tudomást arról, hogy kinek a részére állapítottak meg a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátást, továbbá arról, ha ezen ellátások megszűntek.
 
-21/E. § A rehabilitációs hatóság a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § d) és u) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
+21/E. § A rehabilitációs hatóság a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § 4. pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 #### 7. A rehabilitációs hozzájárulás és a megváltozott munkaképességű személyek foglalkoztatásának támogatása
 
