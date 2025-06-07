@@ -633,7 +633,7 @@ ha azt nem a bejelentés előterjesztésére jogosult központi azonosítási ü
 
 (4) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben meghatározza a fegyvertartáshoz, illetve a fegyver jogszerű használatához szükséges egészségi alkalmasság feltételeit és vizsgálatának szabályait.
 
-(5) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben rendeletben:
+(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a kereskedelemért felelős miniszterrel egyetértésben rendeletben:
 
 - a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásához szükséges megelőző és időszakos megvizsgálásának szabályait;
 - b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet, valamint meghatározza az (1a) bekezdés szerinti nemzeti kapcsolattartó pontként kijelölt szervezet által ellátandó feladatokat;
