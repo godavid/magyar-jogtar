@@ -881,7 +881,7 @@ függetlenül attól, hogy a nemzetbiztonsági állomány tagja, volt tagja hán
 
 - a) jogellenes magatartásával,
 - b) alkohol- vagy kábítószer-függőségével, vagy ezek fogyasztásával,
-- c) önhibájából eredő ittas állapotával, kábítószer vagy bódító hatású anyag miatti tudatzavarával vagy belátási képességének csökkenésével,
+- c) önhibájából eredő ittas állapotával vagy kábítószer miatti tudatzavarával vagy belátási képességének csökkenésével,
 - d) vezetői engedély vagy más szükséges hatósági engedély nélküli, ittas vagy bódult állapotban történő járművezetéssel,
 - e) önkárosító magatartásával,
 - f) valamely foglalkozási szabályt szándékosan vagy súlyosan gondatlanul megszegő magatartásával,
@@ -1257,7 +1257,7 @@ illetménynek megfelelő összeg.
 
 - a) Magyarország nemzetbiztonsági érdekeit minden törvényes eszközzel érvényesíteni és – ha kell, élete árán is – megvédeni,
 - b) az előírt helyen és időben, szolgálatképes állapotban megjelenni, ezt az állapotot a szolgálat teljes ideje alatt fenntartani és feladatát teljesíteni, valamint e célból rendelkezésre állni,
-- c) a szolgálatképes állapot megállapítása érdekében a befolyásoltság kiszűrése céljából az alkohol, a kábítószer vagy pszichotróp anyag fogyasztásának ellenőrzését célzó, műtétnek nem minősülő vizsgálatnak magát alávetni a miniszter által rendeletben meghatározott szabályok szerint,
+- c) a szolgálatképes állapot megállapítása érdekében a befolyásoltság kiszűrése céljából az alkohol vagy a kábítószer fogyasztásának ellenőrzését célzó, műtétnek nem minősülő vizsgálatnak magát alávetni a miniszter által rendeletben meghatározott szabályok szerint,
 - d) a szolgálati beosztásából eredő, valamint – a rendes szolgálatteljesítési idején belül külön ellentételezés nélkül – a szolgálati beosztásához nem tartozó, a végzettsége, szakképesítése, szakmai képesítése alapján részére a foglalkoztató szervezeti egység feladatkörén belül meghatározott szolgálati feladatait a törvényes előírásoknak, az utasításoknak és intézkedéseknek megfelelően – szükség esetén a veszély vállalásával –, az elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan végrehajtani,
 - e) a munkatársaival együttműködni, munkáját úgy végezni és általában olyan magatartást tanúsítani, hogy az – kivéve, ha ez a feladat végrehajtásával elkerülhetetlenül együtt jár – más egészségét, testi épségét ne veszélyeztesse, anyagi károsodását ne idézze elő,
 - f) munkatársaival az emberi méltóság és a függelmi viszonyok tiszteletben tartásával érintkezni,
@@ -1715,7 +1715,7 @@ azzal, hogy a szülési szabadság időtartama a szülést követően 6 hétnél
 
 (4) Ha a gyermeket a koraszülöttek ápolására fenntartott intézetben gondozzák, a szülési szabadság igénybe nem vett részét – a szülést követő 1 évig – a gyermeknek az intézetből történt elbocsátása után is igénybe lehet venni.
 
-(5) A szülési szabadság tartamára illetmény jár. A szülési szabadság idejére járó illetmény személyi jövedelemadóval és a nemzetbiztonsági állomány tagját terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint az Ebtv. szerinti csecsemőgondozási díj személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított – naptári napi összegének a 30-szorosa.
+(5) A szülési szabadság tartamára illetmény jár. A szülési szabadság idejére járó illetmény személyi jövedelemadóval és a nemzetbiztonsági állomány tagját terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint az Ebtv. szerinti csecsemőgondozási díj naptári napi összegének a 30-szorosa.
 
 #### 61. Apasági szabadság
 
@@ -1907,6 +1907,8 @@ kell folyósítani.
 133. § (1) A nemzetbiztonsági állomány tagját illetményén felül és közeli hozzátartozóikat megillető költségtérítések, kedvezmények és támogatások rendszerét a miniszter rendeletben állapítja meg.
 
 (2) Az (1) bekezdés szerinti miniszteri rendeletben meghatározottakon túl a miniszter jóváhagyásával a főigazgató közjogi szervezetszabályozó eszközben további költségtérítéseket, kedvezményeket és támogatásokat állapíthat meg, azok fajtájának, mértékének, feltételeinek, kifizetése és elszámolása rendjének meghatározásával.
+
+(2a) Ha a főigazgató közjogi szervezetszabályozó eszközben, az általa meghatározott követelményeknek megfelelő ruházat beszerzése érdekében a nemzetbiztonsági állomány tagja részére – költségtérítésként – öltözködési támogatást biztosít, az öltözködési támogatás a személyi jövedelemadó szempontjából természetbeni juttatásként kiadott munkaruházatnak minősül.
 
 (3) A nemzetbiztonsági állomány tagja részére nyújtott, visszatérítendő támogatás esetében a főigazgató kivételesen, rendkívüli méltánylást érdemlő esetben elengedheti a visszafizetési kötelezettség teljesítését. A vissza nem fizetett támogatás adóköteles jövedelemnek minősül.
 
@@ -2371,7 +2373,7 @@ továbbítható.
 
 (6) A polgári nemzetbiztonsági szolgálat az (1) bekezdésben meghatározott célból az egészségi vagy pszichológiai állapotra vonatkozó vizsgálati adatot, egészségügyi adatot a szolgálati viszony megszűnését követő 10. év december 31-ig kezeli. Ha a szolgálati viszony létesítésére nem kerül sor, a szolgálati viszony létesítését célzó alkalmassági vizsgálat során az egészségi és pszichológiai állapotra vonatkozóan keletkezett vizsgálati adatot vagy egészségügyi adatot a vizsgálattól számított 2 éven belül meg kell semmisíteni.
 
-(7) Ha az alkalmassági vizsgálatot végző orvos, pszichológus a vizsgálat során kábítószer vagy pszichotróp anyag fogyasztására utaló körülményeket észlel, arról – kizárólag a felmerült gyanú tényének közlésével – a nemzetbiztonsági állomány tagjának munkáltatói jogkör gyakorlóját köteles értesíteni. A munkáltatói jogkör gyakorlója az így tudomására jutott egészségügyi adatot is kezeli.
+(7) Ha az alkalmassági vizsgálatot végző orvos, pszichológus a vizsgálat során kábítószer fogyasztására utaló körülményeket észlel, arról – kizárólag a felmerült gyanú tényének közlésével – a nemzetbiztonsági állomány tagjának munkáltatói jogkör gyakorlóját köteles értesíteni. A munkáltatói jogkör gyakorlója az így tudomására jutott egészségügyi adatot is kezeli.
 
 (8) A 84. § (1) bekezdés c) pontja szerinti vizsgálat során keletkezett adatok kizárólag fegyelmi, büntető-, érdemtelenségi vagy kártérítési eljárás során használhatóak fel. Abban az esetben, ha a vizsgálat befejezését követő 90 napon belül fegyelmi, büntető-, érdemtelenségi vagy kártérítési eljárás nem indul, a vizsgálat során keletkezett adatokat törölni kell.
 
@@ -2889,7 +2891,7 @@ kell érteni.
 - 21. a képesítési követelmények tekintetében a 88–91. §,
 - 22. a szolgálati kötelmekkel összefüggő baleset, betegség minősítése tekintetében a 105. §,
 - 23. az alapszabadság tekintetében a 119. § (1) bekezdése,
-- 24. a szülési szabadság tekintetében a 121. § (5) bekezdése,
+- 24. a szülési szabadság tekintetében a 121. § (5) és (6) bekezdése,
 - 25. az egészségügyi szabadságra vonatkozó 124. §,
 - 26. a szabadság kiadása tekintetében a 128. § (2) bekezdése,
 - 27. az illetmény megállapítása tekintetében a 129. § (4) bekezdése,
