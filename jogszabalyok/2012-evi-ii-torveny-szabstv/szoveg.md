@@ -2241,7 +2241,7 @@ a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor
 
 #### 105. A pénzbírság, a helyszíni bírság, a szabálysértési költség, a rendbírság valamint az okozott kár végrehajtása
 
-141. § (1) A pénzbírságot, a helyszíni bírságot, a rendbírságot, a szabálysértési költséget és az okozott kárt a határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni. A pénzbírság, a helyszíni bírság, a rendbírság, valamint a szabálysértési költség befizetéséből származó bevétel az államháztartás központi alrendszerének bevételét képezi, amelyet a kincstár által e célra létrehozott központosított beszedési számlára kell beszedni.
+141. § (1) E törvény eltérő rendelkezése hiányában a pénzbírságot, a helyszíni bírságot, a rendbírságot, a szabálysértési költséget és az okozott kárt a határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni. A pénzbírság, a helyszíni bírság, a rendbírság, valamint a szabálysértési költség befizetéséből származó bevétel az államháztartás központi alrendszerének bevételét képezi, amelyet a kincstár által e célra létrehozott központosított beszedési számlára kell beszedni.
 
 (1a) A központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott hatóságok, személyek hatáskörébe tartozó szabálysértési eljárások során kiszabott, önkéntesen megfizetett helyszíni bírságból származó bevételt a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott központi bírságkezelő szerv (a továbbiakban: központi bírságkezelő szerv) a kincstárnál vezetett központosított beszedési számlán kezeli.
 
@@ -2370,6 +2370,12 @@ elektronikus formában automatikusan továbbítja.
 (2) A halasztás határidejének elmulasztása esetén a pénzbírságot, a szabálysértési költséget, illetve meg nem fizetett részét az e törvényben írtak szerint kell végrehajtani. Részletfizetés engedélyezése esetén bármely részlet megfizetésének elmulasztásakor az egész pénzbírság, szabálysértési költség, illetve az abból még fennmaradó összeg egésze azonnal esedékes. Ennek elmulasztása esetén a pénzbírságot, a szabálysértési költséget, illetve meg nem fizetett részét az e törvényben írtak szerint kell végrehajtani.
 
 (3) A bíróság által kiszabott pénzbírság vonatkozásában az (1) és (2) bekezdésben meghatározottakat az elkövető lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság végzi.
+
+143/A. § (1) A 189. §-ban meghatározott szabálysértés miatt kiszabott pénzbírságot vagy helyszíni bírságot a határozat közlésének napját követő 30 napon belül kell megfizetni.
+
+(2) Ha az elkövető a 189. §-ban meghatározott szabálysértés miatt kiszabott pénzbírságot vagy helyszíni bírságot az (1) bekezdés szerint nem fizeti meg, a szabálysértési hatóság kezdeményezi a pénzbírság vagy a helyszíni bírság adók módjára történő behajtását. A határozattal szemben benyújtott meghallgatás tartás iránti kérelemnek, kifogásnak a végrehajtásra halasztó hatálya nincs.
+
+(3) A 189. §-ban meghatározott szabálysértés miatt kiszabott és meg nem fizetett helyszíni bírság és pénzbírság alapján kezdeményezett adók módjára történő végrehajtás esetén az állami adó- és vámhatóság jár el.
 
 #### 106. A közérdekű munka végrehajtása
 
