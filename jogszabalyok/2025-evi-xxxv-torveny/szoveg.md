@@ -40,15 +40,7 @@ a belügyi feladatellátás hatékonyságát támogató és a kapcsolati erősza
 
 #### 1. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-1. § A Rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1) bekezdés b) pont bb) alpontja helyébe a következő rendelkezés lép:
-
-[A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
-
-elvégzi]
-
-  - „bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak, valamint az önkormányzattal kötött szerződés alapján a feladatokat gazdálkodó szervezeti formában vagy magánorvosként végző háziorvosok kivételével az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá tartozó egészségügyi szolgáltatónál bármilyen jogviszony keretében foglalkoztatott – ideértve a közreműködőt is – egészségügyi dolgozó, egészségügyben dolgozó, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény által fenntartott klinikai központban (a továbbiakban: klinikai központ) foglalkoztatott egészségügyi dolgozó, a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató tekintetében a honvédelmi egészségügyi szolgáltató személyi állományának a honvédelmi szervezetek személyi állományába és a személyi állomány okán ellátásra jogosult hozzátartozók közé nem tartozók egészségügyi ellátásában részt vevő tagjainak, valamint a honvédelmi egészségügyi szolgáltató személyi állományának a más állami fenntartású egészségügyi szolgáltatónál vagy a klinikai központnál szolgálatot teljesítő állományának,”
-
-{[a ba)–be) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát,]}
+#### 1. §
 
 #### 2. §
 
@@ -137,7 +129,7 @@ lép.
 
 #### 27. §
 
-28. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (5) bekezdés nyitó szövegrészében a „kereskedelemért felelős miniszter, hogy a rendészetért” szövegrész helyébe a „rendészetért felelős miniszter, hogy a kereskedelemért” szöveg lép.
+#### 28. §
 
 #### 16. A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény módosítása
 
@@ -205,17 +197,9 @@ lép.
 
 #### 24. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-53. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 141. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 53. §
 
-„(1) E törvény eltérő rendelkezése hiányában a pénzbírságot, a helyszíni bírságot, a rendbírságot, a szabálysértési költséget és az okozott kárt a határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni. A pénzbírság, a helyszíni bírság, a rendbírság, valamint a szabálysértési költség befizetéséből származó bevétel az államháztartás központi alrendszerének bevételét képezi, amelyet a kincstár által e célra létrehozott központosított beszedési számlára kell beszedni.”
-
-54. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 105. alcíme a következő 143/A. §-sal egészül ki:
-
-„143/A. § (1) A 189. §-ban meghatározott szabálysértés miatt kiszabott pénzbírságot vagy helyszíni bírságot a határozat közlésének napját követő 30 napon belül kell megfizetni.
-
-(2) Ha az elkövető a 189. §-ban meghatározott szabálysértés miatt kiszabott pénzbírságot vagy helyszíni bírságot az (1) bekezdés szerint nem fizeti meg, a szabálysértési hatóság kezdeményezi a pénzbírság vagy a helyszíni bírság adók módjára történő behajtását. A határozattal szemben benyújtott meghallgatás tartás iránti kérelemnek, kifogásnak a végrehajtásra halasztó hatálya nincs.
-
-(3) A 189. §-ban meghatározott szabálysértés miatt kiszabott és meg nem fizetett helyszíni bírság és pénzbírság alapján kezdeményezett adók módjára történő végrehajtás esetén az állami adó- és vámhatóság jár el.”
+#### 54. §
 
 #### 25.
 
@@ -233,13 +217,7 @@ lép.
 
 #### 28. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-59. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 19. § (1) bekezdése a következő m) és n) ponttal egészül ki:
-
-(A SIS-ben kezelt adatokhoz hozzáférési jogosultsággal rendelkezik)
-
-„m) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 4. §-ában meghatározott feladatkör végrehajtására kijelölt nemzetbiztonsági szolgálat, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 4. § c) és f) pontja szerinti feladatai ellátásához a figyelmeztető jelzések teljes körét érintően,
-
-n) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. §-ában meghatározott feladatkör végrehajtására kijelölt nemzetbiztonsági szolgálat, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. § (1) bekezdés a) és h) pontja szerinti, a nyomozóhatósági, bűnmegelőzési és bűnfelderítési feladatokat ellátó szervek számára végzett tevékenysége ellátásához a figyelmeztető jelzések teljes körét érintően.”
+#### 59. §
 
 #### 60. §
 
@@ -309,24 +287,13 @@ n) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. §
 
 #### 82. §
 
-83. § A polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény 133. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Ha a főigazgató közjogi szervezetszabályozó eszközben, az általa meghatározott követelményeknek megfelelő ruházat beszerzése érdekében a nemzetbiztonsági állomány tagja részére – költségtérítésként – öltözködési támogatást biztosít, az öltözködési támogatás a személyi jövedelemadó szempontjából természetbeni juttatásként kiadott munkaruházatnak minősül.”
+#### 83. §
 
 #### 84. §
 
-85. § A polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény
+#### 85. §
 
-- a) 58. § (4) bekezdés c) pontjában az „állapotával, kábítószer vagy bódító hatású anyag” szövegrész helyébe az „állapotával vagy kábítószer” szöveg,
-- b) 84. § (1) bekezdés c) pontjában az „alkohol, a kábítószer vagy pszichotróp anyag” szövegrész helyébe az „alkohol vagy a kábítószer” szöveg,
-- c) 221. § (3) bekezdés 24. pontjában az „(5) bekezdése” szövegrész helyébe az „(5) és (6) bekezdése” szöveg
-
-lép.
-
-86. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény
-
-- a) 121. § (5) bekezdésében a „személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított –” szövegrész,
-- b) 170. § (7) bekezdésében a „vagy pszichotróp anyag” szövegrész.
+#### 86. §
 
 #### 40.
 
