@@ -491,6 +491,8 @@ való megfelelést szolgálja.
 
 (3) E törvény a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletének módosításáról szóló, 2019. október 9-i (EU) 2019/1776 bizottsági végrehajtási rendelet végrehajtását szolgálja.
 
+(4) E törvény az (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek alapvető szolgáltatásokat tartalmazó jegyzék megállapítása révén történő kiegészítéséről szóló, 2023. július 25-i (EU) 2023/2450 felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 54. § (1)–(2)
 
 (3)
