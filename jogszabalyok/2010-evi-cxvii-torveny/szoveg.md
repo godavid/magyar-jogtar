@@ -36,11 +36,11 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 - 17. kiindulási érték: a 2010. évben a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás az e törvény végrehajtására kiadott jogszabályban meghatározott mértéke;
 - 18. köztes termék: biomasszából kémiai vagy fizikai eljárással átalakított, bioüzemanyag vagy folyékony bio-energiahordozó előállítása céljára szolgáló termék;
 - 19. lignocellulóz-tartalmú anyagok: ligninből, cellulózból és hemicellulózból álló anyagok, mint például az erdőkből, a fás szárú energianövényekből, illetve erdészeti iparágak maradék-, illetve hulladékanyagából származó biomassza;
-- 20. megújuló üzemanyag: a fenntarthatósági követelményeket teljesítő bioüzemanyagok, a nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásból származó üzemanyagok;
+- 20. megújuló tüzelő- és üzemanyag: megújuló üzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok;
 - 21. mezőgazdasági, akvakultúra-, halászati, és erdészeti maradványok: olyan maradványanyagok, amelyeket közvetlenül a mezőgazdaság, az akvakultúra, a halászat és az erdészet állít elő; a kapcsolódó iparágakból vagy feldolgozási folyamatokból származó maradványanyagokat nem foglalják magukban;
 - 21a. mezőgazdasági biomassza: közvetlenül a mezőgazdaságból (a növényi és állati eredetű anyagokat is beleértve) származó biomassza;
 - 22. motorbenzin: minden olyan illékony ásványolajtermék, amelynek rendeltetése külső gyújtású belső égésű motorok (Otto-motorok) működtetése (a 2710 12 31-2710 12 49 KN-kód szerinti termék);
-- 23. nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásból származó üzemanyagok: a bioüzemanyagok és biogáz kivételével azon folyékony vagy gáznemű üzemanyagok, amelyek energiatartalma a biomasszától eltérő megújuló energiaforrásokból származik, és amelyeket a közlekedés területén használnak;
+- 23. nem biológiai eredetű, megújuló energiaforrásból származó üzemanyag: olyan folyékony és gáznemű üzemanyag, amelynek energiatartalma a biomasszától eltérő megújuló energiaforrásokból származik;
 - 24. nem élelmezési célú cellulóztartalmú alapanyagok: főként cellulózból és hemicellulózból álló, a lignocellulóz-tartalmú anyagoknál alacsonyabb lignintartalmú alapanyagok; ide tartozik többek között: élelmiszer- és takarmánynövény-maradékanyagok, például szalma, kukoricaszár, hüvely és héj, alacsony keményítőtartalmú, a fűfélék közé tartozó energianövények, például perje, vesszős köles, elefántfű, óriásnád, a fő termények előtt és után termesztett takarónövények, takarmánynövények, ipari maradékanyagok, például olyan élelmiszer- és takarmánynövények, amelyekből kisajtolták a növényi olajokat, kivonták a cukrokat, a keményítőt és a fehérjét, és biohulladékból származó anyagok, e szempontból takarmány-, illetve takarónövény alatt a legelőkön átmenetileg, rövid távra vetett, alacsony keményítőtartalmú fűfélék és pillangósok keverékéből álló növényzet értendő, amelynek rendeltetése takarmány termelése az állatállomány számára, illetve a talaj termelékenységének javítása a fő szántóföldi növények hozamának növelése érdekében;
 - 25. nyilvánvaló hiba: az ügyfél által benyújtott kérelemben, kérelem mellékletében feltüntetett adatok olyan hiányossága vagy hibája, amely a kérelem vagy a kérelem mellékletének más adataiból, vagy más, a hatóságok által elérhető nyilvántartásból származó adatok alapján hiánypótlásra felszólítás nélkül, a hatóságok által saját hatáskörben pótolható vagy javítható, kivéve a kérelem hitelességét befolyásoló hiányosság;
 - 26. sűrített földgáz (CNG): olyan szénhidrogéngáz, amely környezeti hőmérsékleten gáz halmazállapotú (a 2711 21 00 – 2711 29 00 KN kód szerinti termék);
@@ -63,7 +63,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 #### 3. A folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, valamint a köztes termékek és ezek alapanyagai fenntarthatósági követelményei
 
-3. § (1) A folyékony bio-energiahordozók, a bioüzemanyagok és a biomasszából előállított tüzelőanyagok akkor vehetők figyelembe a 2. §-ban, illetve a 9. § (1) bekezdésében meghatározott célra – az e törvény végrehajtására kiadott rendeletben foglalt kivétellel –, tekintet nélkül arra, hogy az előállításához felhasznált alapanyagot az Európai Unió területén vagy harmadik országban termesztették, ha azok az e törvényben, valamint az e törvény végrehajtására kiadott kormányrendeletben meghatározott valamennyi fenntarthatósági követelménynek megfelelnek. A folyékony bio-energiahordozót, a bioüzemanyagot vagy a biomasszából előállított tüzelőanyagot felhasználó hatósági felszólításra köteles igazolni, hogy a felhasznált alapanyagok megfelelnek a fenntarthatósági követelményeknek.
+3. § (1) A folyékony bio-energiahordozók, a bioüzemanyagok és a biomasszából előállított tüzelőanyagok akkor vehetők figyelembe a 2. §-ban meghatározott célra – az e törvény végrehajtására kiadott rendeletben foglalt kivétellel –, tekintet nélkül arra, hogy az előállításához felhasznált alapanyagot az Európai Unió területén vagy harmadik országban termesztették, ha azok az e törvényben, valamint az e törvény végrehajtására kiadott kormányrendeletben meghatározott valamennyi fenntarthatósági követelménynek megfelelnek. A folyékony bio-energiahordozót, a bioüzemanyagot vagy a biomasszából előállított tüzelőanyagot felhasználó hatósági felszólításra köteles igazolni, hogy a felhasznált alapanyagok megfelelnek a fenntarthatósági követelményeknek.
 
 (2) A bioüzemanyagok akkor vehetők figyelembe, az e törvény alapján kiadott rendeletben meghatározott bioüzemanyag-részarány teljesítése szempontjából – az e törvény végrehajtására kiadott rendeletben foglalt kivétellel –, ha azok megfelelnek valamennyi fenntarthatósági követelménynek.
 
@@ -105,7 +105,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 6. § (1) A forgalomba hozatal céljából előállított, beszerzett, értékesített és a forgalomba hozott bioüzemanyagra vonatkozó, valamint bioüzemanyag fenntarthatósági követelményeknek való megfelelését és nyomon követhetőségét igazoló, az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti adatokat az e törvény végrehajtására kiadott jogszabályban rögzítettek szerint kell nyilvántartani és bizonylatolni.
 
-(2) Az üzemanyag-forgalmazó köteles évente, a tárgyévet követő év április 20. napjáig a tárgyévben forgalomba hozott motorbenzinről, dízelgázolajról és bioüzemanyagról az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti jelentést az állami adó- és vámhatóságnak benyújtani.
+(2) Az üzemanyag-forgalmazó köteles évente, a tárgyévet követő év április 20. napjáig a tárgyévben forgalomba hozott motorbenzinről, dízelgázolajról, bioüzemanyagról és a nem biológiai eredetű megújuló üzemanyagról az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti jelentést az állami adó- és vámhatóságnak benyújtani.
 
 (3) Az üzemanyag-forgalmazó a Jöt. szerinti engedélye megszűnése esetén – az engedély megszűnésének napjával – köteles a (2) bekezdés szerinti jelentést elkészíteni, és az engedélye megszűnésének napját követő 12 munkanapon belül az állami adó- és vámhatósághoz benyújtani.
 
@@ -213,7 +213,7 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 #### 10. §
 
-#### 7.
+#### 7. Adatszolgáltatás
 
 11. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv, a mezőgazdasági igazgatási szerv, az erdészeti hatóság, az állami adó- és vámhatóság, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara és a Magyar Energetikai és Közmű-szabályozási Hivatal a biomassza, a köztes termék, a bioüzemanyagok és folyékony bio-energiahordozók, valamint a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló dokumentumok nyilvántartásához, a dokumentumban szereplő adatok és a nyomon követhetőség ellenőrzéséhez, valamint fenntarthatósági bizonyítvány kiállításához az általuk kezelt adatbázisokból egymásnak adatot szolgáltatnak.
 

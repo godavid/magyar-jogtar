@@ -72,7 +72,7 @@ kiskereskedelmi értékesítésére.
   - c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként húszmillió forint összeget meghaladó bírsággal sújtották volna,
   - d) legalább 15 éven keresztül folytatott olyan, a dohánytermékek nagykereskedelmi értékesítésére irányuló tevékenységet, amelyhez engedéllyel rendelkezett, és amely engedély alapján a Jöt.-ben meghatározott alábbi személyek valamelyikének minősült dohánytermék vonatkozásában: da) adóraktár engedélyese (gyártó), db) importáló, dc) bejegyzett kereskedő, dd) jövedéki engedélyes kereskedő;
 - 14. dohánylevél-töltő: kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz, amely kézi töltésű cigaretta elkészítésére alkalmas.
-- 15. jogosulatlan dohánytermék kiskereskedelem: az 1. § (1) bekezdés szerinti termékek e törvény szerinti dohánytermék-kiskereskedelmi tevékenység folytatására jogosító, vagy a 15. § (3a) és (5) bekezdése szerinti engedély nélküli vagy a 10. § (1) vagy (7) bekezdés szerinti feljogosítás hiányában történő értékesítése; továbbá olyan termék értékesítése, amelynek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló kormányrendelet alapján, Magyarországon történő forgalomba hozatala tilos.
+- 15. jogosulatlan dohánytermék kiskereskedelem: az 1. § (1) bekezdése szerinti termékek e törvény szerinti dohánytermék-kiskereskedelmi tevékenység folytatására jogosító, vagy a 15. § (3a) és (5) bekezdése szerinti engedély nélküli vagy a 10. § (1) vagy (7) bekezdése szerinti feljogosítás hiányában történő üzletszerű értékesítésére vonatkozó tevékenység, ideértve az 1. § (1) bekezdése szerinti termékek felkínálását is; továbbá olyan termék üzletszerű értékesítésére vonatkozó tevékenység – ideértve a termék felkínálását is –, amelynek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló kormányrendelet alapján Magyarországon történő forgalomba hozatala tilos;
 - 16. dohánytermék-kiskereskedelmi tevékenységet végző személy: a dohánytermék-kiskereskedő, a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy és a 13. § (8a) bekezdése szerinti helyettes gyakorló.
 - 17. termékregisztrátor: a dohánytermék-nagykereskedő vagy az adatszolgáltatással érintett terméket belföldön először forgalomba hozó személy.
 - 18. értékesítési csatorna: dohánytermék vagy más hasonló termék elhelyezésére szolgáló, e célra kialakított, a termékek egymás mögötti elhelyezését lehetővé tevő rész (rekesz); kialakított rész hiányában bármely polchely;
@@ -118,7 +118,7 @@ a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalma
 - c) ellátja a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartásával kapcsolatos feladatokat,
 - d) ellátja a dohánytermék-kiskereskedelem hatósági felügyeletével és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésével kapcsolatos feladatokat,
 - e)
-- f) végzi a dohánytermék-nagykereskedőknek a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
+- f) végzi a dohánytermék-nagykereskedőknek az e törvény, illetve az e törvény felhatalmazása alapján kiadott jogszabály szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
 - g) a dohánytermék-kiskereskedelmi tevékenységet végző személyek részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
 - h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultációs fórumot,
 - i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
@@ -339,7 +339,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 - c) a tevékenység folytatására vonatkozó igényét az örökös kinyilvánította, és
 - d) a tevékenység folytatására vonatkozó jogszabályban, valamint az örökhagyóra irányadó dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázat kiírásában írt egyéb feltételeknek az örökös is megfelel.
 
-(8a) Ha a dohánytermék-kiskereskedelmi tevékenység jogosultjának kizárólag kiskorú örököse van, a kiskorú örökös abban az esetben válik a 18. életévének betöltését követően a koncessziós szerződésből eredő jogok gyakorlására és kötelezettségek teljesítésére jogosulttá, illetve kötelezetté, ha a koncessziós szerződésből eredő jogok és kötelezettségek gyakorlását nagykorúvá válásáig tőle
+(8a) Ha a dohánytermék-kiskereskedelmi tevékenység jogosultjának kizárólag kiskorú örököse van, a kiskorú örökös abban az esetben válhat a 18. életévének betöltését követően a koncessziós szerződésből eredő jogok gyakorlására és kötelezettségek teljesítésére jogosulttá, illetve kötelezetté, ha a koncessziós szerződésből eredő jogok és kötelezettségek gyakorlását nagykorúvá válásáig tőle
 
 - a) végintézkedésen alapuló öröklés esetében az örökhagyó végrendeletében megjelölt nagykorú személy, ennek hiányában
 - b) törvényes képviselője, vagy
@@ -454,7 +454,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 ### 5. CÍM — A dohánytermékek értékesítésével összefüggő különös szabályok
 
-15/C. § (1) A dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységével közvetlen összefüggésben ajándékot, árengedményt, kedvezményt, térítést vagy egyéb juttatást csak akkor fogadhat el, ha azt e törvény kifejezetten lehetővé teszi. A tilalomba ütközik az is, ha a törvény által kifejezetten lehetővé nem tett ajándékot, árengedményt, kedvezményt, térítést vagy egyéb juttatást bármely személy a dohánytermék-kiskereskedőre tekintettel fogadja el.
+15/C. § (1) A dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységével közvetlen összefüggésben ajándékot, árengedményt, kedvezményt, térítést vagy egyéb juttatást csak akkor fogadhat el, ha azt e törvény vagy e törvény felhatalmazása alapján kiadott jogszabály lehetővé teszi. A tilalomba ütközik az is, ha a törvény vagy e törvény felhatalmazása alapján kiadott jogszabály által lehetővé nem tett ajándékot, árengedményt, kedvezményt, térítést vagy egyéb juttatást bármely személy a dohánytermék-kiskereskedőre tekintettel fogadja el.
 
 (2) A dohánytermék kiskereskedő a tevékenységével közvetlen összefüggésben kizárólag
 
@@ -525,7 +525,9 @@ lehet;
 
 #### 15/F. §
 
-15/G. § Az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–i) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére jogszabály – az 1. § (2) bekezdésére figyelemmel – a 15/C. és 15/D. §-ban foglaltaktól eltérő szabályokat állapíthat meg.
+15/G. § (1) Az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–i) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére jogszabály – az 1. § (2) bekezdésére figyelemmel – a 15/C. és 15/D. §-ban foglaltakat kiegészítő szabályokat állapíthat meg.
+
+(2) Az új dohánytermék-kategóriákat, valamint az 1. § (1) bekezdés d)–i) pontja szerinti termékeket forgalmazó dohánytermék-nagykereskedő az (1) bekezdés szerinti termékbemutatást és ismertetést a Kormány új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–i) pontja szerinti termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokról szóló rendeletében foglaltak szerint köteles a Hatósághoz bejelenteni.
 
 ### 5/A. CÍM — Nyilvántartás-vezetés és adatszolgáltatás
 
@@ -583,7 +585,9 @@ lehet;
 
 ### 7. CÍM — A dohánytermékek árusításával feljogosított személyekre vonatkozó különös rendelkezések
 
-16/B. § E törvény III. Fejezete 3–6. címében foglalt rendelkezéseket a dohánytermékek árusítására kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által feljogosított személyre is megfelelően alkalmazni kell.
+16/B. § (1) A III. Fejezet 3–6. címében, valamint a 17. §-ban foglalt rendelkezéseket a dohánytermékek árusítására kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által feljogosított személyre is alkalmazni kell.
+
+(2) Ha a feljogosított személy a dohánytermékek értékesítésére munkavállalót, illetve megbízottat alkalmaz, akkor biztosítania kell és felel azért, hogy a munkavállaló, illetve a megbízott a kijelölési okiratban foglaltaknak megfelelően járjon el.
 
 ### IV. Fejezet — A DOHÁNYTERMÉK-KISKERESKEDELEM FELÜGYELETE ÉS ELLENŐRZÉSE
 
@@ -841,7 +845,7 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 - b) a dohánytermék-kiskereskedelemi jogosultság gyakorlására külön feljogosított személyek kötelezettségeinek ellenőrzésére,
 - c) a dohánytermék-kiskereskedelem engedélyezésére, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartására,
 - d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére,
-- e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
+- e) a dohánytermék-nagykereskedő e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály szerinti kötelezettségeinek ellenőrzésére
 - f) a dohánytermék-kiskereskedelmi tevékenységet végző személyek nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a termékregisztrátorok és az általuk forgalmazott érintett termékek körének meghatározására, azok hatósági nyilvántartásba vételére, a dohánygyártmányok árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére,
 - g) az 1. § (1) bekezdésében meghatározottakon kívül a dohányboltban forgalmazható termékekre és nyújtható szolgáltatásokra
 - h) a dohánytermék-kiskereskedelmi tevékenységet végző személyek országos képzési rendszerének működtetésére, szakmai képzés feltételeire, annak teljesítésére és díjára

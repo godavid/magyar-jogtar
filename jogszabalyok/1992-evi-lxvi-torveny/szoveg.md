@@ -561,6 +561,10 @@ van lehetőség.
 
 19/N. § A bányafelügyelet a hatáskörébe tartozó eljárás lefolytatása érdekében a természetes személy ügyfél 17. § (2) bekezdés f) pontja szerinti adatait jogosult igényelni.
 
+19/O. § (1) A szerencsejáték-felügyeleti hatóság szerencsejáték-felügyeleti hatáskörébe, valamint a szerencsejátékot népszerűsítő reklám tekintetében a hatáskörébe tartozó ellenőrzési és hatósági eljárás lefolytatása érdekében a természetes személy ügyfél 17. § (2) bekezdés f) pontja szerinti adatait jogosult igényelni.
+
+(2) A szerencsejáték-felügyeleti hatóság a játékosvédelmi nyilvántartás vezetése céljából jogosult a nyilvántartásból a személyazonosító igazolvány okmányazonosítóját igényelni.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;
@@ -573,7 +577,7 @@ van lehetőség.
 - a) a helyi önkormányzatok szervei törvényben vagy önkormányzati rendeletben meghatározott feladataik ellátásához;
 - b) az állampolgárságra, a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozás tényén kívüli – kikerülés okára, helyére és idejére vonatkozó adatok kivételével az igazságügyi szakértői névjegyzéket vezető hatóság a névjegyzékben szereplő igazságügyi szakértő adatainak ellenőrzéséhez;
 - c) a szabálysértési hatóság a hatáskörébe tartozó szabálysértési eljárásban a feljelentett vagy tanú (szakértő) személyi adatainak és lakcímének megállapításához;
-  - cs)
+- cs) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára és idejére vonatkozó adatok kivételével a szerencsejáték-felügyeleti hatóság a játékosvédelmi nyilvántartás vezetése céljából;
 - d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
 - e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - f) lakcímadatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára vonatkozó adatok kivételével a házassági és az élettársi vagyonjogi szerződések országos nyilvántartásában szereplő személy halálának a házassági és az élettársi vagyonjogi szerződések országos nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
