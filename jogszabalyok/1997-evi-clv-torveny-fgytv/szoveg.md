@@ -140,6 +140,8 @@ törekszik a hulladékképződés megelőzésére.
 
 16/A. § (1) Tilos tizennyolcadik életévét be nem töltött személy részére – a kizárólag orvosi rendelvényre kiadható gyógyszer kivételével – alkoholtartalmú italt értékesíteni, illetve kiszolgálni.
 
+(1a) Tilos tizennyolcadik életévét be nem töltött személy részére a kormány rendeletében meghatározott összetételű energiaitalt (a továbbiakban: energiaital) értékesíteni, illetve kiszolgálni.
+
 (2) Tilos tizennyolcadik életévét be nem töltött személy részére szexuális terméket értékesíteni, illetve kiszolgálni.
 
 (3) Tilos tizennyolcadik életévét be nem töltött személy részére dohányterméket, valamint vízipipát értékesíteni, illetve kiszolgálni.
@@ -1042,7 +1044,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 - g) elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását
   - ga) a jogszerű állapot helyreállításáig, ha az a fogyasztók életének, testi épségének vagy egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges, vagy
   - gb) legfeljebb 30 napra, ha a jogsértés a fogyasztók széles körének jelentős vagyoni hátrányt okoz,
-- h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések 3 éven belüli ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
+- h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, az energiaital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések 3 éven belüli ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
 - i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (1a) Amennyiben nem áll rendelkezésre más hatékony eszköz az (EU) 2017/2394 rendelet hatálya alá tartozó jogsértések megszüntetésének vagy megtiltásának érvényre juttatására és a fogyasztók kollektív érdekeit érő súlyos sérelem kockázatának megelőzése érdekében, a fogyasztóvédelmi hatóság:
@@ -1379,6 +1381,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (4) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a gyermekek és az ifjúság védelméért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben rendeletben szabályozza a 16/A. § (7) bekezdés szerinti hallásvédelmi tájékoztató tartalmára vonatkozó szabályokat.
 
+(5) Felhatalmazást kap a Kormány, hogy a tizennyolcadik életévét be nem töltött személy részére nem értékesíthető, illetve nem kiszolgálható energiaital összetételét rendeletben állapítsa meg.
+
 56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy rendeletben
 
 - a) állapítsa meg a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályait és a békéltető testületi elnökök és tagok díjazásáról, képzéséről és a békéltető testületi alapvizsgáról szóló részletes szabályokat, valamint
@@ -1411,7 +1415,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - c) a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2020. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelv [2. § 5., 11., 15., 20., 21., 22., 23., 25., 34. pontja, 38. §, 38/A.–38/G. §, 46. § (2) bekezdés b) pontja, 47. § (1) bekezdés a) és b) pontja, 49. § (1) bekezdése, 51. § (2)–(4) bekezdése, 56/E. §];
 - d) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) szóló 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv [2. § 1., 3., 14., 27., 31. pontja, 17/A. § (1) és (1a) bekezdése, 18. § (1), (6) és (7) bekezdése, 29. § (4), (5a), (5b), (8), (11) és (12) bekezdése, 36/A. § (1) és (2) bekezdése, 37/A. § (3)–(9) bekezdése, 45/A. § (1) bekezdés e) pontja, 47/C. § (5) bekezdés c) és d) pontja];
 - e) a fogyasztói jogviták bírósági eljáráson kívül rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről szóló, 1998. március 30-i 98/247/EK bizottsági ajánlás [18–37/A. §];
-- f) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv [2. § 12. pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
+- f) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv [2. § 12. pontja, a 16/A. § (1a) bekezdése, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése, az 55. § (5) bekezdése];
 - g) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv [a 37/B. § (1)–(2) bekezdése],
 - h) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelv [47. § (5) bekezdése, 47/C. § (1b) bekezdése].
 - i) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelv [18. §, 38. §, 39. §, 45. §, 45/A. §, 45/B. §];
@@ -1429,9 +1433,11 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (4) A 19. § a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
 
-58. § A 16/B. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
+58. § A 16/A. § (1a) bekezdés, a 16/B. §, valamint az 55. § (5) bekezdés tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 
 59. § A 17/D. § (1) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.
+
+60. § A 16/A. § (1a) bekezdés, valamint az 55. § (5) bekezdés tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 ### 1. melléklet az 1997. évi CLV. törvényhez
 

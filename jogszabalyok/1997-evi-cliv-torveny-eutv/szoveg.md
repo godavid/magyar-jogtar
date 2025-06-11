@@ -93,6 +93,9 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 - d) in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/746 rendelet] 2. cikk 2. pontjában meghatározott fogalom.
 - e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és megszüntetése, a munkavégzés helyének kijelölése, a vezetői megbízatás adása és visszavonása, az illetmény megállapítása és módosítása, valamint a fegyelmi jogkör gyakorlása;
 - f) egyéb munkáltatói jog: mindazon munkáltatói jogkörök, amelyek nem minősülnek alapvető munkáltatói jognak.
+- g) nemzetstratégiai jelentőségű orvostudományi kutatás: a magyar társadalom egészségügyi helyzetét jelentősen érintő, a magyar népesség egészségmegőrzését és -javítását – különös figyelemmel a hazai lakosság körében tipikusan felmerülő népbetegségek gyógyítására, az elhalálozások ok-okozati összefüggéseinek vizsgálatára –, a súlyos betegségek korai stádiumban történő felismerését, és ezzel a gyógykezelések hatékonyságának növelését előreláthatóan össztársadalmi szinten szolgáló kutatás;
+- h) biológiai minta: diagnosztikai vizsgálat vagy orvostudományi kutatás céljából levett, emberből származó sejt, szövet, vér, véralkotórész vagy más testnedvek;
+- i) széles körű beleegyezés: az érintett akaratának önkéntes, megfelelő tájékoztatáson alapuló és egyértelmű kinyilvánítása, amellyel az érintett jogszabályban meghatározott formában beleegyezését adja biológiai mintáinak és adatainak valamely engedélyezett vagy jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatás során történő felhasználásához olyan módon, hogy a beleegyező nyilatkozat megtételének módja és tartalma alapján a már engedélyezett vagy a jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatásokban való részvételi szándéka egyértelműen elkülöníthető.
 
 ### 4. CÍM — A törvény hatálya
 
@@ -3192,6 +3195,34 @@ fenntartására, irányítására.
 
 (5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
+158/A. § (1) A Kormány a nemzetstratégiai jelentőségű orvostudományi kutatásokat – a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvényben (a továbbiakban: KFI törvény) meghatározott kormányzati feladatokra, valamint a KFI törvény alapján kidolgozott stratégiára is figyelemmel – a kutatásokra vonatkozó támogatásokon felül további, erre a célra rendelt kedvezményekkel, szolgáltatásokkal és eszközök rendelkezésre bocsátásával (e § alkalmazásában a továbbiakban együtt: eszköz) segíti.
+
+(2) Az (1) bekezdés szerinti eszköz a nemzeti adatvagyon hasznosítási és hozzáférési lehetőségeinek bővítése, valamint egyéb vagyoni értékű jogok rendelkezésre bocsátása.
+
+(3) A nemzetstratégiai jelentőségű orvostudományi kutatási engedélyben, vagy a kutatási engedély módosításáról rendelkező döntésben foglalt, a kutatás befejezésére vonatkozó határidőt követően az állam jogosult a felek megállapodása alapján – a rendelkezésre bocsátott eszköz jövőbeli ellentételezéseként – a nemzetstratégiai jelentőségű orvostudományi kutatás eredményének a magyar társadalom érdekeit szolgáló célra történő hasznosítására.
+
+(4) A nemzetstratégiai jelentőségű orvostudományi kutatásnak a kutatásra vonatkozó általános jogszabályi rendelkezéseken felül törvényben vagy kormányrendeletben meghatározott további, illetve eltérő jogszabályi követelményeknek kell megfelelnie.
+
+(5) A nemzetstratégiai jelentőségű orvostudományi kutatás feltételeinek való megfelelés tényét a 158. § (2) bekezdésében foglalt kutatási engedélyben, vagy a kutatási engedély módosításáról rendelkező döntésben kell rögzíteni.
+
+(6) Ha a nemzetstratégiai jelentőségű orvostudományi kutatás feltételeinek való megfelelés tényét a hatályos kutatási engedély módosításáról rendelkező döntés rögzíti, a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja a döntés véglegessé válását követően megfelelően tájékoztatja a kutatásban részt vevő személyeket a nemzetstratégiai jelentőségű orvostudományi kutatás jellegéről és az arra alkalmazandó rendelkezésekről. A kutatásban részt vevő személyek a kutatásban történő további részvételhez hozzájárulásukat írásos beleegyező nyilatkozat formájában adják meg.
+
+(7) A nemzetstratégiai jelentőségű orvostudományi kutatás engedélyezési eljárása során az eljáró hatóság abban a szakkérdésben, hogy
+
+- a) a kérelem szerinti kutatási tevékenység nemzetstratégiai jelentőségű orvostudományi kutatásnak minősül-e, az egészségügyért felelős miniszter útján a tudománypolitika koordinációjáért felelős miniszter véleményét kikéri,
+- b) a kérelem szerinti nemzetstratégiai jelentőségű orvostudományi kutatás összhangban áll-e a Kormány másodlagos adathasznosításra és a tudományos kutatások eredményességének támogatására irányuló adatpolitikájával, a Stratégiai Kutatási Bizottság (a továbbiakban: Bizottság) véleményét kikéri,
+- c) a nemzetstratégiai jelentőségű orvostudományi kutatás és az ahhoz kapcsolódó adatátadás és adatkezelés összhangban áll-e a kiberbiztonsági követelményekkel, a nemzeti kiberbiztonsági hatóság szakhatósági állásfoglalását beszerzi.
+
+(8) A (7) bekezdés a) pontja szerinti vélemény megadásának határideje 8 nap.
+
+(9) A (7) bekezdés b) és c) pontja szerinti szakhatósági és véleményezési eljárás ügyintézési határideje 30 nap.
+
+(10) Széles körű beleegyezés kizárólag nemzetstratégiai jelentőségű orvostudományi kutatás keretében kérhető a kutatásban részt vevő személyektől és kizárólag engedélyezett vagy jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatások során használható fel a kutatásban való részvétel biztosításának érdekében.
+
+158/B. § (1) A Bizottság a nemzetstratégiai jelentőségű orvostudományi kutatások engedélyezését véleményével segítő, három tagból álló szakmai tanácsadó testület.
+
+(2) A Bizottság a 158/A. § (7) bekezdés b) pontja szerinti vélemény kialakítása során különösen azt vizsgálja, hogy a kutatási engedély iránti kérelemben megjelölt nemzetstratégiai jelentőségű orvostudományi kutatás, valamint az ahhoz kapcsolódó adatátadás és adatkezelés összhangban áll-e a hazai egészségügyi adatpolitika általános elveivel, továbbá hozzájárul-e az elektronikus egészségügyi adatoknak az – adatok integritását és bizalmas jellegét biztosító, össztársadalmi célokat szolgáló – eredményes másodlagos hasznosításához.
+
 159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint – ha az (EU) 2017/745 rendelet vagy az (EU) 2017/746 rendelet eltérően nem rendelkezik – orvostechnikai eszközök, in vitro diagnosztikai orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
 
 - a) a kutatási tervet engedélyezték,
@@ -3214,6 +3245,16 @@ fenntartására, irányítására.
 - f) a kutatásban való részvétel kockázatának körébe tartozó egészségkárosodás jellegéről és gyógykezeléséről, valamint a kártalanításról, illetve kártérítésről;
 - g) a kutatatásért felelős személy(ek) nevéről.
 
+(3a) A kutatás alanyának széles körű beleegyezése esetén jogszabály a (3) bekezdés szerinti tájékoztatás, valamint az (1) bekezdés e) pontja és (1a) bekezdés szerinti beleegyező nyilatkozat tartalma tekintetében a (3b) bekezdésben foglaltak figyelembevételével további eltérő szabályokat állapíthat meg.
+
+(3b) A széles körű beleegyezés megadása előtt a jövőbeli kutatás tekintetében a kutatás alanyát tájékoztatni kell
+
+- a) a széles körű beleegyezés természetéről, megadásának módjáról, a beleegyező nyilatkozat formai és tartalmi követelményeiről,
+- b) beleegyezésének önkéntességéről és arról, hogy a beleegyezés bármikor, indokolás és hátrányos következmények nélkül visszavonható – figyelemmel a (3c) bekezdésben foglaltakra is –, valamint
+- c) arról, hogy a kutatás eredményéről nem kap tájékoztatást.
+
+(3c) A széles körű beleegyezés visszavonása esetén a gyűjtött biológiai mintákat és adatokat a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja megsemmisíti azzal, hogy a már felhasznált biológiai mintákra és elért kutatási eredmények hasznosítására nem terjed ki a beleegyezés visszavonása. A széles körű beleegyezés visszavonásával nem érintett kutatásban a biológiai minták és adatok akkor használhatóak fel, ha ez a jogosultság a kutatásban részt vevő beleegyező nyilatkozatából kétséget kizáróan megállapítható.
+
 (4) Kutatás cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személyen kizárólag a következő feltételek együttes fennállása esetén végezhető:
 
 - a) az (1) bekezdés a)–d) pontjában foglalt feltételek teljesülnek;
@@ -3231,6 +3272,10 @@ fenntartására, irányítására.
 
 - a) az elsőfokú eljárásban az ETT – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – bizottságának, részbizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy
 - b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével az egészségügyi államigazgatási szerv engedélyezi.
+
+(6a) Ha a kutatás a kutatás alanyának jogszabályban meghatározott széles körű beleegyezése alapján gyűjtött biológiai mintáján valósul meg, a biológiai mintákat és adatokat a humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól szóló törvény szerinti biobankban kell tárolni a (6b) bekezdésben foglaltak figyelembevételével.
+
+(6b) Széles körű beleegyezés alapján gyűjtött biológiai minta és adat a biobankban kódolt formában a kutatás alanyának beleegyező nyilatkozatában foglaltak szerint kezelhető és tárolható. A biobank kutatás céljából kódolva, a kutatás alanya beleegyező nyilatkozatának keretei között továbbíthat biológiai mintát és adatot.
 
 (7) Orvostechnikai eszközök klinikai vizsgálatának minősülő orvostudományi kutatás – az (1)–(6) bekezdésben foglaltaktól eltérően – az (EU) 2017/745 rendeletben meghatározott feltételek fennállása esetén végezhető. Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti véleményét figyelembe véve – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi.
 
@@ -4959,6 +5004,8 @@ rendeletben megállapítsa.
 - l) egészségügyi válsághelyzetben az egészségügyi szolgáltatás irányításáért felelős szerv, valamint az állam tulajdonában és fenntartásában működő egészségügyi intézmények irányítására sajátos irányítási rendet vezessen be,
 - m) állapítsa meg a 140/B. § (11) bekezdése szerinti etikai eljárás részletszabályait, valamint az ETT etikai eljárásban első és másodfokon eljáró testületét,
 - n) határozza meg a honvédelmi egészségügyi szolgáltató minősítési rendszerére vonatkozó szabályokat.
+- o) állapítsa meg a nemzetstratégiai jelentőségű orvostudományi kutatás végzésére vonatkozó – az (1) bekezdés u) pontja alapján kiadott Korm. rendeletben nem szabályozott, vagy az abban foglaltaktól eltérő – követelményeket, a kutatás céljait szolgáló eszköz rendelkezésre bocsátására, valamint az eszköz ellentételezésére vonatkozó részletes szabályokat,
+- p) állapítsa meg a 158/B. § (1) bekezdés szerinti Bizottság összetételére, eljárására, a véleménye kialakítására irányadó követelményekre vonatkozó részletes szabályokat.
 
 (1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
 
