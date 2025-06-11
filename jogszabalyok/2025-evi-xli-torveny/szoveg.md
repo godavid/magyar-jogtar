@@ -14,19 +14,11 @@ az energetikai versenyképesség növeléséről és jogharmonizációs célú m
 
 (2)
 
-(3) A Büat. 1. § 20. pontja helyébe a következő rendelkezés lép:
-
-(E törvény és a végrehajtására kiadott jogszabályok alkalmazásában:)
-
-„20. megújuló tüzelő- és üzemanyag: megújuló üzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok;”
+(3)
 
 (4)
 
-(5) A Büat. 1. § 23. pontja helyébe a következő rendelkezés lép:
-
-(E törvény és a végrehajtására kiadott jogszabályok alkalmazásában:)
-
-„23. nem biológiai eredetű, megújuló energiaforrásból származó üzemanyag: olyan folyékony és gáznemű üzemanyag, amelynek energiatartalma a biomasszától eltérő megújuló energiaforrásokból származik;”
+(5)
 
 (6)
 
@@ -42,9 +34,7 @@ az energetikai versenyképesség növeléséről és jogharmonizációs célú m
 
 #### 6. §
 
-7. § A Büat. a 11. §-t megelőzően a következő alcím címmel egészül ki:
-
-#### „7. Adatszolgáltatás”
+#### 7. §
 
 #### 8. §
 
@@ -54,19 +44,17 @@ az energetikai versenyképesség növeléséről és jogharmonizációs célú m
 
 - a)
 - b)
-- c) 6. § (2) bekezdésében az „és bioüzemanyagról” szövegrész helyébe a „ , bioüzemanyagról és a nem biológiai eredetű megújuló üzemanyagról” szöveg,
+- c)
 - d)
 - e)
 
 lép.
 
-11. § Hatályát veszti a Büat. 3. § (1) bekezdésében az „ , illetve a 9. § (1) bekezdésében” szövegrész.
+#### 11. §
 
 #### 2. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 
-12. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 53. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) E törvény az (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek alapvető szolgáltatásokat tartalmazó jegyzék megállapítása révén történő kiegészítéséről szóló, 2023. július 25-i (EU) 2023/2450 felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+#### 12. §
 
 #### 3.
 

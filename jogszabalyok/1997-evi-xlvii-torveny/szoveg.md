@@ -44,7 +44,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 
 - a) az egészség megőrzésének, javításának, fenntartásának előmozdítása,
 - b) a betegellátó eredményes gyógykezelési tevékenységének elősegítése, ideértve a szakfelügyeleti tevékenységet is,
-- c) az érintett egészségi állapotának nyomon követése,
+- c) az érintett – ideértve az orvostudományi kutatásba bevont érintettet is – egészségi állapotának nyomon követése,
 - d) a népegészségügyi [16. §], közegészségügyi és járványügyi érdekből szükségessé váló intézkedések megtétele,
 - e) a betegjogok érvényesítése.
 - f) az egyéni betegút követése.
@@ -462,7 +462,37 @@ a Donor Regiszterből lekérdezheti.
 
 (3) A kutatási kérelem megtagadását az intézményvezető vagy az adatvédelmi tisztviselő köteles írásban megindokolni. A kérelem megtagadása esetén a kérelmező bírósághoz fordulhat. A per megindítására és az eljárás lefolytatására az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a közérdekű adat megismerése iránti igény elutasítása esetén megindítható perre vonatkozó szabályai az irányadóak.
 
-21/A. § (1) Az Eütv. 157. §-a szerinti emberen végzett orvostudományi kutatás hatékony és eredményes elvégzése érdekében a kutatási engedély jogosultja, a kutatási engedélyben megjelölt kutatási terv keretei között – a kutatási cél és rendelkezésre bocsátandó egészségügyi adatok körének megjelölésével – kérheti az egészségbiztosítási szervet, hogy az általa megjelölt szempontok szerinti érintettek személyazonosító adatait az érintett háziorvosának adja át. A háziorvos az érintett személyek kutatásba történő bevonása érdekében megkeresi az érintettet annak érdekében, hogy az járuljon hozzá a személyazonosító és elérhetőségi adatainak a kutatási engedély jogosultja részére történő átadásához.
+21/A. § (1) Az EESZT működtetője a nemzetstratégiai jelentőségű orvostudományi kutatások során – a (2) bekezdésben foglaltak szerint – az EESZT-ben tárolt, a kutatásban részt vevő személyre vonatkozó adatokat a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja számára – a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja által megadott szempontok és struktúra alapján – összegyűjti, álnevesíti.
+
+(2) A nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja – a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény (a továbbiakban: Nahtv.) szerinti adathasznosítás-támogatási szolgáltatásként – a nemzetstratégiai jelentőségű orvostudományi kutatás hatékony és eredményes elvégzése érdekében jogosult arra, hogy az EESZT működtetője a Nemzeti Adatvagyon Ügynökségen (a továbbiakban: NAVÜ) keresztül a nemzetstratégiai jelentőségű orvostudományi kutatásban részt vevő személyek EESZT-ben tárolt adatait álnevesített módon – az érintettnek a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja felé megtett beleegyező nyilatkozata alapján – a rendelkezésére átadja.
+
+(3) A strukturált adatok átadásának kezdetéről és gyakoriságáról, valamint a nem strukturált adatok átadásának módjáról és az átadandó adatok köréről a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja és az EESZT működtetője megállapodást köt.
+
+(4) A (2) bekezdés szerinti eljárást kizárólag nemzetstratégiai jelentőségű orvostudományi kutatásra vonatkozó engedéllyel rendelkező szervezet veheti igénybe.
+
+(5) A nemzetstratégiai jelentőségű orvostudományi kutatásban önkéntes alapon, beleegyezés alapján történik a részvétel.
+
+21/B. § (1) A 21/A. § szerinti adatátadás kizárólag elektronikus úton, a strukturált adatok esetében automatizált módon történik. Az adatátadás során érvényesíteni kell a Magyarország kiberbiztonságáról szóló törvény alapján az elektronikus információs rendszerben kezelt adatok, információk és az elektronikus információs rendszerek által nyújtott vagy azon keresztül elérhető szolgáltatások zárt, teljes körű, folytonos és a kockázatokkal arányos védelmét.
+
+(2) A 21/A. § szerinti adatátadás esetében az EESZT működtetőjének elektronikus nyilvántartásban kell rögzíteni
+
+- a) a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja által megbízott kutató azonosító adatait és a felhasználó azonosítót (token),
+- b) az adatátadás időpontját és
+- c) az átadott adatmennyiség méretét.
+
+(3) A személyes adatok védelme és integritásának biztosítása érdekében a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja számára az adatok átadása kizárólag álnevesítve, a személyes adatok megismerhetősége nélkül úgy történhet, hogy az átadott adatot a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja ne legyen képes az érintett természetes személyhez kapcsolni.
+
+(4) Az átadandó adatok álnevesítését az EESZT működtetője végzi kormányrendeletben kijelölt kulcsszolgáltató által biztosított technológiai megoldás és kapcsolódó szolgáltatás igénybevételével.
+
+(5) Az EESZT működtetője a (3) és (4) bekezdés szerinti eljárás keretében a nemzetstratégiai jelentőségű orvostudományi kutatásban részt vevő személy TAJ számának felhasználásával érintettenként kapcsolati kódot képez.
+
+(6) A kapcsolati kódot úgy kell létrehozni kriptográfiai algoritmus biztosításával, hogy az megfeleljen a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) 4. cikk 5. pontjában meghatározott álnevesítés követelményeinek.
+
+(7) Az EESZT működtetője a nemzetstratégiai jelentőségű orvostudományi kutatásban részt vevő személyek EESZT-ben tárolt egészségügyi adatait a személyazonosító adatoktól megfosztva, a kapcsolati kóddal kiegészítve továbbítja a NAVÜ-höz, amely az álnevesített adatokat a nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja részére – annak kódrendszerével összekapcsolva – rendelkezésre bocsátja. Egyebekben az adatok álnevesítésének és összekapcsolásának eljárására a Nahtv. személytelenítési szolgáltatásra, kulcsszolgáltatásra és adat-összekapcsolási szolgáltatásra vonatkozó rendelkezéseit kell alkalmazni.
+
+(8) A nemzetstratégiai jelentőségű orvostudományi kutatási engedély jogosultja – méretétől függetlenül – a rendszeresen átadott adatok biztonságát a Magyarország kiberbiztonságáról szóló törvény kutatóhelyekre irányadó szabályai alapján köteles védeni.
+
+21/C. § (1) Az Eütv. 157. §-a szerinti emberen végzett orvostudományi kutatás hatékony és eredményes elvégzése érdekében a kutatási engedély jogosultja, a kutatási engedélyben megjelölt kutatási terv keretei között – a kutatási cél és rendelkezésre bocsátandó egészségügyi adatok körének megjelölésével – kérheti az egészségbiztosítási szervet, hogy az általa megjelölt szempontok szerinti érintettek személyazonosító adatait az érintett háziorvosának adja át. A háziorvos az érintett személyek kutatásba történő bevonása érdekében megkeresi az érintettet annak érdekében, hogy az járuljon hozzá a személyazonosító és elérhetőségi adatainak a kutatási engedély jogosultja vagy a kutatásban közreműködő egészségügyi szolgáltató részére történő átadásához.
 
 (2) Az egészségbiztosítási szerv az (1) bekezdés szerinti adatok leválogatásáért fizetendő díjnak a megtérítését kérheti a kutatási engedély jogosultjától.
 
@@ -772,7 +802,7 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (8) Az EESZT működtetője ellenőrzi az (1) bekezdés szerinti kötelezettség teljesítését, valamint azt, hogy az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltató az EESZT útján való adatszolgáltatási kötelezettségének eleget tesz-e. Ha jogszabály az EESZT működtetőjének erről szóló tájékoztatási kötelezettségét előírja, az ellenőrzésének eredményét a hatósági ellenőrzést végző államigazgatási szerv számára automatizált lekérdező felület útján is – a személyes adatok törvényben meghatározott kezelésének szabályai betartása mellett – biztosíthatja.
 
-(9) Törvényben vagy kormányrendeletben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szerv részére is továbbítható adat.
+(9) Törvényben vagy kormányrendeletben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szervezet részére is továbbítható adat.
 
 (10) A betegellátás során nem követelhető meg az érintettől olyan egészségügyi dokumentáció bemutatása vagy egészségügyi adat igazolása, amely az EESZT-ben elérhető.
 
@@ -1146,6 +1176,7 @@ rendeletben állapítsa meg.
 - d) az önrendelkezési nyilvántartást vezető szervet,
 - e) a 35/L. § szerinti kapcsolati kódot kezelő szervet
 - f) a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szervet
+- g) a 21/B. § (4) bekezdésében meghatározott szervet
 
 rendeletben jelölje ki.
 

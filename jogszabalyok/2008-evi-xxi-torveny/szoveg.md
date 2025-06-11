@@ -2,7 +2,9 @@
 
 a humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól
 
-Az Országgyűlésfelismerve, hogy az egyén veleszületett, életre szóló genetikai jellemzőinek speciális és fokozott védelme szükséges, figyelemmel arra, hogy a humánbiológiai anyagmintán végzett genetikai kutatás a betegségek hátterének megértése és kezelési lehetőségek feltárása útján komoly tudományos jelentőséggel bír, tekintettel arra, hogy a genetikai kutatások során az emberi méltóság fokozott védelme indokolt, figyelembe véve a 2002. évi VI. törvénnyel kihirdetett, az Európa Tanácsnak az emberi lény emberi jogainak és méltóságának a biológia és az orvostudomány alkalmazására tekintettel történő védelméről szóló, Oviedóban, 1997. április 4-én kelt Egyezménye: Az emberi jogokról és a biomedicináról szóló Egyezményt
+Az Országgyűlés
+
+felismerve, hogy az egyén veleszületett, életre szóló genetikai jellemzőinek speciális és fokozott védelme szükséges, figyelemmel arra, hogy a humánbiológiai anyagmintán végzett genetikai kutatás a betegségek hátterének megértése és kezelési lehetőségek feltárása útján komoly tudományos jelentőséggel bír, tekintettel arra, hogy a genetikai kutatások során az emberi méltóság fokozott védelme indokolt, figyelembe véve a 2002. évi VI. törvénnyel kihirdetett, az Európa Tanácsnak az emberi lény emberi jogainak és méltóságának a biológia és az orvostudomány alkalmazására tekintettel történő védelméről szóló, Oviedóban, 1997. április 4-én kelt Egyezménye: Az emberi jogokról és a biomedicináról szóló Egyezményt
 
 a következő törvényt alkotja:
 
@@ -162,7 +164,9 @@ járul hozzá;
 
 11. § E fejezetben foglalt rendelkezések alkalmazása során az Eütv. 13. és 14. §-ának a tájékoztatáshoz való jogra és 16. §-ának a beleegyező nyilatkozatra vonatkozó szabályai is megfelelően irányadóak.
 
-### III. Fejezet — A HUMÁNGENETIKAI VIZSGÁLATRA VONATKOZÓ SZABÁLYOK
+### III. Fejezet — A HUMÁNGENETIKAI VIZSGÁLATRA
+
+VONATKOZÓ SZABÁLYOK
 
 12. § (1) Humángenetikai vizsgálat csak az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló rendelet szerint felszerelt, szakképzett személyi háttérrel és működési engedéllyel rendelkező egészségügyi szolgáltatónál végezhető.
 
@@ -209,6 +213,8 @@ járul hozzá;
 21. § Biobankban elhelyezett genetikai minta és ahhoz kapcsolódó személyes adatok kezelése, tárolása tekintetében az érintett 8. § (1) bekezdése szerinti nyilatkozata az irányadó.
 
 22. § (1) Biobankot humángenetikai vizsgálatokra, illetve meghatározott orvostudományi kutatások végzésére jogosult egészségügyi szolgáltató az egészségügyi államigazgatási szerv engedélyével létesíthet és tarthat fenn.
+
+(1a) A biobankban kódolt formában, elkülönítve kell tárolni az Eütv.-ben meghatározott széles körű beleegyezés alapján gyűjtött biológiai mintákat és adatokat.
 
 (2) Humángenetikai kutatást végző egyéb intézmény az (1) bekezdés szerinti engedély hiányában, engedélyezett egyedi kutatási terv alapján, az abban foglalt keretek között működtethet biobankot a kutatás elvégzéséhez szükséges genetikai minták és adatok tárolására, kezelésére a kutatás időtartamára.
 
@@ -288,7 +294,7 @@ járul hozzá;
 
 ### VII. Fejezet — ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 
-29. §
+#### 29. §
 
 30. § (1) Ez a törvény 2008. július 1-jén lép hatályba.
 
@@ -309,4 +315,4 @@ járul hozzá;
 
 rendeletben meghatározza.
 
-32. §
+#### 32. §
