@@ -109,7 +109,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 (2) A Monetáris Tanács szükség esetén bármikor összehívható, de havonta legalább egy alkalommal ülésezik.
 
-(3) A Monetáris Tanács legalább öt-, legfeljebb kilenctagú testület. A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjai számának összege nem érheti el a (4) bekezdés c) pontja szerinti tagjainak számát, és a (4) bekezdés c) pontja szerinti tagok száma nem érheti el a (4) bekezdés a) és b) pontja szerinti tagok száma összegének kétszeresét. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
+(3) A Monetáris Tanács legalább öt-, legfeljebb tizenegy tagú testület. A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjai számának összege nem érheti el a (4) bekezdés c) pontja szerinti tagjainak számát, és a (4) bekezdés c) pontja szerinti tagok száma nem érheti el a (4) bekezdés a) és b) pontja szerinti tagok száma összegének kétszeresét. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
 
 (4) A Monetáris Tanács tagjai:
 
@@ -166,7 +166,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 #### 7. Az MNB alelnökei
 
-11. § (1) Az MNB legalább kettő, legfeljebb három alelnökkel rendelkezik. Az MNB alelnökeinek személyére a miniszterelnök tesz javaslatot a köztársasági elnök számára.
+11. § (1) Az MNB legalább kettő, legfeljebb négy alelnökkel rendelkezik. Az MNB alelnökeinek személyére a miniszterelnök tesz javaslatot a köztársasági elnök számára.
 
 (2) A 9. § (5)–(10), (12) és (13) bekezdéseit az MNB alelnökei tekintetében is alkalmazni kell, azzal, hogy az MNB alelnökeinek felmentésére az MNB elnökének előterjesztésére a miniszterelnök tesz javaslatot.
 
@@ -1866,7 +1866,7 @@ tarthat.
 
 90. § (1) Az MNB piacfelügyeleti eljárást indít
 
-- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői, hitelgondozási tevékenység gyanúja esetén,
+- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység, bizalmi vagyonkezelési tevékenység, hitelgondozási tevékenység gyanúja esetén,
 - b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
 - c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 - d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
@@ -1992,6 +1992,8 @@ számított 5 évig kezelheti.
 
 (7) Az MNB a befektetők érdekeinek hatékony védelme érdekében a honlapján közzéteszi az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésével érintett honlapok elnevezését.
 
+(8) Az MNB-t nem terheli felelősség azért a kárért, amely abból származik, hogy az ideiglenesen hozzáférhetetlenné tett elektronikus adat az (1) bekezdésben foglaltak mellett olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy nem várható el a hozzáférhetetlenné tétel végrehajtása során.
+
 92. § (1) Az MNB piacfelügyeleti eljárásban a küldeményeit postai szolgáltató útján vagy saját kézbesítés keretében is kézbesítheti. A külföldön teljesített postai úton való kézbesítést szabályszerűnek kell tekinteni, ha az akár a hivatalos irat kézbesítésére vonatkozó belföldi jogszabályok rendelkezéseinek, akár a kézbesítés helyén irányadó jogszabályok rendelkezéseinek megfelel.
 
 (2) A magyarországi lakcímmel vagy székhellyel nem rendelkező ügyfél részére hirdetményi közlésnek, illetve – amennyiben annak feltételei fennállnak – kézbesítési ügygondnok útján történő kézbesítésnek kézbesítési meghatalmazott megnevezésének hiánya miatt csak akkor van helye, ha nemzetközi jogsegély útján vagy az igénybe vehető egyéb közlési módok alkalmazásával a közlés – annak megtörténte igazolásával – nem biztosítható.
@@ -2046,7 +2048,7 @@ terjedhet.
 
 (3) Ha az MNB által folytatott piacfelügyeleti eljárásban vizsgált tevékenység kapcsán büntetőeljárás van folyamatban, az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés meghozatalával, valamint megszüntetésével egyidejűleg értesíti a büntetőügyben eljáró bíróságot, ügyészséget vagy nyomozó hatóságot, ha megítélése szerint a befektetők érdekeinek megóvása megalapozza az elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve az elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés alkalmazhatóságát.
 
-(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének biztosítási intézkedésként történő alkalmazására egyebekben a 91/A. § (2)–(7) bekezdésében foglaltak az irányadók.
+(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének biztosítási intézkedésként történő alkalmazására egyebekben a 91/A. § (2)–(8) bekezdésében foglaltak az irányadók.
 
 94. § (1) Az MNB, ha engedély nélkül vagy bejelentés hiányában végzett tevékenység miatt piacfelügyeleti bírság kiszabására, jogsértő magatartás további folytatása megtiltásának elrendelésére vagy jogsértő állapot megszüntetésének elrendelésére került sor, és arra az engedély nélkül vagy bejelentés hiányában tevékenységet végző személy vagy szervezet ügyfelei jogi vagy gazdasági érdekeinek, vagy a közérdeknek a védelme miatt szükség van honlapján közzéteszi
 
