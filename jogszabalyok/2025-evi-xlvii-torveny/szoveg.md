@@ -16,13 +16,9 @@ az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar N
 
 #### 2. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-3. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: Mnbtv.) 9. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 3. §
 
-„(3) A Monetáris Tanács legalább öt-, legfeljebb tizenegy tagú testület. A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjai számának összege nem érheti el a (4) bekezdés c) pontja szerinti tagjainak számát, és a (4) bekezdés c) pontja szerinti tagok száma nem érheti el a (4) bekezdés a) és b) pontja szerinti tagok száma összegének kétszeresét. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.”
-
-4. § Az Mnbtv. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az MNB legalább kettő, legfeljebb négy alelnökkel rendelkezik. Az MNB alelnökeinek személyére a miniszterelnök tesz javaslatot a köztársasági elnök számára.”
+#### 4. §
 
 #### 5. §
 
@@ -38,19 +34,11 @@ az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar N
 
 #### 11. §
 
-12. § Az Mnbtv. 90. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+#### 12. §
 
-(Az MNB piacfelügyeleti eljárást indít)
+#### 13. §
 
-„a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység, bizalmi vagyonkezelési tevékenység, hitelgondozási tevékenység gyanúja esetén,”
-
-13. § Az Mnbtv. 91/A. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az MNB-t nem terheli felelősség azért a kárért, amely abból származik, hogy az ideiglenesen hozzáférhetetlenné tett elektronikus adat az (1) bekezdésben foglaltak mellett olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy nem várható el a hozzáférhetetlenné tétel végrehajtása során.”
-
-14. § Az Mnbtv. 93/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének biztosítási intézkedésként történő alkalmazására egyebekben a 91/A. § (2)–(8) bekezdésében foglaltak az irányadók.”
+#### 14. §
 
 #### 15. §
 
