@@ -497,7 +497,7 @@ kell alkalmazni.
 
 (13) A kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidőn túl fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy, ha foglalkoztatása a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben vagy az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben történik, a (12) bekezdés szerinti feladatokkal összefüggő előkészítő, értékelő, adminisztratív és egyéb feladatokat, továbbá eseti helyettesítést lát el.
 
-(14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt a pedagógusok új életpályájáról szóló 2023. évi LII. törvény szerinti pedagógusigazolvány illeti meg.
+(14) A pedagógus-munkakörben foglalkoztatott személyt, a középfokú végzettséggel rendelkező kisgyermeknevelő, szaktanácsadó munkakörben foglalkoztatott személyt, a bölcsődei dajka munkakört betöltő személyt, és a pedagógus-munkakörből nyugdíjba vonult személyt a pedagógusok új életpályájáról szóló 2023. évi LII. törvény szerinti pedagógusigazolvány illeti meg.
 
 (15) A pedagógus-munkakörben foglalkoztatott személyt évi huszonegy munkanap alapszabadság, és a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
 
@@ -505,6 +505,8 @@ kell alkalmazni.
 
 - a) bejelenti az intézményt a köznevelés információs rendszerébe, és
 - b) a köznevelés információs rendszere alkalmazotti nyilvántartásába (a továbbiakban: alkalmazotti nyilvántartás) a pedagógus-munkakörben foglalkoztatottakról a pedagógus előmeneteli rendszer működtetésével összefüggésben adatot rögzít.
+
+(16a) A (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsőde, mini bölcsőde vezetője az alkalmazotti nyilvántartásba a középfokú végzettséggel rendelkező kisgyermeknevelő, szaktanácsadó munkakörben foglalkoztatott személyekről, valamint a bölcsődei dajka munkakört betöltő személyekről a pedagógusigazolványra való jogosultság megállapításával összefüggésben adatot rögzít.
 
 (17) Az alkalmazotti nyilvántartás a pedagógiai-szakmai ellenőrzés időpontjának és megállapításainak kivételével tartalmazza az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 1. melléklet II. pontjában foglalt adatokat, valamint a szociális szakvizsga megszerzésének idejét.
 
@@ -5226,6 +5228,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - e) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
 - f) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeit,
 - g) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat.
+- h) az örökbefogadás szabályaival és az országos örökbefogadást elősegítő szerv feladataival, működésével kapcsolatos részletes szabályokat.
 
 (4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
