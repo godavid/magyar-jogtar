@@ -2089,7 +2089,7 @@ a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózko
 
 (8) A (7) bekezdés alkalmazásában kiemelkedően súlyos fegyelemsértés:
 
-- a) terrorcselekményt, fogolyzendülést, fogolyszökést, támadást, tömeges ellenállást, előnyök szerzése érdekében elkövetett önkárosítást, tiltott tárgyként kábítószer, új pszichoaktív anyag, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer birtoklását, illetve kereskedelmét megvalósító rendkívüli eseményben való részvétel, vagy
+- a) terrorcselekményt, fogolyzendülést, fogolyszökést, támadást, tömeges ellenállást, előnyök szerzése érdekében elkövetett önkárosítást, tiltott tárgyként kábítószer, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer birtoklását, illetve kereskedelmét megvalósító rendkívüli eseményben való részvétel, vagy
 - b) bűncselekményt megvalósító, személy elleni erőszakos vagy súlyos sérülést okozó fegyelemsértés.
 
 (9) Azonnali visszasorolás esetén az elítélt a visszasorolt kategóriában nulla kreditponttal rendelkezik, és a kategória-előresorolásához szükséges kreditpont a kezdeti besorolásakor megállapított megszerezhető kreditpontjainak a húsz százaléka, de legfeljebb tizenkét kreditpont mindaddig, amíg az elítélt el nem éri az azonnali visszasorolás előtti kategória-besorolását. Ezt követően az eredeti kategória-előresorolás szerinti ütemezés érvényesül.
@@ -2880,6 +2880,7 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 - i) a tartására fordított költséghez hozzájárulni, kivéve ha önhibáján kívüli okból nem dolgozik és nem részesül rendszeres pénzellátásban, illetve nem rendelkezik letéti pénzzel,
 - j) a képességeinek és a bv. intézet adottságainak megfelelő képzésben, illetve oktatásban részt venni.
 - k) jeladóval rendelkező elektronikus karpántot viselni tartózkodási helyének és fizikai állapotának nyomon követése, valamint közvetlen utasítása és értesítése céljából.
+- l) a bv. intézet által meghatározottak szerint közösségi jóvátételi programban részt venni.
 
 (3) A tartási költségekhez való hozzájárulás összegét az országos parancsnok normatív utasításban határozza meg, az évente meghatározott napi összeg – teljes munkaidőben történő foglalkoztatás esetén – nem lehet kevesebb, mint az egy havi alapmunkadíj egy százaléka.
 
@@ -2930,6 +2931,16 @@ az elítéltnek a bv. intézet felé fennálló – a (4) bekezdés alapján meg
 (4) A tisztántartást, karbantartást és ellátást szolgáló munkavégzés idejére az elítéltet szükség szerint el kell látni munkaruhával és lábbelivel, szakmai oktatásban kell részesíteni, balesetét a munkabalesetre vonatkozó jogszabály szerint kell elbírálni.
 
 (5) A tisztántartást, karbantartást és ellátást szolgáló munkavégzés időpontjait és tartamát a bv. intézet a fogvatartotti nyilvántartásban rögzíti.
+
+135/A. § (1) Az elítélt, ha szándékos bűncselekmény elkövetése miatt ítélték szabadságvesztésre, a büntetés végrehajtása alatt köteles a bv. intézet által kijelölt települési önkormányzat területén, a település tisztántartását vagy a településen működő költségvetési intézmény karbantartását célzó – az érintett települési önkormányzattal egyeztetett – közösségi jóvátételi programban díjazás nélkül részt venni.
+
+(2) A közösségi jóvátételi programban való részvételre a 135. § (2) bekezdését, valamint a 135. § (4) és (5) bekezdését kell megfelelően alkalmazni azzal, hogy a munka jellegétől függően az elítéltet munka- és balesetvédelmi oktatásban is részesíteni kell.
+
+(3) A közösségi jóvátételi programban való részvétel ideje a napi négy órát, egy évben a hatvan órát nem haladhatja meg, amely tartamba a munkavégzés helyszínére és az onnan történő visszaszállítás időtartama nem számít be. A bv. orvos a munkavégzés idejét az elítélt egészségi és fizikai állapotára vagy életkorára tekintettel csökkentheti.
+
+(4) Ha az elítélt a közösségi jóvátételi programban önhibájából nem vesz részt, az adott elszámolási időszakban a reintegrációs programban való részvételére kreditpont csak kivételes méltánylást érdemlő esetben adható.
+
+(5) A közösségi jóvátételi programba való részvételre az elítéltet a BFB jelöli ki, a kijelölés iránt kérelem nem nyújtható be.
 
 136. § A szabadságvesztés végrehajtása alatt az elítélt köteles tűrni – különösen –
 
@@ -3406,7 +3417,7 @@ rendelkezhet.
 
 (7) Ha az elítélttel szemben több büntetőeljárás van folyamatban, a rendelkezési jogkör gyakorlójának az adott büntetőeljárásban a (4) bekezdés alapján meghozott rendelkezését a bv. intézet valamennyi büntetőeljárás vonatkozásában érvényesíti.
 
-(8) A kapcsolattartásból legfeljebb hat hónapra, ismételt szabályszegés esetén legfeljebb két évre kizárható az a kapcsolattartó, aki magatartásával súlyosan megsérti a bv. intézet rendjét, a fogvatartás biztonságát vagy a kapcsolattartás szabályait, így különösen, ha a szabályszegés bűncselekményt valósít meg vagy a kapcsolattartás során kábítószer, új pszichoaktív anyag, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer bejuttatására irányul.
+(8) A kapcsolattartásból legfeljebb hat hónapra, ismételt szabályszegés esetén legfeljebb két évre kizárható az a kapcsolattartó, aki magatartásával súlyosan megsérti a bv. intézet rendjét, a fogvatartás biztonságát vagy a kapcsolattartás szabályait, így különösen, ha a szabályszegés bűncselekményt valósít meg vagy a kapcsolattartás során kábítószer, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer bejuttatására irányul.
 
 (9) A kizárás egy vagy több kapcsolattartási formára és az adott bv. intézetben fogva lévő egy vagy több elítélttel történő kapcsolattartásra vonatkozhat. A tizennyolcadik életévét be nem töltött személy csak ismételt szabályszegés esetén, legfeljebb hat hónapra zárható ki a kapcsolattartásból. A tizennegyedik életévét be nem töltött személy nem zárható ki a kapcsolattartásból.
 
@@ -3583,13 +3594,13 @@ jogosult.
   - da) a c) pont szerinti kizárását követő öt éven belül a kapcsolattartással összefüggésben ismételten súlyos fegyelmi vétséget követett el, vagy
   - db) megalapozottan gyanúsítható a látogatófogadás során elkövetett személy elleni erőszakos bűncselekmény elkövetésével.
 
-(2) Az (1) bekezdés alkalmazásában súlyos fegyelmi vétségnek minősül különösen az elítélt birtokában nem tartható tárgy átvétele, a látogatófogadás során személy elleni erőszakos bűncselekményt, kábítószer birtoklását, új pszichoaktív anyaggal visszaélést, teljesítményfokozó szerrel visszaélést vagy gyógyszerhamisítást megvalósító fegyelemsértés.
+(2) Az (1) bekezdés alkalmazásában súlyos fegyelmi vétségnek minősül különösen az elítélt birtokában nem tartható tárgy átvétele, a látogatófogadás során személy elleni erőszakos bűncselekményt, kábítószer birtoklását, tudatmódosító anyaggal visszaélést, teljesítményfokozó szerrel visszaélést vagy gyógyszerhamisítást megvalósító fegyelemsértés.
 
 (3) A személyes érintkezést lehetővé tévő vagy a kötetlen látogatófogadás lehetőségéből véglegesen kizárt elítéltet – kérelmére – a kizárástól számított öt év elteltével a bv. intézet parancsnoka méltányosságból mentesítheti a végleges kizárás hatálya alól.
 
 (4) Ha a kapcsolattartó a látogatófogadás szabályait súlyosan megsérti, e kapcsolattartó tekintetében a személyes érintkezést lehetővé tévő vagy a kötetlen látogatófogadás lehetőségéből az elítélt az (1) bekezdésben meghatározott tartamban kizárható.
 
-(5) A (4) bekezdés alkalmazásában súlyos szabályszegésnek minősül az elítélt birtokában nem tartható tárgy átadása vagy annak megkísérlése, a látogatófogadás során – ideértve a bv. intézetbe történő be- és kiléptetést is – elkövetett személy elleni erőszakos bűncselekmény, kábítószer-kereskedelem, kábítószer birtoklásának, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés vagy gyógyszerhamisítás megalapozott gyanúja.
+(5) A (4) bekezdés alkalmazásában súlyos szabályszegésnek minősül az elítélt birtokában nem tartható tárgy átadása vagy annak megkísérlése, a látogatófogadás során – ideértve a bv. intézetbe történő be- és kiléptetést is – elkövetett személy elleni erőszakos bűncselekmény, kábítószer-kereskedelem, kábítószer birtoklásának, tudatmódosító anyaggal visszaélés, teljesítményfokozó szerrel visszaélés vagy gyógyszerhamisítás megalapozott gyanúja.
 
 (6) A kizárásról a bv. intézet parancsnoka határozattal dönt. Az elítélt a kizárásáról hozott határozattal szemben bírósági felülvizsgálati kérelmet nyújthat be, ha (4) bekezdés szerinti kizárásra az elítélt hozzátartozójának szabályszegésével összefüggésben került sor.
 

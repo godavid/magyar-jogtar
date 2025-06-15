@@ -613,7 +613,7 @@ az (1) bekezdés szerinti megkeresést vagy adatkérést rövid úton is előter
 
 24. § (1) Az érintett első ízben történő orvosi ellátásakor, ha az érintett 8 napon túl gyógyuló sérülést szenvedett és a sérülés feltehetően bűncselekmény következménye, a kezelőorvos a rendőrségnek haladéktalanul bejelenti az érintett személyazonosító adatait.
 
-(2)
+(2) A kezelőorvos haladéktalanul értesíti a kiskorú személy törvényes képviselőjét arról, ha az általa kezelt kiskorú személy kábítószer hatása alatt áll. Ilyen esetben az Eütv. 16. § (6) bekezdésében foglalt rendelkezés nem alkalmazható.
 
 (3) A kiskorú érintett első ízben történő egészségügyi ellátásakor – a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 17. §-ára is tekintettel – az ellátást végző egészségügyi szolgáltató ezzel megbízott orvosa köteles az egészségügyi szolgáltató telephelye szerint illetékes gyermekjóléti szolgálatot haladéktalanul értesíteni, ha
 

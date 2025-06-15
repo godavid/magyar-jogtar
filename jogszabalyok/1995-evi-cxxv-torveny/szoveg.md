@@ -1941,7 +1941,7 @@ Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncs
 
 2.8. kábítószer-prekurzorral visszaélés [Btk. 183. § (1) bekezdés a) pontja],
 
-2.9. új pszichoaktív anyaggal visszaélés [Btk. 184. § (1)–(3) bekezdése, 184/A. §, (1) bekezdés b) pontja, c) pont cb) alpontja, (2) és (3) bekezdése, 184/B. § (1)–(3) bekezdése, 184/C. § (1)–(3) bekezdése]
+2.9. tudatmódosító anyaggal visszaélés [Btk. 184. §],
 
 2.10. teljesítményfokozó szerrel visszaélés [Btk. 185. § (1) bekezdés a) és b) pontja, (2 és (3) bekezdése],
 

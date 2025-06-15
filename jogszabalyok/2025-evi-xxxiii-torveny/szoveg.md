@@ -12,39 +12,21 @@ egyes családügyi és családtámogatási vonatkozású törvények módosítá
 
 #### 1. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-1. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 15. § (14) bekezdése helyébe a következő rendelkezés lép:
+#### 1. §
 
-„(14) A pedagógus-munkakörben foglalkoztatott személyt, a középfokú végzettséggel rendelkező kisgyermeknevelő, szaktanácsadó munkakörben foglalkoztatott személyt, a bölcsődei dajka munkakört betöltő személyt, és a pedagógus-munkakörből nyugdíjba vonult személyt a pedagógusok új életpályájáról szóló 2023. évi LII. törvény szerinti pedagógusigazolvány illeti meg.”
-
-(2) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 15. §-a a következő (16a) bekezdéssel egészül ki:
-
-„(16a) A (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsőde, mini bölcsőde vezetője az alkalmazotti nyilvántartásba a középfokú végzettséggel rendelkező kisgyermeknevelő, szaktanácsadó munkakörben foglalkoztatott személyekről, valamint a bölcsődei dajka munkakört betöltő személyekről a pedagógusigazolványra való jogosultság megállapításával összefüggésben adatot rögzít.”
-
-2. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (3) bekezdése a következő h) ponttal egészül ki:
-
-(Felhatalmazást kap a gyermek- és ifjúságpolitikáért felelős miniszter, hogy rendeletben szabályozza)
-
-„h) az örökbefogadás szabályaival és az országos örökbefogadást elősegítő szerv feladataival, működésével kapcsolatos részletes szabályokat.”
+#### 2. §
 
 #### 2. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-3. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 50/F. §-a a következő d) ponttal egészül ki:
+#### 3. §
 
-[A]
+#### 4. §
 
-„d) Vidéki Otthonfelújítási Programról szóló kormányrendelet szerinti otthonfelújítási kölcsön”
-
-[igénybevétele tekintetében a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 53. § (1) bekezdés b)–d) pontja szerinti átalányban megállapított jövedelemmel rendelkező egyéni vállalkozó, mezőgazdasági őstermelő jövedelmeként a jövedelem megállapításánál figyelembe vett bevétele 50 százalékát kell figyelembe venni.]
-
-4. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 50/F. § c) pontjában a „kölcsön” szövegrész helyébe a „kölcsön, és” szöveg lép.
-
-5. § Hatályát veszti a családok támogatásáról szóló 1998. évi LXXXIV. törvény 50/F. § b) pontjában az „és” szövegrész.
+#### 5. §
 
 #### 3. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény módosítása
 
-6. § Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A köznevelési intézmény, a szakképző intézmény és a felsőoktatási intézmény, a felnőttképző, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 15. § (16) bekezdése szerinti intézmény, a jelentkező, a jegyző, a közneveléssel, a szakképzéssel és a felsőoktatással összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, intézmények, államilag elismert nyelvvizsgaközpontok a jogszabályokban meghatározottak szerint adatokat szolgáltatnak az oktatási nyilvántartásba. Az adatszolgáltatás helyességéért az adatszolgáltató felelős.”
+#### 6. §
 
 #### 4. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
