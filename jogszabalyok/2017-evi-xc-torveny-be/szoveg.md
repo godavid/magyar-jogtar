@@ -3334,7 +3334,7 @@ is alkalmazható.
 (2) A bírói engedélyhez kötött leplezett eszközök a három évig terjedő szabadságvesztéssel büntetendő, szándékosan elkövetett következő bűncselekmények esetén is alkalmazhatók:
 
 - a) az üzletszerűen vagy bűnszövetségben elkövetett bűncselekmény,
-- b) a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
+- b) a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés, a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
 - c) a szexuális visszaélés, a kerítés, a prostitúció elősegítése, a kitartottság, a gyermekprostitúció kihasználása, a gyermekpornográfia,
 - d) a környezetkárosítás, a természetkárosítás, az orvvadászat, a tiltott állatviadal szervezése, a hulladékgazdálkodás rendjének megsértése,
 - e) a zártörés kivételével az igazságszolgáltatás elleni bűncselekmények,
@@ -3874,8 +3874,9 @@ határidő állapítható meg.
 - a) az őrizet,
 - b) a távoltartás,
 - c) a bűnügyi felügyelet,
-- d) a letartóztatás és
-- e) az előzetes kényszergyógykezelés [a b)–e) pont a továbbiakban együtt: személyi szabadságot érintő bírói engedélyes kényszerintézkedés].
+- d) a letartóztatás
+- e) az előzetes kényszergyógykezelés [a b)–e) pont a továbbiakban együtt: személyi szabadságot érintő bírói engedélyes kényszerintézkedés], valamint
+- f) a bűnmegelőzési célú felügyelet.
 
 (3) Vagyont érintő kényszerintézkedés
 
@@ -4213,6 +4214,58 @@ indítványozhatja.
 295. § (1) A bíróság a távoltartás, illetve a bűnügyi felügyelet meghosszabbítása vagy fenntartása esetén hivatalból enyhébb magatartási szabályokat állapíthat meg, ha a személyi szabadságot érintő bírói engedélyes kényszerintézkedéssel elérni kívánt cél így is elérhető.
 
 (2) A bíróság – a vádemelés előtt az ügyészség indítványára – a terhelt számára hátrányosabb magatartási szabályokat állapíthat meg, ha a személyi szabadságot érintő bírói engedélyes kényszerintézkedéssel elérni kívánt cél eléréséhez ez szükséges.
+
+### XLVI/A. Fejezet — BŰNMEGELŐZÉSI CÉLÚ FELÜGYELET
+
+295/A. § A bűnmegelőzési célú felügyelet a további kábítószerfogyasztás megelőzése érdekében a terhelt cselekvési szabadságát korlátozza.
+
+295/B. § (1) Az ügyészség a kábítószer-kereskedelem vagy a kábítószer birtoklása elkövetésének a megalapozott gyanúja miatt a gyanúsítottal szemben folyamatban lévő eljárásban a gyanúsított bűnmegelőzési célú felügyeletét rendeli, ha
+
+- a) a gyanúsítottal szemben személyi szabadságot érintő bírói engedélyes kényszerintézkedés elrendelésére nem került sor, és
+- b) a gyanúsított megalapozottan gyanúsítható azzal, hogy a kábítószer birtoklását kábítószer fogyasztásával vagy kábítószer fogyasztás céljából történő tartásával követte el.
+
+(2) A bűnmegelőzési célú felügyelet elrendelése különös méltánylást érdemlő esetben mellőzhető.
+
+295/C. § (1) A bűnmegelőzési célú felügyelet megszűnik, ha
+
+- a) a tartama meghosszabbítás nélkül lejárt,
+- b) a nyomozás határideje lejárt,
+- c) a nyomozást befejezték vagy
+- d) az eljárást felfüggesztették.
+
+(2) A bűnmegelőzési célú felügyeletet meg kell szüntetni, ha
+
+- a) az elrendelésének oka megszűnt,
+- b) a gyanúsítottal szemben személyi szabadságot érintő bírói engedélyes kényszerintézkedést rendeltek el,
+- c) más ügyben a gyanúsított letartóztatását vagy előzetes kényszergyógykezelését rendelték el vagy
+- d) a gyanúsított szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt.
+
+295/D. § Bűnmegelőzési célú felügyelet elrendelése esetén az ügyészség előírja, hogy a gyanúsított
+
+- a) meghatározott időközönként és módon a rendőrség általános rendőrségi feladatok ellátására létrehozott szervénél jelentkezzen, és
+- b) működjön közre a rendőrség kábítószer-fogyasztást ellenőrző vizsgálatában.
+
+295/E. § A bűnmegelőzési célú felügyelet három hónapig tart, amelyet az ügyészség egy alkalommal, három hónappal meghosszabbíthat.
+
+295/F. § (1) Ha a bűnmegelőzési célú felügyelet tartama alatt a gyanúsított életkörülményeiben olyan lényeges változás következik be, amely miatt
+
+- a) az előírt magatartási szabályoktól történő ideiglenes eltérés vagy azok ideiglenes felfüggesztése szükséges, az ügyészség a bűnmegelőzési célú felügyelet magatartási szabályait hivatalból, illetve a terhelt vagy a védő indítványára részlegesen feloldja, vagy
+- b) az előírt magatartási szabályok tartós vagy végleges módosítása szükséges, a bűnmegelőzési célú felügyelet magatartási szabályait az ügyészség a gyanúsított vagy a védő indítványára módosítja.
+
+(2) A bűnmegelőzési célú felügyelet indítvánnyal egyező részleges feloldása, illetve módosítása ellen nincs helye jogorvoslatnak.
+
+(3) A bűnmegelőzési célú felügyelet alatt álló gyanúsított a bíróság, ügyészség, nyomozó hatóság, más hatóság vagy szakértő idézésével kapcsolatos megjelenési kötelezettségének teljesítése, illetve ilyen értesítéssel kapcsolatos megjelenési jogának gyakorlása érdekében az ahhoz szükséges időtartamra és mértékben bűnmegelőzési célú felügyelet magatartási szabályaitól külön engedély nélkül is eltérhet.
+
+(4) A (3) bekezdés szerinti esetben a gyanúsított köteles
+
+- a) az idézésről vagy az értesítésről legkésőbb annak kézhezvételételét követő munkanapon az idézés vagy értesítés megismerésének biztosításával együtt a magatartási szabályok megtartását ellenőrző hatóságot tájékoztatni,
+- b) az idézést vagy értesítést kibocsátó hatóság előtt történt megjelenését és annak időtartamát, a megjelenését követő három munkanapon belül igazolni.
+
+(5) A (4) bekezdésben meghatározott tájékoztatási és igazolási kötelezettség elmulasztása a magatartási szabályok megszegésének minősül.
+
+295/G. § (1) Ha a gyanúsított a bűnmegelőzési célú felügyelet magatartási szabályait megszegi, a gyanúsítottat az ügyészség rendbírsággal sújthatja.
+
+(2) A magatartási szabályok ismételt vagy súlyos megszegése esetén a gyanúsított őrizete rendelhető el.
 
 ### XLVII. Fejezet — A LETARTÓZTATÁS
 
@@ -4826,7 +4879,7 @@ a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező hat�
 
 ### Az elektronikus adathoz való hozzáférés ideiglenes megakadályozása
 
-337. § (1) A kábítószer-kereskedelem, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, gyermekpornográfia, állam elleni bűncselekmény, terrorcselekmény, terrorizmus finanszírozása vagy háborús uszítás miatt folyamatban lévő büntetőeljárásban a bíróság elrendeli a felsorolt bűncselekménnyel összefüggő elektronikus adathoz való hozzáférés ideiglenes megakadályozását, ha
+337. § (1) A kábítószer-kereskedelem, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, tudatmódosító anyaggal visszaélés, gyermekpornográfia, állam elleni bűncselekmény, terrorcselekmény, terrorizmus finanszírozása vagy háborús uszítás miatt folyamatban lévő büntetőeljárásban a bíróság elrendeli a felsorolt bűncselekménnyel összefüggő elektronikus adathoz való hozzáférés ideiglenes megakadályozását, ha
 
 - a) az eltávolításra kötelezett az elektronikus adat ideiglenes eltávolítására vonatkozó kötelezettséget nem teljesítette,
 - b) az elektronikus adat ideiglenes eltávolítására vonatkozóan a külföldi hatóság jogsegély iránti megkeresése a megkeresés bíróság általi kibocsátásától számított harminc napon belül nem vezetett eredményre,
@@ -5439,7 +5492,7 @@ készítését.
 
 374. § (1) Felülbírálati indítvány terjeszthető elő
 
-- a) a távoltartás, illetve a bűnügyi felügyelet magatartási szabályainak részleges feloldására irányuló indítvány elutasítása ellen,
+- a) a bűnmegelőzési célú felügyelet elrendelése ellen, valamint a távoltartás, illetve a bűnügyi felügyelet magatartási szabályainak részleges feloldására irányuló indítvány elutasítása ellen,
 - b) az elkobzás, illetve a vagyonelkobzás biztosítása érdekében alkalmazott lefoglalás elrendelése ellen,
 - c) a zár alá vétel elrendelése ellen, ha – a 327. § (5) bekezdése kivételével – azt az ügyészség vagy a nyomozó hatóság rendelte el,
 - d) a lefoglalt dolog értékesítésének elrendelése ellen, ha azt az ügyészség vagy a nyomozó hatóság rendelte el,
@@ -9386,6 +9439,13 @@ eléri, kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenn
 
 (3) A személyi szabadságot érintő bírói engedélyes kényszerintézkedésről szóló határozatot a fiatalkorú gondozását ellátó nagykorú személlyel is közölni kell.
 
+### A bűnmegelőzési célú felügyelet alkalmazása fiatalkorúval szemben
+
+689/A. § Fiatalkorúval szemben bűnmegelőzési célú felügyelet nem rendelhető el, ha
+
+- a) a fiatalkorú megelőző párfogását rendelték el, vagy
+- b) a fiatalkorú helyes irányú fejlődése érdekében nem indokolt.
+
 ### Feltételes ügyészi felfüggesztés
 
 690. § (1) Fiatalkorúval szemben a 416. § szerinti feltételes ügyészi felfüggesztés akkor alkalmazható, ha
@@ -9555,6 +9615,8 @@ esetén.
 (4) A (3) bekezdésben meghatározott okból elrendelt letartóztatás megszűnik a terhelt szolgálati viszonyának megszűnésével.
 
 (5) Ha a honvéddel szemben olyan bűnügyi felügyeletet rendelnek el, amelynek során a bíróság a terhelt számára előírta, hogy a számára meghatározott területet ne hagyja el, ennek a korlátozásnak a megtartását a parancsnok vagy akadályoztatása esetén más elöljáró ellenőrzi.
+
+(6) Katonával szemben bűnmegelőzési célú felügyelet nem rendelhető el.
 
 ### A védekezés jogának biztosítása
 
@@ -11923,7 +11985,7 @@ miatt került sor.
 - 11. a szaktanácsadó díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - 12. a tolmács és a fordító díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - 13. az elmeállapot megfigyelésére kijelölt egészségügyi intézményeket, a pszichiátriai fekvőbeteg-intézetben az elmeállapot megfigyelésével kapcsolatos költségeket és ezek elszámolását az egészségügyért felelős miniszterrel egyetértésben,
-- 14. a bűnügyi felügyelet és a távoltartás végrehajtásának szabályait a rendészetért felelős miniszterrel egyetértésben,
+- 14. a bűnügyi felügyelet, a távoltartás és a bűnmegelőzési célú felügyelet végrehajtásának szabályait a rendészetért felelős miniszterrel egyetértésben,
 - 15. az óvadék letétele esetén a bírósági letét szabályait,
 - 16. a fogva tartásban lévő terhelt elmeállapota megfigyelésének szabályait az egészségügyért felelős miniszterrel egyetértésben,
 - 17. a lefoglalás szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,

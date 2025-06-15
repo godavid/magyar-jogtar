@@ -382,6 +382,7 @@ részének, de legkevesebb három hónapnak a kitöltését követő nap.
   - ec) emberrablás [190. § (4) bekezdés],
   - ed) fogolyzendülés, terrorcselekmény, jármű hatalomba kerítése és zendülés súlyosabban minősülő esetei, ha a halált szándékosan okozva követik el [284. § (4) bekezdés, 314. § (1) bekezdés, 320. § (2) bekezdés, 442. § (4) bekezdés], vagy
   - ee) elöljáró vagy szolgálati közeg elleni erőszak [445. § (5) bekezdés a) pont].
+- f) az, aki a kábítószer-kereskedelem bűncselekményt különös visszaesőként követte el.
 
 (5) Nem bocsátható feltételes szabadságra az sem, akit
 
@@ -794,9 +795,14 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 (2) El kell kobozni azt a sajtóterméket, amelyben a bűncselekmény megvalósul.
 
-(3) Az (1) bekezdés a) és c) pontja esetében – feltéve, hogy a tulajdonos az elkövetésről előzetesen nem tudott – az elkobzást nem lehet elrendelni, ha a dolog nem az elkövető tulajdona, kivéve, ha az elkobzás mellőzését nemzetközi jogi kötelezettség kizárja.
+(2a) Ha az (1) bekezdés alapján nem esik elkobzás alá, el lehet kobozni
 
-(4) Az elkobzást akkor is el kell rendelni, ha
+- a) a kábítószer termesztése vagy előállítása esetén a kábítószer tárolására, feldolgozására, elrejtésére, termesztésére vagy előállítására használt ingatlant, illetve
+- b) kábítószer-kereskedelem esetén a kábítószer szállításához, tárolásához használt járművet.
+
+(3) Az (1) bekezdés a) és c) pontja, illetve a (2a) bekezdés szerinti esetben – feltéve, hogy a tulajdonos az elkövetésről előzetesen nem tudott – az elkobzást nem lehet elrendelni, ha a dolog nem az elkövető tulajdona, kivéve, ha az elkobzás mellőzését nemzetközi jogi kötelezettség kizárja.
+
+(4) Az elkobzásnak abban az esetben is helye van, ha
 
 - a) az elkövető gyermekkor, kóros elmeállapot vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
 - b) az elkövetőt megrovásban részesítették,
@@ -812,7 +818,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 - a) ha azt nemzetközi jogi kötelezettség kizárja,
 - b) ha az elkövető a bűncselekményt bűnszervezetben követte el,
-- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, környezetkárosítás, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, hulladékgazdálkodás rendjének megsértése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
+- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, tudatmódosító anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, környezetkárosítás, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, hulladékgazdálkodás rendjének megsértése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
 
 ### A vagyonelkobzás
 
@@ -848,7 +854,7 @@ ideje alatt szerzett.
 (2) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni, és vagyonelkobzást kell elrendelni arra a vagyonra is, amelyet
 
 - a) a kábítószer forgalomba hozatala, illetve az azzal való kereskedés [176. § (1)–(4) és (6) bekezdés, 177. § (1) bekezdés b) pont, c) pont cb) alpont és (2)–(3) és (5) bekezdés], kábítószer termesztése, előállítása, az ország területére behozatala, kivitele, átszállítása [178. § (1)–(5) bekezdés és 179. §], a kábítószer készítésének elősegítése [182. § (1)–(4) bekezdés], a kábítószer-prekurzor forgalomba hozatala, szállítása, azzal közvetítői tevékenység végzése [183. § (1) bekezdés a) pont],
-- b) az új pszichoaktív anyag előállítása, az ország területére behozatala, kivitele, átszállítása, forgalomba hozatala, illetve az azzal való kereskedés [184. § (1)–(3) és (5) bekezdés, 184/A. § (1) bekezdés b) pont és c) pont cb) alpont, (2)–(3) és (5) bekezdés, 184/B. § (1) bekezdés a) pont, (2)–(5) bekezdés, 184/C. § (1) bekezdés a) pont aa) alpont, b) pont ba) alpont, (2)–(5) bekezdés],
+- b)
 - c) az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],
 - d) a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4) bekezdés], a tizennyolcadik életévét be nem töltött személyt ábrázoló pornográf felvétel kínálása, átadása, hozzáférhetővé tétele, készítése, forgalomba hozatala, azzal való kereskedelem, illetve nagy nyilvánosság számára hozzáférhetővé tétele [204. § (1) bekezdés b)–c) pont, (2)–(4) bekezdés, (5) bekezdés b) pont és (6) bekezdés], tizennyolcadik életévét be nem töltött személynek vagy személyeknek pornográf műsorban való szerepeltetése vagy ilyen pornográf műsor szervezése [204/A. § (1) bekezdés b) pont és (2)–(5) bekezdés],
 - e) a gyermekmunka (209. §), a harmadik országbeli állampolgár jogellenes foglalkoztatása [356. § (1)–(2) bekezdés],
@@ -1711,20 +1717,19 @@ ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt egy évtől öt �
 
 (2) A büntetés tíz évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztés, ha az emberölést
 
-- a) előre kitervelten,
-- b) nyereségvágyból,
-- c) aljas indokból vagy célból,
-- d) különös kegyetlenséggel,
-- e) hivatalos személy vagy külföldi hivatalos személy sérelmére, hivatalos eljárása alatt, illetve emiatt, közfeladatot ellátó személy sérelmére, e feladatának teljesítése során, továbbá a hivatalos, a külföldi hivatalos vagy a közfeladatot ellátó személy támogatására vagy védelmére kelt személy sérelmére,
-- f) több ember sérelmére,
-- g) több ember életét veszélyeztetve,
-- h) különös visszaesőként,
-- i) tizennegyedik életévét be nem töltött személy sérelmére,
-- j) védekezésre képtelen személy sérelmére,
-- k) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére, vagy
-- l) az elkövetővel szemben emberölés miatt történt vádemelés után
-
-követik el.
+- a) előre kitervelten követik el,
+- b) nyereségvágyból követik el,
+- c) aljas indokból vagy célból követik el,
+- d) különös kegyetlenséggel követik el,
+- e) hivatalos személy vagy külföldi hivatalos személy sérelmére, hivatalos eljárása alatt, illetve emiatt, közfeladatot ellátó személy sérelmére, e feladatának teljesítése során, továbbá a hivatalos, a külföldi hivatalos vagy a közfeladatot ellátó személy támogatására vagy védelmére kelt személy sérelmére követik el,
+- f) több ember sérelmére követik el,
+- g) több ember életét veszélyeztetve követik el,
+- h) különös visszaesőként követik el,
+- i) tizennegyedik életévét be nem töltött személy sérelmére követik el,
+- j) védekezésre képtelen személy sérelmére követik el,
+- k) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére követik el,
+- l) az elkövetővel szemben emberölés miatt történt vádemelés után követik el, vagy
+- m) úgy követik el, hogy az elkövető a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (3) Aki emberölésre irányuló előkészületet követ el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
@@ -1779,23 +1784,21 @@ követik el.
 
 (4) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a könnyű testi sértést
 
-- a) aljas indokból vagy célból,
-- b) védekezésre vagy akaratnyilvánításra képtelen személy sérelmére, illetve
-- c) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére
-
-követik el.
+- a) aljas indokból vagy célból követik el,
+- b) védekezésre vagy akaratnyilvánításra képtelen személy sérelmére követik el,
+- c) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére követik el, vagy
+- d) úgy követik el, hogy az elkövető a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (5) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a könnyű testi sértés maradandó fogyatékosságot vagy súlyos egészségromlást okoz.
 
 (6) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a súlyos testi sértést
 
-- a) aljas indokból vagy célból,
-- b) védekezésre vagy akaratnyilvánításra képtelen személy sérelmére,
-- c) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére,
-- d) maradandó fogyatékosságot vagy súlyos egészségromlást okozva,
-- e) különös kegyetlenséggel
-
-követik el.
+- a) aljas indokból vagy célból követik el,
+- b) védekezésre vagy akaratnyilvánításra képtelen személy sérelmére követik el,
+- c) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére követik el,
+- d) maradandó fogyatékosságot vagy súlyos egészségromlást okozva követik el,
+- e) különös kegyetlenséggel követik el, vagy
+- f) úgy követik el, hogy az elkövető a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (7) Aki a (3) vagy (6) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
@@ -1952,7 +1955,7 @@ terjedő szabadságvesztéssel büntetendő.
 177. § (1) Az a tizennyolcadik életévét betöltött személy, aki
 
 - a) tizennyolcadik életévét be nem töltött személynek kábítószert kínál, átad,
-- b) tizennyolcadik életévét be nem töltött személy felhasználásával kábítószert forgalomba hoz, vagy azzal kereskedik,
+- b) tizennyolcadik életévét be nem töltött személy részére, illetve felhasználásával kábítószert forgalomba hoz, vagy azzal kereskedik,
 - c) oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében kábítószert
   - ca) kínál, átad,
   - cb) forgalomba hoz, vagy azzal kereskedik,
@@ -1973,18 +1976,20 @@ követik el.
 
 (5) Aki az (1) vagy a (2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.
 
+177/A. § A kábítószer-kereskedelem bűncselekmény elkövetőjével szemben kitiltásnak is helye van.
+
 ### Kábítószer birtoklása
 
-178. § (1) Aki kábítószert termeszt, előállít, megszerez, tart, az ország területére behoz, onnan kivisz, vagy azon átszállít, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+178. § (1) Aki kábítószert termeszt, előállít, megszerez, tart, az ország területére történő behozatal céljából megrendel, az ország területére behoz, onnan kivisz, vagy azon átszállít, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés
 
-- a) két évtől nyolc évig terjedő szabadságvesztés, ha
+- a) öt évtől tíz évig terjedő szabadságvesztés, ha
   - aa) üzletszerűen,
   - ab) bűnszövetségben,
   - ac) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva,
-- b) öt évtől tíz évig terjedő szabadságvesztés, ha jelentős mennyiségű kábítószerre,
-- c) öt évtől tizenöt évig terjedő szabadságvesztés, ha különösen jelentős mennyiségű kábítószerre
+- b) öt évtől tizenöt évig terjedő szabadságvesztés, ha jelentős mennyiségű kábítószerre,
+- c) öt évtől húsz évig terjedő szabadságvesztés, ha különösen jelentős mennyiségű kábítószerre
 
 követik el a bűncselekményt.
 
@@ -1999,25 +2004,25 @@ követik el a bűncselekményt.
 
 terjedő szabadságvesztés.
 
-(6) Aki kábítószert fogyaszt, illetve csekély mennyiségű kábítószert fogyasztás céljából megszerez vagy tart, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(6) Aki kábítószert fogyaszt, illetve csekély mennyiségű kábítószert fogyasztás céljából megszerez, tart vagy az ország területére történő behozatal céljából megrendel, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 179. § (1) Az a tizennyolcadik életévét betöltött személy, aki
 
-- a) tizennyolcadik életévét be nem töltött személy felhasználásával vagy
+- a) tizennyolcadik életévét be nem töltött személy részére, illetve felhasználásával, vagy
 - b) oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében
 
-kábítószert termeszt, előállít, megszerez vagy tart, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+kábítószert termeszt, előállít, megszerez vagy tart, bűntett miatt öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő az a tizennyolcadik életévét betöltött személy, aki tizennyolcadik életévét be nem töltött személy felhasználásával kábítószert az ország területére behoz, onnan kivisz, vagy azon átszállít.
+(2) Az (1) bekezdés szerint büntetendő az a tizennyolcadik életévét betöltött személy, aki tizennyolcadik életévét be nem töltött személy részére, illetve felhasználásával kábítószert az ország területére történő behozatal céljából megrendel, az ország területére behoz, onnan kivisz, vagy azon átszállít.
 
 (3) A büntetés
 
-- a) öt évtől tíz évig terjedő szabadságvesztés, ha
+- a) öt évtől húsz évig terjedő szabadságvesztés, ha
   - aa) bűnszövetségben,
   - ab) üzletszerűen,
   - ac) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva,
-- b) öt évtől tizenöt évig terjedő szabadságvesztés, ha jelentős mennyiségű kábítószerre,
-- c) öt évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztés, ha különösen jelentős mennyiségű kábítószerre
+  - ad) jelentős mennyiségű kábítószerre,
+- b) öt évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztés, ha különösen jelentős mennyiségű kábítószerre
 
 követik el a bűncselekményt.
 
@@ -2027,17 +2032,23 @@ követik el a bűncselekményt.
 
 (6) Ha a bűncselekményt csekély mennyiségű kábítószerre követik el, a büntetés bűntett miatt
 
-- a) az (1) és (2) bekezdésben meghatározott esetben három évig,
-- b) a (3) bekezdés ab) és ac) pontjában meghatározott esetben egy évtől öt évig
+- a) az (1), illetve a (2) bekezdésben meghatározott esetben egy évtől öt évig,
+- b) a (3) bekezdés a) pont ab), illetve ac) alpontjában meghatározott esetben két évtől nyolc évig
 
 terjedő szabadságvesztés.
 
-180. § (1) Nem büntethető, aki csekély mennyiségű kábítószert saját használatra termeszt, előállít, megszerez vagy tart, illetve aki kábítószert fogyaszt, ha a bűncselekmény elkövetését beismeri, és az elsőfokú ügydöntő határozat meghozataláig okirattal igazolja, hogy legalább hat hónapig folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült, vagy megelőző-felvilágosító szolgáltatáson vett részt.
+180. § (1) Nem büntethető, aki csekély mennyiségű kábítószert saját használatra termeszt, előállít, megszerez, tart vagy az ország területére történő behozatal céljából megrendel, illetve aki kábítószert fogyaszt, ha
+
+- a) a bűncselekmény elkövetését beismeri,
+- b) az elsőfokú ügydöntő határozat meghozataláig okirattal igazolja, hogy legalább hat hónapig folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült, vagy megelőző-felvilágosító szolgáltatáson vett részt, és
+- c) a vádemelésig az elkövetés körülményeit feltárja, illetve lehetővé teszi a kábítószert értékesítő személy kilétének a megállapítását.
 
 (2) Az (1) bekezdés nem alkalmazható, ha a bűncselekmény elkövetését megelőző két éven belül
 
 - a) az elkövetővel szemben az eljárást az (1) bekezdésben meghatározott büntethetőséget megszüntető okra figyelemmel függesztették fel, vagy
 - b) az elkövető büntetőjogi felelősségét kábítószer-kereskedelem vagy kábítószer birtoklása miatt megállapították.
+
+(2a) Az (1) bekezdés nem alkalmazható akkor sem, ha az elkövető az (1) bekezdés b) pontja szerinti lehetőséget már két alkalommal igénybe vette.
 
 (3) A 178. § (1) és (5)–(6) bekezdés, illetve a 179. § (1)–(2) és (6) bekezdés esetén – ha az (1) bekezdés nem alkalmazható – a büntetés korlátlanul enyhíthető, ha az elkövető a vádemelésig lehetővé teszi a kábítószert értékesítő személy kilétének megállapítását. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszervezetben követik el.
 
@@ -2095,118 +2106,19 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 kell érteni.
 
-### Új pszichoaktív anyaggal visszaélés
+### Tudatmódosító anyaggal visszaélés
 
-184. § (1) Aki új pszichoaktív anyagot kínál, átad, forgalomba hoz vagy azzal kereskedik, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+184. § (1) Aki, abból a célból, hogy a kóros élvezetéhez másnak segítséget nyújtson, kábítószert kínál, átad, ha más bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt
+(2) A büntetés az (1) bekezdés esetén bűntett miatt három évig terjedő szabadságvesztés, ha a bűncselekmény elkövetésével a kábítószer több mint tíz személy számára válik hozzáférhetővé.
 
-- a) bűnszövetségben,
-- b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva vagy
-- c) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a Nemzeti Adó- és Vámhivatal létesítményében
+(3) Aki abból a célból, hogy a kóros élvezetéhez másnak segítséget nyújtson, kábítószert forgalomba hoz vagy azzal kereskedik, ha más bűncselekmény nem valósul meg, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-követik el.
+#### 184/A. §
 
-(2a) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
+#### 184/B. §
 
-(3) Az (1)–(2a) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
-
-(4) Aki csekély mennyiségű új pszichoaktív anyagot kínál vagy átad,
-
-- a) az (1) bekezdésben meghatározott esetben vétség miatt egy évig,
-- b) a (2) bekezdés b)–c) pontjában meghatározott esetben bűntett miatt három évig
-
-terjedő szabadságvesztéssel büntetendő.
-
-(5) Aki az (1)–(2a) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-184/A. § (1) Az a tizennyolcadik életévét betöltött személy, aki
-
-- a) tizennyolcadik életévét be nem töltött személynek új pszichoaktív anyagot kínál, átad,
-- b) tizennyolcadik életévét be nem töltött személy felhasználásával új pszichoaktív anyagot forgalomba hoz vagy azzal kereskedik,
-- c) oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében új pszichoaktív anyagot
-  - ca) kínál, átad,
-  - cb) forgalomba hoz vagy azzal kereskedik,
-
-bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt
-
-- a) bűnszövetségben,
-- b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva,
-- c) jelentős mennyiségű új pszichoaktív anyagra
-
-követik el.
-
-(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
-
-(4) Aki az (1) bekezdés a) pontjában vagy c) pont ca) alpontjában meghatározott bűncselekményt csekély mennyiségű új pszichoaktív anyagra követi el, három évig, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva történő elkövetés esetén egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
-
-(5) Aki az (1) vagy a (2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-184/B. § (1) Aki
-
-- a) új pszichoaktív anyagot előállít, az ország területére behoz, onnan kivisz vagy azon átszállít,
-- b) csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,
-
-bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt
-
-- a) üzletszerűen,
-- b) bűnszövetségben,
-- c) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva
-
-követik el.
-
-(2a) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
-
-(2b) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt különösen jelentős mennyiségű új pszichoaktív anyagra követik el.
-
-(3) Az (1)–(2b) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
-
-(4) Aki az (1)–(2b) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(5) Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés
-
-- a) az (1) bekezdés a) pontjában meghatározott esetben vétség miatt egy évig,
-- b) a (2) bekezdés a) és c) pontjában meghatározott esetben vétség miatt két évig
-
-terjedő szabadságvesztés.
-
-184/C. § (1) Az a tizennyolcadik életévét betöltött személy, aki
-
-- a) tizennyolcadik életévét be nem töltött személy felhasználásával
-  - aa) új pszichoaktív anyagot előállít, az ország területére behoz, onnan kivisz vagy azon átszállít,
-  - ab) csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,
-- b) oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében
-  - ba) új pszichoaktív anyagot előállít,
-  - bb) csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,
-
-bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt
-
-- a) bűnszövetségben,
-- b) üzletszerűen,
-- c) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva
-
-követik el.
-
-(2a) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
-
-(2b) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a bűncselekményt különösen jelentős mennyiségű új pszichoaktív anyagra követik el.
-
-(3) Az (1)–(2b) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
-
-(4) Aki az (1)–(2b) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(5) Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés
-
-- a) az (1) bekezdés a) pont aa) alpontjában és b) pont ba) alpontjában meghatározott esetben vétség miatt két évig,
-- b) a (2) bekezdés b) és c) pontjában meghatározott esetben bűntett miatt három évig
-
-terjedő szabadságvesztés.
+#### 184/C. §
 
 #### 184/D. §
 
@@ -4432,6 +4344,8 @@ ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással bün
 
 339. § (1) Aki olyan kihívóan közösségellenes, erőszakos magatartást tanúsít, amely alkalmas arra, hogy másokban megbotránkozást vagy riadalmat keltsen, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
+(1a) Az (1) bekezdés szerint büntetendő, aki olyan kihívóan közösségellenes magatartást tanúsít, amely alkalmas arra, hogy másokban megbotránkozást vagy riadalmat keltsen, ha a cselekményt úgy követi el, hogy a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
+
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a garázdaságot
 
 - a) csoportosan,
@@ -4447,6 +4361,8 @@ követik el.
 340. § (1) Aki nyilvános rendezvény vagy gyűlés szervezőjének vagy rendezőjének a rend fenntartása érdekében tett jogszerű intézkedésével szemben erőszakkal vagy fenyegetéssel ellenállást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint büntetendő, aki sportrendezvényen a létesítménynek a nézőktől vagy a nézők meghatározott csoportjától elzárt területére jogosulatlanul belép, ott tartózkodik, vagy e területre a sportrendezvény megtartását vagy mások testi épségét veszélyeztető tárgyat bedob.
+
+(2a) Az (1) bekezdés szerint büntetendő, aki a (2) bekezdés szerinti cselekményt úgy követi el, hogy a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a rendbontást
 
@@ -4866,6 +4782,7 @@ bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel bünteten
 - e) jelentős értékre,
 - f) hivatalos személy, külföldi hivatalos személy vagy közfeladatot ellátó személy sérelmére, hivatalos eljárása, illetve feladata teljesítése során,
 - g) a bűncselekmény felismerésére vagy elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére
+- h) kábítószer vásárlásához szükséges anyagi javak megszerzése érdekében
 
 követik el.
 
@@ -4894,6 +4811,7 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 - a) jelentős értékre,
 - b) csoportosan,
 - c) bűnszövetségben
+- d) kábítószer vásárlásához szükséges anyagi javak megszerzése érdekében
 
 követik el.
 
@@ -4953,8 +4871,9 @@ követik el.
   - be) egy vagy több közokirat, magánokirat vagy készpénz-helyettesítő fizetési eszköz egyidejű elvételével,
   - bf) helyiségbe vagy ehhez tartozó bekerített helyre megtévesztéssel, vagy a jogosult, illetve a használó tudta és beleegyezése nélkül bemenve,
   - bg) hamis vagy lopott kulcs használatával,
-  - bh) lakást vagy hasonló helyiséget az elkövetővel közösen használó sérelmére vagy
-  - bi) erdőben jogellenes fakivágással
+  - bh) lakást vagy hasonló helyiséget az elkövetővel közösen használó sérelmére,
+  - bi) erdőben jogellenes fakivágással vagy
+  - bj) kábítószer vásárlásához szükséges anyagi javak megszerzése érdekében
 
 követik el.
 
@@ -4966,7 +4885,8 @@ követik el.
   - bb) védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre,
   - bc) vallási tisztelet tárgyára,
   - bd) holttesten lévő tárgyra, illetve temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt tárgyra,
-  - be) nemesfémre vagy
+  - be) nemesfémre,
+  - bf) kábítószer vásárlásához szükséges anyagi javak megszerzése érdekében, vagy
 - c) a lopást szabálysértési vagy kisebb értékre közveszély színhelyén
 
 követik el.
@@ -5000,10 +4920,9 @@ követik el.
 
 - a) a rongálás kisebb kárt okoz, vagy
 - b) a szabálysértési értékhatárt meg nem haladó kárt okozó rongálást
-  - ba) falfirka elhelyezésével vagy
-  - bb) bűnszövetségben
-
-követik el.
+  - ba) falfirka elhelyezésével követik el,
+  - bb) bűnszövetségben követik el, vagy
+  - bc) úgy követik el, hogy az elkövető a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
 
@@ -5213,6 +5132,8 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 ### Jármű önkényes elvétele
 
 380. § (1) Aki idegen gépi meghajtású járművet mástól azért vesz el, hogy jogtalanul használja, vagy az így elvett, illetve a rábízott ilyen járművet használja jogtalanul, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(1a) Az (1) bekezdés szerint büntetendő, aki az ott meghatározott cselekményt úgy követi el, hogy a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt
 
@@ -6394,7 +6315,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 15. információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége;
 - 16. kár: e törvény eltérő rendelkezése hiányában a bűncselekménnyel a vagyonban okozott értékcsökkenés;
 - 17. vagyoni hátrány: e törvény eltérő rendelkezése hiányában a vagyonban okozott kár és az elmaradt vagyoni előny;
-- 18. kábítószer: a 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. és 2., valamint 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyag;
+- 18.
 - 19. készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz és a forgatható utalvány, a kincstári kártya, az utazási csekk, a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalvány és a váltó, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett;
 - 20. elektronikus készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz mellett a kincstári kártya és a személyi jövedelemadóról szóló törvény felhatalmazása alapján kiadott elektronikus utalvány, feltéve, hogy ezek információs rendszer útján kerülnek felhasználásra;
 - 21. közérdekű üzem:
@@ -6438,7 +6359,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el;
   - c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
 - 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
-- 33. új pszichoaktív anyag: a 78/2022. (XII. 28.) BM rendelet 3. mellékletében meghatározott anyag;
+- 33.
 - 34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
   - a) 2. Cikk 2. bekezdés a. pontjának megfelelően minősített, meghatározott vagy megjelölt ingó kulturális örökségi elem, és
   - b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.
@@ -6446,6 +6367,8 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 36. külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében.
 - 37. tiltott külföldi támogatás: olyan külföldről származó támogatás, amelynek elfogadását vagy felhasználását a pártok működéséről és gazdálkodásáról szóló törvény, illetve a választási eljárásról szóló törvény tiltja.
 - 38. felelős személy: a civil szervezetekről szóló törvényben meghatározott felelős személy.
+
+(1a) E törvény alkalmazásában kábítószer a 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. vagy 2. jegyzékén szereplő anyag, 2. mellékletében a pszichotróp anyagok 1. vagy 2. jegyzékén szereplő anyag, valamint 3. mellékletében meghatározott anyag. A 160. §, a 164. §, a 184. §, a 339. §, a 340. §, a 365. §, a 366. §, a 370. §, a 371. § és a 380. § alkalmazása szempontjából kábítószernek minősül továbbá a bódult állapot előidézésére alkalmas, nem emberi fogyasztásra szánt anyag, ideértve a más szer hozzáadásával vagy szerkezete átalakításával előállított anyagokat, illetve a más tudatmódosító szereket is.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 
@@ -6493,7 +6416,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - a) fegyelmi ügynek azt az eljárást kell tekinteni, amelyre törvény állapítja meg a fegyelmi vétségnek minősülő magatartást, az eljárás részletes szabályait és a kiszabható fegyelmi büntetéseket;
 - b) polgári ügynek kell tekinteni a választottbíróság előtt folyamatban lévő ügyet is.
 
-461. § (1) A 176–180. § alkalmazásában a kábítószer csekély mennyiségű, ha
+461. § (1) E törvény alkalmazásában a kábítószer csekély mennyiségű, ha
 
 - a) annak bázis formában megadott tiszta hatóanyag-tartalma
   - aa) LSD esetén a 0,001 gramm,
@@ -6509,29 +6432,29 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - ak) BZP esetén a 3 gramm,
   - al) pentedron esetén a 0,4 gramm,
 - b) GHB esetén annak sav formában megadott tiszta hatóanyag-tartalma a 7,5 gramm,
-- c) tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen jelen levő THC-tartalom (totál-THC) a 6 gramm
+- c) tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen jelen levő THC-tartalom (totál-THC) a 6 gramm,
 - d) annak tiszta hatóanyag-tartalma
   - da) GBL esetén a 6,2 gramm,
-  - db) AB-CHMINACA, MDMB-CHMICA, AM-2201, AB-PINACA, AB-FUBINACA, és ADB-FUBINACA esetén a 0,05 gramm
+  - db) AB–CHMINACA, MDMB–CHMICA, AM–2201, AB–PINACA, AB–FUBINACA, és ADB–FUBINACA esetén a 0,05 gramm
 
 mennyiséget nem haladja meg.
 
-(2) A 176–180. § alkalmazásában a kábítószer csekély mennyiségű, ha kannabisz növény esetén a növényegyedek száma legfeljebb öt.
+(2) E törvény alkalmazásában a kábítószer csekély mennyiségű, ha kannabisz növény esetén a növényegyedek száma legfeljebb öt.
 
-(3) A 176–180. § alkalmazásában az (1)–(2) bekezdés szerinti kábítószer
+(3) Az (1) és a (2) bekezdés szerinti kábítószer e törvény alkalmazásában
 
 - a) jelentős mennyiségű, ha az adott kábítószerre meghatározott csekély mennyiség felső határának hússzoros,
 - b) különösen jelentős mennyiségű, ha az adott kábítószerre meghatározott csekély mennyiség felső határának kétszázszoros
 
 mértékét meghaladja.
 
-(4) A 176–180. § alkalmazásában az (1)–(2) bekezdésben nem szereplő kábítószer esetén a kábítószer
+(4) A 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. vagy 2. jegyzékén, 2. mellékletében a pszichotróp anyagok 1. vagy 2. jegyzékén szereplő, azonban az (1) vagy a (2) bekezdésben nem szereplő kábítószer e törvény alkalmazásában
 
 - a) csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának hétszeres mértékét nem haladja meg,
 - b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának száznegyvenszeres mértékét meghaladja,
 - c) különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának ezernégyszázszoros mértékét meghaladja.
 
-(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a 78/2022. (XII. 28.) BM rendelet 3. mellékletében szereplő jegyzék
+(5) E törvény alkalmazásában a kábítószer csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a 78/2022. (XII. 28.) BM rendelet 3. mellékletében szereplő jegyzék
 
 - a) 1. pontja szerinti vegyületcsoport esetében a 0,5 gramm,
 - b) 2. pontja szerinti vegyületcsoport esetében az 1,5 gramm,
@@ -6542,11 +6465,11 @@ mértékét meghaladja.
 
 mennyiséget nem haladja meg.
 
-(6) A 184–184/C. § alkalmazásában az új pszichoaktív anyag jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a csekély mennyiség felső határának húszszoros mértékét meghaladja.
+(6) E törvény alkalmazásában az (5) bekezdés szerinti kábítószer jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a csekély mennyiség felső határának húszszoros mértékét meghaladja.
 
-(7) A 184/B. és 184/C. § alkalmazásában az új pszichoaktív anyag különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a csekély mennyiség felső határának kétszázszoros mértékét meghaladja.
+(7) E törvény alkalmazásában az (5) bekezdés szerinti kábítószer különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a csekély mennyiség felső határának kétszázszoros mértékét meghaladja.
 
-(8) Só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
+(8) E törvény alkalmazásában só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
 
 ### Egyes bűncselekmények értékhatára és szabálysértési alakzata
 

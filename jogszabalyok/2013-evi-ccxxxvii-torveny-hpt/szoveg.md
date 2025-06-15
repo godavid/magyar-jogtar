@@ -3105,7 +3105,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 
 162. § (1) A pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
-- a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–179. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §) vagy új pszichoaktív anyaggal visszaéléssel [1978. évi IV. törvény 283/B. §, illetve Btk. 184–184/C. §],
+- a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–179. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §), tudatmódosító anyaggal visszaéléssel (Btk. 184. §) vagy új pszichoaktív anyaggal visszaéléssel (1978. évi IV. törvény 283/B. §, illetve Btk. 2025. június 15-ig hatályban volt 184–184/C. §),
 - b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318–318/A. §) vagy háborús uszítással (Btk. 331. §),
 - c) robbanóanyaggal vagy robbantószerrel visszaéléssel (1978. évi IV. törvény 263. §, illetve Btk. 324. §),
 - d) lőfegyverrel vagy lőszerrel visszaéléssel (1978. évi IV. törvény 263/A. §, illetve Btk. 325. §),
