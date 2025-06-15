@@ -60,7 +60,37 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), továbbá a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
 - b) az emberiesség elleni bűncselekmények [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XIII. Fejezet], a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), továbbá a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §).
 
-#### 3. §
+### Elektronikus adat hozzáférhetetlenné tétele
+
+3. § (1) A rendőrség határozatban elrendeli a hozzáférhetetlenné tételét annak a Magyarországon elérhető, elektronikus hírközlő hálózat útján közzétett adatnak (a továbbiakban: elektronikus adat), amelynek hozzáférhetővé tétele vagy közzététele lehetőséget teremt a kábítószerként kínált terméknek a külföldről Magyarország területére irányuló szolgáltatásnyújtás keretében történő megszerzésére.
+
+(2) Az elektronikus adat (1) bekezdés szerinti hozzáférhetetlenné tételét a rendőrség határozatlan időtartamra rendeli el. Az elektronikus adat hozzáférhetetlenné tételét elrendelő határozat azonnal végrehajtható.
+
+(3) Az elektronikus adat hozzáférhetetlenné tételét elrendelő határozatot a rendőrség hirdetményi úton közli. A hirdetményt 3 napig kell a rendőrség honlapján közzétenni. A határozat közlésének napja a hirdetmény közzétételét követő 3. nap.
+
+(4) Ha a rendőrség az (1) bekezdés szerinti tevékenység megvalósulását észleli és a tevékenység folytatásának megszakítása érdekében az szükséges, a hatósági eljárás befejezéséig hatósági intézkedésként végzésben az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendeli el. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a rendőrség hirdetményi úton közli. A hirdetményt 3 napig kell a rendőrség honlapján közzétenni. A végzés közlésének napja a hirdetmény közzétételét követő 3. nap. A végzés az (1) bekezdés szerinti jogsértő tevékenységet végzővel történő közlésére való tekintet nélkül, azonnal végrehajtható.
+
+(5) Az ideiglenes hozzáférhetetlenné tételt elrendelő végzés közigazgatási perben támadható meg.
+
+(6) Az ideiglenes hozzáférhetetlenné tételt elrendelő végzés hatályát veszti az eljárást befejező döntés véglegessé válásával.
+
+3/A. § (1) A rendőrség 3. § (1) és (4) bekezdése szerinti döntésének kötelezettje – annak a döntésben történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(2) A hozzáférhetetlenné tétel és az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+
+(3) A rendőrség 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely a 3. § és az e § szerinti kötelezettségének nem tesz eleget. A közigazgatási bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
+
+(4) A rendőrséget, az NMHH-t és az elektronikus hírközlési szolgáltatót nem terheli felelősség azért a kárért, amely abból származik, hogy a hozzáférhetetlenné tett elektronikus adat a 3. § (1) bekezdésében foglaltak mellett olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy nem várható el a hozzáférhetetlenné tétel végrehajtása során.
+
+3/B. § (1) A hozzáférhetetlenné tételt, illetve az ideiglenes hozzáférhetetlenné tételt a rendőrség megszünteti, ha
+
+- a) az elrendelés oka megszűnt,
+- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelésre került vagy végrehajtása van folyamatban, vagy
+- c) a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
+
+(2) A megszüntető döntésre a 3. § (2)–(4) bekezdésében foglaltakat kell alkalmazni.
+
+3/C. § Ezen alcím alkalmazásában kábítószer az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. vagy 2. jegyzékén szereplő anyag, 2. mellékletében a pszichotróp anyagok 1. vagy 2. jegyzékén szereplő anyag, valamint 3. mellékletében meghatározott új pszichoaktív anyag.
 
 ### A rendőrség szervezete és irányítása
 
@@ -274,7 +304,7 @@ foglalkoztatott.
 - a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, tiltott határátlépés szabálysértést, határrendészeti szabálysértést, gyógyszerrendészeti szabálysértést, segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértést, büntetés-végrehajtási intézet rendjének megzavarása szabálysértést, fertőző betegség elleni védekezés elmulasztása szabálysértést, védelmi intézkedés megszegése szabálysértést, engedély nélküli vezetés szabálysértést, érvénytelen hatósági engedéllyel vagy jelzéssel való közlekedés szabálysértést, a légiközlekedés biztonságát és védelmét szolgáló szabályok megszegése szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
 - b) nem követhet el
   - ba) az 1978. évi IV. törvény X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés (1978. évi IV. törvény 176. §) kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés (1978. évi IV. törvény 225. §), a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése (1978. évi IV. törvény 296. §), valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (1978. évi IV. törvény 329/A. §) kivételével –, XIX. fejezetében és XX. fejezetében meghatározott bűncselekményt,
-  - bb) a Btk.-ban meghatározott bűncselekményt, a kábítószer-kereskedelem (Btk. 176. §), a kábítószer birtoklás (Btk. 178–180. §), a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), emberkereskedelem és kényszermunka (Btk. 192. §), kerítés, (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), gyermekpornográfia (Btk. 204. §), a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § és 269. § a) pont], a hatóság félrevezetése [Btk. 271. § (1) és (2) bekezdés], a hamis tanúzás (Btk. 272. §), a hivatali visszaélés (Btk. 305. §), a lopás (Btk. 370. §), a sikkasztás (Btk. 372. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
+  - bb) a Btk.-ban meghatározott bűncselekményt, a kábítószer-kereskedelem (Btk. 176. §), a kábítószer birtoklás (Btk. 178–180. §), a tudatmódosító anyaggal visszaélés (Btk. 184. §), a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), emberkereskedelem és kényszermunka (Btk. 192. §), kerítés, (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), gyermekpornográfia (Btk. 204. §), a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § és 269. § a) pont], a hatóság félrevezetése [Btk. 271. § (1) és (2) bekezdés], a hamis tanúzás (Btk. 272. §), a hivatali visszaélés (Btk. 305. §), a lopás (Btk. 370. §), a sikkasztás (Btk. 372. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
 - c) elkövetheti a jövedéki adóról szóló törvény szerinti szabálytalanságot, illetve megsértheti a jövedéki adóról szóló törvény szerinti kötelezettséget,
 - d) elkövetheti a környezetvédelmi termékdíj-kötelezettségi szabályok megsértését, a fémkereskedő fémkereskedelmi tevékenységével, fémkereskedelmi engedélyköteles anyagok más személy általi értékesítésével, szállításával, fuvarozásával, raktározásával, tárolásával, hasznosításával összefüggő szabályok megsértését, az elektronikus közúti áruforgalom ellenőrző rendszerbe a közúti fuvarozáshoz kapcsolódó bejelentési kötelezettséghez kötődő szabályok megsértését, költségvetési vagy egyéb pénzeszközök, állami támogatások felhasználásával összefüggésben adózási bejelentési, bevallási, megfizetési kötelezettségek, számviteli renddel kapcsolatos kötelezettségek megsértését.
 
@@ -805,13 +835,17 @@ igazolja.
 
 ### Biztonsági intézkedés
 
-37. § A rendőr az önveszélyes állapot vagy a személyeket, illetőleg az anyagi javakat közvetlenül fenyegető veszélyhelyzet megszüntetése, továbbá az államhatár védelme érdekében
+37. § (1) A rendőr az önveszélyes állapot vagy a személyeket, illetve az anyagi javakat közvetlenül fenyegető veszélyhelyzet megszüntetése, továbbá az államhatár védelme érdekében
 
 - a) megteszi a veszélyhelyzet elhárításához, megszüntetéséhez haladéktalanul szükséges, a feladatkörébe tartozó intézkedéseket;
 - b) intézkedik az önmagát vagy mást veszélyeztető állapotban lévő személy orvosi vizsgálatára, és közreműködik az egészségügyi intézetbe történő szállíttatásában;
 - c) intézkedik az öngyilkosság lehetőség szerinti megakadályozására;
-- d) közterületen vagy nyilvános helyen — ha az élet vagy a testi épség védelme megkívánja — intézkedik a magatehetetlen, önkívületben lévő, illetve erősen ittas vagy bódult személynek a lakására vagy kijózanító állomásra, egészségügyi intézetbe kíséréséről, illetőleg szállíttatásáról;
-- e) területet lezárhat, és megakadályozhatja, hogy oda bárki belépjen vagy onnan távozzék, illetőleg az ott tartózkodókat távozásra kötelezheti.
+- d) közterületen vagy nyilvános helyen – ha az élet vagy a testi épség védelme megkívánja – intézkedik a magatehetetlen személynek a lakására, kijózanító állomásra vagy egészségügyi intézetbe kíséréséről, illetve szállíttatásáról;
+- e) területet lezárhat, és megakadályozhatja, hogy oda bárki belépjen vagy onnan távozzék, illetve az ott tartózkodókat távozásra kötelezheti.
+
+(2) A rendőr az érintett élete, testi épsége, illetve egészsége megóvása érdekében, továbbá az önveszélyes állapot vagy a személyeket, illetve az anyagi javakat közvetlenül fenyegető helyzet megszüntetése érdekében intézkedik a közterületen vagy nyilvános helyen tartózkodó, másokat zaklató vagy a köznyugalmat más módon sértő, az önkívületben lévő, erősen ittas, bódult, illetve módosult tudatállapotban lévő személynek a lakására, kijózanító állomásra vagy egészségügyi intézetbe kíséréséről, illetve szállíttatásáról.
+
+(3) A rendőrség az (1) bekezdés b) vagy d) pontja, illetve a (2) bekezdés szerinti esetben az intézkedéssel érintett személy egészségügyi intézetbe vagy kijózanító állomásra szállítását követően – az intézményekkel és az egészségügyi személyzettel együttműködve – az egészségügyi személyzet kérésére biztosítani köteles a rend fenntartását, ha az az intézkedéssel érintett személy állapotára tekintettel indokolt. A rendőrség a rend fenntartásával össze nem függő kérdésben nem tehet javaslatot és nem hozhat döntést.
 
 ### Kiemelt biztonsági intézkedés
 
@@ -845,16 +879,34 @@ igazolja.
 
 (2) A rendőrség azt a feltételes szabadságra bocsátott elítéltet, illetve a javítóintézetből ideiglenesen elbocsátottat, akit pártfogó felügyelet alá helyeztek, ha a pártfogolt a hatóság elől elrejtőzött vagy elrejtőzésétől alaposan tartani kell, 72 óra időtartamra őrizetbe veheti.
 
-(3) A közbiztonsági őrizetet rendőrségi fogdán kell végrehajtani. A rendőrség az őrizet (1) és (2) bekezdés szerinti határidejének lejártát nap, óra és perc megjelöléssel tartja nyilván.
+(3) Az (1) vagy a (2) bekezdés alapján elrendelt közbiztonsági őrizetet rendőrségi fogdán kell végrehajtani. A rendőrség az őrizet (1) és (2) bekezdés szerinti határidejének lejártát nap, óra és perc megjelöléssel tartja nyilván.
 
-(4) A közbiztonsági őrizetbe vett személyt
+(4) Az (1) vagy a (2) bekezdés alapján elrendelt közbiztonsági őrizetbe vett személyt
 
 - a) a személyazonosságának megállapítását követően, továbbá
 - b) ha a személyazonosság megállapítására vagy a feltételes szabadság megszüntetésére az (1) és (2) bekezdés szerinti határidőn belül nem került sor, a határidő elteltével
 
 haladéktalanul szabadon kell bocsátani.
 
-(5) A közbiztonsági őrizetre a Bv. tv. őrizet végrehajtására vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy a rendelkezési jogkör gyakorlója az őrizetet elrendelő rendőri szerv vezetője, továbbá az őrizetbe vett személy befogadásáról és szabadításáról az őrizetet elrendelő rendőri szervet, pártfogó felügyelet alatt álló személy esetében pedig a pártfogó felügyelőt vagy a büntetés-végrehajtási pártfogó felügyelőt is értesíteni kell.
+(5)
+
+38/A. § (1) A rendőrség a 37. § (1) bekezdés b) vagy d) pontja, illetve a 37. § (2) bekezdése alapján foganatosított biztonsági intézkedéssel érintett személyt legfeljebb 72 óra időtartamra őrizetbe veheti, ha az az érintett személy élete, testi épsége, egészsége vagy a közbiztonság megőrzése érdekében szükséges, így különösen abban az esetben, ha
+
+- a) az érintett személy másokat súlyosan zaklató vagy a köznyugalmat más módon súlyosan sértő magatartást tanúsított,
+- b) az érintett személlyel szemben visszatérően kellett a 37. § (1) bekezdés b) vagy d) pontja, illetve a 37. § (2) bekezdése alapján biztonsági intézkedést foganatosítani, vagy
+- c) a korábban elrendelt, kijózanító állomásra vagy egészségügyi intézménybe történő beszállítását követően az érintett személy az egészségügyi személyzettel nem volt együttműködő, illetve az egészségügyi intézményt a gyógyító tevékenység félbeszakításával elhagyta.
+
+(2) Az (1) bekezdés alapján elrendelt közbiztonsági őrizetet rendőrségi fogdán, illetve kijózanító állomáson vagy egészségügyi intézetben kell végrehajtani.
+
+(3) Az (1) bekezdés alapján elrendelt közbiztonsági őrizet megszűnik, ha
+
+- a) a kezelőorvos arról nyilatkozik, hogy az érintett a továbbiakban egészségügyi ellátást nem igényel,
+- b) a szabálysértési eljárás vagy a büntetőeljárás keretében foganatosított kényszerintézkedés elrendelésére kerül sor, vagy
+- c) az elrendelésétől számított 72 óra eltelt.
+
+(4) A (3) bekezdés a), illetve c) pontja szerinti esetben az érintettet haladéktalanul szabadon kell bocsátani.
+
+38/B. § A közbiztonsági őrizetre – ha a 38/A. § előírásaiból más nem következik – a Bv. tv. őrizet végrehajtására vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy a rendelkezési jogkör gyakorlója az őrizetet elrendelő rendőri szerv vezetője, továbbá az őrizetbe vett személy befogadásáról és szabadításáról az őrizetet elrendelő rendőri szervet, pártfogó felügyelet alatt álló személy esetében pedig a pártfogó felügyelőt vagy a büntetés-végrehajtási pártfogó felügyelőt is értesíteni kell. Ha a 38/A. § (1) bekezdése alapján elrendelt közbiztonsági őrizetet kijózanító állomáson vagy egészségügyi intézetben hajtják végre, a rendőrség az intézményekkel és az egészségügyi személyzettel együttműködve biztosítani köteles a rend fenntartását és az érintett személy őrizetét. A rendőrség a rend fenntartásával össze nem függő kérdésben nem tehet javaslatot és nem hozhat döntést.
 
 ### Intézkedés magánlakásban és közterületnek
 
@@ -2013,7 +2065,7 @@ adatok köre
   - eb) nemi élet szabadsága és nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel büntetendő alakzata,
   - ec) gyermekkorú személy sérelmére elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűntett,
   - ed) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
-  - ee) kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
+  - ee) kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, tudatmódosító anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
   - ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, információs rendszer vagy adat megsértése, online hálózaton elkövetett csalás, információs rendszer védelmét biztosító technikai intézkedés kijátszása, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
 - f) a nemzetközi kötelezettségvállalás alapján mindazon személyek, cselekményeik, valamint kapcsolataik adatait, akikkel szemben nemzetközi bűnügyi együttműködés keretében intézkedéseket kell foganatosítani, az adatok bűnüldözési adatállományba történt bekerülésétől számított húsz évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
 - g) a szervezett bűnözésre utaló cselekményekben érintett, illetve a bűnözői csoportban részt vevő vagy azzal együttműködő személyek, valamint kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozó utolsó adatnak a bűnüldözési adatállományba történt bekerülése időpontjától számított negyven évig;
