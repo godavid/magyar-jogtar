@@ -617,7 +617,7 @@ lehet;
 
 22. § (1) A Hatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
 
-(2) A bírság összege a dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben – a (2a) bekezdésben foglalt eltéréssel – 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedelmi tevékenységet végző személy
+(2) A bírság összege a dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben – a (2a) bekezdésben foglalt eltéréssel – 150 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedelmi tevékenységet végző személy
 
 - a) az engedélyben vagy a kijelölési okiratban foglaltaktól eltér, továbbá ha az 1. § (1) bekezdésében felsorolt termékek üzletszerű értékesítésére vonatkozó vagy a Hatóság elnökének a kizárólag dohányboltban forgalmazható termékeken kívül dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti jogszabályi rendelkezéseket megsérti,
 - b) az állammal szembeni kötelezettségét nem teljesíti,
@@ -659,10 +659,17 @@ terjedő bírsággal sújtja.
 - f)
 - g) a dohánytermék-kiskereskedelmi jogosultság megszűnt.
 
-(3) Ha a dohánytermék-nagykereskedő, illetve más személy közvetve vagy közvetlenül e törvény által tiltott ajándékot, árengedményt vagy juttatást nyújt a dohánytermék-kiskereskedőnek vagy rá tekintettel másnak, az ajándékot, árengedményt, illetve juttatást nyújtót, továbbá azt, akinek érdekében ezen előnyök bármelyikét nyújtják, a Hatóság 30 ezer forinttól
+(3) Ha a dohánytermék-nagykereskedő, illetve más személy közvetve vagy közvetlenül e törvény által tiltott ajándékot, árengedményt vagy juttatást nyújt a dohánytermék-kiskereskedőnek vagy rá tekintettel másnak, az ajándékot, árengedményt, illetve juttatást nyújtót, továbbá azt, akinek érdekében ezen előnyök bármelyikét nyújtják, a Hatóság 300 ezer forinttól
 
 - a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
 - b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
+
+terjedő bírsággal sújtja.
+
+(4) Ha a dohánytermék-nagykereskedő (e bekezdés alkalmazásában a továbbiakban: vállalkozás) a 15/G. § (2) bekezdése szerinti bejelentést elmulasztja, vagy a 15/G. § (1) bekezdése szerinti termékbemutatást és ismertetést a bejelentésében foglaltaktól eltérően folytatja, a Hatóság 300 ezer forinttól
+
+- a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve ha a jogsértéssel érintett termék a fogyasztók széles körének testi épségét, egészségét sérti vagy veszélyezteti, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okoz, legfeljebb 2 milliárd forintig,
+- b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve ha a jogsértéssel érintett termék a fogyasztók széles körének testi épségét, egészségét sérti vagy veszélyezteti, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okoz, a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
 
 terjedő bírsággal sújtja.
 
