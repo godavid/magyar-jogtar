@@ -470,6 +470,8 @@ teljesíthet.
 
 (2) A szerencsejáték-felügyeleti hatóság az (1) bekezdés szerinti felhívást pénzforgalmi szolgáltató esetén a Magyar Nemzeti Bank, elektronikus hírközlési szolgáltató esetén a Nemzeti Média- és Hírközlési Hatóság részére, egyéb szervezet esetén az ismert magyarországi felügyeleti szerv részére is megküldi.
 
+(3) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújthatja az (1) bekezdésben foglaltak szerint felhívott személyt vagy szervezetet, amennyiben a felhívásban foglaltaknak nem tesz eleget. A közigazgatási bírság ismételten is kiszabható.
+
 13/C. § (1) A szerencsejáték-felügyeleti hatóság határozatban elrendeli az e törvény szerint tiltott szerencsejáték-szervezéssel összefüggő pénzforgalmi korlátozását annak a fizetési számlának, amely tiltott szerencsejáték szervezéssel kapcsolatban tét befizetésére vagy nyeremény kifizetésére szolgál (a továbbiakban: tiltott fizetési számla).
 
 (2) Ha a szerencsejáték-felügyeleti hatóság hatósági ellenőrzés során az (1) bekezdés szerinti jogsértő tevékenység megvalósulását észleli és a jogsértő tevékenység folytatásának megszakítása érdekében az szükséges, a hatósági eljárás befejezéséig hatósági intézkedésként végzésben elrendeli a tiltott fizetési számlának az e törvény szerint tiltott szerencsejáték-szervezéssel összefüggő ideiglenes pénzforgalmi korlátozását. A végzés annak a tiltott szerencsejáték-szervezést végzővel való közlésére tekintet nélkül, azonnal végrehajtható.
@@ -1327,7 +1329,7 @@ valósítja meg.
 
 (2) A hozzáférhetetlenné tétel és az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
 
-(3) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely a 36/G. § és e § szerinti kötelezettségének nem tesz eleget. A közigazgatási bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
+(3) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, valamint kereső- és gyorsítótár-szolgáltatót, amely az (1) bekezdés szerinti kötelezettségének nem tesz eleget. A közigazgatási bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
 
 (4) A szerencsejáték-felügyeleti hatóságot, az NMHH-t és az elektronikus hírközlési szolgáltatót nem terheli felelősség azért a kárért, amely abból származik, hogy a hozzáférhetetlenné tett elektronikus adat a 36/G. § (1) bekezdésében foglaltak mellett olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy nem várható el a hozzáférhetetlenné tétel végrehajtása során.
 

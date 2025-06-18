@@ -1126,7 +1126,7 @@ adatok megismerésére és kezelésére.
 
 (3) Az eljárási bírság maximum 6 hónapos időtartamra szabható ki, azonban egy eljárásban ismételten, vagy több eljárási kötelezettség teljesítése érdekében is kiszabható.
 
-(4) Az eljárási bírság kiszabása során a villamosenergiáról szóló 2007. évi LXXXVI. törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet eljárási bírságot érintő rendelkezéseit alkalmazni kell.
+(4) Az eljárási bírság kiszabása során az e törvény végrehajtására kiadott kormányrendelet eljárási bírságot érintő rendelkezéseit alkalmazni kell.
 
 61. § (1) Hivatal a zár alá vett dolgot megőrzésre alkalmas tárolóban vagy külön helyiségben helyezi el, azt lezárja és lepecsételi. Ha a dolog a helyszínen nem áll rendelkezésre, azt a Hivatal úgy is zár alá veheti, hogy kötelezi a dolog birtokosát, hogy azt változatlan formában, meghatározott helyen és időben bocsássa a Hivatal rendelkezésére.
 
@@ -1216,7 +1216,7 @@ rendelhet el.
 
 (4) A jogkövetkezmény megállapításakor a Hivatal a közigazgatási szabályszegések szankcióiról szóló 2017. CXXV. törvényben foglaltakon túl mérlegeli az eset összes lényeges körülményét a REMIT 18. cikk (7) bekezdésében foglaltak figyelembevételével.
 
-(5) A Hivatal pénzfizetési kötelezettséget megállapító jogkövetkezmény alkalmazása esetén a villamos energiáról szóló 2007. évi LXXXVI. törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű bírságot szab ki.
+(5) A Hivatal pénzfizetési kötelezettséget megállapító jogkövetkezmény alkalmazása esetén az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírságot szab ki.
 
 (6) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
 
@@ -2508,7 +2508,7 @@ amelyre vonatkozóan kérelemre a Hivatal az e törvény végrehajtására kiado
 
 (5) Az engedély kérelmezőjének rendelkeznie kell a külön jogszabályban meghatározott pénzügyi és gazdasági feltételekkel.
 
-(6) A szállítási rendszerüzemeltetési engedély iránti kérelem benyújtásának feltétele, hogy a kérelmező megfeleljen a szállítási rendszerüzemeltetőre vonatkozó szétválasztási követelményeknek. A szállítási rendszerüzemeltetési engedély kiadásának feltétele, hogy a Hivatal a 128. § szerinti eljárásban megállapítsa, hogy a kérelmező megfelel a szállítási rendszerüzemeltetőre vonatkozó szétválasztási követelményeknek.
+(6) A szállítási rendszerüzemeltetési és a hidrogénszállításihálózat-üzemeltetési engedély iránti kérelem benyújtásának feltétele, hogy a kérelmező megfeleljen a szállítási rendszerüzemeltetőre és a hidrogénszállításihálózat-üzemeltetőre vonatkozó szétválasztási követelményeknek. A szállítási rendszerüzemeltetési és a hidrogénszállításihálózat-üzemeltetési engedély kiadásának feltétele, hogy a Hivatal a 128. § szerinti eljárásban megállapítsa, hogy a kérelmező megfelel a szállítási rendszerüzemeltetőre és a hidrogénszállításihálózat-üzemeltetőre vonatkozó szétválasztási követelményeknek.
 
 (7) A Hivatal a működési engedély kiadását megtagadja, ha
 
@@ -3297,21 +3297,23 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 ### Tanúsítási eljárás
 
-128. § (1) A Hivatal ellenőrzi, hogy a szállítási rendszerüzemeltető megfelel-e a szétválasztási követelményeknek. A Hivatal a megfelelés biztosítása érdekében e § szerint tanúsítási eljárást folytat le
+128. § (1) A Hivatal ellenőrzi, hogy a szállítási rendszerüzemeltető vagy a hidrogénszállításihálózat-üzemeltető megfelel-e a szétválasztási követelményeknek. A Hivatal a megfelelés biztosítása érdekében e § szerint tanúsítási eljárást folytat le
 
-- a) a szállítási rendszerüzemeltetési engedély kiadása vagy meghosszabbítása iránti kérelem benyújtását megelőzően az ügyfél kérelmére,
-- b) a szállítási rendszerüzemeltető (4) bekezdés szerinti bejelentése alapján,
-- c) ha a Hivatal a szállítási rendszerüzemeltető vagy a szállítóvezetékek tulajdonosa feletti irányítást és befolyást érintő olyan tervezett változásról szerez tudomást, amely a szétválasztási követelmények megsértéséhez vezethet, vagy amennyiben okkal feltételezi a szétválasztási követelmények megsértését,
+- a) a szállítási rendszerüzemeltetési vagy hidrogénszállításihálózat-üzemeltetési engedély kiadása vagy meghosszabbítása iránti kérelem benyújtását megelőzően az ügyfél kérelmére,
+- b) a szállítási rendszerüzemeltető vagy a hidrogénszállításihálózat-üzemeltető (4) bekezdés szerinti bejelentése alapján,
+- c) ha a Hivatal a szállítási rendszerüzemeltető, a hidrogénszállításihálózat-üzemeltető vagy a szállítóvezetékek, hidrogénszállítási hálózat tulajdonosa feletti irányítást és befolyást érintő olyan tervezett változásról szerez tudomást, amely a szétválasztási követelmények megsértéséhez vezethet, vagy amennyiben okkal feltételezi a szétválasztási követelmények megsértését,
 - d) az Európai Bizottság indokolással ellátott kérelmére, vagy
 - e) ha a 119/A. § (3) bekezdése alapján független rendszerüzemeltető kijelölése válik szükségessé, a kijelölést megelőzően.
 
-(2) A Hivatal a tanúsítási eljárás során tanúsítja a szétválasztási követelményeknek való megfelelést, ha a szállítási rendszerüzemeltetési engedély kérelmezője, a szállítási rendszerüzemeltető vagy a független rendszerüzemeltetőként kijelölendő személy megfelel az e törvény 121/B–121/I. §-aiban foglalt, rá vonatkozó rendelkezéseknek. Ha a tanúsítási eljárás során a Hivatal megállapítja, hogy a szállítási rendszerüzemeltető vagy a független rendszerüzemeltetőként kijelölendő személy nem felel meg a rá vonatkozó szétválasztási követelményeknek, szállítási rendszerüzemeltető esetén a 119. §-ban foglalt jogkövetkezményeket alkalmazza, illetve a független rendszerüzemeltetőként kijelölendő személy esetén pedig nem jelöli ki független rendszerüzemeltetővé.
+(2) A Hivatal a tanúsítási eljárás során tanúsítja a szétválasztási követelményeknek való megfelelést, ha a szállítási rendszerüzemeltetési vagy hidrogénszállítási hálózat üzemeltetési engedély kérelmezője, a szállítási rendszerüzemeltető, a hidrogénszállításihálózat-üzemeltető vagy a független rendszerüzemeltetőként vagy független hidrogénszállításihálózat-üzemeltetőként kijelölendő személy megfelel a 121/B–121/L. §-ban foglalt, rá vonatkozó rendelkezéseknek. Ha a tanúsítási eljárás során a Hivatal megállapítja, hogy a szállítási rendszerüzemeltető, a hidrogénszállításihálózat-üzemeltető vagy a független rendszerüzemeltetőként vagy független hidrogénszállításihálózat-üzemeltetőként kijelölendő személy nem felel meg a rá vonatkozó szétválasztási követelményeknek, szállítási rendszerüzemeltető esetén a 119. §-ban foglalt jogkövetkezményeket alkalmazza, illetve a független rendszerüzemeltetőként vagy független hidrogénszállításihálózat-üzemeltetőként kijelölendő személy esetén pedig nem jelöli ki független rendszerüzemeltetővé.
 
-(3) A Hivatal a szétválasztási követelményeknek való megfelelés tárgyában a 129. § (2) bekezdés c) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt, a 715/2009/EK európai parlamenti és tanácsi rendelet 3. cikkében meghatározott eljárás lefolytatása céljából haladéktalanul megküld az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és a 715/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésében foglaltak szerint jár el.
+(3) A Hivatal a szétválasztási követelményeknek való megfelelés tárgyában a kérelem beérkezésétől számított 100 munkanapon belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt, az (EU) 2024/1789 európai parlamenti és tanácsi rendelet 14. cikkében meghatározott eljárás lefolytatása céljából haladéktalanul megküld az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és az (EU) 2024/1789 európai parlamenti és tanácsi rendelet 14. cikk (1) bekezdésében foglaltak szerint jár el.
 
-(4) A szállítási rendszerüzemeltető köteles bejelenteni a Hivatalnak az olyan tervezett jogügyleteket, amelyek a szétválasztási követelményeknek való megfelelés ismételt vizsgálatát tehetik szükségessé.
+(4) A szállítási rendszerüzemeltető és a hidrogénszállításihálózat-üzemeltető köteles bejelenteni a Hivatalnak az olyan tervezett jogügyleteket, amelyek a szétválasztási követelményeknek való megfelelés ismételt vizsgálatát tehetik szükségessé.
 
-(5) Ha a Hivatal az (1) bekezdés a) pontja alapján a 121/I. §-ban meghatározott szétválasztási szabályoknak való megfelelést tanúsította és független rendszerüzemeltetőt jelölt ki, azt követően a független rendszerüzemeltető 121/B–121/G. §-ban foglalt szétválasztási követelményeknek való megfelelés tanúsítása iránti kérelmét érdemi vizsgálat nélkül el kell utasítani.
+(5) Ha a Hivatal az (1) bekezdés a) pontja alapján a 121/I. §-ban meghatározott szétválasztási szabályoknak való megfelelést tanúsította és független rendszerüzemeltetőt vagy a 121/L. § szerinti független hidrogénszállításihálózat-üzemeltetőt jelölt ki, azt követően a független rendszerüzemeltető vagy a független hidrogénszállításihálózat-üzemeltető 121/B–121/G. §-ban foglalt szétválasztási követelményeknek való megfelelés tanúsítása iránti kérelmét érdemi vizsgálat nélkül el kell utasítani.
+
+(6) A 121/J. § szerinti integrált hidrogénszállításihálózat-üzemeltető tanúsítása esetén a 121/B–121/G. §-ban foglalt szétválasztási követelményeknek való megfelelést célzó szállítási rendszerüzemeltetői tanúsítás során tanúsított szétválasztási követelményeknek történő megfelelést tanúsítottnak kell tekinteni, és csak azon körülmények tekintetében szükséges igazolni a megfelelést, melyek a hidrogénszállításihálózat-üzemeltető integrálásával változásként következnek be és befolyásolják a korábbi tanúsítást.
 
 128/A. § (1) A Hivatal a 128. § szerinti tanúsítási eljárástól eltérően az e § szerinti harmadik országokkal kapcsolatos tanúsítási eljárást folytatja le
 
