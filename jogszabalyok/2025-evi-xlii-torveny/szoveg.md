@@ -42,11 +42,7 @@ egyes gazdaságszabályozási tárgyú törvények módosításáról
 
 #### 5. §
 
-6. § (1)
-
-(2) Az Szjtv. 13/B. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújthatja az (1) bekezdésben foglaltak szerint felhívott személyt vagy szervezetet, amennyiben a felhívásban foglaltaknak nem tesz eleget. A közigazgatási bírság ismételten is kiszabható.”
+#### 6. §
 
 #### 7. §
 
@@ -60,11 +56,7 @@ egyes gazdaságszabályozási tárgyú törvények módosításáról
 
 #### 12. §
 
-13. § (1)
-
-(2) Az Szjtv. 36/H. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, valamint kereső- és gyorsítótár-szolgáltatót, amely az (1) bekezdés szerinti kötelezettségének nem tesz eleget. A közigazgatási bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.”
+#### 13. §
 
 #### 14. §
 
@@ -120,25 +112,9 @@ egyes gazdaságszabályozási tárgyú törvények módosításáról
 
 #### 34. §
 
-35. § Az Fdvtv. 23. §-a a következő (4) bekezdéssel egészül ki:
+#### 35. §
 
-„(4) Ha a dohánytermék-nagykereskedő (e bekezdés alkalmazásában a továbbiakban: vállalkozás) a 15/G. § (2) bekezdése szerinti bejelentést elmulasztja, vagy a 15/G. § (1) bekezdése szerinti termékbemutatást és ismertetést a bejelentésében foglaltaktól eltérően folytatja, a Hatóság 300 ezer forinttól
-
-- a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig, illetve ha a jogsértéssel érintett termék a fogyasztók széles körének testi épségét, egészségét sérti vagy veszélyezteti, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okoz, legfeljebb 2 milliárd forintig,
-- b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve ha a jogsértéssel érintett termék a fogyasztók széles körének testi épségét, egészségét sérti vagy veszélyezteti, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okoz, a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
-
-terjedő bírsággal sújtja.”
-
-36. § Az Fdvtv.
-
-- a)
-- b)
-- c)
-- d) 22. § (2) bekezdésének nyitó szövegrészében a „30 ezer forinttól” szövegrész helyébe a „150 ezer forinttól” szöveg,
-- e) 23. § (3) bekezdésének nyitó szövegrészében a „30 ezer forinttól” szövegrész helyébe a „300 ezer forinttól” szöveg,
-- f)
-
-lép.
+#### 36. §
 
 #### 6. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
