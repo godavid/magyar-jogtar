@@ -70,7 +70,7 @@ Az adóügyben eljáró adópolitikáért felelős miniszterre, illetve az álla
 
 (1) Törvény eltérő rendelkezése hiányában az adózó polgári jog szabályai szerinti jogutódját megilletik mindazon jogok, amelyek a jogelődöt megillették, továbbá terhelik a jogelőd által nem teljesített kötelezettségek a jogutódlással szerzett vagyonnal arányosan. Több jogutód esetén a jogelőd kötelezettségeit a jogutódok vagyonarányosan teljesítik, teljesítés hiányában pedig a jogelőd tartozásáért egyetemlegesen felelnek, a költségvetési támogatásra – eltérő megállapodás hiányában – vagyonarányosan jogosultak.
 
-(2) Az adóhatóság a jogutódnál a jogutódlást megelőző időszakra vonatkozó törvényi feltételek fennállásának vizsgálatát a jogelőd adózói előéletére is kiterjedően, a jogelőd magatartását is értékelve végzi.
+(2) Az adóhatóság a jogutódnál a jogutódlást megelőző időszakra vonatkozó jogszabályi feltételek fennállásának vizsgálatát a jogelőd adózói előéletére is kiterjedően, a jogelőd magatartását is értékelve végzi.
 
 (3) Az (1) és (2) bekezdés rendelkezéseit az egyéni vállalkozói tevékenység egyszemélyes gazdasági társasági formában történő továbbfolytatása esetén is alkalmazni kell.
 
@@ -103,6 +103,8 @@ A természetes személy adózó akkor rendelkezik eljárási képességgel, ha a
 - b) nem tud az ügyben eljárni,
 
 az eljáró adóhatóság gondoskodik ügygondnok kirendeléséről.
+
+(7a) Az eljáró adóhatóság ügygondnokot rendelhet ki annak a kényszertörlés alatt álló adózónak, amelynek nincs képviselője.
 
 #### 15. § [Meghatalmazás]
 
@@ -1145,11 +1147,11 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 
 (2) Az (1) bekezdésben meghatározott határidőnél hosszabb határidőt törvény, rövidebb határidőt jogszabály állapíthat meg.
 
-(3) Az állami adó- és vámhatóság által végzett adóellenőrzés időtartama az Áfa tv. szerinti csoportos adóalany és a Tao. tv. szerinti csoportos társasági adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
+(3) A 95. § (2a) és (2b) bekezdés szerinti eset kivételével az állami adó- és vámhatóság által végzett adóellenőrzés időtartama az Áfa tv. szerinti csoportos adóalany és a Tao. tv. szerinti csoportos társasági adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
 
 (3a) Az önkormányzati adóhatóság által végzett adóellenőrzés időtartama a cégbejegyzésre nem kötelezett adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
 
-(4) Az adóellenőrzés időtartama nem haladhatja meg a háromszázhatvanöt napot.
+(4) A 95. § (2a) és (2b) bekezdés szerinti eset kivételével az adóellenőrzés időtartama nem haladhatja meg a háromszázhatvanöt napot.
 
 (5) Az ellenőrzés határidejét a megbízólevél kézbesítésétől, átadásától, illetve az általános megbízólevél bemutatásától, új eljárás lefolytatása esetén az az új eljárás megkezdéséről szóló értesítés postára adásától, tárhelyen történő elhelyezésétől, illetve átadásától kell számítani.
 
@@ -1158,6 +1160,12 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 (1) Az ellenőrzési határidőt indokolt esetben az ellenőrzést végző adóhatóság vezetője egyszer, adóellenőrzés esetében legfeljebb kilencven napig, jogkövetési vizsgálat esetében legfeljebb harminc napig terjedő időtartammal meghosszabbíthatja. A meghosszabbított ellenőrzési határidőt rendkívüli körülmények által indokolt esetben, az ellenőrzést végző adóhatóság indokolt kérelmére a felettes szerv egyszer, legfeljebb kilencven napig terjedő időtartammal meghosszabbíthatja.
 
 (2) Az állami adó- és vámhatóság hatáskörébe tartozó ügyben a felettes szerv által meghosszabbított ellenőrzési határidőt rendkívüli körülmények által indokolt esetben az ellenőrzést végző adóhatóság felettes szerv által jóváhagyott, indokolt kérelmére az állami adó- és vámhatóság vezetője egyszer, legfeljebb kilencven napig terjedő időtartammal meghosszabbíthatja.
+
+(2a) Az (1) és (2) bekezdésben foglaltaktól eltérően az állami adó- és vámhatóság hatáskörébe tartozó ügyekben az állami adó- és vámhatóság vezetője egy alkalommal, a (2b) bekezdésben meghatározott időtartamig meghosszabbíthatja az adóellenőrzés határidejét, ha az általánosforgalmiadó-kötelezettség megállapításához az ügyletek láncolatával érintett több adózó ellenőrzése szükséges.
+
+(2b) A (2a) bekezdés szerinti esetben a 94. § (3) bekezdése szerinti adózó adóellenőrzésének időtartama – feltéve, hogy az adózó az ellenőrzést nem akadályozza – legfeljebb háromszázhatvanöt napra, más adózó esetén legfeljebb ötszáznegyven napra hosszabbítható meg. Ha a meghosszabbított ellenőrzési határidő alatt a megbízható adózó minősítésében változás következik be, vagy a megbízható adózó az ellenőrzést akadályozó módon nem tesz eleget együttműködési kötelezettségének, az adóellenőrzési határidő további egy alkalommal, legfeljebb ötszáznegyven napra meghosszabbítható.
+
+(2c) A (2a) és (2b) bekezdés alkalmazása esetén az (1) és (2) bekezdésben megállapított határidő hosszabbításnak a továbbiakban nincs helye.
 
 (3) Az önkormányzati adóhatóság hatáskörébe tartozó adóügyben a felettes szerv által meghosszabbított ellenőrzési határidőt rendkívüli körülmények által indokolt esetben az ellenőrzést végző adóhatóság felettes szerv által jóváhagyott indokolt kérelmére az adópolitikáért felelős miniszter egyszer, legfeljebb kilencven napig terjedő időtartammal meghosszabbíthatja.
 
@@ -1399,6 +1407,8 @@ Fellebbezés benyújtására az jogosult, akire a döntés rendelkezést tartalm
 #### 122. § [A fellebbezéssel támadható döntések]
 
 (1) A fellebbezésre jogosult az adóhatóság elsőfokú határozatával szemben – a törvény eltérő rendelkezése hiányában – fellebbezhet.
+
+(1a) A 9. § (2) bekezdése szerinti eljárások során hozott elsőfokú határozat ellen nincs helye fellebbezésnek, azzal szemben közigazgatási per indítható.
 
 (2) A határozathozatalt megelőző eljárás során hozott végzés a határozat ellen benyújtott fellebbezésben támadható meg, kivéve, ha az önálló fellebbezést törvény megengedi.
 
@@ -1715,6 +1725,10 @@ E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvény
 #### 139/I. § [Átmeneti rendelkezés a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvényhez]
 
 E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény által megállapított 17. § (1) bekezdés g) pontjának hatálybalépését megelőzően, számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság illetve egyéb szervezet törvényes vagy szervezeti képviselőjeként, foglalkoztatottjaként, tagjaként bejelentett természetes személyek állandó meghatalmazottként 2027. december 31-ig járhatnak el.
+
+#### 139/J. § [Átmeneti rendelkezés az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvényhez]
+
+E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 94. § (3) és (4) bekezdését, az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 95. § (2a)–(2c) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
 #### 57. Az Európai Unió jogának való megfelelés
 

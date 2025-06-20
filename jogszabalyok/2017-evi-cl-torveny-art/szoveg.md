@@ -93,7 +93,13 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 9a. alapok alapját végrehajtó szervezet: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló Kormányrendelet szerint meghatározott pénzügyi eszközöket végrehajtó szervezet.
 - 10. be nem jelentett foglalkoztatott: az adózó tevékenységében személyesen közreműködő természetes személy, akire vonatkozóan a munkáltató, illetve kifizető biztosítotti bejelentési kötelezettségének nem tett eleget, illetve a munkáltató, kifizető nem tudja bizonyítani, hogy a tevékenységében közreműködő jogviszonya kívül esik a bejelentési kötelezettségen,
 - 11. ajánlott elektronikus kézbesítési szolgáltatás: a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti ajánlott elektronikus kézbesítési szolgáltatás,
-- 12. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet alapján nyújtható támogatás,
+- 12. csekély összegű (de minimis) támogatás:
+  - a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet 2. cikke,
+  - b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet 3. cikke,
+  - c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet 3. cikke,
+  - d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet 3. cikke,
+  - e) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet 3. cikke,
+  - f) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2832 bizottsági rendelet 3. cikke szerinti támogatás,
 - 13. egyéb szervezet: az egyéni cég, a polgári jogi társaság, a társasház, a társasüdülő, a társasgarázs, az építőközösség, a jogi személyiséggel nem rendelkező személyi egyesülés és a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 - 14. EKAER: az állami adó- és vámhatóság által működtetett Elektronikus Közúti Áruforgalom Ellenőrző Rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja,
 - 15. EKAER szám: az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer által a termék közúti fuvarozásának bejelentését követően automatikusan képzett azonosító szám, amely egy adott termékegységet azonosít,
@@ -865,7 +871,7 @@ feltéve, hogy a tag, részvényes a b) pontban foglalt körülményről a rész
   - bb) sor került a tőkevesztésre tekintettel kötelező átalakulásra vagy az átalakulás helyett hozható más döntés meghozatalára, vagy
   - bc) a jogi személy adótartozásának megfizetése, illetve a ba)–bb) alpont szerinti jogszabályi rendelkezések teljesítése érdekében a tag, részvényes tagsági jogaival élve a tőle elvárható minden intézkedést megtett.
 
-(3) Az adóhatóság az (1) bekezdés szerinti határozatot az adótartozás behajtása eredménytelenségének megállapításától számított kilencvennapos jogvesztő határidőn belül hozhatja meg. Ha a részesedés átruházása a határozat meghozatalára nyitva álló határidő letelte után jut az adóhatóság tudomására, a határozatot a tudomásszerzéstől számított harminc napon belül az adóhatóság akkor is meghozhatja, ha a jogvesztő határidő már eltelt, vagy abból harminc napnál kevesebb van hátra.
+(3) Az adóhatóság az (1) bekezdés szerinti határozatot az adótartozás behajtása eredménytelenségének megállapításától számított százhúsz napos jogvesztő határidőn belül hozhatja meg. Ha a részesedés átruházása a határozat meghozatalára nyitva álló határidő letelte után jut az adóhatóság tudomására, a határozatot a tudomásszerzéstől számított hatvan napon belül az adóhatóság akkor is meghozhatja, ha a jogvesztő határidő már eltelt, vagy abból hatvan napnál kevesebb van hátra.
 
 #### 61. § [Kezességvállalás adó megfizetéséért, az adótartozás átvállalása]
 
@@ -1051,6 +1057,8 @@ Az adóhatóságnál nyilvántartott adótartozással vagy köztartozással rend
 
 (2) Az állami adó- és vámhatóság az általa felülvizsgált, az adózót megillető költségvetési támogatást (visszaigénylést, visszatérítést) az általa nyilvántartott 2020. július 1. napja utáni időszakra vonatkozóan keletkezett egészségügyi szolgáltatási járulék kötelezettség, egyéb adó- és vámtartozás, adók módjára behajtandó köztartozás, az általános közigazgatási rendtartás alapján behajtandó köztartozás, az Avt. 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló pénzkövetelés és az önkormányzati adóhatóság megkeresésében közölt – önkormányzati adóhatóságot megillető – tartozás összegéig visszatarthatja, és ezzel ennek erejéig a tartozás megfizetettnek minősül.
 
+(2a) Az állami adó- és vámhatóság az általa felülvizsgált, az adózót megillető költségvetési támogatást (visszaigénylést, visszatérítést) az adózó jogutód nélküli megszűnését követően a költségvetési támogatás (visszaigénylés, visszatérítés) jogosultjával szemben fennálló, az állami adó- és vámhatóság által nyilvántartott 2020. július 1. napja utáni időszakra vonatkozóan keletkezett egészségügyi szolgáltatási járulék kötelezettség, egyéb adó- és vámtartozás, adók módjára behajtandó köztartozás, az általános közigazgatási rendtartás alapján behajtandó köztartozás, az Avt. 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló pénzkövetelés és az önkormányzati adóhatóság megkeresésében közölt – önkormányzati adóhatóságot megillető – tartozás összegéig visszatarthatja, és ezzel ennek erejéig a költségvetési támogatás (visszaigénylés, visszatérítés) jogosultjának tartozása megfizetettnek minősül.
+
 (3) A visszatartásról az adózót az adóhatóság végzéssel értesíti. Az adózó nyilatkozatában feltüntetett tartozásra gyakorolt visszatartás esetében az adóhatóság a végzés mellőzésével, írásban értesíti az adózót a visszatartás tényéről.
 
 (4) Az adóhatóság visszatartási jogának gyakorlását az adózó kérelmére akkor mellőzheti, ha a költségvetési támogatás (visszaigénylés, visszatérítés) elmaradása az adózó gazdálkodási tevékenységét ellehetetlenítené, illetve, ha a természetes személy adózó esetében a támogatás elmaradása a saját és a vele együtt élő hozzátartozója megélhetését súlyosan veszélyeztetné.
@@ -1141,9 +1149,9 @@ A kifizető a föld bérbeadásából (földjáradékból) származó jövedelem
 
 #### 84. § [A hitelintézet, pénzforgalmi szolgáltató adatszolgáltatása]
 
-(1) A pénzforgalmi számlát vezető pénzforgalmi szolgáltató – a cégjegyzékbe bejelentett pénzforgalmi számlára vonatkozó adatok kivételével – a pénzforgalmi számla megnyitását és megszüntetését annak időpontját követő hó tizenötödik napjáig a pénzforgalmi jelzőszám feltüntetésével közli az állami adó- és vámhatósággal,.
+(1) A pénzforgalmi számlát vezető pénzforgalmi szolgáltató – a cégjegyzékbe bejelentett pénzforgalmi számlára vonatkozó adatok kivételével – a pénzforgalmi számla megnyitását és megszüntetését annak időpontját követő hét napon belül a pénzforgalmi jelzőszám feltüntetésével közli az állami adó- és vámhatósággal.
 
-(2) Amennyiben az adózó belföldi pénzforgalmi számlaszáma a számlát vezető pénzforgalmi szolgáltató érdekkörében felmerült ok, illetve intézkedés miatt megváltozik, az eredeti és a megváltozott számlaszámot a pénzforgalmi szolgáltató köteles bejelenteni – az adózó adóazonosító számának feltüntetésével – a változástól számított tizenöt napon belül az állami adó- és vámhatóságnál.
+(2) Amennyiben az adózó belföldi pénzforgalmi jelzőszáma a számlát vezető pénzforgalmi szolgáltató érdekkörében felmerült ok, illetve intézkedés miatt megváltozik, az eredeti és a megváltozott számlaszámot a pénzforgalmi szolgáltató köteles bejelenteni – az adózó adóazonosító számának feltüntetésével – a változást követő hét napon belül az állami adó- és vámhatóságnál.
 
 #### 85. § [Befektetési szolgáltatói adatszolgáltatás]
 
@@ -1913,6 +1921,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - o) a hulladékgazdálkodási hatóságot, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges.
 - p) a Szuverenitásvédelmi Hivatalt, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 - q) a Magyar Energetikai és Közmű-szabályozási Hivatalt, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
+- r) a Nemzeti Adó- és Vámhivatal szabálysértési hatóságként eljáró szervét a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 56/A. § (2) bekezdése szerinti megkeresés alapján.
 
 (14a) A (14) bekezdés e) pontja szerinti szervek részére csak abban az esetben adható tájékoztatás az adótitokról, ha az ügyészség az adatkérést engedélyezte. A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdése vagy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdése szerinti adatkérés esetén az adóhatóság az ügyészség engedélye nélkül is köteles az általa kezelt, adótitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. Ilyen esetben az adatkérő az engedélyt utólag, haladéktalanul beszerzi, és megküldi az adóhatóságnak.
 
@@ -2275,9 +2284,9 @@ Ha az adózó vitatja a 150. § szerinti minősítését, a minősítéstől vag
 
 #### 154. § [Megbízható adózói kedvezmények]
 
-(1) Az állami adó- és vámhatóság által végzett ellenőrzés időtartama nem haladhatja meg a száznyolcvan napot, ha az adózó ezen időtartamon belül folyamatosan megbízható adózónak minősül.
+(1) Az állami adó- és vámhatóság által végzett ellenőrzés időtartama nem haladhatja meg a száznyolcvan napot, az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 95. § (2a) és (2b) bekezdése szerinti esetben a háromszázhatvanöt napot, ha az adózó ezen időtartamon belül folyamatosan megbízható adózónak minősül.
 
-(2) Nem alkalmazható az (1) bekezdésében foglalt rendelkezés, ha az adózó az ellenőrzést akadályozó módon nem tesz eleget együttműködési kötelezettségének. Az együttműködési kötelezettség megszegésének minősül különösen, ha az adózó az ellenőrzés időtartama alatt az állami adó- és vámhatóság számára nem elérhető, iratait teljes körűen az ellenőrzés száznyolcvan napon belüli lezárását biztosító időpontban nem bocsátja az állami adó- és vámhatóság rendelkezésére.
+(2) Nem alkalmazható az (1) bekezdésben foglalt rendelkezés, ha az adózó az ellenőrzést akadályozó módon nem tesz eleget együttműködési kötelezettségének. Az együttműködési kötelezettség megszegésének minősül különösen, ha az adózó az ellenőrzés időtartama alatt az állami adó- és vámhatóság számára nem elérhető, iratait teljes körűen az ellenőrzés száznyolcvan napon belüli, az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 95. § (2a) és (2b) bekezdése szerinti esetben háromszázhatvanöt napon belüli lezárását biztosító időpontban nem bocsátja az állami adó- és vámhatóság rendelkezésére.
 
 (3) A megbízható adózó – ide nem értve a nyilvánosan működő részvénytársaságot – által visszaigényelt általános forgalmi adót az állami adó- és vámhatóság a 64. § (1) bekezdésében foglalt esetben harminc napon belül utalja ki.
 
@@ -2301,7 +2310,7 @@ Ha az adózó vitatja a 150. § szerinti minősítését, a minősítéstől vag
 
 (2) Az automatikus fizetési könnyítésről az állami adó- és vámhatóság a kérelem beérkezésétől számított tizenöt napon belül határozatot hoz, amelyet elektronikus úton kézbesít.
 
-(3) Az automatikus fizetési könnyítés kizárólag akkor engedélyezhető, ha a kérelmező nettó módon számított adótartozása az elbírálás időpontjában nem haladja meg a hárommillió forintot. Ha a megbízható adózó az automatikus fizetési könnyítés feltételeinek nem felel meg, úgy kérelmét az állami adó- és vámhatóság az általános szabályok szerint bírálja el.
+(3) Az automatikus fizetési könnyítés kizárólag akkor engedélyezhető, ha a kérelmező nettó módon számított adótartozása az elbírálás időpontjában nem haladja meg az ötmillió forintot. Ha a megbízható adózó az automatikus fizetési könnyítés feltételeinek nem felel meg, úgy kérelmét az állami adó- és vámhatóság az általános szabályok szerint bírálja el.
 
 (4) Ha az adózó az esedékes részlet befizetését nem teljesíti, az automatikus fizetési könnyítés érvényét veszti, és a tartozás egy összegben esedékessé válik. Ez esetben az állami adó- és vámhatóság a fennmaradó tartozásra az eredeti esedékességtől késedelmi pótlékot számít fel.
 
@@ -2763,13 +2772,13 @@ Az adóhatóság az önellenőrzés előterjesztésétől számított tizenöt n
 
 #### 199. § [Automatikus részletfizetési kedvezmény]
 
-(1) A természetes személy adózó – ideértve a vállalkozási tevékenységet folytató és az általános forgalmi adó fizetésére kötelezett természetes személyt is – kérelmére az adóhatóság az általa nyilvántartott, legfeljebb egymillió forint összegű adótartozásra – kivéve a 198. § (3) bekezdésében meghatározott kötelezettségeket – évente egy alkalommal legfeljebb tizenkettő havi pótlékmentes részletfizetést engedélyez a 198. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül.
+(1) A természetes személy adózó – ideértve a vállalkozási tevékenységet folytató és az általános forgalmi adó fizetésére kötelezett természetes személyt is – kérelmére az adóhatóság az általa nyilvántartott, legfeljebb kettőmillió forint összegű adótartozásra – kivéve a 198. § (3) bekezdésében meghatározott kötelezettségeket – évente egy alkalommal legfeljebb tizenkettő havi pótlékmentes részletfizetést engedélyez a 198. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül.
 
 (1a) Az (1) bekezdésen felül természetes személy adózó – ideértve a vállalkozási tevékenységet folytató és az általános forgalmi adó fizetésére kötelezett természetes személyt is – a tárgyév június 30. napjáig benyújtott kérelmére az adóhatóság a tárgyévben előírt éves gépjárműadó-fizetési kötelezettségre évente egy alkalommal legfeljebb öthavi pótlékmentes részletfizetést engedélyez. A kérelem benyújtására előírt határidő jogvesztő.
 
 (2) A vállalkozási tevékenységet nem folytató, általános forgalmi adó fizetésére nem kötelezett természetes személy – a bevallás benyújtására előírt határidőig – személyi jövedelemadó-bevallásában nyilatkozhat úgy, hogy a bevallott, együttesen ötszázezer forintot meg nem haladó személyi jövedelemadó és szociális hozzájárulási adó-fizetési kötelezettségét pótlékmentes részletfizetés keretében, az esedékességtől számított legfeljebb tizenkettő hónapon keresztül, havonként egyenlő részletekben teljesíti. Az első részlet megfizetésének határideje a személyi jövedelemadó fizetési kötelezettség törvényben meghatározott esedékességének napja. A nyilatkozat megtételére előírt határidő jogvesztő.
 
-(2a) A nem természetes személy adózó kérelmére az adóhatóság az általa nyilvántartott, legfeljebb egymillió forint összegű adótartozásra évente egy alkalommal legfeljebb hathavi pótlékmentes részletfizetést engedélyez.
+(2a) A nem természetes személy adózó kérelmére az adóhatóság az általa nyilvántartott, legfeljebb kettőmillió forint összegű adótartozásra évente egy alkalommal legfeljebb hathavi pótlékmentes részletfizetést engedélyez.
 
 (3) Ha az adózó az esedékes részlet befizetését nem teljesíti, az (1)–(2a) bekezdés szerinti kedvezményre való jogosultságát elveszti, és a tartozás egy összegben esedékessé válik. Ebben az esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
 
@@ -3043,7 +3052,12 @@ A természetes és nem természetes személy adózót egymillió forintig terjed
 
 (3) Az adózó ötszázezer forintig terjedő mulasztási bírsággal sújtható, ha a foglalkoztatottra vonatkozó bejelentési kötelezettségét hibásan, hiányosan, illetve valótlan adattartalommal teljesíti.
 
-(4) Nem lehet be nem jelentett foglalkoztatott miatt mulasztási bírságot kiszabni, ha az adózó a foglalkoztatott vonatkozásában az ellenőrzést megelőző bevallással lezárt utolsó adómegállapítási időszak vonatkozásában az ugyanazon jogviszonnyal összefüggő bevallási kötelezettségének eleget tett.
+(4) Az állami adó- és vámhatóság nem szab ki a be nem jelentett foglalkoztatott miatt mulasztási bírságot, ha
+
+- a) az adózó a foglalkoztatott vonatkozásában az ellenőrzést megelőző bevallással lezárt utolsó adómegállapítási időszak vonatkozásában az ugyanazon jogviszonnyal összefüggő bevallási kötelezettségének eleget tett, vagy
+- b) az adózó az egyszerűsített foglalkoztatásról szóló törvény szerinti foglalkoztatottra vonatkozóan
+  - ba) bejelentési kötelezettségének nem tett eleget, azonban az egyszerűsített foglalkoztatási jogviszonnyal összefüggő bevallási és adófizetési kötelezettségét határidőben és az ellenőrzés megkezdéséig teljesítette, és
+  - bb) az adózó az Air. 97. § (2) bekezdése szerinti ellenőrzés megállapításairól szóló jegyzőkönyvre tehető észrevétel benyújtására előírt határidőn belül, a foglalkoztatottra vonatkozóan az 1. melléklet 3. pontja szerinti biztosítotti bejelentést teljesítette.
 
 (5) A foglalkoztatót terhelő bejelentési kötelezettség elmulasztása esetén kiszabandó vagy hibás, hiányos, illetve valótlan adattartalommal történő teljesítése esetén kiszabható mulasztási bírság felső határa a bejelenteni elmulasztott vagy a hibás, hiányos, illetve valótlan adattartalommal teljesített bejelentéssel érintett foglalkoztatottak számának és a bírság (1), illetve (3) bekezdésben rögzített legmagasabb mértékének szorzata.
 
@@ -3256,7 +3270,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 
 (2) Az (1) bekezdésben meghatározott mulasztás ismételt előfordulása esetén elrendelt ismételt lezárás időtartama harminc, majd minden további esetben hatvan nyitvatartási nap. Az ismétlődésre vonatkozó szabályok nem alkalmazhatóak, ha két egymást követő ugyanolyan mulasztás között három év eltelt.
 
-(3) A kiszabott bírságról és a lezárásról hozott határozat elleni fellebbezésnek a lezárás végrehajtására nincs halasztó hatálya. Az intézkedés miatt harmadik személyeket ért kárért az adózó köteles helytállni.
+(3) Az intézkedés miatt harmadik személyeket ért kárért az adózó köteles helytállni.
 
 (4) A lezárás akadályozása esetén az állami adó- és vámhatóság a rendőrség közreműködését veheti igénybe.
 
@@ -3486,6 +3500,8 @@ A bejelentéssel és a nyilvántartásba vétellel, az abból való törléssel,
 
 (6b) A (6a) bekezdés szerinti szervezet a résztvevők továbbképzési kötelezettsége teljesítésének igazolásához szükséges adatokat a (6a) bekezdés a)–c) pontja szerinti adattartalommal megküldi a nyilvántartásba vételt végző szervezetnek a (7) bekezdés szerinti kormányrendeletben meghatározott módon.
 
+(6c) A nyilvántartásba vételt végző szervezet a továbbképző szervezetek (6b) bekezdés szerinti adatszolgáltatása alapján a továbbképzésre kötelezett személyek adott továbbképzési évben megszerzett kreditpontjainak számát az egységes Kormányzati Portálon a továbbképzésre kötelezett személyek tájékoztatása céljából évente legalább kettő alkalommal közzéteszi.
+
 (7) Az adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásának, továbbá a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenységet folytató személyek nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait, a nyilvántartás vezetésének szabályait a Kormány rendeletben állapítja meg azzal, hogy az eljárások során méltányossági eljárásnak nincs helye.
 
 ## HETEDIK RÉSZ — AZ ÁLLAMI ADÓ- ÉS VÁMHATÓSÁG ÁLTAL NYÚJTOTT SZOLGÁLTATÁSOK
@@ -3521,7 +3537,7 @@ Az állami adó- és vámhatóság a kezdő vállalkozásnak – figyelemmel tev
 
 #### 258. § [Telefonos ügyféltájékoztató és ügyintéző rendszer működtetése]
 
-Az állami adó- és vámhatóság egységes telefonos ügyféltájékoztató és ügyintéző rendszer keretében a Kormány rendeletében meghatározott egyedi ügyintézést és tájékoztatást, továbbá általános tájékoztatást nyújt. Az állami adó- és vámhatóság vezetője a Kormány rendeletében meghatározottak mellett további egyedi ügyintézés és tájékoztatás biztosításáról dönthet. Az egyedi ügyintézés és tájékoztatás igénybevételéhez az adózónak vagy képviselőjének ügyfél-azonosító számmal vagy a Dáptv. szerinti digitális állampolgár azonosítóval kell rendelkeznie.
+Az állami adó- és vámhatóság egységes telefonos ügyféltájékoztató és ügyintéző rendszer keretében a Kormány rendeletében meghatározott egyedi ügyintézést és tájékoztatást, továbbá általános tájékoztatást nyújt. Az állami adó- és vámhatóság vezetője a Kormány rendeletében meghatározottak mellett további egyedi ügyintézés és tájékoztatás biztosításáról dönthet. Az egyedi ügyintézés és tájékoztatás igénybevételéhez az adózónak vagy képviselőjének ügyfél-azonosító számmal kell rendelkeznie.
 
 #### 259. § [Adatlekérdezési lehetőség biztosítása]
 
@@ -3666,7 +3682,7 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 
 #### 269. § [Az adópolitikáért felelős miniszter számára adott felhatalmazások]
 
-(1)
+(1) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy az adószám képzésének szabályait rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy a belföldön letelepedett adóalanynak az Európai Unió más tagállamában érvényesíthető hozzáadottértékadó-visszatéríttetési kérelme, kiigazítási nyilatkozata adattartalmára, formátumára, kitöltésének módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
@@ -3971,6 +3987,10 @@ E törvénynek az egyes közigazgatási tárgyú törvények módosításáról 
 
 (6) E törvénynek a Módtv.13.-mal megállapított 83. § (1) bekezdés a) pontja alapján a földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlan-nyilvántartási rendszerből történő szolgáltatással elektronikus úton első alkalommal 2025. január 15. napján szolgáltat adatot. A nem elektronikus úton indított ingatlan-nyilvántartási eljárás (illetékkiszabásra bejelentés) esetén a 83. § (1) bekezdésének 2025. január 1-jén hatályos rendelkezése szerint kell az adatszolgáltatást teljesíteni.
 
+#### 274/V. § [Átmeneti rendelkezés az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvényhez]
+
+E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 154. § (1) és (2) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
 (1) E törvény 106. § (5) és (10) bekezdése, 107. § (5), (7) bekezdése és (8) bekezdés d) pontja, 108. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
@@ -4042,7 +4062,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 - 1.19. közhasznú szervezetként történő nyilvántartásba vételét;
 - 1.20. a 17.2. pont szerint bejelentkező adózók jegyzett tőkéjének összegét;
 - 1.21. külföldi vállalkozás magyarországi fióktelepe esetén a külföldi vállalkozás megnevezését, székhelyét, cégjegyzék számát, nyilvántartási számát;
-- 1.22. magyarországi tényleges üzletvezetési helyét, ha magyar adóügyi illetőségét a tényleges üzletvezetési hely alapozza meg;
+- 1.22. magyarországi tényleges üzletvezetési helyét, ha magyar adóügyi illetőségét a tényleges üzletvezetési hely alapozza meg, valamint magyarországi fióktelepe nevét és adószámát;
 - 1.23. bíróság által nyilvántartandó jogi személy esetében a bírósági nyilvántartási számát, a főtevékenységet és a ténylegesen végzett tevékenységet;
 - 1.24. a 17.2. pont szerint bejelentkező gazdasági társaság adózó külföldi pénzintézetnél vezetett valamennyi érvényes pénzforgalmi számlaszámát, a pénzforgalmi számlát vezető külföldi pénzintézet nevét, valamint a pénzforgalmi számla megnyitásának és lezárásának napját.
 - 2. Az 1. ponttól eltérően a kezelt vagyon esetében kizárólag az 1.4.–1.8., 1.13. és 1.18. pontok szerinti adatokat kell bejelenteni az állami adó- és vámhatósághoz.
@@ -4079,7 +4099,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 - 17.2. ha üzletszerű gazdasági tevékenységet csak a cégbejegyzése iránti kérelem benyújtását követően folytathat, a cégbírósághoz intézett bejegyzés iránti kérelem (kitöltött nyomtatvány) és mellékletei benyújtásával kéri az adószám megállapítását, amellyel az adózó teljesíti az állami adó-és vámhatósághoz történő bejelentkezési kötelezettségét;
 - 17.3. ha bíróság által nyilvántartandó jogi személy, vagy ilyen szervezet önálló jogi személyiséggel rendelkező szervezeti egységének minősül, adószámának megállapítását a bírósághoz benyújtott kérelem és mellékletei benyújtásával kéri, amellyel teljesíti az állami adó- és vámhatósághoz történő bejelentkezési kötelezettségét;
 - 17.4. ha adókötelezettsége, adóköteles bevételszerző tevékenysége nem tartozik a 17.1–17.3. pont hatálya alá, a tevékenység megkezdését megelőzően az állami adó- és vámhatóságnál az e célra szolgáló nyomtatványon, írásban teljesíti bejelentkezési kötelezettségét. Ha az adózó bejelentkezési kötelezettségét – jogszabálysértő módon – a tevékenység megkezdését követően teljesíti, a bejelentkezés során a tevékenység kezdő időpontját is köteles az állami adó- és vámhatósághoz írásban bejelenteni.
-- 18. A cégbíróság, a körzetközponti jegyző, valamint bíróság által nyilvántartandó jogi személy esetében a bíróság az erre a célra szolgáló számítógépes rendszer útján közli az állami adó- és vámhatósággal azokat az 1. pontban meghatározott adatokat, amelyek a cégbejegyzés, bíróság által nyilvántartandó jogi személy nyilvántartásba vétele során, valamint a vállalkozói igazolvány kiállítása iránt kitöltött nyomtatványon rendelkezésre állnak, ideértve az 1.16 és 1.17 pontban meghatározott nyilatkozat, valamint az adózó főtevékenységéről szóló nyilatkozat adatait is. Az állami adó- és vámhatóság az adószám megállapításához szükséges, az adóköteles tevékenységet folytatni kívánó adózó neve (elnevezése), címe (székhelye), cégjegyzék vagy egyéni vállalkozói nyilvántartási száma, valamint bíróság által nyilvántartandó jogi személy esetében azok bírósági nyilvántartási száma, illetve az 1.16. pont szerinti nyilatkozat alapján számítógépes rendszer útján közli a cégbírósággal, bíróság által nyilvántartandó jogi személy esetében a bírósággal, valamint a körzetközponti jegyzővel az adózó adóazonosító számát, illetve az ok megjelölésével értesíti a megkereső szervet az adószám megállapításának akadályáról. Az állami adó- és vámhatóság az adószám megállapításának megtagadásáról szóló véglegessé vált határozat egy példányának megküldésével értesíti a cégbíróságot, bíróság által nyilvántartandó jogi személy esetében a bíróságot, valamint a körzetközponti jegyzőt.
+- 18. A cégbíróság, az egyéni vállalkozók nyilvántartását vezető szerv, valamint bíróság által nyilvántartandó jogi személy esetében a bíróság az erre a célra szolgáló számítógépes rendszer útján közli az állami adó- és vámhatósággal azokat az 1. pontban meghatározott adatokat, amelyek a cégbejegyzés, bíróság által nyilvántartandó jogi személy nyilvántartásba vétele során, valamint az egyéni vállalkozói tevékenység megkezdésének bejelentésére űrlapon rendelkezésre állnak, ideértve az 1.16 és 1.17 pontban meghatározott nyilatkozat, valamint az adózó főtevékenységéről szóló nyilatkozat adatait is. Az állami adó- és vámhatóság az adószám megállapításához szükséges, az adóköteles tevékenységet folytatni kívánó adózó neve (elnevezése), címe (székhelye), cégjegyzék vagy egyéni vállalkozói nyilvántartási száma, valamint bíróság által nyilvántartandó jogi személy esetében azok bírósági nyilvántartási száma, illetve az 1.16. pont szerinti nyilatkozat alapján számítógépes rendszer útján közli a cégbírósággal, bíróság által nyilvántartandó jogi személy esetében a bírósággal, valamint az egyéni vállalkozók nyilvántartását vezető szervvel az adózó adóazonosító számát, illetve az ok megjelölésével értesíti a megkereső szervet az adószám megállapításának akadályáról. Az állami adó- és vámhatóság az adószám megállapításának megtagadásáról szóló véglegessé vált határozat egy példányának megküldésével értesíti a cégbíróságot, bíróság által nyilvántartandó jogi személy esetében a bíróságot, valamint az egyéni vállalkozók nyilvántartását vezető szervet.
 - 19. A 17.2. pont szerint bejelentkező adózó vonatkozásában nem tekinthető véglegesnek az adóhatóság adószám megállapításának megtagadásáról hozott határozata, ha a bírósági felülvizsgálat megindítására nyitva álló határidő még nem telt el, illetve az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen nem zárult le. A 18. pont alkalmazásában nem tekinthető véglegesnek az állami adó- és vámhatóság adószám megállapításának megtagadásáról hozott határozata akkor sem, ha a 20. § (1) bekezdés szerint előterjesztett kimentési kérelmet elutasító határozat bírósági felülvizsgálatának megindítására nyitva álló határidő még nem telt el, illetve az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen nem zárult le.
 - 20. A 17.1. pontban megjelölt adózó a bejelentkezéssel egyidejűleg, a 17.2. pontban megjelölt adózó a bejelentkezés napjától számított tizenöt napon belül az 1. pontban felsorolt adatok közül az állami adó- és vámhatósághoz írásban bejelenti:
 - 20.1. iratai, elektronikus alapon rendelkezésre álló bizonylatai és nyilvántartásai őrzésének helyét, ha az nem azonos az adózó székhelyével vagy lakóhelyével, valamint ha az adózó bizonylatot, könyvet, nyilvántartást online hozzáférést biztosítva, elektronikusan őrzi meg, ezt a tényt;

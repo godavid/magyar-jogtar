@@ -1559,7 +1559,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 ### Az ajándék és a visszterhes vagyonszerzés bejelentése
 
-91. § (1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ingatlanügyi hatóságnál kell bejelenteni illetékkiszabásra az azt tartalmazó szerződés (okirat), valamint az állami adóhatóság által erre a célra rendszeresített – a felek adóazonosító számát vagy az ennek hiányára utaló nyilatkozatot is tartalmazó – nyomtatvány benyújtásával, az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel egyidejűleg, az illetékkötelezettség keletkezését követő 30 napon belül.
+91. § (1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ügyfél vagy jogi képviselője az azt tartalmazó szerződés (okirat) benyújtásával az ingatlanügyi hatóságnál az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel egyidejűleg jelenti be illetékkiszabásra. A vagyonszerzési illeték megállapításához szükséges nyilatkozatokat az ügyfél vagy jogi képviselője az adóhatóság informatikai rendszerében vagy papíralapon az adó- és vámhatósághoz teszi meg az illetékkötelezettség keletkezését követő 30 napon belül. A nyilatkozat tartalmazza a felek adóazonosító számát vagy az ennek hiányára utaló kijelentést is.
 
 (1a) A 18. § (1a) bekezdése szerinti esetben az átruházó fél az (1) bekezdésben említett nyomtatványon nyilatkozik arról, hogy a jogügylet tárgya a 102. § (1a) bekezdés a)–b) pontja szerinti vagyontárgy.
 

@@ -1378,7 +1378,7 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (10) A kiszervezett tevékenységet végző közreműködőt abban az esetben alkalmazhat, ha a közöttük létrejövő szerződés – amelyet a hitelintézet jóváhagy – biztosítja a kiszervezett tevékenységnek a Felügyelet és a hitelintézet belső ellenőrzése, könyvvizsgálója által történő ellenőrzését.
 
-(11) A hitelintézet vezető tisztségviselője vagy annak közeli hozzátartozója nem állhat tulajdonosi viszonyban a kiszervezett tevékenységet végzővel, illetve a hitelintézet vezető tisztségviselője, közeli hozzátartozója a kiszervezett tevékenység végzésével nem bízható meg.
+(11) A hitelintézet vezető tisztségviselője vagy annak közeli hozzátartozója nem rendelkezhet ellenőrző befolyással a kiszervezett tevékenységet végző társaságban, illetve a hitelintézet vezető tisztségviselője, közeli hozzátartozója a kiszervezett tevékenység végzésével nem bízható meg.
 
 (12) A hitelintézet a kiszervezett tevékenységek körét és a kiszervezett tevékenység végzőjét az üzletszabályzatban feltünteti.
 

@@ -304,7 +304,7 @@ tart.
 - o) a Szoctv. 54. §-a alapján szociálisan rászorult,
 - p) táncművészeti életjáradékban részesül,
 - q) a szociális szövetkezetben tagi munkavégzési jogviszonyban áll, kivéve e jogviszony szünetelésének időtartamát,
-- r) rendvédelmi egészségkárosodási járadékban, honvédelmi egészségkárosodási járadékban, nemzetbiztonsági egészségkárosodási ellátásban vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadékban részesül,
+- r) rendvédelmi egészségkárosodási járadékban, honvédelmi egészségkárosodási járadékban, hősi egészségkárosodási ellátásban, nemzetbiztonsági egészségkárosodási ellátásban vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadékban részesül,
 - s) hajléktalan,
 - t) korhatár előtti ellátásban vagy szolgálati járandóságban részesül,
 - u) egészségügyi szolgáltatás megszerzése érdekében kötött megállapodás alapján jogosult,
@@ -419,7 +419,7 @@ együttesen kell figyelembe venni.
 - c) a szerzői jogi védelem alatt álló mű felhasználására, a szabadalom és kiegészítő oltalmi tanúsítvány tárgyát képező találmány, a növényfajta-oltalom alatt álló növényfajta, a használati- és formatervezési mintaoltalom alatt álló minta, valamint az azonosításra alkalmas módon rögzített vagyoni értéket képviselő műszaki vagy szervezési ismeret, tapasztalat mint védett ismeret hasznosítására irányuló felhasználási vagy hasznosítási szerződés (licenciaszerződés) alapján a felhasználás vagy hasznosítás jogának ellenértékeként kifizetett díj, valamint a találmányi díj, az alkalmazotti találmány hasznosítására való jog ellenében járó díj, a szolgálati és alkalmazotti növényfajta, a szolgálati és alkalmazotti használati- és formatervezési minta tekintetében a nemesítőt, a feltalálót és a szerzőt megillető díj,
 - d) a késedelmes teljesítéshez kapcsolódó kamat,
 - e) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a 3. §, és a 17–19. § alapján nem állt fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától,
-- f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés, honvédelmi egészségkárosodási járadék, a nemzetbiztonsági egészségkárosodási ellátás, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítés és egészségkárosodási járadék.
+- f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés, honvédelmi egészségkárosodási járadék, hősi egészségkárosodási ellátás, a nemzetbiztonsági egészségkárosodási ellátás, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítés és egészségkárosodási járadék.
 
 #### 11. Járulékfizetési szabályok
 
@@ -454,7 +454,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 #### 13. Járulékfizetésre vonatkozó különös szabályok
 
-37. § (1) A gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban, fejlesztési foglalkoztatási díjban, a 2012. január 1-jét követően hatósági határozattal megállapított rehabilitációs ellátásban, rendvédelmi egészségkárosodási keresetkiegészítésben, rendvédelmi egészségkárosodási járadékban, honvédelmi egészségkárosodási keresetkiegészítésben, honvédelmi egészségkárosodási járadékban, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítésben vagy egészségkárosodási járadékban, nemzetbiztonsági egészségkárosodási ellátásban részesülő személy az ellátás összege után nyugdíjjárulékot fizet. A saját jogú nyugdíjban, valamint az öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermekek otthongondozási díja, az ápolási díj, valamint a fejlesztési foglalkoztatási díj után nyugdíjjárulékot nem fizet. Az öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a folyósító szervhez benyújtott nyilatkozatával azonban vállalhatja a nyugdíjjárulék fizetését.
+37. § (1) A gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban, fejlesztési foglalkoztatási díjban, a 2012. január 1-jét követően hatósági határozattal megállapított rehabilitációs ellátásban, rendvédelmi egészségkárosodási keresetkiegészítésben, rendvédelmi egészségkárosodási járadékban, honvédelmi egészségkárosodási keresetkiegészítésben, honvédelmi egészségkárosodási járadékban, hősi egészségkárosodási ellátásban, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítésben vagy egészségkárosodási járadékban, nemzetbiztonsági egészségkárosodási ellátásban részesülő személy az ellátás összege után nyugdíjjárulékot fizet. A saját jogú nyugdíjban, valamint az öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermekek otthongondozási díja, az ápolási díj, valamint a fejlesztési foglalkoztatási díj után nyugdíjjárulékot nem fizet. Az öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a folyósító szervhez benyújtott nyilatkozatával azonban vállalhatja a nyugdíjjárulék fizetését.
 
 (2) Az álláskeresési támogatásban részesülő személy az ellátás után nyugdíjjárulékot fizet.
 
@@ -615,6 +615,8 @@ egyeztetést kezdeményezhet.
 - c) a biztosítása szünetel,
 
 nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 22 százalék nyugdíjjárulék fizetésének vállalása mellett megállapodást (a továbbiakban: szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából kötött megállapodás) köthet.
+
+(1a) Az (1) bekezdés a) pontját nem kell alkalmazni a doktoranduszra, ha a nyugdíjalapot képező jövedelme nem éri el a kötelező legkisebb munkabért.
 
 (2) Az (1) bekezdés szerinti megállapodás szolgálati időre és nyugdíj alapjául szolgáló átlagkereset megszerzésére külön-külön nem köthető meg.
 

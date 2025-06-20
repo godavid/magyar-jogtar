@@ -39,6 +39,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
   - m) a határon túli, magát magyar nemzetiségűnek valló természetes személy részére jogszabály alapján nyújtható támogatásokat,
   - n) az állam hitelfelvételét is tartalmazó nemzetközi szerződésben meghatározott, kizárólagos állami tulajdonú vagyon fejlesztését szolgáló beruházás megvalósítása érdekében 100%-os állami tulajdonú gazdasági társaság részére nyújtott támogatásokat,
   - o) a jogszabály alapján, az abban meghatározott feltételek szerint nyújtott kamat- és díjtámogatást,
+  - p) törvényben meghatározott tőkekiegyenlítési rendszer keretében teljesített kifizetéseket,
 - 15. kötelezettségvállalás: a kiadási előirányzatok, és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére fizetési kötelezettség vállalásáról szóló – így különösen a foglalkoztatásra irányuló jogviszony létesítésére, szerződés megkötésére, költségvetési támogatás biztosítására irányuló – szabályszerűen megtett jognyilatkozat,
 - 16.
 - 17. maradvány: a költségvetési év során a bevételek és kiadások különbözete, amely az alaptevékenység bevételei és kiadásai tekintetében a költségvetési maradvány, a vállalkozási tevékenység bevételei és kiadásai tekintetében a vállalkozási maradvány,
@@ -991,9 +992,13 @@ a kirendeléssel egyidejűleg tájékoztatja.
   - ab) a kötelezettségvállalásra irányuló eljárásokat,
   - ac) a tervezéssel, gazdálkodással és beszámolással összefüggő intézkedéseket,
 - b) javaslatot tehet, ajánlást fogalmazhat meg a belső információáramlásokkal, gazdálkodási folyamatokkal, továbbá a szakmai szabályozással összefüggésben, valamint
-- c) dönt a kötelezettségvállalások ellenjegyzéséről.
+- c) ha az érintett helyi önkormányzat időközi mérlegjelentése alapján a 90 napon túl lejárt kötelezettségek összege meghaladja a helyi önkormányzat tárgyévet megelőző évi költségvetési bevételének 30%-át, dönt a kötelezettségvállalások ellenjegyzéséről.
 
-(3a) A költségvetési biztos – a kincstár költségére – szakértőt is bevonhat, ha a (3) bekezdésben meghatározott tevékenysége során különleges szakértelmet igénylő kérdés merül fel.
+(3a) A költségvetési biztos – a kincstár költségére – szakértőt is bevonhat, ha a (3) bekezdésben meghatározott tevékenysége során különleges szakértelmet igénylő kérdés merül fel, továbbá a költségvetési biztost tevékenységének ellátásában a Kincstár elnökének döntése alapján a Kincstár személyi állományához tartozó közreműködő személy, illetve személyek segíthetik. A közreműködő személyek létszáma nem haladhatja meg
+
+- a) a 100 000 fő lakosságszám feletti települések önkormányzatai, a vármegyei önkormányzatok és Budapest Főváros Önkormányzata esetében az 5 főt,
+- b) az 50 001–100 000 fő lakosságszámú települések önkormányzatai esetében a 3 főt,
+- c) a 10 001–50 000 fő lakosságszámú települések önkormányzatai esetében az 1 főt.
 
 (3b) A költségvetési biztos a kincstár elnökének előzetes jóváhagyásával az (1a) bekezdésben meghatározott feladatai ellátása érdekében kezdeményezheti a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
 
@@ -1080,9 +1085,9 @@ teljesíthet.
 
 (4) Ha az államháztartás központi alrendszerébe tartozó költségvetési szerv jogszabály, vagy az MNV Zrt.-vel kötött szerződés alapján használt állami vagyon használatát, vagy az őt megillető más jog gyakorlását visszterhes szerződés alapján harmadik személynek átengedi, az ebből származó költségvetési bevétel – törvény eltérő rendelkezése hiányában – a költségvetési szervet illeti meg.
 
-(5) A 6. § (7) bekezdés b) pont bc) alpontja alapján nyújtott tulajdonosi kölcsön vissza nem térülő tőkeösszegét költségvetési kiadásként kell elszámolni a visszafizetés elmaradásának – így különösen a kölcsön, követelés elengedésének, beszámításának vagy tőkévé alakításának – időpontjában.
+(5) Az állam többségi befolyása alatt álló gazdasági társasággal szembeni, kijelölt tulajdonosi joggyakorlói hatáskörben előírt fizetési vagy visszafizetési kötelezettségből eredő követelés – az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyásával – részben vagy egészben elengedhető – ideértve a követelés tőkévé alakítását is – a gazdasági társaság pénzügyi vagy tőkehelyzetének rendezése érdekében. Előzetes jóváhagyás az állami támogatások versenyszempontú ellenőrzéséért felelős szerv írásos véleményének ismeretében adható. A 6. § (7) bekezdés b) pont bc) alpontja alapján nyújtott tulajdonosi kölcsön elengedett tőkeösszegét az elengedés időpontjában költségvetési kiadásként kell elszámolni a kijelölt tulajdonosi joggyakorlónál.
 
-(6) Az állam nevében kijelölt tulajdonosi joggyakorlói feladatot ellátó gazdasági társaság a működéséhez biztosított központi költségvetési forrás felhasználásáról a tulajdonosi joggyakorlója felé elszámol, a fel nem használt vagy nem rendeltetésszerűen felhasznált forrás visszafizetése mellett.
+(6) Az állam nevében kijelölt tulajdonosi joggyakorlói feladatot ellátó gazdasági társaság a működéséhez biztosított központi költségvetési forrás felhasználásáról a tulajdonosi joggyakorlója felé – számviteli beszámolója jóváhagyásának keretében – elszámol, és a tulajdonosi joggyakorló rendelkezése alapján a társaság tulajdonosi joggyakorlói tevékenységéhez nem szükséges forrást visszafizeti az állam részére vagy indokolt esetben felhasználhatja a tárgyévet követő év működésének fedezetére.
 
 (7) Ha az állam befektetési alap létrehozatala útján valósítja meg feladatát, a befektetési jegyek megszerzése az állam nevében, tulajdonosi ügyletként hajtható végre. A befektetési jegyekből származó bevétel az állam tulajdonosi bevétele. Befektetési jegyet a Vtv. 17. § (1) bekezdés e) pontjától eltérően a befektetés céljának vagy jellegének szakmai kapcsolódása alapján feladat- és hatáskörrel rendelkező költségvetési szerv is szerezhet az állam nevében. Az így létrejött állami vagyon feletti tulajdonosi joggyakorlás tekintetében a Vtv. rendelkezéseit kell alkalmazni.
 
@@ -1246,7 +1251,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 53/A. § (1) A költségvetési támogatás jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása esetén a támogató a költségvetési támogatást visszavonhatja, a támogatási szerződéstől elállhat, azt felmondhatja vagy kezdeményezheti annak módosítását.
 
-(2) A költségvetési támogatások jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása, továbbá a költségvetési támogatás visszavonása, a támogatási szerződéstől történő elállás vagy annak felmondása esetén a kedvezményezett a jogosulatlanul igénybe vett költségvetési támogatás összegét a Kormány rendeletében meghatározott ügyleti kamattal, késedelem esetén késedelmi kamattal növelt mértékben köteles visszafizetni. Az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezettet és a kincstárnál a költségvetési támogatás folyósítása érdekében vezetett fizetési számlával rendelkező kedvezményezettet kamatfizetési kötelezettség nem terheli.
+(2) A költségvetési támogatások jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása, továbbá a költségvetési támogatás visszavonása, a támogatási szerződéstől történő elállás vagy annak felmondása esetén a kedvezményezett a jogosulatlanul igénybe vett költségvetési támogatás összegét a Kormány rendeletében meghatározott ügyleti kamattal, késedelem esetén késedelmi kamattal növelt mértékben köteles visszafizetni. Az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezettet és – a 14. § (3) bekezdése szerinti fejezetből 100% előlegként folyósított költségvetési támogatások kedvezményezettje kivételével – valamennyi olyan a kedvezményezettet, aki a költségvetési támogatás célja szerinti kiadásokat az e törvényben foglaltak szerint kizárólag a kincstárnál vezetett fizetési számlájáról teljesítheti, kamatfizetési kötelezettség nem terheli.
 
 (2a) A (2) bekezdésben meghatározott követeléssel kapcsolatos végrehajtás elrendelése esetén az Ákr. hatálya alá tartozó eljárásokban a végrehajtási megkeresés napját követően a késedelmi kamatot az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezései alapján – az ott meghatározott kivétellel – a végrehajtást foganatosító szerv számítja fel és arról a megkereső szervet értesíti.
 
@@ -1374,7 +1379,7 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (2)
 
-59. § (1) A kincstár a helyi önkormányzat éves költségvetési beszámolója alapján az Ákr. szerinti hatósági ellenőrzés keretében felülvizsgálja a támogatások elszámolását, felhasználását. A hatósági ellenőrzés tekintetében alkalmazandó kiegészítő rendelkezéseket kormányrendelet határozza meg. A felülvizsgálat során a kincstár az Állami Számvevőszék jelentéseiben foglalt megállapításokat is figyelembe veszi.
+59. § (1) A kincstár a helyi önkormányzat éves költségvetési beszámolója alapján az Ákr. szerinti hatósági ellenőrzés keretében felülvizsgálja a támogatások elszámolását, felhasználását. A hatósági ellenőrzés ügyintézési határideje indokolt esetben, egy alkalommal, legfeljebb 30 nappal meghosszabbítható. A hatósági ellenőrzés tekintetében alkalmazandó kiegészítő rendelkezéseket kormányrendelet határozza meg. A felülvizsgálat során a kincstár az Állami Számvevőszék jelentéseiben foglalt megállapításokat is figyelembe veszi.
 
 (2) A felülvizsgálat megszervezése során biztosítani kell, hogy valamennyi helyi önkormányzatnál a felülvizsgálat esetében legalább négyévente – a kincstár által meghatározott támogatási jogcímek tekintetében – helyszíni ellenőrzésre kerüljön sor, amely a Polgári Törvénykönyv szerinti általános elévülési időn belül, a korábban nem vizsgált időszakra és jogcímekre is kiterjeszthető.
 
@@ -1912,9 +1917,9 @@ eredményeképpen keletkeztek.
 
 94/A. § (1) A 92–94. § szerinti eljárásokban – az e törvényben meghatározott kivételekkel – az államot az államháztartásért felelős miniszter képviseli.
 
-(2) A 92–94. § szerinti fizetési kötelezettségekből eredő, az államot terhelő kifizetés során – jogszabály eltérő rendelkezése hiányában – az állami adóhatóság jár el.
+(2) A 92. § szerinti fizetési kötelezettségekből eredő, az államot terhelő kifizetés során – jogszabály eltérő rendelkezése hiányában – az állami adóhatóság jár el.
 
-(3) Az Országgyűlés a költségvetési év során vállalható egyedi állami kezesség, kiállítási garancia és kiállítási viszontgarancia, valamint állami viszontgarancia mértékét, annak felső határát a központi költségvetésről szóló törvényben állapítja meg.
+(3) A költségvetési év során vállalható egyedi állami kezesség mértékét, valamint a kiállítási garancia és kiállítási viszontgarancia, továbbá az állami viszontgarancia állományának felső határát a központi költségvetésről szóló törvény állapítja meg.
 
 95. § (1) Az Európai Bizottság által az Európai Unió nevében vállalt, hitelviszonyon alapuló fizetési kötelezettségének teljesítéséhez és az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézmény általi hitel vagy garancia nyújtásához szükséges tagállami fizetési kötelezettség a Kormány egyedi határozata alapján vállalható. A Kormány által meghatározott kötelezettségvállalási cél, mérték, időtartam és egyéb lényeges feltételek figyelembevételével ilyen kötelezettség az Európai Bizottsággal, illetve az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézménnyel kölcsönösen elfogadott tartalommal és formában vállalható.
 
@@ -1937,6 +1942,8 @@ eredményeképpen keletkeztek.
 (2) A helyi önkormányzat, a társulás, a térségi fejlesztési tanács, valamint az általuk irányított költségvetési szervek követeléséről lemondani csak törvényben vagy helyi önkormányzati rendeletben meghatározott esetekben és módon lehet.
 
 (3) Az önkéntes teljesítésre történő felhíváson kívül a központi költségvetésről szóló törvényben megállapított értékhatárt el nem érő kis összegű követelést behajtásra előírni nem kell.
+
+(4) A jogi személy alapításakor vagy a tagsági jogok keletkezésének más eseteiben az államot vagy a helyi önkormányzatot megillető követelés nem pénzbeli vagyoni hozzájárulásként nem teljesíthető.
 
 98. § A jogszabályban meghatározott családok otthonteremtési kedvezményével, családi otthonteremtési kedvezménnyel, CSOK Plusz hitelprogram részét képező családok otthonteremtési kamattámogatásával és a családok otthonteremtési kamattámogatásával érintett kölcsönhöz kapcsolódó gyermekvállalási támogatással, adó-visszatérítési támogatással, lakásépítési kedvezménnyel, fiatalok otthonteremtési támogatásával, megelőlegező kölcsönnel, valamint – jogszabályban meghatározott esetben – kiegészítő kamattámogatással összefüggésben az állam javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni. A jogszabályban meghatározott kiegészítő kamattámogatással, megelőlegező kölcsönnel, családok otthonteremtési kamattámogatásával érintett kölcsönnel, valamint az otthonfelújítási kölcsönnel összefüggésben a hitelintézet javára jelzálogjogot és annak biztosítására szolgáló elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
 
@@ -2076,6 +2083,8 @@ kezelésére.
 
 - a) a Kormányzati Személyügyi Döntéstámogató Rendszerbe feltöltendő foglalkoztatottak létszám-, kereseti- és illetményadatairól egyedi azonosító alkalmazásával, valamint
 - b) a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból.
+
+(6) A kincstár a kincstári monitoringrendszerrel összefüggő feladataival összefüggésben jogosult a támogató vagy a támogató nevében eljáró szervezet által a rendszerben rögzített természetes személy kedvezményezett adóazonosító jelének, jogi személy kedvezményezett adószámának, valamint a támogatás felhasználási helyére vonatkozó címadatainak (lakcím, székhely, telephely) megismerésére és kezelésére.
 
 106/B. § A kincstár a belföldi gépjárművek után beszedett adó központi költségvetés részére történő befizetésének a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.
 
@@ -2527,6 +2536,8 @@ lehet az államháztartás központi alrendszerébe tartozó költségvetési sz
 111/R. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 244/K. § (1) bekezdése szerinti járóbeteg-szakellátási feladatátalakítás tekintetében, ha a 11/A. § (1) bekezdése szerinti gazdasági társaság járóbeteg-szakellátási feladat mellett egyéb feladatot is ellát, a gazdasági társaság megszüntetésére nem kerül sor.
 
 (2) Az (1) bekezdést a folyamatban lévő járóbeteg-szakellátási feladatellátások költségvetési szerv általi átvétele esetében is alkalmazni kell.
+
+111/T. § E törvénynek Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv6.) módosított 45. § (5) bekezdését e rendelkezés hatálybalépésekor fennálló követelések tekintetében is alkalmazni kell.
 
 #### 74. Az Európai Unió jogának való megfelelés
 

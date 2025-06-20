@@ -1432,9 +1432,10 @@ beszerzése esetében
 (1a) Az (1) bekezdés c) pontja szerinti igazolás
 
 - a) az állami adóhatóság által erre a célra rendszeresített nyomtatvány vagy más, az állami adóhatóság által engedélyezett, a (10) bekezdésben meghatározott adattartalmú nyomtatvány (a továbbiakban együtt: adó-visszaigénylő lap) záradékolásával és lebélyegzésével, vagy
-- b) a számla digitális bélyegzővel történő hitelesítésével (a továbbiakban: elektronikus igazolás)
+- b) az állami adóhatóság által engedélyezett, a (10) bekezdésben előírtaknak megfelelő elektronikus adattartalom záradékolással és lebélyegzéssel egyenértékű digitális bélyegzővel megvalósuló hitelesítésével, vagy
+- c) a számla digitális bélyegzővel történő hitelesítésével (a továbbiakban: elektronikus igazolás) történik.
 
-történik.
+(1b) Az (1a) bekezdés b) pontjában említett digitális bélyegzővel történő hitelesítés a kiléptető hatóság által e célra használt informatikai rendszerben történik.
 
 (2) Adó-visszaigénylő lap alkalmazása esetén az adómentesség érvényesítése érdekében a termék értékesítőjének a számlakibocsátás mellett – a külföldi utas kérelmére – az adó-visszaigénylő lap kitöltéséről is gondoskodnia kell. A számlának és az adó-visszaigénylő lapnak a külföldi utas azonosítására vonatkozó adatai nem térhetnek el az úti okmányában szereplő adatoktól. A külföldi utas köteles úti okmányát a termék értékesítőjének bemutatni. Az adó-visszaigénylő lap csak 1 darab számlának a termékértékesítésre vonatkozó adatait tartalmazhatja úgy, hogy azok nem térhetnek el a számla adataitól. Az adó-visszaigénylő lapot a termék értékesítője 3 példányban állítja ki, amelyből az első 2 példányt a külföldi utasnak adja át, a harmadik példányt pedig saját nyilvántartásában őrzi meg.
 
@@ -1442,7 +1443,7 @@ történik.
 
 (4) Az adómentesség érvényesítésének feltétele, hogy
 
-- a) a termék értékesítője birtokolja az adó-visszaigénylő lap (1a) bekezdés a) pontja szerint záradékolt és lebélyegzett első példányát vagy rendelkezésére álljon az elektronikus igazolás, és
+- a) a termék értékesítője birtokolja az adó-visszaigénylő lap (1a) bekezdés a) pontja szerint záradékolt és lebélyegzett első példányát, vagy rendelkezésére álljon a digitális bélyegzővel hitelesített, kiléptetést igazoló elektronikus adattartalom, vagy rendelkezésére álljon az elektronikus igazolás, és
 - b) ha a termékértékesítés teljesítésekor adó felszámítása történt, a felszámított adót a termék értékesítője – az (5)–(8) bekezdések szerint – a külföldi utas részére visszatérítse.
 
 (5) Az adó visszatéríttetését a termék értékesítőjénél személyesen a külföldi utas, illetőleg a nevében és képviseletében eljáró meghatalmazottja indítványozhatja. Abban az esetben, ha a külföldi utas
@@ -1452,7 +1453,7 @@ történik.
 
 (6) Az adó visszatéríttetése érdekében a külföldi utas, vagy meghatalmazottja a termék értékesítőjének
 
-- a) átadja az adó-visszaigénylő lap (1a) bekezdés a) pontja szerint záradékolt és lebélyegzett első példányát, továbbá bemutatja a termékértékesítés teljesítését tanúsító számla eredeti példányát, vagy
+- a) átadja az adó-visszaigénylő lap (1a) bekezdés szerint záradékolt és lebélyegzett első példányát, továbbá bemutatja a termékértékesítés teljesítését tanúsító számla eredeti példányát, vagy rendelkezésére bocsátja a digitális bélyegzővel hitelesített, kiléptetést igazoló elektronikus adattartalmat, vagy
 - b) rendelkezésére bocsátja az elektronikus igazolást.
 
 (7) A visszatérített adó forintban illeti meg a külföldi utast, amelyet készpénzben kell kifizetni. A termék értékesítője és a külföldi utas azonban ettől eltérő pénznemben és fizetési módban is megállapodhat.
@@ -2573,7 +2574,7 @@ számlakibocsátási kötelezettséget jelent.
 
 nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 
-(2) Az alanyi adómentesség választására jogosító felső értékhatár: 12 000 000 forintnak megfelelő pénzösszeg.
+(2) Az alanyi adómentesség választására jogosító felső értékhatár: 18 000 000 forintnak megfelelő pénzösszeg.
 
 (3) Az alanyi adómentesség választására jogosító felső értékhatárba nem számítandó be:
 
@@ -2999,7 +3000,7 @@ tünteti fel.
 
 210. § (1) Utazásszervezési szolgáltatás nyújtása esetében az adó alapja az utazásszervező árrése.
 
-(2) Az árrés az a pénzben kifejezett különbözet, amelynél a kisebbítendő tag az utas által megtérített vagy megtérítendő, pénzben kifejezett – adó nélkül számított – ellenérték, a kivonandó tag pedig az utazásszervezési szolgáltatás teljesítéséhez szükséges, a 206. § (1) bekezdésének a) pontjában említett, más adóalany által teljesített szolgáltatásnyújtás, termékértékesítés megtérített vagy megtérítendő, pénzben kifejezett – adóval számított – együttes ellenértéke (e fejezet alkalmazásában a továbbiakban: egyedi nyilvántartáson alapuló módszer).
+(2) Az árrés az a pénzben kifejezett különbözet, amelynél a kisebbítendő tag az utas által megtérített vagy megtérítendő, pénzben kifejezett – adó nélkül számított – ellenérték, a kivonandó tag pedig az utazásszervezési szolgáltatás teljesítéséhez szükséges, a 206. § (1) bekezdésének a) pontjában említett, más adóalany által teljesített szolgáltatásnyújtás, termékértékesítés megtérített vagy megtérítendő, pénzben kifejezett – adóval számított – együttes ellenértéke.
 
 (3) Abban az esetben, ha a (2) bekezdés szerinti számítás eredményeként a különbözet nem pozitív előjelű, árrésként nulla érték veendő figyelembe.
 
@@ -4734,6 +4735,13 @@ az állami adó- és vámhatóság részére.
 (2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontja szerinti termékértékesítés esetén továbbra is a 2024. december 31-én hatályos szabályok szerint kell eljárni, ha a teljesítés időpontja 2025. január 1-jére vagy azt követő időpontra esik, de a terméket beszerző adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2025. január 1-jét megelőzően kellene megállapítani.
 
 (3) Amennyiben az e törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontja szerinti termékértékesítéshez fizetett előleg jóváírásának, kézhezvételének időpontja 2025. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a terméket beszerző adóalany adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
+
+372. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2025. naptári évre abban az esetben is jogosult volt választani, ha
+
+- a) a 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege sem a 2024. naptári évben ténylegesen, sem a 2025. naptári évben észszerűen várhatóan, illetve ténylegesen nem haladja meg a 18 000 000 forintnak megfelelő pénzösszeget, és
+- b) az alanyi adómentesség választhatóságára jogosító értékhatár emeléséről szóló 5/2025. (I. 25.) Korm. rendelet 2025. február 1-jén hatályos 4. §-a alapján 2025. február 28-ig nyilatkozott az alanyi adómentesség 2025. évre történő választásáról.
+
+(2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet a 2025. naptári évre abban az esetben is választhatta, ha a 191. § (3) bekezdésében rögzített időtartam még nem telt el.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 

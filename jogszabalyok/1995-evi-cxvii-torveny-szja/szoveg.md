@@ -155,7 +155,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
   - c) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján folyósított adóköteles ellátás;
   - d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, nyugdíj előtti álláskeresési segély, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás, valamint a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet alapján nyújtott álláskeresést ösztönző juttatás;
   - e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély e jogviszonyból származó jövedelme;
-  - f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítést és egészségkárosodási járadékot, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátást, továbbá a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
+  - f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot, a kormányzati igazgatási hősi juttatásokról szóló kormányrendelet szerinti hősi egészségkárosodási ellátást, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítést és egészségkárosodási járadékot, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátást, továbbá a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
   - g) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása.
 - 22. Munkaviszonyból származó jövedelem: a magánszemélyt munkaviszonyára (ideértve a munkaviszonynak megfelelő, külföldi jog szerinti jogviszonyt is) tekintettel megillető adóköteles bevétel.
 - 23. Nyugdíj:
@@ -189,7 +189,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
 - 35. Szociális segély: a szociálisan rászorulónak pénzben vagy nem pénzben ellenszolgáltatás nélkül nyújtott vissza nem térítendő támogatás.
 - 36. Szociálisan rászoruló: az a magánszemély, akinek (eltartottainak) létfenntartása oly mértékben veszélyeztetett, hogy azt – vagyoni viszonyára is tekintettel – csak külső segítséggel képes biztosítani.
 - 37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az Országgyűlési Őrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
-- 38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
+- 38. Egyenruha: a Magyar Honvédség, a rendvédelmi szervezetek és a polgári nemzetbiztonsági szolgálatok tagjának, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 - 39. Kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU rendelet (HL L 187 2014.06.26. 1–78. o.) 1–14. és 17. cikke szerinti támogatás.
 - 40. Agrár csoportmentességi (ABER) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2022. december 14-i 2022/2472/EU bizottsági rendelet (HL L 327., 2022.12.21., 1. o.) 1–14. és 17. cikkei szerinti támogatás.
 - 41. Mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1408/2013/EU rendelet (HL L 352 2013.12.24. 9–17. o.) szerinti támogatás.
@@ -228,7 +228,7 @@ feltéve, hogy kizárólag magánszemély alapító, csatlakozó által rendelke
 - 63. Csoportos személyszállítás: ha a munkáltató a munkavégzés érdekében legalább négy munkavállaló szállításáról gondoskodik
   - a) a tulajdonában (üzemeltetésében) lévő vagy általa bérelt, lízingelt járművel, vagy
   - b) kifizetőtől igénybe vett személyszállítási szolgáltatás útján azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csoportos személyszállításnak minősülhet, ha a munkavállalók munkarendje vagy a munkahely földrajzi elhelyezkedése miatt a munkába járás, illetve a hazautazás közösségi közlekedési eszköz igénybevételével nem valósítható meg.
-- 64.
+- 64. Családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti családi pótlék.
 - 65. Szociális gondozói díj: az a költségtérítést nem tartalmazó bevétel, amelyet a személyes gondoskodásról szóló jogszabályi rendelkezések alapján, illetőleg azoknak megfelelően nem munkaviszony keretében folytatott tevékenységért és nem munkaviszony keretében folytatott lelki segélyszolgálatért kap a magánszemély.
 - 66. Alapkutatás: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben (a továbbiakban: Innovációs tv.) meghatározott alapkutatás.
 - 67. Alkalmazott kutatás: az Innovációs tv. szerinti alkalmazott kutatás.
@@ -889,7 +889,7 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 
 (3) A családi kedvezmény érvényesítésére jogosult
 
-- a) az a magánszemély, aki a családok támogatásáról szóló törvény szerint gyermekre tekintettel családi pótlékra jogosult, továbbá a jogosulttal közös háztartásban élő, családi pótlékra nem jogosult házastársa, azonban nem minősül jogosultnak az a magánszemély, aki a családi pótlékot
+- a) az a magánszemély, aki gyermekre tekintettel családi pótlékra jogosult, továbbá a jogosulttal közös háztartásban élő, családi pótlékra nem jogosult házastársa, azonban nem minősül jogosultnak az a magánszemély, aki a családi pótlékot
   - aa) gyermekotthon vezetőjeként a gyermekotthonban nevelt gyermekre (személyre) tekintettel,
   - ab) szociális intézmény vezetőjeként a szociális intézményben elhelyezett gyermekre (személyre) tekintettel,
   - ac) javítóintézet igazgatójaként, illetve büntetés-végrehajtási intézet parancsnokaként a javítóintézetben nevelt vagy büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló gyermekre (személyre) tekintettel
@@ -902,7 +902,7 @@ kapja;
 
 (4) Kedvezményezett eltartott
 
-- a) az, akire tekintettel a magánszemély a családok támogatásáról szóló törvény szerint családi pótlékra jogosult,
+- a) az, akire tekintettel a magánszemély családi pótlékra jogosult,
 - b) a magzat a várandósság időszakában (fogantatásának 91. napjától megszületéséig),
 - c) az, aki a családi pótlékra saját jogán jogosult,
 - d) a rokkantsági járadékban részesülő magánszemély.
@@ -949,7 +949,7 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 (4) Az állami adó- és vámhatóság az ellenőrzés során kérheti a várandósság tényéről kiadott orvosi igazolást.
 
-(5) E törvénynek a családi kedvezményre vonatkozó szabályait – figyelemmel az 1/A. § rendelkezéseire is – megfelelően alkalmazni kell bármely EGT-állam és a Magyarországgal határos, nem EGT-állam jogszabálya alapján családi pótlékra, rokkantsági járadékra, vagy más hasonló ellátásra jogosult magánszemély (jogosult, eltartott) esetében is azzal, hogy
+(5) E törvénynek a családi kedvezményre vonatkozó szabályait – figyelemmel az 1/A. § rendelkezéseire is – megfelelően alkalmazni kell bármely EGT-állam és a Magyarországgal határos, nem EGT-állam jogszabálya alapján családi pótléknak megfelelő ellátásra, rokkantsági járadékra, vagy más hasonló ellátásra jogosult magánszemély (jogosult, eltartott) esetében is azzal, hogy
 
 - a) kedvezményezett eltartottként az a magánszemély (gyermek) vehető figyelembe, akire tekintettel a családok támogatásáról szóló törvény megfelelő alkalmazásával a kedvezményt érvényesítő magánszemély családi pótlékra való jogosultsága megállapítható lenne;
 - b) eltartottként az a magánszemély (gyermek) vehető figyelembe, akit a családok támogatásáról szóló törvény megfelelő alkalmazásával más magánszemély (gyermek) után járó családi pótlék megállapításánál figyelembe lehetne venni.
@@ -2500,7 +2500,7 @@ felhasználható, a 70. § (8) bekezdése szerinti éves rekreációs keretössz
 
 (4) Ha béren kívüli juttatásra vonatkozóan az állami adó- és vámhatóság a feltételek fennállásának hiányát állapítja meg, a jogkövetkezményeket – ha nem rendelkezik a magánszemély nyilatkozatával – a kifizető viseli. Ha az adóhiány a magánszemély valótlan nyilatkozatának a következménye, illetve a magánszemély a nyilatkozat átadását nem tudja igazolni, akkor az adóhiányt és jogkövetkezményeit a magánszemélynek az állami adó- és vámhatóság határozata alapján kell viselnie.
 
-(5) E § és a 70. § (8) bekezdés alkalmazásában
+(5) E § és a 70. § (8)–(8d) bekezdés alkalmazásában
 
 - a) munkáltatónak minősül a társas vállalkozás is;
 - b) munkavállalónak minősül a munka törvénykönyvéről szóló törvény előírásai szerint a munkáltatónál másik munkáltató utasítása alapján a munkaszerződésében rögzített munkahelytől eltérő helyen munkát végző munkavállaló és a társas vállalkozás személyesen közreműködő tagja is;
@@ -3362,7 +3362,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.10. a menedékjogról szóló törvény végrehajtásról szóló kormányrendeletben felsorolt támogatások: az étkezési hozzájárulás, a higiénés hozzájárulás, a szabad felhasználású költőpénz, az oktatási, nevelési költségek megtérítése, a beiskolázási támogatás, a huzamos tartózkodáshoz nyújtott egyszeri támogatás, a rendszeres létfenntartási támogatás, lakhatási támogatás, lakáscélú támogatás és az integrációs támogatás.
 
-1.11. a honvédek jogállásáról szóló kormányrendeletben meghatározott kiegészítő rokkantsági támogatás, a honvédelmi adatkezelésekről szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás, a honvédelmi alkalmazottak jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás;
+1.11. a honvédek jogállásáról szóló kormányrendeletben meghatározott kiegészítő rokkantsági támogatás, a kormányzati igazgatási hősi juttatásokról szóló kormányrendelet szerinti hősi kiegészítő rokkantsági támogatás, a honvédelmi adatkezelésekről szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás, a honvédelmi alkalmazottak jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás;
 
 1.12. a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerinti özvegyi ellátás.
 
@@ -3784,7 +3784,7 @@ a) a befektetési eszközzel végzett ügylet nyeresége,
 
 b) a befektetési eszköz hozama, kivéve az osztalékból származó jövedelmet;
 
-7.17. az államháztartás valamely alrendszerének költségvetése terhére és/vagy az Európai Unió valamely pénzügyi alapjából támogatott felnőttképzésben, munkaerőpiaci képzésben, munkaerőpiaci programban, társadalmi felzárkózással kapcsolatos képzésben részt vevő magánszemély számára jogszabály, pályázat, programterv alapján elnyert forrás felhasználására vonatkozó kötelezettségek betartása mellett nyújtott képzési támogatás (kivéve a keresetkiegészítést és a keresetpótló juttatást), felnőttképzési szolgáltatás, a képzés időszaka alatt biztosított étkezés, közlekedés, szállás, valamint az ilyen jogcímen adott költségtérítés, megélhetési támogatás;
+7.17. az államháztartás valamely alrendszerének költségvetése terhére és/vagy az Európai Unió valamely pénzügyi alapjából támogatott felnőttképzésben, munkaerőpiaci képzésben, munkaerőpiaci programban, társadalmi felzárkózással kapcsolatos képzésben, felsőfokú szakirányú továbbképzésben részt vevő magánszemély számára jogszabály, pályázat, programterv alapján elnyert forrás felhasználására vonatkozó kötelezettségek betartása mellett nyújtott képzési támogatás (kivéve a keresetkiegészítést és a keresetpótló juttatást), felnőttképzési szolgáltatás, a képzés időszaka alatt biztosított étkezés, közlekedés, szállás, valamint az ilyen jogcímen adott költségtérítés, megélhetési támogatás;
 
 7.18. jogszabály alapján hitelintézetnél elhelyezett gyámhatósági betét kamata, a gyámhatóság döntése, kötelezése alapján befektetési szolgáltatónál elhelyezett értékpapír kamatjövedelemnek minősülő hozama;
 
@@ -3912,7 +3912,7 @@ d) a foglalkozás-egészségügyi ellátás;
 
 e) a kegyeleti ellátás;
 
-f) szolgálati lakásban, munkásszálláson történő elhelyezés; e rendelkezés alkalmazásában munkásszállás a kifizető tulajdonát képező vagy általa bérelt olyan szálláshely, amely egy lakóhelyiséggel rendelkező önálló ingatlan esetében a lakóhelyiségben egynél több, több lakóhelyiséggel rendelkező önálló ingatlan esetében pedig lakóhelyiségenként legalább egy, a kifizetővel munkaviszonyban lévő olyan magánszemély elhelyezésére szolgál, aki nem rendelkezik lakás haszonélvezeti joggal nem terhelt 50 százalékot meghaladó mértékű tulajdonjogával, haszonélvezeti jogával azon a településen, ahol a munkahelye van; munkásszálláson történő elhelyezéssel esik egy tekintet alá az olyan más elhelyezés is, amely esetében a munkavállaló legfeljebb egy lakóhelyiséget használhat, ide nem értve a szállodának minősülő kereskedelmi szálláshelyen történő elhelyezést, azzal, hogy nem része az adómentes juttatásnak az étkezési szolgáltatás biztosítása, továbbá azzal, hogy nem adómentes az elhelyezés, ha a kifizető olyan magánszemélyt, illetve annak hozzátartozóját szállásol el, akivel a társasági adóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő esetekben meghatározott kapcsolat áll fenn;
+f) szolgálati lakásban, munkásszálláson történő elhelyezés; e rendelkezés alkalmazásában munkásszállás a kifizető (ideértve a külföldi vállalkozás magyarországi fióktelepét is) tulajdonát képező vagy általa bérelt olyan szálláshely, amely egy lakóhelyiséggel rendelkező önálló ingatlan esetében a lakóhelyiségben egynél több, több lakóhelyiséggel rendelkező önálló ingatlan esetében pedig lakóhelyiségenként legalább egy, a kifizetővel (fióktelep esetén a külföldi vállalkozással) munkaviszonyban lévő olyan magánszemély elhelyezésére szolgál, aki nem rendelkezik lakás haszonélvezeti joggal nem terhelt 50 százalékot meghaladó mértékű tulajdonjogával, haszonélvezeti jogával azon a településen, ahol a munkahelye van; munkásszálláson történő elhelyezéssel esik egy tekintet alá az olyan más elhelyezés is, amely esetében a munkavállaló legfeljebb egy lakóhelyiséget használhat, ide nem értve a szállodának minősülő kereskedelmi szálláshelyen történő elhelyezést, azzal, hogy nem része az adómentes juttatásnak az étkezési szolgáltatás biztosítása, továbbá azzal, hogy nem adómentes az elhelyezés, ha a kifizető olyan magánszemélyt, illetve annak hozzátartozóját szállásol el, akivel a társasági adóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő esetekben meghatározott kapcsolat áll fenn;
 
 8.7. az a szolgáltatás, amelyet
 
