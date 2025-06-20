@@ -768,8 +768,11 @@ is.
 - c) a minisztérium (miniszter),
 - d) aki alapítói jogát a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 2. § (8) bekezdése szerint gyakorolja,
 - e) az a költségvetési szerv, melynek alapítói, fenntartói joga a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 2. § (1) bekezdése alapján az államra szállt.
+- f) az (5) bekezdés szerinti, alapítói jogok gyakorlására kijelölt személy.
 
 (4) Az (1) bekezdésben foglaltak szerint kell eljárni akkor is, ha az állami alapító alapítói jogát a Ptk. 74/C. § (7) bekezdése szerinti kijelölés alapján gyakorolja.
+
+(5) Az (1) és (2) bekezdésben foglaltak szerint kell eljárni akkor is, ha az alapítói jogokat az állam azok átruházásával szerezte meg azzal, hogy ebben az esetben az alapítói jogok gyakorlója a Kormány határozatában kijelölt személy.
 
 #### 32/A. A Kormány által létrehozott alapítvány nyilvántartásba vételére irányuló eljárás eltérő szabályai
 
@@ -1302,7 +1305,7 @@ is.
 
 #### 44. Felhatalmazó rendelkezések
 
-96/A. § Felhatalmazást kap a Kormány, hogy a 62/A. § szerinti alapítvány alapítói jogainak gyakorlására jogosult személyt határozatban jelölje ki.
+96/A. § Felhatalmazást kap a Kormány, hogy a 62. § (5) bekezdése és a 62/A. § szerinti alapítvány alapítói jogainak gyakorlására jogosult személyt határozatban jelölje ki.
 
 97. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
@@ -1345,7 +1348,7 @@ rendeletben állapítsa meg.
 
 (4) A Törvény hatálybalépését megelőzően bejegyzett azon alapítványok esetében, amelyeknek székhelyében a közterület neve a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvénynek a Törvénnyel megállapított 14. §-a miatt módosul, az alapítók e változást követően, az alapítvány nyilvántartásban szereplő adatainak első változásakor, de legkésőbb 2014. január 1-jéig kötelesek az alapítvány székhelye ennek megfelelő módosítására.
 
-#### 100. §
+100. § E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv3.) megállapított 62. § (3) bekezdés f) pontját, 62. § (5) bekezdését és 96/A. §-át azokra az alapítványokra is alkalmazni kell, amelyek tekintetében az alapítói jogokat az állam e rendelkezések hatálybalépését megelőzően szerezte meg.
 
 101. § E törvény közhasznú szervezetekre vonatkozó 8. § (3) bekezdését a törvény hatálybalépését követően közhasznú minősítést szerzett szervezet esetében kell alkalmazni.
 

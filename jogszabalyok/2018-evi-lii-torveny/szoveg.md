@@ -35,7 +35,7 @@ Szja tv. szerinti adóalapként meghatározott összegét.
 - d) az árfolyamnyereségből származó jövedelem [Szja tv. 67. §],
 - e) az Szja tv. 1/B. § hatálya alá tartozó természetes személy e tevékenységből származó jövedelme,
 - f) az ingatlanalap befektetési jegyéből származó kamatjövedelem kivételével a természetes személy kamatjövedelme (Szja tv. 65. §)
-- g) az Szja tv. 67/B. § (5) bekezdés c) pont szerinti lekötési hozam
+- g) az Szja tv. 67/B. § (5) bekezdése szerinti lekötési hozam
 
 Magyarországon adóztatható része után.
 
@@ -527,7 +527,7 @@ tanúsítja, az a) és b) pont szerinti esetben az igazolás vagy a diákigazolv
   - m) a nemzeti felsőoktatásról szóló törvényben meghatározott hallgatói munkaszerződés alapján létrejött munkaviszony,
   - n)
   - o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik,
-  - p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadék folyósításának időtartama, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátás folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama;
+  - p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadék folyósításának időtartama, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátás folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama, a kormányzati igazgatási hősi juttatásokról szóló kormányrendelet szerinti hősi egészségkárosodási ellátás folyósításának időtartama;
 - 13. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
 - 14. saját jogú nyugdíjas: a Tbj. szerint saját jogú nyugdíjasnak minősülő természetes személy;
 - 15. társas vállalkozás: a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég.

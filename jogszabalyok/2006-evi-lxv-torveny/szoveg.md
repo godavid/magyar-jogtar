@@ -25,7 +25,7 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 (5) A közalapítvány megszűnése esetén az alapító köteles a megszűnt közalapítvány vagyonát – a hitelezők kielégítése után – a megszűnt közalapítvány céljához hasonló célra fordítani, és erről a nyilvánosságot megfelelően tájékoztatni. E kötelezettsége teljesítése során az alapító a megszűnt közalapítvány jogi személyiséggel rendelkező szervezeti egységét saját alapítású költségvetési szervvé alakíthatja át a költségvetési szerv alapítására vonatkozó szabályok megfelelő alkalmazásával. Ennek során azonban gondoskodnia kell annak a jogszabálynak a kiadásáról, amely tartalmazza a jogutódlással kapcsolatos és mindazon rendelkezéseket, amelyek a közalapítvány bírósági nyilvántartásból való törlésének napjával azonos fordulónapon az érintett jogi személy további működésének folyamatosságát megfelelően biztosítják.
 
-(6) Az állami alapító által alapított alapítványt (közalapítványt) továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt (közalapítványt) az alapítók kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha azt az alapítók arra hivatkozással kérik, hogy az alapítvány, közalapítvány céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, legalább többségi állami tulajdonban álló közhasznú nonprofit gazdasági társaság, illetve egyéb közfeladatot ellátó szervezet által hatékonyabban megvalósítható. Ez esetben a megszűnt alapítvány, közalapítvány vagyonát – cél szerinti feladatainak további ellátása érdekében – az állami alapító a megszüntetési kérelemben megjelölt központi költségvetési szerv, többségi állami tulajdonban álló közhasznú nonprofit gazdasági társaság, illetve egyéb közfeladatot ellátó szervezet rendelkezésére bocsátja (nonprofit gazdasági társaság esetében apportként).
+(6) Az állami alapító által alapított alapítványt (közalapítványt) – ideértve azon alapítványt, amelyben az állam az alapítói jogok gyakorlására utóbb más jogcímen vált jogosulttá –, továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt (közalapítványt) az alapítók kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha azt az alapítók arra hivatkozással kérik, hogy az alapítvány, közalapítvány céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, legalább többségi állami tulajdonban álló közhasznú nonprofit gazdasági társaság, illetve egyéb közfeladatot ellátó szervezet által hatékonyabban megvalósítható. Ez esetben a megszűnt alapítvány, közalapítvány vagyonát – cél szerinti feladatainak további ellátása érdekében – az állami alapító a megszüntetési kérelemben megjelölt központi költségvetési szerv, többségi állami tulajdonban álló közhasznú nonprofit gazdasági társaság, illetve egyéb közfeladatot ellátó szervezet rendelkezésére bocsátja (nonprofit gazdasági társaság esetében apportként).
 
 (6a) Ha az alapítvány (közalapítvány) céljainak hatékonyabb megvalósítását, feladatainak további ellátását az állami alapító – az alapítvány (közalapítvány) megszüntetésére irányuló kérelemben – megjelölt költségvetési szerv útján kívánja ellátni, eltérő alapítói rendelkezés hiányában e költségvetési szerv az alapítvány (közalapítvány) mindazon vagyoni és személyes jogainak, továbbá kötelezettségeinek jogutódjává válik, amelyeket költségvetési szerv megszerezhet, illetve amely költségvetési szervet terhelhet. A költségvetési szerv által meg nem szerezhető jogok és kötelezettségek jogutódja az állam. Az alapítvánnyal (közalapítvánnyal) szembeni követelések nem járnak le a folyamatban levő eljárásokban az alapítvány (közalapítvány) helyébe a költségvetési szerv lép.
 
@@ -33,7 +33,7 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 (7) A (4) bekezdésben foglalt rendelkezést a helyi önkormányzat (képviselő-testülete) által államháztartáson kívüli alapítóval közösen létrehozott alapítványokra is alkalmazni kell, ha az ilyen alapítványok alapítói az alapítvány megszüntetését – az érintett alapítvány hozzájárulásával – közösen kérik.
 
-2. § (1) Az állami alapító által alapított alapítványt (közalapítványt), továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt (közalapítványt) az alapítók kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha az alapítvány (közalapítvány) céljainak megvalósítására, feladatának további ellátására az állami alapító többségi részesedésének biztosításával közhasznú szervezetnek minősülő jogi személyiséggel rendelkező nonprofit gazdasági társaságot kíván alapítani (a továbbiakban: nonprofit gazdasági társaság).
+2. § (1) Az állami alapító által alapított alapítványt (közalapítványt) – ideértve azon alapítványt, amelyben az állam az alapítói jogok gyakorlására utóbb más jogcímen vált jogosulttá –, továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt (közalapítványt) az alapítók kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha az alapítvány (közalapítvány) céljainak megvalósítására, feladatának további ellátására az állami alapító többségi részesedésének biztosításával közhasznú szervezetnek minősülő jogi személyiséggel rendelkező nonprofit gazdasági társaságot kíván alapítani (a továbbiakban: nonprofit gazdasági társaság).
 
 (2) Az (1) bekezdés szerint megszüntetett alapítvány (közalapítvány) vagyona – a megszüntetésre irányuló eljárás kezdő időpontjában lejárt tartozások kiegyenlítését követően – a kérelemben megjelölt jogi személyiséggel rendelkező nonprofit gazdasági társaság vagyonának részévé válik (apport). Az alapítvány (közalapítvány) vagyoni jogai és a megszüntetésre irányuló eljárás kezdő időpontját követően esedékessé váló kötelezettségei a nonprofit gazdasági társaságra szállnak át. A nonprofit gazdasági társaság vagyonává váló volt alapítványi (közalapítványi) vagyon kizárólag a megszűnt alapítvány (közalapítvány) célja szerinti tevékenységre fordítható, és a társaság megszűnése esetén is – a tagok (részvényesek) közötti felosztása nélkül – csak e céloknak megfelelően használható fel.
 
@@ -103,7 +103,11 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 (4) Az (1) bekezdés szerinti közalapítvány 2014. június 1. és a közhasznúsági nyilvántartásba vétel napja között megkötött szerződéseit, nyújtott, valamint kapott adományait, támogatásait, megszerzett kedvezményeit közhasznú jogállással rendelkező szervezet által kötött szerződésnek, adománynak, támogatásnak, közhasznú jogállással rendelkező szervezet által megszerzett kedvezménynek kell tekinteni.
 
-10–12. §
+#### 10. §
+
+#### 11. §
+
+#### 12. §
 
 ### Záró rendelkezések
 
@@ -123,9 +127,15 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 (8) A gyermekgondozási támogatás visszafizetésére 2005. augusztus 31-ét követően – a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 43/A. §-a szerinti ápolási díjra tekintettel – kötelezett személy esetében a visszafizetést elrendelő határozatot vissza kell vonni és ezzel egyidejűleg intézkedni kell a már visszafizetett ellátás egy összegben történő kifizetéséről.
 
-14–16. §
+(9) E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv.) módosított 1. § (6) bekezdését és 2. § (1) bekezdését azokra az alapítványokra is alkalmazni kell, amelyek tekintetében az állam e rendelkezések hatálybalépését megelőzően vált az alapítói jogok gyakorlására jogosulttá.
 
-17. §
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
 
 ### 1. számú melléklet a 2006. évi LXV. törvényhez
 

@@ -641,11 +641,11 @@ szerinti kijelölés.
 
 #### 66. A helyi iparűzési adóbevétel többlete alapján meghatározandó fizetési kötelezettséggel kapcsolatos szabályok
 
-247. § (1) A tárgyévben a Magyarország 2025. évi központi költségvetéséről szóló törvény 2. melléklet II. rész 62. pontja szerinti önkormányzati szolidaritási hozzájárulást teljesítő helyi önkormányzat a tárgyévi befolyó és a tárgyévet megelőző évben befolyt helyi iparűzési adóbevétele közötti többletnek a tárgyévi és a tárgyévet megelőző szolidaritási hozzájárulás különbözetével korrigált összegét (a továbbiakban: fizetési kötelezettség) a Területfejlesztési Alap részére a május és november havi nettó finanszírozás keretében, a 25. mellékletben meghatározott számítási módszer alapján teljesíti.
+247. § (1) A tárgyévben a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 2. melléklet II. rész 62. pontja szerinti önkormányzati szolidaritási hozzájárulást teljesítő helyi önkormányzat a tárgyévi befolyó és a tárgyévet megelőző évben befolyt helyi iparűzési adóbevétele közötti többletnek a tárgyévi és a tárgyévet megelőző szolidaritási hozzájárulás különbözetével korrigált összegét (a továbbiakban: fizetési kötelezettség) a Területfejlesztési Alap részére a tárgyév május, november és tárgyévet követő év március havi nettó finanszírozás keretében, a 25. mellékletben meghatározott számítási módszer alapján teljesíti.
 
 (2) Ha a tárgyévben szolidaritási hozzájárulást teljesítő önkormányzat területén a tárgyévet megelőző évben különleges gazdasági övezet működött, a vármegyei önkormányzat által a tárgyévet megelőző évben az érintett önkormányzat területén beszedett helyi iparűzési adóbevétel tárgyhónappal azonos havi összegét a települési önkormányzat tárgyévet megelőző helyi iparűzési adóbevételének tárgyévet megelőző év tárgyhónappal azonos hónapjáig befolyt összegébe bele kell számítani.
 
-(3) A tárgyév május és november hónapokban teljesítendő fizetési kötelezettség önkormányzatonkénti összegét az államháztartásért miniszter a területfejlesztésért felelős miniszter egyetértésével rendeletben határozza meg az önkormányzatoknak az államháztartásról szóló 2011. évi CXCV. törvény 108. § (1) bekezdés b) pontja szerinti, 3. és 9. havi időközi költségvetési jelentésében (a továbbiakban: időközi költségvetési jelentés) jelzett helyi iparűzési adóbevétele összegének figyelembevételével.
+(3) A tárgyév május, november és a tárgyévet követő év március hónapokban teljesítendő fizetési kötelezettség önkormányzatonkénti összegét az államháztartásért felelős miniszter a területfejlesztésért felelős miniszter egyetértésével rendeletben határozza meg az önkormányzatoknak az államháztartásról szóló 2011. évi CXCV. törvény 108. § (1) bekezdés b) pontja szerinti, 3., 9. és 12. havi időközi költségvetési jelentésében (a továbbiakban: időközi költségvetési jelentés) jelzett helyi iparűzési adóbevétele összegének figyelembevételével.
 
 (4) Ha a 25. melléklet szerinti számítási módszer alapján a tárgyhónapra vonatkozó fizetési kötelezettség értéke negatív szám, akkor az önkormányzatnak a tárgyhónapra vonatkozóan fizetési kötelezettsége nincs. A tárgyévi tényleges helyi iparűzési adóbevétel 12. havi időközi költségvetési jelentésben jelzett összege alapján a tárgyévet követő évben, a március havi nettó finanszírozás keretében történik a tárgyévi fizetési kötelezettség elszámolása. Ha a 25. melléklet szerinti számítási módszer alapján, a 12. havi időközi költségvetési jelentés szerint a tárgyhónapra vonatkozó fizetési kötelezettség értéke negatív szám, akkor az önkormányzat annak abszolút értékét támogatásként a nettó finanszírozás keretében megkapja.
 
@@ -889,14 +889,14 @@ helyrajzi számú ingatlan.
 
 Ei = [ha (HIPAtárgyév/i > HIPAelőző év/i, akkor HIPAtárgyév/i – HIPAelőző év/i, egyébként 0) – (ha (SZHtárgyév > SZHelőző év, akkor SZHtárgyév/i – SZHelőző év/i, egyébként 0), de értéke legalább 0] – E∑iahol
 
-  - a) Ei = tárgyhónapra (a 3. vagy 9. hónapra) vonatkozó fizetési kötelezettség, amely két hónappal későbbi nettó finanszírozásban érvényesül,
+  - a) Ei = tárgyhónapra (a 3., 9. vagy 12. hónapra) vonatkozó fizetési kötelezettség,
   - b) HIPAtárgyév/i = tárgyévi helyi iparűzési adóbevétel tárgyhónap utolsó napjáig befolyt összege,
   - c) HIPAelőző év/i = tárgyévet megelőző évi helyi iparűzési adóbevétel tárgyévet megelőző év tárgyhónappal azonos hónap utolsó napjáig befolyt összege,
   - d) SZHtárgyév = tárgyévi szolidaritási hozzájárulás összege,
   - e) SZHelőző év = tárgyévet megelőző évi szolidaritási hozzájárulás,
   - f) SZHtárgyév/i = tárgyévi szolidaritási hozzájárulás tárgyhónapig teljesítendő összege,
   - g) SZHelőző év/i = tárgyévet megelőző évi szolidaritási hozzájárulás tárgyévet megelőző év tárgyhónappal azonos hónapjáig teljesített összege,h) E∑i = tárgyhónapot megelőzően teljesült összes elvonás.
-- 2. A tárgyhónapra vonatkozó fizetési kötelezettség mértékének korrigálása késedelmes adatszolgáltatás esetén
+- 2. A tárgyévben a tárgyhónapra vonatkozó fizetési kötelezettség mértékének korrigálása késedelmes adatszolgáltatás esetén
 
 A HIPAtárgyév/i értéke az önkormányzat tárgyhónapra vonatkozó időközi költségvetési jelentésében meghatározott, a tárgyhónapot követő hónap 20-áig rögzített összege. Ha az önkormányzat e határidőig nem rögzít összeget, akkor az első késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,15-szeresének 0 tizedesre kerekített összegével. A második késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,2-szeresének 0 tizedesre kerekített összegével.
 

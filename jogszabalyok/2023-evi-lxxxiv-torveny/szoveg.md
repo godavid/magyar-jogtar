@@ -1099,7 +1099,7 @@ korlátozza.
 
 #### 36. Bejelentési, adatszolgáltatási és bevallási kötelezettség
 
-44. § (1) A belföldi csoporttag – vagy az összes belföldi csoporttag nevében eljáró kijelölt helyi szervezet – az 1. § szerinti kiegészítő adóalanyiságáról bejelentést tesz az állami adó- és vámhatóság részére a kiegészítő adókötelezettséggel érintett adóév kezdő napjától számított 12 hónapon belül az állami adó- és vámhatóság által rendszeresített nyomtatványon, amelyben bemutatja a multinacionális vállalatcsoport, a nagyméretű belföldi vállalatcsoport egyes adatait, valamint feltünteti az (5) bekezdés a) és b) pontja szerinti egyes adatokat.
+44. § (1) A belföldi csoporttag – vagy az összes belföldi csoporttag nevében eljáró kijelölt helyi szervezet – az 1. § szerinti kiegészítő adóalanyiságáról bejelentést tesz az állami adó- és vámhatóság részére a kiegészítő adókötelezettséggel érintett adóév utolsó napját követő második hónap utolsó napjáig az állami adó- és vámhatóság által rendszeresített nyomtatványon, amelyben bemutatja a multinacionális vállalatcsoport, a nagyméretű belföldi vállalatcsoport egyes adatait, valamint feltünteti az (5) bekezdés a) és b) pontja szerinti egyes adatokat.
 
 (2) A belföldi csoporttag – vagy a nevében eljáró kijelölt helyi szervezet – a kiegészítő adóval (ideértve az elismert belföldi kiegészítő adót is) kapcsolatosan adatszolgáltatás, adóbevallás benyújtására köteles, amelyet az állami adó- és vámhatóság által a kiegészítő adóbevallására és az adatszolgáltatásra rendszeresített nyomtatványon kell teljesítenie.
 

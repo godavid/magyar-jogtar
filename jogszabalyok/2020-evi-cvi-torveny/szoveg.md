@@ -138,13 +138,23 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 9/B. § Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.
 
+#### 7/B. A ZalaZONE Alapítvány
+
+9/C. § (1) Az Országgyűlés felhívja a Kormányt, hogy az állam nevében csatlakozóként tegye meg a szükséges intézkedéseket a Széchenyi István Egyetemért Alapítványból szétválás útján létrejövő a ZalaZONE Alapítvány (ezen alcím alkalmazásában a továbbiakban: Alapítvány) közfeladatot ellátó közérdekű vagyonkezelő alapítvány formájában történő létrehozására.
+
+(2) Az Alapítvány alapítása során az állam képviseletében a tudománypolitika koordinációjáért felelős miniszter jár el.
+
+9/D. § (1) Az Országgyűlés egyetért a 9/C. § (1) bekezdése szerinti szétválás részeként a közfeladat és a vagyon megosztásával, azzal, hogy a szétválás során a KEKVAtv. 14/A. § (5) bekezdésében foglaltakat alkalmazni kell.
+
+(2) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.
+
 #### 8. Záró rendelkezések
 
 10. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
 11. § (1) A 2. § (1), (2) és (4)–(7) bekezdése, a 3. § (5) bekezdése, az 5. § (1), (2) és (6) bekezdése, a 6. § (1), (2), (4) és (6) bekezdése, a 8. § (1) és (2) bekezdése, a 9. § (1) bekezdése és a 13. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 2. § (6) bekezdése, a 2/A. §, a 3. § (5) bekezdése, 6. § (3), (4) és (5) bekezdése, a 9. § (1) bekezdése, a 9/B. §, az 1. melléklet 3. sora és a 2., 3. és 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(2) A 2. § (6) bekezdése, a 2/A. §, a 3. § (5) bekezdése, a 6. § (3), (4) és (5) bekezdése, a 9. § (1) bekezdése, a 9/B. §, a 9/D. §, az 1. melléklet 3. sora, valamint a 2., 3. és 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 12. §
 

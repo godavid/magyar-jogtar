@@ -1327,7 +1327,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 - 4. az útiokmány-nyilvántartásból (külföldre utazásban korlátozott személyekre vonatkozó nyilvántartás, útlevélre vonatkozó nyilvántartás),
 - 5. a társadalombiztosítási nyilvántartásból,
 - 6. az önkormányzati adóhatóság által vezetett nyilvántartásból,
-- 7. a közúti közlekedési nyilvántartásokból (az engedély-nyilvántartás, a járműnyilvántartás, a származás-ellenőrzési nyilvántartás, az okmánytár, a parkolási igazolvány nyilvántartás és az előzetes eredetiségvizsgálati nyilvántartás),
+- 7. a közúti közlekedési nyilvántartásokból (az engedély-nyilvántartás, a járműnyilvántartás, a származás-ellenőrzési nyilvántartás, az okirattár, a parkolási igazolvány nyilvántartás, az útdíj köteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása, az ideiglenes rendszámtáblák nyilvántartása és az előzetes eredetiségvizsgálati nyilvántartás),
 - 8. külön törvény szerinti bűnügyi nyilvántartási rendszer nyilvántartásaiból, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásaiból,
 - 9. a büntetés-végrehajtási intézetekben fogvatartottak nyilvántartásából,
 - 10. a központi idegenrendészeti nyilvántartásból,
@@ -1340,6 +1340,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 - 17. az egyéni vállalkozók nyilvántartására kijelölt szerv nyilvántartásából,
 - 18. a közjegyzői zálogjogi nyilvántartásból és a hitelbiztosítéki nyilvántartásból,
 - 19. a szabálysértési nyilvántartásból.
+- 20. az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény alapján az UD Rendszerben kezelt jogosulatlan úthasználók adatbázisából.
 
 (3) A NAV nyomozó hatósága a bűnüldözési feladatok, illetve a 77. § szerinti feladatok ellátása érdekében – a vonatkozó törvények rendelkezései szerint – a felhasználás céljának megjelölésével adatokat vehet át a banktitoknak, az értékpapírtitoknak és a pénztártitoknak, valamint más egyéb titoknak minősülő adatot törvény alapján kezelő szervtől, továbbá adótitoknak minősülő adatot, iratot vehet át az önkormányzati adóhatóságtól.
 

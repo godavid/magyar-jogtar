@@ -138,6 +138,8 @@ vagy aki ügyvezetői megbízatásának kezdetét megelőző egy évben az a)–
 
 (3) A HUN-REN Irányító Testületének vagy felügyelőbizottságának tagja (a továbbiakban együtt: tisztviselő) nem lehet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti támogatott alapítvány vagy támogatott jogi személy (a továbbiakban együtt: támogatott szerv) kuratóriumának, felügyelőbizottságának tagja vagy vezető tisztségviselője, amennyiben ezen tisztségek egyidejű betöltése miatt a feladatai pártatlan, tárgyilagos és elfogulatlan ellátására nem, vagy csak korlátozottan képes.
 
+(3a) Tisztviselő lehet a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) szerinti Kutatási Kiválósági Tanács elnöke, mint a Kormány által kijelölt szerv tudományos vezetője.
+
 (4) Tisztviselő csak olyan személy lehet, aki rendelkezik a tisztség betöltéséhez szükséges függetlenséggel, feddhetetlenséggel, pártatlansággal és integritással.
 
 (5) Az e § szerinti összeférhetetlenségi szabályoknak való megfelelést az Állami Számvevőszék álláspontja figyelembevételével az Irányító Testület állapítja meg.
@@ -352,7 +354,7 @@ biztosítja.
 
 (5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az 1. § (2) bekezdésében meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd költségvetési szerv tulajdonában lévő, valamint a jogelőd költségvetési szerv vagyonkezelésében lévő, állami tulajdonban lévő ingó vagyontárgyak (e § alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva
 
-- a) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) alapján alapított Magyar Kutatási Hálózat HUN-REN Központja (a továbbiakban: MKH Központ) esetében a HUN-REN,
+- a) a KFItv. alapján alapított Magyar Kutatási Hálózat HUN-REN Központja (a továbbiakban: MKH Központ) esetében a HUN-REN,
 - b) az MKH kutatóközpontjai és kutatóintézetei (a továbbiakban együtt: MKH kutatóintézetek) esetében a 29. § (2) bekezdése szerinti jogi személyiséggel rendelkező szervezeti egység
 
 tulajdonába kerülnek.
@@ -399,7 +401,7 @@ tulajdonába kerülnek.
 
 #### 14. Sarkalatos rendelkezések
 
-33. § (1) A 18. § (2), (3), (6)–(8) bekezdése, a 23. § (1), (3), (8) és (9) bekezdése, 24. § (1), (4), (5) bekezdése, 25. §, 26. §, a 60. § és a 87. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+33. § (1) A 18. § (2), (3), (6)–(8) bekezdése, a 23. § (1), (3), (8) és (9) bekezdése, 24. § (1), (4), (5) bekezdése, 25. §, 26. §, a 60. § és a 87. §, az 1. és 2. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 23. § (2) bekezdése, a 28. alcím az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 

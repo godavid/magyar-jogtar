@@ -2,7 +2,7 @@
 
 a formatervezési minták oltalmáról
 
-A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervezési kultúra fejlesztése, valamint a formatervező alkotók erkölcsi és anyagi elismerése érdekében – összhangban Magyarországnak a szellemi tulajdon védelme terén fennálló nemzetközi és európai közösségi jogi kötelezettségeivel – az Országgyűlés a formatervezési minták oltalmáról a következő törvényt alkotja:
+A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervezési kultúra fejlesztése, valamint a formatervező alkotók erkölcsi és anyagi elismerése érdekében – összhangban Magyarországnak a szellemi tulajdon védelme terén fennálló nemzetközi és európai uniós jogi kötelezettségeivel – az Országgyűlés a formatervezési minták oltalmáról a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — A FORMATERVEZÉSI MINTA ÉS OLTALMA
 
@@ -276,7 +276,7 @@ közös szabályok
 - g) a mintaoltalmak nyilvántartása,
 - h) a hatósági tájékoztatás.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak a formatervezési minták közösségi oltalmának rendszerére (VIII/A. fejezet) és az ipari minták nemzetközi lajstromozására (VIII/B. fejezet) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az ipari minták nemzetközi lajstromozására (VIII/B. fejezet) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
@@ -640,37 +640,29 @@ szabályai
 
 (4) Az 58/A. § rendelkezéseit a nemleges megállapítási eljárásban is alkalmazni kell.
 
-## HARMADIK RÉSZ — A MINTÁK KÖZÖSSÉGI OLTALMÁRA ÉS AZ IPARI MINTÁK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ RENDELKEZÉSEK
+## HARMADIK RÉSZ — A MINTÁK EURÓPAI UNIÓS OLTALMÁRA ÉS AZ IPARI MINTÁK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ RENDELKEZÉSEK
 
-### VIII/A. Fejezet — A MINTÁK KÖZÖSSÉGI OLTALMÁVAL ÖSSZEFÜGGŐ RENDELKEZÉSEK
+### VIII/A. Fejezet — A MINTÁK EURÓPAI UNIÓS OLTALMÁVAL ÖSSZEFÜGGŐ RENDELKEZÉSEK
 
 ### Általános szabályok
 
-60/A. § E törvény alkalmazásában
+60/A. § E törvény alkalmazásában európai uniós minta: a közösségi formatervezési mintáról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet (a továbbiakban: a 6/2002/EK tanácsi rendelet) 1. cikk (1) bekezdésében meghatározott – lajstromozás nélkül vagy lajstromozás alapján oltalomban részesülő – minta.
 
-- a) közösségi mintaoltalmi rendelet: a Tanács 6/2002/EK rendelete a közösségi formatervezési mintáról;
-- b) közösségi minta: a közösségi mintaoltalmi rendelet 1. cikkének (1) bekezdésében meghatározott – lajstromozás nélkül vagy lajstromozás alapján oltalomban részesülő – minta;
-- c) közösségi mintaoltalmi bejelentés: a közösségi mintaoltalmi rendelet alapján tett – közösségi minta lajstromozására irányuló – bejelentés.
+#### 60/B. §
 
-### A közösségi mintaoltalmi bejelentés továbbítása
+### Az európai uniós minta mint kizáró ok
 
-60/B. § (1) A Szellemi Tulajdon Nemzeti Hivatalánál benyújtott közösségi mintaoltalmi bejelentésnek a közösségi mintaoltalmi rendelet 35. cikkének (2) bekezdése alapján történő továbbításáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a bejelentés benyújtásakor.
+60/C. § A 9. § (2) bekezdésében foglalt rendelkezést a lajstromozás alapján oltalomban részesülő európai uniós mintára kell alkalmazni.
 
-(2) Ha a közösségi mintaoltalmi bejelentés továbbításának díját nem fizették meg, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a hiánypótlásra. A Szellemi Tulajdon Nemzeti Hivatala a közösségi mintaoltalmi bejelentést a díj megfizetését követően továbbítja.
+### Az európai uniós minta bitorlásának jogkövetkezményei
 
-### A közösségi minta mint kizáró ok
+60/D. § Az európai uniós minta bitorlására – a 6/2002/EK tanácsi rendelet 89–92. cikkeiben foglaltakkal összhangban, az ott meghatározott esetekben – ugyanazokat a jogkövetkezményeket kell alkalmazni, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján megadott mintaoltalom bitorlására.
 
-60/C. § A 9. § (2) bekezdésében foglalt rendelkezést a lajstromozás alapján oltalomban részesülő közösségi mintára kell alkalmazni.
+### Európai Uniós mintaoltalmi bíróság
 
-### A közösségi minta bitorlásának jogkövetkezményei
+60/E. § (1) Magyarországon a Fővárosi Törvényszék jár el első fokon – a 63. § (2) bekezdése alapján meghatározott összetételben – a 6/2002/EK tanácsi rendelet 80. cikkének (1) bekezdésében meghatározott európai uniós mintaoltalmi bíróságként.
 
-60/D. § A közösségi minta bitorlására – a közösségi mintaoltalmi rendelet 88–90. cikkeiben foglaltakkal összhangban, az ott meghatározott esetekben – ugyanazokat a jogkövetkezményeket kell alkalmazni, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján megadott mintaoltalom bitorlására.
-
-### Közösségi mintaoltalmi bíróság
-
-60/E. § (1) Magyarországon a Fővárosi Törvényszék jár el első fokon – a 63. § (2) bekezdése alapján meghatározott összetételben – a közösségi mintaoltalmi rendelet 80. cikkének (1) bekezdésében meghatározott közösségi mintaoltalmi bíróságként.
-
-(2) A Fővárosi Törvényszék határozata elleni fellebbezés elbírálása – másodfokon eljáró közösségi mintaoltalmi bíróságként – a Fővárosi Ítélőtábla hatáskörébe tartozik.
+(2) A Fővárosi Törvényszék határozata elleni fellebbezés elbírálása – másodfokon eljáró európai uniós mintaoltalmi bíróságként – a Fővárosi Ítélőtábla hatáskörébe tartozik.
 
 ### VIII/B. Fejezet — A NEMZETKÖZI IPARI MINTAOLTALMI BEJELENTÉSEKRE VONATKOZÓ RENDELKEZÉSEK
 
@@ -780,7 +772,7 @@ szabályai
 
 ### A mintaoltalmi perekre irányadó szabályok
 
-63. § (1) Mintaoltalmi perek: a minta vagy a mintaoltalom bitorlása miatt indított perek, az előhasználati és a továbbhasználati jog [65. § (8) bek.] fennállásával kapcsolatos perek, valamint a közösségi mintaoltalmi rendelet [60/A. § a) pont] 110a. cikkének (4) bekezdése alapján a közösségi minta hasznosításától való eltiltás iránt indított perek.
+63. § (1) Mintaoltalmi perek: a minta vagy a mintaoltalom bitorlása miatt indított perek, az előhasználati és a továbbhasználati jog [65. § (8) bek.] fennállásával kapcsolatos perek, valamint a 6/2002/EK tanácsi rendelet [60/A. § a) pont] 110a. cikkének (4) bekezdése alapján az európai uniós minta hasznosításától való eltiltás iránt indított perek.
 
 (2) A mintaoltalmi perekre a szabadalmi perek szabályait kell alkalmazni, azzal az eltéréssel, hogy ha a mintaoltalom bitorlása miatt indított perben az alperes a perfelvételt lezáró végzés meghozataláig igazolja, hogy a mintaoltalom megsemmisítése iránt eljárást indított a Szellemi Tulajdon Nemzeti Hivatala előtt, a peres eljárást a bíróság a megsemmisítési eljárás jogerős befejezéséig felfüggeszti, azzal, hogy ha a mintaoltalom jogosultja az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig rá nézve kedvező oltalmazhatósági véleményt nyújt be a bíróságon, a felfüggesztés nem kötelező.
 
@@ -857,4 +849,9 @@ szabályai
 
 69. § (1) E törvény a formatervezési minták oltalmáról szóló, 1998. október 13-i 98/71/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(2) E törvény megállapítja a közösségi formatervezési mintáról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket.
+(2) Ez a törvény
+
+- a) a közösségi formatervezési mintáról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet és
+- b) a közösségi formatervezési mintáról szóló 6/2002/EK tanácsi rendelet módosításáról és a 2246/2002/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2024. október 23-i (EU) 2024/2822 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

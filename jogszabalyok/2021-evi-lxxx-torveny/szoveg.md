@@ -18,7 +18,7 @@ a Budapest Diákváros megvalósításáról
 
 (2) Az 1. mellékletben felsorolt ingatlanok tekintetében a tulajdonosi jogok gyakorlására jogosult Minisztériumot az ingatlanügyi hatóság a Minisztérium kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba.
 
-3. §
+#### 3. §
 
 4. § (1) A Kormány által rendeletben kijelölt építtetői feladatokat ellátó gazdasági társaság (a továbbiakban: építtető)) a Beruházás tekintetében a feladatait az állam nevében és javára eljárva látja el. A beruházás során létrehozott épületek, építmények – a földterület tulajdonjogi sorsát osztva –, illetve egyéb vagyonelemek az állam tulajdonába kerülnek.
 
@@ -56,7 +56,7 @@ a Budapest Diákváros megvalósításáról
 
 9. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a Budapest Diákváros helyszínével és közvetlen környezetével érintett ingatlanok körét,
+- a) a Budapest Diákváros helyszínével és közvetlen környezetével érintett ingatlanok körét, valamint
 - b) a Budapest Diákváros helyszínére és közvetlen környezetére, valamint az azzal érintett építményekre és területekre vonatkozó egyedi településképi és építési követelményeket, sajátos településrendezési, beépítési és örökségvédelmi szabályokat, továbbá az építésügyi hatósági, építési engedélyezési és használatbavételi eljárás, a telekalakítási hatósági eljárás, az örökségvédelmi hatósági eljárás, valamint a környezetvédelmi és természetvédelmi hatósági eljárás sajátos szabályait.
 
 9/A. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 4. § (1) bekezdése szerinti építtetői feladatokat ellátó gazdasági társaságot.
@@ -67,13 +67,13 @@ a Budapest Diákváros megvalósításáról
 
 11. § E törvény rendelkezéseit a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
 ### 1. melléklet a 2021. évi LXXX. törvényhez
 

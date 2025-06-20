@@ -2287,7 +2287,7 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | 55 | N7 Holding Nemzeti Védelmi Ipari Innovációs Zrt. | 100% |
 | 56 | Nemzeti Sportügynökség Nonprofit Zrt. | 100% |
 | 57 | Nemzeti Vízművek Zrt. | 100% |
-| 58 | KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Kft. | 100% |
+| 58 |  |  |
 
 II. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó vagyonelemek
 

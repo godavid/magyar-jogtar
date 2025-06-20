@@ -28,7 +28,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 2. § (1) A külföldi oktatási intézményben szerzett bizonyítvány vagy oklevél elismerésével senki sem szerezhet több jogot, mint amennyi a bizonyítvány vagy az oklevél alapján abban az államban megilleti, amelyben azt szerezte.
 
-(2) Ha e törvény másként nem rendelkezik, az elismerés és a honosítás a külföldi oktatási intézmény jogállása, a bizonyítvány vagy az oklevél jogi hatálya, a képzés külső minőségbiztosítása, a tanulmányi idő, valamint a tanulmányi és a vizsgakövetelmények alapján történik.
+(2) Ha e törvény másként nem rendelkezik, az elismerés és a honosítás a külföldi oktatási intézmény jogállása, a bizonyítvány vagy az oklevél jogi hatálya, a képzés külső minőségbiztosítása, a tanulási eredmények, a tanulmányi idő, valamint a tanulmányi és a vizsgakövetelmények alapján történik.
 
 (3)
 
@@ -226,18 +226,22 @@ közös eljárási szabályai
 
 ### III. Fejezet — TUDOMÁNYOS FOKOZAT HONOSÍTÁSA
 
-15. § (1) Az eljáró hatóság doktori fokozatszerzési eljárásban megszerezhető oklevél által tanúsított tudományos fokozatként („Doctor of Philosophy”, rövidítve: PhD) vagy művészeti képzésben megszerezhető fokozatként („Doctor of Liberal Arts”, rövidítve: DLA) honosítja a külföldön szerzett tudományos fokozatot akkor, ha
+15. § (1) Az eljáró hatóság doktori képzésben megszerezhető oklevél által tanúsított tudományos fokozatként („Doctor of Philosophy”, rövidítve: PhD), művészeti képzésben megszerezhető fokozatként („Doctor of Liberal Arts”, rövidítve: DLA) vagy üzleti doktori képzésben megszerezhető fokozatként („Doctor of Business Administration”, rövidítve: DBA) honosítja a külföldön szerzett tudományos fokozatot akkor, ha
 
 - a) azt olyan külföldi oktatási intézmény állította ki, amely a külföldi állam joga alapján tudományos fokozat kiállítására jogosult, és
-- b) a tudományos fokozat megszerzésének követelményei megfelelnek vagy kiegészítő feltételek előírásával megfeleltethetők a „Doctor of Philosophy” vagy a „Doctor of Liberal Arts” fokozat megszerzéséhez a jogszabályok és az eljáró hatóság doktori szabályzata által előírt követelményeknek.
+- b) a tudományos fokozat megszerzésének követelményei megfelelnek vagy kiegészítő feltételek előírásával megfeleltethetők a „Doctor of Philosophy”, a „Doctor of Liberal Arts” vagy a „Doctor of Business Administration” fokozat megszerzéséhez a jogszabályok és az eljáró hatóság doktori szabályzata által előírt követelményeknek.
 
-(1a) Az eljáró hatóság a (2) bekezdésben foglaltak vizsgálata nélkül folytatja le a honosítási eljárást, ha a tudományos fokozatot kiállító külföldi oktatási intézményt az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő és az Európai Felsőoktatási Minőségbiztosítási Regiszterbe (European Quality Assurance Register for Higher Education) bejegyzett szervezet akkreditálta.
+(1a)
 
 (2) Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság a külföldi tudományos fokozat honosítását feltételekhez (doktori szigorlat, a doktori értekezés megvédése stb.) kötheti.
 
 (2a) Az eljáró hatóság a 14/A. § (4) bekezdés a) pontjában foglaltaktól eltekinthet, amennyiben a tudományos fokozat honosítására foglalkoztatási célból kerül sor.
 
 (3) Az eljáró hatóság a tudományos fokozat honosításáról rendelkező határozatban feljogosítja a kérelmezőt a doktori cím használatára.
+
+15/A. § (1) A 15. §-tól eltérően a hazai doktori fokozattal egyenértékű a külföldi tudományos fokozat, ha megfelel a 14/A. § (4) bekezdésének és a 15. § (1) bekezdés a) pontjának, továbbá a tudományos fokozatot kiállító külföldi oktatási intézményt az Európai Felsőoktatási Minőségbiztosítási Regiszterbe (European Quality Assurance Register for Higher Education) bejegyzett szervezet akkreditálta.
+
+(2) Az (1) bekezdés szerinti külföldi tudományos fokozat birtokosa jogosult a doktori cím használatára.
 
 ### IV. Fejezet — AZ ALAPFOKÚ ISKOLAI VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPESÍTÉS ÉS A KÖZÉPFOKÚ ISKOLAI VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPESÍTÉS, ILLETVE SZAKKÉPZETTSÉG ELISMERÉSE
 
@@ -253,7 +257,7 @@ közös eljárási szabályai
 
 (4) A mestervizsga elismerésére az (1)–(3) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
-17. § Az eljáró hatóság a külföldi oktatási intézményben szerzett bizonyítványnak a magyar általános iskolai bizonyítvánnyal, szakképzésben szerzett oklevéllel, illetve szakmai bizonyítvánnyal vagy érettségi bizonyítvánnyal való egyenértékűségéről, ha azt nemzetközi szerződés vagy jogszabály állapítja meg, hatósági bizonyítványt állít ki.
+17. § Az eljáró hatóság a külföldi oktatási intézményben szerzett bizonyítványnak a magyar általános iskolai bizonyítvánnyal, szakképzésben szerzett oklevéllel, illetve szakmai bizonyítvánnyal vagy érettségi bizonyítvánnyal, továbbá a külföldi tudományos fokozatnak a hazai doktori fokozattal való egyenértékűségéről, ha azt nemzetközi szerződés vagy jogszabály állapítja meg, hatósági bizonyítványt állít ki.
 
 ### V. Fejezet — A FELSŐFOKÚ VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPZETTSÉG ELISMERÉSE
 
@@ -278,6 +282,8 @@ közös eljárási szabályai
 (5) A kérelmező kérheti külföldi oklevele által tanúsított szakképzettsége egyszakos hazai tanári szakképzettségként történő elismerését is.
 
 (6) A kérelmező kérheti külföldi csecsemő- és kisgyermeknevelői, óvodapedagógus, tanítói és tanári oklevele által tanúsított szakképzettsége elismerését olyan módon is, hogy az egy adott nemzetiségi vagy idegen nyelven való oktatásra, illetve nevelésre jogosítsa fel.
+
+(7) A kérelmező kérheti a külföldi nyelvtanár-szakképzettséget tanúsító oklevelének idegennyelv-tanári szakképzettségként történő elismerését abban az esetben, ha legalább egyéves képzésben szerzett, államilag elismert felsőoktatási intézmény által kiállított olyan oklevéllel rendelkezik, amely az adott nyelv oktatására készítette fel a kérelmezőt abban az országban, amelyben az adott nyelv az ország hivatalos nyelve, amennyiben a képzésre is ebben az országban került sor. E bekezdés alkalmazásában oklevélnek minősül az a külföldi felsőfokú képesítés is, amely felsőfokú végzettséget nem tanúsít, de Magyarországon szakirányú továbbképzést tanúsító oklevélként lenne elismerhető.
 
 19. § (1) Az eljáró hatóság az oklevél elismeréséről rendelkező határozatában a kérelmezőt feljogosítja a megfelelő hazai szakmai cím viselésére.
 
@@ -1055,6 +1061,8 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 68/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 68/D. § E törvénynek az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvénnyel megállapított 6. § (4) bekezdését e rendelkezés hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+68/E. § E törvénynek a felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények módosításáról szóló 2025. évi LVII. törvénnyel (a továbbiakban: Módtörvény) megállapított 2. § (2) bekezdését, 15. § (1) bekezdését, 15/A. §-át, 17. §-át és 18. § (7) bekezdését a Módtörvény hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

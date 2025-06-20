@@ -3924,6 +3924,7 @@ szerinti állam vonatkozásában.
 - 21. az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikkéből következően, az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott célok érdekében az Európai Határ- és Partvédelmi Ügynökség és állománya, valamint az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikke alapján felállított állomány tagja,
 - 22. az oktatási nyilvántartásról szóló törvény szerinti oktatási nyilvántartás működéséért felelős szerv, valamint
 - 23. a magyar külképviseletek, továbbá amennyiben azt nemzetközi vagy kétoldalú megállapodás kötelezővé teszi, vagy az az eljárás eredményes lefolytatásához szükséges, vagy a kiutasítási döntéssekkel kapcsolatos eljárásokban az ügyfél kérelmére a Magyarországon működő, vagy Magyarországra akkreditált diplomáciai és hivatásos konzuli tisztviselő által vezetett konzuli képviseletek
+- 24. a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében a 2021–2027 közötti programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet által meghatározott Belügyi Alapok irányító hatósága (a továbbiakban: Irányító Hatóság)
 
 részére továbbíthat adatot.
 
@@ -3974,9 +3975,9 @@ részére továbbíthat adatot.
 
 277. § Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat.
 
-278. § (1) A Menekültügyi, Migrációs és Integrációs Alap (a továbbiakban: Alap) által finanszírozott intézkedésekben résztvevőkről az 514/2014/EU európai parlamenti és tanácsi rendelet 25. cikk (1) bekezdés a) pontjában meghatározott Felelős Hatóság a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében nyilvántartást vezet.
+278. § (1) A 2014–2020 programozási időszakban a Menekültügyi, Migrációs és Integrációs Alap (a továbbiakban: Alap) által finanszírozott intézkedésekben résztvevőkről az 514/2014/EU európai parlamenti és tanácsi rendelet 25. cikk (1) bekezdés a) pontjában meghatározott Felelős Hatóság a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében nyilvántartást vezet.
 
-(2) A nyilvántartás tartalmazza az Alapnak a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendelet szerinti célcsoportjába tartozó személyek alábbi adatait, amelyet az Alap által finanszírozott kedvezményezettek szolgáltatnak:
+(2) A nyilvántartás tartalmazza az Alap célcsoportjába tartozó személyek alábbi adatait, amelyet az Alap által finanszírozott kedvezményezettek szolgáltatnak:
 
 - a) családi és utónév,
 - b) születési hely,
@@ -3992,6 +3993,25 @@ részére továbbíthat adatot.
 (4) A nyilvántartásban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
 (5) A (2) bekezdés szerinti adatokat az Alap a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak végét követő tíz évig kezeli.
+
+278/A. § (1) Az Alap által finanszírozott intézkedésekben részt vevőkről a 2021–2027 programozási időszakban az Irányító Hatóság az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 72. cikk (1) bekezdés e) pontjában meghatározott feladatoknak az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 42. cikk (4) bekezdésének megfelelő ellátása érdekében nyilvántartást vezet.
+
+(2) A nyilvántartás tartalmazza az Alap célcsoportjába tartozó személyek alábbi adatait, amelyet az Alap által finanszírozott kedvezményezettek szolgáltatnak:
+
+- a) családi és utónév,
+- b) születési hely,
+- c) születési idő,
+- d) nem,
+- e) állampolgárság,
+- f) Magyarországon való tartózkodás jogcíme,
+- g) ha a célcsoportba tartozó személy különleges bánásmódot igényel, illetve amennyiben ezen belül a célcsoportba tartozó személy kísérő nélküli kiskorú, ennek ténye,
+- h) a célcsoportba tartozó személy Magyarországon kiállított okmányának száma.
+
+(3) A (2) bekezdés alapján nyilvántartásba vett adatokba az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
+
+(4) A nyilvántartásban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+
+(5) A (2) bekezdés szerinti adatokat az Alap a 2021–2027 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak végét követő tíz évig kezeli.
 
 279. § (1) A külpolitikáért felelős miniszter a nemzetközi kötelezettségvállalások teljesítése érdekében jogosult kezelni a Magyarországon működő diplomáciai és hivatásos konzuli tisztviselő által vezetett konzuli képviseletek, nemzetközi szervezetek, valamint azok magyarországi kirendeltsége, telephelye, irodája, továbbá a nemzetközi szerződésben biztosított kiváltságokkal és mentességekkel törvény alapján rendelkező szervezetek (a továbbiakban együtt: képviselet) vagy mindezek nemzetközi szerződés alapján mentességre jogosult tagjai és családtagjaik alábbi adatait:
 
@@ -4309,6 +4329,7 @@ sarkalatosnak minősül.
 - 23. az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a határok és a vízumügy területén, továbbá a 767/2008/EK, az (EU) 2016/399, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1726 és az (EU) 2018/1861 európai parlamenti és tanácsi rendelet, valamint a 2004/512/EK és a 2008/633/IB tanácsi határozat módosításáról szóló, 2019. május 20-i (EU) 2019/817 európai parlamenti és tanácsi rendelet,
 - 24. az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet
 - 25. a 767/2008/EK, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1860, az (EU) 2018/1861 és az (EU) 2019/817 rendeletnek az egyéb uniós információs rendszerekhez az Európai Utasinformációs és Engedélyezési Rendszer céljából való hozzáférésre vonatkozó feltételek megállapítása tekintetében történő módosításáról szóló, 2021. július 7-i (EU) 2021/1152 európai parlamenti és tanácsi rendelet
+- 26. az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alap Pluszra, a Kohéziós Alapra, az Igazságos Átmenet Alapra és az Európai Tengerügyi, Halászati és Akvakultúra-alapra vonatkozó közös rendelkezések, valamint az előbbiekre és a Menekültügyi, Migrációs és Integrációs Alapra, a Belső Biztonsági Alapra és a határigazgatás és a vízumpolitika pénzügyi támogatására szolgáló eszközre vonatkozó pénzügyi szabályok megállapításáról szóló, 2021. június 24-i (EU) 2021/1060 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

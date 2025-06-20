@@ -60,6 +60,18 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (6) A döntéshozó szerv a jogi személy átalakulásáról véglegesen döntő ülésén meghatározhatja azt az időpontot, amikor az átalakuláshoz fűződő joghatások beállnak, amely azonban nem lehet korábbi, mint a jogelőd cég törlésének napja. A döntéshozó szerv továbbá dönt az átalakulásról és a döntéshozó szerv felhatalmazása alapján az átalakuló jogi személy vezető tisztségviselője aláírja a jogutód létesítő okiratát.
 
+6/A. § (1) Ha az átalakulás folytán a létrejövő (jogutód) jogi személyhez kerül olyan tevékenység ellátása, amelyre az átalakuló (jogelőd) jogi személy hatósági engedéllyel rendelkezik, a döntéshozó szerv átalakulást véglegesen jóváhagyó határozatának meghozatalától kezdeményezhető az engedély jogutódlás tekintetében való módosítása vagy az új engedély kiadása iránti eljárás.
+
+(2) Az engedélyezési eljárás megindítására, az eljárással összefüggésben felmerült intézkedések megtételére a jogutód jogi személy bejegyzéséig vagy az átalakulás hatályosulásáig az átalakuló jogi személy, ezt követően pedig a jogutód jogi személy jogosult. Az átalakulással létrejövő jogi személyt az átalakulás bejegyzése és annak hatályosulása közötti időszakban az átalakuló jogi személy képviseli.
+
+(3) Az átalakulással létrejövő jogi személy az engedélyköteles tevékenységet az engedélyezési eljárás befejeződéséig, de legfeljebb a jogutód bejegyzésétől vagy az átalakulás joghatásainak beálltától számított hatvan napig jogutódként végezheti, ha azt számára hatóság határozata nem tiltja.
+
+(4) Az (1)–(3) bekezdés rendelkezései akkor alkalmazhatóak, ha a tevékenységre irányadó jogszabály eltérő rendelkezést nem tartalmaz.
+
+(5) Ha valamely hatósági engedély kiadása vagy kedvezmény igénybevétele meghatározott idejű folyamatos működéshez vagy egyéb előéleti feltételhez kötött, és e feltétel az átalakuló jogi személynél megvalósult, akkor ezt a jogutód jogi személynél is teljesítettnek kell tekinteni.
+
+(6) E § alkalmazásában engedély alatt hatóság jóváhagyása, hozzájárulása, bizonyítvány kiadására vonatkozó, vagy más, a tevékenység jogszerű végzéséhez szükséges hatósági határozat, továbbá a tevékenység végzéséhez szükséges bejelentés, nyilvántartásba vétel is értendő. Ahol e jogszabály engedélyezési eljárást említ, ott a tevékenységre irányadó jogszabályoknak megfelelő, a fenti hatósági cselekmények elvégzésére, határozatok meghozatalára irányuló eljárásokat is érteni kell. Engedélyköteles tevékenységnek minősül e § alkalmazásában minden olyan tevékenység, amelynek végzése a rá irányadó jogszabályok szerint hatósági engedély, jóváhagyás, hozzájárulás, bizonyítvány birtokában, bejelentési kötelezettség teljesítése, nyilvántartásba vétel vagy más hatósági cselekmény vagy határozat alapján végezhető.
+
 7. § Az átalakulás elhatározásáról az átalakulásról véglegesen döntő döntéshozó szervi ülést követő tizenöt napon belül tájékoztatni kell a jogi személynél működő munkavállalói érdek-képviseleti szerveket.
 
 8. § (1) A tagok úgy is dönthetnek, hogy ha a vezető tisztségviselők az átalakuláshoz szükséges okiratokat előkészítik, az átalakulási javaslat érdemi elbírálásáról a döntéshozó szerv egy ülésen határoz. Ez esetben erre az ülésre el kell készíteni az átalakulási tervet, amelyben az ülés napját legfeljebb hat hónappal megelőző, a vezető tisztségviselők által meghatározott időpontra – mint mérlegfordulónapra – vonatkozó vagyonmérleg-tervezet és vagyonleltár-tervezet szerepelhet.
@@ -130,6 +142,8 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (4) Az egyesülési terv elfogadásáról vagy módosításáról az egyesülésben részt vevő jogi személyek döntéshozó szervei külön-külön határoznak. Ha az egyesülésben részt vevő valamennyi jogi személy elfogadta az egyesülési tervet, az egyesülési szerződést az azt elfogadó döntéshozó szervek felhatalmazása alapján az egyesülésben részt vevő jogi személyek vezető tisztségviselői írják alá.
 
+(4a) Ha az egyesülésben részt vevő jogi személyek között olyan jogi személy van, amely engedélyköteles tevékenységet lát el, és e tevékenységet a jogutód jogi személy is végezné, az egyesülés bejegyzéséig vagy annak hatályosulásáig az engedélyezési eljárás megindítására az engedélyes jogelőd jogi személy, azt követően pedig az egyesüléssel létrejövő, beolvadás esetén az átvevő jogi személy jogosult. Az egyesülés bejegyzése és annak hatályosulása közötti időszakban az egyesüléssel létrejövő, beolvadás esetén a beolvadással módosuló átvevő jogi személyt az engedélyes jogelőd képviseli.
+
 (5) Az egyesüléssel érintett jogi személyek az egyesülés valamennyi jogi személynél megtörtént végleges elhatározását követően, az utolsó döntés meghozatalától számított nyolc napon belül kötelesek erről a Cégközlönynél közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni. A közleményben az átalakulásnál előírt elemeken túl meg kell jelölni az egyesülés módját is. A közzététel kezdeményezésére az az egyesüléssel érintett jogi személy köteles, amelyet erre az egyesülő jogi személyek maguk közül kijelölnek.
 
 15. § (1) Beolvadás esetében a jogutód jogi személy jegyzett tőkéjének meghatározása során nem lehet figyelembe venni
@@ -170,6 +184,8 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 (4) A szétválási terv elfogadásáról vagy módosításáról a szétváló jogi személy döntéshozó szerve dönt. Ha a tag a döntéshozatalban nem vesz részt és az 5. § alapján sem ismerhető meg szándéka, kiválás (beolvadásos kiválás) esetén úgy kell tekinteni, hogy a jogelőd továbbműködő jogi személy tagja kíván maradni, különválás (beolvadásos különválás) esetén pedig úgy kell tekinteni, hogy egyik jogutód jogi személynek sem kíván a tagja lenni.
 
 (5) Ha a szétválási szerződést a szétváló jogi személy döntéshozó szerve elfogadja, a jogutód új jogi személy létesítő okiratát és a továbbműködő jogi személy létesítő okirata módosítását a döntéshozó szerv felhatalmazása alapján a szétváló jogi személy vezető tisztségviselője írja alá.
+
+(6) Ha a szétválással kapcsolatos vagyonmegosztás folytán valamely létrejövő jogi személyhez kerül engedélyköteles tevékenység ellátása, a 6/A. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a szétválással létrejövő jogi személyek közül az a jogi személy válhat az engedély jogosultjává. amelyikhez azt a szétválási szerződés telepítette. E jogi személy az engedélyköteles tevékenységet a 6/A. § (3) bekezdésében meghatározott időtartam alatt jogutódként végezheti, ha azt számára hatóság határozata nem tiltja.
 
 18/A. § (1) Leválásnál a szétváló jogi személy valamennyi tagja – amennyiben a leválás végrehajtása esetére tagsági viszonyát nem szünteti meg – a továbbműködő (fennmaradó) jogi személy tagja marad. A fennmaradó jogi személy jegyzett tőkéjének meghatározása során a leválással keletkező jogi személyben lévő részesedését nem lehet figyelembe venni.
 
@@ -307,6 +323,8 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 (5) A 24. § (4) bekezdése, a 28. § és a 29. § nem alkalmazandó.
 
 32. § A továbbműködő (fennmaradó) nyilvánosan működő részvénytársaság és a leválással létrejövő jogi személy a nyilvánosan működő részvénytársaságnak a leválás előtt keletkezett kötelezettségeiért egyetemlegesen köteles helytállni. A jogutódok egymás közötti viszonyában az elszámolás alapja a vagyonmegosztás aránya. A 10. § (2)–(5) bekezdése nem alkalmazandó.
+
+32/A. § Nyilvánosan működő részvénytársaság részvényese nem dönthet úgy, hogy tagsági viszonyát a leválás esetére a 18/A. § (5) bekezdésének alkalmazásával megszünteti. Új tag a továbbműködő (fennmaradó) nyilvánosan működő részvénytársasághoz a 18/A. § (4) bekezdése alapján nem csatlakozhat. Erre tekintettel e törvénynek a távozási szándék bejelentésével és a társaságtól megváló taggal való elszámolással, valamint az új tag csatlakozásával összefüggő szabályai nem alkalmazhatóak.
 
 #### 8. Szövetkezetekre vonatkozó különös szabályok
 

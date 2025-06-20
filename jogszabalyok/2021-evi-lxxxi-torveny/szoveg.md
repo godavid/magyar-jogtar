@@ -63,7 +63,7 @@ biztosítja.
 
 (8) Az Alapítvány céljai megvalósításához az államon kívüli más személy is támogatást adhat vagy adományt nyújthat.
 
-(9) Az Alapítvány részére pénzbeli és nem pénzbeli vagyoni juttatás, támogatás, adomány egyaránt adható, amelyek felhasználását az Alapítvány a számviteli törvény szerinti éves beszámolójában mutatja be.
+(9) Az Alapítvány részére pénzbeli és nem pénzbeli vagyoni juttatás, támogatás, adomány egyaránt adható, melyek felhasználását az Alapítvány a számviteli törvény szerinti éves beszámolójában mutatja be.
 
 (10) Az Alapítvány a piaci magánbefektető elvével összhangban gazdálkodási tevékenységet végezhet, ami nem veszélyeztetheti a közérdekű tevékenységének ellátását. E gazdasági tevékenységek költségeit és bevételeit számvitelileg elkülönítetten tartja nyilván. Az Alapítvány a részére juttatott vagyont és annak hozamát közvetlenül vagy közvetett módon a 2. § (1) bekezdése szerinti közérdekű célra fordítja.
 

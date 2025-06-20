@@ -135,7 +135,7 @@ jogosult személy;
 - 3. biodízel: növényi olajból vagy állati olajból átészterezéssel előállított, 3826 00 10 és 3826 00 90 KN-kód szerinti termék;
 - 4. bioetanol: az igazoltan kizárólag mezőgazdasági eredetű, 2207 10 00 KN-kód szerinti, legalább 99 térfogatszázalék alkoholtartalmú víztelenített alkoholtermékből denaturálással előállított, 2207 20 00 KN-kód szerinti alkoholtermék;
 - 5. E85: a 2207 20 00 KN-kód szerinti, üzemanyagcélra előállított, legalább 70%, legfeljebb 85% olyan bioetanolt tartalmazó termék, amelyet kizárólag az Európai Unióban termelt, mezőgazdasági eredetű alapanyagból gyártottak és amely fenntarthatósági bizonyítvány alapján fenntartható módon előállítottnak minősül;
-- 6. egyéb ellenőrzött ásványolaj: a 2707 10 00-2707 30 00, a 2707 50 00, a 2710 12 11-2710 12 25, a 2710 12 70-2710 19 15, a 2710 19 25, a 2710 19 29-2710 19 35, a 2710 19 51, a 2710 19 55, a 2901 10 00, a 2902 20 00-2902 44 00 KN-kód szerinti, valamint a 2710 19 44-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti, nem üzemanyagként vagy tüzelő-, fűtőanyagként értékesített, beszerzett vagy importált ellenőrzött energiatermék;
+- 6. egyéb ellenőrzött ásványolaj: a 2707 10 00–2707 30 00, a 2707 50 00, a 2710 12 11-2710 12 25, a 2710 12 70–2710 19 15, a 2710 19 25, a 2710 19 29–2710 19 35, a 2710 19 51, a 2710 19 55, a 2901 10 00, a 2902 20 00–2902 44 00 KN-kód szerinti, valamint a 2710 19 42, a 2710 19 44–2710 19 48 és a 2710 20 11–2710 20 19 KN-kód szerinti, nem üzemanyagként vagy tüzelő-, fűtőanyagként értékesített, beszerzett vagy importált ellenőrzött energiatermék;
 - 7. ellenőrzött energiatermék:
   - a) a 2707 10 00-2707 30 00, a 2707 50 00, a 2711 12 11-2711 19 00, a 2901 10 00, a 2902 20 00-2902 44 00, a 3811 11 10-3811 19 00 és a 3811 90 00 KN-kód szerinti termék,
   - b) – az ezen alpontban felsorolt, etil-alkoholt tartalmazó termékek kivételével – a 2710 12 21, 2710 12 25 és 2710 19 29 KN-kód szerinti ömlesztetten szállított termék, valamint a 2710 12 11, 2710 12 15, 2710 12 31–2710 19 25, 2710 19 31–2710 19 67 és a 2710 20 11–2710 20 38 KN-kód szerinti termék,
@@ -1608,6 +1608,8 @@ fizeti meg.
 
 (3) Az (1) bekezdéstől eltérően nem köteles adóelőleget fizetni az adóraktár engedélyese, ha kizárólag dohánygyártmánnyal folytat adóraktári engedélyköteles tevékenységet.
 
+(4) Az adóraktár engedélyese az adóelőleg esedékességének időpontjáig benyújtott kérelmében az adóelőleg módosítását kérheti, ha a tárgynegyedévben az adó várható összege nem éri el az (1) bekezdés szerint fizetendő adóelőleg mértékét.
+
 #### 53. Adó-visszaigénylés közös eljárási szabályai
 
 82. § (1) Adó-visszaigénylés esetén visszaigényelhető adóként a jövedéki termék adóval növelt áron történt beszerzését igazoló bizonylat kiállításának napján hatályos adómértékkel számított adó vehető figyelembe.
@@ -2245,7 +2247,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (2) Az adó mértéke hektoliterenként
 
-- a) a csendes bor és hozzáadott ízesítés nélküli szénsavas víz 8,5 térfogatszázalékot meg nem haladó alkoholtartalmú, olyan kiszerelt keveréke esetében, amelyben a csendes bor aránya meghaladja az 50%-ot, 0 forint,
+- a) a csendes bor és hozzáadott ízesítés nélküli szénsavas víz 8,5 térfogatszázalékot meg nem haladó alkoholtartalmú, olyan kiszerelt keveréke esetében, amelyben a csendes bor aránya eléri a 20%-ot, 0 forint,
 - b) más egyéb csendes erjesztett ital esetében 10 900 forint.
 
 #### 86. Egyéb habzó erjesztett ital
@@ -2459,7 +2461,7 @@ azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmenny
 
 141. § A – 71. §-ban meghatározott kivétellel – bérfőzött párlat kizárólag a bérfőzető, családtagjai vagy vendégei által fogyasztható el, feltéve hogy értékesítésre nem kerül sor.
 
-142. § (1) A kizárólag bérfőzést végző adóraktár engedélyesének nem kell a 14. § (1) bekezdés a) pontja, valamint a 20. § (1) bekezdés a) és b) pontja szerinti kötelezettséget teljesítenie.
+142. § (1) A kizárólag bérfőzést végző adóraktár engedélyesének nem kell a 14. § (1) bekezdés a) pontja, valamint a 20. § (1) bekezdés a) és b) pontja és (4) bekezdése szerinti kötelezettséget teljesítenie.
 
 (2) A 21. § rendelkezésétől eltérően a kizárólag bérfőzést végző adóraktár engedélyese által nyújtandó jövedéki biztosíték összege 200 ezer forint.
 

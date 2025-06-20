@@ -235,7 +235,7 @@ A Pécsi Tudományegyetem nemzetközi szintű tudásközpont szerepének megerő
 | 78. | ZALAEGERSZEG | 4983/2 | 1/1 | kivett egyetem |
 | 79. | ZALAEGERSZEG | 4983/34 | 1/1 | kivett iskola |
 | 80. | KOMLÓ | 0642/2 | 1/1 | kivett vízmű |
-| 81. | KOMLÓ | 954 | 1/1 | kivett lakóház, udvar |
+| 81. |  |  |  |  |
 | 82. | KOMLÓ | 955 | 1/1 | kivett kórház |
 | 83. | KOMLÓ | 956/5 | 4/10 | kivett garázssor |
 | 84. | KOMLÓ | 956/7 | 1/1 | kivett beépítetlen terület |

@@ -1435,7 +1435,7 @@ a közművelődési intézményekben és a levéltárakban alkalmazottak foglalk
 
 (2) Azt a tényt, hogy a foglalkoztatott vagy foglalkoztatni kívánt személy az (1) bekezdés b) pontjában meghatározott feltételnek megfelel, a tevékenység megkezdését megelőzően, illetve a tevékenységének gyakorlása alatt hatósági bizonyítvánnyal igazolja.
 
-(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója – a (3a) és (3b) bekezdésben, valamint a 99/D. § (3) és (4) bekezdésében foglalt kivétellel – pályázati, vagy a miniszter előzetes hozzájárulásával meghívásos eljárást alkalmaz. A pályázati, illetve meghívásos eljárás kiírásának, benyújtásának és értékelésének rendjét, valamint a meghívásos eljárás feltételeit a miniszter rendeletben határozza meg.
+(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója – a (3a) és (3b) bekezdésben, valamint a 99/D. § (3) és (4) bekezdésében foglalt kivétellel – pályázati, vagy a miniszter előzetes hozzájárulásával meghívásos eljárást alkalmaz. A pályázati eljárás kiírásának, benyújtásának és értékelésének rendjét a miniszter rendeletben határozza meg.
 
 (3a) A Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) vezetőjét a miniszter nevezi ki, illetve menti fel.
 
@@ -1638,7 +1638,7 @@ az MNM KK-ba beolvad. Az MNM KK az a)–e) pontokban felsorolt intézmények jog
 - p) a könyvtári dokumentumellátást,
 - q) az Országos Idegennyelvű Könyvtár jogállását,
 - r)
-- s) a közművelődési intézmény és az állami vagy önkormányzati fenntartású muzeális intézmény, nyilvános könyvtár, közlevéltár vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra, illetve meghívásos eljárásra vonatkozó szabályokat, valamint a pályázatok elbírálásának rendjét, továbbá a közművelődési intézményben, a közösségi színtérben és az állami vagy önkormányzati fenntartású muzeális intézményben, nyilvános könyvtárban, közlevéltárban foglalkoztatottak munkaköreit, valamint a munkakörök és a vezető beosztás betöltéséhez szükséges képesítési és egyéb feltételeket,
+- s) a közművelődési intézmény és az állami vagy önkormányzati fenntartású muzeális intézmény, nyilvános könyvtár, közlevéltár vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, valamint a pályázatok elbírálásának rendjét, továbbá a közművelődési intézményben, a közösségi színtérben és az állami vagy önkormányzati fenntartású muzeális intézményben, nyilvános könyvtárban, közlevéltárban foglalkoztatottak munkaköreit, valamint a munkakörök és a vezető beosztás betöltéséhez szükséges képesítési és egyéb feltételeket,
 - t) az integrált kulturális intézmény működését,
 - u) az önkormányzatok érdekeltségnövelő támogatását,
 - v) a közművelődési és közgyűjteményi feladatfinanszírozás és a közművelődési és közgyűjteményi telematikai feladatfinanszírozás minisztérium fejezeti kezelésű címe felhasználását,

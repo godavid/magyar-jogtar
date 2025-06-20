@@ -21,12 +21,11 @@ a fenntartható finanszírozás és az egységes vállalati felelősségvállal�
 - a) közérdeklődésre számot tartó gazdálkodónak minősülő nagyvállalkozásra, amelynél az üzleti évet megelőző két üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta a következő határértéket:
   - aa) a mérlegfőösszeg a 10 000 millió forintot,
   - ab) az éves nettó árbevétel a 20 000 millió forintot,
-  - ac) az átlagosan foglalkoztatottak száma az 500 főt;
-- b) nagyvállalkozásra, amelynél az üzleti évet megelőző üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta a következő határértéket:
-  - ba) a mérlegfőösszeg a 10 000 millió forintot,
-  - bb) az éves nettó árbevétel a 20 000 millió forintot,
-  - bc) az átlagosan foglalkoztatottak száma a 250 főt; és
-- c) közérdeklődésre számot tartó gazdálkodónak minősülő kis- és középvállalkozásra.
+  - ac) az átlagosan foglalkoztatottak száma az 500 főt; és
+- b) azon nagyvállalkozásra, amelynek az üzleti évet megelőző két üzleti évben a mérleg fordulónapján főtevékenysége az 1. mellékletben meghatározott – Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere szerinti – ágazatokba sorolható, és esetében az alábbi mutatóértékek meghaladják a következő határértéket:
+  - ba) az éves nettó árbevétel a 90 000 millió forintot, valamint
+  - bb) az átlagosan foglalkoztatottak száma az 500 főt;
+- c)
 
 (a továbbiakban együtt: vállalkozás).
 
@@ -41,7 +40,7 @@ a fenntartható finanszírozás és az egységes vállalati felelősségvállal�
 (4) E törvény hatálya kiterjed
 
 - a) a Magyarország területén ESG beszámoló vizsgálatát végző ESG tanúsítókra;
-- b) a Magyarország területén fenntarthatósági tanácsadási szolgáltatást nyújtó természetes és jogi személyekre (a továbbiakban: ESG tanácsadó);
+- b) a Magyarország területén fenntarthatósági tanácsadási szolgáltatást nyújtó ESG tanácsadóra;
 - c) a Magyarország területén ESG szoftvereket forgalmazó vagy gyártó vállalatokra;
 - d) a Magyarország területén ESG tanácsadókat oktató intézményekre;
 - e) az ESG minősítőre, illetve az ESG minősítőnek nem minősülő, de tartalmát tekintve e törvény hatálya alá tartozó ESG minősítést az 1. § (1) bekezdés szerinti vállalkozás vagy az 1. § (3) bekezdés szerinti szervezet tekintetében végző szervezetre.
@@ -50,7 +49,7 @@ a fenntartható finanszírozás és az egységes vállalati felelősségvállal�
 
 (5) E törvény hatálya nem terjed ki
 
-- 1. a Magyarország területén székhellyel rendelkező, közérdeklődésre számot tartó gazdálkodónak minősülő mikrovállalkozásra,
+- 1.
 - 2. a Magyarországon székhellyel, fiókteleppel rendelkező szabályozott pénzügyi szolgáltatóra, és
 - 3. a Magyar Nemzeti Bankra, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaságra.
 
@@ -64,9 +63,9 @@ a fenntartható finanszírozás és az egységes vállalati felelősségvállal�
 
 (3) A vállalkozás a fenntarthatósági célú átvilágítási kötelezettségek teljesítése során érvényesíti az információk átláthatóságának követelményét.
 
-3. § (1) A lényegesség elve azt biztosítja, hogy a vállalkozások megfelelő információkat hozzanak nyilvánosságra a náluk felmerülő ESG kockázatokról és lehetőségekről.
+3. § (1) A lényegesség elve azt biztosítja, hogy a vállalkozások az ESG beszámoló részeként megfelelő információkat hozzanak nyilvánosságra a náluk felmerülő ESG kockázatokról és lehetőségekről.
 
-(2) A vállalkozás a lényegesség elvét szem előtt tartva a fenntarthatósági célú átvilágítási kötelezettségei keretében – az üzleti titok sérelme nélkül – bárki számára megismerhetővé teszi
+(2) A vállalkozás a lényegesség elvét szem előtt tartva a fenntarthatósági célú átvilágítási kötelezettségei keretében – az üzleti titok sérelme nélkül – bárki számára megismerhetővé teszi az ESG beszámoló részeként
 
 - 1. azt, hogy a fenntarthatósági kérdések hogyan befolyásolják a vállalkozás teljesítményét, helyzetét és fejlődését,
 - 2. a vállalkozásnál felmerülő ESG kockázatokat és lehetőségeket, valamint
@@ -98,7 +97,7 @@ a fenntartható finanszírozás és az egységes vállalati felelősségvállal�
 - 8. ESG szoftver: olyan IKT-termék, amely támogatja a vállalatot vagy az általa megbízott jogi vagy természetes személyt az ESG adatszolgáltatási kötelezettségnek való megfelelésben, az adatgyűjtésben és adatkezelésben, a teljesítményértékelés elvégzésében;
 - 9. ESG tanácsadó: a Pp. szerinti gazdálkodó szervezet, és az a személy, amely Magyarország területén ESG célú vállalatirányítási szakértői és ESG adatszolgáltatáshoz kapcsolódó tájékoztató és tanácsadói szolgáltató tevékenységet folytat, közreműködik a vállalkozás fenntarthatósági célú átvilágítási kötelezettségeinek sikeres és megfelelő időben történő teljesítésében, részt vesz a fenntarthatósági kérdésekkel kapcsolatos adatok összegyűjtésében és elemzésében, a társadalmi felelősségvállalási stratégia elkészítésében, valamint a kockázatkezelésre, a kockázatelemzésre és a megelőző intézkedésekre vonatkozó szabályok végrehajtásában;
 - 10. ESG tanúsító: az ESG beszámolót tanúsító, akkreditált, jogi személyiséggel rendelkező megfelelőségértékelő szervezet;
-- 11. fenntarthatósági kérdések: az Szt. 95/D. § (1) bekezdés 2. pontja szerinti forgalom;
+- 11. fenntarthatósági kérdések: az Szt. 95/D. § (1) bekezdés 2. pontja szerinti fogalom;
 - 12. fióktelep: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 7. § (2) bekezdése szerinti fióktelep;
 - 13.
 - 14.
@@ -151,7 +150,7 @@ a fenntartható finanszírozás és az egységes vállalati felelősségvállal�
 
 #### 4. A gazdaságfejlesztésért felelős miniszter feladatai
 
-8. § (1) A Kormány az e törvény szerinti fenntarthatósági célú átvilágítási kötelezettségekkel kapcsolatos feladatait a gazdaságfejlesztésért felelős miniszter (a továbbiakban: miniszter) útján látja el.
+8. § (1) A Kormány az e törvény szerinti fenntarthatósági célú átvilágítási kötelezettségekkel kapcsolatos feladatait a miniszter útján látja el.
 
 (2) A miniszter
 
@@ -205,15 +204,12 @@ a fenntartható finanszírozás és az egységes vállalati felelősségvállal�
   - ab) az ESG tanácsadókról;
   - ac) az ESG szoftverekről;
   - ad) az ESG minősítőkről;
-- b) akkreditálja
-  - ba) az ESG tanácsadókat;
-  - bb) az ESG tanúsítókat, az ESG beszámolóra vonatkozó magyar nyelvű bizonyossági vélemény (a továbbiakban: ESG tanúsítvány) adási tevékenységükkel összefüggésben;
-  - bc)
+- b) akkreditálja az ESG tanácsadókat;
 - c) hatósági ellenőrzés keretében ellenőrzi a vállalkozások e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kötelezettségeinek betartását;
 - d) felügyeli a vállalkozások panaszkezelési rendszerének működését;
 - e) működteti a magyar online ESG menedzsmentplatformot az ESG adatszolgáltatási kötelezettség könnyítése, illetve teljesítése érdekében;
 - f) hitelesített támogatásmenedzsment központot működtet;
-- g) minden év szeptember 30-ig közzéteszi a törvény hatálya alá tartozó vállalkozások ugyanezen év június 30. napját megelőző egy éves időszakban benyújtott ESG adatszolgáltatása alapján készült éves beszámolóját;
+- g) minden év szeptember 30-ig közzéteszi az e törvény hatálya alá tartozó vállalkozások ugyanezen év június 30. napját megelőző egy éves időszakban benyújtott ESG beszámolói alapján készült éves jelentését;
 - h) hatósági ellenőrzés keretében ellenőrzi az ESG közreműködők valamint az 1. § (3a) bekezdése szerinti szervezetek e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kötelezettségeinek betartását;
 - i) engedélyezi a 27. § (5) bekezdése szerinti adatszolgáltatás igénylését;
 - j) eljár a jogosulatlan ESG közreműködői tevékenységet folytatókkal szemben.
@@ -328,13 +324,13 @@ felülvizsgálja.
 - a) a koncepció a jogsértést okozó közvetlen szállítóval közösen kerüljön kidolgozásra és végrehajtásra,
 - b) együttműködést tanúsítson más vállalkozásokkal az ágazati kezdeményezésekben és az ágazati szabványokban annak érdekében, hogy növeljék a kárt okozó vagy okozni képes közvetlen szállítókra gyakorolható befolyásolási képességet.
 
-(3) A vállalkozás a kockázat minimalizálása érdekében a közvetlen szállítójával köteles három hónapig szüneteltetni az üzleti kapcsolatot, ha
+(3) A vállalkozás a kockázat minimalizálása érdekében a közvetlen szállítójával köteles 30 napig szüneteltetni az üzleti kapcsolatot, ha
 
 - a) a védett jogi helyzet vagy környezetvédelmi kötelezettség megsértése a korrekciós intézkedések megtételét követően sem szűnik meg,
 - b) a koncepcióban kidolgozott intézkedések végrehajtása a koncepcióban meghatározott, ütemterv szerinti határidő letelte után nem orvosolja a helyzetet és
 - c) a vállalkozásnak nincs más, kevésbé szigorú eszköze, és a befolyási képesség növelésének várhatóan nincs kihatása a sikerre.
 
-(4) A vállalkozás köteles megszüntetni a közvetlen szállítójával az üzleti kapcsolatot azon tevékenységek tekintetében, amelyek a káros hatások fokozott kockázatával járnak.
+(4)
 
 (5) Mentesül a vállalkozás a (3) és (4) bekezdés szerinti kötelezettsége alól, amennyiben a kötelezettség végrehajtása
 
@@ -389,11 +385,18 @@ felülvizsgálja.
 
 (4) Ha a vállalkozástól vagy az 1. § (3) bekezdése szerinti szervezettől az ESG beszámoló mellékletét képező kérdőív vagy a szállítói kérdőívek tekintetében kérnek tartalmát tekintve e törvény hatálya alá tartozó adatszolgáltatást, és a vállalkozás vagy az 1. § (3) bekezdése szerinti szervezet vállalja, hogy eleget tesz a kérésnek, akkor a vállalkozásnak vagy az 1. § (3) bekezdése szerinti szervezetnek legfeljebb az ESG beszámoló mellékletét képező kérdőívet vagy a szállítói kérdőívnek azt a részét kell kitöltenie, amelyre a megkeresés vonatkozott.
 
+(4a) A (4) bekezdéstől eltérően a középvállalkozástól történő ESG adatszolgáltatás igénylést megelőzően az igénylő nyilatkozattételre hívja fel a középvállalkozást arra vonatkozóan, hogy rendelkezik-e az állami ESG minősítő által készített ESG minősítéssel.
+
+(4b) Ha a középvállalkozás állami ESG minősítő által készített ESG minősítéssel
+
+- a) rendelkezik, és az ESG minősítést megküldi a (4a) bekezdés szerinti igénylő részére, azt a szállítói kérdőív helyett az igénylő felhasználja a fenntarthatósági célú átvilágítási kötelezettségei teljesítéséhez vagy az e törvény szerinti kockázatelemzés elvégzéséhez,
+- b) nem rendelkezik, vagy nem küldi meg az ESG minősítést a (4a) bekezdés szerinti igénylő részére, az igénylő szállítói kérdőívet küldhet a részére.
+
 (5) Ha a vállalkozástól vagy az 1. § (3) bekezdése szerinti szervezettől az ESG beszámoló mellékletét képező kérdőív – e törvény vagy a Hatóság elnökének rendelete szerinti – tartalmán túl igényt tartanak további, tartalmát tekintve e törvény hatálya alá tartozó adatszolgáltatásra, abban az esetben a további adatszolgáltatás előírására vonatkozóan adatszolgáltatás iránti kérelmet kell benyújtani a Hatósághoz. Az adatszolgáltatás iránti kérelmet annak kell benyújtania, aki a további adatszolgáltatásra igényt tart a vállalkozástól vagy az 1. § (3) bekezdése szerinti szervezettől. Ha a vállalkozás vagy az 1. § (3) bekezdése szerinti szervezet vállalja, hogy a Hatóság által engedélyezett adatszolgáltatást teljesíti, akkor az adatszolgáltatás során a Hatóság elnökének rendeletében meghatározottak szerint jár el.
 
 (6) Az a személy, akinek a részére tartalmát tekintve e törvény szerinti ESG adatszolgáltatást teljesítenek, köteles az adatszolgáltatás keretében az adott negyedévben beérkezett adatokat legkésőbb az adott negyedév utolsó napját követő 45 napon belül – a Hatóság elnökének a beszámoló formai követelményeiről szóló rendeletében meghatározott formában – a Hatóság részére hiánytalanul rendelkezésre bocsátani.
 
-(7) A vállalkozás a közvetlen szállítói részérére kiküldött kérdőívek kitöltésének elősegítése érdekében a közvetlen szállítók számára a kérdőívek kitöltésére ellenszolgáltatás nélkül – a miniszter rendeletében foglaltak szerint – felkészítő programot (továbbiakban: felkészítő program) nyújt.
+(7) A vállalkozás a közvetlen szállítói részére kiküldött kérdőívek kitöltésének elősegítése érdekében a közvetlen szállítók számára a kérdőívek kitöltésére ellenszolgáltatás nélkül – a miniszter rendeletében foglaltak szerint – felkészítő programot (a továbbiakban: felkészítő program) nyújt.
 
 #### 12. Panaszkezelés
 
@@ -424,7 +427,7 @@ felülvizsgálja.
 
 #### 13. ESG tanúsító
 
-32. § (1) Az ESG beszámoló vizsgálatát olyan ESG tanúsító végzi, amely a Hatóság akkreditált ESG tanúsítókról vezetett névjegyzékében (a továbbiakban: a Tanúsítók Névjegyzéke) szerepel.
+32. § (1) Az ESG beszámoló vizsgálatát olyan ESG tanúsító végzi, amely a Hatóság ESG tanúsítókról vezetett névjegyzékében (a továbbiakban: a Tanúsítók Névjegyzéke) szerepel.
 
 (2) Az ESG tanúsítók 33. és 34. § szerinti tevékenységének szakmai minőségbiztosítására, bizonyosságot nyújtó szolgáltatás-nyújtására, szakmai tevékenységének etikai szabályaira és szakmai titoktartására, munkaszervezésére a Kormány rendeletében foglalt részletszabályok alkalmazandóak.
 
@@ -440,7 +443,7 @@ felülvizsgálja.
 
 (3) Az ESG tanúsító a tanúsítási audit során eljárásáért és vizsgálati megállapításaiért a polgári jogi felelősség szabályai szerint felel.
 
-(4) A tanúsítás a tanúsítási audit eredményeit dokumentáló jelentéssel zárul. Ha a jelentés megállapítja az ESG beszámoló megfelelőségét, az ESG tanúsító ESG tanúsítványt ad ki. Az ESG tanúsítvány tartalmazza az ESG tanúsítvány keltét és a tanúsítás érvényességi idejét is.
+(4) A tanúsítás a tanúsítási audit eredményeit dokumentáló jelentéssel zárul. Ha a jelentés megállapítja az ESG beszámoló megfelelőségét, az ESG tanúsító az ESG beszámolóra vonatkozó magyar nyelvű bizonyossági véleményt (a továbbiakban: ESG tanúsítvány) ad ki. Az ESG tanúsítvány tartalmazza az ESG tanúsítvány keltét és a tanúsítás érvényességi idejét is.
 
 (5) Az ESG tanúsító az ESG beszámoló kézhezvételét követő 45 napon belül folytatja le a tanúsítási auditot.
 
@@ -450,11 +453,11 @@ felülvizsgálja.
 
 ### V. Fejezet — ESG MINŐSÍTŐ
 
-35. § (1) A vállalkozás az ESG megfelelőség és előrehaladás szempontjából történő minősítésére e törvény szerinti kötelezettségein túlmutatóan, saját üzleti döntése alapján ESG minősítőt is megbízhat. Az ESG minősítő az ESG menedzsmentplatformon keresztül benyújtott ESG beszámoló alapján, kiegészítve további, közhiteles adatbázisokból és nyilvános forrásokból hozzáférhető vállalati adatokkal minősítheti az e törvény hatálya alá tartozó vállalkozásokat ESG megfelelőség és előrehaladás szempontjából.
+35. § (1) A vállalkozás az ESG megfelelőség és előrehaladás szempontjából történő minősítésére e törvény szerinti kötelezettségein túlmutatóan, saját üzleti döntése alapján ESG minősítőt is megbízhat. Az ESG minősítő az ESG menedzsmentplatformon keresztül benyújtott ESG beszámoló alapján, illetve közhiteles adatbázisokból és nyilvános forrásokból hozzáférhető vállalati adatokkal minősítheti az e törvény hatálya alá tartozó vállalkozásokat ESG megfelelőség és előrehaladás szempontjából.
 
 (2) A minősítés módszertanát az ESG minősítő közzéteszi, illetve rendszeres időközönként felülvizsgálja, összhangban a nemzetközi sztenderdekkel és a vonatkozó jogszabályokkal.
 
-(3) ESG minősítőként a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló gazdasági társaság (a továbbiakban: állami ESG minősítő) is eljárhat.
+(3) ESG minősítőként a Kormány által rendeletben kijelölt, többségi állami befolyás alatt álló gazdasági társaság (a továbbiakban: állami ESG minősítő) is eljárhat.
 
 (4) A jogi személy és kapcsolódó személye nem járhat el ESG minősítőként azon vállalkozás vagy 1. § (3) bekezdése szerinti szervezet vagy mindezek leányvállalatai esetében, amelynél az adott üzleti év vonatkozásában ESG tanácsadóként eljár.
 
@@ -494,11 +497,14 @@ felülvizsgálja.
 
 #### 17. ESG tanúsítók nyilvántartása
 
-40. § (1) A Hatóság vezeti az akkreditált ESG tanúsítókról a Tanúsítók Névjegyzékét. A Tanúsítók Névjegyzéke tartalmazza:
+40. § (1) A Hatóság vezeti az ESG tanúsítókról a Tanúsítók Névjegyzékét. A Tanúsítók Névjegyzéke tartalmazza:
 
 - a) az ESG tanúsító azonosításához szükséges adatokat,
 - b) ha az ESG tanúsító nem az Európai Unióban letelepedett szervezet, de Magyarország területén belül kínál szolgáltatásokat és magyarországi letelepedett képviselőt jelöl ki, a képviselő nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
-- c) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+- c) a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
+- d) annak tényét, ha a Hatóság az ESG tanúsítót az ESG tanúsítói tevékenységtől eltiltotta,
+- e) a Hatóság elnökének rendeletében meghatározott feltételek teljesülését alátámasztó dokumentumokat, valamint
+- f) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
 
 (1a) A Hatóság a honlapján közzéteszi az ESG tanúsítói tevékenység végzésére jogosult ESG tanúsítók (1) bekezdés a) pontja szerinti adatait.
 
@@ -506,10 +512,11 @@ felülvizsgálja.
 
 (2) A Tanúsítók Névjegyzékébe történő nyilvántartásba vétel feltétele
 
-- a)
-- b) annak igazolása, hogy az ESG tanúsítónak nincs köztartozása;
-- c) az, hogy az ESG tanúsító nem áll csődeljárás, végelszámolás, kényszertörlési, illetve felszámolási eljárás hatálya alatt, valamint
-- d) annak igazolása, hogy az ESG tanúsító Magyarország területén bejegyzett vállalkozások esetén magyar nyelven végez tanúsítást.
+- a) annak igazolása, hogy az ESG tanúsítót a Kormány rendeletében meghatározott követelményekre figyelemmel a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv akkreditálta,
+- b) annak igazolása, hogy az ESG tanúsítónak nincs köztartozása,
+- c) az, hogy az ESG tanúsító nem áll csődeljárás, végelszámolás, kényszertörlési, illetve felszámolási eljárás hatálya alatt,
+- d) annak igazolása, hogy az ESG tanúsító Magyarország területén bejegyzett vállalkozások esetén magyar nyelven végez tanúsítást, valamint
+- e) a Hatóság elnöke rendeletében meghatározott feltételek teljesítése.
 
 (3)
 
@@ -524,6 +531,8 @@ felülvizsgálja.
 - b) a köztartozásmentességet – ha az ESG tanúsító nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó adótartozásról szóló adóigazolással
 
 kell igazolnia.
+
+(5a) A Hatóság az ESG tanúsítót törli a Tanúsítók Névjegyzékéből, ha a nyilvántartásba vétel alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében a nyilvántartásba vétel feltételei nem teljesülnek, és ezt az ESG tanúsító a Hatóság felhívásában foglalt határidőn belül nem orvosolja.
 
 (6) Az ESG tanúsító az (1) bekezdés szerinti adatokban bekövetkező változást annak bekövetkezésétől számított 15 napon belül bejelenti a Hatóság részére.
 
@@ -635,7 +644,7 @@ kell igazolnia.
 
 (2) Nem vehető fel a 40. § (1) bekezdése, a 41. § (1) bekezdése vagy a 43. § (1) bekezdése szerinti nyilvántartásba az, akivel szemben a Hatóság ESG közreműködői tevékenység jogosulatlan végzését végleges határozattal megállapította, a határozat véglegessé válását követő egy évig.
 
-43/B. § (1) Ha az ESG tanácsadóként történő akkreditálást, vagy a 43. § (1) bekezdése szerinti névjegyzékbe történő felvételt kérelmező nem természetes személy ügyfél Magyarországon székhellyel nem rendelkezik, a kérelemben kézbesítési megbízottat kell megjelölni, feltüntetve a kézbesítési megbízott nevét, és lakcímét vagy székhelyét. A kézbesítési megbízott magyarországi székhellyel rendelkező szervezet vagy állandó lakóhellyel rendelkező természetes személy lehet. A kérelemhez mellékelni kell a kézbesítési megbízott megbízására és a megbízatás elfogadására vonatkozó teljes bizonyító erejű magánokiratot vagy közokiratot.
+43/B. § (1) Ha az ESG tanácsadóként történő akkreditálást, vagy a Tanúsítók Névjegyzékébe, vagy a 43. § (1) bekezdése szerinti névjegyzékbe történő felvételt kérelmező nem természetes személy ügyfél Magyarországon székhellyel nem rendelkezik, a kérelemben kézbesítési megbízottat kell megjelölni, feltüntetve a kézbesítési megbízott nevét, és lakcímét vagy székhelyét. A kézbesítési megbízott magyarországi székhellyel rendelkező szervezet vagy állandó lakóhellyel rendelkező természetes személy lehet. A kérelemhez mellékelni kell a kézbesítési megbízott megbízására és a megbízatás elfogadására vonatkozó teljes bizonyító erejű magánokiratot vagy közokiratot.
 
 (2) A kézbesítési megbízott feladata, hogy a Magyarországon székhellyel nem rendelkező kérelmező vagy ESG közreműködő (a továbbiakban: megbízó) nyilvántartásba vételével, illetve ESG közreműködői működésével összefüggésben keletkezett, a Hatóság által a megbízó részére kézbesítendő iratokat átvegye, és azokat a megbízó részére továbbítsa. A hatósági eljárás, illetve hatósági ellenőrzés során a kézbesítési megbízott az általános közigazgatási rendtartásról szóló törvény szerinti kézbesítési meghatalmazottnak minősül.
 
@@ -647,16 +656,17 @@ kell igazolnia.
 
 - a) az ESG tanácsadó akkreditált státuszát visszavonja,
 - b) az ESG minősítőt törli a 43. § (1) bekezdése szerinti névjegyzékből.
+- c) az ESG tanúsítót törli a Tanúsítók Névjegyzékéből.
 
 (6) A Hatóság az (5) bekezdés szerinti felhívását, illetve döntését hirdetményi úton közli. A hirdetményt 15 napig kell a Hatóság honlapján közzétenni.
 
 ### IX. Fejezet — HATÓSÁGI ELLENŐRZÉS ÉS HATÓSÁGI ELJÁRÁS
 
-44. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a fenntarthatósági célú átvilágítási kötelezettségek, valamint a vállalkozások, az 1. § (3a) bekezdése szerinti szervezetek és az ESG közreműködők e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kötelezettségeinek teljesítését.
+44. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a fenntarthatósági célú átvilágítási kötelezettségek, valamint a vállalkozások, az 1. § (3) és (3a) bekezdése szerinti szervezetek és az ESG közreműködők e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kötelezettségeinek teljesítését.
 
 (2) A Hatóság megteszi a szükséges intézkedéseket az (1) bekezdés szerinti kötelezettségek megsértésének felderítése, megszüntetése és megelőzése érdekében, amelynek keretében hatósági ellenőrzése során jogosult
 
-- a) helyszíni ellenőrzést lefolytatni, ennek keretében a vállalkozás vagy az ESG közreműködő helyiségébe, építményébe és egyéb létesítményébe belépni,
+- a) helyszíni ellenőrzést lefolytatni, ennek keretében a vállalkozás, az 1. § (3) vagy (3a) bekezdése szerinti szervezet, vagy az ESG közreműködő helyiségébe, építményébe és egyéb létesítményébe belépni,
 - b) bármely, az üggyel kapcsolatos iratba, ideértve az üzleti titkot tartalmazó iratokat is, betekinteni, az iratról másolatot, kivonatot készíteni, adatszolgáltatást és egyéb tájékoztatást kérni és
 - c) bármely, az ügyhöz kapcsolódó tárgyat vagy munkafolyamatot megvizsgálni.
 
@@ -673,7 +683,9 @@ kell igazolnia.
 
 - a) a 40. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG tanúsítói tevékenységet,
 - b) a 41. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG tanácsadói tevékenységet, vagy
-- c) a 43. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG minősítői tevékenységet.
+- c) a 43. § (1) bekezdése szerinti nyilvántartásban nem szereplő személy folytat ESG minősítői tevékenységet,
+
+ideértve a tevékenység végzésére irányuló szolgáltatás felkínálását is.
 
 (3) Nem minősül a (2) bekezdés c) pontja szerinti jogosulatlan ESG minősítői tevékenységnek, ha a 43. § (1) bekezdése szerinti nyilvántartásban nem szereplő minősítést végző által minősített vállalkozás vagy 1. § (3) bekezdése szerinti szervezet a rá vonatkozó minősítés közzétételéhez nyilatkozatával vagy kétoldalú megállapodással hozzájárult.
 
@@ -684,7 +696,9 @@ kell igazolnia.
 
 a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szab ki. Figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
 
-(5) A 32. § (4) bekezdésének vagy a 36. § (1) bekezdésének megsértése esetén a Hatóság az ESG közreműködő akkreditált státuszát hat hónapos időtartamra vagy – ha az akkreditált státusz hátralévő időtartama ennél rövidebb – az akkreditált státusz lejártának időpontjáig felfüggeszti. Az az ESG közreműködő, akinek az akkreditált státuszát a Hatóság felfüggesztette, az ESG közreműködői tevékenység végzésére nem jogosult.
+(5) A 36. § (1) bekezdésének megsértése esetén a Hatóság az ESG tanácsadó akkreditált státuszát hat hónapos időtartamra vagy – ha az akkreditált státusz hátralévő időtartama ennél rövidebb – az akkreditált státusz lejártának időpontjáig felfüggeszti. Az az ESG tanácsadó, akinek az akkreditált státuszát a Hatóság felfüggesztette, az ESG tanácsadói tevékenység végzésére nem jogosult.
+
+(6) A 32. § (4) bekezdésének megsértése esetén a Hatóság az ESG tanúsítót hat hónapos időtartamra eltiltja az ESG tanúsítói tevékenység végzésétől.
 
 46. § (1) Az ellenőrzés akadályozása esetén a Hatóság eljárási bírsággal sújthatja azt, aki a kötelezettségét önhibájából megszegi.
 
@@ -694,7 +708,7 @@ a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közi
 
 ### X. Fejezet — AZ ESG TANÚSÍTVÁNY ALKALMAZÁSA A KÖZBESZERZÉSI SZABÁLYOK KERETÉBEN
 
-48. § Az ESG tanúsítvány figyelembe vehető a közbeszerzésekről szóló 2015. évi CXLIII. törvény 132. § (1) bekezdése szerinti szerződéses feltételek meghatározása során.
+48. § Az ESG beszámoló és a hozzá kapcsolódó tanúsítvány vagy az állami ESG minősítő által készített ESG minősítés figyelembe vehető a közbeszerzésekről szóló 2015. évi CXLIII. törvény 132. § (1) bekezdése szerinti szerződéses feltételek meghatározása során.
 
 ### XI. Fejezet — ESG MENEDZSMENTPLATFORM
 
@@ -703,6 +717,8 @@ a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közi
 (2) A vállalkozás vagy az 1. § (3) bekezdése szerinti szervezet a központi azonosítási ügynök szolgáltatás igénybevételével fér hozzá az ESG menedzsmentplatformhoz.
 
 (3) Az ESG menedzsmentplatform adatbázisa csak az ESG tanúsítvánnyal rendelkező beszámolók esetében közhiteles.
+
+(4) Az állami ESG minősítő a vállalkozás és az 1. § (3) bekezdése szerinti szervezet ESG Menedzsmentplatformon tárolt ESG adataihoz hozzáférhet.
 
 ### XII. Fejezet — HITELESÍTETT TÁMOGATÁSMENEDZSMENT KÖZPONT
 
@@ -734,8 +750,8 @@ a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közi
 
 52. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a)
-- b) szabályozza az ESG tanúsítók akkreditálásának feltételeit, valamint az ESG tanúsítók szakmai minőségbiztosítására, bizonyosságot nyújtó szolgáltatásnyújtására; képzésére, továbbképzésére, vizsgáztatására; szakmai etikai szabályaira és szakmai titoktartására; munkaszervezésére, továbbá az ESG tanúsítók által végzett tanúsítási audit lefolytatására vonatkozó részletes követelményeket;
+- a) szabályozza az ESG tanúsítók akkreditálásának követelményeit,
+- b) szabályozza az ESG tanúsítók szakmai minőségbiztosítására, bizonyosságot nyújtó szolgáltatásnyújtására, képzésére, továbbképzésére, vizsgáztatására, szakmai etikai szabályaira és szakmai titoktartására, munkaszervezésére, továbbá az ESG tanúsítók által végzett tanúsítási audit lefolytatására vonatkozó részletes követelményeket;
 - c) jelölje ki az állami ESG minősítőt;
 - d) határozza meg az állami ESG minősítő eljárásával és működésével kapcsolatos szabályokat;
 - e) határozza meg a Hatóság által kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait;
@@ -757,10 +773,10 @@ a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közi
 
 - a) a vállalkozás fenntarthatósági célú átvilágítási kötelezettségei teljesítésének részletszabályait;
 - b) a kockázatelemzés rendszere kialakításának szabályait;
-- c) az ESG tanúsítóként és az ESG tanácsadóként történő akkreditálás eljárási szabályait;
+- c) az ESG tanácsadóként történő akkreditálás eljárási szabályait;
 - d) az ESG szoftverek kiberbiztonsági tanúsítása vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert;
 - e)
-- f) a Tanúsítók Névjegyzéke, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők és az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat;
+- f) a Tanúsítók Névjegyzékébe való felvétel feltételeit, továbbá a Tanúsítók Névjegyzéke, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők és az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat;
 - g) az ESG menedzsmentplatform működési szabályait;
 - h) a hitelesített támogatásmenedzsment központ működésének részletes szabályait.
 
@@ -786,11 +802,29 @@ a jogsértővel szemben a Kormány rendeletében meghatározott mértékű közi
 
 - a) az 1. § (1) bekezdés a) pontja szerinti vállalkozás a 2024. üzleti évi tevékenysége tekintetében alkalmazza, és első ESG beszámolóját a 2025. évben;
 - b) az 1. § (1) bekezdés b) pontja szerinti vállalkozás a 2025. üzleti évi tevékenysége tekintetében alkalmazza, és első ESG beszámolóját a 2026. évben;
-- c) az 1. § (1) bekezdés c) pontja szerinti vállalkozás a 2026. üzleti évi tevékenysége tekintetében alkalmazza, és első ESG beszámolóját a 2027. évben
+- c)
 
-készíti el és teszi közzé.
+készíti el.
 
-(2) Az 1. § (1) bekezdés a) és b) pontja szerinti vállalkozás a fenntarthatósági célú átvilágítási kötelezettségekre vonatkozó rendelkezéseket az 54. § (1) bekezdésében meghatározott esetekben oly módon teljesíti, hogy az ESG platformra ESG beszámolót tölt fel, amelyet követően a 33–34. §-ban foglaltaktól eltérően nem tanúsítás, hanem egy előaudit történik és sem az ESG beszámoló, sem az előaudit eredménye nem nyilvános és nem kerül közzétételre.
+(2) A 33. § és 34. §-ban foglaltaktól eltérően a 2025. évben a vállalkozás az (1) bekezdés szerinti 2024-ben kezdődő üzleti év fenntarthatósági célú átvilágítási kötelezettségeinek teljesítéséről szóló ESG beszámolója tekintetében nem köteles tanúsítást lefolytatni. A vállalkozás ügyvezető szerve felel az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban foglalt követelményeknek megfelelő ESG beszámoló elfogadásáért. Az ESG beszámolót az ügyvezető szerv fogadja el. Az ESG beszámolót a vállalkozás – az ügyvezető szerv jóváhagyásról szóló írásba foglalt döntésével együtt – az elfogadásától számított három évig megőrzi.
+
+(3) A 23. § (2) bekezdésében foglaltaktól eltérően a 2024–2026. üzleti évek vonatkozásában a vállalkozás és az 1. § (3) bekezdése szerinti szervezet a 2024-ben, a 2025-ben és a 2026-ban kezdődő üzleti év fenntarthatósági célú átvilágítási kötelezettségeinek teljesítéséről szóló ESG beszámolóját és az ahhoz kapcsolódó ESG tanúsítványt nem küldi meg a Hatóság részére.
+
+(4) A 2024-ben, a 2025-ben és a 2026-ban kezdődő üzleti év fenntarthatósági célú átvilágítási kötelezettségeinek teljesítése során
+
+- a) a vállalkozás és az 1. § (3) bekezdése szerinti szervezet
+  - aa) nem köteles a 3. § (2) bekezdése szerint eljárni,
+  - ab) – a 23. § (2) bekezdésében foglaltaktól eltérően – nem köteles a fenntarthatósági célú átvilágítási kötelezettségeinek teljesítéséről szóló ESG beszámolót a honlapján ingyenesen és nyilvánosan hozzáférhetővé tenni,
+- b) a vállalkozás a 18. § (1) bekezdésétől eltérően az elkészített társadalmi felelősségvállalási stratégiáját nem köteles a honlapján nyilvánosan hozzáférhető módon közzétenni.
+
+(5) A 27. § (4) bekezdésétől eltérően 2027. június 30-ig a mikro- vagy kisvállalkozástól ESG adatszolgáltatás nem kérhető, valamint a mikro- vagy kisvállalkozás ESG adatszolgáltatásra sem szerződésben, sem írásbeli nyilatkozatban nem vállalhat kötelezettséget.
+
+(6) A 27. § (4) bekezdésétől eltérően 2027. június 30-ig a középvállalkozás ESG adatszolgáltatásra sem szerződésben, sem írásbeli nyilatkozatban nem vállalhat kötelezettséget.
+
+(7) A közbeszerzésekről szóló 2015. évi CXLIII. törvény 132. § (1) bekezdése szerinti szerződéses feltételek meghatározása során
+
+- a) első alkalommal a 2026-ban kezdődő üzleti év fenntarthatósági célú átvilágítási kötelezettségeinek teljesítéséről szóló ESG beszámoló, valamint a hozzá kapcsolódó ESG tanúsítvány vehető figyelembe, valamint
+- b) az ESG beszámoló és a hozzá kapcsolódó tanúsítvány figyelembevételére a 2027. augusztus 31. napját követően megindított közbeszerzési eljárásokban kerülhet sor.
 
 #### 24. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -901,5 +935,37 @@ készíti el és teszi közzé.
 #### 103. §
 
 ### 1. melléklet a 2023. évi CVIII. törvényhez
+
+#### Az 1. § (1) bekezdés b) pontja szerinti besorolást megalapozó, a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere szerinti ágazatok
+
+|  | A |
+| --- | --- |
+| 1 | A Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere szerinti ágazatok |
+| 2 | 20 Vegyi anyag, termék gyártása |
+| 3 | 21 Gyógyszergyártás |
+| 4 | 22 Gumi-, műanyag termék gyártása |
+| 5 | 23 Nemfém ásványi termék gyártása |
+| 6 | 24 Fém alapanyag gyártása |
+| 7 | 25 Fémfeldolgozási termék gyártása |
+| 8 | 26 Számítógép, elektronikai, optikai termék gyártása |
+| 9 | 27 Villamos berendezés gyártása |
+| 10 | 28 Gép, gépi berendezés gyártása |
+| 11 | 29 Közúti jármű gyártása |
+| 12 | 30 Egyéb jármű gyártása |
+| 13 | 31 Bútorgyártás |
+| 14 | 32 Egyéb feldolgozóipari tevékenység |
+| 15 | 33 Ipari gép, berendezés, eszköz javítása, karbantartása, üzembe helyezése |
+| 16 | 35 Villamosenergia-, gáz-, gőzellátás, légkondicionálás |
+| 17 | 46 Nagykereskedelem |
+| 18 | 47 Kiskereskedelem |
+| 19 | 49 Szárazföldi, csővezetékes szállítás |
+| 20 | 50 Vízi szállítás |
+| 21 | 51 Légi szállítás |
+| 22 | 61 Távközlés |
+| 23 | 62 Információtechnológiai szolgáltatás |
+| 24 | 63 Számítástechnikai infrastruktúra, adatfeldolgozás, tárhelyszolgáltatás és egyéb információs szolgáltatási tevékenységek |
+| 25 | 64 Pénzügyi szolgáltatás (kivéve: biztosítási, nyugdíjpénztári tevékenység) |
+| 26 | 65 Biztosítás, viszontbiztosítás, nyugdíjalapok (kivéve: kötelező társadalombiztosítás) |
+| 27 | 66 Pénzügyi, biztosítási kiegészítő tevékenységek |
 
 ### 2. melléklet a 2023. évi CVIII. törvényhez

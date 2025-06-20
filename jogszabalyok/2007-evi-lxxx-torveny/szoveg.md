@@ -1864,6 +1864,7 @@ kezeli.
 - p) a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendeletben meghatározott Felelős Hatóság a Menekültügyi, Migrációs és Integrációs Alap által finanszírozott intézkedésekben résztvevőkről az Európai Parlament és a Tanács 514/2014/EU Rendelete 25. cikk (1) bekezdés a) pontjában meghatározott egyéni szintű nyomonkövetés, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében,
 - q) a konzuli szolgálat
 - r) a közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság
+- s) a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet által meghatározott Belügyi Alapok irányító hatósága (a továbbiakban: Irányító Hatóság) a támogatások felhasználása ellenőrizhetőségének biztosítása, valamint az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 72. cikk (1) bekezdés e) pontjában meghatározott feladatoknak a 42. cikk (4) bekezdésének megfelelő ellátása érdekében
 
 igényelhetnek adatot.
 
@@ -1945,9 +1946,9 @@ hatósági eljárás lefolytatása érdekében adhatja át.
 
 ### A Menekültügyi, Migrációs és Integrációs Alappal összefüggő nyilvántartás
 
-89/A. § (1) A Menekültügyi, Migrációs és Integrációs Alap (a továbbiakban: Alap) által finanszírozott intézkedésekben résztvevőkről az 514/2014/EU európai parlamenti és tanácsi rendelet 25. cikk (1) bekezdés a) pontjában meghatározott Felelős Hatóság a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében nyilvántartást vezet.
+89/A. § (1) A 2014–2020 programozási időszakban a Menekültügyi, Migrációs és Integrációs Alap (a továbbiakban: Alap) által finanszírozott intézkedésekben résztvevőkről az 514/2014/EU európai parlamenti és tanácsi rendelet 25. cikk (1) bekezdés a) pontjában meghatározott Felelős Hatóság a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében nyilvántartást vezet.
 
-(2) A nyilvántartás tartalmazza az Alapnak a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendelet szerinti célcsoportjába tartozó személyek alábbi adatait, amelyet az Alap által finanszírozott kedvezményezettek szolgáltatnak:
+(2) A nyilvántartás tartalmazza az Alap célcsoportjába tartozó személyek alábbi adatait, amelyet az Alap által finanszírozott kedvezményezettek szolgáltatnak:
 
 - a) családi és utónév,
 - b) születési hely,
@@ -1966,6 +1967,28 @@ hatósági eljárás lefolytatása érdekében adhatja át.
 (5) A (2) bekezdés szerinti adatokat az Alap a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak végét követő tíz évig kezeli.
 
 (6) A Felelős Hatóság (1)–(5) bekezdése szerinti nyilvántartás-vezetésére az Ákr. rendelkezéseit kell alkalmazni.
+
+89/B. § (1) A 2021–2027 programozási időszakban az Alap által finanszírozott intézkedésekben résztvevőkről az Irányító Hatóság a támogatások felhasználása ellenőrizhetőségének biztosítása, valamint az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 72. cikk (1) bekezdés e) pontjában meghatározott feladatoknak az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 42. cikk (4) bekezdésének megfelelő ellátása érdekében nyilvántartást vezet.
+
+(2) A nyilvántartás tartalmazza az Alap célcsoportjába tartozó személyek alábbi adatait, amelyet az Alap által finanszírozott kedvezményezettek szolgáltatnak:
+
+- a) családi és utónév,
+- b) születési hely,
+- c) születési idő,
+- d) nem,
+- e) állampolgárság,
+- f) menekült, oltalmazott, menedékes, befogadott vagy menedékkérő jogállása,
+- g) ha a célcsoportba tartozó személy különleges bánásmódot igényel, illetve amennyiben e célcsoportba tartozó személy kísérő nélküli kiskorú, ennek tényét is,
+- h) a célcsoportba tartozó személy Magyarországon kiállított okmányának száma,
+- i) ha a célcsoportba tartozó személy áttelepítés vagy áthelyezés keretében került átvételre, ennek tényét.
+
+(3) A (2) bekezdés alapján nyilvántartásba vett adatokba az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
+
+(4) A nyilvántartásban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+
+(5) A (2) bekezdés szerinti adatokat az Alap a 2021–2027 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak végét követő tíz évig kezeli.
+
+(6) Az Irányító Hatóság (1)–(5) bekezdés szerinti nyilvántartás-vezetésére az Ákr. rendelkezéseit kell alkalmazni.
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -2115,3 +2138,4 @@ az Alaptörvény XIV. cikk (5) bekezdése alapján sarkalatosnak minősül.
 - e) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet;
 - f) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet.
 - g) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet.
+- h) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alap Pluszra, a Kohéziós Alapra, az Igazságos Átmenet Alapra és az Európai Tengerügyi, Halászati és Akvakultúra-alapra vonatkozó közös rendelkezések, valamint az előbbiekre és a Menekültügyi, Migrációs és Integrációs Alapra, a Belső Biztonsági Alapra és a határigazgatás és a vízumpolitika pénzügyi támogatására szolgáló eszközre vonatkozó pénzügyi szabályok megállapításáról szóló, 2021. június 24-i (EU) 2021/1060 európai parlamenti és tanácsi rendelet.

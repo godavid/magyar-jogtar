@@ -14,7 +14,7 @@ Az Országgyűlés a magyar állam, Budapest Főváros Önkormányzata és Budap
 
 az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelők vagyonkezelői jogának egyidejű megszűnésével, és
 
-- b) a Budapest XIV. kerület, 29766/4 helyrajzi számú ingatlan az egyes kulturális tárgyú törvények módosításáról szóló 2018. évi CVI. törvény hatálybalépésének napján, e törvény erejénél fogva ingyenesen a vagyonkezelő vagyonkezelésébe kerül az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelő vagyonkezelői jogának egyidejű megszűnésével.
+- b)
 
 (1b) A Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását, valamint a Magyar Állami Operaház Andrássy úti épülete és a kapcsolódó létesítmények felújítását és korszerűsítését célzó beruházások (a továbbiakban együtt: Opera beruházások) megvalósítása érdekében
 
