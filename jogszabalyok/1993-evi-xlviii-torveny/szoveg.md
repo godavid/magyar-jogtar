@@ -139,7 +139,7 @@ megtiltja az adott tevékenység folytatását.
 - d) földgáz tárolására alkalmas földtani szerkezetek kutatását, kiképezését és tárolásra történő hasznosítását, ha ez a környezetet nem veszélyezteti,
 - e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld alatti gáztároló létesítményei létesítését, használatba vételét, elbontását, illetőleg felhagyását,
 - f) a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazását, a cseppfolyós propán-, bután gázok és ezek elegyei töltő és tároló létesítményeinek, valamint elosztóvezetékeinek létesítését, használatba vételét és elbontását, valamint felhagyását,
-- g) a termálvíz kitermeléssel történő geotermikus energia kutatását, kinyerését, hasznosítását, az elsődlegesen gyógyászati vagy elsődlegesen mezőgazdasági célú termálvíz kitermelés kivételével,
+- g) nyílt területen, valamint a 8. § (2) bekezdése szerinti esetben a termálvíz kitermeléssel történő geotermikus energia kutatását, kinyerését, hasznosítását, az elsődlegesen gyógyászati vagy elsődlegesen mezőgazdasági célú termálvíz kitermelés kivételével,
 - h) a bányászati hulladék kezelését,
 - i) a polgári robbantási tevékenységet és a polgári felhasználású robbanóanyag forgalmazását,
 - j) a bányafelügyelet hatáskörébe tartozó nyomástartó berendezések és rendszerek engedélyköteles létesítését, javítását, átalakítását, használatbavételét,
@@ -237,19 +237,20 @@ tartozása van, vagy
 
 ## II. RÉSZ — A KONCESSZIÓ
 
-8. § A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv belföldi vagy külföldi természetes személlyel vagy átlátható szervezettel kötött koncessziós szerződéssel meghatározott időre átengedheti:
+8. § (1) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv belföldi vagy külföldi természetes személlyel vagy átlátható szervezettel kötött koncessziós szerződéssel meghatározott időre átengedheti:
 
 - a) zárt területen
   - aa) az ásványi nyersanyagok kutatását, feltárását, kitermelését,
-  - ab)
-  - ac)
+  - ab) a geotermikus energia kutatását, kinyerését és hasznosítását,
 - b) a kőolaj, a kőolajtermék, továbbá – a földgáz kivételével – az egyéb szénhidrogén-gáz szállítóvezetékek létesítését és üzemben tartását.
+
+(2) A 21/A. § (2a) bekezdése szerinti geotermikus energia kutatást a bányafelügyelet az (1) bekezdés a) pont ab) alpontja szerinti zárt területen is engedélyezheti. A bányafelügyelet a 21/A. § (2a) bekezdése szerinti kutatási engedély iránti kérelmet elutasítja, ha a kérelem szerinti kutatási tevékenység a koncesszió jogosultjának a koncessziós szerződés szerinti kutatási tevékenységének elvégzését, vagy a geotermikus energia kinyerését és hasznosítását jelentős mértékben korlátozná vagy kizárná.
 
 ### A koncessziós területek kijelölése
 
 9. § (1) Koncessziós pályázatra kijelölhető területként a Hatóság elnökének rendeletében zárt területté nyilvánított területet lehet figyelembe venni.
 
-(2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata kedvezőnek ígérkezik.
+(2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata vagy a geotermikus energia kinyerése energetikai célra kedvezőnek ígérkezik.
 
 (2a) A (2) bekezdés szerinti érzékenységi és terhelhetőségi vizsgálatot a bányafelügyelet folytatja le. A vizsgálatban a Hatóság elnökének rendelete szerinti adatszolgáltatási és véleményezési körben közreműködik
 
@@ -275,7 +276,7 @@ tartozása van, vagy
 
 (2d) Ha a zárt terület elhelyezkedése alapján több közreműködő szervezet illetékessége is megállapítható, az a közreműködő szervezet jár el, amelynek illetékességi területén a zárt terület legnagyobb része található.
 
-(3) Ivó-, ásvány- és gyógyvízcélú hasznosításra már igénybe vett vízadók, víztestek zárt területként nem jelölhetők ki. Nem jelölhető ki zárt terület akkor sem, ha az már meglévő termálvíz-hasznosítást veszélyeztetne.
+(3) Ivó-, ásvány- és gyógyvízcélú hasznosításra már igénybe vett vízadók, víztestek koncessziós pályázatban koncessziós területként akkor jelölhetők ki, ha az érzékenységi és terhelhetőségi vizsgálat eredménye alapján a meglévő vízhasználat nem veszélyeztetett. Nem jelölhető ki koncessziós terület akkor sem, ha az az érzékenységi és terhelhetőségi vizsgálat eredménye szerint már meglévő termálvíz-hasznosítást veszélyeztetne.
 
 (4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy is tehet javaslatot. A bányafelügyelet a közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe.
 
@@ -285,7 +286,7 @@ tartozása van, vagy
 
 (2) A pályázati kiírásnak a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakra is figyelemmel, tartalmaznia kell:
 
-- a) a pályázatban meghirdetett terület vagy térrész meghatározását annak feltüntetésével, hogy a területen, vagy a térrészben harmadik személy rendelkezik-e jogosultsággal ásványi nyersanyag bányászatára, vagy az e törvény hatálya alá tartozó egyéb tevékenység gyakorlására,
+- a) a pályázatban meghirdetett terület vagy térrész meghatározását annak feltüntetésével, hogy a területen, vagy a térrészben harmadik személy rendelkezik-e jogosultsággal ásványi nyersanyag bányászatára, geotermikus energia kutatására, kinyerésére, hasznosítására vagy az e törvény hatálya alá tartozó egyéb tevékenység gyakorlására,
 - b) a koncessziós tevékenység szakmai követelményeit, valamint az érzékenységi és terhelhetőségi vizsgálat eredménye alapján meghatározott követelményeket, és a követelmények teljesítéséhez szükséges biztosíték-adási kötelezettséget,
 - c) a benyújtandó kutatási munkaprogram tartalmi követelményeit,
 - d) a pályázó gazdálkodási, pénzügyi helyzetének bemutatására vonatkozó követelményre, a részvételi díjra vonatkozó tájékoztatást, valamint
@@ -331,13 +332,11 @@ tartozása van, vagy
 
 ### A kutatás, feltárás és kitermelés
 
-14. § (1) A koncesszió időtartamán belül a tervezett ásványinyersanyag-kutatási időszak 4 évnél hosszabb nem lehet. A kutatási időszak legfeljebb egy alkalommal, nem hagyományos eredetű szénhidrogén esetében két alkalommal, az eredeti kutatási időszak felével meghosszabbítható.
+14. § A koncesszió időtartamán belül a tervezett ásványinyersanyag-kutatási, illetve geotermikusenergia-kutatási időszak – a munkaprogramban tervezett kutatási tevékenység időszükséglete alapján – 4 évnél hosszabb nem lehet. A kutatási időszak legfeljebb egy alkalommal, nem hagyományos eredetű szénhidrogén és geotermikusenergia-kutatás esetében két alkalommal, az eredeti kutatási időszak felével meghosszabbítható. A kutatási időszakba nem számít be a kutatás megkezdéséhez szükséges hatósági engedélyek megszerzéséhez szükséges hatósági eljárások, valamint a bányavállalkozó által lefolytatott közbeszerzési eljárás időtartama.
 
-(2)
+15. § (1) Ha a koncesszió jogosultja a szerződésben meghatározott határidőn belül, legkésőbb azonban a bányatelek megállapításától számított öt éven belül az üzemszerű kitermelést, illetve a geotermikus védőidom kijelölésétől számított 3 éven belül az energetikai célú hasznosítást nem kezdi meg, a szerződésben meghatározott térítést köteles megfizetni. Ha a koncesszió jogosultja a térítésfizetési kötelezettségnek nem tesz eleget, a koncesszió megszűnik.
 
-15. § (1) Ha a koncesszió jogosultja a szerződésben meghatározott határidőn belül, legkésőbb azonban a bányatelek megállapításától számított öt éven belül az üzemszerű kitermelést nem kezdi meg, a szerződésben meghatározott térítést köteles megfizetni. Ha a térítésfizetési kötelezettségnek nem tesz eleget, a koncesszió megszűnik.
-
-(2) Megszűnik a koncesszió, ha a koncesszió jogosultja a bányatelek megállapításától számított 10 éven belül az üzemszerű kitermelést nem kezdi meg.
+(2) Megszűnik a koncesszió, ha a koncesszió jogosultja a bányatelek megállapításától számított 10 éven belül az üzemszerű kitermelést, vagy a geotermikus védőidom megállapításától számított 6 éven belül az energetikai célú hasznosítást nem kezdi meg.
 
 ### Szénhidrogének szállítása és föld alatti tárolása
 
@@ -373,9 +372,13 @@ tartozása van, vagy
 
 ### A bányászati koncessziós tevékenység gyakorlása
 
-19. § (1) A koncesszió jogosultja a bányászati tevékenységet a 2. §-ban előírt követelmények teljesítésével és a III. RÉSZ-ben meghatározott általános szabályok szerint végzi. Ha a koncesszió megszűnik, a bányatelket megállapító határozat – a 12. § (3) bekezdésében foglalt eset kivételével –, továbbá a III. RÉSZ szerint megszerzett hatósági engedélyek hatályukat vesztik.
+19. § (1) A koncesszió jogosultja a bányászati tevékenységet a 2. §-ban előírt követelmények teljesítésével és a III. RÉSZ-ben meghatározott általános szabályok szerint végzi. Ha a koncesszió megszűnik, a bányatelket megállapító, illetve geotermikus védőidomot kijelölő határozat – a 12. § (3) bekezdésében foglalt eset kivételével –, továbbá a III. RÉSZ szerint megszerzett hatósági engedélyek hatályukat vesztik.
 
 (2) Nem veszti hatályát a III. RÉSZ szerint megszerzett hatósági engedély, ha az engedélyes a koncesszió megszűnése előtt igazolja, hogy a bányafelügyelet hatáskörébe tartozó sajátos építményt vagy a bányászati hulladékkezelő létesítményt a koncesszión kívül más bányászati tevékenységgel összefüggésben is használják vagy üzemeltetik.
+
+(3) A koncessziós szerződés alapján végzett geotermikus energia kutatására, kinyerésére, hasznosítására alkalmazni kell a 21/A. § (8) bekezdését, a 21/B. § (1)–(3), (4) és (8) bekezdését, valamint a 21/C. § (6) bekezdését.
+
+(4) A koncesszió jogosultja a koncessziós szerződés alapján, a geotermikus védőidom kijelölését követően jogosult a geotermikus energia kinyerésére és hasznosításra. A bányafelügyelet a geotermikus védőidom kijelölése során dönt a 41. § (7) bekezdése szerinti biztosítékról is.
 
 ## III. RÉSZ — A BÁNYÁSZATI TEVÉKENYSÉG GYAKORLÁSÁNAK ÁLTALÁNOS SZABÁLYAI
 
@@ -508,7 +511,7 @@ különbözőségének figyelembevételével koncessziós területenként állap
 
 ### Geotermikus energia kutatása és hasznosítása
 
-21/A. § (1) Geotermikus energia kutatását a bányafelügyelet engedélye alapján lehet végezni.
+21/A. § (1) Geotermikus energia kutatását – a 22. § (1) bekezdés kivételével – a bányafelügyelet engedélye alapján lehet végezni.
 
 (2) A bányavállalkozó a kutatási engedély alapján a kutatási területen kizárólagosan jogosult – a (2a) bekezdés kivételével – a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, továbbá a geotermikus védőidom kijelölésének és a 21/C. § (1) bekezdése szerinti szerződés megkötésének kezdeményezésére.
 
@@ -521,7 +524,7 @@ különbözőségének figyelembevételével koncessziós területenként állap
 
 (2b) Egymással határos ingatlanegyütteshez tartozó ingatlanoknak kell tekintetni azokat az ingatlanokat is, amelyeket legfeljebb egy, közterületnek minősülő ingatlan választ el egymástól.
 
-(2c) A bányafelügyelet a (2a) bekezdés szerinti kutatási engedély iránti kérelmet elutasítja, ha a kérelem szerinti kutatási tevékenység a más kutatási engedélyében szereplő kutatási tevékenység elvégzését vagy a 21/C. § (1) bekezdése szerinti szerződés szerinti hasznosítást kizárná.
+(2c) A bányafelügyelet a (2a) bekezdés szerinti kutatási engedély iránti kérelmet elutasítja, ha a kérelem szerinti kutatási tevékenység a már kiadott kutatási engedélyben, vagy a koncessziós szerződésben szereplő kutatási tevékenység elvégzését, továbbá a koncessziós szerződés szerinti hasznosítást, vagy a 21/C. § (1) bekezdése szerinti szerződés szerinti hasznosítást jelentős mértékben korlátozná vagy kizárná.
 
 (2d) A (2a) bekezdés szerinti kérelemre az általános szabályokat kell alkalmazni.
 
@@ -555,7 +558,7 @@ különbözőségének figyelembevételével koncessziós területenként állap
 
 21/B. § (1) Geotermikus energiát kinyerni – a (6) bekezdés szerinti eset kivételével – a földkéreg e célra elhatárolt részéből (geotermikus védőidom) szabad.
 
-(2) A geotermikus védőidomot kérelemre a bányafelügyelet jelöli ki. Geotermikus védőidomok nem lehetnek átfedésben, kivéve a 21/A. § (2a) bekezdése szerinti hasznosításhoz kapcsolódó geotermikus védőidommal történő átfedést. Ivó-, ásvány- és gyógyvízcélú hasznosításra már igénybevett vízadók, víztestek geotermikus védőidomként nem jelölhetők ki. Nem jelölhető ki geotermikus védőidom akkor sem, ha az már meglévő termálvíz-hasznosítást veszélyeztetne.
+(2) A geotermikus védőidomot kérelemre a bányafelügyelet jelöli ki. Geotermikus védőidomok nem lehetnek átfedésben, kivéve a 21/A. § (2a) bekezdése szerinti hasznosításhoz kapcsolódó geotermikus védőidommal történő átfedést. Ivó-, ásvány- és gyógyvízcélú hasznosításra már igénybevett vízadók, víztestek geotermikus védőidomként akkor jelölhetők ki, ha a megállapítandó védőidomból történő termálvíz kitermelés a meglévő vízhasználatot nem veszélyezteti. Nem jelölhető ki geotermikus védőidom akkor sem, ha az már meglévő termálvíz-hasznosítást veszélyeztetne. A geotermikus védőidom a kutatási területen belül állapítható meg.
 
 (3) Geotermikus védőidomként olyan térrészt lehet kijelölni, amely adott technológia alkalmazása mellett legalább huszonöt évig biztosítja a kinyerni tervezett geotermikus energia mennyiségét.
 
@@ -573,7 +576,7 @@ különbözőségének figyelembevételével koncessziós területenként állap
 
 (9) A bányafelügyelet törli a nyilvántartásából a kijelölt geotermikus védőidomot, ha a bányavállalkozóval a 21/C. § (1) bekezdése szerinti szerződés nem jön létre.
 
-21/C. § (1) Geotermikus energiát energetikai célra kinyerni és hasznosítani – a 21/B. § (6) bekezdése szerinti eset kivételével – a Hatósággal – a miniszter egyetértésével – kötött szerződés alapján lehet. A bányavállalkozó a szerződéskötés iránti kérelmet a geotermikus védőidomot kijelölő határozat véglegessé válásától számított hat hónapos jogvesztő határidőn belül nyújthatja be. A határidő elmulasztása esetén a bányavállalkozó kutatási engedélye megszűnik.
+21/C. § (1) Geotermikus energiát energetikai célra kinyerni és hasznosítani – a 21/B. § (6) bekezdése és a 22. § (1) bekezdése szerinti eset kivételével – a Hatósággal – a miniszter egyetértésével – kötött szerződés alapján lehet. A bányavállalkozó a szerződéskötés iránti kérelmet a geotermikus védőidomot kijelölő határozat véglegessé válásától számított hat hónapos jogvesztő határidőn belül nyújthatja be. A határidő elmulasztása esetén a bányavállalkozó kutatási engedélye megszűnik.
 
 (2) A szerződés megkötésének feltétele, hogy a bányavállalkozó
 
@@ -623,23 +626,29 @@ különbözőségének figyelembevételével koncessziós területenként állap
 
 ### A kutatás engedélyezése
 
-22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag kutatására a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási engedélyt ad.
+22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia kutatására a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási engedélyt ad.
 
 (2) Az adományozott kutatási jog vagy a kutatási engedély a kutatási területen a bányavállalkozónak kizárólagos jogot ad az ásványinyersanyag-kutatási műszaki üzemi terv benyújtására, a jóváhagyás kezdeményezésére és az ásványi nyersanyag jóváhagyott kutatási műszaki üzemi terv alapján végzett kutatására és elfogadott kutatási zárójelentés alapján a bányatelek megállapításának kezdeményezésére.
 
-(3) A kutatási tevékenység az (1) bekezdésben meghatározott feltételen túlmenően csak jóváhagyott kutatási műszaki üzemi terv alapján kezdhető meg. A kutatási műszaki üzemi tervet a bányafelügyelet hagyja jóvá.
+(3) A kutatási tevékenység az (1) bekezdésben meghatározott feltételen túlmenően – a geotermikus energia kutatására adományozott kutatási jog kivételével – csak jóváhagyott kutatási műszaki üzemi terv alapján kezdhető meg. A kutatási műszaki üzemi tervet a bányafelügyelet hagyja jóvá.
 
 (4) A kutatási terület kialakítására és mértékére vonatkozó szabályokat a Hatóság elnöke rendeletben állapítja meg.
 
 (5) A tervezett kutatási időszakra a koncessziónál előírt határidőt a kutatás engedélyezése esetében is alkalmazni kell.
 
-(6) A koncesszió jogosultja a szerződésben, a bányászatra hatósági engedéllyel rendelkező pedig az engedélyben meghatározott területen és feltételek szerint kizárólagosan jogosult kutatási munkaprogramjának végrehajtására. Ennek keretében jogosult az ásványi nyersanyagok fellelhetőségére, elhelyezkedésére, mennyiségének és minőségének a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, kutató vágatok és aknák létesítésére, valamint a bányatelek megállapításának a kezdeményezésére.
+(6) A koncesszió jogosultja a szerződésben, a bányászatra hatósági engedéllyel rendelkező az engedélyben meghatározott területen és feltételek szerint kizárólagosan jogosult kutatási munkaprogramjának végrehajtására. A koncesszió jogosultja vagy a bányászatra hatósági engedéllyel rendelkező a kutatási munkaprogramjának végrehajtása keretében jogosult az ásványi nyersanyagok fellelhetőségére, elhelyezkedésére, mennyiségének és minőségének, illetve a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, kutató vágatok és aknák létesítésére, valamint a bányatelek megállapításának, illetve a geotermikus védőidom kijelölésének a kezdeményezésére.
+
+(6a) A koncesszió jogosultja az engedélyezett kutatási időszak utolsó napjától számított három hónapos jogvesztő határidőn belül – kutatási zárójelentés benyújtásával – kérheti a geotermikus védőidom megállapítását. A határidő elmulasztása esetén a koncesszió jogosultjának a kutatási joga megszűnik.
+
+(6b) A koncesszió jogosultja a kutatási időszakon belül is kérheti geotermikus védőidom kijelölését kutatási rész-zárójelentés benyújtásával. A kutatási időszakon belül több geotermikus védőidom is kijelölhető kutatási rész-zárójelentés alapján.
+
+(6c) Több kutatási rész-zárójelentés benyújtása esetén legkésőbb az engedélyezett kutatási időszak utolsó napjától számított három hónapon belül a benyújtott rész-zárójelentéseknek a teljes kutatási területet le kell fedniük. Ennek elmaradása esetén a koncesszió jogosultjának kutatási joga megszűnik.
 
 (7) Ha a bányavállalkozó a kutatási tevékenység végzése során olyan ásványi nyersanyagra bukkan, amelyre jogosultsága nem terjed ki, az előfordulást köteles bejelenteni a bányafelügyeletnek, és kezdeményezheti a kutatási engedélynek erre az ásványi nyersanyagra történő kiterjesztését. A kutatási engedély nem terjeszthető ki építőipari nyers- és alapanyagra, továbbá olyan ásványi nyersanyagra, amelynek szempontjából a kutatási terület zártnak minősül.
 
-(8) Az (1) bekezdésben foglaltak alapján adományozott vagy engedélyezett kutatási jog megszűnik, ha a jogosult a kutatási jogot adományozó koncessziós szerződés hatálybalépésétől, illetve a kutatást engedélyező határozat véglegessé válásától számított 6 hónapon belül a kutatási műszaki üzemi terv jóváhagyását a bányafelügyeletnél nem kérelmezi, vagy a műszaki üzemi terv jóváhagyása iránti kérelmet a bányafelügyelet véglegessé vált határozatában elutasította..
+(8) Az (1) bekezdésben foglaltak alapján adományozott vagy engedélyezett kutatási jog – a geotermikus energia kutatás engedélyezésére vonatkozó koncesszió kivételével – megszűnik, ha a jogosult a kutatási jogot adományozó koncessziós szerződés hatálybalépésétől, illetve a kutatást engedélyező határozat véglegessé válásától számított hat hónapon belül a kutatási műszaki üzemi terv jóváhagyását a bányafelügyeletnél nem kérelmezi, vagy a műszaki üzemi terv jóváhagyása iránti kérelmet a bányafelügyelet véglegessé vált határozatában elutasította.
 
-(9) Ha a bányavállalkozó a munkaprogramban vagy a jóváhagyott műszaki üzemi tervben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a kutatási engedélyt a bányafelügyelet visszavonja vagy a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszternél vagy központi kormányzati igazgatási szervnél kezdeményezi a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását.
+(9) Ha a bányavállalkozó a munkaprogramban vagy a jóváhagyott műszaki üzemi tervben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a kutatási engedélyt a bányafelügyelet visszavonja vagy a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszternél vagy központi kormányzati igazgatási szervnél kezdeményezi a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását. A bányafelügyelet a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását a bányavállalkozó mulasztását megállapító véglegessé vált határozatával kezdeményezi.
 
 (10) Ha a kutatási jogadomány vagy a kutatási engedély olyan, részben vagy egészben fedő vagy magában foglaló földtani szerkezetre vonatkozik, amelyre más bányavállalkozó bányászati jogát már megállapították, a kutatási jogadomány vagy a kutatási engedély jogosítottja köteles tevékenységét a már bányászati joggal rendelkező bányavállalkozóval összehangolni, és az erre vonatkozó megállapodást közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba foglalni. A megállapodás létrejöttéhez a bányafelügyelet – e törvény végrehajtására kiadott jogszabályban meghatározott szempontok alapján történő – jóváhagyása szükséges. A felek a megállapodástól a bányafelügyelet hozzájárulásával állhatnak el, azt a bányafelügyelet hozzájárulásával bonthatják fel, szüntethetik meg, mondhatják fel vagy módosíthatják.
 
@@ -655,7 +664,7 @@ különbözőségének figyelembevételével koncessziós területenként állap
 
 (13a) Koncessziós szerződésben adományozott kutatási jog esetén a koncessziós társaság a kutatási terület tekintetében, az elvégzett kutatások alapján, időben eltérően több kutatási rész-zárójelentést is benyújthat. Több kutatási rész-zárójelentés benyújtása esetén is alkalmazni kell a (13) bekezdésben foglalt jogvesztő határidőt azzal, hogy legkésőbb az engedélyezett kutatási időszak utolsó napjától számított 5 hónapon belül a benyújtott rész-zárójelentéseknek a teljes kutatási területet le kell fedniük.
 
-(14) A bányavállalkozó a kutatási területet vagy annak egy részét a bányatelek-megállapítási kérelem benyújtásáig visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, a környezetvédelmi, a földvédelmi és talajvédelmi kötelezettségeket teljesítették. A visszaadott területen a határozat véglegessé válásának napján az adományozott kutatási joga megszűnik vagy a jogosult kutatási engedélye hatályát veszti.
+(14) A bányavállalkozó a kutatási területet vagy annak egy részét a bányatelek-megállapítási kérelem, vagy geotermikus energia kutatására vonatkozó koncesszió esetén a geotermikus védőidom kijelölési kérelem benyújtásáig visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, a környezetvédelmi, a földvédelmi és talajvédelmi kötelezettségeket teljesítették. A visszaadott területen a határozat véglegessé válásának napján az adományozott kutatási joga megszűnik vagy a jogosult kutatási engedélye hatályát veszti.
 
 ### A szénhidrogén-kutatás, -feltárás és -kitermelés engedélyezésének sajátos szabályai
 
@@ -2236,7 +2245,7 @@ bányahatósági felügyelete
 - 21. „Meddőhányó”: az ásványi nyersanyag kitermelése során vagy azzal együtt kitermelt és attól leválasztott szilárd meddőanyagok felhalmozott tömege.
 - 22. „Szénhidrogén-szállítóvezeték” (távvezeték): tartozékaival és alkotórészeivel együtt az a csővezeték, amely a földgázt, kőolajat vagy ezek termékeit a termelés (előkészítés, gyártás, tárolás) kiadó pontjától (kőolaj, földgáz-előkészítő üzem, kőolaj-finomító, gázfeldolgozó üzem), indító állomásától, illetve az országhatár átlépésétől a felhasználás (lakótelepülés, ipari létesítmény), feldolgozás átadó állomásáig, illetve az országhatárig szállítja. A szállítóvezeték alkotórészei: – indító- és átadóállomás, – a szállítóvezeték üzemeltetését szolgáló technológiai létesítmények (nyomásfokozó, töltő, lefejtő, lefúvató, szakaszoló, tisztító állomások) és a nyomvonal jelzésére szolgáló berendezés, – a szállítóvezeték üzemeltetését, irányítását, ellenőrzését szolgáló létesítmények és berendezések (távfelügyeleti, hírközlési, korrózióvédelem) a távadat átvitelt biztosító szolgáltatás hozzáférési pontjáig. A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a szállítóvezeték tartozékai.
 - 23. „Energetikai és ipari eredetű szén-dioxid”: a fosszilis ásványi nyersanyagok termikus bomlása és fosszilis energiahordozók elégetése során keletkező szén-dioxid.
-- 24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt.
+- 24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése vagy geotermikus energia kutatása, kinyerése és hasznosítása céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt.
 - 25. „Növelt hatékonyságú művelési eljárás”: olyan elsődleges és másodlagos művelési eljárásnak nem minősülő többletszénhidrogén-kihozatali eljárás, amely a szénhidrogéntelítettség csökkentését eredményezi, és ezzel megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető szénhidrogén mennyiséget.
 - 25a. „Elsődleges művelési eljárás”: rétegenergiával, külső energia alkalmazása nélkül történő szénhidrogén kitermelési eljárás.
 - 25b. „Másodlagos művelési eljárás”: olyan többletszénhidrogén-kitermelésére irányuló művelet, amely kívülről alkalmazott energiatárolóba juttatásával a korábbi termelés során lecsökkent nyomás további termeléshez szükséges mértékű megemelését és fenntartását célozza, víz, szén-dioxid- vagy szénhidrogén-gáz besajtolásával.
@@ -2604,6 +2613,10 @@ rendeletben történő megállapítására.
 (2) Ha a Módtv.11.-gyel megállapított 30/A. § hatálybalépésekor a 30/A. § (1) bekezdése szerinti szüneteltetési ok már fennáll, a bányavállalkozó 2025. január 31. napjáig nyújtja be a szüneteltetési műszaki üzemi terv jóváhagyása iránt kérelmet.
 
 (3) E törvénynek a Módtv.11.-gyel megállapított 41. § (3d) bekezdését a hatálybalépésekor fennálló tényekre, jogviszonyokra és a folyamatban lévő ügyekben is alkalmazni kell.
+
+50/L. § (1) Ha a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv12.) megállapított 8. § (1) bekezdés a) pont ab) alpontja hatálybalépését követően olyan terület zárt területté nyilvánítására kerül sor, amely a bányafelügyelet által kiadott geotermikus kutatási engedélyben lehatárolt kutatási területet is érint, az érintett kutatási terület tekintetében a bányafelügyeleti eljárásokat a Módtv12.-vel megállapított 8. § hatálybalépését megelőző napon hatályos jogszabályi rendelkezések szerint kell lefolytatni.
+
+(2) E törvénynek a Módtv12.-vel módosított 8. §-át, 9. §-át, 14. §-át, 15. §-át, 19. §-át, 21/A. §-át és 22. §-át e rendelkezések hatálybalépését követően meghirdetésre kerülő koncessziós eljárásokra kell alkalmazni.
 
 51. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

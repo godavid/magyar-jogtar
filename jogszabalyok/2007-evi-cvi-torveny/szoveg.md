@@ -129,7 +129,7 @@ gyakorolja.
 17. § (1) Az MNV Zrt.:
 
 - a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
-- b) a tulajdonosi joggyakorlása alá tartozó állami vagyonra vonatkozó nyilvántartás mellett nyilvántartja az egyéb tulajdonosi joggyakorlókra – ideértve a törvénnyel vagy miniszteri rendelettel kijelölt tulajdonosi joggyakorlókat is – rábízott állami vagyont is (a továbbiakban együtt: egységes állami vagyonnyilvántartás), valamint gondoskodik az egységes állami vagyonnyilvántartás vezetéséhez létrehozott informatikai rendszer (a továbbiakban: adatszolgáltatási keretrendszer) és a 22/C. § (2) bekezdése szerinti Országleltár működtetéséről;
+- b) nyilvántartást vezet a tulajdonosi joggyakorlása alá tartozó állami vagyonról, valamint gondoskodik az egységes állami vagyonnyilvántartás érdekében létrehozott informatikai rendszer (a továbbiakban: adatszolgáltatási keretrendszer) és a 22/C. § (2) bekezdése szerinti Országleltár működtetéséről;
 - c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
 - d) a tulajdonosi ellenőrzési szabályzatában meghatározott rendszerességgel ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelőbizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
 - e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli az államot,
@@ -141,7 +141,7 @@ gyakorolja.
 
 (2) Az MNV Zrt. jogszabályokban meghatározott feladatai állami feladatnak minősülnek.
 
-(3) Az állami vagyon feletti tulajdonosi jogokat gyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon adatot szolgáltatnak az egységes állami vagyonnyilvántartás vezetése érdekében az MNV Zrt. részére a rájuk bízott állami vagyonról készített mérlegről, valamint – a nemzetbiztonsági szolgálatok kivételével – a mérleg soraival megegyező, vagyonelemenkénti tételes adatokról (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatás). A nemzetbiztonsági szolgálatok az e törvény végrehajtási rendeletében meghatározottak szerint teljesítik adatszolgáltatási kötelezettségüket.
+(3) Az állami vagyon feletti tulajdonosi jogokat gyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon adatot szolgáltatnak az egységes állami vagyonnyilvántartás érdekében az MNV Zrt. részére a rájuk bízott állami vagyonról készített mérlegről, valamint – a nemzetbiztonsági szolgálatok kivételével – a mérleg soraival megegyező, vagyonelemenkénti tételes adatokról (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatás). A nemzetbiztonsági szolgálatok az e törvény végrehajtási rendeletében meghatározottak szerint teljesítik adatszolgáltatási kötelezettségüket.
 
 18. § (1) Az MNV Zrt. az állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapszabályának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
 
@@ -187,7 +187,7 @@ gyakorolja.
 - o) jogszabály eltérő rendelkezése hiányában az állami vagyon gyarapításával kapcsolatos döntés 100 millió forint értékhatár felett,
 - p) a miniszter által gyakorolt alapvető munkáltatói jogok kivételével a vezérigazgató feletti munkáltatói jogok gyakorlása,
 - q) döntés állami tulajdonú társasági részesedések esetén az Nvtv. 8. § (7) bekezdése szerint a tulajdonosi jogok egészének vagy meghatározott részének gyakorlására vonatkozóan megbízási szerződés megkötéséről, valamint a megbízási szerződés szerinti megbízói előzetes engedélyek kiadásáról, amennyiben a gazdasági társaság saját tőkéjén belül az állami részesedés mértéke eléri vagy meghaladja a 200 millió forintot,
-- r) döntés ingatlan és ingóság ingyenes tulajdonba adásáról a 36. § szerinti esetekben.
+- r) döntés ingatlan és ingóság ingyenes tulajdonba adásáról a 36. § (6)–(8) bekezdése szerinti esetekben.
 
 (5) Az Igazgatóság a (4) bekezdés alapján a hatáskörébe nem tartozó bármely ügyet magához vonhat. A (4) bekezdésben meghatározott döntési hatáskörök jogosultjának megállapításához az értéket (ügyletértéket) vagyonelemenként kell figyelembe venni azzal, hogy amennyiben a döntés több vagyonelem együttes értékesítésére, hasznosítására irányul a döntési hatáskört a vagyonelemek, illetve az azokhoz kapcsolódó ügyletek együttes értéke alapján kell meghatározni.
 
@@ -335,11 +335,11 @@ pénzügyi intézménynél, befektetési szolgáltatónál és központi letétk
 
 (2) Az MNV Zrt. saját vagyonával való gazdálkodása körében a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény. 8. § (2) bekezdése szerinti adósságot keletkeztető ügyletet nem köthet, kezességet, garanciát nem vállalhat.
 
-### Az egységes állami vagyonnyilvántartás vezetéséhez és az Országleltár működtetéséhez kapcsolódó feladatok
+### Az egységes állami vagyonnyilvántartáshoz és az Országleltár működtetéséhez kapcsolódó feladatok
 
-22/B. § (1) Az MNV Zrt. által vezetett egységes állami vagyonnyilvántartás célja az állami vagyonnal való gazdálkodás átláthatóságának, valamint az állami vagyonnal való gazdálkodási tevékenység támogatásának biztosítása. Az egységes állami vagyonnyilvántartás biztosítja az állami vagyon értékének megállapítását, valamint az állami vagyon változásainak folyamatos nyomon követését. Az egységes állami vagyonnyilvántartás tartalmaz valamennyi állami tulajdonú vagyonelemet, a tulajdonosi joggyakorló személyétől függetlenül.
+22/B. § (1) Az egységes állami vagyonnyilvántartás célja az állami vagyonnal való gazdálkodás átláthatóságának, valamint az állami vagyonnal való gazdálkodási tevékenység támogatásának biztosítása. Az egységes állami vagyonnyilvántartás biztosítja az állami vagyon értékének megállapítását, valamint az állami vagyon változásainak folyamatos nyomon követését. Az egységes állami vagyonnyilvántartás tartalmaz valamennyi állami tulajdonú vagyonelemet, a tulajdonosi joggyakorló személyétől függetlenül.
 
-(2) Az MNV Zrt. az egységes állami vagyonnyilvántartás vezetése érdekében – e törvény végrehajtási rendeletében meghatározott módon – jegyzéket vezet a tulajdonosi joggyakorlói adatszolgáltatásra kötelezett tulajdonosi joggyakorlókról (a továbbiakban: tulajdonosi joggyakorlók jegyzéke).
+(2) Az MNV Zrt. az egységes állami vagyonnyilvántartás érdekében – e törvény végrehajtási rendeletében meghatározott módon – jegyzéket vezet a tulajdonosi joggyakorlói adatszolgáltatásra kötelezett tulajdonosi joggyakorlókról (a továbbiakban: tulajdonosi joggyakorlók jegyzéke).
 
 (3) A tulajdonosi joggyakorlói adatszolgáltatásra kötelezett tulajdonosi joggyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon
 
@@ -971,8 +971,10 @@ részére, ha az ingóság nyilvántartási értéke nem éri el az e törvény 
 42/P. § Kivezetésre szánt állami vagyoni körbe tartozó gazdasági társaságok működése során – az állam átmeneti tulajdonosi helyzetére tekintettel – nem kell alkalmazni:
 
 - a) az állami részesedéssel működő gazdálkodó szervezet tisztségviselője, felügyelőbizottságának tagja, vezető állású munkavállalója vagyonnyilatkozat-tételi kötelezettségére, nemzetbiztonsági ellenőrzésére,
-- b) a közérdekű és a közérdekből nyilvános adatok megismerése iránti igények teljesítésére vonatkozó szabályok kivételével, a gazdasági társaság adatainak honlapon történő közzétételére, valamint
+- b) a közérdekű és a közérdekből nyilvános adatok megismerése iránti igények teljesítésére vonatkozó szabályok kivételével, a gazdasági társaság adatainak honlapon történő közzétételére,
 - c) a köztulajdonban álló gazdasági társaságok belső kontrollrendszerének kialakítására
+- d) a felügyelőbizottság kötelező létrehozására, valamint
+- e) a vezető tisztségviselők, felügyelőbizottsági tagok, valamint az Mt. 208. §-ának hatálya alá eső munkavállalók javadalmazása, továbbá a jogviszony megszűnése esetére biztosított juttatások módjának, mértékének elveiről, annak rendszeréről szóló szabályzat megalkotására
 
 vonatkozó szabályokat.
 

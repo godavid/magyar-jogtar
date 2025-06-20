@@ -412,7 +412,7 @@ Isten engem úgy segéljen!”
 
 (4) A kamarai tag könyvvizsgáló az elektronikus aláírással kapcsolatos változásokat haladéktalanul bejelenti a kamara részére.
 
-(5) A kamarai tag könyvvizsgáló kizárólag jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége, vagy az azon kívüli egyéb szakmai szolgáltatások nyújtása során használhatja az elektronikus aláírást. A kamarai tag könyvvizsgáló nem használhatja az elektronikus aláírást és haladéktalanul köteles gondoskodni annak megszüntetéséről, ha
+(5) A kamarai tag könyvvizsgáló nem használhatja az elektronikus aláírást és haladéktalanul köteles gondoskodni annak megszüntetéséről, ha
 
 - a) kamarai tagsága megszűnt, illetve a kamarai nyilvántartásból törölték,
 - b) 26. § alapján a könyvvizsgálói tevékenységét szünetelteti,
@@ -496,7 +496,7 @@ Isten engem úgy segéljen!”
 
 31. § (1) A kamarai tagság megszűnését megállapító határozat véglegessé válása napjával a könyvvizsgálót törölni kell a kamarai tagok nyilvántartásából, egyidejűleg vissza kell vonni könyvvizsgálói igazolványát is, valamint a kamarai tagság megszűnéséről és a megszűnés okáról tájékoztatni kell azon államok illetékes hatóságait, amelyekben a könyvvizsgáló jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult.
 
-(2) A kamarai tagság megszűnésének (1) bekezdés szerinti határozatban foglalt időpontjától kezdődően az érintett természetes személy nem végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
+(2) A kamarai tagság megszűnésének (1) bekezdés szerinti határozatban foglalt időpontjától kezdődően az érintett természetes személy nem végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, és a kamarai tagság megszűnését megelőzően megszerzett 49. § szerinti minősítése érvényét veszti.
 
 (3) A nyilvántartásból történő törlést követően az érintett természetes személy adatait a kamara 10 évig köteles megőrizni külön nyilvántartás keretében, a kamarai tagság megszűnése okának és időpontjának megjelölésével.
 
@@ -642,7 +642,7 @@ Isten engem úgy segéljen!”
 
 (7) A könyvvizsgáló cég nyilvántartásból való törlésére irányuló eljárást mindaddig fel kell függeszteni, ameddig a könyvvizsgáló céggel szemben az e törvény szerinti kamarai minőségellenőrzési eljárás, minőségellenőrzési eljárás, fegyelmi eljárás, illetve a 172/A. § és 178. § szerinti eljárás van folyamatban.
 
-42. § (1) Az engedély megszűnésének 41. § (1) bekezdés, illetve a nyilvántartásból való törlés 41. § (3) bekezdés szerinti határozatban foglalt időpontjától kezdődően a gazdálkodó szervezet (szervezet) nem végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
+42. § (1) Az engedély megszűnésének 41. § (1) bekezdés, illetve a nyilvántartásból való törlés 41. § (3) bekezdés szerinti határozatban foglalt időpontjától kezdődően a gazdálkodó szervezet (szervezet) nem végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, és az engedély megszűnésének 41. § (1) bekezdése, illetve a nyilvántartásból való törlés 41. § (3) bekezdése szerinti határozatban foglalt időpontját megelőzően megszerzett 49. § szerinti minősítés érvényét veszti.
 
 (2) A nyilvántartásból történő törlést követően az érintett gazdálkodó szervezet (szervezet) adatait a kamara 10 évig köteles megőrizni külön nyilvántartás keretében a nyilvántartásból való törlés e törvény szerinti okának és időpontjának megjelölésével.
 
@@ -1002,7 +1002,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (6b) A 66. §-ban, valamint az (1)–(6a) bekezdésben foglaltakat a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása során is megfelelően alkalmazni kell.
 
-(7) Nem jelenti a titoktartási kötelezettség megszegését a 4. § (5) bekezdés b) pontja szerinti nemzeti standardoknak, valamint az etikai követelményeknek való megfelelés.
+(7) Nem jelenti a titoktartási kötelezettség megszegését a 4. § (5) bekezdés b) pontja szerinti nemzeti standardoknak, valamint az etikai szabályzatnak való megfelelés.
 
 ### IV/A. Fejezet — A KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ GAZDÁLKODÓ TEKINTETÉBEN ELLÁTOTT JOGSZABÁLYI KÖTELEZETTSÉGEN ALAPULÓ KÖNYVVIZSGÁLÓI TEVÉKENYSÉG KÜLÖNÖS SZABÁLYAI
 
@@ -2488,7 +2488,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (5) A közfelügyeleti hatóság az (1) bekezdésben felsorolt feladatok ellátásához szakértőt vehet igénybe. Szakértőként nem járhat el az, akivel szemben az ellenőrre vonatkozó kizárási ok áll fenn.
 
-(6) A kamarai tag könyvvizsgáló, könyvvizsgáló cég július 15-ig tájékoztatja a kamarát az előző év július 1-től a tárgyév június 30-ig az éves beszámolóról, egyszerűsített éves beszámolóról, továbbá az összevont (konszolidált) éves beszámolóról kiadott független könyvvizsgálói jelentésekről. A tájékoztatás a megbízó nevét és az adott független könyvvizsgálói jelentésben szereplő záradék fajtáját (hitelesítő, korlátozott, elutasító), illetve a záradék megadása elutasításának a tényét, továbbá, amennyiben a könyvvizsgáló figyelemfelhívással élt, annak tényét tartalmazza. A kamara az adatokat továbbítja a közfelügyeleti hatóságnak.
+(6) A kamarai tag könyvvizsgáló, könyvvizsgáló cég július 15-ig tájékoztatja a kamarát az előző év július 1-től a tárgyév június 30-ig az éves beszámolóról, egyszerűsített éves beszámolóról, továbbá az összevont (konszolidált) éves beszámolóról kiadott független könyvvizsgálói jelentésekről, valamint a fenntarthatósági jelentésre vonatkozó bizonyossági jelentésekről. A tájékoztatás a megbízó nevét és az adott független könyvvizsgálói jelentésben szereplő záradék fajtáját (hitelesítő, korlátozott, elutasító), illetve a záradék megadása elutasításának a tényét, továbbá, amennyiben a könyvvizsgáló figyelemfelhívással élt, annak tényét tartalmazza. A kamara az adatokat továbbítja a közfelügyeleti hatóságnak.
 
 #### 190. §
 
@@ -2944,7 +2944,7 @@ Fenntarthatósági
 
 5. Kamarai bejegyzési szám.
 
-3. Kamarai tag nyilatkozata arról, hogy kérelmét a Kkt. 50. §-a (2) bekezdésének a), b) vagy c) pontjára alapozva kéri.
+3. Kamarai tag nyilatkozata arról, hogy kérelmét e törvény 50. §-a (2) bekezdésének a), b) vagy c) pontjára, fenntarthatósági minősítés esetén e törvény 50. §-a (2e) bekezdésére alapozva kéri.
 
 4. A 49/A. § a)–d) és g) pontja szerinti minősítés esetén a kamarai tag nyilatkozata arról, hogy az adott minősítésre előírt 50. § (10) bekezdése szerinti szakmai minősítő vizsgát a könyvvizsgáló sikeresen teljesítette.
 
@@ -2982,7 +2982,7 @@ I. Az 50. § (2) bekezdés a) pontjára alapozott kérelem esetén az alábbiakn
 
 2. az igazolást kibocsátó gazdálkodó a kérelmező által kért minősítésnek megfelelő tevékenységet végez, illetve végzett,
 
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
+3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül az e törvényben meghatározott követelményeknek,
 
 4. azt a minősítésnek megfelelő tevékenységet végző gazdálkodó részéről a munkáltatói jogok gyakorlására jogosult személy írta alá.
 
@@ -2992,7 +2992,7 @@ Az 50. § (2) bekezdés b) pontjára alapozott kérelem esetén alábbiaknak meg
 
 2. az igazolás tartalmazza azoknak a gazdálkodóknak a cégnyilvántartás szerinti azonosító adatait, amelyekre vonatkozóan jogszabály az adott minősítés meglétét előírja, s amelyek tekintetében a kérelmező a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában közreműködött,
 
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
+3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül az e törvényben meghatározott követelményeknek,
 
 4. az igazolást kibocsátó, adott minősítésű kamarai tag könyvvizsgáló írta alá.
 
@@ -3004,7 +3004,7 @@ Az 50. § (2) bekezdés c) pontjára alapozott IFRS minősítés esetén, amenny
 
 2. az igazolás tartalmazza azoknak a gazdálkodóknak a cégnyilvántartás szerinti azonosító adatait, amelyek tekintetében a kérelmező a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában közreműködött,
 
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
+3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül az e törvényben meghatározott követelményeknek,
 
 4. az igazolást kibocsátó kamarai tag könyvvizsgáló írta alá.
 

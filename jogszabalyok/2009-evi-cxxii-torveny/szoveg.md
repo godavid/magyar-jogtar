@@ -238,6 +238,8 @@ az e §-ban meghatározottak szerint belső kontrollrendszert működtet.
 
 (9) A belső ellenőrzést végző személy és a megfelelési tanácsadó a feladata ellátása érdekében minősített adatot, üzleti titkot tartalmazó iratokba és más dokumentumokba is betekinthet, azokról másolatot, kivonatot kérhet, személyes adatokat kezelhet az adatvédelmi, illetve a minősített adat védelmére vonatkozó előírások betartásával.
 
+(9a) A köztulajdonban álló gazdasági társaság a számvitelről szóló törvényben meghatározott anyavállalatként belső ellenőrzést, és a megfelelési tanácsadó feladatkörébe tartozó vizsgálatot végezhet bármely leányvállalatánál.
+
 (10) Az államháztartásért felelős miniszter – a köztulajdonban álló gazdasági társaságok tulajdonosi joggyakorlását ellátó miniszterek bevonásával – ellátja a köztulajdonban álló gazdasági társaságok belső kontrollrendszerének fejlesztésével, szabályozásával, koordinációjával és harmonizációjával kapcsolatos feladatokat, megalkotja az ezekhez kapcsolódó jogszabályokat, módszertani útmutatókat, valamint ellátja a szakmai egyeztető fórumok működtetésével kapcsolatos feladatokat.
 
 7/K. § (1) Ha a köztulajdonban álló gazdasági társaság vagyona terhére pénzügyi eszközt bocsát ki (a továbbiakban: kibocsátó) és a kibocsátással összefüggésben hitelminősítő intézet hitelminősítési szolgáltatását veszi igénybe, akkor a hitelminősítő intézetet kötelező a kibocsátott pénzügyi eszköz futamidejének végéig megtartania.

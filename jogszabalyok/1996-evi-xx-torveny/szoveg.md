@@ -429,6 +429,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - 32. a jegyző és a közjegyző az örökhagyó, a hagyatéki eljárásban érdekelt és a kieséses örökös tekintetében a hagyatéki eljárással és az ingatlan-nyilvántartással kapcsolatos feladatai, valamint az országos kamara az egységes ügykezelő alkalmazással kapcsolatos feladatai ellátásához;
 - 33. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
 - 34. a járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztrációhoz.
+- 35. a végrehajtást lefolytató adóhatóság és önálló bírósági végrehajtó az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
 
 32/A. § Az adattovábbítás kivételével a személyi azonosító kezelésére a 32. §-ban foglaltakon kívül jogosult az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság a védettségi igazolvány kiállítása érdekében.
 
@@ -479,6 +480,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - 31. a jegyző és a közjegyző az örökhagyó, a hagyatéki eljárásban érdekelt és a kieséses örökös tekintetében a hagyatéki eljárással és az ingatlan-nyilvántartással kapcsolatos feladatai, valamint az országos kamara az egységes ügykezelő alkalmazással kapcsolatos feladatai ellátásához;
 - 32. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
 - 33. a bűnügyi nyilvántartó szerv a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez.
+- 34. a végrehajtást lefolytató adóhatóság és önálló bírósági végrehajtó az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
 
 ### Rendszeres adatátadás a személyiadat- és lakcímnyilvántartásból
 

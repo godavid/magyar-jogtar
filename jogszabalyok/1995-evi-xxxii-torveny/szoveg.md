@@ -25,6 +25,19 @@ a szabadalmi ügyvivőkről
 
 (6) E törvény alkalmazásában EGT-államnak kell tekinteni az Európai Unió tagállamát és az Európai Gazdasági Térségről szóló megállapodásban részes más államot, valamint azt az államot, amelynek állampolgára az Európai Közösség és tagállamai, továbbá az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a letelepedés és a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, ha a vonatkozó nemzetközi szerződés eltérően nem rendelkezik.
 
+1/A. § (1) Az 1. § (1) bekezdésében meghatározott feladatok ellátása során szabadalmi ügyvivői tevékenységet rendszeresen és ellenérték fejében
+
+- a) szabadalmi ügyvivő,
+- b) európai közösségi hivatásos iparjogvédelmi képviselő,
+- c) szabadalmi ügyvivőjelölt és
+- d) szabadalmi ügyvivői tevékenység végzésére jogszabály által feljogosított személy
+
+folytathat.
+
+(2) Szabadalmi ügyvivői tevékenység az e törvényben meghatározott keretek között folytatható.
+
+(3) A szabadalmi ügyvivői irodára és a szabadalmi ügyvivői társaságra e törvény eltérő rendelkezése hiányában a szabadalmi ügyvivői tevékenység gyakorlójára vonatkozó szabályokat kell alkalmazni.
+
 ### A szabadalmi ügyvivői működés feltételei
 
 2. § (1) Szabadalmi ügyvivőként az működhet, aki a Magyar Szabadalmi Ügyvivői Kamara (a továbbiakban: Kamara) tagja.
@@ -93,6 +106,18 @@ a szabadalmi ügyvivőkről
 - a) aki megfelel a 2. § (2) bekezdésének a)–c) pontjaiban felsorolt feltételeknek;
 - b) aki külön jogszabályban meghatározott felsőfokú iparjogvédelmi szakképesítéssel rendelkezik; és
 - c) akinek legalább hároméves szabadalmi ügyvivőjelölti gyakorlata van.
+
+(1a) Szabadalmi ügyvivői vizsgát tehet az is, aki megfelel az (1) bekezdés a) és b) pontjában meghatározott feltételeknek, és
+
+- a) legalább kétéves szabadalmi ügyvivőjelölti gyakorlata van és a Szellemi Tulajdon Világszervezete által szervezett szabadalmi bejelentések szerkesztésére vonatkozó képzés elvégzését igazoló tanúsítványt szerzett, vagy
+- b) legalább öt évig szabadalmi elbírálói, vagy a szabadalmi elbírálók szakmai felügyeletét ellátó munkakörben folytatott tevékenységet végzett a Szellemi Tulajdon Nemzeti Hivatalánál vagy az Európai Szabadalmi Hivatalnál.
+
+(1b) Az (1a) bekezdés b) pontja szerinti esetben a Szellemi Tulajdon Nemzeti Hivatalával, illetve az Európai Szabadalmi Hivatallal fennálló jogviszonyának megszűnését követően
+
+- a) a szabadalmi elbíráló, illetve
+- b) a szabadalmi elbírálói tevékenység szakmai felügyeletét ellátó személy öt évig
+
+nem folytathat szabadalmi ügyvivői tevékenységet olyan szabadalmi ügyek vonatkozásában, amelyek elintézésében jogviszonyának megszűnését megelőzően részt vett.
 
 (2) A vizsgát a Szellemi Tulajdon Nemzeti Hivatala mellett létrehozott Szabadalmi Ügyvivői Vizsgabizottság előtt kell letenni.
 
@@ -936,6 +961,8 @@ képviselő
 (2) A 2017. évi CXXXVI. törvény 34. §-ával által megállapított 16. §-t és 16/A. §-t a 2017. december 31. után indult ügyekben és eljárásokban kell alkalmazni.
 
 (3) A 2018. január 1. előtt kiszabott fegyelmi büntetés hatályára a 2017. december 31. napján hatályos rendelkezéseket kell alkalmazni. A 2018. január 1. előtt kiszabott fegyelmi büntetésekre a 25/A. § nem alkalmazható.
+
+39/B. § E törvénynek a felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények módosításáról szóló 2025. évi LVII. törvény (a továbbiakban: Módtv.) által megállapított 4. § (1a) és (1b) bekezdését a Módtv. hatálybalépését követően benyújtott szabadalmi ügyvivői vizsgára bocsátásra irányuló kérelmekkel kapcsolatban kell alkalmazni.
 
 ### Felhatalmazások
 

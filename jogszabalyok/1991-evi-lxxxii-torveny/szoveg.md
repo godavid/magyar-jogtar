@@ -58,7 +58,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 - a) a költségvetési szerv,
 - b) az egyesület, az alapítvány, a köztestület a tulajdonában álló gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
-- c) az autóbusz, ha az adóalany a tárgyévet megelőző évben elért számviteli törvény szerinti nettó árbevételének legalább 75%-a helyi és helyközi menetrendszerinti közúti tömegközlekedés folytatásából származott. A feltétel teljesüléséről az adóalanynak nyilatkoznia kell,
+- c) az autóbusz, ha az adóalany a tárgyévet megelőző évben elért számviteli törvény szerinti nettó árbevételének legalább 75%-a helyi és helyközi menetrendszerinti tömegközlekedés folytatásából származott. A feltétel teljesüléséről az adóalanynak nyilatkoznia kell,
 - d) az egyházi jogi személy tulajdonában lévő gépjármű,
 - e) a létesítményi tűzoltóságot fenntartó gazdasági szervezetek azon tűzoltó szerkocsinak minősülő gépjárművei, melyek riasztás esetén részt vesznek a tűz elleni védekezésben, illetve a műszaki mentésben,
 - f) a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő adóalany, valamint a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő személyt rendszeresen szállító, vele közös háztartásban élő közeli hozzátartozó adóalany (a továbbiakban együtt: mentességre jogosult adóalany) egy darab – 100 kW teljesítményt meg nem haladó, nem a külön jogszabály szerinti személytaxi-szolgáltatásra és személygépkocsis személyszállító szolgáltatásra használt – személygépkocsija után legfeljebb 13 000 forint/adóév erejéig. Ha a mentességre jogosult adóalany adóalanyisága és adókötelezettsége az adóévben több személygépkocsi után is fenn áll, akkor a mentesség kizárólag egy, a legkisebb teljesítményű személygépkocsi után jár,
@@ -250,6 +250,8 @@ k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés alapj
 - f) amelyet kizárólag az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 5. § (1) bekezdése vagy 16. §-a szerinti tevékenység ellátása érdekében, valamint az egészségügyi államigazgatási szerv törvény alapján kizárólag betegségmegelőző, gyógyító, egészségkárosodást csökkentő közegészségügyi, járványügyi és egészségvédelmi alapfeladatának ellátása érdekében üzemeltetnek,
 - g) amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltet,
 - h) amely törvényes öröklés eredményeként vagy végintézkedés alapján a magyar állam tulajdonában áll, azon hónap utolsó napjáig, amelyben a személygépkocsi vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
+- i) amelyet a polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény szerinti polgárőr szervezet kizárólag a polgárőri szolgálatellátás érdekében üzemeltet,
+- j) amelyet a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény szerinti önkéntes tűzoltó egyesület kizárólag az alapfeladata ellátása érdekében üzemeltet.
 
 ### Az adó mértéke
 
@@ -346,6 +348,10 @@ az eljáró hatóság
 19/D. § (1) 2025. január 1-je előtt 5P, illetve 5N környezetvédelmi osztályjelzéssel forgalomba helyezett, vagy hatósági nyilvántartásba bejegyzett gépjármű 2026. december 31-ig – az e törvény 2024. december 31-én hatályos rendelkezései szerint – mentes a gépjármű adó alól [5. § g) pont], illetve nem tartozik a cégautó adó hatálya alá [17/A. § (1) bekezdés].
 
 (2) A 7/A. § és a 16. § szerint megállapított adómértékeket az állami adó- és vámhatóság első alkalommal 2024. december 15-éig teszi közzé honlapján.
+
+19/E. § (1) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 17/D. § i) és j) pontja első alkalommal 2025. július hónapra alkalmazható.
+
+(2) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 5. § c) pontját a 2025. évet követő év adókötelezettségére lehet alkalmazni.
 
 ### Hatálybaléptető rendelkezések
 

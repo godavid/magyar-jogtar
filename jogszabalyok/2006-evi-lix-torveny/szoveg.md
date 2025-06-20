@@ -95,7 +95,7 @@ támogatása.
 
 (20) A hitelintézetek járványügyi helyzettel összefüggő 2020. adóévi különadójának e törvény és a Gazdaságvédelmi Akcióterv végrehajtása érdekében a Járványügyi Alap feltöltését szolgáló, hitelintézetek járványügyi helyzettel összefüggő különadójáról szóló kormányrendelet alapján a hitelintézet által 2020. adóévben megfizetett összege adóvisszatartás formájában csökkenti a hitelintézet (jogutódja) (1)–(4), (6), (8), (9), (10) és (38)–(39) bekezdés alapján megállapított fizetendő különadójának összegét.
 
-(21) A (20) bekezdés szerinti csökkentést a hitelintézet a 2020. adóévét követő 5 adóévében, adóévente legfeljebb a 2020. adóévi hitelintézetek járványügyi különadója kötelezettsége 20 százalékának megfelelő összegben alkalmazhatja. Az igénybe vett összegről a hitelintézet nyilvántartást vezet.
+(21) A (20) bekezdés szerinti csökkentést a hitelintézet a 2020. adóévét követő első, második, harmadik, ötödik és hatodik adóévében, adóévente legfeljebb a 2020. adóévi hitelintézetek járványügyi különadója kötelezettsége 20 százalékának megfelelő összegben alkalmazhatja, azzal, hogy a hitelintézet a 2024. adóévére nem alkalmazhatja a (20) bekezdés szerinti csökkentést. Az igénybe vett összegről a hitelintézet nyilvántartást vezet.
 
 (22)–(29)
 

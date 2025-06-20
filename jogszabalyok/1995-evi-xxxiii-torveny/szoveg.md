@@ -2417,7 +2417,7 @@ bírósági eljárásokra alkalmazandó szabályok
 
 (4) A Hivatal bevételeivel önállóan gazdálkodik, azokat működésének fedezetére használja fel.
 
-(5) A Hivatal bevételeiből – legfeljebb a tényleges adott évi bevétel öt százalékának megfelelő mértékig – tartalékot képezhet. Az így képzett tartalék a megképzésének évét követő második év végéig kizárólag a Hivatal működésének fedezetére használható fel, és az más célra nem vonható el.
+(5) A Hivatal a bevételeiből – legfeljebb a tényleges adott évi bevétel tizenöt százalékának megfelelő mértékig – tartalékot képezhet. Az így képzett tartalék kizárólag a Hivatal működésének fedezetére használható fel, és az más célra nem vonható el.
 
 (6) A Hivatal évente közzéteszi a befolyt bevételekről és a felhasználásukról készített kimutatást.
 
@@ -2559,9 +2559,9 @@ díjaknak a 85%-át kell megfizetni.
 
 (3) Ha a megfizetés időpontjában a formatervezési mintaoltalom jogosultja kizárólag maga a szerző, a mintaoltalom megújítására irányuló kérelem díjának a felét köteles megfizetni.
 
-(4) Az (1)–(3) bekezdésben meghatározott kedvezmények akkor illetik meg a feltalálót, a nemesítőt, illetve a szerzőt, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.
+(4) Az (1), (2) és (3) bekezdésben meghatározott kedvezmények akkor illetik meg a feltalálót, a nemesítőt, illetve a szerzőt, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha az oltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét.
 
-(5) Az (1)–(4) bekezdésben foglalt rendelkezéseket alkalmazni kell akkor is, ha – több feltaláló, nemesítő, illetve szerző esetén – a feltalálók, a nemesítők, illetve a szerzők valamelyike az oltalmi igényéről, illetve az oltalomról feltalálótársa, nemesítőtársa, illetve szerzőtársa javára lemondott, továbbá, ha a feltalálók, a nemesítők, illetve a szerzők bármelyike helyébe az örököse lép.
+(5) Az (1), (2), (3) és (4) bekezdésben foglalt rendelkezéseket alkalmazni kell akkor is, ha – több feltaláló, nemesítő, illetve szerző esetén – a feltalálók, a nemesítők, illetve a szerzők valamelyike az oltalmi igényéről, illetve az oltalomról feltalálótársa, nemesítőtársa, illetve szerzőtársa javára lemondott, továbbá, ha a feltalálók, a nemesítők, illetve a szerzők bármelyike helyébe az örököse lép.
 
 (6)
 

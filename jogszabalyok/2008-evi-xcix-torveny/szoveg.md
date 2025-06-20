@@ -450,7 +450,7 @@ valamint a tánckari tag munkakört betöltő munkavállalóra vonatkozó eltér
 
 39. § (1) Költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezetnél a munkáltató vezetőjével (a továbbiakban: vezető) – az e törvényben foglalt eltérésekkel – az Mt. vezető állású munkavállalókra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni.
 
-(2) A vezető feladatainak ellátására a munkáltatói jogkör gyakorlója pályázati, vagy a miniszter előzetes engedélyével meghívásos eljárást alkalmaz. A pályázati, illetve meghívásos eljárás kiírásának, benyújtásának és értékelésének rendjét, valamint a meghívásos eljárás feltételeit a Kormány rendeletben határozza meg.
+(2) A vezető feladatainak ellátására a munkáltatói jogkör gyakorlója pályázati, vagy a miniszter előzetes engedélyével meghívásos eljárást alkalmaz. A pályázati eljárás kiírásának, benyújtásának és értékelésének rendjét a Kormány rendeletben határozza meg.
 
 (3) A munkáltatói – a 16. § (9) bekezdése szerinti esetben az alapvető munkáltatói – jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel.
 
@@ -615,7 +615,7 @@ valamint a tánckari tag munkakört betöltő munkavállalóra vonatkozó eltér
 - o) határozza meg a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szabályokat,
 - p) szabályozza a zenekar és az énekkar tevékenysége folytatásának tárgyi feltételeit,
 - q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
-- r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, a pályázatok elbírálásának rendjét, valamint a meghívásos pályázat feltételeit, tartalmát, kiírásának, benyújtásának és értékelésének rendjét,
+- r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, a pályázatok elbírálásának rendjét,
 - s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait,
 - t) állapítsa meg az állami és önkormányzati közös működtetés kérelmezésének határidejét.
 
