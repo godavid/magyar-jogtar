@@ -60,11 +60,7 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 6. §
 
-7. § A Kjtv. 120. § (2) és (2a) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A felolvasás mellőzhető, ha a fél, képviselő útján történő eljárás esetén a képviselő – több fél esetén a felek vagy képviselőjük – a készítendő közjegyzői okirattól elkülönült, de ahhoz fűzendő okiratba foglaltan kijelenti – több fél vagy képviselők eljárása esetén együttesen kijelentik –, hogy az okirat tervezetét megismerte és elolvasta – több fél vagy képviselők eljárása esetén megismerték és elolvasták – és kéri – több fél vagy képviselők eljárása esetén együttesen kérik – az okirat felolvasásának mellőzését (a továbbiakban: okirat felolvasásának mellőzése iránti kérelem). Több fél vagy képviselőik okirat felolvasásának mellőzése iránti együttes kérelmét a felek vagy képviselők külön okiratban is megtehetik. Az okirat felolvasásának mellőzése iránti kérelmet teljes bizonyító erejű magánokiratba kell foglalni.
-
-(2a) A közjegyző az okirat felolvasásának mellőzése iránti kérelem esetén is felolvashatja az okiratot.”
+#### 7. §
 
 #### 8. §
 
@@ -184,7 +180,7 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 59. §
 
-60. § Hatályát veszti a Kjnp. 27. § (5) bekezdésében az „ , a névjegyzéket vezető hatóság a képzési hozzájárulás megfizetéséről” szövegrész.
+#### 60. §
 
 #### 10.
 
@@ -314,39 +310,19 @@ lép.
 
 #### 17. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-106. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:321. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A nyilvánosan működő részvénytársaság leválásánál a 3:42. § rendelkezései nem alkalmazhatóak.”
+#### 106. §
 
 #### 107. §
 
 #### 18. Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény módosítása
 
-108. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény a következő 6/A. §-sal egészül ki:
+#### 108. §
 
-„6/A. § (1) Ha az átalakulás folytán a létrejövő (jogutód) jogi személyhez kerül olyan tevékenység ellátása, amelyre az átalakuló (jogelőd) jogi személy hatósági engedéllyel rendelkezik, a döntéshozó szerv átalakulást véglegesen jóváhagyó határozatának meghozatalától kezdeményezhető az engedély jogutódlás tekintetében való módosítása vagy az új engedély kiadása iránti eljárás.
+#### 109. §
 
-(2) Az engedélyezési eljárás megindítására, az eljárással összefüggésben felmerült intézkedések megtételére a jogutód jogi személy bejegyzéséig vagy az átalakulás hatályosulásáig az átalakuló jogi személy, ezt követően pedig a jogutód jogi személy jogosult. Az átalakulással létrejövő jogi személyt az átalakulás bejegyzése és annak hatályosulása közötti időszakban az átalakuló jogi személy képviseli.
+#### 110. §
 
-(3) Az átalakulással létrejövő jogi személy az engedélyköteles tevékenységet az engedélyezési eljárás befejeződéséig, de legfeljebb a jogutód bejegyzésétől vagy az átalakulás joghatásainak beálltától számított hatvan napig jogutódként végezheti, ha azt számára hatóság határozata nem tiltja.
-
-(4) Az (1)–(3) bekezdés rendelkezései akkor alkalmazhatóak, ha a tevékenységre irányadó jogszabály eltérő rendelkezést nem tartalmaz.
-
-(5) Ha valamely hatósági engedély kiadása vagy kedvezmény igénybevétele meghatározott idejű folyamatos működéshez vagy egyéb előéleti feltételhez kötött, és e feltétel az átalakuló jogi személynél megvalósult, akkor ezt a jogutód jogi személynél is teljesítettnek kell tekinteni.
-
-(6) E § alkalmazásában engedély alatt hatóság jóváhagyása, hozzájárulása, bizonyítvány kiadására vonatkozó, vagy más, a tevékenység jogszerű végzéséhez szükséges hatósági határozat, továbbá a tevékenység végzéséhez szükséges bejelentés, nyilvántartásba vétel is értendő. Ahol e jogszabály engedélyezési eljárást említ, ott a tevékenységre irányadó jogszabályoknak megfelelő, a fenti hatósági cselekmények elvégzésére, határozatok meghozatalára irányuló eljárásokat is érteni kell. Engedélyköteles tevékenységnek minősül e § alkalmazásában minden olyan tevékenység, amelynek végzése a rá irányadó jogszabályok szerint hatósági engedély, jóváhagyás, hozzájárulás, bizonyítvány birtokában, bejelentési kötelezettség teljesítése, nyilvántartásba vétel vagy más hatósági cselekmény vagy határozat alapján végezhető.”
-
-109. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 14. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha az egyesülésben részt vevő jogi személyek között olyan jogi személy van, amely engedélyköteles tevékenységet lát el, és e tevékenységet a jogutód jogi személy is végezné, az egyesülés bejegyzéséig vagy annak hatályosulásáig az engedélyezési eljárás megindítására az engedélyes jogelőd jogi személy, azt követően pedig az egyesüléssel létrejövő, beolvadás esetén az átvevő jogi személy jogosult. Az egyesülés bejegyzése és annak hatályosulása közötti időszakban az egyesüléssel létrejövő, beolvadás esetén a beolvadással módosuló átvevő jogi személyt az engedélyes jogelőd képviseli.”
-
-110. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 18. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Ha a szétválással kapcsolatos vagyonmegosztás folytán valamely létrejövő jogi személyhez kerül engedélyköteles tevékenység ellátása, a 6/A. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a szétválással létrejövő jogi személyek közül az a jogi személy válhat az engedély jogosultjává. amelyikhez azt a szétválási szerződés telepítette. E jogi személy az engedélyköteles tevékenységet a 6/A. § (3) bekezdésében meghatározott időtartam alatt jogutódként végezheti, ha azt számára hatóság határozata nem tiltja.”
-
-111. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 7. alcíme a következő 32/A. §-sal egészül ki:
-
-„32/A. § Nyilvánosan működő részvénytársaság részvényese nem dönthet úgy, hogy tagsági viszonyát a leválás esetére a 18/A. § (5) bekezdésének alkalmazásával megszünteti. Új tag a továbbműködő (fennmaradó) nyilvánosan működő részvénytársasághoz a 18/A. § (4) bekezdése alapján nem csatlakozhat. Erre tekintettel e törvénynek a távozási szándék bejelentésével és a társaságtól megváló taggal való elszámolással, valamint az új tag csatlakozásával összefüggő szabályai nem alkalmazhatóak.”
+#### 111. §
 
 #### 19.
 
@@ -398,22 +374,7 @@ lép.
 
 #### 134. §
 
-135. § A Bv. tv. 404. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-„(3) A letartóztatott – a rendelkezési jogkör gyakorlójának látogatófogadásra vonatkozó korlátozó vagy tiltó rendelkezésének figyelembevételével – személyes érintkezést lehetővé tevő látogatófogadáson
-
-- a) az általános és az enyhébb rezsimszabályok esetén a besorolás napjától kezdődően,
-- b) szigorúbb rezsimszabályok esetén a besorolás napjától számított hat hónap elteltével, azt megelőzően kivételesen, a bv. intézet parancsnokának engedélyével
-
-vehet részt.
-
-(4) A letartóztatott – a rendelkezési jogkör gyakorlójának látogatófogadásra vonatkozó korlátozó vagy tiltó rendelkezésének figyelembevételével – kötetlen látogatófogadáson
-
-- a) az általános és az enyhébb rezsimszabályok esetén a besorolás napjától számított hat hónapot elteltével,
-- b) szigorúbb rezsimszabályok esetén a besorolás napjától számított egy év elteltével
-- c) az a) és b) pontban meghatározott időtartam elteltét megelőzően kivételesen, a bv. intézet parancsnokának engedélyével
-
-vehet részt.”
+#### 135. §
 
 #### 136. §
 

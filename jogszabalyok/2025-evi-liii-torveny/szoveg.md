@@ -32,23 +32,9 @@ g) 5. melléklete.
 
 #### 2. Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény módosítása
 
-2. § (1) Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény a következő 7/B. alcímmel egészül ki:
+#### 2. §
 
-#### „7/B. A ZalaZONE Alapítvány
-
-9/C. § (1) Az Országgyűlés felhívja a Kormányt, hogy az állam nevében csatlakozóként tegye meg a szükséges intézkedéseket a Széchenyi István Egyetemért Alapítványból szétválás útján létrejövő a ZalaZONE Alapítvány (ezen alcím alkalmazásában a továbbiakban: Alapítvány) közfeladatot ellátó közérdekű vagyonkezelő alapítvány formájában történő létrehozására.
-
-(2) Az Alapítvány alapítása során az állam képviseletében a tudománypolitika koordinációjáért felelős miniszter jár el.”
-
-(2) Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény 7/B. alcíme a következő 9/D. §-sal egészül ki:
-
-„9/D. § (1) Az Országgyűlés egyetért a 9/C. § (1) bekezdése szerinti szétválás részeként a közfeladat és a vagyon megosztásával, azzal, hogy a szétválás során a KEKVAtv. 14/A. § (5) bekezdésében foglaltakat alkalmazni kell.
-
-(2) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.”
-
-3. § Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény 11. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A 2. § (6) bekezdése, a 2/A. §, a 3. § (5) bekezdése, a 6. § (3), (4) és (5) bekezdése, a 9. § (1) bekezdése, a 9/B. §, a 9/D. §, az 1. melléklet 3. sora, valamint a 2., 3. és 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.”
+#### 3. §
 
 #### 3. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény módosítása
 
