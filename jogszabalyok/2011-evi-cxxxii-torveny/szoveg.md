@@ -34,6 +34,30 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 (3) Az Egyetem a tanárképzés területén a gyakorlati képességek hatékony fejlesztése érdekében, a hallgatók számára diverzifikált, több intézményre kiterjedő gyakorlati tapasztalatszerzési lehetőség biztosítása, illetve az Egyetem képzésében oktatók számára – a köznevelésben való részvétel révén – a folyamatos gyakorlati lehetőség és szakmai fejlődés elősegítése érdekében fenntartóként köznevelési intézmény hálózatot működtet.
 
+(4) A (3) bekezdés szerinti köznevelési intézmény hálózat létrehozása érdekében a tankerületi központ által fenntartott köznevelési intézmény fenntartói jogának az Egyetem részére történő átadása (e § alkalmazásában a továbbiakban: intézkedés) során a nemzeti köznevelésről szóló 2011. évi CXC. törvényt (a továbbiakban: Nkt.) az (5)–(15) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(5) A fenntartói jog átadásáról – az Egyetem egyetértésével – a köznevelésért felelős miniszter az intézkedés tervezett végrehajtása évének július 15. napjáig hozhat döntést. Az Egyetem a fenntartásában működő köznevelési intézmény gyakorlóintézménnyé nyilvánítását minden évben augusztus 15-ig kérelmezheti azzal, hogy a hatóság az erről szóló döntését a tárgyév augusztus 31-ig meg kell hozza.
+
+(6) Az intézkedés során nem kell alkalmazni az Nkt. 83. § (3) és (4) bekezdését.
+
+(7) A fenntartói jog átadása az intézkedés évének augusztus 1. napjával hatályosul.
+
+(8) Az Egyetem által fenntartott köznevelési intézmény feladatainak ellátását szolgáló, települési önkormányzati tulajdonú ingatlan és ingó vagyon az intézkedés évének augusztus 1. napján az Egyetem vagyonkezelésébe kerül, mely ingó és ingatlan vagyonra vonatkozóan az Egyetemet az Nkt. 74. § (4) bekezdésében a tankerületi központ tekintetében meghatározottakkal azonos feltételekkel vagyonkezelői jog illeti meg mindaddig, amíg a köznevelési közfeladat az Egyetem részéről történő ellátása az adott ingatlanban meg nem szűnik. Az Egyetem e vagyonkezelői jogának fennállása alatt a köznevelési intézmény feladatainak ellátását szolgáló ingatlan és ingó vagyont a települési önkormányzat nem idegenítheti el, nem terhelheti meg, bérbe nem adhatja. Az Egyetem által a köznevelési intézmény feladatainak ellátását szolgáló ingatlanvagyon bérbeadásához szükség van az érintett köznevelési intézmény igazgatójának előzetes véleményére.
+
+(9) Az Egyetem és a települési önkormányzat az e §-ban foglaltak végrehajtása, így különösen a (8) bekezdés szerinti vagyonkezelői joghoz kapcsolódó – annak részletszabályait tartalmazó – vagyonkezelési szerződés megkötése során kölcsönösen együttműködve jár el. A vagyonkezelési szerződést legkésőbb az intézkedés évének augusztus 1. napjáig kell megkötni.
+
+(10) Ha a (9) bekezdésben megjelölt határidőig nem jön létre vagy nem teljeskörűen jön létre a vagyonkezelési szerződés, a köznevelésért felelős miniszter az intézkedés évének augusztus 31. napjáig határozattal létrehozza a szerződést, illetve határozattal dönt a szerződésben nem rendezett kérdésekről. A határozat ellen fellebbezésnek nincs helye. A határozat a bírósági eljárásra tekintet nélkül végrehajtható.
+
+(11) A (10) bekezdés szerinti határozattal (a továbbiakban: határozat) szemben keresetindításnak van helye. A bíróság a keresetről peres eljárásban határoz, az eljárásra – a (12) és (13) bekezdésben foglalt eltérésekkel – a közigazgatási perrendtartásról szóló 2017. évi I. törvény rendelkezéseit kell alkalmazni.
+
+(12) A határozat végrehajtása felfüggesztésének nincs helye. A bíróság a perben soron kívül jár el. A bíróság a határozatot megváltoztathatja.
+
+(13) Ha a határozattal szembeni kereset benyújtását követően, de a bíróság döntését megelőzően a felek a vagyonkezelési szerződést megkötik, a köznevelésért felelős miniszter a szerződés megkötését követően a határozatot visszavonja, és erről a bíróságot haladéktalanul írásban értesíti. A határozat visszavonása esetén a bíróság a pert megszünteti.
+
+(14) Az Egyetem vagyonkezelői jogának létrejöttéhez, az ingatlan-nyilvántartásba való bejegyezéséhez és a vagyonkezelői jog gyakorlásához vagyonkezelési szerződés megkötése nem szükséges.
+
+(15) A (8)–(14) bekezdésben foglaltakat az Egyetem fenntartásába a (4) bekezdés szerinti intézkedéssel került köznevelési intézmények tekintetében is alkalmazni kell.
+
 1/E. § Az Egyetem, valamint az Egyetem által fenntartott köznevelési intézmény nem minősül a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 21. §-a, valamint az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 10/B. §-a alkalmazásában állami intézménynek.
 
 2. § (1) Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
@@ -577,6 +601,8 @@ szabályaitól eltérő szabályokat határozhat meg.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Egyetemen rendészeti képzésben résztvevő hallgatók ruházati ellátási normáit és az ellátás rendjét rendeletben határozza meg.
 
+(4) Felhatalmazást kap a Kormány, hogy határozatában jelölje ki az 51/B. § (3) bekezdése szerinti, az ingatlanok üzemeltetését, kezelését, működtetését, az ingatlanok fenntartását, továbbfejlesztését és az azokkal kapcsolatos beruházások elvégzését ellátó szervezetet.
+
 #### 4. Hatálybalépés
 
 45. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
@@ -607,25 +633,25 @@ szabályaitól eltérő szabályokat határozhat meg.
 
 (2) Ha az (1) bekezdés szerinti átruházáshoz kapcsolódóan a cégbíróságon változás bejelentése szükséges, az mentes az illeték- és közzétételi költségtérítés megfizetése alól.
 
-51/B. § (1) Az Országgyűlés úgy rendelkezik, hogy a Budapest Főváros VIII. kerület Józsefváros Önkormányzata tulajdonában álló, a 2. melléklet B) része szerinti ingatlanok e törvény erejénél fogva az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvény (a továbbiakban: Módtv.4.) hatálybalépésének napjával, a 2. melléklet A) része szerinti ingatlanok a Módtv.4. hatálybalépését követő 60. napon köznevelési, valamint felsőoktatási feladatokkal összefüggő tevékenység ellátása céljára az állam tulajdonába kerülnek (a továbbiakban együtt: ingatlanok).
+51/B. § (1) Az Országgyűlés úgy rendelkezik, hogy a Budapest Főváros VIII. kerület Józsefváros Önkormányzata tulajdonában álló, a 2. melléklet B) része szerinti ingatlanok e törvény erejénél fogva az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvény (a továbbiakban: Módtv.4.) hatálybalépésének napjával, a 2. melléklet A) része szerinti ingatlanok 2026. június 30. napján köznevelési, felsőoktatási, valamint szociális lakhatási feladatokkal összefüggő tevékenység ellátása céljára az állam tulajdonába kerülnek (a továbbiakban együtt: ingatlanok).
 
-(2) Az ingatlanok forgalmi értékét a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság független értékbecslő bevonásával, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság választása szerint piaci összehasonlító adatok elemzésén, hozamszámításon alapuló vagy költségalapú értékelési módszer alkalmazásával állapítja meg és téríti meg a Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat számára kártalanítás jogcímen a Módtv.4. hatálybalépésének napjától számított 80. napig.
+(2) Az ingatlanok forgalmi értékét a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság független értékbecslő bevonásával, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság választása szerint piaci összehasonlító adatok elemzésén, hozamszámításon alapuló vagy költségalapú értékelési módszer alkalmazásával állapítja meg és téríti meg a Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat számára kártalanítás jogcímen 2026. június 30. napjától számított 80. napig.
 
-(3) Az ingatlanokhoz kapcsolódó közfeladatok ellátása részeként az ingatlanok üzemeltetését, kezelését, működtetését, az ingatlanok fenntartását, továbbfejlesztését és az azokkal kapcsolatos beruházások elvégzését az állam az Egyetem útján látja el. E törvény erejénél fogva az Egyetemet ingyenes vagyonkezelői jog illeti meg az ingatlanokon, amely az állam tulajdonjogának bejegyzésével egyidejűleg jön létre. Az Egyetem vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
+(3) Az ingatlanokhoz kapcsolódó közfeladatok ellátása részeként az ingatlanok üzemeltetését, kezelését, működtetését, az ingatlanok fenntartását, továbbfejlesztését és az azokkal kapcsolatos beruházások elvégzését az állam a Kormány határozatában kijelölt szervezet útján látja el. Az ingatlanokon végrehajtott beruházás eredményeképpen létrejövő épületeket is magában foglaló ingatlanokon a végleges használatbavételi engedély kiadásával egyidejűleg e törvény erejénél fogva ingyenes vagyonkezelői jog illeti meg köznevelési, illetve felsőoktatási célú beruházás esetén az Egyetemet, lakáscélú beruházás esetén a Kormány határozatában kijelölt szervezetet. Az Egyetem, valamint a Kormány határozatában kijelölt szervezet vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
 
-(4) Az ingatlanügyi hatóság az Egyetem (3) bekezdés szerinti vagyonkezelői jogát az Egyetem kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárására a Ptk. 5:167. §-át nem kell alkalmazni.
+(4) Az ingatlanügyi hatóság az Egyetem és a (3) bekezdés szerint a Kormány határozatában kijelölt szervezet (3) bekezdés szerinti vagyonkezelői jogát a kérelmükre e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárására a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:167. §-át nem kell alkalmazni.
 
-(5) A tulajdonosváltozáskor az ingatlanokat érintő Budapest Főváros VIII. kerület Józsefváros Önkormányzata vagy más – így különösen a Budapest Főváros VIII. kerület Józsefváros Önkormányzata tulajdonában álló vagy képviseletében eljáró gazdasági társaság – által kötött használati, bérleti, vagyonkezelési vagy egyéb szerződések a vagyonkezelésbe kerülést követő 180 napon belül e törvény erejénél fogva megszűnnek, kivéve, ha ezen időtartam lejárta előtt az Egyetem akként nyilatkozik, hogy a szerződésben Budapest Főváros VIII. kerület Józsefváros Önkormányzata vagy más helyébe lép.
+(5) A tulajdonosváltozáskor az ingatlanokat érintő Budapest Főváros VIII. kerület Józsefváros Önkormányzata vagy más – így különösen a Budapest Főváros VIII. kerület Józsefváros Önkormányzata tulajdonában álló vagy képviseletében eljáró gazdasági társaság – által már megkötött használati, bérleti, vagyonkezelési vagy egyéb szerződések, amelyek 2027. július 31. napján még hatályban vannak, ezen a napon e törvény erejénél fogva megszűnnek, kivéve azon szerződéseket, amelyek esetében a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Ltv.) alapján cserelakás felajánlásának van helye, mely esetben a jogosult részére az állam 2027. július 31-ig az Ltv. 26. § (1)–(4) bekezdésében foglalt tulajdonságokkal rendelkező cserelakást ajánl fel.
 
-(6) Az (5) bekezdésben foglaltak szerint megszűnő bérleti, vagyonkezelési vagy egyéb szerződések alapján a jogosult részére a Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat 2025. január 31-ig a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Ltv.) 26. § (1)–(4) bekezdésében foglalt tulajdonságokkal rendelkező cserelakást ajánl fel. A bérleti, vagyonkezelési vagy egyéb szerződés ez esetben csak akkor szűnik meg, ha azt a jogosult a felajánlás közlését követő 75 napon belül nem fogadja el vagy – amennyiben a cserelakás felajánlására vonatkozó kötelezettségének az önkormányzat nem tesz eleget – az állam által felajánlott cserelakást a felajánlás állam általi közlését követő 75 napon belül nem fogadja el. Ezen esetekben a lakásbérlet, vagyonkezelési vagy egyéb jogviszony a felajánlás közlését követő 91. napon megszűnik.
+(6) Abban az esetben, ha az Ltv. alapján cserelakás felajánlásának van helye, az érintett szerződés mindaddig hatályban marad – kivéve, ha határozott idejű szerződés esetén a szerződés időtartama a felajánlást megelőzően lejár –, amíg az állam nem ajánl fel a jogosult részére az (5) bekezdés szerinti cserelakást. Ez esetben az érintett szerződés – a felajánlás közlését követő 91. napon – abban az esetben szűnik meg, ha a jogosult az állam által felajánlott cserelakást a felajánlás közlését követő 75 napon belül nem fogadja el.
 
-(7) A (6) bekezdésben foglalt esetben az Ltv. 23/A. § (4) bekezdését megfelelően alkalmazni kell azzal, hogy a korábbi bérleményhez hasonló lakás bérleti díja különbözetének megtérítését, illetve a kártalanítást a Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat számára az állam a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján megtéríti.
+(7) Az (5) és a (6) bekezdésben foglalt esetben az Ltv. 23/A. § (4) bekezdését megfelelően alkalmazni kell.
 
-(8) Az Egyetem vagyonkezelői jogának gyakorlása – ideértve az ingatlanok birtoklását, használatát, hasznosítását is – közfeladat-ellátásnak minősül, és az ebből származó bevételeit a (3) bekezdés szerinti, valamint törvényben meghatározott egyéb közfeladatai ellátására fordíthatja.
+(8) Az Egyetem és a (3) bekezdés szerint a Kormány határozatában kijelölt szervezet vagyonkezelői jogának gyakorlása – ideértve az ingatlanok birtoklását, használatát, hasznosítását is – közfeladat-ellátásnak minősül, és az ebből származó bevételeiket a (3) bekezdés szerinti, valamint törvényben meghatározott egyéb közfeladataik ellátására fordíthatják.
 
-(9) Az ingatlanok tekintetében e § hatálybalépésének napjától az állami vagyon felügyeletéért felelős miniszter a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
+(9) Az ingatlanok tekintetében e § hatálybalépésének napjától – a 2. melléklet A) része szerinti ingatlanok tekintetében 2026. június 30. napjától – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
 
-(10) Az Egyetem által az ingatlanokon eszközölt értékfenntartó vagy értéknövelő beruházás megvalósításával összefüggésben – ideértve a megvalósításhoz kapcsolódó hatósági eljárásokat is – az előzetes – különösen az állami vagyon felügyeletéért felelős miniszter és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részéről adandó – tulajdonosi hozzájárulást, jóváhagyást, engedélyt megadottnak kell tekinteni.
+(10) A (3) bekezdés szerint a Kormány határozatában kijelölt szervezet által az ingatlanokon eszközölt értékfenntartó vagy értéknövelő beruházás megvalósításával összefüggésben – ideértve a megvalósításhoz kapcsolódó hatósági eljárásokat is – az előzetes – különösen a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részéről adandó – tulajdonosi hozzájárulást, jóváhagyást, engedélyt megadottnak kell tekinteni.
 
 51/C. § A Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság által az 51/B. § (2) bekezdése szerint megállapított forgalmi értéket az állammal szemben a Budapest Főváros VIII. kerület Józsefváros Önkormányzata – a forgalmi érték vele való közlését követő 15 napon belül – bíróság előtt, polgári peres eljárásában vitathatja, amely azonban nem érinti az állam 51/B. § (1) bekezdése szerinti tulajdonszerzését. A polgári peres eljárás lefolytatására a Fővárosi Törvényszék kizárólagosan illetékes.
 
@@ -656,7 +682,9 @@ képzésekre.
 
 #### 6. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-58. § Az 1/E. § az Alaptörvény VII. cikk (5) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+58. § (1) Az 1/D. § (14) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(2) Az 1/E. § az Alaptörvény VII. cikk (5) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2011. évi CXXXII. törvényhez
 
@@ -709,6 +737,7 @@ képzésekre.
 | 8 | Budapest | 35999 | 1/1 | kivett lakóház, udvar |
 | 9 | Budapest | 36035 | 1/1 | kivett lakóház, udvar |
 | 10 | Budapest | 36048 | 1/1 | kivett lakóház, udvar |
+| 11 | Budapest | 35980/0/A/1–35980/0/A/114 | 1/1 | Társasházi különlapok szerint |
 
 #### B)
 

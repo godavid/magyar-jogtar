@@ -184,21 +184,76 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 14. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-#### 58. §
+58. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 1/D. §-a a következő (4)–(13) bekezdéssel egészül ki:
 
-#### 59. §
+„(4) A (3) bekezdés szerinti köznevelési intézmény hálózat létrehozása érdekében a tankerületi központ által fenntartott köznevelési intézmény fenntartói jogának az Egyetem részére történő átadása (e § alkalmazásában a továbbiakban: intézkedés) során a nemzeti köznevelésről szóló 2011. évi CXC. törvényt (a továbbiakban: Nkt.) az (5)–(15) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
-#### 60. §
+(5) A fenntartói jog átadásáról – az Egyetem egyetértésével – a köznevelésért felelős miniszter az intézkedés tervezett végrehajtása évének július 15. napjáig hozhat döntést. Az Egyetem a fenntartásában működő köznevelési intézmény gyakorlóintézménnyé nyilvánítását minden évben augusztus 15-ig kérelmezheti azzal, hogy a hatóság az erről szóló döntését a tárgyév augusztus 31-ig meg kell hozza.
 
-#### 61. §
+(6) Az intézkedés során nem kell alkalmazni az Nkt. 83. § (3) és (4) bekezdését.
 
-#### 62. §
+(7) A fenntartói jog átadása az intézkedés évének augusztus 1. napjával hatályosul.
 
-#### 63. §
+(8) Az Egyetem által fenntartott köznevelési intézmény feladatainak ellátását szolgáló, települési önkormányzati tulajdonú ingatlan és ingó vagyon az intézkedés évének augusztus 1. napján az Egyetem vagyonkezelésébe kerül, mely ingó és ingatlan vagyonra vonatkozóan az Egyetemet az Nkt. 74. § (4) bekezdésében a tankerületi központ tekintetében meghatározottakkal azonos feltételekkel vagyonkezelői jog illeti meg mindaddig, amíg a köznevelési közfeladat az Egyetem részéről történő ellátása az adott ingatlanban meg nem szűnik. Az Egyetem e vagyonkezelői jogának fennállása alatt a köznevelési intézmény feladatainak ellátását szolgáló ingatlan és ingó vagyont a települési önkormányzat nem idegenítheti el, nem terhelheti meg, bérbe nem adhatja. Az Egyetem által a köznevelési intézmény feladatainak ellátását szolgáló ingatlanvagyon bérbeadásához szükség van az érintett köznevelési intézmény igazgatójának előzetes véleményére.
 
-#### 64. §
+(9) Az Egyetem és a települési önkormányzat az e §-ban foglaltak végrehajtása, így különösen a (8) bekezdés szerinti vagyonkezelői joghoz kapcsolódó – annak részletszabályait tartalmazó – vagyonkezelési szerződés megkötése során kölcsönösen együttműködve jár el. A vagyonkezelési szerződést legkésőbb az intézkedés évének augusztus 1. napjáig kell megkötni.
 
-#### 65. §
+(10) Ha a (9) bekezdésben megjelölt határidőig nem jön létre vagy nem teljeskörűen jön létre a vagyonkezelési szerződés, a köznevelésért felelős miniszter az intézkedés évének augusztus 31. napjáig határozattal létrehozza a szerződést, illetve határozattal dönt a szerződésben nem rendezett kérdésekről. A határozat ellen fellebbezésnek nincs helye. A határozat a bírósági eljárásra tekintet nélkül végrehajtható.
+
+(11) A (10) bekezdés szerinti határozattal (a továbbiakban: határozat) szemben keresetindításnak van helye. A bíróság a keresetről peres eljárásban határoz, az eljárásra – a (12) és (13) bekezdésben foglalt eltérésekkel – a közigazgatási perrendtartásról szóló 2017. évi I. törvény rendelkezéseit kell alkalmazni.
+
+(12) A határozat végrehajtása felfüggesztésének nincs helye. A bíróság a perben soron kívül jár el. A bíróság a határozatot megváltoztathatja.
+
+(13) Ha a határozattal szembeni kereset benyújtását követően, de a bíróság döntését megelőzően a felek a vagyonkezelési szerződést megkötik, a köznevelésért felelős miniszter a szerződés megkötését követően a határozatot visszavonja, és erről a bíróságot haladéktalanul írásban értesíti. A határozat visszavonása esetén a bíróság a pert megszünteti.”
+
+59. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 1/D. §-a a következő (14) bekezdéssel egészül ki:
+
+„(14) Az Egyetem vagyonkezelői jogának létrejöttéhez, az ingatlan-nyilvántartásba való bejegyezéséhez és a vagyonkezelői jog gyakorlásához vagyonkezelési szerződés megkötése nem szükséges.”
+
+60. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 1/D. §-a a következő (15) bekezdéssel egészül ki:
+
+„(15) A (8)–(14) bekezdésben foglaltakat az Egyetem fenntartásába a (4) bekezdés szerinti intézkedéssel került köznevelési intézmények tekintetében is alkalmazni kell.”
+
+61. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 44. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Felhatalmazást kap a Kormány, hogy határozatában jelölje ki az 51/B. § (3) bekezdése szerinti, az ingatlanok üzemeltetését, kezelését, működtetését, az ingatlanok fenntartását, továbbfejlesztését és az azokkal kapcsolatos beruházások elvégzését ellátó szervezetet.”
+
+62. § (1) A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 51/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Országgyűlés úgy rendelkezik, hogy a Budapest Főváros VIII. kerület Józsefváros Önkormányzata tulajdonában álló, a 2. melléklet B) része szerinti ingatlanok e törvény erejénél fogva az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvény (a továbbiakban: Módtv.4.) hatálybalépésének napjával, a 2. melléklet A) része szerinti ingatlanok 2026. június 30. napján köznevelési, felsőoktatási, valamint szociális lakhatási feladatokkal összefüggő tevékenység ellátása céljára az állam tulajdonába kerülnek (a továbbiakban együtt: ingatlanok).”
+
+(2) A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 51/B. § (3)–(8) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Az ingatlanokhoz kapcsolódó közfeladatok ellátása részeként az ingatlanok üzemeltetését, kezelését, működtetését, az ingatlanok fenntartását, továbbfejlesztését és az azokkal kapcsolatos beruházások elvégzését az állam a Kormány határozatában kijelölt szervezet útján látja el. Az ingatlanokon végrehajtott beruházás eredményeképpen létrejövő épületeket is magában foglaló ingatlanokon a végleges használatbavételi engedély kiadásával egyidejűleg e törvény erejénél fogva ingyenes vagyonkezelői jog illeti meg köznevelési, illetve felsőoktatási célú beruházás esetén az Egyetemet, lakáscélú beruházás esetén a Kormány határozatában kijelölt szervezetet. Az Egyetem, valamint a Kormány határozatában kijelölt szervezet vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
+
+(4) Az ingatlanügyi hatóság az Egyetem és a (3) bekezdés szerint a Kormány határozatában kijelölt szervezet (3) bekezdés szerinti vagyonkezelői jogát a kérelmükre e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárására a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:167. §-át nem kell alkalmazni.
+
+(5) A tulajdonosváltozáskor az ingatlanokat érintő Budapest Főváros VIII. kerület Józsefváros Önkormányzata vagy más – így különösen a Budapest Főváros VIII. kerület Józsefváros Önkormányzata tulajdonában álló vagy képviseletében eljáró gazdasági társaság – által már megkötött használati, bérleti, vagyonkezelési vagy egyéb szerződések, amelyek 2027. július 31. napján még hatályban vannak, ezen a napon e törvény erejénél fogva megszűnnek, kivéve azon szerződéseket, amelyek esetében a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Ltv.) alapján cserelakás felajánlásának van helye, mely esetben a jogosult részére az állam 2027. július 31-ig az Ltv. 26. § (1)–(4) bekezdésében foglalt tulajdonságokkal rendelkező cserelakást ajánl fel.
+
+(6) Abban az esetben, ha az Ltv. alapján cserelakás felajánlásának van helye, az érintett szerződés mindaddig hatályban marad – kivéve, ha határozott idejű szerződés esetén a szerződés időtartama a felajánlást megelőzően lejár –, amíg az állam nem ajánl fel a jogosult részére az (5) bekezdés szerinti cserelakást. Ez esetben az érintett szerződés – a felajánlás közlését követő 91. napon – abban az esetben szűnik meg, ha a jogosult az állam által felajánlott cserelakást a felajánlás közlését követő 75 napon belül nem fogadja el.
+
+(7) Az (5) és a (6) bekezdésben foglalt esetben az Ltv. 23/A. § (4) bekezdését megfelelően alkalmazni kell.
+
+(8) Az Egyetem és a (3) bekezdés szerint a Kormány határozatában kijelölt szervezet vagyonkezelői jogának gyakorlása – ideértve az ingatlanok birtoklását, használatát, hasznosítását is – közfeladat-ellátásnak minősül, és az ebből származó bevételeiket a (3) bekezdés szerinti, valamint törvényben meghatározott egyéb közfeladataik ellátására fordíthatják.”
+
+(3) A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 51/B. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) A (3) bekezdés szerint a Kormány határozatában kijelölt szervezet által az ingatlanokon eszközölt értékfenntartó vagy értéknövelő beruházás megvalósításával összefüggésben – ideértve a megvalósításhoz kapcsolódó hatósági eljárásokat is – az előzetes – különösen a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részéről adandó – tulajdonosi hozzájárulást, jóváhagyást, engedélyt megadottnak kell tekinteni.”
+
+63. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 58. §-a helyébe a következő rendelkezés lép:
+
+„58. § (1) Az 1/D. § (14) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(2) Az 1/E. § az Alaptörvény VII. cikk (5) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.”
+
+64. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 2. melléklete a 2. melléklet szerint módosul.
+
+65. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény
+
+- 1. 51/B. § (2) bekezdésében az „a Módtv.4. hatálybalépésének” szövegrész helyébe a „2026. június 30.” szöveg,
+- 2. 51/B. § (9) bekezdésében a „napjától az állami vagyon felügyeletéért felelős miniszter a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján” szövegrész helyébe a „napjától – a 2. melléklet A) része szerinti ingatlanok tekintetében 2026. június 30. napjától – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság” szöveg
+
+lép.
 
 #### 15. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
@@ -470,6 +525,20 @@ alapján sarkalatosnak minősül.
 ### 1. melléklet a 2025. évi LI. törvényhez
 
 ### 2. melléklet a 2025. évi LI. törvényhez
+
+A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 2. melléklet A) pontjában foglalt táblázat a következő 11. sorral egészül ki:
+
+|  | (A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |
+| 2 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONI HÁNYAD | MEGNEVEZÉS) |
+
+„
+
+| 11 | Budapest | 35980/0/A/1–35980/0/A/114 | 1/1 | Társasházi különlapok szerint |
+| --- | --- | --- | --- | --- |
+
+”
 
 ### 3. melléklet a 2025. évi LI. törvényhez
 
