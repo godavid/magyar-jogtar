@@ -319,10 +319,10 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - i) a köznevelésért felelős miniszter képviselője;
 - j) a vízgazdálkodásért és a vízvédelemért felelős miniszter képviselője;
 - k) a felsőoktatásért felelős miniszter képviselője;
-- l) a szakképzésért felelős miniszter képviselője;
-- m) az innovációért felelős miniszter képviselője;
+- l)
+- m)
 - n) a közlekedésért felelős miniszter képviselője;
-- o) a nemzeti közműszolgáltatásokért felelős miniszter képviselője.
+- o)
 
 (5a) A Tisza-tó Fejlesztési Tanács tagjai:
 
@@ -330,7 +330,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - b) az európai uniós források felhasználásáért felelős miniszter képviselője;
 - c) az aktív Magyarországért felelős miniszter képviselője;
 - d) a területrendezésért felelős miniszter képviselője;
-- e) a környezetvédelemért felelős miniszter képviselője;
+- e)
 - f) a vízgazdálkodásért felelős miniszter képviselője;
 - g) a turizmusért felelős miniszter képviselője;
 - h) a természetvédelemért felelős miniszter képviselője;
@@ -338,7 +338,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - j) a közlekedésért felelős miniszter képviselője;
 - k) a társadalmi felzárkózásért felelős miniszter képviselője.
 
-(6) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokba a területfejlesztésért felelős miniszter és az európai uniós források felhasználásáért felelős miniszter egy-egy tagot delegál, míg más felelősségi körökben érintett miniszterek kizárólag egy tagot delegálhatnak akkor is, ha több kormányzati felelősségi kör alapján jogosultak a tagdelegálásra.
+(6)
 
 (7) A kormányzati hatáskörbe tartozó napirendi pont tárgyalására az illetékes központi kormányzati igazgatási szerv képviselőjét meg kell hívni.
 
@@ -351,7 +351,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 (9) A kiemelt térségi fejlesztési tanácsok működtetésére a 11. §-t és a 12. § (2)–(4) bekezdését kell alkalmazni azzal az eltéréssel, hogy a kiemelt térségi fejlesztési tanácsok működtetéséhez a központi költségvetés támogatást nyújt.
 
-(10) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokban az elnöki feladatokat két elnök, mint társelnök látja el, azzal, hogy az egyik elnök a területfejlesztésért felelős miniszter vagy az általa kijelölt személy, a másik elnököt a tanácsok a tagjaik közül választják. A társelnökök a tanács üléseit együttesen hívják össze, és az elnöki teendőiket azonos jogkörrel, – a társelnök tevékenységére is figyelemmel – egymással együttműködve látják el.
+(10) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokban, azok tagjaként az elnöki feladatokat két elnök, mint társelnök látja el, azzal, hogy az egyik elnök a területfejlesztésért felelős miniszter vagy az általa kijelölt személy, a másik elnököt a tanácsok a tagjaik közül választják. A társelnökök a tanács üléseit együttesen hívják össze, és az elnöki teendőiket azonos jogkörrel, – a társelnök tevékenységére is figyelemmel – egymással együttműködve látják el.
 
 ### IV. Fejezet — A TERÜLETFEJLESZTÉS ESZKÖZEI
 
@@ -395,7 +395,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 17. § (1) Az átfogó területfejlesztési politika megvalósításának érvényesítésére a területi kohézió erősítése, a fejlettségben mutatkozó területi különbségek mérséklése, a térségi versenyképesség javítása, a fenntartható fejlődés feltételeinek megteremtése, az innováció térbeli terjedése, valamint a közszolgáltatásokhoz való egyenlő hozzáférés elősegítése érdekében Területfejlesztési Alap (a továbbiakban: Alap) jön létre, amely pénzügyi támogatást biztosít a 2. §-ban rögzített célkitűzések megvalósításához.
 
-(2) Ha a Kormány a területi felzárkózás elősegítése céljából – azok teljes vagy részbeni fedezetének biztosítása érdekében pályázati úton – a Területfejlesztési Alap elnevezésű fejezeti kezelésű előirányzat terhére támogatást nyújt, a fejezetet irányító szerv vezetője az államháztartásról szóló törvényben meghatározott tárgyévi és költségvetési éven túli kötelezettségvállalási szabályoktól eltérően – a Kormány egyedi határozatában adott felhatalmazása alapján – kötelezettséget vállalhat.
+(2) Ha a Kormány a területi felzárkózás elősegítése céljából a Területfejlesztési Alap elnevezésű fejezeti kezelésű előirányzat terhére támogatást nyújt, a fejezetet irányító szerv vezetője az államháztartásról szóló törvényben meghatározott tárgyévi és költségvetési éven túli kötelezettségvállalási szabályoktól eltérően – a Kormány egyedi határozatában adott felhatalmazása alapján – kötelezettséget vállalhat.
 
 (3) A Kormány (2) bekezdés szerinti felhatalmazása a tárgyévi és a költségvetési éven túli kötelezettségek együttes összegét tartalmazza.
 
@@ -634,7 +634,7 @@ amely a területi tervek alapján valósul meg.
 - 9. az állami főépítész vagy főépítészek kijelölését és feladatkörük szabályozását;
 - 10. a területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő – személyes adatot nem tartalmazó – dokumentumok körét, azok gyűjtésének, megőrzésének, nyilvántartásának és hasznosításának részletes szabályait;
 - 11. a Területfejlesztési Szolgálat szervezetrendszerének kialakítását, feladatainak részletes meghatározását, valamint működésének szakmai felügyeletére vonatkozó szabályokat;
-- 12. az együtt kezelendő térségek lehatárolását, körének meghatározását;
+- 12.
 - 13.
 
 rendeletben állapítsa meg.

@@ -52,7 +52,7 @@ az Országgyűlés a következő törvényt alkotja:
 
 #### 3. A kiemelt budapesti fejlesztések előkészítése
 
-5. § (1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a vagyonkezelésében lévő ingatlanon a vagyonkezelési jog alapján beruházási és felújítási tevékenységet is végezhet.
+5. § (1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a tulajdonosi jog gyakorlása alapján, vagy a vagyonkezelésében lévő vagy a megállapodás alapján a rendelkezésére álló ingatlanon e jogviszonyok alapján beruházási és felújítási tevékenységet is végezhet.
 
 (2) Az (1) bekezdésben megjelölt beruházás során az építtető az állam érdekében, saját nevében és az állam javára jár el, a beruházás során létrehozott vagyon az állam tulajdonába kerül.
 
@@ -135,7 +135,21 @@ kell érteni.
 - a) a Kormány Várnegyed rehabilitációs programot valósít meg, amely keretében a Budai Palotanegyed területén található ingatlanokon értékmegőrző, valamint értékteremtő fejlesztéseket és beruházásokat kell elvégezni,
 - b) a Kormány biztosítja – a világörökségre, valamint a kulturális örökség védelmére vonatkozó előírásokkal összhangban – az egységes településképi és építészeti követelmények érvényesítését, amely érdekében a Kormány rendeletben állapíthatja meg az egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat, egyedi hatósági eljárási szabályokat,
 - c) a Kormány rendeletben határozza meg a Budai Palotanegyed területe tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
-- d) a Budai Palotanegyedben található, a 3. és 4. mellékletben felsorolt közterületek fenntartása, fejlesztése és üzemeltetése körében a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztését és karbantartását az állam a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság útján, az erre a célra nevesített támogatások biztosítása mellett látja el.
+- d) a Budai Palotanegyedben található, a 3. és 4. mellékletben felsorolt ingatlanok
+  - da) építési beruházási és fejlesztési feladatait az állami beruházásokért felelős miniszter,
+  - db) vagyonkezelését, üzemeltetését és ennek körében a fenntartását, fejlesztését, valamint a zöldfelületek és egyéb közterületek karbantartását az állam a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság útján, az erre a célra nevesített támogatások biztosítása mellett
+
+látja el.
+
+15/A. § A Kormány az e fejezetben meghatározott építtetői feladatokat, valamint a 15. § a) pontja és 15. § d) pont da) alpontja szerinti feladatok építtetői előkészítését és megvalósítását jogutódként az állami beruházásokért felelős miniszter (e fejezet alkalmazásában a továbbiakban: Építtető) útján látja el, azzal, hogy a beruházás előkészítését és megvalósítását költségvetési szerv útján látja el. A költségvetési szerv e feladatai elvégzéséhez közreműködőt vehet igénybe.
+
+15/B. § (1) Az Építtető tulajdonosi joggyakorlásába kell adni a beruházások megvalósításához szükséges – az Építtető által az ingatlanok tulajdonosi joggyakorlója részére benyújtott kérelemben megjelölt – állami tulajdonú ingatlanokat és a beruházáshoz szükséges egyéb vagyonelemeket. Az állami ingatlanok tulajdonosi joggyakorlója – az Építtető megkeresése alapján – 30 napon belül intézkedik az ingatlanok tulajdonosi joggyakorlásának átadására vonatkozó megállapodás megkötéséről. Az ingatlanok és a beruházáshoz szükséges állami tulajdonú egyéb vagyonelemek tulajdonosi joggyakorlását ingyenesen, a megállapodás megkötésének napjával, könyv szerinti értéken kell az Építtető részére átadni. A tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartási átvezetését a megállapodás ingatlanügyi hatóság részére történő megküldésével az Építtető és az átadó tulajdonosi joggyakorló közösen kezdeményezi. Az ingatlanügyi hatóság az ingatlan-nyilvántartási kérelmen és az annak mellékletét képező megállapodáson kívül, az ingatlan-nyilvántartási átvezetéshez más dokumentumot nem kérhet. A tulajdonosi joggyakorlás megállapodással történő átadásával az átvett vagyonnal kapcsolatos jogviszonyokban a korábbi tulajdonosi joggyakorló helyett az Építtető képviseli az államot.
+
+(2) Az Építtető tulajdonosi joggyakorlásának időtartama alatt az Építtető által az állam 100%-os tulajdonában álló, az Építtető tulajdonosi joggyakorlása alatt álló ingatlanon felépített új építmény az állam 100%-os tulajdonába és az Építtető tulajdonosi joggyakorlásába kerül.
+
+(3) Az Építtető tulajdonosi joggyakorlása a beruházás keretében létrejött építmény műszaki átadás-átvételének lebonyolítását – új építmény esetében egyúttal az állami ingatlan-nyilvántartási térképi adatbázisban történő feltüntetését – követően, a munkaterület kivitelező által az Építtető részére történő visszaadását követő napon e törvény erejénél fogva megszűnik. Az Építtető tulajdonosi joggyakorlásának megszűnését követően a vagyonelemeket az új tulajdonosi joggyakorló könyveiben, nyilvántartásában kell feltüntetni, az Építtető által nyilvántartott – befejezetlen beruházás – könyv szerinti értéken az Építtető által az új tulajdonosi joggyakorló részére a tulajdonosi joggyakorlás megszűnését követő 60 napon belül megküldött, tételes nyilvántartási adatokat és értékeket tartalmazó kimutatás alapján.
+
+(4) Az Építtető a tulajdonosi joggyakorlásának a megszűnését követő 15 napon belül az új tulajdonosi joggyakorlóval közösen kezdeményezi az illetékes ingatlanügyi hatóságnál a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartási átvezetését. Az ingatlanügyi hatóság az ingatlan-nyilvántartási kérelmen és az annak mellékletét képező, a tulajdonosi joggyakorlása megszűnésére vonatkozó minisztériumi nyilatkozaton kívül, az ingatlan-nyilvántartási átvezetéshez más dokumentumot nem kérhet.
 
 16. § (1) A Budai Palotanegyed területére vonatkozó települési önkormányzati településrendezési tervet, településképi rendeletet, valamint egyéb önkormányzati rendeletet a 15. § b) pontja szerinti kormányrendeletben meghatározott eltérésekkel kell alkalmazni. Amennyiben a településrendezési terv, településképi rendelet vagy egyéb önkormányzati rendelet a 15. § b) pontja alapján megalkotott kormányrendelettel ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor azt nem lehet alkalmazni, helyette a 15. § b) pontja szerinti kormányrendeletben foglaltakat kell alkalmazni.
 
@@ -160,9 +174,15 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (6) A Vagyonkezelő által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával, vagy beszerzésével összefüggésben a feleknek egymással szemben megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek a Vagyonkezelő – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyon-nyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
 
-(7) A Vagyonkezelőt megilletik a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdése szerinti tulajdonos jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében az építési tevékenység megvalósítása céljából a Vagyonkezelő által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
+(6a) A Vagyonkezelő a beruházás megvalósításával érintett ingatlant e törvény erejénél fogva köteles az Építtetőnek az építési beruházás céljából annak befejezéséig, illetve a megállapodásban rögzített napig átadni.
 
-(8) A Vagyonkezelőre nézve a tulajdonosi joggyakorló mindenkor hatályos vagyon-nyilvántartási és tulajdonosi ellenőrzési szabályzata külön elfogadás nélkül is kötelező. A Vagyonkezelő köteles a vagyonkezelésében álló állami vagyont – az e törvény alapján történő vagyonkezelésbe adás jogcímén – nyilvántartásba venni, és arról a Vr. szerint adatot szolgáltatni a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részére.
+(7) A Vagyonkezelőt megilletik a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdése szerinti tulajdonos jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében a Vagyonkezelő a 15. § d) pont db) alpontja szerinti feladatai ellátása körében végzett építési tevékenység megvalósítása céljából a Vagyonkezelő által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
+
+(8) A Vagyonkezelőre nézve a tulajdonosi joggyakorló mindenkor hatályos vagyon-nyilvántartási és tulajdonosi ellenőrzési szabályzata külön elfogadás nélkül is kötelező. A Vagyonkezelő köteles a vagyonkezelésében álló állami vagyont – az e törvény alapján történő vagyonkezelésbe adás jogcímén – nyilvántartásba venni, és arról a Vr. szerint adatot szolgáltatni a tulajdonosi joggyakorló részére.
+
+(9) A Vagyonkezelő a vagyonkezelésében lévő ingatlan vonatkozásában a 15. § d) pont db) alpontja szerinti feladatai ellátása körében végzett tevékenysége, továbbá az ezzel összefüggő közbeszerzési és beszerzési tevékenysége közérdekű célú fejlesztésnek minősül. A Vagyonkezelő mint ajánlatkérő a fenntartással, üzemeltetéssel és karbantartással összefüggő feladatai, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.), valamint a saját vonatkozó szabályzata szerint köteles eljárni.
+
+(10) A Vagyonkezelő a 15. § d) pont db) alpontja szerinti feladatai ellátása körében érvényesíti a szavatossági és jótállási jogokat.
 
 #### 9. A Budai Palotanegyed helyreállítása és fenntartható fejlesztése
 
@@ -174,11 +194,11 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (3) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (2) és (2a) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (2) és (2a) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (2) és (2a) bekezdésben foglaltakat kell alkalmazni.
 
-(4) A 19. § (2) és (4)–(10) bekezdésében foglaltak alkalmazandóak az olyan, (1) bekezdés szerinti beruházáshoz kapcsolódó beruházás esetében is, amelyet a 19. § (1) bekezdése szerinti Vagyonkezelő nem a saját vagyonkezelésében álló vagy nem állami tulajdonú nemzeti vagyonba tartozó ingatlanon (a továbbiakban együtt: idegen ingatlan) valósít meg. Idegen ingatlanon történő beruházásra a tulajdonosi joggyakorló – ennek hiányában a tulajdonos – előzetes hozzájárulása birtokában kerülhet sor, és a beruházással létrejövő vagyon átadásáról a Vagyonkezelő és a tulajdonosi joggyakorló – ennek hiányában a tulajdonos – megállapodást köt.
+(4) A 19. § (2) és (4)–(10) bekezdésében foglaltak alkalmazandóak az olyan, (1) bekezdés szerinti beruházáshoz kapcsolódó beruházás esetében is, amelyet az Építtető nem a Vagyonkezelő vagyonkezelésében álló vagy nem az Építtető tulajdonosi joggyakorlása alatt lévő, vagy nem állami tulajdonú nemzeti vagyonba tartozó ingatlanon (a továbbiakban együtt: idegen ingatlan) valósít meg. Idegen ingatlanon történő beruházásra a tulajdonosi joggyakorló – ennek hiányában a tulajdonos – előzetes hozzájárulása birtokában kerülhet sor, és a létrejövő értéknövelő beruházás átadásáról az Építtető és az állami ingatlan tulajdonosi joggyakorlója – nem állami tulajdonban lévő ingatlan tekintetében a tulajdonos – megállapodást köt.
 
-19. § (1) A Vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez a 18. § (1) bekezdésében foglalt Várnegyed rehabilitációs program, valamint a 14. §-ban foglalt célok és közfeladatok megvalósítása érdekében, az e törvényben rögzített előkészítésre és megvalósításra, továbbá üzemeltetésre és fenntartásra vonatkozó részletszabályok szerint, amelyekkel összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a Vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyeremény anyagok értékesítéséből származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 31/A. § (5) és (6) bekezdésében meghatározottak szerint támogatásként a Vagyonkezelőt illeti meg azzal, hogy a Vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon célszerinti fenntartására fordítani.
+19. § (1) Az Építtető az építtetői feladatok ellátása során a tulajdonosi joggyakorlása alatti vagy Vagyonkezelő vagyonkezelésében lévő vagy idegen ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez a 18. § (1) bekezdésében foglalt Várnegyed rehabilitációs program, valamint a 14. §-ban foglalt célok és közfeladatok megvalósítása érdekében, amelyek során köteles a bontási hulladékok megsemmisítésére, vagy hulladékgyűjtő helyen történő elhelyezésére a tulajdonosi joggyakorló selejtezési szabályzata alapján, továbbá jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére vagy végleges elhelyezésére megbízási szerződést kötni. A vissznyeremény anyagok értékesítéséből származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 31/A. § (5) és (6) bekezdésében meghatározottak szerint a Vagyonkezelőt illeti meg azzal, hogy a Vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon, illetve az általa karbantartott zöldfelület célszerinti fenntartására fordítani.
 
-(2) A Vagyonkezelő mint építtető az (1) bekezdés szerinti beruházások vonatkozásában különösen az alábbi feladatokat látja el:
+(2) Az Építtető az (1) bekezdés szerinti beruházások vonatkozásában különösen az alábbi feladatokat látja el:
 
 - a) a beruházás előkészítése során:
   - aa) teljeskörűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, felméréseket, tanulmányokat,
@@ -210,15 +230,15 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
   - bh) közreműködik a használatbavételi engedélyezési, illetve tudomásulvételi eljárásban,
   - bi) érvényesíti a szavatossági és jótállási jogokat.
 
-(3) A Vagyonkezelő, mint építtető az (1) bekezdés szerinti beruházások tekintetében a feladatait az állam érdekében, saját nevében és az állam javára eljárva látja el.
+(3) Az Építtető az (1) bekezdés szerinti beruházások tekintetében a feladatait az állam érdekében, saját nevében és az állam javára eljárva látja el.
 
-(4) A Vagyonkezelő által a vagyonkezelésében lévő ingatlanon az (1) bekezdés szerinti beruházások előkészítésével és megvalósításával, továbbá üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül. A Vagyonkezelő mint ajánlatkérő a beruházások előkészítésével, megvalósításával, üzemeltetésével és fenntartásával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.), valamint a saját vonatkozó szabályzata szerint köteles eljárni.
+(4) Az Építtető által – az (1) bekezdés szerinti beruházással érintett ingatlanon – az (1) bekezdés szerinti beruházások előkészítése és megvalósítása, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül. Az Építtető mint ajánlatkérő a beruházások előkészítésével, megvalósításával, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a Kbt., valamint a saját vonatkozó szabályzata szerint köteles eljárni.
 
-(5) A Vagyonkezelő mint építtető feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
+(5) Az Építtető feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
 
-(6) A Vagyonkezelő az (1) bekezdés szerinti magasépítési beruházások műszaki nyomon követését építményinformációs modell (BIM) alapú rendszer segítségével végzi.
+(6) Az Építtető az (1) bekezdés szerinti magasépítési beruházások műszaki nyomon követését építményinformációs modell (BIM) alapú rendszer segítségével végzi.
 
-(7) A Vagyonkezelő az (1) bekezdés szerinti magasépítési beruházások előkészítése és megvalósítása során költségszakértőt vesz igénybe, amely a Kormány rendeletében ezen feladatok ellátására kijelölt állami tulajdonban álló gazdasági társaság.
+(7) Az Építtető az (1) bekezdés szerinti magasépítési beruházások előkészítése és megvalósítása során költségszakértőt vesz igénybe, amely a Kormány rendeletében ezen feladatok ellátására kijelölt állami tulajdonban álló gazdasági társaság.
 
 (8) A költségszakértő ellátja az (1) bekezdés szerinti magasépítési beruházás során alkalmazott árakkal és felmerülő költségekkel kapcsolatos döntés-előkészítési feladatokat, a legkisebb költség elvére figyelemmel költségellenőrzést végez, a beszerzési és közbeszerzési eljárás során közreműködik az aránytalanul alacsony ár és egyéb aránytalan vállalások vizsgálatában, valamint vizsgálja a költségek alakulását. A költségszakértő felel a magasépítési beruházásokhoz kapcsolódó költségbecslések és költségszámítások megalapozottságáért, továbbá az építészeti-műszaki dokumentációkban foglaltaknak való megfelelőségéért.
 
@@ -283,6 +303,10 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (5) A (3) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (4) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (4) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (4) bekezdésben foglaltakat kell alkalmazni.
 
+### III/C. Fejezet — KIEMELT NEMZETI EMLÉKHELYEN MEGVALÓSULÓ BERUHÁZÁSOK
+
+19/C. § A kiemelt nemzeti emlékhelyen és annak jogszabály szerinti településkép-védelmi környezetében megvalósuló azon beruházás megvalósítása esetén, amelyet jogszabály a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) szerinti közcélú kiemelt beruházássá nyilvánított, vagy amelyre a Méptv. közcélú kiemelt beruházásra vonatkozó szabályait kell alkalmazni (a továbbiakban együtt: kiemelt nemzeti emlékhellyel összefüggő beruházás) – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (4) bekezdés d)–f) pontjától eltérően – a Kormány az e törvény felhatalmazása alapján kiadott rendeletében – a kiemelt nemzeti emlékhely védelmének és értékének megőrzése érdekében – az építési tevékenység elvégzéséhez feltétlenül szükséges időtartamra és helyszínre vonatkozóan a helyi zajvédelmi szabályokhoz képest eltérő követelményeket, valamint különös eljárási szabályokat állapíthat meg.
+
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 10. Felhatalmazó rendelkezések
@@ -303,16 +327,34 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 - b) a Budai Palotanegyed területére vonatkozó egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat, egyedi hatósági eljárási szabályokat,
 - c) a Budai Palotanegyed tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
 - d) a 18. és 19/A. §-ok szerinti kiemelten közérdekű beruházások megnevezését, helyszínét, illetve szükség szerint közvetlen környezetét,
-- e) a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztésére és karbantartására kijelölt, a 15. § d) pontja szerinti gazdasági társaságot,
+- e) a Budai Palotanegyedben található zöldfelületek és egyéb ingatlanok karbantartására kijelölt, 15. § d) pont db) alpontja szerinti gazdasági társaságot,
 - f) a Budai Palotanegyedben található, állami tulajdonban lévő ingatlanok vagyonkezelési feladatainak ellátására kijelölt, a 17. § (2) bekezdése szerinti gazdasági társaságot.
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kiemelt nemzeti emlékhellyel összefüggő beruházások megvalósításához kapcsolódóan az építési tevékenység elvégzéséhez feltétlenül szükséges időtartamra és helyszínre vonatkozóan a helyi zajvédelmi szabályoktól eltérő követelményeket, valamint különös eljárási szabályokat.
 
 #### 11. Hatályba léptető és átmeneti rendelkezések
 
 21. § Ez a törvény a kihirdetését követő 5. napon lép hatályba.
 
-22. § (1) A Budai Palotanegyed területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az a magyar építészetről szóló 2023. évi C. törvény a 177. § (1) bekezdésében foglaltakon túlmenően e törvény, valamint a végrehajtására kiadott jogszabályok előírásainak is megfelel vagy szabályossá tehető.
+22. § (1) A Budai Palotanegyed területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az a Méptv. a 177. § (1) bekezdésében foglaltakon túlmenően e törvény, valamint a végrehajtására kiadott jogszabályok előírásainak is megfelel vagy szabályossá tehető.
 
 (2) A 15. § d) pontja szerinti közfeladatot 2019. január 1-től látja el állami feladatként a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság.
+
+(2a) A 15. § d) pont db) alpontja szerinti közfeladatot 2025. július 1-jétől állami feladatként a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság látja el.
+
+(2b) A 15/A. § szerinti közfeladatot 2025. július 1-jétől látja el az állami beruházásokért felelős miniszter. A 15/A. § szerinti közfeladatok előkészítésével és megvalósításával összefüggő, Vagyonkezelő által megkötött szerződésekbe a 15/A. § szerinti építtető e törvény erejénél fogva a Vagyonkezelő helyébe lép, amelyhez a szerződésben részes harmadik fél hozzájárulása nem szükséges, a szerződő fél személyében bekövetkezett változásról a szerződésben részes feleket értesíteni kell.
+
+(2c) A 15/A. § szerinti építtetőt a (2b) bekezdés szerinti változás esetén az érintett beruházás előkészítéséhez vagy megvalósításához kapcsolódó további közbeszerzési kötelezettség nem terheli.
+
+(2d) A tervek, illetve az azokat tartalmazó dokumentáció felhasználási joga tekintetében a 15/A. § szerinti építtetőt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
+
+(2e) A Vagyonkezelő helyébe a hatósági engedélyek tekintetében e törvény erejénél fogva az 15/A. § szerinti építtető lép.
+
+(2f) A (2e) bekezdés szerinti változást a 15/A. § szerinti építtető bejelenti a hatósági engedélyt kiadó hatóság részére.
+
+(2g) A 15/B. § (1) bekezdése szerinti tulajdonosi jogok gyakorlása 2025. július 1-jétől illeti meg az állami beruházásokért felelős minisztert.
+
+(2h) Az állami beruházásokért felelős miniszter 2025. július 1-jétől a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság által fel nem használt működési és beruházási támogatások általános jogutódja. A működéshez kapcsolódó támogatások esetében kivételt képeznek azon támogatási jogviszonyok, amelyek nem építési és beruházási tevékenységhez kapcsolódnak.
 
 (3) A 23–25. §, a 30. § és a 33. § Magyarország filmszakmai támogatási programjáról szóló SA.36579 számú határozattal meghosszabbított N 202/2008. számú és az azt módosító SA.38425 számú és SA.50768 számú európai bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
 
@@ -321,6 +363,8 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 (5) A 19. § (7) és (8) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.
 
 23. § E törvénynek az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 2. mellékletét a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+23/A. § E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 19/C. §-át és 20. § (3) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 12. Módosító rendelkezések
 

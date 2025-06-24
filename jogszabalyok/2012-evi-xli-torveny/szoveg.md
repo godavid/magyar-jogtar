@@ -532,9 +532,9 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (7) Az autóbuszos közúti személyszállítási szolgáltatási piac összehangolt felügyelete érdekében az autóbuszos hatóság, a vasúti igazgatási szerv, valamint a hajózási hatóság egymással együttműködik.
 
-15/A. § (1) Az autóbuszos hatóság részére a piac felügyeletével kapcsolatos tevékenységéért az autóbusszal díj ellenében közúti személyszállítási tevékenységet végző közlekedési szolgáltató piacfelügyeleti díjat fizet.
+15/A. § (1) Az autóbuszos hatóság részére a piac felügyeletével kapcsolatos tevékenységéért az autóbusszal díj ellenében közúti személyszállítási tevékenységet végző közlekedési szolgáltató – a kizárólag szerződéses és különjárati személyszállítási szolgáltatást végző, legfeljebb 10 autóbuszt üzemeltető közlekedési szolgáltatók kivételével – piacfelügyeleti díjat fizet.
 
-(2) A piacfelügyeleti díjat a tárgyévet megelőző év december 31-én érvényes – a közlekedési hatóság által kiadott tevékenység végzésére feljogosító autóbuszos személyszállító engedélyben (tevékenységi engedély) – feltüntetett, az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató által üzemeltethető autóbuszok után kell megfizetni. A díj mértékét az 1. melléklet tartalmazza.
+(2) A piacfelügyeleti díjat a tárgyévet megelőző év december 31-én érvényes – a közlekedési hatóság által kiadott tevékenység végzésére feljogosító – autóbuszos személyszállító engedélyben (tevékenységi engedély) feltüntetett, az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató által üzemeltethető autóbuszok után kell megfizetni. A díj mértékét az 1. melléklet tartalmazza.
 
 (2a) A piacfelügyeleti díjat az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató arra a naptári évre is megfizeti, amely naptári évben az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató a tevékenységét megszünteti vagy szünetelteti, továbbá, amely naptári évben a közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató tevékenységi engedélyét felfüggesztette vagy visszavonta.
 
@@ -1317,13 +1317,15 @@ vonatkozó önkormányzati rendelet kiadására.
 
 (11) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésével a KTI Nonprofit Kft. menetrend szerinti személyszállítással, közlekedési stratégiai és hálózat tervezéssel, forgalmi modellezéssel, elektronikus jegyrendszerrel, valamint utastájékoztatással kapcsolatos feladatai, tárgyi eszközei, vagyoni értékű jogai tulajdonjoga az országos közlekedésszervezőre, mint jogutódra szállnak át térítésmentesen, olyan módon, hogy ez az országos közlekedésszervező és a KTI Nonprofit Kft. számára adó- és közteherfizetési kötelezettséget nem keletkeztet.
 
-(12) A 35/A. § szerinti Központi Rendszerként működő, az IKOP-3.1.0-15-2017-00014 és az IKOP-3.2.0-15-2017-00028. azonosítószámú Helyközi Közösségi Közlekedési Információs Rendszer (HKIR) projektben létrehozott vagyonelemeket, vagyoni értékű jogokat a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság és a KTI Kft., mint a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokról, a központi adatbázisokról és az azokhoz kapcsolódó központi szolgáltatásokról, továbbá a működtető szervezetek kijelöléséről szóló kormányrendelet szerinti Központi Rendszert működtető átadó szervezetek 2024. március 1-jével térítésmentesen kötelesek átadni a MÁV-START Vasúti Személyszállító Zárkörűen Működő Részvénytársaság és a VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság, mint a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokról, a központi adatbázisokról és az azokhoz kapcsolódó központi szolgáltatásokról, továbbá a működtető szervezetek kijelöléséről szóló kormányrendelet szerinti Központi Rendszert működtető átvevő szervezetek részére.
+(12) A 35/A. § szerinti Központi Rendszerként működő, az IKOP-3.1.0-15-2017-00014 és az IKOP-3.2.0-15-2017-00028. azonosítószámú Helyközi Közösségi Közlekedési Információs Rendszer (HKIR) projekt vonatkozásában a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság (a továbbiakban: NM Zrt.) és a KTI Kft. projektbeli jogutódja a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV SZK) és a MÁV Személyszállítási Zártkörűen Működő Részvénytársaság (a továbbiakban együtt: jogutód szervezetek). Az e projekttel összefüggő jogok és kötelezettségek a jogutód szervezeteket illetik meg, illetve terhelik. A jogutód szervezetek kötelesek az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni. Az e projektben létrehozott vagyonelemeket, vagyoni értékű jogokat az NM Zrt. és a KTI Kft. 2025. június 30. napjáig térítésmentesen köteles átadni a MÁV SZK részére.
 
 (13) A (12) bekezdésben foglalt vagyonelemek, vagyoni értékű jogok átadására nem kell alkalmazni a társasági adóról szóló 1996. évi LXXXI. törvény 18. §-ának rendelkezéseit.
 
 (14) E törvénynek a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosításáról szóló 2025. évi XI. törvénnyel (a továbbiakban: Módtv.) megállapított 27. §-át és 39. § (1)–(4) bekezdését első alkalommal a 2025/2026. évi menetrend tervezése során kell alkalmazni.
 
 (15) A 2025/2026. évi menetrend hatálybalépéséig a Módtv. hatálybalépése előtt hatályos, még elégséges szolgáltatás mértékére vonatkozó rendelkezések szerint köteles a szolgáltató sztrájk esetén a közszolgáltatást ellátni.
+
+(16) Az e törvény szerinti kiemelt közszolgáltatói közreműködő a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) alkalmazása során az e törvény szerinti közlekedésszervezővel esik egy megítélés alá. A kiemelt közszolgáltatói közreműködő a Htv. 3. § (3) bekezdésében meghatározott nyilatkozatot első alkalommal 2025. évben 2025. július 31-ig teheti meg.
 
 #### 36. Az Európai Unió jogának való megfelelés
 
@@ -1366,15 +1368,15 @@ vonatkozó önkormányzati rendelet kiadására.
 
 Az autóbuszos közlekedési szolgáltató által fizetendő piacfelügyeleti díj mértéke a tevékenység végzésére feljogosító autóbuszos személyszállító engedélyben feltüntetett üzemeltethető autóbuszainak száma alapján:
 
-|  | A | B |
-| --- | --- | --- |
-|  | A szolgáltató által üzemeltetett engedélyköteles autóbuszok száma | A piacfelügyeleti díj éves mértéke (forintban) |
-| 1. | 1–5 db | 50 000 |
-| 2. | 6–10 db | 100 000 |
-| 3. | 11–20 db | 200 000 |
-| 4. | 21–50 db | 500 000 |
-| 5. | 51–100 db | 1 000 000 |
-| 6. | 101–250 db | 2 000 000 |
-| 7. | 251–500 db | 3 000 000 |
-| 8. | 501–1000 db | 4 000 000 |
-| 9. | 1000 db felett | 5 000 000 |
+| 1 | A | B | C |
+| --- | --- | --- | --- |
+| 2 | A szolgáltató által üzemeltetett engedélyköteles autóbuszok száma | A piacfelügyeleti díj éves mértéke (forintban)az autóbusszal díj ellenében közúti személyszállításitevékenységet végző közlekedési szolgáltatók esetében | A piacfelügyeleti díj éves mértéke (forintban)a kizárólag szerződéses és különjárati személyszállítási szolgáltatást végző közlekedési szolgáltatók esetében |
+| 3 | 1–5 db | 50 000 | 0 |
+| 4 | 6–10 db | 100 000 | 0 |
+| 5 | 11–20 db | 200 000 | 100 000 |
+| 6 | 21–50 db | 500 000 | 250 000 |
+| 7 | 51–100 db | 1 000 000 | 500 000 |
+| 8 | 101–250 db | 2 000 000 | 1 000 000 |
+| 9 | 251–500 db | 3 000 000 | 1 500 000 |
+| 10 | 501–1000 db | 4 000 000 | 2 000 000 |
+| 11 | 1000 db felett | 5 000 000 | 2 500 000 |

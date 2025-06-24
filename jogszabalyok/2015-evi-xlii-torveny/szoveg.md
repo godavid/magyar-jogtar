@@ -6221,6 +6221,16 @@ az általános rendőrségi feladatok ellátására létrehozott szerv a hátral
 
 (6) A (2) bekezdés c) pontja szerinti adatokat a terrorizmust elhárító szerv a megvalósult utazásról történő hazatérésről való tudomásszerzést követően haladéktalanul törli.
 
+(7) A miniszter előzetes jóváhagyásával a terrorizmust elhárító szerv főigazgatója át nem ruházható hatáskörében – szolgálati érdekből, az érintett személy speciális végzettségére, képzettségére, az általa ellátandó feladat kiemelt fontosságára vagy speciális jellegére tekintettel – a terrorizmust elhárító szervhez vezényelt részére az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg. A személyi illetményben részesülő foglalkoztatottak száma nem haladhatja meg a terrorizmust elhárító szerv létszámának 30%-át.
+
+(8) A (7) bekezdés szerinti személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonást követően a hivatásos állomány tagját az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött szolgálati beosztás alapján kell besorolni és illetményét megállapítani.
+
+(9) A (7) bekezdés szerinti személyi illetményben részesülő illetményét évente – január 31-ig – felül kell vizsgálni.
+
+(10) Visszavonás nélkül is megszűnik a (7) bekezdés szerinti személyi illetmény, ha a vezényelt besorolása szerinti illetményének összege eléri a személyi illetmény összegét. Ebben az esetben a hivatásos állomány tagját az általa betöltött szolgálati beosztás alapján kell besorolni, és illetményét megállapítani.
+
+(11) Ha a hivatásos állomány tagja részére a (7) bekezdés szerinti személyi illetmény került megállapításra, úgy távolléti díjként részére a megállapított személyi illetmény távollét idejére számított időarányos része jár.
+
 319/O. § A terrorizmust elhárító szerv tagja a gyülekezési törvény hatálya alá eső gyűlésen történő megjelenési szándékát köteles a terrorizmust elhárító szerv főigazgatójának bejelenteni, aki a részvételt megtilthatja, ha az a hivatással vagy az ellátott szolgálati beosztással nem egyeztethető össze, vagy a rendvédelmi szerv szolgálati érdekeit sérti vagy veszélyezteti. A terrorizmust elhárító szerv főigazgatója köteles a döntését megindokolni.
 
 319/P. § A 108. § (1) bekezdésében foglaltak megsértése a terrorizmust elhárító szerv tagja esetében összeférhetetlenségnek minősül.

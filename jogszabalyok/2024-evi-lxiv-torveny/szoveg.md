@@ -294,7 +294,7 @@ lép.
 
 #### 26. Záró rendelkezések
 
-95. § (1) Ez a törvény – a (2)–(7) bekezdésben foglalt kivétellel – 2025. január 1-jén lép hatályba.
+95. § (1) Ez a törvény – a (2)–(8) bekezdésben foglalt kivétellel – 2025. január 1-jén lép hatályba.
 
 (2) A 11. alcím a kihirdetését követő 31. napon lép hatályba.
 
@@ -306,7 +306,9 @@ lép.
 
 (6) Az 53. § és a 62. § 2025. december 30-án lép hatályba.
 
-(7) Az 50. §, az 55. §, az 57. §, az 58. §, a 63. § 2., 4–6., 8., 10., 14. és 17. pontja, valamint a 64. § d) és e) pontja 2026. január 1-jén lép hatályba.
+(7) Az 55. §, az 57. §, valamint a 63. § 2., 4–6., 8., 10., 14. és 17. pontja 2026. január 1-jén lép hatályba.
+
+(8) Az 50. §, az 58. §, valamint a 64. § d) és e) pontja 2026. szeptember 1-jén lép hatályba.
 
 96. § (1) E törvény
 

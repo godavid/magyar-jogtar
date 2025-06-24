@@ -17,7 +17,9 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - 1. adatforrás: a statisztikai adatfelvétel megvalósításának, a megfigyelendő adatok begyűjtésének forrása. A statisztikai megfigyeléshez szükséges adatok összegyűjtése több adatforrásból történhet,
 - 2. adatkör: a statisztikai adatfelvétel által megfigyelt ismérvek egy adott témára és adott megfigyelési szintre vonatkozó, azonos logikai egységbe tartozó csoportja,
 - 3. adminisztratív adatforrás: olyan másodlagos adatforrás, amelyben tárolt adatok gyűjtését vagy azokról nyilvántartás vezetését jogszabály írja elő az adminisztratív adatforrás kezelője számára,
+- 3a. anonimizálás: személyes adat olyan módon történő kezelése, amelynek következtében további információk felhasználásával sem állapítható meg többé, hogy a személyes adat mely konkrét természetes személyre vonatkozik,
 - 4. azonosítás: az az esemény, amikor egy adott statisztikai egységet (különösen: természetes személyt, gazdálkodó szervezetet, egyéb intézményt) egyértelműen felismernek vagy hozzájutnak a statisztikai egység egy vagy több közvetlen azonosítójához,
+- 4a. álnevesítés: személyes adatoknak az általános adatvédelmi rendelet 4. cikk 5. pontjában meghatározott módon történő kezelése,
 - 5. egyedi adat: olyan adat vagy adatok olyan együttese, amely – a mindenkori legjobb technikai lehetőségek igénybevételével – lehetővé teszi a statisztikai egység közvetlen vagy közvetett azonosítását, illetve azon keresztül eddig nem ismert információ felfedését,
 - 6. egyéb másodlagos adatforrás: minden olyan másodlagos adatforrás, ami nem minősül adminisztratív adatforrásnak,
 - 7. elsődleges adatforrás: olyan adatforrás, amelyből a statisztikai adatfelvétel által leírt sokaság adott időszakra vagy időpontra vonatkozó ismérvei teljes mértékben vagy részben statisztikai adatgyűjtéssel meghatározhatók,
@@ -30,7 +32,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - 14. statisztikai adat-előállítási folyamat: a hivatalos statisztikai adatok előállítási folyamata, a hivatalos statisztikai adatot kezelő intézmények alaptevékenysége, amely magában foglalja a hivatalos statisztikák iránti igények megismerését, a hivatalos statisztikai adatok előállítási folyamatának és az azt támogató eszközöknek a megtervezését, szervezését, fejlesztését, adatforrások használatát, a hivatalos statisztikai célból kezelt adatok előkészítését, feldolgozását, elemzését, az azok alapján történő tájékoztatást és megjelenítést, valamint a hivatalos statisztikai információk archiválását,
 - 15. statisztikai adatfelvétel: egy adott sokaság adott időszakra vagy időpontra vonatkozó ismérveinek gyűjtése egy társadalmi, gazdasági vagy környezeti jelenség statisztikai megfigyelése céljából, különböző adatforrások felhasználásával,
 - 16. statisztikai adatgyűjtés: a statisztikai adatfelvétel által meghatározott sokaság adott időszakra vagy időpontra vonatkozó ismérveinek összegyűjtése a kiválasztott adatszolgáltatók megkérdezésével vagy közvetlen megfigyeléssel,
-- 17. statisztikai cél: hivatalos statisztikai adat statisztikai adat-előállítási folyamatban való felhasználása,
+- 17. statisztikai cél: adat hivatalos statisztikai adat-előállítási folyamatban való felhasználása, ideértve az adatok elemzését, a kapcsolódó tudományos és kutatási tevékenységet, valamint a mintavételi keretek kialakítását,
 - 18. statisztikai egység: a sokaság meghatározott tulajdonságokkal, jellemzőkkel, ismérvekkel rendelkező egyede,
 - 19. statisztikai nyilvántartás: a Hivatalos Statisztikai Szolgálat tagjai által a statisztikai adatfelvételek céljából megfigyelt sokaságok egyedeinek azonosítására, elérhetőségére és a statisztikai adat-előállítási folyamatot támogató jellemzőkre vonatkozó rendszeresen karbantartott nyilvántartás. A statisztikai nyilvántartásokban szereplő, a sokaság egyedeit leíró nyilvántartási egységek vonatkozhatnak a társadalom, a gazdaság és a környezet bármely egységére, jellemző módon személyekre, címekre, szervezetekre vagy tevékenységekre,
 - 20. statisztikai regiszter: a statisztikai adat-előállítási folyamat támogatása és egységesítése céljából a Hivatalos Statisztikai Szolgálat tagjai által vezetett olyan statisztikai nyilvántartás, amelyből elérhetők a különböző adatfelvételek sokaságainak aktuális és történeti állapotai, a változások oka, hatálya, forrása, és amely a sokaság egyedeire (egységeire) vonatkozó adatokat strukturáltan, adatbázisban tárolja,
@@ -119,9 +121,9 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (7) A KSH az adatok gyűjtéséhez, az adatok feldolgozásához, és az adatok közzétételéhez kapcsolódó közhatalmi feladatait a KSH elnöke által alapított, a magyar állam 100%-os tulajdonában álló Statisztikai Elemző Központ Korlátolt Felelősségű Társaság bevonásával látja el.
 
-(8) A gazdasági társaság felett a tulajdonosi jogokat a magyar állam nevében a KSH elnöke gyakorolja.
+(8) A gazdasági társaság felett a tulajdonosi jogokat – ideértve a nemzeti vagyonra vonatkozó jogszabályok szerinti tulajdonosi joggyakorlást – a magyar állam nevében a KSH elnöke gyakorolja.
 
-(9) A Központi Statisztikai Hivatal Népességtudományi Kutató Intézet központi költségvetési szerv, amely az alap- és alkalmazott demográfiai kutatást, mint közfeladatot látja el, és amely felett az irányítási jogkört – az alapítás, átalakítás, megszüntetés kivételével – a KSH elnöke gyakorolja.
+(9) A Központi Statisztikai Hivatal Kvantitatív Társadalom- és Gazdaságtudományi Kutató Intézet központi költségvetési szerv, amely az alap- és alkalmazott kvantitatív társadalom- és gazdaságtudományi kutatást, mint közfeladatot látja el, és amely felett az irányítási jogkört – az alapítás, átalakítás, megszüntetés kivételével – a KSH elnöke gyakorolja.
 
 (10) A Központi Statisztikai Hivatal Könyvtár egy teljes kötelespéldánysorra jogosult országos feladatkörű tudományos szakkönyvtár, amely felett az irányítási jogkört – az alapítás, átalakítás, megszüntetés kivételével – a KSH elnöke gyakorolja.
 
@@ -139,15 +141,16 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - f) a törvényben elrendeltek kivételével az adatszolgáltatási kötelezettséggel járó statisztikai adatgyűjtésekről szóló kormányrendelet tervezet szakmai tartalmának összeállítása, előkészítésében történő részvétel és végrehajtásának figyelemmel kísérése,
 - g) a Hivatalos Statisztikai Szolgálat Országos Statisztikai Adatfelvételi Programjának összeállítása és végrehajtásának ellenőrzése,
 - h) az Országgyűlés és a Kormány évenkénti tájékoztatása Magyarország társadalmi, gazdasági, környezeti és népesedési adatairól,
-- i) éves jelentés készítése az Országgyűlés részére a Hivatalos Statisztikai Szolgálat működéséről és a jelentés közzététele,
+- i)
 - j) a Hivatalos Statisztikai Szolgálat tagjainak akkreditációja, akkreditációjuk felülvizsgálata,
 - k) a Hivatalos Statisztikai Szolgálat tagjai hivatalos statisztikai tevékenységének szakmai koordinációja, a hivatalos statisztikai tevékenységgel kapcsolatos iránymutatások kiadása, ezek betartásának ellenőrzése és felülvizsgálata,
 - l) az egységes, a statisztikai adat-előállítási folyamatban használandó osztályozások kialakítása, számjelek meghatározása és kiadás céljából miniszteri rendelet szakmai tartalmának kialakítása, az előkészítésben való közreműködés és végrehajtásának figyelemmel kísérése,
 - m) Magyarország Közigazgatási Helynévkönyvének vezetése, Magyarország Helységnévtárának kiadása,
 - n) egy teljes kötelespéldánysorra jogosult országos feladatkörű tudományos szakkönyvtár üzemeltetése,
-- o) népességtudományi kutatóintézet üzemeltetése,
+- o) kvantitatív társadalom- és gazdaságtudományi kutatóintézet üzemeltetése,
 - p) közreműködés a statisztikai szakképzés rendszerének kialakításában, működtetésében,
 - q) közreműködés a statisztikai kultúra terjesztésében és fejlesztésében.
+- r) részvétel a nemzeti adatkormányzás irányításában.
 
 (3) A KSH javaslatot tesz a hivatalos statisztikai tevékenységet érintő jogszabályok megalkotására.
 
@@ -173,7 +176,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - d) a 4. §-ban foglaltak szerint – az MNB kivételével – ellátja a Hivatalos Statisztikai Szolgálat hivatalos statisztikai tevékenységének koordinációját,
 - e) gyakorolja a munkáltatói jogokat az elnökhelyettesek és a KSH állományába tartozó kormányzati szolgálatijogviszonyban, vagy munkaviszonyban álló alkalmazottak tekintetében.
 
-12. § Az elnökhelyettes a KSH Szervezeti és Működési Szabályzatában meghatározott felelősségi területen az elnök irányítása mellett látja el tevékenységét, és irányítja a KSH Szervezeti és Működési Szabályzatában meghatározott szervezeti egységek munkáját.
+12. § Az elnökhelyettes a KSH Szervezeti és Működési Szabályzatában meghatározott felelősségi területen az elnök irányítása mellett látja el tevékenységét, és irányítja a KSH Szervezeti és Működési Szabályzatában meghatározott szervezeti egységek munkáját, valamint az általa irányított terület tevékenysége vonatkozásában önállóan képviseli a KSH-t.
 
 13. § (1) A KSH elnökét a miniszterelnök nevezi ki hét évre, amely kinevezés két alkalommal megújítható.
 
@@ -228,11 +231,13 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 18. § (1) A KSH elnökhelyetteseit a KSH elnöke bármikor felmentheti, a felmentést nem kell indokolni.
 
-(2) A KSH elnökhelyettese számára e tisztségéből történő felmentését megelőzően – kivéve, ha arra nyugdíjjogosultság miatti kérelem alapján kerül sor vagy a KSH elnökhelyettese a felmentés közlésének időpontjában nyugdíjasnak minősül – végzettségének és szakképzettségének, szakképesítésének megfelelő álláshelyet kell felajánlani a KSH szervezetében. A KSH elnökhelyettese a felajánlott álláshely elfogadásáról öt munkanapon belül írásban nyilatkozik a KSH elnökének.
+(2) A KSH elnökhelyettesét az e tisztségéből történő felmentését megelőzően – kivéve, ha arra nyugdíjjogosultság miatti kérelem alapján kerül sor vagy a KSH elnökhelyettese a felmentés közlésének időpontjában nyugdíjasnak minősül – a KSH elnöke írásban tájékoztatja a KSH szervezetén belül az iskolai végzettségének és szakképzettségének, szakképesítésének megfelelő másik álláshelyen történő továbbfoglalkoztatás lehetőségéről.
 
-(3) Ha a KSH elnökhelyettese a felajánlott álláshelyet elfogadja, át kell helyezni.
+(3) A KSH elnökhelyettese a tájékoztatás közlésétől számított öt munkanapon belül írásban nyilatkozik a (2) bekezdés szerint felajánlott álláshely elfogadásáról. Ha a KSH elnökhelyettese a határidő leteltéig a nyilatkozattételt elmulasztja, azt úgy kell tekinteni, mintha a (2) bekezdés szerint felajánlott álláshelyet nem fogadta volna el.
 
-(4) Ha a KSH elnökhelyettese a felajánlott álláshelyet nem fogadja el a kormánytisztviselőkre irányadó szabályok szerint felmentési idő és juttatások illeti meg, amelynek időtartama alatt a munkavégzési kötelezettség alól mentesül.
+(4) A KSH elnökhelyettesi jogviszony felmentéssel történő megszüntetésére csak akkor kerülhet sor, ha KSH szervezetén belül a KSH elnökhelyettese iskolai végzettségének és szakképzettségének, szakképesítésének megfelelő másik betöltetlen álláshely nincs, vagy ha a KSH elnökhelyettese az ilyen álláshelyre történő áthelyezését nem fogadta el.
+
+(5) Ha a KSH elnökhelyettese a (2) bekezdés szerint felajánlott álláshelyet nem fogadja el, az elnökhelyettest a nyilatkozattétel időpontját, vagy, ha a nyilatkozattételt elmulasztja, a nyilatkozattétel határidejének lejártát követő naptól induló felmentési idővel fel kell menteni. A KSH elnökhelyettesét a Kit. szerinti felmentési idő és juttatások illetik meg, amelynek időtartama alatt a munkavégzési kötelezettség alól mentesül.
 
 19. § (1) A KSH elnöke a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg. A KSH elnöke ezenfelül az államtitkári juttatásokkal azonos juttatásokra jogosult.
 
@@ -251,8 +256,8 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - a) az Európai Statisztika Gyakorlati Kódexében, valamint a Nemzeti Statisztika Gyakorlati Kódexben foglalt elvek megvalósulásának figyelemmel kísérése,
 - b) a Nemzeti Statisztika Gyakorlati Kódexe tartalmának véleményezése,
 - c) az Országos Statisztikai Adatfelvételi Program véleményezése a felhasználói igények és az adatszolgáltatói terhek szempontjából,
-- d) a Hivatalos Statisztikai Szolgálat éves tájékoztatási programjának véleményezése,
-- e) a statisztikai adatokhoz való tudományos célú hozzáférés feltételeinek véleményezése.
+- d) a Hivatalos Statisztikai Szolgálat tagjai tájékoztatási tevékenységével kapcsolatos kérdések véleményezése,
+- e) a hivatalos statisztika fejlesztésére, előállítására, nyilvánosságra hozatalára vonatkozó prioritások, stratégiai kérdések megvitatása.
 
 (3) Az OST bármilyen, statisztikával kapcsolatos kérdést napirendjére tűzhet, az üléseire meghívhatja a KSH szakértőit. Feladataival kapcsolatban ajánlásokat fogalmazhat meg.
 
@@ -303,11 +308,11 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 (2) A Koordinációs Testület célja, hogy a hivatalos statisztikai tevékenységgel kapcsolatos kérdéseket megvitassa. Ennek kapcsán feladatai különösen:
 
 - a) a hivatalos statisztika fejlesztésére, előállítására, nyilvánosságra hozatalára vonatkozó prioritások, stratégiai kérdések megvitatása,
-- b) a hivatalos statisztikák fejlesztéséhez, előállításához és nyilvánosságra hozatalához szükséges erőforrások felmérése,
+- b)
 - c) javaslatok kidolgozása a hivatalos statisztikai tevékenység egységesítésére, a minőségének folyamatos javítására, a párhuzamosságok kiküszöbölésére,
 - d) részvétel a Nemzeti Statisztika Gyakorlati Kódexe tartalmának kidolgozásában, továbbfejlesztésében, véleményezésében, valamint egyetértési jog gyakorlása annak elfogadása során,
 - e) az Országos Statisztikai Adatfelvételi Program tervének előzetes véleményezése, továbbá a végrehajtás nyomon követése és a program teljesülésének értékelése,
-- f) másodlagos adatforrások hivatalos statisztikai célú felhasználásával kapcsolatos állásfoglalások és iránymutatások véleményezése,
+- f)
 - g) módszertani kérdések, fogalmak, osztályozások, ajánlások, állásfoglalások és iránymutatások véleményezése,
 - h) az Európai Statisztikai Rendszerben felmerülő kérdésekkel kapcsolatos tagállami álláspont véleményezése.
 
@@ -465,13 +470,13 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - e) értékkészletet tartalmazó adatállomány esetén az értékkészletek (kódok, megnevezések) átadása,
 - f) az adatok értelmezését segítő egyéb módszertani leírások, amelyek megadják az állomány sokaságát (a nyilvántartás, illetve az abból átvett egyedek körét), az állomány tartalmára vonatkozó módszertani információkat (alkalmazott osztályozások, megfigyelés és előállítás módszertanát), a nyilvántartás aktualizálásának, minőség-ellenőrzésének módját.
 
-(10) Az adminisztratív adatok átadását – a KSH részére minden esetben, a Hivatalos Statisztikai Szolgálat egyéb tagjai részére igényük esetén – a KSH által erre a célra üzemeltetett elektronikus rendszeren keresztül kell teljesíteni.
+(10) Az adminisztratív adatok átadását a Hivatalos Statisztikai Szolgálat tagja által meghatározott módon, csatornán keresztül kell teljesíteni.
 
-(10a) A (10) bekezdésben foglalt elektronikus rendszeren keresztül történő adatátadásra a 27/A. §-ban foglaltakat kell alkalmazni.
+(10a)
 
-(11) Az adminisztratív adatforrást kezelő szervezet az adminisztratív adatforrás hivatalos statisztikai célú felhasználhatóságára tekintettel az adminisztratív adatforrás minőségéről minden évben a KSH által meghatározott tartalmú és formájú minőségjelentést állít össze és megküldi azt a KSH részére.
+(11) Az adminisztratív adatforrást kezelő szervezet az adminisztratív adatforrás hivatalos statisztikai célú felhasználhatóságára tekintettel az adminisztratív adatforrás minőségéről a KSH által meghatározott tartalommal és formában információt ad át a KSH részére.
 
-(12) A KSH a beérkezett minőségjelentéseket és az azokhoz fűzött, a minőség javítását célzó észrevételeit bemutatja véleményezés céljából a Nemzeti Statisztikai Koordinációs Testületnek.
+(12)
 
 (13) Az adminisztratív adatforrást kezelő szerv együttműködik a Hivatalos Statisztikai Szolgálat adatot átvevő tagjával az adminisztratív adatforrás hivatalos statisztikai célú felhasználásának minőség-ellenőrzésével összefüggésben megfogalmazott észrevételek átültetésében, ha azok a kezelő szerv számára nem jelentenek igazgatási, műszaki többlet feladatot, illetve az észrevételek beépítése nem jár a kezelő szerv alaptevékenységére nézve igazgatási vagy informatikai biztonsági kockázat növekedésével. Az adminisztratív adatforrást kezelő szerv az általa elfogadott észrevételek végrehajtásáról, illetve az el nem fogadott észrevételek indokáról köteles a Hivatalos Statisztikai Szolgálatnak az észrevételt megfogalmazó tagja részére beszámolni.
 
@@ -479,11 +484,26 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 #### 14. Egyéb statisztikai adatátvételek
 
-29. § (1) A jogi személy, valamint a gazdasági tevékenységére vonatkozóan a gazdasági tevékenységet folytató természetes személy és a saját személyiségi joga szerint jogképes szervezet a Kormány rendelete alapján köteles az általa vezetett nyilvántartás adatait – a (3) bekezdésben foglalt kivétellel – egyedi azonosításra alkalmas módon statisztikai célból a Hivatalos Statisztikai Szolgálat tagjának átadni.
+29. § (1) A Magyarországon gazdasági tevékenységet végző jogi személy, valamint a gazdasági tevékenységére vonatkozóan a gazdasági tevékenységet folytató természetes személy és a saját személyes joga szerint jogképes szervezet (a továbbiakban: adatgazda) köteles az általa vezetett nyilvántartás adatait a hivatalos statisztikai célnak megfelelő egyedi azonosításra alkalmas módon hivatalos statisztikai célból a Hivatalos Statisztikai Szolgálat tagjának átadni.
 
-(2) Az (1) bekezdés szerinti adatátvétel elrendeléséről a 26. § szerinti, adatgyűjtésekhez kapcsolódó adatszolgáltatási kötelezettséget elrendelő Kormányrendeletben kell rendelkezni. Az adatátadásra egyebekben a 26–27. §-ban, valamint a 28. § (7)–(9) bekezdésben foglaltakat kell megfelelően alkalmazni.
+(2) Az adatátadás csak különösen indokolt esetben terjedhet ki személyes adatra, ha az adatátadás a hivatalos statisztikai cél eléréséhez feltétlenül szükséges. Az adatátadás célját és annak alátámasztását a (6) bekezdés szerinti megállapodás tartalmazza.
 
-(3) Az adatátadás nem terjedhet ki személyes adatra.
+(3) A személyes adatok esetén az adatátadás a hivatalos statisztikai célhoz feltétlenül szükséges mértékben a következő adatkategóriákra terjedhet ki: családi- és utónév, nem, születési idő, állampolgárság, lakóhely, egyéb, az érintettet azonosító adat, valamint az adatgazda által az érintettről kezelt, az adatgazda gazdasági tevékenységéhez kapcsolódó, így különösen annak keretében nyújtott szolgáltatásra vonatkozó adat. A részletes adatkategóriákat a Kormány által kiadott rendelet határozza meg. A személyes adatokat – amennyiben azok eredeti formában történő kezelése nem indokolt – a Hivatalos Statisztikai Szolgálat tagja álnevesíti vagy anonimizálja.
+
+(4) Az (1) bekezdés szerinti adatátadásért a Hivatalos Statisztikai Szolgálat tagja térítést nem fizethet az adatszolgáltató szervezetnek.
+
+(5) Az adatátadással kapcsolatos igényét a KSH megküldi az adatgazdának. Az igény tartalmazza az alábbiakat:
+
+- a) az igényelt adatok és metaadatok meghatározása,
+- b) a hivatalos statisztikai cél bemutatása és indokolása,
+- c) az adatátadás gyakorisága és határideje,
+- d) az adatátadás gyakorlati feltételei.
+
+(6) Az adatátadással kapcsolatos igény teljesítése vonatkozásában – a szükséges egyeztetések lefolytatását követően – a KSH és az adatgazda az igény megküldésétől számított három hónapon belül a 28. § (8) és (9) bekezdése szerinti tartalommal megállapodást köt.
+
+(7) Amennyiben az (5) bekezdés szerinti megállapodást az adatgazda nem köti meg, vagy a megkötött megállapodás alapján, az ott megjelölt határidőre nem teljesíti az adatátadási kötelezettségét, a KSH annak teljesítésére 15 napos határidő tűzésével ismételten felszólítja. Ha az adatgazda továbbra sem tesz eleget a kötelezettségének, a 32. § szerinti jogkövetkezmények alkalmazandóak.
+
+(8) A Hivatalos Statisztikai Szolgálat KSH-n kívüli tagja adatátadásra vonatkozó igényével a KSH-t keresi meg. Az adatgazda felé a Hivatalos Statisztikai Szolgálat KSH-n kívüli tagja képviseletében a KSH jár el a (4) és (5) bekezdésekben foglaltaknak megfelelően.
 
 #### 15. Népmozgalmi statisztika
 
@@ -491,7 +511,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (2) A népmozgalmi események körében kell megfigyelni a magyar állampolgárok külföldön bekövetkezett azon népmozgalmi eseményeit, amelyek anyakönyvezésére Magyarországon is sor kerül.
 
-(3) A népmozgalmi események felmérése a következő adatcsoportokra terjed ki: név, lakcím, állampolgárság, születési hely és idő, nem, családi állapot, családi állás, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, a halálozással, illetve a terhesség megszakításával mint népmozgalmi eseményekkel összefüggő egészségi állapot, az anyakönyvezés helye, az anyakönyvi eseményazonosító, a népmozgalmi esemény helye és ideje.
+(3) A népmozgalmi események felmérése a következő adatcsoportokra terjed ki: név, lakcím, állampolgárság, születési hely és idő, nem, családi állapot, családi állás, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, a halálozással, illetve a terhesség megszakításával mint népmozgalmi eseményekkel összefüggő egészségi állapot, ezen eseményekhez kapcsolódó betegtörzsszám, az anyakönyvezés helye, az anyakönyvi eseményazonosító, a népmozgalmi esemény helye és ideje.
 
 (4) A népmozgalmi eseménnyel kapcsolatban gyűjtött adatok közül a nevet, a lakcímet és az anyakönyvi eseményazonosítót a népmozgalmi adatok statisztikai célú feldolgozását és törvény szerinti adatátadási kötelezettség teljesítését követően 8 napon belül törölni kell.
 
@@ -517,7 +537,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (5) Az OSAP tervezése során a Hivatalos Statisztikai Szolgálat tagjai elkészítik a tervezett statisztikai adatfelvétel adat-előállítási módszertanára vonatkozó dokumentációt, amelyet a Hivatalos Statisztikai Szolgálat többi tagja, valamint az OST tagjai részére hozzáférhetővé tesznek.
 
-(6) Minden tárgyévet követő év szeptember 30-ig a KSH elnöke a Hivatalos Statisztikai Szolgálat tagjai által nyújtott információk alapján az OSAP teljesüléséről értékelő jelentést készít, amelyet véleményezés céljából megküld a Koordinációs Testületnek és az OST-nek, majd ezt követően nyilvánosságra hozza azt.
+(6) Minden tárgyévet követő év november 30-ig a KSH elnöke a Hivatalos Statisztikai Szolgálat tagjai által nyújtott információk alapján az OSAP teljesüléséről értékelő jelentést készít, amelyet véleményezés céljából megküld a Koordinációs Testületnek és az OST-nek, majd ezt követően nyilvánosságra hozza azt.
 
 (7) A Hivatalos Statisztikai Szolgálat tagjai az egyes statisztikai adatgyűjtések kérdőíveit és a kapcsolódó dokumentációt a KSH elnöke által kiadott módszertani iránymutatásban foglaltak szerint állítják össze.
 
@@ -634,7 +654,7 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 
 (8) A statisztikai adatfelvétel keretében kezelt egyedi adat kizárólag statisztikai célra használható. Tilos annak bármely nem statisztikai, azaz a statisztikai adat-előállítási folyamaton kívüli célra, különös tekintettel az egyedi adat büntető-, polgári peres, nemperes eljárás, hatósági, adóigazgatási eljárás során történő felhasználása, illetve belföldi jogsegély keretében való felhasználásra történő átadása.
 
-40. § (1) A természetes személy személyére vonatkozó statisztikai adatfelvételnél a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény szerinti természetes személyazonosító adatokat – kivéve azt, amelynek adathordozóját a levéltári anyag védelmére vonatkozó jogszabály értelmében levéltári őrizetbe kell adni – a statisztikai feldolgozás befejezésekor törölni kell.
+40. § (1)
 
 (2) A személyes adatokat tartalmazó adatállományok esetében a statisztikai egység statisztikai adatgyűjtéshez használt közvetlen azonosító adatait különválasztva kell tárolni a statisztikai egységre vonatkozó egyéb adatoktól. Az adatgyűjtéshez használt közvetlen azonosító helyett az egyes statisztikai egységeket technikai azonosítóval kell ellátni, amelynek segítségével a kapcsolat a gyűjtött adatok és a statisztikai egység adatgyűjtéshez használt közvetlen azonosító adatai között helyreállítható.
 
@@ -642,11 +662,11 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 
 (4) Statisztikai adatgyűjtések esetében az adatszolgáltató az általános adatvédelmi rendelet 16. cikkében foglalt, helyesbítéshez való jogával a statisztikai adatfeldolgozás megkezdéséig élhet. A Hivatalos Statisztikai Szolgálat adatgyűjtést végrehajtó tagja nem köteles az adatszolgáltató által kért helyesbítést elvégezni, ha az a statisztikai adatfelvételi módszertan alkalmazását vagy más, statisztikai szakmai szempontokat sértene vagy az lehetetlen. Statisztikai adatátvétel esetén a helyesbítéshez való jog a Hivatalos Statisztikai Szolgálat adatot átvevő tagjánál nem gyakorolható.
 
-41. § (1) A KSH és a Hivatalos Statisztikai Szolgálat többi tagja – a 28. § (14) bekezdésében foglaltak figyelembevételével – tudományos célból hozzáférést biztosíthat olyan egyedi adatokhoz, amelyek megismerése révén a statisztikai egységek közvetlenül nem azonosíthatók.
+41. § (1) A KSH és a Hivatalos Statisztikai Szolgálat többi tagja – a 28. § (14) bekezdésében foglaltak figyelembevételével – tudományos célból – ideértve a tudományos kutatást, valamint az információkon alapuló társadalmi döntéshozatalhoz szükséges elemzéseket – hozzáférést biztosíthat olyan egyedi adatokhoz, amelyek megismerése révén a statisztikai egységek közvetlenül nem azonosíthatók.
 
 (2) Az (1) bekezdés szerinti hozzáférés kizárólag olyan biztonságos környezetben történhet, ahol az adatokhoz való hozzáférés szigorúan ellenőrzött körülmények között, a Hivatalos Statisztikai Szolgálat tagjának belső hálózatától, az ott tárolt adatoktól és a külső hálózati kapcsolatoktól technikailag elkülönített környezetben kerül sor. A biztonságos környezetből csak olyan kutatási eredmény vihető ki, amelyet a Hivatalos Statisztikai Szolgálat tagja az eredmény kiadását megelőzően megfelelő módszerek alkalmazásával ellenőrzött annak érdekében, hogy azokból a statisztikai egységek felfedésének kockázata a mindenkori legjobb statisztikai módszertani megoldásokkal összhangban minimális legyen.
 
-(3) A KSH és a Hivatalos Statisztikai Szolgálat többi tagja tudományos célból hozzáférést biztosíthat olyan, az egyes statisztikai egységekre vonatkozó adatokhoz, amelyeket – a statisztikai felfedés elleni védelem eszközeit alkalmazva – annak érdekében módosítottak, hogy az azonosításhoz használható legjobb eljárásokkal összhangban elfogadható mértékűre csökkenjen az érintett statisztikai egységek felfedési kockázata.
+(3) A KSH és a Hivatalos Statisztikai Szolgálat többi tagja tudományos kutatás céljára hozzáférést biztosíthat olyan, az egyes statisztikai egységekre vonatkozó adatokhoz, amelyeket – a statisztikai felfedés elleni védelem eszközeit alkalmazva – annak érdekében módosítottak, hogy az azonosításhoz használható legjobb eljárásokkal összhangban elfogadható mértékűre csökkenjen az érintett statisztikai egységek felfedési kockázata.
 
 (4) A tudományos célú hozzáférés feltételeit a KSH elnöke által kiadott iránymutatás alapján a Hivatalos Statisztikai Szolgálat tagjai belső szabályzatban állapítják meg, és azokat a honlapjukon nyilvánosságra hozzák.
 
@@ -689,6 +709,7 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 - e) a népmozgalmi adatgyűjtések adatcsoportjainak az e törvényben foglalt előírásokkal összhangban megállapított adattartalmát, valamint az adatszolgáltatás rendjének részletes eljárási szabályait,
 - f) a statisztikai adatfelvételi keretek kiválasztására, a statisztikai regiszterek metaadataira vonatkozó részletes szabályokat, a statisztikai osztályozások kialakításának általános szabályait,
 - g) a Hivatalos Statisztikai Szolgálat tagjánál – kivéve az MNB-t – hivatalos statisztikai tevékenységet folytató személyekre vonatkozó képesítési és továbbképzési előírásokat.
+- h) a 29. § (3) bekezdésében hivatkozott személyesadat-kategóriákra vonatkozó részletszabályokat.
 
 (2) Felhatalmazást kap a KSH felügyeletét ellátó miniszter, hogy rendeletben állapítsa meg a statisztikai számjel képzésének módját, valamint a statisztikai módszerek, fogalmak, osztályozások, számjelek használatának alkalmazását.
 
@@ -700,11 +721,11 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 
 #### 24. Átmeneti rendelkezések
 
-50. § A Hivatalos Statisztikai Szolgálatnak e törvény hatálybalépésének napját megelőző napon tagjainak akkreditálását a KSH kezdeményezi, és azt a Hivatalos Statisztikai Szolgálat tagjaival egyeztetett ütemterv alapján legkésőbb 2018. december 31-ig elvégzi. Amennyiben a Hivatalos Statisztikai Szolgálat tagja az akkreditáció feltételeinek nem felel meg, úgy a tagság megszüntetésének van helye az 5. § (4) bekezdésében foglaltak figyelembevételével.
+#### 50. §
 
 51. § A KSH – e törvény hatálybalépése előtt kinevezett – elnökének és elnökhelyettesének megbízatása a jelen törvény hatálybalépésével egyidejűleg a 13. § (1), illetve (2) bekezdése szerinti kinevezéssé alakul át.
 
-51/A. § A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv 2020. december 15-ig a 2020. december 1-jei állapotnak megfelelően megküldi a KSH részére valamennyi aktív regisztrációval rendelkező személy természetes személyazonosító adatait, egyedi azonosítóját, regisztrációja időpontját, továbbá – amennyiben a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
+#### 51/A. §
 
 #### 25. Az Európai Unió jogának való megfelelés
 
@@ -714,6 +735,8 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 - b) az európai statisztikákról szóló 223/2009/EK rendelet módosításáról szóló 2015. április 29-i 2015/759 európai parlamenti és tanácsi rendelet,
 - c) a vállalkozások statisztikai célú nyilvántartása közös keretének létrehozásáról és a 2186/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2008. február 20-i 177/2008/EK európai parlamenti és tanácsi rendelet,
 - d) a tagállamok közötti áruforgalomra vonatkozó közösségi statisztikákról szóló 638/2004/EK rendelet módosításáról szóló 2009. március 11-i 222/2009/EK európai parlamenti tanácsi rendelet
+- e) az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló, 2022. május 30-i (EU) 2022/868 európai parlamenti és tanácsi rendelet,
+- f) az európai statisztikákról szóló 223/2009/EK rendelet módosításáról szóló, 2024. november 27-i (EU) 2024/3018 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
