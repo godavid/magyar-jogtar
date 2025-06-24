@@ -582,6 +582,7 @@ A NYILVÁNTARTÁSBÓL
 - l) a nyilvántartó által megbízott megszemélyesítést végző szervezet ingyenesen az automatikus úton kiállított vezetői engedély, törzskönyv és forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez az okmányra kerülő adatok tekintetében,
 - m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
 - n) a közlekedési hatóság a digitális tachográf kártya kiadásához a 8. § (1) bekezdés a) pont aj) alpontjában, a 8. § (1) bekezdés b) pont ba)–bc) alpontjában lévő adatokat.
+- o) a hivatásos katasztrófavédelmi szerv, az alapfeladataiba tartozó gépjárművekkel kapcsolatos műszaki mentések biztonságos és hatékony végrehajtása érdekében az M1, valamint az N1 kategóriába tartozó gépjárművek típusára vonatkozóan.
 
 (2a) A nyilvántartásból adatot, iratot igényelhet – a 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatok kivételével – a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához, továbbá a Kkt. 21. §-a szerinti közigazgatási hatósági ügyekben eljáró hatóság a közigazgatási hatósági eljárás lefolytatásához.
 

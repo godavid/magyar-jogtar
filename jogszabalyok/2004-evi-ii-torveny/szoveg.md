@@ -1060,6 +1060,8 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 
 - g) a filmelőállító vagy a filmgyártó vállalkozás bejelentését a filmgyártásban közvetlenül közreműködő, magyar adóazonosító jellel rendelkező külföldi illetőségű előadóművész és nem előadóművész magánszemély stábtag nevére, állampolgárságára, születési helyére és idejére, anyja nevére, külföldi lakóhelyére, valamint arra vonatkozóan, hogy előadóművészként vagy nem előadóművészként működik közre a film gyártása során. A Hatóság nem veszi figyelembe azon személyek bejelentését, akikkel kapcsolatban költségelszámolás nem kerül benyújtásra,
 - h) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát arra vonatkozóan, hogy az egymilliárd forintot meghaladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében a filmalkotás magyarországi gyártásának befejezését követő 30 napon belül az NFI részére a filmalkotás magyarországi gyártása során megvalósított, fenntartható filmgyártással kapcsolatos tevékenységekről szóló beszámolót nyújt be.
+- i) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát arra vonatkozóan, hogy a közvetett támogatás igénybevételére a 31/D. § (9) bekezdése szerint kerül sor,
+- j) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát a filmalkotás gyártása során ténylegesen elköltendő, a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekről negyedéves bontásban (cash-flow terv).
 
 (2b) A (2a) bekezdés f) pontja szerinti kötelezettség nem vonatkozik a filmművészeti állami felsőoktatási képzés keretében készülő filmalkotások gyártására.
 
@@ -1106,7 +1108,7 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 
 (12) A Hatóság a (2a) bekezdés g) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
 
-(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre vonatkozó adatokat köteles bejelenteni a Hatóságnak.
+(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre, valamint a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekre vonatkozó adatokban történő változást haladéktalanul köteles bejelenteni a Hatóságnak. A Hatóság hivatalból indított eljárásában – a támogatásra jogosultság visszavonásának a terhe mellett – felülvizsgálja a támogatásra jogosultságot megállapító határozatában szereplő adatokat.
 
 (13a) A filmalkotás költségvetésében bekövetkezett változás bejelentésével egyidejűleg – amennyiben a változás a közvetlen filmgyártási költség, és így a közvetett támogatás emelkedését vonhatja maga után – a különbözet vonatkozásában az igazgatási szolgáltatási díjat meg kell fizetni.
 
@@ -1122,7 +1124,7 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 - b) a támogatásra jogosultság megállapítása során elfogadott költségvetés alapján és rovatkódjainak bontásában készített, a kérelemben feltüntetett és az azt megelőző időszak tényleges költségeit tartalmazó költségkimutatást, és
 - c) a filmelőállító visszavonhatatlan jognyilatkozatát, hogy a (4) bekezdés szerinti kötelezettségnek eleget tesz.
 
-(2a) A filmelőállító vagy filmgyártó vállalkozás jogosult a költségellenőrzési eljárásra irányuló kérelmét naptári hónapok szerinti vagy naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás gyártása nem fejeződik be kilenc hónapon belül vagy a filmalkotás közvetlen filmgyártási költségei a 150 millió forintot meghaladják.
+(2a) A filmelőállító jogosult a költségellenőrzési eljárásra irányuló kérelmét naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás közvetlen filmgyártási költségei a 150 millió forintot meghaladják. A filmgyártó vállalkozás jogosult a költségellenőrzési eljárásra irányuló kérelmét naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás gyártása nem fejeződik be kilenc hónapon belül vagy a filmalkotás közvetlen filmgyártási költségei az 500 millió forintot meghaladják.
 
 (2b) A (2a) bekezdésben foglaltak alkalmazása esetén a költségellenőrzési eljárásban hozott határozatban szereplő összeg legfeljebb a költségellenőrzést lezáró határozat kiadásáig felmerült közvetlen filmgyártási költség 30%-áig terjedhet.
 
@@ -1180,11 +1182,11 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (8) A letéti számlát a társadalompolitika összehangolásáért felelős miniszter nyitja meg. A letéti számlán lévő pénzeszközökkel pénzügyi művelet az e törvényben meghatározott esetekben és módon az NFI rendelkezése alapján végezhető.
 
-(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az NFI-től, ha a Hatóság által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata véglegessé vált és támogatási szerződést még nem kötött, a 31/C. (3) szerinti támogatási igazolást a Hatóság nem adott ki, vagy azt a 31/C. § (12) bekezdése alapján visszavonta. A 31/C. § (1) bekezdése szerinti határozat véglegesé válásának időpontjáról a Hatóság nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.
+(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az NFI-től, ha a Hatóság által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata véglegessé vált és támogatási szerződést még nem kötött, a 31/C. (3) szerinti támogatási igazolást a Hatóság nem adott ki, vagy azt a 31/C. § (12) bekezdése alapján visszavonta. A 31/C. § (1) bekezdése szerinti határozat véglegesé válásának időpontjáról a Hatóság nyilvántartást vezet.
 
-(10) Az NFI a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelem alapján, a közvetett támogatás nyújtására vonatkozó támogatási szerződés megkötését követő 15 banki napon belül kezdeményezi a kincstárnál. Az NFI a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
+(10) Az NFI a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelem alapján, a kérelem benyújtása szerinti sorrendben, a közvetett támogatás nyújtására vonatkozó támogatási szerződés megkötését követő 15 banki napon belül kezdeményezi a kincstárnál. Azonos napon beérkező kérelmek esetében a (9) bekezdés szerinti határozat véglegessé válásának a sorrendje az irányadó. Az NFI a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
 
-(11) Az NFI a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hatóságnak 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet.
+(11) Az NFI a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hatóságnak a 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet. A tartalékképzéssel érintett közvetett támogatási összegek a (10) bekezdés szerinti kérelmek benyújtását követően megkötött támogatási szerződések alapján, a (10) bekezdésben foglalt sorrendre tekintet nélkül kifizethetők a letéti számláról.
 
 (12) Ha a letéti számlán rendelkezésre álló keretösszeg – a (11) bekezdésben említett tartalékot nem számítva – teljes mértékben felhasználásra kerül, a (10) bekezdésben foglalt elintézési határidő megszakad és az NFI a támogatások kifizetését a letéti számlára pótlólagosan befizetett támogatások beérkezését követően folytatja.
 
@@ -1211,7 +1213,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 (9) Nem számolható el közvetlen filmgyártási költségként az a költség,
 
 - a) amelyre vonatkozóan pénzügyi teljesítést váltó kibocsátásával vagy termékek és szolgáltatások beszámításával valósítják meg, kivéve az NFI által nyújtott termékértékesítéseknek és szolgáltatásoknak azon ellenértékét, amelyet az NFI az általa pénzügyileg folyósított támogatásokból visszatart, vagy a támogatás részeként biztosít,
-- b) amely megrendelésre készülő filmalkotás esetében a megrendelő, koprodukciós filmalkotás esetén a koproducer által nyújtott termékértékesítés és szolgáltatás ellenértékeként kerül a filmelőállító gazdasági társaság megalapítását követően az adott filmalkotás munkaszámos főkönyvi számláira könyvelésre,
+- b) amely megrendelésre készülő filmalkotás esetében a megrendelő, koprodukciós filmalkotás esetén a koproducer által nyújtott termékértékesítés és szolgáltatás ellenértékeként kerül a filmelőállító gazdasági társaság megalapítását követően az adott filmalkotás munkaszámos főkönyvi számláira könyvelésre, ide nem értve a közvetlen filmgyártási támogatás igénybevétele érdekében a filmelőállító gazdasági társaság és a filmalkotás megfilmesítési jogaival rendelkező gazdasági társaság között létrejött koprodukciót,
 - c) amelyre vonatkozóan a 31/C. § (1) bekezdése szerinti kérelmet a filmalkotás 2. § 20. pontja szerinti gyártási időszakának záró napját követő egy éven túl nyújtják be a Hatósághoz.
 
 (9a) A Hatóság a (9) bekezdés c) pontjában meghatározott határidő alól különös méltánylást érdemlő esetben felmentést adhat. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló cselekmény súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
@@ -1447,6 +1449,8 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 36/R. § E törvénynek az egyes felsőoktatási, családügyi és kulturális tárgyú törvények módosításáról szóló 2024. évi LXXVI. törvénnyel (a továbbiakban: Módtv4.) megállapított 31/B–31/F. §-át a Módtv4. hatálybalépését követően benyújtott, a támogatási jogosultság megállapítására irányuló kérelem alapján indult eljárásokban kell alkalmazni.
 
+36/S. § E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló törvénnyel (a továbbiakban: Módtv5.) megállapított 31/B. § (13) bekezdését, illetve a 31/C. § (2a) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő támogatásra jogosultság megállapítására irányuló eljárásokban is alkalmazni kell.
+
 ### 2. CÍM — Felhatalmazó rendelkezések
 
 37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat, valamint az állam tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint a 35. § (9) bekezdése szerinti gazdasági társaság eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
@@ -1456,6 +1460,10 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kulturális értéket műfaja alapján létre nem hozó filmalkotást.
 
 (1c) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki azt a minisztert, aki által vezetett minisztériumban a mozgóképszakmai hatóságként eljáró Filmiroda önálló szervezeti egységként működik.
+
+(1d) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 31/B. § alapján kiadott támogatásra jogosultságot megállapító döntésekben meghatározott közvetlen filmgyártási költségek együttes, a tárgyévre vonatkozó összegét.
+
+(1e) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a közvetett támogatás céljából nyújtható támogatási keretösszeg részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

@@ -178,6 +178,8 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 
 (6) A hivatásos katasztrófavédelmi szerv az (1) bekezdés e) pontjában meghatározott adatokat személyazonosításra alkalmatlan módon statisztikai célból is kezelheti.
 
+(7) A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló kormányrendelet szerint a hivatásos katasztrófavédelmi szerv mint készenléti szerv részére továbbított 112-es hívószámú fedélzeti e-segélyhívó rendszerből érkező segélyhívások vonatkozásában a hivatásos katasztrófavédelmi szerv az alapfeladataiba tartozó műszaki mentés hatékony és biztonságos végrehajtása érdekében jogosult a közúti közlekedési nyilvántartásból a műszaki mentéssel érintett, az M1, valamint az N1 kategóriába tartozó gépjármű típusának a megismerésére.
+
 ### II. Fejezet — A TŰZVÉDELMI HATÓSÁGI FELADATOK
 
 ### Tűzvédelmi hatósági feladatok
