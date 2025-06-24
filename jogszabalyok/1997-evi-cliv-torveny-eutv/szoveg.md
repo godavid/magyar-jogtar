@@ -3131,11 +3131,11 @@ fenntartására, irányítására.
 
 (22) A Budapesten és Pest vármegyében működő önkormányzati fenntartású járóbeteg-szakellátást nyújtó egészségügyi intézményekre a (21) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.
 
-155/A. § (1) Az állami fenntartású egészségügyi intézmények esetében a munkáltató – az egészségügyi ellátás folyamatossága biztosítása érdekében – egységes beléptető rendszer alkalmazásával ellenőrizheti az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy munkaidejének betartását, az intézménybe történő be- és kilépését.
+155/A. § (1) Az állami fenntartású egészségügyi intézmények esetében a foglalkoztató – az egészségügyi ellátás és ellátásszervezés, a működési feltételek folyamatosságának biztosítása, valamint a betegek élethez, testi épséghez való jogának biztosítása és a betegek egészségének védelme érdekében – egységes beléptető rendszer alkalmazásával ellenőrzi az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy (e § alkalmazásában a továbbiakban: foglalkoztatott) munkaidejének betartását, az intézménybe történő be- és kilépését. Az egységes beléptető rendszer arcképazonosításon alapuló technológiára épül, ennek keretében a foglalkoztatott be- és kilépése során készült, biometrikus azonosításra alkalmas arcképmás adatát (a továbbiakban: pillanatkép) és az arcképazonosítás eredményét a (2) bekezdés szerint kezeli.
 
-(2) A munkáltató az (1) bekezdés szerinti rendszer alkalmazásával tudomására jutott, az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy munkaidejének betartására, az intézménybe történő be- és kilépésére vonatkozó személyes adatokat az ellenőrzött tevékenységgel összekapcsolható módon az adatkezelés célja szerinti ellenőrzés lefolytatásához szükséges mértékben és időtartamban, de legfeljebb a be- és kilépéstől számított egy évig kezeli.
+(2) A foglalkoztató az (1) bekezdés szerinti rendszer alkalmazásával tudomására jutott, a foglalkoztatott munkaidejének betartására, az intézménybe történő be- és kilépésére vonatkozó személyes adatokat – ideértve a pillanatképet és az arcképazonosítás eredményét – az ellenőrzött tevékenységgel összekapcsolható módon az adatkezelés célja szerinti ellenőrzés lefolytatásához szükséges mértékben a be- és kilépéstől számított legfeljebb egy évig kezeli.
 
-(3) Az (1) bekezdés szerinti egységes beléptető rendszer használata és az (1) bekezdésben foglaltak ellenőrzése érdekében a munkáltató – a munkavégzésre irányuló jogviszonyra irányadó törvényben meghatározott adatokon túlmenően – legfeljebb a jogviszony fennállásának idejéig kezeli az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy arcképmását.
+(3) Az (1) bekezdés szerinti egységes beléptető rendszer használata és az (1) bekezdésben foglaltak ellenőrzése érdekében a foglalkoztató – a munkavégzésre irányuló jogviszonyra irányadó törvényben meghatározott adatokon túlmenően – a jogviszony fennállásának idejéig kezeli a foglalkoztatottnak a pillanatképpel való összehasonlítás és a fizikai belépőkártyán történő megjelenítés céljából felvett, biometrikus azonosításra alkalmas arcképmását.
 
 156. § (1) A területi ellátási kötelezettség körében fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben kórházi felügyelő tanács és kórházi etikai bizottság működik.
 
@@ -4923,9 +4923,13 @@ időtartamnak a megszűnt jogosultság szerinti gazdasági tevékenységéből s
 
 hatályban marad.
 
-244/N. § E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 155. § (11b) bekezdése szerinti vagyonkezelés átadásáról 2026. március 1-jéig szükséges gondoskodni.
+244/N. § E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 155. § (11b) bekezdése szerinti vagyonkezelés átadásáról 2027. március 1-jéig szükséges gondoskodni.
 
 244/O. § E törvénynek a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel megállapított 189. § (3) bekezdését és 201/C. §-át a 2025. március 1-jét követően meghozott, a 201/C. § (3) bekezdés a)–c) pontjai szerinti kártalanítást megalapozó határozatok tekintetében lehet alkalmazni.
+
+244/P. § (1) A Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel (a továbbiakban: Módtv5.) megállapított 155/A. § (1) bekezdése szerinti egységes beléptető rendszert azon állami fenntartású egészségügyi intézményekben kell alkalmazni, amelyeket – a miniszternek az ágazati érdekképviseleti és szakmai szervezetekkel lefolytatott egyeztetése alapján – a Kormány rendeletben meghatározott.
+
+(2) Az (1) bekezdéstől eltérően azon egészségügyi intézményeknél, ahol a munkáltató 2025. május 31. napjáig a Módtv5. által megállapított 155/A. § hatálybalépését megelőző napon hatályos 155/A. §-a szerint elrendelte az egységes beléptető rendszer alkalmazását, a Módtv5. által megállapított 155/A. §-ában foglaltakat alkalmazni kell.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 
@@ -5030,6 +5034,8 @@ rendeletben megállapítsa.
 - m) a köztisztaság és a településtisztaság környezet- és település-egészségügyi szabályait.
 
 (1d) Felhatalmazást kap a Kormány, hogy a 155. § (10) bekezdés b) pontja szerinti irányító vármegyei intézményeket rendeletben jelölje ki.
+
+(1e) Felhatalmazást kap a Kormány, hogy a 244/P. § (1) bekezdése szerinti egészségügyi intézményeket rendeletben határozza meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

@@ -299,7 +299,7 @@ tart.
 - j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, vagy egészségi állapota 50 százalékos vagy ennél kisebb mértékű, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
 - k) az öregségi nyugdíjkorhatárt betöltötte és jövedelme nem éri el a minimálbér 30 százalékát,
 - l) kiskorú, magyar állampolgársággal, menekült vagy oltalmazott jogállással és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
-- m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá magyar hatóság által a Gyvt. alapján ideiglenes hatállyal elhelyezett vagy nevelésbe vett külföldi vagy ismeretlen állampolgárságú kiskorú személy,
+- m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá magyar hatóság által a Gyvt. alapján ideiglenes hatállyal elhelyezett vagy nevelésbe vett külföldi, ismeretlen állampolgárságú vagy hontalan kiskorú személy, továbbá gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés alá vont, azonban gyermekvédelmi szakellátásban nem részesülő ismeretlen állampolgárságú vagy hontalan kiskorú,
 - n) fogvatartott,
 - o) a Szoctv. 54. §-a alapján szociálisan rászorult,
 - p) táncművészeti életjáradékban részesül,
@@ -864,7 +864,7 @@ adatok igénylésére jogosult.
 (3) Az egészségügyi szolgáltatásra való jogosultság kezdetére és megszűnésére vonatkozó bejelentést
 
 - a) az egyházi nyugdíjban részesülők esetében az egyházi nyugdíjat folyósító szerv,
-- b) a személyes gondoskodást nyújtó bentlakásos szociális intézményben és gyermekotthonban elhelyezettek esetén az a) pontban és a (4) bekezdésben említett személyek kivételével az intézmény, illetve a gyermekotthon vezetője, nevelőszülőnél elhelyezettek esetén a nevelőszülői hálózatot működtető, külső férőhelyen elhelyezettek esetén a külső férőhelyet működtető,
+- b) a személyes gondoskodást nyújtó bentlakásos szociális intézményben és gyermekotthonban elhelyezettek esetén az a) pontban és a (4) bekezdésben említett személyek kivételével az intézmény, illetve a gyermekotthon vezetője, nevelőszülőnél elhelyezettek esetén a nevelőszülői hálózatot működtető, külső férőhelyen elhelyezettek esetén a külső férőhelyet működtető, a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés alá vont, azonban gyermekvédelmi szakellátásban nem részesülő ismeretlen állampolgárságú vagy hontalan gyermek esetén a gyámhatóság,
 - c) a 22. § (1) bekezdés i) pontjában említett tanulók, szakképzésben részt vevők és hallgatók esetén a köznevelés információs rendszer, a szakképzés információs rendszer, illetve a felsőoktatási információs rendszer működtetője,
 - d) fogvatartottak esetén a fogvatartást foganatosító szerv
 
