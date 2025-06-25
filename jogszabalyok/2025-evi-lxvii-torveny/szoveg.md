@@ -124,36 +124,24 @@ lép.
 - b)
 - c)
 - d)
-- e) 50. § (5) bekezdésében az „indokolt esetben” szövegrész helyébe az „az egészségi állapotában bekövetkezett kedvezőtlen változás esetén” szöveg
+- e)
 
 lép.
 
 #### 11. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-28. § Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 155/A. §-a helyébe a következő rendelkezés lép:
-
-„155/A. § (1) Az állami fenntartású egészségügyi intézmények esetében a foglalkoztató – az egészségügyi ellátás és ellátásszervezés, a működési feltételek folyamatosságának biztosítása, valamint a betegek élethez, testi épséghez való jogának biztosítása és a betegek egészségének védelme érdekében – egységes beléptető rendszer alkalmazásával ellenőrzi az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy (e § alkalmazásában a továbbiakban: foglalkoztatott) munkaidejének betartását, az intézménybe történő be- és kilépését. Az egységes beléptető rendszer arcképazonosításon alapuló technológiára épül, ennek keretében a foglalkoztatott be- és kilépése során készült, biometrikus azonosításra alkalmas arcképmás adatát (a továbbiakban: pillanatkép) és az arcképazonosítás eredményét a (2) bekezdés szerint kezeli.
-
-(2) A foglalkoztató az (1) bekezdés szerinti rendszer alkalmazásával tudomására jutott, a foglalkoztatott munkaidejének betartására, az intézménybe történő be- és kilépésére vonatkozó személyes adatokat – ideértve a pillanatképet és az arcképazonosítás eredményét – az ellenőrzött tevékenységgel összekapcsolható módon az adatkezelés célja szerinti ellenőrzés lefolytatásához szükséges mértékben a be- és kilépéstől számított legfeljebb egy évig kezeli.
-
-(3) Az (1) bekezdés szerinti egységes beléptető rendszer használata és az (1) bekezdésben foglaltak ellenőrzése érdekében a foglalkoztató – a munkavégzésre irányuló jogviszonyra irányadó törvényben meghatározott adatokon túlmenően – a jogviszony fennállásának idejéig kezeli a foglalkoztatottnak a pillanatképpel való összehasonlítás és a fizikai belépőkártyán történő megjelenítés céljából felvett, biometrikus azonosításra alkalmas arcképmását.”
+#### 28. §
 
 #### 29. §
 
-30. § Az Eütv. a következő 244/P. §-sal egészül ki:
+#### 30. §
 
-„244/P. § (1) A Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel (a továbbiakban: Módtv5.) megállapított 155/A. § (1) bekezdése szerinti egységes beléptető rendszert azon állami fenntartású egészségügyi intézményekben kell alkalmazni, amelyeket – a miniszternek az ágazati érdekképviseleti és szakmai szervezetekkel lefolytatott egyeztetése alapján – a Kormány rendeletben meghatározott.
-
-(2) Az (1) bekezdéstől eltérően azon egészségügyi intézményeknél, ahol a munkáltató 2025. május 31. napjáig a Módtv5. által megállapított 155/A. § hatálybalépését megelőző napon hatályos 155/A. §-a szerint elrendelte az egységes beléptető rendszer alkalmazását, a Módtv5. által megállapított 155/A. §-ában foglaltakat alkalmazni kell.”
-
-31. § Az Eütv. 247. §-a a következő (1e) bekezdéssel egészül ki:
-
-„(1e) Felhatalmazást kap a Kormány, hogy a 244/P. § (1) bekezdése szerinti egészségügyi intézményeket rendeletben határozza meg.”
+#### 31. §
 
 32. § Az Eütv.
 
 - a)
-- b) 244/N. §-ában a „2026.” szövegrész helyébe a „2027.” szöveg
+- b)
 
 lép.
 
@@ -215,45 +203,19 @@ lép.
 
 #### 54. §
 
-55. § (1) Az Mktv. 31/B. § (2a) bekezdése a következő i) és j) ponttal egészül ki:
+#### 55. §
 
-[A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani]
+#### 56. §
 
-„i) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát arra vonatkozóan, hogy a közvetett támogatás igénybevételére a 31/D. § (9) bekezdése szerint kerül sor,
+#### 57. §
 
-j) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát a filmalkotás gyártása során ténylegesen elköltendő, a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekről negyedéves bontásban (cash-flow terv).”
+#### 58. §
 
-(2) Az Mktv. 31/B. § (13) bekezdése helyébe a következő rendelkezés lép:
+#### 59. §
 
-„(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre, valamint a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekre vonatkozó adatokban történő változást haladéktalanul köteles bejelenteni a Hatóságnak. A Hatóság hivatalból indított eljárásában – a támogatásra jogosultság visszavonásának a terhe mellett – felülvizsgálja a támogatásra jogosultságot megállapító határozatában szereplő adatokat.”
+#### 60. §
 
-56. § Az Mktv. 31/C. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) A filmelőállító jogosult a költségellenőrzési eljárásra irányuló kérelmét naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás közvetlen filmgyártási költségei a 150 millió forintot meghaladják. A filmgyártó vállalkozás jogosult a költségellenőrzési eljárásra irányuló kérelmét naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás gyártása nem fejeződik be kilenc hónapon belül vagy a filmalkotás közvetlen filmgyártási költségei az 500 millió forintot meghaladják.”
-
-57. § Az Mktv. 31/D. § (10) és (11) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(10) Az NFI a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelem alapján, a kérelem benyújtása szerinti sorrendben, a közvetett támogatás nyújtására vonatkozó támogatási szerződés megkötését követő 15 banki napon belül kezdeményezi a kincstárnál. Azonos napon beérkező kérelmek esetében a (9) bekezdés szerinti határozat véglegessé válásának a sorrendje az irányadó. Az NFI a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
-
-(11) Az NFI a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hatóságnak a 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet. A tartalékképzéssel érintett közvetett támogatási összegek a (10) bekezdés szerinti kérelmek benyújtását követően megkötött támogatási szerződések alapján, a (10) bekezdésben foglalt sorrendre tekintet nélkül kifizethetők a letéti számláról.”
-
-58. § Az Mktv. 31/E. § (9) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Nem számolható el közvetlen filmgyártási költségként az a költség,)
-
-„b) amely megrendelésre készülő filmalkotás esetében a megrendelő, koprodukciós filmalkotás esetén a koproducer által nyújtott termékértékesítés és szolgáltatás ellenértékeként kerül a filmelőállító gazdasági társaság megalapítását követően az adott filmalkotás munkaszámos főkönyvi számláira könyvelésre, ide nem értve a közvetlen filmgyártási támogatás igénybevétele érdekében a filmelőállító gazdasági társaság és a filmalkotás megfilmesítési jogaival rendelkező gazdasági társaság között létrejött koprodukciót,”
-
-59. § Az Mktv. V. Fejezet 1. CÍME a következő 36/S. §-sal egészül ki:
-
-„36/S. § E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló törvénnyel (a továbbiakban: Módtv5.) megállapított 31/B. § (13) bekezdését, illetve a 31/C. § (2a) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő támogatásra jogosultság megállapítására irányuló eljárásokban is alkalmazni kell.”
-
-60. § Az Mktv. 37. §-a a következő (1d) és (1e) bekezdéssel egészül ki:
-
-„(1d) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 31/B. § alapján kiadott támogatásra jogosultságot megállapító döntésekben meghatározott közvetlen filmgyártási költségek együttes, a tárgyévre vonatkozó összegét.
-
-(1e) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a közvetett támogatás céljából nyújtható támogatási keretösszeg részletes szabályait.”
-
-61. § Hatályát veszti az Mktv. 31/D. § (9) bekezdésében az „A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.” szövegrész.
+#### 61. §
 
 #### 18.
 
@@ -359,9 +321,7 @@ j) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát a filmal
 
 #### 27. A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény módosítása
 
-100. § A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 39. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ez a törvény az általános termékbiztonságról, az 1025/2012/EU európai parlamenti és tanácsi rendelet és az (EU) 2020/1828 európai parlamenti és tanácsi irányelv módosításáról, valamint a 2001/95/EK európai parlamenti és tanácsi irányelv és a 87/357/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. május 10-i (EU) 2023/988 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+#### 100. §
 
 #### 28. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
@@ -489,17 +449,7 @@ lép.
 
 #### 37. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-139. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 319/N. §-a a következő (7)–(11) bekezdéssel egészül ki:
-
-„(7) A miniszter előzetes jóváhagyásával a terrorizmust elhárító szerv főigazgatója át nem ruházható hatáskörében – szolgálati érdekből, az érintett személy speciális végzettségére, képzettségére, az általa ellátandó feladat kiemelt fontosságára vagy speciális jellegére tekintettel – a terrorizmust elhárító szervhez vezényelt részére az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg. A személyi illetményben részesülő foglalkoztatottak száma nem haladhatja meg a terrorizmust elhárító szerv létszámának 30%-át.
-
-(8) A (7) bekezdés szerinti személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonást követően a hivatásos állomány tagját az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött szolgálati beosztás alapján kell besorolni és illetményét megállapítani.
-
-(9) A (7) bekezdés szerinti személyi illetményben részesülő illetményét évente – január 31-ig – felül kell vizsgálni.
-
-(10) Visszavonás nélkül is megszűnik a (7) bekezdés szerinti személyi illetmény, ha a vezényelt besorolása szerinti illetményének összege eléri a személyi illetmény összegét. Ebben az esetben a hivatásos állomány tagját az általa betöltött szolgálati beosztás alapján kell besorolni, és illetményét megállapítani.
-
-(11) Ha a hivatásos állomány tagja részére a (7) bekezdés szerinti személyi illetmény került megállapításra, úgy távolléti díjként részére a megállapított személyi illetmény távollét idejére számított időarányos része jár.”
+#### 139. §
 
 #### 38.
 
@@ -535,137 +485,33 @@ lép.
 
 #### 41. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
-153. § (1) A hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 2. § 17. pontja helyébe a következő rendelkezés lép:
+#### 153. §
 
-(E törvény alkalmazásában:)
+#### 154. §
 
-„17. statisztikai cél: adat hivatalos statisztikai adat-előállítási folyamatban való felhasználása, ideértve az adatok elemzését, a kapcsolódó tudományos és kutatási tevékenységet, valamint a mintavételi keretek kialakítását,”
+#### 155. §
 
-(2) Az Stt. 2. §-a a következő 3a. ponttal egészül ki:
+#### 156. §
 
-(E törvény alkalmazásában:)
+#### 157. §
 
-„3a. anonimizálás: személyes adat olyan módon történő kezelése, amelynek következtében további információk felhasználásával sem állapítható meg többé, hogy a személyes adat mely konkrét természetes személyre vonatkozik,”
+#### 158. §
 
-(3) Az Stt. 2. §-a a következő 4a. ponttal egészül ki:
+#### 159. §
 
-(E törvény alkalmazásában:)
+#### 160. §
 
-„4a. álnevesítés: személyes adatoknak az általános adatvédelmi rendelet 4. cikk 5. pontjában meghatározott módon történő kezelése,”
+#### 161. §
 
-154. § Az Stt. 7. § (8)–(9) bekezdése helyébe a következő rendelkezések lépnek:
+#### 162. §
 
-„(8) A gazdasági társaság felett a tulajdonosi jogokat – ideértve a nemzeti vagyonra vonatkozó jogszabályok szerinti tulajdonosi joggyakorlást – a magyar állam nevében a KSH elnöke gyakorolja.
+#### 163. §
 
-(9) A Központi Statisztikai Hivatal Kvantitatív Társadalom- és Gazdaságtudományi Kutató Intézet központi költségvetési szerv, amely az alap- és alkalmazott kvantitatív társadalom- és gazdaságtudományi kutatást, mint közfeladatot látja el, és amely felett az irányítási jogkört – az alapítás, átalakítás, megszüntetés kivételével – a KSH elnöke gyakorolja.”
+#### 164. §
 
-155. § (1) Az Stt. 8. § (2) bekezdés o) pontja helyébe a következő rendelkezés lép:
+#### 165. §
 
-(A KSH feladatai:)
-
-„o) kvantitatív társadalom- és gazdaságtudományi kutatóintézet üzemeltetése,”
-
-(2) Az Stt. 8. § (2) bekezdése a következő r) ponttal egészül ki:
-
-(A KSH feladatai:)
-
-„r) részvétel a nemzeti adatkormányzás irányításában.”
-
-156. § Az Stt. 12. §-a helyébe a következő rendelkezés lép:
-
-„12. § Az elnökhelyettes a KSH Szervezeti és Működési Szabályzatában meghatározott felelősségi területen az elnök irányítása mellett látja el tevékenységét, és irányítja a KSH Szervezeti és Működési Szabályzatában meghatározott szervezeti egységek munkáját, valamint az általa irányított terület tevékenysége vonatkozásában önállóan képviseli a KSH-t.”
-
-157. § Az Stt. 18. § helyébe a következő rendelkezés lép:
-
-„18. § (1) A KSH elnökhelyetteseit a KSH elnöke bármikor felmentheti, a felmentést nem kell indokolni.
-
-(2) A KSH elnökhelyettesét az e tisztségéből történő felmentését megelőzően – kivéve, ha arra nyugdíjjogosultság miatti kérelem alapján kerül sor vagy a KSH elnökhelyettese a felmentés közlésének időpontjában nyugdíjasnak minősül – a KSH elnöke írásban tájékoztatja a KSH szervezetén belül az iskolai végzettségének és szakképzettségének, szakképesítésének megfelelő másik álláshelyen történő továbbfoglalkoztatás lehetőségéről.
-
-(3) A KSH elnökhelyettese a tájékoztatás közlésétől számított öt munkanapon belül írásban nyilatkozik a (2) bekezdés szerint felajánlott álláshely elfogadásáról. Ha a KSH elnökhelyettese a határidő leteltéig a nyilatkozattételt elmulasztja, azt úgy kell tekinteni, mintha a (2) bekezdés szerint felajánlott álláshelyet nem fogadta volna el.
-
-(4) A KSH elnökhelyettesi jogviszony felmentéssel történő megszüntetésére csak akkor kerülhet sor, ha KSH szervezetén belül a KSH elnökhelyettese iskolai végzettségének és szakképzettségének, szakképesítésének megfelelő másik betöltetlen álláshely nincs, vagy ha a KSH elnökhelyettese az ilyen álláshelyre történő áthelyezését nem fogadta el.
-
-(5) Ha a KSH elnökhelyettese a (2) bekezdés szerint felajánlott álláshelyet nem fogadja el, az elnökhelyettest a nyilatkozattétel időpontját, vagy, ha a nyilatkozattételt elmulasztja, a nyilatkozattétel határidejének lejártát követő naptól induló felmentési idővel fel kell menteni. A KSH elnökhelyettesét a Kit. szerinti felmentési idő és juttatások illetik meg, amelynek időtartama alatt a munkavégzési kötelezettség alól mentesül.”
-
-158. § Az Stt. 21. § (2) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
-
-(Az OST feladatai különösen:)
-
-„d) a Hivatalos Statisztikai Szolgálat tagjai tájékoztatási tevékenységével kapcsolatos kérdések véleményezése,
-
-e) a hivatalos statisztika fejlesztésére, előállítására, nyilvánosságra hozatalára vonatkozó prioritások, stratégiai kérdések megvitatása.”
-
-159. § (1) Az Stt. 28. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az adminisztratív adatok átadását a Hivatalos Statisztikai Szolgálat tagja által meghatározott módon, csatornán keresztül kell teljesíteni.”
-
-(2) Az Stt. 28. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) Az adminisztratív adatforrást kezelő szervezet az adminisztratív adatforrás hivatalos statisztikai célú felhasználhatóságára tekintettel az adminisztratív adatforrás minőségéről a KSH által meghatározott tartalommal és formában információt ad át a KSH részére.”
-
-160. § Az Stt. 29. §-a helyébe a következő rendelkezés lép:
-
-„29. § (1) A Magyarországon gazdasági tevékenységet végző jogi személy, valamint a gazdasági tevékenységére vonatkozóan a gazdasági tevékenységet folytató természetes személy és a saját személyes joga szerint jogképes szervezet (a továbbiakban: adatgazda) köteles az általa vezetett nyilvántartás adatait a hivatalos statisztikai célnak megfelelő egyedi azonosításra alkalmas módon hivatalos statisztikai célból a Hivatalos Statisztikai Szolgálat tagjának átadni.
-
-(2) Az adatátadás csak különösen indokolt esetben terjedhet ki személyes adatra, ha az adatátadás a hivatalos statisztikai cél eléréséhez feltétlenül szükséges. Az adatátadás célját és annak alátámasztását a (6) bekezdés szerinti megállapodás tartalmazza.
-
-(3) A személyes adatok esetén az adatátadás a hivatalos statisztikai célhoz feltétlenül szükséges mértékben a következő adatkategóriákra terjedhet ki: családi- és utónév, nem, születési idő, állampolgárság, lakóhely, egyéb, az érintettet azonosító adat, valamint az adatgazda által az érintettről kezelt, az adatgazda gazdasági tevékenységéhez kapcsolódó, így különösen annak keretében nyújtott szolgáltatásra vonatkozó adat. A részletes adatkategóriákat a Kormány által kiadott rendelet határozza meg. A személyes adatokat – amennyiben azok eredeti formában történő kezelése nem indokolt – a Hivatalos Statisztikai Szolgálat tagja álnevesíti vagy anonimizálja.
-
-(4) Az (1) bekezdés szerinti adatátadásért a Hivatalos Statisztikai Szolgálat tagja térítést nem fizethet az adatszolgáltató szervezetnek.
-
-(5) Az adatátadással kapcsolatos igényét a KSH megküldi az adatgazdának. Az igény tartalmazza az alábbiakat:
-
-- a) az igényelt adatok és metaadatok meghatározása,
-- b) a hivatalos statisztikai cél bemutatása és indokolása,
-- c) az adatátadás gyakorisága és határideje,
-- d) az adatátadás gyakorlati feltételei.
-
-(6) Az adatátadással kapcsolatos igény teljesítése vonatkozásában – a szükséges egyeztetések lefolytatását követően – a KSH és az adatgazda az igény megküldésétől számított három hónapon belül a 28. § (8) és (9) bekezdése szerinti tartalommal megállapodást köt.
-
-(7) Amennyiben az (5) bekezdés szerinti megállapodást az adatgazda nem köti meg, vagy a megkötött megállapodás alapján, az ott megjelölt határidőre nem teljesíti az adatátadási kötelezettségét, a KSH annak teljesítésére 15 napos határidő tűzésével ismételten felszólítja. Ha az adatgazda továbbra sem tesz eleget a kötelezettségének, a 32. § szerinti jogkövetkezmények alkalmazandóak.
-
-(8) A Hivatalos Statisztikai Szolgálat KSH-n kívüli tagja adatátadásra vonatkozó igényével a KSH-t keresi meg. Az adatgazda felé a Hivatalos Statisztikai Szolgálat KSH-n kívüli tagja képviseletében a KSH jár el a (4) és (5) bekezdésekben foglaltaknak megfelelően.”
-
-161. § Az Stt. 30. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A népmozgalmi események felmérése a következő adatcsoportokra terjed ki: név, lakcím, állampolgárság, születési hely és idő, nem, családi állapot, családi állás, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, a halálozással, illetve a terhesség megszakításával mint népmozgalmi eseményekkel összefüggő egészségi állapot, ezen eseményekhez kapcsolódó betegtörzsszám, az anyakönyvezés helye, az anyakönyvi eseményazonosító, a népmozgalmi esemény helye és ideje.”
-
-162. § Az Stt. 31. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Minden tárgyévet követő év november 30-ig a KSH elnöke a Hivatalos Statisztikai Szolgálat tagjai által nyújtott információk alapján az OSAP teljesüléséről értékelő jelentést készít, amelyet véleményezés céljából megküld a Koordinációs Testületnek és az OST-nek, majd ezt követően nyilvánosságra hozza azt.”
-
-163. § (1) Az Stt. 41. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A KSH és a Hivatalos Statisztikai Szolgálat többi tagja – a 28. § (14) bekezdésében foglaltak figyelembevételével – tudományos célból – ideértve a tudományos kutatást, valamint az információkon alapuló társadalmi döntéshozatalhoz szükséges elemzéseket – hozzáférést biztosíthat olyan egyedi adatokhoz, amelyek megismerése révén a statisztikai egységek közvetlenül nem azonosíthatók.”
-
-(2) Az Stt. 41. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A KSH és a Hivatalos Statisztikai Szolgálat többi tagja tudományos kutatás céljára hozzáférést biztosíthat olyan, az egyes statisztikai egységekre vonatkozó adatokhoz, amelyeket – a statisztikai felfedés elleni védelem eszközeit alkalmazva – annak érdekében módosítottak, hogy az azonosításhoz használható legjobb eljárásokkal összhangban elfogadható mértékűre csökkenjen az érintett statisztikai egységek felfedési kockázata.”
-
-164. § Az Stt. 47. §-a a következő h) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:)
-
-„h) a 29. § (3) bekezdésében hivatkozott személyesadat-kategóriákra vonatkozó részletszabályokat.”
-
-165. § Az Stt. 52. §-a a következő e) és f) ponttal egészül ki:
-
-(Ez a törvény)
-
-„e) az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló, 2022. május 30-i (EU) 2022/868 európai parlamenti és tanácsi rendelet,
-
-f) az európai statisztikákról szóló 223/2009/EK rendelet módosításáról szóló, 2024. november 27-i (EU) 2024/3018 európai parlamenti és tanácsi rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-166. § Hatályát veszti az Stt.
-
-- a) 8. § (2) bekezdés i) pontja,
-- b) 22. § (2) bekezdés b) és f) pontja,
-- c) 28. § (10a) és (12) bekezdése,
-- d) 40. § (1) bekezdése,
-- e) 50. §-a, valamint
-- f) 51/A. §-a.
+#### 166. §
 
 #### 42. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
 
@@ -673,94 +519,38 @@ f) az európai statisztikákról szóló 223/2009/EK rendelet módosításáról
 
 #### 168. §
 
-169. § (1) A Turizmus törvény 9/E. § (1) bekezdése a következő f) ponttal egészül ki:
+#### 169. §
 
-(A Nemzeti Turisztikai Adatszolgáltató Központnak a szálláshely-szolgáltató által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:)
-
-„f) az Üzemeltető.”
-
-(2) A Turizmus törvény 9/E. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(A Nemzeti Turisztikai Adatszolgáltató Központnak a vendéglátó üzlet üzemeltetője által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:)
-
-„f) az Üzemeltető.”
-
-(3) A Turizmus törvény 9/E. § (3) bekezdése a következő g) ponttal egészül ki:
-
-(A Nemzeti Turisztikai Adatszolgáltató Központnak a turisztikai attrakció üzemeltetője által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:)
-
-„g) az Üzemeltető.”
-
-170. § (1) A Turizmus törvény 9/H. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szálláshely-szolgáltató – az érintett és mások jogainak, biztonságának és tulajdonának védelme érdekében, továbbá harmadik országbeli állampolgárok és a szabad mozgás és tartózkodás jogával rendelkező személyek tartózkodására vonatkozó rendelkezések betartásának ellenőrzése céljából – a bejelentkezéskor a szálláshelykezelő szoftverben rögzíti, és annak útján a Kormány rendeletében kijelölt tárhelyszolgáltató által biztosított tárhelyre továbbítja
-
-- a) a szálláshely-szolgáltatást igénybe vevő családi és utónevét, születési családi és utónevét, születési helyét és idejét, nemét, állampolgárságát, valamint anyja születési családi és utónevét,
-- b) a szálláshely-szolgáltatást igénybe vevő személyazonosításra alkalmas okmányának, illetve útiokmányának azonosító adatait, harmadik országbeli állampolgár esetében a vízum vagy tartózkodási engedély számát, a beutazás időpontját és helyét, valamint
-- c) a szálláshely-szolgáltatás címét, a szálláshely igénybevételének kezdő és várható, valamint tényleges befejező időpontját.”
-
-(2) A Turizmus törvény 9/H. § (3)–(6) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A szálláshely-szolgáltató a szálláshely-szolgáltatást igénybe vevő (1) bekezdés a) és b) pontjában meghatározott adatait az (1) bekezdésben meghatározott célból az adatszolgáltatási kötelezettség teljesítéséig kezeli a szálláshelykezelő szoftverben.
-
-(4) A tárhelyszolgáltató tevékenysége adatfeldolgozóként kizárólag az adatnak a tárhelyen a Kormány rendeletében kijelölt titkosítási eljárást biztosító által titkosított formában történő tárolására és az adathoz a törvényben arra feljogosított személy vagy szerv számára történő hozzáférés biztosítására terjed ki. A tárhelyszolgáltató a tárhelyen tárolt adatot nem ismerheti meg.
-
-(5) A tárhelyszolgáltató a tárhelyen tárolt (1) bekezdés szerinti adatokhoz a bűnüldözés, a bűnmegelőzés, valamint a közrend, a közbiztonság, a nemzetbiztonság, az államhatár rendjének, az érintett és mások jogainak, biztonságának és tulajdonának védelme és a körözési eljárás lefolytatása érdekében a törvényben meghatározott feladatkörében eljáró szervek részére közvetlen hozzáférést biztosít az adat rögzítését követő első év utolsó napjáig, az adatokat ezt követően törli.
-
-(6) Az (5) bekezdésben meghatározott szervek az érintett számára biztosított jogokat – így különösen a hozzáféréshez való jogot – a személyes adatok védelmére vonatkozó előírások szerint biztosítják, illetve korlátozhatják.”
+#### 170. §
 
 #### 171. §
 
 #### 172. §
 
-173. § A Turizmus törvény a 9/L. §-t követően a következő II/B. fejezettel egészül ki:
-
-### „II/B. Fejezet — A TURIZMUSFEJLESZTÉST SZOLGÁLÓ ÁLLAMI KEZESSÉGVÁLLALÁS SZABÁLYAI
-
-#### 6/E. Kisfaludy Turisztikai Hitelközpont
-
-9/M. § (1) Az állam visszavonhatatlanul készfizető kezesként felel a Kisfaludy Turisztikai Hitelközpont Zrt. (a továbbiakban: KTH Zrt.) által a (2) bekezdés szerinti feladatainak finanszírozása céljából igénybe vett hitelekből és felvett kölcsönökből eredő fizetési kötelezettségek 80%-ának teljesítéséért.
-
-(2) A KTH Zrt. a magyarországi turizmus és vendéglátóipar fejlesztése érdekében beruházási és működési célú hitelt és pénzkölcsönt nyújt a magyarországi székhellyel rendelkező turisztikai és vendéglátóipari szolgáltatók számára.
-
-(3) A KTH Zrt.-nek az (1) bekezdés szerinti kötelezettségei biztosítékaként az e törvény alapján vállalt jogszabályi állami készfizető kezességvállaláson túlmenően a hitelező további biztosíték előírására nem köteles.
-
-(4) Az állami kezességvállalásért a KTH Zrt. a Kormány rendeletében meghatározott módon számított kezességvállalási díjat fizet az állam számára.”
+#### 173. §
 
 #### 174. §
 
-175. § (1) A Turizmus törvény 10. § g) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy a)
-
-„g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, és a 12. § szerinti időpontokat, valamint a Nemzeti Turisztikai Adatszolgáltató Központhoz kapcsolódó informatikai rendszereket és azok üzemeltetőjét,”
-
-(rendeletben határozza meg.)
+175. § (1)
 
 (2)
 
-(3) A Turizmus törvény 10. §-a a következő o) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy a)
-
-„o) KTH Zrt. forrásbevonásához kapcsolódó állami készfizető kezességvállalás részletszabályait és a magyarországi turizmus és vendéglátóipar fejlesztése érdekében biztosítandó költségvetési támogatás szabályait;”
-
-(rendeletben határozza meg.)
+(3)
 
 (4)
 
 176. § A Turizmus törvény
 
 - a)
-- b) 9/B. § (2) bekezdésében az „üzemeltetője” szövegrész helyébe az „üzemeltetője (a továbbiakban: Üzemeltető)” szöveg,
-- c) 9/C. § (2a) bekezdésében a „Zrt.” szövegrész helyébe a „Zrt., valamint Üzemeltető” szöveg,
-- d) 9/C. § (3)–(5a) bekezdésében, 9/D. § (2) és (3) bekezdésében, a 9/E. § (5) bekezdésében az „A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője” szövegrész helyébe az „Az Üzemeltető” szöveg,
-- e) 9/C. § (7) bekezdésében az „a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét” szövegrész helyébe az „Üzemeltetőt” szöveg,
-- f) 9/G. § (2) és (4) bekezdésében az „A Magyar Turisztikai Ügynökség Zrt.” szövegrész helyébe az „Üzemeltető” szöveg,
-- g) 9/G. § (5) bekezdésében az „a Magyar Turisztikai Ügynökség Zrt.” szövegrész helyébe az „az Üzemeltető” szöveg,
-- h) 9/I. § (2) bekezdésében az „A Magyar Turisztikai Ügynökség Zrt.” szövegrész helyébe az „Az Üzemeltető” szöveg,
-- i) 10. § f) pontjában a „Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője” valamint az „üzemeltető” szövegrész helyébe az „Üzemeltető” szöveg,
-- j) 12. § (1) bekezdésében az „a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője” szövegrész helyébe az „az Üzemeltető” szöveg
+- b)
+- c)
+- d)
+- e)
+- f)
+- g)
+- h)
+- i)
+- j)
 
 lép.
 
@@ -786,113 +576,33 @@ lép.
 
 #### 45. A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény módosítása
 
-185. § A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény (a továbbiakban: Budapest törvény) 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 185. §
 
-„(1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a tulajdonosi jog gyakorlása alapján, vagy a vagyonkezelésében lévő vagy a megállapodás alapján a rendelkezésére álló ingatlanon e jogviszonyok alapján beruházási és felújítási tevékenységet is végezhet.”
+#### 186. §
 
-186. § A Budapest törvény 15. § d) pontja helyébe a következő rendelkezés lép:
+#### 187. §
 
-[A 14. § (3) bekezdése alapján az állam által ellátandó közfeladatként]
+#### 188. §
 
-„d) a Budai Palotanegyedben található, a 3. és 4. mellékletben felsorolt ingatlanok
+#### 189. §
 
-da) építési beruházási és fejlesztési feladatait az állami beruházásokért felelős miniszter,
+#### 190. §
 
-db) vagyonkezelését, üzemeltetését és ennek körében a fenntartását, fejlesztését, valamint a zöldfelületek és egyéb közterületek karbantartását az állam a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság útján, az erre a célra nevesített támogatások biztosítása mellett
+#### 191. §
 
-látja el.”
+#### 192. §
 
-187. § A Budapest törvény a következő 15/A. és 15/B. §-sal egészül ki:
+#### 193. §
 
-„15/A. § A Kormány az e fejezetben meghatározott építtetői feladatokat, valamint a 15. § a) pontja és 15. § d) pont da) alpontja szerinti feladatok építtetői előkészítését és megvalósítását jogutódként az állami beruházásokért felelős miniszter (e fejezet alkalmazásában a továbbiakban: Építtető) útján látja el, azzal, hogy a beruházás előkészítését és megvalósítását költségvetési szerv útján látja el. A költségvetési szerv e feladatai elvégzéséhez közreműködőt vehet igénybe.
+#### 194. §
 
-15/B. § (1) Az Építtető tulajdonosi joggyakorlásába kell adni a beruházások megvalósításához szükséges – az Építtető által az ingatlanok tulajdonosi joggyakorlója részére benyújtott kérelemben megjelölt – állami tulajdonú ingatlanokat és a beruházáshoz szükséges egyéb vagyonelemeket. Az állami ingatlanok tulajdonosi joggyakorlója – az Építtető megkeresése alapján – 30 napon belül intézkedik az ingatlanok tulajdonosi joggyakorlásának átadására vonatkozó megállapodás megkötéséről. Az ingatlanok és a beruházáshoz szükséges állami tulajdonú egyéb vagyonelemek tulajdonosi joggyakorlását ingyenesen, a megállapodás megkötésének napjával, könyv szerinti értéken kell az Építtető részére átadni. A tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartási átvezetését a megállapodás ingatlanügyi hatóság részére történő megküldésével az Építtető és az átadó tulajdonosi joggyakorló közösen kezdeményezi. Az ingatlanügyi hatóság az ingatlan-nyilvántartási kérelmen és az annak mellékletét képező megállapodáson kívül, az ingatlan-nyilvántartási átvezetéshez más dokumentumot nem kérhet. A tulajdonosi joggyakorlás megállapodással történő átadásával az átvett vagyonnal kapcsolatos jogviszonyokban a korábbi tulajdonosi joggyakorló helyett az Építtető képviseli az államot.
-
-(2) Az Építtető tulajdonosi joggyakorlásának időtartama alatt az Építtető által az állam 100%-os tulajdonában álló, az Építtető tulajdonosi joggyakorlása alatt álló ingatlanon felépített új építmény az állam 100%-os tulajdonába és az Építtető tulajdonosi joggyakorlásába kerül.
-
-(3) Az Építtető tulajdonosi joggyakorlása a beruházás keretében létrejött építmény műszaki átadás-átvételének lebonyolítását – új építmény esetében egyúttal az állami ingatlan-nyilvántartási térképi adatbázisban történő feltüntetését – követően, a munkaterület kivitelező által az Építtető részére történő visszaadását követő napon e törvény erejénél fogva megszűnik. Az Építtető tulajdonosi joggyakorlásának megszűnését követően a vagyonelemeket az új tulajdonosi joggyakorló könyveiben, nyilvántartásában kell feltüntetni, az Építtető által nyilvántartott – befejezetlen beruházás – könyv szerinti értéken az Építtető által az új tulajdonosi joggyakorló részére a tulajdonosi joggyakorlás megszűnését követő 60 napon belül megküldött, tételes nyilvántartási adatokat és értékeket tartalmazó kimutatás alapján.
-
-(4) Az Építtető a tulajdonosi joggyakorlásának a megszűnését követő 15 napon belül az új tulajdonosi joggyakorlóval közösen kezdeményezi az illetékes ingatlanügyi hatóságnál a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartási átvezetését. Az ingatlanügyi hatóság az ingatlan-nyilvántartási kérelmen és az annak mellékletét képező, a tulajdonosi joggyakorlása megszűnésére vonatkozó minisztériumi nyilatkozaton kívül, az ingatlan-nyilvántartási átvezetéshez más dokumentumot nem kérhet.”
-
-188. § (1) A Budapest törvény 17. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A Vagyonkezelő a beruházás megvalósításával érintett ingatlant e törvény erejénél fogva köteles az Építtetőnek az építési beruházás céljából annak befejezéséig, illetve a megállapodásban rögzített napig átadni.”
-
-(2) A Budapest törvény 17. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A Vagyonkezelőt megilletik a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdése szerinti tulajdonos jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében a Vagyonkezelő a 15. § d) pont db) alpontja szerinti feladatai ellátása körében végzett építési tevékenység megvalósítása céljából a Vagyonkezelő által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.”
-
-(3) A Budapest törvény 17. §-a a következő (9) és (10) bekezdéssel egészül ki:
-
-„(9) A Vagyonkezelő a vagyonkezelésében lévő ingatlan vonatkozásában a 15. § d) pont db) alpontja szerinti feladatai ellátása körében végzett tevékenysége, továbbá az ezzel összefüggő közbeszerzési és beszerzési tevékenysége közérdekű célú fejlesztésnek minősül. A Vagyonkezelő mint ajánlatkérő a fenntartással, üzemeltetéssel és karbantartással összefüggő feladatai, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.), valamint a saját vonatkozó szabályzata szerint köteles eljárni.
-
-(10) A Vagyonkezelő a 15. § d) pont db) alpontja szerinti feladatai ellátása körében érvényesíti a szavatossági és jótállási jogokat.”
-
-189. § A Budapest törvény 18. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A 19. § (2) és (4)–(10) bekezdésében foglaltak alkalmazandóak az olyan, (1) bekezdés szerinti beruházáshoz kapcsolódó beruházás esetében is, amelyet az Építtető nem a Vagyonkezelő vagyonkezelésében álló vagy nem az Építtető tulajdonosi joggyakorlása alatt lévő, vagy nem állami tulajdonú nemzeti vagyonba tartozó ingatlanon (a továbbiakban együtt: idegen ingatlan) valósít meg. Idegen ingatlanon történő beruházásra a tulajdonosi joggyakorló – ennek hiányában a tulajdonos – előzetes hozzájárulása birtokában kerülhet sor, és a létrejövő értéknövelő beruházás átadásáról az Építtető és az állami ingatlan tulajdonosi joggyakorlója – nem állami tulajdonban lévő ingatlan tekintetében a tulajdonos – megállapodást köt.”
-
-190. § (1) A Budapest törvény 19. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Építtető az építtetői feladatok ellátása során a tulajdonosi joggyakorlása alatti vagy Vagyonkezelő vagyonkezelésében lévő vagy idegen ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez a 18. § (1) bekezdésében foglalt Várnegyed rehabilitációs program, valamint a 14. §-ban foglalt célok és közfeladatok megvalósítása érdekében, amelyek során köteles a bontási hulladékok megsemmisítésére, vagy hulladékgyűjtő helyen történő elhelyezésére a tulajdonosi joggyakorló selejtezési szabályzata alapján, továbbá jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére vagy végleges elhelyezésére megbízási szerződést kötni. A vissznyeremény anyagok értékesítéséből származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 31/A. § (5) és (6) bekezdésében meghatározottak szerint a Vagyonkezelőt illeti meg azzal, hogy a Vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon, illetve az általa karbantartott zöldfelület célszerinti fenntartására fordítani.”
-
-(2) A Budapest törvény 19. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az Építtető által – az (1) bekezdés szerinti beruházással érintett ingatlanon – az (1) bekezdés szerinti beruházások előkészítése és megvalósítása, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül. Az Építtető mint ajánlatkérő a beruházások előkészítésével, megvalósításával, továbbá az ezekkel összefüggő közbeszerzési és beszerzési tevékenysége esetében e törvény, a Kbt., valamint a saját vonatkozó szabályzata szerint köteles eljárni.”
-
-191. § A Budapest törvény a következő III/C. Fejezettel egészül ki:
-
-### „III/C. Fejezet — KIEMELT NEMZETI EMLÉKHELYEN MEGVALÓSULÓ BERUHÁZÁSOK
-
-19/C. § A kiemelt nemzeti emlékhelyen és annak jogszabály szerinti településkép-védelmi környezetében megvalósuló azon beruházás megvalósítása esetén, amelyet jogszabály a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) szerinti közcélú kiemelt beruházássá nyilvánított, vagy amelyre a Méptv. közcélú kiemelt beruházásra vonatkozó szabályait kell alkalmazni (a továbbiakban együtt: kiemelt nemzeti emlékhellyel összefüggő beruházás) – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (4) bekezdés d)–f) pontjától eltérően – a Kormány az e törvény felhatalmazása alapján kiadott rendeletében – a kiemelt nemzeti emlékhely védelmének és értékének megőrzése érdekében – az építési tevékenység elvégzéséhez feltétlenül szükséges időtartamra és helyszínre vonatkozóan a helyi zajvédelmi szabályokhoz képest eltérő követelményeket, valamint különös eljárási szabályokat állapíthat meg.”
-
-192. § A Budapest törvény 20. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kiemelt nemzeti emlékhellyel összefüggő beruházások megvalósításához kapcsolódóan az építési tevékenység elvégzéséhez feltétlenül szükséges időtartamra és helyszínre vonatkozóan a helyi zajvédelmi szabályoktól eltérő követelményeket, valamint különös eljárási szabályokat.”
-
-193. § A Budapest törvény 22. §-a a következő (2a)–(2h) bekezdéssel egészül ki:
-
-„(2a) A 15. § d) pont db) alpontja szerinti közfeladatot 2025. július 1-jétől állami feladatként a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság látja el.
-
-(2b) A 15/A. § szerinti közfeladatot 2025. július 1-jétől látja el az állami beruházásokért felelős miniszter. A 15/A. § szerinti közfeladatok előkészítésével és megvalósításával összefüggő, Vagyonkezelő által megkötött szerződésekbe a 15/A. § szerinti építtető e törvény erejénél fogva a Vagyonkezelő helyébe lép, amelyhez a szerződésben részes harmadik fél hozzájárulása nem szükséges, a szerződő fél személyében bekövetkezett változásról a szerződésben részes feleket értesíteni kell.
-
-(2c) A 15/A. § szerinti építtetőt a (2b) bekezdés szerinti változás esetén az érintett beruházás előkészítéséhez vagy megvalósításához kapcsolódó további közbeszerzési kötelezettség nem terheli.
-
-(2d) A tervek, illetve az azokat tartalmazó dokumentáció felhasználási joga tekintetében a 15/A. § szerinti építtetőt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
-
-(2e) A Vagyonkezelő helyébe a hatósági engedélyek tekintetében e törvény erejénél fogva az 15/A. § szerinti építtető lép.
-
-(2f) A (2e) bekezdés szerinti változást a 15/A. § szerinti építtető bejelenti a hatósági engedélyt kiadó hatóság részére.
-
-(2g) A 15/B. § (1) bekezdése szerinti tulajdonosi jogok gyakorlása 2025. július 1-jétől illeti meg az állami beruházásokért felelős minisztert.
-
-(2h) Az állami beruházásokért felelős miniszter 2025. július 1-jétől a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság által fel nem használt működési és beruházási támogatások általános jogutódja. A működéshez kapcsolódó támogatások esetében kivételt képeznek azon támogatási jogviszonyok, amelyek nem építési és beruházási tevékenységhez kapcsolódnak.”
-
-194. § A Budapest törvény a következő 23/A. §-sal egészül ki:
-
-„23/A. § E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 19/C. §-át és 20. § (3) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
-
-195. § A Budapest törvény
-
-- a) 17. § (8) bekezdésében a „Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság” szövegrész helyébe a „tulajdonosi joggyakorló” szöveg,
-- b) 19. § (2) és (5) bekezdésében az „A Vagyonkezelő mint építtető” szövegrész helyébe az „Az Építtető” szöveg,
-- c) 19. § (3) bekezdésében az „A Vagyonkezelő, mint építtető” szövegrész helyébe az „Az Építtető” szöveg,
-- d) 19. § (6) és (7) bekezdésében az „A Vagyonkezelő” szövegrész helyébe az „Az Építtető” szöveg,
-- e) 20. § (2) bekezdés e) pontjában a „közterületek fejlesztésére és karbantartására kijelölt, a 15. § d) pontja szerinti” szövegrész helyébe az „ingatlanok karbantartására kijelölt, 15. § d) pont db) alpontja szerinti” szöveg,
-- f) 22. § (1) bekezdésében a „magyar építészetről szóló 2023. évi C. törvény” szövegrész helyébe a „Méptv.” szöveg
-
-lép.
+#### 195. §
 
 #### 46. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
 #### 196. §
 
-197. § A Tbj.
-
-- a) 22. § (1) bekezdés m) pontjában a „külföldi vagy ismeretlen állampolgárságú kiskorú személy” szövegrész helyébe a „külföldi, ismeretlen állampolgárságú vagy hontalan kiskorú személy, továbbá gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés alá vont, azonban gyermekvédelmi szakellátásban nem részesülő ismeretlen állampolgárságú vagy hontalan kiskorú” szöveg,
-- b) 67. § (3) bekezdés b) pontjában az „a külső férőhelyet működtető” szövegrész helyébe az „a külső férőhelyet működtető, a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés alá vont, azonban gyermekvédelmi szakellátásban nem részesülő ismeretlen állampolgárságú vagy hontalan gyermek esetén a gyámhatóság” szöveg
-
-lép.
+#### 197. §
 
 #### 47.
 
@@ -1010,19 +720,9 @@ lép.
 
 #### 54. A területfejlesztésről szóló 2023. évi CII. törvény módosítása
 
-248. § A területfejlesztésről szóló 2023. évi CII. törvény (a továbbiakban: Tftv.)
+#### 248. §
 
-- a) 13. § (10) bekezdésében a „kiemelt térségi fejlesztési tanácsokban az elnöki feladatokat két elnök” szövegrész helyébe a „kiemelt térségi fejlesztési tanácsokban, azok tagjaként az elnöki feladatokat két elnök” szöveg
-- b) 17. § (2) bekezdésében a „Ha a Kormány a területi felzárkózás elősegítése céljából – azok teljes vagy részbeni fedezetének biztosítása érdekében pályázati úton – a Területfejlesztési Alap elnevezésű fejezeti kezelésű előirányzat terhére” szövegrész helyébe a „Ha a Kormány a területi felzárkózás elősegítése céljából a Területfejlesztési Alap elnevezésű fejezeti kezelésű előirányzat terhére” szöveg
-
-lép.
-
-249. § Hatályát veszti a Tftv.
-
-- a) 13. § (5) bekezdés h), l), m) és o) pontja,
-- b) 13. § (5a) bekezdés e) pontja,
-- c) 13. § (6) bekezdése, valamint
-- d) 35. § (1) bekezdés 12. pontja.
+#### 249. §
 
 #### 55.
 
@@ -1050,15 +750,9 @@ lép.
 
 #### 57. Az online csalások elleni további hatékony fellépés érdekében szükséges és egyéb törvények módosításáról szóló 2024. évi LXIV. törvény módosítása
 
-260. § (1) Az online csalások elleni további hatékony fellépés érdekében szükséges és egyéb törvények módosításáról szóló 2024. évi LXIV. törvény (a továbbiakban: 2024. évi LXIV. törvény) 95. § (7) bekezdése helyébe a következő rendelkezés lép:
+#### 260. §
 
-„(7) Az 55. §, az 57. §, valamint a 63. § 2., 4–6., 8., 10., 14. és 17. pontja 2026. január 1-jén lép hatályba.”
-
-(2) A 2024. évi LXIV. törvény 95. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az 50. §, az 58. §, valamint a 64. § d) és e) pontja 2026. szeptember 1-jén lép hatályba.”
-
-261. § A 2024. évi LXIV. törvény 95. § (1) bekezdésében az „– a (2)–(7) bekezdésben foglalt kivétellel –” szövegrész helyébe az „– a (2)–(8) bekezdésben foglalt kivétellel –” szöveg lép.
+#### 261. §
 
 #### 58.
 
