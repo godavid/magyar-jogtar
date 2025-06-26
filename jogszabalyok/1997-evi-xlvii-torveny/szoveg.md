@@ -414,6 +414,12 @@ a Donor Regiszterből lekérdezheti.
 
 (2) Az (1) bekezdésben megjelölt adatokat az ott meghatározott célból az egészségügyi ellátóhálózat, illetve az egészségügyi államigazgatási szerv továbbítja az (1) bekezdés szerinti szervek részére.
 
+(3) Az egészségügyi ellátóhálózat szereplője, az EESZT működtetője, valamint az egészségbiztosítási szerv – a miniszter Eütv. 150. § (1) bekezdés c), d) és f) pontjában meghatározott feladatai ellátása érdekében, az adatvezérelt egészségpolitikai döntéshozatal, a betegbiztonság és prevenció fejlesztése, valamint a betegutak optimalizálása és a terápiás eredmények javítása érdekében – a miniszter által meghatározott, az ellátóhálózat, az EESZT működtetője, valamint az egészségbiztosítási szerv által kezelt egészségügyi adatokat a miniszter által meghatározott paraméterek szerint anonimizálja és a miniszter részére átadja.
+
+(4) Ha a (3) bekezdés szerinti esetben a miniszter által meghatározott paraméterek okán az adatok anonimizálása nem megoldható, az adatokat álnevesítve kell átadni azzal, hogy az álnevesített adatok tekintetében a helyreállítási kulcshoz a miniszter számára hozzáférés nem adható.
+
+(5) A (3) bekezdés szerinti adatok anonimizálásának – a (4) bekezdés szerinti esetben álnevesítésének – és átadásának költségei viselésének tekintetében az adatkezelő és a miniszter megállapodást köt.
+
 ### Az Európai Unión belüli határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése céljából történő adatkezelés
 
 19/A. § (1) A határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szerv a 4. § (2) bekezdés zs) pontja szerinti célból – a határon átnyúló egészségügyi ellátáshoz való jogokkal kapcsolatos, a nemzeti kapcsolattartó szerv feladatairól szóló kormányrendeletben meghatározott tájékoztatás megadásáig – kezelheti az érintett nevét, nemét, születési idejét, lakóhelyét, tartózkodási helyét, TAJ számát, a részére az EESZT útján rendelt vények adatait, valamint azon egészségügyi adatait, amelyek az érintett határon átnyúló egészségügyi ellátáshoz kapcsolódó jogainak érvényesítéséhez elengedhetetlenül szükségesek.
@@ -776,7 +782,7 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (2) A működtető az (1) bekezdésben meghatározottakon túl biztosítja a törvényben vagy kormányrendeletben meghatározott egyéb, az EESZT útján történő adattovábbítási szolgáltatásokat.
 
-(2a) A működtető az (1) és (2) bekezdés szerinti feladatainak ellátása céljából, a feladat ellátása szükségességének mértékéig – ha törvény eltérően nem rendelkezik, a feladat végrehajtásának idejéig – kezeli a 35/F. § (1) bekezdésében foglalt adatokat, az érintett az érintett EESZT-ben képzett azonosítóját, a szolgáltatások nyújtásához szükséges eszköz azonosítót, továbbá az érintett halálának idejét.
+(2a) A működtető az (1) és (2) bekezdés szerinti feladatainak ellátása céljából, a feladat ellátása szükségességének mértékéig – ha törvény eltérően nem rendelkezik, a feladat végrehajtásának idejéig – kezeli az EESZT-ben tárolt adatokat, az érintett az érintett EESZT-ben képzett azonosítóját, a szolgáltatások nyújtásához szükséges eszköz azonosítót, továbbá az érintett halálának idejét.
 
 (3) A működtető az (1) és (2) bekezdésben meghatározottakon túl az érintett hozzájárulása alapján egyéb adattárolási és az EESZT útján történő adattovábbítási szolgáltatásokat biztosíthat.
 
@@ -790,7 +796,7 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (2) Az egészségügyi ellátóhálózatba tartozó, az (1) bekezdés alá nem tartozó adatkezelők az EESZT-hez a miniszter rendeletében meghatározott feltételekkel csatlakozhatnak.
 
-(3) Az EESZT szolgáltatásai a működtető által biztosított közvetlen hozzáférési felületen és az (1) és (2) bekezdés alapján csatlakozott adatkezelő (a továbbiakban: csatlakozott adatkezelő) informatikai rendszerén keresztül is igénybe vehetők. A közvetlen hozzáférési felület igénybevétele érdekében regisztrációra köteles valamennyi olyan természetes személy, aki a csatlakozott adatkezelők vagy saját nevében az EESZT szolgáltatásait igénybe veszi.
+(3) Az EESZT szolgáltatásai az (1) és (2) bekezdés alapján csatlakozott adatkezelő (a továbbiakban: csatlakozott adatkezelő) informatikai rendszerén keresztül vehetők igénybe. A működtető közvetlen hozzáférési felületet biztosíthat, amelyen az EESZT egyes szolgáltatásai elérhetőek.
 
 (4) Az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltatók között informatikai rendszerek közötti adatcsere esetén egészségügyi adat kizárólag az EESZT útján továbbítható.
 
@@ -968,11 +974,11 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 35/N. § A jogszabályban meghatározott jelentéstételre vagy adatszolgáltatásra kötelezett csatlakozott adatkezelő vagy az EESZT felhasználó a jelentéstételt vagy adatszolgáltatást az EESZT útján miniszteri rendeletben meghatározottak szerint teljesíti.
 
-35/O. § (1) A működtető biztosítja, hogy az Ebtv. alapján beutalónak nem minősülő igénylést az igénylő orvos az EESZT útján elektronikus úton is kiállíthassa, és az EESZT útján továbbíthassa (a továbbiakban: elektronikus szolgáltatásrendelés).
+35/O. § (1) A működtető biztosítja, hogy az Ebtv. alapján beutalónak nem minősülő igénylést az igénylő az EESZT útján elektronikus úton is kiállíthassa, és az EESZT útján továbbíthassa (a továbbiakban: elektronikus szolgáltatásrendelés).
 
 (2) Az elektronikus szolgáltatásrendelésnek tartalmaznia kell
 
-- a) az igénylő orvos azonosítására szolgáló adatot, megnevezését, kódját,
+- a) az igénylő azonosítására szolgáló adatot, megnevezését, kódját,
 - b) a szolgáltatásrendeléssel érintett személy TAJ számát, vagy ennek hiányában más azonosítóját és
 - c) a szolgáltatásrendelésre okot adó előzetes diagnózis szöveges leírását, kódját, konzílium igénylése esetén a kérdést.
 
@@ -980,10 +986,10 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 - a) a szolgáltatásrendeléssel érintett személy születési idejét,
 - b) a felkért szolgáltató nevét, intézményi azonosító kódját,
-- c) az igénylő orvos által végzett ellátás azonosítóját, és
+- c) az igénylő által végzett ellátás azonosítóját, és
 - d) a szolgáltatásrendeléssel érintett személy rövid kórelőzményét.
 
-(4) A működtető biztosítja, hogy az igénylő orvos és a szolgáltatásrendeléssel érintett személy az igénylés szerinti egészségügyi szolgáltatás meghatározott egészségügyi szolgáltatónál és időpontban történő igénybevételére vonatkozó igényét az EESZT útján terjessze elő, és ennek sikerességéről vagy sikertelenségéről az egészségügyi szolgáltató az EESZT útján tájékoztassa az igénylő orvost és a szolgáltatásrendeléssel érintett személyt.
+(4) A működtető biztosítja, hogy az igénylő orvos és a szolgáltatásrendeléssel érintett személy az igénylés szerinti egészségügyi szolgáltatás meghatározott egészségügyi szolgáltatónál és időpontban történő igénybevételére vonatkozó igényét az EESZT útján terjessze elő, és ennek sikerességéről vagy sikertelenségéről az egészségügyi szolgáltató az EESZT útján tájékoztassa az igénylőt és a szolgáltatásrendeléssel érintett személyt.
 
 (5) A működtető az (1) és (4) bekezdésben foglaltakról nyilvántartást vezet. A nyilvántartás tartalmazza
 

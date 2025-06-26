@@ -231,6 +231,8 @@ a termőföld védelméről
 - b) a termőföld belterületbe vonásának engedélyezése;
 - c) az Evt. hatálya alá nem tartozó üzem-, majorfásítás, valamint az út, vasút és egyéb műszaki létesítmény tartozékát képező fásítás igénybevétele.
 
+(1a) E törvény alkalmazásában nem tekinthető más célú hasznosításnak zártkerti ingatlannak az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 40/E. alcíme szerinti eljárásban történő művelés alóli kivonása.
+
 (2) Nem minősül a termőföld más célú hasznosításának napenergiát az e törvény végrehajtására kiadott rendeletben meghatározottak szerinti agrofotovoltaikus rendszer szerint felhasználva villamos energiát termelő erőmű létesítése és üzemeltetése, ha nem akadályozza az alatta fekvő területnek a 2. § 19. pontjában megjelölt valamely művelési ág szerint termőföldként történő hasznosítását.
 
 (2a) E törvény alkalmazásában nem tekinthető más célú hasznosításnak a 2. § 28. pontja szerinti támogatható tájképi elem létesítése és fenntartása.
