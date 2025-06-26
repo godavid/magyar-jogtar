@@ -14,12 +14,7 @@ az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépés
 
 (2) Az Inytv. alkalmazásában, ahol jogszabály ingatlan-nyilvántartási bejegyzés vagy törlés iránti megkeresésről rendelkezik, azon bírósági elrendelést, illetve hatósági felhívást kell érteni.
 
-3. § Az Inytv. 64. § (1) bekezdésétől eltérően a föld tulajdonjogának megszerzésére irányuló azon szerződések esetében, amelyeknél
-
-- a) a hatósági jóváhagyás iránti eljárás 2025. január 15-ét megelőzően megindult, vagy
-- b) az adásvételi szerződés közzététele a hatósági jóváhagyás iránti eljárás megindítását megelőzi, és a közzétételére 2025. január 15-ét megelőzően került sor,
-
-a közokiratba foglalt, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett, jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon elkészített és hatósági jóváhagyáshoz kötött szerződés bejegyzés alapjául szolgál, ha annak eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék.
+#### 3. §
 
 3/A. § (1) Az Inytv. 18. § (2), (4) és (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy
 
@@ -44,7 +39,10 @@ kell érteni.
 
 (2) Az Inytv. 44. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a beadvány benyújtására nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül kerül sor, jelzálogjogra, önálló zálogjogra vagy átalakításos önálló zálogjogra, valamint ezek biztosítására elidegenítési és terhelési tilalomra, elidegenítési tilalomra vagy terhelési tilalomra vonatkozó változás bejegyzése olyan változásbejegyzési kérelem alapján is teljesíthető, amelyet a kérelmező hitelintézet – a kötelezett nélkül – önállóan terjeszt elő.
 
-3/E. § A föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papíralapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló kormányrendelet szerinti biztonsági okmányon szerkesztett, a mezőgazdasági igazgatási szerv jóváhagyásához kötött, föld tulajdonjogának megszerzésére irányuló szerződés papíralapon, az ingatlan-nyilvántartás vezetését támogató informatikai rendszer ügyintézési felületének használata nélkül, a 3/A., 3/B. és 3/D. §-ok hatályvesztését követően is benyújtható ingatlan-nyilvántartási változásbejegyzés céljából, ha a 3/A., 3/B. és 3/D. §-ok hatályvesztésének időpontjában a mezőgazdasági igazgatási szerv eljárása már folyamatban volt.
+3/E. § Az Inytv. 64. § (1) bekezdésétől eltérően a föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papíralapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló kormányrendelet szerinti biztonsági okmányon szerkesztett, közokiratba foglalt, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett, föld tulajdonjogának megszerzésére irányuló szerződés bejegyzés alapjául szolgál, és papíralapon, az ingatlan-nyilvántartás vezetését támogató informatikai rendszer ügyintézési felületének használata nélkül a 3/A., 3/B. és 3/D. § hatályvesztését követően is benyújtható ingatlan-nyilvántartási változásbejegyzés céljából, ha a 3/A., 3/B. és 3/D. § hatályvesztésének időpontjában
+
+- a) a mezőgazdasági igazgatási szerv eljárása már folyamatban volt, és a szerződés eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék, vagy
+- b) a mezőgazdasági igazgatási szerv jóváhagyásához nem kötött szerződés közzétételére a 3/A., 3/B. és 3/D. § hatályvesztését megelőzően került sor.
 
 3/F. § (1) A részházként nyilvántartott ingatlanok részházként történő nyilvántartása megszűnik.
 
@@ -73,6 +71,56 @@ kell érteni.
 (7) Ha a tulajdonihányad-rendezés alatt az eljárással érintett ingatlanra vonatkozóan tulajdoni hányadra vagy annak eszmei hányadára vonatkozó jog, illetve tény bejegyzésére irányuló beadványt nyújtanak be, az ingatlanügyi hatóság a jogot vagy tényt már a megállapított új tulajdoni hányadnak megfelelően jegyzi be akkor is, ha a bejegyzés alapjául szolgáló okirat a bejegyzéssel érintett tulajdoni hányadot még a tulajdonihányad-rendezés előtti állapotnak megfelelően tartalmazza.
 
 (8) Az a tulajdonos, akire az (1) bekezdés szerinti döntés sérelmes, ha a (3) bekezdés szerinti lehetőséggel nem élt, vagy a (3) bekezdés szerinti eljárás nem vezetett eredményre, a tulajdonostársakkal szemben megindított polgári perben kérheti az egyes tulajdonostársakat megillető tulajdoni hányadok megállapítását.
+
+3/H. § (1) Azon időpontot követően, amikortól az Inytv. vagy e törvény rendelkezése alapján jogok változásának bejegyzésére irányuló eljárás már kizárólag csak az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben létrehozott elektronikus űrlappal (a továbbiakban: ingatlan-nyilvántartási elektronikus űrlap) indítható meg, – abban az ügyben, amelyben a tulajdonjog-fenntartáshoz kapcsoló vevői jog vagy a jövőbeli épületre vonatkozó vevői jog bejegyzése iránti kérelem benyújtására még nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül került sor –, a jogi képviselőt a tulajdonjog-bejegyzési eljárásban a képviselet ellátására feljogosító meghatalmazás vagy felhatalmazás akkor is benyújtható, ha azt nem ingatlan-nyilvántartási elektronikus űrlapon hozták létre.
+
+(2) A papíralapon létrejött meghatalmazás vagy felhatalmazás csak abban az esetben használható fel az ingatlan-nyilvántartási eljárásban, ha
+
+- a) az ezen rendelkezés hatálybalépését megelőzően létrejött meghatalmazást vagy felhatalmazást 2025. december 31-ig az azt szerkesztő közjegyző, ügyvéd vagy kamarai jogtanácsos,
+- b) az ezen rendelkezés hatálybalépését követően létrejött
+  - ba) meghatalmazást az aláírásától számított három napon belül az azt szerkesztő ügyvéd vagy kamarai jogtanácsos,
+  - bb) meghatalmazást vagy felhatalmazást – a meghatalmazás vagy felhatalmazás hitelesítéséről rendelkező határozat jogerőre emelkedésétől számított három napon belül – az azt szerkesztő közjegyző
+
+elektronikus okirattá alakítja.
+
+(3) A nem ingatlan-nyilvántartási elektronikus űrlapon létrejött, jogi képviselet ellátását biztosító meghatalmazásra és felhatalmazásra az (1) és (2) bekezdést kell alkalmazni abban az esetben is, ha azt nem tulajdonjog-fenntartáshoz kapcsolódó vevői joggal vagy jövőbeli épületre vonatkozó vevői joggal összefüggő tulajdonjog-bejegyzési ügyben állították ki. Ebben az esetben a nem ingatlan-nyilvántartási elektronikus űrlapon létrejött meghatalmazás vagy felhatalmazás a 2026. december 31-ig megindított ingatlan-nyilvántartási eljárásban használható fel.
+
+3/I. § (1) Azon időpontot követően, amikortól az Inytv. vagy e törvény rendelkezése alapján jogok változásának bejegyzésére irányuló eljárás már kizárólag csak ingatlan-nyilvántartási elektronikus űrlappal indítható meg, – abban az ügyben, amelyben a tulajdonjog-fenntartáshoz kapcsoló vevői jog vagy a jövőbeli épületre vonatkozó vevői jog bejegyzése iránti kérelem benyújtására még nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül került sor –, a tulajdonjog-bejegyzéshez kapcsolódó ügyleti meghatalmazás akkor is benyújtható, ha az nem ingatlan-nyilvántartási elektronikus űrlapon jött létre, feltéve, hogy létrejöttének időpontjában az ingatlan-nyilvántartási elektronikus űrlapon történő létrehozását kötelező jelleggel jogszabály nem írta elő.
+
+(2) A (3) bekezdésben foglalt kivétellel, a papíralapon létrejött ügyleti meghatalmazás csak abban az esetben használható fel az ingatlan-nyilvántartási eljárásban, ha
+
+- a) az ezen rendelkezés hatálybalépését megelőzően létrejött ügyleti meghatalmazást 2025. december 31-ig az azt szerkesztő közjegyző, ügyvéd vagy kamarai jogtanácsos,
+- b) az ezen rendelkezés hatálybalépését követően létrejött ügyleti meghatalmazást
+  - ba) az aláírásától számított három napon belül az azt szerkesztő ügyvéd vagy kamarai jogtanácsos,
+  - bb) a hitelesítéséről rendelkező határozat jogerőre emelkedésététől számított három számított napon belül az azt szerkesztő közjegyző
+
+elektronikus okirattá alakítja.
+
+(3) A jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon (e törvény alkalmazásában a továbbiakban: biztonsági okmány) szerkesztett ügyleti meghatalmazás elektronikus okirattá alakítás nélkül használható fel a tulajdonjog-bejegyzési eljárásban.
+
+(4) A nem ingatlan-nyilvántartási elektronikus űrlapon létrejött ügyleti meghatalmazásra az (1) és (2) bekezdést kell alkalmazni abban az esetben is, ha azt nem tulajdonjog-fenntartáshoz kapcsolódó vevői joggal vagy jövőbeli épületre vonatkozó vevői joggal összefüggő tulajdonjog-bejegyzési ügyben állították ki. Ebben az esetben a nem ingatlan-nyilvántartási elektronikus űrlapon létrejött ügyleti meghatalmazás a 2026. december 31-ig megindított ingatlan-nyilvántartási eljárásban használható fel.
+
+3/J. § (1) Azon időpontot követően, amikortól az Inytv. vagy e törvény rendelkezése alapján jogok változásának bejegyzésére irányuló eljárás már kizárólag csak ingatlan-nyilvántartási elektronikus űrlappal indítható meg – abban az ügyben, amelyben a tulajdonjog-fenntartáshoz kapcsoló vevői jog vagy a jövőbeli épületre vonatkozó vevői jog bejegyzése iránti kérelem benyújtására még nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül került sor –, a tulajdonjog-bejegyzési engedély akkor is benyújtható, ha az nem ingatlan-nyilvántartási elektronikus űrlapon jött létre, feltéve, hogy létrejöttének időpontjában az ingatlan-nyilvántartási elektronikus űrlapon történő létrehozását kötelező jelleggel jogszabály nem írta elő.
+
+(2) A (3) bekezdésben foglalt kivétellel, a papíralapon létrejött tulajdonjog-bejegyzési engedély csak abban az esetben szolgálhat bejegyzés alapjául, ha
+
+- a) az ezen rendelkezés hatálybalépését megelőzően létrejött tulajdonjog-bejegyzési engedélyt 2025. december 31-ig az azt szerkesztő közjegyző, ügyvéd vagy kamarai jogtanácsos,
+- b) az ezen rendelkezés hatálybalépését követően létrejött tulajdonjog-bejegyzési engedélyt
+  - ba) az aláírásától számított három napon belül az azt szerkesztő ügyvéd vagy kamarai jogtanácsos,
+  - bb) a hitelesítéséről rendelkező határozat jogerőre emelkedésétől számított három napon belül az azt szerkesztő közjegyző
+
+elektronikus okirattá alakítja.
+
+(3) A biztonsági okmányon szerkesztett tulajdonjog-bejegyzési engedély elektronikus okirattá alakítás nélkül használható fel a tulajdonjog-bejegyzési eljárásban.
+
+(4) A nem ingatlan-nyilvántartási elektronikus űrlapon létrejött
+
+- a) jelzálogjog-bejegyzési engedélyre, valamint
+- b) tulajdonjog-bejegyzési engedélyre, ha azt nem tulajdonjog-fenntartáshoz kapcsolódó vevői joggal vagy jövőbeli épületre vonatkozó vevői joggal összefüggő tulajdonjog-bejegyzési ügyben állították ki
+
+az (1) és (2) bekezdést kell alkalmazni azzal, hogy azok a 2026. december 31-ig megindított ingatlan-nyilvántartási eljárásban használhatók fel.
+
+3/K. § Ha közjegyző olyan jogügylet során lát el jogi képviseletet, amelyben biztonsági okmányon készít okiratot, a változás bejegyzésére irányuló beadványát papíralapon nyújtja be az ingatlanügyi hatósághoz.
 
 ### II. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
