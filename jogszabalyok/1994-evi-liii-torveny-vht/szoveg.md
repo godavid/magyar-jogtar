@@ -441,7 +441,7 @@ KÖZÖS SZABÁLYAI
 
 (3) Az állam által előlegezett végrehajtási költséget behajthatatlanság esetén az állam viseli.
 
-(4) A felek az általuk előlegezett költség összegét kötelesek a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni.
+(4) A felek az általuk előlegezett költség összegét – e törvény eltérő rendelkezése hiányában – kötelesek a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni.
 
 (5) Ha az adós a végrehajtási eljárás során a végrehajtást kérőnek fizette meg részben vagy egészben a követelés összegét, a végrehajtást kérő köteles a végrehajtási költségek – megtérült összeghez igazodó, arányos – kielégítéséről is gondoskodni. Ennek keretében a meg nem fizetett illetéket és az állam által előlegezett költséget, valamint a tanú díja fejében járó költségátalányt köteles befizetni a megfelelő számlára, a végrehajtás foganatosításáért az önálló bírósági végrehajtót megillető összeget pedig köteles a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni. Ennek elmulasztása esetén ezen összeg megfizetéséért az adós és a végrehajtást kérő egyetemlegesen felel.
 
@@ -1865,7 +1865,7 @@ ismételten benyújtja.
 
 ### Az ingatlan lefoglalása
 
-138. § (1) Ha a végrehajtható okirat tartalmazza az ingatlan adatait, a végrehajtó a végrehajtási költség megelőlegezését – ideértve az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a megfizetését – követő 3 munkanapon belül lefoglalja az ingatlant. Ha a végrehajtást kérő a végrehajtási kérelemben úgy rendelkezett, hogy az adós ingatlanát is vonják végrehajtás alá, vagy az adós ingatlanának végrehajtás alá vonását nem zárta ki, de a végrehajtási kérelemben az ingatlan adatait nem jelölte meg, a végrehajtó a végrehajtási költség előlegezését és az ingatlan adatainak beszerzését, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a megfizetését követő 3 munkanapon belül intézkedik az ingatlan lefoglalása iránt.
+138. § (1) Ha a végrehajtható okirat tartalmazza az ingatlan adatait, a végrehajtó a végrehajtási költség megelőlegezését – valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a végrehajtói letéti számlára történő megfizetését – követő 3 munkanapon belül lefoglalja az ingatlant. Ha a végrehajtást kérő a végrehajtási kérelemben úgy rendelkezett, hogy az adós ingatlanát is vonják végrehajtás alá, vagy az adós ingatlanának végrehajtás alá vonását nem zárta ki, de a végrehajtási kérelemben az ingatlan adatait nem jelölte meg, a végrehajtó a végrehajtási költség előlegezését és az ingatlan adatainak beszerzését, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a végrehajtói letéti számlára történő megfizetését követő 3 munkanapon belül intézkedik az ingatlan lefoglalása iránt.
 
 (1a) Ha az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megfizetését a végrehajtást kérő a végrehajtási eljárásban igazolta, az igazgatási szolgáltatási díjat a végrehajtási eljárásban végrehajtási költségként kell behajtani.
 
@@ -1873,13 +1873,13 @@ ismételten benyújtja.
 
 (3) Az ingatlanügyi hatóság a végrehajtási jog bejegyzését – ideértve a megelőző beadványokat is – a végrehajtási költségként megelőlegezett igazgatási szolgáltatási díj megfizetését követően soron kívül intézi el.
 
-(4) Az ingatlanügyi hatóság a végrehajtási jog bejegyzéséről szóló határozatát a végrehajtónak, a feleknek és azoknak kézbesíti, akiknek – az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § e)–f) pontjában meghatározott jogok kivételével – az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van, egyúttal megadja a végrehajtónak a (2) bekezdés szerinti tájékoztatást.
+(4) Az ingatlanügyi hatóság a végrehajtási jog bejegyzéséről szóló határozatát a végrehajtónak, a feleknek és azoknak kézbesíti, akiknek – a telki szolgalmi és közérdekű használati jogok kivételével – az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van, egyúttal megadja a végrehajtónak a (2) bekezdés szerinti tájékoztatást.
 
 (5) Halasztó hatályú igényper indításának a végrehajtási jog bejegyzéséről szóló elsőfokú ingatlan-nyilvántartási határozat alapján van helye.
 
 (6) A lefoglalt ingatlanra vonatkozólag jogot csak azzal a feltétellel lehet szerezni, hogy az a végrehajtást kérő végrehajtási jogát nem sérti, és a végrehajtás célját nem hiúsítja meg.
 
-138/A. § (1) A végrehajtási eljárás során kezdeményezett azon ingatlan-nyilvántartási eljárásokat, amelyek valamely jog bejegyzésére vagy törlésére irányulnak, a végrehajtó akkor is kezdeményezi az ingatlanügyi hatóság előtt, ha a jogszerzésre jogosult ezen eljárások költségét nem fizeti meg.
+138/A. § (1) A gyermektartásdíj végrehajtására irányuló ügyekben és azokban az ügyekben, amelyekben a költségek állam általi előlegezésének van helye, a végrehajtási eljárás során kezdeményezett azon ingatlan-nyilvántartási eljárásokat, amelyek valamely jog bejegyzésére vagy törlésére irányulnak, a végrehajtó akkor is kezdeményezi az ingatlanügyi hatóság előtt, ha a jogszerzésre jogosult ezen eljárások költségét a végrehajtó részére nem fizeti meg.
 
 (2) Az (1) bekezdés szerinti esetben az ingatlanügyi hatóság a beadvány széljegyzését követően a jogszerzésre jogosultat hiánypótlás keretében az eljárás igazgatási szolgáltatási díjának megfizetésére szólítja fel. A díj meg nem fizetése esetén az ingatlanügyi hatóság az érintett ingatlanok vonatkozásában az eljárást megszünteti.
 
