@@ -101,34 +101,11 @@ a kincstár folyósítja a párt részére.
 
 (3) Nem bocsátható a 2/A. § szerinti támogatás olyan párt rendelkezésére, amely a (2) bekezdés alapján nem jogosult támogatásra.
 
-6/B. § A 7. § (1) bekezdésében meghatározott összegbe nem számít bele az állami vagyonról szóló 2007. évi CVI. törvény 1. § (2) bekezdés f) pontja szerinti állami vagyon.
+#### 6/B. §
 
-#### 2. A választási kampány költségeinek korlátozása
+#### 2.
 
-7. § (1) A választási kampányidőszak alatt, a választási kampánytevékenységgel összefüggő kiadások finanszírozására
-
-- a) a független jelölt,
-- b) a jelöltet vagy pártlistát állító párt és annak jelöltje együttesen jelöltenként,
-- c) az országgyűlési képviselők általános választásán nemzetiségi listát állító országos nemzetiségi önkormányzat jelöltenként
-
-legfeljebb ötmillió forintot fordíthat.
-
-(2) Az (1) bekezdés szerinti összeget az országgyűlési képviselők e törvény hatálybalépését követő általános választását követő évtől kezdődően a Központi Statisztikai Hivatal által a tárgyévet megelőző évre megállapított fogyasztói árindexszel évente növelni kell.
-
-(3) A választási kampánytevékenységre összesen fordított összegbe be kell számítani az 1. §, a 3. § és a 4. § szerinti támogatás felhasználását is.
-
-(4) Egy párt által a választási kampánytevékenységre összesen fordítható összeg meghatározásakor
-
-- a) az egyéni választókerületi jelöltjei számát, valamint
-- b) az országos listán indított jelöltjei számát, de legfeljebb az országos listán megszerezhető mandátumok számát
-
-kell alapul venni.
-
-(5) Egy párt által a választási kampánytevékenységre összesen fordítható összeg meghatározásakor az egyéni választókerületben és az országos listán is jelölt személyt a jelölések számának megfelelően kell figyelembe venni. A közös jelölteket vagy közös pártlistát állító pártokat e § vonatkozásában egy pártnak kell tekinteni.
-
-(6) Az országgyűlési képviselők általános választásán nemzetiségi listát állító országos nemzetiségi önkormányzat által a választási kampánytevékenységre összesen fordítható összeg meghatározásakor az országos listán indított jelöltjei számát, de legfeljebb az országos listán megszerezhető mandátumok számát kell alapul venni.
-
-(7) Ha a jelöltet vagy pártlistát állító párt vagy az országgyűlési képviselők általános választásán nemzetiségi listát állító országos nemzetiségi önkormányzat által az (1) bekezdés szerinti, a választási kampánytevékenységre összesen fordítható összeg kevesebb, mint a 3. § vagy a 4. § szerinti támogatás, akkor az (1) bekezdés szerinti, a választási kampánytevékenységre összesen fordítható összeg megegyezik a 3. § vagy a 4. § szerinti támogatás összegével.
+#### 7. §
 
 #### 3. A választási kampány költségeinek elszámolása és ellenőrzése
 
@@ -221,11 +198,11 @@ akkor az őt jelölő párt köteles a 2/A. § szerint folyósított 1. § szeri
 
 (3) A (2) bekezdés szerinti ellenőrzés iránti kérelmet az országgyűlési képviselők választását követő 3 hónapon belül lehet benyújtani. A kérelemhez bizonyítási indítványt kell csatolni.
 
-(4) A 7. §-ban foglalt rendelkezéseket megsértő jelölt, illetve jelölő szervezet köteles a 7. §-ban meghatározott, a választásra összesen fordítható összeg felett felhasznált összeg kétszeresét az Állami Számvevőszék felhívására 15 napon belül a központi költségvetés részére befizetni.
+(4)
 
-(5) Ha a jelölt, illetve jelölő szervezet a (4) bekezdésben foglalt kötelezettségét határidőben nem teljesíti, az Állami Számvevőszék ellenőrzési megállapításait közli a kincstárral. A kincstár a (4) bekezdésben meghatározott befizetési kötelezettségről határozatot hoz, amellyel szemben fellebbezésnek nincs helye. A befizetési kötelezettség az azt követő tizenötödik napon válik esedékessé, amikor a kincstár határozatát a bíróság helybenhagyta vagy a keresetindításra nyitva álló határidő eredménytelenül telt el.
+(5)
 
-(6) Ha a jelölt, illetve jelölő szervezet az (5) bekezdésben foglalt kötelezettségét határidőben nem teljesíti, a kincstár a Nemzeti Adó- és Vámhivatalnál kezdeményezi a tartozás adók módjára történő behajtását. A Nemzeti Adó- és Vámhivatal a kincstár kezdeményezésére intézkedik a tartozás adók módjára történő behajtásáról.
+(6)
 
 #### 4. Záró rendelkezések
 
@@ -250,7 +227,9 @@ akkor az őt jelölő párt köteles a 2/A. § szerint folyósított 1. § szeri
 
 sarkalatosnak minősül.
 
-#### 13–14. §
+#### 13. §
+
+#### 14. §
 
 #### 15. §
 
