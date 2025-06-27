@@ -8,7 +8,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 1. § Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed
 
-- a) a Magyarország területén székhellyel rendelkező, e törvény szerinti kollektív befektetési forma és befektetési alapkezelő létrehozatalára, működésére és felügyeletére, kivéve a 2. § (2) bekezdése szerinti kockázati tőkealap-kezelő (és az általa kezelt kockázati tőkealap és magántőkealap) felügyeletét, valamint az olyan egy vagy több, de kizárólag zártkörű ABA-t kezelő ABAK-ok (és az általuk kezelt zártkörű ABA-k) felügyeletét, amelyeknek ugyanezen ABAK-ok vagy azok anyavállalatai vagy leányvállalatai, vagy ezen anyavállalatok egyéb leányvállalatai az egyedüli befektetői, feltéve, hogy e befektetők maguk nem ABA-k,
+- a) a Magyarország területén székhellyel rendelkező, e törvény szerinti kollektív befektetési forma és befektetési alapkezelő létrehozatalára, működésére és felügyeletére, kivéve a 2. § (2) bekezdése szerinti kockázati tőkealap-kezelő (és az általa kezelt kockázati tőkealap és magántőkealap) felügyeletét – ide nem értve az alapkezelőben történő minősített befolyás megszerzésére vagy növelésére vonatkozó engedélyt, valamint a kockázati tőkealapra, illetve a magántőkealapra vonatkozó, e törvényben kivételként meghatározott szabályokat –, valamint az olyan egy vagy több, de kizárólag zártkörű ABA-t kezelő ABAK-ok (és az általuk kezelt zártkörű ABA-k) felügyeletét – ide nem értve az ABAK-ban történő tulajdonosváltásra vonatkozó engedélyt –, amelyeknek ugyanezen ABAK-ok vagy azok anyavállalatai vagy leányvállalatai, vagy ezen anyavállalatok egyéb leányvállalatai az egyedüli befektetői, feltéve, hogy e befektetők maguk nem ABA-k,
 - b) a Magyarország területén végzett befektetési alapkezelési tevékenységre,
 - c) a Magyarország területén székhellyel rendelkező ÁÉKBV-alapkezelő EGT-államban létrehozott fióktelepe által végzett befektetési alapkezelési tevékenységére, valamint határon átnyúló szolgáltatás nyújtására,
 - d) a Magyarország területén székhellyel rendelkező ABAK EGT-államban létrehozott fióktelepe által végzett befektetési alapkezelési tevékenységére, valamint határon átnyúló szolgáltatás nyújtására,
@@ -345,9 +345,11 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 - a) az ABAK tőkeáttétel alkalmazásával kapcsolatos politikájáról, valamint az ABA-k kockázati profiljáról és egyéb lényeges jellemzőiről, beleértve az azon EGT-államra vagy harmadik országra vonatkozó tájékoztatást, amelyben ezen ABA-k letelepedtek vagy letelepedni szándékoznak;
 - b) a cél-ABA letelepedésére vonatkozó információkról, ha az ABA gyűjtő-ABA;
-- c) ABA-k kezelési szabályzatáról;
+- c) ABA-k kezelési szabályzatáról, figyelemmel a (3a) bekezdésre;
 - d) a letétkezelő kijelöléséről;
 - e) a befektetők tájékoztatására szolgáló azon információkról, amelyeket az a)–d) pontok nem tartalmaznak.
+
+(3a) A Felügyelet jóváhagyása szükséges a (3) bekezdés c) pontja szerinti kezelési szabályzat zárt körű befektetési alap alapkezelője minősített befolyással rendelkező tulajdonosának megváltozására vonatkozó rendelkezéseihez. A Felügyelet jóváhagyás megadására irányuló eljárása alatt a kezelési szabályzat nem alkalmazható.
 
 (4) Az engedély iránti kérelem teljesnek tekinthető, ha az ABAK legalább az (1) bekezdés a)–d) pontjában, valamint a (2) bekezdésben említett információkat benyújtotta.
 
@@ -1273,6 +1275,8 @@ tekintetében.
 
 (10) A kockázati tőkealapok és a magántőkealapok kivételével a befektetési alapok befektetési jegyei szakmai és lakossági befektetőknek egyaránt forgalmazhatóak.
 
+(11) A kockázati tőkealapok és a magántőkealapok befektetési alapkezelőjének a minősített befolyást elérő tulajdonosában bekövetkező változáshoz a Felügyelet engedélye szükséges.
+
 68. § (1) A nyilvános befektetési alap legkisebb induló saját tőkéje – az (1a) bekezdésben foglalt kivétellel – kétszázmillió forint.
 
 (1a) Az ingatlanalap és vegyes alap legkisebb induló saját tőkéje egymilliárd forint.
@@ -1298,7 +1302,7 @@ tekintetében.
 (2) Zártkörű befektetési alap nyilvántartásba történő bejegyzésének feltétele, hogy a befektetési alapkezelő a Felügyeletnek benyújtsa
 
 - a) a letétkezelő megbízására vonatkozó szerződést;
-- b) a befektetési alap kezelési szabályzatát;
+- b) a befektetési alap kezelési szabályzatát, figyelemmel a 11. § (3a) bekezdése szerinti engedélyre;
 - c) az induló saját tőke lejegyzésének és az induló saját tőke befizetésének, illetve teljesítésének igazolását;
 - d) ingatlanalap és vegyes alap esetében a könyvvizsgáló megbízására irányuló szerződést.
 
@@ -1377,7 +1381,7 @@ tekintetében.
 
 (2) A befektetők jóváhagyását előíró esetekben a kezelési szabályzatnak tartalmaznia kell a kezelési szabályzat módosításához való hozzájárulás beszerzésének módját, határidejét.
 
-(3) A kezelési szabályzat módosítása esetén a módosított kezelési szabályzatot a befektetési alapkezelő a módosítás hatálybalépését követő 5 napon belül tájékoztatásul köteles a Felügyeletnek megküldeni.
+(3) A kezelési szabályzat módosítása esetén a módosított kezelési szabályzatot a befektetési alapkezelő a módosítás hatálybalépését követő 5 napon belül tájékoztatásul köteles a Felügyeletnek megküldeni, figyelemmel a 11. § (3a) bekezdése szerinti engedélyre.
 
 (4) A (3) bekezdéstől eltérően a kockázati és a magántőkealap futamidejének meghosszabbítását tartalmazó kezelési szabályzat módosítást a kockázati, illetve magántőkealap eredeti futamideje letelte előtt legalább hat hónappal be kell jelenteni a Felügyeletnek.
 
@@ -1493,7 +1497,7 @@ természetben is fel lehet osztani.
 
 (5) A beolvadó és az átvevő alapok befektetési jegy tulajdonosainak az egyesüléssel kapcsolatos tájékoztatása módjára e törvény általános, illetve az adott alap kezelési szabályzatának befektetők tájékoztatására vonatkozó rendelkezései alkalmazandók.
 
-(6) Zártkörű alap beolvadása esetében nem szükséges a Felügyelet előzetes engedélye, amennyiben az alap kezelési szabályzata az alapkezelőt feljogosítja e döntés meghozatalára, vagy e döntést a befektetési jegy tulajdonosok adott arányú többségi határozatához köti. Zártkörű alap kezelési szabályzata korlátozhatja a befektetési jegy tulajdonosok 95. § (1) bekezdése szerinti jogait.
+(6)
 
 (7) Nem kell a 86. § (2) bekezdés, a 90. § (1) bekezdés, a 95. § (1) bekezdés, a 99. § (4) bekezdés előírásait alkalmazni abban az esetben, ha egy (1) bekezdés szerinti befektetési alap az egyesülés során ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alapnak az egyesülés során újonnan létrehozott részalapjává alakul, feltéve, hogy
 
@@ -2462,7 +2466,7 @@ kapja meg; valamint
 
 #### 65. A Felügyelet eljárása
 
-163. § (1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap.
+163. § (1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap. Zártkörű befektetési alap esetén a Felügyelet 11. § (3a) bekezdése szerinti eljárásának az időtartama 5 munkanap.
 
 (2) Befektetési alap nyilvántartásba vételére irányuló eljárás esetén a Felügyelet eljárásának időtartama 10 munkanap, befektetési alap nyilvántartásból törlésére irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap.
 
@@ -3138,6 +3142,10 @@ van összefüggésben.
 
 (2) A 200/A. § (2) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződéssel rendelkező ügyfelét legkésőbb harminc nappal a Hpt. 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általa működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesz közzé. A Hpt. 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.
 
+203/B. § (1) E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv.) megállapított 11. § (3a) bekezdése hatálybalépésekor már működő zártkörű befektetési alapok e rendelkezés hatálybalépését követő 10 munkanapon belül benyújtják a kezelési szabályzatukat, annak érdekében, hogy a kezelési szabályzat 11. § (3a) bekezdése szerint meghatározott részére a Felügyelet engedélyét megszerezzék.
+
+(2) Zártkörű alapok esetében a befektetési alapkezelő tulajdonosában változás a Módtv.-nyel megállapított 11. § (3a) bekezdésének hatálybalépését követően csak a Felügyelet engedélyével történhet.
+
 204. § (1) A 242. §, a 243. § és a 255. § az Alaptörvény 41. cikk (5) és (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 282. § az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
@@ -3784,7 +3792,7 @@ Kezelési szabályzat
 #### XVI. A közreműködő szervezetekre vonatkozó részletes információk, a befektetők jogai
 
 - 66. A befektetési alapkezelőre vonatkozó információk
-- 66.1. A befektetési alapkezelő neve, cégformája
+- 66.1. A befektetési alapkezelő neve, cégformája és a minősített befolyással rendelkező tulajdonosai
 - 66.2. A befektetési alapkezelő székhelye
 - 66.3. A befektetési alapkezelő cégjegyzékszáma
 - 66.4. A befektetési alapkezelő alapításának dátuma, határozott időtartamra alapított társaság esetén az időtartam feltüntetése

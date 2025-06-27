@@ -64,16 +64,7 @@ Magyarország versenyképességének javítása érdekében egyes törvények m�
 
 #### 5. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-10. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény
-
-- a) 34. § (4) bekezdésében az „összegét kötelesek” szövegrész helyébe az „összegét – e törvény eltérő rendelkezése hiányában – kötelesek” szöveg,
-- b) 138. § (1) bekezdésében az „ideértve” szövegrész helyébe a „valamint” szöveg,
-- c) 138. § (1) bekezdésében a „díjának a megfizetését” szövegrészek helyébe a „díjának a végrehajtói letéti számlára történő megfizetését” szöveg,
-- d) 138. § (4) bekezdésében a „az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § e)–f) pontjában meghatározott” szövegrész helyébe az „a telki szolgalmi és közérdekű használati” szöveg,
-- e) 138/A. § (1) bekezdésében az „A végrehajtási” szövegrész helyébe az „A gyermektartásdíj végrehajtására irányuló ügyekben és azokban az ügyekben, amelyekben a költségek állam általi előlegezésének van helye, a végrehajtási” szöveg,
-- f) 138/A. § (1) bekezdésében a „költségét nem” szövegrész helyébe a „költségét a végrehajtó részére nem” szöveg
-
-lép.
+#### 10. §
 
 #### 6.
 
@@ -99,19 +90,11 @@ lép.
 
 #### 18. §
 
-19. § Az Eüak. 19. §-a a következő (3)–(5) bekezdéssel egészül ki:
-
-„(3) Az egészségügyi ellátóhálózat szereplője, az EESZT működtetője, valamint az egészségbiztosítási szerv – a miniszter Eütv. 150. § (1) bekezdés c), d) és f) pontjában meghatározott feladatai ellátása érdekében, az adatvezérelt egészségpolitikai döntéshozatal, a betegbiztonság és prevenció fejlesztése, valamint a betegutak optimalizálása és a terápiás eredmények javítása érdekében – a miniszter által meghatározott, az ellátóhálózat, az EESZT működtetője, valamint az egészségbiztosítási szerv által kezelt egészségügyi adatokat a miniszter által meghatározott paraméterek szerint anonimizálja és a miniszter részére átadja.
-
-(4) Ha a (3) bekezdés szerinti esetben a miniszter által meghatározott paraméterek okán az adatok anonimizálása nem megoldható, az adatokat álnevesítve kell átadni azzal, hogy az álnevesített adatok tekintetében a helyreállítási kulcshoz a miniszter számára hozzáférés nem adható.
-
-(5) A (3) bekezdés szerinti adatok anonimizálásának – a (4) bekezdés szerinti esetben álnevesítésének – és átadásának költségei viselésének tekintetében az adatkezelő és a miniszter megállapodást köt.”
+#### 19. §
 
 #### 20. §
 
-21. § Az Eüak. 35/B. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az EESZT szolgáltatásai az (1) és (2) bekezdés alapján csatlakozott adatkezelő (a továbbiakban: csatlakozott adatkezelő) informatikai rendszerén keresztül vehetők igénybe. A működtető közvetlen hozzáférési felületet biztosíthat, amelyen az EESZT egyes szolgáltatásai elérhetőek.”
+#### 21. §
 
 #### 22. §
 
@@ -127,9 +110,9 @@ lép.
 
 - a)
 - b)
-- c) 35/A. § (2a) bekezdésében az „a 35/F. § (1) bekezdésében foglalt” szövegrész helyébe az „az EESZT-ben tárolt” szöveg,
-- d) 35/O. § (1) bekezdésében, (2) bekezdés a) pontjában, (3) bekezdés c) pontjában az „igénylő orvos” szövegrész helyébe az „igénylő” szöveg,
-- e) 35/O. § (4) bekezdésében az „igénylő orvost” szövegrész helyébe az „igénylőt” szöveg
+- c)
+- d)
+- e)
 
 lép.
 
@@ -258,9 +241,7 @@ lép.
 
 #### 22. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-69. § A termőföld védelméről szóló 2007. évi CXXIX. törvény 9. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) E törvény alkalmazásában nem tekinthető más célú hasznosításnak zártkerti ingatlannak az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 40/E. alcíme szerinti eljárásban történő művelés alóli kivonása.”
+#### 69. §
 
 #### 23. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
@@ -320,49 +301,23 @@ lép.
 
 #### 26. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-91. § A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 1. §-a a következő 17. ponttal egészül ki:
+#### 91. §
 
-„17. hivatali példány: a földmérési alaptérképek, valamit topográfiai térképek esetén az eredeti vagy archív pecséttel ellátott, analóg nyilvántartási példányai.”
+#### 92. §
 
-92. § Az Fttv. 5. § (8) bekezdés b) pontja helyébe a következő rendelkezés lép:
+#### 93. §
 
-(Állami alapadatot)
+#### 94. §
 
-„b) ingatlan-nyilvántartási, valamint egyéb célú földmérési és térképészeti tevékenységhez szükséges teljes körű adatszolgáltatás tekintetében az ingatlanügyi hatóságként eljáró területileg illetékes kormányhivatal,”
+#### 95. §
 
-(szolgáltat.)
+#### 96. §
 
-93. § Az Fttv. 6. §-a a következő (6a) bekezdéssel egészül ki:
+#### 97. §
 
-„(6a) A földmérési és térinformatikai államigazgatási szerv kérelem alapján a 3. § (1) bekezdés c)–e) és i) pontja szerinti adatbázisokból a nem hivatali példányokat oktatási, kutatási vagy hatósági célra, valamint közfeladat ellátásához díjmentesen átadhatja.”
+#### 98. §
 
-94. § Az Fttv. 6/C. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Nem minősül állami alapadat jogosulatlan felhasználásának az állami ingatlan-nyilvántartási térképi adatbázisból az egyéb célú földmérési és térképészeti tevékenységgel összefüggő szakmagyakorlás részletes szabályairól szóló kormányrendeletben meghatározott földmérési tevékenységhez szolgáltatott adatoknak és ezen adatokból készített dokumentációnak a továbbadása az egyéb célú földmérési tevékenység céljával összefüggő tervezéshez, valamint további dokumentációkészítéshez. Az átadott dokumentáció személyes adatot nem tartalmazhat.”
-
-95. § Az Fttv. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül az (1) bekezdésben foglaltakon túl a földrészlethatárok kitűzésével, az ingatlan-nyilvántartási bejegyzéshez szükséges alaprajzzal, az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érintő igazságügyi földmérő és térképész szakértői tevékenységgel és a földrészleten belüli használati megosztással kapcsolatos földmérési tevékenység.”
-
-96. § Az Fttv. 25. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A honvédelmi térképészeti hatósági feladatokért felelős szerv országos hatáskörében eljárva dönt a 10. § (3) bekezdés i) pontjában meghatározott katonai tájékozási hálózathoz tartozó alapponthálózati pontok áthelyezéséről és megszüntetéséről, valamint az elpusztult alapponthálózati pontok pótlásáról, vagy az adatbázisból való törléséről.”
-
-97. § Az Fttv. 29/A. § helyébe a következő rendelkezés lép:
-
-„29/A. § Az ingatlanügyi hatóság a földmérő vállalkozó vagy vállalkozás részére, az e törvényben meghatározott ingatlan-nyilvántartási vagy egyéb célú földmérési és térképészeti feladatok ellátásához az ingatlan-nyilvántartás tartalmából jogosulti adatokkal kiegészített földkönyvet szolgáltat. A földmérő vállalkozó vagy vállalkozás ezen feladatai ellátása céljából, a 31. § (4) bekezdésében meghatározott megőrzési kötelezettség idejének leteltéig kezeli a tulajdoni lapon szereplő jogosultak adatai közül a természetes személy nevét és születési nevét, születési helyét és időpontját, anyja születési nevét, valamint lakcímét.”
-
-98. § Az Fttv.
-
-- a) 5. § (8) bekezdés c) pontjában az „állami alapadatok” szövegrész helyébe az „adatigénylés” szöveg,
-- b) 6. § (2a) bekezdésében az „Az e §-ban foglalt” szövegrész helyébe az „A” szöveg,
-- c) 6. § (6) bekezdésében a „Szakirányú” szövegrész helyébe az „A (6a) bekezdésben foglaltak kivételével szakirányú” szöveg,
-- d) 26. § (4) bekezdésében a „10. § (3) bekezdés a)–f) és h) pontjában” szövegrész helyébe a „10. § (3) bekezdésében” szöveg,
-- e) 26. § (5) bekezdésében az „a 10. §” szövegrész helyébe az „a (2) bekezdés c) pontja szerinti katonai tájékozási hálózati pontok vonatkozásában a honvédelem térképészeti támogatásáért felelős szerv, a 10. §” szöveg
-
-lép.
-
-99. § Hatályát veszti az Fttv. 3. § (3) bekezdése.
+#### 99. §
 
 #### 27. A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény módosítása
 
@@ -671,234 +626,45 @@ lép.
 
 #### 50. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
 
-205. § (1) Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény (a továbbiakban: Inytv.) 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 205. §
 
-„(2) Az ingatlanügyi hatóság
-
-- a) a végrehajtási jog,
-- b) a jelzálogjog, önálló zálogjog, átalakításos önálló zálogjog és alzálogjog, valamint
-- c) a jelzálogjog, önálló zálogjog, átalakításos önálló zálogjog és alzálogjog biztosítására szolgáló elidegenítési és terhelési tilalom
-
-törlésére irányuló eljárást a széljegyek rangsorára tekintet nélkül folytatja le.”
-
-(2) Az Inytv. 23. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(4) Az ingatlanügyi hatóság
-
-- a) a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárás megindítása tényét,
-- b) a telekalakítási eljárás megindításának tényét, valamint
-- c) a kisajátítási eljárás megindításának tényét és a kisajátítási eljárás megindításának ténye bejegyezésével egyidejűleg a kisajátítási hatóság által bejegyezni kezdeményezett elidegenítési tilalmat
-
-a széljegyzett beadványok rangsorára tekintet nélkül jegyzi be az ingatlan-nyilvántartásba.
-
-(5) Az ingatlanügyi hatóság
-
-- a) a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárás megindításának tényét,
-- b) a telekalakítási eljárás megindításának tényét, valamint
-- c) a kisajátítási eljárás megindításának tényét és a kisajátítási eljárás megindításának tényével egyidejűleg a kisajátítási hatóság hatósági felhívása alapján bejegyzett elidegenítési tilalmat
-
-a széljegyzett beadványok rangsorára tekintet nélkül törli az ingatlan-nyilvántartásból.”
-
-(3) Az Inytv. 23. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Társasház előzetes alapítása tényének bejegyzése esetén a társasház-alapítási kérelmet a társasház előzetes alapítása tényének bejegyzését követően bejegyzett tulajdonjog-fenntartáshoz kapcsolódó vevői jogokon vagy jövőbeli épületre vonatkozó vevői jogokon (e § alkalmazásában a továbbiakban együtt: vevői jog) alapuló tulajdonjog-bejegyzési kérelmeket, valamint a vevői jog jogosultjával – mint kötelezettel – szemben bejegyzendő jogokkal és tényekkel kapcsolatos beadványokat megelőzően kell elbírálni.”
-
-206. § Az Inytv. 34. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Tulajdonjog bejegyzésének a (2) bekezdés szerinti törléséhez és az eredeti ingatlan-nyilvántartási állapot visszaállításához jogerős bírósági vagy hatósági határozat, illetve végleges közigazgatási hatósági határozat szükséges.
-
-(2) Bejegyzett tulajdonjognak a törlésére és az eredeti ingatlan-nyilvántartási állapot visszaállítására
-
-- a) a Ptk. szerinti törlési per esetén a jogügylet érvénytelenségét vagy a bejegyzés utólagos helytelenné válását megállapító jogerős bírósági határozat és a törlésre irányuló elrendelés alapján,
-- b) tulajdonjog-bejegyzés alapjául szolgáló bírósági határozat hatályon kívül helyezéséről vagy megváltoztatásáról szóló bírósági határozat, valamint a törlésre irányuló bírósági elrendelés alapján, vagy
-- c) a tulajdonjog-bejegyzés alapjául szolgáló hatósági határozatnak saját hatáskörben, illetve ügyészi felhívás nyomán történő visszavonása, vagy bíróság, illetve felügyeleti szerv általi megsemmisítése vagy hatályon kívül helyezése, valamint a törlésre irányuló bírósági elrendelés vagy hatósági felhívás alapján
-
-kerülhet sor.
-
-(3) Az eredeti ingatlan-nyilvántartási állapot visszaállítása a (2) bekezdés b) és c) pontja szerinti esetben csak akkor lehetséges, ha az ingatlanügyi hatóság részére – az eredeti ingatlan-nyilvántartási állapot visszaállítása érdekében – a bírósági elrendelést kiadó bíróság a bírósági elrendeléssel, illetve a hatósági felhívást kiadó hatóság a hatósági felhívással egyidejűleg igazolja, hogy azokat a személyeket, akik az eredeti állapot visszaállításával érintettek, ügyfélként az eredeti állapot visszaállítása alapjául szolgáló eljárásba bevonták.”
+#### 206. §
 
 #### 207. §
 
-208. § Az Inytv. 41. §-a a következő (4) bekezdéssel egészül ki:
+#### 208. §
 
-„(4) Ha bejegyzési engedély alapján alzálogjog bejegyzését kérik, a zálogszerződést az alzálogjog-bejegyzési kérelemhez csatolni nem kell.”
+#### 209. §
 
-209. § Az Inytv. 48. §-a a következő (9) bekezdéssel egészül ki:
+#### 210. §
 
-„(9) Az ingatlanügyi hatóság az 59. § (3) bekezdése szerinti intézkedésével egyidejűleg az ingatlan-nyilvántartási eljárást a hatósági felhívást kiadó hatóság válaszáig, de legfeljebb az ingatlanügyi hatóság tájékoztató levelének a hatósági felhívást kiadó hatóság általi átvételétől számított hatvanadik napig felfüggeszti.”
+#### 211. §
 
-210. § Az Inytv. 29. alcíme a következő 60. §-sal egészül ki:
+#### 212. §
 
-„60. § Közérdekű használati jog változásának bejegyzése iránti hatósági felhívás alapján indult eljárásban, ha a díjfizetésre kötelezett személy – a díjfizetésre történő hiánypótlási felhívásban foglaltak nem teljesítésével – az igazgatási szolgáltatási díj megfizetését vagy a díj megfizetésének igazolását elmulasztja, az ingatlanügyi hatóság az ingatlan-nyilvántartási eljárást megszünteti.”
+#### 213. §
 
-211. § Az Inytv. XI. Fejezete a következő 40/E. alcímmel egészül ki:
+#### 214. §
 
-#### „40/E. Zártkerti ingatlan művelés alóli kivonása
+#### 215. §
 
-72/E. § (1) Ha az önkormányzat rendeletben lehetővé teszi, a tulajdonos – e törvény és az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – kérheti az ingatlan-nyilvántartásban zártkertként nyilvántartott ingatlana (a továbbiakban: zártkerti ingatlan) művelési ágának művelés alól kivett területként történő bejegyzését.
+#### 216. §
 
-(2) A zártkerti ingatlan művelési ágának művelés alól kivett területként történő bejegyzése a zártkerti ingatlan meghatározott részére is kérhető. Ez esetben a zártkerti ingatlant meg kell osztani.”
+#### 217. §
 
-212. § Az Inytv. 73. § (5) bekezdés j) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő k) ponttal egészül ki:
+#### 218. §
 
-[A (4) bekezdés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról]
+#### 219. §
 
-„j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásában a jogosultságvizsgálat elvégzéséhez, vagy
-
-k) törvényben meghatározott egyéb szerv vagy személy az ott meghatározott célból”
-
-[kéri.]
-
-213. § Az Inytv. 78. §-a helyébe a következő rendelkezés lép:
-
-„78. § (1) Természetes személy kérelmére a saját és olyan ingatlan tulajdonilap-másolatába, amelyen jogosultként szerepel, a fővárosi és vármegyei kormányhivatal saját számítástechnikai eszközével betekintést biztosít.
-
-(2) Társasházi közös képviselő vagy az intézőbizottság elnöke részére, azon társasházingatlanhoz tartozó tulajdonilap-másolatokba, amelynél a közösség képviseletét a társasházakról szóló törvény alapján elláthatja, e feladatai ellátásával összefüggő célból, a fővárosi és vármegyei kormányhivatal saját számítástechnikai eszközével betekintést biztosít.”
-
-214. § Az Inytv. 83. § a következő (4) bekezdéssel egészül ki:
-
-„(4) Természetes személy a Digitális Állampolgárság Mobilalkalmazáson keresztül a tulajdonában álló ingatlanokról helyrajzi számot és az ingatlan címadatait tartalmazó tulajdonosi földkönyvet igényelhet. Ha a lekérdezés nem hoz találatot, a (3) bekezdést nem kell alkalmazni.”
-
-215. § Az Inytv. 86. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(Az elektronikus tulajdonilap-másolat és földkönyv szolgáltatását a földmérési és térinformatikai államigazgatási szerv)
-
-„d) az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben ingatlan-nyilvántartási eljárás megindítására eljárási jogosultsággal rendelkező személy részére”
-
-(biztosítja.)
-
-216. § (1) Az Inytv. 88. § (5) bekezdés 17. pontja a következő o) alponttal egészül ki:
-
-(Tárgyánál fogva díjmentes: az ingatlan jogi jelleg adatbejegyzésre irányuló kérelem, ha az)
-
-  - „o) rizstelep”
-
-(bejegyzésére, módosítására, törlésére irányul;)
-
-(2) Az Inytv. 88. § (5) bekezdése a következő 24. ponttal egészül ki:
-
-(Tárgyánál fogva díjmentes:)
-
-„24. a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének bejegyzésére és törlésére irányuló eljárás.”
-
-217. § (1) Az Inytv. 90. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Az elektronikus szemle és teljes tulajdonilap-másolat lekérdezése során személyes díjmentességet élvez:)
-
-„d) a természetes személy évente két tulajdonilap-másolatra.”
-
-(2) Az Inytv. 90. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A (2) bekezdés d) pontja szerinti mentesség a természetes személyt a tulajdonában álló ingatlan vonatkozásában illeti meg.”
-
-(3) Az Inytv. 90. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Tárgyánál fogva díjmentes a 83. § (4) bekezdése szerinti földkönyvi adatszolgáltatás.”
-
-218. § (1) Az Inytv. 91. §-a a következő (2c) bekezdéssel egészül ki:
-
-„(2c) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a zártkerti ingatlan művelési ágának művelés alól kivett területként történő bejegyzésére vonatkozó részletes szabályait.”
-
-(2) Az Inytv. 91. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő testülete, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy rendeletben meghatározza a település azon részét, ahol a zártkerti ingatlan művelési ágának művelés alól kivett területként történő bejegyzése kérelmezhető.”
-
-219. § Az Inytv.
-
-- 1. 18. § (2) bekezdésében a „bíróság a bírósági elrendelésében ennél” szövegrész helyébe a „bírósági elrendelés, vagy a 34. § (2) bekezdés b) pontja szerinti esetben a bírósági elrendelés vagy hatósági felhívás” szöveg,
-- 2. 33. § (1) bekezdésében a „négyötödét” szövegrész helyébe a „kétharmadát” szöveg,
-- 3. 35. § (1) bekezdés nyitó szövegrészében az „Az” szövegrész helyébe a „Ha e törvény vagy az e törvény felhatalmazása alapján kiadott kormányrendelet másként nem rendelkezik, az” szöveg,
-- 4. 35. § (1) bekezdés a) pontjában a „szereplő természetes” szövegrész helyébe a „szereplő – a bejegyzéssel közvetlenül érintett – természetes” szöveg,
-- 5. 35. § (1) bekezdés b) pontjában a „szereplő jogi” szövegrész helyébe a „szereplő – a bejegyzéssel közvetlenül érintett – jogi” szöveg,
-- 6. 35. § (1) bekezdés h) pontjában a „szereplő természetes személyek” szövegrész helyébe a „szereplő – a bejegyzéssel közvetlenül érintett – természetes személy” szöveg, a „nyilatkozatát.” szövegrész helyébe a „nyilatkozatát, vagy nyilatkozat hiányában – ha rendelkezésre áll – állampolgárságra vonatkozó adatát.” szöveg,
-- 7. 35. § (2) bekezdésében az „A belföldön kiállított magánokirat” szövegrész helyébe a „Magánokirat” szöveg, az „ügyvéd vagy kamarai jogtanácsos” szövegrész helyébe a „magyar területi ügyvédi kamara ügyvéd vagy kamarai jogtanácsos tagja” szöveg,
-- 8. 41. § (3) bekezdésében a „jelzálogjog ingatlan-nyilvántartási” szövegrész helyébe a „jelzálogjog, önálló zálogjog vagy átalakításos önálló zálogjog ingatlan-nyilvántartási” szöveg, a „jelzálogjog-bejegyzési” szövegrész helyébe a „bejegyzési” szöveg,
-- 9. 57/A. § (3) bekezdésében és 57/B. § (2) bekezdésében a „rangsorában” szövegrész helyébe a „ranghelyén” szöveg,
-- 10. 58. § (1) bekezdésében a „határozata alapján” szövegrész helyébe a „határozatával” szöveg,
-- 11. 59. § (1) bekezdésében a „határozata” szövegrész helyébe a „határozatával” szöveg,
-- 12. 64. § (3) bekezdésében az „a tulajdonjog-bejegyzés iránti kérelemhez csatolt” szövegrész helyébe az „az” szöveg,
-- 13. 73. § (2) bekezdésében az „a miniszter” szövegrész helyébe az „az ingatlan-nyilvántartásért felelős miniszter (a továbbiakban: miniszter)” szöveg,
-- 14. 83. § (1) bekezdésében az „adatok felhasználásával” szövegrész helyébe az „adatok vagy a személyi azonosító felhasználásával” szöveg,
-- 15. 83. § (3) bekezdésében a „tényről hatósági” szövegrész helyébe a „tényről az érintett erre irányuló kérelmére hatósági” szöveg,
-- 16. 88. § (2) bekezdés a) pontjában a „Magyar Állam” szövegrész helyébe a „magyar állam” szöveg,
-- 17. 88. § (5) bekezdés 3. pontjában a „Magyar Állam” szövegrész helyébe a „magyar állam” szöveg,
-- 18. 88. § (5) bekezdés 11. pont b) alpontjában a „Magyar Állam” szövegrész helyébe a „magyar állam” szöveg és a „bejegyzésére irányuló” szövegrész helyébe a „bejegyzésére vagy törlésére irányuló” szöveg,
-- 19. 90. § (2) bekezdés a) pontjában a „Magyar Állam” szövegrész helyébe a „magyar állam” szöveg,
-- 20. 90. § (5) bekezdés 11. pontjában a „vásárlásához vagy bővítéséhez” szövegrész helyébe a „vásárlásához, bővítéséhez vagy korszerűsítéséhez” szöveg
-
-lép.
-
-220. § Hatályát veszti az Inytv.
-
-- a) 4. § (3) bekezdése,
-- b) 33. § (2) bekezdése,
-- c) 39. § (5) bekezdésében az „és diplomáciai hitelesítéssel, diplomáciai felülhitelesítéssel vagy Apostille tanúsítvánnyal ellátott” szövegrész,
-- d) 40. § (4) bekezdésében az „és diplomáciai felülhitelesítéssel vagy Apostille tanúsítvánnyal ellátott” szövegrész,
-- e) 73. § (6) bekezdése,
-- f) 88. § (5) bekezdés 23. pontjában az „engedélyköteles vagy bejelentésköteles” szövegrész és az „engedéllyel vagy bejelentést követően” szövegrész.
+#### 220. §
 
 #### 51. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
 
-221. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény (a továbbiakban: Átmeneti tv.) 3/E. §-a helyébe a következő rendelkezés lép:
+#### 221. §
 
-„3/E. § Az Inytv. 64. § (1) bekezdésétől eltérően a föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papíralapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló kormányrendelet szerinti biztonsági okmányon szerkesztett, közokiratba foglalt, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett, föld tulajdonjogának megszerzésére irányuló szerződés bejegyzés alapjául szolgál, és papíralapon, az ingatlan-nyilvántartás vezetését támogató informatikai rendszer ügyintézési felületének használata nélkül a 3/A., 3/B. és 3/D. § hatályvesztését követően is benyújtható ingatlan-nyilvántartási változásbejegyzés céljából, ha a 3/A., 3/B. és 3/D. § hatályvesztésének időpontjában
+#### 222. §
 
-- a) a mezőgazdasági igazgatási szerv eljárása már folyamatban volt, és a szerződés eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék, vagy
-- b) a mezőgazdasági igazgatási szerv jóváhagyásához nem kötött szerződés közzétételére a 3/A., 3/B. és 3/D. § hatályvesztését megelőzően került sor.”
-
-222. § Az Átmeneti törvény I. Fejezete a következő 3/H–3/K. §-sal egészül ki:
-
-„3/H. § (1) Azon időpontot követően, amikortól az Inytv. vagy e törvény rendelkezése alapján jogok változásának bejegyzésére irányuló eljárás már kizárólag csak az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben létrehozott elektronikus űrlappal (a továbbiakban: ingatlan-nyilvántartási elektronikus űrlap) indítható meg, – abban az ügyben, amelyben a tulajdonjog-fenntartáshoz kapcsoló vevői jog vagy a jövőbeli épületre vonatkozó vevői jog bejegyzése iránti kérelem benyújtására még nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül került sor –, a jogi képviselőt a tulajdonjog-bejegyzési eljárásban a képviselet ellátására feljogosító meghatalmazás vagy felhatalmazás akkor is benyújtható, ha azt nem ingatlan-nyilvántartási elektronikus űrlapon hozták létre.
-
-(2) A papíralapon létrejött meghatalmazás vagy felhatalmazás csak abban az esetben használható fel az ingatlan-nyilvántartási eljárásban, ha
-
-- a) az ezen rendelkezés hatálybalépését megelőzően létrejött meghatalmazást vagy felhatalmazást 2025. december 31-ig az azt szerkesztő közjegyző, ügyvéd vagy kamarai jogtanácsos,
-- b) az ezen rendelkezés hatálybalépését követően létrejött
-  - ba) meghatalmazást az aláírásától számított három napon belül az azt szerkesztő ügyvéd vagy kamarai jogtanácsos,
-  - bb) meghatalmazást vagy felhatalmazást – a meghatalmazás vagy felhatalmazás hitelesítéséről rendelkező határozat jogerőre emelkedésétől számított három napon belül – az azt szerkesztő közjegyző
-
-elektronikus okirattá alakítja.
-
-(3) A nem ingatlan-nyilvántartási elektronikus űrlapon létrejött, jogi képviselet ellátását biztosító meghatalmazásra és felhatalmazásra az (1) és (2) bekezdést kell alkalmazni abban az esetben is, ha azt nem tulajdonjog-fenntartáshoz kapcsolódó vevői joggal vagy jövőbeli épületre vonatkozó vevői joggal összefüggő tulajdonjog-bejegyzési ügyben állították ki. Ebben az esetben a nem ingatlan-nyilvántartási elektronikus űrlapon létrejött meghatalmazás vagy felhatalmazás a 2026. december 31-ig megindított ingatlan-nyilvántartási eljárásban használható fel.
-
-3/I. § (1) Azon időpontot követően, amikortól az Inytv. vagy e törvény rendelkezése alapján jogok változásának bejegyzésére irányuló eljárás már kizárólag csak ingatlan-nyilvántartási elektronikus űrlappal indítható meg, – abban az ügyben, amelyben a tulajdonjog-fenntartáshoz kapcsoló vevői jog vagy a jövőbeli épületre vonatkozó vevői jog bejegyzése iránti kérelem benyújtására még nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül került sor –, a tulajdonjog-bejegyzéshez kapcsolódó ügyleti meghatalmazás akkor is benyújtható, ha az nem ingatlan-nyilvántartási elektronikus űrlapon jött létre, feltéve, hogy létrejöttének időpontjában az ingatlan-nyilvántartási elektronikus űrlapon történő létrehozását kötelező jelleggel jogszabály nem írta elő.
-
-(2) A (3) bekezdésben foglalt kivétellel, a papíralapon létrejött ügyleti meghatalmazás csak abban az esetben használható fel az ingatlan-nyilvántartási eljárásban, ha
-
-- a) az ezen rendelkezés hatálybalépését megelőzően létrejött ügyleti meghatalmazást 2025. december 31-ig az azt szerkesztő közjegyző, ügyvéd vagy kamarai jogtanácsos,
-- b) az ezen rendelkezés hatálybalépését követően létrejött ügyleti meghatalmazást
-  - ba) az aláírásától számított három napon belül az azt szerkesztő ügyvéd vagy kamarai jogtanácsos,
-  - bb) a hitelesítéséről rendelkező határozat jogerőre emelkedésététől számított három számított napon belül az azt szerkesztő közjegyző
-
-elektronikus okirattá alakítja.
-
-(3) A jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon (e törvény alkalmazásában a továbbiakban: biztonsági okmány) szerkesztett ügyleti meghatalmazás elektronikus okirattá alakítás nélkül használható fel a tulajdonjog-bejegyzési eljárásban.
-
-(4) A nem ingatlan-nyilvántartási elektronikus űrlapon létrejött ügyleti meghatalmazásra az (1) és (2) bekezdést kell alkalmazni abban az esetben is, ha azt nem tulajdonjog-fenntartáshoz kapcsolódó vevői joggal vagy jövőbeli épületre vonatkozó vevői joggal összefüggő tulajdonjog-bejegyzési ügyben állították ki. Ebben az esetben a nem ingatlan-nyilvántartási elektronikus űrlapon létrejött ügyleti meghatalmazás a 2026. december 31-ig megindított ingatlan-nyilvántartási eljárásban használható fel.
-
-3/J. § (1) Azon időpontot követően, amikortól az Inytv. vagy e törvény rendelkezése alapján jogok változásának bejegyzésére irányuló eljárás már kizárólag csak ingatlan-nyilvántartási elektronikus űrlappal indítható meg – abban az ügyben, amelyben a tulajdonjog-fenntartáshoz kapcsoló vevői jog vagy a jövőbeli épületre vonatkozó vevői jog bejegyzése iránti kérelem benyújtására még nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül került sor –, a tulajdonjog-bejegyzési engedély akkor is benyújtható, ha az nem ingatlan-nyilvántartási elektronikus űrlapon jött létre, feltéve, hogy létrejöttének időpontjában az ingatlan-nyilvántartási elektronikus űrlapon történő létrehozását kötelező jelleggel jogszabály nem írta elő.
-
-(2) A (3) bekezdésben foglalt kivétellel, a papíralapon létrejött tulajdonjog-bejegyzési engedély csak abban az esetben szolgálhat bejegyzés alapjául, ha
-
-- a) az ezen rendelkezés hatálybalépését megelőzően létrejött tulajdonjog-bejegyzési engedélyt 2025. december 31-ig az azt szerkesztő közjegyző, ügyvéd vagy kamarai jogtanácsos,
-- b) az ezen rendelkezés hatálybalépését követően létrejött tulajdonjog-bejegyzési engedélyt
-  - ba) az aláírásától számított három napon belül az azt szerkesztő ügyvéd vagy kamarai jogtanácsos,
-  - bb) a hitelesítéséről rendelkező határozat jogerőre emelkedésétől számított három napon belül az azt szerkesztő közjegyző
-
-elektronikus okirattá alakítja.
-
-(3) A biztonsági okmányon szerkesztett tulajdonjog-bejegyzési engedély elektronikus okirattá alakítás nélkül használható fel a tulajdonjog-bejegyzési eljárásban.
-
-(4) A nem ingatlan-nyilvántartási elektronikus űrlapon létrejött
-
-- a) jelzálogjog-bejegyzési engedélyre, valamint
-- b) tulajdonjog-bejegyzési engedélyre, ha azt nem tulajdonjog-fenntartáshoz kapcsolódó vevői joggal vagy jövőbeli épületre vonatkozó vevői joggal összefüggő tulajdonjog-bejegyzési ügyben állították ki
-
-az (1) és (2) bekezdést kell alkalmazni azzal, hogy azok a 2026. december 31-ig megindított ingatlan-nyilvántartási eljárásban használhatók fel.
-
-3/K. § Ha közjegyző olyan jogügylet során lát el jogi képviseletet, amelyben biztonsági okmányon készít okiratot, a változás bejegyzésére irányuló beadványát papíralapon nyújtja be az ingatlanügyi hatósághoz.”
-
-223. § Hatályát veszti az Átmeneti tv. 3. §-a.
+#### 223. §
 
 #### 52.
 

@@ -287,23 +287,49 @@ lép.
 
 #### 25. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-#### 93. §
+93. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 1. § a) pontja helyébe a következő rendelkezés lép:
 
-#### 94. §
+(Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed)
 
-#### 95. §
+„a) a Magyarország területén székhellyel rendelkező, e törvény szerinti kollektív befektetési forma és befektetési alapkezelő létrehozatalára, működésére és felügyeletére, kivéve a 2. § (2) bekezdése szerinti kockázati tőkealap-kezelő (és az általa kezelt kockázati tőkealap és magántőkealap) felügyeletét – ide nem értve az alapkezelőben történő minősített befolyás megszerzésére vagy növelésére vonatkozó engedélyt, valamint a kockázati tőkealapra, illetve a magántőkealapra vonatkozó, e törvényben kivételként meghatározott szabályokat –, valamint az olyan egy vagy több, de kizárólag zártkörű ABA-t kezelő ABAK-ok (és az általuk kezelt zártkörű ABA-k) felügyeletét – ide nem értve az ABAK-ban történő tulajdonosváltásra vonatkozó engedélyt –, amelyeknek ugyanezen ABAK-ok vagy azok anyavállalatai vagy leányvállalatai, vagy ezen anyavállalatok egyéb leányvállalatai az egyedüli befektetői, feltéve, hogy e befektetők maguk nem ABA-k,”
 
-#### 96. §
+94. § (1) A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 11. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-#### 97. §
+(A kérelmező – amennyiben a kérelem benyújtásakor rendelkezésre állnak vonatkozó adatok – tájékoztatja a Felügyeletet:)
 
-#### 98. §
+„c) ABA-k kezelési szabályzatáról, figyelemmel a (3a) bekezdésre;”
 
-#### 99. §
+(2) A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 11. §-a a következő (3a) bekezdéssel egészül ki:
 
-#### 100. §
+„(3a) A Felügyelet jóváhagyása szükséges a (3) bekezdés c) pontja szerinti kezelési szabályzat zárt körű befektetési alap alapkezelője minősített befolyással rendelkező tulajdonosának megváltozására vonatkozó rendelkezéseihez. A Felügyelet jóváhagyás megadására irányuló eljárása alatt a kezelési szabályzat nem alkalmazható.”
 
-#### 101. §
+95. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 67. §-a a következő (11) bekezdéssel egészül ki:
+
+„(11) A kockázati tőkealapok és a magántőkealapok befektetési alapkezelőjének a minősített befolyást elérő tulajdonosában bekövetkező változáshoz a Felügyelet engedélye szükséges.”
+
+96. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 69. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Zártkörű befektetési alap nyilvántartásba történő bejegyzésének feltétele, hogy a befektetési alapkezelő a Felügyeletnek benyújtsa)
+
+„b) a befektetési alap kezelési szabályzatát, figyelemmel a 11. § (3a) bekezdése szerinti engedélyre;”
+
+97. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 73. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A kezelési szabályzat módosítása esetén a módosított kezelési szabályzatot a befektetési alapkezelő a módosítás hatálybalépését követő 5 napon belül tájékoztatásul köteles a Felügyeletnek megküldeni, figyelemmel a 11. § (3a) bekezdése szerinti engedélyre.”
+
+98. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 163. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap. Zártkörű befektetési alap esetén a Felügyelet 11. § (3a) bekezdése szerinti eljárásának az időtartama 5 munkanap.”
+
+99. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény a következő 203/B. §-sal egészül ki:
+
+„203/B. § (1) E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv.) megállapított 11. § (3a) bekezdése hatálybalépésekor már működő zártkörű befektetési alapok e rendelkezés hatálybalépését követő 10 munkanapon belül benyújtják a kezelési szabályzatukat, annak érdekében, hogy a kezelési szabályzat 11. § (3a) bekezdése szerint meghatározott részére a Felügyelet engedélyét megszerezzék.
+
+(2) Zártkörű alapok esetében a befektetési alapkezelő tulajdonosában változás a Módtv.-nyel megállapított 11. § (3a) bekezdésének hatálybalépését követően csak a Felügyelet engedélyével történhet.”
+
+100. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 3. melléklete a 3. melléklet szerint módosul.
+
+101. § Hatályát veszti a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 82. § (6) bekezdése.
 
 #### 26. A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény módosítása
 
@@ -407,17 +433,49 @@ lép.
 
 #### 34. A nyugdíjas élelmiszer-utalványról
 
-#### 141. §
+141. § Ezen alcím alkalmazásában
 
-#### 142. §
+- 1. élelmiszer-utalványra jogosult: e törvény alapján kiadott kormányrendeletben meghatározott pénzellátásban részesülő, Magyarországon élő és tartózkodó természetes személyek;
+- 2. hideg élelmiszer: olyan élelmiszer, amely a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletének módosításáról szóló, 2021. október 12-i (EU) 2021/1832 bizottsági végrehajtási rendelet 1. melléklete szerinti
+  - a) I–IV. áruosztályba tartozó termék, ide nem értve az alkoholtartalmú folyadékokat, továbbá
+  - b) V. áruosztályba tartozó termékek közül a só;
+- 3. nyugdíjas élelmiszer-utalvány: kincstár által kibocsátott, a kincstárral szembeni pénzkövetelést megtestesítő bankjegynek, forgatható utalványnak, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszköznek, valamint értékpapírnak nem minősülő és kizárólag élelmiszerárusítónál hideg élelmiszer megvásárlása ellenértékének kiegyenlítésére szolgáló papír alapú fizetési eszköz.
 
-#### 143. §
+142. § (1) A nyugdíjas élelmiszer-utalvány kizárólag hideg élelmiszer vásárlására használható fel.
 
-#### 144. §
+(2) A nyugdíjas élelmiszer-utalvány valamennyi, e törvény alapján kiadott kormányrendeletben meghatározott tevékenységet végző élelmiszert árusítónál és őstermelőnél (a továbbiakban együtt: élelmiszert árusító) használható fel az e törvény alapján kiadott kormányrendeletben meghatározott érvényességi időben.
 
-#### 145. §
+(3) A nyugdíjas élelmiszer-utalványt az élelmiszert árusító címletértéken fogadhatja el a vásárlás ellenértékeként, azt készpénzre sem részben, sem egészben nem válthatja át.
 
-#### 146. §
+143. § (1) A nyugdíjas élelmiszer-utalvány
+
+- a) mentes a végrehajtás alól, és
+- b) nem minősül a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés a) pontja szerinti jövedelemnek.
+
+(2) A nyugdíjas élelmiszer-utalvány nem örökölhető.
+
+144. § (1) A nyugdíjas élelmiszer-utalvány kibocsátásának fedezetét az állam a központi nyugdíjbiztosítási szervként is eljáró kincstár útján biztosítja.
+
+(2) A központi költségvetés terhére teljesülnek a nyugdíjas élelmiszer-utalvány kibocsátásának, felhasználásának, beváltásának és elszámolásának, valamint a végrehajtásnak a költségei.
+
+145. § (1) Az élelmiszert árusító által átvett nyugdíjas élelmiszer-utalványt az élelmiszert árusító bármely a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti banknál (a továbbiakban: bank) jogosult címletértéken számlapénzre vagy készpénzre beváltani, amelynek a forrását a kincstár utólagos elszámolás alapján biztosítja a bank részére.
+
+(2) A bank a beváltáskor elvégzi a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti ügyfél-átvilágítási intézkedéseket.
+
+(3) A bank nem számolhat fel díjat, jutalékot a nyugdíjas élelmiszer-utalvány beváltása során.
+
+(4) A kincstár a bankkal történő elszámolásra vonatkozó tájékoztatót a honlapján közzéteszi.
+
+146. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+- a) a nyugdíjas élelmiszer-utalványra jogosultak körét,
+- b) a nyugdíjas élelmiszer-utalvány összegét,
+- c) a nyugdíjas élelmiszer-utalványt elfogadni köteles élelmiszert árusítók körét,
+- d) a nyugdíjas élelmiszer-utalvány formai és tartalmi kellékeit,
+- e) a nyugdíjas élelmiszer-utalvány előállításának, kézbesítésének módját, elfogadásának, felhasználhatóságának, beváltásának és elszámolásának részletes szabályait,
+- f) az élelmiszert árusítók és a bankok kötelezettségeit.
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nyugdíjas élelmiszer-utalvány felhasználásával kapcsolatos rendelkezések betartását ellenőrző hatóságot.
 
 #### 35. Hatályba léptető rendelkezések
 
@@ -472,6 +530,12 @@ alapján sarkalatosnak minősül.
 ### 2. melléklet a 2025. évi LI. törvényhez
 
 ### 3. melléklet a 2025. évi LI. törvényhez
+
+A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 3. melléklet II. fejezet XVI. cím 66. pont 66.1 alpontja helyébe a következő rendelkezés lép:
+
+(A befektetési alapkezelőkre vonatkozó információk)
+
+- „66.1. A befektetési alapkezelő neve, cégformája és a minősített befolyással rendelkező tulajdonosai”
 
 ### 4. melléklet a 2025. évi LI. törvényhez
 

@@ -10,7 +10,13 @@ az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar N
 
 #### 1. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-#### 1. §
+1. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 77. §-a helyébe a következő rendelkezés lép:
+
+„77. § (1) A kincstár a Magyar Nemzeti Banknál Kincstári Egységes Számla elnevezésű forintszámlával rendelkezik. A kincstár a Magyar Nemzeti Banknál devizaalapú kincstári egységes számlát és egyéb devizaszámlákat nyithat, és azokon az e törvényben meghatározott tevékenységével kapcsolatban megszerzett devizát tarthatja és használhatja fel.
+
+(2) A kincstári egységes számlák a 79. § (1), (2), (4), (4a), (4c) és (4d) bekezdése szerinti fizetési-számlavezetési tevékenységgel összefüggő pénzforgalom lebonyolítását szolgálják.
+
+(3) A kincstár jogszabályban meghatározott, hatósági letétkezelési tevékenységével kapcsolatos pénzeszközök elkülönített kezelésére a Magyar Nemzeti Banknál vezetett letéti számlák szolgálnak.”
 
 #### 2. §
 
@@ -46,7 +52,16 @@ az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar N
 
 #### 17. §
 
-#### 18. §
+18. § Az Mnbtv. 145. §-a helyébe a következő rendelkezés lép:
+
+„145. § (1) Az MNB vezeti
+
+- a) a kincstári egységes számlákat, a kincstár egyéb devizaszámláit, a kincstár letéti számláit és
+- b) az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság pénzforgalmi számláját.
+
+(2) Az MNB a forint kincstári egységes számla mindenkori egyenlege után a piaci kamatnak, de legfeljebb a jegybanki alapkamatnak megfelelő mértékű kamatot fizet a központi költségvetés javára.
+
+(3) Az MNB a deviza kincstári egységes számlák, valamint a kincstár egyéb devizaszámlái mindenkori egyenlege után piaci kamatot fizet a központi költségvetés javára, a monetáris finanszírozás tilalmára vonatkozó rendelkezések figyelembevételével.”
 
 #### 19. §
 
