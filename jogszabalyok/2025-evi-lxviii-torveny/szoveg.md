@@ -10,11 +10,7 @@ az országgyűlési képviselők választása kampányköltségeinek átláthat�
 
 [4] A fenti célokra figyelemmel az Országgyűlés a következő törvényt alkotja:
 
-1. § Hatályát veszti az országgyűlési képviselők választása kampányköltségeinek átláthatóvá tételéről szóló 2013. évi LXXXVII. törvény
-
-- a) 6/B. §-a,
-- b) 2. alcíme,
-- c) 9. § (4)–(6) bekezdése.
+#### 1. §
 
 2. § Ez a törvény a kihirdetését követő napon lép hatályba.
 

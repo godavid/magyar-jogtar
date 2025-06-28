@@ -30,23 +30,10 @@ az ÉLVONAL Csúcskutatási és Tehetséggondozó Alapítványról
 
 4. § Az 1. § (3) és (4) bekezdése, a 2. §, az 5. §, a 6. §, valamint az 1. és 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-5. § A KEKVA tv. 1. melléklete az 1. melléklet szerint módosul.
+#### 5. §
 
 #### 6. §
 
 ### 1. melléklet a 2025. évi LII. törvényhez
-
-- 1. A KEKVA tv. 1. melléklet A) pontjában foglalt táblázat a következő 3a. sorral egészül ki:
-
-|  | (A | B |
-| --- | --- | --- |
-| 1 | A közfeladatot ellátó közérdekű vagyonkezelő alapítvány megnevezése | A közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladata) |
-
-„
-
-| 3a | ÉLVONAL Csúcskutatási és Tehetséggondozó Alapítvány | 1. feltörekvő és már ma is világhírű hazai és külföldi kutatók Magyarországra vonzása és hosszútávú beágyazása a hazai egyetemi-kutatóintézeti ökoszisztémába, megtartva nemzetközi kapcsolatrendszerüket és intézményi kapcsolódásaikat; 2. az élettelen és élő természettudományok, különösen a matematikai, fizikai és informatikai területek tehetségeinek beazonosítása és tehetséggondozásuk a hazai és nemzetközi versenyekre való felkészítéstől kezdve, a kutatási és innovatív vállalkozói pályára való felkészítésen át, a doktori fokozat megszerzésén túli mentorálásig; 3. a tudásközpontokban születő tudományos eredmények innovatív magyar technológiai kisvállalatok keretében történő piacra vitelének elősegítése. |
-| --- | --- | --- |
-
-”
 
 ### 2. melléklet a 2025. évi LII. törvényhez

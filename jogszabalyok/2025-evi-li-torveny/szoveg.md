@@ -287,49 +287,23 @@ lép.
 
 #### 25. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-93. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 1. § a) pontja helyébe a következő rendelkezés lép:
+#### 93. §
 
-(Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed)
+#### 94. §
 
-„a) a Magyarország területén székhellyel rendelkező, e törvény szerinti kollektív befektetési forma és befektetési alapkezelő létrehozatalára, működésére és felügyeletére, kivéve a 2. § (2) bekezdése szerinti kockázati tőkealap-kezelő (és az általa kezelt kockázati tőkealap és magántőkealap) felügyeletét – ide nem értve az alapkezelőben történő minősített befolyás megszerzésére vagy növelésére vonatkozó engedélyt, valamint a kockázati tőkealapra, illetve a magántőkealapra vonatkozó, e törvényben kivételként meghatározott szabályokat –, valamint az olyan egy vagy több, de kizárólag zártkörű ABA-t kezelő ABAK-ok (és az általuk kezelt zártkörű ABA-k) felügyeletét – ide nem értve az ABAK-ban történő tulajdonosváltásra vonatkozó engedélyt –, amelyeknek ugyanezen ABAK-ok vagy azok anyavállalatai vagy leányvállalatai, vagy ezen anyavállalatok egyéb leányvállalatai az egyedüli befektetői, feltéve, hogy e befektetők maguk nem ABA-k,”
+#### 95. §
 
-94. § (1) A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 11. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 96. §
 
-(A kérelmező – amennyiben a kérelem benyújtásakor rendelkezésre állnak vonatkozó adatok – tájékoztatja a Felügyeletet:)
+#### 97. §
 
-„c) ABA-k kezelési szabályzatáról, figyelemmel a (3a) bekezdésre;”
+#### 98. §
 
-(2) A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 11. §-a a következő (3a) bekezdéssel egészül ki:
+#### 99. §
 
-„(3a) A Felügyelet jóváhagyása szükséges a (3) bekezdés c) pontja szerinti kezelési szabályzat zárt körű befektetési alap alapkezelője minősített befolyással rendelkező tulajdonosának megváltozására vonatkozó rendelkezéseihez. A Felügyelet jóváhagyás megadására irányuló eljárása alatt a kezelési szabályzat nem alkalmazható.”
+#### 100. §
 
-95. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 67. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) A kockázati tőkealapok és a magántőkealapok befektetési alapkezelőjének a minősített befolyást elérő tulajdonosában bekövetkező változáshoz a Felügyelet engedélye szükséges.”
-
-96. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 69. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Zártkörű befektetési alap nyilvántartásba történő bejegyzésének feltétele, hogy a befektetési alapkezelő a Felügyeletnek benyújtsa)
-
-„b) a befektetési alap kezelési szabályzatát, figyelemmel a 11. § (3a) bekezdése szerinti engedélyre;”
-
-97. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 73. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A kezelési szabályzat módosítása esetén a módosított kezelési szabályzatot a befektetési alapkezelő a módosítás hatálybalépését követő 5 napon belül tájékoztatásul köteles a Felügyeletnek megküldeni, figyelemmel a 11. § (3a) bekezdése szerinti engedélyre.”
-
-98. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 163. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap. Zártkörű befektetési alap esetén a Felügyelet 11. § (3a) bekezdése szerinti eljárásának az időtartama 5 munkanap.”
-
-99. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény a következő 203/B. §-sal egészül ki:
-
-„203/B. § (1) E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv.) megállapított 11. § (3a) bekezdése hatálybalépésekor már működő zártkörű befektetési alapok e rendelkezés hatálybalépését követő 10 munkanapon belül benyújtják a kezelési szabályzatukat, annak érdekében, hogy a kezelési szabályzat 11. § (3a) bekezdése szerint meghatározott részére a Felügyelet engedélyét megszerezzék.
-
-(2) Zártkörű alapok esetében a befektetési alapkezelő tulajdonosában változás a Módtv.-nyel megállapított 11. § (3a) bekezdésének hatálybalépését követően csak a Felügyelet engedélyével történhet.”
-
-100. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 3. melléklete a 3. melléklet szerint módosul.
-
-101. § Hatályát veszti a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 82. § (6) bekezdése.
+#### 101. §
 
 #### 26. A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény módosítása
 
@@ -530,12 +504,6 @@ alapján sarkalatosnak minősül.
 ### 2. melléklet a 2025. évi LI. törvényhez
 
 ### 3. melléklet a 2025. évi LI. törvényhez
-
-A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 3. melléklet II. fejezet XVI. cím 66. pont 66.1 alpontja helyébe a következő rendelkezés lép:
-
-(A befektetési alapkezelőkre vonatkozó információk)
-
-- „66.1. A befektetési alapkezelő neve, cégformája és a minősített befolyással rendelkező tulajdonosai”
 
 ### 4. melléklet a 2025. évi LI. törvényhez
 

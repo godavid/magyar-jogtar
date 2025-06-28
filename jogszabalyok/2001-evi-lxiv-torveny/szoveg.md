@@ -721,15 +721,7 @@ kulturális javakat.
 
 58. § Tilos azon kulturális javaknak az országba történő behozatala, bejuttatása, amelyeket származási országukból a szükséges kiviteli engedélyek nélkül, vagy a kiviteli engedély kereteit túllépve juttattak külföldre.
 
-### Nemzeti érdekű nyilvános gyűjtemény
-
-59. § (1) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére nemzeti érdekű nyilvános gyűjteményként nyilvántartásba veszi azt a kiemelkedő tudományos vagy kulturális jelentőségű gyűjteményt vagy tárgyegyüttest, amely egyértelmű azonosításra alkalmas képi és leíró nyilvántartással rendelkezik, és legalább egy eleme védetté nyilvánított.
-
-(2) A nemzeti érdekű nyilvános gyűjtemény kutatói és látogatói hozzáférését évente legalább 24 napon, naponként legalább négy órában biztosítani kell.
-
-(3) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére, vagy ha a nemzeti érdekű nyilvános gyűjtemény már nem felel meg az (1) vagy (2) bekezdésben meghatározott feltételeknek, hivatalból törli azt nyilvántartásából.
-
-### Közérdekű kulturális érték
+#### 59. §
 
 60. § (1) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére közérdekű kulturális értékként nyilvántartásba veszi azokat a tárgyakat, amelyek
 
@@ -916,8 +908,8 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 - d) a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott, Magyarország területéről jogtalanul kivitt vagy ilyen módon behozott kulturális javakról,
 - e) a kölcsönzött kulturális javak különleges védelméről szóló tanúsítványokról,
 - f) az ideiglenesen védetté nyilvánított kulturális javakról,
-- g) a nemzeti érdekű nyilvános gyűjteményekről,
-- h) a közérdekű kulturális értékekről,
+- g) a behozatali engedélyekről,
+- h)
 - i) azokról a kulturális javakról, amelyek védettségét megszüntették,
 - j) a védetté nyilvánításra javasolt kulturális javakról,
 - k) a 64/A. § szerint a kulturális javak körébe sorolt kulturális javakról, valamint
