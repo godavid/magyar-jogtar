@@ -91,6 +91,10 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 11. § A fogyatékos személy részére biztosítani kell a fogyatékossága által indokolt szükségleteinek megfelelő támogató szolgálat igénybevételét, továbbá segédeszközt. Az árhoz nyújtott támogatással beszerezhető segédeszközök körét és a támogatás módját, valamint mértékét külön jogszabály határozza meg.
 
+### Termékekre és szolgáltatásokra vonatkozó akadálymentességi követelmények
+
+11/A. § Az e fejezetben foglalt rendelkezésekkel összhangban a termékekre és szolgáltatásokra vonatkozó akadálymentességi követelmények megvalósítására vonatkozó részletes szabályokat törvény tartalmazza.
+
 ### III. Fejezet — AZ ESÉLYEGYENLŐSÍTÉS CÉLTERÜLETEI
 
 ### Egészségügy
