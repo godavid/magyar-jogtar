@@ -230,23 +230,9 @@ tartalmaira.
 
 14. § Ez a törvény a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i (EU) 2019/882 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-15. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény II. fejezete a következő alcímmel egészül ki:
+#### 15. §
 
-„Termékekre és szolgáltatásokra vonatkozó akadálymentességi követelmények
-
-11/A. § Az e fejezetben foglalt rendelkezésekkel összhangban a termékekre és szolgáltatásokra vonatkozó akadálymentességi követelmények megvalósítására vonatkozó részletes szabályokat törvény tartalmazza.”
-
-16. § Az Eht.
-
-- a) 83. § (3a) bekezdésében és 182. § (3) bekezdés 40. pontjában a „kis hatótávolságú” szövegrész helyébe a „kis területi lefedésű” szöveg,
-- b) 94. § (7) bekezdésében a „Kis hatótávolságú” szövegrész helyébe a „Kis területi lefedésű” szöveg,
-- c) 188. § 16. pont c) alpontjában a „gépek közötti szolgáltatást” szövegrész helyébe a „gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatást” szöveg,
-- d) 188. § 43. pontjában a „Gépek közötti szolgáltatás” szövegrész helyébe a „Gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás” szöveg,
-- e) 188. § 74. pontjában a „Készenléti segélyszolgálat” szövegrész helyébe a „Segélyhívó szolgálat” szöveg,
-- f) 188. § 96. pontjában a „gépek közötti szolgáltatások” szövegrész helyébe a „gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatások” szöveg,
-- g) 188. § 117. pontjában a „készenléti segélyszolgálatoktól” szövegrész helyébe a „segélyhívó szolgálatoktól” szöveg
-
-lép.
+#### 16. §
 
 ### 1. melléklet a 2022. évi XVII. törvényhez
 

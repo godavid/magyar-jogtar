@@ -72,11 +72,7 @@ a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módos
 
 (2)
 
-(3) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 71. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(A kulturális javak hatósága központi nyilvántartást vezet)
-
-„g) a behozatali engedélyekről,”
+(3)
 
 #### 33. §
 
@@ -112,11 +108,11 @@ a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módos
 - 14.
 - 15.
 - 16.
-- 17. „Nemzeti érdekű nyilvános gyűjtemény” alcíme,
-- 18. „Közérdekű kulturális érték” alcíme,
+- 17.
+- 18.
 - 19.
 - 20.
-- 21. 71. § (2) bekezdés h) pontja,
+- 21.
 - 22.
 - 23.
 - 24.
