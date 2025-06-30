@@ -1573,6 +1573,31 @@ végrehajtásáról.
 
 e törvény erejénél fogva érvénytelenné válik, a vendégmunkás 33. § (3) bekezdés szerinti nyilatkozatára tekintettel a kiutasításról az (1) bekezdés b) pontja alapján rendelkezni kell. A döntés meghozatala során az idegenrendészeti hatóság a vendégmunkás idézését mellőzi. A döntés közlése hirdetményi úton, a döntés rendelkező részének az idegenrendészeti hatóság honlapján való közzétételével történik, vagy ha a vendégmunkásnak meghatalmazott képviselője van, a döntést vele kell közölni. A határozatot a közzététel napján közöltnek kell tekinteni.
 
+#### 61/A. Kiutasítás a magyar állampolgárság felfüggesztése esetén
+
+98/A. § Ha a magyar állampolgárságról szóló 1993. évi LV. törvény alapján valamely harmadik állam állampolgárságával is rendelkező magyar állampolgár magyar állampolgárságát felfüggesztették (a továbbiakban: felfüggesztéssel érintett személy), a kiutasítás végrehajtása tekintetében az idegenrendészeti hatóság – az ezen alcím szerinti eltéréssel – a XIV–XVI. Fejezet rendelkezéseit alkalmazza.
+
+98/B. § (1) A felfüggesztéssel érintett személy kiutasítása tárgyában a 64–67. alcím rendelkezéseit a következő eltérésekkel kell alkalmazni:
+
+- a) a 65. alcím nem alkalmazható,
+- b) a 111. § (1) bekezdése azzal az eltéréssel alkalmazható, hogy a felfüggesztéssel érintett személy schengeni állam területére is távozhat.
+
+(2) A felfüggesztéssel érintett személy esetében a kiutasításról rendelkező határozat nem tartalmaz célországot, csak azt a tényt, hogy a felfüggesztéssel érintett személy mely időponttal köteles elhagyni Magyarország területét.
+
+98/C. § (1) A felfüggesztéssel érintett személy kiutasítása tárgyában a 68. és 69. alcím rendelkezéseit a (2)–(7) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) Ha a felfüggesztéssel érintett személyt kiutasítják, és a kiutasításról rendelkező határozat véglegessé válását követően önként nem hagyja el Magyarország területét vagy oda jogellenesen visszatér, a felfüggesztéssel érintett személyt az idegenrendészeti hatósághoz elő kell állítani, idegenrendészeti őrizetét el kell rendelni, és a kitoloncolást 72 órán belül végre kell hajtani.
+
+(3) A kitoloncolás elrendeléséről és az idegenrendészeti őrizetről az idegenrendészeti hatóság végzésben rendelkezik, az idegenrendészeti őrizet ellen kifogásnak nincs helye.
+
+(4) A (2) bekezdés alapján előállított személyt nyilatkoztatni kell, hogy Magyarország területét melyik közúti vagy légiforgalmi határátkelőhelyen kívánja elhagyni, és az előállított személyt az általa megjelölt határátkelőhelyen az idegenrendészeti őrizet időtartama alatt Magyarország területéről ki kell léptetni.
+
+(5) Ha a (2) bekezdés alapján előállított személy a (4) bekezdés szerint nem tesz nyilatkozatot vagy a kitoloncolás végrehajtásában nem működik közre, őt az idegenrendészeti őrizet végrehajtásának helyéhez legközelebbi közúti vagy légiforgalmi határátkelőhelyre kell szállítani, és ott Magyarország területéről ki kell léptetni.
+
+(6) A kitoloncolás csak abban az esetben szakítható félbe, ha a felfüggesztéssel érintett személy orvosi beavatkozást igénylő állapota miatt nem hajtható végre.
+
+(7) Ha a kitoloncolást a (6) bekezdés alapján félbeszakították, az idegenrendészeti őrizet meghosszabbítása tárgyában a 132. § (4) bekezdése szerint kell intézkedni, és a kitoloncolást, amint a felfüggesztéssel érintett személy egészségi állapota lehetővé teszi, végre kell hajtani.
+
 #### 62. Más hatóság által elrendelt kiutasítás végrehajtása
 
 99. § (1) Az idegenrendészeti hatóság a bíróság által elrendelt kiutasítás végrehajtásáról végzésben rendelkezik.
@@ -1603,6 +1628,8 @@ e törvény erejénél fogva érvénytelenné válik, a vendégmunkás 33. § (3
 (2a) A kiutasítás elrendeléséről szóló, véglegessé vált határozattal szembeni közigazgatási perben halasztó hatály elrendelésének nincs helye.
 
 (3) A (2) bekezdéstől eltérően a 98. § (4) bekezdése szerinti kiutasítást elrendelő határozat ellen indított közigazgatási perben tárgyalás tartása nem kérhető. A bíróság a keresetlevélről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül, tárgyaláson kívül dönt, és ítéletét három napon belül közli a peres felekkel.
+
+(4) A 98. § (1) bekezdés d) pontja alapján elrendelt kiutasításról szóló határozat ellen indított közigazgatási perben a bíróság a kiutasításról szóló határozatot nem változtathatja meg, a bíróság a határozatok törvényességéről a közigazgatási szerv eljárásának vizsgálata alapján dönt. Ha az idegenrendészeti hatóság döntését minősített adatra alapozta, a bíróság a keresetlevél, a védirat és az ügy iratainak megküldésével a felperes érdekeinek védelmére felhívja az ügyészséget a perbelépésre, az ügyészség perbelépése kötelező.
 
 ### XIV. Fejezet — A KIUTASÍTÁS ÉS VISSZAIRÁNYÍTÁS AKADÁLYAI
 
@@ -1828,6 +1855,8 @@ rendeli el.
 (4) Az (1) bekezdés a) és b) pontja alapján elrendelt önálló beutazási és tartózkodási tilalom időtartama az elrendelés alapjául szolgáló kötelezettséghez igazodik. Az (1) bekezdés d)–f) pontja, a (2) bekezdés, valamint a (3) bekezdés a) pontja alapján elrendelt önálló beutazási és tartózkodási tilalom időtartamát az elrendelő idegenrendészeti hatóság határozza meg, amely legfeljebb öt évre rendelhető el, és alkalmanként legfeljebb további öt évvel meghosszabbítható. Ha a (3) bekezdés b) pontja szerinti javaslatban foglalt beutazási és tartózkodási tilalom három évnél hosszabb érvényességi időtartamot ír elő, az önálló beutazási és tartózkodási tilalmat az ahhoz tartozó SIS figyelmeztető jelzéssel együtt öt éven belül felül kell vizsgálni. Az önálló beutazási és tartózkodási tilalmat haladéktalanul törölni kell, ha az elrendelésének oka megszűnt.
 
 (5) Az önálló beutazási és tartózkodási tilalommal szemben fellebbezésnek nincs helye. Az (1) bekezdés a) és b) pontja, valamint a (2) bekezdés alapján elrendelt önálló beutazási és tartózkodási tilalommal szemben jogorvoslatnak nincs helye.
+
+(6) Az (1) bekezdés c) pontja alapján elrendelt önálló beutazási és tartózkodási tilalomról szóló határozat ellen indított közigazgatási perben a bíróság az önálló beutazási és tartózkodási tilalomról szóló határozatot nem változtathatja meg, a bíróság a határozatok törvényességéről a közigazgatási szerv eljárásának vizsgálata alapján dönt. Ha az idegenrendészeti hatóság döntését minősített adatra alapozta, a bíróság a keresetlevél, a védirat és az ügy iratainak megküldésével a felperes érdekeinek védelmére felhívja az ügyészséget a perbelépésre, az ügyészség perbelépése kötelező.
 
 #### 72. A kiutasítással együtt elrendelt beutazási és tartózkodási tilalom
 
