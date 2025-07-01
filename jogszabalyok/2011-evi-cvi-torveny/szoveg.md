@@ -239,7 +239,7 @@ vonatkozó szabályai nem alkalmazhatók,
 
 (3b) Az (1)–(3a) bekezdésben említett szerződésekben a szociális szövetkezet vállalja, hogy a hasznosításra kapott eszközök hasznosításával kapcsolatos döntések meghozatala előtt, az arra jogosult szövetkezeti szerv vagy személy a kijelölt állami képviselő véleményét kikéri. Ha a szociális szövetkezet a szerződésben vállalt ezen kötelezettségét megsérti, az (1)–(3a) szerinti szerződést azonnali hatállyal fel kell mondani.
 
-(3c) A szociális szövetkezetbe az állami képviselőt az (1)–(3a) bekezdés szerinti szerződés lejártáig lehet kijelölni. Az állami képviselőt a közfoglalkoztatásért felelős miniszter jelöli ki.
+(3c) A szociális szövetkezetbe az állami képviselőt az (1)–(3a) bekezdés szerinti szerződés lejártáig lehet kijelölni. A start szociális szövetkezet vezetője kérheti állami képviselő kijelölését akkor is, ha gazdasági tevékenysége körében együttműködik a települési önkormányzattal, vagy a közfoglalkoztatási programokból keletkező áruk, késztermékek felvásárlásával és további hasznosításával kapcsolódik a település közfoglalkoztatási programjához. Ebben az esetben az állami képviselő feladata a start szociális szövetkezet tevékenységének monitoringja és működésének koordinálása a közfoglalkoztatási jogviszonyban lévő személyek elsődleges munkaerőpiacra történő hatékony reintegrálása érdekében. Az állami képviselőt a közfoglalkoztatásért felelős miniszter jelöli ki.
 
 (3d) A szociális szövetkezet az állammal vagy az önkormányzattal kötött, közfoglalkoztatási célú hasznosítási szerződésben vállalja, hogy az általa ingyenesen használatba vett termőföldet a haszonbérlő kötelezettségeire a 2013. évi CCXII. törvény (Ffvht.) 58. §-ában meghatározott előírások betartásával hasznosítja. Ennek során csak olyan gazdálkodást folytathat, amely nem veszélyezteti a föld termőképességét. A használatba adó hozzájárulása nélkül vagy attól eltérően a föld használatát másnak nem engedheti át, a föld művelési ágát nem változtathatja meg. A földet csak a szerződésben meghatározott célra hasznosíthatja. Ha a föld a természet védelméről szóló 1996. évi LIII. törvény hatálya alá tartozik, a szociális szövetkezet köteles e törvény, illetve a természetvédelmi hatóság földhasználatról hozott előírásait teljesíteni, továbbá nem folytathat olyan tevékenységet, amely a természeti terület állagát vagy állapotát kedvezőtlenül befolyásolja, vagy a természeti értékek fennmaradását bármely módon veszélyezteti. Ha a szociális szövetkezet ezeket a földhasználati kötelezettségeit a használatba adó írásban közölt felhívása ellenére megsérti, a hasznosítási szerződést azonnali hatállyal fel kell mondani.
 
@@ -391,7 +391,7 @@ vonatkozó szabályai nem alkalmazhatók,
 
 ### Záró rendelkezések
 
-53. § Felhatalmazást kap a Kormány, hogy a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér mértékét, valamint a közhasznú kölcsönzés feltételeit rendeletben állapítsa meg.
+53. § Felhatalmazást kap a Kormány, hogy a közfoglalkoztatási támogatások részletes szabályait, a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér mértékét, valamint a közhasznú kölcsönzés feltételeit rendeletben állapítsa meg.
 
 54. § (1) E törvény – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 

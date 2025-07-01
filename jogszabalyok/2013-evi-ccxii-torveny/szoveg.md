@@ -42,7 +42,9 @@ a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. tö
 
 #### 3. Általános szabályok
 
-8. § A föld tulajdonának átruházása esetén a szerződésben szereplő ellenértéket banki átutalással vagy ügyvédi letét alkalmazásával, közjegyzői okiratba foglalt szerződés esetén pedig közjegyzői bizalmi őrzésbe helyezéssel kell teljesíteni. A szerződésben az ellenérték teljesítésének módját meg kell határozni. A felek ettől eltérő megállapodása semmis.
+8. § (1) A föld tulajdonának átruházása esetén a szerződésben szereplő ellenértéket banki átutalással vagy a (2) bekezdésben foglaltak szerint ügyvédi letét alkalmazásával vagy közjegyzői bizalmi őrzésbe helyezéssel kell teljesíteni. A szerződésben az ellenérték teljesítésének módját meg kell határozni. A felek ettől eltérő megállapodása semmis.
+
+(2) Ügyvédi letét esetén az (1) bekezdés szerinti ellenértéket készpénzben, letéti számlára történő befizetéssel vagy átutalással kell teljesíteni. Közjegyzői bizalmi őrzésbe helyezés esetén az (1) bekezdés szerinti ellenértéket készpénzben, bizalmi őrzési számlára történő befizetéssel vagy átutalással kell teljesíteni.
 
 #### 4. A csereszerződésre vonatkozó szabályok
 
@@ -557,6 +559,7 @@ fog előállítani.
 - f) a 60. §-ban meghatározott felmondással,
 - g) ha a föld természeti erő közvetlen behatása következtében egészben vagy jelentős részben a haszonbérleti szerződés szerinti hasznosításra tartósan alkalmatlanná válik.
 - h) az 57/A. §-ban meghatározott esetben.
+- i) az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény (a továbbiakban: Ötv.) 11/A. § (3) bekezdése alapján létrejött szerződés esetén az Ötv. 11/A. § (11) bekezdése szerinti esetben.
 
 57/A. § (1) Megszűnik a haszonbérleti szerződés, ha az egyéni vállalkozó haszonbérlő által a vállalkozói tevékenységének folytatására az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény szerinti feltételekkel alapított korlátolt felelősségű társaság nem felel meg a Földforgalmi törvény földhasználati jogosultság megszerzésére irányuló előírásainak.
 
@@ -648,6 +651,7 @@ fog előállítani.
 - d) azonnali hatályú felmondással,
 - e) közeli hozzátartozók közti jogügylet esetén a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon, bármelyik szerződő fél halála esetén az elhalálozás bekövetkezésének napján,
 - f) családi mezőgazdasági társaság részére történő használatba adás esetén a családi mezőgazdasági társaságban fennálló tagsági viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon.
+- g) az Ötv. 11/A. § (3) bekezdése alapján létrejött szerződés esetén az Ötv. 11/A. § (11) bekezdése szerinti esetben.
 
 (4) A határozatlan időre kötött szerződés 60 napos felmondási idővel mondható fel.
 

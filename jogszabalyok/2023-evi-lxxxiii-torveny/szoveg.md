@@ -88,17 +88,53 @@ az egyes adótörvények módosításáról
 
 #### 36. §
 
-#### 37. §
+37. § Az Áfa tv. 166. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 38. §
+„(1a) Az e-nyugta a nyugtatárba való beérkezéssel minősül kibocsátottnak.”
 
-#### 39. §
+38. § (1) Az Áfa tv. 173. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 40. §
+„(1) A nyugta kötelező adattartalma a következő:
+
+- a) a nyugta kibocsátásának kelte;
+- b) a nyugta sorszáma, amely a nyugtát kétséget kizáróan azonosítja;
+- c) a nyugta kibocsátójának adószáma, valamint neve és címe;
+- d) a termék értékesítésének, szolgáltatás nyújtásának adót is tartalmazó ellenértéke;
+- e) az értékesített termék megnevezése, globális kereskedelmi áruazonosító száma, amennyiben azzal rendelkezik, továbbá mennyisége, a nyújtott szolgáltatás megnevezése, továbbá mennyisége, feltéve, hogy az természetes mértékegységben kifejezhető;
+- f) az alkalmazott adómértéknek megfelelő, a 83. § szerint meghatározott százalék;
+- g) adómentes ügylet esetében egyértelmű utalás arra, hogy a termék értékesítése, szolgáltatás nyújtása mentes az adó alól;
+- h) a „különbözet szerinti szabályozás – használt cikkek” vagy a „különbözet szerinti szabályozás – műalkotások”, vagy a „különbözet szerinti szabályozás – gyűjteménydarabok és régiségek” kifejezések közül a megfelelő kifejezés, a XVI. fejezetben meghatározott különös szabályok szerinti használt ingóság, műalkotás, gyűjteménydarab vagy régiség értékesítése esetében.”
+
+(2) Az Áfa tv. 173. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az (1) bekezdéstől eltérően az e-nyugtának nem minősülő nyugta esetében elegendő az (1) bekezdés a)–d) pontok szerinti adatok feltüntetése.”
+
+39. § Az Áfa tv. a 173/A. §-t követően a következő alcímmel egészül ki:
+
+### „A nyugtával egy tekintet alá eső okirat
+
+173/B. § (1) A nyugtával egy tekintet alá esik minden más, a nyugtától eltérő okirat is, amely tartalmazza a (2) bekezdésben foglalt adatokat és kétséget kizáróan az adott nyugtára hivatkozva, annak adattartalmát módosítja.
+
+(2) A nyugtával egy tekintet alá eső okiratnak legalább az alábbiakat kell tartalmaznia:
+
+- a) az okirat kibocsátásának kelte;
+- b) az okirat sorszáma, amely az okiratot kétséget kizáróan azonosítja;
+- c) hivatkozás arra a nyugtára, amelynek adattartalmát az okirat módosítja;
+- d) a nyugta adatának megnevezése, amelyet a módosítás érint, valamint a módosítás természete, illetve annak számszerű hatása, ha ilyen van.”
+
+40. § Az Áfa tv. 174. §-a helyébe a következő rendelkezés lép:
+
+„174. § (1) A számla és a nyugta lehet elektronikus vagy papíralapú.
+
+(2) Az (1) bekezdéstől eltérően e-nyugtát kiállítani, kibocsátani kizárólag elektronikusan lehet. A kibocsátott e-nyugtát a terméket beszerző, szolgáltatást igénybe vevő a nyugtatárban érheti el vevői alkalmazás segítségével.
+
+(3) A kiállított e-nyugtáról a terméket beszerző, szolgáltatást igénybe vevő kérésére vagy jogszabályban meghatározott esetekben a terméket beszerző, szolgáltatást igénybe vevő részére papíralapú másolatot kell rendelkezésre bocsátani.”
 
 #### 41. §
 
-#### 42. §
+42. § Az Áfa tv. 178. § (1a) bekezdésének helyébe a következő rendelkezés lép:
+
+„(1a) A nyugtaadási kötelezettség pénztárgéppel történő megvalósítása esetén a pénztárgéppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező pénztárgépi kiállítással történő megvalósítására szolgáló pénztárgép működését az állami adó- és vámhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adó- és vámhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit nem kapcsolhatja össze a pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adó- és vámhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adó- és vámhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.”
 
 #### 43. §
 
@@ -122,7 +158,19 @@ az egyes adótörvények módosításáról
 
 #### 53. §
 
-#### 54. §
+54. § Az Áfa tv. 257/G. §-a helyébe a következő rendelkezés lép:
+
+„257/G. § (1) Az adóalany a (2)–(6) bekezdésben meghatározottak esetében köteles adatot szolgáltatni az állami adó- és vámhatóság részére.
+
+(2) Az adóalany az általa teljesített termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott számláról, számlával egy tekintet alá eső okiratról, – a pénztárgéppel, valamint az e-pénztárgéppel kiállított számlák, számlával egy tekintet alá eső okiratok kivételével – valamint termék beszerzése, szolgáltatás igénybevétele esetén azon számlákról, számlával egy tekintet alá eső okiratokról, amelyek alapján adólevonási jogot gyakorol, az adatszolgáltatást a 10. számú mellékletben meghatározottak szerint teljesíti.
+
+(3) Az adóalany az általa teljesített 2. § a) pontja szerinti termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott e-nyugtákról, valamint az e-pénztárgéppel kiállított számlákról, továbbá az azokkal egy tekintet alá eső okiratokról az adatszolgáltatást a 11. számú mellékletben foglaltak szerint teljesíti.
+
+(4) A 178. § (1a) bekezdése, valamint a 10. és 11. számú melléklet szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+
+(5) Az adóalany a Közösségen belüli ügyleteivel kapcsolatos adatszolgáltatást a 4/A. számú mellékletben foglaltak szerint teljesíti.
+
+(6) A (2) bekezdésben foglaltaktól eltérően a 195/G. § hatálya alá tartozó adóalany az általa e minőségében teljesített 2. § a) pontja szerinti termékértékesítésről, szolgáltatásnyújtásról kiállított, kibocsátott számlákról, számlával egy tekintet alá eső okiratokról az adatszolgáltatást azon, a székhelye, ennek hiányában lakóhelye szerinti tagállami szabályozás szerinti adatszolgáltatással teljesíti, amely tartalmában a Héa-irányelv 284b. cikkének felel meg.”
 
 #### 55. §
 
@@ -136,7 +184,9 @@ az egyes adótörvények módosításáról
 
 #### 60. §
 
-#### 61. §
+61. § Az Áfa tv. a következő 366. §-sal egészül ki:
+
+„366. § Az Áfa tv. 173. § (1) bekezdésében foglalt rendelkezéseket teljesítettnek kell tekinteni a 2028. július 1-jét megelőzően kiállított azon nyugta tekintetében is, amelyik nem tartalmazza a 173. § (1) bekezdés e) pontja szerinti globális kereskedelmi áruazonosító számot.”
 
 #### 62. §
 
@@ -146,7 +196,7 @@ az egyes adótörvények módosításáról
 
 #### 65. §
 
-#### 66. §
+66. § Az Áfa tv. a 7. melléklet szerinti 11. számú melléklettel egészül ki.
 
 67. § Hatályát veszti az Áfa tv.
 
@@ -546,6 +596,16 @@ az egyes adótörvények módosításáról
 ### 6. melléklet a 2023. évi LXXXIII. törvényhez
 
 ### 7. melléklet a 2023. évi LXXXIII. törvényhez
+
+- 1. Az Áfa tv. a következő 11. számú melléklettel egészül ki:
+
+„11. számú melléklet a 2007. évi CXXVII. törvényhez
+
+Nyugta- és számla adatszolgáltatás
+
+Adatszolgáltatás az e-pénztárgéppel kiállított bizonylatokról
+
+Az adóalany az e-nyugták és az e-pénztárgéppel kiállított nyugtával egy tekintet alá eső okiratok, számlák és számlával egy tekintet alá eső okiratok e törvény szerint kötelező adatairól, azok kiállításával egyidejűleg, jogszabály szerint rendszeresen adatot szolgáltat az adó- és vámhatóság részére.”
 
 ### 8. melléklet a 2023. évi LXXXIII. törvényhez
 

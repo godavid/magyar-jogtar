@@ -302,20 +302,39 @@ a digitális állam megvalósítása érdekében egyes törvények módosítás�
 
 #### 92. §
 
-#### 93. §
+93. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (8) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-#### 94. §
+(A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt)
+
+„a) elektronikus úton, a kérelmező hivatalos elérhetőségére, valamint erre irányuló kérelmére, az általa megjelölt címzett elektronikus levelezési címére is,”
+
+(kézbesíti.)
+
+94. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 72. § (2) bekezdése a következő g) ponttal egészül ki:
+
+(A hatósági erkölcsi bizonyítvány kiállítása iránti kérelemnek tartalmaznia kell)
+
+„g) a kérelmező nyilatkozatát arról, ha a hatósági erkölcsi bizonyítvány kiállítását annak külföldön történő felhasználása céljából papíralapon kéri.”
 
 #### 95. §
 
-#### 96. §
+96. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 74. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 97. §
+„(2) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt
+
+- a) digitális biztonsági okmányként állítja ki,
+- b) papír alapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki, ha
+  - ba) a kérelmező nem rendelkezik a 71. § (8) bekezdés a) pontja szerinti hivatalos elérhetőséggel,
+  - bb) a kérelmező a kérelmében a hatósági erkölcsi bizonyítvány külföldön történő felhasználása céljából kéri annak papír alapon történő kiállítását.”
+
+97. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 75/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, ellenőrzési lehetőséget biztosít az általa digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány kiállításának tényéről, érvényességéről és hitelességéről. Az elektronikus felületről az ellenőrzés elvégzésének ténye és eredménye letölthető és kinyomtatható.”
 
 98. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény
 
-- a)
-- b)
+- a) 75. § (4) bekezdés a) pontjában az „elektronikus közokiratként” szövegrész helyébe a „digitális biztonsági okmányként” szöveg,
+- b) 75. § (5) bekezdésében az „az elektronikus közokiratként” szövegrész helyébe az „a digitális biztonsági okmányként” szöveg,
 - c)
 
 lép.

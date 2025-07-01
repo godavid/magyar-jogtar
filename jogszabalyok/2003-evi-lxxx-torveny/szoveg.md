@@ -510,7 +510,7 @@ egyéb tanácsadás
 
 61. § (1) A fél – a támogatást engedélyező végleges vagy jogerős határozat jogi segítőnek történő átadása mellett – a határozatban megjelölt perben a képviseletére a határozat kézhezvételétől számított 30 napon belül meghatalmazást adhat a jogi segítőnek.
 
-(2) Ha a fél képviseletét pártfogó ügyvédként jogi segítő nem vállalja, és ez – a határidőkre tekintettel – a jogainak sérelmével járhat, a fél az eljárási határidő elmulasztása esetén erre hivatkozással a perben igazolási kérelmet terjeszthet elő, a jogi segítségnyújtó szolgálat pedig részére – kérelmére – pártfogó ügyvédként jogi segítőt, ügyvédet vagy ügyvédi irodát rendelhet ki. A jogi segítségnyújtó szolgálat a kirendelésről a végzés egy kiadmányának egyidejű megküldésével, illetve amennyiben az eljáró bíróságról és a per ügyszámáról csak később szerez tudomást, a tudomásszerzést követően haladéktalanul megküldött végzéssel értesíti az eljáró bíróságot.
+(2) Ha a fél képviseletét pártfogó ügyvédként jogi segítő nem vállalja, a jogi segítségnyújtó szolgálat részére – kérelmére – pártfogó ügyvédként jogi segítőt, ügyvédet vagy ügyvédi irodát rendel ki. A jogi segítségnyújtó szolgálat a kirendelésről a végzés egy kiadmányának egyidejű megküldésével, illetve amennyiben az eljáró bíróságról és a per ügyszámáról csak később szerez tudomást, a tudomásszerzést követően haladéktalanul megküldött végzéssel értesíti az eljáró bíróságot.
 
 (3) A jogi segítségnyújtó szolgálat a határozat véglegessé válását vagy jogerőre emelkedését követően pártfogó ügyvédként jogi segítőt, kivételesen ügyvédet vagy ügyvédi irodát rendel ki
 
@@ -521,7 +521,7 @@ egyéb tanácsadás
 
 (4) A jogi segítő
 
-- a) a támogatás engedélyezésének, felülvizsgálatának, megvonásának, visszatérítésének a feltételeiről, szükség esetén a (2) bekezdés szerinti igazolási kérelem előterjesztésének lehetőségéről a hozzá a támogatás igénybevétele érdekében vagy tájékoztatásért forduló felet tájékoztatja,
+- a) a támogatás engedélyezésének, felülvizsgálatának, megvonásának, visszatérítésének a feltételeiről a hozzá a támogatás igénybevétele érdekében vagy tájékoztatásért forduló felet tájékoztatja,
 - b) a fél részére a támogatás engedélyezése iránti kérelemhez szükséges nyomtatványokat rendelkezésre bocsátja és kitöltésükben segítséget nyújt.
 
 (5) A jogi segítő a (4) bekezdés szerinti tevékenységéért díjat nem számíthat fel.

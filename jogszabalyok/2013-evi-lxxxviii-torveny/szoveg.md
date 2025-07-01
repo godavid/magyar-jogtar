@@ -337,7 +337,7 @@ meghatározott adat.
 - a) a körözés elrendelésére feladat- és hatáskörrel rendelkező hatóságok vagy szervek a körözés elrendelése céljából,
 - b) a körözési eljárást lefolytató szerv a körözési eljárás lefolytatása céljából,
 - c) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok,
-- d) a Nemzetközi Bűnügyi Együttműködési Központ, illetve nemzetközi szerződésben adattovábbításra feljogosított szerv a más szervek részére történő adatszolgáltatás céljából,
+- d) a rendőrség nemzetközi bűnügyi együttműködési központja, illetve nemzetközi szerződésben adattovábbításra feljogosított szerv a más szervek részére történő adatszolgáltatás céljából,
 - e) az ügyészség a törvényességi felügyelet gyakorlása céljából,
 - f) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv a rendőrségről szóló törvényben meghatározott határrendészeti feladatainak ellátása céljából, továbbá az ezzel kapcsolatos személyazonosság megállapítása céljából,
 - g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv bűnüldözési feladatai ellátása céljából,
@@ -635,7 +635,7 @@ előírja.
 
 16. § (1) E törvény rendelkezéseit a nemzetközi körözésre az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) A Nemzetközi Bűnügyi Együttműködési Központ
+(2) A rendőrség nemzetközi bűnügyi együttműködési központja
 
 - a) más állam hatósága által kezdeményezett, a személy, tárgy felkutatására vagy személy, holttest személyazonosságának megállapítására irányuló megkeresés alapján a körözést elrendeli,
 - b) magyar hatóság vagy szerv által elrendelt körözést más állam hatóságához továbbítja,
@@ -643,11 +643,11 @@ előírja.
 - d) más állam hatóságát értesíti arról, ha az oda továbbított körözést a magyar hatóság vagy szerv visszavonta,
 - e) más állam hatóságát, illetve a körözést elrendelő magyar hatóságot vagy szervet értesíti arról, ha a nemzetközi körözés során a személy, tárgy hollétét, illetve a személy, holttest személyazonosságát megállapították.
 
-(3) Ha a rendőrség nemzetközi körözés során a személy, dolog hollétét, valamint a személy vagy a holttest, holttestrész személyazonosságát megállapította, akkor a Nemzetközi Bűnügyi Együttműködési Központon keresztül értesíti a kezdeményező állam hatóságát, illetve ha a másik állam hatósága állapítja meg a személy, dolog hollétét, valamint a személy vagy a holttest személyazonosságát akkor a Nemzetközi Bűnügyi Együttműködési Központ értesíti az érintett magyar hatóságot vagy szervet.
+(3) Ha a rendőrség nemzetközi körözés során a személy, dolog hollétét, valamint a személy vagy a holttest, holttestrész személyazonosságát megállapította, akkor a rendőrség nemzetközi bűnügyi együttműködési központján keresztül értesíti a kezdeményező állam hatóságát, illetve ha a másik állam hatósága állapítja meg a személy, dolog hollétét, valamint a személy vagy a holttest személyazonosságát akkor a rendőrség nemzetközi bűnügyi együttműködési központja értesíti az érintett magyar hatóságot vagy szervet.
 
-(4) A Nemzetközi Bűnügyi Együttműködési Központ a más állam hatósága által kezdeményezett körözést a megkeresés teljesíthetőségéhez szükséges feltételek meglétének ellenőrzését és megállapítását követően haladéktalanul rendeli el.
+(4) A rendőrség nemzetközi bűnügyi együttműködési központja a más állam hatósága által kezdeményezett körözést a megkeresés teljesíthetőségéhez szükséges feltételek meglétének ellenőrzését és megállapítását követően haladéktalanul rendeli el.
 
-(5) A más állam hatóságának kezdeményezésére elrendelt körözést a kezdeményező hatóság erre irányuló megkeresése esetén a Nemzetközi Bűnügyi Együttműködési Központ a megkeresés kézhezvételét követően haladéktalanul visszavonja.
+(5) A más állam hatóságának kezdeményezésére elrendelt körözést a kezdeményező hatóság erre irányuló megkeresése esetén a rendőrség nemzetközi bűnügyi együttműködési központja a megkeresés kézhezvételét követően haladéktalanul visszavonja.
 
 (6) Ha a más állam hatóságának kezdeményezésére elrendelt körözés visszavonására nem kerül sor, a nyilvántartásban az adatokat a kezdeményező által meghatározott ideig kell nyilvántartani.
 
@@ -865,7 +865,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (3) A körözési eljárást lefolytató szerv a rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 84. § (2) bekezdésében foglalt nyilvántartásokból, valamint az Interpol nyilvántartásából automatizált rendszer-rendszer kapcsolat, valamint közvetlen hozzáférés vagy adatigénylés útján adatot igényelhet a körözési eljárás lefolytatása céljából.
 
-(4) A körözési eljárást lefolytató szerv a körözési eljárás során törvénnyel kihirdetett nemzetközi szerződés alapján a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a körözési eljárást lefolytató szervet. A keresés tényéről és eredményéről az intézkedés befejezését követően értesíteni kell a Nemzetközi Bűnügyi Együttműködési Központot.
+(4) A körözési eljárást lefolytató szerv a körözési eljárás során törvénnyel kihirdetett nemzetközi szerződés alapján a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a körözési eljárást lefolytató szervet. A keresés tényéről és eredményéről az intézkedés befejezését követően értesíteni kell a rendőrség nemzetközi bűnügyi együttműködési központját.
 
 (5) A rendőrség a 2008/615/IB tanácsi határozat alapján a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban bűnüldözés és bűnmegelőzés, valamint a közrend és a közbiztonság fenntartása céljából automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a rendőrséget. E bekezdés alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
 

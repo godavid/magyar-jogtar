@@ -62,7 +62,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 #### 3. A SIRENE Iroda
 
-3. § (1) A SIRENE Iroda az e törvényben és az Európai Unió kötelező jogi aktusaiban meghatározott feladatait a Nemzetközi Bűnügyi Együttműködési Központ látja el.
+3. § (1) A SIRENE Iroda az e törvényben és az Európai Unió kötelező jogi aktusaiban meghatározott feladatait a rendőrség nemzetközi bűnügyi együttműködési központja látja el.
 
 (2) A SIRENE Iroda
 

@@ -854,6 +854,14 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 (6) A fizetési számlát vezető pénzforgalmi szolgáltató lehetővé teszi a fizetés-kezdeményezési szolgáltatást végző vagy a számlainformációs szolgáltatást végző pénzforgalmi szolgáltató számára, hogy megbízható hitelesítési eljárásként hagyatkozhasson azon hitelesítési eljárásokra, amelyeket a fizetési számlát vezető pénzforgalmi szolgáltató az ügyfele részére az (1) és (3) bekezdéssel összhangban, valamint – abban az esetben, ha a fizetési művelet lebonyolításában fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltató is részt vesz – az (1), (2) és (3) bekezdéssel összhangban biztosít.
 
+55/D. § (1) Ha a Hpt. hatálya alá tartozó, fizetési rendszert működtető pénzügyi vállalkozás a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából központi visszaélésszűrő rendszert is működtet, a fizetési rendszerben részt vevő pénzforgalmi szolgáltató a fizetési rendszert működtető pénzügyi vállalkozás részére átadja a pénzügyi vállalkozás által működtetett fizetési rendszerben feldolgozandó, elszámolandó, teljesítendő, forint fizetési megbízásoknak, valamint a pénzforgalmi szolgáltatóhoz benyújtott deviza- és határon átnyúló átutalási megbízásoknak, továbbá a pénzforgalmi szolgáltató saját ügyfelei közötti forint és deviza átutalási megbízásoknak a 2. mellékletben meghatározott adatkörbe tartozó adatait. A pénzfogalmi szolgáltató ezen kötelezettségének a pénzforgalmi szolgáltató saját ügyfelei közötti fizetési megbízásokat kivéve az azonnali átutalási megbízások esetében azoknak a fizetési rendszert működtető pénzügyi vállalkozás felé feldolgozás céljából történő továbbítását megelőzően, egyéb fizetési műveletek esetében a központi visszaélésszűrő rendszert működtető pénzügyi vállalkozás által meghatározott időpontban tesz eleget.
+
+(2) A fizetési rendszerben részt vevő pénzforgalmi szolgáltató a Hpt. hatálya alá tartozó, fizetési rendszert működtető pénzügyi vállalkozás által vállalt feldolgozási határidőn belül nyújtott visszaélési kockázati információkat a pénzforgalmi szolgáltatáshoz kapcsolódóan a fizetésekhez kapcsolódó valamennyi tevékenysége vonatkozásában az 55/A. § (1) bekezdése szerinti keretrendszere keretében veszi figyelembe.
+
+(3) Ha a fizetési rendszerben részt vevő pénzforgalmi szolgáltató a Hpt. hatálya alá tartozó, fizetési rendszert működtető pénzügyi vállalkozás által a fizetési művelet kapcsán nyújtott visszaélési kockázati információhoz kapcsolódóan a (2) bekezdés szerinti intézkedések alapján észszerű okból csalásra gyanakszik, ezt a tényt haladéktalanul jelzi a fizetési rendszert működtető pénzügyi vállalkozásnak.
+
+(4) Ha a (2) és (3) bekezdésben foglaltakat követően értesül a fizetési rendszerben részt vevő pénzforgalmi szolgáltató a Hpt. hatálya alá tartozó, fizetési rendszert működtető pénzügyi vállalkozás által a fizetési művelet kapcsán nyújtott visszaélési kockázati információhoz kapcsolódóan csalás gyanújáról vagy csalásról, ezt a tényt haladéktalanul jelzi a fizetési rendszert működtető pénzügyi vállalkozásnak.
+
 ### X. Fejezet — A PÉNZFORGALMI SZOLGÁLTATÁS NYÚJTÁSÁNAK FELÜGYELETE
 
 ### Fióktelep és határon átnyúló szolgáltatás felügyelete
@@ -1113,6 +1121,11 @@ vonatkozó részletes szabályokat.
 
 (4) Az azonos nyilatkozattevő által több nyilatkozatadat-szolgáltatónál tett nyilatkozat vagy visszavonó rendelkezés esetén a Központi Nyilvántartást kezelő pénzügyi vállalkozás az (1) bekezdés szerinti adatok tekintetében 2014. december 1-jéig biztosítja a 62/G. § (4) bekezdésében foglaltak teljesülését.
 
+66/D. § A gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvénnyel megállapított 55/D. § (1) bekezdésétől eltérően a pénzforgalmi szolgáltatónak a központi visszaélésszűrő rendszert működtető pénzügyi vállalkozás részére
+
+- a) a rendszer működtetésének első 365 napjában kizárólag az azonnali átutalási megbízásokhoz tartozó adatokat kell átadnia,
+- b) a rendszer működtetetésének 730. napjától kell átadnia a deviza- és határon átnyúló átutalási megbízásokhoz tartozó adatokat.
+
 ### Jogharmonizációs záradék
 
 67. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -1314,3 +1327,27 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 - 2. A 62/G. § (2) bekezdés szerinti visszaigazolás
 
 „A NYILATKOZATTÉTEL HATÁLYÁT VESZTETTE, A NYILATKOZAT A PFT. 36/A. § (9) BEKEZDÉS ALAPJÁN VISSZAVONÁSRA KERÜLT.”
+
+### 2. melléklet a 2009. évi LXXXV. törvényhez
+
+#### A pénzforgalmi szolgáltató által az 55/D. § (1) bekezdése alapján a fizetési rendszert működtető pénzügyi vállalkozás részére átadandó adatok köre:
+
+- 1. a fizetési művelethez kapcsolódó, a fizetési rendszerben használt tranzakciós üzenet típusa és azonosítója, vagy ha ez nem ismert, akkor egy ezzel egyenértékű, egyedi azonosítást lehetővé tevő azonosító;
+- 2. információ arról, hogy a fizetési megbízás fizetési kérelemre válaszul került-e kezdeményezésre, ha igen, akkor a fizetési kérelmet küldő neve;
+- 3. információ arról, hogy a fizetési megbízás megadása során alkalmazásra került-e a Magyar Nemzeti Bank elnökének a pénzforgalom lebonyolításáról szóló rendeletében meghatározott egységes adatbeviteli megoldás, és ha igen, akkor az egységes adatbeviteli megoldás kibocsátás típusa és a hozzá kapcsolódó azonosítók;
+- 4. a fizetési művelet típusa;
+- 5. a fizetési művelet összege;
+- 6. amennyiben a fizetési megbízás fizetési kérelemre válaszul került kezdeményezésre, akkor a fizetési kérelem összege;
+- 7. információ arról, hogy a fizetési művelet összege (csoportos átutalás esetében főösszeg) a fizető fél fizetési számlája egyenlegének 0–40, 41–60, 61–80, 81–100 százaléka közötti vagy 100 százaléka feletti tartományba esik;
+- 8. a fizetési művelet pénzneme;
+- 9. a fizetési művelet átvételi időpontja, ideértve a fizetési művelet lebonyolításához használt informatikai rendszerekben generált időbélyegzőket is;
+- 10. a fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatók neve és azonosító kódja;
+- 11. a fizető fél és a kedvezményezett neve, valamint a fizetési számláiknak a pénzforgalmi jelzőszáma, illetve a Magyar Nemzeti Bank elnökének a pénzforgalom lebonyolításáról szóló rendeletében meghatározott másodlagos számlaazonosítója;
+- 12. a fizető fél fizetési számlája megnyitásának időpontja;
+- 13. a fizetési megbízással együtt megadott közlemény;
+- 14. a készpénz-helyettesítő fizetési eszköz azonosítója;
+- 15. a készpénz-helyettesítő fizetési eszközhöz hozzáférést biztosító többfunkciós eszköz, illetve szoftver pénzforgalmi szolgáltató számára elérhető lokációs adata, valamint hálózati azonosítója;
+- 16. a készpénz-helyettesítő fizetési eszköz futtatási környezetének nyelvi beállításokra vonatkozó paraméterei;
+- 17. azon tény, hogy a készpénz-helyettesítő fizetési eszköz igénybevétele esetén történt-e a 2. § 4a. pontjában meghatározott erős ügyfél-hitelesítés;
+- 18. a készpénz-helyettesítő fizetési eszköz igénybevétele esetén erős ügyfél-hitelesítés során alkalmazott elemek fajtája;
+- 19. ha a készpénz-helyettesítő fizetési eszköz igénybevétele esetén nem történt erős ügyfél-hitelesítés, akkor az (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek az erős ügyfél-hitelesítésre, valamint a közös és biztonságos nyílt kommunikációs standardokra vonatkozó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló, 2017. november 27-i (EU) 2018/389 felhatalmazáson alapuló bizottsági rendelet III. fejezetében meghatározott, az erős ügyfél-hitelesítés alóli kivétel fajtája.

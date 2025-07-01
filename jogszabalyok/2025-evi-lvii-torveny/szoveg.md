@@ -74,9 +74,11 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 
 #### 21. §
 
-#### 9.
+#### 9. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-#### 22. §
+22. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény a következő 99/O. §-sal egészül ki:
+
+„99/O. § A TB-kiskönyv megszüntetéséről, valamint a köznevelési, szociális, gyermekvédelmi és fogyatékosságügyi területet érintő egyes törvények módosításáról szóló 2025. évi XXXIV. törvénnyel megállapított 4. § 32a. pontját 2026. július 1-jétől kell alkalmazni. Ezen időpontig tanulmányi rendszer alatt a 2025. június 30. napján hatályos 4. § 32a. pontjában foglaltakat kell érteni.”
 
 #### 10. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
@@ -122,17 +124,43 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 - d)
 - e)
 
-#### 11.
+#### 11. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
-#### 40. §
+40. § A szakképzésről szóló 2019. évi LXXX. törvény 43. §-a helyébe a következő rendelkezés lép:
 
-#### 41. §
+#### „43. § [Az alkalmazottat megillető kedvezmények]
 
-#### 42. §
+(1) A szakképző intézmény 40. § (1) bekezdés a)–d) pontja szerinti alkalmazottjának minden naptári évben évi húsz munkanap pótszabadság jár, amelyből legfeljebb tizenöt munkanapot a munkáltatói jogkör gyakorlója az oktatói tevékenységgel összefüggő munkára igénybe vehet.
 
-#### 43. §
+(2) A szakképző intézmény nagyszülő alkalmazottja az unokája születése esetén öt munkanap pótszabadságot vehet igénybe legkésőbb a születést követő második hónap végéig, amelyet kérésének megfelelő időpontban kell kiadni.”
 
-#### 44. §
+41. § A szakképzésről szóló 2019. évi LXXX. törvény 97. §-a a következő k) ponttal egészül ki:
+
+(A szakképzési államigazgatási szerv)
+
+„k) működteti az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 4. § (1) bekezdés i) pontja szerinti pályakövetési rendszert a szakképzés és felnőttképzés vonatkozásában.”
+
+42. § A szakképzésről szóló 2019. évi LXXX. törvény XV. Fejezete a következő 97/A. §-al egészül ki:
+
+#### „97/A. § [A pályakövetési rendszer]
+
+Az Onytv. 4. § (1) bekezdés i) pontja szerinti pályakövetési rendszer működtetője a kutatás hatékony és eredményes elvégzése érdekében jogosult arra, hogy a – Nemzeti Adatvagyon Ügynökség által a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény alapján nyújtott adatösszekapcsolási-szolgáltatás eredményeként létrejött, a működtető rendelkezésére bocsátott, a kutatásban részt vevő személyekre vonatkozó – az Onytv. 6/A. § (1) és (2) bekezdése, valamint 1/A. és 3/A. melléklete szerinti – személyes adatokat álnevesített módon kezelje.”
+
+43. § (1) A szakképzésről szóló 2019. évi LXXX. törvény 123. § (2) bekezdése a következő 51. és 52. ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
+
+„51. a szakmai oktatáshoz kapcsolódó mikrotanúsítvány megszerzésének feltételeit, a szakképző intézmény által kiállított mikrotanúsítványok tartalmának, kiállításának és nyilvántartásának szabályait,
+
+52. a szakképző intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozást.”
+
+(2) A szakképzésről szóló 2019. évi LXXX. törvény 123. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a szakképzésért felelős miniszter, hogy)
+
+„a) rendeletben állapítsa meg a tanév és ezen belül a tanítási év időbeli ütemezésének rendjét, valamint a tanév szervezésével kapcsolatos feladatokat,”
+
+44. § A szakképzésről szóló 2019. évi LXXX. törvény 9. § (4) bekezdésében a „feltételekkel” szövegrész helyébe a „feltételekkel, illetve köznevelési alapfeladat-ellátás szerinti középfokú iskolai továbbtanulásra történő felkészítéssel kiegészülve” szöveg lép.
 
 #### 12. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 

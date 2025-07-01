@@ -28,9 +28,25 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 8. §
 
-#### 9. §
+9. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény VII. Fejezete a következő 36/B. §-sal egészül ki:
 
-10. § (1)
+„36/B. § (1) A személyazonosító igazolvány belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat kell fizetni, kivéve
+
+- a) a korábbi személyazonosító igazolvány gyártáshibája esetén,
+- b) a tévesen bejegyzett adatok helyesbítése esetén,
+- c) a korábbi állandó személyazonosító igazolvány tároló elemének nem működése esetén vagy, ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az igazolványnak a személyiadat- és lakcímnyilvántartásban szereplő adatait, vagy
+- d) a korábbi állandó személyazonosító igazolvány 29. § (1) bekezdésében meghatározott elektronikus szolgáltatásainak nem megfelelő működésekor.
+
+(2) A személyi azonosítót és lakcímet igazoló hatósági igazolvány belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat kell fizetni, kivéve
+
+- 1. a tévesen bejegyzett adatok helyesbítése vagy a hatósági igazolvány gyártmányhibája esetén, vagy
+- 2. a központi címregiszterbe bejegyzett címelemek megváltozása miatt költözéssel nem járó lakcímváltozás esetén.”
+
+10. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 47. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(A miniszter felhatalmazást kap arra, hogy rendeletben szabályozza)
+
+„d) az adópolitikáért felelős miniszterrel egyetértésben a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért, kézbesítéséért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;”
 
 (2)
 
@@ -54,13 +70,21 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 16. §
 
-#### 17. §
+17. § A külföldre utazásról szóló 1998. évi XII. törvény a következő 21/D. §-sal egészül ki:
+
+„21/D. § Nem kell az úti okmány belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat fizetni
+
+- a) kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett eljárás esetén,
+- b) a korábbi okmány gyártáshibája esetén,
+- c) a korábbi okmány tároló elemének nem működése esetén, vagy ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az okmánynak az útiokmány-nyilvántartásban szereplő adatait.”
 
 #### 18. §
 
 #### 19. §
 
-#### 20. §
+20. § A külföldre utazásról szóló 1998. évi XII. törvény 28. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni. Mentes a díjfizetési kötelezettség alól a települési önkormányzat, a költségvetési szerv, a közjegyző, az önálló bírósági végrehajtó, illetve törvényben meghatározott egyéb szerv vagy személy.”
 
 #### 4. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
@@ -136,13 +160,33 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 45. §
 
-#### 46. §
+46. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény HETEDIK Része a következő 57/C. alcímmel egészül ki:
+
+#### „57/C. Az európai digitális személyiadat-tárcákra vonatkozó keret felügyelete
+
+112/G. § (1) Az európai digitális személyiadat-tárcákra vonatkozó keret eIDAS Rendelet 46a. cikke szerinti felügyeletét ellátó hatóság a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: európai digitális személyiadat-tárca felügyelet).
+
+(2) Az európai digitális személyiadat-tárca felügyelet (1) bekezdésben megjelölt feladatát a Kormány rendeletében meghatározott részletszabályok szerint végzi.
+
+(3) Az európai digitális személyiadat-tárca felügyelet hatósági eljárásaiért igazgatási szolgáltatási díjat kell fizetni.”
 
 #### 47. §
 
 #### 48. §
 
-#### 49. §
+49. § (1) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 115. § (1) bekezdés 2. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg:)
+
+„2. az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek és az európai digitális személyiadat-tárca felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,”
+
+(2) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 115. § (1) bekezdése a következő 4–5. ponttal egészül ki:
+
+(Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg:)
+
+„4. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet és az önkéntesen csatlakozott szervezet által fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját,
+
+5. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet számára az aktivált felhasználói profillal rendelkező felhasználó adatainak és adatváltozásainak az aggregátum szolgáltatás keretében történő rendelkezésre bocsátásáért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját.”
 
 #### 50. §
 

@@ -509,7 +509,7 @@ teljesítendő adatközlésre köteles.
 
 (3) A kényszerintézkedés és egyéb korlátozás megszüntetését – a (3a) bekezdésében meghatározott kivétellel – a határozatot hozó bíróság vagy ügyészség közli a bűnügyi nyilvántartó szervvel.
 
-(3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az ideiglenes kiadatási bűnügyi felügyelet, az átadási letartóztatás, az ideiglenes átadási letartóztatás vagy az ideiglenes átadási bűnügyi felügyelet azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a Nemzetközi Bűnügyi Együttműködési Központ közli a bűnügyi nyilvántartó szervvel.
+(3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az ideiglenes kiadatási bűnügyi felügyelet, az átadási letartóztatás, az ideiglenes átadási letartóztatás vagy az ideiglenes átadási bűnügyi felügyelet azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a rendőrség nemzetközi bűnügyi együttműködési központja közli a bűnügyi nyilvántartó szervvel.
 
 (4) A 30/C. § j) pontjában meghatározott adatot a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
 
@@ -954,7 +954,7 @@ részére tett nyilatkozatával tiltakozzon.
 - c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból, megbízhatósági vizsgálat, illetve kifogástalan életvitele ellenőrzés céljából,
 - d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi feladatai ellátása céljából,
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
-- f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
+- f) a rendőrség nemzetközi bűnügyi együttműködési központja a 84. § b) pontjában meghatározott feladatai ellátása céljából,
 - g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés a), c), h) és k) pontjában, valamint 8/A. § (3) bekezdésében meghatározott feladatai ellátása céljából,
 - h) az általános rendőri feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személy- és létesítményvédelmi feladatainak ellátása céljából.
 - i) az utasadat-információs egység az utasadatok kockázatelemzése céljából.
@@ -1171,7 +1171,7 @@ előírja.
 
 (8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt
 
-- a) elektronikus úton, a kérelmező hivatalos elérhetőségére,
+- a) elektronikus úton, a kérelmező hivatalos elérhetőségére, valamint erre irányuló kérelmére, az általa megjelölt címzett elektronikus levelezési címére is,
 - b) a kérelmező részére, belföldi címére,
 - c) a kérelmező által megjelölt címzett belföldi címére,
 - d) Magyarország diplomáciai vagy konzuli képviselete útján
@@ -1197,6 +1197,7 @@ kézbesíti.
 - d) a 71. § (5) bekezdés a)–e) pontjában meghatározott azon tényt, amelynek igazolását a kérelmező hatósági erkölcsi bizonyítványban kéri,
 - e) ha a kérelmező a 71. § (5) bekezdés a) pontjában meghatározott tény igazolását kéri, az igazolandó feltételeket meghatározó törvényi rendelkezés megjelölését,
 - f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papíralapon nyújtja be, a kérelmező saját kezű aláírását.
+- g) a kérelmező nyilatkozatát arról, ha a hatósági erkölcsi bizonyítvány kiállítását annak külföldön történő felhasználása céljából papíralapon kéri.
 
 (3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránt indult eljárásában – külön ellenőrzés nélkül – a kérelmező által a kérelmében a (2) bekezdés a) pont ae) alpontja szerint megadott adatot alapul véve jár el.
 
@@ -1228,8 +1229,10 @@ felfüggeszti.
 
 (2) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt
 
-- a) digitális biztonsági okmányként állítja ki, ha a kérelmező az elektronikus úton előterjesztett kérelmét a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti keretalkalmazáson keresztül nyújtja be,
-- b) papíralapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki, ha a kérelmező a kérelmét az a) ponton kívüli bármely más, a 72. § (1) bekezdése szerinti kérelmezési lehetőséggel élve nyújtja be.
+- a) digitális biztonsági okmányként állítja ki,
+- b) papír alapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki, ha
+  - ba) a kérelmező nem rendelkezik a 71. § (8) bekezdés a) pontja szerinti hivatalos elérhetőséggel,
+  - bb) a kérelmező a kérelmében a hatósági erkölcsi bizonyítvány külföldön történő felhasználása céljából kéri annak papír alapon történő kiállítását.
 
 (3) A digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány a külön jogszabályban meghatározott okmányvédelmi kategóriájának megfelelő biztonsági megoldásokkal rendelkezik, amelyben a formátum, az adatok és az azok hitelességét igazoló tényezők összetartozóak, egymástól nem választhatóak el. A digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány Magyarországon történő felhasználás céljából állítható ki és kizárólag digitális formában érvényes.
 
@@ -1256,11 +1259,11 @@ lehet benyújtani.
 
 (4) Külföldi kérelem előterjesztése esetén a hatósági erkölcsi bizonyítványt a bűnügyi nyilvántartó szerv a kérelmező erre irányuló kérelmére
 
-- a) elektronikus közokiratként állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti,
+- a) digitális biztonsági okmányként állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti,
 - b) papíralapon állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti, vagy
 - c) papíralapon állítja ki, és a kérelmező által meghatározott címzett részére és annak belföldi kézbesítési címére kézbesíti.
 
-(5) A hivatásos konzuli tisztviselő az elektronikus közokiratként kiállított hatósági erkölcsi bizonyítványról papíralapú hiteles másolatot állít ki. A konzuli tisztviselő hitelesítésével így kiállított okirat a konzuli tisztviselő működése szerinti diplomáciai vagy konzuli képviselet konzuli kerületében hitelesen és teljeskörűen igazolja a benne foglalt adattartalmat.
+(5) A hivatásos konzuli tisztviselő a digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítványról papíralapú hiteles másolatot állít ki. A konzuli tisztviselő hitelesítésével így kiállított okirat a konzuli tisztviselő működése szerinti diplomáciai vagy konzuli képviselet konzuli kerületében hitelesen és teljeskörűen igazolja a benne foglalt adattartalmat.
 
 (6) A kérelmezőnek a konzuli tisztviselő eljárásban való közreműködéséért, illetve az elektronikus úton továbbított bizonyítványról történő hiteles másolat kiállításáért jogszabályban meghatározott konzuli díjat kell fizetnie.
 
@@ -1272,7 +1275,7 @@ lehet benyújtani.
 
 (2) A tájékoztatásra irányuló, kizárólag elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével benyújtható kérelemben a 74. § (1) bekezdés a)–c) és e) pontjában meghatározott minden adatot fel kell tüntetni.
 
-(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, ellenőrzési lehetőséget biztosít az általa digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány kiállításának tényéről, érvényességéről és hitelességéről.
+(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, ellenőrzési lehetőséget biztosít az általa digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány kiállításának tényéről, érvényességéről és hitelességéről. Az elektronikus felületről az ellenőrzés elvégzésének ténye és eredménye letölthető és kinyomtatható.
 
 ### A gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyekre vonatkozó adatok megismerhetővé tétele
 
@@ -1563,7 +1566,7 @@ továbbítja.
 84. § EGT-tagállam, harmadik ország valamint nemzetközi szervezet részére történő adattovábbítás céljából a bűnügyi nyilvántartási rendszerből, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásából adatot igényelhet, valamint – ha erre e törvény alapján jogosult – közvetlen hozzáféréssel adatot vehet át:
 
 - a) a nemzetközi bűnügyi jogsegélyről szóló törvény vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján a bűnügyi jogsegély teljesítésére felhatalmazott magyar hatóság törvénnyel kihirdetett nemzetközi szerződésen vagy az Európai Unió kötelező jogi aktusán alapuló bűnügyi jogsegélykérelem teljesítése céljából a törvényben, valamint a nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott adatkörben,
-- b) a Nemzetközi Bűnügyi Együttműködési Központ, valamint a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény alapján közvetlen információcserére feljogosított magyar bűnüldözési feladatot ellátó szerv a bűnüldöző szervek nemzetközi együttműködésének tárgyában létrehozott, törvénnyel kihirdetett nemzetközi szerződés alapján, valamint az Európai Unió kötelező jogi aktusain alapuló információcsere teljesítése céljából a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, az Európai Unió kötelező jogi aktusában, továbbá a nemzetközi szerződésben meghatározott adatkörben,
+- b) a rendőrség nemzetközi bűnügyi együttműködési központja, valamint a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény alapján közvetlen információcserére feljogosított magyar bűnüldözési feladatot ellátó szerv a bűnüldöző szervek nemzetközi együttműködésének tárgyában létrehozott, törvénnyel kihirdetett nemzetközi szerződés alapján, valamint az Európai Unió kötelező jogi aktusain alapuló információcsere teljesítése céljából a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, az Európai Unió kötelező jogi aktusában, továbbá a nemzetközi szerződésben meghatározott adatkörben,
 - c) a SIRENE Iroda a Schengeni Információs Rendszer második generációja keretében történő információcseréről szóló törvény szerinti kiegészítő információk beszerzése és továbbítása céljából a bűntettesek nyilvántartásába, a büntetőeljárás hatálya alatt állók nyilvántartásába, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett adatokból.
 
 ### Automatikus találati adathozzáférés
@@ -1610,29 +1613,29 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 
 ### Az automatikus találati adathozzáférés során elért találatot követő eljárás
 
-86/A. § (1) Ha a szakértői nyilvántartó szerv a 85. § (2) bekezdése alapján szakrendszeri azonosító kódot küldött az együttműködő tagállam nemzeti kapcsolattartó pontja részére, és az együttműködő tagállam ezt követően a bűnügyi jogsegély, vagy a bűnüldöző szervek nemzetközi együttműködése keretében kérelemmel fordult a magyar szervekhez a szakrendszeri azonosító kódhoz tartozó további személyes adatok továbbítása érdekében, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság megkeresi a szakértői nyilvántartó szervet a megkapott szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok továbbítása érdekében.
+86/A. § (1) Ha a szakértői nyilvántartó szerv a 85. § (2) bekezdése alapján szakrendszeri azonosító kódot küldött az együttműködő tagállam nemzeti kapcsolattartó pontja részére, és az együttműködő tagállam ezt követően a bűnügyi jogsegély, vagy a bűnüldöző szervek nemzetközi együttműködése keretében kérelemmel fordult a magyar szervekhez a szakrendszeri azonosító kódhoz tartozó további személyes adatok továbbítása érdekében, a rendőrség nemzetközi bűnügyi együttműködési központja, az ügyészség vagy a bíróság megkeresi a szakértői nyilvántartó szervet a megkapott szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok továbbítása érdekében.
 
-(2) A szakértői nyilvántartó szerv a 68. § (10) bekezdése alapján közvetlen hozzáféréssel történő adatátvétellel átveszi a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásából a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatokat. Az átvett személyazonosító adatokat haladéktalanul megküldi az személyazonosító adatok továbbítását kérő Nemzetközi Bűnügyi Együttműködési Központnak, ügyészségnek vagy bíróságnak.
+(2) A szakértői nyilvántartó szerv a 68. § (10) bekezdése alapján közvetlen hozzáféréssel történő adatátvétellel átveszi a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásából a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatokat. Az átvett személyazonosító adatokat haladéktalanul megküldi a személyazonosító adatok továbbítását kérő rendőrség nemzetközi bűnügyi együttműködési központjának, ügyészségnek vagy bíróságnak.
 
-(3) A Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság a (2) bekezdés alapján átvett személyazonosító adatokat a bűnügyi jogsegélyre, vagy a bűnüldöző szervek nemzetközi együttműködésére vonatkozó törvények alapján továbbítja az együttműködő tagállamnak.
+(3) A rendőrség nemzetközi bűnügyi együttműködési központja, az ügyészség vagy a bíróság a (2) bekezdés alapján átvett személyazonosító adatokat a bűnügyi jogsegélyre, vagy a bűnüldöző szervek nemzetközi együttműködésére vonatkozó törvények alapján továbbítja az együttműködő tagállamnak.
 
-(4) Ha az együttműködő tagállam a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok birtokában a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében további, a bűnügyi nyilvántartási rendszerben kezelt adatok továbbítását kéri, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság közvetlen hozzáféréssel átveszi a bűnügyi nyilvántartási rendszerből azokat a személyes adatokat, amelyeket az együttműködő tagállam a kérelmében kifejezetten megjelölt.
+(4) Ha az együttműködő tagállam a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok birtokában a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében további, a bűnügyi nyilvántartási rendszerben kezelt adatok továbbítását kéri, a rendőrség nemzetközi bűnügyi együttműködési központja, az ügyészség vagy a bíróság közvetlen hozzáféréssel átveszi a bűnügyi nyilvántartási rendszerből azokat a személyes adatokat, amelyeket az együttműködő tagállam a kérelmében kifejezetten megjelölt.
 
-86/B. § (1) Ha a szakértői nyilvántartó szerv a 85. § (5) bekezdése alapján szakrendszeri azonosító kódot küldött az összehasonlítást kérő bűnüldözési feladatot ellátó szervnek, előkészítő eljárást folytató szervnek, nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv, az ügyészség kivételével az előkészítő eljárást folytató szerv és a nyomozó hatóság a kérelmét a Nemzetközi Bűnügyi Együttműködési Központon keresztül továbbítja az együttműködő tagállamnak.
+86/B. § (1) Ha a szakértői nyilvántartó szerv a 85. § (5) bekezdése alapján szakrendszeri azonosító kódot küldött az összehasonlítást kérő bűnüldözési feladatot ellátó szervnek, előkészítő eljárást folytató szervnek, nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv, az ügyészség kivételével az előkészítő eljárást folytató szerv és a nyomozó hatóság a kérelmét a rendőrség nemzetközi bűnügyi együttműködési központján keresztül továbbítja az együttműködő tagállamnak.
 
 (2) Ha ez a bűnmegelőzés vagy a büntetőeljárás lefolytatása céljából szükséges, a személyazonosító adatok birtokában az összehasonlítást kérő bűnüldözési feladatot ellátó szerv, az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség vagy a bíróság az együttműködő tagállamtól kérheti az érintett személlyel kapcsolatos további bűnügyi személyes adatok továbbítását. A bűnügyi személyes adatokat a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében vagy a 79. § alapján a bűnügyi nyilvántartó szerv útján lehet igényelni.
 
-86/C. § (1) Ha a szakértői nyilvántartó szerv a 85. § (8) bekezdése alapján szakrendszeri azonosító kódot küldött valamely előkészítő eljárást folytató szervnek, nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv, az ügyészség kivételével az előkészítő eljárást folytató szerv és a nyomozó hatóság a kérelmét a Nemzetközi Bűnügyi Együttműködési Központon keresztül továbbítja az együttműködő tagállamnak.
+86/C. § (1) Ha a szakértői nyilvántartó szerv a 85. § (8) bekezdése alapján szakrendszeri azonosító kódot küldött valamely előkészítő eljárást folytató szervnek, nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv, az ügyészség kivételével az előkészítő eljárást folytató szerv és a nyomozó hatóság a kérelmét a rendőrség nemzetközi bűnügyi együttműködési központján keresztül továbbítja az együttműködő tagállamnak.
 
 (2) A személyazonosító adatok birtokában az az előkészítő eljárást folytató szerv, nyomozó hatóság, ügyészség vagy bíróság, amelynek eljárásában a DNS-profil meghatározásának alapjául szolgáló anyagmaradvány rögzítésére sor került, az együttműködő tagállamtól kérheti az érintett személlyel kapcsolatos további bűnügyi személyes adatok továbbítását. A bűnügyi személyes adatokat a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében vagy a 79. § alapján a bűnügyi nyilvántartó szerv útján lehet igényelni.
 
-86/D. § (1) Ha a szakértői nyilvántartó szerv a 86. § (2) bekezdése alapján szakrendszeri azonosító kódot küldött a Megállapodás alapján kijelölt nemzeti kapcsolattartó pont részére, és az Amerikai Egyesült Államok hatáskörrel rendelkező szerve ezt követően a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében kérelemmel fordult a magyar szervekhez a szakrendszeri azonosító kódhoz tartozó további személyes adatok továbbítása érdekében, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság megkeresi a szakértői nyilvántartó szervet a megkapott szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok továbbítása érdekében.
+86/D. § (1) Ha a szakértői nyilvántartó szerv a 86. § (2) bekezdése alapján szakrendszeri azonosító kódot küldött a Megállapodás alapján kijelölt nemzeti kapcsolattartó pont részére, és az Amerikai Egyesült Államok hatáskörrel rendelkező szerve ezt követően a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében kérelemmel fordult a magyar szervekhez a szakrendszeri azonosító kódhoz tartozó további személyes adatok továbbítása érdekében, a rendőrség nemzetközi bűnügyi együttműködési központja, az ügyészség vagy a bíróság megkeresi a szakértői nyilvántartó szervet a megkapott szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok továbbítása érdekében.
 
-(2) A szakértői nyilvántartó szerv a 68. § (10) bekezdése alapján közvetlen hozzáféréssel történő adatátvétellel átveszi a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásából a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatokat. Az átvett személyazonosító adatokat haladéktalanul megküldi az személyazonosító adatok továbbítását kérő Nemzetközi Bűnügyi Együttműködési Központnak, ügyészségnek vagy bíróságnak.
+(2) A szakértői nyilvántartó szerv a 68. § (10) bekezdése alapján közvetlen hozzáféréssel történő adatátvétellel átveszi a bűnügyi nyilvántartási rendszer személyazonosító adatok és fényképek nyilvántartásából a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatokat. Az átvett személyazonosító adatokat haladéktalanul megküldi az személyazonosító adatok továbbítását kérő rendőrség nemzetközi bűnügyi együttműködési központjának, ügyészségnek vagy bíróságnak.
 
-(3) A Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság a (2) bekezdés alapján átvett személyazonosító adatokat a bűnügyi jogsegélyre vagy a bűnüldöző szervek nemzetközi együttműködésére vonatkozó törvények alapján továbbítja az együttműködő tagállamnak.
+(3) A rendőrség nemzetközi bűnügyi együttműködési központja, az ügyészség vagy a bíróság a (2) bekezdés alapján átvett személyazonosító adatokat a bűnügyi jogsegélyre vagy a bűnüldöző szervek nemzetközi együttműködésére vonatkozó törvények alapján továbbítja az együttműködő tagállamnak.
 
-(4) Ha az Amerikai Egyesült Államok hatáskörrel rendelkező szerve a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok birtokában a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében további, a bűnügyi nyilvántartási rendszerben kezelt adatok továbbítását kéri, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság közvetlen hozzáféréssel átveszi a bűnügyi nyilvántartási rendszerből azokat a személyes adatokat, amelyeket az együttműködő tagállam a kérelmében kifejezetten megjelölt.
+(4) Ha az Amerikai Egyesült Államok hatáskörrel rendelkező szerve a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok birtokában a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében további, a bűnügyi nyilvántartási rendszerben kezelt adatok továbbítását kéri, a rendőrség nemzetközi bűnügyi együttműködési központja, az ügyészség vagy a bíróság közvetlen hozzáféréssel átveszi a bűnügyi nyilvántartási rendszerből azokat a személyes adatokat, amelyeket az együttműködő tagállam a kérelmében kifejezetten megjelölt.
 
 86/E. § E fejezetnek az Európai Unió tagállamára vonatkozó rendelkezéseit az Egyesült Királyság tekintetében is alkalmazni kell.
 

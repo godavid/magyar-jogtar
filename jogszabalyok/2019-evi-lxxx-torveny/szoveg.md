@@ -113,7 +113,7 @@ keretében az Fktv. szerint a felnőttképzési tevékenység folytatására eng
 
 (3) A duális képzőhely a szakirányú oktatás keretében vesz részt a szakképzésben.
 
-(4) A szakképzésért felelős miniszter engedélyével a szakképzési rendszer fejlesztése céljából a szakképzés kísérleti jelleggel az e törvénytől eltérő feltételekkel is megszervezhető.
+(4) A szakképzésért felelős miniszter engedélyével a szakképzési rendszer fejlesztése céljából a szakképzés kísérleti jelleggel az e törvénytől eltérő feltételekkel, illetve köznevelési alapfeladat-ellátás szerinti középfokú iskolai továbbtanulásra történő felkészítéssel kiegészülve is megszervezhető.
 
 #### 10. § [A szakmajegyzék]
 
@@ -713,7 +713,9 @@ tekintetében. Az e bekezdés szerinti eljárásban jogi és igazgatási képzé
 
 #### 43. § [Az alkalmazottat megillető kedvezmények]
 
-A szakképző intézmény 40. § (1) bekezdés a)–d) pontja szerinti alkalmazottjának minden naptári évben évi húsz munkanap pótszabadság jár, amelyből legfeljebb tizenöt munkanapot a munkáltatói jogkör gyakorlója az oktatói tevékenységgel összefüggő munkára igénybe vehet.
+(1) A szakképző intézmény 40. § (1) bekezdés a)–d) pontja szerinti alkalmazottjának minden naptári évben évi húsz munkanap pótszabadság jár, amelyből legfeljebb tizenöt munkanapot a munkáltatói jogkör gyakorlója az oktatói tevékenységgel összefüggő munkára igénybe vehet.
+
+(2) A szakképző intézmény nagyszülő alkalmazottja az unokája születése esetén öt munkanap pótszabadságot vehet igénybe legkésőbb a születést követő második hónap végéig, amelyet kérésének megfelelő időpontban kell kiadni.
 
 #### 9. A szakképző intézmény vezetői
 
@@ -1411,6 +1413,11 @@ A szakképzési államigazgatási szerv
 - h) koordinálja az életpálya-tanácsadás és a pályaorientáció ellátásában részt vevő személyek tevékenységét,
 - i) a szakképzés ellenőrzése keretében végzi a szakképző intézmény minőségirányítási rendszerének külső értékelését,
 - j) végzi a jogszabályban meghatározott egyéb feladatokat.
+- k) működteti az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 4. § (1) bekezdés i) pontja szerinti pályakövetési rendszert a szakképzés és felnőttképzés vonatkozásában.
+
+#### 97/A. § [A pályakövetési rendszer]
+
+Az Onytv. 4. § (1) bekezdés i) pontja szerinti pályakövetési rendszer működtetője a kutatás hatékony és eredményes elvégzése érdekében jogosult arra, hogy a – Nemzeti Adatvagyon Ügynökség által a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény alapján nyújtott adatösszekapcsolási-szolgáltatás eredményeként létrejött, a működtető rendelkezésére bocsátott, a kutatásban részt vevő személyekre vonatkozó – az Onytv. 6/A. § (1) és (2) bekezdése, valamint 1/A. és 3/A. melléklete szerinti – személyes adatokat álnevesített módon kezelje.
 
 ### XVI. Fejezet — A SZAKKÉPZÉS EGYÜTTMŰKÖDÉSI RENDSZERE
 
@@ -1823,10 +1830,12 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
 - 49. az akkreditált szakképzési vizsgaközpont tevékenységének folytatásához szükséges engedélyezési eljárás és követelményrendszer részletes szabályait, ellenőrzésének részletes szabályait, a nyilvántartásból való törlés eseteit,
 - 50. a képesítő vizsga rendjét, a képesítő vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a képesítő vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a képesítő vizsgával kapcsolatos adatszolgáltatásnak és a képesítő vizsga ellenőrzésének részletes szabályait, a képesítő vizsgával összefüggésben az akkreditált szakképzési vizsgaközpont döntése, intézkedése vagy intézkedésének elmulasztása felülvizsgálatának szabályait.
+- 51. a szakmai oktatáshoz kapcsolódó mikrotanúsítvány megszerzésének feltételeit, a szakképző intézmény által kiállított mikrotanúsítványok tartalmának, kiállításának és nyilvántartásának szabályait,
+- 52. a szakképző intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozást.
 
 (3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy
 
-- a) rendeletben állapítsa meg a tanév és ezen belül a tanítási év időbeli ütemezésének rendjét,
+- a) rendeletben állapítsa meg a tanév és ezen belül a tanítási év időbeli ütemezésének rendjét, valamint a tanév szervezésével kapcsolatos feladatokat,
 - b) az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
 - c) rendeletben állapítsa meg az engedéllyel rendelkező akkreditált szakképzési vizsgaközpontok szakmai vizsgáztatással összefüggő ellenőrzése során kiszabott bírság befizetésének rendjét,
 - d) az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a 14/A. § (5) bekezdése szerinti igazgatási szolgáltatási díjak mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.

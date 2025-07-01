@@ -551,7 +551,7 @@ jogosult kezelni.
 - q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait;
 - r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 - s) állapítsa meg az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás részletes szabályait.
-- t) állapítsa meg a fizetési közreműködő igénybevételének részletes szabályait, a fizetési közreműködővel szemben támasztott követelményeket, valamint a fizetési közreműködőkkel történő szerződéskötés alapvető szabályait.
+- t)
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -560,7 +560,7 @@ jogosult kezelni.
 - c) rendeletben állapítsa meg az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján – az útdíjköteles elemi útszakaszok használatáért fizetendő infrastruktúradíj, valamint a külsőköltségdíj mértékét,
 - d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;
 - e) rendeletben jelölje ki a tanúsító szervet,
-- f)
+- f) rendeletben állapítsa meg a fizetési közreműködő igénybevételének részletes szabályait, a fizetési közreműködővel szemben támasztott követelményeket, valamint a fizetési közreműködőkkel történő szerződéskötés alapvető szabályait.
 
 (3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
 

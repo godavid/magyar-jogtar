@@ -452,6 +452,7 @@ kezeli a gyermekvédelmi intézményben foglalkoztatottnak és a pályázónak a
 - g) az utógondozás elrendelése,
 - h) az utógondozói ellátás elrendelése,
 - i) a megelőző pártfogás elrendelése.
+- j) a születendő gyermek haza nem adhatóságának megállapítása.
 
 (5) A gyermekvédelmi rendszer része a bíróság által javítóintézeti nevelésre utalt, illetve letartóztatásba helyezett fiatalkorúak javítóintézeti ellátása. A fiatalkorúak javítóintézeti neveléséről külön törvény rendelkezik.
 
@@ -793,6 +794,18 @@ kell biztosítani.
 (7) A tantermen kívüli, digitális munkarendben megszervezett nevelés-oktatás, óvoda esetében a nevelési évben munkanapra az Nkt. 30. § (5) bekezdése alapján elrendelt rendkívüli szünet, valamint bölcsőde és mini bölcsőde esetében a nevelési évben munkanapra elrendelt rendkívüli zárvatartás időtartama alatt, kivéve ha az adott időtartamban a 21/C. §-ban foglaltak szerint szünidei gyermekétkeztetést kell biztosítani, az intézményi gyermekétkeztetést a szülő, más törvényes képviselő kérelmére – elvitel vagy kiszállítás formájában – az (1)–(6) bekezdés szerint kell biztosítani.
 
 (8) Ha a gyermek, tanuló a lakóhelyétől, tartózkodási helyétől eltérő településen jár bölcsődébe, mini bölcsődébe, köznevelési vagy szakképző intézménybe, és a szülő, más törvényes képviselő a gyermek számára az intézményi gyermekétkeztetést igényli, akkor azt a (7) bekezdés szerinti időtartam alatt a feladatellátásra kötelezett szerv helyett a gyermek, tanuló lakóhelye, tartózkodási helye szerinti települési önkormányzat biztosíthatja.
+
+(9) Az Nktv. 4. § 32a. pontja szerinti tanulmányi rendszert, vagy a szakképzésről szóló 2019. évi LXXX. törvény 7. § 8a. pontjában meghatározott tanulmányi rendszert (a továbbiakban együtt: tanulmányi rendszer) használó köznevelési vagy szakképző intézmény tekintetében az (1) bekezdés szerinti gyermekétkeztetést biztosító szerv a tanulmányi rendszer üzemeltetőjével együttműködve olyan rendszert üzemeltet, amely a tanulmányi rendszerrel együtt alkalmas arra, hogy
+
+- a) a lehetséges étkezés kiválasztására és a későbbi lehetséges módosítások teljeskörű kezelésére, az étkezéssel kapcsolatos tanulói és szülői – a tanulmányi rendszeren keresztüli – kommunikáció biztosítására,
+- b) az étkezéssel kapcsolatos díjak és támogatások be- és kifizetésére és az ezzel kapcsolatos teljeskörű ügyintézésre és bizonylatolásra,
+- c) az étkeztetés során a tanuló részére megrendelt étkezési jogosultság megjelenítésére, az étkezés megtörténtének a tanulmányi rendszerbe történő rögzítésére,
+- d) az étkezés térítési díjához figyelembe vehető adatok és dokumentumok rögzítésére, tárolására, az ezzel kapcsolatos adatszolgáltatás biztosítására, az étkezéssel kapcsolatosan megállapított aktuális terítési díjak és kedvezmények idősoros tárolására, valamint
+- e) az étkezéssel kapcsolatos egyéb adatszolgáltatásra
+
+szükséges nyilatkozatokat és az az étkezéssel kapcsolatos funkciók elérését a szülő, a tanuló, a köznevelési vagy szakképző intézmény a tanulmányi rendszerén keresztül tehesse meg, illetve érhesse el azokat, továbbá a keletkezett adatok és dokumentumok a tanulmányi rendszerben kerüljenek tárolásra.
+
+(10) A (9) bekezdésben foglalt cél egységes megvalósítása érdekében a köznevelési intézménynek vagy szakképző intézménynek azon fenntartója, amely bölcsődét is fenntart, a tanulmányi rendszert a bölcsőde tekintetében is használhatja. Ebben az esetben a bölcsődét a tanulmányi rendszer használata tekintetében köznevelési intézménynek kell tekinteni.
 
 ### Ingyenes és kedvezményes intézményi gyermekétkeztetés
 
@@ -1194,7 +1207,14 @@ a kérelmezővel, illetve törvényes képviselőjével írásban megállapodás
 
 (5) Ha a (2) bekezdésben meghatározott kizáró feltételek nem állnak fenn, a kapcsolattartásra jogosult az átmeneti gondozásban részesülő gyermeket a bentlakásos gyermekintézmény házirendje vagy a helyettes szülői hálózatot működtető szolgáltatóval, intézménnyel történt előzetes egyeztetés szerint, a gondozás helyszínén látogathatja. A látogatás alkalmával biztosítani kell a kapcsolattartás kulturált és zavartalan körülményeit. Átmeneti gondozásban részesülő gyermek esetén a kapcsolattartásról a gyámhatóság kérelemre dönt. A gyámhatóság szükség esetén felügyelt kapcsolattartást rendel el.
 
-(6) Az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermekkel történő kapcsolattartásról a gyámhatóság hivatalból dönt. A gyermek legfeljebb két napra történő eltávozását és két napnál hosszabb időtartamú szabadságát a gyermekvédelmi gyám engedélyezi, ha arra a gyámhatóság döntésében felhatalmazta. A gyermekvédelmi gyám jelzi a gyámhatóságnak, ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyermek gondozási helyét biztosító személy, intézmény között vita keletkezik.
+(6) A gyámhatóság hivatalból dönt
+
+- a) az 51. § (5) és (10) bekezdése alapján krízisközpontban vagy titkos menedékházban ellátott gyermekkel és
+- b) az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermekkel
+
+történő kapcsolattartásról.
+
+(6a) Az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermek legfeljebb két napra történő eltávozását és két napnál hosszabb időtartamú szabadságát a gyermekvédelmi gyám engedélyezi, ha arra a gyámhatóság döntésében felhatalmazta. A gyermekvédelmi gyám jelzi a gyámhatóságnak, ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyermek gondozási helyét biztosító személy, intézmény között vita keletkezik.
 
 (7) Az örökbefogadhatónak nyilvánítás szempontjából nem tekinthető rendszeres kapcsolattartásnak a levélírás, a telefonhívás, a csomagküldés és a gyámhatóság határozatában szabályozottól jelentősen eltérő félévenkénti egy-két látogatás.
 
@@ -2693,9 +2713,11 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 (6) A gyermek- és ifjúságpolitikáért felelős miniszter az (1) bekezdés szerinti működési engedéllyel rendelkező szervezet feladatainak ellátásához egyedi támogatást nyújt.
 
-### IX. Fejezet
+### IX. Fejezet — A SZÜLETENDŐ GYERMEK HAZA NEM ADHATÓSÁGÁNAK MEGÁLLAPÍTÁSA
 
-#### 70. §
+70. § (1) Ha a gyermekjóléti alapellátás a születendő gyermeket veszélyeztető körülményeket tár fel, és azokat a gyermekjóléti alapellátás keretében nem sikerül megszüntetni, a gyermekjóléti központ javaslatára a gyámhatóság – a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben meghatározottak szerint – hivatalból vizsgálja, hogy a gyermek szülei gondozásában történő nevelkedése veszélyezteti-e a testi, értelmi, érzelmi, illetve erkölcsi fejlődését.
+
+(2) Ha az (1) bekezdés szerinti eljárás eredményeként a gyámhatóság azt állapítja meg, hogy a gyermek szülei gondozásában történő nevelkedése veszélyezteti a testi, értelmi, érzelmi, illetve erkölcsi fejlődését, dönt a születendő gyermek haza nem adhatóságáról, és megvizsgálja a gyámnak jelölt személy alkalmasságát.
 
 #### 71. §
 
@@ -3992,9 +4014,12 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 - b) ha környezettanulmányra van szükség, azt haladéktalanul el kell készíteni, és
 - c) a helyszíni szemle a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtartható.
 
-(2) A gyermek bántalmazása, súlyos elhanyagolása vagy egyéb más súlyos veszélyeztető ok felmerülése esetén a gyámhatóság erre irányuló külön kérelem hiányában is zártan kezeli a gyermek, a tanú és az eljárást kezdeményező szerv vagy személy adatait.
+(2) A gyermek bántalmazása, súlyos elhanyagolása vagy egyéb más súlyos veszélyeztető ok felmerülése esetén a gyámhatóság erre irányuló külön kérelem hiányában is zártan kezeli a gyermek, a (3) bekezdés b) pontja szerint a gyermekkel együtt ellátást igénybe vevő, a tanú és az eljárást kezdeményező szerv vagy személy adatait.
 
-(3) Egyéb jelzés hiányában is súlyos veszélyeztető oknak minősül, ha a gyermeket gondozó szülő, más törvényes képviselő megtagadja az együttműködést az egészségügyi alapellátást nyújtó szolgáltatóval – háziorvossal, házi gyermekorvossal, védőnővel –, illetve a gyermek gondozása tekintetében a bölcsődei ellátást nyújtó szolgáltatóval, köznevelési intézménnyel, illetve szakképző intézménnyel.
+(3) A gyermeket súlyosan veszélyeztető oknak minősül
+
+- a) egyéb jelzés hiányában is, ha a gyermeket gondozó szülő, más törvényes képviselő megtagadja az együttműködést az egészségügyi alapellátást nyújtó szolgáltatóval – háziorvossal, házi gyermekorvossal, védőnővel –, illetve a gyermek gondozása tekintetében a bölcsődei ellátást nyújtó szolgáltatóval, köznevelési intézménnyel, illetve szakképző intézménnyel,
+- b) ha a gyermek ellátására az 51. § (5) és (10) bekezdése alapján krízisközpontban vagy titkos menedékházban kerül sor.
 
 131. § (1) A helyi önkormányzat hatáskörébe tartozó ellátásoknál az igazolás és a nyilatkozat tartalmát, benyújtásának részletes szabályait, az elbírálás részletes szempontjait, a jövedelemszámításnál irányadó időszakot a helyi önkormányzat rendeletben szabályozza.
 
@@ -5479,6 +5504,8 @@ esetén.
 (11) A Módtv3.-mal megállapított 93. § (3) bekezdés a) pontját az utógondozói ellátás megállapítása és megszüntetése iránt 2024. július 1-jén folyamatban lévő eljárásokban is alkalmazni kell.
 
 (12) A 2024. július 1-jén hivatásos gondnoki, illetve hivatásos támogatói feladatokat is ellátó gyermekvédelmi gyám az e feladatok ellátására létesített jogviszonyát 2025. június 30-áig köteles megszüntetni, és ennek tényét – a jogviszony megszüntetése időpontjának megjelölésével – a munkáltatói jogkör gyakorlójának írásban bejelenteni. Ennek elmaradása esetén a gyermekvédelmi gyám közalkalmazotti jogviszonya 2025. július 1. napjával megszűnik.
+
+188/G. § Az egyes felsőoktatási, családügyi és kulturális tárgyú törvények módosításáról szóló 2024. évi LXXVI. törvénnyel megállapított 21/A. § (9) és (10) bekezdését 2026. július 1-jétől kell alkalmazni.
 
 189. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

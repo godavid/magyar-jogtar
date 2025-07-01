@@ -14,7 +14,15 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 3. §
 
-4. § (1)
+4. § (1) Az Szja tv. 29/A. § (2) és (2a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) A családi kedvezmény – az eltartottak lélekszámától függően – kedvezményezett eltartottanként és jogosultsági hónaponként
+
+- a) egy eltartott esetén 100 000 forint,
+- b) kettő eltartott esetén 200 000 forint,
+- c) három és minden további eltartott esetén 330 000 forint.
+
+(2a) A (2) bekezdés szerinti családi kedvezmény minden olyan kedvezményezett eltartott után, aki a családok támogatásáról szóló törvény szerint tartósan beteg, illetve súlyosan fogyatékos személynek minősül, jogosultsági hónaponként és kedvezményezett eltartottanként 100 000 forinttal növelt összegben vehető igénybe. E rendelkezés alkalmazásában tartósan beteg, illetve súlyosan fogyatékos személynek minősül az a 18. életévét betöltött magánszemély is, aki a magasabb összegű családi pótlék helyett fogyatékossági támogatásban részesül.”
 
 (2)
 
@@ -94,7 +102,9 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 37. §
 
-#### 38. §
+38. § Az Áfa tv. 78. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha az ügylet teljesítését nyugta tanúsította, és a jogosultnak ellenértéket térítenek vissza, akkor az (1) bekezdéstől eltérően a 77. § (3) bekezdés alkalmazásának feltétele, hogy a kötelezett a nyugta adattartalmának módosításáról gondoskodjon.”
 
 #### 39. §
 
@@ -122,7 +132,9 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 51. §
 
-#### 52. §
+52. § Az Áfa tv. a következő 370. §-sal egészül ki:
+
+„370. § E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 78. § (2a) bekezdését azon ügyletek esetében kell először alkalmazni, amelyek teljesítési időpontja és az ellenérték visszatérítésének időpontja 2025. július 1. napjára vagy azt követő időpontra esik.”
 
 #### 53. §
 
@@ -347,13 +359,25 @@ lép.
 
 #### 133. §
 
-#### 134. §
+134. § Az Art. a következő 225/A. §-sal egészül ki:
+
+#### „225/A. § [Biztosítotti jogviszony tisztázására irányuló eljárásban kiszabható mulasztási bírság]
+
+(1) Ha az adózó az általa bejelentett foglalkoztatottra, társas vállalkozóra vonatkozó, az 50. § (1) bekezdése szerinti bevallási kötelezettségét nem teljesítette, az adóhatóság – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével felhívja az adózót a bevallási vagy bejelentési kötelezettség jogszerű teljesítésére.
+
+(2) Az (1) bekezdés szerinti határidő eredménytelen elteltét követően az adóhatóság az adózót százezer forint mulasztási bírsággal sújtja. Ha a mulasztás több foglalkoztatottat, társas vállalkozót érint, a mulasztási bírság mértéke az érintett foglalkoztatottak, társas vállalkozók számának és a bírság összegének szorzata.
+
+(3) Az adóhatóság mellőzi az (1) bekezdés szerinti felhívást és a (2) bekezdés szerinti mulasztási bírság kiszabását, ha az adózó felszámolás, végelszámolás vagy kényszertörlési eljárás alatt áll és a felhíváskor már nincsen lehetősége a bevallási vagy bejelentési kötelezettség jogszerű teljesítésére.”
 
 #### 135. §
 
 #### 136. §
 
-#### 137. §
+137. § Az Art. 246. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+(Az állami adó- és vámhatóság az adószámot törli, ha)
+
+„g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási, vagy az általános forgalmi adó bevallási kötelezettségének a törvényi határidőtől számított kilencven napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget,”
 
 #### 138. §
 
@@ -371,9 +395,64 @@ lép.
 
 #### 144. §
 
-#### 145. §
+145. § Az Air. 54. §-a a következő (4) bekezdéssel egészül ki:
 
-#### 146. §
+„(4) Ha a személyes meghallgatásra a 34/A. alcímben foglaltak szerint elektronikus hírközlő hálózat útján kerül sor, az idézés tartalmazza az e tényre történő utalást.”
+
+146. § Az Air. a következő 34/A. alcímmel egészül ki:
+
+#### „34/A. Elektronikus hírközlő hálózat útján történő meghallgatás
+
+#### 71/A. § [Az elektronikus hírközlő hálózat útján történő meghallgatás általános szabályai]
+
+(1) Az állami adó- és vámhatóság hivatalból elrendelheti, hogy az idézett személy személyes meghallgatására elektronikus hírközlő hálózat útján kerüljön sor, különösen akkor, ha a személyes meghallgatásra megjelölt hely a meghallgatást elrendelő adóhatóság illetékességi területén kívül esik.
+
+(2) Az elektronikus hírközlő hálózat útján történő meghallgatásra az állami adó- és vámhatóság által biztosított, az elektronikus hírközlő hálózat útján történő meghallgatásra kialakított elkülönített hivatali helyiségben kerül sor.
+
+(3) Az elektronikus hírközlő hálózat útján történő meghallgatás során az idézett személy személyes meghallgatásának helyszínét biztosító adóhatóság által e célra elkülönített hivatali helyiség és a meghallgatást elrendelő adóhatóság e célra elkülönített hivatali helyisége között az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító eszköz (a továbbiakban: kamera) biztosítja.
+
+#### 71/B. § [Jelenlét és azonosítás a meghallgatáson]
+
+(1) Az elektronikus hírközlő hálózat útján meghallgatásra kerülő személynek a személyes meghallgatásra megjelölt helyen kell megjelennie és a meghallgatás ideje alatt jelen lennie.
+
+(2) Az elektronikus hírközlő hálózat útján történő meghallgatás során a személyes meghallgatásra megjelölt helyszínen az e célra elkülönített hivatali helyiségben
+
+- a) az elektronikus hírközlő hálózat útján meghallgatásra kerülő személy,
+- b) az, akinek jelenlétét az elektronikus hírközlési hálózat útján meghallgatásra kerülő személyhez kapcsolódóan a meghallgatáson jogszabály lehetővé vagy kötelezővé teszi,
+- c) a meghallgatás helyszínét biztosító adóhatóság személyes meghallgatás lefolytatásában közreműködni jogosult foglalkoztatottja (a továbbiakban: közreműködő),
+- d) az elektronikus hírközlő hálózat útján történő meghallgatáshoz szükséges technikai eszközök működését biztosító, kezelő személy (a továbbiakban: kezelő személy)
+
+lehet jelen.
+
+(3) Az elektronikus hírközlő hálózat útján történő meghallgatás során a meghallgatást elrendelő adóhatóság helyszínén az elkülönített hivatali helyiségben
+
+- a) az adott ügyben az elektronikus hírközlő hálózat útján történő meghallgatás lefolytatására jogosult foglalkoztatott,
+- b) a kezelő személy
+
+lehet jelen.
+
+(4) A meghallgatást elrendelő adóhatóság – szükség esetén a közreműködő igénybevételével – állapítja meg az elektronikus hírközlő hálózat útján meghallgatásra kerülő személy és a meghallgatásra kerülő személyhez kapcsolódóan jelen lévő személy személyazonosságát, továbbá azt, hogy a meghallgatásra kerülő személy eljárási jogainak gyakorlásában nincs korlátozva.
+
+(5) Az elektronikus hírközlő hálózat útján meghallgatásra kerülő személy és a meghallgatásra kerülő személyhez kapcsolódóan jelen lévő személy személyazonosságának igazolása
+
+- a) az általa a személyazonosságának igazolása érdekében rendelkezésre bocsátott adatai alapján és
+- b) a személyazonosságának igazolására alkalmas hatósági igazolványának vagy tartózkodásra jogosító okmányának kamera közvetítésével történő bemutatásával
+
+történik.
+
+(6) A meghallgatás lefolytatásában részt vevő személy és a közreműködő köteles az állami adó- és vámhatósághoz tartozását igazolni. A meghallgatás lefolytatásában részt vevő személy és a közreműködő az állami adó- és vámhatóságnál fennálló jogviszonyának igazolása a szolgálati igazolvány kamera közvetítésével történő bemutatásával történik.
+
+#### 71/C. § [A meghallgatás módja]
+
+Az elektronikus hírközlő hálózat útján történő meghallgatás során folyamatosan biztosítani kell, hogy a meghallgatást elrendelő adóhatóság helyszínén jelen lévők láthassák és hallhassák a személyes meghallgatásra megjelölt hivatali helyiségben tartózkodó személyeket, illetve a személyes meghallgatásra megjelölt hivatali helyiségben jelen lévők láthassák és hallhassák a meghallgatást elrendelő adóhatóság hivatali helyiségében tartózkodó személyeket.
+
+#### 71/D. § [Jegyzőkönyv]
+
+(1) Az elektronikus hírközlő hálózat útján történő meghallgatásról készült jegyzőkönyvnek ki kell terjednie az elektronikus hírközlő hálózat útján történő meghallgatás lefolytatása körülményeinek, valamint az elektronikus hírközlő hálózat útján történő meghallgatásra kialakított hivatali helyiségben jelen lévő személyek azonosításához szükséges adatok rögzítésére is.
+
+(2) Az elektronikus hírközlő hálózat útján történő meghallgatásról készült jegyzőkönyv aláírásának minősül, ha az elektronikus hírközlő hálózat útján meghallgatásra kerülő személy, valamint a meghallgatásra kerülő személyhez kapcsolódóan jelen lévő valamennyi személy a meghallgatásról készült jegyzőkönyvet, annak megismerését követően szóbeli nyilatkozatával jóváhagyja. A jegyzőkönyvet a meghallgatást elrendelő adóhatóság foglalkoztatottja legalább fokozott biztonságú elektronikus aláírásával és minősített időbélyegzővel hitelesíti.
+
+(3) Az elektronikus hírközlő hálózat útján történő meghallgatásról készült jegyzőkönyvet a meghallgatott személy részére haladéktalanul kézbesíteni kell.”
 
 #### 147. §
 

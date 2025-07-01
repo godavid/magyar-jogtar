@@ -164,13 +164,21 @@ egyes agrártárgyú törvények módosításáról
 
 69. § (1)
 
-(2)
+(2) A Földforgalmi tv. 48. § (1) bekezdése a következő g) ponttal egészül ki:
+
+(Előhaszonbérleti jog nem áll fenn)
+
+„g) az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény 11/A. § (3) bekezdése alapján létrejött”
+
+(haszonbérlet esetén.)
 
 #### 70. §
 
 #### 71. §
 
-#### 72. §
+72. § A Földforgalmi tv. 53. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Nincs helye a haszonbérleti szerződés jóváhagyása megtagadásának az (1) bekezdés g) pontja alapján akkor, ha a haszonbér mértékét az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény 11/A. § (4) bekezdése alapján igazságügyi szakértői vélemény vagy bíróság állapítja meg.”
 
 #### 73. §
 
@@ -204,11 +212,19 @@ egyes agrártárgyú törvények módosításáról
 
 #### 79. §
 
-#### 80. §
+80. § A Fétv. 57. §-a a következő i) ponttal egészül ki:
+
+(A haszonbérleti szerződés megszűnik)
+
+„i) az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény (a továbbiakban: Ötv.) 11/A. § (3) bekezdése alapján létrejött szerződés esetén az Ötv. 11/A. § (11) bekezdése szerinti esetben.”
 
 #### 81. §
 
-#### 82. §
+82. § A Fétv. 68. § (3) bekezdése a következő g) ponttal egészül ki:
+
+(A szívességi földhasználati szerződés megszűnik)
+
+„g) az Ötv. 11/A. § (3) bekezdése alapján létrejött szerződés esetén az Ötv. 11/A. § (11) bekezdése szerinti esetben.”
 
 #### 83. §
 
@@ -242,11 +258,55 @@ egyes agrártárgyú törvények módosításáról
 
 #### 94. §
 
-#### 15.
+#### 15. Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény módosítása
 
-#### 95. §
+95. § Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény (a továbbiakban: Ötv.) a következő 11/A. §-sal egészül ki:
 
-#### 96. §
+„11/A. § (1) Szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), továbbá kivett művelési ágban nyilvántartott külterületi földrészlet tulajdonosával vagy haszonélvezeti jog fennállása esetén haszonélvezőjével, vagyonkezelési jog fennállása esetén vagyonkezelőjével (e § alkalmazásában a továbbiakban együtt: tulajdonos) kötött szerződéssel a föld területe legalább fele részének öntözhetőségét biztosító és a földdel alkotórész kapcsolatba kerülő öntözési beruházást végrehajtó személy javára öntözési jog alapítható.
+
+(2) Az öntözési jog alapján annak jogosultja a földön öntözési létesítmény, építmény vagy ahhoz kapcsolódó berendezés megvalósítására, elhelyezésére a tulajdonos további jognyilatkozata nélkül jogosult. E beruházást az öntözési jog fennállása alatt az öntözési jog jogosultjának könyveiben kell nyilvántartani. A beruházás aktiválását az öntözési igazgatási szervnek be kell jelenteni.
+
+(3) Az öntözési jog alapján annak jogosultja, vagy ha az öntözési jog jogosultja fenntartható vízgazdálkodási közösség, akkor annak kijelölése alapján annak valamely tagja a jog fennállásának időtartama alatt a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) szerinti érvényes jogcímen a föld használati jogosultságára, és ennek keretében öntözéses gazdálkodás folytatására jogosult, ha megfelel a Földforgalmi tv. földhasználati jogosultság megszerzésére vonatkozó feltételeinek. A tulajdonos – a használati jogosultság átengedéséről szóló, az öntözési jog jogosultjával kötött korábbi szerződésnek a tulajdonos részéről rendkívüli felmondással történt megszüntetése kivételével – érvényesen nem tagadhatja meg a használati jogosultság átengedésére vonatkozó szerződés megkötését.
+
+(4) Ha a (3) bekezdés alapján haszonbérleti szerződés megkötésére kerül sor és a szerződő felek között a haszonbérleti díj tekintetében nem jön létre megegyezés, a helyben szokásos piaci haszonbérleti díj mértékét igazságügyi szakértői vélemény alapján kell megállapítani. Ha az igazságügyi szakértői véleményben foglaltakkal bármelyik szerződő fél nem ért egyet, a szakértői véleményben foglaltak tudomására jutásától számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását; ellenkező esetben a haszonbérleti díjnak az igazságügyi szakértői véleményben foglaltak szerinti mértékét elfogadottnak kell tekinteni. Egyebekben a Polgári Törvénykönyv 6:71. §-ában foglaltak szerint kell eljárni.
+
+(5) A (3) bekezdés alapján megkötött földhasználati szerződésben a használat időtartama nem lehet rövidebb mint öt év.
+
+(6) Az öntözési jog határozott időre, legalább öt, legfeljebb húsz évre alapítható.
+
+(7) A (6) bekezdésben foglaltaktól eltérően a Nemzeti Földalapba tartozó föld esetében öntözési jog 20 évre alapítható, abban az esetben, ha az adott öntözési beruházás tervezett elismert értékének az öntözési joggal érintett területekre eső hektáronkénti összege az ötmillió forintot meghaladja.
+
+(8) Az öntözési jog alapításáról szóló szerződés hatályosságához annak az öntözési igazgatási szerv által történő jóváhagyása szükséges. Az öntözési jog érvényességéhez annak ingatlan-nyilvántartási bejegyzése szükséges.
+
+(9) Az öntözési igazgatási szerv az öntözési jog alapításának jóváhagyását megtagadja, ha
+
+- a) az öntözési jog jogosultja a Földforgalmi tv. földhasználati jogosultság megszerzésére vonatkozó feltételeinek nem felel meg, ide nem értve azt az esetet, ha az öntözési jog jogosultja fenntartható vízgazdálkodási közösség,
+- b) az öntözési jog alapján az öntözési jog jogosultját megillető használati jogosultság a Földforgalmi tv. 13. § (1) és (2) bekezdése szerint a használat átengedésének tilalmába ütközne, vagy
+- c) az (1) bekezdés szerinti földrészletet a közhiteles földhasználati nyilvántartás adatai alapján az öntözési jog tervezett fennállásának időtartamát érintően a tulajdonostól és az öntözési jog jogosultjától eltérő harmadik személy használja, ide nem értve azt az esetet, ha az öntözési jog jogosultja fenntartható vízgazdálkodási közösség.
+
+(10) Ha az öntözési jog alapítását követő második naptári év végéig a (2) bekezdés szerinti beruházás aktiválását az öntözési igazgatási szervnek nem jelentették be, az öntözési jog ezen időponttal megszűnik.
+
+(11) Az öntözéses gazdálkodás folytatását az adott gazdasági év július 31. napjáig az öntözési igazgatási szerv részére igazolni kell. Ha a (2) bekezdés szerinti beruházás aktiválását követően öt egymást követő gazdasági évben a földön nem folytattak öntözéses gazdálkodást, az öntözési jog az ötödik gazdasági év végével megszűnik.
+
+(12) Az öntözési jog (9) vagy (10) bekezdés szerinti megszűnése esetén a (3) bekezdés szerint létrejött használati jogosultság az öntözési jog megszűnésével egyidejűleg megszűnik.
+
+(13) Az öntözési jog bármely okból történő megszűnése esetén a feleknek egymással el kell számolni.
+
+(14) Az öntözési igazgatási szerv a jóváhagyott öntözési jogokról a (9) és (10) bekezdés szerinti kötelezettségek ellenőrzése céljából nyilvántartást vezet. A nyilvántartás az öntözési jog jogosultja adatait az alábbiak szerint tartalmazza:
+
+- a) természetes személy természetes személyazonosító adatai és lakcíme,
+- b) nem természetes személy megnevezése, adószáma, statisztikai azonosítója, székhelye, és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszáma.
+
+(15) Az öntözési jog jogosultjának a (13) bekezdés szerinti személyes adatait az öntözési igazgatási szerv az öntözési jog megszűnését követő ötödik naptári év végéig tartja nyilván.”
+
+96. § Az Ötv.
+
+- a) 7. § (2) bekezdés a) pontjában az „ipari zöldségtermesztés” szövegrész helyébe az „illetve a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló rendelet szerinti ipari zöldségnövény-termesztés” szöveg,
+- b) 7. § (2) bekezdés b) pontjában a „kertészeti zöldség” szövegrész helyébe az „a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló rendeletben szereplő zöldségnövények” szöveg,
+- c) 15. § (2) bekezdés c) pontjában a „megszűnésére vonatkozó” szövegrész helyébe a „megszűnésére, továbbá az öntözési jog alapítására, jóváhagyására és gyakorlására vonatkozó” szöveg,
+- d) 23. §-ában a „21. §-a” szövegrész helyébe a „11/A. §-a” szöveg
+
+lép.
 
 #### 16. A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény módosítása
 
@@ -344,15 +404,36 @@ egyes agrártárgyú törvények módosításáról
 
 #### 135. §
 
-#### 25.
+#### 25. Az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény módosítása
 
-#### 136. §
+136. § Az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény (a továbbiakban: Eredetvédelmi tv.) 12. alcíme a következő 26/A. §-sal egészül ki:
 
-#### 137. §
+„26/A. § (1) Az Európai Unióban először Magyarország területén forgalomba hozott, a kereskedő saját márkanevével vagy védjegyével jelölt agrártermék csomagolásán oltalom alatt álló földrajzi árujelző elnevezés – a (2) bekezdésben foglalt kivétellel – csak akkor tüntethető fel, ha
 
-#### 138. §
+- a) a végső fogyasztói csomagoláson a földrajzi árujelzővel ellátott terméket előállító gazdasági szereplő nevét és címét feltüntették,
+- b) az agrártermék megjelenésének, megnevezésének vagy jelölése lényeges tartalmának meghatározására a földrajzi árujelzővel ellátott terméket előállító gazdasági szereplő jogosult, és
+- c) az agrárterméket a földrajzi árujelzővel ellátott terméket előállító gazdasági szereplő korlátozás nélkül értékesítheti bármely, általa választott módon.
 
-#### 139. §
+(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni
+
+- a) az e törvény végrehajtására kiadott rendeletben meghatározott szektorokban működő vállalkozások által történő értékesítésekre, vagy
+- b) a legfeljebb 1000 kiszerelési egység mennyiségben forgalomba hozott agrártermékekre.”
+
+137. § Az Eredetvédelmi tv. 32. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+- a) a kezelő szervezetek által ellátott feladatokra és a kezelő szervezetek működésére vonatkozó szabályokat,
+- b) a 26/A. § (2) bekezdés a) pontja szerinti vállalkozások körét,
+- c) a földrajzi árujelzővel ellátott termékek jelölésével kapcsolatos speciális szabályokat.”
+
+138. § Az Eredetvédelmi tv. 18/A. alcíme a következő 33/B. §-sal egészül ki:
+
+„33/B. § Az egyes agrártárgyú törvények módosításáról szóló 2024. évi LXXX. törvénnyel (a továbbiakban: 2024. évi LXXX. törvény) megállapított 26/A. § rendelkezéseinek meg nem felelő, 2025. július 1-jét megelőzően forgalomba hozott agrártermékek 2025. július 1-jét követően is forgalomban tarthatóak.”
+
+139. § Az Eredetvédelmi tv. 19. alcíme a következő 34/A. §-sal egészül ki:
+
+„34/A. § A 2024. évi LXXX. törvénnyel megállapított 26/A. §, 32. § (3) bekezdése és 33/B. § tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
 
 #### 26. Az egyes agrártárgyú törvények módosításáról szóló 2023. évi XCIV. törvény módosítása
 

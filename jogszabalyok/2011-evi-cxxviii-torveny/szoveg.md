@@ -126,7 +126,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - b) a hivatásos katasztrófavédelmi szerv központi szerve vezetőjének javaslatára kinevezi, illetve felmenti a hivatásos katasztrófavédelmi szerv központi szerve vezetőjének helyettesét vagy helyetteseit,
 - c) elrendeli a Kormány egyidejű tájékoztatása mellett a polgári védelmi szervezetek részleges alkalmazását,
 - d) dönt az Országgyűlés által az éves költségvetésben a nemzetközi segítségnyújtásra hatáskörébe utalt előirányzat felhasználásáról,
-- e) háromévente jelentést készít az Országgyűlésnek és a Kormánynak a főbb természeti csapásokra és az ember okozta katasztrófákra kiterjedő kockázatelemzésekről, a katasztrófák elleni védekezésre történő felkészülés helyzetéről, illetve a védekezésről,
+- e)
 - f) gondoskodik a polgári veszélyhelyzeti tervezés katasztrófavédelmi feladatainak hazai koordinálásáról és végrehajtásáról, amelynek érdekében biztosítja a képviseletet a NATO Reziliencia Bizottságban (a továbbiakban: NATO RC), ellátja a NATO RC katasztrófavédelmi szerveivel való kapcsolattartást,
 - g) gondoskodik az EU polgári védelmi tevékenységének hazai koordinálásáról és végrehajtásáról, ennek keretében biztosítja a kapcsolattartást és a képviseletet az EU intézményeiben,
 - h) a külpolitikáért felelős miniszterrel együttműködve részt vesz a nemzetközi segítségnyújtásban,
@@ -290,6 +290,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - j) szükség esetén – a külpolitikáért felelős miniszterrel együttműködve – biztosítja a nemzetközi segítségnyújtásra kijelölt szervek rendelkezésre állását, illetve a külföldi állam katasztrófa sújtotta területeire történő kijuttatását, szervezi a nemzetközi katasztrófa-segítségnyújtás gyakorlati végrehajtását, a szállítmányok továbbítását, és folyamatos kapcsolatot tart a nemzetközi katasztrófavédelmi szervezetekkel, e tevékenységbe bevonja a különböző karitatív szervezeteket, a Magyar Vöröskeresztet és azokat a nemzetközi karitatív szervezeteket vagy azok magyar tagozatait, amelyek erre előzetesen a hivatásos katasztrófavédelmi szerv központi szervével megállapodást kötöttek,
 - k) szükség esetén – a külpolitikáért felelős miniszterrel együttműködve – biztosítja a nemzetközi segítség fogadását, elősegíti kapacitásai függvényében a nemzetközi segítségnek a veszélyhelyzet vagy a katasztrófa károsító hatása által érintett területre való eljuttatását, és szétosztását,
 - l) végzi az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő katasztrófavédelmi feladatokat.
+- m) ellátja az Egyesült Nemzetek Szervezetének Európai Gazdasági Bizottsága keretében létrejött, az Ipari Balesetek Országhatáron Túli Hatásairól szóló, Helsinki Egyezmény hazai szakterületi feladatait.
 
 (6)
 
@@ -486,7 +487,7 @@ készít és az iparbiztonsági hatósághoz elfogadásra benyújtja.
 - c) a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeit kivizsgálni és az arról készült jelentést az iparbiztonsági hatóság részére megküldeni,
 - d) a veszélyes anyagokkal kapcsolatos súlyos balesetet követő lehető legrövidebb időn belül tájékoztatást adni az iparbiztonsági hatóság számára a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos balesetek közép- és hosszú távú következményeinek elhárítása, illetve a veszélyes anyagokkal kapcsolatos hasonló súlyos balesetek megelőzése érdekében tett intézkedéseiről.
 
-38. § Ha a veszélyes anyagokkal foglalkozó üzemben vagy annak védelmét ellátó szervezetben a veszélyes anyagokkal kapcsolatos súlyos baleset kockázatát növelő változtatás történik, az üzemeltetőnek a belső védelmi tervet soron kívül pontosítania kell. Az üzemeltető a belső védelmi tervet az utolsó módosítástól számított legfeljebb három éven belül felülvizsgálja és a tervek végrehajthatóságát a külön jogszabályban meghatározott módon gyakorlattal ellenőrzi. A tervek pontosításáról, felülvizsgálatáról és gyakoroltatásáról jegyzőkönyvet kell felvenni. A pontosított tervet és a felvett jegyzőkönyveket meg kell küldeni az iparbiztonsági hatóságnak.
+38. § Ha a veszélyes anyagokkal foglalkozó üzemben vagy annak védelmét ellátó szervezetben a veszélyes anyagokkal kapcsolatos súlyos baleset kockázatát növelő változtatás történik, az üzemeltetőnek a belső védelmi tervet soron kívül pontosítania kell. Az üzemeltető a belső védelmi tervet e törvény végrehajtására kiadott kormányrendeletben meghatározott esetekben felülvizsgálja és a tervek végrehajthatóságát a külön jogszabályban meghatározott módon gyakorlattal ellenőrzi. A tervek pontosításáról, felülvizsgálatáról és gyakoroltatásáról jegyzőkönyvet kell felvenni. A pontosított tervet és a felvett jegyzőkönyveket meg kell küldeni az iparbiztonsági hatóságnak.
 
 39. § A veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek csökkentésére vonatkozó veszélyes anyagokkal foglalkozó üzemen belüli feladatokat az üzemeltetőnek a belső védelmi tervben, míg az érintett állami és önkormányzati szervek veszélyes anyagokkal foglalkozó üzemen kívüli feladatait a külső védelmi tervben kell meghatározni.
 
@@ -522,7 +523,7 @@ készít és az iparbiztonsági hatósághoz elfogadásra benyújtja.
 - c) a lakosságra, az anyagi javakra és a környezetre gyakorolt hatások értékeléséhez szükséges adatokról,
 - d) a megtett intézkedésekről.
 
-42/A. § Az iparbiztonsági hatóság a nyilvántartásában szereplő adatokról a biztonságért és a veszélyes anyagokkal kapcsolatos baleset elhárításáért felelős személyek és elérhetőségük adataira is kiterjedően rendszeresen tájékoztatja a hivatásos katasztrófavédelmi szerv központi szervét a nemzetközi szerződésből eredő kötelezettségei végrehajtása érdekében.
+42/A. § Az iparbiztonsági hatóság a nyilvántartásában szereplő adatokról a biztonságért és a veszélyes anyagokkal kapcsolatos baleset elhárításáért felelős személyek és elérhetőségük adataira is kiterjedően rendszeresen tájékoztatja a hivatásos katasztrófavédelmi szerv központi szervét a nemzetközi szerződésből eredő kötelezettségei végrehajtása, valamint annak érdekében, hogy a hivatásos katasztrófavédelmi szerv központi szerve az adatokból információt nyújtson a kritikus szervezetek számára, az ellenálló képességi terv elkészítésének támogatása céljából.
 
 ### V. Fejezet — A KITERJEDT KÁRESEMÉNY
 
@@ -855,21 +856,13 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 (13) Bíróság vagy más hatóság megkeresésére, illetve a büntetőeljárás során a bíróság, az ügyészség és a nyomozó hatóság adatszolgáltatás kérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (11) bekezdés szerinti kérelem benyújtásától számított harminc napon belül nem kerül sor megkeresésre, a rögzített felvételt törölni kell.
 
-### VII/C. Fejezet — A HIVATÁSOS KATASZTRÓFAVÉDELMI SZERV HATÁSKÖRÉBE UTALT HATÓSÁGI ELJÁRÁSOK ELEKTRONIKUS ÜGYINTÉZÉSÉNEK KÜLÖNÖS SZABÁLYAI
+### VII/C. Fejezet
 
-79/B. § (1) A hivatásos katasztrófavédelmi szerv a hatáskörébe utalt hatósági eljárások gyors és hatékony lefolytatása érdekében törvényben vagy kormányrendeletben meghatározott eljárásokban a Dáptv. 18. § (1) bekezdése és 20. §-a alapján az ügy elektronikus intézéséhez elektronikus Integrált Hatósági Rendszert (a továbbiakban: IHR) biztosít.
-
-(2) Az IHR biztosítja a hatósági eljárás kezdeményezését, lefolytatását, valamint a végrehajtási eljárás lefolytatását és a hatósági eljárás lefolytatása során benyújtott, illetve keletkezett dokumentumok tárolását.
-
-(3)
-
-(4)
-
-(5)
+#### 79/B. §
 
 #### 79/C. §
 
-79/D. § Az IHR és az IHR-ben tárolt adatok igénybevételére jogszabályban meghatározott esetekben és módon a hatáskörükbe tartozó ügyekben a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság is jogosult.
+#### 79/D. §
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -903,7 +896,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 - p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatok, illetve termékek, továbbá az ingatlan-nyilvántartási adatok (jogok, tények) körét, valamint ezek szolgáltatásának részletes szabályait,
 - q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
 - r) egyes hatósági eljárásokban az iparbiztonsági hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket,
-- s) az IHR működésének részletes szabályait, az IHR-nek a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság és a veszélyesáru-szállítás ellenőrzésére kijelölt hatóság által történő igénybevételének feltételeit és részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani,
+- s)
 - t) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyási engedélyezésére, az engedélyben és a kapcsolódó jogszabályokban meghatározott előírások megtartásának hatósági ellenőrzésére, a gyártásból történő mintavételre és annak soron kívüli vizsgálatára, valamint az előírások megsértőivel szemben intézkedések megtételére, az egyes szabálytalanságokért kiszabható bírságok összegének megállapítására, továbbá a bírságolással összefüggő hatósági feladatokra vonatkozó részletes szabályokat.
 
 80/A. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje
@@ -950,7 +943,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 #### 85. §
 
-85/A. § A hivatásos katasztrófavédelmi szervtől kormányzati igazgatási szervhez 2024. október 1-jén átkerülő hatósági hatáskör telepítéssel összefüggésben a katasztrófavédelmi IHR használatával kapcsolatos kérdésekről – ide értve az adatfeldolgozással összefüggő kérdéseket is – továbbá a költségvetési, vagyoni, üzemeltetési, iratátadási és adminisztrációs kérdésekről, valamint a hatáskört átvevő szervek számára nyújtott humánigazgatási és informatikai támogatásról 2024. szeptember 30-ig a katasztrófák elleni védekezésért felelős miniszter és a közigazgatás szervezéséért felelős miniszter megállapodást köt.
+#### 85/A. §
 
 #### 40. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

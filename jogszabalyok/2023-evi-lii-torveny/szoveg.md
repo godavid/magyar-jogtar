@@ -32,7 +32,7 @@ Az Országgyűlés e célok elérése érdekében, továbbá a köznevelésben f
 
 (7) A pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra alkalmazni kell a 13. és 14. alcímben foglaltakat.
 
-(8) A nyugdíjasra alkalmazni kell a 109. §-t.
+(8) A nyugdíjasra a 109. §-t, a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 1. § (1) bekezdése hatálya alá tartozó pedagógusokra a 109. § (1), (3) és (4) bekezdését alkalmazni kell.
 
 (9) A Kormány által a köznevelésért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szervre (a továbbiakban: hivatal) alkalmazni kell a 104. § (5) bekezdését és a 109. §-t.
 
@@ -2171,6 +2171,7 @@ figyelembevételével kell megállapítani.
 - a) a pedagógus,
 - b) a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott, továbbá
 - c) az a) és b) pont szerinti személy, akinek köznevelési foglalkoztatotti jogviszonya vagy munkaviszonya a nyugdíjjogosultság megszerzésére tekintettel szűnt meg.
+- d) kérelmére és erre vonatkozó kifejezett hozzájárulására a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá tartozó pedagógus az oktatási igazolványokról szóló kormányrendelet szerint.
 
 (2) A pedagógusigazolványt a hivatal adja ki a pedagógusigazolványra jogosultnak a munkáltató útján benyújtott kérelmére, amely tartalmazza a (3) bekezdés a) és b) pontja szerinti adatokat.
 
@@ -2527,9 +2528,9 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 
 (9) A nevelési-oktatási intézmény az óraadók
 
-- a) nevét,
+- a) nevét, születési nevét,
 - b) születési helyét, idejét,
-- c) nemét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat, a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány megnevezését, számát,
+- c) nemét, anyja születési és családi utónevét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat, a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány megnevezését, számát,
 - d) lakóhelyét, tartózkodási helyét,
 - e) végzettségével, szakképzettségével kapcsolatos adatokat,
 - f) oktatási azonosító számát
@@ -2539,6 +2540,8 @@ tartja nyilván.
 (10) Az óraadók nyilvántartására alkalmazni kell a (2)–(7) bekezdés rendelkezéseit.
 
 (11) Az (1)–(9) bekezdésben foglaltak nem érintik a Köznevelés Információs Rendszerében törvény alapján történő adatnyilvántartást.
+
+(12) A munkáltató a foglalkoztatotti alapnyilvántartásban szereplő adatokat, a nevelési-oktatási intézmény az óraadók (9) bekezdés szerinti adatait – azok ellenőrzése, az érintett azonosítása, adatainak pontosítása céljából – az adott adatok tekintetében elsődleges vagy másodlagos információforrásnak minősülő szervtől is beszerezheti, a tanulmányi rendszerben díjmentesen elérhető szabályozott elektronikus és központi szolgáltatások útján.
 
 ### VII. Fejezet — MUNKAÜGYI KAPCSOLATOK
 

@@ -494,7 +494,7 @@ szabható ki.
 - c) a versenyszabályzatot, illetve a sportág egyéb szabályzatait megszegő versenyzőkkel, sportszakemberekkel és sportszervezetekkel szemben az e törvényben és a külön jogszabályban meghatározottak szerint sportfegyelmi jogkört gyakorol,
 - d) érvényesíti a doppingtilalmat,
 - e) meghatározza a sportlétesítmények használatával, illetve a sporteseményekkel kapcsolatos sportági követelményeket,
-- f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. § 41. pontja szerinti látvány-csapatsportban működő szakszövetség az a)–e) pontban meghatározott feladatok mellett
+- f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. § 41. pontja szerinti látvány-csapatsportban működő szakszövetség az a)–e) pontban meghatározott feladatok mellett – a Tao. 4. § 47a. pontja szerinti sportakadémia kivételével –
   - fa) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában, 22/C. §-ában és 24/A. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9a) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
   - fb) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 22/C. §-a szerinti támogatási igazolást,
   - fc) a Tao. 22/C. § (1) bekezdés c) pontjában meghatározott támogatás igénybevételére jogosult szervezet vonatkozásában – kivéve a Tao. 22/C. (9a) bekezdés szerinti esetet – kezdeményezi a sportpolitikáért felelős miniszternél a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára történő bejegyeztetését az ingatlan-nyilvántartásba,
@@ -1643,6 +1643,7 @@ kezeli.
   - gh) ellátja a jogszabályokban meghatározott egyéb feladatokat;
   - gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támogatás ellenőrzésére jogosult más szervekkel, valamint a 22. § (2) bekezdés f) pontjában meghatározott jogkörében eljáró látvány-csapatsportág országos sportági szakszövetségével, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a látvány-csapatsportág országos sportági szakszövetségét az általa kiadott támogatási igazolásokról;
   - gj) ellátja a Tao. 24/A. § (19) bekezdésében meghatározott igazolás kiállításával összefüggő feladatokat;
+  - gk) a Tao. 4. § 47a. pontja szerinti sportakadémia esetében is ellátja a ga)–gj) alpontokban felsorolt feladatokat.
 - h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági hatásköröket, különösen az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat;
 - i) programokat dolgoz ki:
   - ia) a versenysportnak,
@@ -1834,7 +1835,7 @@ a versenykiírás szerinti hivatalos versenyprogramban szereplő versenyszámban
 
 (3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző öt évben megszakítás nélkül közös háztartásban élt.
 
-(4) Élete végéig járadékra jogosult az érmes járadékra jogosultságának időpontjától – vagy amennyiben az korábbi időpont, a negyvenötödik életéve betöltését követő hónap 1. napjától – az érmes edzője, az érmes járadékra jogosultságának megállapítására tekintet nélkül.
+(4) Élete végéig járadékra jogosult a negyvenötödik életéve betöltését követő hónap 1. napjától kezdődően az érmes edzője, az érmes járadékra jogosultságának megállapítására tekintet nélkül.
 
 (5) Edzői járadékra az a személy jogosult, aki:
 
@@ -1846,7 +1847,13 @@ a versenykiírás szerinti hivatalos versenyprogramban szereplő versenyszámban
 
 (6) Edzői járadék szövetségi kapitány vagy a nemzeti válogatottat vezető edző és – abban az esetben, ha az érmest utánpótlás korosztályokban legalább három évig folyamatosan felkészítette vagy a felkészítésben közreműködött – nevelőedző részére is megállapítható, ha az edző az (5) bekezdés e) pontja szerinti javaslatban szerepel.
 
-(6a) Ha az érmes vagy az edző jogosultságának megállapításához szükséges feltételek az érem megszerzésekor teljesülnek, úgy az érmes vagy az edző az olimpiai járadékra jogosító sportesemény hivatalos időszakának zárónapját követő hónap első napjától kezdődően jogosult járadékra.
+(6a) Ha az érmes vagy az edző jogosultságának megállapításához szükséges feltételek az érem megszerzésekor teljesülnek – ideértve azt is, ha az (5) bekezdés e) pontja szerinti feltétel hiányában az edzői jogosultság megállapítására a (6d) bekezdés alapján kerül sor –, úgy az érmes vagy az edző az olimpiai járadékra jogosító sportesemény hivatalos időszakának zárónapját követő hónap első napjától kezdődően jogosult járadékra.
+
+(6b) Az érmes az első, az (5) bekezdés e) pontja szerint tett javaslatában – sportolói pályafutásának teljes időtartamára nézve – egy vagy több nevelőedzőt tüntethet fel, megjelölve egyidejűleg az edző és a nevelőedző közötti, járadékra jogosulttá válásuk esetére vonatkozó sorrendet. Az (5) bekezdés e) pontja szerinti javaslatban megjelölt nevelőedző személye – a (6c) bekezdésben foglaltak kivételével – az érmes további, edzői járadékra jogosító eredménye tekintetében is irányadó.
+
+(6c) Az az érmes, aki az (5) bekezdés e) pontja szerinti korábbi javaslatát utánpótlás-korosztályú versenyzőként tette, az abban foglaltak mellett további nevelőedzőt jelölhet meg a következő, az (5) bekezdés e) pontja alapján tett nyilatkozatában.
+
+(6d) Az (5) bekezdés e) pontja szerinti javaslat hiányában a sportpolitikáért felelős miniszter az edzői járadékot annak a személynek a javára állapítja meg – amennyiben megfelel az (5) bekezdés a)–c) pontja szerinti feltételeknek –, aki az érmest a járadékra jogosultságot megalapozó versenyt megelőzően közvetlenül, legalább egy évig folyamatosan felkészítette.
 
 (7) Megszűnik az érmes, az edzője és az özvegye járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek. A járadékra való jogosultság megszűnését a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében állapítja meg.
 
@@ -1919,7 +1926,7 @@ jogerőre emelkedésétől számított egy éven belül folyósítja az örökö
 
 (7) A sportpolitikáért felelős miniszter törli a járadékra jogosultnak az 59. § (10) bekezdése alapján megismert személyes adatait, ha a jogosulttal szemben folytatott büntetőeljárást a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével befejezte, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatot hozott, és a jogosult nem vált érdemtelenné. A járadék továbbfolyósításáról szóló döntésben a felfüggesztésre okot adó körülmény megszűnését kell feltüntetni.
 
-(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése, valamint a (2a) bekezdés szerinti bejelentési kötelezettség elmulasztása miatt közigazgatási bírságot szabhat ki.
+(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (9) és (10) bekezdése, valamint a (2a) bekezdés szerinti bejelentési kötelezettség elmulasztása miatt – figyelmeztetés alkalmazása nélkül is – közigazgatási bírságot szabhat ki.
 
 (11) Az olimpiai járadékra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -1968,11 +1975,11 @@ jogerőre emelkedésétől számított egy éven belül folyósítja az örökö
 
 (2) Iskola, kollégium és óvoda nem építhető a tanulók számához viszonyított, külön jogszabályban meghatározott méretű tornaterem, tornaszoba vagy sportlétesítmény nélkül. Az építés során lehetőség szerint figyelembe kell venni a lakossági igényeket is.
 
-(3) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó, versenyrendszerben szervezett versenyek lebonyolítására alkalmas sportlétesítményeket biztonságtechnikai szempontból az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség), a katasztrófavédelem, az Országos Mentőszolgálat, az egészségügyi államigazgatási szerv, a sportszövetség, a létesítményt használó sportszervezet, a tulajdonos, az üzemeltető, a sportrendezvényt szervező és az azzal szerződéses viszonyban álló egészségügyi szolgáltató, a rendező szerv és a Sportrendezvényeket Biztonsági Szempontból Minősítő Bizottság (a továbbiakban: Minősítő Bizottság) képviselője a versenyrendszerben szervezett első verseny előtt legalább 30 nappal, évente legalább egy alkalommal közösen ellenőrzi. Az ellenőrzés időpontjáról – azt legalább 15 nappal megelőzően – a sportlétesítmény üzemeltetője minden érintett szervezetet értesíteni köteles. A (4) bekezdésben meghatározott engedély – nézők részvétele nélkül tartott sportrendezvény tekintetében a szakszövetség szabályzatában meghatározott esetek kivételével – a rendőrség, a katasztrófavédelem és az egészségügyi államigazgatási szerv hozzájárulása nélkül nem adható meg. A rendőrség, a katasztrófavédelem és az egészségügyi államigazgatási szerv a hozzájárulás megadását az ellenőrzés során tapasztalt hiányosságok pótlásától, rendellenességek megszüntetésétől teheti függővé. Az ellenőrzésről a Minősítő Bizottság képviselője jegyzőkönyvet vesz fel, amit 8 napon belül megküld az ellenőrzést végző szervezeteknek.
+(3) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó, versenyrendszerben szervezett versenyek lebonyolítására alkalmas sportlétesítményeket biztonságtechnikai szempontból az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség), a katasztrófavédelem, az általános tűzvédelmi hatóság, az Országos Mentőszolgálat, az egészségügyi államigazgatási szerv, a sportszövetség, a létesítményt használó sportszervezet, a tulajdonos, az üzemeltető, a sportrendezvényt szervező és az azzal szerződéses viszonyban álló egészségügyi szolgáltató, a rendező szerv és a Sportrendezvényeket Biztonsági Szempontból Minősítő Bizottság (a továbbiakban: Minősítő Bizottság) képviselője a versenyrendszerben szervezett első verseny előtt legalább 30 nappal, évente legalább egy alkalommal közösen ellenőrzi. Az ellenőrzés időpontjáról – azt legalább 15 nappal megelőzően – a sportlétesítmény üzemeltetője minden érintett szervezetet értesíteni köteles. A (4) bekezdésben meghatározott engedély – nézők részvétele nélkül tartott sportrendezvény tekintetében a szakszövetség szabályzatában meghatározott esetek kivételével – a rendőrség, a katasztrófavédelem, az általános tűzvédelmi hatóság és az egészségügyi államigazgatási szerv hozzájárulása nélkül nem adható meg. A rendőrség, a katasztrófavédelem, az általános tűzvédelmi hatóság és az egészségügyi államigazgatási szerv a hozzájárulás megadását az ellenőrzés során tapasztalt hiányosságok pótlásától, rendellenességek megszüntetésétől teheti függővé. Az ellenőrzésről a Minősítő Bizottság képviselője jegyzőkönyvet vesz fel, amit 8 napon belül megküld az ellenőrzést végző szervezeteknek.
 
 (3a) A sportrendezvények biztonságáról szóló kormányrendeletben meghatározott sportrendezvények lebonyolítására szolgáló sportlétesítmények üzemeltetőjének a sportlétesítmény összehangolt biztonságtechnikai fejlesztését biztosító, az ellenőrzést végző szervezetek által közösen elfogadott négyéves biztonságtechnikai fejlesztési tervvel (a továbbiakban: fejlesztési terv) és az ahhoz kapcsolódó költségtervvel kell rendelkeznie. A fejlesztési tervet éves bontásban kell elkészíteni. A (3) bekezdésben meghatározott ellenőrzés keretében az ellenőrzést végző szervezetek vizsgálják a fejlesztési tervben foglaltak megvalósulását. A vizsgálat eredményeként az ellenőrző szervezetek javaslatot tesznek a sportlétesítmény üzemeltetője részére a biztonságtechnikai fejlesztés irányaira. A sportlétesítmények üzemeltetésére, használatára vonatkozó megállapodásban a tulajdonos és az üzemeltető, használó köteles rendelkezni a biztonságtechnikai fejlesztés keretében az ellenőrző szervezetek által javasolt fejlesztés megvalósításával összefüggő jogokról és kötelezettségekről.
 
-(3b) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá nem tartozó, versenyrendszerben szervezett versenyek lebonyolítására alkalmas sportlétesítményeket biztonságtechnikai szempontból a rendőrség, a katasztrófavédelem, az Országos Mentőszolgálat, az egészségügyi államigazgatási szerv, a létesítményt használó sportszervezet, a tulajdonos, az üzemeltető, a sportrendezvényt szervező és az azzal szerződéses viszonyban álló egészségügyi szolgáltató és a rendező szerv legalább kétévente egy alkalommal, közösen ellenőrzi. Az ellenőrzés időpontjáról – azt legalább 15 nappal megelőzően – a sportlétesítmény üzemeltetője minden érintett szervezetet és a sportszövetséget értesíteni köteles. Az ellenőrzés szempontjait a sportszövetség állapítja meg. A (4) bekezdésben meghatározott engedély – nézők részvétele nélkül tartott sportrendezvény tekintetében a szakszövetség szabályzatában meghatározott esetek kivételével – a rendőrség, a katasztrófavédelem és az egészségügyi államigazgatási szerv hozzájárulása nélkül nem adható meg. A rendőrség, a katasztrófavédelem és az egészségügyi államigazgatási szerv a hozzájárulás megadását az ellenőrzés során tapasztalt hiányosságok pótlásától, rendellenességek megszüntetésétől teheti függővé. Az ellenőrzésről a sportlétesítmény üzemeltetője jegyzőkönyvet készít, amit 8 napon belül megküld a sportszövetségnek.
+(3b) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá nem tartozó, versenyrendszerben szervezett versenyek lebonyolítására alkalmas sportlétesítményeket biztonságtechnikai szempontból a rendőrség, a katasztrófavédelem, az általános tűzvédelmi hatóság, az Országos Mentőszolgálat, az egészségügyi államigazgatási szerv, a létesítményt használó sportszervezet, a tulajdonos, az üzemeltető, a sportrendezvényt szervező és az azzal szerződéses viszonyban álló egészségügyi szolgáltató és a rendező szerv legalább kétévente egy alkalommal, közösen ellenőrzi. Az ellenőrzés időpontjáról – azt legalább 15 nappal megelőzően – a sportlétesítmény üzemeltetője minden érintett szervezetet és a sportszövetséget értesíteni köteles. Az ellenőrzés szempontjait a sportszövetség állapítja meg. A (4) bekezdésben meghatározott engedély – nézők részvétele nélkül tartott sportrendezvény tekintetében a szakszövetség szabályzatában meghatározott esetek kivételével – a rendőrség, a katasztrófavédelem, az általános tűzvédelmi hatóság és az egészségügyi államigazgatási szerv hozzájárulása nélkül nem adható meg. A rendőrség, a katasztrófavédelem, az általános tűzvédelmi hatóság és az egészségügyi államigazgatási szerv a hozzájárulás megadását az ellenőrzés során tapasztalt hiányosságok pótlásától, rendellenességek megszüntetésétől teheti függővé. Az ellenőrzésről a sportlétesítmény üzemeltetője jegyzőkönyvet készít, amit 8 napon belül megküld a sportszövetségnek.
 
 (4) Sportlétesítményben sportszövetségi versenyt rendezni csak a sportszövetség által évente az első verseny megkezdése előtt kiadott engedély alapján lehet. Az engedély megtagadásával szemben az üzemeltető a sportszövetség elnökségénél 15 napon belül panasszal élhet. A sportszövetség szabályzatában meghatározhatja azokat az eseteket, amelyekben a sportszövetségi engedély a (3) és (3b) bekezdés szerinti előzetes biztonságtechnikai ellenőrzés hiányában is megadható, feltéve, hogy a verseny megrendezésére nézők részvétele nélkül kerül sor.
 
@@ -2063,7 +2070,7 @@ amelyben a testnek test elleni, vagy a testnek a sporttevékenység során haszn
 
 (11) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvénnyel összefüggésben, a jogszabályban meghatározott biztonsági előírások megsértése esetén a sportrendezvény helye szerint illetékes vármegyei rendőr-főkapitányság a jogsértés súlyától, az okozott kár mértékétől, a közbiztonságra való veszélyesség fokától, valamint a jogsértés ismétlődésétől függően közigazgatási bírságot szabhat ki a szervezővel, valamint a rendezővel szemben. A közigazgatási bírság ismételt kiszabása vagy meg nem fizetése esetén a rendőrség határozattal korlátozza a sportrendezvényen a nézőszámot, vagy megtiltja a nézők részvételével történő megrendezést.
 
-68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését, valamint fokozott biztonsági kockázatú sportrendezvény esetén beléptető rendszer alkalmazásának kötelezettségét – a sportrendezvény szervezőjével folytatott előzetes egyeztetést követően – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) az általa működtetett Minősítő Bizottság javaslata alapján határozza meg. A Minősítő Bizottság az ORFK, a katasztrófavédelem, az Országos Mentőszolgálat, az Országos Bírósági Hivatal elnöke, a Legfőbb Ügyészség, a sportpolitikáért felelős miniszter, valamint a sportágak országos sportági szakszövetségei által delegált szakértőkből áll. A Minősítő Bizottság működésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését, valamint fokozott biztonsági kockázatú sportrendezvény esetén beléptető rendszer alkalmazásának kötelezettségét – a sportrendezvény szervezőjével folytatott előzetes egyeztetést követően – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) az általa működtetett Minősítő Bizottság javaslata alapján határozza meg. A Minősítő Bizottság az ORFK, a hivatásos katasztrófavédelmi szerv központi szerve, az általános tűzvédelmi hatóság felügyeleti szerve, az Országos Mentőszolgálat, az Országos Bírósági Hivatal elnöke, a Legfőbb Ügyészség, a sportpolitikáért felelős miniszter, valamint a sportágak országos sportági szakszövetségei által delegált szakértőkből áll. A Minősítő Bizottság működésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 (2) A sportrendezvény biztonsági minősítése
 
@@ -2351,11 +2358,11 @@ adatokat továbbítja.
 
 ### X/A. Fejezet — EGYES ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK ÉS EGYÉB VAGYONELEMEK VAGYONKEZELŐINEK KIJELÖLÉSÉRŐL
 
-76/B. § (1) A magyarországi sportélet fejlesztése és a sport közösségformáló funkciójának megerősítése céljából az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – vagyonkezelőjeként az 1. mellékletben meghatározott jogi személyeket jelöli ki.
+76/B. § (1) A magyarországi sportélet fejlesztése és a sport közösségformáló funkciójának megerősítése céljából az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. és 2. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – vagyonkezelőjeként az 1. és 2. mellékletben meghatározott jogi személyeket jelöli ki.
 
-(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – (a továbbiakban: ingatlanok) üzemeltetéséhez, valamint az ingatlanokon található állami tulajdonú ingó vagyonelemek vagyonkezelőjeként az 1. mellékletben meghatározott jogi személyeket jelöli ki.
+(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. és 2. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – (a továbbiakban: ingatlanok) üzemeltetéséhez, valamint az ingatlanokon található állami tulajdonú ingó vagyonelemek vagyonkezelőjeként az 1. és 2. mellékletben meghatározott jogi személyeket jelöli ki.
 
-(1b) Az (1a) bekezdés szerinti vagyonelemek az 1. mellékletben meghatározott jogi személyek és a tulajdonosi joggyakorló között fennálló vagyonkezelési szerződés hatálya alá kerülnek azzal, hogy az 1. mellékletben meghatározott jogi személyek 60 napon belül kötelesek – a vagyonnyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemeket.
+(1b) Az (1a) bekezdés szerinti vagyonelemek az 1. és 2. mellékletben meghatározott jogi személyek és a tulajdonosi joggyakorló között fennálló vagyonkezelési szerződés hatálya alá kerülnek azzal, hogy az 1. és 2. mellékletben meghatározott jogi személyek 60 napon belül kötelesek – a vagyonnyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemeket.
 
 (2) Az (1)–(1b) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik. A vagyonkezelő a vagyonkezelői jog gyakorlásának ellenértékeként a (3) bekezdés szerint meghatározott vagyonkezelési díjat köteles fizetni.
 
@@ -2444,7 +2451,9 @@ kezeli.
 - r) versenyszabályzat: a versenyrendszer keretében folytatott sporttevékenységre és az ahhoz közvetlenül kapcsolódó szakmai tevékenységekre vonatkozó előírások rendszerbe foglalt összessége, amely a versenyrendszerben részt vevő sportolók, sportszervezetek, sportszakemberek általános és sportági kötelezettségein túlmenően tartalmazza a versenyrendszert működtető sportszövetség eljárásának szabályait is;
 - s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolgáló építmény és terület.
 - t) utánpótlás-nevelés fejlesztését végző alapítvány: alapító okiratában meghatározott tartós közérdekű cél szerinti tevékenysége – elsősorban utánpótláskorú versenyzőkkel kapcsolatos – sporttevékenység elősegítése, feltételeinek biztosítása, felkészítő (edzéssel összefüggő) és versenyeztetési feladatok szervezése.
-- u) sportrendezvény: versenyrendszerben vagy azon kívül, sporttevékenység végzése céljából tartott sportesemény, verseny, mérkőzés és az azt közvetlenül megelőző másfél óra, valamint az azt közvetlenül követő másfél óra,
+- u) sportrendezvény: versenyrendszerben vagy azon kívül, sporttevékenység végzése céljából tartott sportesemény, verseny, mérkőzés és
+  - ua) beléptető rendszer alkalmazása esetén az első nézőnek az annak helyszínére történő belépése időpontjától az utolsó nézőnek az annak helyszínéről történő távozása időpontjáig terjedő időtartam, vagy
+  - ub) beléptető rendszer alkalmazása hiányában az azt közvetlenül megelőző két óra, valamint az azt közvetlenül követő két óra,
 - v) olimpiai pályázat: a 2024. évi XXXIII. Nyári Olimpiai és XVII. Paralimpiai Játékok budapesti rendezésére vonatkozó pályázat,
 - w) olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság: Budapest Főváros Önkormányzata és a Magyar Olimpiai Bizottság közös és kizárólagos tulajdonában álló, az olimpiai pályázat lebonyolításáért felelős zártkörűen működő nonprofit részvénytársaság,
 - x) CAS: Nemzetközi Sportdöntőbíróság,
@@ -2566,6 +2575,12 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 
 78/V. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel (a továbbiakban: Módtv13.) megállapított 11/A. § (5) bekezdésében meghatározott feltételnek való megfelelést a tizennyolcadik életévét be nem töltött sportolót felkészítő edzői tevékenységet végző sportszakember a Módtv13. hatálybalépésekor fennálló jogviszony esetén a Módtv13. hatálybalépését követően 60 napon belül a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal igazolja.
 
+78/W. § (1) Az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvénnyel (a továbbiakban: Módtv14.) megállapított 59. § (6b) és (6c) bekezdése tekintetében első járadékra jogosító eredmény elérését megalapozó sporteseménynek minősül a Módtv14. hatálybalépését követően rendezett, az 59. § (1) bekezdése szerinti sportesemény.
+
+(2) E törvénynek a Módtv14.-gyel megállapított 59. § (6a) és (6d) bekezdését a Módtv14. hatálybalépését megelőzően megtartott, olimpiai járadékra jogosító sportesemény tekintetében is alkalmazni kell, ha az olimpiai járadékra jogosító sportesemény hivatalos időszakának zárónapjától a Módtv14. hatálybalépéséig 1 év még nem telt el.
+
+78/Y. § E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel módosított 22. § (2) bekezdés f) pontját, valamint 51. § (2) bekezdés g) pontját e rendelkezések hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
 ### Felhatalmazó rendelkezések
 
 79. § (1) Felhatalmazást kap a Kormány, hogy
@@ -2629,49 +2644,25 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 
 |  | A | B |
 | --- | --- | --- |
-|  | Az ingatlan helyrajzi száma | A kijelölt vagyonkezelő |
-| 1 | Budapest, belterület 38440/52 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 2 | Budapest, belterület 38440/53 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 3 | Budapest, belterület 38440/54 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 4 | Budapest, belterület 38442/16 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 5 | Budapest, belterület 38442/17 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 6 | Budapest, belterület 38442/15 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 7 | Budapest, belterület 38293/78 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 8 | Budapest, belterület 74333/1 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 9 | Budapest, belterület 74232 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 10 | Budapest, belterület 74327/1 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 11 | Budapest, belterület 74324 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 12 | Budapest, belterület 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
-| 13. | Budapest, belterület 38821/8 hrsz | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
-| 14 | Budapest, belterület 4465 (14000/68063 tulajdoni hányad arányában) | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
-| 15 | Budapest, belterület 38820/3 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
-| 16 | Budapest, belterület 38831 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
-| 17 | Budapest, belterület 26085/1123 (33261/125049 tulajdoni hányad arányában) | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
-| 18 |  |  |
-| 19 | Budapest, belterület 76561/221 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
-| 20 | Budapest, belterület 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 21 | Budapest, belterület 29834/12 | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 22 | Budapest, belterület 29834/15 | BVSC - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 23 | Budapest, belterület 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 24 | Budapest, belterület 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 25 | Budapest, belterület 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 26 | Budapest, belterület 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 27 | Budapest, belterület 38826 | Magyar Lovassport Szövetség (székhely: Budapest 1087, Kerepesi út 7. Nemzeti Lovarda) |
-| 28 | Budapest, belterület 38295/1 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 29 | Budapest, belterület 38295/11 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 30 | Budapest, belterület 38295/12 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 31 | Budapest, belterület 38295/14 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 32 |  |  |
-| 33 |  |  |
-| 34 |  |  |
-| 35 |  |  |
-| 36. | Veszprém, külterület 0213/85/A hrsz | Veszprémi Építők Sportegyesület (székhely: 8200 Veszprém, Külső-kádártai út 5.) |
-| 37. | Veszprém, külterület 0213/85 hrsz | Veszprémi Építők Sportegyesület (székhely: 8200 Veszprém, Külső-kádártai út 5.) |
-| 38. | Budapest, belterület 25992/1 (93330/1683450 tulajdoni hányad arányában) | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
-| 39. | Budapest belterület 23800/6 hrsz (10245/100786 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 40. | Budapest belterület 38440/23 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 41. | Budapest, belterület, 32112 hrsz | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
-| 42. | Budapest, belterület 25992/1 hrsz (10940/1683450 tulajdoni hányad arányában) | Központi Sport és Ifjúsági Egyesület (székhely: 1146 Budapest, Istvánmezei út 1–3.) |
-| 43. | Budapest, belterület 74332 hrsz | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 44. | Budapest, belterület 38303/69 hrsz | Pénzügyőr Sportegyesület (székhely: 1026 Budapest, Pasaréti út 124–126.) |
-| 45. | Budapest, belterület 11637 hrsz | Pénzügyőr Sportegyesület (székhely: 1026 Budapest, Pasaréti út 124–126.) |
+| 1 | Az ingatlan helyrajzi száma | A kijelölt vagyonkezelő |
+| 2 | Budapest, belterület 23800/6 10245/100786 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: 1134 Budapest, Dózsa György út 53.) |
+| 3 | Budapest, belterület 38295/1 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129., a továbbiakban: Ferencvárosi Torna Club) |
+| 4 | Budapest, belterület 38295/11 | Ferencvárosi Torna Club |
+| 5 | Budapest, belterület 38295/12 | Ferencvárosi Torna Club |
+| 6 | Budapest, belterület 38295/14 | Ferencvárosi Torna Club |
+| 7 | Budapest belterület 38442/15 | Ferencvárosi Torna Club |
+| 8 | Budapest, belterület 38826 | Magyar Lovassport Szövetség (székhely: 1087 Budapest, Kerepesi út 7. Nemzeti Lovarda) |
+| 9 | Budapest, belterület 11637 | Pénzügyőr Sportegyesület (székhely: 1026 Budapest, Pasaréti út 124–126., a továbbiakban: Pénzügyőr Sportegyesület) |
+| 10 | Budapest, belterület 38303/69 | Pénzügyőr Sportegyesület |
+| 11 | Veszprém, külterület 0213/85 | Veszprémi Építők Sportegyesület (székhely: 8200 Veszprém, Külső-Kádartai út 5., a továbbiakban: Veszprémi Építők Sportegyesület) |
+| 12 | Veszprém, külterület 0213/85/A | Veszprémi Építők Sportegyesület |
+
+### 2. melléklet a 2004. évi I. törvényhez
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | Az ingatlan helyrajzi száma | A kijelölt vagyonkezelő |
+| 2 | Budapest, belterület 38293/78 | Ferencvárosi Torna Club (székhely: 1091 Budapest, Üllői út 129.) |
+| 3 | Budapest, belterület 74333/1 | Újpesti Torna Egylet (székhely: 1044 Budapest, Megyeri út 13., a továbbiakban: Újpesti Torna Egylet) |
+| 4 | Budapest, belterület 74232 | Újpesti Torna Egylet |
+| 5 | Budapest, belterület 74332 | Újpesti Torna Egylet |

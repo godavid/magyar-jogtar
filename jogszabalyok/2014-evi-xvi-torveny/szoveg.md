@@ -3122,7 +3122,7 @@ van összefüggésben.
 
 (8) E törvény 155–161. §-a az Európai Bizottság – az ABAK-irányelv 67. cikk (6) bekezdése alapján elfogadandó – felhatalmazáson alapuló jogi aktusának meghozatalát követő 15. napon lép hatályba.
 
-(9) A 155–161. § hatálybalépésének naptári napját a miniszter az Európai Bizottság (8) bekezdésben meghatározott jogi aktusa meghozatalát követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozattal állapítja meg.
+(9)
 
 ### Átmeneti rendelkezések
 

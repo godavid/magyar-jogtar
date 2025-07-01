@@ -11,6 +11,7 @@ Az Országgyűlés a pénzügyi eszközök és pénzügyi szektor termékeinek i
 - a) a kriptoeszközök Magyarországon történő kibocsátására, nyilvános ajánlattétel keretében történő kínálatára, illetve kereskedésbe bevezetésére,
 - b) a Magyarország területén végzett kriptoeszköz-szolgáltatásra, valamint
 - c) a magyar hatóság által ellátott, e törvényben meghatározott felügyeleti tevékenységre.
+- d) a Magyarországon végzett kriptoeszköz-átváltási szolgáltatás validálására.
 
 (2) E törvény hatálya nem terjed ki a kriptoeszközök piacáról, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i, (EU) 2023/1114 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet] 2. cikk (2)–(4) bekezdésében meghatározott személyekre és kriptoeszközökre.
 
@@ -21,10 +22,15 @@ Az Országgyűlés a pénzügyi eszközök és pénzügyi szektor termékeinek i
 - 3. hitelintézet: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben ekképp meghatározott fogalom;
 - 4. jelentős IKT-vonatkozású esemény: a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] ekképp meghatározott fogalom;
 - 5. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
+- 5a. Kriptoeszköz-átváltást validáló szolgáltató: az e tevékenység végzésére engedéllyel rendelkező jogi személy;
+- 5b. Kriptoeszköz-átváltási szolgáltatás: az ügyfél átváltási megbízása alapján kriptoeszköz átváltása pénzre, illetve kriptoeszköz átváltása más kriptoeszközre;
 - 6. kriptoeszköz-szolgáltatás: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 - 7. kriptoeszköz-szolgáltató: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
+- 7a. kriptoeszköz átváltása pénzre: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben meghatározott fogalom;
+- 7b. kriptoeszköz átváltása más kriptoeszközre: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben meghatározott fogalom;
 - 8. kriptoeszközökre vonatkozó tanácsadás: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 - 9. lakossági birtokos: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
+- 9a. nem engedélyezett kriptoügylet: kriptoeszköz-átváltást validáló szolgáltató által kibocsátott megfelelőségi nyilatkozattal nem validált kriptoeszköz átváltása pénzre vagy más kriptoeszközre az e törvényben és a végrehajtására kiadott jogszabályban meghatározott esetek kivételével;
 - 10. nyilvános ajánlattétel: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom.
 
 3. § Ha törvény másként nem rendelkezik, a kriptoeszköz-szolgáltatók felügyeletét Magyarországon a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) látja el.
@@ -51,6 +57,12 @@ Az Országgyűlés a pénzügyi eszközök és pénzügyi szektor termékeinek i
 9. § (1) A kriptoeszköz-szolgáltató és az eszközalapú tokenek kibocsátója a jelentős IKT-vonatkozású eseményeket az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT).
 
 (2) Ha kriptoeszköz-szolgáltató és az eszközalapú tokenek kibocsátója a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
+
+9/A. § (1) Kriptoeszközt – a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnöke rendeletében meghatározott kivételekkel – csak kriptoeszköz-átváltást validáló szolgáltató által kibocsátott megfelelőségi nyilatkozat alapján lehet pénzre vagy más kriptoeszközre átváltani.
+
+(2) A kriptoeszköz-átváltási szolgáltató megtagadja az átváltási szolgáltatást, ha az ügyfél vagy ügylet azonosítás eredménytelen.
+
+(3) A nem engedélyezett kriptoügyletből származó értéktranszfer érvénytelen, joghatás kiváltására alkalmatlan, pénzforgalmi szolgáltatás tárgya nem lehet.
 
 #### 3. A panaszkezelés
 
@@ -128,11 +140,79 @@ Az Országgyűlés a pénzügyi eszközök és pénzügyi szektor termékeinek i
 
 rendelkezései szerint fizet felügyeleti díjat.
 
+#### 4/A. A kriptoeszköz-átváltást validáló szolgáltató
+
+12/A. § (1) Kriptoeszköz-átváltást validáló szolgáltatást az ilyen szolgáltatóként engedélyezett jogi személy végezhet.
+
+(2) A kriptoeszköz-átváltás validálásának célja az átváltási megbízás ügyfél és ügylet azonosításának eredményes elvégzése.
+
+(3) A kriptoeszköz validálási szolgáltatás kiterjed legalább
+
+- a) a kriptoeszköz eredetének vizsgálatára,
+- b) a kriptoeszköz tárolására alkalmas eszköz vagy pénztárca tulajdonjogának ellenőrzésére,
+- c) a kapcsolt természetes, illetve jogi személyek azonosítására, amennyiben az lehetséges,
+- d) a szolgáltatás igénybe vevőjének profil alapú vizsgálatára, valamint
+- e) a külső adatbázisok ellenőrzésére.
+
+(4) A (2)–(3) bekezdés szerinti szolgáltatást a kriptoeszköz-átváltást validáló szolgáltató ésszerű időn belül végzi el.
+
+(5) Ha a validálási szolgáltatás arra az eredményre vezet, hogy az átváltási megbízás ügyfél és ügylet azonosítása eredményesen megtörtént, a kriptoeszköz-átváltást validáló szolgáltató megfelelőségi nyilatkozatot bocsát ki.
+
+(6) Az (1) bekezdés szerinti engedélyezési eljárás részletes szabályait, ideértve a kriptoeszköz-átváltást validáló szolgáltatás végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit az SZTFH elnöke rendeletben állapítja meg.
+
+12/B. § (1) A kriptoeszköz-átváltást validáló szolgáltató köteles tisztességes, egyértelmű tájékoztatást nyújtani ügyfeleinek a validálási szolgáltatás részleteiről, ideértve az árképzési politikát is, amelyet a kriptoeszköz-átváltást validáló szolgáltató honlapján közzé kell tenni.
+
+(2) A kriptoeszköz-átváltást validáló szolgáltató vezető testületének tagjai rendelkeznek az e szolgáltatás nyújtásához szükséges szakmai ismeretekkel és tapasztalatokkal, valamint velük szemben – a kriptoeszköz-átváltást validáló szolgáltatás nyújtására vonatkozó engedély iránti kérelem benyújtását megelőző – 5 éven belül nem hoztak büntetőügyben, vagy kriptoeszköz-átváltásával összefüggésben marasztaló ítéletet.
+
+(3) A kriptoeszköz-átváltást validáló szolgáltató többségi befolyással rendelkező tulajdonosának vagy tulajdonosainak jó hírnévvel kell rendelkezniük, valamint velük szemben – a kriptoeszköz-átváltást validáló szolgáltatás nyújtására vonatkozó engedély iránti kérelem benyújtását megelőző – 5 éven belül nem hoztak büntetőügyben, vagy kriptoeszköz átváltásával összefüggésben marasztaló ítéletet.
+
+(4) A kriptoeszköz-átváltást validáló szolgáltató e szolgáltatás nyújtásához szükséges szakmai ismeretekkel és tapasztalatokkal rendelkező személyzetet alkalmaz.
+
+(5) A kriptoeszköz-átváltást validáló szolgáltató megfelelő szabályzatot alkot és eljárásokat vezet be az összeférhetetlenség azonosítása és kezelése érdekében.
+
+#### 4/B. A kriptoeszköz-átváltást validáló szolgáltató felügyelete
+
+12/C. § (1) A kriptoeszköz-átváltást validáló szolgáltatók felügyeletét az SZTFH látja el, amely során kiadja a tevékenység végzéséhez szükséges engedélyt és biztosítja, hogy a kriptoeszköz-átváltást validáló szolgáltatók tevékenységüket az e törvényben meghatározottak szerint végezzék.
+
+(2) Az SZTFH az engedéllyel rendelkező kriptoeszköz-átváltást validáló szolgáltatókról nyilvántartást vezet, amely a következőket tartalmazza:
+
+- a) a kriptoeszköz-átváltást validáló szolgáltató
+  - aa) neve, székhelye, adószáma,
+  - ab) elérhetősége,
+  - ac) képviseletét ellátó személy neve,
+- b) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatok.
+
+(3) A kriptoeszköz-átváltást validáló szolgáltató a (2) bekezdés szerinti adatokban bekövetkező változást annak bekövetkezésétől számított 15 napon belül bejelenti az SZTFH részére.
+
+(4) Ha a kriptoeszköz-átváltást validáló szolgáltató tevékenységet már nem végez, akkor a (2) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő öt év elteltével a nyilvántartásából törli.
+
+(5) Ha a (2) bekezdés szerinti adatok változását a kriptoeszköz-átváltást validáló szolgáltató bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot az SZTFH az adat változása bejegyzését követő öt év elteltével a nyilvántartásból törli.
+
+(6) Az SZTFH a honlapján közzéteszi kriptoeszköz-átváltást validáló szolgáltató esetében a (2) bekezdés szerinti nyilvántartás adatai közül a (2) bekezdés a) pont aa) alpontja szerinti adatokat.
+
+(7) A (2) bekezdés szerinti adatok kezelésének célja a kriptoeszköz-átváltást validáló szolgáltatókra vonatkozó információk naprakészen tartása, valamint az SZTFH felügyeleti jogkörének és hatósági ellenőrzési feladatainak ellátása.
+
+12/D. § (1) A kriptoeszköz-átváltást validáló szolgáltató működése során köteles az SZTFH felhívásában és határozatában foglaltaknak eleget tenni.
+
+(2) Az SZTFH felügyeleti jogkörében a kriptoeszköz-átváltást validáló szolgáltató engedélyét visszavonja, ha annak működése törvényt sért vagy az engedélyben foglaltakat megsérti.
+
+(3) Az SZTFH a (2) bekezdés szerinti esetben a kriptoeszköz-átváltást validáló szolgáltató működését az engedély visszavonásától számított öt évre megtiltja.
+
+(4) Az SZTFH ellenőrzési jogkörében a kriptoeszköz-átváltást validáló szolgáltatót felhívhatja dokumentumok, adatok és kommunikációs nyilvántartások átadására, annak székhelyén, telephelyén, fióktelepén, ügyfélfogadásra alkalmas szolgálati egységében helyszíni ellenőrzést végezhet, bizonyítékot lefoglalhat, az eszközök zár alá vétele vagy lefoglalása iránt intézkedhet.
+
 #### 5. Záró rendelkezések
 
 13. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a 8. § szerinti ismeretek és szakmai tapasztalatok értékelésének kritériumrendszerét.
 
+(1a) Felhatalmazást kap a Kormány, hogy a 12/C. § (3) bekezdésében, a 12/D. § (1) és (2) bekezdésében, valamint az e törvény végrehajtására kiadott jogszabályokban foglaltak megsértése esetében alkalmazandó bírság összegét rendeletben megállapítsa.
+
 (2) Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatásra, az ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
+
+(3) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke, hogy rendeletben meghatározza
+
+- a) a 9/A. § (1) bekezdése szerinti kivételeket,
+- b) a kriptoeszköz-átváltást validáló szolgáltató engedélyezési eljárásának részletes szabályait, ideértve a kriptoeszköz-átváltást validáló szolgáltatás végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit,
+- c) a 12/C. § (2) bekezdése szerinti nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
 
 14. § Ez a törvény 2024. június 30-án lép hatályba.
 
@@ -141,6 +221,8 @@ rendelkezései szerint fizet felügyeleti díjat.
 #### 16. §
 
 16. § A 2024. december 30-a előtt már működő kriptoeszköz-szolgáltató az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben foglalt követelményeknek legkésőbb 2025. július 1-jétől köteles megfelelni.
+
+16/A. § E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel megállapított 9/A. §-át és 4/A. alcímét a kriptoeszköz-átváltási szolgáltatónak az e rendelkezések hatálybalépését követően az SZTFH elnökének a 12/A. § (6) bekezdése szerinti rendelete hatálybalépését követő 60. naptól kell alkalmazni.
 
 17. § Ez a törvény
 

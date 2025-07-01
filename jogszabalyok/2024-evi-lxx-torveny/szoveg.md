@@ -1718,6 +1718,13 @@ azzal, hogy a szülési szabadság időtartama a szülést követően 6 hétnél
 
 (5) A szülési szabadság tartamára illetmény jár. A szülési szabadság idejére járó illetmény személyi jövedelemadóval és a nemzetbiztonsági állomány tagját terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint az Ebtv. szerinti csecsemőgondozási díj naptári napi összegének a 30-szorosa.
 
+(6) Ha a nemzetbiztonsági állomány szülési szabadság idejére illetményben részesülő tagja a gyermek születésének napjától számított 90 nap lejártát követően
+
+- a) a szülési szabadságát megszakítva ismételten szolgálatba áll, a szülési szabadság igénybe nem vett idejére, az e törvény szerint számított illetménye mellett, vagy
+- b) bármilyen más jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – keresőtevékenységet folytat, a szülési szabadság hátralévő idejére
+
+az (5) bekezdés szerinti összeg 70%-ára jogosult.
+
 #### 61. Apasági szabadság
 
 122. § (1) Az apát 10 munkanap apasági szabadság illeti meg
@@ -3216,6 +3223,8 @@ szűnik meg.
 (4) A foglalkoztatott 2025. február 1-ig írásban nyilatkozik arról, hogy hozzájárul-e jogviszonyának nemzetbiztonsági alkalmazotti jogviszonnyá átalakulásához. A nyilatkozat megtétele érdekében a polgári nemzetbiztonsági szolgálat tájékoztatást ad a nemzetbiztonsági alkalmazotti jogviszony lényeges elemeiről, és arról, hogy az átalakulás esetén az illetménye nem lehet kevesebb a 2025. február 28-án megállapítottnál.
 
 (5) Ha a polgári nemzetbiztonsági szolgálatnál foglalkoztatott a (4) bekezdés szerinti nyilatkozatában nem járul hozzá jogviszonyának átalakulásához, a felmentési vagy felmondási idő a nyilatkozattétel napját követő napon kezdődik.
+
+237/A. § A belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvénnyel megállapított 121. § (6) bekezdésében és 237/A. §-ban foglaltak a 2025. június 30-át követően folyósított szülési szabadság idejére járó illetmény tekintetében alkalmazhatóak.
 
 #### 98. Az Európai Unió jogának való megfelelés
 

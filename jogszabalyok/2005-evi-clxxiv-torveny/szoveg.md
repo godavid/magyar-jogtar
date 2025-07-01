@@ -17,7 +17,7 @@ A magyar nemzet jövője, a hátrányos helyzetűek esélyeinek növelése irán
 2. § E törvény alkalmazásában
 
 - 1. életkezdési támogatás: a gyermeket 18. életévének betöltése napján e törvény alapján Magyarország törvényes fizetőeszközében megillető összeg;
-- 2. fiatal felnőtt: a 18. életévének betöltése napját követően a 3. pontban említett személy;
+- 2. fiatal felnőtt: a 18. életévének betöltése napját követően a 3. és 3a. pontban említett személy;
 - 3. belföldi gyermek: Magyarország területén élő magyar állampolgár a 18. életévének betöltése napjáig;
 - 3a. külföldi gyermek: Magyarország területén kívül élő
   - a) a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv által anyakönyvezett magyar állampolgár 18. életévének betöltése napjáig,

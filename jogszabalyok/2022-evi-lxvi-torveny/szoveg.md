@@ -285,6 +285,17 @@ ellátásának elősegítése érdekében.
   - ab) a cégnév, illetve az előállítási hely címe legfeljebb feleakkora betűnagysággal tüntethető fel, mint a „földrajzi árujelző nélküli termék” felirat;
 - b) földrajzi árujelzővel ellátott agrártermék címkéjén a cégnév, illetve az előállítási hely címe legfeljebb feleakkora betűnagysággal tüntethető fel a címkén, mint az oltalom alatt álló földrajzi árujelző.
 
+26/A. § (1) Az Európai Unióban először Magyarország területén forgalomba hozott, a kereskedő saját márkanevével vagy védjegyével jelölt agrártermék csomagolásán oltalom alatt álló földrajzi árujelző elnevezés – a (2) bekezdésben foglalt kivétellel – csak akkor tüntethető fel, ha
+
+- a) a végső fogyasztói csomagoláson a földrajzi árujelzővel ellátott terméket előállító gazdasági szereplő nevét és címét feltüntették,
+- b) az agrártermék megjelenésének, megnevezésének vagy jelölése lényeges tartalmának meghatározására a földrajzi árujelzővel ellátott terméket előállító gazdasági szereplő jogosult, és
+- c) az agrárterméket a földrajzi árujelzővel ellátott terméket előállító gazdasági szereplő korlátozás nélkül értékesítheti bármely, általa választott módon.
+
+(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni
+
+- a) az e törvény végrehajtására kiadott rendeletben meghatározott szektorokban működő vállalkozások által történő értékesítésekre, vagy
+- b) a legfeljebb 1000 kiszerelési egység mennyiségben forgalomba hozott agrártermékekre.
+
 ### VI. Fejezet — NYILVÁNTARTÁSBA VÉTEL, ELLENŐRZÉS ÉS JOGKÖVETKEZMÉNYEK
 
 #### 13. Az oltalom alatt álló elnevezést és az átmeneti nemzeti oltalom alatt álló földrajzi árujelzőt használó gazdasági szereplőkről vezetett nyilvántartás
@@ -381,7 +392,11 @@ rendeletben kijelölje.
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a kezelő szervezetek által ellátott feladatokra és a kezelő szervezetek működésére vonatkozó szabályokat.
+(3) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+- a) a kezelő szervezetek által ellátott feladatokra és a kezelő szervezetek működésére vonatkozó szabályokat,
+- b) a 26/A. § (2) bekezdés a) pontja szerinti vállalkozások körét,
+- c) a földrajzi árujelzővel ellátott termékek jelölésével kapcsolatos speciális szabályokat.
 
 #### 18. Hatályba léptető rendelkezés
 
@@ -390,6 +405,8 @@ rendeletben állapítsa meg.
 #### 18/A. Átmeneti rendelkezések
 
 33/A. § A 27. § (3) bekezdése szerinti ellenőrző hatóság 2025. július 31-ig felveszi a 27. § (3) bekezdése szerinti nyilvántartásba az e törvény hatálybalépésekor az ellenőrző hatóságok által az oltalom alatt álló elnevezéssel ellátott termékek előállítóiról vezetett nyilvántartásokban szereplő gazdasági szereplőket, a nyilvántartásban meglévő adataikkal, beszerezve a 27. § (3) bekezdésében felsorolt, esetlegesen hiányzó adatokat.
+
+33/B. § Az egyes agrártárgyú törvények módosításáról szóló 2024. évi LXXX. törvénnyel (a továbbiakban: 2024. évi LXXX. törvény) megállapított 26/A. § rendelkezéseinek meg nem felelő, 2025. július 1-jét megelőzően forgalomba hozott agrártermékek 2025. július 1-jét követően is forgalomban tarthatóak.
 
 #### 19. Az Európai Unió jogának való megfelelés
 
@@ -406,6 +423,8 @@ rendeletben állapítsa meg.
 - i) az (EU) 2019/787 európai parlamenti és tanácsi rendeletnek a szeszes italok földrajzi jelzéseinek bejegyzése iránti kérelem, a felszólalási eljárás, a termékleírások módosítása, a bejegyzés törlése, a szimbólum használata és az ellenőrzés vonatkozásában történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2021. május 12-i (EU) 2021/1236 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+34/A. § A 2024. évi LXXX. törvénnyel megállapított 26/A. §, 32. § (3) bekezdése és 33/B. § tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 #### 20. Módosító és hatályon kívül helyező rendelkezések
 

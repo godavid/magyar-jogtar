@@ -96,6 +96,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (8) A kereskedelmi hatóság az üzletben az üzletköteles termékek forgalmazására előírt követelmények megtartására veszélyt jelentő termékek forgalmazását vagy tevékenységek folytatását a működési engedélyben korlátozhatja vagy megtilthatja.
 
+(9) Az e törvény hatálya alá tartozó tevékenységek kapcsán a természetes személy fogyasztó részére a fogyasztóvédelemről szóló törvényben foglaltak szerint kell biztosítani a készpénzzel történő fizetés lehetőségét.
+
 4. § (1) A 3. § (4) bekezdését nem érintve, a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására, illetve felvásárlására (a továbbiakban a nemesfémekre vonatkozóan együttesen: forgalmazására) irányuló szándékot a vállalkozás köteles a kereskedelmi hatóságnak bejelenteni.
 
 (2) Az (1) bekezdés szerinti kereskedelmi tevékenység végzésére csak az a vállalkozás jogosult,
@@ -357,7 +359,7 @@ kell érteni.
 
 9. § (1) A kereskedelmi tevékenységre, a kereskedelmet kiszolgáló szolgáltató tevékenységekre, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységekre vonatkozó jogszabályi és hatósági előírások megtartását a kereskedelmi hatóság ellenőrzi, és – a (2) és a (3) bekezdésben foglalt kivétellel, továbbá törvény vagy kormányrendelet eltérő rendelkezése hiányában – eljár ezek megsértése esetén.
 
-(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C.–5/F. §-ban, valamint a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – a 3. § (9) bekezdésében, az 5. § (2) és (4) bekezdésében, az 5/C.–5/F. §-ban, valamint a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
 (3) A 7. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a Tpvt. 21. §-ának megsértése esetén irányadó rendelkezések szerint.
 

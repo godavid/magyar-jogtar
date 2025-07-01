@@ -208,11 +208,21 @@ egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáró
 
 (3)
 
-(4)
+(4) A Pmt. 3. § 28. pont j) alpontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában:
+
+pénzügyi szolgáltató:)
+
+  - „j) a befektetési vállalkozás, ideértve a Magyar Államkincstárt a befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatás nyújtása tekintetében,”
 
 (5)
 
-(6)
+(6) A Pmt. 3. §-a a következő 30a. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„30a. proliferáció finanszírozása: nukleáris, vegyi vagy biológiai fegyverek, továbbá az előállításukhoz és célba juttatásukhoz szükséges eszközök és termékek – ideértve a kettős felhasználású termékeket is –, szolgáltatások, technológiák gyártására, beszerzésére, birtoklására, fejlesztésére, kivitelére, átrakodására, közvetítésére, szállítására, átadására, készletezésére felhasznált pénzeszközök vagy szolgáltatások nyújtása, függetlenül attól, hogy azt a proliferáció elkövetőjének, vagy e személyekre tekintettel más személynek nyújtják-e;”
 
 (7)
 
@@ -240,15 +250,33 @@ egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáró
 
 #### 85. §
 
-#### 86. §
+86. § (1) A Pmt. 27. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján – a szolgáltató jellegével és méretével arányos – a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok feltárása és a feltárt kockázathoz társított intézkedés meghatározása céljából belső kockázatértékelést készíteni.
+
+(2) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez a szolgáltató köteles a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok megállapítása és értékelése céljából feltárni és értékelni az üzleti kapcsolat vagy ügyleti megbízás jellegével és összegével, az ügyféllel, termékkel, szolgáltatással, földrajzi területtel és alkalmazott eszközzel kapcsolatos kockázati tényezőket.”
+
+(2) A Pmt. 27. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(5) Az (1) bekezdésben meghatározott belső kockázatértékelés alapján a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján a 65. §-ban meghatározott belső szabályzatban – a szolgáltató jellegével és méretével arányos – a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok feltárása és a feltárt kockázatok kezeléséhez társított intézkedések meghatározása érdekében belső eljárásrendet meghatározni, valamint – ha a szolgáltató jellege és mérete indokolja – külső ellenőrzési funkciót működtetni a belső eljárásrend megfelelőségének ellenőrzése céljából.
+
+(6) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez, továbbá a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok csökkentése és kezelése érdekében a szolgáltató köteles figyelembe venni a nemzeti kockázatértékelés eredményét.”
+
+(3) A Pmt. 27. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A belső kockázatértékelés elkészítésére kötelezett szolgáltató köteles a pénzmosási és a terrorizmusfinanszírozási, valamint a proliferáció finanszírozásával kapcsolatos kockázatokat nyomon követni, a belső eljárásrendet szükség esetén felülvizsgálni és a szolgáltató kijelölt felelős vezetője jóváhagyását követően módosítani.”
 
 #### 87. §
 
 #### 88. §
 
-#### 89. §
+89. § A Pmt. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 90. §
+„(2) A Magyarországon telephellyel, de más tagállamban székhellyel rendelkező elektronikuspénz-kibocsátó és pénzforgalmi szolgáltató, valamint kriptoeszköz-szolgáltató köteles írásban kijelölni, és az 5. § szerinti felügyeletet ellátó szerv, valamint a pénzügyi információs egység részére írásban bejelenteni egy magyarországi központi kapcsolattartó pontot, amely biztosítja, hogy a szolgáltató Magyarországon működő, fióktelepnek nem minősülő telephelyei végrehajtják az e törvényben vagy a pénzmosás- és terrorizmusfinanszírozás-megelőzési tárgyú közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott kötelezettségeket, továbbá elősegíti a 69. § alapján előírt felügyeleti intézkedések végrehajtását, azáltal, hogy kérésre dokumentumokat, adatokat és információkat bocsát a felügyeletet ellátó szerv rendelkezésére.”
+
+90. § A Pmt. 64. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szolgáltató a beazonosított kockázataival összhangban köteles gondoskodni arról, hogy az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai a pénzmosás és a terrorizmus finanszírozása, valamint a proliferáció finanszírozása megelőzésére és megakadályozására vonatkozó jogszabályi rendelkezéseket megismerjék, a pénzmosást vagy a terrorizmus finanszírozását, valamint a proliferáció finanszírozását elősegítő, lehetővé tevő vagy megvalósító üzleti kapcsolatot, ügyletet felismerjék, továbbá a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény, körülmény felmerülése esetén e törvénynek megfelelően tudjanak eljárni.”
 
 #### 91. §
 
@@ -280,12 +308,12 @@ egyes pénzügyi és vagyongazdálkodási tárgyú törvények módosításáró
 - 16.
 - 17.
 - 18.
-- 19.
+- 19. 28. § (2) és (5) bekezdésében a „pénzmosási és terrorizmus-finanszírozási” szövegrész helyébe a „pénzmosási és terrorizmus-finanszírozási, valamint a proliferáció finanszírozásával kapcsolatos” szöveg,
 - 20.
 - 21.
 - 22.
 - 23.
-- 24.
+- 24. 63. § (1) bekezdésében a „pénzmosást vagy a terrorizmus finanszírozását” szövegrész helyébe a „pénzmosást vagy a terrorizmusfinanszírozását, valamint a proliferáció finanszírozását” szöveg,
 - 25.
 - 26.
 - 27.

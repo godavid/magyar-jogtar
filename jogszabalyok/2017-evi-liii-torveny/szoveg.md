@@ -118,7 +118,7 @@ meghatározott intézkedés.
   - g) a biztosító, amennyiben életbiztosítási ágba tartozó tevékenység végzésére engedéllyel rendelkezik, e tevékenysége tekintetében,
   - h) az életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során a Bit.-ben meghatározott többes ügynök és alkusz,
   - i) a Hpt.-ben meghatározott többes kiemelt közvetítő és alkusz,
-  - j) a befektetési vállalkozás,
+  - j) a befektetési vállalkozás, ideértve a Magyar Államkincstárt a befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatás nyújtása tekintetében,
   - k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevékenysége tekintetében,
   - l) a befektetési alapkezelő – ideértve a kockázati tőkealap-kezelőt is – a kollektív befektetési értékpapír forgalomba hozatali és forgalmazási tevékenysége tekintetében, továbbá a Bszt.-ben meghatározott befektetési szolgáltatási tevékenysége, kiegészítő befektetési szolgáltatási tevékenysége tekintetében,
   - m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
@@ -128,6 +128,7 @@ meghatározott intézkedés.
 - 28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszköz és virtuális fizetőeszköz törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
 - 29. pénzügyi vállalkozás: a Hpt.-ben meghatározott pénzügyi vállalkozás;
 - 30. pénzváltó iroda: hitelintézettel kötött megbízási szerződés alapján pénzváltási tevékenységet folytató kiemelt közvetítő;
+- 30a. proliferáció finanszírozása: nukleáris, vegyi vagy biológiai fegyverek, továbbá az előállításukhoz és célba juttatásukhoz szükséges eszközök és termékek – ideértve a kettős felhasználású termékeket is –, szolgáltatások, technológiák gyártására, beszerzésére, birtoklására, fejlesztésére, kivitelére, átrakodására, közvetítésére, szállítására, átadására, készletezésére felhasznált pénzeszközök vagy szolgáltatások nyújtása, függetlenül attól, hogy azt a proliferáció elkövetőjének, vagy e személyekre tekintettel más személynek nyújtják-e;
 - 31. stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország: az (EU) 2015/849 európai parlamenti és tanácsi irányelvnek a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országok megállapítása tekintetében történő kiegészítéséről szóló, 2016. július 14-i (EU) 2016/1675 bizottsági felhatalmazáson alapuló rendeletben meghatározott országok;
 - 31a. székhelyszolgáltató: az adózás rendjéről szóló törvényben meghatározott székhelyszolgáltató;
 - 32. személyazonosság igazolására alkalmas hatósági igazolvány: személyazonosító igazolvány, útlevél, valamint kártya formátumú vezetői engedély;
@@ -169,7 +170,7 @@ meghatározott intézkedés.
 - 43. ügylet:
   - a) az üzleti kapcsolat során a szolgáltató szakmai tevékenységi körébe tartozó szolgáltatás igénybevételéhez tartozó művelet, vagy
   - b) az ügyleti megbízás.
-- 44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony;
+- 44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony, valamint a 6. § (1) bekezdés e) pontja szerinti eseti jogviszony.
 - 45. üzleti kapcsolat:
   - a) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
   - b) a játékkaszinót vagy kártyatermet működtető szolgáltató vonatkozásában a játékkaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, illetve a távszerencsejáték és az online kaszinójáték szervezőjénél a játékos nyilvántartásba vétele,
@@ -502,10 +503,9 @@ meghatározott ügyfél-átvilágítási intézkedéseket – kockázatérzéken
 - a) a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján,
 - b) az ügyfél személyes megjelenése hiányában
   - ba) az ügyfél által postai úton küldött okiratmásolatok és nyilatkozatok alapján,
-  - bb) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatban rögzített esetekben az ügyfél által az ügyfél azonosított elektronikus levelezési címéről biztonságosan küldött vagy a szolgáltató által az ügyféllel való kapcsolattartás érdekében üzemeltetett elektronikus felületre feltöltött okiratmásolatok és nyilatkozatok alapján, vagy
-  - bc) az okiratmásolatokat és nyilatkozatokat magába foglaló jognyilatkozatokat is tartalmazó, az azokban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas, az ügyfél által a szolgáltató részére hozzáférhetővé tett elektronikus dokumentumok alapján
-
-is elvégezheti.
+  - bb) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatban rögzített esetekben az ügyfél által az ügyfél azonosított elektronikus levelezési címéről biztonságosan küldött vagy a szolgáltató által az ügyféllel való kapcsolattartás érdekében üzemeltetett elektronikus felületre feltöltött okiratmásolatok és nyilatkozatok alapján,
+  - bc) az okiratmásolatokat és nyilatkozatokat magába foglaló jognyilatkozatokat is tartalmazó, az azokban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas, az ügyfél által a szolgáltató részére hozzáférhetővé tett elektronikus dokumentumok alapján, vagy
+  - bd) természetes személy ügyfél esetén a 7. § (2) bekezdés a) pontjában meghatározott adatok igazolása során az adatszolgáltatást és az adatok igazoló ellenőrzését a digitális állampolgárság szolgáltató által szolgáltatott adat alapján vagy digitálisan kiállított hiteles igazolás alapján is elvégezheti.
 
 (4) Az (1) bekezdéstől eltérően a 3. § 25. pontjában meghatározott Posta Elszámoló Központot működtető intézmény a 7. § (2) bekezdésében meghatározott adatokat köteles rögzíteni, valamint a személyazonosság igazoló ellenőrzése érdekében a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti az alábbi feltételeket együttesen teljesítő ügyleti megbízások esetén:
 
@@ -695,31 +695,31 @@ vonatkozóan,
 
 #### 10. Kockázatértékelés
 
-27. § (1) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján – a szolgáltató jellegével és méretével arányos – belső kockázatértékelést készíteni.
+27. § (1) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján – a szolgáltató jellegével és méretével arányos – a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok feltárása és a feltárt kockázathoz társított intézkedés meghatározása céljából belső kockázatértékelést készíteni.
 
-(2) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez a szolgáltató köteles kockázatainak megállapítása és értékelése céljából azonosítani és értékelni az üzleti kapcsolat vagy ügyleti megbízás jellegével és összegével, az ügyféllel, termékkel, szolgáltatással, földrajzi területtel és alkalmazott eszközzel kapcsolatos kockázati tényezőket.
+(2) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez a szolgáltató köteles a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok megállapítása és értékelése céljából feltárni és értékelni az üzleti kapcsolat vagy ügyleti megbízás jellegével és összegével, az ügyféllel, termékkel, szolgáltatással, földrajzi területtel és alkalmazott eszközzel kapcsolatos kockázati tényezőket.
 
 (3) Az (1) bekezdésben meghatározott belső kockázatértékelést a szolgáltató köteles írásban rögzíteni, naprakészen tartani és az illetékes hatóságok rendelkezésére bocsátani az engedélyezési, illetve a felügyeleti tevékenység gyakorlása során.
 
 (4) A belső kockázatértékelés elkészítése mellőzhető abban az esetben, ha az 5. §-ban meghatározott felügyeletet ellátó szerv a szolgáltató részére rendelkezésre bocsátott útmutatóban ezt a lehetőséget biztosítja.
 
-(5) Az (1) bekezdésben meghatározott belső kockázatértékelés alapján a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján a 65. §-ban meghatározott belső szabályzatban – a szolgáltató jellegével és méretével arányos – belső eljárásrendet meghatározni a kockázatok csökkentése és kezelése érdekében, valamint – ha a szolgáltató jellege és mérete indokolja – külső ellenőrzési funkciót működtetni a belső eljárásrend megfelelőségének ellenőrzése céljából.
+(5) Az (1) bekezdésben meghatározott belső kockázatértékelés alapján a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján a 65. §-ban meghatározott belső szabályzatban – a szolgáltató jellegével és méretével arányos – a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok feltárása és a feltárt kockázatok kezeléséhez társított intézkedések meghatározása érdekében belső eljárásrendet meghatározni, valamint – ha a szolgáltató jellege és mérete indokolja – külső ellenőrzési funkciót működtetni a belső eljárásrend megfelelőségének ellenőrzése céljából.
 
-(6) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez, továbbá a kockázatok csökkentése és kezelése érdekében a szolgáltató köteles figyelembe venni a nemzeti kockázatértékelés eredményét.
+(6) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez, továbbá a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok csökkentése és kezelése érdekében a szolgáltató köteles figyelembe venni a nemzeti kockázatértékelés eredményét.
 
 (7) Az (1) bekezdésben meghatározott belső kockázatértékelés és az (5) bekezdésben meghatározott belső eljárásrend alkalmazására a szolgáltató kijelölt felelős vezetője jóváhagyását követően kerülhet sor.
 
-(8) A belső kockázatértékelés elkészítésére kötelezett szolgáltató köteles a pénzmosási és a terrorizmus-finanszírozási kockázatokat nyomon követni, a belső eljárásrendet szükség esetén felülvizsgálni és a szolgáltató kijelölt felelős vezetője jóváhagyását követően módosítani.
+(8) A belső kockázatértékelés elkészítésére kötelezett szolgáltató köteles a pénzmosási és a terrorizmusfinanszírozási, valamint a proliferáció finanszírozásával kapcsolatos kockázatokat nyomon követni, a belső eljárásrendet szükség esetén felülvizsgálni és a szolgáltató kijelölt felelős vezetője jóváhagyását követően módosítani.
 
 28. § (1) A 66. §-ban meghatározott felügyeleti tevékenység gyakorlásához az 5. §-ban meghatározott felügyeletet ellátó szerv köteles a szolgáltató vagy szektor jellege és mérete, valamint a szolgáltatóra vagy szektorra jellemző ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján – a szolgáltató jellegével és méretével arányosan – felügyeleti kockázatértékelést készíteni.
 
-(2) Az 5. §-ban meghatározott felügyeletet ellátó szerv feltárja a szolgáltatóra vagy szektorra jellemző ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján fennálló pénzmosási és terrorizmus-finanszírozási kockázatokat, felhasználva ehhez a 27. § alapján rendelkezésre álló valamennyi információt.
+(2) Az 5. §-ban meghatározott felügyeletet ellátó szerv feltárja a szolgáltatóra vagy szektorra jellemző ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján fennálló pénzmosási és terrorizmus-finanszírozási, valamint a proliferáció finanszírozásával kapcsolatos kockázatokat, felhasználva ehhez a 27. § alapján rendelkezésre álló valamennyi információt.
 
 (3) Az (1) bekezdésben meghatározott felügyeleti kockázatértékelés elkészítéséhez az 5. §-ban meghatározott felügyeletet ellátó szerv köteles figyelembe venni a nemzeti kockázatértékelés eredményét.
 
 (4) A 66. §-ban meghatározott felügyeleti tevékenység gyakorlásához a felügyeleti kockázatértékelés figyelembevételével az 5. §-ban meghatározott felügyeletet ellátó szerv köteles a szolgáltató vagy szektor jellege és mérete, valamint a szolgáltatóra vagy szektorra jellemző ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján – a szolgáltató jellegével és méretével arányosan – felügyeleti eljárásrendet készíteni.
 
-(5) Az 5. §-ban meghatározott felügyeletet ellátó szerv az általa felügyelt szektort érintő, a kockázatértékelésben már feltárt pénzmosási és terrorizmus-finanszírozási kockázatok változását figyelemmel kíséri, és a még nem azonosított kockázatokat feltárja. Ennek figyelembevételével a kockázatértékelését aktualizálja.
+(5) Az 5. §-ban meghatározott felügyeletet ellátó szerv az általa felügyelt szektort érintő, a kockázatértékelésben már feltárt pénzmosási és terrorizmus-finanszírozási, valamint a proliferáció finanszírozásával kapcsolatos kockázatok változását figyelemmel kíséri, és a még nem azonosított kockázatokat feltárja. Ennek figyelembevételével a kockázatértékelését aktualizálja.
 
 29. § (1) A miniszter a bűncselekmények megelőzéséért felelős miniszterrel együttműködve gondoskodik a koordinált nemzeti kockázatértékelés elkészítéséről és annak legalább háromévenként történő felülvizsgálatáról, a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvben meghatározott, a határon átnyúló pénzmosás és terrorizmusfinanszírozás kockázatait feltáró szupranacionális kockázatértékelés eredményeinek a figyelembevételével.
 
@@ -1088,11 +1088,7 @@ részére.
 
 61. § (1) A szolgáltató biztosítja, hogy az Európai Unió más tagállamában található fióktelepei, leányvállalatai és telephelyei e más tagállam pénzmosás és terrorizmus finanszírozása elleni nemzeti rendelkezéseit is alkalmazzák.
 
-(2) A Magyarországon telephellyel, de más tagállamban székhellyel rendelkező elektronikuspénz-kibocsátó és pénzforgalmi szolgáltató a magyarországi szolgáltatásnyújtás megkezdését követő öt munkanapon belül köteles írásban kijelölni, és az 5. § szerinti felügyeletet ellátó szerv, valamint a pénzügyi információs egység részére írásban bejelenteni egy magyarországi központi kapcsolattartó pontot, amely biztosítja, hogy a szolgáltató Magyarországon működő, fióktelepnek nem minősülő telephelyei végrehajtják az e törvényben vagy a pénzmosás- és terrorizmusfinanszírozás-megelőzési tárgyú közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott kötelezettségeket, illetve elősegíti a 69. § alapján előírt felügyeleti intézkedések végrehajtását, amennyiben az alábbi feltételek bármelyike fennáll:
-
-- a) a magyarországi telephelyek száma legalább 10;
-- b) a telephelyek által forgalmazott és beváltott elektronikus pénz összesített mennyisége vagy az általuk végzett fizetési ügyletek összesített értéke pénzügyi évenként várhatóan meghaladja a kilencszázmillió forintot, vagy az előző pénzügyi évben meghaladta a kilencszázmillió forintot, vagy
-- c) a Felügyelet számára, kérelemre és időben nem teszik elérhetővé az annak értékeléséhez szükséges információkat, hogy teljesült-e az a) vagy b) pontban foglalt kritérium.
+(2) A Magyarországon telephellyel, de más tagállamban székhellyel rendelkező elektronikuspénz-kibocsátó és pénzforgalmi szolgáltató, valamint kriptoeszköz-szolgáltató köteles írásban kijelölni, és az 5. § szerinti felügyeletet ellátó szerv, valamint a pénzügyi információs egység részére írásban bejelenteni egy magyarországi központi kapcsolattartó pontot, amely biztosítja, hogy a szolgáltató Magyarországon működő, fióktelepnek nem minősülő telephelyei végrehajtják az e törvényben vagy a pénzmosás- és terrorizmusfinanszírozás-megelőzési tárgyú közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott kötelezettségeket, továbbá elősegíti a 69. § alapján előírt felügyeleti intézkedések végrehajtását, azáltal, hogy kérésre dokumentumokat, adatokat és információkat bocsát a felügyeletet ellátó szerv rendelkezésére.
 
 (3) A (2) bekezdésben foglaltak biztosítása érdekében a központi kapcsolattartó pont felel a 30. § és 32. § szerinti bejelentés és a 42. § szerinti adatszolgáltatás teljesítésére, az ügylet teljesítésének a 34. § és a 35. § szerinti felfüggesztésére, továbbá az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény 4. §-a szerinti bejelentésre vonatkozó jogszabályi előírásoknak való megfelelésért.
 
@@ -1116,7 +1112,7 @@ részére.
 
 #### 16. Belső ellenőrző és információs rendszer, képzési program
 
-63. § (1) A szolgáltató – az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai vonatkozásában – a pénzmosást vagy a terrorizmus finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolat, ügylet megakadályozása érdekében köteles gondoskodni:
+63. § (1) A szolgáltató – az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai vonatkozásában – a pénzmosást vagy a terrorizmusfinanszírozását, valamint a proliferáció finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolat, ügylet megakadályozása érdekében köteles gondoskodni:
 
 - a) a nyilvántartási (ügyfél-átvilágítási),
 - b) a bejelentés teljesítését támogató (szűrő), valamint
@@ -1149,7 +1145,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (9) Az irányítási funkciót betöltő testület a megfelelési vezető (7) bekezdés szerinti jelentésében foglalt javaslatokat a jelentés kézhezvételét követő 30 napon belül dokumentált formában megvitatja, annak elfogadásáról vagy elutasításáról döntést hoz. A jelentésben meghatározott javaslatok alapján végrehajtott változásokat a szolgáltató visszakereshető módon dokumentálja.
 
-64. § (1) A szolgáltató a beazonosított kockázataival összhangban köteles gondoskodni arról, hogy az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó jogszabályi rendelkezéseket megismerjék, a pénzmosást vagy a terrorizmus finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolatot, ügyletet felismerjék, a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény, körülmény felmerülése esetén e törvénynek megfelelően tudjanak eljárni.
+64. § (1) A szolgáltató a beazonosított kockázataival összhangban köteles gondoskodni arról, hogy az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai a pénzmosás és a terrorizmus finanszírozása, valamint a proliferáció finanszírozása megelőzésére és megakadályozására vonatkozó jogszabályi rendelkezéseket megismerjék, a pénzmosást vagy a terrorizmus finanszírozását, valamint a proliferáció finanszírozását elősegítő, lehetővé tevő vagy megvalósító üzleti kapcsolatot, ügyletet felismerjék, továbbá a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény, körülmény felmerülése esetén e törvénynek megfelelően tudjanak eljárni.
 
 (2) A szolgáltató köteles gondoskodni arról, hogy az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedéseket érintő nemzetközi és hazai jogszabályi rendelkezéseket megismerjék, és az abban meghatározott kötelezettségeknek megfelelően járjanak el.
 

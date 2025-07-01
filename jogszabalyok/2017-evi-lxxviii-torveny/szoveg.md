@@ -58,8 +58,9 @@ számára végzett jogi tanácsadás és okiratszerkesztés, vagy
 - i) bizalmi vagyonkezelési tevékenység,
 - j) ingatlanközvetítői tevékenység,
 - k) társasházi közös képviselői tevékenység,
-- l) nem az ügyvédi tevékenység gyakorlója által készített papíralapú dokumentum elektronikus okirati formába alakítása, valamint
+- l) nem az ügyvédi tevékenység gyakorlója által készített papíralapú dokumentum elektronikus okirati formába alakítása,
 - m) közvetítői eljárásban és büntetőügyekben folytatott közvetítői tevékenység.
+- n) adatvédelmi tisztviselői tevékenység.
 
 (2) Az (1) bekezdésben meghatározott tevékenységeket az ügyvédi tevékenység gyakorlója e minőségében, de az adott tevékenységre irányadó jogszabályokban meghatározottak szerint folytathatja.
 
@@ -230,10 +231,12 @@ folytathat.
 
 (5) A területi kamara a helyettes ügyvéd e minőségét az ügyvédi kamarai nyilvántartásból
 
-- a) a (4) bekezdés a) pontja szerinti esetben a határozat véglegessé válása napjával,
+- a) a (4) bekezdés a) pontja szerinti esetben a határozat véglegessé válása napjával, vagy ha ez későbbi időpont, akkor a megszűnés vagy a szünetelés kezdetére a véglegessé vált határozatban megjelölt nappal,
 - b) más esetben az új helyettes bejegyzésével egyidejűleg
 
 törli.
+
+(5a) Ha a helyettes ügyvéd a helyettesítési megállapodást felmondja, de a helyettesített ügyvéd új helyettes ügyvéd bejegyzését nem kezdeményezi, a helyettes ügyvéd a területi kamarától kérheti a helyettesi minőségének törlését. A területi kamara a helyettesítési megállapodást felmondó helyettes ügyvédet a kérelem benyújtását követő hatvanadik nappal törli a nyilvántartásból.
 
 (6) A helyettesítésre kötött megállapodás nem zárja ki, hogy a helyettesített ügyvéd egyes ügyek vagy az ügyek meghatározott csoportja tekintetében – e törvény keretei között – helyettesítéséről mással állapodjon meg.
 
@@ -265,7 +268,7 @@ törli.
 
 #### 13. Ügyvédi joggyakorlat
 
-19. § (1) Ügyvédi joggyakorlat az ügyvédként, kamarai jogtanácsosként, alkalmazott ügyvédként, európai közösségi jogászként, alkalmazott európai közösségi jogászként, alkotmánybíróként, bíróként, ügyészként, közjegyzőként, ügyvédjelöltként vagy jogi előadóként folytatott joggyakorlat.
+19. § (1) Ügyvédi joggyakorlat az ügyvédként, kamarai jogtanácsosként, alkalmazott ügyvédként, európai közösségi jogászként, alkalmazott európai közösségi jogászként, alkotmánybíróként, bíróként, ügyészként, közjegyzőként, bírósági végrehajtóként, bírósági titkárként, alügyészként, közjegyzőhelyettesként, bírósági végrehajtó-helyettesként, a jogi szakvizsga megszerzését követően bírósági vagy ügyészségi fogalmazóként, ügyvédjelöltként vagy jogi előadóként folytatott joggyakorlat.
 
 (2) Külföldön teljesített ügyvédi joggyakorlat kamarai szabályzatban meghatározott feltételekkel fogadható el.
 
@@ -354,7 +357,7 @@ vonatkozásában áll fenn, akkor a korlátozás az egyéni ügyvédre, a teljes
 - g) a jogi szakfordítói, tolmácsolási tevékenység,
 - h) a nem igazságügyi szakértői tevékenység,
 - i) a választási bizottsági tagság,
-- j) az adatvédelmi tisztviselői tevékenység,
+- j) a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 7. § 9. pontja szerinti ESG tanácsadói tevékenység,
 - k) a végelszámolói feladat ellátása,
 - l) a felügyelőbizottsági, számvizsgáló bizottsági feladat ellátása,
 - m) a gazdasági társaság vezető tisztségviselőkből álló ügyvezető testületének tagja vagy elnöke feladatának ellátása,
@@ -449,7 +452,7 @@ alapján folytatható.
 
 (3) Az ügyvéd a természetes személy adatai a nyilvántartott adatokkal való egyezőségének és az általa bemutatott okmányok érvényességének ellenőrzése érdekében a személyiadat- és lakcímnyilvántartásból, a járművezetőiengedély-nyilvántartásból, az útiokmány-nyilvántartásból és a központi idegenrendészeti nyilvántartásból elektronikus úton a következő adatokat igényelheti:
 
-- a) természetes személyazonosító adatok,
+- a) természetes személyazonosító adatok és személyi azonosító,
 - b) állampolgárság, hontalanság, menekült, illetve EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,
 - c) lakcím,
 - d) arcképmás,
@@ -469,7 +472,10 @@ alapján folytatható.
 
 (8) A magyar állampolgársággal vagy magyarországi lakcímmel rendelkező személynek a (7) bekezdés szerinti azonosítása során az okirat ellenjegyzését megelőzően az ügyvéd köteles a bemutatott okmányra vonatkozó, a (3) bekezdés szerinti adatokat igényelni, kivéve, ha az adatigénylésre az érintett személy vonatkozásában harminc napon belül már sor került.
 
-(8a) A kamarai jogtanácsos a (8) bekezdés szerinti esetben az okirat ellenjegyzését megelőzően nem köteles a bemutatott okmányra vonatkozó, a (3) bekezdés szerinti adatokat igényelni, ha a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója az érintett személy vonatkozásában – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott ügyfél-átvilágítás keretében – a személyazonosság igazoló ellenőrzését és a bemutatott okmányra vonatkozó okmányellenőrzést közhiteles nyilvántartásból való adatlekérdezés útján, az okirat ellenjegyzését megelőző harminc napon belül elvégezte.
+(8a) A kamarai jogtanácsos a (8) bekezdés szerinti esetben az okirat ellenjegyzését megelőzően nem köteles a bemutatott okmányra vonatkozó, a (3) bekezdés szerinti adatokat igényelni, ha
+
+- a) a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója az érintett személy vonatkozásában – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott ügyfél-átvilágítás keretében – a személyazonosság igazoló ellenőrzését és a bemutatott okmányra vonatkozó okmányellenőrzést közhiteles nyilvántartásból való adatlekérdezés útján, az okirat ellenjegyzését megelőző harminc napon belül elvégezte, vagy
+- b) a kamarai jogtanácsos ügyfelének képviselőjét az azonosítást végző személy ismeri, vagy személyazonosságát illetően kétsége nem merül fel.
 
 (9) Az adatigénylésért a (8) bekezdésben meghatározott esetben, illetve ha arra okirat ellenjegyzését vagy okirat ellenjegyzésével járó megbízási szerződés megkötését megelőzően kerül sor, sem az ügyvédtől, sem az azonosított személytől vagy szervezettől nem kérhető díj, költségtérítés vagy más ellenérték.
 
@@ -649,7 +655,7 @@ jogosult.
 (2) Az ellenjegyzett okiratot – jogszabály eltérő rendelkezése hiányában –
 
 - a) több oldalból álló okirat esetén folyamatos oldalszámozással kell ellátni,
-- b) papíralapú okirat esetén annak minden oldalán a feleknek vagy arra az okiratban meghatalmazott félnek kézjegyével kell ellátnia,
+- b) papíralapú okirat vagy papír alapú okirati példány esetén annak minden oldalán a feleknek vagy arra az okiratban meghatalmazott félnek kézjegyével kell ellátnia,
 - c) a feleknek alá kell írniuk,
 - d) az ellenjegyző ügyvédnek a neve, a kamarai azonosító száma, az ellenjegyzés ténye, továbbá az ellenjegyzés helye és időpontja feltüntetése mellett alá kell írnia.
 
@@ -663,7 +669,7 @@ jogosult.
 
 (2c) Jogi személy vagy jogi személyiség nélküli szervezet esetében az elektronikus okiratot a képviseletére jogosult természetes személy a (2a) vagy a (2b) bekezdés szerint írja alá.
 
-(3) Az ellenjegyző ügyvéd a papíralapú okiraton az aláírása oldalán a szárazbélyegzőjének a lenyomatát elhelyezi, az elektronikus okiratot a 18. § (1) bekezdés szerinti követelményeknek megfelelő elektronikus aláírásával és időbélyegzővel látja el.
+(3) Az ellenjegyző ügyvéd a papíralapú okiraton az aláírása oldalán a szárazbélyegzőjének a lenyomatát elhelyezi, az elektronikus okiratot vagy elektronikus okirati formába alakított okirati példányt a 18. § (1) bekezdés szerinti követelményeknek megfelelő elektronikus aláírásával és időbélyegzővel látja el.
 
 (4) A (2) bekezdés b) pontjában foglalt követelmény alkalmazása mellőzhető, ha a papíralapú okirat lapjait az ellenjegyző ügyvéd úgy fűzi össze, hogy az az okirat sérelme nélkül ne legyen megbontható.
 
@@ -694,9 +700,10 @@ azzal, hogy ezt a körülményt, valamint a b) pont szerinti esetben az (1) beke
 - a) az (1) bekezdés c) és d) pontját, ha
   - aa) a fél aláírását az aláírás helye szerint illetékes konzuli tisztviselő hitelesítette,
   - ab) a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát a hivatásos konzuli tisztviselő felülhitelesítette,
-  - ac) a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát Apostille tanúsítvánnyal látták el, vagy
-  - ad) a fél aláírását közjegyző hitelesítette,
-- b) az (1) bekezdés d) pontját, ha az elektronikus okiratot a fél a 43. § (2a) bekezdés a) vagy b) pontja szerint írta alá.
+  - ac) a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát Apostille tanúsítvánnyal látták el,
+  - ad) a fél aláírását közjegyző hitelesítette, vagy
+  - ae) az elektronikus okirat aláírása a 43. § (2b) bekezdésében foglalt elektronikus hitelesítés útján történt,
+- b) az (1) bekezdés d) pontját, ha az elektronikus okiratot a fél a 43. § (2a) bekezdés a) pontja szerint írta alá.
 
 (6) Az okiratot az azt szerkesztő ügyvéd mellett – az okiratban megjelölt egyes felek vonatkozásában az (1) bekezdés c) és d) pontjaiban meghatározott körülmények fennállásának tanúsítására – más ügyvéd is ellenjegyezheti, azzal, hogy az érintett körülményeket az ellenjegyzésben fel kell tüntetni.
 
@@ -713,6 +720,8 @@ azzal, hogy ezt a körülményt, valamint a b) pont szerinti esetben az (1) beke
 46. § (1) Az ügyvéd és a kamarai jogtanácsos (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) papíralapú okiratot – utalvány, értékpapír vagy más vagyoni értékű jogot megtestesítő okirat kivételével – elektronikus okirati formába alakíthat.
 
 (2) Az elektronikus okirati formába való alakítás során az ügyvéd kizárólag oldalhű elektronikus másolatot készíthet.
+
+(2a) Az elektronikus okirati formába alakítás során a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója a papíralapú okiratról oldalhű elektronikus másolat készítése körében közreműködhet.
 
 (3) A 3. § (1) bekezdés l) pontjában meghatározott kiegészítő jellegű tevékenység ellátása során az ügyvéd kizárólag a 18. § (1) bekezdése szerinti követelményeknek megfelelő elektronikus aláírását használhatja.
 
@@ -846,7 +855,7 @@ betekinthet, illetve abból adatot igényelhet.
 
 (4) Ha a 23. § (3) bekezdése szerinti megbízatás az érintett tisztségviselő jogállását szabályozó törvény alapján az ügyvédi tevékenység gyakorlásával összeférhetetlen, az ügyvédi tevékenység természetes személy gyakorlója a megbízatás időtartama alatt ügyvédi tevékenységét szünetelteti. A megbízatást és annak a megszűnését a területi kamarának be kell jelenteni, amely azt hivatalból nyilvántartásba veszi.
 
-(5) Az ügyvédi tevékenység szüneteltetésének az időtartama nem lehet rövidebb, mint három hónap és – a (4) bekezdésben meghatározott kivétellel – ötévenként meghosszabbítandó.
+(5) Az ügyvédi tevékenység szüneteltetésének az időtartama nem lehet rövidebb, mint három hónap és – a (4) bekezdésben meghatározott kivétellel – legalább ötévenként kérelemre meghosszabbítandó.
 
 55. § (1) Az ügyvédi tevékenység szüneteltetése alatt az ügyvédi tevékenység gyakorlója nem gyakorolhatja a kamarai tagságból vagy a kamarai nyilvántartásba vételből eredő jogokat, és – a tagdíj fizetése, valamint az adatváltozás bejelentése kivételével – nem terhelik az abból fakadó kötelezettségek.
 
@@ -954,7 +963,7 @@ betekinthet, illetve abból adatot igényelhet.
 - b) a kamarai szabályzatban meghatározott feltételeket az ügyvédjelölt foglalkoztatása során biztosítja és
 - c) ügyvédjelölt foglalkoztatására való jogosultsága szerepel az ügyvédi kamarai nyilvántartásban.
 
-(2) A területi kamara az ügyvédjelölt foglalkoztatására való jogosultságot az ügyvédi kamarai nyilvántartásból törli, ha az ügyvéd nem felel meg az (1) bekezdésben foglalt feltételeknek.
+(2) A területi kamara az ügyvédjelölt foglalkoztatására való jogosultságot kérelemre jegyzi be az ügyvédi kamarai nyilvántartásba és onnan törli, ha az ügyvéd nem felel meg az (1) bekezdésben foglalt feltételeknek.
 
 #### 31. Az ügyvédjelölt működése
 
@@ -1000,6 +1009,8 @@ folytathatja.
 (5) A munkavállalói érdekképviseleti szervezet meghatalmazása alapján annak kamarai jogtanácsosa a munkavállalói érdek-képviseleti szervezet saját tagjának munkaügyi vagy közszolgálati perében jogi képviseletet elláthat.
 
 (5a) A hitelintézet kamarai jogtanácsosa a hitelintézetnek a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) bekezdés i) pontja és 7. § (3) bekezdés l) pontja szerinti tevékenysége körében, valamint a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 72. § (4) bekezdés f) pontja szerinti esetben, hitelintézet útján nyújtott hitel esetén az ingatlan-nyilvántartási kérelem és a bejegyzés alapjául szolgáló okirat tekintetében okiratszerkesztést és ellenjegyzést, továbbá ingatlan-nyilvántartási ügyben való eljárásra jogosultsága esetén az ingatlan-nyilvántartási ügyben jogi képviseletet láthat el.
+
+(5b) A 32. § (8a) bekezdés, a 42. § (2) bekezdés, a 42/A. §, a 43. § (1) bekezdés, a 44. § (4) bekezdés és a 46. § (2a) bekezdés alkalmazásában a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalójával azonosnak minősül a kamarai jogtanácsos hitelintézet ügyfelének többségi tulajdonosaként működő vagy többségi tulajdonában álló pénzügyi közvetítői tevékenységet folytató vállalkozással, vagy ilyen vállalkozás alvállalkozójával e tevékenységi körében munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló, a kamarai szabályzatban meghatározott követelményeknek megfelelő személy eljárása.
 
 (6) A kamarai jogtanácsos elektronikus kapcsolattartásra szolgáló elérhetőségét a Kormány rendeletben határozza meg.
 
@@ -1208,7 +1219,7 @@ követően folytatható.
 
 85. § (1) A területi kamara irodagondnokot jelöl ki az ügyvédi kamarai nyilvántartásba irodagondnoki tevékenység folytatására jogosultként bejegyzett ügyvédek közül:
 
-- a) az elhunyt ügyvéd és európai közösségi jogász ügyvédi irodája részére, ha az irodának nem marad ügyvédi tevékenységet gyakorló tagja,
+- a) az ügyvédi iroda vagy európai közösségi jogászi iroda részére, ha az irodának nem marad ügyvédi tevékenységet gyakorló tagja,
 - b) az ügyvéd és európai közösségi jogász részére, ha
   - ba) ügyvédi tevékenysége folytatásában akadályoztatva van és nincs helyettese, vagy
   - bb) területi kamarai tagsága megszűnt, illetve az európai közösségi jogászt az ügyvédi kamarai nyilvántartásból törölték, és folyamatban lévő ügyeinek ellátásáról, iratainak vagy e törvény szerint vezetett nyilvántartásainak elhelyezéséről nem gondoskodott,
@@ -1230,7 +1241,7 @@ követően folytatható.
 
 (5) Az irodagondnok kijelölését meg kell szüntetni, ha a kijelölés oka megszűnt.
 
-86. § (1) A területi kamara kérelemre az ügyvédi kamarai nyilvántartásban az irodagondnoki tevékenység folytatására való jogosultságát bejegyzi annak a legalább ötéves ügyvédi gyakorlattal rendelkező ügyvédnek, aki a kamara tagja. Nem jegyezhető be az irodagondnoki tevékenység folytatására való jogosultsága annak,
+86. § (1) A területi kamara kérelemre az ügyvédi kamarai nyilvántartásban az irodagondnoki tevékenység folytatására való jogosultságát bejegyzi annak a legalább ötéves ügyvédi joggyakorlattal rendelkező ügyvédnek, aki a kamara tagja. Nem jegyezhető be az irodagondnoki tevékenység folytatására való jogosultsága annak,
 
 - a) aki ellen fegyelmi eljárás folyik vagy fegyelmi büntetés hatálya alatt áll,
 - b) akinek folyamatban van a kamarai tagságának törlésére irányuló eljárás, vagy
@@ -1520,6 +1531,8 @@ terjedhet.
 
 (8) Az ingatlan-nyilvántartási ügyektől való eltiltás tartamába a kizárás fegyelmi büntetés végrehajtásának az időtartama nem számít bele.
 
+(9) A kizárás fegyelmi büntetés időtartamába az ugyanazon ügyben elrendelt ügyvédi tevékenység felfüggesztésének időtartamát – ideértve a 180. § szerinti felfüggesztés esetét is – be kell számítani. Az ingatlan-nyilvántartási ügyektől való eltiltás fegyelmi büntetés időtartamába az ugyanazon ügyben elrendelt ingatlan-nyilvántartási ügyben való eljárási jogosultság felfüggesztésének időtartamát be kell számítani. A beszámításnál az ügyvédi tevékenység egynapi felfüggesztése egy nap kizárásnak, az ingatlan-nyilvántartási ügyben való eljárási jogosultság egynapi felfüggesztése egy nap ingatlan-nyilvántartási ügyektől való eltiltásnak felel meg.
+
 #### 45. A pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának ellenőrzése nyomán indult fegyelmi eljárás különös szabályai
 
 110. § (1) A 188. § (3) bekezdése alapján megindított előzetes vizsgálat eredményeként elrendelt fegyelmi eljárásban a fegyelmi vétséget elkövető személlyel szemben alkalmazható büntetések a következők:
@@ -1609,7 +1622,7 @@ terheli.
 
 (4) Ha a fegyelmi eljárás alkalmazott ügyvéd ellen indult, az elsőfokú és a másodfokú fegyelmi tanács egy tagja alkalmazott ügyvéd.
 
-(5) Ha a fegyelmi tanács a (3) és (4) bekezdésben foglaltakra tekintettel a regionális fegyelmi bizottságból szabályszerűen nem alakítható meg, az országos fegyelmi bizottság elnöke intézkedik a fegyelmi tanács tagjának más regionális fegyelmi bizottságból történő kijelölése iránt.
+(5) Ha a fegyelmi tanács a (3) és (4) bekezdésben foglaltakra tekintettel a regionális fegyelmi bizottságból szabályszerűen nem alakítható meg, az országos fegyelmi bizottság elnöke intézkedik a fegyelmi tanács tagjának más regionális fegyelmi bizottságból történő kijelölése iránt. Ha az országos fegyelmi bizottság elnöke által kamarai jogtanácsos vagy alkalmazott ügyvéd tag nem jelölhető ki, akkor a fegyelmi tanács ügyvéd tagokból áll.
 
 (6) Ha a fegyelmi tanács határozatképtelenné válik, a fegyelmi bizottság elnöke új fegyelmi tanácsot jelöl ki.
 
@@ -1631,6 +1644,13 @@ terheli.
 - f) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható.
 
 (2) A Magyar Ügyvédi Kamara fegyelmi szabályzatában meghatározott esetekben az elfogultságot vélelmezni kell.
+
+(3) A kizárási ok bejelentésének az eljárás bármely szakaszában – a fegyelmi eljárást befejező határozat meghozataláig – helye van, azonban az (1) bekezdés f) pontja szerinti okra az eljárás alá vont személy csak akkor hivatkozhat, ha valószínűsíti, hogy a bejelentés alapjául szolgáló tényről
+
+- a) az előzetes vizsgálat során és az ügy tárgyaláson kívüli elbírálása esetén az egyes eljárási cselekményeket követően,
+- b) a fegyelmi tárgyalás során a tárgyalás megkezdését követően
+
+szerzett tudomást, és a tudomásszerzéstől számítva az okot haladéktalanul, de legkésőbb három napon belül bejelenti.
 
 118. § (1) A fegyelmi tanácsba jelölt tag, a fegyelmi biztos, illetve az országos fegyelmi főbiztos haladéktalanul köteles bejelenteni, ha vele szemben kizáró ok áll fenn.
 
@@ -1785,6 +1805,8 @@ terheli.
 
 és dönt az eljárási költség viseléséről.
 
+(3a) A fegyelmi tanács az eljárás megszüntetése mellett írásban figyelmeztetést alkalmazhat, ha az eljárás alá vont személy felelősségét kisebb súlyú fegyelmi vétségben állapítja meg.
+
 (4) A határozatot a fegyelmi tanács elnöke és tagjai írják alá.
 
 (5) A határozatot és indokait szóban ki kell hirdetni, és harminc napon belül intézkedni kell az eljárás alá vont személy, a képviselője, valamint a fegyelmi biztos részére történő kézbesítés iránt.
@@ -1875,8 +1897,8 @@ terheli.
 
 (4) A bíróság határozatában a jogsértő, illetve az ügy érdemére kiható eljárási jogszabálysértéssel meghozott fegyelmi határozatot megsemmisíti és
 
-- a) az elsőfokú fegyelmi tanácsot új eljárásra utasítja,
-- b) az elsőfokú fegyelmi tanácsot az eljárás megszüntetésére utasítja, vagy
+- a) a határozatot hozó fegyelmi tanácsot, indokolt esetben az elsőfokú fegyelmi tanácsot új eljárásra utasítja,
+- b) a határozatot hozó fegyelmi tanácsot az eljárás megszüntetésére utasítja, vagy
 - c) az elsőfokú fegyelmi határozatot hatályában fenntartja.
 
 (5) A fegyelmi eljárás jogerős befejezéséről a bíróság a határozat kivonatának megküldésével értesíti a bejelentőt. A határozat kivonata nem tartalmazhat ügyvédi titkot, illetve olyan adatot, amelynek megismerésére a bejelentő nem jogosult.
@@ -1978,7 +2000,7 @@ való adatigénylés útján ellenőrzi.
 
 148. § (1) A területi kamarai tagság megszűnik, ha
 
-- a) a kamarai tag a kamarai tagságáról lemondott, a lemondás területi kamarával való közlésének a napján, vagy a közlésben megjelölt napon, mely nem lehet a közlés napjánál korábbi,
+- a)
 - b) a kamarai tagot jogerősen kizárták, vagy az ügyvédi tevékenységtől jogerősen eltiltották, az erről szóló határozat jogerőre emelkedésének a napján,
 - c) a kamarai tag átjegyzés folytán másik területi kamara tagjává vált, vagy formaváltás folytán az ügyvédi kamarai nyilvántartásba felvételt nyert, az erről szóló határozat véglegessé válása napján, vagy
 - d) a kamarai tag meghalt, a kamarai tag halála napján.
@@ -1994,6 +2016,8 @@ való adatigénylés útján ellenőrzi.
 - e) az ügyvédi esküt határidőben nem tette le,
 - f) a kamarai szabályzatban előírt továbbképzési kötelezettségének nem tesz eleget, vagy
 - g) adószámát véglegesen törölték.
+
+(1a) A területi kamara megszünteti a kamarai tagságot, ha ezt a kamarai tag lemondás útján kéri és igazolja az 54. § (1) bekezdése szerinti feltételek teljesítését.
 
 (2) A területi kamarába az 58. § (2) vagy (3) bekezdése alapján felvett ügyvéd kamarai tagságát az ügyvédi kamara megszünteti, ha az ügyvéd a saját EGT-államában az ügyvédi tevékenység folytatására való jogosultsága megszűnt és az ügyvédi kamarai tagság 58. § szerinti feltételei nem állnak fenn.
 
@@ -2686,7 +2710,7 @@ törli a nyilvántartásból.
 
 (3) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 20. sora szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.
 
-(4) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 22., 23., 24a., 24b., 25. és 26–26b. sora szerinti adatot a közhiteles nyilvántartásból való automatikus információátadás útján, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény XIII. Fejezete szerinti módon ellenőrzi.
+(4) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 22., 23., 24a., 24b., 25. és 26–26b. sora szerinti adatot a közhiteles nyilvántartásból való automatikus információátadás útján, a Dáptv. XIII. Fejezete szerinti módon ellenőrzi.
 
 190. § (1) Az ügyvédi kamarai nyilvántartás tartalmazza az ügyvédi iroda
 
@@ -2717,9 +2741,9 @@ törli a nyilvántartásból.
 - e) a területi kamara által kijelölt irodagondnok nevét, hivatali levelezési címét, valamint
 - f) az egyszemélyes ügyvédi iroda helyettes ügyvédje nevét és kamarai azonosító számát.
 
-(3) Az ügyvédi kamarai nyilvántartás az (1) bekezdés 1–13. pontja és a (2) bekezdés a) és b) pontja szerinti adatokat közhitelesen tartalmazza.
+(3) Az ügyvédi kamarai nyilvántartás az (1) bekezdés 1–13. és 17. pontja, valamint a (2) bekezdés a) és b) pontja szerinti adatokat közhitelesen tartalmazza.
 
-(4) Az ügyvédi kamarai nyilvántartásnak az (1) bekezdés 1–12. pontja és a (2) bekezdése szerinti adatai nyilvánosak, közzétehetők vagy bárki számára kiadhatók, a fennálló adatait az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
+(4) Az ügyvédi kamarai nyilvántartásnak az (1) bekezdés 1–12., 16. és 17. pontja, valamint a (2) bekezdés szerinti adatai nyilvánosak, közzétehetők vagy bárki számára kiadhatók, a fennálló adatait az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
 (5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.
 
@@ -2780,7 +2804,7 @@ törli a nyilvántartásból.
 
 ### XXVII. Fejezet — A KÖZVETÍTŐI ELJÁRÁS
 
-195. § (1) A területi kamara elnöke – ha a bejelentés alapján a bejelentő és az ügyvédi tevékenység gyakorlója közötti, megbízási jogviszonyukkal összefüggésben álló vita várhatóan közvetítői eljárás során rendezhető – tájékoztatja a bejelentőt és az ügyvédi tevékenység gyakorlóját a közvetítői eljárás lényegéről, igénybevételének lehetőségéről.
+195. § (1) A területi kamara elnöke – ha a bejelentés alapján a bejelentő és az ügyvédi tevékenység gyakorlója közötti, az ügyvédi tevékenységgel összefüggő vita várhatóan közvetítői eljárás során rendezhető – tájékoztatja a bejelentőt és az ügyvédi tevékenység gyakorlóját a közvetítői eljárás lényegéről, igénybevételének lehetőségéről.
 
 (2) Ha a bejelentő a felajánlott közvetítői eljárást
 
@@ -3005,6 +3029,8 @@ rendeletben szabályozza.
 
 208/E. § A fél vagy képviselője által a 2024. augusztus 31-én hatályos az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatással való hitelesítéssel 2024. december 31-ig aláírt és azt követően az ügyvéd vagy a kamarai jogtanácsos által ellenjegyzett elektronikus okirat ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratnak minősül.
 
+208/F. § Az ügyvédi kamarai nyilvántartásban szereplő ingatlan-nyilvántartási eljárási jogosultsággal rendelkező ügyvéd és alkalmazott ügyvéd esetében a területi kamara 2025. szeptember 1-jéig hivatalból bejegyzi az 1. mellékletben foglalt táblázat 33b. sora szerinti adatot.
+
 #### 92. Az Európai Unió jogának való megfelelés
 
 209. § Ez a törvény
@@ -3071,6 +3097,7 @@ K = az adott személy esetében közhitelesen nyilvántartott adatok
 | 32 | saját EGT-állama szerinti ügyvédi társulása szakmai megnevezése |  | – |  |  | – | – |  | – |  | – | + | – | + | – |
 | 33 | kötelező felelősségbiztosításának felelősségbiztosítója és mértéke |  | + |  |  | + | – |  | – |  | – | + | – | + | – |
 | 33a | adószám |  | + |  |  | – | – |  | – |  | – | + | – | + | – |
+| 33b | a 183/A. § (1) bekezdés c) pontja szerinti kiegészítő felelősségbiztosításának felelősségbiztosítója és mértéke |  | + |  |  | + | – |  | – |  | – | – | – | – | – |
 | 34 |  | II. Az ügyvédi kamarai nyilvántartásban kötelezően nyilvántartandó, nem nyilvános adatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 35 | az I. pont szerint nyilván nem tartott természetes személyazonosító adatok |  | + |  | + |  | + |  | + |  | + | + | + | + | + |
 | 36 | lakcím |  | + |  | + |  | + |  | + |  | + | + | + | + | + |

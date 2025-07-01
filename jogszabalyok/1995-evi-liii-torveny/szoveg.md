@@ -403,6 +403,8 @@ vízkészleteket fokozott védelemben kell részesíteni.
 - c) a jelentős környezetkárosodások, illetve a rendkívüli környezeti események (beleértve a Magyarország területén folytatott hadgyakorlatot is) következményeinek felszámolása, ha a kötelezettség másra nem hárítható;
 - d) az állam környezeti kártérítési kötelezettsége fedezetének biztosítása, és a kötelezettségek teljesítése.
 
+(6) Az (5) bekezdés c) pontjában meghatározott feladathoz kapcsolódó kármentesítési feladatokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság látja el, az érintett ingatlan tulajdonviszonyaitól függetlenül.
+
 ### A környezetvédelemért felelős miniszter feladatai
 
 42. § (1) A környezetvédelemért felelős miniszter (a továbbiakban: miniszter) miniszteri jogkörben
@@ -1333,7 +1335,12 @@ adja ki.
 
 95/A. § Egyes környezetvédelmi, természetvédelmi hatósági eljárásokért – ideértve a szakhatósági eljárásokat, továbbá a bejelentéseket –, valamint igazgatási jellegű szolgáltatásokért igazgatási szolgáltatási díjat kell fizetni.
 
-96. § A védett természeti területek természetvédelmi kezeléséért felelős szerveknek – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
+96. § A környezetvédelmi és természetvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében igazgatási szolgáltatási díjat nem fizet:
+
+- a) a védett természeti területek természetvédelmi kezeléséért felelős szerv;
+- b) a vízügyi igazgatási szerv;
+- c) a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság a 41. § (5) bekezdés c) pontjában meghatározott tevékenységével összefüggésben;
+- d) a Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zártkörűen Működő Részvénytársaság mint a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság feladatkörébe tartozó kármentesítési alprogramok keretében az állami felelősségi körbe tartozó kármentesítési feladatok lebonyolításáért felelő szervezet kijelöléséről szóló kormányrendelet szerinti, a környezeti kármentesítési feladatok irányításért és lebonyolításért felelős szerv.
 
 96/A. § (1) A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi és az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek eljárási költségnek minősülnek.
 
@@ -1574,7 +1581,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 (6) A környezeti elemekre és az azokat veszélyeztető tényezőkre vonatkozó új jogszabályok hatálybalépéséig a szabályozás tárgyát képező kormány-, illetőleg miniszteri rendeletek előírásait kell alkalmazni.
 
-(6a) Nem minősül birtoklásban történő jogalap nélküli háborításnak, illetőleg mások, különösen a szomszédok szükségtelen zavarásának vagy jogaik gyakorlása veszélyeztetésének a jelentős tömeget mozgató, nemzetgazdasági, turisztikai, kulturális, szabadidős vagy sport szempontból kiemelkedő jelentőségű rendezvény vagy esemény zajkibocsátása, ha a jogszabályban, illetőleg az arra vonatkozó hatósági engedélyben meghatározott zajkibocsátási határértéket nem lépi túl.
+(6a) Nem minősül birtoklásban történő jogalap nélküli háborításnak, valamint mások, különösen a szomszédok szükségtelen zavarásának vagy jogaik gyakorlása veszélyeztetésének a jelentős tömeget mozgató, nemzetgazdasági, turisztikai, kulturális, szabadidős vagy sport szempontból kiemelkedő jelentőségű rendezvény vagy esemény zajkibocsátása, ha a jogszabályban, valamint az arra vonatkozó hatósági engedélyben meghatározott zajkibocsátási határértéket nem lépi túl.
 
 (6b) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 106. § (3)–(3c) bekezdésében foglaltakat hatálybalépésüket követően indult ügyekben kell alkalmazni.
 

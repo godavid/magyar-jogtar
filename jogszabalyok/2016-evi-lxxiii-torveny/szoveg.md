@@ -27,6 +27,8 @@ terjed ki.
 
 (3) Az e törvényben nem szabályozott kérdésekben a kormányzati igazgatásról szóló törvény rendelkezéseit kell alkalmazni.
 
+(4) E törvény V. Fejezetét kell alkalmazni valamennyi, az 57/A. § (1) bekezdése szerinti közérdekű vagy közérdekből nyilvános adat megismerhetőségével kapcsolatban akkor is, ha azok kezelését az (1)–(3) bekezdésben meghatározott személyeken kívül eső adatkezelők végzik.
+
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában
@@ -52,6 +54,7 @@ terjed ki.
 - 14. külképviselet: a külpolitikáért – az EU ÁK esetében az európai uniós ügyek koordinációjáért – felelős miniszter által vezetett minisztérium hivatali szervezetének – a Kormány döntése alapján létrehozott – külföldön, a 3. § (1) bekezdésében meghatározott formákban működő önálló szervezeti egysége, amelynek jogállását, feladat- és hatáskörét általános jelleggel a nemzetközi jog és a magyar jog normái határozzák meg.
 - 15. külképviselet által foglalkoztatott munkavállaló: a fogadó államban állandó lakóhellyel rendelkező és a fogadó államban munkavállalásra jogosult, a külképviselet által munkaszerződéssel foglalkoztatott természetes személy, akinek elsődleges feladata a külképviselet funkcionális működésében való közreműködés;
 - 16. külképviselet által foglalkoztatott házastárs: a kihelyezett házastársa, akit a külképviselet munkaszerződéssel, magyar jog alapján foglalkoztat, és akinek elsődleges feladata a külképviselet adminisztratív-technikai feladatainak ellátásában való közreműködés;
+- 16a. szabadnap: a 29/E. § (1) bekezdése és a 31. § (5) és (6) bekezdése szerinti speciális szabadság;
 - 17. szakdiplomata: az a diplomata, akit kormányzati igazgatási szerv, a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény) hatálya alá tartozó különleges jogállású szerv, – a magyar állam nevében jogszabályi kijelölés alapján a tulajdonosi jogokat gyakorló előzetes egyetértésével – jogszabályi kijelölés alapján közfeladatot ellátó állami tulajdonú gazdasági társaság, vagy jogszabály által létesített, közfeladatot ellátó jogi személy egy ágazati szakmai, illetve jogszabályban meghatározott közfeladata külképviseleten történő ellátására a kihelyező szervnél tartós külszolgálati kihelyezésre jelöl és határozott időre helyez át, vagy a hivatásos szolgálati jogviszonyra vagy a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény (a továbbiakban: Pnbjt.) szerinti nemzetbiztonsági szolgálati jogviszonyra (a továbbiakban: nemzetbiztonsági szolgálati jogviszony) vonatkozó szabályok szerint – kormányzati szolgálati jogviszonyban történő foglalkoztatásra – vezényel a kihelyező szervhez, vagy a 36. § (4) bekezdés b) pontjában foglaltak szerint közvetlenül a kihelyező szerv nevezi ki kormánytisztviselőnek a külszolgálata, illetve az azt megelőző felkészülés idejére szóló határozott időre;
 - 17a. szakkonzul: konzuli feladatokat ellátó szakdiplomata;
 - 17b. szakminiszter: a szakdiplomata tekintetében feladatkörénél fogva a szakdiplomata jelölésére jogosult, feladat- és hatáskörében eljáró miniszter, a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény hatálya alá tartozó különleges jogállású szerv vezetője, a jogszabályi kijelölés alapján közfeladatot ellátó állami tulajdonú gazdasági társaság, illetve jogszabály által létesített, közfeladatot ellátó jogi személy képviseletére jogosult vezetője;
@@ -408,11 +411,11 @@ ideiglenesen – legfeljebb 90 napos időtartamra – hazarendelheti (a további
 
 (7) Nem szükséges a kihelyezett beleegyezése a kinevezési, illetve a kihelyező okirat módosításához, ha a kihelyezett
 
-- a) munkakörének megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja,
+- a) munkakörének megváltoztatását a kihelyezett által benyújtott pályázat alapján meghozott vagy kijelölési döntés indokolja,
 - b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá,
 - c) rangemelésben részesül,
 - d) személyi, álláshely nyilvántartási vagy díjazási adatai módosulnak,
-- e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre, vagy tartós külszolgálati munkaköre kiegészítésre kerül további külszolgálati munkakörrel, illetve kiegészítő feladatkörrel.
+- e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre, vagy tartós külszolgálati munkakörei, illetve kiegészítő feladatkörei kiegészítésre vagy szűkítésre kerülnek további külszolgálati munkakörrel, illetve kiegészítő feladatkörrel.
 - f) kihelyező okiratában foglaltaknak jogszabályváltozás folytán vált szükségessé a módosítása,
 - g) kihelyező okiratának módosítása a (2) bekezdés h) pontja alapján szükséges.
 
@@ -652,7 +655,11 @@ foglalkoztatott kihelyezett munkarendje kötetlen, a munkarend kötetlen jelleg�
 
 (2) A rendkívüli munkavégzés ellenértékeként járó szabadidőt az általános munkarendben dolgozó kihelyezettek részére a külképviselet-vezető a rendkívüli munkavégzést követő kilencven napon belül köteles kiadni.
 
-(3) A fogadó államban munkaszüneti napnak minősülő ünnepnapok a külképviseletre tartós külszolgálatra kihelyezett, valamint a külképviselet által foglalkoztatott házastárs számára szabadnapoknak minősülnek, amelyeket az ezen napokra elrendelt rendkívüli munkavégzés, készenlét és ügyelet időtartamának külképviseleten történő elszámolásakor figyelembe kell venni. Ha a kihelyezett rendes szabadságát vagy egyéb engedélyezett távollétét nem a fogadó államban tölti, abban az esetben a kihelyezett esetében a szabadság megállapítása tekintetében a magyarországi munkarendet kell figyelembe venni, a fogadó állam munkaszüneti napja ez idő alatt e törvény szerinti szabadságnak minősül.
+(3)
+
+29/E. § (1) A fogadó államban munkaszüneti napnak minősülő ünnepnap (e § alkalmazásában a továbbiakban: ünnepnap) a külképviseletre tartós külszolgálatra kihelyezett, valamint a külképviselet által foglalkoztatott házastárs számára a külképviselet-vezető – mérlegelési jogkörben meghozott – előzetes, írásbeli döntése esetén szabadnapnak minősülhet, azzal a feltétellel, hogy a külképviselet-vezetőnek biztosítania kell a külképviselet folyamatos és zavartalan működését.
+
+(2) Ünnepnapra nem adható ki az (1) bekezdés szerinti szabadnap annak a kihelyezettnek, valamint a külképviselet által foglalkoztatott házastársnak, aki az ünnepnap időtartama alatt bármilyen más jogcímen távolléten van és azt nem a fogadó államban tölti.
 
 30. § (1) A kihelyezett és hozzátartozói a tartós külszolgálat alatt a kötelező egészségbiztosítás ellátásairól szóló törvény és kapcsolódó jogszabályok külföldön történő gyógykezelésre vonatkozó szabályai szerint jogosultak a fogadó államban egészségügyi ellátás igénybevételére, amelynek részletszabályait – az egészségügyért felelős miniszterrel egyetértésben – a külpolitikáért felelős miniszter rendeletben szabályozza.
 
@@ -685,11 +692,13 @@ pótszabadságra jogosult.
 
 (6) A kihelyezettet évente összesen az alábbi szabadnapok illetik meg:
 
-- a) Európán belüli állomáshely esetében két, Európán kívüli állomáshely esetében négy, Ausztrália és Óceánia esetében hat utazási nap, valamint
-- b) – külszolgálatra történő kihelyezés, illetve a tartós külszolgálat 20. § (1) bekezdés a) pont szerinti megszűnése éve kivételével – állomáshelytől függetlenül két orvosi nap,
+- a) Magyarországra történő haza- és az állomáshelyre történő visszautazásra Európán belüli állomáshely esetében egy-egy, Európán kívüli állomáshely esetében két-két, Ausztrália és Óceánia esetében három-három utazási nap,
+- b) – külszolgálatra történő kihelyezés, illetve a tartós külszolgálat 20. § (1) bekezdés a) pontja szerinti megszűnése éve kivételével – állomáshelytől függetlenül két orvosi nap,
 - c) a külszolgálatra történő kihelyezés évében a b) pont szerinti mértékű orvosi napok, ha a kihelyezett, a kihelyezést megelőző utolsó tárgynegyedév és a kihelyezést követő év március 31. napjáig az e törvényben foglaltak szerinti alkalmassági vizsgálaton részt vett.
 
-(6a) A tartós külszolgálat 20. § (1) bekezdés a) pont szerinti megszűnése évében a kihelyezettet orvosi nap nem illeti meg.
+(6a) A tartós külszolgálat 20. § (1) bekezdés a) pontja szerinti megszűnésének naptári évében abban az esetben vehető igénybe az orvosi nap, ha a tartós külszolgálatra való alkalmasságra vonatkozó orvosi vélemény vagy kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által elvégzett orvosi vizsgálat érvényességi ideje a tartós külszolgálat megszűnésének napját megelőző 90. napnál korábban jár le.
+
+(6b) A tartós külszolgálatra történő kihelyezésnek, illetve a tartós külszolgálat 20. § (1) bekezdés a) pontja szerinti megszűnésének a naptári évében a kihelyezett akkor jogosult a (6) bekezdés a) pontja szerinti utazási napra, ha az állomáshelyen az adott naptári évben 9 hónapot meghaladóan külszolgálati kihelyezése az állomáshelyen fennáll.
 
 (7) A kihelyezettet az állomáshelyre történő első kiutazáskor és a végleges hazautazáskor – ideértve a másik állomáshelyre történő áthelyezést is – Európán belüli állomáshely esetében egy-egy, Európán kívüli állomáshely esetében kettő-kettő, Ausztrália és Óceánia esetében három-három utazási nap illeti meg. A külszolgálat megkezdésének és megszűnésének naptári évében, amennyiben abban az évben a külszolgálat időtartama nem éri el a kilenc hónapot, a kiutazáshoz, illetve a végleges hazautazáshoz biztosított utazási napokon túl a kihelyezett további utazási napokra nem jogosult.
 
@@ -1027,16 +1036,16 @@ diplomáciai rangot adományozhat.
 - b) a diplomáciai vagy gazdasági kapcsolatok jövőbeli kialakítására, módosítására vagy megszüntetésére irányuló, az erre vonatkozó döntés meghozatala előtt keletkezett, a diplomáciai érintkezés formalizált és nem formalizált dokumentumaiban foglalt adatok,
 - c) a tartós külszolgálatra kihelyező szervvel munkavégzésre irányuló jogviszonyban álló, a külgazdasági, külpolitikai, valamint a diplomáciai feladatellátásban érintett vagy abban közreműködő személyek valamely, e feladatellátással összefüggésben kezelt személyes adatának,
 - d) a külképviseleteken, a külföldi diplomáciai célú vagy a külképviseletek közreműködésével külföldön megvalósuló vagy humanitárius célokat szolgáló állami beruházásokkal összefüggő adatok, valamint
-- e) a védett személyek külföldi mozgásával összefüggő adatok
+- e) a védett személyek külföldi mozgásával, tartózkodásával összefüggő adatok
 
 megismerése Magyarország külpolitikai, külgazdasági érdekeinek illetéktelen külső befolyástól mentes érvényesítését vagy nemzetbiztonsági érdekeit veszélyezteti, azok megismerése iránti igény teljesítését az e bekezdésben foglalt feltételeknek megfelelő adat tekintetében, annak keletkezésétől számított öt évig meg kell tagadni, valamint annak közzétételét mellőzni kell.
 
-(2) Az (1) bekezdésben foglalt adatok megismerése iránti igény teljesíthetőségéről
+(2) Az (1) bekezdésben foglalt adatok megismerése iránti igény teljesíthetőségéről – a (2a) bekezdésben foglaltak sérelme nélkül –
 
-- a) az (1) bekezdés a) és b) pontjában meghatározott adatok tekintetében – Magyarország külpolitikai, külgazdasági érdekeit mérlegelve – a külgazdasági ügyekért felelős miniszter,
-- b) az (1) bekezdés c), d) és e) pontjában meghatározott adatok tekintetében – Magyarország nemzetbiztonsági érdekeit mérlegelve – a külgazdasági ügyekért felelős miniszter a polgári hírszerzési tevékenység irányításáért felelős miniszter véleményének kikérését követően
+- a) az (1) bekezdés a)–d) pontjában meghatározott adatok tekintetében – Magyarország külpolitikai, külgazdasági és biztonságpolitikai érdekeit mérlegelve – a külpolitikáért felelős miniszter dönt,
+- b) az (1) bekezdés e) pontjában meghatározott adatok tekintetében – Magyarország nemzetbiztonsági, külpolitikai és biztonságpolitikai érdekeit mérlegelve – a külpolitikáért felelős miniszter dönt azzal, hogy a nemzetbiztonsági érdek vélelmezett felmerülése esetében a döntés előtt a polgári hírszerzési tevékenység irányításáért felelős miniszter véleményét kikéri.
 
-dönt.
+(2a) Ha az (1) bekezdés b)–e) pontjában meghatározott adatokra vonatkozó közérdekűadat-igényléssel kapcsolatban eljáró adatkezelő nem a Kormány irányítása alá tartozó személy vagy szerv, akkor az adatigényléssel kapcsolatban eljáró adatkezelő az adatok megismerése iránti igény teljesíthetőségéről szóló döntését Magyarország külpolitikai, külgazdasági, biztonságpolitikai és nemzetbiztonsági érdekeit önállóan mérlegelve hozza meg.
 
 (3) A (2) bekezdésben meghatározott véleményt legkésőbb tizenöt napon belül kell megadni. A vélemény megkérésétől annak megadásáig vagy a véleményadási határidő eredménytelen elteltéig terjedő időtartam az adat megismerése iránti igény teljesítésére rendelkezésre álló határidőbe nem számít bele.
 
@@ -1126,7 +1135,7 @@ dönt.
 
 (31) A külpolitikáért felelős miniszter által vezetett minisztérium (e bekezdés alkalmazásában a továbbiakban: minisztérium) hivatali szervezetének vezetője a minisztériummal kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban vagy munkaviszonyban álló tartós külszolgálati pályázat benyújtására jogosult foglalkoztatott vagy a tartós külszolgálati munkakör ellátására kijelölt személy számára a minisztériumnál működő foglalkozás-egészségügyi szolgálat által végzett egészségügyi szűrővizsgálaton való részvételt írhat elő. A tartós külszolgálati működési rendhez, illetve a külügyi feladatellátáshoz kapcsolódó foglalkozási egészségügyi szűrővizsgálat adatkezelése során az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezéseit megfelelően kell alkalmazni.
 
-(32) A határ menti operatív programok tervezésével és megvalósításával összefüggő feladatokért felelős miniszter által vezetett minisztériumban (a továbbiakban e bekezdés alkalmazásában: minisztérium) kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban vagy munkaviszonyban álló foglalkoztatott számára a minisztérium hivatali szervezetének vezetője a kormányzati igazgatásról szóló törvény 33/F. § (4)–(6) bekezdése, illetve 279/B. § (2) bekezdése szerint teljesítménydíjazás alkalmazását rendelheti el azzal, hogy a 33/F. § (5) bekezdésében a kormányzati igazgatásról szóló törvény 33/B. § (1) bekezdése szerinti államtitkár helyett a minisztérium hivatali szervezetének vezetője értendő.
+(32) A határ menti operatív programok tervezésével és megvalósításával összefüggő feladatokért felelős miniszter által vezetett minisztériumban (a továbbiakban e bekezdés alkalmazásában: minisztérium) kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban vagy munkaviszonyban álló foglalkoztatott számára a minisztérium hivatali szervezetének vezetője a kormányzati igazgatásról szóló törvény 33/F. § (4)–(6) bekezdése, illetve 279/B. § (2) bekezdése szerint teljesítménydíjazás alkalmazását rendelheti el azzal, hogy a 33/F. § (4) bekezdés c) pontjában foglaltakat azzal az eltéréssel kell alkalmazni, hogy a vezető-kormányfőtanácsosi, osztályvezetői és főosztályvezetői álláshelyen helyett az e bekezdés szerinti kormányzati szolgálati jogviszonyban álló foglalkoztatott által betöltött álláshely értendő, valamint azzal, hogy a 33/F. § (5) bekezdésében a kormányzati igazgatásról szóló törvény 33/B. § (1) bekezdése szerinti államtitkár helyett a minisztérium hivatali szervezetének vezetője értendő.
 
 (33) A kihelyező szervnél (e bekezdés alkalmazásában a továbbiakban: minisztérium) a kormányzati- vagy politikai szolgálati jogviszony, valamint a munkaviszony létesítése során, illetve annak fennállása alatt, az azzal összefüggő, a munkáltató által nem ismert vagy a tudomására nem jutott és jogszabály szerint a munkáltató által kezelhető adatokat és tényeket a minisztériummal kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban vagy munkaviszonyban álló foglalkoztatottnak – a tájékoztatási kötelezettségén túl – a minisztérium felé igazolnia kell azzal, hogy ha az igazolás a foglalkoztatott számára jogosultságot igazol, a jogosultság fennállása csak az azt tanúsító igazolás, illetve dokumentum minisztérium részére történő átadása napjától vehető figyelembe.
 
@@ -1214,6 +1223,10 @@ annak időtartamára a kihelyező vezető a kormányzati igazgatásról szóló 
 58/N. § (1) E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv9.) megállapított 23. § (1) bekezdését a 2025. január 1. és 2025. július 31. napja közötti időszakra vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a számfejtés alapját képező tárgyhónapot megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos, magyar forintban meghatározott amerikai dollár árfolyam helyett a 2024. december 15. napján érvényes, az MNB által közzétett hivatalos, magyar forintban meghatározott amerikai dollár árfolyamot kell alkalmazni.
 
 (2) E törvénynek a Módtv9.-cel megállapított rendelkezéseit – a hatályba lépés időpontjában folyamatban lévő tartós külszolgálat megszűnések vagy megszüntetések kivételével – a Módtv9. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.
+
+58/O. § (1) E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel (a továbbiakban: Módtv10.) megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módtv10. hatálybalépését megelőzően létrejött és folyamatban lévő jogviszonyokra, elszámolásokra is alkalmazni kell.
+
+(2) E törvénynek a Módtv10.-zel megállapított 1. § (4) bekezdését, 57/A. § (2) és (2a) bekezdését a Módtv10. hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Módtv10. hatálybalépésekor folyamatban lévő eljárásokban, valamint a Módtv10. hatálybalépését megelőzően keletkezett adatok tekintetében is alkalmazni kell.
 
 #### 21. Felhatalmazó rendelkezések
 

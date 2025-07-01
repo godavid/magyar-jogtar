@@ -138,7 +138,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 (3) A munkavédelmi üzembe helyezés feltétele a munkavédelmi szempontú előzetes vizsgálat. E vizsgálat célja annak megállapítása, hogy a létesítmény, a munkahely, a munkaeszköz, a technológia megfelel az egészséget nem veszélyeztető és biztonságos munkavégzéshez szükséges tárgyi, személyi, szervezési, munkakörnyezeti feltételeknek, illetőleg teljesíti a 18. § (1) bekezdése szerinti követelményeket. A vizsgálat elvégzése munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül.
 
-(3a) A munkavédelmi szempontú előzetes vizsgálat során szükséges munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+(3a) A munkavédelmi szempontú előzetes vizsgálat során szükséges munkaegészségügyi feladatokat a foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy végezheti. A feladatokat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
 (4) Az előzetes vizsgálat során különösen vizsgálni kell, hogy rendelkezésre állnak-e a létesítést végzők (tervező, kivitelező) nyilatkozatai, a munkavédelmi követelmények kielégítését bizonyító mérési eredmények, a munkaeszközre vonatkozó megfelelőségi nyilatkozatok, tanúsítványok, a szükséges hatósági engedélyek, az üzemeltetéshez szükséges utasítások.
 
@@ -261,6 +261,8 @@ Az olyan járművekre, amelyek a közforgalomban nem vesznek részt, a járműve
 
 (3) A mentési terv elkészítése munkabiztonsági és munkaegészségügyi szaktevékenység.
 
+(3a) A mentési terv munkaegészségügyi tartalmának elkészítését a munkáltató foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személlyel végeztetheti. A feladat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel is ellátható.
+
 46. § A munkahelyen – jellegének, elhelyezkedésének, a veszélyforrásoknak, a munkavállalók létszámának, a munkavégzésből és a munkakörnyezetből származó hatások és egészségkárosító kóroki tényezők figyelembevételének, valamint a munka szervezésének megfelelően – biztosítani kell a munkahelyi elsősegélynyújtás tárgyi, személyi és szervezési feltételeit.
 
 47. § A munkavégzésre, a munkafolyamatokra, a munkahelyre, a technológiára, a munkaeszközre, az egyéni védőeszközre és a védőitalra vonatkozó részletes előírásokat külön jogszabály, Szabályzat (11. §) és szabvány tartalmazza.
@@ -326,7 +328,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) A munkáltatónak rendelkeznie kell kockázatértékeléssel, amelyben köteles minőségileg, illetve szükség esetén mennyiségileg értékelni a munkavállalók egészségét és biztonságát veszélyeztető kockázatokat, különös tekintettel az alkalmazott munkaeszközökre, veszélyes anyagokra és keverékekre, a munkavállalókat érő terhelésekre, valamint a munkahelyek kialakítására. A kockázatértékelés során a munkáltató azonosítja a várható veszélyeket (veszélyforrásokat, veszélyhelyzeteket), valamint a veszélyeztetettek körét, felbecsüli a veszély jellege (baleset, egészségkárosodás) szerint a veszélyeztetettség mértékét. A kockázatértékelés során az egészségvédelmi határértékkel szabályozott kóroki tényező előfordulása esetén munkahigiénés vizsgálatokkal kell gondoskodni az expozíció mértékének meghatározásáról.
 
-(2a) A foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a kockázatértékelés munkaegészségügyi tartalmával kapcsolatos feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+(2a) A foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, legfeljebb 50 főt foglalkoztatók esetében a kockázatértékelés munkaegészségügyi tartalmával kapcsolatos feladatokat foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy láthatja el. A feladatokat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
 (3) A munkáltató a kockázatértékelést, annak részeként a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 5 évente köteles elvégezni. Az 56. §-ban meghatározottak a kockázatértékelésben kerülnek rögzítésre. Indokolt esetnek kell tekinteni
 
@@ -354,7 +356,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (6a)
 
-(6b) A megelőzési stratégia munkaegészségügyi tartalmának kialakítása a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel is ellátható.
+(6b) A megelőzési stratégia munkaegészségügyi tartalmának kialakítását a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, legfeljebb 50 főt foglalkoztatók esetében foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja. A feladatot foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
 (7) Az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében a munkáltató köteles
 
@@ -389,9 +391,9 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (3) Az oktatási tematika elkészítése munkabiztonsági és munkaegészségügyi szaktevékenység.
 
-(4) A (3) bekezdésben meghatározott munkaegészségügyi feladatot a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+(4) A (3) bekezdésben meghatározott munkaegészségügyi feladatot a foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy végezheti. A feladat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel is ellátható.
 
-56. § Az egyéni védőeszköz juttatásának belső rendjét a munkáltató írásban határozza meg. E feladat ellátása munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül. A munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+56. § Az egyéni védőeszköz juttatásának belső rendjét a munkáltató írásban határozza meg. E feladat ellátása munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül. A munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító orvosa, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja. A feladatokat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
 57. § (1) A munkáltató az egészséget nem veszélyeztető és biztonságos munkavégzés munkáltatói feladatainak teljesítése érdekében a foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott veszélyességi osztályhoz, munkavállalói létszámhoz igazodóan elegendő, de legalább a rendeletben megjelölt időtartamra és képesítési feltételekkel köteles munkavédelmi szakmai képesítéssel rendelkező személyt kijelölni vagy foglalkoztatni, e személy részére valamennyi munkavédelemmel összefüggő információt megadni, és a szükséges tárgyi, szervezési feltételeket biztosítani.
 
@@ -403,7 +405,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) A foglalkozás-egészségügyi szolgálat a munkáltató felelősségének érintetlenül hagyásával közreműködik az egészséget nem veszélyeztető munkakörnyezet kialakításában, az egészségkárosodások megelőzésében, a munkaegészségügyi szaktevékenységnek minősített, külön jogszabályok által előírt feladatok ellátásában.
 
-(2a) Az egészséget nem veszélyeztető munkakörnyezet kialakításával kapcsolatos munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+(2a) Az egészséget nem veszélyeztető munkakörnyezet kialakításával kapcsolatos munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosa, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja. A feladatokat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
 (3) A munkáltatónak biztosítania kell, hogy munkavállalói és azok munkavédelmi képviselői a munkakörülményeikkel kapcsolatban, így különösen a 61. §-ban biztosított jogaik gyakorlása során a szükséges felvilágosítást a foglalkozás-egészségügyi szolgálattól megkaphassák.
 

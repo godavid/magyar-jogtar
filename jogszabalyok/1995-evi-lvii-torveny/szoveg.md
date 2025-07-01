@@ -8,7 +8,7 @@ Az Országgyűlés a vizek hasznosításával, hasznosítási lehetőségeinek m
 
 1. § (1) A törvény hatálya
 
-- a) a felszín alatti és a felszíni vizekre (a továbbiakban: vizek), a felszín alatti vizek természetes víztartó képződményeire, illetőleg a felszíni vizek medrére és partjára;
+- a) a felszín alatti és a felszíni vizekre, a felszín alatti vizek természetes víztartó képződményeire, továbbá a felszíni vizek medrére és partjára;
 - b) arra a létesítményre, amely a vizek lefolyási és áramlási viszonyait, mennyiségét, minőségét, medrét, partját vagy a felszín alatti vizek víztartó képződményeit befolyásolja vagy megváltoztathatja;
 - c) arra a tevékenységre, amely a vizek lefolyási és áramlási viszonyait, mennyiségét, minőségét, medrét, partját vagy a felszín alatti vizek víztartó képződményeit befolyásolja vagy megváltoztathatja;
 - d) a vizek hasznosítására, hasznosíthatóságának megőrzésére és a vízkészletekkel való gazdálkodásra;
@@ -19,7 +19,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (2) A nemzetközi együttműködésből adódó vízgazdálkodási feladatok ellátására e törvény hatálya annyiban terjed ki, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
 
-(3) A vizek védelmével összefüggő — e törvényben nem szabályozott — követelményekről és feladatokról külön törvény rendelkezik.
+(3)
 
 (4) A külön meghatározást igénylő fogalmak jegyzékét az 1. számú melléklet tartalmazza.
 
@@ -90,13 +90,13 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
 
-(4) A (3) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik.
+(4)
 
-(5) Az ingatlanügyi hatóság a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (7a) bekezdésében foglalt feltételek fennállása esetén, a vízügyi igazgatási szerv egyoldalú nyilatkozatát tartalmazó kérelme alapján bejegyzi a vízilétesítmények vonatkozásában a vízügyi igazgatási szerv vagyonkezelői jogát az ingatlan-nyilvántartásba, és – amennyiben az a bejegyzéshez szükséges – egyidejűleg törli a (3) bekezdésben megjelölt szerv vagyonkezelői jogát vagy kezelői jogát az ingatlan-nyilvántartásból.
+(5)
 
-(5a) A (3) bekezdés c) pontja szerinti esetben a vízügyi igazgatási szerv a kérelméhez csatolja a tulajdonosi joggyakorló közokiratba vagy teljes bizonyító erejű magánokiratba foglalt arra vonatkozó nyilatkozatát, hogy a tulajdonosi joggyakorló és az ingatlan-nyilvántartásba bejegyzett kezelői jog jogosultja között nincs érvényben az ingatlan használatára jogcímet biztosító szerződés.
+(5a)
 
-(6) A vízitársulat az üzemeltetési és fenntartási feladatokat az (5) bekezdés szerinti ingatlanügyi hatósági határozat kézhezvételének napjáig látja el.
+(6)
 
 (7) A vízitársulat által a vagyon használatára, valamint hasznosítására harmadik személlyel kötött szerződésben a korábbi vagyonkezelő vagy kezelő helyébe a (3) bekezdésben kijelölt vagyonkezelő lép. Egyéb tekintetben a vízügyi igazgatási szerv nem tekinthető a vízitársulat jogutódjának.
 
@@ -116,9 +116,9 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 - c) a b) pontban meghatározott feladatok ellátásáról a lakosegyenértéktől függetlenül azokon a területeken, amelyeket a vízbázisok, távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről, továbbá a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló jogszabályok határoznak meg;
 - d) a településen található szennyvízbekötés nélküli ingatlanok esetében a nem közművel összegyűjtött háztartási szennyvíz begyűjtésének szervezéséről és ellenőrzéséről.
 
-(3) Az (1) bekezdésben felsorolt feladatok — a külön jogszabályokban a polgármester, illetve a jegyző hatáskörébe utalt feladatok kivételével — a képviselő-testület, a főváros esetében a fővárosi önkormányzat képviselő-testületének hatáskörébe tartoznak.
+(3)
 
-(4) A helyi önkormányzat víziközmű-működtetés és víziközmű-szolgáltatás tekintetében felmerülő, vízügyi tevékenységektől és vízügyi igazgatástól elkülönült feladatait a víziközmű-szolgáltatásról szóló törvény szabályozza.
+(4)
 
 5. § A területi jelentőségű vízgazdálkodási, vízvédelmi feladatok, koncepciók egyeztetésére, véleményezésére területi és részvízgyűjtő hatáskörű, az országos jelentőségű vízgazdálkodási feladatok, koncepciók egyeztetésére, véleményezésére országos vízgazdálkodási tanácsot (a továbbiakban együtt: vízgazdálkodási tanácsok) kell létrehozni.
 
@@ -130,7 +130,7 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 
 (3a) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) A (3) bekezdés szerinti nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(4) A (3) bekezdés szerinti nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. § (7) és (8) bekezdésében meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (5)
 
@@ -159,7 +159,7 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 
 (7) A természetes úton létrejött — a meder részét már nem képező — feliszapolódáson (parti növedék) csak a parti ingatlan tulajdonosa szerezhet tulajdont.
 
-6/A. § (1) A belvízelvezetést vagy öntözést szolgáló, nem állami tulajdonban lévő vízfolyások, csatornák üzemeltetését és fenntartását – a 45/E. § (1) bekezdése, a 45/F. § (2) bekezdése vagy a 45/G. § (4) bekezdése szerint megkötött üzemeltetési szerződés alapján – a működési terület szerinti vízügyi igazgatási szerv látja el.
+6/A. § (1) A belvízelvezetést vagy öntözést szolgáló, nem állami tulajdonban lévő vízfolyások, csatornák üzemeltetését és fenntartását – a 22/B. § szerint megkötött üzemeltetési szerződés alapján – a működési terület szerinti vízügyi igazgatási szerv látja el.
 
 (2) A vízügyi igazgatási szerv végzi azon belvízelvezetést vagy öntözést szolgáló vízfolyások, csatornák üzemeltetését és fenntartását is, amelyre a vízügyi hatóság kijelölte.
 
@@ -175,8 +175,10 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 - f) a belvízelvezető művek (így például a belvízcsatornák, szivattyútelepek, belvíztározók) létesítése, fenntartása, bővítése, a belvízvédekezés irányítása és végrehajtása;
 - g) a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése;
 - h) a vízkészletek átcsoportosítását szolgáló vízelosztó rendszerek – ideértve a csatornákat is – létesítése, fenntartása és üzemeltetése, a többes rendeltetésű rendszerek fenntartása és üzemeltetése, valamint a mezőgazdasági vízszolgáltatás biztosítása.
+- i) a vízkészletek növelése, a felszíni és felszín alatti vizek és vízilétesítmények vízmegtartási szempontú üzemeltetésével;
+- j) a vízhiányból eredő vízkárelhárítás.
 
-(3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve a külön törvényben szabályozott vízitársulat útján lehet gondoskodni.
+(3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve vízitársulat útján lehet gondoskodni.
 
 (4) A (3) bekezdésben megjelölt feladat:
 
@@ -188,7 +190,7 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 - f) a település belterületén a patakok, csatornák áradása, továbbá a csapadék- és egyéb vizek kártételének megelőzése, a kül- és belterületen a patakszabályozás, árvízvédelmi létesítmények építése, fenntartása, fejlesztése, az árvízmentesítés, az árvízvédekezés szervezése, irányítása, végrehajtása, a védelmi szakfelszerelés karbantartása és fejlesztése;
 - g) a település belterületén a csapadékvíz elkülönített elvezetését biztosító árkok fenntartása és vízilétesítmények üzemeltetése, az országos közút, illetve a közforgalmú vasút víztelenítését szolgáló árkok, csatornák és egyéb vízelvezető vízilétesítmények kivételével.
 
-(5) Az állami tulajdonban lévő vízfolyás medrének és parti sávjának lehatárolásáról a vízügyi igazgatási szerv gondoskodik.
+(5)
 
 (6)
 
@@ -218,7 +220,7 @@ adottságok.
 
 8. § (1) A közérdek mértékét meghaladó, illetve a 7. §-ban nem említett tevékenység — vízimunka, vízilétesítmény építése — többletköltségeit az igénylők kötelesek megtéríteni.
 
-(2) A területi közcélú vízilétesítmények, illetve a közcélú vízimunkák költségeit, vízitársulat esetén a tagok külön törvény szerint, vízitársulat hiányában az érdekeltek érdekeltségük arányában kötelesek viselni (közcélú érdekeltségi hozzájárulás). A közcélú érdekeltségi hozzájárulás hektáronként fizetendő mértékét a vízgazdálkodásért felelős miniszter évente rendeletben állapítja meg.
+(2) A területi közcélú vízilétesítmények, illetve a közcélú vízimunkák költségeit, vízitársulat esetén a tagok külön törvény szerint, vízitársulat hiányában az érdekeltek érdekeltségük arányában kötelesek viselni (közcélú érdekeltségi hozzájárulás). A közcélú érdekeltségi hozzájárulás hektáronként fizetendő mértékét a vízgazdálkodásért felelős miniszter rendeletben állapítja meg.
 
 (3) Vízitársulat hiányában a (2) bekezdés szerinti költségeket az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint lefolytatott eljárásban hozott határozatával érdekeltségük arányában az érdekeltekre a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala veti ki.
 
@@ -322,9 +324,9 @@ kell érteni.
 
 13/C. § (1) A közalkalmazottnak a vízügyi pályán belátható, tervszerű előmeneteli lehetőséget kell biztosítani a munkaköri kategórián belül más munkakörben való előmenetelhez, továbbá a magasabb munkaköri kategóriába tartozó munkakör eléréséhez.
 
-(2) A munkaköri kategóriákat és az egyes munkaköri kategóriákhoz tartozó munkaköröket a Kormány rendeletben állapítja meg.
+(2) A munkaköri kategóriákat és az egyes munkaköri kategóriákhoz tartozó munkaköröket a vízügyi igazgatási szervek irányításáért felelős miniszter rendeletben állapítja meg.
 
-(3) A közalkalmazott és a vezető illetményét iskolai végzettsége és munkaköre alapján kell megállapítani a vízügyi igazgatási szerveknél foglalkoztatottak közalkalmazotti jogviszonyának különös szabályairól szóló kormányrendeletben meghatározott illetménytábla alkalmazásával.
+(3) A közalkalmazott és a vezető illetményét iskolai végzettsége és munkaköre alapján kell megállapítani a (2) bekezdés szerinti miniszteri rendeletben meghatározott illetménytábla alkalmazásával.
 
 13/D. § Az előmenetel általános feltételei:
 
@@ -337,7 +339,7 @@ kell érteni.
 
 (2) A közalkalmazott garantált illetménye összegének legalább a Kormány által rendeletben megállapított minimálbér és garantált bérminimum összegét el kell érnie.
 
-(3) A közalkalmazott illetményét úgy kell megállapítani, hogy annak összege elérje a besorolása szerinti illetménytábla szerinti alsó határt, de ne haladja meg annak felső határát. A közalkalmazott a besorolása szerinti alsó határ szerinti illetményre alanyi jogon jogosult. A vízügyi ágazatban foglalkoztatott közalkalmazottak besorolását és az ahhoz tartozó illetmény alsó és felső határait a Kormány rendeletben állapítja meg.
+(3) A közalkalmazott illetményét úgy kell megállapítani, hogy annak összege elérje a besorolása szerinti illetménytábla szerinti alsó határt, de ne haladja meg annak felső határát. A közalkalmazott a besorolása szerinti alsó határ szerinti illetményre alanyi jogon jogosult. A vízügyi ágazatban foglalkoztatott közalkalmazottak besorolását és az ahhoz tartozó illetmény alsó és felső határait a vízügyi igazgatási szervek irányításáért felelős miniszter rendeletben állapítja meg.
 
 (4) A közalkalmazott illetményét a munkáltatói jogkör gyakorlója minden év január 31-éig felülvizsgálja.
 
@@ -420,16 +422,11 @@ lehet gyakorolni.
 
 13/K. § (1) A közalkalmazott jogosult az előmenetelhez, és köteles a központilag vagy a munkáltató által előírt képzésben, továbbképzésben – ideértve a vezetőképzést is – (a továbbiakban együtt: továbbképzés) részt venni.
 
-(2) A továbbképzést a felsőfokú iskolai végzettséget igénylő munkakört betöltő közalkalmazott esetében a Nemzeti Közszolgálati Egyetem biztosítja.
+(2)
 
-(3) Az alap- és középfokú iskolai végzettséget igénylő munkakört betöltő közalkalmazott esetében a továbbképzési rendszer biztosítja az ismeretek megújítását, amelyet a Kormány által rendeletben kijelölt vízügyi igazgatási szerv – a Nemzeti Közszolgálati Egyetem, valamint a vízügyi szakmai és tudományos szervezetek bevonásával – biztosít.
+(3)
 
-(4) A Nemzeti Közszolgálati Egyetem és a Kormány által rendeletben kijelölt vízügyi igazgatási szerv (a továbbiakban együtt: továbbképzést szervező) a továbbképzési rendszer működtetése során
-
-- a) ellátja a továbbképzési programok fejlesztésével összefüggő feladatokat,
-- b) ellátja a továbbképzési programok minőségügyi követelményeinek biztosításával összefüggő feladatokat,
-- c) tervszerűen és rendszeresen gondoskodik a továbbképzések során közreműködő oktatók és vizsgáztatók szakmai, oktatás-módszertani és felnőttoktatói továbbképzéséről,
-- d) működteti a továbbképzési programok minősítésének rendszerét.
+(4)
 
 (5) A továbbképzést szervező a továbbképzés lebonyolításával kapcsolatban a következő adatok körét tartja nyilván, illetve kezeli:
 
@@ -437,7 +434,7 @@ lehet gyakorolni.
 - b) a közalkalmazott munkáltatójára vonatkozó adatait,
 - c) a továbbképzés teljesítéséhez szükséges adatokat.
 
-(6) A (4) bekezdésben meghatározott feladatok ellátására – a Kjt. 42. §-ával ellentétben – oktatói, tananyag-fejlesztői, illetve oktatásszervezői feladatra további jogviszony létesíthető.
+(6) A vízügyi igazgatási szerveknél foglalkoztatottak közalkalmazotti jogviszonyának különös szabályairól szóló kormányrendeletben meghatározott oktatói, tananyagfejlesztői, illetve oktatásszervezői feladatra további jogviszony – a Kjt. 42. §-ával ellentétben – létesíthető.
 
 (7) A közalkalmazott számára az előírt továbbképzés, valamint az ezzel összefüggő beszámolási vagy vizsgakötelezettség teljesítése miatt kieső munkaidőre járó illetményt a munkáltató szerv köteles megtéríteni.
 
@@ -464,7 +461,7 @@ lehet gyakorolni.
 
 ### A vezetők
 
-13/M. § (1) A közalkalmazott kormányrendeletben meghatározott vezetői munkakör betöltésére nevezhető ki. Vezető kizárólag felsőfokú iskolai végzettséggel rendelkező közalkalmazott lehet. A közalkalmazott a gyakornoki időtartam alatt vezetői munkakörbe nem nevezhető ki.
+13/M. § (1) A közalkalmazott miniszteri rendeletben meghatározott vezetői munkakör betöltésére nevezhető ki. Vezető kizárólag felsőfokú iskolai végzettséggel rendelkező közalkalmazott lehet. A közalkalmazott a gyakornoki időtartam alatt vezetői munkakörbe nem nevezhető ki.
 
 (2) A vezetői munkakörbe történő kinevezés határozatlan időre szól.
 
@@ -473,7 +470,7 @@ lehet gyakorolni.
 (4) Ha a kinevezés módosítása következtében a vezető
 
 - a) alacsonyabb vezetői munkakört tölt be, illetményét az új vezetői munkaköre szerint,
-- b) nem vezetői munkakört tölt be, illetményét új munkaköre szerint, a kormányrendeletben meghatározott illetménytábla alkalmazásával
+- b) nem vezetői munkakört tölt be, illetményét új munkaköre szerint, a miniszteri rendeletben meghatározott illetménytábla alkalmazásával
 
 kell megállapítani.
 
@@ -486,11 +483,11 @@ kell megállapítani.
 
 (7) A közalkalmazottnak a (6) bekezdés szerinti felmentése esetén a kinevezés-módosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó illetmény, a végkielégítés, valamint az egyéb kifizetések összegének meghatározásakor.
 
-(8) A vezetői előmenetelhez kormányrendelet egyéb feltételeket is megállapíthat.
+(8) A vezetői előmenetelhez miniszteri rendelet egyéb feltételeket is megállapíthat.
 
 ### Pótlék
 
-13/N. § A vízügyi igazgatási szerveknél a vizek kártételei elleni védekezés szabályairól szóló kormányrendeletben meghatározott védekezéssel összefüggő feladatot ellátó védelmi szervezeti beosztást betöltő közalkalmazottakat rendelkezésre állási pótlék illeti meg. A rendelkezésre állási pótlék mértéke havi húszezer forint.
+13/N. § A vízügyi igazgatási szerveknél a vizek kártételei elleni védekezés szabályairól szóló kormányrendeletben meghatározott védekezéssel összefüggő feladatot ellátó védelmi szervezeti beosztást betöltő közalkalmazottakat rendelkezésre állási pótlék illeti meg.
 
 ### V. Fejezet — Gazdálkodás a vízkészletekkel
 
@@ -520,7 +517,7 @@ kell törekedni.
 
 (7) Az állam kizárólagos tulajdonában lévő természetes vizek medrében található nádasok vízminőség-védelmi nádgazdálkodásáról a meder kezelője köteles gondoskodni.
 
-14/A. § (1) A különleges vízkészlet-gazdálkodási körzetben a vízhasználó – ideértve a vízjogi engedélyhez kötött vízhasználatok céljából indult közigazgatási hatósági eljárásban ügyfélnek minősülő személyt is – a lekötött vagy igénybe venni tervezett vízkészlet mennyiségére, minőségére, valamint felszín alatti vízkészlet esetén a vízszint süllyedésére gyakorolt hatásának nyomon követése céljából monitoringrendszer kiépítésére, üzemeltetésére és adatszolgáltatásra kötelezhető. A vízügyi igazgatási szerv a monitoringrendszer adatait kiértékeli, és az állapotértékelés eredményéről tájékoztatja a vízügyi hatóságot.
+14/A. § (1) A különleges vízkészlet-gazdálkodási körzetben a vízügyi hatóság a vízhasználót – ideértve a vízjogi engedélyhez kötött vízhasználatok céljából indult közigazgatási hatósági eljárásban ügyfélnek minősülő személyt is – a lekötött vagy igénybe venni tervezett vízkészlet mennyiségére, minőségére, valamint felszín alatti vízkészlet esetén a vízszint süllyedésére gyakorolt hatásának nyomon követése céljából monitoringrendszer kiépítésére, üzemeltetésére és adatszolgáltatásra kötelezi. A vízügyi igazgatási szerv a monitoringrendszer adatait kiértékeli, és az állapotértékelés eredményéről tájékoztatja a vízügyi hatóságot.
 
 (2) A különleges vízkészlet-gazdálkodási körzet területén a területi vízügyi hatóság
 
@@ -585,7 +582,7 @@ alapján kell kiszámítania.
 
 (2) A vízmennyiség meghatározását az engedély nélküli vízhasználatnál a külön jogszabályban foglaltak szerint kell elvégezni.
 
-(3) A vízhasználó a vízjogi engedélyben megjelölt vízmennyiség 80%-a után köteles az (1) bekezdés a) pontjában meghatározott alapjárulék figyelembevételével – a §-ban meghatározottak szerint – a vízkészletjárulékot kiszámítani, ha az általa igénybe vett víz mennyisége a vízjogi engedélyben megjelölt mennyiség 80%-át nem éri el.
+(3) A vízhasználó – a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltató kivételével – a vízjogi engedélyben megjelölt vízmennyiség 80%-a után köteles az (1) bekezdés a) pontjában meghatározott alapjárulék figyelembevételével – a §-ban meghatározottak szerint – a vízkészletjárulékot kiszámítani, ha az általa igénybe vett víz mennyisége a vízjogi engedélyben megjelölt mennyiség 80%-át nem éri el.
 
 (4) Az üzemi fogyasztónak a vízkészletjárulékot 14,10 forint/m3 alapjárulék alapján a ténylegesen igénybe vett vízmennyiség után kell kiszámítania.
 
@@ -602,7 +599,10 @@ alapján kell kiszámítania.
 - i) a felszíni vízből történő ökológiai célú vízhasználat vízmennyisége után,
 - j) ha a vízkészletjárulék tárgyévre vonatkozó összege nem haladja meg az 1000 forintot,
 - k) kármentesítés céljából történő vízkivétel esetén, ha az hatósági kötelezés vagy engedély alapján történt,
-- l) az öntözési célú vízhasználat esetében vízjogi engedélyenként az évi 400 000 m3-t vagy vízhasználónként az általa öntözött terület után hektáronként az évi 4 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízjogi engedélyenként felszínalatti vizet használók esetében az évi 400 000 m3-t, felszíni vizet használók esetében hektáronként az évi 25 000 m3-t meg nem haladó vízmennyiség után,
+- l) mezőgazdasági vízszolgáltatás tekintetében:
+  - la) az öntözési célú vízhasználatnál vízjogi engedélyenként az évi 400 000 m3-t vagy vízhasználónként az általa öntözött terület után hektáronként az évi 4000 m3-t meg nem haladó vízmennyiség után,
+  - lb) a halgazdálkodási célú vízhasználatnál vízjogi engedélyenként felszín alatti vizet használók esetében az évi 400 000 m3-t, felszíni vizet használók esetében hektáronként az évi 25 000 m3-t meg nem haladó vízmennyiség után,
+  - lc) a rizstermelési célú vízhasználatnál vízjogi engedélyenként felszín alatti vizet használók esetében az évi 400 000 m3-t, felszíni vizet használók esetében hektáronként az évi 25 000 m3-t meg nem haladó vízmennyiség után;
 - m) a (9) bekezdés szerinti tartósan vízhiányos időszakban az öntözési, halgazdálkodási és rizstermelési vízhasználat vízmennyisége után,
 - n) a vízügyi hatósági jogkörben kiadott vízjogi engedélyben megadott vízmennyiségből a tél végi többletvizek – felszíni vizek, ár- és belvizek – visszatartásából és tározásából származó hasznosított vízkészlet után, amennyiben a vízügyi igazgatási szerv igazolja, hogy a vízkivételi ponton a többlet felszíni víz mennyisége rendelkezésre áll.
 
@@ -624,7 +624,7 @@ alapján kell kiszámítania.
 
 (8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
 
-(9) A tartósan vízhiányos időszak várható kezdetét és végét a hidrometeorológiai előrejelzések figyelembevételével a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben közleményben közzéteszi.
+(9) A tartósan vízhiányos időszak várható kezdetét és végét, valamint annak területi lehatárolását a hidrometeorológiai előrejelzések figyelembevételével a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben közleményben közzéteszi.
 
 15/D. § (1) A vízhasználó a naptári év első három negyedévének vízigénybevétele után számított vízkészletjárulékot és az üzemi vízfogyasztó a vízkészletjárulékot – a (2) és (3) bekezdésben foglalt kivételekkel – a tárgynegyedévet követő hónap 15. napjáig köteles az illetékes vízügyi hatóság által megjelölt számlára befizetni.
 
@@ -785,12 +785,7 @@ ingatlanokra vonatkozó rendelkezések
 
 (2) Az egyszeri térítés alapja a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) ingatlan-nyilvántartás szerinti aranykorona-értéke (a továbbiakban: AK). Az egyszeri térítés mértéke e rendelkezés hatálybalépésekor 8000 forint AK-ként. Az egyszeri térítés mértéke évente, január 1-jével növekszik a Központi Statisztikai Hivatal által közölt, a tárgyévre érvényes fogyasztói árindex mértékével.
 
-21/D. § A vízügyi hatóság a vízkárelhárítási célú tározó kijelölése során csak a tényállás tisztázása érdekében tart közmeghallgatást. A közmeghallgatás az érintettek személyes megjelenése nélkül,
-
-- a) lehetőség szerint a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve
-- a) honlapon való közzététel útján
-
-is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket tehessenek és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni. A hatóság a közmeghallgatás eredményessége érdekében minden alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, hirdetményi vagy közösségi felületeket – is igénybe vehet.
+21/D. § A vízügyi hatóság a vízkárelhárítási célú tározó kijelölése során csak a tényállás tisztázása érdekében tart közmeghallgatást.
 
 21/E. § (1) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területén lévő földön:
 
@@ -837,9 +832,9 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 
 (6) A (4) bekezdés szerinti kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.
 
-22/B. § Ha az öntözővíz továbbítását akadályozó vízilétesítmény tulajdonosa a 22/A. § szerinti hatósági kijelölés helyett üzemeltetési szerződést köt a vízügyi igazgatósággal a vízfolyás, csatorna üzemeltetésére és fenntartására, úgy a vízügyi igazgatóság a kijelölés iránti kérelmet visszavonja és a vízügyi hatóság a folyamatban lévő eljárást megszünteti, valamint, ha a kijelölés már megtörtént, a vízügyi hatóság a döntést visszavonja. A szerződéskötésről a vízügyi igazgatási szerv tizenöt napon belül tájékoztatja a vízügyi hatóságot.
+22/B. § Ha az öntözővíz továbbítását akadályozó vízilétesítmény tulajdonosa a 22/A. § szerinti hatósági kijelölés helyett üzemeltetési szerződést köt a vízügyi igazgatósággal a vízfolyás, csatorna üzemeltetésére és fenntartására, úgy a vízügyi igazgatóság a kijelölés iránti kérelmet visszavonja. A szerződéskötésről a vízügyi igazgatási szerv tizenöt napon belül tájékoztatja a vízügyi hatóságot.
 
-22/C. § (1) A 22/A. § (3) bekezdés a) pontja szerinti közérdek fennállását a vízügyi igazgatási szerv rendszeresen vizsgálja.
+22/C. § (1) A 22/A. § (4) bekezdés a) pontja szerinti közérdek fennállását a vízügyi igazgatási szerv rendszeresen vizsgálja.
 
 (2) Az (1) bekezdés szerinti vizsgálat eredményeképpen a vízügyi igazgatási szerv kezdeményezheti
 
@@ -874,7 +869,7 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 
 (3) Az ingatlan tulajdonosa (használója) az ivóvízbázisok, vízkivételi művek védelme érdekében kijelölt védőterületen, védősávon a külön jogszabályban, illetőleg a védőterületet megállapító hatósági határozatban meghatározott, vízbázist veszélyeztető tevékenységet nem végezhet, továbbá a kártalanításra vonatkozó rendelkezések mellett köteles tűrni az ezzel összefüggő közérdekű használati jogok gyakorlását, illetőleg az ingatlanhasználat meghatározott körű korlátozását.
 
-26. § Ha a vizek mennyisége vagy a vízilétesítmények teljesítőképessége a többletvizek fokozatos leeresztését teszi szükségessé (szükséghelyzet), az érintett ingatlan tulajdonosa (használója) köteles tűrni, hogy a vizeket a nagyobb kár csökkentése és elhárítása érdekében ideiglenesen az ingatlanon tartsák, odavezessék, ideiglenesen tározzák, illetve az ingatlanon átvezessék.
+26. § Ha a vizek mennyisége vagy a vízilétesítmények teljesítőképessége a többletvizek fokozatos leeresztését teszi szükségessé, az érintett ingatlan tulajdonosa (használója) köteles tűrni, hogy a vizeket a nagyobb kár csökkentése és elhárítása érdekében ideiglenesen az ingatlanon tartsák, odavezessék, ideiglenesen tározzák, illetve az ingatlanon átvezessék.
 
 27. § A 20. § (1) és (2) bekezdése alapján megállapított vízvezetési és vízhasználati szolgalmi jogot, továbbá a 21. § szerinti vízkárelhárítási célú tározóban, a 25. § (3) bekezdése szerinti védőterületen, a nagyvízi mederben, illetve a parti sávban való elhelyezkedést mint jogi jelleget a vízügyi hatóságnak az érintett ingatlanra vonatkozó végleges határozatán alapuló felhívása alapján az ingatlan-nyilvántartásba be kell jegyezni.
 
@@ -882,14 +877,14 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 
 28. § (1) A vízgazdálkodással összefüggő hatósági jogkör lehet vízügyi hatósági jogkör vagy helyi vízgazdálkodási hatósági jogkör.
 
-(2) A vízügyi hatósági jogkörben – vízügyi hatósági eljárás keretében – a vízügyi hatóság, a helyi vízgazdálkodási hatósági jogkörben – helyi vízgazdálkodási hatósági eljárás keretében – a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerinti szerv jár el.
+(2) A vízügyi hatósági jogkört a vízügyi hatóság, a helyi vízgazdálkodási hatósági jogkört a települési önkormányzat jegyzője látja el.
 
 (3) A helyi vízgazdálkodási hatósági eljárásban a vízügyi hatósági eljárásra vonatkozó rendelkezéseket kell alkalmazni, kivéve
 
 - a) a 28/A. § (2) bekezdését,
-- b) a 28/D. § (1) bekezdés b) pontját,
-- c) a 28/D. § (4) és (5) bekezdését,
-- d) a 28/E. §-t,
+- b)
+- c)
+- d)
 - e) a 31. § (1) bekezdését,
 - f) a 31/A. §-t.
 
@@ -927,30 +922,7 @@ csak írásban terjeszthető elő.
 
 #### 28/C. §
 
-28/D. § (1) A kérelemre indult eljárás megindulásáról
-
-- a) az ismert ügyfelet,
-- b) a 3. § (2) bekezdése szerinti vizek, meder vagy vízilétesítmény érintettsége esetén a működési területével érintett vízügyi igazgatási szervet
-
-írásban értesíteni kell.
-
-(2) Az írásbeli értesítés csak akkor mellőzhető, ha
-
-- a) az eljárás megindítása után a hatóság nyolc napon belül érdemben dönt, vagy a kérelmet visszautasítja, vagy az eljárást megszünteti, vagy
-- b) azt honvédelmi, nemzetbiztonsági, közbiztonsági okból jogszabály kizárja.
-
-(3) Az írásbeli értesítésnek tartalmaznia kell:
-
-- a) a kérelmező ügyfél nevét,
-- b) az ügy tárgyát, iktatási számát, az eljárás megindításának napját és az adott ügyfajtára irányadó ügyintézési határidőt, az ügyintézési határidőbe nem számító időtartamokat, az ügyintéző nevét és hivatali elérhetőségét, és
-- c) az iratokba való betekintés és a nyilatkozattétel lehetőségére irányuló tájékoztatást.
-
-(4) Ha a vízügyi hatósági eljárásban legalább ötven ügyfél ismert, az írásbeli értesítés helyett az ismert ügyfeleket az eljárás megindulásáról hirdetményi úton kell értesíteni. Az értesítés közhírré tehető.
-
-(5) A hirdetmény útján közölt értesítés tartalmazza:
-
-- a) az ügy tárgyát és rövid ismertetését, és
-- b) a tájékoztatást arról, hogy az érintettek hol és mikor tekinthetnek be az ügy irataiba.
+#### 28/D. §
 
 29. § (1) Vízjogi engedélyt a vízügyi hatóság az előírt feltételek megléte esetén csak akkor adhat ki, ha a vízilétesítmény, a vízimunka, illetve a vízhasználat
 
@@ -1005,7 +977,11 @@ indokolja.
 - a) az öntözési berendezések vagy az öntözőtelepek engedélyezési eljárása, ha arra a vízhasználat engedélyezése keretében kerül sor;
 - b) a felszín alatti vízkivételt biztosító vízilétesítmények engedélyezési eljárása.
 
-31/A. § A vízügyi igazgatási szerveknek – a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetniük.
+31/A. § A vízügyi és a vízvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében nem kell igazgatási szolgáltatási díjat fizetni:
+
+- a) a vízügyi igazgatási szerveknek a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott tevékenységek esetében;
+- b) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 41. § (6) bekezdésében kijelölt szervnek az ott meghatározott tevékenységével összefüggésben, továbbá
+- c) a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság feladatkörébe tartozó kármentesítési alprogramok keretében az állami felelősségi körbe tartozó kármentesítési feladatok lebonyolításáért felelő szervezet kijelöléséről szóló kormányrendelet szerinti, a környezeti kármentesítési feladatok irányításáért és lebonyolításáért felelős szervnek a kármentesítési tevékenységével összefüggésben.
 
 31/B. § A víziközmű-szolgáltató esetében, ha az engedélyezési eljárás a víziközmű-szolgáltató kérelmére, a tevékenységével összefüggésben kezdeményezett eljárás lefolytatására irányul, az eljárás díja a vízügyi és vízvédelmi hatósági eljárások igazgatási szolgáltatási díjainak megállapítására vonatkozó rendeletben meghatározott díjtétel 70%-a.
 
@@ -1067,7 +1043,7 @@ indokolja.
 
 (4) A földmérési és térinformatikai államigazgatási szerv által – a Kormány által biztosított azonosítási szolgáltatáson keresztül – a vízjogi engedély iránti kérelem benyújtásához szükséges tervezési munkákhoz elektronikus dokumentumként vagy elektronikusan feldolgozható formában a vízimérnöki tervezői jogosultsággal rendelkező és a vízjogi engedély iránti kérelemmel érintett tulajdonos vagy vagyonkezelő által megbízott tervező számára átadott, tulajdonosi adatokkal kiegészített földkönyv adattartalmát (ideértve a személyes adatokat is) a tervező jogosult a vízjogi engedélyről szóló hatósági döntés véglegessé válásának időpontjáig kezelni. A tervező a részére átadott földkönyv személyes adatokra vonatkozó tartalmát – jogszabály eltérő rendelkezése hiányában – más szerv vagy személy részére nem továbbíthatja.
 
-33/D. § A 33/J. §-ban meghatározott adatgyűjtő felület működtetése, valamint a hatósági eljáráshoz szükséges információk beszerzése érdekében, a kérelmező hatékony és gyors ügyintézésének biztosítása céljából, a Kormány által kijelölt szerv által üzemeltetett elektronikus rendszeren (a továbbiakban: VIZEK rendszer) keresztül üzemeltetője az adatgyűjtő felületen keresztül jogosult továbbítani a csatlakozott szervek felé a kérelmező által megjelölt adatokat, valamint a kérelmező részére – az adatgyűjtő felületen működő tárhelyébe – a csatlakozott szervek által visszaküldött információkat.
+33/D. § A Kormány által kijelölt szerv által üzemeltetett elektronikus rendszer (a továbbiakban: VIZEK rendszer) üzemeltetője a 33/J. §-ban meghatározott adatgyűjtő felületen keresztül jogosult továbbítani a csatlakozott szervek felé a kérelmező által megjelölt adatokat, valamint a kérelmező részére – az adatgyűjtő felületen működő tárhelyébe – a csatlakozott szervek által visszaküldött információkat.
 
 33/E. § (1) A VIZEK rendszer keretében nyilvántartott, vízjogi engedélyezési eljárásban részt vevő, valamint a vízjogi engedéllyel már rendelkező ügyfélnek – az érintett vízhasználathoz és vízilétesítményhez kapcsolódó – a 33/B. § (1) bekezdés a)–h) pontjában meghatározott adatai, valamint a vízimunkára, a vízilétesítményekre és a vízhasználatokra vonatkozó, az engedélyes dokumentációjában rögzített műszaki alapadatok kezelésére
 
@@ -1110,7 +1086,7 @@ céljából jogosult.
 
 (2) A vízitársulatról külön törvény rendelkezik.
 
-35. § (1) A társulat közfeladatait szolgáló tevékenységét érdekeltségi területén végzi.
+35. § (1) A vízgazdálkodási társulat közfeladatait szolgáló tevékenységét érdekeltségi területén végzi.
 
 (2) A víziközmű társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek.
 
@@ -1120,7 +1096,7 @@ céljából jogosult.
 
 (5) A víziközmű társulat feladatai ellátása kapcsán a feladat ellátásához szükséges mértékig jogosult a víziközmű társulati tagok adatainak kezelésére. A víziközmű társulat a hozzájárulás beszedése érdekében jogosult továbbá az ehhez szükséges adatokat a hatáskörrel rendelkező szervtől bekérni.
 
-36. § (1) A víziközmű társulat megalakulását – egyéb jogszabály szerinti – szervező bizottság készíti elő.
+36. § (1) A víziközmű társulat megalakulását – a vízgazdálkodási társulatokról szóló kormányrendelet szerinti – szervező bizottság készíti elő.
 
 (2) A víziközmű társulat legfőbb szerve a taggyűlés.
 
@@ -1179,11 +1155,11 @@ céljából jogosult.
 
 (6) Ha a vízügyi igazgatási szerv a (3) bekezdés szerinti szakmai ellenőrzés során a Ctv.-ben, az alapszabályban vagy a belső szabályzatban foglalt – a (4) bekezdés hatálya alá nem tartozó – előírás megsértését észleli, tizenöt napon belül kezdeményezi a cégbíróságnál a törvényességi felügyeleti eljárás lefolytatását.
 
-39/A. § (1) Ha a víziközmű társulat a 38. § szerinti közfeladat teljesítése során létesülő vagy fejlesztésre kerülő vízilétesítményt a meglévő víziközmű-szolgáltatáshoz történő csatlakozással kívánja üzemeltetni, vagy egyébként a létesülő vízilétesítmény a víziközmű-szolgáltatásról szóló törvény hatálya alá tartozik, a létesítéssel vagy fejlesztéssel érintett víziközmű-szolgáltatási ágazatban az ellátási területen szolgáltatást végzőt (a továbbiakban: szolgáltató) az alakuló taggyűlésre és a taggyűlésekre meg kell hívni.
+39/A. § (1) Ha a víziközmű társulat a 38. § szerinti közfeladat teljesítése során létesülő vagy fejlesztésre kerülő vízilétesítményt a meglévő víziközmű-szolgáltatáshoz történő csatlakozással kívánja üzemeltetni, vagy egyébként a létesülő vízilétesítmény a víziközmű-szolgáltatásról szóló törvény hatálya alá tartozik, a létesítéssel vagy fejlesztéssel érintett víziközmű-szolgáltatási ágazatban az ellátási területen szolgáltatást végzőt (a továbbiakban: víziközmű-szolgáltató) az alakuló taggyűlésre és a taggyűlésekre meg kell hívni.
 
-(2) A szolgáltató a víziközmű társulat által megvalósítandó közcélú vízilétesítmény tervére és a kivitelezés ütemezésére vonatkozóan véleményt nyilváníthat és javaslatot tehet, továbbá a víziközmű társulat képviselőjéhez kérdést intézhet.
+(2) A víziközmű-szolgáltató a víziközmű társulat által megvalósítandó közcélú vízilétesítmény tervére és a kivitelezés ütemezésére vonatkozóan véleményt nyilváníthat és javaslatot tehet, továbbá a víziközmű társulat képviselőjéhez kérdést intézhet.
 
-(3) A szolgáltatót az (1) bekezdés szerinti vízilétesítmény vízjogi létesítési, illetve vízjogi üzemeltetési engedélyezési eljárása során ügyféli jogállás illeti meg.
+(3) A víziközmű-szolgáltatót az (1) bekezdés szerinti vízilétesítmény vízjogi létesítési, illetve vízjogi üzemeltetési engedélyezési eljárása során ügyféli jogállás illeti meg.
 
 ### A víziközmű társulat megalakulása
 
@@ -1257,9 +1233,9 @@ céljából jogosult.
 
 (2) A víziközmű társulat jogutódlással szűnik meg, ha másik víziközmű társulattá átalakul.
 
-(3) A víziközmű társulat az elkészült víziközművet szolgáltatásra alkalmas állapotban az önkormányzat (önkormányzati társulás) részére átadja.
+(3) A víziközmű társulat az elkészült víziközművet szolgáltatásra alkalmas állapotban az önkormányzat (önkormányzati társulás) részére tulajdonba adja.
 
-(4) Amennyiben a víziközmű beruházás részenként üzembe helyezhető, a víziközmű társulat a beruházás eredményeként megvalósult víziközművet részenként is átadhatja.
+(4) Amennyiben a víziközmű beruházás részenként üzembe helyezhető, a víziközmű társulat a beruházás eredményeként megvalósult víziközművet részenként is tulajdonba adhatja.
 
 ### IX/A. Fejezet — A NEM KÖZMŰVEL ÖSSZEGYŰJTÖTT HÁZTARTÁSI SZENNYVÍZ BEGYŰJTÉSÉRE VONATKOZÓ KÖZSZOLGÁLTATÁS
 
@@ -1270,7 +1246,7 @@ céljából jogosult.
 (2) A települési önkormányzat képviselő-testülete önkormányzati rendeletben állapítja meg:
 
 - a) a közszolgáltatás tartalmát, a közszolgáltatással ellátott terület határait;
-- b) a közszolgáltató megnevezését, valamint annak a működési területnek a határait, amelyen belül a közszolgáltató a közszolgáltatást rendszeresen ellátni köteles és az ártalmatlanítás céljából történő átadási helyet;
+- b) annak a működési területnek a határait, amelyen belül egy közszolgáltató a közszolgáltatást rendszeresen ellátni köteles és az ártalmatlanítás céljából történő átadási helyet;
 - c) a közszolgáltatás ellátásának rendjét, módját és időtartamát, a közszolgáltató és az ingatlantulajdonos ezzel összefüggő jogait és kötelezettségeit, valamint a közszolgáltatásra vonatkozó szerződés egyes tartalmi elemeit;
 - d) a közszolgáltatás igénybevételére vonatkozó kötelezettséget, a közszolgáltatás igénybevételének módját és feltételeit;
 - e) az ingatlantulajdonost terhelő díjfizetési kötelezettséget, az alkalmazható díj legmagasabb mértékét, megfizetésének rendjét, az esetleges kedvezmények és a szolgáltatás ingyenességének eseteit;
@@ -1312,19 +1288,19 @@ céljából jogosult.
 
 44/F. § (1) A közszolgáltató – az önkormányzati rendeletben előírt módon – folyamatosan köteles gondoskodni a nem közművel összegyűjtött háztartási szennyvíz begyűjtéséről a környezetvédelmi, vízügyi és közegészségügyi előírások megtartása mellett.
 
-(2) A begyűjtő a begyűjtési tevékenységét a vízügyi hatóságnak köteles bejelenteni. A vízügyi hatóság a bejelentés alapján nyilvántartást vezet a begyűjtési tevékenységet végzőkről.
+(2) A közszolgáltató a begyűjtési tevékenységét a vízügyi hatóságnak köteles bejelenteni. A vízügyi hatóság a bejelentés alapján nyilvántartást vezet a közszolgáltatási tevékenységet végzőkről.
 
 (3) Közszolgáltatást az végezhet, aki
 
 - a) biztosítani tudja a közszolgáltatás személyi és tárgyi feltételeit, amelyek garantálják a közszolgáltatás tartós, rendszeres és a környezetvédelmi szempontoknak maradéktalanul megfelelő ellátását,
-- b) a végzendő begyűjtési tevékenységet a begyűjtés helye szerint illetékes vízügyi hatóságnak bejelentette, és a vízügyi hatóság a tevékenységet nyilvántartásba vette,
+- b) a közszolgáltatási tevékenységet a begyűjtés helye szerint illetékes vízügyi hatóságnak bejelentette, és a vízügyi hatóság nyilvántartásba vette,
 - c) közbeszerzési eljárás vagy – ha a közbeszerzésekről szóló törvény szerint nem szükséges – kijelölés alapján a települési önkormányzattal közszolgáltatási szerződést kötött.
 
 (4) A közszolgáltatásnak a környezet veszélyeztetését és szennyezését kizáró módon kell történnie.
 
 (5) A közszolgáltatást végző felelős a nem közművel összegyűjtött háztartási szennyvíz rendeltetési helyére történő biztonságos eljuttatásáért.
 
-(6) A közszolgáltatás teljesítéséből eredő szennyezés esetén a begyűjtést végző köteles a hulladék eltakarításáról, a terület szennyeződésmentesítéséről, a kárelhárításról, valamint az eredeti környezeti állapot helyreállításáról gondoskodni.
+(6) A közszolgáltatás teljesítéséből eredő szennyezés esetén a közszolgáltató köteles a terület szennyeződésmentesítéséről, a kárelhárításról, valamint az eredeti környezeti állapot helyreállításáról gondoskodni.
 
 44/G. § (1) A települési önkormányzat képviselő-testülete a közszolgáltatás ellátására írásban szerződést köt.
 
@@ -1385,8 +1361,8 @@ céljából jogosult.
 - e) a vízgazdálkodással kapcsolatos hatósági jogkör gyakorlására, valamint az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékére és fizetésének részletes szabályaira vonatkozó szabályok;
 - f) a vízgazdálkodás országos koncepciójának végrehajtásához kapcsolódó nemzeti programok;
 - g) a szennyvízelvezetési agglomerációk lehatárolásának és települési jegyzékének;
-- h) a szennyvízgyűjtő hálózatok és szennyvíztisztító telepek minősítési kritériumainak;
-- i) az ivóvízminőség-javító program megvalósítását szolgáló célelőirányzat igénybevételére, folyósítására, felhasználására, a felhasználás ellenőrzésére és a program teljesítését ellátó szervezetre, továbbá a települési szennyvíz-elvezetési és -tisztítási nemzeti program támogatási rendszerére vonatkozó szabályok;
+- h)
+- i)
 - j) a települési szennyvíztisztításra vonatkozó nyilvántartási és jelentési kötelezettség;
 - k) az emberi fogyasztásra szolgáló víz (ivóvíz), valamint a fürdővíz minőségi követelményeire, az ivóvízhez való hozzáférésre, továbbá a vízminőség ellenőrzésére vonatkozó szabályok;
 - l) a vízügyi őrszemélyzet (gát-, csatorna-, meder- és tározó őrök) feladat- és hatáskörének;
@@ -1407,16 +1383,16 @@ céljából jogosult.
 
 rendeletben történő megállapítására.
 
-(7a) Felhatalmazást kap a Kormány a vízgazdálkodási bírság mértéke megállapításának szempontrendszere és a bírság megfizetési módja részletszabályainak rendeletben történő megállapítására.
+(7a) Felhatalmazást kap a Kormány a vízgazdálkodási bírság mértéke megállapításának szempontrendszere és a bírság, valamint a csatornabírság megfizetési módja részletszabályainak rendeletben történő megállapítására.
 
 (7b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak tekintetében
 
-- a) a besorolásra és az illetményrendszerre,
-- b) a betölthető munkaköri kategóriákra és munkakörökre,
-- c) a betölthető vezetői munkaköri kategóriákra és vezetői munkakörökre,
-- d) közalkalmazottak továbbképzésének tervezésére, finanszírozására, a képzések követelményrendszerére,
+- a)
+- b)
+- c)
+- d) közalkalmazottak továbbképzésének tervezésére, finanszírozására, a képzések követelményrendszerére, a továbbképzést biztosító és a továbbképzési rendszert üzemeltető intézmény kijelölésére, továbbá ezek tekintetében az intézmény feladatainak meghatározására,
 - e) a közalkalmazottak teljesítményértékelésének és minősítésének kötelező és ajánlott elemeire, fokozataira, eljárási szabályaira, az értékelőlap tartalmára
-- f) a közalkalmazotti és a vezetői kinevezéshez szükséges követelményekre
+- f)
 
 vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer működtetését végző, a Vízügyi Etikai Bizottság működési feltételeit biztosító és a Vízügyi Etikai Bizottság tagjairól névjegyzéket vezető vízügyi igazgatási szervet.
 
@@ -1425,7 +1401,7 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 - a) a VIZEK rendszer működésének részletszabályait, valamint a rendszer részét képező előszűrő felület és adatgyűjtő felület részletes működési rendjét és az ennek keretében megvalósuló információátadás körét,
 - b) a VIZEK rendszer üzemeltetőjét és a rendszerhez csatlakozó szerveket.
 
-(7d) Felhatalmazást kap a Kormány, hogy a mezőgazdasági öntözési célú kutak létesítésével, valamint az engedély nélkül, vagy az engedélytől eltérően létesített mezőgazdasági öntözési célú kutak fennmaradásával, továbbá a mezőgazdasági öntözési célú kutak üzemeltetésével kapcsolatos sajátos feltételeket és eljárási szabályokat rendeletben határozza meg.
+(7d) Felhatalmazást kap a Kormány, hogy a mezőgazdasági célú kutak létesítésével, üzemeltetésével, megszüntetésével, valamint az engedély nélkül vagy az engedélytől eltérően létesített és üzemeltetett mezőgazdasági célú kutak fennmaradásával kapcsolatos sajátos feltételeket és eljárási szabályokat rendeletben határozza meg.
 
 (7e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeit az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 
@@ -1435,19 +1411,21 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 
 (7h) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza egyes hatósági eljárásokban a vízvédelmi hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket.
 
-(7h) Felhatalmazást kap a Kormány, hogy a különleges vízkészlet-gazdálkodási körzet lehatárolását, valamint a fenntartható vízhasználat megőrzését és a nemzetgazdasági jelentőségű fejlesztések vízigényének felszín alatti vízkészletekből történő kielégítését szolgáló különleges intézkedések végrehajtása érdekében szükséges, a vízügyi igazgatási szervek által ellátandó feladatokat, illetve a felszín alatti vízkészletekből történő vízigény kielégítését célzó vízjogi engedély iránti kérelmek vízügyi hatósági elbírálásának, valamint a vízügyi hatósági ellenőrzésnek részletszabályait rendeletben állapítsa meg.
+(7h)
+
+(7i) Felhatalmazást kap a Kormány, hogy a különleges vízkészlet-gazdálkodási körzet lehatárolását, valamint a fenntartható vízhasználat megőrzését és a nemzetgazdasági jelentőségű fejlesztések vízigényének felszín alatti vízkészletekből történő kielégítését szolgáló különleges intézkedések végrehajtása érdekében szükséges, a vízügyi igazgatási szervek által ellátandó feladatokat, a vízhasználatot kérelmezők és az engedélyesek kötelezettségeit, a különleges vízkészlet-gazdálkodási körzetben a vízkivétel feltételeit, továbbá a felszín alatti vízkészletekből történő vízigény kielégítését célzó vízjogi engedély iránti kérelmek vízügyi hatósági elbírálásának, valamint a vízügyi hatósági ellenőrzés részletszabályait rendeletben állapítsa meg.
 
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 - a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
 - b) a folyók mértékadó árvízszintjeinek;
-- c) a vízgazdálkodás országos és területi rendjének;
+- c)
 - d) a vízjogi engedélyezési eljáráshoz szükséges tervdokumentáció tartalmi előírásainak és a kérelmek mellékleteinek;
 - e) a mezőgazdasági vízszolgáltató művek üzemeltetésének
 - f) a vízimunkáknak, a vízilétesítményeknek és vízhasználatoknak (a vízikönyvnek), a vízkészletek nyilvántartásának;
-- g) a hasznosításba vonható vízkészleteknek — a vizek használatbavételének, illetve a vizek hasznosítási lehetőségének megőrzése céljából —;
-- h) az ivóvízminőség-javító program forrását szolgáló célelőirányzat terhére történő költségvetési támogatás mértékére és igénybevételére vonatkozó szabályok
-- i) a fúrt kutakra vonatkozó vízjogi engedélyezési eljárás szabályainak;
+- g)
+- h)
+- i)
 - j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 - k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
 - l) a vízkészletjárulék kiszámításának, a 15/C. § (1a) bekezdésére alapított kedvezményeknél a mérlegelési szempontoknak, a számításnál alkalmazott szorzószámoknak és a befizetés rendjének;
@@ -1462,12 +1440,18 @@ rendeletben történő megállapítására.
 
 - a) a folyók nagyvízi medrére vonatkozó kezelési tervek,
 - b) az ár- és belvíz által veszélyeztetett területek lehatárolásának, a települések ár- és belvíz veszélyeztetettségi alapon történő besorolásának, valamint a besorolás felülvizsgálata szabályainak
+- c) a vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak tekintetében
+  - ca) a besorolás és az illetményrendszer,
+  - cb) a betölthető munkaköri kategóriák és munkakörök,
+  - cc) a betölthető vezetői munkaköri kategóriák és vezetői munkakörök, és
+  - cd) a közalkalmazotti és a vezetői kinevezéshez szükséges követelmények,
+- d) a védekezéssel összefüggő rendelkezésreállási pótlék mértékére vonatkozó szabályok
 
 rendeletben történő megállapítására.
 
 (9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyarország két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
 
-(10) A 15. § (7) bekezdése szerinti rendelkezést legkésőbb 2010. december 22-ig kell végrehajtani.
+(10)
 
 (11) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a vízügyi hatóságot vagy hatóságokat, valamint a vízügyi igazgatási szervet vagy szerveket.
 
@@ -1490,73 +1474,35 @@ való megfelelést szolgálja.
 
 #### 45/B. §
 
-45/C. § (1) E törvénynek a hulladékról szóló 2012. évi CLXXXV. törvénnyel (a továbbiakban: Ht.) megállapított rendelkezéseit a Ht. hatálybalépésekor jogerősen még el nem bírált ügyekben is alkalmazni kell azzal, hogy a települési folyékony hulladék begyűjtése és szállítása iránti engedélykérelem a tervezett tevékenység bejelentésének minősül.
-
-(2) A Ht. hatálybalépését megelőzően kiadott és hatályos települési folyékony hulladék begyűjtési és szállítási engedély a nem közművel összegyűjtött háztartási szennyvíz begyűjtési és szállítási tevékenységre vonatkozó bejelentéssel egyenértékű.
+#### 45/C. §
 
 #### 45/D. §
 
-45/E. § (1) Ha a vízügyi igazgatási szerv a 45/D. § (2) bekezdés a) pontja szerinti szakmai ellenőrzés eredményeképpen megállapítja, hogy a felajánlott vízfolyásnak, csatornának a belvízelvezetésben vagy az öntözésben betöltött szerepe közérdekű, a vízfolyás, csatorna tulajdonosával – az üzemeltetési és fenntartási feladatok átvállalásáról – ellenérték nélküli üzemeltetési szerződést köt.
+#### 45/E. §
 
-(2) Az (1) bekezdés szerinti üzemeltetési szerződés megkötése és a szerződés hatálybalépése között legfeljebb három hónap időtartamot kell biztosítani, amely alatt a vízügyi igazgatási szerv a vízfolyás és a csatorna üzemeltetésre, fenntartásra történő átvételét előkészíti.
+#### 45/F. §
 
-45/F. § (1) Ha a vízügyi igazgatási szerv a szakmai vizsgálat eredményeképpen megállapítja, hogy a belvízelvezetést vagy öntözővíz-továbbítást akadályozó vízfolyás- vagy csatornaszakasz átvétele szükséges, kezdeményezi a vízügyi hatóságnál magának üzemeltetőként, fenntartóként történő kijelölését.
+#### 45/G. §
 
-(2) Ha az üzemeltetési szerződés megkötésére az (1) bekezdés szerinti kijelölési kezdeményezést követően kerül sor, a vízügyi igazgatási szerv a kijelölés iránti kérelmét visszavonja és a vízügyi hatóság az eljárást megszünteti.
+#### 45/H. §
 
-(3) A vízügyi hatóság hatvan napon belül lefolytatott hatósági eljárásban a vízügyi igazgatási szervet üzemeltetőnek és fenntartónak akkor jelöli ki, ha
+#### 45/I. §
 
-- a) megállapítja, hogy az adott vízfolyásnak, csatornának a belvízelvezetésben vagy az öntözésben betöltött szerepe közérdekű, és
-- b) a vízfolyás, csatorna elhanyagolt állapota akadályozza az öntözővíz-továbbítást vagy belvízhelyzet kialakulását idézheti elő.
+#### 45/J. §
 
-(4) A vízügyi hatóság kijelölő döntése két évig hatályos.
+#### 45/K. §
 
-(5) A kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.
+45/L. § (1)
 
-45/G. § (1) A 45/E. § (1) bekezdésében és a 45/F. § (3) bekezdés a) pontjában szereplő közérdekűség fennállását a vízügyi igazgatási szerv vizsgálja.
-
-(2) Az (1) bekezdés szerinti vizsgálat eredményeképpen a vízügyi igazgatási szerv kezdeményezheti
-
-- a) az üzemeltetési szerződés felülvizsgálatát,
-- b) a kijelölő döntés felülvizsgálatát vagy időbeli hatályának meghosszabbítását.
-
-(3) A belvízelvezetést vagy öntözést szolgáló vízfolyás, csatorna tulajdonosa kezdeményezheti az üzemeltetési szerződés vagy a kijelölő döntés felülvizsgálatát, ha a szerződés megkötését vagy a hatósági döntés kiadását megalapozó közérdekűség álláspontja szerint már nem áll fenn.
-
-(4) A vízügyi hatóság a kijelölő döntést hivatalból visszavonja, ha a vízfolyás, csatorna tulajdonosa és a vízügyi igazgatási szerv üzemeltetési szerződést köt. A szerződéskötésről a vízügyi igazgatási szerv 15 napon belül tájékoztatja a vízügyi hatóságot.
-
-45/H. § A vízkészletjárulék elektronikus bevallásának és megfizetésének 2019. január 1-jétől történő megvalósulása érdekében, a vízkészletjárulék bevallására köteles vízhasználó a vízügyi hatóság irányában kötelesek adategyeztetést teljesíteni 2018. június 30-ig, amely során köteles megadni a vízhasználó ügyfél nevét, lakcímét, elektronikus levélcímét, telefonszámát, adóazonosító jelét vagy adószámát, a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának nevét, lakcímét, elektronikus levélcímét, telefonszámát, természetes személy ügyfél természetes személy meghatalmazottjának nevét, lakcímét, elektronikus levélcímét, telefonszámát.
-
-45/I. § E törvénynek a belügyi feladatokat érintő és más kapcsolódó törvények módosításáról szóló 2017. évi CXXXIV. törvénnyel (a továbbiakban: Vgtv. mód.) megállapított 13–13/N. §-ában foglaltak hatálybalépése nem szakítja meg a közalkalmazotti jogviszonyból eredő igények elévülését.
-
-45/J. § (1) A Vgtv. mód.-dal megállapított 13–13/N. § rendelkezéseit a Vgtv. mód. hatálybalépésekor folyamatban lévő közalkalmazotti jogviszony létesítése vagy módosítása során is alkalmazni kell.
-
-(2) A Vgtv. mód.-dal megállapított 13–13/N. § rendelkezéseit a Vgtv. mód. hatálybalépésekor már megtett, a közalkalmazotti jogviszony megszüntetésre vonatkozó jognyilatkozatok esetében nem kell alkalmazni, ezekben az esetekben a Kjt. rendelkezései szerint kell eljárni.
-
-45/K. § (1) 2018. január 1-jétől a közalkalmazottat kormányrendeletben meghatározott munkaköri kategóriákba és munkakörökbe az e törvény és a kormányrendelet szerinti besorolása alapján kell besorolni. A 2018. január 1-jei hatállyal meghozott munkáltatói intézkedés nem minősül átszervezésnek.
-
-(2) Az (1) bekezdés szerinti munkáltatói intézkedés megállapítja
-
-- a) a közalkalmazott által betöltött munkakört és munkaköri kategóriát,
-- b) az a) pont szerint megállapított munkakörben a fizetési fokozat szempontjából figyelembe vehető időt, és erre tekintettel a közalkalmazott fizetési fokozatát,
-- c) a fizetési fokozatban soron következő előrelépés lehetséges legkorábbi idejét, azzal, hogy a fizetési fokozatban előrelépés kizárólag az e törvényben foglalt feltételek teljesítése esetén lehetséges,
-- d) az e törvény végrehajtására kiadott rendeletben meghatározott további elemeket,
-- e) azt az illetményt, amelyre a közalkalmazott jogosult.
-
-(3) A 2018. január 1-jei hatályú illetménymegállapításkor a 13/E. § (5) bekezdés f) pontja szerinti teljesítményértékelés és minősítés helyett a 2017. december 31-én érvényes minősítés eredményét kell figyelembe venni.
-
-(4) Az (1) és (2) bekezdés szerinti munkáltatói intézkedést 2018. január 31-éig kell végrehajtani.
-
-45/L. § (1) A közalkalmazott – az alsó és felső határ közötti – illetményét úgy kell megállapítani, hogy annak havi összege nem lehet kevesebb a közalkalmazott 2017. december 31-én megállapított illetményénél. Az illetmény megállapítása során figyelembe kell venni a közalkalmazottat 2017. december 31-én megillető pótlékok összegét.
-
-(2) A vezető – az alsó és felső határ közötti – illetményét úgy kell megállapítani, hogy annak havi összege nem lehet kevesebb a magasabb vezető vagy vezető 2017. december 31-én megállapított illetményénél. Az illetmény megállapítása során figyelembe kell venni a magasabb vezetőt vagy vezetőt 2017. december 31-én megillető pótlékok összegét.
+(2)
 
 (3)
 
-(4) A közalkalmazott és a vezető Vgtv. mód.-dal megállapított 13/G. § rendelkezései szerinti szabadságát úgy kell megállapítani, hogy az nem lehet kevesebb a közalkalmazott 2017. évre járó szabadságánál.
+(4)
 
 (5) A közalkalmazott és a vezető a Kjt. 39. § (3) és (4) bekezdése szerinti címek viselésére 2018. január 1-jét követően is jogosult.
 
-45/M. § E törvénynek a Vgtv.mód3.-mal megállapított 29. § (7) bekezdését a Vgtv.mód3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+#### 45/M. §
 
 45/N. § (1) A 2024. január 1. előtt létesített, ötven méter talpmélységet meg nem haladó és az első vízzáró réteget el nem érő mezőgazdasági célú kút fennmaradásához nem szükséges vízjogi engedély és bejelentés.
 
@@ -1577,7 +1523,7 @@ létesített háztartási kútra.
 
 45/P. § E törvénynek a vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2023. évi LI. törvénnyel (a továbbiakban: Vgtv.mód4.) módosított 29. § (7) bekezdését a Vgtv.mód4. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-46. § A vízkészletvédelmi országtérképet, valamint az annak elkészítése során alkalmazott tudományos és monitoringmódszerek összefoglalóját első alkalommal 2023. augusztus 31-ig kell közzétenni.
+#### 46. §
 
 47. § (1) E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 2. § (1) bekezdés r) pontját, 3. § (2a) bekezdését, 16. § (3) bekezdését és 28/A. § (1b) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -1585,9 +1531,9 @@ létesített háztartási kútra.
 
 (3) A folyamatban lévő ügyekben a hatósági hatáskört telepítő jogszabály hatályba lépése előtt végzett eljárási cselekmények hatályát nem érinti, hogy az eljárás lefolytatása más szerv feladat- és hatáskörébe kerül.
 
-(4) A hatósági hatáskör telepítésének napján folyamatban lévő szakhatósági eljárásban szakhatósági állásfoglalás kiadására nem kerül sor azokban az ügyekben, amelyekben a hatóságként eljáró kormányzati igazgatási szerv veszi át a volt szakhatósági hatáskört. Ezekben az esetekben a szakkérdést az eljáró hatóság saját eljárásban vizsgálja.
+(4)
 
-(5) Mindazokban az ügyekben, amelyekben a hatáskör telepítést követően az eljárás egyfokúvá válik, a hatósági hatáskör telepítésének napján folyamatban lévő másodfokú hatósági és szakhatósági eljárást a hatáskörtelepítést megelőző napon hatáskörrel és illetékességgel rendelkező hatóság, illetve szakhatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú hatósági eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.
+(5)
 
 (6) E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 31/B. §-át a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
@@ -1625,10 +1571,10 @@ E törvény alkalmazásában
 - 22. vízgazdálkodás: a vizek hasznosítása, hasznosítási lehetőségeinek megőrzése, a vizek kártételei elleni védelem és védekezés (vízkárelhárítás);
 - 23. vízhasználat: az a tevékenység, amelynek következménye a víz lefolyási, áramlási viszonyainak, mennyiségének, minőségének, továbbá a medrének, partjának a víz hasznosítása érdekében való befolyásolása;
 - 24. vízhasználó: az a természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet, aki (amely) vizet szolgáltatás teljesítésére vagy saját céljaira vesz igénybe;
-- 25. vízimunka: az a tevékenység, amelynek az a rendeltetése, hogy a víz lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrét, partját a vizek kártételeinek elhárítása, a víz hasznosítása, minőségének és mennyiségének megfigyelése, ásványi és földtani kutatások végzése, ásványi nyersanyag kitermelése céljából befolyásolja;
-- 26. vízilétesítmény: az a mű (víziközmű), műtárgy, berendezés, felszerelés vagy szerkezet, amelynek rendeltetése, hogy a vizek lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrének vagy partjának állapotát, a vizek kártételeinek elhárítása, a vizek hasznosítása — ideértve a víziközművekkel végzett közüzemi tevékenységgel nyújtott szolgáltatást —, minőségének és mennyiségének megfigyelése, illetve ásványi és földtani kutatások végzése céljából vagy ásványi nyersanyag kitermelése céljából befolyásolja:
+- 25. vízimunka: az a tevékenység, amelynek az a rendeltetése, hogy a víz lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrét, partját a vizek kártételeinek elhárítása, a víz hasznosítása, minőségének és mennyiségének megfigyelése vagy védelme, ásványi és földtani kutatások végzése, ásványi nyersanyag kitermelése céljából befolyásolja;
+- 26. vízilétesítmény: az a mű (víziközmű), műtárgy, berendezés, felszerelés vagy szerkezet, amelynek rendeltetése, hogy a vizek lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrének vagy partjának állapotát, a vizek kártételeinek elhárítása, a vizek hasznosítása — ideértve a víziközművekkel végzett közüzemi tevékenységgel nyújtott szolgáltatást —, minőségének és mennyiségének megfigyelése vagy védelme, illetve ásványi és földtani kutatások végzése céljából vagy ásványi nyersanyag kitermelése céljából befolyásolja:
   - a) közcélú vízilétesítmény: az a vízilétesítmény, amely az államnak, illetve a helyi önkormányzatnak törvényben meghatározott vízgazdálkodási feladatait, különösen a víziközművekkel nyújtott szolgáltatást, a vizek kártételei elleni védelmet, a vízkészletek feltárását, megóvását, hasznosítását, pótlását és állapotának figyelemmel kísérését, a vízkészlettel való gazdálkodását szolgálja; közcélú vízilétesítménynek minősülnek továbbá az országos közút és a törzshálózati vasút kiépítését, fejlesztését és fenntartását szolgáló vízilétesítmények;
-  - b) saját célú vízilétesítmény: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást, valamint vízkárelhárítási, víztisztítási, vízerő hasznosítási feladatokat ellátó, továbbá a közcélú vízilétesítménynek nem minősülő szennyvíz gyűjtését, tisztítását, hasznosítását és elhelyezését szolgáló mű, és ami a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek.
+  - b) saját célú vízilétesítmény: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást, valamint vízkárelhárítási, víztisztítási, vízerő hasznosítási, vízvédelmi feladatokat ellátó, továbbá a közcélú vízilétesítménynek nem minősülő szennyvíz gyűjtését, tisztítását, hasznosítását és elhelyezését szolgáló mű, és ami a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek.
 - 27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek közhitelű nyilvántartása;
 - 28. vízkár: a vizek többletéből vagy hiányából származó kár;
 - 29. vízkészlet-gazdálkodás: azoknak a tevékenységeknek az összessége, amelyeknek célja a vizek használatára irányuló igények kielégítése oly módon, hogy ennek következtében a vizek állapotában visszafordíthatatlan változás ne következzék be és a vízkészlethez való hozzáférés lehetősége ne csökkenjen;
@@ -1637,11 +1583,11 @@ E törvény alkalmazásában
   - a) a felszíni vagy felszín alatti víz kitermelése, duzzasztása, tárolása, kezelése és elosztása,
   - b) a szennyvíz összegyűjtése és kezelése, amelyet ezt követően a felszíni vizekbe juttatnak;
 - 32. lakott terület: a település közigazgatási területének belterületi része, valamint az övezeti besorolástól függetlenül minden olyan külterületi településrész, ahol a nyilvántartott földrészleteket (ingatlanokat) tekintve legalább 50%-ban állandó tartózkodási hely szerint bejelentett (nyilvántartott) lakosság él, és a területfelhasználás, valamint az infrastruktúra-hálózat kialakítása a települést érintő – jóváhagyott – országos és térségi területrendezési tervekkel összhangban lévő településrendezési tervnek megfelel;
-- 33. ivóvízminőség-javító program (intézkedési terv): az emberi fogyasztásra szolgáló vízre (ivóvízre) vonatkozó – jogszabályban meghatározott – minőségi követelményeket kielégítő cél megvalósítására irányuló feladatok összessége.
+- 33.
 - 34. vízkárelhárítási célú tározó:
   - a) árvízi tározó: aa) záportározó: vízfolyáson vagy vízfolyás mentén kiépített, kizárólag az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló, időszakosan vizet tartó tározó, ab) árvízcsúcs-csökkentő tározó: vízfolyáson vagy vízfolyás mentén kiépített, az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló olyan állandóan vagy időszakosan vizet tartó tározó, amelynél a maximális tározási térfogat legalább 50%-a árvízvisszatartásra szabadon áll, ac) szükségtározó: vízfolyások mentén, árhullámok részleges visszatartására kijelölt, ideiglenes vízvisszatartást szolgáló, be- és kivezetési helyekkel ellátott terület, ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatartására és a nagyobb károk megelőzésére töltségmegbontással – rendkívüli védekezési készültség vagy veszélyhelyzet esetén – igénybe vehető terület,
   - b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.
-- 35. mezőgazdasági öntözési célú kút: olyan felszín alatti vízkivételt biztosító vízilétesítmény, amely kizárólag mezőgazdasági művelés alatt álló terület mezőgazdasági vízszolgáltatását biztosítja;
+- 35. mezőgazdasági célú kút: olyan, felszín alatti vízkivételt biztosító vízilétesítmény, amely kizárólag a létesítő, üzemeltető művelése alatt álló földterületek haszonnövény-termesztési célú öntözését, illetve haszonállat-állománya ellátását szolgálja;
 - 36. háztartási vízigény: évi 500 m3-t meg nem haladó mértékű vízhasználat, amelynek célja természetes személyek
   - a) ivóvízellátásának, vagy
   - b) személyes és a háztartás vezetésével összefüggő vízszükségletének

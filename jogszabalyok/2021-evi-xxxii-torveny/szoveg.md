@@ -17,6 +17,7 @@ a Szabályozott Tevékenységek Felügyeleti Hatóságáról
 - g) a szerkezetátalakítási szakértők hatósági nyilvántartásainak vezetésével, a bíróság általi kijelölésük és hivatalból történő kirendelésük során alkalmazott, a Hatóság által működtetett elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztésével és működtetésével, egyes tevékenységeik szabályozásával, a tevékenységük feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával, valamint
 - h) nemzeti kiberbiztonsági tanúsítással, valamint a kiberbiztonsági felügyelettel
 - i) a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló törvény (a továbbiakban: ESG törvény) szerinti ESG adatszolgáltatásra kötelezettek hatósági ellenőrzésével, az ESG törvény szerinti felügyelettel, nyilvántartással akkreditálással és szabályozással, az ESG törvény szerinti elektronikus felületek működtetésével, továbbá az ESG törvényben meghatározott egyéb tevékenységeivel
+- j) a kriptoeszközök piacáról szóló 2024. évi VII. törvény (a továbbiakban: Kriptotv.) szerinti kriptoeszköz átváltást validáló szolgáltatók (a továbbiakban: kriptoeszköz átváltást validáló szolgáltatók) felügyeletével
 
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 
@@ -81,9 +82,11 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (10) A Hatóság gyakorolja a földmérési és térképészeti tevékenységről szóló törvény szerinti Országos Gravimetriai Hálózat pontjai tekintetében a tulajdonosi jogokat, illetve látja el az Országos Gravimetriai Hálózat pontjainak karbantartásával, helyszínelésével, valamint pótlásával kapcsolatos feladatokat.
 
+(11) A Hatóság látja el a kriptoeszköz-átváltást validáló szolgáltatók felügyeletével kapcsolatos, a Hatóság feladat- és hatáskörébe tartozó feladatokat.
+
 #### 3. Együttműködés a feladatellátás során
 
-4. § (1) A Hatóság feladatai ellátása során együttműködik az állami vagyon felügyeletéért, az állami vagyonnal való gazdálkodás szabályozásáért felelős és a koncessziós tevékenység tárgya szerint hatáskörrel rendelkező miniszterrel, az igazságügyért felelős miniszterrel, az állami adó- és vámhatósággal, a rendvédelmi szervekkel, a polgári nemzetbiztonsági szolgálatokkal, a fogyasztóvédelmi hatóságként és a mérésügyi hatóságként kijelölt szervezettel, valamint a 3. § (1) és (8) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetek, személyek ellenőrzését ellátó más hatósággal, ezen jogszabályok alapján létrehozott köztestülettel, továbbá az AMLA-val. A Hatóság az együttműködés érdekében együttműködési megállapodást köthet.
+4. § (1) A Hatóság feladatai ellátása során együttműködik az állami vagyon felügyeletéért, az állami vagyonnal való gazdálkodás szabályozásáért felelős és a koncessziós tevékenység tárgya szerint hatáskörrel rendelkező miniszterrel, az igazságügyért felelős miniszterrel, az állami adó- és vámhatósággal, a rendvédelmi szervekkel, a polgári nemzetbiztonsági szolgálatokkal, a fogyasztóvédelmi hatóságként és a mérésügyi hatóságként kijelölt szervezettel, valamint a 3. § (1), (8) és (11) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetek, személyek ellenőrzését ellátó más hatósággal, ezen jogszabályok alapján létrehozott köztestülettel, továbbá az AMLA-val. A Hatóság az együttműködés érdekében együttműködési megállapodást köthet.
 
 (2) A Hatóság a feladatai ellátásához kapcsolódóan nemzetközi együttműködés keretében a külföldi szabályozó hatóságokkal együttműködési megállapodást köthet, törvény rendelkezései szerint információkat cserélhet. Külföldi szabályozó hatóság az adott feladatkör tekintetében az a hatóság, amely saját országa joga alapján a Hatóság által ellátott feladatkörök valamelyikével rendelkezik.
 
@@ -91,7 +94,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 #### 4. A Hatóság közigazgatási hatósági eljárására vonatkozó szabályok
 
-5. § (1) A Hatóság hatáskörébe tartozó hatósági eljárásokban – a (2) bekezdésben foglalt kivétellel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az ezen alcímben, és a 3. § (1), (3) és (8) bekezdésében felsorolt törvényekben, valamint a Hatóság elnöke által kiadott rendeletben foglalt kiegészítésekkel kell alkalmazni.
+5. § (1) A Hatóság hatáskörébe tartozó hatósági eljárásokban – a (2) bekezdésben foglalt kivétellel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az ezen alcímben, és a 3. § (1), (3), (8) és (11) bekezdésében felsorolt törvényekben, valamint a Hatóság elnöke által kiadott rendeletben foglalt kiegészítésekkel kell alkalmazni.
 
 (2) A Hatóság a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezésnek minősülő rendelkezésen alapuló hatósági eljárásaiban az Ákr. rendelkezéseit a fogyasztóvédelemről szóló törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
 
@@ -272,6 +275,7 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
   - a) szabályozott elektronikus ügyintézési szolgáltatás kiberbiztonsági követelményeit, továbbá a követelményeknek való megfelelés igazolásának módját, valamint
   - b) integrátorok nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat és a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
 - 3. meghatározza az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.
+- 4. megállapítja a Kriptotv. 9/A. § (1) bekezdése szerinti kivételeket, a kriptoeszköz-átváltást validáló szolgáltató engedélyezési eljárásának részletes szabályait, ideértve a kriptoeszköz-átváltást validáló szolgáltatás végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit, továbbá a Kriptotv. 12/C. § (2) bekezdése szerinti nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
 
 13/B. § A Hatóság elnöke megállapítja
 
@@ -300,9 +304,9 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 
 (3) A Hatóság nem tartozik a közigazgatási személyügyi tevékenységekkel kapcsolatos adatszolgáltatási körbe.
 
-17. § (1) A Hatóság köztisztviselője – a Küt. szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkavégzésre irányuló jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 3. § (1) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezettel.
+17. § (1) A Hatóság köztisztviselője – a Küt. szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkavégzésre irányuló jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 3. § (1) és (11) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezettel.
 
-(2) A Hatóság köztisztviselője öröklés kivételével nem szerezhet tulajdoni részesedést a 3. § (1) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetben.
+(2) A Hatóság köztisztviselője öröklés kivételével nem szerezhet tulajdoni részesedést a 3. § (1) és (11) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetben.
 
 (3) Az (1) és (2) bekezdésben meghatározott tilalom a Hatóság munkavállalójára is vonatkozik.
 

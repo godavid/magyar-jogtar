@@ -172,6 +172,7 @@ kapcsolatos feladatokat.
 - g) a külön jogszabályban meghatározott rendvédelmi, igazgatási feladatokat.
 - h) ellátja az Unió területére belépő, illetve az Unió területét elhagyó készpénz ellenőrzéséről és az 1889/2005/EK rendelet hatályon kívül helyezéséről szóló 2018/1672 európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2021. évi XLI. törvény 1. § (2) bekezdés szerinti hatósági feladatokat,
 - i) végzi a fémkereskedelmi hatósági feladatokat.
+- j) a Magyarország területére, vagy Magyarország területéről külföldre irányuló, továbbá a Magyarország területén áthaladó, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzése, valamint a közúti fuvarozáshoz kapcsolódó jogsértések felderítése céljából hozzáférési jogosultsággal rendelkezik a rendőrség által üzemeltetett Közúti Intelligens Kamerahálózathoz.
 
 (9) A NAV végzi továbbá
 
@@ -794,7 +795,7 @@ használható fel.
 
 37/C. § (1) Az Europol által javasolt információs figyelmeztető jelzés elhelyezését a NAV Bűnügyi Főigazgatóság főigazgatója hagyja jóvá.
 
-(2) A jóváhagyást követően a Nemzetközi Bűnügyi Együttműködési Központ információs figyelmeztető jelzést helyez el a Schengeni Információs Rendszerben olyan harmadik országbeli állampolgárral szemben, aki vonatkozásában az Europol erre javaslatot tett harmadik országoktól vagy nemzetközi szervezetektől kapott információ alapján terrorista vagy súlyos bűncselekménynek minősülő bűncselekményben való érintettség miatt.
+(2) A jóváhagyást követően a rendőrség nemzetközi bűnügyi együttműködési központja információs figyelmeztető jelzést helyez el a Schengeni Információs Rendszerben olyan harmadik országbeli állampolgárral szemben, aki vonatkozásában az Europol erre javaslatot tett harmadik országoktól vagy nemzetközi szervezetektől kapott információ alapján terrorista vagy súlyos bűncselekménynek minősülő bűncselekményben való érintettség miatt.
 
 (3) Ha a pénzügyőr az e fejezetben meghatározott intézkedése során megállapítja, hogy az intézkedéssel érintett személy azonos a Schengeni Információs Rendszerben elhelyezett információs figyelmeztető jelzés szerinti harmadik országbeli állampolgárral, rögzíti az intézkedés megtörténtének tényét és az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 37. cikk (1) bekezdése szerinti adatokat, valamint az e fejezetben meghatározott intézkedéseket foganatosíthatja.
 

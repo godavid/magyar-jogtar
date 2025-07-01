@@ -168,6 +168,8 @@ szakértői névjegyzékbe az igazságügyi szakterületnek megfelelő szakterü
 
 (3)
 
+8/A. § A névjegyzékbe való felvételi eljárásért a miniszter által rendeletben megállapított igazgatási szolgáltatási díjat kell fizetni.
+
 9. § (1) A névjegyzékbe történő felvétel iránti kérelem tartalmára vonatkozó szabályokat a Kormány rendeletben állapítja meg. Kérelem csak a miniszter rendeletében szereplő szakterületre nyújtható be.
 
 (2)
@@ -1828,6 +1830,7 @@ rendeletben határozza meg.
 - l)
 - m) az adópolitikáért felelős miniszterrel egyetértésben a kamarai tagság szünetelésének engedélyezése iránti eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó részletes szabályokat és
 - n) a szakértő statisztikai adatszolgáltatására vonatkozó szabályokat
+- o) az adópolitikáért felelős miniszterrel egyetértésben, a névjegyzékbe való felvételi eljárásért fizetendő igazgatási szolgáltatási díj összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó szabályokat
 
 rendeletben határozza meg.
 

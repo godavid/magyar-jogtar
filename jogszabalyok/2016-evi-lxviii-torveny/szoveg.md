@@ -1643,13 +1643,15 @@ igényelheti.
 - a)
 - b) a magánfőző által teljesítendő bejelentési kötelezettség, valamint a magánfőzöttpárlat-származási igazolás rendelkezésre bocsátása,
 - c) a külföldi személy jövedéki ügye,
-- d) a hivatalból magánszeméllyel szemben indított és lefolytatott jövedéki ügy, kivéve, ha a választásra jogosult elektronikus ügyintézést kér és egyúttal megadja az elektronikus ügyintézéshez szükséges elektronikus elérhetőségét,
+- d) a hivatalból magánszeméllyel szemben indított és lefolytatott jövedéki ügy, ha az elektronikus ügyintézés jogszabályi feltételei nem állnak fenn,
 - e) a kizárólag bérfőzést végző adóraktár nyilvántartás-vezetése, adatszolgáltatása,
 - f) a 112. § (5) bekezdése szerinti, állami adó- és vámhatósági ellenjegyzés iránti eljárás.
 
 (3) A (2) bekezdés szerinti esetben a választásra jogosult az eljárás bármely szakaszában választhat a kapcsolattartás hagyományos és elektronikus formája között.
 
 (4) Az állami adó- és vámhatóság a 15. § (4) bekezdése és a 96. § (7) bekezdése szerinti döntését az elektronikus úton történő kézbesítés mellőzésével az Air. 77. §-a szerinti, saját kézbesítő útján történő kézbesítés szabályai szerint is közölheti.
+
+(5) Az állami adó- és vámhatóság helyszíni eljárása során az e törvényben, valamint a végrehajtási rendeletben meghatározott iratokat az Air. 70. § (3a)–(3e) bekezdése szerinti elektronikus formában is elkészítheti.
 
 #### 56. Szemledíj, költségtérítés
 
@@ -1867,6 +1869,8 @@ alapulvételével kell meghatározni.
 102. § (1) Az állami adó- és vámhatóság a jövedéki ügyben folytatott eljárása során a tényállás tisztázása, továbbá az e törvény szerinti elkobzás érvényesítése érdekében bármely dolgot – az élő állat kivételével – lefoglalhat.
 
 (2) A lefoglalást elrendelő végzéssel szemben az, akinek jogát vagy jogos érdekét az ügy közvetlenül érinti, – a 100. § (4) bekezdése szerinti eset kivételével – jogszabálysértésre hivatkozással kifogással élhet. A kifogást a végzés közlésétől számított 8 napon belül kell benyújtani az állami adó- és vámhatósághoz. A kifogást az állami adó- és vámhatóság felettes szerve a benyújtástól számított 15 napon belül bírálja el. A kifogásnak a lefoglalás végrehajtására nincs halasztó hatálya.
+
+(2a) A lefoglalást elrendelő végzés elektronikus formában történő elkészítése esetén az állami adó- és vámhatóság a döntését szóban is közli azzal a személlyel, akitől a dolgot lefoglalja és a szóbeli közlés megtörténtét a lefoglalásról készített végzés részét képező jegyzőkönyvben rögzíti.
 
 (3) A lefoglalást meg kell szüntetni
 

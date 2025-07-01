@@ -37,8 +37,8 @@ a digitális állammal és az okmányok digitalizációjával összefüggő egye
 - k)
 - l)
 - m)
-- n)
-- o)
+- n) 36/A. § (1) bekezdés k) pontja,
+- o) 36/A. § (2) bekezdés f) pontja,
 - p)
 
 szövegrész.
@@ -91,7 +91,13 @@ szövegrész.
 
 #### 27. §
 
-#### 28. §
+28. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 24. § (3c) bekezdése a következő g) ponttal egészül ki:
+
+[A (3b) bekezdés szerinti szolgáltatás útján a járművezető vagy a járművezető-jelölt elektronikus azonosítását követően közvetlenül tájékozódhat]
+
+„g) a megfizetett igazgatási szolgáltatási díjak megfizetésére”
+
+[vonatkozó adatairól.]
 
 #### 29. §
 
@@ -105,7 +111,7 @@ szövegrész.
 - d)
 - e)
 - f)
-- g)
+- g) 34/A. § (3) bekezdése.
 
 #### 9. A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény módosítása
 

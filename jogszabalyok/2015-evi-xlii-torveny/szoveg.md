@@ -2459,7 +2459,14 @@ korlátozhatja vagy megtilthatja.
 
 (2) Az alap- és pótszabadság, valamint a szülési szabadság idejére távolléti díj jár.
 
-(3) A (2) bekezdésben foglaltaktól eltérően a szülési szabadság idejére járó távolléti díj személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti csecsemőgondozási díj személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított – naptári napi összegének a harmincszorosa.
+(3) A hivatásos állomány tagjának szülési szabadsága idejére járó távolléti díj személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti csecsemőgondozási díj naptári napi összegének a harmincszorosa.
+
+(4) Ha a hivatásos állomány szülési szabadság idejére járó távolléti díjban részesülő tagja a gyermek születésének napjától számított 90 nap lejártát követően
+
+- a) a szülési szabadságát megszakítva ismételten szolgálatba áll, a szülési szabadság igénybe nem vett idejére, az e törvény szerint számított illetménye mellett, vagy
+- b) bármilyen más jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – keresőtevékenységet folytat, a szülési szabadság hátralévő idejére
+
+a (3) bekezdés szerinti összeg 70%-ára jogosult.
 
 #### 77. Alap- és pótszabadság
 
@@ -6151,7 +6158,14 @@ az általános rendőrségi feladatok ellátására létrehozott szerv a hátral
 
 (3) Az alap- és pótszabadság, valamint a szülési szabadság idejére távolléti díj jár.
 
-(4) A (3) bekezdésben foglaltaktól eltérően a szülési szabadság idejére járó távolléti díj személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti csecsemőgondozási díj személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított – naptári napi összegének a harmincszorosa.
+(4) A határvadász szülési szabadságának idejére járó távolléti díj személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti csecsemőgondozási díj naptári napi összegének a harmincszorosa.
+
+(4a) Ha a szülési szabadság idejére járó távolléti díjban részesülő határvadász a gyermek születésének napjától számított 90 nap lejártát követően
+
+- a) a szülési szabadságát megszakítva ismételten szolgálatba áll, a szülési szabadság igénybe nem vett idejére, az e törvény szerint számított illetménye mellett, vagy
+- b) bármilyen más jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – keresőtevékenységet folytat, a szülési szabadság hátralévő idejére
+
+a (4) bekezdés szerinti összeg 70%-ára jogosult.
 
 (5) A határvadász alapszabadsága évi huszonöt munkanap.
 
@@ -7171,6 +7185,8 @@ alakul át.
 373. § 2026. szeptember 30-ig terjedő időre az 51. § (3a) bekezdésétől és a 288. § (13) bekezdésétől eltérően a hivatásos katasztrófavédelmi szervnél foglalkoztatott, a hatósági feladatellátásra előírt végzettséggel rendelkező hivatásos szolgálati jogviszonyban, illetve rendvédelmi igazgatási jogviszonyban álló személy hatósági vezénylésére, illetve hatósági kirendelésére is sor kerülhet, ha a hivatásos katasztrófavédelmi szervtől a kormányzati igazgatási szervhez 2024. október 1-jén átkerülő hatáskör átadással érintett álláshely megüresedik és azt a hatáskört átvevő kormányzati igazgatási szerv a megüresedéstől számított 30 napon belül nem tudja betölteni. E szabályok szerinti hatósági vezénylésre és hatósági kirendelésre e törvény hatósági vezénylésre és hatósági kirendelésre vonatkozó szabályait és a 371–372. §-t megfelelően alkalmazni kell.
 
 374. § A 2025. január 1-jét megelőző időponttól megállapított árvák kiegészítő támogatását 2025. január 1-jétől – a Tny. 62. §-ában foglalt emelésen túl – a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel módosított 261/A. § (2) bekezdés a)–c) pontjának alapulvételével is meg kell emelni.
+
+375. § A belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvénnyel megállapított 142. § (3) bekezdése és 319/K. § (4) bekezdése a 2025. június 30-át követően folyósított szülési szabadság idejére járó távolléti díj tekintetében alkalmazható.
 
 ### 1. melléklet a 2015. évi XLII. törvényhez
 

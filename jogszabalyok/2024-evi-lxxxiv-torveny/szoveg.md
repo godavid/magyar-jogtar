@@ -80,11 +80,9 @@ nem alkalmazandó.
 - 29. kritikus munkakör: a kritikus szervezet által nyújtott alapvető szolgáltatások folyamatosságának biztosításához szükséges nélkülözhetetlen munkakör,
 - 30. kritikus szervezet: olyan alapvető szolgáltatást nyújtó szervezet, amelyet a kijelölő hatóság a III. Fejezetben meghatározottak szerint kijelölt és elengedhetetlen Magyarország társadalmi, gazdasági stabilitásához és a biztonság, a környezet, a közegészségügy, a védelmi képességek és a nemzeti ellenálló képességi rendszer fenntartásához,
 - 31. nyilvántartó hatóság: kormányrendeletben kijelölt szerv, amely az e törvény alapján, az e törvényben meghatározott adatokról nyilvántartást vezet,
-- 32. rendkívüli esemény: olyan esemény, amely
+- 32. rendkívüli esemény: olyan esemény, amely eléri a rendkívüli esemény kezelésében érintett szervek irányába történő bejelentés kormányrendeletben vagy annak hiányában a kritikus szervezet ellenálló képességi tervében meghatározott küszöbértékét, és
   - a) a kritikus infrastruktúra vagy az alapvető szolgáltatás olyan mértékű károsodását, sérülését, minőségének romlását vagy mennyiségének fennakadását okozza, amely a kritikus infrastruktúra vagy az alapvető szolgáltatás megszűnését, kiesését eredményezi, vagy
-  - b) a kritikus infrastruktúra vagy az alapvető szolgáltatás megszűnését, kiesését nem eredményezi, de szükségessé vált a rendkívüli esemény kezelésében érintett szervek közreműködése,
-
-és amely eléri a rendkívüli esemény kezelésében érintett szervek irányába történő bejelentés kormányrendeletben meghatározott küszöbértékét.
+  - b) a kritikus infrastruktúra vagy az alapvető szolgáltatás megszűnését, kiesését nem eredményezi, de a kritikus infrastruktúra vagy az alapvető szolgáltatás megszűnésének, kiesésének elhárításához szükségessé vált a rendkívüli esemény kezelésében érintett más szervek közreműködése.
 
 ### II. Fejezet — A KRITIKUS SZERVEZETEKRE VONATKOZÓ NEMZETI CÉLKITŰZÉSEK
 
@@ -353,7 +351,7 @@ vizsgálja.
 - a) a szervezet vezető tisztségviselője vagy a vezető tisztségviselőkből álló testület (a továbbiakban együtt: kritikus szervezet vezetője) közvetlen irányítása alá tartozó, önálló, kritikus szervezet ellenálló képességéért felelős vezető beosztást létrehozni és a beosztásba kritikus szervezet ellenálló képességéért felelős vezetőt kinevezni, vagy
 - b) szolgáltatás igénybevétele esetén a kritikus szervezet vezetője felé közvetlen beszámolással tartozó, kritikus szervezet ellenálló képességéért felelős vezetőt megbízni.
 
-(2) A kritikus szervezet a kritikus szervezet ellenálló képességéért felelős vezető adatait, képesítését igazoló nyilatkozatát, a foglalkoztatást, a megbízást, a feladatrendszert alátámasztó dokumentumokat, továbbá a vezető személyében történt változást a kinevezést, a megbízást és az adatváltozást követő 8 napon belül köteles a nyilvántartó hatóság részére elektronikusan, a nyilvántartó hatóság weboldalán közzétett formanyomtatvány alkalmazásával megküldeni.
+(2) A kritikus szervezet a kritikus szervezet ellenálló képességéért felelős vezető nevét és a 23. § (1) bekezdés f) pont fh) alpontja szerinti nyilvántartási számát, a foglalkoztatást, a megbízást, a feladatrendszert alátámasztó dokumentumokat, továbbá a vezető személyében történt változást a kinevezést, a megbízást és az adatváltozást követő 8 napon belül köteles a nyilvántartó hatóság részére elektronikusan, a nyilvántartó hatóság weboldalán közzétett formanyomtatvány alkalmazásával megküldeni.
 
 (3) A kritikus szervezet folyamatosan biztosítja a kritikus szervezet ellenálló képességéért felelős vezető számára a tevékenységéhez szükséges technikai, humán és pénzügyi feltételeket, biztosítja valamennyi szükséges dokumentum, folyamat és létesítmény megismerését.
 
@@ -361,13 +359,13 @@ vizsgálja.
 
 - a) kapcsolatot tart a kijelölő hatósággal, az ágazati szakhatósággal és egyéb hatóságokkal,
 - b) felméri a kritikus szervezet és a kritikus infrastruktúra biztonságát befolyásoló általános, ágazati és szervezeti követelményeket, szabályozási környezetet,
-- c) elkészíti és aktualizálja a kockázatértékelést és az ellenálló képességi mátrixot,
-- d) elkészíti és aktualizálja az ellenálló képességi tervet,
+- c) előkészíti a kockázatértékelést és az ellenálló képességi mátrixot és azok aktualizálását,
+- d) előkészíti az ellenálló képességi tervet és annak aktualizálását,
 - e) értékeli a kritikus szervezet és kritikus infrastruktúra ellenálló képességének helyzetét és javaslatot tesz az ellenálló képesség fejlesztésére,
 - f) megszervezi a kritikus szervezet és a kritikus infrastruktúra ellenálló képességét befolyásoló szervezeti egységek közötti koordinációt, bevonja őket a részfeladatok kidolgozásába és
 - g) rendszeresen beszámol a kritikus szervezet vezetője számára a kritikus szervezet és kritikus infrastruktúra ellenálló képességi helyzetéről.
 
-(5) A kritikus szervezet ellenálló képességéért felelős vezető a kritikus szervezet, a kritikus infrastruktúra és az alapvető szolgáltatás vonatkozásában személyesen látja el a feladatát.
+(5) A kritikus szervezet ellenálló képességéért felelős vezető a kritikus szervezet, a kritikus infrastruktúra és az alapvető szolgáltatás vonatkozásában személyesen látja el a feladatát. A személyes feladatellátásban való akadályoztatása esetére a kritikus szervezet gondoskodhat a helyettesítéséről a 23. § (1) bekezdése szerinti nyilvántartásba felvett személy útján.
 
 (6) A kritikus szervezet biztosítja, hogy minden általa üzemeltetett kritikus infrastruktúrához és általa nyújtott alapvető szolgáltatáshoz tartozzon kritikus szervezet ellenálló képességéért felelős vezető. Egy kritikus szervezet több kritikus szervezet ellenálló képességéért felelős vezetőt is kijelölhet.
 
@@ -375,7 +373,7 @@ vizsgálja.
 
 (8) A kritikus szervezet ellenálló képességéért felelős vezető önként jelentkezhet a 32. § szerinti Ellenálló Képességért Felelős Vezetők Tanácsadó Bizottsága tagjának.
 
-(9) Kritikus szervezet foglalkoztatásában nem álló, vele megbízással nem rendelkező természetes személy önként, elektronikus úton jelentkezhet a nyilvántartó hatóság kritikus szervezet ellenálló képességéért felelős vezetőkről vezetett nyilvántartásába, az adatainak és az előírt képesítés meglétét igazoló nyilatkozatának a nyilvántartó hatóság weboldalán közzétett formanyomtatvány megküldésével.
+(9) A (7) bekezdés szerinti képzettséggel rendelkező természetes személy elektronikus úton jelentkezhet a nyilvántartó hatóság kritikus szervezet ellenálló képességéért felelős vezetőkről vezetett nyilvántartásába, az adatainak és az előírt képesítés meglétét igazoló nyilatkozatának a nyilvántartó hatóság weboldalán közzétett formanyomtatvány megküldésével.
 
 (10) A (2) és (9) bekezdés szerinti, képzettséget igazoló nyilatkozatot a nyilvántartó hatóság, adatlekérdezés céljából továbbítja azon felsőoktatási intézmény részére, ahol a képesítést a kritikus szervezet ellenálló képességéért felelős vezető megszerezte. A felsőoktatási intézmény 5 munkanapon belül tájékoztatja a nyilvántartó hatóságot az adatlekérdezés eredményéről.
 
@@ -430,7 +428,7 @@ vizsgálja.
 
 #### 14. A kritikus szervezetek és kritikus infrastruktúrák nyilvántartása
 
-23. § (1) A nyilvántartó hatóság a kijelölési eljárásban hozott hatósági határozat véglegessé válását követően az energetikai ágazati kijelölő hatóság, az ágazati szakhatóságok, egyéb állami szervezetek és a kritikus szervezetek adatszolgáltatása, valamint az ellenálló képességért felelős vezetőre irányadó képesítési követelményeknek megfelelő természetes személy önkéntes jelentkezése alapján nyilvántartást vezet és kezeli az alábbi adatokat:
+23. § (1) A nyilvántartó hatóság a kijelölési eljárásban hozott hatósági határozat véglegessé válását követően az energetikai ágazati kijelölő hatóság, az ágazati szakhatóságok, egyéb állami szervezetek és a kritikus szervezetek adatszolgáltatása, valamint az ellenálló képességért felelős vezetőre irányadó képesítési követelményeknek megfelelő természetes személy jelentkezése alapján nyilvántartást vezet és kezeli az alábbi adatokat:
 
 - a) a kritikus szervezet
   - aa) nevét,
@@ -458,6 +456,7 @@ vizsgálja.
   - fe) tevékenység végzésétől történő eltiltása esetén ennek tényét, időtartamát, és ezáltal inaktív státuszát,
   - ff) a 20. § (10) bekezdése szerinti tájékoztatást és
   - fg) megbízását, feladatrendszerét igazoló munkaköri leírását vagy megbízási szerződést,
+  - fh) nyilvántartási számát,
 - g) az ellenálló képességi tervet,
 - h) a kijelöléséről, a kijelölés fenntartásáról és a kijelölés visszavonásáról szóló határozatot,
 - i) a hatósági ellenőrzéssel összefüggő dokumentumokat,
@@ -465,9 +464,7 @@ vizsgálja.
 - k) a kritikus munkakörben foglalkoztatott személyek
   - ka) természetes személyazonosító adatait
   - kb) kritikus munkakörben való foglalkoztatotti státuszát,
-- l) a nyilvántartásba a 20. § (9) bekezdése alapján önként jelentkezett, az ellenálló képességért felelős vezetőre irányadó képesítési követelményeknek megfelelő természetes személy
-  - la) természetes személyazonosító adatait és
-  - lb) a képesítés meglétét igazoló nyilatkozatát.
+- l)
 
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja
 
@@ -548,10 +545,10 @@ vizsgálja.
 
 #### 16. A rendkívüli esemény bejelentése
 
-26. § (1) A rendkívüli eseményt az ellenállóképességi tervben a kritikus szervezet rendkívüli esemény kezelésére meghatározott szervezeti egysége az alábbiak szerint köteles bejelenteni:
+26. § (1) A rendkívüli eseményt az ellenálló képességi tervben a kritikus szervezet rendkívüli esemény kezelésére meghatározott szervezeti egysége az alábbiak szerint köteles bejelenteni:
 
-- a) az 1-es ellenálló képességi szintbe sorolt kritikus szervezet soron kívül, de legkésőbb munkaidőben, az észlelést követő 4 órán belül, munkaidőn túl bekövetkezett rendkívüli esemény esetén a következő munkanapon 12:00 óráig,
-- b) a 2-es és 3-as ellenálló képességi szintbe sorolt kritikus szervezet soron kívül, de legkésőbb az észlelést követő 4 órán belül.
+- a) az 1-es ellenálló képességi szintbe sorolt kritikus infrastruktúra esetében soron kívül, de legkésőbb munkaidőben, az észlelést követő 4 órán belül, munkaidőn túl bekövetkezett rendkívüli esemény esetén a következő munkanapon 12:00 óráig,
+- b) a 2-es és 3-as ellenálló képességi szintbe sorolt kritikus infrastruktúra esetében soron kívül, de legkésőbb az észlelést követő 4 órán belül.
 
 (2) A rendkívüli eseményt az általános kijelölő hatóság által közzétett formanyomtatványon
 
@@ -591,9 +588,11 @@ részére, amely szervek a jelentést megküldik a védelmi és biztonsági tev�
 
 részére, amely szervek a jelentést megküldik a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti nemzeti eseménykezelő központ részére.
 
-27. § (1) Ha valamely rendkívüli esemény hat vagy több tagállamban jelentős hatást gyakorol vagy gyakorolhat más tagállam által kijelölt kritikus szervezetekre, illetve az alapvető szolgáltatások nyújtásának folyamatosságára, a hatóságok az egyedüli kapcsolattartó ponton keresztül értesítik az érintett tagállam egyedüli kapcsolattartó pontját és az Európai Bizottságot.
+27. § (1) Ha valamely rendkívüli esemény más tagállamban jelentős hatást gyakorol vagy gyakorolhat más tagállam által kijelölt kritikus szervezetekre, illetve az alapvető szolgáltatások nyújtásának folyamatosságára, a hatóságok az egyedüli kapcsolattartó ponton keresztül értesítik az érintett tagállam egyedüli kapcsolattartó pontját.
 
-(2) Az (1) bekezdés szerinti értesítés során a bizalmasság elvére tekintettel úgy továbbíthatók információk, hogy azok bizalmas jellege, az érintett kritikus szervezet biztonsági és üzleti érdekei ne sérüljenek.
+(1a) Ha az (1) bekezdés szerinti rendkívüli esemény hat vagy több tagállamot érint, a hatóságok az egyedüli kapcsolattartó ponton keresztül értesítik az Európai Bizottságot.
+
+(2) Az (1) és (1a) bekezdés szerinti értesítés során a bizalmasság elvére tekintettel úgy továbbíthatók információk, hogy azok bizalmas jellege, az érintett kritikus szervezet biztonsági és üzleti érdekei ne sérüljenek.
 
 #### 17. Jogkövetkezmények
 
@@ -986,11 +985,22 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 86. §
 
-#### 87. §
+87. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 14. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 88. §
+„(1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti. Az ideiglenes megelőző távoltartást elrendelő rendőrség a kezdeményezésben hivatalból, más esetben a kérelem benyújtására jogosult személy kérésére azonnal, írásban nyilatkozik arról, hogy a bántalmazó mozgását nyomon követő technikai eszköz alkalmazásának feltételei rendelkezésre állnak-e.”
 
-#### 89. §
+88. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 16. §-a a következő (2c) bekezdéssel egészül ki:
+
+„(2c) Ha ennek technikai feltételei a rendőrség nyilatkozata alapján rendelkezésre állnak, a bíróság a bántalmazott kérelmére elrendelheti, hogy a megelőző távoltartás magatartási szabályainak megtartását a rendőrség a bántalmazó – valamint beleegyezése esetén a bántalmazott – mozgását nyomon követő technikai eszközzel, valamint alkalmazással ellenőrizze. A bíróság a technikai eszköz alkalmazásának szabályait a megelőző távoltartás magatartási szabályai között határozza meg. A megelőző távoltartás magatartási szabályainak megtartásának ellenőrzésére szolgáló technikai eszköz kiskorú személyre nem telepíthető.”
+
+89. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 18. §-a helyébe a következő rendelkezés lép:
+
+„18. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
+
+- a) jelölje ki a családvédelmi koordinációért felelős szervet;
+- b) állapítsa meg az ideiglenes megelőző távoltartó határozat meghozatalának részletes szabályait.
+
+(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy a megelőző távoltartás bíróság által megállapított magatartási szabályai végrehajtásának technikai eszközzel történő ellenőrzésének részletes szabályait rendeletben állapítsa meg.”
 
 #### 44. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
@@ -1233,12 +1243,12 @@ lép.
 | 67 |  |  | repülésmeteorológiai léginavigációs szolgáltatás (AMO, MWO, AMS) |
 | 68 |  |  | légiforgalmi irányító (ATC) szolgálatot ellátó forgalomirányítási szolgáltatás |
 | 69 |  | Tömegközlekedés | közösségi közlekedés |
-| 70 | Pénzügy | Banki szolgáltatás | legalább 10%-os piaci részesedéssel (mérlegfőösszeg alapon) rendelkező hitelintézeti pénzügyi szolgáltatás |
+| 70 | Pénzügy | Banki szolgáltatás | hitelintézeti pénzügyi szolgáltatás |
 | 71 |  | Pénzügyi piaci infrastruktúra | kereskedési helyszínek üzemeltetése |
 | 72 |  |  | fizetési- valamint klíring- és elszámolási rendszer üzemeltetése |
 | 73 |  |  | központi szerződő fél tevékenysége |
 | 74 |  |  | központi értéktár tevékenysége |
-| 75 |  |  | pénzfeldolgozás és -szállítás |
+| 75 |  |  | készpénzellátás |
 | 76 |  |  | Magyar Nemzeti Bank alapvető feladatai, ide nem értve a monetáris politikát, a makroprudenciális politikát és a jegybanki információs rendszer működtetését |
 | 77 | Víz | Ivóvíz | emberi fogyasztásra szánt ivóvíz -termelés, -tárolás, -ellátás, -kezelés |
 | 78 |  | Szennyvíz | települési szennyvíz elvezetése, összegyűjtése, tisztítása, kezelése, befogadóba vezetése |

@@ -492,7 +492,7 @@ esetében.
 
 (11a) Nem szükséges a tulajdonosi joggyakorló előzetes hozzájárulása a (3) bekezdés szerint ingyenesen átruházott nemzeti vagyon tekintetében földhasználati jog, építményi jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára történő használati jog vagy telki szolgalom alapításához és ingatlan-nyilvántartásba történő bejegyzéséhez.
 
-(12) A sportcélú ingatlanok vonatkozásában a (11) bekezdés szerinti egyedi döntést a sportigazgatási szerv hozza meg.
+(12) A sportcélú ingatlanok vonatkozásában a (11) bekezdés szerinti egyedi döntést a sportpolitikáért felelős miniszter hozza meg.
 
 (12a) A (11) és a (12) bekezdés szerint kiadott előzetes hozzájárulás a (3) bekezdés szerint ingyenesen átruházott vagyon elidegenítési tilalom hatálya alatt történő megterhelésének vagy biztosítékul adásának bejegyzésére irányuló ingatlan-nyilvántartási kérelem kötelező mellékletét képezi.
 

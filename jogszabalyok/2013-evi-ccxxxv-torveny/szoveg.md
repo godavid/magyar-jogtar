@@ -185,15 +185,7 @@ az egyes fizetési szolgáltatókról
 
 (3)
 
-12/A. § (1) A fizetési számlavezetésre engedéllyel rendelkező pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek a tevékenysége végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
-
-(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket külön jogszabály határozza meg.
-
-(3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény folyamatos működését kedvezőtlenül érinti, vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
-
-(4) A tanúsító szervezet és alvállalkozója a vizsgált intézmény kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
-
-(5) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titkokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is
+#### 12/A. §
 
 12/B. § (1) A pénzforgalmi intézmény, elektronikus-pénz kibocsátó intézmény a jelentős IKT-vonatkozású eseményeket a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelőközpontnak (CSIRT).
 
@@ -659,7 +651,7 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 
 (3) Ha a fizetési művelet érdekében átvett pénzeszközt a pénzforgalmi intézmény az átvételt követő munkanap végéig, a Posta Elszámoló Központot működtető intézmény az átvételt követő második munkanap végéig a fizetési művelet végrehajtásaként nem utalja át egy másik pénzforgalmi szolgáltatóhoz, vagy nem fizeti ki a kedvezményezettnek,
 
-- a) a pénzeszközt EGT-államban székhellyel rendelkező hitelintézetnél vezetett letéti számlára vagy olyan eszközbe helyezi el, amely kitettségre az 575/2013/EU rendelet Harmadik rész II. Cím 2. Fejezetének alkalmazásakor nulla százalékos kockázati súly alkalmazható, vagy
+- a) a pénzeszközt EGT-államban székhellyel rendelkező hitelintézetnél vezetett letéti számlára, vagy – amennyiben valamely EGT-állam központi bankja ilyen szolgáltatást nyújt – az adott központi bank által vezetett letéti számlára vagy meghatározott célból elkülönített fizetési számlára, vagy olyan eszközbe helyezi el, amely kitettségre az 575/2013/EU rendelet Harmadik rész II. Cím 2. Fejezetének alkalmazásakor nulla százalékos kockázati súly alkalmazható, vagy
 - b) a pénzügyi kötelezettségvállalása nem teljesítésének esetére a pénzforgalmi intézménytől, a Posta Elszámoló Központot működtető intézménytől eltérő csoporthoz tartozó, EGT-államban székhellyel rendelkező hitelintézettel, biztosítóval olyan garancia- vagy kezesi biztosítási szerződést köt, amely
   - ba) az a) pont szerint elhelyezendő pénzeszköz teljes összegére vonatkozik, és
   - bb) a fedezet nyújtója által egyoldalúan legalább hatvannapos határidővel szüntethető meg.
@@ -769,12 +761,9 @@ köteles megfelelni.
 - b) a csatlakozott pénzforgalmi szolgáltatók jogaira és kötelezettségeire vonatkozó eltérő szabályokat, és
 - c) az intézményi formára vonatkozó bármilyen korlátozást.
 
-(4) Az (1)–(3) bekezdés szerinti rendelkezések nem alkalmazandók
+(4) Az (1)–(3) bekezdés szerinti rendelkezések nem alkalmazandók a kizárólag ugyanazon csoporthoz tartozó pénzforgalmi szolgáltatók által működtetett fizetési rendszerre.
 
-- a) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) alapján kijelölt rendszerre,
-- b) a kizárólag ugyanazon csoporthoz tartozó pénzforgalmi szolgáltatók által működtetett fizetési rendszerre.
-
-(5) Ha a (4) bekezdés a) pontja szerinti kijelölt rendszerben részt vevő csatlakozó lehetővé teszi a rendszerben nem részt vevő pénzforgalmi szolgáltató számára, hogy a rendszeren keresztül átutalási megbízást küldjön, akkor objektív, arányos és diszkriminációmentes módon ugyanezen lehetőséget a rendszerhez nem csatlakozó más pénzforgalmi szolgáltató számára is biztosítja. A résztvevőnek az elutasítást teljeskörűen meg kell indokolnia a kérelmező pénzforgalmi szolgáltató számára.
+(5) Ha a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) alapján kijelölt rendszerben részt vevő csatlakozó lehetővé teszi a rendszerben nem részt vevő pénzforgalmi szolgáltató számára, hogy a rendszeren keresztül transzfer megbízást küldjön, akkor objektív, arányos és diszkriminációmentes módon ugyanezen lehetőséget a rendszerhez nem csatlakozó más pénzforgalmi szolgáltató számára is biztosítja. A résztvevőnek az elutasítást teljeskörűen meg kell indokolnia a kérelmező pénzforgalmi szolgáltató számára.
 
 #### 12. A pénzforgalmi közvetítő és az elektronikuspénz-értékesítő
 
@@ -895,7 +884,7 @@ szemben.
 
 (2a) Nem jelenti az (1) bekezdésben foglalt titoktartási kötelezettség sérelmét a Hpt. 164/B. §-a szerinti adattovábbítás.
 
-(3)
+(3) Nem jelenti az (1) bekezdésben foglalt titoktartási kötelezettség sérelmét a fizetési rendszerben részt vevő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszerébe történő, valamint a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszeréből részükre, a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából történő, jogszabályban előírt adattovábbítás.
 
 59. § (1) Fizetési titok minden olyan, az egyes ügyfelekről a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel kötött szerződéseire vonatkozik.
 
@@ -999,6 +988,7 @@ van összefüggésben.
 - q) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás,
 - r) a Központi Statisztikai Hivatal részére hivatalos statisztikai célból a hivatalos statisztikáról szóló 2016. évi CLV. törvény 2. § 5. és 10. pont szerinti, közvetlen azonosítóktól megfosztott, egyedi adatok átadása,
 - s) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény Hpt. 164/B. § szerinti kölcsönös adatátadása.
+- t) a fizetési rendszerben részt vevő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszerébe történő, valamint a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszeréből részükre a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából történő jogszabályban előírt adattovábbítás.
 
 63. § (1) Aki üzleti vagy fizetési titok birtokába jut, köteles azt időbeli korlátozás nélkül megtartani.
 
@@ -1385,6 +1375,43 @@ végzését.
 
 (2) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.
 
+#### 16/C. Kijelölt fizetési rendszerekben való részvétel kérelmezése
+
+86/E. § (1) A Tvt. alkalmazásában kijelölt rendszernek minősülő fizetési rendszerben való részvételt kérelmező, illetve abban részt vevő pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek a fizetési rendszer rendelkezésére kell bocsátania
+
+- a) az ügyfelek pénzeszközeinek védelme érdekében hozott intézkedések ismertetését,
+- b) a nyújtani kívánt pénzforgalmi szolgáltatásokra vagy elektronikuspénz-szolgáltatásokra vonatkozó vállalatirányítási és belső ellenőrzési rendszerek leírását, ideértve az adminisztratív, a kockázatkezelési és számviteli eljárásokat is, valamint az IKT-szolgáltatások igénybevételére vonatkozó szabályainak ismertetését az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 6. és 7. cikkével kapcsolatosan, és
+- c) a fizetésképtelenségi eljárására vonatkozó tervét.
+
+(2) Ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyfelek pénzeszközeinek védelmét azzal biztosítja, hogy a pénzeszközt EGT-államban székhellyel rendelkező hitelintézetnél vezetett letéti számlára vagy olyan eszközbe helyezi el, amely kitettségre az 575/2013/EU rendelet Harmadik rész II. Cím 2. Fejezetének alkalmazásakor nulla százalékos kockázati súly alkalmazandó, akkor az (1) bekezdés a) pontja szerinti ismertetésnek adott esetben a következőket kell tartalmaznia:
+
+- a) azon befektetési politika ismertetése, amely biztosítja, hogy a kiválasztott eszközök likvidek, biztonságosak és alacsony kockázatúak legyenek,
+- b) azon személyek száma, akik hozzáférhetnek a védelem céljára igénybe vett számlákhoz, valamint az általuk betöltött pozíció,
+- c) azon adminisztrációs és egyeztetési folyamat ismertetése, amely biztosítja, hogy az ügyfelek érdekében ezen ügyfelek pénzeszközeit – különösen fizetésképtelenség bekövetkezése esetén – megvédik az intézmény más hitelezőnek követeléseivel szemben,
+- d) a hitelintézettel kötendő szerződés tervezetének egy példánya,
+- e) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény kifejezett nyilatkozata a 46. §-ban, illetve az 51. §-ban foglaltaknak való megfelelésről.
+
+(3) Ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyfelek pénzeszközeinek védelmét azzal biztosítja, hogy EGT-államban székhellyel rendelkező hitelintézettel, biztosítóval garancia- vagy kezesi biztosítási szerződést köt, akkor az (1) bekezdés a) pontja szerinti ismertetésnek a következőket kell tartalmaznia:
+
+- a) annak megerősítése, hogy a hitelintézettel, biztosítóval kötött garancia- vagy kezesi biztosítási szerződés olyan jogalanytól származik, amely nem tartozik a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény vállalatcsoportjába,
+- b) azon egyeztetési folyamat részletes ismertetése, amely biztosítja, hogy a garancia- vagy kezesi biztosítási szerződés mindenkor elegendő legyen a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény védelmet biztosító kötelezettségeinek teljesítéséhez,
+- c) a fedezet időtartama és megújításának feltételei,
+- d) a garancia- vagy kezesi biztosítási szerződés másolata, vagy annak tervezete.
+
+(4) Az (1) bekezdés b) pontjának alkalmazása céljából az ismertetésben igazolni kell, hogy a vállalatirányítási és belső ellenőrzési rendszerek, valamint az IKT-szolgáltatások használatára vonatkozó intézkedések arányosak, helyénvalóak, megalapozottak és megfelelőek. Ezen túlmenően a vállalatirányítási és belső ellenőrzési rendszerek bemutatásának a következőket is tartalmaznia kell:
+
+- a) a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény által azonosított kockázatok feltérképezése, beleértve a kockázatok típusát és azokat az eljárásokat, amelyeket a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény az ilyen kockázatok értékelése és megelőzése érdekében alkalmaz vagy vezet be,
+- b) az időszakos és a folyamatos ellenőrzések végrehajtását szolgáló különféle eljárások, ideértve az ellenőrzések gyakoriságát és az erre elkülönített emberi erőforrásokat,
+- c) azok a számviteli eljárások, amelyek keretében a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény rögzíti és bejelenti a pénzügyi információit,
+- d) a belső ellenőrzési feladatokért – többek között az időszakos, állandó és megfelelőség-ellenőrzésért – felelős személy vagy személyek személyazonossága, valamint az adott személy vagy személyek naprakész önéletrajza,
+- e) jogszabály szerint engedélyezett könyvvizsgálónak nem minősülő könyvvizsgáló személyazonossága,
+- f) a vezető állású személyek, és adott esetben bármely egyéb felügyeleti jogkörben eljáró testület vagy bizottság összetétele,
+- g) a kiszervezett tevékenység nyomon követésének és ellenőrzésének ismertetése, annak érdekében, hogy elkerülhető legyen a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény belső ellenőrzései minőségének romlása,
+- h) annak ismertetése, hogy miként követik nyomon és ellenőrzik a pénzforgalmi közvetítőket és a fiókokat a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény belső ellenőrzései keretében,
+- i) a csoportirányítás ismertetése, ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény egy másik EGT-államban lévő szabályozott vállalkozás leányvállalata.
+
+(5) Az (1) bekezdés c) pontjának alkalmazása céljából a fizetésképtelenségi eljárásra vonatkozó tervet a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény tervezett méretéhez és üzleti modelljéhez kell igazítani, és annak tartalmaznia kell a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény által a pénzforgalmi szolgáltatások megszüntetése esetén elfogadandó azon kockázatcsökkentési intézkedések ismertetését, amelyek biztosítanák a függőben lévő fizetési műveletek végrehajtását és a meglévő szerződések megszüntetését.
+
 #### 17. Eljárás a fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén
 
 87. § E törvény, valamint a végrehajtására kiadott jogszabályok a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen az ügyfelek tájékoztatásra vonatkozó rendelkezéseinek megsértése esetén a Felügyelet a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben meghatározott szabályok szerint jár el, ha a jogsértés fogyasztót érint.
@@ -1396,6 +1423,8 @@ végzését.
 - a)
 - b) a közvetítői díj meghatározásának és kifizetésének módját, időbeli ütemezését,
 - c) a pénzforgalmi intézmények, az elektronikuspénz-kibocsátó intézmények és az utalványkibocsátók panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára vonatkozó követelményeket.
+
+88/A. § Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg az ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
 
 89. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2014. január 1-jén lép hatályba.
 
@@ -1413,6 +1442,7 @@ végzését.
 - a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
 - b) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet
 - c) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+- d) a 260/2012/EU és az (EU) 2021/1230 rendeletnek, valamint a 98/26/EK és az (EU) 2015/2366 irányelvnek az azonnali euroátutalások tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/886 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
