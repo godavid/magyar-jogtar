@@ -32,7 +32,9 @@ az egészségügyi közvetítői eljárásról
 
 (4) A névjegyzékben szereplő személy a névjegyzékben vezetett adataiban bekövetkezett változásokat, illetve az időközben bekövetkezett kizáró okot a változástól számított 30 napon belül köteles bejelenteni a MISZK-nek.
 
-5/A–5/B. §
+#### 5/A. §
+
+#### 5/B. §
 
 6. § (1) A közvetítői eljárás megindulása esetén a szolgáltató értesíti az eljárásról azt a biztosítót, akivel felelősségbiztosítást kötött (a továbbiakban: biztosító) és a biztosító nevéről és székhelyéről tájékoztatja a kamarát. A tanács üléseire a biztosítót is meg kell hívni, és részére észrevételezési jogot kell biztosítani. A szolgáltató úgy is nyilatkozhat, hogy a közvetítői eljárásban a biztosítója részvételének mellőzését kéri.
 
@@ -46,13 +48,15 @@ az egészségügyi közvetítői eljárásról
 
 7. § (1) A tanács az ülését a kamara helyiségében tartja. A felek kihelyezett ülés tartásában is megállapodhatnak, ha ezt az ügy körülményei indokolják.
 
+(1a) A tanács a felek kérésére vagy hivatalból elrendelheti, hogy az ülés megtartására elektronikus kép és hang egyidejű továbbítására alkalmas eszköz útján kerüljön sor.
+
 (2) Az első ülésen a tanács tájékoztatja a feleket a közvetítői eljárás menetéről, annak lényeges elemeiről, így különösen annak költségeiről, illetve a titoktartási kötelezettségről. Ha a felek változatlanul kérik az eljárás lefolytatását, a mellékletben foglalt nyilatkozatot teszik.
 
-(3) Ha a felek eltérően nem állapodnak meg, a költségek előlegezése a szolgáltatót terheli. A nyilatkozat aláírásával egyidejűleg a felek előzetesen megállapodhatnak az eljárás során felmerülő költségek viselésének módjáról is.
+(3) Ha a felek eltérően nem állapodnak meg, a költségek előlegezése a szolgáltatót terheli. A nyilatkozat aláírásával vagy megtételével egyidejűleg a felek előzetesen megállapodhatnak az eljárás során felmerülő költségek viselésének módjáról is.
 
-(4) Ha a felek között ugyanabból a jogalapból származó bírósági eljárás folyik, a felek a nyilatkozat aláírását követően kötelesek az eljárás szünetelése iránti kölcsönös megegyezésüket a bíróságnak 8 napon belül bejelenteni. A bejelentés elmulasztása esetén a közvetítői eljárást meg kell szüntetni.
+(4) Ha a felek között ugyanabból a jogalapból származó bírósági eljárás folyik, a felek a nyilatkozat aláírását vagy megtételét követően kötelesek az eljárás szünetelése iránti kölcsönös megegyezésüket a bíróságnak 8 napon belül bejelenteni. A bejelentés elmulasztása esetén a közvetítői eljárást meg kell szüntetni.
 
-8. § (1) A nyilatkozat aláírását követően a tanács a feleket részletesen meghallgatja. Ennek során a felek kifejtik érdekeik alapján kialakított álláspontjukat. A felek az első ülésen a rendelkezésükre álló okiratokat is kötelesek bemutatni.
+8. § (1) A nyilatkozat aláírását vagy megtételét követően a tanács a feleket részletesen meghallgatja. Ennek során a felek kifejtik érdekeik alapján kialakított álláspontjukat. A felek az első ülésen a rendelkezésükre álló okiratokat is kötelesek bemutatni.
 
 (2) A közvetítői eljárás során a közvetítői tanács köteles biztosítani, hogy a felek egyenlő elbánásban részesüljenek.
 
@@ -74,7 +78,7 @@ az egészségügyi közvetítői eljárásról
 
 (3) A titoktartási kötelezettség kiterjed a felek között létrejött egyezség tartalmára, valamint az eljárás folyamán elhangzottakra is.
 
-11. § (1) A felek által megkötött egyezséget a tanács írásba foglalja, azt a tanács tagjai és a felek is aláírják.
+11. § (1) A felek által megkötött egyezséget a tanács írásba foglalja, azt a tanács tagjai és a felek is aláírják vagy ha az ülés megtartására elektronikus kép és hang egyidejű továbbítására alkalmas eszköz útján került sor magukra nézve kötelezőnek ismerik el.
 
 (2) Az egyezség a biztosítóval szemben csak akkor hatályos, ha azt a biztosító tudomásul vette, vagy részben tudomásul vette. Ez utóbbi esetben meg kell jelölni, hogy a biztosító milyen mértékben (összegben) veszi tudomásul a felek egyezségében foglaltakat.
 

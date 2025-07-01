@@ -767,9 +767,25 @@ adatot igényelhet.
 
 (5) A nyilvántartást kezelő szerv köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából a feladatellátással érintett polgárok nyilvántartott adatainak változásáról.
 
-#### 24/P. §
+24/P. § Az ügyvédi tevékenység gyakorlására jogosult és az ügyvédasszisztens a személyazonosítás során a nyilvántartott adatokkal való egyezőség és a bemutatott okmányok érvényességének ellenőrzése érdekében az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye, valamint az állandó személyazonosító igazolvány elektronikus egyedi azonosítója kivételével a 11. § (1) bekezdés m) pontja és a 18. § (5) bekezdése szerinti adatokat, valamint a személyazonosítással érintett személy
+
+- a) természetes személyazonosító adatait,
+- b) állampolgárságát, hontalanságát, huzamos tartózkodási jogosultságát, menekült vagy EGT-állampolgár jogállását,
+- c) lakcímét,
+- d) arcképmását,
+- e) aláírását
+
+jogosult igényelni.
 
 24/Q. § A nyilvántartást kezelő szerv a Bnytv. 6. § (1a) bekezdésében foglaltak teljesítése érdekében a bűnügyi nyilvántartó szerv részére átadja a polgár utolsó alkalommal nyilvántartásba vett arcképmását, amennyiben a polgár arcképmásával a bűnügyi nyilvántartó szerv nem rendelkezik.
+
+24/R. § A köznevelési intézmény a tanulmányi rendszerben nyilvántartott adatok ellenőrzése és az érintett személyek azonosítása, adatainak pontosítása, az intézmény által kiadott közokiratok hitelessége biztosítása céljából
+
+- a) a pedagógusok új életpályájáról szóló törvény szerinti foglalkoztatotti alapnyilvántartásban szereplő foglalkoztatott és az óraadó esetében a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nyilvántartás jogcíme és a nyilvántartásból kikerülés oka, ideje, helye adatok kivételével,
+- b) a szülő és az értesítendő hozzátartozó esetében az állampolgárság, a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nyilvántartás jogcíme és a nyilvántartásból kikerülés oka, ideje, helye adatok kivételével,
+- c) a gyermek és a tanuló esetében a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye és a nyilvántartásból kikerülés helye adatok kivételével
+
+a 17. § (2) bekezdés b) pontja szerint adatait jogosult igényelni a személyiadat- és lakcímnyilvántartást kezelő szervtől.
 
 ### V. Fejezet — A nyilvántartási eljárás
 
@@ -1441,7 +1457,7 @@ adatvédelmi tisztviselőt nevez ki.
 - h) a tévesen bejegyzett adatok helyesbítése esetén,
 - i) a korábbi állandó személyazonosító igazolvány tároló elemének nem működése esetén vagy, ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az igazolványnak a nyilvántartásban szereplő adatait, vagy
 - j) a korábbi állandó személyazonosító igazolvány 29. § (1) bekezdésében meghatározott elektronikus szolgáltatásainak nem megfelelő működésekor,
-- k) a huzamos tartózkodási jogosultsággal rendelkező, valamint a menekültként vagy oltalmazottként elismert személyek személyazonosító igazolványának igénylésekor.
+- k)
 
 (2) A személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért igazgatási szolgáltatási díjat kell fizetni, kivéve
 
@@ -1450,7 +1466,19 @@ adatvédelmi tisztviselőt nevez ki.
 - c) a tévesen bejegyzett adatok helyesbítése vagy a hatósági igazolvány gyártmányhibája esetén,
 - d) a 7. § (3) bekezdése szerinti újszülött nyilvántartásba vételekor,
 - e) ha a hatósági igazolvány kiállítására a központi címregiszterbe bejegyzett címelemek megváltozása miatt költözéssel nem járó lakcímváltozás miatt kerül sor,
-- f) a Magyarország területének a külföldi letelepedés szándékával történő elhagyásának bejelentése esetén.
+- f)
+
+36/B. § (1) A személyazonosító igazolvány belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat kell fizetni, kivéve
+
+- a) a korábbi személyazonosító igazolvány gyártáshibája esetén,
+- b) a tévesen bejegyzett adatok helyesbítése esetén,
+- c) a korábbi állandó személyazonosító igazolvány tároló elemének nem működése esetén vagy, ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az igazolványnak a személyiadat- és lakcímnyilvántartásban szereplő adatait, vagy
+- d) a korábbi állandó személyazonosító igazolvány 29. § (1) bekezdésében meghatározott elektronikus szolgáltatásainak nem megfelelő működésekor.
+
+(2) A személyi azonosítót és lakcímet igazoló hatósági igazolvány belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat kell fizetni, kivéve
+
+- 1. a tévesen bejegyzett adatok helyesbítése vagy a hatósági igazolvány gyártmányhibája esetén, vagy
+- 2. a központi címregiszterbe bejegyzett címelemek megváltozása miatt költözéssel nem járó lakcímváltozás esetén.
 
 ### VIII. Fejezet — Átmeneti rendelkezések
 
@@ -1542,7 +1570,7 @@ kell érteni.
 - a) a nyilvántartás üzemeltetésével és működésével, továbbá a személyazonosító igazolvány kiadásával és nyilvántartásával, valamint a lakcímnyilvántartással kapcsolatos technikai szabályokat;
 - b) a nyilvántartási eljárás során használandó iratmintákat;
 - c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, a lakcímbejelentésről történő értesítésért, továbbá a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
-- d) az adópolitikáért felelős miniszterrel egyetértésben a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
+- d) az adópolitikáért felelős miniszterrel egyetértésben a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért, kézbesítéséért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 - e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait;
 - f) az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatás-azonosító kezelését, felhasználását és annak műszaki követelményeit.
 

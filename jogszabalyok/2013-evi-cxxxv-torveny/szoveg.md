@@ -4,18 +4,18 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 1. § (1) E törvény alkalmazásában
 
-- a) egységes informatikai rendszer: az Integrációs Szervezet tagjai és a további ellenőrzés alá vont szervezet részére az integrációs üzleti irányító szervezet irányításával, az Integrációs Szervezet prudenciális kontrollja mellett összeállított és fejlesztett, a Központi Adatfeldolgozó által üzemeltetett adatbázis és ahhoz kapcsolódó egyedi rendszerek együttese;
+- a)
 - b) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) ekként meghatározott fogalom;
 - c) Előzetes kötelezettségvállaló nyilatkozat: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 3:296. § (3) bekezdése szerinti kötelezettségvállalást tartalmazó nyilatkozat, amely tartalmában e törvény rendelkezéseinek is megfelel.
 - d) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
-- e) ellenőrzés alá vont szervezet: az Integrációs Szervezet tagjai, a Kapcsolt Vállalkozások, valamint a Központi Adatfeldolgozó;
+- e) ellenőrzés alá vont szervezet: az Integrációs Szervezet tagjai, a Kapcsolt Vállalkozások;
 - f)
 - g) HBA: Hitelszövetkezetek Első Hazai Önkéntes Betétbiztosítási és Intézményvédelmi Alapja
 - h) Holding Szövetkezet: az Integrációs Szervezet integrált hitelintézetnek nem minősülő, szövetkezeti formában működő tagja, aki integrált hitelintézetben tulajdonjoggal rendelkezik;
 - i) Integrációs Szervezet: az integrált hitelintézet tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: az Európai Parlament és a Tanács 575/2013/EU rendelete) 10. cikkében meghatározott központi szerv feladatait ellátó szervezet;
 - j) Kapcsolt Vállalkozás: az Integrációs Szervezet tagjának ellenőrző befolyása alatt működő szervezet;
 - k) könyvvizsgáló: könyvvizsgálattal főtevékenységként foglalkozó, pénzügyi intézményi minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég;
-- l) Központi Adatfeldolgozó: az egységes informatikai rendszer folyamatos és biztonságos üzemeltetését, valamint fejlesztését az Integrációs Szervezet tagjával kötött, – az e törvényben meghatározottak figyelembevételével – a Hpt. kiszervezésre vonatkozó szabályainak megfelelő megállapodás alapján végző informatikai szolgáltató;
+- l)
 - m) integrációs üzleti irányító szervezet: az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikkében meghatározott központi szerv feladatainak ellátásában e törvény felhatalmazása alapján közreműködő, az Integrációs Szervezet tagjaként működő, de integrált hitelintézetnek nem minősülő pénzügyi intézmény;
 - n)
 - o)
@@ -56,7 +56,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 (7) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alkalmazása szempontjából együttesen kapcsolt vállalkozásnak minősülnek
 
 - a) az Integrációs Szervezet tagjai,
-- b) a Központi Adatfeldolgozó, feltéve, hogy abban az Integrációs Szervezet, vagy annak tagja a Hpt. szerinti befolyásoló részesedéssel rendelkezik, továbbá
+- b)
 - c) azok a szervezetek, amelyben az Integrációs Szervezet, vagy annak tagja többségi befolyással rendelkezik.
 
 (8)
@@ -326,11 +326,11 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (5) Az Integrációs Szervezet felhívására az Integrációs Szervezet Felügyelet által felügyelt tagja köteles az egyedi válságkezelési terv elkészítéséhez és felülvizsgálatához szükséges adatszolgáltatást teljesíteni.
 
-(6) Az Integrációs Szervezet évente megvizsgálja a Központi Adatfeldolgozó tevékenységét, ideértve a Központi Adatfeldolgozó által ellátott kiszervezett tevékenység 17/V. § (2) és (3) bekezdésében meghatározott megállapodásban és üzemeltetési szerződésben foglaltaknak megfelelő végzését, valamint a Központi Adatfeldolgozó által alkalmazott közreműködő által ellátott kiszervezett tevékenységet.
+(6)
 
 (7) Az Integrációs Szervezet a 11/A. §-ban szabályozott ellenőrző és felügyelési rendszer működtetésével ellenőrzi és folyamatosan felügyeli az ellenőrzés alá vont szervezetek tevékenységét, és a jogszabályoknak, az e törvény alapján kiadott szabályzatoknak, utasításoknak, valamint irányelveknek megfelelő működését.
 
-(8) Az Integrációs Szervezet tagja, a Kapcsolt Vállalkozás, valamint a 11/B. § (9) bekezdésben meghatározott körben a Központi Adatfeldolgozó az Integrációs Szervezet által hozott, neki címzett utasítással vagy döntéssel szemben, valamint az Integrációs Szervezet tagja a valamennyi tagra kötelező döntésekkel szemben a jogi személy határozatának bírósági felülvizsgálatára irányadó szabályok szerint bírósághoz fordulhat abban a körben, hogy az utasítás vagy döntés a jogszabályoknak, a létesítő okiratnak és az Integrációs Szervezet által kiadott szabályzatoknak és meghatározott irányelveknek, illetve a hitelintézetek integrációja egyéb szabályzatainak megfelel-e. A bírósághoz fordulásnak nincs halasztó hatálya, az utasítás vagy döntés attól függetlenül az abban megjelölt határidőben végrehajtandó.
+(8) Az Integrációs Szervezet tagja, a Kapcsolt Vállalkozás az Integrációs Szervezet által hozott, neki címzett utasítással vagy döntéssel szemben, valamint az Integrációs Szervezet tagja a valamennyi tagra kötelező döntésekkel szemben a jogi személy határozatának bírósági felülvizsgálatára irányadó szabályok szerint bírósághoz fordulhat abban a körben, hogy az utasítás vagy döntés a jogszabályoknak, a létesítő okiratnak és az Integrációs Szervezet által kiadott szabályzatoknak és meghatározott irányelveknek, illetve a hitelintézetek integrációja egyéb szabályzatainak megfelel-e. A bírósághoz fordulásnak nincs halasztó hatálya, az utasítás vagy döntés attól függetlenül az abban megjelölt határidőben végrehajtandó.
 
 (9) Az Integrációs Szervezetnek és tagjának, valamint az Integrációs Szervezet tagjainak egymás közötti jogvitáira a választottbírósági eljárás keretében történő vitarendezés kizárt.
 
@@ -340,7 +340,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (12)
 
-11/A. § (1) Az Integrációs Szervezet a hitelintézetek integrációja egységes működése és irányítása, továbbá a hitelintézetek integrációja céljainak elérése érdekében olyan – az e törvényen és az Integrációs Szervezet szabályzatán és irányelvén alapuló – ellenőrző és felügyelési rendszert működtet, amely lehetővé teszi az Integrációs Szervezet tagja és a Kapcsolt Vállalkozás tevékenységének, valamint a jogszabályoknak, az e törvény alapján kiadott szabályzatoknak, utasításoknak és irányelveknek megfelelő működésének ellenőrzését, valamint folyamatos felügyelését, továbbá a Központi Adatfeldolgozó és az általa alkalmazott közreműködő által ellátott kiszervezett tevékenység ellenőrzését. Az Integrációs Szervezet jogosult ellenőrizni és folyamatosan felügyelni az Integrációs Szervezet tagjainak azon tevékenységét is, amelyet a Hpt., illetve Bszt. szerinti közvetítő útján végeznek.
+11/A. § (1) Az Integrációs Szervezet a hitelintézetek integrációja egységes működése és irányítása, továbbá a hitelintézetek integrációja céljainak elérése érdekében olyan – az e törvényen és az Integrációs Szervezet szabályzatán és irányelvén alapuló – ellenőrző és felügyelési rendszert működtet, amely lehetővé teszi az Integrációs Szervezet tagja és a Kapcsolt Vállalkozás tevékenységének, valamint a jogszabályoknak, az e törvény alapján kiadott szabályzatoknak, utasításoknak és irányelveknek megfelelő működésének ellenőrzését, valamint folyamatos felügyelését. Az Integrációs Szervezet jogosult ellenőrizni és folyamatosan felügyelni az Integrációs Szervezet tagjainak azon tevékenységét is, amelyet a Hpt., illetve Bszt. szerinti közvetítő útján végeznek.
 
 (1a) A folyamatos felügyelés helyszíni ellenőrzéssel, a rendszeres és rendkívüli adatszolgáltatásból származó adatok, az Integrációs Szervezet részére megküldött dokumentumok, valamint a hivatalosan ismert tények vizsgálatával és elemzésével valósul meg.
 
@@ -408,7 +408,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (8) Az Integrációs Szervezet a Kapcsolt Vállalkozás ellenőrzésére vonatkozó vizsgálati jelentésben megfogalmazott megállapítások teljesítésére utasítást adhat a Kapcsolt Vállalkozásnak az ellenőrző befolyást gyakorló intézmény egyidejű értesítése mellett.
 
-(9) Az Integrációs Szervezet a Központi Adatfeldolgozó vagy az általa alkalmazott közreműködő által végzett tevékenység ellenőrzésére vonatkozó vizsgálati jelentésben megfogalmazott megállapítások teljesítésére utasítást adhat a Központi Adatfeldolgozónak.
+(9)
 
 #### 11/C. §
 
@@ -492,7 +492,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - a) a kockázatkezelés részletes szabályairól, ideértve a hitelengedélyezés, a kockázatvállalások korlátozása, kockázati monitoring, betételhelyezés, készpénzgazdálkodás és befektetési politika, a minősítés és az értékvesztés szabályait;
 - b) a kockázati stratégiáról;
 - c) az integrációs szintű beszerzési gyakorlatának kialakításáról, beleértve az integrációs szintű beszerzés körébe vont áruk és szolgáltatások meghatározását és a központi beszerzés lebonyolításának szabályait;
-- d) az egységes informatikai rendszerről;
+- d)
 - e) az egyes pénzügyi és kiegészítő pénzügyi szolgáltatási, valamint befektetési és kiegészítő befektetési szolgáltatási tevékenység általános szerződési feltételeit tartalmazó üzletszabályzatokról.
 
 (3) Az integrációs üzleti irányító szervezet jogosult a hitelintézetek integrációja céljainak elérése érdekében a hitelintézetek integrációjának egységes üzleti működése, irányítása tárgykörében az Integrációs Szervezet tagjaira és a Kapcsolt Vállalkozásokra kötelező szabályzatot elfogadni. Ha az integrációs üzleti irányító szervezet olyan szabályzatot fogad el, amely az Integrációs Szervezet feladatkörének gyakorlását érinti, akkor a szabályzatot az Integrációs Szervezet igazgatóságának előzetesen jóvá kell hagynia.
@@ -838,25 +838,19 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 #### 8/J. Az egységes informatikai rendszer működése
 
-17/U. § (1) Az integrált hitelintézetek az integrációs üzleti irányító szervezet által meghatározott informatikai alkalmazást igénylő tevékenységüket az egységes informatikai rendszer használatával kötelesek ellátni, és az ügyfelek, egyéb érintettek – az igénybe vett szolgáltatásoktól függően személyes adatnak, bank-, értékpapír-, fizetési, illetve biztosítási titoknak is minősülő – adatait az egységes informatikai rendszer közös adatbázisában kötelesek nyilvántartani, ideértve a már a csatlakozás időpontjában kezelt adatokat is. Az egységes informatikai rendszerre való átállást, beleértve a korábbi informatikai rendszerekben meglévő adatok migrálását és azok központi feldolgozását, 2017. december 31-ig valamennyi integrált hitelintézet esetében teljes körűen biztosítani kell.
+17/U. § (1)
 
-(2) Az integrációs üzleti irányító szervezet egységes informatikai rendszer kialakításáról szóló szabályzata határozza meg
+(2)
 
-- a) az egységes informatikai rendszer modularitását,
-- b) az egyes modulok funkcionalitását,
-- c) az egységes informatikai rendszer szolgáltatói hátterét,
-- d) az egységes informatikai rendszerhez csatlakozott tagok (a továbbiakban: csatlakozott tagok), valamint az integrált hitelintézetek vagy az integrációs üzleti irányító szervezet ellenőrző befolyása alatt működő pénzügyi intézmények, pénzforgalmi intézmények, elektronikuspénz-kibocsátó intézmények, befektetési vállalkozások, biztosítók, ABAK-ok és ÁÉKBV-alapkezelők (a továbbiakban: hozzáféréssel rendelkező szervezetek) és felhasználóik – szükség szerint – eltérő szintű jogosultságait, valamint
-- e) az egységes informatikai rendszerre vonatkozó elektronikus információbiztonsági és adatvédelmi követelményeket, valamint a d) pont szerinti szervezetek és személyek által kötelezően megvalósítandó, a rendszer használatához kapcsolódó védelmi intézkedéseket.
+(3)
 
-(3) Az egységes informatikai rendszerben kezelt személyes adatokat, bank-, értékpapír-, fizetési, illetve biztosítási titoknak is minősülő adatokat a csatlakozott tagok és a hozzáféréssel rendelkező szervezetek tevékenységi körük ellátásával összefüggésben – ha az ügyfél nem tett a (3a) bekezdés szerinti korlátozó vagy tiltó nyilatkozatot – az Integrációs Szervezet adatvédelmi szabályzatában és az integrációs üzleti irányító szervezet (2) bekezdés szerinti szabályzatában foglaltak betartásával, tevékenységi körük ellátásával összefüggésben a szolgáltatásaik nyújtásához szükséges mértékben kölcsönösen megismerhetik, az egyedi szolgáltatásokhoz való hozzáférés biztosítása céljából egymásnak továbbíthatják, felhasználhatják, módosíthatják és az e törvényben meghatározott feltételek mellett az így átvett adatokat az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelhetik.
+(3a)
 
-(3a) Az ügyfél kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a (3) bekezdés szerinti adattovábbítást. A csatlakozott tagok és a hozzáféréssel rendelkező szervezetek az ügyféllel kötendő szerződés megkötését megelőzően kötelesek az ügyfél részére az e §-ban foglalt közös adatkezelés érdekében történő kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy az adatai e §-ban foglalt kezelésének lehetőségét kifejezett nyilatkozatával bármikor korlátozhatja vagy megtilthatja.
+(4)
 
-(4) A csatlakozott tagok, valamint a hozzáféréssel rendelkező szervezetek a hitelintézetek integrációja céljainak megfelelően – az integrációs üzleti irányító szervezet (2) bekezdés szerinti szabályzatában foglaltak szerint, erre vonatkozó külön megállapodás nélkül is – jogosultak egymás ügyfeleinek kölcsönös kiszolgálására az egységes informatikai rendszerben kezelt adatok felhasználásával.
+(5)
 
-(5) Az egységes informatikai rendszerben történő adatkezelés tekintetében a csatlakozott tagok, valamint a hozzáféréssel rendelkező szervezetek közös adatkezelőnek minősülnek. Az integrációs üzleti irányító szervezet feladatköre kiterjed az egységes informatikai rendszer közös adatbázisán alapuló kockázatelemzésre és kockázatkezelésre.
-
-(6) Az adatok egységes informatikai rendszerben történő közös adatkezelésének időtartama – ha törvény eltérő időtartamot nem határoz meg – a mindenkori polgári jogi elévülés időtartama, amelyet az ügyféllel fennálló jogviszony megszűnésétől – jogviszony létre nem jötte esetén a jogviszony létrejöttét megakadályozó jogcselekmény hatályosulásától – kell számítani.
+(6)
 
 (7)
 
@@ -870,19 +864,9 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 (11)
 
-#### 8/K. A Központi Adatfeldolgozó feladatai
+#### 8/K.
 
-17/V. § (1) Az egységes informatikai rendszer folyamatos üzemeltetését és fejlesztését végző Központi Adatfeldolgozót az Integrációs Szervezet igazgatósága bízza meg az integrációs üzleti irányító szervezet javaslatára.
-
-(2) Az Integrációs Szervezet és az integrációs üzleti irányító szervezet együttesen határozzák meg a Központi Adatfeldolgozónak az egységes informatikai rendszer fejlesztésére és működésére vonatkozó tevékenységét szabályozó, jogait és kötelezettségeit tartalmazó megállapodás feltételeit. A megállapodást az Integrációs Szervezet igazgatósága köti meg, módosítja vagy szünteti meg a Központi Adatfeldolgozóval az integrációs üzleti irányító szervezet javaslata alapján.
-
-(3) Az Integrációs Szervezetbe belépő új, a Felügyelet által felügyelt tag a belépéstől számított három éven belül köteles az egységes informatikai rendszerhez csatlakozni akként, hogy az Integrációs Szervezet előzetes jóváhagyását követően a Központi Adatfeldolgozóval egyedi üzemeltetési szerződést köt. Az Integrációs Szervezet a hároméves határidőt indokolt esetben egy alkalommal legfeljebb további három évvel meghosszabbíthatja.
-
-(4) A csatlakozott tag köteles az integrációs üzleti irányító szervezet által utasításban megjelölt egyedi banki informatikai rendszerre való átállásnak a megjelölt határidőben eleget tenni. Az átállással kapcsolatos feladatokról és az átállásra vonatkozó utasítás kiadásával kapcsolatos szabályokról az integrációs üzleti irányító szervezet szabályzatot alkot.
-
-(5) A csatlakozott tagok a Központi Adatfeldolgozó vonatkozásában mentesülnek a Hpt. 68. § (6) bekezdésében meghatározott kötelezettség alól. E kötelezettséget az Integrációs Szervezet teljesíti.
-
-(6) A Központi Adatfeldolgozó által alkalmazott közreműködővel kötött szerződés vonatkozásában a Hpt. 68. § (10) bekezdésében meghatározott jóváhagyást az integrációs üzleti irányító szervezet az Integrációs Szervezet előzetes egyetértése alapján gyakorolja. A szerződésben biztosítani kell a kiszervezett tevékenységnek az Integrációs Szervezet által történő ellenőrzését.
+#### 17/V. §
 
 #### 9. Záró, átmeneti és értelmező rendelkezések
 

@@ -105,8 +105,8 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 
 - a) helyszíni intézkedése során észlelt hozzátartozók közötti erőszakra vonatkozó tények alapján hivatalból,
 - b) a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa bejelentése,
-- c) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személynek a – feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése,
-- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint a gyermekvédelmi rendszerhez kapcsolódó feladatokat ellátó egészségügyi szolgáltatást nyújtónak, személyes gondoskodást nyújtó szolgáltatónak, közoktatási intézménynek a – gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében törvényben meghatározott feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése
+- c) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvényben (a továbbiakban: Gyvt.), valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személynek a – feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése,
+- d) a Gyvt. szerint a gyermekvédelmi rendszerhez kapcsolódó feladatokat ellátó egészségügyi szolgáltatást nyújtónak, személyes gondoskodást nyújtó szolgáltatónak, közoktatási intézménynek a – gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében törvényben meghatározott feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése
 
 alapján rendelheti el.
 
@@ -138,6 +138,7 @@ alapján rendelheti el.
 - f) rendelkezést a határozat azonnali végrehajthatóságáról, a végrehajtás módjáról, a foganatosítás rendjéről,
 - g) figyelmeztetést arról, hogy az ideiglenes megelőző távoltartó határozat a bántalmazó más jogszabály vagy szerződés szerinti kötelezettség alapján fennálló tartási, valamint a bántalmazottal közösen használt ingatlan fenntartására vonatkozó kötelezettségeit nem érinti,
 - h) figyelmeztetést arról, hogy az ideiglenes megelőző távoltartó határozatban előírt kötelezettségek megszegése szabálysértést valósít meg.
+- i) tájékoztatást az áldozatsegítő szolgálatról.
 
 ### Az ideiglenes megelőző távoltartó határozat és a védelmi tanúsítvány közlése
 
@@ -149,7 +150,11 @@ alapján rendelheti el.
 
 (3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt állandó lakóhelye szerinti gyámhatóságnak is megküldi.
 
+(3a) A rendőrség a távoltartó határozatot megküldi az érdekérvényesítés elősegítése szolgáltatás igénybevételének lehetőségét biztosító áldozatsegítő központnak.
+
 (4) A rendőrség értesítése alapján a távoltartó határozat meghozatalát követő huszonnégy órán belül a családsegítő szolgálat, együtt élő kiskorú hozzátartozó esetében a gyermekjóléti szolgálat köteles a bántalmazottat és a bántalmazót felkeresni és velük segítő kapcsolatot kezdeményezni, illetve a kiskorút veszélyeztető helyzet megszüntetése érdekében intézkedni.
+
+(5) A rendőrség értesítése alapján a távoltartó határozat kézhezvételét követő munkanapon az áldozatsegítő központ köteles a bántalmazottal felvenni a kapcsolatot, és – kérésére – számára az érdekérvényesítés elősegítése szolgáltatást nyújtani.
 
 ### Fellebbezés
 
@@ -196,7 +201,11 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 (6) Az eljárásban nem járhat el bírósági titkár.
 
-14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti.
+14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti. Az ideiglenes megelőző távoltartást elrendelő rendőrség a kezdeményezésben hivatalból, más esetben a kérelem benyújtására jogosult személy kérésére azonnal, írásban nyilatkozik arról, hogy a bántalmazó mozgását nyomon követő technikai eszköz alkalmazásának feltételei rendelkezésre állnak-e.
+
+(1a) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a Gyvt. 51. § (5) és (10) bekezdése szerinti befogadás esetén a krízisközpont vagy a titkos menedékház képviselője is kezdeményezheti. Ebben az esetben a kezdeményező a bíróság rendelkezésére bocsátja a befogadást alátámasztó tényeket tartalmazó dokumentumot.
+
+(1b) Az (1a) bekezdés alapján kezdeményezett eljárás esetén a bántalmazott tényleges tartózkodási helyének adatait zártan kell kezelni, azokat a bántalmazó nem ismerheti meg.
 
 (2) Hivatalból indított eljárásban a rendőrség, a megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás kezdeményezése esetén a családvédelmi koordinációért felelős szerv, valamennyi rendelkezésére álló iratot, dokumentumot a bíróság rendelkezésére bocsátja.
 
@@ -214,11 +223,13 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni. A személyes meghallgatásra szóló idézés kézbesítése iránt a bíróság – szükség esetén elektronikus úton – a rendőrséget is megkeresheti. Szabályszerű az idézés, ha a fél a meghallgatásról igazolhatóan értesült.
 
-(2) Hivatalból indult eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
+(2) A hivatalból indult, illetve a krízisközpont vagy a titkos menedékház képviselője által kezdeményezett eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
 
 (3) Kérelemre indult eljárásban, ha a bántalmazott kérelmező személyesen nem jelenik meg és távolmaradását alapos indokkal nem menti ki, továbbá ha a kérelem nem tartalmazza a 14. § (3) bekezdésében meghatározottakat, a bíróság az eljárást megszünteti. Kérelemre indult eljárásban nem akadálya a döntés meghozatalának az, ha a bántalmazó nem jelenik meg személyesen a meghallgatáson.
 
 (3a) A (2) és (3) bekezdésben foglaltakra a feleket a személyes meghallgatásra szóló idézésben figyelmeztetni kell.
+
+(3b) Nincs helye az eljárás megszüntetésének, ha a krízisközpont vagy a titkos menedékház képviselője által kezdeményezett eljárásban a bántalmazott személyesen nem jelenik meg, és a távolmaradását alapos indokkal nem menti ki.
 
 (4) Az eljárásban hiánypótlásnak csak kérelemre indult eljárásban, rendkívül indokolt esetben, a kérelem hiányossága esetén van helye. Ebben az esetben a bíróság a kérelem beérkezésétől számított egy napon belül felhívja a feleket hiánypótlásra.
 
@@ -228,13 +239,19 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 (7) A személyes meghallgatáson a bíróság – a rendőrségi iratokban vagy a kérelemben foglaltakra, így különösen a hozzátartozók közötti erőszak módjára, rendszerességére, a bántalmazott kiszolgáltatott helyzetére figyelemmel – a bántalmazott és a bántalmazó egymás jelenlétében való meghallgatását részben vagy teljes egészében mellőzheti. Indokolt esetben a bíróság gondoskodik annak megakadályozásáról is, hogy a bántalmazott és a bántalmazó a bíróság épületében személyesen találkozzon. A határozat közlésére ez esetben is a 16. § (3) bekezdését kell megfelelően alkalmazni.
 
-16. § (1) A megelőző távoltartást a bíróság akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és viszonyából a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
+16. § (1) A megelőző távoltartást a bíróság akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és viszonyából, továbbá a krízisközpont vagy a titkos menedékház befogadást alátámasztó tényeket tartalmazó dokumentum adatai alapján a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
 
 (2) A megelőző távoltartást a bíróság legfeljebb hatvan napra rendelheti el.
 
 (2a) A bíróság határozata előzetesen végrehajtható. A bíróság határozatában arra is figyelmezteti a bántalmazót, hogy a távoltartó határozat szabályainak megszegése elzárással is büntethető szabálysértést valósít meg.
 
 (2b) A megelőző távoltartás elrendelésével egyidejűleg – a bántalmazott erre irányuló kérelmére – a bíróság védelmi tanúsítványt állít ki.
+
+(2c) Ha ennek technikai feltételei a rendőrség nyilatkozata alapján rendelkezésre állnak, a bíróság a bántalmazott kérelmére elrendelheti, hogy a megelőző távoltartás magatartási szabályainak megtartását a rendőrség a bántalmazó – valamint beleegyezése esetén a bántalmazott – mozgását nyomon követő technikai eszközzel, valamint alkalmazással ellenőrizze. A bíróság a technikai eszköz alkalmazásának szabályait a megelőző távoltartás magatartási szabályai között határozza meg. A megelőző távoltartás magatartási szabályainak megtartásának ellenőrzésére szolgáló technikai eszköz kiskorú személyre nem telepíthető.
+
+(2d) A (2c) bekezdés alapján elrendelt ellenőrzés céljából kiadott technikai eszköz aktiválásakor a rendőrség a bántalmazót rendeletben megállapított egyszeri díj megfizetésére kötelezi. A díjat a megállapítástól számított 30 napon belül kell megfizetni.
+
+(2e) A bántalmazó a három napon belül benyújtott kérelmére különös méltánylást érdemlő okból mentesíthető a díjfizetési kötelezettség alól. Ebben az esetben a megjelölt költséget az állam viseli.
 
 (3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
 
@@ -294,10 +311,14 @@ a védelmi tanúsítványt kiállító elsőfokú bíróság a 606/2013/EU rende
 
 ### Felhatalmazás
 
-18. § Felhatalmazást kap a Kormány, hogy rendeletben
+18. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) jelölje ki a családvédelmi koordinációért felelős szervet;
 - b) állapítsa meg az ideiglenes megelőző távoltartó határozat meghozatalának részletes szabályait.
+
+(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy a megelőző távoltartás bíróság által megállapított magatartási szabályai végrehajtásának technikai eszközzel történő ellenőrzésének részletes szabályait rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a megelőző távoltartás technikai eszközzel történő ellenőrzése végrehajtásával kapcsolatos díj összegét és megállapításának részletszabályait.
 
 18/A. § E törvény 1. § (3a) bekezdése, 6. § (5) bekezdése, 7. § (1a) bekezdése, 9. § (2a) bekezdése, 12. § (7) és (8) bekezdése, 14. § (3a) bekezdése, 16. § (2b), (3a) és (10) bekezdése, valamint 17/A. és 17/B. §-a a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

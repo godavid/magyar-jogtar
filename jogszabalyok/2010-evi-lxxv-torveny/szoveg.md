@@ -18,12 +18,13 @@ az egyszerűsített foglalkoztatásról
 
 (3) A (2) bekezdésben meghatározott napi alkalmi munkavállalói létszámkeretet a munkáltató a tárgyév napjaira egyenlőtlenül beosztva is felhasználhatja, a 2. § 3. pontjára is figyelemmel. Ennek során a tárgyévben fel nem használt létszámkeret a következő naptári évre nem vihető át.
 
-(4) Ha a munkáltató és a munkavállaló
+(4) Ha a munkavállaló
 
-- a) idénymunkára, vagy
-- b) idénymunkára és alkalmi munkára
+- a) idénymunkára,
+- b) alkalmi munkára, vagy
+- c) idénymunkára és alkalmi munkára
 
-létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együttes időtartama a naptári évben a százhúsz napot nem haladhatja meg.
+létesít több alkalommal munkaviszonyt, akkor ezen munkaviszonyok együttes időtartama a naptári évben a százhúsz napot nem haladhatja meg.
 
 (4a) A (2) és (3) bekezdésben foglaltakat filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatására, továbbá a szociális szövetkezetekben az egyszerűsített foglalkoztatás esetén nem kell alkalmazni.
 
@@ -178,6 +179,10 @@ teljesíti.
 - b) ha a bejelentésben foglaltak szerint a foglalkoztatás a bejelentés napját követő napon kezdődött, vagy ha a bejelentés egy napnál hosszabb időtartamú munkaviszonyra vonatkozott, a módosítás bejelentés napján délelőtt 9 óráig
 
 van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezettségének köteles eleget tenni. A bejelentés módosítására az (1) bekezdésben foglaltak szerint kerülhet sor, függetlenül attól, hogy bejelentési kötelezettségének eredetileg a munkáltató melyik módon tett eleget.
+
+(8) Az állami adóhatóság a munkáltató (1) bekezdés szerinti bejelentését visszautasítja, ha a munkaviszony napjainak száma az 1. § (4) bekezdésébe ütközik. A foglalkoztató ebben az esetben a 8. § (4) bekezdése szerint köteles eljárni.
+
+(9) Az 1. § (4) bekezdés feltételeinek vizsgálata céljából az egyszerűsített foglalkoztatásra irányuló jogviszony létesítését megelőzően a foglalkoztató jogosult a természetes személy adóazonosító jelének, TAJ-számának és nevének megismerésére és kezelésére. Az 1. § (4) bekezdés szerinti feltétel vizsgálatához az állami adó- és vámhatóság elektronikus lekérdezési lehetőséget biztosít.
 
 12. § (1) A munkáltató az egyszerűsített foglalkoztatással összefüggő bevallási kötelezettségét az adózás rendjéről szóló törvény (a továbbiakban: Art.) havi adó- és járulékbevallásra vonatkozó szabályai szerint elektronikusan teljesíti.
 

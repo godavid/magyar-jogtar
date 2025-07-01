@@ -4,12 +4,12 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 1. § (1) Ha a koncesszor az állami hulladékgazdálkodási közfeladat ellátását a hulladékról szóló 2012. évi CLXXXV. törvényben (a továbbiakban: Ht.) foglaltak szerint nem biztosítja vagy az bármely okból nem biztosítható, és a (2) bekezdés szerinti beavatkozás lehetősége fennáll, a Ht. szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A Ht. szerinti állami hulladékgazdálkodási közfeladat koncessziós szerződés szerinti megengedett beavatkozás lehetősége fennáll
+(2) A Ht. szerinti állami hulladékgazdálkodási közfeladat koncessziós szerződés szerinti megengedett beavatkozás lehetősége fennáll különösen
 
 - a) a Magyarországot fenyegető, a koncessziós szerződésben meghatározott rendkívüli külső események bekövetkeztekor, vagy
 - b) a koncessziós szerződésben az ellátás biztonságát, vagy a környezet állapotát súlyosan hátrányosan érintő koncesszori cselekmény vagy mulasztás esetén.
 
-(3) Az állami szerv az állami hulladékgazdálkodási közfeladat ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatás kézhezvételét követő 15 napon belül hatósági eljárás keretében hulladékgazdálkodási engedéllyel rendelkező közérdekű szolgáltatót vagy szolgáltatókat jelöl ki. A közérdekű szolgáltató az ideiglenes ellátást szolgáltatási díj fejében köteles elvégezni. A szolgáltatási díj megállapításának rendjét az e törvény végrehajtására kiadott miniszteri rendelet határozza meg.
+(3) Az állami szerv az állami hulladékgazdálkodási közfeladat ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatás kézhezvételét követő 15 napon belül hatósági eljárás keretében hulladékgazdálkodási engedéllyel rendelkező közérdekű szolgáltatót vagy szolgáltatókat jelöl ki. A közérdekű szolgáltató az ideiglenes ellátást szolgáltatási díj fejében köteles elvégezni. A szolgáltatási díj megállapításának rendjét az e törvény végrehajtására kiadott kormányrendelet határozza meg.
 
 (4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek nincs helye.
 
@@ -17,7 +17,12 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (6) Az állami szerv az ideiglenes ellátásra irányuló kijelölés során az ellátás hatékonyságához, gyorsaságához, gazdaságosságához fűződő közérdeket, továbbá a lakosság méltányos érdekeit veszi figyelembe.
 
-(7) Az ideiglenes ellátásra irányuló kijelölés az új koncessziós szerződés megkötéséig hatályos.
+(7) Az ideiglenes ellátásra irányuló kijelölés
+
+- a) a koncessziós szerződés megszűnése esetén az új koncessziós szerződés megkötéséig, vagy
+- b) az ideiglenes ellátásra a (2) bekezdés szerint okot adó körülmény fennállásáig
+
+hatályos.
 
 (8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
 
@@ -35,7 +40,7 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 csak írásban tehető meg.
 
-2. § Ha az egészségügyi államigazgatási szerv határozattal megállapítja, hogy az állami hulladékgazdálkodási közfeladat ellátásának kiesése miatt járványveszély vagy más súlyos közegészségügyi kockázat alakult ki, a települési hulladék elszállításának megszervezéséről és elvégzéséről (a továbbiakban: szükségellátás) az állami szerv gondoskodik.
+2. § Ha az egészségügyi államigazgatási szerv határozattal megállapítja, hogy az állami hulladékgazdálkodási közfeladat ellátásának kiesése miatt járványveszély vagy más súlyos közegészségügyi kockázat alakult ki, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó, jogszabályban meghatározott hulladék átvételének, gyűjtésének és előkezelésre vagy kezelésre történő elszállításának megszervezéséről és elvégzéséről (a továbbiakban: szükségellátás) az állami szerv gondoskodik.
 
 3. § (1) A hulladékgazdálkodási hatóság, valamint a koncessziós társaság – az ideiglenes ellátás, továbbá a szükségellátás megszervezéséhez szükséges – nyilvántartásában szereplő és rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
 
@@ -50,9 +55,9 @@ csak írásban tehető meg.
 
 (3) A szükségellátás megszervezéséért felelős állami szerv és az 1. § (3) bekezdése szerint kijelölt közérdekű szolgáltató közfoglalkoztatottakkal is elláthatja feladatát. A közérdekű szolgáltató az ellátásban történő közreműködése erejéig minősül közfoglalkoztatónak.
 
-(4) A hulladékkezelő létesítmény üzemeltetője a települési hulladék átvételét nem tagadhatja meg amiatt, hogy annak összegyűjtése és szállítása ideiglenes ellátás vagy szükségellátás keretében történik.
+(4) A hulladékkezelő létesítmény üzemeltetője a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladék átvételét nem tagadhatja meg amiatt, hogy annak összegyűjtése és szállítása ideiglenes ellátás vagy szükségellátás keretében történik.
 
-(5) Az ideiglenes ellátás, valamint a szükségellátás költségeit a központi költségvetés terhére kell biztosítani.
+(5) Az ideiglenes ellátás, valamint a szükségellátás költségeit a központi költségvetés terhére kell biztosítani, amely költségeket a koncessziós szerződés kártalanítással kapcsolatos rendelkezéseivel összhangban a koncessziós társaság utólag megtéríti.
 
 (5a) Az (5) bekezdés nem érinti az ingatlanhasználó hulladékgazdálkodási közszolgáltatásra vonatkozó díjfizetési kötelezettségét.
 
@@ -97,9 +102,9 @@ csak írásban tehető meg.
 4. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának kiesése esetére
 
 - a) vonatkozó részletes szabályokat;
-- b) a díjfizetés és az érintettek közötti elszámolás szabályait;
+- b) a díjfizetés, a szolgáltatási díj és a szükségellátás indokolt költsége megállapításának, valamint az érintettek közötti elszámolás szabályait;
 - c) a közérdekű szolgáltató kijelölésére irányuló hatósági eljárás lefolytatására jogosult állami szerv kijelölését;
-- d) a települési hulladék szükségellátás keretében történő elszállításának megszervezéséért felelős állami szerv kijelölését;
+- d) a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladék szükségellátás keretében történő elszállításának megszervezéséért felelős állami szerv kijelölését;
 - e) az ideiglenes ellátásra irányuló kijelölés lehetséges időtartamát.
 
 4/A. § A 2023. július 1-jét megelőzően meghozott, hulladékgazdálkodási közszolgáltatás ideiglenes ellátására vonatkozó kijelölések hatályukat vesztik.

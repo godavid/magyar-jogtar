@@ -155,6 +155,7 @@ Az egyes adók az általános rendelkezések (első rész) figyelembevételével
   - cb) a kiégett nukleáris üzemanyag tárolására használt építmény,
 - d) a magyar építészetről szóló törvény szerint műemléknek minősülő ingatlan a megszerzésének évében és az azt követő három évben,
 - e) az ingatlan-nyilvántartási állapot szerint állattartásra vagy növénytermesztésre szolgáló építmény vagy az állattartáshoz, növénytermesztéshez kapcsolódó tároló építmény (pl. istálló, üvegház, terménytároló, magtár, műtrágyatároló), feltéve, hogy az építmény az adóalany rendeltetésszerűen állattartási, növénytermesztési tevékenységéhez kapcsolódóan használja, továbbá az ingatlan-nyilvántartásban nem ilyenként feltüntetett, de az építmény fekvése szerint illetékes mezőgazdasági igazgatási szerv által kiadott hatósági igazolás szerint állattartásra, növénytermesztésre szolgáló és használt építmény és az állattartáshoz, növénytermesztéshez kapcsolódó – ilyenként használt – tároló építmény.
+- f) az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen, sportegyesület, utánpótlás-nevelés fejlesztését végző alapítvány vagy országos sportági szakszövetség tulajdonába adott ingatlanvagyon,
 
 (2) Az (1) bekezdés d) pontja szerint mentesített összegnek az illetékes önkormányzat rendeletében megállapított mértékkel számított értéke – a természetes személy tulajdonos kivételével – ingatlanonként nem lehet több 100 millió eurónak megfelelő forintösszegnél.
 
@@ -238,6 +239,7 @@ adómentesség
 - b) a mezőgazdasági művelés alatt álló belterületi telek,
 - c) az építési tilalom alatt álló telek adóköteles területének 50 %-a,
 - d) az adóalany termék-előállító üzeméhez tartozó, jogszabályban vagy hatósági előírásban megállapított védő-biztonsági terület (övezet), feltéve, ha az adóalany adóévet megelőző adóévi, évesített nettó árbevétele legalább 50%-ban saját előállítású termék értékesítéséből származik.
+- e) az egyes sportcélú állami tulajdonú vagyonelemek tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen, sportegyesület, utánpótlás-nevelés fejlesztését végző alapítvány vagy országos sportági szakszövetség tulajdonába adott ingó- és ingatlanvagyon.
 
 ### Az adókötelezettség keletkezése, változása és megszűnése
 
@@ -1009,6 +1011,7 @@ elektronikus úton megküldi az állami adóhatóság részére.
   - h) a tételes adózó vállalkozó esetén a kisadózó vállalkozók tételes adójáról szóló törvény szerinti bevétel,
   - i) sportvállalkozásnál: az a) alpont szerinti nettó árbevétel, csökkentve a sportrendezvényre szóló belépőjegy-, bérlet értékesítéséből, a reklámközzétételre irányuló szolgáltatásnyújtásból, játékjog használati jogának ideiglenes vagy végleges átadásából, a sportról szóló törvény szerinti szponzorálási szerződés alapján nyújtott szolgáltatásból, sportrendezvény televíziós, rádiós, valamint egyéb elektronikus-digitális módon való közvetítéséből, a sportról szóló törvény szerinti sportlétesítmény hasznosításából származó árbevétellel;
   - j) gyártó, forgalmazó esetén: az a) és e)–i) alpontok szerinti nettó árbevétel, csökkentve a hulladékról szóló törvény szerinti visszaváltási díj árbevételként elszámolt összegével;
+  - k) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény szerinti szerencsejáték-szervezőnél: az értékesítés nettó árbevétele csökkentve az elszámolt nyereményráfordítással;
 - 23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az egészségbiztosítási szervvel kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
 - 24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2025. január 1-jétől hatályos TEÁOR ’25 besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
 - 25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja szerint az adózás előtti eredményt csökkentő összeg, azzal, hogy a helyi iparűzési adóalap megállapítása során a felmerült költséget csak egyszer lehet figyelembe venni;

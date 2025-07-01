@@ -2115,21 +2115,21 @@ kell alkalmazni.
 
 (5) Az elkülönült vasútegészségügyi szervezet munkavállalóját a (2) és (4) bekezdés alkalmazása szempontjából az országos vasúti személyszállítási közszolgáltatást végző vasúti társaság munkavállalójának kell tekinteni.
 
-### AZ UTAZÓ VASÚTI MUNKAVÁLLALÓK JOGAI ÉS KÖTELEZETTSÉGEI
+### Az utazó vagy a zavartalan közlekedést biztosító vasúti munkavállalók jogai és kötelezettségei
 
-68/A. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók esetében.
+68/A. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni a vasúti személyszállítás, valamint a vasúti árufuvarozás körében utazó vagy a zavartalan közlekedést biztosító munkakörben foglalkoztatott munkavállalók esetében.
 
-(1a) Kollektív szerződés vagy munkaszerződés a 68/A.–68/G. §-okban foglaltaktól a munkavállaló javára térhet el.
+(2) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalóra a 68/B–68/G. § rendelkezéseit kell alkalmazni, e szabályoktól kollektív szerződés vagy munkaszerződés a munkavállaló javára térhet el.
 
-(2) Az e fejezetben foglalt rendelkezéseket nem kell alkalmazni az országhatárokon átnyúló helyi és térségi vasúti személyszállítás és az országhatár 15 kilométeres körzetét át nem lépő, országhatárokon átnyúló vasúti árutovábbítás, valamint Magyarország és a szomszédos ország határállomásai közötti szolgáltatás tekintetében.
+(3) A 68/B–68/G. § rendelkezéseit nem kell alkalmazni az országhatárokon átnyúló helyi és térségi vasúti személyszállítás és az országhatár 15 kilométeres körzetét át nem lépő, országhatárokon átnyúló vasúti árutovábbítás, valamint Magyarország és a szomszédos ország határállomásai közötti szolgáltatás tekintetében.
 
-(3) Az e fejezetben foglalt rendelkezéseket nem kell alkalmazni továbbá azon vonatok tekintetében sem, amelyek Magyarország területéről indulnak, a szomszédos ország területén keresztülhaladnak, majd Magyarország területére érkeznek vissza, amennyiben a másik ország infrastruktúráját megállás nélkül használják.
+(4) A 68/B–68/G. § rendelkezéseit nem kell alkalmazni továbbá azon vonatok tekintetében sem, amelyek Magyarország területéről indulnak, a szomszédos ország területén keresztülhaladnak, majd Magyarország területére érkeznek vissza, amennyiben a másik ország infrastruktúráját megállás nélkül használják.
 
-(4) Az (1)–(3) bekezdésben foglaltaktól eltérően a 68/B. § (1) bekezdését, a 68/F. § (1) bekezdését, (2) bekezdésének első mondatát, (3)–(4) bekezdéseit, valamint a 68/G. § rendelkezéseit az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalónak nem minősülő vasúti járművezető esetében is alkalmazni kell, azzal az eltéréssel, hogy a 68/F. § (2) bekezdésének első mondata esetében a vezetési idő hossza – függetlenül az éjszakai időben eltöltött munkaórák számától – a napi munkaidőn belül nem haladhatja meg a tíz órát.
+(5) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző munkavállalónak nem minősülő vasúti járművezető esetében a 68/H. § rendelkezéseit kell alkalmazni, amely szabályoktól kollektív szerződés vagy munkaszerződés a munkavállaló javára térhet el.
 
-(5) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalónak nem minősülő vasúti járművezető esetében a kollektív szerződés kimondhatja, hogy a vezetési időbe beletartozik az a kiindulási-, közbenső és fordulóállomási várakozási idő is, amikor a vasúti járművezető köteles a vasúti járművön tartózkodni, viszont nem tartozik bele a vasúti jármű üzembe helyezésének és üzemen kívül helyezésének időtartama, valamint a munkaközi szünet.
+(6) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző munkavállalónak nem minősülő, a vasúti személyszállítás, valamint a vasúti árufuvarozás körében utazó vagy a zavartalan közlekedést biztosító munkakörben foglalkoztatott munkavállaló esetében a 68/I. § rendelkezéseit kell alkalmazni, amely szabályoktól kollektív szerződés vagy munkaszerződés a munkavállaló javára térhet el.
 
-### Napi pihenőidő
+### Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállaló jogai és kötelezettségei
 
 68/B. § (1) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállaló esetében a lakóhelyi napi pihenőidő hossza huszonnégy órás időszakonként megszakítás nélkül legalább tizenkét óra.
 
@@ -2141,19 +2141,13 @@ kell alkalmazni.
 
 (3) A munkáltató a lakóhelyen kívüli pihenőidejét töltő utazó munkavállaló részére megfelelő kényelemmel ellátott szálláshelyet biztosít.
 
-### Munkaközi szünetek
-
 68/D. § (1) Ha az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző vonatkísérő napi munkaideje a hat órát meghaladja, a vonatkísérő részére – a munkavégzés megszakításával – legalább harminc perc munkaközi szünetet kell biztosítani.
 
 (2) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállaló részére a munkaközi szünet eltöltésére olyan körülményeket kell biztosítani, hogy a munkavállaló ténylegesen kipihenhesse magát.
 
-### Heti pihenőidő
+68/E. § (1) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók heti pihenőidejére az Mt. 106. §-át a (2) bekezdésben meghatározott eltéréssel kell alkalmazni.
 
-68/E. § (1) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók heti pihenőidejére az Mt. 105–106. §-a a (2)–(3) bekezdésekben írt eltérésekkel alkalmazandó.
-
-(2) A 68/A. § (1) bekezdésében meghatározott munkavállalónak egy naptári évben legalább 24 alkalommal megszakítás nélküli 60 órás pihenőidőt kell biztosítani, amelybe legalább 12 alkalommal a szombatnak és a vasárnapnak is bele kell esnie.
-
-(3)
+(2) A 68/A. § (2) bekezdésében meghatározott munkavállalónak egy naptári évben legalább huszonnégy alkalommal megszakítás nélküli negyvennyolc órát heti pihenőidőként kell biztosítani, amelyhez hozzá kell adni egy tizenkét órás napi pihenőidőt, és amelybe legalább tizenkét alkalommal a szombatnak és a vasárnapnak is bele kell esnie.
 
 ### A vasúti járművezetőre vonatkozó rendelkezések
 
@@ -2180,9 +2174,20 @@ alapján vezethető.
 
 (2) A munkáltató köteles a nyilvántartást az adatok bejegyzésének napjától számított legalább három évig megőrizni.
 
-#### 68/H. §
+### Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző munkavállalónak nem minősülő utazó vagy a zavartalan közlekedést biztosító vasúti munkavállalóra vonatkozó rendelkezések
 
-#### 68/I. §
+68/H. § (1) A 68/F. § (1), (3) és (4) bekezdését, valamint a 68/G. § rendelkezéseit az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalónak nem minősülő vasúti járművezető esetében is alkalmazni kell.
+
+(2) Az Mt. 108. § (2) bekezdésében meghatározott eseteket kivéve a vezetési idő hossza a teljesített napi (beosztás szerinti rendes- vagy rendkívüli) munkaidőn belül – függetlenül az éjszakai időben eltöltött munkaórák számától – nem haladhatja meg a tíz órát.
+
+(3) Kollektív szerződés rendelkezhet úgy, hogy a vezetési időbe beletartozik az a kiindulási-, közbenső és fordulóállomási várakozási idő is, amikor a vasúti járművezető köteles a vasúti járművön tartózkodni, viszont abba nem tartozik bele a vasúti jármű üzembe helyezésének és üzemen kívül helyezésének időtartama, valamint a munkaközi szünet.
+
+68/I. § (1) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalónak nem minősülő utazó vagy a zavartalan közlekedést biztosító vasúti munkavállaló számára egyenlőtlen munkaidő-beosztás esetén
+
+- a) a beosztás szerinti napi munkaidő befejezését közvetlenül követően legalább tizenegy óra egybefüggő pihenőidőt (a továbbiakban: napi pihenőidő) kell biztosítani, és
+- b) hetente legalább harminchét órás megszakítás nélküli pihenőidőt (a továbbiakban: heti pihenőidő) kell beosztani.
+
+(2) Egyenlőtlen munkaidő-beosztás esetén az Mt. 106. § (3) bekezdés a)–c) pontja szerinti tevékenység keretében foglalkoztatott munkavállaló számára kéthetente legalább huszonkilenc órát kitevő megszakítás nélküli heti pihenőidő is beosztható. Ebben az esetben a munkaidőkeret vagy az elszámolási időszak átlagában legalább heti harminchét óra megszakítás nélküli heti pihenőidőt kell beosztani.
 
 ### XIV. Fejezet — A VASÚTI KÖZLEKEDÉS IGAZGATÁSA
 
@@ -3314,6 +3319,8 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 (4) 2031. június 16. napjáig az Ügynökség általi, az (EU) 2016/797 európai parlamenti és tanácsi irányelv 19. cikkben említett előzetes engedélyezésre vonatkozó kötelezettség nem vonatkozik a 2016. június 15. napját megelőzően aláírt szerződésekben foglalt opciókra, még abban az esetben sem, ha azokkal 2016. június 15. napját követően élnek.
 
 #### 87/J. §
+
+87/K. § A közlekedési ágazat egyes kérdéseinek rendezéséről, valamint egyes közlekedési tárgyú törvények módosításáról szóló 2025. évi LV. törvénnyel megállapított 68/I. § szerinti napi pihenőidőre és heti pihenőidőre vonatkozó rendelkezések helyett az e rendelkezés hatálybalépésekor folyamatban lévő munkaidőkeret vagy elszámolási időszak tekintetében a kollektív szerződés szabályai szerint alkalmazhatóak a napi pihenőidőre és heti pihenőidőre vonatkozó rendelkezések, a munkaidőkeret vagy elszámolási időszak lejártáig.
 
 ### FELHATALMAZÁS
 

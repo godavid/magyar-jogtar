@@ -390,7 +390,7 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 
 (3) A terrorizmust elhárító szerv részére a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátásával összefüggésben a külföldi titkosszolgálatok által továbbított adatok, információk kizárólag azon külföldi titkosszolgálat előzetes hozzájárulásával továbbíthatók más adatkezelő részére, amelytől az információ származik.
 
-7/G. § (1) A központi szerv vagy a Nemzetközi Bűnügyi Együttműködési Központ képviseli a rendőrséget a nemzetközi rendvédelmi szervezetekben, különösen a Bűnügyi Rendőrség Nemzetközi Szervezetében (a továbbiakban: Interpol), a Bűnüldözési Együttműködés Európai Uniós Ügynökségében (a továbbiakban: Europol), az Ügynökségben, valamint – ha a miniszter másként nem rendelkezik – a két- és többoldalú nemzetközi szerződéseken alapuló rendészeti tárgyú nemzetközi kapcsolatokban.
+7/G. § (1) A központi szerv vagy a rendőrség nemzetközi bűnügyi együttműködési központja képviseli a rendőrséget a nemzetközi rendvédelmi szervezetekben, különösen a Bűnügyi Rendőrség Nemzetközi Szervezetében (a továbbiakban: Interpol), a Bűnüldözési Együttműködés Európai Uniós Ügynökségében (a továbbiakban: Europol), az Ügynökségben, valamint – ha a miniszter másként nem rendelkezik – a két- és többoldalú nemzetközi szerződéseken alapuló rendészeti tárgyú nemzetközi kapcsolatokban.
 
 (2) Az (1) bekezdésben foglalt rendelkezés nem akadálya annak, hogy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv – külön jogszabályban meghatározottak szerint – az Interpollal és az Europollal, bármely Europol tagállam, illetve két- vagy többoldalú nemzetközi szerződés, vagy viszonosság alapján bármely más állam rendvédelmi szervével közvetlenül kapcsolatot tartson a központi szerv egyidejű tájékoztatása mellett.
 
@@ -976,6 +976,7 @@ készítése
 - b) (5a) és (5c) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indult büntető-, szabálysértési vagy fegyelmi eljárás során, vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 - c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében,
 - d) a (2) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátásának szervezése, koordinálása és irányítása céljából
+- e) közlekedésrendészeti intézkedés során az (1) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat az állami adó- és vámhatóságnak a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 13. § (8) bekezdés j) pontjában meghatározott feladata teljesítése céljából
 
 használható fel.
 
@@ -1001,7 +1002,7 @@ készített felvételt.
 
 42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5)–(5c) és (5e) bekezdése szerint rögzített felvételből
 
-- a) – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági, valamint az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátása céljából – a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság,
+- a) feladatkörükben a 42. § (6) bekezdésében meghatározott célból a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a titkos információgyűjtésre feljogosított szerv, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami adó- és vámhatóság,
 - b) jogainak gyakorlása érdekében az érintett, valamint
 - c) a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy
 
@@ -1168,7 +1169,7 @@ igényelhet adatot.
 
 46/L. § (1) Az Europol által javasolt információs figyelmeztető jelzés elhelyezését – az elrendelés alapjául szolgáló információtól függően – az országos rendőrfőkapitány vagy a terrorizmust elhárító szerv főigazgatója hagyja jóvá.
 
-(2) A jóváhagyást követően a Nemzetközi Bűnügyi Együttműködési Központ, vagy a terrorizmust elhárító szerv információs figyelmeztető jelzést helyez el a Schengeni Információs Rendszerben olyan harmadik országbeli állampolgárral szemben, aki vonatkozásában az Europol erre javaslatot tett harmadik országoktól vagy nemzetközi szervezetektől kapott információ alapján terrorista vagy súlyos bűncselekménynek minősülő bűncselekményben való érintettség miatt.
+(2) A jóváhagyást követően a rendőrség nemzetközi bűnügyi együttműködési központja, vagy a terrorizmust elhárító szerv információs figyelmeztető jelzést helyez el a Schengeni Információs Rendszerben olyan harmadik országbeli állampolgárral szemben, aki vonatkozásában az Europol erre javaslatot tett harmadik országoktól vagy nemzetközi szervezetektől kapott információ alapján terrorista vagy súlyos bűncselekménynek minősülő bűncselekményben való érintettség miatt.
 
 (3) Ha a rendőr az e fejezetben meghatározott intézkedése során megállapítja, hogy az intézkedéssel érintett személy azonos a Schengeni Információs Rendszerben elhelyezett információs figyelmeztető jelzés szerinti harmadik országbeli állampolgárral, rögzíti a rendőri intézkedés megtörténtének tényét és az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 37b. cikk (1) bekezdése szerinti adatokat, valamint az e fejezetben meghatározott intézkedéseket foganatosíthatja.
 
@@ -2234,7 +2235,7 @@ részére.
 
 (4) A rendőrség az (1) bekezdés e) pont szerinti bejelentést terrorfenyegetettség vizsgálata céljából a terrorizmust elhárító szervnek, a nemzetbiztonsági érdek vizsgálata céljából az Alkotmányvédelmi Hivatalnak továbbíthatja.
 
-(5) A rendőrség a bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során, a magatartási szabályok megtartásának ellenőrzése, valamint az ezzel összefüggő jogviták tisztázása céljából – a kényszerintézkedés időtartama alatt és annak megszűnésétől számított további 1 évig – kezeli a kényszerintézkedés alá vont személy
+(5) A rendőrség a bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, a reintegrációs őrizet, valamint a megelőző távoltartás keretében előírt magatartási szabályok megtartásának ellenőrzése során, a magatartási szabályok megtartásának ellenőrzése, valamint az ezzel összefüggő jogviták tisztázása céljából – az intézkedés időtartama alatt és annak megszűnésétől számított további 1 évig – kezeli az intézkedés alá vont személy
 
 - a) azonosításához szükséges fényképlenyomatot,
 - b) vezeték- és utónevét,
@@ -2242,10 +2243,10 @@ részére.
 - d) születési helyét és idejét,
 - e) anyja születési családi és utónevét,
 - f) telefonszámát,
-- g) lakóhelyét, illetve kijelölt tartózkodási helyét, valamint azok GPS koordinátáit,
+- g) lakóhelyét, illetve kijelölt tartózkodási helyét, valamint azok GPS-koordinátáit,
 - h) által beszélt nyelvre vonatkozó adatokat,
 - i) által elkövetett bűncselekmény adatait,
-- j) vonatkozásában elrendelt kényszerintézkedés időtartamát,
+- j) vonatkozásában elrendelt intézkedés időtartamát,
 - k) vonatkozásában elrendelt magatartási szabályokat, illetve a magatartási szabályok megszegésével összefüggő adatokat.
 
 (6) A bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során keletkezett adatállományból a rendőrség a 91/E. § (1)–(5) bekezdése alapján továbbíthat adatokat.

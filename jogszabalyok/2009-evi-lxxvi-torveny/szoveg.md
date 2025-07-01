@@ -129,7 +129,9 @@ eltérően nem rendelkezik, a szolgáltató szabadon választhatja meg az által
 - b) az ügyvédi tevékenységről szóló törvény szerinti európai közösségi jogász bírósági vagy hatósági eljárás során ellátott képviseleti tevékenységére,
 - c) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre.
 
-### A határon átnyúló szolgáltatásnyújtáseseti korlátozása
+### A határon átnyúló szolgáltatásnyújtás
+
+eseti korlátozása
 
 10. § (1) Ha a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében Magyarország területén folytatott szolgáltatási tevékenysége során
 
@@ -153,9 +155,17 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (4) A (2) bekezdésben meghatározott tilalmak és feltételek megsértése miatt a fogyasztóvédelmi hatóság kijelöléséről szóló kormányrendeletben kijelölt hatóság jár el a fogyasztóvédelemről szóló törvényben meghatározott eljárási szabályok szerint.
 
+### Készpénzhasználattal kapcsolatos rendelkezés
+
+11/A. § (1) Az e törvény hatálya alá tartozó szolgáltatási tevékenység során a szolgáltató a természetes személy fogyasztó részére a fogyasztóvédelemről szóló törvényben foglaltak szerint biztosítja a szolgáltatás ellenértékének készpénzzel történő fizetési lehetőségét.
+
+(2) A fogyasztóvédelemről szóló törvény szerinti olyan online szolgáltatási szerződések esetében, amelyek határon átnyúló szolgáltatásnyújtásra irányulnak, az e törvény hatálya alá tartozó tevékenységet folytató nem köteles biztosítani a készpénzhasználatot.
+
 ### II. Fejezet — A SZOLGÁLTATÁSI TEVÉKENYSÉG MEGKEZDÉSÉVEL ÉS FOLYTATÁSÁVAL ÖSSZEFÜGGŐ ELJÁRÁSOK
 
-### A szolgáltatási tevékenység megkezdésévelés folytatásával összefüggő eljárásokban alkalmazandó szabályok
+### A szolgáltatási tevékenység megkezdésével
+
+és folytatásával összefüggő eljárásokban alkalmazandó szabályok
 
 12. § (1) A szolgáltatási tevékenység megkezdéséhez vagy folytatásához előírt, a szolgáltatók nyilvántartására, továbbá a szolgáltatási tevékenység folytatásának ellenőrzésére és a jogsértő szolgáltatási tevékenység esetén a jogkövetkezmények megállapítására irányuló közigazgatási hatósági és bírósági eljárásra irányadó szabályokat az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
@@ -184,7 +194,9 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (2) Ha a hatóságnak nincs hivatalos tudomása az (1) bekezdés szerinti más EGT-állam joga szerinti követelmény tartalmáról, és az érintett szolgáltató a követelmények tartalmát és azok teljesítését nem igazolja, megkeresi az érintett EGT-állam illetékes hatóságát vagy, ha az célszerűbb, a 32. § szerinti központi kapcsolattartót, hogy szolgáltasson adatot az adott EGT-államban alkalmazandó követelményekről és azok ellenőrzéséről.
 
-### Más EGT-állam illetékes hatóságai általkiállított iratok elismerése
+### Más EGT-állam illetékes hatóságai által
+
+kiállított iratok elismerése
 
 16. § (1) A szolgáltatási tevékenység megkezdésére vagy folytatására vonatkozó, jogszabályban meghatározott követelmény igazolásául el kell fogadni a valamely más EGT-állam illetékes hatósága által az érintett követelmény igazolására vagy azzal egyenértékű célból kiállított iratot, valamint a valamely más EGT-állam illetékes hatósága által kiállított bármely olyan egyéb iratot, amelyből az érintett követelménynek való megfelelés egyértelműen megállapítható.
 
@@ -207,7 +219,9 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (3) A valamely EGT-államban letelepedett, ott jogszerűen működő hitelintézetnek vagy biztosítótársaságnak a szakmai biztosíték meglétére vonatkozó igazolását elégséges bizonyítékként kell elfogadni.
 
-### Gazdasági indokoltság vizsgálatának tilalmaaz engedélyezés során
+### Gazdasági indokoltság vizsgálatának tilalma
+
+az engedélyezés során
 
 18. § A szolgáltatási tevékenység megkezdésére és folytatására való jogosultsággal összefüggő engedélyezési eljárás során a szolgáltatási tevékenység megkezdésének vagy folytatásának gazdasági indokoltsága, az esetleges piaci igények vagy a tevékenység bármilyen egyéb lehetséges vagy tényleges gazdasági hatásai nem vizsgálhatók, és erre vonatkozó adatok igazolása az ügyféltől nem kérhető.
 
@@ -294,7 +308,9 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (3) A szolgáltatás felügyeletét ellátó hatóság az adott szolgáltatási tevékenység tekintetében törli a nyilvántartásból azt a szolgáltatót, aki a tevékenység végzésére a továbbiakban nem jogosult.
 
-### Bejelentéshez kötött tevékenységet folytatószolgáltatók nyilvántartása
+### Bejelentéshez kötött tevékenységet folytató
+
+szolgáltatók nyilvántartása
 
 27. § (1) A bejelentéssel összefüggő eljárásban a szolgáltatás felügyeletét ellátó hatóság a szolgáltatót a 23. § (1) bekezdés a) pontja szerinti bejelentés megérkezését követő naptól számított tizenöt napon belül hivatalból nyilvántartásba veszi, kivéve, ha az ellenőrzési eljárás keretében megállapította, hogy a szolgáltató nem felel meg az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban foglalt előírásoknak.
 
@@ -313,7 +329,9 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 - b) a szolgáltató a szolgáltatási tevékenység megszüntetését bejelentette, vagy
 - c) a bejelentés lejárt.
 
-### Szolgáltatók nyilvántartására vonatkozóközös szabályok
+### Szolgáltatók nyilvántartására vonatkozó
+
+közös szabályok
 
 29. § (1) A szolgáltatás felügyeletét ellátó hatóság nyilvántartást vezet azon szolgáltatókról, amelyek tekintetében a szolgáltatási tevékenység folytatását végleges döntésével megtiltotta.
 
@@ -507,7 +525,7 @@ a jogsértést megállapító határozat, vagy – a b) pont szerinti esetben �
 
 47. § Ha a hatóság tudomást szerez valamely szolgáltatónak a szolgáltatási tevékenység folytatásával összefüggő olyan jogsértő magatartásáról, amely Magyarország területén vagy más EGT-államban a szolgáltatás igénybe vevőjének vagy más személynek az életét, testi épségét súlyosan sérti vagy veszélyezteti, vagy amely a környezetben súlyos kárt okoz vagy ilyen kár veszélyével fenyeget, a külön jogszabályban meghatározottak szerint értesíti az Európai Bizottságot és – ha a szolgáltató más EGT-államban letelepedett – a szolgáltató letelepedésének helye szerinti EGT-államot, valamint az érintett többi EGT-államot.
 
-48. §
+#### 48. §
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -519,7 +537,7 @@ a jogsértést megállapító határozat, vagy – a b) pont szerinti esetben �
 
 ### A 2006/123/EK európai parlamenti és tanácsi irányelv szerinti jelentéstételi kötelezettségek
 
-50. §
+#### 50. §
 
 ### A 2006/123/EK irányelv szerinti bejelentési kötelezettségek
 
@@ -561,7 +579,7 @@ az Európai Bizottság részére történő bejelentéséről.
 
 ### Felülvizsgálat
 
-54. §
+#### 54. §
 
 ### Átmeneti és hatályon kívül helyező rendelkezések
 

@@ -358,7 +358,11 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 21/C. § Ha az útlevélhatóság határozatának meghozatala az ügyfél magyar állampolgárságának megállapításától mint előkérdés előzetes elbírálásától függ, a közreműködő hatóság vagy az általános hatáskörű útlevélhatóság az eljárást felfüggeszti.
 
-#### 21/D. §
+21/D. § Nem kell az úti okmány belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat fizetni
+
+- a) kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett eljárás esetén,
+- b) a korábbi okmány gyártáshibája esetén,
+- c) a korábbi okmány tároló elemének nem működése esetén, vagy ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az okmánynak az útiokmány-nyilvántartásban szereplő adatait.
 
 #### 21/E. §
 
@@ -578,7 +582,7 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 (5) Az adatszolgáltatási ügyekben az ügyintézési határidő 20 nap. Az adatszolgáltatás elektronikus információátadás keretén kívül is teljesíthető.
 
-(6) Az (1) és (2) bekezdésben meghatározott adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni. Mentes a díjfizetési kötelezettség alól a települési önkormányzat, a közjegyző, a bírósági végrehajtó és a költségvetési szerv, illetve törvényben meghatározott egyéb szerv vagy személy.
+(6) Az adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni. Mentes a díjfizetési kötelezettség alól a települési önkormányzat, a költségvetési szerv, a közjegyző, az önálló bírósági végrehajtó, illetve törvényben meghatározott egyéb szerv vagy személy.
 
 (7) Az adatkezelő szerv a külön törvényben vagy a polgár ügyintézési rendelkezésében meghatározott szervek számára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, illetve a polgár ügyintézési rendelkezése alapján
 

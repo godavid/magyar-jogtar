@@ -210,9 +210,9 @@ eredő fizetési kötelezettségek teljesítéséért.
 (1b) Amennyiben az (1) bekezdés szerinti követelés
 
 - a) behajtása során a követelés részleges elengedésére kerül sor és ezáltal a követelés összegének teljes megtérülése nem várható, vagy
-- b) értékesítése során az értékesítés eredményeként a vételár nem éri el a követelés összegét, és valószínűsíthető, hogy a további behajtási tevékenységgel szemben a követelés részleges elengedése, illetve a követelés értékesítése kedvezőbb a központi költségvetés számára, úgy az (1a) bekezdés szerinti megállapodás megkötéséhez, valamint a követelés értékesítéséhez az államháztartásért felelős miniszter előzetes jóváhagyása szükséges. Az Eximbank és a Mehib a döntés meghozatalához köteles az államháztartásért felelős miniszter részére bemutatni a követelés részleges elengedésének, a követelés értékesítésének indokait a behajtás körülményeinek és a költségeinek ismertetése mellett.
+- b) értékesítése során az értékesítés eredményeként a vételár nem éri el a követelés összegét,
 
-és valószínűsíthető, hogy a további behajtási tevékenységgel szemben a követelés részleges elengedése, illetve a követelés értékesítése kedvezőbb a központi költségvetés számára, úgy az (1a) bekezdés szerinti megállapodás megkötéséhez, valamint a követelés értékesítéséhez az államháztartásért felelős miniszter előzetes jóváhagyása szükséges. Az Eximbank és a Mehib a döntés meghozatalához köteles az államháztartásért felelős miniszter részére bemutatni a követelés részleges elengedésének, a követelés értékesítésének indokait a behajtás körülményeinek és a költségeinek ismertetése mellett. Külföldi kötelezettel szemben fennálló követelés esetén az államháztartásért felelős miniszter a külgazdasági ügyekért felelős miniszter írásos véleményének ismeretében dönt.
+és valószínűsíthető, hogy a további behajtási tevékenységgel szemben a követelés részleges elengedése, illetve a követelés értékesítése kedvezőbb a központi költségvetés számára, úgy az (1a) bekezdés szerinti megállapodás megkötéséhez, valamint a követelés értékesítéséhez az államháztartásért felelős miniszter előzetes jóváhagyása szükséges. Az Eximbank és a Mehib a döntés meghozatalához köteles az államháztartásért felelős miniszter részére bemutatni a követelés részleges elengedésének, a követelés értékesítésének indokait a behajtás körülményeinek és a költségeinek ismertetése mellett.
 
 (1c) A számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 10. pont c)–g) alpont alapján behajthatatlan követelésről a behajthatatlanná minősítést követő év végén az állam e törvény erejénél fogva lemond. E követelésekről az Eximbank és a Mehib a lemondást követő 30 napon belül írásban tájékoztatja az államháztartásért felelős minisztert.
 
@@ -317,7 +317,7 @@ szerzett.
 
 (2)
 
-(3) Az 575/2013/EU rendelet Első rész II. cím 2. fejezetének alkalmazásában az Eximbank pénzügyi vállalkozásnak minősül.
+(3) A Hpt. 172–176. §-a és az 575/2013/EU rendelet Első rész II. cím 2. fejezetének alkalmazásában az Eximbank pénzügyi vállalkozásnak minősül.
 
 (4) Az Eximbank nem alkalmazza az 575/2013/EU rendelet 411–428. cikkében foglaltakat.
 

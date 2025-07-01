@@ -544,7 +544,7 @@ A NYILVÁNTARTÁSBÓL
   - hb) a várakozásidíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
   - hc) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a) és b) pontjában, a 9. § (1) bekezdés d) pont da) és db) alpontjában és a 9. § (1) bekezdés e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/D. § (1) bekezdés a)–c) pontjában, a 9/D. § (1) bekezdés d) pont da) és db) alpontjában és a 9/D. § (1) bekezdés e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és a 9/D. § (3) bekezdésében megjelölt adatokat;
 - i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
-- j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműködési Központ útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;
+- j) nemzetközi bűnüldözési szervezet a rendőrség nemzetközi bűnügyi együttműködési központja útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;
 - k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 - l) a térítésmentesen a gépjármű-felelősségbiztosítást ellátó biztosító a biztosítási szerződés megkötéséhez, nyilvántartásához, módosításához, megszüntetéséhez, továbbá a kárrendezési eljáráshoz, valamint a Magyar Biztosítók Szövetsége a Gfbt. 56. § (1) bekezdése szerinti feladatainak ellátásához a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában, a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 - m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
@@ -660,6 +660,7 @@ A NYILVÁNTARTÁSBÓL
 - d) az elsősegély-nyújtási ismeretek megszerzésére,
 - e) a kategóriára vonatkozó vezetési jogosultság megszerzésére vagy az az alóli mentesülésre,
 - f) a vezetői engedély automatikus kiállításához szükséges nyilatkozataira
+- g) a megfizetett igazgatási szolgáltatási díjak megfizetésére
 
 vonatkozó adatairól.
 
@@ -951,7 +952,7 @@ bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (2) Az ügyfelet költségmentesség illeti meg az eltulajdonítás miatt, hivatalból, átmeneti időszakra forgalomból kivont jármű forgalomba helyezése iránt benyújtott kérelem alapján indult eljárásban.
 
-(3) Az (1) bekezdés a) pontjában foglalt esetekben az ügyfelet költségmentesség illeti meg, amennyiben a vezetői engedély kiállítására automatikus eljárás keretében kerül sor.
+(3)
 
 ### VI. Fejezet — ÁTMENETI, ZÁRÓ, FELHATALMAZÓ RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
