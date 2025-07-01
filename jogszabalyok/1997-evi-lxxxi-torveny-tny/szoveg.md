@@ -801,6 +801,8 @@ utólag kell folyósítani.
 
 (8) A nyugdíjfolyósító szerv a késedelmesen folyósított nyugellátás összege után – a határidő lejártát követő naptól – a Polgári Törvénykönyv szerinti késedelmi kamatot (a továbbiakban: késedelmi kamat) fizet, ha a késedelmi kamat összege meghaladja az 1000 forintot.
 
+(9) A nyugdíjfolyósító szerv a minimálbér változása miatt módosuló, a bírósági végrehajtásról szóló törvény szerinti levonási összeghatárt első alkalommal a minimálbér megállapításáról rendelkező jogszabály hatálybalépését követő hónapban általa folyósított ellátásokból történő letiltás során alkalmazza azzal, hogy az ezt megelőző időszakra visszamenőlegesen elszámolt ellátásból levonható összeget a korábban hatályos minimálbér alapulvételével állapítja meg.
+
 ### Az igény érvényesítésének egyéb szabályai
 
 80. § (1) Ha a nyugdíjbiztosítási igazgatási szerv a nyugellátás iránti igényt jogszabálysértően utasította el, a nyugellátást – kérelemre vagy hivatalból – az eredeti igénybejelentés időpontjának figyelembevételével meghatározott időponttól kezdődően állapítja meg.

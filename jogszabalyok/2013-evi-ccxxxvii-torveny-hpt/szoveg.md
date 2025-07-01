@@ -192,6 +192,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 63. közös vezetésű vállalat: az Szmt. meghatározása szerinti közös vezetésű vállalat;
 - 64. központi szervhez tartósan kapcsolt hitelintézet: az 575/2013/EU rendelet 10. cikkének megfelelő mentesítést kapó hitelintézet;
 - 65. központi szerződő fél: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+- 65a. központi visszaélésszűrő rendszer: olyan – e törvény hatálya alá tartozó, fizetési rendszert működtető pénzügyi vállalkozás által üzemeltetett – rendszer, amely a fizetési rendszer működtetése tevékenység keretében rendelkezésre álló, valamint a fizetési rendszerben részt vevő pénzforgalmi szolgáltatóktól átvett adatok elemzése alapján a fizetési művelet vonatkozásában visszaélési kockázati információk elérhetőségét biztosítja a fizetési művelet lebonyolításában részt vevő azon pénzforgalmi szolgáltatók részére, amelyek a pénzügyi vállalkozás által működtetett fizetési rendszer tagjai;
 - 66. közvetett tulajdon: egy vállalkozás tulajdoni hányadának, vagy szavazati jogának a vállalkozásban tulajdoni részesedéssel vagy szavazati joggal rendelkező más vállalkozás (a 3. melléklet alkalmazásában: köztes vállalkozás) tulajdoni hányadán vagy szavazati jogán keresztül történő birtoklása vagy gyakorlása;
 - 66a. közvetítői alvállalkozó: közvetítővel pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, egyéni cég és egyéni vállalkozó;
 - 67. közvetítői díj: minden olyan pénzben vagy természetben juttatott térítés, amelyet a közvetítő akár az ügyféltől, akár a pénzügyi szolgáltatást nyújtó személytől az ügyfél és a pénzügyi szolgáltatást nyújtó személy között létrejött pénzügyi szolgáltatásra vonatkozó megállapodás érvényes létrejöttéért és meghatározott esetekben annak teljesítéséért, illetve meghatározott időtartamig történő fennállásáért kap;
@@ -602,7 +603,7 @@ induló tőkével alapítható.
 - d) a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság nem hoz olyan irányítási, működési vagy pénzügyi döntést, amely a csoport egészét vagy annak olyan leányvállalatát érinti, amely pénzügyi intézménynek, befektetési vállalkozásnak minősül, és
 - e) nincs semmilyen akadálya a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot tartalmazó csoport összevont alapú felügyeletének.
 
-(3) A (2) bekezdés esetén a pénzügyi holding társaság és a vegyes tevékenységű holding társaság a Felügyelet rendelkezésére bocsátja azon információkat, amelyek ahhoz szükségesek, hogy a Felügyelet nyomon tudja követni a csoport szervezeti felépítését, valamint e § és a 31/A. § teljesülését. A Felügyelet megosztja ezeket az információkat a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság székhelye szerinti EGT-állam illetékes hatóságával.
+(3) A pénzügyi holding társaság és a vegyes tevékenységű holding társaság a Felügyelet rendelkezésére bocsátja azon információkat, amelyek ahhoz szükségesek, hogy a Felügyelet nyomon tudja követni a csoport szervezeti felépítését, valamint e § és a 31/A. § teljesülését. A Felügyelet megosztja ezeket az információkat a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság székhelye szerinti EGT-állam illetékes hatóságával.
 
 16. § A Felügyelet az e törvényben meghatározott engedélyt határozott időre, feltételhez kötötten, valamint korlátozott tevékenységi körrel, területi korlátozással, a pénzügyi szolgáltatási tevékenységen belül pedig üzletági vagy termékkorlátozással is megadhatja.
 
@@ -1336,15 +1337,7 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (5) Ha a hitelintézet és a pénzügyi vállalkozás a jelentős kiberfenyegetést az (EU) 2022/2554 európai parlamenti és tanácsi rendelet 19. cikkének megfelelően önkéntesen bejelenti a Felügyeletnek, a bejelentést ezzel egyidejűleg a nemzeti kiberbiztonsági incidenskezelő központnak (CSIRT) is megteszi.
 
-67/B. § (1) A pénzügyi szolgáltatói tevékenység – a kiegészítő pénzügyi szolgáltatás kivételével – végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a hitelintézetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
-
-(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket külön jogszabály határozza meg.
-
-(3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a hitelintézet informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a hitelintézet folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a hitelintézet belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.
-
-(4) A tanúsító szervezet és alvállalkozója a vizsgált intézmény kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a személyes adatokat és üzleti titkokat is – a tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
-
-(5) A tanúsító szervezet és alvállalkozója köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is.
+#### 67/B. §
 
 #### 28. Kiszervezés
 
@@ -1527,12 +1520,9 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 - b) a csatlakozott pénzforgalmi szolgáltatók jogaira és kötelezettségeire vonatkozó eltérő szabályokat, és
 - c) az intézményi formára vonatkozó bármilyen korlátozást.
 
-(4) Az (1)–(3) bekezdés szerinti rendelkezések nem alkalmazandók
+(4) Az (1)–(3) bekezdés szerinti rendelkezések nem alkalmazandók a kizárólag ugyanazon csoporthoz tartozó pénzforgalmi szolgáltatók által működtetett fizetési rendszerre.
 
-- a) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) alapján kijelölt rendszerre,
-- b) a kizárólag ugyanazon csoporthoz tartozó pénzforgalmi szolgáltatók által működtetett fizetési rendszerre.
-
-(5) Ha a (4) bekezdés a) pontja szerinti kijelölt rendszerben részt vevő csatlakozó lehetővé teszi a rendszerben nem részt vevő pénzforgalmi szolgáltató számára, hogy a rendszeren keresztül átutalási megbízást küldjön, akkor objektív, arányos és diszkriminációmentes módon ugyanezen lehetőséget a rendszerhez nem csatlakozó más pénzforgalmi szolgáltató számára is biztosítja. A résztvevőnek az elutasítást teljeskörűen meg kell indokolnia a kérelmező pénzforgalmi szolgáltató számára.
+(5) Ha a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) alapján kijelölt rendszerben részt vevő csatlakozó lehetővé teszi a rendszerben nem részt vevő pénzforgalmi szolgáltató számára, hogy a rendszeren keresztül transzfer megbízást küldjön, akkor objektív, arányos és diszkriminációmentes módon ugyanezen lehetőséget a rendszerhez nem csatlakozó más pénzforgalmi szolgáltató számára is biztosítja. A résztvevőnek az elutasítást teljeskörűen meg kell indokolnia a kérelmező pénzforgalmi szolgáltató számára.
 
 #### 34. Pénzfeldolgozási tevékenység
 
@@ -1861,7 +1851,7 @@ a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy t
 
 (3) A hitelintézet a maximálisan kifizethető összeg és a kifizethető nyereség meghatározása érdekében pontos és megbízható rendszerrel rendelkezik. A hitelintézet a pontosságot a Felügyelet kérésére igazolja.
 
-96. § (1) Ha a hitelintézet nem teljesíti a kombinált pufferkövetelményt, akkor a nemteljesítés megállapításától számított öt munkanapon belül tőkefenntartási tervet készít és jóváhagyásra benyújtja a Felügyelet számára.
+96. § (1) Ha a hitelintézet nem teljesíti a kombinált pufferkövetelményt, illetve adott esetben a tőkeáttételi mutató pufferkövetelményt,, akkor a nemteljesítés megállapításától számított öt munkanapon belül tőkefenntartási tervet készít és jóváhagyásra benyújtja a Felügyelet számára.
 
 (2) Az (1) bekezdéstől eltérve, a Felügyelet legfeljebb tíz munkanapot is engedélyezhet a tőkefenntartási terv elkészítésére és benyújtására a hitelintézet egyedi helyzete, tevékenységének mérete és összetettsége alapján.
 
@@ -1871,7 +1861,7 @@ a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy t
 - b) mérlegtervre,
 - c) az 575/2013/EU rendelet 92. cikkében meghatározott tőkemegfelelési mutatók értékének növelése tekintetében a szükséges intézkedésekre,
 - d) a szavatoló tőke szintjének emelésére irányuló tervre, valamint
-- e) a kombinált pufferkövetelmény teljesítésének ütemezésére
+- e) a kombinált pufferkövetelmény vagy adott esetben a tőkeáttételi mutató pufferkövetelmény teljesítésének ütemezésére
 
 vonatkozó információkat.
 
@@ -1919,7 +1909,7 @@ a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy t
 
 - a) az általa kiszámított maximálisan kifizethető összegről,
 - b) a kifizethető nyereség kifizetésének szándékáról, és
-- c) a 94. § (3) bekezdése szerinti korlátozásról.
+- c) a 96/A. § (4) bekezdése szerinti korlátozásról.
 
 (2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatás keretében a Felügyelet rendelkezésére bocsátja a szükséges információkat:
 
@@ -2045,7 +2035,7 @@ ha azt az egyéb befektetésektől elkülönítve tartja nyilván, és elkülön
 
 105/B. § (1) Ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézetnek, befektetési vállalkozásnak EGT-államban letelepedett egyetlen közbenső EU-szintű anyavállalattal kell rendelkeznie.
 
-(2) A Felügyelet a másik EGT-állam illetékes felügyeleti hatóságával közösen engedélyezheti, hogy az ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézet, befektetési vállalkozás két közbenső EU-szintű anyavállalattal rendelkezzen, ha az egyetlen közbenső EU-szintű anyavállalat létrehozása
+(2) A Felügyelet engedélyezheti, hogy az ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézet, befektetési vállalkozás két közbenső EU-szintű anyavállalattal rendelkezzen, ha az egyetlen közbenső EU-szintű anyavállalat létrehozása
 
 - a) nem lenne összeegyeztethető a tevékenységek különválasztását előíró kötelező előírással, amelyet azon harmadik ország szabályai vagy felügyeleti hatóságai írnak elő, ahol a harmadik országbeli csoport legfelső szintű anyavállalatának székhelye van, vagy
 - b) a közbenső EU-szintű anyavállalat illetékes szanálási hatósága által elvégzett értékelés szerint kevésbé hatékony szanálást tenne lehetővé, mint két közbenső EU-szintű anyavállalat.
@@ -2165,7 +2155,7 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 - c) a hitelintézet a finanszírozási pozíciók azonosítására, mérésére, kezelésére és nyomon követésére belső szabályzatot dolgoz ki, amely tartalmazza az eszközökből, a forrásokból, a mérlegen kívüli tételekből – ideértve a függő kötelezettségeket is – eredő aktuális és várható pénzáramlásokat, valamint a hírnévkockázat esetleges hatásai miatti becsült pénzáramlásokat is,
 - d) a hitelintézet egy esetleges válsághelyzetre történő felkészülés érdekében elkülönítetten kezeli a dologi biztosítékkal terhelt, és a bármikor szabadon felhasználható eszközöket, valamint figyelembe veszi
   - da) azt a személyt vagy szervezetet, akinek vagy amelynek az eszköz a birtokában van,
-  - db) azt az országot, amelyben az eszköz nyilvántartásban vagy számlán szerepel,
+  - db) azt az országot és pénznemet, amelyben az eszköz nyilvántartásban vagy számlán szerepel,
   - dc) az eszközök likviditási többlettartalékként történő beszámíthatóságát, és figyelemmel kíséri azt, hogy a likviditási tartalékok kellő idő alatt mozgósíthatók-e,
   - dd) azon jogi, szabályozói és műveleti korlátozásokat, amelyek a likviditás és a szabadon felhasználható eszközök EGT-államok közötti és harmadik országokba történő esetleges átruházására vonatkoznak,
 - e) a hitelintézet likviditási kockázatot mérséklő eszközöket alkalmaz, ideértve a megfelelő limitrendszert, a különféle stressz eseménykor is fedezetet nyújtó likviditási többlettartalékokat, a kellően diverzifikált finanszírozási szerkezetet, valamint különféle finanszírozási forrásokhoz való hozzáférést is, amelyeket rendszeresen – legalább évente egyszer – felülvizsgál,
@@ -3034,6 +3024,8 @@ e szervek írásbeli megkeresése alapján, ha teljesülnek a (7b) bekezdésben 
 
 (10) Nem jelenti az üzleti titok sérelmét a 164/B. § szerinti adattovábbítás.
 
+(11) Nem jelenti az üzleti titok sérelmét a fizetési rendszerben részt vevő hitelintézet által a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszerébe történő, valamint a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszeréből a fizetési rendszerben részt vevő hitelintézet, valamint a nyomozó hatóság részére, a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából történő, jogszabályban előírt adattovábbítás.
+
 #### 71. Banktitok
 
 160. § (1) Banktitok minden olyan, az egyes ügyfelekről a pénzügyi intézmény rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzügyi intézmény által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.
@@ -3058,7 +3050,7 @@ e szervek írásbeli megkeresése alapján, ha teljesülnek a (7b) bekezdésben 
 - e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 - f) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 - g) a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
-- h) az adó-, vám- és egészségbiztosítási, nyugdíjbiztosítási igazgatási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása, továbbá a jogalap nélkül felvett ellátás összegének megtérülése érdekében eljáró adóhatósággal, vámhatósággal, illetve egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel,
+- h) az adó-, vám- és egészségbiztosítási, nyugdíjbiztosítási igazgatási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása, továbbá a jogalap nélkül felvett ellátás összegének megtérülése érdekében eljáró adóhatósággal, vámhatósággal, egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel, illetve szociális hatáskört gyakorló szervvel,
 - i) bírósági végrehajtási eljárásban és a bírósági végrehajtó által lefolytatott közigazgatási végrehajtási eljárásban – ideértve a bírósági végrehajtásról szóló 1994. évi LIII. törvény 79/C. § (2) bekezdése alapján a közös számla nem adós tulajdonosának nevére és címére vonatkozó megkeresést is – eljáró végrehajtóval, valamint a bírósági végrehajtási eljárásba a lakáscélú állami támogatásokról szóló kormányrendeletek alapján bekapcsolódni szándékozó lakáscélú állami támogatások ügyében eljáró szervvel,
 - j) a feladatkörében eljáró alapvető jogok biztosával,
 - k) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Unió működéséről szóló szerződés 107. cikk hatálya alá tartozó állami támogatások – az Európai Unió működéséről szóló szerződésben szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
@@ -3194,6 +3186,8 @@ kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez 
 
 164/C. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a pénzügyi intézmény a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
 
+164/C. § Nem jelenti a banktitok sérelmét a fizetési rendszerben részt vevő hitelintézet által a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszerébe történő, valamint a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszeréből a fizetési rendszerben részt vevő hitelintézet, valamint a nyomozó hatóság részére, a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából történő, jogszabályban előírt adattovábbítás.
+
 #### 72. Üzleti titok és banktitok közös szabályai
 
 165. § (1) Aki üzleti vagy banktitok birtokába jut, köteles azt időbeli korlátozás nélkül megtartani.
@@ -3205,6 +3199,8 @@ kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez 
 (4) Hitelintézet jogutód nélküli megszűnése esetén a hitelintézet által kezelt üzleti vagy banktitkot tartalmazó irat a keletkezésétől számított hatvan év múlva a levéltári kutatások céljára felhasználható.
 
 (5) A fizetési rendszert működtető pénzügyi vállalkozás a pénzforgalmi szolgáltató és az ügyfél közötti pénzforgalmi szolgáltatási keretszerződés szerint rendelkezésére álló, személyes adatnak minősülő banktitkot, fizetési titkot legfeljebb a fizetési műveletből eredő követelés elévüléséig jogosult kezelni a fizetéssel kapcsolatos csalások, valamint a készpénz-helyettesítő fizetési eszközzel történő visszaélések megelőzése, vizsgálata és felderítés céljából.
+
+(6) A fizetési rendszert működtető pénzügyi vállalkozás a központi visszaélésszűrő rendszerben nyilvántartott, a fizetési műveletekkel és az azokra vonatkozó visszaélési kockázati információkkal kapcsolatos üzleti titkot, valamint a személyes adatnak minősülő banktitkot, fizetési titkot a fizetési műveletnek a központi visszaélésszűrő rendszerre vonatkozó üzletszabályzat szerinti átvételétől számított egy évig kezeli a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából. Ha ezen időtartam alatt a fizetési rendszert működtető pénzügyi vállalkozás egy adott fizetési művelettel kapcsolatban visszaélési kockázati információ alapján a pénzforgalmi szolgáltatás nyújtásáról szóló törvénynek megfelelően a pénzforgalmi szolgáltatótól csalás gyanújáról értesül, az érintett fizetési művelettel és az arra vonatkozó visszaélési kockázati információkkal kapcsolatos üzleti titkot, valamint a személyes adatnak minősülő banktitkot, fizetési titkot a fizetési műveletnek a központi visszaélésszűrő rendszerre vonatkozó üzletszabályzat szerinti átvételétől számított három évig kezeli a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából.
 
 166. § Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
@@ -3599,7 +3595,7 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 - j) nem teljesíti Pmt.-ben előírt kötelezettségét,
 - k) a hitelintézet nem tesz eleget a 228. § (6) bekezdésében foglalt kötelezettségének.
 - l) a 31/A. §-t megsértve nem rendelkezik a külön jóváhagyással,
-- m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 169. § (2) és (3) bekezdése vagy a 181. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
+- m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 181. § vagy 186. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
 
 (2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény, a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy
 
@@ -5097,7 +5093,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 282. § A 212. § (4) bekezdésben meghatározott betétekből a kifizetéseket minden esetben a legrégebben befizetett összegből kell teljesíteni.
 
-282/A. § (1) Fogyasztó részére fizetési számlát vezető hitelintézet EGT-államban tartózkodásra jogosult fogyasztóval szemben állampolgárság vagy tartózkodási hely alapján nem alkalmazhat megkülönböztetést a fizetési számla-szerződés megkötése és vezetése tekintetében.
+282/A. § (1) Fogyasztó részére fizetési számlát vezető hitelintézet EGT-államban tartózkodásra jogosult fogyasztóval szemben állampolgárság vagy tartózkodási hely alapján, vagy az Alapjogi Charta 21. cikkében említett bármely más ok alapján nem alkalmazhat megkülönböztetést a fizetésiszámla-szerződés megkötése és vezetése tekintetében.
 
 (2) Fogyasztó részére fizetési számlát vezető hitelintézet jogszabályban meghatározott feltételek teljesülése esetén köteles a fogyasztó kérésére alapszintű szolgáltatásokat biztosító fizetési számlaként alapszámlát vezetni.
 
@@ -5109,7 +5105,19 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 283. § A hitelintézet mérete, tevékenységének jellege, nagysága és összetettsége arányában az irányítási jogkörrel rendelkező vezető testület által elfogadott stratégiával rendelkezik az általa nyújtott pénzügyi szolgáltatási szerződések fogyatékos személyek általi egyenlő esélyű hozzáférés lehetőségének elősegítéséhez. Az irányítási jogkörrel rendelkező vezető testület az elfogadott stratégiát legalább kétévente felülvizsgálja.
 
-#### 284. §
+#### 122/A. Központi visszaélésszűrő rendszer
+
+284. § (1) A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter határozatában központi visszaélésszűrő rendszer üzemeltetésére jelöli ki a legalább három éve azonnali átutalási megbízások elszámolását és teljesítését végző fizetési rendszert működtető pénzügyi vállalkozást.
+
+(2) Az (1) bekezdés szerint kijelölt fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszer útján a fizetési rendszer működtetése tevékenység keretében rendelkezésre álló, valamint a fizetési rendszerben részt vevő pénzforgalmi szolgáltatóktól jogszabály alapján átvett adatok elemzése alapján előállítja a fizetési művelettel kapcsolatos visszaélési kockázati információkat.
+
+(3) A fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszer útján azon, a fizetési rendszerben részt vevő pénzforgalmi szolgáltatók részére teszi elérhetővé a visszaélési kockázati információkat, amelyek az adott fizetési művelet teljesítésében mint a fizető fél, illetve a kedvezményezett pénzforgalmi szolgáltatója vettek részt.
+
+(4) A fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszerben dolgozza fel és kezeli a fizetési rendszerben részt vevő pénzforgalmi szolgáltatók, illetve a nyomozó hatóság által törvény szerint átadott, a fizetési művelet kapcsán nyújtott visszaélési kockázati információhoz kapcsolódó csalás gyanújára vagy csalásra vonatkozó adatokat.
+
+(5) A fizetési rendszert működtető pénzügyi vállalkozás a központi visszaélésszűrő rendszerben nyilvántartott adatokat kizárólag a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából kezeli, továbbá megtesz minden olyan szabályozási, technikai és szervezeti intézkedést, amely az adatok fizikai és logikai védelmének biztosítása érdekében szükséges.
+
+(6) A fizetési rendszert működtető pénzügyi vállalkozás – ha a fizetési műveletekkel kapcsolatban a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározottak szerint csalás gyanújáról értesül – a központi visszaélésszűrő rendszerben nyilvántartott fizetési műveletekről és az azokra vonatkozó visszaélési kockázati információkról tájékoztatja a nyomozó hatóságot, a vele kötött megállapodás alapján, a fizetési műveletekkel kapcsolatos visszaélések felderítésének támogatása érdekében.
 
 #### 123. Elektronikus pénz kibocsátása és visszaváltása
 
@@ -5203,7 +5211,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára,
 - j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára,
 - k) a szociális számlához való jogosultságra, díjra és jellemzőire
-- l) a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre
+- l)
 
 vonatkozó részletes szabályokat.
 
@@ -5549,6 +5557,7 @@ való megfelelést szolgálja.
   - d) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendeletnek
   - e) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletnek
   - f) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek
+  - g) a 260/2012/EU és az (EU) 2021/1230 rendeletnek, valamint a 98/26/EK és az (EU) 2015/2366 irányelvnek az azonnali euroátutalások tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/886 európai parlamenti és tanácsi rendelet
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 

@@ -78,7 +78,17 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 8. § A közszolgáltatási tevékenységet folytató vállalkozás a számla Posta Elszámoló Központon keresztüli készpénzbefizetéssel történő kiegyenlítését, valamint – ha jogszabály eltérően nem rendelkezik – a számla nyomtatott példányának egyszeri kiadását külön díj fizetéséhez nem kötheti.
 
-#### 9. §
+9. § (1) Az online szolgáltatási szerződések, a határon átnyúló online adásvételi szerződések, valamint az automatizált üzletben történő értékesítés kivételével a vállalkozás a természetes személy fogyasztó részére biztosítja az áru ellenértékének készpénzzel történő kiegyenlítési lehetőségét.
+
+(2) Az (1) bekezdés szerinti kötelezettséget a vállalkozás úgy is teljesítheti, hogy az áru ellenértékének készpénzzel történő kiegyenlítési lehetőségét
+
+- a) a fogyasztó részére elérhető legalább egy értékesítési helyen biztosítja,
+- b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (4) bekezdés k) pontja szerinti specifikus készpénz-helyettesítő eszköz útján biztosítja, feltéve, hogy a természetes személy fogyasztó a fizetés céljára elérhető specifikus készpénz-helyettesítő eszközre készpénzt helyezhet el, valamint azt készpénzre visszaválthatja,
+- c) utánvétel útján biztosítja,
+- d) belföldi pénzforgalmi szolgáltatónál vezetett pénzforgalmi számlára történő készpénzbefizetés útján biztosítja, vagy
+- e) készpénzátutalási megbízás útján biztosítja.
+
+(3) E § alkalmazásában értékesítési hely: ingó vagy ingatlan üzlethelyiség vagy online értékesítési csatorna, ideértve azt is, amikor a fogyasztó számára egyetlen közös online felületen jelenik meg több online értékesítési csatorna.
 
 #### 10. §
 
@@ -1405,6 +1415,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 56/D. § A 21. § (6) bekezdésétől, illetve a 23. §-tól eltérően, a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény hatálybalépésekor működő békéltető testület tagjainak és elnökének megbízatási ideje 2023. december 31-éig meghosszabbodik.
 
 56/E. § A 38/B. § (7) bekezdése szerinti elévülési időre vonatkozó rendelkezést a 2023. június 25-én vagy azt követően bekövetkezett jogsértéseken alapuló jogsérelem orvoslására irányuló igényekre kell alkalmazni.
+
+56/F. § E törvénynek az egyes törvényeknek a készpénzhasználattal összefüggő módosításáról szóló2025. évi LXII. törvénnyel megállapított 9. §-át az automatából történő értékesítésre abban az esetben kell alkalmazni, ha az automata üzembe helyezésére 2025. június 30. napját követően került sor.
 
 ### Az Európai Unió jogának való megfelelés
 

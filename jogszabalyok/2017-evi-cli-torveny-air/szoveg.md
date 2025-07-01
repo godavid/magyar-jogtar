@@ -614,6 +614,8 @@ lehet előterjeszteni.
 
 (3) Az idézésben meg kell jelölni, hogy az adóhatóság az idézett személyt milyen ügyben és milyen minőségben kívánja meghallgatni. Az idézett személyt figyelmeztetni kell a megjelenés elmulasztásának következményeire.
 
+(4) Ha a személyes meghallgatásra a 34/A. alcímben foglaltak szerint elektronikus hírközlő hálózat útján kerül sor, az idézés tartalmazza az e tényre történő utalást.
+
 #### 55. § [Az idézés helye]
 
 (1) Az adóhatóság az illetékességi területén lakóhellyel nem rendelkező személyt vagy székhellyel nem rendelkező szervezet törvényes képviselőjét akkor idézheti a hivatali helyiségébe, ha
@@ -821,6 +823,16 @@ tolmácsot kell alkalmazni.
 
 (3) A feljegyzést annak készítője, a jegyzőkönyvet – annak minden oldalán – az eljárási cselekményen részt vevő személyek aláírják.
 
+(3a) Ha az állami adó- és vámhatóság hatáskörébe tartozó ügyben a helyszíni eljárás során a jegyzőkönyv elektronikus formában készül, azt az eljárási cselekményen részt vevő személy a jegyzőkönyv hitelesítésére alkalmas minősített, vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással látja el.
+
+(3b) Ha az eljárási cselekményről a jegyzőkönyv elektronikus formában készül, és az eljárási cselekményen részt vevő személy nem rendelkezik a jegyzőkönyv hitelesítésére alkalmas minősített, vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, a jegyzőkönyvet az elektronikus úton felvett kézi aláírással látja el.
+
+(3c) Ha a helyszíni eljárásról a jegyzőkönyv elektronikus formában készül, annak megállapításait, valamint a jogokra és a kötelezettségekre való figyelmeztetést szóban is közölni kell a jelenlévő adózóval és az eljárás egyéb résztvevőjével. A szóbeli közlés megtörténtét a jegyzőkönyvben rögzíteni kell.
+
+(3d) Ha az adózó vagy az eljárási cselekményen részt vevő személy megtagadja az elektronikus formában készült jegyzőkönyv aláírását, a (3c) bekezdés szerinti szóbeli közlés megtörténte és a jegyzőkönyv aláírásának megtagadása két hatósági tanú igénybevételével is igazolható.
+
+(3e) Ha az ellenőrzés két hatósági tanú jelenlétében indul meg, az erről szóló jegyzőkönyv felvételére és aláírására a (3a) bekezdésben foglaltak alkalmazandók.
+
 (4) A hatóság egyes eljárási cselekményekről kép- és hangfelvételt készíthet. A rögzítés ilyen módja esetén a jegyzőkönyvben csak az eljárási cselekményen részt vevő személyek azonosításához szükséges adatokat, az elkészítés helyét, idejét, valamint a kép- és hangfelvétel készítésének tényét kell feltüntetni.
 
 #### 71. § [A hatósági tanú]
@@ -832,6 +844,59 @@ tolmácsot kell alkalmazni.
 (3) Az eljárási cselekmény előtt a hatósági tanút a jogairól és kötelességeiről fel kell világosítani. A hatósági tanú a tanú költségeinek megtérítésére vonatkozó szabályok szerint jogosult költségtérítésre.
 
 (4) A hatósági tanút az eljárási cselekmény során tudomására jutott tényekre, adatokra nézve titoktartási kötelezettség terheli, amely alól az eljáró adóhatóság, a fellebbezés elbírálására jogosult felettes szerv vagy bíróság az ügy tárgyát érintő tényekre, adatokra, körülményekre nézve felmentheti.
+
+#### 34/A. Elektronikus hírközlő hálózat útján történő meghallgatás
+
+#### 71/A. § [Az elektronikus hírközlő hálózat útján történő meghallgatás általános szabályai]
+
+(1) Az állami adó- és vámhatóság hivatalból elrendelheti, hogy az idézett személy személyes meghallgatására elektronikus hírközlő hálózat útján kerüljön sor, különösen akkor, ha a személyes meghallgatásra megjelölt hely a meghallgatást elrendelő adóhatóság illetékességi területén kívül esik.
+
+(2) Az elektronikus hírközlő hálózat útján történő meghallgatásra az állami adó- és vámhatóság által biztosított, az elektronikus hírközlő hálózat útján történő meghallgatásra kialakított elkülönített hivatali helyiségben kerül sor.
+
+(3) Az elektronikus hírközlő hálózat útján történő meghallgatás során az idézett személy személyes meghallgatásának helyszínét biztosító adóhatóság által e célra elkülönített hivatali helyiség és a meghallgatást elrendelő adóhatóság e célra elkülönített hivatali helyisége között az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító eszköz (a továbbiakban: kamera) biztosítja.
+
+#### 71/B. § [Jelenlét és azonosítás a meghallgatáson]
+
+(1) Az elektronikus hírközlő hálózat útján meghallgatásra kerülő személynek a személyes meghallgatásra megjelölt helyen kell megjelennie és a meghallgatás ideje alatt jelen lennie.
+
+(2) Az elektronikus hírközlő hálózat útján történő meghallgatás során a személyes meghallgatásra megjelölt helyszínen az e célra elkülönített hivatali helyiségben
+
+- a) az elektronikus hírközlő hálózat útján meghallgatásra kerülő személy,
+- b) az, akinek jelenlétét az elektronikus hírközlési hálózat útján meghallgatásra kerülő személyhez kapcsolódóan a meghallgatáson jogszabály lehetővé vagy kötelezővé teszi,
+- c) a meghallgatás helyszínét biztosító adóhatóság személyes meghallgatás lefolytatásában közreműködni jogosult foglalkoztatottja (a továbbiakban: közreműködő),
+- d) az elektronikus hírközlő hálózat útján történő meghallgatáshoz szükséges technikai eszközök működését biztosító, kezelő személy (a továbbiakban: kezelő személy)
+
+lehet jelen.
+
+(3) Az elektronikus hírközlő hálózat útján történő meghallgatás során a meghallgatást elrendelő adóhatóság helyszínén az elkülönített hivatali helyiségben
+
+- a) az adott ügyben az elektronikus hírközlő hálózat útján történő meghallgatás lefolytatására jogosult foglalkoztatott,
+- b) a kezelő személy
+
+lehet jelen.
+
+(4) A meghallgatást elrendelő adóhatóság – szükség esetén a közreműködő igénybevételével – állapítja meg az elektronikus hírközlő hálózat útján meghallgatásra kerülő személy és a meghallgatásra kerülő személyhez kapcsolódóan jelen lévő személy személyazonosságát, továbbá azt, hogy a meghallgatásra kerülő személy eljárási jogainak gyakorlásában nincs korlátozva.
+
+(5) Az elektronikus hírközlő hálózat útján meghallgatásra kerülő személy és a meghallgatásra kerülő személyhez kapcsolódóan jelen lévő személy személyazonosságának igazolása
+
+- a) az általa a személyazonosságának igazolása érdekében rendelkezésre bocsátott adatai alapján és
+- b) a személyazonosságának igazolására alkalmas hatósági igazolványának vagy tartózkodásra jogosító okmányának kamera közvetítésével történő bemutatásával
+
+történik.
+
+(6) A meghallgatás lefolytatásában részt vevő személy és a közreműködő köteles az állami adó- és vámhatósághoz tartozását igazolni. A meghallgatás lefolytatásában részt vevő személy és a közreműködő az állami adó- és vámhatóságnál fennálló jogviszonyának igazolása a szolgálati igazolvány kamera közvetítésével történő bemutatásával történik.
+
+#### 71/C. § [A meghallgatás módja]
+
+Az elektronikus hírközlő hálózat útján történő meghallgatás során folyamatosan biztosítani kell, hogy a meghallgatást elrendelő adóhatóság helyszínén jelen lévők láthassák és hallhassák a személyes meghallgatásra megjelölt hivatali helyiségben tartózkodó személyeket, illetve a személyes meghallgatásra megjelölt hivatali helyiségben jelen lévők láthassák és hallhassák a meghallgatást elrendelő adóhatóság hivatali helyiségében tartózkodó személyeket.
+
+#### 71/D. § [Jegyzőkönyv]
+
+(1) Az elektronikus hírközlő hálózat útján történő meghallgatásról készült jegyzőkönyvnek ki kell terjednie az elektronikus hírközlő hálózat útján történő meghallgatás lefolytatása körülményeinek, valamint az elektronikus hírközlő hálózat útján történő meghallgatásra kialakított hivatali helyiségben jelen lévő személyek azonosításához szükséges adatok rögzítésére is.
+
+(2) Az elektronikus hírközlő hálózat útján történő meghallgatásról készült jegyzőkönyv aláírásának minősül, ha az elektronikus hírközlő hálózat útján meghallgatásra kerülő személy, valamint a meghallgatásra kerülő személyhez kapcsolódóan jelen lévő valamennyi személy a meghallgatásról készült jegyzőkönyvet, annak megismerését követően szóbeli nyilatkozatával jóváhagyja. A jegyzőkönyvet a meghallgatást elrendelő adóhatóság foglalkoztatottja legalább fokozott biztonságú elektronikus aláírásával és minősített időbélyegzővel hitelesíti.
+
+(3) Az elektronikus hírközlő hálózat útján történő meghallgatásról készült jegyzőkönyvet a meghallgatott személy részére haladéktalanul kézbesíteni kell.
 
 #### 35. Az adóhatóság döntései
 
@@ -1342,6 +1407,11 @@ Ha az ellenőrzési eljárás zavartalan lefolytatása másképpen nem biztosít
 #### 115. § [Az ellenőrzés befejezése]
 
 (1) Az adóhatóság a megállapításait – ha jogszabály eltérően nem rendelkezik – jegyzőkönyvbe foglalja. Ha az ellenőrzés a vállalkozási tevékenységben résztvevők alkalmazásával összefüggésben tartalmaz megállapítást, a jegyzőkönyv tartalmazza a természetes személyek azonosításához szükséges adatokat is. Az ellenőrzés a jegyzőkönyv átadásával fejeződik be. Ha a jegyzőkönyvet kézbesíteni kell, az ellenőrzés a postára adás, illetve a tárhelyen történő elhelyezés napjával zárul.
+
+(1a) Az állami adó- és vámhatóság hatáskörébe tartozó helyszíni ellenőrzés esetén, ha a jegyzőkönyv elektronikus formában készül, az ellenőrzés befejezésének napja
+
+- a) az elektronikus formában készült jegyzőkönyvnek az elektronikus ügyintézésre kötelezett, valamint az aktivált felhasználói profillal rendelkező adózó hivatalos elérhetőségen történő elhelyezésének napja,
+- b) az elektronikus ügyintézésre nem kötelezett és aktivált felhasználói profillal nem rendelkező adózó esetében az elektronikus formában készült jegyzőkönyvnek az adózó által a rendelkezési nyilvántartásba bejelentett hivatalos elérhetőségen történő elhelyezésének napja, ennek hiányában az elektronikus formában készült jegyzőkönyv hiteles papír alapú másolata postára adásának napja.
 
 (2) Ha az adóhatóság büntetőeljárást kezdeményez, külön jegyzőkönyvet készít. A büntetőeljárást kezdeményező jegyzőkönyvet az adóhatóság az adózónak nem adja át.
 

@@ -1676,7 +1676,7 @@ terjedhet.
 
 - a) engedélyezési eljárásokban ügyfélnek minősül az építtető, a vagyonkezelő, a közművek tulajdonosa, kezelője, továbbá az ügyféli minőség vizsgálata nélkül azon személyek, mint, az ingatlantulajdonos, vagy az ingatlan-nyilvántartásba bejegyzett jogszerű használó, akinek ingatlana a hatásterületen fekszik,
 - b) engedélyezési eljárásokban az eljárás megindításáról a közlekedési hatóság nyolc napon belül, ha helyszíni szemle, hatósági egyeztetés megtartása szükséges, az arról szóló értesítéssel egyidejűleg értesíti az ügyfeleket – ideértve a külföldi ügyfeleket is – hirdetményi úton,
-- c)
+- c) engedélyezési eljárásokban az ügyfélkör feltárásához az építtető és a megbízásából eljáró tervező jogosult a teljes hatásterület vonatkozásában a jogosulti adatokkal kiegészített földkönyv igénylésére,
 - d)
 - e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok területe, amelyeket a tervezett tevékenység terület-igénybevétellel érinti, vagy amely a tevékenységgel igénybevett ingatlan tervezési határok közötti területével közvetlenül határos, vagy amelynek a kapubejárója az eljárás tárgyát képező útszakaszhoz közvetlenül csatlakozik.
 
@@ -1860,7 +1860,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
-(6) Az (1) bekezdésben meghatározott díjak beszedésének feladatait, a használati díjak megfizetéséhez kapcsolódó, jogszabályban meghatározott korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését az útdíjszolgáltatási gazdasági társaság látja el. E feladatai ellátása tekintetében az útdíjszolgáltatási gazdasági társaság jogosult a közúti közlekedési nyilvántartás adataihoz a közúti közlekedési nyilvántartásról szóló törvényben foglaltak szerint hozzáférni. Ennek végrehajtása érdekében az útdíjszolgáltatási gazdasági társaság által ellátott közfeladatok biztosítására vonatkozó szerződés megkötésével kapcsolatos feladatokat az útdíjfizetési-szolgáltatásért felelős miniszter látja el.
+(6) A használatidíj-rendszer üzemeltetése, működtetése és fejlesztése közfeladat, amelyet az útdíjszolgáltatási gazdasági társaság lát el. E feladatai ellátása tekintetében az útdíjszolgáltatási gazdasági társaság jogosult a közúti közlekedési nyilvántartás adataihoz a közúti közlekedési nyilvántartásról szóló törvényben foglaltak szerint hozzáférni. Ennek végrehajtása érdekében az útdíjszolgáltatási gazdasági társaság által ellátott közfeladatok biztosítására vonatkozó szerződés megkötésével kapcsolatos feladatokat az útdíjfizetési-szolgáltatásért felelős miniszter látja el.
 
 (6a) Ha az (1) bekezdésben meghatározott használati díj megfizetésének elmulasztása miatt kiszabott pótdíj az Európai Unió más tagállamában nyilvántartott jármű tekintetében áll fenn, az útdíjszolgáltatási gazdasági társaság az érintett jármű üzembentartója, ennek hiányában tulajdonosa azonosító adatainak megállapítása céljából a jogszabályban kijelölt nemzeti kapcsolattartó ponton keresztül a jármű teljes forgalmi rendszámának, a használatidíj-fizetés elmulasztásával összefüggő adatoknak, továbbá a mulasztás időpontjának megadásával automatizált keresést kezdeményezhet a jármű nyilvántartásba vétele szerinti tagállam nemzeti gépjármű-nyilvántartási adatállományában.
 
@@ -2441,6 +2441,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - 40. az útdíjfizetés elmulasztása: jogosulatlan úthasználat, amely az e törvényben meghatározott használati díj, vagy az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvényben meghatározott útdíj megfizetésének elmulasztásával valósul meg;
 - 41. a nyilvántartás helye szerinti tagállam: az Európai Unió azon tagállama, amelynek nemzeti gépjármű-nyilvántartásában az útdíjfizetés elmulasztása által érintett jármű szerepel;
 - 42. nemzeti kapcsolattartó pont: a gépjármű-nyilvántartási adatok határokon átnyúló cseréjére jogszabályban kijelölt hatóság.
+- 43. használatidíj-rendszer: a 33/A. § (1) bekezdésében meghatározott használati díjak és pótdíjak beszedését, a megfizetésükhöz kapcsolódó korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzést lehetővé tévő rendszer.
 
 47/A. § (1) A közlekedési hatóság jogosult a közútkezelői hozzájárulás kiadására jogosult útkezelő által kiadott közútkezelői hozzájárulásban feltüntetett adatok kezelésére.
 

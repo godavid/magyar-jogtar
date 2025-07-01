@@ -213,7 +213,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 - 53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, ellenérték fejében a föld használati jogosultságának mező-, erdőgazdasági, illetve halászati hasznosításra történő átengedése.
 - 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 - 55. 30 év alatti anya: az a 30. életévét be nem töltött, gyermeket vállaló nő, akinek családi kedvezményre való jogosultsága magzatára, vér szerinti vagy örökbe fogadott gyermekére tekintettel a 30. életéve betöltését megelőző napig megnyílik.
-- 56.
+- 56. A csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye: a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti kedvezmény.
 - 57.
 - 58.
 - 59.
@@ -881,11 +881,11 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 
 (2) A családi kedvezmény – az eltartottak lélekszámától függően – kedvezményezett eltartottanként és jogosultsági hónaponként
 
-- a) egy eltartott esetén 66 670 forint,
-- b) kettő eltartott esetén 133 330 forint,
-- c) három és minden további eltartott esetén 220 000 forint.
+- a) egy eltartott esetén 100 000 forint,
+- b) kettő eltartott esetén 200 000 forint,
+- c) három és minden további eltartott esetén 330 000 forint.
 
-(2a) A (2) bekezdés szerinti családi kedvezmény minden olyan kedvezményezett eltartott után, aki a családok támogatásáról szóló törvény szerint tartósan beteg, illetve súlyosan fogyatékos személynek minősül, jogosultsági hónaponként és kedvezményezett eltartottanként 66 670 forinttal növelt összegben vehető igénybe. E rendelkezés alkalmazásában tartósan beteg, illetve súlyosan fogyatékos személynek minősül az a 18. életévét betöltött magánszemély is, aki a magasabb összegű családi pótlék helyett fogyatékossági támogatásban részesül.
+(2a) A (2) bekezdés szerinti családi kedvezmény minden olyan kedvezményezett eltartott után, aki a családok támogatásáról szóló törvény szerint tartósan beteg, illetve súlyosan fogyatékos személynek minősül, jogosultsági hónaponként és kedvezményezett eltartottanként 100 000 forinttal növelt összegben vehető igénybe. E rendelkezés alkalmazásában tartósan beteg, illetve súlyosan fogyatékos személynek minősül az a 18. életévét betöltött magánszemély is, aki a magasabb összegű családi pótlék helyett fogyatékossági támogatásban részesül.
 
 (3) A családi kedvezmény érvényesítésére jogosult
 
@@ -958,7 +958,7 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 ### Az első házasok kedvezménye
 
-29/C. § (1) Az első házasok kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] az első házasok kedvezményével csökkenti. A kedvezmény a családi kedvezményt megelőző sorrendben érvényesíthető.
+29/C. § (1) Az első házasok kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] az első házasok kedvezményével csökkenti.
 
 (2) Az első házasok kedvezményét az a házaspár érvényesítheti, amely esetében legalább az egyik házastárs első házasságát köti.
 
@@ -974,7 +974,7 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 ### A négy vagy több gyermeket nevelő anyák kedvezménye
 
-29/D. § (1) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] – minden más kedvezményt megelőzően – a négy vagy több gyermeket nevelő anyák kedvezményével csökkenti.
+29/D. § (1) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] a négy vagy több gyermeket nevelő anyák kedvezményével csökkenti.
 
 (2) A négy vagy több gyermeket nevelő anyák kedvezménye a kedvezményre jogosult által a jogosultsági időszakban megszerzett (munkaviszonyból származó jövedelem esetében a jogosultsági időszakra elszámolt), összevont adóalapba tartozó
 
@@ -1008,7 +1008,7 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 ### Személyi kedvezmény
 
-29/E. § (1) A súlyosan fogyatékos magánszemély az összevont adóalapját [29. §] személyi kedvezménnyel csökkenti. A kedvezmény az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.
+29/E. § (1) A súlyosan fogyatékos magánszemély az összevont adóalapját [29. §] személyi kedvezménnyel csökkenti.
 
 (2) Súlyosan fogyatékos magánszemélynek azt kell tekinteni, aki az összevont adóalap adóját csökkentő kedvezmény igénybevétele szempontjából súlyos fogyatékosságnak minősülő betegségekről szóló kormányrendeletben említett betegségben szenved, továbbá, aki rokkantsági járadékban vagy fogyatékossági támogatásban részesül.
 
@@ -1018,7 +1018,7 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 ### A 25 év alatti fiatalok kedvezménye
 
-29/F. § (1) A 25. életévét be nem töltött magánszemély (a továbbiakban: fiatal) az összevont adóalapját [29. §] a 25 év alatti fiatalok kedvezményével csökkenti. A 25 év alatti fiatalok kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.
+29/F. § (1) A 25. életévét be nem töltött magánszemély (a továbbiakban: fiatal) az összevont adóalapját [29. §] a 25 év alatti fiatalok kedvezményével csökkenti.
 
 (2) A 25 év alatti fiatalok kedvezménye a fiatal által a jogosultsági hónapokban megszerzett (munkaviszonyból származó jövedelem esetében a jogosultsági hónapokra elszámolt), összevont adóalapba tartozó
 
@@ -1046,7 +1046,7 @@ de adóévenként legfeljebb a jogosultsági hónapok számának és a tárgyév
 
 ### A 30 év alatti anyák kedvezménye
 
-29/G. § (1) A 30 év alatti anya a 29. § szerint meghatározott összevont adóalapját a 30 év alatti anyák kedvezményével csökkenti. A 30 év alatti anyák kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét és a 25 év alatti fiatalok kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.
+29/G. § (1) A 30 év alatti anya a 29. § szerint meghatározott összevont adóalapját a 30 év alatti anyák kedvezményével csökkenti.
 
 (2) A 30 év alatti anyák kedvezményére jogosult az a 30 év alatti anya, aki
 
@@ -1078,6 +1078,18 @@ de adóévenként legfeljebb a jogosultsági hónapok számának és a tárgyév
 - a) a kedvezményre való jogosultság jogcímét,
 - b) a (2) bekezdés a) pontja szerinti gyermek(ek) nevét, adóazonosító jelét, magzat esetében a várandósság időszakát, valamint
 - c) a jogosultság megnyíltának vagy megszűntének napját, ha a kedvezményre való jogosultság nem állt fenn az adóév egészében.
+
+### Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje
+
+29/H. § Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje:
+
+- a) a négy vagy több gyermeket nevelő anyák kedvezménye,
+- b) a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye,
+- c) a 25 év alatti fiatalok kedvezménye,
+- d) a 30 év alatti anyák kedvezménye,
+- e) személyi kedvezmény,
+- f) az első házasok kedvezménye,
+- g) családi kedvezmény.
 
 ### VII. Fejezet — AZ ÖSSZEVONT ADÓALAP ADÓJÁNAK MEGHATÁROZÁSA
 
@@ -1292,11 +1304,12 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 (5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett
 
 - a) négy vagy több gyermeket nevelő anyák kedvezményét,
-- b) 25 év alatti fiatalok kedvezményét,
-- c) 30 év alatti anyák kedvezményét,
-- d) személyi kedvezményt,
-- e) első házasok kedvezményét,
-- f) családi kedvezményt.
+- b) csecsemőgondozási díj, gyermekgondozási díj és örökbefogadói díj kedvezményét,
+- c) 25 év alatti fiatalok kedvezményét,
+- d) 30 év alatti anyák kedvezményét,
+- e) személyi kedvezményt,
+- f) első házasok kedvezményét,
+- g) családi kedvezményt.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 
@@ -1402,6 +1415,8 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 
 (3h) A 30 év alatti anyák kedvezményét érvényesítő 30 év alatti anya a családi kedvezményről abban az esetben is tehet adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére, ha a 30 év alatti anyák kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével (8. §) meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
+(3i) A gyermekgondozási díj után kedvezményt érvényesítő magánszemély a gyermekgondozási díjat folyósító szerv részére nyilatkozatot tehet a családi kedvezmény adóalap hiányában nem érvényesíthető részének családi járulékkedvezményként való érvényesítéséről. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerint az adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 
 - a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;
@@ -1415,9 +1430,9 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 
 ### A fizetendő adóelőleg
 
-49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a 25 év alatti fiatalok kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével [8. §] számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
+49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét, a 25 év alatti fiatalok kedvezményét, a 30 év alatti anyák kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az e törvény 8. §-a szerinti adómértékkel számított összeg, figyelemmel a (3) és (4) bekezdésben foglalt rendelkezésekre is.
 
-(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti, valamint a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét érvényesítő magánszemély a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
 (2)
 

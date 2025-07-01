@@ -967,7 +967,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) Az (1) bekezdés szerint csökkentett összegből — e törvényben foglalt részletes szabályok szerint — általában legfeljebb 33%-ot, kivételesen legfeljebb 50%-ot lehet levonni.
 
-62. § (1) A 61. § szerinti levonás során mentes a végrehajtás alól a havonta kifizetett munkabérnek az a része, amely nem haladja meg a 60 ezer Ft-ot. Ez a mentesség nem áll fenn a gyermektartásdíj és a szüléssel járó költség (a továbbiakban: gyermektartásdíj) végrehajtása esetén.
+62. § (1) A 61. § szerinti levonás során mentes a végrehajtás alól a havonta kifizetett munkabérnek az a része, amely nem haladja meg a minimálbér nettó összegének 60%-át. Ez a mentesség nem áll fenn a gyermektartásdíj és a szüléssel járó költség (a továbbiakban: gyermektartásdíj) végrehajtása esetén.
 
 (2) Ha az adós több munkáltatótól kap munkabért, az (1) bekezdés szerinti mentesség őt abból a munkabérből illeti meg, amelyet elsőként tiltottak le.
 
@@ -1075,7 +1075,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - i) a kiküldetéssel, külszolgálattal és munkába járással összefüggő költségtérítés,
 - j) a meghatározott kiadás fedezésére szolgáló összeg,
 - k) a fogva tartott adós részére a kapcsolattartó által célzottan befizetett összeg,
-- l)
+- l) a személyi jövedelemadóról szóló törvény szerinti családi kedvezmény nettó összege,
 - m)
 - n) a fogyatékossági támogatás.
 
@@ -1121,9 +1121,9 @@ a letiltással kapcsolatos kötelessége
 
 79/A. § (1) A pénzforgalmi szolgáltatónál kezelt, az adóst megillető pénzösszeg teljes összegben végrehajtás alá vonható, kivéve a természetes személyt megillető pénzösszegeket, amelyek végrehajtás alá vonása a (2) és (3) bekezdés szerint történik.
 
-(2) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető összegből a 200 ezer Ft feletti összeg korlátlanul végrehajtás alá vonható, az ez alatti összegből pedig a 60 ezer Ft és a 200 ezer Ft közötti rész 50%-a vonható végrehajtás alá.
+(2) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető összegből a 200 ezer Ft feletti összeg korlátlanul végrehajtás alá vonható, az ez alatti összegből pedig a minimálbér nettó összegének 60%-a és a 200 ezer Ft közötti rész 50%-a vonható végrehajtás alá.
 
-(3) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető pénzösszegnek mentes a végrehajtás alól az a része, amely nem haladja meg a 60 ezer Ft-ot. Ha a végrehajtás gyermektartásdíj vagy szüléssel járó költség behajtására folyik, ennek az összegnek az 50%-a is végrehajtás alá vonható.
+(3) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető pénzösszegnek mentes a végrehajtás alól az a része, amely nem haladja meg a minimálbér nettó összegének 60%-át. Ha a végrehajtás gyermektartásdíj vagy szüléssel járó költség behajtására folyik, ennek az összegnek az 50%-a is végrehajtás alá vonható.
 
 (4) E § rendelkezéseit a pénzforgalmi szolgáltató által több szerződés alapján kezelt, adóst megillető együttes összegre kell alkalmazni.
 
@@ -1295,6 +1295,8 @@ ismételten benyújtja.
 (2) Ha a foglalásra több ingatlanban kerül sor, az (1) bekezdés e)–g) és k) pontjában meghatározott mentességet csak az – adós nyilatkozata esetén az általa megjelölt – egyik ingatlanban foganatosított foglalás során lehet érvényesíteni.
 
 (3) Nem mentes a végrehajtás alól az az (1) bekezdésben említett olyan vagyontárgy – az a), valamint a h) és i) pontban foglaltak kivételével –, amely nemesfémből vagy egyébként nemes anyagból készült, és a szokásos használati cikkektől eltérően különösen nagy értékű.
+
+(4) Mentes a végrehajtás alól az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen, sportegyesület, utánpótlás-nevelés fejlesztését végző alapítvány vagy országos sportági szakszövetség tulajdonába adott ingóvagyon az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt.
 
 91. § Ha az adós élethivatásszerűen mezőgazdasági termeléssel foglalkozik — a 90. §-ban felsoroltakon kívül —, mentes a végrehajtás alól:
 
@@ -4711,6 +4713,12 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 304/Q. § (1) A Módtv.17.-tel megállapított 240/F. § (5) bekezdés h) pontját a Módtv.17. 3. alcíme hatálybalépésének napján a Kar által vezetett névjegyzékben szereplő önálló bírósági végrehajtó-helyetteseknek – az önálló bírósági végrehajtók és az önálló bírósági végrehajtó-helyettesek kötelező szakmai továbbképzéséről szóló rendelet szerinti – 2023. évben kezdődő, első továbbképzési időszakban teljesítendő szakmai továbbképzési kötelezettsége tekintetében is alkalmazni kell.
 
 (2) A Módtv.17.-tel megállapított 240/F. § (5) bekezdés i) pontját és 241. § (6) bekezdés g) pontját a Módtv.17. 3. alcíme hatálybalépésének napján a Kar által vezetett névjegyzékben szereplő önálló bírósági végrehajtó-helyettesek és önálló bírósági végrehajtójelöltek esetében is alkalmazni kell azzal, hogy a névjegyzékben szereplő személy a Módtv.17. 3. alcímének hatálybalépése napját követő 60 napon belül – amely határidőbe a hatálybalépés napja nem számít bele – igazolhatja a Kar hivatali szerve részére, hogy másik végrehajtóval vagy végrehajtói irodával munkaviszonyt létesített.
+
+304/R. § (1) E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv.18) módosított 62. § (1) bekezdését, 79/A. § (2) és (3) bekezdését az e rendelkezések hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
+
+(2) E törvénynek a Módtv. 18-cal megállapított 74. § l) pontját az e rendelkezés hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(3) A Módtv.18-cal módosított rendelkezések hatálybalépése előtt e törvény szerint elvégzett eljárási cselekmények megtartják a hatályukat és jogkövetkezményeik fennmaradnak.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 

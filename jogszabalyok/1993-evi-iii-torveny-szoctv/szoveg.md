@@ -625,7 +625,7 @@ figyelmen kívül kell hagyni.
 
 (13) Ha a foglalkoztatást helyettesítő támogatás vagy a az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása e törvény rendelkezései alapján szünetel, az ellátások (4)–(6) bekezdés szerinti felülvizsgálatát a szünetelés megszűnését követően kell lefolytatni.
 
-(14) A jogosultnak a hatóság illetékességét érintő lakcímváltozása esetén a (3) bekezdés a) pontja szerinti ellátásokra való jogosultságot a lakcímváltozás hónapjának utolsó napjával meg kell szüntetni.
+(14)
 
 26. § A képviselő-testület a hatáskörébe tartozó pénzbeli ellátásokat kiegészítheti, és a szociálisan rászorultak részére – a rendeletében meghatározott módon és feltételek szerint – más pénzbeli támogatásokat is megállapíthat.
 
@@ -902,10 +902,18 @@ gondoskodik.
 
 (6) Egyazon gyermekre tekintettel csak egy szülő számára állapítható meg a gyermekek otthongondozási díja.
 
-39. § (1) A gyermekek otthongondozási díjára való jogosultság – a 38. §-ban a gyermekre meghatározott feltételek teljesülése esetén – a szülőn kívül a gyermek más, a gyermekkel közös háztartásban élő hozzátartozója [Ptk. 8:1. § (1) bekezdés 2. pont] számára is megállapítható, ha
+39. § (1) A Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozó részére akkor állapítható meg gyermekek otthongondozási díjára való jogosultság, ha
 
-- a) a szülő meghalt, vagy a gyermek állandó és tartós gondozásában a saját egészségi állapotára figyelemmel akadályozottá vált, vagy
-- b) a szülő szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a), c), e) vagy h) pontja vagy 4:186. § (2) bekezdése alapján szünetel, illetve azt a bíróság megszüntette.
+- a) a 38. §-ban a gyermekre meghatározott feltételek teljesülnek,
+- b) a gyermekkel közös háztartásban él, és
+- c) a gyermek nem áll a szülő gondozásában, mert a szülő
+  - ca) meghalt,
+  - cb) a gyermek állandó és tartós gondozásában a saját egészségi állapotára figyelemmel akadályozottá vált, vagy
+  - cc) szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a), c), e) vagy h) pontja vagy 4:186. § (2) bekezdése alapján szünetel, illetve azt a bíróság megszüntette.
+
+(1a) Az (1) bekezdés c) pont ca) és cb) alpontja alkalmazásával a jogosultság akkor állapítható meg, ha a szülőnek a gyermekre tekintettel korábban megállapított, gyermekek otthongondozási díjára való jogosultsága az (1) bekezdés c) pont ca) vagy cb) alpontja szerinti okból szűnt meg.
+
+(1b) Az (1a) bekezdés nem alkalmazható, ha a gyermek 18. életévének betöltése előtt került a hozzátartozó gondozásába.
 
 (2) A szülő egészségi állapotára figyelemmel fennálló akadályozottság tényét és várható időtartamát a járási hivatal a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott igazolás alapján állapítja meg.
 
@@ -962,6 +970,8 @@ gondoskodik.
 39/D. § (1) Ha a gyermekek otthongondozási díjában részesülő személy kérelme alapján indult felülvizsgálati eljárásban megállapításra kerül, hogy az ügyfél több olyan gyermekéről is gondoskodik, akire tekintettel a gyermekek otthongondozási díjára való jogosultsága megállapítható, számára az ellátást – a felülvizsgálati kérelem benyújtásának napjától – a 39/A. § (2) bekezdése szerinti összegben kell folyósítani.
 
 (2) A visszamenőleges időszakra járó összeget úgy kell meghatározni, hogy a visszamenőleges időszakra járó ellátás bruttó összegéből le kell vonni az azonos időszakra kifizetett gyermekek otthongondozási díja bruttó összegét.
+
+39/E. § A 39. §-ban meghatározott jogosultsági feltételek tekintetében a hiányzó bizonyíték ügyfél nyilatkozatával történő pótlásának nincs helye.
 
 ### Ápolási díj
 
@@ -1207,7 +1217,7 @@ tevődik össze.
 
 (3)
 
-(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal dönt. Az alanyi közgyógyellátásra való jogosultságot négy évre, a normatív közgyógyellátásra való jogosultságot két évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben meghatározott kivétellel – a jogosultságot megállapító határozat meghozatalát követő 15. nap.
+(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal dönt. Az alanyi közgyógyellátásra való jogosultságot a megállapítása alapjául szolgáló, az (1) bekezdésben foglalt körülmény fennállásának időtartamáig, a normatív közgyógyellátásra való jogosultságot négy évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben meghatározott kivétellel – a jogosultságot megállapító határozat meghozatalát követő nap.
 
 (4a) A közgyógyellátásra való jogosultság ugyanazon időszakra vonatkozóan csak egy jogcímen állapítható meg.
 
@@ -3623,6 +3633,10 @@ járul hozzá.
 134/K. § (1) A szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvénnyel (a továbbiakban: Módtv.) megállapított 39. § (1) bekezdését a Módtv. hatálybalépését követően indult ügyekben kell alkalmazni.
 
 (2) A Módtv. hatálybalépését megelőző napon hatályos 39. § (1) bekezdése alapján gyermekek otthongondozási díjában részesülő hozzátartozó jogosultsága az e törvény szerinti – 39. § (1) bekezdésén kívüli – jogosultsági feltételek fennállásáig nem szüntethető meg.
+
+134/L. § (1) A Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv2.) megállapított 39. § (1), (1a) és (1b) bekezdését e rendelkezések hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(2) A Módtv2.-vel módosított 39. § (1) bekezdése hatálybalépését megelőző napon hatályos 39. § (1) bekezdése alapján gyermekek otthongondozási díjában részesülő hozzátartozó jogosultsága az e törvény szerinti – 39. § (1a) bekezdésén kívüli – jogosultsági feltételek fennállásáig nem szüntethető meg.
 
 135. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel megállapított 45. § (2a) bekezdését a 2015. február 28-án hatályos 43/B. § alapján 2015. március 1-jét megelőző kezdő időponttal megállapított és 2015. március 1-jétől települési támogatásként nyújtott méltányossági ápolási díjra is alkalmazni kell.
 

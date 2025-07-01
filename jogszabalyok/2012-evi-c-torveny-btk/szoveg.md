@@ -259,6 +259,8 @@ történő jogtalan behatolás, vagy
 
 29. § (1) Nem büntethető, aki az élet, testi épség és az egészség elleni, az emberi szabadság elleni, az emberi méltóság és egyes alapvető jogok elleni, a közlekedési, a vagyon elleni, illetve a szellemi tulajdonjog elleni vétség vagy háromévi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében – vagy azt megelőzően, de a közvetítői eljárás keretében született megállapodásban jóváhagyva – a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette. E rendelkezés akkor is irányadó, ha a bűnhalmazatban lévő bűncselekmények közül az élet, testi épség és az egészség elleni, az emberi szabadság elleni, az emberi méltóság és egyes alapvető jogok elleni, a közlekedési, a vagyon elleni vagy a szellemi tulajdonjog elleni bűncselekmény a meghatározó.
 
+(1a) A büntetés korlátlanul enyhíthető, ha az (1) bekezdésben meghatározott feltételek fennállnak, azonban a büntetés céljának elérése érdekében a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kitiltás vagy a sportrendezvények látogatásától való eltiltás kiszabása nem mellőzhető. Ebben az esetben a közvetítői eljárás eredményes lefolytatását követően kizárólag foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás vagy sportrendezvények látogatásától való eltiltás büntetés szabható ki.
+
 (2) A büntetés korlátlanul enyhíthető, ha az elkövető az (1) bekezdésben meghatározott bűncselekmények esetében az ötévi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében – vagy azt megelőzően, de a közvetítői eljárás keretében született megállapodásban jóváhagyva – a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette. E rendelkezés akkor is irányadó, ha a bűnhalmazatban lévő bűncselekmények közül az élet, testi épség és az egészség elleni, az emberi szabadság elleni, az emberi méltóság és egyes alapvető jogok elleni, a közlekedési, a vagyon elleni vagy a szellemi tulajdonjog elleni bűncselekmény a meghatározó.
 
 (3) Az (1)–(2) bekezdés alkalmazásának nincs helye, ha az elkövető
@@ -5377,6 +5379,14 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt bűnszövetségben vagy üzletszerűen követik el.
 
+### Kriptoeszközzel visszaélés
+
+394/A. § (1) Aki jogosulatlan kriptoeszköz-átváltási szolgáltatás igénybevételével jelentős értékű kriptoeszközt pénzre vagy más kriptoeszközre átvált, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt különösen nagy értékre követik el.
+
+(3) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt különösen jelentős értékre követik el.
+
 ### XXXIX. Fejezet — A KÖLTSÉGVETÉST KÁROSÍTÓ BŰNCSELEKMÉNYEK
 
 ### Társadalombiztosítási, szociális vagy más jóléti juttatással visszaélés
@@ -5615,6 +5625,14 @@ tevékenységet végez, bűntett miatt három évig terjedő szabadságvesztéss
 - b) nyilvántartásba vétel, illetve bejelentés hiányában közvetítői tevékenységet, vagy elektronikuspénz-értékesítői tevékenységet végez oly módon, hogy annak megtörténte ellenőrzését elmulasztotta,
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+### Jogosulatlan kriptoeszköz-átváltási szolgáltatás nyújtása
+
+408/A. § (1) Aki a kriptoeszközök piacáról szóló törvény szerinti validálási kötelezettség megsértésével jelentős értékben kriptoeszköz-átváltási szolgáltatási tevékenységet végez, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt különösen nagy értékre követik el.
+
+(3) A büntetés bűntett miatt két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt különösen jelentős értékre követik el.
 
 ### Gazdasági adatszolgáltatási kötelezettség elmulasztása
 

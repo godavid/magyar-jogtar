@@ -446,7 +446,9 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 (5) A családi járulékkedvezmény (3) bekezdés szerinti összegét a biztosított az éves bevallásában feltünteti.
 
-(6) A családi járulékkedvezmény nem csökkenti azt a járulékkötelezettséget, amelyet az Szja tv. szerint adómentes vagy bevételnek nem minősülő járulékalap után kell megfizetni (ide nem értve a munkavállalói érdekképviseletet ellátó szervezet részére az adóévben levont, befizetett tagdíj összegét). Egyéni és társas vállalkozó esetén a családi járulékkedvezményt a kivétet, a 40. § (2) bekezdése szerint megállapított járulékalapot vagy a személyes közreműködői díjat terhelő társadalombiztosítási járulék erejéig lehet érvényesíteni, azzal, hogy járulékkedvezmény az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó e tevékenységéből származó jövedelme adómentes részével egyező nagyságú járulékalap után fizetendő járulék terhére is érvényesíthető. Ha az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó járulékalapjaként a minimálbért köteles figyelembe venni, a járulékkedvezmény az e járulékalapnak az átalányban megállapított jövedelmet (akkor is, ha az adómentes) meg nem haladó nagyságú része után fizetendő járulék terhére is érvényesíthető.
+(6) A családi járulékkedvezmény nem csökkenti azt a járulékkötelezettséget, amelyet az Szja tv. szerint adómentes vagy bevételnek nem minősülő járulékalap után kell megfizetni (ide nem értve a munkavállalói érdekképviseletet ellátó szervezet részére az adóévben levont, befizetett tagdíj összegét és az Szja tv. 7. § (1) bekezdés m) pontja szerinti jövedelmet). Egyéni és társas vállalkozó esetén a családi járulékkedvezményt a kivétet, a 40. § (2) bekezdése szerint megállapított járulékalapot vagy a személyes közreműködői díjat terhelő társadalombiztosítási járulék erejéig lehet érvényesíteni, azzal, hogy járulékkedvezmény az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó e tevékenységéből származó jövedelme adómentes részével egyező nagyságú járulékalap után fizetendő járulék terhére is érvényesíthető. Ha az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó járulékalapjaként a minimálbért köteles figyelembe venni, a járulékkedvezmény az e járulékalapnak az átalányban megállapított jövedelmet (akkor is, ha az adómentes) meg nem haladó nagyságú része után fizetendő járulék terhére is érvényesíthető.
+
+(7) A biztosítottnak nem minősülő gyermekgondozási díjban részesülő személy a családi járulékkedvezményre e § szabályai szerint jogosult.
 
 35. § A családi járulékkedvezmény érvényesítése nem érinti a biztosított társadalombiztosítási és munkaerő-piaci ellátásokra való jogosultságát és az ellátások összegét.
 
@@ -944,7 +946,7 @@ jelenti be az egészségbiztosítási szervnek.
 - a) huzamos ideje, életvitelszerűen Magyarország területén kívül tartózkodik, és
 - b) a tartózkodási helye jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll.
 
-Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került. Az egészségbiztosítási szerv az adatszolgáltatás alapján a külföldön élő kötelezett személy TAJ számát érvényteleníti és a külföldi biztosításra tekintettel az egészségügyi szolgáltatási járulékfizetési kötelezettséget nyilvántartásában zárja.
+Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került. A kiutalásra nyitva álló határidő az egészségbiztosítási szerv válaszának állami adó- és vámhatósághoz történő megérkezését követő napon kezdődik. Az egészségbiztosítási szerv az adatszolgáltatás alapján a külföldön élő kötelezett személy TAJ számát érvényteleníti és a külföldi biztosításra tekintettel az egészségügyi szolgáltatási járulékfizetési kötelezettséget nyilvántartásában zárja.
 
 (8) Ha egészségügyi szolgáltatás igénybevételére került sor a (7) bekezdésben foglalt időszak alatt, akkor a természetes személy köteles az egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeit megtéríteni. Az igénybe vett egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeinek megfizetésére az egészségbiztosítási szerv kötelezi a természetes személyt a közfinanszírozott szolgáltatótól beérkezett teljesítményjelentés alapján. Ha a kötelezett önként nem téríti meg a költségeket, a követelést az egészségbiztosítási szerv az állami adó- és vámhatóságnak adók módjára behajtandó köztartozásként átadja.
 
@@ -1229,6 +1231,8 @@ e foglalkoztatással összefüggésben a bejelentés és nyilvántartás, valami
 
 a 25 százalékot.
 
+(2a) A (2) bekezdés b) pontja szerinti feltétel fennállásáról az állami adó- és vámhatóság az egészségbiztosítási szerv megkeresésére adatot szolgáltat.
+
 (3) A magyar jog alkalmazandó jogként meghatározható a (2) bekezdésben meghatározott feltételek hiányában akkor is, ha a munkáltató olyan tényeket, körülményeket igazol, amelyből a jelentős belföldi gazdasági tevékenység valószínűsíthető (így különösen, ha a vállalkozás belföldön folyamatos termelőtevékenységet végez).
 
 (4) A jelentős gazdasági tevékenységgel kapcsolatos feltételt teljesítettnek kell tekinteni akkor is, ha a munkáltató jogelődje teljesíti a jelentős gazdasági tevékenység feltételét.
@@ -1357,6 +1361,10 @@ a 25 százalékot.
 105/D. § Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 34. § (6) bekezdését és 80. § (2) bekezdését az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó már a 2023. január havi, illetve az azt követő hónapok járulékkötelezettségének a megállapítása során alkalmazhatja.
 
 105/D. § A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 40. § (4) bekezdés f) pontját és (5) bekezdését a 2023. december 31-ét követően megkezdett szünetelés esetében kell alkalmazni. A 2024. január 1-jén folyamatban lévő szünetelés esetén a 2023. december 31-én hatályos szabályokat kell alkalmazni.
+
+105/E. § (1) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 34. § (6) bekezdése a 2025. június 30. után megszerzett, munkaviszonyból származó jövedelem esetén a 2025. június 30. utáni időszakra elszámolt jövedelem tekintetében alkalmazható.
+
+(2) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 71. § (7) bekezdése a hatálybalépését követően benyújtott kérelmek esetében alkalmazható.
 
 #### 34. Az Európai Unió jogának való megfelelés
 

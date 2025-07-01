@@ -673,7 +673,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 2. a munkáltató, kifizető jogelődjének adóazonosító számát,
 - 3. a természetes személy természetes személyazonosító adatait (ideértve az előző nevet és a titulust is), nemét, állampolgárságát,
 - 4. a természetes személy adóazonosító jelét, társadalombiztosítási azonosító jelét (a továbbiakban: TAJ szám),
-- 5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy az örökbefogadói díj folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességéről,
+- 5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj vagy az örökbefogadói díj folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességét,
 - 6. a természetes személy esetében az Szja tv. 29/A. § és 29/B. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a kedvezmény közös érvényesítésének tényét, annak arányát,
   - b) a magzat kivételével minden eltartott, kedvezményezett eltartott nevét, adóazonosító jelét,
@@ -700,8 +700,11 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 9. a társadalombiztosítási járulék alapját képező jövedelmet, a társadalombiztosítási járulék-köteles jutalom összegét, illetve a levont társadalombiztosítási járulék összegét,
 - 10. a társadalombiztosítási járulék levonása, illetve levonás elmaradásának okát,
 - 11. a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, illetve az ezen időtartamra vonatkozó levont társadalombiztosítási járulék alapját és összegét,
-- 12.
-- 13. a gyermekgondozási díj (gyed), gyermekgondozást segítő ellátás (gyes), gyermeknevelési támogatás (gyet), gyermekek otthongondozási díja, ápolási díj, álláskeresési ellátás folyósításának időtartamát, az ellátás összegét, és az abból levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
+- 12. a természetes személy tekintetében az Szja tv. 29/H. §-a szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+  - a) a csecsemőgondozási díj (csed) folyósításának időtartamát, az ellátás összegét és az abból érvényesített kedvezmény összegét,
+  - b) a gyermekgondozási díj (gyed) folyósításának időtartamát, az ellátás összegét, az abból érvényesített kedvezmény összegét és a levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
+  - c) az örökbefogadói díj folyósításának időtartamát, az ellátás összegét, az abból érvényesített kedvezmény összegét,
+- 13. a gyermekgondozást segítő ellátás (gyes), gyermeknevelési támogatás (gyet), gyermekek otthongondozási díja, ápolási díj, álláskeresési ellátás folyósításának időtartamát, az ellátás összegét, és az abból levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
 - 14. a biztosítás szünetelését, vagy munkabérrel ellátatlanság idejét, ennek jogcímkódját,
 - 15. a foglalkozás FEOR számát, a heti munkaidő tartamát,
 - 16. az egészségügyi dolgozók heti negyvennyolc órát meghaladó önként vállalt többletmunkavégzésének idejét (munkaórában),
@@ -1744,6 +1747,12 @@ A csoportos társasági adóalany Tao tv. szerinti adófizetési kötelezettség
 
 Ha az adóhatóságnak az ellenőrzési eljárás keretében végrehajtott adatmentés során tudomására jut a tényállás tisztázásához nem elengedhetetlenül szükséges személyes adat, azt haladéktalanul törli vagy – ha annak haladéktalan törlése nem lehetséges vagy az az ellenőrzési eljárás eredményes lefolytatására tekintettel aránytalan erőfeszítéssel járna – a személyes adatok védelmére vonatkozó előírások szerint az ilyen adat kezelését korlátozza. Az e § szerint korlátozott adatot csak az érintett ismerheti meg, azon – az adat tárolásán túl – további adatkezelési művelet nem végezhető. Az e § szerint korlátozott adatot legkésőbb a törlés akadályául szolgáló körülmény elhárulását követően haladéktalanul törölni kell.
 
+#### 123/B. § [Az állami adó- és vámhatóság által felvett biometrikus aláírásokra vonatkozó adatvédelmi rendelkezések]
+
+(1) Az állami adó- és vámhatóság hatáskörébe tartozó ügyben a természetes személy elektronikus úton felvett kézi aláírása (a továbbiakban: biometrikus aláírás) kizárólag a természetes személynek az adott eljárási cselekmény során történő azonosítását, illetve hitelesítését szolgálja. A biometrikus aláírás az aláírt elektronikus ügyirattól elválaszthatatlan.
+
+(2) Az állami adó- és vámhatóság a biometrikus aláírást az ellenőrzés befejezésétől, amennyiben hatósági eljárás indul, annak végleges befejezésétől számított tíz évig kezeli.
+
 #### 124. § [Adatnyilvántartás]
 
 (1) Az adóhatóság a tudomására jutott adatokat nyilvántartja és megőrzi az adóvégrehajtáshoz való jog elévüléséig, kivéve a nyugdíjellátás megállapításhoz szükséges adatokat, amelyeket az adat nyilvántartásba vételétől számított ötven évig tartja nyilván és őrzi meg. Az adóhatóság a természetes személy adózó azonosításával, adókötelezettségének keletkezésével és teljesítésének ellenőrzésével összefüggésben személyes adatokat tart nyilván és ellenőrizhet.
@@ -1842,6 +1851,8 @@ adóévben összesített mértéke.
 - d) a vállalkozási tevékenységet folytató adózó nevére, elnevezésére, székhelyére, telephelyére, adószámára vonatkozó adatok megismerésére más adózónak – az őt terhelő adókötelezettség jogszerű teljesítéséhez – vagy állami szervnek, köztestületnek törvényben meghatározott feladata ellátásához van szüksége,
 - e) az adóvégrehajtás során végrehajtási joggal vagy jelzálogjoggal terhelt ingatlan tulajdonosának az ingatlanra az adóhatóság által bejegyeztetett jogok alapját képező tartozás fennálló összegéről, valamint a tehermentesítés módjáról szóló, továbbá ha az adótartozást egyoldalú nyilatkozattal átvállalni jogosult személy tájékoztatását szolgálja,
 - f) az állami adóhatóság az adópolitikáért felelős miniszter utasítása alapján teljesíti a jogszabályban meghatározott adókedvezményre, adóalap-kedvezményre vagy adómentességre való jogosultsággal összefüggő kormányzati tájékoztatást.
+- g) a gazdasági társaság adótartozására vonatkozó adatok megismerésére a gazdasági társaság tagjának, – a nyilvánosan működő részvénytársaság részvényese kivételével – részvényesének az adótartozás kiegyenlítése céljából van szüksége,
+- h) az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint létesíthető munkaviszony elektronikus bejelentésére szolgáló alkalmazással történő bejelentésekor a bejelentő képviseleti jogosultságának megállapítását és a bejelentő tájékoztatását szolgálja a bejelentendő munkaviszonynak a munkaviszonyok együttes időtartamára vonatkozó szabályoknak történő megfeleléséről.
 
 (2) Az adózással összefüggő tényt, adatot, iratot a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – ha a hivatalos statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik. Az átadott adatok kezelése a hivatalos statisztikáról szóló törvény rendelkezései szerint történik.
 
@@ -3061,6 +3072,14 @@ A természetes és nem természetes személy adózót egymillió forintig terjed
 
 (5) A foglalkoztatót terhelő bejelentési kötelezettség elmulasztása esetén kiszabandó vagy hibás, hiányos, illetve valótlan adattartalommal történő teljesítése esetén kiszabható mulasztási bírság felső határa a bejelenteni elmulasztott vagy a hibás, hiányos, illetve valótlan adattartalommal teljesített bejelentéssel érintett foglalkoztatottak számának és a bírság (1), illetve (3) bekezdésben rögzített legmagasabb mértékének szorzata.
 
+#### 225/A. § [Biztosítotti jogviszony tisztázására irányuló eljárásban kiszabható mulasztási bírság]
+
+(1) Ha az adózó az általa bejelentett foglalkoztatottra, társas vállalkozóra vonatkozó, az 50. § (1) bekezdése szerinti bevallási kötelezettségét nem teljesítette, az adóhatóság – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével felhívja az adózót a bevallási vagy bejelentési kötelezettség jogszerű teljesítésére.
+
+(2) Az (1) bekezdés szerinti határidő eredménytelen elteltét követően az adóhatóság az adózót százezer forint mulasztási bírsággal sújtja. Ha a mulasztás több foglalkoztatottat, társas vállalkozót érint, a mulasztási bírság mértéke az érintett foglalkoztatottak, társas vállalkozók számának és a bírság összegének szorzata.
+
+(3) Az adóhatóság mellőzi az (1) bekezdés szerinti felhívást és a (2) bekezdés szerinti mulasztási bírság kiszabását, ha az adózó felszámolás, végelszámolás vagy kényszertörlési eljárás alatt áll és a felhíváskor már nincsen lehetősége a bevallási vagy bejelentési kötelezettség jogszerű teljesítésére.
+
 #### 226. § [Igazolatlan eredetű áru forgalmazása és EKAER bejelentési kötelezettség nem előírásszerű teljesítése]
 
 (1) Ha az adózó igazolatlan eredetű árut forgalmaz, terhére az adóhatóság az áru forgalmi értékének negyven százalékáig terjedő, de természetes személy adózó esetében legalább kettőszázezer forint, nem természetes személy adózó esetében legalább ötszázezer forint mulasztási bírságot szabhat ki.
@@ -3292,7 +3311,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 - d) az adózó a rá irányadó szabályoknak megfelelő törvényes képviselőt az állami adó- és vámhatósághoz annak felszólítása ellenére sem jelentette be,
 - e) az adózó ellenőrzése alapján hitelt érdemlően tudomást szerez arról, hogy az adózó által bejelentett törvényes képviselő nem valós személy,
 - f) azt a támogató az államháztartásról szóló 2011. évi CXCV. törvény 53/A. § (3) és (4) bekezdésében meghatározott esetben kezdeményezi,
-- g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási kötelezettségének a törvényi határidőtől számított száznyolcvan napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget.
+- g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási, vagy az általános forgalmi adó bevallási kötelezettségének a törvényi határidőtől számított kilencven napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget,
 - h) az adózó által bejelentett székhelyszolgáltató nem szerepel a székhelyszolgáltatók nyilvántartásában és az adózó az adóhatóság (2) bekezdés szerinti felhívása ellenére bejelentését nem vonta vissza, és nem gondoskodott másik megfelelő székhely vagy székhelyszolgáltató bejelentéséről sem.
 - i) a Dáptv. alapján elektronikus ügyintézésre köteles adózó a Dáptv. szerinti hivatalos elérhetőséggel nem rendelkezik.
 

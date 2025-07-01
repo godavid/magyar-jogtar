@@ -1212,6 +1212,8 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 
 (6) A vagyonkezelő a vagyon felújításáról, pótlólagos beruházásáról legalább a vagyoni eszközök elszámolt értékcsökkenésének megfelelő mértékben köteles gondoskodni és e célokra az értékcsökkenésnek megfelelő mértékben tartalékot képezni. Ha a vagyonkezelő olyan közfeladatot lát el, amely után bevételének több mint fele az államháztartás valamely alrendszeréből származik, a helyi önkormányzat a vagyonkezelési szerződésben részletezett feltételekkel a bevételekben meg nem térülő elszámolt értékcsökkenésnek megfelelő összeg erejéig elengedheti a vagyonkezelőnek a helyi önkormányzattal szemben fennálló, a kezelt vagyonnal összefüggő hosszú lejáratú kötelezettségét. Ez esetben a vagyonkezelő e bekezdés szerinti kötelezettsége a bevételekben megtérülő értékcsökkenés összegéig áll fenn.
 
+(6a) A víziközmű-szolgáltató vagyonkezelésébe vett vagyon esetében a visszapótlási kötelezettség összegének megállapítására a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 25/A. §-ában foglaltakat kell alkalmazni.
+
 (7) A vagyonkezelő a vagyonkezelésébe vett vagyon használatából, működtetéséből származó bevételeit, illetve közvetlen költségeit és ráfordításait elkülönítetten köteles nyilvántartani oly módon, hogy az a saját vagyonnal folytatott vállalkozási tevékenységéből származó bevételeitől, költségeitől és ráfordításaitól egyértelműen elhatárolható legyen.
 
 (8) A vagyonkezelő a tulajdonosi ellenőrzést köteles tűrni, az ellenőrzés érdekében kötelezhető minden közérdekből nyilvános adat, valamint – a személyes adatok védelmére vonatkozó szabályok megtartásával – az önkormányzati vagyonra és vagyonkezelésre vonatkozó adat szolgáltatására és okirat bemutatására.

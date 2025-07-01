@@ -4568,6 +4568,39 @@ szükséges.
 
 317. § A lefoglalt dolog megváltására, értékesítésére és elkobzására, valamint a lefoglalás megszüntetésére és visszatartására vonatkozó rendelkezéseket az elektronikus adatra is megfelelően alkalmazni kell.
 
+### A számlapénz vagy elektronikus pénz megőrzésére kötelezés és a megőrzést követő lefoglalás
+
+317/A. § (1) A bíróság, az ügyészség és a nyomozó hatóság számlapénz vagy elektronikus pénz megőrzésre kötelezést rendelhet el, ha
+
+- a) a számlapénz vagy elektronikus pénz lefoglalásának lenne helye,
+- b) az érintett vagyoni érdekelt rendelkezik olyan, a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési számlával, a tőkepiacról szóló törvény szerinti ügyfélszámlával vagy az egyes fizetési szolgáltatókról szóló törvény szerint elektronikuspénz-kibocsátó intézmény által vezetett, fizetési számlának nem minősülő, elektronikus pénz nyilvántartására szolgáló számlával (e § alkalmazásában a továbbiakban együtt: számla), amelyre számlapénz vagy elektronikus pénz jóváírása várható, és
+- c) feltehető, hogy az érintett vagyoni érdekelt rendelkezése alatt álló fizetési számlán vagy elektronikuspénz-számlán nem vagy csak részben áll rendelkezésre lefoglalható számlapénz vagy elektronikus pénz.
+
+(2) A számlapénz vagy elektronikus pénz megőrzésére kötelezés legfeljebb három hónapra rendelhető el, amely egy év elteltéig, alkalmanként három hónappal meghosszabbítható. Ennek elteltével a határozat hatályát veszti.
+
+(3) A számlapénz vagy elektronikus pénz megőrzésére kötelezést elrendelő határozatban meg kell jelölni
+
+- a) az érintett számla azonosítására alkalmas adatokat,
+- b) a számlapénz vagy elektronikus pénz lefoglalásnak szükségességét és annak jogalapját,
+- c) a számlapénz vagy elektronikus pénz megőrzésére kötelezés kezdő és befejező időpontját napban meghatározva,
+- d) ha a számlapénz vagy elektronikus pénz megőrzésére kötelezés meghatározott összeg (e § alkalmazásában a továbbiakban együtt: érintett összeg) erejéig áll fenn, az érintett összeget, valamint
+- e) azt az időközt, amelynek megfelelően a szolgáltató köteles tájékoztatni az elrendelő bíróságot, ügyészséget vagy nyomozó hatóságot.
+
+(4) A számlapénz vagy elektronikus pénz megőrzésére kötelezést elrendelő határozatot a vagyoni érdekelttel, valamint a számlát vezető pénzforgalmi szolgáltatóval, befektetési szolgáltatóval vagy elektronikuspénz-kibocsátó intézménnyel (e § alkalmazásában a továbbiakban együtt: szolgáltató) közölni kell. A határozat ellen a szolgáltató nem élhet jogorvoslattal.
+
+(5) Ha a számlapénz vagy elektronikus pénz megőrzésére kötelezéssel érintett számlán számlapénzt vagy elektronikus pénzt írnak jóvá vagy az rendelkezésre áll, akkor a szolgáltató erről a (3) bekezdés e) pontja szerinti időközönként tájékoztatja az elrendelő bíróságot, ügyészséget vagy nyomozó hatóságot. A szolgáltató a megőrzésre kötelezés időtartama alatt köteles a számla teljes egyenlege vonatkozásában vagy a (3) bekezdés d) pontja szerinti esetben az érintett összeg erejéig felfüggeszteni a számlatulajdonosnak a megőrzésre kötelezéssel érintett számla feletti rendelkezési jogát, akként, hogy a megőrzésre kötelezés időtartama alatt a számla teljes egyenlege vagy az érintett összeg terhére fizetési műveletet nem teljesít, azt visszautasítja, ideértve, hogy az ügyfélszámla terhére megbízást nem fogad be, azonban a számla javára érkező összeg jóváírását teljesíti.
+
+(6) A bíróság, az ügyészség és a nyomozó hatóság a (3) bekezdés e) pontja szerinti tájékoztatást követően egy hónapon belül dönt az érintett időszakban a szolgáltató tájékoztatásában szereplő számlapénz vagy elektronikus pénz részben vagy egészben történő lefoglalásáról vagy arról, hogy a szolgáltató tájékoztatásában szereplő számlapénz vagy elektronikus pénz tekintetében a lefoglalás feltételei nem állnak fenn. Ha a bíróság, az ügyészség vagy a nyomozó hatóság megállapítja, hogy a szolgáltató tájékoztatásában szereplő számlapénz vagy elektronikus pénz tekintetében a lefoglalás feltételei nem állnak fenn, akkor e számlapénz vagy elektronikus pénz vonatkozásában a megőrzésre kötelezés a továbbiakban nem áll fenn.
+
+(7) A számlapénz vagy elektronikus pénz megőrzésére kötelezést meg kell szüntetni, ha az elrendelésének oka megszűnt vagy a büntetőeljárást befejezték. A határozat ellen jogorvoslatnak nincs helye.
+
+(8) A számlapénz vagy elektronikus pénz megőrzésére kötelezés megszűnik, ha
+
+- a) a megőrzésére kötelezéssel érintett összeg lefoglalására került sor, vagy megállapították, hogy a szolgáltató tájékoztatásában szereplő számlapénz vagy elektronikus pénz tekintetében a lefoglalás feltételei nem állnak fenn, vagy
+- b) a megőrzésre kötelezés határideje lejárt.
+
+(9) A szolgáltató az e §-ban meghatározott kötelezettségeinek megsértése miatt rendbírsággal sújtható. Nem szabható ki rendbírság, ha a szolgáltató a határozat kézbesítését követő 12 órán belül mulasztja el az (5) bekezdésben meghatározott kötelezettségeit.
+
 ### A lefoglalt dolog megváltása
 
 318. § (1) Ha a dolog lefoglalására kizárólag vagyonelkobzás biztosítása érdekében került sor, és annak kiadása iránt megalapozott igényt nem jelentettek be, az, akitől a dolgot lefoglalták, indítványozhatja a dolog megváltásának elfogadását.
@@ -6053,22 +6086,23 @@ is kötheti.
 
 (3) Az eljárás közvetítői eljárás céljából történő felfüggesztésnek nem akadálya, ha a gyanúsított a bűncselekménnyel okozott kárt, vagyoni hátrányt, vagy a bűncselekmény elkövetési értékét részben vagy egészben már önként megtérítette, illetve a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette.
 
+(4) Az ügyészség a (2) bekezdésben meghatározott feltételek fennállása esetén a büntetőeljárás felfüggesztése nélkül is elrendelheti a közvetítői eljárás lefolytatását. Ez a rendelkezés nem alkalmazható, ha a bűncselekménnyel okozott sérelem közvetítői eljárás keretében történő jóvátétele esetén a Btk. 29. § (1) vagy (1a) bekezdése alkalmazásának lenne helye.
+
 ### Eljárás a közvetítői eljárást megelőzően
 
-413. § (1) Ha a gyanúsított vagy a sértett a közvetítői eljárás lefolytatását indítványozza, vagy ehhez hozzájárul, de a közvetítői eljárás e törvényben foglalt feltételei nem állnak fenn, az ügyészség az eljárás közvetítői eljárás céljából történő felfüggesztését határozat hozatalával megtagadja.
+413. § (1) Ha a gyanúsított vagy a sértett a közvetítői eljárás lefolytatását indítványozza, vagy ehhez hozzájárul, de a közvetítői eljárás e törvényben foglalt feltételei nem állnak fenn, az ügyészség a közvetítői eljárás elrendelését határozat hozatalával megtagadja.
 
-(2) Ha a gyanúsított vagy a sértett a közvetítői eljárás lefolytatását indítványozza, az ügyészség gondoskodik a gyanúsított vagy a sértett hozzájárulásával kapcsolatos nyilatkozat beszerzéséről, feltéve, hogy a közvetítői eljárás e törvényben foglalt feltételei egyébként fennállnak. Az ügyészség a nyilatkozat beszerzését követően határoz az eljárás közvetítői eljárás céljából történő felfüggesztéséről vagy annak megtagadásáról.
+(1a) Az ügyészség a közvetítői eljárás elrendelését akkor is megtagadhatja, ha a közvetítői eljárás e törvényben foglalt feltételei fennállnak, de feltételes ügyészi felfüggesztést alkalmaz.
 
-(3) Ha a sértett a gyanúsított kihallgatását megelőzően indítványozza a közvetítői eljárás lefolytatását, az ügyészség a gyanúsítotti kihallgatást követően gondoskodik a hozzájárulással kapcsolatos nyilatkozat beszerzéséről és
+(2) Ha a gyanúsított vagy a sértett a közvetítői eljárás lefolytatását indítványozza, az ügyészség gondoskodik a gyanúsított vagy a sértett hozzájárulásával kapcsolatos nyilatkozat beszerzéséről, feltéve, hogy a közvetítői eljárás e törvényben foglalt feltételei egyébként fennállnak. Az ügyészség a nyilatkozat beszerzését követően határoz a közvetítői eljárás elrendeléséről vagy annak megtagadásáról.
 
-- a) a közvetítői eljárás céljából az eljárás felfüggesztéséről, vagy
-- b) a közvetítői eljárás megtagadásáról.
+(3) Ha a sértett a gyanúsított kihallgatását megelőzően indítványozza a közvetítői eljárás lefolytatását, az ügyészség a gyanúsítotti kihallgatást követően gondoskodik a hozzájárulással kapcsolatos nyilatkozat beszerzéséről, és a közvetítői eljárás elrendeléséről vagy megtagadásáról határoz.
 
-(4) Az ügyészség az eljárás közvetítői eljárás céljából történő felfüggesztéséről vagy annak megtagadásáról rendelkező határozatát a közvetítői eljárást indítványozó, vagy ahhoz hozzájáruló gyanúsítottal és sértettel közli.
+(4) Az ügyészség a közvetítői eljárás elrendeléséről vagy annak megtagadásáról rendelkező határozatát a közvetítői eljárást indítványozó, vagy ahhoz hozzájáruló gyanúsítottal és sértettel közli.
 
-414. § (1) Közvetítői eljárás lefolytatása céljából az ügyészség az eljárást egy alkalommal, hat hónapra függeszti fel.
+414. § (1) Közvetítői eljárás lefolytatása céljából az ügyészség az eljárást egy alkalommal, hat hónapra függesztheti fel.
 
-(2) Az ügyészség az eljárást felfüggesztő határozatot a közvetítői eljárás lefolytatására hatáskörrel és illetékességgel rendelkező pártfogó felügyelői szolgálattal is közli.
+(2) Az ügyészség a közvetítői eljárást elrendelő határozatot a közvetítői eljárás lefolytatására hatáskörrel és illetékességgel rendelkező pártfogó felügyelői szolgálattal is közli.
 
 (3) A gyanúsítottnak és a sértettnek a közvetítői eljárás során tett nyilatkozata az ügyben bizonyítékként nem használható fel. A közvetítői eljárás eredményét nem lehet a gyanúsított terhére értékelni.
 
@@ -6076,7 +6110,7 @@ is kötheti.
 
 ### Eljárás a közvetítői eljárásban létrejött megállapodást követően
 
-415. § (1) Ha a közvetítői eljárás során a sértett és a gyanúsított között a közvetítői eljárásról szóló törvény szerinti megállapodás létrejött, a közvetítő a megállapodást megküldi az ügyészségnek.
+415. § (1) Ha az ügyészség az eljárást felfüggesztette és a közvetítői eljárás során a sértett és a gyanúsított között a közvetítői eljárásról szóló törvény szerinti megállapodás létrejött, a közvetítő a megállapodást megküldi az ügyészségnek.
 
 (2) Az ügyészség a megállapodást hatályon kívül helyezi, ha a megállapodás a közvetítői eljárásról szóló törvénybe ütközik. Az ügyészség a határozatot közli mindazokkal, akik a hatályon kívül helyezett megállapodást kötötték, valamint a közvetítővel.
 
@@ -6087,6 +6121,10 @@ is kötheti.
 (5) Ha az ügyészség a felfüggesztés 414. § (1) bekezdésében meghatározott tartamának elteltét követően megállapítja, hogy a (4) bekezdésben meghatározott feltételek fennállnak, a közvetítői eljárásban kötött megállapodás teljesítése céljából az eljárást egy alkalommal, legfeljebb a felfüggesztés kezdő időpontjától számított két évig ismét felfüggesztheti.
 
 (6) Ha az eljárás felfüggesztésének tartama alatt a közvetítői eljárás befejeződött, és az eljárás megszüntetésének vagy más okból történő felfüggesztésének nincs helye, az ügyészség elrendeli az eljárás folytatását.
+
+(7) Ha a közvetítői eljárásban a megállapodás megkötésének elmaradása a gyanúsítottnak nem róható fel, az ügyészség feltételes ügyészi felfüggesztés alkalmazását rendelheti el.
+
+415/A. § Ha az ügyészség a közvetítői eljárást a büntetőeljárás felfüggesztése nélkül rendelte el, a közvetítő a 415. § (1) bekezdése szerinti megállapodást a közvetítői eljárást elrendelő ügyészségnek küldi meg. Az ügyészség a vádemelést követően megküldött megállapodást megküldi a bíróságnak.
 
 ### LXVII. Fejezet — A FELTÉTELES ÜGYÉSZI FELFÜGGESZTÉS
 
@@ -6123,6 +6161,7 @@ is kötheti.
 - a) a gyanúsított képes-e teljesíteni a tervezett magatartási szabályt vagy kötelezettséget,
 - b) a gyanúsított a tervezett pszichiátriai vagy alkoholfüggőséget gyógyító kezeléshez hozzájárul-e, és
 - c) ha a jóvátétel lehetősége fennáll, a sértett a jóvátételhez hozzájárul-e.
+- d) a gyanúsított és a sértett a tervezett helyreállító szemléletű eljárásban való részvételhez hozzájárul-e azzal, hogy a közvetítői eljárásnak a gyanúsított, illetve a sértett általi indítványozása esetén a hozzájáruló nyilatkozat beszerzése mellőzhető.
 
 (2) Az ügyészség az (1) bekezdésben meghatározott körülmények tisztázása érdekében pártfogó felügyelői vélemény beszerzését rendelheti el.
 
@@ -6134,12 +6173,15 @@ is kötheti.
 - b) más módon gondoskodjon a sértettnek adandó jóvátételről,
 - c) meghatározott célra anyagi juttatást teljesítsen vagy a köz számára munkát végezzen,
 - d) előzetes hozzájárulása esetén pszichiátriai vagy alkoholfüggőséget gyógyító kezelésben vegyen részt.
+- e) vegyen részt jogszabályban meghatározott helyreállító szemléletű – a párfogó felügyelői szolgálat által lefolytatott – eljárásban, és az annak eredményeként meghatározott, a helyreállító tervben foglaltakat teljesítse, és ezt igazolja a pártfogó felügyelői szolgálat felé.
+
+(2a) A (2) bekezdés e) pontja szerinti kötelezettség előírása esetén a sértett a hozzájárulásával vonható be az eljárásba, de a kötelezettség elrendelésének nem akadálya, hogy a sértett nem adta a hozzájárulását vagy, hogy a bűncselekménynek nincs sértettje.
 
 (3) Az ügyészség a (2) bekezdésben meghatározottak közül több, illetve azokon kívül más magatartási szabályt is megállapíthat vagy más kötelezettséget is előírhat.
 
 (4) Az ügyészség a feltételes ügyészi felfüggesztéssel egyidejűleg elrendelheti a gyanúsított pártfogó felügyeletét.
 
-(5) Ha a bűncselekmény összegszerűen megállapítható kárt, vagyoni hátrányt, adóbevétel-csökkenést vagy vámbevétel-csökkenést okozott, vagy elkövetési értéke összegszerűen megállapítható, és az az eljárás során nem térült meg, feltételes ügyészi felfüggesztés esetén az ügyészség annak a megtérítésére vagy az eredeti állapot helyreállítására kötelezi a gyanúsítottat, feltéve, hogy erre a gyanúsított képes és ehhez a sértett hozzájárul.
+(5) Ha a bűncselekmény összegszerűen megállapítható kárt, vagyoni hátrányt, adóbevétel-csökkenést vagy vámbevétel-csökkenést okozott, vagy elkövetési értéke összegszerűen megállapítható, és az az eljárás során nem térült meg, feltételes ügyészi felfüggesztés esetén az ügyészség annak a megtérítésére vagy az eredeti állapot helyreállítására kötelezi a gyanúsítottat, feltéve, hogy erre a gyanúsított képes és ehhez a sértett hozzájárul. Az ügyészség a (2) bekezdés e) pontja szerinti kötelezettség teljesítését is elrendelheti.
 
 (6) Az ügyészség az (5) bekezdésben foglalt rendelkezéstől csak különös méltánylást érdemlő esetben térhet el.
 

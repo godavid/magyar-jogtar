@@ -960,6 +960,8 @@ esetében
 
 (2) Abban az esetben, ha az ügylet teljesítését számla azért nem tanúsítja, mert e törvény szerint számla kibocsátásáról nem kellett a kötelezettnek gondoskodnia, a 77. § (1) és (2) bekezdése szerinti esetben az adó alapja utólagos csökkenésének nem akadálya az (1) bekezdés nem teljesülése.
 
+(2a) Ha az ügylet teljesítését nyugta tanúsította, és a jogosultnak ellenértéket térítenek vissza, akkor az (1) bekezdéstől eltérően a 77. § (3) bekezdés alkalmazásának feltétele, hogy a kötelezett a nyugta adattartalmának módosításáról gondoskodjon.
+
 (3) A 77. § (4) bekezdés alkalmazásának feltétele, hogy a pénzt visszatérítő adóalany az alábbiakkal rendelkezzen:
 
 - a) a pénzvisszatérítésre jogosult nevére szóló, a pénzvisszatérítésre jogosító ügylet teljesítését tanúsító számla másolati példánya, amely egyértelműen igazolja, hogy az adott ügylet belföldön teljesített adóköteles ügylet és
@@ -2259,6 +2261,8 @@ számlakibocsátási kötelezettséget jelent.
 
 166. § (1) Abban az esetben, ha az adóalany a 165. § (1) bekezdésének b) pontja szerint mentesül a számlakibocsátási kötelezettség alól, köteles a termék beszerzője, szolgáltatás igénybevevője részére nyugta kibocsátásáról gondoskodni.
 
+(1a) Az e-nyugta a nyugtatárba való beérkezéssel minősül kibocsátottnak.
+
 (2) Nyugta helyett az adóalany számla kibocsátásáról is gondoskodhat. Ebben az esetben mentesül a külön jogszabályban előírt gépi kiállítású nyugtakibocsátási kötelezettség alól [178. § (1) bekezdése].
 
 ### Nyugtakibocsátási kötelezettség alóli mentesülés
@@ -2332,15 +2336,36 @@ számlakibocsátási kötelezettséget jelent.
 - a) a nyugta kibocsátásának kelte;
 - b) a nyugta sorszáma, amely a nyugtát kétséget kizáróan azonosítja;
 - c) a nyugta kibocsátójának adószáma, valamint neve és címe;
-- d) a termék értékesítésének, szolgáltatás nyújtásának adót is tartalmazó ellenértéke.
+- d) a termék értékesítésének, szolgáltatás nyújtásának adót is tartalmazó ellenértéke;
+- e) az értékesített termék megnevezése, globális kereskedelmi áruazonosító száma, amennyiben azzal rendelkezik, továbbá mennyisége, a nyújtott szolgáltatás megnevezése, továbbá mennyisége, feltéve, hogy az természetes mértékegységben kifejezhető;
+- f) az alkalmazott adómértéknek megfelelő, a 83. § szerint meghatározott százalék;
+- g) adómentes ügylet esetében egyértelmű utalás arra, hogy a termék értékesítése, szolgáltatás nyújtása mentes az adó alól;
+- h) a „különbözet szerinti szabályozás – használt cikkek” vagy a „különbözet szerinti szabályozás – műalkotások”, vagy a „különbözet szerinti szabályozás – gyűjteménydarabok és régiségek” kifejezések közül a megfelelő kifejezés, a XVI. fejezetben meghatározott különös szabályok szerinti használt ingóság, műalkotás, gyűjteménydarab vagy régiség értékesítése esetében.
 
 (2) Abban az esetben, ha a nyugta egyúttal az abban megjelölt szolgáltatás igénybevételére is jogosít, akkor az (1) bekezdés a) pontjában foglalt adattartalom helyett elegendő azon feltüntetni azt az időpontot vagy időszakot, amikor a nyugtában megjelölt szolgáltatás igénybe vehető.
 
+(3) Az (1) bekezdéstől eltérően az e-nyugtának nem minősülő nyugta esetében elegendő az (1) bekezdés a)–d) pontok szerinti adatok feltüntetése.
+
 173/A. § A nyugta kibocsátásának időpontjától a nyugta megőrzésére vonatkozó időszak végéig biztosítani kell a nyugta eredetének hitelességét, adattartalma sértetlenségét és olvashatóságát.
+
+### A nyugtával egy tekintet alá eső okirat
+
+173/B. § (1) A nyugtával egy tekintet alá esik minden más, a nyugtától eltérő okirat is, amely tartalmazza a (2) bekezdésben foglalt adatokat és kétséget kizáróan az adott nyugtára hivatkozva, annak adattartalmát módosítja.
+
+(2) A nyugtával egy tekintet alá eső okiratnak legalább az alábbiakat kell tartalmaznia:
+
+- a) az okirat kibocsátásának kelte;
+- b) az okirat sorszáma, amely az okiratot kétséget kizáróan azonosítja;
+- c) hivatkozás arra a nyugtára, amelynek adattartalmát az okirat módosítja;
+- d) a nyugta adatának megnevezése, amelyet a módosítás érint, valamint a módosítás természete, illetve annak számszerű hatása, ha ilyen van.
 
 ### Megjelenési forma
 
-174. § A számla és a nyugta lehet elektronikus vagy papíralapú.
+174. § (1) A számla és a nyugta lehet elektronikus vagy papíralapú.
+
+(2) Az (1) bekezdéstől eltérően e-nyugtát kiállítani, kibocsátani kizárólag elektronikusan lehet. A kibocsátott e-nyugtát a terméket beszerző, szolgáltatást igénybe vevő a nyugtatárban érheti el vevői alkalmazás segítségével.
+
+(3) A kiállított e-nyugtáról a terméket beszerző, szolgáltatást igénybe vevő kérésére vagy jogszabályban meghatározott esetekben a terméket beszerző, szolgáltatást igénybe vevő részére papíralapú másolatot kell rendelkezésre bocsátani.
 
 ### Elektronikus számlára vonatkozó szabályok
 
@@ -2386,7 +2411,7 @@ számlakibocsátási kötelezettséget jelent.
 
 178. § (1) Külön jogszabály a számla és a nyugta kiállításának módjára, ideértve a nyugta-kibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítását is, valamint a számla és a nyugta adóigazgatási azonosítására egyéb rendelkezéseket is megállapíthat.
 
-(1a) A nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén az engedélyezett géppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adóhatóság részére. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítására szolgáló pénztárgép-, gépi nyugta kiállítására szolgáló egyéb technikai megoldás működését az állami adóhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adóhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit, a gépi nyugta kiállítására szolgáló egyéb technikai megoldás azonosítóit nem kapcsolhatja össze a pénztárgép-, a gépi nyugta kiállítására szolgáló egyéb technikai megoldás üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép-, a gépi nyugta kiállítására szolgáló egyéb technikai megoldás üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adóhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adóhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.
+(1a) A nyugtaadási kötelezettség pénztárgéppel történő megvalósítása esetén a pénztárgéppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező pénztárgépi kiállítással történő megvalósítására szolgáló pénztárgép működését az állami adó- és vámhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adó- és vámhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit nem kapcsolhatja össze a pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adó- és vámhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adó- és vámhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.
 
 (2) Számla magyar nyelven vagy élő idegen nyelven egyaránt kiállítható. E rendelkezés alkalmazásától az (1) bekezdésben említett esetben sem lehet eltérni.
 
@@ -4056,11 +4081,17 @@ közösségi adószám birtokában végezhet.
 
 ### Adatszolgáltatás
 
-257/G. § (1) Az adóalany – a 178. § (1a) bekezdésben meghatározott eltéréssel – a 4/A. számú mellékletben, valamint a 10. számú mellékletben meghatározottak szerint adatot szolgáltat az állami adó- és vámhatóság részére.
+257/G. § (1) Az adóalany a (2)–(6) bekezdésben meghatározottak esetében köteles adatot szolgáltatni az állami adó- és vámhatóság részére.
 
-(2) A 10. számú melléklet és a 178. § (1a) bekezdés szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+(2) Az adóalany az általa teljesített termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott számláról, számlával egy tekintet alá eső okiratról, – a pénztárgéppel, valamint az e-pénztárgéppel kiállított számlák, számlával egy tekintet alá eső okiratok kivételével – valamint termék beszerzése, szolgáltatás igénybevétele esetén azon számlákról, számlával egy tekintet alá eső okiratokról, amelyek alapján adólevonási jogot gyakorol, az adatszolgáltatást a 10. számú mellékletben meghatározottak szerint teljesíti.
 
-(3) A 195/G. § hatálya alá tartozó adóalany az általa e minőségében teljesített 2. § a) pontja szerinti termékértékesítésről, szolgáltatásnyújtásról kiállított, kibocsátott számlákról, számlával egy tekintet alá eső okiratokról az adatszolgáltatást azon, a székhelye, ennek hiányában lakóhelye szerinti tagállami szabályozás szerinti adatszolgáltatással is teljesítheti, mely tartalmában a Héa-irányelv 284b. cikkének felel meg.
+(3) Az adóalany az általa teljesített 2. § a) pontja szerinti termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott e-nyugtákról, valamint az e-pénztárgéppel kiállított számlákról, továbbá az azokkal egy tekintet alá eső okiratokról az adatszolgáltatást a 11. számú mellékletben foglaltak szerint teljesíti.
+
+(4) A 178. § (1a) bekezdése, valamint a 10. és 11. számú melléklet szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+
+(5) Az adóalany a Közösségen belüli ügyleteivel kapcsolatos adatszolgáltatást a 4/A. számú mellékletben foglaltak szerint teljesíti.
+
+(6) A (2) bekezdésben foglaltaktól eltérően a 195/G. § hatálya alá tartozó adóalany az általa e minőségében teljesített 2. § a) pontja szerinti termékértékesítésről, szolgáltatásnyújtásról kiállított, kibocsátott számlákról, számlával egy tekintet alá eső okiratokról az adatszolgáltatást azon, a székhelye, ennek hiányában lakóhelye szerinti tagállami szabályozás szerinti adatszolgáltatással teljesíti, amely tartalmában a Héa-irányelv 284b. cikkének felel meg.
 
 ### Ingatlan értékesítésére vonatkozó bejelentési szabály
 
@@ -4724,6 +4755,8 @@ az állami adó- és vámhatóság részére.
 
 (2) Az (1) bekezdésben és a 2025. január 1-jétől hatályos 195/G. §-ban meghatározott feltételeket teljesítő adóalany a 2025. január 1-jétől hatályos XIII. Fejezet 3. alcímében foglalt egyéb feltételek teljesítésétől függetlenül jogosult arra, hogy 2025. január 1. napjával kezdődő és a Héa-irányelv 2025. január 1-jétől alkalmazandó 284. cikk (3) bekezdés harmadik albekezdésében foglaltaknak tartalmában megfelelő egyedi azonosítószám közléséig vagy Magyarország tekintetében történő megerősítéséig tartó időszakban, de legfeljebb 2025. április 30. napjáig belföldön alanyi adómentességet alkalmazzon.
 
+366. § Az Áfa tv. 173. § (1) bekezdésében foglalt rendelkezéseket teljesítettnek kell tekinteni a 2028. július 1-jét megelőzően kiállított azon nyugta tekintetében is, amelyik nem tartalmazza a 173. § (1) bekezdés e) pontja szerinti globális kereskedelmi áruazonosító számot.
+
 367. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése azokban az esetekben alkalmazható, amikor a pénzvisszatérítést az adóalany ezen rendelkezések hatálybalépésének napján vagy azt követő időpontban teljesíti.
 
 (2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel módosított 77. § (4a) bekezdése ezen rendelkezések hatálybalépésének időpontját megelőzően, de a 2023. december 31-ét követően teljesített pénzvisszatérítések esetében is alkalmazható feltéve, hogy az adóalany a pénzvisszatérítésből fakadó adóalap-csökkentési igényét más módon nem érvényesítette.
@@ -4735,6 +4768,8 @@ az állami adó- és vámhatóság részére.
 (2) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontja szerinti termékértékesítés esetén továbbra is a 2024. december 31-én hatályos szabályok szerint kell eljárni, ha a teljesítés időpontja 2025. január 1-jére vagy azt követő időpontra esik, de a terméket beszerző adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2025. január 1-jét megelőzően kellene megállapítani.
 
 (3) Amennyiben az e törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 142. § (1) bekezdés k) pontja szerinti termékértékesítéshez fizetett előleg jóváírásának, kézhezvételének időpontja 2025. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a terméket beszerző adóalany adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
+
+370. § E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 78. § (2a) bekezdését azon ügyletek esetében kell először alkalmazni, amelyek teljesítési időpontja és az ellenérték visszatérítésének időpontja 2025. július 1. napjára vagy azt követő időpontra esik.
 
 372. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2025. naptári évre abban az esetben is jogosult volt választani, ha
 
@@ -5327,3 +5362,11 @@ Számla kiállítása, -kibocsátása
 - 13. A XIII/A. Fejezet szerinti adózási módot választó adóalany által kibocsátott számla esetében a 9–10. pont szerinti nyilatkozatot csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban kell megtenni, amelyben ezen számla alapján az adóalany első alkalommal adólevonási jogot érvényesít.
 - 14. A XIII/A. Fejezet szerinti adózási módot választó adóalany termék beszerzése, szolgáltatás igénybevétele esetén a 9–10. pont szerinti nyilatkozatot ugyanazon számláról csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban teljesíti, amelyben ezen számla alapján első alkalommal adólevonási jogot érvényesít.
 - 15. Mentesül a 9–10. pontban meghatározott nyilatkozattételi kötelezettség alól az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti.
+
+### 11. számú melléklet a 2007. évi CXXVII. törvényhez
+
+#### Nyugta- és számla adatszolgáltatás
+
+Adatszolgáltatás az e-pénztárgéppel kiállított bizonylatokról
+
+Az adóalany az e-nyugták és az e-pénztárgéppel kiállított nyugtával egy tekintet alá eső okiratok, számlák és számlával egy tekintet alá eső okiratok e törvény szerint kötelező adatairól, azok kiállításával egyidejűleg, jogszabály szerint rendszeresen adatot szolgáltat az adó- és vámhatóság részére.
