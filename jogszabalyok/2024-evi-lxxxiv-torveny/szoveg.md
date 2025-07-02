@@ -985,22 +985,11 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 86. §
 
-87. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 87. §
 
-„(1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti. Az ideiglenes megelőző távoltartást elrendelő rendőrség a kezdeményezésben hivatalból, más esetben a kérelem benyújtására jogosult személy kérésére azonnal, írásban nyilatkozik arról, hogy a bántalmazó mozgását nyomon követő technikai eszköz alkalmazásának feltételei rendelkezésre állnak-e.”
+#### 88. §
 
-88. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 16. §-a a következő (2c) bekezdéssel egészül ki:
-
-„(2c) Ha ennek technikai feltételei a rendőrség nyilatkozata alapján rendelkezésre állnak, a bíróság a bántalmazott kérelmére elrendelheti, hogy a megelőző távoltartás magatartási szabályainak megtartását a rendőrség a bántalmazó – valamint beleegyezése esetén a bántalmazott – mozgását nyomon követő technikai eszközzel, valamint alkalmazással ellenőrizze. A bíróság a technikai eszköz alkalmazásának szabályait a megelőző távoltartás magatartási szabályai között határozza meg. A megelőző távoltartás magatartási szabályainak megtartásának ellenőrzésére szolgáló technikai eszköz kiskorú személyre nem telepíthető.”
-
-89. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 18. §-a helyébe a következő rendelkezés lép:
-
-„18. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
-
-- a) jelölje ki a családvédelmi koordinációért felelős szervet;
-- b) állapítsa meg az ideiglenes megelőző távoltartó határozat meghozatalának részletes szabályait.
-
-(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy a megelőző távoltartás bíróság által megállapított magatartási szabályai végrehajtásának technikai eszközzel történő ellenőrzésének részletes szabályait rendeletben állapítsa meg.”
+#### 89. §
 
 #### 44. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 

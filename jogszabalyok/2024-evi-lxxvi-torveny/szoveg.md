@@ -24,32 +24,9 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 
 #### 4. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-8. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 21/A. §-a a következő (9) és (10) bekezdéssel egészül ki:
+#### 8. §
 
-„(9) Az Nktv. 4. § 32a. pontja szerinti tanulmányi rendszert, vagy a szakképzésről szóló 2019. évi LXXX. törvény 7. § 8a. pontjában meghatározott tanulmányi rendszert (a továbbiakban együtt: tanulmányi rendszer) használó köznevelési vagy szakképző intézmény tekintetében az (1) bekezdés szerinti gyermekétkeztetést biztosító szerv a tanulmányi rendszer üzemeltetőjével együttműködve olyan rendszert üzemeltet, amely a tanulmányi rendszerrel együtt alkalmas arra, hogy
-
-- a) a lehetséges étkezés kiválasztására és a későbbi lehetséges módosítások teljeskörű kezelésére, az étkezéssel kapcsolatos tanulói és szülői – a tanulmányi rendszeren keresztüli – kommunikáció biztosítására,
-- b) az étkezéssel kapcsolatos díjak és támogatások be- és kifizetésére és az ezzel kapcsolatos teljeskörű ügyintézésre és bizonylatolásra,
-- c) az étkeztetés során a tanuló részére megrendelt étkezési jogosultság megjelenítésére, az étkezés megtörténtének a tanulmányi rendszerbe történő rögzítésére,
-- d) az étkezés térítési díjához figyelembe vehető adatok és dokumentumok rögzítésére, tárolására, az ezzel kapcsolatos adatszolgáltatás biztosítására, az étkezéssel kapcsolatosan megállapított aktuális terítési díjak és kedvezmények idősoros tárolására, valamint
-- e) az étkezéssel kapcsolatos egyéb adatszolgáltatásra
-
-szükséges nyilatkozatokat és az az étkezéssel kapcsolatos funkciók elérését a szülő, a tanuló, a köznevelési vagy szakképző intézmény a tanulmányi rendszerén keresztül tehesse meg, illetve érhesse el azokat, továbbá a keletkezett adatok és dokumentumok a tanulmányi rendszerben kerüljenek tárolásra.
-
-(10) A (9) bekezdésben foglalt cél egységes megvalósítása érdekében a köznevelési intézménynek vagy szakképző intézménynek azon fenntartója, amely bölcsődét is fenntart, a tanulmányi rendszert a bölcsőde tekintetében is használhatja. Ebben az esetben a bölcsődét a tanulmányi rendszer használata tekintetében köznevelési intézménynek kell tekinteni.”
-
-9. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 34. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A gyámhatóság hivatalból dönt
-
-- a) az 51. § (5) és (10) bekezdése alapján krízisközpontban vagy titkos menedékházban ellátott gyermekkel és
-- b) az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermekkel
-
-történő kapcsolattartásról.”
-
-(2) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 34. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) Az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermek legfeljebb két napra történő eltávozását és két napnál hosszabb időtartamú szabadságát a gyermekvédelmi gyám engedélyezi, ha arra a gyámhatóság döntésében felhatalmazta. A gyermekvédelmi gyám jelzi a gyámhatóságnak, ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyermek gondozási helyét biztosító személy, intézmény között vita keletkezik.”
+#### 9. §
 
 #### 10. §
 
@@ -59,14 +36,7 @@ történő kapcsolattartásról.”
 
 #### 13. §
 
-14. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 130/A. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A gyermek bántalmazása, súlyos elhanyagolása vagy egyéb más súlyos veszélyeztető ok felmerülése esetén a gyámhatóság erre irányuló külön kérelem hiányában is zártan kezeli a gyermek, a (3) bekezdés b) pontja szerint a gyermekkel együtt ellátást igénybe vevő, a tanú és az eljárást kezdeményező szerv vagy személy adatait.
-
-(3) A gyermeket súlyosan veszélyeztető oknak minősül
-
-- a) egyéb jelzés hiányában is, ha a gyermeket gondozó szülő, más törvényes képviselő megtagadja az együttműködést az egészségügyi alapellátást nyújtó szolgáltatóval – háziorvossal, házi gyermekorvossal, védőnővel –, illetve a gyermek gondozása tekintetében a bölcsődei ellátást nyújtó szolgáltatóval, köznevelési intézménnyel, illetve szakképző intézménnyel,
-- b) ha a gyermek ellátására az 51. § (5) és (10) bekezdése alapján krízisközpontban vagy titkos menedékházban kerül sor.”
+#### 14. §
 
 #### 15. §
 

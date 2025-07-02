@@ -48,32 +48,11 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 3. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-4. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 39. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 4. §
 
-„(1) A Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozó részére akkor állapítható meg gyermekek otthongondozási díjára való jogosultság, ha
+#### 5. §
 
-- a) a 38. §-ban a gyermekre meghatározott feltételek teljesülnek,
-- b) a gyermekkel közös háztartásban él, és
-- c) a gyermek nem áll a szülő gondozásában, mert a szülő
-  - ca) meghalt,
-  - cb) a gyermek állandó és tartós gondozásában a saját egészségi állapotára figyelemmel akadályozottá vált, vagy
-  - cc) szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a), c), e) vagy h) pontja vagy 4:186. § (2) bekezdése alapján szünetel, illetve azt a bíróság megszüntette.”
-
-(2) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 39. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés c) pont ca) és cb) alpontja alkalmazásával a jogosultság akkor állapítható meg, ha a szülőnek a gyermekre tekintettel korábban megállapított, gyermekek otthongondozási díjára való jogosultsága az (1) bekezdés c) pont ca) vagy cb) alpontja szerinti okból szűnt meg.
-
-(1b) Az (1a) bekezdés nem alkalmazható, ha a gyermek 18. életévének betöltése előtt került a hozzátartozó gondozásába.”
-
-5. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény II. Fejezet III. cím „Gyermekek otthongondozási díja” alcíme a következő 39/E. §-sal egészül ki:
-
-„39/E. § A 39. §-ban meghatározott jogosultsági feltételek tekintetében a hiányzó bizonyíték ügyfél nyilatkozatával történő pótlásának nincs helye.”
-
-6. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény a következő 134/L. §-sal egészül ki:
-
-„134/L. § (1) A Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv2.) megállapított 39. § (1), (1a) és (1b) bekezdését e rendelkezések hatálybalépését követően indult ügyekben kell alkalmazni.
-
-(2) A Módtv2.-vel módosított 39. § (1) bekezdése hatálybalépését megelőző napon hatályos 39. § (1) bekezdése alapján gyermekek otthongondozási díjában részesülő hozzátartozó jogosultsága az e törvény szerinti – 39. § (1a) bekezdésén kívüli – jogosultsági feltételek fennállásáig nem szüntethető meg.”
+#### 6. §
 
 #### 4. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
@@ -119,9 +98,7 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 25. §
 
-26. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 79. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A nyugdíjfolyósító szerv a minimálbér változása miatt módosuló, a bírósági végrehajtásról szóló törvény szerinti levonási összeghatárt első alkalommal a minimálbér megállapításáról rendelkező jogszabály hatálybalépését követő hónapban általa folyósított ellátásokból történő letiltás során alkalmazza azzal, hogy az ezt megelőző időszakra visszamenőlegesen elszámolt ellátásból levonható összeget a korábban hatályos minimálbér alapulvételével állapítja meg.”
+#### 26. §
 
 #### 27. §
 
@@ -133,27 +110,19 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 7. A sportról szóló 2004. évi I. törvény módosítása
 
-30. § A sportról szóló 2004. évi I. törvény 51. § (2) bekezdés g) pontja a következő gk) alponttal egészül ki:
-
-[A sportpolitikáért felelős miniszter:
-
-a látvány-csapatsportok támogatásával összefüggésben – a ga), gb) és gj) alpontban meghatározott feladatok esetén közigazgatási hatósági hatáskörben – ellátja a sportfejlesztési programok jóváhagyásával és a támogatási igazolásokkal kapcsolatban a hatáskörébe utalt feladatokat, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:]
-
-  - „gk) a Tao. 4. § 47a. pontja szerinti sportakadémia esetében is ellátja a ga)–gj) alpontokban felsorolt feladatokat.”
+#### 30. §
 
 #### 31. §
 
 #### 32. §
 
-33. § A sportról szóló 2004. évi I. törvény a következő 78/Y. §-sal egészül ki:
+#### 33. §
 
-„78/Y. § E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel módosított 22. § (2) bekezdés f) pontját, valamint 51. § (2) bekezdés g) pontját e rendelkezések hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+#### 34. §
 
-34. § A sportról szóló 2004. évi I. törvény az 1. melléklet szerinti 2. melléklettel egészül ki.
+#### 35. §
 
-35. § A sportról szóló 2004. évi I. törvény 22. § (2) bekezdés f) pontjában a „mellett” szövegrész helyébe a „mellett – a Tao. 4. § 47a. pontja szerinti sportakadémia kivételével –” szöveg lép.
-
-36. § A sportról szóló 2004. évi I. törvény 76/B. § (1), (1a) és (1b) bekezdésében az „1. mellékletben” szövegrészek helyébe az „1. és 2. mellékletben” szöveg lép.
+#### 36. §
 
 37. § (1)
 
@@ -292,16 +261,7 @@ lép.
 
 #### 21. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-85. § (1)
-
-(2) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény a következő 254/B. §-sal egészül ki:
-
-„254/B. § (1) A 254/A. § szerint nyújtott központi költségvetési többlettámogatás felhasználása érdekében
-
-- a) a 235. § (1) bekezdésétől eltérően a személyi illetmény 2025. március 1-jétől eltérő kezdő időponttal is megállapítható vagy emelhető, ebben az esetben a teljesítményértékelés mellőzhető,
-- b) a 235. § (3) bekezdésétől és 254. § (2) bekezdésétől eltérően személyi illetmény esetén pótlék megállapítható.
-
-(2) A képviselő-testület jogosult a 2025. évi köztisztviselői illetményalap év közi emelésére.”
+#### 85. §
 
 #### 22. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
@@ -441,31 +401,7 @@ lép.
 
 #### 33. A közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló 2025. évi XXI. törvény módosítása
 
-140. § A közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló 2025. évi XXI. törvény 14. §-a a következő szöveggel lép hatályba:
-
-„14. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény 84. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A települési önkormányzat, a nemzetiségi önkormányzat és a társulás – a 84. § (1a) bekezdésére figyelemmel – fizetési számláját választása alapján egy belföldi hitelintézet vagy a kincstár vezeti.”
-
-(2) Az államháztartásról szóló 2011. évi CXCV. törvény 84. §-a a következő (1a)–(1f) bekezdéssel egészül ki:
-
-„(1a) A fővárosi önkormányzat, a fővárosi kerületi önkormányzat és a megyei jogú városi önkormányzat (a továbbiakban együtt: beutalással érintett önkormányzat) és költségvetési szerve belföldi hitelintézetnél vezetett forint számláiról a kincstárnál vezetett fizetési számlájára (e § alkalmazásában a továbbiakban: kincstári számla) a számlát vezető hitelintézet forintban átutalja a beutalással érintett önkormányzat és költségvetési szerve tárgyévet megelőző második évi beszámolójában szereplő költségvetési kiadási összegének 5%-át meghaladó pénzeszközét.
-
-(1b) Az (1a) bekezdés szerint átutalt pénzeszközökről, valamint azok egyenlegéről a kincstár a beutalással érintett önkormányzat és költségvetési szerve számára elkülönített nyilvántartást vezet.
-
-(1c) A kincstár határozatban 2025. július 31-ig, az ezt követő években tárgyév október 15-éig megállapítja együttesen a beutalással érintett önkormányzat és költségvetési szerve tárgyévet megelőző második évi beszámolójában szereplő költségvetési kiadási összege 5%-át forintban. Amennyiben a beutalással érintett önkormányzat a fizetési számláját vezető belföldi hitelintézetnél attól eltérően nem rendelkezik, a forintban megállapított költségvetési kiadási összeg 5%-ának megfelelő összeg a belföldi hitelintézetnél vezetett számlák között egyenlő összegben kerül felosztásra az (1a) bekezdés szerinti utalási szintként. A számlák közötti megosztás a beutalással érintett önkormányzat részéről legalább havonta egy alkalommal módosítható. A határozatot egyfokú eljárásban kell meghozni, továbbá a kincstár a határozathozatala során az e törvényben nem szabályozott kérdésekben az Ákr. szerint jár el.
-
-(1d) A kincstár adott munkanapon – a hatályos, vonatkozó hirdetményében meghatározott módon és feltételek mellett – biztosítja, hogy az (1b) bekezdés szerinti elkülönített nyilvántartásban szereplő egyenlegig a beutalással érintett önkormányzat és költségvetési szerve által teljesítendő fizetési kötelezettségekhez szükséges pénzeszközök a beutalással érintett önkormányzat és költségvetési szerve belföldi hitelintézetnél vezetett fizetési számláján rendelkezésre álljanak.
-
-(1e) A számlát vezető hitelintézet az (1a) bekezdés szerinti átutalást a beutalással érintett önkormányzatonként és költségvetési szervenként nyitott technikai fizetési számla közbeiktatásával is teljesítheti.
-
-(1f) A beutalással érintett önkormányzat és költségvetési szerve
-
-a) felhatalmazza írásban a kincstárat, hogy a fizetési számlája egyenlegéről folyamatosan tájékoztathatja a fizetési számláját vezető hitelintézetet,
-
-b) felhatalmazza írásban a kincstárat, hogy az értékpapír nyilvántartási és az értékpapír számlája egyenlegéről folyamatosan tájékoztathatja a fizetési számláját vezető hitelintézetet,
-
-c) felhatalmazza írásban a fizetési számláját vezető hitelintézetet, hogy a fizetési számlája egyenlegéről és a technikai fizetési számlája forgalmáról folyamatosan tájékoztathatja a kincstárat.””
+#### 140. §
 
 #### 34. A nyugdíjas élelmiszer-utalványról
 
@@ -562,18 +498,6 @@ alapján sarkalatosnak minősül.
 (3) E törvény 11. és 29. alcíme az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alap Pluszra, a Kohéziós Alapra, az Igazságos Átmenet Alapra és az Európai Tengerügyi, Halászati és Akvakultúra-alapra vonatkozó közös rendelkezések, valamint az előbbiekre és a Menekültügyi, Migrációs és Integrációs Alapra, a Belső Biztonsági Alapra és a határigazgatás és a vízumpolitika pénzügyi támogatására szolgáló eszközre vonatkozó pénzügyi szabályok megállapításáról szóló, 2021. június 24-i (EU) 2021/1060 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2025. évi LI. törvényhez
-
-„2. melléklet a 2004. évi I. törvényhez
-
-|  | A | B |
-| --- | --- | --- |
-| 1 | Az ingatlan helyrajzi száma | A kijelölt vagyonkezelő |
-| 2 | Budapest, belterület 38293/78 | Ferencvárosi Torna Club (székhely: 1091 Budapest, Üllői út 129.) |
-| 3 | Budapest, belterület 74333/1 | Újpesti Torna Egylet (székhely: 1044 Budapest, Megyeri út 13., a továbbiakban: Újpesti Torna Egylet) |
-| 4 | Budapest, belterület 74232 | Újpesti Torna Egylet |
-| 5 | Budapest, belterület 74332 | Újpesti Torna Egylet |
-
-”
 
 ### 2. melléklet a 2025. évi LI. törvényhez
 

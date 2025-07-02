@@ -200,7 +200,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 46. §
 
-47. § Hatályát veszti a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény „Az informatikai rendszer” alcíme.
+#### 47. §
 
 #### 23. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
@@ -298,16 +298,13 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 83. §
 
-84. § Hatályát veszti az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 12/A. §-a.
+#### 84. §
 
 #### 35. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
 #### 85. §
 
-86. § Hatályát veszti a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény
-
-- a) 67/B. §-a,
-- b) 290. § (1) bekezdés l) pontja.
+#### 86. §
 
 #### 36. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 
@@ -315,11 +312,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 37. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-88. § Hatályát veszti a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény
-
-- a) 94. § (3)–(8) bekezdése,
-- b) 209. § (2) bekezdésében az „és a 94. § (4)–(6) bekezdésében” szövegrész,
-- c) 236. § (2) bekezdésében az „és a (3)–(6) bekezdését” szövegrész.
+#### 88. §
 
 #### 38. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 

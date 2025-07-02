@@ -24,49 +24,23 @@ egyes törvényeknek a készpénzhasználattal összefüggő módosításáról
 
 #### 1. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-1. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) IV. Fejezete a következő 9. §-sal egészül ki:
+#### 1. §
 
-„9. § (1) Az online szolgáltatási szerződések, a határon átnyúló online adásvételi szerződések, valamint az automatizált üzletben történő értékesítés kivételével a vállalkozás a természetes személy fogyasztó részére biztosítja az áru ellenértékének készpénzzel történő kiegyenlítési lehetőségét.
-
-(2) Az (1) bekezdés szerinti kötelezettséget a vállalkozás úgy is teljesítheti, hogy az áru ellenértékének készpénzzel történő kiegyenlítési lehetőségét
-
-- a) a fogyasztó részére elérhető legalább egy értékesítési helyen biztosítja,
-- b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (4) bekezdés k) pontja szerinti specifikus készpénz-helyettesítő eszköz útján biztosítja, feltéve, hogy a természetes személy fogyasztó a fizetés céljára elérhető specifikus készpénz-helyettesítő eszközre készpénzt helyezhet el, valamint azt készpénzre visszaválthatja,
-- c) utánvétel útján biztosítja,
-- d) belföldi pénzforgalmi szolgáltatónál vezetett pénzforgalmi számlára történő készpénzbefizetés útján biztosítja, vagy
-- e) készpénzátutalási megbízás útján biztosítja.
-
-(3) E § alkalmazásában értékesítési hely: ingó vagy ingatlan üzlethelyiség vagy online értékesítési csatorna, ideértve azt is, amikor a fogyasztó számára egyetlen közös online felületen jelenik meg több online értékesítési csatorna.”
-
-2. § Az Fgytv. Felhatalmazás alcíme a következő 56/F. §-sal egészül ki:
-
-„56/F. § E törvénynek az egyes törvényeknek a készpénzhasználattal összefüggő módosításáról szóló2025. évi LXII. törvénnyel megállapított 9. §-át az automatából történő értékesítésre abban az esetben kell alkalmazni, ha az automata üzembe helyezésére 2025. június 30. napját követően került sor.”
+#### 2. §
 
 #### 2. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-3. § A kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 3. §-a a következő (9) bekezdéssel egészül ki:
+#### 3. §
 
-„(9) Az e törvény hatálya alá tartozó tevékenységek kapcsán a természetes személy fogyasztó részére a fogyasztóvédelemről szóló törvényben foglaltak szerint kell biztosítani a készpénzzel történő fizetés lehetőségét.”
-
-4. § A Kertv. 9. § (2) bekezdésében a „szerint – az” szövegrész helyébe a „szerint – a 3. § (9) bekezdésében, az” szöveg lép.
+#### 4. §
 
 #### 3. A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény módosítása
 
-5. § A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény I. Fejezete a következő alcímmel egészül ki:
-
-### „Készpénzhasználattal kapcsolatos rendelkezés
-
-11/A. § (1) Az e törvény hatálya alá tartozó szolgáltatási tevékenység során a szolgáltató a természetes személy fogyasztó részére a fogyasztóvédelemről szóló törvényben foglaltak szerint biztosítja a szolgáltatás ellenértékének készpénzzel történő fizetési lehetőségét.
-
-(2) A fogyasztóvédelemről szóló törvény szerinti olyan online szolgáltatási szerződések esetében, amelyek határon átnyúló szolgáltatásnyújtásra irányulnak, az e törvény hatálya alá tartozó tevékenységet folytató nem köteles biztosítani a készpénzhasználatot.”
+#### 5. §
 
 #### 4. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-6. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 8. §-a helyébe a következő rendelkezés lép:
-
-„8. § (1) A föld tulajdonának átruházása esetén a szerződésben szereplő ellenértéket banki átutalással vagy a (2) bekezdésben foglaltak szerint ügyvédi letét alkalmazásával vagy közjegyzői bizalmi őrzésbe helyezéssel kell teljesíteni. A szerződésben az ellenérték teljesítésének módját meg kell határozni. A felek ettől eltérő megállapodása semmis.
-
-(2) Ügyvédi letét esetén az (1) bekezdés szerinti ellenértéket készpénzben, letéti számlára történő befizetéssel vagy átutalással kell teljesíteni. Közjegyzői bizalmi őrzésbe helyezés esetén az (1) bekezdés szerinti ellenértéket készpénzben, bizalmi őrzési számlára történő befizetéssel vagy átutalással kell teljesíteni.”
+#### 6. §
 
 #### 5. Záró rendelkezések
 

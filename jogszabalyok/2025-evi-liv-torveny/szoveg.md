@@ -20,11 +20,7 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 #### 3. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-3. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 3. §-a a következő 56. ponttal egészül ki:
-
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
-
-„56. A csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye: a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti kedvezmény.”
+3. § (1)
 
 (2)
 
@@ -36,35 +32,13 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 #### 4. §
 
-5. § (1) Az Szja tv. VI. fejezete a 29/G. §-t követően a következő alcímmel egészül ki:
-
-### „Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje
-
-29/H. § Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje:
-
-- a) a négy vagy több gyermeket nevelő anyák kedvezménye,
-- b) a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye,
-- c) a 25 év alatti fiatalok kedvezménye,
-- d) a 30 év alatti anyák kedvezménye,
-- e) személyi kedvezmény,
-- f) az első házasok kedvezménye,
-- g) családi kedvezmény.”
+5. § (1)
 
 (2)
 
 (3)
 
-6. § (1) Az Szja tv. 46. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett
-
-- a) négy vagy több gyermeket nevelő anyák kedvezményét,
-- b) csecsemőgondozási díj, gyermekgondozási díj és örökbefogadói díj kedvezményét,
-- c) 25 év alatti fiatalok kedvezményét,
-- d) 30 év alatti anyák kedvezményét,
-- e) személyi kedvezményt,
-- f) első házasok kedvezményét,
-- g) családi kedvezményt.”
+6. § (1)
 
 (2)
 
@@ -84,17 +58,11 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 (7)
 
-(8) Az Szja tv. 48. §-a a következő (3i) bekezdéssel egészül ki:
-
-„(3i) A gyermekgondozási díj után kedvezményt érvényesítő magánszemély a gyermekgondozási díjat folyósító szerv részére nyilatkozatot tehet a családi kedvezmény adóalap hiányában nem érvényesíthető részének családi járulékkedvezményként való érvényesítéséről. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerint az adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.”
+(8)
 
 (9)
 
-8. § (1) Az Szja tv. 49. § (1) és (1a) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét, a 25 év alatti fiatalok kedvezményét, a 30 év alatti anyák kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az e törvény 8. §-a szerinti adómértékkel számított összeg, figyelemmel a (3) és (4) bekezdésben foglalt rendelkezésekre is.
-
-(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti, valamint a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét érvényesítő magánszemély a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.”
+8. § (1)
 
 (2)
 
@@ -131,12 +99,12 @@ lép.
 - b)
 - c)
 - d)
-- e) 29/C. § (1) bekezdésében az „A kedvezmény a családi kedvezményt megelőző sorrendben érvényesíthető.” szövegrész,
-- f) 29/D. § (1) bekezdésében a „– minden más kedvezményt megelőzően –” szövegrész,
-- g) 29/E. § (1) bekezdésében az „A kedvezmény az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.” szövegrész,
-- h) 29/F. § (1) bekezdésében az „A 25 év alatti fiatalok kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.” szövegrész,
+- e)
+- f)
+- g)
+- h)
 - i)
-- j) 29/G. § (1) bekezdésében az „A 30 év alatti anyák kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét és a 25 év alatti fiatalok kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.” szövegrész,
+- j)
 - k)
 - l)
 
@@ -144,11 +112,7 @@ lép.
 
 #### 14. §
 
-15. § A Tao. törvény 4. §-a következő 47a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„47a. sportakadémia: a sportakadémiákról szóló 303/2019. (XII. 12.) Korm. rendelet 2. § (1) bekezdés a) pontja alapján ekként meghatározott szervezet;”
+#### 15. §
 
 #### 16. §
 
@@ -158,45 +122,9 @@ lép.
 
 #### 19. §
 
-20. § (1) A Tao. törvény 22/C. § (3e) bekezdése helyébe a következő rendelkezés lép:
+#### 20. §
 
-„(3e) A támogatási igazolást az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet, valamint a sportakadémia, mint támogatás igénybevételére jogosult szervezet kérelmére a sportpolitikáért felelős miniszter, az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére – a sportakadémia kivételével – a látvány-csapatsport országos sportági szakszövetsége állítja ki azt követően, hogy a támogatás igénybevételére jogosult szervezet által benyújtott, a támogatás igénybevételének feltételét képező, tervezett támogatással érintett sportfejlesztési programot részben vagy egészben jóváhagyta. A sportfejlesztési program jóváhagyása során vizsgálni kell, hogy a benyújtott sportfejlesztési program megvalósítása összhangban van-e a szakági szövetség sportpolitikai érdekeivel, valamint azt, hogy az miként illeszkedik a nemzetgazdaság érdekeihez, különös figyelemmel a hosszú távú fenntarthatóság követelményére. A támogatási igazolás a sportfejlesztési program jóváhagyását követően arra tekintet nélkül állítható ki, hogy a támogatás elő- vagy utófinanszírozással valósul meg.”
-
-(2) A Tao. törvény 22/C. § (6) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
-
-(Ha az építési engedélyhez kötött tárgyi eszköz beruházás, felújítás sportcélú ingatlanra irányul, a támogatási igazolás kiállításának feltétele, hogy a támogatás igénybevételére jogosult szervezet vállalja, hogy)
-
-„d) a jelenértékén legalább 5 millió forint értékű tárgyi eszköz felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportpolitikáért felelős miniszter vagy – a sportakadémia kivételével az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a támogatásból megvalósuló felújítást legalább 5 évig az eredeti rendeltetésének megfelelően hasznosítja, valamint benyújtja a sportcélú ingatlan tulajdonosának előzetes írásbeli hozzájárulását arról, hogy erre az időtartamra – a felújított sportcélú ingatlan üzembe helyezését követő 30 napon belül – az állam javára az ingatlan-nyilvántartásba az igénybe vett adókedvezmény mértékéig jelzálogjog kerül bejegyzésre,
-
-e) a jelenértékén legalább 10 millió forint értékű tárgyi eszköz beruházás, felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportpolitikáért felelős miniszter vagy – a sportakadémia kivételével – az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a sportcélú ingatlanfejlesztésre nyílt pályázatot ír ki és a pályázati eljárás eredménye alapján nyertes személlyel köt szerződést a tárgyi eszköz beruházás, felújítás megvalósítására.”
-
-(3) A Tao. törvény 22/C. § (9a) bekezdése helyébe a következő rendelkezés lép:
-
-„(9a) A (9b) bekezdésben foglalt kivétellel az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a látvány-csapatsport országos sportági szakszövetsége a jelenértéken legalább 300 millió forint értékű sportfejlesztési program esetében az e törvény felhatalmazása alapján kiadott kormányrendeletben foglaltak szerint a sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. A sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 45 napon belül közli álláspontját a látvány-csapatsport országos sportági szakszövetséggel. A miniszteri vélemények közötti eltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a látvány-csapatsport országos sportági szakszövetsége a sportpolitikáért felelős miniszter útján a Kormány döntését kéri. Ebben az esetben a látvány-csapatsport országos sportági szakszövetsége a Kormány döntésének megfelelően hagyja jóvá, hagyja részben jóvá vagy utasítja el a sportfejlesztési program e törvény szerinti támogatását, és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel.”
-
-(4) A Tao. törvény 22/C. §-a következő (9b) bekezdéssel egészül ki:
-
-„(9b) Sportakadémia kérelme esetén a sportpolitikáért felelős miniszter az e törvény felhatalmazása alapján kiadott kormányrendeletben foglaltak szerint hoz döntést. Sportakadémia jelenértéken legalább 300 millió forint értékű sportfejlesztési programja esetén a sportpolitikáért felelős miniszter az e törvény felhatalmazása alapján kiadott kormányrendeletben foglaltak szerint az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. Az adópolitikáért felelős miniszter véleményét igénylő kérelem esetén az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 45 napon belül közli álláspontját a sportpolitikáért felelős miniszterrel. A sportpolitikáért felelős miniszter az adópolitikáért felelős miniszter véleményét figyelembe véve jóváhagyja, részben jóváhagyja vagy elutasítja a sportfejlesztési program e törvény szerinti támogatását és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel. Véleményeltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a sportpolitikáért felelős miniszter a Kormány döntését kéri.”
-
-21. § (1) A Tao. törvény 24/A. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) Látvány-csapatsportok támogatása céljából történő felajánlás esetében az állami adóhatóság az átutalást azzal az eltéréssel teljesíti, hogy a kiegészítő sportfejlesztési támogatás (9) bekezdés szerint meghatározott összegét a (11) bekezdés szerinti határidőben a 22/C. § (1) bekezdés a)–d) pontjának hatálya alá tartozó támogatás esetén – az adózó döntése szerint – vagy a (16)–(21) bekezdés szerinti igazolás szerint támogatásban részesítendő látvány-csapatsport országos sportági szakszövetsége részére, vagy az e látvány-csapatsport keretében vagy érdekében a 22/C. § (1) bekezdés b)–d) pontjában meghatározottak szerint működő sportszervezet (sportiskola), alapítvány részére, ideértve a sportakadémiát is, a 22/C. § (1) bekezdés e) pontjában meghatározott támogatás esetén a támogatásban részesítendő sportköztestület részére átutalja.”
-
-(2) A Tao. törvény 24/A. § (19) és (20) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(19) A (3) bekezdés b) pontjában meghatározott kedvezményezett cél megjelölése esetén, ha a támogatás fogadására jogosult szervezet látvány-csapatsport országos sportági szakszövetsége, a Magyar Olimpiai Bizottság vagy sportakadémia, a sportpolitikáért felelős miniszter az adózó és a támogatás fogadására jogosult szervezet együttes kérelmére, a sportfejlesztési program jóváhagyásáról rendelkező határozat száma, a felajánlott összeg és a 22/C. § (1) bekezdése szerinti jogcím megjelölésével igazolást állít ki arról, hogy az adózó által felajánlott összeg nem eredményezi 22/C. § (4)–(4c) bekezdésében meghatározott támogatási intenzitások meghaladását. Az e bekezdés szerinti igazolás visszavonásig érvényes.
-
-(20) A (3) bekezdés b) pontjában meghatározott kedvezményezett cél megjelölése esetén, ha felajánlás fogadására jogosult szervezet – a sportakadémia kivételével –
-
-- a) a látvány-csapatsport országos sportági szakszövetsége tagjaként működő amatőr sportszervezet – ideértve a sportról szóló törvényben meghatározott szabályok szerint a szakszövetség tagjaként működő sportiskolát is –,
-- b) a látvány-csapatsport országos sportági szakszövetsége tagjaként működő hivatásos sportszervezet vagy
-- c) a látvány-csapatsport fejlesztése érdekében létrejött alapítvány,
-
-akkor a látvány-csapatsport országos sportági szakszövetsége az adózó és a támogatás fogadására jogosult szervezet együttes kérelmére, a sportfejlesztési program jóváhagyásáról rendelkező határozat száma, a felajánlott összeg és a 22/C. § (1) bekezdése szerinti jogcím megjelölésével igazolást állít ki arról, hogy az adózó által felajánlott összeg nem eredményezi a 22/C. § (4)–(4c) bekezdésében meghatározott támogatási intenzitások meghaladását. Az e bekezdés szerinti igazolás visszavonásig érvényes.”
-
-(3) A Tao. törvény 24/A. §-a a következő (20a) bekezdéssel egészül ki:
-
-„(20a) A (19) és (20) bekezdés alkalmazásában a támogatási igazolás kiállításakor a sportpolitikáért felelős miniszter és a látvány-csapatsport országos sportági szakszövetsége figyelembe veszi az azonos elszámolható költségek vonatkozásában a 22/C. § (3) bekezdése szerint kiállított támogatási igazolások, támogatási szerződés keretében a 22/C. § (1) bekezdés a) pont ac) és ag) alpontjában, (1) bekezdés b) pont bd)–bf) és bg) alpontjában, (1) bekezdés c) pont cb) és cd)–cf) alpontjában, (1) bekezdés d) pont dc), de) és dg) alpontjában meghatározott jogcímre nyújtott támogatáshoz kapcsolódó, a támogatás fogadására jogosult szervezet részére megfizetett kiegészítő sportfejlesztési támogatások és a (19) és (20) bekezdés szerinti ugyanazon adóév vonatkozásában kibocsátott igazolások (11) és (11a) bekezdés alapján esedékessé vált, de az állami adóhatóság által át nem utalt felajánlás összegével csökkentett összegét.”
+#### 21. §
 
 22. § (1)
 
@@ -293,23 +221,13 @@ lép.
 
 #### 48. §
 
-49. § (1) A Jöt. 84. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdéstől eltérően papíralapon is intézhető]
-
-„d) a hivatalból magánszeméllyel szemben indított és lefolytatott jövedéki ügy, ha az elektronikus ügyintézés jogszabályi feltételei nem állnak fenn,”
-
-(2) A Jöt. 84. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az állami adó- és vámhatóság helyszíni eljárása során az e törvényben, valamint a végrehajtási rendeletben meghatározott iratokat az Air. 70. § (3a)–(3e) bekezdése szerinti elektronikus formában is elkészítheti.”
+#### 49. §
 
 50. § (1)
 
 (2)
 
-51. § A Jöt. 102. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A lefoglalást elrendelő végzés elektronikus formában történő elkészítése esetén az állami adó- és vámhatóság a döntését szóban is közli azzal a személlyel, akitől a dolgot lefoglalja és a szóbeli közlés megtörténtét a lefoglalásról készített végzés részét képező jegyzőkönyvben rögzíti.”
+#### 51. §
 
 #### 52. §
 
@@ -364,13 +282,7 @@ lép.
 
 #### 68. §
 
-69. § (1) A Htv. 52. § 22. pontja a következő k) alponttal egészül ki:
-
-(E törvény alkalmazásában:
-
-22. nettó árbevétel:)
-
-  - „k) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény szerinti szerencsejáték-szervezőnél: az értékesítés nettó árbevétele csökkentve az elszámolt nyereményráfordítással;”
+69. § (1)
 
 (2)
 
@@ -434,36 +346,17 @@ lép.
 
 #### 19. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-86. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 34. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A biztosítottnak nem minősülő gyermekgondozási díjban részesülő személy a családi járulékkedvezményre e § szabályai szerint jogosult.”
+#### 86. §
 
 #### 87. §
 
 #### 88. §
 
-89. § A Tbj. 71. § (7) bekezdése helyébe a következő rendelkezés lép:
+#### 89. §
 
-„(7) Az állami adó- és vámhatóság kérelemre, visszamenőleges hatállyal törli a külföldön élő kötelezett személy 43. § szerinti járulékfizetési kötelezettségét, ha a magánszemély hitelt érdemlően – különösen a tartózkodást, illetve az egészségbiztosítási jogviszonyt igazoló okirattal – igazolja, hogy
+#### 90. §
 
-- a) huzamos ideje, életvitelszerűen Magyarország területén kívül tartózkodik, és
-- b) a tartózkodási helye jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll.
-
-Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került. A kiutalásra nyitva álló határidő az egészségbiztosítási szerv válaszának állami adó- és vámhatósághoz történő megérkezését követő napon kezdődik. Az egészségbiztosítási szerv az adatszolgáltatás alapján a külföldön élő kötelezett személy TAJ számát érvényteleníti és a külföldi biztosításra tekintettel az egészségügyi szolgáltatási járulékfizetési kötelezettséget nyilvántartásában zárja.”
-
-90. § A Tbj. 33. alcíme a következő 105/E. §-sal egészül ki:
-
-„105/E. § (1) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 34. § (6) bekezdése a 2025. június 30. után megszerzett, munkaviszonyból származó jövedelem esetén a 2025. június 30. utáni időszakra elszámolt jövedelem tekintetében alkalmazható.
-
-(2) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 71. § (7) bekezdése a hatálybalépését követően benyújtott kérelmek esetében alkalmazható.”
-
-91. § A Tbj.
-
-- a)
-- b)
-- c) 34. § (6) bekezdésében a „befizetett tagdíj összegét)” szövegrész helyébe a „befizetett tagdíj összegét és az Szja tv. 7. § (1) bekezdés m) pontja szerinti jövedelmet)” szöveg
-
-lép.
+#### 91. §
 
 ### IX. Fejezet — ELJÁRÁSRENDET ÉRINTŐ TÖRVÉNYEK MÓDOSÍTÁSA
 
@@ -477,29 +370,7 @@ lép.
 
 #### 94. §
 
-95. § (1) Az Art. 50. § (2) bekezdés 5. pontja helyébe a következő rendelkezés lép:
-
-[Az (1)–(1b) bekezdés szerinti bevallás tartalmazza:]
-
-„5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj vagy az örökbefogadói díj folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességét,”
-
-(2) Az Art. 50. § (2) bekezdése a következő 12. ponttal egészül ki:
-
-[Az (1)–(1b) bekezdés szerinti bevallás tartalmazza:]
-
-„12. a természetes személy tekintetében az Szja tv. 29/H. §-a szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
-
-a) a csecsemőgondozási díj (csed) folyósításának időtartamát, az ellátás összegét és az abból érvényesített kedvezmény összegét,
-
-b) a gyermekgondozási díj (gyed) folyósításának időtartamát, az ellátás összegét, az abból érvényesített kedvezmény összegét és a levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
-
-c) az örökbefogadói díj folyósításának időtartamát, az ellátás összegét, az abból érvényesített kedvezmény összegét,”
-
-(3) Az Art. 50. § (2) bekezdés 13. pontja helyébe a következő rendelkezés lép:
-
-[Az (1)–(1b) bekezdés szerinti bevallás tartalmazza:]
-
-„13. a gyermekgondozást segítő ellátás (gyes), gyermeknevelési támogatás (gyet), gyermekek otthongondozási díja, ápolási díj, álláskeresési ellátás folyósításának időtartamát, az ellátás összegét, és az abból levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,”
+#### 95. §
 
 #### 96. §
 
@@ -507,21 +378,9 @@ c) az örökbefogadói díj folyósításának időtartamát, az ellátás össz
 
 #### 98. §
 
-99. § Az Art. a következő 123/B. §-sal egészül ki:
+#### 99. §
 
-#### „123/B. § [Az állami adó- és vámhatóság által felvett biometrikus aláírásokra vonatkozó adatvédelmi rendelkezések]
-
-(1) Az állami adó- és vámhatóság hatáskörébe tartozó ügyben a természetes személy elektronikus úton felvett kézi aláírása (a továbbiakban: biometrikus aláírás) kizárólag a természetes személynek az adott eljárási cselekmény során történő azonosítását, illetve hitelesítését szolgálja. A biometrikus aláírás az aláírt elektronikus ügyirattól elválaszthatatlan.
-
-(2) Az állami adó- és vámhatóság a biometrikus aláírást az ellenőrzés befejezésétől, amennyiben hatósági eljárás indul, annak végleges befejezésétől számított tíz évig kezeli.”
-
-100. § Az Art. 128. § (1) bekezdése a következő g) és h) ponttal egészül ki:
-
-(Az adótitkot alapos okkal használják fel, ha)
-
-„g) a gazdasági társaság adótartozására vonatkozó adatok megismerésére a gazdasági társaság tagjának, – a nyilvánosan működő részvénytársaság részvényese kivételével – részvényesének az adótartozás kiegyenlítése céljából van szüksége,
-
-h) az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint létesíthető munkaviszony elektronikus bejelentésére szolgáló alkalmazással történő bejelentésekor a bejelentő képviseleti jogosultságának megállapítását és a bejelentő tájékoztatását szolgálja a bejelentendő munkaviszonynak a munkaviszonyok együttes időtartamára vonatkozó szabályoknak történő megfeleléséről.”
+#### 100. §
 
 #### 101. §
 
@@ -577,26 +436,11 @@ lép.
 
 #### 118. §
 
-119. § Az Air. 70. §-a a következő (3a)–(3e) bekezdéssel egészül ki:
-
-„(3a) Ha az állami adó- és vámhatóság hatáskörébe tartozó ügyben a helyszíni eljárás során a jegyzőkönyv elektronikus formában készül, azt az eljárási cselekményen részt vevő személy a jegyzőkönyv hitelesítésére alkalmas minősített, vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással látja el.
-
-(3b) Ha az eljárási cselekményről a jegyzőkönyv elektronikus formában készül, és az eljárási cselekményen részt vevő személy nem rendelkezik a jegyzőkönyv hitelesítésére alkalmas minősített, vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, a jegyzőkönyvet az elektronikus úton felvett kézi aláírással látja el.
-
-(3c) Ha a helyszíni eljárásról a jegyzőkönyv elektronikus formában készül, annak megállapításait, valamint a jogokra és a kötelezettségekre való figyelmeztetést szóban is közölni kell a jelenlévő adózóval és az eljárás egyéb résztvevőjével. A szóbeli közlés megtörténtét a jegyzőkönyvben rögzíteni kell.
-
-(3d) Ha az adózó vagy az eljárási cselekményen részt vevő személy megtagadja az elektronikus formában készült jegyzőkönyv aláírását, a (3c) bekezdés szerinti szóbeli közlés megtörténte és a jegyzőkönyv aláírásának megtagadása két hatósági tanú igénybevételével is igazolható.
-
-(3e) Ha az ellenőrzés két hatósági tanú jelenlétében indul meg, az erről szóló jegyzőkönyv felvételére és aláírására a (3a) bekezdésben foglaltak alkalmazandók.”
+#### 119. §
 
 #### 120. §
 
-121. § Az Air. 115. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az állami adó- és vámhatóság hatáskörébe tartozó helyszíni ellenőrzés esetén, ha a jegyzőkönyv elektronikus formában készül, az ellenőrzés befejezésének napja
-
-- a) az elektronikus formában készült jegyzőkönyvnek az elektronikus ügyintézésre kötelezett, valamint az aktivált felhasználói profillal rendelkező adózó hivatalos elérhetőségen történő elhelyezésének napja,
-- b) az elektronikus ügyintézésre nem kötelezett és aktivált felhasználói profillal nem rendelkező adózó esetében az elektronikus formában készült jegyzőkönyvnek az adózó által a rendelkezési nyilvántartásba bejelentett hivatalos elérhetőségen történő elhelyezésének napja, ennek hiányában az elektronikus formában készült jegyzőkönyv hiteles papír alapú másolata postára adásának napja.”
+#### 121. §
 
 #### 122. §
 
@@ -674,21 +518,9 @@ lép.
 
 #### 28. Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény módosítása
 
-145. § Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény 54. §-a a következő szöveggel lép hatályba:
+#### 145. §
 
-„257/G. § (1) Az adóalany a (2)–(6) bekezdésben meghatározottak esetében köteles adatot szolgáltatni az állami adó- és vámhatóság részére.
-
-(2) Az adóalany az általa teljesített termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott számláról, számlával egy tekintet alá eső okiratról, – a pénztárgéppel, valamint az e-pénztárgéppel kiállított számlák, számlával egy tekintet alá eső okiratok kivételével – valamint termék beszerzése, szolgáltatás igénybevétele esetén azon számlákról, számlával egy tekintet alá eső okiratokról, amelyek alapján adólevonási jogot gyakorol, az adatszolgáltatást a 10. számú mellékletben meghatározottak szerint teljesíti.
-
-(3) Az adóalany az általa teljesített 2. § a) pontja szerinti termékértékesítésekről, szolgáltatásnyújtásokról kiállított, kibocsátott e-nyugtákról, valamint az e-pénztárgéppel kiállított számlákról, továbbá az azokkal egy tekintet alá eső okiratokról az adatszolgáltatást a 11. számú mellékletben foglaltak szerint teljesíti.
-
-(4) A 178. § (1a) bekezdése, valamint a 10. és 11. számú melléklet szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
-
-(5) Az adóalany a Közösségen belüli ügyleteivel kapcsolatos adatszolgáltatást a 4/A. számú mellékletben foglaltak szerint teljesíti.
-
-(6) A (2) bekezdésben foglaltaktól eltérően a 195/G. § hatálya alá tartozó adóalany az általa e minőségében teljesített 2. § a) pontja szerinti termékértékesítésről, szolgáltatásnyújtásról kiállított, kibocsátott számlákról, számlával egy tekintet alá eső okiratokról az adatszolgáltatást azon, a székhelye, ennek hiányában lakóhelye szerinti tagállami szabályozás szerinti adatszolgáltatással teljesíti, amely tartalmában a Héa-irányelv 284b. cikkének felel meg.”
-
-146. § Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény 7. melléklete az 5. melléklet szerinti szöveggel lép hatályba.
+#### 146. §
 
 #### 147. §
 
@@ -761,13 +593,3 @@ lép.
 ### 4. melléklet a 2025. évi LIV. törvényhez
 
 ### 5. melléklet a 2025. évi LIV. törvényhez
-
-- „1. Az Áfa tv. a következő 11. számú melléklettel egészül ki:
-
-„11. számú melléklet a 2007. évi CXXVII. törvényhez
-
-#### Nyugta- és számla adatszolgáltatás
-
-Adatszolgáltatás az e-pénztárgéppel kiállított bizonylatokról
-
-Az adóalany az e-nyugták és az e-pénztárgéppel kiállított nyugtával egy tekintet alá eső okiratok, számlák és számlával egy tekintet alá eső okiratok e törvény szerint kötelező adatairól, azok kiállításával egyidejűleg, jogszabály szerint rendszeresen adatot szolgáltat az adó- és vámhatóság részére.””
