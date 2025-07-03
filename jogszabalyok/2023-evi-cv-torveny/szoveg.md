@@ -30,7 +30,23 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy Magyarorsz�
 
 5. § Az importőr, valamint közvetett vámjogi képviselő az (EU) 2023/1773 bizottsági végrehajtási rendelet 8. cikk (1) bekezdése szerinti, CBAM átmeneti nyilvántartásba vételét a CBAM-hatóság részére benyújtott kérelemmel kezdeményezi. Az importőrnek, valamint közvetett vámjogi képviselőnek a kérelemben nyilatkoznia kell arról, hogy rendelkezik EU Login-fiókkal.
 
-#### 4. A jelentéstételi kötelezettséggel kapcsolatos egyes hatósági tevékenységek
+#### 3/A. A CBAM-engedély kiadása, módosítása, visszavonása
+
+5/A. § (1) A CBAM Rendelet 5. cikk (1) bekezdése szerinti, CBAM-engedély kiadása iránti kérelem benyújtásának feltétele, hogy az importőr, valamint közvetett vámjogi képviselő az (EU) 2024/3210 bizottsági végrehajtási rendelet 3. cikk (1) bekezdés szerinti CBAM-nyilvántartásban (a továbbiakban: CBAM-nyilvántartás) rendelkezzen regisztrációval. Az importőr, valamint közvetett vámjogi képviselő a CBAM-nyilvántartásba vételét a CBAM-hatóság részére benyújtott kérelemmel kezdeményezi. Az importőrnek, valamint közvetett vámjogi képviselőnek a kérelemben nyilatkoznia kell arról, hogy rendelkezik EU Login-fiókkal.
+
+(2) A CBAM-hatóság az (EU) 2025/486 bizottsági végrehajtási rendeletben foglalt rendelkezések alapján dönt a CBAM-engedély kiadásával, módosításával, visszavonásával kapcsolatos hatósági eljárásban.
+
+(3) A (2) bekezdésben nem szabályozott esetekben az importáruk karbonintenzitását ellensúlyozó mechanizmusról szóló 2023. évi CV. törvény végrehajtásának egyes szabályairól szóló kormányrendeletben foglaltakat kell alkalmazni.
+
+5/B. § A CBAM-hatóság CBAM-engedély kiadására és módosítására irányuló eljárásáért az arra vonatkozó kérelem benyújtásával egyidejűleg jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+5/C. § (1) A CBAM-hatóság a CBAM-engedélyt az (EU) 2025/486 bizottsági végrehajtási rendelet 18. cikk (1) bekezdésében meghatározottak szerint, legalább ötévente, hatósági ellenőrzés keretében felülvizsgálja. Nem szükséges a kiadott engedély felülvizsgálata, ha az engedély kiadásától vagy módosításától számított öt éven belül az engedély módosításra került.
+
+(2) Ha a CBAM-hatóság a kiadott engedély felülvizsgálata során arra a következtetésre jut, hogy a CBAM-engedély módosítása vagy visszavonása nem szükséges, ennek tényéről a CBAM-nyilvántartáson keresztül tájékoztatja a CBAM-engedélyest.
+
+(3) Ha a CBAM-hatóság a kiadott engedély felülvizsgálata során az (EU) 2025/486 bizottsági végrehajtási rendelet 19. cikk (1) bekezdése szerint arra a következtetésre jut, hogy a CBAM-engedélyt módosítani szükséges, a CBAM-hatóság a CBAM-engedélyt módosítja a CBAM-nyilvántartásban.
+
+#### 4. A CBAM-hatóság eljárásaival, adatkezelésével és ellenőrzési tevékenységével kapcsolatos rendelkezések
 
 6. § (1) A CBAM-hatóság megkeresésére az állami adó- és vámhatóság megküldi a vámtitkot képező adatot, ha az az ügyfél személyének azonosításához vagy a hatóság ellenőrzési és felügyeleti feladatának ellátásához szükséges. A CBAM-hatóság a vámtitkot az ügyfél által végzett tevékenység megszűnését, megszüntetését követő 5 évig tarthatja nyilván és kezelheti.
 
@@ -85,7 +101,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy Magyarorsz�
 - e) a kiállításra jogosult aláírását, bélyegzőlenyomatát, továbbá
 - f) azt a tényt, hogy a közreműködő személy mely ellenőrzés alá vont ügyfélnél, ügyfélcsoportnál vehet részt az ellenőrzés során.
 
-(6) Az e törvény hatálya alá tartozó hatósági eljárásban az ügyintézési határidő százhúsz nap.
+(6) Az e törvény hatálya alá tartozó hatósági eljárásban – a CBAM-engedély kiadására, módosítására és visszavonására vonatkozó hatósági eljárások kivételével – az ügyintézési határidő százhúsz nap.
 
 8. § (1) A CBAM-hatóság döntése ellen fellebbezésnek helye nincs.
 
@@ -125,8 +141,11 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy Magyarorsz�
 - a) a CBAM-hatóság kijelölését,
 - b) az importőrnek, illetve közvetett vámjogi képviselőnek a CBAM Rendelet 35. cikkében meghatározott jelentéstételi kötelezettsége ellenőrzésének részletes szabályait,
 - c) a CBAM kötelezettségszegési bírság mértékét, megfizetésének határidejét, és a bírság megfizetése módjának részletes szabályait
+- d) az (EU) 2025/486 bizottsági végrehajtási rendeletben nem szabályozott esetekben a CBAM-engedély kiadásával, módosításával, visszavonásával kapcsolatos hatósági eljárás részletes szabályait
 
 rendeletben állapítsa meg.
+
+11/A. § Felhatalmazást kap a miniszter, hogy a CBAM-engedély kiadására és módosítására irányuló eljárásért fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének részletes szabályait – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
 
 12. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 31. napon lép hatályba.
 
@@ -136,5 +155,7 @@ rendeletben állapítsa meg.
 
 - a) az importáruk karbonintenzitását ellensúlyozó mechanizmus létrehozásáról szóló, 2023. május 10-i (EU) 2023/956 európai parlamenti és tanácsi rendelet,
 - b) az (EU) 2023/956 európai parlamenti és tanácsi rendeletnek az átmeneti időszak alatt az importáruk karbonintenzitását ellensúlyozó mechanizmus alkalmazásában fennálló jelentéstételi kötelezettségek tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló (EU) 2023/1773 bizottsági végrehajtási rendelet
+- c) az (EU) 2023/956 európai parlamenti és tanácsi rendelet alkalmazási szabályainak a CBAM-nyilvántartás tekintetében történő megállapításáról szóló, 2024. december 18-i (EU) 2024/3210 bizottsági végrehajtási rendelet,
+- d) az (EU) 2023/956 európai parlamenti és tanácsi rendelet alkalmazási szabályainak az engedélyezett nyilatkozattevői státusszal összefüggő feltételek és eljárások tekintetében történő megállapításáról szóló, 2025. március 17-i (EU) 2025/486 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
