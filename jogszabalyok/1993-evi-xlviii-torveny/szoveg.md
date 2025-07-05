@@ -1895,6 +1895,8 @@ eltelt.
 
 (11) A bányafelügyelet a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
+(12) A bányafelügyelet hatáskörébe tartozik az energiaágazaton belüli metánkibocsátás csökkentéséről és az (EU) 2019/942 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1787 európai parlamenti és tanácsi rendelet (a továbbiakban: (EU) 2024/1787 európai parlamenti és tanácsi rendelet) előírásaival kapcsolatos – IV/D. RÉSZ szerinti – hatósági eljárások lefolytatása, döntések meghozatala, illetve a jogsértések megállapítása esetén a szankciók alkalmazása.
+
 #### 43/A. §
 
 43/B. § (1) A szilárd ásványi nyersanyag esetében ügyfélnek minősül
@@ -1938,7 +1940,7 @@ eltelt.
 - c) a bányafelügyeletnek adatot szolgáltató természetes személy, és
 - d) a bányafelügyeleti eljárásokban a természetes személy kérelmező.
 
-(13) Az (EU) 2024/1787 európai parlamenti és tanácsi rendelet előírásai tekintetében illetékes hatóságként a bányafelügyelet jár el.
+(13)
 
 43/C. § (1) A bányafelügyelet eljárása során az ügyintézési határidő
 
@@ -2200,6 +2202,45 @@ bányahatósági felügyelete
 (7) A feltáró kutatásra a 38. § rendelkezéseit alkalmazni kell.
 
 (8) A feltáró kutatási tevékenységgel kapcsolatos részletes szabályokat a Hatóság elnöke rendeletben állapítja meg.
+
+## IV/D. RÉSZ — AZ (EU) 2024/1787 EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET VÉGREHAJTÁSÁRA VONATKOZÓ SZABÁLYOK
+
+48/D. § E rész alkalmazásában:
+
+- 1. bányaüzemeltető: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 12. pontjában meghatározott fogalom;
+- 2. importőr: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 59. pontjában meghatározott fogalom;
+- 3. termelő: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 58. pontjában meghatározott fogalom;
+- 4. üzemeltető: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 3. pontjában meghatározott fogalom;
+- 5. vállalkozás: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 23. pontjában meghatározott fogalom.
+
+48/E. § (1) Az (EU) 2024/1787 európai parlamenti és tanácsi rendelet előírásai tekintetében illetékes hatóságként a bányafelügyelet jár el.
+
+(2) A bányafelügyelet az (EU) 2024/1787 európai parlamenti és tanácsi rendelet szerinti nyilvánosságra hozatalra vonatkozó kötelezettségének a bányafelügyelet honlapján történő közzététellel tesz eleget.
+
+(3) A bányafelügyelet az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 7. cikke szerinti panasz kivizsgálása során a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény (a továbbiakban: Panasztv.) szerint jár el, azzal, hogy a panaszt a Panasztv. alkalmazása szempontjából közérdekű bejelentésnek kell tekinteni.
+
+48/F. § (1) A bányafelügyelet az üzemeltetőt, a vállalkozást, a bányaüzemeltetőt, az importőrt, az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 18. cikk (8) bekezdése szerinti felelős felet, illetve az uniós termelőt az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 33. cikk (5) bekezdése szerinti jogsértés megállapítása esetén bírsággal sújtja.
+
+(2) A szankciók alkalmazása tekintetében az eszközöket üzemeltető személynek az eszközök üzemeltetésére hatósági engedéllyel rendelkező személyt kell tekinteni, függetlenül attól, hogy a tényleges üzemeltetést szerződéses jogviszony alapján más személy végzi.
+
+(3) Az (1) bekezdés alapján kiszabott bírság
+
+- a) jogi személy esetén 500.000 forinttól a jogsértést elkövető jogi személy – hatósági eljárás megindítását megelőző évben szerzett – nettó éves árbevételének 20%-áig,
+- b) természetes személy esetén 100.000 forinttól a jogsértést elkövető természetes személy – hatósági eljárás megindítását megelőző évben szerzett – nettó éves jövedelmének 20%-áig
+
+terjedhet.
+
+(4) Az (1) bekezdés alapján kiszabott bírság összege nem veszélyeztetheti az energiaellátás biztonságát.
+
+(5) Az (EU) 2024/1787 európai parlamenti és tanácsi rendelet szerinti jogsértés megállapítása esetén figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
+
+(6) Ismételt jogsértés esetén a kiszabott bírság összege nem lehet kevesebb, mint a megelőzően kiszabott bírság összegének másfélszerese. Az így megállapított bírság összege nem haladhatja meg a (3) bekezdés szerinti bírságmaximumot.
+
+(7) Ha az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 15. cikk (8) bekezdése alapján a bányafelügyelet az üzemeltető által benyújtott végrehajtási ütemtervet jóváhagyja, a végrehajtási ütemtervben meghatározott időszak lejártáig a bányafelügyelet az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 33. cikk (5) bekezdés i) pontjának megsértése miatt az üzemeltetővel szemben nem jár el.
+
+(8) A bányafelügyelet a jogsértés megszüntetésére kötelezés mellett is alkalmazhat bírságot.
+
+(9) A bányafelügyelet a tárgyévet követő év március 31. napjáig a honlapján közzéteszi az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 33. cikk (8) bekezdése szerinti adatokat.
 
 ## V. RÉSZ — FOGALOMMEGHATÁROZÁSOK
 
@@ -2628,6 +2669,6 @@ rendeletben történő megállapítására.
 
 52. § E törvény 42/V. § (2) bekezdése az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK, a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i 2018/1999/EU európai parlamenti és tanácsi rendelet 48. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
 
-52/A. § A 43/B. § (13) bekezdés az energiaágazaton belüli metánkibocsátás csökkentéséről és az (EU) 2019/942 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1787 európai parlamenti és tanácsi rendelet 4. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
+52/A. § A 43. § (12) bekezdése és a IV/D. RÉSZ az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 4. cikke, 5. cikk (4) bekezdése, 6., 7. és 33. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
 
 53. § A 28/F. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
