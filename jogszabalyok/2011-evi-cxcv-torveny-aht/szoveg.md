@@ -1004,6 +1004,12 @@ a kirendeléssel egyidejűleg tájékoztatja.
 
 (4) A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak szerinti adatok megismerésére és kezelésére is jogosult. A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak kivételével a működése során tett véleményeit, javaslatait, ajánlásait, megállapításait és egyéb, a működése során készített dokumentumait nyilvánosságra hozhatja a különleges adatok, a minősített adatok, a személyes adatok és a törvény által védett egyéb adótitkok kivételével.
 
+(5) Az (1) és (1a) bekezdés szerinti kirendeléssel érintett helyi önkormányzat köteles a Kincstárral, valamint a költségvetési biztossal annak tevékenysége végzése során a megbízás fennállta alatt együttműködni. Ha a helyi önkormányzat a költségvetési biztos megbízatása alatt együttműködési kötelezettségének nem tesz eleget – jelentős adatot valótlanul állít vagy elhallgat, adatszolgáltatási kötelezettségét elmulasztja, a költségvetési biztos feladatellátását egyéb módon ellehetetleníti – a Kincstár az Ákr. szerinti hatósági eljárásában bírságot szab ki a helyi önkormányzattal szemben. A helyi önkormányzat a bírságot az arról szóló határozat véglegessé válását követően, a határozatban foglaltaknak megfelelően a következő havi nettó finanszírozás keretében teljesíti.
+
+(6) Az (5) bekezdés szerinti bírság esetében kizárt a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés alkalmazása.
+
+(7) Az (5) bekezdés szerinti közigazgatási szankciót a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni.
+
 #### 28. Rendkívüli intézkedések
 
 40. § (1) A Kormány a központi költségvetés költségvetési egyenlegének, vagy a Gst. 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben megállapított értékeknek a tervezettől eltérő, kedvezőtlen alakulása esetén, vagy az év közben meghozott kormányzati döntésekből származó feladatok megvalósítása és a kiegyensúlyozott költségvetési gazdálkodás fenntartása érdekében a központi költségvetés költségvetési kiadási előirányzatait – a (2) bekezdésben foglalt kivételekkel – zárolhatja, csökkentheti, törölheti azon költségvetési kiadási előirányzatok kivételével, amelyek évközi módosításának, átcsoportosításának jogát az Országgyűlés magának tartotta fenn.
@@ -2071,9 +2077,11 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 105/B. § (1) A bejelentésre kötelezett törzskönyvi jogi személlyel szemben a kincstár a Kormány rendeletében meghatározott mértékű bírságot szab ki, ha a törzskönyvi jogi személy a bejegyzésre, törlésre, vagy változás-bejelentésre irányuló kérelem benyújtására vonatkozó kötelezettségét elmulasztja, késedelmesen, hibásan vagy valótlan adattartalommal teljesíti.
 
-(1a) A bejegyzésre, törlésre, vagy változás-bejelentésre irányuló kérelem benyújtására vonatkozó kötelezettségnek az (1) bekezdés szerinti bírságot előíró határozat közlésétől számított 8 napon belül történő teljesítése esetén a kiszabott bírság korlátlanul mérsékelhető.
+(1a) A bejegyzésre, törlésre, vagy változás-bejelentésre irányuló kérelem benyújtására vonatkozó kötelezettségnek az (1) bekezdés szerinti bírságot előíró határozat közlésétől számított 8 napon belül történő maradéktalan teljesítése esetén a kiszabott bírság kérelemre korlátlanul mérsékelhető.
 
 (1b) Az (1) bekezdés szerinti bírság esetében kizárt a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés alkalmazása.
+
+(1c) Ha a kincstár az (1a) bekezdés szerint a bírság összeg teljes mértékben való elengedéséről dönt, a közigazgatási szankciót nem kell a Közigazgatási Szankciók Nyilvántartásába bejegyezni.
 
 (2) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv, a törvény által az államháztartás központi alrendszerébe sorolt köztestület, valamint az államháztartás központi alrendszerébe tartozó jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy fizetési számláját a bírság összegével megterhelni.
 
@@ -2348,6 +2356,8 @@ a kincstár határozatban a Kormány rendeletében meghatározott mértékű bí
 kell kiszabni.
 
 (3b) A (3) bekezdés szerinti bírság esetében kizárt a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés alkalmazása.
+
+(3c) Ha a kincstár az (3) bekezdés szerint a bírság összeg teljes mértékben való elengedéséről dönt, a közigazgatási szankciót nem kell a Közigazgatási Szankciók Nyilvántartásába bejegyezni.
 
 (4) A (3) bekezdés a) pontjának alkalmazásában lényegesnek minősül az adatszolgáltatás szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – közvetlenül és hátrányosan – befolyásolja az adatszolgáltatásban közölt adatokat felhasználók döntéseit.
 

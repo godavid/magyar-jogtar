@@ -209,12 +209,12 @@ Az adatszolgáltatási, adólevonási és adóbeszedési kötelezettség nem ter
 (1) Az adózó adókötelezettségeit
 
 - a) felszámolás esetén – a Csőd tv. 31. § (1) bekezdésében foglalt feladatok kivételével – a felszámolás kezdő időpontjától a felszámoló,
-- b) végelszámolás esetén – a Ctv. 98. § (3) bekezdésében foglalt feladatok kivételével – a végelszámolás kezdő időpontjától a végelszámoló,
+- b) végelszámolás esetén – a Ctv. 98. § (3) bekezdésében foglalt feladatok kivételével – a végelszámolás kezdő időpontjától a végelszámoló, egyszerűsített végelszámolás esetén a vezető tisztségviselő,
 - c) kényszertörlési eljárás esetén a kényszertörlési eljárás kezdő időpontjától a vezető tisztségviselő, vezető tisztségviselő hiányában – ha a kényszertörlési eljárást végelszámolás előzte meg – a volt végelszámoló
 
 teljesíti, továbbá gyakorolja az adózót megillető jogokat.
 
-(2) A felszámoló, a végelszámoló, kényszertörlési eljárás esetén a vezető tisztségviselő vagy – ha a kényszertörlési eljárást végelszámolás előzte meg – a volt végelszámoló által elkövetett jogsértés miatt a mulasztási bírságot és az eljárási bírságot felszámolás esetén a felszámolóval, végelszámolás esetén a végelszámolóval, kényszertörlési eljárás esetén a vezető tisztségviselővel vagy a volt végelszámolóval szemben kell megállapítani, azzal, hogy a felszámoló, a végelszámoló, a volt végelszámoló, illetve a vezető tisztségviselő akkor mentesül a mulasztási bírság, illetve az eljárási bírság alól, ha bizonyítja, hogy a jogsértés az ő érdekkörén kívül eső okra vezethető vissza.
+(2) A felszámoló, a végelszámoló, kényszertörlési eljárás vagy egyszerűsített végelszámolás esetén a vezető tisztségviselő vagy – ha a kényszertörlési eljárást végelszámolás előzte meg – a volt végelszámoló által elkövetett jogsértés miatt a mulasztási bírságot és az eljárási bírságot felszámolás esetén a felszámolóval, végelszámolás esetén a végelszámolóval, egyszerűsített végelszámolás esetén a vezető tisztségviselővel, kényszertörlési eljárás esetén a vezető tisztségviselővel vagy a volt végelszámolóval szemben kell megállapítani, azzal, hogy a felszámoló, a végelszámoló, a volt végelszámoló, illetve a vezető tisztségviselő akkor mentesül a mulasztási bírság, illetve az eljárási bírság alól, ha bizonyítja, hogy a jogsértés az ő érdekkörén kívül eső okra vezethető vissza.
 
 #### 13. § [Kockázati tőkealap adókötelezettségeinek teljesítése]
 
@@ -3033,7 +3033,7 @@ Ha az adózó az utólagos adómegállapításról hozott első fokú határozat
 
 esetén – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével felhívja az adózót az adókötelezettség jogszerű teljesítésére.
 
-(2) Az (1) bekezdés szerinti adókötelezettség határidőn belüli nem, illetve nem jogszerű teljesítése esetén az adóhatóság a természetes személy adózót ötvenezer forint, a nem természetes személy adózót százezer forint mulasztási bírsággal sújtja és – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével ismételten felhívja az adókötelezettség jogszerű teljesítésére. A kötelezettség határidőben történő teljesítése esetén az e bekezdés alapján kiszabott bírság mérsékelhető vagy elengedhető.
+(2) Az (1) bekezdés szerinti adókötelezettség határidőn belüli nem, illetve nem jogszerű teljesítése esetén az adóhatóság a természetes személy adózót ötvenezer forint, a nem természetes személy adózót kettőszázezer forint mulasztási bírsággal sújtja és – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével ismételten felhívja az adókötelezettség jogszerű teljesítésére. A kötelezettség határidőben történő teljesítése esetén az e bekezdés alapján kiszabott bírság mérsékelhető vagy elengedhető.
 
 (3) A (2) bekezdés szerinti határidő eredménytelen elteltét követően az adóhatóság a természetes személy adózót kettőszázezer forint, a nem természetes személy adózót ötszázezer forint mulasztási bírsággal sújtja és – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – tizenöt napos határidő tűzésével felhívja az adókötelezettség jogszerű teljesítésére. A kötelezettség teljesítése esetén a (2) bekezdés és az e bekezdés alapján kiszabott bírság nem mérsékelhető.
 
@@ -3177,6 +3177,13 @@ Az állami adó- és vámhatóság
 - a) a forgalmazó terhére a pénztárgép forgalmazási engedély nélküli forgalmazása, a pénztárgép forgalmazási engedély visszavonását követő továbbforgalmazása, engedélyezettől eltérő pénztárgép forgalmazása esetén tízmillió forintig terjedő mulasztási bírságot szab ki,
 - b) a pénztárgép kötelező használatával, forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek megszegése esetén a természetes személy kötelezettet (forgalmazót, üzemeltetőt, szervizt, műszerészt) ötszázezer forintig, nem természetes személy kötelezettet egymillió forintig terjedő mulasztási bírsággal sújthatja.
 
+#### 234/A. § [Az e-pénztárgéppel és vevői alkalmazással összefüggő szabályok megsértése]
+
+Az állami adó- és vámhatóság
+
+- a) a forgalmazó terhére az e-pénztárgép, a vevői alkalmazás forgalmazási engedély nélküli forgalmazása, az e-pénztárgép, a vevői alkalmazás forgalmazási engedély visszavonását követő továbbforgalmazása, vagy az engedélyezettől eltérő e-pénztárgép, vevői alkalmazás forgalmazása esetén tízmillió forintig terjedő mulasztási bírságot szab ki,
+- b) az e-pénztárgép forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek megszegése esetén a természetes személy kötelezettet ötszázezer forintig, a nem természetes személy kötelezettet egymillió forintig terjedő mulasztási bírsággal sújthatja.
+
 #### 235. § [Az automataberendezéssel és az AFE-val összefüggő szabályok megsértése]
 
 Az állami adó- és vámhatóság
@@ -3276,7 +3283,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 - a) be nem jelentett foglalkoztatottat foglalkoztat vagy foglalkoztatott,
 - b) igazolatlan eredetű árut forgalmaz,
 - c) az adóköteles tevékenység célját szolgáló helyiségében (műhely, üzlet, telep stb.) elmulasztotta számla- vagy nyugtakibocsátási kötelezettségét, vagy
-- d) a pénztárgép kötelező használatával és üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.
+- d) a pénztárgép kötelező használatával, a pénztárgép vagy az e-pénztárgép üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.
 
 (1a) Az (1) bekezdés a–c) pontjában meghatározott mulasztás ismételt előfordulása esetén a lezárás alkalmazása – az (1b)–(1c) bekezdésben foglaltak kivételével – nem mellőzhető.
 
@@ -3617,6 +3624,8 @@ Az állami adó- és vámhatóság a honlapján lekérdezési lehetőséget bizt
 (2) Az állami adó- és vámhatóság a munkaügyi kapcsolatok rendezettsége törvényi feltételeinek más szervek eljárásában történő felhasználása céljából az (1) bekezdés szerinti közzététellel egyidejűleg nyilvánosságra hozza, hogy a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján szereplő adózók közül a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021 (III. 10.) Korm. rendelet szerint mely adózók nem felelnek meg a rendezett munkaügyi kapcsolatok követelményének.
 
 (3) Az állami adó- és vámhatóság (1) bekezdés szerinti közzétételi kötelezettségét nem érinti, ha az adózó a végleges közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+
+(4) Az állami adó- és vámhatóság a foglalkoztató erre vonatkozó, naptári évenként legfeljebb egy alkalommal benyújtott kérelmére törli az (1) és (2) bekezdés szerinti közzétételi listáról a közzétett adatokat, ha a közzététel alapjául szolgáló határozat szerint a foglalkoztató legfeljebb öt fő alkalmazott bejelentését mulasztotta el, és a kérelmet elbíráló határozatban kiszabott, közzétételt kiváltó bírságot esedékességig befizeti. A közzétételt kiváltó bírság mértéke a bejelentési kötelezettség elmulasztása miatt kiszabott mulasztási bírság tízszerese.
 
 #### 266. § [Egyéb közzétételek]
 

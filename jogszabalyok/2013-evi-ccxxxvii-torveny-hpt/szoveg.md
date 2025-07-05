@@ -98,8 +98,10 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 1. alapjavadalmazás: a javadalmazás azon része, amelyet a hitelintézet és a vezető állású személy, munkavállaló közötti szerződésben meghatározottaknak megfelelően a hitelintézet a vezető állású személynek vagy munkavállalónak rendszeresen munkabérként kifizet, és amely megfelelően tükrözi a tisztség betöltéséhez szükséges szakmai tapasztalatokat és felelősséget, ideértve minden olyan juttatást, amelyet más munkavállaló is megkap;
 - 2. anticiklikus tőkepufferráta: a hitelintézet tevékenységéhez kapcsolódó prociklikusság csökkentését célzó tőkepuffer-követelmény meghatározásához alkalmazott arányszám, amelyet a hitelintézet a kitettségeihez kapcsolódó felek vonatkozásában alkalmaz azok földrajzi elhelyezkedése alapján;
 - 3. anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol;
-- 4. arany kereskedelmi ügylet: a színaranyra (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – a rúdaranyra és az aranytömbre, valamint a forgalomban nem lévő arany pénzérmére és – numizmatikai céllal – a forgalomban lévő arany pénzérmére kötött ügylet;
-- 4a.
+- 4. aranykereskedelmi ügylet: a színaranyra (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – a rúdaranyra és az aranytömbre, aranylapkára, valamint a forgalomban nem lévő és a forgalomban lévő aranyérmére kötött ügylet;
+- 4a. aranyra végzett letéti szolgáltatás: színarany (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – rúdarany, aranytömb, aranylapka és aranyérme letéti őrzése egyedi vagy gyűjtőletétként;
+- 4b. aranykereskedelmi ügylet közvetítése: szerződés alapján a megbízó és harmadik személy közötti aranykereskedelmi ügyletre vonatkozó szerződés megkötésének elősegítésére irányuló tevékenység folytatása a megbízó nevében, javára és kockázatára, ideértve a szerződéskötést is a megbízó nevében;
+- 4c. aranykereskedelmi bizományosi tevékenység: a bizományos által megbízás alapján, saját nevében az ügyfél javára, vagy terhére aranykereskedelmi ügylet megkötése;
 - 5. befektetés: az ingatlan, az ingó dolog, a vagyoni értékű jog, illetve a vállalkozásokban fennálló részesedés (részvény, üzletrész, tagsági viszony stb.), valamint a más pénzügyi vállalkozás részére nyújtott alárendelt kölcsöntőke;
 - 6. befolyásoló részesedés: az 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
 - 7. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom;
@@ -382,7 +384,7 @@ ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket.
 - a) a 3. § (2) bekezdés a)–d) és f) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
 - b) – a biztosítási tevékenységről szóló törvényben foglalt feltételekkel – hitelintézet esetén biztosításközvetítői tevékenységet, pénzügyi vállalkozás esetén biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenységet,
 - c) Tpt.-ben meghatározott feltételekkel értékpapír-kölcsönzést, részvényesi meghatalmazotti (nominee) tevékenységet, Bszt.-ben meghatározott feltételekkel befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint a Bszt. 111–116. §-a szerinti közvetítői tevékenységet és árutőzsdei szolgáltató által végezhető tevékenységet,
-- d) aranykereskedelmi ügyletet,
+- d) aranykereskedelmi ügyletet, aranykereskedelmi ügylet közvetítését, aranykereskedelmi bizományosi tevékenységet és aranyra végzett letéti szolgáltatás nyújtását,
 - e) részvénykönyvvezetést,
 - f) bizalmi szolgáltatást,
 - g) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezet hitelezési tevékenységének elősegítése érdekében végzett tevékenységet,
@@ -1256,7 +1258,7 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (3) A felszámolás során tartott egyezségi tárgyaláson az állam és az OBA képviselője – az általuk biztosított betétek tekintetében és értékében – hitelezőként vesznek részt, jogosultak megtenni az egyezség létrejöttéhez szükséges engedményeket.
 
-(4) A hitelintézet felszámolása során a letéti szolgáltatás keretében az ügyfelek megbízásából elhelyezett pénzösszegek nem képezik a felszámolási vagyon részét.
+(4) A hitelintézet felszámolása során a letéti szolgáltatás keretében az ügyfelek megbízásából elhelyezett pénzösszegek, valamint az aranyra végzett letéti szolgáltatás keretében az ügyfelek megbízásából elhelyezett arany nem képezik a felszámolási vagyon részét.
 
 (5) A kötelező jegybanki tartalékra vonatkozó előírást levelező bankon keresztül teljesítő hitelintézet által elhelyezett kötelező tartalék összege a levelező bank felszámolása esetén – a Cstv. rendelkezéseitől eltérően – nem része a felszámolás körébe tartozó vagyonnak.
 
@@ -1953,6 +1955,10 @@ a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy t
 - c) a hitelintézet vagy az összevont alapú felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló vállalkozás Ptk.-ban meghatározott minősített többséget biztosító befolyása alatt álló részvénytársaság részvényét.
 
 (3) A kockázatvállalást tartalmazó szerződés tartama alatt a hitelintézet rendszeresen figyelemmel kíséri és dokumentálja a szerződésben foglalt feltételek megvalósulását, az ügyfél pénzügyi, gazdasági helyzetének alakulását és az (1) bekezdésben foglaltakat.
+
+99/A. § (1) Óvadék alapítható a hitelintézet által aranyra végzett letéti szolgáltatás keretében nyilvántartott befektetési aranyon, továbbá – aranytartalmára tekintet nélkül – rúdaranyon, aranytömbön, aranylapkán és aranyérmén. A zálogjogosult az óvadékkal biztosított követelés esedékességekor a követelését az óvadék tárgyából közvetlen kielégítési jogával érvényesítheti.
+
+(2) Az (1) bekezdés szerinti óvadék tárgyát annak nyilvános forgalmi értékén, ennek hiányában az adott időpontban a felektől függetlenül meghatározható értékén kell figyelembe venni. Amennyiben az óvadék tárgya nyilvános forgalmi értékkel, vagy az adott időpontban felektől függetlenül meghatározható értékkel nem rendelkezik, a zálogjogosult a Ptk. 5:138. § (1) bekezdésében meghatározott jogával akkor élhet, ha a felek az óvadék tárgyának értékelési módjáról a zálogszerződésben megállapodtak.
 
 #### 48. Tulajdonszerzéshez kapcsolódó kockázatvállalás korlátozása
 
