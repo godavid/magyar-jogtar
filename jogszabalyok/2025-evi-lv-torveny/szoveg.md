@@ -60,20 +60,32 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 3. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-#### 6. §
+6. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 21. § (1) bekezdése a következő j) ponttal egészül ki:
 
-#### 7. §
+[A gépjármű üzemben tartója, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személy felel azért, hogy az általa üzemeltetett, illetve használt gépjárművel]
+
+„j) a biztonsági öv használatára”
+
+[vonatkozó – külön jogszabályban meghatározott – egyes előírások betartásra kerüljenek.]
+
+(2) A közúti közlekedésről szóló 1988. évi I. törvény 21. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdés j) pontja szerinti előírás nem alkalmazható az M2 és M3 kategóriába tartozó gépjárművek esetében.”
+
+7. § A közúti közlekedésről szóló 1988. évi I. törvény 24/A. §-a a következő (5b) bekezdéssel egészül ki:
+
+„(5b) A közlekedési hatóság a vizsgáló állomás engedélyét az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetekben felfüggeszti vagy visszavonja, amennyiben a vizsgáló állomás a tevékenységére vonatkozó – az e törvényben vagy a végrehajtására kiadott rendeletben foglalt – előírásokat, engedélyben foglaltakat megsérti.”
 
 #### 8. §
 
 9. § A közúti közlekedésről szóló 1988. évi I. törvény
 
 - a)
-- b)
-- c)
-- d)
-- e)
-- f)
+- b) 21. § (1) bekezdés i) pontjában a „tilalmára” szövegrész helyébe a „tilalmára, és” szöveg,
+- c) 21. § (4) bekezdésében az „a)–g) pontjában” szövegrész helyébe az „a)–g) és j) pontjában” szöveg,
+- d) 21. § (4a) bekezdésében) az „a)–c) és e)–g) pontjában” szövegrész helyébe az „a)–c), e)–g) és j) pontjában” szöveg,
+- e) 21/B. § (2) bekezdésében az „e), f) és h)” szövegrész helyébe az „e), f), h) és j)” szöveg,
+- f) 24/A. § (5a) bekezdésében a „vizsgálatával és rendszeres” szövegrész helyébe a „vizsgálatával, honosítási eljárásával, valamint rendszeres” szöveg,
 - g)
 - h)
 - i)
