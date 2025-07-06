@@ -80,62 +80,19 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 17. §
 
-18. § A bányászatról szóló 1993. évi XLVIII. törvény 43. §-a a következő (12) bekezdéssel egészül ki:
+#### 18. §
 
-„(12) A bányafelügyelet hatáskörébe tartozik az energiaágazaton belüli metánkibocsátás csökkentéséről és az (EU) 2019/942 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1787 európai parlamenti és tanácsi rendelet (a továbbiakban: (EU) 2024/1787 európai parlamenti és tanácsi rendelet) előírásaival kapcsolatos – IV/D. RÉSZ szerinti – hatósági eljárások lefolytatása, döntések meghozatala, illetve a jogsértések megállapítása esetén a szankciók alkalmazása.”
-
-19. § A bányászatról szóló 1993. évi XLVIII. törvény a következő IV/D. RÉSSZEL egészül ki:
-
-## „IV/D. RÉSZ — AZ (EU) 2024/1787 EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET VÉGREHAJTÁSÁRA VONATKOZÓ SZABÁLYOK
-
-48/D. § E rész alkalmazásában:
-
-- 1. bányaüzemeltető: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 12. pontjában meghatározott fogalom;
-- 2. importőr: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 59. pontjában meghatározott fogalom;
-- 3. termelő: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 58. pontjában meghatározott fogalom;
-- 4. üzemeltető: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 3. pontjában meghatározott fogalom;
-- 5. vállalkozás: az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 2. cikk 23. pontjában meghatározott fogalom.
-
-48/E. § (1) Az (EU) 2024/1787 európai parlamenti és tanácsi rendelet előírásai tekintetében illetékes hatóságként a bányafelügyelet jár el.
-
-(2) A bányafelügyelet az (EU) 2024/1787 európai parlamenti és tanácsi rendelet szerinti nyilvánosságra hozatalra vonatkozó kötelezettségének a bányafelügyelet honlapján történő közzététellel tesz eleget.
-
-(3) A bányafelügyelet az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 7. cikke szerinti panasz kivizsgálása során a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény (a továbbiakban: Panasztv.) szerint jár el, azzal, hogy a panaszt a Panasztv. alkalmazása szempontjából közérdekű bejelentésnek kell tekinteni.
-
-48/F. § (1) A bányafelügyelet az üzemeltetőt, a vállalkozást, a bányaüzemeltetőt, az importőrt, az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 18. cikk (8) bekezdése szerinti felelős felet, illetve az uniós termelőt az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 33. cikk (5) bekezdése szerinti jogsértés megállapítása esetén bírsággal sújtja.
-
-(2) A szankciók alkalmazása tekintetében az eszközöket üzemeltető személynek az eszközök üzemeltetésére hatósági engedéllyel rendelkező személyt kell tekinteni, függetlenül attól, hogy a tényleges üzemeltetést szerződéses jogviszony alapján más személy végzi.
-
-(3) Az (1) bekezdés alapján kiszabott bírság
-
-- a) jogi személy esetén 500.000 forinttól a jogsértést elkövető jogi személy – hatósági eljárás megindítását megelőző évben szerzett – nettó éves árbevételének 20%-áig,
-- b) természetes személy esetén 100.000 forinttól a jogsértést elkövető természetes személy – hatósági eljárás megindítását megelőző évben szerzett – nettó éves jövedelmének 20%-áig
-
-terjedhet.
-
-(4) Az (1) bekezdés alapján kiszabott bírság összege nem veszélyeztetheti az energiaellátás biztonságát.
-
-(5) Az (EU) 2024/1787 európai parlamenti és tanácsi rendelet szerinti jogsértés megállapítása esetén figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
-
-(6) Ismételt jogsértés esetén a kiszabott bírság összege nem lehet kevesebb, mint a megelőzően kiszabott bírság összegének másfélszerese. Az így megállapított bírság összege nem haladhatja meg a (3) bekezdés szerinti bírságmaximumot.
-
-(7) Ha az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 15. cikk (8) bekezdése alapján a bányafelügyelet az üzemeltető által benyújtott végrehajtási ütemtervet jóváhagyja, a végrehajtási ütemtervben meghatározott időszak lejártáig a bányafelügyelet az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 33. cikk (5) bekezdés i) pontjának megsértése miatt az üzemeltetővel szemben nem jár el.
-
-(8) A bányafelügyelet a jogsértés megszüntetésére kötelezés mellett is alkalmazhat bírságot.
-
-(9) A bányafelügyelet a tárgyévet követő év március 31. napjáig a honlapján közzéteszi az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 33. cikk (8) bekezdése szerinti adatokat.”
+#### 19. §
 
 #### 20. §
 
 #### 21. §
 
-22. § A bányászatról szóló 1993. évi XLVIII. törvény 52/A. §-a helyébe a következő rendelkezés lép:
-
-„52/A. § A 43. § (12) bekezdése és a IV/D. RÉSZ az (EU) 2024/1787 európai parlamenti és tanácsi rendelet 4. cikke, 5. cikk (4) bekezdése, 6., 7. és 33. cikke végrehajtásához szükséges rendelkezéseket állapít meg.”
+#### 22. §
 
 #### 23. §
 
-24. § Hatályát veszti a bányászatról szóló 1993. évi XLVIII. törvény 43/B. § (13) bekezdése.
+#### 24. §
 
 #### 5. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
@@ -267,17 +224,7 @@ terjedhet.
 
 #### 72. §
 
-73. § (1)
-
-(2)
-
-(3) Az államháztartásról szóló 2011. évi CXCV. törvény 39/A. §-a következő (5)–(7) bekezdéssel egészül ki:
-
-„(5) Az (1) és (1a) bekezdés szerinti kirendeléssel érintett helyi önkormányzat köteles a Kincstárral, valamint a költségvetési biztossal annak tevékenysége végzése során a megbízás fennállta alatt együttműködni. Ha a helyi önkormányzat a költségvetési biztos megbízatása alatt együttműködési kötelezettségének nem tesz eleget – jelentős adatot valótlanul állít vagy elhallgat, adatszolgáltatási kötelezettségét elmulasztja, a költségvetési biztos feladatellátását egyéb módon ellehetetleníti – a Kincstár az Ákr. szerinti hatósági eljárásában bírságot szab ki a helyi önkormányzattal szemben. A helyi önkormányzat a bírságot az arról szóló határozat véglegessé válását követően, a határozatban foglaltaknak megfelelően a következő havi nettó finanszírozás keretében teljesíti.
-
-(6) Az (5) bekezdés szerinti bírság esetében kizárt a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés alkalmazása.
-
-(7) Az (5) bekezdés szerinti közigazgatási szankciót a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni.”
+#### 73. §
 
 #### 74. §
 
@@ -287,24 +234,15 @@ terjedhet.
 
 #### 77. §
 
-78. § Az államháztartásról szóló 2011. évi CXCV. törvény 105/B. §-a a következő (1c) bekezdéssel egészül ki:
-
-„(1c) Ha a kincstár az (1a) bekezdés szerint a bírság összeg teljes mértékben való elengedéséről dönt, a közigazgatási szankciót nem kell a Közigazgatási Szankciók Nyilvántartásába bejegyezni.”
+#### 78. §
 
 #### 79. §
 
-80. § Az államháztartásról szóló 2011. évi CXCV. törvény 108. §-a a következő (3c) bekezdéssel egészül ki:
-
-„(3c) Ha a kincstár az (3) bekezdés szerint a bírság összeg teljes mértékben való elengedéséről dönt, a közigazgatási szankciót nem kell a Közigazgatási Szankciók Nyilvántartásába bejegyezni.”
+#### 80. §
 
 #### 81. §
 
-82. § Az államháztartásról szóló 2011. évi CXCV. törvény
-
-- 1.
-- 2. 105/B. § (1a) bekezdésében a „történő teljesítése esetén a kiszabott bírság korlátlanul” szövegrész helyébe a „történő maradéktalan teljesítése esetén a kiszabott bírság kérelemre korlátlanul” szöveg
-
-lép.
+#### 82. §
 
 #### 83. §
 
@@ -322,39 +260,13 @@ lép.
 
 #### 23. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-87. § (1) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (1) bekezdés 4. pontja helyébe a következő rendelkezés lép:
+#### 87. §
 
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
+#### 88. §
 
-„4. aranykereskedelmi ügylet: a színaranyra (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – a rúdaranyra és az aranytömbre, aranylapkára, valamint a forgalomban nem lévő és a forgalomban lévő aranyérmére kötött ügylet;”
+#### 89. §
 
-(2) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (1) bekezdése a következő 4a–4c. ponttal egészül ki:
-
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
-
-„4a. aranyra végzett letéti szolgáltatás: színarany (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – rúdarany, aranytömb, aranylapka és aranyérme letéti őrzése egyedi vagy gyűjtőletétként;
-
-4b. aranykereskedelmi ügylet közvetítése: szerződés alapján a megbízó és harmadik személy közötti aranykereskedelmi ügyletre vonatkozó szerződés megkötésének elősegítésére irányuló tevékenység folytatása a megbízó nevében, javára és kockázatára, ideértve a szerződéskötést is a megbízó nevében;
-
-4c. aranykereskedelmi bizományosi tevékenység: a bizományos által megbízás alapján, saját nevében az ügyfél javára, vagy terhére aranykereskedelmi ügylet megkötése;”
-
-88. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 7. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:)
-
-„d) aranykereskedelmi ügyletet, aranykereskedelmi ügylet közvetítését, aranykereskedelmi bizományosi tevékenységet és aranyra végzett letéti szolgáltatás nyújtását,”
-
-(végezhet.)
-
-89. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 57. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A hitelintézet felszámolása során a letéti szolgáltatás keretében az ügyfelek megbízásából elhelyezett pénzösszegek, valamint az aranyra végzett letéti szolgáltatás keretében az ügyfelek megbízásából elhelyezett arany nem képezik a felszámolási vagyon részét.”
-
-90. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 47. alcíme a következő 99/A. §-sal egészül ki:
-
-„99/A. § (1) Óvadék alapítható a hitelintézet által aranyra végzett letéti szolgáltatás keretében nyilvántartott befektetési aranyon, továbbá – aranytartalmára tekintet nélkül – rúdaranyon, aranytömbön, aranylapkán és aranyérmén. A zálogjogosult az óvadékkal biztosított követelés esedékességekor a követelését az óvadék tárgyából közvetlen kielégítési jogával érvényesítheti.
-
-(2) Az (1) bekezdés szerinti óvadék tárgyát annak nyilvános forgalmi értékén, ennek hiányában az adott időpontban a felektől függetlenül meghatározható értékén kell figyelembe venni. Amennyiben az óvadék tárgya nyilvános forgalmi értékkel, vagy az adott időpontban felektől függetlenül meghatározható értékkel nem rendelkezik, a zálogjogosult a Ptk. 5:138. § (1) bekezdésében meghatározott jogával akkor élhet, ha a felek az óvadék tárgyának értékelési módjáról a zálogszerződésben megállapodtak.”
+#### 90. §
 
 #### 91. §
 

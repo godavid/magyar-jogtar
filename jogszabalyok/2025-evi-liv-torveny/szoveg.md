@@ -233,12 +233,7 @@ lép.
 
 #### 53. §
 
-54. § A Jöt.
-
-- a) 101/A. § (2) bekezdésében a „százezer forint” szövegrész helyébe a „kettőszázezer forint” szöveg,
-- b)
-
-lép.
+#### 54. §
 
 ### IV. Fejezet — EGYES ÁGAZATI ADÓK
 
@@ -368,17 +363,7 @@ lép.
 
 (2)
 
-94. § (1) Az Art. 12. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az adózó adókötelezettségeit)
-
-„b) végelszámolás esetén – a Ctv. 98. § (3) bekezdésében foglalt feladatok kivételével – a végelszámolás kezdő időpontjától a végelszámoló, egyszerűsített végelszámolás esetén a vezető tisztségviselő,”
-
-(teljesíti, továbbá gyakorolja az adózót megillető jogokat.)
-
-(2) Az Art. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A felszámoló, a végelszámoló, kényszertörlési eljárás vagy egyszerűsített végelszámolás esetén a vezető tisztségviselő vagy – ha a kényszertörlési eljárást végelszámolás előzte meg – a volt végelszámoló által elkövetett jogsértés miatt a mulasztási bírságot és az eljárási bírságot felszámolás esetén a felszámolóval, végelszámolás esetén a végelszámolóval, egyszerűsített végelszámolás esetén a vezető tisztségviselővel, kényszertörlési eljárás esetén a vezető tisztségviselővel vagy a volt végelszámolóval szemben kell megállapítani, azzal, hogy a felszámoló, a végelszámoló, a volt végelszámoló, illetve a vezető tisztségviselő akkor mentesül a mulasztási bírság, illetve az eljárási bírság alól, ha bizonyítja, hogy a jogsértés az ő érdekkörén kívül eső okra vezethető vissza.”
+#### 94. §
 
 #### 95. §
 
@@ -410,26 +395,13 @@ lép.
 
 #### 107. §
 
-108. § Az Art. a következő 234/A. §-sal egészül ki:
+#### 108. §
 
-#### „234/A. § [Az e-pénztárgéppel és vevői alkalmazással összefüggő szabályok megsértése]
-
-Az állami adó- és vámhatóság
-
-- a) a forgalmazó terhére az e-pénztárgép, a vevői alkalmazás forgalmazási engedély nélküli forgalmazása, az e-pénztárgép, a vevői alkalmazás forgalmazási engedély visszavonását követő továbbforgalmazása, vagy az engedélyezettől eltérő e-pénztárgép, vevői alkalmazás forgalmazása esetén tízmillió forintig terjedő mulasztási bírságot szab ki,
-- b) az e-pénztárgép forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek megszegése esetén a természetes személy kötelezettet ötszázezer forintig, a nem természetes személy kötelezettet egymillió forintig terjedő mulasztási bírsággal sújthatja.”
-
-109. § Az Art. 245. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Az állami adó- és vámhatóság mulasztási bírság kiszabása mellett az adóköteles tevékenység célját szolgáló helyiséget tizenkettő nyitvatartási napra lezárhatja, ha az adózó)
-
-„d) a pénztárgép kötelező használatával, a pénztárgép vagy az e-pénztárgép üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.”
+#### 109. §
 
 #### 110. §
 
-111. § Az Art. 265. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az állami adó- és vámhatóság a foglalkoztató erre vonatkozó, naptári évenként legfeljebb egy alkalommal benyújtott kérelmére törli az (1) és (2) bekezdés szerinti közzétételi listáról a közzétett adatokat, ha a közzététel alapjául szolgáló határozat szerint a foglalkoztató legfeljebb öt fő alkalmazott bejelentését mulasztotta el, és a kérelmet elbíráló határozatban kiszabott, közzétételt kiváltó bírságot esedékességig befizeti. A közzétételt kiváltó bírság mértéke a bejelentési kötelezettség elmulasztása miatt kiszabott mulasztási bírság tízszerese.”
+#### 111. §
 
 #### 112. §
 
@@ -445,7 +417,7 @@ Az állami adó- és vámhatóság
 - 6.
 - 7.
 - 8.
-- 9. 221. § (2) bekezdésében a „százezer forint” szövegrész helyébe a „kettőszázezer forint” szöveg
+- 9.
 
 lép.
 
