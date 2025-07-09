@@ -2208,7 +2208,7 @@ jogsértés esetén nem mérsékelhető.
 
 (17) A hulladékgazdálkodási bírság megfizetésére a területi hulladékgazdálkodási hatóság a végrehajtás elrendelése előtt – kérelemre – legfeljebb 3 évig terjedő részletfizetést engedélyezhet. A részletfizetés engedélyezése esetén a kiszabott bírság (4) bekezdés szerinti mérséklésének nincs helye.
 
-(18) Az e törvény szerinti helyszíni bírság kiszabására jogosult hatóság a hulladékgazdálkodási bírság, valamint a helyszíni bírság mértékéről, kiszabásának és megállapításának módjáról kormányrendeletben meghatározott feladata ellátása érdekében intézkedése során a (19) bekezdés e) pontjában meghatározott személyes adatokat kezeli.
+(18) Az e törvény szerinti helyszíni bírság kiszabására jogosult hatóság a hulladékgazdálkodási bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló kormányrendeletben meghatározott feladata ellátása érdekében intézkedése során a (19) bekezdés e) pontjában meghatározott személyes adatokat kezeli.
 
 (19) A helyszíni bírság kiszabására jogosult hatóság az intézkedés során a következő adatokat rögzíti:
 
@@ -2228,6 +2228,10 @@ jogsértés esetén nem mérsékelhető.
 - h) a hulladék elszállítás módja, határideje, az azt igazoló dokumentumok beküldésének határideje (elkövető által azonnal vagy hulladékgazdálkodási engedéllyel rendelkező cég által),
 - i) annak rögzítése, hogy az elkövető elismeri a cselekmény elkövetését és azt, hogy a helyszíni bírság kiszabására jogosult által rögzítettek megfelelnek a valóságnak, és
 - j) a helyszíni bírság kiszabására jogosult és az eljárás alá vont aláírása.
+
+(20) A jegyző, a közterület-felügyelő, az önkormányzati természetvédelmi őr és a mezőőr által kiszabott végleges helyszíni bírság teljes összege, valamint a hulladékgazdálkodási hatóság által a jogsértés helye szerint illetékes települési önkormányzat területén véglegesen kiszabott és abból befolyt hulladékgazdálkodási bírság összegének 30%-a a jogsértés helye szerint illetékes települési (fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat bevételét képezi.
+
+(21) A helyszíni bírság kiszabása mellőzhető, ha a jogsértést elkövető személy az 1 kilogrammot meg nem haladó nem veszélyes hulladékot a helyszíni bírság kiszabására jogosult jelenlétében hulladékgyűjtő edénybe helyezi.
 
 #### 36/C. Adatvédelem a hulladékgazdálkodási közigazgatási eljárások során
 
