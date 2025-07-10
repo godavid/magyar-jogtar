@@ -188,9 +188,7 @@ lép.
 
 #### 17. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-54. § A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 19/A. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A (7) bekezdésben foglalt bejelentési kötelezettség elmulasztása esetén a Hatóság a filmelőállítót, a filmgyártó vállalkozást, a filmterjesztőt, valamint annak megszűnése esetén a jogsértés elkövetésének időpontjában vezető tisztségviselőnek minősülő személyeket – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 10. § (1) bekezdésében foglaltakra figyelemmel – a 19/H. § (8) bekezdés c) pontja szerinti közigazgatási bírság megfizetésére kötelezheti.”
+#### 54. §
 
 #### 55. §
 
@@ -328,40 +326,13 @@ lép.
 
 #### 106. §
 
-107. § A Ht. 86. §-a a következő (20) és (21) bekezdéssel egészül ki:
-
-„(20) A jegyző, a közterület-felügyelő, az önkormányzati természetvédelmi őr és a mezőőr által kiszabott végleges helyszíni bírság teljes összege, valamint a hulladékgazdálkodási hatóság által a jogsértés helye szerint illetékes települési önkormányzat területén véglegesen kiszabott és abból befolyt hulladékgazdálkodási bírság összegének 30%-a a jogsértés helye szerint illetékes települési (fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat bevételét képezi.
-
-(21) A helyszíni bírság kiszabása mellőzhető, ha a jogsértést elkövető személy az 1 kilogrammot meg nem haladó nem veszélyes hulladékot a helyszíni bírság kiszabására jogosult jelenlétében hulladékgyűjtő edénybe helyezi.”
+#### 107. §
 
 #### 108. §
 
 #### 109. §
 
-110. § A Ht.
-
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
-- 13.
-- 14.
-- 15.
-- 16.
-- 17.
-- 18. 86. § (18) bekezdésében a „bírság, valamint a helyszíni bírság mértékéről, kiszabásának és megállapításának módjáról” szövegrész helyébe a „bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló” szöveg,
-- 19.
-- 20.
-
-lép.
+#### 110. §
 
 #### 111. §
 
@@ -446,26 +417,9 @@ lép.
 
 #### 38. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 
-140. § A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény 7/B. §-a helyébe a következő rendelkezés lép:
+#### 140. §
 
-„7/B. § (1) A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában értékesített friss vagy gyorsan romló mezőgazdasági és élelmiszeripari termék esetében a felek között létrejött írásbeli szerződésben meghatározott fogyaszthatósági vagy minőségmegőrzési idő leteltét követően, erre vonatkozó szerződéses rendelkezés hiányában a termék birtokba vételét követően minőségi kifogásnak nincs helye.
-
-(2) A termelő által a feldolgozó, a felvásárló vagy a forgalmazó részére értékesített mezőgazdasági termék vonatkozásában a termék átadásának időpontját követően minőségi kifogásnak akkor van helye, ha a felek között létrejött írásbeli szerződés erről rendelkezik.
-
-(3) Ha a termelő által a feldolgozó, a felvásárló vagy a forgalmazó részére értékesített mezőgazdasági termék átvétele és ellenértékének megállapítása a felek között létrejött írásbeli szerződésben meghatározott minőségi mutatók alapján történik, úgy az írásbeli szerződésnek tartalmaznia kell
-
-- a) a minőség meghatározásának módját, beleértve a mintavételezés időbeli és technikai lebonyolításának és a műszeres mérés típusának leírását, és
-- b) a teljesítési és a minőségi vita rendezésének módját, beleértve az ellenminta képzését, az ellenminta időbeli felhasználását, a minőségellenőr tevékenységét, független és akkreditált harmadik fél laboratórium megnevezését és igénybevételének szabályait tartalmazó rendelkezéseket.
-
-(4) Az (1)–(3) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Ha a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, ágazatfelügyeleti bírságot szab ki, amelynek legkisebb mértéke tízezer forint, legmagasabb mértéke ötvenmillió forint.”
-
-141. § A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény 28. § (1) bekezdése a következő q) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„q) a minőségi mutatók alapján történő termékátvétel esetén alkalmazandó módszereket”
-
-(rendeletben állapítsa meg.)
+#### 141. §
 
 #### 39.
 
