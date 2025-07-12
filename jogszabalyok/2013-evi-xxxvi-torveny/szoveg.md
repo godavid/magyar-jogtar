@@ -2158,7 +2158,7 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 
 229. § (1) A bírósági felülvizsgálati kérelmet a Kúria bírálja el.
 
-(2) A bíróság a bírósági felülvizsgálat iránti kérelemről nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
+(2) A bíróság a bírósági felülvizsgálat iránti kérelemről nemperes eljárásban, öt hivatásos bíróból álló tanácsban határoz.
 
 230. § A fellebbezés és a bírósági felülvizsgálat iránti kérelem a választási bizottság, illetve a bíróság határozatának meghozataláig visszavonható, a választási bizottság azonban a fellebbezési eljárást hivatalból folytathatja.
 
