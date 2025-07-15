@@ -155,6 +155,10 @@ a következő törvényt alkotja:
 
 (7) Az állami mentőszolgálat által biztosított egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátás esetén a személyes közreműködés hatósági nyilvántartásba vételre irányuló eljárásért nem kell igazgatási szolgáltatási díjat fizetni.
 
+10/A. § (1) Az önálló orvosi tevékenységről szóló 2000. évi II. törvény szerinti önálló orvosi tevékenységet nyújtó háziorvos, házi gyermekorvos a 6/A. § szerinti alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi ügyeleti ellátásban a miniszteri rendeletben meghatározott szakmai, szervezeti és munkavégzési feltételek szerint részt vesz. Az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi ügyeleti ellátásban való részvétel egyéb, az e törvényben és a miniszteri rendeletben nem szabályozott feltételeit a háziorvos, házi gyermekorvos és az állami mentőszolgálat megállapodásban rendezi, azzal, hogy a háziorvos, házi gyermekorvos a megállapodás aláírásától függetlenül köteles részt venni az ügyeleti feladatok ellátásában. Ha a háziorvos, házi gyermekorvos a megállapodás megkötését megelőzően részt vesz az ügyeletben, a megállapodásban ezen időszakot is rendezni kell.
+
+(2) Az (1) bekezdés szerinti ügyelet ellátásának részletes szakmai, szervezeti és munkavégzési feltételeit – ideértve a díjazást is – a miniszter rendeletben határozza meg.
+
 11. § (1) A praxisközösség elsősorban az egészségügyi alapellátáshoz tartozó megelőző ellátások hatékonyabb nyújtása érdekében jöhet létre.é
 
 (2) A praxisközösségek kialakításának szempontjait a Kormány rendeletben állapítja meg.
@@ -257,7 +261,7 @@ a következő törvényt alkotja:
 
 - a) a háziorvosi, házi gyermekorvosi és fogorvosi alapellátás részletes szakmai szabályait,
 - b) a háziorvos, házi gyermekorvos választásának, a jelentkezésnek, a jelentkezés elutasításának, az átjelentkezésnek, valamint az ezzel kapcsolatos vitás kérdések rendezésének a részletes szabályait,
-- c) a háziorvosi, házi gyermekorvosi és fogorvosi feladatok rendelési időn kívüli, ügyeleti ellátásának részletes szakmai szabályait,
+- c) a háziorvosi, házi gyermekorvosi és fogorvosi feladatok rendelési időn kívüli, ügyeleti ellátásának részletes szakmai szabályait, az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi ügyeleti ellátás részletes szakmai, szervezeti és munkavégzési feltételeit – ideértve a díjazást is –,
 - d) a védőnői ellátás részletes szakmai szabályait,
 - e) az iskola-egészségügyi ellátás részletes szakmai szabályait,
 - f) a foglalkozás-egészségügyi alapellátás körében végezhető megelőző ellátásokat,
@@ -326,7 +330,7 @@ a praxiskezelő által biztosított elektronikus felületen bejelenti.
 
 26. § A 2025. január 1-jét megelőzően az állami mentőszolgálat által biztosított egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátás esetén a személyes közreműködés hatósági nyilvántartásba vételre irányuló eljárásért kifizetett igazgatási szolgáltatási díjat a nyilvántartásba vételt lefolytató egészségügyi államigazgatási szerv 2025. március 1-jéig visszatéríti.
 
-#### 27. §
+27. § A Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel (a továbbiakban: Módtv.2.) megállapított 10/A. §-ban foglaltak a Módtv2. hatálybalépését megelőzően az állami mentőszolgálat és a háziorvos, házi gyermekorvos között megkötött megállapodásokat nem érintik, azzal, hogy ha a Módtv2. hatálybalépését megelőzően megkötött megállapodásban foglalt díjazáshoz képest a miniszter rendeletében meghatározott díjazás a háziorvosra, házigyermekorvosra nézve kedvezőbb, a megállapodásban a Módtv2. által megállapított 10/A. § hatálybalépését követően azt kell alkalmazni.
 
 #### 28. §
 
