@@ -423,23 +423,11 @@ lép.
 
 #### 39. Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény módosítása
 
-142. § Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény a következő 10/A. §-sal egészül ki:
+#### 142. §
 
-„10/A. § (1) Az önálló orvosi tevékenységről szóló 2000. évi II. törvény szerinti önálló orvosi tevékenységet nyújtó háziorvos, házi gyermekorvos a 6/A. § szerinti alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi ügyeleti ellátásban a miniszteri rendeletben meghatározott szakmai, szervezeti és munkavégzési feltételek szerint részt vesz. Az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi ügyeleti ellátásban való részvétel egyéb, az e törvényben és a miniszteri rendeletben nem szabályozott feltételeit a háziorvos, házi gyermekorvos és az állami mentőszolgálat megállapodásban rendezi, azzal, hogy a háziorvos, házi gyermekorvos a megállapodás aláírásától függetlenül köteles részt venni az ügyeleti feladatok ellátásában. Ha a háziorvos, házi gyermekorvos a megállapodás megkötését megelőzően részt vesz az ügyeletben, a megállapodásban ezen időszakot is rendezni kell.
+#### 143. §
 
-(2) Az (1) bekezdés szerinti ügyelet ellátásának részletes szakmai, szervezeti és munkavégzési feltételeit – ideértve a díjazást is – a miniszter rendeletben határozza meg.”
-
-143. § Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 18. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-„c) a háziorvosi, házi gyermekorvosi és fogorvosi feladatok rendelési időn kívüli, ügyeleti ellátásának részletes szakmai szabályait, az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi ügyeleti ellátás részletes szakmai, szervezeti és munkavégzési feltételeit – ideértve a díjazást is –,”
-
-(rendeletben állapítsa meg.)
-
-144. § Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény a következő 27. §-sal egészül ki:
-
-„27. § A Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel (a továbbiakban: Módtv.2.) megállapított 10/A. §-ban foglaltak a Módtv2. hatálybalépését megelőzően az állami mentőszolgálat és a háziorvos, házi gyermekorvos között megkötött megállapodásokat nem érintik, azzal, hogy ha a Módtv2. hatálybalépését megelőzően megkötött megállapodásban foglalt díjazáshoz képest a miniszter rendeletében meghatározott díjazás a háziorvosra, házigyermekorvosra nézve kedvezőbb, a megállapodásban a Módtv2. által megállapított 10/A. § hatálybalépését követően azt kell alkalmazni.”
+#### 144. §
 
 #### 40. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosítása
 
