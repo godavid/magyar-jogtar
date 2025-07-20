@@ -178,6 +178,10 @@ hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) b
 
 (10) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a politikai felsővezető (2), illetve (4) bekezdés szerinti juttatásra jogosító idejét figyelembe kell venni.
 
+(11) Az (5)–(6a) és (9) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(12) A (11) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (6) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a politikai felsővezetőt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (6) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.
+
 14. § (1) A miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár a miniszterelnök által meghatározott összegű jutalomban részesülhet. Az államtitkár jutalmára a tevékenységét irányító miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tesz javaslatot. Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra az államtitkár tevékenységét irányító miniszter tesz javaslatot.
 
 (2)
@@ -382,7 +386,7 @@ hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) b
 
 ### Felhatalmazó rendelkezések
 
-75. § (1)
+75. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 13. § (11) bekezdése szerinti ellenőrző szervet.
 
 (2)
 
@@ -441,6 +445,8 @@ hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) b
 (4) Ahol jogszabály miniszteri vagy államtitkári illetményt, illetve annak hányadát vagy szorzatát állapítja meg illetményként vagy díjazásként valamely tisztségviselő számára, jogszabály eltérő rendelkezése hiányában e törvénynek a Módtv. hatálybalépését megelőző napon hatályos szabályait kell alkalmazni az illetmény vagy a díjazás összegének megállapítása során.
 
 92. § E törvénynek az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvénnyel megállapított 25/B. §-a és 52. §-a alapján az illetményt és a díjazást első alkalommal 2024. július 1. napjával kell megállapítani.
+
+92/A. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított 13. § (11) és (12) bekezdését az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ### Az Európai Unió jogi aktusainak való megfelelés
 

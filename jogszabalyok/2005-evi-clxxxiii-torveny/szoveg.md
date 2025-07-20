@@ -1534,6 +1534,21 @@ irányul.
 
 44/A. § (1) A magyar állam tulajdonába és ingyenesen a fejlesztési közreműködő vagyonkezelésébe és a tulajdonosi joggyakorlóval fennálló, hatályos vagyonkezelési szerződése hatálya alá kerül a 44. § (3) bekezdés szerinti közérdekű és közcélú tevékenység folytatása érdekében megvásárolt, kisajátított vagy egyéb jogcímen a fejlesztési közreműködő által megszerzett földrészlet, ezeken a földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök, a vasútvonalak megállóhelyei megközelítésének fejlesztése és a ráhordás feltételeinek javítása érdekében létrehozott parkolók és kapcsolódó létesítmények. A fejlesztési közreműködő vagyonkezelésébe kerül továbbá a megvalósítást megelőzően állami tulajdonban álló ingatlan beruházással érintett területrésze az ingatlanon fennálló vagyonkezelési vagy haszonbérleti szerződés módosítását vagy megszüntetését, illetve ezen jogok ingatlan-nyilvántartásból vagy földhasználati nyilvántartásból történő törlését követően. A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről a fejlesztési közreműködő gondoskodik. A fejlesztési közreműködő a vagyonkezelői jog bejegyzésére vonatkozó ingatlanügyi hatósági határozatot annak kézhezvételét követően haladéktalanul megküldi a tulajdonosi joggyakorló részére.
 
+(1a) Az (1) bekezdésben foglaltaktól eltérően a fejlesztési közreműködőként jogszabályban kijelölt költségvetési szerv (e § alkalmazásában a továbbiakban: költségvetési szerv) tulajdonosi joggyakorlásába kerül a 44. § (3) bekezdés szerinti közérdekű és közcélú tevékenység folytatása érdekében szükséges,
+
+- a) a költségvetési szerv által megvásárolt, kisajátított vagy más jogcímen a magyar állam javára megszerzett földrészlet, valamint
+- b) állami tulajdonban álló ingatlan, vagy – az (1b) bekezdés szerinti telekalakítási eljárást követően – annak a beruházással érintett, önálló ingatlanként kialakított területrésze.
+
+(1b) Ha a beruházáshoz az (1a) bekezdés b) pontja szerinti ingatlannak nem a teljes területe szükséges, a beruházással érintett területrész önálló ingatlanként történő kialakítására irányuló telekalakítási eljárás során a költségvetési szerv jár el.
+
+(1c) A számviteli átadásról a korábbi tulajdonosi joggyakorló és a költségvetési szerv megállapodást köt, az (1a) bekezdés b) pontja szerinti ingatlan esetében a költségvetési szerv megkeresését, az (1b) bekezdés szerinti telekalakítás esetében a véglegessé vált ingatlan-nyilvántartási bejegyző határozat kézhezvételét követő 30 napon belül. A számviteli átadás könyv szerinti értéken történik.
+
+(1d) A költségvetési szerv tulajdonosi joggyakorlása a fejlesztés keretében létrejött vagyonelem és a beruházással érintett ingatlan tekintetében az átadás-átvétel fordulónapján e törvény erejénél fogva megszűnik. A költségvetési szerv tulajdonosi joggyakorlásának megszűnését követően a vagyonelemeket az új tulajdonosi joggyakorló könyveiben és nyilvántartásában a költségvetési szerv által nyilvántartott – befejezetlen beruházás – könyv szerinti értéken kell feltüntetni.
+
+(1e) A költségvetési szerv a tulajdonosi joggyakorlásának (1d) bekezdés szerinti megszűnését követő hat hónapon belül elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket, ingatlanokat a megszűnés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a tulajdonosi joggyakorló vagy a tulajdonosi joggyakorló döntése alapján az új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
+
+(1f) Az állami tulajdonban álló ingatlanok tekintetében, a beruházás előkészítése során a fejlesztési közreműködő által a beruházás megvalósítása céljából kezdeményezett hatósági eljárásokban, valamint a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott telekalakítási eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
+
 (2) A fejlesztési közreműködő által végzett közérdekű és közcélú tevékenység alapján megszerzett, az állam tulajdonában álló egyes földterületek, valamint a fejlesztési közreműködő által ezen földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök az átadás-átvétel fordulónapján, e törvény erejénél fogva, a fejlesztési közreműködő által nyilvántartott könyv szerinti értéken, ellenérték nélkül, közvetlenül a vasúti pályahálózat vagyonkezelője vagyonkezelésébe kerülnek, a fejlesztési közreműködő vagyonkezelési jogának egyidejű megszűnése mellett. Az átadás-átvétel fordulónapjától számított hat hónapon belül a fejlesztési közreműködő elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és jelen bekezdés szerinti új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
 
 (3) A nem állami tulajdonban álló, e § szerinti eljárásokban érintett ingatlanok állami tulajdonba vételéről a vasúti pályahálózat vagyonkezelője köteles gondoskodni abban az esetben, ha az érintett (harmadik személy tulajdonában álló) ingatlan részben, vagy egészben már a beruházás (fejlesztés) megkezdésének időpontja előtt is vasútüzemi használat alatt állt. A beruházás előkészítésének és lebonyolításának időszakában szükségessé vált területszerzéseknél az elmaradt, vagy elkezdett, de be nem fejezett állami tulajdonba vétel utólagos végrehajtása érdekében, valamint a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény hatálybalépését követően megkezdett fejlesztések érdekében szükségessé váló területszerzések során – a vasúti pályahálózat vagyonkezelőjének szakmai véleménye alapján – a fejlesztési közreműködő köteles eljárni. Az állami tulajdonba vételt követően az MNV Zrt. az érintett ingatlanokat a vasúti pályahálózat vagyonkezelője részére vagyonkezelésébe adja.
@@ -2176,7 +2191,7 @@ alapján vezethető.
 
 ### Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző munkavállalónak nem minősülő utazó vagy a zavartalan közlekedést biztosító vasúti munkavállalóra vonatkozó rendelkezések
 
-68/H. § (1) A 68/F. § (1), (3) és (4) bekezdését, valamint a 68/G. § rendelkezéseit az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalónak nem minősülő vasúti járművezető esetében is alkalmazni kell.
+68/I. § (1) A 68/F. § (1), (3) és (4) bekezdését, valamint a 68/G. § rendelkezéseit az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalónak nem minősülő vasúti járművezető esetében is alkalmazni kell.
 
 (2) Az Mt. 108. § (2) bekezdésében meghatározott eseteket kivéve a vezetési idő hossza a teljesített napi (beosztás szerinti rendes- vagy rendkívüli) munkaidőn belül – függetlenül az éjszakai időben eltöltött munkaórák számától – nem haladhatja meg a tíz órát.
 
@@ -2643,6 +2658,10 @@ felfüggesztheti, megtilthatja vagy visszavonhatja,
 (16a) Az e § szerinti közigazgatási bírság ismételten is kiszabható.
 
 (17) A vasúti közlekedési hatóság a feladatai ellátásához szükséges információk és adatok –beleértve az üzleti titkot is – szolgáltatására, iratok bemutatására kötelezheti indítványra, vagy hivatalból a vasúti társaságot, a megfelelőségértékelő szervezetet, a kockázatértékelő szervezetet, a karbantartást végző szervezetet, valamint a VPSZ-t.
+
+(18) A közlekedési hatóság évente ellenőrzi, hogy a bejelentett, illetve kijelölt megfelelőségértékelő szervezetek és elismert kockázatértékelést végző szervezetek alkalmasságának vizsgálatára vonatkozó hatósági döntésének alapjául szolgáló feltételek fennállnak-e.
+
+(19) A (18) bekezdés szerinti ellenőrzéssel érintett szervezetek évente május 31. napjáig – első alkalommal 2025. november 30. napjáig – felügyeleti díjat fizetnek a vasúti közlekedési hatóság részére. A felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a vasúti közlekedési hatóság hatósági feladataival összefüggésben használ fel. Az éves felügyeleti díj mértéke megegyezik az annak megállapításakor hatályos díjrendelet szerinti, a tevékenységekre vonatkozó igazgatási szolgáltatási díjjal.
 
 ### A Kormány rendeletében kijelölt hatóság veszélyes áruk vasúti szállításával kapcsolatos feladat- és hatásköre
 
@@ -3318,9 +3337,11 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 
 (4) 2031. június 16. napjáig az Ügynökség általi, az (EU) 2016/797 európai parlamenti és tanácsi irányelv 19. cikkben említett előzetes engedélyezésre vonatkozó kötelezettség nem vonatkozik a 2016. június 15. napját megelőzően aláírt szerződésekben foglalt opciókra, még abban az esetben sem, ha azokkal 2016. június 15. napját követően élnek.
 
-#### 87/J. §
+87/J. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény által megállapított 44/A. § (1a)–(1f) bekezdésében foglaltakat az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 87/K. § A közlekedési ágazat egyes kérdéseinek rendezéséről, valamint egyes közlekedési tárgyú törvények módosításáról szóló 2025. évi LV. törvénnyel megállapított 68/I. § szerinti napi pihenőidőre és heti pihenőidőre vonatkozó rendelkezések helyett az e rendelkezés hatálybalépésekor folyamatban lévő munkaidőkeret vagy elszámolási időszak tekintetében a kollektív szerződés szabályai szerint alkalmazhatóak a napi pihenőidőre és heti pihenőidőre vonatkozó rendelkezések, a munkaidőkeret vagy elszámolási időszak lejártáig.
+
+87/L. § A közlekedési ágazat egyes kérdéseinek rendezéséről, valamint egyes közlekedési tárgyú törvények módosításáról szóló 2025. évi LV. törvénnyel megállapított 81. § (19) bekezdése szerinti, a 2025. évre vonatkozó felügyeleti díj fizetési kötelezettség 2025. augusztus 1. napjától áll fenn, amelynek mértékét a vasúti közlekedési hatóság 2025. szeptember 30. napjáig köteles megállapítani.
 
 ### FELHATALMAZÁS
 

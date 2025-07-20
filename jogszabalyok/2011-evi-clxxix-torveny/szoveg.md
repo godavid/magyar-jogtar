@@ -225,7 +225,7 @@ láthatja el.
 
 (4) A nemzetiség anyanyelvű vagy anyanyelvi nevelése, nevelése-oktatása a helyi lehetőségek és igények szerint nemzetiségi óvodában, iskolában, iskolai osztályban vagy csoportban történhet.
 
-(5) A településen meg kell szervezni és fenn kell tartani a nemzetiségi óvodai nevelést, továbbá a nemzetiségi iskolai nevelés-oktatást, – a roma nemzetiség esetében a (3) bekezdés szerinti igénynek megfelelően – ha ezt ugyanahhoz a nemzetiséghez tartozó legalább nyolc (gyermek) tanuló törvényes képviselője a fenntartótól kérte, és az óvodai csoport, iskolai osztály a nemzeti köznevelésről szóló törvény rendelkezései alapján megszervezhető. A fenntartó kevesebb jelentkező esetén is indíthat nemzetiségi osztályt, csoportot.
+(5) A településen meg kell szervezni és fenn kell tartani a nemzetiségi óvodai nevelést, továbbá a nemzetiségi iskolai nevelés-oktatást, – a roma nemzetiség esetében a (3) bekezdés szerinti igénynek megfelelően – ha ezt ugyanahhoz a nemzetiséghez tartozó legalább nyolc (gyermek) tanuló törvényes képviselője a fenntartótól kérte, és az óvodai csoport, iskolai osztály a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) rendelkezései alapján megszervezhető. A fenntartó kevesebb jelentkező esetén is indíthat nemzetiségi osztályt, csoportot.
 
 (6) Amennyiben az (5) bekezdésben meghatározottak szerint nem kerül sor a nemzetiségi nevelés-oktatás egy településen belüli megszervezésére, a feladatellátásra köteles szerv tájékoztatja a nemzetiségi nevelés-oktatás megszervezésére vonatkozó igényről az érintett országos nemzetiségi önkormányzatot, amelynek kezdeményezésére a feladatellátásra köteles szerv megteremti a kiegészítő nemzetiségi nevelés-oktatás feltételeit. A kiegészítő nemzetiségi nevelés-oktatást az országos nemzetiségi önkormányzat maga is megszervezheti. Amennyiben az országos nemzetiségi önkormányzat a nevelés-oktatás megszervezését nem vállalja, azt az érintett térség egyik területi, ennek hiányában a települési nemzetiségi önkormányzata is megszervezheti. Beiskolázást segítő kiegészítő nemzetiségi óvodai nevelést a nemzetiségi nevelési-oktatási intézményt fenntartó nemzetiségi önkormányzat szervezhet.
 
@@ -277,6 +277,10 @@ engedélyével. A kezdeményezéshez csatolni kell a köznevelési intézmény i
 (2) Az (1) bekezdés szerinti finanszírozás során a központi költségvetés a nemzetiségi önkormányzatok köznevelési feladatainak ellátásához költségvetési hozzájárulást biztosít, továbbá kiegészítő támogatásokat nyújt.
 
 27. § Ha jogszabály a nemzetiségi önkormányzat részére valamely döntés meghozatalánál a közneveléssel kapcsolatos ügyben véleményezési vagy egyetértési jogot biztosít, a nyilatkozat megtételére – jogszabály eltérő rendelkezésének hiányában – harminc nap áll rendelkezésre. A határidő – bármely fél másik félhez intézett nyilatkozata alapján – egy alkalommal további tizenöt nappal meghosszabbodik. A határidő jogvesztő. Ha a nemzetiségi önkormányzat a nyitva álló határidőben nem nyilatkozik, a másik fél az egyetértési nyilatkozat pótlása iránt közigazgatási pert indíthat. A perköltséget a felperes viseli.
+
+27/A. § (1) A 27. §-tól eltérően, ha az Nkt. 89/B. § (1) bekezdése alapján a köznevelési intézmény működése veszélyeztetett, és az Nkt. 89/B. § (1) bekezdése szerinti körülmény az országos nemzetiségi önkormányzat tekintetében áll fent, a veszélyeztetettségének időtartama alatt, ha jogszabály az országos nemzetiségi önkormányzat részére valamely döntés meghozatalánál a köznevelési feladatellátással kapcsolatos ügyben – ide nem értve az Nkt. 89/B. § (4) bekezdése alapján a tankerületi központ által gyakorolt fenntartói jogköröket – egyetértési vagy véleményezési jogot biztosít, a nyilatkozat megtételére 8 nap áll rendelkezésre. A határidő eredménytelen eltelte esetén az országos nemzetiségi önkormányzatot egyetértőnek kell tekinteni.
+
+(2) A 27. §-tól eltérően, ha az Nkt. 89/B. § (1) bekezdése alapján a köznevelési intézmény működése veszélyeztetett, és az Nkt. 89/B. § (1) bekezdése szerinti körülmény helyi nemzetiségi önkormányzat tekintetében áll fent, a veszélyeztetettségének időtartama alatt, ha jogszabály az érintett nemzetiségi önkormányzat részére valamely döntés meghozatalánál a köznevelési feladatellátással kapcsolatos ügyben – ide nem értve az Nkt. 89/B. § (4) bekezdése alapján a tankerületi központ által gyakorolt fenntartói jogköröket – egyetértési vagy véleményezési jogot biztosít, a nyilatkozatot az országos nemzetiségi önkormányzat teszi meg.
 
 28. § A nemzetiségi nevelési, oktatási intézményt az érintett nemzetiséghez nem tartozók csak akkor vehetik igénybe, ha az intézmény – az adott nemzetiség igényeinek kielégítése után – betöltetlen férőhellyel rendelkezik. A felvétel vagy átvétel és a beiratkozás a helyben szokásos módon nyilvánosságra hozott szabályok alapján történhet.
 
@@ -455,7 +459,7 @@ szerepelhet a nemzetiségi névjegyzékben.
 - b) a településen a nemzetiségi önkormányzati képviselők előző általános választását követően az adott nemzetiség települési önkormányzata megalakult, és az adott nemzetiséghez tartozó személyek száma – a legutóbbi népszámlálásnak az adott nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a 20 főt eléri; vagy
 - c) a településen nemzetiségi köznevelési intézmény, nemzetiségi szakképző intézmény, vagy nemzetiségi nevelésben-oktatásban részt vevő köznevelési intézmény működött az általános választás évét megelőző év december 1-jén.
 
-(2) A köznevelésért felelős miniszter irányítása alá tartozó, a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés k) pontjában, valamint a szakképzésért felelős miniszter irányítása alá tartozó, a szakképzésről szóló 2019. évi LXXX. törvény 123. § (1) bekezdés 1. pontja alapján kijelölt szerv az általános választás évében január 15-ig nemzetiségenkénti bontásban megküldi a Nemzeti Választási Bizottságnak azon települések listáját, ahol az általános választás évét megelőző év december 1-jén működő nemzetiségi köznevelési intézményt, nemzetiségi szakképző intézményt, vagy nemzetiségi nevelésben-oktatásban részt vevő köznevelési intézményt tart nyilván.
+(2) A köznevelésért felelős miniszter irányítása alá tartozó, az Nkt. 94. § (4) bekezdés k) pontjában, valamint a szakképzésért felelős miniszter irányítása alá tartozó, a szakképzésről szóló 2019. évi LXXX. törvény 123. § (1) bekezdés 1. pontja alapján kijelölt szerv az általános választás évében január 15-ig nemzetiségenkénti bontásban megküldi a Nemzeti Választási Bizottságnak azon települések listáját, ahol az általános választás évét megelőző év december 1-jén működő nemzetiségi köznevelési intézményt, nemzetiségi szakképző intézményt, vagy nemzetiségi nevelésben-oktatásban részt vevő köznevelési intézményt tart nyilván.
 
 (3) A területi nemzetiségi önkormányzati képviselők általános választását ki kell tűzni, ha a fővárosban, vármegyében kitűzött települési nemzetiségi önkormányzati választások száma legalább tíz.
 
@@ -1500,7 +1504,7 @@ Isten engem úgy segéljen!”
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményeknek való megfelelés
 
-158. § Az 1–157. §, a 159–167. §, valamint az 1. és 2. melléklet az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+158. § Az 1–157. §, a 159–168. §, valamint az 1. és 2. melléklet az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 ### Átmeneti rendelkezések
 
@@ -1550,7 +1554,7 @@ Isten engem úgy segéljen!”
 
 167. § A 110. § (6) bekezdését a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény (a továbbiakban: Módtv3.) hatálybalépését megelőzően keletkezett és még a Módtv3. hatálybalépésekor fennálló visszafizetési kötelezettség esetén is alkalmazni kell, azzal, hogy a közgyűlésnek a Módtv3. hatálybalépését követő 30 napon belül kell döntést hoznia az illetmény és a tiszteletdíj összegének a csökkentéséről.
 
-#### 168. §
+168. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény (a továbbiakban: Módtv4.) által megállapított 27/A. §-át azon köznevelési intézmény tekintetében is alkalmazni kell, amely működésének veszélyeztetettsége a Módtv4. hatálybalépésekor fennáll.
 
 #### 169. §
 

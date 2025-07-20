@@ -256,7 +256,7 @@ a kincstári vagyon részét képezi.
 - b) a 7. § (1) bekezdés a), b) vagy c) pontja szerinti természetességi állapotú, és
 - c) az erdőfelújítási kötelezettségre vonatkozó előírást alapul véve természetes mageredetű erdőfelújításra alkalmas
 
-erdőben – a (3) bekezdésben és a 73. § (6) bekezdésben foglalt eset kivételével – tilos a tarvágás.
+erdőben – az 51. § (5) és (5a) bekezdés szerinti felújítás érdekében szükséges tarvágás, valamint a 73. § (6) bekezdésben foglalt eset kivételével – tilos a tarvágás.
 
 (3)
 
@@ -731,7 +731,7 @@ is kezdeményezheti.
 
 (2) Természetvédelmi rendeltetésű, a 7. § (1) bekezdés c) pontja szerinti természetességi állapotú erdőben az erdő felújítását és nevelését az erdő természetességi állapotának javítására törekedve kell végrehajtani.
 
-(3)
+(3) Természetvédelmi rendeltetésű, őshonos fafajokból álló, mageredetű természetes felújulásra nem képes erdőben – annak sarjeredetű természetes felújítása esetén – az erdőterv szerinti tarvágás a Tvt. 33. § (5) bekezdés a) pontjában meghatározott térmértékig végezhető.
 
 (4)
 
@@ -965,7 +965,9 @@ Adattárban nyilvántartott adataihoz.
 41. § (1) Az erdőgazdálkodó
 
 - a) az erdőtervben foglalt erdősítési, erdőnevelési és fakitermelési tevékenységet – a (2) bekezdés kivételével –,
-- b) a (3) bekezdésben foglalt esetben az erdőtervben nem szereplő fakitermelést a tevékenység megkezdését legkésőbb 21 nappal megelőzően az erdészeti hatóság részére tett bejelentést követően végezhet.
+- b) a (3) bekezdésben foglalt esetben az erdőtervben nem szereplő fakitermelést
+
+a tevékenység megkezdését legkésőbb 14 nappal megelőzően az erdészeti hatóság részére tett bejelentést követően végezhet.
 
 (2) Az erdőgazdálkodási tevékenység az (1) bekezdés szerinti bejelentés mellőzésével is végrehajtható, ha
 
@@ -1092,7 +1094,7 @@ az erdőgazdálkodónak az e fejezetben foglaltak szerint az e törvény végreh
 
 (5a) Az erdészeti hatóság döntése alapján az (5) bekezdésben felsoroltaktól eltérő főfafajú erdők sarjról, vagy sarjról és magról vegyesen is felújíthatók.
 
-(6) Ha a termőhelynek megfelelő őshonos állományalkotó főfafajok mageredetű természetes felújításának feltételei adottak, ezt a felújítási módot kell alkalmazni.
+(6)
 
 (7) Mesterséges erdőfelújítás, illetve az erdőfelújítások mesterséges pótlása esetén csak igazolt származású és az e törvény végrehajtására kiadott jogszabályban meghatározott szaporítóanyagot szabad felhasználni.
 

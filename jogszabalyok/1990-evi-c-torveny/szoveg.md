@@ -76,6 +76,10 @@ személyi állományába tartozó vagy alkalmazásában álló nem magyar állam
 - e) e törvény és az adózás rendjéről szóló törvény, valamint az adóigazgatási rendtartásról szóló törvény keretei között az adózás részletes szabályait meghatározza,
 - f) ha az adó mértékét határozott időre állapította meg, akkor a határozott időszak harmadik naptári évétől vagy az azt követően kezdődő naptári évtől, a határozott időszak letelte előtt az adó mértékét növelheti, ha a naptári évet megelőző naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel nem éri el a naptári évet megelőző második naptári év első tíz hónapjában bevallott, kivetett adóból származó bevétel 50%-át.
 
+6/A. § (1) Az önkormányzat a rendeletében megállapított, lakóhelyhez kapcsolódó kedvezmény, mentesség igénybevételének feltételeként írhatja elő a lakcímnyilvántartásba bejegyzett lakóhely vagy tartózkodási hely tényét.
+
+(2) Az önkormányzat döntésétől függően az adóalany a lakóhelyhez kapcsolódó kedvezmény, mentesség igénybevételére az (1) bekezdés alapján előírt lakcímbejelentési feltétel teljesítésének hiányában is jogosulttá válik, ha hitelt érdemlően – így különösen a saját nevére szóló közüzemi számlákkal – igazolja, hogy a kedvezmény, mentesség tárgyát képező lakás ténylegesen (életvitelszerűen) a lakóhelyéül szolgál.
+
 7. § Az önkormányzat adómegállapítási jogát korlátozza az, hogy:
 
 - a) az adóalanyt egy meghatározott adótárgy (épület, épületrész, telek) esetében csak egyféle — az önkormányzat döntése szerinti — adó fizetésére kötelezheti,
@@ -792,7 +796,7 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (6) Ha a sportvállalkozás adóbevallásában tett nyilatkozata alapján az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az 53. § (2) bekezdés b) pontja szerinti támogatásnak minősül és annak összege meghaladja az ötszázezer eurónak megfelelő forintösszeget, az állami adóhatóság a támogatás igénybevételéről adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az adózás rendjéről szóló törvény szerinti tartalommal és határidőben.
 
-42/E. § (1) Az állami adó- és vámhatóság naponta, elektronikus úton megküldi az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 1. melléklet 1. pont
+42/E. § (1) Az állami adó- és vámhatóság naponta, az önkormányzati ASP rendszer útján megküldi az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 1. melléklet 1. pont
 
 - a) 1.1.–1.3. alpont,
 - b) 1.4. alpont (ide nem értve a cég székhelyétől különböző központi ügyintézés helyét),
@@ -804,7 +808,7 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 - h) 1.18.–1.19. alpont,
 - i) 1.21.–1.23. alpont (ide nem értve az 1.23. pont alpont szerinti főtevékenységen kívül ténylegesen végzett tevékenységi köröket)
 
-szerinti, az Art. 1. melléklet 17. pontja, 18. pontja, 20–21. pontja alapján az állami adó- és vámhatósághoz – az önkormányzati adóhatósághoz teljesített korábbi adatszolgáltatást követően – érkezett adatokat és az Art. 1. melléklet 29. pontja alapján bejelentett adatokat az Art. 1. melléklet 17. pont szerinti adózó székhelye szerinti önkormányzati adóhatóság, valamint azon telephelyei szerinti önkormányzati adóhatóságok (a továbbiakban e § alkalmazásában: telephely szerinti önkormányzati adóhatóság) részére, amely telephelyeket az adózó az állami adó- és vámhatósághoz bejelentett.
+szerinti, az Art. 1. melléklet 17. pontja, 18. pontja, 20–21. pontja alapján az állami adó- és vámhatósághoz – az önkormányzati adóhatósághoz teljesített korábbi adatszolgáltatást követően – érkezett adatokat, az Art. 1. melléklet 29. pontja alapján bejelentett adatokat, az Art. 84. §-a szerinti adatokat, és a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 19. §-a alapján bejelentett kisvállalati adó szerinti adóalanyiságra vonatkozó adatokat az Art. 1. melléklet 17. pont szerinti adózó székhelye szerinti önkormányzati adóhatóság, valamint azon telephelyei szerinti önkormányzati adóhatóságok (a továbbiakban e § alkalmazásában: telephely szerinti önkormányzati adóhatóság) részére, amely telephelyeket az adózó az állami adó- és vámhatósághoz bejelentett.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatásban szereplő adózó:
 
@@ -961,6 +965,12 @@ elektronikus úton megküldi az állami adóhatóság részére.
 
 (5) A különleges gazdasági övezet megszűnését megelőzően adóztatásra jogosult vármegyei önkormányzat rendelete alapján teljesítendő adófizetési kötelezettséget 2024. december 31-ét követően is a 2024. december 31-én hatályos szabályok szerint kell bevallani, megfizetni.
 
+51/U. § (1) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 6/A. §-a első alkalommal a 2026. évi adókötelezettséget érintő kedvezmény vagy mentesség esetében alkalmazható.
+
+(2) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 52. § 22. pont k) alpontja először a 2025. június 30-át követő időszakra elszámolt nettó árbevétel tekintetében alkalmazható.
+
+(3) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 39/C. § (3) bekezdése alapján a kedvezmény, mentesség a 2025. adóévet követő év adókötelezettsége tekintetében alkalmazható.
+
 ### VII. Fejezet — Értelmező rendelkezések
 
 52. § E törvény alkalmazásában:
@@ -1093,6 +1103,7 @@ keretében végzett kötelezettség;
 - 67. anyag az IFRS-ek szerint beszámolót készítő vállalkozó esetén: IAS 2 Készletek című standard 6. bekezdés c) pontja szerinti készlet;
 - 68. átmeneti adóév: az IFRS-t alkalmazó vállalkozó esetén az áttérés adóéve, valamint az azt követő adóév;
 - 69. áttérési különbözet: a 40/J. § (1) bekezdés szerinti adóalap-növelő és -csökkentő tételek együttes összege (előjellel ellátva).
+- 70. önkormányzati ASP rendszer: az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet szerinti elektronikus információs rendszer;
 
 ### VIII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 

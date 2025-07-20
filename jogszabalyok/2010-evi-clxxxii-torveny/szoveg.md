@@ -54,6 +54,8 @@ a következő törvényt alkotja:
   - fa) az Európai Unió által is támogatott határmenti program céljára;
   - fb) magyarországi településsel közös infrastruktúra kialakítása, így különösen utak, hidak építése, kommunális és kommunikációs célú támogatások, természetes adottságok fokozott kihasználása, testvértelepülési kapcsolatok – ezen belül különösen a kulturális és sportkapcsolatok – kialakítása és erősítése, közös környezetvédelmi programok létrehozása, az Európai Unió külső határszakaszán a kishatárforgalom feltételeinek megteremtése céljára.
 
+3/A. § A 4. § (1) bekezdése szerinti bizottság döntése alapján az Alap kiadási előirányzatainak terhére nyújtott költségvetési támogatásból megvalósuló támogatott tevékenység eredeti céljától eltérően a költségvetési támogatás más, az Alapnak e törvényben meghatározott, az Alap céljaival összefüggő támogatott tevékenység megvalósítására is felhasználható a támogatási szerződés vagy a támogatói okirat ilyen irányú módosításával.
+
 #### 3. Az Alap pénzügyi forrásai
 
 4. § (1) Az Alappal – az e törvényben foglaltak figyelembevételével – négytagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter által kijelölt személy, az államháztartásért felelős miniszter által kijelölt személy, valamint a nemzetpolitikáért felelős államtitkár. A Bizottság tagjai – a nemzetpolitikáért felelős miniszter kivételével – havonta tiszteletdíjra jogosultak, amelyet a nemzetpolitikáért felelős miniszter állapít meg.
@@ -207,7 +209,7 @@ illeti meg az Alapot.
 
 18. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-- a) az Alap működésének, forrásai kezelésének és felhasználásának részletes szabályait, a nyújtható támogatások rendező elveit, valamint a támogatási szerződés kötelező tartalmi elemeit, a vezetendő nyilvántartások tartalmát,
+- a) az Alap működésének, forrásai kezelésének és felhasználásának részletes szabályait, a nyújtható támogatások rendező elveit, valamint a támogatási szerződés kötelező tartalmi elemeit, a támogatási szerződés eredeti támogatási céljának módosítására vonatkozó szabályokat, a vezetendő nyilvántartások tartalmát,
 - b) az e törvény szerinti vállalkozásfejlesztési és más támogatások részletes céljait, feltételeit,
 - c) az e törvény alapján nyújtott, az Európai Unió működéséről szóló szerződés 107. cikke szerint állami támogatásnak minősülő támogatások uniós joggal való összeegyeztethetőségét biztosító szabályokat,
 - d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alapkezelő feladataira, működésére és szakmai felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
@@ -280,3 +282,5 @@ illeti meg az Alapot.
 (4) Az (1)–(3) bekezdésben meghatározott átadás-átvétel keretében az EMET tájékoztatást nyújt mindazon tényekről, átadja mindazon okiratokat az Alapkezelőnek, amelyek 2018. szeptember 1-jétől az Alapkezelőt megillető jogok és az Alapkezelőt terhelő kötelezettségek gyakorlásához, illetve érvényesítéséhez szükségesek.
 
 (5) Az (1)–(3) bekezdésben meghatározott átadás-átvétel keretében az EMET átadja az őrzésében lévő, a 24. § szerinti, 2018. augusztus 31-én az EMET által foglalkoztatott személyekre vonatkozó személyi anyagokat, vagyonnyilatkozatokat és a törvényben meghatározott nemzetbiztonsági ellenőrzés alapján készített szakvéleményeket.
+
+28. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel (a továbbiakban: Módtv1.) megállapított 3/A. §-át a Módtv1. hatálybalépésekor folyamatban lévő kihelyezett támogatásokkal összefüggő eljárásokban is alkalmazni kell.
