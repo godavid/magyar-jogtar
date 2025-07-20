@@ -3784,6 +3784,8 @@ indult eljárásban kell alkalmazni.
 
 (3) Az a felelős akkreditált közbeszerzési szaktanácsadó, aki a 197/D. § alapján nem vállalja, hogy tevékenységét állami közbeszerzési szaktanácsadóként végezze, a továbbiakban a közbeszerzésre kötelezett szerv árubeszerzés vagy szolgáltatás megrendelése esetén a (2) bekezdésben foglaltak szerint végzi felelős akkreditált közbeszerzési szaktanácsadó tevékenységét azzal, hogy a Közbeszerzési Hatóság nem törli a névjegyzékből.
 
+197/F. § Az 5. § (1) bekezdés e) pontjától eltérően 2025. december 30. napjáig közbeszerzési eljárás lefolytatására az a jogképes szervezet kötelezett, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az 5. § (1) bekezdés a)–f) pontjában meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza.
+
 ### Felhatalmazás
 
 198. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza

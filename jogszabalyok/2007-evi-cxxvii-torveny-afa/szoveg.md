@@ -1923,7 +1923,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 - h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében;
 - i) a 6/A. számú mellékletben felsorolt termékek értékesítése esetében;
 - j) a 6/B. számú mellékletben felsorolt termék értékesítése esetén, amennyiben az nem tartozik a XVI. Fejezet szerinti különös rendelkezések hatálya alá.
-- k) az adóalany-kereskedő által teljesített 34. § (1) bekezdés a) pontja szerinti termékértékesítés esetében.
+- k) az adóalany-kereskedő által teljesített 34. § (1) bekezdés a) pontja szerinti termékértékesítés esetében, azzal, hogy a terméket beszerző adóalany előzetesen és írásban köteles nyilatkozni a termék értékesítőjének arról, hogy adóalany-kereskedőnek minősül.
 
 (2) Az (1) bekezdés f) és g) pontja szerinti ingatlanértékesítésre az (1) bekezdés e) pontjában meghatározottaknak is teljesülniük kell.
 
@@ -2599,6 +2599,8 @@ számlakibocsátási kötelezettséget jelent.
 
 nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 
+(1a) A 12. § szerinti termékértékesítés esetén – amennyiben az adóalany annak kapcsán alanyi adómentes minőségében jár el – az (1) bekezdés szerinti értékhatár számítása szempontjából a 68. § szerinti adóalapot kell figyelembe venni.
+
 (2) Az alanyi adómentesség választására jogosító felső értékhatár: 18 000 000 forintnak megfelelő pénzösszeg.
 
 (3) Az alanyi adómentesség választására jogosító felső értékhatárba nem számítandó be:
@@ -2628,6 +2630,7 @@ fejében megtérített vagy megtérítendő ellenérték.
 - a) az adóalany az alanyi adómentességet a tárgy naptári évet követő naptári évre nem kívánja alkalmazni;
 - b) az adóalany jogutódlással szűnik meg, de a jogutódra a 188. § (1) bekezdésében említett feltételek nem teljesülnek, vagy az előzőekben említett feltételek teljesülnek ugyan, de a jogutód az alanyi adómentességet nem kívánja választani;
 - c) a tárgy naptári évben a tényadatok alapján a 188. § (1) bekezdésének b) pontjában említett feltétel nem teljesül.
+- d) a 17. § (3) bekezdés e) pontja szerinti özvegy, vagy örökös, vagy törvényes képviselő adóalany az egyéni vállalkozói vagy őstermelői tevékenység folytatására, vagy a 17. § (3) bekezdés g) pontja szerinti közeli hozzátartozó a mezőgazdasági tevékenység folytatására, vagy a gazdaságátvevő a 17. § (3) bekezdés k) pontja szerinti gazdaságátadásra tekintettel a tárgy naptári év hátralévő részére az alanyi adómentességet nem kívánja alkalmazni.
 
 (2) Ha az alanyi adómentesség az (1) bekezdés c) pontja szerint szűnik meg, az adóalany alanyi adómentes minőségben nem járhat el az olyan termékértékesítése, szolgáltatásnyújtása esetében sem, amelynek ellenértékével meghaladja az alanyi adómentesség választására jogosító felső értékhatárt.
 
@@ -2635,12 +2638,12 @@ fejében megtérített vagy megtérítendő ellenérték.
 
 192. § (1) Az adóalany az alanyi adómentesség választásáról, illetőleg annak megszűnéséről az állami adóhatóságnak nyilatkozik.
 
-(2) Az adóalany az (1) bekezdésben említett nyilatkozatot a tárgyévet megelőző év utolsó napjáig teszi meg. Ha az alanyi adómentesség a 191. § (1) bekezdés b) vagy c) pontja szerint szűnik meg, az adóalany az (1) bekezdésben említett nyilatkozatot az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint teszi meg.
+(2) Az adóalany az (1) bekezdésben említett nyilatkozatot a tárgyévet megelőző év utolsó napjáig teszi meg. Ha az alanyi adómentesség a 191. § (1) bekezdés b), c) vagy d) pontja szerint szűnik meg, az adóalany az (1) bekezdésben említett nyilatkozatot az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint teszi meg.
 
 193. § (1) Az adóalany az alanyi adómentesség időszakában nem járhat el alanyi adómentes minőségében
 
 - a) a 188. § (3) bekezdésének a), c)–d) pontjában meghatározott esetekben;
-- b) a 11. és 12. § szerinti termékértékesítése esetében;
+- b) a 11. § szerinti termékértékesítése esetében és a 12. § szerinti termékértékesítés esetén, amennyiben annak tárgya új közlekedési eszköz;
 - c) a 14. § szerinti szolgáltatásnyújtása esetében;
 - d)
 - e) a terméknek a 19. § a) pontja szerinti Közösségen belüli beszerzése esetében, illetőleg abban az esetben sem, ha élt a 20. § (5) bekezdésében említett választási jogával, vagy ha a 20. § (7) bekezdése vonatkozik rá;
@@ -4200,7 +4203,8 @@ közösségi adószám birtokában végezhet.
   - b) között névre szóló tulajdonosi (tagsági) jogviszony áll fenn;
   - c) között az egyik fél a másik félnek vezető tisztségviselője vagy felügyelőbizottsági tagja;
   - d) között a 6. § (5) bekezdése szerinti viszony áll fenn;
-  - e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak közeli hozzátartozója; 13/A. összes hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 1. számú mellékletének 2016. január 1-jén hatályos 34., 46., 46a. és 88. pontjai által meghatározott alapterület;
+  - e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak közeli hozzátartozója;
+- 13/A. összes hasznos alapterület: a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet 5. § 35. és 114. pontjai és a magyar építészetről szóló 2023. évi C. törvény 16. § 56. és 99. pontjai által meghatározott alapterület;
 - 13/B. nyugtatár: az e-pénztárgéppel kiállított nyugtának, nyugtával egy tekintet alá eső okiratnak, számlának, számlával egy tekintet alá eső okiratnak a terméket beszerző, szolgáltatást igénybe vevő részére történő rendelkezésre bocsátására, megőrzésére szolgáló rendszer;
 - 13/C. nyugtatár-szolgáltató: a nyugtatárat üzemeltető szerv;
 - 14. pénz: a névértéken elfogadott pénz;

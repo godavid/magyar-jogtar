@@ -2411,8 +2411,8 @@ Ha a 155. § (1) és (2) bekezdése és a 161. § alapján egyidejűleg kellene 
 
 (1) A feltételes adómegállapításra irányuló kérelem díjköteles, a díj mértéke:
 
-- a) típusszerződés esetén tízmillió forint,
-- b) egyéb esetben nyolcmillió forint, a kérelem sürgősségi eljárásban történő elbírálása esetén tizenkettőmillió forint.
+- a) típusszerződés esetén tizenkettőmillió forint, a típusszerződésre vonatkozó feltételes adómegállapítás iránti kérelem sürgősségi eljárásban történő elbírálása esetén tizenhatmillió forint,
+- b) egyéb esetben tízmillió forint, a kérelem sürgősségi eljárásban történő elbírálása esetén tizennégymillió forint.
 
 (2)
 
@@ -2501,13 +2501,29 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 #### 175. § [A szokásos piaci ár megállapítására irányuló eljárás és az előzetes konzultáció igazgatási szolgáltatási díja]
 
-(1) A szokásos piaci ár megállapítására irányuló eljárás díja egyoldalú eljárásban nyolcmillió forint, kétoldalú vagy többoldalú eljárásban tizenkettőmillió forint. A díj fizetésére részletfizetés vagy fizetési halasztás nem engedélyezhető.
+(1) A szokásos piaci ár megállapítására irányuló eljárás díja egyoldalú eljárásban tízmillió forint, kétoldalú vagy többoldalú eljárásban tizennégymillió forint. A díj fizetésére részletfizetés vagy fizetési halasztás nem engedélyezhető.
 
 (2) Meghosszabbítás és módosítás iránti eljárás esetén a díj összege az (1) bekezdés szerinti díj 50%-a.
 
 (3) A kérelem visszautasítása, az eljárás megszüntetése vagy a kérelem elutasítása esetén az adópolitikáért felelős miniszter a befizetett díj 85 százalékát a döntés véglegessé válását követően haladéktalanul visszatéríti az adózó részére.
 
-(4) Az előzetes konzultáció díjának mértéke konzultációnként ötszázezer forint.
+(3a) Az adózó nem jogosult az eljárási díj visszatérítésére, ha
+
+- a) a külföldi állam illetékes hatóságával folytatott, a szokásos piaci ár megállapítására vonatkozó megállapodásra irányuló egyeztetés azért eredménytelen, mert a kérelmező külföldi kapcsolt vállalkozása nem fogadja el az illetékes hatóságok között létrejött megállapodást;
+- b) a kérelem visszavonására
+  - ba) a harmadik hiánypótlási felhívást,
+  - bb) kétoldalú vagy többoldalú eljárásban az illetékes hatóságok közötti megállapodás létrejöttét, vagy
+  - bc) kétoldalú vagy többoldalú eljárásban az adópolitikáért felelős miniszter második tárgyalási álláspontjának a külföldi illetékes hatóság részére történő megküldését
+
+követően kerül sor;
+
+- c) az eljárás megszüntetésére a 178. § (2) bekezdés a) pontja alapján a harmadik hiánypótlási felhívást, illetve a b) pont bb) vagy bc) alpontja szerinti eljárási cselekményt követő hiánypótlási felhívást követően kerül sor;
+- d) az eljárás megszüntetésére a 178. § (2) bekezdés c) pontja alapján kerül sor;
+- e) a kérelem elutasítására a 178. § (3) bekezdés a) vagy b) pontja alapján kerül sor.
+
+(4) Az előzetes konzultáció díjának mértéke konzultációnként egymillió forint.
+
+(5) Ha az egyoldalúan megindult eljárásban az adózó kétoldalú vagy többoldalú eljárást kezdeményez, az adózó a kétoldalú vagy többoldalú eljárásért fizetendő díjat köteles megfizetni. Ha a kétoldalúan vagy többoldalúan megindult eljárásban az adózó egyoldalú eljárást kezdeményez, az adózó a kétoldalú vagy többoldalú eljárásért fizetendő díjat köteles megfizetni.
 
 #### 176. § [Valódiságvizsgálat]
 
@@ -3112,12 +3128,12 @@ A természetes és nem természetes személy adózót egymillió forintig terjed
 
 (2) E § alkalmazásában lényegesnek minősül a beszámoló szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – az észszerűség határain belül – befolyásolja a beszámoló adatait felhasználók döntéseit.
 
-#### 227/B. § [Globális minimum-adószintet biztosító kiegészítő adókkal kapcsolatos bevallási és adatszolgáltatási kötelezettség megsértése]
+#### 227/B. § [Globális minimum-adószintet biztosító kiegészítő adókkal kapcsolatos bejelentési, bevallási és adatszolgáltatási kötelezettség megsértése]
 
-Az állami adó- és vámhatóság, a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvény szerinti
+Az állami adó- és vámhatóság, a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló törvény szerinti
 
 - a) bejelentési kötelezettség elmulasztása, késedelmes teljesítése esetén ötmillió forint,
-- b) bevallási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén tíz millió forint,
+- b) bevallási és adatszolgáltatási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén tízmillió forint,
 
 mulasztási bírságot szabhat ki.
 

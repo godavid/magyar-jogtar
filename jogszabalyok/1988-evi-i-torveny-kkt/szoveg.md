@@ -928,7 +928,7 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval (járműszerelvény esetében a vontatást végző jármű üzemben tartójával), illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben
 
-- a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 16 000 forinttól 468 000 forintig,
+- a) az (1) bekezdés a)–c), e)–h) és j) pontja szerinti esetben 16 000 forinttól 468 000 forintig,
 - b) az (1) bekezdés d) és i) pontja szerinti esetben 16 000 forinttól 1 800 000 forintig
 
 terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
@@ -1575,9 +1575,24 @@ tevékenységét a közlekedési hatóság engedélyezi és rendszeresen ellenő
 
 (1f) A közútfejlesztési gazdasági társaság vagyonkezelésébe kerül a megvalósítást megelőzően állami tulajdonban álló ingatlan, vagy a beruházással érintett területrésze, az ingatlanon, vagy annak egy részén más szerv javára fennálló vagyonkezelési vagy haszonbérleti szerződés módosítását vagy megszüntetését, illetve ezen jogok ingatlan-nyilvántartásból vagy földhasználati nyilvántartásból történő törlését követően. A vagyonkezelői jog bejegyeztetésére az (1c) bekezdésben foglaltak az irányadók.
 
+(1g) Az (1b), (1e) és (1f) bekezdésben foglaltaktól eltérően a közútfejlesztési gazdasági társaságként az (1) bekezdés d) pontja szerint kijelölt költségvetési szerv (e § alkalmazásában a továbbiakban: költségvetési szerv) tulajdonosi joggyakorlásába kerül az országos vagy helyi közút fejlesztéséhez szükséges,
+
+- a) a költségvetési szerv által megvásárolt, kisajátított vagy más jogcímen a magyar állam javára megszerzett földrészlet, valamint
+- b) állami tulajdonban álló ingatlan, vagy – az (1h) bekezdés szerinti telekalakítási eljárást követően – annak a beruházással érintett, önálló ingatlanként kialakított területrésze.
+
+(1h) Ha a beruházáshoz az (1g) bekezdés b) pontja szerinti ingatlannak nem a teljes területe szükséges, a beruházással érintett területrész önálló ingatlanként történő kialakítására irányuló telekalakítási eljárás során a költségvetési szerv jár el.
+
+(1i) A számviteli átadásról a korábbi tulajdonosi joggyakorló és a költségvetési szerv megállapodást köt, az (1g) bekezdés b) pontja szerinti ingatlan esetében a költségvetési szerv megkeresését, az (1h) bekezdés szerinti telekalakítás esetében a véglegessé vált ingatlan-nyilvántartási bejegyző határozat kézhezvételét követő 30 napon belül. A számviteli átadás könyv szerinti értéken történik.
+
+(1j) A költségvetési szerv tulajdonosi joggyakorlása a fejlesztés keretében létrejött vagyonelem és a beruházással érintett ingatlan tekintetében az országos vagy helyi közutak végleges vagy ennek hiányában ideiglenes forgalomba helyezése napján e törvény erejénél fogva megszűnik. A költségvetési szerv tulajdonosi joggyakorlásának megszűnését követően a vagyonelemeket az új tulajdonosi joggyakorló könyveiben és nyilvántartásában a költségvetési szerv által nyilvántartott – befejezetlen beruházás – könyv szerinti értéken kell feltüntetni.
+
+(1k) A költségvetési szerv a tulajdonosi joggyakorlásának (1j) bekezdés szerinti megszűnését követő hat hónapon belül elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket, ingatlanokat a megszűnés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a tulajdonosi joggyakorló vagy a tulajdonosi joggyakorló döntése alapján az új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
+
 (2) Az építtető – a (11) bekezdésben foglaltak figyelembevételével – felelős az építési munkák előkészítéséért. Ennek keretében teljeskörűen elkészítteti a szükséges műszaki terveket (így különösen az engedélyezési tervet vagy a kiviteli tervet), tanulmányokat, ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, saját nevére megszerzi az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, megelőző régészeti feltárást, közmű kiváltást) és fejlesztést, továbbá lefolytatja a közbeszerzési eljárásokat. Az építtető építési szerződéseket köt a megvalósításra, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, lebonyolítja a műszaki átadás-átvételt. Az építtetőre a gyorsforgalmi utak közérdekűségéről és fejlesztéséről szóló jogszabály rendelkezései is irányadóak.
 
 (2a) Megkezdettnek kell tekinteni az építési előkészítési munkákat, ha az építtető a műszaki tervek (így az engedélyezési terv, a kiviteli terv, vagy ezek együttese) elkészítését vagy elkészíttetését megkezdte.
+
+(2b) Az állami tulajdonban álló ingatlanok tekintetében, az építési előkészítési munkák során az építtető által az építési tevékenység megvalósítása céljából kezdeményezett hatósági eljárásokban, valamint e törvény 32. § (1a) bekezdésében meghatározott hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
 
 (3) A közútfejlesztési gazdasági társaság – az elkészült utak végleges vagy ennek hiányában ideiglenes forgalomba helyezése után – a felhasznált forrásokkal és a létrehozott vagy megszerzett eszközökkel elszámol a magyar állam nevében eljáró, a forrásokat rendelkezésre bocsátó szervvel. A forgalomba helyezett országos közút és az egyes projektekkel kapcsolatban létrehozott vagy megszerzett egyéb eszközök, illetve ezeket magában foglaló, a magyar állam tulajdonában álló egyes földterületek a végleges vagy ennek hiányában ideiglenes forgalomba helyezés napján e törvény erejénél fogva ingyenesen, könyv szerinti értéken – az építtető vagyonkezelői jogának egyidejű megszűnése mellett – a 32/A. § (8) bekezdésében, valamint 32/B. §-ban foglaltak kivételével a 32. § (6) bekezdésében kijelölt szervezet vagyonkezelésébe kerül, amely az MNV Zrt.-vel vagyonkezelési szerződést köteles kötni.
 
@@ -2400,6 +2415,10 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 46/O. § (1) Az e törvénynek a hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény (a továbbiakban: Módtv4.) által megállapított 24/A. § (4) és (6a) bekezdését a 2024. január 1-jét követően indult és megismételt eljárásokban kell alkalmazni.
 
 (2) A Módtv4. által megállapított 24/A. § (4) bekezdését a Módtv4. hatálybalépésekor a vizsgálóállomás vezető tisztségviselői, képviselői tevékenységet ellátó személy esetében nem kell alkalmazni.
+
+46/P. § (1) A tájékozódást segítő jelzést megjelenítő reklámcélú eszköz 12. § (3c) bekezdése szerinti elhelyezése esetén, ha az elhelyezéshez kapott hozzájárulás időbeli hatálya az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében kihirdetett veszélyhelyzet idején járt le, a hozzájárulás és az azt tartalmazó szerződés időbeli hatálya e veszélyhelyzet megszűnéséig meghosszabbodik.
+
+(2) Az e törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény által megállapított 29. § (1g)–(1k) és (2b) bekezdésében foglaltakat a folyamatban lévő ügyekben is alkalmazni kell.
 
 47. § A törvény alkalmazásában:
 

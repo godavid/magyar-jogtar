@@ -1162,6 +1162,14 @@ terjedhet.
 - a) a vállalkozás nettó árbevételének legalább 4%-a,
 - b) ha a vállalkozás árbevétele nem állapítható meg, akkor legalább 2 millió euró.
 
+(1c) Az (1) bekezdéstől eltérően a kereskedelemről szóló 2005. évi CLXIV. törvény 6/K. §-ában foglaltak megsértése esetén a fogyasztóvédelmi hatóság
+
+- a) a 6/K. § (1) bekezdése szerinti tájékoztatás hiánya esetén az érintett termékenként 1 000 000 forint,
+- b) a 6/K. § (3) bekezdése szerinti tájékoztatási kötelezettség megsértése esetén az érintett termékenként 1 000 000 forint,
+- c) a 6/K. § (4) bekezdése szerinti, a fogyasztóvédelmi hatóság felé fennálló tájékoztatási kötelezettség megsértése esetén, az érintett termékenként 1 000 000 forint
+
+bírságot szabhat ki.
+
 (2) A nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság minimális és maximális összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
 (3) A nettó árbevétel meghatározása során

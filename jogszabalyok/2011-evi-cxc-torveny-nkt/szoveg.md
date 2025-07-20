@@ -2419,6 +2419,26 @@ kezelt, az (1) bekezdés szerinti cél eléréséhez szükséges személyes adat
 
 (6) Az e § alapján személyes adat az (1) bekezdésben meghatározott európai uniós forráshoz kapcsolódó projekt pénzügyi zárásáig kezelhető azzal, hogy e személyes adatokat azok kezelője a forrásra vonatkozó iratmegőrzési kötelezettség tartamáig tárolja.
 
+89/B. § (1) Ha a 2. § (3) bekezdés b) pont ba) alpontjában meghatározott fenntartó (e § alkalmazásában a továbbiakban: fenntartó) végrehajtási eljárás alatt áll, és emiatt a fenntartó által fenntartott köznevelési intézmény (e § alkalmazásában a továbbiakban: köznevelési intézmény) működése veszélyeztetett, akkor a köznevelésért felelős miniszter döntése alapján
+
+- a) a kincstár fenntartó székhelye szerinti illetékes igazgatósága a központi költségvetésről szóló törvény szerint igényelhető – a nem állami köznevelési tevékenységhez kapcsolódó – állami támogatásokat,
+- b) a központi költségvetésről szóló törvény szerinti energiaár-kompenzációhoz és bérkompenzációhoz kapcsolódó állami támogatásokat, illetve
+- c) a fenntartó részére a köznevelési intézményekre tekintettel megállapított egyéb, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti támogatásokat
+
+a fenntartó helyett, közvetlenül az annak fenntartásában működő köznevelési intézmény kincstárnál vezetett számlájára is folyósíthatja (a továbbiakban: finanszírozási eljárás).
+
+(2) A köznevelésért felelős miniszter intézkedik a köznevelési intézmény kincstári számlájának megnyitása iránt.
+
+(3) A köznevelési intézmény tekintetében az e törvény szerinti fenntartói jogokat és az Áht. szerinti irányítói jogokat – ide nem értve az intézmény fenntartói jogának átadását, az intézmény átalakítását, megszüntetését és átszervezését – az (1) bekezdés szerinti veszélyeztetettség fennállásának időtartama alatt a feladatellátási hely szerinti tankerületi központ gyakorolja, azzal, hogy az érintett intézmény nem minősül állami fenntartású köznevelési intézménynek.
+
+(4) A köznevelési intézménynek a költségvetés tervezésével, az előirányzatok módosításának, átcsoportosításának és felhasználásának végrehajtásával, a finanszírozási, adatszolgáltatási, beszámolási és a pénzügyi, számviteli rend betartásával összefüggő feladatait a veszélyeztetettség fennállásának időtartama alatt a feladatellátási hely szerint illetékes tankerületi központ látja el.
+
+(5) A köznevelésért felelős miniszter az (1) bekezdés szerinti veszélyeztetettség fennállását folyamatosan vizsgálja. Ha az (1) bekezdés szerinti feltétel már nem áll fenn, a veszélyeztetettség fennállásának megszűnéséről a köznevelésért felelős miniszter haladéktalanul értesíti a fenntartót, a kincstárt, az oktatási központot és az illetékes tankerületi központot.
+
+(6) A kincstár az (5) bekezdés szerinti értesítés kézbesítését követő tárgyhó 1. napjától megszünteti a finanszírozási eljárást, és a központi költségvetésről szóló törvény általános szabályai szerint folytatja az állami támogatások kifizetését. A veszélyeztetettség fennállásának megszűnéséről szóló értesítést követően a fenntartó gyakorolja az e törvényben meghatározott valamennyi fenntartói jogot és az Áht. szerinti irányítói jogokat.
+
+89/C. § A Kormány a köznevelési intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében rendeletben további finanszírozást állapíthat meg.
+
 #### 51. Nemzetközi vonatkozású rendelkezések
 
 90. § (1) Magyarország területén külföldi nevelési-oktatási intézmény akkor működhet, akkor adhat ki külföldi bizonyítványt, ha abban az államban, ahonnan származik, az intézményt nevelési-oktatási intézménynek, az általa kiadott bizonyítványt pedig az ilyen nevelési-oktatási intézménynek megfelelő bizonyítványnak jogszerűen elismerik, és az elismerést hitelt érdemlően bizonyították, feltéve, hogy az intézmény működése nem ellentétes az Alaptörvényben foglaltakkal. E rendelkezéseket a nemzetközi iskolák tekintetében is alkalmazni kell azzal az eltéréssel, hogy az elismerést az intézményt akkreditáló nemzetközi szervezetnek kell kiadnia. A külföldi nevelési-oktatási intézményt a köznevelésért felelős miniszter – az intézmény fenntartójának kérelme alapján – veheti nyilvántartásba és engedélyezheti a működését. A fenntartó – ha nemzetközi szerződés másként nem rendelkezik – a 21. § (2) bekezdése, valamint a 23. § (1) bekezdés a) pontja, továbbá (4) bekezdése alapján kérheti a nyilvántartásba vételi és működési engedély kiadását a köznevelésért felelős minisztertől. Ha az intézményt akkreditáló nemzetközi szervezet csak már működő intézmény számára ad ki elismerést, a nemzetközi óvoda, iskola számára ideiglenes működési engedély adható, amelynek feltétele az intézményt akkreditáló nemzetközi szervezet által az akkreditációs eljárás megindításáról szóló igazolás kiállítása.
@@ -2648,7 +2668,7 @@ egyetértésben gyakorolja.
   - cb) az érettségi vizsga általános követelményeit,
   - cc) az érettségi vizsgán részt vevő pedagógusok díjazását és az érettségi vizsgán való részvétellel összefüggő vizsgadíj megállapításának elveit,
 - d) a diákigazolvány kiadásával és használatával kapcsolatos kérdéseket,
-- e)
+- e) a köznevelési intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozást,
 - f) a pedagógus-továbbképzés rendszerét, a továbbképzés szervezését végző szervet vagy szerveket, a pedagógus-továbbképzés programjának, a továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét,
 - g)
 - h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
@@ -2660,7 +2680,7 @@ egyetértésben gyakorolja.
 - n) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervek jogállását, feladatait, az oktatási központ mint a köznevelésért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szervet és jogállását, feladatait, az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szerv, valamint az oktatási központ mint a köznevelésért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szerv vezetői kinevezésének iskolai végzettséggel, szakképzettséggel kapcsolatos és egyéb részletes feltételeit, valamint a köznevelési elektronikus adatnyilvántartási és ügyintézési rendszer szakrendszereinek működtetésére kijelölt szervet és annak feladatait,
 - o) a hivatalnak az Országos Statisztikai Adatfelvételi Program végrehajtásával, valamint az egyéb hazai rendszeres és eseti oktatási tárgyú statisztikai adatszolgáltatásokkal kapcsolatos feladatainak ellátásával összefüggő adatszolgáltatás rendjét,
 - p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
-- q)
+- q) az Európai Unió által biztosított forrásokból történő béremeléshez nyújtott központi költségvetési többletforrások felhasználásának céljából az intézményi szintű átlagos pedagógusilletmény-emelés mértékét, az arra jogosultak körét, végrehajtásának alapelveit, valamint az ahhoz kapcsolódó állami kiegészítő támogatás, igénylésének, folyósításának és felhasználásának részletszabályait,
 - r) a készségfejlesztő iskolában az utolsó gyakorlati évfolyam elvégzését igazoló bizonyítvánnyal tanúsított végzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
 - s) az országos köznevelési szakértői névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 - t) a tiltott tárgyak és a használatában korlátozott tárgyak – nevelési-oktatási intézmény típusára, évfolyamonként meghatározott – körét, ezek átvételének, az ellenőrzési jog gyakorlásának és a tárgyak visszaadásának szabályait, az igazgató, valamint a pedagógus általi, a tanuló részére a birtoklás és használat engedélyezésére vonatkozó részletes szabályokat,
@@ -2863,7 +2883,9 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (10)
 
-#### 99/C. §
+99/C. § (1) E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény (a továbbiakban: Módtv.) által megállapított 89/B. §-át azon köznevelési intézmény tekintetében is alkalmazni kell, amely működésének veszélyeztetettsége a Módtv. hatálybalépésekor fennáll.
+
+(2) E törvénynek a Módtv. által megállapított 89/B. §-ának hatálybalépését megelőzően a fenntartó részére folyósított – nem állami köznevelési tevékenységhez kapcsolódó – állami támogatások terhére a végrehajtási eljárás keretében érvényesített összeg nem minősül az Áht. 53/A. §-a szerinti jogosulatlan igénybevételnek.
 
 #### 99/D. §
 
