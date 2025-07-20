@@ -393,6 +393,8 @@ E törvény alkalmazásában:
   - a) azonnali rozsdaövezeti akcióterület: olyan rozsdaövezeti akcióterület, amelyen a megvalósítani kívánt építési beruházások megindításához szükséges előkészítő munkák elvégzése nem szükséges, illetve azok folyamatban vannak vagy rövid időn belül elvégezhetőek, és amely tekintetében engedélyezett vagy előkészítés alatt álló építési beruházás megvalósítását tervezik a tulajdonosok, építtetők, és a kapcsolódó kedvezmények bevezetése gyors építkezéskezdést eredményezhet;
   - b) közép- és hosszú távú rozsdaövezeti akcióterület: olyan rozsdaövezeti akcióterület, amely tekintetében összetett előkészítő munkák, adott esetben környezeti kármentesítés, bontás, közműrendezés és infrastruktúra-fejlesztés, tulajdonrendezés, telekalakítás és településrendezési feladatok elvégzése szükséges, és amely fejlesztési célú területként való rendelkezésre állása kormányzati koordinációt, jelentős anyagi ráfordítást és többéves előkészítő időszakot igényel;
 - 114. sajátos építményfajták: többnyire épületnek nem minősülő, közlekedési, hírközlési, energiaellátási, bányászati tevékenységgel és a bányászati és egyéb hulladék kezelésével kapcsolatos, a nem bányászati hulladék kezelési rendeltetésű építmény, atomenergia alkalmazására szolgáló, a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, illetve rendeltetésű, sajátos technológiájú építmények, valamint a vízilétesítmények, amelyek létesítésekor – az építményekre, építési tevékenységekre vonatkozó általános érvényű településrendezési és építési követelményrendszeren túlmenően – eltérő, vagy sajátos, csak arra a rendeltetésű építményre jellemző, kiegészítő követelmények megállapítására és kielégítésére van szükség;
+- 114a. stratégiai jelentőségű építési anyag: az építésgazdaságért felelős miniszter rendeletében megjelölt jelentős építési alapanyagok és építési termékek összessége, amelyek a hazai építésgazdaság ellátásbiztonsága érdekében nélkülözhetetlenek;
+- 114b. stratégiai jelentőségű építési anyagot gyártó üzem: építmény vagy terület vagy ezek összessége, ahol ipari méretekben állítanak elő stratégiai jelentőségű építési anyagokat, különböző gyártási folyamatok és gyártási technológia segítségével, és amely a gyártási tevékenységhez a jogszabályban meghatározott jogi és műszaki feltételek alapján engedéllyel rendelkezik vagy ezen feltételek szerint a gyártási tevékenységre alkalmassá tehető;
 - 115. tájépítészet: olyan alkalmazott tudományos és művészeti szakterület, amely a táj, az épített és természeti környezet együttes alakításával, tájépítészeti alkotások és a települési zöldinfrastruktúra létrehozásával, megőrzésével, fejlesztésével foglalkozik;
 - 116. tájépítészeti alkotás: az épített környezet részét képező – tájépítészeti eszközökkel alakított – tervezett szabadtér, amely önálló építményeket foglal magában, vagy azokhoz kapcsolódik, és egyben természeti elemeket is tartalmaz;
 - 117. telek: egy helyrajzi számon nyilvántartásba vett földterület;
@@ -1691,6 +1693,8 @@ kell elkészíteni.
 (2) A településtervet elfogadása előtt legalább az e törvény végrehajtására kiadott kormányrendeletben meghatározott helyi önkormányzatok, államigazgatási szervek és civil szervezetek véleményezik, valamint a véleményezési eljárást megelőzően a tervezést végző települési önkormányzat részére a kormányrendeletben meghatározott központi adatszolgáltató adatszolgáltatást teljesít.
 
 (3) Az államigazgatási szerv a (2) bekezdés szerinti adatszolgáltatásért és véleményezésért, valamint a településterv egyeztető tárgyalásán való részvételért díjat nem számíthat fel.
+
+(3a) A (3) bekezdés szerinti véleményezés és egyeztető tárgyalás elektronikus úton is lefolytatható.
 
 (4) A településterv készítéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adatait, a Mezőgazdasági Parcella Azonosító Rendszer a településrendezési és településfejlesztési feladatok ellátásához szükséges adattartalmú felszínborítási rétegét, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóit, valamint az ország 1:10000 digitális szintvonalrajzát és domborzatmodelljét (DDM-5) a földmérési és térinformatikai államigazgatási szerv térítésmentesen biztosítja digitális egyeztető felületen (a továbbiakban: E-TÉR) keresztül.
 
@@ -3234,6 +3238,8 @@ Ezen alcím alkalmazásában kereskedelmi építmény: a kereskedelemről szól�
 
 (3) A Kormányhivatal eljárása során a kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket megállapító kormányrendelet figyelembevételével az (1) bekezdésben meghatározott kereskedelmi építménynek a létesítés helye szerinti településre és vonzáskörzetére gyakorolt környezeti, közlekedési és településrendezési hatásaival összefüggő szakkérdésben foglal állást abban a tekintetben, hogy a kereskedelmi létesítmény nem okoz-e olyan hátrányos következményeket, amelyek aránytalanul meghaladják a kereskedelmi építmény létesítésétől várható előnyöket.
 
+(4) A (3) bekezdésétől eltérően nincs helye különös környezetvédelmi, közlekedési és településfejlesztési szakkérdés vizsgálatának az (1) bekezdés szerinti építésügyi hatósági engedélyezési eljárás során, ha a bővítés kizárólag a hulladékról szóló törvény szerinti kötelező visszaváltási díjas rendszerbe tartozó, kormányrendeletben meghatározott termékek visszaváltását biztosító visszaváltó berendezés elhelyezését biztosítja.
+
 #### 170. § [Külön bizottság bevonása]
 
 (1) A szakkérdés vizsgálata során a Kormányhivatal – az építésügyi hatósági engedély iránti kérelem és mellékletei megküldése mellett – beszerzi
@@ -3676,9 +3682,13 @@ megvalósítására irányul.
 
 #### 194. § [A kiemelt beruházásokra és a kiemelt jelentőségű ügyekre irányadó különös szabályok]
 
-(1) Kiemelt jelentőségű ügyben törvény vagy e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg – a kiemelt jelentőségű üggyé nyilvánítással egyidejűleg – a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges, a helyi önkormányzat vagy az állam tulajdonában álló közterület díjmentes használatának feltétlenül szükséges időtartamát. A kiemelt beruházás megvalósítója a beruházással összefüggésben történő, a közút nem közlekedési célú igénybevétele esetén igénybevételi díj vagy óvadék fizetésére nem kötelezhető.
+(1) Kiemelt jelentőségű ügyben törvény vagy e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg – a kiemelt jelentőségű üggyé nyilvánítással egyidejűleg – a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges, a helyi önkormányzat vagy az állam tulajdonában álló közterület díjmentes, külön engedély vagy hozzájárulás nélküli használatának feltétlenül szükséges időtartamát. A kiemelt beruházás megvalósítója a beruházással összefüggésben történő, a közút nem közlekedési célú igénybevétele esetén igénybevételi díj vagy óvadék fizetésére nem kötelezhető.
 
 (2) Kiemelt jelentőségű ügyben törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint hatóságként jár el.
+
+(2a) A közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – az (1) bekezdés szerinti jogszabályban kijelölhető az eljáró fővárosi és vármegyei kormányhivatal azzal, hogy az önkormányzati rendelet közcélú kiemelt beruházás megvalósításával ellentétes vagy össze nem egyeztethető előírásait nem kell alkalmazni.
+
+(2b) Az ügyintézési határidő a (2a) bekezdés szerinti nyilatkozatok kiadására irányuló eljárás esetén nyolc nap.
 
 (3) Kiemelt jelentőségű ügyben törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és vármegyei kormányhivatal közigazgatási hatósági eljárást folytat le.
 
@@ -3894,12 +3904,72 @@ válik hatályossá. A kiadott építési engedélyt és a vízjogi létesítés
 (3) Az (1) bekezdésben foglaltak érdekében az építésgazdasági intézkedésre okot adó állapot bekövetkezésének megítéléséhez kormányrendeletben meghatározott részletszabályok szerint
 
 - a)
-- b) az építési anyag forgalmazók a meghatározott stratégiai jelentőségű építési anyagok Magyarország területéről történő kivitelét és Magyarországra történő behozatalát az arra jogosult szervezet részére kötelesek bejelenteni, és
-- c) annak érdekében, hogy a Magyarországon képződött építési-bontási eredetű hulladékok – különös tekintettel a fémhulladékokra – újrahasznosítása elsősorban Magyarország területén valósuljon meg, az újrafeldolgozó és az értékesítő köteles az építésgazdaságért felelős miniszter által működtetett és felügyelt NÉNY-be adatokat szolgáltatni.
+- b)
+- c) annak érdekében, hogy a Magyarországon képződött építési-bontási hulladékok – különös tekintettel a fémhulladékokra – hasznosítása elsősorban Magyarország területén valósuljon meg, az újrafeldolgozó és az értékesítő köteles az építésgazdaságért felelős miniszter részére adatokat szolgáltatni.
 
-(4) A magyar államot, vagy más – kormányrendeletben erre feljogosított szervet, szervezetet – az építési anyagok tekintetében elővásárlási jog illeti meg jogszabályban meghatározott esetekben és feltételekkel, amennyiben az építési anyag hazai felhasználása jogszabályban megjelölt közfeladat ellátásához, közszolgáltatás nyújtásához vagy közérdekű cél megvalósításához továbbá közbiztonság megteremtéséhez szükséges.
+(4) A magyar államot, vagy más – kormányrendeletben erre feljogosított – szervet, szervezetet a stratégiai jelentőségű építési anyagok tekintetében elővásárlási jog illeti meg jogszabályban meghatározott esetekben és feltételekkel, amennyiben a stratégiai jelentőségű építési anyag hazai felhasználása jogszabályban megjelölt közfeladat ellátásához, közszolgáltatás nyújtásához vagy közérdekű cél megvalósításához továbbá közbiztonság megteremtéséhez szükséges.
 
 (5)
+
+#### 202/A. § [Stratégiai jelentőségű építési anyag kivitele]
+
+(1) A stratégiai jelentőségű építési anyag adásvételi szerződés alapján Magyarország területéről történő kivitelét be kell jelenteni az építésgazdaságért felelős miniszternek. A stratégiai jelentőségű építési anyag a bejelentés tudomásulvételének visszaigazolását követően vihető ki az országból.
+
+(2) A Magyarország területén, tranzitforgalom keretében átszállított stratégiai jelentőségű építési anyagra nem kell alkalmazni az (1) bekezdés szerinti bejelentési kötelezettséget és a 202. § (4) bekezdése szerinti elővásárlási jogot.
+
+(3) Ha a stratégiai jelentőségű építési anyag kivitele a Magyarország területén kívül megvalósított, diplomáciai célú ingatlanokon végzett beruházáshoz vagy diplomáciai tevékenységhez kapcsolódik, a bejelentésnek tartalmaznia kell az erre vonatkozó nyilatkozatot.
+
+(4) Ha a (3) bekezdésben foglaltak céljából kerül sor a stratégiai jelentőségű építési anyag kivitelére, az építésgazdaságért felelős miniszter a bejelentésről nem nyilatkozik, a magyar állam elővásárlási jogot nem gyakorol.
+
+#### 202/B. § [Stratégiai jelentőségű építési anyag kivitelének bejelentésére vonatkozó szabályok]
+
+(1) A bejelentést a stratégiai jelentőségű építési anyagra vonatkozó érvényes adásvételi szerződés létrejötte napját követő naptól számított öt napon belül, magyar nyelven kell megtenni az építésgazdaságért felelős miniszter által működtetett honlapon közzétett formanyomtatványon.
+
+(2) A bejelentés tartalmazza
+
+- a) a bejelentő természetes személy vagy egyéni vállalkozó
+  - aa) természetes személyazonosító adatait, lakcímadatait, adóazonosító számát,
+  - ab) állampolgárságát,
+  - ac) elektronikus kapcsolattartásra szolgáló elérhetőségét és
+  - ad) fizetési számlaszámát,
+- b) a bejelentő jogi személy, jogi személyiséggel nem rendelkező szervezet vagy egyéb szervezet
+  - ba) nevét, székhelyét, adószámát, és – fióktelep esetén annak címét – cégjegyzékszámát, ennek hiányában egyéb, az azonosítást szolgáló nyilvántartási számát,
+  - bb) hivatalos nyilvántartásával kapcsolatos feladatokat ellátó állam megjelölését,
+  - bc) elektronikus és postai kapcsolattartásra szolgáló elérhetőségét és
+  - bd) fizetési számlaszámát,
+- c) a stratégiai jelentőségű építési anyag
+  - ca) 8 számjegyű vámtarifaszámát, jogszabály szerinti mennyiségi mutatóit és egyéb jellemzőit,
+  - cb) az adásvételi szerződésben forintban vagy külföldi pénznemben meghatározott értékesítési árát,
+  - cc) kivitel előtti tárolási helyének pontos címét,
+- d) a címzett nevét, címét és adószámát, ahová a stratégiai jelentőségű építési anyag kiszállításra kerül, valamint
+- e) az adásvételi szerződésben meghatározott stratégiai jelentőségű építési anyag birtokbaadásának időpontját és a kivitelének tervezett időszakát.
+
+(3) A bejelentéshez mellékelni kell a stratégiai jelentőségű építési anyag országhatáron kívülre történő kivitele esetén
+
+- a) az adásvételi szerződést és – ha az rendelkezésre áll – a dolog ellenértékéről kiállított számlát, valamint
+- b) a szállításról szóló megállapodást, illetve egyéb, országhatáron kívülre történő kiszállítást igazoló okiratot, ha a szerződés a szállításról külön nem rendelkezik.
+
+(4) A (3) bekezdésben meghatározott okiratok idegen nyelven történő kiállítása esetén azok magyar nyelvű fordítását is csatolni kell a bejelentéshez.
+
+(5) A bejelentés díj- és költségmentes.
+
+(6) A bejelentésre – az e §-ban foglalt eltérésekkel – megfelelően alkalmazni kell az általános közigazgatási rendtartásról szóló törvénynek a nyelvhasználatra, a tolmács igénybevételére, az adatkezelésre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, a döntés formájára és közlésére, az ellenőrzésre, a hivatalbóli eljárásra, az eljárási költségekre, továbbá a végrehajtásra vonatkozó rendelkezéseit, azzal, hogy az általános közigazgatási rendtartásról szóló törvény ügyfélre vonatkozó rendelkezéseit a bejelentőre is alkalmazni kell.
+
+#### 202/C. § [Stratégiai jelentőségű építési anyag kivitele bejelentésének vizsgálata]
+
+(1) Az építésgazdaságért felelős miniszter a bejelentést a bejelentés beérkezésének napját követő harminc napon belül megvizsgálja, és nyilatkozatot tesz az elővásárlási jog gyakorlásáról.
+
+(2) Az építésgazdaságért felelős miniszter a bejelentés beérkezését követő tíz napon belül a bejelentést elutasítja, ha a bejelentés hibás vagy hiányos.
+
+(3) A stratégiai jelentőségű építési anyagra vonatkozó érvényesen létrejött adásvételi szerződés napját megelőző kiviteli rendelkezés vagy az elővásárlási jogvesztő határidőn belüli kiviteli rendelkezés érvénytelen szerződéses rendelkezésnek minősül.
+
+(4) Az építésgazdaságért felelős miniszter a bejelentés beérkezésének napját követő harminc napos jogvesztő határidőn belül nyilatkozik, hogy élni kíván-e elővásárlási jogával a magyar állam nevében.
+
+(5) Ha az építésgazdaságért felelős miniszter az elővásárlási jogának gyakorlása során a szerződésben az adásvétel lényeges elemeinek ismeretében a jogvesztő határidőn belül nem tesz a bejelentőhöz vagy a dolog tulajdonosához címzett jognyilatkozatot, a jognyilatkozat elmaradását az elővásárlási jogról való lemondásának kell tekinteni.
+
+(6) Ha az adásvételi szerződés a stratégiai jelentőségű építési anyagra vagy több stratégiai jelentőségű építési anyagra vonatkozó vételárát több külföldi pénznemben és forintban is megjelölte, akkor az átutalást egységesen forintban kell teljesíteni.
+
+(7) A magyar állam tulajdonába kerülő stratégiai jelentőségű építési anyagra érvényesíthető szavatossági igény teljesítésére a bejelentő köteles az elővásárlási jognyilatkozat keltezésének vagy a jogügyletre megkötött adásvételi szerződés keltezésének figyelembevételével.
 
 #### 203. § [Építésgazdasági intézkedések]
 
@@ -4447,8 +4517,8 @@ ellenőrzi.
   - f) a Kiemelt Nemzeti Emlékhely Bizottságnak a nemzeti jelképek kiemelt nemzeti emlékhelyen történő használatával kapcsolatos egyes feladatait,
   - g) a Kiemelt Nemzeti Emlékhely Bizottsághoz benyújtandó kérelem tartalmára, a Kiemelt Nemzeti Emlékhely Bizottság előtti eljárásra és az eljárás elmulasztásának jogkövetkezményeire vonatkozó szabályokat,
 - 63. az építésgazdasági feladatellátás hatékonysága érdekében az építésgazdaság szereplői tevékenységére vonatkozó szabályokat, valamint a 203. § (7) bekezdés a)–g) pontja szerinti esetekben az építésgazdaság fogalom körébe tartozó tevékenységek, szolgáltatások, követelmények, kutatás, műszaki fejlesztés, hatáskörök és hatósági jogkörök érvényesítése érdekében az e törvény egyes rendelkezéseitől való eltérés szabályait,
-- 64. az építési alapanyagok körének megállapítása, továbbá a stratégiai jelentőségű építési anyagok kivitele vagy behozatala esetén teljesítendő bejelentés részletes szabályaira és a bejelentés személyes adatot nem tartalmazó adattartalmára, az e törvény szerinti elővásárlási jog gyakorlásának eseteire és lebonyolítására vonatkozó részletes szabályokat,
-- 65. a stratégiai jelentőségű építési anyagot gyártóüzem értékesítése esetén a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait,
+- 64. az építésgazdasági intézkedésre okot adó állapot kihirdetését, az építési alapanyagok körének megállapítását, továbbá a hasznosított építési-bontási hulladékok kapcsán az újrafeldolgozó és az értékesítő által szolgáltatandó adatokra vonatkozó részletes szabályait,
+- 65. a stratégiai jelentőségű építési anyagot gyártó üzem értékesítése, továbbá a stratégiai jelentőségű építési anyag kivitele esetén a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait,
 - 66. a NÉNY rendszerrel összefüggésben
   - a) a rendszerbe tartozó építési anyagok és azok előállítói, gyártói körét,
   - b) a rendszer építésgazdasági és műszaki tartalmú felépítését, ideértve a más kapcsolódó nyilvántartásokat, adatbázisokat, elektronikus alkalmazásokat és a csatlakozás feltételeinek meghatározását és az automatikus adatátadással érintett adatok körét,
@@ -4500,6 +4570,7 @@ ellenőrzi.
 - f) kiemelt beruházással kapcsolatosan a változtatási, a telekalakítási és az építési tilalom alkalmazásának kizárását, valamint a 194. § (9) bekezdése szerinti kártalanítás részletes szabályait,
 - g) a kiemelt beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő munka elvégzésére és elszámolására vonatkozó részletes szabályokat,
 - h) a kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait.
+- i) a közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – jogosult szerv kijelölését.
 
 (3) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, hogy rendeletben szabályozza
 

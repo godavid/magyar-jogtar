@@ -1139,6 +1139,8 @@ megismerése Magyarország külpolitikai, külgazdasági érdekeinek illetéktel
 
 (33) A kihelyező szervnél (e bekezdés alkalmazásában a továbbiakban: minisztérium) a kormányzati- vagy politikai szolgálati jogviszony, valamint a munkaviszony létesítése során, illetve annak fennállása alatt, az azzal összefüggő, a munkáltató által nem ismert vagy a tudomására nem jutott és jogszabály szerint a munkáltató által kezelhető adatokat és tényeket a minisztériummal kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban vagy munkaviszonyban álló foglalkoztatottnak – a tájékoztatási kötelezettségén túl – a minisztérium felé igazolnia kell azzal, hogy ha az igazolás a foglalkoztatott számára jogosultságot igazol, a jogosultság fennállása csak az azt tanúsító igazolás, illetve dokumentum minisztérium részére történő átadása napjától vehető figyelembe.
 
+(34) A tartós külszolgálati kihelyezés előtt álló kormánytisztviselő 11. § (2) bekezdés szerinti felkészítésének időtartama – a kihelyező vezető egyedi döntése alapján – legfeljebb a 11. § (2) bekezdése szerinti időtartammal meghosszabbítható.
+
 58/A. § (1) E törvénynek az egyes törvények külügyi igazgatási tárgyú módosításáról szóló 2018. évi LXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.
 
 (2) Az (1) bekezdésben foglaltak nem érintik 58. § (4) bekezdésében foglalt rendelkezést.

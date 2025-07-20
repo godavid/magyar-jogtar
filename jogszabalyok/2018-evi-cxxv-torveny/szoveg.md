@@ -292,6 +292,14 @@ segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (8) A miniszterelnök nemzetbiztonsági főtanácsadója e tisztsége betöltése során, illetve annak megszűnését követően a miniszterelnök politikai igazgatójára vonatkozó szabályok szerint nevezhető ki, illetve nem választható meg törvényben meghatározott tisztségre.
 
+(9) A miniszterelnök nemzetbiztonsági főtanácsadója – át nem ruházható hatáskörben – az (5) bekezdés szerinti szervezeti egységhez tartozó álláshelyen foglalkoztatott kormánytisztviselő részére az álláshely besorolási kategóriája szerinti illetménysáv felső határánál magasabb illetményt is megállapíthat.
+
+(10) A (9) bekezdés szerinti illetmény bármely álláshelyen megállapítható, függetlenül annak besorolásától. A (9) bekezdés szerinti illetmény visszavonásig érvényes, azzal, hogy azt évente – február utolsó napjáig – felül kell vizsgálni.
+
+(11) A (9) bekezdés alapján megállapított havi illetmény tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozóan nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+
+(12) A (9) bekezdés szerinti illetmény visszavonása esetén az érintett kormánytisztviselő illetményét meg kell állapítani a 123. § és 265. § szerint.
+
 13/C. § (1) A miniszterelnök nemzetbiztonsági főtanácsadója a feladat- és hatáskörébe tartozó feladatok ellátására igazgatókat nevezhet ki (a továbbiakban e § alkalmazásában: igazgató). Az igazgató tevékenységét a miniszterelnök nemzetbiztonsági főtanácsadója irányítja.
 
 (2) Az igazgató ellátja mindazon feladatokat, amelyeket a miniszterelnök nemzetbiztonsági főtanácsadója meghatároz, valamint amelyeket a 13/B. § (4) bekezdése szerinti minisztérium szervezeti és működési szabályzata megállapít számára.
@@ -2495,11 +2503,17 @@ eltöltött idő is. A b) és d) pont azzal az eltéréssel alkalmazandó, hogy 
 
 (13) A (12) bekezdés b) pontjában foglaltaktól eltérően nem kell a végkielégítést visszafizetni, ha az új jogviszony keretében nem jár díjazás. Ha a kormánytisztviselő már visszafizette a végkielégítést, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (14) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.
 
+(13a) A (12) bekezdés b) pontjában foglaltaktól eltérően nem kell a végkielégítést visszafizetni, ha az új jogviszony annak érdekében jön létre, hogy az érintett személy népszámlálással kapcsolatos feladatok ellátásában számlálóbiztosként vegyen részt. Ha az érintett már visszafizette a végkielégítést, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (14) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.
+
 (14) A kormánytisztviselő köteles haladéktalanul tájékoztatni
 
 - a) a korábban őt foglalkoztató kormányzati igazgatási szervet az új jogviszony létesítéséről,
 - b) az új foglalkoztató szervet arról, hogy a (12) bekezdés hatálya alá tartozik,
-- c) az őt korábban foglalkoztató kormányzati igazgatási szervet a (13) bekezdés szerinti feltétel teljesüléséről.
+- c) az őt korábban foglalkoztató kormányzati igazgatási szervet a (13) és (13a) bekezdés szerinti feltétel teljesüléséről.
+
+(15) A (12)–(14) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(16) A (15) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, a (12) bekezdés b) pontja szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a kormánytisztviselőt a kormányzati szolgálati jogviszony megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, a (12) bekezdés b) pontja szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.
 
 #### 113. § [A felmentési védelem]
 
@@ -4489,6 +4503,10 @@ kapcsolatos rendelkezéseit – az e törvény felhatalmazása alapján kiadott 
 
 (13) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a főispán (5), illetve (7) bekezdés szerinti juttatásra jogosító idejét figyelembe kell venni.
 
+(14) Az (5)–(13) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(15) A (14) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a főispánt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.
+
 #### 211. § [A főispán szabadsága]
 
 (1) A főispánt minden naptári évben harmincöt munkanap alapszabadság illeti meg. A főispánt rendkívüli munkavégzése után külön szabadidő nem illeti meg.
@@ -4748,6 +4766,10 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 (8) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a közigazgatási államtitkár (3) bekezdés szerinti lemondási időre jogosító időtartamot figyelembe kell venni.
 
+(9) A (3)–(8) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(10) A (9) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, az (5) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a közigazgatási államtitkárt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, az (5) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.
+
 #### 233. § [A közigazgatási államtitkár felmentése]
 
 (1) A minisztérium közigazgatási államtitkárát e tisztségéből a köztársasági elnök menti fel a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára. A Miniszterelnöki Kormányiroda közigazgatási államtitkárát e tisztségéből a köztársasági elnök menti fel a miniszterelnök javaslatára. A felmentést nem kell megindokolni.
@@ -4762,10 +4784,12 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 (6) A közigazgatási államtitkárnak a miniszter (4) bekezdés szerinti kezdeményezésére történő felmentése esetén a (2) és (3) bekezdést nem kell alkalmazni.
 
-(7) A közigazgatási államtitkár felmentése esetén a 232. § (4)–(8) bekezdését alkalmazni kell azzal, hogy
+(7) A közigazgatási államtitkár felmentése esetén a 232. § (4)–(10) bekezdését alkalmazni kell azzal, hogy
 
 - a) lemondási idő alatt a (2) és (3) bekezdés szerinti felmentési időt,
-- b) a lemondási időre járó illetmény alatt az a) pont szerinti felmentési időre járó illetményt kell érteni.
+- b) a lemondási időre járó illetmény alatt az a) pont szerinti felmentési időre járó illetményt
+
+kell érteni.
 
 #### 234. § [A helyettes államtitkár kinevezése]
 
@@ -4815,11 +4839,13 @@ Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől sz�
 
 (3) Ha a helyettes államtitkár e tisztségét legalább három évig betöltötte, a lemondási idő a megbízatás megszűnésétől számított három hónap, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, a lemondási idő negyvenöt nap, ha e tisztségét egy évnél rövidebb ideig töltötte be, a lemondási idő tizenöt nap. A lemondási idő időtartama alatt a helyettes államtitkár a munkavégzési kötelezettség alól mentesül.
 
-(4) A helyettes államtitkár lemondása esetén a 232. § (4)–(8) bekezdését alkalmazni kell azzal, hogy
+(4) A helyettes államtitkár lemondása esetén a 232. § (4)–(10) bekezdését alkalmazni kell azzal, hogy
 
 - a) közigazgatási államtitkár alatt helyettes államtitkárt,
 - b) lemondási idő alatt a (2) és (3) bekezdés szerinti időtartamot,
-- c) lemondási időre járó illetmény alatt a b) pont szerinti lemondási időre járó illetményt kell érteni.
+- c) lemondási időre járó illetmény alatt a b) pont szerinti lemondási időre járó illetményt
+
+kell érteni.
 
 #### 240. § [A helyettes államtitkár felmentése]
 
@@ -4831,7 +4857,7 @@ Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől sz�
 
 (4) A helyettes államtitkárnak a (2) bekezdés szerinti kezdeményezésre történő felmentése esetén a 233. § (2) és (3) bekezdését nem kell alkalmazni.
 
-(5) A helyettes államtitkár felmentése esetén a 232. § (4)–(8) bekezdését alkalmazni kell azzal, hogy
+(5) A helyettes államtitkár felmentése esetén a 232. § (4)–(10) bekezdését alkalmazni kell azzal, hogy
 
 - a) közigazgatási államtitkár alatt helyettes államtitkárt,
 - b) lemondási idő alatt a 233. § (2) és (3) bekezdése szerinti időtartamot,
@@ -5393,6 +5419,8 @@ illetménynek megfelelő összeg.
 
 (16) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványa kiadására vonatkozó részletes szabályokat.
 
+(17) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 112. § (15) bekezdése, a 210. § (14) bekezdése és a 232. § (9) bekezdése szerinti ellenőrző szervet.
+
 #### 282. § [Hatálybalépés]
 
 (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2019. január 1-jén lép hatályba.
@@ -5748,6 +5776,15 @@ azzal, hogy a jogutódlásra – az (5)–(12) bekezdésben foglaltak figyelembe
 (2) Az (1) bekezdés szerinti esetben 2024. augusztus 1-jét követően is alkalmazandó a 104. § (1) bekezdés j) pontja, ha a 89. § (6) bekezdésében megállapított határidőn belül nem kerül sor az új beosztási okirat kiállítására.
 
 (3) E törvények a Módtv8.-al megállapított 196. § (2a), (5) és (6) bekezdését, 199. §-át, 202. § (2) és (7) bekezdését, 203. § (3) bekezdését, 229. § (1) és (5) bekezdését, 231. § (6) bekezdését, 234. § (1a) és (7) bekezdését, 236. § (1a) bekezdését a 2024. augusztus 1-je előtt kinevezett miniszterek, államtitkárok, közigazgatási államtitkárok és helyettes államtitkárok tekintetében is alkalmazni kell.
+
+#### 300/E. § [Átmeneti rendelkezés az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvényhez]
+
+Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított
+
+- a) 112. § (13a) bekezdését 2022. május 27. napjától,
+- b) 112. § (15) és (16) bekezdését, 210. § (14) és (15) bekezdését az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is
+
+alkalmazni kell.
 
 #### 301. §
 

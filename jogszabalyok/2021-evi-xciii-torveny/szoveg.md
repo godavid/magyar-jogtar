@@ -617,7 +617,9 @@ megerősítése és a káros hatások csökkentése érdekében a Kormány irán
 - f) a természeti és ipari katasztrófák megelőzése, valamint a kockázatok lehető legkisebbre csökkentése, a következmények mielőbbi helyreállítása, valamint
 - g) a kritikus szervezetek és a kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képessége és az alapvető szolgáltatások folyamatosságának biztosítása.
 
-#### 43. §
+43. § (1) A pilóta nélküli légijárművel végrehajtott támadás vagy jogosulatlan megfigyelés elleni védelem biztosítása érdekében a Kormány rendeletében meghatározottak szerint kijelölt szervnek, gazdasági társaságnak, illetve annak meghatározott létesítményének a Kormány rendeletében meghatározottak szerint beszerzett, telepített és folyamatosan üzemeltetett pilóta nélküli légijármű-védelmi rendszert kell üzemben tartania.
+
+(2) A Kormány rendeletében kijelölt szerv látja el a pilóta nélküli légijármű elleni védelem – (1) bekezdés szerinti pilóta nélküli légijármű-védelmi rendszer útján történő – biztosítását.
 
 ### V/A. Fejezet — AZ ORSZÁG VÉDELME ÉS BIZTONSÁGA SZEMPONTJÁBÓL JELENTŐS SZERVEZETEK, AZ ORSZÁG VÉDELME ÉS BIZTONSÁGA SZEMPONTJÁBÓL JELENTŐS INFRASTRUKTÚRÁK
 
@@ -1543,10 +1545,13 @@ szabályozási tárgykörökben gyakorolhatja.
 - 8. a NATO Válságreagálási Rendszerével összefüggő döntéshozatal és feladatellátás részletes szabályait, valamint az ezzel összhangban álló Nemzeti Intézkedési Rendszer alkalmazásával összefüggő szabályokat,
 - 9. az összehangolt védelmi tevékenység elrendelését, valamint az e törvényben meghatározott intézkedések bevezetését.
 - 10. az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésével kapcsolatos részletes szabályokat, az eljáró hatóságokat, a kijelölés ágazati kritériumait.
+- 11. a pilóta nélküli légijármű-védelmi rendszer üzemben tartására kötelezettek kijelölésére, a rendszer beszerzésére, telepítésére és üzemeltetésére vonatkozó részletes szabályokat.
 
 83/A. § (1) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg az ellenálló képességért felelős vezető továbbképzésére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza az ország védelme és biztonsága szempontjából jelentős szervezetek anyagi támogatására vonatkozó részletes szabályokat.
+
+83/B. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a pilóta nélküli légijármű elleni védelem – 43. § (1) bekezdése szerinti pilóta nélküli légijármű-védelmi rendszer útján történő – biztosítására jogosult szervet.
 
 #### 44.
 

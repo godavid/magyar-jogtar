@@ -352,7 +352,7 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 (4) Az ökológiai hálózat ökológiai folyosójának övezetében a közlekedési és energetikai infrastruktúra-hálózatok elemeinek nyomvonala, az ökológiai folyosó és az érintkező magterület természetes élőhelyeinek fennmaradását biztosító módon, az azok közötti ökológiai kapcsolatok működését nem akadályozó műszaki megoldások alkalmazásával jelölhetők ki és helyezhetők el.
 
-(5) Az ökológiai hálózat ökológiai folyosójának övezetében bányászati tevékenység folytatása a bányászati szempontból kivett helyekre vonatkozó előírások alkalmazásával engedélyezhető. Az övezetben új célkitermelőhely és külfejtéses művelésű bányatelek nem létesíthető, meglévő külfejtéses művelésű bányatelek horizontálisan nem bővíthető.
+(5) Az ökológiai hálózat ökológiai folyosójának övezetében külfejtéses művelésű bányatelek létesítése, a meglévő külfejtéses művelésű bányatelek horizontális bővítése csak az ország más területén fel nem lelhető ásványi nyersanyag esetében, a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerinti hatásvizsgálat alapján lehetséges. A meglévő külfejtéses művelésű bányatelek horizontális bővítésével a bányatelek eredeti mérete (felszíni vetülete) nem változhat. Az övezetben új célkitermelőhely nem létesíthető.
 
 (6) Az ökológiai hálózat ökológiai folyosójának övezetében az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.
 

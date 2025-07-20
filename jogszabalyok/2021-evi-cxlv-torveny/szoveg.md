@@ -143,18 +143,15 @@ ingatlan használható fel, amely – kifejezetten az osztatlan közös tulajdon
 
 8. § Ha a Szövetkezet vonatkozásában 1994. december 20. és 1996. augusztus 9. között jogerős földalapkijelölés alapján a földkiadó bizottság az ingatlant birtokba adta, de a tulajdonjog ingatlan-nyilvántartási bejegyzésére már jogerős földalapkijelölés hiányában nem került sor, és a birtokos vagy annak jogutódja a birtokbaadás óta és e törvény hatálybalépésének napján is szakadatlanul birtokolja az ingatlant, a Nemzeti Földalap kezeléséért felelős szerv a birtokos kérelmére kezdeményezi az ingatlanügyi hatóságnál a telekalakítási eljárások megindítását a birtokviszonyoknak megfelelő új ingatlanok kialakítása érdekében, és az így kialakított ingatlant kompenzációs szerződéssel a birtokos tulajdonába adja.
 
+8/A. § A 7. és 8. § szerinti földterület juttatás keretében történő termőföldszerzés – az illetékekről szóló 1990. évi XCIII. törvény 18. §-ától eltérően – mentes a visszterhes vagyonátruházási illeték alól.
+
 #### 7. Záró rendelkezések
 
 9. § Ez a törvény 2022. január 1-jén lép hatályba.
 
-10. § E törvény
+10. § A 6–8. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-- a) 6. alcíme és 12. §-a az Alaptörvény P) cikk (2) bekezdése alapján,
-- b) 11. §-a az Alaptörvény 38. cikk (1) bekezdése alapján
-
-sarkalatosnak minősül.
-
-#### 11. §
+11. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel (a továbbiakban: Módtv.) megállapított 8/A. §-át a Módtv. hatálybalépésekor az állami adóhatóság által véglegesen el nem bírált illetékügyekben is alkalmazni kell.
 
 #### 12. §
 

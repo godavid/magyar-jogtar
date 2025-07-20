@@ -5225,6 +5225,8 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 10/C. § b) pontja szerinti kifogástalan életvitel ellenőrzése végrehajtásának szabályait.
 
+(1c) Felhatalmazást kap a Kormány, hogy az Európai Unió által biztosított forrásokból történő béremeléshez nyújtott központi költségvetési többletforrások felhasználásának céljából az intézményi szintű átlagos pedagógusilletmény-emelés mértékét, az arra jogosultak körét, végrehajtásának alapelveit, valamint az ahhoz kapcsolódó állami kiegészítő támogatás, igénylésének, folyósításának és felhasználásának részletszabályait rendeletben állapítsa meg.
+
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 - a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és személyek szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételére való jogosultság feltételeinek részletes szabályait, a (3) bekezdés a) pontjában meghatározottak kivételével,

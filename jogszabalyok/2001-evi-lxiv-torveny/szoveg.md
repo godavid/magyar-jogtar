@@ -291,6 +291,8 @@ a következő törvényt alkotja:
   - cb) a beruházás történeti városmag területén valósul meg,
 - d) teljes felületű feltárást írhat elő, ha a feltárás a tudományos ismereteket várhatóan jelentős új eredményekkel gazdagítja.
 
+(3a) A hatóság a (3) bekezdés a) pontjában foglaltakon túl – jogszabályban meghatározottak szerint – a megelőző feltárás keretében régészeti megfigyelést ír elő a földmunkával érintett terület vonatkozásában abban az esetben is, ha a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti 132 kV-os és annál nagyobb feszültségű vezetékkel vagy berendezéssel összefüggő nagyberuházás megvalósítása érdekében szükséges földmunka kizárólag légvezeték tartóoszlopa alapjának építésére vagy bővítésére irányul. Az örökségvédelmi hatóság e döntésének meghozatala során a nyilvántartási adatok és – ha rendelkezésre áll – az előzetes régészeti dokumentáció adatai, valamint a beruházás régészeti örökségre gyakorolt hatása alapján a védettségi fokozat figyelembevételével jár el.
+
 (4) A hatóság a (3) bekezdés a)–d) pontjában meghatározott régészeti feladatokat a lelőhely különböző részei vonatkozásában eltérően is meghatározhatja.
 
 (5) Megelőző feltárást végezhet
@@ -341,6 +343,10 @@ a következő törvényt alkotja:
 ### Előzetes régészeti dokumentáció
 
 23/C. § (1) Nagyberuházás esetén – a (2) bekezdésben foglalt kivétellel – előzetes régészeti dokumentációt kell készíteni.
+
+(1a) Az (1) bekezdésben foglaltaktól eltérően az előzetes régészeti dokumentációt nem kell elkészíteni, ha a nagyberuházás a Vet. szerinti 132 kV-os és annál nagyobb feszültségű vezeték vagy berendezés létesítésére és a megvalósítása érdekében szükséges földmunka kizárólag a légvezeték tartóoszlopának alapépítésére vagy bővítésére irányul.
+
+(1b) Ha a Vet. szerinti 132 kV-os és annál nagyobb feszültségű vezetékkel vagy berendezéssel összefüggő nagyberuházásának megvalósítása érdekében szükséges földmunka kizárólag légvezeték tartóoszlopa alapjának építésére vagy bővítésére irányul, a kivitelezés során a földmunkákkal érintett területen régészeti megfigyelést kell biztosítani.
 
 (2) Előzetes régészeti dokumentációnak minősül a hatástanulmány is, ha a tartalmát és az elkészítéséhez alkalmazott módszereket tekintve megfelel az előzetes régészeti dokumentáció fogalmi feltételeinek, és alkalmas az elvégzendő régészeti feladatellátás módjának, valamint idő- és költségvonzatának meghatározására.
 
@@ -721,7 +727,11 @@ kulturális javakat.
 
 58. § Tilos azon kulturális javaknak az országba történő behozatala, bejuttatása, amelyeket származási országukból a szükséges kiviteli engedélyek nélkül, vagy a kiviteli engedély kereteit túllépve juttattak külföldre.
 
+### Nemzeti érdekű nyilvános gyűjtemény
+
 #### 59. §
+
+### Közérdekű kulturális érték
 
 60. § (1) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére közérdekű kulturális értékként nyilvántartásba veszi azokat a tárgyakat, amelyek
 

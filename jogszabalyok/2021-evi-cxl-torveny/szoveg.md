@@ -187,6 +187,10 @@ keretein belül.
 
 (3) A honvédelemért felelős miniszter dönt a Magyar Honvédségnek a közjogi engedélyezést igénylő külföldi gyakorlatokon vagy kiképzéseken történő részvételéről.
 
+(4) A Kormány döntése esetén a Magyar Honvédség külföldi alkalmazásával, állomásozásával vagy csapatmozgásával érintett állam területén Magyarország képviseletében eljáró magyar delegáció tagjának személyvédelmét – a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) felhatalmazása alapján kiadott kormányrendeletben meghatározott védett személyek külföldi utazásai kivételével – a Magyar Honvédség látja el.
+
+(5) A Magyar Honvédség a honvédelemért felelős miniszter fenyegetettség-értékelésen alapuló döntése esetén az Rtv. szerinti együttműködési, adatkezelési és intézkedési jogköröket is gyakorolva jár el a (4) bekezdés szerinti feladat végrehajtása során.
+
 6/C. § (1) A Kormány a 6/A. § (2) és (3) bekezdés és a 6/B. § (1) és (2) bekezdés szerinti esetekben egyedi határozatban dönt, amit a Magyar Közlönyben közzé kell tenni, kivéve, ha minősített adatot tartalmaz. A határozat meghatározott alkalomra, meghatározott időszakra vagy határozatlan időre terjedhet ki.
 
 (2) A honvédelemért felelős miniszter a 6/A. § (4) bekezdése és a 6/B. § (3) bekezdése szerinti engedélyt egyedi miniszteri határozatban adja ki, amelyet a Magyar Közlönyben közzé kell tenni, kivéve, ha minősített adatot tartalmaz.
@@ -839,8 +843,8 @@ illeti meg.
 - j) közreműködés – a hatályos nemzetközi normák betartásával – a magyar állampolgár vagy más személy életét, testi épségét Magyarország területén kívül fenyegető veszélyek, különösen háborús cselekmények, fegyveres konfliktusok, terrorcselekmények, természeti vagy ipari katasztrófák esetén a bajba jutott személy mentésében, hazatérése biztosításában, a kimenekítés végrehajtásában,
 - k) közreműködés egyes szükségállapoti feladatokban,
 - l) közreműködés a Vbö. szerinti védelmi és válságkezelési feladatokban, különösen a közrendet és a közbiztonságot jelentős mértékben veszélyeztető fenyegetések kezelése és az összehangolt védelmi tevékenység során,
-- m) közreműködés a Kormány döntése alapján a veszélyhelyzettel, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.
-- n) a 6/B. § (2) bekezdése szerinti feladat végrehajtása a hatályos nemzetközi normák betartásával,
+- m) közreműködés a Kormány döntése alapján a veszélyhelyzettel, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban,
+- n) a 6/B. § (2) és (4) bekezdése szerinti feladat végrehajtása a hatályos nemzetközi normák betartásával.
 
 (2) A Honvédség a következő feladatokat fegyverhasználati jog nélkül látja el:
 
@@ -897,7 +901,7 @@ esetén.
 
 62. § (1) Az 59. § (1) bekezdés szerinti közreműködői feladatra vezényelt honvéd – e törvény rendelkezéseitől eltérően –
 
-- a) a Rendőrségről szóló 1994. évi XXXIV. törvény 29–33. §-ában, 35–35/B. §-ában, 37. § a), c) és e) pontjában, továbbá 42. és 43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
+- a) az Rtv. 29–33. §-ában, 35–35/B. §-ában, 37. § a), c) és e) pontjában, továbbá 42. és 43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
 - b) a jogszabályban meghatározott feladatának ellátása során a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti.
 
 (2) A honvéd intézkedésének a jogszerűségét az e törvényben meghatározottak szerint kell vizsgálni. A honvéd az (1) bekezdés szerinti intézkedéseket a szükségesség és arányosság követelménye betartásával alkalmazhatja.

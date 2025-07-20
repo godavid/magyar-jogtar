@@ -954,6 +954,10 @@ folytató személynek, ha nem minősül az Art. szerinti kockázatos adózónak.
 
 (3) A csomagküldő kereskedőnek és a nyilvántartásba vett felhasználónak teljesítenie kell a 14. § (1) bekezdés g) pontja szerinti feltételt.
 
+(4) Az állami adó- és vámhatóság a nyilvántartásba vételkor figyelembe vett vagy azt követően teljesítendő feltételek teljes vagy részleges elmaradásának észlelése esetén 30 napos határidő tűzésével felhívja a nyilvántartásba vett személyt vagy jogutódját a hiányosság megszüntetésére, és a határidő eredménytelen eltelte esetén a személyt a nyilvántartásból törli, amely döntés fellebbezésre tekintet nélkül azonnal végrehajtható.
+
+(5) Közteher nem teljesítése, továbbá köztartozás megállapítása esetén a (4) bekezdéstől eltérően a 15. § (9) bekezdése alkalmazandó azzal az eltéréssel, hogy engedély visszavonása alatt nyilvántartásból törlést, engedélyes alatt nyilvántartásba vett személyt kell érteni.
+
 #### 24. Csomagküldő kereskedelem
 
 35. § (1) Belföldről másik tagállamba irányuló csomagküldő kereskedelem végzéséhez állami adó- és vámhatósági nyilvántartásba vétel szükséges a csomagküldő kereskedő számára.
@@ -1082,6 +1086,8 @@ felhasználásához.
 (3) A biológiai ecet előállítását végző személy e tevékenységét legkésőbb a tevékenység megkezdését megelőző 30 nappal bejelenti az állami adó- és vámhatósághoz, ha az előállítás során köztes fázisban alkoholtermék keletkezik.
 
 49. § A kenőolaj másik tagállamból másik tagállamba vagy harmadik országba irányuló, belföldön áthaladó ömlesztett szállítását végző személy e tevékenységét legkésőbb a szállítást megelőző napon bejelenti az állami adó- és vámhatósághoz.
+
+49/A. § Szárított, fermentált dohány másik tagállamból másik tagállamba vagy harmadik országba irányuló, belföldön áthaladó szállítását végző személy e tevékenységet legkésőbb a szállítást megelőző napon bejelenti az állami adó- és vámhatósághoz.
 
 50. § (1) A nemzetközi légiforgalomban részt vevő légijármű karbantartását végző személy e tevékenységének megkezdését legkésőbb a tevékenység megkezdését megelőző 3 nappal bejelenti az állami adó- és vámhatósághoz.
 
@@ -1838,7 +1844,7 @@ kezeli.
 
 alapulvételével kell meghatározni.
 
-(4) A jövedéki ellenőrzés során feltárt olyan, a természetes személy által elkövetett, az (1) bekezdésben meghatározott kötelezettségszegés esetén, ahol a központi költségvetésnek okozott vagyoni hátrány összege a 20 ezer forintot, dohánygyártmány esetén a 28 ezer forintot nem haladja meg, a jövedéki ellenőrzést végző gyorsított eljárás keretében a helyszínen jövedéki bírságot szabhat ki és szedhet be. Ebben az esetben a lefoglalt jövedéki terméket el kell kobozni, ha a termék birtokosa a törvénysértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi és jogorvoslati jogáról lemond. Gyorsított eljárás esetén a (2) és (3) bekezdéstől eltérően a jövedéki bírság összege 20 ezer forint, dohánygyártmány esetén 28 ezer forint. Ha a gyorsított eljárás feltételei nem állnak fenn, az ellenőrzést végző az általános szabályok szerint jár el.
+(4) A jövedéki ellenőrzés során feltárt olyan, a természetes személy által elkövetett, az (1) bekezdésben meghatározott kötelezettségszegés esetén, ahol a központi költségvetésnek okozott vagyoni hátrány összege a 80 ezer forintot, dohánygyártmány esetén a 98 ezer forintot nem haladja meg, a jövedéki ellenőrzést végző gyorsított eljárás keretében a helyszínen jövedéki bírságot szabhat ki és szedhet be. Ebben az esetben a lefoglalt jövedéki terméket el kell kobozni, ha a termék birtokosa a törvénysértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi és jogorvoslati jogáról lemond. Gyorsított eljárás esetén a (2) és (3) bekezdéstől eltérően a jövedéki bírság összege 80 ezer forintig, dohánygyártmány esetén 98 ezer forintig terjedő összeg lehet. Ha a gyorsított eljárás feltételei nem állnak fenn, az ellenőrzést végző az általános szabályok szerint jár el.
 
 (5) Ha a jövedéki engedélyes kereskedelmi tevékenységet folytató kereskedő kétséget kizáróan adózott termékeket forgalmaz, de nem rendelkezik jövedéki engedéllyel, a kivetendő jövedéki bírság alapja a kereskedő termékköre szerinti jövedéki engedélyhez e törvényben előírt jövedéki biztosíték összegének és azon napok számának szorzata, amely alatt a kereskedő a jövedéki bírság kivetéséig engedély nélkül folytatta tevékenységét. A jövedéki bírság mértéke a bírságalapnak és a jövedéki bírság kivetése időpontjában érvényes jegybanki alapkamat kétszerese 365-öd részének a szorzata, de legalább 500 ezer forint.
 
@@ -2442,8 +2448,10 @@ azzal, hogy a b) és c) pont szerinti előállított, átvett termék összmenny
 (3) Az adófizetési kötelezettség keletkezésének általános szabályain túl a kizárólag bérfőzést végző adóraktár engedélyesének a bérfőzött párlat utáni adófizetési kötelezettsége keletkezik akkor is, ha
 
 - a) az előállított bérfőzött párlat utáni adó összege elérte az 1 millió forintot;
-- b) a végrehajtási rendeletben meghatározott elszámolási időszak utolsó napján az adóraktárban a bérfőzető által még el nem szállított bérfőzött párlat található;
+- b) a végrehajtási rendeletben meghatározott elszámolási időszak utolsó napján az adóraktárban a bérfőzető által el nem szállított olyan bérfőzött párlat található, amelynek a bérfőzető által történő későbbi átvétele valószínűsíthető;
 - c) az állami adó- és vámhatóság által a végrehajtási rendelet szerint megállapított, az elszámolási időszakban gyártott mennyiség meghaladja az adóraktár nyilvántartásában kimutatott gyártott mennyiséget.
+
+(3a) A kizárólag bérfőzést végző adóraktárban a végrehajtási rendeletben meghatározott elszámolási időszak utolsó napján készleten lévő adózatlan párlat helyszíni, azonnali megsemmisítése esetén a 87. § (2) bekezdése nem alkalmazandó.
 
 (4) Az adóraktárban a bérfőzető részére előállított párlat utáni adó összegét az adóraktár engedélyese állapítja meg és szedi be a bérfőzetőtől a párlat bérfőzető részére történő átadásának időpontjáig. Az adóraktár engedélyese az adófizetési kötelezettség és az adófizetésre kötelezett személyének megállapítása céljából a bérfőzetőt és képviselőjét személyazonossága igazolására hívhatja fel, a képviseleti jogosultságot megvizsgálhatja. A bérfőzető és képviselője személyazonosságát hatósági igazolvánnyal igazolja. A bérfőzető a párlat átvételének időpontjáig készpénzzel vagy átutalással fizeti meg az adóraktárnak az átvett bérfőzött párlat utáni adót. Ha a bérfőzető ezen adófizetési kötelezettségét nem teljesíti vagy személyazonossága nem állapítható meg, részére a bérfőzött párlat nem adható ki. A bérfőzetőtől beszedni elmulasztott adót – abban az esetben is, ha a bérfőzető személyazonossága nem állapítható meg – az adóraktár engedélyese fizeti meg, ha azonban az adóraktár engedélyese a bérfőzető valótlan nyilatkozata alapján állapította meg helytelenül az adó összegét, a bérfőzető fizeti meg a költségvetésnek okozott vagyoni hátrány összegével megegyező összegű adót és jövedéki bírságot.
 

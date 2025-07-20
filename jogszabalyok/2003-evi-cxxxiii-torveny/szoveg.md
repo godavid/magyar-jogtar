@@ -247,6 +247,14 @@ jogok és kötelezettségek
 
 (10)
 
+25/A. § (1) A közös tulajdonban álló épületrészre napkollektor, napelemes rendszer (a továbbiakban együtt: napenergiát hasznosító rendszer) létesítésének elhatározását, a telepítés és üzemeltetés részletszabályait, a csatlakozás feltételeit, a telepítés és üzemeltetés költségeinek és hasznainak megosztását legkésőbb a telepítés megkezdéséig, a közgyűlés – a jelen lévő tulajdonostársak tulajdoni hányada alapján számított egyszerű szavazattöbbségével meghozott – határozatában kell rögzíteni.
+
+(2) Napkollektor a távhőszolgáltató által ellátott épületen akkor telepíthető, ha a szolgáltatási területével érintett távhőszolgáltató a telepítést és a tervezett műszaki tartalmat írásban jóváhagyja.
+
+(3) A külön tulajdonban álló lakás vagy nem lakás céljára szolgáló helyiség energiaellátása érdekében napenergiát hasznosító rendszer a közös tulajdonban álló épületrészre csak akkor telepíthető, ha az a közös költség csökkentése érdekében telepítendő napenergiát hasznosító rendszer felhelyezését nem lehetetlenítené el.
+
+(4) Ha a legfeljebb hatlakásos társasházközösségre a 13. § (3) bekezdésében foglaltak alapján a Ptk. közös tulajdonra vonatkozó szabályait kell alkalmazni, az (1)–(3) bekezdés szerinti döntést a tulajdonostársak hozzák meg.
+
 ### A társasházi lakóépület házirendje
 
 26. § (1) A szervezeti-működési szabályzatban meg kell határozni a külön tulajdonon belüli építési-szerelési munka, és a zajjal járó más tevékenység végzésének a lakhatás nyugalmát szolgáló szabályait (a továbbiakban: házirend); e szabályok nem lehetnek ellentétesek az építésre, illetőleg a zajszint határértékére a lakóépület tekintetében irányadó külön jogszabályok rendelkezéseivel.
@@ -379,6 +387,8 @@ jogok és kötelezettségek
 (2) Ha e törvény másképpen nem rendelkezik, a közgyűlés, illetőleg a megismételt közgyűlés a határozatát a jelen levő tulajdonostársak tulajdoni hányada alapján számított egyszerű szavazattöbbségével hozza meg.
 
 (3) A rendes gazdálkodás körét meghaladó kiadások vállalásához a tulajdonostársak egyhangú határozata szükséges.
+
+(4) A közgyűlésen a tulajdonostárs a jogait személyes megjelenés helyett elektronikus hírközlő eszközök igénybevételével akkor gyakorolhatja, ha a szervezeti-működési szabályzat az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a résztvevők azonosítása, és a résztvevők közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.
 
 39. § (1) A közgyűlésről jegyzőkönyvet kell felvenni, amelynek tartalmaznia kell különösen:
 

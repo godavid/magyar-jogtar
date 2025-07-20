@@ -46,7 +46,7 @@ annak egyedi természeti, táji, kulturális karakterét megőrizve, környezeti
 - c) szakmailag meghatározni, megtervezni és összehangolni az egyes turisztikai térségeken belül és azok között a turisztikai fejlesztések tekintetében a turisztikai térség megközelítését biztosító térségi és helyi infrastruktúrához, a kulturális örökség védelméhez, az épített és természeti környezet védelméhez, a társadalmi, környezeti fenntarthatósághoz, továbbá a turizmussal összefüggő marketingtevékenységhez szükséges turisztikai kapacitásokat és feladatokat, valamint szakmailag összehangolni azok végrehajtását,
 - d) a kiemelt állami turisztikai beruházások végrehajtása, a kiemelt állami turisztikai beruházások során létrejött létesítmények, valamint az egyéb kiemelt turisztikai jelentőségű állami ingatlan, vagyonelem üzemeltetése, fenntartása és hasznosítása.
 
-(5) Az állam a (4) bekezdésben foglalt feladatokat a Magyar Turisztikai Ügynökség Zrt. útján látja el, azzal, hogy a Magyar Turisztikai Ügynökség Zrt. a (4) bekezdés d) pontjában foglalt feladatokat a Kormánynak az e törvény felhatalmazása alapján kiadott rendeletében (a továbbiakban: rendelet) meghatározottak esetén a 4. § (1) és (1a) bekezdése szerinti gazdasági társaságok útján látja el.
+(5) Az állam a (4) bekezdésben foglalt feladatokat költségvetési szerv vagy a Magyar Turisztikai Ügynökség Zrt. útján látja el, azzal, hogy a Magyar Turisztikai Ügynökség Zrt. a (4) bekezdés d) pontjában foglalt feladatokat a Kormánynak az e törvény felhatalmazása alapján kiadott rendeletében (a továbbiakban: rendelet) meghatározottak esetén a 4. § (1) és (1a) bekezdése szerinti gazdasági társaságok útján látja el.
 
 ### II. Fejezet — KIEMELT ÁLLAMI TURISZTIKAI BERUHÁZÁSOK
 
@@ -68,6 +68,8 @@ céljából 100%-ban állami tulajdonban álló nonprofit gazdasági társaságo
   - bc) a kulturális örökség védelméért felelős miniszter
 
 tulajdonosi joggyakorlása alatt áll.
+
+(1b) Az (1) bekezdésben foglalt feladatokat költségvetési szerv is elláthatja.
 
 (2) Az (1) bekezdés szerinti gazdasági társaságokban az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek gyakorlóját az állami vagyon felügyeletéért felelős miniszter rendeletben jelöli ki.
 
