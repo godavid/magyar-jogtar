@@ -3468,7 +3468,7 @@ köt azzal, hogy az a) és b) pontban szereplő megállapodások megkötésekor 
 | --- | --- | --- | --- |
 | 1 | I. EGYETEMEK |  |  |
 | 2 |  | I/A. Állami egyetemek |  |
-| 3 |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
+| 3 |  |  |  |
 | 4 |  |  | Eötvös Loránd Tudományegyetem, Budapest |
 | 5 |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
 | 6 |  |  | Magyar Képzőművészeti Egyetem, Budapest |
@@ -3478,6 +3478,7 @@ köt azzal, hogy az a) és b) pontban szereplő megállapodások megkötésekor 
 | 10 |  |  | Állatorvostudományi Egyetem, Budapest |
 | 11 |  |  | Budapesti Corvinus Egyetem, Budapest |
 | 12 |  |  | Budapesti Gazdaságtudományi Egyetem, Budapest |
+| 12a |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
 | 13 |  |  | Debreceni Egyetem, Debrecen |
 | 14 |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
 | 15 |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
