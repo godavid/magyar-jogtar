@@ -820,90 +820,17 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 20. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-127. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 29. §-a a következő (1g)–(1k) bekezdéssel egészül ki:
+#### 127. §
 
-„(1g) Az (1b), (1e) és (1f) bekezdésben foglaltaktól eltérően a közútfejlesztési gazdasági társaságként az (1) bekezdés d) pontja szerint kijelölt költségvetési szerv (e § alkalmazásában a továbbiakban: költségvetési szerv) tulajdonosi joggyakorlásába kerül az országos vagy helyi közút fejlesztéséhez szükséges,
-
-- a) a költségvetési szerv által megvásárolt, kisajátított vagy más jogcímen a magyar állam javára megszerzett földrészlet, valamint
-- b) állami tulajdonban álló ingatlan, vagy – az (1h) bekezdés szerinti telekalakítási eljárást követően – annak a beruházással érintett, önálló ingatlanként kialakított területrésze.
-
-(1h) Ha a beruházáshoz az (1g) bekezdés b) pontja szerinti ingatlannak nem a teljes területe szükséges, a beruházással érintett területrész önálló ingatlanként történő kialakítására irányuló telekalakítási eljárás során a költségvetési szerv jár el.
-
-(1i) A számviteli átadásról a korábbi tulajdonosi joggyakorló és a költségvetési szerv megállapodást köt, az (1g) bekezdés b) pontja szerinti ingatlan esetében a költségvetési szerv megkeresését, az (1h) bekezdés szerinti telekalakítás esetében a véglegessé vált ingatlan-nyilvántartási bejegyző határozat kézhezvételét követő 30 napon belül. A számviteli átadás könyv szerinti értéken történik.
-
-(1j) A költségvetési szerv tulajdonosi joggyakorlása a fejlesztés keretében létrejött vagyonelem és a beruházással érintett ingatlan tekintetében az országos vagy helyi közutak végleges vagy ennek hiányában ideiglenes forgalomba helyezése napján e törvény erejénél fogva megszűnik. A költségvetési szerv tulajdonosi joggyakorlásának megszűnését követően a vagyonelemeket az új tulajdonosi joggyakorló könyveiben és nyilvántartásában a költségvetési szerv által nyilvántartott – befejezetlen beruházás – könyv szerinti értéken kell feltüntetni.
-
-(1k) A költségvetési szerv a tulajdonosi joggyakorlásának (1j) bekezdés szerinti megszűnését követő hat hónapon belül elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket, ingatlanokat a megszűnés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a tulajdonosi joggyakorló vagy a tulajdonosi joggyakorló döntése alapján az új vagyonkezelő könyveiben azokat nyilvántartásba vegye.”
-
-(2) A közúti közlekedésről szóló 1988. évi I. törvény 29. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Az állami tulajdonban álló ingatlanok tekintetében, az építési előkészítési munkák során az építtető által az építési tevékenység megvalósítása céljából kezdeményezett hatósági eljárásokban, valamint e törvény 32. § (1a) bekezdésében meghatározott hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.”
-
-128. § A közúti közlekedésről szóló 1988. évi I. törvény a következő 46/P. §-sal egészül ki:
-
-„46/P. § (1) A tájékozódást segítő jelzést megjelenítő reklámcélú eszköz 12. § (3c) bekezdése szerinti elhelyezése esetén, ha az elhelyezéshez kapott hozzájárulás időbeli hatálya az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében kihirdetett veszélyhelyzet idején járt le, a hozzájárulás és az azt tartalmazó szerződés időbeli hatálya e veszélyhelyzet megszűnéséig meghosszabbodik.
-
-(2) Az e törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény által megállapított 29. § (1g)–(1k) és (2b) bekezdésében foglaltakat a folyamatban lévő ügyekben is alkalmazni kell.”
+#### 128. §
 
 #### 21. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-129. § (1) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 3. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 129. §
 
-(A Mehib tevékenysége a következő biztosítási ágazatok piacképes és nem-piacképes kockázatú biztosításaira, viszontbiztosításaira, valamint az ezekhez kapcsolódó információszolgáltatásra terjed ki:)
+#### 130. §
 
-„c) különböző pénzügyi veszteségek, valamint”
-
-(2) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 3. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(A Mehib tevékenysége a következő biztosítási ágazatok piacképes és nem-piacképes kockázatú biztosításaira, viszontbiztosításaira, valamint az ezekhez kapcsolódó információszolgáltatásra terjed ki:)
-
-„d) az a)–c) pontba nem tartozó kárbiztosítások.”
-
-(3) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Mehib az (1a) bekezdés szerinti tevékenységeit exportirányú külkereskedelmi ügyletekhez, nemzetközi segélyügyletekhez, magyar befektetők külföldi befektetéseihez, illetve utazásszervezési szolgáltatást végző belföldi vállalkozás, külföldi vállalkozás belföldi fióktelepe vagy kereskedelmi képviselete Magyarországra történő utaztatási tevékenységéhez, valamint Magyarország ellátásbiztonságához kapcsolódóan jogosult végezni. A Mehib az e bekezdésben felsorolt tevékenységekből eredő deviza-árfolyamkockázatot elkülönülten is biztosíthatja.”
-
-(4) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 3. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A 6. § (2) bekezdés szerint állami készfizető kezesség a következő ügyletekhez kapcsolódhat:]
-
-„b) exporthitel biztosításnak nem minősülő biztosítási, illetve viszontbiztosítási fedezet nyújtása,
-
-ba) ha azok biztosítását, illetve viszontbiztosítását – ha az bejelentési kötelezettség alá esik – az Európai Bizottság az Európai Unió működéséről szóló szerződés 108. cikk (3) bekezdése szerinti bejelentési eljárásban jóváhagyta, illetve ez ellen nem emelt kifogást vagy
-
-bb) amelyet a Mehib Magyarország ellátásbiztonságához kapcsolódóan nyújt.”
-
-(5) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 3. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Nempiacképesnek minősülnek továbbá azok kockázatok, amelyek kockázatviselési ideje nem éri el a két évet és nem felelnek meg a (4) bekezdés b) pontjában szereplő feltételeknek, amennyiben azok exporthitel biztosítását, illetve viszontbiztosítását az Európai Bizottság az Európai Unió működéséről szóló szerződés 108. cikk (3) bekezdése szerinti bejelentési eljárásban jóváhagyta, illetve ez ellen nem emelt kifogást, továbbá a (3) bekezdés b) pont bb) alpontja szerinti ügyletek keretében vállalt kockázatok is.”
-
-(6) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 3. § (7) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A kereskedelmi típusú kockázatok körébe tartoznak azok a kockázatok, amelyek)
-
-„c) az exportcélú szerződés vevő általi jogalap nélküli felmondása vagy a szerződés tárgyát képező áruk, szolgáltatások átvételének megtagadása miatt”
-
-(7) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 3. § (7) bekezdése a következő d) ponttal egészül ki:
-
-(A kereskedelmi típusú kockázatok körébe tartoznak azok a kockázatok, amelyek)
-
-„d) az (1) bekezdés d) ponthoz kapcsolódó vagyoni károk kockázata miatt
-
-merülnek fel.”
-
-130. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 6. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Az állam a központi költségvetés terhére visszavonhatatlanul készfizető kezesként felel az Eximbank által)
-
-„d) nyújtott, a hitelfelvevőt terhelő, a Kormány határozatában megjelölt hitel- és pénzkölcsönből, valamint jegyzett vagy más jogcímen megszerzett, a kibocsátót terhelő, a Kormány határozatában megjelölt kötvényekből”
-
-(eredő fizetési kötelezettségek teljesítéséért.)
-
-131. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 7. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(A Magyarország központi költségvetéséről szóló törvényben meg kell határozni:)
-
-„f) a Kormány határozata alapján nyújtott hitel- és kölcsönállomány, valamint kötvényállomány felső határát.”
+#### 131. §
 
 #### 22.
 
@@ -913,50 +840,11 @@ merülnek fel.”
 
 #### 23. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-134. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. §-a a következő (1c) bekezdéssel egészül ki:
-
-„(1c) Felhatalmazást kap a Kormány, hogy az Európai Unió által biztosított forrásokból történő béremeléshez nyújtott központi költségvetési többletforrások felhasználásának céljából az intézményi szintű átlagos pedagógusilletmény-emelés mértékét, az arra jogosultak körét, végrehajtásának alapelveit, valamint az ahhoz kapcsolódó állami kiegészítő támogatás, igénylésének, folyósításának és felhasználásának részletszabályait rendeletben állapítsa meg.”
+#### 134. §
 
 #### 24. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-135. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény a következő 36/D. §-sal egészül ki:
-
-„36/D. § (1) E § alkalmazásában menekülő az Ukrajnában állandó lakóhellyel rendelkező és 2022. február 24-én vagy azt követően Ukrajnából érkező magyar állampolgár (a továbbiakban: ukrajnai magyar állampolgár), a menedékes és a menedékesként történő elismerését kérő.
-
-(2) A TAJ számmal nem rendelkező menekülő egészségügyi ellátása esetén az EESZT működtetője az adatok egységes rögzítése és folyamatos nyomonkövethetősége érdekében kezeli a számára az EESZT-ben létrehozott, 35/F. § (1) bekezdés a) pontja szerinti azonosítót (a továbbiakban: technikai azonosító). A technikai azonosítót az EESZT-ben úgy kell tárolni, hogy az megfeleljen az e törvényben foglalt követelményeknek.
-
-(3) A technikai azonosítót úgy kell kialakítani, és a menekülő adatait az EESZT-ben úgy kell rögzíteni, hogy a menekülő (6) bekezdés b)–e) pontja szerinti okmányazonosító adatai – azok változása esetén – folyamatosan nyomon követhetőek legyenek.
-
-(4) Az EESZT működtetője biztosítja, hogy ha a menekülő a technikai azonosító kialakítását megelőzően részesült Magyarországon ellátásban, az általa megadott adatok alapján a korábbi ellátásaira vonatkozó adatok a technikai azonosítóval is elérhetőek legyenek.
-
-(5) Az EESZT működtetője a technikai azonosító útján biztosítja, hogy a menekülő, ha időközben TAJ számot szerzett, az EESZT-ben a technikai azonosítóhoz tárolt adatait a TAJ száma útján is elérhesse.
-
-(6) Az EESZT működtetője a technikai azonosítóhoz kapcsoltan kezeli a menekülővel kapcsolatos következő adatokat:
-
-- a) azt a tényt, hogy az érintett menekülőnek minősül,
-- b) a menekültügyi hatóság által humanitárius célból kiállított tartózkodási engedély számát vagy a menekültügyi hatóság által kiállított „Adatlap humanitárius okból történő tartózkodási engedély hivatalból történő kiadásához” okirat számát,
-- c) a menekültügyi hatóság által kiállított tartózkodási engedély számát,
-- d) az ukrajnai magyar állampolgár részére a magyar hatóság által kiállított személyazonosító igazolványának, úti okmányának típusát, okmányazonosítóját,
-- e) az Ukrajna által kiállított úti okmányának okmányazonosítóját, típusát, valamint
-- f) az érintett természetes személyazonosító adatait.
-
-(7) Az egészségügyi szolgáltató és az EESZT működtetője a (6) bekezdés szerinti adatokat a menekülő egészségügyi ellátása érdekében, a 35/F. § (3) bekezdésben meghatározott ideig kezeli.
-
-(8) A technikai azonosítót – amelyet a menekülővel írásban, szükség esetén a betegdokumentációjával együtt közölni kell – kizárólag a menekülő, a menekülő meghatalmazottja vagy törvényes képviselője, a menekülőt ellátó egészségügyi szolgáltató, valamint a (9) bekezdésében megjelölt szerv vagy személy ismerheti meg.
-
-(9) A technikai azonosítót és a (6) bekezdés szerinti adatokat – törvényben meghatározott, az ezen adatok megismerésére jogosult szerveken vagy személyeken kívül –
-
-- a) az egészségügyi ellátás finanszírozása, valamint a menekülő felkutathatósága és ellenőrzése céljából a menekültügyi hatóság,
-- b) az egészségügyi ellátás finanszírozása céljából az egészségbiztosítási szerv, járványügyi feladatai ellátása céljából a járványügyi hatóság,
-- c) a közbiztonság fenntartása, valamint az országban tartózkodó menekülők felkutathatósága, ellenőrzése, valamint a rendvédelem biztosítása céljából a rendészetért felelős miniszter,
-- d) Magyarország katonai biztonságának megőrzése céljából a honvédelemért felelős miniszter,
-- e) nemzetbiztonsági feladatai ellátása céljából a polgári nemzetbiztonsági szolgálat
-
-megismerheti.
-
-(10) A (9) bekezdés szerinti szervek a (9) bekezdés szerinti adatokat – kivéve, ha törvény ettől eltérő határidőt határoz meg – az adatkezelési cél fennállásáig, de legfeljebb az adatok megismerését követő egy évig kezelik.
-
-(11) E §-ban foglaltak az ukrajnai válsággal összefüggő egyes, az egészségügyi ellátást érintő adatkezelési kérdésekről szóló 171/2022. (IV. 29.) Korm. rendelet alapján az EESZT-ben már rögzített adatokat nem érintik.”
+#### 135. §
 
 #### 25.
 
@@ -964,162 +852,45 @@ megismerheti.
 
 #### 26. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-137. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 47/C. §-a a következő (1c) bekezdéssel egészül ki:
-
-„(1c) Az (1) bekezdéstől eltérően a kereskedelemről szóló 2005. évi CLXIV. törvény 6/K. §-ában foglaltak megsértése esetén a fogyasztóvédelmi hatóság
-
-- a) a 6/K. § (1) bekezdése szerinti tájékoztatás hiánya esetén az érintett termékenként 1 000 000 forint,
-- b) a 6/K. § (3) bekezdése szerinti tájékoztatási kötelezettség megsértése esetén az érintett termékenként 1 000 000 forint,
-- c) a 6/K. § (4) bekezdése szerinti, a fogyasztóvédelmi hatóság felé fennálló tájékoztatási kötelezettség megsértése esetén, az érintett termékenként 1 000 000 forint
-
-bírságot szabhat ki.”
+#### 137. §
 
 #### 27. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
-138. § A közterület-felügyeletről szóló 1999. évi LXIII. törvény 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 138. §
 
-„(1) Jogszabály eltérő rendelkezése hiányában a felügyelő – az üzemben tartó értesítése mellett – elszállítással eltávolíthatja a közterületen szabálytalanul elhelyezett járművet, ha az a közúti forgalom biztonságát vagy a közbiztonságot veszélyezteti.”
-
-139. § A közterület-felügyeletről szóló 1999. évi LXIII. törvény a következő 20/A. §-sal egészül ki:
-
-„20/A. § (1) A Kormány által rendeletben meghatározott települések közigazgatási területén a 20. §-ban foglaltakat az e §-ban fogalt eltérésekkel kell alkalmazni.
-
-(2) Az e § szerinti hatósági feladatokat a Kormány által rendeletben kijelölt kormányhivatal (a továbbiakban: Hatóság) kizárólagos illetékesség látja el.
-
-(3) E § alkalmazásában az el nem kerített magánterület közterületnek minősül.
-
-(4) A Hatóság az (1) bekezdésben megjelölt területen fellelt olyan járművet,
-
-- a) amelyen hatósági jelzés nem található, és erre tekintettel a jármű a forgalomban nem vehet részt, vagy amely nem felel meg a gépkocsi fogalmának, és
-- b) amelyet valószínűsíthetően embercsempészés bűncselekmény megvalósításához elkövetési eszközként felhasználtak,
-
-elszállíttathatja.
-
-(5) A mezőőr, illetve a közterület-felügyelő értesíti a Hatóságot a (4) bekezdés szerinti feltételeknek megfelelő jármű észleléséről.
-
-(6) A (4) bekezdés szerinti feltételeknek megfelelő járművön a Hatóság értesítést helyez el, amely tartalmazza az (7) bekezdés szerinti jogkövetkezményre történő figyelmeztetést.
-
-(7) A (6) bekezdés szerinti értesítés elhelyezésétől számított 4 napot követően a Hatóság gondoskodik az érintett jármű elszállítással történő eltávolításáról.
-
-(8) A Hatóság az elszállított jármű alvázszámát – tájékoztatás céljából – a honlapján közzéteszi. Ha az elszállított járművön azonosítására alkalmas hatósági jelzés nem látható, az (5) bekezdés szerint eljáró hivatalos személy rendőri segítséggel felnyitja a járművet az alvázszám és motorszám megismerése céljából.
-
-(9) Ha az elszállított jármű tulajdonosa, illetve üzembentartója nem állapítható meg, vagy a felszólítás ellenére az elszállított járművet az elszállítástól számított három hónapon belül nem veszi birtokba, a Hatóság gondoskodik a jármű árverés útján történő értékesítéséről vagy más módon történő hasznosításáról. Ha az elszállított jármű tulajdonosa a jármű értékesítését követő kilenc hónapon belül jelentkezik, részére az értékesítésből befolyt, az elszállítás, valamint a tárolás költségeivel csökkentett ellenértéket ki kell fizetni.
-
-(10) Amennyiben a Hatóság az érintett járművet értékesíti, vagy más módon hasznosítja, az ebből származó – az elszállítás, valamint a tárolás költségeivel csökkentett – ellenérték a (9) bekezdés szerinti kilenc hónapos határidő leteltét követően a központi költségvetés bevételét képezi.
-
-(11) Az elszállítás és a tárolás költsége a jármű üzembentartóját terheli. Ha a gépjárművet az üzembentartó az (5) bekezdésben meghatározott észlelést megelőzően más természetes személy vagy nem természetes személy használatába adta, és ezt a használatba adó személy eredeti teljes bizonyító erejű magánokiratba foglalt, a (12) bekezdés szerinti adatokat tartalmazó nyilatkozatával igazolja, akkor az elszállítás és a tárolás költsége a használatba vevő személyt terheli.
-
-(12) A (11) bekezdés szerinti nyilatkozat tartalmazza
-
-- a) a gépjármű hatósági jelzését,
-- b) a természetes személy üzembentartó és használatba vevő személy nevét, születési idejét, születési helyét, lakcímét, nem természetes személy üzembentartó és használatba vevő személy esetén annak megnevezését és székhelyének (telephelyének) címét, valamint
-- c) azon időszak megjelölését, amelyre a gépjármű használatát a használatba vevő személy az üzembentartótól átvette.”
+#### 139. §
 
 #### 28. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-140. § A víziközlekedésről szóló 2000. évi XLII. törvény 78/A. §-a a következő (15)–(20) bekezdéssel egészül ki:
+#### 140. §
 
-„(15) Az (1)–(14) bekezdésben foglaltaktól eltérően a megvalósító szervezetként jogszabályban vagy kormányhatározatban kijelölt költségvetési szerv (e § alkalmazásában a továbbiakban: költségvetési szerv) tulajdonosi joggyakorlásába kerül az (1) bekezdés szerint létesítés, felújítás és fejlesztés érdekében szükséges,
-
-- a) a költségvetési szerv által megvásárolt, kisajátított vagy más jogcímen a magyar állam javára megszerzett földrészlet, valamint
-- b) állami tulajdonban álló ingatlan, vagy – a (16) bekezdés szerinti telekalakítási eljárást követően – annak a beruházással érintett, önálló ingatlanként kialakított területrésze.
-
-(16) Ha a beruházáshoz a (15) bekezdés b) pontja szerinti ingatlannak nem a teljes területe szükséges, a beruházással érintett területrész önálló ingatlanként történő kialakítására irányuló telekalakítási eljárás során a költségvetési szerv jár el.
-
-(17) A számviteli átadásról a korábbi tulajdonosi joggyakorló és a költségvetési szerv megállapodást köt, a (15) bekezdés b) pontja szerinti ingatlan esetében a költségvetési szerv megkeresését, a (16) bekezdés szerinti telekalakítás esetében a véglegessé vált ingatlan-nyilvántartási bejegyző határozat kézhezvételét követő 30 napon belül. A számviteli átadás könyv szerinti értéken történik.
-
-(18) A költségvetési szerv tulajdonosi joggyakorlása a fejlesztés keretében létrejött vagyonelem műszaki átadás-átvételének fordulónapját követően e törvény erejénél fogva megszűnik. A költségvetési szerv tulajdonosi joggyakorlásának megszűnését követően a vagyonelemeket az új tulajdonosi joggyakorló könyveiben és nyilvántartásában a költségvetési szerv által nyilvántartott – befejezetlen beruházás – könyv szerinti értéken kell feltüntetni.
-
-(19) A költségvetési szerv a tulajdonosi joggyakorlásának (18) bekezdés szerinti megszűnését követő hat hónapon belül elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket, ingatlanokat a megszűnés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a tulajdonosi joggyakorló vagy a tulajdonosi joggyakorló döntése alapján az új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
-
-(20) Az állami tulajdonban álló ingatlanok tekintetében, a beruházás előkészítése során a fejlesztési közreműködő által a beruházás megvalósítása céljából kezdeményezett hatósági eljárásokban, valamint a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott telekalakítási eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.”
-
-141. § A víziközlekedésről szóló 2000. évi XLII. törvény NYOLCADIK RÉSZE a következő 92. §-sal egészül ki:
-
-„92. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény által megállapított 78/A. § (15)–(20) bekezdésében foglaltakat az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+#### 141. §
 
 #### 29. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-142. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 22. §-a a következő (3a) bekezdéssel egészül ki:
+#### 142. §
 
-„(3a) A hatóság a (3) bekezdés a) pontjában foglaltakon túl – jogszabályban meghatározottak szerint – a megelőző feltárás keretében régészeti megfigyelést ír elő a földmunkával érintett terület vonatkozásában abban az esetben is, ha a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti 132 kV-os és annál nagyobb feszültségű vezetékkel vagy berendezéssel összefüggő nagyberuházás megvalósítása érdekében szükséges földmunka kizárólag légvezeték tartóoszlopa alapjának építésére vagy bővítésére irányul. Az örökségvédelmi hatóság e döntésének meghozatala során a nyilvántartási adatok és – ha rendelkezésre áll – az előzetes régészeti dokumentáció adatai, valamint a beruházás régészeti örökségre gyakorolt hatása alapján a védettségi fokozat figyelembevételével jár el.”
-
-143. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdésben foglaltaktól eltérően az előzetes régészeti dokumentációt nem kell elkészíteni, ha a nagyberuházás a Vet. szerinti 132 kV-os és annál nagyobb feszültségű vezeték vagy berendezés létesítésére és a megvalósítása érdekében szükséges földmunka kizárólag a légvezeték tartóoszlopának alapépítésére vagy bővítésére irányul.
-
-(1b) Ha a Vet. szerinti 132 kV-os és annál nagyobb feszültségű vezetékkel vagy berendezéssel összefüggő nagyberuházásának megvalósítása érdekében szükséges földmunka kizárólag légvezeték tartóoszlopa alapjának építésére vagy bővítésére irányul, a kivitelezés során a földmunkákkal érintett területen régészeti megfigyelést kell biztosítani.”
+#### 143. §
 
 #### 30. A társasházakról szóló 2003. évi CXXXIII. törvény módosítása
 
-144. § A társasházakról szóló 2003. évi CXXXIII. törvény „A közös tulajdonnal kapcsolatos jogok és kötelezettségek” alcíme a következő 25/A. §-sal egészül ki:
+#### 144. §
 
-„25/A. § (1) A közös tulajdonban álló épületrészre napkollektor, napelemes rendszer (a továbbiakban együtt: napenergiát hasznosító rendszer) létesítésének elhatározását, a telepítés és üzemeltetés részletszabályait, a csatlakozás feltételeit, a telepítés és üzemeltetés költségeinek és hasznainak megosztását legkésőbb a telepítés megkezdéséig, a közgyűlés – a jelen lévő tulajdonostársak tulajdoni hányada alapján számított egyszerű szavazattöbbségével meghozott – határozatában kell rögzíteni.
-
-(2) Napkollektor a távhőszolgáltató által ellátott épületen akkor telepíthető, ha a szolgáltatási területével érintett távhőszolgáltató a telepítést és a tervezett műszaki tartalmat írásban jóváhagyja.
-
-(3) A külön tulajdonban álló lakás vagy nem lakás céljára szolgáló helyiség energiaellátása érdekében napenergiát hasznosító rendszer a közös tulajdonban álló épületrészre csak akkor telepíthető, ha az a közös költség csökkentése érdekében telepítendő napenergiát hasznosító rendszer felhelyezését nem lehetetlenítené el.
-
-(4) Ha a legfeljebb hatlakásos társasházközösségre a 13. § (3) bekezdésében foglaltak alapján a Ptk. közös tulajdonra vonatkozó szabályait kell alkalmazni, az (1)–(3) bekezdés szerinti döntést a tulajdonostársak hozzák meg.”
-
-145. § A társasházakról szóló 2003. évi CXXXIII. törvény 38. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A közgyűlésen a tulajdonostárs a jogait személyes megjelenés helyett elektronikus hírközlő eszközök igénybevételével akkor gyakorolhatja, ha a szervezeti-működési szabályzat az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a résztvevők azonosítása, és a résztvevők közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.”
+#### 145. §
 
 #### 31. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-146. § A kereskedelemről szóló 2005. évi CLXIV. törvény a 6/J. §-t követően a következő alcím címmel és 6/K. §-sal egészül ki:
+#### 146. §
 
-### „Kiszereléscsökkentés
+#### 147. §
 
-6/K. § (1) Ha egy adott termék 2020. január 1. és 2024. február 1. között a gyártó által gyártottakhoz képest új, kisebb – így különösen kisebb tömegű vagy térfogatú – kiszerelési egység kerül forgalomba hozatalra, a kereskedő köteles a termék kereskedő általi, üzletben vagy bevásárlóközpontban történő forgalmazásának megkezdésétől számított 2 hónapig az érintett termék kapcsán feltüntetni a kiszerelés változására utaló és a kereskedelemért felelős miniszter által meghatározott tartalmú és formájú figyelemfelhívó tájékoztatást.
-
-(2) Nem köteles a kereskedő az (1) bekezdés szerinti tájékoztatást kihelyezni abban az esetben, ha az új, kisebb kiszerelési egység gyártó általi bevezetésére a korábbi kiszerelési egységek 6 hónapon belül történő kivezetése nélkül kerül sor, és a korábbi kiszerelési egységeket a kereskedő továbbra is forgalmazza.
-
-(3) A kereskedő az (1) bekezdés szerinti kötelezettségének teljesítése érdekében magyarországi gyártás esetén a gyártó, ettől eltérő esetben az első magyarországi forgalomba hozó, valamint a nagykereskedő köteles – az érintett termék kereskedő részére történő első értékesítése alkalmával – a termék kísérő dokumentációjában vagy más módon írásban a kereskedő részére megfelelő tartalmú tájékoztatást nyújtani a termék kiszerelésének csökkenéséről és a korábbi kiszerelési egységek esetleges kivezetéséről.
-
-(4) Magyarországi gyártás esetén a gyártó, ettől eltérő esetben az első magyarországi forgalomba hozó, valamint a nagykereskedő a (3) bekezdés szerinti tájékoztatási kötelezettségének első alkalommal történő teljesítésével egyidejűleg köteles a kereskedő részére nyújtott tájékoztatással megegyező tartalommal tájékoztatást nyújtani a fogyasztóvédelmi hatóság részére.
-
-(5) A fogyasztóvédelmi hatóság honlapján nyilvánosan elérhető tájékoztató adatbázist hoz létre és működtet az e § szerinti tájékoztatási kötelezettségekkel érintett termékekről.
-
-(6) E § alkalmazásában
-
-- 1. kereskedő: a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszerében, azaz a TEÁOR’25-ben „47.11 – Élelmiszer jellegű vegyes kiskereskedelem” megjelöléssel feltüntetett tevékenységet főtevékenységként folytató kereskedő, akinek a tárgyévet megelőző lezárt üzleti évben a 2. § 9. pontja szerinti kereskedelmi tevékenységből származó, konszolidált nettó árbevétele meghaladja az 1 milliárd forintot;
-- 2. termék: minden kiskereskedelmi forgalomba kerülő, az előrecsomagolt termékek névleges mennyiségére vonatkozó szabályok megállapításáról és azok ellenőrzési módszereiről szóló miniszteri rendelet szerinti előrecsomagolt termék, amelyet a kereskedő egy vagy több méretkategóriában egységes megjelenésű kiszerelésben forgalmaz, azzal, hogy a kiszerelési egységek számától és azok méretének változásától függetlenül az azonos árut tartalmazó kiszerelési egységek egy terméknek minősülnek;
-- 3. gyártó: az a természetes vagy jogi személy, aki vagy amely terméket gyárt, vagy terméket terveztet vagy gyártat, és az adott terméket saját neve vagy védjegye alatt kis- vagy nagykereskedelemben forgalmazza.”
-
-147. § A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (2) bekezdése a következő b) ponttal egészül ki:
-
-(Felhatalmazást kap a kereskedelemért felelős miniszter, hogy)
-
-„b) 6/K. § (1) bekezdése szerinti tájékoztatás formáját és tartalmát”
-
-(rendeletben állapítsa meg.)
-
-148. § A kereskedelemről szóló 2005. évi CLXIV. törvény 9. § (2) bekezdésében a „valamint a 6. § (2) bekezdés b) pontjában foglalt” szövegrész helyébe az „a 6. § (2) bekezdés b) pontjában, valamint a 6/K. §-ban foglalt” szöveg lép.
+#### 148. §
 
 #### 32. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-149. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 44/A. §-a a következő (1a)–(1f) bekezdéssel egészül ki:
+#### 149. §
 
-„(1a) Az (1) bekezdésben foglaltaktól eltérően a fejlesztési közreműködőként jogszabályban kijelölt költségvetési szerv (e § alkalmazásában a továbbiakban: költségvetési szerv) tulajdonosi joggyakorlásába kerül a 44. § (3) bekezdés szerinti közérdekű és közcélú tevékenység folytatása érdekében szükséges,
-
-- a) a költségvetési szerv által megvásárolt, kisajátított vagy más jogcímen a magyar állam javára megszerzett földrészlet, valamint
-- b) állami tulajdonban álló ingatlan, vagy – az (1b) bekezdés szerinti telekalakítási eljárást követően – annak a beruházással érintett, önálló ingatlanként kialakított területrésze.
-
-(1b) Ha a beruházáshoz az (1a) bekezdés b) pontja szerinti ingatlannak nem a teljes területe szükséges, a beruházással érintett területrész önálló ingatlanként történő kialakítására irányuló telekalakítási eljárás során a költségvetési szerv jár el.
-
-(1c) A számviteli átadásról a korábbi tulajdonosi joggyakorló és a költségvetési szerv megállapodást köt, az (1a) bekezdés b) pontja szerinti ingatlan esetében a költségvetési szerv megkeresését, az (1b) bekezdés szerinti telekalakítás esetében a véglegessé vált ingatlan-nyilvántartási bejegyző határozat kézhezvételét követő 30 napon belül. A számviteli átadás könyv szerinti értéken történik.
-
-(1d) A költségvetési szerv tulajdonosi joggyakorlása a fejlesztés keretében létrejött vagyonelem és a beruházással érintett ingatlan tekintetében az átadás-átvétel fordulónapján e törvény erejénél fogva megszűnik. A költségvetési szerv tulajdonosi joggyakorlásának megszűnését követően a vagyonelemeket az új tulajdonosi joggyakorló könyveiben és nyilvántartásában a költségvetési szerv által nyilvántartott – befejezetlen beruházás – könyv szerinti értéken kell feltüntetni.
-
-(1e) A költségvetési szerv a tulajdonosi joggyakorlásának (1d) bekezdés szerinti megszűnését követő hat hónapon belül elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket, ingatlanokat a megszűnés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a tulajdonosi joggyakorló vagy a tulajdonosi joggyakorló döntése alapján az új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
-
-(1f) Az állami tulajdonban álló ingatlanok tekintetében, a beruházás előkészítése során a fejlesztési közreműködő által a beruházás megvalósítása céljából kezdeményezett hatósági eljárásokban, valamint a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott telekalakítási eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.”
-
-150. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény „ÁTMENETI RENDELKEZÉSEK” alcíme a következő 87/J. §-sal egészül ki:
-
-„87/J. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény által megállapított 44/A. § (1a)–(1f) bekezdésében foglaltakat az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+#### 150. §
 
 #### 33.
 
@@ -1191,156 +962,59 @@ elszállíttathatja.
 
 #### 36. A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény módosítása
 
-182. § A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény 10. § 1. pontja helyébe a következő rendelkezés lép:
-
-(E fejezet alkalmazásában)
-
-„1. energiaellátó:
-
-1.1. a szénhidrogén-kitermelési tevékenységet végző, a bányászatról szóló törvény szerinti bányavállalkozó,
-
-1.2. a kőolajtermék-előállító, a kőolajtermékkel a kereskedelemről szóló törvény szerinti nagykereskedelmi tevékenységet végző kereskedő és az a kőolajterméket értékesítő kereskedő, amely az általa külföldről beszerzett kőolajterméket Magyarországon értékesíti,
-
-1.3. a földgázellátásról szóló törvény szerinti földgáz-kereskedelmi engedélyes,
-
-1.4. a villamos energiáról szóló törvény szerinti villamosenergia-kereskedelmi engedélyes,
-
-1.5. a villamos energiáról szóló törvény szerinti termelői engedélyes, kivéve a villamos energia kötelező átvételi rendszerében értékesítő termelők, továbbá az 50 MW beépített teljesítőképességet meg nem haladó teljesítőképességű prémium típusú támogatásban részesülő termelők – ideértve mindkét esetben a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energiát csak részben a kötelező átvételi rendszerben értékesítő termelőt, a prémium típusú támogatási rendszerben részesülő termelőt – termelői engedélyese,
-
-1.6. a villamos energiáról szóló törvény szerinti egyetemes szolgáltató,
-
-1.7. a villamos energiáról szóló törvény szerinti elosztói engedélyes,
-
-1.8. a földgázellátásról szóló törvény szerinti egyetemes szolgáltató,
-
-1.9. a földgázellátásról szóló törvény szerinti elosztói engedélyes,”
+#### 182. §
 
 #### 37. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-183. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 27. §-a a következő (3) bekezdéssel egészül ki:
+#### 183. §
 
-„(3) Természetvédelmi rendeltetésű, őshonos fafajokból álló, mageredetű természetes felújulásra nem képes erdőben – annak sarjeredetű természetes felújítása esetén – az erdőterv szerinti tarvágás a Tvt. 33. § (5) bekezdés a) pontjában meghatározott térmértékig végezhető.”
+#### 184. §
 
-184. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény
-
-- a) 10. § (2) bekezdés záró szövegrészében az „a (3) bekezdésben és” szövegrész helyébe az „az 51. § (5) és (5a) bekezdés szerinti felújítás érdekében szükséges tarvágás, valamint” szöveg,
-- b) 41. § (1) bekezdés záró szövegrészében a „21” szövegrész helyébe a „14” szöveg
-
-lép.
-
-185. § Hatályát veszti az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 51. § (6) bekezdése.
+#### 185. §
 
 #### 38. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-186. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 13. §-a a következő (11) és (12) bekezdéssel egészül ki:
+#### 186. §
 
-„(11) Az (5)–(6a) és (9) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+#### 187. §
 
-(12) A (11) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (6) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a politikai felsővezetőt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (6) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.”
-
-187. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 75. §-a a következő (1) bekezdéssel egészül ki:
-
-„(1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 13. § (11) bekezdése szerinti ellenőrző szervet.”
-
-188. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény „Átmeneti rendelkezések” alcíme a következő 92/A. §-sal egészül ki:
-
-„92/A. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított 13. § (11) és (12) bekezdését az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+#### 188. §
 
 #### 39. A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosítása
 
-189. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 2. alcíme a következő 3/A. §-sal egészül ki:
+#### 189. §
 
-„3/A. § A 4. § (1) bekezdése szerinti bizottság döntése alapján az Alap kiadási előirányzatainak terhére nyújtott költségvetési támogatásból megvalósuló támogatott tevékenység eredeti céljától eltérően a költségvetési támogatás más, az Alapnak e törvényben meghatározott, az Alap céljaival összefüggő támogatott tevékenység megvalósítására is felhasználható a támogatási szerződés vagy a támogatói okirat ilyen irányú módosításával.”
+#### 190. §
 
-190. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 7. alcíme a következő 28. §-sal egészül ki:
-
-„28. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel (a továbbiakban: Módtv1.) megállapított 3/A. §-át a Módtv1. hatálybalépésekor folyamatban lévő kihelyezett támogatásokkal összefüggő eljárásokban is alkalmazni kell.”
-
-191. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 18. § (1) bekezdés a) pontjában az „a vezetendő” szövegrész helyébe az „a támogatási szerződés eredeti támogatási céljának módosítására vonatkozó szabályokat, a vezetendő” szöveg lép.
+#### 191. §
 
 #### 40. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-192. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény a következő 27/A. §-sal egészül ki:
+#### 192. §
 
-„27/A. § (1) A 27. §-tól eltérően, ha az Nkt. 89/B. § (1) bekezdése alapján a köznevelési intézmény működése veszélyeztetett, és az Nkt. 89/B. § (1) bekezdése szerinti körülmény az országos nemzetiségi önkormányzat tekintetében áll fent, a veszélyeztetettségének időtartama alatt, ha jogszabály az országos nemzetiségi önkormányzat részére valamely döntés meghozatalánál a köznevelési feladatellátással kapcsolatos ügyben – ide nem értve az Nkt. 89/B. § (4) bekezdése alapján a tankerületi központ által gyakorolt fenntartói jogköröket – egyetértési vagy véleményezési jogot biztosít, a nyilatkozat megtételére 8 nap áll rendelkezésre. A határidő eredménytelen eltelte esetén az országos nemzetiségi önkormányzatot egyetértőnek kell tekinteni.
+#### 193. §
 
-(2) A 27. §-tól eltérően, ha az Nkt. 89/B. § (1) bekezdése alapján a köznevelési intézmény működése veszélyeztetett, és az Nkt. 89/B. § (1) bekezdése szerinti körülmény helyi nemzetiségi önkormányzat tekintetében áll fent, a veszélyeztetettségének időtartama alatt, ha jogszabály az érintett nemzetiségi önkormányzat részére valamely döntés meghozatalánál a köznevelési feladatellátással kapcsolatos ügyben – ide nem értve az Nkt. 89/B. § (4) bekezdése alapján a tankerületi központ által gyakorolt fenntartói jogköröket – egyetértési vagy véleményezési jogot biztosít, a nyilatkozatot az országos nemzetiségi önkormányzat teszi meg.”
-
-193. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény „Átmeneti rendelkezések” alcíme a következő 168. §-sal egészül ki:
-
-„168. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény (a továbbiakban: Módtv4.) által megállapított 27/A. §-át azon köznevelési intézmény tekintetében is alkalmazni kell, amely működésének veszélyeztetettsége a Módtv4. hatálybalépésekor fennáll.”
-
-194. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény
-
-- a) 22. § (5) bekezdésében a „törvény” szövegrész helyébe a „2011. évi CXC. törvény (a továbbiakban: Nkt.)” szöveg,
-- b) 56. § (2) bekezdésében az „a nemzeti köznevelésről szóló 2011. évi CXC. törvény” szövegrész helyébe az „az Nkt.” szöveg,
-- c) 158. §-ában a „159–167. §” szövegrész helyébe a „159–168. §” szöveg
-
-lép.
+#### 194. §
 
 #### 41. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-195. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 50. alcíme a következő 89/B. és 89/C. §-sal egészül ki:
+#### 195. §
 
-„89/B. § (1) Ha a 2. § (3) bekezdés b) pont ba) alpontjában meghatározott fenntartó (e § alkalmazásában a továbbiakban: fenntartó) végrehajtási eljárás alatt áll, és emiatt a fenntartó által fenntartott köznevelési intézmény (e § alkalmazásában a továbbiakban: köznevelési intézmény) működése veszélyeztetett, akkor a köznevelésért felelős miniszter döntése alapján
+#### 196. §
 
-- a) a kincstár fenntartó székhelye szerinti illetékes igazgatósága a központi költségvetésről szóló törvény szerint igényelhető – a nem állami köznevelési tevékenységhez kapcsolódó – állami támogatásokat,
-- b) a központi költségvetésről szóló törvény szerinti energiaár-kompenzációhoz és bérkompenzációhoz kapcsolódó állami támogatásokat, illetve
-- c) a fenntartó részére a köznevelési intézményekre tekintettel megállapított egyéb, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti támogatásokat
-
-a fenntartó helyett, közvetlenül az annak fenntartásában működő köznevelési intézmény kincstárnál vezetett számlájára is folyósíthatja (a továbbiakban: finanszírozási eljárás).
-
-(2) A köznevelésért felelős miniszter intézkedik a köznevelési intézmény kincstári számlájának megnyitása iránt.
-
-(3) A köznevelési intézmény tekintetében az e törvény szerinti fenntartói jogokat és az Áht. szerinti irányítói jogokat – ide nem értve az intézmény fenntartói jogának átadását, az intézmény átalakítását, megszüntetését és átszervezését – az (1) bekezdés szerinti veszélyeztetettség fennállásának időtartama alatt a feladatellátási hely szerinti tankerületi központ gyakorolja, azzal, hogy az érintett intézmény nem minősül állami fenntartású köznevelési intézménynek.
-
-(4) A köznevelési intézménynek a költségvetés tervezésével, az előirányzatok módosításának, átcsoportosításának és felhasználásának végrehajtásával, a finanszírozási, adatszolgáltatási, beszámolási és a pénzügyi, számviteli rend betartásával összefüggő feladatait a veszélyeztetettség fennállásának időtartama alatt a feladatellátási hely szerint illetékes tankerületi központ látja el.
-
-(5) A köznevelésért felelős miniszter az (1) bekezdés szerinti veszélyeztetettség fennállását folyamatosan vizsgálja. Ha az (1) bekezdés szerinti feltétel már nem áll fenn, a veszélyeztetettség fennállásának megszűnéséről a köznevelésért felelős miniszter haladéktalanul értesíti a fenntartót, a kincstárt, az oktatási központot és az illetékes tankerületi központot.
-
-(6) A kincstár az (5) bekezdés szerinti értesítés kézbesítését követő tárgyhó 1. napjától megszünteti a finanszírozási eljárást, és a központi költségvetésről szóló törvény általános szabályai szerint folytatja az állami támogatások kifizetését. A veszélyeztetettség fennállásának megszűnéséről szóló értesítést követően a fenntartó gyakorolja az e törvényben meghatározott valamennyi fenntartói jogot és az Áht. szerinti irányítói jogokat.
-
-89/C. § A Kormány a köznevelési intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében rendeletben további finanszírozást állapíthat meg.”
-
-196. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdése a következő e) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„e) a köznevelési intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozást,”
-
-(rendeletben állapítsa meg.)
-
-(2) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdése a következő q) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„q) az Európai Unió által biztosított forrásokból történő béremeléshez nyújtott központi költségvetési többletforrások felhasználásának céljából az intézményi szintű átlagos pedagógusilletmény-emelés mértékét, az arra jogosultak körét, végrehajtásának alapelveit, valamint az ahhoz kapcsolódó állami kiegészítő támogatás, igénylésének, folyósításának és felhasználásának részletszabályait,”
-
-(rendeletben állapítsa meg.)
-
-197. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény a következő 99/C. §-sal egészül ki:
-
-„99/C. § (1) E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény (a továbbiakban: Módtv.) által megállapított 89/B. §-át azon köznevelési intézmény tekintetében is alkalmazni kell, amely működésének veszélyeztetettsége a Módtv. hatálybalépésekor fennáll.
-
-(2) E törvénynek a Módtv. által megállapított 89/B. §-ának hatálybalépését megelőzően a fenntartó részére folyósított – nem állami köznevelési tevékenységhez kapcsolódó – állami támogatások terhére a végrehajtási eljárás keretében érvényesített összeg nem minősül az Áht. 53/A. §-a szerinti jogosulatlan igénybevételnek.”
+#### 197. §
 
 #### 42. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-198. § Hatályát veszti a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 13. § (4) bekezdés d) pontja.
+#### 198. §
 
 #### 43. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-199. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/S. §-sal egészül ki:
-
-„111/S. § Az 52/A. § (1) bekezdése szerinti határidő hosszabbítást azzal az eltéréssel kell alkalmazni, hogy a Kormány egyedi határozata alapján a 14. § (3) bekezdése szerinti fejezet terhére nyújtott fejlesztési célú támogatásokkal összefüggő, 2022. június 1. napján fennálló, 650 000 000 forintot elérő vagy azt meghaladó összegű támogatási jogviszonyok esetén a támogatásra irányadó végső felhasználási határidő a kedvezményezett kérelmére, a támogató egyedi mérlegelése alapján legfeljebb 2026. december 31-ig hosszabbítható meg. E rendelkezés az 52/A. § (3) bekezdése szerinti határidő-hosszabbítástól függetlenül alkalmazható.”
+#### 199. §
 
 #### 44. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-200. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 8. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdéstől eltérően az ellátásért felelős jóváhagyásával az állami beruházásokért felelős miniszter, költségvetési szerv, valamint a beruházó is megvalósíthat víziközmű létrehozására irányuló beruházást olyan módon is, hogy az ahhoz szükséges víziközmű rendszer vagy annak a beruházással érintett eleme megállapodás alapján biztosított az állam részére.
-
-(1b) Az (1) bekezdés szerinti víziközmű létrehozására irányuló beruházásra a víziközmű-fejlesztésre vonatkozó rendelkezéseket kell alkalmazni, azzal, hogy az állami beruházásokért felelős miniszter, költségvetési szerv, valamint a beruházó a víziközmű tulajdonjogát a víziközmű üzembe helyezésének időpontjában az ellátásért felelősre ruházza át.”
+#### 200. §
 
 #### 45.
 
@@ -1348,17 +1022,7 @@ a fenntartó helyett, közvetlenül az annak fenntartásában működő közneve
 
 #### 46. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
-202. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 34. §-a helyébe a következő rendelkezés lép:
-
-„34. § (1) A 32. § (1) bekezdése és a 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, ha az üzemeltető, a légi jármű üzembentartó vagy a hajózási társaság a jelentési és hitelesítési kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig nem jogosult kibocsátási egységek átruházására és kiosztására.
-
-(2) Az (1) bekezdés szerinti esetben a hatóság kezdeményezi az üzemeltető, a légi jármű üzembentartó vagy a hajózási társaság forgalmi jegyzékbeli számlájának felfüggesztését. A felfüggesztést a jegyzékkezelő akkor oldja fel, ha az (1) bekezdés szerinti kötelezettségszegések már nem állnak fenn.
-
-(3) Az üzemeltető a kibocsátási egységek kiosztására akkor is jogosult, ha a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget. Az így kiosztott kibocsátási egységeket köteles a fennálló, kibocsátási egységek visszaadására irányuló kötelezettségének teljesítésére felhasználni.
-
-(4) A visszaadás elmulasztása esetén a hatóság felfüggeszti az üzemeltető, légi jármű üzembentartó vagy hajózási társaság forgalmi jegyzékbeli számláját. A felfüggesztést a jegyzékkezelő akkor oldja fel, ha az előírt kibocsátási egység visszaadásra kerül.
-
-(5) A 32. § (1) bekezdése és a 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, ha az üzemeltető, légi jármű üzembentartó vagy hajózási társaság a jelentési vagy hitelesítési kötelezettségének, vagy a kibocsátási egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltető, légi jármű üzembentartó vagy hajózási társaság nevét és a kötelességszegés tényét honlapján nyilvánosságra hozza.”
+#### 202. §
 
 #### 47.
 
@@ -1380,25 +1044,17 @@ a fenntartó helyett, közvetlenül az annak fenntartásában működő közneve
 
 #### 49. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-210. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény „Átmeneti rendelkezések” alcíme a következő 197/F. §-sal egészül ki:
-
-„197/F. § Az 5. § (1) bekezdés e) pontjától eltérően 2025. december 30. napjáig közbeszerzési eljárás lefolytatására az a jogképes szervezet kötelezett, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az 5. § (1) bekezdés a)–f) pontjában meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza.”
+#### 210. §
 
 #### 50. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosítása
 
-211. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 58. §-a a következő (34) bekezdéssel egészül ki:
-
-„(34) A tartós külszolgálati kihelyezés előtt álló kormánytisztviselő 11. § (2) bekezdés szerinti felkészítésének időtartama – a kihelyező vezető egyedi döntése alapján – legfeljebb a 11. § (2) bekezdése szerinti időtartammal meghosszabbítható.”
+#### 211. §
 
 #### 51. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
 
-212. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+#### 212. §
 
-„(5) Az állam a (4) bekezdésben foglalt feladatokat költségvetési szerv vagy a Magyar Turisztikai Ügynökség Zrt. útján látja el, azzal, hogy a Magyar Turisztikai Ügynökség Zrt. a (4) bekezdés d) pontjában foglalt feladatokat a Kormánynak az e törvény felhatalmazása alapján kiadott rendeletében (a továbbiakban: rendelet) meghatározottak esetén a 4. § (1) és (1a) bekezdése szerinti gazdasági társaságok útján látja el.”
-
-213. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 4. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) Az (1) bekezdésben foglalt feladatokat költségvetési szerv is elláthatja.”
+#### 213. §
 
 #### 52.
 
@@ -1410,159 +1066,55 @@ a fenntartó helyett, közvetlenül az annak fenntartásában működő közneve
 
 #### 53. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-217. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 13/B. §-a a következő (9)–(12) bekezdéssel egészül ki:
+#### 217. §
 
-„(9) A miniszterelnök nemzetbiztonsági főtanácsadója – át nem ruházható hatáskörben – az (5) bekezdés szerinti szervezeti egységhez tartozó álláshelyen foglalkoztatott kormánytisztviselő részére az álláshely besorolási kategóriája szerinti illetménysáv felső határánál magasabb illetményt is megállapíthat.
+#### 218. §
 
-(10) A (9) bekezdés szerinti illetmény bármely álláshelyen megállapítható, függetlenül annak besorolásától. A (9) bekezdés szerinti illetmény visszavonásig érvényes, azzal, hogy azt évente – február utolsó napjáig – felül kell vizsgálni.
+#### 219. §
 
-(11) A (9) bekezdés alapján megállapított havi illetmény tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozóan nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+#### 220. §
 
-(12) A (9) bekezdés szerinti illetmény visszavonása esetén az érintett kormánytisztviselő illetményét meg kell állapítani a 123. § és 265. § szerint.”
+#### 221. §
 
-218. § (1) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 112. §-a a következő (13a) bekezdéssel egészül ki:
+#### 222. §
 
-„(13a) A (12) bekezdés b) pontjában foglaltaktól eltérően nem kell a végkielégítést visszafizetni, ha az új jogviszony annak érdekében jön létre, hogy az érintett személy népszámlálással kapcsolatos feladatok ellátásában számlálóbiztosként vegyen részt. Ha az érintett már visszafizette a végkielégítést, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (14) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.”
+#### 223. §
 
-(2) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 112. § (14) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 224. §
 
-(A kormánytisztviselő köteles haladéktalanul tájékoztatni)
-
-„c) az őt korábban foglalkoztató kormányzati igazgatási szervet a (13) és (13a) bekezdés szerinti feltétel teljesüléséről.”
-
-(3) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 112. §-a a következő (15) és (16) bekezdéssel egészül ki:
-
-„(15) A (12)–(14) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
-
-(16) A (15) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, a (12) bekezdés b) pontja szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a kormánytisztviselőt a kormányzati szolgálati jogviszony megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, a (12) bekezdés b) pontja szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.”
-
-219. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 210. §-a a következő (14) és (15) bekezdéssel egészül ki:
-
-„(14) Az (5)–(13) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
-
-(15) A (14) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a főispánt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.”
-
-220. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 232. §-a a következő (9) és (10) bekezdéssel egészül ki:
-
-„(9) A (3)–(8) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
-
-(10) A (9) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, az (5) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a közigazgatási államtitkárt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, az (5) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.”
-
-221. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 233. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A közigazgatási államtitkár felmentése esetén a 232. § (4)–(10) bekezdését alkalmazni kell azzal, hogy
-
-- a) lemondási idő alatt a (2) és (3) bekezdés szerinti felmentési időt,
-- b) a lemondási időre járó illetmény alatt az a) pont szerinti felmentési időre járó illetményt
-
-kell érteni.”
-
-222. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 239. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A helyettes államtitkár lemondása esetén a 232. § (4)–(10) bekezdését alkalmazni kell azzal, hogy
-
-- a) közigazgatási államtitkár alatt helyettes államtitkárt,
-- b) lemondási idő alatt a (2) és (3) bekezdés szerinti időtartamot,
-- c) lemondási időre járó illetmény alatt a b) pont szerinti lemondási időre járó illetményt
-
-kell érteni.”
-
-223. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 240. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A helyettes államtitkár felmentése esetén a 232. § (4)–(10) bekezdését alkalmazni kell azzal, hogy
-
-- a) közigazgatási államtitkár alatt helyettes államtitkárt,
-- b) lemondási idő alatt a 233. § (2) és (3) bekezdése szerinti időtartamot,
-- c) lemondási időre járó illetmény alatt a b) pont szerinti felmentési időre járó illetményt
-
-kell érteni.”
-
-224. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. §-a a következő (17) bekezdéssel egészül ki:
-
-„(17) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 112. § (15) bekezdése, a 210. § (14) bekezdése és a 232. § (9) bekezdése szerinti ellenőrző szervet.”
-
-225. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény a következő 300/E. §-sal egészül ki:
-
-#### „300/E. § [Átmeneti rendelkezés az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvényhez]
-
-Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított
-
-- a) 112. § (13a) bekezdését 2022. május 27. napjától,
-- b) 112. § (15) és (16) bekezdését, 210. § (14) és (15) bekezdését az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is
-
-alkalmazni kell.”
+#### 225. §
 
 #### 54. A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény módosítása
 
-226. § A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 26. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az ökológiai hálózat ökológiai folyosójának övezetében külfejtéses művelésű bányatelek létesítése, a meglévő külfejtéses művelésű bányatelek horizontális bővítése csak az ország más területén fel nem lelhető ásványi nyersanyag esetében, a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerinti hatásvizsgálat alapján lehetséges. A meglévő külfejtéses művelésű bányatelek horizontális bővítésével a bányatelek eredeti mérete (felszíni vetülete) nem változhat. Az övezetben új célkitermelőhely nem létesíthető.”
+#### 226. §
 
 #### 55. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény módosítása
 
-227. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 14. alcíme a következő 43. §-sal egészül ki:
+#### 227. §
 
-„43. § (1) A pilóta nélküli légijárművel végrehajtott támadás vagy jogosulatlan megfigyelés elleni védelem biztosítása érdekében a Kormány rendeletében meghatározottak szerint kijelölt szervnek, gazdasági társaságnak, illetve annak meghatározott létesítményének a Kormány rendeletében meghatározottak szerint beszerzett, telepített és folyamatosan üzemeltetett pilóta nélküli légijármű-védelmi rendszert kell üzemben tartania.
+#### 228. §
 
-(2) A Kormány rendeletében kijelölt szerv látja el a pilóta nélküli légijármű elleni védelem – (1) bekezdés szerinti pilóta nélküli légijármű-védelmi rendszer útján történő – biztosítását.”
-
-228. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. §-a a következő 11. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
-
-„11. a pilóta nélküli légijármű-védelmi rendszer üzemben tartására kötelezettek kijelölésére, a rendszer beszerzésére, telepítésére és üzemeltetésére vonatkozó részletes szabályokat.”
-
-229. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 43. alcíme a következő 83/B. §-sal egészül ki:
-
-„83/B. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a pilóta nélküli légijármű elleni védelem – 43. § (1) bekezdése szerinti pilóta nélküli légijármű-védelmi rendszer útján történő – biztosítására jogosult szervet.”
+#### 229. §
 
 #### 56. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény módosítása
 
-230. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/B. §-a a következő (4) és (5) bekezdéssel egészül ki:
+#### 230. §
 
-„(4) A Kormány döntése esetén a Magyar Honvédség külföldi alkalmazásával, állomásozásával vagy csapatmozgásával érintett állam területén Magyarország képviseletében eljáró magyar delegáció tagjának személyvédelmét – a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) felhatalmazása alapján kiadott kormányrendeletben meghatározott védett személyek külföldi utazásai kivételével – a Magyar Honvédség látja el.
+#### 231. §
 
-(5) A Magyar Honvédség a honvédelemért felelős miniszter fenyegetettség-értékelésen alapuló döntése esetén az Rtv. szerinti együttműködési, adatkezelési és intézkedési jogköröket is gyakorolva jár el a (4) bekezdés szerinti feladat végrehajtása során.”
-
-231. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés m) és n) pontja helyébe a következő rendelkezések lépnek:
-
-(A Honvédség a következő feladatokat fegyverhasználati joggal látja el:)
-
-„m) közreműködés a Kormány döntése alapján a veszélyhelyzettel, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban,
-
-n) a 6/B. § (2) és (4) bekezdése szerinti feladat végrehajtása a hatályos nemzetközi normák betartásával.”
-
-232. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 62. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Az 59. § (1) bekezdés szerinti közreműködői feladatra vezényelt honvéd – e törvény rendelkezéseitől eltérően –]
-
-„a) az Rtv. 29–33. §-ában, 35–35/B. §-ában, 37. § a), c) és e) pontjában, továbbá 42. és 43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint”
+#### 232. §
 
 #### 57. Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény módosítása
 
-233. § Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény 6. alcíme a következő 8/A. §-sal egészül ki:
+#### 233. §
 
-„8/A. § A 7. és 8. § szerinti földterület juttatás keretében történő termőföldszerzés – az illetékekről szóló 1990. évi XCIII. törvény 18. §-ától eltérően – mentes a visszterhes vagyonátruházási illeték alól.”
+#### 234. §
 
-234. § Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény 10. §-a helyébe a következő rendelkezés lép:
-
-„10. § A 6–8. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.”
-
-235. § Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény 7. alcíme a következő 11. §-sal egészül ki:
-
-„11. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel (a továbbiakban: Módtv.) megállapított 8/A. §-át a Módtv. hatálybalépésekor az állami adóhatóság által véglegesen el nem bírált illetékügyekben is alkalmazni kell.”
+#### 235. §
 
 #### 58. A veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény módosítása
 
-236. § A veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény
-
-- a) 14. § (17) bekezdésében a „vezetőjét” szövegrész helyébe az „igazgatóját” szöveg és a „közalkalmazottak” szövegrész helyébe a „köznevelési foglalkoztatotti jogviszonyban állók” szöveg,
-- b) 14. § (18) bekezdésében az „intézményvezető” szövegrész helyébe az „igazgató” szöveg,
-- c) 14. § (19) bekezdésében az „intézményvezető” szövegrész helyébe az „igazgató” szöveg,
-- d) 14. § (20) bekezdésében az „intézményvezető” szövegrész helyébe az „igazgató” szöveg, a „közalkalmazottat” szövegrész helyébe a „köznevelési foglalkoztatotti jogviszonyban állót” szöveg és a „közalkalmazott” szövegrész helyébe a „köznevelési foglalkoztatotti jogviszonyban álló” szöveg,
-- e) 15. §-ában a „közalkalmazottal” szövegrész helyébe a „köznevelési foglalkoztatotti jogviszonyban állóval” szöveg
-
-lép.
+#### 236. §
 
 #### 59.
 
@@ -1572,119 +1124,23 @@ lép.
 
 #### 60. A magyar építészetről szóló 2023. évi C. törvény módosítása
 
-239. § A magyar építészetről szóló 2023. évi C. törvény 16. §-a a következő 114a. és 114b. ponttal egészül ki:
+#### 239. §
 
-(E törvény alkalmazásában:)
+#### 240. §
 
-„114a. stratégiai jelentőségű építési anyag: az építésgazdaságért felelős miniszter rendeletében megjelölt jelentős építési alapanyagok és építési termékek összessége, amelyek a hazai építésgazdaság ellátásbiztonsága érdekében nélkülözhetetlenek;
+#### 241. §
 
-114b. stratégiai jelentőségű építési anyagot gyártó üzem: építmény vagy terület vagy ezek összessége, ahol ipari méretekben állítanak elő stratégiai jelentőségű építési anyagokat, különböző gyártási folyamatok és gyártási technológia segítségével, és amely a gyártási tevékenységhez a jogszabályban meghatározott jogi és műszaki feltételek alapján engedéllyel rendelkezik vagy ezen feltételek szerint a gyártási tevékenységre alkalmassá tehető;”
+#### 242. §
 
-240. § A magyar építészetről szóló 2023. évi C. törvény 75. §-a a következő (3a) bekezdéssel egészül ki:
+#### 243. §
 
-„(3a) A (3) bekezdés szerinti véleményezés és egyeztető tárgyalás elektronikus úton is lefolytatható.”
+#### 244. §
 
-241. § A magyar építészetről szóló 2023. évi C. törvény 169. §-a a következő (4) bekezdéssel egészül ki:
+#### 245. §
 
-„(4) A (3) bekezdésétől eltérően nincs helye különös környezetvédelmi, közlekedési és településfejlesztési szakkérdés vizsgálatának az (1) bekezdés szerinti építésügyi hatósági engedélyezési eljárás során, ha a bővítés kizárólag a hulladékról szóló törvény szerinti kötelező visszaváltási díjas rendszerbe tartozó, kormányrendeletben meghatározott termékek visszaváltását biztosító visszaváltó berendezés elhelyezését biztosítja.”
+#### 246. §
 
-242. § (1) A magyar építészetről szóló 2023. évi C. törvény 194. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – az (1) bekezdés szerinti jogszabályban kijelölhető az eljáró fővárosi és vármegyei kormányhivatal azzal, hogy az önkormányzati rendelet közcélú kiemelt beruházás megvalósításával ellentétes vagy össze nem egyeztethető előírásait nem kell alkalmazni.”
-
-(2) A magyar építészetről szóló 2023. évi C. törvény 194. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Az ügyintézési határidő a (2a) bekezdés szerinti nyilatkozatok kiadására irányuló eljárás esetén nyolc nap.”
-
-243. § (1) A magyar építészetről szóló 2023. évi C. törvény 202. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdésben foglaltak érdekében az építésgazdasági intézkedésre okot adó állapot bekövetkezésének megítéléséhez kormányrendeletben meghatározott részletszabályok szerint]
-
-„c) annak érdekében, hogy a Magyarországon képződött építési-bontási hulladékok – különös tekintettel a fémhulladékokra – hasznosítása elsősorban Magyarország területén valósuljon meg, az újrafeldolgozó és az értékesítő köteles az építésgazdaságért felelős miniszter részére adatokat szolgáltatni.”
-
-(2) A magyar építészetről szóló 2023. évi C. törvény 202. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A magyar államot, vagy más – kormányrendeletben erre feljogosított – szervet, szervezetet a stratégiai jelentőségű építési anyagok tekintetében elővásárlási jog illeti meg jogszabályban meghatározott esetekben és feltételekkel, amennyiben a stratégiai jelentőségű építési anyag hazai felhasználása jogszabályban megjelölt közfeladat ellátásához, közszolgáltatás nyújtásához vagy közérdekű cél megvalósításához továbbá közbiztonság megteremtéséhez szükséges.”
-
-244. § A magyar építészetről szóló 2023. évi C. törvény a következő 202/A–202/C. §-sal egészül ki:
-
-#### „202/A. § [Stratégiai jelentőségű építési anyag kivitele]
-
-(1) A stratégiai jelentőségű építési anyag adásvételi szerződés alapján Magyarország területéről történő kivitelét be kell jelenteni az építésgazdaságért felelős miniszternek. A stratégiai jelentőségű építési anyag a bejelentés tudomásulvételének visszaigazolását követően vihető ki az országból.
-
-(2) A Magyarország területén, tranzitforgalom keretében átszállított stratégiai jelentőségű építési anyagra nem kell alkalmazni az (1) bekezdés szerinti bejelentési kötelezettséget és a 202. § (4) bekezdése szerinti elővásárlási jogot.
-
-(3) Ha a stratégiai jelentőségű építési anyag kivitele a Magyarország területén kívül megvalósított, diplomáciai célú ingatlanokon végzett beruházáshoz vagy diplomáciai tevékenységhez kapcsolódik, a bejelentésnek tartalmaznia kell az erre vonatkozó nyilatkozatot.
-
-(4) Ha a (3) bekezdésben foglaltak céljából kerül sor a stratégiai jelentőségű építési anyag kivitelére, az építésgazdaságért felelős miniszter a bejelentésről nem nyilatkozik, a magyar állam elővásárlási jogot nem gyakorol.
-
-#### 202/B. § [Stratégiai jelentőségű építési anyag kivitelének bejelentésére vonatkozó szabályok]
-
-(1) A bejelentést a stratégiai jelentőségű építési anyagra vonatkozó érvényes adásvételi szerződés létrejötte napját követő naptól számított öt napon belül, magyar nyelven kell megtenni az építésgazdaságért felelős miniszter által működtetett honlapon közzétett formanyomtatványon.
-
-(2) A bejelentés tartalmazza
-
-- a) a bejelentő természetes személy vagy egyéni vállalkozó
-  - aa) természetes személyazonosító adatait, lakcímadatait, adóazonosító számát,
-  - ab) állampolgárságát,
-  - ac) elektronikus kapcsolattartásra szolgáló elérhetőségét és
-  - ad) fizetési számlaszámát,
-- b) a bejelentő jogi személy, jogi személyiséggel nem rendelkező szervezet vagy egyéb szervezet
-  - ba) nevét, székhelyét, adószámát, és – fióktelep esetén annak címét – cégjegyzékszámát, ennek hiányában egyéb, az azonosítást szolgáló nyilvántartási számát,
-  - bb) hivatalos nyilvántartásával kapcsolatos feladatokat ellátó állam megjelölését,
-  - bc) elektronikus és postai kapcsolattartásra szolgáló elérhetőségét és
-  - bd) fizetési számlaszámát,
-- c) a stratégiai jelentőségű építési anyag
-  - ca) 8 számjegyű vámtarifaszámát, jogszabály szerinti mennyiségi mutatóit és egyéb jellemzőit,
-  - cb) az adásvételi szerződésben forintban vagy külföldi pénznemben meghatározott értékesítési árát,
-  - cc) kivitel előtti tárolási helyének pontos címét,
-- d) a címzett nevét, címét és adószámát, ahová a stratégiai jelentőségű építési anyag kiszállításra kerül, valamint
-- e) az adásvételi szerződésben meghatározott stratégiai jelentőségű építési anyag birtokbaadásának időpontját és a kivitelének tervezett időszakát.
-
-(3) A bejelentéshez mellékelni kell a stratégiai jelentőségű építési anyag országhatáron kívülre történő kivitele esetén
-
-- a) az adásvételi szerződést és – ha az rendelkezésre áll – a dolog ellenértékéről kiállított számlát, valamint
-- b) a szállításról szóló megállapodást, illetve egyéb, országhatáron kívülre történő kiszállítást igazoló okiratot, ha a szerződés a szállításról külön nem rendelkezik.
-
-(4) A (3) bekezdésben meghatározott okiratok idegen nyelven történő kiállítása esetén azok magyar nyelvű fordítását is csatolni kell a bejelentéshez.
-
-(5) A bejelentés díj- és költségmentes.
-
-(6) A bejelentésre – az e §-ban foglalt eltérésekkel – megfelelően alkalmazni kell az általános közigazgatási rendtartásról szóló törvénynek a nyelvhasználatra, a tolmács igénybevételére, az adatkezelésre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, a döntés formájára és közlésére, az ellenőrzésre, a hivatalbóli eljárásra, az eljárási költségekre, továbbá a végrehajtásra vonatkozó rendelkezéseit, azzal, hogy az általános közigazgatási rendtartásról szóló törvény ügyfélre vonatkozó rendelkezéseit a bejelentőre is alkalmazni kell.
-
-#### 202/C. § [Stratégiai jelentőségű építési anyag kivitele bejelentésének vizsgálata]
-
-(1) Az építésgazdaságért felelős miniszter a bejelentést a bejelentés beérkezésének napját követő harminc napon belül megvizsgálja, és nyilatkozatot tesz az elővásárlási jog gyakorlásáról.
-
-(2) Az építésgazdaságért felelős miniszter a bejelentés beérkezését követő tíz napon belül a bejelentést elutasítja, ha a bejelentés hibás vagy hiányos.
-
-(3) A stratégiai jelentőségű építési anyagra vonatkozó érvényesen létrejött adásvételi szerződés napját megelőző kiviteli rendelkezés vagy az elővásárlási jogvesztő határidőn belüli kiviteli rendelkezés érvénytelen szerződéses rendelkezésnek minősül.
-
-(4) Az építésgazdaságért felelős miniszter a bejelentés beérkezésének napját követő harminc napos jogvesztő határidőn belül nyilatkozik, hogy élni kíván-e elővásárlási jogával a magyar állam nevében.
-
-(5) Ha az építésgazdaságért felelős miniszter az elővásárlási jogának gyakorlása során a szerződésben az adásvétel lényeges elemeinek ismeretében a jogvesztő határidőn belül nem tesz a bejelentőhöz vagy a dolog tulajdonosához címzett jognyilatkozatot, a jognyilatkozat elmaradását az elővásárlási jogról való lemondásának kell tekinteni.
-
-(6) Ha az adásvételi szerződés a stratégiai jelentőségű építési anyagra vagy több stratégiai jelentőségű építési anyagra vonatkozó vételárát több külföldi pénznemben és forintban is megjelölte, akkor az átutalást egységesen forintban kell teljesíteni.
-
-(7) A magyar állam tulajdonába kerülő stratégiai jelentőségű építési anyagra érvényesíthető szavatossági igény teljesítésére a bejelentő köteles az elővásárlási jognyilatkozat keltezésének vagy a jogügyletre megkötött adásvételi szerződés keltezésének figyelembevételével.”
-
-245. § (1) A magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 64. és 65. pontja helyébe a következő rendelkezések lépnek:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„64. az építésgazdasági intézkedésre okot adó állapot kihirdetését, az építési alapanyagok körének megállapítását, továbbá a hasznosított építési-bontási hulladékok kapcsán az újrafeldolgozó és az értékesítő által szolgáltatandó adatokra vonatkozó részletes szabályait,
-
-65. a stratégiai jelentőségű építési anyagot gyártó üzem értékesítése, továbbá a stratégiai jelentőségű építési anyag kivitele esetén a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait,”
-
-(2) A magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdése a következő i) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„i) a közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – jogosult szerv kijelölését.”
-
-246. § A magyar építészetről szóló 2023. évi C. törvény 194. § (1) bekezdésében a „díjmentes használatának” szövegrész helyébe a „díjmentes, külön engedély vagy hozzájárulás nélküli használatának” szöveg lép.
-
-247. § Hatályát veszti a magyar építészetről szóló 2023. évi C. törvény 202. § (3) bekezdés b) pontja.
+#### 247. §
 
 #### 61.
 
@@ -1692,56 +1148,7 @@ lép.
 
 #### 62. Egyes veszélyhelyzeti kormányrendeletek hatályon kívül helyezése
 
-249. § (1) Hatályát veszti
-
-- 1. a gazdaság újraindítása érdekében meghozandó, az építőipari ellátásbiztonság szempontjából stratégiai jelentőségű nyersanyagok és termékek kivitelével kapcsolatos regisztrációs eljárásról és egyéb intézkedésekről szóló 402/2021. (VII. 8.) Korm. rendelet,
-- 2. a gazdaság újraindítása érdekében fizetendő kiegészítő bányajáradékról szóló 404/2021. (VII. 8.) Korm. rendelet,
-- 3. az ideiglenes védelemre jogosultként elismert személyekkel kapcsolatos veszélyhelyzeti szabályokról, továbbá a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény szabályainak eltérő alkalmazásáról szóló 86/2022. (III. 7.) Korm. rendelet,
-- 4. a veszélyhelyzet ideje alatt a szomszédos országban fennálló humanitárius katasztrófára tekintettel érkező személyek elhelyezésének támogatásáról és az azzal kapcsolatos egyéb intézkedésekről szóló 104/2022. (III. 12.) Korm. rendelet,
-- 5. a veszélyhelyzet ideje alatt szomszédos országban fennálló humanitárius katasztrófára tekintettel, az ideiglenes védelemre jogosultként elismert személyek foglalkoztatásával és juttatásaival kapcsolatos egyes szabályokról, valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet módosításáról szóló 106/2022. (III. 12.) Korm. rendelet 2. és 4. alcíme,
-- 6. az ukrajnai válsággal összefüggő egyes, az egészségügyi ellátást érintő adatkezelési kérdésekről szóló 171/2022. (IV. 29.) Korm. rendelet,
-- 7. a politikai szolgálati jogviszonyt és a kormányzati szolgálati jogviszonyt érintő egyes veszélyhelyzeti szabályokról szóló 185/2022. (V. 26.) Korm. rendelet,
-- 8. a sajtótermékek terjesztésének veszélyhelyzeti szabályairól szóló 210/2022. (VI. 14.) Korm. rendelet,
-- 9. a veszélyhelyzet alatt az ukrán állampolgárok egyes társadalombiztosítási ellátásainak egyszerűsítéséről szóló 246/2022. (VII. 8.) Korm. rendelet,
-- 10. a veszélyhelyzet ideje alatt egyes külszolgálattal kapcsolatos eltérő rendelkezésekről szóló 272/2022. (VII. 29.) Korm. rendelet,
-- 11. a veszélyhelyzet ideje alatt a tűzifaigények biztosításához szükséges eltérő szabályok alkalmazásáról szóló 287/2022. (VIII. 4.) Korm. rendelet,
-- 12. a veszélyhelyzet ideje alatt a társasházakról szóló 2003. évi CXXXIII. törvénnyel kapcsolatos egyes rendelkezésekről szóló 293/2022. (VIII. 9.) Korm. rendelet,
-- 13. a köznevelési és szakképző intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozásról szóló 299/2022. (VIII. 9.) Korm. rendelet,
-- 14. az egyes önkormányzati támogatásokkal kapcsolatos államháztartási szabályok veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 478/2022. (XI. 24.) Korm. rendelet,
-- 15. az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 525/2022. (XII. 16.) Korm. rendelet,
-- 16. egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet,
-- 17. az egyes közlekedési tárgyú törvények veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 574/2022. (XII. 23.) Korm. rendelet,
-- 18. a nemzetgazdaság részére ásványi-nyersanyagellátás biztosítása érdekében egyes törvényi és kormányrendeleti szabályoknak veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 627/2022. (XII. 30.) Korm. rendelet,
-- 19. a veszélyhelyzet során a személytaxi-szolgáltatás hatósági árának megállapításával kapcsolatos eltérő rendelkezésekről szóló 14/2023. (I. 25.) Korm. rendelet,
-- 20. a villamosenergetikai beruházások előkészítésével és megvalósításával összefüggő szabályok veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 22/2023. (I. 31.) Korm. rendelet,
-- 21. a veszélyhelyzet ideje alatt egyes szervezetek működésére vonatkozó, továbbá egyes közigazgatási eljárási szabályok megállapításáról szóló 146/2023. (IV. 27.) Korm. rendelet,
-- 22. az árfigyelő rendszer létrehozásáról és működéséről szóló 163/2023. (V. 8.) Korm. rendelet,
-- 23. a bányászatról szóló 1993. évi XLVIII. törvény egyes szabályainak veszélyhelyzetben történő eltérő alkalmazásáról szóló 178/2023. (V. 12.) Korm. rendelet,
-- 24. a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 233/2023. (VI. 8.) Korm. rendelet,
-- 25. az egyes államháztartási szabályoknak a veszélyhelyzet ideje alatt a Bethlen Gábor Alappal összefüggésben történő eltérő alkalmazásáról szóló 234/2023. (VI. 16.) Korm. rendelet,
-- 26. a Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló, 2014. március 28-án kelt megállapodás módosításáról szóló 2. számú jegyzőkönyv kihirdetéséről szóló 311/2023. (VII. 14.) Korm. rendelet,
-- 27. a jelentős térítésmentes kibocsátásiegység-kiosztásban részesülő létesítmény üzemeltetőjét érintő egyes veszélyhelyzeti szabályokról szóló 320/2023. (VII. 17.) Korm. rendelet,
-- 28. a kisajátításról szóló 2007. évi CXXIII. törvény eltérő alkalmazásáról szóló 362/2023. (VII. 31.) Korm. rendelet,
-- 29. az egyes köznevelési intézmények veszélyhelyzeti működési rendjéről szóló 367/2023. (VIII. 3.) Korm. rendelet,
-- 30. a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 400/2023. (VIII. 24.) Korm. rendelet,
-- 31. a déli határnál található elhagyatott járművekkel kapcsolatos intézkedésekről szóló 503/2023. (XI. 15.) Korm. rendelet,
-- 32. a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvénynek a veszélyhelyzet ideje alatt a személyvédelemmel összefüggő eltérő alkalmazásáról szóló 521/2023. (XI. 30.) Korm. rendelet,
-- 33. az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra vonatkozó szabályoknak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 523/2023. (XI. 30.) Korm. rendelet,
-- 34. az illetékekről szóló 1990. évi XCIII. törvény rendelkezéseinek az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény szerinti földterület-juttatás vonatkozásában történő eltérő alkalmazásáról szóló 603/2023. (XII. 22.) Korm. rendelet,
-- 35. a tanárbéremeléshez szükséges központi költségvetési támogatás veszélyhelyzeti szabályairól szóló 662/2023. (XII. 29.) Korm. rendelet,
-- 36. az élelmiszer-infláció csökkentése érdekében szükséges intézkedésekről szóló 1/2024. (I. 9.) Korm. rendelet,
-- 37. a tanárbéremeléshez szükséges egyes veszélyhelyzeti rendelkezésekről szóló 4/2024. (I. 18.) Korm. rendelet,
-- 38. a rozsdaövezeti akcióterületekhez kapcsolódó veszélyhelyzeti szabályokról szóló 20/2024. (II. 8.) Korm. rendelet,
-- 39. a kormányzati szolgálati jogviszonyt érintő egyes veszélyhelyzeti szabályokról szóló 58/2024. (III. 13.) Korm. rendelet,
-- 40. a lejárt okmányok érvényességi idejének veszélyhelyzettel összefüggő rendezéséről szóló 125/2024. (VI. 14.) Korm. rendelet,
-- 41. a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény veszélyhelyzetben történő eltérő alkalmazásáról szóló 232/2024. (VII. 31.) Korm. rendelet,
-- 42. a közszolgáltatások ellenértékének rendezésével kapcsolatos szabályokról szóló 254/2024. (VIII. 22.) Korm. rendelet,
-- 43. a végrehajtási kérdésekről szóló 264/2024. (VIII. 29.) Korm. rendelet,
-- 44. a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény veszélyhelyzet ideje alatti eltérő szabályairól szóló 307/2024. (X. 24.) Korm. rendelet,
-- 45. a menekültügyi eljárás átmeneti szabályainak alkalmazhatóságáról szóló 361/2024. (XI. 28.) Korm. rendelet,
-- 46. a közbeszerzésekről szóló 2015. évi CXLIII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 25/2025. (II. 27.) Korm. rendelet,
-- 47. a pilóta nélküli légijármű-védelem veszélyhelyzeti intézkedéseiről és a védelemmel összefüggő együttműködés rendjéről szóló 33/2025. (III. 5.) Korm. rendelet,
-- 48. az iparbiztonsági veszélyt, valamint a fenyegető környezetkárosodást megelőző intézkedések veszélyhelyzeti szabályairól szóló 35/2025. (III. 5.) Korm. rendelet.
+249. § (1)
 
 (2)
 
