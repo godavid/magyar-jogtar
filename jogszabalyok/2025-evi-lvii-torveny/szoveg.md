@@ -110,7 +110,7 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 
 37. § (1)
 
-(2) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. melléklete a 2. melléklet szerint módosul.
+(2)
 
 #### 38. §
 
@@ -119,7 +119,7 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 - a)
 - b)
 - c)
-- d) 1. mellékletében foglalt táblázat 3. sora,
+- d)
 - e)
 
 #### 11. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
@@ -209,17 +209,5 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 ### 1. melléklet a 2025. évi LVII. törvényhez
 
 ### 2. melléklet a 2025. évi LVII. törvényhez
-
-- 1. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében foglalt táblázat a következő 12a. sorral egészül ki:
-
-|  | (A | B | C) |
-| --- | --- | --- | --- |
-
-„
-
-| 1a |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
-| --- | --- | --- | --- |
-
-”
 
 ### 3. melléklet a 2025. évi LVII. törvényhez

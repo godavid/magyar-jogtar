@@ -1768,15 +1768,15 @@ kezeli.
 
 (8) A 94. § (1)–(2) bekezdése, illetve a (3)–(6) bekezdés szerinti támogatások nem nyújthatók az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (4) bekezdés b) pontja, az (5)–(6) bekezdése szerint nehéz helyzetben lévő vállalkozások, továbbá olyan vállalkozások részére, amelyekkel szemben érvényben van teljesítetlen visszafizetési felszólítás olyan korábbi bizottsági határozat nyomán, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított.
 
-(9) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1) bekezdése szerinti adó-visszaigénylés mértéke nem haladhatja meg éves szinten a szállítás összköltségének harminc százalékát, továbbá a közúti szállításhoz képest felmerülő externálisköltség-megtakarítás ötven százalékát.
+(9) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1)–(1a) bekezdése szerinti adó-visszaigénylés mértéke nem haladhatja meg éves szinten a szállítás összköltségének harminc százalékát, továbbá a közúti szállításhoz képest felmerülő externálisköltség-megtakarítás ötven százalékát.
 
-(10) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1) bekezdése szerinti adó-visszaigénylés azonos elszámolható költségek vonatkozásában nem halmozható más, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatással.
+(10) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1)–(1a) bekezdése szerinti adó-visszaigénylés azonos elszámolható költségek vonatkozásában nem halmozható más, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatással.
 
-(11) Amennyiben a 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1) bekezdése szerinti adó-visszaigénylés mértéke éves szinten meghaladja a (9) bekezdés szerinti határértéket, a visszaigényelt adó határértékeket meghaladó részét visszafizetni, valamint a mentesség határértékeket meghaladóan igénybe vett részét az adózó köteles megfizetni az állami adó- és vámhatóságnak.
+(11) Amennyiben a 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1)–(1a) bekezdése szerinti adó-visszaigénylés mértéke éves szinten meghaladja a (9) bekezdés szerinti határértéket, a visszaigényelt adó határértékeket meghaladó részét visszafizetni, valamint a mentesség határértékeket meghaladóan igénybe vett részét az adózó köteles megfizetni az állami adó- és vámhatóságnak.
 
 (12) A (9) bekezdés szerinti költségek megállapításának, a határértékeket meghaladóan visszaigényelt adó visszafizetésének, valamint a határértékeket meghaladóan igénybe vett mentesülés megfizetésének módját a végrehajtási rendelet szabályozza.
 
-(13) A 112. § (1) bekezdés b) pontja és a 113. § (1) bekezdése szerinti támogatások nem nyújthatók olyan vállalkozás részére, amely nem tett eleget az Európai Bizottság valamely korábbi támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánító, és annak visszatérítését elrendelő határozatának.
+(13) A 112. § (1) bekezdés b) pontja és a 113. § (1)–(1a) bekezdése szerinti támogatások nem nyújthatók olyan vállalkozás részére, amely nem tett eleget az Európai Bizottság valamely korábbi támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánító, és annak visszatérítését elrendelő határozatának.
 
 ### IX. Fejezet — ELLENŐRZÉS ÉS JOGKÖVETKEZMÉNYEK
 
@@ -2115,6 +2115,8 @@ használ fel.
 #### 74. Közlekedéshez kapcsolódó adó-visszaigénylés
 
 113. § (1) A vasúti közlekedésről szóló törvény szerinti vasúti személyszállítási vagy vasúti árutovábbítási tevékenységet végző személy jogosult az e tevékenységéhez, valamint az e tevékenységhez kapcsolódóan végzett vasúti vontatáshoz, tolatáshoz felhasznált gázolaj adójának visszaigénylésére.
+
+(1a) A vasúti közlekedésről szóló törvény szerinti vasúti árutovábbítási tevékenységet végző személy jogosult az e tevékenységéhez, valamint az e tevékenységhez kapcsolódóan végzett vasúti vontatáshoz, tolatáshoz felhasznált villamos energia adójának visszaigénylésére.
 
 (2) Az üzemben tartóként nyilvántartott személy jogosult a víziközlekedésről szóló törvény szerinti úszómunkagépben felhasznált gázolaj adójából literenként 103 forint visszaigénylésére.
 
