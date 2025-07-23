@@ -196,32 +196,41 @@ törekszik a hulladékképződés megelőzésére.
 - d) a panaszkezelésnek az adott tevékenység, kereskedelmi forma vagy módszer sajátosságaihoz igazodó módjáról, valamint
 - e) a panaszok közlése érdekében a vállalkozás vagy a vállalkozás 17/B. § szerinti ügyfélszolgálatának levelezési címéről és – ha a panaszokat ilyen módon is fogadja – elektronikus levelezési címéről, illetve internetes címéről, telefonszámáról.
 
-(1a) A tájékoztatásnak fogyasztói jogvita esetén ki kell terjednie a fogyasztó lakóhelye vagy tartózkodási helye szerint illetékes békéltető testületekhez való fordulás lehetőségére, valamint tartalmaznia kell a békéltető testület székhelyét, telefonos elérhetőségét, internetes elérhetőségét és levelezési címét. A békéltető testületekről történő tájékoztatási kötelezettséget világosan, érthetően és könnyen elérhető módon kell teljesíteni, internetes honlappal rendelkező vállalkozás esetén a honlapon, honlap hiányában az általános szerződési feltételekben, általános szerződési feltételek hiányában pedig külön formanyomtatványon. Üzlettel rendelkező vállalkozás esetén az e bekezdés és az (1) bekezdés szerinti tájékoztatást jól láthatóan és olvashatóan kell megadni.
+(1a) A tájékoztatásnak fogyasztói jogvita esetén ki kell terjednie a fogyasztó lakóhelye, tartózkodási helye vagy székhelye szerint illetékes békéltető testületekhez való fordulás lehetőségére, valamint tartalmaznia kell a békéltető testület székhelyét, telefonos elérhetőségét, internetes elérhetőségét és levelezési címét. A békéltető testületekről történő tájékoztatási kötelezettséget világosan, érthetően és könnyen elérhető módon kell teljesíteni, internetes honlappal rendelkező vállalkozás esetén a honlapon, honlap hiányában az általános szerződési feltételekben, általános szerződési feltételek hiányában pedig külön formanyomtatványon. Üzlettel rendelkező vállalkozás esetén az e bekezdés és az (1) bekezdés szerinti tájékoztatást jól láthatóan és olvashatóan kell megadni.
 
 (2) A fogyasztó szóban vagy írásban közölheti panaszát a vállalkozással.
 
-(3) A szóbeli panaszt azonnal meg kell vizsgálni, és szükség szerint orvosolni kell. Ha a fogyasztó a panasz kezelésével nem ért egyet, vagy a panasz azonnali kivizsgálása nem lehetséges, a vállalkozás a panaszról és az azzal kapcsolatos álláspontjáról haladéktalanul köteles jegyzőkönyvet felvenni, és annak egy másolati példányát
+(3) A vállalkozás a szóbeli panaszt azonnal megvizsgálja és szükség szerint orvosolja.
 
-- a) személyesen közölt szóbeli panasz esetén helyben a fogyasztónak átadni,
-- b) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén a fogyasztónak legkésőbb a (6) bekezdésben foglalt érdemi válasszal egyidejűleg megküldeni, egyebekben pedig az írásbeli panaszra vonatkozóan a (6) bekezdésben írtak szerint köteles eljárni.
+(3a) Ha a fogyasztó a panasz kezelésével nem ért egyet, vagy a panasz azonnali kivizsgálása nem lehetséges, a vállalkozás a panaszról és az azzal kapcsolatos álláspontjáról haladéktalanul jegyzőkönyvet vesz fel, és a (6) bekezdésben foglaltak szerint jár el.
+
+(3b) A vállalkozás a (3a) bekezdés szerinti jegyzőkönyv egy másolati példányát a fogyasztónak
+
+- a) személyesen közölt szóbeli panasz esetén helyben átadja,
+- b) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén – az (5a) bekezdésben foglalt kivétellel – legkésőbb a (6) bekezdésben foglalt érdemi válasszal egyidejűleg megküldi.
 
 (4) A telefonon vagy elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panaszt a vállalkozás köteles egyedi azonosítószámmal ellátni.
 
 (5) A panaszról felvett jegyzőkönyvnek tartalmaznia kell az alábbiakat:
 
-- a) a fogyasztó neve, lakcíme,
+- a) a fogyasztó neve, lakcíme vagy elektronikus levelezési címe,
 - b) a panasz előterjesztésének helye, ideje, módja,
 - c) a fogyasztó panaszának részletes leírása, a fogyasztó által bemutatott iratok, dokumentumok és egyéb bizonyítékok jegyzéke,
 - d) a vállalkozás nyilatkozata a fogyasztó panaszával kapcsolatos álláspontjáról, amennyiben a panasz azonnali kivizsgálása lehetséges,
 - e) a jegyzőkönyvet felvevő személy és – telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz kivételével – a fogyasztó aláírása,
 - f) a jegyzőkönyv felvételének helye, ideje,
-- g) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén a panasz egyedi azonosítószáma.
+- g) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén a panasz egyedi azonosítószáma, és
+- h) az (5a) bekezdésben foglaltakra vonatkozó figyelmeztetés.
+
+(5a) Ha a fogyasztó a jegyzőkönyv felvétele során az (5) bekezdés a) és c) pontjában foglalt adatokat nem adja meg, vagy a jegyzőkönyv (5) bekezdés e) pontja szerinti aláírását megtagadja, a vállalkozás a szóbeli panasz elintézése során a (6) bekezdésben foglaltak alkalmazását mellőzi.
 
 (6) Az írásbeli panaszt a vállalkozás – ha az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik – a beérkezését követően harminc napon belül köteles írásban érdemben igazolható módon megválaszolni és intézkedni annak közlése iránt. Ennél rövidebb határidőt jogszabály, hosszabb határidőt törvény állapíthat meg. A panaszt elutasító álláspontját a vállalkozás indokolni köteles.
 
-(7) A vállalkozás a panaszról felvett jegyzőkönyvet és a válasz másolati példányát három évig köteles megőrizni, és azt az ellenőrző hatóságoknak kérésükre bemutatni.
+(6a) Ha a vállalkozás az írásbeli panasz bejelentésére elektronikus felületet, űrlapot biztosít, köteles a fogyasztó által megadott elektronikus levelezési címen az írásbeli panasz beérkezését haladéktalanul visszaigazolni.
 
-(8) A panasz elutasítása esetén a vállalkozás köteles a fogyasztót írásban tájékoztatni arról, hogy panaszával – annak jellege szerint – mely hatóság vagy békéltető testület eljárását kezdeményezheti. A tájékoztatásnak tartalmaznia kell továbbá az illetékes hatóság, illetve a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét. A tájékoztatásnak arra is ki kell terjednie, hogy a vállalkozás tett-e a 36/C. § (1) bekezdése szerinti általános alávetési nyilatkozatot.
+(7) A vállalkozás a szóbeli panaszról felvett jegyzőkönyvet vagy az írásbeli panaszt, továbbá a panaszra adott érdemi válaszának másolati példányát három évig köteles megőrizni, és azt az ellenőrző hatóság felhívására bemutatni.
+
+(8) A panasz elutasítása esetén a vállalkozás köteles a fogyasztót írásban tájékoztatni arról, hogy panaszával – annak jellege szerint – mely hatóság vagy békéltető testület eljárását kezdeményezheti. A tájékoztatásnak tartalmaznia kell továbbá az illetékes hatóság, illetve a fogyasztó lakóhelye, tartózkodási helye vagy székhelye szerinti békéltető testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét. A tájékoztatásnak arra is ki kell terjednie, hogy a vállalkozás tett-e a 36/C. § (1) bekezdése szerinti általános alávetési nyilatkozatot.
 
 (9) A korábbi, érdemben megválaszolt panasz tartalmával azonos tartalmú, ugyanazon fogyasztó által tett, ismételt, új információt nem tartalmazó panasz, valamint az azonosíthatatlan személy által tett fogyasztói panasz kivizsgálását a vállalkozás mellőzheti.
 
@@ -298,7 +307,7 @@ törekszik a hulladékképződés megelőzésére.
 
 (5) A fogyasztóvédelmi referenst azon legnagyobb népességszámú településen kell foglalkoztatni, ahol a vállalkozás a (4) bekezdés szerinti székhellyel, telephellyel, fiókteleppel vagy ügyfélszolgálattal rendelkezik.
 
-(6) A fogyasztóvédelmi referensi tevékenység megbízási szerződés keretében is ellátható.
+(6)
 
 (6a)
 
@@ -373,9 +382,14 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 19. § A fogyasztóvédelmi hatóság látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.
 
-20. § (1) Az eljárásra a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület illetékes.
+20. § (1) Az eljárásra
 
-(2) A fogyasztó belföldi lakóhelye és tartózkodási helye hiányában a békéltető testület illetékességét a fogyasztói jogvitával érintett vállalkozás vagy az annak képviseletére feljogosított szerv székhelye alapítja meg.
+- a) a természetes személy fogyasztó lakóhelye vagy tartózkodási helye,
+- b) a nem természetes személy fogyasztó székhelye
+
+szerinti békéltető testület illetékes.
+
+(2) A fogyasztó belföldi lakóhelye, tartózkodási helye vagy székhelye hiányában a békéltető testület illetékességét a fogyasztói jogvitával érintett vállalkozás vagy az annak képviseletére feljogosított szerv székhelye alapítja meg.
 
 (3) Az eljárásra – a fogyasztó erre irányuló kérelme alapján – az (1) és (2) bekezdés szerint illetékes testület helyett a fogyasztó kérelmében megjelölt békéltető testület illetékes.
 
@@ -490,7 +504,10 @@ foglalt személyes adatait.
 
 (5) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említi, azon az egyedül eljáró testületi tagot is érteni kell.
 
-(6) Nem vehet részt az eljárásban az a békéltető testületi tag, aki az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott és a megelőző három évben az eljárásban részt vevő vállalkozással munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állt.
+(6) Nem vehet részt az eljárásban az a békéltető testületi tag, aki
+
+- a) az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott, vagy
+- b) a megelőző három évben a fogyasztóval vagy az eljárásban részt vevő vállalkozással foglalkoztatásra irányuló jogviszonyban állt.
 
 26. § (1) A békéltető testületi tag az eljárásból ki van zárva, ha neki vagy a Polgári Törvénykönyv szerinti hozzátartozójának a vitás ügyhöz személyi vagy vagyoni érdekeltsége fűződik, illetve egyéb ok miatt elfogult, kivéve, ha a feleket erről tájékoztatta, és ennek ismeretében személye ellen egyik fél sem emelt kifogást.
 
@@ -519,20 +536,20 @@ foglalt személyes adatait.
 
 (2) A kérelmet a békéltető testület elnökéhez kell írásban benyújtani. Az írásos formának a 17/C. § szerinti módokon is eleget lehet tenni. A kérelemnek tartalmaznia kell
 
-- a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét, továbbá elektronikus elérhetőségét, amennyiben azzal rendelkezik,
+- a) a fogyasztó nevét, a nem természetes személy fogyasztó törvényes képviselőjének a nevét, a természetes személy fogyasztó lakóhelyét vagy tartózkodási helyét, a nem természetes személy fogyasztó székhelyét, továbbá a fogyasztó elektronikus elérhetőségét, amennyiben azzal rendelkezik,
 - b) a fogyasztói jogvitával érintett vállalkozás nevét, székhelyét vagy érintett telephelyét,
 - c) – ha a fogyasztó az illetékességet a 20. § (3) bekezdésére kívánja alapítani – a 20. § (1) és (2) bekezdése szerint illetékes békéltető testület helyett kérelmezett testület megjelölését,
 - d) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tényeket és azok bizonyítékait,
 - e) a fogyasztó nyilatkozatát a 27. §-ban előírt feltétel teljesítéséről,
-- f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárás nem indult, keresetlevél beadására, illetve fizetési meghagyás kibocsátása iránti kérelem előterjesztésére nem került sor,
+- f) a fogyasztó arra vonatkozó nyilatkozatát, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárás nem indult, keresetlevél beadására, illetve fizetési meghagyás kibocsátása iránti kérelem előterjesztésére nem került sor,
 - g) a testület döntésére irányuló indítványt,
 - h) a fogyasztó aláírását, kivéve, ha a fogyasztó kérelmét és annak mellékleteit a 37/A. § (3) bekezdése szerinti online úton nyújtja be.
 
-(3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a vállalkozás írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot a 27. §-ban előírt egyeztetés megkísérléséről.
+(3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát vagy kivonatát, amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a vállalkozás írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot a 27. §-ban előírt egyeztetés megkísérléséről.
 
 (4) Ha a fogyasztó meghatalmazott útján jár el, a kérelemhez csatolni kell a meghatalmazást.
 
-(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a békéltető testület elnöke a hiány megjelölésével – a kérelem beérkezésétől számított tizenöt napon belül – pótlásra hívja fel a kérelmezőt.
+(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a békéltető testület elnöke a hiány megjelölésével – a kérelem beérkezésétől számított tizenöt napon belül – hiánypótlásra hívja fel a kérelmezőt.
 
 28/A. § Az eljárás megindítása esetén a Polgári Törvénykönyv elévülés nyugvására vonatkozó rendelkezései irányadók.
 
@@ -551,10 +568,10 @@ foglalt személyes adatait.
   - ad) büntetőeljárásban a bíróság polgári jogi igény érdemében jogerős ítélettel határozott,
 - b) a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránti ügyben fizetési meghagyás kibocsátására került sor,
 - c) a jogvita komolytalan vagy zaklató jellegű,
-- d) a kérelem alapján az ügy nem minősül fogyasztói jogvitának – különösen, ha kártérítésre irányul –, illetve ha a békéltető testület egyéb okból nem rendelkezik hatáskörrel a vita elbírálására vagy
+- d) a kérelem alapján az ügy nem minősül fogyasztói jogvitának vagy a békéltető testület egyéb okból nem rendelkezik hatáskörrel a vita elbírálására, vagy
 - e) a fogyasztó a hiánypótlási felhívást – az erre nyitva álló határidőben – nem teljesítette.
 
-(4a) Az elnök a kérelem meghallgatás kitűzése nélküli elutasítása esetén ennek tényéről, valamint indokáról a feleket a kérelem kézhezvételétől számított huszonegy napon belül értesíti.
+(4a) Az elnök az eljárás meghallgatás kitűzése nélküli megszüntetése esetén ennek tényéről, valamint indokáról a feleket a kérelem kézhezvételétől számított huszonegy napon belül értesíti.
 
 (5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának megküldésével kellő időben előzetesen értesíti.
 
@@ -593,7 +610,7 @@ foglalt személyes adatait.
 
 29/B. § A felek meghatalmazott útján is eljárhatnak. Meghatalmazott lehet bármely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet.
 
-29/C. § A békéltető testület eljárása során az eljáró tanács vagy annak tagja nem adhat tanácsot a fogyasztót megillető jogokról és kötelezettségekről.
+#### 29/C. §
 
 30. § (1) Az eljárás során a tanács elnöke egyezséget kísérel meg létrehozni a felek között. Ha az egyezség megfelel a jogszabályoknak, a tanács azt határozattal jóváhagyja, ellenkező esetben, illetve egyezség hiányában az eljárást folytatja.
 
@@ -630,7 +647,7 @@ történik.
 
 - a) kötelezést tartalmazó határozatot hoz, ha
   - aa) a kérelem megalapozott, és a vállalkozás – a békéltető testületnél vagy a kamaránál nyilvántartott, illetve kereskedelmi kommunikációjában közölt – a 36/C. § szerinti általános alávetési nyilatkozatában, az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig nyilatkozatában a békéltető testület döntését magára nézve kötelezőként elismerte, vagy
-  - ab) a vállalkozás alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye a kötelezést tartalmazó határozat meghozatalakor nem haladja meg a kétszázezer forintot, vagy
+  - ab) a vállalkozás alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztó érvényesíteni kívánt igénye a kötelezést tartalmazó határozat meghozatalakor nem haladja meg a kétszázötvenezer forintot, vagy
 - b) ajánlást tesz, ha a kérelem megalapozott, azonban a vállalkozás az eljárás kezdetekor úgy nyilatkozott, hogy a tanács döntését kötelezésként nem ismeri el, illetve ha a tanács döntésének elismeréséről egyáltalán nem nyilatkozott.
 
 32/A. § A tanács a fogyasztó kérelmének elutasításáról dönt, ha a meghallgatást követően a kérelmet megalapozatlannak találja.
@@ -749,7 +766,7 @@ történik.
 
 (3) A békéltető testület naprakész, az eljárására vonatkozó és könnyen hozzáférhető információkkal ellátott internetes honlapot működtet, amelyen biztosítja, hogy a fogyasztó online úton is benyújthassa kérelmét és annak mellékleteit. Az internetes honlapon közzé kell tenni és kérés esetén elektronikus úton a felek rendelkezésére kell bocsátani legalább a következő információkat:
 
-- a) a békéltető testület elérhetőségeit, így különösen székhelyét, postacímét, e-mail címét, telefonszámát, valamint faxszámát,
+- a) a békéltető testület elérhetőségeit, így különösen székhelyét, postacímét, elektronikus levelezési címét, telefonszámát, valamint faxszámát,
 - b) annak tényét, hogy a békéltető testületet az Európai Bizottság jegyzékében nyilvántartásba vették-e,
 - c) a békéltető testületi tagok nevét, megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,
 - d) a békéltető testületi tagok függetlenségére és pártatlanságára vonatkozó törvényes követelményeket,
@@ -815,7 +832,7 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 
 (5) A fogyasztóvédelemért felelős miniszter megküldi az Európai Bizottság részére a határon átnyúló képviseleti keresetek indítására az előzetesen kijelölt feljogosított szervezetek jegyzékét, beleértve a feljogosított szervezetek nevét és alapszabályban meghatározott célját. A fogyasztóvédelemért felelős miniszter tájékoztatást ad az Európai Bizottság részére az említett jegyzékben szereplő adatok módosulása esetén is.
 
-(6) A fogyasztóvédelemért felelős miniszter – a feljogosított szervezetként történő kijelölésről szóló döntéséről szóló közlemény közhírré tételével egyidejűleg – honlapján közzéteszi a képviseleti keresetek indítására jogosult feljogosított szervezetek jegyzékét.
+(6) A fogyasztóvédelmi hatóság – a fogyasztóvédelemért felelős miniszter feljogosított szervezetként történő kijelölésről szóló döntéséről szóló közlemény közhírré tételével egyidejűleg – honlapján közzéteszi a képviseleti keresetek indítására jogosult feljogosított szervezetek jegyzékét.
 
 (7) A fogyasztóvédelemért felelős miniszter szükség esetén soron kívül, de legalább ötévente felülvizsgálja, hogy a feljogosított szervezetek megfelelnek-e az (1) bekezdésben felsorolt feltételeknek. Ha a feljogosított szervezet nem felel meg az (1) bekezdésben felsorolt feltételek közül legalább egynek, akkor a fogyasztóvédelemért felelős miniszter a feljogosított szervezetet törli a nyilvántartásból.
 
@@ -889,15 +906,15 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 
 38/F. § (1) A feljogosított szervezetek a honlapjukon tájékoztatást nyújtanak:
 
-- a) azokról a képviseleti keresetekről, amelyeknek bíróság elé terjesztése mellett döntöttek;
-- b) az általuk bíróság előtt képviseleti keresettel megindított eljárások állásáról; valamint
-- c) az a) és a b) pontban említett képviseleti keresetekkel megindított eljárások kimeneteléről.
+- a) azokról a képviseleti keresetekről és közérdekű keresetekről, amelyeknek bíróság elé terjesztése mellett döntöttek;
+- b) az általuk bíróság előtt képviseleti keresettel és közérdekű keresettel megindított eljárások állásáról; valamint
+- c) az a) és a b) pontban említett képviseleti keresetekkel és közérdekű keresetekkel megindított eljárások kimeneteléről.
 
 (2) A feljogosított szervezet az (1) bekezdésben előírt tájékoztatást az általa történő közzététellel egyidejűleg megküldi a fogyasztóvédelemért felelős miniszter részére is.
 
 (3) A fél felszámíthatja a képviseleti keresettel megindított eljárásban a fogyasztóknak nyújtott tájékoztatással kapcsolatos költségei megtérítését.
 
-38/G. § (1) A fogyasztóvédelemért felelős miniszter honlapján általános tájékoztatást nyújt a folyamatban lévő és elbírált képviseleti keresetekről.
+38/G. § (1) A fogyasztóvédelemért felelős miniszter a fogyasztóvédelmi hatóság honlapján általános tájékoztatást nyújt a folyamatban lévő és elbírált képviseleti keresetekről.
 
 (2) A fogyasztóvédelemért felelős miniszter közli az Európai Bizottsággal a feljogosított szervezetek jegyzékének elérhetőségét.
 
@@ -970,7 +987,8 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 - h) a tudatos fogyasztói magatartás elősegítése és a fogyasztók tájékozottságának javítása érdekében fogyasztóvédelmi oktatást és tájékoztatást szervezzenek, illetve végezzenek,
 - i) a tevékenységük során tapasztaltak nyilvánosságra hozatalával tájékoztassák a közvéleményt,
 - j) a fogyasztói érdekek védelme céljából részt vegyenek a nemzetközi szervezetek tevékenységében,
-- k) közreműködjenek a nemzeti szabványosításban a Magyar Szabványügyi Testület szervein keresztül.
+- k) közreműködjenek a nemzeti szabványosításban a Magyar Szabványügyi Testület szervein keresztül, valamint
+- l) ellássák a jogszabályban meghatározott feladataikat.
 
 (2)
 
@@ -1019,9 +1037,9 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2a) A (2) bekezdés a) pontjától eltérően a fogyasztói érdekek képviseletét ellátó egyesületeket a más által kezdeményezett eljárásban az ügyfél jogai csak akkor illetik meg, ha az eljárásban vizsgált jogsértés a fogyasztók széles körét érinti.
 
-(2b) A 46. § (6a) bekezdés b) pontjának alkalmazása esetén a fogyasztóvédelmi hatóság értesítheti a jelen lévő ügyfelet a hivatalbóli eljárás megindításáról az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 104. § (4) bekezdésében meghatározott, rendelkezésére álló adatok közlésével. E bekezdésben foglaltak alkalmazása során az ügyfél részéről a helyszínen eljáró személyt, akivel a hatóság a döntését a helyszínen közli, – az ellenkező bizonyításáig – az ügyfél képviseletére jogosultnak kell tekinteni, amennyiben erre irányuló nyilatkozatot tesz, illetve egyéb, ezt igazoló okiratot csatol.
+(2b)
 
-(2c) A (2b) bekezdésben foglalt vélelem megdöntése iránt kérelmet terjeszthet elő az ügyfél. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a képviseleti jogosultság hiányát valószínűsítik.
+(2c)
 
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
@@ -1037,7 +1055,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (6c)
 
-46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – az Ákr. 36. §-ában előírtakon túl – tartalmaznia kell
+46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 36. §-ában előírtakon túl – tartalmaznia kell
 
 - a) a kérelemmel érintett vállalkozás nevét, valamint ha a fogyasztó rendelkezésére áll, székhelyének címét,
 - b) a feltételezett jogsértéssel érintett üzlet címét vagy a kifogásolt magatartás elkövetésének helyét,
@@ -1146,7 +1164,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 terjedhet.
 
-(1a) Az (1) bekezdéstől eltérően az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. § a) pontja szerinti elektronikus kereskedelmi szolgáltatást nyújtó vállalkozás elektronikus kereskedelmi szolgáltatással összefüggő, 3 éven belül ismételten megállapított jogsértése esetén a bírság összege
+(1a) Az (1) bekezdéstől eltérően az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti elektronikus kereskedelmi szolgáltatást nyújtó vállalkozás elektronikus kereskedelmi szolgáltatással összefüggő, 3 éven belül ismételten megállapított jogsértése esetén a bírság összege
 
 - a) az (1) bekezdés a) pontjának hatálya alá tartozó vállalkozás esetében
   - aa) 2 millió forinttól a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 3 milliárd forintig,
