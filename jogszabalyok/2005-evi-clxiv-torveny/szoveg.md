@@ -85,6 +85,10 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (5) Engedélyköteles kereskedelmi tevékenység esetén az engedélyező hatóság az engedélye megadásával egyidejűleg értesíti a bejelentésköteles kereskedelmi tevékenységet folytató kereskedők nyilvántartását vezető kereskedelmi hatóságot.
 
+(5a) Az üzletben folytatott kereskedelmi tevékenység nem sértheti a helyi építési szabályzat rendeltetésre és elhelyezhetőségre vonatkozó előírásait.
+
+(5b) A (9) bekezdésben foglaltakat a kereskedelmi hatóság a kereskedelmi tevékenység bejelentésével kapcsolatos eljárás, illetve a működési engedélyezési eljárás során vizsgálja.
+
 (6) Üzlet
 
 - a) ha a (4) bekezdés szerint vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa alapján meghatározott termék forgalmazása kizárólag üzletben megengedett, csak a kereskedelmi hatóság által, a (7) bekezdés szerint kiadott működési engedéllyel;
@@ -121,7 +125,7 @@ egyéb feltételei
 
 (5) A vásárlók könyvét a használatba vétel előtt a kereskedelmi hatóság hitelesíti, feltüntetve a vásárlók könyve megnyitásának időpontját.
 
-5/A. § A napi fogyasztási cikket értékesítő új üzlet működését akkor kezdheti meg, ha biztosítja az országos településrendezési és építési követelményekről szóló kormányrendeletben az árusítótér nagysága alapján meghatározott számú személygépkocsi elhelyezésére szolgáló várakozóhelyet, és megfelel a járművek elhelyezésével kapcsolatos szabályoknak.
+5/A. § A napi fogyasztási cikket értékesítő új üzlet működését akkor kezdheti meg, ha biztosítja a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendeletben az árusítótér nagysága alapján meghatározott számú személygépkocsi elhelyezésére szolgáló várakozóhelyet, és megfelel a járművek elhelyezésével kapcsolatos szabályoknak.
 
 5/B. § A világörökségről szóló 2011. évi LXXVII. törvényben meghatározott világörökségi terület nagyvárosias lakóterületén tilos diszkontot, nagyméretű szupermarketet és hipermarketet létesíteni vagy üzemeltetni.
 
@@ -143,7 +147,9 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 
 5/E. § A jogszabályban meghatározott utazási csomagot tilos a fogyasztó részére részekre bontva értékesíteni.
 
-5/F. § A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet 1. §-a szerinti kereskedő köteles biztosítani a fogyasztó számára az elektronikus fizetés lehetőségét és annak folyamatos rendelkezésre állását.
+5/F. § (1) A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet 1. §-a szerinti kereskedő biztosítja a fogyasztó számára az elektronikus fizetés lehetőségét és annak folyamatos rendelkezésre állását.
+
+(2) Az automatizált üzlethelyiség kivételével a 400 m2-nél nagyobb bruttó alapterületű üzletben folytatott kiskereskedelmi tevékenység során a kereskedő biztosítja legalább egy nem önkiszolgáló pénztárgép folyamatos rendelkezésre állását.
 
 5/G. § (1) A vendéglátás tevékenységet folytató kereskedő által kiállított számla adóval növelt végösszegén felül a fogyasztó által fizetett többletösszeg borravalónak minősül.
 
@@ -516,4 +522,4 @@ rendeletben határozza meg.
 
 (3) Ez a törvény az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i 2015/2302/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-14. § Az 5/C. § és 5/D. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
+14. § Az 5/C. § és 5/D. §, valamint az 5/F. § (2) bekezdése tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
