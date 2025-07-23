@@ -61,7 +61,7 @@ természetes személyekre, valamint szervekre, szervezetekre és egyéb jogi sze
 - 20. kutatási adat: digitális formátumú – a tudományos publikációtól eltérő – a kutatást végző vagy a kutatást finanszírozó szervezet által intézményi vagy tematikus adattárakon keresztül nyilvánosságra hozott közadat, amelyeket közfinanszírozású tudományos kutatási tevékenység keretében gyűjtenek vagy állítanak elő, és amelyeket a kutatási folyamat során bizonyítékként használnak, vagy amelyeket a kutatói közösség általában a kutatási megállapítások és eredmények megerősítéséhez szükségesként fogad el;
 - 21. kutatószoba: olyan zárt helyiség, ahol – az adatok magas szintű biztonsági védelme, valamint a személyes adatok védelmére, illetve egyéb védett adatok védelmére vonatkozó előírások betartása mellett – biztonságosan érhetők el a közvetlen azonosításra alkalmatlan adatok;
 - 22. nagy értékű adatkészletek: a konkrét nagy értékű adatkészletek jegyzékének, valamint a közzétételükre és a további felhasználásukra vonatkozó szabályoknak a meghatározásáról szóló 2022. december 31-i (EU) 2023/138 bizottsági végrehajtási rendeletben meghatározott adatkészletek;
-- 23. Nemzeti Adatplatform: olyan informatikai szolgáltatás, amely az e törvényben vagy Kormány által rendeletben kijelölt szolgáltató által gyűjtött adatok tárolását, valamint más szervezet kezelésében lévő adatok egységes hozzáférhetővé tételét biztosítja;
+- 23. Nemzeti Adatplatform: olyan informatikai szolgáltatás, amely az e törvényben vagy Kormány által rendeletben kijelölt szolgáltató által gyűjtött adatok biztonságos adatkezelési környezetben történő tárolását, valamint más szervezet kezelésében lévő adatok egységes hozzáférhetővé tételét biztosítja;
 - 24. nemzeti adatvagyon: a közfeladatot ellátó szervek által kezelt közadatok, dokumentumok és kulturális közadatok, továbbá egyéb a kezelésükben lévő személyes és védett adatok összessége, függetlenül azok megjelenési formájától;
 - 25. Nemzeti Közadatportál: a nemzeti adatvagyonba tartozó adatok további felhasználásával kapcsolatos tájékoztatási, adatmegosztási funkciókat, valamint ügyfélkapcsolati feladatok elektronikus ellátását biztosító webes felület;
 - 26. nyílt formátum: a nyilvánosság számára az adat további hasznosítását nem korlátozó, platformfüggetlen és korlátozás nélkül hozzáférhetővé tett elektronikus formátum;
@@ -72,7 +72,9 @@ természetes személyekre, valamint szervekre, szervezetekre és egyéb jogi sze
 - 31. személyes adat: az általános adatvédelmi rendelet 4. cikk 1. pontjában meghatározott személyes adat;
 - 32. személyhez kapcsoltság: valamely adatnak az a tulajdonsága, hogy természetes vagy nem természetes személyhez kapcsolódik;
 - 33. személytelenítés: a személyhez kapcsoltság megszüntetése valamely technikai megoldással, amellyel személytelenített adat jön létre;
-- 34. személytelenített adat: olyan adat, amelyre vonatkozóan az adathasznosítást végző szerv vagy személy nem rendelkezik olyan technikai feltételekkel, amellyel felfedheti az adat természetes vagy nem természetes személyhez kapcsoltságát;
+- 34. személytelenített adat:
+  - a) olyan adat, amely alapján a természetes személy további információk felhasználásával sem azonosítható, azaz az anonimizált személyes adat, illetve az olyan védett adat, amely esetében az egyedi beazonosítás lehetősége véglegesen megszűnt,
+  - b) olyan adat, amely esetében az adathasznosítást végző szerv vagy személy nem rendelkezik azokkal a technikai feltételekkel, amellyel felfedheti az adat természetes személyhez kapcsoltságát, azaz az álnevesített személyes adat, illetve az olyan védett adat, amely esetében az egyedi beazonosításhoz szükséges technikai feltételekkel az adathasznosítást végző szerv vagy személy nem rendelkezik;
 - 35. további felhasználás: a nemzeti adatvagyon körébe tartozó
   - a) védett adatok tekintetében az adatkormányzási rendelet 2. cikk 2. pontja szerinti további felhasználás,
   - b) közadat vagy kulturális közadat felhasználása olyan kereskedelmi vagy nem kereskedelmi célra, amely kívül esik azon a közfeladat ellátása keretén belüli eredeti, a közfeladat ellátását előíró jogszabályból eredő célkitűzésen, amire az adatot előállították;
@@ -115,7 +117,7 @@ természetes személyekre, valamint szervekre, szervezetekre és egyéb jogi sze
 
 #### 5. Átláthatóság
 
-5. § (1) A közfeladatot ellátó szerv az igénylők megfelelő tájékoztatása és az igény teljesítési feltételeinek átláthatósága érdekében az Infotv. 1. melléklet II. pont, 16–25. sorában meghatározott közadatokkal kapcsolatos információkat köteles a Nemzeti Közadatportálon közzétenni az egyablakos tájékoztatási és kapcsolattartási szolgáltatás igénybevételével.
+5. § (1) A közfeladatot ellátó szerv az igénylők megfelelő tájékoztatása és az igény teljesítési feltételeinek átláthatósága érdekében az Infotv. 1. melléklet II. pont, 16–25. sorában meghatározott közadatokkal kapcsolatos, továbbá az adatkormányzási rendelet által előírt közzétételi kötelezettséggel érintett információkat köteles a Nemzeti Közadatportálon közzétenni az egyablakos tájékoztatási és kapcsolattartási szolgáltatás keretében.
 
 (2) Ha a közfeladatot ellátó szerv az igény teljesítése ellenében díj felszámítására jogosult, köteles előzetesen közölni az igénylővel a díj kiszámítása során figyelembe vett tényezőket.
 
@@ -143,7 +145,7 @@ természetes személyekre, valamint szervekre, szervezetekre és egyéb jogi sze
 
 #### 8. Nemzeti adatvagyon-gazdálkodás megvalósításáért felelős miniszter
 
-8. § (1) A nemzeti adatvagyon hasznosításának támogatása körében az e törvényben meghatározott természetes személyek, valamint közfeladatot ellátó szervek, szervezetek és egyéb jogi személyek feladatainak és kötelezettségeinek teljesítését az e-közigazgatás és informatikai fejlesztések egységesítésért felelős miniszter (a továbbiakban: miniszter) koordinálja.
+8. § (1) A nemzeti adatvagyon hasznosításának támogatása körében az e törvényben meghatározott természetes személyek, valamint közfeladatot ellátó szervek, szervezetek és egyéb jogi személyek feladatainak és kötelezettségeinek teljesítését az e-közigazgatás és informatikai fejlesztések egységesítésért felelős miniszter (a továbbiakban: miniszter) irányítja.
 
 (2) A miniszter az (1) bekezdésben meghatározott feladatai ellátása érdekében különösen:
 
@@ -172,11 +174,11 @@ természetes személyekre, valamint szervekre, szervezetekre és egyéb jogi sze
 
 10. § (1) A NAVÜ a Kormány által rendeletben kijelölt, a nemzeti adatvagyon hasznosításának támogatásával kapcsolatos állami feladatokat közfeladatként ellátó és koordináló szerv vagy szervezet.
 
-(2) A NAVÜ koordinálja és szakmai szempontból felügyeli a nemzetiadatvagyon-hasznosítás támogatásának rendszerét, e feladatai körében közreműködik szakmai képzések szervezésében, valamint – a Nemzeti Adatvagyon Tanácson keresztül – javaslatot tesz a miniszternek a nemzeti adatvagyon hasznosítása rendszerének szakmai módszertani szabályozására és egységesítésére.
+(2) A NAVÜ koordinálja és szakmai szempontból felügyeli a nemzetiadatvagyon-hasznosítás támogatásának rendszerét, e feladatai körében szakmai képzéseket tart, továbbá közreműködik szakmai képzések szervezésében, valamint – a Nemzeti Adatvagyon Tanácson keresztül – javaslatot tesz a miniszternek a nemzeti adatvagyon hasznosítása rendszerének szakmai módszertani szabályozására és egységesítésére.
 
-(3) A NAVÜ ellátja az adatkormányzási rendelet szerinti központi illetékes szerv és egyablakos információs pont feladatait. A Kormány rendeletben további illetékes szervet jelölhet ki meghatározott ágazatok tekintetében.
+(3) A NAVÜ ellátja az adatkormányzási rendelet szerinti központi illetékes szerv és egyablakos információs pont feladatait. A Kormány rendeletben meghatározott ágazatok tekintetében további illetékes szervet jelölhet ki, továbbá hatáskört biztosíthat a központi- és ágazati illetékes szerv számára az adatok további felhasználás céljából történő hozzáférés megadásáról vagy megtagadásáról történő döntés meghozatalára.
 
-(4) A NAVÜ elektronikus ügyintézés biztosítására kötelezett szerv.
+(4) A NAVÜ digitális szolgáltatás nyújtására kötelezett szerv.
 
 11. § (1) A NAVÜ az e törvényben meghatározott, valamint a számára kormányrendeletben előírt szolgáltatásokat nyújtja.
 
@@ -184,17 +186,17 @@ természetes személyekre, valamint szervekre, szervezetekre és egyéb jogi sze
 
 (3) A NAVÜ vezeti a regisztrációköteles adathasznosítás-támogatási szolgáltatások nyilvántartását, ennek részeként nyilvántartja kapcsolattartás céljából a szolgáltató által megadott kapcsolattartó személyek nevét, szervezeti beosztását, postai és elektronikus levélcímét, telefonszámát.
 
-12. § (1) A NAVÜ az adatok elemzési célú felhasználásának elősegítése, szolgáltatás nyújtása, valamint feladatainak ellátása érdekében adatot igényelhet a közfeladatot ellátó szervektől, továbbá adatot szerezhet be közfeladatot ellátó szerveken kívüli forrásból.
+12. § (1) A NAVÜ az adatok elemzési célú felhasználásának elősegítése, szolgáltatás fejlesztése és nyújtása, valamint feladatainak ellátása érdekében adatot igényelhet a közfeladatot ellátó szervektől, továbbá adatot szerezhet be közfeladatot ellátó szerveken kívüli forrásból.
 
-(2) A NAVÜ az adathasznosítás-támogatási szolgáltatások nyújtásához szükséges személyes adatokat személytelenített formában kezeli. A nem anonimizált személytelenített adat tekintetében a NAVÜ adatkezelőnek minősül.
+(2) A NAVÜ az (1) bekezdésben foglalt célokhoz szükséges személyes és védett adatokat személytelenített formában kezeli. A 2. § 34. b) pontja szerinti személytelenített adat tekintetében a NAVÜ adatkezelőnek minősül.
 
 13. § (1) Ha a NAVÜ feladatainak ellátása során, továbbá, ha valamely más, adatelemzési szolgáltatás nyújtására kijelölt szolgáltató elemzéseinek eredményéből a társadalmat, a gazdaságot vagy a környezetet fenyegető, lényeges kockázatokat azonosít, arról – a miniszter útján, általános kormányzati tájékoztató jelentés formájában – haladéktalanul tájékoztatást ad a Kormány számára.
 
 (2) Amennyiben a feltárt kockázat indokolja, a NAVÜ a miniszternél kezdeményezi az (1) bekezdés szerinti jelentésnek a – minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) szerinti – minősítését.
 
-14. § (1) A NAVÜ az általa biztosított szolgáltatások nyújtásához a Nemzeti Adatplatform szolgáltatás igénybevételével adatot tárolhat, valamint a tárolt adatra online elérhető elemzési célú hozzáférés szolgáltatást nyújthat.
+14. § (1) A NAVÜ a 12. § (1) bekezdésben meghatározott célból biztonságos adatkezelési környezetben személytelenített adatot a 2. § 34. b) pontja szerinti formában is tárolhat.
 
-(2) Az (1) bekezdés szerinti tárolást, valamint szolgáltatást személyes adat esetében csak igény teljesítéséhez kapcsoltan,
+(2) Az (1) bekezdés szerinti tárolást, valamint szolgáltatást személyes adat esetében a 12. § (1) bekezdésben meghatározott cél teljesítéséhez, valamint,
 
 - a) az idősoros elemzéssel járó adathasznosítás-támogatási igény teljesítéséhez,
 - b) online elérhető adatelemző eszköz nyújtásához, vagy
@@ -202,9 +204,9 @@ természetes személyekre, valamint szervekre, szervezetekre és egyéb jogi sze
 
 szükséges időben és terjedelemben végezheti.
 
-(3) A tárolt személyes adatok körét az igény alapján a NAVÜ határozza meg az adattakarékosság követelményeinek, és az adat más módon történő elérhetőségének figyelembevételével.
+(3) A tárolt személyes adatok körét a NAVÜ határozza meg az adattakarékosság követelményeinek, és az adat más módon történő elérhetőségének figyelembevételével.
 
-(4) A Nemzeti Adatplatformon tárolt személyes adatok kezelésének szükségességét a NAVÜ legalább háromévente felülvizsgálja.
+(4) Az (1) bekezdés szerint tárolt személyes adatok kezelésének szükségességét a NAVÜ legalább háromévente felülvizsgálja.
 
 #### 11. Szervezeti adatfelelősök
 
@@ -293,7 +295,7 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 (5) A (3) és (4) bekezdés szerinti adathasznosítás-támogatási szolgáltatások (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) összevontan is nyújthatók.
 
-(6) A (4) bekezdés a) és b) pontja vonatkozásában minden közfeladatot ellátó szerv szolgáltatónak minősül és az (1) bekezdés b) pontja szerint regisztrálni köteles.
+(6) A (4) bekezdés a) és b) pontja vonatkozásában minden közfeladatot ellátó szerv kizárólagos szolgáltatónak minősül és az (1) bekezdés b) pontja szerint regisztrálni köteles.
 
 (7) Kormányrendelet a szolgáltatásokra, vagy azok részszolgáltatásai tekintetében a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv figyelembevételével további szervet vagy szervezetet kijelölhet.
 
@@ -347,7 +349,7 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 (6) A közfeladatot ellátó szerv haladéktalanul köteles tájékoztatni a NAVÜ-t, amennyiben valamely adathasznosítás-támogatási szolgáltatás nyújtására közreműködőt vesz igénybe.
 
-20. § (1) A Nemzeti Közadatportál külön felületet biztosít a közfeladatot ellátó szervek, valamint a közreműködők részére (a továbbiakban: Ügyintézői Portál).
+20. § (1) A Nemzeti Közadatportál külön felületet biztosít a közfeladatot ellátó szervek, szolgáltatók, valamint a közreműködők részére (a továbbiakban: Ügyintézői Portál).
 
 (2) Az Ügyintézői Portál azonosításhoz kötött szolgáltatást nyújt, és szolgáltatásai kizárólag előzetes regisztrációval vehetők igénybe. A regisztrációhoz szükséges azonosítást és jogosultságkezelést a NAVÜ végzi, amely ennek keretében jogosult az Ügyintézői Portált használó természetes személyek személyes adatainak – nevének, felhasználói nevének, jelszavának, egyedi felhasználói azonosítójának, szervezeti beosztásának, postai és elektronikus levélcímének, telefonszámának – kezelésére. A regisztrációs nyilvántartást vezető szolgáltató a kezelt személyes adatokat a regisztráció megszüntetésére vonatkozó bejelentést követő 8 napon belül törli és az érintett hozzáférési lehetőségét megszünteti.
 
@@ -369,48 +371,43 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 23. § (1) A NAVÜ közfeladatként, a nemzeti adatvagyonra kiterjedően kormányzati tájékoztatási szolgáltatást nyújt.
 
-(2) A kormányzati tájékoztatási szolgáltatás keretében az adatalapú kormányzás megvalósításhoz szükséges kormányzati döntéstámogatás érdekében a NAVÜ a központi kormányzati igazgatási szerv számára annak döntés-előkészítési célú igénylése alapján a 27. alcím szerinti adatelemzési szolgáltatást nyújtja.
+(2) A kormányzati tájékoztatási szolgáltatás keretében az adatalapú kormányzás megvalósításhoz szükséges kormányzati döntéstámogatás érdekében a NAVÜ a központi kormányzati igazgatási szerv számára döntés-előkészítési céllal az általa nyújtott, 16. § (3) és (4) bekezdés szerinti szolgáltatásokat önállóan vagy együttesen, kizárólagos szolgáltatóként nyújtja.
 
-(3) A NAVÜ az (1) bekezdés szerinti szolgáltatás nyújtásához – szükség esetén – kapcsolt szolgáltatásként biztosítja
+(3)
 
-- a) az adatok összekészítése szolgáltatást,
-- b) az adattisztítási szolgáltatást,
-- c) az adatösszekapcsolási szolgáltatást, valamint
-- d) az elemzési célú hozzáférés biztosítása szolgáltatást.
+(4) Ha az adatelemzés személyes adatra vagy védett adatra is kiterjed, a NAVÜ az (1) bekezdés szerinti szolgáltatást a 2. § 34. b) pontja szerinti személytelenített adatokon nyújtja.
 
-(4) Ha az adatelemzés személyes adatra vagy védett adatra is kiterjed, a NAVÜ az (1) bekezdés szerinti szolgáltatást személytelenített adatokon nyújtja. Ebben az esetben az adatot rendelkezésre bocsátó közfeladatot ellátó szerv a személytelenítést a 26. alcím szerinti személytelenítési szolgáltatás igénybevételével végzi.
+(5) Arra az esetre, ha az igény teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás, vagy idősoros elemzés szükséges, a NAVÜ határozza meg a személytelenítéssel, kulcsszolgáltatással, adat-összekapcsolással, vagy idősoros elemzéssel kapcsolatos követelményeket.
 
-(5) Arra az esetre, ha az igény teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ a 82. § szerinti adatszolgáltatást végzők, valamint az egyes adathasznosítás-támogatási szolgáltatások nyújtói részére meghatározza a személytelenítéssel, kulcsszolgáltatással, adat-összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.
+(6) A NAVÜ az ezen alcím szerinti szolgáltatás keretében kiszolgálja a jövőben előálló adatokra is kiterjedő elemzés (idősoros elemzés) végzését igénylő adathasznosítás-támogatási szolgáltatás iránti igényeket, és ennek érdekében – ha az elemzéshez szükséges adat másként nem biztosítható – az idősoros elemzéshez szükséges személytelenített személyes és védett adatokat a biztonságos adatkezelési környezetben tárolja. Az adattárolási időszakok legfeljebb 3 évig tartanak, amelyek – az igénylő nyilatkozatától függően, a 14. § (4) bekezdése szerinti felülvizsgálat eredményének figyelembevételével – ismételten meghosszabbíthatók.
 
-(6) A NAVÜ az ezen alcím szerinti szolgáltatás keretében kiszolgálja a jövőben előálló adatokra is kiterjedő elemzés (idősoros elemzés) végzését igénylő adathasznosítás-támogatási szolgáltatás iránti igényeket, és ennek érdekében – ha az elemzéshez szükséges adat másként nem biztosítható – az idősoros elemzéshez szükséges személytelenített személyes és védett adatokat a Nemzeti Adatplatform szolgáltatás igénybevételével tárolja. Az adattárolási időszakok legfeljebb 3 évig tartanak, amelyek – az igénylő nyilatkozatától függően, a 14. § (4) bekezdése szerinti felülvizsgálat eredményének figyelembevételével – ismételten meghosszabbíthatók.
-
-(7) Olyan adathasznosítás-támogatási szolgáltatás iránti igény esetén, amely idősoros elemzést és személyes adatok tárolását teszi szükségessé vagy az igénylő az igényelt elemzés ismétlődő végrehajtását jelzi előre, a NAVÜ a 26. § (3)–(5) bekezdését, valamint 27. § (1) bekezdését az igényelt adathasznosítás-támogatási szolgáltatásra alkalmazva jár el.
+(7)
 
 (8) Az (1) bekezdés szerinti szolgáltatás nem érinti a kormányzati döntéstámogatásban részt vevő azon közfeladatot ellátó szervek feladatellátását, amelyek államháztartási bevételekkel és kiadásokkal kapcsolatos döntéstámogatási tevékenységét jogszabály szabályozza.
 
 (9) Jogszabály által előírt esetben a NAVÜ kezdeményezi az arra jogosult személynél vagy szervnél az (1) bekezdés szerinti szolgáltatás eredményének a Mavtv. szerinti minősítését.
 
-(10) A NAVÜ a (3) bekezdés d) pontja szerinti szolgáltatás keretében az igényben érintett adatokat a Nemzeti Adatplatform, valamint a Nemzeti Közadatportál informatikai szolgáltatásainak igénybevételével elemezhető formában teszi hozzáférhetővé. Az elemzés elvégzéséhez a NAVÜ a Nemzeti Adatplatformon online módon elérhető adatelemző eszközt biztosíthat a szolgáltatás igénybe vevője számára.
+(10) A NAVÜ a 16. § (4) bekezdés f) pontja szerinti szolgáltatás keretében az igényben érintett adatokat biztonságos adatkezelési környezetben, valamint a Nemzeti Közadatportál informatikai szolgáltatásainak igénybevételével elemezhető formában teszi hozzáférhetővé.
 
 #### 16. Közcélú tájékoztatási szolgáltatás
 
 24. § (1) A NAVÜ a közcélú tájékoztatási szolgáltatást közfeladatként döntés-előkészítési vagy kutatási céllal nyújtja.
 
-(2) Döntés-előkészítési céllal a NAVÜ a 27. alcím szerinti adatelemzési szolgáltatást nyújtja azon a kormányzati tájékoztatási szolgáltatás igénylésére nem jogosult közfeladatot ellátó szervek számára, amelyek esetében az igénylés kormányzati döntés-előkészítési célokat szolgál, és a szolgáltatás eredménye kereskedelmileg nem hasznosítható.
+(2) Döntés-előkészítési céllal a NAVÜ az általa nyújtott, 16. § (3) és (4) bekezdés szerinti szolgáltatásokat önállóan vagy együttesen kizárólagos szolgáltatóként nyújtja azon a kormányzati tájékoztatási szolgáltatás igénylésére nem jogosult közfeladatot ellátó szervek számára, amelyek esetében az igénylés kormányzati döntés-előkészítési célokat szolgál, és a szolgáltatás eredménye kereskedelmileg nem hasznosítható.
 
-(3) Kutatási céllal a NAVÜ a 27. alcím szerinti adatelemzési szolgáltatást nyújtja azon közfeladatot ellátó szervek számára, amelyek esetében az adatigénylés tudományos, kutatás-fejlesztési, innovációs, oktatási vagy helyi döntés-előkészítés szakmai megalapozását szolgáló célokat szolgál, és a szolgáltatás eredményei kereskedelmileg nem hasznosulnak.
+(3) Kutatási céllal a NAVÜ az általa nyújtott, 16. § (3) és (4) bekezdés szerinti szolgáltatásokat önállóan vagy együttesen kizárólagos szolgáltatóként nyújtja azon közfeladatot ellátó szervek számára, amelyek esetében az adatigénylés tudományos, kutatás-fejlesztési, innovációs, oktatási vagy helyi döntés-előkészítés szakmai megalapozását szolgáló célokat szolgál, és a szolgáltatás eredményei kereskedelmileg nem hasznosulnak.
 
 (4) Döntés-előkészítési célú igény teljesítésekor egyebekben a 15. alcím, kutatási célú igény teljesítésekor a 17. alcím szerinti szabályokat kell alkalmazni.
 
 (5) A (3) bekezdés szerinti szolgáltatást a NAVÜ a 23. § (2)–(4) bekezdései szerint nyújtja azzal, hogy a kutatási célú közcélú tájékoztatási szolgáltatás nyújtásához külön engedély nélkül felhasználható adatok körét kormányrendelet a Nemzeti Adatvagyon Leltárban rögzített felhasználási korlátozások figyelembevételével állapítja meg.
 
-(6) Arra az esetre, ha az igény teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ a 82. § szerinti adatszolgáltatást végzők, valamint az egyes szolgáltatások nyújtói részére meghatározza a személytelenítéssel, kulcsszolgáltatással, adat-összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.
+(6)
 
 #### 17. Piaci tájékoztatási szolgáltatás
 
 25. § (1) A NAVÜ piaci tájékoztatási szolgáltatást nyújt.
 
-(2) A piaci tájékoztatási szolgáltatás keretében bármely természetes vagy jogi személy igénylése alapján a NAVÜ a 27. alcím szerinti adatelemzési szolgáltatást nyújtja az igénylő számára.
+(2) A piaci tájékoztatási szolgáltatás keretében bármely természetes vagy jogi személy igénylése alapján a NAVÜ az általa nyújtott, 16. § (3) és (4) bekezdés szerinti szolgáltatásokat önállóan vagy együttesen kizárólagos szolgáltatóként nyújtja az igénylő számára.
 
 (3) A piaci tájékoztatási szolgáltatást a NAVÜ a kormányzati tájékoztatási szolgáltatás szabályai szerint nyújtja a 26–27. § szerinti eltérésekkel.
 
@@ -424,34 +421,35 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 (5) Ha a miniszter az igény elbírálásáról – kormányrendeletben meghatározott határidőn belül – nem dönt, vagy arról a NAVÜ-t nem értesíti, a NAVÜ a (3) bekezdés szerinti javaslatában meghatározottak szerint jár el.
 
-27. § (1) A Nemzeti Adatvagyon Tanács javaslatára egyes egyértelműen azonosítható és körülírtható igénytípusok teljesítésére vonatkozóan a miniszter általános jelleggel előzetes döntési álláspontot adhat a NAVÜ részére. Az olyan igénytípusba tartozó igényeket, amelyekre a miniszter előzetes álláspontot adott ki, nem kell felterjeszteni a miniszter részére.
+27. § (1) A Nemzeti Adatvagyon Tanács javaslatára egyes egyértelműen azonosítható és körülírható igénytípusok teljesítésére vonatkozóan a miniszter általános jelleggel előzetes döntési álláspontot adhat a NAVÜ részére. Az olyan igénytípusba tartozó igényeket, amelyekre a miniszter előzetes álláspontot adott ki, továbbá az olyan igényeket, melyet külön törvényben meghatározott célok elérése érdekében terjesztettek elő, nem kell felterjeszteni a miniszter részére.
 
 (2) A NAVÜ az (1) bekezdés szerinti igénytípusok teljesítésére keretmegállapodást köthet az igénylővel azzal, hogy a keretmegállapodás hatálybalépéséhez a miniszter jóváhagyása szükséges. A miniszter által jóváhagyott keretmegállapodás alapján benyújtott szolgáltatási igényt szintén nem kell felterjeszteni a miniszternek.
 
-(3) Arra az esetre, ha az igény teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ a 82. § szerinti adatszolgáltatást végzők, valamint az egyes szolgáltatások nyújtói részére meghatározza a személytelenítéssel, kulcsszolgáltatással, összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.
+(3)
 
 #### 18. Döntés-előkészítést támogató szolgáltatás
 
-28. § (1) A NAVÜ közfeladatként döntés-előkészítést támogató szolgáltatást (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) nyújt.
+28. § (1) A NAVÜ döntés-előkészítést támogató szolgáltatást (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) nyújt.
 
-(2) A NAVÜ a szolgáltatást kizárólag kormányrendeletben meghatározott feltételekkel, az abban meghatározott közfeladatot ellátó szervek számára – kifejezett igény esetén – nyújtja.
+(2)
 
-(3) A szolgáltatás kiterjedhet:
+(3) A NAVÜ a szolgáltatás keretében – igény esetén az igénylő, igény hiányában az általa meghatározott szempontok szerint – adatalapú alkalmazásokat fejleszt és biztosítja azok használatát. Ennek érdekében a NAVÜ jogosult
 
 - a) adatok összekészítésére,
 - b) adatok összekapcsolására,
-- c) adatok tisztítására, valamint
-- d) személyes adatok esetében a személytelenítési szolgáltatás elvégeztetésére.
+- c) adatok tisztítására,
+- d) adatok személytelenítésére, valamint
+- e) adatok elemzésére.
 
-(4) A szolgáltatás igénybevételére a NAVÜ és az igénylő együttműködési megállapodást köt, amely tartalmazza legalább az igény teljesítésének technikai szabályait és a díjazás feltételeit.
+(4) A NAVÜ az általa fejlesztett adatalapú alkalmazások használatához díj ellenében hozzáférést adhat.
 
-(5) A szolgáltatás iránti igény kizárólag közvetlen számítógépes adatkapcsolaton keresztül terjeszthető elő.
+(5)
 
-(6) A szolgáltatás eredményét a NAVÜ közvetlen számítógépes adatkapcsolaton keresztül teszi hozzáférhetővé az igénylő számára.
+(6)
 
-(7) A szolgáltatás keretében a NAVÜ a személyes és védett adatokat személytelenített formában, míg az adatelemzések eredményét tovább feldolgozható formában tárolja.
+(7)
 
-(8) Arra az esetre, ha az igény teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ ezen szolgáltatások nyújtói, valamint a 82. § szerinti adatszolgáltatást végzők részére meghatározza a személytelenítéssel, kulcsszolgáltatással, összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.
+(8) Arra az esetre, ha a szolgáltatás teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ határozza meg a személytelenítéssel, kulcsszolgáltatással, összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.
 
 #### 19. Nemzeti Adatplatform szolgáltatás
 
@@ -461,7 +459,7 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 30. § (1) Az adatok összekészítése szolgáltatást kizárólag a NAVÜ nyújtja.
 
-(2) A NAVÜ a szolgáltatás keretében az igény teljesítéséhez szükséges adatokra kiterjedően
+(2) A NAVÜ a szolgáltatás teljesítéséhez szükséges adatokra kiterjedően
 
 - a) közvetlen vagy másolati példányban a szolgáltatás igénylője számára hozzáférhetővé teszi az általa tárolt, illetve az általa külső forrásból közvetlenül hozzáférhető adatokat;
 - b)
@@ -469,15 +467,15 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 #### 21. Adat-összekapcsolási szolgáltatás
 
-31. § (1) A NAVÜ, továbbá a Kormány által rendeletben kijelölt szerv a kormányrendeletben meghatározott adathasznosítás-támogatási szolgáltatással összefüggésben adat-összekapcsolási szolgáltatást nyújt a személyes és védett adatokra kiterjedően.
+31. § (1) A NAVÜ, továbbá a kormányrendeletben meghatározott adathasznosítás-támogatási szolgáltatással összefüggésben a Kormány által rendeletben kijelölt szerv a kormányrendeletben meghatározott adatkörre vonatkozóan adat-összekapcsolási szolgáltatást nyújt a személyes és védett adatokra kiterjedően.
 
 (2) Az adatösszekapcsolási szolgáltatás nyújtója (ezen alcím alkalmazásában a továbbiakban: szolgáltató) a felhasználó által biztosított vagy meghatározott adatokat az adatok összekapcsolását lehetővé tevő közös adat felhasználásával kapcsolja össze, amelynek eredményeként további hasznosításra alkalmas összekapcsolt adat jön létre.
 
 (3) Személyes vagy védett adatok e § szerinti szolgáltatás keretében történő összekapcsolása – a 32. § (1) bekezdés kivételével – csak a 22. alcím szerinti kulcsszolgáltatás igénybevételével átalakított, az összekapcsolhatóság figyelembevételével személytelenített adatok felhasználásával nyújtható.
 
-(4) Kormányrendeletben kijelölt szolgáltató – a kormányrendeletben meghatározott adatkörre vonatkozóan – adat-összekapcsolási szolgáltatást nyújthat.
+(4) Az adatösszekapcsolási-szolgáltatás nyújtója a szolgáltatás eredményeként létrejövő személyes vagy védett adatot tartalmazó adatkészletet a 3. § (3) bekezdés b) pontjának alkalmazásával a 2. § 34. b) pontja szerinti formában adhatja át az adatkezelési jogalappal rendelkező igénylő részére.
 
-(5) Az adatösszekapcsolási szolgáltatás kizárólag a 16. § (3) bekezdés d), e), f) és g) pontjában, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szolgáltatások iránti igények teljesítéséhez vehető igénybe.
+(5)
 
 32. § (1) Ha valamely adathasznosítás-támogatási szolgáltatás iránti igény teljesítéséhez szükséges személyes adatok kezelése során a közfeladatot ellátó szervek eltérő azonosító kódokat alkalmaznak, de az azonosító kódok összerendelése szerepel a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz tv.) 10/A. §-a szerinti összerendelési nyilvántartásban, az adatokat a szolgáltató az összerendelési nyilvántartást vezető szerv bevonásával kapcsolja össze.
 
@@ -516,7 +514,7 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 35. § (1) A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat rendelkezésre bocsátása szolgáltatás nyújtója (ezen alcím alkalmazásában a továbbiakban: szolgáltató) a további felhasználás céljából rendelkezésre bocsátható közadatokat – a Nemzeti Közadatportálon keresztül benyújtott igényre – az igénylő rendelkezésére bocsátja.
 
-(2) Az (1) bekezdés szerinti szolgáltatást – az igénylő választása szerint – a NAVÜ az egyablakos tájékoztatási és kapcsolattartási szolgáltatása keretében nyújtja.
+(2)
 
 (3) A közfeladatot ellátó szerv a közfeladata ellátásával összefüggésben kezelt – az e törvény szerint további felhasználásra rendelkezésre bocsátható – adatok tekintetében az (1) bekezdés szerinti szolgáltatást nyújtani köteles.
 
@@ -607,7 +605,7 @@ köteles rendelkezésre bocsátani.
 
 46. § (1) A személytelenítési szolgáltatás felhasználója meghatározza, hogy mely 45. §-ban meghatározott személytelenítési megoldás alkalmazását kéri.
 
-(2) Ha a személytelenítésre a 82. § szerinti adatszolgáltatás végrehajtása érdekében kerül sor – e törvény felhatalmazása alapján kiadott jogszabály eltérő rendelkezése hiányában – a Kulcsszolgáltató által az adott személytelenítési esethez nyújtott technológiai megoldást kell alkalmazni.
+(2)
 
 (3) A szolgáltató a személytelenítés elvégzése céljából kezelt személyes adatot csak a személytelenítés végrehajtásához szükséges mértékben és ideig kezeli.
 
@@ -672,21 +670,13 @@ igénybevételét.
 
 #### 32. Az adathasznosítás-támogatási szolgáltatások iránti igények benyújtásának és teljesítésének közös szabályai
 
-56. § (1) Az adathasznosítás-támogatási szolgáltatások iránti igényt az igénylő elektronikus úton terjeszti elő az adathasznosítás-támogatási szolgáltatás nyújtására jogszabályban feljogosított központi vagy regisztrált szolgáltatónál (ezen fejezet alkalmazásában a továbbiakban együtt: szolgáltató).
+56. § (1) Az adathasznosítás-támogatási szolgáltatások iránti igényt az igénylő elektronikus úton a Nemzeti Közadatportálon terjeszti elő az adathasznosítás-támogatási szolgáltatás nyújtására jogszabályban feljogosított központi vagy regisztrált szolgáltatónál (ezen fejezet alkalmazásában a továbbiakban együtt: szolgáltató).
 
 (2) A szolgáltató honlapján közérthető tájékoztatást nyújt a szolgáltatásigénylés és szolgáltatásteljesítés eljárásáról, beleértve a határidők, valamint a szükséges technikai, jogi és díjazási feltételek meghatározását.
 
 (3) A szolgáltató köteles a (2) bekezdés szerinti tájékoztatást rendszeresen felülvizsgálni és a szükséges módosításokat haladéktalanul átvezetni.
 
-57. § (1) A Nemzeti Közadatportálon bármilyen e törvényben szabályozott adathasznosítás-támogatási szolgáltatás iránti igény benyújtható. Kormányrendelet egyes szolgáltatások tekintetében előírhatja, hogy az igényt a Nemzeti Közadatportálon keresztül kell benyújtani.
-
-(2) Sikeres benyújtást követően a Nemzeti Közadatportál az igényt a szolgáltató részére továbbítja.
-
-(3) A szolgáltatóhoz rendelés a Nemzeti Adatvagyon Leltárban tárolt információkon, valamint a NAVÜ által a regisztrált szolgáltatókról vezetett nyilvántartáson alapul.
-
-(4) Amennyiben a szolgáltatást többen nyújtják, az igényt az igényben nevesített szolgáltatónak kell továbbítani. Nevesítés hiányában a szolgáltatóhoz rendelés kérdésében a NAVÜ dönt.
-
-(5) Az igényhez rendelhető regisztrált szolgáltató hiányában a Nemzeti Közadatportál az igényt az adatkormányzási rendelet szerinti illetékes szerv feladatait ellátó NAVÜ, vagy a kormányrendeletben ágazati illetékességgel kijelölt illetékes szerv részére továbbítja.
+57. § Sikeres benyújtást követően a Nemzeti Közadatportál az igényt az igényben nevesített szolgáltató részére továbbítja. Nevesítés hiányában a szolgáltatóhoz rendelés kérdésében a NAVÜ dönt. A szolgáltatóhoz rendelés a Nemzeti Adatvagyon Leltárban tárolt információkon, valamint a NAVÜ által a regisztrált szolgáltatókról vezetett nyilvántartáson alapul.
 
 58. § (1) A szolgáltató az adathasznosítás-támogatási szolgáltatások iránti igényekkel kapcsolatos ügyintézést, így különösen az igénylővel való kapcsolattartást kizárólag elektronikus formában biztosítja.
 
@@ -718,7 +708,7 @@ eljárásban.
 
 #### 35. A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat rendelkezésre bocsátása szolgáltatása iránti igény teljesítése
 
-62. § (1) A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat rendelkezésre bocsátása szolgáltatás (ezen fejezet alkalmazásában a továbbiakban: szolgáltatás) iránti igény teljesítése az e fejezet rendelkezései szerint előterjesztett igény útján kezdeményezhető a nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat rendelkezésre bocsátása szolgáltatás nyújtójánál (ezen fejezet alkalmazásában a továbbiakban: szolgáltató).
+62. § (1) A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat rendelkezésre bocsátása szolgáltatás (ezen fejezet alkalmazásában a továbbiakban: szolgáltatás) iránti igény teljesítése az e fejezet rendelkezései szerint a Nemzeti Közadatportálon előterjesztett igény útján kezdeményezhető a nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat rendelkezésre bocsátása szolgáltatás nyújtójánál (ezen fejezet alkalmazásában a továbbiakban: szolgáltató).
 
 (2) Az igényt elektronikus űrlapon nyújtja be az igénylő.
 
@@ -732,9 +722,9 @@ eljárásban.
 - d) a további felhasználás céljára igényelt közadat kívánt formátumát, ideértve az alkalmazni kívánt technikai eszköz és mód megjelölését is,
 - e) rendszeres rendelkezésre bocsátás iránti igény esetén az igényelt rendszerességet.
 
-(2) Ha az igény nem tartalmazza az igénylő (1) bekezdés a) pontja szerinti nyilatkozatát, a kérelmet az Infotv.-nek a közérdekű adatok megismerésére vonatkozó szabályai szerint kell kezelni, és azt az adatkezelő közfeladatot ellátó szerv részére kell továbbítani.
+(2)
 
-(3) Ha az igény az (1) bekezdés a) pontja szerinti nyilatkozatot tartalmazza, a szolgáltató a kérelmet annak beérkezését követően öt munkanapon belül megvizsgálja.
+(3) Ha az igény az (1) bekezdés a) pontja szerinti nyilatkozatot tartalmazza, a szolgáltató a kérelmet annak beérkezését követő öt munkanapon belül megvizsgálja, egyéb esetben érdemi vizsgálat nélkül elutasítja.
 
 (4) Az igény vizsgálata során a szolgáltató ellenőrzi, hogy az igényben megjelölt adatok a szolgáltató rendelkezésére állnak-e és további felhasználás céljára rendelkezésre bocsáthatóak-e.
 
@@ -820,7 +810,7 @@ eljárásban.
 - a) közfeladata ellátásával összefüggő költségeit jelentős részben saját bevételből fedezi, és
 - b) költségvetését a 68. § (1) bekezdés a) pontja szerinti nagy értékű adatkészlet ingyenes rendelkezésre bocsátása nagy mértékben befolyásolná.
 
-(4) A NAVÜ az igény teljesítéséhez a közfeladatot ellátó szervtől átvett adatot jogosult feladatai ellátása céljából a Nemzeti Adatplatformon tárolni és azokat az adatot átadó közfeladatot ellátó szerv hozzájárulása és a kormányzati tájékoztató szolgáltatási igény esetében további díj fizetése nélkül a további szolgáltatási igények teljesítésénél felhasználni.
+(4)
 
 #### 37. A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat további felhasználására vonatkozó megállapodás szabályai
 
@@ -879,40 +869,37 @@ eljárásban.
 
 #### 39. A nemzeti adatvagyon körébe tartozó személyes vagy védett adat rendelkezésre bocsátása szolgáltatás iránti igények teljesítésének szabályai
 
-73. § (1) A nemzeti adatvagyon körébe tartozó személyes vagy védett adat rendelkezésre bocsátása szolgáltatás (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) iránti igények kezelésére a 24. alcím szerinti szabályokat az ezen alcímben meghatározott eltérésekkel kell alkalmazni, ha a közfeladatot ellátó szerv a szolgáltatás igénybevételére a NAVÜ-vel köt megállapodást.
+73. § (1) A nemzeti adatvagyon körébe tartozó személyes vagy védett adat rendelkezésre bocsátása szolgáltatás (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) igény útján kezdeményezhető a közfeladatot ellátó szervnél, mint szolgáltatás nyújtójánál (e fejezet alkalmazásában a továbbiakban: szolgáltató).
 
-(2) Az (1) bekezdés szerinti esetben az igényt az igénylő a Nemzeti Közadatportálon keresztül, elektronikus úton küldi meg a NAVÜ részére.
+(2) Az igényt az igénylő a Nemzeti Közadatportálon keresztül, elektronikus úton terjeszti elő a szolgáltató részére.
 
-(3) A NAVÜ az igényt megvizsgálja, ennek során meghatározza, hogy az igényt maga teljesíti, ideértve a bevont közreműködővel történő teljesítés esetét is, vagy a teljesítésben a 42. alcím szerinti szolgáltatásközvetítőként vesz részt.
+(3) A szolgáltató az igényt megvizsgálja és az igény beérkezésének napjától számított két hónapon belül dönt az igény teljesíthetőségéről és erről a Nemzeti Közadatportálon keresztül tájékoztatja az igénylőt.
 
-(4) A NAVÜ az igény feldolgozása során megvizsgálja, hogy az igény teljesítéséhez mely a nemzeti adatvagyonba tartozó adat vagy a nemzeti adatvagyon körébe nem tartozó, nem közfeladatot ellátó szervtől beszerezhető adat felhasználása szükséges.
+(4) A (3) bekezdésben foglalt határidő indokolt esetben legfeljebb 30 nappal meghosszabbítható. A határidő hosszabbítás tényéről és okáról az igénylőt a Nemzeti Közadatportálon keresztül értesíteni kell.
 
-(5) Az igény teljesítése érdekében a NAVÜ bármely közfeladatot ellátó szervet megkereshet személyes vagy védett adatot tartalmazó adat személytelenített formában történő rendelkezésre bocsátása érdekében.
+(5) Hiányos igény esetén, ha a hiány az igény teljesíthetőségét akadályozza, a szolgáltató az igénylőt – legalább öt, de legfeljebb tíz munkanapos határidő megjelölése és az arra való figyelemfelhívás mellett, hogy a kért adatok hiányában a kérelme nem teljesíthető – a hiányok megjelölésével a hiányzó adatok pótlására hívja fel. Ha az igénylő a hiánypótlási felhívásnak határidőben nem tesz eleget, úgy kell tekinteni, mintha a kérelmet be sem nyújtotta volna. A hiánypótlás a határidőbe nem számít bele.
 
-(6) A közfeladatot ellátó szerv a 43. alcím szerint köteles a kért adat szolgáltatására.
+#### 74. §
 
-74. § (1) Az igényt a NAVÜ – a 75. §-ban szabályozott eseteket kivéve – hatvan napon belül teljesíti.
+75. § (1) A szolgáltató az igény teljesítését – a c) pont kivételével – indokolással ellátva elutasítja, ha
 
-(2) Hiányos igény esetén, ha a hiány az igény teljesíthetőségét akadályozza, a NAVÜ az igénylőt – legalább öt, de legfeljebb tíz munkanapos határidő megjelölése és az arra való figyelemfelhívás mellett, hogy a kért adatok hiányában a kérelme nem teljesíthető – a hiányok megjelölésével a hiányzó adatok pótlására hívja fel. Ha az igénylő a hiánypótlási felhívásnak határidőben nem tesz eleget, úgy kell tekinteni, mintha a kérelmet be sem nyújtotta volna.
-
-(3) A NAVÜ szükség esetén az igény pontosítására – az igény teljesítéséhez szükséges adatot kezelő közfeladatot ellátó szerv bevonásával – szakmai konzultációt szervezhet az igénylővel. A konzultáció ideje nem számít bele az (1) bekezdés szerinti határidőbe.
-
-(4) Amennyiben az igénylő nem működik közre az igény tisztázásában, az eljárás során a NAVÜ a be nem benyújtott hiánypótlás jogkövetkezményeit alkalmazza.
-
-75. § (1) A NAVÜ az igény teljesítését elutasítja, ha
-
-- a) a teljesítéshez szükséges adatok elektronikus formában nem léteznek vagy nem hozzáférhetők;
+- a) a teljesítéshez szükséges adatok elektronikus formában nem léteznek vagy nem hozzáférhetők, továbbá, ha az adatok további felhasználását jogszabály korlátozza vagy tiltja;
 - b) a teljesítés során nem biztosítható a személyes adat vagy a védett adat védelmét szolgáló előírások érvényesülése;
 - c) a teljesítés Magyarország nemzetbiztonsági, honvédelmi, rendvédelmi érdekeit sérti, vagy veszélyezteti.
 
-(2) A NAVÜ piaci tájékoztatási szolgáltatás iránti igény, valamint kutatószoba-szolgáltatás vagy felügyelt távoli elérés szolgáltatás iránti igény teljesítésekor
+(2) Az igénylő – az (1) bekezdés c) pontja alapján történt elutasítás kivételével – az igény elutasítása vagy az igény teljesítésére nyitva álló, vagy a szolgáltató által meghosszabbított határidő eredménytelen eltelte esetén, valamint a szolgáltató által a további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj összegének felülvizsgálata érdekében bírósághoz fordulhat. Az automatizált eljárásban hozott döntés kijavítására és megtámadására a 71. § (2)–(4) bekezdésben foglalt szabályokat kell alkalmazni.
 
-- a) a miniszter a 8. § (2) bekezdés b) pontja vagy a 27. § (2) bekezdése szerinti döntése alapján jár el;
-- b) az adott igényre vonatkozó miniszteri döntés hiányában a miniszter által előzetesen jóváhagyott szakmai szabályok és alapelvek figyelembevételével jár el.
+(3) Az igény elutasításának jogszerűségét, illetve további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj összegének megalapozottságát a szolgáltatónak kell bizonyítania.
 
-76. § (1) A formalizálható igénytípusokra – ahol az igény teljesítésére vonatkozó döntés algoritmus alapján meghatározható – a NAVÜ a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 21. § (1) bekezdése szerinti automatikus döntéshozatali eljárást alkalmazhat.
+(4) A pert az igény elutasításának közlésétől, az igény elintézésére rendelkezésre álló határidő eredménytelen elteltétől, illetve – a díj összegének felülvizsgálatára irányuló kereset esetén – a díj megfizetésére vonatkozó határidő lejártától számított tíz munkanapon belül kell megindítani az igényt elutasító közfeladatot ellátó szerv ellen. A díj megfizetése nem akadálya a per megindításának. A perindításra rendelkezésre álló határidő elmulasztása esetén igazolásnak van helye.
 
-(2) A NAVÜ az igény teljesítéséhez a közfeladatot ellátó szervtől átvett adatot a 14. § (2) bekezdése szerinti esetekben jogosult feladatai ellátása céljából a Nemzeti Adatplatformon tárolni és azokat az adatot átadó közfeladatot ellátó szerv hozzájárulása és továbbá díj fizetése nélkül a feladatai elvégzése során felhasználni.
+(5) Az országos vagy több törvényszék illetékességi területét érintő működési körű közfeladatot ellátó szerv ellen indult per a törvényszék hatáskörébe tartozik. A járásbíróság hatáskörébe tartozó ügyekben a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság jár el. A bíróság illetékességét az alperes szolgáltatást nyújtó székhelye alapítja meg.
+
+(6) Ha a bíróság az igénynek helyt ad, határozatában a közfeladatot ellátó szervet a kért adat további felhasználás céljából történő rendelkezésre bocsátására kötelezi.
+
+(7) A bíróság a további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a díj összegének megállapítása tekintetében új eljárásra kötelezheti. Ha az igénylő a per megindításakor a közfeladatot ellátó szerv által eredetileg megállapított díjat már megfizette, és ennek a díjnak az összege nagyobb a díjnak a per eredményeképpen megállapított összegénél, a bíróság a különbözetnek az igénylő részére történő megtérítésére kötelezi a közfeladatot ellátó szervet.
+
+#### 76. §
 
 77. § Az igények teljesítésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -950,9 +937,9 @@ eljárásban.
 
 #### 43. A közfeladatot ellátó szerv adatszolgáltatási kötelezettsége
 
-82. § (1) A közfeladatot ellátó szerv köteles az adathasznosítás-támogatási szolgáltatások nyújtásához szükséges, általa kezelt adatokat a szolgáltatás nyújtója, így különösen a NAVÜ rendelkezésére bocsátani, valamint az adatok kezeléséhez és további felhasználásához szükséges leíró információkat megadni.
+82. § (1) A közfeladatot ellátó szerv köteles az általa kezelt adatokat az adathasznosítás-támogatási szolgáltatások nyújtásához a 12. § (1) bekezdésében foglaltak teljesítéséhez a NAVÜ, továbbá a 16. § (3) bekezdés szerinti szolgáltatás nyújtója rendelkezésére bocsátani, valamint az adatok kezeléséhez és további felhasználásához szükséges leíró információkat megadni.
 
-(2) A személyes, valamint a védett adatot a közfeladatot ellátó szerv a 26. alcím szerinti személytelenítési szolgáltatással személytelenített formában bocsátja rendelkezésre.
+(2) A személyes, valamint a védett adatot a közfeladatot ellátó szerv személytelenített formában bocsátja rendelkezésre.
 
 (3) A (2) bekezdés szerinti személytelenítésnél a közfeladatot ellátó szerv – jogszabály eltérő rendelkezése hiányában – az adathasznosítás-támogatási szolgáltatást nyújtó szerv előírásai szerint jár el.
 
@@ -960,7 +947,7 @@ eljárásban.
 
 (5) A közfeladatot ellátó szerv az igényelt adatokat elsősorban alkalmazásprogramozási interfészen keresztül vagy a Dáptv. szerinti központi elektronikus ügyintézési szolgáltatás igénybevételével, ha ezek feltételei nem adottak, akkor csoportos letöltésre alkalmas módon bocsátja a NAVÜ rendelkezésére.
 
-(6) Az (5) bekezdés szerint rendelkezésre bocsátott adatokhoz való hozzáférés gyakoriságát az adatot rendelkezésre bocsátó közfeladatot ellátó szerv működési biztonsága figyelembevételével határozza meg. Az ezt meghaladó gyakoriságú hozzáférési igény teljesítését a NAVÜ-vel esetileg egyezteti.
+(6) A NAVÜ a közfeladatot ellátó szervtől átvett adatot a 14. § (2) bekezdése szerinti esetekben és módon jogosult feladatai ellátása céljából biztonságos adatkezelési környezetben tárolni és – amennyiben jogszabály másként nem rendelkezik – azokat az adatot átadó közfeladatot ellátó szerv hozzájárulása és további díj fizetése nélkül a feladatai elvégzése során azok személytelenített jellegének megtartása mellett felhasználni.
 
 (7) A nyilvántartások és az adatkészletek frissítési gyakoriságát a Nemzeti Adatvagyon Leltárban fel kell tüntetni.
 
@@ -983,7 +970,7 @@ eljárásban.
 
 (5) Ha az (1) bekezdés szerinti megtagadási feltétel nem áll fenn, a közfeladatot ellátó szerv az adat átadására – a szükség szerinti személytelenítés elvégzését is beleértve – akkor is köteles, ha a (4) bekezdés szerinti megállapodást még nem kötötték meg.
 
-(6) Vita esetén a miniszter – vizsgálatot követően – dönt az átadás feltételeiről.
+(6)
 
 #### 45. A kötelezettségek megszegésének következményei
 
@@ -1065,6 +1052,8 @@ eljárásban.
 
 (6) Az (5) bekezdésben meghatározott egyedi felmentés megadható az időszakosan jelentkező adatfeldolgozási feladatok hatékony ellátásának biztosítása érdekében is, ha azok határidőben való ellátása a rendelkezésre álló erőforrások mellett más módon nem lehetséges. Az egyedi felmentés határozott időre adható meg. Az egyedi felmentés megadását megelőzően a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a tervezett egyedi felmentés indokáról, tartalmáról és időtartamáról a Kormányt tájékoztatja.
 
+(7) A (3) bekezdésben foglalt rendelkezésektől eltérően adatfeldolgozással bízható meg a NAVÜ az adathasznosítás-támogatási szolgáltatások nyújtásához szükséges mértében.
+
 #### 94. §
 
 ### XIII. Fejezet — A STATISZTIKAI ADATELEMZŐ SZOLGÁLTATÁS, EGYEDI STATISZTIKAI ADAT BEVONÁSÁNAK KÜLÖNÖS SZABÁLYAI
@@ -1083,14 +1072,7 @@ eljárásban.
 
 (7)
 
-96. § (1) A KSH a NAVÜ felkérésére közreműködik
-
-- a) a kormányzati tájékoztatási szolgáltatás,
-- b) a közcélú tájékoztatási szolgáltatás,
-- c) a piaci tájékoztatási szolgáltatás, valamint
-- d) a döntés-előkészítést támogató szolgáltatás
-
-nyújtásában.
+96. § (1) A KSH a NAVÜ felkérésére közreműködik a NAVÜ által nyújtott szolgáltatások fejlesztésében és nyújtásában.
 
 (2) Az adatelemzéshez szükséges nem statisztikai adatgyűjtésből származó adatokat – a nyílt hozzáférésű adatok kivételével – a NAVÜ kéri el a közfeladatot ellátó szervektől.
 
@@ -1121,7 +1103,7 @@ nyújtásában.
 - i) a személytelenített adatok, nyilvántartások és adatkészletek kezelésére,
 - j) a KSH által biztosított hozzáférésre,
 - k) a NAVÜ és a KSH között kialakított együttműködésben érintett adatkezelésre, valamint
-- l) a döntés-előkészítést támogató szolgáltatásnál alkalmazott 28. § (5) és (6) bekezdése szerinti számítógépes adatkapcsolatra.
+- l)
 
 (2) Az (1) bekezdés szerinti adatkezelés során valamennyi, az adatkezelésben közreműködő szereplőre kiterjedően biztosítani kell a magas szintű biztonsági védelmet
 
@@ -1133,7 +1115,7 @@ nyújtásában.
 
 (4) A regisztráció megszüntetését a regisztráló és a regisztrált személy bármikor kezdeményezheti. A NAVÜ ebben az esetben a megszüntetés iránti igény kézhezvételétől számított öt munkanapon belül a regisztrációt megszünteti és a (3) bekezdés szerinti személyes adatokat törli.
 
-(5) Az adathasznosítás-támogatási szolgáltatások nyújtóira, valamint a szolgáltatás nyújtásához igénybe vett informatikai rendszerekre a Magyarország kiberbiztonságáról szóló törvény előírásait kell alkalmazni abban az esetben is, ha a szolgáltató nem tartozik az a Magyarország kiberbiztonságáról szóló törvény hatálya alá.
+(5) Az (1) bekezdés a) és c)–g) pontjaiban foglalt adathasznosítás-támogatási szolgáltatások nyújtóira, valamint a szolgáltatás nyújtásához igénybe vett informatikai rendszerekre a Magyarország kiberbiztonságáról szóló törvény előírásait kell alkalmazni abban az esetben is, ha a szolgáltató nem tartozik az a Magyarország kiberbiztonságáról szóló törvény hatálya alá.
 
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1212,7 +1194,12 @@ rendeletben állapítsa meg.
 
 105. § (1) Ez a törvény a nyílt hozzáférésű adatokról és a közszféra információinak további felhasználásáról szóló, 2019. június 20-i (EU) 2019/1024 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(2) Ez a törvény az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló 2022. május 30-i 2022/868 (EU) európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Ez a törvény
+
+- a) az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló, 2022. május 30-i (EU) 2022/868 európai parlamenti és tanácsi rendelet és
+- b) az európai egészségügyi adattérről, valamint a 2011/24/EU irányelv és az (EU) 2024/2847 rendelet módosításáról szóló, 2025. február 11-i (EU) 2025/327 európai parlamenti és a tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

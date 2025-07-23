@@ -8,7 +8,7 @@ Annak érdekében, hogy az Európai Unió támogatásából vagy a központi kö
 
 #### 1. Hatály
 
-1. § E törvény hatálya az államháztartás központi alrendszeréből, valamint az európai uniós forrásokból nyújtott költségvetési támogatás igénybevételével megvalósuló turisztikai fejlesztésekre, továbbá a szálláshely-szolgáltatókra és szálláshely-szolgáltatást igénybe vevő és a szálláshelyet vele együtt igénybe vevő személyekre, a vendéglátó üzlet üzemeltetőkre és a vendéglátó üzlet szolgáltatásait igénybe vevő személyekre, továbbá a turisztikai attrakció üzemeltetőkre, a turisztikai attrakciót látogató és igénybe vevő személyekre terjed ki.
+1. § E törvény hatálya az államháztartás központi alrendszeréből, valamint az európai uniós forrásokból nyújtott költségvetési támogatás igénybevételével megvalósuló turisztikai fejlesztésekre, továbbá a szálláshely-szolgáltatókra, a szálláshely-szolgáltatást igénybe vevő és a szálláshelyet vele együtt igénybe vevő személyekre, a vendéglátó üzlet üzemeltetőkre és a vendéglátó üzlet szolgáltatásait igénybe vevő személyekre, a turisztikai attrakció üzemeltetőkre, a turisztikai attrakciót látogató és igénybe vevő személyekre, továbbá a kikötő üzemeltetőkre terjed ki.
 
 #### 2. Értelmező rendelkezések
 
@@ -20,6 +20,7 @@ Annak érdekében, hogy az Európai Unió támogatásából vagy a központi kö
 - 4. turisztikai térség (desztináció): olyan földrajzilag körülhatárolható, beazonosítható területrész, amely a turisztikai kínálati piacon egységes fogadóterületként jeleníthető meg, épített környezeti, természetföldrajzi vagy kulturális értékek tekintetében összefüggő elemek alkotják, ezért egységes koncepcióban történő tervezéséhez, fejlesztéséhez és térségi turisztikai márka kialakításához országos érdek fűződik;
 - 5. egyéb kiemelt turisztikai jelentőségű állami ingatlan, vagyonelem: az állam 100%-os tulajdonában álló, olyan ingatlan vagy vagyonelem, amely turisztikai fejlesztési célú hasznosítása kiemelt jelentőséggel bír, elhelyezkedésénél, jellegénél fogva alkalmas arra, hogy turisztikai fejlesztés helyszíne legyen, vagy annak tárgyát képezze, és ezt jogszabály, szerződés vagy más megállapodás nem zárja ki, azonban kiemelt állami turisztikai beruházással nem érintett;
 - 6. ingatlan: ingatlan, ingatlanrészek, ingatlanalrészlet és ingatlanhányad.
+- 6a. kikötő üzemeltetője: a Duna magyarországi szakaszán található, személyforgalmat lebonyolító, a víziközlekedésről szóló 2000. évi XLII. törvény 87. § 20. pontja szerinti kikötő üzemben tartója;
 - 7. turisztikai attrakció: olyan turisztikai céllal hasznosított és működtetett természeti vagy ember alkotta vonzerő, illetve földrajzi terület, amely a látogatók számára élmény-, szabadidős, utazási szolgáltatásokkal, kínálati palettával, vagy szórakoztatási funkcióval rendelkezik;
 - 8. turisztikai attrakció üzemeltetője: a turisztikai attrakció bérlője, tulajdonosa, fenntartója vagy kezelője;
 - 9. turisztikailag kiemelt jelentőségű település: olyan település, ahol legalább egy országos, vagy nemzetközi jelentőségű turisztikai attrakció található, és amely a beutazó turizmus szempontjából kiemelkedő jelentőségű vagy célzott fejlesztések eredményeként azzá tehető;
@@ -288,6 +289,10 @@ továbbítsa.
 
 (3) A turisztikai attrakció üzemeltetője általi Nemzeti Turisztikai Adatszolgáltató Központtal összefüggő adatszolgáltatási kötelezettség megsértése esetén az (1) bekezdés szerinti hatóságok közigazgatási bírság szankciót alkalmaznak.
 
+#### 6/D. A kikötő üzemeltetők adatszolgáltatási kötelezettsége
+
+9/L. § A kikötő üzemeltetője köteles a Kormány rendeletében meghatározott adatkörökről információt szolgáltatni Üzemeltető részére.
+
 ### II/B. Fejezet — A TURIZMUSFEJLESZTÉST SZOLGÁLÓ ÁLLAMI KEZESSÉGVÁLLALÁS SZABÁLYAI
 
 #### 6/E. Kisfaludy Turisztikai Hitelközpont
@@ -321,6 +326,7 @@ továbbítsa.
 - m) turisztikailag kiemelt jelentőségű településeket
 - n) turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön Nemzeti Turisztikai Adatszolgáltató Központ közreműködésével történő nyújtásának és igénybevételének részletes szabályait
 - o) KTH Zrt. forrásbevonásához kapcsolódó állami készfizető kezességvállalás részletszabályait és a magyarországi turizmus és vendéglátóipar fejlesztése érdekében biztosítandó költségvetési támogatás szabályait;
+- p) kikötő üzemeltetője adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat, az adatszolgáltatással érintett adatkört, továbbá a szolgáltatott adatok kezelésével és felhasználásával kapcsolatos részletes szabályokat
 
 rendeletben határozza meg.
 

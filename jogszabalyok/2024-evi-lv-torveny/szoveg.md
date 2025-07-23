@@ -159,11 +159,7 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 63. §
 
-64. § (1) A Jöt. 113. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A vasúti közlekedésről szóló törvény szerinti vasúti árutovábbítási tevékenységet végző személy jogosult az e tevékenységéhez, valamint az e tevékenységhez kapcsolódóan végzett vasúti vontatáshoz, tolatáshoz felhasznált villamos energia adójának visszaigénylésére.”
-
-(2)
+#### 64. §
 
 #### 65. §
 
@@ -179,17 +175,7 @@ A kormány adópolitikája 2010 óta következetes és változatlan: középpont
 
 #### 71. §
 
-72. § A Jöt.
-
-- a)
-- b)
-- c) 95. § (9)–(11) és (13) bekezdésében a „113. § (1)” szövegrészek helyébe a „113. § (1)–(1a)” szövegrész,
-- d)
-- e)
-- f)
-- g)
-
-lép.
+#### 72. §
 
 #### 73. §
 

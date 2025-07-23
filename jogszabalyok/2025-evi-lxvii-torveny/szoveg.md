@@ -132,21 +132,95 @@ lép.
 
 #### 32. §
 
-#### 12.
+#### 12. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-#### 33. §
+33. § (1) A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 17/A. § (3) bekezdése helyébe a következő rendelkezés lép és a § a következő (3a) és (3b) bekezdéssel egészül ki:
 
-#### 34. §
+„(3) A vállalkozás a szóbeli panaszt azonnal megvizsgálja és szükség szerint orvosolja.
 
-#### 35. §
+(3a) Ha a fogyasztó a panasz kezelésével nem ért egyet, vagy a panasz azonnali kivizsgálása nem lehetséges, a vállalkozás a panaszról és az azzal kapcsolatos álláspontjáról haladéktalanul jegyzőkönyvet vesz fel, és a (6) bekezdésben foglaltak szerint jár el.
 
-#### 36. §
+(3b) A vállalkozás a (3a) bekezdés szerinti jegyzőkönyv egy másolati példányát a fogyasztónak
 
-#### 37. §
+- a) személyesen közölt szóbeli panasz esetén helyben átadja,
+- b) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén – az (5a) bekezdésben foglalt kivétellel – legkésőbb a (6) bekezdésben foglalt érdemi válasszal egyidejűleg megküldi.”
 
-#### 38. §
+(2) Az Fgytv. 17/A. § (5) bekezdése a következő h) ponttal egészül ki:
 
-#### 39. §
+(A panaszról felvett jegyzőkönyvnek tartalmaznia kell az alábbiakat:)
+
+„h) az (5a) bekezdésben foglaltakra vonatkozó figyelmeztetés.”
+
+(3) Az Fgytv. 17/A. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Ha a fogyasztó a jegyzőkönyv felvétele során az (5) bekezdés a) és c) pontjában foglalt adatokat nem adja meg, vagy a jegyzőkönyv (5) bekezdés e) pontja szerinti aláírását megtagadja, a vállalkozás a szóbeli panasz elintézése során a (6) bekezdésben foglaltak alkalmazását mellőzi.”
+
+(4) Az Fgytv. 17/A. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) Ha a vállalkozás az írásbeli panasz bejelentésére elektronikus felületet, űrlapot biztosít, köteles a fogyasztó által megadott elektronikus levelezési címen az írásbeli panasz beérkezését haladéktalanul visszaigazolni.”
+
+(5) Az Fgytv. 17/A. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A vállalkozás a szóbeli panaszról felvett jegyzőkönyvet vagy az írásbeli panaszt, továbbá a panaszra adott érdemi válaszának másolati példányát három évig köteles megőrizni, és azt az ellenőrző hatóság felhívására bemutatni.”
+
+34. § Az Fgytv. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az eljárásra
+
+- a) a természetes személy fogyasztó lakóhelye vagy tartózkodási helye,
+- b) a nem természetes személy fogyasztó székhelye
+
+szerinti békéltető testület illetékes.”
+
+35. § Az Fgytv. 25. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Nem vehet részt az eljárásban az a békéltető testületi tag, aki
+
+- a) az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott, vagy
+- b) a megelőző három évben a fogyasztóval vagy az eljárásban részt vevő vállalkozással foglalkoztatásra irányuló jogviszonyban állt.”
+
+36. § Az Fgytv. 28. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A kérelmet a békéltető testület elnökéhez kell írásban benyújtani. Az írásos formának a 17/C. § szerinti módokon is eleget lehet tenni. A kérelemnek tartalmaznia kell)
+
+„a) a fogyasztó nevét, a nem természetes személy fogyasztó törvényes képviselőjének a nevét, a természetes személy fogyasztó lakóhelyét vagy tartózkodási helyét, a nem természetes személy fogyasztó székhelyét, továbbá a fogyasztó elektronikus elérhetőségét, amennyiben azzal rendelkezik,”
+
+37. § Az Fgytv. 45. § (1) bekezdése a következő l) ponttal egészül ki:
+
+(Az állam és a helyi önkormányzatok előmozdítják és támogatják a fogyasztói érdekek képviseletét ellátó egyesületek arra irányuló tevékenységét, hogy)
+
+„l) ellássák a jogszabályban meghatározott feladataikat.”
+
+38. § Az Fgytv.
+
+- 1. 17/A. § (1a) bekezdésében a „lakóhelye vagy tartózkodási helye szerint” szövegrész helyébe a „lakóhelye, tartózkodási helye vagy székhelye szerint” szöveg,
+- 2. 17/A. § (5) bekezdés a) pontjában a „lakcíme,” szövegrész helyébe a „lakcíme vagy elektronikus levelezési címe,” szöveg,
+- 3. 17/A. § (5) bekezdés g) pontjában az „azonosítószáma.” szövegrész helyébe az „azonosítószáma, és” szöveg,
+- 4. 17/A. § (8) bekezdésében a „lakóhelye vagy tartózkodási helye szerinti” szövegrész helyébe a „lakóhelye, tartózkodási helye vagy székhelye szerinti” szöveg,
+- 5. 20. § (2) bekezdésében a „lakóhelye és tartózkodási helye hiányában” szövegrész helyébe a „lakóhelye, tartózkodási helye vagy székhelye hiányában” szöveg,
+- 6. 28. § (2) bekezdés f) pontjában a „nyilatkozatát arra nézve” szövegrész helyébe az „arra vonatkozó nyilatkozatát” szöveg,
+- 7. 28. § (3) bekezdésében a „(kivonatát)” szövegrész helyébe a „vagy kivonatát” szöveg,
+- 8. 28. § (5) bekezdésében a „pótlásra” szövegrész helyébe a „hiánypótlásra” szöveg,
+- 9. 29. § (4) bekezdés d) pontjában a „– különösen, ha kártérítésre irányul –, illetve ha” szövegrész helyébe a „vagy” szöveg és az „elbírálására vagy” szövegrész helyébe az „elbírálására, vagy” szöveg,
+- 10. 29. § (4a) bekezdésében az „a kérelem meghallgatás kitűzése nélküli elutasítása” szövegrész helyébe az „az eljárás meghallgatás kitűzése nélküli megszüntetése” szöveg,
+- 11. 32. § a) pont ab) alpontjában a „kétszázezer” szövegrész helyébe a „kétszázötvenezer” szöveg,
+- 12. 37/A. § (3) bekezdés a) pontjában az „e-mail” szövegrész helyébe az „elektronikus levelezési” szöveg;
+- 13. 38. § (6) bekezdésében a „fogyasztóvédelemért felelős miniszter – a feljogosított” szövegrész helyébe a „fogyasztóvédelmi hatóság – a fogyasztóvédelemért felelős miniszter feljogosított” szöveg,
+- 14. 38/F. § (1) bekezdés a) pontjában a „keresetekről,” szövegrész helyébe a „keresetekről és közérdekű keresetekről,” szöveg,
+- 15. 38/F. § (1) bekezdés b) pontjában a „keresettel megindított” szövegrész helyébe a „keresettel és közérdekű keresettel megindított” szöveg,
+- 16. 38/F. § (1) bekezdés c) pontjában a „keresetekkel megindított” szövegrész helyébe a „keresetekkel és közérdekű keresetekkel megindított” szöveg,
+- 17. 38/G. § (1) bekezdésében a „miniszter honlapján” szövegrész helyébe a „miniszter a fogyasztóvédelmi hatóság honlapján” szöveg,
+- 18. 45. § (1) bekezdés k) pontjában a „keresztül.” szövegrész helyébe a „keresztül, valamint” szöveg,
+- 19. 46/A. §-ában az „az Ákr.” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.)” szöveg,
+- 20. 47/C. § (1a) bekezdésében az „az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. § a) pontja szerinti” szövegrész helyébe az „az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti” szöveg
+
+lép.
+
+39. § Hatályát veszti az Fgytv.
+
+- 1. 17/D. § (6) bekezdése,
+- 2. 29/C. §-a,
+- 3. 46. § (2b) és (2c) bekezdése.
 
 #### 13.
 
@@ -210,13 +284,26 @@ lép.
 
 #### 63. §
 
-#### 19.
+#### 19. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-#### 64. §
+64. § A kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 3. §-a a következő (5a) és (5b) bekezdéssel egészül ki:
 
-#### 65. §
+„(5a) Az üzletben folytatott kereskedelmi tevékenység nem sértheti a helyi építési szabályzat rendeltetésre és elhelyezhetőségre vonatkozó előírásait.
 
-#### 66. §
+(5b) A (9) bekezdésben foglaltakat a kereskedelmi hatóság a kereskedelmi tevékenység bejelentésével kapcsolatos eljárás, illetve a működési engedélyezési eljárás során vizsgálja.”
+
+65. § A Kertv. 5/F. §-a helyébe a következő rendelkezés lép:
+
+„5/F. § (1) A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet 1. §-a szerinti kereskedő biztosítja a fogyasztó számára az elektronikus fizetés lehetőségét és annak folyamatos rendelkezésre állását.
+
+(2) Az automatizált üzlethelyiség kivételével a 400 m2-nél nagyobb bruttó alapterületű üzletben folytatott kiskereskedelmi tevékenység során a kereskedő biztosítja legalább egy nem önkiszolgáló pénztárgép folyamatos rendelkezésre állását.”
+
+66. § A Kertv.
+
+- a) 5/A. §-ában az „az országos településrendezési és építési követelményekről” szövegrész helyébe az „a településrendezési és építési követelmények alapszabályzatáról” szöveg,
+- b) 14. §-ában a „§ tervezetének” szövegrész helyébe a „§, valamint az 5/F. § (2) bekezdése tervezetének” szöveg
+
+lép.
 
 #### 20. A fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosítása
 
@@ -479,9 +566,15 @@ lép.
 
 #### 42. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
 
-#### 167. §
+167. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: Turizmus törvény) 1. §-a helyébe a következő rendelkezés lép:
 
-#### 168. §
+„1. § E törvény hatálya az államháztartás központi alrendszeréből, valamint az európai uniós forrásokból nyújtott költségvetési támogatás igénybevételével megvalósuló turisztikai fejlesztésekre, továbbá a szálláshely-szolgáltatókra, a szálláshely-szolgáltatást igénybe vevő és a szálláshelyet vele együtt igénybe vevő személyekre, a vendéglátó üzlet üzemeltetőkre és a vendéglátó üzlet szolgáltatásait igénybe vevő személyekre, a turisztikai attrakció üzemeltetőkre, a turisztikai attrakciót látogató és igénybe vevő személyekre, továbbá a kikötő üzemeltetőkre terjed ki.”
+
+168. § A Turizmus törvény 2. §-a a következő 6a. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„6a. kikötő üzemeltetője: a Duna magyarországi szakaszán található, személyforgalmat lebonyolító, a víziközlekedésről szóló 2000. évi XLII. törvény 87. § 20. pontja szerinti kikötő üzemben tartója;”
 
 #### 169. §
 
@@ -489,7 +582,11 @@ lép.
 
 #### 171. §
 
-#### 172. §
+172. § A Turizmus törvény II. fejezete a következő 6/D. alcímmel egészül ki:
+
+#### „6/D. A kikötő üzemeltetők adatszolgáltatási kötelezettsége
+
+9/L. § A kikötő üzemeltetője köteles a Kormány rendeletében meghatározott adatkörökről információt szolgáltatni Üzemeltető részére.”
 
 #### 173. §
 
@@ -501,7 +598,13 @@ lép.
 
 (3)
 
-(4)
+(4) A Turizmus törvény 10. §-a a következő p) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy a)
+
+„p) kikötő üzemeltetője adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat, az adatszolgáltatással érintett adatkört, továbbá a szolgáltatott adatok kezelésével és felhasználásával kapcsolatos részletes szabályokat”
+
+(rendeletben határozza meg.)
 
 176. § A Turizmus törvény
 
@@ -636,51 +739,202 @@ lép.
 
 #### 53. A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. CI. törvény módosítása
 
-#### 225. §
+225. § A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. CI. törvény (a továbbiakban: Nahtv.) 2. § 34. pontja helyébe a következő rendelkezés lép:
 
-#### 226. §
+(E törvény alkalmazásában)
 
-#### 227. §
+„34. személytelenített adat:
 
-#### 228. §
+a) olyan adat, amely alapján a természetes személy további információk felhasználásával sem azonosítható, azaz az anonimizált személyes adat, illetve az olyan védett adat, amely esetében az egyedi beazonosítás lehetősége véglegesen megszűnt,
 
-#### 229. §
+b) olyan adat, amely esetében az adathasznosítást végző szerv vagy személy nem rendelkezik azokkal a technikai feltételekkel, amellyel felfedheti az adat természetes személyhez kapcsoltságát, azaz az álnevesített személyes adat, illetve az olyan védett adat, amely esetében az egyedi beazonosításhoz szükséges technikai feltételekkel az adathasznosítást végző szerv vagy személy nem rendelkezik;”
 
-#### 230. §
+226. § A Nahtv. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 231. §
+„(1) A közfeladatot ellátó szerv az igénylők megfelelő tájékoztatása és az igény teljesítési feltételeinek átláthatósága érdekében az Infotv. 1. melléklet II. pont, 16–25. sorában meghatározott közadatokkal kapcsolatos, továbbá az adatkormányzási rendelet által előírt közzétételi kötelezettséggel érintett információkat köteles a Nemzeti Közadatportálon közzétenni az egyablakos tájékoztatási és kapcsolattartási szolgáltatás keretében.”
 
-#### 232. §
+227. § A Nahtv. 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A NAVÜ ellátja az adatkormányzási rendelet szerinti központi illetékes szerv és egyablakos információs pont feladatait. A Kormány rendeletben meghatározott ágazatok tekintetében további illetékes szervet jelölhet ki, továbbá hatáskört biztosíthat a központi- és ágazati illetékes szerv számára az adatok további felhasználás céljából történő hozzáférés megadásáról vagy megtagadásáról történő döntés meghozatalára.”
+
+228. § A Nahtv. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A NAVÜ az (1) bekezdésben foglalt célokhoz szükséges személyes és védett adatokat személytelenített formában kezeli. A 2. § 34. b) pontja szerinti személytelenített adat tekintetében a NAVÜ adatkezelőnek minősül.”
+
+229. § A Nahtv. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A NAVÜ a 12. § (1) bekezdésben meghatározott célból biztonságos adatkezelési környezetben személytelenített adatot a 2. § 34. b) pontja szerinti formában is tárolhat.”
+
+230. § (1) A Nahtv. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kormányzati tájékoztatási szolgáltatás keretében az adatalapú kormányzás megvalósításhoz szükséges kormányzati döntéstámogatás érdekében a NAVÜ a központi kormányzati igazgatási szerv számára döntés-előkészítési céllal az általa nyújtott, 16. § (3) és (4) bekezdés szerinti szolgáltatásokat önállóan vagy együttesen, kizárólagos szolgáltatóként nyújtja.”
+
+(2) A Nahtv. 23. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) Ha az adatelemzés személyes adatra vagy védett adatra is kiterjed, a NAVÜ az (1) bekezdés szerinti szolgáltatást a 2. § 34. b) pontja szerinti személytelenített adatokon nyújtja.
+
+(5) Arra az esetre, ha az igény teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás, vagy idősoros elemzés szükséges, a NAVÜ határozza meg a személytelenítéssel, kulcsszolgáltatással, adat-összekapcsolással, vagy idősoros elemzéssel kapcsolatos követelményeket.”
+
+(3) A Nahtv. 23. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) A NAVÜ a 16. § (4) bekezdés f) pontja szerinti szolgáltatás keretében az igényben érintett adatokat biztonságos adatkezelési környezetben, valamint a Nemzeti Közadatportál informatikai szolgáltatásainak igénybevételével elemezhető formában teszi hozzáférhetővé.”
+
+231. § A Nahtv. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Nemzeti Adatvagyon Tanács javaslatára egyes egyértelműen azonosítható és körülírható igénytípusok teljesítésére vonatkozóan a miniszter általános jelleggel előzetes döntési álláspontot adhat a NAVÜ részére. Az olyan igénytípusba tartozó igényeket, amelyekre a miniszter előzetes álláspontot adott ki, továbbá az olyan igényeket, melyet külön törvényben meghatározott célok elérése érdekében terjesztettek elő, nem kell felterjeszteni a miniszter részére.”
+
+232. § (1) A Nahtv. 28. § (3) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(3) A NAVÜ a szolgáltatás keretében – igény esetén az igénylő, igény hiányában az általa meghatározott szempontok szerint – adatalapú alkalmazásokat fejleszt és biztosítja azok használatát. Ennek érdekében a NAVÜ jogosult
+
+- a) adatok összekészítésére,
+- b) adatok összekapcsolására,
+- c) adatok tisztítására,
+- d) adatok személytelenítésére, valamint
+- e) adatok elemzésére.”
+
+(2) A Nahtv. 28. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A NAVÜ az általa fejlesztett adatalapú alkalmazások használatához díj ellenében hozzáférést adhat.”
+
+(3) A Nahtv. 28. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Arra az esetre, ha a szolgáltatás teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ határozza meg a személytelenítéssel, kulcsszolgáltatással, összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.”
 
 #### 233. §
 
-#### 234. §
+234. § A Nahtv. 30. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-#### 235. §
+(A NAVÜ a szolgáltatás teljesítéséhez szükséges adatokra kiterjedően)
 
-#### 236. §
+„c) adatokat kér az adatkezelő közfeladatot ellátó szervektől.”
 
-#### 237. §
+235. § (1) A Nahtv. 31. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 238. §
+„(1) A NAVÜ, továbbá a kormányrendeletben meghatározott adathasznosítás-támogatási szolgáltatással összefüggésben a Kormány által rendeletben kijelölt szerv a kormányrendeletben meghatározott adatkörre vonatkozóan adat-összekapcsolási szolgáltatást nyújt a személyes és védett adatokra kiterjedően.”
 
-#### 239. §
+(2) A Nahtv. 31. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-#### 240. §
+„(4) Az adatösszekapcsolási-szolgáltatás nyújtója a szolgáltatás eredményeként létrejövő személyes vagy védett adatot tartalmazó adatkészletet a 3. § (3) bekezdés b) pontjának alkalmazásával a 2. § 34. b) pontja szerinti formában adhatja át az adatkezelési jogalappal rendelkező igénylő részére.”
 
-#### 241. §
+236. § A Nahtv. 57. § helyébe a következő rendelkezés lép:
 
-#### 242. §
+„57. § Sikeres benyújtást követően a Nemzeti Közadatportál az igényt az igényben nevesített szolgáltató részére továbbítja. Nevesítés hiányában a szolgáltatóhoz rendelés kérdésében a NAVÜ dönt. A szolgáltatóhoz rendelés a Nemzeti Adatvagyon Leltárban tárolt információkon, valamint a NAVÜ által a regisztrált szolgáltatókról vezetett nyilvántartáson alapul.”
 
-#### 243. §
+237. § A Nahtv. 58. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-#### 244. §
+[A (2) bekezdés szerinti hitelesítésre alkalmazható]
 
-#### 245. §
+„a) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 54. §-a szerinti eAláírás,”
 
-#### 246. §
+238. § A Nahtv. 64. § (3) bekezdés helyébe a következő rendelkezés lép:
 
-#### 247. §
+„(3) Ha az igény az (1) bekezdés a) pontja szerinti nyilatkozatot tartalmazza, a szolgáltató a kérelmet annak beérkezését követő öt munkanapon belül megvizsgálja, egyéb esetben érdemi vizsgálat nélkül elutasítja.”
+
+239. § A Nahtv. 73. § helyébe a következő rendelkezés lép:
+
+„73. § (1) A nemzeti adatvagyon körébe tartozó személyes vagy védett adat rendelkezésre bocsátása szolgáltatás (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) igény útján kezdeményezhető a közfeladatot ellátó szervnél, mint szolgáltatás nyújtójánál (e fejezet alkalmazásában a továbbiakban: szolgáltató).
+
+(2) Az igényt az igénylő a Nemzeti Közadatportálon keresztül, elektronikus úton terjeszti elő a szolgáltató részére.
+
+(3) A szolgáltató az igényt megvizsgálja és az igény beérkezésének napjától számított két hónapon belül dönt az igény teljesíthetőségéről és erről a Nemzeti Közadatportálon keresztül tájékoztatja az igénylőt.
+
+(4) A (3) bekezdésben foglalt határidő indokolt esetben legfeljebb 30 nappal meghosszabbítható. A határidő hosszabbítás tényéről és okáról az igénylőt a Nemzeti Közadatportálon keresztül értesíteni kell.
+
+(5) Hiányos igény esetén, ha a hiány az igény teljesíthetőségét akadályozza, a szolgáltató az igénylőt – legalább öt, de legfeljebb tíz munkanapos határidő megjelölése és az arra való figyelemfelhívás mellett, hogy a kért adatok hiányában a kérelme nem teljesíthető – a hiányok megjelölésével a hiányzó adatok pótlására hívja fel. Ha az igénylő a hiánypótlási felhívásnak határidőben nem tesz eleget, úgy kell tekinteni, mintha a kérelmet be sem nyújtotta volna. A hiánypótlás a határidőbe nem számít bele.”
+
+240. § A Nahtv. 75. § helyébe a következő rendelkezés lép:
+
+„75. § (1) A szolgáltató az igény teljesítését – a c) pont kivételével – indokolással ellátva elutasítja, ha
+
+- a) a teljesítéshez szükséges adatok elektronikus formában nem léteznek vagy nem hozzáférhetők, továbbá, ha az adatok további felhasználását jogszabály korlátozza vagy tiltja;
+- b) a teljesítés során nem biztosítható a személyes adat vagy a védett adat védelmét szolgáló előírások érvényesülése;
+- c) a teljesítés Magyarország nemzetbiztonsági, honvédelmi, rendvédelmi érdekeit sérti, vagy veszélyezteti.
+
+(2) Az igénylő – az (1) bekezdés c) pontja alapján történt elutasítás kivételével – az igény elutasítása vagy az igény teljesítésére nyitva álló, vagy a szolgáltató által meghosszabbított határidő eredménytelen eltelte esetén, valamint a szolgáltató által a további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj összegének felülvizsgálata érdekében bírósághoz fordulhat. Az automatizált eljárásban hozott döntés kijavítására és megtámadására a 71. § (2)–(4) bekezdésben foglalt szabályokat kell alkalmazni.
+
+(3) Az igény elutasításának jogszerűségét, illetve további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj összegének megalapozottságát a szolgáltatónak kell bizonyítania.
+
+(4) A pert az igény elutasításának közlésétől, az igény elintézésére rendelkezésre álló határidő eredménytelen elteltétől, illetve – a díj összegének felülvizsgálatára irányuló kereset esetén – a díj megfizetésére vonatkozó határidő lejártától számított tíz munkanapon belül kell megindítani az igényt elutasító közfeladatot ellátó szerv ellen. A díj megfizetése nem akadálya a per megindításának. A perindításra rendelkezésre álló határidő elmulasztása esetén igazolásnak van helye.
+
+(5) Az országos vagy több törvényszék illetékességi területét érintő működési körű közfeladatot ellátó szerv ellen indult per a törvényszék hatáskörébe tartozik. A járásbíróság hatáskörébe tartozó ügyekben a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság jár el. A bíróság illetékességét az alperes szolgáltatást nyújtó székhelye alapítja meg.
+
+(6) Ha a bíróság az igénynek helyt ad, határozatában a közfeladatot ellátó szervet a kért adat további felhasználás céljából történő rendelkezésre bocsátására kötelezi.
+
+(7) A bíróság a további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a díj összegének megállapítása tekintetében új eljárásra kötelezheti. Ha az igénylő a per megindításakor a közfeladatot ellátó szerv által eredetileg megállapított díjat már megfizette, és ennek a díjnak az összege nagyobb a díjnak a per eredményeképpen megállapított összegénél, a bíróság a különbözetnek az igénylő részére történő megtérítésére kötelezi a közfeladatot ellátó szervet.”
+
+241. § (1) A Nahtv. 82. § (1) bekezdése helyébe a következő rendelkezés lép
+
+„(1) A közfeladatot ellátó szerv köteles az általa kezelt adatokat az adathasznosítás-támogatási szolgáltatások nyújtásához a 12. § (1) bekezdésében foglaltak teljesítéséhez a NAVÜ, továbbá a 16. § (3) bekezdés szerinti szolgáltatás nyújtója rendelkezésére bocsátani, valamint az adatok kezeléséhez és további felhasználásához szükséges leíró információkat megadni.”
+
+(2) A Nahtv. 82. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A NAVÜ a közfeladatot ellátó szervtől átvett adatot a 14. § (2) bekezdése szerinti esetekben és módon jogosult feladatai ellátása céljából biztonságos adatkezelési környezetben tárolni és – amennyiben jogszabály másként nem rendelkezik – azokat az adatot átadó közfeladatot ellátó szerv hozzájárulása és további díj fizetése nélkül a feladatai elvégzése során azok személytelenített jellegének megtartása mellett felhasználni.”
+
+242. § A Nahtv. 93. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A (3) bekezdésben foglalt rendelkezésektől eltérően adatfeldolgozással bízható meg a NAVÜ az adathasznosítás-támogatási szolgáltatások nyújtásához szükséges mértében.”
+
+243. § A Nahtv. 96. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A KSH a NAVÜ felkérésére közreműködik a NAVÜ által nyújtott szolgáltatások fejlesztésében és nyújtásában.”
+
+244. § A Nahtv. 99. § (2) bekezdése a következő o) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„o) a központi és ágazati illetékes szerv számára az adatok további felhasználás céljából történő hozzáférés megadásáról vagy megtagadásáról történő döntés meghozatalára vonatkozó hatáskör biztosítását”
+
+(rendeletben határozza meg.)
+
+245. § A Nahtv. 105. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(2) Ez a törvény
+
+- a) az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló, 2022. május 30-i (EU) 2022/868 európai parlamenti és tanácsi rendelet és
+- b) az európai egészségügyi adattérről, valamint a 2011/24/EU irányelv és az (EU) 2024/2847 rendelet módosításáról szóló, 2025. február 11-i (EU) 2025/327 európai parlamenti és a tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.”
+
+246. § A Nahtv.
+
+- a) 2. § 23. pontjában az „adatok tárolását” szövegrész helyébe az „adatok biztonságos adatkezelési környezetben történő tárolását” szöveg,
+- b) 8. § (1) bekezdésében a „koordinálja” szövegrész helyébe az „irányítja” szöveg,
+- c) 10. § (2) bekezdésében az „e feladatai körében közreműködik” szövegrész helyébe az „e feladatai körében szakmai képzéseket tart, továbbá közreműködik” szöveg,
+- d) 10. § (4) bekezdésében az „elektronikus ügyintézés biztosítására” szövegrész helyébe a „digitális szolgáltatás nyújtására” szöveg,
+- e) 12. § (1) bekezdésében a „szolgáltatás nyújtása” szövegrész helyébe a „szolgáltatás fejlesztése és nyújtása” szöveg,
+- f) 14. § (2) bekezdésében a „csak igény teljesítéséhez kapcsoltan” szövegrész helyébe „a 12. § (1) bekezdésben meghatározott cél teljesítéséhez, valamint” szöveg,
+- g) 14. § (3) bekezdésében „az igény alapján a NAVÜ határozza meg” szövegrész helyébe „a NAVÜ határozza meg” szöveg,
+- h) 14. § (4) bekezdésében „A Nemzeti Adatplatformon” szövegrész helyébe „Az (1) bekezdés szerint” szöveg,
+- i) 16. § (6) bekezdésében a „szolgáltatónak” szövegrész helyébe a „kizárólagos szolgáltatónak” szöveg,
+- j) 20. § (1) bekezdésében a „közfeladatot ellátó szervek” szövegrész helyébe a „közfeladatot ellátó szervek, szolgáltatók” szöveg,
+- k) 23. § (6) bekezdésében a „Nemzeti Adatplatform szolgáltatás igénybevételével” szövegrész helyébe a „biztonságos adatkezelési környezetben” szöveg,
+- l) 24. § (2) és (3) bekezdésében, valamint a 25. § (2) bekezdésében a „a 27. alcím szerinti adatelemzési szolgáltatást” szövegrész helyébe „az általa nyújtott, 16. § (3) és (4) bekezdés szerinti szolgáltatásokat önállóan vagy együttesen kizárólagos szolgáltatóként” szöveg,
+- m) 28. § (1) bekezdésében a „NAVÜ közfeladatként” szövegrész helyébe a „NAVÜ” szöveg,
+- n) 30. § (2) bekezdésben „a szolgáltatás keretében az igény teljesítéséhez” szövegrész helyébe „a szolgáltatás teljesítéséhez” szöveg,
+- o) 56. § (1) bekezdésben az „elektronikus úton terjeszti elő” szövegrész helyébe az „elektronikus úton a Nemzeti Közadatportálon terjeszti elő” szöveg,
+- p) 57. § (4) bekezdésében az „Amennyiben a szolgáltatást többen nyújtják, az igényt” szövegrész helyébe „Az igényt” szöveg,
+- q) 62. § (1) bekezdésében az „e fejezet rendelkezései szerint előterjesztett igény” helyébe az „e fejezet rendelkezései szerint a Nemzeti Közadatportálon előterjesztett igény” szöveg,
+- r) 82. § (2) bekezdésében „a közfeladatot ellátó szerv a 26. alcím szerinti személytelenítési szolgáltatással” szövegrész helyébe „a közfeladatot ellátó szerv” szöveg,
+- s) 98. § (5) bekezdésében „Az adathasznosítás-támogatási szolgáltatások” szövegrész helyébe „Az (1) bekezdés a) és c)–g) pontjaiban foglalt adathasznosítás-támogatási szolgáltatások” szöveg
+
+lép.
+
+247. § Hatályát veszti a Nahtv.
+
+- a) 23. § (3) és (7) bekezdése,
+- b) 24. § (6) bekezdése,
+- c) 27. § (3) bekezdése,
+- d) 28. § (2) és (5)–(7) bekezdése,
+- e) 31. § (5) bekezdése,
+- f) 35. § (2) bekezdése,
+- g) 46. § (2) bekezdése,
+- h) 64. § (2) bekezdése,
+- i) 68. § (4) bekezdése,
+- j) 74. §-a,
+- k) 76. §-a,
+- l) 83. § (6) bekezdése,
+- m) 98. § (1) bekezdés l) pontja.
 
 #### 54. A területfejlesztésről szóló 2023. évi CII. törvény módosítása
 
