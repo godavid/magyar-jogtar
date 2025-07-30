@@ -96,9 +96,15 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 30. §
 
-#### 9.
+#### 9. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-#### 31. §
+31. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 612. §-a helyébe a következő rendelkezés lép:
+
+#### „612. § [A beadványokra vonatkozó előírások elektronikus kapcsolattartás esetén]
+
+(1) Ha a perben a kapcsolattartás elektronikus úton történik, a határidő elmulasztásának következményeit – a napokban, munkanapokban, hónapokban vagy években megállapított határidő esetén – nem lehet alkalmazni, ha a bírósághoz intézett beadványt legkésőbb a határidő utolsó napján elektronikus úton az informatikai követelményeknek megfelelően előterjesztették.
+
+(2) Elektronikus kapcsolattartás esetén a 114. § (3) bekezdése szerinti alaki követelményt nem kell alkalmazni, ha a beadvány előterjesztése a Dáptv.-ben és a végrehajtási rendeleteiben meghatározott módon történik.”
 
 #### 10. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló2017. évi LIII. törvény módosítása
 
