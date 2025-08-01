@@ -1296,7 +1296,7 @@ ismételten benyújtja.
 
 (3) Nem mentes a végrehajtás alól az az (1) bekezdésben említett olyan vagyontárgy – az a), valamint a h) és i) pontban foglaltak kivételével –, amely nemesfémből vagy egyébként nemes anyagból készült, és a szokásos használati cikkektől eltérően különösen nagy értékű.
 
-(4) Mentes a végrehajtás alól az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen, sportegyesület, utánpótlás-nevelés fejlesztését végző alapítvány vagy országos sportági szakszövetség tulajdonába adott ingóvagyon az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt.
+(4) Mentes a végrehajtás alól az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény, és a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen sportszervezet vagy országos sportági szakszövetség tulajdonába adott ingóvagyon az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt.
 
 91. § Ha az adós élethivatásszerűen mezőgazdasági termeléssel foglalkozik — a 90. §-ban felsoroltakon kívül —, mentes a végrehajtás alól:
 

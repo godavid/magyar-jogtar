@@ -3220,6 +3220,8 @@ megnevezéssel működik.
 
 (37) A Budapesti Gazdasági Egyetem 2025. február 1-jétől Budapesti Gazdaságtudományi Egyetem megnevezéssel egyetemként működik.
 
+(38) A Wekerle Sándor Üzleti Főiskola 2025. augusztus 1. napjától Wekerle Sándor Nemzetközi Egyetem megnevezéssel egyetemként működik.
+
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
 (2)
@@ -3512,6 +3514,7 @@ köt azzal, hogy az a) és b) pontban szereplő megállapodások megkötésekor 
 | 43 |  |  | Nyíregyházi Egyetem, Nyíregyháza |
 | 44 |  |  | Sárospataki Református Hittudományi Egyetem, Sárospatak |
 | 45 |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
+| 45a. |  |  | Wekerle Sándor Nemzetközi Egyetem, Budapest |
 | 46 | III. FŐISKOLÁK |  |  |
 | 47 |  | III/A. Állami főiskolák |  |
 | 48 |  |  | Eötvös József Főiskola, Baja |
@@ -3536,7 +3539,7 @@ köt azzal, hogy az a) és b) pontban szereplő megállapodások megkötésekor 
 | 67 |  |  | Szent Pál Akadémia, Budapest |
 | 68 |  |  | Tomori Pál Főiskola, Budapest |
 | 69 |  |  | Veszprémi Érseki Főiskola, Veszprém |
-| 70 |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
+| 70 |  |  |  |
 | 71 |  |  | Wesley János Lelkészképző Főiskola, Budapest |
 
 ### 2. melléklet a 2011. évi CCIV. törvényhez
