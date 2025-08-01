@@ -132,6 +132,64 @@ közül az eladáskori magasabb értéknek.
 
 (3) Az erőmű részére az (1) bekezdés szerinti készletből felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket a miniszter rendeletben állapítja meg, azzal, hogy az nem lehet alacsonyabb, mint a földgáz biztonsági készlet átlagos értéke.
 
+### Különleges földgázkészlet
+
+5/B. § (1) A különleges földgázkészlet a miniszter által meghatározott földgázmennyiség (a továbbiakban: különleges földgázkészlet), amelyet az 5/C. § (1) és (2) bekezdés szerint hozott létre.
+
+(2) A Szövetség az e törvényben meghatározott módon tároltatja és értékesíti a különleges földgázkészletet, amelyet rezsivédelmi készletezési szolgáltatás keretében az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint tart fent. A különleges földgázkészlet a Szövetség tulajdonát képezi.
+
+(3) A rezsivédelmi készletezési szolgáltatás biztosításáért a Szövetség az e törvény végrehajtására kiadott kormányrendeletben meghatározott ellentételezésre jogosult. A rezsivédelmi készletezési szolgáltatás biztosítása fejében a Szövetségnek kifizetett ellentételezést a számvitelről szóló törvény szerinti egyéb bevételnek kell tekinteni. Az ellentételezés nem minősül az általános forgalmi adóról szóló törvény szerinti szolgáltatásnyújtásnak, összege visszafizetési kötelezettség nélkül átvett pénzeszköznek tekintendő.
+
+5/C. § (1) A különleges földgázkészlet teljes mennyiségének a hazai földgázrendszer virtuális kereskedelmi pontjától (a továbbiakban: MGP pont) a földgáztárolóig történő szállíttatását, tároltatását, beleértve a betároltatást, mobilkapacitások lekötését, kitároltatást, valamint a kitárolt mennyiség MGP pontig történő szállíttatását az egyetemes szolgáltatót ellátó földgázkereskedő (a továbbiakban: Kereskedő) logisztikai szolgáltatási szerződés keretében (a továbbiakban: Szolgáltatás) biztosítja a Szövetség részére.
+
+(2) A különleges földgázkészletet a Kereskedő hazai földgáztárolóban tárolja azzal, hogy kormányrendelet – a hazai földgáztárolók üzemszerű működési feltételeinek biztosítása céljából – a teljes mennyiség vonatkozásában egyedi tárolót is kijelölhet a különleges földgázkészlet tárolására, valamint a földgáztároló engedélyes működési engedélyében rögzített nyilvántartására.
+
+(3) A különleges földgázkészlethez tartozó, a hazai földgáztárolókban rendelkezésre álló kapacitásokhoz meglévő, nem megszakítható minimum betárolási és – az adott hazai földgáztárolóban tárolt különleges földgázkészlet kitárolását 70 napnál nem rövidebb időn belül biztosító – kitárolási kapacitások mértékét a miniszter az e törvény végrehajtására kiadott rendeletben határozza meg.
+
+(4) A Szolgáltatásért fizetendő díj megegyezik a Kereskedő által a hazai földgáztárolóknak fizetendő kapacitás- és forgalmi díj, valamint a Szolgáltatáshoz kapcsolódóan a szállítási rendszerüzemeltetőnek fizetendő kapacitás- és forgalmi díj összegével. Ezen tételek közül a mobilkapacitásért fizetendő díj nem haladhatja meg a 0,3906 forint/kWh/év mértéket.
+
+5/D. § (1) A különleges földgázkészlet létrehozásához és fenntartásához szükséges hitelekkel és azok biztosítékával kapcsolatban tett intézkedések, jogcselekmények, jognyilatkozatok nem érintik a Szövetségnek a különleges földgázkészlet létrehozásához és fenntartásához szükséges hitelein kívüli hitelállományához kapcsolódó hitelezési és biztosítéki jogviszonyait.
+
+(2) A különleges földgázkészletre zálogjog és a biztosítéki célú vételi jog nem alapítható.
+
+(3) A különleges földgázkészlet mentes a bírósági végrehajtásról szóló törvény szerinti végrehajtás alól, és nem tartozik a gazdálkodó szervezet csődeljárásról és felszámolási eljárásról szóló törvényben meghatározott vagyonába.
+
+(4) A Szövetség a különleges földgázkészlet létrehozásához és fenntartásához kapcsolódó eszközeit és forrásait, bevételeit és ráfordításait a belső számvitelében elkülöníti a kőolaj- és kőolajtermék-készletezési, a földgáz-készletezési, valamint a nem készletezési tevékenységeitől.
+
+5/E. § (1) A különleges földgázkészlet pótlásához és fenntartásához szükséges feltételeket a miniszter az e törvény végrehajtására kiadott rendeletben határozza meg, amelyben rögzíti
+
+- a) a szükséges hitelfelvétel legmagasabb mértékét,
+- b) a tagi hozzájárulás mértékét és
+- c) a földgáz legmagasabb beszerzési árát, amely nem lehet magasabb, mint
+  - ca) a Kereskedő által a különleges földgázkészlet biztosításához szükséges földgázforrás beszerzése céljából 2022. szeptember 1. napjáig megkötött szerződés alapján átvett földgázmennyiség ára, vagy
+  - cb) a földgázkereskedő által egyéb forrásból beszerzett földgázmennyiség esetében a szerződéskötés időpontjában érvényes piaci árak
+
+alapján képzett, és – bármely forrás esetén – legfeljebb az MGP pontig felmerülő, a rendszerhasználati díjakat, a kapcsolódó árfixálás költségeit tartalmazó ár.
+
+(2) A Szövetség a különleges földgázkészlet pótlásához szükséges földgázt a miniszteri rendeletben meghatározottak szerint szerzi be.
+
+(3) A különleges földgázkészlet beszerzése nem minősül a Get. szerint földgáz-kereskedelemnek.
+
+(4) A különleges földgázkészlet fenntartásához szükséges tagi hozzájárulásra – az (1) bekezdés b) pontjában és az (5) bekezdésben foglalt kivétellel – a 8. és a 9. §-ban foglaltakat kell alkalmazni.
+
+(5) A különleges földgázkészlet létrehozásához és fenntartásához szükséges tagi hozzájárulással kapcsolatos nyilatkozat benyújtási és fizetési kötelezettség nem vonatkozik a villamosenergia-termelői engedéllyel rendelkező, 50 MW és annál nagyobb teljesítményű, elsődleges energiaforrásként földgázt használó erőművek által villamosenergia-termelés céljára felhasznált földgáz mennyiségére.
+
+5/F. § (1) Ha Magyarország földgáz- vagy villamosenergia ellátásának biztosítása érdekében szükséges, a miniszter az e törvény végrehajtására kiadott rendeletben engedélyezheti a különleges földgázkészlet felhasználását.
+
+(2) Az 5/G. § szerinti részleges vagy teljes megszüntetés kivételével a különleges földgázkészlet felhasználására csak a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészlet kitárolását követően kerülhet sor. A miniszter a felhasználás engedélyezését megelőzően tájékoztatja a Kormányt, hogy a kitárolás milyen következményekkel jár az érintett földgáztároló működésére.
+
+(3) A miniszter a különleges földgázkészlet felhasználására vonatkozó rendeletben meghatározhatja
+
+- a) a felhasználásra engedélyezett földgáz mennyiségét,
+- b) az igénybevételre jogosultakat, és
+- c) a felhasználásra engedélyezett földgáz árát, amely nem lehet kevesebb, mint a földgáz beszerzési ára.
+
+(4) A Szövetség a felhasználásra engedélyezett földgázt az e törvény végrehajtására kiadott miniszteri rendeletnek megfelelően értékesíti, amely nem minősül a Get. szerint földgáz-kereskedelemnek. A Szövetség az értékesített földgáz utáni árbevételt a különleges földgázkészlet létrehozására és fenntartására felvett hitelek törlesztésére fordítja.
+
+5/G. § (1) A miniszter az 5/F. § (1) bekezdése szerinti rendeletében dönthet a különleges földgázkészlet részleges vagy teljes megszüntetéséről. Ebben az esetben a miniszter a rendeletében meghatározza a teljes, vagy részbeni értékesítés 5/F. § (3) bekezdésén túlmutató feltételeit. A Szövetség az értékesítésre kijelölt különleges földgázkészletet a miniszteri rendeletnek megfelelően értékesíti, amely nem minősül a Get. szerinti földgáz-kereskedelemnek.
+
+(2) Ha a miniszter rendelete alapján az (1) bekezdés szerint a különleges földgázkészlet részben vagy teljes egészében megszüntetésre kerül, a miniszter gondoskodik az érintett földgáztároló üzemszerű működési feltételeinek biztosításához szükséges földgázkészlet rendelkezésre állásáról.
+
 ### Magyar Szénhidrogén Készletező Szövetség
 
 6. § A Szövetség földgáz biztonsági készletezéssel kapcsolatos feladatai a következők:
@@ -273,9 +331,16 @@ vonatkozik.
 
 12/B. § A Szövetség 7. § (1) bekezdés d) pontja szerinti tagja a 9. § szerinti kötelezettségeinek első alkalommal azzal az eltéréssel tesz eleget, hogy 2024. január 20. napjáig a Szövetségnek nyilatkozik arról, hogy 2023 utolsó negyedévében mennyi volt a tagi hozzájárulás fizetése alapjául szolgáló földgáz mennyisége, valamint benyújtja a nyilatkozatát alátámasztó adatokat a Szövetség Alapszabályában rögzítetteknek megfelelően. A tag a 2023 utolsó negyedévre vonatkozó nyilatkozatában közölt adatok alapján számítja ki az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt 2024. január 31-ig a Szövetség pénzforgalmi számlájára átutalja azzal, hogy a tagi hozzájárulás megfizetésének időpontja az a nap, amikor a Szövetség számláján a befizetést jóváírják.
 
+12/C. § E törvény „Különleges földgázkészlet” alcíme az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
 13. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készlet felhasználására, a felhasználásra vonatkozó döntés előkészítésére, az előkészítésben közreműködő szervezetek vagy testületek jogaira és kötelezettségeire vonatkozó részletes szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készletnek a földgázkereskedő ellehetetlenülése esetén történő felhasználására vonatkozó részletes szabályokat.
+
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
+
+- a) a különleges földgázkészlet fenntartásának biztosítása érdekében a rezsivédelmi készletezési szolgáltatás részletszabályait és a különleges földgázkészlet fenntartásának időtartamát,
+- b) a hazai földgáztárolók üzemszerű működési feltételeinek biztosítása céljából a különleges földgázkészlet tárolásának és tárolói nyilvántartásának szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy földgázellátási válsághelyzet fennállása esetén az 5. § (1) bekezdése és az 5/A. § (3) bekezdése alapján rendeletben engedélyezze a földgáz biztonsági készlet felhasználását, és határozza meg a felhasználás engedélyezésének okát és célját, a felhasználásra engedélyezett földgáz mennyiségét, a felhasznált készletek visszapótlásának rendjét, valamint a felhasználásra engedélyezett földgáz árát és az áralkalmazás feltételeit.
 
@@ -284,6 +349,14 @@ vonatkozik.
 (4) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a készletbeszerzés mértékére és feltételeire, továbbá készletértékesítés esetén az értékesítendő földgáz mennyiségére, az értékesítés módjára, a földgáz értékének és a kedvezményezettek körére, a földgáz visszapótlásra kötelezettekre és a visszapótlás feltételeire, rendjére, valamint a szabad kapacitások értékesítésére vonatkozó szabályokat.
 
 (5) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a villamos energiáról szóló törvény alapján villamos energia termelői működési engedéllyel rendelkező, az 50 MW és annál nagyobb teljesítményű erőművek energiahordozó-készletének legkisebb mértékéről és a készletezés rendjéről szóló miniszteri rendelet rendelkezései szerint energiaforrás-készlet fenntartására kötelezett felhasználási hely részére a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészletből felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket.
+
+(6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+- a) a különleges földgázkészlet, valamint a hozzá tartozó minimum betárolási és kitárolási kapacitások mértékére,
+- b) a különleges földgázkészlet pótlásához és a fenntartásához – a tagi hozzájárulás mértékére, és a hitelfelvételi korlátra is kiterjedően – szükséges feltételekre, valamint
+- c) a különleges földgázkészlet felhasználására, értékesítésére és annak feltételeire
+
+vonatkozó részletes szabályokat.
 
 14. § Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet hatályon kívül helyezéséről szóló, 2017. október 25-i 2017/1938/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 

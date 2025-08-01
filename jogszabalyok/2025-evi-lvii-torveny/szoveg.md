@@ -102,13 +102,15 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 
 #### 33. §
 
-#### 34. §
+34. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 115. §-a a következő (38) bekezdéssel egészül ki:
+
+„(38) A Wekerle Sándor Üzleti Főiskola 2025. augusztus 1. napjától Wekerle Sándor Nemzetközi Egyetem megnevezéssel egyetemként működik.”
 
 #### 35. §
 
 #### 36. §
 
-37. § (1)
+37. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. melléklete az 1. melléklet szerint módosul.
 
 (2)
 
@@ -120,7 +122,7 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 - b)
 - c)
 - d)
-- e)
+- e) 1. mellékletében foglalt táblázat 70. sora.
 
 #### 11. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
@@ -207,6 +209,18 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 (3) A 6. alcím a közösségi formatervezési mintáról szóló 6/2002/EK tanácsi rendelet módosításáról és a 2246/2002/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2024. október 23-i (EU) 2024/2822 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2025. évi LVII. törvényhez
+
+- 1. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében foglalt táblázat a következő 45a. sorral egészül ki:
+
+|  | (A | B | C) |
+| --- | --- | --- | --- |
+
+„
+
+| 45a. |  |  | Wekerle Sándor Nemzetközi Egyetem, Budapest |
+| --- | --- | --- | --- |
+
+”
 
 ### 2. melléklet a 2025. évi LVII. törvényhez
 

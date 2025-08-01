@@ -779,9 +779,11 @@ tevékenységet végez, és
 
 (2) A 120. § (1) bekezdése szerint fizetésre kötelezett a 120. § (2) bekezdés f) pontja szerinti termékcsoportba tartozó termékek tekintetében a 120. § (3)–(5) bekezdése alapján megállapított értékesítési árat az e Fejezet hatálybalépését követő 30 napon belül megküldi a bányafelügyeletnek. Ha a 120. § (1) bekezdése szerint fizetésre kötelezett a termékek értékesítési árát nem az 120. § (3) bekezdése szerint állapítja meg, az értékesítési ár bányafelügyeletnek történő megküldésével egyidejűleg igazolja, hogy az értékesítési ár megállapítása a 120. § (4) bekezdésének megfelel.
 
-### XVIII. Fejezet
+### XVIII. Fejezet — VESZÉLYES ÜZEMEK VILLAMOSENERGIA-ELLÁTÁSÁVAL KAPCSOLATOS INTÉZKEDÉSEK
 
-#### 123. §
+123. § (1) Azon vételezőknek, akik a veszélyes üzemek villamosenergia- és földgáz ellátásával kapcsolatos egyes veszélyhelyzeti intézkedésekről szóló 268/2024. (IX. 10.) Korm. rendelet 3. § (1) és (2) bekezdése alapján váltak felhasználóvá, 2025. augusztus 1. napjáig ki kell alakítaniuk az elszámolási mérésre alkalmas mérőhelyet.
+
+(2) A Dunarolling Dunai Vasmű Korlátolt Felelősségű Társaság székhelyén lévő közcélú hálózati csatlakozási pontról ellátottak, továbbá a Társaság által ellátott hálózathasználók nem válhatnak a villamos energiáról szóló 2007. évi LXXXVI. törvény 39/B. § (1) bekezdése szerint vételezővé.
 
 ### XIX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -846,9 +848,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 135. §
 
-#### 25.
+#### 25. Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény módosítása
 
-#### 136. §
+136. § Hatályát veszti az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 11. § (1) bekezdése.
 
 #### 26. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
@@ -896,69 +898,497 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 151. §
 
-#### 34.
+#### 34. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-#### 152. §
+152. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. §-a a következő 29a. és 29b. ponttal egészül ki:
 
-#### 153. §
+(E törvény alkalmazásában)
 
-#### 154. §
+„29a. Kedvezményes lakossági sávhatár: a lakossági fogyasztó részére biztosított, miniszteri rendeletben – a 64. § (4a) bekezdés szerinti esetben kormányrendeletben – meghatározott villamosenergia-mennyiség, amely mértékig a lakossági fogyasztóval a 145. § (3) bekezdés alapján meghatározott áron számolja el az egyetemes szolgáltató a villamos energiát;
 
-#### 155. §
+29b. Kedvezményes mikrovállalkozói sávhatár: a nem lakossági felhasználó részére biztosított, miniszteri rendeletben meghatározott villamosenergia-mennyiség, amely mértékig a nem lakossági felhasználóval a 145. § (3) bekezdés alapján meghatározott áron számolja el az egyetemes szolgáltató a villamos energiát;”
 
-#### 156. §
+(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 42. pontja helyébe a következő rendelkezés lép:
 
-#### 157. §
+(E törvény alkalmazásában)
 
-#### 158. §
+„42. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol villamos energiát a villamos energia vételezésére megkötött szerződés alapján, és az így vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet;”
 
-#### 159. §
+(3) A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. §-a a következő 49c. és 49d. ponttal egészül ki:
 
-#### 160. §
+(E törvény alkalmazásában)
 
-#### 161. §
+„49c. Rendszerbiztonsági szolgáltatás: a villamosenergia-ellátás folyamatossága és az átviteli hálózat biztonságos, stabil üzemállapotának fenntartása mint kiemelt közszolgáltatás megvalósítása érdekében szükséges, meghatározott villamosenergia-mennyiség megtermelése érdekében végzett szolgáltatás;
 
-#### 162. §
+49d. Rendszerbiztonsági szolgáltató: a rendszerbiztonsági szolgáltatás teljesítése érdekében a Kormány rendeletével kijelölt villamosenergia-termelő gazdasági társaság;”
 
-#### 163. §
+(4) A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 70a. pontja helyébe a következő rendelkezés lép:
 
-#### 164. §
+(E törvény alkalmazásában)
 
-#### 165. §
+„70a. Villamosenergia-tároló: villamos energia fizikai vagy kémiai technológiával történő tárolására szolgáló berendezés vagy létesítmény, amely a közcélú hálózatról vételezett vagy azonos csatlakozási ponton csatlakozó erőmű által megtermelt villamos energiát átalakítja, eltárolja és annak műszaki veszteséggel csökkentett részét a villamosenergia-rendszerbe betáplálja, vagy – függetlenül attól, hogy van-e betáplálásra lehetősége – a csatlakozási pont mögötti felhasználásra rendelkezésre bocsátja;”
 
-#### 166. §
+(5) A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. §-a a következő 70e. ponttal egészül ki:
 
-#### 167. §
+(E törvény alkalmazásában)
 
-#### 168. §
+„70e. Villamosenergia-tárolói bevételkompenzációs támogatási rendszer: olyan elszámolási rendszer, amelyben a villamosenergia-tároló üzemeltetője a szolgáltatásait piaci körülmények között értékesíti azzal, hogy az általa elvárt bevételi szint és az általa értékesíthető szolgáltatásokból megszerezhető bevétel különbsége alapján kompenzációban részesül vagy kompenzációt fizet;”
 
-#### 35.
+153. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 4/A. §-a helyébe a következő rendelkezés lép:
 
-#### 169. §
+„4/A. § (1) A felhasználók biztonságos és zavartalan villamosenergia-ellátása kiemelt közérdek.
 
-#### 170. §
+(2) Az (1) bekezdésben foglaltak megvalósítása érdekében, valamint kiemelt közfeladatként szerződésben előre meghatározott villamosenergia-mennyiség megtermelése céljából a Kormány rendszerbiztonsági szolgáltatót jelöl ki. A rendszerbiztonsági szolgáltató kijelölésére és a közszolgáltatás teljesítésére és ellentételezésére vonatkozó szabályokat a Kormány rendeletben állapítja meg.”
 
-#### 171. §
+154. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 6/A. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 172. §
+„(3) Az egyetemes szolgáltatásban vételező felhasználó által üzemeltetett háztartási méretű kiserőmű által megújuló energiaforrásból termelt villamos energia vonatkozásában a Hivatal a származási garanciát az egyetemes szolgáltató részére jegyzi be. A származási garanciát az egyetemes szolgáltató értékesíti, az értékesítésre vonatkozó szabályokat a kormány rendeletben határozza meg. Az egyetemes szolgáltató a származási garancia értékesítéséből származó bevételt és az értékesítéshez szükséges ráfordításait az egyetemes villamosenergia- és földgázszolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló kormányrendelet szerinti ellentételezés kiszámítása során figyelembe veszi.”
 
-#### 173. §
+155. § A villamos energiáról szóló 2007. évi LXXXVI. törvény „A megújuló energiaforrásból és a hulladékból nyert energiával termelt villamos energia termelésének elősegítése” alcím címe helyébe a következő alcím cím lép:
 
-#### 174. §
+### „A megújuló energiaforrásból, a hulladékból nyert energiával termelt villamos energia termelésének, valamint a villamosenergia-tároló felhasználásának elősegítése”
 
-#### 175. §
+156. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 9. §-a helyébe a következő rendelkezés lép:
 
-#### 176. §
+„9. § (1) A környezet és a természet védelme, a felhasználók ellátása, az elsődleges energiaforrások felhasználásának megtakarítása, valamint a felhasználható energiaforrások bővítése érdekében elő kell segíteni a megújuló energiaforrás, a hulladék, mint energiaforrás, valamint a villamosenergia-tároló felhasználását.
 
-#### 177. §
+(2) A megújuló energiaforrás, valamint a hulladék mint energiaforrás felhasználásának elősegítése érdekében e törvény és a felhatalmazása alapján kiadott jogszabály energiaforrásokra, termelési eljárásokra, az erőművi névleges teljesítőképességre, az energiaátalakítás hatásfokára, hatékonyságára, valamint az erőmű létesítésének időpontjára tekintettel differenciált, kötelező átvételi rendszert, és prémium típusú, valamint villamosenergia-tárolói bevételkompenzációs támogatási rendszert hoz létre.
 
-#### 178. §
+(3) A zöldenergia tárolása, hasznosítása, valamint a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatása, valamint a villamosenergia-tárolók bevételkompenzációja érdekében a részletes szabályokat a kormány rendeletben határozza meg.
 
-#### 179. §
+(4) A villamosenergia-tárolók bevételkompenzációja tekintetében a bevételkompenzáció kiszámításának részletszabályait, a bevételkompenzáció meghatározásához szükséges referencia nettó bevétel kiszámításának módját és az annak felülvizsgálatához kapcsolódó szabályokat, a bevételkompenzáció alkalmazásának feltételeire és elszámolására, valamint a bevételkompenzációra jogosult adatszolgáltatási kötelezettségének adattartalmára, teljesítésére és egyéb részleteire vonatkozó szabályokat a Hivatal elnökének rendelete határozza meg.”
 
-#### 180. §
+157. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 50. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 181. §
+„(1a) Az egyetemes szolgáltató az (1) bekezdésben foglaltaknak való megfelelés érdekében az egyetemes szolgáltatásra való jogosultság fennállását ellenőrizheti. Az egyetemes szolgáltatás jogszerű igénybevételének ellenőrzési folyamatát, valamint az egyetemes szolgáltatást jogosulatlanul igénybe vevő felhasználókkal szemben alkalmazandó jogkövetkezményeket a Vhr. határozza meg.”
+
+(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 50. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Egyetemes szolgáltatás keretében jogosult villamos energiát vásárolni
+
+- a) a lakossági fogyasztó, valamint
+- b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti valamennyi – hálózathasználati szerződéssel rendelkező – mikrovállalkozásnak (a továbbiakban: mikrovállalkozás) minősülő, kisfeszültségen vételező, összes felhasználási helye tekintetében együttesen 3*63 A-nál nem nagyobb csatlakozási teljesítményű felhasználó.
+
+(4) A 3. § 42. pontjában foglaltakon túl az egyetemes szolgáltató általi ellátás vonatkozásában lakossági fogyasztónak kell tekinteni
+
+- a) az önkormányzati és állami bérlakásban, a szállóférőhelyen élők felhasználási helyei ellátása biztosításának mértékéig a helyi önkormányzatot, valamint az állami bérlakás és a szállóférőhely üzemeltetőjét,
+- b) a közös fogyasztás vonatkozásában azon lakóépületet, amelyben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát,
+- c) a közös fogyasztás vonatkozásában azon összes felhasználási helye tekintetében együttesen 3*63 A-nál nem nagyobb csatlakozási teljesítményű lakóépületet, amelyben a műszakilag megosztott, önálló lakások száma azonos vagy alacsonyabb, mint az épületben lévő önálló, nem lakás céljára szolgáló helyiségek száma,
+- d) az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény szerinti jogi személyiséggel rendelkező vallási közösséget, annak belső egyházi jogi személyét vagy jogi személyiséggel rendelkező szervezeti egységét (a továbbiakban együtt: jogi személyiséggel rendelkező vallási közösség) a tulajdonában álló, egy felhasználási helyet képező, egy vagy több lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház, továbbá a hozzá kapcsolódó garázs villamosenergia-ellátásának biztosítása tekintetében, ha a lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 12. § (1) bekezdésében vagy 12/A. § (1) bekezdésében meghatározott személy életvitelszerű lakhatására szolgál, és az így igénybe vett villamosenergia-szolgáltatással a jogi személyiséggel rendelkező vallási közösség nem folytat gazdasági-vállalkozási tevékenységet.”
+
+158. § A villamos energiáról szóló 2007. évi LXXXVI. törvény „Az egyetemes szolgáltatás” alcíme a következő 50/B. §-sal egészül ki:
+
+„50/B. § (1) A Kormány az elérhető árú villamosenergia-ellátás biztosítására rezsivédelmi szolgáltatást nyújt az egyetemes szolgáltatást igénybe vevő felhasználók számára. A rezsivédelmi szolgáltatás az egyetemes szolgáltatást igénybe vevő felhasználó számára a villamosenergia-ellátás biztosítása a 145. § (3)–(3b) bekezdése szerint meghatározott ár ellenében egyetemes szolgáltatás útján az energiapiaci körülmények megváltozása esetén is. A rezsivédelmi szolgáltatás biztosítása állami közfeladat. A rezsivédelmi szolgáltatás részletszabályait az e törvény végrehajtására kiadott kormányrendelet határozza meg.
+
+(2) Az egyetemes szolgáltató részére – az (1) bekezdés szerinti feladat ellátásában való közreműködésért – járó ellentételezés az egyetemes szolgáltatásból származó bevétellel nem fedezett, a tevékenység ellátásához szükséges nettó ráfordítással azonos összeg. Az ellentételezés kiszámításának módszertanát miniszteri rendelet határozza meg.
+
+(3) A (2) bekezdés szerinti ellentételezést Szt. szerinti egyéb bevételnek kell tekinteni. Az ellentételezés nem minősül az általános forgalmi adóról szóló törvény szerinti szolgáltatásnyújtásnak, összege visszafizetési kötelezettség nélkül átadott pénzeszköznek tekintendő.”
+
+159. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 54. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdésben előírt tulajdonosi korlátokat nem kell alkalmazni
+
+- a) az átviteli rendszerirányítóra és az átviteli rendszerirányító Szt. szerint meghatározott leányvállalatára,
+- b) az olyan, az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban vagy Stabilizációs és Társulási Megállapodásban részes más államban jogszerűen nyilvántartásba vett vállalkozásra, amely ebben az államban átviteli rendszerüzemeltetőként működő vállalkozás,
+- c) az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban vagy Stabilizációs és Társulási Megállapodásban részes más államban az 1348/2014/EU bizottsági végrehajtási rendelet szerinti értelemben szervezett piacot működtető piaci szereplőre, és
+- d) az olyan gazdasági társaságra, amelyben az a)–c) pont szerinti alanyok együttesen legalább 50%-ot meghaladó tulajdoni hányaddal, illetve szavazataránnyal rendelkeznek.”
+
+160. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 64. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Fogyatékossággal élő személy által használt tárgyi eszközök energiafogyasztása után az egyetemes szolgáltatást igénybe vevő, fogyatékossággal élő személy a miniszteri rendeletben meghatározott kedvezményes lakossági sávhatáron felül további kedvezményes mennyiségre jogosult. A kedvezményre jogosultak körét, mértékét és igénylésének eljárásrendjét az e törvény végrehajtására kiadott kormányrendelet határozza meg. Az egyetemes szolgáltató és az érintett, a kedvezményre jogosult fogyasztót ellátó hálózati engedélyes a kormányhivatal által továbbított, alábbi különleges személyes adatokat az adott felhasználási helyen a jogosultság fennállása elszámolása végétől számított 5 évig, kizárólag az egyetemes szolgáltatás kapcsán, a kedvezményre való jogosultság megállapítása és elszámolása szempontjából kezeli:
+
+- a) a kedvezményre való jogosultságot megállapító szerv megnevezése,
+- b) a kedvezményre való jogosultságot megállapító határozat száma,
+- c) a jogosult neve, lakcíme, a felhasználás helye,
+- d) a kedvezményt a jogosult nem saját jogán veszi igénybe, a jogosulttal egy háztartásban élő, gyógyászati segédeszközt napi rendszerességgel használó személy neve,
+- e) a jogosultság kezdő időpontja,
+- f) az adat jellege – új, törlő, jogosulatlan –,
+- g) a szolgáltató kódja,
+- h) a területi villamosenergia-elosztó megnevezése,
+- i) a település neve,
+- j) az egyetemes villamosenergia-szolgáltatónál szereplő azonosító szám – ügyfél-azonosító, fogyasztásihely-azonosító, szerződésszám, hivatkozási szám, kedvezménnyel érintett mérő gyári száma –,
+- k) a meghatározott kedvezményes villamosenergia-mennyiség felett vételezhető kedvezményes villamos energia mennyisége,
+- l) az arányosítás jelölése,
+- m) a visszaigazolási kód,
+- n) a jogosultság vége.”
+
+161. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 67. §-a helyébe a következő rendelkezés lép:
+
+„67. § Az átviteli rendszerirányító – az általa delegált tag útján – a miniszterrel, az engedélyesekkel és érdekképviseletük útján a felhasználókkal és más rendszerhasználókkal egyeztetve kidolgozza a nemzetközi üzemi és kereskedelmi szabályzatban szabályozott kérdések kivételével
+
+- a) a villamosenergia-rendszer és az átviteli hálózat technikai működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzatot,
+- b) a villamosenergia-kereskedelemre, az elszámolási-mérési adatok gyűjtésének, feldolgozásának és szolgáltatásának minimális tartalmi elemeire, a villamos energia határon keresztül történő szállítására, a rendszerszintű szolgáltatásokra vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzatot.”
+
+162. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 69. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az elosztók – az általa delegált tag útján – a miniszterrel, az engedélyesekkel és érdekképviseletük útján a felhasználókkal és más rendszerhasználókkal – az energiaközösségeket és az aggregátorokat is ideértve – egyeztetve kidolgozzák az elosztói szabályzatot, amely meghatározza az elosztó hálózat működésére, az elosztói rugalmassági szolgáltatások körére, valamint azok beszerzésére és igénybevételére, továbbá a keresletoldali szabályozásra vonatkozó rendelkezéseket.”
+
+163. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 70. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A nemzetközi üzemi és kereskedelmi szabályzat kivételével a villamosenergia-ellátási szabályzat kidolgozásával és mindenkori felülvizsgálatával kapcsolatos egyeztetést a miniszter által delegált tag, az engedélyesek és a reprezentatív felhasználói érdekképviseletek képviselőinek részvételével – külön jogszabály szerint – létrehozott és működtetett szabályzati bizottságoknak kell ellátnia.”
+
+164. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 141. §-a helyébe a következő rendelkezés lép:
+
+„141. § (1) E Fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 146/A. § (1) bekezdése szerinti csatlakozási díj, a 146. § (1) és (4) bekezdése szerinti külön díj, valamint az egyetemes szolgáltatás 145. § (3) és (3a) bekezdése szerinti ára.
+
+(2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
+
+(3) A hatósági árhoz kapcsolódó áralkalmazási feltételeket az ár megállapítója rendeletben határozza meg.
+
+(4) A hatósági ár megállapítása hivatalból történik.
+
+(5) A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági árra vonatkozó rendelkezés mikor lép hatályba vagy mikortól alkalmazandó, és e rendelkezésnek visszamenőleges hatálya nem lehet.
+
+(6) Az (1) bekezdés szerinti hatósági árakat – ide nem értve a 145. § (3a) bekezdése szerinti árat – legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon lehet eltérni.
+
+(7) A hatósági árnál magasabb árat, a 145. § (3a) bekezdése szerinti hatósági árnál alacsonyabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály vagy határozat megsértésével más árban állapodtak meg.
+
+(8) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
+
+(9) A hatósági árakra vonatkozó előírások betartását a Hivatal ellenőrzi.”
+
+165. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 145. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az egyetemes szolgáltató által kötelezően nyújtott egyetemes szolgáltatás árát a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig, az áralkalmazási feltételeket, az árszabályozás kereteit, a 146. § (1) bekezdés szerinti szolgáltatások körét és külön díjait a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát a rendelet tervezett hatálybalépését megelőzően legalább 45 nappal megküldi a miniszternek. Ha a miniszteri rendelet valamely árszabás tekintetében nem határoz meg kedvezményes lakossági sávhatárt, az egyetemes szolgáltatótól vételezett villamosenergia-mennyiség tekintetében a miniszteri rendelet szerinti árat kell alkalmazni.”
+
+(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 145. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+
+„(3a) A kedvezményes lakossági sávhatár felett a lakossági fogyasztó a Hivatal elnöke által rendeletben meghatározott lakossági piaci áron vételezhet villamos energiát. A lakossági piaci árat és annak áralkalmazási feltételeit a Hivatal elnöke az egyetemes szolgáltatóval folytatott egyeztetést követően elnöki rendeletben határozza meg. A Hivatal elnökének rendeletében meghatározott lakossági piaci ár – ideértve annak a villamosenergia-vásárlási szerződés megkötését követően bekövetkező változását is – a villamosenergia-vásárlási szerződés részévé válik. A piaci viszonyok jelentős változása esetén a Hivatal elnöke felülvizsgálja és szükség esetén módosítja az elnöki rendeletben meghatározott árat.
+
+(3b) A kedvezményes mikrovállalkozói sávhatár felett az egyetemes szolgáltatást igénybe vevő nem lakossági felhasználó versenypiaci áron vételez energiát. A versenypiaci árat és annak áralkalmazási feltételeit az egyetemes szolgáltató határozza meg, és azt a honlapján hirdetményi formában közzéteszi. A versenypiaci ár nem lehet kevesebb, mint a (3a) bekezdés szerinti lakossági piaci ár. A hirdetményben meghatározott versenypiaci ár – ideértve annak a villamosenergia-vásárlási szerződés megkötését követően bekövetkező változását is – a villamosenergia-vásárlási szerződés részévé válik. A versenypiaci árra a 141. § (2), (5), (7) és (9) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.”
+
+(3) A villamos energiáról szóló 2007. évi LXXXVI. törvény 145. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (3) és a (3a) bekezdés szerinti rendeletben, valamint a (3b) bekezdés szerinti hirdetményben meg nem állapított, de az egyes egyetemes szolgáltatók által jogszerűen alkalmazott árszabások árát és áralkalmazási feltételeit az egyetemes szolgáltató kérelmére a Hivatal hagyja jóvá, amely árak esetében a 141. § (2) bekezdésében és (4)–(9) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.”
+
+166. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 6. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„6. az egyetemes szolgáltató és az egyetemes szolgáltatás igénybevételére jogosult felhasználó közötti jogviszony és az egyetemes szolgáltatás igénybevételére irányuló szándék bejelentésének részletes szabályait, valamint az egyetemes szolgáltatás keretében történő villamosenergia-vásárlásra vonatkozó szerződés tartalmi és formai követelményeit, megszűnésének eseteit, egyetemes szolgáltatás jogszerű igénybevételének ellenőrzési folyamatát, az egyetemes szolgáltatást jogosulatlanul igénybe vevő felhasználókkal szemben alkalmazandó jogkövetkezményeket, továbbá – az ellentételezés kiszámításának módszertanát és a különbözeti összeg felhasználásának részletes szabályait ide nem értve – rezsivédelmi szolgáltatás részletszabályait,”
+
+(rendeletben állapítsa meg.)
+
+(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 29. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„29. a megújuló energiaforrásból nyert villamos energia felhasználását elősegítő kötelező átvételi rendszer, és prémium típusú támogatási rendszer és a villamosenergia-tárolók bevételkompenzációjának részletes szabályait, a kötelező átvételi rendszer és a prémium típusú támogatás, valamint a villamosenergia-tárolók bevételkompenzáció keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez és prémium típusú támogatásához szükséges minimális hatásfok mértékét,”
+
+(rendeletben állapítsa meg.)
+
+(3) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 34. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„34. a fogyatékossággal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit, a fogyatékossággal élő fogyasztó által használt tárgyi eszközök energiafogyasztása után a fogyatékossággal élő fogyasztót megillető – miniszteri rendeletben meghatározott – kedvezményes lakossági sávhatáron felül biztosított kedvezményes árú villamos energia mértékét és annak igénybevételére vonatkozó részletes szabályokat,”
+
+(rendeletben állapítsa meg.)
+
+(4) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdés 1. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a miniszter, hogy)
+
+„1. az egyetemes szolgáltatáshoz kapcsolódó árszabályozás kereteit, árszabásokat, kedvezményes lakossági sávhatárt – a 64. § (4a) bekezdése szerinti sávhatárt kivéve –, a társasházakra, lakásszövetkezetekre, családi fogyasztói közösségekre, tulajdonközösségekre, tetőtér-beépítésre, bérlakásokra és szállóférőhelyekre vonatkozó többletkedvezményeket, valamint a kedvezményes mikrovállalkozói sávhatárt, továbbá a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig az egyetemes szolgáltatási árakat és azok áralkalmazási feltételeit,”
+
+(rendeletben állapítsa meg.)
+
+(5) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdése a következő 12. ponttal egészül ki:
+
+(Felhatalmazást kap a miniszter, hogy)
+
+„12. az egyetemes szolgáltató részére járó ellentételezés kiszámításának módszertanát és a különbözeti összeg felhasználásának részletes szabályait,”
+
+(rendeletben állapítsa meg.)
+
+(6) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdés 13. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a miniszter, hogy)
+
+„13. a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának, valamint a villamosenergia-tárolók bevételkompenzációjának a finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokat,”
+
+(rendeletben állapítsa meg.)
+
+(7) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (5) bekezdése a következő 17. és 18. ponttal egészül ki:
+
+(Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg)
+
+„17. a villamosenergia-tárolók bevételkompenzációja tekintetében a bevételkompenzáció kiszámításának részletszabályait, a bevételkompenzáció meghatározásához szükséges referencia nettó bevétel kiszámításának módját és az annak felülvizsgálatához kapcsolódó szabályokat, a bevételkompenzáció alkalmazásának feltételeire és elszámolására, valamint a bevételkompenzációra jogosult adatszolgáltatási kötelezettségének adattartalmára, teljesítésére és egyéb részleteire vonatkozó szabályokat,
+
+18. a lakossági piaci árat és annak áralkalmazási feltételeit.”
+
+167. § A villamos energiáról szóló 2007. évi LXXXVI. törvény a következő 177/B–177/H. §-sal egészül ki:
+
+„177/B. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított rendelkezéseit a 2025. augusztus 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+
+177/C. § (1) A 2025. augusztus 1-jét megelőző veszélyhelyzet ideje alatt a villamos energiáról szóló törvény rendelkezéseitől eltérést engedő előírások alapján megfizetett pénzügyi biztosíték a csatlakozási díjba beleszámít és a legkorábban esedékessé váló csatlakozási díj részletben a hálózati engedélyes jóváírja. Ha a megfizetett biztosíték meghaladja a hálózati csatlakozási szerződés szerint elszámolható csatlakozási díjat, úgy a pénzügyi biztosítékot a hálózati engedélyes a csatlakozási pont üzembe helyezését követő 15 napon belül visszatéríti. Az e bekezdés szerinti biztosítékra a hálózati csatlakozási eljárás keretében megfizetendő biztosíték üzemi és elosztói szabályzatban részletezett szabályai alkalmazandóak.
+
+(2) A 2025. augusztus 1-jét megelőző veszélyhelyzet ideje alatt a villamos energiáról szóló törvény rendelkezéseitől eltérést engedő előírások alapján megkötésre kerülő hálózati csatlakozási szerződésben (a továbbiakban: hálózati csatlakozási szerződés) a csatlakozás igénybevételére – üzembe helyezésére – nyitva álló határidőnek a hálózati engedélyes tájékoztatójában – vagy nyilatkozatában – megjelölt naptári év utolsó napját követő harmadik hónap harmincadik napja minősül. A csatlakozás igénybevételére vonatkozó legkorábbi időpont a megjelölt naptári év első hónapjának 30. napja, amelyet megelőzően az igénybejelentő a csatlakozást nem jogosult igénybe venni.
+
+(3) Az üzembe helyezésre meghatározott határidő elmulasztása esetén – kivéve a hálózati engedélyes által megvalósítandó csatlakozási beruházás tekintetében felmerülő késedelem miatti mulasztást – az igénybejelentő csatlakozásra vonatkozó rendelkezési joga a csatlakozás igénybevételére nyitva álló határidő leteltét követő napon megszűnik. A hálózati engedélyes a csatlakozás igénybevételére nyitva álló határidőt követő 45 napon belül az igénybejelentő által korábban az elosztói vagy üzemi szabályzat vagy az (1) bekezdés alapján teljesített pénzügyi biztosítékot az igénybejelentőnek visszatéríti, és a megfizetett csatlakozási díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel elszámolja.
+
+(4) A hálózati engedélyes által megvalósítandó csatlakozási beruházás tekintetében felmerülő késedelem esetén a hálózati engedélyes bizonyítja, hogy mulasztás nem terheli.
+
+(5) A csatlakozás igénybevételére a 2025. augusztus 1-jét megelőző veszélyhelyzet ideje alatt a villamos energiáról szóló törvény rendelkezéseitől eltérést engedő előírások alapján meghatározott naptári év az e bekezdésben foglalt esetet kivéve nem módosítható. A hálózati engedélyes csatlakozás igénybevételére a naptári évet az igénybejelentő kérelmére egy naptári évvel meghosszabbítja, ha az igénybejelentő
+
+- a) a csatlakozás igénybevételére nyitva álló határidő utolsó napját megelőzően legalább 45 nappal a hálózati engedélyeshez a határidő hosszabbítására irányuló kérelmet és az üzemi szabályzat szerinti technológiaváltó igénybejelentést tesz és
+- b) vállalja a hálózati engedélyes által kiadott tájékoztatóban megjelölt erőmű névleges teljesítőképességével legalább azonos teljesítőképességű, megawattonként legalább 4 órás névleges energiatárolási képességű, az üzemi szabályzatban meghatározott aFRR kiegyenlítő szabályozási képességre akkreditálható, aFRR kiegyenlítő szabályozási szolgáltatás nyújtására és kapacitás felajánlására alkalmas villamosenergia-tároló egyidejű telepítését és akkreditációját.
+
+(6) Ha a hálózati engedélyes által kiadott tájékoztatóban megjelölt berendezés villamosenergia-tároló, akkor tájékoztató szerinti villamosenergia-tárolóra vonatkozóan kell biztosítani az (5) bekezdés b) pontja szerinti feltételeket.
+
+(7) Az igénybejelentő az (5) bekezdés szerinti kérelme esetén határidő-hosszabbítási pénzügyi biztosítékot fizet, vagy ezt azonos összegű bankgarancia formájában biztosítja a kérelem benyújtásával egyidejűleg. A határidő-hosszabbítási pénzügyi biztosíték mértéke az (5) bekezdés szerinti villamosenergia-tároló teljesítőképességének és a (13) vagy a (14) bekezdésben meghatározott fajlagos benchmark beruházási értéknek a szorzata alapján számolt benchmark beruházási összeg 5%-a. A biztosíték teljesítésének elmulasztása esetén a hálózati engedélyes az (5) bekezdés szerinti kérelmet visszautasítja.
+
+(8) Az (5) bekezdés szerinti villamosenergia-tároló telepítése nem érinti a (2) bekezdés szerinti hálózati csatlakozási szerződésben meghatározott betáplálási teljesítmény mértékét, valamint az eredeti berendezés névleges teljesítőképességét, azok nem módosíthatók. A csatlakozás igénybevételére nyitva álló határidőnek a villamosenergia-tárolóra és az erőműre vonatkozóan az (5) bekezdés szerint meghosszabbított határidőt kell tekinteni. Ha az igénybejelentő az eredeti berendezés vonatkozásában a csatlakozást az (5) bekezdés szerinti kérelem benyújtását követően a kérelem benyújtását megelőzően irányadó határidőn belül igénybe veszi, akkor mentesül az (5) bekezdés b) pontja szerint vállalt feltételek teljesítése alól és a (11) bekezdés szerinti jogkövetkezmény nem alkalmazható.
+
+(9) Ha az igénybejelentő az (5) bekezdés szerinti villamosenergia-tároló számára a csatlakozás igénybevételére az (5) bekezdés szerint meghosszabbított határidőt elmulasztja, akkor úgy kell tekinteni, mintha a (2) bekezdés szerinti hálózati csatlakozási szerződésben szereplő erőmű számára a csatlakozás igénybevételére meghatározott határidőt mulasztotta volna el és az erőműre is a (11) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
+
+(10) Ha az üzembe helyezést követően az új szabályozási berendezés akkreditációja bármely okból megszűnik, a hálózati engedélyes észszerű határidő meghatározásával felhívja az (5) bekezdés szerinti igénybejelentőt az akkreditáció helyreállítására.
+
+(11) Az (5) bekezdés szerint meghosszabbított határidő elmulasztása esetén
+
+- a) az igénybejelentő csatlakozásra vonatkozó rendelkezési joga a csatlakozásra nyitva álló határidő leteltét követő napon megszűnik, és
+- b) az igénybejelentő elveszíti az általa korábban az elosztói vagy üzemi szabályzat vagy a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet alapján teljesített pénzügyi biztosítékot.
+
+(12) A (11) bekezdés szerinti esetben a hálózati engedélyes a csatlakozásra nyitva álló határidőt követő 45 napon belül a megfizetett csatlakozási díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel elszámolja.
+
+(13) A fajlagos benchmark beruházási értéknek a kiegészítő és határidő-hosszabbítási biztosíték mértékének megállapításához
+
+- a) a biogáz (bioüzemmel) erőmű esetén 1025 M Ft/MWe,
+- b) hulladéklerakóból származó gáz felhasználásával üzemelő erőmű esetén 525 M Ft/MWe,
+- c) napelem esetén 325 M Ft/MWe,
+- d) energiatároló vagy földgáz üzemű gázmotoros erőmű esetén 375 M Ft/MWe,
+- e) szilárd biomassza (vegyes tüzelés nélküli) erőmű esetén 1025 M Ft/MWe,
+- f) szilárd biomassza (vegyes tüzeléssel) erőmű esetén 1025 M Ft/MWe,
+- g) geotermikus erőmű esetén 1425 M Ft/MWe,
+- h) vízerőmű esetén 1025 M Ft/MWe,
+- i) szélerőmű esetén 406 M Ft/MWe,
+
+értéket kell figyelembe venni, azzal, hogy a MWe értékek a névleges villamos teljesítőképességet jelölik, amit inverteres erőművek esetén az inverterek váltóáram (AC) oldali névleges aktív (wattos) teljesítőképessége alapján kell meghatározni.
+
+(14) A fajlagos benchmark beruházási érték a (13) bekezdésben nem szabályozott technológiák esetén 1025 M Ft MWe.
+
+(15) Ha a csatlakozás tényleges igénybevételére naptári évben meghatározott határidő 2024., a 177/C. § (2) bekezdésben meghatározott határidő megtartottnak minősül, ha
+
+- a) a határidő leteltéig az igénybejelentő a hálózati engedélyes felé a csatlakozási szerződésben előírt beruházásait megvalósította – ide nem értve a Vet. 27. § (5) bekezdése alapján az igénybejelentő által saját beruházásban már megvalósított vagy megvalósítandó hálózati csatlakozási beruházásokat,
+- b) az igénybejelentő teljesíti az üzemi és elosztói szabályzatban meghatározott üzembehelyezési és eljárásrendi feltételeket, ideértve a 177/E. § szerinti kiegészítő pénzügyi biztosíték meghosszabbítására vonatkozó feltételt, és
+- c) a csatlakozás tényleges igénybevétele 2025. szeptember 1. napjáig megtörténik.
+
+(16) A hálózati engedélyes
+
+- a) a (15) bekezdés szerinti teljesítés esetén, valamint
+- b) ha az igénybejelentőnek a hálózati csatlakozási szerződésben a csatlakozás tényleges igénybevételére naptári évben meghatározott határidő 2025., vagy azt követő naptári év, akkor az
+
+alkalmazandó ellátási szabályzati szabályokat a csatlakozás és az ehhez kapcsolódó a nyilatkozattétel vonatkozásában a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet szerint benyújtja a Hivatal számára jóváhagyás céljából.
+
+(17) A (16) bekezdés szerinti ellátási szabályzati szabályok a csatlakozás és az ehhez kapcsolódó a nyilatkozattétel vonatkozásában előírják, hogy az üzembe helyezés olyan időrendben történjen, amilyen időrendben az igénybejelentők teljesíti a (15) bekezdés a) pontját.
+
+(18) A (15) bekezdésben foglaltak teljesülése esetén az (5) bekezdés a) és b) pontjában foglalt határidő 2025. szeptember 1. napjáig meghosszabbodik.
+
+177/D. § (1) Az érintett erőműre vonatkozó
+
+- a) a villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló kormányrendelet alapján engedélyezett építési tevékenységre vonatkozó építési engedély és vezetékjogi engedély, a termőföld védelméről szóló törvény szerinti termőföld más célú hasznosítási engedély, a természet védelméről szóló 1996. évi LIII. törvény 21. § (1) bekezdése szerint kiadott engedély és a környezetvédelmi engedély hatálya, valamint a villamosenergia-termelői engedélyben megállapított kivitelezési határidő,
+- b) a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet szerinti kötelező átvételi jogosultsághoz kapcsolódó, villamosenergia-termelés megkezdésére vonatkozó határidő, valamint a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet alapján az új beruházások ösztönzésére adott kötelező átvételi vagy prémium típusú támogatási jogosultsághoz kapcsolódó, kereskedelmi üzem megkezdésére vonatkozó határidő
+
+a csatlakozás igénybevételére meghatározott, 177/C. § (2) és (5) bekezdése szerinti új határidő utolsó napjáig meghosszabbodik, ha az e bekezdésben meghatározott határidő korábban jár le.
+
+(2) Pályázati eljárás keretében elnyert prémium támogatáshoz kapcsolódó, kereskedelmi üzem megkezdésére vonatkozó határidő (1) bekezdés szerinti meghosszabbodásának feltétele a támogatási jogosultsághoz kapcsolódó teljesítési biztosíték meghosszabbított határidőt követő 4 hónapig tartó érvényességének igazolása a Hivatal részére.
+
+177/E. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet 1. § (2) bekezdése szerinti igénybejelentő kiegészítő pénzügyi biztosítékot fizet vagy a biztosíték összegét bankgarancia formájában biztosítja. A kiegészítő pénzügyi biztosíték mértéke az igényelt csatlakozási kapacitásnak és 177/C. § (13) és (14) bekezdése szerint meghatározott fajlagos benchmark beruházási értéknek a szorzata alapján számolt benchmark beruházási összeg 5%-a.
+
+(2) Az igénybejelentő az (1) bekezdés szerinti pénzügyi biztosítékot úgy fizeti meg, hogy ha a csatlakozás tényleges időpontjára meghatározott év a
+
+- a) 2025. naptári év, akkor a benchmark beruházási összeg fennmaradó további 1%-át 2025-ben,
+- b) 2026. naptári év, akkor a benchmark beruházási összeg fennmaradó további 1%-át 2025-ben és további 1%-át 2026-ban,
+- c) 2027. naptári év, akkor a benchmark beruházási összeg fennmaradó további 1%-át 2025-ben, további 1%-át 2026-ban és további 1%-át 2027-ben
+
+fizeti meg.
+
+(3) Ha a csatlakozás tényleges időpontja 2028. naptári év vagy azt követő naptári év, az igénybejelentő a kiegészítő pénzügyi biztosítékot úgy fizeti meg, hogy a csatlakozás tényleges időpontjával érintett naptári évben és az azt megelőző négy évben évente fizeti meg a benchmark beruházási összeg 1%-át.
+
+(4) Az igénybejelentő a kereskedelmi üzem megkezdésének igazolása előtt az erőműegységre vonatkozó építési engedély meglétének hálózati engedélyes számára történő igazolása esetén a kiegészítő pénzügyi biztosíték 50%-át a hálózati engedélyes az igazolást követő 45 napon belül visszafizeti az igénybejelentő számára vagy a már igazolt bankgarancia 50%-át felszabadítja.
+
+(5) Az igénybejelentő a (4) bekezdés szerinti bankgaranciát a hálózati engedélyes által történő felszabadításig rendelkezésre tartja.
+
+(6) A kiegészítő pénzügyi biztosíték összegének a határidő utolsó napjáig a hálózati engedélyes bankszámláján jóváírásra kell kerülnie. Nem kell megfizetni a kiegészítő pénzügyi biztosítékot, ha az erőmű üzembe helyezése a befizetési határidő letelte előtt megtörténik.
+
+(7) A megfizetett kiegészítő pénzügyi biztosíték a csatlakozási díjba beleszámít és a legkorábban esedékessé váló csatlakozási díj részletben a hálózati engedélyes jóváírja. Ha a megfizetett kiegészítő pénzügyi biztosíték meghaladja a hálózati csatlakozási szerződés szerint elszámolható csatlakozási díjat, úgy a kiegészítő pénzügyi biztosítékot a hálózati engedélyes a csatlakozási pont üzembe helyezését követő 15 napon belül visszatéríti. A kiegészítő pénzügyi biztosítékra az e törvényben nem szabályozott kérdésekben a hálózati csatlakozási eljárás keretében megfizetendő biztosíték üzemi és elosztói szabályzatban részletezett szabályait kell alkalmazni.
+
+(8) A bankgarancia formájában biztosított kiegészítő pénzügyi biztosítékot a hálózati engedélyes az igénybejelentőnek a csatlakozási igénybejelentéssel vagy a csatlakozási szerződéssel összefüggő lejárt esedékességű fizetési kötelezettségének nemteljesítése esetén lehívja, vagy a bankgaranciaként biztosított kiegészítő pénzügyi biztosítékot a hálózati engedélyes a hálózati csatlakozási szerződés szerinti csatlakozási díj maradéktalan teljesítése esetén a hálózati csatlakozási szerződés szerinti névleges teljesítőképességnek megfelelő erőmű és csatlakozási pont üzembe helyezését követő 15 napon belül felszabadítja.
+
+(9) A kiegészítő pénzügyi biztosíték teljesítésének elmulasztása esetén az igénybejelentő csatlakozásra vonatkozó rendelkezési joga a kiegészítő pénzügyi biztosíték teljesítésére nyitva álló határidő leteltét követő napon megszűnik. A hálózati engedélyes a kiegészítő pénzügyi biztosíték teljesítésére nyitva álló határidőt követő 45 napon belül az igénybejelentő által korábban az elosztói vagy üzemi szabályzat alapján teljesített pénzügyi biztosítékot az igénybejelentőnek visszatéríti, és a megfizetett csatlakozási díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel elszámolja.
+
+(10) A kiegészítő pénzügyi biztosítékból esedékességkor megfizetettnek minősül
+
+- a) a hálózati csatlakozási szerződés alapján már megfizetett csatlakozási díj 177/C. § (1) bekezdése szerinti pénzügyi biztosítékba be nem számított összege vagy a 2025. augusztus 1-jét megelőző veszélyhelyzet ideje alatt a villamos energiáról szóló törvény rendelkezéseitől eltérést engedő előírások esetén a csatlakozási díjnak bármely ezen eljárásban teljesített, biztosítékkal fedezett részén felül megfizetett összege és
+- b) az igénybejelentő által saját beruházásban már megvalósított és a 27. § (7) bekezdése szerint a hálózati engedélyes által az igénybevevő által előfeltételként becsatolt dokumentumok szerinti csatlakozáshoz átvett hálózati csatlakozási beruházások értéke, amelyet a térítésmentes átadásra vonatkozó, mindkét fél által aláírt megállapodásban szereplő tényösszeg, ennek hiányában a hálózati engedélyes által, az átvételt megelőző 24 hónapon belül azonos műszaki tartalmú csatlakozási beruházásra kiadott műszaki gazdasági tájékoztatókban meghatározott legmagasabb csatlakozási díj érték 177/C. § (1) bekezdése szerinti pénzügyi biztosítékba be nem számított összegével kell figyelembe venni.
+
+(11) Az igénybejelentő a kiegészítő pénzügyi biztosítékot minden év április 23. napjáig fizeti meg vagy teljesíti bankgarancia formájában.
+
+177/F. § (1) A csatlakozás igénybevételére nyitva álló határidőnek a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet 11. § (18) bekezdése szerinti meghosszabbítása esetén a hálózati engedélyes a megfizetett pénzügyi biztosítéknak a hálózati csatlakozási szerződés szerint elszámolható csatlakozási díjat meghaladó részét nem téríti vissza, vagy a bankgarancia formájában nyújtott pénzügyi biztosítéknak a hálózati csatlakozási szerződés szerint elszámolható csatlakozási díjat meghaladó részét lehívja. Ebben az esetben a 177/E. § (4) bekezdése nem alkalmazható.
+
+(2) A csatlakozás igénybevételére nyitva álló határidőnek a 2025. augusztus 1-jét megelőző veszélyhelyzet ideje alatt a villamos energiáról szóló törvény rendelkezéseitől eltérést engedő előírások szerint meghosszabbított határidő elmulasztása esetén
+
+- a) az igénybejelentő csatlakozásra vonatkozó rendelkezési joga a csatlakozásra nyitva álló határidő leteltét követő napon megszűnik, és
+- b) az igénybejelentő elveszíti az általa korábban az elosztói vagy üzemi szabályzat vagy a korábban hatályos előírások alapján teljesített pénzügyi biztosítékot.
+
+(3) A (2) bekezdés szerinti esetben a hálózati engedélyes a csatlakozásra nyitva álló határidőt követő 45 napon belül a megfizetett csatlakozási díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel elszámolja.
+
+177/G. § (1) Az igénybejelentő, aki a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 54/2024. (III. 6.) Korm. rendelet 1. § (3) bekezdése szerinti műszaki gazdasági tájékoztató vagy megvalósíthatósági tanulmány készítésére vonatkozó felhívást követően kapacitáslekötési pénzügyi biztosítékot fizetett, az üzemi szabályzatban meghatározott igénybejelentési és kapacitáslekötési pénzügyi biztosítékon túl kiegészítő pénzügyi biztosítékot fizet, vagy bankgarancia formájában biztosítja. A kiegészítő pénzügyi biztosíték mértéke az igényelt csatlakozási kapacitásnak és a 177/C. § (13) és (14) bekezdésében meghatározott fajlagos benchmark beruházási értéknek a szorzata alapján számolt benchmark beruházási összeg 5%-a.
+
+(2) Az igénybejelentő az (1) bekezdés szerinti kiegészítő pénzügyi biztosítékot úgy fizeti meg, hogy ha a hálózati engedélyes által kiadott műszaki-gazdasági tájékoztatóban a csatlakozás tényleges időpontjára meghatározott év
+
+- a) a 2028. naptári év, akkor a benchmark beruházási összeg fennmaradó további 1%-át 2025-ben, további 1%-át 2026-ban, további 1%-át 2027-ben és további 1%-át 2028-ban,
+- b) a 2029. naptári év, akkor a benchmark beruházási összeg 1%-át 2025-ben, további 1%-át 2026-ban, további 1%-át 2027-ben, további 1%-át 2028-ban és további 1%-át 2029-ben,
+- c) a 2030. naptári év, akkor a benchmark beruházási összeg 1%-át 2026-ban, további 1%-át 2027-ben, további 1%-át 2028-ban, további 1%-át 2029-ben és további 1%-át 2030-ban
+
+fizeti meg.
+
+(3) Ha a csatlakozás tényleges időpontja a 2030. naptári évet követő, az igénybejelentő a kiegészítő pénzügyi biztosítékot úgy teljesíti, hogy a csatlakozás tényleges időpontjával érintett naptári évben és az azt megelőző négy évben évente teljesíti a benchmark beruházási összeg 1%-át. Ha az igénybejelentő a csatlakozáshoz szükséges hálózati csatlakozási beruházást a 27. § (5) bekezdés alapján saját beruházásban valósítja meg és a csatlakozás tényleges időpontja ezáltal a hálózati engedélyes által meghatározottnál korábbi időpontban kerül meghatározásra, akkor a kiegészítő pénzügyi biztosítékot a korábbi időpont figyelembevételével kell teljesíteni, ha nem érinti a Hivatal elnökének rendelete szerinti közvetett beruházások rendelkezésre állását.
+
+(4) Az igénybejelentő a kereskedelmi üzem megkezdésének igazolása előtt az erőműegységre vonatkozó építési engedély meglétének hálózati engedélyes számára történő igazolása esetén a kiegészítő pénzügyi biztosíték 50%-át a hálózati engedélyes az igazolást követő 45 napon belül visszafizeti az igénybejelentő számára, vagy a már igazolt bankgarancia 50%-át felszabadítja.
+
+(5) Az igénybejelentő a bankgaranciát a hálózati engedélyes által történő felszabadításig rendelkezésre tartja.
+
+(6) A bankgarancia formájában biztosított kiegészítő pénzügyi biztosítékot a hálózati engedélyes az igénybejelentőnek a csatlakozási igénybejelentéssel vagy a csatlakozási szerződéssel összefüggő, lejárt esedékességű fizetési kötelezettségének nemteljesítése esetén lehívja, vagy a bankgaranciaként biztosított kiegészítő pénzügyi biztosítékot a hálózati engedélyes a hálózati csatlakozási szerződés szerinti csatlakozási díj maradéktalan teljesítése esetén a hálózati csatlakozási szerződés szerinti névleges teljesítőképességnek megfelelő erőmű és csatlakozási pont üzembe helyezését követő 15 napon belül felszabadítja.
+
+(7) A kiegészítő pénzügyi biztosíték összegének a kiegészítő pénzügyi biztosíték megfizetésére nyitva álló határidő utolsó napjáig a hálózati engedélyes bankszámláján jóváírásra kell kerülnie.
+
+(8) A kiegészítő pénzügyi biztosíték határidőn belüli megfizetésének elmulasztása esetén az igénybejelentő csatlakozás igénybevételére vonatkozó rendelkezési joga a határidő lejártát követő napon megszűnik. A hálózati engedélyes a nyilatkozattételi határidőt követő 45 napon belül az igénybejelentő által korábban az elosztói vagy üzemi szabályzat alapján teljesített pénzügyi biztosítékot az igénybejelentőnek visszatéríti, és a megfizetett csatlakozási díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel elszámolja.
+
+(9) Nem fizet e § szerinti kiegészítő pénzügyi biztosítékot az az igénybejelentő, aki a 177/D. § (1) bekezdése szerinti kiegészítő pénzügyi biztosítékot megfizette vagy megfizeti.
+
+177/H. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított 170. § (5) bekezdés 18. pontja szerinti rendelet hatálybalépéséig a kedvezményes lakossági sávhatár felett az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló kormányrendelet alapján meghatározott, 2025. július 31-én alkalmazott lakossági piaci árat kell alkalmazni.”
+
+168. § Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény 49. §-a.
+
+#### 35. A földgázellátásról szóló 2008. évi XL. törvény módosítása
+
+169. § (1) A földgázellátásról szóló 2008. évi XL. törvény 3. § 47. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában:)
+
+„47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet,”
+
+(2) A földgázellátásról szóló 2008. évi XL. törvény 3. §-a a következő 79. és 80. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„79. Kedvezményes lakossági sávhatár: a lakossági fogyasztó részére biztosított, miniszteri rendeletben – a 35. § (2) bekezdés szerinti esetben kormányrendeletben – meghatározott földgázmennyiség, amely mértékig a lakossági fogyasztóval a 107. § (3) bekezdés alapján meghatározott áron számolja el az egyetemes szolgáltató a földgázt.
+
+80. Kedvezményes mikrovállalkozói sávhatár: a nem lakossági felhasználó részére biztosított, miniszteri rendeletben meghatározott földgázmennyiség, amely mértékig a nem lakossági felhasználóval a 107. § (3) bekezdés alapján meghatározott áron számolja el az egyetemes szolgáltató a földgázt.”
+
+170. § (1) A földgázellátásról szóló 2008. évi XL. törvény 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Egyetemes szolgáltatást a működési engedélyben meghatározott szolgáltatási területen az egyetemes szolgáltatói engedélyes végezhet. Az egyetemes szolgáltató olyan földgázkereskedő, amely az egyetemes szolgáltatásra jogosult felhasználókat – igényük esetén – egyetemes szolgáltatással látja el. Egyetemes szolgáltatásra jogosult felhasználó
+
+- a) a lakossági fogyasztó és
+- b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (3) bekezdése szerinti mikrovállalkozásnak (a továbbiakban: mikrovállalkozás) minősülő, 20 m3/óra kapacitást meg nem haladó vásárolt kapacitással rendelkező, 2022. június 18-án mikrovállalkozásként egyetemes szolgáltató által ellátott felhasználó.”
+
+(2) A földgázellátásról szóló 2008. évi XL. törvény 32. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A 3. § 47. pontjában foglaltakon túl az egyetemes szolgáltató általi ellátás vonatkozásában lakossági fogyasztónak kell tekinteni
+
+- a) a helyi önkormányzatot, valamint az állami bérlakás és a szállóférőhely üzemeltetőjét az önkormányzati és állami bérlakásban, valamint szállóférőhelyen élők felhasználási helyei ellátása biztosításának mértékéig,
+- b) – ha az épületben található önkormányzati vagy állami bérlakás, szállóférőhely – az épület közös fogyasztását megvalósító, a távhőszolgáltatásról szóló törvény szerinti távhőtermelő létesítménynek nem minősülő gázfogyasztó készülék vonatkozásában felhasználónak minősülő jogalanyt függetlenül attól, hogy a gázfogyasztó készülék egy vagy több épület közös fogyasztását valósítja meg,
+- c) – ha az épületben az önkormányzati vagy állami bérlakás, szállóférőhely földgázfogyasztásának mérése közös mérővel történik – a közös mérés vonatkozásában felhasználónak minősülő jogalanyt,
+- d) a közös fogyasztás vonatkozásában azon lakóépületet mint felhasználót, amelyben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát,
+- e) a közös fogyasztás vonatkozásában azon 20 m3/óra kapacitást meg nem haladó vásárolt kapacitással rendelkező lakóépületet mint felhasználót, amelyben a műszakilag megosztott, önálló lakások száma azonos vagy alacsonyabb, mint az épületben lévő önálló, nem lakás céljára szolgáló helyiségek száma,
+- f) az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény szerinti jogi személyiséggel rendelkező vallási közösséget, annak belső egyházi jogi személyét vagy jogi személyiséggel rendelkező szervezeti egységét (a továbbiakban együtt: jogi személyiséggel rendelkező vallási közösség) a tulajdonában álló, egy felhasználási helyet képező, egy vagy több lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház, továbbá a hozzá kapcsolódó garázs földgázellátásának biztosítása tekintetében, ha a lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) 12. § (1) bekezdésében vagy 12/A. § (1) bekezdésében meghatározott személy életvitelszerű lakhatására szolgál, és az így igénybe vett szolgáltatással a jogi személyiséggel rendelkező vallási közösség nem folytat gazdasági-vállalkozási tevékenységet,
+- g) a jogi személyiséggel rendelkező vallási közösséget, annak belső egyházi jogi személyét vagy jogi személyiséggel rendelkező szervezeti egységét az f) pontban foglaltaktól eltérően akkor is, ha a felhasználási helyen (mérési pont) található egy vagy több lakóépület, lakás, plébánia, parókia, rendház és a felhasználási hely tekintetében a földgáz vételezés nem vagy nem kizárólag az Ehtv. 12. § (1) bekezdésében vagy 12/A. § (1) bekezdésében meghatározott személy életvitelszerű lakhatására szolgál.”
+
+171. § A földgázellátásról szóló 2008. évi XL. törvény 34. §-a következő (6) és (7) bekezdéssel egészül ki:
+
+„(6) Az egyetemes szolgáltató – a 33. § szerinti egyetemes szolgáltatói engedély alapján – egyetemes szolgáltatásra nem jogosult felhasználóknak nem értékesíthet földgázt.
+
+(7) Az egyetemes szolgáltató a (6) bekezdésben foglaltaknak való megfelelés érdekében az egyetemes szolgáltatásra való jogosultság fennállását jogosult ellenőrizni. Az egyetemes szolgáltatás jogszerű igénybevételének ellenőrzési folyamatát, valamint az egyetemes szolgáltatást jogosulatlanul igénybe vevő felhasználókkal szemben alkalmazandó jogkövetkezményeket az e törvény végrehajtására kiadott kormányrendelet határozza meg.”
+
+172. § A földgázellátásról szóló 2008. évi XL. törvény 35. §-a helyébe a következő rendelkezés lép:
+
+„35. § (1) Az egyetemes szolgáltató által kötött egyetemes szolgáltatási szerződés alapján az egyetemes szolgáltatás keretébe tartozik – 107. § (5) és (6) bekezdésére is figyelemmel – a miniszteri rendeletben meghatározott árszabások alapján biztosított földgázellátás.
+
+(2) Nagycsaládos, egyetemes szolgáltatást igénybe vevő személy a miniszteri rendeletben meghatározott kedvezményes lakossági sávhatáron felül további kedvezményes mennyiségre jogosult. A kedvezményre jogosultak körét, mértékét és igénylésének eljárásrendjét az e törvény végrehajtására kiadott kormányrendelet határozza meg.”
+
+173. § A földgázellátásról szóló 2008. évi XL. törvény „Egyetemes szolgáltatás” alcíme a következő 40/A. §-sal egészül ki:
+
+„40/A. § (1) A Kormány az elérhető árú földgázellátás biztosítására rezsivédelmi szolgáltatást nyújt az egyetemes szolgáltatást igénybe vevő felhasználók számára. A rezsivédelmi szolgáltatás az egyetemes szolgáltatást igénybe vevő felhasználó számára a földgázellátás biztosítása a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló miniszteri rendeletben meghatározott mértékig méltányos, összehasonlítható, átlátható ár ellenében egyetemes szolgáltatás útján az energia piaci körülmények megváltozása esetén is. A rezsivédelmi szolgáltatás biztosítása állami közfeladat. A rezsivédelmi szolgáltatás részletszabályait e törvény végrehajtására kiadott kormányrendelet határozza meg.
+
+(2) Az egyetemes szolgáltatót ellátó földgázkereskedő részére járó ellentételezés összege megegyezik azzal az összeggel, amellyel a tárgyévre vonatkozóan meg kell szüntetni a 141/L. § (1) bekezdése szerinti negatív összegű árbevétel különbségek kumulált értéke és a pozitív összegű árbevétel különbségek kumulált értéke közötti különbözetet (egyenleget).
+
+(3) A (2) bekezdés szerinti ellentételezést Sztv. szerinti egyéb bevételnek kell tekinteni. A rezsivédelmi szolgáltatás biztosítása nem minősül az általános forgalmi adóról szóló törvény szerinti szolgáltatásnyújtásnak, az ellentételezés kifizetett összege visszafizetési kötelezettség nélkül átadott pénzeszköznek tekintendő.”
+
+174. § A földgázellátásról szóló 2008. évi XL. törvény 103. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(E fejezet alkalmazásában hatósági ár)
+
+„d) az egyetemes szolgáltatás 107. § (3) és (5) bekezdése szerinti ára,”
+
+175. § (1) A földgázellátásról szóló 2008. évi XL. törvény 104. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hatósági árat – ide nem értve a 107. § (5) bekezdése szerinti árat – legmagasabb árnak kell tekinteni.”
+
+(2) A földgázellátásról szóló 2008. évi XL. törvény 104. § (6)–(8) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(6) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
+
+(7) A hatósági árnál magasabb árat a 76. § (3) bekezdésében foglalt kivétellel, a 107. § (5) bekezdése szerinti hatósági árnál alacsonyabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály vagy határozat megsértésével más árban állapodtak meg.
+
+(8) A legmagasabb hatósági ártól lefelé megkülönböztetés mentesen, előre nyilvánosságra hozott módon el lehet térni.”
+
+176. § A földgázellátásról szóló 2008. évi XL. törvény 107. §-a helyébe a következő rendelkezés lép:
+
+„107. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával kell megvalósítani.
+
+(2) Az egyetemes szolgáltatás árát a hatékonyan működő engedélyesek indokolt működési és tőkeköltsége alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze. Emellett az árnak biztosítania kell az egyetemes szolgáltatás keretében földgázt vételező felhasználók költséghatékony ellátását is.
+
+(3) Az egyetemes szolgáltatás árát – a forgalomarányos elem tekintetében a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig –, az áralkalmazási feltételeket a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát legkésőbb a rendelet tervezett hatálybalépését megelőzően 40 nappal megküldi a miniszternek.
+
+(4) A kedvezményes lakossági sávhatárt – a közös fogyasztásra figyelemmel – a lakossági fogyasztókra meghatározott mértéktől eltérően is meghatározhatja a miniszter a (3) bekezdés szerinti rendeletében.
+
+(5) A kedvezményes lakossági sávhatár felett a lakossági fogyasztó a Hivatal elnöke által rendeletben meghatározott versenypiaci költségeket tükröző áron jogosult földgázt vételezni. A versenypiaci költségeket tükröző árat és annak áralkalmazási feltételeit a Hivatal elnöke az egyetemes szolgáltatóval folytatott egyeztetést követően határozza meg rendeletben. A Hivatal elnökének rendeletében meghatározott ár – és annak az egyetemes szolgáltatási szerződés megkötését követő változása – az egyetemes szolgáltatási szerződés részévé válik. A piaci viszonyok jelentős változása esetén a Hivatal a rendeletében foglalt árat a hivatalból vagy az egyetemes szolgáltató kezdeményezésére, az egyetemes szolgáltató által szolgáltatott adatok alapján felülvizsgálja, és szükség esetén módosítja.
+
+(6) A kedvezményes mikrovállalkozói sávhatár felett az egyetemes szolgáltatásra jogosult nem lakossági fogyasztó versenypiaci áron vételezhet földgázt. A versenypiaci árat és annak áralkalmazási feltételeit az egyetemes szolgáltató határozza meg, és azt a honlapján hirdetményi formában közzéteszi. A versenypiaci ár nem lehet kevesebb, mint az (5) bekezdés szerinti versenypiaci költségeket tükröző ár. A hirdetményben meghatározott versenypiaci ár, és annak az egyetemes szolgáltatási szerződés megkötését követően bekövetkező változása az egyetemes szolgáltatási szerződés részévé válik. A versenypiaci árra a 104. § (2), (5), (7) és (9) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.”
+
+177. § (1) A földgázellátásról szóló 2008. évi XL. törvény 119. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A (2) bekezdés c) pontja, a (3a) bekezdés és a (6) bekezdés szerinti új engedélyes kijelölésével kapcsolatos részletszabályokat a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet tartalmazza. Ha a Hivatal a felhasználók ellátásának biztonságát veszélyeztetve látja, a felfüggesztő, kijelölő vagy engedélyt visszavonó határozatot hoz, mely döntést honlapján hirdetmény útján teszi közzé. A döntés közlésének napja a hirdetmény honlapon való közzétételét követő nap. A Hivatal a határozatait tájékoztatásul elektronikus úton is közli.”
+
+(2) A földgázellátásról szóló 2008. évi XL. törvény 119. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) A Hivatal felfüggesztő és kijelölő határozatával szemben a közigazgatási perben azonnali jogvédelem benyújtásának nincs helye, közigazgatási per a határozat közlésétől számított 15 napon belül indítható.”
+
+178. § (1) A földgázellátásról szóló 2008. évi XL. törvény 132. § 13. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
+
+„13. az egyetemes szolgáltatás részletes szabályait, ezen belül a szolgáltatási terület és a legkisebb területi egység meghatározására, az egyetemes szolgáltatást igénybe vevő felhasználók garantált ellátásához szükséges források és tárolóban elhelyezett földgázkészlet mértékére és biztosítására, a nagycsaládosokat megillető kedvezményre vonatkozó rendelkezéseket, ideértve a miniszteri rendeletben meghatározott kedvezményes lakossági sávhatáron felül biztosított kedvezményes árú földgázmennyiséget, egyetemes szolgáltatás jogszerű igénybevételének ellenőrzését biztosító rendelkezéseket, az egyetemes szolgáltatást jogosulatlanul igénybe vevő felhasználóval szemben alkalmazandó jogkövetkezményeket, valamint a rezsivédelmi szolgáltatás részletszabályait,”
+
+(2) A földgázellátásról szóló 2008. évi XL. törvény 132. §-a a következő 49. ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
+
+„49. a 107. § (4) bekezdése alapján meghatározott kedvezményes lakossági sávhatárra való jogosultság igazolásának eljárási szabályait, az eljáró hatóságot, az egyetemes szolgáltató részére biztosított jogorvoslati lehetőségeket,”
+
+179. § (1) A földgázellátásról szóló 2008. évi XL. törvény 133. § (1) bekezdése a következő 2. ponttal egészül ki:
+
+(Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg)
+
+„2. a kedvezményes lakossági sávhatárt a 35. § (2) bekezdést kivéve, a kedvezményes mikrovállalkozói sávhatárt, a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig az egyetemes szolgáltatáshoz kapcsolódóan az árakat, a kedvezményes lakossági sávhatárra és többletmennyiségre vonatkozó egyedi szabályokat, az áralkalmazási feltételeket, az árszabályozás kereteit, a 107. § (4) bekezdés alapján meghatározott kedvezményes lakossági sávhatár jogszerű igénybevételének ellenőrzési folyamatát, jogosulatlanul igénybevétel esetén alkalmazandó jogkövetkezményeket;”
+
+(2) A földgázellátásról szóló 2008. évi XL. törvény 133. § (1) bekezdés 3. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg)
+
+„3. a felajánlás részletszabályait, a felajánlott földgázforrás árát, az igénybevételre jogosultak körét, a földgázforrás átadására vonatkozó rugalmassági szabályokat; a felajánlás keretében, a 141/A. §, és a 141/J. § szerinti szerződések alapján értékesített földgázforrás mennyiségét és árát, valamint az ezen földgázforrásokhoz kapcsolódóan a rendszerhasználati és mobilgáz-finanszírozási költségek indokolt értékeihez képest megképződő többlet, vagy veszteség elszámolásának szabályait; a 141/A. §-ban és a 141/J. §-ban foglaltak megsértése, valamint a rendeletben meghatározott mennyiségtől való eltérés esetén alkalmazandó jogkövetkezményeket; a kapcsolt termelésszerkezet-átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét,”
+
+180. § A földgázellátásról szóló 2008. évi XL. törvény 133/A. §-a a következő 19. ponttal egészül ki:
+
+(Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg)
+
+„19. a versenypiaci költségeket tükröző árat és annak áralkalmazási feltételeit.”
+
+181. § A földgázellátásról szóló 2008. évi XL. törvény a következő 138/A. §-sal egészül ki:
+
+„138/A. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított 133/A. § 19. pontja szerinti rendelet hatálybalépéséig a kedvezményes lakossági sávhatár felett az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló kormányrendelet alapján meghatározott, 2025. július 31-én alkalmazott versenypiaci költségeket tükröző árat kell alkalmazni.”
 
 #### 36. A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény módosítása
 
@@ -1024,11 +1454,27 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 202. §
 
-#### 47.
+#### 47. A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény módosítása
 
-#### 203. §
+203. § (1) A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 1. §-a a következő (2) bekezdéssel egészül ki:
 
-#### 204. §
+„(2) Az (1) bekezdést a Get. szerinti kedvezményes lakossági sávhatárig az egyetemes szolgáltató által értékesített földgáz tekintetében kell alkalmazni.”
+
+(2) A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Természetes személy részére lakhatás céljára bérbeadott ingatlan esetén a költségelszámolás során a bérbeadó mint felhasználó a bérlő felé földgáz költségeket legfeljebb úgy számolhatja el, mintha a bérlő az egyetemes szolgáltatóval számolna el.”
+
+(3) A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 1. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Önkormányzati vagy állami fenntartású bérlakás természetes személy részére történő lakáscélú bérbeadása esetén a bérbeadó a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló miniszteri rendeletben meghatározott kedvezményes mennyiséget az épületben műszakilag megosztott, önálló lakások számának szorzata alapján határozza meg és számolja el akkor, ha az önálló lakások külön mérőórával nincsenek felszerelve.”
+
+204. § (1) A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 2. §-a a következő (2) bekezdéssel egészül ki:
+
+„(2) Az (1) bekezdést a Vet. szerinti kedvezményes lakossági sávhatárig az egyetemes szolgáltató által értékesített villamos energiára kell alkalmazni.”
+
+(2) A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Természetes személy részére lakhatás céljára bérbeadott ingatlan esetén a költségelszámolás során a bérbeadó mint felhasználó a bérlő felé a villamosenergia költségeket legfeljebb úgy számolhatja el, mintha a bérlő az egyetemes szolgáltatóval számolna el.”
 
 #### 48.
 
@@ -1150,7 +1596,17 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 249. § (1)
 
-(2)
+(2) Hatályát veszti
+
+- 1. a veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelet,
+- 2. a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 221/2022. (VI. 21.) Korm. rendelet,
+- 3. az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet,
+- 4. a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet,
+- 5. a nagycsaládosokat megillető földgáz árkedvezményről szóló kormányrendelet eltérő alkalmazásáról szóló 290/2022. (VIII. 5.) Korm. rendelet,
+- 6. a szabályozási többletkapacitásra és a saját célra termelő egységekre vonatkozó veszélyhelyzeti szabályokról szóló 527/2022. (XII.16.) Korm. rendelet,
+- 7. a villamos energiáról szóló 2007. évi LXXXVI. törvény és a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 360/2023. (VII. 31.) Korm. rendelet,
+- 8. a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 54/2024. (III. 6.) Korm. rendelet,
+- 9. a veszélyes üzemek villamosenergia- és földgáz ellátásával kapcsolatos egyes veszélyhelyzeti intézkedésekről szóló 268/2024. (IX. 10.) Korm. rendelet.
 
 (3)
 

@@ -329,7 +329,49 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (6) Az (1) bekezdés szerinti vagyonjuttatás az Áfa tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
-#### 7/B.
+#### 7/B. Sportszervezetek részére történő vagyonjuttatás
+
+9/L. § Az Nvtv. 13. § (3) bekezdése és Vtv. 36. § (1) bekezdése alapján a 4. mellékletben meghatározott állami tulajdonú sportcélú ingatlanok (a továbbiakban: ingatlanok), továbbá ezen ingatlanok működtetéséhez, az azokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonban álló ingó vagyonelemek (a továbbiakban együtt: vagyonelemek) e törvény erejénél fogva, a 9/M. § (1) bekezdése szerinti tulajdonjog átszállással ingyenesen a 4. mellékletben megjelölt sportszervezet (a továbbiakban: sportszervezet) tulajdonába kerülnek sportcélú közfeladatai ellátásának elősegítése és a vagyonelemek egyéb, a közfeladat ellátását nem veszélyeztető hasznosítása céljából. A sportszervezet a vagyonelemeket a fennálló terhekkel és az ingatlanokat terhelő kötelezettségekkel együtt szerzi meg.
+
+9/M. § (1) Az ingatlanok tulajdonjogának változását az ingatlanügyi hatóság a sportszervezet kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási kérelemben elegendő kizárólag e törvény tulajdonjogátruházást tartalmazó rendelkezésére, valamint az érintett ingatlanok helyrajzi számát tartalmazó mellékletére hivatkozni.
+
+(2) A sportszervezet független ingatlanforgalmi szakértő 2024. december 1-jénél nem régebbi szakvéleménye alapján meghatározott forgalmi értéken veszi nyilvántartásba az érintett ingatlanokat. Az ingatlanok tekintetében az (1) bekezdés szerinti tulajdonszerzést követő 60 napon belül állapotfelmérési jegyzőkönyvet kell felvenni, amely tartalmazza az e bekezdés szerinti forgalmi értéket és amelyet a tulajdonosi joggyakorló (a továbbiakban: átadó) és a sportszervezet képviseletére jogosult személy ír alá.
+
+(3) A 9/L. § szerint átszálló ingóságokról e rendelkezés hatálybalépését követő 60 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és a sportszervezet képviseletére jogosult személy ír alá. Az ingóságokat a sportszervezet független szakértő – 2024. december 1-jénél nem régebbi – értékbecslési szakvéleménye alapján meghatározott forgalmi értéken szerzi meg és veszi nyilvántartásba.
+
+9/N. § (1) Az ingatlanokon – azok megszerzése időpontjától – e törvény erejénél fogva 30 éves időtartamú elidegenítési és terhelési tilalom létesül. Az elidegenítési és terhelési tilalom ingatlan-nyilvántartásba történő bejegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a sportszervezet kérelmezi.
+
+(2) Ha az elidegenítési és terhelési tilalom 30 éves időtartama alatt a sportszervezet jogutód nélkül megszűnik, vagy a részére átruházott vagyonról lemond, a vagyonelemek tulajdonjoga az államra visszaszáll, amely esetben az állam a vagyonelemek tulajdonjogát ingyenesen szerzi meg, a sportszervezet vagyonelemekre fordított költségei az állammal szemben nem követelhetőek.
+
+9/O. § A 9/L. § szerinti vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+9/P. § (1) 9/L. § szerinti vagyonjuttatás tekintetében az Nvtv. 13. § (4) bekezdését azzal kell alkalmazni, hogy a sportszervezet a 9/L. § szerinti juttatási célnak megfelelő hasznosítási- és állagmegóvási kötelezettségének, valamint az erre vonatkozó beszámolási kötelezettségének a 9/N. § szerinti elidegenítési és terhelési tilalom ideje alatt köteles eleget tenni.
+
+(2) A 9/N. § szerinti elidegenítési és terhelési tilalom ideje alatt a sportszervezet a vagyonelemek állapotáról és célhoz kötött használatáról évente egyszer, a tárgyévet követő év március 31-éig adatot szolgáltat az átadó részére.
+
+(3) Nem minősül juttatási céltól eltérő hasznosításnak az olyan hasznosítás, amely a sportszervezet sportcélú közfeladatainak ellátását nem veszélyezteti és nem jár az érintett vagyonelem rendeltetésellenes használatával.
+
+9/Q. § A vagyonelemeken fennálló vagyonkezelői jog és vagyonkezelési szerződés, valamint a vagyonelemek használatát biztosító egyéb jogcím és szerződés a 9/M. § (1) bekezdése szerinti tulajdonjog átszállásának napján megszűnik azzal, hogy a magyar állam és a sportszervezet a tulajdonba adással érintett vagyonelemek tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthat.
+
+9/R. § (1) Ha a sportszervezet nyilatkozata alapján az ingatlan elsődlegesen nem utánpótlás-, diák- és amatőr sporttevékenységre szolgál, és gazdasági célú használatának mértéke meghaladja a 20%-ot, az ingatlan vagyonjuttatással történő átadása az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó, európai uniós versenyjogi értelemben vett állami támogatásnak minősül és a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 55. cikke szerinti beruházási támogatás szabályait kell alkalmazni.
+
+(2) Az ingatlanok üzemeltetéséhez nyújtott működési támogatás, valamint a helyi adókról szóló 1990. évi C. törvény 13. § (1) bekezdés f) pontja és 19. § e) pontja szerinti adómentesség az európai uniós állami támogatási szabályokkal összhangban, az állami sport célú támogatások felhasználásáról és elosztásáról szóló jogszabályok szerint nyújtható.
+
+9/S. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a magyar állam tulajdonában álló, az ingatlan-nyilvántartás szerinti Budapest, XIV. kerület belterület 31506 helyrajzi számú ingatlan (e § alkalmazásában a továbbiakban: ingatlan) ingyenesen a Magyar Testgyakorlók Köre Budapest (nyilvántartási szám: 01-02-0001500; székhelye: 1087 Budapest, Brüll Alfréd utca 2.; e § alkalmazásában a továbbiakban: MTK) tulajdonába kerül közneveléssel, valamint szakképzéssel kapcsolatos feladatok ellátásának és köznevelési intézmény működtetésének elősegítése érdekében.
+
+(2) Az (1) bekezdés szerinti ingatlanon fennálló vagyonkezelői jog az ingatlanjuttatás tárgyában megkötendő megállapodás létrejöttének napjával – külön elszámolás nélkül – megszűnik.
+
+(3) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az MTK-val. A szerződésben az ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.
+
+(4) Az MTK az ingatlant per-, teher- és igénymentesen szerzi meg.
+
+(5) Az ingatlanhoz kapcsolódó fizetési kötelezettségek az MTK-t az érintett ingatlan birtokátruházását követően terhelik.
+
+(6) Az (1) bekezdés szerinti ingatlanjuttatás tárgyában megkötendő megállapodás létrejöttének napjával az (1) bekezdésben meghatározott feladatok ellátására rendelkezésre álló, az ingatlanban található és az ingatlan rendeltetésszerű használatához szükséges, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva a vagyonkezelői jog – külön elszámolás nélküli – egyidejű megszűnésével az MTK tulajdonába kerülnek.
+
+(7) A (6) bekezdés alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(8) Az (1) és (6) bekezdés szerinti vagyonjuttatás az Áfa tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
 ### II. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -375,7 +417,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, a 4/D. §, a 4/F. §, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 9/G. §, a 9/J. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, a 4/D. §, a 4/F. §, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 9/N. §, a 9/P. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
@@ -1101,6 +1143,18 @@ Az ingatlan-nyilvántartás szerinti Piliscsaba belterület 1602/4 helyrajzi sz�
 | 11 | 634656.42 | 253797.45 |
 
 ### 4. melléklet a 2021. évi CI. törvényhez
+
+- 1. Átadásra kerülő ingatlanok helyrajzi szám alapján
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | Az ingatlan helyrajzi száma | Tulajdonjogot szerző szervezet |
+| 2 | Győr, belterület 5761/7 | ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (székhely: 9027 Győr, Nagysándor J. u 33., cégjegyzékszám: 08-09-020296, a továbbiakban: ETO Futball Sportszervező és Szolgáltató Kft.) |
+| 3 | Győr, belterület 5761/7/A | ETO Futball Sportszervező és Szolgáltató Kft. |
+| 4 | Győr, belterület 5761/7/B | ETO Futball Sportszervező és Szolgáltató Kft. |
+| 5 | Győr, belterület 5761/7/C | ETO Futball Sportszervező és Szolgáltató Kft. |
+| 6 | Budapest, belterület 74332 | ÚJPEST 1885 Futball Korlátolt Felelősségű Társaság (székhely: 1044 Budapest, Megyeri út 13., cégjegyzékszám: 01-09-999393) |
+| 7 | Budapest, belterület 26085/1123 (91788/125049 tulajdoni hányad) | VASAS Futball Club Korlátolt Felelősségű Társaság |
 
 ### 5. melléklet a 2021. évi CI. törvényhez
 
