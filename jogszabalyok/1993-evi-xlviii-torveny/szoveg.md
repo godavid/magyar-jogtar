@@ -83,6 +83,10 @@ személy tulajdonába kerül.
 
 (1d) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra beruházás esetén a törvény alapján a magyar állam nevében és javára eljáró – az (1b) bekezdésben meghatározott – építtetővel szerződéses jogviszonyban álló, az ásványi nyersanyag kitermelését végző személy a magyar állam tulajdonában lévő ingatlanba az (1b) bekezdés szerint be nem épített, és rekultiválásra fel nem használt ásványi nyersanyag tulajdonjogát megszerzi.
 
+(1e) A föld alatti gáztárolóban mint természetes előfordulási helyén lévő, állami tulajdonban álló szénhidrogén tulajdonjogát, kérelemre, a Kormány rendeletében meghatározott mennyiségben a földgázellátásról szóló 2008. évi XL. törvény 141/L. § (1) bekezdése szerinti elhatárolást végrehajtó gazdasági társaság (a továbbiakban: földgáz szolgáltató) a tulajdonba adásról rendelkező bányafelügyeleti határozat alapján megszerezheti. A földgáz szolgáltatónak a földgáz átadása a kormányrendeletben meghatározott átadási ponton és ütemezésben történik. A földgáz szolgáltató tulajdonába e bekezdés szerint került földgáz az (1) bekezdéstől eltérően a kitermeléssel nem kerül a bányavállalkozó tulajdonába.
+
+(1f) A földgáz szolgáltató az (1e) bekezdés szerinti földgáz tulajdonjogát 0 forint értéken szerzi meg és a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése alapján 0 forint bekerülési értéken tartja nyilván.
+
 (2) A kőolaj, a kőolajtermékek, továbbá – a földgáz kivételével – a szénhidrogén-gázok csővezetéken történő szállítása kizárólagos állami tevékenység.
 
 (3) A bányászati ügyekért felelős miniszter (a továbbiakban: miniszter) — a (4) bekezdésben szabályozott esetek kivételével — a 8. §-ban felsorolt tevékenységek gyakorlását koncessziós szerződéssel meghatározott időre átengedheti.
@@ -152,6 +156,8 @@ megtiltja az adott tevékenység folytatását.
 (2) A kőolaj- és földgázbányászatra jogosult bányavállalkozó – a Magyar Energetikai és Közmű-szabályozási Hivatal földgáztárolásra vonatkozó működési engedélyének birtokában – a bányafelügyeletnél kezdeményezheti a bányatelek föld alatti gáztárolásra történő kiterjesztésének engedélyezését, ha az a környezetet nem szennyezi, veszélyezteti vagy károsítja.
 
 (2a) Ha a bányafelügyelet a kőolaj- és földgázbányászatra jogosult bányavállalkozó kérelme alapján módosítja a bányatelek föld alatti gáztárolásra történő kiterjesztését engedélyező határozatát, a módosítást – a bányafelügyelet által megküldött végleges határozat alapján – a Magyar Energetikai és Közmű-szabályozási Hivatal a földgáztárolásra vonatkozó működési engedélyben átvezeti.
+
+(2b) A 3. § (1e) bekezdése szerint a földgáz szolgáltató tulajdonába került földgázt földgáztárolási működési engedéllyel rendelkező bányavállalkozó termeli ki.
 
 (3) Az e törvény szerint engedélyköteles tevékenységeket a bányafelügyelet által kiadott engedélyek alapján lehet megkezdeni, és az abban foglalt feltételek szerint gyakorolni.
 
@@ -462,6 +468,7 @@ felhasznált, hasznosított vagy értékesített ásványi nyersanyag mennyiség
 - e) a kitermelt geotermikus energia 50%-ot meghaladóan hasznosított mennyisége után,
 - f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosított termálvíz visszahűtéséből származó geotermikus energiának (hőenergiának), továbbá a kísérőgázból kinyert szénhidrogénnek az engedélyes saját céljára történő hasznosítása után, és
 - g) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz esetében, ha a lecserélésből származó párnagázt a kitermeléssel megegyező mennyiségben a föld alatti gáztárolóba visszapótolják.
+- h) a 3. § (1e) bekezdése szerint tulajdonba adott földgáz kitermelése után.
 
 (7) A bányajáradék mértéke geotermikus energia esetében a kitermelt geotermikus energia értékének 2%-a.
 
@@ -2491,6 +2498,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - e) a bányaüzemi felelős műszaki vezetői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
 - f) a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések tekintetében a szabálytalan építési tevékenység esetén alkalmazandó bírság mértékére,
 - g) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó bírságok mértékére és kiszabására
+- h) a földgáz szolgáltató részére tulajdonba adható földgáz mennyiségére, az átadás helyére és ütemezésére
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 

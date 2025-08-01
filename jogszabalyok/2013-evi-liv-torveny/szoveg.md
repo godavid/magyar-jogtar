@@ -12,17 +12,19 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 1. § (1) A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 3. § 8. pontjában meghatározott egyetemes szolgáltatás keretében vételező, a Get. 3. § 47. pontjában meghatározott lakossági fogyasztók részére, az egyetemes szolgáltató által kibocsátott számlában a 2014. március 31-ét követő időszakban igénybe vett földgázszolgáltatás MJ-ban meghatározott mennyiségéért fizetendő összeg, valamint a szolgáltatás rendelkezésre állásáért fizetendő havi alapdíj együttes értéke nem haladhatja meg az azonos elosztói területen, az egyetemes szolgáltató által a 2013. november 1-jén alkalmazott díjak (beleértve a biztonsági készletezési díjat) alapján azonos hőmennyiségre, azonos számú hónapra, azonos körülmények között (azonos kedvezménymérték esetén) számított összeg 93,5%-át.
 
-(2)
+(2) Az (1) bekezdést a Get. szerinti kedvezményes lakossági sávhatárig az egyetemes szolgáltató által értékesített földgáz tekintetében kell alkalmazni.
 
-(3) Az egyetemes szolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. január 1-je óta eltelt időszakban.
+(3) Természetes személy részére lakhatás céljára bérbeadott ingatlan esetén a költségelszámolás során a bérbeadó mint felhasználó a bérlő felé földgáz költségeket legfeljebb úgy számolhatja el, mintha a bérlő az egyetemes szolgáltatóval számolna el.
 
 (4) Az önkormányzat, vagy az általa megbízott vállalkozás nem számlázhat ki magasabb összegű díjat közvetített földgáz egyetemes szolgáltatás jogcímén az önkormányzat tulajdonában lévő lakhatás célját szolgáló ingatlant bérlő természetes személy részére, mint amennyi fizetési kötelezettség az önkormányzatot az (1) bekezdésben előírt kötelezettség alapján kiállított számla vonatkozásában terhelte.
 
+(5) Önkormányzati vagy állami fenntartású bérlakás természetes személy részére történő lakáscélú bérbeadása esetén a bérbeadó a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló miniszteri rendeletben meghatározott kedvezményes mennyiséget az épületben műszakilag megosztott, önálló lakások számának szorzata alapján határozza meg és számolja el akkor, ha az önálló lakások külön mérőórával nincsenek felszerelve.
+
 2. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 3. § 7. pontjában meghatározott egyetemes szolgáltatás keretében vételező, a Vet. 3. § 42. pontjában meghatározott lakossági fogyasztó részére, az egyetemes szolgáltató által kibocsátott számlában a 2014. augusztus 31-ét követő időszakban igénybe vett villamos energiáért fizetendő összeg nem haladhatja meg a 2013. november 1-jén alkalmazott díjak alapján azonos energia mennyiségre, azonos számú hónapra, azonos körülmények között (azonos árszabás mellett) számított összeg 94,3%-át.
 
-(2)
+(2) Az (1) bekezdést a Vet. szerinti kedvezményes lakossági sávhatárig az egyetemes szolgáltató által értékesített villamos energiára kell alkalmazni.
 
-(3) Az egyetemes szolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. január 1-je óta eltelt időszakban.
+(3) Természetes személy részére lakhatás céljára bérbeadott ingatlan esetén a költségelszámolás során a bérbeadó mint felhasználó a bérlő felé a villamosenergia költségeket legfeljebb úgy számolhatja el, mintha a bérlő az egyetemes szolgáltatóval számolna el.
 
 3. § (1) A távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 3. § b) pontjában meghatározott díjfizető közül a lakossági díjfizető (a továbbiakban: lakossági díjfizető) és a Tszt. 3. § g) pont ga) alpontjában meghatározott lakossági felhasználó részére, a távhőszolgáltató által kibocsátott számlában a 2014. szeptember 30-át követő időszakra vonatkozóan meghatározott szolgáltatási egységre jutó, az igénybevett távhőszolgáltatásért fizetendő összeg nem haladhatja meg a 2013. november 1-jén alkalmazott díjtételek alapján, ugyanazon feltételekkel (fogyasztás, légtérfogat stb.) számított összeg 96,7%-át.
 
