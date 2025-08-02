@@ -38,25 +38,13 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 1. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-1. § A helyi adókról szóló 1990. évi C. törvény 13. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+#### 1. §
 
-(Mentes az adó alól:)
-
-„f) az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény, és a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen sportszervezet vagy országos sportági szakszövetség tulajdonába adott ingatlanvagyon,”
-
-2. § A helyi adókról szóló 1990. évi C. törvény 19. § e) pontja helyébe a következő rendelkezés lép:
-
-(Mentes az adó alól:)
-
-„e) az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény, és a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen sportszervezet vagy országos sportági szakszövetség tulajdonába adott ingó- és ingatlanvagyon.”
+#### 2. §
 
 #### 2. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-3. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 4. § (3) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-(Nem tartozik a gazdálkodó szervezet vagyonába:)
-
-„i) az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény, és a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen sportszervezet vagy országos sportági szakszövetség tulajdonába adott ingó- és ingatlanvagyon az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt.”
+#### 3. §
 
 #### 3. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
@@ -68,17 +56,9 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 4. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-7. § A bányászatról szóló 1993. évi XLVIII. törvény 3. §-a a következő (1e) és (1f) bekezdéssel egészül ki:
+#### 7. §
 
-„(1e) A föld alatti gáztárolóban mint természetes előfordulási helyén lévő, állami tulajdonban álló szénhidrogén tulajdonjogát, kérelemre, a Kormány rendeletében meghatározott mennyiségben a földgázellátásról szóló 2008. évi XL. törvény 141/L. § (1) bekezdése szerinti elhatárolást végrehajtó gazdasági társaság (a továbbiakban: földgáz szolgáltató) a tulajdonba adásról rendelkező bányafelügyeleti határozat alapján megszerezheti. A földgáz szolgáltatónak a földgáz átadása a kormányrendeletben meghatározott átadási ponton és ütemezésben történik. A földgáz szolgáltató tulajdonába e bekezdés szerint került földgáz az (1) bekezdéstől eltérően a kitermeléssel nem kerül a bányavállalkozó tulajdonába.
-
-(1f) A földgáz szolgáltató az (1e) bekezdés szerinti földgáz tulajdonjogát 0 forint értéken szerzi meg és a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése alapján 0 forint bekerülési értéken tartja nyilván.”
-
-8. § (1)
-
-(2) A bányászatról szóló 1993. évi XLVIII. törvény 5. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A 3. § (1e) bekezdése szerint a földgáz szolgáltató tulajdonába került földgázt földgáztárolási működési engedéllyel rendelkező bányavállalkozó termeli ki.”
+#### 8. §
 
 #### 9. §
 
@@ -90,11 +70,7 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 13. §
 
-14. § A bányászatról szóló 1993. évi XLVIII. törvény 20. § (6) bekezdése a következő h) ponttal egészül ki:
-
-(Nem kell bányajáradékot fizetni)
-
-„h) a 3. § (1e) bekezdése szerint tulajdonba adott földgáz kitermelése után.”
+#### 14. §
 
 #### 15. §
 
@@ -106,13 +82,7 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 19. §
 
-20. § A bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1a) bekezdése a következő h) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány)
-
-„h) a földgáz szolgáltató részére tulajdonba adható földgáz mennyiségére, az átadás helyére és ütemezésére”
-
-(vonatkozó részletes szabályok rendeletben történő megállapítására.)
+#### 20. §
 
 #### 21. §
 
@@ -134,9 +104,7 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 6. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-29. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 90. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Mentes a végrehajtás alól az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény, és a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen sportszervezet vagy országos sportági szakszövetség tulajdonába adott ingóvagyon az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt.”
+#### 29. §
 
 #### 7. A sportról szóló 2004. évi I. törvény módosítása
 
@@ -154,7 +122,7 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 36. §
 
-37. § (1) Hatályát veszti a sportról szóló 2004. évi I. törvény 2. mellékletében foglalt táblázat 5. sora.
+37. § (1)
 
 (2)
 
@@ -174,86 +142,11 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 9. A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény módosítása
 
-43. § A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény az „A biztonsági készlet felhasználása” alcímet követően a következő alcímmel egészül ki:
+#### 43. §
 
-### „Különleges földgázkészlet
+#### 44. §
 
-5/B. § (1) A különleges földgázkészlet a miniszter által meghatározott földgázmennyiség (a továbbiakban: különleges földgázkészlet), amelyet az 5/C. § (1) és (2) bekezdés szerint hozott létre.
-
-(2) A Szövetség az e törvényben meghatározott módon tároltatja és értékesíti a különleges földgázkészletet, amelyet rezsivédelmi készletezési szolgáltatás keretében az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint tart fent. A különleges földgázkészlet a Szövetség tulajdonát képezi.
-
-(3) A rezsivédelmi készletezési szolgáltatás biztosításáért a Szövetség az e törvény végrehajtására kiadott kormányrendeletben meghatározott ellentételezésre jogosult. A rezsivédelmi készletezési szolgáltatás biztosítása fejében a Szövetségnek kifizetett ellentételezést a számvitelről szóló törvény szerinti egyéb bevételnek kell tekinteni. Az ellentételezés nem minősül az általános forgalmi adóról szóló törvény szerinti szolgáltatásnyújtásnak, összege visszafizetési kötelezettség nélkül átvett pénzeszköznek tekintendő.
-
-5/C. § (1) A különleges földgázkészlet teljes mennyiségének a hazai földgázrendszer virtuális kereskedelmi pontjától (a továbbiakban: MGP pont) a földgáztárolóig történő szállíttatását, tároltatását, beleértve a betároltatást, mobilkapacitások lekötését, kitároltatást, valamint a kitárolt mennyiség MGP pontig történő szállíttatását az egyetemes szolgáltatót ellátó földgázkereskedő (a továbbiakban: Kereskedő) logisztikai szolgáltatási szerződés keretében (a továbbiakban: Szolgáltatás) biztosítja a Szövetség részére.
-
-(2) A különleges földgázkészletet a Kereskedő hazai földgáztárolóban tárolja azzal, hogy kormányrendelet – a hazai földgáztárolók üzemszerű működési feltételeinek biztosítása céljából – a teljes mennyiség vonatkozásában egyedi tárolót is kijelölhet a különleges földgázkészlet tárolására, valamint a földgáztároló engedélyes működési engedélyében rögzített nyilvántartására.
-
-(3) A különleges földgázkészlethez tartozó, a hazai földgáztárolókban rendelkezésre álló kapacitásokhoz meglévő, nem megszakítható minimum betárolási és – az adott hazai földgáztárolóban tárolt különleges földgázkészlet kitárolását 70 napnál nem rövidebb időn belül biztosító – kitárolási kapacitások mértékét a miniszter az e törvény végrehajtására kiadott rendeletben határozza meg.
-
-(4) A Szolgáltatásért fizetendő díj megegyezik a Kereskedő által a hazai földgáztárolóknak fizetendő kapacitás- és forgalmi díj, valamint a Szolgáltatáshoz kapcsolódóan a szállítási rendszerüzemeltetőnek fizetendő kapacitás- és forgalmi díj összegével. Ezen tételek közül a mobilkapacitásért fizetendő díj nem haladhatja meg a 0,3906 forint/kWh/év mértéket.
-
-5/D. § (1) A különleges földgázkészlet létrehozásához és fenntartásához szükséges hitelekkel és azok biztosítékával kapcsolatban tett intézkedések, jogcselekmények, jognyilatkozatok nem érintik a Szövetségnek a különleges földgázkészlet létrehozásához és fenntartásához szükséges hitelein kívüli hitelállományához kapcsolódó hitelezési és biztosítéki jogviszonyait.
-
-(2) A különleges földgázkészletre zálogjog és a biztosítéki célú vételi jog nem alapítható.
-
-(3) A különleges földgázkészlet mentes a bírósági végrehajtásról szóló törvény szerinti végrehajtás alól, és nem tartozik a gazdálkodó szervezet csődeljárásról és felszámolási eljárásról szóló törvényben meghatározott vagyonába.
-
-(4) A Szövetség a különleges földgázkészlet létrehozásához és fenntartásához kapcsolódó eszközeit és forrásait, bevételeit és ráfordításait a belső számvitelében elkülöníti a kőolaj- és kőolajtermék-készletezési, a földgáz-készletezési, valamint a nem készletezési tevékenységeitől.
-
-5/E. § (1) A különleges földgázkészlet pótlásához és fenntartásához szükséges feltételeket a miniszter az e törvény végrehajtására kiadott rendeletben határozza meg, amelyben rögzíti
-
-- a) a szükséges hitelfelvétel legmagasabb mértékét,
-- b) a tagi hozzájárulás mértékét és
-- c) a földgáz legmagasabb beszerzési árát, amely nem lehet magasabb, mint
-  - ca) a Kereskedő által a különleges földgázkészlet biztosításához szükséges földgázforrás beszerzése céljából 2022. szeptember 1. napjáig megkötött szerződés alapján átvett földgázmennyiség ára, vagy
-  - cb) a földgázkereskedő által egyéb forrásból beszerzett földgázmennyiség esetében a szerződéskötés időpontjában érvényes piaci árak
-
-alapján képzett, és – bármely forrás esetén – legfeljebb az MGP pontig felmerülő, a rendszerhasználati díjakat, a kapcsolódó árfixálás költségeit tartalmazó ár.
-
-(2) A Szövetség a különleges földgázkészlet pótlásához szükséges földgázt a miniszteri rendeletben meghatározottak szerint szerzi be.
-
-(3) A különleges földgázkészlet beszerzése nem minősül a Get. szerint földgáz-kereskedelemnek.
-
-(4) A különleges földgázkészlet fenntartásához szükséges tagi hozzájárulásra – az (1) bekezdés b) pontjában és az (5) bekezdésben foglalt kivétellel – a 8. és a 9. §-ban foglaltakat kell alkalmazni.
-
-(5) A különleges földgázkészlet létrehozásához és fenntartásához szükséges tagi hozzájárulással kapcsolatos nyilatkozat benyújtási és fizetési kötelezettség nem vonatkozik a villamosenergia-termelői engedéllyel rendelkező, 50 MW és annál nagyobb teljesítményű, elsődleges energiaforrásként földgázt használó erőművek által villamosenergia-termelés céljára felhasznált földgáz mennyiségére.
-
-5/F. § (1) Ha Magyarország földgáz- vagy villamosenergia ellátásának biztosítása érdekében szükséges, a miniszter az e törvény végrehajtására kiadott rendeletben engedélyezheti a különleges földgázkészlet felhasználását.
-
-(2) Az 5/G. § szerinti részleges vagy teljes megszüntetés kivételével a különleges földgázkészlet felhasználására csak a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészlet kitárolását követően kerülhet sor. A miniszter a felhasználás engedélyezését megelőzően tájékoztatja a Kormányt, hogy a kitárolás milyen következményekkel jár az érintett földgáztároló működésére.
-
-(3) A miniszter a különleges földgázkészlet felhasználására vonatkozó rendeletben meghatározhatja
-
-- a) a felhasználásra engedélyezett földgáz mennyiségét,
-- b) az igénybevételre jogosultakat, és
-- c) a felhasználásra engedélyezett földgáz árát, amely nem lehet kevesebb, mint a földgáz beszerzési ára.
-
-(4) A Szövetség a felhasználásra engedélyezett földgázt az e törvény végrehajtására kiadott miniszteri rendeletnek megfelelően értékesíti, amely nem minősül a Get. szerint földgáz-kereskedelemnek. A Szövetség az értékesített földgáz utáni árbevételt a különleges földgázkészlet létrehozására és fenntartására felvett hitelek törlesztésére fordítja.
-
-5/G. § (1) A miniszter az 5/F. § (1) bekezdése szerinti rendeletében dönthet a különleges földgázkészlet részleges vagy teljes megszüntetéséről. Ebben az esetben a miniszter a rendeletében meghatározza a teljes, vagy részbeni értékesítés 5/F. § (3) bekezdésén túlmutató feltételeit. A Szövetség az értékesítésre kijelölt különleges földgázkészletet a miniszteri rendeletnek megfelelően értékesíti, amely nem minősül a Get. szerinti földgáz-kereskedelemnek.
-
-(2) Ha a miniszter rendelete alapján az (1) bekezdés szerint a különleges földgázkészlet részben vagy teljes egészében megszüntetésre kerül, a miniszter gondoskodik az érintett földgáztároló üzemszerű működési feltételeinek biztosításához szükséges földgázkészlet rendelkezésre állásáról.”
-
-44. § A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény a következő 12/C. §-sal egészül ki:
-
-„12/C. § E törvény „Különleges földgázkészlet” alcíme az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.”
-
-45. § (1) A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 13. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
-
-- a) a különleges földgázkészlet fenntartásának biztosítása érdekében a rezsivédelmi készletezési szolgáltatás részletszabályait és a különleges földgázkészlet fenntartásának időtartamát,
-- b) a hazai földgáztárolók üzemszerű működési feltételeinek biztosítása céljából a különleges földgázkészlet tárolásának és tárolói nyilvántartásának szabályait.”
-
-(2) A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 13. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
-
-- a) a különleges földgázkészlet, valamint a hozzá tartozó minimum betárolási és kitárolási kapacitások mértékére,
-- b) a különleges földgázkészlet pótlásához és a fenntartásához – a tagi hozzájárulás mértékére, és a hitelfelvételi korlátra is kiterjedően – szükséges feltételekre, valamint
-- c) a különleges földgázkészlet felhasználására, értékesítésére és annak feltételeire
-
-vonatkozó részletes szabályokat.”
+#### 45. §
 
 #### 10. Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény módosítása
 
@@ -319,9 +212,7 @@ vonatkozó részletes szabályokat.”
 
 #### 17. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-70. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 9/C. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) Az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény, és a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen sportszervezet vagy országos sportági szakszövetség tulajdonába adott ingó- és ingatlanvagyont az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt a végelszámolás elrendelését követő 30 napon belül térítés nélkül, könyv szerinti értékben, az állami tulajdonosi joggyakorló szervezetnek át kell adni, amelynek során a végelszámolás alatt álló sportszervezet vagy országos sportági szakszövetség az általa végrehajtott értéknövelő beruházások elszámolására, valamint ezzel összefüggésben felmerült követeléseinek érvényesítésére nem jogosult.”
+#### 70. §
 
 #### 18. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
@@ -423,67 +314,21 @@ vonatkozó részletes szabályokat.”
 
 #### 108. §
 
-109. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény a következő 7/B. alcímmel egészül ki:
+#### 109. §
 
-#### „7/B. Sportszervezetek részére történő vagyonjuttatás
+#### 110. §
 
-9/L. § Az Nvtv. 13. § (3) bekezdése és Vtv. 36. § (1) bekezdése alapján a 4. mellékletben meghatározott állami tulajdonú sportcélú ingatlanok (a továbbiakban: ingatlanok), továbbá ezen ingatlanok működtetéséhez, az azokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonban álló ingó vagyonelemek (a továbbiakban együtt: vagyonelemek) e törvény erejénél fogva, a 9/M. § (1) bekezdése szerinti tulajdonjog átszállással ingyenesen a 4. mellékletben megjelölt sportszervezet (a továbbiakban: sportszervezet) tulajdonába kerülnek sportcélú közfeladatai ellátásának elősegítése és a vagyonelemek egyéb, a közfeladat ellátását nem veszélyeztető hasznosítása céljából. A sportszervezet a vagyonelemeket a fennálló terhekkel és az ingatlanokat terhelő kötelezettségekkel együtt szerzi meg.
+#### 111. §
 
-9/M. § (1) Az ingatlanok tulajdonjogának változását az ingatlanügyi hatóság a sportszervezet kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási kérelemben elegendő kizárólag e törvény tulajdonjogátruházást tartalmazó rendelkezésére, valamint az érintett ingatlanok helyrajzi számát tartalmazó mellékletére hivatkozni.
+#### 112. §
 
-(2) A sportszervezet független ingatlanforgalmi szakértő 2024. december 1-jénél nem régebbi szakvéleménye alapján meghatározott forgalmi értéken veszi nyilvántartásba az érintett ingatlanokat. Az ingatlanok tekintetében az (1) bekezdés szerinti tulajdonszerzést követő 60 napon belül állapotfelmérési jegyzőkönyvet kell felvenni, amely tartalmazza az e bekezdés szerinti forgalmi értéket és amelyet a tulajdonosi joggyakorló (a továbbiakban: átadó) és a sportszervezet képviseletére jogosult személy ír alá.
+#### 113. §
 
-(3) A 9/L. § szerint átszálló ingóságokról e rendelkezés hatálybalépését követő 60 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és a sportszervezet képviseletére jogosult személy ír alá. Az ingóságokat a sportszervezet független szakértő – 2024. december 1-jénél nem régebbi – értékbecslési szakvéleménye alapján meghatározott forgalmi értéken szerzi meg és veszi nyilvántartásba.”
+#### 114. §
 
-110. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 7/B. alcíme a következő 9/N. §-sal egészül ki:
+#### 115. §
 
-„9/N. § (1) Az ingatlanokon – azok megszerzése időpontjától – e törvény erejénél fogva 30 éves időtartamú elidegenítési és terhelési tilalom létesül. Az elidegenítési és terhelési tilalom ingatlan-nyilvántartásba történő bejegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a sportszervezet kérelmezi.
-
-(2) Ha az elidegenítési és terhelési tilalom 30 éves időtartama alatt a sportszervezet jogutód nélkül megszűnik, vagy a részére átruházott vagyonról lemond, a vagyonelemek tulajdonjoga az államra visszaszáll, amely esetben az állam a vagyonelemek tulajdonjogát ingyenesen szerzi meg, a sportszervezet vagyonelemekre fordított költségei az állammal szemben nem követelhetőek.”
-
-111. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 7/B. alcíme a következő 9/O. §-sal egészül ki:
-
-„9/O. § A 9/L. § szerinti vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.”
-
-112. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 7/B. alcíme a következő 9/P. §-sal egészül ki:
-
-„9/P. § (1) 9/L. § szerinti vagyonjuttatás tekintetében az Nvtv. 13. § (4) bekezdését azzal kell alkalmazni, hogy a sportszervezet a 9/L. § szerinti juttatási célnak megfelelő hasznosítási- és állagmegóvási kötelezettségének, valamint az erre vonatkozó beszámolási kötelezettségének a 9/N. § szerinti elidegenítési és terhelési tilalom ideje alatt köteles eleget tenni.
-
-(2) A 9/N. § szerinti elidegenítési és terhelési tilalom ideje alatt a sportszervezet a vagyonelemek állapotáról és célhoz kötött használatáról évente egyszer, a tárgyévet követő év március 31-éig adatot szolgáltat az átadó részére.
-
-(3) Nem minősül juttatási céltól eltérő hasznosításnak az olyan hasznosítás, amely a sportszervezet sportcélú közfeladatainak ellátását nem veszélyezteti és nem jár az érintett vagyonelem rendeltetésellenes használatával.”
-
-113. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 7/B. alcíme a következő 9/Q. §-sal és 9/R. §-sal egészül ki:
-
-„9/Q. § A vagyonelemeken fennálló vagyonkezelői jog és vagyonkezelési szerződés, valamint a vagyonelemek használatát biztosító egyéb jogcím és szerződés a 9/M. § (1) bekezdése szerinti tulajdonjog átszállásának napján megszűnik azzal, hogy a magyar állam és a sportszervezet a tulajdonba adással érintett vagyonelemek tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthat.
-
-9/R. § (1) Ha a sportszervezet nyilatkozata alapján az ingatlan elsődlegesen nem utánpótlás-, diák- és amatőr sporttevékenységre szolgál, és gazdasági célú használatának mértéke meghaladja a 20%-ot, az ingatlan vagyonjuttatással történő átadása az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó, európai uniós versenyjogi értelemben vett állami támogatásnak minősül és a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 55. cikke szerinti beruházási támogatás szabályait kell alkalmazni.
-
-(2) Az ingatlanok üzemeltetéséhez nyújtott működési támogatás, valamint a helyi adókról szóló 1990. évi C. törvény 13. § (1) bekezdés f) pontja és 19. § e) pontja szerinti adómentesség az európai uniós állami támogatási szabályokkal összhangban, az állami sport célú támogatások felhasználásáról és elosztásáról szóló jogszabályok szerint nyújtható.”
-
-114. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 7/B. alcíme a következő 9/S. §-sal egészül ki:
-
-„9/S. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a magyar állam tulajdonában álló, az ingatlan-nyilvántartás szerinti Budapest, XIV. kerület belterület 31506 helyrajzi számú ingatlan (e § alkalmazásában a továbbiakban: ingatlan) ingyenesen a Magyar Testgyakorlók Köre Budapest (nyilvántartási szám: 01-02-0001500; székhelye: 1087 Budapest, Brüll Alfréd utca 2.; e § alkalmazásában a továbbiakban: MTK) tulajdonába kerül közneveléssel, valamint szakképzéssel kapcsolatos feladatok ellátásának és köznevelési intézmény működtetésének elősegítése érdekében.
-
-(2) Az (1) bekezdés szerinti ingatlanon fennálló vagyonkezelői jog az ingatlanjuttatás tárgyában megkötendő megállapodás létrejöttének napjával – külön elszámolás nélkül – megszűnik.
-
-(3) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az MTK-val. A szerződésben az ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.
-
-(4) Az MTK az ingatlant per-, teher- és igénymentesen szerzi meg.
-
-(5) Az ingatlanhoz kapcsolódó fizetési kötelezettségek az MTK-t az érintett ingatlan birtokátruházását követően terhelik.
-
-(6) Az (1) bekezdés szerinti ingatlanjuttatás tárgyában megkötendő megállapodás létrejöttének napjával az (1) bekezdésben meghatározott feladatok ellátására rendelkezésre álló, az ingatlanban található és az ingatlan rendeltetésszerű használatához szükséges, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva a vagyonkezelői jog – külön elszámolás nélküli – egyidejű megszűnésével az MTK tulajdonába kerülnek.
-
-(7) A (6) bekezdés alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
-
-(8) Az (1) és (6) bekezdés szerinti vagyonjuttatás az Áfa tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.”
-
-115. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 11. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, a 4/D. §, a 4/F. §, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 9/N. §, a 9/P. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.”
-
-116. § (1) Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény a 4. melléklet szerinti 4. melléklettel egészül ki.
+116. § (1)
 
 (2)
 
@@ -648,20 +493,6 @@ alapján sarkalatosnak minősül.
 ### 3. melléklet a 2025. évi LI. törvényhez
 
 ### 4. melléklet a 2025. évi LI. törvényhez
-
-„4. melléklet a 2021. évi CI. törvényhez
-
-- 1. Átadásra kerülő ingatlanok helyrajzi szám alapján
-
-|  | A | B |
-| --- | --- | --- |
-| 1 | Az ingatlan helyrajzi száma | Tulajdonjogot szerző szervezet |
-| 2 | Győr, belterület 5761/7 | ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (székhely: 9027 Győr, Nagysándor J. u 33., cégjegyzékszám: 08-09-020296, a továbbiakban: ETO Futball Sportszervező és Szolgáltató Kft.) |
-| 3 | Győr, belterület 5761/7/A | ETO Futball Sportszervező és Szolgáltató Kft. |
-| 4 | Győr, belterület 5761/7/B | ETO Futball Sportszervező és Szolgáltató Kft. |
-| 5 | Győr, belterület 5761/7/C | ETO Futball Sportszervező és Szolgáltató Kft. |
-| 6 | Budapest, belterület 74332 | ÚJPEST 1885 Futball Korlátolt Felelősségű Társaság (székhely: 1044 Budapest, Megyeri út 13., cégjegyzékszám: 01-09-999393) |
-| 7 | Budapest, belterület 26085/1123 (91788/125049 tulajdoni hányad) | VASAS Futball Club Korlátolt Felelősségű Társaság |
 
 ### 5. melléklet a 2025. évi LI. törvényhez
 
