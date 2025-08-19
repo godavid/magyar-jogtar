@@ -135,7 +135,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) Az eljárásban felfüggesztésnek, szünetelésnek, beavatkozásnak és ideiglenes intézkedés elrendelésének nincs helye.
 
-(6) Az eljárásban a Pp. 148. §-a nem alkalmazható.
+(6) Az eljárásban a Pp. határidő-túllépésre, valamint ítélkezési szünetre vonatkozó szabályai nem alkalmazhatóak.
 
 (7) Az eljárásban a Pp. jegyzőkönyvre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a jegyzőkönyvet a közjegyző maga is felveheti, és a jegyzőkönyv folyamatos felvétel útján történő készítésének nincs helye.
 
@@ -269,7 +269,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - a) a szakértői vizsgálat tárgyát és annak helyét,
 - b) azokat a kérdéseket, amelyekre vonatkozóan a szakértőnek véleményt kell nyilvánítania.
 
-(2) Az igazságügyi szakértő kirendelése iránti kérelemben ellenfelet megjelölni nem kell.
+(2) Az igazságügyi szakértő kirendelése iránti kérelemben ellenfelet megjelölni – a (3) bekezdés szerinti kivétellel – nem kell.
+
+(3) Ha az igazságügyi szakértő kirendelését a kérelmező az egyszerűsített polgári perben történő felhasználás céljából kéri, a kérelemben meg kell jelölni az ellenfél nevét, lakóhelyét (székhelyét) is.
 
 24. § A közjegyző a 7. § megfelelő alkalmazásával felhívja a kérelmezőt, hogy a szakértői díj fedezésére előreláthatólag szükséges összeget helyezze bizalmi őrzésbe. Ha a kérelmező a felhívásnak nem tesz eleget, a közjegyző a 7. § (3) bekezdése, valamint a 11. § (2) bekezdése megfelelő alkalmazásával a kérelmet visszautasítja, illetve az eljárást megszünteti.
 
@@ -277,9 +279,17 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) A kirendelésre kerülő szakértő személyéről – a fél meghallgatása nélkül – a közjegyző dönt.
 
+(2a) Ha a szakértő kirendelésére az egyszerűsített polgári perben felhasználandó szakvélemény elkészítése céljából kerül sor, a kirendelő végzésben a szakértőt tájékoztatni kell a 25/A. §-ban foglalt kötelezettségeiről.
+
 (3) A szakértői bizonyítást elrendelő és a szakértőt kirendelő végzés ellen nincs helye fellebbezésnek.
 
-26. § (1) A szakértő a szakvéleményt a szakértőt kirendelő végzés kézhezvételétől számított 30 napon belül köteles előterjeszteni. A közjegyző a szakértő – határidő lejárta előtt előterjesztett – kérelmére a határidőt egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja.
+25/A. § A szakértő az egyszerűsített polgári perben történő felhasználás céljából kért szakvélemény esetében köteles
+
+- a) az ellenfelet értesíteni a kirendelés tárgyáról, a vizsgálandó kérdések köréről, az általa kitűzött helyszíni szemléről és vizsgálatról,
+- b) lehetővé tenni, hogy az ellenfél a kirendelés tárgyára vonatkozó nyilatkozatát, a vizsgálat tárgya szempontjából lényeges észrevételeit és kérdéseit előterjessze,
+- c) a szakvéleményét az ellenfél vele közölt nyilatkozatát, észrevételeit is értékelő módon, az ellenfél kérdéseit is megválaszolva elkészíteni.
+
+26. § (1) A szakértő a szakvéleményt a szakértőt kirendelő végzés kézhezvételétől számított 30 napon belül – az egyszerűsített polgári perben történő felhasználás céljából kért szakvélemény esetében 45 napon belül – köteles előterjeszteni. A közjegyző a szakértő – határidő lejárta előtt előterjesztett – kérelmére a határidőt egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja.
 
 (2) A szakértő kirendelésének költségeit a kérelmező viseli, ideértve azt az esetet is, ha a szakértő a szakvélemény elkészítéséhez szükséges vizsgálatot nem tudta lefolytatni.
 
