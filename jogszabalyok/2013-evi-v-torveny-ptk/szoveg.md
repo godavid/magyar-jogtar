@@ -5578,7 +5578,7 @@ A gyámhatóság, kérelemre vagy a gyermek érdekében hivatalból, a szülői 
 
 (2) A gyermekétől különélő szülő - ha a bíróság vagy a gyámhatóság eltérően nem rendelkezik - jogosult és köteles gyermekével kapcsolatot tartani.
 
-(3) A szülőnek joga van gyermekével kapcsolatot tartani akkor is, ha a szülői felügyeleti joga szünetel, kivéve, ha a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat hatálya alatt áll.
+(3) A szülőnek joga van gyermekével kapcsolatot tartani akkor is, ha a szülői felügyeleti joga szünetel, kivéve, ha a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat – ide nem értve a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján az elítélttel szemben elrendelt megelőző távoltartásról szóló határozatot – hatálya alatt áll.
 
 (4) Kivételesen indokolt esetben, a gyermek érdekében azt a szülőt is fel lehet jogosítani a gyermekkel való kapcsolattartásra,
 
@@ -5654,7 +5654,7 @@ A kapcsolattartásra vonatkozó határozat végrehajtását a bíróság polgár
 - f) a szülő hathetes életkoránál fiatalabb gyermeke örökbefogadásához járult hozzá;
 - g) a gyermeket a gyámhatóság nevelésbe vette és a szülő szülői felügyeleti joga nem szűnt meg vagy azt a bíróság nem szüntette meg;
 - h) a bíróság a gyermeket harmadik személynél helyezte el; vagy
-- i) a szülő a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat hatálya alatt áll.
+- i) a szülő a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat – ide nem értve a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján az elítélttel szemben elrendelt megelőző távoltartásról szóló határozatot – hatálya alatt áll.
 
 (2) Az életközösség fennállása alatt szünetel a szülői felügyeleti joga annak a szülőnek, aki együtt él a szülői felügyelettől megfosztott másik szülővel.
 
@@ -7877,7 +7877,7 @@ A képviseleti jog kiterjed mindazon cselekmények elvégzésére és jognyilatk
 
 #### 6:20. § [Eseti gondnokság és eseti gyámság]
 
-(1) Az eljáró hatóság eseti gondnokot rendel, ha a gondnok jogszabály vagy a gyámhatóság rendelkezése folytán, érdekellentét vagy más tényleges akadály miatt nem járhat el.
+(1) A gyámhatóság eseti gondnokot rendel, ha a gondnok jogszabály vagy a gyámhatóság rendelkezése folytán, érdekellentét vagy más tényleges akadály miatt nem járhat el.
 
 (2) Eseti gondnokot kell rendelni akkor is,
 
@@ -7888,7 +7888,7 @@ A képviseleti jog kiterjed mindazon cselekmények elvégzésére és jognyilatk
 
 (4) A gondnok jogköre nem terjed ki azokra az ügyekre, amelyeknek ellátására eseti gondnokot rendeltek.
 
-(5) Az eljáró hatóság az (1) és a (2) bekezdésben meghatározott esetekben eseti gyámot rendel, ha kiskorú személy képviseletéről kell gondoskodni. Az eseti gyámra az eseti gondnokra vonatkozó szabályokat kell megfelelően alkalmazni.
+(5) A gyámhatóság az (1) és a (2) bekezdésben meghatározott esetekben eseti gyámot rendel, ha kiskorú személy képviseletéről kell gondoskodni. Az eseti gyámra az eseti gondnokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 ### IV. Fejezet — Az elévülés
 

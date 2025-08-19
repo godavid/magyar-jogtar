@@ -1718,6 +1718,14 @@ történő tudomásszerzés napjától számított tizenöt napon belül.
 
 (4) A meghosszabbítás iránti kérelemnek legkésőbb a határidő utolsó napján, órákban megállapított határidő esetén a határidő lejártát megelőzően a bíróságra meg kell érkeznie; a kérelem tárgyában a bíróság az ellenfél, illetve a felek meghallgatása nélkül határozhat.
 
+#### 147/A. § [A határidő túllépése]
+
+(1) Ha a bíróság a számára törvényben megállapított intézkedési határidőt túllépi, a határidő lejártát követő naptól kezdve naponta, a késedelem első napján érvényes, a minimálbér 1,5 százalékának megfelelő mértékű vagyoni elégtételt nyújt hivatalból a felek részére.
+
+(2) A vagyoni elégtételt az a bíróság nyújtja, amelynek eljárásában a határidőtúllépés megvalósult. Ha az eljárt bíróság nem jogi személy, a vagyoni elégtételt az a jogi személyiséggel rendelkező bíróság nyújtja, amelynek illetékességi területén az eljárt bíróság található.
+
+(3) A bíróság a vagyoni elégtétel nyújtására vonatkozó kötelezettségről – a vagyoni elégtételre jogosultak nevének, lakóhelyének (székhelyének), valamint a vagyoni elégtétel összegének megjelölésével – a határidőtúllépéssel érintett intézkedés megtételétől számított nyolc napon belül értesíti a vagyoni elégtételt nyújtó bíróság gazdasági hivatalát. A gazdasági hivatal az értesítés kézhezvételétől számított 30 napon belül intézkedik a kifizetés iránt.
+
 #### 148. § [Ítélkezési szünet]
 
 (1) Az órákban, napokban és munkanapokban megállapított határidőbe nem számít bele minden évnek a július 15-től augusztus 20-ig, valamint december 24-től január 1-ig terjedő időszaka (a továbbiakban: ítélkezési szünet). Az ítélkezési szünet időszakára tárgyalást kitűzni nem lehet.
@@ -1809,8 +1817,9 @@ Ha a fél nyilatkozatának beszerzése szükséges és az a tárgyalásig nem ha
 - a) törvény a bíróság részére az eljárás lefolytatására, eljárási cselekmény elvégzésére vagy valamely határozat meghozatalára határidőt állapított meg, azonban az eredménytelenül telt el,
 - b) a bíróság eljárási cselekmény elvégzésére határidőt tűzött, amely eredménytelenül telt el, és a bíróság a mulasztóval szemben nem alkalmazta e törvény által lehetővé tett intézkedéseket,
 - c) a bíróság az adott eljárási cselekményt az annak elvégzésére elegendő észszerű időtartamon belül nem végezte el vagy annak elvégzéséről nem rendelkezett.
+- d) a bíróság a határidőtúllépés miatti vagyoni elégtétel megfizetése iránt határidőben nem intézkedett.
 
-(2) A kifogást az ügyben eljáró bíróságnál írásban lehet benyújtani, a kifogás elbírálására hatáskörrel rendelkező bírósághoz címezve, kérve a kifogás elbírálására hatáskörrel rendelkező bíróságtól a mulasztás tényének megállapítását, valamint – megfelelő határidő tűzésével – a mulasztó bíróságnak az (1) bekezdés a) és c) pontjában foglalt esetben az elmulasztott eljárási cselekmény elvégzésére vagy határozat meghozatalára, az (1) bekezdés b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására történő utasítását.
+(2) A kifogást az ügyben eljáró bíróságnál írásban lehet benyújtani, a kifogás elbírálására hatáskörrel rendelkező bírósághoz címezve, kérve a kifogás elbírálására hatáskörrel rendelkező bíróságtól a mulasztás tényének megállapítását, valamint – megfelelő határidő tűzésével – a mulasztó bíróságnak az (1) bekezdés a), c) és d) pontjában foglalt esetben az elmulasztott eljárási cselekmény, intézkedés elvégzésére vagy határozat meghozatalára, az (1) bekezdés b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására történő utasítását.
 
 (3) A kifogást annak benyújtója mindaddig visszavonhatja, amíg a bíróság azt érdemben el nem bírálta. A visszavont kifogást újból előterjeszteni nem lehet.
 
@@ -1822,7 +1831,7 @@ Ha a fél nyilatkozatának beszerzése szükséges és az a tárgyalásig nem ha
 
 (3) A járásbíróság mulasztásával szemben benyújtott kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla három hivatásos bíróból álló tanácsa, az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria öt hivatásos bíróból álló tanácsa, a Kúria mulasztásával szemben benyújtott kifogást a Kúria másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tárgyaláson kívül bírálja el.
 
-(4) Ha a kifogást elbíráló bíróság a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot határidő tűzésével a 157. § (1) bekezdés a) és c) pontjában foglalt esetekben az ügy továbbviteléhez szükséges intézkedés megtételére, a 157. § (1) bekezdés b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására hívja fel. A felhívásban – a 157. § (1) bekezdés a) pontjában foglalt esetet kivéve – a kifogást elbíráló bíróság az eljáró bíróságot meghatározott eljárási cselekmény lefolytatására nem utasíthatja. A kifogás alaptalansága esetén azt indokolt határozattal elutasítja.
+(4) Ha a kifogást elbíráló bíróság a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot határidő tűzésével a 157. § (1) bekezdés a) és c) pontjában foglalt esetekben az ügy továbbviteléhez szükséges intézkedés megtételére, a 157. § (1) bekezdés d) pontjában foglalt esetben az intézkedés megtételére, a 157. § (1) bekezdés b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására hívja fel. A felhívásban – a 157. § (1) bekezdés a) és d) pontjában foglalt esetet kivéve – a kifogást elbíráló bíróság az eljáró bíróságot meghatározott eljárási cselekmény lefolytatására nem utasíthatja. A kifogás alaptalansága esetén azt indokolt határozattal elutasítja.
 
 (5) Ha a kifogás előterjesztője ugyanabban a perben ismételten alaptalan kifogást nyújt be, őt a kifogást elbíráló bíróság az elutasító határozatában pénzbírsággal sújthatja.
 
@@ -1885,7 +1894,7 @@ Ha a fél nyilatkozatának beszerzése szükséges és az a tárgyalásig nem ha
 - e) a bíróság által az eljárási cselekmény folyamán hozott végzéseket.
 - f) a 159. § (5a) bekezdése szerinti összefoglalás kezdő időpontját és tartalmát.
 
-(6) Ha a bíróság a perfelvételt lezáró végzés meghozatalát követően az érdemi tárgyalást nyomban megtartja, az érdemi tárgyalásra történő áttérés időpontját a jegyzőkönyvben rögzíteni kell. Áttérés esetén a jegyzőkönyv írásbeli kivonatát elkészíteni nem kell, elegendő, ha annak tartalma a perfelvételről készült írásbeli jegyzőkönyvben rögzítésre kerül.
+(6) Ha az elsőfokú bíróság az ítélete kihirdetésekor felhívja a jelen lévő feleket, hogy nyilatkozzanak, kérnek-e részletes indokolást tartalmazó ítéletet, a bíróság ennek megtörténtét, valamint a nyilatkozatok tartalmát a jegyzőkönyvben – folyamatos felvétel készítése esetén a jegyzőkönyv írásbeli kivonatában is – feltünteti.
 
 #### 161. § [A jegyzőkönyv elkészítése, kiegészítése, kijavítása]
 
@@ -4056,8 +4065,9 @@ tartalmazza.
 
 - a) az ítélet jogról való lemondáson vagy a jog és a kérelem elismerésén alapul,
 - b) az ügy ténybeli és jogi megítélése egyszerű,
-- c) a fellebbezésre jogosultak e jogukról a határozat kihirdetését követően valamennyien lemondtak, vagy
-- d) ahhoz valamennyi fél hozzájárult.
+- c) a fellebbezésre jogosultak e jogukról a határozat kihirdetését követően valamennyien lemondtak,
+- d) – fellebbezéssel támadható ítélet esetén – annak kihirdetésekor egyik fél sincs jelen, vagy
+- e) – fellebbezéssel támadható ítélet esetén – annak kihirdetésekor, bírói felhívás ellenére, a jelenlévő felek egyike sem kér részletes indokolást tartalmazó ítéletet.
 
 (2) A rövidített indokolás kizárólag
 
@@ -4067,6 +4077,8 @@ tartalmazza.
 - d) a rövidített indokolás törvényi feltételére történő utalást
 
 tartalmazza.
+
+(3) Az (1) bekezdés d) és e) pontja szerinti esetekben az ítélet perorvoslati része a fellebbezési szándék előzetes bejelentésével és a fellebbezés előterjesztésével kapcsolatos különös eljárási szabályokra vonatkozó tájékoztatást is tartalmaz.
 
 #### 347/A. § [Az ingatlanon fennálló közös tulajdon megszüntetése tárgyában hozott ítélet biztosítékadás mellett]
 
@@ -4131,9 +4143,11 @@ tartalmazza.
 - d) a tárgyaláson kívül hozott végzést az érdekelt féllel és
 - e) az eljárás során hozott minden határozatot azzal a személlyel, akinek érdekében az ügyész, valamint a perindításra feljogosított személy az eljárást megindította.
 
-(3) A bíróság a határozatot – kivéve, ha az ítélet meghozatalát és kihirdetését elhalasztotta – annak meghozatalától számított legkésőbb harminc napon belül írásba foglalja és az írásba foglalást követő három napon belül elrendeli annak kézbesítését.
+(3) A bíróság a határozatot – a (4) és (4a) bekezdésben foglalt kivétellel – annak meghozatalától számított legkésőbb harminc napon belül írásba foglalja és az írásba foglalást követő három napon belül elrendeli annak kézbesítését.
 
 (4) Ha a bíróság az ítélet meghozatalát és kihirdetését elhalasztotta, az írásba foglalt ítéletet a kihirdetéskor jelen lévő feleknek nyomban kézbesíti, a meg nem jelent felek részére pedig három napon belül elrendeli a kézbesítését.
+
+(4a) A bíróság a rövidített indokolást tartalmazó ítéletet annak meghozatalától számított legkésőbb tizenöt napon belül írásba foglalja és az írásba foglalást követő három napon belül elrendeli annak kézbesítését.
 
 (5) A felek részére a határozatnak nemcsak a rendelkező részét, hanem indokolását is kézbesíteni kell, kivéve, ha a határozatot e törvény szerint nem kell megindokolni.
 
@@ -4213,7 +4227,9 @@ A másodfokú bíróság az elsőfokú bíróság határozatát a fellebbezést 
 
 (2) Az a határozat, amely ellen nincs helye fellebbezésnek, a kihirdetésével emelkedik jogerőre; azok a határidők azonban, amelyeket a határozat jogerőre emelkedésétől kell számítani, a határozatnak a féllel történt közlésétől kezdődnek.
 
-(3) A fellebbezéssel megtámadható határozat a fellebbezési határidő leteltét követő naptól kezdve jogerős, ha az arra jogosultak egyike sem nyújtott be fellebbezést, vagy a benyújtott valamennyi fellebbezést a bíróság jogerősen visszautasította.
+(3) A fellebbezéssel megtámadható határozat – a (3a) bekezdés szerinti kivétellel – a fellebbezési határidő leteltét követő naptól kezdve jogerős, ha az arra jogosultak egyike sem nyújtott be fellebbezést, vagy a benyújtott valamennyi fellebbezést a bíróság jogerősen visszautasította.
+
+(3a) A 347. § (1) bekezdés d) és e) pontja szerinti rövidített indokolást tartalmazó ítélet a fellebbezési szándék bejelentésére nyitva álló határidő leteltét követő naptól kezdve jogerős, ha az arra jogosultak egyike sem jelentette be fellebbezési szándékát vagy valamennyi bejelentett fellebbezést a bíróság jogerősen visszautasította.
 
 (4) A fellebbezésre jogosult a fellebbezési jogáról a határozat kihirdetését, kihirdetés hiányában annak közlését követően lemondhat. A lemondó nyilatkozat nem vonható vissza. A lemondás csak akkor hatályos, ha azt valamennyi fellebbezésre jogosult bejelenti. Ha valamennyi arra jogosult a fellebbezési jogáról a határozat kihirdetését követően lemond, a határozat a bejelentés napján, egyébként az utolsó bejelentésnek a bírósághoz érkezését követő naptól kezdve jogerős.
 
@@ -4294,6 +4310,10 @@ E fejezet eltérő rendelkezése hiányában a másodfokú eljárásban az első
 
 (6) A fellebbezés határideje a határozat közlésétől számított tizenöt nap.
 
+(6a) A 347. § (1) bekezdés d) és e) pontja szerinti rövidített indokolást tartalmazó ítélet esetében a fellebbezőnek fellebbezési szándékát az elsőfokú bíróságnál az ítélet kézbesítésétől számított öt munkanapon belül írásban be kell jelentenie és ezzel egyidejűleg igazolnia kell a fellebbezési szándékbejelentés illetékének megfizetését, vagy – ha arra korábban nem került sor – költségkedvezmény iránti kérelmet, illetve költségkedvezményre történő hivatkozást kell előterjesztenie. E határidő elmulasztása miatt igazolásnak helye nincs.
+
+(6b) Ha a szándékbejelentésre előírt határidő valamennyi féllel szemben lejárt, és legalább egy fellebbezni szándékozó fél a bejelentését hiánytalanul megtette, az elsőfokú bíróság az ítéletét tizenöt napon belül részletes indokolással látja el, és az írásba foglalást követő három napon belül elrendeli annak kézbesítését. A bíróság a fellebbezési szándékot hiánytalanul bejelentő fél részére azzal a felhívással rendeli el a részletes indokolással ellátott ítélet kézbesítését, hogy a határozat közlésétől számított tizenöt napon belül a 371. §-nak megfelelő tartalmú fellebbezést terjesszen elő és – ha szükséges – felhívja, hogy a fellebbezési szándékbejelentés illetékét a fellebbezési eljárás illetékére egészítse ki. E fellebbezés vonatkozásában – eltérő rendelkezés hiányában – a bíróság e törvény fellebbezésre vonatkozó általános szabályainak alkalmazásával jár el.
+
 (7) A fellebbezésnek a határozat végrehajtására halasztó hatálya van, kivéve, ha törvény vagy törvény alapján a bíróság másként rendelkezik.
 
 #### 366. § [Az elsőfokú bíróság fellebbezéssel kapcsolatos intézkedései]
@@ -4301,6 +4321,14 @@ E fejezet eltérő rendelkezése hiányában a másodfokú eljárásban az első
 (1) Ha a fellebbezés elkésett, vagy olyan határozat ellen irányul, amely ellen a fellebbező nem élhet fellebbezéssel, az elsőfokú bíróság a fellebbezést visszautasítja; e végzés ellen külön fellebbezésnek van helye.
 
 (2) Ha a fellebbezés hiányos, az elsőfokú bíróság rövid határidő tűzésével a felet hiánypótlásra hívja fel; a határidő meghosszabbításának nincs helye. Ha a fél a fellebbezés hiányait a kitűzött határidő alatt nem pótolja, azt a bíróság visszautasítja; e végzés ellen külön fellebbezésnek van helye. A fellebbezés érdemi vizsgálatra való alkalmassága szempontjából nem vizsgálható a fellebbezésben előadott azon kérelem, állítás, illetve érvelés, amelynek értékelése az ügy érdemére tartozik.
+
+(2a) Az elsőfokú bíróság a 347. § (1) bekezdés d) és e) pontja szerinti rövidített indokolást tartalmazó ítélettel szembeni fellebbezési szándékbejelentést visszautasítja, ha
+
+- a) a fellebbezési szándék bejelentése elkésett;
+- b) a fellebbezési szándék bejelentésére nyitva álló határidőben a fellebbező nem igazolta a fellebbezési szándékbejelentés illetékének megfizetését és – ha arra korábban nem került sor – költségkedvezmény iránti kérelmet, illetve költségkedvezményre történő hivatkozást sem terjesztett elő; vagy
+- c) a fellebbezési szándék bejelentését követően a bíróság felhívása ellenére – az arra nyitva álló határidőben – fellebbezést nem terjesztett elő.
+
+E végzések ellen külön fellebbezésnek van helye.
 
 (3) Ha a fellebbezési határidő valamennyi jogosulttal szemben lejárt, illetve ha a fellebbezést valamennyi jogosult hiánytalanul benyújtotta, az elsőfokú bíróság a fellebbezést – a (4) bekezdésben meghatározott esetet kivéve – a per összes irataival együtt nyolc napon belül felterjeszti a másodfokú bírósághoz. Ha a fellebbezés a határozatnak az előzetesen végrehajthatóvá nyilvánítása ellen is irányul, a fellebbezést haladéktalanul fel kell terjeszteni.
 
@@ -4771,11 +4799,11 @@ miatt indokolt.
 
 #### 416. § [Döntés a határozat végrehajthatóságáról]
 
-A felülvizsgálati kérelem benyújtásának a határozat végrehajtására nincs halasztó hatálya, de a határozat végrehajthatóságát a Kúria kérelemre kivételesen felfüggesztheti. A végrehajthatóság felfüggesztéséről szóló végzés meghozatala során a bíróságnak különösen arra kell figyelemmel lennie, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajthatóság felfüggesztésének elmaradása járna.
+A felülvizsgálati kérelem benyújtásának a határozat végrehajtására nincs halasztó hatálya, de a határozat végrehajthatóságát a Kúria kérelemre kivételesen felfüggesztheti. A végrehajthatóság felfüggesztéséről szóló végzés meghozatala során a Kúriának különösen arra kell figyelemmel lennie, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajthatóság felfüggesztésének elmaradása járna.
 
 #### 417. § [Az eljárás felfüggesztése]
 
-(1) Ha a felülvizsgálati kérelem elbírálása során az eljáró tanács jogegységi eljárást kezdeményez, a felülvizsgálati eljárást a jogegységi eljárás befejezéséig a Kúria felfüggeszti.
+(1) Ha a felülvizsgálati kérelem elbírálása során az eljáró tanács előzetes döntéshozatali indítvány előterjesztésével jogegységi eljárást kezdeményez, a felülvizsgálati eljárást a jogegységi eljárás befejezéséig a Kúria felfüggeszti.
 
 (2) Közbenső ítélet elleni felülvizsgálati kérelem esetén – ha annak sikere valószínűnek mutatkozik – a Kúria az eljárás folytatását hivatalból is felfüggesztheti. A bíróság a felfüggesztés tárgyában hozott határozatát utóbb megváltoztathatja.
 
@@ -6307,6 +6335,113 @@ A társult perlési szerződésbe alperes és beavatkozó nem tekinthet be, tov�
 
 (3) Egy társult perben hozott ítélet anyagi jogerőhatással nem rendelkezik sem egy másik, azonos tárgyú társult perre, sem az azonos tárgyú, a társult felperesektől különböző személyek által indított, de azonos tárgyú egyedi perekre, sem az azonos tárgyú közérdekű perre nézve.
 
+## NYOLCADIK/A RÉSZ — EGYSZERŰSÍTETT POLGÁRI PER
+
+#### 591/A. § [Az általános szabályok alkalmazása]
+
+Az egyszerűsített polgári perben e törvény rendelkezéseit az e részben foglalt eltérésekkel kell alkalmazni.
+
+#### 591/B. § [Az egyszerűsített polgári per szabályainak alkalmazása]
+
+(1) Az egyszerűsített polgári per szabályai alkalmazásának – a (2) bekezdésben foglalt kivétellel – a felek közös megegyezésén alapuló, írásba foglalt szerződéses kikötése alapján van helye.
+
+(2) Az egyszerűsített polgári perre vonatkozó kikötésnek nincs helye
+
+- a) személyi állapotot,
+- b) az 508. § (1) bekezdése szerinti jogviszonyt, valamint
+- c) fogyasztói jogviszonyt
+
+érintő jogvitában.
+
+#### 591/C. § [Az egyszerűsített polgári perre vonatkozó általános rendelkezések]
+
+(1) Az egyszerűsített polgári perben a jogi képviselet kötelező.
+
+(2) Az egyszerűsített per nem különül el perfelvételi és érdemi tárgyalási szakra.
+
+(3) Az egyszerűsített polgári perben előterjesztett kereset nem kapcsolható össze más keresettel.
+
+(4) Az egyszerűsített polgári perben nincs helye
+
+- a) keresetváltoztatásnak,
+- b) ellenkérelem-változatásnak,
+- c) beavatkozásnak,
+- d) viszontkereset előterjesztésének,
+- e) beszámításnak,
+- f) szünetelésnek,
+- g) tárgyalás és meghallgatás tartásának,
+- h) csatlakozó fellebbezésnek, és
+- i) felülvizsgálatnak.
+
+(5) A Pp. 121. § (1) bekezdés c)–f) pontjában meghatározott ok bekövetkezése esetén a pert az általános szabályok szerint kell folytatni.
+
+(6) A bíróság az egyszerűsített polgári perben soron kívül jár el, a bíróság általános intézkedési kötelezettségének határideje legfeljebb nyolc nap.
+
+#### 591/D. § [Bizonyítás]
+
+(1) Az egyszerűsített polgári perben kizárólag okirati és szakértői bizonyításnak van helye.
+
+(2) Az egyszerűsített polgári perben
+
+- a) az igazságügyi szakértőkről szóló törvény szerinti, megbízás alapján eljáró,
+- b) közjegyzői nemperes eljárásban kirendelt, vagy
+- c) polgári nemperes eljárásban kirendelt
+
+szakértő – szakvéleménye használható fel.
+
+(3) A szakértő az egyszerűsített polgári perben történő felhasználás céljából kért szakvélemény esetében köteles
+
+- a) az ellenfelet értesíteni a kirendelés tárgyáról, a vizsgálandó kérdések köréről, az általa kitűzött helyszíni szemléről és vizsgálatról,
+- b) lehetővé tenni, hogy az ellenfél a kirendelés tárgyára vonatkozó nyilatkozatát, a vizsgálat tárgya szempontjából lényeges észrevételeit és kérdéseit előterjessze,
+- c) a szakvéleményét az ellenfél vele közölt nyilatkozatát, észrevételeit is értékelő módon, az ellenfél kérdéseit is megválaszolva elkészíteni.
+
+(4) Aggályos a szakvélemény akkor is, ha a szakértő a (3) bekezdésben foglalt kötelezettségeit nem teljesítette.
+
+(5) A szakvélemény kiegészítésének, új szakértő, más szakértő alkalmazásának a perben nincs helye.
+
+#### 591/E. § [Keresetlevél és keresetet tartalmazó irat]
+
+(1) A keresetlevélnek a 170. §-ban meghatározottakon túl tartalmaznia kell az egyszerűsített polgári perre vonatkozó kikötést tartalmazó szerződésre történő utalást.
+
+(2) A keresetlevélhez a 171. §-ban meghatározottakon túl csatolni kell az egyszerűsített polgári perre vonatkozó kikötést tartalmazó szerződést, valamint az okirati bizonyítékok mellett – amennyiben a perben szakértői bizonyítás szükséges – az e rész szerint előírásoknak megfelelő szakértői véleményt.
+
+(3) A keresetet tartalmazó iratnak a 257. § (1) bekezdésében meghatározottakon túl tartalmaznia kell az egyszerűsített polgári perre vonatkozó kikötést tartalmazó szerződésre történő utalást, továbbá a keresetet tartalmazó irathoz csatolni kell az egyszerűsített polgári perre vonatkozó kikötést tartalmazó szerződést, valamint az okirati bizonyítékok mellett – amennyiben a perben szakértői bizonyítás szükséges – az e rész szerint előírásoknak megfelelő szakértői véleményt.
+
+#### 591/F. § [Ellenkérelem, további írásbeli nyilatkozat, áttérés az általános szabályokra, egyezség]
+
+(1) Az írásbeli ellenkérelem előterjesztésére nyitva álló határidő a keresetlevél kézbesítésétől számított tizenöt nap, amelynek határideje nem hosszabbítható meg.
+
+(2) A bíróság az ellenkérelem előterjesztését követően – a felperesnek az ellenkérelmet is megküldve – rövid határidővel felhívja a feleket, hogy írásban nyilatkozzanak
+
+- a) kérik-e a per általános szabályok szerinti folytatását, vagy
+- b) esetleges megegyezési szándékukról és azzal egyidejűleg nyújtsák be egyezségi megállapodásukat.
+
+(3) Ha a felek közösen kérik a per általános szabályok szerinti folytatását, a bíróság perfelvételi tárgyalást tűz ki, és a továbbiakban az általános szabályok szerint folytatja az eljárást.
+
+(4) Ha a felek benyújtják egyezségi megállapodásukat a bírósághoz, a perbeli egyezséget a bíróság – ha az egyezség jóváhagyásának feltételei fennállnak – az írásbeli eljárás keretében végzésével jóváhagyja.
+
+(5) A bíróság – szükség esetén – az írásbeli ellenkérelem előterjesztését követően, kizárólag a korábban megtett állítások, tagadások, vitatások, csatolt okiratok vonatkozásában, legfeljebb egy alkalommal, rövid határidővel írásbeli nyilatkozattételre hívhatja fel bármelyik felet.
+
+#### 591/G. § [Ítélet]
+
+A bíróság az 591/F. § (2) bekezdés szerinti felhívás kiadásától számított harminc napon belül ítéletet hoz.
+
+#### 591/H. § [Fellebbezés, másodfokú eljárás]
+
+(1) Az egyszerűsített polgári perben a fellebbezési határidő nyolc nap.
+
+(2) Végzés elleni fellebbezés esetén a fellebbező fél ellenfele az észrevételét öt nap alatt teheti meg. A végzés elleni fellebbezést a másodfokú bíróság tizenöt napon belül bírálja el.
+
+(3) Az ítélet elleni fellebbezésnek az elsőfokú eljárás szabályainak lényeges megsértésére vagy az ügy érdemi elbírálásának alapjául szolgáló jogszabály téves alkalmazására hivatkozással van helye.
+
+(4) A (3) bekezdés alkalmazásában lényeges eljárási szabálysértésnek az olyan jogszabálysértés minősül, amelynek az ügy érdemi elbírálására kihatása volt.
+
+(5) Az ítélet elleni fellebbezést az elsőfokú bíróság az iratok felterjesztését megelőzően azzal a figyelmeztetéssel kézbesíti a fellebbező fél ellenfelének, hogy a fellebbezés átvételétől számított nyolc napon belül az elsőfokú bíróságnál fellebbezési ellenkérelmet terjeszthet elő.
+
+(6) Az ítélet elleni fellebbezés esetén az elsőfokú bíróság legkésőbb a fellebbezési ellenkérelem előterjesztésére nyitva álló határidő letelte után az iratokat felterjeszti a másodfokú bírósághoz.
+
+(7) A másodfokú bíróság az ítélet elleni fellebbezést harminc napon belül bírálja el.
+
 ## KILENCEDIK RÉSZ — NEMZETKÖZI POLGÁRI ELJÁRÁSJOGI SZABÁLYOK
 
 ### XLIV. Fejezet — KÜLFÖLDI ELEM ESETÉN ALKALMAZANDÓ ÁLTALÁNOS RENDELKEZÉSEK
@@ -6454,7 +6589,7 @@ A jogi képviselő nélkül eljáró jogutód félre nem vonatkozik az, hogy a j
 
 (1) A Dáptv. alapján elektronikus úton történő kapcsolattartásra kötelezett minden beadványt kizárólag elektronikusan – a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon – nyújthat be a bírósághoz, és a bíróság is elektronikusan kézbesít a részére, kivéve a tárgyaláson csatolt vagy kézbesíthető iratot, illetve határozatot.
 
-(2) E fejezet alkalmazása szempontjából jogi képviselőnek kell tekinteni a 75. § (1) bekezdésében meghatározott személyeket, valamint az ügyvédjelöltet és a jogi előadót, ha e törvény szerint a perben eljárhat.
+(2) E fejezet alkalmazása szempontjából jogi képviselőnek kell tekinteni – a 75. § (2) bekezdés a) pontja alapján eljáró személy kivételével – a 75. § (1) bekezdésében meghatározott személyeket, valamint az ügyvédjelöltet és a jogi előadót, ha e törvény szerint a perben eljárhat.
 
 #### 157. Elektronikus kapcsolattartás a szakértővel, a bírósággal, a közigazgatási szervvel és más hatósággal
 
@@ -6734,6 +6869,8 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 (15) A 2024. augusztus 31-én hatályos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás használatával 2024. december 31-ig hitelesített elektronikus okirat teljes bizonyító erejű magánokiratnak minősül, és a 325. § (3a) bekezdése szerint tanúsítja az aláíró szerepkörét, ha a szerepkört az azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás igazolása tartalmazza.
 
 (17) Ha e törvénynek a 2024. december 31. napján hatályos szabályai szerint a bíróság a folyamatban levő ügyben papíralapon tartotta a kapcsolatot a szakértővel, és a szakértő az igazságügyi szakértőkről szóló törvény alapján 2025. január 1. napját követően hatályos szabályai szerint köteles elektronikus úton kapcsolatot tartani, akkor a bíróság a szakértővel a folyamatban levő ügyben továbbra is papíralapon tartja a kapcsolatot, kivéve ha a szakértő a folyamatban levő ügyben 2025. január 1. napját követően szakvéleményét vagy egyéb beadványát elektronikus úton teszi meg a bírósághoz.
+
+(18) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel (a továbbiakban: Módtv.) megállapított, a határidő-túllépésre vonatkozó rendelkezéseit a Módtv. 142. §-ának hatálybalépését követő – kizárólag peres eljárásban megvalósuló – határidő-túllépés esetén kell alkalmazni.
 
 #### 631. § [Európai uniós követelményekre utaló rendelkezés]
 

@@ -866,6 +866,14 @@ védőt rendel ki.
 
 (6) Ha a (2) bekezdés b) pontja szerinti határozat meghozatalát követően az (5) bekezdés szerinti kizáró ok merül fel vagy a sértett az indítványt visszavonta, akkor a bíróság, az ügyészség vagy a nyomozó hatóság határozatában megállapítja a kizáró ok fennállását vagy azt, hogy a sértett az indítványt visszavonta, egyben tájékoztatja a terheltet arról, hogy a továbbiakban a sértettel való kapcsolatteremtésre a (4) bekezdés nem irányadó.
 
+51/B. § (1) A személy elleni erőszakos bűncselekmény sértettje indítványozhatja, hogy a bíróság a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény (a továbbiakban: Hketv.) III/A. Fejezete alapján a terhelt tőle való megelőző távoltartását rendelje el.
+
+(2) A sértett az (1) bekezdés szerinti indítványát a nyomozás során, valamint az ügydöntő határozat meghozatalát megelőzően bármikor előterjesztheti. A sértett az indítványát bármikor visszavonhatja.
+
+(3) A bíróság a Hketv. alapján a terhelttel szemben elrendelhető megelőző távoltartásról az ügydöntő határozatában rendelkezik.
+
+(4) A sértett úgy is nyilatkozhat, hogy attól a személytől kéri az (1) bekezdés szerinti megelőző távoltartást, akinek a büntetőjogi felelősségét a bíróság jogerős ügydöntő határozatában a vele szemben elkövetett bűncselekmény elkövetőjeként megállapítja.
+
 ### Sértetti jogutódlás
 
 52. § (1) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azután meghal, helyébe hozzátartozója, törvényes képviselője vagy a sértett által jogszabály, illetve szerződés alapján eltartott személy léphet, és
@@ -6179,7 +6187,7 @@ is kötheti.
 
 (3) Az ügyészség a (2) bekezdésben meghatározottak közül több, illetve azokon kívül más magatartási szabályt is megállapíthat vagy más kötelezettséget is előírhat.
 
-(4) Az ügyészség a feltételes ügyészi felfüggesztéssel egyidejűleg elrendelheti a gyanúsított pártfogó felügyeletét.
+(4) Az ügyészség a feltételes ügyészi felfüggesztéssel egyidejűleg elrendelheti a gyanúsított pártfogó felügyeletét. Az ügyészség a (2) bekezdés e) pontja szerinti kötelezettség előírása esetén elrendeli a gyanúsított pártfogó felügyeletét.
 
 (5) Ha a bűncselekmény összegszerűen megállapítható kárt, vagyoni hátrányt, adóbevétel-csökkenést vagy vámbevétel-csökkenést okozott, vagy elkövetési értéke összegszerűen megállapítható, és az az eljárás során nem térült meg, feltételes ügyészi felfüggesztés esetén az ügyészség annak a megtérítésére vagy az eredeti állapot helyreállítására kötelezi a gyanúsítottat, feltéve, hogy erre a gyanúsított képes és ehhez a sértett hozzájárul. Az ügyészség a (2) bekezdés e) pontja szerinti kötelezettség teljesítését is elrendelheti.
 
@@ -7851,6 +7859,12 @@ ellen.
 
 (4) A polgári jogi igény érvényesítését egyéb törvényes útra kell utasítani akkor is, ha az (1) bekezdésben meghatározott okok a polgári jogi igénynek csak valamely részét érintik.
 
+### LXXIX/A. Fejezet — A HKETV. ALAPJÁN A TERHELTTEL SZEMBEN ELRENDELHETŐ MEGELŐZŐ TÁVOLTARTÁS ELINTÉZÉSE
+
+560/A. § (1) A sértett 51/B. § (1) bekezdése szerinti indítványát a bíróság a tárgyalás során közli a terhelttel.
+
+(2) A bíróság a Hketv. III/A Fejezete alapján a terhelttel szemben elrendelhető megelőző távoltartás kérdésében, így különösen a Hketv. 17/D. § (5) bekezdése szerinti korlátozások, illetve magatartási szabályok megállapítása érdekében, a sértettet meghallgathatja.
+
 ### LXXX. Fejezet — AZ ELSŐFOKÚ BÍRÓSÁG ÜGYDÖNTŐ HATÁROZATAI
 
 ### Az ügydöntő határozat tartalma
@@ -7888,7 +7902,7 @@ ellen.
 - a) az (1) bekezdés alapján is írásba foglalható az olyan vádlott tekintetében, akivel szemben az ügydöntő határozat elsőfokon jogerőre emelkedett,
 - b) a (4) bekezdés alapján is írásba foglalható az olyan vádlott tekintetében, akire nézve a bíróság elfogadta a bűnösséget beismerő nyilatkozatot.
 
-(6) Ha a fellebbezés kizárólag az ítéletnek az egyszerűsített felülvizsgálati eljárás tárgyát képező kérdésre, továbbá a polgári jogi igényre vagy a szülői felügyeleti jog megszüntetésére vonatkozó rendelkezése ellen irányul, az ítélet indokolása az 561. § (3) bekezdés a)–c) és e) pontjában és bűnösséget megállapító ítélet esetén az 564. § (4) bekezdés b) pontjában meghatározottakból, valamint a fellebbezéssel megtámadott rendelkezés indokaiból és az alkalmazott jogszabályok megjelöléséből is állhat.
+(6) Ha a fellebbezés kizárólag az ítéletnek az egyszerűsített felülvizsgálati eljárás tárgyát képező kérdésre, továbbá a polgári jogi igényre, a szülői felügyeleti jog megszüntetésére vagy a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető távoltartásra vonatkozó rendelkezése ellen irányul, az ítélet indokolása az 561. § (3) bekezdés a)–c) és e) pontjában és bűnösséget megállapító ítélet esetén az 564. § (4) bekezdés b) pontjában meghatározottakból, valamint a fellebbezéssel megtámadott rendelkezés indokaiból és az alkalmazott jogszabályok megjelöléséből is állhat.
 
 ### Az ítélet
 
@@ -8002,6 +8016,10 @@ ellen.
 
 (3) A bíróság a szülői felügyeleti jog megszüntetése iránti igény érvényesítését egyéb törvényes útra utasítja, ha az indítvány elbírálása a büntetőeljárás befejezését jelentősen késleltetné, vagy az indítványnak a büntetőeljárásban való érdemi elbírálását más körülmény kizárja.
 
+### Rendelkezés a Hketv. alapján a terhelttel szemben elrendelhető megelőző távoltartásról
+
+572/A. § A bíróság a Hketv. rendelkezései alapján a sértett indítványára a Hketv. III/A. Fejezete szerinti, a terhelttel szemben elrendelhető megelőző távoltartást rendel el, és a Hketv. 17/D. § (5) bekezdése szerinti magatartási szabályokat állapíthat meg, ha a terheltet a sértett sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt végrehajtandó szabadságvesztésre ítéli.
+
 ### A szabálysértés elbírálása
 
 573. § (1) Ha a bíróság a tárgyalás eredményéhez képest úgy látja, hogy a vád tárgyává tett cselekmény szabálysértés, és ezért a vádlottat felmenti, a szabálysértést elbírálja.
@@ -8095,6 +8113,7 @@ miatt.
 - e) a vádlott házastársa vagy élettársa a kényszergyógykezelés elrendelése ellen,
 - f) a magánfél a polgári jogi igényt érdemben elbíráló rendelkezés ellen,
 - g) a vagyoni érdekelt a rá vonatkozó rendelkezés ellen.
+- h) a sértett a vádlottal szemben, a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető megelőző távoltartásra irányuló indítvány elutasítása ellen.
 
 ### A fellebbezés bejelentése
 
@@ -8117,7 +8136,7 @@ miatt.
 (3) Fellebbezésnek van helye kizárólag
 
 - a) az előzetes mentesítésre vonatkozó rendelkezést is ideértve a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó rendelkezés,
-- b) az ítéletnek az egyszerűsített felülvizsgálati eljárás tárgyát képező rendelkezése, a szülői felügyeleti jog megszüntetése iránti indítványt, illetve a polgári jogi igényt érdemben elbíráló rendelkezése, vagy
+- b) az ítéletnek az egyszerűsített felülvizsgálati eljárás tárgyát képező rendelkezése, a szülői felügyeleti jog megszüntetése iránti indítványt, valamint a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető megelőző távoltartásra irányuló indítványt elbíráló, illetve a polgári jogi igényt érdemben elbíráló rendelkezése, vagy
 - c) a felmentő ítélet indokolásának 566. § (4) bekezdése, valamint a megszüntető határozat indokolásának 567. § (5) bekezdése szerinti tartalma
 
 ellen is.
@@ -8205,7 +8224,7 @@ a későbbiekben nem terjesztheti ki.
 - a) a bűnösség megállapítására, illetve a bűncselekmény minősítésére vonatkozó rendelkezést megváltoztatja, vagy
 - b) a kiszabott büntetés vagy alkalmazott intézkedés törvénysértő.
 
-(7) A másodfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra és a polgári jogi igényre vonatkozó rendelkezésekről is.
+(7) A másodfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra, a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető megelőző távoltartásra és a polgári jogi igényre vonatkozó rendelkezésekről is.
 
 (8) Nem bírálható felül az ítéletnek az a felmentő vagy eljárást megszüntető rendelkezése, amely ellen nem fellebbeztek.
 
@@ -8565,7 +8584,7 @@ eredményezi.
 
 arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
 
-(2) A harmadfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra és a polgári jogi igényre vonatkozó rendelkezésekről is.
+(2) A harmadfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra, a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető megelőző távoltartásra és a polgári jogi igényre vonatkozó rendelkezésekről is.
 
 (3) A harmadfokú bíróság az ítélet fellebbezéssel nem érintett része tekintetében is felülbírálja
 
@@ -11505,11 +11524,13 @@ rendelhető el.
 
 826. § A bíróság az elítéltet a bűnügyi költség viselésére kötelezi, ha megállapítja, hogy az indítványban megjelölt vagyon a jogerős ügydöntő határozattal elrendelt vagyonelkobzás hatálya alá tartozik. Egyébként a vagyonelvonásra irányuló eljárásban felmerült bűnügyi költséget az állam viseli.
 
-### CVII. Fejezet — ELJÁRÁS HATÁRZÁRRAL KAPCSOLATOS BŰNCSELEKMÉNY ESETÉN
+### CVII. Fejezet — ELJÁRÁS HATÁRZÁRRAL KAPCSOLATOS BŰNCSELEKMÉNY, VALAMINT KÜLFÖLDI EMBERCSEMPÉSZ ESETÉN
 
 827. § (1) A határzár tiltott átlépése, határzár megrongálása, valamint a határzárral kapcsolatos építési munka akadályozása (a továbbiakban együtt: határzárral kapcsolatos bűncselekmény) miatt indult büntetőeljárásban e törvény rendelkezéseit az e Fejezetben foglalt eltéréssel kell alkalmazni.
 
 (2) E Fejezet hatálya kiterjed a terhelt által elkövetett más bűncselekményre is, ha azt a határzárral kapcsolatos bűncselekménnyel egy eljárásban bírálják el.
+
+(3) A kizárólag a Btk. 353. § (1)–(3) és (6) bekezdése szerint minősülő embercsempészés bűncselekménye miatt indult büntetőeljárásban e törvény rendelkezéseit a 836/A–836/B. §-ban foglalt eltéréssel kell alkalmazni.
 
 ### A bíróság
 
@@ -11592,6 +11613,41 @@ rendelhető el.
 836. § (1) A bíróság büntetővégzést hozhat a 830. § (4) bekezdés b) pontjában meghatározott bűnügyi felügyelet hatálya alatt álló terhelttel szemben is.
 
 (2) A bíróság a büntetővégzést az ügyiratoknak a bírósághoz érkezését követő öt napon belül hozza meg.
+
+### A külföldi embercsempész elleni büntetőeljárás
+
+836/A. § (1) Az ügyészség hivatalból vagy a gyanúsított, illetve a védő indítványára a 827. § (3) bekezdése szerinti embercsempészés miatt indult eljárást a 836/B. § (1) bekezdésben meghatározott büntethetőséget megszüntető ok alkalmazhatósága érdekében felfüggeszti, ha
+
+- a) a gyanúsított külföldi állampolgárságú és vele szemben a kiutasítás elrendelése a Btk. 59. § (2) vagy (3) bekezdése alapján nem kizárt, valamint a kiutasítás végrehajthatósága sem lenne kizárt,
+- b) a gyanúsított a bűnösségét beismeri és az elkövetés körülményeit feltárja, valamint
+- c) a gyanúsított vállalja, hogy Magyarország területét a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon elhagyja, továbbá a határozatban meghatározott időtartamig nem tér vissza, és a vállalt kötelezettség teljesítésével kapcsolatban észszerű kétség nem merül fel.
+
+(2) Az (1) bekezdés alapján az eljárás nem függeszthető fel, ha a gyanúsított
+
+- a) többszörös visszaeső vagy a bűncselekményt az embercsempészés miatt végrehajtandó szabadságvesztésre ítélését követően, a büntetés kitöltésétől vagy végrehajthatósága megszűnésétől számított három éven belül követte el,
+- b) a bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetve próbára bocsátás vagy feltételes ügyészi felfüggesztés tartama alatt követte el, vagy
+- c) az embercsempészést fegyveresen követte el.
+
+(3) Az ügyészség a határozat meghozatala előtt az idegenrendészeti hatóság előzetes véleményének beszerzésével gondoskodik annak tisztázásról, hogy a harmadik országbeli állampolgárságú gyanúsított idegenrendészeti kiutasításának a feltételei a rendelkezésre álló adatok alapján fennállnak-e.
+
+(4) Az ügyészség az (1) bekezdés alapján az eljárást egy alkalommal, a Btk. Különös Része által meghatározott büntetési tétel felső határának megfelelő időre függeszti fel.
+
+(5) A határozatban figyelmeztetni kell a gyanúsítottat a 836/B. §-ban meghatározott következményekre.
+
+(6) Az (1) bekezdés a)–c) pontjában meghatározott feltételek fennállása esetén feltételes ügyészi felfüggesztésnek a 416. § (2) bekezdése alapján nincs helye és a gyanúsítottal szemben pártfogó felügyelet sem alkalmazható.
+
+(7) Ha (3) bekezdés szerinti előzetes vélemény alapján a harmadik országbeli állampolgárságú gyanúsított idegenrendészeti kiutasítása rendelhető el, az ügyészség a rendőrség útján intézkedik a gyanúsított területileg illetékes idegenrendészeti hatóság elé állítása iránt.
+
+836/B. § (1) A 836/A. §-ban meghatározott esetben a gyanúsított nem büntethető az ott meghatározott embercsempészés miatt, ha a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon elhagyta Magyarországot, valamint a határozatban meghatározott időtartamig nem tért vissza, kivéve, ha
+
+- a) a feltételes ügyészi felfüggesztés elrendelése törvénysértő volt, vagy
+- b) a (2) bekezdés alapján az eljárás folytatását kell elrendelni.
+
+(2) Ha az eljárás megszüntetésének vagy más okból történő felfüggesztésének nincs helye, az ügyészség az eljárás folytatását rendeli el, ha
+
+- a) a gyanúsított vagy − a gyanúsított hozzájárulásával − a védő a feltételes ügyészi felfüggesztés ellen panasszal él,
+- b) a gyanúsítottat a feltételes ügyészi felfüggesztés tartama alatt elkövetett szándékos bűncselekmény miatt a feltételes ügyészi felfüggesztés tartama alatt gyanúsítottként hallgatják ki, ideértve azt is, ha a megalapozott gyanú közlése a gyanúsított ismeretlen helyen vagy külföldön tartózkodása miatt nem lehetséges, vagy
+- c) a gyanúsított Magyarország területét a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon nem hagyja el, vagy a feltételes ügyészi felfüggesztés tartama alatt Magyarország területére visszatér.
 
 ## HUSZONEGYEDIK RÉSZ — A KÜLÖNLEGES ELJÁRÁSOK
 

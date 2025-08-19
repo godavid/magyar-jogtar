@@ -976,11 +976,11 @@ szabadságvesztést lehet kiszabni.
 
 85. § (1) A két évet meg nem haladó szabadságvesztés végrehajtása próbaidőre felfüggeszthető, ha – különösen az elkövető személyi körülményeire figyelemmel – alaposan feltehető, hogy a büntetés célja annak végrehajtása nélkül is elérhető.
 
-(1a) A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén az öt évet meg nem haladó szabadságvesztés végrehajtása próbaidőre felfüggeszthető.
+(1a) A határzár tiltott átlépése (352/A. §), a határzár megrongálása (352/B. §), a határzárral kapcsolatos építési munka akadályozása (352/C. §), valamint az embercsempészés (353. §) esetén az öt évet meg nem haladó szabadságvesztés végrehajtása próbaidőre felfüggeszthető.
 
 (2) A próbaidő tartama – ha e törvény eltérően nem rendelkezik – egy évtől öt évig terjedhet, de a kiszabott szabadságvesztésnél rövidebb nem lehet. A próbaidőt években, vagy években és hónapokban kell meghatározni.
 
-(2a) A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén a próbaidő tartama két évtől tíz évig terjedhet, de nem lehet rövidebb az ezen bűncselekmények miatt kiszabott kiutasítás tartamánál.
+(2a) A határzár tiltott átlépése (352/A. §), a határzár megrongálása (352/B. §), a határzárral kapcsolatos építési munka akadályozása (352/C. §), valamint az embercsempészés (353. §) esetén a próbaidő tartama két évtől tíz évig terjedhet, de nem lehet rövidebb az ezen bűncselekmények miatt kiszabott kiutasítás tartamánál.
 
 86. § (1) A szabadságvesztés végrehajtása nem függeszthető fel azzal szemben, aki
 
@@ -2819,6 +2819,8 @@ büntetendő.
 - b) a vele szemben elrendelt távoltartás magatartási szabályainak megszegésével
 
 a sértettel kapcsolatot teremt abból a célból, hogy a sértettet megfélemlítse vagy a magánéletébe, illetve mindennapi életvitelébe önkényesen beavatkozzon.
+
+(1b) Az (1) bekezdés szerint büntetendő, aki abból a célból, hogy a sértettet megfélemlítse vagy a magánéletébe, illetve mindennapi életvitelébe önkényesen beavatkozzon, a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján az elítélttel szemben elrendelhető megelőző távoltartás szabályait megszegi.
 
 (2) Aki félelemkeltés céljából
 

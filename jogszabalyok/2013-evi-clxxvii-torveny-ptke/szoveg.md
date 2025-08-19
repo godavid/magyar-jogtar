@@ -351,6 +351,12 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 (3) A Ptk. hatálybalépése előtt kötött zálogszerződéssel létrejött jelzálogjogot a zálogjogosult a Ptk. hatálybalépését követően a különvált zálogjogra vonatkozó szabályok szerint a biztosított követelés nélkül is átruházhatja, az ilyen módon átruházott jelzálogjogra a különvált zálogjog szabályait kell alkalmazni. A különvált zálogjog jogosultja kielégítési jogát bírósági végrehajtáson kívül akkor gyakorolhatja, ha arra az eredeti zálogjogjogosult jogosult volt vagy abban a felek megállapodtak.
 
+#### 20/A. Az építményi jog
+
+### [A Ptk. 5:159/B. § (6) bekezdéséhez]
+
+49/A. § A Ptk. 5:159/B. § (6) bekezdésének alkalmazása során a természetes személyt az üzleti tevékenysége körében eljáró személynek kell tekinteni, ha az építményi jog alapításával érintett ingatlan a rendeltetéséből következően jellemzően üzleti tevékenység folytatására szolgál.
+
 ### VI. Fejezet — A PTK. HATODIK KÖNYVÉHEZ KAPCSOLÓDÓ ÁTMENETI RENDELKEZÉSEK
 
 50. § (1) Ha e törvény eltérően nem rendelkezik, a Ptk. hatálybalépésekor fennálló kötelmekkel kapcsolatos, a Ptk. hatálybalépését követően keletkezett tényekre, megtett jognyilatkozatokra – ideértve az e tények, illetve jognyilatkozatok által keletkeztetett újabb kötelmeket is – a Ptk. hatálybalépése előtt hatályos jogszabályok rendelkezéseit kell alkalmazni.
