@@ -2,7 +2,15 @@
 
 a polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel érvényesítéséről
 
-Az Országgyűlésaz igazságszolgáltatási tevékenység hatékonyságának ösztönzése,a jogkeresők tisztességes és észszerű határidőn belül befejeződő eljáráshoz fűződő jogának kiteljesítése céljából, valaminta bírósági polgári peres eljárások elhúzódásával szembeni hatékony jogorvoslat megteremtése érdekébenaz Alaptörvény XXVIII. cikk (1) bekezdésének végrehajtására a következő törvényt alkotja:
+Az Országgyűlés
+
+az igazságszolgáltatási tevékenység hatékonyságának ösztönzése,
+
+a jogkeresők tisztességes és észszerű határidőn belül befejeződő eljáráshoz fűződő jogának kiteljesítése céljából, valamint
+
+a bírósági polgári peres eljárások elhúzódásával szembeni hatékony jogorvoslat megteremtése érdekében
+
+az Alaptörvény XXVIII. cikk (1) bekezdésének végrehajtására a következő törvényt alkotja:
 
 #### 1. A törvény hatálya
 
@@ -86,6 +94,8 @@ nem haladja meg.
 (2) Ha az EJEB a fél javára a bírósági eljárás észszerű határidőn belül történő befejezéséhez fűződő alapvető jog sérelme miatt, a bírósági eljárás e törvény szerint figyelembe vehető időtartamának egy része vonatkozásában igazságos elégtétel megfizetésére kötelezte az államot, ugyanezen bírósági eljárással kapcsolatban az e törvény alapján megállapítandó vagyoni elégtétel összegébe be kell számítani az EJEB által megítélt igazságos elégtétel összegét. Ebben az esetben a félnek vagyoni elégtételként csak a beszámítás eredményeként fennmaradó különbözet jár.
 
 (3) Ha a bíróság jogerős határozatában – a bírósági eljárás meghatározott időtartama vonatkozásában – a fél javára kifizetendő vagyoni elégtételről döntött, akkor ugyanezen bírósági eljárás vonatkozásában további vagyoni elégtétel iránti igény csak a vagyoni elégtétel szempontjából el nem bírált időszak vonatkozásában érvényesíthető. Ez utóbbi esetben – a bírósági eljárás figyelembe vehető időtartamának számítása során – a korábbi eljárásban megállapított időtartamot is figyelembe kell venni a feltételek fennállásának és az igény összegszerűségének vizsgálata során.
+
+(4) Ha a bíróság törvényben megállapított intézkedési határidő túllépése miatt a bírósági eljárásban vagyoni elégtételt nyújt a felek részére, akkor ugyanezen bírósági eljárás vonatkozásában további vagyoni elégtétel iránti igény csak a nyújtott elégtétellel nem kompenzált időszak vonatkozásában érvényesíthető. Ez utóbbi esetben – a bírósági eljárás figyelembe vehető időtartamának számítása során – a bírósági eljárásban nyújtott elégtétellel érintett napokat is figyelembe kell venni, ugyanakkor e napok tekintetében további vagyoni elégtétel nem érvényesíthető.
 
 #### 4. Bíróság előtti igényérvényesítés
 
@@ -194,4 +204,4 @@ nem haladja meg.
 
 (3) E törvény hatálybalépését követő négy hónapos jogvesztő határidőn belül a bírósági polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel iránti igény e törvény szerinti érvényesítésére az a fél is jogosult, akinek a bírósági eljárás elhúzódása miatt az EJEB-hez benyújtott kérelmét az EJEB e törvény hatálybalépésének napjáig nyilvántartásba vette, de még nem bírálta el, kivéve, ha a kérelem EJEB-hez történő benyújtásakor az 1993. évi XXXI. törvénnyel kihirdetett, az emberi jogok és az alapvető szabadságok védelméről szóló, Rómában, 1950. november 4-én kelt Egyezmény 35. cikkének 1. bekezdésében meghatározott, az adott ügyre vonatkozó határidő már eltelt.
 
-22. §
+#### 22. §

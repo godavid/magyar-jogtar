@@ -194,6 +194,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) Ügygondnokrendelés szükségessége esetén a közjegyző rövid határidő tűzésével az ügygondnoki díjnak a Kjnp. megfelelő alkalmazásával történő előlegezésére hívja fel a jogosultat, ennek megtörténtét követően a fél képviseletére ügygondnokot rendel. Ha a jogosult a közjegyző felhívására nem előlegezi meg az ügygondnok díját, a közjegyző a fizetési meghagyás kibocsátása iránti kérelmét visszautasítja vagy az eljárást megszünteti.
 
+(6) A fizetési meghagyásos eljárásban nincs helye a Pp. határidő-túllépésre vonatkozó szabályai alkalmazásának.
+
 18. § (1) A fizetési meghagyásos eljárásban a fél meghallgatásának nincs helye, kivéve a beadvány szóbeli előterjesztését, a fél szóbeli tájékoztatását és a költségkedvezmény iránti kérelem tárgyában való döntéshez szükséges meghallgatást. Egyebekben ahol a Pp. meghallgatást említ, ott ezen a fél írásbeli nyilatkoztatását kell érteni.
 
 (2) A fizetési meghagyásos eljárásban szünetelésnek és felfüggesztésnek nincs helye. A közjegyző az eljárást hivatalból megszünteti, ha a Pp. szerint az eljárás szünetelésének lenne helye, vagy az eljárást fel kellene függeszteni. Ha a szünetelésnek a Pp. 121. § (1) bekezdés c) és f) pontja szerint lenne helye, annak a félnek a részére, akinek a Pp. 121. § (1) bekezdés c) és f) pontjában meghatározott okból az iratokat kézbesíteni nem lehet, a közjegyző a megszüntetéssel összefüggésben keletkezett iratokat hivatalból hirdetmény útján kézbesíti.
@@ -411,6 +413,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - d) a 32. § (2) bekezdésben meghatározott ok áll fenn.
 
 (6) Ha a jogi személy és a Dáptv. alapján elektronikus ügyintézésre kötelezett egyéb személy ellentmondását nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, az ellentmondást hiánypótlási felhívás nélkül kell visszautasítani.
+
+(6a) Az ellentmondás benyújtásának joghatásai fennmaradnak, ha a közjegyző a jogi képviselő nélkül eljáró egyéni vállalkozó ellentmondását az (5) bekezdés c) pontja alapján utasította vissza, és az egyéni vállalkozó a visszautasító határozat jogerőre emelkedésétől számított öt nap alatt az ellentmondást a közjegyzőnél az e törvényben foglaltaknak megfelelően újra benyújtja.
 
 (7) Az ellentmondást visszautasító végzés ellen a kötelezett fellebbezéssel élhet.
 

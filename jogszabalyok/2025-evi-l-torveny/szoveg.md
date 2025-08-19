@@ -227,45 +227,202 @@ tekintetében.
 
 35. § Az Európai Unió Bírósága által a C-123/22. számú Bizottság kontra Magyarország ügyben 2024. június 13-án kihirdetett ítélet tekintetében a hatáskörrel rendelkező döntéshozó jogosult az ítélettel kapcsolatos valamennyi tény és jogi körülmény mérlegelése alapján dönteni a bírság közvetlen vagy a fizetési kötelezettség Európai Bizottság általi beszámítással történő teljesítéséről, és a közvetlen teljesítés időpontjáról.
 
-### IV. Fejezet
+### IV. Fejezet — A MAGYARORSZÁGI SZÉKHELYŰ GAZDASÁGI TÁRSASÁGOK GAZDASÁGI CÉLÚ VÉDELMÉHEZ SZÜKSÉGES INTÉZKEDÉSEKRE VONATKOZÓ ÁTMENETI SZABÁLYOK
 
-#### 36. §
+36. § (1) E Fejezet rendelkezéseit 2026. december 31. napjáig kell alkalmazni.
 
-#### 37. §
+(2) E Fejezet alkalmazásában
 
-#### 38. §
+- 1. államérdek: az ágazati európai uniós és nemzeti jog által nem szabályozott, a hálózatok és berendezések biztonságára és működőképességére, valamint az ellátás folyamatosságára vonatkozó vagy nemzetgazdasági szempontból alapvető gazdaságstratégiai érdekkel összefüggő közérdek,
+- 2. külföldi befektető:
+  - a) a 3. pontban meghatározott stratégiai társaságban meghatározott tulajdonrészt, illetve befolyást szerző, belföldön, az Európai Unió más tagállamában, az Európai Gazdasági Térségről szóló megállapodásban (a továbbiakban: EGT-megállapodás) részes államban vagy a Svájci Államszövetségben bejegyzett jogi személy vagy egyéb szervezet, ha a jogi személyben vagy egyéb szervezetben a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti többségi befolyással rendelkező személy az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen kívüli állam állampolgára vagy ilyen államban bejegyzett jogi személy vagy egyéb szervezet,
+  - b) az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen kívüli állam állampolgára vagy ilyen államban bejegyzett jogi személy vagy egyéb szervezet,
+- 3. stratégiai társaság: olyan magyarországi székhelyű korlátolt felelősségű társaság, zártkörűen működő részvénytársaság, nyilvánosan működő részvénytársaság vagy felsőoktatási intézmény mint jogi személy, amelynek fő- vagy további tevékenységi körként végzett tevékenysége az 1. mellékletben meghatározott stratégiai jelentőségű ágazatba, így különösen az energia-, a közlekedés, a kommunikáció ágazatba, valamint az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a)–e) pontja szerinti ágazatba tartozik.
 
-#### 39. §
+37. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (e Fejezet alkalmazásában a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez tett bejelentés szükséges a létrejött jogügyletekkel összefüggésben:
 
-#### 40. §
+- a) stratégiai társaságban fennálló tulajdoni részesedés részben vagy egészben, bármilyen tulajdonjog átruházási jogcímen – ideértve az apportálást is –, ingyenesen vagy visszterhesen történő átruházása,
+- b) stratégiai társaságban történő tőkeemelés,
+- c) stratégiai társaság átalakulása, egyesülése, szétválása,
+- d) stratégiai társaság által átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvény kibocsátása,
+- e) stratégiai társaság részvényén, üzletrészén haszonélvezeti jog alapítása.
 
-#### 41. §
+(2) A 36. § (2) bekezdés 3. pontjában megjelölt ágazatokban fennáll a bejelentési kötelezettség, ha a befektetés összértéke eléri vagy meghaladja a 350 000 000 forintot és
 
-#### 42. §
+- a) a 36. § (2) bekezdés 2. pont a) alpontja szerinti külföldi befektető, valamint az Európai Unió más tagállamában, az EGT-megállapodásban részes más államban vagy a Svájci Államszövetségben bejegyzett jogi személy vagy egyéb szervezet, illetve az Európai Unió más tagállamának, az EGT-megállapodásban részes más államnak vagy a Svájci Államszövetségnek állampolgára, ha
+  - aa) az (1) bekezdés a)–c) pontja szerinti jogügylet alapján közvetlenül vagy közvetett módon a stratégiai társaságban tulajdonrész megszerzése (a továbbiakban: tulajdonszerzés),
+  - ab) az (1) bekezdés d) pontja szerinti egyoldalú jognyilatkozat alapján közvetlenül vagy közvetett módon olyan kötvény tulajdonjogának a megszerzése, amelynek az átváltoztatása, átváltozása vagy az annak alapján történő részvényjegyzése (a továbbiakban: kötvény tulajdonjogának megszerzése), vagy
+  - ac) az (1) bekezdés e) pontja szerinti szerződés vagy egyoldalú jognyilatkozat alapján közvetlenül vagy közvetett módon tulajdoni hányadot megtestesítő üzletrészen vagy részvényen haszonélvezeti jog megszerzése (a továbbiakban együtt: haszonélvezeti jog megszerzése)
 
-#### 43. §
+következtében a stratégiai társaságban közvetlenül vagy közvetett módon a Ptk. szerinti többségi befolyást szerez, vagy
 
-#### 44. §
+- b) a 36. § (2) bekezdés 2. pont b) alpontja szerinti külföldi befektető a tulajdonszerzés, a kötvény tulajdonjogának megszerzése, vagy a haszonélvezeti jog megszerzése következtében a stratégiai társaságban közvetlenül vagy közvetetten legalább 5%-os, nyilvánosan működő részvénytársaság esetében legalább 3%-os részesedést szerez.
 
-#### 45. §
+(3) A bejelentési kötelezettség akkor is fennáll, ha a 36. § (2) bekezdés 2. pont b) alpontja szerinti külföldi befektető a tulajdonszerzés, a kötvény tulajdonjogának megszerzése, illetve a haszonélvezeti jog megszerzése következtében a stratégiai társaságban 10%-os, 20%-os vagy 50%-os részesedést szerez, vagy ha a 36. § (2) bekezdés 2. pont b) alpontja szerinti külföldi befektető a tulajdonszerzésével, a kötvény tulajdonjogának megszerzésével, illetve a haszonélvezeti jog megszerzésével a stratégiai társaságban – a nyilvánosan működő részvénytársaság kivételével – a külföldi befektetők együttes részesedése meghaladja a 25%-ot.
 
-#### 46. §
+(4) A belgazdaságért felelős miniszterhez tett bejelentés és a bejelentés tudomásulvétele szükséges a stratégiai társaság tevékenysége folytatásához nélkülözhetetlen infrastruktúrák, berendezések és eszközök átruházása, használati vagy működtetési jogának átengedése vagy ilyen vagyontárgyak biztosítékba adása (a továbbiakban együtt: üzemeltetési jog) esetén is, ha az üzemeltetési jogot külföldi befektető vagy olyan jogi személy vagy szervezet szerzi meg, amelyben a külföldi befektető közvetlenül vagy közvetetten a Ptk. szerinti többségi befolyással rendelkezik.
 
-#### 47. §
+(5) E Fejezet rendelkezései nem alkalmazhatók, ha közvetlenül a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött, (1) bekezdés szerinti jogügylet egyidejűleg a külföldi székhelyű jogi személynek vagy egyéb szervezetnek olyan, a számvitelről szóló 2000. évi C. törvény szerinti alárendelt, kapcsolt vállalkozása tekintetében eredményezi közvetve a (2)–(4) bekezdésben foglaltakat, amely alárendelt kapcsolt vállalkozás stratégiai társaságnak minősül.
 
-#### 48. §
+38. § (1) A belgazdaságért felelős miniszter az e § szerinti eljárást magyar nyelvű vagy magyar nyelvű hiteles fordítású bejelentés alapján folytatja le. A bejelentési kötelezettség megsértése esetén az eljárás lefolytatásának utólagos bejelentés alapján vagy hivatalból is helye van.
 
-#### 49. §
+(2) A bejelentést
 
-#### 50. §
+- a) a tulajdonszerzésre irányuló jogügylet létrejöttét,
+- b) a kötvény tulajdonjogának megszerzésére irányuló jogügylet létrejöttét,
+- c) a haszonélvezeti jog megszerzésére irányuló jogügylet létrejöttét vagy
+- d) az üzemeltetési jog megszerzésére irányuló jogügylet létrejöttét
 
-#### 51. §
+követő 10 napon belül kell benyújtani a belgazdaságért felelős miniszternek.
 
-#### 52. §
+(3) A bejelentést
 
-#### 53. §
+- a) a külföldi befektető,
+- b) az Európai Unió más tagállamában, az EGT-megállapodásban részes más államban vagy a Svájci Államszövetségben bejegyzett jogi személy vagy egyéb szervezet,
+- c) az Európai Unió más tagállamának, az EGT-megállapodásban részes más államnak vagy a Svájci Államszövetségnek az állampolgára,
+- d) a (2) bekezdés d) pontja esetén, ha az üzemeltetési jogot nem a külföldi befektető szerzi meg, az üzemeltetési jogot megszerző jogi személy vagy szervezet és a külföldi befektető közösen
 
-#### 54. §
+köteles benyújtani (a továbbiakban együtt: bejelentő).
+
+(4) A belgazdaságért felelős miniszter előtti eljárásban a jogi képviselet kötelező.
+
+(5) A bejelentő által aláírt és a jogi képviselő által – a jogi képviselő tevékenysége során használandó, törvényben előírt – elektronikus aláírással ellátott bejelentést elektronikus úton a belgazdaságért felelős miniszternek címezve kell benyújtani.
+
+(6) A bejelentési kötelezettség nem érinti a más jogszabályban meghatározott, a tulajdonszerzéssel, haszonélvezeti jog megszerzésével, kötvény tulajdonjogának megszerzésével, üzemeltetési jog megszerzésével összefüggő bejelentési vagy engedélyezési kötelezettséget.
+
+39. § (1) A bejelentésnek tartalmaznia kell
+
+- a) a bejelentő természetes személy
+  - aa) természetes személyazonosító adatait és magyarországi lakcímadatát vagy magyarországi lakcímadat hiányában külföldi lakó- vagy tartózkodási helyét,
+  - ab) állampolgárságát, valamint
+  - ac) elektronikus vagy postai kapcsolattartásra szolgáló elérhetőségét,
+- b) a bejelentő jogi személy vagy egyéb szervezet
+  - ba) nevét, székhelyét és – ha van – magyarországi fióktelepének címét,
+  - bb) hivatalos nyilvántartásával kapcsolatos feladatokat ellátó állam megjelölését,
+  - bc) elektronikus vagy postai kapcsolattartásra szolgáló elérhetőségét, valamint
+- c) a bejelentő képviseletében eljáró jogi képviselő adatait.
+
+(2) A bejelentéshez elektronikus úton mellékelni kell
+
+- a) a jogügylet részletes leírását,
+- b) a tulajdonszerzésre, a kötvény tulajdonjogának megszerzésére, a haszonélvezeti jog megszerzésére, az üzemeltetési jog megszerzésére irányuló jogügylet, és az azok szempontjából releváns és lényeges körülmények részletes leírását,
+- c) a jogügylettel összefüggésben keletkezett iratokat, ideértve a jogügyletet tartalmazó okiratot és kapcsolódó társasági iratot, amelyek alapján megállapítható a külföldi befektető és a külföldi befektetőben részesedéssel rendelkező jogi személyek tulajdonosi szerkezete, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerint meghatározott tényleges tulajdonos, a tulajdonszerzésre, a kötvény tulajdonjogának megszerzésére, a haszonélvezeti jog megszerzésére, az üzemeltetési jog megszerzésére irányuló jogügylet alapjául szolgáló valamennyi okiratot, valamint ezekkel kapcsolatban létrejött társasági iratokat, határozatokat.
+
+40. § A bejelentéssel összefüggésben a belgazdaságért felelős miniszter a bejelentő jogi képviselőjével, szükség esetén a bejelentővel a bejelentésben megjelölt elérhetőségen elektronikus úton tart kapcsolatot. Ha a bejelentésben megjelölt elérhetőségen sem a jogi képviselő, sem a bejelentő nem elérhető, ennek következménye a bejelentőt terheli.
+
+41. § A bejelentés megérkezéséről a belgazdaságért felelős miniszter haladéktalanul, de legfeljebb nyolc napon belül elektronikus úton írásbeli értesítést küld, amely tartalmazza
+
+- a) a bejelentés megérkezésének napját,
+- b) a bejelentő nevét és jogi képviselőjét,
+- c) annak megjelölését, hogy tulajdonszerzésére, kötvény tulajdonjogának megszerzésére, haszonélvezeti jog megszerzésére, üzemeltetési jog megszerzésére került-e sor, valamint
+- d) az arra vonatkozó figyelemfelhívást, hogy az értesítés csak a bejelentés megérkezésének tényéről szól és nem tekinthető a bejelentés tudomásulvételének.
+
+42. § (1) A belgazdaságért felelős miniszter a bejelentés megérkezését követően haladéktalanul megvizsgálja, hogy
+
+- a) a bejelentés megfelel-e a 39. §-ban rögzített feltételeknek,
+- b) a bejelentő által a tulajdonszerzés, a kötvény tulajdonjogának megszerzése, a haszonélvezeti jog megszerzése, az üzemeltetési jog megszerzése esetén fennáll-e Magyarország államérdekének, közbiztonságának, közrendjének sérelme vagy veszélyeztetése, illetve ezek bekövetkezésének lehetősége, különös tekintettel az alapvető társadalmi szükségletek ellátásának biztonságára, összhangban az Európai Unió Működéséről szóló szerződés 36. cikkével, 52. cikk (1) bekezdésével és 65. cikk (1) bekezdésével,
+- c) a bejelentő közvetlenül vagy közvetve nem az Európai Unióhoz tartozó tagállam kormányának – beleértve az állami szerveket vagy a fegyveres erőket is – ellenőrzése alatt áll-e, akár tulajdonosi szerkezete, akár jelentős finanszírozása révén,
+- d) a bejelentő az Európai Unió bármely tagállamában érintett volt-e biztonságot vagy közrendet veszélyeztető tevékenységben, illetve
+- e) fennáll-e komoly kockázata annak, hogy a bejelentő bűncselekménynek minősülő tevékenységet fog folytatni.
+
+(2) Az (1) bekezdés a) pontja szerinti vizsgálat alapján a belgazdaságért felelős miniszter a bejelentésben és mellékleteiben meg nem adott további adatok és információk közlését, illetve a bejelentéshez nem mellékelt további iratok eredeti vagy hiteles másolati példányának – idegen nyelvű irat esetén magyar nyelvű hiteles fordításával együttes – benyújtására hívhatja fel a bejelentőt, legalább 3 napos, legfeljebb 10 napos vagy a bejelentőtől eltérő természetes személyt, jogi személyt vagy egyéb szervezetet legfeljebb 20 napos határidő tűzésével.
+
+(3) A (2) bekezdés szerinti felhívás eredménytelensége esetén a belgazdaságért felelős miniszter a benyújtott iratok alapján vizsgálja meg a bejelentést.
+
+43. § (1) A belgazdaságért felelős miniszter legkésőbb a bejelentés megérkezésétől számított 30 munkanapon – vagy a (3) bekezdés szerinti esetben az ott meghatározott határidőn – belül, ha a 42. § (1) bekezdés b)–e) pontjában meghatározott körülmény
+
+- a) nem áll fenn, a bejelentés tudomásulvételét írásban visszaigazolja, vagy
+- b) fennáll, a tulajdonszerzést, a kötvény tulajdonjogának megszerzését, a haszonélvezeti jog megszerzését, az üzemeltetési jog megszerzését megtiltja (a továbbiakban együtt: tiltó döntés).
+
+(2) A 45. §-ban foglalt esetben – az (1) bekezdéstől eltérően – a belgazdaságért felelős miniszter legkésőbb a 45. § (4) bekezdése szerinti tájékoztatás bejelentő részére történő megküldésének napjától számított hetvenöt munkanapon – vagy a (3) bekezdés szerinti esetben az ott meghatározott határidőn – belül,
+
+- a) ha a magyar állam nem él az elővásárlási jogával, és a 42. § (1) bekezdés b)–e) pontjában meghatározott körülmény nem áll fenn, a bejelentés tudomásulvételét írásban visszaigazolja,
+- b) ha a magyar állam nem él az elővásárlási jogával, és a 42. § (1) bekezdés b)–e) pontjában meghatározott körülmény fennáll, tiltó döntést hoz,
+- c) ha a magyar állam él az elővásárlási jogával, a 45. § (7) bekezdésével összhangban a bejelentéssel összefüggő eljárást megszünteti.
+
+(3) Különösen indokolt esetben a belgazdaságért felelős miniszter az (1) bekezdés és a (2) bekezdés a) és b) pontja szerinti ellenőrzés időtartamát legfeljebb tizenöt nappal meghosszabbíthatja, amelyről a bejelentőt – a tizenöt napos határidő letelte előtt – írásban értesíti.
+
+44. § (1) A belgazdaságért felelős miniszter a tiltó döntést köteles megindokolni. Az indokolásban meg kell jelölni, hogy a tulajdonszerzés, a kötvény tulajdonjogának megszerzése, a haszonélvezeti jog megszerzése, az üzemeltetési jog megszerzése által a 42. § (1) bekezdés b) pontja szerinti mely érdek sérül vagy veszélyeztetett, illetve a 42. § (1) bekezdés mely pontjába való ütközést állapított meg. Az indokolásban fel kell hívni a kérelmező figyelmét a tiltó döntés elleni jogorvoslat e Fejezet szerinti szabályaira.
+
+(2) A tiltó döntés indokolása minősített adatot nem tartalmazhat.
+
+45. § (1) Ha a 37. § (1) bekezdés a) pontja szerinti, valamint a 37. § (2) és (3) bekezdésében foglalt eredménnyel járó adásvételi jogügylet az 1. mellékletben foglalt táblázat 21. sorában meghatározott ágazaton belül a 35.12 Villamosenergia-termelés megújuló forrásból TEÁOR’25 kódú – fő vagy további tevékenységi körként – bejegyzett, naperőműre vonatkozó tevékenységgel rendelkező stratégiai társaság tekintetében jött létre, a jogügylet tudomásulvétele iránti bejelentés elbírálására a (2)–(8) bekezdésben foglalt rendelkezéseket is alkalmazni kell.
+
+(2) Az (1) bekezdés szerinti jogügyletek tekintetében a magyar államot minden más jogosultat megelőző elővásárlási jog illeti meg, amelyet a (4) bekezdés szerinti tájékoztatás bejelentő részére történő megküldésének napjától számított 90 munkanapos jogvesztő határidőn belül a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján gyakorol.
+
+(3) Az (1) bekezdés szerinti jogügyletek esetében a 39. § (1) bekezdésében foglaltakon túl a bejelentésnek tartalmaznia kell az arra való utalást, hogy a bejelentés az (1) bekezdés hatálya alá tartozik.
+
+(4) Ha a belgazdaságért felelős miniszter a bejelentés megvizsgálása során megállapítja, hogy a bejelentett jogügylet tekintetében fennáll az e Fejezet szerinti bejelentési kötelezettség és a jogügylet az (1) bekezdés szerinti adásvételi jogügyletnek minősül, továbbá a 39. § (2) bekezdése szerinti mellékletek – ideértve az elővásárlási jog gyakorlásától függő hatállyal megkötött adásvételi szerződést is – hiánytalanul rendelkezésre állnak, akkor a belgazdaságért felelős miniszter tájékoztatja a bejelentőt arról, hogy a jogügylet az (1) bekezdés szerinti adásvételi jogügyletnek minősül, és így a magyar államot a (2) bekezdés szerinti elővásárlási jog illeti meg.
+
+(5) A belgazdaságért felelős miniszter a bejelentő (4) bekezdés szerinti tájékoztatásával egyidejűleg megküldi a bejelentés során kapott dokumentációt – 30 munkanapos válaszadási határidővel – az energiapolitikáért felelős miniszternek, aki a jogügyletet megvizsgálja arra vonatkozóan, hogy a (2) bekezdés szerinti elővásárlási jog gyakorlása indokolt-e.
+
+(6) Az energiapolitikáért felelős miniszter válaszában az elővásárlási jog gyakorlására vagy gyakorlásának mellőzésére irányuló javaslatot tesz, és erről az (5) bekezdés szerinti határidőn belül tájékoztatja a belgazdaságért felelős minisztert és egyidejűleg az MNV Zrt.-t, az MNV Zrt. részére megküldött, elővásárlási jog gyakorlására irányuló javaslatához csatolva az elővásárlási jog gyakorlásához szükséges dokumentációt is.
+
+(7) Ha a belgazdaságért felelős miniszterhez az elővásárlási jog gyakorlására irányuló javaslat érkezik, a belgazdaságért felelős miniszter a jogügylet tudomásulvétele iránti bejelentéssel összefüggő eljárását megszünteti arra való kifejezett hivatkozással, hogy az energiapolitikáért felelős miniszter álláspontja szerint indokolt az elővásárlási jog gyakorlása.
+
+(8) Ha az energiapolitikáért felelős miniszter az (5) bekezdés szerinti határidőn belül a bejelentett jogügylet tekintetében az elővásárlási jog gyakorlásának mellőzésére irányuló javaslatot tesz, vagy az (5) bekezdés szerinti határidőn belül nem tesz az elővásárlási jog gyakorlásával kapcsolatos állásfoglalást, akkor a belgazdaságért felelős miniszter érdemben elbírálja a bejelentést.
+
+(9) Az (1)–(8) bekezdésben foglalt rendelkezések nem alkalmazhatók a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 24. pontja szerinti háztartási méretű kiserőműnek minősülő naperőművek esetében.
+
+46. § (1) A bejelentő a tiltó döntést az eljárás lényeges szabályainak megsértése miatt, valamint a 44. § szerinti minősítéssel összefüggésben közigazgatási peres eljárásban megtámadhatja. Az eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
+
+(2) Az eljárásban a jogi képviselet kötelező.
+
+(3) A kérelemről a bíróság a kérelem beérkezését követő 30 napon belül dönt. Ha a bíróság a jogsértést megállapítja, a határozatot megsemmisíti, és a belgazdaságért felelős minisztert új eljárásra kötelezi.
+
+(4) A belgazdaságért felelős miniszter a bejelentő személyes adatait az eljárás során, valamint a bejelentés ellenőrzése céljából
+
+- a) tiltó döntés meghozatala esetén a bejelentés benyújtását követő 5 évig, bírósági jogorvoslati eljárás esetén annak jogerős befejezésétől számított 5 évig,
+- b) a bejelentés tudomásulvételének visszaigazolása esetén a külföldi befektető tulajdonjoga, haszonélvezeti joga vagy a kötvény tulajdonjoga fennállása idejéig, de legfeljebb 5 évig
+
+kezeli.
+
+47. § (1) A bejelentési kötelezettség teljesítését a belgazdaságért felelős miniszter ellenőrzi.
+
+(2) Ha az (1) bekezdés szerinti ellenőrzés során megállapítást nyer, hogy a bejelentésre kötelezett az e Fejezet szerinti bejelentési kötelezettségét nem teljesítette, a belgazdaságért felelős miniszter a 48. § szerint bírságot szab ki, és ha
+
+- a) a tulajdonszerzéssel, kötvény tulajdonjogának megszerzésével, a haszonélvezeti jog megszerzésével, az üzemeltetési jog megszerzésével összefüggésben nem áll fenn a 42. § (1) bekezdés b)–e) pontja szerinti körülmény, a jogügylet tudomásulvételét írásban visszaigazolja,
+- b) a tulajdonszerzéssel, kötvény tulajdonjogának megszerzésével, a haszonélvezeti jog megszerzésével, az üzemeltetési jog megszerzésével összefüggésben fennáll a 42. § (1) bekezdés b)–e) pontja szerinti körülmény, tiltó döntést hoz.
+
+(3) Az (1) bekezdés szerinti ellenőrzés határidejére a 43. §-t kell megfelelően alkalmazni, azzal, hogy a határidőt a bejelentés megérkezése helyett a jogügyletről való tudomásszerzéstől kell számítani.
+
+(4) Nem folytatható hatósági ellenőrzés, illetve a jogsértés megállapítására irányuló eljárás a bejelentés elmulasztása miatt, ha a tulajdonszerzésnek, a haszonélvezeti jog megszerzésének, a kötvény tulajdonjoga megszerzésének, az üzemeltetési jog megszerzésének a belgazdaságért felelős miniszter tudomására jutásától számított 6 hónap, de legkésőbb a körülményektől számított 5 év eltelt.
+
+48. § (1) Azt, aki a bejelentéssel összefüggő kötelezettségét megszegi – ha a cselekménye bűncselekményt nem valósít meg –, az e Fejezet szerinti érvénytelenség fennállása mellett a belgazdaságért felelős miniszter – az eset összes körülményének vizsgálatával – a tranzakció értékének kétszereséig terjedő, de
+
+- a) természetes személy külföldi befektető esetén legalább 100 000 forintot meghaladó,
+- b) jogi személy vagy egyéb szervezet külföldi befektető esetén legalább a tulajdonszerzéssel, a kötvény tulajdonjogának megszerzésével, a haszonélvezeti jog megszerzésével, az üzemeltetési jog megszerzésével érintett stratégiai társaság legutolsó üzleti évében elért nettó árbevételének 1%-át meghaladó
+
+közigazgatási bírsággal sújthatja.
+
+(2) A bírság megfizetésére fizetési kedvezmény nem engedélyezhető.
+
+49. § A bejelentésre – az e Fejezetben foglalt eltérésekkel – megfelelően alkalmazni kell az általános közigazgatási rendtartásról szóló 2016. évi CL. törvénynek a nyelvhasználatra és a tolmács igénybevételére, a megkeresésre, az adatkezelésre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, továbbá a költségmentességre vonatkozó rendelkezéseit, azzal, hogy ahol az általános közigazgatási rendtartásról szóló törvény ügyfelet említ, azon e Fejezet alkalmazásában bejelentőt kell érteni.
+
+50. § (1) A bejelentés tudomásulvételéről szóló visszaigazolásokról, valamint a tiltó döntésekről a belgazdaságért felelős miniszter nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartásban rögzített adatokat a 46. § (4) bekezdésében megjelölt határidő elteltével törölni kell.
+
+51. § A belgazdaságért felelős miniszter a 42. § (1) bekezdésében és a 47. § (1) bekezdésében meghatározott feladata ellátása során megkereséssel fordulhat bármely állami szervhez, amely a megkeresést 5 napon belül köteles teljesíteni.
+
+52. § (1) A 37. § (1) bekezdés a)–c) pontja és a 37. § (2) és (3) bekezdése szerinti esetben a stratégiai társaság részvénykönyvébe, illetve tagjegyzékébe való bejegyzésre irányuló kérelmet a bejelentés tudomásulvétele visszaigazolásának birtokában lehet benyújtani. A bejelentés tudomásulvétele visszaigazolásának hiányában vagy ha a belgazdaságért felelős miniszter tiltó döntést hozott, a szerző fél a részvénykönyvbe nem jegyezhető be, illetve a tagjegyzékben nem tüntethető fel, a jogügylet tárgyát képező részesedések alapján a stratégiai társaságban semmilyen jogot nem gyakorolhat.
+
+(2) A stratégiai társaság a 37. § (1) bekezdésében megjelölt jogügylettel összefüggő, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) szerinti változásbejegyzési eljárásban, a 37. § (1) bekezdés c) pontja esetén a cégbejegyzési eljárásban köteles a cégbejegyzési, változásbejegyzési kérelemhez teljes bizonyító erejű magánokiratba foglalt nyilatkozatot csatolni arról, hogy stratégiai társaságnak minősül, továbbá köteles csatolni a bejelentés tudomásulvételének visszaigazolását. E bekezdés szerinti esetben a Ctv. 50. § (5) bekezdésében és a Ctv. 57. § (3) bekezdésében meghatározott kérelembenyújtási határidő a bejelentés belgazdaságért felelős miniszter általi tudomásulvétele visszaigazolásának kézhezvételét követő naptól kezdődik.
+
+(3) A stratégiai társaság, valamint az érintett társaság tekintetében a cégnyilvántartásba a bejelentés tudomásulvétele visszaigazolásának hiányával vagy a belgazdaságért felelős miniszter tiltó döntése ellenére bejegyzett adatot – ideértve azt az esetet is, ha a tiltó döntés meghozatalára az adat bejegyzését követően, utólagos bejelentés alapján vagy hivatalból indított vizsgálat nyomán, a 47. § (4) bekezdésében megjelölt határidőn belül kerül sor – a cégbíróság törvényességi felügyeleti eljárás keretében törli.
+
+53. § (1) Semmis az a szerződés, egyoldalú jognyilatkozat vagy a társaság határozata,
+
+- a) amely e Fejezet rendelkezéseibe ütközik, vagy
+- b) amelyre vonatkozóan a belgazdaságért felelős miniszter tiltó döntést hozott.
+
+(2) Az (1) bekezdés a) pontja esetén a szerződés, egyoldalú jognyilatkozat vagy a társaság határozata a meghozatalának időpontjára visszamenő hatállyal érvényessé válik, ha a 47. § szerinti vizsgálat eredményeként a belgazdaságért felelős miniszter megállapítja, hogy a szerződés, egyoldalú jognyilatkozat vagy a társaság határozata meghozatalát nem tiltotta volna meg, ezáltal az érvénytelenség okát határozatával utólag kiküszöböli.
+
+(3) Az érvénytelenség okának utólagos kiküszöbölése esetén a felek úgy kötelesek eljárni, mintha a szerződés, egyoldalú jognyilatkozat vagy a társaság határozata a meghozatalának időpontjától érvényes lett volna.
+
+54. § (1) A belgazdaságért felelős miniszter a bejelentési kötelezettség 47. § szerinti utólagos vizsgálata során a jogügylet létrejöttének időpontjában hatályos szabályok betartását vizsgálja.
+
+(2) Az 53. § (1) bekezdés a) pontja szerinti jogkövetkezmény megállapítása szempontjából a jogügylet létrejöttének időpontjában hatályos szabályozás irányadó.
 
 ### V. Fejezet — AZ ÁRFIGYELŐ RENDSZER MŰKÖDÉSE
 
@@ -417,23 +574,29 @@ bírságot szab ki.
 
 ### VI. Fejezet — FELSZÁMOLÁSI ELJÁRÁSOKKAL ÖSSZEFÜGGŐ ÁTMENETI SZABÁLYOK
 
-#### 73. §
+73. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényt (a továbbiakban: Cstv.) 2026. december 31-ig a 74–76. §-ban foglalt eltérésekkel és kiegészítésekkel kell alkalmazni, azzal, hogy ha a 74–76. §-ban foglalt rendelkezések alkalmazásával folyó eljárás 2026. december 31-én még folyamatban van, akkor e rendelkezések az eljárás jogerős befejezéséig alkalmazandók.
 
-#### 74. §
+74. § (1) A Cstv. 6. § (5) bekezdésétől eltérően a Cstv. 50. § (6) bekezdése, 60. § (1) és (2) bekezdése, valamint 63/B. § (4) bekezdése szerinti, érdemi döntést tartalmazó végzéseket, valamint az e végzésekkel szemben benyújtott jogorvoslati kérelmeket elbíráló végzéseket a bíróság a Cégközlönyben történő közzététel útján kézbesíti, ha a felszámolási eljárásban nyilvántartásba vett hitelezők száma több mint száz. Ezekben az esetekben a közbenső mérleg, a zárómérleg és az egyszerűsített felszámolás iránti kérelem benyújtásáig a felszámoló köteles a hitelezőket tájékoztatni arról, hogy a bíróság végzése részükre a Cégközlönyben történő közzététel útján kerül kézbesítésre.
 
-#### 75. §
+(2) Az (1) bekezdés szerinti kézbesítés esetén a végzést a Cégközlöny honlapján kell közzétenni. A közzétételre a Cégközlöny honlapján, napi feltöltéssel kerül sor. A közzététel útján történő kézbesítéskor a végzés rendelkező részét a bíróság hirdetőtábláján is közzé kell tenni, és meg kell küldeni a felszámolónak, továbbá a hitelezői választmánynak, illetve a hitelezői képviselőnek. A végzés rendelkező részét a Cégközlöny honlapján két alkalommal, kettőnapos időközökkel kell közzétenni és a második közzététel napján kell kézbesítettnek tekinteni. A közzététel tartalmazza, hogy a végzés teljes szövege a bíróságon átvehető, továbbá, hogy a végzés ellen benyújtott esetleges fellebbezéseket a fellebbezés bírósághoz érkezését követő öt munkanapon belül lehet a bíróságon megtekinteni, és a fellebbezés bírósághoz érkezését követő nyolc munkanapon belül lehet rá észrevételt benyújtani.
 
-#### 76. §
+75. § (1) A Cstv. 30. § (1) bekezdésétől eltérően a felszámoló – a felszámolási eljárás ügyszámára való hivatkozással – elektronikus úton megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezetet, valamint a bírósági végrehajtási ügyek központi nyilvántartását vezető szervet annak megállapításához, hogy a nyilvántartásban az adós javára, vagy érdekében jog vagy tény van-e bejegyezve, vagy erre irányuló eljárás van-e folyamatban, továbbá a nyilvántartás az adós vagyonával vagy kötelezettségeivel összefüggő egyéb adatot tartalmaz-e, ideértve a nyilvántartásból már törölt adatot is. A felszámoló – a felszámolási eljárás ügyszámára való hivatkozással – elektronikus úton megkeresheti a pénzforgalmi szolgáltatót, a befektetési vállalkozót és az árutőzsdei szolgáltatót az adós vagyonára vonatkozó kiegészítő adatszolgáltatás teljesítése érdekében.
 
-77. § (1)
+(2) Az (1) bekezdés szerinti adatszolgáltatást a megkeresett szervezet a kézbesítéstől számított 15 napon belül, térítésmentesen teljesíti.
+
+(3) A felszámoló az adatszolgáltatást a jogszabályban meghatározott feladatainak teljesítése érdekében és az adós jogviszonyainak lezárásához szükséges intézkedések megtételéhez igényelheti és a kapott adatokat e célokra használhatja fel, továbbá megteszi a szükséges intézkedéseket a szolgáltatott adatok biztonságos megőrzése érdekében.
+
+76. § A Cstv. 46. § (7b) és (7c) bekezdésétől eltérően a felszámoló a közbenső mérleghez, a záró mérleghez, továbbá az egyszerűsített felszámolási eljárás kezdeményezésekor, illetve az egyezségi javaslathoz készített jelentéshez csatolt költségkimutatásban – tételes elszámolás nélkül – beszámol a Cstv. 46. § (7a) bekezdése szerint befizetett költségátalány felhasználásáról, összesítve, egy összegben megadva a felhasznált költségátalány összegét is. Ha a felszámolási eljárás során a költségátalányként befizetett összeg nem került teljes mértékben felhasználásra, a felszámoló a zárómérlegben, illetve az egyszerűsített felszámolási eljárás kezdeményezésekor készített vagyonfelosztási javaslatban kezdeményezi a hitelezők részére történő visszafizetést a befizetés arányában.
+
+77. § (1) Azon felszámolási eljárásban, amelyet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 118. § (3), (5) vagy (6) bekezdése alapján, e bekezdés hatálybalépését megelőzően rendeltek el, a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 263/2022. (VII. 27.) Korm. rendelet 4. § (3)–(9) bekezdését az eljárás jogerős befejezéséig alkalmazni kell.
 
 (2)
 
-(3)
+(3) A kényszertörlési eljárás során kezdeményezett olyan felszámolási eljárásban, amelyben a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 587/2022. (XII. 28.) Korm. rendelet (a továbbiakban: 587/2022. Korm. rendelet) 3. § (1) bekezdése szerinti dokumentumok e bekezdés hatálybalépését megelőzően a bíróságnak megküldésre kerültek, az 587/2022. Korm. rendelet szabályait az eljárás jogerős befejezéséig alkalmazni kell.
 
 (4)
 
-#### 78. §
+78. § A 73–76. §-t a hatálybalépésük napján folyamatban lévő felszámolási eljárásokban is alkalmazni kell.
 
 ### VII. Fejezet — A CSECSEMŐGONDOZÁSI DÍJRA, VALAMINT GYERMEKGONDOZÁSI DÍJRA VONATKOZÓ RENDELKEZÉSEK ELTÉRŐ ALKALMAZÁSA A MAGYARORSZÁGI LAKÓHELLYEL NEM RENDELKEZŐ UKRÁN ÁLLAMPOLGÁROK ESETÉBEN
 
@@ -450,29 +613,65 @@ szerinti szálláshelyét állandó lakóhelynek kell tekinteni.
 
 81. § A VII. Fejezet rendelkezéseit az (EU) 2022/382 tanácsi határozat hatályon kívül helyezéséig kell alkalmazni.
 
-### VIII. Fejezet
+### VIII. Fejezet — AZ ORSZÁG VÉDELME ÉS BIZTONSÁGA SZEMPONTJÁBÓL JELENTŐS HONVÉDELMI KIJELÖLÉSŰ INFRASTRUKTÚRÁKRA VONATKOZÓ EGYES ÉPÍTÉSÜGYI SZABÁLYOK
 
-#### 82. §
+82. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.), a közigazgatási perrendtartásról szóló 2017. évi I. törvény, a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.), valamint a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) rendelkezéseit az e Fejezetben meghatározott eltérésekkel kell alkalmazni.
 
-#### 83. §
+83. § (1) E Fejezet alkalmazásában az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrának minősül az olyan, a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vt.) szerinti vasúti pálya, vasúti létesítmény és vasúti pályahálózat és az ezek megvalósítására irányuló építési beruházás (a továbbiakban együtt: vasúti építmény), amelyet a honvédelemért felelős miniszter az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrává jelölt ki a Vbö. alapján.
 
-#### 84. §
+(2) Az (1) bekezdésben foglalt kijelöléstől függetlenül a vasúti építmény eredeti, a Méptv. 2. § (3) bekezdése és 16. § 114. pontja szerinti rendeltetése alapján rá irányadó sajátos építésügyi követelményeket alkalmazni kell.
 
-#### 85. §
+(3) A Vt. szerinti vasúti pálya, vasúti létesítmény és vasúti pályahálózat megvalósítására irányuló állami építési beruházás (a továbbiakban: beruházás) a Vbö. alkalmazásában alapvető szolgáltatásnak, a beruházó alapvető szolgáltatást nyújtó szervezetnek minősül.
 
-#### 86. §
+84. § (1) Az állami beruházásokért felelős miniszter a vasúti építmény célú állami építési beruházás koncepciótervét, valamint a megvalósíthatósági tanulmányát megküldi a honvédelemért felelős miniszter részére.
 
-#### 87. §
+(2) A honvédelemért felelős miniszter az (1) bekezdés szerinti megkeresés alapján 30 napon belül megvizsgálja, hogy fennállnak-e a 83. § (1) bekezdése szerinti kijelölés feltételei a beruházás vagy annak egyes részei vonatkozásában.
 
-#### 88. §
+(3) A honvédelemért felelős miniszter az általa az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrává kijelölt vasúti építményekről az eljáró hatóság és bíróság megkeresésére tájékoztatást ad.
 
-### IX. Fejezet
+85. § (1) A vasúti építmény a 83. § (1) és (2) bekezdése szerinti jellegét valamennyi, a vasúti építménnyel összefüggő engedélyezési eljárásban eljáró hatóság figyelembe veszi.
 
-#### 89. §
+(2) A vasúti építményre a 83. § (2) bekezdése alapján irányadó engedélyezési szabályokat valamennyi építésügyi közigazgatási hatósági engedélyezés során azzal a kiegészítéssel kell alkalmazni, hogy az eljárásban a honvédelemért felelős miniszter szakhatóságként vesz részt.
 
-#### 90. §
+(3) A szakhatósági közreműködés keretében a honvédelemért felelős miniszter azt vizsgálja, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerint vagy további feltételek mellett biztosíthatók-e.
 
-#### 91. §
+86. § (1) Az e Fejezet szerinti, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építménnyel kapcsolatos környezetvédelmi hatósági eljárások tekintetében, ideértve az ezen ingatlanokkal összefüggő környezetvédelmi hatósági ügyeket is, Jász-Nagykun-Szolnok Vármegyei Kormányhivatal az illetékes hatóság.
+
+(2) Az (1) bekezdés szerinti környezetvédelmi hatósági ügyben hozott elsőfokú döntést az első fokon eljáró hatóság fellebbezésre tekintet nélkül azonnal végrehajthatónak nyilváníthatja.
+
+(3) Az (1) bekezdés szerinti környezetvédelmi hatósági üggyel összefüggő építési tevékenység tekintetében a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 26. §-át nem kell alkalmazni, mindaddig, amíg a jogorvoslati jogát – ideértve a jogerős ítélettel szemben benyújtott felülvizsgálati eljárást is – az arra jogosult nem merítette ki.
+
+(4) Az (1) bekezdés szerinti környezetvédelmi hatósági ügyben a Méptv.-től és a Kvt.-től eltérően az ügyintézési határidő tizenöt nap, amelybe nem számít bele a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 8. § (3) bekezdése szerinti közzététel időtartama.
+
+(5) A 83. § (1) bekezdése szerinti kijelölt beruházások megvalósításával összefüggő építésügyi hatósági engedély vagy környezetvédelmi hatósági engedély felülvizsgálatára irányuló közigazgatási perben nincs helye azonnali jogvédelemnek.
+
+87. § Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építményre irányuló beruházás esetében a helyi önkormányzat által megállapított, a fás szárú növényekre vonatkozó követelmények nem alkalmazandók, továbbá a kivágáshoz szükséges engedélyezési hatáskört Jász-Nagykun-Szolnok Vármegye Kormányhivatala gyakorolja.
+
+88. § (1) E Fejezet rendelkezéseit az e Fejezet hatálybalépésekor folyamatban lévő közigazgatási hatósági eljárásokban, valamint a megismételt eljárásokban is alkalmazni kell.
+
+(2) A 86. § (5) bekezdését az e Fejezet hatálybalépését követően előterjesztett keresetlevél alapján indult közigazgatási perekben kell alkalmazni.
+
+(3) Az állami beruházásokért felelős miniszter kezdeményezésére a honvédelemért felelős miniszter 2025. december 31-ig megvizsgálja a már használatba vett vasúti építményeket abból a szempontból, hogy fennállnak-e a feltételei az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrává történő kijelölésnek.
+
+### IX. Fejezet — EGYES KÖZÉRDEKŰ ADATOK NYILVÁNOSSÁGÁVAL KAPCSOLATOS ÁTMENETI SZABÁLYOK
+
+89. § (1) A keletkezésétől számított tíz évig nem nyilvános, tekintettel az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 27. § (5) bekezdésében foglalt – az adatok nyilvánosságának korlátozására vonatkozó – rendelkezésekre
+
+- a) a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet,
+- b) a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet,
+- c) a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet,
+- d) az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet,
+- e) az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet,
+- f) a járványügyi készültség bevezetéséről szóló 283/2020. (VI. 17.) Korm. rendelet szerinti járványügyi készültség, valamint
+- g) a 2019–2022 években az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet
+
+ideje alatt létrehozott Operatív Törzs – ideértve annak munkacsoportját is – (a továbbiakban együtt: Operatív Törzs) feladat- és hatáskörébe tartozó döntés meghozatalára irányuló eljárás során készített vagy rögzített, a döntés megalapozását szolgáló adat, így különösen az Operatív Törzs döntését előkészítő jegyzetben, feljegyzésben, beszámolóban, jelentésben, jegyzőkönyvben rögzített ilyen adat.
+
+(2) Az Operatív Törzs – ideértve annak munkacsoportját is – által, a feladat- és hatáskörébe tartozóan hozott döntéssel összefüggő adat – így különösen az ülésről készült jegyzőkönyvben, összefoglalóban rögzített ilyen adat –, valamint a döntés meghozatalát követően az (1) bekezdés szerint a döntés megalapozását szolgáló adat megismerésére irányuló igény az Infotv. 27. § (6) bekezdése szerint utasítható el.
+
+90. § A 89. § szerinti adattal összefüggésben indult közigazgatási hatósági vagy bírósági eljárásban az adat az iratokhoz nem csatolható, arról másolat nem készíthető, az – legfeljebb az eljárás sikeres lefolytatásához szükséges mértékben – kizárólag az adatot kezelő közfeladatot ellátó szervnek az adatkezelés helyszínéül szolgáló helyiségében tekinthető meg.
+
+91. § E Fejezet rendelkezéseit az e Fejezet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### X. Fejezet — A JELENTŐS TÉRÍTÉSMENTES KIBOCSÁTÁSIEGYSÉG-KIOSZTÁSBAN RÉSZESÜLŐ LÉTESÍTMÉNY ÜZEMELTETŐJÉT ÉRINTŐ EGYES SZABÁLYOK
 
@@ -834,11 +1033,15 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 131. §
 
-#### 22.
+#### 22. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-#### 132. §
+132. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 95/A. §-a helyébe a következő rendelkezés lép:
 
-#### 133. §
+„95/A. § Mentes a végrehajtás alól a Magyar Szénhidrogén Készletező Szövetség tulajdonában álló biztonsági és különleges kőolaj- és földgázkészlet.”
+
+133. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 110. §-a a következő (2) bekezdéssel egészül ki:
+
+„(2) A földgázellátásról szóló 2008. évi XL. törvény 141/L. § (1) bekezdése szerinti elhatárolást végrehajtó gazdasági társaság által kötött földgázszállítási szerződésben meghatározott, a szerződéses partner részére fizetendő földgáz ellenértékét harmadik személy követelésének biztosítása vagy kielégítése céljából lefoglalni, végrehajtás alá vonni, azzal kapcsolatban biztosítási intézkedést elrendelni nem lehet.”
 
 #### 23. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
@@ -894,9 +1097,11 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 150. §
 
-#### 33.
+#### 33. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-#### 151. §
+151. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 38. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Ha az ügyészség a büntetőeljárás során feltételes ügyészi felfüggesztésről hozott határozatát a büntetőeljárásról szóló 2017. évi XC. törvény 836/A. § alapján hozta meg, arra tekintettel, hogy a gyanúsított vállalta, hogy Magyarország területét a határozat közlésétől számított hetvenkét órán belül elhagyja, valamint a határozatban meghatározott időtartamig nem tér vissza, akkor a beutazási és tartózkodási tilalom nyilvántartásba vételéről az ügyészség székhelye szerint illetékes hatóság gondoskodik.”
 
 #### 34. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -1018,9 +1223,15 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 200. §
 
-#### 45.
+#### 45. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-#### 201. §
+201. § (1) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 85. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1a) A határzár tiltott átlépése (352/A. §), a határzár megrongálása (352/B. §), a határzárral kapcsolatos építési munka akadályozása (352/C. §), valamint az embercsempészés (353. §) esetén az öt évet meg nem haladó szabadságvesztés végrehajtása próbaidőre felfüggeszthető.”
+
+(2) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 85. § (2a) bekezdése helyébe a következő rendelkezés lép:
+
+„(2a) A határzár tiltott átlépése (352/A. §), a határzár megrongálása (352/B. §), a határzárral kapcsolatos építési munka akadályozása (352/C. §), valamint az embercsempészés (353. §) esetén a próbaidő tartama két évtől tíz évig terjedhet, de nem lehet rövidebb az ezen bűncselekmények miatt kiszabott kiutasítás tartamánál.”
 
 #### 46. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
@@ -1032,17 +1243,117 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 204. §
 
-#### 48.
+#### 48. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-#### 205. §
+205. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény a következő alcímmel egészül ki:
 
-#### 206. §
+### „Az otthonápolási őrizet elrendelése, fenntartása és megszüntetése, valamint az otthonápolási őrizetben lévő elítélt feltételes szabadságra bocsátására vonatkozó eljárás különös szabályai
 
-#### 207. §
+61/F. § (1) Az otthonápolási őrizet elrendelésére a bv. intézet tesz előterjesztést a büntetés-végrehajtási bírónak.
 
-#### 208. §
+(2) Az otthonápolási őrizet elrendelését a szabadságvesztés végrehajtása alatt az elítélt vagy a védője is kezdeményezheti. A kérelmet a bv. intézet – a bv. orvos véleményével és javaslatával – tizenöt napon belül továbbítja a büntetés-végrehajtási bíróhoz.
 
-#### 209. §
+(3) Az otthonápolási őrizet elrendelése iránti előterjesztés tárgyában a büntetés-végrehajtási bíró az iratok alapján is meghozhatja a döntést azzal, hogy bírósági titkár nem járhat el. Az elítélt vagy a védő által benyújtott kérelem tárgyában – kivéve a (6) bekezdésben meghatározott esetekben, továbbá ha a bv. orvos úgy nyilatkozik, hogy az elítélt egészségi állapota nem teszi lehetővé a meghallgatását – a büntetés-végrehajtási bíró meghallgatást tart.
+
+(4) A büntetés-végrehajtási bíró az egészségügyi feltételek fennállását a bv. orvos véleménye, és az azt megalapozó egyéb egészségügyi dokumentumok alapján állapítja meg, szükség szerint vagy az elítélt, illetve a védő indítványára orvos szakértőt rendelhet ki.
+
+(5) Az otthonápolási őrizet elrendelése esetén a büntetés-végrehajtási bíró jelöli ki az elítélt tartózkodási helyéül szolgáló lakást. A végzésben meghatározza, hogy a kijelölt lakás és a hozzá tartozó bekerített hely elsősorban egészségügyi vizsgálat elvégzése vagy gyógykezelés, kivételesen – a büntetés-végrehajtási pártfogó felé történő előzetes bejelentés alapján – hivatalos ügyek intézése céljából, az ehhez szükséges időtartamban hagyható el, továbbá az elítélt egészségi állapotára figyelemmel az elektronikus távfelügyeleti eszköz alkalmazásának mellőzéséről rendelkezhet.
+
+(6) A büntetés-végrehajtási bíró a kérelmet érdemi vizsgálat nélkül az iratok alapján elutasítja, ha az otthonápolási őrizet elrendelését e törvény kizárja.
+
+(7) Az otthonápolási őrizetet elrendelő végzés ellen az ügyészség által benyújtott fellebbezésnek az otthonápolási őrizet megkezdésére halasztó hatálya van. Az ügyészség a fellebbezésről – a fellebbezés benyújtásával egy időben – értesíti a bv. intézetet.
+
+(8) Ha az otthonápolási őrizet végrehajtása alatt az elítélttel szemben újabb szabadságvesztést kell végrehajtani, és az otthonápolási őrizet megszüntetésének nincs helye, a büntetés-végrehajtási bíró a bv. intézet előterjesztésére az újabb szabadságvesztés tekintetében – annak foganatba vételének napjával – az otthonápolási őrizet fenntartásáról – a 14. § (3) bekezdésének alkalmazása esetén soron kívül – az iratok alapján határoz.
+
+(9) Ha a büntetés-végrehajtási bíró az otthonápolási őrizetet töltő elítélt feltételes szabadságra bocsátását rendelte el, de az elítélttel szemben további szabadságvesztést kell végrehajtani, és az otthonápolási őrizet megszüntetésének nincs helye, a büntetés-végrehajtási bíró az újabb szabadságvesztés tekintetében – annak foganatba vételének napjával – az otthonápolási őrizet fenntartásáról is határoz.
+
+(10) Az elítélt vagy a védő kérelmére a büntetés-végrehajtási bíró az otthonápolási őrizet elrendeléséről szóló határozatnak a lakás kijelölésére, valamint a kijelölt lakás és az ahhoz tartozó bekerített hely elhagyásának feltételeire vonatkozó részét megváltoztathatja, vagy eseti jelleggel engedélyezheti az elítélt meghatározott célból történő eltávozását. A büntetés-végrehajtási bíró a kérelemről öt napon belül, sürgős szükség esetén soron kívül – az iratok alapján – határoz. Az eljárást az otthonápolási őrizet végrehajtására kijelölt lakás elhelyezkedése szerint illetékes büntetés-végrehajtási bíró folytatja le.
+
+(11) Az otthonápolási őrizet megszüntetéséről, illetve az elítélt feltételes szabadságra bocsátásáról a büntetés-végrehajtási bíró a bv. intézet előterjesztésére a 61/B. §, illetve a 61/C. § alkalmazásával iratok alapján is dönthet, azzal, hogy bírósági titkár nem járhat el, továbbá az egészségügyi feltételek megszűnését a bv. orvos véleménye, és az azt megalapozó egyéb egészségügyi dokumentumok alapján állapítja meg, szükség esetén vagy az elítélt, illetve a védő indítványára orvos szakértőt rendelhet ki.
+
+(12) Az otthonápolási őrizet elrendelésével kapcsolatos eljárás bűnügyi költségét az állam viseli.”
+
+206. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 82. §-a a következő 9. ponttal egészül ki:
+
+(E fejezet alkalmazásában)
+
+„9. bv. intézet alatt a büntetés-végrehajtási egészségügyi szervet (a továbbiakban: bv. egészségügyi szerv), valamint a bv. intézet parancsnoka alatt a bv. egészségügyi szerv vezetőjét is érteni kell.”
+
+207. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 187/A. § (1a) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A reintegrációs őrizet időtartama)
+
+„a) egy év, illetve két évet meghaladó tartamú szabadságvesztés esetén legfeljebb a szabadságvesztés fele része, ha az elítéltet gondatlan bűncselekmény elkövetése miatt ítélték szabadságvesztésre,”
+
+208. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény a következő alcímmel egészül ki:
+
+### „Az otthonápolási őrizet
+
+187/H. § (1) Az a súlyos, vélelmezhetően tartósan fennálló krónikus betegségben szenvedő elítélt, aki az alapvető szükségleteinek kielégítésére önállóan képtelen, mindennapi életvitelében folyamatos segítségre, ápolásra szorul, otthonápolási őrizetbe helyezhető, ha van olyan személy, aki írásban tett nyilatkozatban vállalja a gondozását. Az otthonápolási őrizet a szabadságvesztés tartamába beszámít.
+
+(2) Ha megállapítható, hogy az elítélt súlyos, vélelmezhetően tartósan fennálló krónikus betegségben szenved és az (1) bekezdésben meghatározott gondozási szükséglete fennáll, a bv. intézet nyilatkoztatja az elítéltet, hogy van-e olyan személy, aki a gondozását vállalná. Ha van olyan személy, aki az elítélt gondozást írásban vállalja, a bv. orvos az elítélt – szükség szerint szakorvos bevonásával elvégzett – vizsgálata és a rendelkezésre álló egészségügyi dokumentáció alapján véleményt készít, és szakterületi javaslatával a bv. intézet parancsnokának küldi meg, aki intézkedik a 187/B. § (1) bekezdésében foglaltak elvégzése iránt.
+
+(3) Az otthonápolási őrizet végrehajtására civil vagy egyházi fenntartású intézmény is kijelölhető, amihez az intézmény befogadó nyilatkozata szükséges.
+
+(4) Az otthonápolási őrizet elrendelésére irányuló kérelmet az elítélt vagy a védője a végrehajtás során többször is benyújthat. A kérelemhez csatolni kell az elítélt gondozását vállaló személy erre vonatkozó írásbeli nyilatkozatát, továbbá, ha az otthonápolási őrizet végrehajtására kijelölendő lakás nem az elítélt vagy a gondozást vállaló személy tulajdona, a tulajdonos írásbeli hozzájárulását az elhelyezéshez, vagy az intézmény befogadó nyilatkozatát.
+
+(5) Az otthonápolási őrizet elrendelése iránti kérelem elutasítása esetén újabb kérelem akkor terjeszthető elő, ha az elítélt egészségi állapotában – egészségügyi dokumentum által igazoltan – tartós romlás következett be.
+
+(6) Az elítélt vagy a védője kérelmére induló eljárásban a bv. orvos és a bv. intézet parancsnoka a (2) bekezdésben foglaltak szerint jár el.
+
+(7) A bv. orvos szakterületi javaslata arra is kiterjed, hogy az elítélt egészségi állapota
+
+- a) lehetővé teszi-e az elektronikus távfelügyeleti eszköz alkalmazását,
+- b) igényel-e az olyan rendszeres egészségügyi ellátást, amely az elektronikus távfelügyeleti eszköz levételét teszi szükségessé,
+- c) milyen jellegű vizsgálatokat, illetve gyógykezelést igényel, és milyen rendszerességgel kell ezeket elvégezni.
+
+187/I. § Az otthonápolási őrizetre a 187/A–187/F. § rendelkezéseit megfelelően alkalmazni kell azzal, hogy
+
+- a) a 187/A. § (1) bekezdése nem alkalmazható, de az otthonápolási őrizet elrendelése kizárt, ha az elítélt
+  - aa) erőszakos többszörös visszaeső, vagy
+  - ab) életfogytig tartó szabadságvesztésre ítélték,
+- b) a 187/A. § (1a) bekezdése nem alkalmazható azzal, hogy az otthonápolási őrizet megszűnik
+  - ba) az elítélt feltételes szabadságra bocsátásának, vagy
+  - bb) – ha az elítélt feltételes szabadságra nem bocsátható – a szabadságvesztés kitöltésének
+
+napjával,
+
+- c) a 187/C. § (1) bekezdés a) és d) pontjában foglaltakat nem kell alkalmazni,
+- d) a 187/C. § (1) bekezdés e) pontja és a 187/E. § (1) bekezdés c) pontjának első fordulata nem alkalmazható, ha a bv. orvos a szakterületi javaslatban úgy nyilatkozik, hogy az elítélt egészségi állapota nem teszi lehetővé az elektronikus távfelügyeleti eszköz alkalmazását,
+- e) az otthonápolási őrizet végrehajtását az erre kijelölt lakás – ideértve a civil vagy egyházi fenntartású intézményt – elhelyezkedése szerint illetékes büntetés-végrehajtási pártfogó felügyelő ellenőrzi, aki jogosult bekérni a krónikus betegségben szenvedő elítélt vonatkozásában az otthonápolási őrizet ideje alatt keletkezett egészségügyi dokumentumokat, amelyeket haladéktalanul átad a bv. orvosnak,
+- f) az elítéltnek kellő időben jeleznie kell a büntetés-végrehajtási pártfogó felügyelőnek, ha olyan vizsgálatot, gyógykezelést vagy műtétet fognak rajta elvégezni, amely az elektronikus távfelügyeleti eszköz eltávolítását teheti szükségessé,
+- g) a bv. intézet parancsnoka az otthonápolási őrizet megszüntetésére haladéktalanul előterjesztést tesz a büntetés-végrehajtási bírónak abban az esetben is, ha annak tartama alatt
+  - ga) a beszerzett egészségügyi dokumentumok alapján a bv. orvos megállapítja, hogy az elítélt egészségi állapotában olyan mértékű javulás következett be, amely alapján a szabadságvesztés végrehajtása a bv. intézetben folytatható, vagy
+  - gb) az elítélt gondozását vállaló személy a nyilatkozatát visszavonja, és nincs más olyan személy, aki a gondozást vállalja,
+  - gc) az elítélttel szemben olyan újabb szabadságvesztést kell foganatba venni, amely életfogytig tart, vagy az újabb szabadságvesztést kiszabó ügydöntő határozat megállapította, hogy az elítélt erőszakos többszörös visszaeső,
+- h) ha az elítélttel szemben újabb szabadságvesztésről érkezik értesítőlap, és az a) pontban meghatározott feltétel nem áll fenn, a bv. intézet parancsnoka – a 14. § (3) bekezdése alkalmazása esetén haladéktalanul, egyéb esetben két hónappal a foganatba vétel esedékességét megelőzően – előterjesztést tesz a büntetés-végrehajtási bírónak az otthonápolási őrizetnek az újabb szabadságvesztés tekintetében történő fenntartására,
+- i) ha a büntetés-végrehajtási bíró az otthonápolási őrizetben lévő elítélt feltételes szabadságra bocsátását engedélyezte, és az elítélttel szemben újabb szabadságvesztés vár végrehajtásra, a feltételes szabadság mindaddig nem kezdhető meg, amíg az elítélt az újabb szabadságvesztést tölti.”
+
+209. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény „Átmeneti rendelkezések” alcíme a következő 436/E. §-sal egészül ki:
+
+„436/E. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény (a továbbiakban: Mód. tv. 3.) 48. alcíme hatálybalépése előtt a veszélyhelyzet ideje alatt egyes büntetés-végrehajtási szabályok eltérő alkalmazásáról szóló 6/2023. (II. 21.) BM rendeletben foglaltak szerint engedélyezett otthonápolási őrizet hatályában fennmarad, de annak fenntartására, megszűnésére, megszüntetésére, az elítélt feltételes szabadságra bocsátásának elbírálására, valamint a folyamatban lévő ügyekben a Mód. tv. 3. 48. alcíme által bevezetett szabályokat kell alkalmazni.
+
+(2) A Mód. tv. 3. 48. alcíme hatálybalépése előtt az embercsempészés bűncselekmény miatt elítéltek reintegrációs őrizetéről szóló 148/2023. (IV. 27.) Korm. rendelet alapján megkezdett reintegrációs őrizet hatályában fennmarad azzal, hogy
+
+- a) a reintegrációs őrizet a szabadságvesztés utolsó napjával megszűnik,
+- b) ha a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve azt észleli, hogy a reintegrációs őrizet időtartama alatt az elítélt Magyarország területére visszatér, úgy az elítéltet elfogja, és hetvenkét órán belül az elfogás helyéhez legközelebb eső büntetés-végrehajtási intézetbe előállítja, előállításig eltelt idő a szabadságvesztésbe beszámít,
+- c) ha az elítélt a reintegrációs őrizet időtartama alatt Magyarország területére visszatér, úgy a visszatérés napjával – ennek ismerete hiányában a visszatérés észlelésének a napjával – a büntetés-végrehajtás országos parancsnoka az előállítástól számított három munkanapon belül meghozott határozattal a reintegrációs őrizetet megszünteti,
+- d) a reintegrációs őrizet megszüntetése esetén az elítélt köteles letölteni a szabadságvesztés hátralévő részét, amelyből feltételes szabadságra nem bocsátható, továbbá a szabadságvesztés tartama alatt a kiutasítás végrehajtása nyugszik,
+- e) a c) pont szerinti határozattal szemben az elítélt bírósági felülvizsgálati kérelemmel élhet, amelyet a határozat közlésekor nyomban be kell jelenteni, amelynek azonban a határozat végrehajtására halasztó hatálya nincs.
+
+(3) A (2) bekezdés szerinti reintegrációs őrizettel kapcsolatosan a rendőrség általános rendőrségi feladatok ellátására létrehozott szervének központi szerve
+
+- a) az elítélt nevét,
+- b) az elítélt természetes személyazonosító adatait,
+- c) az elítélt arcképmását, útiokmányának számát,
+- d) az elítélt állampolgárságát,
+- e) a reintegrációs őrizet kezdő és befejező időpontját,
+- f) azt az időpontot, amíg az elítéltnek Magyarország területét el kellett hagynia és
+- g) az elítéltnek azt a kötelezettségét, hogy a reintegrációs őrizet befejező időpontja előtt Magyarország területére nem térhet vissza
+
+a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjáig kezeli. Ha a büntetés-végrehajtás országos parancsnoka a reintegrációs őrizetet megszünteti, erről tájékoztatja a rendőrség általános rendőrségi feladatok ellátására létrehozott szervének központi szervét az adatok törlése érdekében.
+
+(4) A (2) bekezdés szerinti reintegrációs őrizettel kapcsolatosan a rendőrség idegenrendészeti szervének központi szerve az elítéltnek a (3) bekezdésben meghatározott adatait, valamint az elítélt ujjnyomat adatát a kiutasítás tartamának leteltét követő öt évig kezeli. Ha a büntetés-végrehajtás országos parancsnoka a reintegrációs őrizetet megszünteti, erről tájékoztatja a rendőrség idegenrendészeti szervének központi szervét annak egyidejű közlésével, hogy az elítélt mikor tölti ki a szabadságvesztést, amely időpontig a kiutasítás végrehajtása nyugszik.”
 
 #### 49. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
@@ -1058,13 +1369,52 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 213. §
 
-#### 52.
+#### 52. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-#### 214. §
+214. § A büntetőeljárásról szóló 2017. évi XC. törvény CVII. Fejezet címe helyébe a következő rendelkezés lép:
 
-#### 215. §
+### „CVII. Fejezet — ELJÁRÁS HATÁRZÁRRAL KAPCSOLATOS BŰNCSELEKMÉNY, VALAMINT KÜLFÖLDI EMBERCSEMPÉSZ ESETÉN”
 
-#### 216. §
+215. § A büntetőeljárásról szóló 2017. évi XC. törvény 827. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A kizárólag a Btk. 353. § (1)–(3) és (6) bekezdése szerint minősülő embercsempészés bűncselekménye miatt indult büntetőeljárásban e törvény rendelkezéseit a 836/A–836/B. §-ban foglalt eltéréssel kell alkalmazni.”
+
+216. § A büntetőeljárásról szóló 2017. évi XC. törvény CVII. Fejezete a következő alcímmel egészül ki:
+
+### „A külföldi embercsempész elleni büntetőeljárás
+
+836/A. § (1) Az ügyészség hivatalból vagy a gyanúsított, illetve a védő indítványára a 827. § (3) bekezdése szerinti embercsempészés miatt indult eljárást a 836/B. § (1) bekezdésben meghatározott büntethetőséget megszüntető ok alkalmazhatósága érdekében felfüggeszti, ha
+
+- a) a gyanúsított külföldi állampolgárságú és vele szemben a kiutasítás elrendelése a Btk. 59. § (2) vagy (3) bekezdése alapján nem kizárt, valamint a kiutasítás végrehajthatósága sem lenne kizárt,
+- b) a gyanúsított a bűnösségét beismeri és az elkövetés körülményeit feltárja, valamint
+- c) a gyanúsított vállalja, hogy Magyarország területét a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon elhagyja, továbbá a határozatban meghatározott időtartamig nem tér vissza, és a vállalt kötelezettség teljesítésével kapcsolatban észszerű kétség nem merül fel.
+
+(2) Az (1) bekezdés alapján az eljárás nem függeszthető fel, ha a gyanúsított
+
+- a) többszörös visszaeső vagy a bűncselekményt az embercsempészés miatt végrehajtandó szabadságvesztésre ítélését követően, a büntetés kitöltésétől vagy végrehajthatósága megszűnésétől számított három éven belül követte el,
+- b) a bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetve próbára bocsátás vagy feltételes ügyészi felfüggesztés tartama alatt követte el, vagy
+- c) az embercsempészést fegyveresen követte el.
+
+(3) Az ügyészség a határozat meghozatala előtt az idegenrendészeti hatóság előzetes véleményének beszerzésével gondoskodik annak tisztázásról, hogy a harmadik országbeli állampolgárságú gyanúsított idegenrendészeti kiutasításának a feltételei a rendelkezésre álló adatok alapján fennállnak-e.
+
+(4) Az ügyészség az (1) bekezdés alapján az eljárást egy alkalommal, a Btk. Különös Része által meghatározott büntetési tétel felső határának megfelelő időre függeszti fel.
+
+(5) A határozatban figyelmeztetni kell a gyanúsítottat a 836/B. §-ban meghatározott következményekre.
+
+(6) Az (1) bekezdés a)–c) pontjában meghatározott feltételek fennállása esetén feltételes ügyészi felfüggesztésnek a 416. § (2) bekezdése alapján nincs helye és a gyanúsítottal szemben pártfogó felügyelet sem alkalmazható.
+
+(7) Ha (3) bekezdés szerinti előzetes vélemény alapján a harmadik országbeli állampolgárságú gyanúsított idegenrendészeti kiutasítása rendelhető el, az ügyészség a rendőrség útján intézkedik a gyanúsított területileg illetékes idegenrendészeti hatóság elé állítása iránt.
+
+836/B. § (1) A 836/A. §-ban meghatározott esetben a gyanúsított nem büntethető az ott meghatározott embercsempészés miatt, ha a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon elhagyta Magyarországot, valamint a határozatban meghatározott időtartamig nem tért vissza, kivéve, ha
+
+- a) a feltételes ügyészi felfüggesztés elrendelése törvénysértő volt, vagy
+- b) a (2) bekezdés alapján az eljárás folytatását kell elrendelni.
+
+(2) Ha az eljárás megszüntetésének vagy más okból történő felfüggesztésének nincs helye, az ügyészség az eljárás folytatását rendeli el, ha
+
+- a) a gyanúsított vagy − a gyanúsított hozzájárulásával − a védő a feltételes ügyészi felfüggesztés ellen panasszal él,
+- b) a gyanúsítottat a feltételes ügyészi felfüggesztés tartama alatt elkövetett szándékos bűncselekmény miatt a feltételes ügyészi felfüggesztés tartama alatt gyanúsítottként hallgatják ki, ideértve azt is, ha a megalapozott gyanú közlése a gyanúsított ismeretlen helyen vagy külföldön tartózkodása miatt nem lehetséges, vagy
+- c) a gyanúsított Magyarország területét a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon nem hagyja el, vagy a feltételes ügyészi felfüggesztés tartama alatt Magyarország területére visszatér.”
 
 #### 53. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -1118,11 +1468,17 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 236. §
 
-#### 59.
+#### 59. A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény módosítása
 
-#### 237. §
+237. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 121. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 238. §
+„(2) A beutazási és tartózkodási tilalom elrendelhető
+
+- a) önállóan,
+- b) kiutasításhoz kapcsolódóan, vagy
+- c) a büntetőeljárásról szóló 2017. évi XC. törvény 836/A. § alapján elrendelt feltételes ügyészi felfüggesztésről hozott határozat alapján, ha a kiutasítás elrendelésére nem kerül sor.”
+
+238. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 121. § (3) bekezdésében a „szól.” szövegrész helyébe a „szól. A beutazási és tartózkodási tilalom a feltételes ügyészi felfüggesztésről hozott határozat esetén a felfüggesztés időtartamára szól.” szöveg lép.
 
 #### 60. A magyar építészetről szóló 2023. évi C. törvény módosítása
 
@@ -1144,9 +1500,12 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 247. §
 
-#### 61.
+#### 61. Egyes törvényi rendelkezések hatályon kívül helyezése
 
-#### 248. §
+248. § Hatályát veszti
+
+- a) a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 85. alcíme,
+- b) a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 72. alcíme.
 
 #### 62. Egyes veszélyhelyzeti kormányrendeletek hatályon kívül helyezése
 
@@ -1154,13 +1513,94 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2)
 
-(3)
+(3) Hatályát veszti
 
-#### 63.
+- 1. a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 263/2022. (VII. 27.) Korm. rendelet,
+- 2. az egyes közérdekű adatok nyilvánosságával kapcsolatos jogok veszélyhelyzet idején történő gyakorlásáról szóló 356/2022. (IX. 19.) Korm. rendelet,
+- 3. a magyarországi gazdasági társaságok gazdasági célú védelméhez szükséges egyes rendelkezések veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 561/2022. (XII. 23.) Korm. rendelet,
+- 4. a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 587/2022. (XII. 28.) Korm. rendelet,
+- 5. a veszélyhelyzetre tekintettel egyes felszámolási tárgyú rendelkezések eltérő alkalmazásáról szóló 589/2022. (XII. 28.) Korm. rendelet,
+- 6. a veszélyhelyzet ideje alatt egyes büntetés-végrehajtási szabályok eltérő alkalmazásáról szóló 3/2023. (I. 12.) Korm. rendelet,
+- 7. az embercsempészés bűncselekmény miatt elítéltek reintegrációs őrizetéről szóló 148/2023. (IV. 27.) Korm. rendelet,
+- 8. a honvédelmi és katonai célú építményekre vonatkozó előírások veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 381/2023. (VIII. 10.) Korm. rendelet,
+- 9. a veszélyhelyzet ideje alatt Magyarország ellátásbiztonságának garantálása érdekében szükséges intézkedések kiegészítéséről szóló 117/2024. (V. 30.) Korm. rendelet.
 
-#### 250. §
+#### 63. Egyéb kormányrendeletek hatályon kívül helyezése
+
+250. § Hatályát veszti a magyarországi székhelyű gazdasági társaságok gazdasági célú védelméhez szükséges tevékenységi körök meghatározásáról szóló 289/2020. (VI. 17.) Korm. rendelet.
 
 ### 1. melléklet a 2025. évi L. törvényhez
+
+#### A MAGYARORSZÁGI SZÉKHELYŰ GAZDASÁGI TÁRSASÁGOK GAZDASÁGI CÉLÚ VÉDELMÉHEZ SZÜKSÉGES INTÉZKEDÉSEKRE VONATKOZÓ ÁTMENETI SZABÁLYOK
+
+Stratégiai jelentőségű ágazatok
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1. | Szektor | TEÁOR’25 kód | Ágazat |
+| 2. | Vegyi szektor | 19 | Kokszgyártás, kőolaj-feldolgozás |
+| 3. |  | 20 | Vegyi anyag, termék gyártása |
+| 4. |  | 21 | Gyógyszergyártás |
+| 5. | Kereskedelmi létesítmények | 46 | Nagykereskedelem |
+| 6. |  | 47 | Kiskereskedelem |
+| 7. | Kommunikációs szektor | 58 | Kiadói tevékenység |
+| 8. |  | 59 | Film, videó, televízióműsor gyártása, hangfelvétel készítése és kiadása |
+| 9. |  | 60 | Műsor-összeállítás, műsorszolgáltatás, hírügynökségi és egyéb tartalomterjesztési tevékenység |
+| 10. |  | 61 | Távközlés |
+| 11. | Kritikus ipari szektor | 24 | Fém alapanyag gyártása |
+| 12. | (benne az elektronika, a gépipar, az | 25 | Fémfeldolgozási termék gyártása |
+| 13. | acélgyártás és a közlekedési | 26 | Számítógép, elektronikai, optikai termék gyártása |
+| 14. | eszközök gyártása) | 27 | Villamos berendezés gyártása |
+| 15. |  | 28 | Gép, gépi berendezés gyártása |
+| 16. |  | 29 | Közúti jármű gyártása |
+| 17. |  | 30 | Egyéb jármű gyártása |
+| 18. | Védelmi ipar | 25.3 | Fegyver-, lőszergyártás |
+| 19. |  | 30.4 | Katonai harci jármű gyártása |
+| 20. | Gátak | 42.91 | Vízi létesítmény építése |
+| 21. | Energiaszektor | 35 | Villamosenergia-, gáz-, gőzellátás, légkondicionálás |
+| 22. | Veszélyhelyzethez kapcsolódó | 84.22 | Honvédelem |
+| 23. | szolgáltatások | 84.24 | Közbiztonság, közrend |
+| 24. |  | 84.25 | Tűzvédelem |
+| 25. | Pénzügyi szektor | 64 | Pénzügyi szolgáltatás (kivéve: biztosítási, nyugdíjpénztári tevékenység) |
+| 26. |  | 65 | Biztosítás, viszontbiztosítás, nyugdíjalapok (kivéve: kötelező társadalombiztosítás) |
+| 27. | Élelmiszerágazat és mezőgazdaság | 10 | Élelmiszergyártás |
+| 28. |  | 11 | Italgyártás |
+| 29. |  | 12 | Dohánytermék gyártása |
+| 30. |  | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
+| 31. |  | 02 | Erdőgazdálkodás |
+| 32. |  | 03 | Halászat, akvakultúra |
+| 33. |  | 68.20 | Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése – kizárólag abban az esetben, ha a mező- és erdőgazdálkodási földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 17. pontja szerinti mező-, erdőgazdasági hasznosítású föld vonatkozásában is végzi |
+| 34. | Kormányzati létesítmények | 84 | Közigazgatás, védelem, kötelező társadalombiztosítás |
+| 35. | Egészségügy | 86 | Humánegészségügyi ellátás |
+| 36. |  | 87 | Bentlakásos ellátás |
+| 37. |  | 88 | Szociális ellátás, bentlakás nélkül |
+| 38. | Információs technológia | 62 | Információtechnológiai szolgáltatás |
+| 39. |  | 63 | Számítástechnikai infrastruktúra, adatfeldolgozás, tárhelyszolgáltatás és egyéb információs szolgáltatási tevékenységek |
+| 40. | Nukleáris szektor | 24.46 | Nukleáris fűtőanyag gyártása |
+| 41. | Építőipar | 41 | Lakó- és nem lakóépület építése |
+| 42. |  | 42 | Egyéb építmény építése |
+| 43. |  | 43 | Speciális szaképítés |
+| 44. | Vízellátás és szennyvíz-szolgáltatás | 36 | Víztermelés, -kezelés, -ellátás |
+| 45. |  | 37 | Szennyvíz gyűjtése, kezelése |
+| 46. | Hulladékgazdálkodás | 38 | Hulladékgazdálkodás |
+| 47. |  | 39 | Szennyeződésmentesítés, egyéb hulladékkezelés |
+| 48. | Építőalapanyag-ipar | 23 | Nemfém ásványi termék gyártása |
+| 49. | Közlekedés, szállítás, logisztika | 49 | Szárazföldi, csővezetékes szállítás |
+| 50. |  | 50 | Vízi szállítás |
+| 51. |  | 51 | Légi szállítás |
+| 52. |  | 52 | Raktározás, tárolás, szállítást kiegészítő tevékenység |
+| 53. |  | 53 | Postai, futárpostai tevékenység |
+| 54. | Orvosi eszköz gyártása | 32.5 | Orvosi eszköz gyártása |
+| 55. | Turizmus | 55 | Szálláshely-szolgáltatás |
+| 56. |  | 56 | Vendéglátás |
+| 57. | Adminisztratív és szolgáltatást támogató tevékenység | 78.2 | Munkaerő-kölcsönzés, egyéb emberierőforrás-ellátás, -gazdálkodás |
+| 58. | Kritikus jelentőségű nyersanyag | 05 | Szénbányászat |
+| 59. |  | 06 | Kőolaj-, földgázkitermelés |
+| 60. |  | 07 | Fémtartalmú érc bányászata |
+| 61. |  | 08 | Egyéb bányászat |
+| 62. |  | 09 | Bányászati szolgáltatás |
+| 63. | Oktatás | 85.40 | Felsőoktatás |
+| 64. |  | 85.69 | M.n.s. oktatást kiegészítő tevékenység |
 
 ### 2. melléklet a 2025. évi L. törvényhez
 

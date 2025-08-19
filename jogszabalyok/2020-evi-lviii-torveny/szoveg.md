@@ -1995,164 +1995,41 @@ korlátozhatja.
 
 #### 275. §
 
-#### 85. Az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása érdekében a magyarországi székhelyű gazdasági társaságok gazdasági célú védelméhez szükséges intézkedések
+#### 85.
 
-276. § Ezen alcím alkalmazásában
+#### 276. §
 
-- 1. államérdek: az ágazati európai uniós és nemzeti jog által nem szabályozott, a hálózatok és berendezések biztonságára és működőképességére, valamint az ellátás folyamatosságára vonatkozó közérdek;
-- 2. külföldi befektető:
-  - a) a 277. § (2) bekezdése szerinti meghatározott tevékenységet folytató, magyarországi székhelyű gazdasági társaságban meghatározott tulajdonrészt, illetve befolyást szerző belföldön, az Európai Unió más tagállamában, az Európai Gazdasági Térség más tagállamában vagy a Svájci Államszövetségben bejegyzett jogi személy vagy egyéb szervezet, ha a jogi személyben vagy egyéb szervezetben a Polgári Törvénykönyvről szóló törvény szerinti többségi befolyással rendelkező személy az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen kívüli állam állampolgára vagy ilyen államban bejegyzett jogi személy vagy egyéb szervezet,
-  - b) az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen kívüli állam állampolgára vagy ilyen államban bejegyzett jogi személy vagy egyéb szervezet;
-- 3. stratégiai társaság: olyan magyarországi székhelyű korlátolt felelősségű társaság, zártkörűen működő részvénytársaság, vagy nyilvánosan működő részvénytársaság, amely a Kormány rendeletében meghatározott főtevékenységként vagy további tevékenységi körként végzett tevékenysége az energia-, a közlekedés, a kommunikáció ágazatba, valamint az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a)–e) pontja szerinti – ide nem értve a pénzügyi infrastruktúrát – stratégiai jelentőségű ágazatba tartozik.
+#### 277. §
 
-277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés szükséges a létrejött jogügyletekkel összefüggésben:
+#### 278. §
 
-- a) stratégiai társaságban fennálló tulajdoni részesedés részben, vagy egészben, bármilyen tulajdonjog átruházási jogcímen – ideértve az apportálást is –, ingyenesen vagy visszterhesen történő átruházása,
-- b) stratégiai társaságban történő tőkeemelés,
-- c) stratégiai társaság átalakulása, egyesülése, szétválása,
-- d) stratégiai társaság által átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvény kibocsátása,
-- e) stratégiai társaság részvényén, üzletrészén haszonélvezeti jog alapítása.
+#### 279. §
 
-(2) A 276. § 3. pontjában megjelölt ágazatokban köteles bejelenteni, ha a befektetés összértéke eléri vagy meghaladja a 350 millió forintot
+#### 280. §
 
-- a) a 276. § 2. pont a) alpontja szerinti külföldi befektető, valamint az Európai Unió más tagállamában, az Európai Gazdasági Térség más tagállamában vagy a Svájci Államszövetségben bejegyzett jogi személy vagy egyéb szervezet, illetve az Európai Unió más tagállamának, az Európai Gazdasági Térség más tagállamának vagy a Svájci Államszövetségnek állampolgára, ha
-  - aa) az (1) bekezdés a)–c) pontja szerinti jogügylet alapján közvetlenül vagy közvetett módon a stratégiai társaságban tulajdonrész megszerzése (a továbbiakban: tulajdonszerzés),
-  - ab) az (1) bekezdés d) pontja szerinti egyoldalú jognyilatkozat alapján közvetlenül vagy közvetett módon olyan kötvény tulajdonjogának a megszerzése, amelynek az átváltoztatása, átváltozása vagy az annak alapján történő részvényjegyzése (a továbbiakban: kötvény tulajdonjogának megszerzése), vagy
-  - ac) az (1) bekezdés e) pontja szerinti szerződés vagy egyoldalú jognyilatkozat alapján közvetlenül vagy közvetett módon tulajdoni hányadot megtestesítő üzletrészen vagy részvényen haszonélvezeti jog megszerzése (a továbbiakban együtt: haszonélvezeti jog megszerzése) következtében a stratégiai társaságban közvetlenül vagy közvetett módon a Polgári Törvénykönyvről szóló törvény szerinti többségi befolyást szerez,
-- b) a 276. § 2. pontja szerinti külföldi befektető a tulajdonszerzés, a kötvény tulajdonjogának megszerzése, vagy a haszonélvezeti jog megszerzése következtében a stratégiai társaságban közvetlenül vagy közvetetten legalább 10%-os részesedést szerez.
+#### 281. §
 
-(3) A bejelentési kötelezettség akkor is fennáll, ha a 276. § 2. pontja szerinti külföldi befektető a tulajdonszerzés, a kötvény tulajdonjogának megszerzése, illetve a haszonélvezeti jog megszerzése következtében a 276. § 3. pontjában megjelölt ágazatba tartozó stratégiai társaságban 15%-os, 20%-os vagy 50%-os részesedést szerez, vagy ha a 276. § 2. pontja szerinti külföldi befektető a tulajdonszerzésével, a kötvény tulajdonjogának megszerzésével, illetve a haszonélvezeti jog megszerzésével a 276. § 3. pontjában megjelölt ágazatba tartozó stratégiai társaságban – a nyilvánosan működő részvénytársaság kivételével – a külföldi befektetők együttes részesedése meghaladja a 25%-ot.
+#### 282. §
 
-(4) A miniszterhez tett bejelentés és a bejelentés tudomásulvétele szükséges a 276. § 3. pontjában megjelölt ágazatokba tartozó tevékenység folytatásához nélkülözhetetlen infrastruktúrák, berendezések és eszközök átruházása, használati vagy működtetési jogának átengedése vagy ilyen vagyontárgyak biztosítékba adása (a továbbiakban együtt: üzemeltetési jog) esetén is, ha az üzemeltetési jogot külföldi befektető vagy olyan jogi személy vagy szervezet szerzi meg, amelyben a külföldi befektető közvetlenül vagy közvetetten a Polgári Törvénykönyvről szóló törvény szerint meghatározó befolyással rendelkezik.
+#### 283. §
 
-(5) Ezen alcím rendelkezései nem alkalmazhatók, ha a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött (1) bekezdés szerint jogügylet a külföldi székhelyű jogi személy vagy egyéb szervezet stratégiai társaságnak minősülő magyarországi székhelyű leányvállalata tekintetében eredményezi a (2)–(4) bekezdésében foglaltakat.
+#### 284. §
 
-(6) Ezen alcím rendelkezései nem alkalmazhatóak, ha a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött (1) bekezdés szerinti jogügylet a számvitelről szóló 2000. évi C. törvény szerinti kapcsolt vállalkozások tekintetében jön létre.
+#### 285. §
 
-278. § (1) A miniszter az e § szerinti eljárást magyar nyelvű, vagy magyar nyelvű hiteles fordítású bejelentés alapján folytatja le. A bejelentési kötelezettség megsértése esetén az eljárás lefolytatásának utólagos bejelentés alapján vagy hivatalból is helye van.
+#### 286. §
 
-(2) A bejelentést
+#### 287. §
 
-- a) a tulajdonszerzésre irányuló jogügylet létrejöttét,
-- b) a kötvény tulajdonjogának megszerzésére irányuló jogügylet létrejöttét,
-- c) a haszonélvezeti jog megszerzésére irányuló jogügylet létrejöttét, vagy
-- d) az üzemeltetési jog megszerzésére irányuló jogügylet létrejöttét
+#### 288. §
 
-követő 10 napon belül kell benyújtani a miniszternek.
+#### 289. §
 
-(3) A bejelentést a külföldi befektető, az Európai Unió más tagállamában, az Európai Gazdasági Térség más tagállamában vagy a Svájci Államszövetségben bejegyzett jogi személy vagy egyéb szervezet, illetve az Európai Unió más tagállamának, az Európai Gazdasági Térség más tagállamának vagy a Svájci Államszövetségnek állampolgára, a (2) bekezdés d) pontja esetén, ha az üzemeltetési jogot nem a külföldi befektető szerzi meg, az üzemeltetési jogot megszerző jogi személy vagy szervezet és a külföldi befektető a bejelentést közösen köteles benyújtani (a továbbiakban: bejelentő).
+#### 290. §
 
-(4) A miniszter előtti eljárásban a jogi képviselet kötelező.
+#### 291. §
 
-(5) A bejelentő által aláírt és a jogi képviselő által – a jogi képviselő tevékenysége során használandó, törvényben előírt – elektronikus aláírással ellátott bejelentést elektronikus úton a miniszternek címezve kell benyújtani.
-
-(6) A bejelentési kötelezettség nem érinti a más jogszabályban meghatározott, a tulajdonszerzéssel, haszonélvezeti jog megszerzésével, kötvény tulajdonjogának megszerzésével, üzemeltetési jog megszerzésével összefüggő bejelentési vagy engedélyezési kötelezettséget.
-
-279. § (1) A bejelentésnek tartalmaznia kell
-
-- a) a bejelentő természetes személy
-  - aa) természetes személyazonosító adatait és magyarországi lakcímadatát vagy magyarországi lakcímadat hiányában külföldi lakó- vagy tartózkodási helyét,
-  - ab) állampolgárságát, valamint
-  - ac) elektronikus vagy postai kapcsolattartásra szolgáló elérhetőségét,
-- b) a bejelentő jogi személy vagy egyéb szervezet
-  - ba) nevét, székhelyét és – ha van – magyarországi fióktelepének címét,
-  - bb) hivatalos nyilvántartásával kapcsolatos feladatokat ellátó állam megjelölését,
-  - bc) elektronikus vagy postai kapcsolattartásra szolgáló elérhetőségét, valamint
-- c) a bejelentő képviseletében eljáró jogi képviselő adatait.
-
-(2) A bejelentéshez elektronikus úton mellékelni kell
-
-- a) a jogügylet részletes leírását,
-- b) a tulajdonszerzésre, a kötvény tulajdonjogának megszerzésére, a haszonélvezeti jog megszerzésére, az üzemeltetési jog megszerzésére irányuló jogügylet, és az azok szempontjából releváns és lényeges körülmények részletes leírását,
-- c) a jogügylettel összefüggésben keletkezett iratokat, ideértve a jogügyletet tartalmazó okiratot és kapcsolódó társasági iratot, amelyek alapján megállapítható a külföldi befektető és a külföldi befektetőben részesedéssel rendelkező jogi személyek tulajdonosi szerkezete, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerint meghatározott tényleges tulajdonos, a tulajdonszerzésre, a kötvény tulajdonjogának megszerzésére, a haszonélvezeti jog megszerzésére, az üzemeltetési jog megszerzésére irányuló jogügylet alapjául szolgáló valamennyi okiratot, valamint ezekkel kapcsolatban létrejött társasági iratokat, határozatokat.
-
-280. § A bejelentéssel összefüggésben a miniszter a bejelentő jogi képviselőjével, szükség esetén a bejelentővel a bejelentésben megjelölt elérhetőségen elektronikus úton tart kapcsolatot. Ha a bejelentésben megjelölt elérhetőségen sem a jogi képviselő, sem a bejelentő nem elérhető, ennek következménye a bejelentőt terheli.
-
-281. § A bejelentés megérkezéséről a miniszter haladéktalanul, de legfeljebb nyolc napon belül elektronikus úton írásbeli értesítést küld, amely tartalmazza
-
-- a) a bejelentés megérkezésének napját,
-- b) a bejelentő nevét és jogi képviselőjét,
-- c) annak megjelölését, hogy tulajdonszerzésére, kötvény tulajdonjogának megszerzésére, haszonélvezeti jog megszerzésére, üzemeltetési jog megszerzésére került-e sor, valamint
-- d) az arra vonatkozó figyelemfelhívást, hogy az értesítés csak a bejelentés megérkezésének tényéről szól és nem tekinthető a bejelentés tudomásulvételének.
-
-282. § (1) A 283. § (1) bekezdés a) pontja szerinti vizsgálat alapján a miniszter a bejelentésben és mellékleteiben meg nem adott további adatok és információk közlését, illetve a bejelentéshez nem mellékelt további iratok eredeti vagy hiteles másolati példányának – idegen nyelvű irat esetén magyar nyelvű hiteles fordításával együttes – benyújtását kérheti a bejelentőtől, legalább 3 napos, de legfeljebb 10 napos vagy a bejelentőtől eltérő természetes személytől, jogi személytől vagy egyéb szervezettől legfeljebb 20 napos határidő tűzésével.
-
-(2) Az (1) bekezdés szerinti felhívás eredménytelensége esetén a miniszter a benyújtott iratok alapján vizsgálja meg a bejelentést.
-
-283. § (1) A miniszter a bejelentés megérkezését követően haladéktalanul megvizsgálja, hogy
-
-- a) a bejelentés megfelel-e a 279. §-ban rögzített feltételeknek,
-- b) a bejelentő által a tulajdonszerzés, a kötvény tulajdonjogának megszerzése, a haszonélvezeti jog megszerzése, az üzemeltetési jog megszerzése esetén fennáll-e Magyarország államérdekének, közbiztonságának, közrendjének sérelme vagy veszélyeztetése, illetve ezek bekövetkezésének lehetősége, különös tekintettel az alapvető társadalmi szükségletek ellátásának biztonságára, összhangban az Európai Unió Működéséről szóló szerződés 36., 52. (1) és 65. (1) cikkeivel,
-- c) a bejelentő közvetlenül vagy közvetve nem az Európai Unióhoz tartozó állam közigazgatási szervének – beleértve az állami szerveket vagy a fegyveres erőket is – ellenőrzése alatt áll-e, akár tulajdonosi szerkezete vagy akár jelentős finanszírozása révén,
-- d) a bejelentő az Európai Unió egyik tagállamában már érintett volt-e biztonságot vagy közrendet érintő tevékenységben, illetve
-- e) fennáll-e komoly kockázata annak, hogy a bejelentő illegális vagy bűncselekménybe ütköző tevékenységet fog folytatni.
-
-(2) A miniszter legkésőbb a bejelentés megérkezésétől számított 30 munkanapon – vagy a (3) bekezdés szerinti esetben az ott meghatározott határidőn – belül, ha az (1) bekezdés b)–e) pontjában meghatározott körülmény
-
-- a) nem áll fenn, a bejelentés tudomásulvételét írásban visszaigazolja, vagy
-- b) fennáll, a tulajdonszerzést, a kötvény tulajdonjogának megszerzését, a haszonélvezeti jog megszerzését, az üzemeltetési jog megszerzését megtiltja (a továbbiakban együtt: tiltó döntés).
-
-(3) Különösen indokolt esetben a miniszter a (2) bekezdés szerinti ellenőrzés időtartamát legfeljebb tizenöt nappal meghosszabbíthatja, amelyről a bejelentőt – a tizenöt napos határidő letelte előtt – írásban értesíti.
-
-284. § (1) A miniszter a tiltó döntést köteles megindokolni. Az indokolásban meg kell jelölni, hogy a tulajdonszerzés, a kötvény tulajdonjogának megszerzése, a haszonélvezeti jog megszerzése, az üzemeltetési jog megszerzése által a 283. § (1) bekezdés b) pontja szerinti mely érdek sérül vagy veszélyeztetett, illetve a 283. § (1) bekezdés mely pontjába való ütközést állapított meg. Az indokolásban fel kell hívni a kérelmező figyelmét a tiltó döntés elleni jogorvoslat ezen alcím szerinti szabályaira.
-
-(2) A tiltó döntés indokolása minősített adatot nem tartalmazhat.
-
-285. § (1) A bejelentő a tiltó döntést az eljárás lényeges szabályainak megsértése miatt, valamint a 284. § szerinti minősítéssel összefüggésben közigazgatási nemperes eljárásban megtámadhatja. Az eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
-
-(2) Az eljárásban a jogi képviselet kötelező.
-
-(3) A kérelemről a bíróság a kérelem beérkezését követő 30 napon belül dönt. Ha a bíróság a jogsértést megállapítja, a határozatot hatályon kívül helyezi, és a minisztert új eljárásra kötelezi. Azonnali jogvédelem biztosításának az eljárásban nincs helye.
-
-(4) A miniszter a bejelentő személyes adatait az eljárás során, valamint a bejelentés ellenőrzése céljából
-
-- a) tiltó döntés meghozatala esetén a bejelentés benyújtását követő 5 évig, bírósági jogorvoslati eljárás esetén annak jogerős befejezésétől számított 5 évig,
-- b) a bejelentés tudomásulvételének visszaigazolása esetén a külföldi befektető tulajdonjoga, haszonélvezeti joga vagy a kötvény tulajdonjoga fennállása idejéig, de legfeljebb 5 évig
-
-kezeli.
-
-286. § (1) A bejelentési kötelezettség teljesítését a miniszter ellenőrzi.
-
-(2) Ha az (1) bekezdés szerinti ellenőrzés során megállapítást nyer, hogy a bejelentő az ezen alcím szerinti bejelentési kötelezettségét nem teljesítette, a miniszter a 287. § szerint bírságot szab ki, és ha
-
-- a) a bejelentő általi tulajdonszerzéssel, kötvény tulajdonjogának megszerzésével, a haszonélvezeti jog megszerzésével, az üzemeltetési jog megszerzésével összefüggésben nem áll fenn a 283. § (1) bekezdés b)–e) pontja szerinti körülmény, a bejelentés tudomásulvételét írásban visszaigazolja,
-- b) a bejelentő általi tulajdonszerzéssel, kötvény tulajdonjogának megszerzésével, a haszonélvezeti jog megszerzésével, az üzemeltetési jog megszerzésével összefüggésben fennáll a 283. § (1) bekezdés b)–e) pontja szerinti körülmény, tiltó döntést hoz.
-
-(3) Az (1) bekezdés szerinti ellenőrzés határidejére a 283. § (2) és (3) bekezdését kell megfelelően alkalmazni.
-
-(4) Nem folytatható hatósági ellenőrzés, illetve a jogsértés megállapítására irányuló eljárás a bejelentés elmulasztása miatt, ha a tulajdonszerzésnek, a haszonélvezeti jog megszerzésének, a kötvény tulajdonjogának megszerzésének, az üzemeltetési jog megszerzésének a miniszter tudomására jutásától számított 6 hónap, de legkésőbb a körülményektől számított 5 év eltelt.
-
-287. § (1) Azt, aki a bejelentéssel összefüggő kötelezettségét megszegi, ha a cselekménye bűncselekményt nem valósít meg, valamint ezen alcím szerinti érvénytelenség fennállása mellett a miniszter – az eset összes körülményének vizsgálatával – a tranzakció értékének kétszereséig terjedő, de
-
-- a) természetes személy külföldi befektető esetén legalább 100 000 forintot meghaladó,
-- b) jogi személy vagy egyéb szervezet külföldi befektető esetén legalább a tulajdonszerzéssel, a kötvény tulajdonjogának megszerzésével, a haszonélvezeti jog megszerzésével, az üzemeltetési jog megszerzésével érintett stratégiai társaság legutolsó üzleti évében elért nettó árbevételének 1%-át meghaladó
-
-közigazgatási bírsággal sújthatja.
-
-(2) A bírság megfizetésére fizetési kedvezmény nem engedélyezhető.
-
-288. § A bejelentésre – az ezen alcímben foglalt eltérésekkel – megfelelően alkalmazni kell az általános közigazgatási rendtartásról szóló törvénynek a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, továbbá a költségmentességre vonatkozó rendelkezéseit azzal, hogy ahol az általános közigazgatási rendtartásról szóló törvény ügyfelet említ, azon a bejelentőt kell érteni.
-
-289. § (1) A bejelentés tudomásulvételéről szóló visszaigazolásokról, valamint a tiltó döntésekről a miniszter nyilvántartást vezet.
-
-(2) Az (1) bekezdés szerinti nyilvántartásban rögzített adatokat a 286. § (4) bekezdésében megjelölt határidő elteltével törölni kell.
-
-290. § (1) A 277. § (1) bekezdés a)–c) pontjai és a 277. § (2) és (3) bekezdése szerinti esetben a stratégiai társaság részvénykönyvébe, illetve tagjegyzékébe való bejegyzésre irányuló kérelmet a bejelentés tudomásulvétele visszaigazolásának birtokában lehet benyújtani. A bejelentés tudomásulvétele visszaigazolásának hiányában vagy ha a miniszter tiltó döntést hozott, a szerző fél a részvénykönyvbe nem jegyezhető be, illetve a tagjegyzékben nem tüntethető fel, a jogügylet tárgyát képező részesedések alapján a stratégiai társaságban semmilyen jogot nem gyakorolhat.
-
-(2) A stratégiai társaság a 277. § (1) bekezdésben megjelölt jogügylettel összefüggő, a Ctv. szerinti változásbejegyzési eljárásban, a 277. § (1) bekezdés c) pontja esetén a cégbejegyzési eljárásban köteles a cégbejegyzési, változásbejegyzési kérelemhez teljes bizonyító erejű magánokiratba foglalt nyilatkozatot csatolni arról, hogy stratégia társaságnak minősül, továbbá köteles csatolni a bejelentés tudomásulvételének visszaigazolását. E bekezdés szerinti esetben a Ctv. 50. § (5) bekezdésében és 57. § (3) bekezdésében meghatározott kérelembenyújtási határidő a bejelentés miniszter általi tudomásulvétele visszaigazolásának kézhezvételét követő naptól kezdődik.
-
-(3) A stratégiai társaság, valamint az érintett társaság tekintetében a cégnyilvántartásba a bejelentés tudomásulvétele visszaigazolásának hiányával vagy a miniszter tiltó döntése ellenére bejegyzett adatot a cégbíróság törvényességi felügyeleti eljárás keretében törli.
-
-291. § (1) Semmis az a szerződés, egyoldalú jognyilatkozat vagy a társaság határozata,
-
-- a) amely ezen alcím rendelkezéseibe ütközik vagy
-- b) amelyre vonatkozóan a miniszter tiltó döntést hozott.
-
-(2) Az (1) bekezdés a) pontja esetén a szerződés, egyoldalú jognyilatkozat vagy a társaság határozata a meghozatalának időpontjára visszamenő hatállyal érvényessé válik, ha a 286. § szerinti vizsgálat eredményeként a miniszter megállapítja, hogy a szerződés, egyoldalú jognyilatkozat vagy a társaság határozata meghozatalát nem tiltotta volna meg, ezáltal az érvénytelenség okát határozatával utólag kiküszöböli.
-
-(3) Az érvénytelenség okának utólagos kiküszöbölése esetén a felek úgy kötelesek eljárni, mintha a szerződés, egyoldalú jognyilatkozat vagy a társaság határozata a meghozatalának időpontjától érvényes lett volna.
-
-292. § Felhatalmazást kap a Kormány, hogy a 276. § 3. pontja szerinti tevékenységeket rendeletben meghatározza.
+#### 292. §
 
 #### 85/A. Egyes feldolgozóipari intézkedések
 

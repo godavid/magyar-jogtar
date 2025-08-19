@@ -392,6 +392,8 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 
 (5) Ha a kiutasítást a bíróság rendelte el, a beutazási és tartózkodási tilalom nyilvántartásba vételéről a kiutasítást végrehajtó hatóság gondoskodik.
 
+(6) Ha az ügyészség a büntetőeljárás során feltételes ügyészi felfüggesztésről hozott határozatát a büntetőeljárásról szóló 2017. évi XC. törvény 836/A. § alapján hozta meg, arra tekintettel, hogy a gyanúsított vállalta, hogy Magyarország területét a határozat közlésétől számított hetvenkét órán belül elhagyja, valamint a határozatban meghatározott időtartamig nem tér vissza, akkor a beutazási és tartózkodási tilalom nyilvántartásba vételéről az ügyészség székhelye szerint illetékes hatóság gondoskodik.
+
 39. § (1) A 38. § (1) bekezdése alapján elrendelt beutazási és tartózkodási tilalom időtartamát az elrendelő hatóság határozza meg, amely első alkalommal legfeljebb három év lehet, majd alkalmanként legfeljebb további három évvel meghosszabbítható, amennyiben annak feltételei a beutazási és tartózkodási tilalom lejártakor továbbra is fennállnak.
 
 (2) A beutazási és tartózkodási tilalmat meg kell szüntetni, ha elrendelésének oka megszűnt.

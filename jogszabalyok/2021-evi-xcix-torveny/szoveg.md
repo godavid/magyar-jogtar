@@ -1284,11 +1284,9 @@ bármely építmény tekintetében a 2020. november 4-ét követően hatályba l
 
 #### 159. §
 
-#### 72. Az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása érdekében a magyarországi székhelyű gazdasági társaságok gazdasági célú védelméhez szükséges intézkedések
+#### 72.
 
-160. § (1) A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 276. § 1. pontjától eltérően az ágazati európai uniós és nemzeti jog által nem szabályozott, a hálózatok és berendezések biztonságára és működőképességére, valamint az ellátás folyamatosságára vonatkozó vagy a nemzetgazdasági szempontból alapvető gazdaságstratégiai érdekkel összefüggő közérdek minősül államérdeknek.
-
-(2) A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 276. § 3. pontjától eltérően az olyan magyarországi székhelyű korlátolt felelősségű társaság, zártkörűen működő részvénytársaság, nyilvánosan működő részvénytársaság vagy felsőoktatási intézmény mint jogi személy minősül stratégiai társaságnak, amelynek a Kormány rendeletében meghatározott fő- vagy további tevékenységi körként végzett tevékenysége az e tevékenység szerinti stratégiai jelentőségű ágazatba tartozik, így különösen az energia-, a közlekedés, a kommunikáció ágazatba, valamint az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a)–e) pontja szerinti – ide nem értve a pénzügyi infrastruktúrát – ágazatokba.
+#### 160. §
 
 #### 73. Az autóbuszos piacfelügyeleti díjra vonatkozó egyes átmeneti szabályok
 

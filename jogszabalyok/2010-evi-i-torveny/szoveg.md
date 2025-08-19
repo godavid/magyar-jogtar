@@ -540,9 +540,21 @@ az irányadó.
 
 (2a) Az a személy, akinek korábbi személyes joga alapján kettős családi nevét a magyar anyakönyvi szabályoktól eltérő írásmóddal anyakönyvezték, a magyar állampolgárság megszerzése után kérheti, hogy kettős családi nevét a magyar anyakönyvi szabályoknak megfelelő írásmóddal jegyezzék be az anyakönyvbe.
 
-(3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek születési nemének megfelelő utónevet lehet a Nyelvtudományi Kutatóközpont által összeállított utónévjegyzékből. Az utónévjegyzéket a Nyelvtudományi Kutatóközpont a honlapján teszi közzé.
+(3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek születési nemének megfelelő utónevet lehet a magyar utónévjegyzékről szóló miniszteri rendelet mellékletét képező utónévjegyzékből.
 
-(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti a Nyelvtudományi Kutatóközpont nyilatkozatát a kért utónév anyakönyvezhetőségéről. A Nyelvtudományi Kutatóközpont az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik, és ha a Nyelvtudományi Kutatóközpont nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
+(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti az utónév utónévjegyzékbe való felvételét. Az anyakönyvi szerv a kérelmet továbbítja a HUN-REN Nyelvtudományi Kutatóközpont részére, amely az anyakönyvi szerv megkeresésére harminc napon belül véleményt ad a kért utónév utónévjegyzékbe való felvehetőségéről, ezt követően a kérelmet és a véleményt haladéktalanul megküldi a kultúráért felelős miniszter részére.
+
+(4a) A magyar utónévjegyzéket a kultúráért felelős miniszter rendeletben állapítja meg. A kultúráért felelős miniszter felel az utónévjegyzék időszakos felülvizsgálatáért.
+
+(4b) Az utónévjegyzék összeállítása – az utónévjegyzékben nem szereplő utónév utónévjegyzékbe való felvétele, valamint az utónévjegyzék felülvizsgálata – során a magyar utónévkincs megőrzése, a nemzeti identitás és összetartozás erősítése érdekében, kulturális hagyományaink figyelembevétele mellett alkalmazandó elvek különösen a következők:
+
+- a) Utónevet minden esetben a használt köznyelvi kiejtésének megfelelően, a magyar helyesírás szabályai szerint lehet szerepeltetni az utónévjegyzékben.
+- b) Ősi magyarnak tartott utónevek csak akkor szerepelhetnek az utónévjegyzékben, ha hiteles, írott források alapján tudományosan bizonyítható, hogy a nevet a középkorban személynévként használták. E nevek esetében nem mindig a mai betűk szerinti hangzást kell figyelembe venni, hanem a hangtörténeti alapon biztos vagy valószínűsíthető olvasat szerinti hangzást.
+- c) Írói fantázianevek esetén elismert, maradandó értéket képviselő klasszikus vagy mai, széles körben ismert, elsősorban magyar nyelvű irodalmi, művészeti alkotásokban szereplő név szerepelhet az utónévjegyzékben, feltéve, hogy a név a magyar vagy az európai névkultúra valamelyik típusát képviseli.
+- d) Idegen nyelvi eredetű utóneveknek a magyarban meglevő, már meghonosodott megfelelői szerepelhetnek az utónévjegyzékben.
+- e) Kizárólag olyan utónév szerepelhet az utónévjegyzékben, amely nem hátrányos a viselőjére, illetve amely hangzásában, jelentésében a gyermek személyiségfejlődésére nézve a későbbiekben nem lehet káros.
+
+(4c) A magyar utónévjegyzék összeállítása során a kultúráért felelős miniszter a HUN-REN Nyelvtudományi Kutatóközpont, valamint külső − különösen az alkalmazott névtan, névtudományok, nyelvtudományok területén kiemelkedő tudással rendelkező – szakértő bevonásával jár el. A kultúráért felelős miniszter a magyar utónévjegyzék összeállítása érdekében szakértői bizottságot működtet.
 
 (5) Az ugyanattól az anyától származó, ugyanazon a napon született gyermekek nem viselhetnek megegyező utónevet.
 
@@ -581,11 +593,11 @@ az irányadó.
 
 (2) A nemzetiségi utónév bejegyzésére irányuló kérelemben nyilatkozni kell arról, hogy a választott nevet mely nemzetiség használja.
 
-(3) Nemzetiségi utónévként az érintett országos nemzetiségi önkormányzat által összeállított és közzétett nemzetiségi utónévjegyzékben szereplő utónév anyakönyvezhető.
+(3) Nemzetiségi utónévként a kultúráért felelős miniszter által rendeletben közzétett nemzetiségi utónévjegyzékben szereplő utónév anyakönyvezhető.
 
-(4) Nemzetiségi családi név, valamint a nemzetiségi utónévjegyzékben nem szereplő nemzetiségi utónév anyakönyvezhetőségéről az érintett országos nemzetiségi önkormányzat állásfoglalása az irányadó. A nemzetiségi utónévkönyvben nem szereplő nemzetiségi utónév tekintetében közvetlenül az érintett vagy az anyakönyvvezető, illetve az anyakönyvi szerv megkeresi az érintett országos nemzetiségi önkormányzatot, amely az állásfoglalását a megkereséstől számított 30 napon belül adja meg. Azt az utónevet, amelynek bejegyzését az érintett országos nemzetiségi önkormányzat jóváhagyta, azt az országos nemzetiségi önkormányzat az utónévjegyzékbe haladéktalanul felveszi.
+(4) Nemzetiségi családi név anyakönyvezhetőségéről, valamint a nemzetiségi utónévjegyzékben nem szereplő nemzetiségi utónév utónévjegyzékbe való felvételéről az érintett országos nemzetiségi önkormányzat állásfoglalása az irányadó. A nemzetiségi utónévjegyzékben nem szereplő nemzetiségi utónév tekintetében közvetlenül az érintett vagy az anyakönyvvezető, illetve az anyakönyvi szerv megkeresi az érintett országos nemzetiségi önkormányzatot, amely az állásfoglalását a megkereséstől számított kilencven napon belül adja meg. Ha az utónév felvételét az érintett nemzetiségi önkormányzat támogatta, a megkeresést és az állásfoglalását öt napon belül megküldi a kultúráért felelős miniszter részére.
 
-(5) Az országos nemzetiségi önkormányzat az általa összeállított és vezetett nemzetiségi utónévjegyzéket a honlapján teszi közzé, amely tartalmazza
+(5) A nemzetiségi utónévjegyzék tartalmazza
 
 - a) a magyar anyakönyvbe bejegyezhető nemzetiségi utónevet,
 - b) azt a tényt, hogy az adott nemzetiségi utónév női vagy férfi név,
@@ -649,7 +661,7 @@ az irányadó.
 
 (5) A névváltoztatási eljárásban e törvény születési névre vonatkozó rendelkezéseit – a 44. § (2a) és (6) bekezdése, a 44/A. §, a 45. §, valamint a 46. § (1) és (5) bekezdése kivételével – megfelelően alkalmazni kell.
 
-(6) A (4) bekezdés a) pontja szerinti családi név engedélyezésére irányuló kérelem esetén az anyakönyvi szerv a Nyelvtudományi Kutatóközpont nyilatkozatát kérheti. Az anyakönyvi szerv a Nyelvtudományi Kutatóközpont nyilatkozatának kérése esetén akkor adhat helyt a kérelemnek, ha a Nyelvtudományi Kutatóközpont nyilatkozata szerint a névváltoztatás nem ütközik a (4) bekezdés a) pontjába.
+(6) A (4) bekezdés a) pontja szerinti családi név engedélyezésére irányuló kérelem esetén az anyakönyvi szerv a HUN-REN Nyelvtudományi Kutatóközpont nyilatkozatát kérheti. Az anyakönyvi szerv a HUN-REN Nyelvtudományi Kutatóközpont nyilatkozatának kérése esetén akkor adhat helyt a kérelemnek, ha a HUN-REN Nyelvtudományi Kutatóközpont nyilatkozata szerint a névváltoztatás nem ütközik a (4) bekezdés a) pontjába.
 
 (7) Különös méltánylást érdemlő körülmények fennállása esetén engedélyezhető
 
@@ -701,7 +713,7 @@ az irányadó.
 
 (7) Az igazgatási szolgáltatási díj – a (8) bekezdésben meghatározott kivétellel – az anyakönyvi szerv bevételét képezi.
 
-(8) A 49. § (6) bekezdésében foglaltak alkalmazása esetén a Nyelvtudományi Kutatóközpontot 5000 forint illeti meg. Az anyakönyvi szerv a díjbevételt félévente, a tárgyi időszakot követő hónap 25. napjáig utalja át a Nyelvtudományi Kutatóközpont által megjelölt számlára.
+(8) A 49. § (6) bekezdésében foglaltak alkalmazása esetén a HUN-REN Nyelvtudományi Kutatóközpontot 5000 forint illeti meg. Az anyakönyvi szerv a díjbevételt félévente, a tárgyi időszakot követő hónap 25. napjáig utalja át a HUN-REN Nyelvtudományi Kutatóközpont által megjelölt számlára.
 
 51. § (1) A névváltoztatási iratok nem selejtezhetők, őrzésükről a Magyar Nemzeti Levéltár az adatvédelmi szabályok megtartásával és – a (2) bekezdésben meghatározottak szerint – az anyakönyvi szerv gondoskodik.
 
@@ -1722,7 +1734,7 @@ után válnak bárki számára kutathatóvá.
 
 - a) az anyakönyvi eljárás lefolytatására és az anyakönyvi eljárásban való közreműködésre jogosult szerveket és személyeket, azok illetékességét és hatáskörét, a nyilvántartó szervet, valamint az anyakönyvi ügyekért felelős miniszter és a nyilvántartó szerv nyilvántartás működtetésével kapcsolatos együttműködésének kereteit,
 - b) az anyakönyvezéshez szükséges képesítési feltételeket,
-- c) a Nyelvtudományi Kutatóközpont által vezetett utónévjegyzékbe történő felvételre vonatkozó nyilatkozatával összefüggő megkeresésre és az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
+- c) a magyar utónévjegyzék összeállítására és vezetésére, valamint az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
@@ -1735,6 +1747,8 @@ után válnak bárki számára kutathatóvá.
 részletes szabályait rendeletben állapítsa meg.
 
 95. § Felhatalmazást kap az anyakönyvi ügyekért felelős miniszter, hogy az anyakönyvi szakvizsga részletes szabályait rendeletben állapítsa meg.
+
+95/A. § Felhatalmazást kap a kultúráért felelős miniszter, hogy a magyar utónévjegyzéket és a nemzetiségi utónévjegyzéket rendeletben állapítsa meg.
 
 96. § Felhatalmazást kap a települési önkormányzat, hogy
 
@@ -1763,7 +1777,13 @@ részletes szabályait rendeletben állapítsa meg.
 
 (3)
 
-#### 101/B. §
+101/B. § (1) A kultúráért felelős miniszter az anyakönyvezhető utónevekkel összefüggésben egyes törvények módosításáról szóló 2025. évi LXV. törvény (a továbbiakban: Módtv2.) hatálybalépését követő tizenötödik napig rendeletben közzéteszi a magyar utónévjegyzéket a HUN-REN Nyelvtudományi Kutatóközpont honlapján közzétett utónévjegyzéknek a Módtv2. hatálybalépése napja szerinti tartalmával megegyezően.
+
+(2) Az országos nemzetiségi önkormányzat a Módtv2. hatálybalépését követő három napon belül megküldi a kultúráért felelős miniszternek az adott nemzetiség anyakönyvezhető utóneveit tartalmazó nemzetiségi utónévjegyzéket a Módtv2. hatálybalépése napján fennálló állapot szerint. A kultúráért felelős miniszter a nemzetiségi utónévjegyzéket a Módtv2. hatálybalépését követő tizenötödik napig változatlan tartalommal rendeletben közzéteszi.
+
+(3) E törvénynek a Módtv2.-vel megállapított 44. § (3) bekezdését a magyar utónévjegyzéket az (1) bekezdés szerint, 46. § (3) bekezdését a nemzetiségi utónévjegyzéket a (2) bekezdés szerint megállapító miniszteri rendelet hatálybalépésétől kell alkalmazni. A magyar, illetve a nemzetiségi utónévjegyzéket megállapító miniszteri rendelet hatálybalépését megelőzően a 44. § (3) bekezdésének, valamint a 46. § (3) bekezdésének a Módtv2. hatálybalépését megelőző napon hatályos szövegét kell alkalmazni.
+
+(4) E törvénynek a Módtv2.-vel módosított rendelkezéseit – a (3) bekezdésben foglalt kivétellel − a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell azzal, hogy a HUN-REN Nyelvtudományi Kutatóközpont az anyakönyvi szerv megkeresését és a HUN-REN Nyelvtudományi Kutatóközpontnak a kért utónév utónévjegyzékbe való felvehetőségéről szóló véleményét a Módtv2. hatálybalépését követő harminc napon belül, illetve az országos nemzetiségi önkormányzat az érintett, az anyakönyvvezető vagy az anyakönyvi szerv megkeresését, valamint az országos nemzetiségi önkormányzatnak a kért utónév utónévjegyzékbe való felvehetőségéről szóló állásfoglalását a Módtv2. hatálybalépését követő hatvan napon belül továbbítja a kultúráért felelős miniszter részére.
 
 ### Az Európai Unió jogának való megfelelés
 
