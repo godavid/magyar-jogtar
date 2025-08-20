@@ -3137,15 +3137,17 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 - a) az állat különös szenvedését okozva,
 - b) több állat maradandó egészségkárosodását vagy pusztulását okozva,
 - c) nagy nyilvánosság előtt,
-- d) az állatok védelméről és kíméletéről szóló törvényben meghatározott, az állat kedvtelésből való tartásától, illetve az érintett állatfaj tartásától eltiltással érintett állattal szemben az eltiltás tartama alatt, vagy
-- e) állatkínzás vagy tiltott állatviadal szervezése bűncselekmény miatti elítélést követő két éven belül
+- d) az állatok védelméről és kíméletéről szóló törvényben meghatározott, az állat kedvtelésből való tartásától, illetve az érintett állatfaj tartásától eltiltással érintett állattal szemben az eltiltás tartama alatt,
+- e) állatkínzás vagy tiltott állatviadal szervezése bűncselekmény miatti elítélést követő két éven belül, vagy
+- f) ebrendészeti telep vagy állatmenhely működtetése során
 
 követik el.
 
 (3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az állatkínzást
 
-- a) méreg alkalmazásával vagy az állat elpusztítására alkalmas csalétek kihelyezésével több állat pusztulását okozva, vagy
-- b) különös visszaesőként
+- a) méreg alkalmazásával vagy az állat elpusztítására alkalmas csalétek kihelyezésével több állat pusztulását okozva,
+- b) különös visszaesőként, vagy
+- c) a (2) bekezdés f) pontjában foglalt bűncselekményt tíznél nagyobb számú állatra
 
 követik el.
 
@@ -3154,6 +3156,12 @@ követik el.
 (5) Aki a (3) bekezdés a) pontjában meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (6) A (3) bekezdés b) pontja alkalmazásában a különös visszaesés szempontjából hasonló jellegű bűncselekmény az állat pusztulását okozva elkövetett természetkárosítás, az állatkínzás, a tiltott állatviadal szervezése.
+
+### Kedvtelésből tartott állatok kereskedelmével összefüggő visszaélés
+
+244/A. § (1) Aki a kedvtelésből tartott állatok tartásáról és forgalmazásáról szóló jogszabályban meghatározott kor előtt kölyköket anyjuktól elválasztva, kereskedelmi mennyiségben az ország területére behoz, onnan kivisz, vagy azon átszállít, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az (1) bekezdés alkalmazásában kereskedelmi mennyiség az öt vagy azt meghaladó számú kölyök.
 
 ### Orvvadászat
 
