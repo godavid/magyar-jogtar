@@ -2,7 +2,13 @@
 
 az állatok védelméről és kíméletéről
 
-Az Országgyűlés– annak tudatában, hogy az állatok érezni, szenvedni és örülni képes élőlények, tiszteletben tartásuk, jó közérzetük biztosítása minden ember erkölcsi kötelessége,– elismerve azt a megkülönböztetetten nagy értéket, amelyet az állatvilág egésze és annak egyedei jelentenek az emberiség számára,– kifejezve azon szándékát, hogy Magyarország tevékeny módon részt vállaljon az állatok védelme és kímélete érdekében kifejtett nemzetközi erőfeszítésekből,
+Az Országgyűlés
+
+– annak tudatában, hogy az állatok érezni, szenvedni és örülni képes élőlények, tiszteletben tartásuk, jó közérzetük biztosítása minden ember erkölcsi kötelessége,
+
+– elismerve azt a megkülönböztetetten nagy értéket, amelyet az állatvilág egésze és annak egyedei jelentenek az emberiség számára,
+
+– kifejezve azon szándékát, hogy Magyarország tevékeny módon részt vállaljon az állatok védelme és kímélete érdekében kifejtett nemzetközi erőfeszítésekből,
 
 az állatok ésszerű védelmének és kíméletének biztosítása érdekében az alábbi törvényt alkotja:
 
@@ -96,7 +102,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 8. § Az ember környezetében tartott állat, valamint a veszélyes állat tulajdonjogával, tartásával felhagyni nem szabad. Az állat elűzése, elhagyása vagy kitétele tilos.
 
-8/A. § Élő állatot nyereményjáték díjaként csak e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint lehet használni, amennyiben az állat elhelyezésének és tartásának feltételei biztosítottak.
+8/A. § Élő állatot nyereményjáték díjaként kisorsolni tilos.
 
 8/B. § Állatot a nemi vágy kielégítésére irányuló cselekmény során felhasználni tilos.
 
@@ -257,9 +263,9 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (5) A jogerős határozattal elrendelt ivartalanítás, transzponderrel történő megjelölés, elkobzás, szállítás, tartás és az eb élete kioltásának költségei az eb tulajdonosát terhelik.
 
-24/D. §
+#### 24/D. §
 
-24/E. §
+#### 24/E. §
 
 ### Az ország őshonos növény-, illetve állatvilágára ökológiai szempontból veszélyes állatokkal kapcsolatos tilalmak
 
@@ -376,7 +382,9 @@ teszi szükségessé.
 
 (5) Az állatvédelmi hatóság az állatkísérlet végzésére vonatkozó, valamint a tartási, tenyésztési, beszállítói engedély felfüggesztése vagy visszavonása esetén kötelezi az engedélyest az állatállomány megfelelő elhelyezésére. Az elhelyezés eredménytelensége esetén az állat életét az e törvényben megengedett módon ki lehet oltani.
 
-34–35. §
+#### 34. §
+
+#### 35. §
 
 ### V. Fejezet — AZ ÁLLAT SZÁLLÍTÁSA
 
@@ -425,7 +433,9 @@ teszi szükségessé.
 
 (7) A cirkuszi menazséria, valamint a kedvtelésből tartott állatok kereskedése létesítésének, működtetésének engedélyezésére, működésére, továbbá a kedvtelésből tartott állatokra, a cirkuszi állatokra és a bemutatás céljára tartott állatokra vonatkozó részletes szabályokat külön jogszabály állapítja meg.
 
-### VII. Fejezet — Az állatpanzió és állatmenhely létesítésénekés fenntartásának általános szabályai
+### VII. Fejezet — Az állatpanzió és állatmenhely létesítésének
+
+és fenntartásának általános szabályai
 
 41. § (1) Állatpanzió és állatmenhely (a továbbiakban együtt: állatotthon) létesítésére irányuló szándékát a szolgáltató az állatvédelmi hatóságnak köteles a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni.
 
@@ -578,7 +588,7 @@ eb után.
 
 (6) Állatvédelmi bírság kiszabása helyett vagy azzal egyidejűleg az állattartót a hiányosságok kijavítására, pótlására kell kötelezni, továbbá az állatok gondozásával, a velük való helyes bánásmóddal kapcsolatos állatvédelmi oktatáson (a továbbiakban: állatvédelmi képzés) való részvételre kötelezhető.
 
-(7) Ha az állatvédelmi képzésen való részvételre kötelezett állattartó a kötelezettségének önként nem tesz eleget, az állatvédelmi képzés, illetőleg annak hátralévő része helyébe állatvédelmi bírság lép.
+(7) Ha az állatvédelmi képzésen való részvételre kötelezett állattartó a kötelezettségének önként nem tesz eleget, az állatvédelmi képzés, illetőleg annak hátralévő része helyébe állatvédelmi bírság és a kötelezettség teljesítésének igazolásáig állattartástól való eltiltás lép.
 
 (8)
 
@@ -635,13 +645,20 @@ eb után.
 
 (2) Ha az állattartó az állatvédelmi hatóság által előírt időpontig gondoskodik a jogszabályszerű állattartási feltételek biztosításáról, úgy az (1) bekezdés szerint elszállított állatot részére vissza kell szolgáltatni, ellenkező esetben az állatvédelmi hatóság az állatot elkobozza. Az állatvédelmi hatóság gondoskodik az állat tulajdonjogának átruházásáról, ha ezt jogszabály kizárja vagy az eredménytelen, az állat végleges elhelyezéséről. Az állat a korábbi tulajdonosának, illetve korábbi tartási helyére nem adható ki. Ha az állat végleges elhelyezése csak rendszeres költségráfordítással biztosítható, a korábbi tulajdonos a jogsértés súlyától, ismétlődésétől függően legfeljebb 12 hónapra jutó költség fizetésére kötelezhető. Az elhelyezés eredménytelensége esetén – hat hónap elteltével – az állat életét megengedett módon ki lehet oltani.
 
+(3) Az (1) bekezdéstől eltérően, ha
+
+- a) a jogszerű állattartási feltételek biztosítása elháríthatatlan akadályba ütközik, vagy már előre eredménytelennek mutatkozik, és
+- b) az állat védelme vagy végleges elhelyezése szempontjából előnyösebb
+
+az állatvédelmi hatóság az állatot a (2) bekezdés szerint elkobozza.
+
 45/C. § Az e törvény alapján elkobzott állat tulajdonjoga törvény eltérő rendelkezése hiányában az államra száll.
 
 45/D. § Az állatnak a büntetőügyben történő elkobzását követően e törvénynek az elkobzásra vonatkozó szabályai szerint kell eljárni.
 
 46. § Az állatvédelmi hatósági hatáskörben eljáró települési önkormányzat jegyzőjének, fővárosban a kerületi önkormányzat jegyzőjének, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőnek döntésével szemben nincs helye fellebbezésnek.
 
-47. §
+#### 47. §
 
 48. § (1) Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti azon civil szervezeteket, amelyek tevékenysége az állatok védelmére irányul, az állatvédelmi jogszabályok megsértése miatt általuk kezdeményezett hatósági eljárásokban az ügyfél jogállása illeti meg.
 
@@ -691,8 +708,8 @@ rendeletben állapítsa meg.
   - be) a ebnyilvántartás működési feltételeit,
 - c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 - d) a miniszter, hogy az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
-- e) a miniszter, hogy az élő állat nyereményjáték díjaként történő felhasználásának részletes szabályait,
-- f) a miniszter, hogy az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait,
+- e)
+- f) a miniszter, hogy az állatvédelmi képzés és oktatás részletes szabályait,
 - g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban megszerzett, az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit és rendjét,
 - h) a miniszter, hogy a veszélyes eb tartása engedélyezésének igazgatási szolgáltatási díját, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
 - i) a miniszter, hogy a szőrméjükért tartott állatfajok körét, tartásuk, tenyésztésük és szaporításuk különleges szabályait,
