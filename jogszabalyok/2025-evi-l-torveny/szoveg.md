@@ -1035,13 +1035,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 22. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-132. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 95/A. §-a helyébe a következő rendelkezés lép:
+#### 132. §
 
-„95/A. § Mentes a végrehajtás alól a Magyar Szénhidrogén Készletező Szövetség tulajdonában álló biztonsági és különleges kőolaj- és földgázkészlet.”
-
-133. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 110. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) A földgázellátásról szóló 2008. évi XL. törvény 141/L. § (1) bekezdése szerinti elhatárolást végrehajtó gazdasági társaság által kötött földgázszállítási szerződésben meghatározott, a szerződéses partner részére fizetendő földgáz ellenértékét harmadik személy követelésének biztosítása vagy kielégítése céljából lefoglalni, végrehajtás alá vonni, azzal kapcsolatban biztosítási intézkedést elrendelni nem lehet.”
+#### 133. §
 
 #### 23. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
@@ -1099,9 +1095,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 33. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-151. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 38. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Ha az ügyészség a büntetőeljárás során feltételes ügyészi felfüggesztésről hozott határozatát a büntetőeljárásról szóló 2017. évi XC. törvény 836/A. § alapján hozta meg, arra tekintettel, hogy a gyanúsított vállalta, hogy Magyarország területét a határozat közlésétől számított hetvenkét órán belül elhagyja, valamint a határozatban meghatározott időtartamig nem tér vissza, akkor a beutazási és tartózkodási tilalom nyilvántartásba vételéről az ügyészség székhelye szerint illetékes hatóság gondoskodik.”
+#### 151. §
 
 #### 34. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -1225,13 +1219,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 45. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-201. § (1) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 85. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) A határzár tiltott átlépése (352/A. §), a határzár megrongálása (352/B. §), a határzárral kapcsolatos építési munka akadályozása (352/C. §), valamint az embercsempészés (353. §) esetén az öt évet meg nem haladó szabadságvesztés végrehajtása próbaidőre felfüggeszthető.”
-
-(2) A Büntető Törvénykönyvről szóló 2012. évi C. törvény 85. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) A határzár tiltott átlépése (352/A. §), a határzár megrongálása (352/B. §), a határzárral kapcsolatos építési munka akadályozása (352/C. §), valamint az embercsempészés (353. §) esetén a próbaidő tartama két évtől tíz évig terjedhet, de nem lehet rövidebb az ezen bűncselekmények miatt kiszabott kiutasítás tartamánál.”
+#### 201. §
 
 #### 46. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
@@ -1245,115 +1233,15 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 48. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-205. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény a következő alcímmel egészül ki:
+#### 205. §
 
-### „Az otthonápolási őrizet elrendelése, fenntartása és megszüntetése, valamint az otthonápolási őrizetben lévő elítélt feltételes szabadságra bocsátására vonatkozó eljárás különös szabályai
+#### 206. §
 
-61/F. § (1) Az otthonápolási őrizet elrendelésére a bv. intézet tesz előterjesztést a büntetés-végrehajtási bírónak.
+#### 207. §
 
-(2) Az otthonápolási őrizet elrendelését a szabadságvesztés végrehajtása alatt az elítélt vagy a védője is kezdeményezheti. A kérelmet a bv. intézet – a bv. orvos véleményével és javaslatával – tizenöt napon belül továbbítja a büntetés-végrehajtási bíróhoz.
+#### 208. §
 
-(3) Az otthonápolási őrizet elrendelése iránti előterjesztés tárgyában a büntetés-végrehajtási bíró az iratok alapján is meghozhatja a döntést azzal, hogy bírósági titkár nem járhat el. Az elítélt vagy a védő által benyújtott kérelem tárgyában – kivéve a (6) bekezdésben meghatározott esetekben, továbbá ha a bv. orvos úgy nyilatkozik, hogy az elítélt egészségi állapota nem teszi lehetővé a meghallgatását – a büntetés-végrehajtási bíró meghallgatást tart.
-
-(4) A büntetés-végrehajtási bíró az egészségügyi feltételek fennállását a bv. orvos véleménye, és az azt megalapozó egyéb egészségügyi dokumentumok alapján állapítja meg, szükség szerint vagy az elítélt, illetve a védő indítványára orvos szakértőt rendelhet ki.
-
-(5) Az otthonápolási őrizet elrendelése esetén a büntetés-végrehajtási bíró jelöli ki az elítélt tartózkodási helyéül szolgáló lakást. A végzésben meghatározza, hogy a kijelölt lakás és a hozzá tartozó bekerített hely elsősorban egészségügyi vizsgálat elvégzése vagy gyógykezelés, kivételesen – a büntetés-végrehajtási pártfogó felé történő előzetes bejelentés alapján – hivatalos ügyek intézése céljából, az ehhez szükséges időtartamban hagyható el, továbbá az elítélt egészségi állapotára figyelemmel az elektronikus távfelügyeleti eszköz alkalmazásának mellőzéséről rendelkezhet.
-
-(6) A büntetés-végrehajtási bíró a kérelmet érdemi vizsgálat nélkül az iratok alapján elutasítja, ha az otthonápolási őrizet elrendelését e törvény kizárja.
-
-(7) Az otthonápolási őrizetet elrendelő végzés ellen az ügyészség által benyújtott fellebbezésnek az otthonápolási őrizet megkezdésére halasztó hatálya van. Az ügyészség a fellebbezésről – a fellebbezés benyújtásával egy időben – értesíti a bv. intézetet.
-
-(8) Ha az otthonápolási őrizet végrehajtása alatt az elítélttel szemben újabb szabadságvesztést kell végrehajtani, és az otthonápolási őrizet megszüntetésének nincs helye, a büntetés-végrehajtási bíró a bv. intézet előterjesztésére az újabb szabadságvesztés tekintetében – annak foganatba vételének napjával – az otthonápolási őrizet fenntartásáról – a 14. § (3) bekezdésének alkalmazása esetén soron kívül – az iratok alapján határoz.
-
-(9) Ha a büntetés-végrehajtási bíró az otthonápolási őrizetet töltő elítélt feltételes szabadságra bocsátását rendelte el, de az elítélttel szemben további szabadságvesztést kell végrehajtani, és az otthonápolási őrizet megszüntetésének nincs helye, a büntetés-végrehajtási bíró az újabb szabadságvesztés tekintetében – annak foganatba vételének napjával – az otthonápolási őrizet fenntartásáról is határoz.
-
-(10) Az elítélt vagy a védő kérelmére a büntetés-végrehajtási bíró az otthonápolási őrizet elrendeléséről szóló határozatnak a lakás kijelölésére, valamint a kijelölt lakás és az ahhoz tartozó bekerített hely elhagyásának feltételeire vonatkozó részét megváltoztathatja, vagy eseti jelleggel engedélyezheti az elítélt meghatározott célból történő eltávozását. A büntetés-végrehajtási bíró a kérelemről öt napon belül, sürgős szükség esetén soron kívül – az iratok alapján – határoz. Az eljárást az otthonápolási őrizet végrehajtására kijelölt lakás elhelyezkedése szerint illetékes büntetés-végrehajtási bíró folytatja le.
-
-(11) Az otthonápolási őrizet megszüntetéséről, illetve az elítélt feltételes szabadságra bocsátásáról a büntetés-végrehajtási bíró a bv. intézet előterjesztésére a 61/B. §, illetve a 61/C. § alkalmazásával iratok alapján is dönthet, azzal, hogy bírósági titkár nem járhat el, továbbá az egészségügyi feltételek megszűnését a bv. orvos véleménye, és az azt megalapozó egyéb egészségügyi dokumentumok alapján állapítja meg, szükség esetén vagy az elítélt, illetve a védő indítványára orvos szakértőt rendelhet ki.
-
-(12) Az otthonápolási őrizet elrendelésével kapcsolatos eljárás bűnügyi költségét az állam viseli.”
-
-206. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 82. §-a a következő 9. ponttal egészül ki:
-
-(E fejezet alkalmazásában)
-
-„9. bv. intézet alatt a büntetés-végrehajtási egészségügyi szervet (a továbbiakban: bv. egészségügyi szerv), valamint a bv. intézet parancsnoka alatt a bv. egészségügyi szerv vezetőjét is érteni kell.”
-
-207. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 187/A. § (1a) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A reintegrációs őrizet időtartama)
-
-„a) egy év, illetve két évet meghaladó tartamú szabadságvesztés esetén legfeljebb a szabadságvesztés fele része, ha az elítéltet gondatlan bűncselekmény elkövetése miatt ítélték szabadságvesztésre,”
-
-208. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény a következő alcímmel egészül ki:
-
-### „Az otthonápolási őrizet
-
-187/H. § (1) Az a súlyos, vélelmezhetően tartósan fennálló krónikus betegségben szenvedő elítélt, aki az alapvető szükségleteinek kielégítésére önállóan képtelen, mindennapi életvitelében folyamatos segítségre, ápolásra szorul, otthonápolási őrizetbe helyezhető, ha van olyan személy, aki írásban tett nyilatkozatban vállalja a gondozását. Az otthonápolási őrizet a szabadságvesztés tartamába beszámít.
-
-(2) Ha megállapítható, hogy az elítélt súlyos, vélelmezhetően tartósan fennálló krónikus betegségben szenved és az (1) bekezdésben meghatározott gondozási szükséglete fennáll, a bv. intézet nyilatkoztatja az elítéltet, hogy van-e olyan személy, aki a gondozását vállalná. Ha van olyan személy, aki az elítélt gondozást írásban vállalja, a bv. orvos az elítélt – szükség szerint szakorvos bevonásával elvégzett – vizsgálata és a rendelkezésre álló egészségügyi dokumentáció alapján véleményt készít, és szakterületi javaslatával a bv. intézet parancsnokának küldi meg, aki intézkedik a 187/B. § (1) bekezdésében foglaltak elvégzése iránt.
-
-(3) Az otthonápolási őrizet végrehajtására civil vagy egyházi fenntartású intézmény is kijelölhető, amihez az intézmény befogadó nyilatkozata szükséges.
-
-(4) Az otthonápolási őrizet elrendelésére irányuló kérelmet az elítélt vagy a védője a végrehajtás során többször is benyújthat. A kérelemhez csatolni kell az elítélt gondozását vállaló személy erre vonatkozó írásbeli nyilatkozatát, továbbá, ha az otthonápolási őrizet végrehajtására kijelölendő lakás nem az elítélt vagy a gondozást vállaló személy tulajdona, a tulajdonos írásbeli hozzájárulását az elhelyezéshez, vagy az intézmény befogadó nyilatkozatát.
-
-(5) Az otthonápolási őrizet elrendelése iránti kérelem elutasítása esetén újabb kérelem akkor terjeszthető elő, ha az elítélt egészségi állapotában – egészségügyi dokumentum által igazoltan – tartós romlás következett be.
-
-(6) Az elítélt vagy a védője kérelmére induló eljárásban a bv. orvos és a bv. intézet parancsnoka a (2) bekezdésben foglaltak szerint jár el.
-
-(7) A bv. orvos szakterületi javaslata arra is kiterjed, hogy az elítélt egészségi állapota
-
-- a) lehetővé teszi-e az elektronikus távfelügyeleti eszköz alkalmazását,
-- b) igényel-e az olyan rendszeres egészségügyi ellátást, amely az elektronikus távfelügyeleti eszköz levételét teszi szükségessé,
-- c) milyen jellegű vizsgálatokat, illetve gyógykezelést igényel, és milyen rendszerességgel kell ezeket elvégezni.
-
-187/I. § Az otthonápolási őrizetre a 187/A–187/F. § rendelkezéseit megfelelően alkalmazni kell azzal, hogy
-
-- a) a 187/A. § (1) bekezdése nem alkalmazható, de az otthonápolási őrizet elrendelése kizárt, ha az elítélt
-  - aa) erőszakos többszörös visszaeső, vagy
-  - ab) életfogytig tartó szabadságvesztésre ítélték,
-- b) a 187/A. § (1a) bekezdése nem alkalmazható azzal, hogy az otthonápolási őrizet megszűnik
-  - ba) az elítélt feltételes szabadságra bocsátásának, vagy
-  - bb) – ha az elítélt feltételes szabadságra nem bocsátható – a szabadságvesztés kitöltésének
-
-napjával,
-
-- c) a 187/C. § (1) bekezdés a) és d) pontjában foglaltakat nem kell alkalmazni,
-- d) a 187/C. § (1) bekezdés e) pontja és a 187/E. § (1) bekezdés c) pontjának első fordulata nem alkalmazható, ha a bv. orvos a szakterületi javaslatban úgy nyilatkozik, hogy az elítélt egészségi állapota nem teszi lehetővé az elektronikus távfelügyeleti eszköz alkalmazását,
-- e) az otthonápolási őrizet végrehajtását az erre kijelölt lakás – ideértve a civil vagy egyházi fenntartású intézményt – elhelyezkedése szerint illetékes büntetés-végrehajtási pártfogó felügyelő ellenőrzi, aki jogosult bekérni a krónikus betegségben szenvedő elítélt vonatkozásában az otthonápolási őrizet ideje alatt keletkezett egészségügyi dokumentumokat, amelyeket haladéktalanul átad a bv. orvosnak,
-- f) az elítéltnek kellő időben jeleznie kell a büntetés-végrehajtási pártfogó felügyelőnek, ha olyan vizsgálatot, gyógykezelést vagy műtétet fognak rajta elvégezni, amely az elektronikus távfelügyeleti eszköz eltávolítását teheti szükségessé,
-- g) a bv. intézet parancsnoka az otthonápolási őrizet megszüntetésére haladéktalanul előterjesztést tesz a büntetés-végrehajtási bírónak abban az esetben is, ha annak tartama alatt
-  - ga) a beszerzett egészségügyi dokumentumok alapján a bv. orvos megállapítja, hogy az elítélt egészségi állapotában olyan mértékű javulás következett be, amely alapján a szabadságvesztés végrehajtása a bv. intézetben folytatható, vagy
-  - gb) az elítélt gondozását vállaló személy a nyilatkozatát visszavonja, és nincs más olyan személy, aki a gondozást vállalja,
-  - gc) az elítélttel szemben olyan újabb szabadságvesztést kell foganatba venni, amely életfogytig tart, vagy az újabb szabadságvesztést kiszabó ügydöntő határozat megállapította, hogy az elítélt erőszakos többszörös visszaeső,
-- h) ha az elítélttel szemben újabb szabadságvesztésről érkezik értesítőlap, és az a) pontban meghatározott feltétel nem áll fenn, a bv. intézet parancsnoka – a 14. § (3) bekezdése alkalmazása esetén haladéktalanul, egyéb esetben két hónappal a foganatba vétel esedékességét megelőzően – előterjesztést tesz a büntetés-végrehajtási bírónak az otthonápolási őrizetnek az újabb szabadságvesztés tekintetében történő fenntartására,
-- i) ha a büntetés-végrehajtási bíró az otthonápolási őrizetben lévő elítélt feltételes szabadságra bocsátását engedélyezte, és az elítélttel szemben újabb szabadságvesztés vár végrehajtásra, a feltételes szabadság mindaddig nem kezdhető meg, amíg az elítélt az újabb szabadságvesztést tölti.”
-
-209. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény „Átmeneti rendelkezések” alcíme a következő 436/E. §-sal egészül ki:
-
-„436/E. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény (a továbbiakban: Mód. tv. 3.) 48. alcíme hatálybalépése előtt a veszélyhelyzet ideje alatt egyes büntetés-végrehajtási szabályok eltérő alkalmazásáról szóló 6/2023. (II. 21.) BM rendeletben foglaltak szerint engedélyezett otthonápolási őrizet hatályában fennmarad, de annak fenntartására, megszűnésére, megszüntetésére, az elítélt feltételes szabadságra bocsátásának elbírálására, valamint a folyamatban lévő ügyekben a Mód. tv. 3. 48. alcíme által bevezetett szabályokat kell alkalmazni.
-
-(2) A Mód. tv. 3. 48. alcíme hatálybalépése előtt az embercsempészés bűncselekmény miatt elítéltek reintegrációs őrizetéről szóló 148/2023. (IV. 27.) Korm. rendelet alapján megkezdett reintegrációs őrizet hatályában fennmarad azzal, hogy
-
-- a) a reintegrációs őrizet a szabadságvesztés utolsó napjával megszűnik,
-- b) ha a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve azt észleli, hogy a reintegrációs őrizet időtartama alatt az elítélt Magyarország területére visszatér, úgy az elítéltet elfogja, és hetvenkét órán belül az elfogás helyéhez legközelebb eső büntetés-végrehajtási intézetbe előállítja, előállításig eltelt idő a szabadságvesztésbe beszámít,
-- c) ha az elítélt a reintegrációs őrizet időtartama alatt Magyarország területére visszatér, úgy a visszatérés napjával – ennek ismerete hiányában a visszatérés észlelésének a napjával – a büntetés-végrehajtás országos parancsnoka az előállítástól számított három munkanapon belül meghozott határozattal a reintegrációs őrizetet megszünteti,
-- d) a reintegrációs őrizet megszüntetése esetén az elítélt köteles letölteni a szabadságvesztés hátralévő részét, amelyből feltételes szabadságra nem bocsátható, továbbá a szabadságvesztés tartama alatt a kiutasítás végrehajtása nyugszik,
-- e) a c) pont szerinti határozattal szemben az elítélt bírósági felülvizsgálati kérelemmel élhet, amelyet a határozat közlésekor nyomban be kell jelenteni, amelynek azonban a határozat végrehajtására halasztó hatálya nincs.
-
-(3) A (2) bekezdés szerinti reintegrációs őrizettel kapcsolatosan a rendőrség általános rendőrségi feladatok ellátására létrehozott szervének központi szerve
-
-- a) az elítélt nevét,
-- b) az elítélt természetes személyazonosító adatait,
-- c) az elítélt arcképmását, útiokmányának számát,
-- d) az elítélt állampolgárságát,
-- e) a reintegrációs őrizet kezdő és befejező időpontját,
-- f) azt az időpontot, amíg az elítéltnek Magyarország területét el kellett hagynia és
-- g) az elítéltnek azt a kötelezettségét, hogy a reintegrációs őrizet befejező időpontja előtt Magyarország területére nem térhet vissza
-
-a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjáig kezeli. Ha a büntetés-végrehajtás országos parancsnoka a reintegrációs őrizetet megszünteti, erről tájékoztatja a rendőrség általános rendőrségi feladatok ellátására létrehozott szervének központi szervét az adatok törlése érdekében.
-
-(4) A (2) bekezdés szerinti reintegrációs őrizettel kapcsolatosan a rendőrség idegenrendészeti szervének központi szerve az elítéltnek a (3) bekezdésben meghatározott adatait, valamint az elítélt ujjnyomat adatát a kiutasítás tartamának leteltét követő öt évig kezeli. Ha a büntetés-végrehajtás országos parancsnoka a reintegrációs őrizetet megszünteti, erről tájékoztatja a rendőrség idegenrendészeti szervének központi szervét annak egyidejű közlésével, hogy az elítélt mikor tölti ki a szabadságvesztést, amely időpontig a kiutasítás végrehajtása nyugszik.”
+#### 209. §
 
 #### 49. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
@@ -1371,50 +1259,11 @@ a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjái
 
 #### 52. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-214. § A büntetőeljárásról szóló 2017. évi XC. törvény CVII. Fejezet címe helyébe a következő rendelkezés lép:
+#### 214. §
 
-### „CVII. Fejezet — ELJÁRÁS HATÁRZÁRRAL KAPCSOLATOS BŰNCSELEKMÉNY, VALAMINT KÜLFÖLDI EMBERCSEMPÉSZ ESETÉN”
+#### 215. §
 
-215. § A büntetőeljárásról szóló 2017. évi XC. törvény 827. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A kizárólag a Btk. 353. § (1)–(3) és (6) bekezdése szerint minősülő embercsempészés bűncselekménye miatt indult büntetőeljárásban e törvény rendelkezéseit a 836/A–836/B. §-ban foglalt eltéréssel kell alkalmazni.”
-
-216. § A büntetőeljárásról szóló 2017. évi XC. törvény CVII. Fejezete a következő alcímmel egészül ki:
-
-### „A külföldi embercsempész elleni büntetőeljárás
-
-836/A. § (1) Az ügyészség hivatalból vagy a gyanúsított, illetve a védő indítványára a 827. § (3) bekezdése szerinti embercsempészés miatt indult eljárást a 836/B. § (1) bekezdésben meghatározott büntethetőséget megszüntető ok alkalmazhatósága érdekében felfüggeszti, ha
-
-- a) a gyanúsított külföldi állampolgárságú és vele szemben a kiutasítás elrendelése a Btk. 59. § (2) vagy (3) bekezdése alapján nem kizárt, valamint a kiutasítás végrehajthatósága sem lenne kizárt,
-- b) a gyanúsított a bűnösségét beismeri és az elkövetés körülményeit feltárja, valamint
-- c) a gyanúsított vállalja, hogy Magyarország területét a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon elhagyja, továbbá a határozatban meghatározott időtartamig nem tér vissza, és a vállalt kötelezettség teljesítésével kapcsolatban észszerű kétség nem merül fel.
-
-(2) Az (1) bekezdés alapján az eljárás nem függeszthető fel, ha a gyanúsított
-
-- a) többszörös visszaeső vagy a bűncselekményt az embercsempészés miatt végrehajtandó szabadságvesztésre ítélését követően, a büntetés kitöltésétől vagy végrehajthatósága megszűnésétől számított három éven belül követte el,
-- b) a bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetve próbára bocsátás vagy feltételes ügyészi felfüggesztés tartama alatt követte el, vagy
-- c) az embercsempészést fegyveresen követte el.
-
-(3) Az ügyészség a határozat meghozatala előtt az idegenrendészeti hatóság előzetes véleményének beszerzésével gondoskodik annak tisztázásról, hogy a harmadik országbeli állampolgárságú gyanúsított idegenrendészeti kiutasításának a feltételei a rendelkezésre álló adatok alapján fennállnak-e.
-
-(4) Az ügyészség az (1) bekezdés alapján az eljárást egy alkalommal, a Btk. Különös Része által meghatározott büntetési tétel felső határának megfelelő időre függeszti fel.
-
-(5) A határozatban figyelmeztetni kell a gyanúsítottat a 836/B. §-ban meghatározott következményekre.
-
-(6) Az (1) bekezdés a)–c) pontjában meghatározott feltételek fennállása esetén feltételes ügyészi felfüggesztésnek a 416. § (2) bekezdése alapján nincs helye és a gyanúsítottal szemben pártfogó felügyelet sem alkalmazható.
-
-(7) Ha (3) bekezdés szerinti előzetes vélemény alapján a harmadik országbeli állampolgárságú gyanúsított idegenrendészeti kiutasítása rendelhető el, az ügyészség a rendőrség útján intézkedik a gyanúsított területileg illetékes idegenrendészeti hatóság elé állítása iránt.
-
-836/B. § (1) A 836/A. §-ban meghatározott esetben a gyanúsított nem büntethető az ott meghatározott embercsempészés miatt, ha a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon elhagyta Magyarországot, valamint a határozatban meghatározott időtartamig nem tért vissza, kivéve, ha
-
-- a) a feltételes ügyészi felfüggesztés elrendelése törvénysértő volt, vagy
-- b) a (2) bekezdés alapján az eljárás folytatását kell elrendelni.
-
-(2) Ha az eljárás megszüntetésének vagy más okból történő felfüggesztésének nincs helye, az ügyészség az eljárás folytatását rendeli el, ha
-
-- a) a gyanúsított vagy − a gyanúsított hozzájárulásával − a védő a feltételes ügyészi felfüggesztés ellen panasszal él,
-- b) a gyanúsítottat a feltételes ügyészi felfüggesztés tartama alatt elkövetett szándékos bűncselekmény miatt a feltételes ügyészi felfüggesztés tartama alatt gyanúsítottként hallgatják ki, ideértve azt is, ha a megalapozott gyanú közlése a gyanúsított ismeretlen helyen vagy külföldön tartózkodása miatt nem lehetséges, vagy
-- c) a gyanúsított Magyarország területét a határozat közlésétől számított hetvenkét órán belül, vagy ha a harmadik országbeli állampolgár idegenrendészeti kiutasítása rendelhető el, az idegenrendészeti hatóság által megállapított határidőben, célországba és módon nem hagyja el, vagy a feltételes ügyészi felfüggesztés tartama alatt Magyarország területére visszatér.”
+#### 216. §
 
 #### 53. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -1470,15 +1319,9 @@ a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjái
 
 #### 59. A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény módosítása
 
-237. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 121. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 237. §
 
-„(2) A beutazási és tartózkodási tilalom elrendelhető
-
-- a) önállóan,
-- b) kiutasításhoz kapcsolódóan, vagy
-- c) a büntetőeljárásról szóló 2017. évi XC. törvény 836/A. § alapján elrendelt feltételes ügyészi felfüggesztésről hozott határozat alapján, ha a kiutasítás elrendelésére nem kerül sor.”
-
-238. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 121. § (3) bekezdésében a „szól.” szövegrész helyébe a „szól. A beutazási és tartózkodási tilalom a feltételes ügyészi felfüggesztésről hozott határozat esetén a felfüggesztés időtartamára szól.” szöveg lép.
+#### 238. §
 
 #### 60. A magyar építészetről szóló 2023. évi C. törvény módosítása
 
@@ -1502,32 +1345,15 @@ a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjái
 
 #### 61. Egyes törvényi rendelkezések hatályon kívül helyezése
 
-248. § Hatályát veszti
-
-- a) a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 85. alcíme,
-- b) a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 72. alcíme.
+#### 248. §
 
 #### 62. Egyes veszélyhelyzeti kormányrendeletek hatályon kívül helyezése
 
-249. § (1)
-
-(2)
-
-(3) Hatályát veszti
-
-- 1. a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 263/2022. (VII. 27.) Korm. rendelet,
-- 2. az egyes közérdekű adatok nyilvánosságával kapcsolatos jogok veszélyhelyzet idején történő gyakorlásáról szóló 356/2022. (IX. 19.) Korm. rendelet,
-- 3. a magyarországi gazdasági társaságok gazdasági célú védelméhez szükséges egyes rendelkezések veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 561/2022. (XII. 23.) Korm. rendelet,
-- 4. a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 587/2022. (XII. 28.) Korm. rendelet,
-- 5. a veszélyhelyzetre tekintettel egyes felszámolási tárgyú rendelkezések eltérő alkalmazásáról szóló 589/2022. (XII. 28.) Korm. rendelet,
-- 6. a veszélyhelyzet ideje alatt egyes büntetés-végrehajtási szabályok eltérő alkalmazásáról szóló 3/2023. (I. 12.) Korm. rendelet,
-- 7. az embercsempészés bűncselekmény miatt elítéltek reintegrációs őrizetéről szóló 148/2023. (IV. 27.) Korm. rendelet,
-- 8. a honvédelmi és katonai célú építményekre vonatkozó előírások veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 381/2023. (VIII. 10.) Korm. rendelet,
-- 9. a veszélyhelyzet ideje alatt Magyarország ellátásbiztonságának garantálása érdekében szükséges intézkedések kiegészítéséről szóló 117/2024. (V. 30.) Korm. rendelet.
+#### 249. §
 
 #### 63. Egyéb kormányrendeletek hatályon kívül helyezése
 
-250. § Hatályát veszti a magyarországi székhelyű gazdasági társaságok gazdasági célú védelméhez szükséges tevékenységi körök meghatározásáról szóló 289/2020. (VI. 17.) Korm. rendelet.
+#### 250. §
 
 ### 1. melléklet a 2025. évi L. törvényhez
 
