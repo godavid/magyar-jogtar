@@ -17,7 +17,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - 1. Egyesült Nemzetek Szervezete Biztonsági Tanácsának határozata: az 1956. évi I. törvénnyel kihirdetett Egyesült Nemzetek Szervezete Alapokmányának 25. cikkében meghatározott, az ENSZ BT által a nemzetközi béke és biztonság fenntartása érdekében elfogadott határozat;
 - 2. felügyeletet ellátó szerv: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott felügyeletet ellátó szerv;
 - 3. jogi személyiséggel nem rendelkező szervezet: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti nem jogi személy és nem természetes személy jogalany;
-- 4. mentesítés: a pénzügyi és vagyoni korlátozó intézkedés alá vont pénzeszköz, illetve gazdasági erőforrás feletti rendelkezési jog gyakorlásának eseti, célhoz kötött engedélyezése;
+- 4. mentesítés: a pénzügyi és vagyoni korlátozó intézkedés alá vont pénzeszköz, illetve gazdasági erőforrás feletti rendelkezési jog gyakorlásának engedélyezése;
 - 5. pénzügyi és vagyoni korlátozó intézkedés:
   - a) a pénzeszközök és gazdasági erőforrások uniós jogi aktus, illetve ENSZ BT határozat által elrendelt befagyasztása,
   - b) a pénzeszköz vagy gazdasági erőforrás rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalma; valamint
@@ -27,7 +27,11 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - 8. azonosító okmány: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti személyazonosság igazolására alkalmas hatósági igazolvány;
 - 9. szolgáltató: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó szolgáltató;
 - 10. uniós jogi aktus: az Európai Unió Működéséről Szóló Szerződés 75. cikke, illetve 215. cikke alapján elfogadott uniós jogi aktusok, valamint az e jogi aktusok felhatalmazása alapján elfogadott jogi aktusok, illetve intézkedések;
-- 11. vagyoni nyilvántartás: a külön jogszabályok szerinti ingatlan-nyilvántartás, cégnyilvántartás, járműnyilvántartás, úszólétesítmény-lajstrom, légijármű-lajstrom, kulturális örökség hatósági nyilvántartása.
+- 11. vagyoni nyilvántartás: a jogszabályok szerinti ingatlan-nyilvántartás, cégnyilvántartás, járműnyilvántartás, úszólétesítmény-lajstrom, légijármű-lajstrom, kulturális örökség hatósági nyilvántartása;
+- 12. pénzügyi és vagyoni korlátozó intézkedéssel érintett személy: olyan természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akinek vagy amelynek a jogos érdekét a pénzügyi és vagyoni korlátozó intézkedés érinti, de nem minősül a pénzügyi és vagyoni korlátozó intézkedés alanyának;
+- 13. pénzügyi és vagyoni korlátozó intézkedés közvetett alanya: a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban, illetve ENSZ BT határozatban megnevezett természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet
+  - a) tulajdonában álló vagy által ellenőrzött jogi személy, jogi személyiséggel nem rendelkező szervezet, vagy
+  - b) által ellenőrzött természetes személy.
 
 #### 3. A pénzügyi és vagyoni korlátozó intézkedések végrehajtása
 
@@ -113,11 +117,29 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 11. § Az 5–8. § alapján elrendelt intézkedéssel szemben a Vht. szabályai szerinti jogorvoslatra van lehetőség abban az esetben, ha nem az érintett személy az uniós jogi aktussal, illetve az ENSZ BT határozattal elrendelt pénzügyi és vagyoni korlátozó intézkedés alanya.
 
+11/A. § (1) Az 5–9. § alapján elrendelt intézkedés esetén az e §-ban meghatározott mentesítési eljárás lefolytatásának van helye, ha a korábban a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó személy már nem alanya a pénzügyi és vagyoni korlátozó intézkedésnek.
+
+(2) Amennyiben a mentesítés a bíróság által elrendelt zárlat feloldására irányul, a mentesítés iránti kérelmet a korábban a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó személy a szolgáltatón keresztül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell annak igazolását, hogy a kérelmező már nem alanya a pénzügyi és vagyoni korlátozó intézkedésnek.
+
+(3) Ha a hatóság a hivatalosan tudomására jutott információk, vagy a (2) bekezdés szerinti kérelem alapján lefolytatott vizsgálat eredményeképpen megállapítja, hogy a korábban a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó személy már nem alanya a pénzügyi és vagyoni korlátozó intézkedésnek, erről a vizsgálat eredményének megküldésével a vizsgálat befejezését követően haladéktalanul értesíti a bíróságot.
+
+(4) A hatóság a (3) bekezdés szerinti vizsgálat eredményes lefolytatásához szükséges mértékben megkereséssel fordulhat a (2) bekezdés szerinti kérelmet megalapozó adatok megismerése érdekében a (2) bekezdés szerinti kérelmet benyújtó személyhez.
+
+(5) A mentesítésről a bíróság a Vht. rendelkezései alapján nem peres eljárásban az értesítés beérkezésétől számított hatvan napon belül végzéssel dönt.
+
+(6) A bíróság a végzését kézbesíti a (2) bekezdés szerinti kérelmet benyújtó személynek, a hatóságnak és az állami adó- és vámhatóságnak.
+
+(7) A rendelkezésre bocsátás tilalmának hatálya alá tartozó vagyon mentesítésére irányuló kérelmet a korábban a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó személy a szolgáltatón keresztül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell annak igazolását, hogy a kérelmező már nem alanya a pénzügyi és vagyoni korlátozó intézkedésnek.
+
+(8) A hatóság a hivatalosan tudomására jutott információk, vagy a (7) bekezdés szerinti kérelem alapján az általános közigazgatási rendtartásról szóló törvény szabályai szerint dönt a mentesítésről.
+
+(9) A hatóság a határozatát kézbesíti a (7) bekezdés szerinti kérelmet benyújtó személynek és a szolgáltatónak.
+
 12. § (1) Ha a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus, illetve ENSZ BT határozat lehetővé teszi a vagyon befagyasztás alóli mentesítését, az e §-ban meghatározott mentesítési eljárás lefolytatásának van helye.
 
 (2) Amennyiben a mentesítés a bíróság által elrendelt zárlat feloldására irányul, a mentesítés iránti kérelmet a bíróságnak címezve, a hatósághoz kell benyújtani.
 
-(3) A kérelmet a pénzügyi és vagyoni korlátozó intézkedés alanya a szolgáltatón keresztül nyújtja be. A kérelemnek tartalmaznia kell a vagyon befagyasztásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmához kapcsolódó, rendelkezésre álló összes adatot, tényt, körülményt.
+(3) A kérelmet a pénzügyi és vagyoni korlátozó intézkedés alanya, valamint a pénzügyi és vagyoni korlátozó intézkedéssel érintett személy a szolgáltatón keresztül vagy közvetlenül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell a vagyon befagyasztásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmához kapcsolódó, rendelkezésre álló összes adatot, tényt, körülményt.
 
 (4) A hatóság
 
@@ -135,7 +157,7 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 (2) Az (1) bekezdés szerinti mentesítés iránti kérelmet a hatósághoz kell benyújtani.
 
-(3) A kérelmet a pénzügyi és vagyoni korlátozó intézkedés alanya a szolgáltatón keresztül nyújtja be. A kérelemnek tartalmaznia kell a vagyon rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmához kapcsolódó, rendelkezésre álló összes adatot, tényt, körülményt.
+(3) A kérelmet a pénzügyi és vagyoni korlátozó intézkedés alanya, valamint a pénzügyi és vagyoni korlátozó intézkedéssel érintett személy a szolgáltatón keresztül vagy közvetlenül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell a vagyon rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmához kapcsolódó, rendelkezésre álló összes adatot, tényt, körülményt.
 
 (4) A hatóság
 
@@ -145,6 +167,26 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 (5) A hatóság harminc napon belül megvizsgálja a mentesítési kérelmet és dönt az uniós jogi aktusban, illetve ENSZ BT határozatban rögzített feltételek alapján és szempontoknak megfelelően. A hatóság eljárására az általános közigazgatási rendtartásról szóló törvény szabályai irányadóak.
 
 (6) A hatóság az uniós jogi aktusban rögzített esetekben a határozatát megküldi a miniszter részére, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
+
+13/A. § (1) Ha a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus, illetve ENSZ BT határozat lehetővé teszi biztonsági intézkedések alkalmazásával a vagyon befagyasztás vagy rendelkezésre bocsátás tilalma alóli mentesítésének engedélyezését, az e §-ban meghatározott eljárás lefolytatásának van helye.
+
+(2) A bíróság abban az esetben engedélyezi a mentesítést, ha a pénzügyi és vagyoni korlátozó intézkedés közvetett alanya által alkalmazott biztonsági intézkedések
+
+- a) megfelelnek a hatóság által meghatározott feltételeknek,
+- b) megszüntetik a pénzügyi és vagyoni korlátozó intézkedés alanyának rendelkezési jogát a pénzügyi és vagyoni korlátozó intézkedés közvetett alanyának pénzeszközei és gazdasági erőforrásai felett, valamint
+- c) megakadályozzák a pénzügyi és vagyoni korlátozó intézkedés alanya részére pénzeszköz vagy gazdasági erőforrás rendelkezésre bocsátását.
+
+(3) A mentesítés iránti kérelmet a pénzügyi és vagyoni korlátozó intézkedés közvetett alanya a szolgáltatón keresztül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell a (2) bekezdés szerinti biztonsági intézkedések bemutatását.
+
+(4) Ha a hatóság a (3) bekezdés szerinti kérelem alapján lefolytatott vizsgálat eredményeképpen megállapítja a pénzügyi és vagyoni korlátozó intézkedés közvetett alanya által alkalmazott biztonsági intézkedések megfelelőségét, a vizsgálat eredményének megküldésével a (3) bekezdés szerinti kérelmet haladéktalanul továbbítja a bírósághoz.
+
+(5) A hatóság a (4) bekezdés szerinti vizsgálat eredményes lefolytatásához szükséges mértékben megkereséssel fordulhat a (3) bekezdés szerinti kérelmet megalapozó adatok megismerése érdekében a pénzügyi és vagyoni korlátozó intézkedés (3) bekezdés szerinti kérelmet benyújtó közvetett alanyához.
+
+(6) A mentesítésről a bíróság a Vht. rendelkezései alapján nem peres eljárásban a kérelem beérkezésétől számított hatvan napon belül végzéssel dönt.
+
+(7) A bíróság a végzését kézbesíti a pénzügyi és vagyoni korlátozó intézkedés kérelmet benyújtó közvetett alanyának, a hatóságnak és az állami adó- és vámhatóságnak.
+
+(8) A hatóság a pénzügyi és vagyoni korlátozó intézkedés fennállása alatt a biztonsági intézkedések megfelelőségét és végrehajtását folyamatosan figyelemmel kíséri.
 
 #### 5. A pénzeszközök átutalására vonatkozó korlátozó intézkedések végrehajtása
 
@@ -180,6 +222,12 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 (5) Ha a megkeresésben foglaltak teljesítésére más szerv jogosult, a megkeresett hatóság a megkeresést haladéktalanul, de legkésőbb a megkeresés beérkezésétől számított öt napon belül a hatáskörrel és illetékességgel rendelkező hatósághoz átteszi, és erről az áttétellel egyidejűleg értesíti a megkereső hatóságot.
 
 (6) A hatóság e törvény szerinti feladatának ellátásához illetékes külföldi hatóságot is megkereshet.
+
+(6a) A hatóság e törvény szerinti feladatának ellátásához szükséges mértékben jogosult megismerni és kezelni a 4. § (1) bekezdése alapján bejelentést tevő szolgáltató által kezelt bármely adatot, ideértve a fizetési, biztosítási, bank-, értékpapír-, pénztártitkot vagy foglalkoztatói nyugdíjtitkot, valamint üzleti titkot.
+
+(6b) A hatóság a feladatainak ellátásához szükséges mértékben megkereséssel fordulhat a (6a) bekezdésben meghatározott adat és titok megismerése érdekében a 4. § (1) bekezdése alapján bejelentést tevő szolgáltatóhoz, amely a megkeresésben megjelölt adatot, titkot a hatóság részére megküldi.
+
+(6c) A (6b) bekezdés szerinti megkeresést a hatóság által előírt határidőn, de legfeljebb négy munkanapon belül kell teljesíteni. A 4. § (4) bekezdésében meghatározott határidőbe nem számít bele a (6b) bekezdés szerinti megkeresés megküldése és az arra küldött válasz kézhezvétele közötti időtartam.
 
 (7) A hatóság a 4. § és a 16. § szerinti adatok ellenőrzése, valamint az e törvény szerinti feladatainak ellátásának céljából
 
@@ -241,6 +289,8 @@ a 4. § (1) bekezdésében és a 16. § (1) bekezdésében foglalt adatokat igé
 rendeletben jelölje ki.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit, valamint a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés f), h), j) és k) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
+
+(2a) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a vagyon befagyasztás vagy rendelkezésre bocsátás tilalma alól biztonsági intézkedések alkalmazásával történő mentesítés engedélyezésének, a biztonsági intézkedések megfelelősége és végrehajtása folyamatos figyelemmel kísérésének, valamint a nem megfelelő végrehajtás esetén alkalmazható intézkedések részletszabályait.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy rendeletben állapítsa meg a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés a)–e) és m) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
 

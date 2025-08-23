@@ -375,9 +375,14 @@ kerülhet sor.
 
 (3) Írásra vagy olvasásra képtelen, illetve a magyar nyelvet nem értő személy jognyilatkozata alapján a jogügylet akkor kerülhet bejegyzésre, ha a jognyilatkozat megfelel a 35. § (2) bekezdésében, valamint a Ptk. 6:7. § (4) bekezdésében előírt feltételeknek.
 
-37. § (1) A bejegyzés alapjául szolgáló jogerős bírósági, hatósági határozat vagy végleges közigazgatási hatósági döntés (e § alkalmazásában a továbbiakban együtt: határozat) tartalmára a 35. § (1) bekezdésében foglaltak az irányadók azzal az eltéréssel, hogy a határozatban a felek megállapodását – ideértve a bejegyzési engedélyt is – a bíróság, hatóság rendelkezése pótolja. Ez utóbbi rendelkezés bíróság által okiratba foglalt jognyilatkozatra nem vonatkozik.
+37. § (1) A bejegyzés alapjául szolgáló jogerős bírósági, hatósági határozat vagy végleges közigazgatási hatósági döntés (e § alkalmazásában a továbbiakban együtt: határozat) tartalmára a 35. § (1) bekezdésében foglaltak az irányadók azzal az eltéréssel, hogy
 
-(2) Az állami szervek által vezetett, jogszabály által rendszeresített nyilvántartásokból készített kivonatnak csak a bejegyzéshez szükséges adatokat kell tartalmaznia.
+- a) a határozatban a felek megállapodását – ideértve a bejegyzési engedélyt is – a bíróság, hatóság rendelkezése pótolja, és
+- b) a határozatban szereplő, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy érdekeltre vonatkozóan csak a természetes személyazonosító adatokat kell tartalmaznia, a személyi azonosítót nem.
+
+(2) Az (1) bekezdés bíróság vagy közjegyző által okiratba foglalt ügyféli jognyilatkozatra nem vonatkozik.
+
+(3) Az állami szervek által vezetett, jogszabály által rendszeresített nyilvántartásokból készített kivonatnak csak a bejegyzéshez szükséges adatokat kell tartalmaznia.
 
 38. § Ha a társasházakról szóló törvényben szabályozott társasházi közösköltség-tartozás, illetve a lakásszövetkezetekről szóló törvényben szabályozott költséghátralék biztosítékául szolgáló jelzálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a kötelezett személyi azonosító jelét, akkor azt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásból történő adatátvétellel, hivatalból pótolja.
 
