@@ -520,85 +520,17 @@ lép.
 
 #### 43. Az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény módosítása
 
-177. § (1) Az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény (a továbbiakban: Pvkit.) 2. § 4. pontja helyébe a következő rendelkezés lép:
+#### 177. §
 
-(E törvény alkalmazásában)
+#### 178. §
 
-„4. mentesítés: a pénzügyi és vagyoni korlátozó intézkedés alá vont pénzeszköz, illetve gazdasági erőforrás feletti rendelkezési jog gyakorlásának engedélyezése;”
+#### 179. §
 
-(2) A Pvkit. 2. § 11. pontja helyébe a következő rendelkezés lép:
+#### 180. §
 
-(E törvény alkalmazásában)
+#### 181. §
 
-„11. vagyoni nyilvántartás: a jogszabályok szerinti ingatlan-nyilvántartás, cégnyilvántartás, járműnyilvántartás, úszólétesítmény-lajstrom, légijármű-lajstrom, kulturális örökség hatósági nyilvántartása;”
-
-(3) A Pvkit. 2. §-a a következő 12. és 13. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„12. pénzügyi és vagyoni korlátozó intézkedéssel érintett személy: olyan természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akinek vagy amelynek a jogos érdekét a pénzügyi és vagyoni korlátozó intézkedés érinti, de nem minősül a pénzügyi és vagyoni korlátozó intézkedés alanyának;
-
-13. pénzügyi és vagyoni korlátozó intézkedés közvetett alanya: a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban, illetve ENSZ BT határozatban megnevezett természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet
-
-a) tulajdonában álló vagy által ellenőrzött jogi személy, jogi személyiséggel nem rendelkező szervezet, vagy
-
-b) által ellenőrzött természetes személy.”
-
-178. § A Pvkit. a következő 11/A. §-sal egészül ki:
-
-„11/A. § (1) Az 5–9. § alapján elrendelt intézkedés esetén az e §-ban meghatározott mentesítési eljárás lefolytatásának van helye, ha a korábban a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó személy már nem alanya a pénzügyi és vagyoni korlátozó intézkedésnek.
-
-(2) Amennyiben a mentesítés a bíróság által elrendelt zárlat feloldására irányul, a mentesítés iránti kérelmet a korábban a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó személy a szolgáltatón keresztül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell annak igazolását, hogy a kérelmező már nem alanya a pénzügyi és vagyoni korlátozó intézkedésnek.
-
-(3) Ha a hatóság a hivatalosan tudomására jutott információk, vagy a (2) bekezdés szerinti kérelem alapján lefolytatott vizsgálat eredményeképpen megállapítja, hogy a korábban a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó személy már nem alanya a pénzügyi és vagyoni korlátozó intézkedésnek, erről a vizsgálat eredményének megküldésével a vizsgálat befejezését követően haladéktalanul értesíti a bíróságot.
-
-(4) A hatóság a (3) bekezdés szerinti vizsgálat eredményes lefolytatásához szükséges mértékben megkereséssel fordulhat a (2) bekezdés szerinti kérelmet megalapozó adatok megismerése érdekében a (2) bekezdés szerinti kérelmet benyújtó személyhez.
-
-(5) A mentesítésről a bíróság a Vht. rendelkezései alapján nem peres eljárásban az értesítés beérkezésétől számított hatvan napon belül végzéssel dönt.
-
-(6) A bíróság a végzését kézbesíti a (2) bekezdés szerinti kérelmet benyújtó személynek, a hatóságnak és az állami adó- és vámhatóságnak.
-
-(7) A rendelkezésre bocsátás tilalmának hatálya alá tartozó vagyon mentesítésére irányuló kérelmet a korábban a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó személy a szolgáltatón keresztül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell annak igazolását, hogy a kérelmező már nem alanya a pénzügyi és vagyoni korlátozó intézkedésnek.
-
-(8) A hatóság a hivatalosan tudomására jutott információk, vagy a (7) bekezdés szerinti kérelem alapján az általános közigazgatási rendtartásról szóló törvény szabályai szerint dönt a mentesítésről.
-
-(9) A hatóság a határozatát kézbesíti a (7) bekezdés szerinti kérelmet benyújtó személynek és a szolgáltatónak.”
-
-179. § A Pvkit. 4. alcíme a következő 13/A. §-sal egészül ki:
-
-„13/A. § (1) Ha a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus, illetve ENSZ BT határozat lehetővé teszi biztonsági intézkedések alkalmazásával a vagyon befagyasztás vagy rendelkezésre bocsátás tilalma alóli mentesítésének engedélyezését, az e §-ban meghatározott eljárás lefolytatásának van helye.
-
-(2) A bíróság abban az esetben engedélyezi a mentesítést, ha a pénzügyi és vagyoni korlátozó intézkedés közvetett alanya által alkalmazott biztonsági intézkedések
-
-- a) megfelelnek a hatóság által meghatározott feltételeknek,
-- b) megszüntetik a pénzügyi és vagyoni korlátozó intézkedés alanyának rendelkezési jogát a pénzügyi és vagyoni korlátozó intézkedés közvetett alanyának pénzeszközei és gazdasági erőforrásai felett, valamint
-- c) megakadályozzák a pénzügyi és vagyoni korlátozó intézkedés alanya részére pénzeszköz vagy gazdasági erőforrás rendelkezésre bocsátását.
-
-(3) A mentesítés iránti kérelmet a pénzügyi és vagyoni korlátozó intézkedés közvetett alanya a szolgáltatón keresztül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell a (2) bekezdés szerinti biztonsági intézkedések bemutatását.
-
-(4) Ha a hatóság a (3) bekezdés szerinti kérelem alapján lefolytatott vizsgálat eredményeképpen megállapítja a pénzügyi és vagyoni korlátozó intézkedés közvetett alanya által alkalmazott biztonsági intézkedések megfelelőségét, a vizsgálat eredményének megküldésével a (3) bekezdés szerinti kérelmet haladéktalanul továbbítja a bírósághoz.
-
-(5) A hatóság a (4) bekezdés szerinti vizsgálat eredményes lefolytatásához szükséges mértékben megkereséssel fordulhat a (3) bekezdés szerinti kérelmet megalapozó adatok megismerése érdekében a pénzügyi és vagyoni korlátozó intézkedés (3) bekezdés szerinti kérelmet benyújtó közvetett alanyához.
-
-(6) A mentesítésről a bíróság a Vht. rendelkezései alapján nem peres eljárásban a kérelem beérkezésétől számított hatvan napon belül végzéssel dönt.
-
-(7) A bíróság a végzését kézbesíti a pénzügyi és vagyoni korlátozó intézkedés kérelmet benyújtó közvetett alanyának, a hatóságnak és az állami adó- és vámhatóságnak.
-
-(8) A hatóság a pénzügyi és vagyoni korlátozó intézkedés fennállása alatt a biztonsági intézkedések megfelelőségét és végrehajtását folyamatosan figyelemmel kíséri.”
-
-180. § A Pvkit. 15. §-a a következő (6a)–(6c) bekezdéssel egészül ki:
-
-„(6a) A hatóság e törvény szerinti feladatának ellátásához szükséges mértékben jogosult megismerni és kezelni a 4. § (1) bekezdése alapján bejelentést tevő szolgáltató által kezelt bármely adatot, ideértve a fizetési, biztosítási, bank-, értékpapír-, pénztártitkot vagy foglalkoztatói nyugdíjtitkot, valamint üzleti titkot.
-
-(6b) A hatóság a feladatainak ellátásához szükséges mértékben megkereséssel fordulhat a (6a) bekezdésben meghatározott adat és titok megismerése érdekében a 4. § (1) bekezdése alapján bejelentést tevő szolgáltatóhoz, amely a megkeresésben megjelölt adatot, titkot a hatóság részére megküldi.
-
-(6c) A (6b) bekezdés szerinti megkeresést a hatóság által előírt határidőn, de legfeljebb négy munkanapon belül kell teljesíteni. A 4. § (4) bekezdésében meghatározott határidőbe nem számít bele a (6b) bekezdés szerinti megkeresés megküldése és az arra küldött válasz kézhezvétele közötti időtartam.”
-
-181. § A Pvkit. 17. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a vagyon befagyasztás vagy rendelkezésre bocsátás tilalma alól biztonsági intézkedések alkalmazásával történő mentesítés engedélyezésének, a biztonsági intézkedések megfelelősége és végrehajtása folyamatos figyelemmel kísérésének, valamint a nem megfelelő végrehajtás esetén alkalmazható intézkedések részletszabályait.”
-
-182. § A Pvkit. 12. § (3) bekezdésében és 13. § (3) bekezdésében a „pénzügyi és vagyoni korlátozó intézkedés alanya a szolgáltatón keresztül” szövegrész helyébe a „pénzügyi és vagyoni korlátozó intézkedés alanya, valamint a pénzügyi és vagyoni korlátozó intézkedéssel érintett személy a szolgáltatón keresztül vagy közvetlenül a hatósághoz” szöveg lép.
+#### 182. §
 
 #### 44. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény módosítása
 
@@ -662,16 +594,7 @@ b) által ellenőrzött természetes személy.”
 
 #### 206. §
 
-207. § Az Inytv. 37. §-a helyébe a következő rendelkezés lép:
-
-„37. § (1) A bejegyzés alapjául szolgáló jogerős bírósági, hatósági határozat vagy végleges közigazgatási hatósági döntés (e § alkalmazásában a továbbiakban együtt: határozat) tartalmára a 35. § (1) bekezdésében foglaltak az irányadók azzal az eltéréssel, hogy
-
-- a) a határozatban a felek megállapodását – ideértve a bejegyzési engedélyt is – a bíróság, hatóság rendelkezése pótolja, és
-- b) a határozatban szereplő, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy érdekeltre vonatkozóan csak a természetes személyazonosító adatokat kell tartalmaznia, a személyi azonosítót nem.
-
-(2) Az (1) bekezdés bíróság vagy közjegyző által okiratba foglalt ügyféli jognyilatkozatra nem vonatkozik.
-
-(3) Az állami szervek által vezetett, jogszabály által rendszeresített nyilvántartásokból készített kivonatnak csak a bejegyzéshez szükséges adatokat kell tartalmaznia.”
+#### 207. §
 
 #### 208. §
 
