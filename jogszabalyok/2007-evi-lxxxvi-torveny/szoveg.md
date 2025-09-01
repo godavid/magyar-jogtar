@@ -133,7 +133,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 48a. Okosmérő: olyan távlehívható fogyasztásmérő, amely képes a távoli utasításokat fogadni tájékoztatás, vezérlés, figyelemmelkísérés és ellenőrzés céljából;
 - 48b. Operatív irányítást ellátó személy: az átviteli rendszerirányító vezető tisztségviselője, cégvezetője, valamint azon vezető állású munkavállalója, aki az átviteli-rendszerirányító irányításáért, ügyvezetéséért felelős, és operatív irányítást ellátó személyként az átviteli rendszerirányító Hivatal által jóváhagyott megfelelési programjában szerepel.
 - 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
-- 49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
+- 49a.
 - 49b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők villamos energiára vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik;
 - 49c. Rendszerbiztonsági szolgáltatás: a villamosenergia-ellátás folyamatossága és az átviteli hálózat biztonságos, stabil üzemállapotának fenntartása mint kiemelt közszolgáltatás megvalósítása érdekében szükséges, meghatározott villamosenergia-mennyiség megtermelése érdekében végzett szolgáltatás;
 - 49d. Rendszerbiztonsági szolgáltató: a rendszerbiztonsági szolgáltatás teljesítése érdekében a Kormány rendeletével kijelölt villamosenergia-termelő gazdasági társaság;
@@ -176,6 +176,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 történő értékesítése vagy ellenérték nélküli átadása;
 
+- 69b. Megosztási hozzárendelés: a megosztott energiamennyiségnek a megosztásban részt vevő elszámolási pontokhoz történő hozzárendelése negyedórás adatok alapján;
 - 70. Villamosenergia-rendszer: az átviteli rendszerirányító által – törvényben meghatározott körben az elosztó közreműködésével – a villamosenergia-ellátási szabályzatokban rögzített elvek szerint irányított erőművek és hálózatok összessége;
 - 70a. Villamosenergia-tároló: villamos energia fizikai vagy kémiai technológiával történő tárolására szolgáló berendezés vagy létesítmény, amely a közcélú hálózatról vételezett vagy azonos csatlakozási ponton csatlakozó erőmű által megtermelt villamos energiát átalakítja, eltárolja és annak műszaki veszteséggel csökkentett részét a villamosenergia-rendszerbe betáplálja, vagy – függetlenül attól, hogy van-e betáplálásra lehetősége – a csatlakozási pont mögötti felhasználásra rendelkezésre bocsátja;
 - 70b. Háztartási villamosenergia-tároló: háztartási környezetben létesített és üzemeltetett, 2 kWh-nál nagyobb névleges teljesítményű, önállóan üzemeltethető, újratölthető villamosenergia-tároló;
@@ -1033,11 +1034,11 @@ gondoskodik.
 
 (3) Az átviteli rendszerirányító és az elosztó hálózati engedélyesek elvégzik a mérőberendezések leolvasását, az elosztó hálózati engedélyesek továbbítják a mérési adatokat az átviteli rendszerirányítónak.
 
-(4) A (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén – a hálózathasználati szerződés eltérő rendelkezése vagy a felhasználó (4a) bekezdés szerinti kérésének hiányában – legalább éves gyakorisággal, egyéb esetben a Vhr.-ben előírtak alapján a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani. A hálózathasználati szerződés egy évnél hosszabb leolvasási időszakot nem állapíthat meg.
+(4) A leolvasást legalább éves gyakorisággal, a (4a) bekezdésben és a Vhr.-ben előírtakra figyelemmel a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani.
 
-(4a) A felhasználó kérésére a (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén a hálózati engedélyes negyedévente biztosítja.
+(4a) Havinál ritkább gyakorisággal leolvasott felhasználási hely tekintetében a felhasználó kérésére a (3) bekezdésben meghatározott mérőberendezések leolvasását a hálózati engedélyes negyedévente biztosítja.
 
-(4b) A hálózati engedélyes – profil alapú elszámolás esetén – legalább 5 napos időtartam megjelölésével felhívja a felhasználó figyelmét a leolvasás várható idejéről a leolvasás előtti utolsó számlában vagy a számla mellékletében. A (4) bekezdés szerinti leolvasás sikertelensége esetén a hálózati engedélyes a becsült mérőállást elszámolás céljából a leolvasásra megadott időszak utolsó napjára állapítja meg, továbbá a hálózati engedélyes értesítést hagy a felhasználó felhasználási helyén, – ha rendelkezésre áll – a levélszekrényben. Az értesítésben a hálózati engedélyes felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább munkanapon 20 óráig lehetőséget biztosít –, a hálózati engedélyes időpont-egyeztetésre alkalmas elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontjában a hálózati engedélyes és a felhasználó megegyeznek.
+(4b) A hálózati engedélyes – a felhasználási helyen történő leolvasás esetén – legalább 5 napos időtartam megjelölésével felhívja a felhasználó figyelmét a leolvasás várható idejéről a leolvasás előtti utolsó számlában vagy a számla mellékletében. A (4) bekezdés szerinti leolvasás sikertelensége esetén a hálózati engedélyes a becsült mérőállást elszámolás céljából a leolvasásra megadott időszak utolsó napjára állapítja meg, továbbá a hálózati engedélyes értesítést hagy a felhasználó felhasználási helyén, – ha rendelkezésre áll – a levélszekrényben. Az értesítésben a hálózati engedélyes felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább munkanapon 20 óráig lehetőséget biztosít –, a hálózati engedélyes időpont-egyeztetésre alkalmas elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontjában a hálózati engedélyes és a felhasználó megegyeznek.
 
 (4c) Az elosztó a felhasználóval kötött megállapodás alapján a mérőberendezés leolvasását a felhasználó részére biztosított, a mérőállást fényképen rögzítő és az elosztó részére továbbító applikáció útján is végrehajthatja.
 
@@ -1122,6 +1123,8 @@ kiállított számla érvénytelen.
 (2) A 155. § (10) bekezdésében meghatározott célok érdekében az energetikai adatszolgáltató platformot kormányrendeletben kijelölt működtető engedélyes szabályzatában meghatározott módon gondoskodik a háztartási méretű kiserőművek nem elszámolási célú adatainak kezeléséről a Hivatal által kiadott engedély alapján.
 
 (3) Az elosztói engedélyes, az egyetemes szolgáltató, a villamosenergia-kereskedő és az energetikai adatszolgáltató platform működtetője a kormányrendeletben meghatározott módon köteles együttműködni a háztartási méretű kiserőmű és az inverterek azonosításához szükséges adatok cseréjében.
+
+(4) Az elosztó a hatásos villamosenergia-mennyiségre vonatkozó mérési adatokhoz hozzáférést biztosít az energetikai adatszolgáltató platform működtetője számára a 155. § (10) bekezdése szerinti célból. Az adatokhoz való hozzáférés és az adatkezelés részletszabályait a Vhr. és az elosztói szabályzat tartalmazza.
 
 ### VII. Fejezet — VILLAMOSENERGIA-KERESKEDELEM
 
@@ -1552,17 +1555,26 @@ a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határ
 
 ### Villamosenergia-vásárlási szerződés
 
-61. § (1) A felhasználó a külön jogszabályban és a vele szerződő engedélyes üzletszabályzatában meghatározott feltételek szerint villamosenergia-kereskedővel, termelővel, illetve a villamos energia határon keresztül történő beszállítása útján, valamint a szervezett villamosenergia-piacon írásban villamos energia vásárlási szerződést köthet.
+61. § (1) A felhasználó jogszabályban és a vele szerződő engedélyes üzletszabályzatában meghatározott feltételek szerint villamosenergia-kereskedővel, termelővel, illetve a villamos energia határon keresztül történő beszállítása útján, valamint a szervezett villamosenergia-piacon írásban villamosenergia-vásárlási szerződést köthet.
 
-(2) A villamosenergia-kereskedő köteles igazolható módon a villamosenergia-vásárlási szerződés megkötése előtt tájékoztatni a felhasználót a villamosenergia-vásárlási szerződés lényeges tartalmi elemeiről, és a felhasználó rendelkezésére bocsátani a szerződéses feltételek összefoglalóját. A tájékoztatásnak egyértelműnek, közérthetőnek és világosnak kell lennie.
+(2) A villamosenergia-kereskedő a villamosenergia-vásárlási szerződés megkötése előtt igazolható módon tájékoztatja a felhasználót a villamosenergia-vásárlási szerződés lényeges tartalmi elemeiről, és a felhasználó rendelkezésére bocsátja a szerződéses feltételek összefoglalóját. A tájékoztatásnak egyértelműnek, közérthetőnek és világosnak kell lennie.
 
-(2a) A villamosenergia-kereskedő a (2) bekezdés szerinti tájékoztatás körében a 45. § (2) és (3) bekezdésben meghatározott villamosenergia-vásárlási szerződéssel kapcsolatban tájékoztatja a felhasználót
+(3) A villamosenergia-kereskedő a (2) bekezdés szerinti tájékoztatás körében a villamosenergia-vásárlási szerződés egyes típusaival kapcsolatban tájékoztatja a felhasználót
 
 - a) az adott szerződésre vonatkozó költségekről és kockázatokról,
-- b) az adott szerződéssel kapcsolatban azonosítható előnyökről, valamint
+- b) az adott szerződéssel kapcsolatban azonosítható lehetőségekről, valamint
 - c) arról, ha valamely villamosenergia-vásárlási szerződés megkötéséhez meghatározott fogyasztásmérő berendezés felszerelése szükséges.
 
-(3) A villamosenergia-kereskedő a vele szerződő egyetemes szolgáltatásra jogosult felhasználóknak díjmentesen biztosítja a mérlegköri tagságot.
+(4) A 45. § (2) bekezdése szerinti árszabást tartalmazó és a 45. § (3) bekezdésében meghatározott villamosenergia-vásárlási szerződéssel kapcsolatos tájékoztatás magában foglalja továbbá
+
+- a) a felhasználó 62. § (1) és (1a) bekezdése szerinti tartalmú szerződéshez fűződő jogára, valamint a (2) és (3) bekezdésében foglalt jogaira vonatkozó tájékoztatást,
+- b) a szolgáltatás teljes ellenértékét és annak részletezését, hogy az milyen díjelemekből tevődik össze,
+- c) annak megjelölését, hogy az ár fix, több zónaidős vagy rugalmas, valamint
+- d) a villamosenergia-kereskedő által érvényesíthető egyszeri díjak és biztosított kedvezmények ismertetését.
+
+(5) A (4) bekezdés alkalmazásában új villamosenergia-vásárlási szerződés megkötésének kell tekinteni a szerződéshosszabbítást is.
+
+(6) A villamosenergia-kereskedő a vele szerződő egyetemes szolgáltatásra jogosult felhasználóknak díjmentesen biztosítja a mérlegköri tagságot.
 
 62. § (1) Az egyetemes szolgáltatásra jogosult felhasználónak a villamosenergia-kereskedővel kötendő villamosenergia-vásárlási szerződése tartalmazza legalább
 
@@ -1760,6 +1772,28 @@ való jog.
 (5) Az a természetes vagy jogi személy, aki foglalkozását vagy elsődleges gazdasági tevékenységét a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1893/2006/EK rendelet) I. melléklete szerinti villamosenergia, gázellátás területén fejti ki, vagy olyan jogi személyben rendelkezik egyedüli vagy többségi tulajdonnal, meghatározó befolyással, illetve olyan jogi személy vezető tisztségviselője vagy kapcsolt vállalkozása, amely főtevékenységét az 1893/2006/EK rendelet I. melléklete szerinti villamosenergia, gázellátás területén fejti ki, nem lehet az energiaközösség ügyvezetését egyedül vagy – amennyiben az energiaközösség ügyvezetését több személyből álló testület látja el – többségben ellátó tagja.
 
 (6) Az energiaközösség döntéshozó szervében nem vehet részt az irányítási jog gyakorlásához szükséges mértékben az (5) bekezdésben meghatározott természetes vagy jogi személy.
+
+(7) A társasházi energiaközösség a társasházakról szóló törvény szerinti társasházban – ide értve a lakásszövetkezetekről szóló törvény szerinti lakásszövetkezetet is – lévő, legalább két lakás vagy nem lakás céljára szolgáló helyiség (a továbbiakban együtt: lakás) tulajdonosának (a továbbiakban: tag vagy tagok) írásbeli megállapodásán alapuló együttműködése. A társasházi energiaközösség célja, hogy
+
+- a) a tagok mint aktív felhasználók a társasház közcélú hálózati csatlakozási pontja mögött, a társasház összekötő berendezéséhez kapcsolódóan háztartási méretű kiserőművet létesítsenek és üzemeltessenek, és
+- b) a háztartási méretű kiserőmű által termelt villamos energiát a társasházi energiaközösség elsődlegesen a társasház közös fogyasztására, valamint a társasházi energiaközösség tagjának fogyasztására használja fel.
+
+(8) A társasházi energiaközösség nem önálló jogalany, nem minősül az (1) és (2) bekezdés szerinti energiaközösségnek és nem kell alkalmazni rá a 66/C. §-t.
+
+(9) A lakás tulajdonosának írásbeli hozzájárulása esetén a lakás bérlője is a társasházi energiaközösség tagjává válhat. A tagok a háztartási méretű kiserőmű létesítésére, üzemeltetésére és az üzemeltetésből származó hasznok és terhek megosztására vonatkozóan megállapodást kötnek. A tagok a megállapodásban döntenek az elszámolási modell alkalmazását illetően arról, hogy
+
+- a) a háztartási méretű kiserőmű által termelt az összekötő berendezésre feltáplált és a társasház közcélú csatlakozási pontja mögött felhasznált villamos energia után a társasház forgalomarányos, diszkontált rendszerhasználati díjvisszatérítésben részesüljön, vagy
+- b) a tagok elszámolása a megosztási megállapodásban foglaltak alapján történő megosztási hozzárendelést követően előállt korrigált idősoros mérési adatok alapján történjen.
+
+(10) A társasházi energiaközösség a (9) bekezdés szerinti megállapodás
+
+- a) megkötéséről a megállapodás megküldésével az igénybejelentés benyújtásával egyidejűleg,
+- b) módosítása esetén a módosítás elfogadását követő 5 munkanapon belül,
+- c) megszűnése esetén a megszűnés napját követő 5 munkanapon belül
+
+tájékoztatja az elosztó hálózati engedélyest és a társasházi energiaközösség tagjait ellátó villamosenergia-kereskedőt. A tájékoztatás elmulasztásából fakadó esetleges károkért a társasházi energiaközösség tagjai viselik a felelősséget.
+
+(11) A társasházi energiaközösségekre vonatkozó részletszabályokat az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
 
 66/C. § (1) A Hivatal az energiaközösségekről nyilvántartást vezet, amely – jogi személyek azonosító adatai kivételével – közhiteles hatósági nyilvántartásnak minősül. Az adott jogi személy a nyilvántartásba történő bejegyzés napjától minősül energiaközösségnek.
 
@@ -3318,6 +3352,8 @@ vonatkozó adatokat, illetve az ezzel kapcsolatosan a piaci szereplőnél keletk
 
 119/B. § (1) A helyi önkormányzat a működési területéhez tartozó belterületen lévő közintézményi felhasználó, a sportról szóló törvény szerinti sportlétesítmény, a műemlék tulajdonosa a magyar építészetről szóló törvény szerinti műemlék felújítása esetében, valamint a Vhr-ben meghatározott esetekben – a Vhr.-ben meghatározott feltételek szerint – jogosult az elosztótól a 132 kV-nál kisebb névleges feszültségű szabadvezetékek földkábelre történő cseréjét, továbbá e cserével összefüggésben a csatlakozó-, kapcsoló- és átalakítóberendezések indokolt átalakítását vagy cseréjét kezdeményezni (a továbbiakban együtt: kábelcsere).
 
+(1a) Üzembe helyezett földkábel esetén ugyanazon a vezetékszakaszon kizárólag olyan szabadvezeték üzemeltethető, melyen egy vagy több csatlakozási pont található. Csatlakozási pont hiányában az érintett szakaszon földkábellel párhuzamosan futó szabadvezeték nem üzemeltethető. A földkábellel párhuzamosan futó szabadvezeték üzemeltethetőségének részletszabályait az e törvény végrehajtására kiadott rendelet állapítja meg.
+
 (2) Az elosztó az (1) bekezdés szerinti kezdeményezéseknek köteles eleget tenni. Közintézményi felhasználó és sportlétesítmény esetében az elosztó – műemlék felújítása kivételével – az (1) bekezdés szerinti kezdeményezések alapján – a természetvédelmi, turisztikai és kulturális örökségvédelmi szempontok esetében a Vhr.-ben meghatározott szempontok figyelembevételével és az érintett önkormányzat bevonásával – kábelcsere-ütemezési tervet készít. Az elosztó – az önkormányzati álláspontot is tartalmazó – kábelcsere-ütemezési tervet a Hivatalhoz jóváhagyás céljából benyújtja. A tervet a Hivatal hagyja jóvá és évente felülvizsgálja.
 
 (3) Az elosztó viseli az (1) bekezdés szerinti kábelcsere során a tervezéssel és a szabadvezeték lebontásával kapcsolatos költségeket, továbbá a közintézményi felhasználó, sportlétesítmény és műemlék esetén a földkábel beszerzésével, lefektetésével, valamint befedésével közvetlenül érintett, az eredeti állapot helyreállításához szükséges indokolt költségeket is.
@@ -3934,18 +3970,19 @@ céljából kezelheti a távlehívható fogyasztásmérő által gyűjtött adat
 
 (9) Az aggregátor és az energiaközösség a (6) és a (8) bekezdésben meghatározott adatokat 5 évig kezeli.
 
-(10) Az energetikai adatszolgáltató platform
+(10) Az energetikai adatszolgáltató platformot működtető engedélyes
 
 - a) a biztonságos villamosenergia-ellátás támogatása,
 - b) a hazai villamosenergia-piac hatékonysága növelésének támogatása,
 - c) a hálózati engedélyesek részére biztosított rendszerszintű és a rugalmassági szolgáltatások támogatása,
 - d) a szabályszegések szűrésének támogatása,
 - e) az érintett felhasználók tájékoztatása,
-- f) a decentralizált energiatermelés hatékonyabb intergrációjának támogatása,
+- f) a decentralizált energiatermelés hatékonyabb integrációjának támogatása,
 - g) az energiaközösségek, aggregátorok, aktív felhasználók adatalapú támogatása,
-- h) az e törvény végrehajtására kiadott rendeletben foglaltak szerint a hálózati engedélyesek közötti adat- és információcsere-folyamatok segítése, fejlesztése
+- h) az e törvény végrehajtására kiadott rendeletben foglaltak szerint a hálózati engedélyesek közötti adat- és információcsere-folyamatok segítése,
+- i) a szakpolitikai döntéshozatal támogatása
 
-céljából kezeli a háztartási méretű kiserőművek nem elszámolási célú adatait.
+céljából kezeli a háztartási méretű kiserőművek nem elszámolási célú termelési és üzemeltetési adatait és a fogyasztásmérő berendezések hatásos villamosenergia-mennyiségre vonatkozó adatait.
 
 (11) Az energetikai adatszolgáltató platform a (10) bekezdésben meghatározott adatokat 5 évig kezeli.
 
@@ -4353,7 +4390,7 @@ nem változtathatja meg.
 - 54. a kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét,
 - 55. az átviteli rendszerirányító és az elosztó hálózati engedélyesek által a villamosenergia-rendszer üzembiztonságára tekintettel a nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás megtagadásának feltételeit és a nagy- vagy középfeszültségű hálózatra csatlakozni kívánó termelők részére kiosztható szabad kapacitások meghatározásának módjára vonatkozó szabályokat
 - 56. az energetikai adatszolgáltató platform működtetőjének kijelölését, a működtetésére vonatkozó részletes szabályokat, a háztartási méretű kiserőművek nem elszámolási célú adatok és azok műszaki jellemzői meghatározását, valamint az energetikai adatszolgáltató platform által nyújtott szolgáltatások díját,
-- 57. az aktív felhasználó 45/A. § szerinti kötelezettsége teljesítésének részletes szabályait és a teljesítéshez szükséges műszaki és egyéb feltételeket, valamint a kötelezettség alóli mentesülés feltételeinek részletes szabályait,
+- 57. az aktív felhasználó 45/A. § szerinti kötelezettsége teljesítésének részletes szabályait és a teljesítéshez szükséges műszaki és egyéb feltételeket, valamint a kötelezettség alóli mentesülés feltételeinek részletes szabályait, továbbá a 45/A. § (4) bekezdése szerinti adatok műszaki jellemzőinek meghatározását és az azokhoz való hozzáférés, átadás részletes szabályait,
 - 58. a rugalmas hálózati csatlakozási szerződésre vonatkozó részletszabályokat,
 - 59. a termelői vezeték és a csatlakozási pont közös használatára vonatkozó szabályokat, a közös használatra vonatkozó megállapodás minimális tartalmi követelményeit, valamint az önellátó termelői egységhez tartozó vezetékre vonatkozó adatszolgáltatás szabályait,
 - 60. a betáplálásra irányuló hálózati hozzáférés szabályainak részletszabályit, valamint a miniszternek a 35/A. § (2) bekezdésben meghatározott feladatának végrehajtását segítő szerv létrehozására, működésére, feladat- és hatáskörére, valamint tagjaira vonatkozó részletszabályokat,

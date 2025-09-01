@@ -62,7 +62,7 @@ miatt került sor.
 
 nyújt a sérelem rendezéséhez.
 
-(3) Azonnali pénzügyi segélyként az áldozatsegítő szolgálat fedezi az áldozat lakhatással, ruházkodással, élelmezéssel és utazással kapcsolatos, valamint a gyógyászati és kegyeleti jellegű rendkívüli kiadásait akkor, ha a bűncselekmény vagy a tulajdon elleni szabálysértés következtében az áldozat ezen kiadások megfizetésére nem képes. A segély legmagasabb összege az alapösszeggel egyezik meg. Az alapösszeg mértéke a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 43 százaléka.
+(3) Azonnali pénzügyi segélyként az áldozatsegítő szolgálat fedezi az áldozat lakhatással, ruházkodással, élelmezéssel és utazással kapcsolatos, valamint a gyógyászati és kegyeleti jellegű rendkívüli kiadásait akkor, ha a bűncselekmény vagy a tulajdon elleni szabálysértés következtében az áldozat ezen kiadások megfizetésére nem képes. A segély legmagasabb összege az alapösszeggel egyezik meg, legalacsonyabb megállapítható összege – függetlenül az áldozat által megjelölt kiadásoktól és a bűncselekménnyel vagy a tulajdon elleni szabálysértéssel okozott kár összegétől – az alapösszeg 10 százaléka. Az alapösszeg mértéke a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 43 százaléka.
 
 (4) Ha valamely hatóság vagy más szerv az általa nyújtott ellátás, szolgáltatás vagy támogatás igénybevételét attól teszi függővé, hogy az ellátást, szolgáltatást vagy támogatást igénylő személy az e törvény hatálya alá tartozó áldozat, továbbá ha ez egyéb okból szükséges, az áldozatsegítő szolgálat e tény igazolására az áldozat kérelmére vagy hivatalból hatósági bizonyítványt állít ki (a továbbiakban: áldozati státusz igazolása).
 
@@ -71,6 +71,8 @@ nyújt a sérelem rendezéséhez.
 (6) Az állam az emberkereskedelem áldozataként azonosított, magyar állampolgárságú vagy a szabad mozgás és tartózkodás jogával rendelkező személy számára tekintet nélkül arra, hogy az 1. § (1) bekezdésében és a 2. §-ban meghatározott bűncselekmény miatt büntetőeljárás indult-e, szükség szerint védett szálláshelyet biztosít. Védett szálláshely az emberkereskedelem áldozataként azonosított személyt befogadó és számára jogszabályban meghatározott ellátásokat nyújtó létesítmény.
 
 (7) A szolgáltatások a rászorultság vizsgálata nélkül, térítésmentesen járnak az áldozatnak.
+
+(7a) Az áldozat eltulajdonított személyazonosító igazolványa helyett az új személyazonosító igazolvány kiállításáért, illetve annak belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat nem kell fizetni, ha az áldozat bemutatja a személyazonosító igazolvány kiállítása ügyében eljáró hatóságnak az áldozati státusz igazolását.
 
 (8) Amennyiben az áldozat az (1) bekezdés a) vagy e) pontjában foglalt szolgáltatás iránt fordul az áldozatsegítő szolgálathoz, az áldozatsegítő szolgálat nevében eljáró hivatalos személy mentesül a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 376. § (2)–(3) bekezdésében foglalt kötelezettség alól.
 
@@ -167,7 +169,7 @@ nyújt a sérelem rendezéséhez.
 
 ### Igazolás
 
-11. § (1) A büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság a támogatás igénybevételéhez igazolást állít ki az áldozat vagy az áldozatsegítő szolgálat kérelme alapján. Az igazolás tartalmazza
+11. § (1) A büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság a támogatás igénybevételéhez, valamint az eltulajdonított személyazonosító igazolvány díjmentes kiállítása érdekében igazolást állít ki az áldozat vagy az áldozatsegítő szolgálat kérelme alapján. Az igazolás tartalmazza
 
 - a) az áldozat 10. § (3) bekezdésének a) pontja szerinti adatait,
 - b) a büntetőeljárás tárgyát képező cselekményre vonatkozó adatokat (a tényállás és annak Btk. szerinti minősítése),
@@ -302,7 +304,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (3) Gyermekkorúnak kell tekinteni az áldozatot, ha az életkora nem állapítható meg és okkal feltételezhető, hogy a tizennyolcadik életévét még nem töltötte be.
 
-(4)
+(4) Az e törvény szerint a tizennyolcadik életévét be nem töltött személy részére nyújtható támogatások esetében nem járhat el a jogosult törvényes képviselője a hozzájáruláshoz kötött cselekményeknél, amennyiben a törvényes képviselőt a bűncselekménnyel érintett büntetőeljárásból kizárták. A kizárással nem érintett törvényes képviselő a hozzájáruláshoz kötött cselekményeknél továbbra is eljárhat. Amennyiben kizárással nem érintett törvényes képviselő nincs, a hozzájáruláshoz kötött cselekményeknél a kiskorú érdekeinek képviseletére kijelölt személy járhat el.
 
 ### V. Fejezet — A SZOLGÁLTATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -529,7 +531,7 @@ kísérése
 
 ### Az áldozatok közvetlen elérése
 
-43/A. § (1) Az általános nyomozó hatóság a szándékos, személy elleni erőszakos bűncselekmény [1978. évi IV. törvény 137. § 17. pontja, illetve Btk. 459. § (1) bekezdés 26. pontja], a megrontás [1978. évi IV. törvény 201–202/A. §), a szexuális visszaélés (Btk. 198. §), a kerítés (1978. évi IV. törvény 207. §, illetve Btk. 200. §), az üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pontja], a gyermekprostitúció kihasználása (Btk. 203. §), a zaklatás (1978. évi IV. törvény 176/A. §, illetve Btk. 222. §), a kifosztás (1978. évi IV. törvény 322. §, illetve Btk. 366. §), a szabálysértési értékre elkövetett lopás [1978. évi IV. törvény 316. § (2) bekezdés második fordulata, illetve Btk. 370. § (2) bekezdés b) pontja] vagy a kisebb értékre elkövetett lopás bűncselekmény [1978. évi IV. törvény 316. § (2) bekezdés első fordulata, illetve Btk. 370. § (2) bekezdés a) pontja] sértettjét – ha a sértett a feljelentést személyesen teszi meg, akkor a feljelentés megtételekor, egyébként a sértett első tanúkénti kihallgatásakor – tájékoztatja
+43/A. § (1) Az általános nyomozó hatóság a szándékos, személy elleni erőszakos bűncselekmény [1978. évi IV. törvény 137. § 17. pontja, illetve Btk. 459. § (1) bekezdés 26. pontja], a megrontás [1978. évi IV. törvény 201–202/A. §), a szexuális visszaélés (Btk. 198. §), a kerítés (1978. évi IV. törvény 207. §, illetve Btk. 200. §), az üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pontja], a gyermekprostitúció kihasználása (Btk. 203. §), a zaklatás (1978. évi IV. törvény 176/A. §, illetve Btk. 222. §), a kifosztás (1978. évi IV. törvény 322. §, illetve Btk. 366. §), a szabálysértési értékre elkövetett lopás [1978. évi IV. törvény 316. § (2) bekezdés második fordulata, illetve Btk. 370. § (2) bekezdés b) pontja] vagy a kisebb értékre elkövetett lopás bűncselekmény [1978. évi IV. törvény 316. § (2) bekezdés első fordulata, illetve Btk. 370. § (2) bekezdés a) pontja] sértettjét – ha a sértett a feljelentést személyesen teszi meg, akkor a feljelentés megtételekor, egyébként a sértett első tanúkénti kihallgatásakor, vagy a sértett halála esetén a Be. alapján a sértett helyébe lépett jogutódot az 1. § (1) bekezdés szerint saját jogán az eljárásban történő első fellépésekor – tájékoztatja
 
 - a) az áldozatsegítő szolgálatokról,
 - b) arról, hogy támogatásra lehet jogosult, és
@@ -546,7 +548,7 @@ kísérése
 
 lehetőség szerint azonnal, de legfeljebb két munkanapon belül a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján továbbítja az áldozatsegítő szolgálat részére.
 
-(5) A büntetőeljárásról szóló törvény szerinti zárt adatkezelés esetén az általános nyomozó hatóság az érintett zártan kezelt adatait a (4) bekezdésben foglaltaktól eltérően papíralapon továbbítja az áldozatsegítő szolgálat részére.
+(5) A büntetőeljárásról szóló törvény szerinti zárt adatkezelés esetén az általános nyomozó hatóság az érintett zártan kezelt adatait a (4) bekezdésben foglaltaktól eltérően papíralapon továbbítja az áldozatsegítő szolgálat részére, ha a zártan kezelt adatok információátadási szolgáltatás útján történő továbbításának technikai feltételei nem biztosítottak.
 
 43/B. § (1) Az áldozatsegítő szolgálat a 43/A. § (4) bekezdésében meghatározott adatok megérkezését követő két munkanapon belül intézkedik az érintettel történő kapcsolatfelvétel iránt, és tájékoztatást nyújt számára a 24. § (1) bekezdésében foglaltak szerint.
 

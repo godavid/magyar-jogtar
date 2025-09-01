@@ -299,7 +299,10 @@ rendelhető el.
 
 (3a) Ha a terhelt az átadásba beleegyezett és az (1) bekezdés szerinti döntés meghozatalához kizárólag a tagállami igazságügyi hatóság által nyújtott garancia beszerzése szükséges, a Fővárosi Törvényszék a tagállami garancia megérkezését követően az ideiglenes átadási letartóztatásban lévő terhelt átadási letartóztatását és egyszerűsített átadását az ügyiratok alapján is elrendelheti. E lehetőségről a terheltet az ideiglenes átadási letartóztatás elrendelésekor tájékoztatni kell.
 
-(4) Ha kivételes esetben az átadási letartóztatásról és egyszerűsített átadásról szóló határozat az (3) bekezdésben meghatározott határidőn belül nem hozható meg, a 16. § (2) és (3) bekezdését megfelelően alkalmazni kell azzal, hogy a Fővárosi Törvényszék a határidőt legfeljebb tíz nappal hosszabbíthatja meg.
+(4) A Fővárosi Törvényszék a (3) bekezdésben meghatározott határidőt legfeljebb tíz nappal meghosszabbíthatja
+
+- a) a tagállami igazságügyi hatóság kérelmére, ha a garancia előterjesztése érdekében szükséges,
+- b) a 16. § (2) és (3) bekezdésének megfelelő alkalmazásával, ha kivételes esetben az átadási letartóztatásról és egyszerűsített átadásról szóló határozat határidőn belül nem hozható meg.
 
 (5) Az átadási letartóztatás és egyszerűsített átadás elrendelése ellen fellebbezésnek nincs helye.
 
@@ -502,6 +505,14 @@ haladéktalanul védőt rendel ki, ha a terheltnek nincs védője, és ezzel egy
 #### 16. Megállapodás ideiglenes átadásról
 
 29. § Ha a tagállami igazságügyi hatóság az átadás elhalasztása helyett – az írásban kötött közös megállapodásban meghatározott feltételek szerint – a keresett személy ideiglenes átadásáról hoz határozatot, a megállapodásban rögzített feltételek minden magyar hatóságra kötelezőek. A megállapodásra a 23. § (3) bekezdését értelemszerűen alkalmazni kell.
+
+29/A. § (1) Ha a magyar igazságügyi hatóság az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátja ki, az elfogatóparancsban – a 2. melléklet f) pontja szerint megjelölve – kérheti, hogy a tagállami igazságügyi hatóság az írásban történt közös megállapodásban meghatározott feltételek szerint rendelje el a terhelt ideiglenes átszállítását.
+
+(2) Ha az európai elfogatóparancs kibocsátását követően a terhelt ideiglenes átszállítása válik indokolttá, a magyar igazságügyi hatóság közvetlenül a tagállami végrehajtó igazságügyi hatóságtól kérheti – az írásban kötött közös megállapodásban meghatározott feltételek szerint – a terhelt ideiglenes átszállítását.
+
+(3) Ha a terhelt ideiglenes átszállításának indoka az (1) bekezdésben foglalt büntetőeljáráson kívüli másik büntetőeljárásban merül fel, az ebben a büntetőeljárásban eljáró magyar igazságügyi hatóság a terhelttel szemben újabb európai elfogatóparancsot bocsát ki. Az európai elfogatóparancs kibocsátására az (1) bekezdésben foglaltakat kell alkalmazni.
+
+(4) Az e §-ban foglalt megállapodásokra a 23. § (3) bekezdését értelemszerűen alkalmazni kell.
 
 #### 17. A specialitás szabálya
 
@@ -1640,37 +1651,9 @@ kéri.
 
 71. § (1) A magyar igazságügyi hatóság a folyamatban lévő vagy befejezett büntetőügyben a tagállami igazságügyi hatóságnak közvetlenül tájékoztatást adhat, illetve ilyen üggyel kapcsolatban közvetlenül tájékoztatást kérhet.
 
-(2) A nyomozó hatóság vagy az ügyészség a büntetőeljárással kapcsolatban a bűncselekmény elkövetésével gyanúsítható személy kilétének, tényleges tartózkodási helyének megállapítása, elrejtőzésének, a bűncselekmény befejezésének vagy újabb bűncselekmény elkövetésének megakadályozása végett, vagy késedelmet nem tűrő más okból a tagállami igazságügyi hatóságtól vagy bűnüldöző szervtől közvetlenül tájékoztatást kérhet, illetve annak tájékoztatást adhat. A tájékoztatás tényéről és tartalmáról a nyomozó hatóság az ügyészséget haladéktalanul értesíti.
+(2) Az ügyészség az (1) bekezdés szerinti közvetlen tájékoztatás adását, illetve kérését a NEBEK útján is megküldheti, illetve fogadhatja.
 
-71/A. § (1) Ha a 71. § (2) bekezdés szerinti tájékoztatáskérés eredménytelen vagy előreláthatóan nem vezetne eredményre, a nyomozó hatóság vagy az ügyészség a 3. számú mellékletben megjelölt formanyomtatvány szerint előterjesztett tájékoztatás iránti kérelemmel fordulhat a tagállami illetékes bűnüldöző szervhez vagy igazságügyi hatósághoz. Ha a kérelmet a nyomozó hatóság terjeszti elő, erről a tényről és annak tartalmáról az ügyészséget haladéktalanul értesíti.
-
-(2) A nyomozó hatóság vagy az ügyészség a tájékoztatás iránti kérelem teljesítése végett a tagállami bűnüldöző szerv vagy igazságügyi hatóság számára tizennégy napos határidőt állapít meg.
-
-(3) Ha a tájékoztatás iránti kérelem az 1. számú mellékletben meghatározott bűncselekmények valamelyikére vonatkozik, a nyomozó hatóság vagy az ügyészség a tájékoztatás iránti kérelem teljesítésére
-
-- a) hétnapos határidőt,
-- b) sürgősségi megkeresés esetén nyolcórás határidőt
-
-állapíthat meg.
-
-71/B. § (1) Ha a tagállami bűnüldöző szervtől vagy igazságügyi hatóságtól a 71. § (2) bekezdésében meghatározott adatra vonatkozó, a 3. számú mellékletben megjelölt formanyomtatvány szerint érkezik megkeresés, a nyomozó hatóság vagy az ügyészség a rendelkezésére álló információt átadja.
-
-(2) Az (1) bekezdés szerinti tájékoztatást a 4. számú mellékletben megjelölt formanyomtatvány szerint kell megadni. Ha az információról a nyomozó hatóság ad tájékoztatást, erről és a tájékoztatás tartalmáról az ügyészséget haladéktalanul értesíti.
-
-(3) A megkeresést a nyomozó hatóság vagy az ügyészség a hozzáérkezésétől számított tizennégy napon belül teljesíti.
-
-(4) Ha a megkeresés az 1. számú mellékletben meghatározott bűncselekményfajták valamelyikére vonatkozik, és a kért információ a nyomozó hatóság vagy az ügyészség számára közvetlenül hozzáférhető, a megkeresést a nyomozó hatóság vagy az ügyészség a hozzáérkezésétől számított
-
-- a) hét napon,
-- b) sürgősségi megkeresés esetén nyolc órán
-
-belül teljesíti.
-
-(5) Ha a (4) bekezdés b) pontja szerinti tájékoztatás teljesítése aránytalan terhet jelent, azt a nyomozó hatóság vagy az ügyészség legfeljebb három nappal elhalasztja. Erről a megkereső hatóságot haladéktalanul értesíti, és a késedelem okát a 4. számú melléklet megfelelő részének kitöltésével indokolja.
-
-(6) Ha a (3)–(4) bekezdésben meghatározott határidőn belül a tájékoztatásadás nem teljesíthető, a nyomozó hatóság vagy az ügyészség erről a megkereső hatóságot haladéktalanul értesíti, és a késedelem indokát a 4. számú melléklet megfelelő részének kitöltésével indokolja.
-
-(7) A megkeresés teljesítését a nyomozó hatóság vagy az ügyészség megtagadja, ha
+(3) A közvetlen tájékoztatás iránti megkeresés nem teljesíthető, ha
 
 - a) a teljesítés
   - aa) Magyarország alapvető nemzetbiztonsági érdekét sérti, vagy
@@ -1680,15 +1663,19 @@ belül teljesíti.
   - bb) csak külön engedély alapján hozzáférhető, és ezen engedély hiányzik, vagy
   - bc) csak más tagállam vagy harmadik ország hozzájárulásával adható át, és ezen hozzájárulás hiányzik.
 
-(8) A (7) bekezdés a) pont aa) alpontjában foglalt kérdésben a legfőbb ügyész állásfoglalása irányadó.
+(4) A (3) bekezdés a) pont aa) alpontjában foglalt kérdésben a legfőbb ügyész állásfoglalása irányadó.
 
-(9) A megkeresés teljesítése megtagadható, ha a kérelem olyan bűncselekményre vonatkozik, amely egy évnél rövidebb időtartamú szabadságvesztéssel vagy elzárással büntetendő.
+(5) A közvetlen tájékoztatás iránti megkeresés teljesítése megtagadható, ha a kérelem olyan bűncselekményre vonatkozik, amely egy évnél rövidebb időtartamú szabadságvesztéssel vagy elzárással büntetendő.
 
-71/C. § (1) A jogszabályban meghatározott nyomozó hatóság a bűncselekményből származó jövedelem és a bűncselekményhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése érdekében az erre a feladatra kijelölt tagállami közigazgatási, bűnüldözési vagy igazságügyi hatóságtól közvetlenül tájékoztatást kérhet, illetve annak tájékoztatást adhat.
+(6) A magyar igazságügyi hatóság a közvetlen tájékoztatás útján átadott információ bizonyítási eszközként történő felhasználását meghatározott feltételhez kötheti vagy azt kizárhatja. A bizonyítási eszközként történő felhasználást ki kell zárni, ha az információ magyar büntetőeljárásban bizonyítékként nem használható fel vagy az magyar büntetőeljárás eredményes lefolytatását veszélyeztetné.
 
-(2) A jogszabályban meghatározott nyomozó hatóság által előterjesztett tájékoztatáskérésre a 71/A. §, az általa történő tájékoztatásadásra a 71/B. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a 3. számú mellékletben megjelölt formanyomtatvány szerint előterjesztett kérelemben meg kell jelölni a megkereséssel érintett vagyonnal, illetve a vélhetően érintett természetes vagy jogi személlyel összefüggő ismert adatokat is. A jogszabályban meghatározott nyomozó hatóság a kérelemről és annak tartalmáról az ügyészséget haladéktalanul értesíti.
+(7) A közvetlen tájékoztatás útján kapott információ az átadó által meghatározott feltételek szerint használható fel, a kapott bizonyíték a büntetőeljárásban bizonyítási eszközként nem használható fel, ha ahhoz az átadó nem járult hozzá.
 
-(3) Ha a jogszabályban meghatározott nyomozó hatóság olyan tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a bűncselekményből származó jövedelem és bűncselekményhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése céljából a kijelölt tagállami hatóságnak feladata ellátásához erre szüksége van, a birtokába jutott adatról vagy tényről az (1) bekezdésben meghatározott kérelem nélkül is tájékoztatást adhat.
+#### 71/A. §
+
+#### 71/B. §
+
+#### 71/C. §
 
 #### 36/H. Hivatalos irat kézbesítése
 
@@ -2490,7 +2477,10 @@ egyeztethet.
 
 (3) A bíróság a tagállami ítélet megfeleltetését mellőzi, ha arra korábban már oly módon került sor, hogy a büntetés vagy intézkedés végrehajtásának átvételéhez a korábbi megfeleltetés kiegészítése sem szükséges.
 
-(4) A bíróság a végrehajtás átvételének megtagadásáról minden esetben indokolt ügydöntő végzést hoz.
+(4) A bíróság a végrehajtás átvételnek megtagadásáról
+
+- a) az ügyiratok alapján dönt, amennyiben annak feltételei fennállnak és
+- b) minden esetben indokolt ügydöntő végzést hoz.
 
 (5) A bíróság döntéséről, valamint az ügydöntő végzés jogerőre emelkedésének időpontjáról tájékoztatja a tagállami hatóságot is. A bíróság tájékoztatja a tagállami hatóságot a tagállami ítélet megfeleltetésének eredményéről is, különösen, ha a megfeleltetés során a tagállami ítéletben kiszabott büntetés vagy intézkedés átalakítására vagy ezzel összefüggésben a tagállami ítélet kiegészítésére került sor.
 
@@ -3652,6 +3642,7 @@ rendelkezik hatáskörrel és illetékességgel.
 - 25. a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek
 - 26. a 2002/465/IB tanácsi kerethatározatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/211 európai parlamenti és tanácsi irányelvnek;
 - 27. a 2014/41/EU irányelvnek a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/228 európai parlamenti és tanácsi irányelvnek
+- 28. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -3845,209 +3836,7 @@ Ezt az elfogatóparancsot az illetékes igazságügyi hatóság bocsátotta ki. 
 
 ### 3. számú melléklet a 2012. évi CLXXX. törvényhez
 
-E törvény 71/A. § (1) bekezdése, 71/B. § (1) bekezdése, 71/C. § (2) bekezdése és 138. § (1) bekezdés b) pontja szerinti formanyomtatvány az alábbi adatokat tartalmazza:
-
-INFORMÁCIÓCSERE A(Z) 2006/960/IB TANÁCSI KERETHATÁROZAT SZERINT A KÉRELMEZŐ TAGÁLLAM ÁLTAL KITÖLTENDŐ FORMANYOMTATVÁNY INFORMÁCIÓRA ÉS BŰNÜLDÖZÉSI OPERATÍV INFORMÁCIÓRA VONATKOZÓ KÉRELEM
-
-Ez a formanyomtatvány információknak és bűnüldözési operatív információknak a(z) 2006/960/IB kerethatározat* szerinti kérelmezésére szolgál
-
-I - Adminisztratív információ
-
-7K07189M_0
-
-| Kérelmező hatóság (név, cím, telefon, fax, e-mail, tagállam): |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Ügyintéző adatai (opcionális): |  |  |  |  |  |  |  |
-| A kérelem címzettje a következő tagállam: |  |  |  |  |  |  |  |
-| Ezen kérelem dátuma és időpontja: |  |  |  |  |  |  |  |
-| E kérelem hivatkozási száma: |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Előző kérelmek |  |  |  |  |  |  |  |
-| □ Erre az ügyre vonatkozóan ez az első kérelem |  |  |  |  |  |  |  |
-| □ A kérelem az ugyanarra az ügyre vonatkozó előző kérelmeket követ |  |  |  |  |  |  |  |
-| Előző kérelem / kérelmek |  |  |  |  |  | Válasz(ok) |  |
-|  | Dátum |  | Hivatkozási szám (a kérelmező tagállamban) |  |  | Dátum | Hivatkozás szám (a megkeresett tagállamban) |
-| 1. |  |  |  |  |  |  |  |
-| 2. |  |  |  |  |  |  |  |
-| 3. |  |  |  |  |  |  |  |
-| 4. |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Amennyiben a kérelmet a kérelmező tagállamban egynél több hatóságnak küldik meg, kérjük valamennyi felhasznált csatorna megnevezését |  |  |  |  |  |  |  |
-| □ ENU/Europol összekötő tisztviselő |  | □ Információért □ Végrehajtásért |  |  |  |  |  |
-| □ Interpol nemzeti központi iroda (NCB) |  | □ Információért □ Végrehajtásért |  |  |  |  |  |
-| □ Sirene |  | □ Információért □ Végrehajtásért |  |  |  |  |  |
-| □ Összekötő tisztviselő |  | □ Információért □ Végrehajtásért |  |  |  |  |  |
-| □ Egyéb (kérjük, nevezze meg): |  | □ Információért □ Végrehajtásért |  |  |  |  |  |
-| Amennyiben ugyanazt a kérelmet egy másik tagállamnak is megküldik, kérjük a másik tagállam és a felhasznált csatorna megnevezését (opcionális) |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-
-II - Határidők
-
-Emlékeztető: A(z) 2006/960/IB kerethatározat 4. cikke szerinti határidők
-
-A - A bűncselekmény a 2002/584/IB kerethatározat 2. cikkének (2) bekezdésének hatálya alá tartozik
-
-és
-
-A kért információ vagy bűnüldözési operatív információ valamely bűnüldöző hatóság számára közvetlenül hozzáférhető adatbázisban található
-
-7K07189M_1
-
-| → Sürgősségi kérelem | → Határidő: 8 óra, amely meghosszabbítható |
-| --- | --- |
-| → Nem sürgősségi kérelem | → Határidő: 1 hét (...) |
-| B - Egyéb esetek: határidő: 14 nap (...) |  |
-|  |  |
-|  |  |
-| □ Sürgősségi kérelem |  |
-| □ NEM sürgősségi kérelem |  |
-| A sürgősség okai (például: a gyanúsított személyek őrizetbe vétele, az ügyet meghatározott időpont előtt a Bíróság elé kell utalni): |  |
-| A kért információ vagy bűnüldözési operatív információ: |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| A VIZSGÁLT BŰNCSELEKMÉNY(EK) VAGY BŰNÖZŐI TEVÉKENYSÉG(EK) TÍPUSA: |  |
-| Azon körülmények leírása, amelyek között a bűncselekmény(eke)t elkövették, beleértve annak / azoknak időpontját, helyét és azon személy bűncselekmény(ek)ben való részvételének mértékét, akivel kapcsolatban az információt vagy bűnüldözési operatív információt kérik: |  |
-
-7K07189M_2
-
-| A bűncselekmény(ek) természete |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| A - A(z) 2006/960/IB kerethatározat 4. cikke (1) vagy (3) bekezdésének alkalmazása |  |  |  |  |
-| □ A.1. A bűncselekmény a kérelmező tagállamban legalább három éves maximális időtartamú szabadságvesztéssel büntethető |  |  |  |  |
-| ÉS |  |  |  |  |
-| A.2. A bűncselekmény(ek) az alábbiakban felsoroltak közé tartozik / tartoznak: |  |  |  |  |
-| □ |  | Bűnszervezetben való részvétel | □ | Bűncselekményekből származó jövedelmek tisztára mosása |
-|  | □ | Terrorizmus |  |  |
-| □ |  | Emberkereskedelem | □ | Pénzhamisítás, ideértve az euró hamisítását is |
-| □ |  | Gyermekek szexuális kizsákmányolása és gyermekpornográfia | □ | Számítógépes bűncselekmények |
-|  |  |  | □ | Környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, valamint a veszélyeztetett növényfajok és növényfajták tiltott |
-| □ |  | Kábítószerek és pszichotróp anyagok tiltott kereskedelme |  | kereskedelmét is |
-|  |  |  |  |  |
-| □ |  | Fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | □ | Segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz |
-|  |  |  |  |  |
-| □ |  | Korrupció | □ | Szándékos emberölés, súlyos testi sértés |
-| □ |  | Csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalásokat is | □ | Emberi szervek és szövetek tiltott kereskedelme |
-| □ |  | Szervezett vagy fegyveres rablás | □ | Emberrablás, személyi szabadság megsértése és túszejtés |
-| □ |  | Kulturális javak - ideértve a régiségeket és műtárgyakat is - tiltott kereskedelme |  |  |
-|  |  |  | □ | Rasszizmus és idegengyűlölet |
-| □ |  | Csalás | □ | Nukleáris és radioaktív anyagok tiltott kereskedelme |
-|  |  |  |  |  |
-| □ |  | Zsarolás és védelmi pénz szedése | □ | Lopott gépjárművek kereskedelme |
-| □ |  | Termékhamisítás és szerzői jogbitorlás | □ | Erőszakos közösülés |
-| □ |  | Hivatalos okmányok hamisítása és az azokkal való | □ | Gyújtogatás |
-|  |  | kereskedés | □ | A Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények |
-| □ |  | Fizetőeszközök hamisítása |  |  |
-| □ |  | Hormontartalmú anyagok és más növekedésserkentők tiltott kereskedelme | □ | Légi vagy vízi jármű jogellenes hatalomba kerítése |
-|  |  |  | □ | Szabotázs |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |
-| → A bűncselekmény ezért az európai elfogatóparancsról szóló kerethatározat 2. cikke (2) bekezdésének hatálya alá tartozik → így a(z) 2006/960/IB kerethatározat 4. cikkének (1) bekezdése (sürgős esetek) és (3) bekezdése (nem sürgős esetek) alkalmazandó az ezen kérelem megválaszolására kiszabott határidők tekintetében |  |  |  |  |
-
-7K07189M_3
-
-|  |
-| --- |
-| □ B - A bűncselekmény(ek) nem tartozik / tartoznak az A. pont hatálya alá. |
-| Ez esetben, a bűncselekmény(ek) leírása: |
-| Az információra vagy bűnüldözési operatív információra vonatkozó kérelem célja |
-|  |
-|  |
-| Kapcsolat a kért információ vagy bűnüldözési operatív információ célja és azon személy között, akire az információ vagy bűnüldözési operatív információ vonatkozik |
-|  |
-|  |
-| Azon személy(ek) személyazonossága (amennyiben ismert), aki(k)re az a bűnügyi nyomozás vagy bűnüldözési operatív művelet irányul, amely az információra vagy bűnüldözési operatív információra irányuló kérelem alapjául szolgál |
-|  |
-|  |
-| Azon okok, amelyek alapján vélhető, hogy az információ vagy bűnüldözési operatív információ a megkeresett tagállamban található |
-|  |
-|  |
-| Az e kérelemben található információ felhasználásának korlátozása a kérelem benyújtásának okától eltérő okokból, illetve a közbiztonságot közvetlenül fenyegető komoly veszély megelőzése érdekében |
-| □ a felhasználás engedélyezett |
-| □ a felhasználás engedélyezett, de az információ szolgáltatójának említése nélkül |
-| □ az információ szolgáltatójának felhatalmazása nélkül nem használható fel |
-| □ a felhasználás nem engedélyezett |
-
 ### 4. számú melléklet a 2012. évi CLXXX. törvényhez
-
-E törvény 71/B. § (2) bekezdése, 71/B. § (5) és (6) bekezdése szerinti formanyomtatvány az alábbi adatokat tartalmazza:
-
-INFORMÁCIÓCSERE A(Z) 2006/960/IB TANÁCSI KERETHATÁROZAT SZERINT A MEGKERESETT TAGÁLLAM ÁLTAL KITÖLTENDŐ FORMANYOMTATVÁNY AZ INFORMÁCIÓ ÁTADÁSA/KÉSEDELME/ELUTASÍTÁSA ESETÉN
-
-E formanyomtatvány rendeltetése a kért információ és/vagy bűnüldözési operatív információ átadása, illetve a kérelmező hatóság tájékoztatása, amennyiben a rendes határidő betartása lehetetlen, amennyiben a kérelmet engedélyezés céljából be kell nyújtani valamely igazságügyi hatósághoz, vagy amennyiben az információ átadását elutasítják.
-
-Ez a formanyomtatvány az eljárás folyamán többször használható (például ha a kérelmet először be kell nyújtani egy igazságügyi hatósághoz, majd a későbbiekben a kérelem végrehajtását el kell utasítani).
-
-7K07189N_0
-
-| Megkeresett hatóság (név, cím, telefon, fax, e-mail, tagállam) |  |  |
-| --- | --- | --- |
-| Ügyintéző adatai (opcionális): |  |  |
-| E válasz hivatkozási száma |  |  |
-| Az előző válasz dátuma és hivatkozási száma |  |  |
-|  |  |  |
-| A válasz a következő kérelmező hatóságnak szól |  |  |
-| A kérelem dátuma és időpontja |  |  |
-| A kérelem hivatkozási száma |  |  |
-|  |  |  |
-| A(z) 2006/960/IB kerethatározat 4. cikke szerinti rendes határidők a következők lettek volna: |  |  |
-| A bűncselekmény a 2002/584/IB kerethatározat 2. cikke (2) bekezdésének hatálya alá tartozik és | Sürgősségi kérelem | → □ 8 óra |
-| a kért információ vagy bűnüldözési operatív információ a megkeresett tagállam bűnüldöző hatósága számára közvetlenül hozzáférhető adatbázisban található | Nem sürgősségi kérelem | → □ 1 hét |
-| Egyéb esetben |  | → □ 14 nap |
-|  |  |  |
-| A 2006/980/IB kerethatározat szerint átadott információ: a megadott információ és a bűnüldözési operatív információ |  |  |
-| 1. Az átadott információ vagy bűnüldözési operatív információ felhasználása |  |  |
-| □ kizárólag az információ megadásának alapjául szolgáló célra, vagy a közbiztonságot azonnal és súlyosan fenyegető esemény megakadályozására használható fel; |  |  |
-| □ egyéb célokra való felhasználása is engedélyezett, a következő feltételekre is figyelemmel (választható): |  |  |
-| 2. A forrás megbízhatósága |  |  |
-| □ megbízható |  |  |
-| □ többé-kevésbé megbízható |  |  |
-| □ nem megbízható |  |  |
-| □ nem megállapítható |  |  |
-
-7K07189N_1
-
-| 3. Az információ vagy bűnüldözési operatív információ pontossága |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| □ bizonyos |  |  |  |  |  |  |  |  |
-| □ a forrástól származik |  |  |  |  |  |  |  |  |
-| □ másodkézből való - megerősített |  |  |  |  |  |  |  |  |
-| □ másodkézből való - nem megerősített |  |  |  |  |  |  |  |  |
-| 4. A bűnügyi nyomozás vagy bűnüldözési operatív művelet eredményét, amelynek keretében az információcsere létrejött, jelenteni kell az információt átadó hatóságnak |  |  |  |  |  |  |  |  |
-| □ nem |  |  |  |  |  |  |  |  |
-| □ igen |  |  |  |  |  |  |  |  |
-| 5. Spontán információcsere esetében: okok, amelyek alapján feltételezhető, hogy az információ vagy bűnüldözési operatív információ segíthet a 2002/584/IB kerethatározat 2. cikke (2) bekezdésében említett bűncselekmények felderítésében, megelőzésében vagy kivizsgálásában: |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-| KÉSEDELEM - A(z) 2006/960/IB kerethatározat 4. cikke szerint alkalmazandó határidőn belül válaszadás nem lehetséges |  |  |  |  |  |  |  |  |
-| Az információ vagy bűnüldözési operatív információ megadása a megadott határidőn belül nem lehetséges az alábbiakban szereplő okok miatt: |  |  |  |  |  |  |  |  |
-| Az információ vagy bűnüldözési operatív információ megadásának valószínű ideje: |  |  |  |  |  |  |  |  |
-| □ |  | 1 nap |  | □ | 2 nap | □ | 3 nap |  |
-| □ |  | ... hét |  |  |  |  |  |  |
-| □ |  | 1 hónap |  |  |  |  |  |  |
-| □ |  | Az igazságügyi hatóság engedélyének kérelmezése megtörtént. |  |  |  |  |  |  |
-|  |  | Az engedély megadásához / elutasításához vezető eljárás várhatóan (...) hetet vesz igénybe. |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-| ELUTASÍTÁS - Az információ vagy bűnüldözési operatív információ megadása: |  |  |  |  |  |  |  |  |
-| □ nem lehetséges és nem kérelmezhető nemzeti szinten; vagy |  |  |  |  |  |  |  |  |
-| □ nem lehetséges az alábbiakban szereplő ok(ok) miatt: |  |  |  |  |  |  |  |  |
-| A - A bírósági felülvizsgálathoz kapcsolódó ok, amely nem teszi lehetővé az információ átadását, vagy kölcsönös jogsegély igénybevételét teszi szükségessé |  |  |  |  |  |  |  |  |
-|  | □ | az illetékes igazságügyi hatóság nem engedélyezte az információhoz vagy a bűnüldözési operatív információhoz való hozzáférést és annak cseréjét |  |  |  |  |  |  |
-|  | □ | a kért információt vagy bűnüldözési operatív információt korábban kényszerítő intézkedések révén szerezték meg, és annak rendelkezésre bocsátása a nemzeti jog szerint nem engedélyezett |  |  |  |  |  |  |
-|  | □ | az információ vagy bűnüldözési operatív információ |  |  |  |  |  |  |
-|  |  | ■ | nincs a bűnüldöző hatóságok birtokában; vagy |  |  |  |  |  |
-|  |  | ■ | nincs hatóságok vagy magánszervek birtokában olyan formában, amely a bűnüldöző hatóságok számára kényszerítő intézkedések megtétele nélkül elérhetővé teszi azokat |  |  |  |  |  |
-| □ | B - Az információ vagy bűnüldözési operatív információ rendelkezésre bocsátása alapvető nemzetbiztonsági érdekeket sértene vagy folyamatban lévő nyomozás vagy bűnüldözési operatív művelet sikerét, vagy egyének biztonságát veszélyeztetné, vagy nyilvánvalóan nem állna arányban a kérelemben foglalt céllal, illetve a cél szempontjából lényegtelen lenne. |  |  |  |  |  |  |  |
-| Az „A” vagy „B” pont választása esetén, amennyiben szükségesnek ítéli, adjon további információt vagy indokot (...) az elutasításra vonatkozóan (kitöltése nem kötelező): |  |  |  |  |  |  |  |  |
-| □ | D - A megkeresett hatóság a kérelem végrehajtásának elutasítása mellett dönt, mivel a kérelem a következő, a megkeresett állam jogszabályai szerint egy év vagy annál rövidebb időtartamú szabadságvesztéssel büntethető bűncselekményre vonatkozik (a bűncselekmény jellegének és jogi besorolásának megadása): |  |  |  |  |  |  |  |
-| □ | E - Az információ vagy bűnüldözési operatív információ nem áll rendelkezésre |  |  |  |  |  |  |  |
-| □ | F - A kérelmezett információt vagy bűnüldözési operatív információt más tagállam vagy harmadik állam bocsátotta rendelkezésre, arra a specialitás elve vonatkozik, és az érintett állam nem járult hozzá annak átadásához. |  |  |  |  |  |  |  |
 
 ### 5. számú melléklet a 2012. évi CLXXX. törvényhez
 
