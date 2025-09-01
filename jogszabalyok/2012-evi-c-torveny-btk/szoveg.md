@@ -351,7 +351,7 @@ hiánya.
   - aa) a XIII., a XIV. vagy a XXIV. Fejezetben meghatározott bűncselekmény,
   - ab) életfogytig tartó szabadságvesztéssel is büntethető katonai bűncselekmény,
   - ac) terrorcselekmény [314. § (1)–(2) bekezdés, 315–316/A. §], terrorizmus finanszírozása [318. § és 318/A. §], jármű hatalomba kerítése [320. § (1)–(3) bekezdés], bűnszervezetben részvétel [321. § (1) bekezdés], robbanóanyaggal vagy robbantószerrel visszaélés (324. §), lőfegyverrel vagy lőszerrel visszaélés [325. § (1)–(3) bekezdés], nemzetközi szerződés által tiltott fegyverrel visszaélés [326. § (1)–(6) bekezdés], haditechnikai termékkel vagy szolgáltatással visszaélés [329. § (1)–(4) bekezdés], kettős felhasználású termékkel visszaélés [330. § (1)–(3) bekezdés],
-  - ad) emberölés, kábítószer-kereskedelem, kábítószer birtoklása, emberrablás, emberkereskedelem és kényszermunka, szexuális erőszak, közveszély okozása, nemzetközi gazdasági tilalom megszegése vagy rablás súlyosabban minősülő esetei [160. § (2) bekezdés, 176. § (2)–(3) bekezdés, 177. § (1)–(2) bekezdés, 178. § (2) bekezdés, 179. § (2) bekezdés, 190. § (2)–(4) bekezdés, 192. § (1)–(6) bekezdés, 197. § (2)–(4) bekezdés, 322. § (2)–(3) bekezdés, 327. § (3) bekezdés, 365. § (3)–(4) bekezdés]
+  - ad) emberölés, kábítószer-kereskedelem, kábítószer birtoklása, emberrablás, emberkereskedelem és kényszermunka, szexuális erőszak, közveszély okozása, nemzetközi gazdasági tilalom megszegése vagy rablás súlyosabban minősülő esetei [160. § (2) bekezdés, 176. § (2)–(3) bekezdés, 177. § (1)–(2) bekezdés, 178. § (2) bekezdés, 179. § (2) bekezdés, 190. § (2)–(4) bekezdés, 192. § (1)–(6) bekezdés, 197. § (2)–(4) bekezdés, 322. § (2)–(3) bekezdés, 327. § (5)–(6) bekezdés, 327/A. § (2)–(3) bekezdés, 327/B. § (2) bekezdés, 327/C. § (3) bekezdés, 365. § (3)–(4) bekezdés]
 
 miatt szabták ki, vagy
 
@@ -804,6 +804,8 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 (3) Az (1) bekezdés a) és c) pontja, illetve a (2a) bekezdés szerinti esetben – feltéve, hogy a tulajdonos az elkövetésről előzetesen nem tudott – az elkobzást nem lehet elrendelni, ha a dolog nem az elkövető tulajdona, kivéve, ha az elkobzás mellőzését nemzetközi jogi kötelezettség kizárja.
 
+(3a) Ha az (1) bekezdésben meghatározott esetben a dolog tulajdonosa meghalt, továbbá ha a gazdálkodó szervezet jogutódlással vagy jogutód nélkül megszűnt, akkor az elkobzás a jogutóddal szemben vagy a megszűnt gazdálkodó szervezettel szemben rendelhető el a vagyont érintő kényszerintézkedéssel biztosított vagyonra, feltéve hogy azt a (3) bekezdés nem zárja ki.
+
 (4) Az elkobzásnak abban az esetben is helye van, ha
 
 - a) az elkövető gyermekkor, kóros elmeállapot vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
@@ -837,7 +839,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 (3) Ha az elkövető vagy a (2) bekezdés szerint gazdagodott személy meghalt, vagy a gazdálkodó szervezet átalakult, a vagyonelkobzást a jogutóddal szemben kell elrendelni arra az (1) bekezdés vagy a 74/A. § szerinti vagyonra, amelyre a jogutódlás történt.
 
-(4)
+(4) A vagyonelkobzás a gazdálkodó szervezettel szemben akkor is elrendelhető a gazdálkodó szervezet vagyont érintő kényszerintézkedéssel biztosított vagyonára, ha a gazdálkodó szervezet a vagyont érintő kényszerintézkedés elrendelését követően jogutód nélkül megszűnt.
 
 (5) Nem rendelhető el vagyonelkobzás
 
@@ -900,6 +902,8 @@ elkövetője a büntetőeljárás megindítását megelőző öt évben szerzett
 - a) amelynek hozzáférhetővé tétele vagy közzététele bűncselekményt valósít meg,
 - b) amelyet a bűncselekmény elkövetéséhez eszközül használtak, vagy
 - c) amely bűncselekmény elkövetése útján jött létre.
+
+(1a) Az elektronikus adat végleges hozzáférhetetlenné tétele kiterjed minden olyan adatra, amely azonos a véglegesen hozzáférhetetlenné tett elektronikus adattal.
 
 (2) Az elektronikus adat végleges hozzáférhetetlenné tételét akkor is el kell rendelni, ha az elkövető gyermekkor, kóros elmeállapot, vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető, illetve ha az elkövetőt megrovásban részesítették.
 
@@ -2603,11 +2607,11 @@ terjedő szabadságvesztéssel büntetendő.
 
 ### Szeméremsértés
 
-205. § (1) Aki magát nemi vágyának felkeltése vagy kielégítése céljából más előtt szeméremsértő módon mutogatja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+205. § (1) Aki magát nemi vágyának felkeltése vagy kielégítése céljából más előtt szeméremsértő módon mutogatja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Az a tizennyolcadik életévét betöltött személy, aki nemi vágyának felkeltése vagy kielégítése céljából tizennegyedik életévét be nem töltött személy előtt szeméremsértő magatartást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+(2) Az a tizennyolcadik életévét betöltött személy, aki nemi vágyának felkeltése vagy kielégítése céljából tizennegyedik életévét be nem töltött személy előtt szeméremsértő magatartást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt öt évig terjedő szabadságvesztéssel büntetendő.
 
-(3) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint büntetendő, aki mással szemben olyan szeméremsértő magatartást tanúsít, amely a sértett emberi méltóságát sérti.
+(3) Ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő, aki mással szemben olyan szeméremsértő magatartást tanúsít, amely a sértett emberi méltóságát sérti.
 
 ### Kitiltás
 
@@ -3702,7 +3706,12 @@ terjedő szabadságvesztés.
 
 (2) Egy évtől öt évig terjedő szabadságvesztéssel büntetendő a vesztegető, ha a jogtalan előnyt azért adja vagy ígéri, hogy a hivatalos személy a hivatali kötelességét megszegje, a hatáskörét túllépje, vagy a hivatali helyzetével egyébként visszaéljen.
 
-(3) Az (1) és (2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személy működésével kapcsolatban követi el.
+(2a) A büntetés
+
+- a) az (1) bekezdés esetében egy évtől öt évig,
+- b) a (2) bekezdés esetében két évtől nyolc évig terjedő szabadságvesztés, ha a vesztegetést bűnszövetségben vagy üzletszerűen követik el.
+
+(3) Az (1)–(2a) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személy működésével kapcsolatban követi el.
 
 (4) Az (1) bekezdés szerint büntetendő a gazdálkodó szervezet vezetője, illetve ellenőrzésre vagy felügyeletre feljogosított, a gazdálkodó szervezet részére vagy érdekében tevékenységet végző személy, ha az (1)–(3) bekezdésben meghatározott bűncselekményt a gazdálkodó szervezet részére vagy érdekében tevékenységet végző személy a gazdálkodó szervezet érdekében követi el, és felügyeleti vagy ellenőrzési kötelezettségének teljesítése a bűncselekmény elkövetését megakadályozhatta volna.
 
@@ -4194,44 +4203,79 @@ követi el.
 
 ### Nemzetközi gazdasági tilalom megszegése
 
-327. § (1) Aki Magyarország nemzetközi jogi kötelezettsége alapján kihirdetett, illetve az Európai Unió Működéséről szóló Szerződés 75. cikke és 215. cikke alapján elfogadott rendeletekben vagy e rendeletek felhatalmazása alapján elfogadott rendeletekben vagy határozatokban, valamint az Európai Uniót létrehozó szerződés 29. cikke alapján elfogadott tanácsi határozatokban elrendelt
+327. § (1) Aki nemzetközi korlátozó intézkedésben elrendelt tilalom megsértésével vagy a tilalom megsértése érdekében
 
-- a) a pénzeszközök vagy gazdasági források zárolására vonatkozó kötelezettségét, illetve
-- b) gazdasági, kereskedelmi vagy pénzügyi tilalmat
+- a) tilalmazott ügyletet köt, gazdasági tevékenységet folytat, pénzügyi, gazdasági vagy egyéb szolgáltatást nyújt, vagy
+- b) a tilalommal érintett személy, gazdálkodó szervezet, külföldi gazdálkodó szervezet vagy ezekre tekintettel más személy, gazdálkodó szervezet, külföldi gazdálkodó szervezet részére pénzügyi, gazdasági vagy egyéb szolgáltatást nyújt, vagyont rendelkezésre bocsát, vagy ilyen személlyel ügyletet köt, gazdasági tevékenységet folytat,
 
-megszegi, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a nemzetközi gazdasági tilalom megszegését
+(2) Az (1) bekezdés szerint büntetendő, aki az ott meghatározott tevékenységgel összefüggő közvetítő tevékenységet végez, vagy az ott meghatározott tevékenység végzéséhez más módon segítséget nyújt.
 
-- a) a halálbüntetés végrehajtása, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelmével összefüggésben,
-- b) erőszakkal vagy
-- c) hivatalos személyként
+(3) Az (1) bekezdés szerint büntetendő, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom megsértésével vagy a tilalom megsértése érdekében a nemzetközi korlátozó intézkedésben elrendelt tilalommal összefüggésben kiadott engedély kereteit túllépi, vagy az engedélyben meghatározott kötelezettségét nem teljesíti.
+
+(4) Az (1) bekezdés szerint büntetendő, aki nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából
+
+- a) a zárolási kötelezettséggel érintett vagyon eredetét, a vagyonon fennálló jogot, a vagyon helyét, ezek változását elfedi vagy elleplezi, ideérve a zárolási kötelezettséggel érintett vagyon tényleges tulajdonosára vonatkozó valótlan vagy megtévesztő adat szolgáltatását is,
+- b) a zárolási kötelezettséggel érintett vagyont mástól átveszi, elrejti, átalakítja, átruházza, elidegenítésében közreműködik, felhasználja, azzal összefüggésben pénzügyi tevékenységet végez, pénzügyi szolgáltatást vesz igénybe vagy arról rendelkezik, vagy
+- c) az a) vagy b) pontban meghatározott tevékenységgel összefüggő közvetítő tevékenységet végez vagy e tevékenység végzéséhez más módon segítséget nyújt.
+
+(5) Az (1)–(4) bekezdés szerinti bűncselekmény egy évtől öt évig terjedő szabadságvesztéssel büntetendő, ha a bűncselekményt
+
+- a) hivatalos vagy közfeladatot ellátó személyként,
+- b) jelentős értékű vagyonra,
+- c) üzletszerűen,
+- d) bűnszövetségben,
+- e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árukra,
+- f) lőfegyver, lőszer, robbanóanyag, robbantószer, ezek felhasználására szolgáló készülék vagy egyéb katonai célú felhasználásra szánt termékre,
+- g) az Európai Unió közös katonai listáján szereplő termékre vagy kettős felhasználású termékre
 
 követik el.
 
-(3) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a nemzetközi gazdasági tilalom megszegését
+(6) Az (1)–(4) bekezdés szerinti bűncselekmény két évtől nyolc évig terjedő szabadságvesztéssel büntetendő, ha
 
-- a) lőfegyver, lőszer, robbanóanyag, robbantószer, ezek felhasználására szolgáló készülék vagy egyéb katonai célú felhasználásra szánt termék kereskedelmével összefüggésben,
-- b) fegyveresen vagy
-- c) bűnszövetségben
+- a) a hivatalos vagy közfeladatot ellátó személy által elkövetett cselekmény az (5) bekezdés b)–g) pontja szerint is minősül,
+- b) a jelentős értékű vagyonra elkövetett cselekmény az (5) bekezdés c)–g) pontja szerint is minősül,
+- c) a bűncselekményt különösen jelentős értékű vagyonra követik el.
+
+(7) Aki az (1) bekezdésben meghatározott és az (5) bekezdés e), f), illetve g) pontja szerint minősülő bűncselekményt gondatlanságból követi el, vétség miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+327/A. § (1) Aki nemzetközi korlátozó intézkedésben elrendelt, jogszabályban meghatározott vagyon zárolási kötelezettségét megszegi, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt
+
+- a) hivatalos vagy közfeladatot ellátó személyként,
+- b) jelentős értékű vagyonra,
+- c) üzletszerűen,
+- d) bűnszövetségben
 
 követik el.
 
-(4) Aki nemzetközi gazdasági tilalom megszegésére irányuló előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.
+(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha
 
-(5) E § alkalmazásában – ha a nemzetközi jogi kötelezettség alapján a kötelezettséget, illetve tilalmat kihirdető jogszabály eltérően nem rendelkezik –
+- a) a hivatalos vagy közfeladatot ellátó személy által elkövetett cselekmény a (2) bekezdés b), c), illetve d) pontja szerint is minősül,
+- b) a jelentős értékű vagyonra elkövetett cselekmény a (2) bekezdés c) vagy d) pontja szerint is minősül, vagy
+- c) különösen jelentős értékű vagyonra követik el.
 
-- a) pénzeszközön az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló 2012. március 23-i 267/2012/EU tanácsi rendelet (e bekezdés alkalmazásában a továbbiakban: 267/2012/EU rendelet) 1. cikk l) pontjában meghatározott eszközöket,
-- b) pénzeszközök zárolásán a 267/2012/EU rendelet 1. cikk k) pontjában meghatározottakat,
-- c) gazdasági forráson a 267/2012/EU rendelet 1. cikk h) pontjában meghatározott eszközöket,
-- d) gazdasági források zárolásán a 267/2012/EU rendelet 1. cikk j) pontjában meghatározott eszközöket,
-- e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árun egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet (e fejezet alkalmazásában a továbbiakban: (EU) 2019/125 európai parlamenti és tanácsi rendelet) II. mellékletében meghatározott árut
+327/B. § (1) Aki nemzetközi korlátozó intézkedésben elrendelt tilalom megsértésével vagy a tilalom megsértése érdekében a tilalommal érintett személy részére az országba történő belépéshez, az országból történő kilépéshez vagy az ország területén történő átutazáshoz segítséget nyújt, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-kell érteni.
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdés szerinti bűncselekményt hivatalos vagy közfeladatot ellátó személyként követik el.
+
+327/C. § (1) Az a nemzetközi korlátozó intézkedés alapján zárolási kötelezettséggel érintett vagyon tulajdonosa vagy az azzal rendelkezni jogosult más személy, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából a jogszabályban meghatározott bejelentési vagy adatszolgáltatási kötelezettségét megszegi, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az a foglalkozásánál fogva bejelentésre kötelezett személy, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából a zárolt vagy zárolási kötelezettséggel érintett vagyonnal kapcsolatban jogszabályban meghatározott bejelentési vagy adatszolgáltatási kötelezettségét megszegi, ha súlyosabb bűncselekmény nem valósul meg, egy évig terjedő szabadságvesztéssel büntetendő.
+
+(3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a (2) bekezdés szerinti bűncselekményt hivatalos vagy közfeladatot ellátó személyként követik el.
+
+327/D. § A 327–327/C. § alkalmazásában:
+
+- a) nemzetközi korlátozó intézkedés: az Európai Unió Működéséről szóló Szerződés 75. cikke vagy 215. cikke alapján elfogadott rendelet, az e rendelet felhatalmazása alapján elfogadott rendelet vagy határozat, az Európai Unióról szóló szerződés 29. cikke alapján elfogadott tanácsi határozat, az ezeket végrehajtó nemzeti jogszabály, valamint az ezekhez hasonló célt szolgáló, Magyarország számára nemzetközi jogi kötelezettséget keletkeztető szabály,
+- b) tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott tényleges tulajdonos,
+- c) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áru: az (EU) 2019/125 európai parlamenti és tanácsi rendelet II. mellékletében meghatározott áru, ha a nemzetközi jogi kötelezettség alapján a kötelezettséget, illetve tilalmat kihirdető jogszabály eltérően nem rendelkezik.
 
 ### Nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása
 
-328. § (1) Aki hitelt érdemlő tudomást szerez arról, hogy nemzetközi gazdasági tilalom megszegése készül, vagy még le nem leplezett ilyen bűncselekményt követtek el, és erről a hatóságnak, mihelyt teheti, feljelentést nem tesz, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+328. § (1) Aki hitelt érdemlő tudomást szerez arról, hogy a 327–327/B. §-ban meghatározott nemzetközi gazdasági tilalom megszegése készül, vagy még le nem leplezett ilyen bűncselekményt követtek el, és erről a hatóságnak, mihelyt teheti, feljelentést nem tesz, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása miatt az elkövető hozzátartozója nem büntethető.
 
@@ -4281,8 +4325,12 @@ követik el.
 (4) E § alkalmazásában
 
 - a) engedélyen a Nemzetközi Importigazolást, valamint az ezeket helyettesítő okmányokat is érteni kell,
-- b) kettős felhasználású termék: a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló 428/2009/EK rendelet 2. cikk 1. pontjában meghatározott termék,
+- b)
 - c) az Európai Unió vámterületén az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 4. cikkében meghatározott területet kell érteni.
+
+### Értelmező rendelkezés
+
+330/A. § E Fejezet alkalmazásában kettős felhasználású termék alatt a 2021/821 (EU) európai parlamenti és tanácsi rendelet I. mellékletében meghatározott terméket kell érteni.
 
 ### XXXII. Fejezet — A KÖZNYUGALOM ELLENI BŰNCSELEKMÉNYEK
 
@@ -4317,6 +4365,8 @@ erőszakra vagy gyűlöletre uszít, bűntett miatt három évig terjedő szabad
 büntetendő cselekményre irányuló szándékot vagy kívánságot fejez ki, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Nem büntethető az (1) bekezdésben meghatározott bűncselekmény miatt, aki azt ismeretterjesztő, oktatási, tudományos, művészeti célból vagy a történelem, illetve a jelenkor eseményeiről szóló tájékoztatás céljából követi el, feltéve, hogy a cselekmény félelemkeltésre nem alkalmas.
+
+(3) Az (1) bekezdésben meghatározott bűncselekmény csak magánindítványra büntethető.
 
 ### A nemzetiszocialista vagy kommunista rendszerek bűneinek nyilvános tagadása
 
@@ -5137,7 +5187,7 @@ követik el.
 
 vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés két évig terjedő szabadságvesztés, ha a jogtalan elsajátítást védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre követik követik el.
+(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a jogtalan elsajátítást védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre követik követik el.
 
 #### 379. §
 
@@ -6568,6 +6618,7 @@ követik el.
 - n) 185/A. §-a
   - na) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló, 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
   - nb) a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i 2017/2103/EU európai parlamenti és tanácsi irányelvnek
+- o) 327–327/D. §-a az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -6576,10 +6627,11 @@ való megfelelést szolgálja.
 - a) 182–183. §-a
   - aa) a kábítószer-prekurzorokról szóló, 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi rendelet, és
   - ab) a kábítószer-prekurzoroknak a Közösség és harmadik országok közötti kereskedelme nyomon követésére vonatkozó szabályok megállapításáról szóló, 2004. december 22-i 111/2005/EK tanácsi rendelet,
-- b) 327. §-a 1. az Egyesült Nemzetek Biztonsági Tanácsának 661/1990 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó iraki követelések kielégítésének tilalmáról szóló, 1992. december 7-i 3541/92/EGK tanácsi rendelet 5. cikkének, 2. az Egyesült Nemzetek Biztonsági Tanácsának 883/1993 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések kielégítésének tilalmáról szóló, 1993. november 29-i 3275/93/EK tanácsi rendelet 5. cikkének, 3. az Egyesült Nemzetek Biztonsági Tanácsának a 917/1994, 841/1993, 873/1993, 875/1993 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések a haiti hatóságok által történő kielégítésének tilalmáról szóló, 1994. május 30-i 1264/94/EK tanácsi rendelet 5. cikkének, 4. az Egyesült Nemzetek Biztonsági Tanácsának 757/1992 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések kielégítésének tilalmáról szóló, 1994. július 11-i 1733/94/EK tanácsi rendelet 5. cikkének, 5. Milosevic úr és a környezetéhez tartozó személyek pénzkészletei befagyasztásának fenntartásáról és az 1294/1999/EK rendeletnek, a 607/2000/EK rendeletnek, valamint a 926/98/EK rendelet 2. cikkének hatályon kívül helyezéséről szóló, 2000. november 10-i 2488/2000/EK tanácsi rendelet 8. cikkének, 6. a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 17-i 2580/2001/EK tanácsi rendelet 9. cikkének, 7. az Oszáma bin Ládennel, az Al-Qaida hálózattal és a Tálibánnal összeköttetésben álló egyes személyekkel és szervezetekkel szemben meghatározott szigorító intézkedések bevezetéséről, valamint az egyes termékek és szolgáltatások Afganisztánba történő kivitelének tilalmáról, a repülési tilalom megerősítéséről és az afganisztáni Tálibánt illető pénzkészletek és egyéb pénzügyi források befagyasztásáról szóló, 2002. május 27-i 467/2001/EK tanácsi rendelet hatályon kívül helyezéséről szóló 881/2002/EK tanácsi rendelet 10. cikkének, 8. az Irakkal fennálló gazdasági és pénzügyi kapcsolatok egyes korlátozásairól és a 2465/96/EK rendelet hatályon kívül helyezéséről szóló, 2003. július 7-i 1210/2003/EK tanácsi rendelet 15. cikkének, 9. a Kongói Demokratikus Köztársasággal szembeni egyes korlátozó intézkedésekről szóló, 2003. szeptember 29-i 1727/2003/EK tanácsi rendelet 6. cikkének, 10. egyes, Libériával szembeni korlátozó intézkedésekről és az 1030/2003/EK rendelet hatályon kívül helyezéséről szóló, 2004. február 10-i 234/2004/EK tanácsi rendelet 11. cikkének, 11. az egyes, Zimbabwéval szembeni korlátozó intézkedésekről szóló, 2004. február 19-i 314/2004/EK tanácsi rendelet 12. cikkének, 12. a Burma/Myanmar tekintetében a korlátozó intézkedések megújításáról és az 1081/2000/EK rendelet hatályon kívül helyezéséről szóló, 2004. április 26-i 798/2004/EK tanácsi rendelet 13. cikkének, 13. a Libériával kapcsolatos további korlátozó intézkedésekről szóló, 2004. április 29-i 872/2004/EK tanácsi rendelet 12. cikkének, 14. a volt Jugoszláviában elkövetett humanitárius bűncselekményeket vizsgáló nemzetközi törvényszék (ICTY) megbízatása hatékony végrehajtásának támogatására irányuló egyes korlátozó intézkedések bevezetéséről szóló, 2004. október 11-i 1763/2004/EK tanácsi rendelet 11. cikkének, 15. az Elefántcsontpartnak nyújtott, katonai tevékenységekkel kapcsolatos segítségre vonatkozó korlátozások bevezetéséről szóló, 2005. január 31-i 174/2005/EK tanácsi rendelet 8. cikkének, 16. az elefántcsontparti helyzet tekintetében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedések bevezetéséről szóló, 2005. április 12-i 560/2005/EK tanácsi rendelet 12. cikkének, 17. egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet – II. mellékletében meghatározott áruk tekintetében – 33. cikkének, 18. a Kongói Demokratikus Köztársaság tekintetében a fegyverembargót megsértő személyekkel szemben meghatározott, egyedi korlátozó intézkedések bevezetéséről szóló, 2005. július 18-i 1183/2005/EK tanácsi rendelet 10. cikkének, 19. a szudáni Darfur térségében zajló konfliktusban a békefolyamatot akadályozó és a nemzetközi jogot sértő cselekményt elkövető egyes személyekkel szemben meghatározott, egyedi korlátozó intézkedések bevezetéséről szóló, 2005. július 18-i 1184/2005/EK tanácsi rendelet 10. cikkének, 20. a Rafiq Hariri libanoni miniszterelnök meggyilkolásában való részvétellel gyanúsított egyes személyekkel szembeni egyedi korlátozó intézkedések bevezetéséről szóló, 2006. február 21-i 305/2006/EK tanácsi rendelet 9. cikkének, 21. a Lukasenko elnökkel és egyes fehérorosz tisztviselőkkel szembeni korlátozó intézkedésekről szóló, 2006. május 18-i 765/2006/EK tanácsi rendelet 9. cikkének, 22. a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és a 798/2004/EK rendelet hatályon kívül helyezéséről szóló, 2006. május 29-i 817/2006/EK tanácsi rendelet 13. cikkének, 23. a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 29-i 329/2007/EK tanácsi rendelet 14. cikkének, 24. a szomáliai helyzet tekintetében egyes természetes vagy jogi személyekkel, szervezetekkel vagy testületekkel szemben hozott különleges korlátozó intézkedések bevezetéséről szóló, 2010. április 26-i 356/2010/EU tanácsi rendelet 15. cikkének, 25. az Eritreával szembeni egyes korlátozó intézkedésekről szóló, 2010. július 26-i 667/2010/EU tanácsi rendelet 14. cikkének, 26. az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló 2012. március 23-i 267/2012/EU tanácsi rendelet 47. cikkének, 27. a tunéziai helyzetre tekintettel egyes személyekkel, szervezetekkel és szervekkel szemben hozott korlátozó intézkedésekről szóló, 2011. február 4-i 101/2011/EU tanácsi rendelet 13. cikkének, 28. a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet 17. cikkének, 29. az egyiptomi helyzet tekintetében egyes személyekkel, szervezetekkel és szervekkel szemben hozott korlátozó intézkedésekről szóló, 2011. március 21-i 270/2011/EU tanácsi rendelet 13. cikkének, 30. a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. május 9-i 442/2011/EU tanácsi rendelet 15. cikkének, 31. a nicaraguai helyzetre tekintettel hozott korlátozó intézkedésekről szóló, 2019. október 14-i (EU) 2019/1716 tanácsi rendelet 15. cikkének
+- b) 327. §-a 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet – II. mellékletében meghatározott áruk tekintetében – 33. cikkének, 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31.
+- 32. a kettős felhasználású termékek kivitelére, az azokkal végzett brókertevékenységre, az azokkal kapcsolatos technikai segítségnyújtásra, valamint azok tranzitjára és transzferjére vonatkozó uniós ellenőrzési rendszer kialakításáról szóló, 2021. május 20-i (EU) 2021/821 európai parlamenti és tanácsi rendelet 25. cikkének,
 - c) 329–330. §-a
   - ca) egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet – III. mellékletében meghatározott áruk tekintetében – 33. cikkének,
-  - cb) a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet 24. cikkének,
+  - cb) a kettős felhasználású termékek kivitelére, az azokkal végzett brókertevékenységre, az azokkal kapcsolatos technikai segítségnyújtásra, valamint azok tranzitjára és transzferjére vonatkozó uniós ellenőrzési rendszer kialakításáról szóló, 2021. május 20-i (EU) 2021/821 európai parlamenti és tanácsi rendelet 25. cikkének,
 - d) 219. §-a a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet)
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

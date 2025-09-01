@@ -60,7 +60,7 @@ Az adóügyben eljáró adópolitikáért felelős miniszterre, illetve az álla
 
 (1) Adózó az a személy, akinek vagy amelynek adókötelezettségét adót, költségvetési támogatást megállapító törvény, e törvény, az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) vagy önkormányzati rendelet előírja.
 
-(2) Adózónak kell tekinteni a bizalmi vagyonkezelési szerződés alapján kezelt vagyont.
+(2) Adózónak kell tekinteni a kezelt vagyont.
 
 (3) Nem minősül adózónak a kizárólag az adó megfizetésére kötelezett személy. A kizárólag az adó megfizetésére kötelezett személy is gyakorolhatja a törvény szerint az adózót megillető jogokat.
 
@@ -208,6 +208,8 @@ Az általános forgalmi adóról szóló törvény (a továbbiakban: Áfa tv.) s
 (3) A bizalmi vagyonkezelő a kezelt vagyon adózással összefüggő iratait elkülönülten tartja nyilván.
 
 (4) Az adóhatóság a kezelt vagyont megillető adó-visszaigénylést, adó-visszatérítést a kezelt vagyon adóügyeivel összefüggésben a bizalmi vagyonkezelő által nyitott, a saját számláitól elkülönített belföldi pénzforgalmi számla javára történő átutalással teljesíti.
+
+(5) A vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelés (a továbbiakban: tartós vagyonkezelés) esetében az (1)–(4) bekezdésben foglaltakat kell alkalmazni azzal, hogy a tartós vagyonkezelés keretei között kezelt vagyon adózása tekintetében a vagyonkezelő alapítvány jár el, továbbá az (1)–(4) bekezdés bizalmi vagyonkezelőre vonatkozó szabályai a vagyonkezelő alapítványra is alkalmazandók.
 
 #### 5. Az adóhatóságok
 

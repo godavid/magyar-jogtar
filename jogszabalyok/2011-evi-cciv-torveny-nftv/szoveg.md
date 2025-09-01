@@ -1616,6 +1616,8 @@ a felsőoktatással összefüggő tevékenységét,
 
 - a) engedélyezi a felsőoktatásban alkalmazható – integrált modulokkal és funkcionalitásokkal rendelkező – tanulmányi rendszereket,
 - b) meghatározza a tárgyakhoz és modulokhoz tartozó – tanulmányi rendszerben tárolt – tárgytematikák formai követelményeit.
+- c) engedélyezi felsőoktatási intézményekben továbbá az általuk fenntartott köznevelési, szakképző és felnőttképzési intézményekben alkalmazható zárt rendszerű távoktatási képzésmenedzsment-rendszereket és meghatározza minősítésük és tanúsításuk feltételeit,
+- d) felkéri a Felsőoktatási Digitalizációs Szakértői Testület elnökét és négy tagját.
 
 (3) A miniszter felsőoktatás-fejlesztéssel kapcsolatos – a tudománypolitika koordinációjáért felelős miniszter közreműködésével ellátott – feladatai:
 

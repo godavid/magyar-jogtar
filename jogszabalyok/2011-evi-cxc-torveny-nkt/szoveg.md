@@ -579,7 +579,7 @@ szükséges.
 - f) nevelési, oktatási feladatot ellátó feladatellátási helyenként felvehető maximális gyermek- vagy tanulólétszámot alapfeladatonkénti és munkarendenkénti bontásban,
 - g) iskolatípusonként az évfolyamok számát,
 - h) alapfokú művészetoktatás esetén a művészeti ágak, azon belül a tanszakok megnevezését,
-- i) szakgimnázium esetén a szakképesítés megnevezését, azonosító számát, szintjét, szakiskola esetén a szakképesítés, szakma, részszakma megnevezését, azonosító számát, szintjét,
+- i) szakgimnázium esetén a szakképesítés megnevezését, azonosító számát, programkövetelmény számát, szintjét, szakiskola esetén a szakképesítés programkövetelmény számát, szakma, részszakma megnevezését, azonosító számát, szintjét,
 - j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
 - k) az önálló költségvetéssel rendelkező intézmény esetében a gazdálkodással összefüggő jogosítványokat.
 
@@ -619,6 +619,8 @@ szükséges.
 - g) a hatóság súlyos vagy az országos pedagógiai-szakmai ellenőrzés során megállapított szakmai jogszabálysértés miatt – a nem állami költségvetési szerv vagy nem települési önkormányzat által fenntartott köznevelési intézmény esetén a működési engedély visszavonásával egyidejűleg – a nyilvántartásból való törlését elrendeli.
 
 (9) Ha a köznevelési feladatokat ellátó hatóság a köznevelési intézményt a (8) bekezdés g) pontja alapján törli a nyilvántartásból, az erről szóló határozatában kijelöli azt a nevelési-oktatási intézményt vagy szakképző intézményt, amely a törölt köznevelési intézménnyel jogviszonyban álló gyermek, tanköteles tanuló felvételét nem tagadhatja meg. Nem tanköteles tanuló esetében csak az érintett kérelmére kell kötelező felvételt biztosító nevelési-oktatási intézményt vagy – a szakképzési államigazgatási szerv egyetértésével – szakképző intézményt kijelölni. A nevelési-oktatási intézményt vagy szakképző intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a köznevelési intézmény székhelye szerint területileg illetékes tankerületi központnak, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A jogutóddal megszűnő köznevelési intézmény iratállományát a jogutód köznevelési intézménynek kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság számára kell átadni az iratállományt.
+
+(9a) A (9) bekezdéstől eltérően a digitális bizonyítványokra vonatkozó iratállományt nem kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a hivatal az arra jogosult kérelmére a tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványt továbbítja a kérelmező részére.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 
@@ -827,13 +829,15 @@ rendkívüli szünetet rendel el.
 
 30/A. § Az állam a középiskolában tanulók részére ingyenesen biztosítja a „B” kategóriás közúti járművezetői engedély megszerzéséhez a közlekedési alapismeretek és gyakorlati vizsga letételéhez szükséges ismeretek elsajátítását. A szülő, a törvényes képviselő vagy a nagykorú tanuló döntésével visszautasíthatja a képzésben részvételt.
 
-30/B. § (1) A középiskola utolsó évfolyamán a tanuló „B” kategóriás közúti járművezetői engedély megszerzéséhez szükséges, a tanulmányi rendszerben elérhető online közlekedési alapismeretek és elsősegélynyújtási tanfolyamon (a továbbiakban együtt: gépjárművezetői elméleti tanfolyam) vehet részt. A tanfolyamon való részvétel saját használatú informatikai eszközön, tanítási időn kívül is teljesíthető, a középiskola azonban az órarendbe illesztve, tanítási napon, délután köteles olyan idősávot biztosítani a tanulók számára a gépjárművezetői elméleti tanfolyamon való részvételhez, amelynek ideje alatt tanórai vagy egyéb foglalkozás nem szervezhető a gépjárművezetői elméleti tanfolyamon részt vevő tanulóknak.
+30/B. § (1) A középiskolában a tanuló „B” kategóriás közúti járművezetői engedély megszerzéséhez szükséges, a tanulmányi rendszerben elérhető online közlekedési alapismeretek és elsősegélynyújtási tanfolyamon (a továbbiakban együtt: gépjárművezetői elméleti tanfolyam) vehet részt. A tanfolyamon való részvétel saját használatú informatikai eszközön, tanítási időn kívül is teljesíthető, a középiskola azonban az órarendbe illesztve, tanítási napon, délután köteles olyan idősávot biztosítani a tanulók számára a gépjárművezetői elméleti tanfolyamon való részvételhez, amelynek ideje alatt tanórai vagy egyéb foglalkozás nem szervezhető a gépjárművezetői elméleti tanfolyamon részt vevő tanulóknak.
 
 (2) A gépjárművezetői elméleti tanfolyam megszervezése során az állami mentőszolgálat bevonásával jelenléti formában, legalább egy alkalommal elsősegélynyújtási demonstrációs alkalmat kell szervezni, amelyet ugyanazon a településen több középiskola közösen is megszervezhet.
 
 (3) A gépjárművezetői elméleti tanfolyamon részt vevő tanulóknak a középiskola a tanulmányi rendszerben elérhető online közlekedési alapismeretek elméleti vizsgát és online elsősegélynyújtási vizsgát szervez, ezek elvégzéséről a tanuló tanúsítványt kap, amely megfelelt vagy nem megfelelt eredményt tartalmazhat. A megfelelt eredményt tartalmazó tanúsítvány igazolja a „B” kategóriás közúti járművezetői engedély megszerzéséhez szükséges gépjárművezetői elméleti tanfolyam szerinti elméleti ismeretek megszerzését. A középiskola biztosítja, hogy a tanúsítvány – az egészségügyért felelős miniszter rendeletében meghatározottak szerinti, az elsősegélynyújtásból előírt ismeretek megszerzésének igazolása céljából – a Magyar Vöröskereszt részére bemutatásra kerüljön.
 
 (4) A gépjárművezetői elméleti tanfolyam ideje alatt a tanulók felügyeletét pedagógus vagy nevelő-oktató munkát közvetlenül segítő foglalkoztatott látja el.
+
+(5) A középiskola a tanulmányai befejezését követő 12 hónapon belül nem utasíthatja el annak a vele tanulói jogviszonyban már nem álló tanulónak az (1)–(4) bekezdésben meghatározottak szerint már megkezdett elméleti tanfolyam befejezésére és a vizsgára való jelentkezésére vonatkozó kérelmét, akinek tanulói jogviszonya az érettségi megszerzésére tekintettel szűnt meg.
 
 #### 23. Az egyházi köznevelési intézmény és a magán köznevelési intézmény működésére, valamint az állami nevelési-oktatási intézményekben megszervezhető hit- és erkölcsoktatásra vonatkozó sajátos szabályok
 
@@ -1485,7 +1489,11 @@ továbbítható.
 
 (5) Az iskolában csak olyan bizonyítványnyomtatvány, valamint bizonyítvány kiállításához szükséges nyomtatvány alkalmazható, amelyet a köznevelésért felelős miniszter jóváhagyott. A bizonyítványnyomtatvány és a bizonyítvány kiállításának alapjául szolgáló nyomtatvány előállításához, forgalmazásához a köznevelésért felelős miniszter engedélye szükséges.
 
-(6) Az óvodai és iskolai nyomtatványok – az év végi bizonyítvány és az állami vizsga teljesítéséről kiállított bizonyítvány kivételével – a tanulmányi rendszer alkalmazásával, a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával elektronikus úton készülnek el. A bizonyítvány kiállításának alapjául szolgáló nyomtatványt ebben az esetben is elő kell állítani nyomtatott formában és meg kell őrizni. A 7. § (1) bekezdés a)–j) pontjában meghatározott köznevelési intézmények rendeltetésszerű működésük során a köznevelésért felelős miniszter által jóváhagyott, az állam által díjmentesen biztosított tanulmányi rendszert kötelesek használni.
+(6) Az óvodai és iskolai nyomtatványok – az állami vizsga teljesítéséről kiállított bizonyítvány kivételével – a tanulmányi rendszer alkalmazásával, a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával elektronikus úton készülnek el. Az állami vizsga teljesítéséről szóló bizonyítvány kiállításának alapjául szolgáló nyomtatványt ebben az esetben is elő kell állítani nyomtatott formában és meg kell őrizni. A 7. § (1) bekezdés a)–j) pontjában meghatározott köznevelési intézmények rendeltetésszerű működésük során a köznevelésért felelős miniszter által jóváhagyott, az állam által díjmentesen biztosított tanulmányi rendszert kötelesek használni.
+
+(6a) Az iskolai bizonyítvány az iskola igazgatójának elektronikus aláírásával ellátott digitális biztonsági okmány formájában kerül kiállításra. A digitális biztonsági formában kiállított bizonyítvány közokiratnak minősül. A digitális bizonyítványt a tanulmányi rendszerben – miniszteri rendeletben meghatározott ideig – kell megőrizni azzal, hogy a hosszú távú megőrzéséről is gondoskodni kell.
+
+(6b) A tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványról kizárólag az arra jogosult tanuló vagy a tanuló szülőjének – a tanulmányi rendszeren keresztül is előterjeszthető – kérelemére hiteles papír alapú másolatot (a továbbiakban: díszpéldány) kell kiállítani. A díszpéldányon fel kell tüntetni a tanulmányi rendszer által generált és nyilvántartott egyedi azonosítót és azt, hogy a papír alapú hiteles másolat a digitális bizonyítvány hiteles másolata. A papír alapú hiteles másolatot eredeti aláírásával hitelesítenie kell a kiállítónak és az intézmény igazgatójának, továbbá a díszpéldányt az intézmény hivatalos körbélyegzőjével el kell látni. A díszpéldány első példánya ingyenes, a második példányért kormányrendeletben meghatározott térítési díjat kell fizetni.
 
 (7) A kiadott érettségi bizonyítványokról az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 1. melléklet V. részében meghatározottak szerint központi nyilvántartást kell vezetni.
 
@@ -2377,6 +2385,10 @@ ellenőrzés.
 
 (4) A központi költségvetés a 2. § (3) bekezdés b) pontja szerinti fenntartók számára az állami és a települési önkormányzati fenntartású nevelési-oktatási intézményben és pedagógiai szakszolgálati intézményben pedagógus munkakörben alkalmazottak elismert létszáma, valamint a nevelő-oktató munkát közvetlenül segítők jogszabály szerint finanszírozott létszáma alapján átlagbér alapú költségvetési hozzájárulást biztosít a köznevelési feladat ellátásához szükséges pedagógusok és a nevelő-oktató munkát közvetlenül segítő alkalmazottak illetménye, munkabére és ezek járulékai kifizetéséhez. A 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók esetében az átlagbér alapú költségvetési hozzájárulás mértékét a központi költségvetésről szóló törvény állapítja meg.
 
+(4a) A köznevelési intézmény fenntartója részére a külföldről hazatérő tanuló nemzeti köznevelési rendszerben való felzárkóztatásához kiegészítő támogatás nyújtható, amely megállapításának, igénylésének, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+
+(4b) A (4a) bekezdés szerinti külföldről hazatérő tanuló az a magyar állampolgár, aki a (4a) bekezdés szerinti kiegészítő támogatás iránti kérelem benyújtását megelőző két tanévből legalább egy tanévet külföldi államban, nem magyar tanítási nyelvű nevelési-oktatási intézményben töltött.
+
 (5) A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit jogszabály állapítja meg.
 
 (6) A nem állami fenntartású szakgimnázium és szakiskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a köznevelésért felelős miniszterrel.
@@ -2670,7 +2682,7 @@ egyetértésben gyakorolja.
 - d) a diákigazolvány kiadásával és használatával kapcsolatos kérdéseket,
 - e) a köznevelési intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozást,
 - f) a pedagógus-továbbképzés rendszerét, a továbbképzés szervezését végző szervet vagy szerveket, a pedagógus-továbbképzés programjának, a továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét,
-- g)
+- g) az egyes eltérő évfolyamszámú köznevelési intézmények közötti átjárhatóság biztosításához szükséges részletszabályokat,
 - h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 - i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának, kezelésének, érvényesítésének szabályait,
 - j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
@@ -2689,7 +2701,7 @@ egyetértésben gyakorolja.
 - w) a pedagógiai szakszolgálati tevékenységek során alkalmazott integrált nyomonkövető rendszer létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 - x) a lemorzsolódással veszélyeztetett tanulónak minősülés részletes feltételeit, a pedagógiai-szakmai szolgáltatások körébe tartozó, a lemorzsolódással veszélyeztetett tanulók támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer létrehozását, működtetését, és az ennek keretében történő adatszolgáltatás rendjét,
 - y) a köznevelési szerződés tartalmát, érvényességi idejét és a megkötésére vonatkozó eljárásrendet,
-- z)
+- z) a köznevelési intézmény fenntartója részére a külföldről hazatérő tanuló nemzeti köznevelési rendszerben való felzárkóztatásához nyújtható kiegészítő támogatás megállapításának, igénylésének, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait,
 
 rendeletben állapítsa meg.
 
@@ -2913,6 +2925,16 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 (4) A szakgimnáziummal 2020. május 31-ét megelőzően létesített tanulói jogviszonyban álló tanuló szakmai vizsgájára a komplex szakmai vizsgáztatás szabályainak az Szktmód. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni. A vizsgabizottság elnökét és tagjait a köznevelésért felelős miniszter javaslatára a szakképzési államigazgatási szerv delegálja, a központi kiadású tételsor, a feladatközlő lap, a segédanyag és a javítási-értékelési útmutató elkészítéséről a köznevelésért felelős miniszter gondoskodik.
 
 99/L. § Az Nkt. 7. § (1) bekezdés a) pontja szerinti köznevelési intézmény 2024. szeptember 1-ig – a tanulmányi rendszer vonatkozásában – az Nkt. 2023. augusztus 31-én hatályos rendelkezéseit alkalmazza.
+
+99/M. § (1) E törvénynek a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel megállapított 57. § (6)–(6b) bekezdésében foglaltakat első alkalommal a 2025/2026. tanévben
+
+- a) az iskolák – az előkészítő évfolyammal szervezett nevelés-oktatást végző iskolák kivételével – első évfolyamán, az előkészítő évfolyammal szervezett nevelést-oktatást végző iskolák kezdő évfolyamán,
+- b) a gimnázium – a hat és nyolc évfolyamos gimnáziumok kivételével – kilencedik évfolyamán,
+- c) hat évfolyamos gimnázium esetében a hetedik évfolyamán, a nyolcévfolyamos gimnázium esetében az ötödik évfolyamán,
+
+majd ezt követően minden tanévben felmenő rendszerben kell alkalmazni.
+
+(2) Az iskoláknak az (1) bekezdésben fel nem sorolt évfolyamain a bizonyítványok kiállítására az 57. § 2025. augusztus 31. napján hatályos szabályait kell alkalmazni.
 
 99/N. § A 2024. december 31-én pedagógus továbbképzés szervezésére jogosult alapítási engedéllyel rendelkező személy vagy szervezet továbbképzési programja az engedélyben meghatározott időpontig a Kormány rendeletében meghatározottak szerint továbbképzésként megszervezhető.
 

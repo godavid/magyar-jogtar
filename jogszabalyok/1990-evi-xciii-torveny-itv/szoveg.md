@@ -316,11 +316,20 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 ### A bizalmi vagyonkezelés keretében történő és a vagyonkezelő alapítvány vagyonkezelésével összefüggő vagyonszerzés illetékkötelezettsége
 
-17/D. § (1) Nem tárgya az ajándékozási illetéknek az állami adóhatósághoz bizalmi vagyonkezelőként bejelentett személynek, szervezetnek (a továbbiakban: bizalmi vagyonkezelő), továbbá a vagyonkezelő alapítványnak (a továbbiakban együtt: vagyonkezelő) a Polgári Törvénykönyv szerinti bizalmi vagyonkezelési szerződés (a továbbiakban ezen alcím alkalmazásában: szerződés), továbbá a vagyonkezelő alapítványokról szóló törvényben meghatározott alapítói vagyonrendelés (a továbbiakban: alapítói vagyonrendelés) keretében történő vagyonszerzése – ideértve a vagyonkezelői tisztségben való jogutódlás formájában megvalósuló vagyonszerzést is –, kivéve a vagyonkezelő alapítványnak nem minősülő bizalmi vagyonkezelő kedvezményezettként történő vagyonszerzését.
+17/D. § (1) Nem tárgya az ajándékozási illetéknek:
 
-(2) A kezelt vagyon és annak hasznai kedvezményezett általi megszerzését az illetékkötelezettség vonatkozásában úgy kell tekinteni, mintha a kedvezményezett a kezelt vagyont és annak hasznait közvetlenül a vagyonrendelőtől, alapítótól szerezte volna. Ha a szerződés, alapítói vagyonrendelés a szerződéskötést, alapítói vagyonrendelést megelőzően a vagyonrendelő és a kedvezményezett vagy az alapító és a kedvezményezett között létrejött visszterhes jogviszonyra tekintettel valósult meg, a kezelt vagyon és annak hasznai megszerzésekor a kedvezményezett e törvény visszterhes vagyonátruházási illetékre vonatkozó szabályai szerint köteles fizetni visszterhes vagyonátruházási illetéket.
+- a) az állami adóhatósághoz bizalmi vagyonkezelőként bejelentett személynek (a továbbiakban: bizalmi vagyonkezelő) a Polgári Törvénykönyv hatálya alá tartozó bizalmi vagyonkezelési jogviszony (a továbbiakban: bizalmi vagyonkezelés) keretében történő vagyonszerzése (kivéve a kezelt vagyonból kedvezményezettként történő vagyonszerzését), valamint a bizalmi vagyonkezelő személyében bekövetkezett jogutódlás révén történő vagyonszerzése;
+- b) a vagyonkezelő alapítványnak a vagyonkezelő alapítványokról szóló törvényben meghatározott tartós vagyonkezelési jogviszony (a továbbiakban: tartós vagyonkezelés) vagy alapítói, csatlakozói vagyonrendelés keretében történő vagyonszerzése, valamint vagyonkezelő alapítványok egyesülése, vagyonkezelő alapítvány szétválása esetén a jogutód jogutódlás révén történő vagyonszerzése.
 
-(3) Nem tárgya az ajándékozási illetéknek a kezelt vagyon és annak hasznai vagyonrendelő, alapító általi megszerzése, ideértve a vagyonrendelő, alapító kedvezményezettként történő vagyonszerzését is.
+(2) Az illetékkötelezettség vonatkozásában a kedvezményezettnek
+
+- a) a bizalmi vagyonkezelés keretében történő vagyonszerzését úgy kell tekinteni, mintha a vagyont közvetlenül a vagyonrendelőtől szerezte volna;
+- b) a vagyonkezelő alapítványtól történő vagyonszerzését úgy kell tekinteni, mintha a vagyont közvetlenül az alapítótól, a csatlakozótól szerezte volna.
+
+(3) Nem tárgya az ajándékozási illetéknek:
+
+- a) a vagyonrendelőnek a bizalmi vagyonkezelés kedvezményezettjeként, valamint a bizalmi vagyonkezelés vagy a tartós vagyonkezelés (részleges vagy teljes) megszűnése révén történő vagyonszerzése;
+- b) az alapítónak, a csatlakozónak a vagyonkezelő alapítványtól e jogállására tekintettel vagy a vagyonkezelő alapítvány kedvezményezettjeként történő vagyonszerzése.
 
 (4) A kedvezményezett illetékkötelezettsége a vagyon tényleges megszerzése napján keletkezik.
 
@@ -357,6 +366,8 @@ visszterhes átruházása.
 - c) az a) és b) pontban felsoroltakkal a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszonyban lévő személy,
 
 tulajdonában álló vagyoni betétek aránya önállóan vagy együttesen eléri vagy meghaladja az összes vagyoni betét 75%-át.
+
+(5) Az olyan vagyonszerzés, amely a 17/D. § (1) vagy (3) bekezdés alapján nem tárgya az ajándékozási illetéknek, csak akkor esik visszterhes vagyonátruházási illeték alá, ha a vagyonszerzést megelőzően a vagyonrendelő és a kedvezményezett, vagy az alapító, a csatlakozó és a kedvezményezett között létrejött visszterhes jogviszonyra tekintettel valósult meg. Ilyen esetben a visszterhes vagyonátruházási illeték a vagyon és annak hasznai megszerzésekor a kedvezményezettet terheli.
 
 ### Az illeték általános mértéke
 

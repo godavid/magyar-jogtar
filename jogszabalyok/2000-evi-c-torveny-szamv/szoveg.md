@@ -273,6 +273,8 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 7/B. § A kezelt vagyonra e törvény vállalkozóra vonatkozó szabályait kell megfelelően alkalmazni azzal, hogy a kezelt vagyon beszámolási és könyvvezetési kötelezettségét a bizalmi vagyonkezelő – kezelt vagyononként elkülönítve – teljesíti.
 
+7/C. § A vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony alapján vagyonkezelésbe vett vagyon beszámolási és könyvvezetési kötelezettsége tekintetében e törvény bizalmi vagyonkezelésre vonatkozó szabályait kell megfelelően alkalmazni.
+
 8. § (1) A beszámoló formája az éves nettó árbevétel nagyságától, a mérleg főösszegétől, a foglalkoztatottak létszámától, mindezek határértékeitől függ.
 
 (2) Az (1) bekezdés szerinti beszámoló lehet:

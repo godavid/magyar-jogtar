@@ -1886,7 +1886,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (6b) A (6a) bekezdésben meghatározott automatizált keresés eredményeképpen ismertté vált üzembentartót, ennek hiányában tulajdonost az útdíjszolgáltatási gazdasági társaság vagy annak a 33/B. § (4a) bekezdésében meghatározott megbízottja az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott formanyomtatvány alkalmazásával tájékoztatja a használatidíj-fizetés elmulasztása miatt kiszabott pótdíj érvényesítése érdekében indított eljárásról.
 
-(7) Az (1) bekezdésben meghatározott használati jogosultság az útdíjszolgáltatási gazdasági társaság saját, vagy az útdíjszolgáltatási gazdasági társasággal megállapodást kötött viszonteladók értékesítésében váltható meg. A viszonteladók – a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendeletben meghatározottak szerint – átalány-költségtérítésre jogosultak.
+(7) Az (1) bekezdésben meghatározott használati jogosultság az útdíjszolgáltatási gazdasági társaság saját, vagy az útdíjszolgáltatási gazdasági társasággal megállapodást kötött üzemanyagtöltő állomások, és az útdíjszolgáltatási gazdasági társasággal megállapodást kötött, a határátkelőhelyektől legfeljebb 5000 méter távolságban működő, a kereskedelemről szóló törvény szerinti üzletek (a továbbiakban együtt: viszonteladók) értékesítésében váltható meg.
 
 33/B. § (1) A használati díjfizetéssel érintett országos közutakat – ideértve erre irányuló szerződés esetén a 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos közutat is – vagy azok egyes szakaszait, a használati díj, ennek megfizetése elmaradása esetén a pótdíjat vagy meghatározásának módját, valamint a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján – a miniszter az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben, rendeletben állapítja meg.
 
@@ -2628,7 +2628,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 - p) a miniszter, hogy a közúti jármű előéleti nyilvántartás vezetésével kapcsolatos feltételeket
 - q) a miniszter, hogy a 21/B. § (3) bekezdésében említett, az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványt,
 - r) a közlekedésrendészetért felelős miniszter, valamint a honvédelemért felelős miniszter, hogy a feladat- és hatáskörébe tartozó tevékenységhez kapcsolódó, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint emelő-, rakodó gépek, az egyes technológiai műveletekben részfeladatokat ellátó, stabil kivitelezésű – telepített – gépsorok részét képező gépeket működtető gépkezelők képzésére és vizsgáztatására vonatkozó szabályokat
-- s) az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszolgáltatási gazdasági társaság által a viszonteladóknak fizetendő átalány-költségtérítés mértékét és számításának módját
+- s)
 - t) a miniszter, hogy a 33/A. § (6b) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt
 
 rendeletben állapítsa meg.

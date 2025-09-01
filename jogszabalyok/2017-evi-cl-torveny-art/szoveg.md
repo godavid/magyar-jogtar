@@ -41,6 +41,7 @@ Az 1. § és a 4. § szerinti esetekben az adóhatóság az adót az összes kö
 - c) vagyonnal rendelkező vagy bevételt, jövedelmet (nyereséget) elérő természetes személy, jogi személy és egyéb szervezet,
 - d) közigazgatási hatósági vagy bírósági eljárásban részt vevő személy,
 - e) a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvény szerint nyilvántartásba vett bizalmi vagyonkezelő által kezelt vagyon
+- f) a vagyonkezelő alapítvány által tartós vagyonkezelés keretében kezelt vagyon
 
 [az a)–d) pont a továbbiakban együtt: személy] adózásának és költségvetési támogatásának rendjére e törvény rendelkezéseit kell alkalmazni.
 
@@ -124,7 +125,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
   - c) amely az egyik szerződő fél számára folyamatos rendelkezésre állási kötelezettséget ír elő,
 - 28. kapcsolt vállalkozás: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) szerinti kapcsolt vállalkozás,
 - 29. kereskedelmi kapcsolat: a termékbeszerzés és -értékesítés – ideértve az Áfa tv. szerinti adómentes termékimportot megalapozó Közösségen belüli adómentes termékértékesítést is –, valamint a szolgáltatásnyújtás és -igénybevétel,
-- 30. kezelt vagyon: a Ptk. szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon,
+- 30. kezelt vagyon: a Ptk. szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon és a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelés keretében kezelt vagyon,
 - 31. kifizető:
   - a) az a belföldi illetőségű jogi személy, egyéb szervezet, egyéni vállalkozó, amely (aki) adókötelezettség alá eső jövedelmet juttat, függetlenül attól, hogy a juttatást közvetlenül vagy megbízottja (posta, hitelintézet) útján teljesíti,
   - b) kamat esetében, aki a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint természetes személynek kamatjövedelmet fizet ki, a kölcsönt igénybe vette, a kötvényt kibocsátotta, osztalék esetében az az adózó, amelynek a vagyona terhére az osztalékot juttatják,

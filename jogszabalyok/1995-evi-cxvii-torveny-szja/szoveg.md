@@ -2147,9 +2147,11 @@ az osztalék megállapítása során figyelembe vett összeg. Az (1) bekezdés s
 
 (8) A vagyonelem tulajdonba adását nem eredményező vagyoni érték magánszemély részére történő juttatása – ideértve különösen az ingyenes vagy kedvezményes használat biztosítását – esetén adóköteles az e juttatással összefüggő, a kezelt vagyont, a magánalapítványi vagyont terhelő költség, ráfordítás. Az adót a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon vagy a magánalapítványi vagyon terhére kell elszámolni, és a költség, ráfordítás elszámolási időpontja hónapjának kötelezettségeként kell a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre bevallani és megfizetni.
 
-(9) A vagyoni érték kiadásakor az osztalékként juttatott vagyoni érték szerzési értékeként a juttatásban részesülő magánszemély a megszerzett vagyoni érték megszerzése időpontjára megállapított szokásos piaci értékét veszi figyelembe, minden más esetben azt az értéket, amelyen az a vagyon kiadásakor a juttató számviteli nyilvántartásában értékhelyesbítés nélkül szerepel.
+(9) A vagyoni érték kiadásakor az osztalékként juttatott vagyoni érték szerzési értékeként a juttatásban részesülő magánszemély a megszerzett vagyoni érték megszerzése időpontjára megállapított szokásos piaci értékét veszi figyelembe, minden más esetben azt az értéket, amelyen az a vagyon kiadásakor a juttató nyilvántartásaiban értékhelyesbítés, tartós vagyonkezelésből eredő eszközérték-növekmény nélkül szerepel.
 
 (10) A kedvezményezett által a (9) bekezdés szerint figyelembe vehető szerzési értékről a vagyonkezelő, a magánalapítvány a vagyonelem kiadását követő 30 napon belül tájékoztatja a kedvezményezettet és egyidejűleg adatot szolgáltat az állami adó- és vámhatóság részére az állami adó- és vámhatóság által a honlapján közzétett módon.
+
+(11) E § alkalmazásában a vagyonkezelő alapítványokról szóló törvényben meghatározott tartós vagyonkezelési jogviszony a bizalmi vagyonkezelési jogviszonnyal esik egy tekintet alá. A tartós vagyonkezelésbe adott vagyonnak a magánalapítvány mint kedvezményezett részére történő kiadásától kezdődően az addig a tartós vagyonkezelés keretében kezelt vagyont a (2)–(7) és (10) bekezdés szerint terhelő kötelezettségeket a magánalapítvány teljesíti úgy, hogy a határidőket a tartós vagyonkezelésbe adástól kezdve számítja.
 
 ### Az osztalékból származó jövedelem
 
@@ -2162,7 +2164,7 @@ az osztalék megállapítása során figyelembe vett összeg. Az (1) bekezdés s
   - ad) az alternatív befektetési alap által kibocsátott befektetési jegy hozama;
   - ae) a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére a számviteli szabályok szerinti tartalék terhére juttatott vagyoni érték;
   - af)
-  - ag) a magánalapítvány által a kedvezményezett magánszemély részére a számviteli szabályok szerinti felhalmozott adózott eredmény értékét meg nem haladó összegben juttatott vagyoni érték;
+  - ag) a magánalapítvány által a kedvezményezett vagy az alapító, a csatlakozó magánszemélynek a számviteli szabályok szerinti tőkeváltozás terhére juttatott vagyoni érték, azzal, hogy ha a magánalapítvány tartós vagyonkezelés kedvezményezettje, a tőkeváltozás azon része terhére juttatott vagyoni érték, amely a tartós vagyonkezelés keretében kezelt vagyonból általa vagyonkiadás címén kedvezményezettként megszerzett juttatás értékének megfelelően keletkezett, csak annyiban minősül osztaléknak, amennyiben annak forrása a 65/C. § (11) bekezdése szerint külön nyilvántartott eszközérték-növekmény, és azt kedvezményezett magánszemély (nem az alapító, a csatlakozó) szerzi meg bevételként;
   - ah) a KMRP résztvevője részére a KMRP által megszerzett vagyonelemek hozamából származó kifizetés;
 - b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
@@ -2341,7 +2343,7 @@ kell figyelembe venni.
 (14) Tartós befektetési szerződést köthet az (1) bekezdésben említett magánszemélyen túlmenően:
 
 - a) a magánalapítvány magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából;
-- b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés, valamint a magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából magánszemély által alapított vagyonkezelő alapítvány bizalmi vagyonkezelői feladatának teljesítése céljából,
+- b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés, valamint a magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából magánszemély által alapított vagyonkezelő alapítvány tartós vagyonkezelői feladatának teljesítése céljából,
 
 azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § rendelkezéseit kell alkalmazni, a hozammal kapcsolatban keletkező adókötelezettséget az alapítványi vagyon, a kezelt vagyon terhére a szerződő alapítvány, vagyonkezelő teljesíti, az e § szerinti rendelkezést, bevallási kötelezettséget az alapítvány, a vagyonkezelő tesz, teljesít.
 
@@ -3835,7 +3837,7 @@ kerül sor.
 
 7.25.
 
-7.26. a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona terhére
+7.26. a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona (ideértve a tartós vagyonkezelésébe adott vagyonból kedvezményezettként általa megszerzett összeget is) terhére
 
 a) – ide nem értve az említett vagyonok osztaléknak minősülő hozamait – a kedvezményezett magánszemély részére juttatott vagyoni érték,
 
