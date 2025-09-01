@@ -140,7 +140,7 @@ Kiadatás Magyarországról
 - d) a tárgyalásról az ügyészséget értesíti, kötelező védelem esetén a védőt idézi, egyébként értesíti.
 - e) a kiadni kért személyt meghallgatja, különösen személyazonosságára, állampolgárságára; és a kiadatás feltételeit e törvény alapján befolyásoló körülményekre, ha erre nyilatkozni kíván;
 - f) tájékoztatja a kiadni kért személyt a 16. §-ban meghatározott szabályokról, a lemondás lehetőségéről, és a kiadni kért személyt erre nézve nyilatkoztatja, továbbá a kioktatást és a kiadni kért személy nyilatkozatát jegyzőkönyvben rögzíti;
-- g)
+- g) a miniszter útján kiegészítő információkat kérhet, ha megítélése szerint a megkereső állam igazságügyi hatósága által közölt tények és adatok nem elégségesek a kiadatás tárgyában történő határozathozatalhoz, amelynek megküldésére az e törvényben meghatározott határidők figyelembevételével észszerű határidőt szabhat;
 - h) amennyiben a kiadatás feltételei fennállnak, elrendeli a kiadni kért személy kiadatási letartóztatását.
 
 (1a) A Fővárosi Törvényszék a kiadatási letartóztatást elrendelő véglegessé vált végzését az ügyiratokkal együtt a miniszternek terjeszti fel a kiadatás kérdésében történő döntéshozatalra.
@@ -177,15 +177,21 @@ Kiadatás Magyarországról
 
 23. § (1) A Fővárosi Törvényszék az ideiglenes kiadatási letartóztatás elrendelése során, amennyiben a kiadatás feltételei a rendelkezésre álló adatok alapján megállapíthatóak, tájékoztatja a kiadni kért személyt, hogy ha a kiadatásához hozzájárul, a miniszter a kiadatáshoz hozzájárulhat a kiadatási kérelem megérkezése előtt is; a kioktatást és a kiadni kért személy nyilatkozatát jegyzőkönyvben rögzíti (egyszerűsített kiadatás).
 
-(2) Az (1) bekezdésben meghatározott hozzájárulás nem vonható vissza.
+(2) A kiadni kért személy (1) bekezdésben meghatározott hozzájárulása, az (5) bekezdésben meghatározott kivétellel nem vonható vissza.
 
 (3) Ha a kiadni kért személy hozzájárul a kiadatáshoz, a bíróság az ideiglenes kiadatási letartóztatást elrendelő véglegessé vált végzését az ügyiratokkal együtt felterjeszti a miniszternek.
+
+(4) Ha a miniszter az egyszerűsített kiadatási eljárásban a kiadatáshoz hozzájárult, de a kiadni kért személy átadására a 25. § (1) bekezdésében meghatározott határidő alatt nem került sor, azonban a megkereső állam a kiadatási kérelmet megfelelő időben előterjesztette, a miniszter a hozzájáruló nyilatkozatát visszavonja, és az ügyiratokat a kiadatási kérelemmel együtt a bíróság részére küldi vissza. Az ügyiratok visszaérkezését követően a bíróság a (3) bekezdés szerinti végzését hatályon kívül helyezi és az eljárást a kiadatási kérelem alapján a 20–22. §-ban foglaltak szerint folytatja le.
+
+(5) Ha a (4) bekezdés alapján a kiadatás kérdésében tartott tárgyaláson a kiadni kért személy az egyszerűsített kiadatási eljárásban tett hozzájárulását fenntartja, a kiadatási letartóztatás legfeljebb három hónapig tarthat, amelyet a Fővárosi Törvényszék egy alkalommal legfeljebb három hónappal meghosszabbíthat.
 
 24. § (1) Sürgős esetben – különösen ha szökés veszélye áll fenn – a megkereső állam a kiadatási kérelem előterjesztése előtt is kérheti azon személy ideiglenes kiadatási letartóztatásának elrendelését, akinek kiadatása iránt megkeresést szándékozik előterjeszteni.
 
 (2) Az ideiglenes kiadatási letartóztatás iránti megkeresést a NEBEK útján is elő lehet terjeszteni. A NEBEK intézkedik a keresett személy őrizetének kiadatás céljából történő elrendelése és a Fővárosi Törvényszék elé állítása iránt. Az őrizet tartama legfeljebb hetvenkét óra lehet.
 
-25. § (1) Az ideiglenes kiadatási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül a kiadatás iránti megkeresés nem érkezik meg. Ha a kiadatás iránti megkeresést utóbb előterjesztik, az ideiglenes kiadatási letartóztatás megszüntetése nem zárja ki a 20. § (1) bekezdésének h) pontja szerinti kiadatási letartóztatás elrendelését.
+(3) A megkereső állam által a Nemzetközi Bűnügyi Rendőrség Szervezete (Interpol) útján kiadatás céljából előterjesztett nemzetközi elfogatóparancsot ideiglenes kiadatási letartóztatás iránti kérelemnek kell tekinteni.
+
+25. § (1) Az ideiglenes kiadatási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül a kiadatás iránti megkeresés nem érkezik meg. Ha a kiadatás iránti megkeresést utóbb előterjesztik, az ideiglenes kiadatási letartóztatás megszüntetése nem zárja ki a 24. § (1) bekezdés szerinti ideiglenes kiadatási letartóztatás ismételt elrendelését.
 
 (2) Az ideiglenes kiadatási letartóztatásról a miniszter haladéktalanul értesíti az intézkedést kérő államot. Az értesítésben tájékoztatást ad arról is, hogy az (1) bekezdés rendelkezésének megfelelően mikor szűnik meg az ideiglenes kiadatási letartóztatás.
 
@@ -1354,7 +1360,7 @@ is előterjesztheti.
 
 (2) Ha a nyilatkozattevő fogva van, a fogva tartás helye szerint illetékes büntetés-végrehajtási bíró a hozzájáruló nyilatkozatot az (1) bekezdésben írt módon jegyzőkönyvezi, és azt az elsőfokon eljárt bíróságnak megküldi.
 
-82. § (1) Ha a külföldi állam megköveteli, hogy a megkeresést és mellékleteit fordítással lássák el, vagy valószínű, hogy a jogsegélykérelmet az iratok lefordítása nélkül nem teljesítik, a jogsegély előterjesztésére jogosultnak gondoskodnia kell a bűnügyi jogsegély iránti magyar nyelvű megkeresés és mellékleteinek a megkeresett állam hivatalos nyelvére vagy nyelveinek egyikére történő lefordíttatásáról. Ha a fordítás e nyelvre aránytalan nehézséggel vagy költséggel járna, az iratokat a megkeresett államban használatos közvetítő nyelvre kell lefordíttatni.
+82. § (1) Ha a külföldi állam megköveteli, hogy a megkeresést és mellékleteit fordítással lássák el, vagy valószínű, hogy a jogsegélykérelmet az iratok lefordítása nélkül nem teljesítik, a jogsegély előterjesztésére jogosult igazságügyi hatóságnak gondoskodnia kell a bűnügyi jogsegély iránti magyar nyelvű megkeresés és mellékleteinek a megkeresett állam hivatalos nyelvére vagy nyelveinek egyikére történő lefordíttatásáról. Ha a fordítás e nyelvre aránytalan nehézséggel vagy költséggel járna, az iratokat a megkeresett államban használatos közvetítő nyelvre kell lefordíttatni.
 
 (2) Ha az (1) bekezdésben meghatározott fordítással kapcsolatos késedelem a jogsegélykérelem előterjesztését, illetve teljesítését veszélyezteti, az iratok lefordítása iránt a jogsegély során eljáró központi hatóság, miniszter vagy más hatóság is jogosult intézkedni. Az így felmerült bűnügyi költséget a központi hatóság, a miniszter vagy más hatóság előlegezi.
 

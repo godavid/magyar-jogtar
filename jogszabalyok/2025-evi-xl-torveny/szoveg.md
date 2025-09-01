@@ -38,11 +38,19 @@ energetikai tárgyú törvények módosításáról
 
 #### 8. §
 
-#### 9. §
+9. § A Vet. 40. § (4)–(4b) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) A leolvasást legalább éves gyakorisággal, a (4a) bekezdésben és a Vhr.-ben előírtakra figyelemmel a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani.
+
+(4a) Havinál ritkább gyakorisággal leolvasott felhasználási hely tekintetében a felhasználó kérésére a (3) bekezdésben meghatározott mérőberendezések leolvasását a hálózati engedélyes negyedévente biztosítja.
+
+(4b) A hálózati engedélyes – a felhasználási helyen történő leolvasás esetén – legalább 5 napos időtartam megjelölésével felhívja a felhasználó figyelmét a leolvasás várható idejéről a leolvasás előtti utolsó számlában vagy a számla mellékletében. A (4) bekezdés szerinti leolvasás sikertelensége esetén a hálózati engedélyes a becsült mérőállást elszámolás céljából a leolvasásra megadott időszak utolsó napjára állapítja meg, továbbá a hálózati engedélyes értesítést hagy a felhasználó felhasználási helyén, – ha rendelkezésre áll – a levélszekrényben. Az értesítésben a hálózati engedélyes felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább munkanapon 20 óráig lehetőséget biztosít –, a hálózati engedélyes időpont-egyeztetésre alkalmas elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontjában a hálózati engedélyes és a felhasználó megegyeznek.”
 
 #### 10. §
 
-#### 11. §
+11. § A Vet. 45/A. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az elosztó a hatásos villamosenergia-mennyiségre vonatkozó mérési adatokhoz hozzáférést biztosít az energetikai adatszolgáltató platform működtetője számára a 155. § (10) bekezdése szerinti célból. Az adatokhoz való hozzáférés és az adatkezelés részletszabályait a Vhr. és az elosztói szabályzat tartalmazza.”
 
 #### 12. §
 
@@ -58,13 +66,50 @@ energetikai tárgyú törvények módosításáról
 
 #### 18. §
 
-#### 19. §
+19. § A Vet. 61. §-a helyébe a következő rendelkezés lép:
 
-20. § (1)
+„61. § (1) A felhasználó jogszabályban és a vele szerződő engedélyes üzletszabályzatában meghatározott feltételek szerint villamosenergia-kereskedővel, termelővel, illetve a villamos energia határon keresztül történő beszállítása útján, valamint a szervezett villamosenergia-piacon írásban villamosenergia-vásárlási szerződést köthet.
+
+(2) A villamosenergia-kereskedő a villamosenergia-vásárlási szerződés megkötése előtt igazolható módon tájékoztatja a felhasználót a villamosenergia-vásárlási szerződés lényeges tartalmi elemeiről, és a felhasználó rendelkezésére bocsátja a szerződéses feltételek összefoglalóját. A tájékoztatásnak egyértelműnek, közérthetőnek és világosnak kell lennie.
+
+(3) A villamosenergia-kereskedő a (2) bekezdés szerinti tájékoztatás körében a villamosenergia-vásárlási szerződés egyes típusaival kapcsolatban tájékoztatja a felhasználót
+
+- a) az adott szerződésre vonatkozó költségekről és kockázatokról,
+- b) az adott szerződéssel kapcsolatban azonosítható lehetőségekről, valamint
+- c) arról, ha valamely villamosenergia-vásárlási szerződés megkötéséhez meghatározott fogyasztásmérő berendezés felszerelése szükséges.
+
+(4) A 45. § (2) bekezdése szerinti árszabást tartalmazó és a 45. § (3) bekezdésében meghatározott villamosenergia-vásárlási szerződéssel kapcsolatos tájékoztatás magában foglalja továbbá
+
+- a) a felhasználó 62. § (1) és (1a) bekezdése szerinti tartalmú szerződéshez fűződő jogára, valamint a (2) és (3) bekezdésében foglalt jogaira vonatkozó tájékoztatást,
+- b) a szolgáltatás teljes ellenértékét és annak részletezését, hogy az milyen díjelemekből tevődik össze,
+- c) annak megjelölését, hogy az ár fix, több zónaidős vagy rugalmas, valamint
+- d) a villamosenergia-kereskedő által érvényesíthető egyszeri díjak és biztosított kedvezmények ismertetését.
+
+(5) A (4) bekezdés alkalmazásában új villamosenergia-vásárlási szerződés megkötésének kell tekinteni a szerződéshosszabbítást is.
+
+(6) A villamosenergia-kereskedő a vele szerződő egyetemes szolgáltatásra jogosult felhasználóknak díjmentesen biztosítja a mérlegköri tagságot.”
+
+20. § (1) A Vet. 119/B. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Üzembe helyezett földkábel esetén ugyanazon a vezetékszakaszon kizárólag olyan szabadvezeték üzemeltethető, melyen egy vagy több csatlakozási pont található. Csatlakozási pont hiányában az érintett szakaszon földkábellel párhuzamosan futó szabadvezeték nem üzemeltethető. A földkábellel párhuzamosan futó szabadvezeték üzemeltethetőségének részletszabályait az e törvény végrehajtására kiadott rendelet állapítja meg.”
 
 (2)
 
-21. § (1)
+21. § (1) A Vet. 155. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) Az energetikai adatszolgáltató platformot működtető engedélyes
+
+- a) a biztonságos villamosenergia-ellátás támogatása,
+- b) a hazai villamosenergia-piac hatékonysága növelésének támogatása,
+- c) a hálózati engedélyesek részére biztosított rendszerszintű és a rugalmassági szolgáltatások támogatása,
+- d) a szabályszegések szűrésének támogatása,
+- e) az érintett felhasználók tájékoztatása,
+- f) a decentralizált energiatermelés hatékonyabb integrációjának támogatása,
+- g) az energiaközösségek, aggregátorok, aktív felhasználók adatalapú támogatása,
+- h) az e törvény végrehajtására kiadott rendeletben foglaltak szerint a hálózati engedélyesek közötti adat- és információcsere-folyamatok segítése,
+- i) a szakpolitikai döntéshozatal támogatása
+
+céljából kezeli a háztartási méretű kiserőművek nem elszámolási célú termelési és üzemeltetési adatait és a fogyasztásmérő berendezések hatásos villamosenergia-mennyiségre vonatkozó adatait.”
 
 (2)
 
@@ -80,7 +125,13 @@ energetikai tárgyú törvények módosításáról
 
 (4)
 
-(5)
+(5) A Vet. 170. § (1) bekezdés 57. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„57. az aktív felhasználó 45/A. § szerinti kötelezettsége teljesítésének részletes szabályait és a teljesítéshez szükséges műszaki és egyéb feltételeket, valamint a kötelezettség alóli mentesülés feltételeinek részletes szabályait, továbbá a 45/A. § (4) bekezdése szerinti adatok műszaki jellemzőinek meghatározását és az azokhoz való hozzáférés, átadás részletes szabályait,”
+
+(rendeletben állapítsa meg.)
 
 (6)
 
@@ -94,7 +145,7 @@ energetikai tárgyú törvények módosításáról
 
 28. § Hatályát veszti a Vet.
 
-- a)
+- a) 3. § 49a. pontja,
 - b)
 - c)
 - d)

@@ -100,6 +100,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 73. fizetési közreműködő: az egyetemes útdíjszolgáltató által egyes szolgáltatásainak utólagos fizetés mellett történő igénybevételével összefüggő feladatai teljesítéséhez igénybe vehető, szerződött közreműködő.
 - 74. lényegesen módosított UD rendszer: az UD rendszer olyan módosítása, amelynek eredményeképpen az EETS-szolgáltató által alkalmazott átjárhatósági rendszerelemek olyan mértékű módosítása szükséges, amely az EETS-szolgáltató újbóli akkreditálását is szükségessé teszi;
 - 75. EETS-akkreditáció: az EETS-szolgáltató által az útdíjszedőnél kezdeményezett eljárás, amelynek eredményes lefolytatását követően az útdíjszedő az EETS-szolgáltatóval az EETS, EETS-területen történő nyújtására szerződést köt.
+- 76. végső menedékes bevallási közreműködő: olyan kiemelt bevallási közreműködő, amely szolgáltatását valamennyi szerződött díjfizető számára biztosítja.
 
 ### II. Fejezet — ÚTHASZNÁLATI JOGOSULTSÁG ÉS FIZETÉSI KÖTELEZETTSÉG
 
@@ -181,9 +182,17 @@ feladatokat lát el.
 
 (7) Az egyetemes útdíjszolgáltatót az útdíjszolgáltató által nyújtandó alapvető szolgáltatások tekintetében, így különösen az UD rendszer szabályszerű használatához szükséges szolgáltatásokra vonatkozóan szerződéskötési kötelezettség terheli a díjfizetésre kötelezettel szemben, amennyiben ilyen irányú szándékát az egyetemes útdíjszolgáltatónak írásban bejelenti.
 
-(8) Az úthasználó bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét a bevallási közreműködőn keresztül teljesítse az útdíjszolgáltató felé. A bevallási közreműködő jogszabályban meghatározott feltételek teljesítése esetén végezheti e tevékenységét, és szerződést kell kötnie az útdíjszolgáltatóval kötelezettségei teljesítése érdekében. A bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül az úthasználótól beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik az úthasználónak. Amennyiben a bevallási közreműködőt az egyetemes útdíjszolgáltató vonja be, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mértékű átalány-költségtérítést fizet.
+(8) A szerződött díjfizető bevallási közreműködőt vagy végső menedékes bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét teljesítse az útdíjszolgáltató felé. Ha e törvény, vagy az e törvény felhatalmazása alapján kiadott kormányrendelet eltérően nem rendelkezik, a bevallási közreműködőre vonatkozó rendelkezéseket a végső menedékes bevallási közreműködőre is megfelelően alkalmazni kell.
 
-(9) Az egyetemes útdíjszolgáltató azonos feltételekkel köteles szerződést kötni a külön jogszabályban foglalt követelményeknek megfelelő bevallási közreműködőkkel.
+(8a) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott feltételek teljesítése esetén végezheti e tevékenységét, az útdíjszolgáltatóval kötött szerződés szerint.
+
+(8b) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül a szerződött díjfizetőtől beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik a szerződött díjfizetőnek.
+
+(8c) Ha a bevallási közreműködőt az egyetemes útdíjszolgáltató veszi igénybe, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mértékű átalány-költségtérítést fizet.
+
+(9) Az egyetemes útdíjszolgáltató azonos feltételekkel köt szerződést az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott követelményeknek megfelelő bevallási közreműködőkkel.
+
+(9a) A (9) bekezdést a végső menedékes bevallási közreműködő tekintetében nem kell alkalmazni.
 
 (10) Az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett biztosíthatja.
 
@@ -533,7 +542,7 @@ jogosult kezelni.
 28. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) állapítsa meg a díjkategóriákat, az útdíj mértékének megállapítására vonatkozó módszertant, és az esetleges kedvezményekre vonatkozó rendelkezéseket;
-- b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói, és díjellenőrzés támogatói feladatok ellátása érdekében szerződéskötésre feljogosított költségvetési szervet, az útdíjszedői, és egyetemes útdíjszolgáltatói feladatok ellátására feljogosított szervezetet, továbbá az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet;
+- b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és útdíjellenőrzés-támogatói feladatok ellátása érdekében szerződéskötésre feljogosított költségvetési szervet, az útdíjszedői, és az egyetemes útdíjszolgáltatói feladatok ellátására feljogosított szervezetet, az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet, továbbá a végső menedékes bevallási közreműködőt;
 - c) állapítsa meg az útdíjszolgáltató 21. § (1) bekezdés szerinti nyilvántartásba vételéhez szükséges feltételeket;
 - d) jelölje ki a felügyeleti szervet és állapítsa meg feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását;
 - e) jelölje ki a 11. alcím szerinti egyeztető szerv feladatait ellátó szervezetet, továbbá állapítsa meg az egyeztető szerv szervezetére, működésére és eljárására vonatkozó részletes szabályokat;
@@ -547,7 +556,7 @@ jogosult kezelni.
 - m) állapítsa meg a beszedett díj és bírság központi költségvetésbe történő befizetésének rendjét, részletes szabályait, továbbá az útdíj elszámolásának számviteli szabályait;
 - n) állapítsa meg a jármű kijelölt várakozási helyre szállításának és az ezzel kapcsolatos költségviselésnek a részletes szabályait;
 - o) állapítsa meg az úthasználó bevallással összefüggő kötelezettségeit, beleértve a fedélzeti eszköz üzemeltetésével, használatával és érvénytelenítésével kapcsolatos részletes szabályokat, valamint
-- p) állapítsa meg a bevallási közreműködővel szemben támasztott követelményeket, valamint a bevallási közreműködőkkel megkötendő szerződés tartalmi elemeit;
+- p) állapítsa meg a bevallási közreműködői és a végső menedékes bevallási közreműködői tevékenység részletes feltételeit, valamint a bevallási közreműködőkkel és a végső menedékes bevallási közreműködővel megkötendő szerződés kötelező tartalmi elemeit;
 - q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait;
 - r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 - s) állapítsa meg az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás részletes szabályait.
@@ -562,7 +571,7 @@ jogosult kezelni.
 - e) rendeletben jelölje ki a tanúsító szervet,
 - f) rendeletben állapítsa meg a fizetési közreműködő igénybevételének részletes szabályait, a fizetési közreműködővel szemben támasztott követelményeket, valamint a fizetési közreműködőkkel történő szerződéskötés alapvető szabályait.
 
-(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
+(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők, a végső menedékes bevallási közreműködő és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
 
 28/A. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy az úttestbe épített áthajtásos tömegmérő pontok működtetésének részletszabályait rendeletben határozza meg.
 

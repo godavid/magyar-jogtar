@@ -68,19 +68,25 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (1f) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 62–70. sorában meghatározott ingatlanokat ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
+(1g) A Tormay Károly Egészségügyi Központ Gödöllő jogutódja a járóbeteg szakellátás tekintetében az Egyetem. A Tormay Károly Egészségügyi Központ Gödöllő járóbeteg szakellátásait az Egyetem Klinikai Központja látja el.
+
+(1h) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 71. és 72. sorában meghatározott ingatlanokat ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
 (2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Egyetemmel.
 
 (3) A költségvetési szervi formában működő Egyetem és az MNV Zrt. között fennálló vagyonkezelési szerződés megszűnik.
 
 (4) Az (1), az (1a), az (1b), az (1d) és az (1f) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
-(5) A (4) bekezdés szerint átszálló ingóságokról az átszállásról szóló rendelkezés hatálybalépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, tulajdonosi joggyakorló szervezet könyveiben szereplő nyilvántartási értékkel.
+(4a) Az (1h) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd vagyonkezelésében lévő, ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
-(5a) Az (1b), az (1d) és az (1f) bekezdés szerinti ingatlanjuttatásra tekintettel az ingatlanjuttatással egyidejűleg az (1b), az (1d) és az (1f) bekezdés szerinti közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek a jogutód Egyetemre szállnak át. A feladat ellátásával összefüggő hatósági engedélyek jogosultja a feladat átvételének időpontjától az Egyetem klinikai központja.
+(5) A (4) és (4a) bekezdés szerint átszálló ingóságokról az átszállásról szóló rendelkezés hatálybalépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, tulajdonosi joggyakorló szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(5a) Az (1b), az (1d), az (1f) és az (1h) bekezdés szerinti ingatlanjuttatásra tekintettel az ingatlanjuttatással egyidejűleg az (1b), az (1d), az (1f) és az (1h) bekezdés szerinti közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek a jogutód Egyetemre szállnak át. A feladat ellátásával összefüggő hatósági engedélyek jogosultja a feladat átvételének időpontjától az Egyetem klinikai központja.
 
 (6) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
-(7) Az ingatlan vonatkozásában a (2) bekezdés és a 6/D. § szerinti megállapodás megkötéséig és a (4) bekezdés szerinti ingóságok vonatkozásában az (5) bekezdés szerinti jegyzőkönyvek felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
+(7) Az ingatlan vonatkozásában a (2) bekezdés, a 6/D. § és a 6/H. § szerinti megállapodás megkötéséig és a (4) és (4a) bekezdés szerinti ingóságok vonatkozásában az (5) bekezdés szerinti jegyzőkönyvek felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
 
 6. § Az Egyetem a tulajdonába adott ingatlant – az 5. §-ban foglaltak értelmében – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
@@ -97,6 +103,10 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 6/F. § A 3. mellékletben foglalt táblázat 62–70. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló, az Országos Mozgásszervi Intézet köti meg az Egyetemmel.
 
 6/G. § Az Országos Mozgásszervi Intézet európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában az Országos Mozgásszervi Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.
+
+6/H. § A 3. mellékletben foglalt táblázat 71. és 72. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a tulajdonosi joggyakorló köti meg az Egyetemmel.
+
+6/I. § A Tormay Károly Egészségügyi Központ Gödöllő európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában a Tormay Károly Egészségügyi Központ Gödöllő jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.
 
 #### 4. Záró rendelkezések
 
@@ -116,7 +126,7 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 - b) nem érinti az e § hatálybalépésekor hatályban lévő határozott idejű áthelyezést, valamint
 - c) nem érinti a jogviszony időtartamát és a munkaidő mértékét.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2), (4), (5), (7) és (8) bekezdése, a 3. § (1) és (4) bekezdése, a 3/A. §, a 4. §, az 5. § (1), (1a), (1b), (1d), (4), (5a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2), (4), (5), (7) és (8) bekezdése, a 3. § (1) és (4) bekezdése, a 3/A. §, a 4. §, az 5. § (1), (1a), (1b), (1d), (1h), (4), (4a), (5a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 9. §
 
@@ -225,3 +235,5 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 | 68. | Budapest | 14501 | 1/1 | Kivett lakóház, udvar |
 | 69. | Budapest | 14511 | 1/1 | Kivett beépítetlen terület |
 | 70. | Budapest | 14520 | 1/1 | Kivett beépítetlen terület |
+| 71. | GÖDÖLLŐ | 291/3 | 1/1 | kivett orvosi rendelő |
+| 72. | GÖDÖLLŐ | 411 | 1/1 | kivett orvosi rendelő |

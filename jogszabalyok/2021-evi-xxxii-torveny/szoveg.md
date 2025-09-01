@@ -18,6 +18,7 @@ a Szabályozott Tevékenységek Felügyeleti Hatóságáról
 - h) nemzeti kiberbiztonsági tanúsítással, valamint a kiberbiztonsági felügyelettel
 - i) a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló törvény (a továbbiakban: ESG törvény) szerinti ESG adatszolgáltatásra kötelezettek hatósági ellenőrzésével, az ESG törvény szerinti felügyelettel, nyilvántartással akkreditálással és szabályozással, az ESG törvény szerinti elektronikus felületek működtetésével, továbbá az ESG törvényben meghatározott egyéb tevékenységeivel
 - j) a kriptoeszközök piacáról szóló 2024. évi VII. törvény (a továbbiakban: Kriptotv.) szerinti kriptoeszköz átváltást validáló szolgáltatók (a továbbiakban: kriptoeszköz átváltást validáló szolgáltatók) felügyeletével
+- k) a kereskedelemről szóló 2005. évi CXLIV. törvény (a továbbiakban: Kertv.) szerinti befektetési arannyal folytatott tevékenységet – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – végző személyek és szervezetek engedélyezésével és ellenőrzésével [kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.]
 
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 
@@ -84,6 +85,8 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (11) A Hatóság látja el a kriptoeszköz-átváltást validáló szolgáltatók felügyeletével kapcsolatos, a Hatóság feladat- és hatáskörébe tartozó feladatokat.
 
+(12) A Hatóság látja el a befektetési arannyal folytatott kereskedelmi tevékenység – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – engedélyezésével és ellenőrzésével kapcsolatos, a Hatóság feladat- és hatáskörébe tartozó feladatokat.
+
 #### 3. Együttműködés a feladatellátás során
 
 4. § (1) A Hatóság feladatai ellátása során együttműködik az állami vagyon felügyeletéért, az állami vagyonnal való gazdálkodás szabályozásáért felelős és a koncessziós tevékenység tárgya szerint hatáskörrel rendelkező miniszterrel, az igazságügyért felelős miniszterrel, az állami adó- és vámhatósággal, a rendvédelmi szervekkel, a polgári nemzetbiztonsági szolgálatokkal, a fogyasztóvédelmi hatóságként és a mérésügyi hatóságként kijelölt szervezettel, valamint a 3. § (1), (8) és (11) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetek, személyek ellenőrzését ellátó más hatósággal, ezen jogszabályok alapján létrehozott köztestülettel, továbbá az AMLA-val. A Hatóság az együttműködés érdekében együttműködési megállapodást köthet.
@@ -94,7 +97,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 #### 4. A Hatóság közigazgatási hatósági eljárására vonatkozó szabályok
 
-5. § (1) A Hatóság hatáskörébe tartozó hatósági eljárásokban – a (2) bekezdésben foglalt kivétellel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az ezen alcímben, és a 3. § (1), (3), (8) és (11) bekezdésében felsorolt törvényekben, valamint a Hatóság elnöke által kiadott rendeletben foglalt kiegészítésekkel kell alkalmazni.
+5. § (1) A Hatóság hatáskörébe tartozó hatósági eljárásokban – a (2) bekezdésben foglalt kivétellel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az ezen alcímben, és a 3. § (1), (3), (8), (11) és (12) bekezdésében felsorolt törvényekben, valamint a Hatóság elnöke által kiadott rendeletben foglalt kiegészítésekkel kell alkalmazni.
 
 (2) A Hatóság a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezésnek minősülő rendelkezésen alapuló hatósági eljárásaiban az Ákr. rendelkezéseit a fogyasztóvédelemről szóló törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
 
@@ -276,6 +279,7 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
   - b) integrátorok nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat és a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
 - 3. meghatározza az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.
 - 4. megállapítja a Kriptotv. 9/A. § (1) bekezdése szerinti kivételeket, a kriptoeszköz-átváltást validáló szolgáltató engedélyezési eljárásának részletes szabályait, ideértve a kriptoeszköz-átváltást validáló szolgáltatás végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit, továbbá a Kriptotv. 12/C. § (2) bekezdése szerinti nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
+- 5. megállapítja a befektetési arannyal folytatott kereskedelmi tevékenység engedélyezésével, ellenőrzésével kapcsolatos részletes szabályokat, valamint a tevékenység végzésének személyi, tárgyi, technikai, informatikai, biztonsági és gazdasági feltételeit, a Kertv. 9/C. § (1) bekezdése szerinti nyilvántartás személyes adatot nem tartalmazó adattartalmával és a nyilvántartás vezetésével kapcsolatos részletes szabályokat, valamint az engedélyes adatszolgáltatására vonatkozó részletes szabályokat.
 
 13/B. § A Hatóság elnöke megállapítja
 
@@ -304,9 +308,9 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 
 (3) A Hatóság nem tartozik a közigazgatási személyügyi tevékenységekkel kapcsolatos adatszolgáltatási körbe.
 
-17. § (1) A Hatóság köztisztviselője – a Küt. szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkavégzésre irányuló jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 3. § (1) és (11) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezettel.
+17. § (1) A Hatóság köztisztviselője – a Küt. szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkavégzésre irányuló jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 3. § (1), (11) és (12) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezettel.
 
-(2) A Hatóság köztisztviselője öröklés kivételével nem szerezhet tulajdoni részesedést a 3. § (1) és (11) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetben.
+(2) A Hatóság köztisztviselője öröklés kivételével nem szerezhet tulajdoni részesedést a 3. § (1), (11) és (12) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetben.
 
 (3) Az (1) és (2) bekezdésben meghatározott tilalom a Hatóság munkavállalójára is vonatkozik.
 

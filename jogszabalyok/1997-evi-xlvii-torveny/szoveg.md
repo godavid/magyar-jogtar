@@ -1227,6 +1227,8 @@ rendeletben jelölje ki.
 
 (3b) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter és a közbiztonságért felelős miniszter egyetértésével rendeletben határozza meg a 35/S. § szerinti országokat.
 
+(3c) Felhatalmazást kap a Kormány, hogy az EESZT csatlakozáshoz használt informatikai rendszerek műszaki bevizsgálására és engedélyezésére vonatkozó részletes szabályokat rendeletben határozza meg.
+
 (4) Ez a törvény a foglalkozási megbetegedések európai jegyzékéről szóló 2003/670/EK ajánlásnak való megfelelést szolgálja.
 
 (5) Ez a törvény a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

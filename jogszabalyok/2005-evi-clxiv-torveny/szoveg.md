@@ -12,6 +12,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 - 1. árusítótér: az üzleten belül a termék vásárlóknak történő bemutatására és értékesítésére szolgáló terület;
 - 1a. beszállító: aki a terméket, szolgáltatást kereskedelmi tevékenységet folytatónak forgalmazási céllal értékesíti;
+- 1b. befektetési arany: az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 235. §-a szerinti befektetési arany;
 - 2. beszerzési szövetség: két vagy több vállalkozás által a beszerzési vagy értékesítési stratégiájuk érvényesítésére, beszerzési vagy értékesítési tevékenységük részének vagy egészének végzésére, koordinálására kötött megállapodás;
 - 3. bevásárlóközpont: olyan komplex kialakítású, vegyes rendeltetésű épület, amelyben állandó jelleggel több kereskedő folytat túlnyomórészt üzletekben különböző típusú kereskedelmi tevékenységet, és ahol emellett jellemzően a szabadidő eltöltésével összefüggő szolgáltatási tevékenységet is folytatnak;
 - 4. csomagküldő kereskedelem: az a kereskedelmi tevékenység, amelynek során a kereskedő a termék jellemzőit és árát feltüntető, ezáltal a vásárló számára az áru megvételére vonatkozó ügyleti döntés meghozatalát lehetővé tevő kereskedelmi kommunikációt bocsátja a vásárló rendelkezésére, és az ilyen kereskedelmi kommunikáció alapján megrendelt terméket szállítja (szállíttatja) a megjelölt címre;
@@ -102,7 +103,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (9) Az e törvény hatálya alá tartozó tevékenységek kapcsán a természetes személy fogyasztó részére a fogyasztóvédelemről szóló törvényben foglaltak szerint kell biztosítani a készpénzzel történő fizetés lehetőségét.
 
-4. § (1) A 3. § (4) bekezdését nem érintve, a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására, illetve felvásárlására (a továbbiakban a nemesfémekre vonatkozóan együttesen: forgalmazására) irányuló szándékot a vállalkozás köteles a kereskedelmi hatóságnak bejelenteni.
+4. § (1) A 3. § (4) bekezdését nem érintve, a nemesfémből készült ékszer, díszműáru és egyéb tárgy – ide nem értve a befektetési aranyat – forgalmazására, illetve felvásárlására (a továbbiakban a nemesfémekre vonatkozóan együttesen: forgalmazására) irányuló szándékot a vállalkozás köteles a kereskedelmi hatóságnak bejelenteni.
 
 (2) Az (1) bekezdés szerinti kereskedelmi tevékenység végzésére csak az a vállalkozás jogosult,
 
@@ -411,7 +412,43 @@ kell érteni.
 
 (5) A kereskedelmi hatóságnak a (4) bekezdés a) pont aa), ac) és ad) alpontja, valamint b) és c) pontja alapján hozott határozata ellen nincs helye fellebbezésnek.
 
-#### 9/A. §
+### A befektetési aranyhoz kapcsolódó kereskedelmi szabályok
+
+9/A. § (1) A befektetési arannyal folytatott kereskedelmi tevékenység – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) engedélyével végezhető. Az engedélyezés részletes szabályait az SZTFH elnöke rendeletben állapítja meg.
+
+(2) A befektetési arannyal történő kereskedelmi tevékenység végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit az SZTFH elnöke rendeletben határozza meg.
+
+(3) A befektetési arannyal történő kereskedelmi tevékenység végzésére engedéllyel rendelkező személy (a továbbiakban: engedélyes) a készletéről, illetve annak forgalmáról az SZTFH elnökének rendeletében meghatározottak szerint – személyes adatot nem tartalmazó adattartalommal – nyilvántartást vezet és adatot szolgáltat az SZTFH részére.
+
+9/B. § (1) Az SZTFH megteszi a szükséges intézkedéseket az engedélyesek e törvényben, valamint az e törvény végrehajtására kiadott jogszabályokban foglalt kötelezettségei megsértésének felderítése, megszüntetése és megelőzése érdekében azzal, hogy az ellenőrzés lefolytatásának részletes szabályait az SZTFH elnöke rendeletben állapítja meg.
+
+(2) Az SZTFH eljárása során keletkezett adatok – ha törvény eltérően nem rendelkezik – nem nyilvánosak.
+
+(3) Az SZTFH a befektetési arannyal folytatott kereskedelmi tevékenységre vonatkozó szabályokat megsértő személlyel szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szabhat ki. Befektetési arannyal folytatott engedély nélküli kereskedelmi tevékenység végzése esetén figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
+
+(4) Az SZTFH elkobozza azt a dolgot, amelyet befektetési arannyal folytatott engedély nélküli kereskedelmi tevékenység eszközéül használtak.
+
+(5) Az SZTFH elrendelheti a dolog zár alá vételét, amennyiben a rendelkezésére álló adatok alapján megalapozottan feltehető, hogy az a (4) bekezdés értelmében elkobozható. Az SZTFH az elkobzást akkor is elrendelheti, ha a dolog nem a jogsértő tulajdona.
+
+(6) A SZTFH az engedélyes engedélyét visszavonja, ha annak működése törvényt sért, az engedélyben foglaltakat megsérti, vagy az engedélyezés feltételeinek már nem felel meg.
+
+9/C. § (1) Az SZTFH az engedélyesekről nyilvántartást vezet az SZTFH elnökének rendeletében foglalt részletes szabályok szerint, amely a következőket tartalmazza:
+
+- a) az engedélyes
+  - aa) neve, székhelye, adószáma,
+  - ab) elérhetősége,
+  - ac) képviseletét ellátó személy neve,
+- b) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatok.
+
+(2) Az engedélyes az (1) bekezdés szerinti adatokban bekövetkező változást annak bekövetkezésétől számított 15 napon belül bejelenti az SZTFH részére.
+
+(3) Ha az engedélyes befektetési arannyal történő kereskedelmi tevékenységet már nem végez, akkor az (1) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
+
+(4) Ha az (1) bekezdés szerinti adatok változását az engedélyes bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot az SZTFH az adat változása bejegyzését követő öt év elteltével a nyilvántartásból törli.
+
+(5) Az SZTFH a honlapján közzéteszi az (1) bekezdés szerinti nyilvántartás adatai közül az (1) bekezdés a) pont aa) alpontja szerinti adatokat.
+
+(6) Az (1) bekezdés szerinti adatok kezelésének célja az engedélyesekre vonatkozó információk naprakészen tartása, valamint az SZTFH felügyeleti jogkörének és hatósági ellenőrzési feladatainak ellátása.
 
 ### Záró rendelkezések
 
@@ -452,6 +489,10 @@ kell érteni.
 
 (3) A 2024. december 31. napjáig nyilvántartásba vett magánszálláshely és egyéb szálláshely esetében a szálláshely-szolgáltató személyében bekövetkezett változás 2026. december 31. napjáig a kereskedelmi hatóság által nem vehető nyilvántartásba Budapest főváros közigazgatási területén.
 
+11/I. § (1) A Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel megállapított 9/A. § hatálybalépésekor befektetési arannyal folytatott kereskedelmi tevékenységet végző személy ezen tevékenységét az SZTFH engedélye nélkül 2026. március 31-ig végezheti.
+
+(2) Ha a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel megállapított 9/A. § hatálybalépésekor befektetési arannyal folytatott kereskedelmi tevékenységet végző személy 2026. március 31-ig nem szerzi meg az SZTFH engedélyét, akkor egy engedéllyel rendelkező személy részére 2026. december 31-ig értékesíti a szerződés állományát és a készletén lévő befektetési aranyat.
+
 12. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) a kereskedelmi tevékenység folytatásának részletes feltételeit, e tevékenységek bejelentésének, valamint a kereskedők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
@@ -464,7 +505,7 @@ kell érteni.
 - h) a kereskedelmi hatóság vagy hatóságok kijelölését,
 - i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait,
 - j) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- k)
+- k) a befektetési arannyal folytatott kereskedelmi tevékenységre vonatkozó szabályok megsértése esetén kiszabható bírság megállapításának, mértékének és megfizetése módjának részletes szabályait
 - l) a 6. § (8) bekezdésében meghatározott, a jegyzői hatáskörbe tartozó engedélyezési eljárásban történő szakhatósági közreműködés szabályait és az azzal kapcsolatos szakkérdéseket
 
 rendeletben állapítsa meg.
@@ -514,7 +555,11 @@ rendeletben állapítsa meg.
 
 rendeletben határozza meg.
 
-(8)
+(8) Felhatalmazást kap az SZTFH elnöke arra, hogy rendeletben állapítsa meg
+
+- a) a befektetési arannyal folytatott kereskedelmi tevékenység engedélyezésével, ellenőrzésével kapcsolatos részletes szabályokat, valamint a tevékenység végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit,
+- b) a 9/C. § (1) bekezdése szerinti nyilvántartás – személyes adatot nem tartalmazó – adattartalmával és a nyilvántartás vezetésével kapcsolatos részletes szabályokat,
+- c) az engedélyes adatszolgáltatására vonatkozó részletes szabályokat.
 
 13. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.
 

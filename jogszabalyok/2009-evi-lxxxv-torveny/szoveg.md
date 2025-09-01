@@ -532,7 +532,9 @@ köteles megőrizni, illetve tárolni.
 
 (14) A pénzforgalmi szolgáltató az e §-ban foglaltaktól a fogyasztó számára kedvezőbb feltételt is megállapíthat.
 
-36/B. § A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke műveletenként hetvenötezer forintnál alacsonyabb összeg nem lehet.
+36/B. § (1) A Magyarországon elhelyezett automata bankjegykiadó gépből készpénz-helyettesítő fizetési eszköz útján fizetési számláról történő készpénzfelvétel fizetési műveleti értékhatárának felső mértéke – a (2) bekezdésben meghatározott eltéréssel – műveletenként százötvenezer forintnál alacsonyabb összeg nem lehet.
+
+(2) Az (1) bekezdésben foglaltak nem érintik azt a lehetőséget, hogy a készpénzfelvétel napi limitje a keretszerződés alapján százötvenezer forintnál alacsonyabb értékben legyen meghatározva, ha a fogyasztó jogosult a készpénzfelvételi limitet a készpénzfelvétel napjára vonatkozóan legalább százötvenezer forintra megemelni.
 
 36/C. § Fogyasztónak fizetési számlát vezető pénzforgalmi szolgáltató jogszabályban meghatározott feltételek teljesülése esetén a fogyasztó kérésére köteles a fizetési számla váltásához kapcsolódó eljárással összefüggő szolgáltatást nyújtani.
 

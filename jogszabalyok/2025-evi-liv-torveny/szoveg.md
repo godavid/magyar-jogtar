@@ -149,9 +149,17 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 (5)
 
-#### 9. §
+9. § Az Szja tv. 65/C. §-a a következő (11) bekezdéssel egészül ki:
 
-#### 10. §
+„(11) E § alkalmazásában a vagyonkezelő alapítványokról szóló törvényben meghatározott tartós vagyonkezelési jogviszony a bizalmi vagyonkezelési jogviszonnyal esik egy tekintet alá. A tartós vagyonkezelésbe adott vagyonnak a magánalapítvány mint kedvezményezett részére történő kiadásától kezdődően az addig a tartós vagyonkezelés keretében kezelt vagyont a (2)–(7) és (10) bekezdés szerint terhelő kötelezettségeket a magánalapítvány teljesíti úgy, hogy a határidőket a tartós vagyonkezelésbe adástól kezdve számítja.”
+
+10. § Az Szja tv. 66. § (1) bekezdés a) pont ag) alpontja helyébe a következő rendelkezés lép:
+
+[A magánszemély osztalékból, osztalékelőlegből származó bevételének egésze jövedelem. E törvény alkalmazásában (azzal, hogy nem minősül osztaléknak az a)–b) pontban említett jogcímen szerzett bevétel, ha azt a törvény előírásai szerint más jövedelem megállapításánál kell figyelembe venni)
+
+a) osztalék]
+
+  - „ag) a magánalapítvány által a kedvezményezett vagy az alapító, a csatlakozó magánszemélynek a számviteli szabályok szerinti tőkeváltozás terhére juttatott vagyoni érték, azzal, hogy ha a magánalapítvány tartós vagyonkezelés kedvezményezettje, a tőkeváltozás azon része terhére juttatott vagyoni érték, amely a tartós vagyonkezelés keretében kezelt vagyonból általa vagyonkiadás címén kedvezményezettként megszerzett juttatás értékének megfelelően keletkezett, csak annyiban minősül osztaléknak, amennyiben annak forrása a 65/C. § (11) bekezdése szerint külön nyilvántartott eszközérték-növekmény, és azt kedvezményezett magánszemély (nem az alapító, a csatlakozó) szerzi meg bevételként;”
 
 11. § Az Szja tv. 1. számú melléklete az 1. melléklet szerint módosul.
 
@@ -160,12 +168,12 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 - a)
 - b)
 - c)
-- d)
-- e)
+- d) 65/C. § (9) bekezdésében az „a juttató számviteli nyilvántartásában értékhelyesbítés nélkül” szövegrész helyébe az „a juttató nyilvántartásaiban értékhelyesbítés, tartós vagyonkezelésből eredő eszközérték-növekmény nélkül” szöveg,
+- e) 67/B. § (14) bekezdés b) pontjában a „bizalmi vagyonkezelői feladatának” szövegrész helyébe a „tartós vagyonkezelői feladatának” szöveg,
 - f)
 - g)
 - h)
-- i)
+- i) 1. számú melléklet 7.26. pont nyitó szövegrészében a „magánalapítvány vagyona terhére” szövegrész helyébe a „magánalapítvány vagyona (ideértve a tartós vagyonkezelésébe adott vagyonból kedvezményezettként általa megszerzett összeget is) terhére” szöveg,
 - j)
 
 lép.
@@ -187,7 +195,37 @@ lép.
 
 #### 4. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-#### 14. §
+14. § (1) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 4. § 9. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„9. bizalmi vagyonkezelési szerződés: a Ptk. szerinti bizalmi vagyonkezelési jogviszonyt vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszonyt szabályozó szerződés és egyoldalú jognyilatkozat;”
+
+(2) A Tao. törvény 4. § 10/a. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„10/a. bizalmi vagyonkezelő: a Ptk. szerinti bizalmi vagyonkezelési jogviszony vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony keretében átvett vagyon kezelésére kötelezettséget vállaló belföldi személy, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelepét is;”
+
+(3) A Tao. törvény 4. § 13. és 14. pontja helyébe a következő rendelkezések lépnek:
+
+(E törvény alkalmazásában)
+
+„13. bizalmi vagyonrendelő: az a személy, amely a Ptk. szerinti bizalmi vagyonkezelési jogviszony vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony keretében vagyont vagyonkezelésre ad át;
+
+14. kezelt vagyon: a Ptk. szerinti bizalmi vagyonkezelési jogviszony vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony keretében kezelt vagyon;”
+
+(4) A Tao. törvény 4. § 28/b. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„28/b. osztalék: az a bevétel, amelynek összegét az annak fizetésére (juttatására) kötelezett nem számolja el adózás előtti eredménye terhére ráfordításként és
+
+a) a számvitelről szóló törvény szerint kapott (járó) osztalék és részesedés címén elszámolt bevétel,
+
+b) a kezelt vagyon kedvezményezettjeként a kezelt vagyonból történő vagyonkiadás vagy hozamkiadás következtében megszerzett bevétel, vagy
+
+c) az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az a) és b) alpont szerinti bevételnek megfeleltethető összeg;”
 
 #### 15. §
 
@@ -209,7 +247,7 @@ lép.
 
 - a)
 - b)
-- c)
+- c) 5. § (7a) bekezdésében a „mint vagyonrendelővel” szövegrész helyébe a „mint bizalmi vagyonrendelővel” szöveg, az „a vagyonkezelő által” szövegrész helyébe az „a bizalmi vagyonkezelő által” szöveg,
 - d)
 - e)
 - f)
@@ -221,13 +259,13 @@ lép.
 - l)
 - m)
 - n)
-- o)
+- o) 3. számú melléklet B) rész 22. pontjában a „vagyonrendelőnél” szövegrész helyébe a „bizalmi vagyonrendelőnél” szöveg
 
 lép.
 
 24. § Hatályát veszti a Tao. törvény
 
-- a)
+- a) 2. § (6) bekezdésében a „bizalmi vagyonkezelési szerződés alapján” szövegrész,
 - b)
 - c)
 - d)
@@ -244,7 +282,7 @@ lép.
 
 #### 7. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-#### 27. §
+27. § A regisztrációs adóról szóló 2003. évi CX. törvény 9. § (6) bekezdés a) pontjában a „motorszáma” szövegrész helyébe a „motorkód (motortípus)” szöveg lép.
 
 #### 8. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
@@ -380,9 +418,26 @@ lép.
 
 #### 16. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-#### 74. §
+74. § Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 17/D. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
 
-#### 75. §
+„(1) Nem tárgya az ajándékozási illetéknek:
+
+- a) az állami adóhatósághoz bizalmi vagyonkezelőként bejelentett személynek (a továbbiakban: bizalmi vagyonkezelő) a Polgári Törvénykönyv hatálya alá tartozó bizalmi vagyonkezelési jogviszony (a továbbiakban: bizalmi vagyonkezelés) keretében történő vagyonszerzése (kivéve a kezelt vagyonból kedvezményezettként történő vagyonszerzését), valamint a bizalmi vagyonkezelő személyében bekövetkezett jogutódlás révén történő vagyonszerzése;
+- b) a vagyonkezelő alapítványnak a vagyonkezelő alapítványokról szóló törvényben meghatározott tartós vagyonkezelési jogviszony (a továbbiakban: tartós vagyonkezelés) vagy alapítói, csatlakozói vagyonrendelés keretében történő vagyonszerzése, valamint vagyonkezelő alapítványok egyesülése, vagyonkezelő alapítvány szétválása esetén a jogutód jogutódlás révén történő vagyonszerzése.
+
+(2) Az illetékkötelezettség vonatkozásában a kedvezményezettnek
+
+- a) a bizalmi vagyonkezelés keretében történő vagyonszerzését úgy kell tekinteni, mintha a vagyont közvetlenül a vagyonrendelőtől szerezte volna;
+- b) a vagyonkezelő alapítványtól történő vagyonszerzését úgy kell tekinteni, mintha a vagyont közvetlenül az alapítótól, a csatlakozótól szerezte volna.
+
+(3) Nem tárgya az ajándékozási illetéknek:
+
+- a) a vagyonrendelőnek a bizalmi vagyonkezelés kedvezményezettjeként, valamint a bizalmi vagyonkezelés vagy a tartós vagyonkezelés (részleges vagy teljes) megszűnése révén történő vagyonszerzése;
+- b) az alapítónak, a csatlakozónak a vagyonkezelő alapítványtól e jogállására tekintettel vagy a vagyonkezelő alapítvány kedvezményezettjeként történő vagyonszerzése.”
+
+75. § Az Itv. 18. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az olyan vagyonszerzés, amely a 17/D. § (1) vagy (3) bekezdés alapján nem tárgya az ajándékozási illetéknek, csak akkor esik visszterhes vagyonátruházási illeték alá, ha a vagyonszerzést megelőzően a vagyonrendelő és a kedvezményezett, vagy az alapító, a csatlakozó és a kedvezményezett között létrejött visszterhes jogviszonyra tekintettel valósult meg. Ilyen esetben a visszterhes vagyonátruházási illeték a vagyon és annak hasznai megszerzésekor a kedvezményezettet terheli.”
 
 #### 76. §
 
@@ -428,11 +483,21 @@ lép.
 
 #### 20. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-#### 92. §
+92. § Az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 6. § (1) bekezdése a következő f) ponttal egészül ki:
+
+[Magyarország területén]
+
+„f) a vagyonkezelő alapítvány által tartós vagyonkezelés keretében kezelt vagyon”
+
+{[az a)–d) pont a továbbiakban együtt: személy] adózásának és költségvetési támogatásának rendjére e törvény rendelkezéseit kell alkalmazni.}
 
 93. § (1)
 
-(2)
+(2) Az Art. 7. § 30. pontja helyébe a következő rendelkezés lép:
+
+(E törvény és – ha törvény másként nem rendelkezik – az adóról és az adóigazgatási eljárásról szóló jogszabályok alkalmazásában)
+
+„30. kezelt vagyon: a Ptk. szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon és a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelés keretében kezelt vagyon,”
 
 #### 94. §
 
@@ -496,7 +561,9 @@ lép.
 
 #### 117. §
 
-#### 118. §
+118. § Az Air. 21. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelés (a továbbiakban: tartós vagyonkezelés) esetében az (1)–(4) bekezdésben foglaltakat kell alkalmazni azzal, hogy a tartós vagyonkezelés keretei között kezelt vagyon adózása tekintetében a vagyonkezelő alapítvány jár el, továbbá az (1)–(4) bekezdés bizalmi vagyonkezelőre vonatkozó szabályai a vagyonkezelő alapítványra is alkalmazandók.”
 
 #### 119. §
 
@@ -510,7 +577,7 @@ lép.
 
 #### 124. §
 
-#### 125. §
+125. § Hatályát veszti az Air. 11. § (2) bekezdésében a „bizalmi vagyonkezelési szerződés alapján” szövegrész.
 
 ### X. Fejezet — VÁMIGAZGATÁS
 
@@ -526,7 +593,9 @@ lép.
 
 #### 23. A számvitelről szóló 2000. évi C. törvény módosítása
 
-#### 129. §
+129. § A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) a következő 7/C. §-sal egészül ki:
+
+„7/C. § A vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony alapján vagyonkezelésbe vett vagyon beszámolási és könyvvezetési kötelezettsége tekintetében e törvény bizalmi vagyonkezelésre vonatkozó szabályait kell megfelelően alkalmazni.”
 
 #### 130. §
 
@@ -584,11 +653,11 @@ lép.
 
 #### 146. §
 
-#### 147. §
+147. § Nem lép hatályba az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény 114. § (2) bekezdése.
 
 #### 29. A hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény módosítása
 
-#### 148. §
+148. § Nem lép hatályba a hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény 71. § (2) bekezdése.
 
 ### XIV. Fejezet — VESZÉLYHELYZETI KORMÁNYRENDELETEK HATÁLYON KÍVÜL HELYEZÉSE
 

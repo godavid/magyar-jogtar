@@ -893,7 +893,7 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 #### 37. A más szervhez vezénylés
 
-62. § (1) A hivatásos állomány tagja kormányzati, rendvédelmi vagy egyéb biztonsági érdekből a miniszter, a más szervet irányító vagy vezető miniszter, a más szerv és a rendvédelmi szerv megállapodása alapján – beleegyezésével – munkakör vagy meghatározott feladat ellátására más szervhez vezényelhető szolgálatteljesítésre.
+62. § (1) A hivatásos állomány tagja kormányzati, rendvédelmi vagy egyéb biztonsági érdekből a miniszter, a más szervet irányító vagy vezető miniszter, a más szerv és a rendvédelmi szerv megállapodása alapján – beleegyezésével – munkakör, szolgálati beosztás vagy meghatározott feladat ellátására más szervhez vezényelhető szolgálatteljesítésre.
 
 (2) A más szervhez vezénylés – az (5) és (6) bekezdésben foglaltak kivételével – legfeljebb öt évre szól. A más szervhez vezénylés leteltét követően újabb más szervhez vezénylésre akkor kerülhet sor, ha a hivatásos állomány tagja a más szervhez vezénylés megszűnése után legalább a vezénylésével megegyező időtartamban a rendvédelmi szervnél szolgálatot teljesített.
 
@@ -916,11 +916,11 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 63. § (1) A hivatásos állomány más szervhez vezényelt tagja a más szerv illetékes vezetőjének rendelkezései szerint teljesíti szolgálatát.
 
-(2) A hivatásos állomány más szervhez vezényelt tagjának tevékenységére, munkarendjére, teljesítményértékelésére, minősítésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértés jogkövetkezményeire, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére – a (6) és (7) bekezdés kivételével – a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok irányadóak.
+(2) A hivatásos állomány más szervhez vezényelt tagjának tevékenységére, munkarendjére, teljesítményértékelésére, minősítésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértés jogkövetkezményeire, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére – a (6) és (7) bekezdés kivételével – a más szervnek az ellátott munkakör, szolgálati beosztás szerinti foglalkoztatottaira vonatkozó szabályok irányadóak.
 
 (3) A hivatásos állomány más szervhez vezényelt tagja
 
-- a) illetményére, illetményjellegű juttatásaira – a (4a) bekezdésben foglalt korlátozás figyelembevétele mellett – a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok az irányadók,
+- a) illetményére, illetményjellegű juttatásaira – a (4a) bekezdésben foglalt korlátozás figyelembevétele mellett – a más szervnek az ellátott munkakör vagy szolgálati beosztás szerinti foglalkoztatottaira vonatkozó szabályok az irányadók,
 - b) keresőképtelensége esetén a 147. és 148. § szerinti szabályok alkalmazásával jogosult a 168. § szerinti távolléti díjra,
 - c) az e törvény szerinti jubileumi jutalomra jogosult,
 - d) az a) pont szerinti illetményen felül az e törvény szerinti hivatásos pótlék legalacsonyabb mértékének megfelelő összegű hivatásos pótlékra jogosult.
@@ -943,6 +943,13 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 (7) A hivatásos állomány más szervhez vezényelt tagjának fegyelmi felelősségre vonására a rendvédelmi szervnél szolgálatot teljesítő hivatásos állomány tagjára vonatkozó szabályok az irányadók.
 
+(8) A hivatásos állomány polgári nemzetbiztonsági szolgálathoz vezényelt tagja vonatkozásában a (4a) bekezdés szerinti egy év leteltét követően vagy a (4c) bekezdés szerinti felmentés esetében a vezénylés kezdetétől
+
+- a) a (3) bekezdés b) pontjától eltérően a keresőképtelenség idejére járó díjazás tekintetében is kiköthető a polgári nemzetbiztonsági szolgálatnál ellátott szolgálati beosztás szerinti foglalkoztatottra vonatkozó szabályok alkalmazása,
+- b) a (3) bekezdés d) pontjában foglalt hivatásos pótlékra a szolgálati beosztásba vezényelt nem jogosult.
+
+(9) A hivatásos állomány polgári nemzetbiztonsági szolgálathoz vezényelt tagja vonatkozásában az (5) bekezdésben foglaltaktól eltérően a ruházati ellátmányt erre irányuló megállapodás esetén a rendvédelmi szerv helyett a polgári nemzetbiztonsági szolgálat is biztosíthatja a saját költségvetési forrása terhére.
+
 63/A. § A hivatásos állomány más rendvédelmi szervhez vezényelt tagja a 65. § szerinti vezénylése megszüntetése nélkül is más szervhez vezényelhető a 62. § alapján a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti szakdiplomataként történő kihelyezése érdekében. Ebben az esetben a továbbvezénylés időtartamára a hivatásos állomány tagja annak a szervnek a rendelkezési állományába kerül, amely szervtől a továbbvezénylésére sor kerül. E célból a 77. § (1) bekezdésében megjelöltek mellett az a rendvédelmi szerv is működtet rendelkezési állományt, amelynél kizárólag vezényelt hivatásos állomány teljesít szolgálatot.
 
 63/B. § A hivatásos állomány polgári nemzetbiztonsági szolgálathoz vezényelt tagja esetében a felek a más szervhez vezénylésre irányuló megállapodásban rendelkezhetnek arról, hogy a rendvédelmi szerv vezetőjének vagy az általa kijelölt vezetőnek a kezdeményezésére a polgári nemzetbiztonsági szolgálathoz vezényelt – a vezénylés megszüntetése nélkül – eseti jelleggel, ideiglenesen a vezénylő rendvédelmi szerv foglalkoztatottjaira vonatkozó szabályok szerint, meghatározott feladatokat láthat el a vezénylő rendvédelmi szervnél. Ezen ideiglenes feladatellátás időtartamára a vezényelt a vezénylő rendvédelmi szerv feladatkörébe tartozó feladatot lát el a vezénylő rendvédelmi szerv foglalkoztatottjaira vonatkozó szabályok szerint, ideértve a vezénylő rendvédelmi szerv hivatásos állományának intézkedési jogosultságára vonatkozó előírásokat is. A vezénylési megállapodás az ideiglenes feladatellátás kezdeményezésére, illetve elrendelésére vonatkozó formai követelményeket határozhat meg.
@@ -955,7 +962,7 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 (4) A (3) bekezdéstől eltérően nem felmentéssel kell megszüntetni a szolgálati viszonyt, hanem a szolgálati viszonyról történő lemondásnak kell tekinteni, ha a hivatásos állomány tagja a végzettségének, képzettségének megfelelő, de legalább a más szervhez vezénylést megelőző szolgálati beosztásával azonos besorolású szolgálati beosztást nem fogadja el, vagy arról öt munkanapon belül nem nyilatkozik, feltéve, hogy a felajánlott szolgálati beosztás elfogadásával a szolgálatteljesítési hely nem változik.
 
-64/A. § A más szervhez vezényelt foglalkoztatása során a foglalkoztatási jogviszonnyal kapcsolatos összeférhetetlenségi szabályokra a 108. § és a 109. § (2)–(6) bekezdése, az ellátott munkakörrel kapcsolatos összeférhetetlenségre a fogadó szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó rendelkezéseit kell alkalmazni.
+64/A. § A más szervhez vezényelt foglalkoztatása során a foglalkoztatási jogviszonnyal kapcsolatos összeférhetetlenségi szabályokra a 108. § és a 109. § (2)–(6) bekezdése, az ellátott munkakörrel kapcsolatos összeférhetetlenségre a fogadó szervnek az ellátott munkakör, szolgálati beosztás szerinti foglalkoztatottaira vonatkozó rendelkezéseit kell alkalmazni.
 
 #### 38. Vezénylés a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez
 
@@ -1452,6 +1459,8 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 (3) Az egészségkárosodási ellátás mértékének megállapításához a szolgálati viszony megszűnésének napján, a 82/B. (4) bekezdés c) pontja szerinti esetben a másik szolgálati beosztásba helyezés vagy áthelyezés napját megelőző napon elért tényleges szolgálati időt kell figyelembe venni.
 
+(3a) Az (1) és (2) bekezdés szerinti számításoknál a baleseti ellátás, a rehabilitációs ellátás és a rokkantsági ellátás összegét az egészségkárosodási ellátást terhelő adó és járulékok százalékának megfelelően növelt összeggel kell figyelembe venni.
+
 (4) A rendvédelmi egészségkárosodási keresetkiegészítés mértéke az (1) vagy (2) bekezdésben meghatározott összeg és az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követő, nem rendszeres pótlékok nélkül számított mindenkori illetmény vagy munkabér különbözete. Ha az új illetmény vagy munkabér összege változik, a rendvédelmi egészségkárosodási keresetkiegészítés mértékét módosítani kell, kivéve azt az esetet, ha az új illetmény vagy munkabér változás előtti és változás utáni összege is meghaladja az (1) vagy (2) bekezdésben meghatározott összeget. Nem változik a rendvédelmi egészségkárosodási keresetkiegészítés mértéke, ha az új foglalkoztatási jogviszony létrejöttét vagy a másik szolgálati beosztásba helyezést, áthelyezést követően az egészségügyi szabadság szabályai szerint vagy keresőképtelenség miatt az illetmény vagy munkabér összege helyett a jogosult részére távolléti díj vagy táppénz kerül folyósításra.
 
 (5) A rendvédelmi egészségkárosodási járadék mértéke az (1) és (2) bekezdésben meghatározott összeggel egyezik meg.
@@ -1467,6 +1476,8 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 (4) Az egészségkárosodási ellátás 82/G. § (1)–(5) bekezdése szerinti mértékét módosítani kell, ha a jogosultat megillető baleseti ellátás, rehabilitációs ellátás vagy rokkantsági ellátás mértéke változik.
 
 (5) Ha a rendvédelmi illetményalap emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell. Ebben az esetben a rendvédelmi illetményalap emelkedésének százalékos mértékével a 82/G. § (1) és (2) bekezdése szerinti távolléti díjat is meg kell emelni és a 82/G. § szerinti számításokat ismételten elvégezni.
+
+(5a) Ha az egészségkárosodási ellátás megállapítását követően a 82/G. § (1) vagy (2) bekezdése szerinti szolgálati beosztásra irányadó hivatásos pótlék mértékének emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell. Ebben az esetben a 82/G. § (1) és (2) bekezdése szerinti távolléti díjat az új hivatásos pótlék mértékével kell megállapítani – azzal, hogy a távolléti díjba beszámítandó további illetményelemek változatlan összeggel kerülnek figyelembevételre – és a 82/G. § szerinti számításokat ismételten el kell végezni.
 
 (6) Ha a rendvédelmi szervnél a 82/B. § (4) bekezdése szerint továbbfoglalkoztatott, rendvédelmi egészségkárosodási keresetkiegészítésre jogosultnak a rendvédelmi szervvel fennálló foglalkoztatási jogviszonya a rendvédelmi szerv érdekkörében felmerült okból vagy a rendvédelmi egészségkárosodási keresetkiegészítésre jogosult egészségi állapotára tekintettel megszűnik, részére a továbbiakban rendvédelmi egészségkárosodási keresetkiegészítés helyett rendvédelmi egészségkárosodási járadék folyósítandó, amelynek mértékét a 82/G. §-ban foglaltak alkalmazásával kell megállapítani. Ha a foglalkoztatási jogviszony a foglalkoztatottnak felróható okból szűnik meg, a rendvédelmi egészségkárosodási keresetkiegészítésre jogosultsága megszűnik és rendvédelmi egészségkárosodási járadékra sem válik jogosulttá.
 
@@ -3205,6 +3216,8 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelke
 (3) A jogi képviselő munkadíját és költségeit az eljárás alá vont személy viseli, ha azonban a fegyelemsértés megállapítására nem került sor, a jogi képviselettel kapcsolatos költségeit meg kell téríteni. A megtéríthető költségeket és azok megengedhető mértékét a miniszter rendeletben állapítja meg.
 
 198. § (1) A fegyelmi eljárást fel kell függeszteni, ha az eljárás alá vont személy tartós távolléte vagy egészségi állapota miatt védekezését előterjeszteni nem tudja, eljárási jogait nem gyakorolhatja. A fegyelmi eljárást a távollét vagy akadályoztatás idejére kell felfüggeszteni.
+
+(1a) Az (1) bekezdés szerinti felfüggesztést a hivatásos állomány tagjának egészségügyi szabadsága önmagában nem alapozza meg, minden esetben vizsgálandó, hogy a hivatásos állomány tagjának egészségügyi állapota ténylegesen akadályozza-e őt a védekezésének előterjesztésében és eljárási jogai gyakorlásában.
 
 (2) A fegyelmi eljárást fel lehet függeszteni, ha
 
@@ -6340,7 +6353,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 329. § (1) Az Országgyűlési Őrség hivatásos állományával kapcsolatos humánigazgatási feladatok ellátásában az Országgyűlés Hivatala is részt vehet.
 
-(2) Az Országgyűlési Őrség vonatkozásában a 62/A. §, a 63. § (4a)–(4c) bekezdése, a 96/A. §, a 97/A. §, a 98. § (2) bekezdése, a 98/A. § (2) bekezdése, valamint a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
+(2) Az Országgyűlési Őrség vonatkozásában a 62/A. §, a 63. § (4a)–(4c) bekezdése, a 96/A. §, a 97/A. §, a 98. § (2) bekezdése, a 98/A. § (2) bekezdése, a 175. § (4) bekezdése, valamint a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
 
 (3) Az Országgyűlési Őrség esetében az Országgyűlés elnöke gyakorolja az alábbi munkáltatói jogokat:
 
@@ -6371,6 +6384,26 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 (1a) Az (1) bekezdés szerinti felmentés esetében a 87. § (4) bekezdés b) pontjában és a 90. § (6) bekezdés c) pontjában foglalt rendelkezést alkalmazni kell.
 
 (2) Az Országgyűlési Őrségnél a könnyített állományra vonatkozó szabályok nem alkalmazhatók. Ha az Országgyűlési Őrség hivatásos állományának tagja megfelel a 79. §-ban meghatározott feltételeknek, kezdeményezésére át kell helyezni másik rendvédelmi szervhez, feltéve, hogy a másik rendvédelmi szervnél van olyan, a kérelmező által betölthető szolgálati beosztás, amely könnyített szolgálattal is ellátható.
+
+(3) Az Országgyűlési Őrség állománya vonatkozásában
+
+- a) a 82/A. § (1) bekezdésétől eltérően a hivatásos állomány tagja vagy volt tagja a korábban elért jövedelem pótlása érdekében egészségkárosodási ellátásként kizárólag rendvédelmi egészségkárosodási járadékra lehet jogosult,
+- b) a 82/A. § (1) bekezdés a) pontjában foglaltaktól eltérően egészségkárosodási ellátásra a hivatásos állomány tagja vagy volt tagja akkor lehet jogosult, ha hivatásos szolgálatra alkalmatlanná vált, míg a hivatásos állománynak a szolgálati beosztásának ellátására alkalmatlanná vált tagja esetében a 86. § (2) bekezdés a) pont ab) alpont alkalmazásának van helye,
+- c) a 82/A. § (1) bekezdés e) pontjától eltérően a továbbfoglalkoztatási kötelezettség alóli mentesítésre kötelezően, az f) pontban foglaltak alapján kerül sor,
+- d) a 82/A. § (3) bekezdésében foglaltaktól eltérően a szolgálati kötelmekkel összefüggő balesetre vagy betegségre vissza nem vezethető egészségi alkalmatlanság esetén, – ha az egészségkárosodási ellátás megállapításának feltételei fennállnak – rendvédelmi egészségkárosodási járadékra az jogosult, aki legalább tíz év tényleges szolgálati idővel rendelkezik, és akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50%-os mértékű vagy annál kevesebb,
+- e) a 82/A. § (6) bekezdésétől eltérően a hivatásos állomány tagja a hivatásos szolgálatra alkalmatlanná válásáról szóló határozat kézhezvételétől számított harminc napon belül kérheti a rendvédelmi egészségkárosodási járadékra való jogosultság megállapítása helyett a szolgálati viszonyának felmentéssel történő megszüntetését,
+- f) a 82/B. § (1)–(6) bekezdése és a 82/C. § (1)–(5b) bekezdése nem alkalmazható, az Országgyűlési Őrség hivatásos állományának tagja vagy volt tagja a továbbfoglalkoztatási kötelezettség alól mentesül, ezért részére az Országgyűlési Őrség parancsnoka – ha az egészségkárosodási ellátás megállapításának feltételei fennállnak – a hivatásos szolgálatra alkalmatlanná válásról szóló végrehajtható határozat kézhezvételétől számított negyvenöt napon belül hivatalból intézkedik a rendvédelmi egészségkárosodási járadék megállapítására,
+- g) a 82/D. § (1) bekezdésében foglaltaktól eltérően a közrehatás vizsgálatára a Becsületbíróságot az Országgyűlési Őrség parancsnoka a hivatásos szolgálatra alkalmatlanná válásról szóló végrehajtható határozat kézhezvételétől számított tíz munkanapon belül hívja össze,
+- h) a 82/D. § (2)–(3a) bekezdése nem alkalmazható,
+- i) a 82/D. § (4) bekezdésétől eltérően
+  - ia) a más rendvédelmi szervhez vezényelt országgyűlési őr tekintetében a 82/B. § (1) bekezdése szerinti eljárás lefolytatására nem kerül sor, az egészségkárosodási ellátásra jogosultság megállapítása iránti eljárást az Országgyűlési Őrség folytatja le az e §-ban meghatározott eltérések alkalmazásával,
+  - ib) a más rendvédelmi szervtől az Országgyűlési Őrséghez vezényelt esetében a 82/B. § (1) bekezdése szerinti eljárást és az egészségkárosodási ellátásra jogosultság megállapítása iránti eljárást az eredeti rendvédelmi szerv folytatja le az eredeti rendvédelmi szerv hivatásos állományára irányadó szabályok szerint,
+- j) a 82/F. §-a nem alkalmazható,
+- k) a 82/G. § (4) bekezdése és a 82/H. § (1)–(3) és (6) bekezdése nem alkalmazható,
+- l) a 82/J. § (1) bekezdés d) pontja nem alkalmazható,
+- m) a 82/J. § (1) bekezdés e) pontjából eltérően megszűnik a rendvédelmi egészségkárosodási járadékra való jogosultság, ha az egészségjavulás eredményeként a jogosult egészségi állapota lehetővé teszi a szolgálati viszony ismételt létesítését,
+- n) a 82/J. § (1) bekezdés f) pontjától eltérően a 82/A. § (3) bekezdése szerinti esetben az 50%-ot meghaladó mértékű egészségi állapot esetében szűnik meg az egészségkárosodási ellátásra való jogosultság,
+- o) a 82/J. § (2), (4) és (5) bekezdése nem alkalmazható.
 
 #### 128.
 
@@ -7187,6 +7220,17 @@ alakul át.
 374. § A 2025. január 1-jét megelőző időponttól megállapított árvák kiegészítő támogatását 2025. január 1-jétől – a Tny. 62. §-ában foglalt emelésen túl – a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel módosított 261/A. § (2) bekezdés a)–c) pontjának alapulvételével is meg kell emelni.
 
 375. § A belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvénnyel megállapított 142. § (3) bekezdése és 319/K. § (4) bekezdése a 2025. június 30-át követően folyósított szülési szabadság idejére járó távolléti díj tekintetében alkalmazható.
+
+376. § A 2025. augusztus 31-én egészségkárosodási ellátásra jogosultak tekintetében a 82/H. § (5a) bekezdését úgy kell alkalmazni, hogy
+
+- a) 2025. szeptember 1-jétől 2025. december 31-ig az egészségi alkalmatlanság megállapítását közvetlenül megelőző naptári hónapra megillető hivatásos pótléknak a rendvédelmi illetményalap 100%-ával növelt összegét – de legfeljebb a 82/G. § (1) vagy (2) bekezdése szerinti szolgálati beosztásra irányadó hivatásos pótlék 2025. szeptember 1-jei mértékét – kell figyelembe venni,
+- b) 2026. január 1-jétől 2026. december 31-ig az egészségi alkalmatlanság megállapítását közvetlenül megelőző naptári hónapra megillető hivatásos pótléknak a rendvédelmi illetményalap 200%-ával növelt összegét – de legfeljebb a 82/G. § (1) vagy (2) bekezdése szerinti szolgálati beosztásra irányadó hivatásos pótlék 2026. január 1-jei mértékét – kell figyelembe venni,
+
+– azzal, hogy a távolléti díjba beszámítandó további illetményelemek változatlan összeggel kerülnek figyelembevételre – és ezen összeggel kell a 82/G. § szerinti számításokat ismételten elvégezni, majd 2027. január 1-jétől a 82/ H. § (5a) bekezdésének alkalmazásával kell az egészségkárosodási ellátás összegét ismételten megállapítani.
+
+377. § (1) Az Országgyűlési Őrség hivatásos állományának 2025. augusztus 31-én rendvédelmi egészségkárosodási keresetkiegészítésre jogosult tagjának vagy volt tagjának jogosultságát a belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvénnyel megállapított 330. § (3) bekezdésének hatálybalépése nem szünteti meg, a 2025. szeptember 1-jét megelőzően megállapított rendvédelmi egészségkárosodási keresetkiegészítésre jogosultak tekintetében a 330. § (3) bekezdése alkalmazásának nincs helye, az egészségkárosodási keresetkiegészítésre az 50/A. alcímben foglaltakat kell továbbra is alkalmazni.
+
+(2) A 330. § (3) bekezdését a rendvédelmi egészségkárosodási ellátás megállapítására irányuló, 2025. szeptember 1-jén folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### 1. melléklet a 2015. évi XLII. törvényhez
 

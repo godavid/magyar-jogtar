@@ -112,7 +112,7 @@ keletkezik.
 
 (6) A közúti közlekedési nyilvántartást vezető szerv a tárgyhónapot követő hónap 15. napjáig a tárgyhónapban forgalomba helyezett, e törvény alkalmazásában személygépkocsinak és motorkerékpárnak minősülő gépjárművekről a vámhatóság részére adatot szolgáltat a következő tartalommal:
 
-- a) a gépjármű rendszáma, alvázszáma, motorszáma;
+- a) a gépjármű rendszáma, alvázszáma, motorkód (motortípus);
 - b) a forgalomba helyezés időpontja.
 
 (7) Az e törvényben nem szabályozott, az adózással kapcsolatos egyéb eljárásban az Air. és az Art. rendelkezéseit kell alkalmazni.

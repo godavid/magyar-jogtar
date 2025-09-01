@@ -86,7 +86,7 @@ a használatidíj-rendszerben és az útdíjrendszerben ellátott közfeladatok 
 
 - a)
 - b) 13. §-a és 15. §-a az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek,
-- c)
+- c) 14. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -98,7 +98,9 @@ való megfelelést szolgálja.
 
 (3)
 
-(4)
+(4) A Kkt. 33/A. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az (1) bekezdésben meghatározott használati jogosultság az útdíjszolgáltatási gazdasági társaság saját, vagy az útdíjszolgáltatási gazdasági társasággal megállapodást kötött üzemanyagtöltő állomások, és az útdíjszolgáltatási gazdasági társasággal megállapodást kötött, a határátkelőhelyektől legfeljebb 5000 méter távolságban működő, a kereskedelemről szóló törvény szerinti üzletek (a továbbiakban együtt: viszonteladók) értékesítésében váltható meg.”
 
 (5)
 
@@ -108,7 +110,7 @@ való megfelelést szolgálja.
 
 (8)
 
-(9)
+(9) Hatályát veszti a Kkt. 48. § (3) bekezdés s) pontja.
 
 #### 11. §
 
@@ -116,33 +118,59 @@ való megfelelést szolgálja.
 
 (2)
 
-(3)
+(3) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 2. §-a a következő 76. ponttal egészül ki:
 
-(4)
+(E törvény alkalmazásában)
+
+„76. végső menedékes bevallási közreműködő: olyan kiemelt bevallási közreműködő, amely szolgáltatását valamennyi szerződött díjfizető számára biztosítja.”
+
+(4) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 6. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A szerződött díjfizető bevallási közreműködőt vagy végső menedékes bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét teljesítse az útdíjszolgáltató felé. Ha e törvény, vagy az e törvény felhatalmazása alapján kiadott kormányrendelet eltérően nem rendelkezik, a bevallási közreműködőre vonatkozó rendelkezéseket a végső menedékes bevallási közreműködőre is megfelelően alkalmazni kell.”
 
 (5)
 
-(6)
+(6) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 6. §-a a következő (8a)–(8c) bekezdéssel egészül ki:
 
-(7)
+„(8a) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott feltételek teljesítése esetén végezheti e tevékenységét, az útdíjszolgáltatóval kötött szerződés szerint.
 
-(8)
+(8b) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül a szerződött díjfizetőtől beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik a szerződött díjfizetőnek.
+
+(8c) Ha a bevallási közreműködőt az egyetemes útdíjszolgáltató veszi igénybe, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mértékű átalány-költségtérítést fizet.”
+
+(7) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 6. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Az egyetemes útdíjszolgáltató azonos feltételekkel köt szerződést az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott követelményeknek megfelelő bevallási közreműködőkkel.”
+
+(8) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 6. §-a a következő (9a) bekezdéssel egészül ki:
+
+„(9a) A (9) bekezdést a végső menedékes bevallási közreműködő tekintetében nem kell alkalmazni.”
 
 (9)
 
 (10)
 
-(11)
+(11) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és útdíjellenőrzés-támogatói feladatok ellátása érdekében szerződéskötésre feljogosított költségvetési szervet, az útdíjszedői, és az egyetemes útdíjszolgáltatói feladatok ellátására feljogosított szervezetet, az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet, továbbá a végső menedékes bevallási közreműködőt;”
 
 (12)
 
-(13)
+(13) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (1) bekezdés p) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„p) állapítsa meg a bevallási közreműködői és a végső menedékes bevallási közreműködői tevékenység részletes feltételeit, valamint a bevallási közreműködőkkel és a végső menedékes bevallási közreműködővel megkötendő szerződés kötelező tartalmi elemeit;”
 
 (14)
 
 (15)
 
-(16)
+(16) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők, a végső menedékes bevallási közreműködő és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.”
 
 (17)
 
@@ -152,8 +180,36 @@ való megfelelést szolgálja.
 - b)
 - c)
 
-#### 13. §
+13. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 209. §-a a következő e) ponttal egészül ki:
 
-#### 14. §
+(Ez a törvény)
 
-#### 15. §
+„e) az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek”
+
+(való megfelelést szolgálja.)
+
+14. § (1) Az egyes közszolgáltatások egységes elektronikus értékesítéséről szóló 2020. évi CXLV. törvény 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjáig az egységes rendszer működtetését a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény (a továbbiakban: NMtv.) 2020. december 31-én hatályos 3. § (2) bekezdése szerinti nemzeti mobilfizetési szervezet végzi, amely az egységes elektronikus értékesítésű közszolgáltatások értékesítését az NMtv.-nek, továbbá a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról szóló kormányrendeletnek (a továbbiakban: Vhr.) az e törvény hatálybalépését megelőző napon hatályos rendelkezései alkalmazásával látja el a (3)–(5) bekezdésben meghatározott eltérésekkel. A koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjában a nemzeti mobilfizetési szervezetnek a Vhr. szerint megkötött és a koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjában hatályos viszonteladói szerződéseiből és szolgáltatói szerződéseiből származó valamennyi joga és kötelezettsége e törvény alapján a működtetőre száll át.”
+
+(2) Az egyes közszolgáltatások egységes elektronikus értékesítéséről szóló 2020. évi CXLV. törvény 9. §-a a következő (3)–(5) bekezdéssel egészül ki:
+
+„(3) Az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatásnak a szolgáltatói szerződés alapján a nemzeti mobilfizetési szervezet által harmadik személyek részére történő továbbértékesítése esetén a nemzeti mobilfizetési szervezet továbbértékesítési díjra jogosult, amelynek alapja az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatásért fizetendő díj általános forgalmi adó nélkül számított összege, mértéke 3%.
+
+(4) Az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatás esetében a viszonteladói szerződés keretében a viszonteladó megvásárolja a szolgáltatást a nemzeti mobilfizetési szervezettől, és azt az üzletszabályzatban előírt követelmények betartása mellett, saját szerződési feltételei alkalmazásával továbbértékesíti az igénybe vevő számára azzal, hogy az igénybe vevő részére történő továbbértékesítés esetén a viszonteladó továbbértékesítési díjra jogosult, amelyet a nemzeti mobilfizetési szervezet fizet a viszonteladó részére. A továbbértékesítési díj alapja az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatásért fizetendő díj általános forgalmi adó nélkül számított összege, mértéke 1,5%.
+
+(5) Az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatásnak a szolgáltatói szerződés alapján a nemzeti mobilfizetési szervezet, a viszonteladói szerződés alapján a viszonteladó által harmadik személyek részére történő továbbértékesítése esetén kényelmi díj felszámításának nincs helye.”
+
+15. § (1) A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény 48. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az ezen alcím szerinti védelem – a 43. §-ban meghatározott kivétellel – kizárólag akkor illeti meg a bejelentőt, ha)
+
+„a) a bejelentéssel érintett körülményekre vonatkozó, bejelentett információ
+
+aa) az 1. mellékletben, illetve a 2. mellékletben szereplő európai uniós jogi aktusok vagy azok végrehajtását, az azoknak való megfelelést biztosító jogszabályi rendelkezések hatálya alá tartozik, vagy
+
+ab) az uniós korlátozó intézkedéseknek az (EU) 2024/1226 európai parlamenti és tanácsi irányelv 3. és 4. cikkében foglalt megsértésére vonatkozik, vagy”
+
+(2) A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény 59. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ez a törvény az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”

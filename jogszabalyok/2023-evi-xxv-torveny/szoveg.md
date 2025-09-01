@@ -418,7 +418,9 @@ jogellenesnek minősül akkor is, ha egyébként jogszerű lenne.
 
 48. § (1) Az ezen alcím szerinti védelem – a 43. §-ban meghatározott kivétellel – kizárólag akkor illeti meg a bejelentőt, ha
 
-- a) a bejelentéssel érintett körülményekre vonatkozó, bejelentett információ az 1. mellékletben, illetve a 2. mellékletben szereplő európai uniós jogi aktusok vagy azok végrehajtását, az azoknak való megfelelést biztosító jogszabályi rendelkezések hatálya alá tartozik, vagy
+- a) a bejelentéssel érintett körülményekre vonatkozó, bejelentett információ
+  - aa) az 1. mellékletben, illetve a 2. mellékletben szereplő európai uniós jogi aktusok vagy azok végrehajtását, az azoknak való megfelelést biztosító jogszabályi rendelkezések hatálya alá tartozik, vagy
+  - ab) az uniós korlátozó intézkedéseknek az (EU) 2024/1226 európai parlamenti és tanácsi irányelv 3. és 4. cikkében foglalt megsértésére vonatkozik, vagy
 - b) a bejelentő az a) pont szerinti körülmény fennállását alapos okkal feltételezi.
 
 (2) Az ezen alcím szerinti védelem – a 43. §-ban meghatározott kivétellel – nem illeti meg a bejelentőt, ha
@@ -489,6 +491,8 @@ jogellenesnek minősül akkor is, ha egyébként jogszerű lenne.
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a törvény az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(3) Ez a törvény az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 60. §
 

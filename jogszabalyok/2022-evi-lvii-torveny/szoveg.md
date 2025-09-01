@@ -310,7 +310,7 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 | 115 | Csorna | 208/15 | belterület | 1/1 | Csorna tanuszoda |
 | 116 | Budapest XIV. kerület | 32533/6 | belterület | 1/1 | Papp László Sportaréna földterülete |
 | 117 | Budapest XIV. kerület | 32596 | belterület | 1/1 | Stefánia úti irodaház |
-| 118 | Göd | 3658 | belterület | 1/1 | Kék Duna Központ |
+| 118 |  |  |  |  |  |
 | 119 | Dunakeszi | 063 külterületi ingatlan „b”, „c”, „d”, „g”, „h”, „k” alrészletei kivételével | külterület | 1/1 | Alagi Lóversenypálya I. |
 | 120 | Dunakeszi | 2945 | belterület | 1/1 | Alagi Lóversenypálya II. |
 | 121 | Dunakeszi | 2947 | belterület | 1/1 | Alagi Lóversenypálya III. |

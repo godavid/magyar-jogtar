@@ -5688,6 +5688,8 @@ terhelik.
 
 (7) A büntetés-végrehajtási bíró hivatalból vagy az NMHH tájékoztatása alapján az elektronikus hírközlési szolgáltatóval szemben az elektronikus adathoz való hozzáférés végleges megakadályozására vagy a hozzáférés újbóli biztosítására vonatkozó kötelezettség elmulasztása miatt százezer forinttól egymillió forintig terjedő rendbírságot szabhat ki. A rendbírság ismételten is kiszabható. A rendbírságot kiszabó határozattal szemben halasztó hatályú fellebbezésnek van helye.
 
+(8) Ha a Btk. 77. § (1a) bekezdése alapján az elektronikus adat végleges hozzáférhetetlenné tétele kiterjed a véglegesen hozzáférhetetlenné tett elektronikus adattal azonos adatra (a továbbiakban: érintett elektronikus adat másolata), és az érintett elektronikus adat másolatára vonatkozóan határozat meghozatala nélkül került sor a hozzáférhetetlenné tételre, akkor büntetés-végrehajtási bíró hivatalból vagy a vagyoni érdekelt indítványára dönt arról, hogy az érintett elektronikus adat másolata az elektronikus adat végleges hozzáférhetetlenné tételéről hozott határozat hatálya alá tartozik-e. A vagyoni érdekelt az indítványát az ügyészségen teheti meg, amelyet az ügyészség továbbít a büntetés-végrehajtási bíróhoz.
+
 ### XXVI. Fejezet — A KÉNYSZERGYÓGYKEZELÉS VÉGREHAJTÁSA
 
 ### Általános rendelkezések

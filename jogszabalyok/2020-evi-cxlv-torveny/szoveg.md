@@ -102,7 +102,13 @@ rendeletben állapítsa meg.
 
 9. § (1) A miniszter az egységes rendszer működtetésére vonatkozó koncessziós eljárást első alkalommal legkésőbb 2021. március 31. napjáig megindítja.
 
-(2) A koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjáig az egységes rendszer működtetését a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény 2020. december 31-én hatályos 3. § (2) bekezdése szerinti nemzeti mobil fizetési szervezet végzi, amely az egységes elektronikus értékesítésű közszolgáltatások értékesítését a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvénynek, továbbá a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról szóló kormányrendeletnek az e törvény hatálybalépését megelőző napon hatályos rendelkezései alkalmazásával látja el. A koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjában a nemzeti mobil fizetési szervezetnek a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról szóló kormányrendelet szerint megkötött és a koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjában hatályos viszonteladói szerződéseiből és szolgáltatói szerződéseiből származó valamennyi joga és kötelezettsége e törvény alapján a működtetőre száll át.
+(2) A koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjáig az egységes rendszer működtetését a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény (a továbbiakban: NMtv.) 2020. december 31-én hatályos 3. § (2) bekezdése szerinti nemzeti mobilfizetési szervezet végzi, amely az egységes elektronikus értékesítésű közszolgáltatások értékesítését az NMtv.-nek, továbbá a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról szóló kormányrendeletnek (a továbbiakban: Vhr.) az e törvény hatálybalépését megelőző napon hatályos rendelkezései alkalmazásával látja el a (3)–(5) bekezdésben meghatározott eltérésekkel. A koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjában a nemzeti mobilfizetési szervezetnek a Vhr. szerint megkötött és a koncessziós szerződésben meghatározott szolgáltatásnyújtás kezdő időpontjában hatályos viszonteladói szerződéseiből és szolgáltatói szerződéseiből származó valamennyi joga és kötelezettsége e törvény alapján a működtetőre száll át.
+
+(3) Az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatásnak a szolgáltatói szerződés alapján a nemzeti mobilfizetési szervezet által harmadik személyek részére történő továbbértékesítése esetén a nemzeti mobilfizetési szervezet továbbértékesítési díjra jogosult, amelynek alapja az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatásért fizetendő díj általános forgalmi adó nélkül számított összege, mértéke 3%.
+
+(4) Az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatás esetében a viszonteladói szerződés keretében a viszonteladó megvásárolja a szolgáltatást a nemzeti mobilfizetési szervezettől, és azt az üzletszabályzatban előírt követelmények betartása mellett, saját szerződési feltételei alkalmazásával továbbértékesíti az igénybe vevő számára azzal, hogy az igénybe vevő részére történő továbbértékesítés esetén a viszonteladó továbbértékesítési díjra jogosult, amelyet a nemzeti mobilfizetési szervezet fizet a viszonteladó részére. A továbbértékesítési díj alapja az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatásért fizetendő díj általános forgalmi adó nélkül számított összege, mértéke 1,5%.
+
+(5) Az NMtv. 2020. december 31-én hatályos 2. § b) pontjában meghatározott szolgáltatásnak a szolgáltatói szerződés alapján a nemzeti mobilfizetési szervezet, a viszonteladói szerződés alapján a viszonteladó által harmadik személyek részére történő továbbértékesítése esetén kényelmi díj felszámításának nincs helye.
 
 10. § (1) A 13. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
@@ -112,10 +118,10 @@ rendeletben állapítsa meg.
 
 12. § Az 5. § (2) bekezdés d) és g) pontjának a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §

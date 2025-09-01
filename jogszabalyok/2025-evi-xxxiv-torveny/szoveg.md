@@ -90,19 +90,31 @@ a TB-kiskönyv megszüntetéséről, valamint a köznevelési, szociális, gyerm
 
 #### 29. §
 
-#### 30. §
+30. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 30/B. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A középiskola a tanulmányai befejezését követő 12 hónapon belül nem utasíthatja el annak a vele tanulói jogviszonyban már nem álló tanulónak az (1)–(4) bekezdésben meghatározottak szerint már megkezdett elméleti tanfolyam befejezésére és a vizsgára való jelentkezésére vonatkozó kérelmét, akinek tanulói jogviszonya az érettségi megszerzésére tekintettel szűnt meg.”
 
 #### 31. §
 
-#### 32. §
+32. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 88. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
 
-#### 33. §
+„(4a) A köznevelési intézmény fenntartója részére a külföldről hazatérő tanuló nemzeti köznevelési rendszerben való felzárkóztatásához kiegészítő támogatás nyújtható, amely megállapításának, igénylésének, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+
+(4b) A (4a) bekezdés szerinti külföldről hazatérő tanuló az a magyar állampolgár, aki a (4a) bekezdés szerinti kiegészítő támogatás iránti kérelem benyújtását megelőző két tanévből legalább egy tanévet külföldi államban, nem magyar tanítási nyelvű nevelési-oktatási intézményben töltött.”
+
+33. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdése a következő z) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„z) a köznevelési intézmény fenntartója részére a külföldről hazatérő tanuló nemzeti köznevelési rendszerben való felzárkóztatásához nyújtható kiegészítő támogatás megállapításának, igénylésének, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait,”
+
+(rendeletben állapítsa meg.)
 
 34. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény
 
 - a)
-- b)
-- c)
+- b) 21. § (3) bekezdés i) pontjában az „azonosító számát, szintjét, szakiskola esetén a szakképesítés,” szövegrész helyébe az „azonosító számát, programkövetelmény számát, szintjét, szakiskola esetén a szakképesítés programkövetelmény számát,” szöveg,
+- c) 30/B. § (1) bekezdésében a „középiskola utolsó évfolyamán” szövegrész helyébe a „középiskolában” szöveg,
 - d)
 - e)
 - f)
@@ -131,11 +143,13 @@ lép.
 
 #### 40. §
 
-#### 13.
+#### 13. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
-#### 41. §
+41. § A szakképzésről szóló 2019. évi LXXX. törvény 35/B. §-a a következő (5) bekezdéssel egészül ki:
 
-#### 42. §
+„(5) A szakképző intézmény a tanulmányai befejezését követő 12 hónapon belül nem utasíthatja el a vele tanulói jogviszonyban már nem álló tanulónak az (1)–(4) bekezdésben meghatározottak szerint már megkezdett elméleti tanfolyam befejezésére és a vizsgára való jelentkezésére vonatkozó kérelmét, akinek tanulói jogviszonya a tanulmányai befejezésére tekintettel szűnt meg.”
+
+42. § A szakképzésről szóló 2019. évi LXXX. törvény 35/B. § (1) bekezdésében a „szakképző intézmény utolsó évfolyamán” szövegrész helyébe a „szakképző intézményben” szöveg lép.
 
 #### 14. A termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény eltérő szöveggel történő hatálybaléptetése
 

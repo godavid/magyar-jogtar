@@ -12,15 +12,15 @@ a vagyonkezelő alapítványokról
 
 2. § (1) Vagyonkezelő alapítvány az alapító által rendelt vagyon kezelésére és az ebből származó jövedelemnek az alapító okiratban megjelölt feladatok megvalósítása, valamint a kedvezményezettként megjelölt személy, illetve személyek javára történő vagyoni juttatás céljából alapítható.
 
-(2) A vagyonkezelő alapítvány gazdasági tevékenységként a javára rendelt, illetve általa az (1) bekezdés szerinti célból bizalmi vagyonkezelésbe vett vagyon kezelését végezheti.
+(2) A vagyonkezelő alapítvány gazdasági tevékenységként a javára rendelt, illetve általa az (1) bekezdés szerinti célból tartós vagyonkezelésbe vett vagyon kezelését végezheti.
 
-(3) A vagyonkezelő alapítvány által bizalmi vagyonkezelésbe vett vagyon tekintetében létrejött bizalmi vagyonkezelési jogviszony esetében
+(3) A vagyonkezelő alapítvány által határozott vagy határozatlan időre tartós vagyonkezelésbe vett vagyon tekintetében létrejött tartós vagyonkezelési jogviszony esetében
 
-- a) a vagyonkezelő alapítványt a kezelt vagyon kizárólagos kedvezményezettjének kell tekinteni azzal, hogy kedvezményezettként e vagyont is az (1) bekezdés szerinti célok megvalósítása érdekében köteles kezelni;
-- b) a Ptk. 6:326. § (3) bekezdését nem kell alkalmazni, a bizalmi vagyonkezelési jogviszony megszűnik a vagyonkezelő alapítvány megszűnésével;
-- c) e jogviszony nem tartozik a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény hatálya alá.
+- a) a vagyonkezelő alapítványt az e jogviszony keretében kezelt vagyon kizárólagos kedvezményezettjének kell tekinteni azzal, hogy kedvezményezettként e vagyont is az (1) bekezdés szerinti célok megvalósítása érdekében köteles kezelni;
+- b) e jogviszony az alapító okiratba foglalt egyoldalú jognyilatkozattal is létrejöhet az alapító okiratban meghatározott keretek között és feltételekkel;
+- c) e jogviszony megszűnik a vagyonkezelő alapítvány megszűnésével, ezt megelőzően csak a határozott időre rendelt tartós vagyonkezelés szűnik meg, ha a határozott idő eltelt.
 
-(4) Az alapító a vagyon bizalmi vagyonkezelésbe adásáról az alapító okiratba foglalt egyoldalú jognyilatkozattal is rendelkezhet. Ebben az esetben az alapító okirat – az alapító okiratban meghatározott keretek között és feltételekkel – a Ptk. 6:316. §-ától eltérhet.
+(4) A tartós vagyonkezelési jogviszonyra egyebekben – ha e törvény eltérően nem rendelkezik – a Ptk. bizalmi vagyonkezelési szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
 
 3. § (1) Vagyonkezelő alapítvány létesítéséhez az alapítvány javára legalább 600 millió forintnak megfelelő vagyont kell rendelni (a továbbiakban: tőkeminimum).
 
@@ -110,11 +110,11 @@ a vagyonkezelő alapítványokról
 
 (2) Ha a vagyonkezelő alapítvány vagyona az alapító okiratban az (1) bekezdés szerinti mérték alá csökken, a kedvezményezetteknek járó juttatás kifizetését arányosan csökkenteni kell, vagy azt mindaddig vissza kell tartani, amíg az alapítvány vagyona az (1) bekezdés szerinti mértéket el nem éri.
 
-10/A. §
+#### 10/A. §
 
-10/B. §
+#### 10/B. §
 
-10/C. §
+#### 10/C. §
 
 #### 8. A vagyonkezelő alapítvány megszűnése
 
@@ -124,14 +124,16 @@ a vagyonkezelő alapítványokról
 
 #### 8/A. Közfeladatot ellátó közérdekű vagyonkezelő alapítvány
 
-11/A. §
+#### 11/A. §
 
-11/B. §
+#### 11/B. §
 
-11/C. §
+#### 11/C. §
 
 #### 9. Záró rendelkezések
 
 12. § Ez a törvény a kihirdetését követő 15. napon lép hatályba.
+
+13. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel módosított rendelkezéseit e módosító rendelkezések hatálybalépését megelőzően a vagyonkezelő alapítványok által bizalmi vagyonkezelésbe vett vagyon vonatkozásában azzal kell alkalmazni, hogy a vagyonkezelő alapítványok által létesített bizalmi vagyonkezelési jogviszony alatt tartós vagyonkezelést kell érteni.
 
 ### 1. melléklet a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvényhez

@@ -288,6 +288,8 @@ veszélyeztetné.
 
 (2) Nem kell beszerezni az (1) bekezdés szerinti beleegyezést, ha az Európai Unió tagállamának bűnüldöző szerve az információcsere iránti megkeresés teljesítésekor beleegyezését adta az információ bizonyítékként történő felhasználásába.
 
+(3) A magyar bűnüldöző szerv által továbbított információ bizonyítékként történő felhasználásához a bűnüldöző szerv járulhat hozzá. A bizonyítási eszközként történő felhasználást ki kell zárni, ha az információ magyar büntetőeljárásban bizonyítékként nem használható fel vagy az a magyar büntetőeljárás eredményes lefolytatását veszélyeztetné.
+
 16/E. § Ha a 16/A. § szerinti információ átadására vonatkozó megkeresés vagy a 16/B. § vagy 16/C. § alapján átadott információ az (EU) 2016/794 európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdésében és I. mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információ átadására vonatkozó megkeresés vagy az átadott információ másolatát minden esetben megküldi a rendőrségnek az EUROPOL-lal való együttműködésért felelős szervezeti egységének is.
 
 16/F. § (1) A nyomozó hatóság vagyonvisszaszerzési szerve (a továbbiakban: vagyonvisszaszerzési szerv) a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése érdekében az Európai Unió más tagállamának erre a feladatra kijelölt közigazgatási, bűnüldözési vagy igazságügyi hatóságától közvetlenül tájékoztatást kérhet, illetve annak tájékoztatást adhat.
@@ -299,6 +301,8 @@ veszélyeztetné.
 (2) A vagyonvisszaszerzési szerv az (1) bekezdésben foglalt feltételek fennállása esetén sem adhat tájékoztatást, ha az információ, tény vagy adat átadása – erre irányuló kérelem esetén – az 5. § (3) bekezdése, illetve a 16/B. § (7) bekezdés a) pontja vagy b) pontjának bb) alpontja alapján nem lenne teljesíthető.
 
 16/H. § Az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes más állammal történő információcserére a 16/A–16/E. § rendelkezéseit megfelelően alkalmazni kell.
+
+16/I. § A 16/A–16/E. § vonatkozásában bűnüldöző szerv alatt a nyomozást folytató ügyészséget is érteni kell.
 
 #### 17. §
 
