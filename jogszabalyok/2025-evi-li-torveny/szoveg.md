@@ -130,77 +130,15 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 8. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-38. § A kereskedelemről szóló 2005. évi CLXIV. törvény 2. §-a a következő 1b. ponttal egészül ki:
+#### 38. §
 
-(E törvény alkalmazásában:)
+#### 39. §
 
-„1b. befektetési arany: az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 235. §-a szerinti befektetési arany;”
+#### 40. §
 
-39. § A kereskedelemről szóló 2005. évi CLXIV. törvény 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 41. §
 
-„(1) A 3. § (4) bekezdését nem érintve, a nemesfémből készült ékszer, díszműáru és egyéb tárgy – ide nem értve a befektetési aranyat – forgalmazására, illetve felvásárlására (a továbbiakban a nemesfémekre vonatkozóan együttesen: forgalmazására) irányuló szándékot a vállalkozás köteles a kereskedelmi hatóságnak bejelenteni.”
-
-40. § A kereskedelemről szóló 2005. évi CLXIV. törvény a 9. §-t követően a következő alcímmel egészül ki:
-
-### „A befektetési aranyhoz kapcsolódó kereskedelmi szabályok
-
-9/A. § (1) A befektetési arannyal folytatott kereskedelmi tevékenység – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) engedélyével végezhető. Az engedélyezés részletes szabályait az SZTFH elnöke rendeletben állapítja meg.
-
-(2) A befektetési arannyal történő kereskedelmi tevékenység végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit az SZTFH elnöke rendeletben határozza meg.
-
-(3) A befektetési arannyal történő kereskedelmi tevékenység végzésére engedéllyel rendelkező személy (a továbbiakban: engedélyes) a készletéről, illetve annak forgalmáról az SZTFH elnökének rendeletében meghatározottak szerint – személyes adatot nem tartalmazó adattartalommal – nyilvántartást vezet és adatot szolgáltat az SZTFH részére.
-
-9/B. § (1) Az SZTFH megteszi a szükséges intézkedéseket az engedélyesek e törvényben, valamint az e törvény végrehajtására kiadott jogszabályokban foglalt kötelezettségei megsértésének felderítése, megszüntetése és megelőzése érdekében azzal, hogy az ellenőrzés lefolytatásának részletes szabályait az SZTFH elnöke rendeletben állapítja meg.
-
-(2) Az SZTFH eljárása során keletkezett adatok – ha törvény eltérően nem rendelkezik – nem nyilvánosak.
-
-(3) Az SZTFH a befektetési arannyal folytatott kereskedelmi tevékenységre vonatkozó szabályokat megsértő személlyel szemben a Kormány rendeletében meghatározott mértékű közigazgatási bírságot szabhat ki. Befektetési arannyal folytatott engedély nélküli kereskedelmi tevékenység végzése esetén figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.
-
-(4) Az SZTFH elkobozza azt a dolgot, amelyet befektetési arannyal folytatott engedély nélküli kereskedelmi tevékenység eszközéül használtak.
-
-(5) Az SZTFH elrendelheti a dolog zár alá vételét, amennyiben a rendelkezésére álló adatok alapján megalapozottan feltehető, hogy az a (4) bekezdés értelmében elkobozható. Az SZTFH az elkobzást akkor is elrendelheti, ha a dolog nem a jogsértő tulajdona.
-
-(6) A SZTFH az engedélyes engedélyét visszavonja, ha annak működése törvényt sért, az engedélyben foglaltakat megsérti, vagy az engedélyezés feltételeinek már nem felel meg.
-
-9/C. § (1) Az SZTFH az engedélyesekről nyilvántartást vezet az SZTFH elnökének rendeletében foglalt részletes szabályok szerint, amely a következőket tartalmazza:
-
-- a) az engedélyes
-  - aa) neve, székhelye, adószáma,
-  - ab) elérhetősége,
-  - ac) képviseletét ellátó személy neve,
-- b) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatok.
-
-(2) Az engedélyes az (1) bekezdés szerinti adatokban bekövetkező változást annak bekövetkezésétől számított 15 napon belül bejelenti az SZTFH részére.
-
-(3) Ha az engedélyes befektetési arannyal történő kereskedelmi tevékenységet már nem végez, akkor az (1) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
-
-(4) Ha az (1) bekezdés szerinti adatok változását az engedélyes bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot az SZTFH az adat változása bejegyzését követő öt év elteltével a nyilvántartásból törli.
-
-(5) Az SZTFH a honlapján közzéteszi az (1) bekezdés szerinti nyilvántartás adatai közül az (1) bekezdés a) pont aa) alpontja szerinti adatokat.
-
-(6) Az (1) bekezdés szerinti adatok kezelésének célja az engedélyesekre vonatkozó információk naprakészen tartása, valamint az SZTFH felügyeleti jogkörének és hatósági ellenőrzési feladatainak ellátása.”
-
-41. § A kereskedelemről szóló 2005. évi CLXIV. törvény a következő 11/I. §-sal egészül ki:
-
-„11/I. § (1) A Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel megállapított 9/A. § hatálybalépésekor befektetési arannyal folytatott kereskedelmi tevékenységet végző személy ezen tevékenységét az SZTFH engedélye nélkül 2026. március 31-ig végezheti.
-
-(2) Ha a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel megállapított 9/A. § hatálybalépésekor befektetési arannyal folytatott kereskedelmi tevékenységet végző személy 2026. március 31-ig nem szerzi meg az SZTFH engedélyét, akkor egy engedéllyel rendelkező személy részére 2026. december 31-ig értékesíti a szerződés állományát és a készletén lévő befektetési aranyat.”
-
-42. § (1) A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„k) a befektetési arannyal folytatott kereskedelmi tevékenységre vonatkozó szabályok megsértése esetén kiszabható bírság megállapításának, mértékének és megfizetése módjának részletes szabályait”
-
-(rendeletben állapítsa meg.)
-
-(2) A kereskedelemről szóló 2005. évi CLXIV. törvény 12. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Felhatalmazást kap az SZTFH elnöke arra, hogy rendeletben állapítsa meg
-
-- a) a befektetési arannyal folytatott kereskedelmi tevékenység engedélyezésével, ellenőrzésével kapcsolatos részletes szabályokat, valamint a tevékenység végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit,
-- b) a 9/C. § (1) bekezdése szerinti nyilvántartás – személyes adatot nem tartalmazó – adattartalmával és a nyilvántartás vezetésével kapcsolatos részletes szabályokat,
-- c) az engedélyes adatszolgáltatására vonatkozó részletes szabályokat.”
+#### 42. §
 
 #### 9. A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény módosítása
 
@@ -360,35 +298,15 @@ Magyarország 2026. évi központi költségvetésének megalapozásáról
 
 #### 27. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
-103. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 1. § (1) bekezdése a következő k) ponttal egészül ki:
+#### 103. §
 
-[A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)]
+#### 104. §
 
-„k) a kereskedelemről szóló 2005. évi CXLIV. törvény (a továbbiakban: Kertv.) szerinti befektetési arannyal folytatott tevékenységet – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – végző személyek és szervezetek engedélyezésével és ellenőrzésével
-
-[kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.]”
-
-104. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 3. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) A Hatóság látja el a befektetési arannyal folytatott kereskedelmi tevékenység – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – engedélyezésével és ellenőrzésével kapcsolatos, a Hatóság feladat- és hatáskörébe tartozó feladatokat.”
-
-105. § (1)
-
-(2) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13/A. §-a a következő 5. ponttal egészül ki:
-
-(A Hatóság elnöke)
-
-„5. megállapítja a befektetési arannyal folytatott kereskedelmi tevékenység engedélyezésével, ellenőrzésével kapcsolatos részletes szabályokat, valamint a tevékenység végzésének személyi, tárgyi, technikai, informatikai, biztonsági és gazdasági feltételeit, a Kertv. 9/C. § (1) bekezdése szerinti nyilvántartás személyes adatot nem tartalmazó adattartalmával és a nyilvántartás vezetésével kapcsolatos részletes szabályokat, valamint az engedélyes adatszolgáltatására vonatkozó részletes szabályokat.”
+#### 105. §
 
 #### 106. §
 
-107. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény
-
-- 1. 5. § (1) bekezdésében a „(3), (8) és (11) bekezdésében” szövegrész helyébe a „(3), (8), (11) és (12) bekezdésében” szöveg,
-- 2. 17. § (1) bekezdésében a „3. § (1) és (11) bekezdésében” szövegrész helyébe a „3. § (1), (11) és (12) bekezdésében” szöveg,
-- 3. 17. § (2) bekezdésében a „3. § (1) és (11) bekezdésében” szövegrész helyébe a „3. § (1), (11) és (12) bekezdésében” szöveg
-
-lép.
+#### 107. §
 
 #### 28. Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény módosítása
 

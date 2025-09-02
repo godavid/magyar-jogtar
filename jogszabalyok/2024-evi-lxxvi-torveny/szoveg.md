@@ -216,13 +216,7 @@ egyes felsőoktatási, családügyi és kulturális tárgyú törvények módos�
 
 #### 95. §
 
-96. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 64. § (2a) bekezdése a következő c) és d) ponttal egészül ki:
-
-(A miniszter)
-
-„c) engedélyezi felsőoktatási intézményekben továbbá az általuk fenntartott köznevelési, szakképző és felnőttképzési intézményekben alkalmazható zárt rendszerű távoktatási képzésmenedzsment-rendszereket és meghatározza minősítésük és tanúsításuk feltételeit,
-
-d) felkéri a Felsőoktatási Digitalizációs Szakértői Testület elnökét és négy tagját.”
+#### 96. §
 
 #### 97. §
 

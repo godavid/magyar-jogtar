@@ -146,23 +146,13 @@ a belügyi ágazatokat érintő törvények módosításáról
 
 #### 59. §
 
-60. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 21. §-a a következő (9a) bekezdéssel egészül ki:
-
-„(9a) A (9) bekezdéstől eltérően a digitális bizonyítványokra vonatkozó iratállományt nem kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a hivatal az arra jogosult kérelmére a tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványt továbbítja a kérelmező részére.”
+#### 60. §
 
 #### 61. §
 
 #### 62. §
 
-63. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 57. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az óvodai és iskolai nyomtatványok – az állami vizsga teljesítéséről kiállított bizonyítvány kivételével – a tanulmányi rendszer alkalmazásával, a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával elektronikus úton készülnek el. Az állami vizsga teljesítéséről szóló bizonyítvány kiállításának alapjául szolgáló nyomtatványt ebben az esetben is elő kell állítani nyomtatott formában és meg kell őrizni. A 7. § (1) bekezdés a)–j) pontjában meghatározott köznevelési intézmények rendeltetésszerű működésük során a köznevelésért felelős miniszter által jóváhagyott, az állam által díjmentesen biztosított tanulmányi rendszert kötelesek használni.”
-
-(2) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 57. §-a a következő (6a) és (6b) bekezdéssel egészül ki:
-
-„(6a) Az iskolai bizonyítvány az iskola igazgatójának elektronikus aláírásával ellátott digitális biztonsági okmány formájában kerül kiállításra. A digitális biztonsági formában kiállított bizonyítvány közokiratnak minősül. A digitális bizonyítványt a tanulmányi rendszerben – miniszteri rendeletben meghatározott ideig – kell megőrizni azzal, hogy a hosszú távú megőrzéséről is gondoskodni kell.
-
-(6b) A tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványról kizárólag az arra jogosult tanuló vagy a tanuló szülőjének – a tanulmányi rendszeren keresztül is előterjeszthető – kérelemére hiteles papír alapú másolatot (a továbbiakban: díszpéldány) kell kiállítani. A díszpéldányon fel kell tüntetni a tanulmányi rendszer által generált és nyilvántartott egyedi azonosítót és azt, hogy a papír alapú hiteles másolat a digitális bizonyítvány hiteles másolata. A papír alapú hiteles másolatot eredeti aláírásával hitelesítenie kell a kiállítónak és az intézmény igazgatójának, továbbá a díszpéldányt az intézmény hivatalos körbélyegzőjével el kell látni. A díszpéldány első példánya ingyenes, a második példányért kormányrendeletben meghatározott térítési díjat kell fizetni.”
+#### 63. §
 
 #### 64. §
 
@@ -172,27 +162,9 @@ a belügyi ágazatokat érintő törvények módosításáról
 
 #### 67. §
 
-68. § (1)
+#### 68. §
 
-(2) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„g) az egyes eltérő évfolyamszámú köznevelési intézmények közötti átjárhatóság biztosításához szükséges részletszabályokat,”
-
-(rendeletben állapítsa meg.)
-
-69. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 54. alcíme a következő 99/M. §-sal egészül ki:
-
-„99/M. § (1) E törvénynek a belügyi ágazatokat érintő törvények módosításáról szóló 2024. évi LXXVII. törvénnyel megállapított 57. § (6)–(6b) bekezdésében foglaltakat első alkalommal a 2025/2026. tanévben
-
-- a) az iskolák – az előkészítő évfolyammal szervezett nevelés-oktatást végző iskolák kivételével – első évfolyamán, az előkészítő évfolyammal szervezett nevelést-oktatást végző iskolák kezdő évfolyamán,
-- b) a gimnázium – a hat és nyolc évfolyamos gimnáziumok kivételével – kilencedik évfolyamán,
-- c) hat évfolyamos gimnázium esetében a hetedik évfolyamán, a nyolcévfolyamos gimnázium esetében az ötödik évfolyamán,
-
-majd ezt követően minden tanévben felmenő rendszerben kell alkalmazni.
-
-(2) Az iskoláknak az (1) bekezdésben fel nem sorolt évfolyamain a bizonyítványok kiállítására az 57. § 2025. augusztus 31. napján hatályos szabályait kell alkalmazni.”
+#### 69. §
 
 #### 70. §
 
@@ -254,17 +226,7 @@ majd ezt követően minden tanévben felmenő rendszerben kell alkalmazni.
 
 #### 94. §
 
-95. § A pedagógusok új életpályájáról szóló 2023. évi LII. törvény 80. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Köznevelési intézményben foglalkoztatott – az alábbi feladatok ellátásával megbízott – pedagógus számára a neveléssel-oktatással lekötött munkaidő terhére kell elrendelni)
-
-„e) az a)–d) pontban foglaltakon felül heti egy, több tevékenység ellátása esetén összesen legfeljebb heti kettő óra időtartamban
-
-ea) a gyakornok mentorálását,
-
-eb) nem gyakorló köznevelési intézményben a pedagógusjelöltek mentorálását, illetve
-
-ec) a teljesítményértékelési fejlesztési eszközként meghatározott pedagógusmentorálást.”
+#### 95. §
 
 #### 96. §
 

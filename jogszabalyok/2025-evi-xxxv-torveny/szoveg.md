@@ -238,77 +238,25 @@ a belügyi feladatellátás hatékonyságát támogató és a kapcsolati erősza
 
 #### 34. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-67. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 63. §-a a következő (8) és (9) bekezdéssel egészül ki:
+#### 67. §
 
-„(8) A hivatásos állomány polgári nemzetbiztonsági szolgálathoz vezényelt tagja vonatkozásában a (4a) bekezdés szerinti egy év leteltét követően vagy a (4c) bekezdés szerinti felmentés esetében a vezénylés kezdetétől
+#### 68. §
 
-- a) a (3) bekezdés b) pontjától eltérően a keresőképtelenség idejére járó díjazás tekintetében is kiköthető a polgári nemzetbiztonsági szolgálatnál ellátott szolgálati beosztás szerinti foglalkoztatottra vonatkozó szabályok alkalmazása,
-- b) a (3) bekezdés d) pontjában foglalt hivatásos pótlékra a szolgálati beosztásba vezényelt nem jogosult.
-
-(9) A hivatásos állomány polgári nemzetbiztonsági szolgálathoz vezényelt tagja vonatkozásában az (5) bekezdésben foglaltaktól eltérően a ruházati ellátmányt erre irányuló megállapodás esetén a rendvédelmi szerv helyett a polgári nemzetbiztonsági szolgálat is biztosíthatja a saját költségvetési forrása terhére.”
-
-68. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 82/G. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az (1) és (2) bekezdés szerinti számításoknál a baleseti ellátás, a rehabilitációs ellátás és a rokkantsági ellátás összegét az egészségkárosodási ellátást terhelő adó és járulékok százalékának megfelelően növelt összeggel kell figyelembe venni.”
-
-69. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 82/H. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Ha az egészségkárosodási ellátás megállapítását követően a 82/G. § (1) vagy (2) bekezdése szerinti szolgálati beosztásra irányadó hivatásos pótlék mértékének emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell. Ebben az esetben a 82/G. § (1) és (2) bekezdése szerinti távolléti díjat az új hivatásos pótlék mértékével kell megállapítani – azzal, hogy a távolléti díjba beszámítandó további illetményelemek változatlan összeggel kerülnek figyelembevételre – és a 82/G. § szerinti számításokat ismételten el kell végezni.”
+#### 69. §
 
 #### 70. §
 
-71. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 198. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés szerinti felfüggesztést a hivatásos állomány tagjának egészségügyi szabadsága önmagában nem alapozza meg, minden esetben vizsgálandó, hogy a hivatásos állomány tagjának egészségügyi állapota ténylegesen akadályozza-e őt a védekezésének előterjesztésében és eljárási jogai gyakorlásában.”
+#### 71. §
 
 #### 72. §
 
-73. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 330. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az Országgyűlési Őrség állománya vonatkozásában
-
-- a) a 82/A. § (1) bekezdésétől eltérően a hivatásos állomány tagja vagy volt tagja a korábban elért jövedelem pótlása érdekében egészségkárosodási ellátásként kizárólag rendvédelmi egészségkárosodási járadékra lehet jogosult,
-- b) a 82/A. § (1) bekezdés a) pontjában foglaltaktól eltérően egészségkárosodási ellátásra a hivatásos állomány tagja vagy volt tagja akkor lehet jogosult, ha hivatásos szolgálatra alkalmatlanná vált, míg a hivatásos állománynak a szolgálati beosztásának ellátására alkalmatlanná vált tagja esetében a 86. § (2) bekezdés a) pont ab) alpont alkalmazásának van helye,
-- c) a 82/A. § (1) bekezdés e) pontjától eltérően a továbbfoglalkoztatási kötelezettség alóli mentesítésre kötelezően, az f) pontban foglaltak alapján kerül sor,
-- d) a 82/A. § (3) bekezdésében foglaltaktól eltérően a szolgálati kötelmekkel összefüggő balesetre vagy betegségre vissza nem vezethető egészségi alkalmatlanság esetén, – ha az egészségkárosodási ellátás megállapításának feltételei fennállnak – rendvédelmi egészségkárosodási járadékra az jogosult, aki legalább tíz év tényleges szolgálati idővel rendelkezik, és akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50%-os mértékű vagy annál kevesebb,
-- e) a 82/A. § (6) bekezdésétől eltérően a hivatásos állomány tagja a hivatásos szolgálatra alkalmatlanná válásáról szóló határozat kézhezvételétől számított harminc napon belül kérheti a rendvédelmi egészségkárosodási járadékra való jogosultság megállapítása helyett a szolgálati viszonyának felmentéssel történő megszüntetését,
-- f) a 82/B. § (1)–(6) bekezdése és a 82/C. § (1)–(5b) bekezdése nem alkalmazható, az Országgyűlési Őrség hivatásos állományának tagja vagy volt tagja a továbbfoglalkoztatási kötelezettség alól mentesül, ezért részére az Országgyűlési Őrség parancsnoka – ha az egészségkárosodási ellátás megállapításának feltételei fennállnak – a hivatásos szolgálatra alkalmatlanná válásról szóló végrehajtható határozat kézhezvételétől számított negyvenöt napon belül hivatalból intézkedik a rendvédelmi egészségkárosodási járadék megállapítására,
-- g) a 82/D. § (1) bekezdésében foglaltaktól eltérően a közrehatás vizsgálatára a Becsületbíróságot az Országgyűlési Őrség parancsnoka a hivatásos szolgálatra alkalmatlanná válásról szóló végrehajtható határozat kézhezvételétől számított tíz munkanapon belül hívja össze,
-- h) a 82/D. § (2)–(3a) bekezdése nem alkalmazható,
-- i) a 82/D. § (4) bekezdésétől eltérően
-  - ia) a más rendvédelmi szervhez vezényelt országgyűlési őr tekintetében a 82/B. § (1) bekezdése szerinti eljárás lefolytatására nem kerül sor, az egészségkárosodási ellátásra jogosultság megállapítása iránti eljárást az Országgyűlési Őrség folytatja le az e §-ban meghatározott eltérések alkalmazásával,
-  - ib) a más rendvédelmi szervtől az Országgyűlési Őrséghez vezényelt esetében a 82/B. § (1) bekezdése szerinti eljárást és az egészségkárosodási ellátásra jogosultság megállapítása iránti eljárást az eredeti rendvédelmi szerv folytatja le az eredeti rendvédelmi szerv hivatásos állományára irányadó szabályok szerint,
-- j) a 82/F. §-a nem alkalmazható,
-- k) a 82/G. § (4) bekezdése és a 82/H. § (1)–(3) és (6) bekezdése nem alkalmazható,
-- l) a 82/J. § (1) bekezdés d) pontja nem alkalmazható,
-- m) a 82/J. § (1) bekezdés e) pontjából eltérően megszűnik a rendvédelmi egészségkárosodási járadékra való jogosultság, ha az egészségjavulás eredményeként a jogosult egészségi állapota lehetővé teszi a szolgálati viszony ismételt létesítését,
-- n) a 82/J. § (1) bekezdés f) pontjától eltérően a 82/A. § (3) bekezdése szerinti esetben az 50%-ot meghaladó mértékű egészségi állapot esetében szűnik meg az egészségkárosodási ellátásra való jogosultság,
-- o) a 82/J. § (2), (4) és (5) bekezdése nem alkalmazható.”
+#### 73. §
 
 #### 74. §
 
-75. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény XXXII. Fejezete a következő 376. és 377. §-sal egészül ki:
+#### 75. §
 
-„376. § A 2025. augusztus 31-én egészségkárosodási ellátásra jogosultak tekintetében a 82/H. § (5a) bekezdését úgy kell alkalmazni, hogy
-
-- a) 2025. szeptember 1-jétől 2025. december 31-ig az egészségi alkalmatlanság megállapítását közvetlenül megelőző naptári hónapra megillető hivatásos pótléknak a rendvédelmi illetményalap 100%-ával növelt összegét – de legfeljebb a 82/G. § (1) vagy (2) bekezdése szerinti szolgálati beosztásra irányadó hivatásos pótlék 2025. szeptember 1-jei mértékét – kell figyelembe venni,
-- b) 2026. január 1-jétől 2026. december 31-ig az egészségi alkalmatlanság megállapítását közvetlenül megelőző naptári hónapra megillető hivatásos pótléknak a rendvédelmi illetményalap 200%-ával növelt összegét – de legfeljebb a 82/G. § (1) vagy (2) bekezdése szerinti szolgálati beosztásra irányadó hivatásos pótlék 2026. január 1-jei mértékét – kell figyelembe venni,
-
-– azzal, hogy a távolléti díjba beszámítandó további illetményelemek változatlan összeggel kerülnek figyelembevételre – és ezen összeggel kell a 82/G. § szerinti számításokat ismételten elvégezni, majd 2027. január 1-jétől a 82/ H. § (5a) bekezdésének alkalmazásával kell az egészségkárosodási ellátás összegét ismételten megállapítani.
-
-377. § (1) Az Országgyűlési Őrség hivatásos állományának 2025. augusztus 31-én rendvédelmi egészségkárosodási keresetkiegészítésre jogosult tagjának vagy volt tagjának jogosultságát a belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvénnyel megállapított 330. § (3) bekezdésének hatálybalépése nem szünteti meg, a 2025. szeptember 1-jét megelőzően megállapított rendvédelmi egészségkárosodási keresetkiegészítésre jogosultak tekintetében a 330. § (3) bekezdése alkalmazásának nincs helye, az egészségkárosodási keresetkiegészítésre az 50/A. alcímben foglaltakat kell továbbra is alkalmazni.
-
-(2) A 330. § (3) bekezdését a rendvédelmi egészségkárosodási ellátás megállapítására irányuló, 2025. szeptember 1-jén folyamatban lévő eljárásokban is alkalmazni kell.”
-
-76. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
-
-- a) 62. § (1) bekezdésében a „munkakör” szövegrész helyébe a „munkakör, szolgálati beosztás” szöveg,
-- b) 63. § (2) bekezdésében a „munkakör” szövegrész helyébe a „munkakör, szolgálati beosztás” szöveg,
-- c) 63. § (3) bekezdés a) pontjában a „munkakör szerinti” szövegrész helyébe a „munkakör vagy szolgálati beosztás szerinti” szöveg,
-- d) 64/A. §-ában a „munkakör” szövegrész helyébe a „munkakör, szolgálati beosztás” szöveg,
-- e) 329. § (2) bekezdésében a „valamint” szövegrész helyébe az „a 175. § (4) bekezdése, valamint” szöveg
-
-lép.
+#### 76. §
 
 #### 35. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény módosítása
 

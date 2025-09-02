@@ -46,7 +46,7 @@
 
 (2) A 11. § 2025. szeptember 1-jén lép hatályba.
 
-11. § Hatályát veszti az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény 1. melléklet 1. pontjában foglalt táblázat 118. sora.
+#### 11. §
 
 ### 1. melléklet a 2025. évi LXIII. törvényhez
 

@@ -102,9 +102,7 @@ Magyarország versenyképességének javítása érdekében egyes törvények m�
 
 #### 24. §
 
-25. § (1) Az Eüak. 38. §-a a következő (3c) bekezdéssel egészül ki:
-
-„(3c) Felhatalmazást kap a Kormány, hogy az EESZT csatlakozáshoz használt informatikai rendszerek műszaki bevizsgálására és engedélyezésére vonatkozó részletes szabályokat rendeletben határozza meg.”
+25. § (1)
 
 (2)
 
@@ -126,9 +124,7 @@ lép.
 
 #### 28. §
 
-29. § Az Eütv. 219. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A kórbonctani vizsgálat mellőzéséről és a boncolás nélküli hamvasztás engedélyezéséről fekvőbeteg-gyógyintézetben elhunyt személy esetében a fekvőbeteg-gyógyintézet (egyetemi klinika) orvos igazgatója, egyéb esetekben a halottvizsgálatot végző orvos írásban dönt.”
+#### 29. §
 
 #### 30. §
 
@@ -154,10 +150,7 @@ lép.
 
 #### 13. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-40. § Hatályát veszti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény
-
-- a) 24. § (3) bekezdés c) pontjában a „motorszámára,” szövegrész,
-- b) 24. § (3a) bekezdés c) pont cc) alpontjában a „motorszámára,” szövegrész.
+#### 40. §
 
 #### 14. Az egészségügyi közvetítői eljárásról szóló 2000. évi CXVI. törvény módosítása
 
@@ -323,7 +316,7 @@ lép.
 
 #### 102. §
 
-103. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 378. § (2) bekezdésében a „két” szövegrész helyébe a „bűntett miatt három” szöveg lép.
+#### 103. §
 
 #### 29. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 

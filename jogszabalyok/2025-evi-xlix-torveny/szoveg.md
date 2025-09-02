@@ -70,37 +70,19 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 3. A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény módosítása
 
-11. § A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) 20. § (1) bekezdése a következő g) ponttal egészül ki:
+#### 11. §
 
-(A Fővárosi Törvényszék)
+#### 12. §
 
-„g) a miniszter útján kiegészítő információkat kérhet, ha megítélése szerint a megkereső állam igazságügyi hatósága által közölt tények és adatok nem elégségesek a kiadatás tárgyában történő határozathozatalhoz, amelynek megküldésére az e törvényben meghatározott határidők figyelembevételével észszerű határidőt szabhat;”
+#### 13. §
 
-12. § (1) Az Nbjt. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 14. §
 
-„(2) A kiadni kért személy (1) bekezdésben meghatározott hozzájárulása, az (5) bekezdésben meghatározott kivétellel nem vonható vissza.”
-
-(2) Az Nbjt. 23. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) Ha a miniszter az egyszerűsített kiadatási eljárásban a kiadatáshoz hozzájárult, de a kiadni kért személy átadására a 25. § (1) bekezdésében meghatározott határidő alatt nem került sor, azonban a megkereső állam a kiadatási kérelmet megfelelő időben előterjesztette, a miniszter a hozzájáruló nyilatkozatát visszavonja, és az ügyiratokat a kiadatási kérelemmel együtt a bíróság részére küldi vissza. Az ügyiratok visszaérkezését követően a bíróság a (3) bekezdés szerinti végzését hatályon kívül helyezi és az eljárást a kiadatási kérelem alapján a 20–22. §-ban foglaltak szerint folytatja le.
-
-(5) Ha a (4) bekezdés alapján a kiadatás kérdésében tartott tárgyaláson a kiadni kért személy az egyszerűsített kiadatási eljárásban tett hozzájárulását fenntartja, a kiadatási letartóztatás legfeljebb három hónapig tarthat, amelyet a Fővárosi Törvényszék egy alkalommal legfeljebb három hónappal meghosszabbíthat.”
-
-13. § Az Nbjt. 24. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A megkereső állam által a Nemzetközi Bűnügyi Rendőrség Szervezete (Interpol) útján kiadatás céljából előterjesztett nemzetközi elfogatóparancsot ideiglenes kiadatási letartóztatás iránti kérelemnek kell tekinteni.”
-
-14. § Az Nbjt. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ideiglenes kiadatási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül a kiadatás iránti megkeresés nem érkezik meg. Ha a kiadatás iránti megkeresést utóbb előterjesztik, az ideiglenes kiadatási letartóztatás megszüntetése nem zárja ki a 24. § (1) bekezdés szerinti ideiglenes kiadatási letartóztatás ismételt elrendelését.”
-
-15. § Az Nbjt. 82. § (1) bekezdésében a „jogosultnak” szövegrész helyébe a „jogosult igazságügyi hatóságnak” szöveg lép.
+#### 15. §
 
 #### 4. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-16. § Az egészségügyről szóló 1997. évi CLIV. törvény 218. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a halál oka és körülményei vizsgálatánál bűncselekmény gyanúja merül fel, a büntetőeljárás szabályai szerint – kormányrendeletben meghatározott kivétellel – igazságügyi orvosi boncolást kell elrendelni.”
+#### 16. §
 
 #### 5.
 
@@ -164,13 +146,9 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 6. A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény módosítása
 
-46. § A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény (a továbbiakban: 2002. évi LIV. törvény) 16/D. §-a a következő (3) bekezdéssel egészül ki:
+#### 46. §
 
-„(3) A magyar bűnüldöző szerv által továbbított információ bizonyítékként történő felhasználásához a bűnüldöző szerv járulhat hozzá. A bizonyítási eszközként történő felhasználást ki kell zárni, ha az információ magyar büntetőeljárásban bizonyítékként nem használható fel vagy az a magyar büntetőeljárás eredményes lefolytatását veszélyeztetné.”
-
-47. § A 2002. évi LIV. törvény a következő 16/I. §-sal egészül ki:
-
-„16/I. § A 16/A–16/E. § vonatkozásában bűnüldöző szerv alatt a nyomozást folytató ügyészséget is érteni kell.”
+#### 47. §
 
 #### 7. Az igazságügyi szakértő nemperes eljárásban történő kirendeléséről és ezzel összefüggésben a Polgári Perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2005. évi XLVIII. törvény módosítása
 
@@ -182,25 +160,13 @@ igazságügyi tárgyú törvények módosításáról
 
 #### 8. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény módosítása
 
-51. § A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (a továbbiakban: Ást.) 4. §-a a következő (7a) bekezdéssel egészül ki:
+#### 51. §
 
-„(7a) Az áldozat eltulajdonított személyazonosító igazolványa helyett az új személyazonosító igazolvány kiállításáért, illetve annak belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat nem kell fizetni, ha az áldozat bemutatja a személyazonosító igazolvány kiállítása ügyében eljáró hatóságnak az áldozati státusz igazolását.”
+#### 52. §
 
-52. § Az Ást. 20. §-a a következő (4) bekezdéssel egészül ki:
+#### 53. §
 
-„(4) Az e törvény szerint a tizennyolcadik életévét be nem töltött személy részére nyújtható támogatások esetében nem járhat el a jogosult törvényes képviselője a hozzájáruláshoz kötött cselekményeknél, amennyiben a törvényes képviselőt a bűncselekménnyel érintett büntetőeljárásból kizárták. A kizárással nem érintett törvényes képviselő a hozzájáruláshoz kötött cselekményeknél továbbra is eljárhat. Amennyiben kizárással nem érintett törvényes képviselő nincs, a hozzájáruláshoz kötött cselekményeknél a kiskorú érdekeinek képviseletére kijelölt személy járhat el.”
-
-53. § Az Ást. 43/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A büntetőeljárásról szóló törvény szerinti zárt adatkezelés esetén az általános nyomozó hatóság az érintett zártan kezelt adatait a (4) bekezdésben foglaltaktól eltérően papíralapon továbbítja az áldozatsegítő szolgálat részére, ha a zártan kezelt adatok információátadási szolgáltatás útján történő továbbításának technikai feltételei nem biztosítottak.”
-
-54. § Az Ást.
-
-- a) 4. § (3) bekezdésében az „egyezik meg” szövegrész helyébe az „egyezik meg, legalacsonyabb megállapítható összege – függetlenül az áldozat által megjelölt kiadásoktól és a bűncselekménnyel vagy a tulajdon elleni szabálysértéssel okozott kár összegétől – az alapösszeg 10 százaléka” szöveg,
-- b) 11. § (1) bekezdésében az „a támogatás igénybevételéhez igazolást állít ki” szövegrész helyébe az „a támogatás igénybevételéhez, valamint az eltulajdonított személyazonosító igazolvány díjmentes kiállítása érdekében igazolást állít ki” szöveg,
-- c) 43/A. § (1) bekezdésében a „kihallgatásakor” szövegrész helyébe a „kihallgatásakor, vagy a sértett halála esetén a Be. alapján a sértett helyébe lépett jogutódot az 1. § (1) bekezdés szerint saját jogán az eljárásban történő első fellépésekor” szöveg
-
-lép.
+#### 54. §
 
 #### 9. Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása
 
@@ -302,225 +268,45 @@ lép.
 
 #### 15. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-87. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 72. §-a a következő (3a) bekezdéssel egészül ki:
+#### 87. §
 
-„(3a) Ha az (1) bekezdésben meghatározott esetben a dolog tulajdonosa meghalt, továbbá ha a gazdálkodó szervezet jogutódlással vagy jogutód nélkül megszűnt, akkor az elkobzás a jogutóddal szemben vagy a megszűnt gazdálkodó szervezettel szemben rendelhető el a vagyont érintő kényszerintézkedéssel biztosított vagyonra, feltéve hogy azt a (3) bekezdés nem zárja ki.”
+#### 88. §
 
-88. § A Btk. 74. §-a a következő (4) bekezdéssel egészül ki:
+#### 89. §
 
-„(4) A vagyonelkobzás a gazdálkodó szervezettel szemben akkor is elrendelhető a gazdálkodó szervezet vagyont érintő kényszerintézkedéssel biztosított vagyonára, ha a gazdálkodó szervezet a vagyont érintő kényszerintézkedés elrendelését követően jogutód nélkül megszűnt.”
-
-89. § A Btk. a 77. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az elektronikus adat végleges hozzáférhetetlenné tétele kiterjed minden olyan adatra, amely azonos a véglegesen hozzáférhetetlenné tett elektronikus adattal.”
-
-90. § A Btk. 205. §-a helyébe a következő rendelkezés lép:
-
-„205. § (1) Aki magát nemi vágyának felkeltése vagy kielégítése céljából más előtt szeméremsértő módon mutogatja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Az a tizennyolcadik életévét betöltött személy, aki nemi vágyának felkeltése vagy kielégítése céljából tizennegyedik életévét be nem töltött személy előtt szeméremsértő magatartást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt öt évig terjedő szabadságvesztéssel büntetendő.
-
-(3) Ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő, aki mással szemben olyan szeméremsértő magatartást tanúsít, amely a sértett emberi méltóságát sérti.”
+#### 90. §
 
 #### 91. §
 
 #### 92. §
 
-93. § (1) A Btk. 293. §-a a következő (2a) bekezdéssel egészül ki:
+#### 93. §
 
-„(2a) A büntetés
+#### 94. §
 
-- a) az (1) bekezdés esetében egy évtől öt évig,
-- b) a (2) bekezdés esetében két évtől nyolc évig terjedő szabadságvesztés, ha a vesztegetést bűnszövetségben vagy üzletszerűen követik el.”
+#### 95. §
 
-(2) A Btk. 293. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 96. §
 
-„(3) Az (1)–(2a) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személy működésével kapcsolatban követi el.”
+#### 97. §
 
-94. § A Btk. 327. §-a helyébe a következő rendelkezés lép és a „Nemzetközi gazdasági tilalom megszegése” alcím a következő 327/A–327/D. §-sal egészül ki:
+#### 98. §
 
-„327. § (1) Aki nemzetközi korlátozó intézkedésben elrendelt tilalom megsértésével vagy a tilalom megsértése érdekében
-
-- a) tilalmazott ügyletet köt, gazdasági tevékenységet folytat, pénzügyi, gazdasági vagy egyéb szolgáltatást nyújt, vagy
-- b) a tilalommal érintett személy, gazdálkodó szervezet, külföldi gazdálkodó szervezet vagy ezekre tekintettel más személy, gazdálkodó szervezet, külföldi gazdálkodó szervezet részére pénzügyi, gazdasági vagy egyéb szolgáltatást nyújt, vagyont rendelkezésre bocsát, vagy ilyen személlyel ügyletet köt, gazdasági tevékenységet folytat,
-
-bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Az (1) bekezdés szerint büntetendő, aki az ott meghatározott tevékenységgel összefüggő közvetítő tevékenységet végez, vagy az ott meghatározott tevékenység végzéséhez más módon segítséget nyújt.
-
-(3) Az (1) bekezdés szerint büntetendő, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom megsértésével vagy a tilalom megsértése érdekében a nemzetközi korlátozó intézkedésben elrendelt tilalommal összefüggésben kiadott engedély kereteit túllépi, vagy az engedélyben meghatározott kötelezettségét nem teljesíti.
-
-(4) Az (1) bekezdés szerint büntetendő, aki nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából
-
-- a) a zárolási kötelezettséggel érintett vagyon eredetét, a vagyonon fennálló jogot, a vagyon helyét, ezek változását elfedi vagy elleplezi, ideérve a zárolási kötelezettséggel érintett vagyon tényleges tulajdonosára vonatkozó valótlan vagy megtévesztő adat szolgáltatását is,
-- b) a zárolási kötelezettséggel érintett vagyont mástól átveszi, elrejti, átalakítja, átruházza, elidegenítésében közreműködik, felhasználja, azzal összefüggésben pénzügyi tevékenységet végez, pénzügyi szolgáltatást vesz igénybe vagy arról rendelkezik, vagy
-- c) az a) vagy b) pontban meghatározott tevékenységgel összefüggő közvetítő tevékenységet végez vagy e tevékenység végzéséhez más módon segítséget nyújt.
-
-(5) Az (1)–(4) bekezdés szerinti bűncselekmény egy évtől öt évig terjedő szabadságvesztéssel büntetendő, ha a bűncselekményt
-
-- a) hivatalos vagy közfeladatot ellátó személyként,
-- b) jelentős értékű vagyonra,
-- c) üzletszerűen,
-- d) bűnszövetségben,
-- e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árukra,
-- f) lőfegyver, lőszer, robbanóanyag, robbantószer, ezek felhasználására szolgáló készülék vagy egyéb katonai célú felhasználásra szánt termékre,
-- g) az Európai Unió közös katonai listáján szereplő termékre vagy kettős felhasználású termékre
-
-követik el.
-
-(6) Az (1)–(4) bekezdés szerinti bűncselekmény két évtől nyolc évig terjedő szabadságvesztéssel büntetendő, ha
-
-- a) a hivatalos vagy közfeladatot ellátó személy által elkövetett cselekmény az (5) bekezdés b)–g) pontja szerint is minősül,
-- b) a jelentős értékű vagyonra elkövetett cselekmény az (5) bekezdés c)–g) pontja szerint is minősül,
-- c) a bűncselekményt különösen jelentős értékű vagyonra követik el.
-
-(7) Aki az (1) bekezdésben meghatározott és az (5) bekezdés e), f), illetve g) pontja szerint minősülő bűncselekményt gondatlanságból követi el, vétség miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-327/A. § (1) Aki nemzetközi korlátozó intézkedésben elrendelt, jogszabályban meghatározott vagyon zárolási kötelezettségét megszegi, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt
-
-- a) hivatalos vagy közfeladatot ellátó személyként,
-- b) jelentős értékű vagyonra,
-- c) üzletszerűen,
-- d) bűnszövetségben
-
-követik el.
-
-(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha
-
-- a) a hivatalos vagy közfeladatot ellátó személy által elkövetett cselekmény a (2) bekezdés b), c), illetve d) pontja szerint is minősül,
-- b) a jelentős értékű vagyonra elkövetett cselekmény a (2) bekezdés c) vagy d) pontja szerint is minősül, vagy
-- c) különösen jelentős értékű vagyonra követik el.
-
-327/B. § (1) Aki nemzetközi korlátozó intézkedésben elrendelt tilalom megsértésével vagy a tilalom megsértése érdekében a tilalommal érintett személy részére az országba történő belépéshez, az országból történő kilépéshez vagy az ország területén történő átutazáshoz segítséget nyújt, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdés szerinti bűncselekményt hivatalos vagy közfeladatot ellátó személyként követik el.
-
-327/C. § (1) Az a nemzetközi korlátozó intézkedés alapján zárolási kötelezettséggel érintett vagyon tulajdonosa vagy az azzal rendelkezni jogosult más személy, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából a jogszabályban meghatározott bejelentési vagy adatszolgáltatási kötelezettségét megszegi, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Az a foglalkozásánál fogva bejelentésre kötelezett személy, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából a zárolt vagy zárolási kötelezettséggel érintett vagyonnal kapcsolatban jogszabályban meghatározott bejelentési vagy adatszolgáltatási kötelezettségét megszegi, ha súlyosabb bűncselekmény nem valósul meg, egy évig terjedő szabadságvesztéssel büntetendő.
-
-(3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a (2) bekezdés szerinti bűncselekményt hivatalos vagy közfeladatot ellátó személyként követik el.
-
-327/D. § A 327–327/C. § alkalmazásában:
-
-- a) nemzetközi korlátozó intézkedés: az Európai Unió Működéséről szóló Szerződés 75. cikke vagy 215. cikke alapján elfogadott rendelet, az e rendelet felhatalmazása alapján elfogadott rendelet vagy határozat, az Európai Unióról szóló szerződés 29. cikke alapján elfogadott tanácsi határozat, az ezeket végrehajtó nemzeti jogszabály, valamint az ezekhez hasonló célt szolgáló, Magyarország számára nemzetközi jogi kötelezettséget keletkeztető szabály,
-- b) tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott tényleges tulajdonos,
-- c) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áru: az (EU) 2019/125 európai parlamenti és tanácsi rendelet II. mellékletében meghatározott áru, ha a nemzetközi jogi kötelezettség alapján a kötelezettséget, illetve tilalmat kihirdető jogszabály eltérően nem rendelkezik.”
-
-95. § A Btk. a 330. §-t követően a következő alcímmel egészül ki:
-
-### „Értelmező rendelkezés
-
-330/A. § E Fejezet alkalmazásában kettős felhasználású termék alatt a 2021/821 (EU) európai parlamenti és tanácsi rendelet I. mellékletében meghatározott terméket kell érteni.”
-
-96. § A Btk. 332/A. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdésben meghatározott bűncselekmény csak magánindítványra büntethető.”
-
-97. § (1) A Btk. 465. § (1) bekezdése a következő o) ponttal egészül ki:
-
-(E törvény)
-
-„o) 327–327/D. §-a az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-(2) A Btk. 465. § (2) bekezdés b) pontja a következő 32. alponttal egészül ki:
-
-(E törvény
-
-327. §-a)
-
-„32. a kettős felhasználású termékek kivitelére, az azokkal végzett brókertevékenységre, az azokkal kapcsolatos technikai segítségnyújtásra, valamint azok tranzitjára és transzferjére vonatkozó uniós ellenőrzési rendszer kialakításáról szóló, 2021. május 20-i (EU) 2021/821 európai parlamenti és tanácsi rendelet 25. cikkének,”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-(3) A Btk. 465. § (2) bekezdés c) pont cb) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény
-
-329–330. §-a)
-
-  - „cb) a kettős felhasználású termékek kivitelére, az azokkal végzett brókertevékenységre, az azokkal kapcsolatos technikai segítségnyújtásra, valamint azok tranzitjára és transzferjére vonatkozó uniós ellenőrzési rendszer kialakításáról szóló, 2021. május 20-i (EU) 2021/821 európai parlamenti és tanácsi rendelet 25. cikkének,”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-98. § A Btk.
-
-- a) 37. § (3) bekezdés a) pont ad) alpontjában a „327. § (3) bekezdés” szövegrész helyébe a „327. § (5)–(6) bekezdés, 327/A. § (2)–(3) bekezdés, 327/B. § (2) bekezdés, 327/C. § (3) bekezdés” szöveg,
-- b) 328. § (1) bekezdésében a „nemzetközi” szövegrész helyébe az „a 327–327/B. §-ban meghatározott nemzetközi” szöveg
-
-lép.
-
-99. § Hatályát veszti a Btk.
-
-- a) 330. § (4) bekezdés b) pontja és
-- b) 465. § (2) bekezdés b) pont 1–16. és 18–31. alpontja.
+#### 99. §
 
 #### 16. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény módosítása
 
-100. § Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: EUtv.) 18. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 100. §
 
-„(4) A Fővárosi Törvényszék a (3) bekezdésben meghatározott határidőt legfeljebb tíz nappal meghosszabbíthatja
+#### 101. §
 
-- a) a tagállami igazságügyi hatóság kérelmére, ha a garancia előterjesztése érdekében szükséges,
-- b) a 16. § (2) és (3) bekezdésének megfelelő alkalmazásával, ha kivételes esetben az átadási letartóztatásról és egyszerűsített átadásról szóló határozat határidőn belül nem hozható meg.”
+#### 102. §
 
-101. § Az EUtv. 16. alcíme a következő 29/A. §-sal egészül ki:
+#### 103. §
 
-„29/A. § (1) Ha a magyar igazságügyi hatóság az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátja ki, az elfogatóparancsban – a 2. melléklet f) pontja szerint megjelölve – kérheti, hogy a tagállami igazságügyi hatóság az írásban történt közös megállapodásban meghatározott feltételek szerint rendelje el a terhelt ideiglenes átszállítását.
+#### 104. §
 
-(2) Ha az európai elfogatóparancs kibocsátását követően a terhelt ideiglenes átszállítása válik indokolttá, a magyar igazságügyi hatóság közvetlenül a tagállami végrehajtó igazságügyi hatóságtól kérheti – az írásban kötött közös megállapodásban meghatározott feltételek szerint – a terhelt ideiglenes átszállítását.
-
-(3) Ha a terhelt ideiglenes átszállításának indoka az (1) bekezdésben foglalt büntetőeljáráson kívüli másik büntetőeljárásban merül fel, az ebben a büntetőeljárásban eljáró magyar igazságügyi hatóság a terhelttel szemben újabb európai elfogatóparancsot bocsát ki. Az európai elfogatóparancs kibocsátására az (1) bekezdésben foglaltakat kell alkalmazni.
-
-(4) Az e §-ban foglalt megállapodásokra a 23. § (3) bekezdését értelemszerűen alkalmazni kell.”
-
-102. § (1) Az EUtv. 71. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az ügyészség az (1) bekezdés szerinti közvetlen tájékoztatás adását, illetve kérését a NEBEK útján is megküldheti, illetve fogadhatja.”
-
-(2) Az EUtv. 71. §-a a következő (3)–(7) bekezdéssel egészül ki:
-
-„(3) A közvetlen tájékoztatás iránti megkeresés nem teljesíthető, ha
-
-- a) a teljesítés
-  - aa) Magyarország alapvető nemzetbiztonsági érdekét sérti, vagy
-  - ab) folyamatban lévő nyomozás vagy bűnüldözési, bűnmegelőzési feladatok ellátását, illetve valamely személy biztonságát veszélyezteti, vagy
-- b) a kért információ
-  - ba) jelentősége nem áll arányban a megkeresésben foglalt céllal, illetve a cél szempontjából lényegtelen,
-  - bb) csak külön engedély alapján hozzáférhető, és ezen engedély hiányzik, vagy
-  - bc) csak más tagállam vagy harmadik ország hozzájárulásával adható át, és ezen hozzájárulás hiányzik.
-
-(4) A (3) bekezdés a) pont aa) alpontjában foglalt kérdésben a legfőbb ügyész állásfoglalása irányadó.
-
-(5) A közvetlen tájékoztatás iránti megkeresés teljesítése megtagadható, ha a kérelem olyan bűncselekményre vonatkozik, amely egy évnél rövidebb időtartamú szabadságvesztéssel vagy elzárással büntetendő.
-
-(6) A magyar igazságügyi hatóság a közvetlen tájékoztatás útján átadott információ bizonyítási eszközként történő felhasználását meghatározott feltételhez kötheti vagy azt kizárhatja. A bizonyítási eszközként történő felhasználást ki kell zárni, ha az információ magyar büntetőeljárásban bizonyítékként nem használható fel vagy az magyar büntetőeljárás eredményes lefolytatását veszélyeztetné.
-
-(7) A közvetlen tájékoztatás útján kapott információ az átadó által meghatározott feltételek szerint használható fel, a kapott bizonyíték a büntetőeljárásban bizonyítási eszközként nem használható fel, ha ahhoz az átadó nem járult hozzá.”
-
-103. § Az EUtv. 116. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bíróság a végrehajtás átvételnek megtagadásáról
-
-- a) az ügyiratok alapján dönt, amennyiben annak feltételei fennállnak és
-- b) minden esetben indokolt ügydöntő végzést hoz.”
-
-104. § Az EUtv. 179. §-a a következő 28. ponttal egészül ki:
-
-(Ez a törvény)
-
-„28. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-105. § Hatályát veszti az EUtv.
-
-- a) 71/A–74/C §-a,
-- b) 3. és 4. számú melléklete.
+#### 105. §
 
 #### 17. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
@@ -586,9 +372,7 @@ lép.
 
 #### 133. §
 
-134. § A Bv. tv. 324. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Ha a Btk. 77. § (1a) bekezdése alapján az elektronikus adat végleges hozzáférhetetlenné tétele kiterjed a véglegesen hozzáférhetetlenné tett elektronikus adattal azonos adatra (a továbbiakban: érintett elektronikus adat másolata), és az érintett elektronikus adat másolatára vonatkozóan határozat meghozatala nélkül került sor a hozzáférhetetlenné tételre, akkor büntetés-végrehajtási bíró hivatalból vagy a vagyoni érdekelt indítványára dönt arról, hogy az érintett elektronikus adat másolata az elektronikus adat végleges hozzáférhetetlenné tételéről hozott határozat hatálya alá tartozik-e. A vagyoni érdekelt az indítványát az ügyészségen teheti meg, amelyet az ügyészség továbbít a büntetés-végrehajtási bíróhoz.”
+#### 134. §
 
 #### 135. §
 
@@ -690,179 +474,47 @@ lép.
 
 #### 24. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-174. § A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 43. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
+#### 174. §
 
-„(2a) Az (1) bekezdéstől eltérően az ügyben a büntetőeljárásban részt vett vagy részt vevő személy segítőjeként részt vett védő
+#### 175. §
 
-- a) a nyomozás során és vádemelést követően eljárhat, ha a terhelt a vádemelésig,
-- b) az elsőfokú bírósági eljárásban és az azt követő jogorvoslati eljárás során eljárhat, ha a terhelt az elsőfokú bíróság ügydöntő határozat meghozatal céljából történő visszavonulásáig,
-- c) a másodfokú bírósági eljárás és az azt követő jogorvoslati eljárás során eljárhat, ha a terhelt a másodfokú bíróság ügydöntő határozat meghozatal céljából történő visszavonulásáig,
-- d) a harmadfokú bírósági eljárás és az azt követő jogorvoslati eljárás során eljárhat, ha a terhelt a harmadfokú bíróság ügydöntő határozat meghozatal céljából történő visszavonulásáig,
-- e) a rendkívüli jogorvoslati eljárásban, ha a terhelt a Kúria határozat meghozatal céljából történő visszavonulásáig
+#### 176. §
 
-nem indítványozza a védő kizárását.
-
-(2b) A terhelt a (2a) bekezdésben meghatározott indítványát akkor érvényesítheti, ha valószínűsíti, hogy az annak alapjául szolgáló tényről az indítvány előterjesztését megelőző nyolc napon belül szerzett tudomást, ennek hiányában az indítványt érdemi indokolás nélkül el lehet utasítani.
-
-(2c) A (2a) bekezdés nem alkalmazható a korábban a sértett segítőjeként, valamint a büntetőeljárásban részt vevő más személy 59. § (1) bekezdés a), e) és g) pontja szerinti segítőjeként eljárt védő esetében.”
-
-175. § A Be. 45. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt mind az általa, mind az (1) bekezdésben meghatározott segítő által meghatalmazott védő meghatalmazását bármikor visszavonhatja. Amennyiben a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt az eljárási cselekmény napján vagy az azt megelőző nyolc napon belül, a büntetőeljárás ugyanazon szakaszában ismételten vonja vissza a védő meghatalmazását, a bíróság, az ügyészség vagy a nyomozó hatóság hivatalból haladéktalanul védőt rendel ki.”
-
-176. § A Be. 46. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bíróság, az ügyészség vagy a nyomozó hatóság védő kirendeléséről határoz, ha a büntetőeljárásban védő részvétele kötelező, és a terheltnek vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek nincs meghatalmazott védője. A kirendelés alapján a védőként eljáró ügyvéd kijelölése – a 45. § (4) bekezdésében foglalt kivétellel – az eljáró bíróság, ügyészség vagy nyomozó hatóság székhelye szerint illetékes területi ügyvédi kamara feladata.”
-
-177. § A Be. 48. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) A kirendelés nem veszti hatályát, ha a meghatalmazás (2) bekezdés szerinti benyújtására, vagy a meghatalmazás rendelkezési nyilvántartásba vételének bejelentésére az eljárási cselekmény napján vagy az azt megelőző nyolc napon belül, a büntetőeljárás ugyanazon szakaszában ismételten kerül sor. A bíróság, az ügyészség vagy a nyomozó hatóság a kirendelt védőt indokolt esetben a kirendelés alól felmenti.
-
-(2b) A (2a) bekezdésben meghatározott esetben vezető védőnek a meghatalmazott védőt kell tekinteni azzal, hogy az ügyiratokat – ideértve az idézést és az értesítést is – a kirendelt védőnek is kézbesíteni kell. Perbeszéd tartására a kirendelt védő akkor jogosult, ha a vezető védő nem kíván élni ezzel a jogával.”
+#### 177. §
 
 #### 178. §
 
 #### 179. §
 
-180. § A Be. 174. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+#### 180. §
 
-„(1) Ha a médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy a tanúvallomásával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét vagy az átadott információt felfedné, az ezzel kapcsolatos kérdésben a tanúvallomást megtagadhatja, kivéve, ha a bíróság az információt átadó személy kilétének vagy az átadott információnak a felfedésére kötelezte.
+#### 181. §
 
-(2) A bíróság akkor kötelezheti a médiatartalom-szolgáltatót, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétének vagy az átadott információnak a felfedésére, ha
+#### 182. §
 
-- a) három évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő szándékos bűncselekmény felderítése érdekében az információt átadó személy kilétének vagy az átadott információnak az ismerete nélkülözhetetlen,
-- b) az ettől várható bizonyíték mással nem pótolható, és
-- c) a bűncselekmény felderítéséhez fűződő érdek – különösen a bűncselekmény tárgyi súlyára tekintettel – olyan kiemelkedő, amely az információforrás vagy az átadott információ titokban maradásához fűződő érdeket egyértelműen meghaladja.”
+#### 183. §
 
-181. § A Be. 190. § (2) bekezdése helyébe a következő rendelkezés lép és a § a következő (2a) bekezdéssel egészül ki:
+#### 184. §
 
-„(2) A terhelt és a védő szakértőnek magánszakértői vélemény elkészítésére adhat megbízást, ha
+#### 185. §
 
-- a) a bíróság, az ügyészség vagy a nyomozó hatóság a szakértő kirendelésére vonatkozó indítványukat elutasította,
-- b) az ügyészség vagy a nyomozó hatóság nem az indítványukban megjelölt szakértő kirendeléséről határozott, vagy
-- c) a perújítási indítványhoz kívánnak szakvéleményt csatolni.
+#### 186. §
 
-(2a) Az (2) bekezdés c) pontja kizárólag akkor alkalmazható, ha a 637. § (1) bekezdés a) pontja szerinti perújítási ok alátámasztása érdekében kívánnak szakvéleményt csatolni.”
+#### 187. §
 
-182. § A Be. 234. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 188. §
 
-„(3) Bírói engedélyhez kötött leplezett eszközök a szándékosan elkövetett minősített adattal visszaélés, a vesztegetés, a hivatali visszaélés, a közfeladati helyzettel visszaélés, a hivatalos személy elleni erőszak, a közfeladatot ellátó személy elleni erőszak, a nemzetközileg védett személy elleni erőszak, a nemzetközi gazdasági tilalom megszegése, a készpénz-helyettesítő fizetési eszköz hamisítása, a jogosulatlan pénzügyi tevékenység és a piramisjáték szervezése esetén is alkalmazhatók.”
-
-183. § (1) A Be. 281. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bűnügyi felügyelet a terhelt szabad mozgáshoz és a lakóhely, a tartózkodási hely szabad megválasztásához való jogát, illetve a cselekvési szabadságát korlátozza.”
-
-(2) A Be. 281. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A bíróság a bűnügyi felügyelettel elérni kívánt célt biztosító további magatartási szabályokat is előírhat, ideértve
-
-- a) a pártfogó felügyelet külön magatartási szabályaként meghatározható olyan magatartási szabályokat is, amelyek célja a bűnismétlés lehetőségének a megakadályozása, illetve
-- b) hogy a terhelt – a bíróság által meghatározott határidőn belül – szüntesse meg a bűncselekmény elkövetéséhez használt, a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési számláját, a tőkepiacról szóló törvény szerinti ügyfélszámláját vagy az egyes fizetési szolgáltatókról szóló törvény szerint elektronikuspénz-kibocsátó intézmény által vezetett, fizetési számlának nem minősülő, elektronikus pénz nyilvántartására szolgáló számláját (e § alkalmazásában a továbbiakban együtt: számla) vagy más jogosult számlája fölött fennálló rendelkezési jogát, továbbá tartózkodjon a mindezekre vonatkozó újabb szerződéskötéstől.”
-
-(3) A Be. 281. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A bíróság a (3) bekezdés b) pontjában meghatározott magatartási szabályként nem írhat elő olyan magatartási szabályt, amely alapján a terhelt nem rendelkezhet egyetlen, a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési számlával sem.”
-
-184. § A Be. 320. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha a lefoglalt dolog birtoklása bűncselekményt valósít meg, különösen ha a lefoglalt dolog kábítószer vagy kábítószer-prekurzor, akkor az ügyészség vagy a nyomozó hatóság a (4) bekezdés alkalmazása helyett, a lefoglalás megszüntetéséről és a lefoglalt dolog megsemmisítéséről is rendelkezhet. Ez a rendelkezés alkalmazható kábítószerrel, kábítószer-prekurzorral szennyezett, értéktelen lefoglalt dologra is.”
-
-185. § A Be. 336. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az eltávolításra kötelezett az elektronikus adat ideiglenes eltávolítására vagy visszaállítására vonatkozó kötelezettség elmulasztása miatt rendbírsággal sújtható.”
-
-186. § A Be. „Az elektronikus adat ideiglenes eltávolítása” alcíme a következő 336/A. §-sal egészül ki:
-
-„336/A. § Az elektronikus adat ideiglenes eltávolításáról szóló határozat hatálya kiterjed minden olyan adatra, amely azonos az elektronikus adat ideiglenes eltávolításáról szóló határozatban szereplő adattal (e § alkalmazásában a továbbiakban: érintett elektronikus adat másolata). Az érintett elektronikus adat másolatának ideiglenes hozzáférhetetlenné tételéről újabb határozat meghozatala nem szükséges. A bíróság, az ügyészség vagy a nyomozó hatóság a vagyoni érdekelt indítványára határoz arról, hogy az érintett elektronikus adat másolata az elektronikus adat ideiglenes hozzáférhetetlenné tételéről hozott határozat hatálya alá tartozik-e.”
-
-187. § (1) A Be. 337. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bíróság, az ügyészség vagy a nyomozó hatóság elrendeli az elektronikus adathoz való hozzáférés ideiglenes megakadályozását, ha
-
-- a) az eltávolításra kötelezett az elektronikus adat ideiglenes eltávolítására vonatkozó kötelezettséget – rendbírság kiszabását követően – sem teljesítette,
-- b) az elektronikus adat ideiglenes eltávolítására vonatkozóan a külföldi hatóság jogsegély iránti megkeresése a megkeresés bíróság általi kibocsátásától számított egy hónapon belül nem vezetett eredményre,
-- c) az eltávolításra kötelezett azonosítása lehetetlen, vagy aránytalan nehézséggel járna, vagy
-- d) nem várható, hogy az eltávolításra kötelezett észszerű időn belül teljesíti az elektronikus adat ideiglenes eltávolítására vonatkozó kötelezettséget vagy a külföldi hatóság jogsegély iránti megkereséstől eredmény nem várható vagy az aránytalan nehézséggel járna.”
-
-(2) A Be. 337. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Az elektronikus adathoz való hozzáférés ideiglenes megakadályozása megszüntetéséről vagy megszűnéséről szóló határozatot akkor kell kézbesíteni az elektronikus adat felett rendelkezésre jogosultnak, ha az eljárás addigi adatai alapján személye és elérhetősége ismert. E határozat ellen nincs helye jogorvoslatnak.”
-
-(3) A Be. 337. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) Az elektronikus hírközlési szolgáltató az elektronikus adathoz való hozzáférés ideiglenes megakadályozására vagy a hozzáférés újbóli biztosítására vonatkozó kötelezettség elmulasztása miatt rendbírsággal sújtható.”
-
-188. § A Be. 342. § (3) bekezdése a következő 29. és 30. ponttal egészül ki:
-
-(Az előkészítő eljárás során adatkérés keretében adatszolgáltatás kizárólag)
-
-„29. TRACES rendszerből,
-
-30. az egészségügyi szolgálati jogviszonyban álló személyek nyilvántartásából, a közszolgálati alapnyilvántartásból, a személyügyi alapnyilvántartásból”
-
-(kérhető.)
-
-189. § A Be. 351. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek, és a § a következő (5)–(8) bekezdéssel egészül ki:
-
-„(3) A nyomozás határideje
-
-- a) a három évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt folyamatban lévő eljárásban a gyanúsított kihallgatásától számított egy év,
-- b) az a) pontban meg nem határozott esetben a gyanúsított kihallgatásától számított két év,
-- c) a nyolc évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt folyamatban lévő eljárásban a gyanúsított kihallgatásától számított három év.
-
-(4) A Btk. 91. § (3) bekezdése estén a nyomozás (3) bekezdés szerinti határidejét a Btk. 91. § (1) bekezdése alapján felemelt büntetési tétel szerint kell megállapítani.
-
-(5) A nyomozás (3) bekezdés szerinti határidejét az ügyész legfeljebb hat hónappal meghosszabbíthatja.
-
-(6) A nyomozás (5) bekezdés szerint meghosszabbított határidejét a felettes ügyész legfeljebb egy évvel meghosszabbíthatja, ha az eljárás elhúzódását az eredményezte, hogy
-
-- a) külföldi állam területét érintő eljárási cselekmény elvégzésére került sor,
-- b) a bűncselekményt információs rendszer felhasználásával követték el, és ezzel kapcsolatban különleges szakértelem igénybe vétele volt szükséges,
-- c) az eljárásban több mint 10 gyanúsított vagy több mint 50 sértett vesz részt,
-- d) az eljárás bűnszövetségben vagy bűnszervezetben elkövetett bűncselekmény miatt van folyamatban
-- e) gyanúsított megszökött vagy elrejtőzött,
-- f) a gyanúsított által a nyomozás ügyiratainak teljes körű megismerését követően előterjesztett indítvány végrehajtása érdekében szükséges, és ahhoz a gyanúsított hozzájárul.
-
-(7) Több bűncselekmény miatt vagy több gyanúsított ellen folyamatban lévő eljárásban az (5) bekezdés alkalmazására akkor kerülhet sor, ha a gyanúsított vagy a cselekmény vonatkozásában az eljárás elkülönítésének nincs helye, vagy az az eljárás eredményes lefolytatását veszélyeztetné.
-
-(8) A (6) bekezdés nem alkalmazható, ha a gyanúsított egy évet meghaladó letartóztatásban van.”
+#### 189. §
 
 #### 190. §
 
-191. § (1) A Be. 404. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+#### 191. §
 
-(Az ügyészség)
+#### 192. §
 
-„d) vádemelés esetén a 422. § (3) bekezdésben meghatározott indítvány megtételét, valamint a XCVIII. és C. Fejezetben meghatározott külön eljárás érdekében szükséges intézkedések megtételét”
+#### 193. §
 
-(helyezheti kilátásba, ha a felsorolt intézkedések vagy határozatok e törvényben meghatározott – a bűncselekmény elkövetésének beismerésén, illetve az együttműködésen kívüli – feltételei fennállnak.)
-
-(2) A Be. 404. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az ügyészi intézkedés vagy határozat kilátásba helyezésének nem akadálya, ha a gyanúsított a bűncselekmény elkövetését beismerte.”
-
-192. § A Be. 408. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdés alkalmazása szempontjából nincs akadálya annak, hogy az ügyészség az egyezség tárgyát képező bűncselekmény tényállását és Btk. szerinti minősítését a terhelt által szolgáltatott bizonyíték, illetve annak alapján beszerzett bizonyítási eszköz alapján állapítsa meg.”
-
-193. § (1) A Be. 409. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha az ügyészség és a terhelt nem kötött egyezséget, a kezdeményezés, valamint az ezzel összefüggésben keletkezett ügyiratok – különösen a 408. § (3) bekezdése alapján tett terhelti vallomás, valamint az annak alapján beszerzett bizonyítási eszközök – bizonyítékként, illetve bizonyítási eszközként nem használhatók fel, azok nem képezik az eljárás ügyiratainak részét. Ebben az esetben az ügyészség az egyezség megkötésére irányuló kezdeményezésről sem tájékoztathatja a bíróságot.”
-
-(2) A Be. 409. §-a következő (5) bekezdéssel egészül ki:
-
-„(5) A (4) bekezdés szerinti jogkövetkezmények nem alkalmazhatóak, ha az eljárás adatai, különösen a terhelt vallomása alapján az egyezség megkötését követően megállapítható, hogy a terhelt az egyezségben meghatározott bűncselekménytől eltérő bűncselekményt követett el.”
-
-194. § A Be. „Az egyezség tartalma” alcíme a következő 411/A. és 411/B. §-sal egészül ki:
-
-„411/A. § (1) A megkötött egyezség az előkészítő ülés megkezdése előtt – az ügyészség és a terhelt egyetértésével – módosítható, ha az eredeti egyezséghez képest a tényállás vagy a minősítés változott, vagy az egyezség egyéb tartalmi elemének alapjául szolgáló körülmény utóbb megváltozott.
-
-(2) Az egyezség módosítását a vádemelés előtt a gyanúsított kihallgatásáról készült jegyzőkönyvbe, a vádemelést követően feljegyzésbe kell foglalni. Az egyezség módosításáról készült feljegyzést az ügyész, a védő és a terhelt hitelesíti és azt az eljárás ügyirataihoz kell csatolni.
-
-411/B. § Az ügyészség
-
-- a) az egyezségben meghatározott bűncselekmény tényállási elemeit egyoldalúan akkor módosíthatja, ha a bűncselekmény egyezségben meghatározott Btk. szerinti minősítését, a büntetést, illetve intézkedést – az egyszerűsített felülvizsgálati eljárás tárgyát képező intézkedéseket leszámítva – nem teszi törvénysértővé,
-- b) az egyezségben meghatározott bűncselekmény törvénysértő minősítését egyoldalúan akkor módosíthatja, ha a módosítás eredményeképpen az egyezségben meghatározott büntetés, illetve intézkedés nem válik törvénysértővé.”
+#### 194. §
 
 #### 195. §
 
@@ -870,45 +522,21 @@ nem indítványozza a védő kizárását.
 
 #### 197. §
 
-198. § A Be. 518. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 198. §
 
-„(3) Ha a tanács összetételében változás történt, vagy a korábbi tárgyalási határnap óta hat hónap eltelt, az ügyész, a vádlott vagy a védő indítványozhatja a korábban lefolytatott bizonyítási eljárás lényegének ismertetését, valamint bizonyítás felvételére irányuló indítványt terjeszthet elő, ideértve a korábban már kihallgatott tanú kihallgatására, szakértő meghallgatására vagy más eljárási cselekmény elvégzésére irányuló indítványt is.”
+#### 199. §
 
-199. § A Be. 527. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 200. §
 
-(Az egyesbíró vagy a tanács elnöke a tanúnak az eljárás során korábban tett vallomásának lényegét hivatalból ismertetheti vagy az ügyész, a vádlott vagy a védő indítványára felolvashatja, illetve a jegyzőkönyvvezetővel felolvastathatja, ha)
-
-„c) az 518. § (3) bekezdése alapján a tanú vallomásának ismertetése szükséges,”
-
-200. § A Be. 540. §-a helyébe a következő rendelkezés lép:
-
-„540. § (1) A bizonyítási eljárás lefolytatása után, ha bizonyítási indítványt nem tettek, vagy azt a bíróság elutasította, az egyesbíró vagy a tanács elnöke a bizonyítási eljárást befejezettnek nyilvánítja, és felhívja a jogosultakat a perbeszédek és a felszólalások megtartására.
-
-(2) A 48. § (2a) bekezdésében meghatározott esetben a bíróság a tárgyalást a meghatalmazott védő indítványára, a védő perbeszédének megtartása érdekében egy alkalommal elnapolhatja.”
-
-201. § A Be. „A bűnösséget megállapító ítélet” alcíme a következő 565/A. §-sal egészül ki:
-
-„565/A. § (1) Ha az ügyészség a 409. § alapján kötött egyezség ellenére nem a XCIX. Fejezet szerint emelt vádat és a bíróság a tárgyaláson lefolytatott bizonyítás eredményeként olyan tényállást és minősítést állapít meg, amely alapján az egyezség jóváhagyásának lett volna helye, akkor a vádlott vagy a védő indítványára az ítéletben az egyezségben meghatározott büntetéstől, illetve intézkedéstől súlyosabbat nem szabhat ki, illetve nem alkalmazhat, valamint az egyezségben szereplő egyéb rendelkezéstől – a (2) bekezdésben foglalt kivétellel – nem térhet el.
-
-(2) A bíróság az ítéletben az egyszerűsített felülvizsgálati eljárás tárgyát képező kérdésben a törvénynek megfelelő rendelkezést hoz, ha azt az egyezség nem vagy nem a törvénynek megfelelően tartalmazza.”
+#### 201. §
 
 #### 202. §
 
-203. § A Be. 570. §-a helyébe a következő rendelkezés lép:
-
-„570. § A bíróság hivatalból vagy az ügyészség indítványára az elektronikus adat végleges hozzáférhetetlenné tételének végrehajtását az elektronikus adathoz való hozzáférés végleges megakadályozásával rendeli el, ha
-
-- a) az elektronikus adathoz való hozzáférésnek a 337. § (1) bekezdése szerinti ideiglenes megakadályozása volt elrendelve, és a hozzáférés megakadályozása továbbra is indokolt,
-- b) az eltávolításra kötelezett azonosítása lehetetlen vagy aránytalan nehézséggel járna, vagy
-- c) nem várható, hogy az eltávolításra kötelezett észszerű időn belül teljesíti az elektronikus adat ideiglenes eltávolítására vonatkozó kötelezettséget vagy a külföldi hatóság jogsegély iránti megkereséstől eredmény nem várható vagy az aránytalan nehézséggel járna.”
+#### 203. §
 
 #### 204. §
 
-205. § A Be. 576. § (1) bekezdése a következő c) ponttal egészül ki:
-
-(Az állam viseli)
-
-„c) azt a költséget, amely a 45. § (4) bekezdés vagy a 48. § (2a) bekezdés alapján eljárt kirendelt védő azon eljárási cselekményen való jelenlétével kapcsolatban merült fel, amelyen a terhelt meghatalmazott védője jelen volt.”
+#### 205. §
 
 #### 206. §
 
@@ -920,88 +548,33 @@ nem indítványozza a védő kizárását.
 
 #### 210. §
 
-211. § A Be. 649. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép és a bekezdés a következő d) ponttal egészül ki:
+#### 211. §
 
-(A büntető anyagi jog szabályainak megsértése miatt felülvizsgálati indítvány terjeszthető elő, ha a bíróság)
+#### 212. §
 
-„c) a bűncselekmény törvénysértő minősítése miatt szabott ki olyan büntetést, illetve alkalmazott olyan intézkedést, amely a felülvizsgálati indítvánnyal megtámadott határozat szerint irányadó büntetési tételkerettől eltérő, törvényes büntetési tételkeretre figyelemmel aránytalanul súlyos vagy aránytalanul enyhe;
+#### 213. §
 
-d) a Btk. 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását.”
+#### 214. §
 
-212. § A Be. 650. § (1) bekezdése a következő d) ponttal egészül ki:
+#### 215. §
 
-(Nincs helye felülvizsgálatnak)
-
-„d) a terhelt terhére a halála esetén.”
-
-213. § A Be. 655. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A felülvizsgálati indítványt a Kúria öt hivatásos bíróból álló tanácsa bírálja el tanácsülésen vagy nyilvános ülésen.”
-
-214. § A Be. 662. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot megváltoztatja, és a törvénynek megfelelő határozatot hoz, ha az alapügyben a bíróság)
-
-„b) a bűncselekmény törvénysértő minősítése miatt szabott ki olyan büntetést, illetve alkalmazott olyan intézkedést, amely a felülvizsgálati indítvánnyal megtámadott határozat szerint irányadó büntetési tételkerettől eltérő, törvényes büntetési tételkeretre figyelemmel aránytalanul súlyos vagy aránytalanul enyhe,”
-
-215. § A Be. 674. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bíróság az egyszerűsített felülvizsgálati eljárás tárgyát képező kérdésben végzéssel határoz. Ha az egyszerűsített felülvizsgálati eljárásban a bíróság a próbára bocsátás megszüntetéséről határoz, akkor a törvénynek megfelelő halmazati büntetést ítéletben szabja ki.”
-
-216. § A Be. 687. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, akkor az ügyben az (1) és (2) bekezdésben meghatározott határidőt a 351. § (5) bekezdésben meghatározott esetben
-
-- a) az ügyész legfeljebb hat hónappal,
-- b) a felettes ügyész további hat hónappal
-
-meghosszabbíthatja.”
+#### 216. §
 
 #### 217. §
 
-218. § A Be. 721/A. §-a a következő (10) bekezdéssel egészül ki:
+#### 218. §
 
-„(10) A (8) és (9) bekezdésben meghatározott döntés meghozatala érdekében a (2) bekezdésben meghatározott intézkedéseket
-
-- a) a 653. § (2) bekezdésében meghatározott bíróság teszi meg, a felülvizsgálati indítvány felterjesztése előtt, vagy
-- b) a Kúria teszi meg, ha a felülvizsgálati indítványt a 653. § (4) bekezdése alapján a legfőbb ügyész a Kúriánál terjesztette elő, vagy ha a specialitás szabálya megsértésének vizsgálatára a 659. § (6) bekezdése alapján – hivatalból – kerül sor.”
-
-219. § A büntetőeljárásról szóló 2017. évi XC. törvény 723. § d) pontja helyébe a következő rendelkezés lép:
-
-„d) a Btk. 205. § (2) bekezdésben meghatározott eset kivételével a terheltet a bűncselekmény elkövetésén tetten érték vagy a terhelt a bűncselekmény elkövetését beismerte.”
+#### 219. §
 
 #### 220. §
 
-221. § A Be. 732. §-a a következő (2a) bekezdéssel egészül ki:
+#### 221. §
 
-„(2a) Ha a megkötött egyezség módosítására a vádemelést követően kerül sor, akkor a bíróság az előkészítő ülést hivatalból vagy a vádlott vagy a védő indítványára elnapolhatja.”
+#### 222. §
 
-222. § (1) A Be. 734. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+#### 223. §
 
-(A bíróság az egyezség jóváhagyását megtagadja, ha)
-
-„e) a bűncselekmény olyan, a vádtól eltérő Btk. szerinti minősítése látszik megállapíthatónak, amelynek eredményeképpen az egyezségben meghatározott büntetés, illetve intézkedés törvénysértővé válik.”
-
-(2) A Be. 734. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) Ha a bíróság az egyezség jóváhagyását megtagadta, az ügyészség az előkészítő ülésen az 502. § (1) bekezdése szerint indítványt tehet a büntetés vagy intézkedés mértékére, illetve tartamára arra az esetre, ha a terhelt az előkészítő ülésen a bűncselekmény elkövetését beismeri. Ebben az esetben a bíróság a továbbiakban az eljárást az általános szabályok szerint folytatja.
-
-(5) Ha a bíróság az egyezség jóváhagyását 734. § (1) bekezdés a), c) vagy e) pontjában meghatározott okból megtagadta és a tárgyaláson lefolytatott bizonyítás eredményeként olyan tényállást és minősítést állapít meg, amely alapján az egyezség jóváhagyásának lett volna helye, akkor – a 736. § (3a) bekezdés c) pontjában meghatározott kivétellel – az egyezségben szereplő büntetésnél, illetve intézkedésnél súlyosabbat nem szabhat ki, illetve nem alkalmazhat, valamint az egyezség tartalmával egyező egyéb rendelkezéstől nem térhet el.”
-
-223. § A Be. 735. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A bíróság akkor is jóváhagyja az egyezséget, ha az eljárás adatai és a terhelt beismerése alapján
-
-- a) az egyezségben foglaltaktól eltérő tényállás állapítható meg, azonban annak eredményeként az egyezségben szereplő bűncselekmény Btk. szerinti minősítése nem válik törvénysértővé, illetve
-- b) a bűncselekmény egyezségben foglaltaktól eltérő Btk. szerinti törvényes minősítése állapítható meg, azonban annak eredményeként az egyezségben meghatározott büntetés, illetve intézkedés nem válik törvénysértővé.”
-
-224. § A Be. 736. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) A bíróság az ítéletben
-
-- a) abban az esetben térhet el az egyezségben szereplő tényállástól és a 424. § (2) bekezdése szerinti indítványoktól, ha az eltérés miatt az egyezségben meghatározott Btk. szerinti minősítés, büntetés, illetve intézkedés nem válik törvénysértővé,
-- b) abban az esetben térhet el az egyezségben szereplő Btk. szerinti minősítéstől, ha az eltérés miatt az egyezségben meghatározott büntetés, illetve intézkedés nem válik törvénysértővé, vagy
-- c) az egyszerűsített felülvizsgálati eljárás tárgyát képező kérdésben a törvénynek megfelelő rendelkezést hoz, ha azt az egyezség nem vagy nem a törvénynek megfelelően tartalmazza.”
+#### 224. §
 
 #### 225. §
 
@@ -1015,36 +588,21 @@ meghosszabbíthatja.”
 
 #### 230. §
 
-231. § A Be. 874. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) A 2025. szeptember 1. napján folyamatban levő büntetőeljárásban a nyomozási határidőket a korábbi jogszabály szerint kell számolni.
-
-(2b) A (2a) bekezdésben meghatározott határidő lejártát követően,
-
-- a) ha az ügyészség 2025. szeptember 1. napját megelőzően nem hosszabbította meg a nyomozás határidejét, akkor a 351. § (4) és (6) bekezdésének az alkalmazásának van helye,
-- b) ha az ügyészség 2025. szeptember 1. napját megelőzően már meghosszabbította a nyomozás határidejét akkor a 351. § (5) és (7) bekezdésének az alkalmazásának van helye.”
+#### 231. §
 
 #### 232. §
 
-233. § A Be. 878. §-a a következő 37. ponttal egészül ki:
+#### 233. §
 
-(Ez a törvény)
-
-„37. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-234. § A Be. „Az Európai Unió jogának való megfelelés” alcíme a következő 878/C. §-sal egészül ki:
-
-„878/C. § Ez a törvény a belső piaci médiaszolgáltatások közös keretének létrehozásáról és a 2010/13/EU irányelv módosításáról szóló, 2024. április 11-i (EU) 2024/1083 európai parlamenti és tanácsi rendelet (a tömegtájékoztatás szabadságáról szóló európai rendelet) 4. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.”
+#### 234. §
 
 235. § A Be.
 
-- a) 101. § (1) bekezdésében a „nyomozó hatóság,” szövegrész helyébe a „nyomozó hatóság, büntetés-végrehajtási szerv,” szöveg,
-- b) 335. § (3) bekezdésében, 336. § (2) bekezdésében, 337. § (2) és (6) bekezdésében, 337. § (10) bekezdésében a „bíróság” szövegrész helyébe a „bíróság, az ügyészség vagy a nyomozó hatóság” szöveg,
-- c) 337. § (5) bekezdésében a „fellebbezést” szövegrész helyébe a „jogorvoslatot” szöveg,
-- d) 342. § (3) bekezdés 7. pontjában az „adatra vonatkozóan” szövegrész helyébe az „adatra, valamint az egészségügyi igazgatási feladatok ellátására létrehozott központi hivatalként működő szervtől az általa kezelt adatra vonatkozóan” szöveg,
-- e) 374. § (1) bekezdés h) pontjában a „felfüggesztéséről hozott rendelkezése” szövegrész helyébe a „felfüggesztéséről vagy az elektronikus adat ideiglenes hozzáférhetetlenné tételéről hozott vagy a 320. § (4a) bekezdése alapján hozott rendelkezése” szöveg,
+- a)
+- b)
+- c)
+- d)
+- e)
 - f)
 - g)
 - h)
@@ -1055,15 +613,15 @@ lép.
 
 236. § Hatályát veszti a Be.
 
-- a) 335. § (5) bekezdésében a „külön” szövegrész,
+- a)
 - b)
-- c) 518. § (4) bekezdése,
-- d) 633. § (5) bekezdésében a „vagy felolvashatja” szövegrész,
-- e) 633. § (6) bekezdésében az „vagy felolvasható” szövegrész,
-- f) 633. § (8) bekezdésében az „vagy felolvasását,” szövegrész,
-- g) 655. § (2) bekezdése,
-- h) 734. § (1) bekezdés a) pontja,
-- i) 736. § (6) bekezdésében a „ , tárgyalás alapján” szövegrész,
+- c)
+- d)
+- e)
+- f)
+- g)
+- h)
+- i)
 - j)
 - k)
 
@@ -1077,21 +635,11 @@ lép.
 
 #### 27. A vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény módosítása
 
-239. § A vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény (a továbbiakban: Vat.) 2. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+#### 239. §
 
-„(3) A vagyonkezelő alapítvány által határozott vagy határozatlan időre tartós vagyonkezelésbe vett vagyon tekintetében létrejött tartós vagyonkezelési jogviszony esetében
+#### 240. §
 
-- a) a vagyonkezelő alapítványt az e jogviszony keretében kezelt vagyon kizárólagos kedvezményezettjének kell tekinteni azzal, hogy kedvezményezettként e vagyont is az (1) bekezdés szerinti célok megvalósítása érdekében köteles kezelni;
-- b) e jogviszony az alapító okiratba foglalt egyoldalú jognyilatkozattal is létrejöhet az alapító okiratban meghatározott keretek között és feltételekkel;
-- c) e jogviszony megszűnik a vagyonkezelő alapítvány megszűnésével, ezt megelőzően csak a határozott időre rendelt tartós vagyonkezelés szűnik meg, ha a határozott idő eltelt.
-
-(4) A tartós vagyonkezelési jogviszonyra egyebekben – ha e törvény eltérően nem rendelkezik – a Ptk. bizalmi vagyonkezelési szerződésre vonatkozó szabályait kell megfelelően alkalmazni.”
-
-240. § A Vat. a következő 13. §-sal egészül ki:
-
-„13. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel módosított rendelkezéseit e módosító rendelkezések hatálybalépését megelőzően a vagyonkezelő alapítványok által bizalmi vagyonkezelésbe vett vagyon vonatkozásában azzal kell alkalmazni, hogy a vagyonkezelő alapítványok által létesített bizalmi vagyonkezelési jogviszony alatt tartós vagyonkezelést kell érteni.”
-
-241. § A Vat. 2. § (2) bekezdésében a „bizalmi” szövegrész helyébe a „tartós” szövegrész lép.
+#### 241. §
 
 #### 28. A polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel érvényesítéséről szóló 2021. évi XCIV. törvény módosítása
 

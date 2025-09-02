@@ -132,35 +132,17 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 
 #### 13. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
 
-46. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (1g) bekezdéssel egészül ki:
+#### 46. §
 
-„(1g) A Tormay Károly Egészségügyi Központ Gödöllő jogutódja a járóbeteg szakellátás tekintetében az Egyetem. A Tormay Károly Egészségügyi Központ Gödöllő járóbeteg szakellátásait az Egyetem Klinikai Központja látja el.”
+#### 47. §
 
-47. § (1) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (1h) bekezdéssel egészül ki:
+#### 48. §
 
-„(1h) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 71. és 72. sorában meghatározott ingatlanokat ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.”
+#### 49. §
 
-(2) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (4a) bekezdéssel egészül ki:
+#### 50. §
 
-„(4a) Az (1h) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd vagyonkezelésében lévő, ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.”
-
-48. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. alcíme a következő 6/H és 6/I. §-sal egészül ki:
-
-„6/H. § A 3. mellékletben foglalt táblázat 71. és 72. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a tulajdonosi joggyakorló köti meg az Egyetemmel.
-
-6/I. § A Tormay Károly Egészségügyi Központ Gödöllő európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában a Tormay Károly Egészségügyi Központ Gödöllő jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.”
-
-49. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. melléklete a 3. melléklet szerint módosul.
-
-50. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény
-
-- a) 5. § (5) bekezdésében az „A (4) bekezdés” szövegrész helyébe az „A (4) és (4a) bekezdés” szöveg,
-- b) 5. § (7) bekezdésében a „(2) bekezdés és a 6/D. §” szövegrész helyébe a „(2) bekezdés, a 6/D. § és a 6/H. §” szövegrész, valamint a „(4) bekezdés” szövegrész helyébe a „(4) és (4a) bekezdés” szöveg,
-- c) 8. §-ában az „(1d), (4)” szövegrész helyébe az „(1d), (1h), (4), (4a)” szöveg
-
-lép.
-
-51. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. § (5a) bekezdésében az „(1d) és az (1f) bekezdés” szövegrészek helyébe az „(1d), az (1f) és az (1h) bekezdés” szöveg lép.
+#### 51. §
 
 #### 14. Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény módosítása
 
@@ -221,17 +203,3 @@ lép.
 ### 2. melléklet a 2025. évi LVII. törvényhez
 
 ### 3. melléklet a 2025. évi LVII. törvényhez
-
-- 1. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. mellékletében foglalt táblázat a következő 71. és 72. sorral egészül ki:
-
-|  | (A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS) |
-
-„
-
-| 71. | GÖDÖLLŐ | 291/3 | 1/1 | kivett orvosi rendelő |
-| --- | --- | --- | --- | --- |
-| 72. | GÖDÖLLŐ | 411 | 1/1 | kivett orvosi rendelő |
-
-”
