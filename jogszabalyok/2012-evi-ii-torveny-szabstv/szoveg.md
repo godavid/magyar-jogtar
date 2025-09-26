@@ -557,7 +557,7 @@ jelöli ki.
 
 (2) A kizárásról hivatalból vagy bejelentésre a szabálysértési hatóságnál a kifogásolt személy közvetlen felettese, bíró esetében a bíróság elnöke dönt. Ha helyt ad a bejelentésnek, kijelöli az eljáró személyt.
 
-(2a) Ha a kizárási ok a szabálysértési hatóság vezetőjével szemben áll fenn, a kizárásról és az eljáró szabálysértési hatóság kijelöléséről a 40. § (5) bekezdés a) pontja szerinti szerv dönt.
+(2a) Ha a kizárási ok a szabálysértési hatóság vezetőjével szemben áll fenn, a kizárásról és az eljáró szabálysértési hatóság kijelöléséről a 40. § (5) bekezdés szerinti szerv dönt.
 
 (3) A kizárás elbírálásáról határozatot kell hozni.
 
