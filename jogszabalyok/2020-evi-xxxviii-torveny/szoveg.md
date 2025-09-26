@@ -38,9 +38,9 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 a tulajdonában álló, 3. melléklet szerinti társasági részesedését, valamint
 
-- b) az Autóipari Próbapálya Zala Korlátolt Felelősségű Társaságban az állam tulajdonában álló, 3. melléklet szerinti üzletrészt
+- b)
 
-[e § alkalmazásában az a) és b) pont a továbbiakban együtt: társasági részesedés] ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+[e § alkalmazásában az a) pont a továbbiakban: társasági részesedés] ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
 
 (2) Ha az Alapítvány a tulajdonába adott, (1) bekezdés szerinti társasági részesedést elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
 
@@ -64,9 +64,9 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 
 3/I. § A 4. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
 
-3/J. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása, továbbá ehhez kapcsolódóan a ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: ZalaZONE Zrt.) részére nem pénzbeli vagyoni hozzájárulásként történő tulajdonátruházás érdekében – az 5. mellékletben meghatározott ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek azzal, hogy az Alapítvány az 5. mellékletben meghatározott ingatlanokat a ZalaZONE Zrt. részére, a társasági részesedésének megszerzését követő 60 napon belül tőkeemeléssel tulajdonba adja.
+#### 3/J. §
 
-3/K. § Az 5. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
+#### 3/K. §
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -116,7 +116,7 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 
 10. § A 3/A. §, a 3/C. §, a 3/D. §, az 5. § (2) bekezdése, az 1. melléklet 6a., 59–61. sora, a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-11. § A 3/G. §, a 3/H. §, a 3/J. §, a 4/A. §, az 1. melléklet 63–65. sora, a 4. és az 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+11. § A 3/G. §, a 3/H. §, a 4/A. §, az 1. melléklet 63–65. sora, a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXVIII. törvényhez
 
@@ -208,7 +208,7 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 |  | A | B |
 | --- | --- | --- |
 | 1 | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló társasági részesedés megjelölése |
-| 2 | Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság | 100% |
+| 2 |  |  |
 | 3 |  |  |
 | 4 | TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságban | 100% |
 
@@ -222,11 +222,3 @@ a tulajdonában álló, 3. melléklet szerinti társasági részesedését, vala
 | 2 | PÉR | 052/2 | 1/2 | kivett repülőtér |
 
 ### 5. melléklet a 2020. évi XXXVIII. törvényhez
-
-#### Az Alapítvány részére átadásra kerülő ingatlanok a ZalaZONE Zrt. tőkeemelése érdekében
-
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | TULAJDONI HÁNYAD | MEGNEVEZÉS |
-| 2 | ZALAEGERSZEG | külterület 0829/15 | 1/1 | kivett beruházási célterület |
-| 3 | EGERVÁR | külterület 02030 | 1/1 | kivett beruházási célterület |
