@@ -2627,6 +2627,8 @@ tevékenység.
 - g) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megkezdeni;
 - h) a vezető állású személyek megnevezését, valamint – a 357. § (3a) bekezdésében foglaltak figyelembevételével – mindazon okiratokat, dokumentumokat, nyilatkozatokat, melyek alapján a 311. § és a 356. § előírásainak való megfelelésük megállapítható.
 
+304/A. § A szabályozott piacot működtető piacműködtető legalább három olyan, ténylegesen aktív taggal vagy felhasználóval rendelkezik, akik kölcsönösen együttműködhetnek az árképzés terén.
+
 305. § A pénzügyi eszközök valamelyikének kereskedésére engedéllyel rendelkező tőzsdét a Felügyelet szabályozott piacként tartja nyilván. A szabályozott piacként nyilvántartott tőzsdére a Kilencedik Rész rendelkezéseit megfelelően kell alkalmazni.
 
 306. § A tőzsdei tevékenységre kiadott engedélyt a Felügyelet visszavonja, ha
@@ -2835,7 +2837,9 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (5) A tőzsde által alkalmazott eljárás és rendszer biztosítja az olyan megbízások elutasítását, amelyek meghaladnak előre meghatározott volumeneket vagy árküszöböket, vagy egyértelműen tévesek.
 
-(6) A tőzsde rendszerei biztosítják a kereskedés ideiglenes leállításának vagy korlátozásának lehetőségét, ha egy tőzsdei termék árában az adott tőzsdén vagy egy kapcsolódó kereskedési helyszínen, illetve rendszeres internalizáló esetén rövid időn belül jelentős változás következett be, valamint – kivételes, a tőzsdei szabályzatban meghatározott esetekben és eljárás szerint – bármely ügylet törlését, megváltoztatását vagy korrigálását. A tőzsde a kereskedés leállítására vonatkozó paraméterek megállapítása során figyelembe veszi a különböző eszközosztályok és -alosztályok likviditását, a piaci modellek jellegét és a felhasználók típusait, és biztosítja a kereskedés szabályszerűségében bekövetkező jelentős zavarok elkerülését.
+(6) A tőzsde rendszerei biztosítják a kereskedés ideiglenes leállításának vagy korlátozásának lehetőségét vészhelyzet esetén, vagy ha egy tőzsdei termék árában az adott tőzsdén vagy egy kapcsolódó kereskedési helyszínen, illetve rendszeres internalizáló esetén rövid időn belül jelentős változás következett be, valamint – kivételes, a tőzsdei szabályzatban meghatározott esetekben és eljárás szerint – bármely ügylet törlését, megváltoztatását vagy korrigálását. A tőzsde a kereskedés leállítására vagy korrigálására vonatkozó paraméterek megállapítása során figyelembe veszi a különböző eszközosztályok és -alosztályok likviditását, a piaci modellek jellegét és a felhasználók típusait, és biztosítja a kereskedés szabályszerűségében bekövetkező jelentős zavarok elkerülését.
+
+(6a) A tőzsde honlapján közzéteszi a kereskedés ideiglenes leállításához vagy korlátozásához vezető körülményekre, és a leállítás vagy korlátozás alkalmazásához kapcsolódó fő paraméterek meghatározására szolgáló elveket.
 
 (7) A tőzsde a kereskedés leállítására vonatkozó paramétereket és az azokban végrehajtott lényeges változásokat következetes és összehasonlítható módon jelenti a Felügyeletnek, és a Felügyelet jelenti azokat az Európai Értékpapír-piaci Hatóságnak.
 
@@ -2882,9 +2886,9 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (3) Az árlépésköz-rendszer alkalmazása nem jelenti akadályát annak, hogy a tőzsde a szokásos piaci nagyságrendet meghaladó megbízásokat a vételi és eladási árak közötti középértéken párosítsa.
 
-### Az üzleti órák összehangolása
+(4) Az Európai Unión kívül kibocsátott ISIN azonosítóval rendelkező részvények vonatkozásában, vagy olyan Európai Unión belül kibocsátott ISIN azonosítóval rendelkező részvények vonatkozásában, amelyekkel olyan harmadik országbeli helyszínen kereskednek helyi pénznemben vagy Európai Unión kívüli pénznemben a 600/2014/EU európai parlamenti és tanácsi rendelet 23. cikk (1) bekezdés a) pontjában említettek szerint, amelyek tekintetében a likviditás szempontjából leginkább érintett piacnak számító helyszín egy harmadik országban található, a tőzsde előírhatja ezen helyszínek vonatkozásban árlépésköz alkalmazását.
 
-316/C. § A tőzsde, valamint a tőzsdei kereskedők összehangolják valamennyi jelentendő esemény dátumának és idejének rögzítésére alkalmazott üzleti óráikat.
+#### 316/C. §
 
 ### A tőzsde szabályzatai
 
@@ -2898,6 +2902,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 - b) a piac általános érdekeinek megfelelően a tőzsdei tevékenység, a kereskedés és az ezekről szóló információ átlátható és ellenőrizhető legyen, ezáltal teremtve meg a kereskedésben részt vevők esélyegyenlőségét, egyenlő elbírálását és a befektetők objektív piaci védelmét,
 - c) a tőzsde hatékony mechanizmusokkal segítse elő a rendszereiben végrehajtott ügyletek hatékony és határidőben történő véglegesítését, valamint
 - d) a tőzsde figyelemmel kísérje a tőzsdei kereskedők által a rendszereik keretében elküldött megbízásokat és törléseket, illetve az általuk végrehajtott ügyleteket annak érdekében, hogy azonosítsák a szabályok megsértését, a szabálytalan kereskedési feltételeket, az 596/2014/EU rendelet által tiltott magatartásra utaló magatartást vagy a rendszer zavarait valamely tőzsdei termékkel kapcsolatban.
+- e) a tőzsde rendelkezzen a 600/2014/EU európai parlamenti és tanácsi rendelet 22b. cikke szerinti adatminőségi előírásoknak megfelelő mechanizmusokkal.
 
 (4) A tőzsde szabályzatában meg kell határozni:
 
@@ -3966,6 +3971,8 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
 - a) a felfüggesztés visszavonása esetén és
 - b) az értesítési eljárás vonatkozásában a Felügyelet által alkalmazott, az (1) bekezdés h) és i) pontjai szerinti szankciókra vonatkozó határozatok esetén.
 
+(12) Ha a tőzsde a 316/A. §-ban foglaltak bekövetkezése esetén a kereskedést ideiglenesen nem állítja le, vagy nem korlátozza annak ellenére, hogy egy tőzsdei termék vagy kapcsolódó tőzsdei termék árában rövid időn belül jelentős változás következett be, amely egy vagy több piacon rendellenes kereskedési feltételeket eredményez, a Felügyelet a piac rendes működésének helyreállítása céljából megfelelő intézkedéseket, szankciókat alkalmaz, ideértve az (1) bekezdés i) és x) pontja szerinti szankciókat.
+
 ### A felügyeleti biztos
 
 401. § (1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha a központi szerződő fél, illetve központi értéktár
@@ -4864,5 +4871,6 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 33. A 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló 2022. december 14-i, (EU) 2022/2464 európai parlamenti és tanácsi irányelv.
 - 34. A pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
 - 35. A pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet.
+- 36. A pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez

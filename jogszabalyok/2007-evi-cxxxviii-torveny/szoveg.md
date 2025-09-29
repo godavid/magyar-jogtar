@@ -63,7 +63,7 @@ is alkalmazni kell.
 
 - a) arra a személyre vagy szervezetre, aki vagy amely árualapú származtatott terméktől, kibocsátási egységtől vagy az arra vonatkozó származtatott terméktől eltérő pénzügyi eszközre vonatkozó sajátszámlás kereskedésen kívül nem végez árualapú származtatott terméktől, kibocsátási egységtől vagy az arra vonatkozó származtatott terméktől eltérő pénzügyi eszközre vonatkozó egyéb befektetési szolgáltatási tevékenységet, kivéve, ha
   - aa) árjegyző,
-  - ab) szabályozott piac vagy multilaterális kereskedési rendszer tagja vagy közvetlen elektronikus hozzáférése van egy kereskedési helyszínhez, kivéve a kereskedési helyszínen olyan ügyleteket végrehajtó nem pénzügyi szervezetet, amely ügyletek objektíven mérhető módon csökkentik az adott nem pénzügyi szervezet vagy csoportjai kereskedelmi tevékenységhez vagy likviditásfinanszírozási tevékenységhez közvetlenül kapcsolódó kockázatait,
+  - ab) szabályozott piac vagy multilaterális kereskedési rendszer tagja, ide nem értve a kereskedési helyszínen olyan ügyleteket végrehajtó nem pénzügyi szervezetet, amely ügyletek objektíven mérhető módon csökkentik az adott nem pénzügyi szervezet vagy csoportjai kereskedelmi tevékenységhez vagy likviditásfinanszírozási tevékenységhez közvetlenül kapcsolódó kockázatait, vagy amely ügyletek a likviditáskezelés részei,
   - ac) nagysebességű algoritmikus kereskedési technikát alkalmaz,
   - ad) ügyfélmegbízások végrehajtásakor sajátszámlás kereskedést végez,
 - b) arra a személyre vagy szervezetre, aki kizárólag anyavállalata, leányvállalatai vagy az anyavállalata más leányvállalatai számára végez befektetési szolgáltatási tevékenységet,
@@ -111,16 +111,7 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 
 (5) A 8/A. §-t és a 107. §-t nem kell alkalmazni a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) 4. cikk (1) bekezdés 150. pontjában meghatározott árutőzsdei kereskedőkre és kibocsátásiegység-kereskedőkre, a biztosítókra és a befektetési alapkezelőkre.
 
-3/A. § (1) Minden multilaterális rendszert, amelyen pénzügyi eszközökkel kereskednek
-
-- a) az e törvény multilaterális kereskedési rendszerre vagy szervezett kereskedési rendszerre vonatkozó rendelkezései vagy
-- b) a Tpt. Kilencedik Részében meghatározott rendelkezések
-
-szerint kell működtetni, valamint a 600/2014/EU rendelet II. címével összhangban kell az a) és b) pont szerinti kereskedési helyszínek átláthatóságát biztosítani.
-
-(2) Minden olyan befektetési vállalkozást, amely szervezett, gyakori és rendszeres formában, jelentős nagyságrendben, az ügyfélmegbízások végrehajtásakor saját számlás kereskedést folytat szabályozott piacon, multilaterális kereskedési rendszeren vagy szervezett kereskedési rendszeren kívül, a 600/2014/EU rendelet III. címével összhangban kell működtetni.
-
-(3) A 600/2014/EU rendelet 23. és 28. cikkének sérelme nélkül, az (1) és (2) bekezdésben említett pénzügyi eszközökkel végrehajtott minden olyan ügyletnek, amely nem multilaterális rendszeren vagy rendszeres internalizálón keresztül jön létre, meg kell felelnie a 600/2014/EU rendelet III. címében foglalt vonatkozó rendelkezéseknek.
+#### 3/A. §
 
 3/B. § (1) A kis méretű és össze nem kapcsolt befektetési vállalkozásra – a 17. §-ban, a 19/A. §-ban, a 20/A. §-ban, a 21/A. § (2)–(4) bekezdésében, a 101. § (1) bekezdés b) pontjában, a 101. § (2)–(6) bekezdésében, a 123/A. § (1) és (2) bekezdésében, valamint a 4. mellékletben meghatározott rendelkezések kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
 
@@ -248,7 +239,7 @@ használnak,
 - 47. mezőgazdasági áru alapú származtatott ügyletek: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) 1. cikkében, I. mellékletének I–XX. részében és XXIV. rész 1. szakaszában felsorolt termékekhez, valamint a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében felsorolt termékekhez kapcsolódó származtatott ügyletek,
 - 48. miniszter: a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter,
 - 49. minisztérium: a miniszter által vezetett minisztérium,
-- 49a. multilaterális rendszer: valamely rendszer, amelyben több harmadik fél pénzügyi eszközökre irányuló vételi és eladási szándéka hozható össze a rendszeren belül,
+- 49a. multilaterális rendszer: a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 11. pontjában meghatározott fogalom,
 - 49b. nagykereskedelmi energiatermék: a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1227/2011/EU európai parlamenti és tanácsi rendelet) 2. cikkének 4. pontjában meghatározott nagykereskedelmi energiatermék,
 - 49c. nagysebességű algoritmikus kereskedési technika: bármely, az alábbi sajátosságokkal jellemezhető kereskedési technika:
   - a) a hálózati és egyéb típusú adatátviteli idő minimalizálását célzó infrastruktúra, amely az algoritmikus ajánlatbevitelre szolgáló következő lehetőségek közül legalább egyet magába foglal: szervereknek a kereskedési helyszínhez közeli vagy egy helyiségen belüli elhelyezése vagy nagy sebességű közvetlen elektronikus hozzáférés,
@@ -266,7 +257,9 @@ használnak,
 - 54. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 - 55. referenciaadat-szolgáltató: a befektetési hitel nyújtására engedéllyel rendelkező, illetőleg értékpapír- kölcsönzést végző befektetési vállalkozás,
 - 55a. rendkívüli állami pénzügyi támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás, vagy bármilyen más, nemzeti szinten nyújtva állami támogatásnak minősülő szupranacionális szintű állami pénzügyi támogatás, amelyet egy, az 1. § szerinti jogalany életképességének, likviditásának vagy fizetőképességének megőrzése vagy helyreállítása céljából nyújtanak,
-- 56. rendszeres internalizáló: az a befektetési vállalkozás, amely ügyfél részére szervezett keretek között, sajátszámlás kereskedés keretében gyakran, rendszeresen és jelentős nagyságrendben biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon, multilaterális kereskedési rendszeren és szervezett kereskedési rendszeren kívül, multilaterális rendszer működtetése nélkül hajtja végre,
+- 56. rendszeres internalizáló: az a befektetési vállalkozás, amely
+  - a) tulajdonviszonyt megtestesítő eszközökre szervezett keretek között, sajátszámlás kereskedés keretében rendszeresen biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon, multilaterális kereskedési rendszeren és szervezett kereskedési rendszeren kívül, multilaterális rendszer működtetése nélkül hajtja végre, vagy
+  - b) rendszeres internalizáló státuszát választja,
 - 57.
 - 58. saját számlás kereskedés: pénzügyi eszköz saját eszköz terhére történő adásvétele, cseréje,
 - 58a. strukturált betét: olyan a Hpt. 6. § (1) bekezdés 8. pontjában meghatározott betét, amelynek lejáratkor a teljes összegét vissza kell fizetni, olyan feltételek alapján, amelyek szerint az esedékes kamatok és prémiumok olyan képlet alapján fizetendők (vagy képezik kockázat tárgyát), amelyben szerepel a következő tényezők valamelyike:
@@ -1781,13 +1774,13 @@ helyezi el.
 
 (4) Az ügyfél számára legkedvezőbb végrehajtási lehetőség megállapítására vonatkozó vizsgálat során, ha a megbízás több, a befektetési vállalkozás 63. § (1) bekezdése szerinti szabályzatában felsorolt – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 64. cikk (1) bekezdésében meghatározott – végrehajtási helyszínen is teljesíthető, a befektetési vállalkozás – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 64. cikk (3) bekezdésében foglaltakra figyelemmel – az összehasonlításban figyelembe veszi az egyes végrehajtási helyszínekhez kapcsolódó saját jutalékait és egyéb, a végrehajtással összefüggő költségeit.
 
-(5) A befektetési vállalkozás nem fogadhat el semmilyen díjazást, kedvezményt vagy nem pénzbeli előnyt annak ellentételezéséül, hogy az ügyfél megbízásait egy meghatározott végrehajtási helyszínre irányítja.
+(5)
 
 (6) Ha a befektetési vállalkozás a (2) bekezdésben foglalt szempont vonatkozásában az ügyféltől határozott utasítást kapott, a megbízást ezen utasításnak megfelelően hajtja végre.
 
 (7) Az ügyfél kérésére a befektetési vállalkozás a végrehajtási politikában foglalt rendelkezések alkalmazásának bemutatásával igazolja, hogy az ügyfél megbízását a végrehajtási politikában foglaltaknak megfelelően hajtotta végre, és a Felügyelet kérésére igazolja, hogy e §-ban és a 63. §-ban foglaltaknak megfelelően járt el.
 
-(8) A befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről.
+(8) A 600/2014/EU európai parlamenti és tanácsi rendelet 23. és 28. cikkében előírt kereskedési kötelezettség tárgyát képező pénzügyi eszközök tekintetében a befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről.
 
 63. § (1) A befektetési vállalkozás a megbízás ügyfél számára következetesen legkedvezőbb végrehajtása érdekében követendő szabályokról – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 66. cikkében meghatározott – szabályzatot (a továbbiakban: végrehajtási politika) készít.
 
@@ -1797,9 +1790,9 @@ helyezi el.
 
 (4) Ha a végrehajtási politika rendelkezik arról a lehetőségről, hogy az ügyfélmegbízásokat kereskedési helyszínen kívül is végre lehet hajtani, a befektetési vállalkozásnak mindenképpen tájékoztatnia kell ügyfeleit erről a lehetőségről. Mielőtt a befektetési vállalkozás az ügyfél megbízásait kereskedési helyszínen kívül végrehajtaná, be kell szereznie ügyfelei kifejezett hozzájárulását. A befektetési vállalkozás ezt a hozzájárulást megszerezheti általános megállapodás formájában vagy az egyes ügyletek vonatkozásában.
 
-(5) Az ügyfélmegbízásokat végrehajtó befektetési vállalkozás minden eszközosztály tekintetében éves alapon összesíti és közzéteszi a kereskedési volumen szerinti első öt kereskedési helyszínt azok közül, amelyeken az előző évben ügyfélmegbízásokat végrehajtott, adatokat szolgáltatva egyúttal a végrehajtás minőségéről is.
+(5)
 
-(6) Az ügyfélmegbízásokat végrehajtó befektetési vállalkozás figyelemmel kíséri a végrehajtási politika hatékonyságát annak érdekében, hogy az esetleges hiányosságokat azonosítsa, és adott esetben orvosolja. Rendszeresen értékeli, hogy a végrehajtási politikában foglalt végrehajtási helyszínek a legjobb eredményt biztosítják-e az ügyfél számára, illetve hogy meg kell-e változtatnia a megbízások végrehajtására vonatkozó szabályait, tekintetbe véve többek között az (5) bekezdés és a 62. § (8) bekezdése szerint közzétett tájékoztatást is. A befektetési vállalkozás értesíti azon ügyfeleit a megbízások végrehajtására vonatkozó szabályai vagy végrehajtási politikája bármely lényeges változásáról, akikkel az adott időpontban ügyfélkapcsolatban áll.
+(6) Az ügyfélmegbízásokat végrehajtó befektetési vállalkozás figyelemmel kíséri a végrehajtási politika és a végrehajtásra vonatkozó szabályok megfelelőségének hatékonyságát annak érdekében, hogy az esetleges hiányosságokat azonosítsa és kezelje. Rendszeresen értékeli, hogy a végrehajtási politikában foglalt végrehajtási helyszínek a legjobb eredményt biztosítják-e az ügyfél számára, továbbá hogy meg kell-e változtatnia a megbízások végrehajtására vonatkozó szabályait, tekintetbe véve többek között a 62. § (8) bekezdése szerinti tájékoztatást is. A befektetési vállalkozás értesíti azon ügyfeleit a megbízások végrehajtására vonatkozó szabályai vagy végrehajtási politikája bármely lényeges változásáról, akikkel az adott időpontban ügyfélkapcsolatban áll.
 
 ### Az ügyfelek megbízásainak kezelése
 
@@ -3056,12 +3049,12 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 
 (3) A befektetési vállalkozás és a piacműködtető az MTF illetve az OTF működtetésével összefüggően keletkező károk fedezetére káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással rendelkezik.
 
-144/A. § (1) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et illetve OTF-et működtet, amelyen árualapú származtatott termékekkel kereskednek, pozíciókezelési kontrollmechanizmust alkalmaz.
+144/A. § (1) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységek származtatott termékeivel kereskednek, pozíciókezelési kontrollmechanizmust alkalmaz.
 
 (2) A pozíciókezelési kontrollmechanizmus legalább az alábbi hatásköröket foglalja magában:
 
 - a) a tagok és ügyfelek nyitott pozícióinak nyomon követése;
-- b) a tagoktól és ügyfelektől származó mindazon információ – így többek között minden dokumentum – beszerzése, amely a vállalt pozíció vagy kitettség nagyságára és rendeltetésére, továbbá a tényleges tulajdonosokra, bármely együttes fellépéssel kapcsolatos megegyezésre, valamint az alapul szolgáló eszközök piacán meglévő bármely kapcsolódó eszközre vagy kötelezettségre vonatkozik, beleértve adott esetben azokat a pozíciókat amelyeket az ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező árualapú származtatott termékekben, más kereskedési helyszíneken vagy gazdaságilag egyenértékű tőzsdén kívüli ügyletekben, tagokon és résztvevőkön keresztül tartanak;
+- b) a tagoktól és ügyfelektől származó mindazon információ – így többek között minden dokumentum – beszerzése, amely a vállalt pozíció vagy kitettség nagyságára és rendeltetésére, továbbá a tényleges tulajdonosokra, bármely együttes fellépéssel kapcsolatos megegyezésre, valamint az alapul szolgáló eszközök piacán meglévő bármely kapcsolódó eszközre vagy kötelezettségre vonatkozik, beleértve adott esetben azokat a pozíciókat, amelyeket a kibocsátási egységek származtatott termékeiben tartanak, vagy az ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező árualapú származtatott termékekben, más kereskedési helyszíneken vagy gazdaságilag egyenértékű tőzsdén kívüli ügyletekben, tagokon és résztvevőkön keresztül tartanak;
 - c) egy adott tag, illetve ügyfél kötelezése arra, hogy – ideiglenesen vagy tartósan – lezárja vagy csökkentse pozícióját, és a megfelelő intézkedés egyoldalú megtétele a lezárás vagy a csökkentés biztosítása érdekében, amennyiben az adott tag, illetve ügyfél nem tesz eleget a felszólításnak; valamint
 - d) adott esetben az érintett tag, illetve ügyfél kötelezése arra, hogy megállapodás szerinti áron és mértékben ideiglenesen, a jelentős vagy domináns pozíciójából fakadó hatások mérséklésének kifejezett szándékával irányítson vissza likviditást a piacra.
 
@@ -3069,28 +3062,32 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 
 (4) Az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek részletesen tájékoztatnia kell a Felügyeletet az általa alkalmazott pozíciókezelési kontrollmechanizmusról.
 
-144/B. § (1) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységekkel vagy azok származtatott eszközeivel kereskednek, heti jelentést hoz nyilvánosságra az MTF-en, illetve OTF-en kereskedett árualapú származtatott termékekre, kibocsátási egységekre, vagy az azok származtatott eszközeire vonatkozóan a személyek különböző kategóriái szerint összesített pozíciókról, megjelölve a hosszú és rövid pozíciók e kategóriák szerinti számát, az előző jelentés óta abban bekövetkezett változásokat, az összes nyitott pozíció százalékos arányát kategóriánként és a pozícióbirtokosok számát kategóriánként. A kategóriánkénti bontást a (4) bekezdésnek megfelelően kell értelmezni.
+144/B. § (1) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységek származtatott eszközeivel kereskednek, heti jelentést hoz nyilvánosságra az MTF-en, illetve OTF-en kereskedett árualapú származtatott termékekre, kibocsátási egységek származtatott eszközeire vonatkozóan a személyek különböző kategóriái szerint összesített pozíciókról, megjelölve a hosszú és rövid pozíciók e kategóriák szerinti számát, az előző jelentés óta abban bekövetkezett változásokat, az összes nyitott pozíció százalékos arányát kategóriánként és a pozícióbirtokosok számát kategóriánként. A kategóriánkénti bontást a (4) bekezdésnek megfelelően kell értelmezni.
 
-(2) Az (1) bekezdés szerinti heti jelentésre vonatkozó kötelezettséget csak abban az esetben kell teljesíteni, ha a személyek száma, és a nyitott pozícióik mértéke is meghaladja a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 83. cikkében meghatározott minimális küszöbértékeket. Ez esetben a heti jelentést a Felügyeletnek és az Európai Értékpapír-piaci Hatóságnak is meg kell küldeni.
+(1a) Ha az (1) bekezdésben meghatározott MTF-en vagy OTF-en opcióval kereskednek, az (1) bekezdésben meghatározott heti jelentésen túl a befektetési vállalkozás vagy piacműködtető további heti jelentést hoz nyilvánosságra, amely az opció kizárására szolgál.
 
-(3) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységekkel vagy azok származtatott eszközeivel kereskednek, legalább naponta egyszer átadja a Felügyeletnek az MTF-en, illetve OTF-en jelen lévő összes személy – többek között a tagok vagy résztvevők és azok ügyfelei – pozícióinak teljes körű bontását.
+(2) Az (1) és (1a) bekezdés szerinti heti jelentésre vonatkozó kötelezettséget csak abban az esetben kell teljesíteni, ha a személyek száma, és a nyitott pozícióik mértéke is meghaladja a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 83. cikkében meghatározott minimális küszöbértékeket. Ez esetben a heti jelentést a Felügyeletnek és az Európai Értékpapír-piaci Hatóságnak is meg kell küldeni.
+
+(3) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységek származtatott eszközeivel kereskednek, legalább naponta egyszer átadja a Felügyeletnek az MTF-en, illetve OTF-en jelen lévő összes személy – többek között a tagok vagy résztvevők és azok ügyfelei – pozícióinak teljes körű bontását.
 
 (3a) A pozíciók jelentése nem vonatkozik az olyan részvényen és kötvényen kívüli átruházható értékpapírra, amely feljogosít bármely ilyen átruházható értékpapír megszerzésére vagy eladására, vagy átruházható értékpapírokra, devizákra, kamatlábakra vagy hozamokra, árucikkekre vagy más indexekre vagy mértékekre történő hivatkozással meghatározott készpénzzel történő teljesítésre ad lehetőséget, amely áruhoz vagy a 6. § j) és k) pontjában felsorolt alaptermékhez kapcsolódik.
 
-(4) A valamely árualapú származtatott termékben vagy kibocsátási egységben vagy annak származtatott eszközében pozícióval rendelkező személyeket az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek a főtevékenységük jellegének megfelelően és az esetleges vonatkozó engedélyeket figyelembe véve, az alábbiak szerint kell csoportosítania:
+(4) A valamely árualapú származtatott termékben vagy kibocsátási egység származtatott eszközében pozícióval rendelkező személyeket az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek a főtevékenységük jellegének megfelelően és az esetleges vonatkozó engedélyeket figyelembe véve, az alábbiak szerint kell csoportosítania:
 
 - a) befektetési vállalkozások vagy hitelintézetek,
 - b) a Kbftv. szerinti befektetési alapok,
-- c) egyéb pénzügyi intézmények, ideértve a Bit. szerinti biztosítókat és viszontbiztosítókat és a a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény szerinti foglalkoztatói nyugdíjszolgáltató intézményeket,
-- d) a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 8. pontjában meghatározott nem pénzügyi szerződő felek,
-- e) a kibocsátási egységek vagy azok származtatott termékei esetében az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti üzemeltetők.
+- c) egyéb pénzügyi intézmények, ideértve a Bit. szerinti biztosítókat és viszontbiztosítókat és a a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény szerinti foglalkoztatói nyugdíj szolgáltató intézményeket,
+- d) a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontjában meghatározott nem pénzügyi szerződő felek,
+- e) a kibocsátási egységek származtatott termékei esetében az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti üzemeltetők.
 
-(5) Az (1) és a (3) bekezdésben említett bontásokban meg kell különböztetni:
+(5) Az (1), (1a) és a (3) bekezdésben említett bontásokban meg kell különböztetni
 
-- a) az olyan pozíciókat, amelyekre vonatkozóan megállapították, hogy objektíven mérhető módon csökkentik a közvetlenül a kereskedelmi tevékenységekkel kapcsolatos kockázatokat; valamint
-- b) egyéb pozíciókat.
+- a) az olyan pozíciókat, amelyekre vonatkozóan megállapították, hogy objektíven mérhető módon csökkentik a közvetlenül a kereskedelmi tevékenységekkel kapcsolatos kockázatokat, valamint
+- b) az egyéb pozíciókat.
 
-(6) Az (1) és (3) bekezdésnek való megfelelés lehetővé tétele érdekében az MTF tagjai és az OTF résztvevői az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek legalább naponta bejelentik saját maguk, valamint ügyfeleik által és azok ügyfelei által – a végső ügyfél eléréséig – az adott MTF-en, illetve OTF-en végrehajtott ügyletek révén tartott pozíciók adatait.
+(6) Az (1), (1a) és (3) bekezdésnek való megfelelés lehetővé tétele érdekében az MTF tagjai és az OTF résztvevői az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek legalább naponta bejelentik saját maguk, valamint ügyfeleik által és azok ügyfelei által – a végső ügyfél eléréséig – az adott MTF-en, illetve OTF-en végrehajtott ügyletek révén tartott pozíciók adatait.
+
+(7) Az e § szerinti jelentések nem érintik az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti jelentéstételi kötelezettségeket.
 
 145. § A befektetési vállalkozás és a piacműködtető az MTF, illetve az OTF működtetéséért felelős vezetőt (a továbbiakban: működtetési vezető) választ, aki felelős a multilaterális kereskedési rendszer működtetésére vonatkozó jogszabályokban és szabályzatokban foglaltak betartásáért, valamint kapcsolatot tart fenn a Felügyelettel.
 
@@ -3103,6 +3100,8 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 (4) A Felügyelet a (3) bekezdésben említett információt haladéktalanul az Európai Értékpapír-piaci Hatóság és az Európai Unió más tagállamainak hatáskörrel rendelkező felügyeleti hatóságai rendelkezésére bocsátja. Az értesítés előtt a Felügyelet meggyőződik az 596/2014/EU rendelet által tiltott magatartásra utaló magatartás valódiságáról.
 
 (5) Az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető indokolatlan késedelem nélkül eljuttatja a vonatkozó információkat az MTF-en vagy OTF-en elkövetett piaci visszaélésekkel kapcsolatos vizsgálat és vádemelés tekintetében hatáskörrel rendelkező hatósághoz és támogatja az erre vonatkozó hatósági eljárásokat.
+
+(6) Az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető rendelkezik a 600/2014/EU európai parlamenti és tanácsi rendelet 22b. cikke szerinti adatminőségi előírásoknak megfelelő mechanizmusokkal.
 
 ### XXIV. Fejezet — Az MTF ÉS AZ OTF MŰKÖDTETÉSÉNEK ENGEDÉLYEZÉSE
 
@@ -3373,7 +3372,7 @@ vonatkozó rendelkezések alkalmazandók.
 
 összege.
 
-### XXVI/A. Fejezet — ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE VONATKOZÓ POZÍCIÓLIMITEK
+### XXVI/A. Fejezet — ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE VONATKOZÓ POZÍCIÓLIMITEK, VALAMINT ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE ÉS KIBOCSÁTÁSI EGYSÉGEK SZÁRMAZTATOTT TERMÉKEIRE VONATKOZÓ POZÍCIÓKEZELÉSI KONTROLLMECHANIZMUSOK
 
 157/A. § (1) A Felügyelet az Európai Értékpapír-piaci Hatóság által meghatározott számítási módszertannal összhangban világos mennyiségi küszöbértékeket megtestesítő pozíciólimiteket állapít meg és alkalmaz a kereskedési helyszíneken kereskedett mezőgazdasági árualapú származtatott termékekre és a kritikus vagy jelentős árualapú származtatott termékekre, valamint a gazdaságilag egyenértékű, tőzsdén kívüli (OTC) ügyletekre vonatkozóan egy adott személy által bármely időpontban tartható nettó pozíció nagysága tekintetében. Az árualapú származtatott termékek akkor tekinthetők kritikusnak vagy jelentősnek, ha a záró pozícióval rendelkezők összes nettó pozíciójának összege megegyezik nyitott pozíciójuk nagyságával, és egy egyéves időszakra vetítve, átlagosan legalább 300 000 tételt tesz ki.
 
@@ -4405,6 +4404,7 @@ foglalt követelményeknek.
 - n) a 2014/65/EU irányelv tájékoztatási követelmények, termékirányítás és pozíciólimitek tekintetében, valamint a 2013/36/EU és az (EU) 2019/878 irányelv befektetési vállalkozásokra való alkalmazása tekintetében, a Covid19-válság utáni helyreállítás elősegítése érdekében történő módosításáról szóló, 2021. február 16-i (EU) 2021/338 európai parlamenti és tanácsi irányelv.
 - o) a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv,
 - p) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 2014/65/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról szóló, 2022. december 14-i (EU) 2022/2556 európai parlamenti és tanácsi irányelv.
+- q) pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 
