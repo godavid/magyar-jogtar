@@ -164,21 +164,37 @@ lép.
 
 #### 44. §
 
-#### 45. §
+45. § A Tpt. a következő 304/A. §-sal egészül ki:
 
-#### 46. §
+„304/A. § A szabályozott piacot működtető piacműködtető legalább három olyan, ténylegesen aktív taggal vagy felhasználóval rendelkezik, akik kölcsönösen együttműködhetnek az árképzés terén.”
 
-#### 47. §
+46. § (1) A Tpt. 316/A. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-#### 48. §
+„(6) A tőzsde rendszerei biztosítják a kereskedés ideiglenes leállításának vagy korlátozásának lehetőségét vészhelyzet esetén, vagy ha egy tőzsdei termék árában az adott tőzsdén vagy egy kapcsolódó kereskedési helyszínen, illetve rendszeres internalizáló esetén rövid időn belül jelentős változás következett be, valamint – kivételes, a tőzsdei szabályzatban meghatározott esetekben és eljárás szerint – bármely ügylet törlését, megváltoztatását vagy korrigálását. A tőzsde a kereskedés leállítására vagy korrigálására vonatkozó paraméterek megállapítása során figyelembe veszi a különböző eszközosztályok és -alosztályok likviditását, a piaci modellek jellegét és a felhasználók típusait, és biztosítja a kereskedés szabályszerűségében bekövetkező jelentős zavarok elkerülését.”
 
-#### 49. §
+(2) A Tpt. 316/A. §-a a következő (6a) bekezdéssel egészül ki:
 
-50. § (1)
+„(6a) A tőzsde honlapján közzéteszi a kereskedés ideiglenes leállításához vagy korlátozásához vezető körülményekre, és a leállítás vagy korlátozás alkalmazásához kapcsolódó fő paraméterek meghatározására szolgáló elveket.”
+
+47. § A Tpt. 316/B. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az Európai Unión kívül kibocsátott ISIN azonosítóval rendelkező részvények vonatkozásában, vagy olyan Európai Unión belül kibocsátott ISIN azonosítóval rendelkező részvények vonatkozásában, amelyekkel olyan harmadik országbeli helyszínen kereskednek helyi pénznemben vagy Európai Unión kívüli pénznemben a 600/2014/EU európai parlamenti és tanácsi rendelet 23. cikk (1) bekezdés a) pontjában említettek szerint, amelyek tekintetében a likviditás szempontjából leginkább érintett piacnak számító helyszín egy harmadik országban található, a tőzsde előírhatja ezen helyszínek vonatkozásban árlépésköz alkalmazását.”
+
+48. § A Tpt. 317. § (3) bekezdése a következő e) ponttal egészül ki:
+
+(A tőzsdei szabályzatoknak biztosítaniuk kell, hogy)
+
+„e) a tőzsde rendelkezzen a 600/2014/EU európai parlamenti és tanácsi rendelet 22b. cikke szerinti adatminőségi előírásoknak megfelelő mechanizmusokkal.”
+
+49. § A Tpt. 400. §-a a következő (12) bekezdéssel egészül ki:
+
+„(12) Ha a tőzsde a 316/A. §-ban foglaltak bekövetkezése esetén a kereskedést ideiglenesen nem állítja le, vagy nem korlátozza annak ellenére, hogy egy tőzsdei termék vagy kapcsolódó tőzsdei termék árában rövid időn belül jelentős változás következett be, amely egy vagy több piacon rendellenes kereskedési feltételeket eredményez, a Felügyelet a piac rendes működésének helyreállítása céljából megfelelő intézkedéseket, szankciókat alkalmaz, ideértve az (1) bekezdés i) és x) pontja szerinti szankciókat.”
+
+50. § (1) A Tpt. 25. számú melléklete az 1. melléklet 1. pontja szerint módosul.
 
 (2)
 
-#### 51. §
+51. § Hatályát veszti a Tpt. „Az üzleti órák összehangolása” alcíme.
 
 #### 16. A fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény módosítása
 
@@ -232,33 +248,106 @@ lép.
 
 #### 23. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-#### 70. §
+70. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 2. § a) pont ab) alpontja helyébe a következő rendelkezés lép:
+
+(E törvény hatálya nem terjed ki
+
+arra a személyre vagy szervezetre, aki vagy amely árualapú származtatott terméktől, kibocsátási egységtől vagy az arra vonatkozó származtatott terméktől eltérő pénzügyi eszközre vonatkozó sajátszámlás kereskedésen kívül nem végez árualapú származtatott terméktől, kibocsátási egységtől vagy az arra vonatkozó származtatott terméktől eltérő pénzügyi eszközre vonatkozó egyéb befektetési szolgáltatási tevékenységet, kivéve, ha)
+
+  - „ab) szabályozott piac vagy multilaterális kereskedési rendszer tagja, ide nem értve a kereskedési helyszínen olyan ügyleteket végrehajtó nem pénzügyi szervezetet, amely ügyletek objektíven mérhető módon csökkentik az adott nem pénzügyi szervezet vagy csoportjai kereskedelmi tevékenységhez vagy likviditásfinanszírozási tevékenységhez közvetlenül kapcsolódó kockázatait, vagy amely ügyletek a likviditáskezelés részei,”
 
 71. § (1)
 
-(2)
+(2) A Bszt. 4. § (2) bekezdés 49a. pontja helyébe a következő rendelkezés lép:
+
+(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban)
+
+„49a. multilaterális rendszer: a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 11. pontjában meghatározott fogalom,”
 
 (3)
 
-(4)
+(4) A Bszt. 4. § (2) bekezdés 56. pontja helyébe a következő rendelkezés lép:
+
+(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban)
+
+„56. rendszeres internalizáló: az a befektetési vállalkozás, amely
+
+a) tulajdonviszonyt megtestesítő eszközökre szervezett keretek között, sajátszámlás kereskedés keretében rendszeresen biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon, multilaterális kereskedési rendszeren és szervezett kereskedési rendszeren kívül, multilaterális rendszer működtetése nélkül hajtja végre, vagy
+
+b) rendszeres internalizáló státuszát választja,”
 
 (5)
 
 #### 72. §
 
-#### 73. §
+73. § A Bszt. 62. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-#### 74. §
+„(8) A 600/2014/EU európai parlamenti és tanácsi rendelet 23. és 28. cikkében előírt kereskedési kötelezettség tárgyát képező pénzügyi eszközök tekintetében a befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről.”
+
+74. § A Bszt. 63. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az ügyfélmegbízásokat végrehajtó befektetési vállalkozás figyelemmel kíséri a végrehajtási politika és a végrehajtásra vonatkozó szabályok megfelelőségének hatékonyságát annak érdekében, hogy az esetleges hiányosságokat azonosítsa és kezelje. Rendszeresen értékeli, hogy a végrehajtási politikában foglalt végrehajtási helyszínek a legjobb eredményt biztosítják-e az ügyfél számára, továbbá hogy meg kell-e változtatnia a megbízások végrehajtására vonatkozó szabályait, tekintetbe véve többek között a 62. § (8) bekezdése szerinti tájékoztatást is. A befektetési vállalkozás értesíti azon ügyfeleit a megbízások végrehajtására vonatkozó szabályai vagy végrehajtási politikája bármely lényeges változásáról, akikkel az adott időpontban ügyfélkapcsolatban áll.”
 
 #### 75. §
 
-#### 76. §
+76. § (1) A Bszt. 144/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 77. §
+„(1) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységek származtatott termékeivel kereskednek, pozíciókezelési kontrollmechanizmust alkalmaz.”
 
-#### 78. §
+(2) A Bszt. 144/A. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-#### 79. §
+(A pozíciókezelési kontrollmechanizmus legalább az alábbi hatásköröket foglalja magában:)
+
+„b) a tagoktól és ügyfelektől származó mindazon információ – így többek között minden dokumentum – beszerzése, amely a vállalt pozíció vagy kitettség nagyságára és rendeltetésére, továbbá a tényleges tulajdonosokra, bármely együttes fellépéssel kapcsolatos megegyezésre, valamint az alapul szolgáló eszközök piacán meglévő bármely kapcsolódó eszközre vagy kötelezettségre vonatkozik, beleértve adott esetben azokat a pozíciókat, amelyeket a kibocsátási egységek származtatott termékeiben tartanak, vagy az ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező árualapú származtatott termékekben, más kereskedési helyszíneken vagy gazdaságilag egyenértékű tőzsdén kívüli ügyletekben, tagokon és résztvevőkön keresztül tartanak;”
+
+77. § (1) A Bszt. 144/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységek származtatott eszközeivel kereskednek, heti jelentést hoz nyilvánosságra az MTF-en, illetve OTF-en kereskedett árualapú származtatott termékekre, kibocsátási egységek származtatott eszközeire vonatkozóan a személyek különböző kategóriái szerint összesített pozíciókról, megjelölve a hosszú és rövid pozíciók e kategóriák szerinti számát, az előző jelentés óta abban bekövetkezett változásokat, az összes nyitott pozíció százalékos arányát kategóriánként és a pozícióbirtokosok számát kategóriánként. A kategóriánkénti bontást a (4) bekezdésnek megfelelően kell értelmezni.”
+
+(2) A Bszt. 144/B. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha az (1) bekezdésben meghatározott MTF-en vagy OTF-en opcióval kereskednek, az (1) bekezdésben meghatározott heti jelentésen túl a befektetési vállalkozás vagy piacműködtető további heti jelentést hoz nyilvánosságra, amely az opció kizárására szolgál.”
+
+(3) A Bszt. 144/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) és (1a) bekezdés szerinti heti jelentésre vonatkozó kötelezettséget csak abban az esetben kell teljesíteni, ha a személyek száma, és a nyitott pozícióik mértéke is meghaladja a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 83. cikkében meghatározott minimális küszöbértékeket. Ez esetben a heti jelentést a Felügyeletnek és az Európai Értékpapír-piaci Hatóságnak is meg kell küldeni.”
+
+(4) A Bszt. 144/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységek származtatott eszközeivel kereskednek, legalább naponta egyszer átadja a Felügyeletnek az MTF-en, illetve OTF-en jelen lévő összes személy – többek között a tagok vagy résztvevők és azok ügyfelei – pozícióinak teljes körű bontását.”
+
+(5) A Bszt. 144/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A valamely árualapú származtatott termékben vagy kibocsátási egység származtatott eszközében pozícióval rendelkező személyeket az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek a főtevékenységük jellegének megfelelően és az esetleges vonatkozó engedélyeket figyelembe véve, az alábbiak szerint kell csoportosítania:
+
+- a) befektetési vállalkozások vagy hitelintézetek,
+- b) a Kbftv. szerinti befektetési alapok,
+- c) egyéb pénzügyi intézmények, ideértve a Bit. szerinti biztosítókat és viszontbiztosítókat és a a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény szerinti foglalkoztatói nyugdíj szolgáltató intézményeket,
+- d) a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontjában meghatározott nem pénzügyi szerződő felek,
+- e) a kibocsátási egységek származtatott termékei esetében az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti üzemeltetők.”
+
+(6) A Bszt. 144/B. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az (1), (1a) és a (3) bekezdésben említett bontásokban meg kell különböztetni
+
+- a) az olyan pozíciókat, amelyekre vonatkozóan megállapították, hogy objektíven mérhető módon csökkentik a közvetlenül a kereskedelmi tevékenységekkel kapcsolatos kockázatokat, valamint
+- b) az egyéb pozíciókat.”
+
+(7) A Bszt. 144/B. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az (1), (1a) és (3) bekezdésnek való megfelelés lehetővé tétele érdekében az MTF tagjai és az OTF résztvevői az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek legalább naponta bejelentik saját maguk, valamint ügyfeleik által és azok ügyfelei által – a végső ügyfél eléréséig – az adott MTF-en, illetve OTF-en végrehajtott ügyletek révén tartott pozíciók adatait.”
+
+(8) A Bszt. 144/B. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Az e § szerinti jelentések nem érintik az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti jelentéstételi kötelezettségeket.”
+
+78. § A Bszt. 145/A. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető rendelkezik a 600/2014/EU európai parlamenti és tanácsi rendelet 22b. cikke szerinti adatminőségi előírásoknak megfelelő mechanizmusokkal.”
+
+79. § A Bszt. XXVI/A. Fejezet címe helyébe a következő cím lép:
+
+### „XXVI/A. Fejezet — ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE VONATKOZÓ POZÍCIÓLIMITEK, VALAMINT ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE ÉS KIBOCSÁTÁSI EGYSÉGEK SZÁRMAZTATOTT TERMÉKEIRE VONATKOZÓ POZÍCIÓKEZELÉSI KONTROLLMECHANIZMUSOK”
 
 #### 80. §
 
@@ -268,13 +357,17 @@ lép.
 
 #### 83. §
 
-#### 84. §
+84. § A Bszt. 183. § (1) bekezdése a következő q) ponttal egészül ki:
+
+(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„q) pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.”
 
 #### 85. §
 
 #### 86. §
 
-#### 87. §
+87. § Hatályát veszti a Bszt. 3/A. §-a, 62. § (5) bekezdése, valamint 63. § (5) bekezdése.
 
 #### 24. A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény módosítása
 
@@ -360,8 +453,8 @@ lép.
 
 120. § Az Fsztv.
 
-- a)
-- b)
+- a) 2. § (1) bekezdésében az „a 66. §, a 72–79. §, a 82. § és a 83. §” szövegrész helyébe az „a 66. §, a 70. §, a 72–79. §, a 82. §, a 83. § és a 88. § c) pontja” szöveg,
+- b) 2. § (2) bekezdésében az „a 66. §, a 72–79. §” szövegrész helyébe az „a 66. §, a 70. §, a 72–79. §, a 82. §, a 83. § és a 88. § c) pontja” szöveg,
 - c)
 - d)
 
@@ -822,7 +915,11 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2025. évi LXVII. törvényhez
 
-- 1.
+- 1. A Tpt. 25. számú melléklete a következő 36. ponttal egészül ki:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+- „36. A pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.”
 - 2.
 
 ### 2. melléklet a 2025. évi LXVII. törvényhez
