@@ -509,7 +509,7 @@ szolgáltatások
 
 támogatást állapít meg,
 
-- b) azt a finanszírozott egészségügyi szolgáltató e jogosultságra kijelölt orvosa, illetve az egészségbiztosítóval e jogosultságra szerződést kötött orvos rendeli, és
+- b) azt a finanszírozott egészségügyi szolgáltató e jogosultságra kijelölt orvosa, illetve az egészségbiztosítóval e jogosultságra szerződést kötött orvos, vagy az egészségügyért felelős miniszter rendeletében meghatározott esetekben gyógyszerész, okleveles kiterjesztett hatáskörű ápoló rendeli, és
 - c) a rendelés a (4) bekezdésben foglaltak szerint történik, és
 - d) az adott gyógyászati segédeszköz árához, illetve kölcsönzési díjához az egészségbiztosító a külön jogszabályban meghatározott eljárásrend szerint támogatást állapít meg, továbbá javítási díjához, illetőleg a gyógyászati ellátás árához külön jogszabály támogatást rendel, és
 - e) a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben meghatározott egyes gyógyászati segédeszköz kiszolgáltatásához az egészségbiztosító ellenőrző főorvosa a miniszteri rendeletben foglaltak szerint ellenjegyzésével hozzájárult, és
@@ -823,7 +823,7 @@ köthető finanszírozási szerződés.
 
 (1c) Az egészségbiztosítási ellátás keretében diagnosztikai célból kizárólag az (1b) bekezdésnek megfelelő egészségügyi szolgáltató által közvetlenül elvégzett CT-MRI vizsgálat végezhető, a finanszírozási szerződésben ezen eljárások tekintetében közreműködő igénybevétele – az (1b) bekezdés szerinti szolgáltatók által biztosított közreműködés kivételével – a tárgyi és személyi feltételek biztosítása érdekében nem köthető ki.
 
-(2) Az (1) bekezdésben foglaltakon túl gyógyszer árhoz nyújtott támogatással történő kiszolgáltatására, gyógyászati segédeszköz árhoz nyújtott támogatással történő forgalmazására, kölcsönzésére, javítására és amennyiben a gyártó az eszköz kiszolgáltatását is végzi, egyedi méretvétel alapján történő gyártására (a továbbiakban együtt: forgalmazás), valamint gyógyászati ellátás támogatással történő nyújtására az egészségbiztosító szerződést köt a szolgáltatóval, amennyiben az
+(2) Az (1) bekezdésben foglaltakon túl gyógyszer árhoz nyújtott támogatással történő kiszolgáltatására, az egészségügyért felelős miniszter rendeletében meghatározott esetekben gyógyszer rendelésére, gyógyászati segédeszköz árhoz nyújtott támogatással történő forgalmazására, kölcsönzésére, javítására és amennyiben a gyártó az eszköz kiszolgáltatását is végzi, egyedi méretvétel alapján történő gyártására (a továbbiakban együtt: forgalmazás), valamint gyógyászati ellátás támogatással történő nyújtására az egészségbiztosító szerződést köt a szolgáltatóval, amennyiben az
 
 - a) erre külön jogszabályban foglaltak szerint jogosult, valamint
 - b) megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek, így különösen a finanszírozással kapcsolatos adatkezeléssel, adatellenőrzéssel és a társadalombiztosítási támogatás elszámolásával kapcsolatos személyi és tárgyi feltételeknek,
@@ -856,7 +856,7 @@ köthető finanszírozási szerződés.
 
 - a) a lekötött kapacitáson nyújtandó szolgáltatásokat szakmánkénti bontásban, a területi ellátási kötelezettség és a rendelkezésre állás megjelölésével, ideértve azt is, hogy az adott szolgáltatást saját maga vagy közreműködő egészségügyi szolgáltató igénybevételével nyújtja,
 - b) a tárgyi és személyi feltételek azonosítására szolgáló, a hatáskörrel és illetékességgel rendelkező hatóság által vezetett nyilvántartás szerinti adatot, valamint a szolgáltatás nyújtásához rendelkezésre álló, a finanszírozás szempontjából meghatározó feltételeket,
-- c) az egészségügyi szakellátásra történő beutalásra jogosult, a táppénzfizetés alapjául szolgáló keresőképesség elbírálására, továbbá a gyógyszer, gyógyászati segédeszköz és ellátás támogatással történő rendelésére jogosult orvos családi és utónevét, orvosi bélyegzőjének számát,
+- c) az egészségügyi szakellátásra történő beutalásra jogosult, a táppénzfizetés alapjául szolgáló keresőképesség elbírálására, továbbá a gyógyszer, gyógyászati segédeszköz és ellátás támogatással történő rendelésére jogosult orvos családi és utónevét, orvosi bélyegzőjének számát, valamint a gyógyszer támogatással történő rendelésére jogosult okleveles kiterjesztett hatáskörű ápoló családi és utónevét,
 - d) az egészségügyi szolgáltató adatszolgáltatási kötelezettségét,
 - e) a külön jogszabály rendelkezései szerinti feltételeket,
 - f) a külön jogszabályban meghatározott esetben az elszámolható szolgáltatások mennyiségi korlátjait,
@@ -1077,7 +1077,7 @@ alapuló rendszerben történik.
 
 (8) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz vagy gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást nem a finanszírozási eljárásrendnek megfelelően, ennek hiányában nem a kiemelt és emelt társadalombiztosítási támogatásra jogosító indikációnak megfelelően vagy jogosulatlanul rendelt. Amennyiben a gyógyszer, gyógyászati segédeszköz vagy gyógyászati ellátás rendelése a rendelés időpontjában érvényes szakorvosi javaslat alapján történt és az (5a) bekezdésben foglaltak nem állnak fenn, a szakorvosi javaslatot adó, finanszírozási szerződéssel rendelkező szolgáltató téríti meg a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
 
-(9) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással való rendelésére a 32. § szerinti szerződés alapján jogosult orvos tekintetében az (5)–(8) bekezdésben foglaltakat megfelelően alkalmazni kell.
+(9) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással való rendelésére a 32. § szerinti szerződés alapján jogosult orvos, valamint a gyógyszer társadalombiztosítási támogatással történő rendelésére jogosult gyógyszerész, okleveles kiterjesztett hatáskörű ápoló tekintetében az (5)–(8) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 (10) Az (1)–(9) bekezdés, a (12) bekezdés, valamint a 31. § (6) bekezdése, a 33. § (5) bekezdése és a 35. § (6) bekezdése szerinti követelést az egészségbiztosító jogosult az igénybe vett finanszírozás, illetve az ártámogatás folyósítását követő öt éven belül a finanszírozás elszámolása során is érvényesíteni.
 

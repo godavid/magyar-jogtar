@@ -280,6 +280,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 - i) véleményezi az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételeit,
 - j) hitel-betét műveleteket végez,
 - k) közreműködik az állami kezesség, garancia melletti hitel- és kölcsönfelvétellel, hitelviszonyt megtestesítő értékpapír kibocsátással kapcsolatos feladatok ellátásában.
+- l) az a) pont szerinti tevékenysége keretében, a helyi önkormányzatok befektetési lehetőségeinek biztosítása érdekében, piaci kamatokhoz illeszkedő, kizárólag a helyi önkormányzatok részére kibocsátásra kerülő állampapír forgalomba hozatalát szervezi.
 
 (2) Az ÁKK Zrt. az (1) bekezdés i) pontja szerinti közreműködésért a központi költségvetés terhére az alapügyben szereplő tőke összege legfeljebb 0,025 százalékának megfelelő díjazásban részesül. Az ÁKK Zrt. e feladatának és díjazásának részletes szabályait a Kormány rendeletben határozza meg.
 
