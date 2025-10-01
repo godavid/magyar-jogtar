@@ -112,10 +112,10 @@ Magyarország versenyképességének javítása érdekében egyes törvények m�
 
 27. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény
 
-- a)
-- b)
-- c)
-- d)
+- a) 21. § (1) bekezdés b) pontjában az „orvos rendeli” szövegrész helyébe az „orvos, vagy az egészségügyért felelős miniszter rendeletében meghatározott esetekben gyógyszerész, okleveles kiterjesztett hatáskörű ápoló rendeli” szöveg,
+- b) 30. § (2) bekezdés nyitó szövegrészében a „kiszolgáltatására” szövegrész helyébe a „kiszolgáltatására, az egészségügyért felelős miniszter rendeletében meghatározott esetekben gyógyszer rendelésére” szöveg,
+- c) 31. § (1) bekezdés c) pontjában a „számát” szövegrész helyébe a „számát, valamint a gyógyszer támogatással történő rendelésére jogosult okleveles kiterjesztett hatáskörű ápoló családi és utónevét” szöveg,
+- d) 37. § (9) bekezdésében az „orvos tekintetében” szövegrész helyébe az „orvos, valamint a gyógyszer társadalombiztosítási támogatással történő rendelésére jogosult gyógyszerész, okleveles kiterjesztett hatáskörű ápoló tekintetében” szöveg,
 - e)
 
 lép.
@@ -204,11 +204,15 @@ lép.
 
 #### 61. §
 
-#### 18.
+#### 18. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-#### 62. §
+62. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gyógyszer tv.) 25. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 63. §
+„(1a) Az (1) bekezdésben foglaltakon túl gyógyszerrendelésre jogosult – az egészségügyért felelős miniszternek az államháztartásért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott esetekben – a működési nyilvántartásban szereplő gyógyszerész és okleveles kiterjesztett hatáskörű ápoló végzettséggel rendelkező személy.”
+
+63. § A Gyógyszer tv. 32. §-a a következő (11) bekezdéssel egészül ki:
+
+„(11) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a gyógyszerész és az okleveles kiterjesztett hatáskörű ápoló végzettséggel rendelkező személy gyógyszerrendelésére vonatkozó eseteket és feltételeket rendeletben határozza meg.”
 
 #### 19. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
@@ -222,9 +226,9 @@ lép.
 
 #### 67. §
 
-#### 21.
+#### 21. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-#### 68. §
+68. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 3. § 12. pontjában az „a gyógyszerész, a gyógyszerek” szövegrész helyébe az „a gyógyszerész, az okleveles kiterjesztett hatáskörű ápoló, a gyógyszerek” szöveg lép.
 
 #### 22. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 

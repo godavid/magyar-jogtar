@@ -99,7 +99,11 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 3. § (1)
 
-(2)
+(2) Az Szja tv. 3. §-a a következő 57. ponttal egészül ki:
+
+(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
+
+„57. A három gyermeket nevelő anyák kedvezménye: a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény.”
 
 (3)
 
@@ -111,25 +115,61 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 5. § (1)
 
-(2)
+(2) Az Szja tv. 29/H. §-a helyébe a következő rendelkezés lép:
+
+„29/H. § (1) Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje:
+
+- a) a négy vagy több gyermeket nevelő anyák kedvezménye vagy a három gyermeket nevelő anyák kedvezménye,
+- b) a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye,
+- c) a 25 év alatti fiatalok kedvezménye,
+- d) a 30 év alatti anyák kedvezménye,
+- e) személyi kedvezmény,
+- f) az első házasok kedvezménye,
+- g) családi kedvezmény.
+
+(2) Amennyiben a gyermeket nevelő anya jogosultsága 2025. október 1-jét követően a három gyermeket nevelő anyák kedvezményére vagy a négy vagy több gyermeket nevelő anyák kedvezményére az év végéig az időszak egészére úgy áll fenn, hogy annak jogcíme megváltozik, a kedvezményt a 2025. október 1. napján érvényesíthető kedvezmény jogcíme alapján lehet igénybe venni. Ilyen esetben új adóelőleg-nyilatkozat megtételére és a kedvezmény alapjául szolgáló jövedelmek jogcímek közötti megosztására nincs szükség.”
 
 (3)
 
 6. § (1)
 
-(2)
+(2) Az Szja tv. 46. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett
+
+- a) négy vagy több gyermeket nevelő anyák kedvezményét vagy a három gyermeket nevelő anyák kedvezményét,
+- b) csecsemőgondozási díj, gyermekgondozási díj és örökbefogadói díj kedvezményét,
+- c) 25 év alatti fiatalok kedvezményét,
+- d) 30 év alatti anyák kedvezményét,
+- e) személyi kedvezményt,
+- f) első házasok kedvezményét,
+- g) családi kedvezményt.”
 
 (3)
 
-7. § (1)
+7. § (1) Az Szja tv. 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az adóelőleg-nyilatkozatban a magánszemély az adott esettől függően nyilatkozik
+
+- a) a bevétel adóelőleg-alapjának megállapításához levonandó költségről, költséghányadról,
+- b) az első házasok kedvezményének érvényesítéséről,
+- c) a családi kedvezmény érvényesítéséről, közös érvényesítéséről,
+- d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni,
+- e) a négy vagy több gyermeket nevelő anyák kedvezményének érvényesítéséről,
+- f) a három gyermeket nevelő anyák kedvezményének érvényesítéséről,
+- g) a 30 év alatti anyák kedvezményének érvényesítéséről.”
 
 (2)
 
-(3)
+(3) Az Szja tv. 48. § (3b) bekezdése helyébe a következő rendelkezés lép:
+
+„(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye és a három gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, a 29/D. § (3) és (3a) bekezdése, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (3) és (4) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.”
 
 (4)
 
-(5)
+(5) Az Szja tv. 48. § (3c) bekezdése helyébe a következő rendelkezés lép:
+
+„(3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti és a három gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.”
 
 (6)
 
@@ -141,11 +181,17 @@ egyes adókötelezettségekről és egyes adótörvények módosításáról
 
 8. § (1)
 
-(2)
+(2) Az Szja tv. 49. § (1) és (1a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a három gyermeket nevelő anyák kedvezményét, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét, a 25 év alatti fiatalok kedvezményét, a 30 év alatti anyák kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az e törvény 8. §-a szerinti adómértékkel számított összeg, figyelemmel a (3) és (4) bekezdésben foglalt rendelkezésekre is.
+
+(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét érvényesítő magánszemély a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti, valamint a három gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.”
 
 (3)
 
-(4)
+(4) Az Szja tv. 49. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély, a három gyermeket nevelő anyák kedvezményére jogosult magánszemély kedvezményre való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi, jogosultsági időszakban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a jogosultsági időszak hónapjával (hónapjaival) arányos részeként kell figyelembe venni.”
 
 (5)
 
@@ -250,15 +296,26 @@ lép.
 
 #### 37. §
 
-#### 38. §
+38. § Az Áfa tv. a következő 373. §-sal egészül ki:
 
-#### 39. §
+„373. § E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 129. § (5) bekezdés c) és d) pontját a 2025. október 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallások tekintetében kell először alkalmazni.”
+
+39. § Az Áfa tv. a következő 374. §-sal egészül ki:
+
+„374. § E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 6/C. számú melléklet 1a. és 2a. pontját a 2025. október 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallások tekintetében kell először alkalmazni.”
 
 #### 40. §
 
 #### 41. §
 
-#### 42. §
+42. § Az Áfa tv.
+
+- a) 129. § (5) bekezdés c) pontjában az „alapjáról” szövegrész helyébe a „forintban meghatározott alapjáról” szöveg,
+- b) 129. § (5) bekezdés d) pontjában az „összegéről” szövegrész helyébe a „forintban meghatározott összegéről” szöveg,
+- c) 6/C. számú melléklet 1a. pontjában a „köbméterben” szövegrész helyébe a „MWh-ban” szöveg,
+- d) 6/C. számú melléklet 2a. pontjában a „köbméterben” szövegrész helyébe a „MWh-ban” szöveg,
+
+lép.
 
 #### 43. §
 
@@ -456,8 +513,8 @@ lép.
 
 114. § Az Art.
 
-- 1.
-- 2.
+- 1. 50. § (2) bekezdés 7a. pont nyitó szövegrészében az „Szja tv. 29/D. §” szövegrész helyébe az „Szja tv. 29/D. § szerinti kedvezmény, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény és a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény” szöveg,
+- 2. 50. § (2) bekezdés 7a. pont b) alpontjában az „Szja tv. 29/D. § (2) bekezdés” szövegrész helyébe az „Szja tv. 29/D. § (2) bekezdése szerint, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerint, a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény 1. § (2) bekezdése” szöveg,
 - 3.
 - 4.
 - 5.

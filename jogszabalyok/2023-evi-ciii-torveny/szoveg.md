@@ -1099,15 +1099,7 @@ kormányrendelet állapítja meg.
 
 (4) A támogató szolgáltatás, valamint a piaci szereplők részére nyújtható központi állami szolgáltatás (e § alkalmazásában a továbbiakban együtt: Szolgáltatás) e fejezet szerinti igénybevétele feltételeinek, a Szolgáltatásra vonatkozó jogszabályokban előírt jogok és kötelezettségek teljesítését a digitális szolgáltatások felügyelete a 38. alcím szerint ellenőrzi azzal, hogy a felügyeleti vizsgálat tekintetében a Szolgáltatást szabályozott elektronikus ügyintézési szolgáltatásnak, a Szolgáltatás igénybevevőjét digitális szolgáltatást biztosító szervezetnek, a Szolgáltatás igénybevevőjével elektronikusan kapcsolatot tartó személyt vagy szervet felhasználónak kell tekinteni.
 
-66. § (1) A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 1. § (1) és (1a) bekezdése szerinti szolgáltató (a továbbiakban e § alkalmazásában: szolgáltató) részére, a szolgáltató kérelme esetén a Kormány által biztosított elektronikus ügyintézési szolgáltatások közül a központi azonosítási ügynök szolgáltatást, a Kormány által biztosított elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartást és a központi kormányzati szolgáltatási buszt a Kormány által kijelölt szolgáltató a Pmt. szerinti ügyfél-átvilágítás (a továbbiakban: ügyfél-átvilágítás) céljára, közérdekből díjmentesen biztosítja.
-
-(2) A szolgáltató az ügyfél-átvilágítás során, az elektronikus azonosítás keretében a felhasználó nevét, születési nevét, anyja nevét, születési helyét és idejét a központi azonosítási ügynök szolgáltatáson és az összerendelési nyilvántartáson keresztül, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz. tv.) 10/E. §-a szerint gépi kapcsolat útján veszi át.
-
-(3) A (2) bekezdés szerinti adatszolgáltatást az állam az ügyfél-átvilágítás esetében díjmentesen biztosítja a szolgáltató számára.
-
-(4) A sikeres azonosítást követően a szolgáltató a felhasználó a Pmt. 7. § (2) bekezdés a) pont ac), af) és ag) alpontja szerinti adatát, aláírását, valamint arcképmását a közhiteles hatósági nyilvántartásokból díjmentesen veszi át.
-
-(5) A szolgáltató a Pmt. 7. § (2) bekezdés a) pont ag) alpontja szerinti adatot elsősorban a 42. § (2) bekezdése szerinti nyilvántartásból, ha a felhasználó ezen nyilvántartásban nem rögzített személyazonosításra alkalmas hatósági igazolvánnyal rendelkezik, az útiokmány-nyilvántartásból, ha a felhasználó útlevéllel sem rendelkezik, akkor a közúti közlekedési engedély-nyilvántartásából veszi át. A pénz- és hitelintézet a felhasználó személyazonosításra alkalmas hatósági igazolványához tartozó aláírás- és arcképmás-adatot veszi át.
+#### 66. §
 
 ### X. Fejezet — ELEKTRONIKUS ÜGYINTÉZÉST IGÉNYBE VEVŐ KÜLFÖLDI SZEMÉLYEK NYILVÁNTARTÁSA
 
@@ -1171,7 +1163,7 @@ kormányrendelet állapítja meg.
 
 70. § (1) A 69. § (3)–(5) bekezdése szerinti szervek a külföldi személyek nyilvántartásából díjmentesen igényelhetnek adatot.
 
-(2) A felhasználó hozzájárulása esetén, valamint a 66. § (4) bekezdésében foglalt esetben az (1) bekezdésben meg nem jelölt szerv számára igazgatási szolgáltatási díj megfizetése ellenében szolgáltatható adat.
+(2) A felhasználó hozzájárulása esetén az (1) bekezdésben meg nem jelölt szerv számára igazgatási szolgáltatási díj megfizetése ellenében szolgáltatható adat.
 
 ### XI. Fejezet — A DIGITÁLIS SZOLGÁLTATÁSOK NYÚJTÁSÁNAK TÁMOGATÁSA ÉS FELÜGYELETE
 

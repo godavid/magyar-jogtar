@@ -12,7 +12,9 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-#### 1. §
+1. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 19/E. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nyilvántartást kezelő szervtől a polgár lakcímadata érvényességének tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. Közvetlen hozzáférés esetén igazgatási szolgáltatási díj megfizetése mellett kérhető tájékoztatás.”
 
 #### 2. §
 
@@ -24,20 +26,37 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 6. §
 
-#### 7. §
+7. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/J. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
 
-#### 8. §
+„(8) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. Közvetlen hozzáférés esetén igazgatási szolgáltatási díj megfizetése mellett kérhető tájékoztatás.
+
+(9) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartása a személyazonosság igazolására alkalmas hatósági igazolvány érvényességi ideje alatt az érvényesség tényéről erre irányuló kérelemre kizárólag elektronikus azonosítást követően, elektronikus kapcsolattartás útján, egyedi informatikai alkalmazás igénybevételével
+
+- a) közvetlen hozzáféréssel, vagy
+- b) elektronikus felületen keresztül
+
+ad tájékoztatást.”
+
+8. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 36. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az adatszolgáltatásért, a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, valamint a 29/J. § (8) bekezdése szerinti tájékoztatásért fizetendő igazgatási szolgáltatási díj megfizetése alól – ide nem értve a hatóságnak az eljárás során felmerült igazolt költségét – mentesség illeti meg a helyi önkormányzatot, a költségvetési szervet, a közjegyzőt, az önálló bírósági végrehajtót, a Kormány által a Gondosóra program megvalósítására kijelölt jogi személyt, továbbá törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott ügyfajtákban az ügyfelet.”
 
 #### 9. §
 
 10. § (1)
 
-(2)
+(2) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 47. § (2) bekezdése a következő g) és h) ponttal egészül ki:
+
+(A miniszter felhatalmazást kap arra, hogy rendeletben szabályozza)
+
+„g) az adópolitikáért felelős miniszterrel egyetértésben a 19/E. § (1) bekezdése szerinti, a lakcímadat érvényességének tényéről közvetlen hozzáférés útján teljesített tájékoztatásért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
+
+h) az adópolitikáért felelős miniszterrel egyetértésben a 29/J. § (8) bekezdése szerinti, a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából közvetlen hozzáférés útján teljesített tájékoztatásért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait.”
 
 11. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
-- a)
-- b)
+- a) 17. § (2) bekezdés h) pontja,
+- b) 24/I. §-a,
 - c)
 
 #### 2. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
@@ -76,7 +95,7 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 - a)
 - b)
-- c)
+- c) 19. § (2) bekezdés m) pontja.
 
 #### 5. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -148,7 +167,10 @@ a digitális államhoz kapcsolódó egyes törvények módosításáról
 
 #### 51. §
 
-#### 52. §
+52. § Hatályát veszti a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény
+
+- a) 66. §-a,
+- b) 70. § (2) bekezdésében a „ , valamint a 66. § (4) bekezdésében foglalt esetben” szövegrész.
 
 #### 14. A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény módosítása
 

@@ -412,7 +412,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - e) természetes személyazonosító adatok és állampolgárság;
 - f) természetes személyazonosító adatok, valamint a lakcím adatok;
 - g) elhalálozás ténye, helye és ideje.
-- h) a 24/I. § szerinti adatok.
+- h)
 
 (3) A nyilvántartás szervei a 11. § (1) bekezdésében meghatározott adatokat – a 2. § (5) bekezdésében foglalt feltételekkel – statisztikai célból felhasználhatják, és azokat nyilvánosságra hozhatják, valamint statisztikai adatszolgáltatást végezhetnek.
 
@@ -506,7 +506,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 igénylésére jogosultak a nyilvántartást kezelő szervtől az adatigénylés indokoltságának igazolása mellett.
 
-19/E. § (1) A nyilvántartást kezelő szervtől a polgár lakcímadata érvényességének tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető.
+19/E. § (1) A nyilvántartást kezelő szervtől a polgár lakcímadata érvényességének tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. Közvetlen hozzáférés esetén igazgatási szolgáltatási díj megfizetése mellett kérhető tájékoztatás.
 
 (2) Az (1) bekezdésben meghatározott kérelem benyújtására elektronikus azonosítási szolgáltatás használata nélkül kizárólag elektronikus úton egyedi informatikai alkalmazás igénybevételével
 
@@ -735,7 +735,7 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 
 (2) Az intézetben történt születést bejelentő intézet a születés bejelentéséhez – az Elektronikus Egészségügyi Szolgáltatási Tér útján – jogosult a szülőknek a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság igazolására alkalmas hatósági igazolványai okmányazonosítójának, valamint azok érvényességére vagy érvénytelenségük tényére vonatkozó adatok igénylésére.
 
-24/I. § A nyilvántartást kezelő szerv a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás során a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény szerinti szolgáltató automatikus információátadásra vonatkozó jelzésére a polgár 11. § (1) bekezdés h) pontja szerinti adatát, állampolgárságát, a személyazonosító igazolványának okmányazonosítóját, aláírását, valamint arcképmását átadja.
+#### 24/I. §
 
 24/J. § Az oktatási nyilvántartás működéséért felelős szerv a nyilvántartott személyek azonosítása, ellenőrzése és adatainak pontosítása céljából – a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye és a nyilvántartásból kikerülés helye adatok kivételével – a 17. § (2) bekezdés b) pontja szerinti, valamint a nyilvántartás jogcíme adatokat jogosult igényelni a személyiadat- és lakcímnyilvántartást kezelő szervtől.
 
@@ -1267,11 +1267,11 @@ a nyilvántartást kezelő szerv az (1) bekezdés szerinti módon gondoskodik a 
 
 (7) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában a (4) bekezdésben meghatározott adatokat az okmánynyilvántartó szerv a személyazonosság igazolására alkalmas hatósági igazolvány érvénytelenné válása időpontjáig kezeli, a (6) bekezdés szerinti értesítés alapján azokat haladéktalanul törli.
 
-(8) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető.
+(8) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. Közvetlen hozzáférés esetén igazgatási szolgáltatási díj megfizetése mellett kérhető tájékoztatás.
 
-(9) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartása a személyazonosság igazolására alkalmas hatósági igazolvány érvényességi ideje alatt az érvényesség tényéről erre irányuló kérelemre kizárólag elektronikus úton egyedi informatikai alkalmazás igénybevételével
+(9) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartása a személyazonosság igazolására alkalmas hatósági igazolvány érvényességi ideje alatt az érvényesség tényéről erre irányuló kérelemre kizárólag elektronikus azonosítást követően, elektronikus kapcsolattartás útján, egyedi informatikai alkalmazás igénybevételével
 
-- a) közvetlen hozzáféréssel vagy
+- a) közvetlen hozzáféréssel, vagy
 - b) elektronikus felületen keresztül
 
 ad tájékoztatást.
@@ -1441,7 +1441,7 @@ adatvédelmi tisztviselőt nevez ki.
 
 (4) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, a 27/B. § (1) bekezdése szerinti értesítésért, valamint a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért – ha jogszabály másként nem rendelkezik – igazgatási szolgáltatási díjat kell fizetni.
 
-(5) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért fizetendő igazgatási díj megfizetése alól – ide nem értve a hatóságnak az eljárás során felmerült igazolt költségét – mentesség illeti meg a helyi önkormányzatot, a költségvetési szervet, a közjegyzőt, az önálló bírósági végrehajtót, valamint a Kormány által a Gondosóra program megvalósítására kijelölt jogi személyt, a Magyar Országos Horgász Szövetséget, továbbá törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott ügyfajtákban az ügyfelet.
+(5) Az adatszolgáltatásért, a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, valamint a 29/J. § (8) bekezdése szerinti tájékoztatásért fizetendő igazgatási szolgáltatási díj megfizetése alól – ide nem értve a hatóságnak az eljárás során felmerült igazolt költségét – mentesség illeti meg a helyi önkormányzatot, a költségvetési szervet, a közjegyzőt, az önálló bírósági végrehajtót, a Kormány által a Gondosóra program megvalósítására kijelölt jogi személyt, továbbá törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott ügyfajtákban az ügyfelet.
 
 (6) Az állandó személyazonosító igazolvány kiállításáról, valamint a 7. § (3) bekezdésében meghatározott újszülött részére hivatalból kiadásra kerülő személyi azonosítóról és lakcímről szóló hatósági igazolvány kiállításáról a nyilvántartást kezelő szerv a megszemélyesítést végző szervezet útján gondoskodik.
 
@@ -1573,6 +1573,8 @@ kell érteni.
 - d) az adópolitikáért felelős miniszterrel egyetértésben a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért, kézbesítéséért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 - e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait;
 - f) az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatás-azonosító kezelését, felhasználását és annak műszaki követelményeit.
+- g) az adópolitikáért felelős miniszterrel egyetértésben a 19/E. § (1) bekezdése szerinti, a lakcímadat érvényességének tényéről közvetlen hozzáférés útján teljesített tájékoztatásért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
+- h) az adópolitikáért felelős miniszterrel egyetértésben a 29/J. § (8) bekezdése szerinti, a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából közvetlen hozzáférés útján teljesített tájékoztatásért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait.
 
 (3)
 

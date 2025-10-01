@@ -38,7 +38,11 @@ a közpénzek szabályozásával összefüggő egyes törvények, valamint a sz�
 
 #### 3. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-#### 6. §
+6. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 13. § (1) bekezdése a következő l) ponttal egészül ki:
+
+(A központi költségvetés költségvetési hiányának finanszírozása érdekében az államháztartásért felelős miniszter az ÁKK Zrt. útján)
+
+„l) az a) pont szerinti tevékenysége keretében, a helyi önkormányzatok befektetési lehetőségeinek biztosítása érdekében, piaci kamatokhoz illeszkedő, kizárólag a helyi önkormányzatok részére kibocsátásra kerülő állampapír forgalomba hozatalát szervezi.”
 
 #### 4. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
@@ -99,7 +103,11 @@ lép.
 
 #### 6. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
-#### 25. §
+25. § A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény 3. § (4) bekezdése a következő o) ponttal egészül ki:
+
+[Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget:]
+
+„o) a belföldi hitelintézet által az Áht. 84. § (1a) és (1e) bekezdése, a kincstár által az Áht. 84. § (1d) bekezdése, valamint a beutalással érintett önkormányzat és költségvetési szerve számlái közötti, az Áht. 84. § (1a) és (1d) bekezdése szerint végrehajtott fizetési művelet,”
 
 #### 7. A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény módosítása
 
