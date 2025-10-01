@@ -685,9 +685,9 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 7. a természetes személy tekintetében az Szja. tv. 29/C. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a házastárs nevét, adóazonosító jelét,
   - b) a kedvezmény igénybe vételének módjára (egyedül, megosztással) vonatkozó döntést,
-- 7a. a természetes személy tekintetében az Szja tv. 29/D. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+- 7a. a természetes személy tekintetében az Szja tv. 29/D. § szerinti kedvezmény, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény és a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a kedvezményre jogosító valamennyi gyermek nevét, adóazonosító jelét (adóazonosító jel hiányában a természetes személyazonosító adatait),
-  - b) az Szja tv. 29/D. § (2) bekezdés szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
+  - b) az Szja tv. 29/D. § (2) bekezdése szerint, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerint, a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény 1. § (2) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
 - 7b. a természetes személy tekintetében az Szja tv. 29/F. §-a szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a születési idejét,
   - b) az Szja tv. 29/F. § (2) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,

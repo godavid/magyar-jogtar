@@ -214,7 +214,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 - 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 - 55. 30 év alatti anya: az a 30. életévét be nem töltött, gyermeket vállaló nő, akinek családi kedvezményre való jogosultsága magzatára, vér szerinti vagy örökbe fogadott gyermekére tekintettel a 30. életéve betöltését megelőző napig megnyílik.
 - 56. A csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye: a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti kedvezmény.
-- 57.
+- 57. A három gyermeket nevelő anyák kedvezménye: a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény.
 - 58.
 - 59.
 - 60. Sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés.
@@ -1081,15 +1081,17 @@ de adóévenként legfeljebb a jogosultsági hónapok számának és a tárgyév
 
 ### Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje
 
-29/H. § Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje:
+29/H. § (1) Az adóalap-csökkentő kedvezmények érvényesítésének sorrendje:
 
-- a) a négy vagy több gyermeket nevelő anyák kedvezménye,
+- a) a négy vagy több gyermeket nevelő anyák kedvezménye vagy a három gyermeket nevelő anyák kedvezménye,
 - b) a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye,
 - c) a 25 év alatti fiatalok kedvezménye,
 - d) a 30 év alatti anyák kedvezménye,
 - e) személyi kedvezmény,
 - f) az első házasok kedvezménye,
 - g) családi kedvezmény.
+
+(2) Amennyiben a gyermeket nevelő anya jogosultsága 2025. október 1-jét követően a három gyermeket nevelő anyák kedvezményére vagy a négy vagy több gyermeket nevelő anyák kedvezményére az év végéig az időszak egészére úgy áll fenn, hogy annak jogcíme megváltozik, a kedvezményt a 2025. október 1. napján érvényesíthető kedvezmény jogcíme alapján lehet igénybe venni. Ilyen esetben új adóelőleg-nyilatkozat megtételére és a kedvezmény alapjául szolgáló jövedelmek jogcímek közötti megosztására nincs szükség.
 
 ### VII. Fejezet — AZ ÖSSZEVONT ADÓALAP ADÓJÁNAK MEGHATÁROZÁSA
 
@@ -1303,7 +1305,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 (5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett
 
-- a) négy vagy több gyermeket nevelő anyák kedvezményét,
+- a) négy vagy több gyermeket nevelő anyák kedvezményét vagy a három gyermeket nevelő anyák kedvezményét,
 - b) csecsemőgondozási díj, gyermekgondozási díj és örökbefogadói díj kedvezményét,
 - c) 25 év alatti fiatalok kedvezményét,
 - d) 30 év alatti anyák kedvezményét,
@@ -1380,8 +1382,9 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 - b) az első házasok kedvezményének érvényesítéséről,
 - c) a családi kedvezmény érvényesítéséről, közös érvényesítéséről,
 - d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni,
-- e) a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítéséről.
-- f) a 30 év alatti anyák kedvezményének érvényesítéséről.
+- e) a négy vagy több gyermeket nevelő anyák kedvezményének érvényesítéséről,
+- f) a három gyermeket nevelő anyák kedvezményének érvényesítéséről,
+- g) a 30 év alatti anyák kedvezményének érvényesítéséről.
 
 (2a) A (2) bekezdés b), d) és e) pontja szerinti nyilatkozat esetében a magánszemély kérheti, hogy a kifizető a nyilatkozat tartalmát mindaddig változatlan tartalommal vegye figyelembe, ameddig a magánszemély nem tesz új nyilatkozatot, vagy nem kéri a korábban tett nyilatkozatának mellőzését (a továbbiakban: folytatólagos nyilatkozat), azzal, hogy a (2) bekezdés b) pontja szerinti esetben a folytatólagos nyilatkozatban foglaltak legfeljebb a 29/C. § (4) bekezdése szerinti időtartamban vehetők figyelembe. Ha a magánszemély új nyilatkozat benyújtásával nem jelezte a jogosultság feltételeiben bekövetkezett változást, és a folytatólagos nyilatkozatban foglaltak alkalmazása miatt adóhiány keletkezett, a jogkövetkezmények nem mérsékelhetők.
 
@@ -1401,9 +1404,9 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 - d) a nyilatkozó magánszemély adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát;
 - e) az első házasok kedvezményének közös érvényesítése esetén a házastárs adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
 
-(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, valamint a 29/D. § (3), illetve (3a) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.
+(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye és a három gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, a 29/D. § (3) és (3a) bekezdése, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (3) és (4) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.
 
-(3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+(3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti és a három gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
 (3d) A 29/F. § (2) bekezdése szerinti jövedelmet juttató, adóelőleget megállapító munkáltató, az összevont adóalapba tartozó bevételt juttató kifizető a fiatal adóelőleg-alapját – a fiatalnak a 25 év alatti fiatalok kedvezménye részben vagy egészben történő érvényesítésének mellőzését kérő nyilatkozata hiányában – jogosultsági hónaponként csökkenti a 29/F. § (2) bekezdése szerinti összeggel.
 
@@ -1430,9 +1433,9 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 
 ### A fizetendő adóelőleg
 
-49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét, a 25 év alatti fiatalok kedvezményét, a 30 év alatti anyák kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az e törvény 8. §-a szerinti adómértékkel számított összeg, figyelemmel a (3) és (4) bekezdésben foglalt rendelkezésekre is.
+49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a három gyermeket nevelő anyák kedvezményét, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét, a 25 év alatti fiatalok kedvezményét, a 30 év alatti anyák kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az e törvény 8. §-a szerinti adómértékkel számított összeg, figyelemmel a (3) és (4) bekezdésben foglalt rendelkezésekre is.
 
-(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti, valamint a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét érvényesítő magánszemély a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményét érvényesítő magánszemély a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti, valamint a három gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
 (2)
 
@@ -1451,7 +1454,7 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 
 (6) Ha az egyéni vállalkozó családi járulékkedvezményt kíván igénybe venni, akkor – saját döntése alapján, az e fejezetben előírtaktól eltérően – a vállalkozói kivét adóelőlegét havonta, az átalányban megállapított jövedelem adóelőlegét negyedévente állapítja meg és vallja be az adózás rendjéről szóló törvény szerinti adó- és járulékbevallásban.
 
-(7) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély kedvezményre való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi, jogosultsági időszakban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a jogosultsági időszak hónapjával (hónapjaival) arányos részeként kell figyelembe venni.
+(7) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély, a három gyermeket nevelő anyák kedvezményére jogosult magánszemély kedvezményre való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi, jogosultsági időszakban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a jogosultsági időszak hónapjával (hónapjaival) arányos részeként kell figyelembe venni.
 
 (8) Amennyiben a fiatalnak a 25 év alatti fiatalok kedvezményére való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi jogosultsági hónapban (hónapokban) megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a negyedév jogosultsági hónapjával (hónapjaival) arányos részeként kell figyelembe venni.
 

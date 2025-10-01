@@ -1829,8 +1829,8 @@ terhelő előzetesen felszámított adó összegének 50 százaléka.
 
 - a) az áru átengedéséről szóló vámhatóság általi értesítés számáról, vagy a termék szabad forgalomba bocsátása során az adófizetési kötelezettséget megállapító határozat számáról, vagy a termék szabad forgalomba bocsátását igazoló kiegészítő árunyilatkozat számáról,
 - b) az importáló adószámáról,
-- c) az adó alapjáról és
-- d) az adó összegéről.
+- c) az adó forintban meghatározott alapjáról és
+- d) az adó forintban meghatározott összegéről.
 
 (6) Az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti, az (5) bekezdésben említett nyilatkozattételi kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerinti bevallásában teljesíti.
 
@@ -4782,6 +4782,10 @@ az állami adó- és vámhatóság részére.
 
 (2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet a 2025. naptári évre abban az esetben is választhatta, ha a 191. § (3) bekezdésében rögzített időtartam még nem telt el.
 
+373. § E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 129. § (5) bekezdés c) és d) pontját a 2025. október 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallások tekintetében kell először alkalmazni.
+
+374. § E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 6/C. számú melléklet 1a. és 2a. pontját a 2025. október 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallások tekintetében kell először alkalmazni.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -5226,9 +5230,9 @@ c) a számla kiállításának időpontja, illetve az első forgalomba helyezés
 #### Nyilatkozat a fordított adózás alá tartozó ügyletekről
 
 - 1. Az adóalany bevallásában nyilatkozik az adómegállapítási időszakban teljesített, a 142. § (1) bekezdés i) és j) pontja alá tartozó termékértékesítése tekintetében a termék beszerzőjének adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint – a 6/A. és 6/B. számú mellékletben meghatározott vámtarifaszám szerinti bontásban – az értékesített termék forintban meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
-- 1a. Az adóalany bevallásában nyilatkozik az adómegállapítási időszakban teljesített, a 142. § (1) bekezdés k) pontja alá tartozó termékértékesítése tekintetében a termék beszerzőjének adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint az értékesített termék forintban meghatározott adóalapjáról és köbméterben meghatározott mennyiségéről.
+- 1a. Az adóalany bevallásában nyilatkozik az adómegállapítási időszakban teljesített, a 142. § (1) bekezdés k) pontja alá tartozó termékértékesítése tekintetében a termék beszerzőjének adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint az értékesített termék forintban meghatározott adóalapjáról és MWh-ban meghatározott mennyiségéről.
 - 2. Az adóalany bevallásában azon, a 142. § (1) bekezdés i) és j) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzései tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint – a 6/A. és 6/B. számú mellékletben meghatározott vámtarifaszám szerinti bontásban – a beszerzett termék forintban meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
-- 2a. Az adóalany bevallásában azon, a 142. § (1) bekezdés k) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzései tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint a beszerzett termék forintban meghatározott adóalapjáról és köbméterben meghatározott mennyiségéről.
+- 2a. Az adóalany bevallásában azon, a 142. § (1) bekezdés k) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzései tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint a beszerzett termék forintban meghatározott adóalapjáról és MWh-ban meghatározott mennyiségéről.
 - 3. Az 1. és 2. pont alkalmazásában nem kell nyilatkozni a kilogrammban meghatározott mennyiségről, ha a termék külön jogszabály szerint hibrid vetőmagnak minősül és erről a tényről a terméket értékesítő nyilatkozik.
 
 ### 7. számú melléklet a 2007. évi CXXVII. törvényhez
