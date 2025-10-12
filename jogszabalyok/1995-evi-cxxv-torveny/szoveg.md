@@ -1555,6 +1555,7 @@ iránt intézkedik.
 - o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését;
 - p) a légiutas-adat személyazonosításra alkalmatlanná tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek láthatatlanná tétele az adatelemek elrejtésével a felhasználók számára;
 - q) a légiutas-adat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.
+- r) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer;
 - t) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti szervezet.
 
 75. § (1)
@@ -1672,7 +1673,7 @@ iránt intézkedik.
 
 81. § E törvény 40. és 41. §-ának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-#### 82. §
+82. § E törvény a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 83. §
 

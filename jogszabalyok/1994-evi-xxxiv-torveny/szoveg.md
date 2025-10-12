@@ -816,6 +816,8 @@ igazolja.
 
 (3) A rendőrség a határforgalom ellenőrzése során engedélyezi a határátlépés jogszabályban meghatározott feltételeivel rendelkező személyek határátlépését, illetve megtagadja a határátlépés feltételeivel nem rendelkező személyek határátléptetését.
 
+(3a) Az (EU) 2016/399 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdésében szereplő okmányokkal rendelkező személyek úti okmányait bélyegzőlenyomattal kell ellátni.
+
 (4) Az utasadat-információs egységnek az elemző-értékelő tevékenysége alapján az Nbtv. 52/H. § (7) bekezdése vagy az Nbtv. 52/N. §-a szerint feltárt információról szóló tájékoztatása alapján a rendőrség az (1)–(3) bekezdés szerinti intézkedések alá vonhatja azt a személyt, akire a feltárt információ vonatkozik. Az ennek során megállapított adatokról és beszerzett információkról a rendőrség az utasadat-információs egységet kérésére visszatájékoztathatja.
 
 ### Járványügyi intézkedések tömeges bevándorlás okozta válsághelyzetben
@@ -950,7 +952,7 @@ készítése
 
 (5) A rendőrség a határátkelőhely és az államhatár őrzése, a határforgalom ellenőrzése és a határátkelőhely rendjének fenntartása céljából képfelvevőt helyezhet el és felvételt készíthet.
 
-(5a) A rendőrség a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott őrzött szállás területén – a lakóhelyiségek, a tisztálkodás céljára szolgáló helyiségek és a WC-k kivételével – bűnmegelőzési, valamint az őrzésbiztonsági feltételek ellenőrzése céljából képfelvevőt helyezhet el és felvételt készíthet.
+(5a) A rendőrség a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott őrzött szállás területén – a lakóhelyiségek, a tisztálkodás céljára szolgáló helyiségek és a WC-k kivételével – bűnmegelőzési, valamint az őrzésbiztonsági feltételek ellenőrzése céljából képfelvevőt helyezhet el és felvételt készíthet.
 
 (5b) A rendőrség a segélyhívások fogadásával összefüggésben, a segítségnyújtási kötelezettség teljesítése, a segélyhívás alapján szükséges intézkedések megtétele céljából a fogadott segélyhívásokról felvételt készíthet.
 
@@ -2263,20 +2265,22 @@ részére.
 - f) a Schengeni Információs Rendszer,
 - g) a szabálysértési nyilvántartási rendszer, valamint
 - h) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások.
+- i) az Európai Határregisztrációs Rendszer,
 
 (2)
 
 (3) A Rendőrség a határforgalom ellenőrzése során az államhatáron átlépő vízumkötelezett harmadik országbeli állampolgár által bemutatott okmányok adatait és e személy ujjnyomatát összeveti a Vízuminformációs Rendszerrel.
 
-91/L. § (1) A rendőrség a jogszerű tartózkodás időtartamának ellenőrzése, bűnüldözési és bűnmegelőzési célból a határátlépéstől számított öt évig a határrendészeti adatállományban kezeli a határon átlépő, külön törvény szerinti harmadik országbeli állampolgárok
+91/L. § (1) A rendőrség a Magyarország területén történő jogszerű tartózkodás szabályainak ellenőrzése, bűnüldözési és bűnmegelőzési célból az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 34. cikkében meghatározott adatmegőrzési ideig a határrendészeti adatállományban kezeli a határon átlépő, a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti harmadik országbeli állampolgárok
 
 - a) családi és utónevét,
 - b) születési idejét (év, hó, nap),
 - c) nemét,
 - d) állampolgárságát,
 - e) úti okmányának számát, típusát,
-- f) vízumának számát, típusát és
-- g) határátlépés során használt gépjárműve rendszámát.
+- f) beutazásának, illetve kiutazásának pontos időpontját, az igénybe vett határátkelőhelyet,
+- g) vízumának számát, típusát és
+- h) határátlépés során használt gépjárműve rendszámát.
 
 (1a) A rendőrség az (1) bekezdésben meghatározottakon túl, a terrorizmus megelőzése céljából a határátlépéstől számított öt évig a határrendészeti nyilvántartásban kezeli azon harmadik országbeli személyek ujjnyomatát, akik
 
@@ -2288,6 +2292,27 @@ részére.
 (2a) A rendőrség (1) bekezdésben meghatározott nyilvántartásából az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság – a huzamos tartózkodás jogszerűségének ellenőrzése céljából – a konkrét cél megjelölésével átveheti.
 
 (3) A rendőrség a határrendészeti adatállományból a 86. § és a 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési, terrorelhárítási célból, az (EU) 2019/1896 európai parlamenti és tanácsi rendelet alkalmazása céljából, valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.
+
+(4) A rendőrség az (EU) 2017/2226 európai parlamenti és tanácsi rendeletnek megfelelően, feladataival összhangban jogosult az Európai Határregisztrációs Rendszerrel kapcsolatos adatok kezelésére.
+
+(5) A rendőrség az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 21. cikke szerint tartalékeljárásokat vezet be.
+
+(6) A központi szerv ellátja az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 39. cikk (1) bekezdése szerinti, az Európai Határregisztrációs Rendszerrel kapcsolatos adatkezelésért központilag felelős szerv feladatait. A központi szerv működteti az Európai Határregisztrációs Rendszer nemzeti központi hozzáférési pontját (a továbbiakban: nemzeti központi hozzáférési pont).
+
+(7) A nemzeti központi hozzáférési pont
+
+- a) Magyarországot érintően az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 35. cikke szerint jogosult az Európai Határregisztrációs Rendszerben adatokat kiegészíteni, helyesbíteni és törölni,
+- b) Magyarországot érintően jogosult az érintett (EU) 2017/2226 európai parlamenti és tanácsi rendelet 52. cikke szerinti kérelmét teljesíteni vagy annak elutasításáról dönteni,
+- c) az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 29. cikk (3) bekezdésével összhangban ellenőrzi a (8) bekezdésben kijelölt hatóságok Európai Határregisztrációs Rendszer adataihoz való hozzáférése feltételeinek fennállását, és e feltételek fennállása esetén biztosítja a hozzáférést,
+- d) teljesíti az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 72. cikk (8) bekezdése szerinti adatszolgáltatást.
+
+(8) Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 32. cikkében foglalt feltételek fennállása esetén, a Btk. 314–318/A. §-ában és 331. § (2) bekezdésében, továbbá az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú mellékletében meghatározott bűncselekmények megelőzése, felderítése és nyomozása céljából
+
+- a) – ha e cselekmények megelőzésére, felderítésére feladat- és hatáskörrel rendelkezik – a nemzetbiztonsági szolgálatok, a rendőrség, a Nemzeti Adó- és Vámhivatal,
+- b) a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szerv,
+- c) a büntetőügyben eljáró nyomozó hatóság, ügyészség és bíróság
+
+az Európai Határregisztrációs Rendszerből adatot igényelhet a központi hozzáférési ponthoz benyújtott, indokolással ellátott kérelem útján.
 
 91/M. § (1) A rendőrség a határforgalom-ellenőrzés során – az illegális bevándorlás elleni intézkedések elősegítése céljából – az utasok repülésre történő bejelentkezése befejezésének időpontjától jogosult a személyszállítást végző légi fuvarozótól a (2) bekezdésben felsorolt adatokat kérni azokról az utasokról, akiket nem az Európai Unió valamely tagállamának vagy a schengeni vívmányoknak az Európai Unió keretében történő beillesztéséről szóló jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes állam területéről szállít a személyszállítást végző légi fuvarozó Magyarország területére.
 
@@ -2481,6 +2506,7 @@ bírálja el.
 - o) tranzitterület: egyes nemzetközi határátkelőhelyen az üzemeltető által – a rendőrség, valamint a vámhatóság egyetértésével – kijelölt terület, amely a személyek várakozására szolgál;
 - p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatározott gazdasági célú légi közlekedési tevékenység végzésére jogosult;
 - q) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége.
+- r) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer,
 - t) különleges bánásmódot igénylő nagykorú személy: a fogyatékos, a gondokság alatt álló vagy olyan nagykorú személy, aki korábban emberkereskedelem vagy nemi erkölcs elleni bűncselekmény sértettjévé vált.
 
 (2)
@@ -2509,6 +2535,7 @@ bírálja el.
 - n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, feladatai ellátásának részletes szabályait, továbbá kijelölje azon szerveket, szervezeteket, gazdasági társaságokat, amelyek együttműködésre kötelezettek a segélyhívásokat fogadó szervvel vagy a készenléti szervekkel és megállapítsa ezen együttműködés rendjét,
 - o) meghatározza a személyi védelemben részesíthető személyek körét és a személyi védelem ellátásának szabályait,
 - p) kijelölje az idegenrendészeti szervet, meghatározza annak tagozódását, továbbá az idegenrendészeti szerv hatáskörének és feladatai ellátásának részletes szabályait.
+- q) meghatározza az Európai Határregisztrációs Rendszerbe bevitt adatok helyesbítésének, kiegészítésének és törlésének, valamint az érintett jogainak érvényesítésére vonatkozó eljárási szabályokat, továbbá az Európai Határregisztrációs Rendszerhez való bűnüldözési célú hozzáférés eljárási szabályait.
 
 (2)
 
@@ -2609,7 +2636,12 @@ az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 - m) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat,
 - n) az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont.
 
-#### 105. §
+105. § E törvény
+
+- a) az (EU) 2016/399 rendeletnek a határregisztrációs rendszer (EES) alkalmazása tekintetében történő módosításáról szóló, 2017. november 30-i (EU) 2017/2225 európai parlamenti és tanácsi rendelet,
+- b) a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet,
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 106. §
 

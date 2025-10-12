@@ -38,6 +38,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 - d) úti okmány: Magyarország által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
 - e) schengeni állam: az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv (a továbbiakban: Schengeni Jegyzőkönyv) 1. cikkében, illetve az 1999/435/EK tanácsi határozatban meghatározott schengeni vívmányokat, valamint az Európai Unió intézményei által az ezek hatálya alá tartozó területen hozott további intézkedéseket teljeskörűen alkalmazó európai uniós tagállam és a Schengeni Jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételéről szóló megállapodásban részes más állam;
 - f) száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
+- g) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer.
 
 ### II. Fejezet — A BEUTAZÁS, VALAMINT A TARTÓZKODÁS JOGA
 
@@ -665,6 +666,8 @@ meghosszabbítása
 
 65. § (1) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító természetes vagy jogi személy, jogi személyiség nélküli szervezet, aki vagy amely gazdasági célú személyszállítási tevékenység végzésére jogosult (a továbbiakban: fuvarozó), köteles a szállítást megelőzően megbizonyosodni arról, hogy a harmadik ország állampolgárságával rendelkező családtag rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal.
 
+(1a) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, illetve közúton szállító fuvarozó köteles elvégezni az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 13. cikk (3) bekezdésében előírt ellenőrzést.
+
 (2) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, közúton, illetve vasúton szállító fuvarozó köteles gondoskodni a haladéktalan visszaszállításról abba az országba, ahonnan utasát hozta, vagy amely köteles őt befogadni, ha
 
 - a) az általa szállított utasnak Magyarország területére történő beléptetését a törvényben meghatározott valamely feltétel hiánya miatt tagadták meg,
@@ -890,6 +893,10 @@ foglalt résznyilvántartásokból szolgáltathat adatot.
 (3) Az eljáró idegenrendészeti hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések modul hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
 
 (3a) Az idegenrendészeti hatóság e törvény szerinti eljárása során átveheti és kezelheti a közérdekből nyilvános, e törvény alapján kezelhető adatok körébe tartozó személyes adatokat, ideértve a nyilvános külföldi adatforrásból származó adatot is.
+
+(4) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelettel összhangban, közvetlen hozzáférés útján jogosult az Európai Határregisztrációs Rendszerből adatot lekérdezni és az Európai Határregisztrációs Rendszerben adatot rögzíteni.
+
+(4a) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 35. cikke szerint jogosult az Európai Határregisztrációs Rendszerben a saját maga által rögzített adatokat kiegészíteni, helyesbíteni és törölni.
 
 83. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv értesíti a központi adatkezelő szervet az EGT-állampolgár és a családtag
 
@@ -1238,6 +1245,7 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 - g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének
 - h) Schengeni határ-ellenőrzési kódex, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet;
 - i) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet
+- j) a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet
 - l) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet
 - m) az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet
 
