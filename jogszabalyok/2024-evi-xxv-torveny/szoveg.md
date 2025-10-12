@@ -76,7 +76,9 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 28. §
 
-#### 29. §
+29. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 82. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelettel összhangban, közvetlen hozzáférés útján jogosult az Európai Határregisztrációs Rendszerből adatot lekérdezni és az Európai Határregisztrációs Rendszerben adatot rögzíteni.”
 
 #### 30. §
 
@@ -182,9 +184,9 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 70. §
 
-#### 21.
+#### 21. Az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény módosítása
 
-#### 71. §
+71. § Nem lép hatályba az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény 20. § (1) bekezdése.
 
 #### 22. A pedagógusok új életpályájáról szóló 2023. évi LII. törvény módosítása
 
@@ -262,9 +264,20 @@ a belügyi ágazati feladatellátást támogató törvények módosításáról
 
 #### 106. §
 
-#### 107. §
+107. § (1) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 143. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-#### 108. §
+„(8) A (2) és (3) bekezdés szerinti kötelezettségét nem teljesítő fuvarozót – jogszabályban meghatározott – közrendvédelmi bírsággal kell sújtani.”
+
+(2)
+
+108. § (1) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 143. §-a a következő (10) bekezdéssel egészül ki:
+
+„(10) A (3) bekezdés szerinti kötelezettségét nem teljesítő fuvarozó mentesül a közrendvédelmi bírság megfizetésének kötelezettsége alól, ha
+
+- a) bizonyítja, hogy az ellenőrzési kötelezettségének a tőle elvárható gondossággal eleget tett, vagy
+- b) az (EU) 2017/2226 európai parlamenti és tanácsi rendeletnek az (EU) 2021/1152 európai parlamenti és tanácsi rendelettel beillesztett 13a. cikk (1) bekezdése alapján a fuvarozó számára technikailag kivitelezhetetlen az ellenőrzés elvégzése.”
+
+(2)
 
 #### 109. §
 

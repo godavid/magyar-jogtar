@@ -2180,7 +2180,7 @@ származó jövedelemmel rendelkezik.
 
 (2) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító fuvarozónak a szállítást megelőzően meg kell bizonyosodnia arról, hogy a harmadik országbeli állampolgár rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal.
 
-(3)
+(3) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve közúton szállító fuvarozó köteles elvégezni az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 13. cikk (3) bekezdésében előírt ellenőrzést.
 
 (4)
 
@@ -2194,9 +2194,14 @@ származó jövedelemmel rendelkezik.
 
 (7) Ha a fuvarozó vitatja a visszaszállítási, illetve költségviselési kötelezettsége fennállását, az idegenrendészeti hatóság a visszaszállítási kötelezettség teljesítésére és a költségviselésre határozattal kötelezi.
 
-(8) A (2) bekezdés szerinti kötelezettségét nem teljesítő fuvarozót – jogszabályban meghatározott – közrendvédelmi bírsággal kell sújtani.
+(8) A (2) és (3) bekezdés szerinti kötelezettségét nem teljesítő fuvarozót – jogszabályban meghatározott – közrendvédelmi bírsággal kell sújtani.
 
 (9) A közrendvédelmi bírság megfizetésének kötelezettsége alól a fuvarozó akkor mentesül, ha bizonyítja, hogy a (2) bekezdésben foglalt ellenőrzési kötelezettségének a tőle elvárható gondossággal eleget tett.
+
+(10) A (3) bekezdés szerinti kötelezettségét nem teljesítő fuvarozó mentesül a közrendvédelmi bírság megfizetésének kötelezettsége alól, ha
+
+- a) bizonyítja, hogy az ellenőrzési kötelezettségének a tőle elvárható gondossággal eleget tett, vagy
+- b) az (EU) 2017/2226 európai parlamenti és tanácsi rendeletnek az (EU) 2021/1152 európai parlamenti és tanácsi rendelettel beillesztett 13a. cikk (1) bekezdése alapján a fuvarozó számára technikailag kivitelezhetetlen az ellenőrzés elvégzése.
 
 144. § (1) A légifuvarozót a határforgalmat ellenőrző hatóság kezdeményezésére az idegenrendészeti hatóság a jogszabályban meghatározott közrendvédelmi bírsággal sújtja, ha a légifuvarozó – a légiközlekedésről szóló törvényben meghatározott kötelezettségét megszegve – nem szolgáltat adatot azokról az utasokról, akiket nem az Európai Unió valamely tagállamának vagy valamely schengeni állam területéről szállít Magyarország területére.
 
@@ -2300,6 +2305,10 @@ az egy naptári éven belül általa Magyarországra hozott vendégmunkások lé
 (3) A (2) bekezdés szerint rögzített adatokat az idegenrendészeti hatóság a tárhelyszolgáltató útján a szálláshely-szolgáltatótól, informatikai alkalmazás útján veszi át és azokról a tartózkodás jogszerűségének nyomon követése érdekében nyilvántartást vezet.
 
 (4) A harmadik országbeli állampolgár a szálláshelyét, illetve a szálláshelyének megváltozását az idegenrendészeti ügyindítási elektronikus felületen – elektronikus regisztrálást követően – elektronikus úton jelenti be.
+
+#### 90/A. A tartózkodási engedély vagy hosszú távú tartózkodásra jogosító vízum lejáratakor a rövid távú tartózkodás kezdetének bejelentési kötelezettsége
+
+147/A. § A harmadik országbeli állampolgár az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 14. cikk (8) bekezdése szerinti kérelmét az ott meghatározott adatokkal az idegenrendészeti ügyindítási elektronikus felületen – elektronikus regisztrálást követően – elektronikus úton jelentheti be.
 
 #### 91. A harmadik országbeli állampolgár foglalkoztatással összefüggő bejelentési kötelezettsége
 
@@ -3674,7 +3683,7 @@ szerinti állam vonatkozásában.
 
 250. § E rész alkalmazásában:
 
-- a)
+- a) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer;
 - b)
 - c) természetes személyazonosító adatok:
   - ca) családi és utónév (nevek);
@@ -3888,7 +3897,9 @@ szerinti állam vonatkozásában.
 
 (3) Az idegenrendészeti nyilvántartás az (1) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartás.
 
-#### 264. §
+264. § (1) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelettel összhangban, közvetlen hozzáférés útján jogosult az Európai Határregisztrációs Rendszerben adatot rögzíteni és abból adatot lekérdezni.
+
+(2) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 35. cikke szerint jogosult az Európai Határregisztrációs Rendszerben a saját maga által rögzített adatokat kiegészíteni, helyesbíteni és törölni.
 
 #### 265. §
 
@@ -4415,11 +4426,22 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 309. §
 
-#### 167.
+#### 167. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-#### 310. §
+310. § A Rendőrségről szóló 1994. évi XXXIV. törvény 91/L. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-#### 311. §
+„(1) A rendőrség a Magyarország területén történő jogszerű tartózkodás szabályainak ellenőrzése, bűnüldözési és bűnmegelőzési célból az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 34. cikkében meghatározott adatmegőrzési ideig a határrendészeti adatállományban kezeli a határon átlépő, a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti harmadik országbeli állampolgárok
+
+- a) családi és utónevét,
+- b) születési idejét (év, hó, nap),
+- c) nemét,
+- d) állampolgárságát,
+- e) úti okmányának számát, típusát,
+- f) beutazásának, illetve kiutazásának pontos időpontját, az igénybe vett határátkelőhelyet,
+- g) vízumának számát, típusát és
+- h) határátlépés során használt gépjárműve rendszámát.”
+
+311. § A Rendőrségről szóló 1994. évi XXXIV. törvény 42. § (5a) bekezdésében az „a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe az „a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg lép.
 
 #### 168. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
@@ -4691,14 +4713,14 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 390. § Nem lép hatályba az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény
 
-- a)
-- b)
+- a) 6. § (1) bekezdése
+- b) 23. § (1) bekezdése
 - c)
 - d)
-- e)
+- e) 25. § (1) bekezdése
 - f)
 - g)
-- h)
+- h) 28. § (1) bekezdése
 - i)
 
 #### 224. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása

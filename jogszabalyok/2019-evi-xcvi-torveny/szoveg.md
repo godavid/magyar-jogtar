@@ -12,27 +12,75 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 #### 2. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-4. § (1)
+4. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 35/A. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az (EU) 2016/399 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdésében szereplő okmányokkal rendelkező személyek úti okmányait bélyegzőlenyomattal kell ellátni.”
 
 (2)
 
-5. § (1)
+5. § (1) Az Rtv. 91/K. § (1) bekezdése a következő i) ponttal egészül ki:
+
+(A rendőrség a határforgalom ellenőrzése során, az Európai Unió kötelező jogi aktusaival összhangban az államhatáron átlépők által bemutatott okmányok, valamint a határátlépés során használt gépjármű adatait különösen az alábbi nyilvántartások adataival veti össze:)
+
+„i) az Európai Határregisztrációs Rendszer,”
 
 (2)
 
 6. § (1)
 
-(2)
+(2) Az Rtv. 91/L. §-a a következő (4)–(8) bekezdéssel egészül ki:
+
+„(4) A rendőrség az (EU) 2017/2226 európai parlamenti és tanácsi rendeletnek megfelelően, feladataival összhangban jogosult az Európai Határregisztrációs Rendszerrel kapcsolatos adatok kezelésére.
+
+(5) A rendőrség az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 21. cikke szerint tartalékeljárásokat vezet be.
+
+(6) A központi szerv ellátja az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 39. cikk (1) bekezdése szerinti, az Európai Határregisztrációs Rendszerrel kapcsolatos adatkezelésért központilag felelős szerv feladatait. A központi szerv működteti az Európai Határregisztrációs Rendszer nemzeti központi hozzáférési pontját (a továbbiakban: nemzeti központi hozzáférési pont).
+
+(7) A nemzeti központi hozzáférési pont
+
+a) Magyarországot érintően az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 35. cikke szerint jogosult az Európai Határregisztrációs Rendszerben adatokat kiegészíteni, helyesbíteni és törölni,
+
+b) Magyarországot érintően jogosult az érintett (EU) 2017/2226 európai parlamenti és tanácsi rendelet 52. cikke szerinti kérelmét teljesíteni vagy annak elutasításáról dönteni,
+
+c) az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 29. cikk (3) bekezdésével összhangban ellenőrzi a (8) bekezdésben kijelölt hatóságok Európai Határregisztrációs Rendszer adataihoz való hozzáférése feltételeinek fennállását, és e feltételek fennállása esetén biztosítja a hozzáférést,
+
+d) teljesíti az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 72. cikk (8) bekezdése szerinti adatszolgáltatást.
+
+(8) Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 32. cikkében foglalt feltételek fennállása esetén, a Btk. 314–318/A. §-ában és 331. § (2) bekezdésében, továbbá az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú mellékletében meghatározott bűncselekmények megelőzése, felderítése és nyomozása céljából
+
+a) – ha e cselekmények megelőzésére, felderítésére feladat- és hatáskörrel rendelkezik – a nemzetbiztonsági szolgálatok, a rendőrség, a Nemzeti Adó- és Vámhivatal,
+
+b) a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szerv,
+
+c) a büntetőügyben eljáró nyomozó hatóság, ügyészség és bíróság
+
+az Európai Határregisztrációs Rendszerből adatot igényelhet a központi hozzáférési ponthoz benyújtott, indokolással ellátott kérelem útján.”
 
 (3)
 
-7. § (1)
+7. § (1) Az Rtv. 97. § (1) bekezdése a következő r) ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„r) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer.”
 
 (2)
 
-#### 8. §
+8. § Az Rtv. 100. § (1) bekezdése a következő q) ponttal egészül ki:
 
-9. § (1)
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„q) meghatározza az Európai Határregisztrációs Rendszerbe bevitt adatok helyesbítésének, kiegészítésének és törlésének, valamint az érintett jogainak érvényesítésére vonatkozó eljárási szabályokat, továbbá az Európai Határregisztrációs Rendszerhez való bűnüldözési célú hozzáférés eljárási szabályait.”
+
+9. § (1) Az Rtv. a következő 105. §-sal egészül ki:
+
+„105. § E törvény
+
+a) az (EU) 2016/399 rendeletnek a határregisztrációs rendszer (EES) alkalmazása tekintetében történő módosításáról szóló, 2017. november 30-i (EU) 2017/2225 európai parlamenti és tanácsi rendelet,
+
+b) a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.”
 
 (2)
 
@@ -46,25 +94,37 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 #### 13. §
 
-14. § (1)
+14. § (1) Az Nbtv. 74. §-a a következő r) ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„r) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer.”
 
 (2)
 
 #### 15. §
 
-16. § (1)
+16. § (1) Az Nbtv. a következő 82. §-sal egészül ki:
+
+„82. § E törvény a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
 
 (2)
 
 #### 4. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-17. § (1)
+17. § (1) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény (a továbbiakban: Szmtv.) 2. §-a a következő g) ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„g) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer.”
 
 (2)
 
 #### 18. §
 
-19. § (1)
+19. § (1) Az Szmtv. 65. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, illetve közúton szállító fuvarozó köteles elvégezni az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 13. cikk (3) bekezdésében előírt ellenőrzést.”
 
 (2)
 
@@ -74,7 +134,13 @@ az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformá
 
 #### 21. §
 
-22. § (1)
+22. § (1) Az Szmtv. 129. § (2) bekezdése a következő j) ponttal egészül ki:
+
+(Ez a törvény)
+
+„j) a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet”
+
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
 
 (2)
 
