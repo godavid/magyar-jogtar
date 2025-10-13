@@ -176,9 +176,7 @@ f)
 
 #### 40. §
 
-41. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 82. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 35. cikke szerint jogosult az Európai Határregisztrációs Rendszerben a saját maga által rögzített adatokat kiegészíteni, helyesbíteni és törölni.”
+#### 41. §
 
 #### 42. §
 
@@ -200,11 +198,7 @@ f)
 
 (2)
 
-(3) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 106. §-a a következő (10a) és (10b) bekezdéssel egészül ki:
-
-„(10a) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelettel összhangban, közvetlen hozzáférés útján jogosult az Európai Határregisztrációs Rendszerből adatot lekérdezni.
-
-(10b) Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 35. cikke szerint jogosult az Európai Határregisztrációs Rendszerben a saját maga által rögzített adatokat kiegészíteni, helyesbíteni és törölni.”
+(3)
 
 #### 50. §
 
@@ -308,7 +302,7 @@ c)
 
 #### 81. §
 
-82. § Nem lép hatályba az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény 26. § (1) bekezdése.
+#### 82. §
 
 #### 23. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 

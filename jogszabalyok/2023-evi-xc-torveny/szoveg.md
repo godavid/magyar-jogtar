@@ -4428,20 +4428,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 167. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-310. § A Rendőrségről szóló 1994. évi XXXIV. törvény 91/L. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 310. §
 
-„(1) A rendőrség a Magyarország területén történő jogszerű tartózkodás szabályainak ellenőrzése, bűnüldözési és bűnmegelőzési célból az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 34. cikkében meghatározott adatmegőrzési ideig a határrendészeti adatállományban kezeli a határon átlépő, a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti harmadik országbeli állampolgárok
-
-- a) családi és utónevét,
-- b) születési idejét (év, hó, nap),
-- c) nemét,
-- d) állampolgárságát,
-- e) úti okmányának számát, típusát,
-- f) beutazásának, illetve kiutazásának pontos időpontját, az igénybe vett határátkelőhelyet,
-- g) vízumának számát, típusát és
-- h) határátlépés során használt gépjárműve rendszámát.”
-
-311. § A Rendőrségről szóló 1994. évi XXXIV. törvény 42. § (5a) bekezdésében az „a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe az „a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg lép.
+#### 311. §
 
 #### 168. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
@@ -4713,14 +4702,14 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 390. § Nem lép hatályba az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény
 
-- a) 6. § (1) bekezdése
-- b) 23. § (1) bekezdése
+- a)
+- b)
 - c)
 - d)
-- e) 25. § (1) bekezdése
+- e)
 - f)
 - g)
-- h) 28. § (1) bekezdése
+- h)
 - i)
 
 #### 224. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
