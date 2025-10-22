@@ -82,6 +82,14 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 
 6/H. § A 6/G. § (3) bekezdése szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
+6/I. § (1) Az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 4. melléklet 2–8. sorában szereplő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
+
+(2) Az (1) bekezdésben meghatározott ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+(3) Az (1) bekezdés szerinti ingatlanjuttatásra tekintettel a közfeladat ellátására rendelkezésre álló, az Egyetem használatában levő, állami tulajdonú ingó vagyontárgyak, valamint vagyoni értékű jogok az Egyetem tulajdonába kerülnek.
+
+6/J. § A 6/I. § (3) bekezdése szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
 7. § Az Egyetem a tulajdonába adott ingatlant – a 6. §-ban, a 6/A. §-ban, a 6/B. § (1) és (2) bekezdésében, a 6/C. és a 6/D. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. melléketében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 8. § (1) A 3. melléklet szerinti ingatlan és a hozzá funkcionálisan kapcsolódó ingóságok az Egyetem – KEKVA tv. 1. mellékletében meghatározott – közfeladatai ellátásához szükséges vagyonként ingyenesen az Egyetem vagyonkezelésébe kerülnek.
@@ -120,7 +128,7 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 - b) nem érinti az e § szerinti időpontban hatályban lévő határozott idejű áthelyezést,
 - c) nem érinti a jogviszony időtartamát, valamint a munkaidő mértékét.
 
-11. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1) és (4)–(5) bekezdése, a 6. § (1), (5) és (7) bekezdése, a 6/A. §, a 6/B. §, a 6/G. §, a 7. §, a 8. §, a 9. § (1) és (3) bekezdése, a 9/A. §, a 12. §, valamint az 1–4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+11. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1) és (4)–(5) bekezdése, a 6. § (1), (5) és (7) bekezdése, a 6/A. §, a 6/B. §, a 6/G. §, a 6/I. §, a 7. §, a 8. §, a 9. § (1) és (3) bekezdése, a 9/A. §, a 12. §, valamint az 1–4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 12. §
 
@@ -289,3 +297,18 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 | 5. | SZEGED II. KERÜLET | 01392/20 | 1/1 | kivett beépítetlen terület |
 | 6. | SZEGED II. KERÜLET | 01392/21 | 1/1 | kivett közforgalom számára megnyitott magánút |
 | 7 | SZEGED II. KERÜLET | 01392/34 | 1/1 | kivett közforgalom számára megnyitott magánút |
+
+### 4. melléklet a 2021. évi XXIII. törvényhez
+
+#### Az Egyetem részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
+| 2 | SZEGED | 1769/1 | 1/1 | kivett kórház |
+| 3 | SZEGED | 3548 | 1/1 | kivett orvosi rendelő |
+| 4 | SZEGED | 3497/2 | 1/1 | kivett orvosi rendelő, udvar |
+| 5 | SZEGED | 25782 | 1/1 | kivett orvosi rendelő |
+| 6 | SZEGED | 25542 | 1/1 | kivett kórház |
+| 7 | SZEGED | 2976/B/1 | 1/1 | orvosi rendelő |
+| 8 | SZEGED | 2815/A/37 | 1/1 | orvosi rendelő |
