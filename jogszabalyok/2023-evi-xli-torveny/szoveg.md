@@ -218,31 +218,13 @@ az innovációs és tudományos eredmények gazdasági hasznosításának előse
 
 #### 90. §
 
-91. § A 2021. évi XXIII. törvény a következő 6/I. §-sal egészül ki:
+#### 91. §
 
-„6/I. § (1) Az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 4. melléklet 2–8. sorában szereplő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
+#### 92. §
 
-(2) Az (1) bekezdésben meghatározott ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+#### 93. §
 
-(3) Az (1) bekezdés szerinti ingatlanjuttatásra tekintettel a közfeladat ellátására rendelkezésre álló, az Egyetem használatában levő, állami tulajdonú ingó vagyontárgyak, valamint vagyoni értékű jogok az Egyetem tulajdonába kerülnek.”
-
-92. § A 2021. évi XXIII. törvény a következő 6/J. §-sal egészül ki:
-
-„6/J. § A 6/I. § (3) bekezdése szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.”
-
-93. § (1)
-
-(2)
-
-(3) A 2021. évi XXIII. törvény a 10. melléklet szerinti 4. melléklettel egészül ki.
-
-94. § A 2021. évi XXIII. törvény
-
-- a)
-- b) 11. §-ában az „a 7. §” szövegrész helyébe az „a 6/I. §, a 7. §” szöveg,
-- c)
-
-lép.
+#### 94. §
 
 #### 17. Az egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról szóló 2022. évi LIX. törvény módosítása
 
@@ -295,20 +277,3 @@ lép.
 ### 9. melléklet a 2023. évi XLI. törvényhez
 
 ### 10. melléklet a 2023. évi XLI. törvényhez
-
-„4. melléklet a 2021. évi XXIII. törvényhez
-
-Az Egyetem részére átadásra kerülő állami tulajdonú ingatlanok
-
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
-| 2 | SZEGED | 1769/1 | 1/1 | kivett kórház |
-| 3 | SZEGED | 3548 | 1/1 | kivett orvosi rendelő |
-| 4 | SZEGED | 3497/2 | 1/1 | kivett orvosi rendelő, udvar |
-| 5 | SZEGED | 25782 | 1/1 | kivett orvosi rendelő |
-| 6 | SZEGED | 25542 | 1/1 | kivett kórház |
-| 7 | SZEGED | 2976/B/1 | 1/1 | orvosi rendelő |
-| 8 | SZEGED | 2815/A/37 | 1/1 | orvosi rendelő |
-
-”
