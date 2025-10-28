@@ -1478,7 +1478,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (3)
 
-41. § A radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmény leszerelésének költsége az engedélyest, a Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény, vagy a központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetén a központi költségvetést terheli.
+41. § A radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmény leszerelésének költsége az engedélyest, a Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény, vagy a központi költségvetésből finanszírozott más szerv, továbbá a HUN-REN Magyar Kutatási Hálózat által működtetett nukleáris létesítmény esetén a központi költségvetést terheli.
 
 ### IV. Fejezet — Intézkedések rendkívüli események megelőzésére
 
@@ -1561,7 +1561,7 @@ alkalmazásával kell megállapítani.
 
 (4) Az engedélyes által ugyanazon a telephelyen üzemeltetett két- vagy több nukleáris létesítmény – e törvény atomkár-felelősségi és egyéb kárfelelősségi szabályainak alkalmazása szempontjából – egy nukleáris létesítménynek minősül.
 
-54. § (1) Az engedélyes köteles az 52. § (1) bekezdése szerinti atomkár-felelősségi összeg erejéig biztosításról vagy más pénzügyi fedezetről gondoskodni. Költségvetési intézmény esetében ennek forrását a központi költségvetés biztosítja.
+54. § (1) Az engedélyes köteles az 52. § (1) bekezdése szerinti atomkár-felelősségi összeg erejéig biztosításról vagy más pénzügyi fedezetről gondoskodni. Költségvetési intézmény, illetve a HUN-REN Magyar Kutatási Hálózat esetében ennek forrását a központi költségvetés biztosítja.
 
 (2) A biztosító vagy a pénzügyi fedezetet nyújtó szervezet nem szüntetheti meg, illetve nem függesztheti fel a biztosítást, illetve a pénzügyi fedezetet, kivéve, ha a felmondást vagy a felfüggesztést legalább két hónappal megelőzően az engedélyesnek és az atomenergia-felügyeleti szervnek írásban bejelentette.
 
@@ -1640,11 +1640,11 @@ együtt járó költségeket.
 
 (3) Az atomerőmű befizetésének éves mértékét a központi költségvetésről szóló törvény határozza meg a (2) bekezdésben foglalt kötelezettség figyelembevételével.
 
-(4) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetében a kiégett üzemanyag átmeneti elhelyezését szolgáló tároló létesítésével, üzemeltetésével, a nukleárisüzemanyag-ciklus lezárásával, valamint a nukleáris létesítmény leszerelésével és lebontásával és az annak következtében keletkező radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket azok felmerülésekor kell befizetni a Központi Nukleáris Pénzügyi Alapba. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
+(4) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy központi költségvetésből finanszírozott más szerv, továbbá a HUN-REN Magyar Kutatási Hálózat által működtetett nukleáris létesítmény esetében a kiégett üzemanyag átmeneti elhelyezését szolgáló tároló létesítésével, üzemeltetésével, a nukleárisüzemanyag-ciklus lezárásával, valamint a nukleáris létesítmény leszerelésével és lebontásával és az annak következtében keletkező radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket azok felmerülésekor kell befizetni a Központi Nukleáris Pénzügyi Alapba. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
 
 (5) A létesítési engedéllyel rendelkező atomerőmű engedélyese az üzemeltetési engedély hatálybalépését megelőzően, a radioaktív hulladék kezelésével és a kiégett üzemanyag kezelésével kapcsolatos előkészítő feladatok felmerülő költségét az üzembe helyezésig eseti befizetéssel teljesíti a Központi Nukleáris Pénzügyi Alapba. A befizetésre kerülő összeget az adott évi központi költségvetésről szóló törvény határozza meg.
 
-63/A. § (1) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy a központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény üzemideje alatt a radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket a hulladék tárolóba történő beszállításakor kell megfizetni az 1. mellékletben meghatározottak szerint. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
+63/A. § (1) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy a központi költségvetésből finanszírozott más szerv, továbbá a HUN-REN Magyar Kutatási Hálózat által működtetett nukleáris létesítmény üzemideje alatt a radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket a hulladék tárolóba történő beszállításakor kell megfizetni az 1. mellékletben meghatározottak szerint. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
 
 (2) Az atomenergia olyan alkalmazója, amely nem tartozik a 63. § (1) és (4) bekezdése, valamint az (1) bekezdés hatálya alá, a radioaktív hulladék végleges elhelyezésével kapcsolatos, az 1. melléklet alapján meghatározott befizetési kötelezettségét a hulladék tárolóba történő beszállításakor teljesíti.
 

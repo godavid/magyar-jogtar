@@ -55,7 +55,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet végez, továbbá alapszabálya, alapító okirata szerint megfelel a Civil tv. 34. § (1) bekezdés d) pontja szerinti feltételnek;
 
 - b) a Magyar Tudományos Akadémia;
-- c)
+- c) a HUN-REN Magyar Kutatási Hálózat,
 - d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény: 1. Magyar Állami Operaház, 2. Magyar Országos Levéltár, 3. Magyar Nemzeti Múzeum Közgyűjteményi Központ, 4. 5. Neumann János Multimédia Központ és Digitális Könyvtár;
 - e) az országos szakmúzeumok;
 - f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet, amely a rendelkező nyilatkozat évének első napja előtti három év valamelyikében a helyi önkormányzattól, az országos, illetve a helyi kisebbségi önkormányzattól vagy a központi költségvetésből egyedi támogatásban részesült és nem tartozik az előző kategóriákba;

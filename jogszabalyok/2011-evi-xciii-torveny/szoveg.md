@@ -57,6 +57,7 @@ részvételével működik.
   - c) egy, a határon túli magyar tudományos élet Magyar Tudományos Akadémia által delegált képviselője,
   - d) a Magyar Rektori Konferencia elnöke, illetve a Magyar Rektori Konferencia által delegált egy képviselő,
   - e) a Magyar Közgazdasági Társaság által delegált két képviselő;
+  - f) a HUN-REN Magyar Kutatási Hálózat elnöke és az általa delegált két képviselő;
 - 5. a művészet képviselői
   - a) a Magyar Művészeti Akadémia elnöke,
   - b) a Magyar Művészeti Akadémia által delegált két képviselő,
