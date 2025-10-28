@@ -120,6 +120,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - d) a 9. § (1) bekezdés h)–i) pontja szerinti jogi személyek,
 - e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy irányítása az a)–f) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlen vagy közvetett felügyelete alatt áll, vagy többségi részben egy vagy több ilyen szervezet (testület) finanszírozza, vagy egy vagy több ilyen szervezet (testület) választja meg a vezető tisztségviselők, a döntéshozó szerv vagy a felügyelőbizottság tagjainak a többségét,
 - f) a közfeladatot ellátó közérdekű vagyonkezelő alapítványok és az általuk létesített vagy fenntartott jogi személyek.
+- g) a HUN-REN Magyar Kutatási Hálózat.
 
 (2) A támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy, amelynek uniós közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését többségi részben, uniós értékhatárokat el nem érő, de a nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését 75%-ot meghaladó mértékben az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy közvetlenül támogatja, feltéve, hogy a beszerzés tárgya
 

@@ -11149,7 +11149,7 @@ a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetv
   - aa) a vesztegetés egyes enyhébben minősülő eseteit [Btk. 290. § (1) és (6) bekezdés],
   - ab) a vesztegetés elfogadása enyhébben minősülő esetét [Btk. 291. § (1) bekezdés];
 - b) a hivatali visszaélés (Btk. 305. §), kivéve, ha azt rendvédelmi szervnél, nemzetbiztonsági szolgálatnál, Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél nem vezető beosztású hivatalos személy követi el;
-- c) a vagyon elleni bűncselekmények közül a nemzeti vagyonra vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által kezelt vagyonra elkövetett vagy ilyen vagyonban kárt okozó
+- c) a vagyon elleni bűncselekmények közül a nemzeti vagyonra, a HUN-REN Magyar Kutatási Hálózat vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által kezelt vagyonra elkövetett vagy ilyen vagyonban kárt okozó
   - ca) sikkasztás súlyosabban minősülő esetei [Btk. 372. § (4)–(6) bekezdés],
   - cb) csalás súlyosabban minősülő esetei [Btk. 373. § (4)–(6) bekezdés],
   - cc) gazdasági csalás súlyosabban minősülő esetei [Btk. 374. § (4)–(6) bekezdés],
