@@ -49,7 +49,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - a) a helyi önkormányzat, a helyi önkormányzatok társulása az általa biztosított közszolgáltatások és katasztrófavédelmi feladatai körében;
 - b) a nemzetiségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
 - c) a költségvetési szerv az alaptevékenysége körében;
-- d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
+- d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében, a HUN-REN Magyar Kutatási Hálózat a közfeladatával összefüggésben;
 - e) a magyarországi székhelyű egyházi jogi személy vagy vallási egyesület a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
 - f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybe vevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
   - fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, intézmény vagy hálózat,

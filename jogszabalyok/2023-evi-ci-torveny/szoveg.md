@@ -10,7 +10,7 @@ Az Országgyűlés – az Alaptörvényben foglaltakkal összhangban, a közérd
 
 1. § (1) E törvény hatálya kiterjed
 
-- a) a közfeladatot ellátó szervek által kezelt, a nemzeti adatvagyon körébe tartozó adatok hasznosításával összefüggő szolgáltatásokra, ezen belül az adatok további felhasználására;
+- a) a közfeladatot ellátó szervek vagy szervezetek által kezelt, a nemzeti adatvagyon körébe tartozó adatok hasznosításával összefüggő szolgáltatásokra, ezen belül az adatok további felhasználására;
 - b) az adathasznosítást és a további felhasználást támogató egyéb, állami feladatok ellátására;
 - c) az adatalapú kormányzáshoz szükséges kormányzati döntéstámogatás érdekében végzett adatgyűjtési és adatelemzési feladatokra;
 - d) a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelmére;

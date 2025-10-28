@@ -86,6 +86,7 @@ kell megvalósítani.
 - n) a koncesszióról szóló 1991. évi XVI. törvény hatálya alá tartozó koncessziós építési beruházásra,
 - o) szénhidrogén-kutatásra, -feltárásra és -kitermelésre irányuló építési beruházásra, valamint
 - p) a kulturális örökség védelméről szóló törvény szerinti kiemelt nemzeti emlékhelyen megvalósuló építési beruházásra.
+- q) a HUN-REN Magyar Kutatási Hálózatról szóló törvény szerinti HUN-REN Magyar Kutatási Hálózat, valamint az általa létesített vagy fenntartott jogi személy építési beruházására,
 
 (2) A Kormány egyedi határozatában mentesítheti az adott állami építési beruházást e törvény alkalmazása alól az építési beruházás gyors lefolytatása érdekében, ha ahhoz kiemelt nemzeti vagy befektetésösztönzési érdek fűződik, vagy ha az építési beruházás – a legkisebb költség elvére figyelemmel – ezáltal alacsonyabb mértékű központi költségvetési forrás felhasználásával megvalósítható.
 

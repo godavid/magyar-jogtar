@@ -486,7 +486,7 @@ vízkészleteket fokozott védelemben kell részesíteni.
 
 - a) a környezetvédelmi céllal bejegyzett egyesületek, valamint
 - b) a szakmai és gazdasági érdekképviseleti szervek a maguk által meghatározott módon választott,
-- c) a tudományos élet, a Magyar Tudományos Akadémia elnöke által e tisztségre megbízott
+- c) a tudományos élet, a Magyar Tudományos Akadémia elnöke és a HUN-REN Magyar Kutatási Hálózat elnöke által közösen e tisztségre megbízott
 
 képviselői.
 

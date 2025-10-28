@@ -82,7 +82,7 @@ terjed ki.
 
 (2) A Géntechnológiai Bizottságba
 
-- a) a Magyar Tudományos Akadémia a genetika, a környezettudományok, az orvostudományok, az agrártudományok, a jogtudományok és az állatorvostudományok területéről egy-egy, összesen hat,
+- a) a Magyar Tudományos Akadémia és a HUN-REN Kutatási Hálózat közösen a genetika, a környezettudományok, az orvostudományok, az agrártudományok, a jogtudományok és az állatorvostudományok területéről egy-egy, összesen hat,
 - b) az agrárpolitikáért felelős miniszter a mezőgazdaság és az ipar területéről egy-egy,
 - c) a természetvédelemért felelős miniszter a környezetvédelem és a természetvédelem területéről egy-egy,
 - d) az egészségügyért felelős miniszter az egészségügy területéről egy,
@@ -281,7 +281,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (4) A veszélyes áruk szállításáról szóló jogszabályok rendelkezései az irányadóak a hatályuk alá tartozó géntechnológiával módosított szervezetek és az azokból előállított termékek behozatalára és kivitelére.
 
-14. §
+#### 14. §
 
 ### Szállítás
 
@@ -295,7 +295,9 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (5) A veszélyes áruk szállításáról szóló jogszabályok rendelkezései az irányadóak a hatályuk alá tartozó géntechnológiával módosított szervezetek és az azokból előállított termékek szállítására.
 
-### Géntechnológiai módosítást végző létesítménylétrehozása
+### Géntechnológiai módosítást végző létesítmény
+
+létrehozása
 
 16. § (1) A géntechnológiai módosítást végző létesítmény létrehozására vonatkozó engedélyezési eljárásban az ügyintézési határidő 45 nap.
 
@@ -508,13 +510,17 @@ esetén.
 
 (3) A határozat az általános közigazgatási rendtartásról szóló törvény által előírt jogosult vagy kötelezett ügyfél személyazonosító adatai helyett a döntéssel érintett termékkört, illetve személyi kört tartalmazza.
 
-### Felelősség a géntechnológiai tevékenységbőleredő károkért
+### Felelősség a géntechnológiai tevékenységből
+
+eredő károkért
 
 27. § A géntechnológiai tevékenységből eredő károkért való felelősségre a Polgári Törvénykönyv fokozott veszéllyel járó tevékenységre vonatkozó szabályai irányadóak.
 
 28. § A géntechnológiát hasznosító jogutód nélküli megszűnése esetén a felszámolás vagy a végelszámolás során a tevékenységgel esetlegesen okozott károk feltárása, megszüntetése érdekében a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló törvénynek a környezetvédelmi követelményekre vonatkozó rendelkezései értelemszerű alkalmazásával kell eljárni.
 
-### A törvényben meghatározott hatósági feladatokpénzügyi fedezete
+### A törvényben meghatározott hatósági feladatok
+
+pénzügyi fedezete
 
 29. § (1) Az engedélyek kiadása, valamint a 21–25. §-ban és a 36–37. §-ban meghatározott intézkedések megtétele, illetve szankciók alkalmazása és a hatósági eljárások lefolytatása állami feladat, amelyek költségeit központi költségvetési forrásból kell fedezni.
 
@@ -590,7 +596,7 @@ esetén.
 
 (11) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg a termesztési tilalommal érintett géntechnológiával módosított szervezetek, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának körét és a termesztési tilalom elrendelése alapján szükséges tárolási, szállítási, forgalmazási vagy egyéb biztonsági intézkedésekre vonatkozó előírásokat.
 
-35. §
+#### 35. §
 
 ### Átmeneti rendelkezések
 

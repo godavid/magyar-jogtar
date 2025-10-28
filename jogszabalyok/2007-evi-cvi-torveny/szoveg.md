@@ -725,7 +725,7 @@ lehet végezni.
 - b) belföldi vagy külföldi katasztrófák és súlyos szerencsétlenségek megelőzése, következményeinek elhárítása vagy enyhítése érdekében,
 - c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése érdekében,
 - d) kormányhatározatban kapott felhatalmazás alapján a Kormány tagja által kötött nemzetközi megállapodásban foglalt együttműködési feladatok végrehajtása érdekében, amennyiben az érintett állami vagyon egyedi, könyv szerinti bruttó értéke a 25,0 millió forintot nem haladja meg.
-- e) külön törvény szerinti közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
+- e) külön törvény szerinti közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia, HUN-REN Magyar Kutatási Hálózat és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 - f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén,
 - g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében.
 - h) az e törvény 1. § (2) bekezdés f) pontja szerinti állami vagyon tekintetében.
@@ -746,7 +746,7 @@ lehet végezni.
 
 (9) A (2) bekezdés h) pontja szerinti mű vagy teljesítmény, különösen kép-, illetve hangfelvétel vonatkozásában az 1. § (2) bekezdés f) pontja szerinti képviselő részére vagy a választási eljárásról szóló 2013. évi XXXVI. törvény szerinti jelölő szervezete vagy pártja részére felhasználási szerződés útján ingyenes, korlátozás nélküli felhasználási engedély adható.
 
-(10) A Kormány nyilvános határozatával dönthet ajándékozás vagy ajándékról való lemondás jogcímén állami tulajdonba került és állami feladatellátáshoz nem szükséges ingóság helyi önkormányzat, egyház, egyházi jogi személy, közalapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint civil szervezet javára ajándékként történő ingyenes átadásáról a feladataik ellátásának elősegítése érdekében, amennyiben az állam javára ajándékozó az ajándék továbbadását az ajándék adásakor nem korlátozta.
+(10) A Kormány nyilvános határozatával dönthet ajándékozás vagy ajándékról való lemondás jogcímén állami tulajdonba került és állami feladatellátáshoz nem szükséges ingóság helyi önkormányzat, egyház, egyházi jogi személy, közalapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, a HUN-REN Magyar Kutatási Hálózat, valamint civil szervezet javára ajándékként történő ingyenes átadásáról a feladataik ellátásának elősegítése érdekében, amennyiben az állam javára ajándékozó az ajándék továbbadását az ajándék adásakor nem korlátozta.
 
 (11) A (2) bekezdés a) és b) pontja, valamint a (10), (12), (13) és (15) bekezdés szerint átruházott állami tulajdonú ingóság tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdését.
 

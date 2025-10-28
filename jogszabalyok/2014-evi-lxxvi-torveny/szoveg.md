@@ -115,15 +115,21 @@ a következő törvényt alkotja:
 
 (3) A Kormány a kutatás-fejlesztés és innováció közfinanszírozású támogatását elsődlegesen a Nemzeti Kutatási, Fejlesztési és Innovációs Alapból (a továbbiakban: NKFI Alap) biztosítja. A Kormány által az NKFI Alapból központilag biztosított személyi jellegű kutatói pályázatok nem foglalják magukban a felsőoktatási intézmények doktori iskoláiban doktori képzésben részt vevők állami ösztöndíját.
 
-5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával a miniszterek, a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke és a Magyar Kutatási Hálózat (a továbbiakban: HUN-REN) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
+5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával a miniszterek, a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke és a HUN-REN Magyar Kutatási Hálózat (a továbbiakban: HUN-REN) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
 
-(2) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és a HUN-REN elnöke feladatkörükben együttműködve
+(2) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke feladatkörükben együttműködve
 
 - a) irányítják, felügyelik az általuk irányított fejezetbe sorolt költségvetési kutatóhelyeket,
 - b) gondoskodnak az általuk irányított fejezetbe sorolt előirányzatok terhére támogatott kutatás-fejlesztési és innovációs programok értékeléséről,
 - c)
 - d)
 - e)
+
+(2a) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és a HUN-REN elnöke feladatkörükben együttműködve
+
+- a) ellátják a nemzetközi szerződésekből rájuk háruló kutatás-fejlesztési és innovációs feladatokat,
+- b) elősegítik a kutatás-fejlesztési és innovációs eredmények hasznosítását, kutatás-fejlesztési célú szakmai együttműködések és innovációs hálózatok kialakítását, működését,
+- c) a szakterületükre irányuló támogatott kutatás-fejlesztési és innovációs programok tekintetében részt vesznek a tartalmi követelmények, a támogatási feltételek és az értékelési mutatók meghatározásában.
 
 (3) A miniszterek, az MTA elnöke és a HUN-REN elnöke feladatkörükben együttműködve a tudománypolitika koordinációjáért felelős miniszter véleményének kikérésével gondoskodnak a felelősségi körükbe tartozó kutatás-fejlesztési és innovációs feladatok ellátásához szükséges források tervezéséről, rendelkezésre bocsátásáról, kezeléséről és felhasználásáról, valamint annak ellenőrzéséről.
 
@@ -545,7 +551,7 @@ az 1. mellékletben meghatározott adatokat köteles szolgáltatni. Az adatszolg
 
 #### 13. A szellemi alkotásokhoz fűződő jogok védelme, a szellemi alkotások hasznosításának támogatása
 
-30. § A költségvetési kutatóhelynek minősülő központi költségvetési szervre, a HUN-REN Központra, továbbá az állami tulajdonban lévő közhasznú nonprofit gazdasági társasági formában működő kutatóhelyre jogszabály alapján átszálló, illetve az általa ellenérték fejében vagy ingyenesen szerzett szellemi alkotásokhoz fűződő jogok, valamint a szellemi alkotás hasznosítására létrejövő, a 34. § szerinti hasznosító vállalkozás részesedése – az állami vagyonról szóló 2007. évi CVI. törvény 2. § (2) bekezdésétől eltérően – az adott, kutatóhelynek minősülő központi költségvetési szerv, a HUN-REN Központ, illetve közhasznú nonprofit gazdasági társaság tulajdonába kerülnek.
+30. § A költségvetési kutatóhelynek minősülő központi költségvetési szervre, továbbá az állami tulajdonban lévő közhasznú nonprofit gazdasági társasági formában működő kutatóhelyre jogszabály alapján átszálló, illetve az általa ellenérték fejében vagy ingyenesen szerzett szellemi alkotásokhoz fűződő jogok, valamint a szellemi alkotás hasznosítására létrejövő, a 34. § szerinti hasznosító vállalkozás részesedése – az állami vagyonról szóló 2007. évi CVI. törvény 2. § (2) bekezdésétől eltérően – az adott, kutatóhelynek minősülő központi költségvetési szerv, illetve közhasznú nonprofit gazdasági társaság tulajdonába kerülnek.
 
 31. § (1) A közfinanszírozású kutatás-fejlesztési támogatással megvalósított projekt kedvezményezettje gondoskodik arról, hogy a projekt keretében létrejött szellemi alkotással kapcsolatos, a jogszabály adta keretek közötti lehető legteljesebb jogosultságok a kedvezményezettre szálljanak át oly módon, hogy ez lehetővé tegye a projekt eredményének a (2) bekezdéssel összhangban történő átengedését is. Ha a projekt megvalósításában többen működnek közre, úgy köztük az ilyen módon átszállt szellemi alkotással kapcsolatos jogokban való részesedés arányát polgári jogi szerződésben kell rögzíteni.
 
@@ -583,7 +589,7 @@ az 1. mellékletben meghatározott adatokat köteles szolgáltatni. Az adatszolg
 
 (3) A költségvetési kutatóhely – a (4) bekezdésben foglalt kivétellel –, valamint a felsőoktatási intézmény évente, a tárgyévet követő év március 31. napjáig beszámolót készít a tudománypolitika koordinációjáért felelős miniszter részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok.
 
-(4) A HUN-REN-hez tartozó költségvetési kutatóhely évente, a tárgyévet követő év március 31. napjáig jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok
+(4)
 
 (5) A Központi Statisztikai Hivatal adatot szolgáltat a Kormány által kijelölt szerv részére a kutatás-fejlesztési és innovációs tevékenységgel kapcsolatban. Az adatszolgáltatásra a hivatalos statisztikáról szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -648,136 +654,47 @@ a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
 
 ### VI/A. Fejezet — A Magyar Kutatási Hálózat (HUN-REN)
 
-#### 13/A. A HUN-REN szervezete
+#### 13/A.
 
-42/A. § A HUN-REN a HUN-REN Központból, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
+#### 42/A. §
 
 #### 13/B. A HUN-REN Központ
 
-42/B. § (1) A HUN-REN Központ gazdasági szervezettel rendelkező központi költségvetési szerv, mely a HUN-REN tagjaként központi költségvetési szerv formában működtetett kutatóhelyekkel a központi költségvetésről szóló törvényben önálló költségvetési fejezetet képez. A HUN-REN Központ tudományos kutatások folytatása céljából a központi költségvetésből támogatott főhivatású kutatóhálózatot tart fenn.
+42/B. § (1)
 
-(2) A HUN-REN Központ gyakorolja a 42/A. § szerint általa működtetett központi költségvetési szervként működő kutatóhelyek felett az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. §-a szerinti irányítási hatásköröket, valamint a gazdasági társaságként működő kutatóhelyeknek a tulajdonosi joggyakorlót megillető jogait, és ellátja a kutatóhelyek igazgatási és ellenőrzési feladatait.
+(2)
 
 (2a) A Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság felett a tulajdonosi jogokat a HUN-REN Központ gyakorolja.
 
 (3) A HUN-REN Központ közfeladata a jelen fejezetben meghatározott intézményesített keretek között folytatott kutatások intézményrendszerének fenntartása, működtetése.
 
-(4) A HUN-REN Központ – megállapodás útján – a (3) bekezdésben meghatározott közfeladat ellátásában más szervezet részvételét is biztosíthatja.
+(4)
 
 (5) A (3) bekezdés szerinti közfeladat ellátásához szükséges működés feltételeit a HUN-REN Központ – és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA – biztosítja.
 
-(6) A Kormány HUN-REN-nel és a HUN-REN Központtal kapcsolatos feladata a kutatás-fejlesztés és innováció közfinanszírozású támogatásához való hozzáférés elősegítése, a rendelkezésre álló többletforrások, az egységes szerkezetű finanszírozás hatékony felhasználási feltételeinek a biztosítása.
+(6)
 
-(7) A HUN-REN Központ feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát, valamint a kutatóhelyeket érintő jogszabályok megalkotása és módosítása során.
+(7)
 
-#### 13/C. A HUN-REN Központ szervezete
+#### 13/C.
 
-42/C. § (1) A HUN-REN Központ fő döntéshozó szerve az irányító testület (a továbbiakban: Irányító Testület).
+#### 42/C. §
 
-(2) Az Irányító Testület kilenc főből áll.
+#### 42/D. §
 
-(2a) Az Irányító Testület és a HUN-REN Központ vezetője az elnök (a továbbiakban: elnök), akit az MTA elnöke és a tudománypolitika koordinációjáért felelős miniszter közös javaslatára a miniszterelnök nevez ki és vonja vissza kinevezését. Az Irányító Testület elnöke a „HUN-REN elnöke” cím használatára jogosult.
-
-(2b) Az Irányító Testület elnökön felüli nyolc tagjának kinevezésére a tudománypolitika koordinációjáért felelős miniszter az MTA elnökével közösen és a HUN-REN elnökének egyetértésével tesz javaslatot, azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerül kiválasztásra.
-
-(2c) Az Irányító Testületnek nem lehet tagja a 42/A. § szerinti kutatóközpont, kutatóintézet vagy a kutatóközpont szervezeti egységeként működő kutatóintézet vezetője.
-
-(2d) Az Irányító Testület tagjait a tudománypolitika koordinációjáért felelős miniszter nevezi ki és vonja vissza kinevezésüket. Az Irányító Testület tagjai tiszteletdíjra jogosultak.
-
-(3) Az Irányító Testület
-
-- 1.
-- 2. elfogadja a HUN-REN működésével kapcsolatos stratégiai elveket;
-- 3. dönt a kutatóhelyek megalapításáról, átszervezéséről, megszüntetéséről;
-- 4. jóváhagyja a kutatóhelyek céljait, feladatait, elfogadja alapító okiratukat;
-- 5.
-- 6. dönt a HUN-REN Központ, valamint a kutatóhelyek szervezeti és működési szabályairól;
-- 7. elfogadja a HUN-REN vagyongazdálkodásával kapcsolatos szabályokat;
-- 8. előzetesen jóváhagyja a HUN-REN Központ szervezeti és működési szabályzatában meghatározott értékhatárt meghaladó kötelezettségvállalását;
-- 9. meghatározza a kutatóhelyek támogatásának szempontjait;
-- 10. jóváhagyja a HUN-REN Központ és a kutatóhelyek következő évi költségvetésének irányelveit és elfogadja a HUN-REN Központ és a kutatóhelyek következő évi költségvetésének kereteit;
-- 11. értékeli a kutatóhelyek tevékenységét szolgáló támogatások felhasználását;
-- 12. jóváhagyja a HUN-REN Központ és a kutatóhelyek előző évről szóló éves költségvetési beszámolóját;
-- 13. megvitatja az Országgyűlés és a Kormány számára készülő elnöki beszámolók koncepcióját;
-- 14. az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről;
-- 14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az MKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg; valamint
-- 15. ellátja az alapító okirat által hatáskörébe utalt feladatokat.
-
-(4) Az Irányító Testület legalább negyedévente ülésezik, működésének részletes szabályait a szervezeti és működési szabályzat keretei között ügyrendjében állapítja meg azzal, hogy az Irányító Testület szavazásra jogosult tagjai többségének támogató szavazata szükséges a (3) bekezdés 2. és 10. pontja szerinti döntésekhez.
-
-42/D. § (1)
-
-(2) A HUN-REN Központ tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
-
-(3) Az elnök
-
-- a) a HUN-REN mint központi költségvetési fejezet tekintetében a fejezetet irányító szerv vezetője;
-- b) kétévente az Országgyűlésnek, évente a Kormánynak beszámol a HUN-REN működésének eredményeiről;
-- c) a HUN-REN Központ vagyona tekintetében gyakorolja a tulajdonosi jogokat;
-- d) képviseli a HUN-REN Központot;
-- e) munkáltatói jogot gyakorol
-  - ea) a vezérigazgató,
-  - eb)
-  - ec) a kutatóhelyek vezetői
-
-felett;
-
-- f) a vezérigazgató útján gondoskodik az Irányító Testület döntéseinek végrehajtásáról,
-- g) ellátja az alapító okirat által hatáskörébe utalt további feladatokat.
-- h)
-- i) dönt a HUN-REN Központ szabályzatairól.
-- j) az igazgatási tevékenység ellátására valamennyi kutatóhelyre kiterjedő komplex szervezet- és vállalatirányítási rendszert működtet; valamint
-- k) a kutatóhelyeken végzett kutatások hatékonyságmérése és -fejlesztése, a kutatási tevékenység minőségbiztosítása, a szolgáltató jelleg erősítése és átláthatóságának biztosítása céljából kutatási adatbázist hoz létre, amelynek részeként a kutatási adatokat – beleértve a kutatóhelyeken foglalkoztatottak személyes adatait – tartalmazó kutatási nyilvántartást vezet.
-
-(4) Az elnököt – akadályoztatása esetén – a vezérigazgató helyettesíti, egyebekben az elnök a (3) bekezdés c) és d) pontjában, e) pont ec) alpontjában, valamint j) és k) pontjában foglalt jogköreit vagy azok meghatározott részét a vezérigazgatóra ruházhatja, aki ezt a jogát nem ruházhatja át.
-
-42/E. § Az Irányító Testület és az elnök munkájuk segítése céljából testületeket hozhatnak létre, amelyek tagjai részére tiszteletdíj adható. A tiszteletdíjat a testületet létrehozó elnök vagy az Irányító Testület állapítja meg.
+#### 42/E. §
 
 #### 42/F. §
 
-42/G. § (1) A vezérigazgató a HUN-REN Központ igazgatási vezetője, ezáltal közvetetten ellátja a kutatóhálózat adminisztratív irányítását. A vezérigazgató ellátja továbbá az alapító okiratban, a szervezeti és működési szabályzatban foglalt feladatokat, és eljár azokban az ügyekben, melyekben átruházott jogkört gyakorol.
+#### 42/G. §
 
-(2) A vezérigazgató a „HUN-REN vezérigazgatója” cím használatára jogosult.
+#### 13/D.
 
-#### 13/D. Kutatóhálózat
+#### 42/H. §
 
-42/H. § (1) A kutatóközpontok és a kutatóintézetek központi költségvetési szervi vagy közhasznú nonprofit gazdasági társasági formában működnek. A kutatócsoport valamely kutatóközponthoz, kutatóintézethez, vagy a támogatott kutatócsoportok kutatási feladatainak összehangolásáért felelős költségvetési szervhez rendelt szervezeti egység.
+#### 13/E.
 
-(2) A kutatóhelyek az alapító okiratukban foglaltaknak megfelelően ellátják közfeladataikat és egyéb tevékenységet is végezhetnek. Tevékenységüket az elnyert pályázataik és megkötött szerződéseik, továbbá az alapító okiratuk keretei között maguk határozzák meg. A kutatóhelyek közfeladataikat nem veszélyeztető módon vállalkozási tevékenység végzésére jogosultak.
-
-(2a) A kutatóhálózathoz tartozó központi költségvetési szervek vállalkozási tevékenységet is folytathatnak. Ha a tevékenység eredményét közfeladataik ellátására vagy azokat segítő beruházásokra a tárgyévet követő két éven belül felhasználják, ezt az összeget az Áht. 46. § (3) bekezdése szerinti befizetési kötelezettség nem terheli.
-
-(2b) A kutatóhelyek az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 2. § 8. pontjában meghatározott szervek eljárásában szakértő szervezetként kirendelhetők.
-
-(3) A kutatóhelyek a szakterületükön részt vesznek szakmai állásfoglalás és vélemény kidolgozásában, gondoskodnak kutatóik szakmai fejlődéséről és szakmai utánpótlás biztosításáról, továbbá a felsőoktatási intézményekkel kötött megállapodások szerint közreműködnek az oktatásban, kutatásban és doktori képzésekben.
-
-(4) A kutatóközpont, vagy kutatóintézet érintett szervezeti egysége legfőbb testületi döntéshozó szerve tagjai támogatásával, vagy ennek hiányában a szervezeti egység vezetőjének indokolt javaslatával az Irányító Testületnél kezdeményezheti a szervezeti egység szervezeti átalakítását, kiválását és másik kutatóközponthoz, vagy kutatóintézethez, felsőoktatási intézményhez való csatlakozását, illetve a kiválást követő önálló működtetését.
-
-(5) A költségvetési fejezeten belül forrást szükséges biztosítani a kutatóhálózat intézményfenntartásához.
-
-(6) A kutatóhelyek a rendelkezésükre bocsátott pénzeszközökkel és saját bevételeikkel önállóan gazdálkodnak és törvény eltérő rendelkezése hiányában ezek nem vonhatók el.
-
-(7) A kutatóhelyek többéves kutatási és egyéb szerződéseket köthetnek, és ezek teljesítése érdekében az elnök előzetes engedélyével a folyó éven túli kötelezettségeket vállalhatnak.
-
-(8) A kutatóhálózatba tartozó központi költségvetési szervek a megkötött kutatási szerződések alapján – az Irányító Testület által rögzített eljárási rend szerint – a bevételek mértékéig módosíthatják a kiadási és bevételi előirányzataik főösszegét.
-
-(9) A központi költségvetési szervként működő kutatóhelyek év végi maradványának a megkötött szerződések teljesítésével összefüggő része nem tartozik az éves maradványelszámolás körébe. Ezeket a maradványokat a kutatóhelyeknek a megkötött szerződésekben foglaltak szerint kell felhasználniuk, és a megbízóval kell a maradvány összegéről elszámolniuk. A központi költségvetési szerv kutatóhelyek a költségvetési év végén keletkezett maradványt – az Irányító Testület rendelkezésétől függően – a következő év(ek)ben feladataik teljesítésére felhasználhatják.
-
-(10) A központi költségvetési szerv kutatóhelyek az államháztartáson kívüli bevételeknek a kapcsolódó kiadások teljesítése után fennmaradt részét a Magyar Államkincstárnál külön célelszámolási számlán kezelhetik, s ennek összegét, valamint a maradvány átmenetileg szabad pénzeszközeit – amennyiben nincs lejárt kötelezettségük – a Magyar Államkincstár hálózatában értékesített állampapírba fektethetik.
-
-(11) A kutatóközpont és a kutatóintézet szellemi és anyagi kapacitásával végzett tevékenységének bevételei a kutatóhely működésének és fejlesztésének forrását képezik.
-
-#### 13/E. Foglalkoztatási szabályok
-
-42/I. § (1) Az elnök, a vezérigazgató, valamint az Irányító Testület tagjainak megbízatása legfeljebb hat évre szól. Az elnöki és vezérigazgatói tisztségre ugyanaz a személy egy alkalommal, legfeljebb hat évre újraválasztható.
-
-(2) Az elnök és a vezérigazgató a tevékenységéért az Irányító Testületnek felel.
-
-(3) A HUN-REN Központnál foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni azzal, hogy ha az (1) bekezdés szerinti megbízatás öt évnél hosszabb időtartamra jön létre, akkor a határozott idejű munkaviszony tartamára vonatkozóan az Mt. 192. § (2) bekezdése nem alkalmazandó.
-
-(4) A kutatóhelyeknél foglalkoztatottak jogviszonyára az Mt. rendelkezéseit kell alkalmazni.
-
-(5)
+#### 42/I. §
 
 ### VI/B. Fejezet — INNOVÁCIÓS ÖKOSZISZTÉMA FEJLESZTÉSÉVEL ÖSSZEFÜGGŐ RENDELKEZÉSEK
 
@@ -881,6 +798,8 @@ vonatkozó szabályait kell alkalmazni.
 47/C. § A Mód2.tv. hatálybalépését megelőzően a Szellemi Tulajdon Nemzeti Hivatalához benyújtott kutatás-fejlesztési tevékenység minősítésére irányuló kérelem alapján a Mód2.tv. hatálybalépésekor folyamatban lévő minősítési eljárásokat a Szellemi Tulajdon Nemzeti Hivatala folytatja le.
 
 47/D. § E törvénynek az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságának erősítéséhez szükséges egyes törvények, továbbá egyes felnőttképzési és kulturális tárgyú törvények módosításáról szóló 2023. évi LXXXV. törvénnyel megállapított 42/C. § (2c) bekezdésének hatálybalépését megelőzően kinevezett, a 42/A. § szerinti kutatóközpont, kutatóintézet vagy a kutatóközpont szervezeti egységeként működő kutatóintézet vezetőjének az Irányító Testületben betöltött tagsága 2024. január 1. napján megszűnik.
+
+47/E. § A HUN-REN Központ Irányító Testületének e rendelkezés hatálybalépését megelőzően kinevezett tagjainak megbízatása a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 28. § (3) bekezdésében meghatározott időpontban megszűnik.
 
 #### 17. Módosító rendelkezések
 

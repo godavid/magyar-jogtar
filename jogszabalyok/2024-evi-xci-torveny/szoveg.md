@@ -383,21 +383,31 @@ tulajdonába kerülnek.
 
 (2) A 30. §, a 39. §, a 77. § 17., 18. és 23. pontja a Magyar Tudományos Akadémia és a Magyar Nemzeti Vagyonkezelő Zrt. által megkötött szerződés alapján, az MKH kutatóintézetei által használt vagyonelemek állami tulajdonba kerülését követő napon lép hatályba.
 
-(3) A 29. §, a 31. §, a 32. §, a 15–17. alcím, a 19. alcím, a 20. alcím, a 43. §, a 44. § (2) bekezdése, a 45. §, a 46. §, a 22–34. alcím, a 64. §, a 75. §, a 76. § 1. pontja, a 77. § 1., 13–16. és 19–22. pontja és a 36–46. alcím a HUN-REN bírósági nyilvántartásba vételéről szóló határozat jogerőre emelkedését követő napon, de legkorábban 2025. április 1-jén lép hatályba.
+(3) A 29. §, a 31. §, a 32. §, a 15–17. alcím, a 20. alcím, a 43. §, a 44. § (2) bekezdése, a 45. §, a 46. §, a 22–34. alcím, a 64. §, a 75. §, a 76. § 1. pontja, a 77. § 1., 13–16. és 19–22. pontja és a 36–46. alcím a HUN-REN bírósági nyilvántartásba vételéről szóló határozat jogerőre emelkedését követő napon, de legkorábban 2025. április 1-jén lép hatályba.
 
 (4) A 30. §, a 39. § és a 77. § 17., 18. és 23. pontja hatálybalépésének naptári napját az állami vagyon felügyeletéért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(5) A 29. §, a 31. §, a 32. §, a 15–17. alcím, a 19. alcím, a 20. alcím, a 43. §, a 44. § (2) bekezdése, a 45. §, a 46. §, a 22–34. alcím, a 64. §, a 75. §, a 76. § 1. pontja, a 77. § 1., 13–16. és 19–22. pontja és a 36–46. alcím hatálybalépésének naptári napját a miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(5) A 29. §, a 31. §, a 32. §, a 15–17. alcím, a 20. alcím, a 43. §, a 44. § (2) bekezdése, a 45. §, a 46. §, a 22–34. alcím, a 64. §, a 75. §, a 76. § 1. pontja, a 77. § 1., 13–16. és 19–22. pontja és a 36–46. alcím hatálybalépésének naptári napját a miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 #### 13. Átmeneti rendelkezések
 
-#### 29. §
+29. § (1) Az MKH Központ megszűnik. A HUN-REN az MKH Központ általános jogutódja valamennyi jog és kötelezettség tekintetében.
+
+(2) Az MKH Központ által működtetett MKH kutatóintézetek mint költségvetési szervek jogutódlással megszűnnek, azzal, hogy tevékenységüket jogi személyiséggel rendelkező szervezeti egység formában (a 16. § szerinti kutatási intézményként) folytatják, amely szervezeti egység a 31. § (1) bekezdésében foglaltak kivételével az adott MKH kutatóintézet általános jogutódja valamennyi jog és kötelezettség tekintetében. Az állam a HUN-REN megalapításakor a Ptk. szabályai szerint köteles e jogi személyiséggel rendelkező szervezeti egységek létrehozására. A szervezeti egység vezetője tekintetében az elnök, további munkavállalói tekintetében a szervezeti egység vezetője gyakorolja a munkáltatói jogokat.
+
+(3) Az (1) és (2) bekezdés szerinti jogutódlás a fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
+
+(4) A jogutódlással érintett MKH Központ és MKH kutatóintézet a jogutódlás napját megelőző fordulónappal az államháztartási számviteli szabályok szerinti záró beszámolót készít, azzal, hogy a záró beszámolót megalapozó könyvviteli zárlat során az aktív és a passzív időbeli elhatárolásokat nem kell kivezetni. Az általános és kizárólagos jogutód HUN-REN a jogutódlás napján nyitó mérleget köteles készíteni, amelybe az MKH Központ és MKH kutatóintézetek záró beszámolója mérlegében kimutatott vagyoni elemeket azok jellegének, és a záró beszámoló mérlegében bemutatott könyv szerinti értékének megfelelően veszi fel azzal, hogy a saját tőkén belül a nemzeti vagyon induláskori értéke jegyzett tőkeként, a nemzeti vagyon változásai és az egyéb eszközök induláskori értéke és változásai tőketartalékként, a mérleg szerinti eredmény és a felhalmozott eredmény eredménytartalékként veendő fel a nyitómérlegbe.
+
+(5) Az ingatlanok vonatkozásában a 24. § szerinti tulajdonátadás napjáig a HUN-REN-t az 1. § (2) bekezdésében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg
 
 #### 30. §
 
-#### 31. §
+31. § (1) Az MKH Központ, valamint az MKH kutatóintézetek munkavállalóinak jogviszonya a 28. § (3) bekezdés szerinti dátummal – a 29. § (2) bekezdésében foglaltaktól eltérően – a HUN-REN-nel megkötött munkaviszonnyá alakul át azzal, hogy a munkabér összege megegyezik az e törvény hatálybalépésekor az MKH Központtal, valamint az MKH kutatóintézettel meglévő munkaviszony szerinti munkabérrel, továbbá az MKH kutatóintézetek munkavállalóinak esetében a munkaszerződésben rögzíteni kell 29. § (2) bekezdése szerinti jogutód szervezeti egységet.
 
-#### 32. §
+(2) Ha az (1) bekezdésben foglalt munkajogviszony-átalakulással érintett munkavállaló munkajogviszonya a KFItv. 47/A. § (1) bekezdése alapján jött létre, akkor a munkavállalóra vonatkozóan a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény jubileumi jutalomra vonatkozó szabályait 2025. december 31-ig alkalmazni kell.
+
+32. § A Kormány egyedi határozatával a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XXXVI. MAGYAR KUTATÁSI HÁLÓZAT fejezet kiadási előirányzatait a HUN-REN 1. § (2) bekezdés szerinti közfeladatai végrehajtásának támogatása érdekében átcsoportosíthatja, azok címrendi besorolását módosíthatja.
 
 #### 14. Sarkalatos rendelkezések
 
@@ -415,19 +425,28 @@ tulajdonába kerülnek.
 
 ### VI. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
 
-#### 15.
+#### 15. A külföldiek magyarországi befektetéseiről szóló 1988. évi XXIV. törvény módosítása
 
-#### 34. §
+34. § A külföldiek magyarországi befektetéseiről szóló 1988. évi XXIV. törvény 3. § (2) bekezdés a) pontjában az „oktatási” szövegrész helyébe a „ , valamint a HUN-REN Magyar Kutatási Hálózatnál oktatási” szöveg lép.
 
-#### 16.
+#### 16. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-#### 35. §
+35. § Az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdése a következő u) ponttal egészül ki:
 
-#### 36. §
+(Teljes személyes illetékmentességben részesül:)
 
-#### 17.
+„u) a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény szerinti HUN-REN Magyar Kutatási Hálózat.”
 
-#### 37. §
+36. § Az illetékekről szóló 1990. évi XCIII. törvény
+
+- a) 5. § (2) bekezdésében az „és m) pontban” szövegrész helyébe az „ , m) és u) pontban” szöveg,
+- b) 16. § (3) bekezdésében a „helyi önkormányzatnak,” szövegrész helyébe a „helyi önkormányzatnak, a HUN-REN Magyar Kutatási Hálózatnak, a Magyar Tudományos Akadémiának” szöveg
+
+lép.
+
+#### 17. A helyi adókról szóló 1990. évi C. törvény módosítása
+
+37. § A helyi adókról szóló 1990. évi C. törvény 3. § (5) bekezdésében az „intézményre,” szövegrész helyébe az „intézményre, a HUN-REN Magyar Kutatási Hálózatra, a Magyar Tudományos Akadémiára,” szöveg lép.
 
 #### 18. A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény módosítása
 
@@ -441,85 +460,172 @@ tulajdonába kerülnek.
 
 #### 41. §
 
-#### 20.
+#### 20. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-#### 42. §
+42. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény
+
+- a) 49/B. § (6) bekezdés c) pont záró szövegrészében az „a Magyar Kutatási” szövegrész helyébe az „a HUN-REN Magyar Kutatási” szöveg,
+- b) 1. számú melléklet 3. pont 3.9. alpontjában a „közfeladatának” szövegrész helyébe a „ , valamint a HUN-REN Magyar Kutatási Hálózat közfeladatának” szöveg,
+- c) 1. számú melléklet 4. pont 4.51. alpontjában az „említett személy a” szövegrész helyébe az „említett személy a HUN-REN Magyar Kutatási Hálózattal, a” szöveg,
+- d) 1. számú melléklet 8. pont 8.33. alpontjában a „költségvetési szerv,” szövegrész helyébe a „költségvetési szerv, a HUN-REN Magyar Kutatási Hálózat,” szöveg
+
+lép.
 
 #### 21. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-#### 43. §
+43. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2. § (2) bekezdése a következő m) ponttal egészül ki:
+
+(Belföldi illetőségű adózó a belföldi személyek közül)
+
+„m) a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény szerinti HUN-REN Magyar Kutatási Hálózat (a továbbiakban: HUN-REN).”
 
 44. § (1)
 
-(2)
+(2) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 20. § (1) bekezdése a következő h) ponttal egészül ki:
 
-#### 45. §
+(Nem kell az adót megfizetnie)
 
-#### 46. §
+„h) a HUN-REN-nek az adóalapja azon része után, amelyet céljainak, közfeladatának, közérdekű tevékenységének megvalósítását szolgáló tevékenysége révén szerzett bevétele – így különösen az állam által rendelt, valamint az egyéb forrásból származó vagyon átvételéből, hasznainak szedéséből származó bevétele – képvisel az összes bevételén belül.”
 
-#### 22.
+45. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/A. §-a a következő (126) bekezdéssel egészül ki:
 
-#### 47. §
+„(126) E törvénynek a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvénnyel (a továbbiakban: HUN-REN törvény) módosított 7. § (1) bekezdés z) pontját, 7. § (7) bekezdés a) pontját, 18/C. § (23) bekezdését, 3. számú melléklet B) rész 25. pontját első alkalommal e rendelkezések hatálybalépése napját követően létrejött jogviszonyok tekintetében kell alkalmazni.”
 
-#### 23.
+46. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény
 
-#### 48. §
+- a) 4. § 28/b. pontjában a „közfeladatot ellátó közérdekű vagyonkezelő alapítványt” szövegrész helyébe a „közfeladatot ellátó közérdekű vagyonkezelő alapítványt, továbbá a HUN-REN-t” szöveg,
+- b) 7. § (1) bekezdés z) pont nyitó szövegrészében a „Nemzeti Kulturális Alapnak,” szövegrész helyébe a „Nemzeti Kulturális Alapnak, a HUN-REN-nek,” szöveg,
+- c) 7. § (1) bekezdés z) pont za) alpontjában a „közhasznú szervezet,” szövegrész helyébe a „közhasznú szervezet, valamint a HUN-REN,” szöveg,
+- d) 7. § (7) bekezdés a) pontjában a „közhasznú szervezet,” szövegrész helyébe a „közhasznú szervezet, illetve a HUN-REN,” szöveg,
+- e) 7. § (17) bekezdésében a „szervként működő kutatóintézet,” szövegrész helyébe a „szervként működő kutatóintézet, a HUN-REN Magyar Kutatási Hálózat,” szöveg,
+- f) 18/C. § (23) bekezdésében a „részére” szövegrész helyébe az „ , illetve a HUN-REN részére” szöveg,
+- g) 22/G. § (6) bekezdés b) pontjában a „szervként működő kutatóintézet,” szövegrész helyébe a „szervként működő kutatóintézet, a HUN-REN Magyar Kutatási Hálózat,” szöveg,
+- h) 3. számú melléklet B) rész 25. pontjában a „továbbá” szövegrész helyébe a „továbbá közfeladatot ellátó közérdekű vagyonkezelő alapítványnak, illetve a HUN-REN-nek” szöveg
 
-#### 24.
+lép.
 
-#### 49. §
+#### 22. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-#### 25.
+47. § Az atomenergiáról szóló 1996. évi CXVI. törvény
 
-#### 50. §
+- a) 41. §-ában a „más szerv” szövegrész helyébe a „más szerv, továbbá a HUN-REN Magyar Kutatási Hálózat” szöveg,
+- b) 54. § (1) bekezdésében az „intézmény” szövegrész helyébe az „intézmény, illetve a HUN-REN Magyar Kutatási Hálózat” szöveg,
+- c) 63. § (4) bekezdésében a „más szerv által” szövegrész helyébe a „más szerv, továbbá a HUN-REN Magyar Kutatási Hálózat által” szöveg,
+- d) 63/A. § (1) bekezdésében a „más szerv” szövegrész helyébe a „más szerv, továbbá a HUN-REN Magyar Kutatási Hálózat” szöveg
 
-#### 26.
+lép.
 
-#### 51. §
+#### 23. A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti közcélú felhasználásáról szóló 1996. évi CXXVI. törvény módosítása
 
-#### 27.
+48. § A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti közcélú felhasználásáról szóló 1996. évi CXXVI. törvény 4. § (1) bekezdése a következő c) ponttal egészül ki:
 
-#### 52. §
+(Kedvezményezettnek minősül)
 
-#### 28.
+„c) a HUN-REN Magyar Kutatási Hálózat,”
 
-#### 53. §
+#### 24. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosítása
 
-#### 54. §
+49. § A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 37/A. § (6) bekezdésében a „köztestületekkel, a” szövegrész helyébe a „köztestületekkel, a HUN-REN Magyar Kutatási Hálózattal, a” szöveg lép.
 
-#### 29.
+#### 25. A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény módosítása
 
-#### 55. §
+50. § A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 5. § (2) bekezdés a) pontjában az „a genetika,” szövegrész helyébe az „és a HUN-REN Kutatási Hálózat közösen a genetika,” szöveg lép.
 
-#### 30.
+#### 26. A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény módosítása
 
-#### 56. §
+51. § A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény 3. § (1) bekezdés d) pontjában a „körében;” szövegrész helyébe a „körében, a HUN-REN Magyar Kutatási Hálózat a közfeladatával összefüggésben;” szöveg lép.
 
-#### 31.
+#### 27. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-#### 57. §
+52. § Az állami vagyonról szóló 2007. évi CVI. törvény
 
-#### 58. §
+- a) 36. § (2) bekezdés e) pontjában a „Tudományos Akadémia” szövegrész helyébe a „Tudományos Akadémia, HUN-REN Magyar Kutatási Hálózat” szöveg,
+- b) 36. § (10) bekezdésében az „alapítvány,” szövegrész helyébe az „alapítvány, a HUN-REN Magyar Kutatási Hálózat,” szöveg
 
-#### 59. §
+lép.
 
-#### 32.
+#### 28. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-#### 60. §
+53. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (1) bekezdése a következő g) ponttal egészül ki:
 
-#### 33.
+(Az erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület kivételével vagyonkezelési szerződés köthető:)
 
-#### 61. §
+„g) a HUN-REN Magyar Kutatási Hálózattal az alapító okiratában vagy jogszabályban meghatározott tudományos kutatási vagy innovációs közfeladatának megvalósítása célját szolgáló földrészletre.”
 
-#### 62. §
+54. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény
 
-#### 34.
+- a) 20. § (2a) bekezdésében az „intézmény” szövegrész helyébe az „intézmény, valamint a HUN-REN Magyar Kutatási Hálózat” szöveg,
+- b) 21. § (3d) bekezdésében az „intézménnyel az” szövegrész helyébe az „intézménnyel, illetve a HUN-REN Magyar Kutatási Hálózattal az” szöveg és az „alapfeladatát” szövegrész helyébe az „alapfeladatát, közfeladatát” szöveg
 
-#### 63. §
+lép.
+
+#### 29. A Nemzeti Gazdasági és Társadalmi Tanácsról szóló 2011. évi XCIII. törvény módosítása
+
+55. § A Nemzeti Gazdasági és Társadalmi Tanácsról szóló 2011. évi XCIII. törvény 4. § (1) bekezdés 4. pontja a következő f) alponttal egészül ki:
+
+[A Tanács tagjai az e bekezdésben meghatározott szervezetek, amelyek képviselőik és delegáltjaik (a továbbiakban együtt: képviselők) útján vesznek részt a Tanács munkájában. A Tanács tagjai oldalakat alkotnak. A Tanács a következő oldalakból tevődik össze:
+
+a tudomány képviselői]
+
+  - „f) a HUN-REN Magyar Kutatási Hálózat elnöke és az általa delegált két képviselő;”
+
+#### 30. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
+
+56. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
+
+- a) 36. § (1) bekezdés a) pont aa) alpontjában az „ellátott” szövegrész helyébe a „ , valamint a HUN-REN Magyar Kutatási Hálózat Irányító Testületének vagy felügyelőbizottságának tagjaként ellátott” szöveg,
+- b) 108. § (2) bekezdés c) pontjában a „Tudományos Akadémia és” szövegrész helyébe a „Tudományos Akadémia, a HUN-REN Magyar Kutatási Hálózat és” szöveg
+
+lép.
+
+#### 31. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
+
+57. § Az államháztartásról szóló 2011. évi CXCV. törvény 79. § (4a) bekezdése a következő h) ponttal egészül ki:
+
+(A kincstár fizetési számlát vezet)
+
+„h) a HUN-REN Magyar Kutatási Hálózat megbízása esetén a HUN-REN Magyar Kutatási Hálózat számára, illetve a HUN-REN Magyar Kutatási Hálózat tulajdonában álló nonprofit gazdasági társaság számára.”
+
+58. § Az államháztartásról szóló 2011. évi CXCV. törvény 48/B. § (1) bekezdés e) pontjában az „a sportszervezet” szövegrész helyébe az „a HUN-REN Magyar Kutatási Hálózat, a sportszervezet” szöveg lép.
+
+59. § Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
+
+- a) 1. § 11. pontjában az „a Magyar Kutatási Hálózat,” szövegrész,
+- b) 106/D. § (3) bekezdésében az „a Magyar Kutatási Hálózat Titkárságával,” szövegrész.
+
+#### 32. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
+
+60. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 19. pont c) alpontjában az „a tevékenysége” szövegrész helyébe a „ , továbbá a HUN-REN Magyar Kutatási Hálózat a tevékenysége” szöveg lép.
+
+#### 33. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
+
+61. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 85. §-a a következő (5b) bekezdéssel egészül ki:
+
+„(5b) Nem keletkeztet összeférhetetlenséget a HUN-REN Magyar Kutatási Hálózat Irányító Testületében és felügyelőbizottságában betöltött tagság azzal, hogy az érintettnek meg kell felelnie a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 9. § és 10. §-ában foglaltaknak.”
+
+62. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 87. §-a a következő (2b) bekezdéssel egészül ki:
+
+„(2b) A (2) bekezdésben foglaltaktól eltérően a vezetői munkakört betöltő köztisztviselő – a munkáltatói jogkör gyakorlójának az előzetes engedélye nélkül – lehet a HUN-REN Magyar Kutatási Hálózat Irányító Testületének vagy felügyelőbizottságának tagja azzal, hogy az érintettnek meg kell felelnie a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 9. § és 10. §-ában foglaltaknak.”
+
+#### 34. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
+
+63. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 40. § (3) bekezdése a következő c) ponttal egészül ki:
+
+(Haszonbérlet címén)
+
+„c) a HUN-REN Magyar Kutatási Hálózat”
+
+(az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudományos kutatási alapfeladatát szolgáló föld használatát megszerezheti.)
 
 #### 35. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 
-#### 64. §
+64. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 5. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és a HUN-REN elnöke feladatkörükben együttműködve
+
+- a) ellátják a nemzetközi szerződésekből rájuk háruló kutatás-fejlesztési és innovációs feladatokat,
+- b) elősegítik a kutatás-fejlesztési és innovációs eredmények hasznosítását, kutatás-fejlesztési célú szakmai együttműködések és innovációs hálózatok kialakítását, működését,
+- c) a szakterületükre irányuló támogatott kutatás-fejlesztési és innovációs programok tekintetében részt vesznek a tartalmi követelmények, a támogatási feltételek és az értékelési mutatók meghatározásában.”
 
 #### 65. §
 
@@ -541,11 +647,13 @@ tulajdonába kerülnek.
 
 #### 74. §
 
-#### 75. §
+75. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 16. alcíme a következő 47/E. §-sal egészül ki:
+
+„47/E. § A HUN-REN Központ Irányító Testületének e rendelkezés hatálybalépését megelőzően kinevezett tagjainak megbízatása a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 28. § (3) bekezdésében meghatározott időpontban megszűnik.”
 
 76. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
 
-- 1.
+- 1. 5. § (1) bekezdésében a „Magyar Kutatási” szövegrész helyébe a „HUN-REN Magyar Kutatási” szöveg,
 - 2.
 - 3.
 - 4.
@@ -569,7 +677,7 @@ lép.
 
 77. § Hatályát veszti a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
 
-- 1.
+- 1. 5. § (2) bekezdés nyitó szövegrészében az „és a HUN-REN elnöke” szövegrész,
 - 2.
 - 3.
 - 4.
@@ -581,61 +689,76 @@ lép.
 - 10.
 - 11.
 - 12.
-- 13.
-- 14.
-- 15.
-- 16.
+- 13. 30. §-ában az „a HUN-REN Központra,” szövegrész és az „a HUN-REN Központ,” szövegrész,
+- 14. 34. § (4) bekezdése,
+- 15. 13/A. alcíme,
+- 16. 42/B. § (1), (2) és (4) bekezdése,
 - 17.
 - 18.
-- 19.
-- 20.
-- 21.
-- 22.
+- 19. 42/B. § (6) és (7) bekezdése,
+- 20. 13/C. alcíme,
+- 21. 13/D. alcíme,
+- 22. 13/E. alcíme,
 - 23.
 
-#### 36.
+#### 36. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-#### 78. §
+78. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdése a következő g) ponttal egészül ki:
 
-#### 37.
+(E törvény alapján közbeszerzési eljárás lefolytatására kötelezettek:)
 
-#### 79. §
+„g) a HUN-REN Magyar Kutatási Hálózat.”
 
-#### 38.
+#### 37. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
 
-#### 80. §
+79. § Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 2. § 5. pontjában a „részeként” szövegrész helyébe a „részeként, vagy a HUN-REN Magyar Kutatási Hálózat részeként” szöveg lép.
 
-#### 39.
+#### 38. Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény módosítása
 
-#### 81. §
+80. § Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény 1. § (2) bekezdés b) pontjában a „valamint állami” szövegrész helyébe az „a HUN-REN Magyar Kutatási Hálózatnál munkavállalóként, valamint állami” szöveg lép.
 
-#### 40.
+#### 39. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-#### 82. §
+81. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontjában a „köztestület,” szövegrész helyébe a „köztestület, a HUN-REN Magyar Kutatási Hálózat,” szöveg lép.
 
-#### 41.
+#### 40. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
-#### 83. §
+82. § A hivatalos statisztikáról szóló 2016. évi CLV. törvény 21. § (4) bekezdés h) pontjában az „által” szövegrész helyébe az „és a HUN-REN Magyar Kutatási Hálózat által közösen” szöveg lép.
 
-#### 42.
+#### 41. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-#### 84. §
+83. § A büntetőeljárásról szóló 2017. évi XC. törvény 817/A. § (1) bekezdés c) pont nyitó szövegrészében a „nemzeti vagyonra” szövegrész helyébe a „nemzeti vagyonra, a HUN-REN Magyar Kutatási Hálózat” szöveg lép.
 
-#### 43.
+#### 42. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-#### 85. §
+84. § Az adózás rendjéről szóló 2017. évi CL. törvény
 
-#### 44.
+- a) 41. § (1a) bekezdésében az „alapítvány és” szövegrész helyébe az „alapítvány, a HUN-REN Magyar Kutatási Hálózat (a továbbiakban: HUN-REN) és” szöveg és az „alapítvánnyal” szövegrész helyébe az „alapítvánnyal, a HUN-REN-nel” szöveg,
+- b) 41. § (4) bekezdésében az „alapítvánnyal” szövegrész helyébe az „alapítvánnyal, a HUN-REN-nel” szöveg
 
-#### 86. §
+lép.
 
-#### 45.
+#### 43. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-#### 87. §
+85. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 95. §-a a következő (11b) bekezdéssel egészül ki:
 
-#### 46.
+„(11b) Nem keletkeztet összeférhetetlenséget a HUN-REN Magyar Kutatási Hálózat Irányító Testületében vagy felügyelőbizottságában betöltött tagság, azzal, hogy az érintettnek meg kell felelnie a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 9. § és 10. §-ában foglaltaknak.”
 
-#### 88. §
+#### 44. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
+
+86. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 22. § (1) bekezdés i) pont ie) alpontjában az „által alapított” szövegrész helyébe a „ , vagy a HUN-REN Magyar Kutatási Hálózat által alapított” szöveg lép.
+
+#### 45. Az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény módosítása
+
+87. § Az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 4. § (1) bekezdése a következő q) ponttal egészül ki:
+
+(E törvény hatálya nem terjed ki)
+
+„q) a HUN-REN Magyar Kutatási Hálózatról szóló törvény szerinti HUN-REN Magyar Kutatási Hálózat, valamint az általa létesített vagy fenntartott jogi személy építési beruházására,”
+
+#### 46. A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény módosítása
+
+88. § A nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény 1. § (1) bekezdés a) pontjában a „szervek által” szövegrész helyébe a „szervek vagy szervezetek által” szöveg lép.
 
 ### 1. melléklet a 2024. évi XCI. törvényhez
 

@@ -270,7 +270,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - e) az országos önkormányzati érdekszövetségek által jelölt két tag,
 - f) a Magyar Kereskedelmi és Iparkamara által jelölt tag,
 - g) a Nemzeti Agrárgazdasági Kamara által jelölt tag,
-- h) a tudományos élet képviselői közül a Magyar Tudományos Akadémia által jelölt öt tag,
+- h) a tudományos élet képviselői közül a Magyar Tudományos Akadémia és a HUN-REN Magyar Kutatási Hálózat által közösen jelölt öt tag,
 - i) az MNB mint adatfelhasználó által jelölt tag.
 
 (5) Az OST ülésén állandó meghívottként vesznek részt a Nemzeti Statisztikai Koordinációs Testület tagjai, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke.

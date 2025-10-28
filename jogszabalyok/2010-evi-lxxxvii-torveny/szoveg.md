@@ -386,10 +386,11 @@ követő napon.
 - d) olyan közérdekű vagyonkezelő alapítvánnyal vagy annak 100%-os tulajdonában álló gazdasági társasággal, amelynek elsődleges feladata felsőoktatási intézmény alapítói, fenntartói jogainak gyakorlása, valamint működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása.
 - e) felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
 - f) a Tokaji Életpálya Program megvalósítására a Kormány által egyedi határozatban kijelölt szervezettel az ott megjelölt földrészletre.
+- g) a HUN-REN Magyar Kutatási Hálózattal az alapító okiratában vagy jogszabályban meghatározott tudományos kutatási vagy innovációs közfeladatának megvalósítása célját szolgáló földrészletre.
 
 (2) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy 100%-os állami tulajdonban álló gazdálkodó szervezet végezheti.
 
-(2a) A (2) bekezdésben foglaltakon túlmenően az alapító okiratban vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatot – az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet – közvetlenül szolgáló földterület vagyonkezelését felsőoktatási intézmény is végezheti.
+(2a) A (2) bekezdésben foglaltakon túlmenően az alapító okiratban vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatot – az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet – közvetlenül szolgáló földterület vagyonkezelését felsőoktatási intézmény, valamint a HUN-REN Magyar Kutatási Hálózat is végezheti.
 
 (3) Közvetlenül a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szerv kivételével központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
 
@@ -481,7 +482,7 @@ követő napon.
 
 (3c) A védett természeti területek természetvédelmi kezeléséért felelős szerv vagy az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 1. mellékletében szereplő és az állam 100%-os tulajdonában álló gazdálkodó szervezet vagyonkezelésébe kell adni azt a földrészletet, amelynek állami tulajdonba vételére a védett természeti területek védettségi szintjének helyreállítása vagy természetvédelmi célok megvalósítása érdekében került sor.
 
-(3d) Vagyonkezelési szerződés ingyenesen köthető az agrárágazathoz tartozó köznevelési intézménnyel, szakképző intézménnyel, agrárszakképzési centrummal, felsőoktatási intézménnyel, továbbá az agrárágazathoz tartozó kutatási feladatot ellátó, a miniszter fenntartásában működő intézménnyel az alapító okiratában vagy jogszabályban meghatározott oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre, továbbá a Tokaji Életpálya Program megvalósítására a Kormány által egyedi határozatban kijelölt szervezettel az ott megjelölt földrészletre.
+(3d) Vagyonkezelési szerződés ingyenesen köthető az agrárágazathoz tartozó köznevelési intézménnyel, szakképző intézménnyel, agrárszakképzési centrummal, felsőoktatási intézménnyel, továbbá az agrárágazathoz tartozó kutatási feladatot ellátó, a miniszter fenntartásában működő intézménnyel, illetve a HUN-REN Magyar Kutatási Hálózattal az alapító okiratában vagy jogszabályban meghatározott oktatási vagy tudományos kutatási alapfeladatát, közfeladatát szolgáló földrészletre, továbbá a Tokaji Életpálya Program megvalósítására a Kormány által egyedi határozatban kijelölt szervezettel az ott megjelölt földrészletre.
 
 (4) Az NFK a Nemzeti Földalapba tartozó vízlevezető árkokat és csatornákat térítésmentesen az azok fenntartására jogosultak vagyonkezelésébe adhatja.
 

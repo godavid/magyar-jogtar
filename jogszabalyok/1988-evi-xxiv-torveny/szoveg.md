@@ -31,7 +31,7 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 (2) Az (1) bekezdést nem kell alkalmazni a következő gazdasági tevékenységekre, ha a külföldi a tevékenység végzéséhez belföldön alkalmazottat nem foglalkoztat, ideértve a külföldön foglalkoztatott alkalmazott vagy megbízott Magyarországra történő kirendelését vagy kiküldését is:
 
-- a) nevelési-oktatási intézménynél, szakképzési intézménynél, felsőoktatási intézménynél oktatási, kutatási tevékenység,
+- a) nevelési-oktatási intézménynél, szakképzési intézménynél, felsőoktatási intézménynél, valamint a HUN-REN Magyar Kutatási Hálózatnál oktatási, kutatási tevékenység,
 - b) előadó-művészi tevékenység,
 - c) hivatásos sportolói tevékenység,
 - d) olyan tevékenység, amely a külföldi által külföldön megszerzett belföldön lévő termék értékesítésére, illetve szolgáltatás nyújtására korlátozódik, ha ez személyes jelenlét nélkül, és az általa külföldön kibocsátott kereskedelmi kártya felhasználásával történik, és
@@ -60,9 +60,9 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 ### II. Fejezet — Külföldi részvétellel működő társaság alapítása, részesedés szerzése működő társaságban
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
 9. § (1)
 
@@ -70,9 +70,9 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 (3)
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
 12. § (1)
 
@@ -86,41 +86,41 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 ### III. Fejezet — A társaságok működési feltételei
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
 26. § (1)
 
 (2)
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
 31. § (1)
 
@@ -128,15 +128,15 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 (3)
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
 ### IV. Fejezet — Vámszabadterületi társaságok
 
@@ -146,7 +146,7 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 (3) A vámszabadterület technikai elhatárolásának, a vámszabadterületen létesítmények létrehozásának és tevékenységek folytatásának feltételeit, a vámszabadterületen lebonyolódó személy- és áruforgalom szabályait a vámjogra és a vámeljárásra vonatkozó jogszabályok tartalmazzák.
 
-37/A. §
+#### 37/A. §
 
 38. § A vámszabadterület a vám-, a devizajogszabályok és — a 39. §-ban szabályozott eltérésekkel — a külkereskedelmi jogszabályok alkalmazása szempontjából külföldnek, a vámszabadterületi társaság az említett jogszabályok alkalmazásában külföldinek minősül. Ennek megfelelően a vámszabadterületi társaságra nem alkalmazhatók az árszabályozásra, továbbá az állami ellenőrzésre vonatkozó jogszabályok.
 
@@ -166,9 +166,9 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 (4)
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
 ### V. Fejezet — Záró rendelkezések
 
