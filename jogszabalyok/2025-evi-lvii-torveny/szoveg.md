@@ -36,7 +36,7 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 
 #### 4. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-7. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 45. § (3) bekezdés c) pontjában az „által” szövegrész helyébe az „és a HUN-REN Magyar Kutatási Hálózat elnöke által közösen” szöveg lép.
+#### 7. §
 
 #### 5. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosítása
 
@@ -160,16 +160,13 @@ felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények
 
 #### 55. §
 
-56. § A HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 32. §-a az „átcsoportosíthatja” szövegrész helyett az „átcsoportosíthatja, azok címrendi besorolását módosíthatja” szöveggel lép hatályba.
+#### 56. §
 
-57. § Nem lép hatályba a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 19. alcíme.
+#### 57. §
 
 #### 58. §
 
-59. § Hatályát veszti a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény
-
-- a) 28. § (3) bekezdésében a „19. alcím, a” szövegrész,
-- b) 28. § (5) bekezdésében a „19. alcím, a” szövegrész.
+#### 59. §
 
 #### 18. Záró rendelkezések
 
