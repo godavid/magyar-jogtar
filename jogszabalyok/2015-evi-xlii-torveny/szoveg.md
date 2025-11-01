@@ -83,7 +83,7 @@ is alkalmazni kell.
 - 20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít, a véglegesítéséig;
 - 21. preferált település: olyan település vagy településrész, amelynek sajátosságai miatt – figyelemmel a rendvédelmi szerv vagy annak szervezeti egysége által ellátott feladatok jellegére – az adott településen vagy településrészen való szolgálatteljesítés ösztönzése indokolt;
 - 22. rendvédelmi oktatási intézmény: rendvédelmi szakképző intézmény, valamint a rendészeti felsőoktatást folytató felsőoktatási intézmény;
-- 22a. rendvédelmi tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti szolgálati jogviszonyban áll;
+- 22a. rendvédelmi tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti szerződéses jogviszonyban áll;
 - 23. szervezeti állománytáblázat: a rendvédelmi szerv önálló jogi személynek minősülő egységeihez tartozó szervezeti egységek állománytáblázatát összesítő állománytáblázat, valamint a rendvédelmi szerv egészére vonatkozó, valamennyi, a rendvédelmi szervhez tartozó szervezeti egység állománytáblázatát összesítő állománytáblázat;
 - 24. szervezeti egység: a rendvédelmi szervnek a rendvédelmi szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, önálló feladatra és működésre létrehozott, meghatározott székhellyel vagy telephellyel rendelkező, az állományilletékes parancsnok által vezetett szervezete;
 - 24a. szerződéses határvadász: az általános rendőrségi feladatok ellátására létrehozott szerv tisztesi rendfokozati állománycsoportba tartozó személyi állományának tagja, aki három éves határozott időre szóló szerződésben vállalja a Rendőrségről szóló 1994. évi XXXIV. törvény 6/A. §-ában meghatározott feladatokhoz kapcsolódó rendvédelmi feladatok (a továbbiakban együtt: határvadász feladat) ellátását;
@@ -4059,7 +4059,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 ### XXVII. Fejezet — A RENDVÉDELMI TISZTJELÖLT
 
-284. § (1) A rendvédelmi tisztjelölt rendvédelmi tisztjelölti szolgálati jogviszonyban (a továbbiakban: rendvédelmi tisztjelölti jogviszony) teljesít szolgálatot, amelyben őt és a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szervet jogszabályban meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A rendvédelmi tisztjelölt elsődleges szolgálati kötelezettsége a rendvédelmi szervnél a tiszti besorolási osztályba tartozó szolgálati beosztásban történő szolgálatteljesítésre való felkészülés.
+284. § (1) A rendvédelmi tisztjelölt rendvédelmi tisztjelölti szerződéses jogviszonyban (a továbbiakban: rendvédelmi tisztjelölti jogviszony) teljesít szolgálatot, amelyben őt és a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szervet jogszabályban meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A rendvédelmi tisztjelölt elsődleges szolgálati kötelezettsége a rendvédelmi szervnél a tiszti besorolási osztályba tartozó szolgálati beosztásban történő szolgálatteljesítésre való felkészülés.
 
 (2) A rendvédelmi tisztjelöltre e törvénynek a hivatásos állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
@@ -4067,15 +4067,17 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 #### 112. A rendvédelmi tisztjelölti jogviszony létesítése és megszüntetése
 
-285. § (1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személyt az országos parancsnok vagy az országos főigazgató a rendvédelmi szerv rendvédelmi tisztjelölti állományába kinevezi. Személyügyi nyilvántartását, rendvédelmi tisztjelölti jogviszonyával kapcsolatos ügyei intézését a rendvédelmi szerv végzi. A munkáltatói jogkör gyakorlója a rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv országos parancsnoka, illetve országos főigazgatója.
+285. § (1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személy a rendvédelmi szervvel a képzés időtartamára az e Fejezet szerinti szerződéses jogviszonyt létesít. Személyügyi nyilvántartását, rendvédelmi tisztjelölti jogviszonyával kapcsolatos ügyei intézését a rendvédelmi szerv végzi. A munkáltatói jogkör gyakorlója a rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv országos parancsnoka, illetve országos főigazgatója.
 
-(2) A rendvédelmi tisztjelölti jogviszony létesítésének feltétele, hogy a rendvédelmi tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem nevezhető ki rendvédelmi tisztjelölti jogviszonyba, akinek ösztöndíjas hallgatói jogviszonya vagy rendvédelmi tisztjelölti jogviszonya kizárás fenyítés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
+(2) A rendvédelmi tisztjelölti jogviszony létesítésének feltétele, hogy a rendvédelmi tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem létesíthető rendvédelmi tisztjelölti jogviszony azzal, akinek ösztöndíjas hallgatói jogviszonya vagy rendvédelmi tisztjelölti jogviszonya kizárás fenyítés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
 
-(3) A rendvédelmi tisztjelölti jogviszonyba történő kinevezést és annak módosítását írásba kell foglalni. A rendvédelmi tisztjelölt köteles a rendészeti tanulmányait legjobb képességei szerint folytatni, és hivatásos állományba vételét követően legalább 10 év időtartamban az őt kinevező rendvédelmi szervnél szolgálatot teljesíteni. A rendvédelmi szerv köteles a rendvédelmi tisztjelölt rendészeti tanulmányait támogatni, ezek befejezését követően hivatásos állományba venni, és a végzettségének megfelelő szolgálati beosztásban foglalkoztatni.
+(3) A rendvédelmi tisztjelölttel kötött szerződést és annak módosítását írásba kell foglalni. A rendvédelmi tisztjelölt köteles a rendészeti tanulmányait legjobb képességei szerint folytatni, és hivatásos állományba vételét követően legalább 10 év időtartamban az őt kinevező rendvédelmi szervnél szolgálatot teljesíteni. A rendvédelmi szerv köteles a rendvédelmi tisztjelölt rendészeti tanulmányait támogatni, ezek befejezését követően hivatásos állományba venni, és a végzettségének megfelelő szolgálati beosztásban foglalkoztatni.
+
+(3a) A rendvédelmi tisztjelölti jogviszony létesítéséről szóló szerződésnek tartalmaznia kell a szerződéses jogviszonyra vonatkozó minden lényeges adatot, így különösen a jogviszony kezdetét, a szolgálati és szolgálatteljesítési helyet, a rendvédelmi tisztjelölt rendfokozatát, illetményét, ruházati ellátási normáját, továbbá a próbaidő tartamát.
 
 (4) A rendvédelmi tisztjelölt a képzési követelményt az adott szakra vonatkozó, jogszabályban közzétett Képzési és Kimeneti Követelményben meghatározott képzési idő alatt köteles teljesíteni. A hallgatói jogviszony szünetelésének időtartama a képzési időbe nem számít bele.
 
-(5) A rendvédelmi tisztjelölt részére a kinevezést legkésőbb a rendészeti alapfelkészítést megelőző 15 nappal át kell adni.
+(5) A rendvédelmi tisztjelölt részére a szerződést legkésőbb a rendészeti alapfelkészítést megelőző 15 nappal át kell adni.
 
 (6) A rendvédelmi tisztjelölt a beiratkozást követő hat hónapig rendészeti alapfelkészítésen vesz részt. A rendvédelmi tisztjelölt a rendészeti alapfelkészítés befejezésekor „Tisztjelölt” vizsgát, ezt követően a hivatásos állomány tagja számára előírt esküt tesz.
 
@@ -4089,12 +4091,12 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 - d) a hallgatói jogviszony megszűnésének napján,
 - e) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
 
-(2) A rendvédelmi tisztjelölt rendvédelmi tisztjelölti jogviszonyát felmentéssel meg kell szüntetni, ha
+(2) A rendvédelmi tisztjelölt szerződését fel kell bontani, ha
 
 - a) nemzetbiztonsági szempontból a rendvédelmi tisztjelölti szolgálatra alkalmatlanná vált,
 - b) a képzési idő alatt a jogszabályban előírt, egészségi, pszichológia vagy fizikai alkalmassági követelményeknek nem felel meg.
 
-(3) Felmentés esetén a felmentési idő egy hónap. A rendvédelmi tisztjelölt írásbeli kérelme alapján a felek ennél rövidebb felmentési időben is megállapodhatnak.
+(3) Felmondás esetén a felmondási idő egy hónap. A rendvédelmi tisztjelölt írásbeli kérelme alapján a felek ennél rövidebb felmondási időben is megállapodhatnak.
 
 285/B. § (1) Az a rendvédelmi tisztjelölt, aki rendelkezik a 285. § (6) bekezdés szerinti „Tisztjelölt” vizsgával és
 
@@ -4115,13 +4117,13 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 
 (2) A megtérítési kötelezettség részbeni vagy teljes megfizetése alól a miniszter – miniszteri rendeletben meghatározott szabályok alapján – a rendvédelmi tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti.
 
-(3) Ha a szolgálati jogviszony a 285. § (3) bekezdésében meghatározott időtartam előtt, a 80. § (1) bekezdés d), f) vagy g) pontja, a 80. § (2) bekezdés a), b) vagy f) pontja, a 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg, a hivatásos állomány tagja a rendvédelmi tisztjelölti jogviszonya alapján részére kifizetett juttatás összegét miniszteri rendeletben meghatározottak szerint, időarányos mértékben köteles megtéríteni.
+(3) Ha a rendvédelmi tisztjelölti jogviszony a 285. § (3) bekezdésében meghatározott időtartam előtt, a 80. § (1) bekezdés d), f) vagy g) pontja, a 80. § (2) bekezdés a), b) vagy f) pontja, a 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg, a hivatásos állomány tagja a rendvédelmi tisztjelölti jogviszonya alapján részére kifizetett juttatás összegét miniszteri rendeletben meghatározottak szerint, időarányos mértékben köteles megtéríteni.
 
 285/D. § A rendvédelmi tisztjelölt hallgatói jogviszonyának szünetelése a rendvédelmi tisztjelölti jogviszonyának fennállását nem érinti. A hallgatói jogviszony szünetelése alatt a rendvédelmi tisztjelölt részére a munkáltatói jogkör gyakorlója a rendvédelmi szervnél szolgálati feladatot határozhat meg. A rendvédelmi tisztjelölt a munkáltatói jogkör gyakorlójától kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a rendvédelmi tisztjelölti jogviszony szünetelését engedélyezze.
 
 #### 113. A rendvédelmi tisztjelölti szolgálat
 
-286. § (1) A rendvédelmi tisztjelölt a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv tisztjelölti állományában, a hallgatói előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot.
+286. § (1) A rendvédelmi tisztjelölt a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv tisztjelölti szerződéses állományában, a hallgatói előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot.
 
 (2) A rendvédelmi tisztjelölt rendfokozata
 
@@ -7231,6 +7233,12 @@ alakul át.
 377. § (1) Az Országgyűlési Őrség hivatásos állományának 2025. augusztus 31-én rendvédelmi egészségkárosodási keresetkiegészítésre jogosult tagjának vagy volt tagjának jogosultságát a belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvénnyel megállapított 330. § (3) bekezdésének hatálybalépése nem szünteti meg, a 2025. szeptember 1-jét megelőzően megállapított rendvédelmi egészségkárosodási keresetkiegészítésre jogosultak tekintetében a 330. § (3) bekezdése alkalmazásának nincs helye, az egészségkárosodási keresetkiegészítésre az 50/A. alcímben foglaltakat kell továbbra is alkalmazni.
 
 (2) A 330. § (3) bekezdését a rendvédelmi egészségkárosodási ellátás megállapítására irányuló, 2025. szeptember 1-jén folyamatban lévő eljárásokban is alkalmazni kell.
+
+378. § (1) A 2025. október 31-én rendvédelmi tisztjelölti jogviszonyban álló rendvédelmi tisztjelölt szolgálati jogviszonya a rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvény hatálybalépésének napján a törvény erejénél fogva átalakul szerződéses rendvédelmi tisztjelölti jogviszonnyá.
+
+(2) A rendvédelmi tisztjelöltet legkésőbb 2025. november 15-ig írásban tájékoztatni kell a rendvédelmi tisztjelölti jogviszonyát érintő módosítás tartalmi elemeiről, és gondoskodni kell a szerződés aláírásáról. Ha a rendvédelmi tisztjelölt az előírt határnapig a szerződést nem kívánja aláírni, a rendvédelmi tisztjelölti jogviszonya 2025. november 30. napjával megszűnik és visszatérítési kötelezettsége keletkezik, ebben az esetben a visszatérítési kötelezettségre a 285/C. §-t kell alkalmazni.
+
+(3) A rendvédelmi tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a rendvédelmi tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.
 
 ### 1. melléklet a 2015. évi XLII. törvényhez
 

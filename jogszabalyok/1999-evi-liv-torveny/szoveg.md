@@ -331,3 +331,5 @@ való megfelelést szolgálja.
 22. § Ez a törvény az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 23. § Ez a törvény a tagállamok bűnüldöző hatóságai közötti információcseréről és a 2006/960/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2023. május 10-i (EU) 2023/977 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+24. § Ez a törvény a 2005/671/IB tanácsi határozatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2023. október 4-i (EU) 2023/2123 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

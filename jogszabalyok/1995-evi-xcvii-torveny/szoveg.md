@@ -440,7 +440,10 @@ vonatkozó azon döntéseiről, amelyek a meglévő tanúsítványok és engedé
 
 12. § (1) A magyar polgári légijármű – a pilóta nélküli légijármű és a repülőeszközök nyilvántartásában szereplő repülőeszköz kivételével – a légiközlekedésben akkor vehet részt, ha a légiközlekedési hatóság Magyarország Légijármű Lajstromába (a továbbiakban: lajstrom) felvette. A légiközlekedési hatóság a lajstromba vételről lajstromozási bizonyítványt és lajstromjelet ad ki.
 
-(2) A magyar állami légijárművet, a pilóta nélküli állami légijárművet és a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott esetben a pilóta nélküli légijármű üzembentartóját a katonai légügyi hatóság veszi nyilvántartásba.
+(2) A katonai légügyi hatóság veszi nyilvántartásba
+
+- a) a magyar állami légijárművet,
+- b) kormányrendeletben meghatározott esetben és feltételek szerint a pilóta nélküli állami légijárművet, illetve a pilóta nélküli állami légijármű üzemben tartóját.
 
 (3) A lajstromba és a katonai légügyi hatóság nyilvántartásába vett légijármű magyar légijárműnek minősül.
 
@@ -2129,7 +2132,7 @@ céljából is felhasználható.
 - f) az állami célú légiközlekedésben a földi kiszolgálás engedélyezésének rendjét,
 - g) az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légi járművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait,
 - h) az állami légijármű nyilvántartásának, gyártásának és javításának, valamint annak típus- és légialkalmasságának részletes szabályait,
-- i) a pilóta nélküli állami légijárművek repülésének, a pilóta nélküli állami légijármű rendszerek üzemeltetésének, a kezelő személyzet képesítésének, egészségi alkalmasságának követelményeit, valamint a vonatkozó hatósági eljárás részletes szabályait,
+- i) a pilóta nélküli állami légijárművek nyilvántartásának, gyártásának, javításának, típus- és légialkalmasságának, üzemben tartásának, üzemeltetésének, repülésének, a kezelő személyzet képesítésének, valamint a vonatkozó hatósági eljárásoknak a részletes szabályait,
 - j) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. Mellékletében szereplő Magyarországon regisztrált vagy nyilvántartott polgári légijárművek légijármű-komponens és légiközlekedéssel kapcsolatos eszköz tervezésével, gyártásával, építésével, típus- és légialkalmassági tanúsításával, egyedi repülési engedélyezésével, folyamatos légialkalmasságának fenntartásával, megfelelőségi tanúsításával összefüggő közigazgatási hatósági eljárás kiegészítő eljárásjogi szabályait,.
 - k) az önkéntes jelentési rendszer és bizottság működési szabályait, valamint az ehhez kapcsolódó igazgatási megállapodások megkötésével összefüggő szabályokat
 
