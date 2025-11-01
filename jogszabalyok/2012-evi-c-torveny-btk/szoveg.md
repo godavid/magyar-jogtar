@@ -6619,6 +6619,7 @@ követik el.
   - na) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló, 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
   - nb) a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i 2017/2103/EU európai parlamenti és tanácsi irányelvnek
 - o) 327–327/D. §-a az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
+- p) a 2005/671/IB tanácsi határozatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2023. október 4-i (EU) 2023/2123 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

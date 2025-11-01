@@ -2106,6 +2106,7 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 - c) a b) ponttal összefüggésben házastársa, élettársa és eltartott gyermeke természetes személyazonosító adatainak, lakcímének, társadalombiztosítási azonosító jelének és adóazonosító jelének, valamint a munkabér, illetmény, tiszteletdíj, költségtérítés és egyéb pénzbeli jutatás után fizetendő adókhoz és járulékokhoz kapcsolódó kedvezményekhez szükséges személyes adatainak,
 - d) iskolai és egyéb végzettségére vonatkozó adatának,
 - e) foglalkoztatásával összefüggésben a fennálló és a korábbi munkahely megnevezésének, a jogviszony jellegének, a beosztásának, a besorolásának, a munkakörének, álláshelyének, a jogviszonya kezdete és befejezése időpontjának
+- f) elektronikus levelezési címének és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: DÁP tv.) szerinti kapcsolattartásra szolgáló hivatalos elérhetőség adatainak
 
 kezelésére.
 
@@ -2166,7 +2167,7 @@ követő naptári év utolsó napjáig kezeli.
 
 106/D. § (1) A kincstár a Kormány tagja felkérésére a központosított illetményszámfejtésbe – a 44. § (1) bekezdése alapján – tartozó szerveknél foglalkoztatott személyek személyre szóló tájékoztatása érdekében – a (3) bekezdés szerinti kivételekkel – teljesíti a Kormány tagja által meghatározott, a munkabérrel, az illetménnyel, a tiszteletdíjjal, a költségtérítéssel, illetve egyéb pénzbeli juttatással összefüggő, valamint az egyes foglalkoztatotti csoportok sajátos körülményeire vonatkozó tájékoztatást.
 
-(2) A kincstár az (1) bekezdés szerinti adatszolgáltatást a Kormány tagja felkérésében meghatározott – a 106/A. § (1) bekezdés a), b), d) és e) pontja szerinti adatok alapján (ide nem értve a társadalombiztosítási azonosító jelre, az adóazonosító jelre, a fizetési számlaszámra, valamint a behajtandó követelésekre vonatkozó adatokat) képezhető – tájékoztatási célcsoportoknak – a Kormányzati Tájékoztatási Központon (a továbbiakban: KTK) keresztül – akként teljesíti, hogy a tájékoztatás megszemélyesítése során személyes adat más adatkezelőnek való továbbítására nem kerül sor. A KTK a tájékoztatás az érintettekkel való közléséhez az érintettek természetes személyazonosító adatait és lakcímét használhatja fel.
+(2) A kincstár az (1) bekezdés szerinti adatszolgáltatást a Kormány tagja felkérésében meghatározott – a 106/A. § (1) bekezdés a), b), d), e) és f) pontja szerinti adatok alapján (ide nem értve a társadalombiztosítási azonosító jelre, az adóazonosító jelre, a fizetési számlaszámra, valamint a behajtandó követelésekre vonatkozó adatokat) képezhető – tájékoztatási célcsoportoknak – a Kormányzati Tájékoztatási Központon (a továbbiakban: KTK) keresztül – akként teljesíti, hogy a tájékoztatás megszemélyesítése során személyes adat más adatkezelőnek való továbbítására nem kerül sor. A KTK a tájékoztatás az érintettekkel való közléséhez az érintettek természetes személyazonosító adatait és lakcímét használhatja fel.
 
 (3) Nem nyújtható az (1) bekezdés alapján adatszolgáltatás a bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, ügyészségi szolgálati viszonyban, a Sándor-palotával, az Országgyűlés Hivatalával, az Alkotmánybíróság Hivatalával, az Alapvető Jogok Biztosának Hivatalával, az Állami Számvevőszékkel, önálló szabályozó szervvel, autonóm államigazgatási szervvel, a Magyar Tudományos Akadémia Titkárságával, a Magyar Művészeti Akadémia Titkárságával, az Állambiztonsági Szolgálatok Történeti Levéltárával, az Országgyűlési Őrséggel, a Nemzeti Emlékezet Bizottságának Hivatalával vagy nemzetbiztonsági szolgálattal foglalkoztatásra irányuló jogviszonyban állókra vonatkozónak.
 
@@ -2178,7 +2179,28 @@ követő naptári év utolsó napjáig kezeli.
 
 (3) A kincstár nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a kincstár részére írásban, neve és lakcíme megadásával nyilatkozik arról, hogy az adott támogatás, juttatás tekintetében tájékoztatásra nem tart igényt. A kincstár a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célra nem kezelheti és más szerv részére nem továbbíthatja.
 
-106/F. § A kincstár a helyi önkormányzat, a helyi nemzetiségi önkormányzat, a társulás, valamint az általuk alapított költségvetési szerv részére végzett könyvelési szolgáltatás ellátása keretében rendelkezésére bocsátott személyes vagy különleges adatot is tartalmazó dokumentumokba betekinthet, illetve azokat a feladata ellátásához szükséges mértékben, a könyvelés évének lezárását követő 8. év végéig kezelheti.
+106/F. § (1) A kincstár jogszabály alapján a feladatkörét érintő, természetes személyeknek jogszabályban meghatározott feltételekkel nyújtott bármely – összegszerűen meghatározott – támogatással, juttatással, hozzájárulással, kedvezménnyel vagy engedménnyel (e § alkalmazásában a továbbiakban együtt: támogatás) összefüggésben általa nyilvántartott, a (2) bekezdésben meghatározott adatokat tájékoztatás céljából kezelheti a tájékoztatás teljesítéséhez, valamint a támogatások nyújtásához és annak ellenőrzéséhez szükséges időtartamban.
+
+(2) Az (1) bekezdés szerinti célból
+
+- a) a természetes személyazonosító adatok,
+- b) a DÁP tv. szerinti kapcsolattartásra szolgáló hivatalos elérhetőség adatok,
+- c) az elektronikus levelezési cím, valamint
+- d) a lakóhely vagy az ettől eltérő, értesítési címként megadott cím adatok
+
+kezelhetőek.
+
+(3) Az (1) bekezdést kell alkalmazni abban az esetben is, ha a természetes személy valamely támogatás igénybevételére vonatkozó szándékát bejelentette, és a kincstár az adott támogatásra vonatkozó rendelkezések alapján jogosult a bejelentett adatok kezelésére. A kezelhető adatkörökre vonatkozóan a (2) bekezdést az adott támogatásra vonatkozó rendelkezésekben meghatározott kiegészítésekkel vagy eltérésekkel kell alkalmazni.
+
+(4) Amennyiben a kincstár nem rendelkezik az (1) bekezdésben meghatározott érintetti kör vonatkozásában a (2) bekezdés b)–d) pontja szerinti adattal, úgy a (2) bekezdés b)–d) pontja szerinti adatot kezelő állami szervezettől, illetve a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó tárhely szolgáltatójától adatszolgáltatást kérhet. Amennyiben a kincstár a (2) bekezdés a) pontja szerinti adatkörrel teljes mértékben nem rendelkezik, a rendelkezésre álló azonosító adatokat felhasználhatja az adatszolgáltatás kéréséhez. Az adatszolgáltatás érdekében, az annak teljesítéséhez szükséges mértékben és időtartamban kezelhetők a DÁP tv. 25. §-a szerinti ügyintézési rendelkezések nyilvántartásában rögzített adatok.
+
+(5) A (4) bekezdés alapján megkeresett szervezet vagy szolgáltató köteles az adatszolgáltatást haladéktalanul, de legfeljebb nyolc napon belül teljesíteni.
+
+(6) A kincstár a (4) bekezdés szerint átvett adatokat az (1) bekezdés szerinti érintetti kör vonatkozásában már kezelésében lévő személyes adatokkal együtt, az azok megőrzésére vonatkozó időtartamban tárolja, és kizárólag jogszabályi felhatalmazás alapján, jogszabályban előírt feladatainak ellátása céljából használhatja fel.
+
+(7) A kincstár az (1) bekezdés szerinti tájékoztatást a Kormány tagja felkérésére, az államháztartásért felelős miniszter utasítása alapján teljesíti.
+
+(8) A kincstár nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a kincstár részére írásban, neve, valamint természetes személyazonosító adatai és a tájékoztatással érintett elérhetősége megadásával nyilatkozik arról, hogy az adott támogatás, juttatás tekintetében tájékoztatásra nem tart igényt. A kincstár a nyilatkozatban megadott adatok kiegészítését kizárólag abban az esetben kérheti, ha a megadott adatok alapján nem tudja kétséget kizáróan beazonosítani a tájékoztatás mellőzését kérő személyt. A kincstár a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célból nem kezelheti és más szerv részére nem továbbíthatja.
 
 #### 69/A. Törzsadat-nyilvántartás
 
