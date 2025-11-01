@@ -3643,6 +3643,7 @@ rendelkezik hatáskörrel és illetékességgel.
 - 26. a 2002/465/IB tanácsi kerethatározatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/211 európai parlamenti és tanácsi irányelvnek;
 - 27. a 2014/41/EU irányelvnek a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/228 európai parlamenti és tanácsi irányelvnek
 - 28. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
+- 29. a 2005/671/IB tanácsi határozatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2023. október 4-i (EU) 2023/2123 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
