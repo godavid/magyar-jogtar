@@ -536,44 +536,15 @@ a közhitelességről és a közhiteles nyilvántartások egységes vezetésér�
 
 #### 183. §
 
-184. § Az államháztartásról szóló 2011. évi CXCV. törvény 106/A. § (1) bekezdése a következő f) ponttal egészül ki:
+#### 184. §
 
-(A kincstár a központosított illetményszámfejtés keretében jogosult a munkabér, az illetmény, a tiszteletdíj, a költségtérítés, egyéb pénzbeli juttatás és a megállapodás alapján biztosítottnak minősülő személy juttatásának számfejtése, kifizetése és annak ellenőrzése céljából az érintett)
-
-„f) elektronikus levelezési címének és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: DÁP tv.) szerinti kapcsolattartásra szolgáló hivatalos elérhetőség adatainak”
-
-(kezelésére.)
-
-185. § Az államháztartásról szóló 2011. évi CXCV. törvény 106/F. §-a helyébe a következő rendelkezés lép:
-
-„106/F. § (1) A kincstár jogszabály alapján a feladatkörét érintő, természetes személyeknek jogszabályban meghatározott feltételekkel nyújtott bármely – összegszerűen meghatározott – támogatással, juttatással, hozzájárulással, kedvezménnyel vagy engedménnyel (e § alkalmazásában a továbbiakban együtt: támogatás) összefüggésben általa nyilvántartott, a (2) bekezdésben meghatározott adatokat tájékoztatás céljából kezelheti a tájékoztatás teljesítéséhez, valamint a támogatások nyújtásához és annak ellenőrzéséhez szükséges időtartamban.
-
-(2) Az (1) bekezdés szerinti célból
-
-- a) a természetes személyazonosító adatok,
-- b) a DÁP tv. szerinti kapcsolattartásra szolgáló hivatalos elérhetőség adatok,
-- c) az elektronikus levelezési cím, valamint
-- d) a lakóhely vagy az ettől eltérő, értesítési címként megadott cím adatok
-
-kezelhetőek.
-
-(3) Az (1) bekezdést kell alkalmazni abban az esetben is, ha a természetes személy valamely támogatás igénybevételére vonatkozó szándékát bejelentette, és a kincstár az adott támogatásra vonatkozó rendelkezések alapján jogosult a bejelentett adatok kezelésére. A kezelhető adatkörökre vonatkozóan a (2) bekezdést az adott támogatásra vonatkozó rendelkezésekben meghatározott kiegészítésekkel vagy eltérésekkel kell alkalmazni.
-
-(4) Amennyiben a kincstár nem rendelkezik az (1) bekezdésben meghatározott érintetti kör vonatkozásában a (2) bekezdés b)–d) pontja szerinti adattal, úgy a (2) bekezdés b)–d) pontja szerinti adatot kezelő állami szervezettől, illetve a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó tárhely szolgáltatójától adatszolgáltatást kérhet. Amennyiben a kincstár a (2) bekezdés a) pontja szerinti adatkörrel teljes mértékben nem rendelkezik, a rendelkezésre álló azonosító adatokat felhasználhatja az adatszolgáltatás kéréséhez. Az adatszolgáltatás érdekében, az annak teljesítéséhez szükséges mértékben és időtartamban kezelhetők a DÁP tv. 25. §-a szerinti ügyintézési rendelkezések nyilvántartásában rögzített adatok.
-
-(5) A (4) bekezdés alapján megkeresett szervezet vagy szolgáltató köteles az adatszolgáltatást haladéktalanul, de legfeljebb nyolc napon belül teljesíteni.
-
-(6) A kincstár a (4) bekezdés szerint átvett adatokat az (1) bekezdés szerinti érintetti kör vonatkozásában már kezelésében lévő személyes adatokkal együtt, az azok megőrzésére vonatkozó időtartamban tárolja, és kizárólag jogszabályi felhatalmazás alapján, jogszabályban előírt feladatainak ellátása céljából használhatja fel.
-
-(7) A kincstár az (1) bekezdés szerinti tájékoztatást a Kormány tagja felkérésére, az államháztartásért felelős miniszter utasítása alapján teljesíti.
-
-(8) A kincstár nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a kincstár részére írásban, neve, valamint természetes személyazonosító adatai és a tájékoztatással érintett elérhetősége megadásával nyilatkozik arról, hogy az adott támogatás, juttatás tekintetében tájékoztatásra nem tart igényt. A kincstár a nyilatkozatban megadott adatok kiegészítését kizárólag abban az esetben kérheti, ha a megadott adatok alapján nem tudja kétséget kizáróan beazonosítani a tájékoztatás mellőzését kérő személyt. A kincstár a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célból nem kezelheti és más szerv részére nem továbbíthatja.”
+#### 185. §
 
 186. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
 - a)
 - b)
-- c) 106/D. § (2) bekezdésében az „a), b), d) és e) pontja” szövegrész helyébe az „a), b), d), e) és f) pontja” szöveg,
+- c)
 - d)
 
 lép.
@@ -778,11 +749,7 @@ lép.
 
 #### 249. §
 
-250. § Az adózás rendjéről szóló 2017. évi CL. törvény 128. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(Az adótitkot alapos okkal használják fel, ha)
-
-„f) az állami adó- és vámhatóság az adópolitikáért felelős miniszter utasítása alapján tájékoztatást teljesít a jogszabályban meghatározott adókedvezménnyel, adóalap-kedvezménnyel vagy adómentességgel érintett adózók, továbbá az érintettek számára választható, kedvezményes adózási szabályok hatálya alá tartozók számára,”
+#### 250. §
 
 #### 251. §
 
@@ -850,103 +817,31 @@ lép.
 
 #### 124. A családi gazdaságokról szóló 2020. évi CXXIII. törvény módosítása
 
-272. § A családi gazdaságokról szóló 2020. évi CXXIII. törvény 11. alcíme a következő 13/A. §-sal egészül ki:
-
-„13/A. § (1) A mezőgazdasági igazgatási szerv az őstermelői nyilvántartásban nyilvántartott mezőgazdasági őstermelők (2) bekezdésben meghatározott adatait tájékoztatás céljából kezelheti a tájékoztatás teljesítéséhez szükséges időtartamban.
-
-(2) Az (1) bekezdés szerinti célból
-
-- a) a természetes személyazonosító adatok,
-- b) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti kapcsolattartásra szolgáló hivatalos elérhetőség adatok,
-- c) az elektronikus levelezési cím, valamint
-- d) a lakóhely vagy az ettől eltérő, értesítési címként megadott cím adatok
-
-kezelhetők.
-
-(3) Amennyiben a mezőgazdasági igazgatási szerv nem rendelkezik a tájékoztatás teljesítéséhez szükséges, a (2) bekezdés b)–d) pontja szerinti adattal, úgy a (2) bekezdés b)–d) pontja szerinti adatot kezelő állami szervezettől, illetve a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó tárhely szolgáltatójától adatszolgáltatást kérhet.
-
-(4) A (3) bekezdés alapján megkeresett szervezet vagy szolgáltató köteles az adatszolgáltatást haladéktalanul, de legfeljebb nyolc napon belül teljesíteni.
-
-(5) A mezőgazdasági igazgatási szerv a tájékoztatást a Kormány tagja felkérésére, az agrárpolitikáért felelős miniszter utasítása alapján teljesíti.”
+#### 272. §
 
 #### 273. §
 
 #### 125. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
-274. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 2. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 274. §
 
-(A NAV személyi állománya)
+#### 275. §
 
-„c) a NAV tisztjelölti szerződéses állományában (a továbbiakban: a NAV tisztjelölti állománya) tisztjelölti szerződéses jogviszonyban (a továbbiakban: tisztjelölti jogviszony) álló pénzügyőr tisztjelöltekből”
+#### 276. §
 
-(áll.)
+#### 277. §
 
-275. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 3. § (1) bekezdés 33a. pontja helyébe a következő rendelkezés lép:
+#### 278. §
 
-(E törvény alkalmazásában:)
+#### 279. §
 
-„33a. tisztjelölt: a rendészeti alapképzésre, nappali tagozatra felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti szerződéses jogviszonyban áll;”
-
-276. § (1) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 241. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személy a NAV-val a képzés időtartamára az ezen alcím szerinti szerződéses jogviszonyt létesít. A tisztjelölt személyügyi nyilvántartását, tisztjelölti jogviszonyával kapcsolatos ügyei intézését a NAV végzi. A tisztjelölt felett a munkáltatói jogkör gyakorlója a NAV elnöke.”
-
-(2) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 241. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A tisztjelölti jogviszony létesítésére irányuló szerződést (e fejezet alkalmazásában a továbbiakban: szerződés) és annak módosítását írásba kell foglalni. A szerződésnek tartalmaznia kell különösen a tisztjelölti jogviszony kezdetének napját, a próbaidő tartamát, a rendfokozatot, az illetményt, a szolgálatteljesítési helyet és a rendészeti szakképzettség megszerzésére vonatkozó határidő lejártának napját.”
-
-(3) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 241. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
-
-„(3a) A tisztjelölt köteles a rendészeti tanulmányait legjobb képességei szerint folytatni, és az adó- és vámhatósági szolgálati jogviszonyba történő kinevezését követően legalább 10 év időtartamban a NAV-nál szolgálatot teljesíteni. A NAV köteles a tisztjelölt rendészeti tanulmányait támogatni, ezek befejezését követően I. besorolási osztályba tartozó pénzügyőri munkakörbe kinevezni, és a végzettségének megfelelő munkakörben foglalkoztatni.
-
-(3b) A szerződést módosítani csak a munkáltatói jogkör gyakorlója és a tisztjelölt közös megegyezésével lehet. A szerződés módosítását írásba kell foglalni. Nem kell a tisztjelölt beleegyezése az illetmény, a rendfokozat, a szolgálatteljesítési hely módosításához, továbbá az e törvény szerinti, vagy e törvény végrehajtására kiadott jogszabály szerinti munkáltatói intézkedéshez.”
-
-(4) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 241. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A tisztjelölt részére a rendészeti alapfelkészítést tartalmazó hat hónap idejére próbaidőt kell kikötni. A próbaidő alatt a szerződést bármelyik fél indokolás nélkül, azonnali hatállyal felmondhatja. A próbaidő alatt fel kell mondani a szerződését annak, aki a rendészeti alapfelkészítést vagy a „Tisztjelölt” vizsgát önhibájából nem teljesíti.”
-
-277. § (1) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 242. § (1) bekezdése a következő e) és f) ponttal egészül ki:
-
-(A tisztjelölti jogviszony megszűnik)
-
-„e) a törvény erejénél fogva e törvényben meghatározott esetekben,
-
-f) a szerződés felmondásával.”
-
-(2) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 242. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A szerződést fel kell mondani, ha a tisztjelölt
-
-- a) nemzetbiztonsági szempontból a tisztjelölti szolgálatra alkalmatlanná vált, az életvitele nem kifogástalan vagy a 241. § (6) bekezdése szerinti esküt nem teszi le,
-- b) a képzési idő alatt a jogszabályban előírt, egészségi, pszichológiai vagy fizikai alkalmassági követelményeknek nem felel meg.”
-
-278. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 242/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A megtérítési kötelezettség részbeni vagy teljes megfizetése alól a munkáltatói jogkör gyakorlója – miniszteri rendeletben meghatározott rendben – a tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti. A tisztjelölt a kérelme nélkül is részben vagy teljesen mentesíthető a megtérítési kötelezettség alól, ha a 242. § (2) bekezdésében meghatározott alkalmatlanságot okozó állapot kialakulásában a közrehatása nem állapítható meg.”
-
-279. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény a következő 257/C. §-sal egészül ki:
-
-#### „257/C. § [Átmeneti rendelkezések a közhitelességről és a közhiteles nyilvántartások egységes vezetéséről szóló 2024. évi LXXXII. törvénnyel összefüggő törvények módosításáról szóló 2025. évi LXXX. törvényhez]
-
-(1) A közhitelességről és a közhiteles nyilvántartások egységes vezetéséről szóló 2024. évi LXXXII. törvénnyel összefüggő törvények módosításáról szóló 2025. évi LXXX. törvény hatálybalépését megelőző napon tisztjelölti jogviszonyban álló tisztjelölt jogviszonya a közhitelességről és a közhiteles nyilvántartások egységes vezetéséről szóló 2024. évi LXXXII. törvénnyel összefüggő törvények módosításáról szóló 2025. évi LXXX. törvény hatálybalépésének napján a törvény erejénél fogva átalakul szerződéses tisztjelölti jogviszonnyá.
-
-(2) A tisztjelöltet legkésőbb 2025. november 15-ig írásban tájékoztatni kell a tisztjelölti jogviszonyát érintő módosítás tartalmi elemeiről és gondoskodni kell a szerződés aláírásáról. Ha a tisztjelölt az előírt határnapig a szerződést nem kívánja aláírni, a tisztjelölti jogviszonya 2025. november 30. napjával megszűnik és visszatérítési kötelezettsége keletkezik, ebben az esetben a visszatérítési kötelezettségre a 242/B. §-t kell alkalmazni.
-
-(3) A tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.”
-
-280. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény
-
-- a) 241. § (2) bekezdésében a „Nem nevezhető ki tisztjelölti jogviszonyba” szövegrész helyébe a „Nem létesíthető tisztjelölti jogviszony azzal” szöveg,
-- b) 241. § (5) bekezdésében a „kinevezési okmányt” szövegrész helyébe a „szerződést” szöveg,
-- c) 242/B. § (1) bekezdésében az „a 242. § (1) bekezdés b) és c) pontja, vagy 242. § (2) bekezdése” szövegrész helyébe az „a 242. § (1) bekezdés b), c), e) vagy f) pontja” szöveg
-
-lép.
+#### 280. §
 
 281. § Hatályát veszti a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény
 
 - a)
 - b)
-- c) 242. § (3) bekezdése.
+- c)
 
 #### 126.
 
