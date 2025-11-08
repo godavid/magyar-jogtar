@@ -1333,7 +1333,7 @@ vonatkozó adatokat, illetve az ezzel kapcsolatosan a piaci szereplőnél keletk
 
 61/J. § (1) A Hivatal energetikai szabályozási tesztkörnyezetet működtethet, amelynek célja, hogy ösztönözze és támogassa olyan energetikai innovációs teljesítmények elterjedését, piacra lépését, amelyek elősegíthetik a földgáz-infrastruktúra fenntarthatóságának, költséghatékony működtetésének, a fogyasztói igények megfelelő ellátásának vagy az ellátásbiztonság növelését, továbbá a hidrogén betáplálását a működő földgáz-infrastruktúrába, valamint a tiszta hidrogénhálózatoknak a működő földgáz-infrastruktúrán alapuló fejlesztését, fejlődését.
 
-(2) E fejezet alkalmazásában energetikai innovációs teljesítmény bármely olyan műszakilag és üzletileg megalapozott termék, szolgáltatás, technológia, üzleti modell vagy más újítás létrehozása, vagy hazai átvétele, ami Magyarországon még nem terjedt el.
+(2) E fejezet alkalmazásában energetikai innovációs teljesítmény bármely olyan műszakilag és üzletileg megalapozott termék, szolgáltatás, technológia, üzleti modell vagy más újítás létrehozása vagy átvétele, amely e törvény hatálya alá tartozó tevékenységek tekintetében Magyarországon még nem terjedt el.
 
 (3) Az energetikai szabályozási tesztkörnyezetben való részvételre irányuló kérelmet a Hivatal határozatban bírálja el az e törvény és a Hivatal elnöke által kiadott rendeletben meghatározott szabályok alapján. A Hivatal az energetikai szabályozási tesztkörnyezetben való részvételt akkor engedélyezi, ha a kérelemben foglalt innovációs teljesítmény megfelel az (1) bekezdésben és – a (4) bekezdés a) pontjában foglalt kivétellel – a Hivatal elnökének rendeletében meghatározott feltételeknek, továbbá nem veszélyezteti a földgázellátás biztonságát.
 
@@ -1346,8 +1346,13 @@ vonatkozó adatokat, illetve az ezzel kapcsolatosan a piaci szereplőnél keletk
 
 (6) Az engedélyt a Hivatal visszavonja, ha megállapítja, hogy
 
-- a) az energetikai szabályozási tesztkörnyezetben résztvevő megsértette a (3) bekezdés szerinti határozatban foglaltakat vagy
-- b) a (3) bekezdésben foglalt feltételek már nem állnak fenn.
+- a) az energetikai szabályozási tesztkörnyezetben résztvevő (a továbbiakban: innovátor) megsértette a (3) bekezdés szerinti határozatban foglaltakat,
+- b) a (3) bekezdésben foglalt feltételek már nem állnak fenn, vagy
+- c) az energetikai szabályozási tesztkörnyezetben való részvétel okafogyottá vált.
+
+(6a) Az energetikai szabályozási tesztkörnyezetben való részvételre irányuló engedélyt érintő jogszabály változása esetén az innovátor a változástól számított 15 napon belül kezdeményezi az energetikai szabályozási tesztkörnyezetben való részvételre irányuló engedély módosítását, vagy – ha a (3) bekezdésben foglalt feltételek már nem állnak fenn – az engedély visszavonását.
+
+(6b) Az innovátorral szemben a 119. § (1) bekezdésében foglaltak alkalmazandók azzal, hogy engedélyesre vonatkozó szabályokat az innovátorra, az engedélyre vonatkozó szabályokat a (3) bekezdés szerinti energetikai szabályozási tesztkörnyezetben való részvételre irányuló engedélyre is alkalmazni kell, és az innovátorral szemben kizárólag a 119. § (1) bekezdés a), b) és e) pontja alkalmazható.
 
 (7) Az e fejezet alapján lefolytatott eljárások nem érintik a 142. §-ban szabályozott mintaprojekteket.
 
@@ -2538,6 +2543,9 @@ amelyre vonatkozóan kérelemre a Hivatal az e törvény végrehajtására kiado
 - c) a kérelmező csőd- vagy felszámolási eljárás alatt áll,
 - d) a kérelmező működési engedélyét a Hivatal az engedély iránti kérelem benyújtását megelőző 10 éven belül a kérelmezőnek felróható okból visszavonta.
 - e) a kérelmező hamis, hamisított vagy valótlan tartalmú bizonyítékot terjeszt elő kérelmében.
+- f) a kérelmező az adózás rendjéről szóló törvény alapján nem minősül köztartozásmentes adózónak.
+
+(7a) Az állami adó- és vámhatóság minden év január 31. napjáig a Hivatal rendelkezésére bocsátja a tárgyévet megelőző évben köztartozással érintettek listáját a köztartozással érintett időszak megjelölésével. Az adatszolgáltatás teljesítése érdekében a Hivatal minden év december 31. napjáig az állami adó- és vámhatóság részére megküldi az ellenőrzéssel érintettek nevét és adószámát.
 
 (8) Az e törvény által kiadott engedély nem érinti a más jogszabályokban előírt engedélyek megszerzésének, és az engedélyezési eljárások lefolyatásának kötelezettségét.
 
@@ -3602,7 +3610,7 @@ tartalmazza.
 - 13. a válsághelyzeti monitoringrendszer működésének részletszabályait, a (EU) 2017/1938 európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekhez tartozó felkészülés mértékét, valamint a védett felhasználók és a szolidaritási alapon védett felhasználók földgáz felhasználása meghatározásának módját.
 - 14. összehangolt védelmi tevékenység elrendelése esetén a földgázipari vállalkozás e törvényben, a végrehajtására kiadott kormányrendeletben és a Hivatal elnöke által kiadott rendeletben, határozatban foglalt, a földgázipari tevékenységből származó egyes kötelezettségei alóli mentesítése – ideértve a más földgázipari vállalkozás jogának korlátozását is – szabályait.
 - 15.
-- 16. az energetikai szabályozási tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az engedélyezhető eltérések részletes tartalmát, az energetikai szabályozási tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai szabályozási tesztkörnyezetben való részvétel meghosszabbításának feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezmények részletes szabályait,
+- 16. az energetikai szabályozási tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az energetikai szabályozási tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai szabályozási tesztkörnyezetben való részvétel meghosszabbításának feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezmények részletes szabályait,
 - 17. a hazai föld alatti gáztárolókra vonatkozó feltöltési célértéket.
 - 18. a 70/C. § szerinti kapacitásnak a földgázelosztó általi visszavétele esetén a felhasználót megillető kompenzáció mértékének meghatározását és a kompenzáció megfizetésének ütemezését.
 - 19. a versenypiaci költségeket tükröző árat és annak áralkalmazási feltételeit.
@@ -3675,7 +3683,7 @@ tartalmazza.
 
 (5) E § alkalmazásában közüzemi szerződés a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szolgáltatásra jogosult, valamint a közüzemi szolgáltatói engedélyes közötti közüzemi szolgáltatásnak minősülő földgázellátásra vonatkozó szerződés.
 
-140. § (1)
+140. § (1) A föld alatti energiahordozó-tárolással, valamint a földgáz biztonsági készletezéssel összefüggő törvények módosításáról szóló 2025. évi LXXXI. törvénnyel megállapított 114. § (7) bekezdés f) pontját az annak hatálybalépésekor hatályos engedéllyel rendelkezők tekintetében is alkalmazni kell.
 
 (2)
 

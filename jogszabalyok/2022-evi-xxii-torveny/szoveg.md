@@ -391,6 +391,7 @@ biztosító elektronikus felületet (a továbbiakban: Hazaváró Portál) műkö
 - b) az elektronikus levelezési címét;
 - c) az általa kiválasztott ügyintézési helyszínt, időpontot, az ügyfelek számát;
 - d) a hazatéréssel összefüggő élethelyzetéhez kapcsolódó, elintézni tervezett ügyeinek meghatározását.
+- e) a hazatéréssel összefüggő élethelyzetéhez kapcsolódó ügyintézéshez szükséges dokumentumokat.
 
 (6) Az ügyfél rendelkezése alapján a kormányhivatal részére továbbított személyes adatokat a kormányhivatal az ügyféllel való közvetlen kapcsolattartás és az ügyfél hazatérésével kapcsolatos ügyek intézésének támogatása céljából kezeli.
 
