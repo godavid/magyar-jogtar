@@ -113,7 +113,7 @@ valósítja meg, vagy
 
 2. § (1) A közfoglalkoztatási jogviszonyra az Mt. szabályai alkalmazandók, a (2)–(5) bekezdésben meghatározott eltérésekkel.
 
-(2) Közfoglalkoztatási jogviszony csak határozott időre létesíthető. A határozott idő nem lehet hosszabb, mint a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt időtartam. A hatósági szerződés meghosszabbítása vagy a korábbi támogatási időszak lejártát követő hat hónapon belül újabb hatósági szerződés megkötése esetén a közfoglalkoztatási jogviszony Mt. 192. § (2) bekezdése szerint számított időtartama az öt évet meghaladhatja, azonban nem haladhatja meg a tíz évet.
+(2) Közfoglalkoztatási jogviszony csak határozott időre létesíthető. A határozott idő nem lehet hosszabb, mint a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt időtartam. A hatósági szerződés meghosszabbítása vagy a korábbi támogatási időszak lejártát követő hat hónapon belül újabb hatósági szerződés megkötése esetén a közfoglalkoztatási jogviszony időtartama nem haladhatja meg a Kormány által rendeletben meghatározott időtartamot.
 
 (2a) A közfoglalkoztatási jogviszony tartamát naptárilag vagy más alkalmas módon meg kell határozni.
 
@@ -391,7 +391,12 @@ vonatkozó szabályai nem alkalmazhatók,
 
 ### Záró rendelkezések
 
-53. § Felhatalmazást kap a Kormány, hogy a közfoglalkoztatási támogatások részletes szabályait, a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér mértékét, valamint a közhasznú kölcsönzés feltételeit rendeletben állapítsa meg.
+53. § Felhatalmazást kap a Kormány, hogy
+
+- a) a közfoglalkoztatási támogatások részletes szabályait, a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér mértékét, valamint a közhasznú kölcsönzés feltételeit, illetve
+- b) a közfoglalkoztatási jogviszony maximális időtartamát
+
+rendeletben állapítsa meg.
 
 54. § (1) E törvény – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
