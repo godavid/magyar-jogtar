@@ -174,18 +174,11 @@ a belügyi feladatellátás hatékonyságát támogató és a kapcsolati erősza
 
 #### 46. §
 
-47. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 53. §-a helyébe a következő rendelkezés lép:
+#### 47. §
 
-„53. § Felhatalmazást kap a Kormány, hogy
+#### 48. §
 
-- a) a közfoglalkoztatási támogatások részletes szabályait, a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér mértékét, valamint a közhasznú kölcsönzés feltételeit, illetve
-- b) a közfoglalkoztatási jogviszony maximális időtartamát
-
-rendeletben állapítsa meg.”
-
-48. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 2. § (2) bekezdésében a „Mt. 192. § (2) bekezdése szerint számított időtartama az öt évet meghaladhatja, azonban” szövegrész helyébe az „időtartama” szöveg és a „tíz évet” szövegrész helyébe a „Kormány által rendeletben meghatározott időtartamot” szöveg lép.
-
-49. § Hatályát veszti a közfoglalkoztatási jogviszony veszélyhelyzet alatti időtartamáról szóló 247/2022. (VII. 11.) Korm. rendelet.
+#### 49. §
 
 #### 23. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
