@@ -249,7 +249,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (2) Kérelmére az (1) bekezdés szerinti igazolást kell kiállítani annak a természetes személynek, aki igazolja, hogy az Európai Gazdasági Térség valamely államának arra illetékes hatósága által kiállított, jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosító engedéllyel rendelkezik, valamint az e törvényben meghatározott különbözeti vizsgát sikeresen teljesítette, és nem áll fenn vele szemben a 9/H. §-ban meghatározott kizáró ok.
 
-(3) A közfelügyeleti hatóság az (1) és (2) bekezdés szerinti igazolás megadásáról szóló döntésről, – a döntés véglegessé válásával egyidejűleg – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
+(3) A közfelügyeleti hatóság az (1) és (2) bekezdés szerinti igazolás megadásáról szóló döntésről, – a döntés véglegessé válását követő 30 napon belül – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
 
 9/H. § Nem adható meg a 9/G. § (1) bekezdés szerinti igazolás, annak a természetes személynek,
 
@@ -287,7 +287,7 @@ feltéve, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevé
 
 9/L. § (1) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolást visszavonja, amennyiben a természetes személy nem felel meg a 9/G. § (1) bekezdésében vagy a 9/J. § (1) bekezdésében meghatározott feltételeknek, vagy a kamarai tagsága megszűnik.
 
-(2) A közfelügyeleti hatóság a 9/G. § (1) és (2) bekezdés szerinti igazolás visszavonásáról szóló döntésről, – a döntés véglegessé válásával egyidejűleg – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
+(2) A közfelügyeleti hatóság a 9/G. § (1) és (2) bekezdés szerinti igazolás visszavonásáról szóló döntésről, – a döntés véglegessé válását követő 30 napon belül – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
 
 ### Kamarai tagság keletkezése
 
@@ -566,7 +566,7 @@ Isten engem úgy segéljen!”
 
 (2) Az (1) bekezdés szerinti engedély megadásáról értesíteni kell a gazdálkodó szervezet (szervezet) székhelye szerinti illetékes hatóságot.
 
-35/B. § A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély megadásáról szóló döntésről, – a döntés véglegessé válásával egyidejűleg – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
+35/B. § A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély megadásáról szóló döntésről, – a döntés véglegessé válását követő 30 napon belül – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
 
 35/C. § Ha a 35. § és a 35/A. § (1) bekezdés szerinti engedély iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
 
@@ -625,7 +625,7 @@ Isten engem úgy segéljen!”
 - e) a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága által hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján,
 - f) a kamara könyvvizsgáló cégek nyilvántartásából törlő határozata alapján.
 
-(2) A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély visszavonásáról szóló döntésről, – a döntés véglegessé válásával egyidejűleg – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
+(2) A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély visszavonásáról szóló döntésről, – a döntés véglegessé válását követő 30 napon belül – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
 
 (3) A kamara a könyvvizsgáló céget törli a nyilvántartásból
 
@@ -796,7 +796,7 @@ előírásai szerint jár el.
 - a) ha a kérelem benyújtását megelőző 3 éven belül azt a kérelmezőtől megvonták,
 - b) ha a rendelkezésre álló információk alapján megalapozottan feltételezhető, hogy a kérelmező a minősítésnek megfelelő gazdálkodó tekintetében nem tudja ellátni a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
 
-(6) A minősítés megadásáról a közfelügyeleti hatóság dönt, amelyről értesíti a kamarát. A minősítést a minősítésnek megfelelő részletezésben a kamara rögzíti a közhiteles hatósági nyilvántartásnak minősülő kamarai tag könyvvizsgálókra, könyvvizsgáló cégekre vonatkozó kamarai nyilvántartásokban.
+(6) A minősítés megadásáról a közfelügyeleti hatóság dönt, amelyről a döntés véglegessé válását követő 30 napon belül értesíti a kamarát. A minősítést a minősítésnek megfelelő részletezésben a kamara rögzíti a közhiteles hatósági nyilvántartásnak minősülő kamarai tag könyvvizsgálókra, könyvvizsgáló cégekre vonatkozó kamarai nyilvántartásokban.
 
 (7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön – közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást kell vezetni.
 
@@ -804,7 +804,7 @@ előírásai szerint jár el.
 
 (9) A (8) bekezdés szerinti külön szabályzatot a közfelügyeleti hatóság hagyja jóvá.
 
-(10) A 49/A. § a)–d) és g) pontja szerinti minősítések esetén a minősítés megadásának feltétele, hogy az adott minősítésre előírt szakmai minősítő vizsgát a könyvvizsgáló sikeresen teljesítette.
+(10) A 49/A. § a)–d) és g) pontja szerinti minősítések esetén a minősítés megadásának feltétele, hogy az adott minősítésre előírt szakmai minősítő vizsgával a könyvvizsgáló rendelkezik.
 
 51. § A minősített kamarai tag könyvvizsgáló, a minősített könyvvizsgáló cég köteles 30 napon belül írásban bejelenteni a közfelügyeleti hatóságnak, ha a minősítés előírt feltételei a továbbiakban már nem állnak fenn.
 

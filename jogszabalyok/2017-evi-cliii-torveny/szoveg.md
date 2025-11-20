@@ -12,7 +12,7 @@ az adóhatóság által foganatosítandó végrehajtási eljárásokról
 
 (3) E törvény rendelkezéseit kell alkalmazni azon köztartozások, igazgatási és bírósági szolgáltatási díjak és egyéb tartozások végrehajtása során, amelyekre törvény az adók módjára való behajtást rendeli el (a továbbiakban: adók módjára behajtandó köztartozás).
 
-(4) E törvény rendelkezéseit kell alkalmazni az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozaton, bíróság által jogerősen jóváhagyott egyezségen, továbbá a bírósági eljárási illetéket megállapító bírósági határozaton, illetve a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A. §-a szerinti, az állami adó- és vámhatóság kérelmére meghozott biztosíték nyújtásra kötelező jogerős végzésen alapuló kötelezettségek, valamint azon egyéb kötelezettségek végrehajtása során is, amelyek tekintetében az állami adó- és vámhatósághoz érkezett okiratok e törvény alapján végrehajtható okiratnak minősülnek.
+(4) E törvény rendelkezéseit kell alkalmazni az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozaton, bíróság által jogerősen jóváhagyott egyezségen, továbbá a bírósági eljárási illetéket megállapító bírósági határozaton, illetve a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A. §-a szerinti, az állami adó- és vámhatóság kérelmére meghozott biztosíték nyújtásra kötelező jogerős határozaton alapuló kötelezettségek, valamint azon egyéb kötelezettségek végrehajtása során is, amelyek tekintetében az állami adó- és vámhatósághoz érkezett okiratok e törvény alapján végrehajtható okiratnak minősülnek.
 
 #### 2. Az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szabályainak alkalmazása
 
@@ -95,6 +95,17 @@ kell érteni.
 - f) foglalási és árverési jegyzőkönyv esetén a Vht.-ban az adott típusú jegyzőkönyvre meghatározott egyéb adatokat és körülményeket.
 
 (3) A jegyzőkönyvet a végrehajtó, az eljárási cselekmény foganatosításakor jelen levő felek és más érdekeltek aláírják. Az aláírás hiányát és ennek okát a jegyzőkönyvben fel kell tüntetni.
+
+8/A. § (1) Az állami adó- és vámhatóság a helyszíni eljárása során felvett jegyzőkönyvet az Air. 70. §-a szerinti elektronikus formában is elkészítheti azzal, hogy az Air. 70. § (3d) és (3e) bekezdése nem alkalmazandó.
+
+(2) Az adóhatóság az elektronikus formában készült jegyzőkönyvet annak elkészültét követően haladéktalanul elektronikus úton megküldi
+
+- a) az adósnak,
+- b) távollévő adós esetén az adós képviselőjének,
+- c) a behajtást kérőnek, illetve a behajtást kérő hatóságnak, valamint
+- d) kérésére az eljárás azon résztvevőjének, aki az eljárási cselekményen jelen volt, és a jegyzőkönyvet aláírta.
+
+(3) Ha az elektronikus formában készült jegyzőkönyvet az eljárás elektronikus kapcsolattartásra alkalmas elérhetőséggel nem rendelkező résztvevője részére kell megküldeni, az adóhatóság az elektronikus jegyzőkönyv hiteles papíralapú másolatát postai úton kézbesíti.
 
 9. § (1) Ha a jegyzőkönyvben név-, szám- vagy más elírás, illetve számítási hiba van, az adóhatóság a hibát kijavítja, ha az nem hat ki az ügy érdemére.
 
@@ -1447,7 +1458,7 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 125/I. § (1) A 29. § (1) bekezdés 25. pontja szerinti pénzkövetelés végrehajtását az állami adó- és vámhatóság az 57/C. alcím rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja azzal, hogy e kötelezettségek végrehajtása során 125/H. § (2)–(6) bekezdés alkalmazásának nincs helye.
 
-(2) Az állami adó- és vámhatóság a csődeljárásról és a felszámolási eljárásról szóló törvény 33/A. §-a szerinti biztosíték nyújtásra kötelező jogerős végzés végrehajtása során behajtott összeget átutalja a biztosíték tárgyában végzést hozó bíróság gazdasági hivatalának letéti számlájára. Ha a behajtott összeg a fizetésre kötelezettet terhelő tartozások mindegyikére nem nyújt fedezetet, az állami adó- és vámhatóság a bevételt a 13. §-ban és a 14. §-ban foglalt felosztási szabály alapján számolja el, és utalja át.
+(2) Az állami adó- és vámhatóság a csődeljárásról és a felszámolási eljárásról szóló törvény 33/A. §-a szerinti biztosíték nyújtásra kötelező jogerős határozat végrehajtása során behajtott összeget átutalja a biztosíték tárgyában határozatot hozó bíróság gazdasági hivatalának letéti számlájára. Ha a behajtott összeg a fizetésre kötelezettet terhelő tartozások mindegyikére nem nyújt fedezetet, az állami adó- és vámhatóság a bevételt a 13. §-ban és a 14. §-ban foglalt felosztási szabály alapján számolja el, és utalja át.
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

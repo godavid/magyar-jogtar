@@ -17,7 +17,7 @@ Az Országgyűlés a fogyasztási-forgalmi adók adórendszerben betöltött sze
   - e) a 2. § (1) bekezdése szerinti tevékenységét nem fióktelep útján kifejtő külföldi illetőségű személy vagy szervezet esetén a belföldön és külföldön átadott áru értékesítéséből származó általános forgalmi adó nélküli ellenérték.
 - 3. platform: az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 5. melléklet I/A/1. pontja szerinti platform;
 - 4. platformüzemeltető: az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 5. melléklet I/A/2. pontja szerinti platformüzemeltető;
-- 5. adómértéket megállapító rendelkezés: a 6. § (1) bekezdése és az extraprofit adókról szóló 197/2022. (VI. 4.) Korm. rendelet 21. § (3) bekezdése.
+- 5. adómértéket megállapító rendelkezés: a 6. § (1) bekezdése.
 
 #### 2. Adókötelezettség
 

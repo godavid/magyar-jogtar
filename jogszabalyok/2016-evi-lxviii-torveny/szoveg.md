@@ -531,7 +531,7 @@ bűncselekmény elkövetése miatt jogerősen nem ítélték el vagy a kérelem 
 
 - a) az engedélyes magánszemély meghal, kivéve, ha örököse a tevékenység folytatásának szándékát a halál bekövetkezését követő 30 napon belül az állami adó- és vámhatósághoz bejelenti és az e törvényben előírt, az engedélyesek által teljesítendő feltételeknek megfelel;
 - b) a jogi személy engedélyes jogutód nélkül megszűnik;
-- c) az engedélyt visszaadják.
+- c) az engedélyes kérelmére az állami adó- és vámhatóság visszavonja.
 
 (2) Az állami adó- és vámhatóság az engedély megadásánál figyelembe vett vagy az engedély kiadását követően teljesítendő feltételek teljesülését és a tevékenység végzésének körülményeit folyamatosan vizsgálja.
 
@@ -956,7 +956,7 @@ folytató személynek, ha nem minősül az Art. szerinti kockázatos adózónak.
 
 (4) Az állami adó- és vámhatóság a nyilvántartásba vételkor figyelembe vett vagy azt követően teljesítendő feltételek teljes vagy részleges elmaradásának észlelése esetén 30 napos határidő tűzésével felhívja a nyilvántartásba vett személyt vagy jogutódját a hiányosság megszüntetésére, és a határidő eredménytelen eltelte esetén a személyt a nyilvántartásból törli, amely döntés fellebbezésre tekintet nélkül azonnal végrehajtható.
 
-(5) Közteher nem teljesítése, továbbá köztartozás megállapítása esetén a (4) bekezdéstől eltérően a 15. § (9) bekezdése alkalmazandó azzal az eltéréssel, hogy engedély visszavonása alatt nyilvántartásból törlést, engedélyes alatt nyilvántartásba vett személyt kell érteni.
+(5) A jövedéki termék előállítására alkalmas berendezés birtokosaként nyilvántartásba vett személy kivételével közteher nem teljesítése, továbbá köztartozás megállapítása esetén a (4) bekezdéstől eltérően a 15. § (9) bekezdése alkalmazandó azzal az eltéréssel, hogy engedély visszavonása alatt nyilvántartásból törlést, engedélyes alatt nyilvántartásba vett személyt kell érteni.
 
 #### 24. Csomagküldő kereskedelem
 
@@ -1752,9 +1752,9 @@ kezeli.
 
 (2) Az adó mértéke az E85 esetében – a 110. § (1) bekezdés i) pontjától eltérően – a 110. § (1) bekezdés a) pont szerinti adómérték, ha az E85-öt olyan adóraktár engedélyese bocsátja szabadforgalomba, aki regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban részesült és a 110. § (1) bekezdés a) pontja szerinti adómérték, valamint a 110. § (1) bekezdés i) pontja szerinti adómérték különbségének és a 110. § (1) bekezdés a) pontja szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott regionális beruházási támogatás, a környezetvédelmi beruházási támogatás vagy a mezőgazdasági beruházási támogatás összegét.
 
-95. § (1) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés az Európai Bizottság SA.104781 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+95. § (1) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés az Európai Bizottság SA.117068 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
-(2) A 113. § (1) bekezdése szerinti adó-visszaigénylés az Európai Bizottság SA.104781 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+(2) A 113. § (1) bekezdése szerinti adó-visszaigénylés az Európai Bizottság SA.117068 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
 (3) A 113. § (5) bekezdés szerinti adó-visszaigénylés a csoportmentességi rendelet 44. cikke alapján a 2003/96/EK tanácsi irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtható támogatás.
 
@@ -1876,7 +1876,7 @@ alapulvételével kell meghatározni.
 
 (2) A lefoglalást elrendelő végzéssel szemben az, akinek jogát vagy jogos érdekét az ügy közvetlenül érinti, – a 100. § (4) bekezdése szerinti eset kivételével – jogszabálysértésre hivatkozással kifogással élhet. A kifogást a végzés közlésétől számított 8 napon belül kell benyújtani az állami adó- és vámhatósághoz. A kifogást az állami adó- és vámhatóság felettes szerve a benyújtástól számított 15 napon belül bírálja el. A kifogásnak a lefoglalás végrehajtására nincs halasztó hatálya.
 
-(2a) A lefoglalást elrendelő végzés elektronikus formában történő elkészítése esetén az állami adó- és vámhatóság a döntését szóban is közli azzal a személlyel, akitől a dolgot lefoglalja és a szóbeli közlés megtörténtét a lefoglalásról készített végzés részét képező jegyzőkönyvben rögzíti.
+(2a) A lefoglalást elrendelő végzés elektronikus formában történő elkészítése esetén az állami adó- és vámhatóság a döntését szóban is közli azzal a személlyel, akitől a dolgot lefoglalja és a szóbeli közlés megtörténtét a lefoglalásról készített jegyzőkönyvben rögzíti.
 
 (3) A lefoglalást meg kell szüntetni
 
@@ -2687,6 +2687,8 @@ kell kiskereskedelmi eladási árnak tekinteni.
 (40) A 110. § (5) bekezdésétől és a 132/A. §-tól eltérően a 2024. évi közzététel határideje 2024. december 15.
 
 (41) Az állami adó- és vámhatóság az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel kihirdetett 113. § (5) bekezdés és 117. § (1) bekezdés szerinti, 2025. január 1-jétől alkalmazandó adó-visszaigénylések mértékeit 2024. december 15. napját követő 5. munkanapig közzéteszi internetes honlapján.
+
+(42) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 128. § (2) bekezdése szerinti adómértékeket az állami adó- és vámhatóság az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvény kihirdetését követő 5 munkanapon belül internetes honlapján és a Magyar Közlönyben közzéteszi. Az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 128. § (2) bekezdés szerinti adómértékekre első alkalommal a 2026. évet követő évre vonatkozóan kell alkalmazni a 132/A. § rendelkezéseit.
 
 151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 
