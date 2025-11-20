@@ -470,7 +470,7 @@ Az adóhatóság – az Art. 123/A. §-ban foglalt kötelezettsége mellett – 
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a kérelmet az adóhatósághoz írásban vagy személyesen lehet előterjeszteni.
 
-(3) Az adózó kérelmével a tárgyában hozott döntés véglegessé válásáig rendelkezhet.
+(3) Ha törvény vagy kormányrendelet későbbi időpontot nem állapít meg, az adózó kérelmével addig az időpontig rendelkezhet, amíg a tárgyában hozott döntés közlése iránt az adóhatóság nem intézkedik.
 
 (4) E § rendelkezéseit az eljárás megindítására irányuló kérelmen kívüli egyéb, az eljárás valamennyi résztvevőjének az eljárással összefüggő kérelmeire is megfelelően alkalmazni kell.
 
@@ -1075,7 +1075,7 @@ Ezen alcím rendelkezéseit az eljárás egyéb résztvevője részére történ
 
 #### 84. § [Kifizetés engedélyezése]
 
-(1) Ha az állami adó- és vámhatóság az adóellenőrzés során az adózó fizetési számláját biztosítási intézkedés vagy ideiglenes biztosítási intézkedés keretében zárolja, az állami adó- és vámhatóság az adózó kérelmére, az általa meghatározott sorrendben és összegben engedélyezheti a zárolt fizetési számláról történő kifizetések meghatározott személyek részére történő teljesítését.
+(1) Ha az állami adó- és vámhatóság az ellenőrzés során az adózó fizetési számláját biztosítási intézkedés vagy ideiglenes biztosítási intézkedés keretében zárolja, az állami adó- és vámhatóság az adózó kérelmére, az általa meghatározott sorrendben és összegben engedélyezheti a zárolt fizetési számláról történő kifizetések meghatározott személyek részére történő teljesítését.
 
 (2) Az állami adó- és vámhatóság abban az esetben engedélyezi a zárolt fizetési számláról történő kifizetést, ha az adózó igazolja, hogy a zárolt vagyonán kívüli forrásból nem képes a kifizetéseit teljesíteni, vagy azzal a tevékenysége aránytalan korlátozást szenvedne. A zárolt fizetési számláról történő kifizetés a biztosítási intézkedés alapjául szolgáló, fizetési kötelezettséget megállapító döntés véglegessé válásáig engedélyezhető.
 
@@ -1113,9 +1113,9 @@ Az adóhatóság az adótörvényekben és más jogszabályokban előírt kötel
   - bb) az Állami Számvevőszék elnökének megkeresése alapján
   - bc) az adópolitikáért felelős miniszter utasítása alapján.
 
-(1a) Az (1) bekezdés a) pont ad) alpontja szerinti adóellenőrzést az állami adó- és vámhatóság a második üzleti év beszámolójának elfogadását követően folytatja le.
+(1a)
 
-(1b) Az (1) bekezdés a) pont ad) alpontját a jogelőd nélkül alapított gazdasági társaság esetében az első négy üzleti év tekintetében nem kell alkalmazni. Jogutódlás esetén az (1) bekezdés a) alpont ad) alpontja szerinti feltételek teljesülése tekintetében a jogelőd gazdasági társaság működését is figyelembe kell venni.
+(1b)
 
 (2) Az Állami Számvevőszék elnöke, az önkormányzati adóhatóság hatáskörébe tartozó adók esetében az önkormányzat képviselő-testülete akkor kezdeményezhet ellenőrzést, ha a rendelkezésére álló adatok, körülmények arra utalnak, hogy az adóhatóság a megkülönböztetés nélküli eljárás elvének megsértésével mellőzi valamely adózó vagy adózói csoport vizsgálatát, illetve a lefolytatott ellenőrzések eredménytelensége mögött a megkülönböztetés nélküli eljárás elvének megsértése áll.
 
@@ -1488,7 +1488,7 @@ Fellebbezés benyújtására az jogosult, akire a döntés rendelkezést tartalm
 
 - a) az eljárást megszüntető,
 - b) a kérelmet visszautasító,
-- c) a bevallás, az adatbejelentés, a bejelentés, a fellebbezés vagy egyéb jogorvoslat határidejének elmulasztásával kapcsolatban benyújtott igazolási kérelmet elutasító,
+- c) a bevallás, az adatbejelentés, a bejelentés, a fellebbezés vagy egyéb jogorvoslat határidejének elmulasztásával, az adószámlán nyilvántartott fizetési kötelezettség késedelmes megfizetése esetén előírt késedelmi pótlékkal kapcsolatban benyújtott igazolási kérelmet elutasító,
 - d) az iratbetekintési jog korlátozását elrendelő,
 - e) az adózó ismételt ellenőrzésre irányuló kérelmét elutasító,
 - f) a biztosítási intézkedés, illetve az ideiglenes biztosítási intézkedés elrendeléséről szóló,
@@ -1756,7 +1756,7 @@ E törvénynek az egyes adótörvények és más kapcsolódó törvények módos
 
 (2) A Módtv.2.-vel megállapított 82–84. §-t a 2019. január 1-jét követően elrendelt biztosítási intézkedések és ideiglenes biztosítási intézkedések tekintetében kell alkalmazni.
 
-(3) A Módtv.2.-vel megállapított 87. § (1) bekezdés a) pont ad) alpontját és (1a)–(1b) bekezdését a 2019-ben és azt követően kezdődő üzleti évek tekintetében kell alkalmazni.
+(3)
 
 #### 139/C. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvényhez]
 
@@ -1801,6 +1801,10 @@ E törvénynek a Magyarország 2025. évi központi költségvetésének megalap
 #### 139/J. § [Átmeneti rendelkezés az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvényhez]
 
 E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 94. § (3) és (4) bekezdését, az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 95. § (2a)–(2c) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+#### 139/K. § [Átmeneti rendelkezés az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvényhez]
+
+E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 44. § (3) bekezdését a hatálybalépését követően indult eljárásokban és a megismételt eljárásokban kell alkalmazni.
 
 #### 57. Az Európai Unió jogának való megfelelés
 

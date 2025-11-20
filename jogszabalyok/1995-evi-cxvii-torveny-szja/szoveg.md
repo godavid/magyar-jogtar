@@ -720,7 +720,7 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 - c) a társas vállalkozás magánszemély tagjának személyes közreműködése,
 - d) a gazdasági társaság vezető tisztségviselőjének tevékenysége,
 - e) a jogszabály alapján választott vagy kijelölt tisztségviselő (ideértve a felügyelőbizottság tagját és a Polgári Törvénykönyv szerinti küldöttgyűlés tagját, de ide nem értve a választott könyvvizsgálót) tevékenysége, ha ezt a tevékenységet nem egyéni vállalkozóként végzi,
-- f) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony keretében végzett tevékenység,
+- f)
 - g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában az adott állam joga szerinti munkaviszony,
 - h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység,
 - i) az országgyűlési képviselői tevékenység,
@@ -2902,6 +2902,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 - e) a magyar építészetről szóló törvény szerint műemléknek minősülő ingatlan értékesítéséből származó jövedelem adómentességét megalapozó igazolás kiállításának szabályait;
 - f) a béren kívüli juttatásként adható lakhatási támogatás juttatásának részletes feltételeit;
 - g) azon betegségek körét, amelyekben szenvedő személyek a személyi kedvezmény érvényesítése szempontjából súlyosan fogyatékosnak minősülnek.
+- h) az Otthontámogatásra jogosult személyek körét, az Otthontámogatás mértékét, juttatásának részletes feltételeit és eljárási szabályait, továbbá a folyósítás és a visszafizetés szabályait.
 
 81. § (1) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza:
 
@@ -3352,6 +3353,10 @@ veszi figyelembe a személyijövedelemadó-bevallásban.
 
 109. § Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 52. § (1) bekezdés b) pontja, 53. § (1) bekezdés c) pontja és (2) bekezdés m) pontja a 2024. évre vonatkozóan is alkalmazható.
 
+110. § (1) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 1. számú melléklet 7. pont 7.13. alpontja a 2024. december 31-ét követően adott juttatásokra alkalmazható.
+
+(2) A 71. § (1) bekezdésétől eltérően a Széchenyi Pihenő Kártyával kezdeményezett fizetés a 2025. december 1. és 2026. április 30. közötti időszakban a kereskedő által értékesített – a Kormány rendeletében meghatározott – élelmiszer vásárlására is felhasználható.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -3698,6 +3703,8 @@ d) mint bűncselekmény áldozata, támogatásként az áldozatsegítő szolgál
 
 e) mint sértett, jóvátételként közvetítői eljárás keretében a bűncselekmény tettesétől;
 
+f) mint károsult, a pénzforgalmi szolgáltatások igénybevétele során használt érzékeny fizetési adatokkal való visszaélés – ideértve különösen az előbbiek felhasználásával elkövetett csalási események – eredményeképpen fellépő kár megtérítése esetén, bármely jogcímen, a károsulttal szerződéses kapcsolatban álló hitelintézet részéről, legfeljebb a kár összegéig.
+
 6.2. az 1988. január 1. napját megelőzően megállapított baleseti és kártérítési járadék (ideértve annak egyösszegű megváltását is), kivéve, ha annak összegét utóbb a bruttósított átlagkereset alapulvételével megemelték;
 
 6.3. a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben előírt, a kár megelőzését szolgáló vadászaton (ideértve különösen a vadászati hatóság által jóváhagyott vadgazdálkodási tervnek a törvényben meghatározott vadakra vonatkozó részének teljesítését szolgáló vadászatot és az idényen kívüli állományszabályozó vadászatot) a vadászatra jogosult által vadászati joga gyakorlása keretében a vadászaton résztvevő vadásznak ingyenesen vagy kedvezményesen nyújtott szolgáltatás, átadott termék;
@@ -3788,7 +3795,7 @@ c)
 
 7.12. a hallgatói hitelrendszerről és a Diákhitel Központról szóló kormányrendelet alapján nyújtott, a hallgatói hitellel kapcsolatos célzott kamattámogatás;
 
-7.13.
+7.13. a pedagógus továbbképzés más személy által viselt költsége vagy a továbbképzés költségeinek megtérítése (ideértve különösen a képzési költséget, a képzés időszaka alatt biztosított étkezést, utazást, szállást);
 
 7.14. A Nemzeti Földalapról szóló törvény, valamint a termőföld állam által életjáradék fizetése ellenében történő megvásárlásáról szóló kormányrendelet alapján kötött életjáradéki szerződésből származó jövedelem.
 

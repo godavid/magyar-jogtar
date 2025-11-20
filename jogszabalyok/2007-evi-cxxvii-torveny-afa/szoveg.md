@@ -1464,13 +1464,13 @@ beszerzése esetében
 
 (9) Abban az esetben, ha a (4) bekezdés b) pontja szerint adó felszámítása történt, és azt a termék értékesítője korábban fizetendő adóként megállapította és bevallotta, jogosult arra, hogy legkorábban abban az adómegállapítási időszakban, amelyben a külföldi utas részére az adó visszatérítése megtörtént, csökkentse a 153/A. § (1) bekezdése szerint megállapított fizetendő adót a visszatérített adó összegével, feltéve, hogy ezt az összeget nyilvántartásában elkülönítetten mutatja ki.
 
-(10) Az adó-visszaigénylő lap kötelező adattartalma a következő:
+(10) Az adó-visszaigénylő lap kötelező adattartalma és az (1a) bekezdés b) pontja szerinti kiléptetést igazoló elektronikus adattartalom kötelező tartalmi elemei az alábbiak:
 
 - a) a termék értékesítőjének neve, címe és adószáma;
 - b) a külföldi utas neve, címe és úti okmányának száma;
 - c) a termékértékesítés teljesítését tanúsító számla sorszáma;
 - d) a termékértékesítés – adóval együtt számított – összellenértéke;
-- e) a terméket a Közösség területéről kiléptető hatóság záradékának és bélyegzőjének helye annak igazolására, hogy a termék a Közösség területét elhagyta.
+- e) a terméket a Közösség területéről kiléptető hatóság záradékának és bélyegzőjének helye, vagy a kiléptetést igazoló elektronikus adattartalom alkalmazásának lehetősége annak igazolására, hogy a termék a Közösség területét elhagyta.
 
 (11) Az adó-visszaigénylő lap rovatait legalább magyar, angol, német, francia és orosz nyelveken kell feltüntetni, és azokat magyar, angol, német vagy francia nyelven kell kitölteni.
 
@@ -4736,7 +4736,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 362. § (1) Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel módosított 184. §-t a 2024. január 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallási kötelezettségre kell először alkalmazni.
 
-(2) Jogutódlás esetén – ide nem értve a 17. § (3) bekezdés g) és k) pontjai szerinti jogutódlást – az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 184. § (2) bekezdés b) vagy c) pontja szerinti elektronikus felületen a jogutód a jogelődnek 2025. január 1-jét magában foglaló adómegállapítási időszakára vonatkozóan fér először hozzá az állami adó- és vámhatóság által rendelkezésre bocsátott adatokhoz, valamint a jogutód a 184. § (2) bekezdés b) vagy c) pontja szerinti elektronikus felületen a jogelőd által kizárólag ezen az elektronikus felületen a 2025. január 1-jét megelőző nappal végződő adómegállapítási időszakra vonatkozóan benyújtott bevallását 2025. január 1-jét követően helyesbítheti önellenőrzéssel.
+(2) Jogutódlás esetén – ide nem értve a 17. § (3) bekezdés g) és k) pontja, valamint 17. § (6) bekezdése szerinti jogutódlást – az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 184. § (2) bekezdés b) vagy c) pontja szerinti elektronikus felületen a jogutód a jogelődnek 2025. január 1-jét magában foglaló adómegállapítási időszakára vonatkozóan fér először hozzá az állami adó- és vámhatóság által rendelkezésre bocsátott adatokhoz, valamint a jogutód a 184. § (2) bekezdés b) vagy c) pontja szerinti elektronikus felületen a jogelőd által kizárólag ezen az elektronikus felületen a 2025. január 1-jét megelőző nappal végződő adómegállapítási időszakra vonatkozóan benyújtott bevallását 2025. január 1-jét követően helyesbítheti önellenőrzéssel.
 
 (3) Az adóalany az Art. 52. §-a szerinti bevallási kötelezettségét először a 2025. január 1-jét magában foglaló adómegállapítási időszakára vonatkozóan teljesítheti a 184. § (2) bekezdés b) vagy c) pontja szerint.
 
