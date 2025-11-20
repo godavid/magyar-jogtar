@@ -2062,7 +2062,7 @@ vonatkozó adatokról, továbbá minden olyan, törvényben előírt személyes 
 (5) Az a TAJ számmal rendelkező személy, aki
 
 - a) valamely EGT tagállamban, illetve Svájcban, valamint a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó államban biztosított, vagy
-- b) a Tbj. 17. § (1) bekezdés a) pontja hatálya alá tartozó magyar állampolgár, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
+- b) a Tbj. 17. § (1) bekezdés b) pontja hatálya alá tartozó magyar állampolgár, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
 (5a) Ha a TAJ-számmal rendelkező személy nem teljesíti az (5) bekezdés szerinti bejelentési kötelezettségét, azonban a külföldi biztosító részéről jogosultságigazolás kerül kiadásra, akkor a jogosultságigazolást a külföldi biztosítás létrejöttére vonatkozó bejelentésnek kell tekinteni.
 

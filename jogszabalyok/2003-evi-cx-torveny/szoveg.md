@@ -92,7 +92,7 @@ keletkezik.
 
 (3) Ha a különbözet előjele pozitív, az adót az adóalany köteles a vámhatóságnak megfizetni.
 
-(4) Wankel-motoros személygépkocsi esetén a mellékletben szereplő besoroláshoz szükséges műszaki tulajdonságot a gépjármű műszaki adatlapján szereplő kamratérfogatának kétszeresével kell megállapítani.
+(4)
 
 (5) A 2025. évet követően az adótétel megállapítása során a melléklet I. részének nyitó szövegrészében szereplő forintérték tárgyévet megelőző évi összegének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összegét kell alkalmazni, amelyet 1000 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított értéket az állami adó- és vámhatóság internetes honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
@@ -288,7 +288,7 @@ Adótételek az egyes adókategóriákban, mely a táblázatban szereplő szorz�
 
 - 1. Személygépkocsik esetén
 
-| Adó-kate-gória | Teljesítmény (kW) | Adótétel szorzószáma[A személygépkocsi környezetvédelmi osztályba sorolása a közúti járművek forgalombahelyezésének és forgalomban tartásának műszaki feltételeiről szóló6/1990. (IV. 12.) KÖHÉM rendelet 5. számú mellékletének II. pontja szerint] |  |  |  |  |
+| Adó- kate- gória | Teljesítmény (kW) | Adótétel szorzószáma[A személygépkocsi környezetvédelmi osztályba sorolása a közúti járművek forgalombahelyezésének és forgalomban tartásának műszaki feltételeiről szóló6/1990. (IV. 12.) KÖHÉM rendelet 5. számú mellékletének II. pontja szerint] |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | a) 14-nél jobb és2020. december 31-étkövetően helyezték első alkalommal forgalomba belföldön vagy külföldönb) hibrid hajtású személygépkocsi | 14-nél jobb | 12–14 | 9–11 | 8 vagy annál rosszabb |
 | 1. | 0–80 | 1 | 1,5 | 6 | 12 | 24 |
