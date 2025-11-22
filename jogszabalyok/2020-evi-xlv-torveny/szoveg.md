@@ -63,10 +63,10 @@ Az Országgyűlés a fogyasztási-forgalmi adók adórendszerben betöltött sze
 
 6. § (1) Az adó mértéke a 2025-ben és a 2026-ban kezdődő adóévben az (1a) bekezdésben foglalt kivétellel
 
-- a) az adóalap 500 millió forintot meg nem haladó része után 0 százalék,
-- b) az adóalap 500 millió forintot meghaladó, de 30 milliárd forintot meg nem haladó része után 0,15 százalék,
-- c) az adóalap 30 milliárd forintot meghaladó, de 100 milliárd forintot meg nem haladó része után 1 százalék,
-- d) az adóalap 100 milliárd forintot meghaladó része után 4,5 százalék.
+- a) az adóalap 1 milliárd forintot meg nem haladó része után 0 százalék,
+- b) az adóalap 1 milliárd forintot meghaladó, de 50 milliárd forintot meg nem haladó része után 0,15 százalék,
+- c) az adóalap 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 1 százalék,
+- d) az adóalap 150 milliárd forintot meghaladó része után 4,5 százalék.
 
 (1a) A 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint 47.3 ágazatba sorolt kiskereskedelmi tevékenység (a továbbiakban: gépjármű-üzemanyag kiskereskedelem) esetében a 2025-ben kezdődő adóévben az adó mértéke
 
@@ -164,6 +164,10 @@ megállapított adóval.
 (5) Azon adóalanynak, akinek az adóéve nem egyezik meg a naptári évvel az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított rendelkezéseket a 2025. évben kezdődő adóévtől kell alkalmaznia.
 
 (6) E törvény 1. § 3. és 4. pontjának, 3. §-ának, 4. § (1a)–(1b) bekezdésének, 6. §. (3)–(5) bekezdésének, 7. § (1a), (5a) és (7)–(8) bekezdésének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+11/A. § (1) E törvénynek a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 6. § (1) bekezdését első alkalommal a 2025. évben kezdődő adóévi adókötelezettségre kell alkalmazni.
+
+(2) Amennyiben az adózó 2025. évben kezdődő adóévére az adóév hetedik hónapjának 20. napjáig és tizedik hónapjának 20. napjáig esedékessé vált és megfizetett adóelőleg összege több, mint a 2025. adóévre várható, a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 6. § (1) bekezdése figyelembevételével meghatározott fizetendő adó összege, a különbözetet – a 7. § (4) bekezdés második mondatában foglaltaktól függetlenül – a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvény hatályba lépését követően, de legkésőbb a 2025. évben kezdődő adóév utolsó napján, az állami adó- és vámhatóság által közzétett nyomtatvány elektronikus úton történő benyújtásával, az adózás rendjéről szóló törvény adóvisszatérítési szabályai alapján visszaigényelheti.
 
 12. § Ez a törvény
 
