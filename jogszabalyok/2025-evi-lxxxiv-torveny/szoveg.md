@@ -14,11 +14,7 @@ a vállalkozások adóterheit csökkentő intézkedésekről
 
 #### 1. §
 
-2. § Az Szja tv. 80. §-a a következő i) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben meghatározza)
-
-„i) a rendvédelmi feladatokat ellátó szerv által a foglalkoztatottjának béren kívüli juttatásként adható lakhatási támogatás juttatásának részletes feltételeit.”
+#### 2. §
 
 3. § Az Szja tv.
 
@@ -70,16 +66,7 @@ lép.
 
 #### 16. §
 
-17. § Az Áfa tv. a következő 377. §-sal egészül ki:
-
-„377. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2026. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
-
-- a) sem a 2025. naptári évben ténylegesen,
-- b) sem a 2026. naptári évben észszerűen várhatóan, illetve ténylegesen
-
-nem haladja meg a 20 000 000 forintnak megfelelő pénzösszeget.
-
-(2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2026. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében vagy a 195/K. § (6) bekezdésében rögzített időtartam még nem telt el.”
+#### 17. §
 
 #### 18. §
 
@@ -87,9 +74,7 @@ nem haladja meg a 20 000 000 forintnak megfelelő pénzösszeget.
 
 #### 5. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-20. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 150. §-a a következő (43) bekezdéssel egészül ki:
-
-„(43) A 2026. évben a 110. § (1) bekezdés a)–c) pontja szerinti adómértékek 110. § (4) bekezdése szerinti valorizációja július 1-jétől alkalmazandó. A 2027. évben a 110. § (4) bekezdése tekintetében a tárgyévet megelőző évi adó mértéke alatt a 2026. július 1-jétől alkalmazandó adó mértékét kell érteni.”
+#### 20. §
 
 ### III. Fejezet — EGYES ÁGAZATI ADÓK
 
@@ -105,19 +90,9 @@ nem haladja meg a 20 000 000 forintnak megfelelő pénzösszeget.
 
 #### 7. A kiskereskedelmi adóról szóló 2020. évi XLV. törvény módosítása
 
-25. § A kiskereskedelmi adóról szóló 2020. évi XLV. törvény (a továbbiakban: Kiskeradó tv.) a következő 11/A. §-sal egészül ki:
+#### 25. §
 
-„11/A. § (1) E törvénynek a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 6. § (1) bekezdését első alkalommal a 2025. évben kezdődő adóévi adókötelezettségre kell alkalmazni.
-
-(2) Amennyiben az adózó 2025. évben kezdődő adóévére az adóév hetedik hónapjának 20. napjáig és tizedik hónapjának 20. napjáig esedékessé vált és megfizetett adóelőleg összege több, mint a 2025. adóévre várható, a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 6. § (1) bekezdése figyelembevételével meghatározott fizetendő adó összege, a különbözetet – a 7. § (4) bekezdés második mondatában foglaltaktól függetlenül – a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvény hatályba lépését követően, de legkésőbb a 2025. évben kezdődő adóév utolsó napján, az állami adó- és vámhatóság által közzétett nyomtatvány elektronikus úton történő benyújtásával, az adózás rendjéről szóló törvény adóvisszatérítési szabályai alapján visszaigényelheti.”
-
-26. § A Kiskeradó tv.
-
-- a) 6. § (1) bekezdés a) és b) pontjában az „500 millió” szövegrész helyébe az „1 milliárd” szöveg,
-- b) 6. § (1) bekezdés b) és c) pontjában a „30 milliárd” szövegrész helyébe az „50 milliárd” szöveg,
-- c) 6. § (1) bekezdés c) és d) pontjában a „100 milliárd” szövegrész helyébe a „150 milliárd” szöveg
-
-lép.
+#### 26. §
 
 ### IV. Fejezet — A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIT MEGILLETŐ EGYES BEFIZETÉSEKET ÉRINTŐ MÓDOSÍTÁSOK
 
