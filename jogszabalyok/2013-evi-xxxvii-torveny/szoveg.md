@@ -12,7 +12,11 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 (2) E törvény rendelkezéseitől eltérni az Európai Unió kötelező jogi aktusa és nemzetközi szerződés alapján lehet.
 
-3. § Ha az állami adóhatóság uniós jogi aktus rendelkezése – ideértve az uniós jogi aktust átültető magyar jogszabályt is – alapján az Európai Bizottság vagy az Európai Unió más intézménye, ügynöksége részére személyes adatot nem tartalmazó, statisztikai célú, illetve az uniós jogi aktus alkalmazásának eredményeit összegző adatszolgáltatást, információ-átadást teljesít, azt egyidejűleg az adópolitikáért felelős miniszter részére is megküldi.
+3. § (1) Ha az állami adó- és vámhatóság az Európai Unió kötelező jogi aktusának rendelkezése – ideértve az uniós jogi aktust átültető magyar jogszabályt is – alapján az Európai Bizottság vagy az Európai Unió más intézménye, ügynöksége részére személyes adatot nem tartalmazó, statisztikai célú, illetve az Európai Unió kötelező jogi aktusa alkalmazásának eredményeit összegző adatszolgáltatást, információátadást teljesít, azt egyidejűleg az adópolitikáért felelős miniszter részére is megküldi.
+
+(2) Az állami adó- és vámhatóság az e törvény szerinti információcsere keretében küldött és beérkezett adatokhoz adópolitikai célú gazdasági és statisztikai elemzés céljából hozzáférést biztosít az adópolitikáért felelős miniszter részére.
+
+(3) Az állami adó- és vámhatóság megküldi az Európai Bizottság részére az e törvény szerinti közigazgatási együttműködésnek, különösen a közigazgatási együttműködés adókikerülés és adókijátszás elleni fellépésben való hatékonyságára vonatkozó éves értékelést.
 
 3/A. § Az állami adó- és vámhatóság az e törvényben szabályozott közigazgatási együttműködés teljesítése, valamint a Jelentő Magyar Pénzügyi Intézménynek a 43/B. §-ban, a 43/H. §-ban és az 1. melléklet II–VII. Fejezetében meghatározott átvilágítási és adatszolgáltatási kötelezettsége teljesítésének ellenőrzése céljából jogosult a tényleges tulajdonosi információk központi nyilvántartásából adatot igényelni, valamint a tényleges tulajdonosra vonatkozó adatokhoz és dokumentumokhoz hozzáférni.
 
@@ -436,7 +440,7 @@ kapcsolatos eljárásban.
 
 (2) Az (1) bekezdés szerinti információt
 
-- a) 5. § (1) bekezdésben és 6. §-ban meghatározott adókra vonatkozó magyar jogszabályok és az érintett tagállam(ok) jogszabályai végrehajtása céljából, vagy
+- a) az 5. § (1) bekezdésben és 6. §-ban meghatározott adókra vonatkozó magyar jogszabályok és az érintett tagállam vagy tagállamok jogszabályai, valamint a pénzmosás és terrorizmusfinanszírozás elleni fellépésre vonatkozó szabályozás vizsgálata, kezelése és végrehajtása céljából, vagy
 - b) az a) pont szerinti adókkal kapcsolatos olyan bírósági vagy közigazgatási eljárások során, amelyekben az ilyen adókkal kapcsolatos jogszabályok megsértése esetén hátrányos jogkövetkezmények megállapításának lehet helye,
 - c) a 22. § (1)–(2) bekezdésében meghatározott követelések és a kötelező társadalombiztosítási járulékok, illetve a 23. §-ban meghatározott követelések és a társadalombiztosítási járulékok (szociális hozzájárulási adó) megállapításához és végrehajtásához
 
@@ -444,7 +448,9 @@ lehet felhasználni.
 
 A b) pont szerinti esetben az információ felhasználása nem járhat a bírósági vagy közigazgatási eljárásban részt vevő személyek jogait szabályozó általános rendelkezések sérelmével.
 
-(3) Az (1) bekezdés szerinti információt a magyar megkeresett hatóság, illetve magyar megkereső hatóság a (2) bekezdéstől eltérő célra az információt szolgáltató hatáskörrel rendelkező hatóság engedélyével használhatja fel. Az információt szolgáltatóként a magyar megkereső hatóság, illetve magyar megkeresett hatóság az (1) bekezdéstől eltérő célra való felhasználást akkor engedélyezi, ha az információ e célra való felhasználását a magyar jogszabályok lehetővé teszik.
+(3a) A magyar megkereső hatóság a kapott információkat és dokumentumokat az Európai Unió Működéséről szóló szerződés 215. cikkén alapuló jogi aktus hatálya alá tartozó bármely célra a (3) bekezdésben meghatározott engedély nélkül felhasználhatja, és továbbíthatja a korlátozó intézkedésekért felelős hatáskörrel rendelkező hatóságnak.
+
+(4) A megkereső vagy megkeresett hatóság tagállamától eltérő tagállam hatáskörrel rendelkező hatósága (harmadik fél) részére a magyar megkeresett hatóság az adómegállapítási jogsegély teljesítése során szerzett információt akkor továbbíthatja, ha megítélése szerint az információ a harmadik félnek hasznos lehet, és az információt szolgáltató megkeresett vagy megkereső hatóság az információ továbbítását nem ellenezte. A magyar megkeresett hatóság az információ továbbítását megelőzően tájékoztatja az információt szolgáltató megkereső vagy megkeresett hatóságot az információ továbbításának szándékáról. Ha e hatóság a tájékoztatás beérkezésétől számított tizenöt napon belül ellenzi az információ továbbítását, a magyar megkereső vagy megkeresett hatóság az információt harmadik fél részére nem adja ki.
 
 (4) A megkereső vagy megkeresett hatóság tagállamától eltérő tagállam hatáskörrel rendelkező hatósága (harmadik fél) részére a magyar megkeresett hatóság az adómegállapítási jogsegély teljesítése során szerzett információt akkor továbbíthatja, ha megítélése szerint az információ harmadik félnek hasznos lehet, és az információt szolgáltató megkeresett vagy megkereső hatóság az információ továbbítását nem ellenezte. A magyar megkeresett hatóság az információ továbbítását megelőzően tájékoztatja az információt szolgáltató megkereső vagy megkeresett hatóságot az információ továbbításának szándékáról. Ha e hatóság a tájékoztatás beérkezésétől számított tíz munkanapon belül ellenzi az információ továbbítását, a magyar megkereső vagy megkeresett hatóság az információt harmadik fél részére nem adhatja ki.
 
@@ -497,7 +503,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (3) Az (1)–(2) bekezdésben foglaltakon kívül a magyar megkereső hatóság spontán információcserét abban az esetben teljesíthet, ha álláspontja szerint az információ az Európai Unió érintett tagállama hatáskörrel rendelkező hatósága részére hasznos lehet.
 
-19/A. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében, a 2014. január 1-jétől kezdődő adómegállapítási időszakokat illetően, legkésőbb az információ rendelkezésre állásának adóévét követő év június 30-ig közli más tagállam hatáskörrel rendelkező hatóságával a (2) bekezdésben meghatározott jövedelem- és tőkekategóriákra vonatkozóan az Európai Unió más tagállamában illetőséggel rendelkező adózóról a nyilvántartása alapján rendelkezésére álló információkat, valamint – ha az rendelkezésre áll – a 2024. január 1-jétől kezdődő adómegállapítási időszakokat illetően az Európai Unió más tagállamában illetőséggel rendelkező adózó részére az illetőségének tagállama által kiadott adóazonosító számot.
+19/A. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében, legkésőbb az információ rendelkezésre állásának adóévét követő év június 30-ig közli más tagállam hatáskörrel rendelkező hatóságával a (2) bekezdésben meghatározott jövedelem- és tőkekategóriákra vonatkozóan az Európai Unió más tagállamában illetőséggel rendelkező adózóról a nyilvántartása alapján rendelkezésére álló információkat, valamint – ha az rendelkezésre áll – a 2024. január 1-jétől kezdődő adómegállapítási időszakokat illetően az Európai Unió más tagállamában illetőséggel rendelkező adózó részére az illetőségének tagállama által kiadott adóazonosító számot.
 
 (2) Az (1) bekezdés szerinti jövedelem- és tőkekategóriák a következők:
 
@@ -506,7 +512,8 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 - c) életbiztosítási szerződésből származó jövedelem, ide nem értve az információcserével kapcsolatos egyéb uniós jogi aktus hatálya alá tartozó életbiztosítási szerződésből származó jövedelmet;
 - d) nyugdíj;
 - e) ingatlan tulajdonjogának ténye és az ingatlan hasznosításából származó jövedelem;
-- f) jogdíj.
+- f) jogdíj;
+- g) a 2011/96/EU tanácsi irányelv 4., 5. és 6. cikke alapján a társasági adó alól mentes osztalékbevételtől eltérő, nem letéti jellegű osztalékbevétel.
 
 19/B. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében a feltételes adómegállapításra, valamint a szokásos piaci ár megállapítására vonatkozó határozatoknak a (4) bekezdésben meghatározott adatait a határozatok kiadása, módosítása vagy meghosszabbítása napját követően haladéktalanul, de legkésőbb e nap naptári félévét követő három hónapon belül közli a többi tagállam hatáskörrel rendelkező hatóságával.
 
@@ -514,17 +521,23 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 - a) a határozattal érintett ügyletben vagy ügyletsorozatban részes összes fél kizárólag belföldön rendelkezik adóügyi illetőséggel,
 - b) a határozattal érintett ügyletben vagy ügyletsorozatban részes felek egyike sem folytat más állambeli állandó telephelyen olyan tevékenységet, amelynek a határozattal érintett ügylet vagy ügyletsorozat egészét vagy részét képezi,
-- c) a határozat nem egy személy más állambeli állandó telephelyén folytatott tevékenységéhez kapcsolódó intézkedéseire vonatkozik, és
+- c) a határozat nem egy személy más állambeli állandó telephelyén folytatott tevékenységéhez kapcsolódó intézkedéseire, továbbá nem vonatkozik arra, hogy egy személy más államban folytatott tevékenysége állandó telephely létrehozását eredményezi, vagy egy adott természetes személy rendelkezik magyar adóügyi illetőséggel, és
 - d) a határozattal érintett ügylet vagy ügyletsorozat nem fejt ki határokon átnyúló hatást.
 
 (3) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség az alábbi esetekre nem terjed ki:
 
 - a) ha a szokásos piaci ár megállapítására vonatkozó határozat érvényessége olyan harmadik országokkal kötött két- vagy többoldalú megállapodástól függ, amelyet harmadik országok részére történő adatszolgáltatást tiltó nemzetközi adóegyezmény alapján kötöttek. Ebben az esetben a spontán információcsere 19. §-ban foglalt szabályai az irányadók, feltéve, hogy a nemzetközi adóegyezmény szabályai az információátadást lehetővé teszik és a harmadik ország hatáskörrel rendelkező hatósága az információ átadásához hozzájárul. Ha a nemzetközi adóegyezmény szabályai az információátadást nem teszik lehetővé, vagy a harmadik ország hatáskörrel rendelkező hatósága az információ átadásához nem járul hozzá, az információcserére a szokásos piaci ár megállapítására irányuló adózói kérelemnek a (4) bekezdésben meghatározott adatai alapján kerül sor.
-- b) ha a határozat kizárólag természetes személy adókötelezettségének vagy annak hiányának megállapítására irányul.
+- b) ha a határozat kizárólag természetes személy adókötelezettségének vagy annak hiányának megállapítására irányul, kivéve, ha a határozatot 2026. január 1. után adták ki, módosították vagy hosszabbították meg, és
+  - ba) a határozat tárgyát képező ügylet vagy ügyletsorozat összege meghaladja az 1 500 000 eurót, vagy annak más valutában kifejezett egyenértékét, és ezt az összeget a határozat tartalmazza, vagy
+  - bb) a határozat rögzíti, hogy a természetes személy rendelkezik-e magyar adóügyi illetőséggel.
+
+(3a) A (2) bekezdés b) pont ba) alpontjában meghatározott összegnek a különböző árukkal, szolgáltatásokkal, vagy eszközökkel kapcsolatos ügyletsorozatok teljes értékét tartalmaznia kell. Ugyanazon áruk, szolgáltatások, vagy eszközök többszöri értékesítése esetén az összegek nem összesíthetők.
+
+(3b) A (2) bekezdés b) pont bb) alpontjától eltérően, a természetes személyre vonatkozó határozattal kapcsolatos információcsere nem terjed ki a magyar illetőséggel nem rendelkező személy munkaviszonyból származó jövedelmét, vezető tisztségviselői tiszteletdíját és nyugdíját érintő adókötelezettségre vonatkozó határozatra.
 
 (4) Az (1) bekezdés szerinti adatszolgáltatási kötelezettséggel érintett információk a következők:
 
-- 1. az adózó (kérelmező), illetve az adózói csoport (kérelmezői csoport) neve;
+- 1. a nem természetes személy adózó (kérelmező) neve, továbbá a természetes személy adózó (kérelmező) neve, ha a határozat természetes személy adókötelezettségére, vagy annak hiányára vonatkozik és az (1) bekezdés, valamint a (3) bekezdés b) pontja alapján a határozatra az adatszolgáltatási kötelezettség kiterjed, valamint az adózói csoport (kérelmezői csoport) neve;
 - 2. a határozatnak a kérelemmel érintett gazdasági tevékenység, ügylet vagy ügyletsorozat leírását tartalmazó összefoglalása, valamint a hatáskörrel rendelkező hatóságot egy potenciális adózási kockázat értékelésében segítő egyéb információk, amelyek nem eredményezhetik üzleti, ipari, szakmai titok, kereskedelmi folyamat, vagy a magyar jogrendbe ütköző információ felfedését;
 - 3. a határozat kiadásának, módosításának vagy meghosszabbításának időpontja;
 - 4. a határozat érvényességi idejének kezdő időpontja (ha a határozat azt tartalmazza);
@@ -534,7 +547,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 - 8. a szokásos piaci ár képzésére vagy a szokásos piaci ár megállapítására vonatkozó feltételek ismertetése;
 - 9. a szokásos piaci ár képzésére vagy a szokásos piaci ár megállapítására alkalmazott módszer ismertetése;
 - 10. annak a tagállamnak a megnevezése, amelyet a határozat rendelkezései érinthetnek (feltéve, ha ilyen van);
-- 11. a természetes személy kivételével annak a más tagállambeli személynek, illetve e személyhez kapcsolható tagállam megnevezése, amelyet a határozat rendelkezései érinthetnek (feltéve, ha ilyenek vannak);
+- 11. a más tagállambeli nem természetes személy adózó neve, továbbá a természetes személy adózó neve, ha a határozat természetes személy adókötelezettségére vagy annak hiányára vonatkozik, és az (1) bekezdés, valamint a (3) bekezdés b) pontja alapján a határozatra az adatszolgáltatási kötelezettség kiterjed, továbbá e személyhez kapcsolható, a határozat rendelkezéseivel érintett tagállam megnevezése (ha van ilyen);
 - 12. annak megjelölése, hogy a más tagállam hatáskörrel rendelkező hatósága részére nyújtott adatszolgáltatás a határozat rendelkezésein, vagy a szokásos piaci ár megállapítására irányuló adózói kérelem adatain alapul.
 
 (5) Ha az automatikus információcsere keretében beérkező információ a magyar hatáskörrel rendelkező hatóságnak a (4) bekezdés 10. pontjában meghatározott érintettségét jelzi, a központi adattár működésének megkezdéséig a magyar hatáskörrel rendelkező hatóság az információ beérkezését követően haladéktalanul, de legfeljebb a beérkezésétől számított hét munkanapon belül – lehetőség szerint elektronikus úton – visszaigazolja az információk kézhezvételét az információkat közlő tagállam hatáskörrel rendelkező hatóságának.
@@ -565,11 +578,11 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 - c) tájékoztathatja az Európai Bizottságot és az Európai Unió tagállamainak hatáskörrel rendelkező hatóságait az adómegállapítási jogsegéllyel kapcsolatos tapasztalatokról, gyakorlatról a bevált tapasztalatok és gyakorlatok megosztása iránti eljárásban,
 - d) a 19/B. § és a 45/D. § szerinti adatszolgáltatást a 19/B. § (4) bekezdésében meghatározott adattartalommal – a 19/B. § (4) bekezdés 1., 2., 8. és 11. pontjában foglaltak kivételével – az Európai Bizottság részére is teljesíti.
 
-(4) A magyar központi kapcsolattartó iroda tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–f) pontjában rögzített jövedelemtípusait érintő két- vagy többoldalú nemzetközi megállapodásokról, továbbá a jövedelemtípusok körét érintő változásokról.
+(4) A magyar központi kapcsolattartó iroda tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–g) pontjában rögzített jövedelemtípusait érintő két- vagy többoldalú nemzetközi megállapodásokról, továbbá a jövedelemtípusok körét érintő változásokról.
 
-(5) A magyar központi kapcsolattartó iroda évente tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–f) pontjában rögzített jövedelemtípusait érintő legalább két jövedelem- és tőkekategóriáról, amelyek vonatkozásában a más tagállamban illetőséggel rendelkező személyekről információt ad át más tagállam hatáskörrel rendelkező hatóságának.
+(5) A magyar központi kapcsolattartó iroda évente tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–g) pontjában rögzített jövedelemtípusait érintő legalább öt jövedelem- és tőkekategóriáról, amelyek vonatkozásában a más tagállamban illetőséggel rendelkező személyekről információt ad át más tagállam hatáskörrel rendelkező hatóságának.
 
-(6) A magyar központi kapcsolattartó iroda tájékoztathatja a más tagállam hatáskörrel rendelkező hatóságát, ha a 19/A. § (2) bekezdés a)–f) pontjában felsorolt jövedelemtípusok tekintetében nem kíván információkat kapni. A magyar központi kapcsolattartó iroda erről az értesítésről tájékoztatja az Európai Bizottságot.
+(6) A magyar központi kapcsolattartó iroda tájékoztathatja a más tagállam hatáskörrel rendelkező hatóságát, ha a 19/A. § (2) bekezdés a)–g) pontjában felsorolt jövedelemtípusok tekintetében nem kíván információkat kapni. A magyar központi kapcsolattartó iroda erről az értesítésről tájékoztatja az Európai Bizottságot.
 
 #### 9. Információcsere harmadik államokkal
 
@@ -611,38 +624,40 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (2) Ha az Adatszolgáltatásra kötelezett platformüzemeltetőnek az (1) bekezdés alapján nem keletkezik adatszolgáltatási kötelezettsége, erről a tényről az azonosító adatainak feltüntetésével az (1) bekezdésben foglaltaknak megfelelő határidőben bejelentést tesz az állami adó- és vámhatósághoz.
 
-(3) Az állami adó- és vámhatóság automatikus információcsere keretében az Adatszolgáltatási időszak utolsó napját követő két hónapon belül közli az Európai Unió azon tagállamának hatáskörrel rendelkező hatóságával, amelyben a Jelentendő értékesítő az 5. melléklet II/D. pontja szerinti illetőséggel rendelkezik, valamint – ingatlan-bérbeadási szolgáltatás nyújtása esetén – az ingatlan helye szerinti tagállam hatáskörrel rendelkező hatóságával a Jelentendő értékesítőkre vonatkozóan a (4) és (5) bekezdésben meghatározott információkat.
+(3) Az állami adó- és vámhatóság automatikus információcsere keretében az Adatszolgáltatási időszak utolsó napját követő két hónapon belül közli az Európai Unió azon tagállamának vagy más államnak a hatáskörrel rendelkező hatóságával, amelyben a Jelentendő értékesítő az 5. melléklet II/D. pontja szerinti illetőséggel rendelkezik, valamint – ingatlan-bérbeadási szolgáltatás nyújtása esetén – az ingatlan helye szerinti tagállam vagy más állam hatáskörrel rendelkező hatóságával a Jelentendő értékesítőkre vonatkozóan a (4) és (5) bekezdésben meghatározott információkat. Más állam tekintetében, e bekezdés szerinti első információközlésre kizárólag azon adatszolgáltatás alapjául szolgáló időszak adatai vonatkozásában kerülhet sor, amely időszak bármely napján a digitális platformokról származó jövedelemre vonatkozó automatikus információcseréről szóló illetékes hatóságok közötti többoldalú Megállapodás hatályba lép. Az állami adóhatóság az e bekezdés szabályai szerint nem továbbítható adatokat az információközlés adóévének utolsó napjáig törli a nyilvántartásából.
+
+(3a) Az állami adó- és vámhatóság a (3) bekezdés szerinti információkat más állammal olyan terjedelemben közli, amennyiben az Érintett tevékenységre kiterjed a más állammal kötött megállapodás alapján végzett automatikus információcsere.
 
 (4) A (3) bekezdés szerinti információk a következők:
 
 - a) az Adatszolgáltatásra kötelezett platformüzemeltető neve, bejegyzett székhelyének címe, Adóazonosító száma, egyedi azonosító száma, valamint a Platform(ok) neve(i), amely(ek)re vonatkozóan az Adatszolgáltatásra kötelezett platformüzemeltető adatot szolgáltat;
 - b) a magánszemély Jelentendő értékesítő családi neve és utóneve, valamint a Szervezetnek minősülő Jelentendő értékesítő hivatalos elnevezése;
 - c) a magánszemély vagy a Szervezet Értékesítő Elsődleges címe;
-- d) a Jelentendő értékesítő tagállamonként kiadott bármely Adóazonosító száma az adószámot kiadó tagállam megnevezésével, illetve ennek hiányában a magánszemélynek minősülő Jelentendő értékesítő születési helye;
+- d) a Jelentendő értékesítő tagállamonként vagy más államonként kiadott bármely Adóazonosító száma az adószámot kiadó tagállam vagy más állam megnevezésével, illetve ennek hiányában a magánszemélynek minősülő Jelentendő értékesítő születési helye;
 - e) a Szervezetnek minősülő Jelentendő értékesítő cégnyilvántartási száma;
 - f) a Jelentendő értékesítő HÉA azonosító száma (ha ilyennel rendelkezik);
 - g) magánszemélynek minősülő Jelentendő értékesítő esetében a születési dátum;
-- h) az Ellenérték megfizetésére vagy jóváírására használt Pénzforgalmi jelzőszám (ha az Adatszolgáltatásra kötelezett platformüzemeltető rendelkezésére áll), kivéve, ha a Jelentendő értékesítő 5. melléklet II/D. pontja alapján meghatározott illetősége szerinti tagállam hatáskörrel rendelkező hatósága tájékoztatta az állami adó- és vámhatóságot arról, hogy a Pénzforgalmi jelzőszámot nem használja ilyen célokra;
-- i) az Ellenérték kifizetésére vagy jóváírására felhasznált pénzügyi számla tulajdonosának neve – feltéve, hogy ez eltér a Jelentendő értékesítő nevétől, és ha az Adatszolgáltatásra kötelezett platformüzemeltető rendelkezésére áll –, valamint az adott számlatulajdonossal kapcsolatban az Adatszolgáltatásra kötelezett platformüzemeltető rendelkezésére álló bármilyen egyéb pénzügyi azonosító adat;
+- h) az Ellenérték megfizetésére vagy jóváírására használt Pénzforgalmi jelzőszám – ha az Adatszolgáltatásra kötelezett platformüzemeltető rendelkezésére áll –, kivéve, ha a Jelentendő értékesítő az 5. melléklet II/D. pontja alapján meghatározott illetősége szerinti tagállam vagy más állam hatáskörrel rendelkező hatósága tájékoztatta az állami adó- és vámhatóságot arról, hogy a Pénzforgalmi jelzőszámot nem használja ilyen célokra;
+- j) azon tagállamok vagy más államok megnevezése, ahol a Jelentendő értékesítő az 5. melléklet II/D. pontja alapján illetőséggel rendelkezik;
 - j) azon tagállamok megnevezése, ahol a Jelentendő értékesítő az 5. melléklet II/D. pontja alapján illetőséggel rendelkezik;
 - k) az Adatszolgáltatási időszakban az Érintett tevékenységek száma, valamint ezek kifizetett vagy jóváírt Ellenértékének negyedéves bontásban feltüntetett teljes összege;
 - l) az Adatszolgáltatási időszakban az Adatszolgáltatásra kötelezett platformüzemeltető által levont vagy felszámított bármely díj, jutalék vagy adó negyedéves bontásban feltüntetett összege.
 
 (5) Ha a Jelentendő értékesítő ingatlan-bérbeadási szolgáltatásokat is nyújt, az állami adó- és vámhatóság a (4) bekezdésben meghatározottakon túl a következő kiegészítő információkat is közli:
 
-- a) az 5. melléklet II/E. pontja szerinti eljárás alapján meghatározott Közvetített ingatlan címét, és ha az rendelkezésre áll, annak helyrajzi számát vagy annak az ingatlan helye szerinti tagállam nemzeti joga által megállapított megfelelőjét;
+- a) az 5. melléklet II/E. pontja szerinti eljárás alapján meghatározott Közvetített ingatlan címét, és ha az rendelkezésre áll, annak helyrajzi számát vagy annak az ingatlan helye szerinti tagállam vagy más állam nemzeti joga által megállapított megfelelőjét;
 - b) az Adatszolgáltatási időszakban kifizetett vagy jóváírt Ellenérték teljes összegét és a Közvetített ingatlan kapcsán nyújtott Érintett tevékenységek számát negyedéves bontásban;
 - c) a Közvetített ingatlan bérbeadással érintett napjainak Adatszolgáltatási időszakon belüli számát és a Közvetített ingatlan típusát (ha az rendelkezésre áll).
 
-(6) Az állami adó- és vámhatóság az Európai Unió tagállamától automatikus információcsere keretében beérkezett adatokat fogadja, nyilvántartja és azokat adóügyben bizonyítékként felhasználhatja.
+(6) Az állami adó- és vámhatóság az automatikus információcsere keretében beérkezett adatokat fogadja, nyilvántartja és azokat adóügyben bizonyítékként felhasználhatja.
 
 21/C. § Az Adatszolgáltatásra kötelezett platformüzemeltető az átvilágítással és adatszolgáltatási kötelezettséggel összefüggő valamennyi intézkedéséről és ezek alapjául szolgáló információról nyilvántartást vezet és az ezzel kapcsolatos dokumentációt annak nyilvántartási módjától függetlenül az adatszolgáltatási kötelezettség 21/B. § (1) bekezdésében meghatározott határidejétől számított 10 évig megőrzi.
 
 21/D. § (1) Az Adatszolgáltatásra kötelezett platformüzemeltető a 21/A. § (1), (3), (6) bekezdése és a 21/B. § (2) bekezdése szerinti bejelentési, változásbejelentési kötelezettségét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített meghatározott formátumban, a 21/B. § (1) bekezdése szerinti adatszolgáltatási kötelezettségét elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban teljesíti az állami adó- és vámhatósághoz. Az Adatszolgáltatásra nem kötelezett platformüzemeltető a 21/A. § (8) bekezdése szerinti kérelmét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített elektronikus űrlapon nyújtja be az állami adó- és vámhatósághoz.
 
-(2) Az állami adó- és vámhatóság a 21/B. §-ban meghatározott, automatikus információcsere keretében az Európai Unió tagállamába továbbított információt egységes számítógépesített formátum használatával továbbítja.
+(2) Az állami adó- és vámhatóság a 21/B. §-ban meghatározott, automatikus információcsere keretében továbbított információt egységes számítógépesített formátum használatával továbbítja.
 
-21/E. § (1) Az állami adó- és vámhatóság kéri az Európai Bizottságtól az 5. melléklet I/A/4. pont b) alpontjában meghatározott Adatszolgáltatásra kötelezett platformüzemeltető Központi nyilvántartásból való törlését, ha:
+21/E. § (1) Az állami adó- és vámhatóság törli az 5. melléklet I/A/4. pont b) alpontjában meghatározott Adatszolgáltatásra kötelezett platformüzemeltetőt a Központi nyilvántartásból, ha:
 
 - a) az erről szóló értesítés alapján az állami adó- és vámhatóság tudomást szerez arról, hogy a Platformüzemeltető ilyen minőségében már nem folytat tevékenységet;
 - b) az a) pont szerinti értesítés hiányában okkal feltételezhető, hogy a Platformüzemeltető tevékenysége megszűnt;
@@ -1810,7 +1825,7 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 (3) Ha adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukcióban több adótervezésben közreműködő érintett, az adatszolgáltatási kötelezettség valamennyi adótervezésben közreműködőt terheli. Ebben az esetben a konstrukcióval kapcsolatosan elsőként adatot szolgáltató adótervezésben közreműködő közli valamennyi általa ismert adatszolgáltatással érintett adótervezésben közreműködővel a konstrukció adóhatóság által képzett tagállami hivatkozási számát. Az adótervezésben közreműködő mentesül az adatszolgáltatási kötelezettség alól, ha bizonyítja, hogy az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukcióról egy másik adótervezésben közreműködő Magyarországon vagy egy másik tagállamban már teljesítette adatszolgáltatási kötelezettségét.
 
-43/W. § (1) Az adótervezésben közreműködő mentesül a 43/U. § (1) bekezdésében meghatározott adatszolgáltatási kötelezettség alól, ha e kötelezettség teljesítése a tevékenységét szabályozó jogszabályban rögzített titoktartási kötelezettség megsértését eredményezné. Ebben az esetben az adótervezésben közreműködő haladéktalanul értesíti a többi adótervezésben közreműködőt, illetve ilyen közreműködő hiányában az érintett adózót az adatszolgáltatási kötelezettség fennállásáról, továbbá, ha azzal rendelkezik, az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció tagállami hivatkozási számáról.
+43/W. § (1) Az adótervezésben közreműködő mentesül a 43/U. § (1) bekezdésében meghatározott adatszolgáltatási kötelezettség alól, ha e kötelezettség teljesítése a tevékenységét szabályozó jogszabályban rögzített titoktartási kötelezettség megsértését eredményezné. Ebben az esetben az adótervezésben közreműködő haladéktalanul tájékoztatja az adótervezésben közreműködő ügyfelét, ennek hiányában az érintett adózónak minősülő ügyfelét az adatszolgáltatási kötelezettség fennállásáról, továbbá, ha azzal rendelkezik, az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció tagállami hivatkozási számáról.
 
 (2) Adótervezésben közreműködő hiányában, vagy az (1) bekezdésben meghatározott adatszolgáltatási kötelezettség alóli mentességről szóló tájékoztatás kézhezvétele esetén az adatszolgáltatási kötelezettség a tájékoztatást kézhez kapó másik adótervezésben közreműködőt, ennek hiányában az érintett adózót terheli.
 
@@ -1842,9 +1857,9 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 (2) Az (1) bekezdés szerinti információk a következők:
 
-- a) az adótervezésben közreműködő és az érintett adózó azonosító adatai (név, cím, természetes személyek esetén születési idő és hely, adóügyi illetőség, adóazonosító szám, ennek hiányában azzal egyenértékű azonosító, ha ilyennel rendelkezik), valamint az érintett adózónak a konstrukcióban szereplő kapcsolt vállalkozása,
+- a) az adótervezésben közreműködő – az adatszolgáltatási kötelezettség alól a 43/W. § (1) bekezdése alapján mentesülő adótervezésben közreműködők kivételével – és az érintett adózó azonosító adatai – név, cím, természetes személyek esetén születési idő és hely, adóügyi illetőség, adóazonosító szám, ennek hiányában azzal egyenértékű azonosító, ha ilyennel rendelkezik –, valamint az érintett adózónak a konstrukcióban szereplő kapcsolt vállalkozása,
 - b) a határokon átnyúló konstrukcióra vonatkozó adatszolgáltatási kötelezettséget keletkeztető, a 4. mellékletben meghatározott ismertetőjegy(ek) részletes leírása,
-- c) az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció rövid leírása, (ideértve a konstrukció közismert nevét, ha van ilyen, valamint a konstrukcióval érintett gazdasági tevékenység bemutatását, anélkül hogy a leírás kereskedelmi, gazdasági vagy szakmai titok, kereskedelmi eljárás, vagy olyan információ felfedésével járna, amelynek közlése sérti a közrendet),
+- c) az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció rövid tartalmi leírása, ideértve a konstrukció közismert nevét, ha van ilyen, valamint a konstrukcióval érintett gazdasági tevékenység bemutatását, valamint olyan egyéb információt, amely az esetleges adókockázat értékelésében a másik tagállam hatáskörrel rendelkező hatóságát segítheti, anélkül hogy az kereskedelmi, gazdasági vagy szakmai titok, kereskedelmi eljárás, vagy olyan információ felfedésével járna, amelynek közlése sérti a közrendet,
 - d) az az időpont, amikor az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció végrehajtásának első lépésére sor került vagy sor fog kerülni,
 - e) az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció alapját képező jogszabályi rendelkezések,
 - f) az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció értéke,
@@ -1857,7 +1872,7 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 (5) Az állami adó- és vámhatóság az e §-ban meghatározott automatikus információcsere tárgyát képező adatokat az Európai Bizottság által a 2011/16/EU tanácsi irányelv 26. cikk (2) bekezdése szerinti eljárásnak megfelelően meghatározott nyelvhasználati szabályok szerint továbbítja. E nyelvhasználati szabályok hiányában a 16. § (4) bekezdésében foglaltak megfelelően alkalmazandók.
 
-(6) Az állami adóhatóság megküldi az adópolitikáért felelős miniszter, valamint az Európai Bizottság részére az e fejezetben szabályozott automatikus információcsere hatékonyságáról, valamint a gyakorlatban elért eredményekről szóló éves értékelés, valamint a 4. mellékletben foglalt ismertetőjegyek felülvizsgálatáról szóló kétéves értékelés adatait.
+(6) Az állami adó- és vámhatóság megküldi az adópolitikáért felelős miniszter, valamint az Európai Bizottság részére az e fejezetben szabályozott automatikus információcsere hatékonyságáról, valamint a gyakorlatban elért eredményekről szóló éves értékelés adatait.
 
 43/Z. § (1) A 43/U–43/X. § szerinti adatszolgáltatási, valamint a 43/W. § (1) bekezdése szerinti értesítési kötelezettség elmulasztása, késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság az adatszolgáltatásra vagy értesítésre kötelezettet 500 ezer forintig terjedő mulasztási bírsággal sújthatja.
 
@@ -1957,7 +1972,9 @@ a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdőd
 
 45/N. § A Nemzeti Adó- és Vámhivatalnál 2021. szeptember 30-án folyamatban lévő, a III/A. Fejezetben szabályozott európai uniós kölcsönös egyeztető eljárásokat, a IV. Fejezetben szabályozott Választottbírósági Egyezmény szerinti eljárásokat, valamint a IV/A. Fejezetben szabályozott adóegyezmények szerinti kölcsönös egyeztető eljárásokat 2021. október 1-jétől az adópolitikáért felelős miniszter folytatja le.
 
-45/O. § A 19/A. § alkalmazásában a magyar hatáskörrel rendelkező hatóság 2024. január 1-ig tájékoztatja az Európai Bizottságot arról a négy jövedelem-kategóriáról, amely vonatkozásában automatikus információcsere útján más tagállam hatáskörrel rendelkező hatóságával az abban a tagállamban illetőséggel rendelkező adózóról a 2025. január 1-jével vagy ezt követően kezdődő adómegállapítási időszakokra vonatkozóan információt közöl.
+45/O. § (1) A 19/A. § alkalmazásában a magyar hatáskörrel rendelkező hatóság 2024. január 1-ig tájékoztatja az Európai Bizottságot arról a négy jövedelemkategóriáról, amely vonatkozásában automatikus információcsere útján más tagállam hatáskörrel rendelkező hatóságával az abban a tagállamban illetőséggel rendelkező adózóról a 2025. január 1-jével vagy ezt követően kezdődő adómegállapítási időszakokra vonatkozóan információt közöl.
+
+(2) A 19/A. § alkalmazásában a magyar hatáskörrel rendelkező hatóság 2026. január 1-ig tájékoztatja az Európai Bizottságot arról az öt jövedelemkategóriáról, amely vonatkozásában automatikus információcsere útján más tagállam hatáskörrel rendelkező hatóságával az abban a tagállamban illetőséggel rendelkező adózóról a 2026. január 1-jével vagy ezt követően kezdődő adómegállapítási időszakokra vonatkozóan információt közöl.
 
 45/P. § (1) Az Adatszolgáltatásra kötelezett platformüzemeltető a 21/A. § szerinti bejelentési kötelezettségét első alkalommal a 21/A. § hatálybalépését követő 45. napig teljesíti az állami adó- és vámhatósághoz.
 
@@ -1967,7 +1984,17 @@ a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdőd
 
 (4) A 42/H. § (10) bekezdésében foglalt rendelkezéseket az e törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
 
+(5) Az Adatszolgáltatásra kötelezett platformüzemeltetőnek más államok vonatkozásában a 21/B. § (1) bekezdésében előírt adatszolgáltatási kötelezettsége először a 2026. január 1-jén vagy azt követően kezdődő Adatszolgáltatási időszak tekintetében keletkezik.
+
 45/Q. § Felhatalmazást kap a Kormány, hogy a 12/A. §-ban meghatározott közös ellenőrzés, valamint a 21/A. § (8) bekezdésében meghatározott mentesítési eljárás részletes szabályait rendeletben határozza meg.
+
+45/V. § (1) Az első Adatszolgáltatással érintett adóév, amelyre vonatkozóan az információkat a 21/T. § alapján közölni kell, a 2023. december 31-ét követően kezdődő adóév.
+
+(2) Az állami adó- és vámhatóság az első Adatszolgáltatással érintett adóév vonatkozásában az adatszolgáltatás határidejétől számított 6 hónapon belül továbbítja a 21/T. § szerinti információkat.
+
+(3) A 21/T. § szerinti információkat az állami adó- és vámhatóság első alkalommal 2026. december 1-jét követően továbbítja.
+
+45/W. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a kiegészítő adóval kapcsolatos adatszolgáltatás részletes adattartalmát rendeletben állapítsa meg.
 
 #### 17. Az Európai Unió jogának való megfelelés
 
@@ -1990,6 +2017,10 @@ a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdőd
 (9) A 45/J. § (1)–(6), valamint (8) bekezdése a 2011/16/EU tanácsi irányelvnek az adózás területén az információk benyújtására és cseréjére vonatkozó egyes határidőknek a Covid19-világjárvány miatti sürgetően szükséges halasztása kezelésének érdekében történő módosításáról szóló, 2020. június 24-i (EU) 2020/876 tanácsi irányelvnek való megfelelést szolgálja.
 
 (10) A 3/B–3/D. §, a 4. § (1) bekezdés 10. pontja, a 4. § (3) bekezdés 19. pontja, a 4. § (3a) bekezdése, a 6. § (1), a 7. § (1), (1a)–(1c) és (3) bekezdése, a 8. § (1) és (4) bekezdése, a 11. §, a 12. § (4) bekezdése, a 12/A. §, a 16. § (1a) és (2) bekezdése, a 19/A. § (1) és (2) bekezdése, a 19/B. § (1) és (4) bekezdés 2. pontja, a 20. § (4)–(6) bekezdése, a II/A. fejezet, a 43/L. § (3) bekezdése, a 45/O. §, a 45/P. §, valamint az 5. melléklet az adózás területén való közigazgatási együttműködésről szóló 2011/16/EU tanácsi irányelv módosításáról szóló, 2021. március 22-i (EU) 2021/514 tanácsi irányelvnek való megfelelést szolgálja.
+
+(11) A 3/B. § (2)–(5) bekezdése, a 3/C. § (1) és (4) bekezdése, a 3/D. § (2) és (3) bekezdése, a 4. § (3) bekezdés 15. és 20. pontja, a 4. § (3a) és (3b) bekezdése, a (9) bekezdés 14. pontja, a 15. § (2) bekezdés a) pontja, (3a) és (4) bekezdése, a 19/A. § (1) és (2) bekezdése, a 19/B. § (2) bekezdés c) pontja, (3) bekezdés b) pontja, (3a) és (3b) bekezdése, (4) bekezdés 1. és 11. pontja, a 20. § (4)–(6) bekezdése, a 21/B. § (4) bekezdés m) pontja, a 21/E. § (1) bekezdése, a II/B. Fejezet, a 43/I. § (1) bekezdése, a 43/I. § (2) bekezdés 9–12. pontja, a 43/W. § (1) bekezdése, a 43/Y. § (2) bekezdés a) és c) pontja, (6) bekezdése, a 45/O. §-a, a 45/R–45/U. §, az 1., valamint az 5. és 6. melléklet az adózás területén való közigazgatási együttműködésről szóló 2011/16/EU tanácsi irányelv módosításáról szóló, 2023. október 17-i (EU) 2023/2226 tanácsi irányelvnek való megfelelést szolgálja.
+
+(12) A 3/B. § (2)–(5) bekezdése, a 4. § (3c)–(3d) bekezdése, a II/C. Fejezet, a 43/I. § (1) bekezdése, a 43/I. § (2) bekezdés 9–12. pontja, a 45/V. §-a, a 45/W. §-a és a 7. melléklet az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU irányelv módosításáról szóló, 2025. április 14-i (EU) 2025/872 tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 18. Módosító rendelkezések
 

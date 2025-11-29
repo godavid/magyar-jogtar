@@ -306,7 +306,7 @@ Készült angol és francia nyelven; mindkét nyelvű szöveg egyaránt hiteles.
 
 4. § A Megállapodás végrehajtása során az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény szabályait kell alkalmazni.
 
-5. § A Megállapodás Magyarország és az egyes további részes államok közötti hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
+#### 5. §
 
 6. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -318,88 +318,90 @@ Készült angol és francia nyelven; mindkét nyelvű szöveg egyaránt hiteles.
 
 ### 1. melléklet a 2017. évi XCI. törvényhez
 
-Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltételek teljesülése, így az adott államnak az alkalmazásra vonatkozó szándéka és annak kifejezése esetén – az alábbi államokkal kíván automatikus információcserét folytatni:
+#### Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltételek teljesülése, így az adott államnak az alkalmazásra vonatkozó szándéka és annak kifejezése esetén – az alábbi államokkal kíván automatikus információcserét folytatni:
 
 - 1. Albánia
-- 1a. Andorra
-- 1b. Anguilla
-- 1c. Argentína
-- 1d. Aruba
-- 2. Ausztrália
-- 2a. Azerbajdzsán
-- 2b. Bahrein
-
-2b. Bahama-szigetek
-
-- 2c. Belize
-
-2c. Bahrein
-
-- 2d. Barbados
-- 2e. Belize
-- 3. Bermuda
-- 4. Brazília
-- 4a. Brit Virgin-szigetek
-- 5. Chile
-- 5a. Ciprus
-- 6. Costa Rica
-- 7. Curaçao
-- 8. Dél-afrikai Köztársaság
-- 8a. Dominikai Köztársaság
-- 8b. Egyesült Arab Emírségek
-- 8c. Egyesült Királyság
-- 8d. Feröer szigetek
-- 9. Gabon
-- 10. Georgia
-- 10a. Gibraltár
-- 11. Guernsey
-- 11a. Haiti
-- 11b. Hongkong
-- 12. India
-- 13. Indonézia
-- 14. Izland
-- 15. Izrael
-- 16. Japán
-- 17. Jersey
-- 17a. Kajmán-szigetek
-- 17b. Kamerun
-- 18. Kanada
-- 18a. Katar
-- 18b. Kazahsztán
-- 18c. Kenya
-- 18d. Kolumbia
-- 19. Korea
-- 20. Kínai Népköztársaság
-- 20a. Libéria
-- 21. Liechtenstein
-- 21a. Makaó
-- 22. Malajzia
-- 22a. Maldív-szigetek
-- 23. Man-sziget
-- 23a. Marokkó
-- 23b. Mauritánia
-- 24. Mauritius
-- 25. Mexikó
-- 25a. Monaco
-- 25b. Montserrat
-- 26. Nigéria
-- 27. Norvégia
-- 27a. Omán
-- 28. Orosz Föderáció
-- 28a. Panama
-- 28b. Pakisztán
-- 28c. Pápua Új-Guinea
-- 28d. San Marino
-- 28e. Seychelle-szigetek
-- 29. Peru
-- 29a. Svájc
-- 29b. Szaúd-Arábia
-- 30. Szenegál
-- 30a. Szingapúr
-- 30b. Thaiföld
-- 30c. Törökország
-- 30d. Tunézia
-- 30e. Turks és Caicos-szigetek
-- 31. Új-Zéland
-- 31b. Ukrajna
-- 32. Uruguay
+- 2. Andorra
+- 3. Anguilla
+- 4. Antigua és Barbuda
+- 5. Argentína
+- 6. Aruba
+- 7. Ausztrália
+- 8. Azerbajdzsán
+- 9. Bahama-szigetek
+- 10. Bahrein
+- 11. Barbados
+- 12. Belize
+- 13. Bermuda
+- 14. Botswana
+- 15. Brazília
+- 16. Brit Virgin-szigetek
+- 17. Chile
+- 18. Ciprus
+- 19. Costa Rica
+- 20. Curaçao
+- 21. Dél-afrikai Köztársaság
+- 22. Dominikai Köztársaság
+- 23. Egyesült Arab Emírségek
+- 24. Egyesült Királyság
+- 25. Feröer szigetek
+- 26. Gabon
+- 27. Georgia
+- 28. Gibraltár
+- 29. Grönland
+- 30. Guernsey
+- 31. Haiti
+- 32. Hongkong
+- 33. India
+- 34. Indonézia
+- 35. Izland
+- 36. Izrael
+- 37. Japán
+- 38. Jersey
+- 39. Kajmán-szigetek
+- 40. Kamerun
+- 41. Kanada
+- 42. Katar
+- 43. Kazahsztán
+- 44. Kenya
+- 45. Kínai Népköztársaság
+- 46. Kolumbia
+- 47. Korea
+- 48. Libéria
+- 49. Liechtenstein
+- 50. Makaó
+- 51. Malajzia
+- 52. Maldív-szigetek
+- 53. Man-sziget
+- 54. Marokkó
+- 55. Mauritánia
+- 56. Mauritius
+- 57. Mexikó
+- 58. Monaco
+- 59. Mongólia
+- 60. Montenegró
+- 61. Montserrat
+- 62. Nigéria
+- 63. Norvégia
+- 64. Omán
+- 65. Orosz Föderáció
+- 66. Örményország
+- 67. Pakisztán
+- 68. Panama
+- 69. Pápua Új-Guinea
+- 70. Peru
+- 71. San Marino
+- 72. Seychelle-szigetek
+- 73. Svájc
+- 74. Szaúd-Arábia
+- 75. Szenegál
+- 76. Szerbia
+- 77. Szingapúr
+- 78. Thaiföld
+- 79. Törökország
+- 80. Trinidad és Tobago
+- 81. Tunézia
+- 82. Turks és Caicos-szigetek
+- 83. Ukrajna
+- 84. Uruguay
+- 85. Új-Zéland

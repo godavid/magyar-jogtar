@@ -470,7 +470,7 @@ széljegyzésre alkalmatlan, az ingatlanügyi hatóság elektronikus igazolást 
 
 48. § (1) Az ingatlanra vonatkozó jogok, tények bejegyzése iránti eljárást az ingatlanügyi hatóság felfüggeszti,
 
-- a) ha a kérelem, bírósági elrendelés vagy hatósági felhívás beérkezését megelőzően tulajdonjog-fenntartáshoz kapcsolódó vevői jogot jegyeztek be a tulajdoni lapra, a tulajdonjog bejegyzése iránti kérelem elbírálásáig, de legfeljebb a tulajdonjog-fenntartáshoz kapcsolódó vevői jog bejegyzése iránti kérelem ingatlanügyi hatósági benyújtásától számított hat hónapos határidő elteltéig,
+- a) ha a kérelem, bírósági elrendelés vagy hatósági felhívás beérkezését megelőzően tulajdonjog-fenntartáshoz kapcsolódó vevői jogot vagy jövőbeli épületre vonatkozó vevői jogot jegyeztek be a tulajdoni lapra, tulajdonjog-fenntartáshoz kapcsolódó vevői jog esetén a tulajdonjog, jövőbeli épületre vonatkozó vevői jog esetén pedig a társasházi építményi jog vagy a tulajdonjog bejegyzése iránti kérelem elbírálásáig, de legfeljebb a tulajdonjog-fenntartáshoz kapcsolódó vevői jog vagy a jövőbeli épületre vonatkozó vevői jog bejegyzése iránti kérelem ingatlanügyi hatósági benyújtásától számított hat hónapos határidő elteltéig,
 - b) a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárás megindítása tényének bejegyzésétől a kijavítás tárgyában hozott döntésben foglaltak ingatlan-nyilvántartási bejegyzéséig,
 - c) a folyamatban lévő megosztás tényének bejegyzésétől a tény törléséig, a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott esetben.
 

@@ -1838,7 +1838,7 @@ kommunikálhat.
 
 ### Egyoldalú kötelezettségvállaló nyilatkozat
 
-134. § Az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján a közjegyzői okirat elkészítésére kizárólag egyoldalú kötelezettségvállaló nyilatkozat formájában kerülhet sor azzal, hogy a – félnek vagy az eljárás egyéb résztvevőjének nem minősülő – hitelezőnek a miniszter rendeletében meghatározott okiratminta alapján elkészített írásbeli tervezetet kell kitöltve a közjegyző rendelkezésére bocsátania.
+134. § Az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés, a kapcsolódó társasházi építményi jogot alapító szerződés és az ezeket biztosító jelzálogszerződés, önálló zálogjogot alapító zálogszerződés alapján a közjegyzői okirat elkészítésére kizárólag egyoldalú kötelezettségvállaló nyilatkozat formájában kerülhet sor azzal, hogy a − félnek vagy az eljárás egyéb résztvevőjének nem minősülő − hitelezőnek a miniszter rendeletében meghatározott okiratminta alapján elkészített írásbeli tervezetet kell kitöltve a közjegyző rendelkezésére bocsátania.
 
 #### 135. §
 
@@ -2289,7 +2289,7 @@ alapján tanúsíthatja.
 - j) a közjegyzői pályázati eljárás részletes szabályait, és a közjegyzői kinevezéshez készített kamarai javaslatban szereplő pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
 - k) a közjegyző okirat-szerkesztési, az okirat megőrzése iránti, a pénz, értéktárgy és értékpapír bizalmi őrzése iránti eljárására irányuló kérelem tartalmi és formai követelményeit,
 - l) a közjegyzői vizsga részletes szabályait.
-- m) az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalása esetén alkalmazandó okiratmintát.
+- m) az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés, a kapcsolódó társasházi építményi jogot alapító szerződés és az ezeket biztosító jelzálogszerződés, önálló zálogjogot alapító zálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalása esetén alkalmazandó okiratmintát,
 - n) a nyelvi jogosítvány kiadásának rendjét.
 
 183/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
