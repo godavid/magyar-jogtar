@@ -141,11 +141,11 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 (2) Az (1) bekezdésben meghatározott személy az adóévre akkor választhatja a kisvállalati adó szerinti adózást, ha
 
-- a) az átlagos statisztikai állományi létszáma az adóévet megelőző adóévben várhatóan nem haladja meg az 50 főt;
-- b) az adóévet megelőző adóévben elszámolandó bevétele várhatóan nem haladja meg a 3 milliárd forintot, 12 hónapnál rövidebb adóév esetén a 3 milliárd forint időarányos részét;
+- a) az átlagos statisztikai állományi létszáma az adóévet megelőző adóévben várhatóan nem haladja meg az 100 főt;
+- b) az adóévet megelőző adóévben elszámolandó bevétele várhatóan nem haladja meg a 6 milliárd forintot, 12 hónapnál rövidebb adóév esetén a 6 milliárd forint időarányos részét;
 - c) az adóévet megelőző két naptári évben adószámát az állami adó- és vámhatóság véglegesen nem törölte;
 - d) üzleti évének mérlegforduló napja december 31.;
-- e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg a 3 milliárd forintot;
+- e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg a 6 milliárd forintot;
 - f) ellenőrzött külföldi társasággal az adóévet megelőző adóévben nem rendelkezik;
 - g) az adóévet megelőző adóévben a Tao. tv. 7. § (1) bekezdés ny) pontja, illetve 8. § (1) bekezdés j) pontja alkalmazásával társasági adóalap módosítást várhatóan nem kell végrehajtania.
 
