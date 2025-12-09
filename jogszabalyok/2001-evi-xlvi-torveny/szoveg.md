@@ -132,7 +132,7 @@ országok (térségek).
 
 (2a) A tiszteletbeli konzuli képviselő a külföldre utazásról szóló 1998. évi XII. törvény 20. § (1) bekezdése alapján érvényét vesztett útlevelet átveszi.
 
-(2b) Képviselettel nem rendelkező magyar állampolgár részére ideiglenes úti okmányt (emergency travel document) más tagállam konzuli szolgálata állíthat ki.
+(2b) Képviselettel nem rendelkező magyar állampolgár részére uniós ideiglenes úti okmányt más tagállam konzuli szolgálata állíthat ki.
 
 (3) Ha a hazatérés elősegítésének más módjára nincs lehetőség, és a késedelem súlyos érdeksérelmet okoz, a konzuli tisztviselő – az ügyféllel kötött hatósági szerződés alapján – hazatérési kölcsönt nyújt, amely adók módjára behajtandó köztartozásnak minősül. A miniszter rendeletében meghatározott összeghatár felett a hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A hatósági szerződésben rendelkezni kell a visszafizetés esedékességéről.
 
@@ -225,11 +225,11 @@ országok (térségek).
 
 (3) Az uniós polgárnak és az őt kísérő családtagjának nyújtható anyagi támogatás feltételeire külön jogszabály rendelkezései irányadóak.
 
-(4) A tagállamok területén vagy harmadik államban képviselettel nem rendelkező uniós polgár kérelmére vagy állampolgársága szerinti tagállam kérelmére, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, részére a konzuli szolgálat ideiglenes úti okmányt (emergency travel document) állíthat ki.
+(4) A tagállamok területén vagy harmadik államban képviselettel nem rendelkező uniós polgár kérelmére vagy állampolgársága szerinti tagállam kérelmére, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, részére a konzuli szolgálat uniós ideiglenes úti okmányt állíthat ki.
 
-(5) A konzuli szolgálat a (4) bekezdés szerinti uniós polgárt kísérő, valamely tagállam területén jogszerűen tartózkodó családtagjának az uniós polgár állampolgársága szerinti tagállam kérésére ideiglenes úti okmányt (emergency travel document) állíthat ki.
+(5) A konzuli szolgálat a (4) bekezdés szerinti uniós polgárt kísérő, valamely tagállam területén jogszerűen tartózkodó családtagjának az uniós polgár állampolgársága szerinti tagállam kérésére uniós ideiglenes úti okmányt állíthat ki.
 
-(6) A konzuli szolgálat másik tagállam kifejezett kérésére ideiglenes úti okmányt (emergency travel document) állíthat ki olyan személyek részére, akik számára az érintett tagállamnak kötelessége védelmet nyújtani és akik jogszerűen tartózkodnak egy tagállamban.
+(6) A konzuli szolgálat másik tagállam kifejezett kérésére uniós ideiglenes úti okmányt állíthat ki olyan személyek részére, akik számára az érintett tagállamnak kötelessége védelmet nyújtani és akik jogszerűen tartózkodnak egy tagállamban.
 
 ### Tanúsítványkészítés
 
@@ -332,6 +332,12 @@ országok (térségek).
 - c) konzuli feladatok ellátásához szükséges jogosultságok, azok gyakorolhatóságának kezdő és befejező időpontja.
 
 (4) A konzuli szolgálat a (2)–(3) bekezdésben meghatározott adatokat a 2. § (2a) és (2c) bekezdésében meghatározott szakmai gyakorlat megkezdésének időpontjától kezeli.
+
+16/B. § A hivatásos konzuli tisztviselő az uniós ideiglenes úti okmány kiállítása céljából, a kérelem benyújtásától számított 180 napig a kérelmező következő adatait kezeli:
+
+- a) az uniós ideiglenes úti okmány kedvezményezettjének családi neve, utóneve(i), állampolgársága, születési ideje, neme, arcképmása vagy fényképe,
+- b) az utazással érintett országok megnevezése,
+- c) az úti okmány száma és érvényességi ideje.
 
 17. § (1) Az érdekvédelem ellátása során, az adatok felhasználása céljának és az igényelt adatok körének megjelölésével a konzuli szolgálat az adatkezelést szabályozó külön törvény alapján adatot igényelhet:
 

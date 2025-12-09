@@ -2370,7 +2370,9 @@ rendelkezik, jogszabályban meghatározott előzetes megállapodás megkötésé
 
 #### 95. A harmadik országbeli állampolgárok úti okmánnyal való ellátása
 
-154. § Magyarország külképviselete úti okmányt ad ki egyszeri utazásra annak a Magyarország által hontalanként elismert, vagy huzamos tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgárnak, akinek külföldön elveszett vagy megsemmisült úti okmánya külföldön nem, vagy csak aránytalan nehézségek árán pótolható, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
+154. § Magyarország hivatásos konzuli tisztviselője egyszeri utazásra jogosító úti okmányt állít ki annak a huzamos tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgárnak, akinek külföldön elveszett vagy megsemmisült úti okmánya külföldön nem, vagy csak aránytalan nehézségek árán pótolható, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
+
+154/A. § Magyarország hivatásos konzuli tisztviselője uniós ideiglenes úti okmányt ad ki annak a Magyarország által hontalanként elismert személynek, akinek úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
 
 155. § (1) Az idegenrendészeti hatóság a huzamos tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgárt – kérelmére, külföldre utazás céljából – Magyarország területére visszatérésre jogosító úti okmánnyal láthatja el, ha származási országa érvényes úti okmányával nem rendelkezik, és az rajta kívül álló okból nem pótolható.
 
@@ -3819,7 +3821,7 @@ szerinti állam vonatkozásában.
 
 (3) Az (1) bekezdés i) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezeli, azt követően haladéktalanul törli.
 
-260. § (1) Magyarország külképviselete és az idegenrendészeti hatóság az úti okmányt vagy egyszeri utazásra jogosító okmányt kérelmező harmadik országbeli állampolgár következő adatait kezeli:
+260. § (1) Magyarország külképviselete és az idegenrendészeti hatóság az úti okmányt vagy egyszeri utazásra jogosító úti okmányt kérelmező harmadik országbeli állampolgár következő adatait kezeli:
 
 - a) a természetes személyazonosító adatokat,
 - b) a huzamos tartózkodási jogosultságot, hontalan státuszt igazoló okmány számát, az okmány érvényességi idejét,
@@ -3990,6 +3992,8 @@ részére továbbíthat adatot.
 (3) Az idegenrendészeti hatóság – az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a 254. §, 256. §, 258. § és 259. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmás adatának nyilvántartásba vételéről, valamint az arcképmás adat változásáról.
 
 275. § Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból külföldi bűnüldöző, határőrizeti, idegenrendészeti és igazságszolgáltatási szervnek, nemzetközi szervezetnek, illetve közvetlenül alkalmazandó közösségi jogi aktussal létrehozott közösségi szervnek közvetlenül alkalmazandó közösségi jogi aktus vagy nemzetközi szerződés alapján – az azokban meghatározott adatkörben – továbbíthat adatot.
+
+275/A. § Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból az uniós ideiglenes úti okmány kiállítása érdekében lefolytatott konzultáció céljából a magyar külképviseletek részére továbbít adatot.
 
 276. § (1) Az idegenrendészeti hatóság e törvény szerinti eljárása során adatot igényelhet:
 
@@ -4342,6 +4346,8 @@ sarkalatosnak minősül.
 - 21. a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2014. február 26-i 2014/36/EU európai parlamenti és tanácsi irányelv,
 - 22. a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló, 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelv,
 - 23. a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv.
+- 24. Az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelv,
+- 25. Az (EU) 2019/997 tanácsi irányelvnek az uniós ideiglenes úti okmány géppel olvasható vizsgálati zónája tekintetében történő módosításáról szóló, 2024. május 6-i (EU) 2024/1986 felhatalmazáson alapuló bizottsági irányelv.
 
 293. § E törvény
 
@@ -4426,7 +4432,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 309. §
 
-#### 167. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
+#### 167.
 
 #### 310. §
 

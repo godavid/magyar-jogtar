@@ -907,11 +907,18 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 58. §
 
-#### 34.
+#### 34. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-#### 59. §
+59. § A külföldre utazásról szóló 1998. évi XII. törvény 42. §-a a következő (5) bekezdéssel egészül ki:
 
-#### 60. §
+„(5) E törvény
+
+- a) az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelvnek, valamint
+- b) az (EU) 2019/997 tanácsi irányelvnek az uniós ideiglenes úti okmány géppel olvasható vizsgálati zónája tekintetében történő módosításáról szóló, 2024. május 6-i (EU) 2024/1986 felhatalmazáson alapuló bizottsági irányelvnek
+
+való megfelelést szolgálja.”
+
+60. § A külföldre utazásról szóló 1998. évi XII. törvény 41. § (1) bekezdés e) pontjában az „útlevelek” szövegrész helyébe az „úti okmányok” szöveg lép.
 
 #### 35. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
@@ -919,11 +926,24 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 62. §
 
-#### 36.
+#### 36. A konzuli védelemről szóló 2001. évi XLVI. törvény módosítása
 
-#### 63. §
+63. § A konzuli védelemről szóló 2001. évi XLVI. törvény a következő 16/B. §-sal egészül ki:
 
-#### 64. §
+„16/B. § A hivatásos konzuli tisztviselő az uniós ideiglenes úti okmány kiállítása céljából, a kérelem benyújtásától számított 180 napig a kérelmező következő adatait kezeli:
+
+- a) az uniós ideiglenes úti okmány kedvezményezettjének családi neve, utóneve(i), állampolgársága, születési ideje, neme, arcképmása vagy fényképe,
+- b) az utazással érintett országok megnevezése,
+- c) az úti okmány száma és érvényességi ideje.”
+
+64. § A konzuli védelemről szóló 2001. évi XLVI. törvény
+
+- a) 5. § (2b) bekezdésében az „ideiglenes úti okmányt (emergency travel document)” szövegrész helyébe az „uniós ideiglenes úti okmányt” szöveg,
+- b) 13/A. § (4) bekezdésében az „ideiglenes úti okmányt (emergency travel document)” szövegrész helyébe az „uniós ideiglenes úti okmányt” szöveg,
+- c) 13/A. § (5) bekezdésében az „ideiglenes úti okmányt (emergency travel document)” szövegrész helyébe az „uniós ideiglenes úti okmányt” szöveg,
+- d) 13/A. § (6) bekezdésében az „ideiglenes úti okmányt (emergency travel document)” szövegrész helyébe az „uniós ideiglenes úti okmányt” szöveg
+
+lép.
 
 #### 37. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -935,11 +955,23 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 67. §
 
-#### 68. §
+68. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény V. Fejezete a következő 71. §-sal egészül ki:
 
-#### 69. §
+„71. § Magyarország hivatásos konzuli tisztviselője uniós ideiglenes úti okmányt adhat ki annak az uniós polgár családtagjának, aki e törvény szerint Magyarországon tartózkodási jogosultsággal rendelkezik, ha az úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.”
 
-#### 70. §
+69. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 81. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból az uniós ideiglenes úti okmány kiállítása érdekében lefolytatott konzultáció céljából a magyar külképviseletek részére továbbít adatot.”
+
+70. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 129. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ez a törvény
+
+- a) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
+- b) az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelvnek,
+- c) az (EU) 2019/997 tanácsi irányelvnek az uniós ideiglenes úti okmány géppel olvasható vizsgálati zónája tekintetében történő módosításáról szóló, 2024. május 6-i (EU) 2024/1986 felhatalmazáson alapuló bizottsági irányelvnek
+
+való megfelelést szolgálja.”
 
 #### 39. A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény módosítása
 
@@ -949,23 +981,49 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 40. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-#### 73. §
+73. § A menedékjogról szóló 2007. évi LXXX. törvény 10. § (3) bekezdése a következő c) ponttal egészül ki:
 
-#### 74. §
+(A menekült jogosult)
 
-#### 75. §
+„c) uniós ideiglenes úti okmányra, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.”
 
-#### 76. §
+74. § A menedékjogról szóló 2007. évi LXXX. törvény 17. §-a a következő (2b) bekezdéssel egészül ki:
+
+„(2b) Az oltalmazott uniós ideiglenes úti okmányra jogosult, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.”
+
+75. § A menedékjogról szóló 2007. évi LXXX. törvény 22. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A menedékes jogosult)
+
+„b) uniós ideiglenes úti okmányra, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség;”
+
+76. § A menedékjogról szóló 2007. évi LXXX. törvény 25/C. §-a helyébe a következő rendelkezés lép:
+
+„25/C. § (1) A befogadottat megilletik a tartózkodási engedéllyel rendelkezőknek, illetve a befogadottaknak törvényben biztosított jogok.
+
+(2) A befogadott a jogszabályban meghatározott ellátásra és szállásra jogosult.
+
+(3) A befogadott uniós ideiglenes úti okmányra jogosult, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
+
+(4) A befogadott köteles személyazonosságának megállapítását elősegíteni, de a személyazonosság tisztázottságának hiánya miatt a tartózkodási engedély kiadása nem tagadható meg.”
 
 #### 77. §
 
 78. § (1)
 
-(2)
+(2) A menedékjogról szóló 2007. évi LXXX. törvény 87. §-a a következő (10) bekezdéssel egészül ki:
+
+„(10) A menekültügyi hatóság a X. Fejezetben meghatározott nyilvántartásokból az uniós ideiglenes úti okmány kiállítása érdekében lefolytatott konzultáció céljából a magyar külképviseletek részére továbbít adatot.”
 
 #### 79. §
 
-#### 80. §
+80. § A menedékjogról szóló 2007. évi LXXX. törvény 95. § (1) bekezdése a következő t) és u) ponttal egészül ki:
+
+(E törvény a következő közösségi jogi aktusoknak történő részleges megfelelést szolgálja:)
+
+„t) az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelv,
+
+u) az (EU) 2019/997 tanácsi irányelvnek az uniós ideiglenes úti okmány géppel olvasható vizsgálati zónája tekintetében történő módosításáról szóló, 2024. május 6-i (EU) 2024/1986 felhatalmazáson alapuló bizottsági irányelv.”
 
 #### 41. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -1117,9 +1175,13 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 139. §
 
-#### 140. §
+140. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 154. §-a helyébe a következő rendelkezés lép:
 
-#### 141. §
+„154. § Magyarország hivatásos konzuli tisztviselője egyszeri utazásra jogosító úti okmányt állít ki annak a huzamos tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgárnak, akinek külföldön elveszett vagy megsemmisült úti okmánya külföldön nem, vagy csak aránytalan nehézségek árán pótolható, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.”
+
+141. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény a következő 154/A. §-sal egészül ki:
+
+„154/A. § Magyarország hivatásos konzuli tisztviselője uniós ideiglenes úti okmányt ad ki annak a Magyarország által hontalanként elismert személynek, akinek úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.”
 
 #### 142. §
 
@@ -1133,19 +1195,27 @@ végrehajtáshoz szükséges rendelkezéseket állapít meg.
 
 #### 147. §
 
-#### 148. §
+148. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény a következő 275/A. §-sal egészül ki:
+
+„275/A. § Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból az uniós ideiglenes úti okmány kiállítása érdekében lefolytatott konzultáció céljából a magyar külképviseletek részére továbbít adatot.”
 
 #### 149. §
 
 #### 150. §
 
-#### 151. §
+151. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 292. §-a a következő 24. és 25. ponttal egészül ki:
+
+(E törvény a következő közösségi jogi aktusoknak történő részleges megfelelést szolgálja:)
+
+„24. Az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelv,
+
+25. Az (EU) 2019/997 tanácsi irányelvnek az uniós ideiglenes úti okmány géppel olvasható vizsgálati zónája tekintetében történő módosításáról szóló, 2024. május 6-i (EU) 2024/1986 felhatalmazáson alapuló bizottsági irányelv.”
 
 152. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény
 
 - a)
 - b)
-- c)
+- c) 260. § (1) bekezdés nyitó szövegrészében az „az úti okmányt vagy egyszeri utazásra jogosító okmányt” szövegrész helyébe az „az úti okmányt vagy egyszeri utazásra jogosító úti okmányt” szöveg,
 - d)
 - e)
 
