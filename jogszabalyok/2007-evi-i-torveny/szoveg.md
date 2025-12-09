@@ -721,7 +721,7 @@ meghosszabbítása
 
 (6) Az (5) bekezdés szerinti kérelmeket az idegenrendészeti hatóság a visszaigazolást követő 16. napon törli. A törlés tényéről az idegenrendészeti ügyindítási elektronikus felület útján tájékoztatja a kérelmezőt.
 
-#### 71. §
+71. § Magyarország hivatásos konzuli tisztviselője uniós ideiglenes úti okmányt adhat ki annak az uniós polgár családtagjának, aki e törvény szerint Magyarországon tartózkodási jogosultsággal rendelkezik, ha az úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
 
 #### 72. §
 
@@ -862,6 +862,8 @@ foglalt résznyilvántartásokból szolgáltathat adatot.
 (2c) Az eljáró idegenrendészeti hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a büntetés-végrehajtási intézetnek a befogadás során az elítélt személyazonosságának ellenőrzése érdekében szolgáltathat adatot.
 
 (3) Nemzetközi szerződés vagy az Európai Unió közvetlenül alkalmazandó európai közösségi jogi aktusa alapján az abban meghatározott adatátvételre jogosult szerv részére szolgáltatható adat.
+
+(3a) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból az uniós ideiglenes úti okmány kiállítása érdekében lefolytatott konzultáció céljából a magyar külképviseletek részére továbbít adatot.
 
 (4) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat. A 75. § (1) bekezdés a)–c) és g) pontjában foglalt adatokból a Központi Statisztikai Hivatal részére statisztikai célú adatkezelés érdekében az adatok személyazonosításra alkalmas módon is átadhatók.
 
@@ -1232,7 +1234,13 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 
 ### Jogharmonizációs záradék
 
-129. § (1) Ez a törvény a felhatalmazása alapján kiadott végrehajtási rendeletekkel együtt az Európai Parlament és a Tanács az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló 2004/38/EK irányelvnek való megfelelést szolgálja.
+129. § (1) Ez a törvény
+
+- a) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
+- b) az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelvnek,
+- c) az (EU) 2019/997 tanácsi irányelvnek az uniós ideiglenes úti okmány géppel olvasható vizsgálati zónája tekintetében történő módosításáról szóló, 2024. május 6-i (EU) 2024/1986 felhatalmazáson alapuló bizottsági irányelvnek
+
+való megfelelést szolgálja.
 
 (2) Ez a törvény
 

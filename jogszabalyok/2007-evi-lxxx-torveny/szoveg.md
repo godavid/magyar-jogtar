@@ -152,7 +152,7 @@ rendelkezik;
 
 - a) a jogszabályban meghatározott személyazonosító igazolványra és – ha nemzetbiztonsági vagy közrendi érdek a kiállítását nem zárja ki – Genfi Egyezményben foglalt kétnyelvű úti okmányra,
 - b) az e törvényben és más jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra,
-- c)
+- c) uniós ideiglenes úti okmányra, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
 
 (4) A menekült köteles
 
@@ -238,6 +238,8 @@ rendelkezik;
 
 (2a) Az oltalmazott úti okmányának kiállítását elutasító határozatot – a 10. § (5)–(7) bekezdésben foglaltaknak megfelelően – bírósági úton megtámadhatja.
 
+(2b) Az oltalmazott uniós ideiglenes úti okmányra jogosult, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
+
 (3) Az oltalmazott nem rendelkezik választójoggal.
 
 (4) Az oltalmazottat nem illetik meg a magyar állampolgárságról szóló törvény szerinti, a menekültre vonatkozó kedvezményes honosítási feltételek.
@@ -295,7 +297,7 @@ rendelkezik;
 22. § (1) A menedékes jogosult
 
 - a) személyazonosságát igazoló okmányra;
-- b) külön jogszabályban meghatározott, egyszeri kiutazásra és visszatérésre jogosító úti okmányra, ha származási országa érvényes úti okmányával nem rendelkezik;
+- b) uniós ideiglenes úti okmányra, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség;
 - c) az e törvényben és külön jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra;
 - d) a külföldiekre vonatkozó általános szabályok szerinti munkavégzésre.
 
@@ -350,7 +352,13 @@ rendelkezik;
 
 ### A befogadott jogállása
 
-25/C. § A befogadottat megilletik a tartózkodási engedéllyel rendelkezőknek, illetve a befogadottaknak törvényben biztosított jogok. A befogadott köteles személyazonosságának megállapítását elősegíteni, de a személyazonosság tisztázottságának hiánya miatt a tartózkodási engedély kiadása nem tagadható meg. A befogadott a jogszabályban meghatározott ellátásra és szállásra jogosult.
+25/C. § (1) A befogadottat megilletik a tartózkodási engedéllyel rendelkezőknek, illetve a befogadottaknak törvényben biztosított jogok.
+
+(2) A befogadott a jogszabályban meghatározott ellátásra és szállásra jogosult.
+
+(3) A befogadott uniós ideiglenes úti okmányra jogosult, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
+
+(4) A befogadott köteles személyazonosságának megállapítását elősegíteni, de a személyazonosság tisztázottságának hiánya miatt a tartózkodási engedély kiadása nem tagadható meg.
 
 ### A befogadotti jogállás megszűnése
 
@@ -1893,6 +1901,8 @@ igényelhetnek adatot.
 
 (9) A menekültügyi hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását átadja.
 
+(10) A menekültügyi hatóság a X. Fejezetben meghatározott nyilvántartásokból az uniós ideiglenes úti okmány kiállítása érdekében lefolytatott konzultáció céljából a magyar külképviseletek részére továbbít adatot.
+
 87/A. § (1) A rendőrség a 31/A. § (10) bekezdésben meghatározott közreműködéséből eredő feladatai végrehajtása érdekében a rendőrségi közreműködéssel érintett, elismerését kérő alábbi adatait kezeli:
 
 - a) családi és utóneve vagy -nevei,
@@ -2128,6 +2138,8 @@ az Alaptörvény XIV. cikk (5) bekezdése alapján sarkalatosnak minősül.
 - q) a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló 2013. június 26-i 2013/33/EU európai parlamenti és tanácsi irányelv;
 - r) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelvnek.
 - s) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv.
+- t) az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelv,
+- u) az (EU) 2019/997 tanácsi irányelvnek az uniós ideiglenes úti okmány géppel olvasható vizsgálati zónája tekintetében történő módosításáról szóló, 2024. május 6-i (EU) 2024/1986 felhatalmazáson alapuló bizottsági irányelv.
 
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
