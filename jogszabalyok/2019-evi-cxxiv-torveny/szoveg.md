@@ -2,7 +2,9 @@
 
 a Nemzeti Kulturális Tanácsról, a kultúrstratégiai intézményekről, valamint egyes kulturális vonatkozású törvények módosításáról
 
-Magyarország felelősséget vállal a nemzeti kultúra megőrzéséért és a nemzeti identitás megerősítéséért, amely keretében biztosítja a nemzeti kultúra és a kulturális értékek egyenlő esélyű hozzáférhetőségét és megőrzését a jövő generációi számára, a magyar állampolgárok számára a kulturális alapellátást, a nemzet szellemi és közösségi fejlesztését a kulturális közszolgáltatásokon keresztül, továbbá támogatja az olyan új, kiemelkedő kulturális értékek létrehozását, amelyek az innováción keresztül hozzájárulnak a kreatív ipar, valamint a nemzetgazdaság teljesítményének fokozásához. E kötelességeinek eleget téve az Országgyűlés a következő törvényt alkotja:
+[1] Magyarország felelősséget vállal a nemzeti kultúra megőrzéséért és a nemzeti identitás megerősítéséért, amely keretében biztosítja a nemzeti kultúra és a kulturális értékek egyenlő esélyű hozzáférhetőségét és megőrzését a jövő generációi számára, a magyar állampolgárok és a magyar nemzetiségű személyek számára a kulturális alapellátást, a nemzet szellemi és közösségi fejlesztését a kulturális közszolgáltatásokon keresztül, továbbá támogatja az olyan új, kiemelkedő kulturális értékek létrehozását, amelyek az innováción keresztül hozzájárulnak a kreatív ipar, valamint a nemzetgazdaság teljesítményének fokozásához.
+
+[2] E kötelességeinek eleget téve az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -37,7 +39,12 @@ Magyarország felelősséget vállal a nemzeti kultúra megőrzéséért és a n
   - ad) a Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Korlátolt Felelősségű Társaság;
   - ae) a Müpa Budapest – Művészetek Palotája Nonprofit Korlátolt Felelősségű Társaság;
   - af) a Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság;
-- b) alkotóművészet ágazatban a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
+  - ag) a Csokonai Nemzeti Színház Debrecen;
+  - ah) a Kolozsvári Magyar Opera;
+  - ai) a Nemzeti Táncszínház Nonprofit Korlátolt Felelősségű Társaság;
+- b) alkotóművészet ágazatban
+  - ba) a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
+  - bb) a Ludwig Múzeum – Kortárs Művészeti Múzeum;
 - c) közgyűjtemény és emlékezetpolitika ágazatban
   - ca) a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
   - cb) a Szépművészeti Múzeum;
@@ -48,7 +55,9 @@ Magyarország felelősséget vállal a nemzeti kultúra megőrzéséért és a n
   - da) a Hagyományok Háza;
   - db) a Néprajzi Múzeum;
   - dc) a Szabadtéri Néprajzi Múzeum;
-- e) közösségi művelődés ágazatban az NMI Művelődési Intézet Nonprofit Közhasznú Korlátolt Felelősségű Társaság;
+- e) közösségi művelődés ágazatban
+  - ea) a Nemzeti Művelődési Intézet Nonprofit Közhasznú Korlátolt Felelősségű Társaság;
+  - eb) a Népfőiskola Alapítvány;
 - f) vizuális művészet ágazatban a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság.
 
 (2) A kultúrstratégiai intézmények működéséhez és feladatainak ellátásához szükséges forrást a központi költségvetés biztosítja.

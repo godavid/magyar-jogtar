@@ -69,7 +69,7 @@ E törvény alkalmazásában
 - 1. akkreditált szakképzési vizsgaközpont: a szakképzési államigazgatási szerv minősítő eljárásában a jogszabályi követelmények teljesítésére, valamint a szakmai és képesítő vizsgáztatási tevékenység folytatására alkalmasnak minősített és az akkreditált szakképzési vizsgaközpontok nyilvántartásába bejegyzett szervezet,
 - 1a. beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló: az a különleges bánásmódot igénylő tanuló, aki a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakvéleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartás-szabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényű vagy fogyatékossággal élő személynek,
 - 1b. digitális kollaborációs tér: a tanulmányi rendszer modulja, amely biztosítani képes legalább a tanárok és a diákok egyéni vagy csoportos, interaktív és távolléti kapcsolattal megvalósuló, teljes értékű, digitális online és offline együttműködését, kommunikációját és az oktatással kapcsolatos feladatok komplex kezelését, ideértve többek között az órai, házi, egyéni és csoportos feladatok publikálását, beadását, a beadott feladatok értékelését és online adminisztrációját,
-- 1c. digitális bizonyítvány: a tanulmányi rendszer által kiállított, tárolt és nyilvántartott elektronikus formában kiállított közhiteles okiratnak minősülő bizonyítvány, amelyet kiállításakor az intézmény elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja,
+- 1c. digitális bizonyítvány: a tanulmányi rendszer által kiállított, tárolt és nyilvántartott elektronikus formában kiállított közokirat, amelyet kiállításakor a szakképző intézmény igazgatójának legalább fokozott biztonságú elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja,
 - 2. egészségügyi alkalmasság: annak az orvosi szakvéleményre alapozott megállapítása, hogy a szakképzésbe bekapcsolódni szándékozó személy testi adottságai, egészségi és pszichikai állapota alapján képes önmaga és mások veszélyeztetése nélkül a választott szakma szerinti tevékenység, foglalkozás gyakorlására és a szakmai vizsgára való felkészülésre,
 - 3. feladatellátási hely: az a cím, ahol a szakképző intézmény alapító okiratában meghatározott szakképzési alapfeladat ellátása történik,
 - 3a. nagyvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 4. § (2) bekezdése szerinti partnervállalkozások és a Kkvtv. 4. § (5) bekezdésének figyelmen kívül hagyásával kis- és középvállalkozásnak nem minősülő vállalkozás,
@@ -174,7 +174,7 @@ a szakmai vizsga és a képesítő vizsga e törvény szerinti megszervezésér�
 
 (2) Akkreditált szakképzési vizsgaközpont szakmai és képesítő vizsgát engedély birtokában szervezhet. Az engedély határozatlan ideig hatályos.
 
-(3) A (2) bekezdés szerinti engedély kiadására, módosítására, a képzési területek egységes osztályozási rendszere szerinti képzési területtel (a továbbiakban: képzési terület) történő kiegészítésére irányuló kérelmet a kormányrendeletben kijelölt szakképzési államigazgatási szervhez kell benyújtani. Az engedély képzési területtel történő kiegészítésére irányuló kérelemnek helyt adó döntés nem érinti az engedély időbeli hatályát.
+(3) A (2) bekezdés szerinti engedély kiadására, módosítására, a képzési területek egységes osztályozási rendszere szerinti képzési területtel (a továbbiakban: képzési terület) történő kiegészítésére irányuló kérelmet a kormányrendeletben kijelölt szakképzési államigazgatási szervhez kell benyújtani.
 
 (4) A kérelem benyújtására, az engedélyezési eljárásra vonatkozó jogszabályi rendelkezésekről szóló tájékoztatót a szakképzési államigazgatási szerv a honlapján közzéteszi.
 
@@ -259,6 +259,8 @@ tartalmazza.
 (5) Az (1)–(3) bekezdés szerinti ellenőrzés során a szakképzési államigazgatási szerv, valamint az ellenőrzésbe bevont szakértő az ellenőrzött időszakban szervezett szakmai vagy képesítő vizsgán részt vehet, minden vizsgadokumentumot megtekinthet, azonban a vizsgázótól nem kérdezhet és a vizsga lefolytatását hozzászólással nem befolyásolhatja.
 
 (6) Az (1)–(3) bekezdés szerinti ellenőrzés eredményeként a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 6. §-a szerinti figyelmeztetés szankció nem alkalmazható.
+
+(6a) Az akkreditált szakképzési vizsgaközpont ellenőrzésére irányuló eljárásban az ügyintézési határidő 160 nap.
 
 (7) Ha az akkreditált szakképzési vizsgaközpont
 
@@ -964,11 +966,11 @@ A tanuló kérelmére – kiskorú esetében a kiskorú tanuló törvényes kép
 
 (5) A digitális bizonyítvány tartalmazza az e törvény vagy felhatalmazása alapján kiadott kormányrendeletben meghatározott bizonyítványokra vonatkozó adatokat.
 
-(6) A digitális bizonyítvány és a bizonyítvány kiállításának alapjául szolgáló törzslap közokirat. A tanulmányi rendszer a benne tárolt digitális bizonyítvány és a kiállításának alapjául szolgáló törzslap tekintetében közhiteles nyilvántartásnak minősül. A digitális bizonyítványt a tanulmányi rendszerben – kormányrendeletben meghatározott ideig – kell megőrizni azzal, hogy a hosszú távú megőrzéséről is gondoskodni kell.
+(6) A digitális bizonyítvány és a bizonyítvány kiállításának alapjául szolgáló törzslap közokirat. A digitális bizonyítványt a tanulmányi rendszerben – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott ideig – kell megőrizni azzal, hogy a hosszú távú megőrzéséről is gondoskodni kell. A tanuló, törvényes képviselője, a képzésben részt vevő személy, továbbá a volt tanuló és a tanulmányait befejezett képzésben részt vevő személy digitális bizonyítványát a tanulmányi rendszerbe történő hitelesített belépést követően éri el.
 
-(7) A tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványról kizárólag az arra jogosult tanuló, illetve a tanuló szülőjének vagy törvényes képviselőjének – a tanulmányi rendszeren keresztül is előterjeszthető – kérelemére hiteles papír alapú másolatot (a továbbiakban: díszpéldány) kell kiállítani. A díszpéldányon fel kell tüntetni a tanulmányi rendszer által generált és nyilvántartott egyedi azonosítót és azt, hogy a papír alapú hiteles másolat a digitális bizonyítvány hiteles másolata. A papír alapú hiteles másolatot eredeti aláírásával hitelesítenie kell a kiállítónak és az intézmény igazgatójának, továbbá a díszpéldányt az intézmény hivatalos körbélyegzőjével el kell látni. A díszpéldány első példánya ingyenes, a második példányért kormányrendeletben meghatározott térítési díjat kell fizetni.
+(7) A tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványról kizárólag az arra jogosult tanuló, illetve a tanuló szülőjének vagy törvényes képviselőjének – a tanulmányi rendszeren keresztül is előterjeszthető – kérelemére hiteles papír alapú másolatot (a továbbiakban: díszpéldány) kell kiállítani. A díszpéldányon fel kell tüntetni a tanulmányi rendszer által generált és nyilvántartott egyedi azonosítót és azt, hogy a papír alapú hiteles másolat a digitális bizonyítvány hiteles másolata. A papír alapú hiteles másolatot eredeti aláírásával hitelesítenie kell a kiállítónak és az intézmény igazgatójának, továbbá a díszpéldányt az intézmény hivatalos körbélyegzőjével el kell látni. A díszpéldány, valamint szakképző intézmény típusonként a díszpéldányok tárolására szolgáló tartótok – első példánya ingyenes, a második példányért kormányrendeletben meghatározott térítési díjat kell fizetni.
 
-(8) A tanulmányi rendszerben tárolt digitális bizonyítványok közhiteles nyilvántartásából adatszolgáltatást az arra jogosult tanuló, illetve a tanuló szülője vagy törvényes képviselője számára a szakképző intézmény, a szakképző intézmény akadályoztatása esetén Kormány rendeletében meghatározott szerv teljesíthet. Adatszolgáltatás keretében a szakképző intézmény az arra jogosult tanuló, illetve a tanuló szülője vagy törvényes képviselője számára a digitális bizonyítványt abban az esetben küldheti meg, amennyiben a szakképző intézmény tanulmányi rendszerében a tanuló már rendelkezik korábban kiállított digitális bizonyítvánnyal.
+(8) A tanulmányi rendszerben tárolt digitális bizonyítványok nyilvántartásához hozzáférést azon tanuló, képzésben részt vevő személy, illetve a tanuló szülője vagy törvényes képviselője számára kell biztosítani, amely tanuló vagy a képzésben részt vevő személy esetében a tanulmányi rendszer már tartalmazza a tanuló vagy a képzésben részt vevő személy korábban kiállított digitális bizonyítványát.
 
 #### 14. A tanuló jutalmazása, fegyelmi és kártérítési felelőssége, a szakképző intézmény kártérítési felelőssége
 
@@ -1388,7 +1390,7 @@ A Kormány a szakképzésért felelős miniszter útján irányítja a szakképz
 - a) irányítja az általa alapított szakképzési centrumot és az állam nevében gyakorolja az általa alapított szakképzési centrum részeként működő szakképző intézmények feletti fenntartói irányítási hatásköröket,
 - b) ellátja a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap (a továbbiakban: Alap) képzési alaprésze felhasználásával kapcsolatos feladatokat,
 - c) kiadja a képzési és kimeneti követelményeket a Kormány adott ágazatért felelős tagjának egyetértésével,
-- d)
+- d) gondoskodik a díszpéldányok, valamint a díszpéldányok tárolására szolgáló tartótokok kiadásáról és forgalmazásáról a Kormány rendeletében kijelölt, az állam százszázalékos tulajdonában álló, nonprofit gazdasági társaság közreműködésével,
 - e) – a Kormány adott ágazatért felelős tagjának egyetértésével –
   - ea) javaslatot tesz a Kormány számára a szakmajegyzék megállapítására,
   - eb) kidolgoztatja a szakképzési tankönyveket,
@@ -1704,6 +1706,10 @@ továbbítható.
 
 (8) A szakképzési alapfeladattal kapcsolatos adatok statisztikai célra felhasználhatók és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon, a Kormány rendeletében meghatározottak szerint továbbíthatók.
 
+#### 115/A. § [A szakképzési államigazgatási szerv adattovábbítása]
+
+A szakképzési államigazgatási szerv az Onytv. 4. § (1) bekezdés b) pontja szerinti rendszerének (2a) bekezdés b) és c) pontja szerinti alrendszereiből személyes adatot továbbít a Nemzeti Köznevelési Portál és a Tankönyvkatalógus működtetéséért felelős szerv részére a tanulók és a közismereti tantárgyat oktatók szakképző intézménnyel fennálló aktív jogviszonyáról, az ezen portálok jogszerű igénybevétele és szerzői jog által védett tartalmaihoz való hozzáférés céljából. A Nemzeti Köznevelési Portál és a Tankönyvkatalógus működtetéséért felelős szerv az átadott adatokat a tanulói jogviszony megszűnéséig, illetve az oktatók esetén a munkaviszonyuk megszűnéséig kezeli.
+
 #### 116. § [Titoktartási kötelezettség]
 
 (1) A szakképző intézmény alkalmazottját, továbbá azt, aki közreműködik a tanuló felügyeletének az ellátásában, hivatásánál fogva harmadik személyekkel szemben titoktartási kötelezettség terheli a tanulóval, illetve a képzésben részt vevő személlyel kapcsolatos minden olyan tényt, adatot, információt illetően, amelyről a tanulóval, illetve képzésben részt vevő személlyel, kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjével való kapcsolattartás során szerzett tudomást. E kötelezettség a foglalkoztatásra irányuló jogviszony megszűnése után is határidő nélkül fennmarad. A titoktartási kötelezettség nem terjed ki az oktatói testület tagjainak egymás közti, valamint a gyermekvédelmi jelzőrendszer tagjaival történő, a tanuló fejlődésével összefüggő megbeszélésre.
@@ -1781,9 +1787,9 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 2. a képzési és kimeneti követelmények és a szakmai program meghatározásának szabályait,
 - 3. a szakmai képzés képzési programja meghatározásának szabályait,
 - 3a. a szakképzésben alkalmazható oklevél- és bizonyítványnyomtatványokkal összefüggésben fizetendő térítési díj mértékét,
-- 4. a szakképző intézmény alapításának, átalakításának, megszüntetésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
+- 4. a szakképző intézmény alapításának, átalakításának, megszüntetésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképzési centrum és a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 - 5. a szakképzés kísérleti jelleggel történő megszervezésének szabályait,
-- 6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált szakképzési vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait,
+- 6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált szakképzési vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait, a díszpéldányok, valamint a díszpéldányok tárolására szolgáló tartótokok kiadásában és forgalmazásában közreműködő szervezetet,
 - 7. a szakképzési minőségirányítási keretrendszert és a szakképző intézmény külső értékelésére, valamint a szakképző intézmény és a duális képzőhely ellenőrzésére vonatkozó részletes szabályokat,
 - 8. a szakképzés szakképző intézményben és duális képzőhelyen történő folytatásának rendjét,
 - 9. az együttműködési megállapodás tartalmát és megkötésének részletes szabályait,
@@ -1880,12 +1886,12 @@ kell kifutó jelleggel megszervezni.
 
 (8) Ágazati alapoktatást és ágazati alapvizsgát a 2020/2021. tanévtől a változással érintett legalacsonyabb évfolyamon kezdve felmenő rendszerben kell megszervezni.
 
-(9) A szakképző intézmény, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézmény által szervezett szakmai oktatáshoz kapcsolódó szakmai vizsga, továbbá az (1) bekezdés szerint kifutó jelleggel szervezett nevelés-oktatáshoz kapcsolódó szintvizsga és érettségi vizsga az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételekkel 2025. december 31-éig
+(9) A szakképző intézmény, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézmény által szervezett szakmai oktatáshoz kapcsolódó szakmai vizsga 2026. december 31-éig
 
 - a) az állam által fenntartott szakképző intézményben, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményben, valamint
 - b) az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben és szakképzési alapfeladatot ellátó többcélú köznevelési intézményben az együttműködési megállapodásban meghatározott ágazatban
 
-is megszervezhető azzal, hogy akkreditált szakképzési vizsgaközpont alatt az ilyen szakképző intézményt, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményt kell érteni. 2026. január 1-jétől az ilyen szakképző intézmény akkor szervezhet szakmai vizsgát, ha rendelkezik az e törvény szerinti szakmai és képesítő vizsgáztatási tevékenység folytatására kiadott engedéllyel. A 2025. december 31-éig az ilyen szakképző intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
+is megszervezhető azzal, hogy akkreditált szakképzési vizsgaközpont alatt a szakmai vizsgát szervező szakképző intézményt, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményt kell érteni. A 2026. december 31-éig a szakmai vizsgát szervező szakképző intézményben, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
 
 (9a)
 
@@ -1959,9 +1965,11 @@ A bizonyítványban, oklevélben vagy az oktatási, családügyi, kulturális t�
 
 #### 128/B. § [Átmeneti rendelkezések az akkreditált szakképzési vizsgaközpontok szakmai és képesítő vizsgáztatási tevékenységének engedélyezéséhez kapcsolódóan]
 
-(1) Azt a vizsgaközpontot, amely a MódTv2. hatálybalépésekor rendelkezik a nemzeti akkreditálásról szóló törvény szerinti akkreditáló szerv által kiadott szakmai és képesítő vizsgáztatási tevékenység folytatására feljogosító okirattal, a szakképzési államigazgatási szerv 2025. december 31-ig hivatalból indított eljárásban felülvizsgálja, hogy megfelel-e a MódTv2.-ben, valamint az annak végrehajtására kiadott kormányrendeletben megállapított, az akkreditált szakképzési vizsgaközpontra vonatkozó feltételeknek.
+(1) Azt a vizsgaközpontot, amely a MódTv2. hatálybalépésekor rendelkezik a nemzeti akkreditálásról szóló törvény szerinti akkreditáló szerv által kiadott szakmai és képesítő vizsgáztatási tevékenység folytatására feljogosító okirattal, a szakképzési államigazgatási szerv 2025. december 31-ig hivatalból indított eljárásban felülvizsgálja, hogy megfelel-e a MódTv2.-ben, valamint a Kormány e törvény végrehajtására kiadott kormányrendeletben megállapított, az akkreditált szakképzési vizsgaközpontra vonatkozó feltételeknek.
 
 (2) Az (1) bekezdés hatálya alá tartozó vizsgaközpontot az (1) bekezdés szerint lefolytatott eljárásban kiadott engedély véglegessé válásáig az akkreditáló szerv által kiadott szakmai és képesítő vizsgáztatási tevékenység folytatására feljogosító okiratban foglalt, a képzési területen szereplő valamennyi szakma és szakképesítés tekintetében szakmai és képesítő vizsgáztatási tevékenység folytatására engedéllyel rendelkező akkreditált szakképzési vizsgaközpontnak kell tekinteni.
+
+(3) Az (1) bekezdés szerint lefolytatott eljárásban kiadott engedély alapján nyilvántartásba vett akkreditált szakképzési vizsgaközpont esetében a 14/D. § (1) bekezdése szerinti ellenőrzést – a 14/D. § (2) bekezdésében foglaltaktól eltérően – a szakképzési államigazgatási szerv által történt nyilvántartásba vételt követően három éven belül szükséges elvégezni, ezt követően a 14/D. § (4) bekezdésében meghatározott gyakorisággal.
 
 #### 128/C. § [Átmeneti rendelkezések a digitális bizonyítvány bevezetéséhez kapcsolódóan]
 

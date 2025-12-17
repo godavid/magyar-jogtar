@@ -409,6 +409,8 @@ tulajdonába kerülnek.
 
 32. § A Kormány egyedi határozatával a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XXXVI. MAGYAR KUTATÁSI HÁLÓZAT fejezet kiadási előirányzatait a HUN-REN 1. § (2) bekezdés szerinti közfeladatai végrehajtásának támogatása érdekében átcsoportosíthatja, azok címrendi besorolását módosíthatja.
 
+32/A. § A HUN-REN – az 1. § (2) bekezdésében meghatározott közfeladatai ellátásának sérelme nélkül – a 16. § és a 29. § (2) bekezdése szerinti kutatási intézménye útján, szolgáltatási szerződés alapján, kizárólagosan jogosult a Magyar Államvasutak Zártkörűen Működő Részvénytársaság és teljes körűen konszolidált gazdasági társaságai részére adatközponti kapacitások biztosítására, üzemeltetési és működtetési szolgáltatások nyújtására, valamint ezek megfelelő védelmi szintjének biztosítására.
+
 #### 14. Sarkalatos rendelkezések
 
 33. § (1) A 18. § (2), (3), (6)–(8) bekezdése, a 23. § (1), (3), (8) és (9) bekezdése, 24. § (1), (4), (5) bekezdése, 25. §, 26. §, a 60. § és a 87. §, az 1. és 2. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.

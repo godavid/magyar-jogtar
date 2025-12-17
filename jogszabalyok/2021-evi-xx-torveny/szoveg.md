@@ -78,7 +78,7 @@ Annak érdekében, hogy a Semmelweis Egyetem a világ legjobb 100 egyeteme és E
 
 (4) Az (1), az (1a), az (1b), az (1d) és az (1f) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
-(4a) Az (1h) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd vagyonkezelésében lévő, ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+(4a) Az (1h) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd vagyonkezelésében vagy tulajdonában lévő, ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
 (5) A (4) és (4a) bekezdés szerint átszálló ingóságokról az átszállásról szóló rendelkezés hatálybalépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, tulajdonosi joggyakorló szervezet könyveiben szereplő nyilvántartási értékkel.
 

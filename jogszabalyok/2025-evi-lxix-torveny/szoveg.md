@@ -180,7 +180,11 @@ Magyarország 2026. évi központi költségvetéséről
 
 (3)
 
-(4) Az önkormányzat a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulás fizetési kötelezettségének beszámítása a települési önkormányzat számára folyósítandó támogatás havi összegéből a nettó finanszírozás keretében történik. Ennek összegét a IX. Helyi önkormányzatok támogatásai fejezet, 4. Önkormányzati szolidaritási hozzájárulás címen kell elszámolni.
+(4) Az önkormányzat a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulásnak a 78. § (4) bekezdés szerint kiadott rendeletben rögzített részösszegét a rendeletben megjelölt határidőig a Kincstár által megjelölt számlára teljesíti.
+
+(4a) Ha az önkormányzat a (4) bekezdés szerinti határidőben a tárgyhavi fizetési kötelezettségét nem teljesíti, a Kincstár annak összegére a 78. § (4) bekezdés szerint kiadott rendeletben rögzített időpontban hatósági átutalási megbízást nyújt be a települési önkormányzat fizetési számlájára. A fizetési számlát vezető pénzforgalmi szolgáltató a Kincstár e bekezdés alapján benyújtott hatósági átutalási megbízását okirat csatolása nélkül köteles teljesíteni.
+
+(4b) A (4) és (4a) bekezdés szerinti összegeket a IX. Helyi önkormányzatok támogatásai fejezet, 4. Önkormányzati szolidaritási hozzájárulás címen kell elszámolni.
 
 (5)
 
@@ -284,7 +288,7 @@ Magyarország 2026. évi központi költségvetéséről
 
 (3)
 
-(4) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben tegye közzé a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulás önkormányzatonkénti összegét.
+(4) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben tegye közzé a 2. melléklet 62. pontja szerinti önkormányzati szolidaritási hozzájárulás önkormányzatonkénti összegét, a teljesítendő részösszegeket, azok teljesítésének határidejét és a határidőben nem teljesített részösszegek tekintetében a Kincstár által benyújtandó hatósági átutalási megbízás benyújtásának időpontját.
 
 (5)
 
@@ -492,7 +496,7 @@ KT = C + (L - A)/(B - A) * (D - C),
 ahol:KT = korrekciós tényező,L = az önkormányzat 1.3. pont szerinti lakosságszáma,A-D = a paramétertábla oszlopai szerinti értékek.
 
 - 1.5. A helyi önkormányzatokért felelős miniszter az általa üzemeltetett elektronikus rendszeren keresztül tárgyév január 15-éig az önkormányzatok számára elérhetővé teszi az e melléklet szerinti jogcímeken az önkormányzatokat megillető összegeket.
-- 1.6. Az e mellékletben szereplő jogcímek szerinti támogatások igénylési és döntési eljárására, valamint az önkormányzati szolidaritási hozzájárulás megállapítására és a nettó finanszírozás keretében történő levonására nem kell alkalmazni az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait.
+- 1.6. Az e mellékletben szereplő jogcímek szerinti támogatások igénylési és döntési eljárására, valamint az önkormányzati szolidaritási hozzájárulás megállapítására és a 43. § (4a) bekezdés szerinti hatósági átutalási megbízásra nem kell alkalmazni az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait.
 - 1.7. Az e mellékletben szereplő jogcímek szerinti támogatások igénylése és év közbeni módosítása az államháztartásért felelős miniszter által az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) alapján kiadott tájékoztató és értesítő alapján történik.
 - 1.8. Társult feladatellátás esetén a társulási megállapodás szerinti székhely önkormányzat igényelhet támogatást.
 - 1.9. Amennyiben az önkormányzat az e melléklet szerinti támogatással érintett feladatot intézménye vagy társulás útján látja el, úgy a támogatás és az önkormányzati hozzájárulás összegét a 018030 Támogatási célú finanszírozási műveletek kormányzati funkción biztosítja az intézménye, társulása részére. A támogatással szemben elszámolható szakmai kormányzati funkciókon a ténylegesen a szakmai feladatok ellátásával összefüggő kiadások könyvelhetők.
@@ -519,9 +523,9 @@ ahol:KT = korrekciós tényező,L = az önkormányzat 1.3. pont szerinti lakoss�
 - 3.1. A központi költségvetés támogatást biztosít az önkormányzati hivatal működési kiadásaihoz az Mötv. szerint a tárgyévet megelőző év március 1-jén működő hivatali struktúrának megfelelően. Amennyiben év közben változik a közös hivatali struktúra, vagy a tárgyév január 1-jéhez képest megváltozik a közös hivatal székhelye, azt az érintett önkormányzatok egymás között pénzeszközátadással rendezik.
 - 3.2. A támogatás meghatározása az elismert hivatali létszám alapján a személyi és dologi kiadások elismert átlagos költségeinek figyelembevételével történik. Közös önkormányzati hivatal esetében a támogatásra a székhely önkormányzat jogosult.
 - 3.3. A támogatás fajlagos összege:
-  - a) Budapest Főváros Önkormányzata és a 10 000 fő lakosságszám feletti, támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
-  - b) a legfeljebb 10 000 fő lakosságszámú, támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
-- 3.4. A legfeljebb 10 000 fő lakosságszámú, támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
+  - a) Budapest Főváros Önkormányzata és a 30 000 fő lakosságszám feletti, támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
+  - b) a legfeljebb 30 000 fő lakosságszámú, támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
+- 3.4. A legfeljebb 30 000 fő lakosságszámú, támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
 - 3.5. Az elismert hivatali létszám a számított alaplétszám korrekciós tényezőkkel korrigált összege. Önálló polgármesteri hivatal esetében az elismert hivatali létszám megegyezik a számított alaplétszámmal. Budapest Főváros Önkormányzata esetében az elismert hivatali létszám 470 fő.
 - 3.6. A számított alaplétszám számításakor a település típusára, a lakosságszám-kategóriákra és az elismert köztisztviselői létszámra vonatkozó adatokat az alábbi paramétertábla szerint kell figyelembe venni:
 
@@ -1059,7 +1063,7 @@ amely éves szinten nem lehet több a szolgáltatói nyilvántartásban szerepl�
 | 11 | magas gondozási szükséglettel rendelkező pszichiátriai betegek részére támogatott lakhatás: a Szociális Ágazati Portálon közzétett Komplex támogatási szükségletmérő eszköz Összegző adatlap V. pontja alapján felügyelet, gondozás és étkezés szolgáltatási elem igénybevételére javasolt ellátott | 1,19 |
 | 12 | támogatott lakhatás szenvedélybetegek részére | 0,74 |
 | 13 | helyettes szülőnél biztosított átmeneti ellátás | 0,8 |
-| 14 | gyermekek átmeneti otthonában biztosított átmeneti ellátás | 0,94 |
+| 14 | gyermekek átmeneti otthonában biztosított átmeneti ellátás | 1,32 |
 | 15 | családok átmeneti otthonában biztosított átmeneti ellátás | 0,83 |
 | 16 | családok átmeneti otthonában külső férőhelyén biztosított átmeneti ellátás | 0,7 |
 
@@ -1216,7 +1220,7 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 - 61.3. A támogatást a vármegyei hatókörű városi könyvtár a Könyvtárellátási Szolgáltató Rendszer (a továbbiakban: KSZR) működtetésére használhatja fel.
 - 61.4. Ha a vármegyei hatókörű városi könyvtár a KSZR működtetésére megállapodást köt a városi könyvtárral, a városi könyvtár által ellátott feladatok költségeinek fedezetéről e támogatás keretei között a vármegyei hatókörű városi könyvtár gondoskodik.
 - 62. 4. Önkormányzati szolidaritási hozzájárulás jogcím
-- 62.1. A 25 000 forint feletti egy lakosra jutó iparűzési adóerő-képességgel rendelkező önkormányzat az egy lakosra jutó iparűzési adóerő-képességétől függő mértékű szolidaritási hozzájárulást teljesít a központi költségvetésnek. A szolidaritási hozzájárulás alapja az önkormányzat 1.4. pont szerinti iparűzési adóerő-képességet meghatározó adóalapja (a továbbiakban: a szolidaritási hozzájárulás alapja). A szolidaritási hozzájárulás központi költségvetés felé történő teljesítése a nettó finanszírozás keretében történik.
+- 62.1. A 25 000 forint feletti egy lakosra jutó iparűzési adóerő-képességgel rendelkező önkormányzat az egy lakosra jutó iparűzési adóerő-képességétől függő mértékű szolidaritási hozzájárulást teljesít a központi költségvetésnek. A szolidaritási hozzájárulás alapja az önkormányzat 1.4. pont szerinti iparűzési adóerő-képességet meghatározó adóalapja (a továbbiakban: a szolidaritási hozzájárulás alapja).
 - 62.2. A szolidaritási hozzájárulás számításakor alkalmazandó paramétertábla:
 
 |  | A | B | C | D |
@@ -1232,7 +1236,7 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 - 62.3. A szolidaritási hozzájárulás az alábbi képlet alapján határozható meg: SZH = SZHA * [ C + (AE - A)/(B - A) * (D - C) ] / 100, egész számra kerekítve - KT, de értéke legalább 0, ahol: SZH = szolidaritási hozzájárulás fizetendő összege, SZHA = szolidaritási hozzájárulás alapja, AE = az önkormányzat egy lakosra jutó iparűzési adóerő-képessége, ami alapján a szolidaritási hozzájárulás mértékének számításakor alkalmazandó 62.2. pont szerinti paramétertábla megfelelő sora alkalmazandó, A-D = a szolidaritási hozzájárulás számításakor alkalmazandó 62.2. pont szerinti paramétertábla oszlopai szerinti érték, KT = 600 fő lakosságszám alatti települések esetében alkalmazandó korrekciós tényező, amelynek összege 12,0 millió forint.
 - 62.4. Amennyiben a település közös hivatal székhelye, a 62.2. pont szerinti paramétertábla 2-6 sorai szerinti kategóriákban a rá irányadó százalékos mérték 0,05 százalékponttal kisebb.
-- 62.5. Az államháztartásért felelős miniszter az önkormányzati szolidaritási hozzájárulás e pont szerint számított önkormányzatonkénti összegét rendeletben teszi közzé.
+- 62.5. Az államháztartásért felelős miniszter az e pont szerint számított önkormányzati szolidaritási hozzájárulás önkormányzatonkénti összegét, a teljesítendő részösszegeket, azok teljesítésének határidejét és a határidőben nem teljesített részösszegek tekintetében a Kincstár által benyújtandó hatósági átutalási megbízás benyújtásának időpontját rendeletben teszi közzé.
 
 ### 3. melléklet a 2025. évi LXIX. törvényhez
 

@@ -95,6 +95,8 @@ kell nyilvántartani.
 
 (3) Az ingatlanügyi hatóság az ingatlan-nyilvántartási eljárásban kezeli az eljárással érintett az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy adóazonosító jelét cégképviseleti jogosultságának megállapítása céljából.
 
+(4) Az ingatlanügyi hatóság jogszabályban meghatározott feladataival összefüggésben, az ingatlan-nyilvántartási eljárás lefolytatásához, továbbá a tulajdoni lapon és a tulajdonilap-másolaton történő megjelenítés céljából kezeli a természetes személy lakcímadatát. Az adatkezelés az eljáráshoz kapcsolódó iratok selejtezési idejével megegyező, tulajdonilap-bejegyzés esetén határozatlan idejű.
+
 9. § Az ingatlan-nyilvántartásba bejegyezhető jogokat és tényeket az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
 
 ### III. Fejezet — AZ INGATLAN-NYILVÁNTARTÁS RÉSZEI
@@ -180,7 +182,7 @@ kell nyilvántartani.
 
 18. § (1) Az ingatlanra bejegyzett jogok és tények ingatlan-nyilvántartási sorrendjét (a továbbiakban: rangsor) és az egyes bejegyzések ebből következő rangsorban elfoglalt helyét (a továbbiakban: ranghely) a bejegyzések hatályának kezdetére irányadó időpontok határozzák meg.
 
-(2) A bejegyzések hatályának kezdetére irányadó időpontnak – az azonos időpontban érkezett beadványokra vonatkozó eltéréssel – a bejegyzés iránt benyújtott kérelem, bírósági elrendelés vagy hatósági felhívás ingatlanügyi hatóság általi iktatásának az időpontját kell tekinteni feltéve, hogy a bíróság a bírósági elrendelésben ennél korábbi időpontot nem határoz meg.
+(2) A bejegyzések hatályának kezdetére irányadó időpontnak – az azonos időpontban érkezett beadványokra vonatkozó eltéréssel – a bejegyzés iránt benyújtott kérelem, bírósági elrendelés vagy hatósági felhívás ingatlanügyi hatóság általi iktatásának az időpontját kell tekinteni feltéve, hogy az e törvény 34. § (2) bekezdése szerinti esetben a bírósági elrendelés vagy hatósági felhívás ennél korábbi időpontot nem határoz meg.
 
 (3) Ranghelyet csak olyan kérelemmel, bírósági elrendeléssel vagy hatósági felhívással lehet alapítani, amelyhez a bejegyzés alapjául szolgáló okiratot is mellékelték. A bejegyzés alapjául szolgáló okiratnak nem tekinthető iratot a rangsor megállapításánál nem lehet figyelembe venni.
 
@@ -318,17 +320,17 @@ a megváltozását, és kérelmezni az adatváltozás bejegyzését.
 
 (3) A társasházakról szóló törvény szerinti lakásösszevonás vagy lakásmegosztás esetén bejegyzés alapjául szolgálhat az összes tulajdoni hányad több mint felét képviselő tulajdontársak által aláírt alapító okirat, ez esetben a bejegyzéshez a többi tulajdonostárs szerződéses nyilatkozata nem szükséges.
 
-34. § (1) Tulajdonjog bejegyzésének a (2) bekezdés szerinti törléséhez és az eredeti ingatlan-nyilvántartási állapot visszaállításához jogerős bírósági vagy hatósági határozat, illetve végleges közigazgatási hatósági határozat szükséges.
+34. § (1) Bejegyzett jog (2) bekezdés szerinti törléséhez és az eredeti ingatlan-nyilvántartási állapot visszaállításához, továbbá törölt jog eredeti ranghelyen történő visszajegyzéséhez jogerős bírósági vagy hatósági határozat, illetve végleges közigazgatási hatósági határozat szükséges.
 
-(2) Bejegyzett tulajdonjognak a törlésére és az eredeti ingatlan-nyilvántartási állapot visszaállítására
+(2) Bejegyzett jognak a törlésére és az eredeti ingatlan-nyilvántartási állapot visszaállítására, valamint törölt jog eredeti ranghelyen történő visszajegyzésére
 
-- a) a Ptk. szerinti törlési per esetén a jogügylet érvénytelenségét vagy a bejegyzés utólagos helytelenné válását megállapító jogerős bírósági határozat és a törlésre irányuló elrendelés alapján,
-- b) tulajdonjog-bejegyzés alapjául szolgáló bírósági határozat hatályon kívül helyezéséről vagy megváltoztatásáról szóló bírósági határozat, valamint a törlésre irányuló bírósági elrendelés alapján, vagy
-- c) a tulajdonjog-bejegyzés alapjául szolgáló hatósági határozatnak saját hatáskörben, illetve ügyészi felhívás nyomán történő visszavonása, vagy bíróság, illetve felügyeleti szerv általi megsemmisítése vagy hatályon kívül helyezése, valamint a törlésre irányuló bírósági elrendelés vagy hatósági felhívás alapján
+- a) a jogügylet érvénytelenségét vagy a bejegyzés utólagos helytelenné válását megállapító jogerős bírósági határozat és a törlésre vagy visszajegyzésre irányuló elrendelés alapján,
+- b) a jogbejegyzés vagy jogtörlés alapjául szolgáló bírósági határozat hatályon kívül helyezéséről vagy megváltoztatásáról szóló bírósági határozat, valamint a hatályon kívül helyező vagy megváltoztató határozatot hozó bíróság törlésre vagy visszajegyzésre irányuló bírósági elrendelése alapján, vagy
+- c) a jogbejegyzés vagy jogtörlés alapjául szolgáló hatósági határozatnak saját hatáskörben, illetve ügyészi felhívás nyomán történő visszavonása vagy módosítása, vagy bíróság vagy felügyeleti szerv általi megsemmisítése vagy hatályon kívül helyezése, valamint a törlésre vagy visszajegyzésre irányuló bírósági elrendelés vagy hatósági felhívás alapján
 
 kerülhet sor.
 
-(3) Az eredeti ingatlan-nyilvántartási állapot visszaállítása a (2) bekezdés b) és c) pontja szerinti esetben csak akkor lehetséges, ha az ingatlanügyi hatóság részére – az eredeti ingatlan-nyilvántartási állapot visszaállítása érdekében – a bírósági elrendelést kiadó bíróság a bírósági elrendeléssel, illetve a hatósági felhívást kiadó hatóság a hatósági felhívással egyidejűleg igazolja, hogy azokat a személyeket, akik az eredeti állapot visszaállításával érintettek, ügyfélként az eredeti állapot visszaállítása alapjául szolgáló eljárásba bevonták.
+(3) Az eredeti ingatlan-nyilvántartási állapot visszaállítása a (2) bekezdés b) és c) pontja szerinti esetben csak akkor lehetséges, ha az ingatlanügyi hatóság részére – az eredeti ingatlan-nyilvántartási állapot visszaállítása érdekében – a bírósági elrendelést kiadó bíróság a bírósági elrendeléssel, illetve a hatósági felhívást kiadó hatóság a hatósági felhívással egyidejűleg igazolja, hogy azokat a személyeket, akik az eredeti állapot visszaállításával érintettek, a közigazgatási perbe érdekeltként vagy az eredeti állapot visszaállítása alapjául szolgáló hatósági eljárásba ügyfélként bevonták. Nincs szükség külön igazolásra, ha ez a tény magából a megsemmisítő, hatályon kívül helyező vagy megváltoztató határozatból megállapítható.
 
 (4) Az ingatlanügyi hatóság jelzálogjogi bejegyzést az örökössel szemben a tulajdonjogának bejegyzése előtt is teljesíthet. Ez a bejegyzés azonban csak az örökös – ha pedig az örökös az ingatlant a hagyaték átadása előtt elidegenítette, a szerző – tulajdonjogának bejegyzésével válik hatályossá. A függő jogi helyzetre a bejegyzésben utalni kell.
 
@@ -460,7 +462,7 @@ kerülhet sor.
   - ab) az (1) bekezdés a) pont ab) vagy ad) alpontjában, illetve b)–d) pontjában meghatározott adat hibás megadása miatt, vagy
 - b) az ingatlan-nyilvántartási, a telekalakítási, a földmérési és térképészeti tevékenységgel kapcsolatos eljárások, továbbá az ingatlan-nyilvántartásból és az állami alapadatbázisokból történő adatszolgáltatások igazgatási szolgáltatási díjairól szóló miniszteri rendeletben meghatározott kivétellel az eljárás igazgatási szolgáltatási díjának meg nem fizetése miatt
 
-széljegyzésre alkalmatlan, az ingatlanügyi hatóság elektronikus igazolást küld a benyújtó számára arról, hogy a kérelem széljegyzésének akadálya van. Ebben az esetben a kérelmet be nem nyújtottnak kell tekinteni.
+széljegyzésre alkalmatlan, az ingatlanügyi hatóság elektronikus igazolást küld a benyújtó számára arról, hogy a beadvány széljegyzésének akadálya van. Ebben az esetben a beadványt be nem nyújtottnak kell tekinteni.
 
 47. § Az eljárás megindításáról az ingatlanügyi hatóság a kérelmezőket, valamint valamennyi, az ingatlanra bejegyzett joggal vagy ténnyel rendelkező jogosultat értesíti.
 
@@ -882,9 +884,9 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 (11) A beadványok intézése során a beadvánnyal érintett ingatlan fekvése szerinti fővárosi és vármegyei kormányhivatal jogosult eljárni.
 
-#### 40/C. A 2024. szeptember 30-án meglévő – közérdekű használati joggal nem biztosított – közművek helyzetének rendezése
+#### 40/C. A 2025. január 14-én meglévő – közérdekű használati joggal nem biztosított – közművek helyzetének rendezése
 
-72/C. § A 2024. szeptember 30-át megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közművek helyzetének rendezésével kapcsolatos e § szerinti eljárás részletszabályait 2025. december 31-ig a Kormány kormányrendeletben állapítja meg.
+72/C. § A 2025. január 15-ét megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közművek helyzetének rendezésével kapcsolatos e § szerinti eljárás részletszabályait 2027. december 31-ig a Kormány kormányrendeletben állapítja meg.
 
 #### 40/D. Végrehajtási jog törlése a földön fennálló osztatlan közös tulajdon megszüntetésével egyidejűleg
 
@@ -975,7 +977,7 @@ kéri.
 
 #### 44. Földkönyvi adatszolgáltatás
 
-79. § A földkönyv a tulajdonilap-másolaton szereplő adatoknak a földkönyv igénylője igényei szerint az ingatlanügyi hatóság által leválogatott és összeállított elektronikus dokumentuma. Földkönyvként a tulajdonilap-másolat valamennyi adata nem szolgáltatható. A földkönyv az ingatlan-nyilvántartás tartalmáról tanúsító erővel nem rendelkezik. Földkönyv szolgáltatására az e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt ingatlanügyi hatóság jogosult.
+79. § A földkönyv a tulajdonilap-másolaton szereplő adatoknak a földkönyv igénylője igényei szerint az ingatlanügyi hatóság által leválogatott és összeállított elektronikus dokumentuma. Földkönyvként – ha törvény vagy az e törvény felhatalmazása alapján kiadott kormányrendelet másként nem rendelkezik – a tulajdonilap-másolat valamennyi adata nem szolgáltatható. A földkönyv az ingatlan-nyilvántartás tartalmáról tanúsító erővel nem rendelkezik. Földkönyv szolgáltatására az e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt ingatlanügyi hatóság jogosult.
 
 80. § Az ingatlan-nyilvántartás tartalmából a következő földkönyvek szolgáltathatóak:
 
@@ -1170,7 +1172,7 @@ bejegyzésére, módosítására, törlésére irányul;
 
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben a 87/A. § (1) bekezdése szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
-(2b) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a 2024. szeptember 30-át megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közművek helyzetének rendezésével kapcsolatos eljárás részletszabályait.
+(2b) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a 2025. január 15-ét megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közművek helyzetének rendezésével kapcsolatos eljárás részletszabályait.
 
 (2c) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a zártkerti ingatlan művelési ágának művelés alól kivett területként történő bejegyzésére vonatkozó részletes szabályait.
 

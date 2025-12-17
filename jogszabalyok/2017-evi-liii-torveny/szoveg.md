@@ -19,15 +19,16 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - g) könyvvizsgálói tevékenységet végzőre;
 - h) könyvviteli (könyvelői), adószakértői, okleveles adószakértői, adótanácsadói tevékenységet megbízási, illetve vállalkozási jogviszony alapján végzőre;
 - i) játékkaszinót, kártyatermet működtetőre vagy távszerencsejátéknak nem minősülő fogadást, távszerencsejátékot, online kaszinójátékot szervezőre;
-- j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
+- j) – az s) pont kivételével – nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
 - k) árukereskedőre, amennyiben tevékenysége folytatása során hárommillió forintot elérő vagy meghaladó összegű készpénzfizetést teljesít vagy fogad el;
 - l) ügyvédre, ügyvédi irodára, európai közösségi jogászra, európai közösségi jogászi irodára (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre;
 - m) bizalmi vagyonkezelőre;
 - n)
 - o)
 - p) kulturális javak (műalkotások, régiségek) forgalmazásával vagy közvetítésével foglalkozó szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
-- q) kulturális javak (műalkotások, régiségek) tárolásával vagy forgalmazásával szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot; és
-- r) székhelyszolgáltatóra.
+- q) kulturális javak (műalkotások, régiségek) tárolásával vagy forgalmazásával szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
+- r) székhelyszolgáltatóra; és
+- s) a befektetési arany forgalmazásával, vagy felvásárlásával foglalkozó személyekre.
 
 (1a) E törvény hatálya akkor terjed ki arra, aki Magyarország területén kívül az Európai Unió más tagállamában vagy harmadik országban rendelkezik székhellyel, ha az az (1) bekezdésben meghatározott szolgáltatók által nyújtható szolgáltatást Magyarországon létesített tartós üzleti egysége révén az ügyfelek számára állandó belföldi jelenlét formájában közvetlenül nyújtja [az (1) bekezdésben és e bekezdésben meghatározottak a továbbiakban együtt: szolgáltató].
 
@@ -155,7 +156,7 @@ meghatározott intézkedés.
 - 38b. többségi állami tulajdonú vállalat: teljes mértékben állami vagy helyi önkormányzati tulajdonban álló vállalat, többségi állami tulajdonban álló vállalat, valamint a helyi önkormányzat többségi tulajdonában álló vállalat;
 - 39. utalványkibocsátó: forgatható utalvány kibocsátására irányuló tevékenységre engedéllyel rendelkező szolgáltató;
 - 40. útmutató: az 5. §-ban meghatározott felügyeletet ellátó szerv által az e törvény szerinti felügyeleti tevékenysége keretében a szolgáltatók számára kiadott, iránymutatást tartalmazó alábbi dokumentumok:
-  - a) az 1. § (1) bekezdés a)–f), h)–k) és m–r) pontjában meghatározott szolgáltató részére kiadott rendelet,
+  - a) az 1. § (1) bekezdés a)–f), h)–k) és m)–s) pontjában meghatározott szolgáltató részére kiadott rendelet,
   - b) az 1. § (1) bekezdés g) pontjában meghatározott szolgáltató részére kiadott kötelező jellegű útmutató, valamint
   - c) az 1. § (1) bekezdés l) pontjában meghatározott szolgáltató részére kiadott kötelező jellegű iránymutatás és szabályzat (a továbbiakban együtt: útmutató);
 - 41. ügyfél:
@@ -170,9 +171,9 @@ meghatározott intézkedés.
 - 43. ügylet:
   - a) az üzleti kapcsolat során a szolgáltató szakmai tevékenységi körébe tartozó szolgáltatás igénybevételéhez tartozó művelet, vagy
   - b) az ügyleti megbízás.
-- 44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony, valamint a 6. § (1) bekezdés e) pontja szerinti eseti jogviszony.
+- 44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–s) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony, valamint a 6. § (1) bekezdés e) pontja szerinti eseti jogviszony.
 - 45. üzleti kapcsolat:
-  - a) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
+  - a) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)–h), valamint j)–s) pontjában megjelölt szakmai tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
   - b) a játékkaszinót vagy kártyatermet működtető szolgáltató vonatkozásában a játékkaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, illetve a távszerencsejáték és az online kaszinójáték szervezőjénél a játékos nyilvántartásba vétele,
   - c) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató vonatkozásában az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó jogviszony.
 - 46. vagyon forrásának igazolása: az ügyfél hárommillió forintot meghaladó értékű vagyoni eszközeinek – beleértve a materiális vagy immateriális javakat – forrását bemutató ügyfél-nyilatkozat;
@@ -203,7 +204,7 @@ meghatározott intézkedés.
 5. § E törvény alkalmazásában felügyeletet ellátó szerv az 1. § (1) bekezdés
 
 - a) a)–e) pontjában meghatározott szolgáltatók és az 1. § (1b) bekezdésében meghatározott személyek vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
-- b) i) pontjában meghatározott szolgáltatók vonatkozásában a Szabályozott Tevékenységek Felügyeleti Hatósága;
+- b) i) és s) pontjában meghatározott szolgáltatók vonatkozásában a Szabályozott Tevékenységek Felügyeleti Hatósága;
 - c) g) pontjában meghatározott szolgáltatók vonatkozásában a Magyar Könyvvizsgálói Kamara;
 - d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az ügyvédekre, a kamarai jogtanácsosokra, valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
   - da) az ügyvédek és a kamarai jogtanácsosok esetében az a kamara, amelynek az ügyvéd, kamarai jogtanácsos a tagja (a továbbiakban: területi ügyvédi kamara),
@@ -453,7 +454,7 @@ haladéktalanul tájékoztatja.
 
 (3) Az (1) bekezdéstől eltérően a 3. § 25. pontjában meghatározott Posta Elszámoló Központot működtető intézmény – a háromszázezer forintot el nem érő összegű, belföldön kezdeményezett és belföldön teljesítendő áru- vagy szolgáltatásnyújtás igénybevételére irányuló, fizetési számlára történő befizetés kivételével – az ügyleti megbízás teljesítésekor – a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása céljából – a 7. § (2) bekezdés a) pont aa) alpontjában és ad) vagy af) alpontjában, jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében a 7. § (2) bekezdés b) pont ba) és bb) alpontjában és a 14/A. § (2) bekezdés a) pontjában meghatározott adatokat köteles rögzíteni, és a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.
 
-(4) Az 1. § (1) bekezdés e)–h), j)–k), m), p) és q) pontjában meghatározott szolgáltató – a 6. § (2) bekezdésében meghatározott kötelezettség végrehajtása érdekében – a háromszázezer forintot elérő vagy meghaladó összegű, virtuális fizetőeszköz átváltás esetén a százezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor természetes személy ügyfél esetében a 7. § (2) bekezdés a) pont aa) és ad) alpontjában, jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében a 7. § (2) bekezdés b) pont ba) és bb) alpontjában, valamint a 14/A. § (2) bekezdés a) pontjában meghatározott adatokat köteles rögzíteni, és a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.
+(4) Az 1. § (1) bekezdés e)–h), j)–k), m), p), q) és s) pontjában meghatározott szolgáltató – a 6. § (2) bekezdésében meghatározott kötelezettség végrehajtása érdekében – a háromszázezer forintot elérő vagy meghaladó összegű, virtuális fizetőeszköz átváltás esetén a százezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor természetes személy ügyfél esetében a 7. § (2) bekezdés a) pont aa) és ad) alpontjában, jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében a 7. § (2) bekezdés b) pont ba) és bb) alpontjában, valamint a 14/A. § (2) bekezdés a) pontjában meghatározott adatokat köteles rögzíteni, és a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.
 
 14/A. § (1) A 6. § (1) bekezdés b)–d) és i) pontjában meghatározott ügyleti megbízás teljesítése esetén a szolgáltató köteles az ügyfelet, valamint annak a szolgáltatónál eljáró meghatalmazottját, rendelkezésre jogosultját, továbbá képviselőjét a 7. § (2) bekezdésében meghatározott valamennyi adatra vonatkozóan azonosítani, személyazonosságának igazoló ellenőrzését elvégezni és a 7. § (3) bekezdése szerinti okiratáról másolatot készíteni, köteles továbbá a 8–9/A. §-ban meghatározott ügyfél-átvilágítási intézkedéseket elvégezni.
 
@@ -1171,7 +1172,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (8) Az 1. § (1) bekezdés a)–e) és i) pontjában meghatározott szolgáltató tevékenységének engedélyezéséhez a törvényben megállapított feltételek mellett szükséges az is, hogy belső szabályzatát az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából az engedélykérelemmel együtt benyújtsa.
 
-(9) Az 1. § (1) bekezdés f)–h), j) és n)–q) pontjában meghatározott szolgáltató tevékenysége megkezdését követő negyvenöt napon belül köteles belső szabályzatot készíteni és azt az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából benyújtani.
+(9) Az 1. § (1) bekezdés f)–h), j), n)–q) és s) pontjában meghatározott szolgáltató tevékenysége megkezdését követő negyvenöt napon belül köteles belső szabályzatot készíteni és azt az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából benyújtani.
 
 (10) E törvény hatálybalépésekor működő szolgáltató az e törvény hatálya alá kerülő tevékenysége kapcsán köteles e törvény hatálybalépését követő 45 napon belül belső szabályzatot készíteni és azt az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából benyújtani.
 
@@ -1187,7 +1188,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (2b) Az 5. §-ban meghatározott felügyeletet ellátó szerv (1) bekezdés szerinti felügyeleti tevékenysége kiterjed a felügyeleti szerv feladatköréhez illeszkedően a szolgáltatónak az atipikus pénzügyi jellegű korlátozó intézkedések betartásához szükséges kötelezettségeknek való megfelelésének biztosítására is.
 
-(3) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § e) és f) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény, az 5. § a) és g) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény és az MNBtv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv az általános közigazgatási rendtartásról szóló törvény, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló törvény és a szerencsejáték szervezéséről szóló törvény, az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló és a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
+(3) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § e) és f) pontjában meghatározott felügyeletet ellátó szerv az általános közigazgatási rendtartásról szóló törvény, az 5. § a) és g) pontjában meghatározott felügyeletet ellátó szerv az általános közigazgatási rendtartásról szóló törvény és az MNBtv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv az általános közigazgatási rendtartásról szóló törvény, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló törvény, továbbá az 1. § (1) bekezdés i) pontja szerinti szolgáltatók vonatkozásában a szerencsejáték szervezéséről szóló törvény, az 1. § (1) bekezdés s) pontja szerinti szolgáltatók vonatkozásában a kereskedelemről szóló törvény, az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény és az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
 (4) A felügyelet ellátása során az 5. § d) pont da) alpontjában meghatározott felügyeletet ellátó szerv az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.), az 5. § d) pont db) alpontjában meghatározott felügyeletet ellátó szerv a Kjtv. rendelkezései szerint jár el.
 
@@ -1218,16 +1219,17 @@ belső ellenőrző és információs rendszerek működéséről.
   - eb) az 1. § (1) bekezdés k), p) és q) pontjában meghatározott szolgáltató esetében törli a nyilvántartásból a szolgáltatót,
   - ec) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból történő törlését, vagy a tevékenység végzésétől való eltiltását legalább egy, de legfeljebb tizenkét hónapra,
   - ed) az 1. § (1) bekezdés h) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból való törlését;
+  - ee) az 1. § (1) bekezdés s) pontjában meghatározott szolgáltató esetében visszavonja a szolgáltató engedélyét vagy a tevékenység végzésétől legalább egy, de legfeljebb tizenkét hónapra eltiltja;
 - f) kezdeményezi a szolgáltató vezetője vagy a jogsértésért felelős foglalkoztatottja felelősségének megállapítását;
 - g) kezdeményezi a szolgáltató vezetője vezetői jogkörének a jogsértés megszüntetéséig történő felfüggesztését vagy visszavonását;
 - h) az a)–g) és i)–l) pontban felsorolt intézkedések mellett vagy önállóan
   - ha) az 1. § (1) bekezdés a)–c) és e) pontjában meghatározott szolgáltató esetében négyszázezer forinttól a jóváhagyásra jogosult testület által elfogadott éves beszámoló vagy az összevont (konszolidált) éves beszámoló szerinti éves nettó árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel 10%-ának megfelelő összegig, vagy kettőmilliárd forintig terjedő pénzbírságot szabhat ki,
   - hb) az 1. § (1) bekezdés d) pontjában meghatározott szolgáltató esetében négyszázezer forinttól a tárgyévet megelőző év tagdíjbevételei és támogatásai együttes összege 10%-ának megfelelő összegig, vagy kettőmilliárd forintig terjedő pénzbírságot szabhat ki,
-  - hc) az 1. § (1) bekezdés f)–k) és m)–r) pontjában meghatározott szolgáltató esetében százezer forinttól legfeljebb négyszázmillió forintig terjedő pénzbírságot szabhat ki;
+  - hc) az 1. § (1) bekezdés f)–k) és m)–s) pontjában meghatározott szolgáltató esetében százezer forinttól legfeljebb négyszázmillió forintig terjedő pénzbírságot szabhat ki;
   - hd) befektetési vállalkozás esetében a ha) alponttól eltérően az MNBtv. 76. § (25) bekezdésében meghatározott összegű pénzbírságot szabhat ki;
 - i) az 1. § (1) bekezdés a)–e) pontjában meghatározott szolgáltatók esetében felügyeleti biztost rendelhet ki;
 - j) kötelezi a szolgáltatót határidő tűzésével az alkalmazottak (vezetők) szakmai továbbképzésére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére;
-- k) az 1. § (1) bekezdés a)–r) pontjában meghatározott szolgáltatók esetében előírhatja rendkívüli adatszolgáltatási kötelezettség teljesítését;
+- k) az 1. § (1) bekezdés a)–s) pontjában meghatározott szolgáltatók esetében előírhatja rendkívüli adatszolgáltatási kötelezettség teljesítését;
 - l) az 1. § (1) bekezdés a)–e), n) és o) pontjában meghatározott szolgáltató jogsértésért felelős vezetőjét és foglalkoztatottját
   - la) figyelmeztetheti,
   - lb) vezető állású személy esetében százezer forinttól legfeljebb ötszázmillió forintig terjedő, a szolgáltató által át nem vállalható pénzbírsággal, foglalkoztatott esetében pedig húszezer forinttól legfeljebb húszmillió forintig terjedő, a szolgáltató által át nem vállalható pénzbírsággal sújthatja.
@@ -1516,17 +1518,20 @@ vonatkozó részletszabályokat.
 
 vonatkozó részletszabályokat.
 
-(3a) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg az 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók tekintetében
+(3a) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg
 
-- a) a belső kockázatértékelés elkészítésének szabályrendszerére,
-- b) a belső ellenőrző és információs rendszer működtetésére,
-- c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
-- d) az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
-- e) a megerősített eljárás esetköreire és feltételrendszerére,
-- f) a kijelölt felelős vezető és a megfelelési vezető kijelölésére és helyettesítésére, valamint a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
-- g) a képzési programra,
-- h) az ügylet felfüggesztésére
-- i) az ügyfél és a tényleges tulajdonos vonatkozásában kiemelt közszereplői minőség megállapításával kapcsolatos kockázatkezelési rendszer kialakítására
+- a) az 1. § (1) bekezdés i) és s) pontjában meghatározott szolgáltatók tekintetében
+  - aa) a belső kockázatértékelés elkészítésének szabályrendszerére,
+  - ab) a belső ellenőrző és információs rendszer működtetésére,
+  - ac) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
+  - ad) az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
+  - ae) a megerősített eljárás esetköreire és feltételrendszerére,
+  - af) a képzési programra,
+  - ag) az ügylet felfüggesztésére,
+  - ah) az ügyfél és a tényleges tulajdonos vonatkozásában a kiemelt közszereplői minőség megállapításával kapcsolatos kockázatkezelési rendszer kialakítására,
+  - ai) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára;
+- b) az 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók tekintetében a kijelölt felelős vezető és a megfelelési vezető kijelölésére és helyettesítésére;
+- c) az 1. § (1) bekezdés s) pontjában meghatározott szolgáltatók tekintetében a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre
 
 vonatkozó részletszabályokat.
 

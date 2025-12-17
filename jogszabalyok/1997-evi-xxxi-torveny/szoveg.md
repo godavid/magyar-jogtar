@@ -3984,7 +3984,7 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 
 (2b) A gyámhatóság – a nemzetközi örökbefogadás kivételével – a Ptk. 4:122. § (2) bekezdése szerinti esetben az örökbefogadás engedélyezéséről kilencven napon belül dönt.
 
-(3) A hatodik életévét betöltött vagy egészségileg károsodott gyermek esetében a gyámhatóság a szülő titkos örökbefogadáshoz való hozzájárulásához a Ptk. 4:126. § (3) bekezdése szerint szükséges jóváhagyását a hozzájáruló nyilatkozat megtételének napját követő két hónapon belül megtagadhatja. Ha a szülő a hozzájáruló nyilatkozatát a gyermek születését megelőzően tette meg, a jóváhagyás megtagadására irányadó határidő egészségileg károsodott gyermek esetén a gyermek születésekor kezdődik. Két hónap elteltével – ha a gyámhatóság nem foglal állást – a nyilatkozatot jóváhagyottnak kell tekinteni.
+(3)
 
 128/C. § Az örökbefogadás engedélyezése iránti eljárásban az iratbetekintési jog a titkos örökbefogadással összefüggésben a Ptk. 4:126. § (6) bekezdésében, a származás megismeréséhez fűződő joggal összefüggésben a Ptk. 4:135. §-ában foglalt korlátozással gyakorolható.
 
@@ -5053,7 +5053,7 @@ van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti
 
 154. § (1) Nem állapítható meg gondozási díj, ha
 
-- a) a szülő gyermeke ismeretlen személy általi örökbefogadásához járult hozzá, illetve a hatodik életévét betöltött vagy egészségileg károsodott gyermek esetében a szülői nyilatkozatot a gyámhatóság jóváhagyta,
+- a) a szülő gyermeke ismeretlen személy általi örökbefogadásához járult hozzá,
 - b) a szülő a nevelőszülőnél vagy a gyermekotthonban a gyermekéről személyesen gondoskodik,
 - c) a kötelezett rendszeres jövedelemmel nem rendelkezik.
 

@@ -14,9 +14,7 @@ a Budapest Diákváros megvalósításáról
 
 (5) A (2) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (4) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (4) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (4) bekezdésben foglaltakat kell alkalmazni.
 
-2. § (1) Az 1. § (2) bekezdése szerinti ingatlanok közül az 1. mellékletben felsorolt állami tulajdonban lévő ingatlanok tekintetében az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására a felsőoktatásért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) jogosult.
-
-(2) Az 1. mellékletben felsorolt ingatlanok tekintetében a tulajdonosi jogok gyakorlására jogosult Minisztériumot az ingatlanügyi hatóság a Minisztérium kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba.
+#### 2. §
 
 #### 3. §
 
@@ -48,9 +46,9 @@ a Budapest Diákváros megvalósításáról
 
 (2) A Kormány által rendeletben kijelölt ingatlanok telke rendezettnek minősül, ha a helyi építési szabályzatnak megfelelő telekalakítási eljárásban a telekalakítási engedély rendelkezésre áll, és a változási vázrajzot az ingatlanügyi hatóság záradékolta. A telekalakítási engedély alapján az ingatlan-nyilvántartásba történő bejegyzésre vonatkozó változásátvezetési eljárást a használatbavételi engedély kiadásáig kell kérelmezni.
 
-8. § (1) Az 1. § (1) bekezdése szerinti közfeladat ellátása érdekében állami tulajdonba kerülő ingatlan tekintetében az államot megillető jogok és kötelezettségek összességének gyakorlására a Minisztérium jogosult. A tulajdonosi jogok gyakorlására jogosult Minisztériumot az ingatlanügyi hatóság a Minisztérium kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba.
+8. § (1)
 
-(2) Az (1) bekezdés alapján az állam tulajdonába kerülő ingatlan esetén az önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településszerkezeti tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
+(2) Az állam tulajdonába kerülő ingatlan esetén az önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településszerkezeti tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
 
 #### 3. Záró rendelkezések
 
@@ -76,14 +74,3 @@ a Budapest Diákváros megvalósításáról
 #### 15. §
 
 ### 1. melléklet a 2021. évi LXXX. törvényhez
-
-#### A Minisztérium tulajdonosi joggyakorlásába kerülő állami tulajdonú ingatlanok
-
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
-| 2. | Budapest | 38089 | 1/1 | kivett beépítetlen terület |
-| 3. | Budapest | 38080/2 | 1/1 | kivett beépítetlen terület |
-| 4. | Budapest | 38087 | 1/1 | kivett beépítetlen terület |
-| 5. | Budapest | 38086/80 | 1/1 | kivett építési terület |
-| 6. | Budapest | 38047 | 1/1 | kivett beépítetlen terület |

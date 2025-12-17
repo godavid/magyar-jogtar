@@ -294,7 +294,7 @@ rendeletben jelölje ki.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy rendeletben állapítsa meg a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés a)–e) és m) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
 
-(4) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
+(4) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés i) és s) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
 
 18. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2017. június 26-án lép hatályba.
 
