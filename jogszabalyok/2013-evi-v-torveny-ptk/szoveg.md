@@ -5101,6 +5101,10 @@ A gyermek, a gyermek halála után leszármazója vagy a vér szerinti anya kér
 
 (5) A gyámhatóság az örökbefogadást az e törvényben meghatározott feltételek megléte esetén is akkor engedélyezi, ha az a kiskorú gyermek érdekében áll. A kiskorú gyermek érdekében a gyámhatóság elsősorban a házasságban élő örökbefogadók általi örökbefogadást engedélyezi.
 
+(6) Nevelésbe vett gyermek örökbefogadásakor előnyben részesül az, aki a gyámhatóság határozata alapján nála elhelyezett gyermeket ellenszolgáltatás ellenében saját háztartásában nevel (a továbbiakban: gyermekvédelmi nevelőszülő), amennyiben a gyermeket legalább két éve folyamatosan neveli, az örökbefogadásra irányuló eljárást kezdeményezi, és megfelel az örökbefogadás feltételeinek.
+
+(7) Amennyiben a gyermek súlyosan beteg, és számára az örökbefogadási eljárás során nem találtak örökbefogadó szülőt, a gyámhatóság engedélyezheti az örökbefogadást annak a személynek, aki a gyermekkel kialakított személyes kapcsolat révén vállalja a gondozását, megfelel az örökbefogadás feltételeinek, és az örökbefogadás engedélyezése előtt a súlyosan beteg vagy fogyatékos gyermek vonatkozásában az örökbefogadási alkalmasságot megszerezte.
+
 #### 4:121. § [Az örökbefogadó személye]
 
 (1) Gyermeket – a rokonok és a szülő házastársa általi örökbefogadás, valamint a (4) bekezdésben foglalt eset kivételével – csak házastársak fogadhatnak örökbe. Örökbefogadó az a huszonötödik életévét betöltött, cselekvőképes személy lehet, aki a gyermeknél legalább tizenhat évvel, legfeljebb negyvenöt évvel idősebb, és személyisége, körülményei alapján alkalmas a gyermek örökbefogadására. Három év feletti gyermek örökbefogadása iránti kérelem benyújtása esetén az örökbefogadás a gyermek érdekében abban az esetben is engedélyezhető, ha az örökbe fogadó szülő és a gyermek között legfeljebb ötven év a korkülönbség. Rokoni vagy házastársi örökbefogadás esetén a korkülönbségtől el kell tekinteni.
@@ -5115,7 +5119,7 @@ A gyermek, a gyermek halála után leszármazója vagy a vér szerinti anya kér
 
 (1) Az örökbefogadásra való alkalmasságot - jogszabályban meghatározott előzetes eljárás és felkészítés lefolytatását követően - a gyámhatóság állapítja meg.
 
-(2) A rokonok, a szülő házastársa, a gyermeket a szülő hozzájárulásával legalább egy éve folyamatosan a saját háztartásában nevelő örökbe fogadni szándékozó személy és nemzetközi örökbefogadás esetén az örökbe fogadni szándékozó személy alkalmasságát a gyámhatóság az örökbefogadás engedélyezése iránti eljárás során állapítja meg. Ezt a szabályt kell alkalmazni azon személy alkalmasságának megállapítására is, aki a gyámhatóság határozata alapján nála elhelyezett gyermeket ellenszolgáltatás ellenében saját háztartásában neveli (a továbbiakban: gyermekvédelmi nevelőszülő).
+(2) A rokonok, a szülő házastársa, a gyermeket a szülő hozzájárulásával legalább egy éve folyamatosan a saját háztartásában nevelő örökbe fogadni szándékozó személy és nemzetközi örökbefogadás esetén az örökbe fogadni szándékozó személy alkalmasságát a gyámhatóság az örökbefogadás engedélyezése iránti eljárás során állapítja meg. Ezt a szabályt kell alkalmazni a gyermekvédelmi nevelőszülő alkalmasságának megállapítására is.
 
 #### 4:123. § [Az örökbefogadható gyermek]
 
@@ -5154,7 +5158,7 @@ A gyermek, a gyermek halála után leszármazója vagy a vér szerinti anya kér
 
 (2) A szülő a hozzájáruló nyilatkozatát a gyermek születésétől számított hat héten belül - a gyermeknek a szülő vagy a gyermek más hozzátartozója által történő nevelése érdekében - visszavonhatja. A visszavonás lehetőségére a szülőt figyelmeztetni kell.
 
-(3) Ha a gyermek a hatodik életévét betöltötte vagy egészségileg károsodott, a hozzájáruló nyilatkozat érvényességéhez a gyámhatóság jóváhagyása szükséges.
+(3)
 
 (4) A (2) bekezdésben meghatározott esetben a szülő felügyeleti joga a gyermek hathetes életkorának betöltésével szűnik meg. A szülői felügyeleti jog megszűnését a gyámhatóság állapítja meg.
 
@@ -5193,7 +5197,7 @@ A gyermek, a gyermek halála után leszármazója vagy a vér szerinti anya kér
 
 (1) Nemzetközi örökbefogadásnak minősül, ha az örökbefogadás következtében a gyermek végleges jelleggel más országba kerül, függetlenül az örökbefogadó állampolgárságától és attól, hogy a gyermek állampolgársága megváltozik-e.
 
-(2) A gyermek külföldre történő örökbeadása - a rokonok és a szülő házastársa által történő örökbefogadás kivételével - örökbefogadhatóvá nyilvánított, nevelésbe vett gyermek esetén engedélyezhető, feltéve, hogy a nevelésbe vett, örökbefogadható gyermeket belföldön azért nem fogadták örökbe, mert az örökbefogadása érdekében tett intézkedések nem vezettek eredményre.
+(2) A gyermek külföldre történő örökbe adása – a rokonok és a szülő házastársa által történő örökbefogadás kivételével – örökbefogadható, nevelésbe vett gyermek tekintetében a kormányrendeletben meghatározott eljárás lefolytatásával engedélyezhető, feltéve, hogy a nevelésbe vett, örökbefogadható gyermeket belföldön azért nem fogadták örökbe, mert az örökbefogadása érdekében tett intézkedések nem vezettek eredményre.
 
 #### 4:130. § [A haszonszerzés tilalma]
 

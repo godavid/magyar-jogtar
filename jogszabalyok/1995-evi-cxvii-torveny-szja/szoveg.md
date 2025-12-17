@@ -3698,7 +3698,7 @@ a) mint károsult, jogszabályban meghatározott feltételek szerint, közadakoz
 
 b) tartásdíjként jogszabályban meghatározott kötelezettség alapján, ideértve a jogszabályban meghatározott kötelezettség alapján megállapított tartásdíj helyett fizetett összeget is,
 
-c) kártalanításként (ideértve a kisajátítással összefüggő járulékos költségek megtérítését, valamint a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, sérelemdíjként (ide nem értve a nem független felek peren kívüli, bírósági jóváhagyás nélküli megállapodása alapján kifizetett sérelemdíjat), vagyoni elégtételként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
+c) kártalanításként (ideértve a kisajátítással összefüggő járulékos költségek megtérítését, valamint a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, sérelemdíjként (ide nem értve a nem független felek peren kívüli, bírósági vagy közszolgálati döntőbizottsági jóváhagyás nélküli megállapodása alapján kifizetett sérelemdíjat), vagyoni elégtételként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
 
 d) mint bűncselekmény áldozata, támogatásként az áldozatsegítő szolgálattól,
 
