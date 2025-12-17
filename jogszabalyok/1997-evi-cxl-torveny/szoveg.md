@@ -1584,7 +1584,9 @@ az MNM KK-ba beolvad. Az MNM KK az a)–e) pontokban felsorolt intézmények jog
 - a) a munkáltatói jogkör gyakorlója a miniszter, és
 - b) a munkabér összege megegyezik a határozott idejű vezetői kinevezésben meghatározott munkabérrel.
 
-99/E. § Az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvény 9. §-ával megállapított VIII/A. Fejezetben foglalt rendelkezéseket a 2024. október 1-jét követően Magyarországon kiadott, vagy import esetén a 2024. október 1-jét követően Magyarországon forgalomba hozott könyvekre kell alkalmazni.
+99/E. § (1) Az MNM KK alapító okiratában megjelenített közfeladata ellátására jogi személyiséggel rendelkező szervezeti egység hozható létre, illetve az MNM KK tagintézménye jogi személyiséggel rendelkező szervezeti egységgé alakítható. A jogi személyiséggel rendelkező szervezeti egység vezetőjét az MNM KK elnöke a miniszter jóváhagyásával nevezi ki és menti fel. Az MNM KK éves költségvetésében jóváhagyott kiadási előirányzatokból évente meg kell állapítani azokat az összegeket, amelyek a jogi személyiséggel rendelkező szervezeti egység feladatait szolgálják (e § alkalmazásában a továbbiakban: költségvetési keretek). A költségvetési keretek felett kötelezettségvállalásra a szervezeti egység vezetője jogosult. A jogi személyiséggel rendelkező szervezeti egység a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdés c) pont cb) alpontja szerinti ajánlatkérőnek minősül.
+
+(2) Az (1) bekezdés szerinti jogi személyiséggel rendelkező szervezeti egységek belső, egymás közötti kapcsolataiban végzett tevékenység nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti gazdasági tevékenységnek.
 
 ### Felhatalmazások
 

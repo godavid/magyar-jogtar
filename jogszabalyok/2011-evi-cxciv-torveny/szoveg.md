@@ -76,7 +76,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 7. § (1) Az Alaptörvény 36. cikk (6) bekezdésében foglalt nemzetgazdaság tartós és jelentős visszaeséseként kell értelmezni minden olyan esetet, amikor az éves bruttó hazai termék reál értéke csökken.
 
-(2) Az (1) bekezdésben meghatározott esetben a 3/A. § (2) bekezdés b) pontját és a 4. § (2a) bekezdését nem kell alkalmazni. Ha az (1) bekezdés szerinti eset a költségvetési év során következik be, a központi költségvetésről szóló törvény 5. § (1) bekezdése szerinti módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott érték teljesítési kötelezettségének felfüggesztésére irányul.
+(2) Az (1) bekezdésben meghatározott esetben a 3/A. § (1) bekezdését és a 4. § (2a) bekezdését nem kell alkalmazni. Ha az (1) bekezdés szerinti eset a költségvetési év során következik be, a központi költségvetésről szóló törvény 5. § (1) bekezdése szerinti módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott érték teljesítési kötelezettségének felfüggesztésére irányul.
 
 #### 3. Az államadósság keletkezését és növekedését korlátozó szabályok
 
@@ -167,8 +167,9 @@ egybe kell számítani.
 
 10/A. § Az önkormányzat a Kormány előzetes hozzájárulásával kizárólag
 
-- a) jogerős és végrehajtható bírósági határozatban, vagy fizetési meghagyásban foglalt fizetési kötelezettségének teljesítésére, és
-- b) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől elnyert, nem fejlesztési célú pályázata önrészének biztosítására
+- a) jogerős és végrehajtható bírósági határozatban, vagy fizetési meghagyásban foglalt fizetési kötelezettségének teljesítésére,
+- b) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől elnyert, nem fejlesztési célú pályázata önrészének biztosítására, és
+- c) a 8. § (2) bekezdés f) pontja szerinti ügylet esetén a közvetlenül vagy közvetetten, legalább kisebbségi állami tulajdonban álló gazdasági társaság felé fennálló tartozása kiegyenlítésére
 
 köthet naptári éven túli futamidejű működési célú adósságot keletkeztető ügyletet.
 
@@ -402,7 +403,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 - a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről, ennek keretében külön is vizsgálja
   - aa) a költségvetési hiány mértékét,
-  - ab) a 3/A. § (2) bekezdésének való megfelelést, továbbá
+  - ab) a 3/A. § (1) bekezdésének való megfelelést, továbbá
   - ac) a Magyar Nemzeti Bank tőkehelyzete tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 166. § (3) bekezdésében meghatározottnak való megfelelést,
 - b) dönt az Alaptörvény 44. cikk (3) bekezdése szerinti előzetes hozzájárulásról,
 - c) félévente véleményt nyilvánít a központi költségvetésről szóló törvény végrehajtásának helyzetéről és az államadósság várható alakulásáról,
@@ -423,7 +424,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (3) A Kormány a tervezetet a Tanács észrevételének kézhezvételét vagy a (2) bekezdésben meghatározott határidő eredménytelen elteltét követően nyújthatja be az Országgyűlésnek.
 
-(4) Ha a Tanács a (2) bekezdésben meghatározott határidőig a tervezettel kapcsolatos egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és azt követően nyújtja be az Országgyűlésnek. A Kormány a benyújtással egyidejűleg, a törvényjavaslat indokolásában tájékoztatja az Országgyűlést arról, hogy a Tanács észrevételei alapján milyen módosításokat hajtott végre a törvénytervezetben, illetve indokolja a Tanács észrevételeinek esetleges elutasítását. Ha a Tanács véleményében azt állapította meg, hogy a törvénytervezet szerinti kormányzati szektor egyenlege nem felel meg a 3/A. § (2) bekezdése szerinti követelményeknek, akkor a Kormány a törvényjavaslat indokolásában köteles értékelni a 3/A. § (2) bekezdése szerinti követelmények teljesítését.
+(4) Ha a Tanács a (2) bekezdésben meghatározott határidőig a tervezettel kapcsolatos egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és azt követően nyújtja be az Országgyűlésnek. A Kormány a benyújtással egyidejűleg, a törvényjavaslat indokolásában tájékoztatja az Országgyűlést arról, hogy a Tanács észrevételei alapján milyen módosításokat hajtott végre a törvénytervezetben, illetve indokolja a Tanács észrevételeinek esetleges elutasítását. Ha a Tanács véleményében azt állapította meg, hogy a törvénytervezet szerinti kormányzati szektor egyenlege nem felel meg a 3/A. § (1) bekezdése szerinti követelményeknek, akkor a Kormány a törvényjavaslat indokolásában köteles értékelni a 3/A. § (1) bekezdése szerinti követelmények teljesítését.
 
 (5) Az Országgyűlésnek benyújtott központi költségvetésről szóló törvényjavaslatra a Tanács észrevételt tehet.
 
@@ -743,6 +744,8 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 52/B. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2023. évi CXII. törvénnyel (a továbbiakban: Módtv.1.) megállapított 23. § (1) bekezdés a) pontját 2023-ban azzal az eltéréssel kell alkalmazni, hogy a Tanács a Módtv.1. hatálybalépését követő hét napon belül véleményt nyilvánít arról, hogy a Magyar Nemzeti Bank megfelelő tőkeellátottsága érdekében szükséges-e 2024-ben a központi költségvetés terhére térítést nyújtani.
 
 52/B. § E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 10/B. § (5a) bekezdését a Módtv. hatálybalépése előtt jóváhagyott ügyletekre, illetve az azokhoz kapcsolódó fejlesztésekre is alkalmazni kell.
+
+52/C. § E törvénynek az államháztartási tárgyú törvényeknek a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelv átültetésével összefüggő módosításáról szóló 2025. évi XCI. törvénnyel megállapított 10/A. § c) pontját a hatálybalépést megelőzően keletkezett, a hatálybalépéskor már fennálló tartozások kiegyenlítéséhez szükséges adósságot keletkeztető ügyletek megkötése során is alkalmazni kell.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

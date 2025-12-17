@@ -104,7 +104,7 @@ mint állandó szakmai kollégiumot [a továbbiakban az a)–g) pontok együtt: 
 
 (2) Az Alap tárgyévet követő bevételei terhére – éven túli kötelezettségvállalásként – legfeljebb három évre vállalható kötelezettség.
 
-(3) A (2) bekezdésben meghatározott kötelezettségvállalás legfeljebb az Alap éves bevételi előirányzata 50%-áig terjedhet, amely évenként nem haladhatja meg a 20%-ot.
+(3) A (2) bekezdésben meghatározott kötelezettségvállalás legfeljebb az Alap éves bevételi előirányzata 100%-áig terjedhet azzal, hogy annak mértéke a költségvetési évet követő első év kiadási előirányzatai terhére a 70%-ot, második évben a 20%-ot nem haladhatja meg.
 
 7/B. § (1) Az Alapból – a kulturális örökségvédelmi célból megítélt támogatás, illetve a 4. § (1) bekezdésének c) és d) pontja szerinti átadó vagy befizető által meghatározott pályázati célra rendelt támogatás felhasználása kivételével – építési beruházás, felújítás nem támogatható.
 

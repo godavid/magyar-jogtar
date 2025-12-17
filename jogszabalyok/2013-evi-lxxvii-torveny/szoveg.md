@@ -25,6 +25,7 @@ történő megszervezésére (a továbbiakban: felnőttképzési tevékenység),
 - 2. az egyházi jogi személy, a vallási egyesület által közvetlenül vagy az általuk fenntartott felnőttképző által a vallási tevékenység folytatásával összefüggésben történő oktatás, képzés,
 - 3. a munkavédelemről szóló törvény és a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló törvény alapján a munkáltató kötelezettségeként előírt oktatás, képzés,
 - 4. a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény szerinti reintegrációs program keretében történő oktatás, képzés
+- 5. – jogszabály alapján szervezett oktatás, képzés kivételével – az összesen hat óra időtartamot meg nem haladó belső képzés
 
 megszervezésére.
 
@@ -39,18 +40,20 @@ megszervezésére.
 2. § E törvény alkalmazásában:
 
 - 1. belső képzés: az olyan oktatás és képzés, amelyet a munkáltató
-  - a) nem üzletszerű gazdasági tevékenység keretében,
-  - b) – a jogszabály alapján szervezett oktatás, képzés kivételével – összesen hat óra időtartamot meghaladó mértékben, vagy
+  - a) nem üzletszerű gazdasági tevékenység keretében, és
+  - b)
   - c) a saját, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás, valamint a munkáltató beszállítójának, illetve a munkáltató által igénybe vett közreműködő foglalkoztatottja (ideértve a kölcsönzött munkavállalót is, ha a munkaerő-kölcsönzésre kötött megállapodás tartalmazza az arra vonatkozó kitételt, hogy a kölcsönvevő vállalja a kölcsönzött munkavállaló oktatását, képzését is) részére
 
 szervez.
 
 - 2. bemeneti kompetenciamérés: a képzés megkezdéséhez szükséges kompetenciával való rendelkezést igazoló dokumentum hiánya esetén annak felmérése, hogy a képzésre jelentkező birtokában van-e azoknak a kompetenciáknak, amelyek a képzés megkezdéséhez és annak sikeres elvégzéséhez feltétlenül szükségesek,
 - 2a. digitális kollaborációs tér: a tanulmányi rendszerhez és a zárt rendszerű távoktatási képzésmenedzsment-rendszerhez rendszerkapcsolaton keresztül kapcsolódó rendszer, amely biztosítani képes legalább az oktatók, az oktatásszervezők és a képzésben részt vevő személyek egyéni vagy csoportos, interaktív és távolléti kapcsolattal megvalósuló, teljes értékű, digitális online és offline együttműködését, kommunikációját és az oktatással kapcsolatos feladatok komplex kezelését, ideértve többek között az órai, házi, egyéni és csoportos feladatok publikálását, beadását, a beadott feladatok értékelését és online adminisztrációját,
+- 2b. egyéni tanulási számla rendszer: olyan munkaerőpiaci szempontból releváns képzéseket ösztönző rendszer, amely képzésválasztást támogató funkciókkal, elérhető képzési forrásokkal kapcsolatos tájékoztatással, támogató funkciókkal segíti elő a motivációs és pénzügyi akadályok csökkentését, erősítve ezzel az élethosszig tartó tanulás fontosságát,
 - 3. előzetes tudásmérés: annak felmérése, hogy a képzésre jelentkező dokumentumokkal nem igazolt tanulmányai vagy megszerzett gyakorlati tapasztalatai alapján képes-e a képzés során elsajátítandó tananyagegység követelményeinek teljesítésére, amelynek eredményeként a követelmények megfelelő szintű teljesítése esetén a tananyagegység elsajátítására irányuló képzési rész alól a képzésre jelentkezőt fel kell menteni,
 - 4. előzetesen megszerzett tudás beszámítása: a képzésre jelentkező – dokumentummal igazolt – tanulmányainak beszámítása, amelynek eredményeként a tananyagegység elsajátítására irányuló képzési rész alól a képzésre jelentkezőt fel lehet menteni,
 - 5. felnőttképzési tevékenységhez kapcsolódó szolgáltatás: olyan tevékenység, amely a felnőttképzési tevékenység keretében szervezett oktatás, képzés egyénre szabott kialakításának elősegítésére, a képzés hatékonyságának javítására vagy a munkavállalás elősegítésére irányul,
 - 5a. jogszabály alapján szervezett oktatás és képzés: jogszabály által valamely tevékenység folytatásának, munkakör betöltésének, illetve magasabb fizetési besorolás alkalmazásának feltételéül meghatározott olyan oktatás és képzés, amelynek legalább célját, tartalmát és megszervezésének általános feltételeit, továbbá az oktatás, képzés eredményes elvégzésének igazolási módját vagy ahhoz kapcsolódóan szervezett vizsga letételére vonatkozó követelményt jogszabály vagy a polgári nemzetbiztonsági szolgálatok vonatkozásában közjogi szervezetszabályozó eszköz határozza meg, ide nem értve a köznevelési intézmény, a szakképző intézmény, illetve törvényben meghatározott oktatási és tehetséggondozó intézmény alapfeladatába vagy a felsőoktatási intézmény alaptevékenységébe tartozó, valamint a szakképzettségre, szakképesítésre felkészítő oktatást és képzést,
+- 5b. képzés formája: a képzés kontaktóra – amely lehet jelenléti vagy online kontaktóra –, távoktatás vagy zárt rendszerű elektronikus távoktatás keretében megvalósult formája,
 - 6. képzés megkezdésének időpontja: a képzés első kontaktórájának időpontja, a folyamatban lévő képzésbe bekapcsolódó képzésben részt vevő személy esetében az első kontaktóra időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben részt vevő személy számára történő megküldésének vagy más módon történő rendelkezésre bocsátásának időpontja,
 - 6a. képzés befejezésének időpontja: a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag vagy résztananyag elsajátítására megállapított utolsó időpont vagy ha a képzés elvégzése meghatározott követelményhez kötött, annak teljesítésének napja,
 - 7. kompetencia: olyan ismeretek, készségek és képességek összessége, amely által a személy egy adott területen képes meghatározott döntésen és a megvalósításon alapuló eredmény elérésére,
@@ -79,7 +82,9 @@ szervez.
 
 szervez, e felnőttképzési tevékenységét a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti engedély alapján végezheti.
 
-(3) A szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységeket engedély nélkül is végezhet.
+(3) A szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységeket engedély nélkül is végezhet, függetlenül attól, hogy részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból valósul-e meg.
+
+(4) A rendvédelmi feladatokat ellátó szerveknél hivatásos szolgálati jogviszonyban betölthető szolgálati beosztás betöltéséhez előírt szakképesítésre felkészítő szakmai képzések megszervezése a (2) bekezdés szerinti engedélyen felül a személyi és tárgyi feltételek meglétének igazolásához köthető, amennyiben annak módját a programkövetelmény tartalmazza.
 
 2/B. § (1) A 2/A. § (2) bekezdése szerinti felnőttképzési tevékenység folytatására engedély annak adható,
 
@@ -208,13 +213,15 @@ kell folytatnia,
 
 11/A. § (1) A szakképzésről szóló törvény szerinti szakmai képzés kimeneti követelményeit meghatározó programkövetelményekről a felnőttképzésért felelős miniszter elektronikus nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a felnőttképzésért felelős miniszter a felnőttképzés adatszolgáltatási rendszerén keresztül közzéteszi.
 
-(2) Programkövetelményre, annak módosítására és törlésére a felnőttképzésért felelős miniszternek bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, a Kormány rendeletében meghatározottak szerinti szakértő rendelhető ki. A kérelmező ügyfél a programkövetelmény nyilvántartásba vétele, annak módosítása és törlése iránti eljárásért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet.
+(2) Programkövetelményre, annak módosítására és törlésére a felnőttképzésért felelős miniszternek kérelem formájában bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, a Kormány rendeletében meghatározottak szerinti szakértő rendelhető ki. A kérelmező ügyfél a programkövetelmény nyilvántartásba vétele, annak módosítása és törlése iránti eljárásért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet.
 
 (3) Nem köteles a kérelmező a (2) bekezdés szerinti igazgatási szolgáltatási díjat megfizetni az adott ágazat által kezdeményezett és jogszabály valamely munkakör betöltéséhez kapcsolódó szakképesítés megszerzésére vonatkozó programkövetelményének kérelme, valamint a szakgimnázium keretében az alaptevékenységéhez kapcsolódó szakmai képzést érintő kérelmek esetében. Az igazgatási szolgáltatási díj a felnőttképzésért felelős miniszter által vezetett minisztérium bevétele.
 
 (4) A szakképzésről szóló törvény szerinti ágazati készségtanács szakvéleményt adhat a felnőttképzésért felelős miniszter számára a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben.
 
 (5) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a felnőttképzés adatszolgáltatási rendszeréből nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
+
+(6) A programkövetelmény felnőttképzésért felelős miniszter által történő felülvizsgálati eljárása a felülvizsgálattal érintett programkövetelmény módosítására, törlésére vonatkozó kérelemre indult eljárást a felülvizsgálat idejére felfüggeszti.
 
 #### 6. A képzési program tartalma
 
@@ -257,6 +264,8 @@ kell folytatnia,
 
 (3) A tanúsítvány a magyar nyelv mellett kiállítható magyar és angol vagy magyar és német nyelven is a képzésben résztvevő választása szerint.
 
+(4) A képzés egyes tananyagegységeinek elvégzéséről tanúsítvány nem állítható ki.
+
 13/C. § (1) A nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény a felsőoktatási intézmény bármely tantárgyának, kurzusának, moduljának elvégzését követően a tanulási eredmény igazolására szolgáló, tárgyleírást, tematikát is tartalmazó mikrotanúsítványt állíthat ki a nemzeti felsőoktatásról szóló törvényben meghatározott feltételek alapján.
 
 (2) A szakképzésről szóló törvény szerinti szakképző intézmény a szakképzésről szóló törvény szerinti szakmai oktatás keretében megszerzett ismeretekről, készségekről a szakképzésről szóló törvényben meghatározott módon, tartalommal és feltételek alapján mikrotanúsítványt állíthat ki.
@@ -288,9 +297,9 @@ kell folytatnia,
   - da) amely részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból valósul meg, vagy
   - db) amelynek esetében a képzési hitelt nyújtó szerv legalább egy képzésben résztvevővel szerződést kötött
 
-vonatkozó adatot szolgáltat a felnőttképzési államigazgatási szerv részére a felnőttképzés adatszolgáltatási rendszerében. Az adatszolgáltatási kötelezettségnek legkésőbb a képzés megkezdését, valamint az adatokban bekövetkezett változás esetén legkésőbb az adatváltozás keletkezését, az adatokban bekövetkezett változás esetén legkésőbb az adatváltozás keletkezését követő harmadik munkanapig, belső képzés esetén annak a negyedévnek az utolsó napjáig kell eleget tenni, amelyikbe a belső képzés befejezésének időpontja esik.
+vonatkozó adatot szolgáltat a felnőttképzési államigazgatási szerv részére a felnőttképzés adatszolgáltatási rendszerében. Az adatszolgáltatási kötelezettségnek legkésőbb a képzés megkezdését, valamint az adatokban bekövetkezett változás esetén legkésőbb az adatváltozás keletkezését követő harmadik munkanapig, belső képzés esetén annak a negyedévnek az utolsó napjáig kell eleget tenni, amelyikbe a belső képzés befejezésének időpontja esik.
 
-(1a) Az (1) bekezdés szerinti adatszolgáltatás nem terjed ki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv, a Nemzeti Adó- és Vámhivatal, a Magyar Honvédség, illetve a nemzetbiztonsági szolgálatok által vagy azok állománya számára szervezett oktatásra, képzésre és ahhoz kapcsolódóan a képzésben részt vevő személyre, ha annak eltérő kezelése e szervek tevékenységével összefüggésben Magyarország rendvédelmi, honvédelmi vagy nemzetbiztonsági érdekeinek érvényesítése céljából szükséges.
+(1a) Az (1) bekezdés szerinti adatszolgáltatás nem terjed ki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv – azon szakképesítésre felkészítő szakmai képzések kivételével, amelyek megkezdése a személyi és tárgyi feltételek meglétének ellenőrzésével kapcsolatban kiállított igazoláshoz, valamint annak FAR-ba történő feltöltéséhez kötött –, a Nemzeti Adó- és Vámhivatal, a Magyar Honvédség, illetve a nemzetbiztonsági szolgálatok által vagy azok állománya számára szervezett oktatásra, képzésre és ahhoz kapcsolódóan a képzésben részt vevő személyre, ha annak eltérő kezelése e szervek tevékenységével összefüggésben Magyarország rendvédelmi, honvédelmi vagy nemzetbiztonsági érdekeinek érvényesítése céljából szükséges.
 
 (1b) A felnőttképzés adatszolgáltatási rendszerében kezelt személyes adatok azonosítása, ellenőrzése és pontosítása, valamint a pályakövetési rendszer és a munkaerő-piaci előrejelző rendszer működtetése céljából
 
@@ -457,7 +466,8 @@ kapcsolatosak.
 - a) a felnőttképzési tevékenységhez szükséges engedély megszerzésére,
 - b) felnőttképzési tevékenység keretében szervezett képzésre,
 - c) a felnőttképzők technikai feltételei fejlesztésére
-- d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.
+- d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre, valamint
+- e) az egyéni tanulási számla alapján felhasználható képzésre.
 
 24. § A képzésben részt vevő személy az általa megkötött felnőttképzési szerződéshez kapcsolódóan a Kormány rendeletében meghatározottak szerint
 
@@ -550,6 +560,7 @@ a Kormány rendeletében meghatározott feltételek mellett együttműködési m
 - b) az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szervet,
 - c) a képzési hitelt nyújtó szervet és
 - d) a munkaerő-piaci előrejelző rendszer működéséért felelős szervet
+- e) az egyéni tanulási számla rendszer működtetéséért felelős szervezetet
 
 rendeletben jelölje ki.
 
@@ -568,9 +579,10 @@ rendeletben jelölje ki.
 (3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy
 
 - a) az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése, valamint a 11/A. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét,
-- b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait,
+- b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait, valamint a programkövetelmények angol, illetve német nyelvű megnevezésének közzétételére vonatkozó szabályokat,
 - c) rendeletben határozza meg a kontaktórás, távoktatási és zárt rendszerű elektronikus távoktatási képzési formában megvalósuló képzések szakszerű és jogszabálynak megfelelő megszervezéséhez, lebonyolításához, valamint az adatszolgáltatási kötelezettséghez kapcsolódó ellenőrzésének részletes szabályait,
 - d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a 13/C. § alapján kiállított mikrotanúsítványnak a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait.
+- e) rendeletben határozza meg az egyéni tanulási számla rendszer működésének részletszabályait.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
@@ -578,6 +590,8 @@ rendeletben jelölje ki.
 - b) az Igazságügyi Akkreditációs Testület feladatkörére, összetételére, létszámára és a testület tagjainak kinevezésére
 
 vonatkozó részletes szabályokat.
+
+(5) Felhatalmazást kap a rendvédelmi feladatokat ellátó szervet irányító miniszter – az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, az Országgyűlés elnöke véleményének kikérésével –, hogy rendeletben határozza meg a 2/A. § (4) bekezdése szerinti, a szakképesítésre felkészítő szakmai képzések megszervezéséhez kapcsolódó személyi és tárgyi feltételek igazolásának kiállítására vonatkozó részletszabályokat.
 
 #### 28/A. §
 
