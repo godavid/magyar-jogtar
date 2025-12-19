@@ -619,11 +619,28 @@ vonatkozó rendelkezéseit azzal, hogy az ügyfélre vonatkozó szabályokat az 
 
 (5) A Gazdasági Versenyhivatal az ágazati vizsgálat vagy gyorsított ágazati vizsgálat eredményéről készített jelentést, valamint az írásbeli észrevételekről, illetve a meghallgatásról készült összefoglalót vagy jegyzőkönyvet, továbbá – ha kérik – az ágazatban működő vállalkozásoknak a jelentés tartalmára vonatkozó érdemi észrevételeit tartalmazó dokumentumok korlátozottan megismerhető adatot nem tartalmazó változatát honlapján közzéteszi.
 
-43/F. § Ha a piacelemzés, az ágazati vizsgálat vagy a gyorsított ágazati vizsgálat eredménye alapján olyan piaci zavar áll fenn, amely versenyfelügyeleti eljárás révén nem vagy nem teljeskörűen orvosolható, a Gazdasági Versenyhivatal
+43/F. § (1) Ha a piacelemzés, az ágazati vizsgálat vagy a gyorsított ágazati vizsgálat eredménye alapján olyan piaci zavar áll fenn, amely versenyfelügyeleti eljárás révén nem vagy nem teljeskörűen orvosolható, a Gazdasági Versenyhivatal
 
 - a) erről tájékoztatja az Országgyűlés feladatkörrel rendelkező bizottságát, illetve a feladat- és hatáskörrel rendelkező minisztert vagy hatóságot,
 - b) kötelező erővel nem rendelkező nyilvános ajánlást adhat ki a piaci szereplők számára a tisztességes és hatékony verseny fenntartását és előmozdítását, az üzletfelek megfelelő tájékoztatását elősegítő legjobb gyakorlatokra, követendőként ajánlott piaci magatartásra vonatkozóan, vagy
 - c) szükség esetén jogszabály megalkotását vagy módosítását kezdeményezheti az arra jogosult szervnél.
+
+(2) Ha a Gazdasági Versenyhivatal a szilárd ásványi nyersanyagok bányászatára vagy az építőiparra vonatkozó gyorsított ágazati vizsgálat eredménye alapján megállapítja, hogy a vizsgált ágazatban egy vállalkozás, illetve vállalkozáscsoport (e § alkalmazásában a továbbiakban együtt: vállalkozás) piacokon átívelő jelentőséggel rendelkezik, amelynek következtében a verseny jelentős mértékben és folyamatosan torzulhat vagy korlátozódhat, akkor versenyfelügyeleti eljárást indít az érintett vállalkozás nevesített tagjával szemben.
+
+(3) A (2) bekezdés alkalmazásában a verseny jelentős mértékű és folyamatos torzulása vagy korlátozása akkor állhat fenn, ha
+
+- a) a versenytorzulás vagy versenykorlátozás a gyorsított ágazati vizsgálat megindítását megelőzően legalább két éve folyamatosan fennáll, vagy
+- b) a versenytorzulás vagy versenykorlátozás a gyorsított ágazati vizsgálat megindítását megelőző három éven belül visszatérően előfordult.
+
+(4) A (2) bekezdés alkalmazásában a piacokon átívelő jelentőséggel rendelkező vállalkozásként minősüléshez vizsgálni kell különösen
+
+- a) a vállalkozás
+  - aa) piaci részesedését,
+  - ab) pénzügyi erejét vagy más erőforrásokhoz való hozzáférését,
+  - ac) vertikális integráltságát, illetve az egymással egyéb módon összefüggő piacokon való tevékenységét,
+  - ad) versenyben releváns adatokhoz való hozzáférését,
+- b) a vállalkozás által nyújtott szolgáltatás, illetve előállított vagy forgalmazott áruk fogyasztók vagy a gazdaság szempontjából alapvető jelentőségét, illetve
+- c) a vállalkozás tevékenységének jelentőségét harmadik felek vagy a fogyasztók beszerzési és értékesítési piacokhoz való hozzáférése szempontjából, valamint ezzel összefüggésben a vállalkozás harmadik felek üzleti tevékenységére gyakorolt befolyását.
 
 ### IX. Fejezet — Bejelentés és panasz
 
@@ -767,7 +784,7 @@ eljárásának általános szabályai
 
 ### A versenyfelügyeleti eljárás, a Gazdasági Versenyhivatal hatásköre és illetékessége
 
-44. § (1) Versenyfelügyeleti eljárás az e törvény – ide nem értve a II. Fejezetet – rendelkezései megsértésének megállapítására, valamint a vállalkozások összefonódásának e törvény szerinti vizsgálatára irányuló, továbbá a külön törvényben ekként megjelölt hatósági eljárás.
+44. § (1) A versenyfelügyeleti eljárás az e törvény – ide nem értve a II. Fejezetet – rendelkezései megsértésének megállapítására, a vállalkozások összefonódásának e törvény szerinti vizsgálatára irányuló, valamint a 43/F. § (2) bekezdése alapján indított, továbbá törvényben ekként megjelölt hatósági eljárás.
 
 (2) A versenyfelügyeleti eljárást a Gazdasági Versenyhivatal folytatja le. A Gazdasági Versenyhivataltól a hatáskörébe tartozó ügy nem vonható el.
 
@@ -1109,13 +1126,14 @@ kell figyelembe venni.
 
 - a) a III. Fejezet rendelkezéseinek megsértése miatt indított eljárásban három hónap,
 - b) a 11. §-ban vagy a 21. §-ban, illetve az EUMSz. 101. vagy 102. cikkében tilalmazott magatartások miatt indított eljárásban hat hónap,
-- c) a 67. § (3), (6) vagy (8) bekezdése alapján indított eljárásban hat hónap,
-- d) a 67. § (4) bekezdés a) pontja, (5) vagy (5a) bekezdése alapján indított eljárásban négy hónap,
-- e) a 67. § (4) bekezdés b) pontja alapján indított eljárásban – a (3) bekezdés szerinti eltéréssel – harminc nap,
-- f) a 67. § (7) bekezdése alapján indított eljárásban hatvan nap,
-- g) a 67. § (9) bekezdése alapján indított eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pont szerinti időtartam.
+- c) a 43/F. § (2) bekezdése alapján indított eljárásban három hónap,
+- d) a 67. § (3), (6) vagy (8) bekezdése alapján indított eljárásban hat hónap,
+- e) a 67. § (4) bekezdés a) pontja, (5) vagy (5a) bekezdése alapján indított eljárásban négy hónap,
+- f) a 67. § (4) bekezdés b) pontja alapján indított eljárásban – a (3) bekezdés szerinti eltéréssel – harminc nap,
+- g) a 67. § (7) bekezdése alapján indított eljárásban hatvan nap,
+- h) a 67. § (9) bekezdése alapján indított eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pont szerinti időtartam.
 
-(3) Ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, az ügyintézési határidő a (2) bekezdés d) pontja szerinti határidő.
+(3) Ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, az ügyintézési határidő a (2) bekezdés e) pontja szerinti határidő.
 
 (4) A versenyfelügyeleti eljárás 70/A. § (1) bekezdése szerinti szétválasztása esetén a szétválasztás utáni eljárásokra a szétválasztás előtt irányadó ügyintézési határidő az irányadó.
 
@@ -1149,9 +1167,9 @@ kell figyelembe venni.
 
 - a) a (2) bekezdés a) pontja szerinti eljárásban két alkalommal, egyenként legfeljebb két hónappal,
 - b) a (2) bekezdés b) pontja szerinti eljárásban két alkalommal, egyenként legfeljebb hat hónappal,
-- c) a (2) bekezdés c) és d) pontja szerinti eljárásban egy alkalommal legfeljebb két hónappal,
-- d) a (2) bekezdés e) és f) pontja szerinti eljárásban egy alkalommal legfeljebb húsz nappal,
-- e) a (2) bekezdés g) pontja szerinti eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pontban meghatározottak szerint,
+- c) a (2) bekezdés c)–e) pontja szerinti eljárásban egy alkalommal legfeljebb két hónappal,
+- d) a (2) bekezdés f) és g) pontja szerinti eljárásban egy alkalommal legfeljebb húsz nappal,
+- e) a (2) bekezdés h) pontja szerinti eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pontban meghatározottak szerint,
 - f) a (3) bekezdés szerinti esetben további egy alkalommal, legfeljebb két hónappal
 
 meghosszabbíthatja.
@@ -1330,6 +1348,8 @@ számított hatvan napon belül kell előterjeszteni.
 67. § (1) A versenyfelügyeleti eljárás a vizsgálatot elrendelő végzés meghozatalának napján hivatalból indul.
 
 (2) A vizsgáló végzéssel vizsgálatot rendel el a Gazdasági Versenyhivatal hatáskörébe tartozó, valószínűsíthetően jogsértő magatartás észlelése esetén, ha a közérdek védelme versenyfelügyeleti eljárás lefolytatását szükségessé teszi.
+
+(2a) A vizsgáló végzéssel vizsgálatot rendel el a 43/F. § (2) bekezdése szerinti esetben, egyidejűleg kikéri a Szabályozott Tevékenységek Felügyeleti Hatóságának állásfoglalását a 43/F. § (4) bekezdés a) pont aa) és ac) alpontjában, b) pontjában, valamint c) pontjában foglaltak tekintetében. A Szabályozott Tevékenységek Felügyeleti Hatóságának állásfoglalására és eljárására az Ákr. szakhatósági eljárásra vonatkozó szabályait kell alkalmazni azzal, hogy a Szabályozott Tevékenységek Felügyeleti Hatósága szakhatósági eljárásának határideje hatvan nap. A Szabályozott Tevékenységek Felügyeleti Hatósága szakhatósági állásfoglalása a Gazdasági Versenyhivatalt köti.
 
 (3) A vizsgáló végzéssel vizsgálatot rendel el, ha valószínűsíthető, hogy a 24. § (1)–(3) bekezdése szerinti összefonódást a 29. § szerinti tilalom ellenére végrehajtották.
 
@@ -1558,12 +1578,20 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 - m) a 75. § alapján a vállalkozást a kötelezettségvállalás teljesítésére kötelezi,
 - n) a 67. § (7) bekezdés c) pontja alapján indított eljárásban megállapítja, hogy a 75. § (1) bekezdése alapján hozott határozat a döntés szempontjából lényeges ténynek a kötelezett vállalkozás általi félrevezető közlésén alapult, és a határozatot visszavonja, vagy
 - o) megállapítja, hogy a magatartás nem jogsértő.
+- p) a jogsértés tényének megállapítása nélkül megállapítja a vállalkozás vagy vállalkozáscsoport piacokon átívelő jelentőségét, valamint, hogy a vállalkozás vagy vállalkozáscsoport magatartása hozzájárul a 43/F. § (2) bekezdése szerinti jelentős mértékű és folyamatos versenytorzuláshoz vagy versenykorlátozáshoz, és számára arányos és a versenytorzulás vagy versenykorlátozás megszüntetéséhez szükséges kötelezettséget – ideértve különösen a magatartására vonatkozó vagy szerkezeti korrekciós intézkedéseket – ír elő.
 
 (2) Az összefonódást megtiltó határozatban az eljáró versenytanács – ha alkalmazandó – egyidejűleg dönt a 31. § szerinti intézkedés alkalmazásáról is.
 
 (3) Az (1) bekezdés d) vagy e) pontja szerinti megállapítás mellett bírság kiszabásának nincs helye.
 
 (4) Az (1) bekezdés i) pontjában meghatározott esetben az azonos mértékben hatékony kötelezettségek közül az eljáró versenytanács az arányosság elvével összhangban a vállalkozás számára a legkevésbé megterhelő kötelezettséget írja elő. Ez nem zárja ki, hogy az eljáró versenytanács az (1) bekezdés i) pontja keretében több kötelezettséget is megállapítson.
+
+76/A. § Az eljáró versenytanács a 43/F. § (2) bekezdése alapján indított eljárásban hozott határozatában
+
+- a) megtilthatja, hogy a piacokon átívelő jelentőséggel rendelkező vállalkozás vagy vállalkozáscsoport (a továbbiakban együtt: piacokon átívelő jelentőséggel rendelkező vállalkozás) a saját ajánlatát kedvezőbben kezelje az üzletfelei ajánlatánál,
+- b) tájékoztatási kötelezettséget állapíthat meg a piacokon átívelő jelentőséggel rendelkező vállalkozás számára az általa üzletfeleknek nyújtott szolgáltatás teljesítményéről, illetve annak minőségéről,
+- c) előírhatja, hogy a piacokon átívelő jelentőséggel rendelkező vállalkozás a saját ajánlatát tegye hozzáférhetővé más vállalkozások számára is, vagy
+- d) kötelezheti a piacokon átívelő jelentőséggel rendelkező vállalkozás tulajdonosait a társasági részesedésük részben vagy egészben történő értékesítésére, illetve a piacokon átívelő jelentőséggel rendelkező vállalkozást a vagyonának részben vagy egészben történő értékesítésére, amennyiben az a)–c) pontban foglalt intézkedések nem lehetségesek, nem hatékonyak vagy a piacokon átívelő jelentőséggel rendelkező vállalkozás számára aránytalanul nagyobb terhet jelentenének.
 
 ### Utóvizsgálat
 
@@ -1573,6 +1601,7 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 - b) a 30. § (3) bekezdése szerinti kötelezettség teljesítését,
 - c) a 75. § szerinti kötelezettségvállalás teljesítését, továbbá
 - d) meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozó, az a)–c) pontban nem említett kötelezettség teljesítését, ha az a rendelkezésre álló adatokból nem állapítható meg.
+- e) a 76/A. § szerinti kötelezettség teljesítését.
 
 (2) A határozatnak a 32. § (4) bekezdése, illetve a 75. § (3) bekezdése szerinti módosítása iránti kérelmet utóvizsgálat keretében kell elbírálni.
 
