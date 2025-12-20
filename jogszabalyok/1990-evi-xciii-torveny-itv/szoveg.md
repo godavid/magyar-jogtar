@@ -1590,9 +1590,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (5) Az (1)–(4) bekezdésben említett bejelentési kötelezettség – a 17. § (1) bekezdés k), l), m), p), r), s), w) pontja, 17. § (1a) bekezdés a)–b) és d) pontja alá eső ügylet, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat ingyenes megszerzése, valamint a 26. § (1) bekezdés g), h), o) pontja és a 26. § (1a) bekezdés e) pontja alá eső ügylet kivételével – az illetékmentes vagyonszerzésre is vonatkozik.
 
-92. § (1) Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzés végett benyújtott szerződés (okirat) iktatószámmal ellátott és hitelesített másolatát az illetékkiszabáshoz szükséges és rendelkezésre álló egyéb iratokkal együtt az ingatlan-nyilvántartási eljárás befejezését követően haladéktalanul, kísérőjegyzékkel továbbítja az állami adóhatósághoz. Az ingatlanügyi hatóság az ingatlan pénzügyi lízingjére vonatkozó, a futamidő végén tulajdonjog átszállást eredményező szerződéseket a pénzügyi lízingbeadás tényének feljegyzését követően küldi meg az állami adóhatóság részére. A kísérőjegyzék átadása történhet számítógépes adathordozón is.
-
-(2) Az ingatlanügyi hatóság (1) bekezdésben említett kötelezettsége független attól, hogy a vagyonszerzés illetékköteles vagy illetékmentes.
+#### 92. §
 
 ### Az illetékbélyeg értékének visszatérítése
 

@@ -105,30 +105,36 @@ csoportos adóalanyiságot hozhatnak létre.
 
 - a) a tagok által kijelölt képviselőt és a képviselő feltétlen beleegyező nyilatkozatát a képviselet vállalására; továbbá
 - b) tagonként külön-külön:
-  - ba) a tag nevét, címét és adószámát;
+  - ba) a tag nevét és adószámát;
   - bb) az (1) bekezdésben említett jogállás fennállásának igazolását;
-  - bc) a nyilvántartási rendszer bemutatását, amely alkalmas a (2) bekezdésben említett belső és külső kapcsolatok egyértelmű, megbízható és maradéktalan elkülönítésére;
+  - bc) a tag nyilatkozatát arról, hogy a nyilvántartási rendszere alkalmas a (2) bekezdésben említett belső és külső kapcsolatok egyértelmű, megbízható és maradéktalan elkülönítésére;
   - bd) kötelezettségvállalást a (6) bekezdés teljesítésére;
 - c) kívül maradó adóalany esetében:
-  - ca) az adóalany nevét, címét és adószámát;
+  - ca) az adóalany nevét és adószámát;
   - cb) az (1) bekezdésben említett jogállás fennállásának igazolását;
   - cc) kötelezettségvállalást a (7) bekezdés teljesítésére.
 
 (3a) A csoportos adóalanyiság létrehozására irányuló kérelemben megjelölhető, hogy mely időponttal kérik a csoportos adóalanyiság létrehozását. A csoportos adóalanyiság a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (3) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
 
-(4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiság időszakában és a csoportos adóalanyiság megszűnését követően a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő.
+(4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiság időszakában és a csoportos adóalanyiság megszűnését követően a csoportos adóalanyiságban részt vevő tagok vagy az állami adó- és vámhatóság által kijelölt képviselő.
+
+(4a) A képviselő ilyen minőségében történő megszűnése esetén a tagoknak az új képviselő (3) bekezdés a) pontja szerinti kijelölését és bejelentését a megszűnést követő 15 napon belül kell megtenni. Ennek hiányában, az állami adó- és vámhatóság a legnagyobb adóteljesítménnyel rendelkező tagot jelöli ki képviselőként.
+
+(4b) A képviselő ilyen minősége megszűnik abban az esetben is, ha felszámolási eljárás vagy kényszertörlési eljárás alá kerül, az eljárás alá kerülés napjával.
+
+(4c) Ha a képviselő a csoportos adóalanyiság megszűnését követően jogutód nélkül szűnik meg, kerül felszámolási eljárás vagy kényszertörlési eljárás alá, a kijelölést és bejelentést azoknak a tagoknak vagy jogutódjaiknak kell megtenniük, akik (amelyek) a megszűnt csoportos adóalany megszűnését megelőző utolsó adómegállapítási időszakában tagoknak minősültek. A jogutód nélküli megszűnéssel esik egy tekintet alá, ha a képviselő belföldi székhellyel rendelkező jogutód nélkül szűnik meg.
 
 (5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a csoportos adóalanyiság létrejöttét megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 
 (6) A csoportos adóalanyiságban részt vevő bármely tag – mind a csoportos adóalanyiság időszakában, mind azt követően – egyetemlegesen felelős a csoportos adóalanyiságban részt vevő valamennyi többi taggal együtt a csoportos adóalanyiságban részt vevő tagnak
 
 - a) a csoportos adóalanyiság időszakát megelőzően keletkezett, az (5) és (9) bekezdésben meghatározott kötelezettsége teljesítéséért, és
-- b) a csoportos adóalanyiság időszakában, e törvény alapján keletkező kötelezettsége teljesítéséért.
+- b) a csoportos adóalanyiság időszakában, e törvény szerinti kötelezettségek teljesítéséért, ideértve ezen kötelezettségek megszegéséből fakadó, az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti jogkövetkezményeket is.
 
 (7) A kívül maradó adóalany – mind a csoportos adóalanyiság időszakában, mind azt követően – egyetemlegesen felelős a csoportos adóalanyiságban részt vevő valamennyi taggal együtt a csoportos adóalanyiságban részt vevő tagnak
 
 - a) a csoportos adóalanyiság időszakát megelőzően keletkezett, az (5) és (9) bekezdésben meghatározott kötelezettség teljesítéséért;
-- b) a csoportos adóalanyiságban részt vevő valamennyi tagnak a csoportos adóalanyiság időszakában, e törvény alapján keletkező kötelezettség teljesítéséért.
+- b) a csoportos adóalanyiság időszakában, e törvény szerinti kötelezettségek teljesítéséért, ideértve ezen kötelezettségek megszegéséből fakadó Art. szerinti jogkövetkezményeket is.
 
 (8) A kívül maradó adóalany, illetőleg a csoportos adóalanyiság időszakában létrejövő olyan adóalany, akire (amelyre) az (1) bekezdésben meghatározott feltételek teljesülnek (e § alkalmazásában a továbbiakban: csatlakozó új adóalany) dönthet úgy is, hogy tagként csatlakozni szándékozik a csoportos adóalanyisághoz. A csoportos adóalanyisághoz történő csatlakozás az állami adóhatóság engedélyével jön létre, a kívül maradó, illetőleg a csatlakozó új adóalany erre irányuló kifejezett írásos kérelmére. A kérelemnek tartalmaznia kell még a csoportos adóalanyiságban részt vevő valamennyi tagnak a közös, kifejezett és egybehangzó beleegyező nyilatkozatát a kívül maradó, illetőleg a csatlakozó új adóalany csatlakozásáról. A kérelemnek tartalmaznia kell továbbá:
 
@@ -148,7 +154,7 @@ meghatározott feltételek teljesítését.
 (11) A csoportos adóalanyiság az állami adóhatósági engedély visszavonásával szűnik meg. Az engedélyt az állami adóhatóság visszavonja, ha
 
 - a) azt a csoportos adóalanyiságban részt vevő bármely tag – ide nem értve a (10) bekezdésben meghatározott kiválási kérelmet – kéri;
-- b) a képviselő a képviseletet a továbbiakban nem vállalja, és új képviselő haladéktalan kijelölése és bejelentése a (3) bekezdés a) pontja szerint nem történik meg;
+- b)
 - c) a csoportos adóalanyiságban részt vevő bármely tagra az (1) bekezdésben meghatározott feltételek nem teljesülnek;
 - d) a (3) bekezdés bc) és bd) alpontjában meghatározott feltételek bármelyike a csoportos adóalanyiság időszakában nem teljesül;
 - e) a (3) bekezdés cc) alpontjában meghatározott feltétel a csoportos adóalanyiság időszakában nem teljesül;
@@ -160,6 +166,8 @@ meghatározott feltételek teljesítését.
 (11a) A csoportos adóalanyiság megszüntetésére irányuló kérelemben megjelölhető, hogy mely időponttal kérik a csoportos adóalanyiság megszüntetését. A csoportos adóalanyiság a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság engedélye visszavonásának véglegessé válása napjával szűnik meg. A csoportos adóalanyiság a (11) bekezdés b)–g) pontjában meghatározott esetben az állami adó- és vámhatóság engedélye visszavonásának véglegessé válása napjával szűnik meg.
 
 (12) A csoportos adóalanyiság megszűnését megelőző nappal, mint fordulónappal a csoportos adóalanyiságban részt vevő valamennyi tag együttesen köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg, kivéve azt az esetet, ha a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül szűnik meg.
+
+(13) A csoportos adóalanyiságban részt vevő tag, valamint a kívül maradó adóalany jogutódlással történő megszűnése esetén az átalakulást véglegesen jóváhagyó határozat meghozatalát követően, de legkésőbb a jogutód bejegyzéséig a (8) bekezdés szerinti kérelmet a jogutód képviseletében a jogelőd, több jogelőd esetén a jogelődök együttesen nyújthatják be.
 
 8/A. § (1) A 8. § alkalmazásában nem kell együttesen kapcsolt vállalkozásoknak tekinteni azokat az adóalanyokat, akik (amelyek) kizárólag azért minősülnek kapcsolt vállalkozásnak, mert a Magyar Állam vagy helyi önkormányzat a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megfelelő alkalmazásával harmadik személyként közvetlenül vagy közvetve többségi befolyással rendelkezik bennük.
 
@@ -1126,7 +1134,7 @@ nem minősül közszolgáltatónak.
   - ba) aa) alpontja szerinti együttműködő közösséget létrehozó polgári jogi társaság tagja,
   - bb) ab) alpontja szerinti együttműködő közösséggel névre szóló tulajdonosi (tagsági) jogviszonyban áll.
 
-85/A. § (1) Az együttműködő közösség tagjai számának folyamatosan el kell érnie legalább a kettőt. Az együttműködő közösség tagja csoportos adóalanyiság esetében csak a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő [8. § (3) bekezdés a) pontja] lehet, aki (amely) az együttműködő közösség tagjaként a csoportos adóalanyiságban részt vevő valamennyi tagnak együttesen betudhatóan szerezhet jogokat, vállalhat kötelezettségeket.
+85/A. § (1) Az együttműködő közösség tagjai számának folyamatosan el kell érnie legalább a kettőt. Az együttműködő közösség tagja csoportos adóalanyiság esetében csak a csoportos adóalanyiságban részt vevő tagok vagy az állami adó- és vámhatóság által kijelölt képviselő [8. § (3) bekezdés a) pontja] lehet, aki (amely) az együttműködő közösség tagjaként a csoportos adóalanyiságban részt vevő valamennyi tagnak együttesen betudhatóan szerezhet jogokat, vállalhat kötelezettségeket.
 
 (2) Az együttműködő közösséget ilyen minőségében úgy kell tekinteni, mint akinek (amelynek) gazdasági célú letelepedési helye belföldön van, gazdasági célú letelepedési hely hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön.
 
@@ -1249,7 +1257,7 @@ adókötelessé teszi.
 
 (2) Az (1) bekezdésben említett meghatalmazást a termék kiraktározásának indítványozásakor a kiraktározási okmánnyal együtt kell az adóraktár felügyeletét ellátó vámszervhez benyújtani.
 
-(3) Érvényes meghatalmazás alapján a 89. § (1) bekezdés szerinti adómentesség érvényesítéséhez fűződő feltételeket az adóraktár üzemeltetője teljesíti azzal, hogy az e törvényben és az adózás rendjéről szóló törvényben (a továbbiakban: Art.) meghatározott kötelezettségnek saját nevében úgy tesz eleget, hogy
+(3) Érvényes meghatalmazás alapján a 89. § (1) bekezdés szerinti adómentesség érvényesítéséhez fűződő feltételeket az adóraktár üzemeltetője teljesíti azzal, hogy az e törvényben és az Art.-ben meghatározott kötelezettségnek saját nevében úgy tesz eleget, hogy
 
 - 1. az ügylet teljesítését tanúsító számlát, mint az adófizetésre kötelezett meghatalmazottja bocsátja ki;
 - 2. arról adófizetésre kötelezett adóalanyonként, ezen belül meghatalmazásonként egymástól elkülönített nyilvántartást vezet;
