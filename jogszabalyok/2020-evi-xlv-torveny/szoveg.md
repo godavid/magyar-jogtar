@@ -68,7 +68,7 @@ Az Országgyűlés a fogyasztási-forgalmi adók adórendszerben betöltött sze
 - c) az adóalap 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 1 százalék,
 - d) az adóalap 150 milliárd forintot meghaladó része után 4,5 százalék.
 
-(1a) A 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint 47.3 ágazatba sorolt kiskereskedelmi tevékenység (a továbbiakban: gépjármű-üzemanyag kiskereskedelem) esetében a 2025-ben kezdődő adóévben az adó mértéke
+(1a) A 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint 47.3 ágazatba sorolt kiskereskedelmi tevékenység (a továbbiakban: gépjármű-üzemanyag kiskereskedelem) esetében a 2025-ben és a 2026-ban kezdődő adóévben az adó mértéke
 
 - a) a gépjármű-üzemanyag kiskereskedelemből származó adóévi nettó árbevételből keletkezett adóalaprész 500 millió forintot meg nem haladó része után 0 százalék,
 - b) a gépjármű-üzemanyag kiskereskedelemből származó adóévi nettó árbevételből keletkezett adóalaprész 500 millió forintot meghaladó része után 3 százalék.

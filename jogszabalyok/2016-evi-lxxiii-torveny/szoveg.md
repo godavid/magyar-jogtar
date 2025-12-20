@@ -37,7 +37,7 @@ terjed ki.
 - 2. állomáshely: az a külföldi település, amelyen a külképviselet földrajzilag található;
 - 3. biztonsági szolgálat: – a Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) kihelyezettek kivételével – a kihelyezett munkaköri leírásában vagy a 8. § (5) bekezdése szerinti szabályzatban az általa betöltött külszolgálati munkakörhöz kapcsolódóan meghatározott olyan szolgálat, amely a külképviselet személyzete és a személyzet családtagjai életének, testi épségének és egészségének védelmét, a külképviselet működőképességének fenntartását, valamint a külképviselet vagyonának megóvását, biztonságának védelmét biztosítja;
 - 4. diplomata: az a diplomáciai rangot viselő kormánytisztviselő, aki a külpolitikáért felelős miniszter, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter feladat- és hatáskörébe tartozó feladatokat belföldön a kihelyező szervnél vagy Magyarország külképviseletén végzi;
-- 5. ENSZ-szorzó: az Egyesült Nemzetek Szervezete Nemzetközi Közszolgálat Bizottsága által közzétett arányszám, amely – a helyi fizetőeszköz és az amerikai dollár közötti átváltási arányok változását és az infláció mértékét is alapul véve – a megélhetés költségeit hasonlítja össze egy adott állomáshely és New York tekintetében;
+- 5. ENSZ által közzétett szorzószám: az Egyesült Nemzetek Szervezete Nemzetközi Közszolgálat Bizottsága által közzétett arányszám, amely – a helyi fizetőeszköz és az USA-dollár közötti átváltási arányok változását és az infláció mértékét is alapul véve – a megélhetés költségeit hasonlítja össze egy adott állomáshely és New York tekintetében;
 - 5a. életvitelszerű tartózkodás: a kihelyezett és hozzátartozója megszakítás nélkül, életvitelszerűen, illetve közös szülői felügyeletről rendelkező bírósági döntés esetén, amikor a gyermek a döntésben foglaltak szerinti időtartamban tartózkodik az állomáshelyen, vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó településen (e pont alkalmazásában a továbbiakban együtt: állomáshelyen), ha a tartós külszolgálat megkezdését követően az állomáshelyen lakóhelyéül szolgáló ingatlanban szervezi az életét továbbá, ha az életvitelhez szükséges tevékenységeket jellemzően az állomáshelyen folytatja, és a közüzemi szolgáltatásokat személyesen az állomáshelyen veszi igénybe;
 - 6. élhetőség: az állomáshelyre vonatkozó, különösen éghajlati, biztonsági, légszennyezettségi, egészségügyi, terrorfenyegetettségi, infrastrukturális szempontok összessége;
 - 7. hivatali érdek: a külpolitikáért felelős miniszter, az európai uniós ügyek koordinációjáért felelős miniszter, a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő esetében – a külpolitikáért felelős miniszter mellett – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, valamint szakdiplomata esetében a szakmai irányítást ellátó kormányzati igazgatási szerv vezetőjének feladat- és hatásköréről szóló jogszabályban megállapított feladatok előírásszerű, hatékony és eredményes végrehajtásával a kül-, illetve közszolgálati szakmai lojalitás érvényesítésével, a felettes vezetővel és a munkatársakkal való alkotó együttműködés tanúsításával, a kihelyező szerv vezetője, a feladatellátás szakmai irányítója, illetve a felettes vezető által meghatározott értékek és követelmények megtartásával, az általuk meghatározott szakmai célokkal, azok elérésével, a vezetői utasítás végrehajtásával, a fegyelmezett és lényeglátó feladatellátással, valamint – tartós külszolgálat esetén – a külképviselet működésének biztosításával és fenntartásával, a külszolgálattal kapcsolatos közmegítélés erősítésével, fenntartásával, valamint közbizalom megőrzésével, a külképviseleti biztonság fenntartásával kapcsolatos, valamint kockázati kitettségének csökkentésére irányuló elvárható egyéni magatartás mindenkori kifejtésére irányuló speciális közszolgálati érdek és követelmény, illetve a külpolitikáért felelős miniszter által vezetett minisztérium esetében a kormányzati igazgatásról szóló törvény 93. § (1) bekezdése szerinti kötelezettség fokozott megtartása;
@@ -412,7 +412,7 @@ ideiglenesen – legfeljebb 90 napos időtartamra – hazarendelheti (a további
 (7) Nem szükséges a kihelyezett beleegyezése a kinevezési, illetve a kihelyező okirat módosításához, ha a kihelyezett
 
 - a) munkakörének megváltoztatását a kihelyezett által benyújtott pályázat alapján meghozott vagy kijelölési döntés indokolja,
-- b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá,
+- b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá, vagy e jogosultság megszűnik,
 - c) rangemelésben részesül,
 - d) személyi, álláshely nyilvántartási vagy díjazási adatai módosulnak,
 - e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre, vagy tartós külszolgálati munkakörei, illetve kiegészítő feladatkörei kiegészítésre vagy szűkítésre kerülnek további külszolgálati munkakörrel, illetve kiegészítő feladatkörrel.
@@ -423,13 +423,13 @@ ideiglenesen – legfeljebb 90 napos időtartamra – hazarendelheti (a további
 
 #### 9. Járandóságok
 
-23. § (1) A kihelyezett a tartós külszolgálatának időtartama alatt havonta devizailletményre és átalány-költségtérítésre (a továbbiakban együtt: díjazás) jogosult. A díjazást egész amerikai dollárra kerekítve kell megállapítani, a számfejtés alapját képező tárgyhónapot megelőző hónap 15. napján érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos, magyar forintban meghatározott amerikai dollár árfolyamon számolva, egész forintra történő kerekítés mellett kell átszámítani, és ezen forint összeg alapján, forintban kell számfejteni. A díjazást legkésőbb a díjazással érintett tárgyhónapot követő hónap 15. napjáig, forintban kell folyósítani a kihelyezett részére. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő devizailletmény-megállapításnak. A kihelyezett részére tartós külszolgálata idejére a kormányzati igazgatásról szóló törvény szerinti besorolása alapján megállapított belföldi illetménye és a 11. § (4) bekezdése szerinti illetménye nem jár.
+23. § (1) A kihelyezett a tartós külszolgálatának időtartama alatt havonta devizailletményre és átalány-költségtérítésre (a továbbiakban együtt: díjazás) jogosult. A díjazást egész USA-dollárra kerekítve kell megállapítani, a számfejtés alapját képező tárgyhónapot megelőző hónap 15. napján érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos, magyar forintban meghatározott USA-dollár árfolyamon számolva, egész forintra történő kerekítés mellett kell átszámítani, és ezen forint összeg alapján, forintban kell számfejteni. A díjazást legkésőbb a díjazással érintett tárgyhónapot követő hónap 15. napjáig, forintban kell folyósítani a kihelyezett részére. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő devizailletmény-megállapításnak. A kihelyezett részére tartós külszolgálata idejére a kormányzati igazgatásról szóló törvény szerinti besorolása alapján megállapított belföldi illetménye és a 11. § (4) bekezdése szerinti illetménye nem jár.
 
 (1a) Az (1) bekezdés szerint folyósított díjazás összege a devizaárfolyam-változás miatt havonta eltérő összegű lehet.
 
 (2) A kihelyezett munkaköri osztályokba, az egyes munkaköri osztályokon belül a munkaköre és – amennyiben az adott munkakörhöz rang kapcsolódik – rangja szerint kerül besorolásra (a továbbiakban: elsődleges munkakör). A munkaköri osztályokon belüli munkaköröket, valamint az azokhoz tartozó rangokat az 1. melléklet tartalmazza. A kihelyezett az elsődleges munkaköre mellett a kihelyező okiratában foglaltak szerint az 1. melléklet szerinti további munkakört, illetve kiegészítő feladatkört láthat el.
 
-(3) Az adminisztratív vagy technikai munkaköri osztályokba tartozó elsődleges munkakör mellett további, az 1. melléklet szerinti adminisztratív vagy technikai munkaköri osztályokba tartozó munkakör tartós, legalább hat hónapot meghaladó, egyidejű ellátása esetén az 1. melléklet szerinti fizetési fokozatokhoz tartozó magasabb szorzót kell alapul venni a kihelyezett devizailletményének megállapítása során. Az adminisztratív vagy technikai munkaköri osztályokba tartozó elsődleges munkakör mellett további, az 1. melléklet szerinti munkakör vagy kiegészítő feladatkör tartós, egyidejű ellátása esetén – a létrejött munkakör összetettségét figyelembe véve – a kihelyező vezető a munkaköri osztályhoz, illetve több munkakör egyidejű ellátása esetén a magasabb munkaköri osztályhoz tartozó szorzónál 0,1 értékkel magasabb szorzót állapíthat meg.
+(3) Az adminisztratív vagy technikai munkaköri osztályokba tartozó elsődleges munkakör mellett további, az 1. melléklet szerinti adminisztratív vagy technikai munkaköri osztályokba tartozó munkakör tartós, legalább hat hónapot meghaladó, egyidejű ellátása esetén az 1. melléklet szerinti munkakörökhöz tartozó magasabb szorzót kell alapul venni a kihelyezett devizailletményének megállapítása során. Az adminisztratív vagy technikai munkaköri osztályokba tartozó elsődleges munkakör mellett további, az 1. melléklet szerinti munkakör vagy kiegészítő feladatkör tartós, egyidejű ellátása esetén – a létrejött munkakör összetettségét figyelembe véve – a kihelyező vezető a munkaköri osztályhoz, illetve több munkakör egyidejű ellátása esetén a magasabb munkaköri osztályhoz tartozó szorzónál 0,1 értékkel magasabb szorzót állapíthat meg.
 
 (4) A devizailletmény
 
@@ -441,28 +441,28 @@ ideiglenesen – legfeljebb 90 napos időtartamra – hazarendelheti (a további
 (5) Az illetményt
 
 - a) az adott állomáshelyre megállapított deviza-alapilletmény, valamint
-- b) a munkaköri osztályhoz tartozó szorzó
+- b) a munkakörhöz vagy diplomata munkakörnél a ranghoz tartozó szorzó
 
 szorzata határozza meg.
 
 (6) Az adott állomáshelyre vonatkozó deviza-alapilletmény
 
 - a) a deviza-illetményalap, valamint
-- b) az adott állomáshelyre megállapított ENSZ-szorzó
+- b) a (8) bekezdés alapján az adott állomáshelyre megállapított szorzószám
 
 szorzata alapján kerül meghatározásra.
 
-(7) A deviza-illetményalap összegét évente a központi költségvetésről szóló törvény állapítja meg amerikai dollárban úgy, hogy az nem lehet alacsonyabb, mint az előző évi deviza-illetményalap.
+(7) A deviza-illetményalap összegét évente a központi költségvetésről szóló törvény állapítja meg USA-dollárban úgy, hogy az nem lehet alacsonyabb, mint az előző évi deviza-illetményalap.
 
 (7a) A felkészülési illetményalap összegét évente a központi költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi felkészülési illetményalap.
 
-(8) Az egyes állomáshelyek tekintetében a következő költségvetési évre vonatkozó, amerikai dollárban megállapított deviza-alapilletményt a külpolitikáért felelős miniszter a költségvetési törvény elfogadásától számított 45 napon belül rendeletben határozza meg, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével, azzal, hogy azon külképviseletek esetében, ahol kulturális intézet működik, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter kezdeményezésére a külképviselet kulturális intézetének a kulturális diplomáciai viszonyrendszerben elfoglalt helyének a figyelembe vételével a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő tekintetében alkalmazható, a kulturális intézettel rendelkező képviseletek állomáshelyére vonatkozó egyedi deviza-alapilletmény is megállapítható a rendeletben.
+(8) Az egyes állomáshelyek tekintetében a költségvetési évre vonatkozó USA-dollárban megállapított deviza-alapilletményt a külpolitikáért felelős miniszter a költségvetési törvény keretszámainak figyelembe vételével utasításban határozza meg, az ENSZ által közzétett szorzószámok figyelembevételével meghatározott szorzószámokkal, azzal, hogy azon külképviseletek esetében, ahol kulturális intézet működik, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter kezdeményezésére a külképviselet kulturális intézetének a kulturális diplomáciai viszonyrendszerben elfoglalt helyének a figyelembe vételével a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő tekintetében alkalmazható, a kulturális intézettel rendelkező képviseletek állomáshelyére vonatkozó egyedi deviza-alapilletmény is megállapítható az utasításban.
 
 (8a) Ha a (8) bekezdésében foglaltak szerint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter kezdeményezésére egyedi deviza-alapilletmény kerül meghatározásra, a szükséges többletforrást a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter irányítása alatt álló fejezet terhére kell tartós jelleggel biztosítani és a külpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéhez átcsoportosítani.
 
 (9) A kihelyező szerv – a kihelyezett kérelmére – a külpolitikáért felelős miniszter által megállapított rendelet szerinti mértékben és feltételekkel, kamatmentes devizailletmény- és költségtérítés-előleget nyújt.
 
-(10) A kihelyezett kérelmére nyújtható a (9) bekezdés szerinti kamatmentes devizailletmény- és költségtérítési előleg (e bekezdés alkalmazásában a továbbiakban: előleg), valamint a 25. § (14) bekezdése szerinti, kizárólag gépkocsivásárlás céljából nyújtható kölcsön (e bekezdés alkalmazásában a továbbiakban: kölcsön) esetében az előleg, illetve a kölcsön összegét úgy kell megállapítani, hogy a számfejtés időpontjának tárgyévére vonatkozóan a központi költségvetésről szóló törvényben megállapított, a (7) bekezdés szerinti deviza-illetményalap, illetve a 25. § (4) bekezdése szerinti költségtérítés-alapok összegének a forintra történő átszámítása során a számfejtés időpontját megelőző év december 15. napján érvényes, az MNB által közzétett hivatalos amerikai dollár árfolyamot kell alapul venni.
+(10) A kihelyezett kérelmére nyújtható a (9) bekezdés szerinti kamatmentes devizailletmény- és költségtérítési előleg (e bekezdés alkalmazásában a továbbiakban: előleg), valamint a 25. § (14) bekezdése szerinti, kizárólag gépkocsivásárlás céljából nyújtható kölcsön (e bekezdés alkalmazásában a továbbiakban: kölcsön) esetében az előleg, illetve a kölcsön összegét úgy kell megállapítani, hogy a számfejtés időpontjának tárgyévére vonatkozóan a központi költségvetésről szóló törvényben megállapított, a (7) bekezdés szerinti deviza-illetményalap, illetve a 25. § (4) bekezdése szerinti költségtérítés-alapok összegének a forintra történő átszámítása során a számfejtés időpontját megelőző év december 15. napján érvényes, az MNB által közzétett hivatalos USA-dollár árfolyamot kell alapul venni.
 
 24. § (1) A kihelyezett devizailletményében megjelenő deviza-illetménypótlékok mértéke
 
@@ -472,7 +472,7 @@ szorzata alapján kerül meghatározásra.
 
 függ.
 
-(2) A külképviseleteket a külpolitikáért felelős miniszter rendeletben a külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából kategóriákba sorolja, azzal, hogy a rendeletben a külképviseletek kulturális intézetei a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által meghatározottak szerint a kulturális diplomáciai viszonyrendszerben elfoglalt helyük szerinti kategóriába is besorolásra kerülnek.
+(2) A külképviseleteket a külpolitikáért felelős miniszter utasításban a külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából kategóriákba sorolja, azzal, hogy az utasításban a külképviseletek kulturális intézetei a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által meghatározottak szerint a kulturális diplomáciai viszonyrendszerben elfoglalt helyük szerinti kategóriába is besorolásra kerülnek.
 
 (3) A kihelyezett az adott külképviselet külpolitikai viszonyrendszerben elfoglalt helye szerinti besorolásától függően
 
@@ -483,7 +483,7 @@ függ.
 
 megfelelő deviza-illetménypótlékra jogosult.
 
-(4) „A plusz” kategóriába legfeljebb húsz, kiemelt fontosságú külképviselet sorolható.
+(4) „A plusz” kategóriába kiemelt fontosságú külképviselet sorolható.
 
 (5) A kihelyezett a (3) bekezdésben meghatározott deviza-illetménypótlékon túl az adott külképviselet élhetőségi besorolásától függően
 
@@ -516,7 +516,7 @@ megfelelő deviza-illetménypótlékra jogosult.
 
 (3a) A külképviselet-vezető a vegyes költségtérítés vonatkozásában megállapított költségtérítés-alap, valamint az adott állomáshely tekintetében megállapított költségtérítés-szorzó szorzata szerinti kétszeres vegyes költségtérítésre jogosult, ha az (1) bekezdés szerint az átalány-költségtérítés számfejtését a külképviselet-vezető önmaga számára igényli.
 
-(4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg amerikai dollárban úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
+(4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg USA-dollárban úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
 
 (5) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat állomáshelyén vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó településen tartózkodó, a 2. § 8. pontja szerinti hozzátartozónak minősülő minden gyermek után
 
@@ -541,7 +541,7 @@ illeti meg.
 
 (8) Ha a kihelyezett írásbeli nyilatkozata alapján a kihelyezett házastársa is a kihelyezettel tartózkodik, a kihelyezett a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának megfelelő költségtérítés-kiegészítésre jogosult. A házastárs után járó költségtérítés-kiegészítésre a (3a) bekezdésben foglaltak nem alkalmazhatók.
 
-(9) Az egyes külképviseletekhez tartozó lakhatási, vegyes, valamint gyermeknevelési költségtérítés-szorzókat a külpolitikáért felelős miniszter rendeletben állapítja meg, amelynek mértékét szükség szerint, de legalább évente felülvizsgálja.
+(9) Az egyes külképviseletekhez tartozó lakhatási, vegyes, valamint gyermeknevelési költségtérítés-szorzókat a külpolitikáért felelős miniszter utasításban állapítja meg, amelynek mértékét szükség szerint felülvizsgálja.
 
 (10) Az átalány-költségtérítés összege a kihelyezett által tetszőlegesen meghatározott arányban és mértékben használható fel bárminemű költségének fedezésére, ilyen különösen az állomáshelyén való lakhatás, Magyarország és a külképviselet közötti utazások, ingóságainak szállítása, mobiltelefon-költsége, gépjármű-használattal kapcsolatban felmerülő költségek, valamint más jogszabályokban a kormányzati szolgálati jogviszonyban álló személyekre nézve biztosított pénzbeli és természetbeni juttatások, illetve egyéb munkáltatói kedvezmények.
 
@@ -553,7 +553,7 @@ illeti meg.
 
 (14) A kihelyező szerv a kihelyezett kérelmére – kizárólag gépkocsivásárlás céljára – a külpolitikáért felelős miniszter által kiadott rendeletben megállapított feltételekkel kölcsönt nyújthat, a kihelyezéstől számított egy éven belül.
 
-(15) Ha a kihelyezett hozzátartozója egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett az adott hónapban a hozzátartozója alapján őt megillető 24. § (7) bekezdése szerinti juttatásra nem jogosult.
+(15) Ha a kihelyezett házastársa egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett az adott hónapban a hozzátartozója alapján őt megillető 24. § (7) bekezdése szerinti juttatásra nem jogosult.
 
 (16) Ha a kihelyezett jogosultsága a (15) bekezdés alapján a 24. § (7) bekezdés szerinti juttatásra három egymást követő hónapban megszűnik, a kihelyezett (15) bekezdés szerinti hozzátartozóját a kihelyező okiratból törölni kell.
 
@@ -561,17 +561,19 @@ illeti meg.
 
 (18) Ha a kihelyezett a tartós külszolgálata megszűnése vagy megszüntetése esetén az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést a tartós külszolgálata megszűnését vagy megszüntetését megelőzően bármilyen távolléti jogcímen elhagyta, azaz az állomáshelyen történő életvitelszerű tartózkodása megszűnt, akkor költségtérítés nem jár részére.
 
-(19) Ha a kihelyezési okiraton szereplő hozzátartozó az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést, ahol lakhatási célból tartózkodik a tartós külszolgálat befejező időpontja előtt elhagyta, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozó a kihelyezett ideiglenes berendelése alatt hagyta el az állomáshelyet és a tartós külszolgálat megszűnése vagy megszüntetése előtt az állomáshelyre nem tér vissza, a kihelyezett a tartós külszolgálata megszűnésének vagy megszüntetésének napjáig jogosult a hozzátartozó utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozójával együtt hagyja el, de a hozzátartozó nem tér vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részéről befejeződött, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
+(19) Ha a kihelyezési okiraton szereplő hozzátartozó az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést, ahol lakhatási célból tartózkodik a tartós külszolgálat befejező időpontja előtt elhagyta, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozó a kihelyezett ideiglenes hazarendelése alatt hagyta el az állomáshelyet és a tartós külszolgálat megszűnése vagy megszüntetése előtt az állomáshelyre nem tér vissza, a kihelyezett a tartós külszolgálata megszűnésének vagy megszüntetésének napjáig jogosult a hozzátartozó utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozójával együtt hagyja el, de a hozzátartozó nem tér vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részéről befejeződött, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
 
 (20) A kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter döntése alapján a kihelyező szerv az intézetigazgató részére lakhatási költségtérítést biztosíthat.
 
-(21) A külpolitikáért felelős miniszter által vezetett minisztérium mint kihelyező szerv a kihelyezett, a külképviselet által foglalkoztatott házastárs, valamint az 57/B. § szerinti vendégoktatói ösztöndíjprogramban részt vevő vendégoktató számára az euró- vagy dollárárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat a külpolitikáért felelős miniszter rendeletben állapítja meg.
+(21) A külpolitikáért felelős miniszter által vezetett minisztérium mint kihelyező szerv a kihelyezett, a külképviselet által foglalkoztatott házastárs, valamint az 57/B. § szerinti vendégoktatói ösztöndíjprogramban részt vevő vendégoktató számára az euró- vagy dollárárfolyam-változás hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat a külpolitikáért felelős miniszter utasításban állapítja meg.
 
 (22) A honvédelemért felelős miniszter a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselők számára az euró- vagy dollárárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat.
 
-(23) A (22) bekezdés szerinti árfolyam-kompenzációt az érintett kormánytisztviselők részére a honvédelemért felelős miniszter – a (21) bekezdés szerinti miniszteri rendeletben foglaltaknak megfelelően – saját hatáskörében állapítja meg.
+(23) A (22) bekezdés szerinti árfolyam-kompenzációt az érintett kormánytisztviselők részére a honvédelemért felelős miniszter – a (21) bekezdés szerinti miniszteri utasításban foglaltakra figyelemmel – saját hatáskörében állapítja meg.
 
 (24) A jogalap nélkül kifizetett, a 23. § (1) bekezdése szerinti devizailletmény vagy átalány-költségtérítés visszakövetelésére a kormányzati igazgatásról szóló törvénynek a jogalap nélkül kifizetett illetmény visszakövetelésére vonatkozó szabályai alkalmazandóak.
+
+(25) A tartós külszolgálatra kihelyezett lakhatásával, az állomáshelyen történő lakhatás feltételeivel, a szolgálati lakás használatával, a lakhatási költségtérítés felhasználásával, valamint a kihelyezett által történő lakásbérléssel kapcsolatos szabályokat a kihelyező vezető belső szabályzatban határozza meg.
 
 26. § (1) A kihelyezettet megillető díjazás kifizetése a kihelyezett által választott, legfeljebb két – euró, USA-dollár vagy forint fogadására alkalmas – fizetési számlára történő utalással, a kihelyezett által meghatározott arányban megosztva történik.
 
@@ -583,14 +585,14 @@ illeti meg.
 
 (2) A külpolitikáért felelős miniszter
 
-- a) rendeletben határozza meg a devizailletmény, valamint a költségtérítés számításának e törvényben nem rendezett részletes szabályait, valamint
-- b) szükség szerint, de legalább évente felülvizsgálja az egyes külképviseletek külpolitikai viszonyrendszerben elfoglalt helye, továbbá életminőség szerinti besorolását, és ennek alapján a devizailletmény és a költségtérítés mértékét.
+- a) utasításban határozza meg a devizailletmény, valamint a költségtérítés számításának e törvényben nem rendezett részletes szabályait, valamint
+- b) szükség szerint felülvizsgálja az egyes külképviseletek külpolitikai viszonyrendszerben elfoglalt helye, továbbá életminőség szerinti besorolását, és ennek alapján a devizailletmény és a költségtérítés mértékét.
 
 (3) A kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter a (2) bekezdés b) pontja szerinti felülvizsgálattal egyidejűleg szükség szerint, de legalább évente felülvizsgálja a kulturális intézeteket a kulturális diplomáciai viszonyrendszerben elfoglalt helye szerint, és javaslatot tesz a külpolitikáért felelős miniszter részére.
 
 (4) A 23–26. § szerint megállapított juttatások fedezetét a központi költségvetésnek – a 23. § (8a) bekezdésében foglalt kivétellel – a központi költségvetésről szóló törvényben, tartós jelleggel a kihelyező szerv költségvetési fejezetének a tartós külszolgálattal kapcsolatos költségvetési kiadásait tartalmazó előirányzata keretszámának módosításával, valamint az előre nem látható devizaárfolyam-változások miatt az e törvény alapján a kihelyező szerv által biztosított személyi juttatásokhoz szükséges forrásigényt a kihelyező szerv részére biztosítani köteles.
 
-(5) A 23. § (7) bekezdése szerinti, amerikai dollárban megállapított deviza-illetményalapnak, valamint a 25. § (4) bekezdése szerinti, amerikai dollárban megállapított költségtérítés-alapoknak (e bekezdés alkalmazásában a továbbiakban: alapok) a 23. § (1) bekezdése szerinti amerikai dollár devizaárfolyammal forintra történő átszámítása összegének és az alapoknak a tárgyévre vonatkozóan a központi költségvetés tervezésekor előzetesen meghatározott amerikai dollár devizaárfolyammal forintra történő átszámítása összegének a különbözetéből (e bekezdés alkalmazásában a továbbiakban: devizaárfolyam-változás) a kihelyező szervnél keletkező költséget, egyúttal mint a kihelyező szervnél jelentkező hiányt a központi költségvetés a kihelyező szervnek biztosítani köteles a kihelyező szerv által jelzett igénytől számított 30 napon belül, azzal, hogy az árfolyam-változásból eredő többlet a központi költségvetést illeti meg. Az árfolyam-változásból eredő többlet, illetve hiány kimutatására a kihelyező szerv a tárgyév első felére, valamint a harmadik negyedévre vonatkozóan összefoglaló, a negyedik negyedévre vonatkozóan havi kimutatást készít.
+(5) A 23. § (7) bekezdése szerinti, USA-dollárban megállapított deviza-illetményalapnak, valamint a 25. § (4) bekezdése szerinti, USA-dollárban megállapított költségtérítés-alapoknak (e bekezdés alkalmazásában a továbbiakban: alapok) a 23. § (1) bekezdése szerinti USA-dollár devizaárfolyammal forintra történő átszámítása összegének és az alapoknak a külpolitikáért felelős miniszter által a külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló utasításban meghatározott USA-dollár devizaárfolyammal forintra történő átszámítása összegének a különbözetéből a kihelyező szervnél jelentkező hiányt a tárgyévre vonatkozóan a központi költségvetés a kihelyező szervnek biztosítani köteles a kihelyező szerv igény benyújtása napjától számított 30 napon belül, azzal, hogy az ugyanígy megállapított többlet a központi költségvetést illeti meg. A többlet, illetve hiány kimutatására a kihelyező szerv a tárgyév első felére, valamint a harmadik negyedévre vonatkozóan összefoglalót, a negyedik negyedévre vonatkozóan havi kimutatást készít.
 
 #### 10. A kihelyezettre vonatkozó különleges munkajogi, biztonsági és a külképviselet működését érintő egyéb szabályok
 
@@ -609,7 +611,7 @@ illeti meg.
 
 28. § (1) A tartós külszolgálat ellátásának idején a kihelyezett biztonsági szolgálatot is ellát, amelyért külön díjazás és szabadidő nem jár. A biztonsági szolgálat részletes szabályait a külpolitikáért felelős miniszter rendeletben határozza meg.
 
-(2) A külképviselet vezetője válsághelyzet esetén biztonsági okból elrendelheti a kihelyezett és hozzátartozói, valamint a kihelyezettel együtt tartózkodó egyéb személyek a külképviselet hivatalos helyiségeibe történő azonnali berendelését és ellenkező utasításig való ott tartózkodását vagy biztonságos helyre történő menekítését.
+(2) A külképviselet vezetője válsághelyzet esetén biztonsági okból elrendelheti a kihelyezett és hozzátartozói, valamint a kihelyezettel együtt tartózkodó egyéb személyek a külképviselet hivatalos helyiségeibe történő azonnali megjelenését és ellenkező utasításig való ott tartózkodását vagy biztonságos helyre történő menekítését.
 
 (3) A válsághelyzetben a kihelyező vezető dönt a (2) bekezdésben meghatározott személyek hazaszállításáról. Az ebből eredő, előre nem tervezett többletköltségeket a kihelyező szerv viseli.
 
@@ -885,11 +887,13 @@ diplomáciai rangot adományozhat.
 
 48. § (1) A 23. § (7) bekezdésétől eltérően az EU ÁK tekintetében a központi költségvetésről szóló törvény magasabb deviza-illetményalapot is megállapíthat.
 
-(2) A 23. § (8) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK tekintetében a következő költségvetési évre vonatkozó deviza-alapilletményt – a 23. § (8) bekezdés szabályainak alkalmazásával – az európai uniós ügyek koordinációjáért felelős miniszter teszi rendeletben közzé.
+(2) A 23. § (8) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK tekintetében a költségvetési évre vonatkozó deviza-alapilletményt – a 23. § (8) bekezdés szabályainak alkalmazásával – az európai uniós ügyek koordinációjáért felelős miniszter utasításban határozza meg.
 
-49. § A 24. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-t a külpolitikai viszonyrendszerben elfoglalt helye, valamint az élhetőség szempontjából az európai uniós ügyek koordinációjáért felelős miniszter sorolja be rendeletben kategóriába, amely az EU ÁK-ra kihelyezettek deviza-illetménypótlékának meghatározása tekintetében irányadó.
+(3) A 26. § (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy a 48. § (1) bekezdésben megállapított magasabb deviza-illetményalap, valamint az 52. § (2a) bekezdés szerint megállapított költségtérítés-alapoknak a 23. § (1) bekezdése szerinti USA-dollár devizaárfolyammal forintra történő átszámítása összegének és az alapoknak az európai uniós ügyek koordinációjáért felelős miniszter által a Magyarország Európai Unió melletti Állandó Képviselete külképviseleti besorolásáról, valamint a tartós külszolgálatot teljesítők deviza-alapilletménye, költségtérítése és az állandó képviseleti devizapótlék kiszámításának részletes szabályairól szóló utasításban meghatározott USA-dollár devizaárfolyammal forintra történő átszámítása összegének a különbözetéből a kihelyező szervnél jelentkező hiányt a tárgyévre vonatkozóan a központi költségvetés a kihelyező szervnek biztosítani köteles, a kihelyező szerv által jelzett igénytől számított 30 napon belül, azzal, hogy az ugyanígy megállapított többlet a központi költségvetést illeti meg. A többlet, illetve hiány kimutatására a kihelyező szerv a tárgyév első felére, valamint a harmadik negyedévre vonatkozóan összefoglalót, a negyedik negyedévre vonatkozóan havi kimutatást készít.
 
-50. § (1) A kihelyező vezető az EU ÁK kimagasló teljesítményt nyújtó, illetve jelentős diplomáciai, vagy európai uniós szakmai tapasztalattal rendelkező diplomatája és szakdiplomatája részére a 23–24. § szerinti deviza-illetmény helyett, a 23–24. § szerinti számított deviza-illetménynél magasabb összegű deviza személyi illetményt állapíthat meg.
+49. § A 24. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-t a külpolitikai viszonyrendszerben elfoglalt helye, valamint az élhetőség szempontjából az európai uniós ügyek koordinációjáért felelős miniszter sorolja be utasításban kategóriába, amely az EU ÁK-ra kihelyezettek deviza-illetménypótlékának meghatározása tekintetében irányadó.
+
+50. § (1) A kihelyező vezető az EU ÁK kimagasló teljesítményt nyújtó, illetve jelentős diplomáciai, vagy európai uniós szakmai tapasztalattal rendelkező kihelyezettje részére a 23–24. § szerinti deviza-illetmény helyett, a 23–24. § szerinti számított deviza-illetménynél magasabb összegű deviza személyi illetményt állapíthat meg.
 
 (2) A deviza személyi illetmény határozott időre, legfeljebb egy naptári évre kerül megállapításra, amely a határozott idő letelte előtt is visszavonható, illetve a határozott idő letelte után ismét megállapítható.
 
@@ -899,11 +903,11 @@ diplomáciai rangot adományozhat.
 
 51. § (1) Az EU ÁK diplomatája és szakdiplomatája részére – tevékenysége kiemelt jelentőségére, összetettségére tekintettel – a 23–24. § szerinti devizailletményen felül állandó képviseleti devizapótlék fizethető.
 
-(2) Az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter rendeletben állapítja meg.
+(2) Az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter utasításban állapítja meg.
 
 52. § (1) A 25. § (1)–(6) bekezdésétől eltérően az EU ÁK-ra kihelyezett lakhatási költségtérítésre és ahhoz kapcsolódó költségtérítés-kiegészítésre nem jogosult.
 
-(2) A 25. § (9) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-ra vonatkozó vegyes, valamint gyermeknevelési költségtérítés szorzókat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben, amelynek mértékét szükség szerint, de legalább évente felülvizsgálja.
+(2) A 25. § (9) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-ra vonatkozó vegyes, valamint gyermeknevelési költségtérítés szorzókat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg utasításban, amelynek mértékét szükség szerint felülvizsgálja.
 
 (2a) A 25. § (4) bekezdésétől eltérően az EU ÁK tekintetében a központi költségvetésről szóló törvény a 25. § (2) bekezdés c) pont ca) alpontja szerinti költségtérítés esetében alacsonyabb költségtérítés-alapot is megállapíthat.
 
@@ -915,11 +919,11 @@ diplomáciai rangot adományozhat.
 
 (6) A 25. § (14) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-ra kihelyezettek esetében a gépkocsivásárlás céljára nyújtható kölcsön feltételeit az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben.
 
-(7) Ha a kihelyező szerv az EU ÁK-ra kihelyezett számára berendezés nélküli lakást biztosít, a kihelyezett számára egyszeri költözési költségtérítés fizethető. A költözési költségtérítés megállapításának további feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter rendeletben állapítja meg.
+(7) Ha a kihelyező szerv az EU ÁK-ra kihelyezett számára berendezés nélküli lakást biztosít, a kihelyezett számára egyszeri költözési költségtérítés fizethető. A költözési költségtérítés megállapításának további feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter utasításban állapítja meg.
 
-(8) A kihelyező szerv az EU ÁK-ra kihelyezettek számára az euróárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter rendeletben állapítja meg.
+(8) A kihelyező szerv az EU ÁK-ra kihelyezettek számára az euróárfolyam-változás hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter utasításban állapítja meg.
 
-53. § A 26. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a (2) bekezdés a) pontja szerinti szabályokat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben, illetve a (2) bekezdés b) pontja szerinti felülvizsgálatot az európai uniós ügyek koordinációjáért felelős miniszter végzi el.
+53. § A 26. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a (2) bekezdés a) pontja szerinti szabályokat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg utasításban, illetve a (2) bekezdés b) pontja szerinti felülvizsgálatot az európai uniós ügyek koordinációjáért felelős miniszter végzi el.
 
 53/A. § Az EU ÁK-n az informatikai rendszer üzemeltetésével, a biztonsági, biztonságtechnikai és titkos ügykezelési tevékenységgel kapcsolatos feladatokat ellátó, a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló kormánytisztviselők az EU ÁK-ra kihelyezett kormánytisztviselőkre vonatkozó szabályok szerint megállapított devizailletményre jogosultak.
 
@@ -937,7 +941,9 @@ diplomáciai rangot adományozhat.
 
 (1b) A 36. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kihelyező vezető döntése alapján a kihelyezésre kerülő személy a tartós külszolgálatra történő felkészülést a szakminisztérium állományából is teljesítheti, amennyiben érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkezik.
 
-(2) A 36. § (8) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-n foglalkoztatott szakdiplomata tartós külszolgálata a kihelyező vezető kezdeményezésére megszüntethető. A szakdiplomata tartós külszolgálatának megszüntetésére vonatkozó szakminiszteri kezdeményezés a javaslatról a szakminiszter és a kihelyező vezető együttesen dönt.
+(2) A 36. § (8) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-n foglalkoztatott szakdiplomata tartós külszolgálata a kihelyező vezető kezdeményezésére megszüntethető. A szakdiplomata tartós külszolgálatának megszüntetésére vonatkozó szakminiszteri kezdeményezésről a szakminiszter és a kihelyező vezető együttesen dönt.
+
+(3) A 13. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a csoportvezetői munkakört betöltő kihelyezett számára a diplomáciai rangjának megfelelő díjazást is meg lehet állapítani.
 
 ### III/A. Fejezet — A KULTURÁLIS INTÉZETRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
 
@@ -1141,6 +1147,8 @@ megismerése Magyarország külpolitikai, külgazdasági érdekeinek illetéktel
 
 (34) A tartós külszolgálati kihelyezés előtt álló kormánytisztviselő 11. § (2) bekezdés szerinti felkészítésének időtartama – a kihelyező vezető egyedi döntése alapján – legfeljebb a 11. § (2) bekezdése szerinti időtartammal meghosszabbítható.
 
+(35) Ha a hozzátartozó esetében a 2. § 5a. pontja szerinti feltétel igazolt iskolarendszerű képzési-, oktatási- vagy nevelési programban való részvétel miatt ideiglenesen nem áll fenn, a kihelyező vezető mérlegelési jogkörben meghozott egyedi döntése alapján a 25. § (2) bekezdése szerinti juttatás biztosítható.
+
 58/A. § (1) E törvénynek az egyes törvények külügyi igazgatási tárgyú módosításáról szóló 2018. évi LXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.
 
 (2) Az (1) bekezdésben foglaltak nem érintik 58. § (4) bekezdésében foglalt rendelkezést.
@@ -1222,7 +1230,7 @@ annak időtartamára a kihelyező vezető a kormányzati igazgatásról szóló 
 
 58/M. § E törvénynek az egyes külügyi tárgyú törvények módosításáról szóló 2024. évi XXIV. törvénnyel (a továbbiakban: Módtv8.) megállapított rendelkezéseit – az 58. § (23)–(24) bekezdése kivételével – a Módtv8. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.
 
-58/N. § (1) E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv9.) megállapított 23. § (1) bekezdését a 2025. január 1. és 2025. július 31. napja közötti időszakra vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a számfejtés alapját képező tárgyhónapot megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos, magyar forintban meghatározott amerikai dollár árfolyam helyett a 2024. december 15. napján érvényes, az MNB által közzétett hivatalos, magyar forintban meghatározott amerikai dollár árfolyamot kell alkalmazni.
+58/N. § (1) E törvénynek a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel (a továbbiakban: Módtv9.) megállapított 23. § (1) bekezdését a 2025. január 1. és 2025. július 31. napja közötti időszakra vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a számfejtés alapját képező tárgyhónapot megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos, magyar forintban meghatározott USA-dollár árfolyam helyett a 2024. december 15. napján érvényes, az MNB által közzétett hivatalos, magyar forintban meghatározott USA-dollár árfolyamot kell alkalmazni.
 
 (2) E törvénynek a Módtv9.-cel megállapított rendelkezéseit – a hatályba lépés időpontjában folyamatban lévő tartós külszolgálat megszűnések vagy megszüntetések kivételével – a Módtv9. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.
 
@@ -1230,13 +1238,15 @@ annak időtartamára a kihelyező vezető a kormányzati igazgatásról szóló 
 
 (2) E törvénynek a Módtv10.-zel megállapított 1. § (4) bekezdését, 57/A. § (2) és (2a) bekezdését a Módtv10. hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Módtv10. hatálybalépésekor folyamatban lévő eljárásokban, valamint a Módtv10. hatálybalépését megelőzően keletkezett adatok tekintetében is alkalmazni kell.
 
+58/P. § E törvénynek a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosításáról szóló 2025. évi CX. törvénnyel (a továbbiakban: Módtv11.) megállapított rendelkezéseit a Módtv11. hatálybalépését megelőzően létrejött és folyamatban lévő jogviszonyokra, kérelmekre és ügyekre is alkalmazni kell.
+
 #### 21. Felhatalmazó rendelkezések
 
 59. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújtandó előterjesztés, a szakdiplomata felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szakminisztérium közötti kapcsolattartás,
 - b) a tartós külszolgálathoz kapcsolódó felkészítés, illetve a külpolitikáért felelős miniszter által vezetett minisztériummal kormányzati vagy politikai szolgálati jogviszonyban álló foglalkoztatottra vonatkozó fegyelmi eljárás általánostól eltérő részletszabályai, valamint
-- c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
+- c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak, valamint a diplomáciai protokoll feladatellátás egyes pénzügyi rendelkezéseinek az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 - d) az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatok ellátásának
 - e) a vendégoktatói ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének
 - f) a kulturális intézetek működése és irányítása, a kulturális diplomaták, valamint adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselők feladatellátási és a kulturális intézetek tekintetében a külpolitikáért felelős miniszter által vezetett minisztérium és a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium közötti feladatmegosztás és együttműködés, valamint az ehhez tartozó költségvetés tervezés, -végrehajtás és -beszámolás rendjének
@@ -1250,21 +1260,21 @@ részletes szabályait rendeletben állapítsa meg.
 - b) – az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszterrel egyetértésben – a rangadományozás és ranghasználat,
 - c) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 - d) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
-- e) a külképviseletek külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
-- f) az egyes külképviseletekhez tartozó költségtérítés-szorzók,
+- e)
+- f)
 - g) a külképviselet által foglalkoztatott munkavállaló foglalkoztatásának,
 - h) az egészségügyért felelős miniszterrel egyetértésben a kihelyezett és hozzátartozói tartós külszolgálata alatt az állomáshelyen való egészségügyi ellátás igénybevételének,
 - i) a biztonsági szolgálat,
 - j) a pályáztatás,
-- k) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az egyes állomáshelyekre vonatkozó, az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével, állomáshelyenként megállapított deviza-alapilletmények,
+- k)
 - l) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
-- m) kihelyezett részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának, folyósításának, törlesztésének,
+- m) a kihelyezett és a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a kormányzati igazgatásról szóló törvény, illetve annak végrehajtási rendelete szerinti európai uniós vagy nemzetközi szervezetnél foglalkoztatott nemzeti szakértő részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának, folyósításának, törlesztésének,
 - n) kizárólag gépkocsivásárlás céljára nyújtható kölcsönnek és nyújtásának, folyósításának, törlesztésének,
 - o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának,
 - p) a külügyi szakmai vizsga,
 - q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, a felülvizsgálat, valamint a tartós külszolgálati kihelyezést megelőző szűrővizsgálat rendjének,
 - r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének, valamint
-- s) az árfolyam-kompenzáció feltételeinek és mértékének
+- s)
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -1272,16 +1282,16 @@ részletes szabályait rendeletben állapítsa meg.
 
 - a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 - b) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
-- c) az EU ÁK külpolitikai viszonyrendszerben elfoglalt helye, az élhetőség szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
-- d) a költségtérítés-szorzók,
+- c)
+- d)
 - e) a pályáztatás,
-- f) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmények,
+- f)
 - g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 - h) a kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
-- i) az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó, valamint
+- i)
 - j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
-- k) a költözési költségtérítés,
-- l) az árfolyam-kompenzáció feltételeinek és mértékének
+- k)
+- l)
 - m) az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumnál működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének
 
 részletes szabályait rendeletben állapítsa meg.
@@ -1403,7 +1413,7 @@ b) a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről sz
   - l) idegennyelv-ismerete.
 - 2. A tartós külszolgálatra kihelyezett kormánytisztviselő gyermekének esetleges magasabb összegű családi pótlékra való jogosultsága.
 - 3. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő, valamint házas- és élettársának a fogadó államban nevelési-oktatási intézménybe járó gyermeke nevelési-oktatási intézményének neve, székhelye, telefonos elérhetősége.
-- 4. A kihelyezésre kerülő, külügyi szakmai vizsga, illetve az európai uniós szakmai vizsga tételére kötelezett kormánytisztviselő
+- 4. A kihelyezésre kerülő, valamint külügyi szakmai vizsga, illetve az európai uniós szakmai vizsga tételére kötelezett kormánytisztviselő
   - a) családi és utóneve (születési családi és utóneve), neme;
   - b) születési helye, ideje;
   - c) anyja születési családi és utóneve;
