@@ -2263,7 +2263,7 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 
 a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.
 
-(7a) A (7) bekezdés a) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jelölt kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
+(7a) A (7) bekezdés a) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról – a személyiadat- és lakcímnyilvántartás kivételével – a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jelölt kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
 
 (7b) A (7) bekezdés c) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
 
@@ -4101,7 +4101,7 @@ kezeli.
 
 (9) A halottvizsgálati szaktanácsadó az adatváltozást követő 12 napon belül köteles bejelenteni a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szervnek a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
 
-(9a) A (9) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a halottvizsgálati szaktanácsadó kéri – a (9) bekezdés szerinti határidőben értesíti a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szervet.
+(9a) A (9) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról – a személyiadat- és lakcímnyilvántartás kivételével – a közhiteles nyilvántartást vezető szerv – ha ezt tőle a halottvizsgálati szaktanácsadó kéri – a (9) bekezdés szerinti határidőben értesíti a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szervet.
 
 (10) A névjegyzéket vezető egészségügyi államigazgatási szerv a halottvizsgálati szaktanácsadói névjegyzékben szereplő és az abból törölt szaktanácsadó nyilvántartott adatait a halottvizsgálati eljárások zavartalan lefolytatása, valamint a jogosultság ellenőrzése érdekében kezeli. A névjegyzékből történő törlés időpontjától számított öt év elteltével a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv gondoskodik a halottvizsgálati szaktanácsadó adatainak törléséről.
 

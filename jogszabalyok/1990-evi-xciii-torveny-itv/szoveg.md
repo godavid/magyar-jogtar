@@ -579,6 +579,9 @@ származik.
   - fb) a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet 2024. január 1-jén hatályos 2. § (1) bekezdése szerinti kedvezményes kölcsön (a továbbiakban: CSOK Plusz kölcsön) felhasználásával történő megszerzése;
 - g) az egyéni vállalkozó eszközeinek a vállalkozói tevékenység folytatása céljából alapított egyszemélyes korlátolt felelősségű társaság vagy egyéni cég általi megszerzése.
 - h) a telekingatlan forgalmi értékéből a naperőmű, szélerőmű felépítmény forgalmi értékének megfelelő vagyonrész;
+- i) a kulturális örökség egyes elemeinek fenntartható fejlesztéséről szóló 2024. évi XXXII. törvény (a továbbiakban: 2024. évi XXXII. törvény) 5. §-a szerinti miniszteri döntés alapján történő ingatlan és ingó tulajdonjogának, valamint vagyoni értékű jogának megszerzése.
+
+(1b) Ha a 2024. évi XXXII. törvény 5. §-a szerinti ingatlan és ingó tulajdonjogának, valamint vagyoni értékű jogának miniszteri döntés alapján történő megszerzése a 2024. évi XXXII. törvény 12. § (1) bekezdésében foglaltak alapján az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, akkor az (1a) bekezdés i) pontja szerinti illetékmentesség a 651/2014/EU bizottsági rendelet 53. cikke szerinti kulturális örökség megőrzését előmozdító beruházási támogatásként nyújtható, a 2024. évi XXXII. törvény 4. alcímében foglalt rendelkezésének megfelelően.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi a lakóház felépítését. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -1829,6 +1832,8 @@ megkötött adásvételi szerződés alapján történő vagyonszerzésre kell a
 
 102/J. § E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 26. § (1) bekezdés q) pontját és a 26. § (1a) bekezdés h) pontját az állami adó- és vámhatóság által véglegesen még el nem bírált illetékügyekben is alkalmazni kell.
 
+102/L. § E törvénynek a közlekedési tárgyú törvények módosításáról szóló 2025. évi CXX. törvénnyel megállapított 26. § (1a) bekezdés i) pontját az állami adó- és vámhatóság által véglegesen még el nem bírált illetékügyekben is alkalmazni kell.
+
 103. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a)
@@ -1858,7 +1863,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (6) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-(7) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.
+(7) A 26. § (1) bekezdés i) és r) pontja, (1a) bekezdés i) pontja és (1b) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.
 
 (8) A 2. melléklet IX. pont 22. alpontja az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet 11. cikkének való megfelelést szolgálja.
 

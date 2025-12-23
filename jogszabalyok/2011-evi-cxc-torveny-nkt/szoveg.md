@@ -155,7 +155,7 @@ lehet,
 - 45.
 - 46. munkatankönyv: az a tankönyv, amelynek alkalmazása során a tanulónak a tankönyvben elhelyezett feladatlapon kell az előírt feladatot megoldania,
 - 47. tankönyv: az a könyv – beleértve a szótárt, a szöveggyűjteményt, az atlaszt, a kislexikont, a munkatankönyvet, a munkafüzetet, a feladatgyűjteményt – vagy a digitális tananyag, vagy a zárt rendszerű elektronikus távolléti oktatással biztosított tananyag, vagy a nevelési-oktatási program részét alkotó információhordozó, feladathordozó, amelyet az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárásban tankönyvvé nyilvánítottak,
-- 48. tankönyvellátás: az iskolában alkalmazott tankönyvek fejlesztése, kiadása, előállítása, valamint az iskolai tankönyvrendelés lebonyolítása,
+- 48. tankönyvellátás: az iskolában alkalmazott tankönyvek fejlesztése, kiadása, terjesztése, valamint az iskolai tankönyvrendelés lebonyolítása,
 - 49. tartós tankönyv: az a tankönyv, könyvhöz kapcsolódó kiadvány, amely nem tartalmaz a tankönyvbe történő bejegyzést igénylő feladatokat, és alkalmas arra, hogy a tanulók legalább négy tanéven keresztül használják.
 - 50. videotartalom-kezelő: a tanulmányi rendszerbe vagy a zárt rendszerű távolléti oktatási képzésmenedzsment-rendszerbe (együtt: képzési rendszerek) integrált online kapcsolaton keresztül sugárzott videotechnológiával megvalósított, mobil használatra is alkalmas videoplatform, ahol a felhasználó a tanulmányi rendszeren keresztüli egyéni azonosítással éri el a tantárgyaihoz tartozó videokönyvtárba szervezett – az előadót és a prezentációját is megjelenítő – tartalmakat; a videotartalom-kezelő lehetőséget biztosít a felhasználónak a videotartalomhoz rögzített egyéni és mentésre kerülő jegyzetelésre és a beállított tartalomjegyzék szerinti navigálásra, videókon belül bármely kimondott vagy megjelenített szóra való keresésre, az előadói és prezentációs nézet együttes vagy külön-külön nézetei közötti szabad váltásra, a kiajánlott nyelveken történő feliratozás előhívására,
 - 51. zárt rendszerű elektronikus távolléti oktatás: képzés vagy az otthoni felkészülés olyan formája, amelyben az oktatás digitális tananyaggal, videotartalom-kezelővel, továbbá a pedagógus és a tanuló együttműködése az informatikai hálózaton (internet, intranet) keresztül, a felnőttoktatásban, tantermen kívüli, digitális munkarendben és az otthoni felkészülésnél alkalmazható, zárt rendszerű távoktatási képzésmenedzsment-rendszerrel valósul meg, amelynek során a közös kommunikáció eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű oktatási képzésmenedzsment-rendszer,
@@ -2537,7 +2537,11 @@ a fenntartó helyett, közvetlenül az annak fenntartásában működő közneve
 
 - a) tankönyvvé nyilvánításával és a tankönyvjegyzékre történő felvételével kapcsolatos feladatait a hivatal által,
 - b) fejlesztésével és kiadásával kapcsolatos feladatokat az állami tankönyvfejlesztésért és -kiadásért felelős szerv működtetésével,
-- c) előállításával, valamint az iskolai tankönyvrendelés lebonyolításával kapcsolatos feladatokat a Kormány rendeletében kijelölt, az állam százszázalékos tulajdonában álló, nonprofit gazdasági társaság (a továbbiakban: könyvtárellátó), illetve a Kormány rendeletében kijelölt gazdasági társaság – amelyben a könyvtárellátó mint tag legalább minősített többségű befolyással rendelkezik – közreműködésével látja el.
+- c)
+
+(4) Az iskolai tankönyvrendelés lebonyolításával, illetve az iskolában alkalmazott tankönyvek előállításával, terjesztésével kapcsolatos feladatokat – a hit- és erkölcstanoktatás tekintetében a miniszter rendeletében meghatározott kivétellel – a Kormány rendeletében kijelölt, az állam százszázalékos tulajdonában álló, nonprofit gazdasági társaság (a továbbiakban: könyvtárellátó) látja el.
+
+(5) A díszpéldány, valamint a díszpéldányok tárolására szolgáló tartótok előállítását és terjesztését a könyvtárellátó látja el.
 
 93/B. § (1) A könyv, a szótár, a szöveggyűjtemény, az atlasz, a kislexikon, a munkatankönyv, a munkafüzet, a feladatgyűjtemény, a digitális tananyag, és a nevelési-oktatási program részét alkotó információhordozó, feladathordozó – az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárásban – tankönyvvé nyilvánítható. A tananyag a zárt rendszerű elektronikus oktatási rendszerben elérhetővé tehető.
 
@@ -2722,7 +2726,7 @@ rendeletben állapítsa meg.
 
 rendeletben határozza meg.
 
-(4f) Felhatalmazást kap a Kormány, hogy az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatait ellátó szervet, a könyvtárellátó feladatait ellátó szervet, vagy jogi személyt, illetve a könyvtárellátó tankönyv-előállítási feladataiban közreműködő, a 93/A. § (3) bekezdés c) pontjában foglaltaknak megfelelő gazdasági társaságot rendeletben jelölje ki.
+(4f) Felhatalmazást kap a Kormány, hogy az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatait ellátó szervet, a könyvtárellátó feladatait ellátó szervet, vagy jogi személyt rendeletben jelölje ki.
 
 (4g) Felhatalmazást kap a Kormány, hogy
 

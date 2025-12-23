@@ -185,7 +185,7 @@ alapvető jogai és kötelezettségei
 
 (2) A közúti közforgalmú személyszállításnak a vasúti és vízi közforgalmú személyszállítással együtt hálózatot kell alkotnia.
 
-11. § (1) Az utakat úgy kell fejleszteni, hogy a közutak (országos közutak, helyi közutak) és a közforgalom elől el nem zárt magánutak összefüggő rendszert alkossanak.
+11. § (1) Az utakat úgy kell fejleszteni, hogy a közutak (országos közutak, helyi közutak) és a közforgalom elől el nem zárt magánutak összefüggő rendszert alkossanak, beleértve a közúti infrastruktúrát pótló vízi átkelést szolgáló kompokat is.
 
 (2) A közutak térségi hálózatának tervezése során – a közutak nyomvonalának kijelölésénél, az útkategória és keresztmetszeti megoldás kiválasztásánál, valamint a megvalósítás időbeli ütemezésénél – a következő gazdasági, társadalmi és környezeti szempontokat és hatásokat kell együttesen értékelni, és figyelembe venni:
 
@@ -312,6 +312,8 @@ jogosultak.
 (2) A jármű elszállítása esetén a járműhasználat akadályoztatása folytán keletkezett kárért a közút kezelőjét nem terheli kártalanítási kötelezettség.
 
 (3) A közúti forgalom biztonságát veszélyeztető módon veszteglő, a közútkezelői feladatok ellátását, valamint a közúti ellenőrzéseket akadályozó, továbbá a közút területén hátrahagyott járművek elszállításának, tárolásának és értékesítésének részletszabályait a miniszter rendeletben állapítja meg.
+
+(3a) A jármű (1) bekezdésben meghatározott okból történő elszállítását a járművezető tűrni köteles. Az intézkedés során állami kényszerrel is el kell érni, hogy a közút kezelője a járművet elszállíthassa. Az alkalmazott állami kényszer kivételesen a járművezető személyiségi jogait is érintheti. A járművezető személyét érintő kényszercselekményt – a közútkezelő intézkedése alapján – a rendőrség végzi. A rendőrség jogosult és köteles mindazokat az intézkedéseket megtenni és kényszerítő eszközöket alkalmazni, amelyek a rendőrségről szóló jogszabályok szerint megtehetők, valamint alkalmazhatók, és a jármű elszállításának eredményes befejezéséhez szükségesek.
 
 (4) Az üzembentartó vagy a tulajdonos a közútkezelő értesítése alapján köteles a járművet az elszállítás és a tárolás költségeinek megtérítését követően elszállítani. Ha az üzembentartó vagy a tulajdonos ezen kötelezettségének a közútkezelő második értesítését követő 90 napon belül sem tesz eleget, a közútkezelő jogosult a járművet értékesíteni vagy más módon hasznosítani. Ha az üzembentartó vagy a tulajdonos az elszállítást követő 90 napon belül nem állapítható meg, a közútkezelő jogosult a járművet a hulladékká vált gépjárművekről szóló kormányrendelet hatálya alá tartozó jármű esetén a hulladékról szóló törvény szerinti koncessziós társaságnak, más jármű esetén regisztrált bontó-hulladékkezelő részére átadni.
 
@@ -862,7 +864,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
   - cb) az (1) bekezdés c) és d) pontja tekintetében külön jogszabály alapján a foglalkoztatás-felügyeleti hatóság is,
 - d) az (1) bekezdés e) pontja tekintetében – a veszélyes áru szállítójának (fuvarozójának), feladójának, csomagolójának, be- és kirakójának, töltő- és ürítőjének, címzettjének telephelyén is – külön jogszabály alapján a vámhatóság is,
 - e) az (1) bekezdés k) pontja tekintetében a rendőrség
-- f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is,
+- f) az (1) bekezdés kg) pontja tekintetében a közlekedési hatóság, valamint a közterület-felügyelet is,
 - g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Kormány rendeletében kijelölt, útdíjszolgáltatási tevékenységet ellátó állami tulajdonú gazdasági társaság (a továbbiakban: útdíjszolgáltatási gazdasági társaság),
 - h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
 
@@ -1190,10 +1192,32 @@ a 20. § (4) bekezdésben foglalt határidő lejártát követően törölni kel
 
 (4) Amennyiben az ellenőrzés során az ügyfél tolmácsot kér, annak megérkezéséig, de legfeljebb 48 óra időtartamig a hatóság a járművet visszatarthatja a 44. §-ban foglaltak szerint.
 
-(5) Ha a közlekedési hatóság által lefolytatott ellenőrzés során felvett ellenőrzési jegyzőkönyvet aláíró, a személyazonosságát igazoló dokumentum alapján azonosított ügyfél aláírásképének rögzítése és az ezt az adatot is tartalmazó elektronikus dokumentum létrehozása megfelel a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendeletben meghatározott eszköz- és rendszerkövetelményeknek, akkor az így felvett elektronikus dokumentum az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy
+(5) Ha a közlekedési hatóság által lefolytatott ellenőrzés során felvett ellenőrzési jegyzőkönyvet aláíró, a személyazonosságát igazoló dokumentum alapján azonosított ügyfél aláírásképét tartalmazó elektronikus dokumentum az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy
 
 - a) az ügyfél az ellenőrzési jegyzőkönyvet megismerte és aláírta,
 - b) a jegyzőkönyvben tett nyilatkozatait saját maga tette meg.
+
+(6) A közlekedési hatóság a 22/B. § (1) bekezdése szerinti közúti ellenőr útján testkamerával képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban együtt: felvétel) készíthet a 20. § (11) bekezdése szerinti ellenőrzés során a hatósági ellenőrzéssel vagy intézkedéssel érintett személyekről, tárgyakról, ezek környezetéről azok azonosítása, védelme, valamint a megtett intézkedés jogszerűségének vizsgálata céljából.
+
+(7) A közlekedési hatóság biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét.
+
+(8) A felvétel és az abban szereplő személyes adat
+
+- a) a helyszínen elkövetett bűncselekmény vagy szabálysértés miatt indult eljárásban,
+- b) a közúti ellenőr által elkövetett jogsértés miatt indított fegyelmi eljárásban,
+- c) a közúti ellenőrzés jogszerűségének megállapítására irányuló eljárásban
+
+használható fel.
+
+(9) Akinek jogát vagy jogos érdekét a felvétel érinti, jogának vagy jogos érdekének igazolásával, aki a felvételen maga is szerepel (e § alkalmazásában a továbbiakban együtt: érintett), jogának vagy jogos érdekének igazolása nélkül kérheti, hogy a felvételt a közlekedési hatóság ne törölje. Ez a jog nem érinti a személyes adatok védelmére vonatkozó, az Európai Unió jogi aktusa, illetve a nemzeti jog alapján az érintett által gyakorolható egyéb jogokat. A jogainak gyakorlása érdekében indított eljárás során a felvétel a bíróság vagy más szerv megkeresésére továbbítható.
+
+(10) A felvételt legfeljebb a rögzítést követő hatvan nap elteltével törölni kell, ha a (8) bekezdésben megjelölt eljárás lefolytatását nem kezdeményezték vagy a felvételen szereplő személy a (9) bekezdés szerinti lehetőségével nem él.
+
+(11) Ha a (8) bekezdésben meghatározott célból az adat felhasználására kerül sor, akkor a (8) bekezdésben meghatározott eljárás befejezését követően kell a felvételt törölni. Ha büntetőeljárás indult, a rögzített kép-, illetve hanganyagot vagy ezek másolatát az eljáró hatóság kérésére az iratokhoz csatolás érdekében meg kell küldeni, a felvételt annak lefoglalását, zár alá vételét vagy átadását követően törölni kell.
+
+(12) Ha a (9) bekezdésben meghatározott célból az adat felhasználására kerül sor, akkor az adat átadását követően a felvételt törölni kell.
+
+(13) A testkamera alkalmazásával összefüggő adatkezelési információkat, valamint az érintettek jogaira és azok érvényesítésének rendjére vonatkozó rendelkezésekről történő tájékoztatást a közlekedési hatóság a honlapján közzé teszi. A testkamera alkalmazásáról a hatósági ellenőrzéssel vagy intézkedéssel érintett részére az ellenőrzést végző ad tájékoztatást.
 
 ### Közúti vállalkozások kockázatértékelési rendszere
 
@@ -1841,6 +1865,8 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
   - db) a külön jogszabályban meghatározott, kerékpározás céljára használt magánutak és útnak nem minősülő egyéb útvonalak mellett található kerékpáros útbaigazító táblák vonatkozásában a fenntartási, fejlesztési és üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet;
 - e)
 
+(1a) Koncessziós szerződés alapján működtetett országos közutat érintő állami útépítési beruházás esetében, ha a közútkezelői hozzájárulás kiadása iránti kérelem tekintetében a koncessziós társaság a közútkezelői minőségét vitatja vagy a közútkezelői hozzájárulás megadása vagy megtagadása tárgyában 42 napon belül nem nyilatkozik, akkor a közútkezelői hozzájárulás kiadásával kapcsolatos közútkezelői feladatok körében közútkezelőként a Kormány rendeletében kijelölt közútkezelő gazdasági társaság jár el.
+
 (2) A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet és a 21. § (4) bekezdése szerint kijelölt hatóság a gépjárműről és annak hatósági jelzéséről felvételt készíthet annak érdekében, hogy a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyítani lehessen. A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet az általa készített felvételt haladéktalanul átadja a 21. § (4) bekezdése szerint kijelölt hatóságnak. A díjfizetés ellenőrzésére jogosult szervezet – amennyiben nem jogosult a pótdíjkövetelés behajtására – a felvételt köteles haladéktalanul átadni a pótdíj beszedésére jogosult szervezetnek.
 
 (3) A (2) bekezdésben meghatározott szervek a felvételek készítéséhez és továbbításához közreműködőt vehetnek igénybe.
@@ -2210,9 +2236,9 @@ szociális előírások ellenőrzése
 
 (10) A tachográf kártya nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen kell átadni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(11) A közlekedési hatóság a digitális tachográf kártya kiadásához – a kártyára jogosult adatainak ellenőrzése céljából – az érintett természetes személyazonosító adatait, három évnél nem régebbi arcképmását, aláírását és érvényes lakcímadatát igényelheti a személyiadat- és lakcímnyilvántartásból díj megfizetése mellett.
+(11) A közlekedési hatóság a digitális tachográf kártya kiadásához – a kártyára jogosult adatainak ellenőrzése céljából – az érintett természetes személyazonosító adatait, három évnél nem régebbi arcképmását, aláírását és érvényes lakcímadatát igényelheti a személyiadat- és lakcímnyilvántartásból.
 
-(12) A személyiadat- és lakcímnyilvántartást kezelő szerv a közlekedési hatóság adatkérése alapján – a (11) bekezdésben foglaltak céljából – értesíti a közlekedési hatóságot a személy természetes személyazonosító adatairól, érvényes lakcímadatáról, továbbá aláírását és arcképmását elektronikus úton átadja díj megfizetése mellett.
+(12) A személyiadat- és lakcímnyilvántartást kezelő szerv a közlekedési hatóság adatkérése alapján – a (11) bekezdésben foglaltak céljából – értesíti a közlekedési hatóságot a személy természetes személyazonosító adatairól, érvényes lakcímadatáról, továbbá aláírását és arcképmását elektronikus úton átadja.
 
 45. § (1) Az országos és az önkormányzati közút kezelője útellenőri szolgálatot működtet. Az útellenőri szolgálat működésének feltételeit a miniszter által megállapított keretek között a közút kezelője határozza meg.
 
@@ -2247,12 +2273,13 @@ olyan elektronikus ellenőrzési rendszer működtetésére is jogosultak, amely
 - 4. elektromos meghajtású gépjármű: olyan jármű, amelynek meghajtása részben vagy teljesen villamos motor által történik, és a meghajtáshoz szükséges villamos energiát külső forrásból feltölthető villamosenergia-tároló rendszerből is nyerheti;
 - 5. elektromos töltőberendezés: olyan villamos berendezés, amely legalább egy darab normál vagy nagy teljesítményű töltőponttal rendelkezik;
 - 6. elektromos töltőpont: az elektromos töltőberendezésen található töltőcsatlakozó, amely kizárólag egy elektromos meghajtású gépjármű villamosenergia-tároló rendszerének feltöltésére alkalmas egyidejűleg;
-- 7. eseti töltés: az elektromos töltőberendezés üzemeltetővel vagy az elektromobilitás szolgáltatóval tartós szerződéses jogviszonyban nem álló elektromobilitás felhasználó által igénybevett elektromobilitás szolgáltatás;
+- 7. eseti töltés: olyan elektromobilitás szolgáltatás, amely esetében az elektromobilitás felhasználónak nem szükséges regisztrálnia, elektromos töltőberendezés üzemeltetővel tartós szerződéses jogviszonyban állnia;
 - 8. nagy teljesítményű töltőpont: olyan elektromos töltőpont, amely a töltés folyamán 22 kW-nál nagyobb villamos teljesítmény leadására alkalmas;
 - 9. normál teljesítményű elektromos töltőpont: olyan elektromos töltőpont, amely a töltés folyamán legfeljebb 22 kW villamos teljesítmény leadására alkalmas, nem foglalja magában a 3,7 kW vagy annál kisebb villamos teljesítményű, háztartásban létesített, nyilvánosan nem hozzáférhető berendezéseket, vagy amelyek elsődleges rendeltetése nem az elektromos meghajtású gépjárművek töltése;
-- 10. nyilvános töltőberendezés: olyan közterületen, közintézmény épülete mellett és közintézmény ügyfélparkolóiban, továbbá közforgalmú üzemanyagtöltő-állomásokon üzemeltetett elektromos töltőberendezés, amely az elektromobilitás felhasználók számára meghatározott azonosítási, használati és fizetési feltételek mellett megkülönböztetéstől mentesen hozzáférhető, valamint az olyan, közforgalom számára nyitott magánterületen vagy nyilvános parkolóban üzemeltetett elektromos töltőberendezés, amely az elektromobilitás felhasználók korlátozott köre számára, ellenérték megfizetése nélkül vagy meghatározott fizetési feltételek mellett hozzáférhető, ideértve a part menti villamosenergia-ellátást, ide nem értve a háztartásokban üzemeltetett elektromos töltőberendezést;
+- 10. nyilvános töltőberendezés: olyan közterületen, közintézmény épülete mellett és közintézmény ügyfélparkolóiban, továbbá közforgalmú üzemanyagtöltő állomásokon üzemeltetett elektromos töltőberendezés, amely az elektromobilitás felhasználók számára meghatározott azonosítási, használati és fizetési feltételek mellett megkülönböztetéstől mentesen hozzáférhető, valamint az olyan, közforgalom számára nyitott magánterületen vagy nyilvános parkolóban üzemeltetett elektromos töltőberendezés, amely az elektromobilitás felhasználók korlátozott köre számára, ellenérték megfizetése nélkül vagy meghatározott fizetési feltételek mellett hozzáférhető, ide nem értve a háztartásokban üzemeltetett elektromos töltőberendezést;
 - 11. elektromos töltőberendezés üzemeltető: az, aki az üzemeltetési engedély birtokában a nyilvános töltőberendezést rendeltetésszerűen működteti, annak műszaki üzemeltetését és karbantartását végzi, azon elektromobilitás szolgáltatást nyújt az elektromobilitás felhasználók számára, illetve elektromobilitás szolgáltató számára biztosítja az elektromobilitás szolgáltatás nyújtásának műszaki feltételeit;
 - 12. part menti villamosenergia-ellátás: villamos energia part menti, szabványos interfészen keresztül történő biztosítása a kikötőkben horgonyzó hajók részére.
+- 13. kétirányú töltés: az (EU) 2023/1804 európai parlamenti és tanácsi rendelet 2. cikk 11. pontja szerinti töltés.
 
 45/C. § (1) Az elektromos töltőberendezés üzemeltetésére vonatkozó engedély alapján – a Vet. 3. § 22. pontjában meghatározott hálózati engedélyes kivételével – bárki üzemeltethet nyilvános elektromos töltőberendezést.
 
@@ -2309,6 +2336,15 @@ meghatározott összegű felügyeleti díjat fizet.
 (6) A Hivatal véglegessé vált elektromobilitás szolgáltatásra vonatkozó határozatait – a személyes és védett adatok kivételével – a honlapján közzé teszi.
 
 (7) Ha a (4) bekezdés b) pontja szerinti tárgyévi tényleges nettó árbevétel nem azonos az üzleti tervben tervezettel, a különbözet 0,085%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően korrigálni kell.
+
+(8) Az (EU) 2023/1804 európai parlamenti és tanácsi rendelet 15. cikk (3) és (4) bekezdésében foglalt szempontok alapján a Hivatal elkészíti a következő értékeléseket:
+
+- a) az elektromos töltőpontok kiépítése és üzemeltetése révén az elektromos járművek – többek között a kiegyenlítő piacon való részvételükkel – hogyan járulhatnának fokozottabban hozzá a villamosenergia-rendszer rugalmasságához, valamint a megújuló energiaforrásokból előállított villamos energia további felhasználásához;
+- b) a kétirányú töltés hozzájárulhat-e a felhasználói és rendszerköltségek csökkentéséhez, valamint a megújuló energiaforrásokból előállított villamos energia részarányának növeléséhez a villamosenergia-rendszerben.
+
+(9) A Hivatal a (8) bekezdés alapján készített két értékelést háromévente május 31-ig megküldi az energiapolitikáért felelős miniszter részére.
+
+(10) Az energiapolitikáért felelős miniszter bevonásával a Hivatal háromévente közzéteszi a honlapján a (8) bekezdés szerinti értékeléseket.
 
 ### Nemzeti hozzáférési pontra vonatkozó szabályok
 
@@ -2384,6 +2420,8 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 
 (4) Az (1) bekezdés a) pontja szerinti esetben az (1)–(3) bekezdés szerinti kép- és hangmegfigyelésre vonatkozó előírásokat a vizsgaközpontra is alkalmazni kell.
 
+(5) A jogszerű vizsgáztatás és a visszaélések, a vizsgán meg nem engedett, a vizsga eredményének befolyásolására alkalmas külső informatikai és mobil segédeszközök használatának megakadályozása érdekében a vizsgaközpont jogosult a közúti járművezetők és közúti közlekedési szakemberek vizsgáztatása során az említett eszközök használatának zavarására, akadályozására szolgáló technikai, informatikai eszköz használatára.
+
 46/E. § A közlekedési hatóság vezetője a feladat- és hatáskörében minősítésre jogosult.
 
 #### 46/F. §
@@ -2419,6 +2457,10 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 46/P. § (1) A tájékozódást segítő jelzést megjelenítő reklámcélú eszköz 12. § (3c) bekezdése szerinti elhelyezése esetén, ha az elhelyezéshez kapott hozzájárulás időbeli hatálya az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében kihirdetett veszélyhelyzet idején járt le, a hozzájárulás és az azt tartalmazó szerződés időbeli hatálya e veszélyhelyzet megszűnéséig meghosszabbodik.
 
 (2) Az e törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény által megállapított 29. § (1g)–(1k) és (2b) bekezdésében foglaltakat a folyamatban lévő ügyekben is alkalmazni kell.
+
+46/Q. § (1) A közlekedési tárgyú törvények módosításáról szóló 2025. évi CXX. törvénnyel megállapított 45/E. § (9) bekezdése szerinti kötelezettségnek a Hivatal először 2027. május 31-ig köteles eleget tenni.
+
+(2) A közlekedési tárgyú törvények módosításáról szóló 2025. évi CXX. törvénnyel megállapított 45/E. § (10) bekezdés szerinti kötelezettségnek a Hivatal először 2027. június 30-ig köteles eleget tenni.
 
 47. § A törvény alkalmazásában:
 

@@ -762,6 +762,8 @@ megfelelő összegű illetményre jogosult.
 
 (4a) A főpolgármester, a megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere, a vármegyei önkormányzat közgyűlésének elnöke, a polgármester (e bekezdés alkalmazásában a továbbiakban együtt: polgármester) illetményének számításánál a tárgyévet megelőző évnek a január első napjától december utolsó napjáig tartó időszakára vonatkozó, a legalább 5 főt foglalkoztató vállalkozásoknál, a költségvetési intézményeknél és a foglalkoztatás szempontjából jelentős nonprofit szervezeteknél teljes munkaidőben alkalmazásban állók bruttó átlagkeresetére vonatkozóan a nemzetgazdasági átlagkeresetet kell alapul venni. A nemzetgazdasági átlagkereset alapján számított illetményre a polgármester a tárgyév július 1-jétől jogosult.
 
+(4b) A polgármester illetményének, tiszteletdíjának összegét az (1)–(4a) bekezdés alapján a jegyző állapítja meg.
+
 (5) A társadalmi megbízatású polgármester havonta a polgármester illetménye 50%-ával megegyező mértékű tiszteletdíjra jogosult, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
 
 (6) A főállású polgármester, a társadalmi megbízatású polgármester, a vármegyei önkormányzat közgyűlésének elnöke havonta az illetményének, tiszteletdíjának 15%-ában meghatározott összegű költségtérítésre jogosult.
