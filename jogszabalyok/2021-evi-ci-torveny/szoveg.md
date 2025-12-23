@@ -299,7 +299,9 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (3) Az Egyházkerület az (1) bekezdés szerinti ingatlanokat és az (1) bekezdés szerinti ingóságokat a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Egyházkerület az (1) bekezdés szerinti ingatlanokat és az (1) bekezdés szerinti ingóságokat terhelő kötelezettségeket a (2) bekezdés szerinti szerződés alapján teljeskörűen átvállalja, továbbá az (1) bekezdés szerinti ingatlanok és az (1) bekezdés szerinti ingóságok jogi helyzetével összefüggésben semmilyen megtérítési igénnyel nem él a tulajdonba adó irányába.
 
-9/F. § Az Nvtv. 13. § (4) és (5) bekezdésétől eltérően a 9/E. § (1) bekezdése szerinti ingatlanok tulajdonjogát az Egyházkerület az Egyházkerület területén működő, az Egyház belső jogi személye javára átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. Az Egyházkerület és a tulajdonátruházással érintett, az Egyház belső jogi személye közötti tulajdonátruházásra irányuló szerződésben az Egyház belső jogi személye vállalja, hogy a 9/E. § (1) bekezdése szerinti céloknak megfelelően kerül sor a 9/E. § (1) bekezdése szerinti ingatlanok hasznosítására.
+9/F. § (1) Az Nvtv. 13. § (4) és (5) bekezdésétől eltérően a 9/E. § (1) bekezdés a) pontja szerinti ingatlan tulajdonjogát az Egyházkerület az Egyházkerület területén működő, az Egyház belső jogi személye (e § alkalmazásában a továbbiakban: belső egyházi jogi személy) javára, illetve az Egyház fenntartásában működő felsőoktatási intézmény javára átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. Az Egyházkerület és a tulajdonátruházással érintett belső egyházi jogi személy, illetve az Egyház fenntartásában működő felsőoktatási intézmény közötti tulajdonátruházásra irányuló szerződésben a belső egyházi jogi személy, illetve az Egyház fenntartásában működő felsőoktatási intézmény vállalja, hogy a 9/E. § (1) bekezdése szerinti céloknak megfelelően kerül sor a 9/E. § (1) bekezdés a) pontja szerinti ingatlan hasznosítására.
+
+(2) Az Nvtv. 13. § (4), (5), (7) és (8) bekezdésétől eltérően a 9/E. § (1) bekezdés b) pontja szerinti ingatlan tulajdonjogát az Egyházkerület belső egyházi jogi személy javára átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. A belső egyházi jogi személy a javára e bekezdés szerint átruházott, a magyar állam javára bejegyzett elidegenítési tilalom alatt álló ingatlan, illetve abból telekalakítás során kialakításra kerülő ingatlan tulajdonjogát átruházhatja, mely esetben a belső egyházi jogi személy általi átruházással érintett ingatlant terhelő, a magyar állam javára bejegyzett elidegenítési tilalmat az ingatlan-nyilvántartásból a tulajdonos belső egyházi jogi személy kérelmére törölni kell. Az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét, illetve csere esetén az ingatlan helyébe lépő ingatlant a belső egyházi jogi személy a 9/E. § (1) bekezdése szerinti célok biztosítására köteles fordítani.
 
 9/G. § Az Nvtv. 13. § (3) bekezdése és Vtv. 36. § (1) bekezdése alapján a magyar állam tulajdonában lévő Törökbálint belterület 22 helyrajzi számú ingatlan ingyenesen, nyilvántartási értéken az Egyház tulajdonába kerül egészségügyi és szociális közfeladatok ellátásának elősegítése céljából.
 
@@ -325,9 +327,17 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (4) Az Egyház az ingatlant terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Egyház az ingatlant terhelő kötelezettségeket a (3) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
 
-(5) A (3) bekezdés szerinti szerződés megkötéséig az Egyházat az ingatlan-nyilvántartásba be nem jegyezhető, a Bethesda Kórház Alapítvány részére történő továbbhasznosítást biztosító ingyenes használati jog illet meg.
+(5) A (3) bekezdés szerinti szerződés megkötéséig az Egyházat az ingatlan-nyilvántartásba be nem jegyezhető, a Magyarországi Református Egyház Bethesda Gyermekkórháza részére történő továbbhasznosítást biztosító ingyenes használati jog illet meg.
 
 (6) Az (1) bekezdés szerinti vagyonjuttatás az Áfa tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+(7) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a magyar állam tulajdonában álló, az ingatlan-nyilvántartás szerinti Budapest, XIV. kerület belterület 32659 helyrajzi számú ingatlan (e § alkalmazásában a továbbiakban: ingatlan2) ingyenesen az Egyház tulajdonába kerül egészségügyi feladatok ellátásának elősegítése érdekében.
+
+(8) A (7) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az Egyházzal. A szerződésben az ingatlan2 forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.
+
+(9) Az Egyház az ingatlan2-t terhekkel együtt szerzi meg. A (7) bekezdés szerinti tulajdonátruházás feltétele, hogy az Egyház az ingatlan2-t terhelő kötelezettségeket a (8) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
+
+(10) A (7) bekezdés szerinti vagyonjuttatás az Áfa tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
 #### 7/B. Sportszervezetek részére történő vagyonjuttatás
 
@@ -363,7 +373,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (3) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az MTK-val. A szerződésben az ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.
 
-(4) Az MTK az ingatlant per-, teher- és igénymentesen szerzi meg.
+(4) Az MTK az ingatlant per-, teher- és igénymentesen szerzi meg, ide nem értve az ingatlanon 2025. augusztus 1-jén már fennálló bérleti jogcímet biztosító megállapodást.
 
 (5) Az ingatlanhoz kapcsolódó fizetési kötelezettségek az MTK-t az érintett ingatlan birtokátruházását követően terhelik.
 

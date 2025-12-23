@@ -65,7 +65,7 @@ látja el.
 
 (4) A légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás – ide nem értve a léginavigációs szolgáltatásokat nyújtó, valamint a léginavigációs szolgáltatások nyújtását közvetlenül támogató munkakörökben foglalkoztatottak képesítéseit és azok vizsgáztatói tanúsítását, valamint a légiutas-kísérők tanúsítványát –, valamint a koordinációs feladatok ellátására szolgáló földi rádióállomás kezelői engedély megszerzéséhez szükséges vizsgáztatást – jogszabály eltérő rendelkezése hiányában – e törvény felhatalmazása alapján a Kormány által a közúti közlekedési, a hajózási, valamint a vasúti vizsgáztatásra kijelölt közlekedési vizsgaközpont (a továbbiakban: légiközlekedési vizsgaközpont) végzi.
 
-(4a) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a vizsgán résztvevők, valamint a vizsgára jelentkezők természetes személyazonosító adatait.
+(4a) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás, valamint a koordinációs feladatok ellátására szolgáló földi rádióállomás-kezelői engedély megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a vizsgán résztvevők, valamint a vizsgára jelentkezők természetes személyazonosító adatait.
 
 (4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a légiközlekedési hatóság adatkérése alapján a pilóta nélküli légijármű-rendszerekről, valamint a pilóta nélküli légijármű-rendszer üzemben tartókról vezetett nyilvántartáshoz kapcsolódóan a kérelmezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
 
@@ -110,6 +110,7 @@ látja el.
 - o)
 - p) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
 - q) a légiközlekedési szakszemélyzet repülőorvosi minősítésének másodlagos felülvizsgálati eljárása.
+- r) az (EU) 2019/947 bizottsági végrehajtási rendelet szerinti műveleti engedély, könnyű UAS-üzembentartói tanúsítvány, légijármű-modellező klubok vagy egyesületek keretében végrehajtott UAS-műveletekre vonatkozó engedélyek jóváhagyása, módosítása.
 
 (2c) Az ügyintézési határidő 90 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
@@ -228,7 +229,7 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 (9) A pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárással összefüggésben az eljáró hatóság a pilóta nélküli légijárművet használatba adó üzembentartó és a pilóta nélküli légijárművet használatba vevő, valamint távoli pilóta természetes személy esetén a személyazonosító adataira, lakcímére, jogi személy esetén annak megnevezésére, székhelyére vonatkozó adatokat az eljárás lefolytatása, a tényállás megállapítása és a döntés meghozatala, a jogorvoslati eljárások lefolytatása érdekében a pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárás kezdetétől kezeli a döntés véglegessé válásától számított öt év elteltéig.
 
-(10) A légiközlekedési vizsgaközpont az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a légiközlekedési szakszemélyzeti képesítések megszerzéséhez szükséges vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és ezek hitelességének utólagos igazolása céljából – uniós jogi aktus vagy törvény eltérő rendelkezése hiányában – nyilvántartani a vizsga teljesítését követő 40 évig.
+(10) A légiközlekedési vizsgaközpont az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és ezek hitelességének utólagos igazolása céljából – uniós jogi aktus vagy törvény eltérő rendelkezése hiányában – nyilvántartani a vizsga teljesítését követő 40 évig.
 
 (11) A légiközlekedési hatóság a 61/A. § (2) bekezdésében meghatározott légiforgalmi szolgálatot tájékoztatja
 
@@ -304,6 +305,10 @@ vonatkozó azon döntéseiről, amelyek a meglévő tanúsítványok és engedé
 (11) A légiközlekedési hatóság e törvény alapján meghatározott feltételek jogszerű teljesítése, valamint a repülésbiztonság megfelelő szintjének biztosítása érdekében teljesíti jogszabályokban meghatározott közzétételi kötelezettségét.
 
 (12) A légiközlekedési hatósági eljárásban részt vevők a (10) bekezdésben meghatározott, a légiközlekedési hatóság honlapján erre a célra létrehozott felületen közzétett – a jogszabályokkal összhangban kialakított – műszaki és szakmai követelményeket betartva kötelesek eljárni.
+
+(13) A földi kiszolgáló engedéllyel rendelkező szervezet, a magyar működési engedéllyel rendelkező légifuvarozó, a 37. § (1) bekezdés a) pont aa) alpontja szerinti repülőtér üzemben tartója, valamint a HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság köteles a rendes működési tevékenységi körébe nem tartozó, illetve a rendes működést veszélyeztető eseményről, körülményről vagy információról haladéktalanul tájékoztatni a légiközlekedési hatóságot.
+
+(14) A Szabályozott Tevékenységek Felügyeleti Hatósága az (EU) 2023/203 bizottsági végrehajtási rendelet hatálya alá tartozó szervezetek vonatkozásában az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló 2022. december 14-i európai parlamenti és tanácsi irányelv alapján lefolytatott audit eredményeket megküldi a légiközlekedési hatóság részére.
 
 3/D. § (1) A légiközlekedési hatóság nemzetközi szerződésben meghatározott kötelezettség teljesítése alapján előírt követelmények alól mentesítést adhat az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó természetes vagy jogi személy részére, az e személyeket érintő, előre nem látható kényszerítő körülmények vagy e személyeknek az üzemben tartással kapcsolatos erre irányuló kérelme alapján, amennyiben az alábbi feltételek mindegyike teljesül:
 
@@ -577,7 +582,16 @@ vonatkozó azon döntéseiről, amelyek a meglévő tanúsítványok és engedé
 
 (19) A nyilvántartásba vett pilóta nélküli légijárművön az üzembentartó nyilvántartási száma mellett jól látható módon fel kell tüntetni az eszköz nyilvántartási jelét is.
 
-17/A. § A repülőeszközökről és a pilóta nélküli légijárművekről vezetett nyilvántartásból a Nemzeti Információs Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés, elemzés-értékelés, valamint hírigény teljesítése céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
+17/A. § A légiközlekedési hatóság által e törvény szerint
+
+- a) repülőeszközökről és a pilóta nélküli légijármű-rendszerekről, valamint pilóta nélküli légijármű-rendszer üzembentartókról,
+- b) lajstromról,
+- c) bejelentéshez kötött képzési tevékenységekről,
+- d) tanúsított vizsgáztatókról,
+- e) kiadott szakszolgálati engedélyekről, valamint
+- f) üzembentartási engedélyekről,
+
+vezetett nyilvántartások adatait a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladataik ellátása céljából a polgári nemzetbiztonsági szolgálat, valamint terrormegelőzési célból a terrorizmust elhárító szerv közvetlen adathozzáféréssel átveheti.
 
 ### Az állami légijármű nyilvántartása és jelzései
 
@@ -900,6 +914,8 @@ kezelheti.
 
 - a) beszállás lezárása: amikor az utasok beszálltak a felszállásra készülő repülőgépre és az utasok beszállása, vagy kiszállása már nem lehetséges,
 - b) utas: a személyzet tagja kivételével az egy légi jármű fedélzetén a személyszállítást végző légifuvarozó hozzájárulásával szállított vagy szállítandó személy – beleértve a tranzit- vagy átszálló utasokat is –, akinek a személyes adatai kezeléséhez való hozzájárulását az utasjegyzékbe történő felvétele igazolja.
+
+27/E. § A személyszállítást végző légifuvarozó nemzetbiztonsági és terrormegelőzési célból köteles a veszélyes árut vagy fegyvert szállító utasokra, poggyászra, áru- és rakománytartalomra vonatkozó adatokat – ideértve a 27/A. § (1) és (3) bekezdés szerinti adatokat – közvetlenül megküldeni a terrorizmust elhárító szerv, az általános rendőrségi feladatok ellátására létrehozott szerv, a Nemzeti Adó- és Vámhivatal, valamint az Alkotmányvédelmi Hivatal részére.
 
 ### A légijárművel végzett egyéb gazdasági tevékenység
 
@@ -1416,7 +1432,7 @@ köteles elhelyezni és karbantartani.
 
 - a) neve: HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság (a továbbiakban: Társaság);
 - b) székhelye: H-1185 Budapest, Igló u. 33–35.;
-- c) alapítója és egyedüli részvényese: a Magyar Állam;
+- c) 100%-os állami tulajdonban áll vagy az állam 100%-os tulajdonában álló gazdasági társaság 100%-os tulajdonában áll.
 - d)
 
 (3) A Társaság feladatai:
@@ -1617,23 +1633,29 @@ fennmaradó részét. A megszüntetés időpontját követően a felek köthetne
 
 (5)
 
-64/A. § (1) A légiközlekedési hatóság a 376/2014/EU európai parlamenti és tanácsi rendelet 5. cikkével, valamint 16. cikk (12) bekezdésével összhangban önkéntes jelentési rendszert, valamint bizottságot működtet, amelynek szabályait a Kormány rendeletben határozza meg.
+64/A. § (1) A légiközlekedési hatóság a 376/2014/EU európai parlamenti és tanácsi rendelet 5. cikkével és 6. cikk (12) bekezdésével összhangban bizottságot működtet, valamint a 376/2014/EU európai parlamenti és tanácsi rendelet 15. cikk (4) bekezdésével összhangban a hatóságok közötti együttműködés előzetes igazgatási megállapodások révén valósul meg, amely bizottsággal kapcsolatos szabályokat és az előzetes igazgatási megállapodással összefüggő szabályokat a Kormány rendeletben határozza meg.
 
 (2) A légiközlekedési hatóság biztosítja, hogy személyes adatok csak abban az esetben legyenek hozzáférhetőek a bizottság tagjának megfelelően kijelölt személyektől eltérő munkatársak számára is, ha ez feltétlenül szükséges az eseményeknek a légi közlekedés biztonságának megerősítése érdekében végzett kivizsgálásához, és azok nem rögzíthetőek nemzeti, valamint az Európai Repülésbiztonsági Ügynökség adatbázisában.
 
 #### 65. §
 
-### VI/A. Fejezet — Baleseti és repülésbiztonsági szolgálatok
+### VI/A. Fejezet — REPÜLÉSBIZTONSÁGI SZERVEZETEK
 
-65/A. § (1) A légiközlekedés biztonsága érdekében a polgári légijármű üzemben tartójának, az állami légijármű és a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott esetben a pilóta nélküli állami légijármű üzemben tartójának és üzemeltetőjének, a repülőtér üzemben tartójának, az állami repülések céljára szolgáló repülőtér üzemeltetőjének, a légiforgalmi szolgálatnak vezetőjük közvetlen alárendeltségében repülésbiztonsági szervezetet kell fenntartania, vagy a feladat ellátására más szervezettel szerződést kell kötnie.
+65/A. § (1) A légiközlekedés biztonsága érdekében annak a polgári légijármű üzemben tartónak, karbantartó szervezetnek, légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és gyártó szervezetnek, repülőtér üzemben tartónak, valamint földi kiszolgáló szervezetnek, – kivéve, aki a 2018/1139/EU európai parlamenti és tanácsi rendelet rendelkezései alapján Repülésbiztonság-irányítási Rendszer működtetésére köteles – repülésbiztonsági szervezetet kell fenntartania, vagy a feladat ellátására más szervezettel szerződést kell kötnie.
 
-(2) Az (1) bekezdésben meghatározott szervezet engedélyét – az állami légijármű és a pilóta nélküli állami légijármű üzembentartója és üzemeltetője, az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér üzembentartója és üzemeltetője, az állami légiforgalmi szolgálat repülésbiztonsági szervezetének kivételével – a légiközlekedési hatóság adja ki. Az állami légijármű és a pilóta nélküli állami légijármű üzembentartója és üzemeltetője, az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér üzembentartója és üzemeltetője, és az állami légiforgalmi szolgálat repülésbiztonsági szervezetének engedélyét a katonai légügyi hatóság adja ki. A légiközlekedési hatóság és a katonai légügyi hatóság – a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott szakmai vizsgálattal összefüggésben történő kapcsolattartás biztosítása céljából – tájékoztatja az illetékes közlekedésbiztonsági szervet a kiadott, felfüggesztett és visszavont engedélyekről.
+(2) Az (1) bekezdésben meghatározott szervezet engedélyét a légiközlekedési hatóság adja ki. A légiközlekedési hatóság – a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott szakmai vizsgálattal összefüggésben történő kapcsolattartás biztosítása céljából – tájékoztatja az illetékes közlekedésbiztonsági szervet a kiadott, felfüggesztett és visszavont engedélyekről.
 
 (3) A polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU rendelet (a továbbiakban: 376/2014/EU európai parlamenti és tanácsi rendelet) 4. cikk (2) bekezdésében és az 5. cikk (1) bekezdésében meghatározott kötelező és önkéntes jelentéstételi rendszer létrehozását, valamint a 6. cikk (1) bekezdésében meghatározott személyek kijelölését a repülésbiztonsági szervezeten belül kell végrehajtani.
 
-(3a) Az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű üzemben tartójának, az állami légijármű, és a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott esetben a pilóta nélküli állami légijármű üzemben tartójának és üzemeltetőjének, az állami repülések céljára szolgáló repülőtér üzemeltetőjének, az állami légiforgalmi szolgálatnak a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott események bejelentésére, elemzésére, nyomon követésére, valamint a szükséges intézkedések meghozatalára a repülésbiztonsági szervezeten belül baleseti készenléti szolgálatot, továbbá a légiközlekedés biztonsága érdekében repülésbiztonsági szolgálatot kell fenntartania, vagy csatlakoznia kell olyan szervezethez, amely a légiközlekedési hatóság jóváhagyásával e szolgálatok feladatait átvállalja, vagy az állami légijármű, a pilóta nélküli állami légijármű üzemben tartója és üzemeltetője, az állami repülések céljára szolgáló repülőtér üzemben tartója és üzemeltetője, és az állami légiforgalmi szolgálat esetén a katonai légügyi hatóság jóváhagyásával e szolgálatok feladatait átvállalja.
+(3a)
 
-(4) A repülésbiztonsági szervezettel kapcsolatos részletes szabályokat a légiközlekedési balesetek, a repülőesemények szakmai vizsgálatának részletes szabályairól szóló, és a kizárólag állami légijárművel, pilóta nélküli állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények szakmai vizsgálatának részletes szabályairól, valamint a kizárólag állami légijárművel, pilóta nélküli állami légijárművel összefüggő üzembentartói vizsgálat szabályairól szóló jogszabály határozza meg.
+(4) A repülésbiztonsági szervezetek működésével kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
+
+65/B. § (1) A légiközlekedés biztonsága érdekében az állami légijármű üzembentartójának és üzemeltetőjének, az állami repülések céljára szolgáló és a közös felhasználású repülőtér üzemeltetőjének, a légvédelmi irányító és a katonai légiforgalmi szolgálatnak, a pilóta nélküli állami légijármű repüléséről szóló kormányrendeletben meghatározott esetben a pilóta nélküli állami légijármű üzemben tartójának a vezetőjük közvetlen alárendeltségében repülésbiztonsági szervezetet kell fenntartania, vagy a feladat ellátására más szervezettel szerződést kell kötnie.
+
+(2) Az (1) bekezdés szerinti repülésbiztonsági szervezet működési engedélyét a katonai légügyi hatóság adja ki, amely a kiadott, felfüggesztett és visszavont engedélyekről tájékoztatja az állami közlekedésbiztonsági szervet.
+
+(3) A repülésbiztonsági szervezetet működtető szervezet és a pilóta nélküli állami légijármű repüléséről szóló kormányrendeletben meghatározott esetben a pilóta nélküli állami légijármű üzembentartója a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott események bejelentésére, elemzésére, nyomon követésére, valamint a szükséges intézkedések meghozatalára baleseti készenléti szolgálatot tart fenn, vagy csatlakoznia kell olyan szervezethez, amely a katonai légügyi hatóság jóváhagyásával e szolgálat feladatait átvállalja.
 
 66. § (1)
 
@@ -1645,7 +1667,7 @@ fennmaradó részét. A megszüntetés időpontját követően a felek köthetne
 
 (5)
 
-(6) A Repülésbiztonság-irányítási Rendszer működését a légiközlekedési hatóság ellenőrzi. Ennek keretében a légiközlekedési hatóság jogosult a kiadott engedélyek felfüggesztésére vagy visszavonására.
+(6) A Repülésbiztonság-irányítási Rendszer működésének ellenőrzését, valamint a repülésbiztonsági szervezet felügyeletét a légiközlekedési hatóság végzi. Ennek keretében a légiközlekedési hatóság jogosult a kiadott engedélyek felfüggesztésére, visszavonására, valamint az engedélyezett tevékenységek korlátozására.
 
 (7) A légiközlekedési hatóság a közlekedésbiztonsági szervvel együttműködve végzi el a 376/2014/EU európai parlamenti és tanácsi rendelet 13. cikk (6) bekezdésében meghatározott események elemzését.
 
@@ -2134,7 +2156,8 @@ céljából is felhasználható.
 - h) az állami légijármű nyilvántartásának, gyártásának és javításának, valamint annak típus- és légialkalmasságának részletes szabályait,
 - i) a pilóta nélküli állami légijárművek nyilvántartásának, gyártásának, javításának, típus- és légialkalmasságának, üzemben tartásának, üzemeltetésének, repülésének, a kezelő személyzet képesítésének, valamint a vonatkozó hatósági eljárásoknak a részletes szabályait,
 - j) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. Mellékletében szereplő Magyarországon regisztrált vagy nyilvántartott polgári légijárművek légijármű-komponens és légiközlekedéssel kapcsolatos eszköz tervezésével, gyártásával, építésével, típus- és légialkalmassági tanúsításával, egyedi repülési engedélyezésével, folyamatos légialkalmasságának fenntartásával, megfelelőségi tanúsításával összefüggő közigazgatási hatósági eljárás kiegészítő eljárásjogi szabályait,.
-- k) az önkéntes jelentési rendszer és bizottság működési szabályait, valamint az ehhez kapcsolódó igazgatási megállapodások megkötésével összefüggő szabályokat
+- k) a 376/2014/EU európai parlamenti és tanácsi 16. cikk (12) bekezdésével összhangban létrehozott bizottság működésével, valamint a 376/2014/EU európai parlamenti és tanácsi rendelet 15. cikk (4) bekezdésben szereplő előzetes igazgatási megállapodással összefüggő szabályokat,
+- l) a repülésbiztonsági szervezetek működésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -2247,6 +2270,7 @@ rendeletben állapítsa meg.
 - 28. a pilóta nélküli légi járművekkel végzett műveletekre vonatkozó szabályokról és eljárásokról szóló, 2019. május 24-i (EU) 2019/947 bizottsági végrehajtási rendelet.
 - 29. az (EU) 2015/1998 végrehajtási rendeletnek bizonyos egyedi légiközlekedés-védelmi intézkedések egyértelműsítése, harmonizálása, egyszerűsítése és megerősítése tekintetében történő módosításáról szóló, 2019. január 23-i (EU) 2019/103 bizottsági végrehajtási rendelet,
 - 30. az egységes európai égbolt végrehajtásáról szóló 2024. október 23-i, (EU) 2024/2803 európai parlamenti és tanácsi rendelet.
+- 31. az (EU) 2018/1139 európai parlamenti és tanácsi rendeletnek az 1321/2014/EU, a 965/2012/EU, az 1178/2011/EU és az (EU) 2015/340 bizottsági rendelet, továbbá az (EU) 2017/373 és az (EU) 2021/664 bizottsági végrehajtási rendelet hatálya alá tartozó szervezetek, valamint a 748/2012/EU, az 1321/2014/EU, a 965/2012/EU, az 1178/2011/EU, az (EU) 2015/340 és a 139/2014/EU bizottsági rendelet, továbbá az (EU) 2017/373 és az (EU) 2021/664 bizottsági végrehajtási rendelet hatálya alá tartozó illetékes hatóságok tekintetében a repülésbiztonságra potenciálisan hatást gyakorló információbiztonsági kockázatok kezelésére vonatkozó követelmények tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az 1178/2011/EU, a 748/2012/EU, a 965/2012/EU, a 139/2014/EU, az 1321/2014/EU és az (EU) 2015/340 bizottsági rendelet, továbbá az (EU) 2017/373 és az (EU) 2021/664 bizottsági végrehajtási rendelet módosításáról szóló, 2022. október 27-i, (EU) 2023/203 bizottsági végrehajtási rendelet.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -2367,10 +2391,10 @@ rendeletben állapítsa meg.
 | 59. | 5700 kg alatti maximális felszálló tömegű helikoptert üzemben tartó szervezet éves felügyelete engedélybe bejegyzett 5 vagy több légijármű felett | 500 000 |
 | 60. | Ballont üzemben tartó szervezet éves felügyelete | 50 000 |
 | VI. A 139/2014 EU rendelet alapján engedélyezett repülőterek |  |  |
-| 61. | Nemzetközi kereskedelmi repülőteret üzemben tartó szervezet éves felügyelete 700 000 utas /év feletti forgalom esetén | 10 000 000 |
-| 62. | Nemzetközi kereskedelmi repülőteret üzemben tartó szervezet éves felügyelete 700 000 utas /év alatti forgalom esetén | 5 000 000 |
-| 63. | Kereskedelmi repülőteret üzemben tartó szervezet éves felügyelete 10 000 utas /év feletti forgalom esetén | 2 500 000 |
-| 64. | Kereskedelmi repülőteret üzemben tartó szervezet éves felügyelete 10 000 utas /év alatti forgalom esetén | 1 500 000 |
+| 61. | Nemzetközi kereskedelmi repülőteret üzemben tartó szervezet éves felügyelete 2 000 000 utas /év feletti forgalom esetén | 10 000 000 |
+| 62. | Nemzetközi kereskedelmi repülőteret üzemben tartó szervezet éves felügyelete 2 000 000 utas /év alatti forgalom esetén | 5 000 000 |
+| 63. | Kereskedelmi repülőteret üzemben tartó szervezet éves felügyelete 10 000 utas /év feletti forgalom esetén | 1 750 000 |
+| 64. | Kereskedelmi repülőteret üzemben tartó szervezet éves felügyelete 10 000 utas /év alatti forgalom esetén | 1 000 000 |
 | VII. A 2017/373 EU rendelet alapján engedélyezett léginavigációs szolgáltatók és légiforgalmi szolgáltatást ellátó szakszemélyzetképző szervezetek |  |  |
 | 65. | CNS szolgáltató éves felügyelete ATC szolgáltatást nyújtó repülőtér esetén | 5 000 000 |
 | 66. | CNS szolgáltatók éves felügyelete AFIS szolgáltatást nyújtó repülőtér esetén | 2 500 000 |

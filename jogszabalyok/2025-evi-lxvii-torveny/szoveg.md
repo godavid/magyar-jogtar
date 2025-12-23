@@ -741,11 +741,13 @@ lép.
 
 (13) A 27. § a)–d) pontja, a 18. alcím, a 21. alcím 2025. október 1-én lép hatályba.
 
-(14) A 2. alcím, a 7. alcím, a 20. §, a 22–24. §, a 25. § (2) bekezdése, a 174. §, a 176. § a) pontja, a 49. alcím, az 52. alcím, 233. §, az 55. alcím és az 58. alcím 2026. január 1-én lép hatályba.
+(14) A 2. alcím, a 7. alcím, a 20. §, a 22–24. §, a 25. § (2) bekezdése, a 174. §, a 176. § a) pontja, a 49. alcím, az 52. alcím, a 233. § és az 58. alcím 2026. január 1-én lép hatályba.
 
 (15) A 171. §, 175. § (2) bekezdése 2026. július 1-én lép hatályba.
 
-(16) A 44. §, az 50. § (2) bekezdése és az 1. melléklet 2. pontja 2026. július 10-én lép hatályba.
+(15a) A 44. §, az 50. § (2) bekezdése és az 1. melléklet 2. pontja 2026. július 10-én lép hatályba.
+
+(16) Az 55. alcím 2027. január 1-jén lép hatályba.
 
 264. § A 198–200. § és a 201. § a), c) és d) pontja az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
 

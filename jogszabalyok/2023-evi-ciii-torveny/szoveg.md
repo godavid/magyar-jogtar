@@ -73,7 +73,7 @@ Az Országgyűlés – felismerve azt, hogy az információs és kommunikációs
 
 (1a) A digitális állampolgárság szolgáltató, valamint az életesemény-alapú szolgáltatás szolgáltatója az e törvény, valamint az e törvény felhatalmazása alapján kiadott rendeletekben foglalt közfeladatai ellátása körében az (1) bekezdés szerinti nyilvántartásokból és szakrendszerekből szolgáltatott adatokért fizetendő igazgatási szolgáltatási és más díj megfizetése alól mentesül.
 
-(1b) A digitális állampolgárság szolgáltató, az életesemény-alapú szolgáltatás szolgáltatója a keretszolgáltatásokat és a támogató szolgáltatásokat az általa nyújtott szolgáltatások nyújtásához díjmentesen igénybe veheti.
+(1b) A digitális állampolgárság szolgáltató, az életesemény-alapú szolgáltatás szolgáltatója, valamint a támogató szolgáltatás nyújtója a keretszolgáltatásokat és a támogató szolgáltatásokat az általa nyújtott szolgáltatások nyújtásához díjmentesen igénybe veheti.
 
 (1c) Az aggregátum szolgáltatás a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 3. cikk 47. pontja szerinti hiteles forrásnak minősül.
 
@@ -682,7 +682,7 @@ tehető vagy módosítható.
 - a) az azonos hatáskörű szervek közül kijelölheti azt a digitális szolgáltatást biztosító szervezetet, amely az adott ügy elektronikus intézésére országos illetékességgel kizárólagosan jogosult,
 - b) rendelkezhet úgy, hogy elektronikus ügyintézés esetén az azonos hatáskörű szervek mindegyike országos illetékességgel jár el és az ügyek elosztása objektív szempontok szerint, automatikusan történik meg.
 
-(6) Az állam a (2) bekezdés szerinti digitális szolgáltatást biztosító információs rendszer működtetéséhez szükséges, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásokat, valamint központi elektronikus ügyintézési szolgáltatásokat a 9. § (2) bekezdés szerinti szerveknek díjmentesen biztosítja.
+(6) Az állam a (2) bekezdés szerinti digitális szolgáltatást biztosító információs rendszer működtetéséhez szükséges, keretszolgáltatásokat és támogató szolgáltatásokat a 9. § (2) bekezdés szerinti szerveknek díjmentesen biztosítja.
 
 (7) A Kormány rendeletében meghatározott digitális szolgáltatást biztosító szervezetek kötelesek az ügyek intézésével kapcsolatos, a Kormány rendeletében meghatározott információs rendszerekről, nyilvántartásokól és adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben mentéseket létrehozni, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldeni. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.
 
@@ -1001,7 +1001,9 @@ terjedhet ki.
 
 (4) A digitális állampolgárság szolgáltató az (1) és (2) bekezdés szerinti rendelkezést a felhasználó digitális állampolgár azonosítójához kapcsoltan a felhasználók adattovábbítási célú hozzájárulásainak nyilvántartásában kezeli.
 
-(5) A hozzájárulás alapú adatszolgáltatás teljesítése érdekében a digitális állampolgárság szolgáltató által nyilvántartott adatokat és az aggregátum szolgáltatás nyújtására, a szolgáltatáshoz történő csatlakozásra, valamint a csatlakozó szervek nyilvántartásának vezetésére vonatkozó szabályokat a Kormány rendeletben állapítja meg.
+(4a) A digitális állampolgárság szolgáltató szakértői szolgáltatást biztosíthat díj ellenében az aggregátum szolgáltatáshoz és a hozzájárulás alapú adatszolgáltatáshoz csatlakozó szervek számára a csatlakozás és a szolgáltatás igénybevétele során.
+
+(5) A hozzájárulás alapú adatszolgáltatás teljesítése érdekében a digitális állampolgárság szolgáltató által nyilvántartott adatokat és az aggregátum szolgáltatás nyújtására, a szolgáltatáshoz történő csatlakozásra, a csatlakozás és a szolgáltatás igénybevétele során igénybe vehető szakértői szolgáltatásra és annak díjára valamint a csatlakozó szervek nyilvántartásának vezetésére vonatkozó szabályokat a Kormány rendeletben állapítja meg.
 
 #### 35. A felhasználói profil
 
@@ -1098,6 +1100,8 @@ kormányrendelet állapítja meg.
 (3) A Kormány által biztosított elektronikus azonosítási szolgáltatás vagy – a Kormány rendeletében meghatározott eltérésekkel – azzal azonos tartalmú piaci szereplők részére nyújtható központi állami szolgáltatás igénybevétele során, az azonosítás folyamata és eredményessége biztosítása érdekében a piaci szereplő kezeli azon személyes adatokat, amelyek a szolgáltatás igénybevételéhez elengedhetetlenül szükségesek.
 
 (4) A támogató szolgáltatás, valamint a piaci szereplők részére nyújtható központi állami szolgáltatás (e § alkalmazásában a továbbiakban együtt: Szolgáltatás) e fejezet szerinti igénybevétele feltételeinek, a Szolgáltatásra vonatkozó jogszabályokban előírt jogok és kötelezettségek teljesítését a digitális szolgáltatások felügyelete a 38. alcím szerint ellenőrzi azzal, hogy a felügyeleti vizsgálat tekintetében a Szolgáltatást szabályozott elektronikus ügyintézési szolgáltatásnak, a Szolgáltatás igénybevevőjét digitális szolgáltatást biztosító szervezetnek, a Szolgáltatás igénybevevőjével elektronikusan kapcsolatot tartó személyt vagy szervet felhasználónak kell tekinteni.
+
+(5) A Szolgáltatás szolgáltatója szakértői szolgáltatást biztosíthat díj ellenében az igénybe vevő számára a csatlakozás és a szolgáltatás igénybevétele során. A szakértői szolgáltatás és a díj megállapításának részletszabályait a Kormány rendeletben határozza meg.
 
 #### 66. §
 
@@ -1344,7 +1348,7 @@ gazdálkodó szervezet.
 
 (3) Az (1) bekezdés a) b), d), f) és g) pontja szerinti gazdálkodó szervezet, amelynek számlakibocsátása nem éri el a (2) bekezdésben meghatározott küszöböt, a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
 
-(4) Az (1) bekezdés i)–n) pontja szerinti gazdálkodó szervezet a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
+(4) Az (1) bekezdés i)–n) pontja szerinti gazdálkodó szervezet a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően, kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
 
 (5) Arra az (1) bekezdés c), e) és h) pontja szerinti gazdálkodó szervezetre, amelynek szolgáltatásait a tárgyévet megelőző évben legalább 50 000 természetes személy felhasználó vette igénybe, a 9. § (2) bekezdése szerinti jogalanyokra vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy a keretszolgáltatások közül az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
 
@@ -1373,6 +1377,8 @@ gazdálkodó szervezet.
 (8) A digitális szolgáltatás biztosítására kötelezett szervezet az (1)–(7) bekezdésben foglalt feltételek betartásával folyamatosan, a szolgáltatásnyújtás teljes időtartama alatt biztosítja a keretszolgáltatások követelményeinek teljesítését. A feltételek folyamatos biztosításának módját és azok igazolását a Kormány rendeletben határozza meg.
 
 (9) A digitális szolgáltatás biztosítására kötelezett szervezet a felhasználó számára ellenszolgáltatás és további díj felszámítása nélkül biztosítja a keretszolgáltatások igénybevételét.
+
+(10) A 80. § (1) bekezdése szerinti szervezetek számára a digitális állampolgárság szolgáltató a keretszolgáltatásokhoz kapcsolódó csatlakozás és szolgáltatás igénybevétele során szakértői szolgáltatást nyújthat. A szakértői szolgáltatás és a díj megállapításának részletszabályait a Kormány rendeletben határozza meg.
 
 ## HATODIK RÉSZ — A BIZALMI SZOLGÁLTATÁSOKRÓL
 
@@ -1877,7 +1883,7 @@ kell biztosítani.
 - 9. a digitális szolgáltatás nyújtására köteles szervek egymás közötti, valamint a természetes személyekkel vagy gazdálkodó szervezetekkel történő elektronikus kapcsolattartására vonatkozó szabályokat.
 - 10. a proaktív szolgáltatásokat, valamint a proaktív szolgáltatás nyújtására vonatkozó szabályokat,
 - 11. a hozzájárulás alapú adatszolgáltatás teljesítése érdekében a digitális állampolgárság szolgáltató által nyilvántartott adatokat,
-- 12. az aggregátum szolgáltatás nyújtására, a szolgáltatáshoz történő csatlakozásra, valamint a csatlakozó szervek nyilvántartásának vezetésére vonatkozó szabályokat,
+- 12. az aggregátum szolgáltatás nyújtására, a szolgáltatáshoz történő csatlakozásra, a csatlakozás és a szolgáltatás igénybevétele során igénybe vehető szakértői szolgáltatásra és annak díjára, valamint a csatlakozó szervek nyilvántartásának vezetésére vonatkozó szabályokat,
 - 13. az európai digitális személyiadat-tárca felügyelet feladatának részletszabályait.
 
 114. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
@@ -1911,14 +1917,16 @@ kell biztosítani.
 - 6. a hozzájárulás alapú adatszolgáltatásra vonatkozó szabályokat,
 - 7. az ePapír szolgáltatás nyújtásának tartalmi követelményeit és eljárási rendjét, valamint a szolgáltatás igénybevételének részletes követelményeit.
 - 8. a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait.
+- 9. az egyes támogató szolgáltatások, valamint a piaci szereplők részére nyújtható központi állami szolgáltatások harmadik fél szolgáltató csatlakozása és igénybevétele során nyújtható szakértői szolgáltatás és a díj megállapításának részletszabályait,
+- 10. a digitális szolgáltatás biztosítására kötelezett szervezetnek nyújtható szakértői szolgáltatás és a díj megállapításának részletszabályait.
 
 115. § (1) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg:
 
 - 1. a bizalmi szolgáltatásokkal kapcsolatos részletes követelményeket, így különösen a bizalmi szolgáltatók pénzügyi és személyzeti megfelelőségével, a tevékenységével és az általa használt eszközökkel kapcsolatos követelményeket, az igénybe vevők szerződésének megkötésével és a szerződéskötéssel összefüggő tájékoztatási kötelezettségével kapcsolatos követelményeket, valamint a szolgáltatási szerződésre, a bizalmi szolgáltatás nyújtásának egyéb feltételeire (így a bizalmi szolgáltatási rendre és szolgáltatási szabályzatra) vonatkozó részletes feltételeket,
 - 2. az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek és az európai digitális személyiadat-tárca felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 - 3. a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv által igénybe vett központosított informatikai és hírközlési szolgáltatások, a központi szolgáltató által fejlesztett vagy üzemeltetett informatikai rendszereket, a kormányzati célú hálózatok és hálózati szolgáltatások igénybevételének szabályait.
-- 4. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet és az önkéntesen csatlakozott szervezet által fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját,
-- 5. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet számára az aktivált felhasználói profillal rendelkező felhasználó adatainak és adatváltozásainak az aggregátum szolgáltatás keretében történő rendelkezésre bocsátásáért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját.
+- 4. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet, a digitális szolgáltatás biztosítására kötelezett szervezetnek nem minősülő piaci szereplő és az önkéntesen csatlakozott szervezet által fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját,
+- 5. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet, a digitális szolgáltatás biztosítására kötelezett szervezetnek nem minősülő piaci szereplő és az önkéntesen csatlakozott szervezet számára az aktivált felhasználói profillal rendelkező felhasználó adatainak és adatváltozásainak az aggregátum szolgáltatás keretében történő rendelkezésre bocsátásáért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját.
 
 (2) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben állapítsa meg
 
@@ -1973,13 +1981,13 @@ kell biztosítani.
 
 (5) Annak a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személynek, aki valamely e törvénnyel megszüntetett, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatást vett igénybe, az azonosításhoz kötött digitális ügyeinek intézéséhez 2025. január 15-ig át kell térnie – választása szerint – valamely, a 46. § (1) bekezdés a) vagy b) pontja szerinti szolgáltatás használatára. E bekezdés alkalmazásában a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatások az áttérésig továbbhasználhatók.
 
-(6) A személyiadat- és lakcímnyilvántartás hatálya alá tartozó személy – a 46. § (3) bekezdésétől eltérően – 2026. december 31-ig az e törvény 46. § (1) bekezdésében meghatározott valamennyi, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás útján azonosíthatja magát.
+(6) A személyiadat- és lakcímnyilvántartás hatálya alá tartozó személy – a 46. § (3) bekezdésétől eltérően – 2028. december 31-ig az e törvény 46. § (1) bekezdésében meghatározott valamennyi, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás útján azonosíthatja magát.
 
 (7) A központi idegenrendészeti nyilvántartásban, vagy elektronikus ügyintézést igénybe vevő külföldiek nyilvántartásában szereplő természetes személy felhasználó 2025. január 14-ig az ügyfélkaput, 2025. január 15-től a 46. § (1) bekezdés b) pontja szerinti azonosítási szolgáltatást veheti igénybe.
 
 (8) 2024. szeptember 1-jétől az Nytv. szerinti állandó személyazonosító igazolvány tároló elemén az elektronikus aláírás létrehozásához szükséges adat nem helyezhető el.
 
-(9) A Kormány 2025. december 31-ig a 2024. augusztus 31-én hatályos E-ügyintézési törvény szerinti, nemzeti szinten elismert, bizalmi szolgáltatásnak nem minősülő biztonságos kézbesítési szolgáltatást nyújtja a 45. § (1) bekezdés b) pontja szerint szabályozott elektronikus ügyintézési szolgáltatásként.
+(9) A Kormány 2026. december 31-ig a 2024. augusztus 31-én hatályos E-ügyintézési törvény szerinti, nemzeti szinten elismert, bizalmi szolgáltatásnak nem minősülő biztonságos kézbesítési szolgáltatást nyújtja a 45. § (1) bekezdés b) pontja szerint szabályozott elektronikus ügyintézési szolgáltatásként.
 
 (10) A rendelkezési nyilvántartás 2025. december 31-ig kizárólag a 45. § (1) bekezdés b) pontja szerinti, Kormány által nyújtott szabályozott elektronikus ügyintézési szolgáltatáshoz kapcsolódó, a 13. § (1) bekezdés e) pontja szerinti adatokat tartalmazza.
 

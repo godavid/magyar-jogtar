@@ -433,7 +433,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - f) a biztosító elektronikus úton a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
 - g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról;
 - h) a vizsgaközpont elektronikusan, haladéktalanul
-  - ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
+  - ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa) és ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
   - hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
   - hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról, érvényességi idejéről, kiállító országáról, valamint az azon szereplő vezetői engedély számáról, típusáról, kiállító országáról, továbbá a 95-ös harmonizált uniós kódról és annak érvényességi idejéről,
   - hd) a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, járművezetői képzés és vizsgáztatás folyamatában tett nyilatkozatairól,
@@ -558,7 +558,7 @@ A NYILVÁNTARTÁSBÓL
 - u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, a (2) bekezdés a)–c) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, a (2) bekezdés a)–b) pontjában és (3) bekezdésében, valamint a gyermekvédelmi és gyámügyi hatáskört gyakorló szerv a vagyoni helyzet vizsgálata céljából, a 9. § (1) bekezdés a), b) és e) pontjában, és a (2) bekezdés a)–c) pontjában megjelölt adatokat térítésmentesen;
 - v) a hulladékgazdálkodási hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a)–b) és d)–e) pontjában, valamint a 9/D. § (1) bekezdésében megjelölt adatokat.
 - w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
-- z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1) és (1a) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
+- z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1) és (1a) bekezdésében meghatározott és a tulajdonosváltozásra vonatkozó adatokat, valamint a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésében felsorolt adatokat.
 
 (1a) A KSH az (1) bekezdés o) pontja szerint átvett adatokat a statisztikai adat-előállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az adatoknak az adatigénylő által meghatározott célra történő és az ahhoz kapcsolódó feldolgozásának, felhasználásának lezárását követően a KSH az adatokat törli.
 
@@ -576,8 +576,8 @@ A NYILVÁNTARTÁSBÓL
 - f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat;
 - g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési, vizsgáztatási és okmánykiállítási, valamint a vezetői engedély automatikus kiállításával összefüggő feladatainak ellátásához a 8. §-ban meghatározott adatokat ingyenesen;
 - h) a kereskedelmi hatóság az utazásszervezői tevékenységgel összefüggő eljárások és az azokkal kapcsolatos ellenőrzési feladatok ellátásához a 9. § (1) bekezdésében foglalt adatokat,
-- i) a szociális hatóság a pénzbeli és természetbeni ellátások megállapításához a 9. § (1) bekezdésében foglalt adatokat,
-- j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához a 9. § (1)–(1b) bekezdésében foglalt adatokat,
+- i)
+- j)
 - k) a környezet- és természetvédelmi hatóság a környezetkárosítást végzők beazonosítása érdekében a 9. § (1) bekezdésében foglalt adatokat,
 - l) a nyilvántartó által megbízott megszemélyesítést végző szervezet ingyenesen az automatikus úton kiállított vezetői engedély, törzskönyv és forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez az okmányra kerülő adatok tekintetében,
 - m)
@@ -602,7 +602,7 @@ A NYILVÁNTARTÁSBÓL
 
 21. § A nyilvántartásból adatot igényelhet természetes és nem természetes személy (a továbbiakban: kérelmező):
 
-- a) jogának vagy jogos érdekének érvényesítése érdekében a 8. § (1) bekezdés a) pont ac)–ae) alpontjában, a 8/A. § b)–c), e), i) pontjában meghatározott adatok kivételével;
+- a) adatot és iratot jogának vagy jogos érdekének érvényesítése érdekében a 8. § (1) bekezdés a) pont ac)–ae) alpontjában, a 8/A. § b), c), e) és i) pontjában meghatározott adatok kivételével;
 - b) tudományos kutatás céljából természetes személyazonosító és járműazonosító adatok kivételével;
 - c) közvélemény-kutatás és piackutatás céljára a jármű műszaki adataiból időbeli és területi bontásban;
 - d) közvetlen üzletszerzés céljára a jármű műszaki adataiból időbeli és területi bontásban.
@@ -625,7 +625,7 @@ A NYILVÁNTARTÁSBÓL
 
 - a) az engedély vagy a járműokmány típusára, okmányazonosító jelére, kiadására, érvényességére, cseréjére, visszavonására, elvesztésére, eltulajdonítására, megsemmisülésére, találására, megkerülésére vonatkozó adatok igénylésére irányul;
 - b) az abban feltüntetett adatok nyilvántartásban való ellenőrzésére irányul. Az adatszolgáltatás azonban csak az adatok egyezőségének, illetve eltérésének tényét, továbbá az eltérő adat fajtájának megnevezését tartalmazza;
-- c) a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
+- c) a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, motorszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
 - d) a járműnek a járműnyilvántartásba bejegyzett érvényes forgalmazási korlátozás tényének ellenőrzésére irányul,
 - e) a 9. § (2) bekezdés g) pontjában meghatározott adatok igénylésére irányul.
 
@@ -668,6 +668,8 @@ vonatkozó adatairól.
 
 (3e) A nyilvántartó biztosítja a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott szolgáltatásainak nyújtásához szükséges adatok informatikai adatkapcsolat útján történő közvetlen átadását.
 
+(3f) A nyilvántartó köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából, a feladatellátással érintett polgárok nyilvántartott adatainak változásáról és a nyilvántartott adatai változásának tényéről.
+
 (4) A kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartó az általa megjelölt személyt, személyi kört keresse meg, és
 
 - a) kérje írásos hozzájárulását ahhoz, hogy a kérelemben felsorolt adatait a kérelmező rendelkezésére bocsáthassa, vagy
@@ -691,7 +693,7 @@ továbbítására jogosult.
 
 statisztikai célra továbbíthatja.
 
-(2)
+(2) A nemzeti érdekeket szolgáló stratégiai programok, feladatok megvalósítása érdekében, statisztikai célra, személy- és egyedi azonosításra alkalmatlan módon a nyilvántartásból adat igényelhető.
 
 26. § (1) A nyilvántartás adatai összekapcsolhatók a körözött járművek és okmányok nyilvántartásával, valamint a kötelező gépjármű-felelősségbiztosítási kötvény nyilvántartással.
 

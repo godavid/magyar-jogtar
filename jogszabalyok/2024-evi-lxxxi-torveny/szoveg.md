@@ -216,7 +216,7 @@ egyes közlekedési tárgyú törvények módosításáról
 
 (6) A 38. §, a 39. § és a 41. § 2025. április 1-jén lép hatályba.
 
-(7) A 18. § b) és c) pontja 2026. július 31-én lép hatályba.
+(7) A 18. § b) és c) pontja 2026. december 31-én lép hatályba.
 
 88. § A 84. § és a 86. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 

@@ -582,7 +582,7 @@ kell meghozni.
 
 #### 21. A Cstv. eltérő alkalmazása
 
-74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2025. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
+74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2026. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
 
 (2) A Cstv. 6. § (1) bekezdésétől eltérően a Fővárosi Törvényszék kizárólagosan illetékes a Cstv. IV. Fejezetének hatálya alá tartozó, valamint arra a csődeljárásra és felszámolási eljárásra, amelyben az (5) bekezdés alapján kell a Cstv. IV. Fejezetének szabályait alkalmazni.
 
@@ -677,7 +677,7 @@ vonhatja le, majd e levonásokat követően fennmaradó összegből akkora hány
 
 (2) A 74. § (2)–(5) bekezdését azokra a jelen alcím hatálybalépésekor folyamatban lévő csődeljárásokra és felszámolási eljárásokra kell alkalmazni, amelyek esetében az eljárás megindítására vonatkozó kérelmet 2021. április 17-én vagy azt követően nyújtották be, vagy a felszámolás hivatalból történő elrendelésére e törvény hatálybalépését követően kerül sor.
 
-(3) Ha 2025. december 31-ig legalább a 76. § (2) bekezdése szerinti feltétel teljesült, a leválasztás e törvény 2025. december 31-én hatályos rendelkezései alapján 2025. december 31-ét követően is lefolytatható.
+(3) Ha 2026. december 31-ig legalább a 76. § (2) bekezdése szerinti feltétel teljesült, a leválasztás e törvény 2026. december 31-én hatályos rendelkezései alapján 2026. december 31-ét követően is lefolytatható.
 
 77/A. § E törvénynek az egyes gazdasági tárgyú törvények, valamint egyes vagyongazdálkodást és postaügyet érintő törvények módosításáról szóló 2022. évi LXVIII. törvénnyel (a továbbiakban: 2022. évi LXVIII. törvény) megállapított 76. § (2) bekezdését a 2022. évi LXVIII. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban is alkalmazni kell.
 
@@ -685,7 +685,7 @@ vonhatja le, majd e levonásokat követően fennmaradó összegből akkora hány
 
 #### 22. A Ctv. rendelkezéseinek eltérő alkalmazása
 
-78. § 2025. december 31-ig a Ctv. rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+78. § 2026. december 31-ig a Ctv. rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
 79. § A cég a Ctv. 24. § (1) bekezdés m) pontja szerinti adatának változását illeték és közzétételi költségtérítés nélkül jelentheti be, ha más adatának változását egyidejűleg nem jelenti be és a cégadat változtatására a cégtől független külső ok miatt kerül sor, amely körülményt a cég hitelt érdemlően igazol a változásbejegyzési kérelmében.
 

@@ -186,13 +186,15 @@ más személyszállítási szolgáltatást nyújtó szolgáltatók számára.
 
 (5) Az önkormányzat a miniszter részére történő adatszolgáltatási kötelezettsége keretében:
 
-- a) a törvény hatálybalépését követően 30 napon belül adatot szolgáltat az autóbuszos személyszállítási közszolgáltatás ellátásához használt autóbusz-állományról, ennek körében bejelenti
-  - aa) a szolgáltató megnevezését, azt, hogy a szolgáltató külső vagy belső szolgáltatónak minősül-e, autóbusz-beszerzései közbeszerzés szabályainak hatálya alá tartozik-e,
-  - ab) az autóbuszok típusát, kategóriáját, évjáratát, darabszám szerinti megoszlását;
+- a) minden év január 31. napjáig adatot szolgáltat az autóbuszos személyszállítási közszolgáltatás ellátásához használt, előző év december 31. napján meglévő autóbusz-állományról, ennek körében bejelenti
+  - aa) a szolgáltató megnevezését, valamint azt, hogy a szolgáltató külső vagy belső szolgáltatónak minősül-e, autóbusz-beszerzései közbeszerzés szabályainak hatálya alá tartoznak-e,
+  - ab) az autóbuszok típusát, kategóriáját, évjáratát, darabszám szerinti megoszlását, valamint
+  - ac) az M3 járműkategóriához kapcsolódó járműbeszerzési tervek azon adatait, amelyek a tiszta és kibocsátásmentes járművek arányának megállapításához, valamint a járműbeszerzések éves nyomon követéséhez szükségesek, így különösen a beszerzések tárgyát és státuszát, a szerződések típusát, a járművek kategóriáját, a hajtásláncot, a járművek definícióját, a járművek jellegét, hosszát, darabszámát és üzemeltetési helyszínét;
 - b) a helyi autóbuszos személyszállítási közszolgáltatásban érintett autóbusz-állományt érintő beszerzésekről, szolgáltatásvásárlásokról adatot szolgáltat a beszerzést, illetve a szolgáltatásvásárlást követő 30 napon belül, ennek körében bejelenti
-  - ba) új vagy a feladat ellátásába újonnan bevont szolgáltató esetén annak megnevezését, hogy a szolgáltató külső vagy belső szolgáltatónak minősül-e, autóbusz-beszerzései közbeszerzés szabályainak hatálya alá tartozik-e;
-  - bb) a beszerzett vagy a feladat ellátásába újonnan bevont autóbuszok típus, kategória, évjárat, darabszám szerinti megoszlását;
-  - bc) autóbusz-beszerzés esetén a finanszírozási forrást, ennek nagyságát, ütemezését, esetleges garanciális feltételrendszerét.
+  - ba) új vagy a feladat ellátásába újonnan bevont szolgáltató esetén annak megnevezését, hogy a szolgáltató külső vagy belső szolgáltatónak minősül-e, autóbusz-beszerzései közbeszerzés szabályainak hatálya alá tartoznak-e,
+  - bb) a beszerzett vagy a feladat ellátásába újonnan bevont autóbuszok típus, kategória, évjárat, darabszám szerinti megoszlását,
+  - bc) az M3 járműkategóriához kapcsolódó járműbeszerzési tervek azon adatait, amelyek a tiszta és kibocsátásmentes járművek arányának megállapításához, valamint a járműbeszerzések éves nyomon követéséhez szükségesek, így különösen a beszerzések tárgyát és státuszát, a szerződések típusát, a járművek kategóriáját, a hajtásláncot, a járművek definícióját, a járművek jellegét, hosszát, darabszámát és üzemeltetési helyszínét, valamint,
+  - bd) autóbusz-beszerzés esetén a finanszírozási forrást, ennek nagyságát, ütemezését, esetleges garanciális feltételrendszerét.
 
 (6) Az (5) bekezdés szerinti adatszolgáltatást az önkormányzat a miniszter által vezetett minisztérium honlapján közzétett formanyomtatvány kitöltésével és beküldésével teljesíti.
 
@@ -221,7 +223,7 @@ más személyszállítási szolgáltatást nyújtó szolgáltatók számára.
 
 (6) A KTI a
 
-- a) 4. § (3) bekezdés i) és j) pontjában,
+- a) 4. § (3) bekezdés i) és j) pontjában, valamint (5) bekezdésében,
 - b) 26–28. §-ban,
 - c) 31–32. §-ban, valamint
 - d) 35. §-ban
@@ -569,7 +571,7 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (3) Az autóbuszos hatóság felügyeli az autóbuszos személyszállítást igénybe vevő utasok jogaira vonatkozó jogszabályi rendelkezéseknek az autóbuszos személyszállító szolgáltatók, az autóbusz-állomást és az autóbusz-megállóhelyet üzemeltető szervek, valamint a közlekedésszervezők általi megtartását. E tevékenysége körében hivatalból ellenőrzi és elemzi a 181/2011/EU rendeletben, az e törvényben és az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a 181/2011/EU rendeletben foglaltak alóli mentességekre, a közúti személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat meghatározó kormányrendeletben, az autóbuszos személyszállító szolgáltatók személyszállítási üzletszabályzatában és a közlekedésszervezők személyszállítási üzletszabályzatában foglaltak megtartását.
 
-(4) Ha a vasúti igazgatási szerv megállapítja az (1) bekezdésben meghatározott rendelkezés megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, valamint a jogsértéssel elért előnynek – a mérlegelésével az alábbi jogkövetkezményeket állapíthatja meg a vasúti társasággal vagy a közlekedésszervezővel szemben:
+(4) Ha a vasúti igazgatási szerv megállapítja az (1) bekezdésben meghatározott rendelkezés megsértését, az eset lényeges körülményeinek – így különösen a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, a jogsértéssel elért előnynek és a jogsértéssel okozott hátránynak – a mérlegelésével az alábbi jogkövetkezményeket állapíthatja meg a vasúti társasággal vagy a közlekedésszervezővel szemben:
 
 - a) előírhatja a jogsértő mulasztás, állapot megszüntetését,
 - b) utasjogi felügyeleti bírságot szabhat ki.
