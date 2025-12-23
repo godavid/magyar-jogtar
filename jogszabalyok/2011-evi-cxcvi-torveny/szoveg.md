@@ -343,7 +343,7 @@ javára történik.
 
 (2) A 11. § (10) bekezdésétől eltérően a kivezetésre szánt állami vagyon tekintetében hasznosításra irányuló szerződés határozatlan vagy legfeljebb 1 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 1 évvel meghosszabbító abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette és a hasznosítással érintett vagyonelem elidegenítése 1 éven belül nem lehetséges. A határozatlan időre kötött hasznosítási szerződésben legfeljebb 6 hónapos felmondási idő köthető ki.
 
-11/B. § A 11. § (10) bekezdésétől eltérően állami vagyon hasznosítására irányuló szerződés 25 éves határozott időre is köthető, ha a hasznosításra jogosult vállalja az érintett állami vagyon gyarapítását szolgáló beruházás megvalósítását, és az állami vagyont érintő beruházás megtérülési ideje ezt kifejezetten indokolja. A 25 éves határozott időtartam egy alkalommal legfeljebb 5 évvel meghosszabbítható abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette.
+11/B. § A 11. § (10) bekezdésétől eltérően nemzeti vagyon hasznosítására irányuló szerződés 25 éves határozott időre is köthető, ha a hasznosításra jogosult vállalja az érintett nemzeti vagyon gyarapítását szolgáló beruházás megvalósítását, és a nemzeti vagyont érintő beruházás megtérülési ideje ezt kifejezetten indokolja. A 25 éves határozott időtartam egy alkalommal legfeljebb 5 évvel meghosszabbítható abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette.
 
 11/C. § (1) Nemzeti vagyon tekintetében a Ptk. építményi jogra vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -390,7 +390,7 @@ javára történik.
 
 (3) Az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenysége gyakorlásának időleges jogát, a (4)–(12) bekezdésben meghatározottak kivételével kizárólag koncesszió útján, külön törvényben szabályozott módon engedheti át. A kizárólagos gazdasági tevékenységek közül az (1) bekezdés d), és h)–k) pontja esetén az állam, a (2) bekezdés a)–b), d)–g) pontja esetén a helyi önkormányzat a nemzeti vagyon létrehozását és működtetését vagy kizárólag annak működtetését engedheti át e törvény rendelkezései szerint. A koncesszióról szóló törvény szerinti koncessziós szerződés határozott időtartamra köthető, amelynek leghosszabb ideje harmincöt év. Az ágazati törvény megengedheti külön pályázat kiírása nélkül a koncessziós törvény szerinti koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – történő meghosszabbítását abban az esetben, ha a koncesszióba vevő és a koncessziós társaság valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. A közbeszerzésekről szóló törvény szerinti építési, illetve szolgáltatási koncesszió a nemzeti vagyon tekintetében határozott időre, legfeljebb 35 évre adható.
 
-(3a) Az országos és helyi közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenység átengedésével összefüggő jogviszonyban, a kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet a tevékenység végzése céljából részére átadott, valamint a jogviszony alapján általa létrehozott, az állam vagy a helyi önkormányzat tulajdonába kerülő vagyontárgyon (e § alkalmazásában a továbbiakban: átengedett nemzeti vagyon) a törvény erejénél fogva működtetési jog illeti meg (a továbbiakban: kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog).
+(3a) Az (1) bekezdés i) pontja, valamint a (2) bekezdés a) pontja szerinti kizárólagos gazdasági tevékenység átengedésével összefüggő jogviszonyban a kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet a tevékenység végzése céljából részére átadott, valamint a jogviszony alapján általa létrehozott, az állam vagy a helyi önkormányzat tulajdonába kerülő vagyontárgyon (e § alkalmazásában a továbbiakban: átengedett nemzeti vagyon) a törvény erejénél fogva működtetési jog illeti meg (a továbbiakban: kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog).
 
 (3b) A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog létrejöttének időpontja a vagyontárgy kizárólagos gazdasági tevékenység gyakorlására jogosult részére történő átadásának napja. A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog létrejöttének napjával az átengedett nemzeti vagyonon fennálló vagyonkezelői jog e törvény erejénél fogva megszűnik.
 
@@ -648,7 +648,7 @@ sarkalatosnak minősül.
 
 (4) A 11. § (16) bekezdése 2012. március 2-án lép hatályba.
 
-#### 21. §
+21. § E törvény 1. melléklete a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról, az (EU) 2021/1153 és a 913/2010/EU rendelet módosításáról, valamint az 1315/2013/EU rendelet hatályon kívül helyezéséről szóló, 2024. június 13-i (EU) 2024/1679 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 22. §
 
@@ -2050,177 +2050,114 @@ Természetes tavak
 
 4. a Hévízi-tó.
 
-B)
-
-Az állam kizárólagos tulajdonában álló országos törzshálózati vasúti pályák
-
-1. A transz-európai vasúti áruszállítási hálózat részeként működő vasúti pályák
-
-1 Budapest (Keleti pu.) - Hegyeshalom - országhatár
-
-1d Hegyeshalom - Rajka - országhatár
-
-3 Komárom - Komárom országhatár
-
-10 Győr (Rendező) - Celldömölk
-
-15 Szombathely - Sopron - (Ágfalva) országhatár
-
-17 (2) Zalaszentiván - Nagykanizsa
-
-20 Székesfehérvár - Szombathely
-
-21 Szombathely - Szentgotthárd - országhatár
-
-25 Boba - Zalaegerszeg - Őriszentpéter - országhatár
-
-30 Budapest (Déli pu.) - Székesfehérvár - Nagykanizsa - Murakeresztúr - országhatár
-
-31 Érdi elágazás - Tárnok
-
-40 Budapest (Kelenföld) - Pécs
-
-41 Dombóvár - Gyékényes - országhatár
-
-44 Székesfehérvár - Pusztaszabolcs
-
-60 (1) Murakeresztúr - Gyékényes
-
-65 (1) Pécs - Villány
-
-66 Villány - Magyarbóly - országhatár
-
-70 Budapest (Nyugati pu.) - Szob - országhatár
-
-80 (1) Budapest (Keleti pu.) - Hatvan - Miskolc - Mezőzombor
-
-90 Felsőzsolca - Hidasnémeti - országhatár
-
-100 Budapest (Nyugati pu.) - Cegléd - Szolnok - Záhony - országhatár
-
-100c Mezőzombor - Nyíregyháza
-
-101 Püspökladány - Biharkeresztes - országhatár
-
-120a Budapest (Rákos) - Újszász - Szolnok
-
-120 Szajol - Lőkösháza - országhatár
-
-136 Szeged (Rendező) - Röszke - országhatár
-
-140 Cegléd - Szeged
-
-150 Budapest (Ferencváros) - Kelebia - országhatár
-
-235 Soroksár - Soroksár-Terminál
-
-284 Záhony normál nyomtávú hálózat
-
-400 Záhony széles nyomtávú hálózat
-
-Budapesti körvasút vonalai közül:
-
-200 Kőbánya felső - Rákosrendező
-
-202 Budapest-Angyalföldi elágazás - Rákospalota-Újpest
-
-203 Rákos - Rákosi elágazás
-
-205 Budapest-Ferencváros - Kőbánya felső
-
-206 Budapest-Ferencváros - Kőbánya-Kispest
-
-212 Kőbánya teher - Kőbánya felső
-
-217 Kőbánya felsői kiágazás - Rákos
-
-219 Rákosrendező - Városligeti elágazás.
-
-2. Nem a transz-európai vasúti árufuvarozási hálózat részét képező országos törzshálózati vasúti pályák:
-
-2 Budapest (Rákosrendező) - Esztergom
-
-4 Esztergom-Kertváros - Almásfüzitő
-
-5 Székesfehérvár - Komárom (Rendező)
-
-11 Győr – Veszprém
-
-12 (2) Tatabánya - Oroszlány
-
-16 Hegyeshalom - Porpác
-
-17 (1) Szombathely - Zalaszentiván
-
-26 Balatonszentgyörgy - Tapolca - Ukk
-
-29 (2) Szabadbattyán - Tapolca
-
-42 Pusztaszabolcs - Dunaújváros - Paks
-
-43 Mezőfalva - Rétszilas
-
-45 Sárbogárd - Börgönd
-
-46 Rétszilas - Bátaszék
-
-71 Budapest (Rákospalota-Újpest) - Vácrátót - Vác
-
-74 Nógrádszakál - országhatár
-
-77 Aszód - Vácrátót
-
-78 (2) Nógrádszakál - Ipolytarnóc - országhatár
-
-80 (2) Mezőzombor - Sátoraljaújhely - országhatár
-
-81 Hatvan - Somoskőújfalu - országhatár
-
-82 Hatvan - Újszász
-
-86 Vámosgyörk - Újszász
-
-87 Füzesabony - Putnok
-
-89 Nyékládháza - Tiszapalkonya-Erőmű
-
-92 (1) Miskolc (Tiszai) - Bánréve - országhatár
-
-92 (2) Bánréve - Ózd
-
-94 Sajóecseg - Tornanádaska - Hídvégardó - országhatár
-
-103 Karcag - Tiszafüred
-
-105 Debrecen - Nyírábrány - országhatár
-
-108 Debrecen - Füzesabony
-
-110 Apafa - Mátészalka
-
-115 Mátészalka - Tiborszállás - Ágerdőmajor - országhatár
-
-135 Szeged - Békéscsaba - Kötegyán - országhatár
-
-142 Budapest (Kőbánya-Kispest) - Lajosmizse - Kecskemét
-
-154 Bátaszék - Baja - Kiskunhalas
-
-155 Kiskunhalas - Kiskunfélegyháza
-
-318 Nagyirtás – Nagybörzsöny
-
-Budapesti körvasút vonalai közül:
-
-201 Budapest-Angyalföldi elágazás - Budapest-Angyalföld
-
-210 Rákosrendező - Vasúttörténeti park
-
-211 Kispesti elágazás - Pestszentimre felső elágazás
-
-216 Kőbánya felső elágazás - Kőbánya-Hízlaló
-
-220 Rákosrendező - Istvántelki főműhely
+B) Az állam kizárólagos tulajdonában álló országos törzshálózati vasúti pályák
+
+1. A transz-európai vasúti hálózat (TEN-T) részeként működő vasúti pályák
+
+| 1 | 1 Budapest (Keleti pu.) – Hegyeshalom – országhatár |
+| --- | --- |
+| 2 | 1d Hegyeshalom – Rajka – országhatár |
+| 3 | 3 Komárom – Komárom országhatár |
+| 4 | 5 Székesfehérvár – Komárom (Rendező) |
+| 5 | 10 Győr (Rendező) – Celldömölk |
+| 6 | 15 Szombathely – Sopron – (Ágfalva) országhatár |
+| 7 | 16 Hegyeshalom – Csorna – Porpác |
+| 8 | 17 Szombathely – Zalaszentiván – Nagykanizsa |
+| 9 | 20 Székesfehérvár – Boba – Celldömölk – Szombathely |
+| 10 | 21 Szombathely – Szentgotthárd – országhatár |
+| 11 | 25 Boba – Zalaszentiván – Zalaegerszeg – Őriszentpéter – országhatár |
+| 12 | 30 Budapest (Déli pu.) – Székesfehérvár – Nagykanizsa – Murakeresztúr – országhatár |
+| 13 | 31 Érd elágazás – Tárnok |
+| 14 | 32 Érd alsó elágazás – Érd |
+| 15 | 40 Budapest (Kelenföld) – Dombóvár – Szentlőrinc – Pécs |
+| 16 | 41 Dombóvár – Gyékényes – országhatár |
+| 17 | 42 (1) Pusztaszabolcs – Dunaújváros |
+| 18 | 44 Székesfehérvár – Pusztaszabolcs |
+| 19 | 50 Dombóvár – Bátaszék |
+| 20 | 60 (1) Murakeresztúr – Gyékényes |
+| 21 | 65 (1) Pécs – Villány |
+| 22 | 66 Villány – Magyarbóly – országhatár |
+| 23 | 70 Budapest (Nyugati pu.) – Vác – Szob – országhatár |
+| 24 | 71 (2) Vácrátót – Vác |
+| 25 | 77 Aszód – Vácrátót |
+| 26 | 80 (1) Budapest (Keleti pu.) – Hatvan – Miskolc – Mezőzombor |
+| 27 | 82 Hatvan – Újszász |
+| 28 | 90 Felsőzsolca – Hidasnémeti – országhatár |
+| 29 | 100 Budapest (Nyugati pu.) – Cegléd – Szolnok – Nyíregyháza – Záhony – országhatár |
+| 30 | 100c Mezőzombor – Nyíregyháza |
+| 31 | 101 Püspökladány – Biharkeresztes – országhatár |
+| 32 | 120a Budapest (Rákos) – Újszász – Szolnok |
+| 33 | 120 Szajol – Békéscsaba – Lőkösháza – országhatár |
+| 34 | 136 Szeged (Rendező) – Röszke – országhatár |
+| 35 | 137 Kiskundorozsma elágazás – Röszke elágazás |
+| 36 | 140 Cegléd – Kecskemét – Szeged |
+| 37 | 150 Budapest (Ferencváros) – Kiskunhalas – Kelebia – országhatár |
+| 38 | 154 (1) Bátaszék – Baja – Bácsalmás |
+| 39 | 155 Kiskunhalas – Kiskunfélegyháza |
+| 40 | 200 Kőbánya felső – Rákosrendező |
+| 41 | 202 Budapest-Angyalföld elágazás – Rákospalota-Újpest |
+| 42 | 203 Rákos – Rákos elágazás |
+| 43 | 204 Soroksári út – Soroksári út rendező |
+| 44 | 205 Budapest (Ferencváros) – Kőbánya felső |
+| 45 | 206 Budapest (Ferencváros) – Kőbánya-Kispest |
+| 46 | 212 Kőbánya teher – Kőbánya felső |
+| 47 | 217 Kőbánya felső kiágazás – Rákos |
+| 48 | 218 Rákosrendező – Rákosrendező elágazás |
+| 49 | 219 Rákosrendező – Városliget elágazás |
+| 50 | 227 Soroksári út – Csepel elosztó |
+| 51 | 235 Soroksár – Soroksár-Terminál |
+| 52 | 261 Törökszentmiklós – Tiszatenyő elágazás |
+| 53 | 263 Abony elágazás – Nyársapát elágazás |
+| 54 | 265 Külsőhalas elágazás – Harkakötöny elágazás |
+| 55 | 267 Dombóvár alsó – Dombóvár elágazás |
+| 56 | 277 Nyíregyháza-Északi kitérő – Sóstóhegy elágazás |
+| 57 | 284 Záhony normál nyomtávú hálózat |
+| 58 | 291 Zalaszentiván elágazás – Andráshida elágazás |
+| 59 | 292 Kerta elágazás – Jánosháza elágazás |
+| 60 | 392 Bácsalmás – Csikéria |
+| 61 | 400 Záhony széles nyomtávú hálózat |
+
+2. Nem a transz-európai vasúti (TEN-T) részét képező országos törzshálózati vasúti pályák
+
+| 1 | 2 Budapest (Rákosrendező) – Esztergom |
+| --- | --- |
+| 2 | 4 Esztergom-Kertváros – Almásfüzitő |
+| 3 | 11 Győrszabadhegy – Veszprém |
+| 4 | 12 (2) Tatabánya – Oroszlány |
+| 5 | 26 Balatonszentgyörgy – Tapolca – Ukk |
+| 6 | 29 (2) Szabadbattyán – Tapolca |
+| 7 | 40e Százhalombatta – Ercsi elágazás |
+| 8 | 42 (2) Dunaújváros – Mezőfalva – Paks |
+| 9 | 43 Mezőfalva – Rétszilas |
+| 10 | 45 Sárbogárd – Börgönd |
+| 11 | 46 Rétszilas – Bátaszék |
+| 12 | 71 (1) Budapest (Rákospalota-Újpest) – Vácrátót |
+| 13 | 74 Nógrádszakál – országhatár |
+| 14 | 78 (2) Nógrádszakál – Ipolytarnóc – országhatár |
+| 15 | 80 (2) Mezőzombor – Sátoraljaújhely – országhatár |
+| 16 | 81 Hatvan – Somoskőújfalu – országhatár |
+| 17 | 86 Vámosgyörk – Újszász |
+| 18 | 87 Füzesabony – Eger – Szilvásvárad – Putnok |
+| 19 | 89 Nyékládháza –Tiszapalkonya-Erőmű |
+| 20 | 92 (1) Miskolc (Tiszai) – Bánréve – országhatár |
+| 21 | 92 (2) Bánréve – Ózd |
+| 22 | 94 Sajóecseg – Tornanádaska – Hídvégardó – országhatár |
+| 23 | 103 Karcag – Tiszafüred |
+| 24 | 105 Debrecen – Nyírábrány – országhatár |
+| 25 | 108 Debrecen – Tiszafüred – Füzesabony |
+| 26 | 110 Apafa – Mátészalka |
+| 27 | 115 Mátészalka – Tiborszállás – Ágerdőmajor – országhatár |
+| 28 | 135 Szeged – Békéscsaba – Kötegyán – országhatár |
+| 29 | 142 Budapest (Kőbánya-Kispest) – Lajosmizse – Kecskemét |
+| 30 | 154 (2) Bácsalmás – Kiskunhalas |
+| 31 | 201 Budapest-Angyalföld elágazás – Budapest-Angyalföld |
+| 32 | 210 Rákosrendező – Vasúttörténeti park |
+| 33 | 211 Kispest elágazás – Pestszentimre felső elágazás |
+| 34 | 216 Kőbánya felső elágazás – Kőbánya-Hízlaló |
+| 35 | 220 Rákosrendező – Istvántelki főműhely |
+| 36 | 318 Nagyirtás – Nagybörzsöny |
+
+”
 
 ### 2. melléklet a 2011. évi CXCVI. törvényhez
 
@@ -2681,7 +2618,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 18.3. | BADACSONYTOMAJ Kisfaludy Sándor utca 28. | Kisfaludy Sándor présháza |
 | 18.4. | BAKONYBÉL Fő u. 15. | tájház |
 | 18.5. | CSESZNEK Vár u. | várrom |
-| 18.6. |  |  |
+| 18.6. | CSOPAK Kisfaludy u. 28. | vízimalom |
 | 18.7. |  |  |
 | 18.8. |  |  |
 | 18.9. | DOBA | Somló vár romjai |

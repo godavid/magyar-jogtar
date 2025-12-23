@@ -30,6 +30,12 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 - a) a Magyarországon lakóhellyel rendelkező hontalan szülők Magyarországon született gyermekét,
 - b) az ismeretlen szülőktől származó, Magyarországon talált gyermeket.
+- c) a születést követően egészségügyi intézményben hagyott gyermeket, ha állampolgársága ismeretlen.
+
+(4) A (3) bekezdés c) pontja szerinti egészségügyi intézményben hagyott gyermeknek kell tekinteni a gyermeket, ha
+
+- a) vele kapcsolatban a gyámhatóság megállapította, hogy örökbefogadható, mert őt az anya közvetlenül a gyermek születését követően a születendő gyermek haza nem adhatóságát megállapító döntés alapján, illetve gyermekvédelmi jelzés miatt vagy anélkül az egészségügyi intézményben hagyta, és
+- b) az anya kórházi zárójelentése kiállításának napjától vagy ennek hiányában a gyermek egészségügyi intézményben hagyásától számított hat héten belül a szülő vagy a gyermek más hozzátartozója írásban vagy jegyzőkönyvbe foglalva nem tett olyan tartalmú külön nyilatkozatot a gyámhivatal előtt, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni.
 
 ### A magyar állampolgárság megszerzése
 
@@ -564,9 +570,11 @@ ellátva kell csatolni.
 
 25/B. § Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel megállapított 7. § (1) és (1a)–(1c) bekezdését, 16. §-t, 24. § (5) bekezdését, 18. § b) pontját, és 19. § (1) és (1a) bekezdését a 2024. július 1-jét követően indult eljárásokban kell alkalmazni.
 
+25/C. § E törvénynek a magyar állampolgárságról szóló 1993. évi LV. törvény és a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosításáról szóló 2025. évi CXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 3. § (3) bekezdés c) pontját és 3. § (4) bekezdését a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
 26. § E törvény
 
-- a) 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) és (1a) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) és (5) bekezdése, 9. § (1), (4) és (5) bekezdése, 23. §-a és 25. §-a az Alaptörvény G) cikk (4) bekezdése,
+- a) 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) és (1a) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) és (5) bekezdése, 9. § (1), (4) és (5) bekezdése, 23. §-a, 25. §-a és 25/C. §-a az Alaptörvény G) cikk (4) bekezdése,
 - b) 9/A–9/E. §-a az Alaptörvény G) cikk (3) és (4) bekezdése
 
 alapján sarkalatosnak minősül.

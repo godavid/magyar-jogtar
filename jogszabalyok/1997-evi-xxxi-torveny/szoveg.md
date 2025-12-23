@@ -3918,6 +3918,8 @@ főbb szabályai
 
 (1a) A terhességét eltitkoló válsághelyzetben lévő, korlátozottan cselekvőképes kiskorú anya kérelmére a gyámhatóság mellőzheti a törvényes képviselő meghallgatását, ha az a terhességét eltitkoló válsághelyzetben lévő várandós anya vagy a születendő gyermek érdekét veszélyeztetné.
 
+(1b) Nincs szükség a szülő gyámhatósági meghallgatására a közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek örökbefogadhatóságának megállapítására irányuló eljárásban.
+
 (2) Ha jogszabály a gyermek személyi ügyeiben a törvényes képviselő eljárását vagy nyilatkozatát írja elő, a szülői felügyeletet együttesen gyakorló mindkét szülőnek személyesen kell eljárnia, illetőleg személyesen kell nyilatkoznia.
 
 (3) A gyámhatósági eljárás során a jognyilatkozatokat csak személyesen lehet megtenni, valamint, ha a tényállás tisztázása érdekében a gyámhatóság tárgyalást tart, azon személyesen kell megjelenni

@@ -522,6 +522,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (1j) Az adatkezelő szerv a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére jogszabályban meghatározott szolgáltatásaik nyújtása céljából átadja a feladatellátással érintett polgárok nyilvántartott adatait.
 
+(1k) A nyilvántartást kezelő szerv köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából, a feladatellátással érintett polgárok nyilvántartott adatainak változásáról és a nyilvántartott adatai változásának tényéről.
+
 (2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
 (2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a), e) és f) pontja alapján kezelt adatállományból.

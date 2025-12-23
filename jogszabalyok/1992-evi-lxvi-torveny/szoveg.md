@@ -264,7 +264,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - i) az adatszolgáltatásra vonatkozó, 2. § (1) bekezdés szerinti korlátozást, illetve tilalmat;
 - j)
 - k) családi állapotát, házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyét;
-- l) arcképmását és – ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan – aláírását, ha a 29. § (12) bekezdésében meghatározott személyazonosításra alkalmas hatósági igazolványt igényelt, vagy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyafelhasználói regisztrációt kezdeményezett, illetve, ha videotechnológiával történt személyazonosítást követően egységes arcképmás- és aláírás-felvételezés iránti kérelmet terjesztett elő;
+- l) arcképmását és – ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan – aláírását, ha a 29. § (12) bekezdésében meghatározott személyazonosításra alkalmas hatósági igazolványt igényelt, vagy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyafelhasználói regisztrációt kezdeményezett, illetve, ha a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus azonosítási szolgáltatással és videotechnológiás kapcsolattal történő ügyintézéssel megvalósuló azonosítást követően egységes arcképmás- és aláírás-felvételezés iránti kérelmet terjesztett elő;
 - m) személyazonosító igazolványának okmányazonosítóját, állandó személyazonosító igazolványa elektronikus egyedi azonosítóját, szolgáltatásazonosítóját, azt a tényt, hogy az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány van elhelyezve, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját;
 - n) személyazonosító igazolványa kiadásának, érvényességének, cseréjének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, visszaadásának, leadásának, elvételének adatait;
 - o) személyazonosító igazolványa tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat;
@@ -565,6 +565,10 @@ van lehetőség.
 
 (2) A szerencsejáték-felügyeleti hatóság a játékosvédelmi nyilvántartás vezetése céljából jogosult a nyilvántartásból a személyazonosító igazolvány okmányazonosítóját igényelni.
 
+19/P. § A katonai légügyi hatóság a hatáskörébe tartozó eljárás lefolytatása érdekében a természetes személy ügyfél 17. § (2) bekezdés f) és – az elhalálozás helye kivételével – g) pontja szerinti adatait jogosult igényelni.
+
+19/Q. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti digitális szolgáltatások felügyelete jogszabályban meghatározott feladatai ellátása érdekében a természetes személy ügyfél 17. § (2) bekezdés f) pontja szerinti adatait jogosult igényelni.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;
@@ -623,7 +627,7 @@ van lehetőség.
 
 22. § E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:
 
-- a) a lakcímadatok, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való, az elhalálozáson kívüli kikerülés oka, helye és ideje kivételével az ingatlan-nyilvántartás, a földhasználati nyilvántartás, a földvédelmi nyilvántartás, továbbá a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás, a földvédelmi nyilvántartás, továbbá a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás vezetésével összefüggésben;
+- a) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való, az elhalálozáson kívüli kikerülés oka, helye és ideje kivételével az ingatlan-nyilvántartás, a földhasználati nyilvántartás, a földvédelmi nyilvántartás, továbbá a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás szervei az ingatlan-nyilvántartás, a földhasználati nyilvántartás, a földvédelmi nyilvántartás, továbbá a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás vezetésével összefüggésben;
 - b) a Magyar Honvédség központi nyilvántartó szerve, a területi katonai igazgatási szervek és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
 - c) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nyilvántartásból való, az elhalálozáson kívüli kikerülés oka és ideje kivételével a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben (a továbbiakban: Bnytv.) meghatározott feladatai ellátásához;
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
@@ -647,7 +651,7 @@ van lehetőség.
 
 a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása iránti eljáráshoz és az ingatlan-nyilvántartási feladatok ellátásához.
 
-22/A. § A nyilvántartást kezelő szerv az ingatlanügyi hatóság kérésére a tulajdoni lapon történő feltüntetés céljából átadja az azon szereplő polgár lakcímadatát.
+#### 22/A. §
 
 22/B. § E törvény felhatalmazása alapján a 17. § (2) bekezdés e) pontja szerinti adatok és a lakcím igénylésére jogosultak a rendészeti feladatokat ellátó igazgatási szervek a polgári kézi lőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, az ellenőrzött anyagokkal és kábítószer prekurzorokkal, az atomenergiával, a személy és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz.
 
@@ -765,7 +769,7 @@ adatot igényelhet.
 
 (4) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató, az életesemény-alapú szolgáltatás szolgáltatója részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából átadja a feladatellátással érintett polgárok nyilvántartott adatait.
 
-(5) A nyilvántartást kezelő szerv köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából a feladatellátással érintett polgárok nyilvántartott adatainak változásáról.
+(5) A nyilvántartást kezelő szerv köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából a feladatellátással érintett polgárok nyilvántartott adatainak változásáról és a nyilvántartott adatai változásának tényéről.
 
 24/P. § Az ügyvédi tevékenység gyakorlására jogosult és az ügyvédasszisztens a személyazonosítás során a nyilvántartott adatokkal való egyezőség és a bemutatott okmányok érvényességének ellenőrzése érdekében az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye, valamint az állandó személyazonosító igazolvány elektronikus egyedi azonosítója kivételével a 11. § (1) bekezdés m) pontja és a 18. § (5) bekezdése szerinti adatokat, valamint a személyazonosítással érintett személy
 
@@ -1644,6 +1648,8 @@ végrehajtását szolgálja.
 52/J. § (1) 2026. augusztus 3. napján érvényét veszti a 2000. január 1. napja előtt kiállított személyazonosító igazolvány.
 
 (2) 2031. augusztus 3. napján érvényét veszti az a 2016. január 1. napját követően kiállított határidő nélküli érvényességi idejű személyazonosító igazolvány, amely esetén a polgár 2021. augusztus 2. napjáig nem töltötte be 70. életévét.
+
+(3) A nyilvántartást kezelő szerv 2026. május 15. napján, egyszeri alkalommal átadja az (1) bekezdésben foglaltak szerint érvényüket vesztő személyazonosító igazolványokkal rendelkező polgárok nyilvántartásban szereplő természetes személyazonosító adatait az anyakönyvi ügyekért felelős miniszternek a polgárok papíralapú anyakönyvben nyilvántartott anyakönyvi eseménye adatainak elektronikus anyakönyvbe történő bejegyzése érdekében.
 
 52/K. § (1) A nyilvántartásban szereplő érvényes értesítési címeket 2021. július 1. napjával a nyilvántartást kezelő szerv hivatalból érvényteleníti, valamint érvényét veszti a címjogosult és a postafiók bérlőjének 27/D. § (1) és (2) bekezdése szerinti nyilatkozata.
 

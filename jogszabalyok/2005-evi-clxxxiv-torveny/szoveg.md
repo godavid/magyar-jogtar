@@ -727,6 +727,8 @@ látja el.
 
 (5)–(6)
 
+21/A. § Felhatalmazást kap a Kormány, hogy a légi-, a vasúti és a víziközlekedés területén bekövetkező balesetek és egyéb rendkívüli események szakmai vizsgálatával összefüggő eljárásjogi rendelkezéseket, valamint a szakmai vizsgálathoz kapcsolódó, vagy abban részt vevő szervek együttműködésének részletes szabályait rendeletben állapítsa meg.
+
 22. § (1) Felhatalmazást kap a miniszter, hogy
 
 - a) súlyos vasúti balesetek, a vasúti balesetek és váratlan vasúti események szakmai vizsgálatának, a vizsgálatban résztvevők szakmai képzettségére, az oktatásra és vizsgáztatásra vonatkozó részletes szabályait,

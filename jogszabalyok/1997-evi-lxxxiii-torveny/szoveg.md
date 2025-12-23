@@ -814,7 +814,7 @@ igazolhatja.
 (1b) A computer tomográf, valamint a mágneses rezonancia vizsgálatok alkalmazási körébe tartozó képalkotó diagnosztikai eljárások (a továbbiakban együtt: CT-MRI vizsgálat) egészségbiztosítás keretében történő végzésére az (1) bekezdésnek megfelelő
 
 - a) állami fenntartású egészségügyi szolgáltatóval,
-- b) az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központtal,
+- b) az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központtal, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdés b) pontja szerinti egészségügyi szolgáltatóval
 - c) egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltatóval,
 - d) önkormányzati fenntartású egészségügyi szolgáltatóval, valamint
 - e) hiánypótló állami szolgáltatást nyújtó magántulajdonú egészségügyi szolgáltatóval
@@ -2147,6 +2147,8 @@ vonatkozó adatokról, továbbá minden olyan, törvényben előírt személyes 
 
 (27) Az egészségügyi szolgáltató a (26) bekezdés szerinti kérelmét, indokolással ellátva 2024. május 1-jéig nyújthatja be az egészségbiztosításért felelős miniszterhez. Az ellátási érdek fennállásáról az egészségbiztosításért felelős miniszter 2024. július 1-jéig dönt. Az ellátási érdek fennállásának szempontjait és a kérelem benyújtásának részletes szabályait a Kormány rendeletben határozza meg.
 
+(28) Azon, a 30. § (1b) bekezdés b) pontjának nem megfelelő egészségügyi szolgáltató, amely CT-MRI vizsgálatok végzésére finanszírozási vagy közreműködői szerződés alapján 2025. október 31-én jogosult, a belügyi humán ágazatokat érintő törvények módosításáról szóló 2025. évi CXIX. törvény hatálybalépését követő 5 munkanapon belül az egészségbiztosító felé igazolhatja, hogy a 30. § (1b) bekezdés b) pontjában foglaltaknak történő megfeleléshez a szükséges intézkedéseket megkezdte. Ebben az esetben az egészségügyi szolgáltató CT-MRI vizsgálatok végzésére, illetve annak finanszírozására való jogosultságát a 2025. október 31-i állapotnak megfelelően folyamatosnak kell tekinteni. Ha az érintett egészségügyi szolgáltató 2026. március 31-ig nem igazolja az egészségbiztosító felé, hogy a 30. § (1b) bekezdés b) pontjában foglaltaknak megfelel, ezen időponttal a finanszírozási, illetve közreműködői szerződése megszűnik, az érintett egészségügyi szolgáltató részére a 82/X. § (2) bekezdése, illetve az Eütv. 244/L. § (2) bekezdése szerinti kártalanítás nem jár, és a finanszírozás keretében a 2025. november 1-jétől a finanszírozási, illetve a közreműködői szerződés megszűnéséig számított időszak tekintetében az általa nyújtott egészségügyi szolgáltatásért az E. Alapból – közvetlenül vagy a 30. § (1b) bekezdésnek megfelelő szolgáltató útján közvetve – kapott összeget az egészségbiztosító részére 30 napon belül megtéríti.
+
 82/A. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény és az egészségügyi szakellátási kötelezettségről, továbbá egyes egészségügyet érintő törvények módosításáról szóló 2001. évi XXXIV. törvény módosításáról szóló 2005. évi CLXXXII. törvény hatálybalépése nem érinti az annak hatálybalépése előtt szerv- vagy szövetátültetésre jogosító várólistára felkerült személyek szerv- vagy szövetátültetésre való jogosultságát.
 
 (2) Azt a személyt, akinek esetében ugyanazon szerv vagy szövet átültetése a Magyarországon elvégzett korábbi szerv- vagy szövetátültetést követően, a beültetett szerv vagy szövet kilökődése miatt indokolttá vált, arra tekintet nélkül kell felvenni a várólistára, hogy az érintett személy 2006. január 1-jétől az (1) bekezdésben meghatározott törvény alapján arra jogosult.
@@ -2438,4 +2440,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 83/E. § Ez a törvény a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-84. § E törvény 30. § (1b) és (1c) bekezdése, 82. § (21)–(27) bekezdése és 82/X. §-a az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+84. § E törvény 30. § (1b) és (1c) bekezdése, 82. § (21)–(28) bekezdése és 82/X. §-a az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.

@@ -116,7 +116,7 @@ terjed ki.
 
 2.20. térségi vasúti pályahálózat: térségi vasúti szolgáltatás végzéséhez szükséges vasúti pályahálózat;
 
-2.21. vasúti pálya: az 1. melléklet 1–6. pontjában felsorolt vasúti pályahálózat elem, valamint a vasúti alépítmény és felépítmény, az utasforgalom és áruszállítás részére rendelkezésre álló útvonalak, beleértve az utasperonokat, rakodóterületeket, beleértve az útvonalba eső az utasok mozgását biztosító szállító, mozgató berendezéseket, mozgólépcsőket, mozgójárdákat, lifteket, gyalogos és kerékpáros alul- és felüljárókat, a mozgáskorlátozottak emelésére szolgáló speciális berendezéseket, továbbá a vasúti kocsik rakodását, mozgatását, javítását célzó, a vágányra, vágányba vagy a vágány alá- vagy fölé épített különleges berendezések, különösen rakodó- és ürítőberendezések, ürítőhidak, ürítőgaratok, töltő- és lefejtő berendezések, fordítókorongok, tolópadok, a vasúti járművek javításához, karbantartásához szükséges és egyéb járműmozgató berendezések, vágányfékek, daruk, darupályák, emelőberendezések, járműmérlegek, kocsibuktatók, szállítógépek és berendezések, diagnosztikai és egyéb berendezések, és a mindezek elhelyezésére szolgáló földterületek; ahol2.21.1. vasúti alépítmény: a vasúti felépítmény terhelését elviselő és a talaj felé közvetítő mérnöki létesítmény. Az alépítmény része minden olyan szerkezet, amely a vasúti terhelés viselésében részt vesz vagy a szerkezet védelmét biztosítja, így különösen: töltések, bevágások, nyílásokat áthidaló mérnöki szerkezetek (hidak, átereszek, közúti vagy gyalogos aluljárók), a vasút pálya védelmére épített mérnöki szerkezetek, (alagutak, támfalak, bélésfalak, kőomlás ellen védő műtárgyak), vízelvezetést szolgáló szerkezetek (árkok, szivárgók), valamint a pálya és a környezet védelmét szolgáló szerkezetek (kerítések, tűzvédelmi sávok, hófogó rácsok, zajárnyékoló falak, védelmi céllal telepített növényzet);2.21.2. vasúti felépítmény: a vasúti vágány, amely magában foglalja valamennyi, a vasúti jármű kereke által közvetített terhelést viselő, illetve a jármű kerekének vezetését végző, azt elősegítő mérnöki szerkezetet, (beleértve a váltófűtő, sínkenő berendezéseket), valamint a vasúti ágyazat;
+2.21. vasúti pálya: az 1. melléklet 1–5. pontjában felsorolt vasúti pályahálózat elem, a vasúti alépítmény, felépítmény, a műtárgyak, az utasforgalom és áruszállítás részére rendelkezésre álló útvonalak, beleértve az utasperonokat, rakodóterületeket, beleértve az útvonalba eső az utasok mozgását biztosító szállító, mozgató berendezéseket, mozgólépcsőket, mozgójárdákat, lifteket, gyalogos és kerékpáros alul- és felüljárókat, a mozgáskorlátozottak emelésére szolgáló speciális berendezéseket, továbbá a vasúti kocsik rakodását, mozgatását, javítását célzó, a vágányra, vágányba vagy a vágány alá- vagy fölé épített különleges berendezések, különösen rakodó- és ürítőberendezések, ürítőhidak, ürítőgaratok, töltő- és lefejtő berendezések, fordítókorongok, tolópadok, a vasúti járművek javításához, karbantartásához szükséges és egyéb járműmozgató berendezések, vágányfékek, daruk, darupályák, emelőberendezések, járműmérlegek, kocsibuktatók, szállítógépek és berendezések, diagnosztikai és egyéb berendezések, és a mindezek elhelyezésére szolgáló földterületek; ahol2.21.1. vasúti alépítmény: a vasúti felépítmény terhelését elviselő és a talaj felé közvetítő mérnöki létesítmény. Az alépítmény része minden olyan szerkezet, amely a vasúti terhelés viselésében részt vesz vagy a szerkezet védelmét biztosítja, így különösen: töltések, bevágások, nyílásokat áthidaló mérnöki szerkezetek (hidak, átereszek, közúti vagy gyalogos aluljárók), a vasút pálya védelmére épített mérnöki szerkezetek, (alagutak, támfalak, bélésfalak, kőomlás ellen védő műtárgyak), vízelvezetést szolgáló szerkezetek (árkok, szivárgók), valamint a pálya és a környezet védelmét szolgáló szerkezetek (kerítések, tűzvédelmi sávok, hófogó rácsok, zajárnyékoló falak, védelmi céllal telepített növényzet);2.21.2. vasúti felépítmény: a vasúti vágány, amely magában foglalja valamennyi, a vasúti jármű kereke által közvetített terhelést viselő, illetve a jármű kerekének vezetését végző, azt elősegítő mérnöki szerkezetet, (beleértve a váltófűtő, sínkenő berendezéseket), valamint a vasúti ágyazat;
 
 2.22. vasúti pálya tartozéka: az 1. melléklet 7–9. pontjában felsorolt azon vasúti pályahálózat-elem, valamint a vasúti biztosítóberendezések kültéri elemei, a váltóállító készülékek, jelzőberendezések, szigetelt sínillesztések, tengelyszámlálók, az elektronikus biztosítóberendezések hardverei és szoftverei, valamint a védelmi berendezések (siklasztó saruk, vágányzáró sorompók, váltózárak), forgalomirányító és jelzőberendezések, beleértve a nemzeti és a kölcsönös átjárhatóságot biztosító alrendszereket, valamint a működésükhöz szükséges rádiókommunikációs berendezéseket; a telematikai, utastájékoztató és távközlési rendszerek, rádióátviteli rendszerek és berendezéseik, a vontatási energiaellátás rendszerei, különösen vasúti felsővezeték, áramvezető sín, energiaelosztást végző berendezések, tartóoszlopok, áramátalakító berendezések, vasúti térvilágítási rendszerek, beleértve a munkahelyi, az utasforgalmi, és rakodási célú területek térvilágítási berendezéseit, a perontető, a biztosítóberendezések, hírközlési és telematikai rendszerek, térvilágítási berendezések, vasúti felsővezetéki rendszerek és berendezéseik, ezek jelátviteléhez, működtetéséhez, áramellátásához szükséges kábelek, vezetékek, berendezések, tisztító- és mosóberendezések, és a mindezek elhelyezésére szolgáló földterületek, melyek a vasúti pálya jogszabályban meghatározott védősávval megnövelt területén belül helyezkednek el;
 
@@ -571,7 +571,20 @@ a működési engedélyt hivatalból felfüggeszti.
 
 10. § (1) Műszaki hatósági engedély (a továbbiakban: műszaki engedély) szükséges
 
-- 1. jogszabály eltérő rendelkezése hiányában a vasúti pálya és tartozékai, a vasúti üzemi létesítmények és az azokhoz kapcsolódó felvonók, mozgólépcsők és mozgójárdák, valamint a felszín alatti vasúti pályahálózat vasúti állomási épületei – ideértve a trolibusz felsővezetékét is – 1.1. tekintetében feltétfüzet alkalmazásához, 1.2. engedélyezési feltételeinek előzetes vizsgálatához (elvi építési engedély), 1.3. építéséhez, 1.4. átalakításához, korszerűsítéséhez, 1.5. használatbavételéhez, 1.6. ideiglenes használatbavételéhez, 1.7. fennmaradásához, 1.8. megszüntetéséhez, bontásához, 1.9. üzemszünetéhez, 1.10. tekintetében az építési engedélyben foglaltaktól való eltéréshez;
+- 1. jogszabály eltérő rendelkezése hiányában a vasúti pálya és tartozékai, a vasúti üzemi létesítmények és az azokhoz kapcsolódó felvonók, mozgólépcsők és mozgójárdák, valamint a felszín alatti vasúti pályahálózat vasúti állomási épületei – ideértve a trolibusz felsővezetékét is –
+  - 1.1. tekintetében feltétfüzet alkalmazásához,
+  - 1.2. engedélyezési feltételeinek előzetes vizsgálatához (elvi építési engedély),
+  - 1.3. építéséhez,
+  - 1.4. átalakításához,
+  - 1.5. korszerűsítéséhez,
+  - 1.6. használatbavételéhez,
+  - 1.7. ideiglenes használatbavételéhez,
+  - 1.8. fennmaradásához,
+  - 1.9. megszüntetéséhez,
+  - 1.10. bontásához,
+  - 1.11. üzemszünetéhez,
+  - 1.12. tekintetében az építési engedélyben foglaltaktól való eltéréshez, valamint
+  - 1.13. a korlátozott szintű forgalomhoz;
 - 2. jogszabály eltérő rendelkezése hiányában a vasúti jármű 2.1. forgalomba hozatalához, 2.2. típusának engedélyezéséhez, 2.3. elvi előzetes típusa engedélyezéséhez, 2.4. előzetes típusa engedélyezéséhez, 2.5. üzembe helyezéséhez, 2.6. átalakításához, 2.7. honosításához, 2.8. különleges menete engedélyezéséhez;
 - 3. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények forgalomba hozatalához és üzemben tartásához, valamint átalakításához;
 - 4. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények vizsgálatát végző személyek és szervezetek tevékenységéhez; valamint
@@ -851,9 +864,13 @@ a működési engedélyt hivatalból felfüggeszti.
 
 ### A magyar állam és a vasúti társaságok közötti szerződések
 
-25. § (1) A magyar állam a pályahálózat-működtetővel az állami tulajdonban lévő vasúti pályahálózatok és intermodális csomópontok vagyonkezelésére vagyonkezelési szerződést vagy az állami vagyonról szóló 2007. évi CVI. törvény 26. § (1) bekezdésében meghatározott tevékenység (a továbbiakban: vagyonműködtetés) érdekében − a legalább többségi állami tulajdonú pályahálózat-működtető gazdasági társasággal − vagyonműködtetési szerződést köt.
+25. § (1) A magyar állam
 
-(1a) A vasúti pályahálózatra vonatkozó, (1) bekezdés szerinti vagyonkezelési, vagyonműködtetési tevékenység közfeladatnak minősül.
+- a) a pályahálózat-működtetővel az állami tulajdonban lévő vasúti pályahálózatok és intermodális csomópontok vagyonkezelésére vagyonkezelési szerződést köt,
+- b) az állami vagyonról szóló 2007. évi CVI. törvény 26. § (1) bekezdésében meghatározott tevékenység (a továbbiakban: vagyonműködtetés) érdekében − a legalább többségi állami tulajdonú pályahálózat-működtető gazdasági társasággal − vagyonműködtetési szerződést köt, vagy
+- c) a pályahálózat-működtető részére a pályahálózat működtetés időleges jogát törvényben szabályozott módon, koncesszió útján engedi át.
+
+(1a) A vasúti pályahálózatra vonatkozó, (1) bekezdés szerinti tevékenység közfeladatnak minősül.
 
 (2) A magyar állam az országos jelentőségű vasútvonalak, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi vagy elővárosi vasúti pályahálózat működtetésére szerződést (a továbbiakban: pályahálózat-működtetési szerződés) köt.
 
@@ -2286,7 +2303,7 @@ alapján vezethető.
 
 (2) A vasúti igazgatási szerv országos illetékességgel jár el. A vasúti igazgatási szerv feladat- és hatáskörébe tartozó eljárásokban az ügyintézési határidő 45 nap.
 
-(3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a vasúti igazgatási szerv a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
+(3)
 
 (4) A vasúti igazgatási szerv határozata valamennyi ügyfélre nézve kötelező és azt más közigazgatási hatóság nem vizsgálhatja felül.
 
@@ -3206,7 +3223,7 @@ rendeletben hirdeti ki.
 
 megfelelnek a vasút-villamos szolgáltatásra kiadott működési engedélyekben meghatározottaknak.
 
-(5) A vasút-villamos által használt vasúti pályahálózat használatbavételi engedélye iránti kérelmet legkésőbb a műszaki átadás-átvételt követő hatvan napon belül kell benyújtani a vasúti közlekedési hatósághoz. Használatbavételi engedély hiányában a műszaki átadás-átvételt követő legfeljebb kétszázhetven napig a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló kormányrendeletben meghatározott korlátozott szolgáltatási szintű forgalom bonyolítható le.
+(5) A vasút-villamos által használt vasúti pályahálózat használatbavételi engedélye iránti kérelmet legkésőbb a műszaki átadás-átvételt követő hatvan napon belül kell benyújtani a vasúti közlekedési hatósághoz. Használatbavételi engedély hiányában a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló kormányrendeletben meghatározott korlátozott szolgáltatási szintű forgalom bonyolítható le.
 
 ### A stratégiai jelentőséggel nem bíró vasúti pályahálózatokra vonatkozó eltérő rendelkezések
 
