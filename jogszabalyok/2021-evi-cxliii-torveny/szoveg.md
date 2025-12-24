@@ -33,6 +33,8 @@ Az Országgyűlés célja a családtagok részvételével, erőforrásaik közö
 
 2/A. § A 2. § b) pont bb) alpontja szerinti, legalább 5 éves földhasználói vagy erdőgazdálkodói minőség időtartamába beleszámít azon időtartam is, amely alatt a földet a földhasználati nyilvántartás vagy az erdőgazdálkodói nyilvántartás szerint a gazdaságátadó közeli hozzátartozója vagy a legalább 25%-ban a gazdaságátadó tulajdonában álló, földhasználóként vagy erdőgazdálkodóként bejegyzett mezőgazdasági termelőszervezet használta.
 
+2/B. § Ha a 2. § a) pont aa) alpontjára figyelemmel a gazdaságátadási szerződésben több gazdaságátadó szerepel, a 2. § b) pont bb) alpontja szerinti követelménynek a gazdaságátadóknak együttesen kell megfelelniük.
+
 ### II. Fejezet — GAZDASÁGÁTADÁSI SZERZŐDÉS
 
 #### 3. A gazdaságátadási szerződés általános szabályai
@@ -258,7 +260,9 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 13/A. § (1) A gazdaságátadási szerződésben meghatározott polgári jogi és munkajogi szerződések tekintetében a gazdaságátvevő a gazdaság tulajdonjoga átruházásának időpontjában lép a gazdaságátadó helyébe.
 
-(2) A gazdaságátadó kötelezettsége, hogy a gazdaságátadási szerződés megkötéséről, annak hatósági jóváhagyásáról, módosításáról, valamint a gazdaság tulajdonjoga átruházásának tényéről és időpontjáról, az ezeket igazoló okiratok eredeti vagy hiteles másolatának megküldésével 8 napon belül írásban tájékoztassa a gazdaságátadási szerződésben meghatározott polgári jogi és munkajogi szerződésekben maradó feleket. Ha a gazdaságátadó a tájékoztatást elmulasztja, akkor a gazdaságátvevő a gazdaságátadási szerződéssel igazolhatja a polgári jogi és munkajogi szerződésekben maradó feleknek a gazdaságátadás tényét.
+(2) A gazdaságátadó a gazdaságátadási szerződés megkötéséről és módosításáról, valamint a gazdaság tulajdonjoga átruházásának időpontjáról a gazdaságátadási szerződés vagy annak módosításának megkötését követő 8 napon belül – az ezeket igazoló okiratok eredeti vagy hiteles másolatának megküldésével – írásban tájékoztatja a gazdaságátadási szerződésben meghatározott polgári jogi és munkajogi szerződésekben maradó feleket. Ha a gazdaságátadó a tájékoztatást elmulasztja, a gazdaságátvevő a gazdaságátadási szerződéssel igazolhatja a polgári jogi és munkajogi szerződésekben maradó feleknek a gazdaságátadás tényét.
+
+(3) A 3. § (3) bekezdése szerinti esetben a 3. § (4) bekezdés alkalmazása során a felek megállapodhatnak a használat átengedésével érintett mező- és erdőgazdasági hasznosítású földekhez kapcsolódó hitel-, illetve kölcsönszerződések átadásáról. Ebben az esetben ezekre a szerződésekre a 13. §-ban foglaltakat alkalmazni kell.
 
 14. § (1) A gazdaságátvevő a gazdaságátadási szerződéshez kapcsolódó tulajdonjog átruházásra irányuló nyilatkozattal minden, a gazdaságátadási szerződésben meghatározott, a gazdasághoz kapcsolódó gazdasági tevékenység végzéséhez szükséges hatósági engedélyben a gazdaságátadó helyébe lép mint az engedély jogosultja, ha megfelel a tevékenység végzésének feltételeit meghatározó jogszabálynak.
 
@@ -268,7 +272,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 15. § (1) A 7. § e) és f) pontja szerinti támogatási jogviszonyokban a gazdaságátadási szerződés alapján a gazdaság átvevője a gazdaságátadó általános jogutódja.
 
-(2) A gazdaságátvevő jogutódlással a gazdaságátadó helyébe lép a 7. § e) és f) pontjában meghatározott támogatási jogviszonyban, ha megfelel a támogathatóság jogosultsági és tartalmi feltételeinek. Ha nem felel meg a gazdaságátvevő a támogatás jogosultsági és tartalmi feltételeinek, akkor a támogatási jogviszonyt meg kell szüntetni és a gazdaságátadó mentesül a támogatás visszafizetésének kötelezettsége alól.
+(2) A gazdaságátvevő jogutódlással a gazdaságátadó helyébe lép a 7. § e) és f) pontjában meghatározott támogatási jogviszonyban, ha megfelel a támogathatóság jogosultsági és tartalmi feltételeinek. Ha nem felel meg a gazdaságátvevő a támogatás jogosultsági és tartalmi feltételeinek, akkor a támogatási jogviszonyt meg kell szüntetni és a gazdaságátadó mentesül a támogatás visszafizetésének kötelezettsége alól, azzal, hogy a támogatási jogviszony keretében felvett előleggel el kell számolnia..
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -291,7 +295,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 #### 12. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-18. § A 2. §, a 2/A. §, a 3. § (2)–(4) és (13) bekezdése, a 6. §, a 9. § (2) bekezdése, a 12. § (1), (1a) és (4) bekezdése, valamint a 21–28. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
+18. § A 2. §, a 2/A. §, a 2/B. §, a 3. § (2)–(4) és (13) bekezdése, a 6. §, a 9. § (2) bekezdése, a 12. § (1), (1a) és (4) bekezdése, valamint a 21–28. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 
 #### 13. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 

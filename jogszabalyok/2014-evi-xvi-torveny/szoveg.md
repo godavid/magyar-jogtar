@@ -359,7 +359,31 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 (7) Az ABAK a tevékenységi engedély kézhezvételét követően, de legkorábban az (1) bekezdés f) pontjában és a (3) bekezdésének a) és b) pontjában említett, esetleg hiányzó információk benyújtását követő egy hónap elteltével kezdheti meg tevékenységét.
 
-(8)–(13)
+(8) Az (1) bekezdés d) pontjában meghatározott okiratok tartalmazzák az ABAK ügyvezetőjére – ideértve a 7. § (1) és (2) bekezdésében meghatározott tevékenységek irányítását ellátó személyeket is – vonatkozóan
+
+- a) a beosztását, felelős területét és a beosztásban eltöltött időt,
+- b) az ABAK-on belüli és azon kívüli jelentéstételi útvonalainak és felelősségeinek ismertetését,
+- c) az egyes felelős területhez kapcsolódó döntésekhez rendelt időtartamot,
+- d) a területéhez tartozó humán és technikai erőforrások ismertetését.
+
+(9) Az (1) bekezdés f) pontja szerinti tájékoztatás tartalmazza
+
+- a) a megbízott harmadik személy nevét és nyilvántartási számát,
+- b) a megbízott harmadik személy letelepedési helye szerinti joghatóságát,
+- c) a megbízott harmadik személy felett felügyeletet gyakorló hatóságot,
+- d) napi befektetéskezelési vagy kockázatkezelési feladatok ellátásához szükséges humán és technikai erőforrásokat az ABAK részéről,
+- e) az átruházott tevékenység nyomon követéséhez szükséges humán és technikai erőforrásokat az ABAK részéről,
+- f) az ABAK által kezelt vagy kezelni kívánt valamennyi ABA vonatkozásában az átruházott befektetéskezelési tevékenység ismertetését, ideértve hogy ez az átruházás részleges vagy teljes,
+- g) az ABAK által kezelt vagy kezelni kívánt valamennyi ABA vonatkozásában az átruházott kockázatkezelési tevékenység ismertetését ideértve, hogy ez az átruházás részleges vagy teljes,
+- h) az átruházott tevékenység ABAK általi nyomon követése célját szolgáló időszakos átvilágítási intézkedések ismertetését.
+
+(10)
+
+(11)
+
+(12)
+
+(13)
 
 12. § (1) Abban az esetben, ha a 2. § (2) bekezdés szerinti ABAK – három hónapot meghaladóan – nem teljesíti a törvény alóli részleges felmentést megalapozó feltételeket, haladéktalanul értesíti erről a tényről a Felügyeletet, és 30 napon belül igazolja, hogy teljes körűen megfelel e törvény rendelkezéseinek.
 
@@ -1774,6 +1798,8 @@ engedélyezte a tervezett egyesülést.
 
 (3) Nyilvános nyílt végű befektetési alap esetében legalább heti egy, ezen belül a nyilvános nyílt végű származtatott alapok és alapok alapja esetében legalább havonta egy, zártkörű nyílt végű alap esetében legalább negyedévente egy forgalmazás-elszámolási napot kell biztosítani. A nyilvános nyílt végű alapok esetében a forgalmazás-teljesítési nap nem lehet későbbi, mint a forgalmazás-elszámolási napot követő 10. nap. Ha egy befektetési alap befektetési politikája szerint eszközeinek több mint húsz százalékát egy adott másik alapba fekteti, választhatja azt, hogy a forgalmazási szabályai egyezzenek meg a portfóliójában több mint 20%-ot képviselő alap forgalmazási szabályaival.
 
+(3a) Ingatlanalap esetében – a (3) bekezdésben foglaltaktól eltérően – a befektetési alapkezelő az egyes sorozatok visszaváltási politikájához igazítottan határozza meg a forgalmazás-elszámolási napok és a forgalmazás-teljesítési napok gyakoriságát.
+
 (4) Amennyiben a forgalmazás-elszámolási nap, illetve a forgalmazás-teljesítési nap az eladás, illetve a visszaváltás felfüggesztésének vagy szünetelésének napjára esik, a határidő az azt követő első olyan forgalmazás-elszámolási, illetve forgalmazás-teljesítési nap, amikor a megbízás irányának megfelelő forgalmazás felfüggesztése megszűnik. Amennyiben a befektetőnek a befektetési jegyek vételére, illetve visszaváltására vonatkozó megbízása az előbbiek alapján függőben van, úgy a befektető jogosult a megbízását írásban visszavonni. A megbízás visszavonása esetén a befektető terhére díj vagy költség nem számítható fel.
 
 (5) Nyilvános nyílt végű befektetési alap esetében az alapkezelő a visszaváltási feltételeket a befektetők számára hátrányosan kizárólag úgy módosíthatja, hogy a kezelési szabályzat ilyen tartalmú módosításáról a befektetőket a módosulás hatálybalépését legalább 30 nappal és legalább egy forgalmazás-elszámolási nappal megelőzően tájékoztatja.
@@ -3120,7 +3146,7 @@ van összefüggésben.
 
 (7) A 281. § (2) és (3) bekezdése 2014. december 1-jén lép hatályba.
 
-(8) E törvény 155–161. §-a az Európai Bizottság – az ABAK-irányelv 67. cikk (6) bekezdése alapján elfogadandó – felhatalmazáson alapuló jogi aktusának meghozatalát követő 15. napon lép hatályba.
+(8) A 155–161. § 2026. április 16-án lép hatályba.
 
 (9)
 

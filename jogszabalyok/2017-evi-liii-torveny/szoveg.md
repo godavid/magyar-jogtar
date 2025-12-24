@@ -1256,7 +1256,9 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (7) Az (1) bekezdés h) pontja szerint kiszabott pénzbírságot a közléstől számított harminc napon belül kell megfizetni. A szolgáltató kérelmére a felügyeletet ellátó szerv a pénzfizetési kötelezettség teljesítésére halasztást, illetve részletekben történő teljesítést (a továbbiakban: fizetési kedvezmény) is megállapíthat. A pénzbírság megfizetésére kötelezett szolgáltató a határozat közlésétől számított öt napon belül benyújtott kérelmében kérheti a fizetési kedvezmény engedélyezését abban az esetben, ha rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. A feltételek meglétét a szolgáltatónak hitelt érdemlően, dokumentumokkal alátámasztva igazolnia kell.
 
-70. § Az 5. §-ban meghatározott felügyeletet ellátó szervek a felügyeleti tevékenység gyakorlása során szorosan együttműködnek egymással, a pénzügyi információs egységgel, a nyomozó hatósággal, az ügyészséggel és a bírósággal, valamint a más tagállambeli vagy harmadik országbeli felügyeletet ellátó szervekkel.
+70. § (1) Az 5. §-ban meghatározott felügyeletet ellátó szervek a felügyeleti tevékenység gyakorlása során szorosan együttműködnek egymással, a pénzügyi információs egységgel, a nyomozó hatósággal, az ügyészséggel és a bírósággal, valamint a más tagállambeli vagy harmadik országbeli felügyeletet ellátó szervekkel.
+
+(2) A Felügyelet (1) bekezdés szerinti együttműködése a Hpt.-ben, valamint az 575/2013/EU rendeletben meghatározott feladatok szempontjából lényeges információk megosztására is kiterjed.
 
 71. § (1) Az e törvény szerinti felügyeleti eljárás során hozott véglegessé vált vagy a jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánított határozatot az 5. § a)–c) és e)–g) pontjában meghatározott felügyeletet ellátó szerv – a szolgáltatóval történő közlést követően – haladéktalanul köteles közzétenni a honlapján oly módon, hogy abból legalább a szabály megsértésének vagy a hiányosságnak a jellegére, illetve a jogsértő személyére vonatkozó adatok, információk megismerhetőek legyenek.
 
@@ -1574,6 +1576,7 @@ vonatkozó részletszabályokat.
 - c) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek,
 - d) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása céljából történő felhasználásának megkönnyítését szolgáló szabályok megállapításáról, valamint a 2000/642/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1153 európai parlamenti és tanácsi irányelvnek
 - e) a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+- f) a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

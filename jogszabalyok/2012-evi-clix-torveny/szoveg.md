@@ -466,7 +466,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető intézmény által meghatározott jelölés alkalmazására.
 
-(7) A Posta Elszámoló Központot működtető intézmény a Hpt. 172–176. §-a és a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 11–24. cikkének alkalmazásában pénzügyi vállalkozásnak minősül.
+(7) A Posta Elszámoló Központot működtető intézmény a Hpt. 172–176. §-a és a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet Első rész II. cím 2. fejezetének alkalmazásában pénzügyi vállalkozásnak minősül.
 
 27. § (1) Az egyetemes postai szolgáltató köteles jóhiszemű tárgyalásba bocsátkozni azon postai szolgáltatókkal, amelyek az általuk engedélyköteles szolgáltatás keretében felvett postai küldemények feldolgozását, szállítását és kézbesítését együttesen magában foglaló tevékenység ellátása érdekében igénybe kívánják venni az egyetemes postai szolgáltatónak az egyetemes postai szolgáltatás érdekében működtetett hálózatát, és az egyetemes postai szolgáltató mindenkori hálózati szerkezetéhez és technológiai rendszeréhez igazodó tartalmú hálózati hozzáférési szerződés megkötését kezdeményezik.
 

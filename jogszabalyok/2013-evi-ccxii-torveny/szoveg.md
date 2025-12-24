@@ -30,6 +30,10 @@ a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. tö
 
 6. § (1) Az állattartó telep üzemeltetőjét a Földforgalmi törvény 16. § (3) bekezdésében meghatározott kedvezményes birtokmaximum akkor illeti meg, ha – a szerződés megkötését vagy az elővásárlásra, illetve előhaszonbérletre vonatkozó elfogadó jognyilatkozatának megtételét megelőző évben vagy a megelőző három év átlagában – a már birtokában lévő földön az évenkénti átlagos állatlétszám elérte a 600 állategységet. Az állattartáshoz szükséges takarmány-előállítás céljából az 1200 hektár mértékű birtokmaximumot meghaladó föld megszerzéséhez hektáronként legalább fél állategység átlagos állatsűrűséggel kell rendelkezni.
 
+(1a) Ha egy állattartó telepen állatjárványügyi veszély elhárításaként az élelmiszerlánc-felügyeleti szerv által elrendelt állatleölést hajtottak végre, az állattartó telep üzemeltetője az állatleölés végrehajtását követő három évben továbbra is hivatkozhat az (1) bekezdés szerinti kedvezményes birtokmaximumra. Ezen kedvezmény kizárólag azon területek vonatkozásában illeti meg, amelyek az állatleölés végrehajtásának időpontjában haszonbérlet jogcímén a használatában álltak, függetlenül a haszonbérlet megszűnésének okától.
+
+(1b) Az (1a) bekezdésre az állattartó telep üzemeltetője csak akkor hivatkozhat, ha az állatleölés végrehajtásának időpontját megelőző napon megfelelt az (1) bekezdés szerinti feltételeknek.
+
 (2) Az (1) bekezdésben foglaltak igazolására az állattartó telep üzemeltetőjének kérelmére az élelmiszerlánc-felügyeleti szerv hatósági bizonyítványban igazolja a tényleges állattartást és a nyilvántartás szerinti állatlétszám alapján megállapított állategységet.
 
 7. § (1) A szántóföldi és kertészeti növényfajok vetőmagjának előállítóját a Földforgalmi törvény 16. § (3) bekezdésében meghatározott kedvezményes birtokmaximum akkor illeti meg, ha a szerződés megkötését vagy az elővásárlásra, illetve előhaszonbérletre vonatkozó elfogadó jognyilatkozatának megtételét megelőző három év átlagában a már birtokában lévő szántó művelési ágú föld egytizede, de legalább 120 hektár vetőmag vagy szaporító anyag előállításának helyéül szolgált.
@@ -137,7 +141,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 (5) Az (1)–(3) bekezdésben foglalt feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
 
-18/B. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés d) pontja szerinti szaporítóanyag-előállítás folytatása, igazolni kell, hogy az elővásárlásra jogosultat a növénytermesztési hatóság földet használó és a vetőmag táblát bejelentő szaporítóanyag-előállítóként nyilvántartásba vette.
+18/B. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés d) pontja szerinti szaporítóanyag-előállítás folytatása, igazolni kell, hogy az elővásárlásra jogosultat a növénytermesztési hatóság földet használó és a vetőmag táblát bejelentő szaporítóanyag-előállítóként legalább 3 éve nyilvántartásba vette, és a megelőző három gazdasági évben szaporítóanyagot állított elő.
 
 (2) A Földforgalmi törvény 18. § (2) bekezdés d) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
 
@@ -162,7 +166,7 @@ fog előállítani.
 
 (6) Az (1) bekezdésben foglaltakat és a (2) bekezdés szerinti nyilatkozatok meglétét a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
 
-19. § A Földforgalmi törvény 19. § (5) bekezdésében meghatározott esetben az elővásárlásra jogosult az adás-vételi szerződést csak teljes egészében fogadhatja el. E rendelkezés alkalmazása során az elővásárlásra jogosultak sorrendjére a Földforgalmi törvény 18–19. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő elővásárlásra jogosult elővásárlási jogát megalapozó körülmény az adásvételi szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az elővásárlási joga fennáll, nyilatkozata új ajánlatnak minősül.
+19. § A Földforgalmi törvény 19. § (5) bekezdésében meghatározott esetben az elővásárlásra jogosult az adás-vételi szerződést csak teljes egészében fogadhatja el. E rendelkezés alkalmazása során az elővásárlásra jogosultak sorrendjére a Földforgalmi törvény 18–19. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő elővásárlásra jogosult elővásárlási jogát megalapozó körülmény az adásvételi szerződésben szereplő földek egésze tekintetében állna fenn.
 
 20. § Az elővásárlási jogot megalapozó körülménynek az elővásárlási jog gyakorlására vonatkozó nyilatkozat megtételekor kell fennállnia.
 
@@ -332,7 +336,7 @@ használhatja fel.
 (2) A mezőgazdasági igazgatási szerv a megkereséshez csatolja:
 
 - a) a jegyző által a mezőgazdasági igazgatási szerv részére megküldött, a Földforgalmi törvény 21. § (2) bekezdésében előírtak szerint a jegyző által anonimizált és a kormányzati portálon közzétételre került adás-vételi szerződés másolatát,
-- b) az elfogadó jognyilatkozat olyan másolatát, amelyen a mezőgazdasági igazgatási szerv felismerhetetlenné teszi a jognyilatkozatot tevő nevén, lakcímén vagy értesítési címén, valamint állampolgárságán kívül valamennyi természetes személyazonosító adatot.
+- b) az elfogadó jognyilatkozat olyan másolatát, amelyen a mezőgazdasági igazgatási szerv felismerhetetlenné teszi a jognyilatkozatot tevő nevén, lakcímén vagy értesítési címén kívül valamennyi természetes személyazonosító adatot.
 
 36. § (1) Ha a helyi földbizottság a mezőgazdasági igazgatási szerv megkeresésének beérkezésétől számított 45 napon belül nem adja meg az állásfoglalását, úgy a mezőgazdasági igazgatási szerv a helyi földbizottság állásfoglalása nélkül dönt az adásvételi szerződés jóváhagyásáról.
 
@@ -411,9 +415,17 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 
 (3)
 
-#### 9/A.
+#### 9/A. A föld tulajdonjogának a helyi önazonosság védelméről szóló 2025. évi XLVIII. törvény szerinti elővásárlási joggal történő megszerzésére vonatkozó különös eljárási szabályok
 
-#### 44/A. §
+44/A. § (1) Ha a helyi önazonosság védelméről szóló 2025. évi XLVIII. törvény szerinti elővásárlási jogot olyan zártkerti ingatlanra kívánják gyakorolni, amely földnek minősül, az elővásárlási jognyilatkozatot benyújtó személynek az elővásárlási jog gyakorlásáról szóló nyilatkozathoz mellékelnie kell a mezőgazdasági igazgatási szerv igazolását a tulajdonszerzési feltételek fennállásáról.
+
+(2) Az (1) bekezdés szerinti igazolás kiadása iránti eljárásban a kérelmezőnek meg kell jelölnie az adásvétel tárgyát képező ingatlan helyrajzi számát, valamint az érintett tulajdoni hányad nagyságát, amelyre az elővásárlási jogát gyakorolni kívánja. Az e bekezdés szerinti kérelem alapján a mezőgazdasági igazgatási szerv hatósági bizonyítványt ad ki a tulajdonszerzéshez szükséges feltételek fennállásáról vagy annak kiadását megtagadja.
+
+(3) Az eljárás a kérelemnek a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
+
+(4) A mezőgazdasági igazgatási szerv azt vizsgálja, hogy az elővásárló szerzőképessége fennáll-e, és az adásvétel nem eredményezi-e tulajdonszerzési korlátozás megsértését vagy megkerülését.
+
+44/B. § A 44/A. § (1) bekezdése szerinti hatósági bizonyítvány kiállítása esetén, amennyiben az elővásárlásra jogosult érvényesen gyakorolta elővásárlási jogát, figyelmen kívül kell hagyni a Földforgalmi törvénynek a szerződés mezőgazdasági igazgatási szerv részére történő megküldéséről, az elővásárlási jogról, az elővásárlásra jogosultakról, az elővásárlásra jogosult elfogadó jognyilatkozatáról, az elővásárlásra jogosultak jegyzékről és az elővásárlásra jogosult mezőgazdasági igazgatási szerv által történő kijelölésről, a helyi földbizottság megkereséséről, valamint a mezőgazdasági igazgatási szerv döntéshozataláról szóló rendelkezéseit.
 
 ### VIII. Fejezet — A FÖLDHASZNÁLATTAL KAPCSOLATOS RENDELKEZÉSEK
 
@@ -524,7 +536,7 @@ kell érteni.
 
 (4) Az (1) és (2) bekezdésben meghatározott feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.
 
-55/B. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés d) pontja szerinti szaporítóanyag-előállítás folytatása, igazolni kell, hogy az előhaszonbérletre jogosultat a növénytermesztési hatóság földet használó és a vetőmag táblát bejelentő szaporítóanyag-előállítóként nyilvántartásba vette.
+55/B. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés d) pontja szerinti szaporítóanyag-előállítás folytatása, igazolni kell, hogy az előhaszonbérletre jogosultat a növénytermesztési hatóság földet használó és a vetőmag táblát bejelentő szaporítóanyag-előállítóként legalább 3 éve nyilvántartásba vette, és a megelőző három gazdasági évben szaporítóanyagot állított elő.
 
 (2) A Földforgalmi törvény 46. § (3) bekezdés d) pontja szerinti előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a haszonbérleti szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy a haszonbérlet időtartama alatt a haszonbérleti szerződés hatálybalépését közvetlenül megelőző öt befejezett gazdasági év számtani átlagához képest legalább az előhaszonbérleti joggal érintett föld területével megegyező területnagysággal nagyobb területen a saját nevében szaporítóanyag-előállítási tevékenységet fog folytatni.
 
@@ -543,7 +555,7 @@ fog előállítani.
 
 (4) Az (1) bekezdésben foglaltakat és a (2) bekezdés szerinti nyilatkozatok meglétét a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.
 
-56. § A Földforgalmi törvény 47. § (5) bekezdésében meghatározott esetben az előhaszonbérletre jogosult a haszonbérleti szerződést csak teljes egészében fogadhatja el. E bekezdés alkalmazása során az előhaszonbérletre jogosultak sorrendjére a Földforgalmi törvény 45–47. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő előhaszonbérletre jogosult előhaszonbérleti jogát megalapozó körülmény a haszonbérleti szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az előhaszonbérleti joga fennáll, nyilatkozata új ajánlatnak minősül.
+56. § A Földforgalmi törvény 47. § (5) bekezdésében meghatározott esetben az előhaszonbérletre jogosult a haszonbérleti szerződést csak teljes egészében fogadhatja el. E bekezdés alkalmazása során az előhaszonbérletre jogosultak sorrendjére a Földforgalmi törvény 45–47. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő előhaszonbérletre jogosult előhaszonbérleti jogát megalapozó körülmény a haszonbérleti szerződésben szereplő földek egésze tekintetében állna fenn.
 
 56/A. § Az előhaszonbérleti jogot megalapozó körülménynek az előhaszonbérleti jog gyakorlására vonatkozó nyilatkozat megtételekor kell fennállnia.
 
@@ -621,13 +633,27 @@ fog előállítani.
 
 #### 17. Alhaszonbérlet
 
-64. § A Földforgalmi törvény 42. § (1) bekezdésének alkalmazásában a föld használata átengedésének tilalma nem vonatkozik a 65. §-ban meghatározott alhaszonbérbe adásra. A 65. §-ban és a Földforgalmi törvény 42. § (2) bekezdésében meghatározott esetek kivételével az alhaszonbérbe adásra kötött szerződés semmis.
+64. § A Földforgalmi törvény 42. § (1) bekezdésének alkalmazásában a föld használata átengedésének tilalma nem vonatkozik a 65. §-ban, a 65/A. §-ban és a 65/A. §-ban meghatározott alhaszonbérbe adásra. A 65. §-ban, a 65/A. §-ban és a Földforgalmi törvény 42. § (2) bekezdésében meghatározott esetek kivételével az alhaszonbérbe adásra kötött szerződés semmis.
 
-65. § (1) Ha a haszonbérelt földön megtermelendő termény vetésforgó, illetve túlnyomó részben élőmunka ráfordítás alkalmazását igényli – ideértve a vetőmag előállítást is –, a haszonbérlő a haszonbérbeadó hozzájárulásával megállapodhat más földművessel vagy mezőgazdasági termelőszervezettel, hogy a részére a föld használatát egyes, a vetésforgó alkalmazásához szükséges vagy túlnyomó részben élőmunka ráfordítást igénylő mezőgazdasági munkák elvégzésével érintett legfeljebb egy gazdasági évre, de a haszonbérleti szerződés lejártát meg nem haladó időtartamra átengedi. Az adott föld öt egymást követő gazdasági évben legfeljebb két gazdasági évet érintően adható alhaszonbérbe. E bekezdés szerinti alhaszonbérleti szerződést önálló, egységes okiratba kell foglalni.
+65. § (1) Ha a haszonbérelt földön megtermelendő termény vetésforgó, illetve túlnyomó részben élőmunka ráfordítás alkalmazását igényli – ideértve a vetőmag előállítást is –, a haszonbérlő a haszonbérbeadó hozzájárulásával megállapodhat más földművessel vagy mezőgazdasági termelőszervezettel, hogy a részére a föld használatát egyes, a vetésforgó alkalmazásához szükséges vagy túlnyomó részben élőmunka ráfordítást igénylő mezőgazdasági munkák elvégzésének időtartamára, de legfeljebb a haszonbérleti szerződés lejártáig átengedi. E bekezdés szerinti alhaszonbérleti szerződést önálló, egységes okiratba kell foglalni.
 
-(2) Az (1) bekezdés szerinti alhaszonbérleti szerződés nem érinti a haszonbérlőnek a haszonbérbeadóval szemben fennálló kötelezettségeit.
+(2) Az (1) bekezdés és a 65/A. § (1) bekezdése szerinti alhaszonbérleti szerződés nem érinti a haszonbérlőnek a haszonbérbeadóval szemben fennálló kötelezettségeit.
 
-(3) Az (1) bekezdés szerinti alhaszonbérbe adás esetén az előhaszonbérleti jog nem áll fenn, továbbá az alhaszonbérleti szerződéshez nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
+(3) Az (1) bekezdés és a 65/A. § (1) bekezdése szerinti alhaszonbérbe adás esetén az előhaszonbérleti jog nem áll fenn, továbbá az alhaszonbérleti szerződéshez nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
+
+(4) Az (1) bekezdés és a 65/A. § (1) bekezdése szerinti alhaszonbérleti szerződés tárgya nem lehet már alhaszonbérbe adott föld.
+
+65/A. § (1) Az egységes művelés érdekében két haszonbérlő megállapodhat, hogy a haszonbérlet jogcímén használatukban álló, legfeljebb 5 hektár nagyságú, szántó, rét, legelő vagy szőlő művelési ágú terület használati jogát elcserélhetik (a továbbiakban: földhasználati csere), ha a földhasználati csere eredményeként valamelyik haszonbérlő birtokába olyan földterület kerül, amely szomszédos a földhasználati nyilvántartás alapján már használatában álló földterülettel. A földhasználati csereszerződés legalább egy gazdasági évre, és legfeljebb a korábban lejáró haszonbérleti szerződés időtartamára köthető meg.
+
+(2) Az (1) bekezdés alkalmazásában két terület akkor tekinthető szomszédosnak, ha azok megfelelnek a Földforgalmi törvény 5. § 23. pontjában foglaltaknak. Ennek vizsgálata során az osztatlan közös tulajdonban álló ingatlanban a használati rend szerint kijelölt területeket önálló területnek kell tekinteni.
+
+(3) Az (1) bekezdésben meghatározott, a földhasználati csereszerződés tárgyát képező földterülettel szomszédos földterület helyrajzi számát a földhasználati csereszerződésben meg kell jelölni.
+
+(4) Földhasználati csereszerződés nem köthető, ha az annak alapjául szolgáló haszonbérleti szerződésben a földhasználó az előhaszonbérleti jogát a Földforgalmi törvény 46. § (3) bekezdés a), b), c) vagy e) pontjára alapította, vagy ha a föld rizstelepnek minősül.
+
+(5) A földhasználati csereszerződésről mindkét haszonbérlő köteles a szerződés megkötését követő 15 napon belül a vele haszonbérleti jogviszonyban álló tulajdonost tájékoztatni.
+
+(6) A földhasználati csereszerződés megszűnik az alapjául szolgáló bármely haszonbérleti szerződés megszűnésével. A földhasználati csereszerződés rendes felmondással nem szüntethető meg.
 
 #### 18.
 
@@ -829,9 +855,9 @@ javára történő átengedésére.
 
 (8) A használati megosztásról szóló megállapodás – a (10) bekezdésben meghatározott esetek kivételével – a (9) bekezdésben meghatározott módon elkészített, a használati rendet ábrázoló térképi kimutatással együtt érvényes, az a megállapodás elválaszthatatlan mellékletét képezi.
 
-(9) A használati megosztásról szóló megállapodásban részes tulajdonostársaknak az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – a megállapodástervezet elkészítése időpontjában 30 napnál nem régebbi – hiteles szemle másolaton egyértelmű jelzéssel, a használati megosztásról szóló megállapodásnak megfelelően, azzal azonosítható módon ábrázolni kell az egyes tulajdonostársak részére kijelölt területet. A térképi kimutatást a használati megállapodásban részes tulajdonostársaknak alá kell írni.
+(9) A használati megosztásról szóló megállapodásban részes tulajdonostársaknak az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – a megállapodástervezet elkészítése időpontjában 90 napnál nem régebbi – hiteles szemle másolaton egyértelmű jelzéssel, a használati megosztásról szóló megállapodásnak megfelelően, azzal azonosítható módon ábrázolni kell az egyes tulajdonostársak részére kijelölt területet. A térképi kimutatást a használati megállapodásban részes tulajdonostársaknak alá kell írni.
 
-(9a) Erdőnek minősülő földre kötött használati megosztásról szóló megállapodás esetében a (9) bekezdés szerinti térképi kimutatás alatt az erdészeti hatóság által kiadott, 30 napnál nem régebbi erdészeti térkép felhasználásával, jogosult erdészeti szakszemélyzet által készített, külön jogszabályban meghatározott erdészeti térképi mellékletet kell érteni.
+(9a) Erdőnek minősülő földre kötött használati megosztásról szóló megállapodás esetében a (9) bekezdés szerinti térképi kimutatás alatt az erdészeti hatóság által kiadott, 90 napnál nem régebbi erdészeti térkép felhasználásával, jogosult erdészeti szakszemélyzet által készített, külön jogszabályban meghatározott erdészeti térképi mellékletet kell érteni.
 
 (10) Nem kell térképi kimutatást készíteni, ha a használati megosztásról szóló megállapodás alapján
 
@@ -906,13 +932,27 @@ javára történő átengedésére.
 
 ### X/A. Fejezet — A RIZSTELEPEKRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-76/A. § (1) A rizsteleppé minősítésről a földhasználó kérelmére, több földhasználó esetén valamennyi földhasználó által közösen benyújtott kérelemre, az élelmiszerlánc-felügyeleti szerv dönt.
+76/A. § (1) A rizsteleppé minősítésről a kérelemmel érintett földek földhasználati nyilvántartásba bejegyzett földhasználójának kérelmére az élelmiszerlánc-felügyeleti szerv dönt. Több földhasználó esetén a kérelemmel érintett földek földhasználói közül az érintett földterületek együttes térmértékének felét meghaladó nagyságú terület használatával rendelkező földhasználó jogosult a kérelem benyújtására.
+
+(1a) Több földhasználó esetén, amennyiben egyikük sem rendelkezik az (1) bekezdés szerint számított többséggel, a kérelemmel érintett földterületek együttes térmértékének kétharmadát meghaladó nagyságú terület használatával rendelkező földhasználók közös kérelmet nyújthatnak be, amelyben meg kell jelölniük, hogy a rizsteleppé minősítés iránti kérelemnek helyt adó döntés esetén melyikük fog a 76/E. § (1) bekezdése szerinti ajánlatban földhasználóként szerepelni.
+
+(1b) A rizsteleppé minősítés iránti eljárás díjmentes.
 
 (2) Az élelmiszerlánc-felügyeleti szerv eljárásában a rizstelep Földforgalmi törvény 5. § 22b. pontjában foglaltaknak való megfelelését vizsgálja.
 
+(2a) A Földforgalmi törvény 5. § 22b. pontja szerinti egységes művelés kritérium teljesülésének feltétele, hogy a rizstelep részét képező ingatlanok egymással közvetlenül érintkezzenek.
+
+(2b) A rizstelepnek nem része az öntözését biztosító elárasztó csatorna, illetve a víz elvezetését biztosító lecsapolási befogadó területe.
+
+(2c) Már működő rizstelep esetén az öntözését biztosító elárasztó csatorna tulajdonosa vagy kezelője, valamint a víz elvezetését biztosító lecsapolási befogadó terület tulajdonosa ellenérték fejében köteles használati jogot biztosítani az érintett rizstelep használója részére a rizstelep minősítés fennállásának idejére.
+
+(2d) Rizsteleppé minősíteni egész ingatlant vagy egy ingatlan teljes alrészletét lehet.
+
+(2e) Az élelmiszerlánc-felügyeleti szerv a rizsteleppé minősítés iránti eljárás során a feladatai ellátásához szükséges mértékben díjmentesen igényelhet adatot a vízügyi hatóság által vezetett vízikönyvből.
+
 (3) Az élelmiszerlánc-felügyeleti szerv az (1) bekezdés szerinti határozatában megállapítja a rizstelep
 
-- a) EOV koordináták szerinti lehatárolását,
+- a)
 - b) részét képező földrészletek megjelölését település, fekvés, helyrajzi szám és alrészlet szerint,
 - c) térmértékét,
 - d) használójának
@@ -920,11 +960,11 @@ javára történő átengedésére.
   - db) lakóhelyét vagy székhelyét,
 - e) kódszámát.
 
-(4) Az élelmiszerlánc-felügyeleti szerv a (3) bekezdés szerinti döntés véglegessé válását követően haladéktalanul kezdeményezi az ingatlanügyi hatóságnál a rizstelep jogi jelleg ingatlan-nyilvántartási térképen való feltüntetését kódszámának megjelölésével együtt, továbbá annak a rizstelephez tartozó ingatlanok tulajdoni lapján történő bejegyzését.
+(4) Az élelmiszerlánc-felügyeleti szerv a (3) bekezdés szerinti döntés véglegessé válását követően haladéktalanul kezdeményezi az ingatlanügyi hatóságnál a rizstelep jogi jellegnek az ingatlanok tulajdoni lapján történő bejegyzését kódszámának megjelölésével együtt, továbbá az elektronikus ingatlan-nyilvántartási rendszerben a rizstelep jogi jelleg ingatlan-nyilvántartási térképen való feltüntetését.
 
-(5) A (3) bekezdés a), c) és d) pontja szerinti adat változását a földhasználó köteles 8 napon belül bejelenteni az élelmiszerlánc-felügyeleti szervnek.
+(5) A (3) bekezdés b) és c) pontja szerinti adat változását a földhasználó köteles 8 napon belül bejelenteni az élelmiszerlánc-felügyeleti szervnek.
 
-(6) Az élelmiszerlánc-felügyeleti szerv az (5) bekezdés szerinti bejelentés alapján hozott döntésének véglegessé válását követően haladéktalanul kezdeményezi a bekövetkezett változás átvezetését az ingatlan-nyilvántartási térképen, valamint az érintett ingatlanok tulajdoni lapján.
+(6) Az élelmiszerlánc-felügyeleti szerv az (5) bekezdés szerinti bejelentés alapján hozott döntésének véglegessé válását követően haladéktalanul kezdeményezi a bekövetkezett változás átvezetését az érintett ingatlanok tulajdoni lapján, valamint az elektronikus ingatlan-nyilvántartási rendszerben az ingatlan-nyilvántartási térképen.
 
 (7) A földhasználó köteles haladéktalanul bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha a rizsteleppé minősítés feltételei már nem állnak fenn. A hatóság a bejelentés alapján a rizsteleppé minősítés visszavonásáról dönt.
 
@@ -932,13 +972,28 @@ javára történő átengedésére.
 
 (9) Az élelmiszerlánc-felügyeleti szerv a (7) és (8) bekezdés szerinti döntésének véglegessé válását követően haladéktalanul kezdeményezi az ingatlanügyi hatóságnál a rizstelep jogi jelleg érintett ingatlanok tulajdoni lapjáról, valamint az ingatlan-nyilvántartási térképről történő törlését.
 
+(10) Az élelmiszerlánc-felügyeleti szerv a (3) bekezdésben meghatározott adatokat a rizsteleppé minősítéssel kapcsolatos feladatai ellátásával összefüggésben kezeli.
+
 76/B. § (1) A Földforgalmi törvény 5. § 22.b pontja szerinti rizstelep használatba adása esetén e törvény és a Földforgalmi törvény rendelkezéseit a 76/C–76/G. § szerinti eltéréssel kell alkalmazni.
 
 (2) Ezen fejezet alkalmazásában a rizstelephez tartozó földön fennálló haszonélvezeti jog esetében a tulajdonos alatt a haszonélvezőt is érteni kell.
 
 76/C. § Rizstelep esetén a haszonbérlet időtartama legfeljebb 25 év.
 
-76/D. § Rizstelephez tartozó földek haszonbérbe adására csak az egyazon rizstelephez tartozó valamennyi föld egybefoglalt haszonbér ellenében történő használatba adásával kerülhet sor.
+76/D. § (1) Rizstelephez tartozó földek haszonbérbe adására csak az egyazon rizstelephez tartozó valamennyi föld egybefoglalt haszonbér ellenében, azonos szerződési feltételekkel történő használatba adásával (a továbbiakban: egységes földhasználati szerződés) kerülhet sor.
+
+(2) Az egybefoglalt haszonbér ellenében történő haszonbérbe adási kötelezettség alól kivételt képez
+
+- a) a rizstelephez tartozó, a rizstelep használójának tulajdonában álló földrészlet,
+- b) a rizstelephez tartozó földrészlet abban az esetben, ha a rizstelep használójának földhasználata szívességi földhasználati szerződésen alapul.
+
+(3) A (2) bekezdés alá nem tartozó földrészletek vonatkozásában az egységes földhasználati szerződés szabályai az irányadóak.
+
+(4) A (2) bekezdés b) pontja szerinti esetben a szívességi földhasználati szerződés időtartamának legalább annyi időre kell szólnia, mint az egységes földhasználati szerződésben kikötött időtartam.
+
+(5) Amennyiben a rizstelep használója átruházza a rizstelephez tartozó, saját tulajdonában álló földterület tulajdonjogát, az értékesítés feltétele, hogy a tulajdonjogot átruházó szerződésben az új tulajdonos vállalja az (1)–(4) bekezdésben foglaltaknak megfelelő földhasználati szerződés megkötését.
+
+(6) A (2) bekezdés b) pontja szerinti földterületek tulajdonjogának átruházása esetén – ha az új tulajdonos nem a rizstelep használója – az értékesítés feltétele, hogy a tulajdonjogot átruházó szerződésben az új tulajdonos vállalja az (1)–(4) bekezdésben foglaltaknak megfelelő földhasználati szerződés megkötését.
 
 76/E. § (1) A rizstelep használatára vonatkozó ajánlatot írásban, igazolt módon közölni kell az ingatlan-nyilvántartásba bejegyzett valamennyi tulajdonossal.
 
@@ -964,17 +1019,25 @@ javára történő átengedésére.
 
 76/F. § (1) A rizstelep használatba adásához az e §-ban meghatározottak szerint a rizstelephez tartozó földrészletek tulajdonosainak a tulajdonukat képező földrészlet területe alapján számított többségi döntése szükséges azzal, hogy ha a tulajdonosok – a tulajdonukat képező földrészlet területe alapján számított – legalább egytizede a haszonbérleti ajánlatban foglaltakkal nem ért egyet, akkor a használatba adáshoz a tulajdonosok – a tulajdonukat képező földrészlet területe alapján számított – kétharmados döntése szükséges.
 
-(2) A rizstelep használatára irányuló szerződést egységes okiratba kell foglalni, és azt valamennyi tulajdonosnak alá kell írnia, ide nem értve azt a tulajdonostársat, akinek esetében az ajánlatot – a 76/E. § (4) bekezdésében foglaltak alapján, az ott meghatározott valamely körülmény miatt – elfogadottnak kell tekinteni. A földhasználati szerződés valamennyi tulajdonosra kiterjed.
+(2) A rizstelep használatára irányuló szerződést egységes okiratba kell foglalni, és azt valamennyi tulajdonosnak alá kell írnia, ide nem értve azt a tulajdonostársat, akinek esetében az ajánlatot – a 76/E. § (4) bekezdésében foglaltak alapján, az ott meghatározott valamely körülmény miatt – elfogadottnak kell tekinteni, valamint azon tulajdonostársakat, akik az ajánlattal nem értettek egyet. A földhasználati szerződés valamennyi tulajdonosra kiterjed.
 
-(3) Az (1) bekezdésben meghatározott egységes okiratba foglalt földhasználati szerződésnek minősül az is, ha a tulajdonosok és a földhasználó a rizstelep területére létrejött földhasználati szerződés tartalmát tulajdonosonként külön-külön okiratba foglalják, feltéve, hogy azok a jogviszony tartalmában nem térnek el egymástól, az eltérés kizárólag a használatba adó tulajdonosok személyében és a használatba adandó ingatlan adatai tekintetében áll fenn.
+(3) Az (1) bekezdésben meghatározott egységes okiratba foglalt földhasználati szerződésnek minősül az is, ha a tulajdonosok és a földhasználó a rizstelep területére létrejött földhasználati szerződés tartalmát tulajdonosonként külön-külön okiratba foglalják, feltéve, hogy azok a jogviszony tartalmában nem térnek el egymástól, az eltérés kizárólag a használatba adó tulajdonosok személyében, a díj megfizetésének az 50. § (3) bekezdése szerinti módjában és a használatba adandó ingatlan adatai tekintetében áll fenn.
 
 (4) A rizstelep használatba adására irányuló szerződésben részes tulajdonosoknak és a haszonbérlőnek döntést kell hozniuk arról, hogy a tulajdonosok egyike vagy a haszonbérlő küldi meg a Földforgalmi törvény 49. §-a szerint a haszonbérleti szerződést a mezőgazdasági igazgatási szerv vagy a jegyző részére.
 
 (5) Az ellenszolgáltatás fejében létrejött földhasználati szerződés esetében az ellenszolgáltatás a 76/E. § (4) bekezdésében meghatározott tulajdonosokat is megilleti a tulajdonukat képező földrészlet területe arányában. Ez esetben a használónak az ellenszolgáltatás megfelelő értékét készpénzben bírósági vagy közjegyzői letétbe kell helyeznie. A letét költségeit a letétbe helyezett ellenszolgáltatás összegéből kell fedezni.
 
-76/G. § A földhasználati szerződést a tulajdonos a 76/E–76/F. §-ban foglaltak megsértése esetén a bíróság előtt megtámadhatja.
+(6) Ha az élelmiszerlánc-felügyeleti szerv a rizstelep jogi jelleg visszavonásáról dönt, a döntés véglegessé válásának időpontjával az e fejezet szerinti egységes földhasználati szerződés e törvény erejénél fogva megszűnik. A felek a szerződés megszűnését követően kötelesek egymással elszámolni.
 
-76/H. § (1) A rizstelep használója a 76/A. § (1) bekezdése szerinti döntés véglegessé válásától számított 6 hónapon belül gondoskodik a rizstelep használatára irányuló szerződés e fejezetben foglaltak szerinti megkötéséről és bejelenti az élelmiszerlánc-felügyleti szervnek a szerződés hatálybalépését, valamint a rizstelep használójának személyét.
+76/G. § (1) A földhasználati szerződést a tulajdonos a 76/E. és 76/F. §-ban foglaltak megsértése esetén a bíróság előtt megtámadhatja.
+
+(2) Rizsteleppé minősített ingatlan alhaszonbérbe nem adható, az erre irányuló szerződés semmis.
+
+76/H. § (1) A rizstelep használója a 76/A. § (1) bekezdése szerinti döntés véglegessé válásától számított egy éven belül gondoskodik a rizstelep használatára irányuló szerződés e fejezetben foglaltak szerinti megkötéséről, és bejelenti az élelmiszerlánc-felügyeleti szervnek a szerződés hatálybalépését, a földhasználati nyilvántartásba vétel megtörténtét, valamint a rizstelep használójának személyét.
+
+(1a) Ha a rizsteleppé minősítés iránti kérelemnek helyt adó döntés ellen vagy a rizstelep jogi jelleg ingatlan-nyilvántartásba történő bejegyzése ellen jogorvoslattal éltek, az (1) bekezdés szerinti határidő a jogorvoslati eljárás jogerős elbírálását követő egy évvel jár le.
+
+(1b) Ha a rizsteleppé minősítésről szóló döntés véglegessé válásakor az érintett ingatlanok valamelyikének tulajdoni lapján a Foktftv. alapján folyamatban lévő megosztás ténye szerepel, az (1) bekezdés szerinti határidő a folyamatban lévő megosztás tényének törlését követő egy évvel jár le.
 
 (2) Ha a földhasználó az (1) bekezdés szerinti kötelezettségének nem tesz eleget, az élelmiszerlánc-felügyeleti szerv felszólítja a földhasználót, hogy azt 30 napon belül pótolja. Ha a földhasználó e kötelezettségének nem tesz eleget, az élelmiszerlánc-felügyeleti szerv a rizsteleppé minősítés visszavonásáról dönt. Az élelmiszerlánc-felügyeleti szerv döntésének véglegessé válását követően haladéktalanul kezdeményezi az ingatlanügyi hatóságnál a rizstelep jogi jelleg érintett ingatlanok tulajdoni lapjáról, valamint az ingatlan-nyilvántartási térképről történő törlését.
 
@@ -1006,7 +1069,12 @@ javára történő átengedésére.
 
 (2) Az ügyintézés határidejébe nem számít bele a Földforgalmi tv. 51. § (1) bekezdése szerinti közbenső döntés meghozatala és az 50. § (1) bekezdés szerinti okiratok mezőgazdasági igazgatási szervhez történő beérkezése közötti időtartam.
 
-(3) A (2) bekezdésben meghatározott földhasználati szerződéseket az 53. § (1) bekezdésében előírtak szerint kell a mezőgazdasági igazgatási szervhez benyújtani.
+(3) Az olyan földhasználati szerződést, amely
+
+- a) haszonbérleti szerződésnek minősül, de harmadik személynek előhaszonbérleti joga nem áll fenn, vagy
+- b) nem minősül haszonbérletnek,
+
+az 53. § (1) bekezdésében előírtak szerint kell a mezőgazdasági igazgatási szervhez benyújtani.
 
 81. § (1) A mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. § (2), (3) és (4) bekezdésében meghatározott előzetes vizsgálat alatt csak a (2) bekezdésben foglalt esetekben bocsáthat ki hiánypótlást.
 
@@ -1073,7 +1141,7 @@ súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozo
 
 89. § (1) A Földforgalmi törvény 60. § (1)–(3) bekezdésében foglaltakat alkalmazni kell az elő- és visszavásárlási jog, valamint a vételi jog, illetve az eladási jog alapításáról szóló szerződésekre is.
 
-(2) Azon földhasználati szerződés tárgyát képező föld tekintetében, amelynek a használatba vételével a földhasználó megsérti a föld használati jogosultságának megszerzésére vonatkozó törvényi rendelkezéseket, a földhasználónak a szerződés tárgyát képező föld használata után a jogsértő állapot fennállásának időtartama alatt, a jogsértéssel érintett földterület után a részére folyósított költségvetési vagy európai uniós támogatásnak megfelelő összegű pénzösszeget is meg kell fizetni. A fizetési kötelezettség teljesítésére a jogosulatlanul igénybe vett támogatás esetére irányadó eljárási szabályokat kell alkalmazni, azzal, hogy a mezőgazdasági és vidékfejlesztési támogatási szerv a mezőgazdasági igazgatási szervnek a föld használati jogosultságának megszerzésére vonatkozó törvényi rendelkezések megsértését megállapító döntésének a vele való közlését követően indítja meg a fizetési kötelezettség elrendelésére irányuló eljárást.
+(2) Azon földhasználati szerződés tárgyát képező föld tekintetében, amelynek a használatba vételével a földhasználó megsérti a föld használati jogosultságának megszerzésére vonatkozó törvényi rendelkezéseket, a földhasználónak a szerződés tárgyát képező föld használata után a jogsértő állapot fennállásának időtartama alatt, a jogsértéssel érintett földterület után a részére folyósított költségvetési vagy európai uniós támogatásnak megfelelő összegű pénzösszeget is meg kell fizetni. A fizetési kötelezettség teljesítésére a jogosulatlanul igénybe vett támogatás esetére irányadó eljárási szabályokat kell alkalmazni, azzal, hogy a Nemzeti Kifizető Ügynökség a mezőgazdasági igazgatási szervnek a föld használati jogosultságának megszerzésére vonatkozó törvényi rendelkezések megsértését megállapító döntésének a vele való közlését követően indítja meg a fizetési kötelezettség elrendelésére irányuló eljárást.
 
 90. § A Földforgalmi törvény 64. §-ában foglaltakat nem lehet alkalmazni arra a földrészletre, amely az ingatlan-nyilvántartás szerint a település zártkertjében fekszik, és azt a települési önkormányzat a termőföld védelméről szóló törvényben meghatározott feltételek fennállása esetén szociális földprogram vagy mezőgazdasági tevékenység végzése céljából közfoglalkoztatási program működtetése céljából kijelölte.
 
@@ -1212,7 +1280,7 @@ alapján azonosítja a jogosultat.
 
 97. § (1) A földhasználati nyilvántartásból törölt adatokat, valamint a törlésre vonatkozó határozat számát, amelynek alapján a törlés alapjául szolgáló okirat az okirattárból visszakereshető, a földhasználati nyilvántartási adatbázisban kell tárolni. A törölt adatokat a törlést követően tíz évig a föld használatának átengedésével kapcsolatos jogügyletek, a földhasználót terhelő kötelezettségek vizsgálata, valamint a földhasználót megillető támogatások igénybevételének ellenőrzése céljából meg kell őrizni.
 
-(2) Az (1) bekezdés szerinti törölt adat átadására az ott meghatározott adatkezelési célból, törvény által meghatározott esetben a bíróság, az ügyészség, a nyomozó hatóság, az adóhatóság, a mezőgazdasági igazgatási szerv és a mezőgazdasági és vidékfejlesztési támogatási szerv részére kerülhet sor.
+(2) Az (1) bekezdés szerinti törölt adat átadására az ott meghatározott adatkezelési célból, törvény által meghatározott esetben a bíróság, az ügyészség, a nyomozó hatóság, az adóhatóság, a mezőgazdasági igazgatási szerv és a Nemzeti Kifizető Ügynökség részére kerülhet sor.
 
 (3) A földhasználati nyilvántartás okirattárában lévő okiratokra, valamint a törölt adatok állományára a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény rendelkezései megfelelően alkalmazandóak.
 
@@ -1232,11 +1300,15 @@ szolgáltat.
 (1a) A földmérési és térinformatikai államigazgatási szerv az általa üzemeltetett földhasználati nyilvántartás adatbázisából – a földügyért felelős miniszter által jóváhagyott egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
 
 - a) hatóság részére hatósági ellenőrzése teljesítéséhez,
-- b) mezőgazdasági és vidékfejlesztési támogatási szerv részére költségvetési vagy európai uniós támogatás igényléséhez szükséges feltételek teljesítésének megállapításához,
-- c) országos statisztikai célú adatgyűjtéshez, vagy
-- d) több ingatlanügyi hatóság illetékességi területére kiterjedő adatigénylés esetén elektronikus dokumentumként elektronikusan feldolgozható formában adatot szolgáltat.
+- b) a Nemzeti Kifizető Ügynökség részére költségvetési vagy európai uniós támogatás igényléséhez szükséges feltételek teljesítésének megállapításához,
+- c) az erdészeti hatóság számára hatósági feladatainak és a faanyag-kereskedelmi lánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében,
+- d) az élelmiszerlánc-felügyeleti szerv számára az élelmiszerlánc-felügyeleti információs rendszer (FELIR) működtetésével összefüggő és a parlagfű elleni védekezési kötelezettséghez kapcsolódó hatósági feladatainak ellátása érdekében,
+- e) országos statisztikai célú adatgyűjtéshez, vagy
+- f) több ingatlanügyi hatóság illetékességi területére kiterjedő adatigénylés esetén
 
-(1b) Az (1a) bekezdés c) és d) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
+elektronikus dokumentumként elektronikusan feldolgozható formában adatot szolgáltat.
+
+(1b) Az (1a) bekezdés e) és f) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
 
 (1c) Az (1a) bekezdésben meghatározott elektronikus dokumentum az (1a) bekezdésben meghatározott adatszolgáltatás iránti igény célhozkötöttségétől függően a földhasználati lap másolaton megjeleníthető adatokat tartalmazhatja. Az elektronikus dokumentum nem tartalmazhatja a 94. § (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pont cc–cf) alpontjában foglalt adatokat.
 
@@ -1254,7 +1326,7 @@ szolgáltat.
 - b) az ingatlanügyi hatóság,
 - c) a Földforgalmi törvényben és e törvényben meghatározott célból a hatáskörébe, illetve feladatkörébe tartozó ügy elbírálása érdekében a mezőgazdasági igazgatási szerv,
 - d) a hatáskörében eljáró ügyész és bíróság,
-- e) a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével összefüggésben a mezőgazdasági és vidékfejlesztési támogatási szerv.
+- e) a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével összefüggésben a Nemzeti Kifizető Ügynökség,
 - f) a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: Hktv.) 40. § (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybíró.
 
 (5) A földhasználati lap másolat szolgáltatása díjmentes
@@ -1413,7 +1485,7 @@ rendeletben állapítsa meg.
 
 (2)
 
-107. § Az 1. és 2. §, a 3–7/A. §, a 9. §, a 18/A–18/C. §, a 41–42. §, a 45. §, az 55/A–55/C. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 110/C. §, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+107. § Az 1. és 2. §, a 3–7/A. §, a 9. §, a 18/A–18/C. §, a 41–42. §, a 44/A. §, a 44/B. §, a 45. §, az 55/A–55/C. §, a 64–65/A. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 110/C. §, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -1650,7 +1722,7 @@ nyújthatja be.
 
 (6) A (3) bekezdés a) pontja szerinti esetben a magyar államot az NFK képviseli.
 
-108/R. § Ha az ingatlan tulajdonosa a haszonélvezet törlését követően, de a visszajegyzését megelőzően az ingatlanon olyan értéknövelő beruházást hajtott végre, amely a haszonélvezet visszajegyzéséig még nem térült meg, a tulajdonos igényelheti a haszonélvezet megváltását, amelynek során a haszonélvezet értékének megállapítására a 108/K. §-ban foglaltakat alkalmazni kell.
+108/R. § Ha az ingatlan tulajdonosa a haszonélvezet törlését követően, de a visszajegyzését megelőzően az ingatlanon olyan értéknövelő beruházást hajtott végre, amely a haszonélvezet visszajegyzéséig teljes egészében még nem térült meg, a tulajdonos igényelheti a haszonélvezet megváltását, amelynek során a haszonélvezet értékének megállapítására a 108/K. §-ban foglaltakat alkalmazni kell.
 
 109. § A közös tulajdonban álló földre a 2013. december 31-ig megkötött haszonbérleti szerződés esetében a 60. § (1) bekezdésében foglalt felmondási jog akkor illeti meg a haszonbérbeadót, illetve annak jogutódját, ha a haszonbérleti szerződés létrejöttekor a haszonbérlet tárgyát képező föld közös tulajdonban állt és a szerződés fennállása alatt a közös tulajdon megszüntetésére került sor, és a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
 

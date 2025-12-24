@@ -286,6 +286,8 @@ tartja nyilván, illetve kezeli.
 
 (2) Ha az igazságügyi szakértő más szakmai kamarának is tagja, és az érintett szakmai kamara által szervezett oktatáson vagy szakmai továbbképzésen vesz részt, részvételét a miniszter rendeletében meghatározottak szerint, a teljesítendő kreditpontjaihoz hozzászámíthatja.
 
+(3) A (2) bekezdés szerint kell eljárni abban az esetben, ha az igazságügyi szakértő a szakterületének megfelelő képzési, továbbképzési területen jogszabályi felhatalmazással rendelkező szervezet vagy szerv által szervezett oktatáson vagy szakmai továbbképzésen vesz részt.
+
 16/A. § Az igazságügyi szakértőnek, valamint az igazságügyi szakértői névjegyzékbe való felvétel iránti kérelmet benyújtónak a miniszter által szervezett képzés, oktatás és vizsga tekintetében történő kapcsolattartására a 44. § (2) bekezdésben foglalt rendelkezéseket kell alkalmazni.
 
 #### 9. Az igazságügyi szakértő munkájának értékelése
@@ -386,7 +388,7 @@ minősítést kap.
 
 (3) A névjegyzékbe való felvételről és a felvételi kérelem elutasításáról szóló döntésre a 9. § rendelkezéseit megfelelően alkalmazni kell.
 
-25. § (1) A társaságnak az 1. melléklet 2. pontjában meghatározott adatait a névjegyzék tartalmazza. A mellékletben meghatározott adatok nyilvánosak és azokat a névjegyzéket vezető hatóság a kormányzati portálon közzéteszi. A névjegyzékkel összefüggő adatszolgáltatás szabályait a miniszter rendeletben állapítja meg.
+25. § (1) A társaságnak az 1. melléklet 2. pontjában meghatározott adatait a névjegyzék tartalmazza. A mellékletben meghatározott adatok nyilvánosak és azokat a névjegyzéket vezető hatóság a kormányzati portálon közzéteszi. A névjegyzékkel összefüggő adatszolgáltatás szabályait a Kormány rendeletben állapítja meg.
 
 (2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 2.1–2.6. pontjában és 2.8–2.9. pontjaiban foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -449,7 +451,7 @@ minősítést kap.
 
 (7) Az igazságügyi szakértői intézmény az igazságszolgáltatás és más hatóságok igényeinek zavartalan kielégítése érdekében szakértői tevékenység ellátására megbízási szerződést köthet azzal, hogy a szakértő megbízási szerződés keretében végzett tevékenységére az 52. § (2)–(5) bekezdésének rendelkezései irányadók.
 
-31. § (1) Az igazságügyi szakértői intézménynek az 1. melléklet 3. pontjában meghatározott adatait a névjegyzék tartalmazza. Az igazságügyi szakértői intézménynek a névjegyzékben szereplő adatai nyilvánosak, és azokat a névjegyzéket vezető hatóság a kormányzati portálon is közzéteszi. A névjegyzékkel összefüggő adatszolgáltatás szabályait a miniszter rendeletben állapítja meg.
+31. § (1) Az igazságügyi szakértői intézménynek az 1. melléklet 3. pontjában meghatározott adatait a névjegyzék tartalmazza. Az igazságügyi szakértői intézménynek a névjegyzékben szereplő adatai nyilvánosak, és azokat a névjegyzéket vezető hatóság a kormányzati portálon is közzéteszi. A névjegyzékkel összefüggő adatszolgáltatás szabályait a Kormány rendeletben állapítja meg.
 
 (2) Az (1) bekezdés szerinti nyilvántartás az 1. melléklet 3.4. pontjában foglalt adat tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -699,7 +701,7 @@ minősítést kap.
 
 #### 23. Képzési hozzájárulás
 
-51. § (1) A névjegyzéket vezető hatóságot az igazságügyi szakértői működéssel kapcsolatos feladatainak ellátása, az ezzel összefüggő igazgatási és nyilvántartási tevékenységének végzése, a szakértők továbbképzése, továbbá jogszabály által a hatáskörébe utalt, egyéb feladatok ellátása érdekében a szakértő által készített szakvélemény elkészítése után járó képzési hozzájárulás illeti meg. E § rendelkezéseit az eseti szakértő eljárására is alkalmazni kell.
+51. § (1) A névjegyzéket vezető hatóságot az igazságügyi szakértői működéssel kapcsolatos feladatainak ellátása, az ezzel összefüggő igazgatási és nyilvántartási tevékenységének végzése, a szakértők továbbképzése, továbbá jogszabály által a hatáskörébe utalt, egyéb feladatok ellátása érdekében a szakértő által készített szakvélemény elkészítése után, díjjegyzékenként járó képzési hozzájárulás illeti meg. E § rendelkezéseit az eseti szakértő eljárására is alkalmazni kell.
 
 (2) A szakértő díjjegyzékében feltüntetett képzési hozzájárulást a névjegyzéket vezető hatóság részére kell megfizetni. A kirendelő szerv köteles a névjegyzéket vezető hatóságnak jelezni, ha részére a képzési hozzájárulást nem fizették meg. A képzési hozzájárulás nem része a szakértő bevételének, azt a kirendelő szerv átutalja a névjegyzéket vezető hatóság részére.
 
@@ -886,7 +888,7 @@ minősítést kap.
 
 (3) Ha az igazságügyi szakértő keresetében arra hivatkozik, hogy tagdíjfizetési kötelezettségének önhibáján kívül nem tett eleget, egyidejűleg mulasztását kimenti és a tagdíj befizetését igazolja, a kereset megérkezésekor az elnökség haladéktalanul intézkedik a határozata felülvizsgálatáról. Ha az elnökség annak helyt ad, a kamarai tagság megszűnését megállapító határozatát visszavonja.
 
-(4) Az elnökség a véglegessé vált határozatát megküldi a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az igazságügyi szakértőt a miniszter rendeletében meghatározott eljárás keretében törli a névjegyzékből.
+(4) Az elnökség a véglegessé vált határozatát megküldi a névjegyzéket vezető hatóságnak.
 
 (5) Ha az igazságügyi szakértő kamarai tagsága a 66. § (2) bekezdés c) pontjában meghatározott okból szűnik meg, a megszűnést megállapító határozat véglegessé válásától számított egy évig ennek hatálya alatt áll.
 
@@ -2064,7 +2066,7 @@ törvényességi felügyeleti intézkedést tehet.
 
 159/D. § (1) Az egyes törvényeknek az igazságügyi szakértőkkel és a szakértői bizonyítással összefüggő módosításáról szóló 2024. évi LI. törvénnyel (a továbbiakban: Mód2. tv.) megállapított 44. § (2) bekezdését, 47. § (2) bekezdését, 56. § (2) bekezdését, valamint az 1. melléklet 1.21. pontját a Mód2. tv. hatálybalépését követő igazságügyi szakértői kirendelésekre kell alkalmazni.
 
-(2) 2025. január 1. napján a névjegyzékben szereplő természetes személy igazságügyi szakértő, aki a Dáptv. szerinti hivatalos elérhetőségét nem jelentette be, a Mód2. tv.-vel megállapított 44. § (2) bekezdése alapján a névjegyzéket vezető hatóság részére 2025. február 1. napjáig köteles bejelenteni a Dáptv. szerinti hivatalos elérhetőségét.
+(2)
 
 (3) Akit a Kamara 2025. január 1. napjáig szakértőjelöltként nyilvántartásba vett a Mód2. tv. hatálybalépéséig teljesített szakértőjelölti ideje a Mód2. tv.-vel megállapított 5. § (2) bekezdés b) pont bb) alpontja szerinti gyakorlati időbe beleszámít.
 

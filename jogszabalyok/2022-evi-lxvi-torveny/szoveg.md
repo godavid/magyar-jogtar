@@ -9,9 +9,8 @@ Az Országgyűlés felismerve, hogy a fogyasztók részéről növekvő igény m
 1. § E törvény alkalmazásában:
 
 - 1. agrártermék:
-  - a) az 1151/2012/EU európai parlamenti és tanácsi rendelet 2. cikke szerint a rendelet hatálya alá tartozó mezőgazdasági termék és élelmiszer,
-  - b) a borászati termék, valamint
-  - c) az (EU) 2019/787 európai parlamenti és tanácsi rendelet hatálya alá tartozó szeszes ital;
+  - a) földrajzi árujelzővel ellátott agrártermék esetében az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdése szerinti termékek,
+  - b) hagyományos különleges termék elnevezéssel ellátott agrártermék esetében az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 51. cikke szerinti termékek;
 - 2. borászati termék: az 1308/2013/EU európai parlamenti és tanácsi rendelet 92. cikk (1) bekezdésében meghatározott, szőlőből készült termék;
 - 3. eredetmegjelölés: olyan termék megjelölésére használt elnevezés,
   - a) amely egy meghatározott helyről, régióból vagy – kivételes esetben – országból (a továbbiakban együtt: földrajzi terület) származik,
@@ -38,21 +37,15 @@ iránti eljárás;
 
 - 13. tagállami eljárás: az oltalom megszerzése, a törlés, valamint a termékleírás módosítása iránti eljárás tagállami hatáskörbe tartozó szakasza;
 - 14. termékleírás: az oltalomban részesítendő, illetve az átmeneti nemzeti vagy uniós oltalom alatt álló földrajzi árujelzővel vagy bejegyezni kívánt vagy bejegyzett hagyományos különleges termék elnevezéssel ellátott agrártermékre vonatkozó követelményeket tartalmazó dokumentum, amely megfelel
-  - a) mezőgazdasági termék és élelmiszer esetében az 1151/2012/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésében vagy az 1151/2012/EU európai parlamenti és tanácsi rendelet 19. cikk (1) bekezdésében,
-  - b) borászati termék esetében az 1308/2013/EU európai parlamenti és tanácsi rendelet 94. cikk (2) bekezdésében,
+  - a) mezőgazdasági termék és élelmiszer esetében az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 49. cikk (1) és (2) bekezdésében vagy 54. cikk (1) bekezdésében,
+  - b) borászati termék esetében az 1308/2013/EU európai parlamenti és tanácsi rendelet 94. cikkében,
   - c) szeszes ital esetében az (EU) 2019/787 európai parlamenti és tanácsi rendelet 22. cikkében
 
 meghatározott követelményeknek;
 
 - 15. termékleírás módosítása: a termékleírás standard és uniós módosítása;
-- 16. termékleírás standard módosítása: a termékleírásnak
-  - a) mezőgazdasági termék és élelmiszer esetében az 1151/2012/EU európai parlamenti és tanácsi rendelet 53. cikk (2) bekezdés a)–d) pontjába be nem sorolható módosítása,
-  - b) borászati termék esetében az (EU) 2019/33 felhatalmazáson alapuló bizottsági rendelet 14. cikk (1) bekezdés a)–d) pontjába be nem sorolható módosítása,
-  - c) szeszes ital esetében az (EU) 2019/787 európai parlamenti és tanácsi rendelet 31. cikk (3) bekezdés a)–d) pontjába be nem sorolható módosítása;
-- 17. termékleírás uniós módosítása: a termékleírásnak
-  - a) mezőgazdasági termék és élelmiszer esetében az 1151/2012/EU európai parlamenti és tanácsi rendelet 53. cikk (2) bekezdés a)–d) pontjában foglalt esetek szerinti módosítása,
-  - b) borászati termék esetében az (EU) 2019/33 felhatalmazáson alapuló bizottsági rendelet 14. cikk (1) bekezdés a)–d) pontjában foglalt esetek szerinti módosítása,
-  - c) szeszes ital esetében az (EU) 2019/787 európai parlamenti és tanácsi rendelet 31. cikk (3) bekezdés a)–d) pontjában foglalt esetek szerinti módosítása;
+- 16. termékleírás standard módosítása: a termékleírásnak az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 24. cikk (4) bekezdése szerinti módosítása;
+- 17. termékleírás uniós módosítása: a termékleírásnak az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 24. cikk (3) bekezdése szerinti módosítása;
 - 18. törlés iránti eljárás:
   - a) az agrártermékek földrajzi árujelzői és a borászati termékek hagyományos kifejezései oltalmának, valamint
   - b) a hagyományos különleges termék elnevezések bejegyzésének
@@ -79,7 +72,7 @@ törlése iránti eljárás.
 
 5. § Földrajzi árujelző oltalmának megszerzése iránti kérelem esetén a kérelmezőnek be kell szereznie a földmérési és térinformatikai államigazgatási szerv által készített, a termékleírásban meghatározott földrajzi területet ábrázoló térképet, amely borászati termék esetében tartalmazza – amennyiben szükséges – a földrajzi árujelző termékleírásában meghatározott, termőhelyen belül elhelyezkedő kisebb földrajzi egységek nevét és lehatárolását is.
 
-6. § (1) A miniszter az Európai Unió közvetlenül alkalmazandó jogi aktusaiban és az e törvény végrehajtására kiadott kormányrendeletben foglalt feltételeknek megfelelő, agrártermék földrajzi árujelzője oltalmának megszerzése, valamint hagyományos különleges termék elnevezés bejegyzése (a továbbiakban együtt: oltalom megszerzése) iránti kérelem esetében az általa vezetett minisztérium hivatalos lapjában közzéteszi a kérelmező nevét és címét, a termékleírást és földrajzi árujelző oltalom megszerzése esetén az egységes dokumentumot.
+6. § (1) A miniszter az Európai Unió közvetlenül alkalmazandó jogi aktusaiban és az e törvény végrehajtására kiadott kormányrendeletben foglalt feltételeknek megfelelő, agrártermék földrajzi árujelzője oltalmának megszerzése, valamint hagyományos különleges termék elnevezés bejegyzése (a továbbiakban együtt: oltalom megszerzése) iránti kérelem esetében az általa vezetett minisztérium hivatalos lapjában közzéteszi a termékleírást és földrajzi árujelző oltalom megszerzése esetén az egységes dokumentumot, valamint az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 12. cikk (1) bekezdés a) és d) pontja szerinti információkat.
 
 (2) A kérelemmel szemben a közzétételtől számított 2 hónapon belül kifogást vagy felszólalást (a továbbiakban együtt: felszólalás) nyújthat be bármely, Magyarország területén lakóhellyel rendelkező természetes személy, valamint székhellyel vagy telephellyel rendelkező jogi személy.
 
@@ -125,10 +118,12 @@ törlése iránti eljárás.
 
 (4) Ha a (3) bekezdés szerinti esetben a termékleírás javasolt módosításaival az oltalmat kérelmező vagy jogutódja nem ért egyet, a miniszter 2 hónapos határidő tűzésével felszólítja a feleket a termékleírás felszólítással érintett módosításainak egyeztetésére. A miniszter a 6. § (1) bekezdésében foglaltak szerint a felek által lefolytatott egyeztetés eredményeként módosított kérelmet teszi közzé. A kérelem azon pontjai tekintetében, ahol nincs egyetértés a felek között, az eredeti kérelemben szereplő szöveg kerül közzétételre.
 
-(5) A miniszter a termékleírás módosítása iránti eljárásban a kérelemnek helyt adó határozat véglegessé válását követően haladéktalanul továbbítja az Európai Bizottságnak az e törvény végrehajtására kiadott kormányrendelet szerint összeállított
+(5) A miniszter a termékleírás módosítása iránti eljárásban a kérelemnek helyt adó határozat véglegessé válását követően
 
-- a) kérelmezési dokumentációt a termékleírás uniós módosítása esetén,
-- b) közleményt a termékleírás standard módosítása esetén.
+- a) haladéktalanul továbbítja az Európai Bizottságnak az e törvény végrehajtására kiadott kormányrendelet szerint összeállított
+  - aa) kérelmezési dokumentációt a termékleírás uniós módosítása esetén,
+  - ab) közleményt a termékleírás standard módosítása esetén, és
+- b) standard módosítás esetén az általa vezetett minisztérium honlapján közzéteszi a kérelemnek helyt adó véglegessé vált határozatot, amely tartalmazza a módosított, egységes szerkezetbe foglalt termékleírás közzétett szövegére vonatkozó elektronikus hivatkozást és – amennyiben a termékleírás módosítása az egységes dokumentumot is érinti, vagy a standard módosítás olyan földrajzi árujelzőt érint, amelynek esetében még nem került sor egységes dokumentumnak az Európai Unió Hivatalos Lapjában való közzétételére – a módosított, egységes szerkezetbe foglalt egységes dokumentumot.
 
 #### 5. Az oltalom alatt álló hagyományos kifejezés módosítása
 
@@ -139,7 +134,7 @@ törlése iránti eljárás.
 11. § (1) Agrártermék földrajzi árujelzője és borászati termék hagyományos kifejezése oltalmának, valamint hagyományos különleges termék elnevezés bejegyzésének törlése (a továbbiakban együtt: elnevezés törlése) iránt bármely jogos érdekkel rendelkező természetes vagy jogi személy kérelmet nyújthat be a miniszternek, ha
 
 - a) a termékleírásban foglalt követelményeknek való megfelelés nem biztosított, vagy
-- b) a földrajzi árujelzővel ellátott terméket legalább 7 éve nem hozták forgalomba.
+- b) a földrajzi árujelzővel ellátott terméket legalább a kérelem benyújtását megelőző 7 egymást követő évben nem hozták forgalomba.
 
 (2) Az elnevezés törlése iránti kérelmet
 
@@ -163,13 +158,7 @@ akkor is benyújthatja, ha az (1) bekezdésben foglalt feltételek nem állnak f
 
 (2) A Magyarország területén lakóhellyel rendelkező természetes személy, valamint székhellyel vagy telephellyel rendelkező jogi személy felszólalást nyújthat be a miniszterhez a termékleírás és az egységes dokumentum módosított adataival szemben, a közzétételt követő 30 napon belül. A felszólalásnak meg kell felelnie a 6. § (3) és (4) bekezdésében foglaltaknak. A miniszter a felszólalás elfogadhatóságával kapcsolatban a 6. § (5) és (6) bekezdése szerint jár el.
 
-13. § A miniszter látja el az Európai Bizottság által lefolytatott vizsgálathoz kapcsolódóan
-
-- a) mezőgazdasági termék és élelmiszer esetében az 1151/2012/EU európai parlamenti és tanácsi rendelet 51. cikke,
-- b) borászati termék esetében az 1308/2013/EU európai parlamenti és tanácsi rendelet 98. cikke,
-- c) szeszes ital esetében az (EU) 2019/787 európai parlamenti és tanácsi rendelet 27. és 30. cikke
-
-szerinti tagállami feladatokat.
+13. § A miniszter látja el az Európai Bizottság által lefolytatott vizsgálathoz kapcsolódóan az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 17. és 61. cikke szerinti tagállami feladatokat.
 
 14. § (1) A miniszter által az Európai Bizottságnak továbbított, az oltalom megszerzése, a termékleírás módosítása vagy az elnevezés törlése iránti kérelemre az Európai Unió más tagállamából vagy az Európai Unió tagállamain kívüli országból (a továbbiakban: harmadik ország) az Európai Bizottságon keresztül érkezett felszólalást a miniszter továbbítja a kérelmezőnek, majd közreműködik a szükséges egyeztetések lefolytatásában. Az egyeztetés eredményéről a miniszter tájékoztatja az Európai Bizottságot.
 
@@ -185,13 +174,13 @@ szerinti tagállami feladatokat.
 
 #### 8. Földrajzi árujelzőt, illetve hagyományos különleges terméket kezelő szervezet
 
-16. § A miniszter által e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint elismert vagy a 17. § (2) bekezdése szerinti kijelölt, földrajzi árujelzőt vagy hagyományos különleges termék elnevezést kezelő szervezet (a továbbiakban együtt: kezelő szervezet) ellátja a tagállami eljárás során, továbbá az oltalom alatt álló elnevezés vagy az átmeneti nemzeti oltalom alatt álló földrajzi árujelző védelmével kapcsolatban az e törvényben és az e törvény végrehajtására kiadott rendeletben meghatározott feladatokat.
+16. § A miniszter által e törvény végrehajtására kiadott kormányrendeletben foglaltak szerinti elismerés révén létrejött vagy a 17. § (2) bekezdése szerinti kijelölt, földrajzi árujelzőt vagy hagyományos különleges termék elnevezést kezelő szervezet (a továbbiakban együtt: kezelő szervezet) ellátja a tagállami eljárás során, továbbá az oltalom alatt álló elnevezés vagy az átmeneti nemzeti oltalom alatt álló földrajzi árujelző védelmével kapcsolatban az e törvényben és az e törvény végrehajtására kiadott rendeletben meghatározott feladatokat.
 
 17. § (1) A miniszter a kezelő szervezet elismeréséről és az elismerés visszavonásáról szóló határozatát az általa vezetett minisztérium honlapján közzéteszi.
 
-(2) Elismert kezelő szervezet hiányában a borászati termékek földrajzi árujelzőinek kezelő szervezete a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 1. § 12. pontja szerinti földrajzi árujelzőt kezelő hegyközségi szervezet.
+(2) Kezelő szervezet hiányában a borászati termékek földrajzi árujelzőinek kezelő szervezete a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 1. § 12. pontja szerinti földrajzi árujelzőt kezelő hegyközségi szervezet.
 
-(3) A miniszter a kezelő szervezetekről nyilvántartást vezet, amely tartalmazza a kezelő szervezet nevét, elérhetőségét, vezető tisztségviselőjének megnevezését, az általa kezelt oltalom alatt álló elnevezést és a kezelő szervezet céljait. A miniszter a nyilvántartást az általa vezetett minisztérium honlapján közzéteszi.
+(3) A miniszter a kezelő szervezetekről nyilvántartást vezet, amely tartalmazza a kezelő szervezet nevét, elérhetőségét, vezető tisztségviselőjének megnevezését és az általa kezelt oltalom alatt álló elnevezést. A miniszter a nyilvántartást az általa vezetett minisztérium honlapján közzéteszi.
 
 #### 9. Földrajzi árujelző vagy hagyományos különleges termék védelemi alap
 
@@ -412,15 +401,15 @@ rendeletben állapítsa meg.
 
 34. § E törvény
 
-- a) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet,
-- b) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 92–116. cikke,
-- c) az 1151/2012/EU európai parlamenti és tanácsi rendeletnek az oltalom alatt álló eredetmegjelölések, az oltalom alatt álló földrajzi jelzések és a hagyományos különleges termékek uniós szimbólumainak létrehozása tekintetében, valamint a származásra vonatkozó bizonyos szabályok, bizonyos eljárási szabályok és bizonyos kiegészítő átmeneti szabályok tekintetében történő kiegészítéséről szóló, 2013. december 18-i 664/2014/EU felhatalmazáson alapuló bizottsági rendelet,
-- d) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló 1151/2012/EU európai parlamenti és tanácsi rendelet alkalmazására vonatkozó szabályok megállapításáról szóló, 2014. június 13-i 668/2014/EU bizottsági végrehajtási rendelet,
+- a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 92–116a. cikke,
+- b) a borokra, a szeszes italokra és a mezőgazdasági termékekre vonatkozó földrajzi árujelzőkről, valamint a hagyományos különleges termékekről és a mezőgazdasági termékek minőségére utaló választható kifejezésekről, az 1308/2013/EU, az (EU) 2019/787 és az (EU) 2019/1753 rendelet módosításáról, továbbá az 1151/2012/EU rendelet hatályon kívül helyezéséről szóló, 2024. április 11-i (EU) 2024/1143 európai parlamenti és tanácsi rendelet,
+- c) az (EU) 2024/1143 európai parlamenti és tanácsi rendeletnek a földrajzi árujelzők és a hagyományos különleges termékek bejegyzése, módosítása, törlése, oltalmának érvényesítése, jelölése és közlése tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, az (EU) 2019/34 végrehajtási rendeletnek a borágazati földrajzi árujelzők tekintetében történő módosításáról, valamint a 668/2014/EU és az (EU) 2021/1236 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2024. október 30-i (EU) 2025/26 bizottsági végrehajtási rendelet,
+- d) az (EU) 2024/1143 európai parlamenti és tanácsi rendeletnek a földrajzi árujelzők, a hagyományos különleges termékek és a minőségre utaló választható kifejezések bejegyzésére és oltalmára vonatkozó szabályokkal történő kiegészítéséről, valamint a 664/2014/EU felhatalmazáson alapuló rendelet hatályon kívül helyezéséről szóló, 2024. október 30-i (EU) 2025/27 felhatalmazáson alapuló bizottsági rendelet,
 - e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazati eredetmegjelölésekre, földrajzi jelzésekre és hagyományos kifejezésekre vonatkozó oltalom iránti kérelmek, a kifogásolási eljárás, a használatra vonatkozó korlátozások, a termékleírások módosítása, az oltalom törlése, valamint a címkézés és a kiszerelés tekintetében történő kiegészítéséről szóló, 2018. október 17-i (EU) 2019/33 felhatalmazáson alapuló bizottsági rendelet,
 - f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazati eredetmegjelölések, földrajzi jelzések és hagyományos kifejezések oltalma iránti kérelmek, a kifogásolási eljárás, a termékleírások módosításai, az oltalom alatt álló elnevezések nyilvántartása, az oltalom törlése és a szimbólumok használata tekintetében, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a megfelelő ellenőrzési rendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2018. október 17-i (EU) 2019/34 bizottsági végrehajtási rendelet,
 - g) a szeszes italok meghatározásáról, leírásáról, megjelenítéséről, jelöléséről, a szeszes italok elnevezésének használatáról az egyéb élelmiszerek megjelenítése és jelölése során, a szeszes italok földrajzi jelzéseinek oltalmáról, a mezőgazdasági eredetű etil-alkohol és desztillátumok használatáról az alkoholtartalmú italokban, valamint a 110/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. április 17-i (EU) 2019/787 európai parlamenti és tanácsi rendelet,
-- h) az (EU) 2019/787 európai parlamenti és tanácsi rendeletnek a szeszes italok földrajzi jelzéseinek bejegyzése, a termékleírások módosítása és a bejegyzések törlése iránti kérelmekre, valamint a nyilvántartásra vonatkozó szabályokkal történő kiegészítéséről szóló, 2021. május 12-i (EU) 2021/1235 felhatalmazáson alapuló bizottsági rendelet,
-- i) az (EU) 2019/787 európai parlamenti és tanácsi rendeletnek a szeszes italok földrajzi jelzéseinek bejegyzése iránti kérelem, a felszólalási eljárás, a termékleírások módosítása, a bejegyzés törlése, a szimbólum használata és az ellenőrzés vonatkozásában történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2021. május 12-i (EU) 2021/1236 bizottsági végrehajtási rendelet
+- h)
+- i)
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

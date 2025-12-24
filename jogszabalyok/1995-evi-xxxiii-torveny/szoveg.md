@@ -2480,6 +2480,8 @@ bírósági eljárásokra alkalmazandó szabályok
 - h) önkéntes műnyilvántartást vezet,
 - i) gondoskodik a Szerzői Jogi Szakértő Testület, valamint a Szerzői Jogi Szakértő Testületen belül létrehozott Egyeztető Testület működtetéséről.
 
+(4a) A Hivatal nyilvántartást vezet az üzleti titok védelméről szóló törvény szerinti védett ismeretről (know-how).
+
 (5) A Hivatal elnöke külön törvény alapján ellátja a Magyar Szabadalmi Ügyvivői Kamara törvényességi felügyeletét.
 
 115/I. § A Hivatal a szellemi tulajdonnal kapcsolatos állami dokumentációs és információs tevékenység körében különösen a következő feladatokat látja el:
@@ -2503,7 +2505,7 @@ bírósági eljárásokra alkalmazandó szabályok
 - b) a szellemi alkotó és az innovációs tevékenységet támogató és népszerűsítő programokat kezdeményez, alakít ki és hajt végre, illetve részt vesz ilyen programokban;
 - c) közreműködik a szellemi alkotások és az innovációs eredmények társadalmi elismerését szolgáló rendszer fejlesztésében, a szellemi alkotó tevékenységgel és a szellemi tulajdon védelmével kapcsolatos pályázatokat, kiállításokat és más rendezvényeket kezdeményez, szervez vagy támogat;
 - d) terjeszti a szellemi tulajdon védelmével kapcsolatos ismereteket, fejleszti az iparjogvédelmi és a szerzői jogi kultúrát; tájékoztatással, ügyfélszolgálattal, szaktanácsadással és más eszközökkel gyarapítja a vállalkozások – különösen a kis- és középvállalkozások – iparjogvédelmi és szerzői jogi ismereteit, előmozdítja körükben a szellemi tulajdonjogok tiszteletben tartását;
-- e)
+- e) közreműködik a szellemi tulajdonjogok hatékony érvényesítésének elősegítésében;
 - f) szakmailag felügyeli a szellemi tulajdonnal kapcsolatos – iskolarendszeren kívüli – képzést, működteti annak rendszerét, továbbá gondoskodik az iparjogvédelmi szakvizsgák és a szabadalmi ügyvivői vizsgák megszervezéséről;
 - g)
 - h) elősegíti, hogy a szellemi tulajdon védelmének eszközeit megfelelően használják fel az országkép formálásához, az egységes országmárka kialakításához, valamint a jellegzetes magyar termékek ismertségének javításához és hírnevének megóvásához.

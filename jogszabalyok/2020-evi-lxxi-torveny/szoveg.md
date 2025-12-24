@@ -228,6 +228,10 @@ tény szerepel;
 
 (6) Ha az ingatlanon sírhely található és az ingatlanban az állam tulajdoni hányaddal rendelkezik, akkor a megosztás során – az állam nevében a tulajdonosi jogokat gyakorló jelzése alapján – az állam tulajdonába kerülő ingatlant úgy kell kialakítani, hogy a sírhely szerinti terület az állam tulajdonába kerüljön. Ebben az esetben a területi minimumra és a bekebelezésre vonatkozó rendelkezések alkalmazásának az állammal szemben nincs helye. A 3. alcím alkalmazása esetén a sírhellyel érintett ingatlant az állam tulajdonába kell adni.
 
+(6a) Ha az ingatlanon sírhely található és az ingatlanban az állam tulajdoni hányaddal rendelkezik, a sírhely szerinti terület az állam tulajdonában álló önálló ingatlanként akkor is leválasztható, ha egyébként az ingatlannak a 2. alcím szerinti megosztására nem kerül sor, feltéve hogy az állam tulajdoni hányadának megfelelő terület legalább akkora, mint a sírhely szerinti terület.
+
+(6b) A (6a) bekezdés szerinti leválasztást az állam nevében a tulajdonosi jogokat gyakorló szerv a tulajdonostársak hozzájárulása nélkül kezdeményezheti. A leválasztás során a tulajdonostársak egyezségére, a területi minimumra és a bekebelezésre vonatkozó rendelkezéseket nem kell alkalmazni.
+
 (7) A tulajdonostársak az osztatlan közös tulajdon e törvény szerinti megszüntetéséből eredő jogvitájuk esetén a bírósághoz fordulhatnak.
 
 (8) A területi minimumot el nem érő tulajdoni hányaddal rendelkező tulajdonostárs – a tulajdoni hányadának megfelelő ingatlan kialakítása érdekében – az egyezség létrejöttétől számított 30 napon belül kérheti a bíróságtól a bekebelezésre és a területi minimumra vonatkozó rendelkezések alkalmazásának mellőzésével az egyezség módosítását, ha az ingatlant

@@ -139,7 +139,7 @@ jogosult.
 
 (4b) A 3. § (5) bekezdését arra a helyi önkormányzatra is alkalmazni kell, amelynek a képviselő-testülete vagy a közgyűlése az (1) bekezdés alapján elrendelte az igazgatási szünetet.
 
-(5) Ha a képviselő-testület vagy a közgyűlés az igazgatási szünet elrendeléséről döntött, és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) 21. § (3) bekezdése szerinti, az elővásárlási jog jogosultja számára jognyilatkozatának megtételére nyitva álló 60 napos határidő, vagy a Földforgalmi tv. 49. § (3) bekezdése szerinti, az előhaszonbérleti jog jogosultja számára jognyilatkozatának megtételére nyitva álló határidő utolsó napja olyan nap, amely az igazgatási szünet idejére esik, akkor
+(5) Ha a képviselő-testület vagy a közgyűlés az igazgatási szünet elrendeléséről döntött, és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) 21. § (3) bekezdése szerinti, az elővásárlási jog jogosultja számára jognyilatkozatának megtételére nyitva álló 30 napos határidő, vagy a Földforgalmi tv. 49. § (3) bekezdése szerinti, az előhaszonbérleti jog jogosultja számára jognyilatkozatának megtételére nyitva álló határidő utolsó napja olyan nap, amely az igazgatási szünet idejére esik, akkor
 
 - a) a jognyilatkozatok benyújtásának határideje az igazgatási szünetet követő első munkanapig meghosszabbodik, és
 - b) a jegyző által a közzétételre kerülő szerződésen megjelölt, az elővásárlási vagy az előhaszonbérleti jog gyakorlására nyitva álló határidő az a) pontban meghatározott esetben nem alkalmazható.

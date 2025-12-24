@@ -542,7 +542,7 @@ látja el, azzal, hogy a b) pont szerinti esetben a kézbesítést a címzett c�
 
 (5) A rendelet 7. cikk (1) bekezdés a) pontja szerinti feladatot a miniszter látja el, aki gondoskodik továbbá a 7. cikk (1) bekezdés c) pontja szerinti tájékoztatás nyújtásáról.
 
-(6) A tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet (e §-ban a továbbiakban: 1393/2007/EK európai parlamenti és tanácsi rendelet) 4. cikk (2) bekezdése alapján az átvevő intézmény a kézbesítendő iratokat postai úton, telefaxon és elektronikusan fogadja. Az 1393/2007/EK európai parlamenti és tanácsi rendelet és a rendelet által rendszeresített formanyomtatványokat az áttevő vagy átvevő intézmény magyar, angol, német vagy francia nyelven fogadja.
+(6) A rendelet által rendszeresített formanyomtatványokat az áttevő vagy átvevő intézmény magyar, angol, német vagy francia nyelven fogadja.
 
 (7) Ha a Pp. 137. § (2) bekezdésében meghatározott kézbesítési fikció alkalmazásával került sor a kézbesítés eredményének megállapítására, az átvevő intézmény az áttevő intézményt arról értesíti, hogy a kézbesítés beálltát és annak időpontját e kézbesítési fikció alapján állapította meg, és azzal szemben a címzettet a Pp. 138. §-a szerinti kifogás illeti meg. Ha a bíróság a címzett kifogásának utóbb helyt ad, a külföldi áttevő intézményt egyidejűleg értesíti arról, hogy a kézbesítéshez fűződő jogkövetkezmények a magyar jog szerint hatálytalanok.
 
@@ -620,7 +620,7 @@ látja el, azzal, hogy a b) pont szerinti esetben a kézbesítést a címzett c�
 
 (4) A rendelet 19. cikk (1) bekezdése és 20. cikk (2) bekezdése szerinti, más tagállam bíróságától érkező kérelmet a miniszter fogadja és bírálja el, ennek során a 80. § (5)–(9) bekezdésében foglaltakat alkalmazni kell.
 
-(5) A rendelet által rendszeresített formanyomtatványokat a bíróság postai úton, telefaxon vagy elektronikusan, magyar, angol vagy német nyelven fogadja.
+(5) A rendelet által rendszeresített formanyomtatványokat a bíróság magyar, angol vagy német nyelven fogadja.
 
 (6) Magyar bíróság az előtte folyamatban lévő eljárás céljára az Európai Unió tagállamában, Dánia kivételével, a rendelet 19. cikkében szabályozott módon kívül is foganatosíthat közvetlenül bizonyítási cselekményt. Ilyen esetben a bizonyításfelvétel általános szabályai irányadóak azzal, hogy kényszerítő intézkedések alkalmazásának nincs helye.
 
@@ -999,10 +999,10 @@ alkalmazandó jogot megállapító rendelkezéseit e törvény hatálybalépés�
 
 (2) E törvény
 
-- a) 81. § (5) bekezdése a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő, a tagállamok bíróságai között együttműködéséről szóló, 2001. május 28-i 1206/2001/EK tanácsi rendeletnek,
+- a)
 - b) 101. § (1) bekezdése és 106. §-a a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendeletnek,
 - c) a 59. §-a a szerződésen kívüli kötelmi viszonyokra alkalmazandó jogról szóló („Róma II.”), 2007. július 11-i 864/2007/EK európai parlamenti és tanácsi rendeletnek,
-- d) 77. § (6) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről („iratkézbesítés”) és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendeletnek,
+- d)
 - e) 30. §-a a házasság felbontására és a különválásra alkalmazandó jog területén létrehozandó megerősített együttműködés végrehajtásáról szóló, 2010. december 20-i 1259/2010/EU tanácsi rendeletnek,
 - f) 3. § c) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendeletnek
 - g) 81. §-a a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendeletnek,

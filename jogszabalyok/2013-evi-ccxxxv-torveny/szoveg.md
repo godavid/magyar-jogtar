@@ -18,7 +18,7 @@ az egyes fizetési szolgáltatókról
 
 (2) A 12. § (1) bekezdése, az 59–64. §, a 66. § és a 72–79. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon és a kincstári körön kívüli számlatulajdonosokon kívül más személyek részére végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikuspénz-kibocsátó intézményt említenek, azon a kincstár is értendő.
 
-(3) Az 5. § (3)–(4) bekezdése, a 11. §, a 12. § (1) bekezdés a) és f) pontja, a 13. §, a 13/A. § (1) bekezdése, a 14. §, a 15. § (1) bekezdés a), c)–e) pontja, a 15. § (2) bekezdése és a 17. § nem terjed ki a kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézményre.
+(3) Az 5. § (3)–(4) bekezdése, a 11. §, a 12. § (1) bekezdés a) és f) pontja, a 12/A. §, a 13. §, a 13/A. § (1) bekezdése, a 14. §, a 15. § (1) bekezdés a), c)–e) pontja, a 15. § (2) bekezdése és a 17. § nem terjed ki a kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézményre.
 
 3. § E törvény alkalmazásában:
 
@@ -185,7 +185,7 @@ az egyes fizetési szolgáltatókról
 
 (3)
 
-#### 12/A. §
+12/A. § A pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek rendelkeznie kell igazgatósággal és felügyelő bizottsággal.
 
 12/B. § (1) A pénzforgalmi intézmény, elektronikus-pénz kibocsátó intézmény a jelentős IKT-vonatkozású eseményeket a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/2554 európai parlamenti és tanácsi rendelet] 19. cikkének megfelelően bejelenti a nemzeti kiberbiztonsági incidenskezelőközpontnak (CSIRT).
 
@@ -435,13 +435,21 @@ az egyes fizetési szolgáltatókról
 - b) a pénzforgalmi intézményben, az elektronikuspénz-kibocsátó intézményben befolyásoló részesedéssel rendelkező vállalkozásból a bejelentő birtokában lévő részesedés megjelölését,
 - c) a megszerezni kívánt részesedés arányát,
 - d) a tagi részesedés szerzésre, vagy a szavazati joghoz kapcsolódó, jelentős előnyöket biztosító megállapodásra tett szerződéses ajánlatot,
-- e) a bejelentőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 29. § (5) bekezdésében meghatározott kizáró ok megítéléséhez szükséges tényeket és a 29. § (6) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot, valamint
+- e) a bejelentőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 29. § (5) bekezdés a)–d) és h) pontjában meghatározott kizáró ok megítéléséhez szükséges tényeket és a 29. § (6) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot,
 - f) egyéb olyan információkat, amelyek szükségesek annak megállapításához, hogy a prudens működés biztosítva van,
 - g) nem természetes személy tulajdonos esetében a tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, továbbá – amennyiben ez lehetséges – tényleges tulajdonosai bemutatását.
+- h) a 17. § (3) bekezdés a)–f), h) és i) pontjában meghatározott követelmények bemutatását.
 
-(5) Ha a befolyásoló részesedést szerző tevékenysége, a pénzforgalmi intézményre, az elektronikuspénz-kibocsátó intézményre gyakorolt befolyása veszélyezteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, a Felügyelet a bejelentést követő harminc napon belül megtilthatja az ilyen befolyás megszerzését, és felfüggesztheti a tagok szavazati jogának gyakorlását, addig, amíg a tag meg nem szünteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányításának veszélyeztetéséül szolgáló indokot.
+(5) Ha a befolyásoló részesedést szerző tevékenysége, a pénzforgalmi intézményre, az elektronikuspénz-kibocsátó intézményre gyakorolt befolyása veszélyezteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, a Felügyelet a hiánytalan bejelentés beérkezésétől számított harminc napon belül megtilthatja az ilyen befolyás megszerzését, és felfüggesztheti a tagok szavazati jogának gyakorlását, addig, amíg a tag meg nem szünteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányításának veszélyeztetéséül szolgáló indokot.
 
-(5a) A Felügyelet a befolyásoló részesedés szerzését megtiltja, ha a bejelentő részesedés szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
+(5a) A befolyásoló részesedést szerző tevékenysége, illetve a pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre gyakorolt befolyása különösen akkor veszélyezteti a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, ha
+
+- a) pénzügyi, gazdasági helyzete az ajánlat tárgyát képező részesedésszerzés nagyságához viszonyítva nem minősíthető megfelelőnek,
+- b) nem bizonyítható a részesedésszerzéshez felhasznált pénzeszközök eredetének törvényessége vagy a pénzeszközök tulajdonosaként megjelölt személy adatainak valódisága,
+- c) szavazati jogának gyakorlását a Felügyelet – a bejelentés benyújtását megelőző öt éven belül – felfüggesztette vagy
+- d) természetes személy esetén a 29. § (5) és (6) bekezdésben foglalt kizáró ok áll fenn.
+
+(5b) A Felügyelet a befolyásoló részesedés szerzését megtiltja, ha a bejelentő részesedés szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
 
 (6) Az (5) bekezdésben foglalt intézkedések valamelyikét alkalmazza a Felügyelet a bejelentési kötelezettség elmulasztása esetén is.
 

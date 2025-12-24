@@ -265,7 +265,13 @@ kívüli szolgáltatás.
 
 (4) A felek a keretszerződésben kiköthetik, hogy a határozatlan idejű keretszerződést a pénzforgalmi szolgáltató a 8. §-ban meghatározott módon felmondhatja. Két hónapnál rövidebb felmondási idő kikötése semmis kivéve, ha az ügyfél a keretszerződésben foglalt kötelezettségét súlyosan vagy ismételten megszegte.
 
-(4a) Fogyasztóval kötött fizetési számla vezetésére irányuló szerződést a pénzforgalmi szolgáltató a tartozás rendezésére vonatkozó, az ügyfél részére igazolható módon megküldött felszólítást követően két hónapos felmondási idővel felmondja, ha a fizetési számlán fél évet meghaladóan nem történik jóváírás, illetve az ügyfél által kezdeményezett terhelés, továbbá fél évet meghaladó késedelmes tartozás áll fenn és egyúttal a fizetési számla egyenlege negatív.
+(4a) Fogyasztóval kötött fizetési számla vezetésére irányuló szerződést a pénzforgalmi szolgáltató a tartozás rendezésére vonatkozó, az ügyfél részére igazolható módon megküldött felszólítást követően két hónapos felmondási idővel felmondja, ha a fizetési számlán fél évet meghaladóan nem történik jóváírás, illetve az ügyfél által kezdeményezett terhelés, továbbá fél évet meghaladó késedelmes tartozás áll fenn és egyúttal a fizetési számla egyenlege negatív. A felmondási kötelezettség nem terheli a pénzforgalmi szolgáltatót, ha a fizetési számla
+
+- a) a pénzforgalmi szolgáltatóval, vagy azzal azonos – a Hpt. szerinti – csoportba tartozó pénzügyi intézménnyel kötött másik és meg nem szűnt szerződés teljesítési helyeként szolgál,
+- b) büntetőeljárásban elrendelt zár alá van helyezve,
+- c) a fizetési számla megszüntetése ellehetetleníti a számlatulajdonos pénzforgalmi szolgáltatóval szembeni kötelezettségeinek teljesítését,
+- d) a fizetési számla megszüntetése hatósági rendelkezés céljával ellentétes vagy annak végrehajtását meghiúsítja, vagy
+- e) bírósági végrehajtási eljárásban elrendelt biztosítási intézkedés hatálya alatt áll.
 
 (4b) Ha a pénzforgalmi szolgáltató hitelt érdemlő módon tudomást szerzett az ügyfél elhalálozásáról, akkor a jogerős, teljes hatályú hagyatékátadó végzés vagy öröklési bizonyítvány pénzforgalmi szolgáltató részére történő benyújtásáig a (4a) bekezdésben meghatározott felmondási kötelezettség nem terheli a pénzforgalmi szolgáltatót.
 
@@ -662,7 +668,7 @@ köteles megőrizni, illetve tárolni.
 
 (2) A pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszközt és annak használatához szükséges személyes hitelesítési adatokat – a keretszerződésben meghatározott módon – kizárólag ügyfél részére adhatja át.
 
-(3) A pénzforgalmi szolgáltató gondoskodik arról, hogy az ügyfél bármikor díj-, költség- vagy egyéb fizetési kötelezettségtől mentesen megtehesse a 40. § (2) bekezdése szerinti bejelentését, vagy kérelmezhesse a 39. § szerinti letiltás megszüntetését.
+(3) A pénzforgalmi szolgáltató gondoskodik arról, hogy az ügyfél bármikor díj-, költség- vagy egyéb fizetési kötelezettségtől mentesen megtehesse a 40. § (2) bekezdése szerinti bejelentését, vagy kérelmezhesse a 39. § szerinti letiltás megszüntetését. A fizetési számlát vezető pénzforgalmi szolgáltató legalább telefonon, élőhangos ügyintéző útján, a hét minden napján 0 órától 24 óráig folyamatosan biztosítja, hogy a fogyasztó a bejelentését megtehesse.
 
 (4) A pénzforgalmi szolgáltató a 40. § (2) bekezdése szerinti bejelentésekről olyan nyilvántartást vezet, amely tizennyolc hónapig biztosítja a bejelentések időpontjának és tartalmának bizonyítását.
 
@@ -717,9 +723,9 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 (2a) Ha a kedvezményezett vagy annak pénzforgalmi szolgáltatója nem fogadja el az erős ügyfél-hitelesítést, meg kell térítenie a fizető fél pénzforgalmi szolgáltatójának okozott kárt.
 
-(3) A pénzforgalmi szolgáltató mentesül az (1), (2) és (4) bekezdés szerinti felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta, így különösen ha a készpénz-helyettesítő fizetési eszköz használatához szükséges személyes hitelesítési adatait arra nem jogosult harmadik fél részére átadja vagy megismerhetővé teszi.
+(3) A pénzforgalmi szolgáltató mentesül az (1) bekezdés, valamint a (2) bekezdés a), b) és d) pontjában meghatározott felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta, így különösen ha a készpénz-helyettesítő fizetési eszköz használatához szükséges személyes hitelesítési adatait arra nem jogosult harmadik fél részére átadja vagy megismerhetővé teszi. A fizető fél pénzforgalmi szolgáltatója mentesül a (2) bekezdés c) és e) pontjában meghatározott felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta.
 
-(4) A 40. § (2) bekezdése szerinti bejelentést követően a pénzforgalmi szolgáltató viseli a kárt az olyan jóvá nem hagyott fizetési műveletek vonatkozásában, amelyek a fizető fél birtokából kikerült vagy ellopott készpénz-helyettesítő fizetési eszközzel történtek, vagy a készpénz-helyettesítő fizetési eszköz jogosulatlan használatából erednek.
+(4) A 40. § (2) bekezdése szerinti bejelentést követően a pénzforgalmi szolgáltató viseli a kárt az olyan jóvá nem hagyott fizetési műveletek vonatkozásában, amelyek a fizető fél birtokából kikerült vagy ellopott készpénz-helyettesítő fizetési eszközzel történtek, vagy a készpénz-helyettesítő fizetési eszköz jogosulatlan használatából erednek, kivéve, ha a fizető fél csalárd módon járt el.
 
 (5) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltatót a (2) és (4) bekezdés szerinti kötelezettségek nem terhelik, ha
 

@@ -1717,7 +1717,7 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 
 ### Az oltalomképes földrajzi jelzés és eredetmegjelölés
 
-102/A. § E rész alkalmazásában termék alatt az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 1. § 1. pontjában meghatározott agrártermékek körébe nem tartozó terméket kell érteni.
+102/A. § E rész rendelkezései az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 1. § 1. pontjában meghatározott agrártermékek körébe tartozó, és a kézműves és ipari termékek földrajzi jelzéseinek oltalmáról, valamint az (EU) 2023/2411 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2411 rendelet] alapján földrajzi jelzésként oltalomban részesülő kézműves és ipari termékekre nem alkalmazhatóak.
 
 103. § (1) Földrajzi árujelzőként oltalomban részesülhet a kereskedelmi forgalomban a termék földrajzi származásának feltüntetésére használt földrajzi jelzés és eredetmegjelölés.
 
@@ -1814,8 +1814,8 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 - b) a földrajzi árujelző törlése;
 - c) a földrajzi árujelző-oltalom megszűnésének megállapítása;
 - d)
-- e) az eredetmegjelölés nemzetközi bejelentésének továbbítása;
-- f) a Nemzetközi Iroda által lajstromozott nemzetközi eredetmegjelölés és földrajzi jelzés Magyarországra kiterjedő oltalmának végleges elutasítása.
+- e)
+- f)
 
 (5) A (4) bekezdés b) és c) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
@@ -1827,28 +1827,7 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 
 (9)
 
-### A földrajzi árujelző lajstromozására irányuló eljárás
-
-113. § (1) A földrajzi árujelző lajstromozására irányuló bejelentésnek tartalmaznia kell a bejelentési kérelmet, a földrajzi árujelző megnevezését, a termékjegyzéket és az egyéb mellékleteket. A bejelentési kérelemnek tartalmaznia kell a 38. § (2b) bekezdésében meghatározott adatokat. A bejelentést egyebekben a földrajzi árujelzőre vonatkozó bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
-
-(2) A földrajzi árujelző bejelentéséért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni a bejelentési naptól számított két hónapon belül.
-
-(3) A földrajzi árujelző lajstromozására irányuló bejelentésről, ha az – a benyújtáskor vagy a hiánypótlás eredményeként – kielégíti a bejelentési nap elismeréséhez előírt feltételeket, a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában hatósági tájékoztatást tesz közzé (adatközlés). Az adatközlés különösen a következő adatokat tartalmazza:
-
-- a) a földrajzi árujelző megnevezése;
-- b) a bejelentés napja;
-- c) a termékjegyzék.
-
-(4) A földrajzi árujelző lajstromozására irányuló eljárásban az adatközlést követően észrevételt lehet benyújtani a Szellemi Tulajdon Nemzeti Hivatalához arra vonatkozóan, hogy a megjelölés, illetve annak bejelentése nem felel meg az e törvényben meghatározott valamely oltalomképességi feltételnek.
-
-(5) Ha a földrajzi árujelző lajstromozására irányuló bejelentés megfelel az 55. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala elvégzi a bejelentés érdemi vizsgálatát. Az érdemi vizsgálat arra terjed ki, hogy a földrajzi árujelző
-
-- a) megfelel-e a 103. §-ban meghatározott követelményeknek, és a 105. és 106. § alapján nincs-e kizárva az oltalomból; valamint
-- b) bejelentése megfelel-e az e törvényben megszabott feltételeknek.
-
-(6)
-
-(7) A földrajzi árujelző lajstromozására irányuló eljárásban az (1)–(5) bekezdésekben nem szabályozott kérdésekben a IX. fejezet rendelkezéseit kell megfelelően alkalmazni azzal, hogy ahol a törvény árujegyzékre utal, azon a termékjegyzéket kell érteni.
+#### 113. §
 
 #### 113/A. §
 
@@ -1889,83 +1868,29 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 
 (2) A nemzetközi bejelentések tekintetében a Lisszaboni Megállapodás vagy a genfi szöveg eltérő rendelkezése hiányában e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-### A Szellemi Tulajdon Nemzeti Hivatala útján a Lisszaboni Megállapodás alapján benyújtott nemzetközi bejelentések
+#### 116/E. §
 
-116/E. § (1) A Szellemi Tulajdon Nemzeti Hivatala által lajstromozott, az 1151/2012/EU rendelet, az 1308/2013/EU rendelet, a 251/2014/EU rendelet, továbbá az (EU) 2019/787 rendelet hatálya alá nem tartozó eredetmegjelölés jogosultja [107. § (3) bek.] a Szellemi Tulajdon Nemzeti Hivatala mint származási ország hivatala útján a Lisszaboni Megállapodás alapján nemzetközi bejelentést tehet a Nemzetközi Irodához.
+#### 116/F. §
 
-(2) Az (EU) 2019/1753 rendelet 11. cikk (3) bekezdése alapján a Lisszaboni Megállapodás szerinti nemzetközi bejelentéssel kapcsolatos tagállami hatáskörbe tartozó ügyekben az iparügyekért felelős miniszter és a Szellemi Tulajdon Nemzeti Hivatala jár el.
+#### 116/G. §
 
-(3) A Lisszaboni Megállapodás szerinti nemzetközi bejelentést a Szellemi Tulajdon Nemzeti Hivatalánál mint származási ország hivatalánál a Lisszaboni Megállapodásban előírt alaki követelményeknek megfelelően, a Lisszaboni Megállapodásban előírt módon és nyelven kell benyújtani.
+#### 116/H. §
 
-(4) Ha a Lisszaboni Megállapodás szerinti nemzetközi bejelentést az (1) bekezdésben említett eredetmegjelölés lajstromozása előtt nyújtják be, a benyújtás napjának az eredetmegjelölés lajstromozásának napját kell tekinteni.
+#### 116/I. §
 
-116/F. § (1) A Szellemi Tulajdon Nemzeti Hivatala a Lisszaboni Megállapodás szerinti nemzetközi bejelentés továbbítását megelőzően megvizsgálja, hogy
+#### 116/J. §
 
-- a) benyújtották-e a továbbításra irányuló kérelmet,
-- b) a továbbításra irányuló kérelem tartalmazza-e a 38. § (2b) bekezdésében meghatározott adatokat,
-- c) a Lisszaboni Megállapodás szerinti nemzetközi bejelentés tartalmazza-e a származási ország megjelölését, a bejelentő nevét és lakcímét vagy székhelyét, az eredetmegjelölést, a termékjegyzéket és az eredetmegjelöléshez tartozó földrajzi területet,
-- d) a Lisszaboni Megállapodás szerinti nemzetközi bejelentés adatai megegyeznek-e a 116/E. § (1) bekezdésében említett eredetmegjelölésnek a lajstromban szereplő adataival,
-- e) a Lisszaboni Megállapodás szerinti nemzetközi bejelentést a Lisszaboni Megállapodásban előírt nyelven és módon nyújtották-e be, és
-- f) a Lisszaboni Megállapodás szerinti nemzetközi bejelentés tartalmazza-e a bejelentő, illetve képviselője aláírását.
-
-(2) Ha a továbbításra irányuló kérelem vagy a Lisszaboni Megállapodás szerinti nemzetközi bejelentés nem felel meg az (1) bekezdésben meghatározott követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala felhívja a bejelentőt a hiányok pótlására. Ha a továbbításra irányuló kérelem a hiánypótlást követően sem elégíti ki az (1) bekezdés a)–c) pontjában meghatározott követelményeket, a Szellemi Tulajdon Nemzeti Hivatala a továbbításra irányuló kérelmet elutasítja.
-
-(3) A Szellemi Tulajdon Nemzeti Hivatala a Lisszaboni Megállapodás szerinti nemzetközi bejelentés beérkezésétől számított két hónapon belül a bejelentésnek az iparügyekért felelős miniszter részére történő megküldésével egyidejűleg nyilatkozik arról, hogy az (1) bekezdés szerint vizsgált követelmények alapján egyetért-e a bejelentés tervezetének az Európai Bizottság részére történő, (4) bekezdés szerinti megküldésével.
-
-(4) Az iparügyekért felelős miniszter a Szellemi Tulajdon Nemzeti Hivatala nyilatkozatával összhangban a Lisszaboni Megállapodás szerinti nemzetközi bejelentés benyújtásától számított 9 hónapon belül határoz arról, hogy a bejelentés – a termékjegyzékben szereplő termékekre is figyelemmel – megfelel-e az e törvényben, valamint az (EU) 2019/1753 rendeletben meghatározott feltételeknek. A kérelemnek helyt adó határozat jogerőre emelkedése esetén az iparügyekért felelős miniszter a Lisszaboni Megállapodás szerinti bejelentés tervezetének megküldésével értesíti az Európai Bizottságot a bejelentésről.
-
-(5) Az Európai Bizottság és az iparügyekért felelős miniszter szükség esetén konzultációt folytat a Lisszaboni Megállapodás szerinti nemzetközi bejelentés tervezetével kapcsolatban. Ha az Európai Bizottság a bejelentési kérelemmel kapcsolatban kedvezőtlen véleményt ad ki, az iparügyekért felelős miniszter erről értesíti a Szellemi Tulajdon Nemzeti Hivatalát.
-
-(6) Ha az Európai Bizottság az értesítést követő két hónapon belül nem ad ki kedvezőtlen véleményt a Lisszaboni Megállapodás szerinti nemzetközi bejelentésnek a Nemzetközi Irodához történő továbbításával kapcsolatban, a Szellemi Tulajdon Nemzeti Hivatala továbbítja a bejelentést a Nemzetközi Iroda részére.
-
-116/G. § (1) A Lisszaboni Megállapodás szerinti nemzetközi bejelentés továbbításáért a Szellemi Tulajdon Nemzeti Hivatalához jogszabályban meghatározott továbbítási díjat, valamint a Lisszaboni Megállapodás szerinti nemzetközi bejelentéssel kapcsolatban a Nemzetközi Irodához a Lisszaboni Megállapodásban meghatározott nemzetközi díjat kell fizetni.
-
-(2) Az (1) bekezdésben említett továbbítási díj megfizetése a Lisszaboni Megállapodás szerinti nemzetközi bejelentés beérkezésének napján esedékes. Ha a díjat az esedékességet követő egy hónapon belül nem fizetik meg, a Lisszaboni Megállapodás szerinti nemzetközi bejelentés továbbítására irányuló kérelmet visszavontnak kell tekinteni.
-
-(3) Az (1) bekezdésben említett nemzetközi díjat közvetlenül a Nemzetközi Irodához, a Lisszaboni Megállapodásban előírt határidőn belül és az ott megszabott módon kell megfizetni.
-
-(4) A Szellemi Tulajdon Nemzeti Hivatala útján benyújtott Lisszaboni Megállapodás szerinti nemzetközi bejelentés esetén a lajstromban fel kell tüntetni a nemzetközi lajstromozás napját és számát.
-
-116/H. § Az eredetmegjelölés Lisszaboni Megállapodás szerinti nemzetközi oltalma megszűnik, ha az alapjául szolgáló eredetmegjelölés oltalma megszűnt.
-
-### A Nemzetközi Iroda által a Lisszaboni Megállapodás alapján lajstromozott nemzetközi eredetmegjelölések
-
-116/I. § (1) A 116/E. § (1) bekezdésében említett rendeletek hatálya alá nem tartozó termékek tekintetében lajstromozott nemzetközi eredetmegjelölésnek a Közös Végrehajtási Szabályzat 7. szabály (1) bekezdés a) pontja szerinti lajstromozás napjától ugyanaz a hatálya, mint a Szellemi Tulajdon Nemzeti Hivatalához szabályszerűen benyújtott, eredetmegjelölés lajstromozására irányuló bejelentésnek.
-
-(2) A Lisszaboni Megállapodás szerinti nemzetközi lajstromozással – az (1) bekezdésben megjelölt naptól kezdődően – ugyanolyan oltalom keletkezik, mint a Szellemi Tulajdon Nemzeti Hivatala által történt lajstromozás alapján, ha a Szellemi Tulajdon Nemzeti Hivatala a Lisszaboni Megállapodás 5. cikk (3) bekezdése alapján a megjelölés Magyarországra kiterjedő oltalmát nem utasítja el, vagy az elutasítást visszavonja.
-
-116/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala a Lisszaboni Megállapodás szerinti nemzetközi lajstromozásról szóló értesítést követően a Lisszaboni Megállapodás szerinti nemzetközi bejelentésről hivatalos lapjában hatósági tájékoztatást tesz közzé (adatközlés). Az adatközlés a következő adatokat tartalmazza:
-
-- a) a földrajzi árujelző megnevezése,
-- b) a Lisszaboni Megállapodás szerinti nemzetközi bejelentés nemzetközi lajstromszáma,
-- c) a nemzetközi lajstromozás napja, és
-- d) a Nemzetközi Iroda hivatalos lapjában történő közzététel napja, valamint a közzétételt tartalmazó lap száma.
-
-(2) Ha a Szellemi Tulajdon Nemzeti Hivatala a Lisszaboni Megállapodás 5. cikk (3) bekezdése alapján az eredetmegjelölés Magyarországra kiterjedő oltalmát nem utasítja el, vagy az elutasítást visszavonja, erről hivatalos lapjában hatósági tájékoztatást közöl az (1) bekezdésben meghatározott adatok feltüntetésével.
-
-116/K. § (1) Az adatközlést követően észrevételt lehet benyújtani a Szellemi Tulajdon Nemzeti Hivatalához arra nézve, hogy a Lisszaboni Megállapodás szerinti nemzetközi bejelentés tárgyát képező megjelölés, illetve annak bejelentése nem felel meg az e törvényben meghatározott valamely oltalomképességi feltételnek.
-
-(2) A Szellemi Tulajdon Nemzeti Hivatala a Nemzetközi Iroda által lajstromozott Lisszaboni Megállapodás szerinti nemzetközi bejelentés tekintetében elkészíti a 60. § szerinti kutatási jelentést, és elvégzi a 113. § (5) bekezdése szerinti érdemi vizsgálatot.
-
-(3) Ha a Lisszaboni Megállapodás szerinti nemzetközi bejelentés nem felel meg a 113. § (5) bekezdésében vizsgált követelményeknek, erről a Lisszaboni Megállapodásban meghatározott módon és határidőn belül értesíteni kell a Nemzetközi Irodát (a továbbiakban: ideiglenes elutasítás).
-
-(4) Ha a Lisszaboni Megállapodás szerinti nemzetközi bejelentés elutasításának [61. § (4) bek.] vagy visszavontnak tekintésének [61. § (5) bek.] van helye, a Szellemi Tulajdon Nemzeti Hivatala értesíti a Nemzetközi Irodát arról, hogy a megjelölés Magyarországra kiterjedő oltalmát elutasítja.
-
-(5) Ha a Szellemi Tulajdon Nemzeti Hivatala nem ad ki ideiglenes elutasítást, a lajstromozás napjának az ideiglenes elutasításra nyitva álló határidő elteltét követő napot kell tekinteni.
-
-(6) Ha a Szellemi Tulajdon Nemzeti Hivatala az ideiglenes elutasításra nyitva álló határidő lejárta előtt úgy találja, hogy nincs helye ideiglenes elutasítás kiadásának, értesíti a Nemzetközi Irodát az oltalom elismeréséről. A lajstromozás napjának az oltalom elismeréséről szóló értesítés keltezésének napját kell tekinteni.
-
-(7) Ha a Szellemi Tulajdon Nemzeti Hivatala az ideiglenes elutasítást az érdemi vizsgálatot követően egészben vagy részben visszavonja, a visszavonásról szóló döntés jogerőre emelkedését követően értesíti a Nemzetközi Irodát az oltalom elismeréséről. A lajstromozás napjának a visszavonásról szóló döntés keltezésének napját kell tekinteni.
+#### 116/K. §
 
 ### Az eredetmegjelölések és földrajzi jelzések genfi szöveg szerinti nemzetközi lajstromozására vonatkozó szabályok
 
-116/L. § (1) A 116/E. § (1) bekezdésében említett rendeletek hatálya alá tartozó termékekre vonatkozó, az uniós jog alapján oltalomban részesülő eredetmegjelölés vagy földrajzi jelzés genfi szöveg szerinti nemzetközi lajstromozása tekintetében az (EU) 2019/1753 rendelet rendelkezéseit kell alkalmazni.
+116/L. § (1) Az uniós jog alapján oltalomban részesülő eredetmegjelölés vagy földrajzi jelzés genfi szöveg szerinti nemzetközi lajstromozása tekintetében az (EU) 2019/1753 rendelet rendelkezéseit kell alkalmazni.
 
-(2) Az (EU) 2019/1753 rendelet alapján tagállami hatáskörbe tartozó ügyekben az agrárpolitikáért felelős miniszter jár el.
+(2) Az (EU) 2019/1753 rendelet alapján tagállami hatáskörbe tartozó ügyekben az agrárpolitikáért felelős miniszter, a kézműves és ipari termékek esetén a Szellemi Tulajdon Nemzeti Hivatala jár el.
 
-(3) A 116/E. § (1) bekezdésében említett rendeletek hatálya alá tartozó termékekre vonatkozó, az uniós jog alapján oltalomban részesülő eredetmegjelölés vagy földrajzi jelzés tekintetében annak jogosultja, vagy a genfi szöveg 5. cikk (2) bekezdés ii) alpontja szerinti természetes vagy jogi személy kérelmezheti az Európai Bizottságnál a genfi szöveg szerinti nemzetközi bejelentést.
+(3) Az uniós jog alapján oltalomban részesülő eredetmegjelölés vagy földrajzi jelzés tekintetében annak jogosultja, vagy a genfi szöveg 5. cikk (2) bekezdés ii) alpontja szerinti természetes vagy jogi személy kérelmezheti az Európai Bizottságnál, a kézműves és ipari termékek esetén az Európai Unió Szellemi Tulajdoni Hivatalánál a genfi szöveg szerinti nemzetközi bejelentést.
 
-(4) A genfi szöveg szerinti nemzetközi bejelentést az agrárpolitikáért felelős miniszterhez kell benyújtani.
+(4) A genfi szöveg szerinti nemzetközi bejelentést az agrárpolitikáért felelős miniszterhez, a kézműves és ipari termékek esetén a Szellemi Tulajdon Nemzeti Hivatalához kell benyújtani.
 
 (5) A genfi szöveg szerinti nemzetközi bejelentést a Szellemi Tulajdon Világszervezetének (WIPO) hivatalos nyelvén – angolul, franciául vagy spanyolul – kell elkészíteni, amelyben fel kell tüntetni a Közös Végrehajtási Szabályzat 5. szabály (2) bekezdésében meghatározott adatokat.
 
@@ -1975,13 +1900,189 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 
 (8)
 
-(9) Az agrárpolitikáért felelős miniszter a genfi szöveg szerinti nemzetközi bejelentés beérkezésétől számított 3 hónapon belül határoz arról, hogy a bejelentés megfelel-e az e törvényben, valamint az (EU) 2019/1753 rendeletben meghatározott feltételeknek. A helyt adó határozat jogerőre emelkedése esetén az agrárpolitikáért felelős miniszter a genfi szöveg szerinti nemzetközi bejelentést megküldi az Európai Bizottság részére.
+(9) Az agrárpolitikáért felelős miniszter, a kézműves és ipari termékek esetén a Szellemi Tulajdon Nemzeti Hivatala, a genfi szöveg szerinti nemzetközi bejelentés beérkezésétől számított 3 hónapon belül határoz arról, hogy a bejelentés megfelel-e az e törvényben, valamint az (EU) 2019/1753 rendeletben meghatározott feltételeknek. A helyt adó határozat jogerőre emelkedése esetén az agrárpolitikáért felelős miniszter, a kézműves és ipari termékek esetén a Szellemi Tulajdon Nemzeti Hivatala, a genfi szöveg szerinti nemzetközi bejelentést megküldi az Európai Bizottság, kézműves és ipari termékek esetén az Európai Unió Szellemi Tulajdoni Hivatala részére.
 
 (10) A genfi szöveg szerinti nemzetközi bejelentéssel kapcsolatban a bejelentést kérelmező a Nemzetközi Irodához a genfi szöveg által meghatározott nemzetközi díjat közvetlenül, a genfi szövegben előírt határidőn belül és az ott megszabott módon fizeti be.
 
 (11) Az eredetmegjelölés vagy földrajzi jelzés genfi szöveg szerinti nemzetközi oltalma megszűnik, ha az alapjául szolgáló eredetmegjelölés vagy földrajzi jelzés oltalma megszűnt.
 
 (12) Az (EU) 2019/1753 rendelet 3. cikke szerinti törlési, valamint 6. cikke szerinti felszólalási eljárásokra az (1)–(5), (9) és (10) bekezdést kell alkalmazni.
+
+### XVII/C. Fejezet — KÉZMŰVES ÉS IPARI TERMÉKEK FÖLDRAJZI JELZÉSEINEK UNIÓS OLTALMA
+
+### Értelmező rendelkezések
+
+116/M. § E fejezet alkalmazásában
+
+- a) bejelentés: a földrajzi jelzés lajstromozására irányuló bejelentés;
+- b) bejelentő: a bejelentés benyújtására az (EU) 2023/2411 rendelet 8. cikke alapján jogosult személy, illetve személyek;
+- c) földrajzi jelzés: az olyan kézműves és ipari terméknek az oltalom alatt álló megnevezése, amely megfelel az (EU) 2023/2411 rendelet 6. cikkében meghatározott követelményeknek;
+- d) gazdasági szereplő: a földrajzi jelzéssel vagy az átmeneti nemzeti oltalom alatt álló földrajzi jelzéssel ellátott, a termékleírásnak megfelelő kézműves és ipari termék előállításában részt vevő, továbbá a földrajzi jelzést vagy az átmeneti nemzeti oltalom alatt álló földrajzi jelzést használó természetes vagy jogi személy;
+- e) kézműves és ipari termék: olyan termék, amely megfelel az (EU) 2023/2411 rendelet 4. cikk 1. pontjában meghatározott feltételeknek;
+- f) nemzeti felszólalási eljárás: az (EU) 2023/2411 rendelet 15. cikke szerinti nemzeti felszólalási eljárás;
+- g) tagállami eljárás: a lajstromozásra, a törlésre, valamint a termékleírás módosítására irányuló eljárás tagállami hatáskörbe tartozó nemzeti szakasza;
+- h) termékleírás: az oltalomban részesítendő, illetve az átmeneti nemzeti vagy uniós oltalom alatt álló földrajzi jelzéssel ellátott kézműves és ipari termékre vonatkozó követelményeket tartalmazó dokumentum, amely megfelel az (EU) 2023/2411 rendelet 9. cikkében meghatározott követelményeknek;
+- i) termékleírás módosítása: a termékleírás standard és uniós módosítása;
+- j) termékleírás standard módosítása: a termékleírásnak az (EU) 2023/2411 rendelet 31. cikk (5) bekezdésében foglalt esetek szerinti módosítása;
+- k) termékleírás uniós módosítása: a termékleírásnak az (EU) 2023/2411 rendelet 31. cikk (3) bekezdésében foglalt esetek szerinti módosítása; és
+- l) törlési eljárás: a kézműves és ipari termékek földrajzi jelzéseinek törlésére irányuló eljárás.
+
+### Bitorlás
+
+116/N. § (1) A 27. § (2)–(11) bekezdését, valamint a 28. §-t kell alkalmazni a kézműves és ipari termékek uniós oltalmát és a 116/U. § szerinti átmeneti nemzeti oltalmát sértő, az (EU) 2023/2411 rendelet 40. cikkében meghatározott rendelkezések sérelme esetén.
+
+(2) Átmeneti nemzeti oltalom alatt álló földrajzi jelzés esetén a bitorlás miatt indított eljárást fel kell függeszteni mindaddig, amíg az Európai Unió Szellemi Tulajdoni Hivatala a bejelentésről szóló, az (EU) 2023/2411 rendelet 29. cikke szerinti határozatát meghozza. Ha a kérelmet az Európai Unió Szellemi Tulajdoni Hivatala elutasítja, a bitorlás miatt indított eljárást meg kell szüntetni.
+
+### A Szellemi Tulajdon Nemzeti Hivatala eljárásának általános szabályai
+
+116/O. § (1) A Szellemi Tulajdon Nemzeti Hivatala jár el a Magyarországról származó kézműves és ipari termékek földrajzi jelzéseinek lajstromozására irányuló eljárás nemzeti szakaszában.
+
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe a kézműves és ipari termékek földrajzi jelzéseivel kapcsolatos következő ügyek tartoznak:
+
+- a) a lajstromozásra irányuló eljárás nemzeti szakaszának lefolytatása,
+- b) a nemzeti felszólalási eljárás lefolytatása,
+- c) a bejelentett és az átmeneti nemzeti oltalom alatt álló földrajzi jelzések nyilvántartása,
+- d) a földrajzi jelzések oltalmával kapcsolatos hatósági tájékoztatás,
+- e) a bejelentésnek az Európai Unió Szellemi Tulajdoni Hivatalához történő benyújtása,
+- f) a termékleírás standard módosítása,
+- g) a termékleírás uniós módosítása nemzeti szakaszának lefolytatása,
+- h) a törlési eljárás nemzeti szakaszának lefolytatása.
+
+(3) A Szellemi Tulajdon Nemzeti Hivatala előtti, (2) bekezdés szerinti eljárásokban a VII. és a VIII. fejezet rendelkezéseit kell alkalmazni.
+
+### A bejelentés benyújtása és kellékei
+
+116/P. § (1) A kézműves és ipari termékek földrajzi jelzéseinek lajstromozására irányuló eljárás a Szellemi Tulajdon Nemzeti Hivatalához benyújtott bejelentéssel indul meg.
+
+(2) A bejelentést az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott részletes követelményeknek megfelelően kell benyújtani.
+
+(3) A bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni a bejelentés napját követő egy hónapon belül.
+
+(4) Ha a bejelentésnek vagy mellékleteinek pótolható hiányosságai vannak, a bejelentőt fel kell hívni a hiányok egy hónapon belül történő pótlására. Ha a bejelentés a hiánypótlás ellenére sem felel meg a vizsgált követelményeknek, a bejelentést el kell utasítani. Ha a bejelentő a felhívásra a kitűzött határidőben nem válaszol, a bejelentést visszavontnak kell tekinteni.
+
+(5) Ha a bejelentési díjat nem fizették meg, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a törvény által meghatározott határidőben történő hiánypótlásra. Ennek elmaradása esetén a bejelentést visszavontnak kell tekinteni.
+
+(6) Az (1)–(5) bekezdésben nem szabályozott kérdésekben a IX. fejezet rendelkezéseit kell alkalmazni.
+
+### A bejelentés meghirdetése
+
+116/Q. § (1) A Szellemi Tulajdon Nemzeti Hivatala meghirdeti a bejelentést, ha az megfelel a 116/P. § (2) bekezdésben meghatározott feltételeknek.
+
+(2) A meghirdetéskor a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában közzéteszi a bejelentő nevét és címét, a termékleírást és az egységes dokumentumot.
+
+(3) A meghirdetésről a bejelentőt értesíteni kell.
+
+### Nemzeti felszólalási eljárás
+
+116/R. § (1) A bejelentés meghirdetésétől számított három hónapon belül az (EU) 2023/2411 rendelet 15. cikk (3) bekezdése alapján a bejelentéssel szemben felszólalást nyújthat be bármely, Magyarország területén lakóhellyel rendelkező természetes személy, valamint székhellyel vagy telephellyel rendelkező jogi személy.
+
+(2) A felszólalásban meg kell jelölni az annak alapjául szolgáló okot, azt részletesen indokolni kell, mellékelve az alapul szolgáló bizonyítékokat.
+
+(3) A felszólalásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a felszólalás benyújtásától számított egy hónapon belül.
+
+(4) Ha a felszólalás nem felel meg az (1) és (2) bekezdésben előírt feltételeknek, a felszólalót hiánypótlásra kell felhívni. Ha a felszólaló a felszólalás díját nem fizette meg, figyelmeztetni kell a törvényben megszabott határidőben történő hiánypótlásra. Ezek elmaradása esetén a felszólalást visszavontnak kell tekinteni.
+
+(5) A felszólaló a kézműves és ipari termékek földrajzi jelzéseinek lajstromozására irányuló eljárás nemzeti szakaszában – a felszólalás tárgyában – ügyfélként vesz részt.
+
+116/S. § (1) Ha a felszólalás megfelel a 116/R. §-ban meghatározott feltételeknek, és azt a Szellemi Tulajdon Nemzeti Hivatala elfogadhatónak ítéli meg, az ehhez szükséges határidő tűzésével felhívja a bejelentőt és a felszólalót, hogy békés rendezés céljából egymással egyeztetést folytassanak. Az egyeztetés eredményéről a bejelentőnek tájékoztatnia kell a Szellemi Tulajdon Nemzeti Hivatalát.
+
+(2) Az egyeztetésre legfeljebb három hónapos határidőt kell kitűzni, amely – a felek együttes, lejárat előtt előterjesztett kérelme alapján – egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+
+(3) A Szellemi Tulajdon Nemzeti Hivatala az egyeztetésre nyitva álló határidő lejártát követően – amennyiben a felek között nem jött létre egyezség – a felszólalással kapcsolatban nyilatkozattételre hívja fel a bejelentőt.
+
+(4) Ha a bejelentő a felhívásra a kitűzött határidőben nem nyilatkozik, a Szellemi Tulajdon Nemzeti Hivatala a felszólalást a rendelkezésére álló adatok alapján bírálja el.
+
+(5) A Szellemi Tulajdon Nemzeti Hivatala a kézműves és ipari termékek földrajzi jelzéseinek lajstromozására irányuló eljárás nemzeti szakaszában az ügy érdemében hozott határozatával dönt a felszólalás tárgyában.
+
+(6) A 61/B–61/H. §-ok rendelkezéseit a nemzeti felszólalási eljárásban alkalmazni kell.
+
+### A Szellemi Tulajdon Nemzeti Hivatalának döntése és a bejelentés benyújtása az Európai Unió Szellemi Tulajdoni Hivatalához
+
+116/T. § (1) Ha a bejelentés megfelel a vizsgálat körébe tartozó valamennyi feltételnek, a Szellemi Tulajdon Nemzeti Hivatala indokolatlan késedelem nélkül határozatban megállapítja, hogy teljesülnek az (EU) 2023/2411 rendeletben foglalt követelmények. Ellenkező esetben a bejelentést elutasítja.
+
+(2) A Szellemi Tulajdon Nemzeti Hivatala az (EU) 2023/2411 rendeletben foglalt követelmények teljesülését megállapító határozatról szóló tájékoztatást a termékleírással együtt, az átmeneti nemzeti oltalom keletkezési napjának megjelölésével hivatalos lapjában közzéteszi.
+
+(3) Ha a Szellemi Tulajdon Nemzeti Hivatala határozatával megállapítja, hogy teljesülnek az (EU) 2023/2411 rendeletben foglalt követelmények, az (EU) 2023/2411 rendelet 22. cikk (1) bekezdése szerinti bejelentést benyújtja az Európai Unió Szellemi Tulajdoni Hivatalához.
+
+### Átmeneti nemzeti oltalom
+
+116/U. § (1) A bejelentés Európai Unió Szellemi Tulajdoni Hivatalához történő benyújtásának napjától a bejelentésről szóló az (EU) 2023/2411 rendelet 29. cikke szerinti határozat meghozatalának vagy a bejelentés visszavonásának napjáig a földrajzi jelzés átmeneti nemzeti oltalomban részesül.
+
+(2) A Szellemi Tulajdon Nemzeti Hivatala az átmeneti nemzeti oltalom keletkezésének napjáról értesíti a bejelentőt és a földrajzi jelzéssel, vagy átmeneti nemzeti oltalom alatt álló földrajzi jelzéssel ellátott kézműves és ipari termékek ellenőrzését végző hatóságot (a továbbiakban: ellenőrzést végző hatóság).
+
+(3) Az átmeneti nemzeti oltalom az (EU) 2023/2411 rendelet 40. cikkében meghatározott magatartásoknak a Magyarországon történő megvalósításával szemben nyújt védelmet.
+
+(4) A Szellemi Tulajdon Nemzeti Hivatala
+
+- a) az átmeneti nemzeti oltalom alatt álló földrajzi jelzésekről,
+- b) az átmeneti nemzeti oltalom alatt álló földrajzi jelzések termékleírásairól, és
+- c) az átmeneti nemzeti oltalom keletkezésének időpontjáról
+
+közhiteles nyilvántartást vezet.
+
+### A termékleírás uniós módosításának nemzeti szakasza és a standard módosítás
+
+116/V. § (1) A termékleírás uniós módosítása iránti eljárásra – az e §-ban foglalt eltérésekkel – a 116/P–116/T. §-ban foglaltakat kell alkalmazni.
+
+(2) A termékleírás módosítására irányuló kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
+
+(3) Ha a kérelmező a termékleírás módosítására irányuló kérelem díját nem fizette meg, figyelmeztetni kell a törvényben megszabott határidőben történő hiánypótlásra. Ezek elmaradása esetén a kérelmet visszavontnak kell tekinteni.
+
+(4) Ha a termékleírás módosítása iránti kérelmet nem a lajstromozott földrajzi jelzés bejelentője nyújtja be, a Szellemi Tulajdon Nemzeti Hivatala a bejelentő vagy jogutódja részére – amennyiben az fellelhető – megküldi a termékleírás módosítása iránti kérelmet azzal, hogy egy hónapon belül nyilatkozzon a termékleírás javasolt módosításainak elfogadhatóságával kapcsolatban.
+
+(5) Ha a Szellemi Tulajdon Nemzeti Hivatala úgy ítéli meg, hogy a termékleírás olyan jelentős módosításokat tartalmaz, amely olyan érdekeket érint, amelyeket a 116/R–116/S. § szerinti nemzeti felszólalási eljárásban nem vettek figyelembe, a Szellemi Tulajdon Nemzeti Hivatala e módosítások tekintetében kiegészítő felszólalási eljárást folytathat le.
+
+(6) Ha a (4) bekezdés szerinti esetben a termékleírás javasolt módosításaival a bejelentő vagy jogutódja nem ért egyet, a Szellemi Tulajdon Nemzeti Hivatala két hónapos határidő tűzésével felszólítja a feleket a termékleírás felszólítással érintett módosításainak egyeztetésére. A Szellemi Tulajdon Nemzeti Hivatala a 116/Q. § (2) bekezdés szerint a felek által lefolytatott egyeztetés eredményeként módosított kérelmet teszi közzé. A kérelem azon pontjai tekintetében, ahol nincs egyetértés a felek között, az eredeti kérelemben szereplő szöveg kerül közzétételre.
+
+(7) A termékleírás standard módosítása esetén a Szellemi Tulajdon Nemzeti Hivatala a kérelemnek helyt adó határozatot indokolatlan késedelem nélkül továbbítja az Európai Unió Szellemi Tulajdoni Hivatalának.
+
+### A törlési eljárás nemzeti szakasza
+
+116/W. § (1) A földrajzi jelzés oltalmának törlésére irányuló eljárás nemzeti szakaszában a 116/P–116/T. § rendelkezéseit kell alkalmazni.
+
+(2) A törlési eljárásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
+
+### Bírósági eljárás a földrajzi jelzések oltalmával kapcsolatban
+
+116/X. § A földrajzi jelzések oltalmával kapcsolatos bírósági eljárásban a XI. és XII. Fejezet rendelkezéseit kell alkalmazni.
+
+### A hatósági ellenőrzés során alkalmazható jogkövetkezmények és szankciók
+
+116/Y. § (1) Az ellenőrzést végző hatóság ellenőrzi
+
+- a) a Magyarországon előállított, földrajzi jelzéssel vagy átmeneti nemzeti oltalom alatt álló földrajzi jelzéssel ellátott kézműves és ipari termék termékleírásában foglaltaknak való megfelelését, illetve
+- b) a földrajzi jelzések, valamint az átmeneti nemzeti oltalom alatt álló földrajzi jelzések használatát.
+
+(2) Az ellenőrzést végző hatóság ellenőrzése kiterjed minden olyan gazdasági szereplőre, amelynek tevékenysége a földrajzi jelzések vagy az átmeneti nemzeti oltalom alatt álló földrajzi jelzések termékleírásának hatálya alá tartozik.
+
+(3) Az ellenőrzést végző hatóság
+
+- a) intézkedésként feltételhez kötheti a földrajzi jelzéssel vagy az átmeneti nemzeti oltalom alatt álló földrajzi jelzéssel ellátott kézműves és ipari termék előállítását, illetve forgalomba hozatalát
+  - aa) a termékleírásban foglaltaktól való olyan eltérés esetén, amely a termék minőségi jellemzőit befolyásolja, vagy
+  - ab) a termékleírásban foglaltaktól való olyan eltérés három éven belül történő megismétlődése esetén, amely a termék jellemzőit annak lényeges tulajdonságait tekintve nem változtatja meg, illetve
+- b) legfeljebb három évre megtilthatja a földrajzi jelzés vagy az átmeneti nemzeti oltalom alatt álló földrajzi jelzés használatát
+  - ba) a termékleírásban foglaltaktól való olyan mértékű vagy természetű eltérés esetén, amely a kézműves vagy ipari termék jellemzőit annak lényeges tulajdonságait tekintve jelentősen megváltoztatja, vagy amelynek eredményeképpen a kézműves vagy ipari termék nem tekinthető a termékleírásban szereplő földrajzi területről származónak, vagy
+  - bb) az a) pont aa) alpontjában foglalt jogsértés három éven belül történő megismétlődése esetén.
+
+(4) Ha az előállító, illetve forgalmazó a (3) bekezdés b) pontja alapján hozott tiltó határozat ellenére használja a földrajzi jelzést, az ellenőrzést végző hatóság intézkedésként elrendeli a földrajzi jelzéssel ellátott kézműves és ipari termékek forgalomból való kivonását.
+
+(5) Az ellenőrzést végző hatóság elrendelheti a földrajzi jelzéssel vagy átmeneti nemzeti oltalom alatt álló földrajzi jelzéssel ellátott, a földrajzi jelzés vagy átmeneti nemzeti oltalom alatt álló földrajzi jelzés viselésére nem jogosult kézműves és ipari terméknek az elkobzását és az előállító vagy a forgalmazó költségén való megsemmisítését.
+
+(6) Ha az előállító nem teljesíti a (3) bekezdés a) pontja szerinti feltételt, vagy nem felel meg a (3) bekezdés b) pontja szerinti tilalomnak, és a termékleírásnak nem megfelelő kézműves vagy ipari terméken továbbra is használja a földrajzi jelzést, az ellenőrzést végző hatóság jogosult – kormányrendeletben meghatározott mértékű – bírságot kiszabni.
+
+(7) A (6) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetés szankció alkalmazásának nincs helye.
+
+(8) Az ellenőrzést végző hatóság az e §-ban meghatározott feladatainak ellátása és az előállítói, illetve forgalmazói tevékenység átláthatóságának biztosítása érdekében nyilvántartást vezet, amely tartalmazza a gazdasági szereplő
+
+- a) nevét, elérhetőségét,
+- b) természetes személy
+  - ba) természetes személyazonosító adatait, lakcímét, állampolgárságát,
+  - bb) egyéni vállalkozó adószámát, székhelyét,
+- c) gazdálkodó szervezet székhelyét, telephelyét, adószámát,
+- d) tevékenységére vonatkozó adatokat, megjelölve a földrajzi jelzést vagy az átmeneti nemzeti oltalom alatt álló földrajzi jelzést, az előállítás helyét, a földrajzi jelzéssel vagy az átmeneti nemzeti oltalom alatt álló földrajzi jelzéssel ellátott kézműves és ipari termékkel kapcsolatban végzett tevékenységet, és
+- e) nyilvántartásba vételének időpontját.
+
+(9) Az ellenőrzést végző hatóság a nyilvántartott gazdasági szereplő adatainak módosítása vagy törlése esetén a módosított vagy törölt adatokat 10 évig megőrzi.
 
 ## KILENCEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -2054,15 +2155,30 @@ AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGYRE
 
 (4) A (3) bekezdés a) pontjában említett esetben az agrárpolitikáért felelős miniszter az eredetmegjelölés érintett rendelet szerinti uniós lajstromozásának időpontját követően egy éven belül kéri az eredetmegjelölés genfi szöveg szerinti nemzetközi lajstromozását.
 
-120/E. § (1) A Nemzetközi Iroda által a Lisszaboni Megállapodás alapján 2020. február 26. napjáig lajstromozott valamennyi eredetmegjelölés e törvény értelmében továbbra is oltalomban részesül az (EU) 2019/1753 rendelet 12. cikk (2) bekezdés a) vagy b) pontjában meghatározott időpontig.
+120/E. § (1) A Nemzetközi Iroda által a Lisszaboni Megállapodás alapján 2020. február 26. napjáig lajstromozott valamennyi, a Lisszaboni Megállapodásban részes harmadik országból származó eredetmegjelölés e törvény értelmében átmenetileg továbbra is oltalomban részesül az (EU) 2019/1753 rendelet 12. cikk (2) bekezdés a) vagy b) pontjában meghatározott időpontig.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdés szerinti időponttól kezdődően a Lisszaboni Megállapodás 5. cikk (3) bekezdése alapján nem biztosítja az eredetmegjelölés oltalmát és az erről szóló, indokolással ellátott nyilatkozatát megküldi a Nemzetközi Irodának az (EU) 2019/1753 rendelet 12. cikk (6) bekezdésében foglaltaknak megfelelően.
 
+120/F. § (1) A XVI. Fejezet alapján oltalomban részesülő földrajzi árujelző jogosultja 2026. november 2. napjáig kérelmet nyújthat be a Szellemi Tulajdon Nemzeti Hivatalához az oltalom alatt álló földrajzi árujelző (EU) 2023/2411 rendelet alapján történő lajstromozása és oltalomban részesítése érdekében. A kérelemhez csatolni kell az (EU) 2023/2411 rendelet 9. cikke szerinti termékleírást, valamint a 10. cikke szerinti egységes dokumentumot.
+
+(2) Az (1) bekezdés szerint fennálló oltalom megszűnésének napja az uniós lajstromozási eljárás jogerős befejezésének napja.
+
+120/G. § (1) A Lisszaboni Megállapodás alapján már lajstromozott, Magyarországról származó, az (EU) 2023/2411 rendelet hatálya alá tartozó termékekre vonatkozó, de az (EU) 2023/2411 rendelet szerint oltalomban még nem részesült nemzetközi eredetmegjelölések esetében a Szellemi Tulajdon Nemzeti Hivatala saját kezdeményezésére, vagy az eredetmegjelölés jogosultja, továbbá a genfi szöveg 5. cikk (2) bekezdés ii) alpontjában említett természetes vagy jogi személy kérelmére 2026. december 2. napjáig kérheti
+
+- a) az eredetmegjelölés (EU) 2023/2411 rendelet szerinti lajstromozását, vagy
+- b) az adott eredetmegjelölés lajstromozásának törlését a nemzetközi lajstromból.
+
+(2) Az (1) bekezdés a) pontjában említett esetben a Szellemi Tulajdon Nemzeti Hivatala a földrajzi jelzés (EU) 2023/2411 rendelet szerinti uniós lajstromozásának időpontját követően egy éven belül kéri az adott eredetmegjelölés genfi szöveg szerinti nemzetközi lajstromozását.
+
+(3) A Szellemi Tulajdon Nemzeti Hivatala az adott eredetmegjelölés genfi szöveg szerinti lajstromozása érdekében – az Európai Unió Szellemi Tulajdoni Hivatalával történő egyeztetést követően – meghatározza a Közös Végrehajtási Szabályzat 7. szabály (4) bekezdése értelmében esetlegesen szükséges módosításokat és értesíti erről a Nemzetközi Irodát.
+
+(4) A Szellemi Tulajdon Nemzeti Hivatala az (EU) 2019/1753 rendelet 11. cikk (3) bekezdés ötödik albekezdése szerinti esetekben haladéktalanul kéri az adott eredetmegjelölés lajstromozásának törlését a nemzetközi lajstromból.
+
 ### Felhatalmazások
 
-121. § (1)
+121. § (1) Felhatalmazást kap a Kormány, hogy az ellenőrzést végző hatóságot vagy hatóságokat rendeletben kijelölje, továbbá az ellenőrzési feladatok ellátásához szükséges szabályokat, a kézműves és ipari termék földrajzi jelzésének, átmeneti nemzeti oltalom alatt álló földrajzi jelzésének jogellenes használatáért fizetendő bírság mértékét, megállapításának szempontrendszerét, a bírság megfizetése módjának szabályait, valamint az ellenőrzést végző hatóság által vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben – a védjegybejelentés és a földrajzi árujelzőre vonatkozó bejelentés részletes alaki szabályait rendelettel megállapítsa.
+(2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével – a védjegybejelentés, valamint a kézműves és ipari termékek földrajzi jelzéseire vonatkozó bejelentés részletes alaki szabályait a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszter egyetértésével kiadott rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -2076,7 +2192,7 @@ való megfelelést szolgálja.
 (2) Ez a törvény
 
 - a) az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendeletnek;
-- b)
+- b) a kézműves és ipari termékek földrajzi jelzéseinek oltalmáról, valamint az (EU) 2017/1001 és az (EU) 2019/1753 rendelet módosításáról szóló, 2023. október 18-i (EU) 2023/2411 európai parlamenti és tanácsi rendeletnek;
 - c)
 - d)
 - e)

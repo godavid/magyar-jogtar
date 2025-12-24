@@ -12,30 +12,15 @@ a magyar állampolgárságról szóló 1993. évi LV. törvény és a gyermekek 
 
 #### 1. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-1. § (1) A magyar állampolgárságról szóló 1993. évi LV. törvény (a továbbiakban: Áptv.) 3. § (3) bekezdése a következő c) ponttal egészül ki:
+#### 1. §
 
-(Ellenkező bizonyításig magyar állampolgárnak kell tekinteni:)
+#### 2. §
 
-„c) a születést követően egészségügyi intézményben hagyott gyermeket, ha állampolgársága ismeretlen.”
-
-(2) Az Áptv. 3. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A (3) bekezdés c) pontja szerinti egészségügyi intézményben hagyott gyermeknek kell tekinteni a gyermeket, ha
-
-- a) vele kapcsolatban a gyámhatóság megállapította, hogy örökbefogadható, mert őt az anya közvetlenül a gyermek születését követően a születendő gyermek haza nem adhatóságát megállapító döntés alapján, illetve gyermekvédelmi jelzés miatt vagy anélkül az egészségügyi intézményben hagyta, és
-- b) az anya kórházi zárójelentése kiállításának napjától vagy ennek hiányában a gyermek egészségügyi intézményben hagyásától számított hat héten belül a szülő vagy a gyermek más hozzátartozója írásban vagy jegyzőkönyvbe foglalva nem tett olyan tartalmú külön nyilatkozatot a gyámhivatal előtt, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni.”
-
-2. § Az Áptv. a következő 25/C. §-sal egészül ki:
-
-„25/C. § E törvénynek a magyar állampolgárságról szóló 1993. évi LV. törvény és a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosításáról szóló 2025. évi CXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 3. § (3) bekezdés c) pontját és 3. § (4) bekezdését a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
-
-3. § Az Áptv. 26. § a) pontjában a „23. §-a és 25. §-a” szövegrész helyébe a „23. §-a, 25. §-a és 25/C. §-a” szöveg lép.
+#### 3. §
 
 #### 2. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-4. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 128. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) Nincs szükség a szülő gyámhatósági meghallgatására a közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek örökbefogadhatóságának megállapítására irányuló eljárásban.”
+#### 4. §
 
 #### 3. Záró rendelkezések
 

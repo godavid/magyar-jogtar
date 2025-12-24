@@ -289,7 +289,7 @@ meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföl
 - b) az általa a hitelfelvásárló nevében kezelt és érvényesített egyes nemteljesítő hitelmegállapodásból származó hitelezői jogokkal vagy nemteljesítő hitelmegállapodással összefüggésben kapott utasításokról, és
 - c) a hitelgondozási megállapodásról.
 
-(4) A hitelgondozó a (3) bekezdésben meghatározott nyilvántartásokat kérésre a Felügyelet rendelkezésére bocsátja.
+(4) A hitelgondozó a (3) bekezdésben meghatározott nyilvántartásokat kérésre a Felügyelet, valamint a fogadó EGT-állam illetékes felügyeleti hatósága rendelkezésére bocsátja.
 
 #### 6. Hitelgondozási szolgáltató
 
@@ -343,6 +343,8 @@ meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföl
 
 (6) A hitelgondozó haladéktalanul tájékoztatja a Felügyeletet a (2) bekezdésben meghatározott információkat érintő változásokról. Ebben az esetben a (3)–(5) bekezdésben meghatározottak szerinti eljárás alkalmazandó.
 
+(7) A hitelgondozó által másik EGT-államban határon átnyúló szolgáltatásként, vagy fióktelep létesítésével történő hitelgondozókénti működés a fogadó EGT-állam nemzeti jogában megállapított korlátozásokra és követelményekre figyelemmel végezhető.
+
 20. § Ha másik EGT-állam illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy székhelye szerinti EGT-államban engedélyezett hitelgondozó Magyarországon fióktelepet szándékozik létesíteni vagy határon átnyúló szolgáltatást szándékozik végezni, az erről kapott tájékoztatást a Felügyelet haladéktalanul visszaigazolja a másik EGT-állam illetékes felügyeleti hatóságának.
 
 #### 8. Határon átnyúló szolgáltatásokat végző hitelgondozó felügyelete
@@ -355,7 +357,7 @@ meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföl
 
 (4) A Felügyelet a másik EGT-államban székhellyel rendelkező hitelgondozó Magyarországon végzett határon átnyúló szolgáltatását, valamint fióktelepét saját kezdeményezésére is ellenőrizheti.
 
-(5) A Felügyelet a hitelgondozóval szemben alkalmazott intézkedésekről haladéktalanul értesíti a fogadó EGT-állam illetékes felügyeleti hatóságát, valamint adott esetben azon EGT-állam illetékes felügyeleti hatóságát – amennyiben az a fogadó EGT-államtól eltér – ahol a hitelmegállapodást kötötték.
+(5) A Felügyelet a hitelgondozóval szemben alkalmazott intézkedésekről, a lefolytatott vizsgálatok és ellenőrzések megállapításairól haladéktalanul értesíti a fogadó EGT-állam illetékes felügyeleti hatóságát, valamint adott esetben azon EGT-állam illetékes felügyeleti hatóságát – amennyiben az a fogadó EGT-államtól eltér – ahol a hitelmegállapodást kötötték.
 
 (6) Ha a Felügyeletnek bizonyítéka van arra, hogy a másik EGT-államban székhellyel rendelkező hitelgondozó Magyarországon végzett tevékenysége megsérti a hitelgondozási tevékenység végzésére vonatkozó jogszabályokat, a Felügyelet a szükséges intézkedések megtétele céljából tájékoztatja a hitelgondozó székhelye szerinti EGT-állam illetékes felügyeleti hatóságát. A hitelgondozó székhelye szerinti EGT-állam illetékes felügyeleti hatóságának intézkedései nem érintik a Felügyelet intézkedési lehetőségét.
 
@@ -363,7 +365,7 @@ meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföl
 
 (8) Ha másik EGT-állam illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a Magyarországon székhellyel rendelkező hitelgondozó érintett EGT-államban végzett tevékenysége megsérti a hitelgondozási tevékenység végzésére vonatkozó jogszabályokat, a Felügyelet két hónapon belül tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát a hitelgondozóval szemben hozott intézkedésekről, vagy az intézkedés elmaradása esetén annak okát közlő, indokolással ellátott határozatról. Eljárás kezdeményezése esetén a Felügyelet rendszeresen tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát az eljárás állásáról.
 
-(9) Ha a másik EGT-államban székhellyel rendelkező hitelgondozó Magyarországon végzett tevékenysége a székhelye szerinti EGT-állam illetékes felügyeleti hatóságának intézkedései ellenére továbbra is sérti a hitelgondozási tevékenység végzésére vonatkozó jogszabályokat, a székhely szerinti EGT-állam illetékes felügyeleti hatóságának intézkedései ellenére is jogosult a Felügyelet a hitelgondozóval szemben intézkedést alkalmazni, amennyiben
+(9) Ha a másik EGT-államban székhellyel rendelkező hitelgondozó Magyarországon végzett tevékenysége a székhelye szerinti EGT-állam illetékes felügyeleti hatóságának intézkedései ellenére továbbra is sérti a hitelgondozási tevékenység végzésére vonatkozó jogszabályokat, a székhely szerinti EGT-állam illetékes felügyeleti hatóságának intézkedései ellenére is jogosult a Felügyelet a hitelgondozóval szemben – a székhely szerinti EGT-állam illetékes felügyeleti hatóságának tájékoztatását követően – intézkedést alkalmazni, amennyiben
 
 - a) a hitelgondozó nem tett megfelelő és hatékony lépéseket a jogszabálysértés észszerű időn belüli orvoslására, vagy
 - b) azonnali intézkedésre van szükség a hitelfelvevők kollektív érdekeit fenyegető súlyos veszély kezelése érdekében.
@@ -377,7 +379,7 @@ meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföl
 (2) A hitelintézet, a hitelintézetnek nem minősülő hitelező félévente tájékoztatja a Felügyeletet, valamint adott esetben a fogadó EGT-állam illetékes felügyeleti hatóságát
 
 - a) a hitelfelvásárló, vagy adott esetben a harmadik országbeli hitelfelvásárló kijelölt képviselője jogalany azonosítójáról (LEI), ennek hiányában
-  - aa) a hitelfelvásárló, vagy az irányítási jogkörrel rendelkező testületének tagja és a hitelfelvásárlóban befolyásoló részesedéssel rendelkező természetes személyek, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok személyazonosító adatairól, és
+  - aa) a hitelfelvásárló, vagy az irányítási jogkörrel rendelkező testületének tagja és a hitelfelvásárlóban befolyásoló részesedéssel rendelkező természetes személyek, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok 1. melléklet szerinti személyazonosító adatairól, és
   - ab) a hitelfelvásárló, vagy adott esetben a harmadik országbeli hitelfelvásárló képviselője címéről;
 - b) a nemteljesítő hitelmegállapodásból származó átruházott hitelezői jog vagy az átruházott nemteljesítő hitelmegállapodás alapján fennmaradó követelés összesített egyenlegéről;
 - c) a nemteljesítő hitelmegállapodásból származó átruházott hitelezői jog vagy az átruházott nemteljesítő hitelmegállapodás számáról és értékének nagyságrendjéről;
@@ -419,7 +421,7 @@ meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföl
 
 26. § (1) A hitelfelvásárló vagy képviselője félévente tájékoztatja a Felügyeletet az általa átruházott nemteljesítő hitelmegállapodásból származó hitelezői jog vagy az átruházott nemteljesítő hitelmegállapodás új hitelfelvásárlója, adott esetben annak képviselője jogalany azonosítójáról (LEI), ennek hiányában
 
-- a) az új hitelfelvásárló (képviselő), vagy ügyvezető testületük tagjai és a hitelfelvásárlóban (képviselőjében) befolyásoló részesedéssel rendelkező természetes személyek személyazonosító adatairól,
+- a) az új hitelfelvásárló (képviselő), vagy ügyvezető testületük tagjai és a hitelfelvásárlóban (képviselőjében) befolyásoló részesedéssel rendelkező természetes személyek 1. melléklet szerinti személyazonosító adatairól,
 - b) az új hitelfelvásárló (képviselő) címéről.
 
 (2) A hitelfelvásárló vagy képviselője tájékoztatja továbbá a Felügyeletet
@@ -551,12 +553,14 @@ meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföl
 
 #### 17. Záró rendelkezések
 
-34. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
+34. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
 - a) a hitelgondozó panaszkezelésének eljárására, valamint a panaszkezelési szabályzatra
 - b) a hitelgondozó ügyvezető szerve egészének és az ügyvezető szerv tagjainak a hitelgondozási tevékenység végzéséhez szükséges ismeretek és tapasztalat értékelésére
 
 vonatkozó részletes szabályokat.
+
+(2) Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg a hitelgondozók panaszkezelése formájára és módjára vonatkozó részletes szabályokat.
 
 35. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 16. napon lép hatályba.
 

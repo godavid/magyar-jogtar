@@ -108,11 +108,13 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) A párt részére – az (1) bekezdésben foglalt kivételektől eltekintve – jogi személy, jogi személyiséggel nem rendelkező szervezet vagyoni hozzájárulást nem adhat, a párt jogi személytől, jogi személyiséggel nem rendelkező szervezettől vagyoni hozzájárulást nem fogadhat el.
 
+(2a) Belföldi jogi személy, jogi személyiséggel nem rendelkező szervezet – bármely, nem párttal közös, vagy nem közvetlenül pártot, de annak céljait támogató – tevékenysége tiltott, nem pénzben nyújtott vagyoni hozzájárulásnak minősül, ha azt a párt irányításától nem függetlenül, vagy a párt arculatától nem megkülönböztethető módon végzi, és azt részben vagy egészben külföldi forrásból, vagy külföldi szervezettől – jogi státusától függetlenül –, vagy nem magyar állampolgár természetes személytől származó forrásból valósítja meg.
+
 (3) A párt vagyoni hozzájárulást más államtól nem fogadhat el. A párt külföldi szervezettől – jogi státusától függetlenül – és nem magyar állampolgár természetes személytől vagyoni hozzájárulást nem fogadhat el. A párt névtelen adományt nem fogadhat el; az ilyen adományt be kell fizetni a 8. § (1) bekezdésében meghatározott alapítvány céljaira.
 
-(4) Az a párt, amely a (2) és (3) bekezdésben foglalt szabályt megsértve vagyoni hozzájárulást fogadott el, köteles annak értékét – az Állami Számvevőszék felhívására – tizenöt napon belül a központi költségvetésnek befizetni. Késedelem esetén a tartozást adók módjára kell behajtani. A párt központi költségvetésből juttatott támogatását az elfogadott vagyoni hozzájárulás értékét kitevő összeggel csökkenteni kell.
+(4) Az a párt, amely a (2)–(3) bekezdésben foglalt szabályt megsértve vagyoni hozzájárulást fogadott el, köteles annak értékét – az Állami Számvevőszék felhívására – tizenöt napon belül a központi költségvetésnek befizetni. Késedelem esetén a tartozást adók módjára kell behajtani. A párt központi költségvetésből juttatott támogatását az elfogadott vagyoni hozzájárulás értékét kitevő összeggel csökkenteni kell.
 
-(5) Ha a párt részére a vagyoni hozzájárulást nem pénzben nyújtották, köteles annak értékeléséről (értékének meghatározásáról) gondoskodni. Ha a párt a (2) és (3) bekezdésben foglalt szabályt megsértve tiltott, nem pénzbeli hozzájárulást fogadott el, annak értékét az Állami Számvevőszék állapítja meg.
+(5) Ha a párt részére a vagyoni hozzájárulást nem pénzben nyújtották, köteles annak értékeléséről (értékének meghatározásáról) gondoskodni. Ha a párt a (2)–(3) bekezdésben foglalt szabályt megsértve tiltott, nem pénzbeli hozzájárulást fogadott el, annak értékét az Állami Számvevőszék állapítja meg.
 
 5. § (1) E törvény alapján az állam tulajdonából ingyenesen a központi költségvetésből támogatásra jogosult pártok tulajdonába kerülnek – a (2) bekezdésben foglaltak szerint – a 3. számú mellékletben felsorolt ingatlanok az ott meghatározott tulajdoni hányadok szerint.
 

@@ -1690,7 +1690,7 @@ közötti különbség minimalizálásához vagy kiküszöböléséhez szükség
 
 (5) A (4) bekezdés szerinti korrekció esetén
 
-- a) a korrekciót a teljes kockázati kitettségérték számításának az érintett tagállamok közötti eltérései tekintetében lehet elvégezni a követelmény szintjének módosításával, és
+- a) a korrekciót a teljes kockázati kitettségérték számításának az érintett tagállamok vagy harmadik országok közötti eltérései tekintetében lehet elvégezni a követelmény szintjének módosításával, és
 - b) a korrekció nem alkalmazható a szanálás alá vonható csoportok közötti kitettségekből eredő eltérések kiküszöbölésére.
 
 (6) Ha négy hónapon belül sikertelen a többoldalú eljárás keretében hozott döntés érdekében folytatott konzultáció, akkor a (7)–(10) bekezdés szerint kell eljárni.
