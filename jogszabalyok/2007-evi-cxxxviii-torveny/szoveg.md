@@ -1275,7 +1275,7 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 38. § (1) A Felügyelet a teljességi igazolás kiállításától számított hatvan munkanapon belül (a továbbiakban: ügyintézési határidő) dönt a befolyásszerzési szándékról abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e. Ha a Felügyelet az értékelés alapján a minősített befolyás megszerzését vagy a minősített befolyás mértékének növelését megtagadja, akkor erről az értékelés befejezését követő két munkanapon belül, de legkésőbb az ügyintézési határidőn belül írásban értesíti a kérelmezőt, megadva a döntés indokait.
 
-(2) A Felügyelet a 37/B. § (2) bekezdésében meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén az átvételi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást és a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
+(2) A Felügyelet a 37/B. § (2) bekezdésében meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén a teljességi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást és a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
 
 (3) A hiánypótlásra biztosított határidő húsz munkanap.
 
@@ -1625,7 +1625,7 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 
 (7) A befektetési vállalkozás olyan ügyfél részére, akit előzőleg nem tájékoztatott a telefonon történő üzenetváltások és beszélgetések rögzítéséről, nem végezhet telefonon keresztül befektetési szolgáltatási tevékenységet és nem nyújthat telefonon keresztül kiegészítő szolgáltatást, amennyiben a befektetési szolgáltatási tevékenységek vagy kiegészítő szolgáltatások ügyfélmegbízások fogadásához, továbbításához vagy végrehajtásához kapcsolódnak.
 
-(8) Az ügyfél egyéb úton is adhat megbízást, e közlésnek azonban tartós adathordozón rögzített formában, azaz pl. levélben, faxon vagy e-mailben kell történnie, vagy a személyes találkozókon elhangzott megbízások esetében azt dokumentálni kell. Így az ügyféllel folytatott releváns személyes beszélgetések tartalma írásos jegyzőkönyvek vagy feljegyzések formájában rögzíthető. Az így közölt megbízások a telefonon közölt megbízásokkal egyenértékűnek minősülnek.
+(8) Az ügyfél egyéb úton is adhat megbízást, e közlésnek azonban tartós adathordozón rögzített formában, azaz pl. levélben vagy e-mailben kell történnie, vagy a személyes találkozókon elhangzott megbízások esetében azt dokumentálni kell. Így az ügyféllel folytatott releváns személyes beszélgetések tartalma írásos jegyzőkönyvek vagy feljegyzések formájában rögzíthető. Az így közölt megbízások a telefonon közölt megbízásokkal egyenértékűnek minősülnek.
 
 (9) A befektetési vállalkozás megtesz minden észszerű lépést annak elkerülésére, hogy alkalmazottai vagy közvetítői a releváns telefonbeszélgetéseket és elektronikus üzenetváltásokat olyan, magántulajdonban lévő berendezéseken keresztül bonyolítsák le, amelyekről a befektetési vállalkozás az általuk közvetített tartalmat nem tudja rögzíteni vagy lemásolni.
 
@@ -1976,7 +1976,7 @@ kell mérni.
 - d) a kiszervezett tevékenységet végző személy vagy szervezet felügyeleti hatósággal történő együttműködésének kötelezettségéről, és
 - e) a kiszervezett tevékenység végzésének feltételeiben bekövetkezett változás befektetési vállalkozás felé történő jelentésének módjáról.
 
-(4) A befektetési vállalkozás az (1) bekezdés szerinti, kiszervezésről szóló megállapodást a megkötését követő öt napon belül megküldi a Felügyeletnek.
+(4) A befektetési vállalkozás az (1) bekezdés szerinti, kiszervezésről szóló megállapodást a megkötését követő öt munkanapon belül megküldi a Felügyeletnek.
 
 81. § (1) A befektetési vállalkozás a kiszervezésről szóló megállapodás tárgyát képező tevékenysége vagy szolgáltatása megfelelő színvonalú ellátása érdekében folyamatosan értékeli a kiszervezésről szóló megállapodásban foglaltak teljesülését.
 
@@ -2731,10 +2731,10 @@ részére,
 - c) a járulékos vállalkozásban történő befolyásszerzést, illetőleg a befolyás megszűnését,
 - d) a 22–24. §-ban meghatározott személyi körben bekövetkezett változást,
 - e) a közvetítővel kötött szerződés megszűnését,
-- f) fióktelepének, képviseletének helyét, megnyitását és megszűnését,
+- f)
 - g) a közgyűlésének összehívását a napirend közlésével, valamint a közgyűlés által hozott határozatokat, az utóbbiak lényeges tartalmának összefoglalásával,
 - h) az ügyfélfogadás szüneteltetésének tervét,
-- i) a cégjegyzékben nyilvántartott adatainak változását,
+- i)
 - j) ha vele szemben törvényességi felügyeleti eljárás indult,
 - k) a befektetési vállalkozás szavatoló tőkéje tíz százalékát elérő vagy meghaladó hitelfelvételét és hitelfelvételnek minősülő ügyletét,
 - l) az e törvényben meghatározott közzétételi, nyilvánosságra hozatali kötelezettségek teljesítésére szolgáló közzétételi helyet, és

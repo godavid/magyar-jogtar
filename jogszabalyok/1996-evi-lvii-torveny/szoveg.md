@@ -652,7 +652,7 @@ vonatkozó rendelkezéseit azzal, hogy az ügyfélre vonatkozó szabályokat az 
 - b) a bejelentéssel kapcsolatos eljárásban a 48. § (2) bekezdését, az 55/B. § (1), (2) és (7) bekezdését, az 55/C. §-t, az 55/D. §-t, az 56. §-t, a 63. § (8) bekezdés 1., 9., 10. és 17. pontját, valamint a 64. §-t azzal, hogy a 63. § (8) bekezdés 10. pontjának alkalmazásában ügyfél alatt a bejelentőt kell érteni, illetve
 - c) a panasszal kapcsolatos eljárásban az 55/C. § (1) bekezdését.
 
-(3) A bejelentő kérelmére a Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel élt. A Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a panaszos a Gazdasági Versenyhivatalnál panasszal élt.
+(3) A bejelentő kérelmére a Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel élt. A Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a panaszos a Gazdasági Versenyhivatalnál panasszal élt. Ha a bejelentő vagy a panaszos nyilvánosságra hozza azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel vagy panasszal élt, a Gazdasági Versenyhivatalt nem terheli az e bekezdés szerinti titoktartás.
 
 (4) A bejelentéssel és a panasszal kapcsolatos eljárás irataiba kizárólag a bejelentő, illetve a panaszos tekinthet be a bejelentés tárgyában való döntéshozatalt, illetve a panasszal kapcsolatos eljárás lezárultát követően azzal, hogy korlátozottan megismerhető adat csak akkor ismerhető meg, ha az iratbetekintést kérő igazolja, hogy az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak.
 
@@ -1160,8 +1160,9 @@ kell figyelembe venni.
 - 13. a vizsgálónak, illetve az eljáró versenytanácsnak az ügyfél iratbetekintése tárgyában hozott végzése közlésétől a végzéssel szembeni jogorvoslati határidő lejártáig vagy – ha a jogorvoslati jogról korábban lemondtak – az utolsóként kézhez kapott lemondás beérkezéséig, a vizsgáló végzésével szembeni fellebbezés esetén az eljáró versenytanács véglegessé vált döntésének, illetve az eljáró versenytanács végzésének közigazgatási perben történt megtámadása esetén a bíróság jogerős végzésének közléséig terjedő időtartam,
 - 14. az eljáró versenytanács előzetes álláspontjának, illetve a vizsgálatot lezáró jelentésnek a 73. § szerint az ügyfél részére való megküldésétől az ügyfél nyilatkozatának megtételéig, de legfeljebb a nyilatkozattételre biztosított határidő lejártáig terjedő időtartam,
 - 15. a 75/A. § (1) bekezdése szerinti felhívás közzétételétől az észrevételek benyújtására előírt határidő lejártáig terjedő időtartam,
-- 16. az összefonódás vizsgálatára irányuló, a 67. § (4) bekezdése alapján indított eljárásban a 62. § (1) bekezdés a), illetve b) pontja szerinti igazgatási szolgáltatási díj megfizetésére nyitva álló határidő eredménytelen elteltétől az esedékes díj megfizetéséig terjedő időtartam, valamint
-- 17. a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama.
+- 16. az összefonódás vizsgálatára irányuló, a 67. § (4) bekezdése alapján indított eljárásban a 62. § (1) bekezdés a), illetve b) pontja szerinti igazgatási szolgáltatási díj megfizetésére nyitva álló határidő eredménytelen elteltétől az esedékes díj megfizetéséig terjedő időtartam,
+- 17. a hatósági megkereséstől annak teljesítéséig, de legfeljebb a teljesítésre előírt határidő lejártáig terjedő időtartam, a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama, és
+- 18. az eljáró versenytanács 73/A. § (1) bekezdése szerinti felhívásától az egyezségi nyilatkozat benyújtásáig, illetve – az egyezségi eljárás meghiúsulása esetén – az eljárás alá vontnak az eljáró versenytanács egyezségi eljárás befejezéséről szóló tájékoztatásáig terjedő időtartam.
 
 (9) Az ügyintézési határidőt a Gazdasági Versenyhivatal elnöke, illetve – a versenytanácsi eljárás szakaszában – a Versenytanács elnöke indokolt esetben annak letelte előtt
 
@@ -1263,7 +1264,7 @@ a vizsgálat tárgyát képező jogsértéssel, a vizsgált összefonódással, 
 
 (5) A helyszíni kutatás a bírói engedély közlésétől számított három hónapon belül foganatosítható.
 
-(6) A versenyfelügyeleti eljárást legkésőbb a helyszíni kutatás megkezdésével egy időben meg kell indítani. A vizsgálatot elrendelő végzést a jelen lévő ügyféllel, ideértve az ügyfél jelen lévő alkalmazottját is, a helyszínen közölni kell, az egyéb ügyféllel – a döntés közlésének módjára vonatkozó általános szabályok szerinti közlés megkezdése mellett – telefonon vagy fax útján is közölni kell.
+(6) A versenyfelügyeleti eljárást legkésőbb a helyszíni kutatás megkezdésével egy időben meg kell indítani. A vizsgálatot elrendelő végzést a jelen lévő ügyféllel – ideértve az ügyfél jelen lévő alkalmazottját is – a helyszínen közölni kell, az egyéb ügyféllel a döntés közlésének módjára vonatkozó általános szabályok szerint kell közölni.
 
 (7) A helyszíni kutatásról az érintettet, ideértve az ügyfél helyszínen jelen lévő alkalmazottját, illetve – a magáncélú, illetve magánhasználatú ingatlan, jármű vagy adathordozó esetében – az érintett nagykorú hozzátartozóját is, a helyszíni kutatás megkezdésével egyidejűleg szóban kell értesíteni, és a vizsgálati cselekmény megkezdése előtt közölni kell az érintettel a helyszíni kutatást engedélyező bírói végzést és a vizsgálati cselekmény célját.
 
@@ -1298,7 +1299,7 @@ számított hatvan napon belül kell előterjeszteni.
 (4) A szemle vagy helyszíni kutatás során birtokba vehető az irat, ha
 
 - a) arról kutatási másolat készül,
-- b) az eljárási cselekménynél kizárólag olyan érintett volt jelen, aki az iratok védekezés céljából készült iratkénti minősülésére vonatkozó nyilatkozat megtétele körében az ügyfél vagy az érintett ügyvéd képviseletére nem volt jogosult, illetve
+- b) az eljárási cselekménynél kizárólag olyan személy volt jelen, aki az iratok védekezés céljából készült iratkénti minősülésére vonatkozó nyilatkozat megtételére nem volt jogosult, illetve
 - c) a vizsgáló nem ért egyet az irat védekezés céljából készült iratként való minősítésére vonatkozó nyilatkozattal.
 
 (5) A (4) bekezdés szerinti esetben az iratot, illetve az azt tartalmazó kutatási másolatot olyan tárolóeszközben kell elhelyezni, amely kizárja az adatok megismerhetőségét és utólagos megváltoztathatóságát, és amelyet az érintett és a vizsgáló aláírásukkal hitelesítve úgy zár le, hogy a hitelesítés sérelme nélkül a tárolóeszköz felnyitása ne legyen lehetséges (a továbbiakban: zárt tárolóeszköz).
@@ -1318,6 +1319,8 @@ számított hatvan napon belül kell előterjeszteni.
 (12) A (11) bekezdéstől eltérve, a köztes munkamásolaton szereplő iratok tekintetében, illetve akkor, ha az irat szétválasztása a bizonyító erő sérelme nélkül nem lehetséges, a bíróság végzésében meghatározza, hogy mely irat, illetve az irat mely része minősül védekezés céljából készült iratnak, a köztes munkamásolatot, illetve az iratot pedig zárt tárolóeszközben a Gazdasági Versenyhivatalnak adja ki.
 
 (13) A (12) bekezdés szerint a Gazdasági Versenyhivatalnak kiadott zárt tárolóeszközt felnyitni, az abban foglalt adatokat megvizsgálni csak a köztes munkamásolatról védekezés céljából készült iratot nem tartalmazó vizsgálati munkamásolat készítése, illetve az irat védekezés céljából készült iratnak nem minősülő részének megvizsgálása céljából, az érintett ügyfél jelenlétében lehet, és ezt követően az iratot az ügyfélnek ki kell adni, illetve a köztes munkamásolatot a másolatot tartalmazó adathordozó fizikai megsemmisítésével vagy az adatoknak a helyreállításukat lehetetlenné tévő eljárással való törlésével haladéktalanul meg kell semmisíteni. Az ügyfelet legalább három nappal megelőzően értesíteni kell az ilyen vizsgálati cselekmény időpontjáról, várható időtartamáról és helyéről. A szabályszerűen értesített ügyfél távolmaradása a vizsgálati cselekmény foganatosításának nem akadálya.
+
+(14) E § alkalmazásában ügyfélen vagy érintett ügyfélen a szemlével vagy helyszíni kutatással érintettet is érteni kell.
 
 65/D. § Az 55/C. § (3) bekezdésétől eltérve, a kutatási másolatot a vizsgálati munkamásolat elkészítése után, illetve a 65/C. § (13) bekezdése szerinti eljárási cselekmény befejezésekor kell zárolni, az azokon tárolt adatokba csak a bíróság jogosult betekinteni a bizonyíték-összefoglaló hitelességének, az abban foglalt adatok bizonyítékként való felhasználhatóságának ellenőrzése céljából. Ha a véglegessé vált döntéssel összefüggő jogorvoslat céljából a kutatási másolat és a vizsgálati munkamásolat kezelése már nem indokolt, azt a másolatot tartalmazó adathordozó fizikai megsemmisítésével vagy az adatoknak a helyreállításukat lehetetlenné tévő eljárással való törlésével haladéktalanul meg kell semmisíteni.
 
@@ -1614,7 +1617,7 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 (6) A vizsgálónak az utóvizsgálatban előterjesztett jelentése alapján az eljáró versenytanács a feltétel teljesülésének, illetve az előírt kötelezettség teljesítésének megállapítása esetén az utóvizsgálatot végzéssel megszünteti, ennek hiányában
 
 - a) az (1) bekezdés a) pontja szerinti esetben határozatban megállapítja a feltétel nem teljesülésének tényét, és – ha az összefonódást végrehajtották – a 31. § szerinti intézkedést alkalmazza, valamint bírságot szabhat ki,
-- b) az (1) bekezdés b) pontja szerinti esetben – ha a határozat 32. § (4) bekezdés b) pontja szerinti módosítására nem kerül sor – a 31. § szerinti intézkedést alkalmazza, és bírságot szabhat ki,
+- b) az (1) bekezdés b) pontja szerinti esetben – ha a határozat 32. § (4) bekezdés b) pontja szerinti módosítására nem kerül sor – megállapítja a kötelezettség nem teljesítését, továbbá a 31. § szerinti intézkedést alkalmazhatja, és bírságot szabhat ki,
 - c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti határozatát
   - ca) a 75. § (3) bekezdés b) pontja szerint módosítja,
   - cb) a 75. § (6) bekezdése szerint visszavonja,
@@ -1630,7 +1633,7 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 
 - a) a Gazdasági Versenyhivatal hatáskörébe tartozó jogsértő magatartást valósít meg, ide nem értve a VI. Fejezetben szabályozott magatartásokat,
 - b) az eljáró versenytanács határozatában megtiltott összefonódást a tilalom ellenére végrehajtotta,
-- c) nem teljesítette az összefonódásra vonatkozóan a határozatban előírt kötelezettséget, vagy az összefonódást az eljáró versenytanács határozatában előírt feltétel teljesülése nélkül végrehajtotta, illetve
+- c) határidőben nem teljesítette az összefonódásra vonatkozóan a határozatban előírt kötelezettséget, vagy az összefonódást az eljáró versenytanács határozatában előírt feltétel teljesülése nélkül végrehajtotta, illetve
 - d) az összefonódást a 29. § szerinti tilalom ellenére végrehajtotta, akkor is, ha az eljáró versenytanács határozatában azt állapította meg, hogy az összefonódás nem csökkenti jelentős mértékben a versenyt az érintett piacon.
 - e) az összefonódás-bejelentésben – az összefonódás vizsgálatának elrendelésére kiható módon – lényeges tényt neki felróhatóan félrevezetően közölt, és ezért a 43/N. § (1) bekezdés b) pontja alapján kiadott hatósági bizonyítványt vissza kell vonni, vagy
 - f) a versenyfelügyeleti eljárásban a határozat szempontjából lényeges tényt neki felróhatóan félrevezetően közölt, és ezért a 30. § alapján vagy a 75. § (1) bekezdése alapján hozott határozatot vissza kell vonni.
@@ -2034,7 +2037,9 @@ jogszerűsége tárgyában.
 
 ### A vizsgálati kifogás
 
-81. § Az ügyfél a vizsgálati eljárás szabálytalanságát a szabálytalannak tartott intézkedéstől számított nyolc napon belül kifogásolhatja. A kifogás figyelmen kívül hagyását a vizsgáló a jelentésben, az eljáró versenytanács az eljárást befejező döntésében köteles megindokolni.
+81. § (1) Az ügyfél a vizsgálati eljárás szabálytalanságát a szabálytalannak tartott intézkedéstől számított nyolc napon belül kifogásolhatja. A kifogás figyelmen kívül hagyását a vizsgáló a jelentésben, az eljáró versenytanács az eljárást befejező döntésében köteles megindokolni.
+
+(2) Az ügyfélnek nem minősülő kutatással érintett a 65/A. § (1) bekezdése szerinti helyszíni kutatás szabálytalanságát a szabálytalannak tartott intézkedéstől számított nyolc napon belül kifogásolhatja. A kifogás figyelmen kívül hagyását a vizsgáló a jelentésben, az eljáró versenytanács az eljárást befejező döntésében köteles megindokolni. Az eljáró versenytanács eljárást befejező döntését az ügyfélnek nem minősülő kutatással érintettel is közölni kell, ha az az ügyfélnek nem minősülő helyszíni kutatással érintett kifogásának figyelmen kívül hagyását tartalmazza. Az ügyfélnek nem minősülő kutatással érintett az eljáró versenytanács eljárást befejező döntésének rá vonatkozó része ellen közigazgatási pert indíthat.
 
 ### A közigazgatási hatósági eljárás szabályainak alkalmazása
 
@@ -2608,6 +2613,10 @@ végrehajtási eljárásokra is alkalmazni kell.
 - a) a versenyjogi jogsértést a Gazdasági Versenyhivatal vagy az Európai Bizottság versenyjogi jogsértést megállapító, a Módtv3. hatálybalépését követően hozott határozata állapítja meg,
 - b) az elévülési idő a Módtv3. hatálybalépésekor még nem telt el, és
 - c) a keresetet az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény hatálybalépését követően nyújtották be.
+
+95/N. § (1) A magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel (a továbbiakban: Módtv6.) megállapított 63. § (8) bekezdés 17. pontját a Módtv6. e törvény 63. § (8) bekezdés 17. pontját megállapító rendelkezése hatálybalépésének napját követően indult eljárásban kell alkalmazni.
+
+(2) A Módtv6.-tal megállapított 63. § (8) bekezdés 18. pontját a Módtv6. e törvény 63. § (8) bekezdés 18. pontját megállapító rendelkezése hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### Felhatalmazó rendelkezések
 

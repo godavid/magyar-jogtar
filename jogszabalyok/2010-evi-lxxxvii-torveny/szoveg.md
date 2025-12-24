@@ -516,7 +516,7 @@ követő napon.
 
 (4) A földrészlet közfoglalkoztatási program megvalósítása céljából akkor adható az önkormányzat részére vagyonkezelésbe, ha arra a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó törvények módosításáról szóló törvényben meghatározott, közfoglalkoztatási jogviszony alapján ellátható feladat érdekében van szükség.
 
-22/A. § (1) A Nemzeti Földalapba tartozó földrészlet a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény szerinti bevett egyház vagy annak belső egyházi jogi személye számára oktatási, hitéleti vagy szociális feladatok ellátásának elősegítése érdekében
+22/A. § (1) A Nemzeti Földalapba tartozó földrészlet a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény szerinti bevett egyház vagy annak belső egyházi jogi személye számára oktatási, hitéleti, szociális vagy temető létesítésével, bővítésével és üzemeltetésével kapcsolatos feladatok ellátásának elősegítése érdekében
 
 - a) ingyenesen tulajdonba;
 - b) ingyenesen vagyonkezelésbe

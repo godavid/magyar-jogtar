@@ -67,6 +67,7 @@ a termőföld védelméről
 - 26. talajjavító mederanyag: elsősorban termőföld bemosódásból keletkező, a talaj kedvezőtlen tulajdonságainak megváltoztatására, illetve a kedvező tulajdonságok fenntartására szolgáló, kezelés nélkül termőföldre kihelyezhető mederiszap;
 - 27. kezelt mederiszap: olyan mederiszap, amely szennyezőanyag tartalma miatt biológiai, fizikai, kémiai, vagy más megfelelő eljárást követően, a jogszabályi előírásoknak megfelelően helyezhető ki termőföldre.
 - 28. tájképi elem: az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173 bizottsági végrehajtási rendelet 8. és 9. cikke szerinti támogatásokra vonatkozó eljárás során ekként használt fogalom.
+- 29. mezőgazdasági komposztálás: termőföldön végzett komposztálás, amelyhez mezőgazdasági termelőtevékenység során képződő növényi eredetű, nem veszélyes, természetes szerves anyagot használnak fel.
 
 ### II. Fejezet — A FÖLDHASZNOSÍTÁS, A FÖLDVÉDELEM
 
@@ -122,7 +123,7 @@ a termőföld védelméről
 
 ### Újrahasznosítási eljárás
 
-6. § (1) A más célú hasznosítás megszüntetését követően, illetve a más célú hasznosítás 4 évet meghaladó szüneteltetése esetén az igénybevevő, illetve az igénybevevő személyének eredménytelen megállapítása esetén a terület tulajdonosa (ezen alcím alkalmazásában a továbbiakban együtt: igénybevevő) köteles a területet, de legalább a terület felét – a választása szerint – mező-, illetve erdőgazdasági művelésre alkalmassá tenni (a továbbiakban: újrahasznosítás).
+6. § (1) A más célú hasznosítás megszüntetését követően, illetve a más célú hasznosítás 4 évet meghaladó szüneteltetése esetén az igénybevevő, illetve az igénybevevő személyének eredménytelen megállapítása esetén a terület tulajdonosa (ezen alcím alkalmazásában a továbbiakban együtt: igénybevevő) köteles a területet, de legalább a terület felét – a választása szerint – mező-, illetve erdőgazdasági művelésre alkalmassá tenni (a továbbiakban: újrahasznosítás). Cél-kitermelőhely, anyagnyerő hely és külfejtéses bányászati tevékenység céljára igénybevett terület esetében az újrahasznosítás során a területet legelő vagy rét művelési ágba kell helyreállítani.
 
 (2) A más célú hasznosítás megszüntetését, illetve a más célú hasznosítás szüneteltetése esetén a 4 éves időtartam beálltát követő 60 napon belül az igénybevevő köteles a tervezett újrahasznosítást az ingatlanügyi hatóságnak bejelenteni, kivéve, ha
 
@@ -180,14 +181,14 @@ a termőföld védelméről
 
 ### A termőföld védelmének érvényesítése a településrendezés és a településfejlesztés során
 
-6/B. § (1) Ha az ingatlanügyi hatóság a településfejlesztési és településrendezési terv elkészítése vagy azok módosítása tekintetében az egyeztetési eljárásban véleményező hatóságként működik közre, a termőföld védelmének érvényesítése érdekében érvényre kell juttatnia, hogy a beépítésre szánt területek kijelölése lehetőség szerint a gyengébb minőségű termőföldeken, a lehető legkisebb mértékű termőföld igénybevételével történjen. A vélemény kialakítása során figyelemmel kell lenni továbbá arra, hogy az egyeztetési eljárás tárgyát képező földrészletekkel szomszédos termőföldek megfelelő mezőgazdasági hasznosítását az övezeti átsorolás szerinti területfelhasználás ne akadályozza.
+6/B. § (1) Ha az ingatlanügyi hatóság a településfejlesztési és településrendezési terv elkészítése vagy azok módosítása tekintetében az egyeztetési eljárásban véleményező hatóságként működik közre, a termőföld védelmének érvényesítése érdekében érvényre kell juttatnia, hogy a beépítésre szánt vagy a különleges beépítésre nem szánt területek, a közparkok és a közkertek kijelölése lehetőség szerint a gyengébb minőségű termőföldeken, a lehető legkisebb mértékű termőföld igénybevételével történjen. A vélemény kialakítása során figyelemmel kell lenni továbbá arra, hogy az egyeztetési eljárás tárgyát képező földrészletekkel szomszédos termőföldek megfelelő mezőgazdasági hasznosítását az övezeti átsorolás szerinti területfelhasználás ne akadályozza.
 
-(2) Az egyeztetési eljárásban az ingatlanügyi hatóságnak – a (3) bekezdésben meghatározott eset kivételével – kifogást kell emelni, ha a településrendezési terv készítése, vagy módosítása alapján kijelölt beépítésre szánt területek
+(2) Az egyeztetési eljárásban az ingatlanügyi hatóságnak – a (3) bekezdésben meghatározott eset kivételével – kifogást kell emelni, ha a településrendezési terv készítése, vagy módosítása alapján kijelölt beépítésre szánt vagy különleges beépítésre nem szánt területek, közparkok és közkertek
 
-- a) többségében átlagosnál jobb minőségű termőföldeket érintenek, és a beépítésre szánt terület övezeti besorolásának megfelelő területfelhasználásra hasonló körülmények és feltételek esetén átlagosnál gyengébb vagy átlagos minőségű termőföldeken is sor kerülhet, vagy
-- b) övezeti besorolásának megfelelő területfelhasználásra kellő nagyságú térmértékben lehetőség van a település már beépítésre kijelölt, de még fel nem használt területén is.
+- a) többségében átlagosnál jobb minőségű termőföldeket érintenek, és a beépítésre szánt vagy a különleges beépítésre nem szánt terület, a közpark és a közkert övezeti besorolásának megfelelő területfelhasználásra hasonló körülmények és feltételek esetén átlagosnál gyengébb vagy átlagos minőségű termőföldeken is sor kerülhet, vagy
+- b) övezeti besorolásának megfelelő területfelhasználásra kellő nagyságú térmértékben lehetőség van a település már beépítésre kijelölt vagy különleges beépítésre nem szánt területként, közparknak vagy közkertnek kijelölt, de még fel nem használt területén is.
 
-(3) A (2) bekezdésben foglaltakat nem kell alkalmazni a zártkerti ingatlan esetében, ha a településrendezési terv készítése vagy módosítása a zártkerti ingatlan területének beépítésre szánt területbe történő átsorolása érdekében történik.
+(3) A (2) bekezdésben foglaltakat nem kell alkalmazni a zártkerti ingatlan esetében, ha a településrendezési terv készítése vagy módosítása a zártkerti ingatlan területének beépítésre szánt vagy különleges beépítésre nem szánt területbe, közparkká vagy közkertté történő átsorolása érdekében történik.
 
 ### Földvédelmi eljárás
 
@@ -250,11 +251,13 @@ a termőföld védelméről
 - c) erdő telepítése,
 - d) a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 26. § (4) bekezdésében, az államhatárról szóló 2007. évi LXXXIX. törvény (a továbbiakban: Áhtv.) 5. § (1) bekezdésében meghatározott használati jog gyakorlása, vagy az Áhtv. 15/A. §-ában meghatározott tranzitzóna kialakítása, vagy
 - e) halastó létesítése
-- f) véglegessé vált vízjogi létesítési engedélyben meghatározott vízkivételt biztosító vízilétesítmény vagy mezőgazdasági vízellátást szolgáló vízilétesítmény, valamint az ezekhez kapcsolódó műtárgyak létesítése, illetve építési engedélyezés hatálya alá nem tartozó, öntözéshez kapcsolódó építmények létesítése, vagy
+- f) vízkivételt biztosító vízilétesítmény, legfeljebb 2 hektár területű, mezőgazdasági vízellátást vagy öntözést szolgáló vízilétesítmény, valamint az ezekhez kapcsolódó műtárgyak vagy építmény létesítése,
 - g) az országos jégkármegelőző rendszer kiépítése és működtetése
 - h) kis teljesítményű erőmű földműves tulajdonos, vagy földműves földhasználó általi létesítése, üzemeltetése
 - i) kis teljesítményű erőműnek a h) pont alá nem tartozó személy által az átlagosnál gyengébb minőségű, de legfeljebb hektáronként 15 AK értékű termőföldön történő létesítése, üzemeltetése
 - j) a kulturális örökség egyes elemeinek fenntartható fejlesztéséről szóló törvény szerinti ingatlan rendeltetésszerű használata
+- k) legfeljebb 2 hektár területű vízkárelhárítási célú vízilétesítmény létesítése,
+- l) közjóléti tevékenységgel összefüggésben épített és használt sípálya és annak műszaki tartozékai létesítése vagy fenntartása
 
 céljából veszik igénybe.
 
@@ -265,7 +268,7 @@ céljából veszik igénybe.
 
 szerinti építményeket kell érteni.
 
-(2b) A (2) bekezdés f) pontjában meghatározott földvédelmi engedélyezési eljárás alóli mentesség megállapításához az ingatlanügyi hatóság a végleges vízjogi létesítési engedély beszerzése érdekében megkeresi a vízügyi hatóságot annak megállapítása érdekében, hogy a földvédelmi engedélyezési eljárás alóli mentesség alapjául szolgáló, a végleges más célú hasznosítás iránti kérelemben megjelölt cél, az igénybevétellel érintett terület és annak nagysága megegyezik-e a végleges vízjogi létesítési engedélyben foglaltakkal. A végleges határozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére.
+(2b) A (2) bekezdés f) pontja szerinti esetben az igénybevevő a más célú hasznosítást annak megkezdésétől számított 8 napon belül bejelenti az ingatlanügyi hatóságnak.
 
 (2c) A termőföld más célú hasznosítása mentes az ingatlanügyi hatóság utólagos hozzájárulása alól, ha a termőföldön természetes módon megjelenő víz állandó vízborítottságot eredményez, amelynek megtartása vízgazdálkodási szempontból szükséges és indokolt.
 
@@ -296,7 +299,7 @@ szerinti építményeket kell érteni.
 
 11. § (1) Termőföldet más célra csak kivételesen – elsősorban a gyengébb minőségű termőföld igénybevételével – lehet felhasználni.
 
-(1a) Olyan termőföld, melynek tulajdoni lapján fenntartható vízgazdálkodási közösség területe jogi jelleg került bejegyzésre, az igénybevevő személyétől függetlenül kizárólag a (3) bekezdés g) pontja, a 10. § (2) bekezdés a), b), d), f) és g) pontja, a 15/B. § (3) bekezdése, valamint a 21. § (3) bekezdés a), b) és f) pontja szerinti esetekben hasznosítható más célra.
+(1a) Olyan termőföld, melynek tulajdoni lapján fenntartható vízgazdálkodási közösség területe jogi jelleg került bejegyzésre, az igénybevevő személyétől függetlenül kizárólag a (3) bekezdés f) és g) pontja, a 10. § (2) bekezdés a), b), d), f) és g) pontja, a 15/B. § (3) bekezdése, valamint a 21. § (3) bekezdés a) és b) pontja szerinti esetekben hasznosítható más célra.
 
 (2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetve helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető. A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás és a kiemelt közlekedési infrastruktúra-beruházással összefüggő kiemelt jelentőségű ügy esetében az átlagosnál jobb minőségű termőföld végleges más célú hasznosítása is engedélyezhető, ha annak megvalósítása más jogszabály rendelkezéseire figyelemmel más helyen vagy más nyomvonalon nem lehetséges.
 
@@ -307,7 +310,7 @@ szerinti építményeket kell érteni.
 - c) azt a területet, amelyet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánított;
 - d) kis teljesítményű erőmű létesítését a betáplálásra alkalmas villamosenergia-elosztói hálózat 1000 méteres közvetlen környezetében;
 - e) a régészeti lelet feltárásához és megőrzéséhez szükséges területigényt.
-- f) a legfeljebb 1 hektár területű termőföldet érintő, a 21. § (3) bekezdés f) pontja szerinti más célú hasznosítást;
+- f) a nyilvántartott mezőgazdasági termelő természetes személy tulajdonos, haszonélvező és a földhasználati nyilvántartásban szereplő földhasználó által legfeljebb 1 hektár területű termőföldet érintő olyan igénybevételt, amelynek célja a termőföld művelési ágának megfelelő műveléshez, mezőgazdasági termeléshez vagy erdőgazdasági tevékenységhez kapcsolódó eszköz telepítése vagy építmény elhelyezése;
 - g) a legfeljebb 1 hektár területű termőföldet érintő, nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás vagy kiemelt beruházásnak minősülő közlekedési infrastruktúra-beruházás megvalósítását, építését vagy üzemeltetését szolgáló létesítmény vagy tárolótér elhelyezését, annak közműkapcsolatainak kiépítését.
 
 (3a) A helyhez kötöttséget megalapozó körülmény fennállását – a (3) bekezdés c) pontjában foglalt kivétellel – az igénybevevőnek kell igazolni a kérelem benyújtásakor. Az igénybevétel helyhez kötöttségét nem alapozza meg önmagában a létesítmény elhelyezésének célszerűsége, a településrendezési eszközök által szabályozott területfelhasználási mód, a termőföld tulajdonosainak együttműködési hajlandósága miatti beruházói könnyebbség, illetve ha az igénybevevőnek többletterhet jelentene a beruházás más ingatlanon történő megvalósítása.
@@ -382,7 +385,7 @@ szerinti építményeket kell érteni.
 
 (1a) Nem minősül időleges más célú hasznosításnak az ingatlan-nyilvántartásban foktó jogi jelleggel nyilvántartott földrészleten természetes módon megjelenő időszakos vízborítottság akkor sem, ha az az (1) bekezdés szerinti következményekkel jár, feltéve, hogy a vízzel való folyamatos borítottság időtartama nem haladja meg az 1 évet.
 
-(1b) Nem minősül időleges más célú hasznosításnak a földrészleten begyűjtött terménynek, vagy mellékterméknek, illetve a területre kijuttatni tervezett istállótrágyának az időszerű mezőgazdasági munkavégzésnek megfelelő módon és időtartamban, de legfeljebb 6 hónapig a termőföldön történő átmeneti tárolása.
+(1b) Nem minősül időleges más célú hasznosításnak a földrészleten begyűjtött terménynek, vagy mellékterméknek, illetve a területre kijuttatni tervezett istállótrágyának és a mezőgazdasági komposztnak az időszerű mezőgazdasági munkavégzésnek megfelelő módon és időtartamban, de legfeljebb 6 hónapig a termőföldön történő átmeneti tárolása, azonban azt a tevékenység megkezdését megelőzően legalább 8 nappal be kell jelenteni az ingatlanügyi hatósághoz.
 
 (2) A termőföld időleges más célú hasznosítása csak meghatározott időre, legfeljebb 5 évre engedélyezhető. Az időlegesen más célra hasznosított termőföldet az igénybevevő az engedélyező határozatban megállapított határidő vagy határnap lejártáig – a (9) bekezdésben meghatározott eset kivételével – köteles az eredeti állapotába helyreállítani. Az engedélyező határozatban elő kell írni, hogy az eredeti állapot helyreállítását a talajvédelmi terv szerint kell végrehajtani.
 
@@ -493,8 +496,9 @@ esetében.
 (5) El kell utasítani a belterületbe vonás iránti kérelmet,
 
 - a) ha az nem olyan földrészletekre vonatkozik, amelyeket az önkormányzat a településrendezési tervben meghatározott célra 4 éven belül ténylegesen felhasználni tervez,
-- b) ha az olyan területfelhasználási célra irányul, amely a település belterületén beépítésre kijelölt, de még fel nem használt területén megvalósítható, vagy
-- c) ha a kérelemben és a képviselő-testületi döntésben megjelölt földrészletek nem azonosak.
+- b) ha az olyan területfelhasználási célra irányul, amely a település belterületén beépítésre kijelölt, de még fel nem használt területén megvalósítható,
+- c) ha a kérelemben és a képviselő-testületi döntésben megjelölt földrészletek nem azonosak, vagy
+- d) ha a kérelem benyújtását megelőzően az önkormányzat részére engedélyezett bármilyen célú belterületbe vonást engedélyező határozat alapján a tényleges felhasználásra 4 éven belül nem került sor, és az önkormányzat nem intézkedett a terület külterületbe visszacsatolása iránt.
 
 (6) Új község alakítása, településegyesítés megszüntetése esetén a belterületbe vonás során, valamint zártkerti ingatlannak a belterületbe vonása során a (2) bekezdés utolsó mondatát, a (3)–(5) bekezdés rendelkezéseit, továbbá a 11. § (2) bekezdésének első mondatát nem kell alkalmazni.
 
@@ -514,6 +518,8 @@ esetében.
 
 15/B. § (1) A cél-kitermelőhely és anyagnyerő hely létesítéséhez és a külfejtéses bányászati tevékenység végzéséhez (a továbbiakban együtt: cél-kitermelőhely) szükséges termőföld más célú hasznosításának engedélyezése esetén a 9–13. §-ban foglaltakat ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
+(1a) Az (1) bekezdés szerinti tevékenység céljára igénybe vett, majd újrahasznosított területekről az ingatlanügyi hatóság a 6. melléklet szerinti adattartalommal nyilvántartást vezet.
+
 (2) A cél-kitermelőhely létesítéséhez szükséges termőföld végleges más célú hasznosításának engedélyezése iránti kérelmet a külön törvény szerinti építtető, az építtetővel szerződéses jogviszonyban álló vállalkozó, és a bányavállalkozó (ezen alcímben a továbbiakban együtt: jogosult) nyújthat be. A kérelemnek – a 12. § (1) bekezdésben foglaltakon túl – tartalmaznia kell a tevékenység megszüntetését követően a terület helyreállításának, természeti környezetbe való visszahelyezésének tervezett módját.
 
 (3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a Kormány a Magyar Közlönyben közzétett határozatával cél-kitermelőhely létesítése céljából az ásványi nyersanyag kitermelési, kinyerési, illetve a külfejtéses bányászati tevékenységgel érintett területet beruházási célterületté, vagy azt a beruházást, amelyre figyelemmel a célkitermelést végzik – a cél-kitermelőhellyel érintett termőföldterületek pontos lehatárolásával – nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, a célkitermelést pedig ahhoz közvetlenül kapcsolódónak nyilvánította.
@@ -528,7 +534,7 @@ esetében.
 
 (6) Az újrahasznosítás bejelentése esetén az eljárásra a 6/A. § (1)–(3) bekezdésében foglaltakat kell alkalmazni azzal, hogy a 6/A. § (3) bekezdése szerinti földvédelmi bírság kiszabásának nincs helye.
 
-(7) Az újrahasznosítás elfogadásáról szóló határozat alapján, annak véglegessé válását követő 60 napon belül, a jogosult kérheti az újrahasznosítás elfogadásáról rendelkező határozatban szereplő, az újrahasznosítást követően kialakult termőföldre, annak minősége és aranykorona-értéke alapján az 1. melléklet 1. pontja alapján kiszámított földvédelmi járulék 50%-ának megfelelő pénzösszeg megfizetését, feltéve, hogy a jogosult a cél-kitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban a végleges más célú hasznosításért megállapított földvédelmi járulékot maradéktalanul megfizette. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az újrahasznosítás elfogadásáról szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
+(7) Az újrahasznosítás elfogadásáról szóló határozat alapján, annak véglegessé válását követő 60 napon belül, a jogosult kérheti az újrahasznosítás elfogadásáról rendelkező határozatban szereplő, az újrahasznosítást követően kialakult termőföldre, annak minősége és aranykorona-értéke alapján az 1. melléklet 1. pontja alapján kiszámított földvédelmi járulék 50%-ának megfelelő – de legfeljebb az adott területre korábban megfizetett földvédelmi járulék összegével azonos összegű – pénzösszeg megfizetését, feltéve, hogy a jogosult a cél-kitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban a végleges más célú hasznosításért megállapított földvédelmi járulékot maradéktalanul megfizette. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az újrahasznosítás elfogadásáról szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
 
 ### Kisajátítás alapjául szolgáló közérdekű cél megvalósításához szükséges más célú hasznosítás engedélyezésére vonatkozó különös szabályok
 
@@ -689,17 +695,17 @@ esetében.
 (3) Nem kell járulékot fizetni, ha az ingatlanügyi hatóság a termőföld más célú hasznosítását
 
 - a) talajvédelmet szolgáló létesítmény megvalósítása,
-- b) vízkárelhárítási vagy öntözési célú vízilétesítmény létesítése, ezek, valamint a meder rekonstrukciója, fejlesztése, üzemeltetése, vagy fenntartása, továbbá a védekezést követő helyreállítása,
+- b) meder rekonstrukciója, fejlesztése, üzemeltetése, vagy fenntartása, továbbá a védekezést követő helyreállítása,
 - c) közüzemi lakossági ivóvízellátást, valamint szennyvízelvezetést és -tisztítást szolgáló műtárgyak és azok védőterülete létesítése,
 - d) védett természeti területek természetvédelmi kezeléséért felelős szerv részére, jogszabályban, vagy e szerv alapító okiratában foglalt, valamint közösségi vagy hazai költségvetési forrás felhasználásával megvalósuló természetvédelmi célú feladatok ellátása,
 - e) legfeljebb 2 hektár területnagyságú termőföld igénybevételével járó állami vagy önkormányzati szociális intézmény, egészségügyi- és sportlétesítmény építése, temető létesítése, bővítése,
-- f) a termőföld művelési ágának megfelelő műveléshez, mezőgazdasági termeléshez vagy erdőgazdasági tevékenységhez közvetlenül kapcsolódó eszköz telepítése vagy építmény elhelyezése,
-- g)
+- f)
+- g) időleges más célú hasznosításként az engedélyben szereplő termőföldön történő felhasználásra kerülő komposzt előállítására irányuló mezőgazdasági komposztálási tevékenység,
 - h) belterületbe vonás esetén állami, önkormányzati bérlakásépítés megvalósítása,
 - i) belterületbe vonás esetén új község alakítása, településegyesítés megszüntetése,
 - j) termálvíz-hasznosító létesítményekből kibocsátott használt termálvizek átmeneti tározására és természetközeli tisztítására szolgáló – lehetőség szerint többcélú – állandó jellegű tározók létesítése és bővítése,
 - k)
-- l) csapadékvíz összegyűjtésére szolgáló tározó létesítése, üzemeltetése, bővítése,
+- l)
 - m) kis teljesítményű erőmű építése,
 - n) állandó jellegű növényház létesítése
 
@@ -707,16 +713,16 @@ céljából engedélyezi.
 
 (3a) A (3) bekezdésben foglaltakon túl nem kell járulékot fizetni, ha az ingatlanügyi hatóság a termőföld más célú hasznosítását
 
-- a) a külön jogszabály szerinti ügyfél-nyilvántartásban regisztrált mezőgazdasági termelő természetes személy tulajdonos (haszonélvező) részére, mezőgazdasági tevékenységhez közvetlenül kapcsolódó, legfeljebb 1000 m2 területnagyságú területre,
+- a) a külön jogszabály szerinti ügyfél-nyilvántartásban regisztrált mezőgazdasági termelő természetes személy tulajdonos (haszonélvező) és a földhasználati nyilvántartásban szereplő földhasználó részére, mezőgazdasági tevékenységhez kapcsolódó, legfeljebb 1000 m2 területnagyságú területre,
 - b) természetes személy tulajdonos (haszonélvező) részére, legfeljebb 400 m2 nagyságú területre
 
 engedélyezi.
 
 (3b) A (3a) bekezdésben meghatározott járulékmentesség nem illeti meg a természetes személy tulajdonost (haszonélvezőt), abban az esetben, ha a földrészleten engedély nélküli más célú hasznosítást valósított meg.
 
-(3c) A (3a) bekezdésben meghatározott járulékmentesség a tulajdonost (haszonélvezőt) – közös tulajdonban álló földrészlet esetén egy tulajdonostársat – csak egyszer illeti meg. Ezen a címen – 10 éven belül – ismételt járulékmentesség tulajdonosváltozás esetén az új tulajdonost, illetve az új haszonélvezőt nem illeti meg, továbbá a földrészlet megosztásával nem nyílik meg ismételten e címen a járulékmentesség.
+(3c) A (3a) bekezdésben meghatározott járulékmentesség a tulajdonost (haszonélvezőt) – közös tulajdonban álló földrészlet esetén egy tulajdonostársat – vagy a földhasználati nyilvántartásban szereplő földhasználót csak egyszer illeti meg. Ezen a címen – 10 éven belül – ismételt járulékmentesség tulajdonosváltozás esetén az új tulajdonost, illetve az új haszonélvezőt, továbbá a földhasználó személyében bekövetkező változás esetén az új földhasználót nem illeti meg, továbbá a földrészlet megosztásával nem nyílik meg ismételten e címen a járulékmentesség.
 
-(3d) A (3) bekezdés j) és l) pontjában meghatározott járulékmentesség megállapításához az ingatlanügyi hatóság a végleges vízjogi létesítési engedély beszerzése érdekében megkeresi a vízügyi hatóságot annak megállapítása érdekében, hogy a járulékmentesség alapjául szolgáló, a végleges más célú hasznosítás iránti kérelemben megjelölt cél, az igénybevétellel érintett terület és annak nagysága megegyezik-e a végleges vízjogi létesítési engedélyben foglaltakkal. A végleges határozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére. Eltérés esetén az igénybevevőt járulékmentesség nem illeti meg.
+(3d) A (3) bekezdés j) pontjában meghatározott járulékmentesség megállapításához az ingatlanügyi hatóság a végleges vízjogi létesítési engedély beszerzése érdekében megkeresi a vízügyi hatóságot annak megállapítása érdekében, hogy a járulékmentesség alapjául szolgáló, a végleges más célú hasznosítás iránti kérelemben megjelölt cél, az igénybevétellel érintett terület és annak nagysága megegyezik-e a végleges vízjogi létesítési engedélyben foglaltakkal. A végleges határozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére. Eltérés esetén az igénybevevőt járulékmentesség nem illeti meg.
 
 (4) A (3) bekezdés a) pontjában meghatározott talajvédelmet szolgáló létesítménynek minősül: a meliorációs tervekben előirányzott munkálat, létesítmény, valamint a káros belvizek elvezetését szolgáló csatorna és vízfolyás létesítése.
 
@@ -762,7 +768,7 @@ esedékes.
 
 (5) A járulék fizetése alól felmentés nem adható és részletfizetési vagy egyéb kedvezmény sem engedélyezhető.
 
-(6) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósult meg, és a más célú hasznosításról szóló engedély időbeli hatálya már lejárt, a járulék megfizetésének esedékessé válása napjától számított 4 éven belül a járulékkülönbözet visszafizetését kérheti az igénybevevő. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az újrahasznosítás elfogadásáról szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
+(6) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósult meg, és a más célú hasznosításról szóló engedély időbeli hatálya már lejárt, a járulék megfizetésének esedékessé válása napjától számított 4 éven belül a járulékkülönbözet visszafizetését kérheti az igénybevevő. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az engedélyről szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
 
 (6a) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósult meg, és a más célú hasznosításról szóló engedély időbeli hatálya még nem járt le, az igénybevevő a (6) bekezdésben meghatározottak szerint kérheti a járulékkülönbözet visszafizetését, azzal, hogy a kérelmében nyilatkoznia kell arról, hogy az engedélyezett, de más célra nem hasznosított termőföld más célú hasznosításának jogosultságáról lemond.
 
@@ -775,7 +781,7 @@ esedékes.
   - ba) igénybevételére, illetve
   - bb) belterületbe vonás engedélyezése esetén a fekvéshatár-változásnak, beruházási terület, illetve beruházási célterület céljára történő engedélyezés esetén a művelésiág-változásnak az ingatlan-nyilvántartásban történő átvezetésére nem került sor,
 
-a földvédelmi járulékot megfizető személy vagy szervezet a járulék összegének visszafizetését az engedély hatályának lejárta napját követő 1 éven belül kérheti. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az újrahasznosítás elfogadásáról szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
+a földvédelmi járulékot megfizető személy, szervezet, vagy ezek jogutóda a járulék összegének visszafizetését az engedély hatályának lejárta napját követő 1 éven belül kérheti. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A kérelem benyújtható elektronikus formában a földvédelmi eljárások lefolytatását támogató informatikai rendszerben vagy papíralapon annál az ingatlanügyi hatóságnál, amely az engedélyről szóló határozatot hozta. A kérelemben meg kell jelölni azt a számlaszámot és az azt vezető pénzintézet megnevezését, ahova átutalással a kérelmező az összeg megfizetését kéri.
 
 23. § (1) A járulék felét kell fizetni, ha a termőföldet engedély alapján és annak megfelelően
 
@@ -877,7 +883,7 @@ iránti kérelemről – a (7) bekezdésben meghatározott esetek kivételével 
 
 (5a) A (4a) és (5) bekezdés szerinti eljárásokban nincs helye sommás eljárásnak.
 
-(6) Ha a kérelem nem tartalmazza a 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározott adatokat, az ingatlanügyi hatóság a kérelmezőt hiánypótlásra szólítja fel.
+(6) Ha a kérelem nem felel meg a 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében foglalt követelményeknek, és a hiányosság pótolható, az ingatlanügyi hatóság a kérelmezőt hiánypótlásra szólítja fel.
 
 (7) A kérelemnek az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 46. §-a szerinti visszautasításáról – ideértve azt az esetet is, ha a kérelem a 15/B. § (7) bekezdésében, illetve a 22. § (6) vagy (8) bekezdésében meghatározott határidőn túl került benyújtásra –, továbbá ha a kérelmező a (6) bekezdésben meghatározott esetben a hiánypótlási felhívásnak határidőben nem tesz eleget, vagy az Ákr. szerinti egyéb megszüntetési ok felmerülése esetén az eljárás megszüntetéséről az ingatlanügyi hatóság hoz döntést.
 
@@ -1133,6 +1139,7 @@ kell gondoskodnia a talaj szervesanyag-tartalmának megőrzéséről.
 - b) nem mezőgazdasági eredetű nem veszélyes hulladék termőföldön történő felhasználásához,
 - c) mezőgazdasági termelés során keletkező nem veszélyes hulladék termőföldön történő felhasználásához, kivéve a mezőgazdasági táblán keletkező növényi maradványokat,
 - d) szennyvíziszap komposzt mezőgazdasági felhasználásához.
+- e) mezőgazdasági komposztáláshoz.
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a talajvédelmi hatóságnak történő bejelentéssel történhet:
 
@@ -1146,13 +1153,13 @@ kell gondoskodnia a talaj szervesanyag-tartalmának megőrzéséről.
 
 (4) Az (1) bekezdés a)–b) pontjában írt tevékenységek engedélyezéséhez a földügyért felelős miniszter rendeletében meghatározott talajvédelmi terv is szükséges.
 
-(5) Az (1) bekezdés c)–d) pontjában meghatározott tevékenység engedélyezése a földügyért felelős miniszter rendelete szerinti egyszerűsített talajvédelmi terv szükséges.
+(5) Az (1) bekezdés c)–e) pontjában meghatározott tevékenység engedélyezése a földügyért felelős miniszter rendelete szerinti egyszerűsített talajvédelmi terv szükséges.
 
 (6) A (2) bekezdésben foglalt tevékenységek a bejelentést követően a talajvédelmi terv érvényességi idejéig folytathatóak, ezt követően a talajvédelmi terv készítésének szabályairól szóló rendelet szerinti ellenőrző vizsgálatokat kell végezni.
 
 (7) A (2) bekezdés a)–d) pontja szerinti bejelentéshez csatolni kell a földügyért felelős miniszter rendeletében meghatározott talajvédelmi tervet, a (2) bekezdés e) pontja szerinti bejelentéshez – ha jogszabály eltérően nem rendelkezik – csatolni kell az egyszerűsített talajvédelmi tervet, továbbá a (2) bekezdés b)–c) pontjában írt tevékenységhez kiviteli terv is szükséges.
 
-(8) Az (1) bekezdés a)–d) és a (2) bekezdés b), c) és e) pontjában írt tevékenység esetén, amennyiben az ügyfél az érintett termőföldnek
+(8) Az (1) bekezdés a)–e) és a (2) bekezdés b), c) és e) pontjában írt tevékenység esetén, amennyiben az ügyfél az érintett termőföldnek
 
 - a) nem tulajdonosa, de földhasználója, úgy a tulajdonos,
 - b) nem tulajdonosa és nem földhasználója, úgy mindkettő,
@@ -1431,7 +1438,7 @@ részletes szabályait.
 - b) a termőföld talajvédelmének egyes szabályait,
 - c) a talajvédelmi terv készítésének részletes szabályait,
 - d) a beruházások kiviteli és engedélyezési terveinek talajvédelmi követelményeit,
-- e) a komposztok mezőgazdasági felhasználásának és minősítési rendszerének részletes szabályait,
+- e) a mezőgazdasági komposztálás, valamint a komposztok mezőgazdasági felhasználásának és minősítési rendszerének részletes szabályait,
 - f) gyümölcstermőhelyi kataszter részletes szabályait,
 - g) a gyümölcsültetvény kataszter részletes szabályait, a kísérleti gyümölcsültetvény-telepítés engedélyezésének szabályait,
 - h) a talajvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
@@ -1577,8 +1584,8 @@ A 26/A. § (2a) bekezdése szerinti nyilvántartás a következő adatokat tarta
 - 10.8. lakóingatlan, szociális intézmény, egészségügyi- és sportlétesítmény építése,
 - 10.9. mezőgazdasági célú beruházás,
 - 10.10. egyéb;
-- 11. annak megjelölése, hogy a beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, és a kiemelt beruházással összefüggő földvédelmi eljárást kiemelt jelentőségű üggyé nyilvánította-e;
-- 12. annak megjelölése, hogy a területet a Kormány beruházási célterületté nyilvánította-e;
+- 11. belterületbe vonás kivételével a 26/A. § (2a) bekezdés a) pontja szerinti esetben annak megjelölése, hogy a beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, és a kiemelt beruházással összefüggő földvédelmi eljárást kiemelt jelentőségű üggyé nyilvánította-e;
+- 12. belterületbe vonás kivételével a 26/A. § (2a) bekezdés a) pontja szerinti esetben annak megjelölése, hogy a területet a Kormány beruházási célterületté nyilvánította-e;
 - 13. a földvédelmi engedély típusa – végleges más célú hasznosítást engedélyező határozat vagy az engedély nélküli más célú hasznosítás miatt indult eljárásban hozott utólagos engedélyező határozat;
 - 14. az engedélyező határozat száma;
 - 15. az engedély véglegessé válásának időpontja;
@@ -1586,6 +1593,7 @@ A 26/A. § (2a) bekezdése szerinti nyilvántartás a következő adatokat tarta
 - 17. az igénybevevő
 - 17.1. természetes személy természetes személyazonosító adatai, lakcíme és 2026. december 31-ig a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy személyi azonosítója,
 - 17.2. nem természetes személy megnevezése, adószáma, statisztikai azonosítója, székhelye, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszáma.
+- 18. az igénybevétel megkezdésének napja.
 
 ### 5. melléklet a 2007. évi CXXIX. törvényhez
 
@@ -1610,3 +1618,18 @@ A 26/A. § (2a) bekezdése szerinti nyilvántartás a következő adatokat tarta
 - 17. az igénybevevő
 - 17.1. természetes személy természetes személyazonosító adatai, lakcíme és 2026. december 31-ig a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy személyi azonosítója,
 - 17.2. nem természetes személy megnevezése, adószáma, statisztikai azonosítója, székhelye, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszáma.
+
+### 6. melléklet a 2007. évi CXXIX. törvényhez
+
+A 15/B. § (1a) bekezdése szerinti nyilvántartás alrészletenkénti bontásban a következő adatokat tartalmazza:
+
+- 1. település;
+- 2. fekvés;
+- 3. helyrajzi szám;
+- 4. alrészlet jel;
+- 5. művelési ág;
+- 6. minőségi osztály;
+- 7. újrahasznosított terület térmértéke (ha);
+- 8. újrahasznosított terület AK értéke;
+- 9. az újrahasznosítást elfogadó határozat száma;
+- 10. a határozat véglegessé válásának időpontja.

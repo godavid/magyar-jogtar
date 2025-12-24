@@ -26,7 +26,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (4) Az Eximbankra és a Mehibre a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata nemzetközi versenyképességet javító befektetéseire, beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, a magyar befektetők külföldi befektetéseire, külföldiek magyarországi beruházásaira vonatkozóan, továbbá a Kormány egyedi döntése alapján egyéb célokból jogosult végezni.
+(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata befektetéseire, beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, a magyar befektetők külföldi befektetéseire, külföldiek magyarországi beruházásaira vonatkozóan, továbbá a Kormány egyedi döntése alapján egyéb célokból jogosult végezni.
 
 (5a) E törvény alkalmazásában:
 
@@ -44,7 +44,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (8) Az Eximbank a prudenciális követelmények tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) szerint jár el az e törvényben foglalt eltérésekkel.
 
-2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata nemzetközi versenyképességet javító befektetéseihez, beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, a Magyarországon megvalósuló külföldi beruházásokhoz az előbbiekhez, illetve az ezek érdekében létrejött jogviszonyokhoz kapcsolódóan, továbbá a Kormány egyedi döntése alapján egyéb célokból az alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
+2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata befektetéseihez, beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, a Magyarországon megvalósuló külföldi beruházásokhoz az előbbiekhez, illetve az ezek érdekében létrejött jogviszonyokhoz kapcsolódóan, továbbá a Kormány egyedi döntése alapján egyéb célokból is az alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
 
 - a) hitel és pénzkölcsön nyújtása;
 - b) kezesség és garancia vállalása, valamint egyéb bankári kötelezettség vállalása;
@@ -68,7 +68,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (1c) Az Eximbank felelős az (1b) bekezdés szerint megkötött szerződések magyar kormányzati fejlesztési együttműködési politika szerinti végrehajtásáért és a szerződésből eredő kötelezettségek teljesítéséért. Az Eximbank a megkötött szerződések végrehajtásáról és azok nemzetközi fejlesztési együttműködési szempontú eredményességéről a nemzetközi pénzügyi kapcsolatokért és a nemzetközi fejlesztési együttműködésért felelős miniszterek részére évente jelentést készít.
 
-(1d) Az Eximbank az (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi alternatív befektetési alap alapításához vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet jegyezni vagy megszerezni.
+(1d) Az Eximbank az (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi alternatív befektetési alap vagy más, az adott külföldi jog szerinti kollektív befektetési formának minősülő entitás alapításához vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet, társasági részesedést vagy az adott kollektív befektetési formának megfelelő jogi formában és jogcímen fennálló egyéb érdekeltséget megszerezni.
 
 (1e) Az Eximbank a Kormány határozata alapján az (1d) bekezdés szerinti tevékenységet az állam nevében is végezheti, ekkor az alapításhoz vagy csatlakozáshoz szükséges fedezetet a központi költségvetés terhére kell biztosítani, e kifizetéseket a miniszter irányítása alá tartozó központi költségvetési fejezetben kell megtervezni és elszámolni.
 
@@ -116,18 +116,15 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 - a) az adós vagy kezese nemfizetése, késedelmes fizetése miatt,
 - b) az adós vagy kezese fizetésképtelensége miatt,
-- c) az exportcélú szerződés vevő általi jogalap nélküli felmondása vagy a szerződés tárgyát képező áruk, szolgáltatások átvételének megtagadása miatt
+- c) az exportcélú szerződés vevő általi jogalap nélküli felmondása vagy a szerződés tárgyát képező áruk, szolgáltatások átvételének megtagadása miatt,
 - d) az (1) bekezdés d) ponthoz kapcsolódó vagyoni károk kockázata miatt
-
-merülnek fel.
 
 merülnek fel.
 
 (8) E § alkalmazásában
 
-a) állami adós: a központi kormányzat, a jegybank, továbbá a regionális és a helyi önkormányzat, illetve az irányításuk alatt álló minden olyan szervezet, amely a szervezet székhelye szerinti állam joga alapján sem jogi, sem közigazgatási úton nem nyilvánítható fizetésképtelennek;
-
-b) magánadós: az a) pontba nem tartozó szervezet.
+- a) állami adós: a központi kormányzat, a jegybank, továbbá a regionális és a helyi önkormányzat, illetve az irányításuk alatt álló minden olyan szervezet, amely a szervezet székhelye szerinti állam joga alapján sem jogi, sem közigazgatási úton nem nyilvánítható fizetésképtelennek;
+- b) magánadós: az a) pontba nem tartozó szervezet.
 
 (9) A (4) bekezdés a) pontjában foglalt kockázatok az exportcélú szerződések gyártási és teljesítési szakaszaira biztosíthatóak, illetőleg viszontbiztosíthatók.
 
@@ -162,7 +159,7 @@ b) magánadós: az a) pontba nem tartozó szervezet.
 - a) forrásszerzés céljából a 2. § (1) bekezdés g) pont ga) alpontja alapján elfogadott betétekből és igénybe vett hitelekből, felvett kölcsönökből, forrásszerzés céljából a 2. § (1) bekezdés g) pont gb) alpontja alapján kibocsátott kötvényekből,
 - b) kormányrendeletben előírt feltételekkel vállalt garanciaügyletek esetleges beváltásából,
 - c) a deviza- és kamatcsere ügyletek pótlási költségéből, valamint
-- d) nyújtott, a hitelfelvevőt terhelő, a Kormány határozatában megjelölt hitel- és pénzkölcsönből, valamint jegyzett vagy más jogcímen megszerzett, a kibocsátót terhelő, a Kormány határozatában megjelölt kötvényekből
+- d) nyújtott, a hitelfelvevőt terhelő, a Kormány határozatában állami kezességgel biztosított ügyletként megjelölt hitel- és pénzkölcsönből, valamint jegyzett vagy más jogcímen megszerzett, a kibocsátót terhelő, a Kormány határozatában állami kezességgel biztosított ügyletként megjelölt kötvényekből
 
 eredő fizetési kötelezettségek teljesítéséért.
 
@@ -191,7 +188,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 - a) a 2. § (2) bekezdése szerint nyújtott kötött segélyhitelek kamatjainak, valamint az e célt szolgáló finanszírozási költségek különbözetét,
 - b) a 2. § szerint nyújtott hitelek kamatjainak, valamint az e célt szolgáló finanszírozási költségek különbözetét (a továbbiakban: kamatkiegyenlítés),
-- c) az Eximbank által a 2. § (1a)–(1d) bekezdése szerinti alapokba (a továbbiakban: alap) befektetett tőkének és az alap vagy harmadik személy által az Eximbank részére a befektetési jegyekhez kapcsolódóan bármely jogcímen kifizetett összeg különbözetét (a továbbiakban: tőkekiegyenlítés).
+- c) az Eximbank által a 2. § (1a)–(1d) bekezdése szerinti alapokba vagy más kollektív befektetési formákba (a továbbiakban együtt: alap) befektetett tőkének és az alap vagy harmadik személy által az Eximbank részére a befektetési jegyekhez, társasági részesedéshez vagy az adott kollektív befektetési formának megfelelő jogi formában és jogcímen fennálló egyéb érdekeltséghez kapcsolódóan bármely jogcímen kifizetett összeg különbözetét (a továbbiakban: tőkekiegyenlítés).
 
 7. § (1) A Magyarország központi költségvetéséről szóló törvényben meg kell határozni:
 
@@ -200,7 +197,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 - c) a Mehib által az állam készfizető kezessége mellett vállalható biztosítási kötelezettségek és viszontbiztosításból eredő kötelezettségek állományának felső határát,
 - d) a kamatkiegyenlítési és tőkekiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
 - e) az Eximbank által folyósított kötött segélyhitelekhez kapcsolódó, a központi költségvetés terhére nyújtott támogatások előirányzatát.
-- f) a Kormány határozata alapján nyújtott hitel- és kölcsönállomány, valamint kötvényállomány felső határát.
+- f) a Kormány határozata alapján állami készfizető kezességvállalás mellett nyújtott hitel- és kölcsönből, valamint kötvényből eredő kötelezettségvállalás felső határát.
 
 (2) Az (1) bekezdés a)–c) pontjában meghatározott fizetési kötelezettségek költségvetési fedezetét a Magyarország központi költségvetéséről szóló törvényben elkülönített előirányzatokban kell jóváhagyni.
 
@@ -303,6 +300,11 @@ szerzett.
 (7) Amennyiben a Magyar Nemzeti Bank úgy ítéli meg, hogy a megválasztott vagy kinevezett személy nem felel meg az e törvényben meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását vagy a kinevezett személy felmentését. A tulajdonosi jogok gyakorlója a kezdeményezésben megnevezett személyt 10 munkanapon belül visszahívja, vagy felmenti.
 
 (8) E szakasz alkalmazásában a Mehib vezető állású személyének minősülnek az igazgatóság tagjai és a felügyelőbizottság tagjai, valamint a vezérigazgató és annak helyettesei.
+
+18/A. § Kizárólag a miniszter engedélye szükséges az Eximbank alapszabályának módosításához a következő esetekben:
+
+- a) a cég nevének és székhelyének megváltoztatása,
+- b) az igazgatóság jogkörének módosítása.
 
 ### Képviselet, munkaviszony
 

@@ -207,7 +207,7 @@ A pénztárszervezet és működési forma bevezetése, új intézménytípuské
 
 (2) A tagszervezésre vonatkozó szerződésnek tartalmaznia kell a tagszervezéshez kapcsolódó díjazás mértékét, a díjazás nyújtásának és visszaírásának feltételeit, valamint a tagszervezéshez kapcsolódó károkozásáért való felelősség viselésének kérdéseit. A pénztár köteles kidolgozni és szabályzatban rögzíteni a tagszervezők oktatásának és ellenőrzésének rendszerét.
 
-(3) Tagszervezésért díjazást a pénztár csak a működési tartaléka terhére nyújthat, azzal, hogy azok együttes összege az átlépő tagok, valamint azon pénztártagok vonatkozásában, akik a belépés időpontjában más – azonos típusú – pénztár tagjai, a díjazás összege nem haladhatja meg a belépést követő első tizenkét hónapban befizetett tagdíj működési tartalékra jutó részét. Tagszervezésért ezen túl díjazás és egyéb juttatás nem nyújtható. Valamely pénztártípusban újonnan tagsági jogviszonyt létesítő pénztártag – aki a belépés időpontjában egyetlen más, azonos típusú pénztárnak sem tagja – tagszervezéséért járó díjazás összege nem haladhatja meg a belépést követő első tizenkét hónapra vonatkozóan vállalt tagdíj 20 százalékát.
+(3) Tagszervezésért díjazást a pénztár csak a működési tartaléka terhére nyújthat azzal, hogy azok együttes összege – az átlépő tagok, valamint azon pénztártagok vonatkozásában, akik a belépés időpontjában más, de azonos típusú pénztár tagjai – nem haladhatja meg a belépést követő első tizenkét hónapban befizetett tagdíj működési tartalékra jutó részét. Tagszervezésért egyéb juttatás nem nyújtható. Valamely pénztártípusban újonnan tagsági jogviszonyt létesítő pénztártag – aki a belépés időpontjában egyetlen más, azonos típusú pénztárnak sem tagja – tagszervezéséért járó díjazás összege nem haladhatja meg a belépést követő első tizenkét hónapra vonatkozóan vállalt tagdíj 50 százalékát.
 
 (3a) A tagszervezésért díjazás a tagsági jogviszony létrejöttétől két évig adható, a visszaírásra a tagsági jogviszony létrejöttétől három évig van lehetőség. E § alkalmazásában az önsegélyező pénztár, továbbá az egészségpénztár, illetve az egészség- és önsegélyező pénztár azonos típusú pénztárnak minősülnek.
 
@@ -415,6 +415,8 @@ A pénztárszervezet és működési forma bevezetése, új intézménytípuské
 (4) Az igazgatótanács és az ellenőrző bizottság tagjait (a továbbiakban együtt: vezető tisztségviselők) a közgyűlés titkosan választja meg legfeljebb 5 évre. A vezető tisztségviselői megbízás az érintett személy által való elfogadással jön létre. Az igazgatótanács és az ellenőrző bizottság elnöke a megválasztott igazgatótanácsi, illetve ellenőrző bizottsági tagok közül, titkos szavazás útján kerül megválasztásra. Az igazgatótanács és az ellenőrző bizottság elnökének csak olyan személy választható meg, aki felsőfokú végzettséggel rendelkezik.
 
 (5) Az alapszabály eltérő rendelkezése hiányában az igazgatótanács a folyamatos feladatok ellátásával ügyvezetőt alkalmazhat. Az ügyvezetőt — a személyét érintő kérdések kivételével — az igazgatótanács üléseire meg kell hívni. Az ügyvezető az igazgatótanács ülésein tanácskozási joggal vesz részt.
+
+(6) A pénztárak alapszabályainak azonos tartalmú rendelkezése esetén több pénztár megállapodhat arról, hogy közös igazgatótanáccsal, ellenőrző bizottsággal vagy más testületi szervvel rendelkeznek. Az alapszabályok ez irányú rendelkezéseinek a testületi szervek működési költségei megosztására is ki kell térniük.
 
 20. § (1) A vezető tisztségviselők, valamint az ügyvezető (helyettes ügyvezető) mindenkor az ilyen tisztséget betöltő személytől elvárható gondossággal, a tagok és a pénztár érdekeinek figyelembevételével, a rájuk vonatkozó jogszabályok szerint kötelesek eljárni. A vezető tisztségviselők, valamint az ügyvezető (helyettes ügyvezető) az ügyvezetési tevékenysége során okozott kárért a Ptk.-nak a vezető tisztségviselőkre vonatkozó szabályai szerint felelősek, akkor is, ha a pénztárral munkaviszonyban álltak, illetve állnak.
 
@@ -755,7 +757,7 @@ kell helyezni.
 - a) aki büntetlen előéletű,
 - b) aki nem áll jogi, államigazgatási, közgazdasági, pénzügyi vagy könyvvizsgálói végzettséghez kötött munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt,
 - c) akivel szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok, és
-- d) aki rendelkezik értékpapír-forgalmazói vizsgával, szakirányú felsőfokú végzettséggel és legalább 3 év pénztári vagyonkezelési, befektetési vagy portfoliókezelési gyakorlattal.
+- d) aki rendelkezik szakirányú felsőfokú végzettséggel és legalább 3 év pénztári vagyonkezelési, befektetési vagy portfoliókezelési gyakorlattal.
 
 (6) Ha pénztárak mindegyike egyesülésük elhatározása előtt egyenként rendelkezik kormányrendelet szerinti olyan Magyarországon székhellyel rendelkező bank zártkörűen forgalomba hozott részvényével, amelynek kibocsátója eleget tesz a tőkepiacról szóló törvény szerinti, a nyilvánosan forgalomba hozott értékpapírral kapcsolatos tájékoztatási kötelezettségnek a pénztár felé, úgy a jogutód pénztár tekintetében a 37. § (5) bekezdésében foglaltaktól eltérően a zártkörűen működő részvénytársaságba történő befektetés esetén a bankban már meglévő tulajdoni részesedés mértékének 10 százalékos korlátra vonatkozó szabályát nem kell alkalmazni.
 
@@ -1214,6 +1216,8 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 (2) A vagyonkezelési tevékenység szerződésben megállapított ellenértékének kereskedési költségek (jutalékok) nélkül számított éves összege nem haladhatja meg a kezelésre átadott vagyon(rész) napi bruttó piaci értékei számtani átlagának 0,8 százalékát. Az előzőekben meghatározottaknál magasabb ellenérték esetén a szerződés ellenértékre vonatkozó kikötése semmis.
 
 (3) Amennyiben a nyugdíjpénztár vagyonkezelését részben vagy egészen önállóan végzi, a saját kezelésben lévő befektetések vagyonarányos költségeire elszámolt éves összeg nem haladhatja meg a saját kezelésű vagyon(rész) napi bruttó piaci értékei számtani átlagának 0,8 százalékát.
+
+(3a) Ha a pénztár a (2) és a (3) bekezdés szerinti határértéket nem éri el a kifizetett összegben vagy az elszámolt költségben, akkor a pénztár legfeljebb a különbözet összegét a működési tartalék javára jóváírhatja negyedéves vagy éves időközönként. A jóváírás gyakoriságát a pénztár az alapszabályában rögzíti.
 
 (4) A napi eszközértékelésre nem kötelezett pénztárak a napi bruttó piaci értékek számtani átlaga helyett az éves nyitó és záró piaci érték számtani átlagát is használhatják.
 

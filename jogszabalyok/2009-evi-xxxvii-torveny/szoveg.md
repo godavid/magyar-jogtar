@@ -2152,6 +2152,19 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 103. § (1) Az erdészeti hatósági és igazgatási feladatokat ellátó személyek részére igazolványt, az igazolvánnyal azonos sorszámú szolgálati jelvényt és egyenruhát kell biztosítani.
 
+(1a) Ha a miniszter által vezetett minisztériumban erdészeti hatósági, illetve erdészeti igazgatási feladatkört ellátó, egyenruha viselésére jogosult személy kormányzati szolgálati jogviszonya
+
+- a) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.)
+  - aa) 89. § (3) bekezdés a), e) vagy g) pontja alapján szűnik meg,
+  - ab) 104. § (1) bekezdés a), c–e), g)–i), k) vagy m) pontja alapján szűnik meg, vagy
+  - ac) 105. § (1) bekezdés a) pontja, 107. § (1) bekezdés a)–c), e) pontja, 107. § (2) bekezdés d) vagy e) pontja alapján kerül megszüntetésre,
+
+az egyenruha a kihordási idő vizsgálata nélkül térítésmentesen a jogosult,
+
+- b) a Kit. 104. § (1) bekezdés b) pontja alapján szűnik meg, az egyenruha a kihordási idő vizsgálata nélkül térítésmentesen az örökös
+
+tulajdonába kerül.
+
 (2) Az erdészeti hatósági és igazgatási feladatokat ellátó személy az eljárása során jogosult az erdőgazdálkodó, annak hiányában a terület jogszerű használójának engedélye nélkül külön térítés fizetése nélkül az erdészeti feltáróhálózat részét képező erdei úton, valamint az erdő megközelítéséhez szükséges egyéb úton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni.
 
 (3) Az erdészeti hatósági feladatokat ellátó személy helyszíni intézkedésként jogosult

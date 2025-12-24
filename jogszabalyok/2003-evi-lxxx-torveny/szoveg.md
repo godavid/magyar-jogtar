@@ -269,6 +269,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - b) a támogatás igénybevételének feltételei a kérelem előterjesztésekor sem álltak fenn és a fél a támogatás iránti kérelmében valótlan adatot szolgáltatott,
 - c) a 10. § (2) bekezdésében meghatározott kizáró ok áll fenn.
 
+(3) A jogi segítségnyújtó szolgálat a támogatást határozattal megvonja, ha legalább három jogi segítő a fél számára jogi szolgáltatást nyújtását a 70. § (1) bekezdés a) pontjának ab) alpontjára vagy a 70. § (1) bekezdésének d) pontjára hivatkozással tagadja meg.
+
 ### Segítségnyújtás a támogatás igénybevételéhez,
 
 egyéb tanácsadás
@@ -717,7 +719,9 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 70. § (1) A jogi segítő – ha annak e törvényben foglalt feltételei fennállnak – a szolgáltatási szerződésben megjelölt időszakban és szakterületen köteles a fél számára jogi szolgáltatást nyújtani, kivéve, ha
 
-- a) a közreműködést mint ügyvéd is köteles lenne megtagadni az ügyvédi tevékenységről szóló törvény alapján, vagy a reá vonatkozó etikai szabályzat értelmében,
+- a) a közreműködést mint ügyvéd is köteles lenne megtagadni
+- aa) az ügyvédi tevékenységről szóló törvény, vagy a reá vonatkozó etikai szabályzat korlátozó rendelkezése alapján, vagy
+  - ab) az ügyvédi tevékenységről szóló törvény alapján a jogszabályba ütköző vagy jogszabály megkerülésére irányuló utasításra tekintettel,
 - b) már teljesítette a közreműködési kötelezettségét a szolgáltatási szerződésben meghatározott számú ügyben, illetve a jogi szolgáltatás nyújtása nem tartozik a szolgáltatási szerződésben meghatározott szakterületébe, vagy
 - c) a fél által kért vagy a jogi segítségnyújtó szolgálat által engedélyezett okirat vagy beadvány készítése, nyilatkozat megtétele csak a szakmai szabályok megsértésével lehetséges,
 - d) a szolgáltatás nyújtását lehetetlenné teszi az, hogy – a jogi segítőn kívül álló okból – a féllel nem tud együttműködni, és a közreműködés ezen okból történő megtagadásához a jogi segítségnyújtó szolgálat előzetesen hozzájárult.
@@ -793,6 +797,8 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 (10) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel megállapított 21. §-át a 2023. július 1-jét követően indult és a megismételt eljárásokban kell alkalmazni azzal, hogy a 2023. július 1-jét megelőzően engedélyezett támogatást nem kell figyelembe venni.
 
+(11) E törvénynek a magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel (a továbbiakban: Módtv.) megállapított 27. § (3) bekezdését a Módtv. e törvény 27. § (3) bekezdését megállapító rendelkezésének a hatálybalépését követően engedélyezett támogatásokra kell alkalmazni.
+
 ### Felhatalmazás
 
 74. § Felhatalmazást kap a Kormány, hogy rendeletben
@@ -852,5 +858,6 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 - f) a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelv 24. és 26. cikke;
 - g) a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló, 2016. október 26-i (EU) 2016/1919 európai parlamenti és tanácsi irányelv.
 - h) az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 12. cikk (2) bekezdése.
+- i) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 parlamenti és tanácsi irányelv 18. és 19. cikke.
 
 90. § E törvény 5. § (2) bekezdés g) pontja, valamint 11. § (2) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet 44. cikk (1) bekezdésének és 46. cikkének végrehajtásához szükséges rendelkezést állapít meg.

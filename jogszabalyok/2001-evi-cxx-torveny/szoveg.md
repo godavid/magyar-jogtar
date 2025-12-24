@@ -1468,7 +1468,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (2a) Amennyiben a számlatulajdonos a számlavezetéshez kapcsolódó fizetési kötelezettségét ismételt felszólítás ellenére nem teljesíti, új számlavezető kijelölése hiányában a számlavezető jogosult az értékpapír számlát megszüntetni, és annak egyenlegét az általa vezetett gyűjtőszámlán saját számlájától elkülönítetten, azonosítható módon nyilvántartani a jogosult költségére és veszélyére. A gyűjtőszámlán elkülönített egyenleg vonatkozásában a számlavezetőt kizárólag őrzési kötelezettség terheli az új számlavezető bejelentéséig. Új számlavezető bejelentéséig a számlavezető által gyűjtőszámlán elkülönített egyenleg vonatkozásában kibocsátó kérelme vagy a Felügyelet határozata alapján elrendelt tulajdonosi megfeleltetési kötelezettsége a jogosult adatainak átadása tekintetében a számlavezetőnek szünetel, valamint tulajdonosi igazolás kiállítására a számlavezető nem kötelezhető.
 
-(2b) Amennyiben a számlavezető a tevékenységével felhagy és a számlatulajdonos ismételt felhívás ellenére nem gondoskodik új számlavezető kijelöléséről, a tevékenységével felhagyó számlavezető gondoskodik új számlavezető kijelöléséről a számlatulajdonos költségére. Az új számlavezető a számlatulajdonossal történő szerződéskötésig a (2a) bekezdésben foglaltaknak megfelelően jár el.
+(2b) Amennyiben a számlavezető a tevékenységével felhagy és a számlatulajdonos ismételt felhívás ellenére nem gondoskodik új számlavezető kijelöléséről, a tevékenységével felhagyó számlavezető gondoskodik új számlavezető kijelöléséről a számlatulajdonos költségére. Az új számlavezető a számlatulajdonossal történő szerződéskötésig az e §-ban foglaltaknak megfelelően jár el.
 
 (3) A felmondás csak írásban érvényes.
 
@@ -2652,7 +2652,7 @@ tevékenység.
 - a) aki – amennyiben természetes személy – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű,
 - b) aki – amennyiben nem természetes személy a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a nála vezető tisztségviselői beosztásban lévő személlyel szemben a 357. § (1) bekezdésében meghatározott kizáró ok nem áll fenn és a vezető tisztségviselő a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű,
 - c) aki (amely) elfogultságtól mentesen, az általános piaci érdekeket szem előtt tartva képes irányítani, illetve befolyásolni – mind szakmai, mind pénzügyi, gazdálkodási szempontból – a tőzsde megbízható, stabil, versenysemleges működését, és
-- d) akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
+- d) akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok és rendelkezik jó üzleti hírnévvel.
 
 (3) Köteles a Felügyelettől előzetesen engedélyt kérni, aki tőzsdében részesedést úgy kíván szerezni, vagy azt úgy kívánja módosítani, hogy közvetlen vagy közvetett tulajdoni részesedése vagy szavazati joga elérje a harminchárom, ötven, hatvanhat, hetvenöt, vagy a száz százalékos határértéket. A Felügyelet tulajdonszerzésre vonatkozó engedélye nem pótolja a Gazdasági Versenyhivatal engedélyét.
 
@@ -3132,6 +3132,8 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (5a) Az (5) bekezdéstől eltérően a tőzsde a Felügyelet engedélyével és ellenőrzése mellett értékpapírosítást elősegítő tanácsadói tevékenységet végző gazdasági társaságot is alapíthat és működtethet, amely gazdasági társaság részletes működési és eljárási szabályokat állapít meg, valamint tevékenysége során kiemelt figyelmet fordít az értékpapírosítással érintett befektetők érdekeinek védelmére.
 
+(5b) Az (5) bekezdéstől eltérően a tőzsde központi szerződő fél által működtetett klíringtagsági rendszerben történő részvétel érdekében befektetési vállalkozást is alapíthat és működtethet.
+
 (6) A tőzsde nem szerezhet olyan részesedést, illetőleg nem létesíthet olyan tagsági viszonyt vállalkozásban, amely esetben a vállalkozás tartozásaiért a részesedés mértékére való tekintet nélkül korlátlanul felel.
 
 (7) A tőzsde saját tőkéje nem csökkenhet a jegyzett tőke alá a tőzsde alapításának engedélyezésétől számított második évtől kezdődően.
@@ -3212,7 +3214,7 @@ MEGSZŰNÉSE
 
 336. § (1) Központi értéktárnak a 909/2014/EU rendelet mellékletének A. szakasz 3. pontja szerinti értékpapír-kiegyenlítési rendszer működtetése keretében a 909/2014/EU rendelet 2. cikk (1) bekezdés 19. pontja szerinti résztvevő fél (a továbbiakban: résztvevő fél) számára biztosítania kell saját értékpapírjaik ügyfelek értékpapírjaitól történő elkülönítését.
 
-(2) Központi értéktárnak a 909/2014/EU rendelet mellékletének A. szakasz 3. pontja szerinti értékpapír-kiegyenlítési rendszer működtetése keretében olyan nyilvántartási és számlavezetési rendet kell kialakítania, amely a résztvevő fél számára lehetővé teszi annak biztosítását, hogy ügyfele kérelme esetén az ügyfél értékpapírjait a központi értéktár egyéni alszámlán különítse el, amely egyéni alszámla a résztvevő fél által bejelentett, az ügyfél tulajdonában lévő értékpapírok nyilvántartására szolgál.
+(2) Központi értéktárnak a 909/2014/EU rendelet mellékletének A. szakasz 3. pontja szerinti értékpapír-kiegyenlítési rendszer működtetése keretében olyan nyilvántartási és számlavezetési rendet kell kialakítania, amely a résztvevő fél számára lehetővé teszi annak biztosítását, hogy ügyfele kérelme esetén az ügyfél értékpapírjait a központi értéktár egyéni alszámlán vagy számlán különítse el, amely egyéni alszámla vagy számla a résztvevő fél által bejelentett, az ügyfél tulajdonában lévő értékpapírok nyilvántartására szolgál.
 
 (3) A résztvevő félnek fel kell ajánlania az ügyfél számára a központi értéktárnál egyéni alszámlán történő elkülönítést, és tájékoztatnia kell a lehetőségekhez kapcsolódó költségekről és kockázatokról.
 
@@ -3475,7 +3477,12 @@ MEGSZŰNÉSE
 
 374/A. § Nem jelenti az értékpapírtitok és az üzleti titok sérelmét az Aktv. 43/H. §-ában foglalt kötelezettség teljesítéséhez az adóhatóság felé szükséges adatszolgáltatás.
 
-374/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a tőzsde, a központi értéktár és a központi szerződő fél a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
+374/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében
+
+- a) a tőzsde, a központi értéktár és a központi szerződő fél a nyomozó hatósággal vagy az ügyészséggel
+- b) a központi szerződő fél az adóhatósággal
+
+együttműködési megállapodást köthet.
 
 ### Összesített adatok átadása
 
@@ -3671,8 +3678,8 @@ kezelheti.
 - a) az (1) bekezdés a), e), f), g) és h) pontja esetében a döntést követő öt napon belül,
 - b) az (1) bekezdés b) pontja esetén a tárgyévet követő év január 15. napjáig,
 - c) az (1) bekezdés c) pontja esetén a részesedés megszerzését, illetve elidegenítését követő öt napon belül,
-- d) az (1) bekezdés d) pontja esetén a kinevezést vagy választást megelőzően, illetve alkalmazása vagy megbízása megszűnését követő öt napon belül,
-- e) az (1) bekezdés i) pontja esetén a cégbírósági határozat jogerőre emelkedését követő öt napon belül,
+- d)
+- e) az (1) bekezdés d) és i) pontja esetén a cégbírósági határozat jogerőre emelkedését követő öt napon belül,
 - f) az (1) bekezdés j) pontja esetén a tudomásra jutástól számított öt napon belül,
 - g) az (1) bekezdés k) pontja esetén a hitelszerződés megkötését követő két napon belül, és
 - h) a (3) bekezdés esetén az éves beszámoló elfogadását követő tizenöt napon belül
@@ -4051,7 +4058,7 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
 
 ### A felügyeleti bírság
 
-405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a tőzsdét, a központi értéktárat, a központi szerződő felet, a közösségi finanszírozási szolgáltatót, a projektgazdát, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet, a piacbefolyásolást és a bennfentes információ jogosulatlan közzétételét elkövető személyt, az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályokat megsértő személyt és a 61. §-ban foglalt kötelezettséget megsértő részvényest vagy a szavazati jog birtokosát az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
+405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a tőzsdét, a központi értéktárat, a központi szerződő felet, a közösségi finanszírozási szolgáltatót, a projektgazdát, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet, a piacbefolyásolást és a bennfentes információ jogosulatlan közzétételét elkövető személyt, az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre, az 596/2014/EU rendelet szerinti befektetési ajánlások, statisztikák ajánlására, készítésére, terjesztésére vonatkozó szabályozást megsértő személyekre és az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályokat megsértő személyt és a 61. §-ban foglalt kötelezettséget megsértő részvényest vagy a szavazati jog birtokosát az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
 
 (2) A Felügyelet a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontja szerinti nem pénzügyi szerződő felet a rendelet 4. és 9–11. cikkében előírt kötelezettsége megsértése esetén bírság megfizetésére kötelezheti.
 
@@ -4308,6 +4315,14 @@ alakul át.
 450/F. § Ha a tájékoztató, illetve a tájékoztató kiegészítése közzétételének engedélyezésére 2019. július 21-ét megelőzően került sor, a IV. Fejezet 2019. július 20-án hatályos rendelkezéseit kell alkalmazni a tájékoztató érvényességének időszaka alatt, de legkésőbb 2020. július 21-ig.
 
 450/G. § A fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pénzügyi közvetítőrendszert érintő jogharmonizációs célú törvénymódosításokról szóló 2021. évi LVIII. törvénnyel megállapított NYOLCADIK/A. RÉSZ rendelkezéseit az (EU) 2020/1503 európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés c) pontjától eltérően 2023. november 10. napjáig az egymillió eurót meg nem haladó teljes ellenértékű közösségi finanszírozási ajánlatokra kell alkalmazni.
+
+450/H. § (1) Az e § hatálybalépését megelőzően kibocsátott vállalati kötvényben foglalt kötelezettségek teljesítéséért vállalt, a vállalati kötvény mindenkori jogosultját jogosító garancia esetében a kibocsátó a pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel (a továbbiakban: 2025. évi C. törvény) megállapított 12/B. § (11) bekezdésében meghatározott kötelezettséget az e § hatálybalépését követő kilencedik hónap utolsó munkanapjáig teljesíti. Ezen kötelezettség elmulasztása a garancia érvényességét nem érinti.
+
+(2) A 2025. évi C. törvénnyel megállapított 12/C–12/H. § – a (3) bekezdésben foglaltak kivételével – az e § hatálybalépését követően kibocsátott vállalati kötvényre alkalmazandó.
+
+(3) Az e § hatálybalépését megelőzően kibocsátott vállalati kötvény esetén a kibocsátó és valamennyi kötvényjogosult egyhangúan határozhat a kötvényesi gyűlés szabályainak vállalati kötvénybe való bevezetéséről. A kibocsátó a kötvényesi gyűlést a 12/D. § szerint hívja össze. E vállalati kötvény módosítása esetén a kibocsátó köteles a 8. § (1) bekezdése szerint új okiratot kiállítani és a központi értéktárban elhelyezni, továbbá a központi értéktárat a vállalati kötvény módosításával megbízni.
+
+(4) A 2025. évi C. törvénnyel megállapított 12/B. § (11)–(16) bekezdésében foglaltakat a vállalati kötvénynek nem minősülő kötvények esetében az e § hatálybalépését követő tizennegyedik hónap első napjától kell alkalmazni.
 
 ### Felhatalmazások
 

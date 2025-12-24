@@ -1286,7 +1286,7 @@ szavatoló tőkéje
 - b) ezt a foglalkoztatói nyugdíjszolgáltató intézmény alapszabálya, illetőleg SZMSZ-e tartalmazza,
 - c) vagyonkezelési és vagyonértékelési szabályzattal rendelkezik.
 
-(5) A foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelési tevékenység irányítására olyan büntetlen előéletű, befektetésekért felelős vezetőt alkalmaz, aki szakirányú felsőfokú végzettséggel (egyetemen vagy főiskolán szerzett jogi, államigazgatási, közgazdasági vagy pénzügyi diploma, oklevél, illetve könyvvizsgálói végzettség), értékpapír forgalmazásra feljogosító szakmai vizsgával és legalább három év szakmai gyakorlattal rendelkezik.
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelési tevékenység irányítására olyan büntetlen előéletű, befektetésekért felelős vezetőt alkalmaz, aki szakirányú felsőfokú végzettséggel (egyetemen vagy főiskolán szerzett jogi, államigazgatási, közgazdasági vagy pénzügyi diploma, oklevél, illetve könyvvizsgálói végzettség) és legalább három év szakmai gyakorlattal rendelkezik.
 
 (6) Nem minősül saját vagyonkezelési tevékenységnek, amennyiben a foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelésbe ki nem helyezett befektetett eszközei kizárólag házipénztárban, pénzforgalmi számlán, befektetési számlán vannak elhelyezve.
 
@@ -1722,7 +1722,7 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 (2) A Felügyelet köteles a felszámolást elrendelő, illetve a végelszámolásról szóló végzés tudomására jutásakor a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységi engedélyét a felszámolás, illetve a végelszámolás kezdő időpontjával visszavonni.
 
-(3) A végelszámolásról szóló vagy a felszámolót kijelölő bírósági végzés (a továbbiakban: bírósági végzés) Cégközlönyben történő közzétételét követően a Felügyelet soron kívül köteles annak tartalmát magyar nyelven az Európai Közösségek Hivatalos Lapjában, valamint valamennyi állam legalább két országos napilapjában közzétenni.
+(3)
 
 (4) A végelszámolásról vagy a felszámolásról és azok gyakorlati következményeiről a Felügyelet haladéktalanul tájékoztatja az Európai Unió azon államainak felügyeleti hatóságait, amelyekben az intézmény fiókteleppel rendelkezett, vagy határon átnyúló tevékenység keretében nyugdíjkonstrukciót működtetett.
 

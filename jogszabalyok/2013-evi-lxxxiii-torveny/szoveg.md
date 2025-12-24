@@ -112,6 +112,11 @@ számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgált
 
 (3) A kiegészítő felügyeletet ellátó Felügyelet értesíti a csoport élén álló anyavállalatot vagy anyavállalat hiányában azt a szabályozott vállalkozást, amely a csoport legjelentősebb pénzügyi ágazatában a legnagyobb mérlegfőösszeggel rendelkezik, ha a csoport pénzügyi konglomerátumnak minősül.
 
+(4) A vegyes pénzügyi holding társaság kizárólag a legjelentősebb pénzügyi ágazatra vonatkozó rendelkezéseket alkalmazza, ha
+
+- a) a csoportban a biztosítók felügyeletéért felelős felügyeleti hatóság egyetért és
+- b) a vegyes pénzügyi holding társaság megfelel a biztosítási tevékenységről szóló törvény érintett előírásainak, így különösen a kockázat alapú felügyelet tekintetében.
+
 #### 3. Kiegészítő felügyelet
 
 7. § (1) A kiegészítő felügyelet célja a pénzügyi konglomerátum csoport szintű prudens működésének felügyelete. Ennek érdekében a Felügyelet a pénzügyi konglomerátum kockázati koncentrációját, csoporton belüli ügyleteit, tőkemegfelelését, belső kontroll rendszerét és kockázatkezelését a csoport szintjén felügyeli.
