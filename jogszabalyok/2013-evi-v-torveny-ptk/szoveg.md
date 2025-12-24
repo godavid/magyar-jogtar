@@ -13105,6 +13105,7 @@ Az átmeneti rendelkezéseket törvény állapítja meg.
 - o) az áruk adásvételére irányuló szerződések egyes vonatkozásairól, az (EU) 2017/2394 rendelet és a 2009/22/EK irányelv módosításáról, valamint az 1999/44/EK irányelv hatályon kívül helyezéséről szóló, 2019. május 20-i (EU) 2019/771 európai parlamenti és tanácsi irányelvnek;
 - p) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelvnek
 - q) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek
+- r) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

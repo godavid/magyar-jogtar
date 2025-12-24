@@ -279,6 +279,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 - 112a. tőkeáttételi mutató pufferkövetelmény: az 575/2013/EU rendelet 92. cikk (1a) bekezdésében meghatározott pufferkövetelmény;
 - 113. tőkefenntartási pufferkövetelmény: a hitelintézet veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény;
 - 114. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+- 114a. Unióban működő önálló hitelintézet: olyan hitelintézet, amely nem tartozik az 575/2013/EU rendelet Első Rész II. cím 2. fejezet szerinti prudenciális konszolidáció hatálya alá az Európai Unióban, és amely nem rendelkezik ilyen prudenciális konszolidáció hatálya alá tartozó EU-szintű anyavállalattal;
 - 115. ügyvezető: a vállalkozás irányítási jogkörrel rendelkező vezető testülete által megválasztott, a vállalkozással munkaviszonyban álló elnöke, a vállalkozás vezetésére kinevezett, a vállalkozással munkaviszonyban álló első számú vezető, valamint e vezető valamennyi helyettese;
 - 116. üzletszerű tevékenység: az ellenérték fejében nyereség, illetve vagyonszerzés végett – előre egyedileg meg nem határozott ügyletek megkötésére irányuló – rendszeresen folytatott gazdasági tevékenység;
 - 117. vállalkozás: a gazdasági tevékenységet folytató jogi személy, az egyéni cég és az egyéni vállalkozó;
@@ -397,9 +398,10 @@ ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket.
 - n) a 3. § (1) bekezdés j) pontján kívüli pénzletét kezeléshez kapcsolódó szolgáltatást
 - o) elektronikuspénz-értékesítői tevékenységet,
 - p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
-- q) az általa üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
+- q) az általa vagy a vele szoros kapcsolatban álló vállalkozás által üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást,
 - r) hitelintézet esetén az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti, pénzügyi szolgáltatásnak, befektetési szolgáltatási tevékenységnek nem minősülő egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is
 - s) kriptoeszköz-szolgáltatást
+- t) a vele szerződéses kapcsolatban álló vállalkozás által üzletszerűen végzett szolgáltatások ügyfelek részére történő ajánlására irányuló tevékenységet, ideértve az ajánlott szolgáltatást elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
 
 végezhet.
 
@@ -3158,9 +3160,11 @@ részére,
 - v) a központi szerződő fél, valamint a központi értéktári tevékenység végzésének érdekében szükséges, a központi értéktár és a központi szerződő fél közötti adattovábbítás,
 - w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti,
 - x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
-- y) az elhalálozott által felvett és még vissza nem fizetett kölcsönhöz és le nem járt pénzügyi lízinghez kapcsolódóan a fennálló tartozás összegéről és összetételéről, az ezt alátámasztó adatokról – így különösen az elhalálozás napjáig teljesített befizetéseket tartalmazó, a tartozásra vonatkozó számszaki kimutatásról –, az esedékes havi törlesztőrészletről, azon számlaszámról, amelyre a törlesztőrészletet fizetni kell (hitelszámla száma), valamint a hátralévő futamidőről az örökhagyó közeli hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig,
+- y) az elhalálozott által felvett és még vissza nem fizetett hitelszerződéshez, hitelkártya-szerződéshez, kölcsönhöz, folyószámla-szerződéshez és le nem járt pénzügyi lízinghez kapcsolódóan a fennálló tartozás összegéről és összetételéről, az ezt alátámasztó adatokról – így különösen az elhalálozás napjáig teljesített befizetéseket tartalmazó, a tartozásra vonatkozó számszaki kimutatásról –, az esedékes havi törlesztőrészletről, azon számlaszámról, amelyre a törlesztőrészletet fizetni kell (hitelszámla száma), valamint a hátralévő futamidőről az örökhagyó közeli hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig,
 - z) a Felügyelet MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítása,
 - zs) a 164/B. § szerinti kölcsönös adatátadás, valamint az ezen alapuló adatkezelés.
+- zsa) a pénzügyi intézmény ügyfelének közhiteles nyilvántartásban szereplő könyvvizsgálója részére történő, az ügyfélről kezelt adatokra vonatkozó adatátadás,
+- zsb) a pénzügyi intézmény által a büntetőeljárásról szóló törvény alapján tett feljelentésben az eljáró hatóság részére történő adatátadás.
 
 164/A. § Nem jelenti a banktitok sérelmét a hitelintézet által jelzálog-hitelintézet részére történő adatátadás abban az esetben, ha az adatátadás jelzáloglevéllel történő refinanszírozás keretében
 
@@ -4541,7 +4545,7 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 
 (10) A hitelintézet tevékenységi engedélye visszavonásának évében az engedély visszavonásának napjáig terjedő időszakra vonatkozóan az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni.
 
-234/A. § (1) Az OBA tagjainak éves befizetési kötelezettségét úgy kell megállapítani, hogy az OBA pénzeszközei 2024. július 3-ig elérjék a kártalanítási kötelezettségének hatálya alá tartozó betétállomány 0,8%-át (célszint).
+234/A. § (1) Az OBA tagjainak éves befizetési kötelezettségét úgy kell megállapítani, hogy az OBA pénzeszközei 2024. július 3-ig elérjék a kártalanítási kötelezettségének hatálya alá tartozó betétállomány legalább 0,8%-át (célszint).
 
 (2) Ha az (1) bekezdésben meghatározott célszint elérését követően kártalanítás kifizetése miatt az OBA pénzeszközei a célszint kétharmadánál alacsonyabb szintre csökkennek, az éves díjfizetési kötelezettséget az OBA-nak úgy kell megállapítania, hogy hat éven belül ismét elérje az (1) bekezdésben meghatározott célszintet.
 
@@ -4960,7 +4964,7 @@ rendelkezhet.
 
 270. § Tilos a sorsolásra vonatkozó reklám. E tilalom nem vonatkozik a nyereménybetét-sorsolásra.
 
-270/A. § Hitel-tanácsadási tevékenységet végző pénzügyi intézmény, jelzáloghitel közvetítői tevékenységet végző függő közvetítő, valamint közvetítői alvállalkozó a kereskedelmi kommunikációjában nem használhatja a „hiteltanácsadás”, a „tanácsadás”, a „független tanácsadás”, a „hiteltanácsadó”, a „tanácsadó”, a „független tanácsadó” és más hasonló kifejezéseket.
+270/A. § Hiteltanácsadási tevékenységet végző pénzügyi intézmény, közvetítő, valamint közvetítői alvállalkozó a kereskedelmi kommunikációjában nem használhatja a hiteltanácsadás, a tanácsadás, a független tanácsadás, a hiteltanácsadó, a tanácsadó, a független tanácsadó és más hasonló kifejezéseket.
 
 #### 117. Az ügyfelek tájékoztatása
 
@@ -5151,7 +5155,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 126. Panaszkezelés
 
-288. § (1) A pénzügyi intézmény és a független közvetítő biztosítja, hogy az ügyfél a pénzügyi intézmény és a független közvetítő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse. A panaszkezelésre vonatkozó szabályokat alkalmazni kell arra a személyre is, aki szolgáltatás igénybevétele céljából lép kapcsolatba pénzügyi intézménnyel, független közvetítővel, de a szolgáltatást nem veszi igénybe.
+288. § (1) A pénzügyi intézmény és a független közvetítő biztosítja, hogy az ügyfél a pénzügyi intézmény és a független közvetítő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse. A panaszkezelésre vonatkozó szabályokat alkalmazni kell arra a személyre is, aki szolgáltatás igénybevétele céljából lép kapcsolatba pénzügyi intézménnyel, független közvetítővel, de a szolgáltatást nem veszi igénybe.
 
 (2) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, független közvetítő és az ügyfél közötti telefonos kommunikációt a pénzügyi intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
@@ -5293,6 +5297,8 @@ vonatkozó részletes szabályokat.
 (7) A 275. § (6) bekezdése szerinti kivonaton az OBA tagintézet felhívja a betétes figyelmét a 6. § (2) bekezdés 6. pontjának 2021. január 1-jén hatályba lépő módosítására.
 
 (8) Az a közvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 74. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat közvetítővel, közvetítői alvállalkozóval.
+
+(9) Más EGT-államban székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepének a belföldi fizetési rendszerhez való csatlakozása érdekében a szolgáltatásra vonatkozó szerződéseit és általános szerződési feltételeit úgy módosíthatja, hogy a módosítás az ügyfél számára nem okoz a termékjellemzők alapján Magyarországon nyújtott, versengő, hasonló szolgáltatások átlagos piaci feltételeihez képest érdeksérelmet a szerződés teljesítése során.
 
 293. § (1) A 279. § (4)–(6) és (8)–(16) bekezdését a 2009. augusztus 1-je előtt fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés módosítása esetén is alkalmazni kell a (2) bekezdésben meghatározott eltéréssel.
 
@@ -5499,13 +5505,13 @@ Kifizetési szorzótényező
 
 A 94. § (6) bekezdése szerinti szorzó tényezőt a következőképpen kell meghatározni:
 
-a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
+a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
 
-b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
+b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
 
-c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
+c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
 
-d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
+d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
 
 A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
 
@@ -5517,13 +5523,13 @@ Tőkeáttételi mutató pufferkövetelmény esetében alkalmazandó tényező
 
 A 96/A. § (6) bekezdése szerinti szorzó tényezőt a következőképpen kell meghatározni:
 
-a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
+a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
 
-b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
+b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
 
-c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
+c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
 
-d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
+d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
 
 A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
 
