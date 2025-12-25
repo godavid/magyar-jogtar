@@ -131,46 +131,12 @@ amelyet megküld az MFB Zrt. részére.
 
 10. § E törvény 2. § (3) és (4) bekezdése, 3. § (3) bekezdése és 6. § (1) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-11. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFBtv.) 2. §-a a következő n) ponttal egészül ki:
+#### 11. §
 
-(Az MFB Zrt. feladata, hogy a 3. §-ban meghatározott tevékenységi körében – az átláthatóság, a célszerűség, a gazdaságosság, a hatékonyság és a prudencia követelményeinek megfelelően – a Kormány közép- és hosszú távú gazdaságstratégiája által meghatározott gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források biztosítása érdekében, részben önállóan, részben más hazai és nemzetközi szervezetekkel közösen részt vegyen)
+#### 12. §
 
-„n) a Kormány egyedi határozata alapján a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvény szerinti hitel, illetve kölcsön nyújtásában;”
+#### 13. §
 
-12. § Az MFBtv. 5. §-a a következő (10a) bekezdéssel egészül ki:
+#### 14. §
 
-„(10a) Az állam a központi költségvetés terhére a (11) bekezdésben meghatározott megállapodás szerint biztosítja a 2. § szerint nyújtott hitelek vagy kölcsönök kamatai, valamint az e célt szolgáló finanszírozási költségek különbözetét (a továbbiakban: kamatkiegyenlítés) az MFB Zrt. részére.”
-
-13. § Az MFBtv.
-
-- a) 2. §-ában a „gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források biztosítása érdekében” szövegrész helyébe a „gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források, a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvény szerinti források biztosítása érdekében”,
-- b) 5. § (11) bekezdésében a „tőkekiegyenlítés” szövegrész helyébe a „tőke- és kamatkiegyenlítés”
-
-szöveg lép.
-
-14. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10/A. §-a helyébe a következő rendelkezés lép:
-
-„10/A. § (1) Az önkormányzat a Kormány előzetes hozzájárulásával kizárólag
-
-- a) jogerős és végrehajtható bírósági határozatban, vagy fizetési meghagyásban foglalt fizetési kötelezettségének teljesítésére,
-- b) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől elnyert, nem fejlesztési célú pályázata önrészének biztosítására, és
-- c) a 8. § (2) bekezdés f) pontja szerinti ügylet esetén a közvetlenül vagy közvetetten, legalább kisebbségi állami tulajdonban álló gazdasági társaság felé fennálló tartozása kiegyenlítésére
-
-köthet naptári éven túli futamidejű működési célú adósságot keletkeztető ügyletet.
-
-(2) A fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvény (a továbbiakban: segélyhiteltörvény) szerinti, fizetési nehézséggel küzdő önkormányzat a Kormány előzetes hozzájárulása nélkül köthet a segélyhiteltörvény szerinti adósságot keletkeztető ügyletet.”
-
-15. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény a 404/A. §-t követően a következő alcímmel egészül ki:
-
-### „Önkormányzati segélyhitellel összefüggésben elkövetett bűncselekmény
-
-404/B. § (1) Aki a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvényben meghatározott hitellel (e § alkalmazásában a továbbiakban: segélyhitel) összefüggésben
-
-- a) a konszolidált költségvetés készítésével,
-- b) a vagyonleltár készítésével,
-- c) az irányítási szervezetének és döntési eljárásának átalakításával, vagy
-- d) likviditási terv készítésével
-
-kapcsolatos kötelezettségét önhibájából megszegi, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint büntetendő az is, aki a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvényben meghatározott segélyhitellel kapcsolatos kötelezettségeit a pénzeszközök jogosulatlan megszerzése érdekében, a bizonylatok felhasználásával önhibájából megszegi.”
+#### 15. §

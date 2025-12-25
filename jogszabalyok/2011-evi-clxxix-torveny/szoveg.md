@@ -1155,7 +1155,7 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 - c) rendelkezésére álló rádió- és televízió csatorna felhasználásának elveiről és módjáról,
 - d) a rendelkezésére álló közszolgálati rádió és televízió műsoridő felhasználásának elveiről,
 - e) a nemzetiségi közösség számára jogsegélyszolgálat létrehozásáról és működtetéséről, továbbá a települési nemzetiségi önkormányzatok számára információs szolgálat működtetéséről,
-- f) a nemzetiségi utónévjegyzék összeállításáról, a nemzetiségi utónévvel kapcsolatos megkeresésekről,
+- f) a nemzetiségi utónévjegyzék összeállításáról – ideértve az utónévjegyzékben nem szereplő utónév utónévjegyzékbe való felvételét, valamint az utónévjegyzék felülvizsgálatát –, a nemzetiségi utónévvel kapcsolatos megkeresésekről,
 - g) nemzetiségi médiumoknak az e törvény szerinti országos nemzetiségi önkormányzati állami támogatásból történő támogatásáról,
 - h) egyéb, törvény által meghatározott feladat- és hatáskörébe tartozó ügyekről.
 
@@ -1198,9 +1198,11 @@ is megtartható. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 117/C. § (1) Az országos nemzetiségi önkormányzat közgyűlése a 117. § (1) bekezdés f) pontja alapján a nemzetiségi utónévjegyzékben nem szereplő nemzetiségi utónév utónévjegyzékbe való felvételére irányuló megkeresésről – a 117/D. §-ban meghatározott alapelvekre figyelemmel – kilencven napon belül dönt.
 
-(2) Az (1) bekezdés szerinti döntést a döntés meghozatalát követő ötödik napig írásba kell foglalni és az országos nemzetiségi önkormányzat honlapján közzé kell tenni. A döntésről készült jegyzőkönyvi kivonatot írásba kell foglalni és a döntés meghozatalát követő ötödik napig az érintett, az anyakönyvvezető vagy az anyakönyvi szerv megkeresésével együtt az országos nemzetiségi önkormányzat törvényességi felügyeletét ellátó fővárosi és vármegyei kormányhivatalnak, valamint a kultúráért felelős miniszternek (ezen alcím alkalmazásában a továbbiakban: miniszter) meg kell küldeni.
+(1a) Az országos nemzetiségi önkormányzat közgyűlése a 117. § (1) bekezdés f) pontja alapján – a 117/D. §-ban meghatározott alapelvekre figyelemmel – dönt a nemzetiségi utónévjegyzék felülvizsgálatáról.
 
-117/D. § Az országos nemzetiségi önkormányzat közgyűlése a nemzetiségi utónév utónévjegyzékbe való felvételére vonatkozó döntését az alábbi alapelvek figyelembevételével hozza meg:
+(2) Az (1) és (1a) bekezdés szerinti döntést a döntés meghozatalát követő ötödik napig írásba kell foglalni és az országos nemzetiségi önkormányzat honlapján közzé kell tenni. A döntésről készült jegyzőkönyvi kivonatot írásba kell foglalni és a döntés meghozatalát követő ötödik napig – az (1) bekezdés szerinti döntés esetében az érintett, az anyakönyvvezető vagy az anyakönyvi szerv megkeresésével együtt – az országos nemzetiségi önkormányzat törvényességi felügyeletét ellátó fővárosi vagy vármegyei kormányhivatalnak, valamint a kultúráért felelős miniszternek (ezen alcím alkalmazásában a továbbiakban: miniszter) meg kell küldeni.
+
+117/D. § Az országos nemzetiségi önkormányzat közgyűlése a nemzetiségi utónév utónévjegyzékbe való felvételére, valamint a nemzetiségi utónévjegyzék felülvizsgálatára vonatkozó döntését az alábbi alapelvek figyelembevételével hozza meg:
 
 - a) az utónévjegyzékben szereplő nevek becéző változatai abban az esetben javasolhatók az utónévjegyzékbe való felvételre, ha az általuk képviselt típusnak már vannak hagyományai az adott nemzetiség névkincsében, vagyis gyakran előfordul és megtalálható az adott nemzetiség becenevei között, és nem hátrányos a névviselőre;
 - b) elismert, maradandó értéket képviselő klasszikus vagy mai, széles körben ismert irodalmi, művészeti alkotásokban szereplő fantázianevek utónévjegyzékbe való felvétele akkor javasolt, ha a név az adott nemzetiség hazai névkultúrájához illeszkedik, és nem hátrányos a névviselőre;

@@ -24,123 +24,47 @@ a pénzügyi közvetítőrendszert érintő törvények módosításáról
 
 #### 1. A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény módosítása
 
-1. § A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 4. §-a a következő (2a) bekezdéssel egészül ki:
+#### 1. §
 
-„(2a) Belföldi jogi személy, jogi személyiséggel nem rendelkező szervezet – bármely, nem párttal közös, vagy nem közvetlenül pártot, de annak céljait támogató – tevékenysége tiltott, nem pénzben nyújtott vagyoni hozzájárulásnak minősül, ha azt a párt irányításától nem függetlenül, vagy a párt arculatától nem megkülönböztethető módon végzi, és azt részben vagy egészben külföldi forrásból, vagy külföldi szervezettől – jogi státusától függetlenül –, vagy nem magyar állampolgár természetes személytől származó forrásból valósítja meg.”
-
-2. § A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 4. § (4) és (5) bekezdésében a „(2) és (3) bekezdésben” szövegrész helyébe a „(2)–(3) bekezdésben” szöveg lép.
+#### 2. §
 
 #### 2. A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosítása
 
-3. § A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény 24/H. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az MRP szervezet a résztvevőre tekintettel a javadalmazási politika keretében megszerzett pénzügyi eszközt, annak átruházása vagy érvényesítése révén, a javadalmazási politikában meghatározott feltételek bekövetkezését követően, a belső szabályzatában meghatározott (legfeljebb hároméves) határidőn belül – az e pénzügyi eszközhöz kapcsolódó tagi részesedés bevonásának előkészítése érdekében – pénzre váltja át. Az MRP szervezet a pénzügyi eszközt legkorábban a megszerzését követő 24 hónap elteltével válthatja pénzre, vagy adhatja át a résztvevőnek. Ez a határidő kivételesen, kizárólag a résztvevőnek az MRP-ben való részvétele alapjául szolgáló jogviszonnyal összefüggő okból (így különösen a jogviszony évközi keletkezése vagy módosulása esetén) lehet 24 hónapnál rövidebb, de a jogviszony megszűnése nem eredményezheti a határidő csökkenését. Azokat a pénzügyi eszközöket, amelyek tekintetében a feltételek egyidejűleg következtek be, azonos szabályok szerint (így különösen azonos ütemezésben) kell pénzre átváltani.”
+#### 3. §
 
 #### 3. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-4. § Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 11/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 4. §
 
-„(3) Tagszervezésért díjazást a pénztár csak a működési tartaléka terhére nyújthat azzal, hogy azok együttes összege – az átlépő tagok, valamint azon pénztártagok vonatkozásában, akik a belépés időpontjában más, de azonos típusú pénztár tagjai – nem haladhatja meg a belépést követő első tizenkét hónapban befizetett tagdíj működési tartalékra jutó részét. Tagszervezésért egyéb juttatás nem nyújtható. Valamely pénztártípusban újonnan tagsági jogviszonyt létesítő pénztártag – aki a belépés időpontjában egyetlen más, azonos típusú pénztárnak sem tagja – tagszervezéséért járó díjazás összege nem haladhatja meg a belépést követő első tizenkét hónapra vonatkozóan vállalt tagdíj 50 százalékát.”
+#### 5. §
 
-5. § Az Öpt. 19. §-a a következő (6) bekezdéssel egészül ki:
+#### 6. §
 
-„(6) A pénztárak alapszabályainak azonos tartalmú rendelkezése esetén több pénztár megállapodhat arról, hogy közös igazgatótanáccsal, ellenőrző bizottsággal vagy más testületi szervvel rendelkeznek. Az alapszabályok ez irányú rendelkezéseinek a testületi szervek működési költségei megosztására is ki kell térniük.”
-
-6. § Az Öpt. 49. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Ha a pénztár a (2) és a (3) bekezdés szerinti határértéket nem éri el a kifizetett összegben vagy az elszámolt költségben, akkor a pénztár legfeljebb a különbözet összegét a működési tartalék javára jóváírhatja negyedéves vagy éves időközönként. A jóváírás gyakoriságát a pénztár az alapszabályában rögzíti.”
-
-7. § Hatályát veszti az Öpt. 38. § (5) bekezdés d) pontjában az „értékpapír-forgalmazói vizsgával,” szövegrész.
+#### 7. §
 
 #### 4. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-8. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Eximtv.) 2. § (1d) bekezdése helyébe a következő rendelkezés lép:
+#### 8. §
 
-„(1d) Az Eximbank az (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi alternatív befektetési alap vagy más, az adott külföldi jog szerinti kollektív befektetési formának minősülő entitás alapításához vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet, társasági részesedést vagy az adott kollektív befektetési formának megfelelő jogi formában és jogcímen fennálló egyéb érdekeltséget megszerezni.”
+#### 9. §
 
-9. § Az Eximtv. 3. § (7) bekezdése helyébe a következő rendelkezés lép:
+#### 10. §
 
-„(7) A kereskedelmi típusú kockázatok körébe tartoznak azok a kockázatok, amelyek
+#### 11. §
 
-- a) az adós vagy kezese nemfizetése, késedelmes fizetése miatt,
-- b) az adós vagy kezese fizetésképtelensége miatt,
-- c) az exportcélú szerződés vevő általi jogalap nélküli felmondása vagy a szerződés tárgyát képező áruk, szolgáltatások átvételének megtagadása miatt,
-- d) az (1) bekezdés d) ponthoz kapcsolódó vagyoni károk kockázata miatt
+#### 12. §
 
-merülnek fel.”
+#### 13. §
 
-10. § Az Eximtv. 6. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Az állam a központi költségvetés terhére visszavonhatatlanul készfizető kezesként felel az Eximbank által)
-
-„d) nyújtott, a hitelfelvevőt terhelő, a Kormány határozatában állami kezességgel biztosított ügyletként megjelölt hitel- és pénzkölcsönből, valamint jegyzett vagy más jogcímen megszerzett, a kibocsátót terhelő, a Kormány határozatában állami kezességgel biztosított ügyletként megjelölt kötvényekből”
-
-(eredő fizetési kötelezettségek teljesítéséért.)
-
-11. § Az Eximtv. 6/A. § c) pontja helyébe a következő rendelkezés lép:
-
-(Az állam a központi költségvetés terhére – kormányrendeletben megállapított feltételek szerint és módon – biztosítja az Eximbank részére)
-
-„c) az Eximbank által a 2. § (1a)–(1d) bekezdése szerinti alapokba vagy más kollektív befektetési formákba (a továbbiakban együtt: alap) befektetett tőkének és az alap vagy harmadik személy által az Eximbank részére a befektetési jegyekhez, társasági részesedéshez vagy az adott kollektív befektetési formának megfelelő jogi formában és jogcímen fennálló egyéb érdekeltséghez kapcsolódóan bármely jogcímen kifizetett összeg különbözetét (a továbbiakban: tőkekiegyenlítés).”
-
-12. § Az Eximtv. 7. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(A Magyarország központi költségvetéséről szóló törvényben meg kell határozni:)
-
-„f) a Kormány határozata alapján állami készfizető kezességvállalás mellett nyújtott hitel- és kölcsönből, valamint kötvényből eredő kötelezettségvállalás felső határát.”
-
-13. § Az Eximtv. „Kinevezés, megválaszthatóság” alcíme a következő 18/A. §-sal egészül ki:
-
-„18/A. § Kizárólag a miniszter engedélye szükséges az Eximbank alapszabályának módosításához a következő esetekben:
-
-- a) a cég nevének és székhelyének megváltoztatása,
-- b) az igazgatóság jogkörének módosítása.”
-
-14. § Az Eximtv.
-
-- a) 1. § (5) bekezdésében a „belföldi székhelyű gazdálkodó szervezet leányvállalata nemzetközi versenyképességet javító befektetéseire” szövegrész helyébe a „belföldi székhelyű gazdálkodó szervezet leányvállalata befektetéseire” szöveg,
-- b) 2. § (1) bekezdésében a „belföldi székhelyű gazdálkodó szervezet leányvállalata nemzetközi versenyképességet javító befektetéseihez” szövegrész helyébe a „belföldi székhelyű gazdálkodó szervezet leányvállalata befektetéseihez” szöveg és a „célokból” szövegrész helyébe a „célokból is” szöveg
-
-lép.
+#### 14. §
 
 #### 5. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
-15. § (1) A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltp.) 8. § (1) bekezdés a) pont 1. alpontja helyébe a következő rendelkezés lép:
+#### 15. §
 
-(E törvény alkalmazásában lakáscélú felhasználásnak minősül:
+#### 16. §
 
-a lakás-előtakarékoskodó, illetve, ha a szerződésben kedvezményezettet neveznek meg, a kedvezményezett, továbbá ezen személyek közeli hozzátartozója)
-
-  - „1. javára történő lakótelek vásárlása, lakás, családi ház, üdülő vagy tanyai lakóingatlan vásárlása, építése, cseréje, valamint lakásbérleti vagy lakáshasználati jog vásárlása, ideértve a nyugdíjasházban vagy valamilyen, életvitelszerű lakhatást, ápolást, illetve gondozást biztosító otthonban, intézményben a jogosult élete végéig fennálló bérleti, lakáshasználati jog vásárlását, továbbá lakásra, családi házra vagy tanyai lakóingatlanra vonatkozó pénzügyi lízingszerződés megkötéséhez szükséges önerő finanszírozását,”
-
-(2) Az Ltp. 8. § (1) bekezdés a) pontja a következő 1a. alponttal egészül ki:
-
-(E törvény alkalmazásában lakáscélú felhasználásnak minősül:
-
-a lakás-előtakarékoskodó, illetve ha a szerződésben kedvezményezettet neveznek meg, a kedvezményezett, továbbá ezen személyek közeli hozzátartozója)
-
-  - „1a. által nyugdíjasházban vagy valamilyen, életvitelszerű lakhatást, ápolást, illetve gondozást biztosító otthonban, intézményben történő ellátás térítési díjának egyösszegű megfizetése, megelőlegezése,”
-
-16. § Az Ltp. 12. § (1) bekezdése a következő i) ponttal egészül ki:
-
-(A lakás-takarékpénztár a 7. §-ban meghatározott szerződés szerinti betétgyűjtésen és hitelnyújtáson, valamint áthidaló kölcsön nyújtásán kívül üzletszerűen kizárólag a következő tevékenységeket végezheti:)
-
-„i) kizárólag kockázatkezelési célból fedezeti célú származtatott (derivatív) ügyletek megkötése, amely ügyletek volumenét a kockázat csökkenése esetén csökkenteni kell, a kockázat megszűnése esetén pedig zárni kell.”
-
-17. § Az Ltp. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A lakástakarékpénztárnak a kiutalási összeg (1) bekezdésben meghatározott célokra fel nem használt része (a továbbiakban: szabad eszköz) előző hónap utolsó napján meglévő állományának legalább tíz százalékát a következő eszközökben kell tartania:
-
-- a) készpénzben,
-- b) számlapénzben,
-- c) olyan országnak a központi kormánya vagy központi bankja által kibocsátott értékpapírban, amely
-  - ca) teljes jogú tagja a Gazdasági Együttműködési és Fejlesztési Szervezetnek vagy az Európai Uniónak vagy az Európai Gazdasági Térségnek vagy
-  - cb) speciális megállapodást kötött arra, hogy hitelt nyújtson a Nemzetközi Valutaalapnak annak Általános Kölcsönnyújtási Megállapodása szerint, és a megelőző öt év során hitelfelvételből származó külső adósságát nem ütemezte át, illetve nem függesztette fel,
-- d) a központi kormányzat készfizető kezességével vagy más, hasonló jellegű kötelezettségével biztosított értékpapírban, vagy
-- e) olyan értékpapírban, amely
-  - ea) az Európai Központi Bank által kibocsátott értékpapír,
-  - eb) az Európai Befektetési Bank, a Nemzetközi Újjáépítési és Fejlesztési Bank, az Európa Tanács Fejlesztési Bankja vagy az Európai Újjáépítési és Fejlesztési Bank által kibocsátott olyan értékpapír, amelynek kötelezettje a kibocsátó, vagy olyan értékpapír, melyek tőke- és kamattörlesztéséért a jelen pontban felsorolt kibocsátók valamelyike kezességet vállal, vagy
-  - ec) a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 129. cikke szerint fedezett kötvénynek minősülő azon értékpapír, amelyet valamely tagállam nemzeti bankja vagy az Európai Központi Bank elfogadható fedezetnek minősített.”
+#### 17. §
 
 #### 6. A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény módosítása
 
@@ -182,51 +106,34 @@ a lakás-előtakarékoskodó, illetve ha a szerződésben kedvezményezettet nev
 
 #### 31. §
 
-32. § A Tpt. 330. §-a a következő (5b) bekezdéssel egészül ki:
-
-„(5b) Az (5) bekezdéstől eltérően a tőzsde központi szerződő fél által működtetett klíringtagsági rendszerben történő részvétel érdekében befektetési vállalkozást is alapíthat és működtethet.”
+#### 32. §
 
 #### 33. §
 
-34. § A Tpt. 374/B. §-a helyébe a következő rendelkezés lép:
+#### 34. §
 
-„374/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében
-
-- a) a tőzsde, a központi értéktár és a központi szerződő fél a nyomozó hatósággal vagy az ügyészséggel
-- b) a központi szerződő fél az adóhatósággal
-
-együttműködési megállapodást köthet.”
-
-35. § A Tpt. „Átmeneti rendelkezések” alcíme a következő 450/H. §-sal egészül ki:
-
-„450/H. § (1) Az e § hatálybalépését megelőzően kibocsátott vállalati kötvényben foglalt kötelezettségek teljesítéséért vállalt, a vállalati kötvény mindenkori jogosultját jogosító garancia esetében a kibocsátó a pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel (a továbbiakban: 2025. évi C. törvény) megállapított 12/B. § (11) bekezdésében meghatározott kötelezettséget az e § hatálybalépését követő kilencedik hónap utolsó munkanapjáig teljesíti. Ezen kötelezettség elmulasztása a garancia érvényességét nem érinti.
-
-(2) A 2025. évi C. törvénnyel megállapított 12/C–12/H. § – a (3) bekezdésben foglaltak kivételével – az e § hatálybalépését követően kibocsátott vállalati kötvényre alkalmazandó.
-
-(3) Az e § hatálybalépését megelőzően kibocsátott vállalati kötvény esetén a kibocsátó és valamennyi kötvényjogosult egyhangúan határozhat a kötvényesi gyűlés szabályainak vállalati kötvénybe való bevezetéséről. A kibocsátó a kötvényesi gyűlést a 12/D. § szerint hívja össze. E vállalati kötvény módosítása esetén a kibocsátó köteles a 8. § (1) bekezdése szerint új okiratot kiállítani és a központi értéktárban elhelyezni, továbbá a központi értéktárat a vállalati kötvény módosításával megbízni.
-
-(4) A 2025. évi C. törvénnyel megállapított 12/B. § (11)–(16) bekezdésében foglaltakat a vállalati kötvénynek nem minősülő kötvények esetében az e § hatálybalépését követő tizennegyedik hónap első napjától kell alkalmazni.”
+#### 35. §
 
 36. § A Tpt.
 
 - a)
 - b)
-- c) 145. § (2b) bekezdésében az „a (2a) bekezdésben” szövegrész helyébe az „az e §-ban” szöveg,
-- d) 307. § (2) bekezdés d) pontjában a „kizáró ok” szövegrész helyébe a „kizáró ok és rendelkezik jó üzleti hírnévvel” szöveg,
-- e) 336. § (2) bekezdésében az „egyéni alszámlán különítse el, amely egyéni alszámla” szövegrész helyébe az „egyéni alszámlán vagy számlán különítse el, amely egyéni alszámla vagy számla” szöveg,
-- f) 395. § (4) bekezdés e) pontjában az „(1) bekezdés i) pontja” szövegrész helyébe az „(1) bekezdés d) és i) pontja” szöveg,
-- g) 405. § (1) bekezdésében az „az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre” szövegrész helyébe az „az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre, az 596/2014/EU rendelet szerinti befektetési ajánlások, statisztikák ajánlására, készítésére, terjesztésére vonatkozó szabályozást megsértő személyekre” szöveg
+- c)
+- d)
+- e)
+- f)
+- g)
 
 lép.
 
 37. § Hatályát veszti a Tpt.
 
 - a)
-- b) 395. § (4) bekezdés d) pontja.
+- b)
 
 #### 9. A fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény módosítása
 
-38. § A fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény 2. § (1) bekezdés k) pontjában az „átruházható értékpapírt” szövegrész helyébe a „pénzügyi eszközt” szöveg lép.
+#### 38. §
 
 #### 10. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
@@ -252,10 +159,7 @@ lép.
 
 #### 47. §
 
-48. § Hatályát veszti az Fnyt.
-
-- a) 45. § (5) bekezdésében az „ , értékpapír forgalmazásra feljogosító szakmai vizsgával” szövegrész,
-- b) 76. § (3) bekezdése.
+#### 48. §
 
 #### 13. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
@@ -286,19 +190,17 @@ lép.
 59. § A Bszt.
 
 - a)
-- b) 38. § (2) bekezdésében az „az átvételi igazolás” szövegrész helyébe az „a teljességi igazolás” szöveg,
-- c) 55. § (8) bekezdésében a „levélben, faxon” szövegrész helyébe a „levélben” szöveg,
-- d) 80. § (4) bekezdésében az „öt napon” szövegrész helyébe az „öt munkanapon” szöveg
+- b)
+- c)
+- d)
 
 lép.
 
-60. § Hatályát veszti a Bszt. 123. § (1) bekezdés f) és i) pontja.
+#### 60. §
 
 #### 14. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-61. § A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 7. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha az üzemben tartó változása a jogi személy jogutódlással történő megszűnése, vagy – az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény alapján – az egyéni vállalkozói tevékenység folytatására való jogosultság egyszemélyes korlátolt felelősségű társaság vagy egyéni cég alapítása miatti megszűnése okán következik be, a szerződés érdekmúlással nem szűnik meg.”
+#### 61. §
 
 #### 15. A pénzforgalmi szolgáltatás nyújtásáról 2009. évi LXXXV. törvény módosítása
 
@@ -306,15 +208,7 @@ lép.
 
 63. § (1)
 
-(2) A Pft. 17. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) Fogyasztóval kötött fizetési számla vezetésére irányuló szerződést a pénzforgalmi szolgáltató a tartozás rendezésére vonatkozó, az ügyfél részére igazolható módon megküldött felszólítást követően két hónapos felmondási idővel felmondja, ha a fizetési számlán fél évet meghaladóan nem történik jóváírás, illetve az ügyfél által kezdeményezett terhelés, továbbá fél évet meghaladó késedelmes tartozás áll fenn és egyúttal a fizetési számla egyenlege negatív. A felmondási kötelezettség nem terheli a pénzforgalmi szolgáltatót, ha a fizetési számla
-
-- a) a pénzforgalmi szolgáltatóval, vagy azzal azonos – a Hpt. szerinti – csoportba tartozó pénzügyi intézménnyel kötött másik és meg nem szűnt szerződés teljesítési helyeként szolgál,
-- b) büntetőeljárásban elrendelt zár alá van helyezve,
-- c) a fizetési számla megszüntetése ellehetetleníti a számlatulajdonos pénzforgalmi szolgáltatóval szembeni kötelezettségeinek teljesítését,
-- d) a fizetési számla megszüntetése hatósági rendelkezés céljával ellentétes vagy annak végrehajtását meghiúsítja, vagy
-- e) bírósági végrehajtási eljárásban elrendelt biztosítási intézkedés hatálya alatt áll.”
+(2)
 
 #### 64. §
 
@@ -322,15 +216,9 @@ lép.
 
 #### 66. §
 
-67. § A Pft. 41. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 67. §
 
-„(3) A pénzforgalmi szolgáltató gondoskodik arról, hogy az ügyfél bármikor díj-, költség- vagy egyéb fizetési kötelezettségtől mentesen megtehesse a 40. § (2) bekezdése szerinti bejelentését, vagy kérelmezhesse a 39. § szerinti letiltás megszüntetését. A fizetési számlát vezető pénzforgalmi szolgáltató legalább telefonon, élőhangos ügyintéző útján, a hét minden napján 0 órától 24 óráig folyamatosan biztosítja, hogy a fogyasztó a bejelentését megtehesse.”
-
-68. § A Pft. 45. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A pénzforgalmi szolgáltató mentesül az (1) bekezdés, valamint a (2) bekezdés a), b) és d) pontjában meghatározott felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta, így különösen ha a készpénz-helyettesítő fizetési eszköz használatához szükséges személyes hitelesítési adatait arra nem jogosult harmadik fél részére átadja vagy megismerhetővé teszi. A fizető fél pénzforgalmi szolgáltatója mentesül a (2) bekezdés c) és e) pontjában meghatározott felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta.
-
-(4) A 40. § (2) bekezdése szerinti bejelentést követően a pénzforgalmi szolgáltató viseli a kárt az olyan jóvá nem hagyott fizetési műveletek vonatkozásában, amelyek a fizető fél birtokából kikerült vagy ellopott készpénz-helyettesítő fizetési eszközzel történtek, vagy a készpénz-helyettesítő fizetési eszköz jogosulatlan használatából erednek, kivéve, ha a fizető fél csalárd módon járt el.”
+#### 68. §
 
 #### 16. A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény módosítása
 
@@ -394,11 +282,7 @@ lép.
 
 #### 96. §
 
-97. § Az Fhtv. 30. § d) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg)
-
-„d) fogyasztónak nyújtott hitel és pénzügyi lízing nyújtása vagy közvetítése esetén a hitelező, a hitelközvetítő és a közvetítői alvállalkozó eljárására, az általuk foglalkoztatott személyek végzettségére, szakképesítésére, belső képzésére és díjazására vonatkozó előírások részletes szabályait.”
+#### 97. §
 
 #### 98. §
 
@@ -454,16 +338,11 @@ lép.
 
 #### 17. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-104. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény 26. § (7) bekezdésében a „11–24. cikkének” szövegrész helyébe az „Első rész II. cím 2. fejezetének” szöveg lép.
+#### 104. §
 
 #### 18. A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény módosítása
 
-105. § A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény (a továbbiakban: Pktv.) 6. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A vegyes pénzügyi holding társaság kizárólag a legjelentősebb pénzügyi ágazatra vonatkozó rendelkezéseket alkalmazza, ha
-
-- a) a csoportban a biztosítók felügyeletéért felelős felügyeleti hatóság egyetért és
-- b) a vegyes pénzügyi holding társaság megfelel a biztosítási tevékenységről szóló törvény érintett előírásainak, így különösen a kockázat alapú felügyelet tekintetében.”
+#### 105. §
 
 #### 106. §
 
@@ -475,43 +354,25 @@ lép.
 
 #### 109. §
 
-110. § Az Mnbtv. 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § Az MNB könyvvizsgálója határozott időre, legfeljebb öt évre kaphat megbízást. Ismételt megbízás esetében a könyvvizsgáló megbízásának megszakítások nélküli időtartama nem haladhatja meg a tíz évet. A megbízás lejártát követően négy éven belül a könyvvizsgálónak az MNB könyvvizsgálói feladatának ellátására újabb megbízás nem adható.”
+#### 110. §
 
 #### 111. §
 
 #### 112. §
 
-113. § Az Mnbtv. 39. § (1) bekezdése a következő u) ponttal egészül ki:
+#### 113. §
 
-[Ha törvény eltérően nem rendelkezik, az MNB a 4. § (9) bekezdésben meghatározott feladatkörében ellátja]
-
-„u) a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény”
-
-[hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.]
-
-114. § Az Mnbtv. 40. § (20) bekezdése helyébe a következő rendelkezés lép:
-
-„(20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 596/2014/EU rendelet) végrehajtását.”
+#### 114. §
 
 #### 115. §
 
-116. § Az Mnbtv. 57. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak. Az adatszolgáltató hatóság előzetes írásos hozzájárulására nincs szükség, ha a kapott adatok továbbítása az MNB vagy a külföldi pénzügyi felügyeleti hatóság döntésével kapcsolatos bírósági-, büntetőeljáráshoz, vagy adójogi eljáráshoz közvetlenül szükséges.”
+#### 116. §
 
 #### 117. §
 
 #### 118. §
 
-119. § Az Mnbtv. 90. § (1) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
-
-(Az MNB piacfelügyeleti eljárást indít)
-
-„e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából,
-
-f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti „páneurópai egyéni nyugdíjtermék” vagy „PEPP” megjelölést viselő termékek nyilvántartásba vétel nélkül történő kínálásának, illetve forgalmazásának gyanúja esetén [az a)–f) pont a továbbiakban együtt: piacfelügyeleti eljárás].”
+#### 119. §
 
 120. § (1)
 
@@ -541,62 +402,28 @@ f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti „páne
 
 - a)
 - b)
-- c) 90. § (1) bekezdés a) pontjában a „kriptoeszköz-szolgáltatás,” szövegrész helyébe a „kriptoeszköz-szolgáltatás, eszközalapú token, illetve elektronikuspénz-token kibocsátói tevékenység,” szöveg,
+- c)
 - d)
 - e)
 - f)
-- g) 135. § (4) bekezdésében az „évente írásban megállapodnak az MNB által szolgáltatandó további információk köréről.” szövegrész helyébe az „írásban megállapodnak az MNB által szolgáltatandó további információk köréről, amelyet szükség esetén felülvizsgálnak.” szöveg,
-- h) 142. § (3) bekezdésében a „hatóságokat, szükség” szövegrész helyébe a „hatóságokat, azon EGT-állam felügyeleti hatóságát, amelyben a 2013/36/EU irányelv 21a. cikkével összhangban jóváhagyott pénzügyi holding társaság, vegyes pénzügyi holding társaság van, szükség” szöveg,
+- g)
+- h)
 
 lép.
 
 (2)
 
-129. § (1) Hatályát veszti az Mnbtv.
-
-- a) 39. § (2a) bekezdése,
-- b) 45. § h) pontja,
-- c) 46. § (1) bekezdés c) pontjában az „és (2a)” szövegrész,
-- d) 48. § (1) bekezdésében az „és h)” szövegrész,
-- e) 48. § (4) bekezdésében a „ , (2a)” szövegrész.
+129. § (1)
 
 (2)
 
 #### 20. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
-130. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fsztv.) a következő 12/A. §-sal egészül ki:
+#### 130. §
 
-„12/A. § A pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek rendelkeznie kell igazgatósággal és felügyelő bizottsággal.”
+#### 131. §
 
-131. § (1) Az Fsztv. 28. § (4) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(A befolyásoló részesedést szerezni kívánó személy bejelentése tartalmazza:)
-
-„e) a bejelentőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 29. § (5) bekezdés a)–d) és h) pontjában meghatározott kizáró ok megítéléséhez szükséges tényeket és a 29. § (6) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot,”
-
-(2) Az Fsztv. 28. § (4) bekezdése a következő h) ponttal egészül ki:
-
-(A befolyásoló részesedést szerezni kívánó személy bejelentése tartalmazza:)
-
-„h) a 17. § (3) bekezdés a)–f), h) és i) pontjában meghatározott követelmények bemutatását.”
-
-(3) Az Fsztv. 28. § (5a) bekezdése helyébe a következő rendelkezés lép és a § a következő (5b) bekezdéssel egészül ki:
-
-„(5a) A befolyásoló részesedést szerző tevékenysége, illetve a pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre gyakorolt befolyása különösen akkor veszélyezteti a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, ha
-
-- a) pénzügyi, gazdasági helyzete az ajánlat tárgyát képező részesedésszerzés nagyságához viszonyítva nem minősíthető megfelelőnek,
-- b) nem bizonyítható a részesedésszerzéshez felhasznált pénzeszközök eredetének törvényessége vagy a pénzeszközök tulajdonosaként megjelölt személy adatainak valódisága,
-- c) szavazati jogának gyakorlását a Felügyelet – a bejelentés benyújtását megelőző öt éven belül – felfüggesztette vagy
-- d) természetes személy esetén a 29. § (5) és (6) bekezdésben foglalt kizáró ok áll fenn.
-
-(5b) A Felügyelet a befolyásoló részesedés szerzését megtiltja, ha a bejelentő részesedés szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.”
-
-132. § Az Fsztv.
-
-- a) 2. § (3) bekezdésében a „13. §” szövegrész helyébe a „12/A. §, a 13. §” szöveg,
-- b) 28. § (5) bekezdésében a „bejelentést követő” szövegrész helyébe a „hiánytalan bejelentés beérkezésétől számított” szöveg
-
-lép.
+#### 132. §
 
 #### 21. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
@@ -640,27 +467,9 @@ lép.
 
 (19)
 
-(20) A Hpt. 6. § (1) bekezdése a következő 114a. ponttal egészül ki:
+(20)
 
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
-
-„114a. Unióban működő önálló hitelintézet: olyan hitelintézet, amely nem tartozik az 575/2013/EU rendelet Első Rész II. cím 2. fejezet szerinti prudenciális konszolidáció hatálya alá az Európai Unióban, és amely nem rendelkezik ilyen prudenciális konszolidáció hatálya alá tartozó EU-szintű anyavállalattal;”
-
-135. § (1) A Hpt. 7. § (3) bekezdés q) pontja helyébe a következő rendelkezés lép:
-
-(A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:)
-
-„q) az általa vagy a vele szoros kapcsolatban álló vállalkozás által üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást,”
-
-(végezhet.)
-
-(2) A Hpt. 7. § (3) bekezdése a következő t) ponttal egészül ki:
-
-(A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:)
-
-„t) a vele szerződéses kapcsolatban álló vállalkozás által üzletszerűen végzett szolgáltatások ügyfelek részére történő ajánlására irányuló tevékenységet, ideértve az ajánlott szolgáltatást elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást”
-
-(végezhet.)
+#### 135. §
 
 #### 136. §
 
@@ -748,19 +557,7 @@ lép.
 
 #### 178. §
 
-179. § (1) A Hpt. 164. § y) pontja helyébe a következő rendelkezés lép:
-
-(Nem jelenti a banktitok sérelmét)
-
-„y) az elhalálozott által felvett és még vissza nem fizetett hitelszerződéshez, hitelkártya-szerződéshez, kölcsönhöz, folyószámla-szerződéshez és le nem járt pénzügyi lízinghez kapcsolódóan a fennálló tartozás összegéről és összetételéről, az ezt alátámasztó adatokról – így különösen az elhalálozás napjáig teljesített befizetéseket tartalmazó, a tartozásra vonatkozó számszaki kimutatásról –, az esedékes havi törlesztőrészletről, azon számlaszámról, amelyre a törlesztőrészletet fizetni kell (hitelszámla száma), valamint a hátralévő futamidőről az örökhagyó közeli hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig,”
-
-(2) A Hpt. 164. §-a a következő zsa) és zsb) ponttal egészül ki:
-
-(Nem jelenti a banktitok sérelmét)
-
-„zsa) a pénzügyi intézmény ügyfelének közhiteles nyilvántartásban szereplő könyvvizsgálója részére történő, az ügyfélről kezelt adatokra vonatkozó adatátadás,
-
-zsb) a pénzügyi intézmény által a büntetőeljárásról szóló törvény alapján tett feljelentésben az eljáró hatóság részére történő adatátadás.”
+#### 179. §
 
 #### 180. §
 
@@ -798,15 +595,11 @@ zsb) a pénzügyi intézmény által a büntetőeljárásról szóló törvény 
 
 #### 195. §
 
-196. § A Hpt. 270/A. §-a helyébe a következő rendelkezés lép:
-
-„270/A. § Hiteltanácsadási tevékenységet végző pénzügyi intézmény, közvetítő, valamint közvetítői alvállalkozó a kereskedelmi kommunikációjában nem használhatja a hiteltanácsadás, a tanácsadás, a független tanácsadás, a hiteltanácsadó, a tanácsadó, a független tanácsadó és más hasonló kifejezéseket.”
+#### 196. §
 
 #### 197. §
 
-198. § A Hpt. 292. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Más EGT-államban székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepének a belföldi fizetési rendszerhez való csatlakozása érdekében a szolgáltatásra vonatkozó szerződéseit és általános szerződési feltételeit úgy módosíthatja, hogy a módosítás az ügyfél számára nem okoz a termékjellemzők alapján Magyarországon nyújtott, versengő, hasonló szolgáltatások átlagos piaci feltételeihez képest érdeksérelmet a szerződés teljesítése során.”
+#### 198. §
 
 #### 199. §
 
@@ -837,10 +630,10 @@ zsb) a pénzügyi intézmény által a büntetőeljárásról szóló törvény 
 - 21.
 - 22.
 - 23.
-- 24. 234/A. § (1) bekezdésében a „betétállomány 0,8%-át” szövegrész helyébe a „betétállomány legalább 0,8%-át” szöveg,
-- 25. 288. § (1) bekezdésében a „postai úton, telefaxon,” szövegrész helyébe „postai úton,” szöveg,
-- 26. 4. melléklet Kifizetési szorzótényező című alcímében a „tőkekövetelményszint felett” szövegrészek helyébe a „tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett” szöveg,
-- 27. 4. melléklet Tőkeáttételi mutató pufferkövetelmény esetében alkalmazandó tényező című alcímében a „tőkekövetelményszint felett” szövegrészek helyébe a „tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett” szöveg
+- 24.
+- 25.
+- 26.
+- 27.
 
 lép.
 
@@ -866,25 +659,7 @@ lép.
 
 (2)
 
-(3) A Kbftv. 11. §-a a következő (8) és (9) bekezdéssel egészül ki:
-
-„(8) Az (1) bekezdés d) pontjában meghatározott okiratok tartalmazzák az ABAK ügyvezetőjére – ideértve a 7. § (1) és (2) bekezdésében meghatározott tevékenységek irányítását ellátó személyeket is – vonatkozóan
-
-- a) a beosztását, felelős területét és a beosztásban eltöltött időt,
-- b) az ABAK-on belüli és azon kívüli jelentéstételi útvonalainak és felelősségeinek ismertetését,
-- c) az egyes felelős területhez kapcsolódó döntésekhez rendelt időtartamot,
-- d) a területéhez tartozó humán és technikai erőforrások ismertetését.
-
-(9) Az (1) bekezdés f) pontja szerinti tájékoztatás tartalmazza
-
-- a) a megbízott harmadik személy nevét és nyilvántartási számát,
-- b) a megbízott harmadik személy letelepedési helye szerinti joghatóságát,
-- c) a megbízott harmadik személy felett felügyeletet gyakorló hatóságot,
-- d) napi befektetéskezelési vagy kockázatkezelési feladatok ellátásához szükséges humán és technikai erőforrásokat az ABAK részéről,
-- e) az átruházott tevékenység nyomon követéséhez szükséges humán és technikai erőforrásokat az ABAK részéről,
-- f) az ABAK által kezelt vagy kezelni kívánt valamennyi ABA vonatkozásában az átruházott befektetéskezelési tevékenység ismertetését, ideértve hogy ez az átruházás részleges vagy teljes,
-- g) az ABAK által kezelt vagy kezelni kívánt valamennyi ABA vonatkozásában az átruházott kockázatkezelési tevékenység ismertetését ideértve, hogy ez az átruházás részleges vagy teljes,
-- h) az átruházott tevékenység ABAK általi nyomon követése célját szolgáló időszakos átvilágítási intézkedések ismertetését.”
+(3)
 
 #### 209. §
 
@@ -916,9 +691,7 @@ lép.
 
 #### 223. §
 
-224. § A Kbftv. 108. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Ingatlanalap esetében – a (3) bekezdésben foglaltaktól eltérően – a befektetési alapkezelő az egyes sorozatok visszaváltási politikájához igazítottan határozza meg a forgalmazás-elszámolási napok és a forgalmazás-teljesítési napok gyakoriságát.”
+#### 224. §
 
 #### 225. §
 
@@ -956,9 +729,7 @@ lép.
 
 #### 242. §
 
-243. § A Kbftv. 202. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A 155–161. § 2026. április 16-án lép hatályba.”
+#### 243. §
 
 #### 244. §
 
@@ -1008,15 +779,13 @@ lép.
 
 #### 251. §
 
-252. § A Szantv. 68/D. § (5) bekezdés a) pontjában a „tagállamok közötti” szövegrész helyébe a „tagállamok vagy harmadik országok közötti” szöveg lép.
+#### 252. §
 
 #### 24. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosításáról
 
 #### 253. §
 
-254. § A Bit. 373. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A biztosításközvetítővel – ide nem értve a Hpt. hatálya alá tartozó hitelintézetet – munkaviszonyban, megbízási vagy munkavégzésre irányuló egyéb jogviszonyban álló, biztosításközvetítői tevékenységet végző személy biztosításközvetítői tevékenységének végzésére mással további megbízási vagy munkavégzésre irányuló – munkaviszonynak nem minősülő – egyéb jogviszonyt nem létesíthet.”
+#### 254. §
 
 #### 255. §
 
@@ -1024,19 +793,9 @@ lép.
 
 #### 25. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény módosítása
 
-257. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 70. §-a helyébe a következő rendelkezés lép:
+#### 257. §
 
-„70. § (1) Az 5. §-ban meghatározott felügyeletet ellátó szervek a felügyeleti tevékenység gyakorlása során szorosan együttműködnek egymással, a pénzügyi információs egységgel, a nyomozó hatósággal, az ügyészséggel és a bírósággal, valamint a más tagállambeli vagy harmadik országbeli felügyeletet ellátó szervekkel.
-
-(2) A Felügyelet (1) bekezdés szerinti együttműködése a Hpt.-ben, valamint az 575/2013/EU rendeletben meghatározott feladatok szempontjából lényeges információk megosztására is kiterjed.”
-
-258. § A Pmt. 82. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(E törvény)
-
-„f) a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
+#### 258. §
 
 #### 26.
 
@@ -1046,30 +805,19 @@ lép.
 
 #### 27. A nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló 2025. évi XII. törvény módosítása
 
-261. § A nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló 2025. évi XII. törvény (a továbbiakban: Nhf.) 19. §-a a következő (7) bekezdéssel egészül ki:
+#### 261. §
 
-„(7) A hitelgondozó által másik EGT-államban határon átnyúló szolgáltatásként, vagy fióktelep létesítésével történő hitelgondozókénti működés a fogadó EGT-állam nemzeti jogában megállapított korlátozásokra és követelményekre figyelemmel végezhető.”
-
-262. § Az Nhf. 34. §-a helyébe a következő rendelkezés lép:
-
-„(1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
-
-- a) a hitelgondozó panaszkezelésének eljárására, valamint a panaszkezelési szabályzatra
-- b) a hitelgondozó ügyvezető szerve egészének és az ügyvezető szerv tagjainak a hitelgondozási tevékenység végzéséhez szükséges ismeretek és tapasztalat értékelésére
-
-vonatkozó részletes szabályokat.
-
-(2) Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg a hitelgondozók panaszkezelése formájára és módjára vonatkozó részletes szabályokat.”
+#### 262. §
 
 263. § Az Nhf.
 
 - a)
 - b)
-- c) 17. § (4) bekezdésében a „Felügyelet” szövegrész helyébe a „Felügyelet, valamint a fogadó EGT-állam illetékes felügyeleti hatósága” szöveg,
-- d) 21. § (5) bekezdésében az „intézkedésekről” szövegrész helyébe az „intézkedésekről, a lefolytatott vizsgálatok és ellenőrzések megállapításairól” szöveg,
-- e) 21. § (9) bekezdésében a „szemben intézkedést” szövegrész helyébe a „szemben – a székhely szerinti EGT-állam illetékes felügyeleti hatóságának tájékoztatását követően – intézkedést” szöveg,
-- f) 22. § (2) bekezdés a) pont aa) alpontjában a „tulajdonosok” szövegrész helyébe a „tulajdonosok 1. melléklet szerinti” szöveg,
-- g) 26. § (1) bekezdés a) pontjában a „személyek” szövegrész helyébe a „személyek 1. melléklet szerinti” szöveg
+- c)
+- d)
+- e)
+- f)
+- g)
 
 lép.
 
