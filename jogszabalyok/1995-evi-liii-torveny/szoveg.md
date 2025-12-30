@@ -948,7 +948,7 @@ tarthatók nyilván.
 
 66. § (1) A környezethasználat – a (2) bekezdésben meghatározott kivételekkel –
 
-- a) a környezeti hatásvizsgálat hatálya alá tartozó tevékenységek esetén – a b) pontban és az (1a) bekezdésben foglaltak kivételével – a tevékenységre a környezetvédelmi hatóság által kiadott környezetvédelmi engedély,
+- a) a környezeti hatásvizsgálat hatálya alá tartozó tevékenységek esetén – a b) pontban és a 66/B. §-ban foglaltak kivételével – a tevékenységre a környezetvédelmi hatóság által kiadott környezetvédelmi engedély,
 - b) az egységes környezethasználati engedélyezés hatálya alá tartozó esetekben a környezetvédelmi hatóság által kiadott egységes környezethasználati engedély,
 - c) a környezetvédelmi felülvizsgálat hatálya alá tartozó tevékenységek esetén a környezetvédelmi hatóság által kiadott környezetvédelmi működési engedély,
 - d) az a)–c) pont hatálya alá nem tartozó – az e törvény végrehajtására kiadott rendeletben meghatározott – esetekben a környezethasználó kérelmére a környezetvédelmi hatóság által kiadott egybefoglalt környezethasználati engedély,
@@ -957,7 +957,7 @@ tarthatók nyilván.
 
 véglegessé válását követően kezdődhet meg, illetve folytatható.
 
-(1a) A környezethasználat – a (2) bekezdésben meghatározott kivételekkel – az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdésének vagy 2. cikk (4) bekezdésének végrehajtása érdekében, törvényben meghatározott esetekben a környezeti hatásvizsgálati eljárás lefolytatása nélkül kezdődhet meg, illetve folytatható.
+(1a)
 
 (1b) A villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdés b) pontja szerinti eljárásban a környezetvédelmi engedély az integrált építési és környezetvédelmi engedély részeként kerül kiadásra.
 
@@ -982,7 +982,16 @@ véglegessé válását követően kezdődhet meg, illetve folytatható.
   - ab) a szakkérdés vizsgálatának eredményét és az annak alapján meghatározott egyedi előírásokat,
 - b) indokolása tartalmazza a szakkérdés vizsgálata során tett részletes megállapításokat.
 
-#### 66/B. §
+66/B. § (1) Ha a környezeti hatásvizsgálati eljárás, illetve az előzetes vizsgálati eljárás lefolytatása hátrányosan befolyásolja a kizárólag védelmi célokat szolgáló vagy kizárólag a polgári lakosságot fenyegető veszélyhelyzetekre reagáló projekt – vagy annak részeleme – céljának a teljesülését, a feladat- és hatáskörrel rendelkező miniszter javaslatára a Kormány az eljárás lefolytatása alól egyedi mentesítést adhat.
+
+(2) Ha a környezeti hatásvizsgálati eljárás, illetve az előzetes vizsgálati eljárás lefolytatása a projekt céljának a teljesülését hátrányosan érinti, a Kormány kivételes esetben és amennyiben a 2011/92/EU európai parlamenti és tanácsi irányelv célkitűzései teljesülnek – a feladat- és hatáskörrel rendelkező miniszter javaslatára – döntésével az eljárás alól egyedi mentesítést adhat.
+
+(3) A (2) bekezdés szerinti mentesítés esetén
+
+- a) meg kell vizsgálni, hogy egyéb helyettesítő hatásvizsgálati módszer alkalmazható-e,
+- b) az érintett nyilvánosság rendelkezésére kell bocsátani az a) pont szerinti helyettesítő vizsgálati módszerrel szerzett információkat, a mentességről szóló kormánydöntésre vonatkozó adatokat, beleértve a mentesség engedélyezésének indokait,
+- c) a valószínűsíthetően határon átnyúló környezeti hatások esetében a szomszédos országokkal le kell folytatni a szükséges egyeztetéseket, továbbá
+- d) a környezetvédelmi engedély megadása előtt tájékoztatni kell az Európai Bizottságot a mentesítés okairól, a nyilvánosság rendelkezésére bocsátott adatokról.
 
 ### Előzetes vizsgálati eljárás, előzetes konzultáció
 
@@ -992,7 +1001,7 @@ véglegessé válását követően kezdődhet meg, illetve folytatható.
 
 (3) A környezethasználó előzetes konzultációt kezdeményezhet a környezetvédelmi hatóságnál, ha a tervezett tevékenység nem a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, vagy ha kizárólag egységes környezethasználati engedélyezési eljárás köteles.
 
-(4) Az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdésének vagy 2. cikk (4) bekezdésének végrehajtása érdekében, törvényben meghatározott esetekben nem kell előzetes vizsgálati eljárást lefolytatni.
+(4)
 
 ### A környezeti hatásvizsgálati eljárás
 
@@ -1715,7 +1724,7 @@ szakkérdéseket.
 
 111. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a)
+- a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 2011/92/EU irányelv módosításáról szóló, 2014. április 16-i 2014/52/EU európai parlamenti és tanácsi irányelv;
 - b) a Tanács 91/271/EGK irányelve (1991. május 21.) a települési szennyvízkezelésről;
 - c) a Tanács 92/43/EGK irányelvének (1992. május 21.) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről 6. cikk (3) bekezdése;
 - d) a Tanács 98/83/EK irányelve (1998. november 3.) az emberi fogyasztásra szánt víz minőségéről;
@@ -1738,4 +1747,4 @@ való megfelelést szolgálja.
 
 113. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-114. § A 66/B. §-t hatályon kívül helyező, az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvény 10. § hatálybalépésének napján folyamatban lévő másodfokú hatósági eljárást a hatóság megszünteti. Az elsőfokú hatósági döntéssel szemben kereset benyújtására a másodfokú hatósági eljárást megszüntető hatósági döntés közlését követő 30 napon belül nyílik lehetőség.
+#### 114. §

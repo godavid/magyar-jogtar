@@ -588,6 +588,8 @@ alapul.
 
 (3a) A határozatlan vagy határozott időre kötött üzemeltetési szerződést az év végére szólóan, de legalább 4 hónapos felbontási határidővel a felek közös megegyezéssel is megszüntethetik.
 
+(3b) A (3a) bekezdésben foglaltaktól eltérően a határozatlan vagy határozott időre kötött üzemeltetési szerződés a felek közös megegyezésével 30 napos felmondási határidővel is megszüntethető, ha az ellátásért felelős ezzel egyidejűleg gondoskodik az új üzemeltetési szerződés megkötéséről, a szerződött víziközmű-szolgáltató pedig az új üzemeltetési szerződés jóváhagyására, valamint az engedély kiadására vagy annak módosítására irányuló kérelem Hivatalhoz történő benyújtásáról.
+
 (4) Az engedély visszavonásával az érintett ellátási területre vonatkozó üzemeltetési szerződés hatálya megszűnik.
 
 21. § (1) Az üzemeltetési szerződés megszűnése esetében a víziközmű-szolgáltató az ellátásért felelős részére átadja az érintett felhasználókra, felhasználási helyekre és víziközművekre vonatkozóan
@@ -1469,9 +1471,9 @@ kiállított számla érvénytelen.
 
 - a) amelyet a víziközmű-szolgáltató az elismert indokolt költségeihez képest elért többletbevételeire tekintettel az erre szolgáló Víziközmű-fejlesztési és Ellentételezési Alapba befizet,
 - b) amelyet a víziközmű-szolgáltató a Víziközmű-fejlesztési és Ellentételezési Alapból – a meg nem térülő elismert indokolt költségeire tekintettel – ellentételezésként igényelni jogosult, továbbá
-- c) amelyet a víziközmű-szolgáltató elkülönítetten kezel, és kizárólag a víziközművek fenntartására fordít.
+- c) amelyet a víziközmű-szolgáltató kizárólag a víziközművek és a tulajdonában álló víziközmű-működtető eszközök fenntartására fordít.
 
-(2) Az (1) bekezdés c) pontja szerint a víziközművek fenntartására elkülönített összeget a víziközmű-szolgáltató a keresztfinanszírozás tilalmára tekintet nélkül jogosult felhasználni.
+(2) Az (1) bekezdés c) pontja szerint a víziközművek és a víziközmű-szolgáltató tulajdonában álló víziközmű-működtető eszközök fenntartására fordítandó összeget a víziközmű-szolgáltató a keresztfinanszírozás tilalmára tekintet nélkül jogosult felhasználni.
 
 (3) Az (1) bekezdés a) pontja szerinti befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.
 
@@ -1635,7 +1637,7 @@ rendeletben állapítsa meg.
 - 1. állapítsa meg a víziközművek vagyonértékelésének részletes szabályait;
 - 2. állapítsa meg a víziközmű-szolgáltatás átláthatóságának biztosítása érdekében a víziközmű-szolgáltatók által közérdekből közzéteendő adatok körét és a közzététel módját;
 - 3. állapítsa meg a lakossági és a nem lakossági felhasználók vonatkozásában a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
-- 4. állapítsa meg a Víziközmű-fejlesztési és Ellentételezési Alap működtetésének részletes szabályait, valamint az abba történő befizetés és abból történő kifizetés során a víziközmű-fejlesztési és ellentételezési alapot működtető szerv, valamint a víziközmű-szolgáltatók jogosultságait és kötelezettségeit, továbbá a víziközművek fenntartásához elkülönítetten kezelt összegek mértékét, az újraelosztás alapját képező elismert indokolt költségek körét;
+- 4. állapítsa meg a Víziközmű-fejlesztési és Ellentételezési Alap működtetésének részletes szabályait, valamint az abba történő befizetés és abból történő kifizetés során a víziközmű-fejlesztési és ellentételezési alapot működtető szerv, valamint a víziközmű-szolgáltatók jogosultságait és kötelezettségeit, továbbá a víziközművek fenntartásához elkülönítetten kezelt összegek mértékét és annak felhasználásának szabályait, az újraelosztás alapját képező elismert indokolt költségek körét;
 - 5. állapítsa meg a víziközműves kapcsolódó szolgáltatás esetében az átadási árakat, és azok alkalmazásának kezdő időpontját;
 - 6.
 - 7.
