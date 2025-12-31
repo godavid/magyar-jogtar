@@ -114,8 +114,8 @@ a rendészeti feladatellátás hatékonyságát támogató törvények módosít
 - h)
 - i)
 - j)
-- k) 350. § (4) bekezdésében a „2025.” szövegrész helyébe a „2026.” szöveg,
-- l) 350. § (4b) bekezdésében a „2025.” szövegrész helyébe a „2026.” szöveg
+- k)
+- l)
 
 lép.
 

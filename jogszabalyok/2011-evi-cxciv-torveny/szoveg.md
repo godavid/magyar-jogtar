@@ -325,6 +325,8 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 15. § (1) A Költségvetési Tanács (a továbbiakban: Tanács) testületként eljárva vesz részt a központi költségvetésről szóló törvény (a továbbiakban: költségvetési törvény) előkészítésében és az államadósság mértékére vonatkozó előírások betartásának ellenőrzésében.
 
+(1a) A Tanács testületként eljárva értékeli az államháztartásra vonatkozó éves és többéves költségvetési tervezéshez szükséges makrogazdasági és költségvetési előrejelzéseket.
+
 (2) A Tanács kizárólag az Alaptörvénynek és a törvényeknek alárendelve végzi tevékenységét.
 
 (3) A Tanács tagjai önállóan alakítják ki véleményüket, álláspontjuk képviseletében egymástól függetlenek.
@@ -415,6 +417,23 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (2) Az Állami Számvevőszék és a Magyar Nemzeti Bank az Állami Számvevőszék elnökének és a Magyar Nemzeti Bank elnökének a Tanács tagjaként ellátandó feladatait a Tanács által tárgyalt kérdésekhez kapcsolódó elemzéseknek és megállapításoknak a Tanács rendelkezésére bocsátásával segíti.
 
+(3) A Tanács rendszeresen elvégzi az éves és többéves költségvetési tervezésre vonatkozó makrogazdasági és költségvetési előrejelzések utólagos értékelését, amelynek keretében
+
+- a) értékeli, illetve véleményezi a központi költségvetés megalapozásához használt makrogazdasági és költségvetési előrejelzéseket,
+- b) nyomon követi az államadósság-szabály és a hazai és uniós országspecifikus számszerű költségvetési szabályok teljesülését,
+- c) értékeli a középtávú költségvetési tervezés összhangját a fenntarthatósági követelményekkel.
+
+(4) A Tanács a (3) bekezdés szerinti értékelés eredményét nyilvánosan közzéteszi.
+
+(5) A Kormány a (4) bekezdés szerint közzétett eredményt
+
+- a) elfogadja, és alkalmazza az előrejelzések készítése során, vagy
+- b) az abban foglaltaktól eltérő álláspontját indokolással ellátva megküldi a Tanács részére.
+
+(6) A Tanács a (3) bekezdés szerinti feladatainak eredményes elvégzéséhez – ideértve a feladataikon belül bármilyen típusú elemzést is – megfelelő és stabil erőforrásokkal rendelkezik.
+
+(7) A Tanács a (3) bekezdés szerinti feladatainak ellátása során utasítást nem fogadhat el.
+
 24. § (1) A Kormány
 
 - a) a központi költségvetésről szóló törvény tervezetét és
@@ -429,6 +448,8 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 (4) Ha a Tanács a (2) bekezdésben meghatározott határidőig a tervezettel kapcsolatos egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és azt követően nyújtja be az Országgyűlésnek. A Kormány a benyújtással egyidejűleg, a törvényjavaslat indokolásában tájékoztatja az Országgyűlést arról, hogy a Tanács észrevételei alapján milyen módosításokat hajtott végre a törvénytervezetben, illetve indokolja a Tanács észrevételeinek esetleges elutasítását. Ha a Tanács véleményében azt állapította meg, hogy a törvénytervezet szerinti kormányzati szektor egyenlege nem felel meg a 3/A. § (1) bekezdése szerinti követelményeknek, akkor a Kormány a törvényjavaslat indokolásában köteles értékelni a 3/A. § (1) bekezdése szerinti követelmények teljesítését.
 
 (5) Az Országgyűlésnek benyújtott központi költségvetésről szóló törvényjavaslatra a Tanács észrevételt tehet.
+
+(6) A Kormány a 23. § (3) bekezdése szerinti feladat elvégzéséhez szükséges információkat a Tanács rendelkezésére bocsátja, az erre irányuló kérelme kézhezvételét követően haladéktalanul.
 
 #### 7. A Költségvetési Tanács eljárása az államadósság mértékének vizsgálatában
 
@@ -760,3 +781,5 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 #### 16. Az Európai Unió jogának való megfelelés
 
 54. § Az 1. § d)–e) pontja, a 3/A. § és az 5/A. § a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+55. § A 15. § (1a) bekezdése, a 23. § (3)–(5) bekezdése, valamint a 24. § (6) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelvnek való megfelelést szolgálja.
