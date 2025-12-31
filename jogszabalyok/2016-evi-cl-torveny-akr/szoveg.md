@@ -1455,8 +1455,9 @@ Ha az ügyész az ügyészségről szóló törvény alapján felhívással él,
 (2) A döntés – a (3) bekezdésben foglaltak kivételével – semmisségi ok esetén sem semmisíthető meg, ha
 
 - a) az az ügyfél jóhiszeműen szerzett és gyakorolt jogát sértené, és a döntés véglegessé válása óta három év eltelt,
-- b) a kötelezettséget megállapító döntés véglegessé válásától, vagy ha az hosszabb, a teljesítési határidő utolsó napjától, a folyamatos kötelezettséget megállapító döntés esetén az utolsó teljesítéstől számított öt év eltelt, vagy
-- c) ahhoz a mellőzött, vagy megkeresni elmulasztott szakhatóság az 56. § (2) bekezdése szerint hozzájárult.
+- b) a kötelezettséget megállapító döntés véglegessé válásától, vagy ha az hosszabb, a teljesítési határidő utolsó napjától, a folyamatos kötelezettséget megállapító döntés esetén az utolsó teljesítéstől számított öt év eltelt,
+- c) ahhoz a mellőzött, vagy megkeresni elmulasztott szakhatóság az 56. § (2) bekezdése szerint hozzájárult, vagy
+- d) ahhoz az eljárásba be nem vont ügyfél hozzájárult, vagy az eljárásba be nem vont ügyfél részére a jogorvoslati eljárás során jogainak gyakorlása a szükséges eljárási cselekmények megismétlésével vagy pótlásával biztosítható.
 
 (3) Az (1) bekezdés d) és e) pontjában foglalt semmisségi ok esetében a döntés időkorlátozás nélkül megsemmisíthető, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint.
 

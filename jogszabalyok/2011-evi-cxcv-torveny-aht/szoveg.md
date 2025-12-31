@@ -571,7 +571,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 - a) tájékoztatást ad a több év költségvetési kiadási előirányzatait terhelő programok, beruházások és más fejlesztések későbbi évekre vonatkozó hatásairól,
 - b) a 29. § (1) bekezdése szerinti tervszámokkal, mint változatlan szakpolitikát jelentő fiskális pályával összhangban, indokolással együtt bemutatja a tárgyévet követő négy év tervezett költségvetési bevételi előirányzatainak és költségvetési kiadási előirányzatainak keretszámait főbb csoportokban, valamint a 29. § (1) bekezdése szerinti tervszámoktól mint változatlan szakpolitikától történő eltérés esetén az eltérés indokait,
-- c) ismerteti a középtávú költségvetési tervezés részeként a fő kormányzati politikák hosszú távú fenntarthatóságának felmérését, a közvetlen hosszú távú hatással rendelkező szakpolitikák bemutatásával, így különösen bemutatja az állami nyugdíj, egészségügyi, oktatási és egyéb korfüggő kiadások hosszú távú alakulását,
+- c) ismerteti a középtávú költségvetési tervezés részeként az állami kezességek, az állami garanciák és az állami viszontgaranciák – ideértve a természeti jelenségből vagy az emberi tevékenységből eredő természeti katasztrófákkal, valamint az éghajlatváltozás káros hatásainak elkerülésével kapcsolatban vállalt állami kezességek, állami garanciák és állami viszontgaranciák – állományát, valamint a fő kormányzati politikák hosszú távú fenntarthatóságának felmérését, a közvetlen hosszú távú hatással rendelkező szakpolitikák bemutatásával, így különösen bemutatja az állami nyugdíj, egészségügyi, oktatási és egyéb korfüggő kiadások hosszú távú alakulását,
 - d) ismerteti a kormányzati szektor Gst. 1. § c) pontja szerinti egyenlegére és a Gst. 1. § e) pontja szerinti strukturális egyenlegre vonatkozó tervezett mértékeket és azok indokait,
 - e) mellékeli a Nyugdíjbiztosítási Alap bevételeire és kiadásaira vonatkozó demográfiai folyamatokat és az azok hatásait figyelembevevő ötven évre szóló előrejelzését.
 
@@ -579,7 +579,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 - a) az államháztartás költségvetési bevételeit és költségvetési kiadásait mérlegszerűen (a továbbiakban: költségvetési mérleg) alrendszerenként és összevontan, közgazdasági és funkcionális tagolásban,
 - b) az államháztartás alrendszerei költségvetési egyenlegének összefüggését és kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor hiányával, és az ugyanott meghatározott kamatkiadásokat figyelmen kívül hagyó elsődleges egyenlegmutatóval, és
-- c) a központi költségvetésről szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként.
+- c) a központi költségvetésről szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó, azok bevételekre gyakorolt hatását is részletező kimutatást adónemenként, kitérve ezeknek az éghajlattal és környezetvédelemmel összefüggő kötelezettségek teljesítésére gyakorolt hatására.
 
 (5) A Kormány a központi költségvetésről szóló törvényjavaslat szerkezetéhez igazodó részletező táblázatokat és ezek szöveges indokolásait a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül, a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatot pedig akként nyújtja be az Országgyűlésnek, hogy az a központi költségvetésről szóló törvénnyel legalább egyidejűleg hatályba lépjen.
 
@@ -1858,7 +1858,7 @@ kell készíteni.
 - c) az államadósságot és az államadósság állományának változását bemutató összegzést,
 - d) az állami kezességek, állami garanciák és állami viszontgaranciák állományát,
 - e) az állam tulajdonában álló részesedések, valamint az állam többségi befolyása alatt álló gazdasági társaságok kötelezettségállománya alakulását,
-- f) a középtávú tervezés során figyelembe vett makrogazdasági és költségvetési előrejelzés értékelését,
+- f) a középtávú tervezés során figyelembe vett, valamint a Költségvetési Tanács által utólagosan értékelt makrogazdasági és költségvetési előrejelzés értékelését,
 - g) a zárszámadásról szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként,
 - h) a helyi önkormányzatok tulajdonában álló gazdálkodó szervezetek működéséből származó kötelezettségeket, a részesedések alakulását,
 - i) a helyi önkormányzatok által kibocsátott garanciák és kezességek állományát,
@@ -2695,6 +2695,8 @@ rendeletben szabályozza.
 
 (49) A 2025. január 1-je és a Módtv5. hatálybalépése közötti időszakban az 51. § (4b) bekezdése szerinti szervek és szervezeteknek a nem a kincstárnál vezetett fizetési számláján lévő, de a kincstár által vezetett fizetési számlára átutalt támogatási összeget a kincstár a kedvezményezett részére visszatéríti.
 
+(50) E törvénynek az államháztartási tárgyú törvényeknek a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelv átültetésével összefüggő módosításáról szóló 2025. évi XCI. törvénnyel megállapított 22. § (3) bekezdés c) pontját, valamint 22. § (4) bekezdés c) pontját első alkalommal a 2027. évi központi költségvetés tervezése során kell alkalmazni.
+
 111/A. § A befektetési jegy megszerzésére visszatérítendő költségvetési támogatást nyújtó szerv olyan tartalommal módosíthatja a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény (a továbbiakban: Módtv1.) hatálybalépését megelőzően megkötött támogatási szerződést, amely lehetőséget ad számára, hogy a támogatási jogviszonyból eredő követelését a befektetési alap befektetési jegyeinek megszüntetéséből felszabaduló pénzeszköz értéke alapján határozza meg. Ha a pénzeszközök értéke kevesebb, mint a követelés eredeti összege, akkor ez a veszteség jellegű különbözet elengedett követelésnek minősül.
 
 111/B. § E törvénynek a Módtv1.-el megállapított 15. § (1) és (7) bekezdését valamint 16. § (1) bekezdését első alkalommal a Magyarország 2021. évi központi költségvetéséről szóló törvény szerkezete tekintetében kell alkalmazni.
@@ -2787,6 +2789,8 @@ lehet az államháztartás központi alrendszerébe tartozó költségvetési sz
 112. § (1) A 13. §, a 22–24. §, a 29. §, a 29/A. §, a 90. § (3) bekezdés f) pontja és a 103. § (4) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) Ez a törvény a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) A 22. § (3) bekezdés c) pontja, a 22. § (4) bekezdés c) pontja, a 90. § (3) bekezdés f) pontja, valamint a 111. § (50) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 113. §
 

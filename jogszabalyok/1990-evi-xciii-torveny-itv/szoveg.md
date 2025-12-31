@@ -82,9 +82,8 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - r) a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alap és a Magyar Állam vagy a Szanálási Alap által létrehozott, az alapító, alapítók kizárólagos tulajdonában álló szanálási vagyonkezelő,
 - s) a tőkepiacról szóló 2001. évi CXX. törvény szerinti Befektető-védelmi Alap,
 - t) a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alap.
-- u) a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény szerinti HUN-REN Magyar Kutatási Hálózat.
 
-(2) Az (1) bekezdés c)–g), m) és u) pontban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetve az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, külföldi illetőségű szervezet esetén a társasági adónak megfelelő közteherfizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
+(2) Az (1) bekezdés c)–g) és m) pontban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetve az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, külföldi illetőségű szervezet esetén a társasági adónak megfelelő közteherfizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
 
 (3) A szervezet (alapítvány) közigazgatási hatósági vagy bírósági eljárás kezdeményezése, illetve gépjármű, pótkocsi szerzése esetén nyilatkozik az illetékmentesség (2) bekezdésben meghatározott feltételének fennállásáról, egyéb vagyonszerzés esetén a feltétel teljesülését az állami adóhatóság hivatalból ellenőrzi.
 
@@ -215,7 +214,7 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés g) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.
 
-(3) Ha az öröklés útján megszerzett képző-, ipar-, népművészeti alkotást, muzeális tárgyat, gyűjteményt vagy ennek egy részét az örökös az államnak, a helyi önkormányzatnak, a HUN-REN Magyar Kutatási Hálózatnak, a Magyar Tudományos Akadémiának vagy felsőoktatási intézménynek felajánlja, és a felajánlást elfogadják, az örökös mentesül a felajánlott ingóörökségre eső öröklési illeték alól. A teljes öröklési illeték alól mentesül az örökös, ha a felajánlott és elfogadott ingóörökség értéke eléri az ugyanabból a hagyatékból származó valamennyi örökségét terhelő illeték összegét.
+(3) Ha az öröklés útján megszerzett képző-, ipar-, népművészeti alkotást, muzeális tárgyat, gyűjteményt vagy ennek egy részét az örökös az államnak, a helyi önkormányzatnak, vagy felsőoktatási intézménynek felajánlja, és a felajánlást elfogadják, az örökös mentesül a felajánlott ingóörökségre eső öröklési illeték alól. A teljes öröklési illeték alól mentesül az örökös, ha a felajánlott és elfogadott ingóörökség értéke eléri az ugyanabból a hagyatékból származó valamennyi örökségét terhelő illeték összegét.
 
 (4) A kiskorú örökös az öröklési illetéket a nagykorúvá válásától számított két évig késedelmipótlék-mentesen fizetheti meg. E fizetési határidő lejárta előtt a tartozás annyiszor 10%, de legfeljebb 70% kedvezménnyel fizethető meg, ahány megkezdett naptári évvel korábban teljesítik azt.
 
@@ -1010,6 +1009,8 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 50. § (1) A 39–41. § szerint meghatározott illetékalap után az illeték mértéke ítélet elleni felülvizsgálat és jogegységi panasz esetén 10%, de legalább 50 000 forint, legfeljebb 3 500 000 forint.
 
+(1a) Ha a rövidített indokolást tartalmazó ítélet esetében a felülvizsgálat előzetes szándékbejelentéshez kötött, a felülvizsgálati szándék bejelentésének illetéke a felülvizsgálat illetékének 5%-a, de legalább 15 000 forint, legfeljebb 150 000 forint.
+
 (2) A végzés elleni felülvizsgálat illetéke az (1) bekezdés szerint számított illeték fele, de legalább 20 000 forint, legfeljebb 1 250 000 forint.
 
 (2a) A felülvizsgálat engedélyezése iránti kérelem illetéke
@@ -1123,7 +1124,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (5) Ha az illeték mérséklésének az oka a fellebbezési eljárásban vagy a felülvizsgálati eljárásban merül fel, a mérsékelt illeték kedvezménye csak a fellebbezési vagy a felülvizsgálati eljárás illetékére terjed ki.
 
-(6)
+(6) Az illeték a peres eljárás illetékének 80%-a, ha közigazgatási perben a fél nem kéri tárgyalás tartását és a bíróság tárgyalás tartása nélkül hozza meg az ítéletet.
 
 (7) Az (1) bekezdés a) pont aa) alpontjának rendelkezését a nemperes eljárásban, továbbá az egyéb közigazgatási bírósági eljárásban megfelelően alkalmazni kell, ha a fél a bíróság érdemi határozatának meghozatala előtt áll el a kérelmétől. A fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bekezdés] – amennyiben ennek feltételei egyébként fennállnak – a mérsékelt illeték kedvezménye csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
 
