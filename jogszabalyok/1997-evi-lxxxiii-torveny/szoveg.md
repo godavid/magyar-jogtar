@@ -1184,7 +1184,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (7) A közös háztartásban élő gyermek jogán – választásuk szerint – a szülők valamelyike gyermekápolási táppénzre szerezhet jogosultságot.
 
-39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének megállapításánál – az e törvényben foglalt kivételekkel – az ellátásra való jogosultság kezdő napján kizárólag ugyanannál a foglalkoztatónál fennálló biztosítási jogviszonyban az adóelőleg megállapításához bevallott jövedelmet kell figyelembe venni.
+39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének megállapításánál – az e törvényben foglalt kivételekkel – az ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszonyban az adóelőleg megállapításához bevallott jövedelmet kell figyelembe venni.
 
 (2) Az (1) bekezdés szerinti ellátások alapjának megállapításánál a jogosultság kezdőnapjának hónapjára járó, szerződés szerinti jövedelmet kell figyelembe venni, ha a tényleges jövedelem 30 naptári napnál kevesebb.
 
