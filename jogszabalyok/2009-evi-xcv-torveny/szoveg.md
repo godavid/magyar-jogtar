@@ -27,7 +27,7 @@ A magyarországi élelmiszer termékpálya szerves részét képező élelmiszer
   - ec) 3 hónapos minőségmegőrzési idő esetén a minőségmegőrzési idő utolsó két hetében,
   - ed) több, mint 3 hónapos minőségmegőrzési idő esetén – ide nem értve azon termékeket, amelyeken nem szükséges a minőségmegőrzési idő feltüntetése – a minőségmegőrzési idő utolsó négy hetében.
 - f) romlandó mezőgazdasági és élelmiszeripari termék: olyan mezőgazdasági és élelmiszeripari termék, amely jellegénél fogva vagy az adott feldolgozottsági szakaszában a begyűjtést, az előállítást vagy a feldolgozást követően várhatóan 30 napon belül értékesítésre alkalmatlanná válik.
-- g) nem teljes értékű termék: előre nem látható okból a kereskedő készletében felhalmozódott közeli lejáratú termék, a kereskedő készletében egy éven túl jelen levő termék, továbbá a szezonális termék a jellemző fogyasztási időszakának végét megelőző utolsó nyitvatartási napot követően.
+- g) nem teljes értékű termék: előre nem látható okból a kereskedő készletében felhalmozódott közeli lejáratú termék, a kereskedő készletében egy éven túl jelen levő termék, továbbá a szezonális termék a jellemző fogyasztási időszakának végét megelőző utolsó nyitvatartási nappal kezdődően.
 
 ### A tisztességtelen forgalmazói magatartás
 

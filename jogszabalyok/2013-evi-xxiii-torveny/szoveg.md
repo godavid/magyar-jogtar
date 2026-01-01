@@ -10,11 +10,15 @@ Az Országgyűlés a behozott kőolaj és kőolajtermékek biztonsági készlete
 
 - 1. biztonsági kőolajkészlet: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet A. melléklet 3.4. fejezetében meghatározott nyersolajból és kőolajtermékekből álló, e törvény szerint kötelezően tárolandó készlet;
 - 2. biztonsági kőolajkészlet felszabadítására irányuló nemzetközi döntés: a Nemzetközi Energia Ügynökség kormányzótanácsának döntése, amely a tagjai készleteinek felszabadításával, illetve kiegészítő intézkedésekkel kőolajat vagy kőolajterméket tesz elérhetővé a piac számára;
-- 3. az ellátás súlyos zavara: az Európai Unió vagy valamely tagállam kőolaj- vagy kőolajtermék ellátásának jelentős és hirtelen csökkenése függetlenül attól, hogy eredményezett-e biztonsági kőolajkészlet felszabadítására irányuló nemzetközi döntést;
-- 4. fizikai hozzáférés: a kőolajkészlet kitárolása, szabad forgalomba hozatala, valamint a felhasználók részére történő eljuttatása annak érdekében, hogy enyhítse vagy megoldja az esetlegesen felmerülő ellátási problémákat, valamint lehetővé tegye a készletek karbantartásával, frissítésével kapcsolatos feladatok ellátását;
-- 5. kőolaj- és kőolajtermék-ellátási válsághelyzet: az a helyzet, amikor a behozatal belföldi fogyasztáshoz mért csökkenése eléri a 7%-ot, és a belföldi felhasználási igény csak a biztonsági kőolajkészlet terhére elégíthető ki, továbbá az, amikor az Európai Unió vagy a Nemzetközi Energia Ügynökség válsághelyzeti intézkedéseket rendel el, így különösen a készletek felszabadítására irányuló nemzetközi döntést hoz; a nyersolaj és a kőolajtermékek hazai árának alakulása következtében kialakuló helyzet nem minősül kőolaj- és kőolajtermék-ellátási válsághelyzetnek.
-- 6. ország működését biztosító felhasználó: a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezet, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerint kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezet az általa nyújtott alapvető szolgáltatás nyújtásának mértékéig.
-- 7. KN-kód: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. melléklete szerinti Kombinált Nómenklatúrában meghatározott, nyolc számjegyű áruazonosító szám.
+- 3. az ellátás súlyos zavara: az Európai Unió vagy valamely tagállam kőolaj- vagy kőolajtermék ellátásának jelentős és hirtelen csökkenése, függetlenül attól, hogy eredményezett-e biztonsági kőolajkészlet felszabadítására irányuló nemzetközi döntést;
+- 4. energetikai ágazati esemény: az ellátás súlyos zavara, a kőolaj- és kőolajtermék-ellátási válsághelyzet, a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet;
+- 5. fizikai hozzáférés: a kőolajkészlet kitárolása, szabad forgalomba hozatala, valamint a felhasználók részére történő eljuttatása annak érdekében, hogy enyhítse vagy megoldja az esetlegesen felmerülő ellátási problémákat, valamint lehetővé tegye a készletek karbantartásával, frissítésével kapcsolatos feladatok ellátását;
+- 6. készenléti töltőállomás: az energetikai ágazati esemény, valamint összehangolt védelmi tevékenység fennállása alatt az ország működését biztosító felhasználó ellátására a Kormány által kijelölt üzemanyag töltőállomás;
+- 7. KN-kód: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. melléklete szerinti Kombinált Nómenklatúrában meghatározott, nyolc számjegyű áruazonosító szám;
+- 8. kőolaj- és kőolajtermék-ellátási válsághelyzet: az a helyzet, amikor a behozatal belföldi fogyasztáshoz mért csökkenése eléri a 7%-ot, és a belföldi felhasználási igény csak a biztonsági kőolajkészlet terhére elégíthető ki, továbbá az, amikor az Európai Unió vagy a Nemzetközi Energia Ügynökség válsághelyzeti intézkedéseket rendel el, így különösen a készletek felszabadítására irányuló nemzetközi döntést hoz; a nyersolaj és a kőolajtermékek hazai árának alakulása következtében kialakuló helyzet nem minősül kőolaj- és kőolajtermék-ellátási válsághelyzetnek;
+- 9. ország működését biztosító felhasználó: a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezet, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerint kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezet az általa nyújtott alapvető szolgáltatás nyújtásának mértékéig, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti védelmi és biztonsági szervezetek a beavatkozáshoz és az ország működőképessége folyamatosságának biztosításához szükséges mértékig;
+- 10. összehangolt védelmi tevékenység: a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott esemény;
+- 11. üzemanyag: a jövedéki adóról szóló 2016. évi LXVIII. törvény 3. § (1) bekezdés 47. pontjában meghatározott fogalom.
 
 #### 2. A biztonsági kőolajkészlet mértékének kiszámítása, a különleges kőolajkészlet képzése, a biztonsági kőolajkészlet tárolása és felhasználása
 
@@ -116,9 +120,34 @@ figyelembevételével kell számítani.
 
 (2) A Bizottság kérésére a miniszter megküldi a jóváhagyott készenléti tervet a Bizottság részére.
 
+#### 2/A. Készenléti töltőállomások használatának rendje
+
+11/A. § (1) A Kormány a Szövetség javaslatára készenléti töltőállomásokat jelöl ki. A készenléti töltőállomások listáját a Kormány rendeletben határozza meg.
+
+(2) Az üzemanyag töltőállomások készenléti töltőállomássá minősítésének feltételeit, eljárási szabályait és a készenléti töltőállomások működtetésének rendjét a Kormány rendeletben határozza meg.
+
+(3) Összehangolt védelmi tevékenység esetén a Kormány rendeletében – az üzemanyaggal történő ellátás sorrendjét rögzítve – elrendelheti a készenléti töltőállomások használatát.
+
+(4) Ha az energetikai ágazati esemény akadályozza az üzemanyag töltőállomások működését, a miniszter rendeletében elrendeli a készenléti töltőállomások használatát.
+
+(5) A (3) és a (4) bekezdés szerinti rendelet határozza meg
+
+- a) a készenléti töltőállomáson üzemanyag vételezésre jogosultak körét,
+- b) a jogosultak üzemanyaggal történő ellátásának sorrendjét,
+- c) a jogosultak üzemanyag vételezésének elsőbbségi vagy kizárólagos voltát a szükségesség és az arányosság figyelembevételével,
+- d) az elrendelés időtartamát.
+
+(6) A (3) és (4) bekezdés szerinti rendelet meghatározhatja az összehangolt védelmi tevékenységgel és az energetikai ágazati eseménnyel érintett vármegyéket.
+
+(7) Az elrendelés időtartamát a Kormány legfeljebb a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 76. § (4) bekezdésében meghatározott időtartamban, a miniszter legfeljebb 14 napban állapíthatja meg.
+
 #### 3. A Magyar Szénhidrogén Készletező Szövetség
 
-12. § A Szövetség központi készletező szervezet, amelynek feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése, továbbá közreműködik a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében, továbbá a magyarországi termékszabvány szerinti paraméterek vizsgálatában.
+12. § (1) A Szövetség központi készletező szervezet, amelynek feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése.
+
+(2) A Szövetség közreműködik a készenléti töltőállomások kijelölésében és hozzájárul a készenléti töltőállomások felszereléséhez és a felszerelések fenntartásához.
+
+(3) A Szövetség közreműködik a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében, és a magyarországi termékszabvány szerinti paraméterek vizsgálatában.
 
 13. § (1) A Szövetség e törvény alapján létrehozott jogi személy, működését saját bevételeiből fedezi, a bevételeket
 
@@ -126,8 +155,9 @@ figyelembevételével kell számítani.
 - b) kőolaj-, kőolajtermék-, villamosenergia-tároló vásárlására, létesítésére, fejlesztésére,
 - c) a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére,
 - d) a Szövetség működésére,
-- e) a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés, és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében, továbbá a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködésre, valamint
-- f) az Fbkt.-ban meghatározott feladatai teljesítésére
+- e) a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés, és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében, továbbá a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködésre,
+- f) a kijelölt készenléti töltőállomások felszereléséhez és a felszerelések fenntartásához való hozzájárulásra, valamint
+- g) az Fbkt.-ban meghatározott feladatai teljesítésére
 
 fordíthatja.
 
@@ -136,6 +166,8 @@ fordíthatja.
 (2) A Szövetség szervezete kőolaj- és kőolajtermék készletezési szekcióból (a továbbiakban: kőolaj szekció), valamint földgáz-készletezési szekcióból (a továbbiakban: földgáz szekció) áll.
 
 14. § (1) A 40. § (2) bekezdése szerinti tevékenységet végző gazdasági szereplő kötelezően a Szövetség tagja.
+
+(1a) Az (1) bekezdéstől eltérően nem válik a Szövetség tagjává az a gazdasági szereplő, aki a 4. mellékletben meghatározott kőolajterméket kizárólag a 41. § (1) bekezdésében megjelölt célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
 
 (2) A szövetségi tagság a 40. § (2) bekezdés szerinti tevékenység megkezdésének időpontjában jön létre. A szövetségi tagság megszűnik, ha a tag a készletezési kötelezettséggel járó tevékenységet megszünteti. A tagsági jogviszony fennállása során felmerült kötelezettségek az elszámolásban foglaltak szerint az elszámolások lezárásának napjáig terhelik a tagot.
 
@@ -276,9 +308,9 @@ fordíthatja.
 
 (2) A Szövetség könyvvezetésére a kettős könyvvitel előírásai vonatkoznak. A Számvtv. előírásait a 37. §-ban foglaltak figyelembevételével kell alkalmazni.
 
-(3) A Szövetség eszközeit és forrásait, bevételeit és ráfordításait a kőolaj- és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységenként, illetve azokat a nem készletezési tevékenységeitől belső számvitelében elkülöníti, valamint azokat az éves beszámoló kiegészítő mellékletében bemutatja. A készletezési tevékenységhez közvetlenül nem kapcsolódó költségeket, ráfordításokat a kőolaj- és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységek között fele-fele arányban kell felosztani, azzal, hogy a 13. § (1) bekezdés e) pontja szerinti jelentések elkészítésében és a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködéshez kapcsolódó költségek a kőolaj szekció költségei közé tartoznak.
+(3) A Szövetség eszközeit és forrásait, bevételeit és ráfordításait a kőolaj- és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységenként, illetve azokat a nem készletezési tevékenységeitől belső számvitelében elkülöníti, valamint azokat az éves beszámoló kiegészítő mellékletében bemutatja. A készletezési tevékenységhez közvetlenül nem kapcsolódó költségeket, ráfordításokat a kőolaj- és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységek között fele-fele arányban kell felosztani, azzal, hogy a 13. § (1) bekezdés e) pontja szerinti jelentések elkészítésében és a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködéshez, valamint a készenléti töltőállomások felszereléséhez és a felszerelések fenntartásához kapcsolódó költségek és ráfordítások a kőolaj szekció költségei közé tartoznak.
 
-33. § (1) A készletezéshez, a készletnöveléshez, továbbá a Szövetség egyéb feladatai ellátásához és működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli tagi hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
+33. § (1) A készletezéshez, a készletnöveléshez, a készenléti töltőállomások felszereléséhez és a felszerelések fenntartásához való hozzájárulásához, továbbá a Szövetség egyéb feladatai ellátásához és működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli tagi hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
 
 (2) A Szövetség e törvényben meghatározott feladatai ellátásához – a közgyűlés által jóváhagyott mértékig – hitelt is felvehet. Ezen hitelek kamatait a működés ráfordításai között kell elszámolni.
 
@@ -338,7 +370,7 @@ fordíthatja.
 
 - a) az adóraktár engedélyese, a bejegyzett kereskedő, az eseti bejegyzett kereskedő, illetve az importáló a kőolajterméket a jövedéki adóról szóló törvény rendelkezései szerint szabad forgalomba bocsátja,
 - b) a jövedéki engedélyes kereskedő, illetve a felhasználói engedélyes az Európai Unió más tagállamában szabad forgalomba bocsátott kőolajterméket e tagállamból beszerez,
-- c) az adóraktár engedélyese a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék előállításához és minőség-ellenőrzés céljára történő felhasználást,
+- c) az adóraktár engedélyese a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék, kapcsolt hőenergia előállításához és minőség-ellenőrzés céljára történő felhasználást, továbbá az energiatermék, kapcsolt hőenergia előállításához szükséges karbantartáshoz, illetve próbaüzemhez történő felhasználást,
 - d) az adóraktár engedélyese a kőolajterméket a víziközlekedésről szóló törvény szerinti gazdasági célú hajózási tevékenységet végző hajók (ideértve a kompot is) üzemanyagtartályába betölti,
 - e) az adóraktár engedélyese a kőolajterméket a légiközlekedési tevékenységet végző légi jármű üzemanyagtartályába betölti.
 
@@ -353,8 +385,8 @@ fordíthatja.
 41. § (1) Az alapszabályban meghatározott feltételekkel visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek után bevallott tagi hozzájárulásnak az a része, amelyet a tag igazoltan
 
 - a) katonai célra hoz be, használ fel vagy értékesít közvetlenül a végső felhasználó számára,
-- b)
-- c) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
+- b) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára,
+- c) rendészeti célra 27101921 KN kódú kerozint hoz be, használ fel vagy értékesít közvetlenül a végső felhasználó számára.
 
 (2) Az alapszabályban meghatározottak szerint, az ott rögzített feltételek fennállása esetén a tag évente kérelmet terjeszthet elő a Szövetséghez, amely alapján a Szövetség igazgatója engedélyezheti, hogy a tag az (1) bekezdés szerinti esetekben a kőolajtermékek után fizetendő tagi hozzájárulás összegét havonta csökkentse a visszaigényelhető tagi hozzájárulás összegével.
 
@@ -378,7 +410,7 @@ fordíthatja.
 
 (9) A Szövetség a (1) bekezdés szerinti nyilatkozatot az adatok helytállóságának ellenőrzése érdekében elektronikusan megküldi az illetékes adóhatóságnak, amely a nyilatkozatot záradékolja és megküldi a Szövetség, valamint a Szövetségen keresztül a tag részére. Üzemszünet esetén az illetékes adóhatóság elektronikus záradékolására az üzemszünet lezárását követően kerül sor.
 
-(9a) Az adó- és vámhatóság (a továbbiakban: NAV) a záradékolt nyilatkozatokról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(9a) Az adó- és vámhatóság (a továbbiakban: NAV) a záradékolt nyilatkozatokról – a cégnyilvántartásban szereplő közhiteles adatok kivételével – közhiteles hatósági nyilvántartást vezet.
 
 (10) A kőolaj szekció tagja köteles a NAV ellenőrzést végző szervével egyeztetést lefolytatni, ha a nyilatkozat adatait a NAV nem helytállónak minősítette.
 
@@ -454,14 +486,22 @@ az e törvény, valamint az Fbkt. hatálya alá tartozó termékkör vonatkozás
 
 #### 15. Záró rendelkezések
 
-49. § (1) Felhatalmazást kap a Kormány, hogy az ország működését biztosító felhasználó folyamatos kőolaj, kőolajtermék ellátásbiztonságára vonatkozó részletes szabályokat rendeletben állapítsa meg.
+49. § (1) Felhatalmazást kap a Kormány, hogy
+
+- a) az ország működését biztosító felhasználók folyamatos, kőolaj és kőolajtermék ellátásbiztonságára vonatkozó részletes szabályokat,
+- b) az üzemanyag töltőállomások készenléti töltőállomássá minősítésének feltételeit, eljárási szabályait és a készenléti töltőállomások működtetésének rendjét, listáját,
+- c) összehangolt védelmi tevékenység bekövetkezésekor a készenléti töltőállomások használata elrendelését, a készenléti töltőállomáson üzemanyag vételezésre jogosultak körét, az üzemanyaggal történő ellátásuk sorrendjét, a vételezés elsőbbségi vagy kizárólagos voltát, elrendelés időtartamát és az érintett vármegyéket, valamint
+- d) a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezet, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerint kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezet számára az általa nyújtott alapvető szolgáltatás biztosítása érdekében az egyes üzemanyagkorlátozások időszakára vonatkozó ellátási szabályokat
+
+rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) a 9. § (1) bekezdése szerinti fogyasztást korlátozó intézkedéseket,
 - b) a biztonsági kőolajkészlet 9. § (2) bekezdés szerinti felhasználási rendjét,
 - c) az adatszolgáltatásra vonatkozó részletes előírásokat,
-- d) az ellátás súlyos zavara esetén és az 1999. évi XXXIX. törvény 2. §-a szerinti nemzetközi szerződés 5. cikk 1. pontja szerinti esetben alkalmazandó készenléti terv szabályait
+- d) az ellátás súlyos zavara esetén és az 1999. évi XXXIX. törvény 2. §-a szerinti nemzetközi szerződés 5. cikk 1. pontja szerinti esetben alkalmazandó készenléti terv szabályait, valamint
+- e) az energetikai ágazati esemény kezelése során a készenléti töltőállomások használata elrendelését és az ellátási sorrendet, az eseménnyel érintett vármegyéket, a készenléti töltőállomáson üzemanyag vételezésre jogosultak körét, a vételezés elsőbbségi vagy kizárólagos voltát és az elrendelés időtartamát
 
 rendeletben állapítsa meg.
 
@@ -482,12 +522,12 @@ rendeletben állapítsa meg.
 53. § (1) E törvény
 
 - a) a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek,
-- b) a 2009/119/EK tanácsi irányelvnek a készletezési kötelezettségek számítási módszerei tekintetében történő módosításáról szóló, 2018. október 19-i 2018/1581/EU bizottsági végrehajtási irányelvnek, valamint
+- b) a 2009/119/EK tanácsi irányelvnek a készletezési kötelezettségek számítási módszerei tekintetében történő módosításáról szóló, 2018. október 19-i (EU) 2018/1581 bizottsági végrehajtási irányelvnek, valamint
 - c) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-(2) E törvény 47. §-a az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i 2018/1999/EU európai parlamenti és tanácsi rendelet 48. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) E törvény 47. §-a az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1999 európai parlamenti és tanácsi rendelet 48. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) E törvény a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletének módosításáról szóló, 2019. október 9-i (EU) 2019/1776 bizottsági végrehajtási rendelet végrehajtását szolgálja.
 

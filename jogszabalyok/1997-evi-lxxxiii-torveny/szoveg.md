@@ -1186,6 +1186,8 @@ PÉNZBELI ELLÁTÁSAI
 
 39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének megállapításánál – az e törvényben foglalt kivételekkel – az ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszonyban az adóelőleg megállapításához bevallott jövedelmet kell figyelembe venni.
 
+(1a) Az ügyfélnek az érdemi döntés véglegessé válását követő 30 napon belül benyújtott kérelme alapján – az (1) bekezdésben foglaltaktól eltérően – az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének megállapításánál az ellátásra való jogosultság kezdő napját megelőzően megszűnt biztosítási jogviszonyban az adóelőleg megállapításához bevallott jövedelmet is figyelembe kell venni abban az esetben, ha ez az ügyfélre nézve magasabb összegű ellátás megállapítását eredményezi.
+
 (2) Az (1) bekezdés szerinti ellátások alapjának megállapításánál a jogosultság kezdőnapjának hónapjára járó, szerződés szerinti jövedelmet kell figyelembe venni, ha a tényleges jövedelem 30 naptári napnál kevesebb.
 
 (3) A biztosítás megszűnését követően járó pénzbeli ellátások összegének megállapítására és folyósítására a biztosítottakra vonatkozó rendelkezéseket kell alkalmazni.
@@ -1733,7 +1735,7 @@ történt.
 
 (4) Ha a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, és ezért az egészségbiztosítás ellátásai közül a pénzbeli ellátás vagy a baleseti táppénz összege magasabb összegben kerül megállapításra, úgy a különbözet kiutalására akkor kerülhet sor, ha az meghaladja az ezer forintot.
 
-(5) A kifizetőhellyel nem rendelkező foglalkoztató, az egyéni vállalkozó, a mezőgazdasági őstermelő és a Tbj. 87. § (3) bekezdése szerinti személy a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz és a méltányosságból igénybe vehető pénzbeli ellátás iránti kérelmet kizárólag az egészségbiztosító által erre a célra rendszeresített, a Kormány rendeletében meghatározott egységes, személyre szabott ügyintézési felületen (a továbbiakban: személyre szabott ügyintézési felület) közzétett űrlap alkalmazásával, kizárólagosan a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti elektronikus úton (a továbbiakban: elektronikus út) nyújthatja be.
+(5) A kifizetőhellyel rendelkező foglalkoztató, ha a kérelem benyújtásakor vagy elbírálásakor a biztosítottnak az adott foglalkoztatónál fennálló biztosítási jogviszonya megszűnt, a kifizetőhellyel nem rendelkező foglalkoztató, az egyéni vállalkozó, a mezőgazdasági őstermelő és a Tbj. 87. § (3) bekezdése szerinti személy a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz és a méltányosságból igénybe vehető pénzbeli ellátás iránti kérelmet kizárólag az egészségbiztosító által erre a célra rendszeresített, a Kormány rendeletében meghatározott egységes, személyre szabott ügyintézési felületen (a továbbiakban: személyre szabott ügyintézési felület) közzétett űrlap alkalmazásával, kizárólagosan a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti elektronikus úton (a továbbiakban: elektronikus út) nyújthatja be.
 
 (5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmek benyújtása, továbbá a kifizetőhely feladatellátása során az egészségbiztosító által rendszeresített, az egészségbiztosító honlapján, illetve a személyre szabott ügyintézési felületen közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
 
@@ -1772,7 +1774,7 @@ pénzbeli ellátások iránti igény
 (2) A csecsemőgondozási díj, az örökbefogadói díj, – a (2d) és (2e) bekezdés kivételével – a gyermekgondozási díj és a táppénz iránti kérelmet
 
 - a) a kifizetőhellyel rendelkező munkáltató esetében a kifizetőhely,
-- b) egyéb esetben a munkáltató székhelye szerint illetékes egészségbiztosító
+- b) egyéb esetben – ideértve, ha a kérelem benyújtásakor vagy elbírálásakor a biztosított biztosítási jogviszonya megszűnt – a munkáltató székhelye szerint illetékes egészségbiztosító
 
 bírálja el.
 
@@ -1783,7 +1785,7 @@ bírálja el.
 (2c) A csecsemőgondozási díjat, örökbefogadói díjat, a gyermekgondozási díjat és a táppénzt
 
 - a) a (2) bekezdés a) pontja szerinti esetben a kifizetőhely,
-- b) a (2) bekezdés c) pontja, valamint a (2d) bekezdés szerinti esetben az egészségbiztosító
+- b) a (2) bekezdés b) pontja, valamint a (2d) bekezdés szerinti esetben az egészségbiztosító
 
 folyósítja.
 
@@ -1791,9 +1793,9 @@ folyósítja.
 
 (2e) A gyermekgondozási díjnak a 42/E. § szerint a vér szerinti apa részére történő megállapítása iránt benyújtott kérelmet, ha a vér szerinti apa a gyermek születése napján biztosított, a munkáltatójának a székhelye szerint, egyéb esetben a lakóhelye (tartózkodási helye) szerint illetékes egészségbiztosító bírálja el. A gyermekgondozási díjnak a 42/E. § szerint a szülő nő részére történő megállapítása iránti benyújtott kérelmet, ha a szülő nő a gyermek születése napján nem biztosított, a lakóhelye (tartózkodási helye) szerint illetékes egészségbiztosító bírálja el.
 
-(3) Ha a csecsemőgondozási díj, az örökbefogadói díj, illetve a gyermekgondozási díj folyósítása alatt a biztosított biztosítási jogviszonya megszűnik, az ellátás továbbfolyósításáról ugyanazon szerv gondoskodik, amely a folyósításra a biztosítási jogviszony megszűnéséig is hatáskörrel rendelkezett. Ha az ellátás folyósításának ideje alatt a biztosított foglalkoztatót vált, az új foglalkoztató szerinti – a (2c) bekezdés a) vagy b) pontja szerint meghatározott – szerv folyósítja a már megállapított ellátást.
+(3) Ha a csecsemőgondozási díj, az örökbefogadói díj, illetve a gyermekgondozási díj folyósítása alatt a biztosított biztosítási jogviszonya megszűnik, az ellátás továbbfolyósításáról a megszűnt biztosítási jogviszonnyal érintett foglalkoztató székhelye szerint illetékes egészségbiztosító gondoskodik. Ha az ellátás folyósításának ideje alatt a biztosított foglalkoztatót vált, akkor az új foglalkoztató szerinti – a (2c) bekezdés a) vagy b) pontja szerint meghatározott – szerv folyósítja a már megállapított ellátást.
 
-(4) A biztosítási jogviszony megszűnését követően a baleseti táppénzt ugyanazon szerv folyósítja tovább, amely a folyósításra a biztosítási jogviszony megszűnéséig is hatáskörrel rendelkezett. Ha a baleseti táppénznek a biztosítási jogviszony megszűnését követő folyósítása alatt az ellátásban részesülő újabb biztosítási jogviszonyt létesít, az újabb biztosítási jogviszony kezdetét megelőző nappal a (2) bekezdés a) vagy b) pontja szerinti szerv az ellátás folyósítását megszünteti. A keresőképtelenség folyamatos fennállása esetén a biztosított – az újabb biztosítási jogviszonya alapján benyújtott kérelme alapján – az 55. § (1b) bekezdése alkalmazásával válhat jogosulttá ismételten baleseti táppénzre.
+(4) A biztosítási jogviszony megszűnését követően a baleseti táppénzt az egészségbiztosító folyósítja tovább. Ha a baleseti táppénznek a biztosítási jogviszony megszűnését követő folyósítása alatt az ellátásban részesülő újabb biztosítási jogviszonyt létesít, az újabb biztosítási jogviszony kezdetét megelőző nappal az egészségbiztosító az ellátás folyósítását megszünteti. Ha a biztosítási jogviszony megszűnését követő napon a biztosított újabb biztosítási jogviszonyt létesít, a baleseti táppénzt ugyanazon szerv szünteti meg, aki addig azt folyósította. A keresőképtelenség folyamatos fennállása esetén a biztosított – az újabb biztosítási jogviszonya alapján benyújtott kérelme alapján – az 55. § (1b) bekezdése alkalmazásával válhat jogosulttá ismételten baleseti táppénzre.
 
 (5)
 
@@ -2050,6 +2052,8 @@ vonatkozó adatokról, továbbá minden olyan, törvényben előírt személyes 
 (9) Az (1) bekezdés szerinti nyilvántartásba felvett adatok igénylésére alkalmazni kell a 79. § (3)–(6) bekezdését.
 
 (10) A (4) bekezdés szerinti kifizetőhellyel rendelkező foglalkoztató alatt a Magyar Honvédség vonatkozásában a Magyar Honvédség központi pénzügyi és számviteli feladatokat ellátó szervét kell érteni.
+
+79/C. § Ha a kifizetőhelynek az egészségbiztosítási pénzbeli ellátás vagy a baleseti táppénz iránti kérelem elbírálása során, a tényállás tisztázása keretében korábban más kifizetőhely vagy az egészségbiztosító által folyósított egészségbiztosítási pénzbeli ellátásra vagy baleseti táppénzre, továbbá biztosítási időre vonatkozó adatokat kell beszereznie, akkor a kifizetőhely ezen adatokat az egészségbiztosító által működtetett elektronikus felületről kérdezi le.
 
 80. § (1) A foglalkoztatók, az egyéni vállalkozók és egyéb szervek az egészségbiztosítás pénzbeli és baleseti ellátásainak megállapításához szükséges nyilvántartások vezetésére, valamint adatok bejelentésére kötelezhetők. A foglalkoztatók és egyéb szervek nem kezelhetnek egészségügyi adatot. A nyilvántartások vezetése, illetve az adatszolgáltatás az egészségbiztosító által meghatározott esetben és módon elektronikus adathordozón is teljesíthető. A foglalkoztató e törvényben előírt adatszolgáltatási és nyilvántartási kötelezettségeit a felszámolás és a végelszámolás kezdő időpontjától a felszámoló, illetve a végelszámoló teljesíti.
 

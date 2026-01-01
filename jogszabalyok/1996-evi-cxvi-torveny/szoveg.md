@@ -336,7 +336,7 @@ amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése
 
 (5) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Küt. 68. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat az e feladattal megbízott elnökhelyettes látja el.
 
-6/H. § (1) Az elnök, az elnökhelyettes, valamint a köztisztviselő további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (a továbbiakban: összeférhetetlenség). A tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység) végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a köztisztviselő álláshelyi feladataival közvetlenül összefügg.
+6/H. § (1) Az elnök, az elnökhelyettes, valamint a köztisztviselő további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (a továbbiakban: összeférhetetlenség). A tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység) végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a köztisztviselő álláshelyi feladataival közvetlenül összefügg.
 
 (1a) Az (1) bekezdéstől eltérően nem keletkeztet összeférhetetlenséget a nemzeti akkreditálásról szóló törvény szerinti értékelő csoport tevékenységével kapcsolatos feladatok ellátása, ha a köztisztviselő és az akkreditáló szerv közötti, erre irányuló megállapodás megkötését a munkáltatói jogkör gyakorlója előzetesen engedélyezi, azzal, hogy az érintett köztisztviselő nem vehet részt olyan döntés előkészítésében és meghozatalában, amely a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vételére, nyilvántartásának felfüggesztésére és a nyilvántartásból való törlésére vonatkozik.
 
@@ -1228,16 +1228,37 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (3) A nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza a szakmagyakorló:
 
-- a) természetes személyazonosító adatait, nemét, állampolgárságát, értesítési címét,
+- a) természetes személyazonosító adatait, állampolgárságát, lakcímét, értesítési címét, szakmagyakorló cég esetén annak nevét, székhelyét, értesítési címét, cégjegyzékszámát vagy nyilvántartásba vételi számát, magyarországi leányvállalata székhelyét,
 - b) szakirányú végzettségét, az ezt igazoló oklevél (oklevelek) számát, keltét és a kiállító intézmény megjelölését,
 - c) szakmai gyakorlatának rövid leírását, idejét,
-- d) szakterületét,
-- e) szakmagyakorlási tevékenységet engedélyező határozat számát, kiállításának napját,
-- f) adatváltozásai bejelentésének idejét,
-- g) szakmagyakorlási tevékenysége szünetelésének tényét, kezdő napját, időtartamát és
-- h) nyilvántartási számát.
+- d) szakmagyakorlási tevékenysége területét, szakterületét, részszakterületét,
+- e) szakmagyakorlási tevékenységét engedélyező határozat számát, véglegessé válásának napját,
+- f) nyilvántartása lejáratának napját,
+- g) adatváltozásai bejelentésének idejét,
+- h) szakmagyakorlási tevékenysége szünetelésének tényét, kezdő napját, időtartamát,
+- i) a szakmai tevékenységtől való eltiltása tényét, annak okát, időtartamát, az alapjául szolgáló határozat véglegessé válásának napját, és
+- j) nyilvántartási számát.
 
 (4) Ha a szakmagyakorlásra való alkalmasság megállapításához szükséges dokumentumokat eredetileg papír alapon állították ki, akkor a szakmagyakorlásra való alkalmasság megállapítására irányuló eljárásban e dokumentumokat papír alapon kell az atomenergia-felügyeleti szervnek benyújtani.
+
+(5) Az (1) bekezdés szerinti nyilvántartás a (3) bekezdés d)–j) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
+(6) Az atomenergia-felügyeleti szerv a szakmagyakorlók és a szakmagyakorló cégek jegyzékét a honlapján közzéteszi.
+
+(7) A közzétett jegyzék tartalmazza
+
+- a) a szakmagyakorló
+  - aa) nevét, állampolgárságát, értesítési címét,
+  - ab) szakmagyakorlási tevékenysége szakterületét,
+  - ac) nyilvántartási számát, és
+  - ad) nyilvántartása lejáratának napját;
+- b) a szakmagyakorló cég
+  - ba) nevét, székhelyét, magyarországi leányvállalata székhelyét,
+  - bb) szakmagyakorlási tevékenysége szakterületét,
+  - bc) szakmagyakorlója nevét, állampolgárságát, nyilvántartási számát, nyilvántartása lejártának napját, és
+  - bd) nyilvántartása lejáratának napját.
+
+(8) Az atomenergia-felügyeleti szerv a jegyzék tartalmában bekövetkezett változást a honlapján a változást követő nyolc napon belül közzéteszi.
 
 ### Felügyeleti díj
 

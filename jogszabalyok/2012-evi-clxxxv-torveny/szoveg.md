@@ -1892,7 +1892,7 @@ részére adható át.
 - c) természetes személy ügyfél esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelet, az egyéni vállalkozó természetes személy esetén a székhelyet és adószámot, őstermelő természetes személy esetén az adószámot, és
 - d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet ügyfél esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
-(4) A (2) bekezdés 1., 2., 4., 5., 7–13. pontja szerinti nyilvántartás közhiteles hatósági nyilvántartás.
+(4) A (2) bekezdés 12. pontja szerinti, a 80. § (2) bekezdése szerinti adattartalommal vezetett, és a 83/A. § alapján az OKIR publikus felületén közzétett nyilvántartás – a (3) bekezdés c) és d) pontjában foglalt adatokat ide nem értve – közhiteles hatósági nyilvántartás.
 
 (5) A hulladékgazdálkodási tevékenység gyakorlásával, a hulladékkezelési létesítmény létesítésével, bővítésével kapcsolatos engedély kiadásáról, visszavonásáról vagy módosításáról szóló határozatot a környezetvédelmi hatósággal is közölni kell.
 
@@ -1929,13 +1929,13 @@ részére adható át.
 
 (10a) A nyilvántartás (10) bekezdés c) és e) pontjában meghatározott adata a jogi személy és a jogi személyiséggel nem rendelkező szervezet esetében nyilvánosan hozzáférhető.
 
-(11)
+(11) A (9) bekezdés szerinti nyilvántartásban a nyilvántartásba való felvétel és az onnan való törlés időpontja közhiteles adat.
 
 (12) A 86. § (9) bekezdése szerinti két éves időtartam kezdő időpontja a 86. § (9) bekezdésében meghatározott bírságösszeget a költségvetési évben elérő vagy azt meghaladó bírságot kiszabó utolsó döntés véglegessé válásának, vagy jogorvoslati eljárás lefolytatása esetén az eljárás során hozott bírósági döntés jogerőre emelkedésének időpontja.
 
 78/D. § (1) A hulladékgazdálkodás megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében a hulladékgazdálkodási hatóság létrehozza és működteti az NHIR-t.
 
-(2) Az NHIR a természetes személy ügyfél személyes adatai, jogi személy és szervezet esetén a cégjegyzékbe bejegyzett adatai, valamint a (3) bekezdés f) pontja kivételével a (3) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartás.
+(2)
 
 (3) Az NHIR tartalmazza
 
@@ -2036,7 +2036,7 @@ részére adható át.
 
 (4) A hulladékgazdálkodási hatóság a hulladékgazdálkodási engedélyt, valamint a nyilvántartásba vett adatokat módosíthatja vagy visszavonhatja.
 
-(4a) A hulladékgazdálkodási hatóság felveszi a koncesszori alvállalkozói nyilvántartásba azokat az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási résztevékenységet végző vállalkozásokat, amelyek a koncesszorral, illetve koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat egyes elmeinek ellátására kötött hatályos szerződéssel rendelkeznek. A hulladékgazdálkodási hatóság vezeti, naprakészen tartja és nyilvánosan hozzáférhetővé teszi a koncesszori alvállalkozói nyilvántartást.
+(4a) A hulladékgazdálkodási hatóság felveszi a koncesszori alvállalkozói nyilvántartásba azokat az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási résztevékenységet végző vállalkozásokat, amelyek a koncesszorral, illetve koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat egyes elmeinek ellátására kötött hatályos szerződéssel rendelkeznek. A hulladékgazdálkodási hatóság vezeti, naprakészen tartja és nyilvánosan hozzáférhetővé teszi a koncesszori alvállalkozói nyilvántartást. A nyilvántartásba való felvétel és az onnan való törlés időpontja közhiteles adat.
 
 (5) Hivatalból eljárva vagy kérelemre induló eljárás esetén a hulladékgazdálkodási hatóság a hulladékgazdálkodási engedélyt korábbi módosításaival együtt egységes szerkezetbe foglalja. Kérelem esetén a kérelem előterjesztője igazgatási szolgáltatási díjat fizet.
 

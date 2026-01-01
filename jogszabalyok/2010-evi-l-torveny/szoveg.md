@@ -8,7 +8,12 @@ a helyi önkormányzati képviselők és polgármesterek választásáról
 
 1. § (1) A választópolgár a választójogát szabad elhatározása alapján gyakorolja.
 
-(2) A választópolgár lakóhelyén vagy – ha lakóhelye mellett legkésőbb a választás kitűzését megelőző 30. napig tartózkodási helyet is létesített – bejelentett tartózkodási helyén választhat.
+(2) A választópolgár lakóhelyén vagy ha lakóhelye mellett
+
+- a) legkésőbb a választás kitűzését megelőző 30. napig tartózkodási helyet is létesített, vagy
+- b) bejelentett tartózkodási hellyel rendelkezik abban a választókerületben, amelyben a választás kitűzését megelőző 30. napon lakóhellyel rendelkezett,
+
+bejelentett tartózkodási helyén választhat.
 
 (3) A választópolgár bármely választókerületben választható.
 
@@ -125,6 +130,8 @@ jelöltnek ajánlott.
 
 (2) Polgármester, főpolgármester az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta.
 
+(3) Ha két vagy több polgármesterjelölt vagy főpolgármester-jelölt a legtöbb szavazatot egyenlő számú szavazattal érte el, a szavazást meg kell ismételni.
+
 #### 2. Egyéni listás választási rendszer
 
 13. § (1) Az egyéni listán képviselők azok a jelöltek lesznek, akik a megválasztható képviselők száma szerint a legtöbb érvényes szavazatot kapták. Szavazategyenlőség esetén sorsolással kell megállapítani, hogy az egyenlő számú szavazatot elért jelöltek közül melyik szerez mandátumot.
@@ -135,11 +142,15 @@ jelöltnek ajánlott.
 
 #### 3. A vegyes választási rendszer
 
-14. § Az egyéni választókerületben az a jelölt lesz képviselő, aki a legtöbb érvényes szavazatot kapta. A választás szavazólapján a választópolgár egy jelöltre szavazhat.
+14. § (1) Az egyéni választókerületben az a jelölt lesz képviselő, aki a legtöbb érvényes szavazatot kapta. A választás szavazólapján a választópolgár egy jelöltre szavazhat.
+
+(2) Ha az egyéni választókerületben a legtöbb szavazatot két vagy több jelölt egyenlő számú szavazattal érte el, a szavazást meg kell ismételni.
 
 15. § (1) A kompenzációs lista és a nemzetiségi kompenzációs lista a választókerületben összesített töredékszavazatok arányában kap mandátumot.
 
 (2) Töredékszavazatnak minősül az egyéni választókerületekben a jelölő szervezet jelöltjére leadott minden olyan szavazat, amellyel nem szereztek mandátumot.
+
+(2a) Ha az egyéni választókerületben a szavazást a 14. § (2) bekezdése alapján meg kell ismételni, a töredékszavazatokat az ismételt szavazáson leadott szavazatok alapján kell megállapítani.
 
 (3) A közös jelöltekre leadott töredékszavazatnak minősülő szavazatok a közös jelöltet állító jelölő szervezetek közös kompenzációs listájára kerülnek.
 
@@ -209,9 +220,9 @@ jelöltnek ajánlott.
 
 20. § (1) Ha az egyéni listán kevesebb jelölt indul, mint a megválasztható képviselők száma, vagy az egyéni választókerületben nem volt jelölt, vagy nem volt polgármester- vagy főpolgármester jelölt, a választást nem lehet megtartani, és időközi választást kell kitűzni.
 
-(2) Ha az egyéni választókerületben a legtöbb szavazatot két vagy több jelölt egyenlő számú szavazattal érte el, időközi választást kell kitűzni.
+(2)
 
-(3) Ha két vagy több polgármesterjelölt vagy főpolgármester jelölt egyenlő számú legtöbb szavazatot kapott, időközi választást kell kitűzni.
+(3)
 
 (4) Ha az egyéni listás választáson az e törvényben meghatározottnál kevesebb képviselőt választanak meg, a be nem töltött képviselői helyekre időközi választást kell kitűzni.
 

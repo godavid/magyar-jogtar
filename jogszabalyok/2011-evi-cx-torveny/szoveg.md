@@ -26,6 +26,8 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 5. § A 3. § és a 4. § szerinti indítványról való szavazásra legkorábban az indítvány benyújtásától számított nyolcadik napon, legkésőbb az indítvány benyújtásától számított tizenötödik napon kerülhet sor. A szavazás titkos.
 
+5/A. § Átmeneti akadályoztatásának megszűnéséről, és annak – a nyilatkozattétel időpontjánál nem korábbi – időpontjáról a köztársasági elnök írásban nyilatkozik az Országgyűlés elnöke részére. A köztársasági elnök nyilatkozatának érvényességéhez elfogadó nyilatkozat nem szükséges. A köztársasági elnök nyilatkozatát a Sándor-palota honlapján haladéktalanul közzé kell tenni.
+
 6. § (1) A köztársasági elnök a megbízatása keletkezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (2) A köztársasági elnök a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, továbbá gyermekeinek (a továbbiakban együtt: családtag) a köztársasági elnök vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
@@ -44,9 +46,53 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (9) A köztársasági elnök által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Sándor-palota gazdasági ügyekért felelős vezetője a volt köztársasági elnök és családtagja vagyonnyilatkozatát a köztársasági elnök megbízatásának megszűnését követő egy évig őrzi.
 
-#### 3. A köztársasági elnök személyvédelme
+6/A. § A köztársasági elnököt feladatainak ellátásában hivatal segíti. A köztársasági elnök hivatalának elnevezése Sándor-palota.
 
-7. § A köztársasági elnök – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.
+6/B. § A Sándor-palota alapító okiratát, valamint szervezeti és működési szabályzatát a köztársasági elnök adja ki.
+
+6/C. § (1) A Sándor-palota vezetőinek és foglalkoztatottjainak jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
+
+(2) A köztársasági elnök
+
+- a) meghatározza a Sándor-palota szervezeti tagolódását és vezetői rendjét,
+- b) az alapító okiratban meghatározottak szerint kinevezi a Sándor-palota vezetőit, gyakorolja felettük a munkáltatói jogokat, e vezetők tekintetében megállapítja az illetmény, a juttatások és a vezetői pótszabadság mértékét, valamint a közszolgálati jogviszonyukra irányadó esetleges különös szabályokat,
+- c) a b) pont hatálya alá nem tartozó vezetők, valamint a további foglalkoztatottak tekintetében megállapíthatja a munkáltatói jogok gyakorlásának rendjét.
+
+(3) A Sándor-palota hivatali szervezetének vezetője – a (2) bekezdés b) és c) pontjában foglaltak sérelme nélkül –
+
+- a) gyakorolja a munkáltatói jogokat a Sándor-palotánál foglalkoztatottak felett,
+- b) meghatározza a Sándor-palota feladatainak ellátásához szükséges álláshelyek rendszerét és meghatározhatja az álláshelyek besorolási kategóriáit,
+- c) megállapítja a (2) bekezdés b) pont hatálya alá nem tartozó vezetőket megillető illetmény, juttatások és vezetői pótszabadság mértékére vonatkozó alapelveket,
+- d) dönt a Sándor-palota további illetménypolitikai alapelveiről, valamint
+- e) kijelöli azokat az álláshelyeket, amely álláshelyeken foglalkoztatottak a feladataikat munkaviszony keretében látják el.
+
+(4) A Sándor-palotában foglalkoztatott köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről a felek közszolgálati munkaszerződésben állapodnak meg.
+
+(5) A köztársasági elnök személyéhez közvetlenül kapcsolódó feladatok ellátására létesített közszolgálati jogviszony felmentéssel akkor is megszüntethető, ha a köztársasági elnök megbízatása megszűnik.
+
+(6) A Sándor-palota ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat, és a köztársasági elnök feladatellátásának válsághelyzetben és különleges jogrend idején történő folyamatos biztosítására való felkészülés tekintetében együttműködik a védelmi és biztonsági igazgatás központi szervével, a rendőrséggel, a honvédelmi szervezetekkel, illetve a nemzetbiztonsági szolgálatokkal.
+
+6/D. § (1) A Sándor-palota működési költségeit a központi költségvetés Köztársasági Elnökség fejezete biztosítja.
+
+(2) A Sándor-palota központi költségvetési törvény szerinti személyi juttatások kiemelt előirányzata összegét úgy kell megállapítani, hogy az nem lehet kevesebb, mint a tárgyévet megelőző évre vonatkozó, központi költségvetésről szóló törvény szerinti előirányzatnak a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, az azt megelőző naptári évre vonatkozó, a bruttó átlagkereset éves növekedését kimutató kereseti indexszel korrigált összege. A tárgyévre meghatározott személyi juttatások kiemelt előirányzata összegét év közben az e bekezdés szerinti index kilenc tizenketted részével korrigálni kell. A korrekció összegét a tárgyév március 31. napjáig kell a Sándor-palota rendelkezésére bocsátani. Ezt a rendelkezést kell alkalmazni az egyéb működési kiadások előirányzatán belül a munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzata összegének meghatározása esetében is.
+
+6/E. § (1) A köztársasági elnök – hivatalos és magánprogramokra, bel- és külföldi utazására is kiterjedően – állandó személyvédelemben részesül, amelynek biztosításáról a Kormány köteles gondoskodni.
+
+(2) A személyvédelem kiterjed különösen a köztársasági elnök
+
+- a) életének és testi épségének megóvására,
+- b) elhelyezését biztosító, az 1. § (2) bekezdése szerinti ingatlan és az elnöki rezidencia, valamint tartózkodására szolgáló egyéb ingatlan őrszemélyzettel, illetve technikai eszközzel biztosított védelmére,
+- c) közlekedési útvonalának biztosítására,
+- d) részvételével lebonyolított hivatalos programok helyszínének biztosítására, valamint
+- e) hivatalos programja során szükséges egészségügyi ellátás biztosítására.
+
+(3) Ha alapos okból szükséges, a családtag is az (1) és a (2) bekezdésben foglaltak szerinti személyvédelemben részesül.
+
+(4) A köztársasági elnök és a családtag a személyvédelemről vagy annak egyes elemeiről előzetesen és írásban jogosult lemondani.
+
+#### 3.
+
+#### 7. §
 
 #### 4. A köztársasági elnök tiszteletdíja
 
@@ -118,37 +164,13 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (5) A Sándor-palota a honlapján a (4) bekezdés szerinti kötelezettségvállalástól számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
 
-#### 6. A Sándor-palota
+#### 6.
 
-15. § (1) A köztársasági elnököt feladatainak ellátásában hivatal segíti. A köztársasági elnök hivatalának elnevezése Sándor-palota.
+#### 15. §
 
-(2) A Sándor-palota alapító okiratát, valamint szervezeti és működési szabályzatát a köztársasági elnök adja ki.
+#### 16. §
 
-16. § (1) A Sándor-palota vezetőinek és foglalkoztatottainak jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
-
-(2) A köztársasági elnök
-
-- a) meghatározza a Sándor-palota szervezeti tagolódását és vezetői rendjét,
-- b) az alapító okiratban meghatározottak szerint kinevezi a Sándor-palota vezetőit, gyakorolja felettük a munkáltatói jogokat, e vezetők tekintetében megállapítja az illetmény, a juttatások és a vezetői pótszabadság mértékét, valamint a közszolgálati jogviszonyukra irányadó esetleges különös szabályokat,
-- c) a b) pont hatálya alá nem tartozó vezetők, valamint a további foglalkoztatottak tekintetében megállapíthatja a munkáltatói jogok gyakorlásának rendjét.
-
-(3) A Sándor-palota hivatali szervezetének vezetője – a (2) bekezdés b) és c) pontjában foglaltak sérelme nélkül –
-
-- a) gyakorolja a munkáltatói jogokat a Sándor-palotánál foglalkoztatottak felett,
-- b) meghatározza a Sándor-palota feladatainak ellátásához szükséges álláshelyek rendszerét és meghatározhatja az álláshelyek besorolási kategóriáit,
-- c) megállapítja a (2) bekezdés b) pont hatálya alá nem tartozó vezetőket megillető illetmény, juttatások és vezetői pótszabadság mértékére vonatkozó alapelveket,
-- d) dönt a Sándor-palota további illetménypolitikai alapelveiről, valamint
-- e) kijelöli azokat az álláshelyeket, amely álláshelyeken foglalkoztatottak a feladataikat munkaviszony keretében látják el.
-
-(4) A közszolgálati munkaszerződésben a felek megállapodnak a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről.
-
-(5) A köztársasági elnök személyéhez közvetlenül kapcsolódó feladatok ellátására létesített közszolgálati jogviszony felmentéssel akkor is megszüntethető, ha a köztársasági elnök megbízatása megszűnik.
-
-16/A. § (1) A Sándor-palota működési költségeit a központi költségvetés Köztársasági Elnökség fejezete biztosítja.
-
-(2) A Sándor-palota központi költségvetési törvény szerinti személyi juttatások kiemelt előirányzata összegét úgy kell megállapítani, hogy az nem lehet kevesebb, mint a tárgyévet megelőző évre vonatkozó, központi költségvetésről szóló törvény szerinti előirányzatnak a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, az azt megelőző naptári évre vonatkozó, a bruttó átlagkeresetek éves növekedését kimutató kereseti indexszel korrigált összege. A tárgyévre meghatározott személyi juttatások kiemelt előirányzata összegét év közben az e bekezdés szerinti index kilenc tizenketted részével korrigálni kell. A korrekció összegét a tárgyév március 31. napjáig kell a Sándor-palota rendelkezésére bocsátani. Ezt a rendelkezést kell alkalmazni az egyéb működési kiadások előirányzatán belül a munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzata összegének meghatározása esetében is.
-
-(3) A Sándor-palota ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat, és a köztársasági elnök feladatellátásának válsághelyzetben és különleges jogrend idején történő folyamatos biztosítására való felkészülés tekintetében együttműködik a védelmi és biztonsági igazgatás központi szervével, a rendőrséggel, a honvédelmi szervezetekkel, illetve a nemzetbiztonsági szolgálatokkal.
+#### 16/A. §
 
 #### 6/A. A megválasztott, esküt tett, de még hivatalba nem lépett köztársasági elnök jogállása és juttatásai
 
@@ -169,6 +191,16 @@ illeti meg.
 #### 7. A volt köztársasági elnök jogállása és juttatásai
 
 17. § Ha a köztársasági elnök megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni.
+
+17/A. § (1) A volt köztársasági elnök a tisztsége megszűnését követő egy évig utóbiztosításra jogosult.
+
+(2) Az utóbiztosítás kiterjed különösen a volt köztársasági elnök
+
+- a) életének és testi épségének megóvására,
+- b) munkahelyének, továbbá lakásának vagy egyéb tartózkodási helyének őrszemélyzettel vagy technikai eszközzel biztosított védelmére, valamint
+- c) belföldi hivatalos programjaira.
+
+(3) A volt köztársasági elnök az utóbiztosításról vagy annak egyes elemeiről írásban jogosult lemondani.
 
 18. § (1) A volt köztársasági elnököt havonta a mindenkori köztársasági elnöki tiszteletdíj havi összegének megfelelő mértékű pénzbeli juttatás illeti meg, amely nem önálló tevékenységből származó jövedelemnek minősül.
 
@@ -221,15 +253,15 @@ illeti meg.
 
 22. § (1) A volt köztársasági elnökre, valamint a köztársasági elnök és a volt köztársasági elnök özvegyére a 14. § (1) és (2) bekezdésében foglaltakat alkalmazni kell.
 
-(2) A volt köztársasági elnököt, valamint a köztársasági elnök és a volt köztársasági elnök özvegyét nem illetik meg az ebben az alcímben meghatározott jogosultságok és juttatások, ha a köztársasági elnök megbízatása az Alaptörvény 12. cikk (3) bekezdés e) vagy g) pontja alapján szűnt meg.
+(2) A volt köztársasági elnököt, valamint a köztársasági elnök és a volt köztársasági elnök özvegyét nem illetik meg a 17. §-ban, valamint a 18–21. §-ban meghatározott jogosultságok és juttatások, ha a köztársasági elnök megbízatása az Alaptörvény 12. cikk (3) bekezdés e) vagy g) pontja alapján szűnt meg.
 
-(3) A volt köztársasági elnök az ebben az alcímben meghatározott juttatásokra mindaddig nem jogosult, amíg a megbízatásának megszűnését követően az e törvény szerinti vagyonnyilatkozat-tételi kötelezettségének nem tesz eleget.
+(3) A volt köztársasági elnök a 18–21. §-ban meghatározott juttatásokra mindaddig nem jogosult, amíg a megbízatásának megszűnését követően az e törvény szerinti vagyonnyilatkozat-tételi kötelezettségének nem tesz eleget.
 
 #### 8. Záró rendelkezések
 
 23. § Ez a törvény 2012. január 1-jén lép hatályba.
 
-24. § Az 1., a 2., a 4., az 5., a 6/A. és a 7. alcím, valamint a 26–28. § az Alaptörvény 12. cikk (5) bekezdése alapján sarkalatosnak minősül.
+24. § Az 1., a 2., a 4., az 5., a 6/A. és a 7. alcím az Alaptörvény 12. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
 25. § (1) E törvény rendelkezéseit a hivatalban lévő köztársasági elnökre és az e törvény hatálybalépését megelőzően hivatalt betöltött volt köztársasági elnökre is alkalmazni kell.
 
@@ -243,24 +275,10 @@ illeti meg.
 
 (3) E törvény 29. §-a nem érinti a hatálybalépését megelőzően hivatalt betöltött volt miniszterelnöknek a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 22. § (1) bekezdése szerinti juttatásra való jogosultságát, ha e törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
-26. § E törvénynek a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes törvényeknek a kormányzati igazgatásról szóló 2018. évi CXXV. törvénnyel kapcsolatos módosításáról szóló 2019. évi CIX. törvénnyel megállapított rendelkezéseit első alkalommal a 2020. január hónapra járó tiszteletdíj és egyéb juttatások tekintetében kell alkalmazni.
+#### 26. §
 
-27. § (1) A köztársasági elnök az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 6. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+#### 27. §
 
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Sándor-palota gazdasági ügyekért felelős vezetőjénél lévő, a köztársasági elnökkel közös háztartásban élő házastársának, gyermekeinek vagyonnyilatkozatát a Sándor-palota gazdasági ügyekért felelős vezetője 2023. augusztus 1. napjáig őrzi.
+#### 28. §
 
-(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
-
-28. § (1) A köztársasági elnök az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő családtagjának vagyonnyilatkozatát is.
-
-(2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
-
-29. § (1) A 2023. július 1-jén a Sándor-palotában foglalkoztatott köztisztviselők esetében a közszolgálati munkaszerződést – a 16. § (4) bekezdése szerinti tartalommal, figyelemmel a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 98. § (3) bekezdésére is – 2023. július 21-éig kell megkötni.
-
-(2) A közszolgálati munkaszerződést a köztisztviselő 2023. június 30-án hatályos kinevezése szerinti időtartamra kell megkötni. A köztisztviselő közszolgálati munkaszerződésben megállapított illetménye nem lehet kevesebb annál, mint amekkora összegre illetményként a kinevezési okirata alapján 2023. június 30-án jogosult volt.
-
-(3) Ha a közszolgálati munkaszerződés megkötésére az (1) bekezdés szerinti határidőben a köztisztviselőnek felróható okból, vagy annak ellenére nem kerül sor, hogy a közszolgálati munkaszerződés tervezete a 2023. június 30-án fennálló kinevezés lényeges tartalmi elemeihez képest a köztisztviselő számára hátrányos eltérést nem állapít meg, a köztisztviselő közszolgálati jogviszonya a lemondásra vonatkozó szabályok szerint szűnik meg azzal, hogy a lemondás közlése napjának 2023. július 21-ét kell tekinteni.
-
-(4) A köztisztviselőt – ha a (3) bekezdés szerinti eset nem áll fenn – a közszolgálati munkaszerződés tervezetének vele való közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 29. § (8) bekezdésének alkalmazásával, a kinevezésmódosítást megelőző illetménye alatt a 2023. június 30-án irányadó illetményét értve – fel kell menteni.
-
-(5) Az egyes törvényeknek a köztársasági elnök jogállásával összefüggő módosításáról szóló 2023. évi XXVII. törvény hatálybalépésekor fennálló jogviszonyokban a Köztársasági Elnöki Hivatal alatt 2023. július 1-jétől Sándor-palotát kell érteni.
+#### 29. §

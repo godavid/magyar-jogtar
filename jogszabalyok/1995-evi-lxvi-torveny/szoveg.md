@@ -42,7 +42,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - k) levéltári anyag: az irattári anyagnak, továbbá a természetes személyek iratainak levéltárban őrzött maradandó értékű része, valamint a védetté nyilvánított maradandó értékű magánirat;
 - l) levéltár: a maradandó értékű iratok tartós megőrzésének, levéltári feldolgozásának és rendeltetésszerű használatának biztosítása céljából létesített intézmény;
 - m) közlevéltár: a nem selejtezhető köziratokkal kapcsolatos levéltári feladatokat — ideértve a tudományos és igazgatási feladatokat is — végző, közfeladatot ellátó szerv által fenntartott levéltár;
-- n) nyilvános magánlevéltár: a természetes személy, valamint a nem közfeladatot ellátó szerv tulajdonában vagy birtokában lévő maradandó értékű iratok tartós megőrzésére létesített olyan intézmény, amely megfelel a 30. § (2) bekezdésében foglalt követelményeknek;
+- n) nyilvános magánlevéltár: a természetes személy, vagy szerv, a tulajdonában vagy birtokában lévő, közlevéltár illetékességébe nem tartozó tartós megőrzésére létesített olyan intézmény, amely megfelel a 30. § (2) bekezdésében foglalt követelményeknek;
 - o) levéltári kutatás: a levéltári anyag tanulmányozása, abból adatok kigyűjtése tudományos vagy más cél érdekében;
 - p) gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 - r) illetékes közlevéltár: a közfeladatot ellátó szerv vagy közirat vonatkozásában a közlevéltári illetékességből fakadó feladatokat e törvény előírásai szerint ellátó levéltár;
@@ -177,6 +177,8 @@ azzal, hogy a visszaszolgáltatást megelőzően az iratról a Hatóság elektro
 (4a) A Hatóság ellenőrizheti a tulajdonosnak a köziratra vonatkozó – e törvényben foglaltak szerint biztosított – épségben és használható állapotban történő megőrzési kötelezettsége teljesítését.
 
 (5) Ha a Hatóság él az elővásárlási jogával, a közirat az illetékes közlevéltár levéltári anyaga részévé válik, és azt az (1) bekezdés szerinti nyilvántartásból törölni kell.
+
+(6) Az (1) bekezdés a) pontja szerinti adatok nyilvánosak, azokat a Hatóság honlapján közzéteszi.
 
 ### A levéltári anyag védelmének irányítása
 
@@ -536,7 +538,7 @@ iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei á
 
 ### Nyilvános magánlevéltár
 
-30. § (1) Az a természetes személy, továbbá az a nem közfeladatot ellátó szerv, amely a tulajdonában vagy birtokában lévő maradandó értékű iratainak tartós megőrzése céljából levéltárat létesít vagy tart fenn, és vállalja a (2) bekezdésben foglalt követelmények teljesítését, a kultúráért felelős miniszternél kérelmezheti levéltárának nyilvános magánlevéltárként történő bejegyzését. A nyilvános magánlevéltárként történő bejegyzést — a levéltári szakfelügyelet javaslatára — a kultúráért felelős miniszter engedélyezi.
+30. § (1) Természetes személy vagy szerv, a tulajdonában vagy birtokában lévő, közlevéltár illetékességébe nem tartozó, maradandó értékű iratainak tartós megőrzésére, a (2) bekezdésben foglalt követelmények teljesítésének vállalásával, a kultúráért felelős miniszternél kérelmezheti nyilvános magánlevéltár létesítésének engedélyezését. A nyilvános magánlevéltár létesítését – a levéltári szakfelügyelet javaslatára – a kultúráért felelős miniszter engedélyezheti.
 
 (2) A nyilvános magánlevéltár
 
@@ -544,7 +546,7 @@ iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei á
 - b) levéltári anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő feladatait a nyilvános magánlevéltárak részére előírt szakmai követelmények szerint látja el;
 - c) levéltári anyagából a közlevéltárakra vonatkozó rendelkezések szerint tájékoztatást nyújt, adatokat szolgáltat, iratokat kölcsönöz és anyagában — saját szabályzata szerint — a kutatást ingyenesen lehetővé teszi.
 
-(3) Ha a nyilvános magánlevéltár a (2) bekezdésben meghatározott követelményeket nem teljesíti, a kultúráért felelős miniszter – a levéltárban őrzött iratanyag védettségének fenntartása mellett – elrendeli a levéltár nyilvántartásból való törlését.
+(3) Ha a nyilvános magánlevéltár a (2) bekezdésben meghatározott követelményeket nem teljesíti, a kultúráért felelős miniszter – a levéltárban őrzött iratanyag védettségének fenntartása mellett – visszavonja a létesítésére vonatkozó engedélyét.
 
 (4) A nyilvános magánlevéltár a 34/C. §-ban foglaltak szerinti költségvetési támogatásban részesül. A költségvetési támogatás a pártok által fenntartott nyilvános magánlevéltárakat is megilleti.
 

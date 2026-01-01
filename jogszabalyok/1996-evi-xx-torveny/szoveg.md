@@ -174,6 +174,8 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (5) Az adatkezelő az adatigénylésre kapott válaszüzenet megérkezését követően haladéktalanul törli a polgár által az (1)–(4) bekezdés szerinti adatigénylés érdekében a (2) bekezdés szerint megadott azonosítót, kivéve ha annak kezelésére törvény feljogosítja.
 
+(6) Az Elektronikus Egészségügyi Szolgáltatási Térhez csatlakozott egészségügyi szolgáltató az (1)–(5) bekezdés szerinti szolgáltatást az Elektronikus Egészségügyi Szolgáltatási Tér útján éri el.
+
 10/D. § (1) Ha valamely, az összerendelési nyilvántartás szolgáltatáshoz csatlakozott adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, az azonosítót, illetve személyazonosságát a polgár az adatkezelő által használt azonosítót igazoló igazolvány helyett az elektronikus azonosítás szolgáltatás útján is igazolhatja, feltéve, hogy ahhoz az ügyféli ügyintézési rendelkezésében, vagy az ügyintézés során hozzájárult.
 
 (2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő elektronikus úton olyan módon azonosítja a polgárt, hogy az azonosítás korábban elvégzett, az ügyfél személyes megjelenését igénylő személyazonosításra visszavezethető, és a (3) bekezdésben foglaltak szerint személye valamely személlyel egyértelműen megfeleltethető legyen.
@@ -345,7 +347,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - s) az önkormányzati adóhatóság a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § f) pontjában meghatározott adómentesség megállapítása, valamint a helyi adókról szóló 1990. évi C. törvény 14/A. §-a és 26/A. §-a szerinti adófelfüggesztés iránt benyújtott kérelem elbírálása és az adózással kapcsolatos nyilvántartás vezetése során.
 - t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvény 2. §-a szerinti szervezet, valamint a Kormányzati Személyügyi Döntéstámogató Rendszer a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő adatszolgáltatás érdekében.
 - u) az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság, a védettségi igazolvány kiállítása érdekében.
-- v) a sportról szóló törvény szerinti sportszervezetek, sportszövetségek, sportköztestületek, egyéb adatszolgáltatók a nemzeti sportinformációs rendszerbe történő adatszolgáltatás, valamint a sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer működtetése érdekében.
+- v) a sportról szóló törvény szerinti sportszervezetek, sportszövetségek, sportköztestületek, egyéb adatszolgáltatók a nemzeti sportinformációs rendszerbe történő adatszolgáltatás, a sportpolitikáért felelős miniszter, valamint a nemzeti sportinformációs rendszer működtetéséért felelős szerv a nemzeti sportinformációs rendszer működtetése érdekében.
 
 24. § A TAJ szám továbbítására jogosultak:
 

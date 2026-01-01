@@ -3490,6 +3490,8 @@ valamint az ezen adatokban bekövetkező változást.
 
 (6a) A hatósági vizsgára jelentkező személyekről vezetett nyilvántartás az adott személy (6) bekezdés a), b), c) és e) pontjában meghatározott adatait tartalmazza.
 
+(6b) A hatósági vizsga sikeres letételét a vizsgázó természetes személyazonosító adatait, a bizonyítvány számát, továbbá a vizsga típusát és időpontját tartalmazó hatósági bizonyítvány igazolja, melyről a hatóság nyilvántartást vezet. A nyilvántartás a bizonyítvány száma, vizsga típusa és időpontja tekintetében közhiteles hatósági nyilvántartás.
+
 (7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) és (6a) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
 (8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartásában szereplő adatai alapján (időközbeni névváltozás esetén a névváltozás figyelembevételével) másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.

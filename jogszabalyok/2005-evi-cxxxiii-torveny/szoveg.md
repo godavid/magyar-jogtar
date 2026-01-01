@@ -127,11 +127,11 @@ elítéltek, és a (4) bekezdésben meghatározott időtartam még nem telt el;
 
 ellenőrzése
 
-8. § (1) A rendőrség a kiadott működési engedélyekről és igazolványokról a kiadásuk alapjául szolgáló, az 5. §-ban és az 5/A. §-ban meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, az e törvény szerinti létesítmény- és rendezvényvédelmi ellenőrzési, valamint a tervező-szerelő vagy magánnyomozói tevékenység folytatására jogosultakról, a rendezvény-, illetve létesítménybiztosítási szolgáltatás nyújtását igazoló tanúsítványokról és az annak kiadása alapjául szolgáló feltételek igazolásához szükséges adatokról, a működési engedély és a tanúsítvány visszavonásáról, a vállalkozás tevékenységének megtiltásáról, és az igazolvány visszavonásáról, bevonásáról – a működési engedély és az igazolvány hitelességének, valamint a tevékenység ellenőrzésének céljából – nyilvántartást vezet.
+8. § (1) A rendőrség a kiadott működési engedélyekről és igazolványokról a kiadásuk alapjául szolgáló, az 5. §-ban és az 5/A. §-ban meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, az e törvény szerinti létesítmény- és rendezvényvédelmi ellenőrzési, valamint a tervező-szerelő vagy magánnyomozói tevékenység folytatására jogosultakról, a rendezvény-, illetve létesítménybiztosítási szolgáltatás nyújtását igazoló tanúsítványokról és az annak kiadása alapjául szolgáló feltételek igazolásához szükséges adatokról, a működési engedély és a tanúsítvány visszavonásáról, a vállalkozás tevékenységének megtiltásáról, és az igazolvány visszavonásáról, bevonásáról – a tevékenység ellenőrzésének céljából – nyilvántartást vezet.
 
 (2) A nyilvántartás az egyéni vállalkozónak, az egyéni cégnek vagy a gazdasági társaság cégbírósághoz bejelentett vezető tisztségviselőjének, a tevékenységet személyesen végzőnek, és a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő természetes személynek – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – a természetes személyazonosító adatait és állampolgárságát tartalmazza.
 
-(2a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2a)
 
 (2b)
 

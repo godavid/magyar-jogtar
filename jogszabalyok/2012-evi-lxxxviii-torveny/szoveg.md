@@ -39,8 +39,8 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 - 14. honosított harmonizált szabvány: a nemzeti szabványként közzétett harmonizált szabvány,
 - 15. importőr: az (EU) 2019/1020 Rendelet 3. cikk 9. pontjában meghatározott fogalom,
 - 16. kereskedelmi kommunikáció: az Fgytv. 2. § q) pontjában meghatározott fogalom,
-- 17. Közösségi Gyors Tájékoztatási Rendszer: az Európai Bizottság veszélyes termékek bejelentésére létrehozott információs rendszere,
-- 18. Központi Piacfelügyeleti Információs Rendszer: a piacfelügyeleti hatóságok által végzett piacfelügyeleti ellenőrzéssel kapcsolatos adatok és beszerzett dokumentumok feldolgozására és nyilvántartására szolgáló adatbázis,
+- 17. Safety Gate biztonsági riasztórendszer: az Európai Bizottság veszélyes termékek bejelentésére létrehozott információs rendszere,
+- 18.
 - 19. megfelelőséget igazoló dokumentum: a megfelelőségértékelési eljárás lefolytatását igazoló dokumentumok,
 - 20. megfelelőségértékelés: a 765/2008/EK Rendelet 2. cikk 12. pontjában meghatározott eljárás,
 - 21. megfelelőségértékelő szervezet: a 765/2008/EK Rendelet 2. cikk 13. pontjában meghatározott szervezet,
@@ -422,7 +422,7 @@ terjedhet.
 
 17/A. § (1) Felvonót, mozgólépcsőt, mozgójárdát (a továbbiakban együtt: berendezés) létesíteni, áthelyezni, átalakítani, a létesítést követően használatba venni és műszaki biztonságtechnikai felülvizsgálatukat elvégezni az e törvény végrehajtására kiadott kormányrendeletben meghatározott közigazgatási hatóság engedélyével (nyilvántartásba vételével) lehet.
 
-(2) A műszaki biztonsági hatóság közhiteles hatósági nyilvántartást vezet a berendezések kötelező műszaki biztonságtechnikai felülvizsgálatát végző ellenőrökről (a továbbiakban: ellenőrök). A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az ellenőr nevét, születésének helyét és időpontját, az ellenőr képesítésének megnevezését, az általa végezhető tevékenységek meghatározását.
+(2) A műszaki biztonsági hatóság nyilvántartást vezet a berendezések kötelező műszaki biztonságtechnikai felülvizsgálatát végző ellenőrökről (a továbbiakban: ellenőrök). A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az ellenőr születésének helyét és időpontját, valamint képesítésének megnevezését.
 
 (3) A műszaki biztonsági hatóság az ellenőrök jegyzékét honlapján közzéteszi, amely tartalmazza az ellenőr nevét, az ellenőri engedély számát, továbbá – ha ahhoz az ellenőr előzetesen hozzájárult – a hatósági nyilvántartásba bejelentett lakcímét, székhelyét, a telefonszámát és az elektronikus levélcímét.
 
@@ -549,70 +549,35 @@ kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-b
 
 ### VI. Fejezet — KÖLCSÖNÖS TÁJÉKOZTATÁS
 
-#### 16. Központi Piacfelügyeleti Információs Rendszer
+#### 16. A veszélyes vagy nem megfelelő termékekkel kapcsolatos tájékoztatás
 
-23. § A piacfelügyeleti programokkal és a veszélyes termékekkel kapcsolatban a piacfelügyeleti hatóság együttműködik az Európai Unió más tagállamának megfelelő hatóságaival és az Európai Bizottsággal információk vagy dokumentumok nyújtása, vizsgálatok vagy más megfelelő intézkedés elvégzése, valamint a tagállamokban kezdeményezett vizsgálatokban való részvétel útján.
+23. § A veszélyes termékekkel és a piacfelügyeleti programokkal kapcsolatban a piacfelügyeleti hatóság együttműködik az Európai Unió más tagállamának megfelelő hatóságaival és az Európai Bizottsággal információk vagy dokumentumok nyújtása, vizsgálatok vagy más megfelelő intézkedés elvégzése, valamint a tagállamokban kezdeményezett vizsgálatokban való részvétel útján.
 
-24. § (1) A piacfelügyeleti hatóság – figyelembe véve a jogszabályban meghatározott információszolgáltatási kötelezettségeket is – köteles a tudomására jutott tények vagy körülmények alapján a Központi Piacfelügyeleti Információs Rendszeren (a továbbiakban: KPIR) keresztül haladéktalanul tájékoztatni a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot mindazon termékekről, amelyek nem felelnek meg a biztonságossági követelményeknek.
+24. § (1) A piacfelügyeleti hatóság – figyelembe véve a jogszabályban meghatározott információszolgáltatási kötelezettségeket is – köteles a tudomására jutott tények vagy körülmények alapján haladéktalanul tájékoztatni az ICSMS rendszerrel kapcsolatos nemzeti kapcsolattartói feladatokat ellátó szervezetet mindazon termékekről, amelyek nem felelnek meg a biztonságossági követelményeknek.
 
-(2) A KPIR működtetéséért felelős fogyasztóvédelmi hatóság a termékek biztonságosságára vonatkozóan tudomására jutott adatok alapján haladéktalanul tájékoztatja a piacfelügyeleti hatóságot, az országos gazdasági kamarát és a vámhatóságot, vagy ha az ügy más szerv hatáskörébe tartozik, megkeresi az eljárásra jogosult hatóságot.
+(2) Az ICSMS rendszerrel kapcsolatos nemzeti kapcsolattartói feladatokat ellátó szervezet a termékek biztonságosságára vonatkozóan tudomására jutott adatok alapján haladéktalanul, elektronikus úton tájékoztatja a piacfelügyeleti hatóságot, az országos gazdasági kamarát és a vámhatóságot, vagy ha az ügy más szerv hatáskörébe tartozik, megkeresi az eljárásra jogosult hatóságot.
 
-25. § (1) Mindazon termékekre, amelyek forgalmazására a piacfelügyeleti hatóság döntésében rendelkezést hoz, a KPIR-ben adatbázis létesül. Az adatbázis tartalmazza a termék azonosítására alkalmas adatokat, így különösen a termék pontos megnevezését, származási helyét, a gyártás időpontját, a gyártó, forgalmazó nevét, címét, a véglegessé vált közigazgatási határozat számát, keltét. Ezen termék tekintetében a KPIR működtetéséért felelős fogyasztóvédelmi hatóság és a piacfelügyeleti hatóság információcseréje kölcsönös és kötelező.
-
-(2) A természetes személyek esetében a személyes adatok nyilvántartásba vételéhez, valamint azok nyilvánosságra hozatalához szükséges az érintett hozzájárulása.
-
-(3) Az információk cseréjének megvalósításához szükséges technikai feltételekről és azok működtetéséről a KPIR működtetéséért felelős fogyasztóvédelmi hatóság gondoskodik.
-
-26. § (1) A megfelelőségértékelő szervezet – a jogszabályban meghatározott intézkedések megtétele mellett – köteles a piacfelügyeleti hatóságot tájékoztatni, ha a megfelelőség tanúsításához szükséges vizsgálat alapján megállapítja, hogy a termék
+25. § (1) A megfelelőségértékelő szervezet – a jogszabályban vagy általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott intézkedések megtétele mellett – köteles a piacfelügyeleti hatóságot tájékoztatni, ha a megfelelőség tanúsításához szükséges vizsgálat alapján megállapítja, hogy a termék
 
 - a) csak meghatározott feltételek teljesítése esetén hozható forgalomba,
 - b) a fogyasztó életét, egészségét vagy testi épségét súlyosan és közvetlenül veszélyezteti, vagy
 - c) nem felel meg az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban vagy a jogszabályokban meghatározott követelményeknek.
 
-(2) Az országos és a területi gazdasági kamarák, a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek, a forgalmazók, továbbá a fogyasztók
+(2) Az országos és a területi gazdasági kamarák, a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek, a forgalmazók, továbbá a fogyasztók tájékoztathatják a fogyasztóvédelemért felelős miniszter által kijelölt szervezetet a termék biztonságosságának követelményeivel kapcsolatos észrevételeikről.
 
-- a) tájékoztathatják a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot a termék biztonságosságának követelményeivel kapcsolatos észrevételeikről,
-- b) tájékoztatást kérhetnek a KPIR működtetéséért felelős fogyasztóvédelmi hatóságtól a KPIR-ben nyilvántartott adatokról, amelyet a KPIR működtetéséért felelős fogyasztóvédelmi hatóság a személyes adatok védelmére vonatkozó előírások betartása mellett adhat meg.
+#### 17. Safety Gate biztonsági riasztórendszer
 
-#### 17. Közösségi Gyors Tájékoztatási Rendszer
+26. § (1) Az egyedi nemzeti kapcsolattartó ponti feladatokat ellátó fogyasztóvédelmi hatóság (a továbbiakban: Nemzeti Kapcsolattartó Pont) vesz részt a termékbiztonsággal kapcsolatos ügyekben illetékes piacfelügyeleti hatóságok európai hálózatában.
 
-27. § (1) A KPIR működtetéséért felelős fogyasztóvédelmi hatóság vesz részt a termékbiztonsággal kapcsolatos ügyekben illetékes piacfelügyeleti hatóságok európai hálózatában.
+(2) Magyarország a Nemzeti Kapcsolattartó Ponton keresztül kapcsolódik a Safety Gate biztonsági riasztórendszerhez (a továbbiakban: Safety Gate).
 
-(2) Magyarország a KPIR működtetéséért felelős fogyasztóvédelmi hatóságon keresztül kapcsolódik a Közösségi Gyors Tájékoztatási Rendszerhez (a továbbiakban: RAPEX).
+(3) Amennyiben a piacfelügyeleti hatóság a termék forgalomba hozatalát korlátozó, illetve kivonását vagy visszahívását elrendelő intézkedést hoz, vagy a gazdasági szereplőkkel olyan intézkedésekben állapodik meg, amelyek egy terméknek az értékesítését vagy használatát veszélyessége miatt megakadályozzák, korlátozzák vagy különleges feltételekhez kötik, tájékoztatnia kell a Nemzeti Kapcsolattartó Pontot. A Nemzeti Kapcsolattartó Pont a Safety Gate-en keresztül tájékoztatja az Európai Bizottságot az intézkedésekről, megjelölve azok okát is. A Nemzeti Kapcsolattartó Pont az intézkedések módosításáról vagy a termék visszahívásáról haladéktalanul tájékoztatja a Bizottságot.
 
-(3) Amennyiben a piacfelügyeleti hatóság a termék forgalomba hozatalát korlátozó, illetve kivonását vagy visszahívását elrendelő intézkedést hoz, vagy a gazdasági szereplőkkel olyan intézkedésekben állapodik meg, amelyek egy terméknek az értékesítését vagy használatát súlyos veszély miatt megakadályozzák, korlátozzák vagy különleges feltételekhez kötik, tájékoztatnia kell a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság a hivatalos értesítési formanyomtatvány felhasználásával a RAPEX-en keresztül tájékoztatja az Európai Bizottságot az intézkedésekről, megjelölve azok okát is. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság az intézkedések módosításáról vagy a termék visszahívásáról haladéktalanul tájékoztatja az Európai Bizottságot.
+(4) A rendelkezésre bocsátott információk tartalmáért a Nemzeti Kapcsolattartó Pontot értesítő piacfelügyeleti hatóság felel.
 
-(4) Amennyiben a veszély hatásai Magyarország határain nem terjednek túl, a KPIR működtetéséért felelős fogyasztóvédelmi hatóság az intézkedésekről olyan mértékben nyújt tájékoztatást az Európai Bizottság részére, amennyiben azok termékbiztonsági szempontból információkat tartalmaznak, és olyan új veszéllyel kapcsolatosak, amelyek más értesítésekben még nem szerepeltek.
+#### 27. §
 
-(5) Súlyos veszély esetén a KPIR működtetéséért felelős fogyasztóvédelmi hatóság értesíti az Európai Bizottságot a gazdasági szereplők által hozott önkéntes intézkedésekről. Amennyiben a KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság útján az Európai Unió más tagállamából származó, a fentieknek megfelelő értesítést kap, tájékoztatja az Európai Bizottságot a részéről megtett intézkedésekről.
-
-(6) Amennyiben az Európai Bizottság a fogyasztók egészségére és biztonságára az Európai Unió több tagállamában is súlyos kockázatot jelentő termékről szerez tudomást és az Európai Unió érintett tagállamaival folytatott tanácskozást, valamint a veszély tekintetében illetékes tudományos bizottsággal folytatott konzultációt követően a 2001/95/EK irányelv 13. cikkének (1) bekezdése alapján határozatot hoz, a határozat tárgyát képező veszélyes terméknek az Európai Unió területéről történő kivitele – a határozat eltérő rendelkezése hiányában – tilos. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság határozata alapján haladéktalanul értesíti a piacfelügyeleti hatóságot, és az a határozatban megjelölt más határidő hiányában legfeljebb 20 napon belül meghoz minden szükséges intézkedést a határozat végrehajtása érdekében. A határozat végrehajtásáért felelős piacfelügyeleti hatóságnál az érintettek a határozat közzétételét követő 30 napon belül észrevételeket tehetnek.
-
-(7) A piacfelügyeleti hatóság az észrevételekről a KPIR működtetéséért felelős fogyasztóvédelmi hatóságon keresztül tájékoztatja az Európai Bizottságot.
-
-28. § (1) A KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság számára nyújtott tájékoztatása az alábbi információkat tartalmazza:
-
-- a) a termék azonosítását lehetővé tevő információk, ideértve a termék gyártóját is,
-- b) a fennálló veszély leírása, ideértve a veszély szintjének értékelése szempontjából jelentős vizsgálatok eredményeinek és az azokból levont következtetések összefoglalását,
-- c) a meghozott vagy elhatározott intézkedések, lépések jellege és időbeni hatálya,
-- d) a termék értékesítési láncára és forgalmazására vonatkozó információk, különös tekintettel a rendeltetési országokra,
-- e) a gazdasági szereplő által hozott önkéntes intézkedések.
-
-(2) A KPIR működtetéséért felelős fogyasztóvédelmi hatóság az információkat az Európai Bizottság által kiadott iránymutatásokban foglaltak szerint a hivatalos értesítési formanyomtatvány kitöltésével továbbítja.
-
-(3) Amennyiben az értesítés tárgyát képező intézkedés vegyi anyag vagy készítmény forgalmazásának vagy használatának korlátozására irányul, akkor a KPIR működtetéséért felelős fogyasztóvédelmi hatóság értesíti a piacfelügyeleti hatóságot a szükséges értékelés és intézkedések megtétele érdekében. A piacfelügyeleti hatóság a lehető legrövidebb időn belül a KPIR működtetéséért felelős fogyasztóvédelmi hatóság rendelkezésére bocsátja a szóban forgó vegyi anyaggal vagy készítménnyel, valamint annak ismert és rendelkezésre álló helyettesítőivel kapcsolatos lényeges adatokra vonatkozó összegzést vagy tájékoztatást. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság közli az intézkedésnek a fogyasztók egészségére és biztonságára gyakorolt várható hatásait, valamint a veszély értékelését.
-
-(4) Amennyiben a KPIR működtetéséért felelős fogyasztóvédelmi hatóság az intézkedések elfogadásáról szóló határozat hozatalát megelőzően súlyos veszélyről tájékoztatta az Európai Bizottságot, 45 napon belül ismételten tájékoztatnia kell az Európai Bizottságot arról, hogy megerősíti vagy módosítja ezt az információt.
-
-(5) Az Európai Bizottság által – a termékbiztonság értékelése érdekében saját kezdeményezésére – végzett vizsgálat esetén a KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság rendelkezésére bocsátja a kért információkat.
-
-(6) Az Európai Bizottságon keresztül a RAPEX-ből érkező értesítés kézhezvétele után a KPIR működtetéséért felelős fogyasztóvédelmi hatóság a piacfelügyeleti hatóság bevonásával az Európai Bizottság által kidolgozott iránymutatásokban meghatározott határidőn belül értesíti az Európai Bizottságot arról, hogy:
-
-- a) a terméket Magyarország területén forgalomba hozták-e,
-- b) milyen, a kérdéses terméket érintő intézkedéseket hoztak vagy hoznak a Magyarországon érvényesülő sajátos termékbiztonsági körülményekre tekintettel, beleértve a veszély bármiféle eltérő értékelését vagy egyéb más körülményt, amely igazolja döntésüket, hogy az intézkedésről lemondanak, vagy további lépéseket tesznek,
-- c) a fennálló veszéllyel összefüggésben lényeges kiegészítő információkkal rendelkezik-e, ideértve az elvégzett vizsgálatok vagy elemzések eredményeit is.
-
-(7) A rendelkezésre bocsátott információk tartalmáért a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot értesítő piacfelügyeleti hatóság felel.
+#### 28. §
 
 ### VI/A. Fejezet — INFORMÁCIÓS ÉS KOMMUNIKÁCIÓS RENDSZER
 

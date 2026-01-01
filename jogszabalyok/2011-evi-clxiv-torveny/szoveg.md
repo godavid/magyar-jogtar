@@ -214,7 +214,7 @@ hívja össze.
 (4a) Nem nevezhető ki ügyésznek az a személy,
 
 - a) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani vagy
-- b) aki betöltötte az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatárt.
+- b) aki betöltötte az általános öregségi nyugdíjkorhatárt.
 
 (5) A katonai ügyész kinevezéséhez a honvédelemért felelős miniszter egyetértése szükséges. A katonai ügyészt erre a tisztségre kell kinevezni. A katonai ügyészt a Honvéd Vezérkar főnöke – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai ügyész szolgálatát az ügyészségi szolgálati viszonya megszűnéséig az ügyészi szervezetben teljesíti.
 
@@ -374,7 +374,7 @@ véleményét a pályázóról.
 
 - a) felmentésével;
 - b) lemondásával;
-- c) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
+- c) ügyészségi szolgálati viszonya megszűnését eredményező életkora betöltésével;
 - d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - e) összeférhetetlenségének megállapításával (47. §);
 - f) hivatalvesztése kimondásával;
@@ -400,7 +400,7 @@ véleményét a pályázóról.
 
 (10) Ha a legfőbb ügyész helyettes megbízatása az (1) bekezdés i) pontja alapján szűnik meg, ennek tényét a köztársasági elnök állapítja meg.
 
-24/A. § Az Alaptörvény 29. cikk (3) bekezdésében meghatározott általános öregségi nyugdíjkorhatár a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév.
+24/A. § Az általános öregségi nyugdíjkorhatár a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév.
 
 #### 9. A vezetői kinevezés visszavonása
 
@@ -418,6 +418,24 @@ véleményét a pályázóról.
 
 - a) munkáltatói intézkedés folytán az illetményben bekövetkező növekedéshez;
 - b) jogszabályi rendelkezés folytán az illetményben bekövetkező változáshoz.
+
+#### 10/A. Az ügyész általános öregségi nyugdíjkorhatár betöltését követő ügyészségi szolgálati viszonyban történő továbbfoglalkoztatása
+
+26/A. § (1) Az ügyész kérheti az általános öregségi nyugdíjkorhatár betöltését követő ügyészségi szolgálati viszonyban történő továbbfoglalkoztatását, az ezen alcím szerinti feltételekkel.
+
+(2) A kérelem engedélyezése esetén az ügyészségi szolgálati viszonyban történő továbbfoglalkoztatás felső korhatára a betöltött hetvenedik életév.
+
+(3) A kérelmet a legfőbb ügyészhez kell benyújtani.
+
+(4) A kérelmet legkorábban azon a napon lehet benyújtani, amely az általános öregségi nyugdíjkorhatár betöltésének napját tizenöt hónappal megelőzi. A kérelmet legkésőbb azon a napon lehet benyújtani, amely az általános öregségi nyugdíjkorhatár betöltésének napját tizenkét hónappal megelőzi.
+
+26/B. § (1) Az idő előtti vagy elkésett kérelem érdemben nem bírálható el.
+
+(2) A kérelem elbírálója a legfőbb ügyész, aki a továbbfoglalkoztatást engedélyezi vagy a kérelmet elutasítja.
+
+(3) A kérelem elbírálásának eredményéről a kérelmező ügyészt a kérelem benyújtását követő három hónapon belül írásban kell tájékoztatni.
+
+26/C. § Ha a katonai ügyész Magyar Honvédséggel fennálló szolgálati viszonya a honvédek jogállásáról szóló jogszabály szerint az öregségi nyugdíjkorhatár betöltésével megszűnik, a 26/A. § szerinti továbbfoglalkoztatása csak az alkalmasságának megfelelő másik betölthető ügyészi munkakörben lehetséges.
 
 #### 11. A kirendelés
 
@@ -502,7 +520,7 @@ véleményét a pályázóról.
 - a) a felek közös megegyezésével;
 - b) felmentésével;
 - c) lemondásával;
-- d) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
+- d) a 26/A. § szerinti továbbfoglalkoztatás esetét kivéve az általános öregségi nyugdíjkorhatár betöltésével;
 - e) rendkívüli lemondásával;
 - f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával (48. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - g) összeférhetetlenségének megállapításával;
@@ -514,6 +532,7 @@ véleményét a pályázóról.
 - m) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn;
 - n) e törvényben előírt eskütételi kötelezettség megszegésével;
 - o) külön törvényben meghatározott vagyonnyilatkozat-tételi kötelezettség megszegésével.
+- p) az általános öregségi nyugdíjkorhatár betöltését követő továbbfoglalkoztatása esetén a hetvenedik életév betöltésével.
 
 35. § Az ügyész ügyészségi szolgálati viszonya az ügyész és a legfőbb ügyész közös megegyezésével bármikor megszüntethető.
 
@@ -524,7 +543,8 @@ véleményét a pályázóról.
 - c) az ügyész feladatai ellátására tartósan alkalmatlan, illetve az 51. § (3) bekezdésében említett vizsgálatnak nem vetette alá magát;
 - d)
 - e) az ügyész felmentése a 25. § (3) bekezdésében meghatározott okból válik szükségessé;
-- f) a Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjjogosultság feltételeivel legkésőbb a felmentési idő leteltekor rendelkező ügyész felmentését e jogcímre hivatkozással maga kéri.
+- f) – az általános öregségi nyugdíjkorhatár betöltése előtt – a Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjjogosultság feltételeivel legkésőbb a felmentési idő leteltekor rendelkező ügyész felmentését e jogcímre hivatkozással maga kéri, vagy
+- g) – az általános öregségi nyugdíjkorhatár betöltését követően – a Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjjogosultság feltételeivel legkésőbb a felmentési idő leteltekor rendelkező továbbfoglalkoztatott ügyész hetvenedik életévének betöltése előtt felmentését maga kéri.
 
 (2) Az (1) bekezdés c) pontját kell alkalmazni, ha a legfőbb ügyész a minősítés eredményét mérlegelve az ügyész alkalmatlanságát állapította meg, és az ügyész felszólítás ellenére nem mondott le ügyészi tisztségéről.
 
@@ -538,7 +558,7 @@ véleményét a pályázóról.
 - b) ha az ügyész anya, gyermeke hároméves koráig, feltéve, hogy szülési vagy a gyermek gondozása céljából fizetés nélküli szabadságot nem vesz igénybe;
 - c) ha az ügyész egyedülálló, az eltartott gyermeke nappali iskolai tanulmányainak befejezéséig, de legfeljebb a gyermek huszonöt éves koráig.
 
-(6) A Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjra jogosult ügyészt, ha az (1) bekezdés f) pontja alapján felmentését kezdeményezi, a legfőbb ügyész köteles a társadalombiztosítási ellátás igénybe vétele érdekében – az ügyészi tanács véleményének kikérése nélkül – felmenteni. E jogcímen az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
+(6) A Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjra jogosult ügyészt, ha az (1) bekezdés f) vagy g) pontja alapján felmentését kezdeményezi, a legfőbb ügyész köteles a társadalombiztosítási ellátás igénybe vétele érdekében – az ügyészi tanács véleményének kikérése nélkül – felmenteni. E jogcímeken az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
 
 (7) A Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjra szerzett jogosultságát az ügyésznek kell igazolnia.
 
@@ -548,7 +568,10 @@ véleményét a pályázóról.
 
 (2) Az ügyész felmentési ideje – a (3) bekezdésben írt kivételtől eltekintve – hat hónap.
 
-(3) Az ügyész felmentési ideje egy hónap, ha felmentése – egészségügyi okot kivéve – alkalmatlansága miatt történt.
+(3) Az ügyész felmentési ideje egy hónap, ha felmentése
+
+- a) – egészségügyi okot kivéve – alkalmatlansága miatt történik, vagy
+- b) – az általános öregségi nyugdíjkorhatár betöltését követő továbbfoglalkoztatása esetén – hetvenedik életévének betöltése előtt saját kezdeményezésére történik.
 
 (4) Az ügyészt a felmentés időtartamának legalább a felére, – a (3) bekezdésben írt esetben a teljes időre – mentesíteni kell a munkavégzési kötelezettség alól. Ha az ügyész kéri, a munkavégzési kötelezettség alóli mentesítés ideje ennél rövidebb tartamú is lehet.
 
@@ -569,7 +592,7 @@ véleményét a pályázóról.
 
 (4) A rendkívüli lemondást indokolni kell; az indokolásból a rendkívüli lemondás okának világosan ki kell tűnnie. A rendkívüli lemondás okának valóságát és okszerűségét az ügyésznek kell bizonyítania.
 
-41. § (1) Ha a legfőbb ügyész által kinevezett ügyész szolgálati viszonya a 34. § f), i), k), m)–o) pontja alapján szűnik meg, ennek tényét a legfőbb ügyész állapítja meg. A 34. § d) pontjában említett esetben az ügyészt hathavi átlagilletményének megfelelő összeg illeti meg.
+41. § (1) Ha a legfőbb ügyész által kinevezett ügyész szolgálati viszonya a 34. § f), i), k), m)–o) pontja alapján szűnik meg, ennek tényét a legfőbb ügyész állapítja meg. A 34. § d) pontjában említett esetben az ügyészt hathavi, a 34. § p) pontjában említett esetben egyhavi átlagilletményének megfelelő összeg illeti meg.
 
 (2) A határozott időre szóló ügyészségi szolgálati viszony esetén [14. § (2) bekezdés, 17. § (4) bekezdés] a felmentési, illetve a lemondási idő nem terjedhet túl a határozott idő lejártának időpontján.
 
@@ -1860,7 +1883,9 @@ szerinti besorolása alapján havonta a 6/A. melléklet szerinti illetményre jo
 
 151. § (1) Az e törvényben nem szabályozott kérdésekben a Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak szolgálati viszonyára a honvédek jogállási kérdéseit szabályozó jogszabály rendelkezéseit is megfelelően alkalmazni kell, azzal az eltéréssel, hogy kizárólag e törvény alapján jogosultak javadalmazásra, azonban a tisztviselők, írnokok, fizikai alkalmazotti beosztásban lévők a honvédelmi illetményalapnak megfelelő összegre jogosultak.
 
-(2) A katonai ügyésznek és más hivatásos állományba tartozó ügyészségi alkalmazottnak a Magyar Honvédséggel fennálló szolgálati viszonya – a lemondása kivételével – akkor szüntethető meg, illetve a törvény erejénél fogva a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha ügyészségi szolgálati viszonya megszűnik.
+(2) A katonai ügyésznek és más hivatásos állományba tartozó ügyészségi alkalmazottnak a Magyar Honvédséggel fennálló szolgálati viszonya – a lemondása, a 26/A. § szerinti továbbfoglalkoztatása és a (2a) bekezdés kivételével – akkor szüntethető meg, ha ügyészségi szolgálati viszonya megszűnik.
+
+(2a) A Magyar Honvédség hivatásos állományába is tartozó tisztviselőnek, írnoknak és fizikai alkalmazottnak az általános öregségi nyugdíjkorhatár betöltésével a Magyar Honvédséggel fennálló szolgálati viszonya megszűnik. A Magyar Honvédséggel fennálló szolgálati viszony megszűnése nem érinti a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonyát.
 
 (3) A Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak részére rendszeresített rendfokozatokat e törvény 7. melléklete tartalmazza.
 
@@ -1980,7 +2005,7 @@ kell érteni.
 
 158/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, 165/T. §-a, 165/U. §-a, 165/W. §-a, 165/Y. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, 165/T. §-a, 165/U. §-a, 165/W. §-a, 165/Y. §-a, 165/Z. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Üjt.
 
@@ -2183,9 +2208,19 @@ kerülhet sor.
 
 (7) Ha a tisztviselő és az írnok számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.
 
+(8) Az alügyész és az ügyészségi fogalmazó számára az e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 124. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(9) Az alügyészt és az ügyészségi fogalmazót 2026. február 28-ig kell 2026. január 1-jétől kezdődően e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései szerint besorolni és – a (7) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a 2026. január 1-je előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A 2026. január 1. előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
+
+(10) Az alügyészt és az ügyészségi fogalmazót az e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései alapján kiszámított illetmény 2026. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2026. január 1-jére visszamenőleg, legkésőbb 2026. március 31-ig kerül sor.
+
 165/Y. § (1) A legfőbb ügyészségi ügyészeket és vezető ügyészeket az e törvénynek a Módtv3. 110. § és 114. §-ával megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg, ez az illetmény nem lehet kevesebb mint az érintett illetményének a Módtv3. 110. § és 114. §-ának hatályba lépése előtti összege. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 110. § és 114. §-ának hatálybalépését követő 60. napig kerül sor.
 
 (2) Ha a legfőbb ügyészségi ügyész számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.
+
+165/Z. § (1) Az az ügyész, aki 2026. január 1. napja és 2026. január 31. napja között tölti be az általános öregségi nyugdíjkorhatárt, és a 36. § (1) bekezdés f) pontja szerinti felmentésére nem került sor, a 26/A. § (4) bekezdésétől eltérően a továbbfoglalkoztatásra irányuló kérelmét legkésőbb 2026. január 6. napjáig nyújthatja be. Az az ügyész, aki 2026. február 1. napja és 2027. január 31. napja között tölti be az általános öregségi nyugdíjkorhatárt, és a 36. § (1) bekezdés f) pontja szerinti felmentésére nem került sor, a 26/A. § (4) bekezdésétől eltérően a továbbfoglalkoztatásra irányuló kérelmét legkésőbb 2026. január 31. napjáig nyújthatja be.
+
+(2) A kérelem elbírálásának eredményéről a 26/B. § rendelkezéseitől eltérően az ügyészt a kérelem benyújtását követő egy hónapon belül kell írásban tájékoztatni.
 
 166. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -2312,13 +2347,13 @@ A vezetői pótlék az illetményalap százalékábanA vezetői munkakörök %
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 3 | 0,99 | 1,07 |
-| 3. | 2. | 4 | 7 | 1,05 | 1,23 |
-| 4. | 3. | 8 | 11 | 1,13 | 1,34 |
-| 5. | 4. | 12 | 18 | 1,19 | 1,4 |
-| 6. | 5. | 19 | 25 | 1,24 | 1,46 |
-| 7. | 6. | 26 | 35 | 1,29 | 1,52 |
-| 8. | 7. | 36 |  | 1,41 | 1,55 |
+| 2. | 1. | 0 | 3 | 1,17 | 1,25 |
+| 3. | 2. | 4 | 7 | 1,23 | 1,41 |
+| 4. | 3. | 8 | 11 | 1,31 | 1,52 |
+| 5. | 4. | 12 | 18 | 1,37 | 1,58 |
+| 6. | 5. | 19 | 25 | 1,42 | 1,64 |
+| 7. | 6. | 26 | 35 | 1,47 | 1,7 |
+| 8. | 7. | 36 |  | 1,59 | 1,73 |
 
 ### 5. melléklet az 2011. évi CLXIV. törvényhez
 
@@ -2327,9 +2362,9 @@ A vezetői pótlék az illetményalap százalékábanA vezetői munkakörök %
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | 1. | 0 | 1 | 0,68 | 0,89 |
-| 3. | 2. | 2 | 3 | 0,72 | 0,94 |
-| 4. | 3. | 4 |  | 0,75 | 0,98 |
+| 2. | 1. | 0 | 1 | 0,86 | 1,07 |
+| 3. | 2. | 2 | 3 | 0,9 | 1,12 |
+| 4. | 3. | 4 |  | 0,93 | 1,16 |
 
 ### 6. melléklet az 2011. évi CLXIV. törvényhez
 

@@ -301,6 +301,7 @@ bizonyítani, a határidő eredménytelen elteltét követően a Hivatal határo
 - b) a kérelmező csőd- vagy felszámolási eljárás alatt áll;
 - c) a kérelmező a 12. § (1) és (2) bekezdése szerinti bármely engedélyét neki felróható ok miatt tíz éven belül visszavonták;
 - d) a kérelmező nem rendelkezik a kérelemben szereplő tevékenység folyamatos, hosszú távú ellátásához szükséges engedélyekkel.
+- e) a kérelmező az adózás rendjéről szóló törvény alapján nem minősül köztartozásmentes adózónak.
 
 (2a) A Hivatal a maradékhő-értékesítési engedély kiadását megtagadja, ha
 

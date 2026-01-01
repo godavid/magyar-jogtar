@@ -78,7 +78,7 @@ a következő törvényt alkotja:
 - 46. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 47. betegellátási szükséglet: adott gyógyszerre vonatkozó, magyarországi betegeket érintő tényleges felhasználási szükséglet;
 - 48. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet (a továbbiakban: Atr.) szerinti állami támogatás;
-- 49. egy és ugyanazon vállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) 2. cikk (2) bekezdése szerinti vállalkozás;
+- 49. egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás;
 - 50. támogatási intenzitás: az Atr. szerinti intenzitás;
 - 51. támogatástartalom: az Atr. szerinti tartalom;
 - 52. folyamatos ellátás: a forgalomba hozatali engedély jogosultjával vagy abban az esetben, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval szerződött gyógyszer-nagykereskedők megrendeléseinek szokásos üzletmenet szerinti kielégítése,
@@ -323,7 +323,7 @@ szempontjai alátámasztják.
 
 ### Kábítószerek és pszichotróp anyagok, valamint kábítószerként és pszichotróp anyagként minősített gyógyszerekre és új pszichoaktív anyagokra vonatkozó külön rendelkezések
 
-15. § (1) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély vagy nyilvántartásba vételt követően kiadott hatósági bizonyítvány birtokában folytathatók. Az egészségügyi államigazgatási szerv e rendelkezés szerinti eljárásában hozott döntése ellen fellebbezésnek helye nincs.
+15. § (1) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély vagy nyilvántartásba vételt követően kiadott hatósági bizonyítvány birtokában folytathatók. A gyógyszerészeti államigazgatási szerv e rendelkezés szerinti eljárásában hozott döntése ellen fellebbezésnek helye nincs.
 
 (2) A kábítószerként, illetve pszichotróp anyagként minősített gyógyszer gyártására, raktározására vonatkozó, illetve az e termékekkel történő nagykereskedelem szakmai szabályait, továbbá az e tevékenység végzésére jogosultak nyilvántartási és adatszolgáltatási kötelezettségét, valamint e termékek orvosi rendelésének, gyógyszertári forgalmazásának – ideértve a gyógyszertári tárolás, nyilvántartás, valamint a gyógyszertárból történő kiadást is – szabályait, továbbá gyógyintézeti felhasználásának és nyilvántartásának rendjét külön jogszabály állapítja meg.
 
@@ -339,53 +339,63 @@ szempontjai alátámasztják.
 
 (8) A tevékenységi engedély iránti kérelmet benyújtó nem magyar állampolgár személy a külön jogszabályban meghatározott hatóság részére az állampolgársága szerinti ország – hatósági bizonyítvány kiállítására vonatkozó – előírásainak megfelelően kiállított érvényes hatósági bizonyítvány hiteles fordításával igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a (4) vagy (5) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt.
 
-(9) Az egészségügyi államigazgatási szerv a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal végezhető tevékenységekről kiadott engedélyekről nyilvántartást vezet, amely a (10) bekezdés b)–d) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(9) A gyógyszerészeti államigazgatási szerv nyilvántartásokat vezet
 
-(10) A (9) bekezdés szerinti nyilvántartás tartalmazza a gazdálkodó szervezet:
+- a) a tevékenységi engedéllyel rendelkező,
+- b) az ellenőrzött anyagok szállítmányozását végző és
+- c) a tisztítatlan ipari mákszalma-maradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pelletálását, továbbá ipari mákszalmát, kifejtetlen máktokot, alacsony THC-tartalmú kender virágzatát begyűjtő, cséplését végző, tároló, felvásárló, exportáló, reklamáció esetén importáló, valamint annak megsemmisítését végző
 
-- a) nevét,
-- b) székhelyét,
-- c) telephelyeit,
-- d) engedélyének számát és érvényességi idejét,
-- e) tevékenységének jellegét,
-- f) cégjegyzékszámát, nem gazdasági társaságként működő gazdálkodó szervezet esetén a bírósági nyilvántartásba-vételi számát, vagy költségvetési szerv esetén a törzskönyvi számát.
-- g) kábítószer felelősének nevét.
+gazdálkodó szervezetekről.
 
-(11) A tisztítatlan ipari mákszalma-maradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pelletálását, továbbá ipari mákszalmát, kifejtetlen máktokot, alacsony THC-tartalmú kender virágzatát begyűjtő, cséplését végző, tároló, felvásárló, exportáló, reklamáció esetén importáló, valamint annak megsemmisítését végző gazdálkodó szervezetekről az egészségügyi államigazgatási szerv nyilvántartást vezet.
-
-(12) A (11) bekezdés szerinti nyilvántartás tartalmazza:
+(10) A (9) bekezdés szerinti nyilvántartások tartalmazzák
 
 - a) a gazdálkodó szervezet
   - aa) nevét,
   - ab) székhelyét,
   - ac) telephelyeit,
-- b) a hatósági bizonyítvány számát,
-- c) a tevékenység jellegének és helyének pontos megjelölését,
-- d) a kábítószerért felelős személy megnevezését,
-- e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát,
-- f) a tevékenységgel érintett ellenőrzött anyag nevét,
-- g) a tárolóhely és a tárolási rend rövid leírását,
-- h) a biztonsági berendezések, intézkedések leírását,
-- i) a gazdálkodó szervezettel szerződésben álló tevékenységi engedéllyel rendelkező nevét,
-- j) alvállalkozó nevét.
+  - ad) fióktelepeit,
+  - ae) cégjegyzékszámát, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát;
+- b) a kábítószer-felelős vagy kábítószerért felelős személy
+  - ba) nevét,
+  - bb) beosztását,
+  - bc) elektronikus elérhetőségét;
+- c) a tevékenység végzésének helyét;
+- d) a tevékenység jellegének leírását.
 
-(12a) A (12) bekezdés j) pontja értelmében alvállalkozónak minősül az a természetes személy, aki a nyilvántartásba vett gazdálkodó szervezet részére alacsony THC-tartalmú kendert termeszt.
+(11) A (9) bekezdés a) pontja szerinti nyilvántartás a (10) bekezdésben foglaltakon túl tartalmazza
 
-(13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés a)–c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+- a) a tevékenységi engedély számát és
+- b) a tevékenységi engedély hatályossági idejét.
 
-(14) Az egészségügyi államigazgatási szerv a kábítószerek, pszichotróp anyagok és új pszichoaktív anyagok szállítmányozását végző gazdálkodó szervezetekről nyilvántartást vezet.
+(12) A (9) bekezdés b) pontja szerinti nyilvántartás a (10) bekezdésben foglaltakon túl tartalmazza
 
-(15) A (14) bekezdés szerinti nyilvántartás tartalmazza:
+- a) a gyógyszerészeti államigazgatási szerv által kiadott, bejelentés tényét igazoló hatósági bizonyítvány számát és
+- b) a biztonsági berendezések és intézkedések leírását.
 
-- a) a gazdálkodó szervezet
-  - aa) nevét,
-  - ab) székhelyét,
-- b) hatósági bizonyítvány számát,
-- c) a tevékenység jellegének pontos megjelölését,
-- d) a kábítószerért felelős személy megnevezését,
-- e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát.
+(12a)
 
-(16) A (14) bekezdés szerinti nyilvántartás a (15) bekezdés b)–d) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(13) A (9) bekezdés c) pontja szerinti nyilvántartás a (10) bekezdésben foglaltakon túl tartalmazza
+
+- a) a gyógyszerészeti államigazgatási szerv által kiadott, bejelentés tényét igazoló hatósági bizonyítvány számát,
+- b) a tevékenységgel érintett mák- vagy kenderfajták nevét,
+- c) a tárolóhely és tárolási rend leírását,
+- d) a biztonsági berendezések és intézkedések leírását,
+- e) a gazdálkodó szervezettel szerződésben álló engedélyes (10) bekezdés a) pontja szerinti adatait és
+- f) a tevékenység végzésében közreműködő
+  - fa) tevékenységi engedéllyel nem rendelkező gazdálkodó szervezet (10) bekezdés a) pontja szerinti adatait vagy
+  - fb) a nyilvántartásba vett gazdálkodó szervezet részére alacsony THC-tartalmú kendert termesztő őstermelő nevét, címét, azonosítóját.
+
+(14) A (9) bekezdés
+
+- a) a) pontja szerinti nyilvántartás a (10) bekezdés c) és d) pontja, valamint a (11) bekezdés,
+- b) b) pontja szerinti nyilvántartás a (10) bekezdés c) és d) pontja, valamint a (12) bekezdés a) pontja,
+- c) c) pontja szerinti nyilvántartás a (10) bekezdés c) és d) pontja, valamint a (13) bekezdés a) pontja
+
+szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(15) A (10) bekezdés a) pont aa) és ac) alpontja, a (10) bekezdés c), d) pontja, a (11) bekezdés, a (12) bekezdés a) pontja és a (13) bekezdés a) pontja szerinti adatokat a gyógyszerészeti államigazgatási szerv a honlapján közzéteszi.
+
+(16)
 
 15/A. § (1) A külön jogszabályban meghatározott hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tevékenységi engedéllyel rendelkező gazdálkodó szervezet vezetője büntetlen előéletű, és nem áll a 15. § (4) vagy (5) bekezdésében meghatározott foglalkozástól eltiltás hatálya alatt.
 
@@ -418,20 +428,7 @@ szempontjai alátámasztják.
 
 (4) Ha az 1 éven belüli, az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló, 2005. május 10-i 2005/387/IB tanácsi határozat szerinti kockázatértékelés lezárásához a szakértői szerv megállapításai szerint nem áll rendelkezésre elegendő adat, az új pszichoaktív anyag minősítése meghosszabbítható azzal, hogy a kockázatértékelést kétévente el kell végezni mindaddig, amíg a kockázatok kizárásához vagy alátámasztásához elegendő adat nem áll rendelkezésre.
 
-15/D. § (1) A gyógyszerészeti államigazgatási szerv a forgalomba hozatalra engedélyezett kábítószert és pszichotrop anyagot tartalmazó gyógyszerek teljes köréről közhiteles hatósági nyilvántartást vezet.
-
-(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza a gyógyszer
-
-- a) nevét és gyógyszerformáját,
-- b) besorolását,
-- c) státuszát,
-- d) egy adagolási egységben lévő hatóanyag mennyiségét,
-- e) hatóanyagának nemzetközi nevét,
-- f) forgalomba hozatali engedélyének számát,
-- g) forgalomba hozatali engedélyének jogosultját,
-- h) kiszerelését,
-- i) kiadhatóságát,
-- j) bevitelét megtiltó országok megjelölését.
+#### 15/D. §
 
 #### 15/E. §
 
@@ -1087,7 +1084,7 @@ való megfelelést szolgálja.
 - a) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló, 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet,
 - b) a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendelet,
 - c) a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet,
-- d) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról szóló 2008. november 24-i 1234/2008/EK bizottsági rendelet,
+- d) az emberi felhasználásra szánt gyógyszerek forgalombahozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról szóló 2008. november 24-i 1234/2008/EK bizottsági rendelet,
 - e)
 - f)
 - g) a 2001/83/EK európai parlamenti és tanácsi irányelvnek és a 726/2004/EK európai parlamenti és tanácsi rendeletnek az engedélyezés utáni gyógyszerhatásossági vizsgálatok előírását indokolttá tevő esetek tekintetében történő kiegészítéséről szóló, 2014. február 3-i 357/2014/EU felhatalmazáson alapuló bizottsági rendelet,
@@ -1103,21 +1100,21 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 35. § A 2. melléklet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-35/A. § (1) A 25/B. § (2d) bekezdése szerinti kedvezmény csekély összegű (de minimis) támogatásnak minősül, amely a 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+35/A. § (1) A 25/B. § (2d) bekezdése szerinti kedvezmény csekély összegű (de minimis) támogatásnak minősül, amely az (EU) 2023/2831 bizottsági rendelet szabályaival összhangban nyújtható.
 
-(2) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (e § vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+(2) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (e § vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
 (3) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
-(4) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+(4) Az (EU) 2023/2831 bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az (EU) 2023/2831 bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
-(5) A támogatás a csekély összegű közszolgáltatási támogatással az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással a (3) bekezdésben meghatározott felső határig halmozható.
+(5) A támogatás a csekély összegű közszolgáltatási támogatással az (EU) 2023/2831 bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással a (3) bekezdésben meghatározott felső határig halmozható.
 
 (6) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(7) A vállalkozás az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+(7) A vállalkozás az (EU) 2023/2381 bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-35/B. § A 25/B. § (2d) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+35/B. § A 25/B. § (2d) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
 ### 1. számú melléklet a 2005. évi XCV. törvényhez
 

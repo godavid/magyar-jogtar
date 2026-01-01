@@ -745,18 +745,26 @@ meghosszabbítása
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 
-(3) Az (1) bekezdésben meghatározott nyilvántartások – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősülnek.
+(3)
 
-76. § A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdésének a)–c) pontja szerinti résznyilvántartások az érintettek tartózkodási jogot igazoló okmányával kapcsolatos következő adatokat tartalmazzák:
+76. § (1) A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdés a)–c) pontja szerinti résznyilvántartások a következő adatokat tartalmazzák:
 
-- a) a születési és házassági nevet, a személyi azonosítót és a regisztrációs igazoláson szereplő lakcímet, korábbi szokásos tartózkodási hely szerinti országát,
+- a) az érintett
+  - aa) születési és házassági nevét,
+  - ab) születési helyét és idejét,
+  - ac) anyja nevét,
+  - ad) állampolgárságát,
+  - ae) a regisztrációs igazoláson szereplő lakcímét,
+  - af) a korábbi szokásos tartózkodási hely szerinti országát,
 - b) a regisztráció időpontját, illetve a tartózkodási kártya kiadása iránti kérelem benyújtásának időpontját,
 - c) az úti okmány vagy a személyazonosító igazolvány adatait,
-- d) a regisztrációt, illetve a tartózkodási jogot igazoló okmány számát, típusát, érvényességét, meghosszabbításának időtartamát,
+- d) a regisztrációt, illetve a tartózkodási jogot igazoló okmány számát, típusát, kiadásának időpontját, érvényességi idejét, meghosszabbításának időtartamát,
 - e) a regisztrációt, illetve a tartózkodási jogot igazoló okmány visszavonásának tényét, okát, időpontját,
-- f) a regisztrációt, illetve a tartózkodási jogot igazoló okmány leadásának tényét, időpontját, a következő szokásos tartózkodási hely szerinti országát
+- f) a regisztrációt, illetve a tartózkodási jogot igazoló okmány leadásának tényét, időpontját, a következő szokásos tartózkodási hely szerinti országát,
 - g) a regisztrációt, illetve a tartózkodási jogot igazoló okmány cseréjének, pótlásának, az okmány elvesztésének, megsemmisülésének, a talált okmány visszaadásának tényét,
 - h) az EGT-állampolgár családi állapotát, amennyiben ez más személy tartózkodási jogát alapozza meg.
+
+(2) A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdés a)–c) pontja szerinti résznyilvántartások az (1) bekezdés a) pont aa)–ad) alpontja, az (1) bekezdés d) és – a visszavonás oka kivételével – e) pontja tekintetében közhiteles nyilvántartásnak minősülnek.
 
 76/A. § A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdés b) és c) pontja szerinti résznyilvántartások az érintettek tartózkodási jogot igazoló okmányával kapcsolatos alábbi adatokat is tartalmazzák:
 
@@ -797,7 +805,12 @@ meghosszabbítása
 
 78. § (1) A kiutasítás, illetve a beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása a következő adatokat tartalmazza:
 
-- a) az EGT-állampolgár és a családtag nevét, születési helyét és idejét, anyja nevét, állampolgárságát, személyazonosító jelét,
+- a) az EGT-állampolgár és a családtag
+  - aa) nevét,
+  - ab) születési helyét és idejét,
+  - ac) anyja nevét,
+  - ad) állampolgárságát,
+  - ae) úti okmány számát és érvényességi idejét,
 - b) a kiutasítás, illetve a beutazási és tartózkodási tilalom elrendelésének jogalapját, időtartamát,
 - c) az intézkedés időpontját,
 - d) az elrendelő szerv megnevezését,
@@ -809,6 +822,8 @@ meghosszabbítása
 (3) Az (1) bekezdésben meghatározott adatokat – a (4) bekezdésben foglalt kivétellel – az idegenrendészeti hatóság a tilalom megszűnését követő öt évig kezeli.
 
 (4) Az (1) bekezdés f) pontjában meghatározott adatokat az eljáró idegenrendészeti hatóság a beutazási és tartózkodási tilalom időtartama alatt kezeli.
+
+(5) A kiutasítás, illetve a beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása az (1) bekezdés a) pont aa)–ad) alpontja, valamint az (1) bekezdés b) és c) pontja szerinti adatok vonatkozásában közhiteles nyilvántartásnak minősül.
 
 78/A. § Az idegenrendészeti hatóság a külföldre utazási korlátozás hatálya alatt álló szabad mozgás és tartózkodás jogával rendelkező személyekre vonatkozóan – a korlátozás megszűnését követő három évig – kezeli
 

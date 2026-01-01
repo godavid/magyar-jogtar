@@ -439,7 +439,7 @@ egyes rendelkezések
 - b) az a) pontban meghatározottak képviseletére jogosult személy természetes személyazonosító adatait, valamint kérelmére a kapcsolattartáshoz szükséges elérhetőségi adatait,
 - c) az engedélyezési eljárás során birtokába kerülő és keletkező – személyes adatnak nem minősülő és a kormányrendeletben meghatározott – adatokat.
 
-(1a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(1a)
 
 (2) A nemzeti külkereskedelmi államigazgatási szerv az érintett (1) bekezdés szerinti személyes adatainak nyilvántartására legfeljebb az érintettnek a tevékenysége folytatására vonatkozó jogosultsága megszűnésétől számított hat hónapig jogosult.
 

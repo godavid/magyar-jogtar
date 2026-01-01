@@ -1463,7 +1463,7 @@ el lehet térni.
 - d) a földalatti gomba gyűjtéséhez kiadott gyűjtési napló sorszáma, valamint
 - e) a gyűjtési napló kiadásának ideje.
 
-(2) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés a) pontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés d) pontjában foglalt adat tekintetében – közhiteles hatósági nyilvántartásnak minősül.
 
 ### Erdei legeltetés
 
@@ -1722,7 +1722,7 @@ kerülhet sor.
 - f) a faanyag kereskedelmi lánc felügyelete keretében elvégzett valamennyi ellenőrzés és vizsgálat eredményét elektronikusan olyan módon, hogy az ügyfélhez köthető legyen.
 - g) a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló törvény hatálya alá tartozó erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó rendeletben meghatározott adatokat.
 
-(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), e) és f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a) és e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 90/F. § (1) Az a természetes személy vagy gazdálkodó szervezet, aki, vagy amely a faanyag kereskedelmi lánchoz tartozó tevékenységek valamelyikét Magyarország területén végzi, köteles a tevékenység megkezdése előtt a 90/E. § (2) bekezdés b)–e) pontja szerinti adatait nyilvántartásba vétel céljából bejelenteni. A bejelentési kötelezettség nem vonatkozik azon erdőgazdálkodóra, aki kizárólag Magyarország területén végzett erdőgazdálkodási tevékenysége keretében erdei faválasztékok előállítását és értékesítését végzi.
 
@@ -2532,7 +2532,7 @@ esetén.
 - i) bírságot kiszabó határozat ügyiratszáma, valamint
 - j) bírság megfizetésének időpontja.
 
-(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés a), b) és c) pontjában foglalt adatok kivételével közhiteles hatósági nyilvántartásnak minősül.
+(2)
 
 (3) Az erdészeti hatóság az (1) bekezdés szerinti adatokat a bírság megfizetésének időpontjáig, de legalább 3 évig tartja nyilván.
 
@@ -2597,6 +2597,7 @@ esetén.
 - 25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait;
 - 26. a fatermék szállításának, készletnyilvántartásának részletes szabályait, a szállítójegy adattartalmára, a szállítójegy és műveleti lap, előállítására, forgalmazására, nyilvántartására, valamint alkalmasságának megfelelőségére vonatkozó előírásokat;
 - 27. a szállítójegy és a műveleti lap nyomtatványok előállítására használt programokkal szembeni követelményeket, valamint ezek használatára vonatkozó adatszolgáltatási kötelezettséggel kapcsolatos szabályokat.
+- 28. e törvény végrehajtására kiadott miniszteri rendeletben szabályozott nyilvántartások közhiteles adattartalmát.
 
 (3) Felhatalmazást kap a miniszter, hogy – védett természeti területen lévő erdő vonatkozásában a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
 

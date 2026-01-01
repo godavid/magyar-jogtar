@@ -110,17 +110,9 @@ nincs helye.
 
 (4) Az eljárás nem különül el perfelvételi és érdemi tárgyalási szakra. Azokat az eljárási cselekményeket, amelyek megtételét a Pp. a perfelvételt lezáró végzés meghozataláig teszi lehetővé, az eljárást befejező végzés meghozataláig lehet megtenni.
 
-11. § (1) A közjegyző a hagyatéki eljárás iratait a bíróság részére a Pp.-ben meghatározottak szerint, elektronikus úton kézbesíti, a megkeresett bíróság pedig a Pp.-ben meghatározottak szerint, elektronikus úton válaszol a megkeresésre.
+11. § A hagyatéki eljárásban a Pp. elektronikus kapcsolattartásra vonatkozó szabályait a Kjnp. 12/C. §-ában meghatározott eltéréssel kell alkalmazni.
 
-(2) A közjegyző a hagyatéki eljárás iratait cégbíróság, közigazgatási szerv vagy más hatóság részére a Pp.-ben meghatározottak szerint, elektronikus úton kézbesíti, a megkeresett cégbíróság, közigazgatási szerv vagy más hatóság pedig a Pp.-ben meghatározottak szerint, elektronikus úton válaszol a megkeresésre. E rendelkezést az ingatlanügyi hatóság eljárásával kapcsolatosan nem kell alkalmazni.
-
-(3) A hagyatéki eljárásban érdekelt a hagyatéki ügy megjelölésével elektronikus beadványában kérheti, hogy a részére szóló iratok a Pp.-ben meghatározottak szerint, elektronikus úton kerüljenek kézbesítésre.
-
-(4) Ha a hagyatéki eljárásban érdekelt gazdálkodó szervezet vagy jogi képviselővel rendelkező személy vagy szervezet vesz részt, részére az iratokat a Pp.-ben meghatározottak szerinti elektronikus úton kell kézbesíteni.
-
-(5) Ha a hagyatéki eljárásban érdekelt a részére az iratoknak elektronikus úton való kézbesítését kérte, utóbb a beadvány papíralapú benyújtásával egyidejűleg kérheti a közjegyzőtől a papíralapú eljárásra történő áttérés engedélyezését a Pp. szabályainak alkalmazásával. Az elektronikus úton való kézbesítés alóli kivételekre a Pp. és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései alkalmazandók.
-
-11/A. § A hagyatéki eljárásban a Kjnp. 15/A–15/D. §-a alkalmazandó.
+11/A. § A hagyatéki eljárásban a Kjnp. 15/A–15/D. §-a alkalmazandó azzal, hogy a Kjnp. 15/A. § (7) bekezdése nem alkalmazható a végrendeletet, az öröklési szerződést, a halál esetére szóló ajándékozást, az öröklésről való lemondást, a várt öröklésről való rendelkezést, valamint ezek módosítását, visszavonását, felbontását vagy megszüntetését tartalmazó okiratra.
 
 12. § (1) A közjegyző végzésével jóváhagyott egyezség a bíróság által jóváhagyott egyezséggel azonos hatályú.
 
@@ -649,7 +641,7 @@ feltéve, hogy a hagyatéki leltár a hagyaték átadásához szükséges valame
 
 66. § (1) A hirdetményi kézbesítésről az országos kamara számítógépes nyilvántartást (e §-ban a továbbiakban: nyilvántartás) vezet, amelybe rögzíti az eljáró közjegyző nevét, az ügy számát, az utolsó belföldi lakóhelye (székhelye), ennek hiányában belföldi tartózkodási helye, ennek hiányában a hagyatéki eljárásra illetékes közjegyző székhelye megjelölésével a címzett nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítés megtörténtére vonatkozó vélelem beálltának időpontját.
 
-(2) A nyilvántartás közhiteles, a benne foglalt adatokról az országos kamara külön jogszabályban meghatározott módon kérelemre vagy megkeresésre felvilágosítást ad.
+(2) A nyilvántartás – a címzett nevére, utolsó belföldi lakóhelyére (székhelyére), tartózkodási helyére, valamint a hagyatéki eljárásra illetékes közjegyző székhelyére vonatkozó adatok kivételével – közhiteles, a benne foglalt adatokról az országos kamara külön jogszabályban meghatározott módon kérelemre vagy megkeresésre felvilágosítást ad.
 
 (3) A hirdetménnyel kézbesített irat címzettjén kívül, más személy kérelmére, megkeresésre vagy adatkérésre felvilágosítás csak akkor adható, ha a bíróság, bírósági végrehajtó, az ügyészség, a nyomozó hatóság, nemperes eljárást lefolytató közjegyző vagy közigazgatási szerv törvényben meghatározott feladatainak teljesítéséhez, illetve a felvilágosítást kérő személynek törvényben biztosított jogai gyakorlásához szükséges. A törvényes jogcímet valószínűsíteni kell. Ilyen esetben az adatszolgáltatás tényét a számítógépes rendszerben oly módon kell rögzíteni, hogy az adatszolgáltatás időpontja, jogcíme és az adat felhasználója megállapítható maradjon.
 
@@ -1114,7 +1106,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 ### A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján mező-, erdőgazdasági hasznosítású földnek minősülő kis értékű ingatlanok átadásának különös szabályai
 
-104/A. § (1) A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 28/A. §-a szerinti hagyaték esetében a közjegyző a hirdetményi kézbesítés szabályai szerint hirdetményt bocsát ki, amelyben feltünteti a hagyatéki eljárás tárgyát képező ingatlanokat, illetve tulajdoni illetőségeket és felhív mindenkit, aki a hagyatékra öröklésben érdekeltként igényt tart, vagy a hagyatékkal szemben öröklésben érdekeltként igényt kíván érvényesíteni, hogy azt a közjegyzőnek a hirdetmény kézbesítésétől számított egy éven belül (a továbbiakban: igénybejelentési határidő) írásban jelentse be (a továbbiakban: igénybejelentés).
+104/A. § (1) A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 28/A. §-a szerinti hagyaték esetében a közjegyző a hirdetményi kézbesítés szabályai szerint hirdetményt bocsát ki, amelyben feltünteti a hagyatéki eljárás tárgyát képező ingatlanokat, illetve tulajdoni illetőségeket és felhív mindenkit, aki a hagyatékra öröklésben érdekeltként igényt tart, vagy a hagyatékkal szemben öröklésben érdekeltként igényt kíván érvényesíteni, hogy azt a közjegyzőnek a hirdetmény kézbesítésétől számított három hónapon belül (a továbbiakban: igénybejelentési határidő) írásban jelentse be (a továbbiakban: igénybejelentés).
 
 (2) A közjegyző a hagyatéki eljárásról az államot az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban képviselő szerven keresztül a hirdetmény megküldésével tájékoztatja, valamint a hirdetményt megküldi a hagyatéki leltárban szereplő ismert öröklésben érdekelteknek.
 
@@ -1398,3 +1390,5 @@ végzés ellen.
 126. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 127. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 104/A. § (2) bekezdését és 104/B. § (4) bekezdését a folyamatban lévő ügyekben akként kell alkalmazni, hogy a 104/A. § (2) bekezdése szerinti hirdetményt és a hagyatékátadó végzés 104/B. § (4) bekezdése szerinti kiadmányát nem kell megküldeni az öröklésből a rendelkezésre álló adatok alapján kiesett személyeknek, ugyanakkor meg kell küldeni a hagyatéki leltárban nem szereplő ismert öröklésben érdekelteknek is.
+
+128. § E törvénynek a vállalkozói adminisztratív terhek csökkentésére irányuló egyes törvények módosításáról szóló 2025. évi XCIII. törvénnyel megállapított 104/A. § (1) bekezdését a folyamatban lévő ügyekben akkor kell alkalmazni, ha a 104/A. § (1) bekezdése szerinti hirdetmény kézbesítésére még nem került sor.

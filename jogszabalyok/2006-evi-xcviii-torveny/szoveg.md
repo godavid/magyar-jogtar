@@ -187,7 +187,10 @@ az alábbi törvényt alkotja:
 
 13/A. § (1) Az ismertetési tevékenységet folytatókról és az ismertető személyekről a gyógyszerészeti államigazgatási szerv a 12. § szerinti bejelentés alapján nyilvántartást vezet. A nyilvántartás a 12. § (4) bekezdése szerinti adatokat tartalmazza. A nyilvántartásba vétel a bejelentésben meghatározott időtartamra, ennek hiányában határozatlan időre szól. A nyilvántartásból a 12. § (4) bekezdése szerint megjelölt időtartam elteltével, ennek hiányában az adatokban beállt változás bejelentését követően az adatok törlésre kerülnek.
 
-(1a) Az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül, mely közhiteles adatként tartalmazza az ismertetői igazolvány számát és az ismertetési tevékenység időtartamát.
+(1a) Az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül, mely közhiteles adatként tartalmazza
+
+- a) az ismertetési tevékenységet folytató ismertetési tevékenységének időtartamát és
+- b) az ismertetési tevékenységet folytató nevében eljáró, 13. § (1) bekezdése szerinti ismertető személy vagy személyek ismertetési tevékenységének időtartamát, valamint ismertetői igazolványának számát.
 
 (2)
 
@@ -923,11 +926,7 @@ esetén,
 
 32/B. § (1) Az egészségbiztosítási szerv a forgalomba hozót az általa végzett szállító-előminősítést követően, a külön jogszabályban foglalt értékelés alapján és feltételek teljesülése esetén felveszi a külön jogszabály szerinti szállítójegyzékbe.
 
-(1a) Az (1) bekezdés szerinti szállítójegyzék közhiteles hatósági nyilvántartásnak minősül a következő adatok tekintetében:
-
-- a) a forgalomba hozónak a minősített forgalomba hozó státusza,
-- b) minősített forgalomba hozónak az egészségügyért felelős miniszter rendelete szerinti törlésre előjegyzett státusza,
-- c) a minősített forgalomba hozó által végzett forgalomba hozatali tevékenység típusa.
+(1a)
 
 (2) A szállító-előminősítésért külön jogszabályban foglaltak szerint igazgatási szolgáltatási díjat kell fizetni.
 
@@ -1024,7 +1023,7 @@ esetén,
 
 36. § (1) A gyógyszer forgalombahozatali engedélyének jogosultját, abban az esetben pedig, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval kötött és az állami adóhatóság által jóváhagyott megállapodás alapján a forgalmazót, valamint a tápszer társadalombiztosítási támogatása iránt kérelmet benyújtót, amennyiben az nem azonos a tápszer forgalmazójával, úgy a forgalmazót (a továbbiakban együtt e fejezet alkalmazásában: a gyógyszer forgalombahozatali engedélyének jogosultja) valamennyi közfinanszírozásban részesülő, gyógyszertárban forgalmazott gyógyszere, tápszere (a továbbiakban együtt e fejezet alkalmazásában: gyógyszer) után – a 38. § (1) bekezdése szerinti gyógyszerek és az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabály szerinti tápszerek kivételével – a tárgyhavi vényforgalmi adatok alapján adódó társadalombiztosítási támogatásnak a termelői árral vagy importbeszerzési árral (a továbbiakban együtt: termelői ár) arányos (termelői ár/fogyasztói ár) részére 20%-os befizetési kötelezettség terheli. A gyógyszer forgalombahozatali engedélyének jogosultját valamennyi közfinanszírozásban részesülő, gyógyszertárban forgalmazott anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabály szerinti tápszere után a tárgyhavi vényforgalmi adatok alapján adódó társadalombiztosítási támogatásnak a termelői árral arányos (termelői ár/fogyasztói ár) részére 10%-os befizetési kötelezettség terheli. A befizetési kötelezettség számítását termékenként és támogatási jogcímenként kell végezni. Társadalombiztosítási támogatáson általános forgalmi adót tartalmazó (bruttó) támogatást, fogyasztói áron bruttó fogyasztói árat, termelői áron áfát nem tartalmazó (nettó) termelői árat kell érteni.
 
-(1a) Az állami adóhatóság által a gyógyszer forgalombahozatali engedélyének jogosultja és a forgalmazó között létrejött megállapodás jóváhagyásáról vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(1a)
 
 (2) A gyógyszer-nagykereskedelmi engedéllyel rendelkező, illetve tápszer nagykereskedelmet folytató (a továbbiakban együtt: gyógyszer nagykereskedelmi engedéllyel rendelkező) gazdálkodó szervezetet a közforgalmú gyógyszertárat működtető, valamint a közvetlen lakossági gyógyszerellátást végző intézeti gyógyszertár számára a tárgyhónapban értékesített valamennyi általa forgalmazott közfinanszírozásban részesülő gyógyszerén realizált nagykereskedelmi árréstömegének 2,5 százaléka erejéig befizetési kötelezettség terheli.
 
@@ -1618,24 +1617,26 @@ tevékenységet folytatott, és e tevékenység megszűnésétől három év mé
 
 (2) A személyi jog visszavonásáról az egészségügyi államigazgatási szerv dönt.
 
-60. § Az egészségügyi államigazgatási szerv – az a) pont aa) alpontja, a c) pont ca) alpontja és az e) pont szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást vezet
+60. § Az egészségügyi államigazgatási szerv – az a) pont aa) alpontja, a gyógyszertáron kívüli gyógyszerforgalmazásra való jogosultságra nézve, a címadat kivételével a c) pont ca) alpontja és az e) pont szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást vezet
 
-- a) a gyógyszertárakról típusonkénti bontásban a gyógyszertár megszűnését követő öt évig, mely tartalmazza
-  - aa) gyógyszertár nevét, címét, elektronikus levelezési címét és internetes honlapjának címét, telefonszámát, többletszolgáltatásait, forgalmazási körét, működési engedélyezése során a gyógyszerészeti államigazgatási szervtől kapott egyedi azonosító kódját, szolgálati rendjét és az ellátott települések körét,
-  - ab) a létesítését és működését engedélyező határozat számát,
-  - ac) a működtető megnevezését, gazdasági társaság esetén a tulajdonosi összetételét,
-  - ad) közforgalmú gyógyszertár esetén a személyi joggal rendelkező gyógyszerész nevét,
-  - ae) kézigyógyszertár esetén a működtető háziorvos nevét;
+- a) a gyógyszertárakról típusonkénti bontásban a gyógyszertár megszűnését követő öt évig, amely tartalmazza
+  - aa) a gyógyszertár nevét, tevékenysége végzésének a működési engedélyben rögzített helyszínét, működési engedélyezése során az egészségügyi államigazgatási szervtől kapott egyedi azonosító kódját, szolgálati rendjét,
+  - ab) a gyógyszertár internetes honlapjának címét, elektronikus levelezési címét, telefonszámát, többletszolgáltatásait, forgalmazási körét és az ellátott települések körét,
+  - ac) a gyógyszertár létesítését és működését engedélyező határozat számát,
+  - ad) a gyógyszertár működtetőjének megnevezését, gazdasági társaság esetén a tulajdonosi összetételét,
+  - ae) közforgalmú gyógyszertár esetén a személyi joggal rendelkező gyógyszerész nevét,
+  - af) kézigyógyszertár esetén a működtető háziorvos nevét;
 - b) a személyi joggal rendelkező gyógyszerészekről, a személyi jog megszűnését követő öt évig, mely tartalmazza a személyi jog jogosultjának
   - ba) nevét,
   - bb) születési helyét és idejét,
   - bc) gyógyszerészi működési nyilvántartási számát,
   - bd) a személyi jogot engedélyező határozat számát;
-- c) a gyógyszer-kiskereskedelmi tevékenységet folytató üzletekről, a gyógyszertáron kívüli gyógyszerforgalmazás megszűnését követő öt évig, mely tartalmazza
-  - ca) az üzlet nevét, címét, a működtető megnevezését,
-  - cb) a működést engedélyező határozat számát; valamint
+- c) a gyógyszer-kiskereskedelmi tevékenységet folytató üzletekről, a gyógyszertáron kívüli gyógyszerforgalmazás megszűnését követő öt évig, amely tartalmazza
+  - ca) az üzlet nevét, címét,
+  - cb) az üzlet működtetőjének megnevezését,
+  - cc) a működést engedélyező határozat számát;
 - d) a hatósági, a felelős és az ideiglenes vezetőkről,
-- e) az interneten igényelt gyógyszerek kiszolgáltatását végző gyógyszertárakról.
+- e) az interneten igényelt gyógyszerek kiszolgáltatását végző gyógyszertárak nevéről és honlapcíméről;
 - f) a gyógyszertárat működtetők nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak az egészségügyi tevékenység végzésével összefüggő adatairól.
 
 60/A. § Az egészségügyi államigazgatási szerv a személyi jog engedélyezésének, gyakorlásának, valamint a közforgalmú gyógyszertár működésének időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a személyi joggal rendelkező gyógyszerész, illetve az 58. § (4) bekezdése szerinti személy esetében fennáll-e az 57. § (1) bekezdés b) pontjában meghatározott kizáró ok. Ennek keretében az egészségügyi államigazgatási szerv adatot igényel a bűnügyi nyilvántartási rendszerből.

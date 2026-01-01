@@ -379,7 +379,7 @@ időpontja az irányadó.
 
 - a) a filmalkotásokat a kiskorúak védelme érdekében e törvény szerint besorolja, valamint a besorolási szabályok megsértése esetén a törvényben meghatározott szankciót alkalmazza,
 - b) a művészi értékük miatt támogatásra érdemes és a kulturális követelmények teljesítése alapján támogatásra jogosult filmalkotásokat, valamint az ilyen filmalkotásokat terjesztő mozikat és mozitermeket e törvény szerint besorolja,
-- c) közhiteles nyilvántartást vezet
+- c) nyilvántartást vezet
   - ca) az e törvény szerinti támogatásra jogosult mozgóképszakmai szervezetekről és természetes személyekről,
   - cb) a moziüzemeltetési tevékenységet folytató természetes személyekről, illetve szervezetekről,
   - cc) a forgalmazói tevékenységet folytató természetes személyekről, illetve szervezetekről,
@@ -582,7 +582,22 @@ az e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormán
 
 (6) Az (5) bekezdés szerinti nyilvántartások tartalmazzák a forgalmazók és a moziüzemeltetők nevére, elérhetőségére, valamint a mozik elnevezésére, címére és teremszámára vonatkozó adatait, valamint az e törvényben és a mozgóképszakmai hatóság által vezetett nyilvántartások részletes szabályairól és az igazolások kiadásának rendjéről szóló miniszteri rendeletben meghatározott egyéb adatokat. A Hatóság a forgalmazói és moziüzemeltetési tevékenység ellenőrzése céljából a forgalmazói, illetve moziüzemeltetési tevékenységet folytató természetes személy személyazonosító adatait kezeli a nyilvántartásból való törlésig.
 
-(7) Az (5) bekezdés szerinti nyilvántartások a (6) bekezdésben foglalt adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősülnek.
+(7) Az (5) bekezdés szerinti nyilvántartásokban szereplő, a (6) bekezdésben foglalt adatok tekintetében közhitelesnek minősülnek
+
+- a) a nyilvántartásba történő bejegyzésre (nyilvántartási szám, bejegyzés kelte) vonatkozó adatok,
+- b) a mozi elnevezésére és címére vonatkozó adatok,
+- c) a mozi állapotára (működő vagy szünetelő) vonatkozó adatok,
+- d) a szünetelés kezdő napjára vonatkozó adatok,
+- e) a forgalmazói tevékenység típusára vonatkozó adatok, valamint
+- f) a határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységre vonatkozó bejelentés esetén a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 22. § (3) bekezdésében meghatározott adatok.
+
+(7a) Az (5) bekezdés c) pontja szerinti nyilvántartásban szereplő adatok tekintetében
+
+- a) a tevékenység megtiltásának tényére,
+- b) a tevékenység jellegére, valamint
+- c) a tilalom időbeli és területi hatályára
+
+vonatkozó adatok közhitelesnek minősülnek.
 
 (8) Az (5) bekezdés c) pontja szerinti nyilvántartásban szereplő filmforgalmazótól a moziüzemeltető nem szerezhet be filmalkotást terjesztés céljából, továbbá a nyilvántartásban szereplő moziüzemeltetőnek a forgalmazó terjesztés céljából nem adhat át filmalkotást. Amennyiben az általános felügyeleti eljárás során a Hatóság megállapítja a filmalkotás terjesztés céljából történő beszerzése vagy átadása tilalmának megsértését, közigazgatási bírságot szab ki.
 
@@ -642,9 +657,9 @@ az e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormán
 
 ### Filmforgalmazói tevékenység bejelentése
 
-19/M. § (1) A filmforgalmazó legalább 30 nappal a filmforgalmazói tevékenység megkezdését megelőzően bejelenti a Hatóság részére a filmforgalmazásra irányuló tevékenységét. A bejelentésre a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényt kell alkalmazni.
+19/M. § (1) A filmforgalmazó legalább 30 nappal a filmforgalmazói tevékenység megkezdését megelőzően bejelenti a Hatóság részére a filmforgalmazásra irányuló tevékenységét. A bejelentésre a Szolg. tv.-t kell alkalmazni.
 
-(2) A bejelentés a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl tartalmazza:
+(2) A bejelentés a Szolg. tv.-ben meghatározottakon túl tartalmazza
 
 - a) a filmforgalmazó
   - aa) telefonszámát és elektronikus levelezési címét,
@@ -658,7 +673,7 @@ az e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormán
 
 (4) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(5) A Hatóság a filmforgalmazót a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl törli a nyilvántartásból, ha a nem természetes személy filmforgalmazó jogutód nélkül megszűnt, vagy a természetes személy üzletszerű tevékenység végzésére jogosító egyéni vállalkozói minősége megszűnt.
+(5) A Hatóság a filmforgalmazót a Szolg. tv.-ben meghatározottakon túl törli a nyilvántartásból, ha a nem természetes személy filmforgalmazó jogutód nélkül megszűnt, vagy a természetes személy üzletszerű tevékenység végzésére jogosító egyéni vállalkozói minősége megszűnt.
 
 (6) A Hatóság hivatalból törli a filmforgalmazót a nyilvántartásból, ha az adatváltozás bejelentési kötelezettségét közigazgatási bírság ellenére nem teljesítette, továbbá ha az adatszolgáltatási kötelezettségét felhívás és közigazgatási bírság kiszabása után sem teljesíti.
 
@@ -855,6 +870,14 @@ az e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormán
 
 25/D. § A mozik vagy mozitermek „art” besorolása esetében a Hatóság az e tárgyában hozott határozat véglegessé válását követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésű mozit vagy mozitermet az „art” mozik és mozitermekről vezetett hatósági nyilvántartásába. Az „art” mozik és mozitermekről vezetett nyilvántartás tartalmazza a 25/A. §-ban foglalt adatokat, továbbá a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében megállapított további adatokat. A nyilvántartásba vétel részletes szabályait a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete határozza meg.
 
+25/E. § A 25/D. § szerinti nyilvántartás közhitelesen tartalmazza
+
+- a) az „art” besorolású mozik vagy mozitermek esetén a nyilvántartási számra,
+- b) a moziterem megnevezésére, valamint
+- c) a besorolás felfüggesztésének vagy a visszavonásának tényére és dátumára
+
+vonatkozó adatokat.
+
 26. § (1) A Hatóság létrehozza és működteti az Art Bizottságot, amely a Hatóságnak javaslatot tesz a filmalkotások kategóriákba sorolására.
 
 (2) Az Art Bizottság hat tagját a Filmiroda vezetőjének a javaslatára a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter nevezi ki három évre.
@@ -891,7 +914,7 @@ az e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormán
 
 (5a)
 
-(6) A filmalkotások „art” besorolása esetében a Hatóság az e tárgyában hozott határozat véglegessé válását követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésűnek besorolt filmalkotást az „art” besorolású filmalkotások nyilvántartásába.
+(6) A filmalkotások „art” besorolása esetében a Hatóság az e tárgyában hozott határozat véglegessé válását követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésűnek besorolt filmalkotást az „art” besorolású filmalkotások nyilvántartásába. A nyilvántartás az „art” besorolás tekintetében közhiteles.
 
 (7) A filmalkotások „art” besorolása esetében a határozat jogorvoslatra tekintet nélkül azonnal végrehajtható, a Hatóság hivatalból indított eljárásban haladéktalanul bejegyzi az „art” minősítésűnek besorolt filmalkotást a terjesztésre kerülő filmalkotások nyilvántartásába.
 
@@ -1000,6 +1023,14 @@ a Hatóság a nyilvántartásba vett természetes személyt vagy szervezetet tö
 - a) – a szervezet képviselőjére, illetve tulajdonosára vonatkozó adatok kivételével – a 28. §-ban meghatározott adatoknak,
 - b) az e törvényben és a jogszabályban meghatározott, e törvény céljainak megvalósításához szükséges adatoknak.
 
+(1a) Az (1) bekezdésben foglalt nyilvántartás közhitelesen tartalmazza
+
+- a) a nyilvántartási számot,
+- b) a kérelem beérkezésének dátumát,
+- c) a nyilvántartásba vétel dátumát,
+- d) a 28. § (10) bekezdése szerinti szünetelés tényét, valamint
+- e) a szervezet törölt állapotának tényét.
+
 (2) Az (1) bekezdésben felsorolt adatokat, valamint az azokban bekövetkező változásokat a támogatott és az e törvény szerinti támogatást nyújtó az adat tudomására jutását, illetve a változást követő 15 napon belül köteles bejelenteni a Hatóságnak.
 
 ### A támogatásra jogosult filmalkotások nyilvántartása
@@ -1008,11 +1039,40 @@ a Hatóság a nyilvántartásba vett természetes személyt vagy szervezetet tö
 
 (2) Az (1) bekezdés szerinti nyilvántartásban szerepelnie kell a filmalkotás címének, a filmalkotás előállítója nevének, a 26/B. § szerinti eljárásban megállapított minősítés eredményének, valamint az e törvényben és a törvény felhatalmazása alapján kiadott jogszabályban meghatározott, a törvényben meghatározott célok teljesüléséhez szükséges egyéb adatoknak. A nyilvántartásba vett adatokban bekövetkezett változást a támogatást igénylő köteles a változást követő 15 napon belül bejelenteni a Hatóságnak.
 
+(3) Az (1) bekezdés szerinti nyilvántartás közhitelesen tartalmazza
+
+- a) a nyilvántartási számot,
+- b) a filmalkotás címét,
+- c) annak tényét, hogy állami támogatásban részesült-e,
+- d) a forgatás megkezdésének dátumát,
+- e) a gyártás megkezdésének és befejezésének dátumát,
+- f) a 26/B. § szerinti eljárásban megállapított minősítés eredményét,
+- g) a kulturális követelményeknek való megfelelés eredményét,
+- h) annak tényét, hogy a filmalkotás megrendelésre vagy nem megrendelésre készült,
+- i) a filmalkotás költségvetését, valamint
+- j) a támogatásra jogosultságról szóló határozatban és a támogatási igazolási határozatban megállapítottakat.
+
 ### A terjesztésre kerülő filmalkotások nyilvántartása
 
 31. § (1) A Hatóság, a 20. § (2) bekezdése szerinti filmalkotások kivételével minden terjesztésre kerülő filmalkotást nyilvántartásba vesz.
 
 (2) Az (1) bekezdés szerinti nyilvántartásban szerepelnie kell a terjesztésre kerülő filmalkotás címének, a filmalkotás előállítója és terjesztője nevének, a 20. § és a 25. § szerinti besorolási eljárások alapján adott minősítésnek, valamint az e törvényben meghatározott célok teljesüléséhez szükséges, a törvényben vagy a törvény felhatalmazása alapján kiadott jogszabályban megállapított egyéb adatoknak. Ezeket az adatokat a filmterjesztő köteles bejelenteni a Hatóságnak.
+
+(3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok közül közhitelesnek minősülnek
+
+- a) a nyilvántartási számra,
+- b) a filmalkotás magyar címére,
+- c) a filmalkotás eredeti címére,
+- d) a korhatár besorolási kategóriára,
+- e) a filmalkotás minősítésére,
+- f) a filmalkotás „art” minősítésére,
+- g) a minősítések bejegyzésének dátumaira,
+- h) a filmalkotás gyártási évére,
+- i) a filmalkotás rendezőjére,
+- j) a filmalkotás hosszára, valamint
+- k) a filmalkotás terjesztésének kezdő dátumára
+
+vonatkozó adatok.
 
 ### A nyilvántartásba vétel közös szabályai
 
@@ -1020,7 +1080,7 @@ a Hatóság a nyilvántartásba vett természetes személyt vagy szervezetet tö
 
 (2) A Hatóság által vezetett mozgóképszakmai-nyilvántartások tartalmazzák az e törvényben és a külön jogszabályokban, valamint a Hatóság véglegessé vált határozatában foglaltakat, különösen a filmalkotásokhoz, valamint az e törvény szerinti jogokat és jelentős tényeket. A természetes személyek Hatósági nyilvántartásaiban szereplő adatai közérdekből nyilvánosnak minősülnek. A Hatóság az e törvényben foglalt személyes adatokat a nyilvántartásból való törlésig kezeli.
 
-(3) A mozgóképszakmai-nyilvántartások, ha e törvény kivételt nem tesz, a bejegyzett jogok és a feljegyzett tények fennállását közhitelesen tanúsítják.
+(3)
 
 (4) A Hatóság e törvény alapján vezetett nyilvántartásainak részletes szabályait, a nyilvántartásba vételi eljárások részletes szabályait, valamint a nyilvántartásokból történő adatszolgáltatás módját a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szabályozza.
 
@@ -1044,7 +1104,7 @@ a Hatóság a nyilvántartásba vett természetes személyt vagy szervezetet tö
 - c) az igazgatási szolgáltatási díj megfizetésének igazolását,
 - d)
 
-(2a) A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani
+(2a) A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját – a (13b) bekezdésben foglaltakra figyelemmel – legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani
 
 - a) a filmalkotás végleges, az előkészítést, a forgatást és az utómunkálatokat is magában foglaló gyártási tervét,
 - b) megrendelésre készülő filmalkotás esetében a gyártásban részt vevő magyar vállalkozás és a külföldi filmelőállító (megrendelő) közötti szerződést, koprodukciós, vagy nemzetközi koprodukciós vagy egyéb nemzetközi koprodukciós filmalkotás esetében a koprodukciós szerződést,
@@ -1108,9 +1168,11 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 
 (12) A Hatóság a (2a) bekezdés g) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
 
-(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre, valamint a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekre vonatkozó adatokban történő változást haladéktalanul köteles bejelenteni a Hatóságnak. A Hatóság hivatalból indított eljárásában – a támogatásra jogosultság visszavonásának a terhe mellett – felülvizsgálja a támogatásra jogosultságot megállapító határozatában szereplő adatokat.
+(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre, valamint a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekre vonatkozó adatokban történő változást haladéktalanul köteles bejelenteni a Hatóságnak. A Hatóság hivatalból indított eljárásában – a támogatásra jogosultság visszavonásának a terhe mellett, különösen a (13b) bekezdésben foglaltakra figyelemmel – felülvizsgálja a támogatásra jogosultságot megállapító határozatában szereplő adatokat.
 
 (13a) A filmalkotás költségvetésében bekövetkezett változás bejelentésével egyidejűleg – amennyiben a változás a közvetlen filmgyártási költség, és így a közvetett támogatás emelkedését vonhatja maga után – a különbözet vonatkozásában az igazgatási szolgáltatási díjat meg kell fizetni.
+
+(13b) A forgatást a támogatásra való jogosultságot megállapító határozat közlésétől számított 6 hónapon belül meg kell kezdeni, amennyiben ez nem történik meg, a Hatóság ellenőrzési eljárás keretében a támogatásra való jogosultságot megállapító határozatát módosíthatja vagy visszavonhatja. Amennyiben a támogatásra való jogosultságot megállapító határozat közlésétől számított egy naptári éven belül nem történik meg a forgatás megkezdése, abban az esetben a Hatóság ellenőrzési eljárása keretében a határozatát visszavonja.
 
 (14) A Hatóság a (2a) bekezdés g) pontja szerinti adatokat közvetett támogatás megállapítására és az ezzel összefüggő nyilvántartás vezetésére irányuló feladatai ellátása céljából, a kérelem elbírálását követő öt évig kezeli. A Hatóság az így tudomására jutott adatokat törvény eltérő rendelkezése hiányában harmadik személlyel nem közölheti, kivéve, ha az más hatóságok eljárásához történő adatszolgáltatás teljesítését célozza.
 
@@ -1450,6 +1512,8 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 36/R. § E törvénynek az egyes felsőoktatási, családügyi és kulturális tárgyú törvények módosításáról szóló 2024. évi LXXVI. törvénnyel (a továbbiakban: Módtv4.) megállapított 31/B–31/F. §-át a Módtv4. hatálybalépését követően benyújtott, a támogatási jogosultság megállapítására irányuló kérelem alapján indult eljárásokban kell alkalmazni.
 
 36/S. § E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló törvénnyel (a továbbiakban: Módtv5.) megállapított 31/B. § (13) bekezdését, illetve a 31/C. § (2a) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő támogatásra jogosultság megállapítására irányuló eljárásokban is alkalmazni kell.
+
+36/T. § A felsőoktatási, kulturális és kapcsolódó törvények módosításáról szóló 2025. évi XCV. törvénnyel (a továbbiakban: Módtv6.) módosított 31/B. § (2a) és (13) bekezdését, valamint a Módtv6.-tal megállapított 31/B. § (13b) bekezdését a 2026. január 1-jén folyamatban lévő, támogatásra való jogosultság megállapítására irányuló eljárásokban is alkalmazni kell azzal, hogy a Hatóság a kérelmezőt felhívja a forgatás megkezdésének napjával összefüggésben a Módtv6.-tal megállapított 31/B. § (13b) bekezdésében foglaltak teljesítésére vonatkozó nyilatkozattételre.
 
 ### 2. CÍM — Felhatalmazó rendelkezések
 

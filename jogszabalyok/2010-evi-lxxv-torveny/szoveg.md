@@ -18,6 +18,8 @@ az egyszerűsített foglalkoztatásról
 
 (3) A (2) bekezdésben meghatározott napi alkalmi munkavállalói létszámkeretet a munkáltató a tárgyév napjaira egyenlőtlenül beosztva is felhasználhatja, a 2. § 3. pontjára is figyelemmel. Ennek során a tárgyévben fel nem használt létszámkeret a következő naptári évre nem vihető át.
 
+(3a) A (2) és (3) bekezdésben foglaltakat filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatására, továbbá a szociális szövetkezetekben az egyszerűsített foglalkoztatás esetén nem kell alkalmazni.
+
 (4) Ha a munkavállaló
 
 - a) idénymunkára,
@@ -26,18 +28,20 @@ az egyszerűsített foglalkoztatásról
 
 létesít több alkalommal munkaviszonyt, akkor ezen munkaviszonyok együttes időtartama a naptári évben a százhúsz napot nem haladhatja meg.
 
-(4a) A (2) és (3) bekezdésben foglaltakat filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatására, továbbá a szociális szövetkezetekben az egyszerűsített foglalkoztatás esetén nem kell alkalmazni.
+(4a) A (4) bekezdéstől eltérően, ha a munkavállaló mezőgazdasági idénymunkára létesít több alkalommal munkaviszonyt, akkor ezen munkaviszonyok együttes időtartama a naptári évben a százhúsz napot további kilencven nappal meghaladhatja.
 
 (5) E törvény szabályai nem zárják ki, hogy az (1) bekezdésben foglalt esetekben a munkáltató és a munkavállaló az Mt. általános szabályai szerint létesítsen munkaviszonyt.
 
 2. § E törvény alkalmazásában:
 
-- 1. mezőgazdasági idénymunka: a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati, vadászati ágazatba tartozó munkavégzés, továbbá a termelő, termelői csoport, termelői szervezet, illetve ezek társulása által a megtermelt mezőgazdasági termékek anyagmozgatása, csomagolása – a továbbfeldolgozás kivételével – feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
-- 2. turisztikai idénymunka: a kereskedelemről szóló törvényben meghatározott kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál végzett idénymunka, feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
+- 1. mezőgazdasági idénymunka: a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati, vadászati ágazatba tartozó munkavégzés, továbbá a termelő, termelői csoport, termelői szervezet, illetve ezek társulása által a megtermelt mezőgazdasági termékek anyagmozgatása, csomagolása – a továbbfeldolgozás kivételével,
+- 2. turisztikai idénymunka: a kereskedelemről szóló törvényben meghatározott kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál végzett idénymunka,,
 - 3. alkalmi munka: a munkáltató és a munkavállaló között
   - a) összesen legfeljebb öt egymást követő naptári napig, és
-  - b) egy naptári hónapon belül összesen legfeljebb tizenöt naptári napig, és
-  - c) egy naptári éven belül összesen legfeljebb kilencven naptári napig létesített, határozott időre szóló munkaviszony,
+  - b) egy naptári hónapon belül összesen legfeljebb tizenöt naptári napig
+
+létesített, határozott időre szóló munkaviszony,
+
 - 4. külföldi személy: a magyar állampolgársággal nem rendelkező természetes személy,
 - 5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott harmadik országbeli állampolgár,
 - 6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
@@ -83,18 +87,21 @@ kiadása érdekében.
 
 (2) A személyi jövedelemadó-, szociális hozzájárulási adó- és járulékfizetési kötelezettségekre az egyszerűsített foglalkoztatás esetén
 
-- a) a mezőgazdasági és turisztikai idénymunka esetén,
-- b) az alkalmi munka eseteiben
+- a) a mezőgazdasági idénymunka,
+- b) a turisztikai idénymunka, valamint
+- c) az alkalmi munka
 
-az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt eltérésekkel kell alkalmazni.
+eseteiben az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt eltérésekkel kell alkalmazni.
 
 8. § (1) A munkáltató a 7. § (2) bekezdésében meghatározott egyszerűsített foglalkoztatásra irányuló munkaviszony alapján a (2) bekezdésben meghatározott közterhet fizet.
 
 (2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a munkaviszony minden naptári napjára munkavállalónként
 
-- a) a 7. § (2) bekezdés a) pontja esetén a tárgyhónap első napján érvényes minimálbér 0,75 százaléka,
-- b) a 7. § (2) bekezdés b) pontja esetén a tárgyhónap első napján érvényes minimálbér 1,5 százaléka,
-- c) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatása esetén a tárgyhónap első napján érvényes minimálbér 3 százaléka,
+- a) a 7. § (2) bekezdés a) pontja szerinti mezőgazdasági idénymunka esetén – a b) pontban meghatározott kivétellel – a tárgyhónap első napján érvényes minimálbér 0,75 százaléka,
+- b) a 7. § (2) bekezdés a) pontja szerinti mezőgazdasági idénymunkának az 1. § (4a) bekezdése szerinti százhúsz napon túli további kilencven napjára a tárgyhónap első napján érvényes minimálbér 1,125 százaléka,
+- c) a 7. § (2) bekezdés b) pontja szerinti turisztikai idénymunka esetén a tárgyhónap első napján érvényes minimálbér 0,75 százaléka,
+- d) a 7. § (2) bekezdés c) pontja szerinti alkalmi munka esetén a tárgyhónap első napján érvényes minimálbér 1,5 százaléka,
+- e) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatása esetén a tárgyhónap első napján érvényes minimálbér 3 százaléka,
 
 azzal, hogy a mértéket száz forintra kerekítve kell meghatározni.
 
@@ -141,8 +148,10 @@ napibérként meghatározott összege 130 százalékának szorzatát (a további
 (2) A nyugellátás számítási alapja
 
 - a) a 8. § (2) bekezdés a) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,1 százaléka,
-- b) a 8. § (2) bekezdés b) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 4,2 százaléka,
-- c) a 8. § (2) bekezdés c) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,8 százaléka,
+- b) a 8. § (2) bekezdés b) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 3,15 százaléka,
+- c) a 8. § (2) bekezdés c) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 2,1 százaléka,
+- d) a 8. § (2) bekezdés d) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 4,2 százaléka,
+- e) a 8. § (2) bekezdés e) pontja szerinti közteher fizetése esetén naponta a tárgyhónap első napján érvényes minimálbér 8,4 százaléka,
 
 azzal, hogy az ellátási alapot száz forintra kerekítve kell meghatározni.
 
@@ -238,7 +247,7 @@ rendeletben szabályozza.
 
 (3) A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvénnyel megállapított 8. § (2) bekezdése szerint megállapított közterhek mértékét és a nyugellátás 10. § (2) bekezdése szerint meghatározott alapját az állami adóhatóság 2025. január 20-áig honlapján és a Magyar Közlönyben közzéteszi.
 
-#### 22. §
+22. § E törvénynek az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosításáról szóló 2025. évi X. törvénnyel megállapított 1. § (4a) bekezdését, 2. § 3. pontját, 8. § (2) bekezdését és 10. § (2) bekezdését a 2025. december 31-ét követően megvalósuló munkavégzésre irányuló, e törvény szerinti foglalkoztatási jogviszonyok esetében kell alkalmazni.
 
 #### 23. §
 
@@ -251,29 +260,29 @@ rendeletben szabályozza.
 
 ### Melléklet a 2010. évi LXXV. törvényhez
 
-#### Egyszerűsített munkaszerződés
+Egyszerűsített munkaszerződés
 
-| Munkáltató | neve, megnevezése: |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | székhelye, lakóhelye: |  |  |  |  |
-|  | adószáma: |  |  |  |  |
-| Munkavállaló | neve, születési családi és utóneve(i): |  |  |  |  |
-|  | születési helye, ideje: |  |  |  |  |
-|  | anyja születési családi és utóneve(i): |  |  |  |  |
-|  | lakóhelye: |  |  |  |  |
-|  | TAJ-száma:* |  |  |  |  |
-|  | adóazonosító jele:* |  |  |  |  |
-| Egyszerűsített munka jellege: | Alkalmi munka: |  | Mezőgazdasági idénymunka: |  | Turisztikai idénymunka: |
-| Munkakör: | .......................................................................................................................................................... |  |  |  |  |
-| Munkaviszony kezdete: | .......... év .......... hó .... nap |  | Munkaviszony megszűnésének napja: |  | .......... év .......... hó .... nap |
-| Alkalmi munka esetén a ledolgozott munkaórák száma/nap (naponként)**: ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; ...; |  |  | Rendes munkaidő: ... óra/nap |  |  |
-| Személyi alapbér (bruttó): | ............................ Ft/hó vagy ........................... Ft/nap, összesen: .................................... Ft a munkaviszony teljes idejére |  |  |  |  |
-| Munkavégzési hely:*** |  |  |  |  |  |
-| Kelt: | ....................................................., .................... év ................................................ hó ........... nap |  |  |  |  |
-|  |  | ................................................................ munkáltató |  | ................................................................ munkavállaló |  |
+| Munkáltató | neve, megnevezése: |  |  |
+| --- | --- | --- | --- |
+| székhelye, lakóhelye: |  |  |
+| adószáma: |  |  |
+| Munkavállaló | neve, születési családi és utóneve(i): |  |  |
+| születési helye, ideje: |  |  |
+| anyja születési családi és utóneve(i): |  |  |
+| lakóhelye: |  |  |
+| TAJ-száma:* |  |  |
+| adóazonosító jele:* |  |  |
+| Egyszerűsített munka jellege: | Alkalmi munka: | Mezőgazdasági idénymunka: | Turisztikai idénymunka: |
+| Munkakör: | ............................................................................................................................. |  | Rendes munkaidő: ...... óra/nap |
+| Munkaviszony kezdete: | .......... év .......... hó .... nap | Munkaviszony megszűnésének napja: | .......... év .......... hó.... nap |
+| Alkalmi munka esetén a ledolgozott munkaidő (hó, nap, kezdő, befejező időpont): ....................–..............; ....................–..............; ....................–..............; ....................–..............; ....................–..............; |  |  |  |
+| Személyi alapbér (bruttó): | ............................ Ft/hó vagy ............................ Ft/nap, összesen: .................................... Ft a munkaviszony teljes idejére |  |  |
+| Munkavégzési hely:** |  |  |  |
+| Kelt: | ............................................., .................... év ........................................... hó ........... nap |  |  |
+|  |  |  |  |
+|  | ................................................ |  | ............................................. |
+|  | munkáltató |  | munkavállaló |
 
 * Legkésőbb a bejelentési kötelezettség teljesítésekor kell kitölteni.
 
-** Legkésőbb a munkaviszony megszűnésekor kell kitölteni.
-
-*** A munkáltató székhelyét, telephelyét, illetve, ha a tényleges munkavégzés telephelyen kívül történik, ennek címét, cím hiányában más megjelölését (pl. építés alatt álló út helyrajzi száma, kilométer szelvénye, dűlő megnevezése) kell feltüntetni.
+** A munkáltató székhelyét, telephelyét, illetve, ha a tényleges munkavégzés telephelyen kívül történik, ennek címét, cím hiányában más megjelölését (pl. építés alatt álló út helyrajzi száma, kilométer szelvénye, dűlő megnevezése) kell feltüntetni.

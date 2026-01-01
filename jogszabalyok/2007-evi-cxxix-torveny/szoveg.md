@@ -280,7 +280,7 @@ szerinti építményeket kell érteni.
 
 (2g) A 16. § szerint kell eljárni, ha a vízügyi igazgatóság szakvéleménye alapján megállapítható, hogy a vízborítás a termőföldön nem természetes módon jelent meg, és a más célú hasznosítás nem tartozik a (2) bekezdés hatálya alá.
 
-(3) A termőföld más célú hasznosításával járó engedélyezési, jóváhagyási vagy tudomásulvételi (a továbbiakban együtt: engedélyezési) eljárásban érdemi döntés a termőföld más célú hasznosításának engedélyezéséről szóló véglegessé vált ingatlanügyi hatósági határozat figyelembevételével hozható. Az ingatlanügyi hatóság határozatának hiánya esetén az eljáró hatóság az engedélyezési eljárását felfüggeszti.
+(3) A termőföld más célú hasznosításával járó engedélyezési, jóváhagyási vagy tudomásulvételi (a továbbiakban együtt: engedélyezési) eljárásban érdemi döntés a termőföld más célú hasznosításának engedélyezéséről szóló, véglegessé vált ingatlanügyi hatósági határozat figyelembevételével hozható. Az ingatlanügyi hatóság határozatának hiányában az engedélyezési eljárás megindítható, az ingatlanügyi hatóság által vizsgálandó szempontoktól elkülöníthető szempontokat az eljáró hatóság vizsgálja, ezen túlmenően azonban az engedélyezési eljárását az eljáró hatóság az ingatlanügyi hatóság határozatának véglegessé válásáig felfüggeszti. Engedélyezési eljárás alatt a más célú hasznosítással járó tevékenység vagy beruházás megvalósítására ténylegesen és közvetlenül jogosító eljárás értendő és abba nem tartoznak bele az engedélyezési eljárás szempontjából ágazati szempontot vizsgáló vagy helyi szabályozási környezetet módosító eljárások.
 
 (3a) A (3) bekezdésében foglaltakat nem kell alkalmazni a vasúti építmények azon építésügyi hatósági engedélyezési eljárása vonatkozásában, ahol a nyomvonal által érintett ingatlanokat kormányrendelet állapítja meg.
 
@@ -312,6 +312,7 @@ szerinti építményeket kell érteni.
 - e) a régészeti lelet feltárásához és megőrzéséhez szükséges területigényt.
 - f) a nyilvántartott mezőgazdasági termelő természetes személy tulajdonos, haszonélvező és a földhasználati nyilvántartásban szereplő földhasználó által legfeljebb 1 hektár területű termőföldet érintő olyan igénybevételt, amelynek célja a termőföld művelési ágának megfelelő műveléshez, mezőgazdasági termeléshez vagy erdőgazdasági tevékenységhez kapcsolódó eszköz telepítése vagy építmény elhelyezése;
 - g) a legfeljebb 1 hektár területű termőföldet érintő, nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás vagy kiemelt beruházásnak minősülő közlekedési infrastruktúra-beruházás megvalósítását, építését vagy üzemeltetését szolgáló létesítmény vagy tárolótér elhelyezését, annak közműkapcsolatainak kiépítését.
+- h) a termőföld legfeljebb 1,5 hektár területű földrészletét érintő, villamos energiáról szóló törvény szerinti szélerőmű park beruházást, valamint annak megközelítését szolgáló utak létesítését, illetve a szélerőmű által megtermelt villamos energia közcélú hálózatra való eljuttatását biztosító, a villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló kormányrendeletben meghatározott átalakító- és kapcsolóberendezések létesítését.
 
 (3a) A helyhez kötöttséget megalapozó körülmény fennállását – a (3) bekezdés c) pontjában foglalt kivétellel – az igénybevevőnek kell igazolni a kérelem benyújtásakor. Az igénybevétel helyhez kötöttségét nem alapozza meg önmagában a létesítmény elhelyezésének célszerűsége, a településrendezési eszközök által szabályozott területfelhasználási mód, a termőföld tulajdonosainak együttműködési hajlandósága miatti beruházói könnyebbség, illetve ha az igénybevevőnek többletterhet jelentene a beruházás más ingatlanon történő megvalósítása.
 
@@ -342,7 +343,7 @@ szerinti építményeket kell érteni.
 - f) a 10. § (4) bekezdése szerinti esetben a tulajdonszerzés alapjául szolgáló okirat másolatát, valamint
 - g) a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát vagy annak másolatát, ha az igénybevevő nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, kivéve, ha a termőföld igénybevétele kisajátítás céljának megvalósítása érdekében szükséges, vagy ha a termőföld igénybevétele olyan, a tulajdonjog korlátozását lehetővé tevő közérdekű célt szolgál, amelynél törvény lehetővé teszi a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező hozzájáruló nyilatkozatának bíróság vagy hatóság döntésével történő pótlását.
 
-(2a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás vagy kiemelt beruházásnak minősülő közlekedési infrastruktúra-beruházás megvalósításához szükséges időleges más célú hasznosítás esetén a (2) bekezdés g) pontja szerinti hozzájárulást megadottnak kell tekinteni az olyan tulajdonos vagy haszonélvező esetében,
+(2a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás vagy kiemelt beruházásnak minősülő közlekedési infrastruktúra-beruházás megvalósításához, továbbá a villamos energiáról szóló törvény szerinti szélerőműpark-beruházás termelői vezetékeinek elhelyezéséhez szükséges időleges más célú hasznosítás esetén a (2) bekezdés g) pontja szerinti hozzájárulást megadottnak kell tekinteni az olyan tulajdonos vagy haszonélvező esetében,
 
 - a) akit az igénybevevő a tervezett más célú hasznosításról az ingatlan-nyilvántartásban feltüntetett címen előzetesen írásban, igazolt módon értesített és kérte a tulajdonos vagy haszonélvező teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát, az értesítés közlése eredményes volt, de a tulajdonos vagy haszonélvező a nyilatkozattételre megszabott, legalább 30 napos határidőn belül nem nyilatkozott;
 - b) aki számára az a) pont szerinti értesítés és nyilatkozatkérés közlése meghiúsult, mert a postai küldemény
@@ -1177,7 +1178,7 @@ hozzájáruló nyilatkozata is szükséges a tevékenység engedélyezéséhez v
 
 - a)
 - b) humuszos termőréteg mentéséhez termőföldön történő, 400 m2-t meghaladó területigényű tevékenység megvalósítása,
-- c) az ültetvénytelepítéshez, beleértve az 59. § (1) bekezdésében meghatározott ültetvények esetében a termőföldnek nem minősülő ingatlanon való telepítést is,
+- c) az 1500 m2-t meg nem haladó szőlőültetvény telepítése kivételével az ültetvénytelepítéshez, beleértve az 59. § (1) bekezdésében meghatározott ültetvények esetében a termőföldnek nem minősülő ingatlanon való telepítést is,
 - d) a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosításhoz, valamint a termőföld eredeti állapotának helyreállításához, ha az érintett teljes terület meghaladja a 400 m2 területnagyságot, vagy vonalas létesítmények esetében az 500 métert,
 - e) öntözéshez,
 - f) mezőgazdasági területek vízrendezéséhez,
@@ -1482,7 +1483,7 @@ kiadott rendeletben határozza meg.
 
 a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2. hatálybalépését megelőzően véglegessé vált, a termőföld eredeti állapotának helyreállítását elrendelő határozatok esetében, továbbá a megismételt eljárásokban is alkalmazni kell.
 
-#### 73. §
+73. § E törvénynek az energetikai tárgyú törvények módosításáról szóló 2025. évi XCVI. törvénnyel (a továbbiakban: Mód.tv.) megállapított, illetve módosított 10. § (3) bekezdését, 11. § (3) bekezdés h) pontját és 12. § (2a) bekezdését a Mód.tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 74. § (1) Az egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatási rendtartásról szóló törvénnyel összefüggő és más célú módosításáról szóló 2017. évi CCV. törvény (a továbbiakban: Módtv4.) hatálybalépését megelőzően termőföldön vagy termőföldnek nem minősülő ingatlanon telepített, 3000 m2-nél kisebb és 2500 m2-nél nagyobb gyümölcsültetvényt – a kísérleti gyümölcsültetvény kivételével – a telepítési hatósághoz a Módtv4. hatálybalépésétől számított 12 hónapon belül be kell jelenteni a 61. § (1) és (2) bekezdése szerinti adatokat.
 

@@ -176,7 +176,9 @@ alapján határozatot hoz az állami elismerésről vagy új fajtafenntartó bej
 
 (3) Az (1) bekezdésben meghatározott esetben a fajta állami elismerésének visszavonását követően a szaporítóanyag a visszavonást követő harmadik év június 30. napjáig forgalmazható.
 
-12. § A növénytermesztési hatóság az állami elismerés iránti kérelem alapján vizsgálat alatt álló és az állami elismerésben részesített növényfajtákról közhiteles nyilvántartást vezet és közzéteszi a Nemzeti Fajtajegyzéket.
+12. § (1) A növénytermesztési hatóság az állami elismerés iránti kérelem alapján vizsgálat alatt álló és az állami elismerésben részesített növényfajtákról nyilvántartást vezet és közzéteszi a Nemzeti Fajtajegyzéket.
+
+(2) Az (1) bekezdés szerinti nyilvántartás azon adatok tekintetében, amelyeket e törvény végrehajtására kiadott rendelet annak nyilvánít, közhitelesnek minősül.
 
 13. § (1) A nemesítőt megilleti az a jog, hogy a növényfajta nemesítőjeként feltüntessék, illetve, hogy a növényfajta nemesítőjeként nyilvánosan elismerjék. A növényfajta minősített szaporítóanyaga után, a fajtafenntartással kapcsolatos tevékenységéért, a fajtafenntartót szerződés alapján díjazás illeti meg.
 
@@ -226,7 +228,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (10) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a (7), illetve a (9) bekezdés szerinti tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a növénytermesztési hatóságnak bejelenteni. A bejelentésben meg kell jelölni a természetes személy bejelentő természetes személyazonosító adatait.
 
-(11) A növénytermesztési hatóság közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(11) A növénytermesztési hatóság – a személyiadat- és lakcímnyilvántartásban, a cégnyilvántartásban és az adózással kapcsolatos nyilvántartásban, a 23. § (1) bekezdés a) pont aa) alpont 5.) pontjában szereplő adatok, valamint az ügyfél támogatási azonosítója kivételével – közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (12) A szaporítóanyagnak a minősítés során megállapított minőségéért a szaporítóanyag-tétel forgalomban tartásának ideje alatt a szaporítóanyag-forgalmazó a felelős.
 
@@ -297,6 +299,8 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 (2d) A növénytermesztési hatóság honlapján közzéteszi a nyilvántartott vetőmag-előállító nevét és a (2b) bekezdés b)–d) pontja szerinti adatokat.
 
 (2e) A növénytermesztési hatóság a (2b) bekezdés szerinti, részére átadott személyes adatokat a (2b) bekezdés d) pontja szerinti hatályossági idő lejártát követő második év végéig a 23. § (2) bekezdés j) pont jd) alpontjában meghatározott feladata ellátása érdekében kezeli.
+
+(2f) A vetőmag-előállító zárt körzet nyilvántartás a (2b) bekezdés c) és d) pontjában szereplő adatok, valamint a vetőmag-előállítással érintett terület helye és nagysága tekintetében közhiteles.
 
 (3) Ha a 18. § (5) bekezdése szerinti egyeztetési igény bejelentésére sor kerül, de elmarad a 18/A. § szerinti szerződéskötés, a zárt körzet létrehozását a növénytermesztési hatóság engedélyezi a (2) bekezdés szerinti feltétel teljesülésének vizsgálatát követően, a 18/C. §-ban foglaltak szerint. A zárt körzet létesítését kezdeményező vetőmag-előállítónak a zárt körzet létesítésére vonatkozó szándékát a 18. § (3) bekezdésében meghatározott módon közzé kell tennie.
 
@@ -404,7 +408,7 @@ megsemmisítését rendelheti el.
 - b) a vetőmag-előállítókról, valamint az engedélyes vagy a nyilvántartásba vett szőlő-, gyümölcs-, dísznövény, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyag-előállítókról és szaporítóanyag-forgalmazókról, amely tartalmazza
   - ba) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, adóazonosító jelét,
   - bb) jogi személy, valamint jogi személyiség nélküli szervezet esetén az azonosító adatokat (cégnevét, adószámát, székhelyét, telephelyét),
-  - bc) az ügyfél regisztrációs számát vagy a növénytermesztési hatóság partner azonosítóját,
+  - bc) az ügyfél támogatási azonosítóját vagy a növénytermesztési hatóság partner azonosítóját,
   - bd) a tevékenység megjelölését,
   - be) szaporítóanyag előállítás esetén a vetés, illetve a termesztés helyének azonosító adatai (cím, helyrajzi szám, WGS84 rendszerben meghatározott koordinátapár, egyedi tábla azonosító) közül legalább egyet, az érintett terület nagyságát, valamint szaporítóanyag forgalmazás esetén a telephely megfelelő azonosító adatait;
 - c) a minősített szaporítóanyag tételekről, amely tartalmazza

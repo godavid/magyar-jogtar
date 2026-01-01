@@ -36,9 +36,13 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 ### A nyilvántartás fogalma és feladatai
 
-3. § (1) A nyilvántartás olyan közhiteles hatósági nyilvántartás, amely a nyilvántartásban szereplő polgároknak az e törvényben meghatározott személyi, lakcím és értesítési cím adatait, valamint az azokban bekövetkezett változásokat tartalmazza és igazolja.
+3. § (1) A nyilvántartás olyan közhiteles hatósági nyilvántartás, amely a nyilvántartásban szereplő polgároknak a 11. § (1), (1a), (3) és (4) bekezdésében meghatározott személyi, lakcím és értesítési cím adatait, valamint az azokban bekövetkezett változásokat tartalmazza és igazolja.
 
-(2) A nyilvántartás feladata az e törvényben meghatározott adatok és változásaik gyűjtése és kezelése, azokról okiratok kiadása és törvényben meghatározott jogosultaknak adatok szolgáltatása.
+(2) A nyilvántartás más közhiteles nyilvántartásból, illetve az azt vezető szervtől átvett adatok esetén az átvett adatokat az átvétel szerinti tartalommal tartalmazza és igazolja.
+
+(3) A nyilvántartás feladata az e törvényben meghatározott adatok és változásaik gyűjtése és kezelése, azokról okiratok kiadása és törvényben meghatározott jogosultaknak adatok szolgáltatása.
+
+(4) A (2) bekezdés szerint átvett adatokat jogszabály eltérő rendelkezésének hiányában a nyilvántartásból kell szolgáltatni az arra jogosultaknak.
 
 ### A törvény hatálya
 
@@ -490,12 +494,12 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (4) Az általános politikai koordinációért felelős miniszternek az (1) bekezdésen alapuló adatkezelésére a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény 5. és 6. §-ában, valamint 13–15. §-ában foglaltakat megfelelően alkalmaznia kell.
 
-19/B. § A közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, valamint a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó foglalkoztatási jogviszonyban a foglalkoztató szerv
+19/B. § A közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény, az egészségügyi szolgálati jogviszonyról szóló törvény, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó foglalkoztatási jogviszonyban a foglalkoztató szerv
 
-- a) az általa törvény alapján vezetett személyügyi nyilvántartás adattartalmának ellenőrzése céljából, valamint
+- a) az általa törvény alapján vezetett személyügyi nyilvántartás adattartalmának ellenőrzése és a foglalkoztatott azonosítása céljából, valamint
 - b) a jognyilatkozatok elektronikus dokumentumban történő, törvény szerinti közlése, illetve ehhez kapcsolódva az általa foglalkoztatottal való elektronikus kapcsolattartás folyamatos biztosítása céljából
 
-jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) pontja szerinti adatait.
+jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) pontja szerinti adatait, valamint – az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá tartozó foglalkoztató szerv kivételével – utolsó alkalommal nyilvántartásba vett arcképmását.
 
 19/C. § A nyilvántartást kezelő szerv az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény (a továbbiakban: ÁBTL Tv.) szerinti érintett elhalálozásának időpontjáról adatot szolgáltat az Állambiztonsági Szolgálatok Történeti Levéltára számára az ÁBTL Tv. 4. § (2) bekezdésében és 5. § (2)–(3) bekezdésében meghatározott védelmi idők leteltének megállapíthatósága céljából.
 
@@ -608,9 +612,9 @@ van lehetőség.
 - v) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére, a tartózkodási helyre vonatkozó adatok kivételével az erdészeti hatóság az erdőgazdálkodói nyilvántartás működtetésével összefüggő feladatai ellátásához;
 - w) – az a)–v) pont eltérő rendelkezése hiányában – a közigazgatási hatóság az általa vezetett közhiteles hatósági nyilvántartás törvényben meghatározott adattartalmának részét képező adatok és a nyilvántartásból való, elhalálozás miatti kikerülés ideje tekintetében;
 - x) a családi állapotra, valamint a házasságkötés helyére vonatkozó adatok kivételével a születést anyakönyvező anyakönyvvezető a 7. § (3) bekezdésében meghatározott újszülött részére hivatalból kiadott állandó személyazonosító igazolvánnyal kapcsolatos kötelezettségei teljesítéséhez;
-- y)
+- y) a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára és idejére vonatkozó adatok kivételével az egészségügyi szolgáltató az Elektronikus Egészségügyi Szolgáltatási Tér útján az egészségügyi szolgáltatást igénybe vevő polgár azonosításához és törvényben meghatározott feladatai ellátásához;
 - z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
-- zs)
+- zs) a lakcímre, az állampolgárságra, a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozás tényén és idején kívüli – kikerülés okára és idejére vonatkozó adatok kivételével az Integritás Hatóság a közbeszerzési eljárásból egyes bűncselekményekkel összefüggésben kizárt jogi személyekről, egyéni cégekről és egyéni vállalkozókról szóló nyilvántartással összefüggő feladatai ellátásához.
 
 21/A. § Az e törvény felhatalmazása alapján – a 21. §-ban meghatározottak mellett – a 17. § (2) bekezdés b) pontja szerinti adatokat jogosult igényelni az állampolgárság, a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való – az elhalálozáson kívüli – kikerülés oka, helye és ideje adatok kivételével a vasúti közlekedési hatóság az elektronikus vasúti személyi és szervezeti nyilvántartás vezetése céljából.
 
@@ -1271,7 +1275,7 @@ a nyilvántartást kezelő szerv az (1) bekezdés szerinti módon gondoskodik a 
 
 (7) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában a (4) bekezdésben meghatározott adatokat az okmánynyilvántartó szerv a személyazonosság igazolására alkalmas hatósági igazolvány érvénytelenné válása időpontjáig kezeli, a (6) bekezdés szerinti értesítés alapján azokat haladéktalanul törli.
 
-(8) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. Közvetlen hozzáférés esetén igazgatási szolgáltatási díj megfizetése mellett kérhető tájékoztatás.
+(8) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. A tájékoztatás a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényét közhitelesen tanúsítja.
 
 (9) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartása a személyazonosság igazolására alkalmas hatósági igazolvány érvényességi ideje alatt az érvényesség tényéről erre irányuló kérelemre kizárólag elektronikus azonosítást követően, elektronikus kapcsolattartás útján, egyedi informatikai alkalmazás igénybevételével
 

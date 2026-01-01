@@ -144,7 +144,7 @@ kezeli, azt követően az adatokat törli.
 
 (5) A (2)–(3) bekezdés szerinti közigazgatási hatósági ügyben hozott elsőfokú döntés ellen fellebbezésnek van helye.
 
-9. § (1) Az általános rendőrségi feladatok ellátásra létrehozott szerv központi szerve (a továbbiakban: központi szerv) a rendészeti feladatokat ellátó személy számára kiadott szolgálati igazolványról, valamint az egyedi azonosító számmal ellátott szolgálati jelvényről az 5. § (2)–(3) bekezdésében meghatározott alkalmazást kizáró okok ellenőrzése, a szolgálati igazolványok hitelességének és a rendészeti feladatokat ellátó személy azonosításának céljából nyilvántartást vezet.
+9. § (1) Az általános rendőrségi feladatok ellátásra létrehozott szerv központi szerve (a továbbiakban: központi szerv) a rendészeti feladatokat ellátó személy számára kiadott szolgálati igazolványról, valamint az egyedi azonosító számmal ellátott szolgálati jelvényről az 5. § (2)–(3) bekezdésében meghatározott alkalmazást kizáró okok ellenőrzése és a rendészeti feladatokat ellátó személy azonosításának céljából nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 
@@ -157,7 +157,7 @@ kezeli, azt követően az adatokat törli.
 - c) a rendészeti feladatokat ellátó személy tevékenységi területének megjelölését,
 - d) a szolgálati igazolvány és a szolgálati jelvény sorszámát.
 
-(2a) Az (1) bekezdésben meghatározott nyilvántartás a (2) bekezdés b)–d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2a)
 
 (3) A rendészeti feladatokat ellátó személyek nyilvántartása számára a (2) bekezdésben meghatározott adatokat
 

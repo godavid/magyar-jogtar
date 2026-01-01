@@ -422,7 +422,7 @@ követő napon.
 - n) a különleges rendeltetésűvé nyilvánítást;
 - o) a halgazdálkodási kíméleti területek kijelölését.
 
-(2) Az (1) bekezdés szerinti nyilvántartás az ott meghatározott adatok vonatkozásában – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás az ott meghatározott adatok vonatkozásában – az (1) bekezdés b) pont ba) és bb) alpontjában, valamint az (1) bekezdés g)–i) és m) pontjában meghatározott adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A halgazdálkodásra jogosult jogosultsága időpontjától kezdődő hatállyal, illetve az adataiban történt változást követő 15 napon belül köteles az (1) bekezdés szerinti adatait, illetve az adatváltozást bejelenteni a halgazdálkodási hatóságnak.
 
@@ -1052,7 +1052,7 @@ tekintetében.
 - k) alkalmazási jogviszonyának típusát;
 - l) foglalkoztatásának, megbízásának kezdő, illetve befejező időpontját.
 
-(10) A (9) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(10) A (9) bekezdésben meghatározott nyilvántartás a (9) bekezdés a) és f)–i) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (11) A hivatásos halőrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint annak végrehajtására kiadott rendelet és az e törvény végrehajtására kiadott rendelet határozza meg.
 

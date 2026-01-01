@@ -415,7 +415,7 @@ teszi szükségessé.
 
 (3) Az állatkert létesítése iránt benyújtott kérelemhez csatolni kell az állattartási szabályzatot.
 
-(4) Az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(4)
 
 (5) Az állatkert köteles az ott élő állatok szakszerű bemutatásával és tájékoztatással természetvédelmi és állatvédelmi tárgyú ismeretterjesztést, oktatást és nevelést végezni.
 
@@ -485,6 +485,8 @@ teszi szükségessé.
 - k) kisállatútlevéllel rendelkező eb esetén az útlevél számát, kiállításának időpontját, a kiállító szolgáltató állatorvos nevét, kamarai bélyegzője számát,
 - l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó adatot,
 - m) elismert tenyésztő szervezet által törzskönyvezett eb esetén a származási igazolás másolatát.
+
+(4a) Az ebnyilvántartás a (4) bekezdés e)–l) pontja tekintetében – a szolgáltató állatorvos neve és kamarai bélyegző száma kivételével – közhiteles nyilvántartásnak minősül.
 
 (5) Az ebnyilvántartás működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
 

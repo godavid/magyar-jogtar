@@ -290,7 +290,7 @@ határoz.
 
 (4) A jogegységi panasz tanács elnöke vezeti a tanácsot és szervezi annak munkáját. Ennek keretében minden olyan intézkedést megtehet és minden olyan végzést meghozhat, amit a jogegységi panasz alapjául szolgáló eljárás szabályai nem utalnak kifejezetten a tanács hatáskörébe.
 
-41/B. § (1) Jogegységi panasznak van helye – a pervezetésre vonatkozó végzés kivételével – a Kúriának az eljárási törvény alapján további fellebbezéssel, felülvizsgálati kérelemmel vagy felülvizsgálati indítvánnyal (a továbbiakban ebben az alcímben együtt: felülvizsgálati kérelem) nem támadható határozata ellen, ha a felülvizsgálati kérelemben a Kúria 2012. január 1. után hozott és a Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban ezen alcímben: a Kúria közzétett határozata) jogkérdésben való eltérésre már hivatkoztak, és a Kúria az eltéréssel okozott jogsértést határozatában nem orvosolta.
+41/B. § (1) Jogegységi panasznak van helye – a pervezetésre vonatkozó végzés kivételével – a Kúriának az eljárási törvény alapján további fellebbezéssel, felülvizsgálati kérelemmel vagy felülvizsgálati indítvánnyal (a továbbiakban ebben az alcímben együtt: felülvizsgálati kérelem) nem támadható határozata ellen, ha a felülvizsgálati kérelemben a Kúria 2012. január 1. után hozott és a Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban ezen alcímben: a Kúria közzétett határozata) jogkérdésben való eltérésre már hivatkoztak, és a Kúria az eltéréssel okozott jogsértést – lehetőség ellenére – határozatában nem orvosolta.
 
 (2) Jogegységi panasznak van helye akkor is, ha a Kúria ítélkező tanácsa jogkérdésben – jogegységi eljárás kezdeményezése nélkül – úgy tér el a Kúria közzétett határozatától, hogy az adott eltérésre az alsóbbfokú bíróságok határozatában nem került sor.
 
@@ -577,7 +577,7 @@ kezdeményezéséről határoz.
 - h) dönt az OBT egyetértésével – továbbá a Kúriára történő kirendelés esetén a Kúria bírói tanácsa, valamint a Kúriának a kirendelendő bíró ügyszakának megfelelő ügyszakú kollégiuma egyetértésével – a bíró más szolgálati helyre történő kirendeléséről, ha a kirendelés nem a törvényszék és az illetékességi területén működő járásbíróság között vagy a törvényszék illetékességi területén működő járásbíróságok között történik,
 - i) dönt a bíró tekintetében a tartós külszolgálat ellátásáról,
 - j) dönt arról, hogy a bíróság hatáskörének vagy illetékességi területének csökkenése olyan mértékű-e, hogy ott a bíró további foglalkoztatása nem lehetséges,
-- k)
+- k) a bíró általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását – a bíró kérelmére – jóváhagyja,
 - l)
 - m) kinevezi és felmenti a törvényben meghatározott bírósági vezetőket,
 - n)
@@ -1163,6 +1163,7 @@ kell megindítani.
 - r) gondoskodik a Kúria ügyfélfogadási idejének és rendjének a központi honlapon és a Kúria honlapján történő közzétételéről, és
 - s) kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel való összhangjának felülvizsgálatát, valamint a kihirdetéstől számított 30 napon belül az Alaptörvény és az Alaptörvény módosítása megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartásának vizsgálatát,
 - t) ellátja azokat az egyéb feladatokat, amelyeket jogszabály, az OBH elnökének szabályzata vagy az OBH elnökének határozata a hatáskörébe utal.
+- u) a kúriai bíró általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását – a kúriai bíró kérelmére – jóváhagyja.
 
 (2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.
 
@@ -1613,7 +1614,9 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 #### 52/A. A polgári és közigazgatási bírósági eljárásokban elrendelt hirdetményi kézbesítések bírósági nyilvántartása
 
-166/A. § (1) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítési fikció beálltának időpontját. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Bírósági Hivatal elnöke kezeli, az abban foglalt adatokról az Országos Bírósági Hivatal elnöke jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
+166/A. § (1) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítési fikció beálltának időpontját.
+
+(1a) A nyilvántartás – a fél utolsó ismert lakóhelyére (székhelyére) vonatkozó adat kivételével – közhiteles. Az országosan összekapcsolt számítógépes nyilvántartást az Országos Bírósági Hivatal elnöke kezeli, az abban foglalt adatokról az Országos Bírósági Hivatal elnöke jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
 
 (2) Más személy kérelmére felvilágosítás csak akkor adható, ha a bíróság, ügyészség, nemperes eljárást lefolytató közjegyző vagy közigazgatási szerv törvényben meghatározott feladatainak teljesítéséhez, illetve a felvilágosítást kérő személynek törvényben biztosított jogai gyakorlásához szükséges. A törvényes jogcímet valószínűsíteni kell. Ilyen esetben az adatszolgáltatás tényét a számítógépes rendszerben oly módon kell rögzíteni, hogy az adatszolgáltatás időpontja, jogcíme és az adat felhasználója megállapítható maradjon. A jogellenes adatkérés és felhasználás jogkövetkezményeit a felvilágosítást kérő viseli.
 

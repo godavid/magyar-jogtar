@@ -49,7 +49,7 @@ terjed ki.
 - p) egészségügyi szakellátási kötelezettség: az államnak az a kötelezettsége, hogy az l) és az o) pont alá nem tartozó esetekben biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat;
 - q) tartalékkapacitás: az a rendelkezésre álló országos kapacitásmennyiség részét képező, az i) pont ia) alpontja szerinti járóbeteg-szakellátási kapacitás és az i) pont ib) alpontja szerinti fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva;
 - r) szakellátási kapacitás feletti rendelkezési jog: adott szakellátási kapacitás, illetve a hozzá tartozó ellátási terület tekintetében az 5. §, az 5/B. §, a 7. § és a 10. § szerinti eljárásokban a fenntartó számára megállapított jogkör gyakorlása;
-- s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8d) bekezdése alapján vezetett közhiteles nyilvántartás.
+- s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8d) bekezdése alapján vezetett nyilvántartás.
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 
@@ -476,7 +476,7 @@ fennállása esetén.
 
 (6) Az ellátási terület megállapítása során a (2)–(5) bekezdésben foglaltakon túl figyelembe kell venni a 4/A. § (5) bekezdésében foglaltakat.
 
-(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv közhiteles kapacitás-nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a kapacitás-nyilvántartásba.
+(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv kapacitás-nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a kapacitás-nyilvántartásba.
 
 (7a) A kapacitásokat és az ellátási területeket érintő változásokat a kapacitás-nyilvántartásban a változás hatálybalépésével egyidejűleg át kell vezetni.
 
@@ -529,6 +529,8 @@ fennállása esetén.
 - c) járóbeteg-szakellátási tartalékkapacitások szakorvosi óra száma,
 - d) járóbeteg-szakellátási tartalékkapacitások nem szakorvosi óra száma,
 - e) egyéb teljesítményegységek szerinti tartalék finanszírozási egységek száma.
+
+(8e) A kapacitás-nyilvántartás közhitelesen tartalmazza a (8b) bekezdés c)–f) és h) pontja, a (8b) bekezdés i) pont ia)–id) és ig) alpontja, a (8b) bekezdés j) és k) pontja, a (8c) bekezdés a), d) és e) pontja, valamint a (8d) bekezdés szerinti adatokat.
 
 (9) A (3) bekezdés szerinti átfedésmentesség követelményét nem kell alkalmazni:
 

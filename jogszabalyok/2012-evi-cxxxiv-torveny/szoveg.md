@@ -124,7 +124,7 @@ a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalma
 - i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
 - j) a termékregisztrátorokról és a Hatóság elnökének a nyilvántartásvezetésről és adatszolgáltatásról szóló rendeletében meghatározott, a dohánytermék-kiskereskedelmi tevékenységet végzők adatszolgáltatási kötelezettségével érintett termékekről (a továbbiakban: érintett termék) hatósági nyilvántartást vezet; fogadja a Hatóság elnökének a nyilvántartásvezetésről és adatszolgáltatásról szóló rendeletében meghatározott bejelentéseket és a nyilvántartott adatokat a dohánytermék-kiskereskedelmi tevékenységet végzők, valamint a dohány-kiskereskedelmi ellátó részére átadja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedelmi tevékenységet végzők készlet- és forgalmi adatait kezeli, feldolgozza, az arra jogosultak részére átadja.
 - k) a dohánygyártmányok árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
-- l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekről közhiteles nyilvántartást vezet és kötelezettségeik teljesítését ellenőrzi,
+- l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekről nyilvántartást vezet és kötelezettségeik teljesítését ellenőrzi,
 - m) eljár a jogosulatlan dohánytermék-kiskereskedelmi tevékenységet folytatókkal szemben.
 
 (4)
@@ -385,11 +385,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 - j) ha a 10. § (1) bekezdése szerinti, dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó feljogosítást a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv visszavonja vagy a feljogosítás megszűnik,
 - k) ha a 13. § (8d) bekezdése szerinti kiskorú örökös nagykorúvá válását követően a dohánytermék-kiskereskedelmi tevékenységet nem folytatja.
 
-14/A. § (1) A Hatóság a dohánytermék-kiskereskedelmi tevékenységet végző személyekről közhiteles hatósági nyilvántartást vezet.
-
-(2) Az (1) bekezdés szerinti nyilvántartásban az engedély jogosultja engedélyszámára, az engedély kiadásának időpontjára, valamint az engedély érvényességére, valamint a kijelölés időpontjára és a kijelölési okirat számára vonatkozó adatok minősülnek közhitelesnek.
-
-(3) A Hatóság az (1) bekezdésben felsorolt személyekre vonatkozó, közhitelesnek minősülő adatokat hivatalos honlapján közzéteszi.
+#### 14/A. §
 
 ### 3. CÍM — A dohánytermékek beszerzése
 
@@ -456,11 +452,11 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 15/C. § (1) A dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységével közvetlen összefüggésben ajándékot, árengedményt, kedvezményt, térítést vagy egyéb juttatást csak akkor fogadhat el, ha azt e törvény vagy e törvény felhatalmazása alapján kiadott jogszabály lehetővé teszi. A tilalomba ütközik az is, ha a törvény vagy e törvény felhatalmazása alapján kiadott jogszabály által lehetővé nem tett ajándékot, árengedményt, kedvezményt, térítést vagy egyéb juttatást bármely személy a dohánytermék-kiskereskedőre tekintettel fogadja el.
 
-(2) A dohánytermék kiskereskedő a tevékenységével közvetlen összefüggésben kizárólag
+(2) A dohánytermék-kiskereskedő a tevékenységével közvetlen összefüggésben kizárólag
 
-- a) a kiskereskedelemben általában szokásos árrés, vagy a kiskereskedelmi tevékenység végzésével általában összefüggő kedvezmény biztosítását,
-- b) jogszabály által előírt kereskedelmi árrés biztosítását,
-- c) a dohánytermék-nagykereskedővel e törvény keretei között megkötött, a dohánytermékek, vagy termékcsoportok kedvezőbb megjelenítését célzó visszterhes szerződés (a továbbiakban: polckép-szerződés) alapján a szerződéses szolgáltatás ellenértékeként nyújtott összeget
+- a) a kiskereskedelemben általában szokásos árrés vagy a kiskereskedelmi tevékenység végzésével általában összefüggő kedvezmény biztosítását,
+- b) jogszabály által meghatározott kereskedelmi árrés biztosítását,
+- c) a polckép-szerződés alapján a szerződéses szolgáltatás ellenértékeként nyújtott összeget
 
 fogadhatja el.
 
@@ -547,7 +543,7 @@ lehet;
   - bb) a Hatóság által biztosított felhasználó nevét, és
   - bc) telefonszámát.
 
-(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés b) pont bb) alpontja vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(3)
 
 (4) A termékregisztrátor az első érintett termék nyilvántartásba vétele előtt legalább 15 nappal a termékregisztrációs portál használatához – a (2) bekezdés b) pont bb) alpontja szerinti felhasználónév kivételével – a (2) bekezdés szerinti adatok megadásával kéri a Hatóságnál a nyilvántartásba vételét.
 
@@ -555,7 +551,16 @@ lehet;
 
 15/J. § (1) A Hatóság a 15/H. § szerinti adatszolgáltatási kötelezettséggel érintett termékekről – az érintett termékekre vonatkozó nyilvántartás-vezetési és adatszolgáltatási kötelezettségnek a dohánytermék-kiskereskedelmi tevékenységet végző személyek általi egységes teljesítése érdekében – a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében meghatározottak szerint, a termékregisztrátor adatszolgáltatása alapján – személyes adatot nem tartalmazó adattartalommal – hatósági nyilvántartást vezet.
 
-(2) Az érintett termékeket a Hatóság hatósági azonosító számmal látja el. Az (1) bekezdés szerinti nyilvántartás a hatósági azonosító szám tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2) Az érintett termékeket a Hatóság hatósági azonosító számmal látja el.
+
+(3) Az (1) bekezdés szerinti nyilvántartás tartalmazza
+
+- a) a termékregisztrátor azonosításához szükséges adatokat,
+- b) a bejelentett termék – nyilvántartásba vételekor kapott – hatósági azonosító számát,
+- c) a bejelentett termék nyilvántartásba vételének időpontját,
+- d) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(4) Az (1) bekezdés szerinti nyilvántartás a (3) bekezdés b) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 15/K. § (1) A Hatóság a 15/H. § szerinti adatszolgáltatás keretében beérkezett adatokat kezeli, feldolgozza, a hatósági eljárásokban és a hatósági ellenőrzések során felhasználja, illetve azokból elemzést, összesítést készít. A Hatóság a dohánytermék-kiskereskedő forgalmi adatait, az adatszolgáltató neve és a dohánybolt címe szerint, a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében meghatározott adattartalommal és rendszerességgel az állami adó- és vámhatóság részére kockázatelemzési és bűnmegelőzési célból elektronikus úton átadja.
 
@@ -585,7 +590,7 @@ lehet;
 
 ### 7. CÍM — A dohánytermékek árusításával feljogosított személyekre vonatkozó különös rendelkezések
 
-16/B. § (1) A III. Fejezet 3–6. címében, valamint a 17. §-ban foglalt rendelkezéseket a dohánytermékek árusítására kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által feljogosított személyre is alkalmazni kell.
+16/B. § (1) A III. Fejezet 3–6. címében, valamint a a 17., 18., 20. és 22. §-ban foglalt rendelkezéseket a dohánytermékek árusítására kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által feljogosított személyre is alkalmazni kell.
 
 (2) Ha a feljogosított személy a dohánytermékek értékesítésére munkavállalót, illetve megbízottat alkalmaz, akkor biztosítania kell és felel azért, hogy a munkavállaló, illetve a megbízott a kijelölési okiratban foglaltaknak megfelelően járjon el.
 
@@ -609,7 +614,49 @@ lehet;
 
 (2) A Hatóság a törvényben felsorolt feladatai ellátása érdekében jogosult a dohánytermék-kiskereskedelmi tevékenységet végző személy személyes adatainak kezelésére és feldolgozására. A Hatóság a dohánytermék-kiskereskedelmi tevékenységet végző személy személyes adatait a koncessziós szerződés vagy a 10. § (1) bekezdése szerinti külön feljogosítás megszűnését követő öt évig kezeli.
 
-#### 20. §
+20. § (1) A Hatóság a dohánytermék-kiskereskedőkről nyilvántartást vezet, amely tartalmazza
+
+- a) a dohánytermék-kiskereskedő
+  - aa) nevét vagy cégnevét,
+  - ab) cégjegyzékszámát vagy egyéni vállalkozói nyilvántartási számát,
+  - ac) székhelyét,
+  - ad) adószámát,
+  - ae) kapcsolattartásra szolgáló telefonszámát és e-mail címét,
+- b) a dohánybolt vagy elkülönített hely
+  - ba) címét,
+  - bb) dohánytermék-kiskereskedelmi engedélyének számát,
+  - bc) dohánytermék-kiskereskedelmi engedélye érvényességének kezdetét és végét, valamint
+- c) a Hatóság elnökének rendeletében meghatározott további, személyes adatnak nem minősülő adatokat.
+
+(2) A Hatóság a 10. § (1) bekezdése szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekről nyilvántartást vezet, amely tartalmazza
+
+- a) a feljogosított személy
+  - aa) nevét vagy cégnevét,
+  - ab) cégjegyzékszámát vagy egyéni vállalkozói nyilvántartási számát,
+  - ac) székhelyét,
+  - ad) adószámát,
+  - ae) kapcsolattartásra szolgáló telefonszámát és e-mail címét,
+- b) a dohánytermék értékesítési hely
+  - ba) címét,
+  - bb) létesítésének alapját képező kijelölési okirat számát, érvényességének kezdetét és végét,
+- c) a Hatóság elnökének rendeletében meghatározott további, személyes adatnak nem minősülő adatokat.
+
+(3) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés b) pont bb) és bc) alpontjában meghatározott adatok tekintetében, a (2) bekezdés szerinti nyilvántartás a (2) bekezdés b) pont bb) alpontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
+(4) A Hatóság az (1) bekezdés a) pont aa) alpontja és az (1) bekezdés b) pontja szerinti adatokat, valamint a (2) bekezdés a) pont aa) alpontja és a (2) bekezdés b) pontja szerinti adatokat hivatalos honlapján közzéteszi.
+
+(5) Az (1) és (2) bekezdés szerinti adatok kezelésének célja a dohánytermék-kiskereskedőre és a 10. § (1) bekezdése szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekre vonatkozó információk naprakészen tartása, valamint a Hatóság hatósági és ellenőrzési feladatainak ellátása.
+
+(6) A 10. § (1) bekezdése szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy a (2) bekezdés szerinti adatokban bekövetkezett változást annak bekövetkezésétől számított 15 napon belül bejelenti a Hatóság részére.
+
+(7) A Hatóság
+
+- a) a dohánytermék-kiskereskedő (1) bekezdés szerinti adatait a koncessziós szerződés megszűnését követő,
+- b) a 10. § (1) bekezdése szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy (2) bekezdés szerinti adatait a 10. § (1) bekezdése szerinti külön feljogosítás megszűnését követő
+
+öt év elteltével törli a nyilvántartásból.
+
+(8) Az (1) és (2) bekezdés szerinti nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat a Hatóság elnökének rendelete határozza meg.
 
 21. § (1) A Hatóság vezetője és helyettesei, közeli hozzátartozói valamint dohánytermék-kiskereskedelem tárgyában felügyeleti feladatkörében eljáró alkalmazottai dohánytermék-kiskereskedelmi tevékenységet nem végezhetnek.
 
@@ -856,6 +903,7 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 - f) a dohánytermék-kiskereskedelmi tevékenységet végző személyek nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a termékregisztrátorok és az általuk forgalmazott érintett termékek körének meghatározására, azok hatósági nyilvántartásba vételére, a dohánygyártmányok árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére,
 - g) az 1. § (1) bekezdésében meghatározottakon kívül a dohányboltban forgalmazható termékekre és nyújtható szolgáltatásokra
 - h) a dohánytermék-kiskereskedelmi tevékenységet végző személyek országos képzési rendszerének működtetésére, szakmai képzés feltételeire, annak teljesítésére és díjára
+- i) a 15/J. § (1) bekezdése, valamint a 20. § (1) és (2) bekezdése szerinti nyilvántartás vezetésére és a nyilvántartások személyes adatnak nem minősülő adattartalmára
 
 vonatkozó részletes szabályokat rendeletben megállapítsa.
 

@@ -433,7 +433,7 @@ az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet
 
 vonatkozó adatokat kezelheti.
 
-(2)
+(2) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a gyámügyi feladatokat ellátó szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -564,7 +564,7 @@ a megváltozott munkaképességű személyek ellátásait folyósító szerv hiv
 
 és a munkaszerződése szerinti napi munkaideje a 4 órát eléri.
 
-22/A. § (1) A 23. § (1) bekezdésének alkalmazása során – legutoljára a 23. életévének betöltése szerinti naptári évben – a megváltozott munkaképességű személyekkel egy tekintet alá esik az a személy is, aki
+22/A. § (1) A 23. § (1) bekezdésének alkalmazása során – legutoljára a 26. életévének betöltése szerinti naptári évben – a megváltozott munkaképességű személyekkel egy tekintet alá esik az a személy is, aki
 
 - a) köznevelési intézményben – a nemzeti köznevelésről szóló törvény szerint megállapított – sajátos nevelési igényű gyermeknek vagy
 - b) felsőoktatási intézményben – a nemzeti felsőoktatásról szóló törvény szerint megállapított – fogyatékossággal élő hallgatónak
@@ -658,7 +658,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 (3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: foglalkozási rehabilitációs szakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat. A foglalkozási rehabilitációs szakértői névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(3a) A foglalkozási rehabilitációs szakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3a) A foglalkozási rehabilitációs szakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében – ide nem értve a szakértő értesítési címére vonatkozó adatot – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Kormány által kijelölt szerv a foglalkozási rehabilitációs szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi az (1) bekezdésben meghatározott feltételek teljesülését.
 
@@ -684,7 +684,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 (3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: rehabilitációs orvosszakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat.
 
-(3a) A rehabilitációs orvosszakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3a) A rehabilitációs orvosszakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében – ide nem értve a szakértő értesítési címére vonatkozó adatot – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Kormány által kijelölt szerv a rehabilitációs orvosszakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi az (1) bekezdésben meghatározott feltételek teljesülését.
 

@@ -12,6 +12,10 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 (2) E törvény hatálya nem terjed ki a használati díj fizetése ellenében használható útszakaszokat használati díjfizetési kötelezettség teljesítése ellenében igénybe vevő gépjárművekre.
 
+1/A. § (1) Ha az útdíjszedő, az útdíjellenőrzés-támogatói feladatok ellátására kijelölt szervezet, vagy az egyetemes útdíjszolgáltató más, jogszabályban meghatározott feladatokat is ellát, akkor az útdíjszedői, az útdíjellenőrzés-támogatói, illetve az egyetemes útdíjszolgáltatói feladatait különálló szervezeti egysége útján végzi. A különálló szervezeti egység vezetője felett a szervezet ügyvezető szervének elnöke gyakorolja az utasítási jogot. A különálló szervezeti egység az útdíjszedői, az útdíjellenőrzés-támogatói, illetve az egyetemes útdíjszolgáltatói tevékenység ellátása érdekében a jogszabályban kijelölt szervezetétől független műszaki, gazdasági, jogi, személyzeti, beszerzési és ügyfélszolgálati szervezetet működtet. A különálló szervezeti egység az útdíjszedői, az útdíjellenőrzés-támogatói, illetve az egyetemes útdíjszolgáltatói tevékenységgel kapcsolatos ügyekben önálló jogképességgel és ügyfélképességgel rendelkezik, képviseletét ezekben az ügyekben a szervezeti egység vezetője látja el.
+
+(2) Ha az útdíjszedői, az útdíjellenőrzés-támogatói, illetve az egyetemes útdíjszolgáltatói, és a közúti közlekedésről szóló törvény szerinti útdíjszolgáltatási gazdasági társasági feladatokra ugyanaz a szervezet került kijelölésre, akkor e feladatokat az (1) bekezdésben meghatározott szervezeti egység együttesen látja el.
+
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában
@@ -36,7 +40,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 18. útdíj: valamely járműre a megtett távolság és a jármű típusa alapján az útdíjköteles elemi útszakasz használatáért fizetendő, általános forgalmi adót is magában foglaló, az útdíjszedő által kivetett díj, amelynek megfizetése jogosultságot biztosít a jármű számára az útdíjköteles elemi útszakasz használatához, és amely magába foglalja az infrastruktúradíjat és a külsőköltségdíjat. A szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeg nem minősül útdíjnak;
 - 19. díjfizetésre kötelezett: elsősorban a szerződött díjfizető, ennek hiányában a gépjármű üzembentartója, illetve az úthasználó, tekintet nélkül állampolgárságára és az általa vezetett vagy üzemben tartott, illetve tulajdonát képező gépjárművet nyilvántartásba vevő országra;
 - 20. útdíjköteles elemi útszakasz: az útdíjfizetés ellenében használható közúthálózatnak a díjmeghatározás szempontjából két útszelvényében lehatárolt része;
-- 21. útdíjköteles gépjármű: az autóbusz, a nehéz tehergépjármű és a lakóautó, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból vagy másik útdíjköteles gépjárműből álló járműszerelvény;
+- 21. útdíjköteles gépjármű: az autóbusz, a nehéz tehergépjármű, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból vagy másik útdíjköteles gépjárműből álló járműszerelvény;
 - 22. útdíjszedés: az útdíj beszedésére irányuló cselekmények összessége;
 - 23. útdíjszedő: az UD rendszer működtetésére, és ennek használatával a fizetendő útdíj összegének megállapítására, kivetésére és az útdíjszogáltatókon keresztül történő beszedésére jogosult, kijelölt szervezet;
 - 24. útdíjszolgáltató: nyilvántartásbavételének helyétől függetlenül olyan gazdálkodó szervezet, amely Magyarország területén az úthasználók számára hozzáférést tesz lehetővé az UD rendszerhez;
@@ -50,13 +54,13 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 32. egyenleg: úthasználati jogosultság keletkezése érdekében, a fizetendő útdíj-követelés kiegyenlítése céljából a szerződött díjfizető által megfizetett, az egyetemes útdíjszolgáltató által nyilvántartott és rendelkezésre tartott, forintban kifejezett pénzösszeg, a szolgáltatás ellenértéke, amelynek terhére a szerződött díjfizető útdíjfizetési kötelezettségének eleget tehet.
 - 33. átjárhatósági rendszerelem: olyan, az EETS-be beépített vagy beépítésre szánt alapvető összetevő, összetevőcsoport, berendezés-részegység vagy teljes berendezés, amelytől a szolgáltatás átjárhatósága függ, ideértve az anyagi és a szellemi javakat – például szoftvert – is;
 - 34. EETS nyújtására alkalmas rendszer: az UD rendszer azon elemei, amelyek kifejezetten szükségesek az EETS-szolgáltatók rendszeren belüli integrációjához és az EETS működéséhez;
-- 35. EETS-terület: az EETS-szolgáltatásba bevont magyarországi útdíjköteles elemi útszakaszok összessége;
+- 35. EETS-terület: az útdíjköteles elemi útszakaszok összessége, valamint az olyan közúti infrastruktúra-elem, amelynek használatáért UD rendszer igénybevételével útdíjat kell fizetni;
 - 36. elektronikus útdíjszedési rendszer: olyan útdíjszedési rendszer, amelyben a felhasználó számára kizárólag abban az esetben keletkezik útdíjfizetési kötelezettség, ha az automatikus észlelő rendszer a járműben található fedélzeti eszközzel való távoli kommunikáció vagy automatikus rendszámfelismerés útján érzékeli, hogy a jármű egy bizonyos helyen tartózkodik;
 - 37. használatra való alkalmasság: az EETS-be reprezentatív jelleggel integrált átjárhatósági rendszerelem alkalmassága a meghatározott működési teljesítmény elérésére és fenntartására az UD rendszer tekintetében;
 - 38. kiemelt szolgáltató: olyan útdíjszolgáltató, amelyet a többi útdíjszolgáltató kötelezettségeitől eltérő egyedi kötelezettségek terhelnek, illetve amely egyedi jogokkal rendelkezik;
 - 39. útdíjbevallás: az útdíjszedőnek tett bejelentés, amely az útdíjszolgáltató és az útdíjszedő között megállapodott formátumban igazolja egy adott gépjármű jelenlétét egy EETS-területen;
-- 40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez és beszedéséhez szükségesek;
-- 41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevételnek az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés-támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosításával kapcsolatban felmerült indokolt költségekkel – a Kormány által rendeletben meghatározottak alapján – csökkentett összege.
+- 40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez, a kivetett útdíj ellenőrzéséhez és beszedéséhez szükségesek;
+- 41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevétel;
 - 42. nehézgépjármű: olyan gépjármű, amelynek műszakilag megengedett legnagyobb össztömege meghaladja a 3,5 tonnát;
 - 43. nehéz tehergépjármű: árufuvarozásra szánt nehézgépjármű, ideértve a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti vontatót és nyerges vontatót, és a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet szerinti különleges felépítményű gépjárművet is, ha e törvény alkalmazásában nehézgépjárműnek minősül;
 - 44. autóbusz: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti autóbusz, ha e törvény alkalmazásában nehézgépjárműnek minősül;
@@ -100,7 +104,15 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - 73. fizetési közreműködő: az egyetemes útdíjszolgáltató által egyes szolgáltatásainak utólagos fizetés mellett történő igénybevételével összefüggő feladatai teljesítéséhez igénybe vehető, szerződött közreműködő.
 - 74. lényegesen módosított UD rendszer: az UD rendszer olyan módosítása, amelynek eredményeképpen az EETS-szolgáltató által alkalmazott átjárhatósági rendszerelemek olyan mértékű módosítása szükséges, amely az EETS-szolgáltató újbóli akkreditálását is szükségessé teszi;
 - 75. EETS-akkreditáció: az EETS-szolgáltató által az útdíjszedőnél kezdeményezett eljárás, amelynek eredményes lefolytatását követően az útdíjszedő az EETS-szolgáltatóval az EETS, EETS-területen történő nyújtására szerződést köt.
-- 76. végső menedékes bevallási közreműködő: olyan kiemelt bevallási közreműködő, amely szolgáltatását valamennyi szerződött díjfizető számára biztosítja.
+- 76.
+
+#### 2/A. Műszaki követelmények
+
+2/A. § A fedélzeti eszköz használatával igénybe vehető elektronikus útdíjszedési rendszer az elektronikus útdíjszedési műveletek végrehajtása céljából a következő technológiákat alkalmazhatja:
+
+- a) műholdas helymeghatározás;
+- b) mobilkommunikáció;
+- c) 5,8 GHz-es mikrohullámú technológia.
 
 ### II. Fejezet — ÚTHASZNÁLATI JOGOSULTSÁG ÉS FIZETÉSI KÖTELEZETTSÉG
 
@@ -182,17 +194,17 @@ feladatokat lát el.
 
 (7) Az egyetemes útdíjszolgáltatót az útdíjszolgáltató által nyújtandó alapvető szolgáltatások tekintetében, így különösen az UD rendszer szabályszerű használatához szükséges szolgáltatásokra vonatkozóan szerződéskötési kötelezettség terheli a díjfizetésre kötelezettel szemben, amennyiben ilyen irányú szándékát az egyetemes útdíjszolgáltatónak írásban bejelenti.
 
-(8) A szerződött díjfizető bevallási közreműködőt vagy végső menedékes bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét teljesítse az útdíjszolgáltató felé. Ha e törvény, vagy az e törvény felhatalmazása alapján kiadott kormányrendelet eltérően nem rendelkezik, a bevallási közreműködőre vonatkozó rendelkezéseket a végső menedékes bevallási közreműködőre is megfelelően alkalmazni kell.
+(8) A szerződött díjfizető bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét teljesítse az útdíjszolgáltató felé.
 
-(8a) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott feltételek teljesítése esetén végezheti e tevékenységét, az útdíjszolgáltatóval kötött szerződés szerint.
+(8a) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feltételek teljesítése esetén végezheti e tevékenységét, az útdíjszolgáltatóval kötött szerződés szerint.
 
-(8b) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül a szerződött díjfizetőtől beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik a szerződött díjfizetőnek.
+(8b) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül a szerződött díjfizetőtől beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik a szerződött díjfizetőnek.
 
-(8c) Ha a bevallási közreműködőt az egyetemes útdíjszolgáltató veszi igénybe, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mértékű átalány-költségtérítést fizet.
+(8c) Ha a bevallási közreműködőt az egyetemes útdíjszolgáltató veszi igénybe, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott mértékű átalány-költségtérítést fizet.
 
-(9) Az egyetemes útdíjszolgáltató azonos feltételekkel köt szerződést az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott követelményeknek megfelelő bevallási közreműködőkkel.
+(9) Az egyetemes útdíjszolgáltató azonos feltételekkel köt szerződést az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott követelményeknek megfelelő bevallási közreműködőkkel.
 
-(9a) A (9) bekezdést a végső menedékes bevallási közreműködő tekintetében nem kell alkalmazni.
+(9a)
 
 (10) Az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett biztosíthatja.
 
@@ -255,6 +267,7 @@ feladatokat lát el.
 - i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemeltetőit, ezen feladatok ellátása során,
 - j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja,
 - k) az államhatárról szóló törvényben meghatározott tömeges bevándorlás okozta válsághelyzetben elrendelt szállítási feladatok végrehajtásában részt vevők által üzemben tartott gépjárművet az ezen feladat ellátása során.
+- l) az üzembentartót a gépjárműadóról szóló törvényben meghatározott muzeális jellegű gépjármű után.
 
 (2) Az (1) bekezdés szerinti mentesség – e törvény eltérő rendelkezése hiányában – az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába (a továbbiakban: mentességi nyilvántartás) történő bejegyzése alapján áll fenn. A mentesség hatálya a bejelentésben megjelölt, legfeljebb egyéves időszakra terjed ki.
 
@@ -267,7 +280,7 @@ feladatokat lát el.
 - a) a 9. § (1) bekezdés a) pontjában meghatározott járművek esetén – a közvetlen hozzáféréssel elektronikusan történő bejegyzés kivételével – a közlekedési igazgatási hatósághoz,
 - b) a 9. § (1) bekezdés b) pontjában meghatározott járművek esetén a közúti közlekedési nyilvántartó szervhez, Magyar Honvédséghez vagy rendőrséghez,
 - c) a 9. § (1) bekezdés c) és d), valamint h), j) és k) pontjában meghatározott járművek esetén a közúti közlekedési nyilvántartó szervhez,
-- d) a 9. § (1) bekezdés e) és g) pontjában meghatározott járművek esetén a közlekedési igazgatási hatósághoz,
+- d) a 9. § (1) bekezdés e), g) és l) pontjában meghatározott járművek esetén a közlekedési igazgatási hatósághoz,
 - e) a 9. § (1) bekezdés f) és i) pontban meghatározott járművek esetén a katasztrófavédelmi hatósághoz
 
 tett előzetes bejelentés alapján, a mentességi nyilvántartásba bejegyzett időponttól illeti meg.
@@ -397,7 +410,7 @@ látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek)
 
 (4) Ha a felügyeleti szerv az ellenőrzési jogosítványai alapján adatot kér, a megkeresésnek – ha e törvény másként nem rendelkezik – a megkeresett útdíjszedő és útdíjszolgáltató a felügyeleti szerv által megállapított határidőn belül köteles eleget tenni.
 
-(5) Amennyiben a felügyeleti szerv megállapítja, hogy az útdíjszedő gyakorlata, vagy más körülmény miatt az UD rendszer nem felel meg a meghatározott átjárhatósági műszaki és eljárási feltételeknek, felhívja az útdíjszedőt, hogy legfeljebb hat hónapon belül tegye alkalmassá a rendszert az EETS irányelvben meghatározott átjárhatósági műszaki és eljárási követelmények teljesítésére. Amennyiben az útdíjszedő a határidőt elmulasztja, a 20. § (2) bekezdés b) pontja szerinti bírság kiszabása mellett a felügyeleti szerv kötelezi az irányelv szerinti kötelezettségei teljesítésére.
+(5) Amennyiben a felügyeleti szerv megállapítja, hogy az útdíjszedő gyakorlata, vagy más körülmény miatt az UD rendszer nem felel meg a meghatározott átjárhatósági műszaki és eljárási feltételeknek, egyeztetést kezdeményez az útdíjszedővel, valamint más érintettekkel, és felhívja az útdíjszedőt, hogy legfeljebb hat hónapon belül tegye alkalmassá a rendszert az (EU) 2019/520 európai parlamenti és tanácsi irányelvben meghatározott átjárhatósági műszaki és eljárási követelmények teljesítésére. Amennyiben az útdíjszedő a határidőt elmulasztja, a 20. § (2) bekezdés b) pontja szerinti bírság kiszabása mellett a felügyeleti szerv kötelezi az irányelv szerinti kötelezettségei teljesítésére.
 
 20. § (1) Ha a felügyeleti szerv a lefolytatott vizsgálat alapján megállapítja, hogy az útdíjszedő, vagy az útdíjszolgáltató nem a jogszabályoknak megfelelően végzi tevékenységét, az alábbi jogkövetkezményeket alkalmazhatja:
 
@@ -431,6 +444,8 @@ látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek)
 - f) az EETS-területbe tartozó útdíjköteles elemi útszakaszokról.
 
 (3a) A nyilvántartásban a felügyeleti szerv elérhetőségeit – az e-mail-címét és a telefonszámát is ideértve – fel kell tüntetni.
+
+(3b) A nyilvántartás az e törvény végrehajtásáról szóló kormányrendeletben meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (4) Amennyiben a nyilvántartott adataiban változás áll be, a nyilvántartásban szereplő személy vagy szervezet köteles a változást 15 napon belül a felügyeleti szervnek bejelenteni. A bejelentett változást a felügyeleti szerv a változások idejének megjelölésével vezeti át. Amennyiben a felügyeleti szerv a változásról hivatalból szerez tudomást, úgy a változás átvezetéséről is hivatalból gondoskodik, az adatváltoztatásról a nyilvántartott személyt, szervezetet 15 napon belül értesíti. Amennyiben a bejelentés megtételére köteles személy bejelentési kötelezettségének nem tesz eleget és a felügyeleti szerv hivatalból sem szerez tudomást a változásról annak bekövetkezésétől számított 15 napon belül, úgy a felügyeleti szerv a 20. § (1) bekezdés a) és b) pontjában meghatározott jogkövetkezményeket alkalmazhatja.
 
@@ -525,6 +540,8 @@ jogosult kezelni.
 
 (8) Az útdíjszolgáltató köteles az általa vezetett, az úthasználatra vonatkozó szolgáltatási szerződés hatálya alá tartózó személyek és gépjárművek útdíjszedéshez és útdíjellenőrzéshez szükséges adatait – az e §-ban meghatározott adatkezelési jogosultságok figyelembevételével – az útdíjszedő, az útdíjellenőrzésre feljogosított szervezet, valamint a felügyeleti szerv számára átadni.
 
+(8a) Az EETS-szolgáltató az útdíjszedő felhívásának kézhezvételétől számított 2 napon belül az útdíjszedőnek a Nemzeti Adó- és Vámhivatal felé fennálló kötelezettsége teljesítése céljából átadja az EETS-szolgáltatási szerződés hatálya alá tartozó valamennyi olyan járműre és annak tulajdonosára vagy üzembentartójára vonatkozó, az útdíjszedéshez és útdíjellenőrzéshez szükséges adatot, amelyek egy adott időszakban áthaladtak azon az EETS-területen, ahol az UD rendszert az útdíjszedő működteti. Az útdíjszedő az átadott adatokat kizárólag a Nemzeti Adó- és Vámhivatal felé fennálló kötelezettsége teljesítése céljából kezelheti.
+
 (9) Az útdíjszedő és az útdíjszolgáltató köteles – az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban rögzített módon – együttműködni a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított, valamint a nemzetbiztonsági szolgálatokról szóló törvény, továbbá a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerinti szervezetekkel. Az útdíjszedő és az útdíjszolgáltató, valamint az útdíj-ellenőrzésre jogosult szervezetek az e törvény alapján folytatott tevékenységét olyan módon köteles végezni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtés folytatását, illetve a leplezett eszközök alkalmazását.
 
 (10) A bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a Nemzeti Adó- és Vámhivatal törvényben foglalt feladatai ellátása érdekében az útdíjköteles elemi útszakaszon közlekedő járművek díjszedési jellemzőit (így különösen az úthasználat helyét, idejét, a gépjármű vagy gépjárműszerelvény forgalmi rendszámát és a díj mértékének megállapítása során jelentőséggel bíró jellemzőit) az UD rendszer igénybevétele útján megfigyelhetik, az onnan származó adatokat tárolhatják.
@@ -542,7 +559,7 @@ jogosult kezelni.
 28. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) állapítsa meg a díjkategóriákat, az útdíj mértékének megállapítására vonatkozó módszertant, és az esetleges kedvezményekre vonatkozó rendelkezéseket;
-- b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és útdíjellenőrzés-támogatói feladatok ellátása érdekében szerződéskötésre feljogosított költségvetési szervet, az útdíjszedői, és az egyetemes útdíjszolgáltatói feladatok ellátására feljogosított szervezetet, az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet, továbbá a végső menedékes bevallási közreműködőt;
+- b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és az útdíjellenőrzés-támogatói feladatok ellátására irányuló szerződést megkötő költségvetési szervet, az útdíjszedőt, az egyetemes útdíjszolgáltatót, valamint az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet;
 - c) állapítsa meg az útdíjszolgáltató 21. § (1) bekezdés szerinti nyilvántartásba vételéhez szükséges feltételeket;
 - d) jelölje ki a felügyeleti szervet és állapítsa meg feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását;
 - e) jelölje ki a 11. alcím szerinti egyeztető szerv feladatait ellátó szervezetet, továbbá állapítsa meg az egyeztető szerv szervezetére, működésére és eljárására vonatkozó részletes szabályokat;
@@ -556,7 +573,7 @@ jogosult kezelni.
 - m) állapítsa meg a beszedett díj és bírság központi költségvetésbe történő befizetésének rendjét, részletes szabályait, továbbá az útdíj elszámolásának számviteli szabályait;
 - n) állapítsa meg a jármű kijelölt várakozási helyre szállításának és az ezzel kapcsolatos költségviselésnek a részletes szabályait;
 - o) állapítsa meg az úthasználó bevallással összefüggő kötelezettségeit, beleértve a fedélzeti eszköz üzemeltetésével, használatával és érvénytelenítésével kapcsolatos részletes szabályokat, valamint
-- p) állapítsa meg a bevallási közreműködői és a végső menedékes bevallási közreműködői tevékenység részletes feltételeit, valamint a bevallási közreműködőkkel és a végső menedékes bevallási közreműködővel megkötendő szerződés kötelező tartalmi elemeit;
+- p)
 - q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait;
 - r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 - s) állapítsa meg az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás részletes szabályait.
@@ -570,8 +587,9 @@ jogosult kezelni.
 - d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;
 - e) rendeletben jelölje ki a tanúsító szervet,
 - f) rendeletben állapítsa meg a fizetési közreműködő igénybevételének részletes szabályait, a fizetési közreműködővel szemben támasztott követelményeket, valamint a fizetési közreműködőkkel történő szerződéskötés alapvető szabályait.
+- g) rendeletben állapítsa meg a bevallási közreműködői tevékenység végzésének részletes feltételeit, valamint az útdíjszolgáltató által a bevallási közreműködőkkel megkötendő szerződés kötelező tartalmi elemeit.
 
-(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők, a végső menedékes bevallási közreműködő és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
+(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
 
 28/A. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy az úttestbe épített áthajtásos tömegmérő pontok működtetésének részletszabályait rendeletben határozza meg.
 

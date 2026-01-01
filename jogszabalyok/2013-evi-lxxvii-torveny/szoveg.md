@@ -204,14 +204,16 @@ kell folytatnia,
 
 - b) a képzésre jelentkező kérésére előzetes tudásmérést kell biztosítania,
 - c) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, a képzés elvégzésének igazolására tanúsítványt kell kiállítania,, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
-- d) a 14. § szerinti minőségirányítási rendszert és annak részeként ügyfélszolgálati, panaszkezelési és oktatói minősítési rendszert kell működtetnie és gondoskodnia kell a minőségirányítási rendszer külső értékeléséről,
+- d) a 14. § szerinti minőségirányítási rendszert és annak részeként ügyfélszolgálati, panaszkezelési és oktatói minősítési rendszert kell működtetnie,
 - e) eleget kell tennie a 17. §-ban meghatározott tájékoztatási kötelezettségének, továbbá hirdetéseinek és tájékoztatóinak meg kell felelnie a 17/A. §-ban foglaltaknak,
 - f) vezetnie kell a képzés megvalósításával összefüggésben a 16. §-ban meghatározott dokumentumokat,
 - g) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § és a 15/A. § alapján történő adatszolgáltatási kötelezettségnek.
 
+(2a) A felnőttképző, ha felnőttképzési tevékenysége engedélyhez kötött, a felnőttképző képzési tevékenysége minőségének folyamatos javítása céljából választása szerint igénybe veheti a minőségirányítási rendszer külső értékelését.
+
 (3) A felnőttképző a felnőttképzési tevékenység végzésére – a képzés személyi és tárgyi feltételei kivételével – más jogalannyal nem állapodhat meg.
 
-11/A. § (1) A szakképzésről szóló törvény szerinti szakmai képzés kimeneti követelményeit meghatározó programkövetelményekről a felnőttképzésért felelős miniszter elektronikus nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a felnőttképzésért felelős miniszter a felnőttképzés adatszolgáltatási rendszerén keresztül közzéteszi.
+11/A. § (1) A szakképzésről szóló törvény szerinti szakmai képzés kimeneti követelményeit meghatározó programkövetelményekről a felnőttképzésért felelős miniszter közhiteles nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a felnőttképzésért felelős miniszter a felnőttképzés adatszolgáltatási rendszerén keresztül közzéteszi.
 
 (2) Programkövetelményre, annak módosítására és törlésére a felnőttképzésért felelős miniszternek kérelem formájában bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, a Kormány rendeletében meghatározottak szerinti szakértő rendelhető ki. A kérelmező ügyfél a programkövetelmény nyilvántartásba vétele, annak módosítása és törlése iránti eljárásért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet.
 
@@ -282,7 +284,7 @@ kell folytatnia,
 
 #### 8. Minőségirányítási rendszer
 
-14. § A felnőttképző képzési tevékenysége minőségének folyamatos javítása céljából a Kormány rendeletében meghatározott minőségirányítási rendszert működtet és gondoskodik annak külső értékeléséről.
+14. § A felnőttképző képzési tevékenysége minőségének folyamatos javítása céljából a Kormány rendeletében meghatározott minőségirányítási rendszert működtet. A minőségirányítási rendszer külső értékelését a felnőttképző a Kormány rendeletében meghatározottak szerint önkéntesen veheti igénybe.
 
 #### 14/A. §
 
@@ -567,7 +569,7 @@ rendeletben jelölje ki.
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 - a) a felnőttképzési tevékenységhez szükséges bejelentés és engedély részletes feltételeit, a bejelentés, illetve az engedély megadása iránti kérelem adattartalmát, benyújtásának és elbírálásának részletes szabályait, a vagyoni biztosíték formáit, mértékét és felhasználásának szabályait, a felnőttképzők nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, és a felnőttképzők nyilvántartásának vezetésére vonatkozó részletes eljárási szabályokat, a nyilvántartás módosításának és a nyilvántartásból való törlés eseteit, a felnőttképzési szerződés tartalmát, a felnőttképzési tevékenység feltételeit, a felnőttképző dokumentum- és nyilvántartásvezetési kötelezettségének szabályait, a felnőttképzők ellenőrzésére vonatkozó részletes szabályokat, valamint a felnőttképzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
-- b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
+- b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait, a nyilvántartás közhiteles adatait és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
 - c) a felnőttképzési minőségirányítási rendszert és annak külső értékelésére vonatkozó részletes szabályokat,
 - d) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul,
 - e) az ösztöndíj igénybevételének feltételeit, a képzési hitel igénybevételének részletes feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a képzési hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, az együttműködési megállapodás megkötésének és felmondásának részletes szabályait, valamint a képzési hitelrendszer működtetésének részletes szabályait,
@@ -581,7 +583,7 @@ rendeletben jelölje ki.
 - a) az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése, valamint a 11/A. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét,
 - b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait, valamint a programkövetelmények angol, illetve német nyelvű megnevezésének közzétételére vonatkozó szabályokat,
 - c) rendeletben határozza meg a kontaktórás, távoktatási és zárt rendszerű elektronikus távoktatási képzési formában megvalósuló képzések szakszerű és jogszabálynak megfelelő megszervezéséhez, lebonyolításához, valamint az adatszolgáltatási kötelezettséghez kapcsolódó ellenőrzésének részletes szabályait,
-- d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a 13/C. § alapján kiállított mikrotanúsítványnak a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait.
+- d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a 13/C. § alapján kiállított mikrotanúsítványnak a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait, valamint a nyilvántartás közhiteles adatait.
 - e) rendeletben határozza meg az egyéni tanulási számla rendszer működésének részletszabályait.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg

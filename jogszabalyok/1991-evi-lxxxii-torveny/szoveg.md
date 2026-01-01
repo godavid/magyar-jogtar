@@ -10,7 +10,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 1. § (1) A magyar hatósági rendszámtáblával ellátott gépjármű, pótkocsi, valamint Magyarország területén közlekedő, külföldön nyilvántartott tehergépjármű (a továbbiakban együtt: gépjármű) után gépjárműadót, míg a nem kizárólag magánhasználatú személygépkocsi után – a gépjárműadó fizetési kötelezettségtől függetlenül – a IV. fejezet szerinti adót (cégautóadó) kell fizetni.
 
-(2) E törvény hatálya nem terjed ki a magyar hatósági rendszámtáblával ellátott mezőgazdasági vontatóra, a lassú járműre és a lassú jármű pótkocsijára, a négykerekű segédmotoros kerékpárra, a külön jogszabály szerinti „méhesházas” gépjárműre, a munkagépre, a CD, az OT betűjelű rendszámtáblával ellátott gépjárműre, a kiviteli célú gépjárműre, valamint a külföldön nyilvántartott tehergépjárművek közül azokra, amelyek az Európai Unió valamely tagállamában vannak nyilvántartva.
+(2) E törvény hatálya nem terjed ki a magyar hatósági rendszámtáblával ellátott mezőgazdasági vontatóra és a mezőgazdasági vontató pótkocsijára, a lassú járműre és a lassú jármű pótkocsijára, a négykerekű segédmotoros kerékpárra, a külön jogszabály szerinti „méhesházas” gépjárműre, a munkagépre, a CD, az OT betűjelű rendszámtáblával ellátott gépjárműre, a kiviteli célú gépjárműre, valamint a külföldön nyilvántartott tehergépjárművek közül azokra, amelyek az Európai Unió valamely tagállamában vannak nyilvántartva.
 
 #### II.
 

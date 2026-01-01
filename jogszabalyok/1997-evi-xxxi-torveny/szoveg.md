@@ -511,6 +511,8 @@ kell alkalmazni.
 
 (17) Az alkalmazotti nyilvántartás a pedagógiai-szakmai ellenőrzés időpontjának és megállapításainak kivételével tartalmazza az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 1. melléklet II. pontjában foglalt adatokat, valamint a szociális szakvizsga megszerzésének idejét.
 
+(18) A Kjt. illetményrendszerére vonatkozó szabályoktól a Kormány rendeletében eltérhet, ha az a közalkalmazott számára kedvezőbb. Az eltérő szabályok szerint megállapított illetményt a központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi intézmény, szolgáltató a munkavállalók számára – ide nem értve a munkakörüket sajátos egyházi szolgálati viszonyban ellátó személyeket – köteles biztosítani.
+
 15/A. § (1) A bölcsőde, mini bölcsőde a bölcsődei ellátásba beíratott 1-es típusú diabétesszel élő gyermek részére abban az időtartamban, amikor az intézmény felügyelete alatt áll, az 1-es típusú diabétesszel élő gyermek szülőjének, más törvényes képviselőjének szakorvosi igazolást is tartalmazó kérelmére, a gyermekkori diabétesz gondozásával foglalkozó egészségügyi intézmények szakmai iránymutatása alapján a (2)–(6) bekezdés szerinti speciális ellátást biztosítja.
 
 (2) Az intézményvezető az (1) bekezdés szerinti kérelemre a (3) bekezdés szerinti kisgyermeknevelő számára előírja, hogy – az (1) bekezdés szerinti szakmai iránymutatásban foglaltak szerint, ahhoz igazodva – a gyermek vércukorszintjét mérje, illetve előírt időközönként a szükséges mennyiségű inzulint adja be. Az intézményvezető a szülővel, más törvényes képviselővel a megadott kapcsolattartási módon egyeztet az inzulin beadásáról, valamint a szükséges eszközök és az inzulin átvételéről.
@@ -2001,7 +2003,17 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 (5)
 
-59/A. § A gyermekotthon rendjének fenntartásában az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.
+59/A. § (1) A gyermekotthon rendjének fenntartásában az általános rendőrségi feladatok ellátására létrehozott szerv
+
+- a) hivatásos állományú rendőr szolgálatellátása, vagy
+- b) iskolaőrség útján
+
+közreműködhet.
+
+(2) Az (1) bekezdés a) pontja szerinti esetben
+
+- a) a szolgálatellátás nem irányulhat a gyermekotthon rendjének fenntartásával össze nem függő tevékenységre, és
+- b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv és a gyermekotthon között létrejött együttműködési megállapodásban kell rögzíteni.
 
 ### Területi gyermekvédelmi szakszolgáltatás
 
@@ -2285,13 +2297,17 @@ a nevelőszülőnek a végkielégítés megállapítását megelőző három év
 
 66/H. § (1) A nevelőszülőt tevékenységéért a foglalkoztatási jogviszony fennállásának időtartama alatt – a fizetés nélküli szabadság és a táppénz igénybevételének időtartama kivételével – a 66/B. § (1) bekezdése szerinti megállapodásokban meghatározott díjazás illeti meg.
 
-(2) A nevelőszülő díjazása az alapdíjból, a kiegészítő díjból és – az (5a) bekezdésben foglalt kivétellel – a többletdíjból áll.
+(2) A nevelőszülő díjazása a (3) és (4) bekezdésben foglaltak szerint meghatározott díjból és – az (5a) bekezdésben foglalt kivétellel – az (5) bekezdés szerinti többletdíjból áll.
 
-(3) A nevelőszülőt a foglalkoztatási jogviszonyának fennállása alatt – függetlenül attól, hogy helyeztek-e el nála gyermeket, fiatal felnőttet – alapdíjként havonta legalább a kötelező legkisebb munkabér (a továbbiakban: minimálbér) 30%-a illeti meg.
+(3) A nevelőszülőt a foglalkoztatási jogviszonyának fennállása alatt – ha nem helyeztek el nála gyermeket, fiatal felnőttet – alapdíjként havonta a kötelező legkisebb munkabér 60%-a illeti meg.
 
-(4) A nevelőszülőt az alapdíjon felül minden egyes nála elhelyezett gyermek, fiatal felnőtt után kiegészítő díjként havonta legalább a minimálbér 20%-a illeti meg.
+(4) A nevelőszülőt, ha a háztartásában
 
-(5) A nevelőszülőt – az (5a) bekezdésben foglalt kivétellel – az alap- és kiegészítő díjon felül minden egyes nála elhelyezett speciális, különleges vagy kettős szükségletű gyermek után többletdíjként havonta legalább a minimálbér 7%-a illeti meg.
+- a) egy gyermek teljes körű ellátását biztosítja, a kötelező legkisebb munkabér 100%-a illeti meg,
+- b) két gyermek teljes körű ellátását biztosítja, a kötelező legkisebb munkabér 140%-a illeti meg,
+- c) három vagy annál több gyermek teljes körű ellátását biztosítja, a kötelező legkisebb munkabér 60%-a illeti meg annyiszor, ahány gyermeket a háztartásában elhelyeztek.
+
+(5) A nevelőszülőt – az (5a) bekezdésben foglalt kivétellel – a (4) bekezdésben meghatározott díjon felül minden egyes nála elhelyezett speciális, különleges vagy kettős szükségletű gyermek után többletdíjként havonta legalább a kötelező legkisebb munkabér 15%-a illeti meg.
 
 (5a) A nevelőszülő nem jogosult az (5) bekezdés szerinti többletdíjra a nála elhelyezett gyermekre tekintettel igénybe vett gyermekgondozási díj folyósításának időtartama alatt.
 
@@ -3460,23 +3476,33 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (2) A szolgáltatói nyilvántartás tartalmazza
 
-- a) a fenntartó nevét, székhelyét, adószámát és típusát, valamint egyházi fenntartó esetén a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház nevét,
-- b) a fenntartó és a szolgáltató, intézmény, hálózat (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
-- c) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülőknek, nevelőszülőknek a személyazonosító adatait és társadalombiztosítási azonosító jelét, az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, valamint az arra vonatkozó adatot, hogy a nevelőszülő alkalmas-e különleges szükségletű, speciális szükségletű, kettős szükségletű vagy ideiglenes hatállyal elhelyezett gyermek fogadására, és
-- d) a szolgáltató, intézmény, hálózat (székhely, telephely) és az általa végzett gyermekjóléti és gyermekvédelmi szolgáltató tevékenység kormányrendeletben meghatározott adatait.
+- a) a fenntartó nevét, székhelyét és típusát,
+- b) egyházi fenntartó esetén a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház nevét,
+- c) a fenntartó adószámát,
+- d) a fenntartó és a szolgáltató, intézmény, hálózat (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levelezési címét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levelezési címét,
+- e) helyettes szülői és nevelőszülői ellátás esetén
+  - ea) a helyettes szülőknek, nevelőszülőknek a személyazonosító adatait és társadalombiztosítási azonosító jelét,
+  - eb) az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, valamint az arra vonatkozó adatot, hogy a nevelőszülő alkalmas-e különleges szükségletű, speciális szükségletű, kettős szükségletű vagy ideiglenes hatállyal elhelyezett gyermek fogadására, és
+- f) a szolgáltató, intézmény, hálózat (székhely, telephely) és az általa végzett gyermekjóléti és gyermekvédelmi szolgáltató tevékenység kormányrendeletben meghatározott adatait.
 
-(3) A szolgáltatói nyilvántartás hatósági nyilvántartás, amely közhitelesen tanúsítja a (2) bekezdés a), c) és d) pontja szerinti adatokat.
+(3) A szolgáltatói nyilvántartás hatósági nyilvántartás, amely közhitelesen tanúsítja
+
+- a) a (2) bekezdés a) pontja szerint a fenntartót és annak típusát,
+- b) a (2) bekezdés e) pont eb) alpontja szerinti adatokat, valamint
+- c) a (2) bekezdés f) pontja szerinti adatokat a költségvetési szerv szolgáltató törzskönyvi adatai kivételével.
 
 (4) A szolgáltatói nyilvántartásból jogerősen törölt és a módosított adatokat a szolgáltatói nyilvántartás történeti állományába kell helyezni. A történeti állományba helyezett,
 
-- a) a (2) bekezdés b) pontja szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
-- b) a (2) bekezdés a), c) és d) pontja szerinti adatokat a szolgáltatónak, intézménynek, hálózatnak (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével kell törölni.
+- a) a (2) bekezdés d) pontja szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
+- b) a (2) bekezdés a)–c), e) és f) pontja szerinti adatokat a szolgáltatónak, intézménynek, hálózatnak (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével
+
+kell törölni.
 
 (5) A szolgáltatói nyilvántartás adatai – a (6) bekezdés szerinti adatok kivételével – nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
 
 (6) A szolgáltatói nyilvántartás adatai közül nem nyilvános
 
-- a) a (2) bekezdés c) pontja szerinti adat,
+- a) a (2) bekezdés e) pontja szerinti adat,
 - b) a titkos menedékház valamennyi adata,
 - c) a krízisközpont és a félutas ház címe, továbbá az arra vonatkozó adat, hogy a családok átmeneti otthona krízisközpontként működik-e,
 - d) a b) és c) pontban nem említett családok átmeneti otthonának és a gyermekek átmeneti otthonának címe, ha a fenntartó ezt kéri.
@@ -4159,7 +4185,7 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 - b) a szülő, törvényes képviselő, befogadó szülő, bántalmazott személy, várandós anya
   - ba) személyazonosító, és a társadalombiztosítási azonosító jelére vonatkozó,
   - bb) vagyoni helyzetére, munkahelyére, iskolai végzettségére, kapcsolataira vonatkozó,
-  - bc) gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó,
+  - bc) gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására, az ellene folyamatban lévő szabálysértési és büntetőeljárásra vonatkozó,
   - bd) egészségi állapotára vonatkozó,
   - be) büntetlen előéletére vonatkozó,
   - bf) áldozattá válásának körülményeire vonatkozó, az Ást. 16. § (2) bekezdés a)–c) pontjában meghatározott;
@@ -4183,6 +4209,8 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
   - dj) – részükre az ellátás folyamatos biztosítása, engedély nélküli eltávozás esetén a felkutatásuk segítése céljából – személyleírására és különös ismertetőjegyeire vonatkozó
 
 adatainak a kezelésére.
+
+(2a) A gyermekjóléti központ és a gyámhatóság a gyermek veszélyeztetettsége mértékének megállapítása, értékelése, a veszélyeztetettség megelőzése és megszüntetése céljából adatigényléssel fordulhat a bűnügyi nyilvántartó szervhez annak megismerése érdekében, hogy a (2) bekezdés b) pontja szerinti személyi kör tekintetében folyamatban van-e büntetőeljárás a Büntető Törvénykönyvről szóló 2012. évi C. törvény XIII. Fejezetében meghatározott emberiesség elleni bűncselekmények; XV. Fejezetében meghatározott élet, testi épség és egészség elleni bűncselekmények; XVII. Fejezetében meghatározott egészséget veszélyeztető bűncselekmények; XVIII. Fejezetében meghatározott emberi szabadság elleni bűncselekmények; XIX. Fejezetében meghatározott nemi élet szabadsága és nemi erkölcs elleni bűncselekmények; XX. Fejezetében meghatározott gyermekek érdekét sértő és család elleni bűncselekmények; zaklatás, kiszolgáltatott személy megalázása; XXIX. Fejezetében meghatározott hivatalos személy elleni bűncselekmények; XXX. Fejezetében meghatározott közbiztonság elleni bűncselekmények; XXXII. Fejezetében meghatározott köznyugalom elleni bűncselekmények; embercsempészés, családi kapcsolatok létesítésével visszaélés, veszélyes állat, illetve veszélyes eb tartásával kapcsolatos kötelezettség megszegése; XXXV. Fejezetében meghatározott vagyon elleni erőszakos bűncselekmények; XXXVI. Fejezetében meghatározott vagyon elleni bűncselekmények elkövetésének gyanúja miatt.
 
 (3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését a (2) bekezdésben meghatározott adattartalmú – jogszabályban meghatározott – környezettanulmány, cselekvési és intézkedési terv, családgondozási terv, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök rögzítése jogszabályban meghatározottak szerint
 
@@ -5228,6 +5256,8 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 10/C. § b) pontja szerinti kifogástalan életvitel ellenőrzése végrehajtásának szabályait.
 
 (1c) Felhatalmazást kap a Kormány, hogy az Európai Unió által biztosított forrásokból történő béremeléshez nyújtott központi költségvetési többletforrások felhasználásának céljából az intézményi szintű átlagos pedagógusilletmény-emelés mértékét, az arra jogosultak körét, végrehajtásának alapelveit, valamint az ahhoz kapcsolódó állami kiegészítő támogatás, igénylésének, folyósításának és felhasználásának részletszabályait rendeletben állapítsa meg.
+
+(1f) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó intézménynél, szolgáltatónál foglalkoztatott személyek tekintetében a Kjt. illetményrendszerétől való eltérés és ennek végrehajtásának szabályait;
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 

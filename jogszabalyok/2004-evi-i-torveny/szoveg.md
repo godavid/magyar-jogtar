@@ -90,7 +90,7 @@ Magyarország Országgyűlése elfogadja az Európai Sport Chartát, és sportr�
 - f) a versenyengedély kiállításának dátumát, valamint
 - g) mindazt, amit a sportszövetség a sportág jellegére és nemzetközi szövetségének követelményeire tekintettel szabályzataiban előír.
 
-(4) A sportszövetség – a 8. § (5) bekezdésében foglaltakra figyelemmel – szabályzatban határozza meg, hogy mennyiben, illetve milyen versenyrendszer vagy verseny esetén írja elő a versenyengedély (rajtengedély) megszerzésének előfeltételéül a versenyző sporttevékenységével összefüggő biztosítását azzal, hogy a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosítás megkötése – az e törvény felhatalmazására kiadott kormányrendeletben meghatározottak szerint – kötelező. A versenyengedély – ha a sportorvoslás szabályairól és a sportegészségügyi hálózatról szóló kormányrendelet kivételt nem tesz – csak a sportegészségügyi ellenőrzés adatait tartalmazó dokumentummal (sportorvosi engedély) együtt érvényes. A szövetség szabályzatában foglaltak szerint lehetővé teheti, hogy a 14. életévét be nem töltött, rajtengedélyt igénylő sportoló háziorvosi igazolással is részt vehessen a szövetség versenyrendszerében szervezett, rajtengedéllyel való induláshoz kötött versenyen (mérkőzésen).
+(4) A sportszövetség – a 8. § (5) bekezdésében foglaltakra figyelemmel – szabályzatban határozza meg, hogy mennyiben, illetve milyen versenyrendszer vagy verseny esetén írja elő a versenyengedély (rajtengedély) megszerzésének előfeltételéül a versenyző sporttevékenységével összefüggő biztosítását azzal, hogy a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosítás megkötése kötelező. A versenyengedély – ha a sportorvoslás szabályairól és a sportegészségügyi hálózatról szóló kormányrendelet kivételt nem tesz – csak a sportegészségügyi ellenőrzés adatait tartalmazó dokumentummal (sportorvosi engedély) együtt érvényes. A szövetség szabályzatában foglaltak szerint lehetővé teheti, hogy a 14. életévét be nem töltött, rajtengedélyt igénylő sportoló háziorvosi igazolással is részt vehessen a szövetség versenyrendszerében szervezett, rajtengedéllyel való induláshoz kötött versenyen (mérkőzésen).
 
 (5)
 
@@ -408,7 +408,7 @@ szabható ki.
 
 (2) Sportvállalkozás korlátolt felelősségű társasági, illetve részvénytársasági formában alapítható, illetve működhet a gazdasági társaságokról szóló törvény szabályai szerint.
 
-(3) A fogyatékosok sportja, illetve a szabadidősport területén sporttevékenység közhasznú társaság keretében is szervezhető.
+(3)
 
 ### III. Fejezet — AZ ORSZÁGOS SPORTÁGI SZAKSZÖVETSÉGEK
 
@@ -453,7 +453,7 @@ szabható ki.
 
 20. § (1) Az országos sportági szakszövetség (a továbbiakban: szakszövetség) olyan sportszövetség, amely sportágában kizárólagos jelleggel az e törvényben, valamint más jogszabályokban meghatározott feladatokat lát el és e törvényben megállapított különleges jogosítványokat gyakorol. A szakszövetség jogi személy.
 
-(2) A szakszövetség nyilvántartott tagsággal rendelkező szervezet, amelyet a sportág versenyrendszerében részt vevő sportszervezetek hozhatnak létre. A sportág versenyrendszerében részt vevő sportszervezetek tagként való felvétele a szakszövetségbe nem tagadható meg, ha azok a szakszövetség alapszabályát magukra nézve kötelezőnek fogadják el.
+(2) A szakszövetség nyilvántartott tagsággal rendelkező szervezet, amelyet a sportág versenyrendszerében részt vevő sportszervezetek hozhatnak létre. A sportszervezet tagként való felvétele a szakszövetségbe nem tagadható meg, ha az a szakszövetség alapszabályát magára nézve kötelezőnek fogadja el, és vállalja, hogy a sportág versenyrendszerében – legalább egy versenyző vagy csapat indításával – részt vesz. A versenyrendszerben való részvétel igazolásának határidejére, módjára és a tagsági jogok gyakorolhatósága tekintetében a versenyrendszerben való részvételhez vagy annak hiányához kapcsolódó következményekre vonatkozó részletes szabályokról a szakszövetség szabályzatában rendelkezik.
 
 (3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – a Civil tv. és a Polgári Törvénykönyv egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet. A szakszövetség közvetlenül is részesíthető állami támogatásban.
 
@@ -875,7 +875,7 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 37/A. § E törvény alkalmazásában
 
-- a) játékosügynöki tevékenység: a hivatásos sportoló vagy a sportszervezet megbízása alapján és képviseletében végzett közreműködői tevékenység a hivatásos sportoló játékjoga használatának sportszervezet általi megszerzése, illetve a hivatásos sportoló és a sportszervezet közötti, sporttevékenység végzésére irányuló szerződés megkötése érdekében,
+- a) játékosügynöki tevékenység: a hivatásos sportoló vagy a sportszervezet megbízása alapján és képviseletében végzett közreműködői tevékenység a hivatásos sportoló játékjoga használatának sportszervezet általi megszerzése, illetve a hivatásos sportoló és a sportszervezet közötti, sporttevékenység végzésére irányuló szerződés megkötése érdekében, vagy – a b) pont szerinti sportszakember kivételével – a sportszakember megbízása alapján és képviseletében végzett közreműködői tevékenység a sportszakember és a sportszervezet közötti, sporttevékenység végzésére irányuló szerződés megkötése érdekében,
 - b) játékosügynök: olyan sportszakember, aki játékosügynöki tevékenységet folytat, és a játékosügynökséggel munkaviszonyban, tagsági vagy egyéb jogviszonyban áll,
 - c) játékosügynökség: olyan a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 2. § m) pontja szerinti szolgáltató, amely játékosügynöki tevékenységet folytat, ideértve a Szolgtv. 2. § e) pontja szerint játékosügynöki tevékenységet folytató szolgáltatót is.
 
@@ -886,6 +886,8 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 - c) megfelel az e törvényben meghatározott feltételeknek.
 
 (2) A játékosügynöki tevékenység folytatása tekintetében a Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóság az adott sportágban működő országos sportági szakszövetség. Ha a játékosügynöki tevékenységet a játékosügynök, illetve a játékosügynökség több, (1) bekezdés szerinti sportágban kívánja folytatni, a játékosügynöki tevékenységet minden érintett országos sportági szakszövetség részére be kell jelenteni.
+
+(2a) Az országos sportági szakszövetség által a Szolgtv. által vezetett nyilvántartás a Szolgtv. 27. § (3) bekezdésében meghatározott adatok, valamint a játékosügynöki tevékenység folytatására való jogosultság kezdő időpontja tekintetében közhiteles nyilvántartás.
 
 (3) Játékosügynöki tevékenységet játékosügynökként az folytathat, aki
 
@@ -1604,7 +1606,7 @@ kezeli.
 - m) támogatja az olimpiai, a paralimpiai és siketlimpiai mozgalmat, Magyarország sportolóinak részvételét az olimpiákon, paralimpiákon, és siketlimpiákon és más, az épek és fogyatékosok sportjának kiemelkedő jelentőségű nemzetközi sportversenyein,
 - n) támogatja a sportszakember-képzést és a sporttal kapcsolatos tudományos tevékenységet, elősegíti a testkulturális felsőoktatás feltételeinek biztosítását,
 - o) fenntartja a sportegészségügy állami intézményeit és országos hálózatát, támogatja a sportorvosi tevékenységet,
-- p) biztosítja a nemzeti sportinformációs rendszer működésének feltételeit,
+- p) biztosítja a nemzeti sportinformációs rendszer, valamint az 57/D. § szerinti elektronikus támogatáskezelő rendszer működésének feltételeit,
 - q) támogatja a testkultúra fejlesztését szolgáló és sporttudományi képzést,
 - r) ösztönzi és támogatja a sportakadémiák létrejöttét és működését.
 
@@ -1666,6 +1668,7 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 - n) ellátja az Európa Tanács sportversenyek tiltott befolyásolásáról szóló Egyezménye szerinti nemzeti és nemzetközi kapcsolattartással összefüggő feladatokat, valamint irányítja az Egyezmény szerinti nemzeti platform működését,
 - o) javaslatot tesz a Kormány részére a sportakadémiai minősítés megszerzése és a sportakadémiai működés feltételeinek megállapítására,
 - p) az államháztartásért felelős miniszter véleményének kikérésével javaslatot tesz a Kormány részére a látvány-csapatsportok támogatására nyújtható támogatási keretösszegnek a látvány-csapatsportágak közötti felosztása arányának megállapítására.
+- q) kialakítja a sporthoz kapcsolódó egyes kedvezmények rendszerét és meghatározza igénybevételük feltételeit.
 
 (2a) A sportversenyek tiltott befolyásolása elleni nemzeti platform összetételét és működésének rendjét a Kormány állapítja meg.
 
@@ -1693,6 +1696,10 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 - 10. a támogatás szabályszerű felhasználásának alátámasztása érdekében szükséges egyéb adatok.
 
 (8) A sportpolitikáért felelős miniszter a (7) bekezdés szerinti adatokat a Tao. szerinti igazolás vagy támogatási igazolás kiállításától számított 10 évig kezeli.
+
+(9) A sporthoz kapcsolódó kedvezményrendszerbe regisztrált személy regisztrációjának megszüntetését követően a Nemzeti Sportfejlesztési és Módszertani Intézet az érintett személy születési évére és lakóhelye szerinti településre vonatkozó adatát – egyedi azonosításra nem alkalmas módon – statisztikai célból kezeli és az adatkezelés szükségességét négyévente felülvizsgálja.
+
+(10) A sportpolitikáért felelős miniszter által adományozható kitüntetésekre jelölt személy természetes személyazonosító adatait és lakcímadatát, az adományozásra vonatkozó döntés megalapozásához szükséges, az indítványban szereplő adatait – különösen titulusát (végzettségét, munkahelyét és beosztását), állampolgárságát és elérhetőségeit, korábbi állami és egyéb kitüntetéseit, valamint az életútjára és a kitüntetésre alapot adó érdemeire közvetlenül vonatkozó, az adományozáshoz figyelembe vett adatokat – a sportpolitikáért felelős miniszter a kitüntetésre érdemesség megállapítása és a többszöri kitüntetés megelőzése céljából kezeli. Az adatkezelés szükségességét a sportpolitikáért felelős miniszter négyévente felülvizsgálja.
 
 52. § A sportpolitikáért felelős miniszter feladatai az utánpótlás-nevelés területén elsősorban:
 
@@ -1816,6 +1823,19 @@ PÉNZÜGYI RENDSZERE
 
 57/C. § Az állami támogatással való elszámolás ellenőrzése során a sportpolitikáért felelős miniszter megismerheti az állami támogatásból közvetetten részesülő természetes személynek az állami támogatás felhasználásával összefüggő személyes adatait.
 
+57/D. § (1) A Kormány egyedi határozatán alapuló, vissza nem térítendő költségvetési támogatás kivételével a támogatói okirattal vagy támogatási szerződéssel nyújtott állami sportcélú támogatásokhoz való hozzáférés, a támogatás feltételeinek ellenőrzése, a támogatás megállapítása, a támogatási szerződés vagy támogatói okirat aláírása, a támogatások felhasználásának elszámolása és ellenőrzése során a sportpolitikáért felelős miniszter, valamint a Nemzeti Sportfejlesztési és Módszertani Intézet ezen ügyek intézésével kapcsolatban a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti digitális szolgáltatás nyújtására kötelezett szervezetnek minősül, és az eljárást az erre a célra létrehozott felületen (a továbbiakban: elektronikus támogatáskezelő rendszer), elektronikus ügyintézés keretében valósítja meg. Az elektronikus támogatáskezelő rendszert a Kormány rendeletében kijelölt szerv (a továbbiakban: elektronikus támogatáskezelő rendszer működtetéséért felelős szerv) működteti.
+
+(2) Az elektronikus támogatáskezelő rendszer működtetéséért felelős szerv az elektronikus támogatáskezelő rendszer működtetése céljából kezeli a támogatás felhasználójának vagy a felhasználó képviseletére jogosult személynek a természetes személyazonosító adatait és elektronikus levelezési címét. Az adatkezelés szükségességét az elektronikus támogatáskezelő rendszer működtetéséért felelős szerv négyévente felülvizsgálja.
+
+(3) A rendelkezési nyilvántartást vezető szerv a felhasználó képviseleti jogának igazolása céljából ingyenesen biztosítja a rendelkezési nyilvántartásban elérhető meghatalmazás ellenőrzésének eredményét az elektronikus támogatáskezelő rendszer működtetéséért felelős szerv részére.
+
+57/E. § (1) Az 55. § (1) bekezdés c) pontjában, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 15. pontjában, 23. § (4) bekezdés 8. pontjában, és 23. § (5) bekezdés 17. pontjában foglaltakra figyelemmel a helyi önkormányzati többségi tulajdonában álló ingatlanon külön-külön vagy összesen legalább 50%-ban központi költségvetési támogatásból vagy a Tao. szerinti látvány-csapatsport támogatásból megvalósuló beruházás esetén a helyi önkormányzat köteles biztosítani az ingatlan sportcélú fenntartását, üzemeltetését a tárgyi eszköz üzembe helyezését követő
+
+- a) 15 évig, amennyiben a központi költségvetési támogatás, illetve a Tao. szerinti látvány-csapatsport támogatás összege együttesen legalább 50 millió forint, de nem éri el a 100 millió forintot,
+- b) 30 évig, amennyiben a központi költségvetési támogatás, illetve a Tao. szerinti látvány-csapatsport támogatás összege együttesen a 100 millió forintot eléri vagy meghaladja.
+
+(2) A sportpolitikáért felelős miniszter a sportcélú fenntartás, üzemeltetés időtartamát az (1) bekezdésben foglaltaktól eltérően állapíthatja meg a helyi önkormányzat által írásban benyújtott, indoklással ellátott kérelem alapján azzal, hogy a sportcélú fenntartási, üzemeltetési kötelezettség időtartama nem lehet kevesebb 5 évnél.
+
 ### A Gerevich Aladár-sportösztöndíj
 
 58. § (1) Az olimpián, a paralimpián, a sakkolimpián és a speciális világjátékon kiemelkedő sporteredmény elérése érdekében az olimpiai, a paralimpiai, a sakkolimpiai és a speciális világjáték kerettag sportolók, továbbá a felkészülésükben közreműködő sportszakemberek részére Gerevich Aladár-sportösztöndíj adható. A sportösztöndíj versenyszerűen sportolók tanulmányainak elősegítésére is biztosítható.
@@ -1855,7 +1875,14 @@ a versenykiírás szerinti hivatalos versenyprogramban szereplő versenyszámban
 
 (6d) Az (5) bekezdés e) pontja szerinti javaslat hiányában a sportpolitikáért felelős miniszter az edzői járadékot annak a személynek a javára állapítja meg – amennyiben megfelel az (5) bekezdés a)–c) pontja szerinti feltételeknek –, aki az érmest a járadékra jogosultságot megalapozó versenyt megelőzően közvetlenül, legalább egy évig folyamatosan felkészítette.
 
-(7) Megszűnik az érmes, az edzője és az özvegye járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek. A járadékra való jogosultság megszűnését a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében állapítja meg.
+(6e) Élete végéig járadékra jogosult az edző halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az edzővel annak házastársaként
+
+- a) az edző halála időpontjában és legalább az azt megelőző tizenöt évben, vagy
+- b) az edző járadékát megalapozó érmesi helyezés megszerzését megelőző legalább 5 évben és azt követően az edző halálának időpontjáig
+
+megszakítás nélkül közös háztartásban élt.
+
+(7) Megszűnik az érmes, az edző és az özvegy járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek. A járadékra való jogosultság megszűnését a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében állapítja meg.
 
 (8) Érdemtelen és nem részesül járadékban az a jogosult, aki
 
@@ -1880,7 +1907,9 @@ a versenykiírás szerinti hivatalos versenyprogramban szereplő versenyszámban
 
 (4) Az edző járadékát az edzői járadék alapját képező érmesi helyezés alapján kell megállapítani. Az edzői járadék az érmesi helyezés után járó járadék összegével megegyező mértékű. A labdajáték-csapatsportokban az olimpiára felkészítő szövetségi kapitány járadéka megegyező mértékű az irányítása alatt érmet, érmeket szerzett csapat legeredményesebb sportolóját megillető járadék összegével. Egyéni sportágakban a szövetségi kapitány edzői járadéka megegyező mértékű a szövetségi kapitányként – sportágtól függetlenül – kifejtett tevékenységének teljes időtartama alatt egyetlen, a legeredményesebb sportolója által elért legjobb érmes helyezés után járó járadék összegével. Ugyanaz a személy – az edzőként és szövetségi kapitányként kifejtett tevékenységének teljes időtartamát figyelembe véve – nem részesülhet egyaránt edzőként és szövetségi kapitányként is járadékban.
 
-(4a) A sportpolitikáért felelős miniszter a járadékra való jogosultságot és a járadék folyósítását a jövőre nézve hivatalból megszünteti, ha megállapítja, hogy a járadékra való jogosultság nem jogszabályszerűen került megállapításra, vagy a jogosultági feltételeknek való megfelelés a járadékra való jogosultság megállapítását követően megszűnt.
+(4a) Az edző özvegye az edző járadéka harminc százalékának megfelelő összegű özvegyi járadékra jogosult. Az edző özvegye az edző járadéka hatvan százalékának megfelelő összegű járadékra jogosult közös, kiskorú gyermekük nagykorúvá válásáig.
+
+(4b) A sportpolitikáért felelős miniszter a járadékra való jogosultságot és a járadék folyósítását a jövőre nézve hivatalból megszünteti, ha megállapítja, hogy a járadékra való jogosultság nem jogszabályszerűen került megállapításra, vagy a jogosultsági feltételeknek való megfelelés a járadékra való jogosultság megállapítását követően megszűnt.
 
 (5) Olimpiánként, Paralimpiánként, Sakkolimpiánként és Siketlimpiánként (ezen alcím alkalmazásában a továbbiakban együtt: olimpia) – az (5a)–(6) bekezdésekben meghatározott kivételekkel – szakáganként csak egy, az olimpiára felkészítő edző vagy nevelőedző részesülhet járadékban. Ugyanazon járadékra jogosító eredmény alapján az edzői járadékra jogosult edző helyett – elhalálozását követően – más személy edzői járadékra való jogosultsága nem állapítható meg.
 
@@ -1888,11 +1917,13 @@ a versenykiírás szerinti hivatalos versenyprogramban szereplő versenyszámban
 
 (6) Azt a személyt, aki érmesként, özvegyként, illetve edzőként is járadékra jogosult, a járadék halmozottan is megilleti.
 
+(6a) Azt a személyt, aki érmes és edző özvegyeként egyaránt özvegyi járadékra jogosult, a járadék halmozottan is megilleti.
+
 (7) Az érmes az 59. § (1) bekezdése szerinti helyezése alapján edzői járadékra nem jogosult.
 
 61. § (1) A járadékra jogosultságot és a járadékot a sportpolitikáért felelős miniszter az általa vezetett nyilvántartás alapján, közigazgatási hatósági eljárás keretében hivatalból állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
 
-(1a) Az (1) bekezdés szerinti nyilvántartás hatósági nyilvántartás, amely az 59. § (1), (3) és (4) bekezdésében meghatározott személy 57/B. § (1) bekezdése szerinti adatait, továbbá az 59. § (1) bekezdésében meghatározott sporteredményeket tartalmazza.
+(1a) Az (1) bekezdés szerinti nyilvántartás az 59. § (1), (3), (4) és (6e) bekezdésében meghatározott személy 57/B. § (1) bekezdése szerinti adatait, továbbá az 59. § (1) bekezdésében meghatározott sporteredményeket tartalmazza. A nyilvántartás az 57/B. § (1) bekezdés g) pontja szerinti adat és az 59. § (1) bekezdésében meghatározott sporteredmény tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (1b) A sportpolitikáért felelős miniszter a jogosult írásbeli kérelmére – a megérkezéstől számított 15 napon belül – hatósági bizonyítványnak minősülő igazolást állít ki a járadékra jogosultság tényéről és a járadék kérelmezés időpontjában folyósított összegéről.
 
@@ -2374,38 +2405,45 @@ adatokat továbbítja.
 
 76/D. § (1) A nemzeti sportinformációs rendszer a sportolókra, a sportszakemberekre, a sportszervezetekre, a sportszövetségekre, a sportköztestületekre, ezek tevékenységére, e szervezetek nevében a nemzeti sportinformációs rendszerbe történő adatszolgáltatási kötelezettséget teljesítő személyre, a sportlétesítményekre, sporteseményekre, sporteredményekre vonatkozó adatoknak a nyilvántartását szolgáló, továbbá az állami sportcélú támogatások elosztását és felhasználását támogató elektronikus nyilvántartási és folyamatkezelő rendszer.
 
-(2) A nemzeti sportinformációs rendszert a sportpolitikáért felelős miniszter működteti. A sportpolitikáért felelős miniszter e feladatkörében biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását.
+(2) A nemzeti sportinformációs rendszert a Kormány által rendeletben kijelölt szerv (a továbbiakban: működtetésért felelős szerv) működteti. A működtetésért felelős szerv e feladatkörében biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását.
 
-(3) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmát az e törvényben meghatározott esetben kezeli.
+(3) A sportpolitikáért felelős miniszter döntés-előkészítés, valamint az állami sportcélú támogatások felosztása, biztosítása és felhasználásának ellenőrzése céljából a nemzeti sportinformációs rendszerben, illetve egyéb módon kezeli
+
+- a) a 76/E. § (1) és (2) bekezdése, valamint a 76/F. § (1) bekezdése szerinti adatokat, továbbá a sportorvosi engedély adatait, a nevezésekre vonatkozó adatokat és a fogyatékossággal élő személy esetén az erre vonatkozó adatot, valamint
+- b) az 51. § (7), (8) és (10) bekezdésében, az 56. § (3)–(6) bekezdésében, az 57/B. § (1) és (2) bekezdésében, a 61. § (6) bekezdésében és a 62. § (6) és (7) bekezdésében meghatározott adatokat,
+
+amely adatok kezelésének szükségességét négyévente felülvizsgálja.
+
+(3a) A sportpolitikáért felelős miniszter tájékoztatás céljából, a tájékoztatás teljesítéséhez szükséges időtartamban kezeli a nemzeti sportinformációs rendszerben nyilvántartott természetes személy alábbi adatait:
+
+- a) a természetes személyazonosító adatok,
+- b) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti kapcsolattartásra szolgáló hivatalos elérhetőségi adatok,
+- c) az elektronikus levelezési cím, valamint
+- d) a lakóhelyre vagy az ettől eltérő, értesítési címként megadott címadatok.
+
+(3b) Amennyiben a sportpolitikáért felelős miniszter nem rendelkezik a tájékoztatás teljesítéséhez szükséges, (3a) bekezdés b)–d) pontja szerinti adattal, úgy a (3a) bekezdés b)–d) pontja szerinti adatot kezelő állami szervezettől, illetve a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó tárhely szolgáltatójától adatszolgáltatást kérhet. A megkeresett szervezet vagy szolgáltató köteles az adatszolgáltatást haladéktalanul, de legfeljebb nyolc napon belül teljesíteni.
+
+(3c) A kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter az 56. § (3)–(6) bekezdésében meghatározott adatokat döntés-előkészítés, az állami sportcélú támogatások felosztása, biztosítása és felhasználásának ellenőrzése céljából a nemzeti sportinformációs rendszerben, illetve egyéb módon kezeli, amely adatok kezelésének szükségességét négyévente felülvizsgálja.
+
+(3d) A működtetésért felelős szerv a nemzeti sportinformációs rendszerben kezelt személyes adatokat a rendszer működtetése, az abba történő belépés biztosítása és az azonosítás, az adatszolgáltatás hitelességének ellenőrzése, a versenyeredmények nyilvántartása, továbbá döntés-előkészítési, javaslattételi, statisztikai, valamint sportszakmai feladatai ellátása céljából kezeli. A működtetésért felelős szerv az adatkezelés szükségességét négyévente felülvizsgálja.
+
+(3e) Amennyiben a (3d) bekezdés szerinti felülvizsgálat eredményeképpen az adatok kezelése a (3d) bekezdésben meghatározott adatkezelési célokból a továbbiakban nem szükséges, úgy a működtetésért felelős szerv az adatokat közérdekű archiválás, tudományos és történelmi kutatási célból, illetve statisztikai célból kezeli.
 
 (4) A nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmából – ha törvény eltérően nem rendelkezik – adattovábbítás nem teljesíthető.
 
-(5) A nemzeti sportinformációs rendszerben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(5) A nemzeti sportinformációs rendszerben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen adja át a működtetésért felelős szerv, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel igazolt sportolói jogviszonyban álló sportolókról. Az adatszolgáltatás a személyek nevére, születésének helyére, idejére, képmására, nemére, társadalombiztosítási azonosító jelére, anyja nevére, valamint elektronikus levelezési címére terjed ki.
+76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel igazolt sportolói jogviszonyban álló sportolókról. Az adatszolgáltatás a sportoló nevére, születésének helyére, idejére, képmására, nemére, társadalombiztosítási azonosító jelére, anyja nevére, elektronikus levelezési címére, valamint a nemzeti sportinformációs rendszerről szóló kormányrendeletben meghatározottak szerinti versenyeredményeire terjed ki.
 
-(2) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben tartja nyilván. A sportszövetség ennek keretében adatot szolgáltat a nemzeti sportinformációs rendszer részére az általa kiadott versenyengedélyekről, a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről.
+(2) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben tartja nyilván. A sportszövetség ennek keretében a versenyengedély 3. § (3) bekezdése szerinti adatainak rögzítésével adatot szolgáltat a nemzeti sportinformációs rendszer részére az általa kiadott versenyengedélyekről, az eltiltásokról, a versenyeredmények rögzítésével a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről, a sportoló kiemelt sportprogramban történő részvételéről és válogatottságáról, valamint a válogatottak, kiemelt sportprogramban résztvevők esetén a sportoló-edző kapcsolatról.
 
-(3) A sportszervezet a nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti adatokat a versenyengedély igénylése és az abban foglaltak fennállása, a versenyrendszerben való szereplés, a versenyeredmények nyilvántartása, az egyes sportcélú állami támogatások igénybevétele és ezekkel kapcsolatos adatközlés, valamint fennálló jogviszony-igazolás céljából, a sportoló igazolt sportolói jogviszonyának ideje alatt kezelheti.
+(3) A sportszervezet a nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti adatokat, továbbá a nemzeti sportinformációs rendszerbe regisztrált személy technikai működtetéshez kapcsolódó egyedi azonosítóját (a továbbiakban: egyedi azonosító), a sportorvosi engedély adatait, a nevezésekre vonatkozó adatokat és a fogyatékossággal élő személy esetén az erre vonatkozó adatot a versenyengedély igénylése és az abban foglaltak fennállása, a versenyrendszerben való szereplés, a versenyeredmények nyilvántartása, az egyes sportcélú állami támogatások igénybevétele és ezekkel kapcsolatos adatközlés, valamint a jogviszony fennállásának igazolása céljából, a sportoló igazolt sportolói jogviszonyának ideje alatt kezeli.
 
-(4) A sportszövetség a nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti adatokat a sportoló versenyengedélyének kiállítása, az abban meghatározott jogosultságok és a sportoló sportorvosi engedélyének ellenőrzése, a szövetség által felügyelt versenyrendszerben való szereplés, az egyes sportcélú állami támogatások igénybevétele és ezekkel kapcsolatos adatközlés, valamint fennálló tagsági jogviszony ellenőrzése céljából a 3. § (8) bekezdése szerinti időtartam alatt kezelheti.
+(4) A sportszövetség a nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti adatokat, továbbá az egyedi azonosítót, a sportorvosi engedély adatait és a nevezésekre vonatkozó adatokat, valamint a fogyatékossággal élő személy esetén az erre vonatkozó adatot a sportoló versenyengedélyének kiállítása, az abban meghatározott jogosultságok és a sportoló sportorvosi engedélyének ellenőrzése, a szövetség által felügyelt versenyrendszerben való szereplés, az egyes sportcélú állami támogatások igénybevétele és az ezekkel kapcsolatos adatközlés, valamint a tagsági jogviszony fennállásának ellenőrzése céljából a 3. § (8) bekezdése szerinti időtartam alatt kezeli.
 
-(5) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti adatokat a sportolónak a nemzeti sportinformációs rendszerben történő azonosítása, belépésének biztosítása, a sportszervezetek és sportszövetségek által közölt adatok validitásának ellenőrzése, a versenyeredmények nyilvántartása, az állami sportcélú támogatások biztosítása és felhasználásának ellenőrzése céljából kezelheti. A sportpolitikáért felelős miniszter az adatkezelés szükségességét négyévente felülvizsgálja. A sportpolitikáért felelős miniszter az általa vezetett minisztérium, a sportszervezetek és szövetségek nevében a nemzeti sportinformációs rendszerbe adatszolgáltatást teljesítő vagy az üzemeltetésben részt vevő személyek (1) bekezdés szerinti személyes adatait a rendszer használatához szükséges feladatok ellátása érdekében az alkalmazási jogviszony fennállásának ideje alatt kezelheti.
+76/F. § (1) A sportszövetség, a sportszervezet, valamint a nemzeti sportinformációs rendszerben regisztrált adatszolgáltatási kötelezettséget teljesítő szervezet (a továbbiakban: egyéb adatszolgáltató) adatot szolgáltat a nemzeti sportinformációs rendszerbe az adatszolgáltatásban közreműködő, valamint az állami sportcélú támogatások tekintetében érintett, a sportszervezettel, sportszövetséggel, vagy az egyéb adatszolgáltatóval jogviszonyban álló személyekről, továbbá az általa foglalkoztatott sportszakemberekről. Az adatszolgáltatás az érintett személy nevét, születési helyét és idejét, képmását, nemét, társadalombiztosítási azonosító jelét, anyja nevét, elektronikus levelezési címét, valamint a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről rendelkező kormányrendeletben meghatározott képesítések, szakképzettség megnevezését tartalmazza.
 
-(6)
-
-(7)
-
-(8)
-
-76/F. § (1) A sportszövetség, a sportszervezet, valamint a nemzeti sportinformációs rendszerben (a továbbiakban: NSR) regisztrált adatszolgáltatási kötelezettséget teljesítő szervezet (a továbbiakban: egyéb adatszolgáltató) adatot szolgáltat a nemzeti sportinformációs rendszerbe az adatszolgáltatásban közreműködő, valamint az állami sportcélú támogatások tekintetében érintett, a sportszervezettel, sportszövetséggel, vagy az egyéb adatszolgáltatóval jogviszonyban álló személyekről, továbbá az általa foglalkoztatott sportszakemberekről. Az adatszolgáltatás az érintett személy nevét, születési helyét és idejét, képmását, nemét, társadalombiztosítási azonosító jelét, anyja nevét, elektronikus levelezési címét, valamint a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről rendelkező kormányrendeletben meghatározott képesítések, szakképzettség megnevezését tartalmazza.
-
-(2) A nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti személyes adatokat
-
-- a) a sportszövetség, a sportszervezet és az egyéb adatszolgáltató a sportszakember és az adatszolgáltatással érintett személy jogviszonyának fennállása alatt,
-- b) a sportpolitikáért felelős miniszter az adatszolgáltatás hitelességének ellenőrzése és az érintett személy nemzeti sportinformációs rendszerben történő azonosítása és beléptetése céljából a sportszakember és az adatszolgáltatással érintett személy jogviszonyának fennállása alatt
-
-kezeli.
+(2) A nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti személyes adatokat és az egyedi azonosítót a sportszövetség, a sportszervezet és az egyéb adatszolgáltató a sportszakember és az adatszolgáltatással érintett személy jogviszonyának fennállása alatt kezeli.
 
 76/G. § A nemzeti sportinformációs rendszerbe a nemzeti sportinformációs rendszerről szóló kormányrendeletben foglaltak szerint személyes adatnak nem minősülő adatokat szolgáltatnak
 
@@ -2421,7 +2459,7 @@ kezeli.
 
 összevetése útján, az összerendelési nyilvántartáson keresztül elektronikus úton, térítésmentesen, folyamatos automatikus adatátadással adatot szolgáltat a nemzeti sportinformációs rendszer részére.
 
-(2) Az összevetés eredményeként a nemzeti sportinformációs rendszerben kezelt személyes adatok tekintetében kimutatható eltérés, adatváltozás esetén a sportpolitikáért felelős miniszter az ilyen adatot az összevetés során átadott adatnak megfelelően – a nemzeti sportinformációs rendszerbe a pontosítást igénylő adatot szolgáltató szerv vagy személy külön értesítése nélkül – pontosítja.
+(2) Az összevetés eredményeként a nemzeti sportinformációs rendszerben kezelt személyes adatok tekintetében kimutatható eltérés, adatváltozás esetén a működtetésért felelős szerv az ilyen adatot az összevetés során átadott adatnak megfelelően – a nemzeti sportinformációs rendszerbe a pontosítást igénylő adatot szolgáltató szerv vagy személy külön értesítése nélkül – pontosítja.
 
 ### XI. Fejezet — ÉRTELMEZŐ ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -2579,13 +2617,23 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 
 (2) E törvénynek a Módtv14.-gyel megállapított 59. § (6a) és (6d) bekezdését a Módtv14. hatálybalépését megelőzően megtartott, olimpiai járadékra jogosító sportesemény tekintetében is alkalmazni kell, ha az olimpiai járadékra jogosító sportesemény hivatalos időszakának zárónapjától a Módtv14. hatálybalépéséig 1 év még nem telt el.
 
+78/X. § E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel megállapított 59. § (6e) és (7) bekezdését, 60. § (4a) és (6a) bekezdését e rendelkezések hatálybalépését megelőzően elért helyezés után megállapított edzői jogosultság tekintetében is alkalmazni kell azzal, hogy az edzői özvegyi járadék e § szerinti megállapítására a jogosult kérelme alapján kerül sor.
+
 78/Y. § E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel módosított 22. § (2) bekezdés f) pontját, valamint 51. § (2) bekezdés g) pontját e rendelkezések hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+78/Z. § (1) E törvénynek a sportról szóló 2004. évi I. törvény és egyéb törvények sporttal kapcsolatos módosításáról szóló 2025. évi CXXXVI. törvénnyel (a továbbiakban: Módtv15.) megállapított 76/E. § (2) bekezdése szerinti kiemelt sportprogramban történő részvételre és válogatottságra vonatkozó, valamint a válogatott sportoló-edző és a kiemelt sportprogramban résztvevő sportoló-edző kapcsolatra vonatkozó adatszolgáltatási kötelezettségét a sportszövetség első alkalommal legkésőbb 2026. december 31. napjáig teljesíti.
+
+(2) A Módtv15.-tel megállapított 57/D. § (1) bekezdése szerinti elektronikus ügyintézési kötelezettség teljesítéséhez szükséges feltételek rendelkezésre állásáról a sportpolitikáért felelős miniszter, valamint a Nemzeti Sportfejlesztési és Módszertani Intézet 2026. július 1-jéig köteles gondoskodni. Az 57/D. § (1) bekezdése szerinti elektronikus támogatáskezelő rendszert legkésőbb a 2026. július 1-jét követően odaítélt támogatások tekintetében alkalmazni kell.
+
+(3) E törvénynek a Módtv15.-tel megállapított 57/E. §-át abban az esetben is alkalmazni kell, ha a Módtv15. 57/E. §-t megállapító rendelkezése hatálybalépésének napján jogszabály, támogatási szerződés vagy támogatói okirat alapján sportcélú fenntartási, üzemeltetési kötelezettség áll fenn, és annak időtartama rövidebb, mint az 57/E. § szerinti időtartam.
 
 ### Felhatalmazó rendelkezések
 
 79. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a)
+- a) rendeletben jelölje ki
+  - aa) az elektronikus támogatáskezelő rendszer működtetéséért felelős szervet,
+  - ab) a működtetésért felelős szervet,
 - b) rendeletben állapítsa meg
   - ba) a doppingellenes tevékenység meghatározását, a doppingellenes tevékenységben részt vevő szervezetek körét, feladat- és hatáskörüket, a doppingeljárás szervezeti kereteit, valamint a nemzeti doppingellenes szervezetnek a doppingellenes tevékenységre vonatkozó szabályzatával összefüggő követelményeket,
   - bb) a sportfegyelmi felelősségre és a sportfegyelmi eljárásra vonatkozó részletes szabályokat,
@@ -2599,7 +2647,7 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
   - bj) az 57/A. § szerinti támogatás mértékét, a támogatásban részesíthető személyek körét és feltételeit, valamint a támogatás nyújtásának eljárásrendjét,
   - bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat,
   - bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
-  - bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat,
+  - bm)
   - bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
   - bo)
   - bp) a sportakadémiai minősítés megszerzésének feltételeit és eljárásrendjét, a sportakadémia működésére, valamint az általa biztosítandó feltételekre és szolgáltatásokra vonatkozó szempontrendszert, alapvető követelményeket és az azoknak való megfelelés ellenőrzésének rendjét,
@@ -2611,7 +2659,7 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 
 (2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
-- a)
+- a) az egyes sportcélú kedvezményekre és igénybevételük feltételeire vonatkozó részletes szabályokat,
 - b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
 - c)
 
@@ -2636,7 +2684,7 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 
 81. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-82. § Az 1/A. § (3) és (4) bekezdése, a 4. § (2) bekezdése, a 4/A. §, a 19/A. §, a 22. § (10) és (11) bekezdése, a 46/T. § (5) bekezdése, az 51. § (7) és (8) bekezdése, az 56. § (3)–(6) bekezdése, az 57/B. §, az 57/C. §, a 61. § (6) bekezdése, a 62. § (7) bekezdése, a 72/A. §, a 72/B. §, a 73. § (5) és (6) bekezdése, a 74. § (3)–(6) bekezdése, a 76/A. §, a 76/E. §, a 76/F. § a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
+82. § Az 1/A. § (3) és (4) bekezdése, a 4. § (2) bekezdése, a 4/A. §, a 19/A. §, a 22. § (10) és (11) bekezdése, a 46/T. § (5) bekezdése, az 51. § (7) és (8) bekezdése, az 56. § (3)–(6) bekezdése, az 57/B. §, az 57/C. §, a 61. § (6) bekezdése, a 62. § (7) bekezdése, a 72/A. §, a 72/B. §, a 73. § (5) és (6) bekezdése, a 74. § (3)–(6) bekezdése, a 76/A. §, a 76/D. § (3)–(3e) bekezdése, a 76/E. §, a 76/F. § a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
 
 83. § A játékosügynöki tevékenység szabályozásával összefüggésben a sportról szóló 2004. évi I. törvény módosításáról szóló 2021. évi LXXXVII. törvénnyel megállapított 22. § (3b) bekezdése és V/A. Fejezet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 
@@ -2650,12 +2698,16 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 | 4 | Budapest, belterület 38295/11 | Ferencvárosi Torna Club |
 | 5 | Budapest, belterület 38295/12 | Ferencvárosi Torna Club |
 | 6 | Budapest, belterület 38295/14 | Ferencvárosi Torna Club |
-| 7 | Budapest belterület 38442/15 | Ferencvárosi Torna Club |
+| 7 |  |  |
 | 8 | Budapest, belterület 38826 | Magyar Lovassport Szövetség (székhely: 1087 Budapest, Kerepesi út 7. Nemzeti Lovarda) |
-| 9 | Budapest, belterület 11637 | Pénzügyőr Sportegyesület (székhely: 1026 Budapest, Pasaréti út 124–126., a továbbiakban: Pénzügyőr Sportegyesület) |
-| 10 | Budapest, belterület 38303/69 | Pénzügyőr Sportegyesület |
+| 9 |  |  |
+| 10 |  |  |
 | 11 | Veszprém, külterület 0213/85 | Veszprémi Építők Sportegyesület (székhely: 8200 Veszprém, Külső-Kádartai út 5., a továbbiakban: Veszprémi Építők Sportegyesület) |
 | 12 | Veszprém, külterület 0213/85/A | Veszprémi Építők Sportegyesület |
+| 13. | Szeged, belterület 25853/1/D | Szegedi Vasutas Sportegyesület (székhely: 6724 Szeged, Kossuth Lajos sugárút 74. C., a továbbiakban: SZVSE) |
+| 14. | Szeged, belterület 25853/1/F | SZVSE |
+| 15. | Szeged, belterület 25853/1/G | SZVSE |
+| 16. | Szeged, belterület 25853/1/K | SZVSE |
 
 ### 2. melléklet a 2004. évi I. törvényhez
 

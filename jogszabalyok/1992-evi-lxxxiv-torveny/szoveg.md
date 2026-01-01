@@ -6,7 +6,9 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 
 #### I.
 
-### A TÁRSADALOMBIZTOSÍTÁSPÉNZÜGYI ALAPJAI
+### A TÁRSADALOMBIZTOSÍTÁS
+
+PÉNZÜGYI ALAPJAI
 
 ### Általános rendelkezések
 
@@ -47,7 +49,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 
 ### A Nyugdíjbiztosítási Alap
 
-4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdése alapján megállapított öregségi nyugdíjat is –, a hozzátartozói nyugellátás, a törvényben meghatározott méltányossági kifizetések, a nyugdíjprémium, a tizenharmadik havi nyugdíj, valamint a társadalombiztosítási nyugellátás összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyéb egyszeri juttatás fedezetére szolgál.
+4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdése alapján megállapított öregségi nyugdíjat is –, a hozzátartozói nyugellátás, a törvényben meghatározott méltányossági kifizetések, a nyugdíjprémium, a tizenharmadik havi nyugdíj, a tizennegyedik havi nyugdíj, valamint a társadalombiztosítási nyugellátás összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyéb egyszeri juttatás fedezetére szolgál.
 
 (2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással, továbbá a központi nyugdíjbiztosítási szerv és a nyugdíjfolyósító szerv hatáskörébe tartozó feladatokkal összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumainak előállítási költségére, a kapcsolattartás elektronikus és digitális eszközeinek – ideértve a kapcsolódó szolgáltatásokat – fenntartási költségére, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel, ideértve az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során a Nyugdíjbiztosítási Alapot terhelő összeg fedezetét.
 
@@ -75,7 +77,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 5. § (1) Az Egészségbiztosítási Alap
 
 - a)
-- b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, az örökbefogadói díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást és tizenharmadik havi ellátást,
+- b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, az örökbefogadói díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást, tizenharmadik havi ellátást és tizennegyedik havi ellátást,
 - c) a természetben nyújtott ellátások, ideértve a gyógyító-megelőző ellátásokat, a gyógyfürdő és egyéb gyógyászati ellátást, az anyatej-ellátást, a gyógyszer és a gyógyászati segédeszköz támogatást, az utazási költségtérítést, továbbá a nemzetközi egyezményekből eredő és külföldön történő ellátásokat,
 
 kiadásainak fedezetére szolgál.
@@ -98,11 +100,11 @@ kiadásainak fedezetére szolgál.
 
 (4)
 
-5/A. §
+#### 5/A. §
 
-5/B. §
+#### 5/B. §
 
-5/C. §
+#### 5/C. §
 
 ### Az Alapok tartalékai
 
@@ -122,9 +124,9 @@ kiadásainak fedezetére szolgál.
 
 (4) Az Alapok tartósan lekötött eszközeinek végleges felhasználásáról (a folyó kiadások fedezetébe történő bevonásáról) az Országgyűlés dönt.
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
 ### Működési költségvetés
 
@@ -186,91 +188,93 @@ kiadásainak fedezetére szolgál.
 
 ### A Nyugdíjbiztosítási Alap költségvetése
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
 ### Az Egészségbiztosítási Alap költségvetése
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
 ### Az 1993. július 1-jétől érvényesülő szabályok
 
 ### Háziorvosi szolgálat
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
 ### Egészségügyi szakellátás
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-### A teljesítményfinanszírozásbabe nem vont feladatok
+### A teljesítményfinanszírozásba
 
-31. §
+be nem vont feladatok
+
+#### 31. §
 
 ### A gyógyító-megelőző ellátások finanszírozása
 
-31/A. §
+#### 31/A. §
 
 ### A gyógyító-megelőző ellátásra folyósított összegek felhasználása
 
-32. §
+#### 32. §
 
 ### A finanszírozás szabályai
 
-33. §
+#### 33. §
 
 ### Működési költségvetés
 
-34. §
+#### 34. §
 
 ### A társadalombiztosítási alrendszer összevont költségvetési mérlege
 
-35. §
+#### 35. §
 
 ### Vegyes rendelkezések
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
 ### Záró rendelkezések
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
 ### 1. számú melléklet az 1992. évi LXXXIV. törvényhez
 
@@ -298,7 +302,10 @@ kiadásainak fedezetére szolgál.
 
 ### 13. számú melléklet az 1992. évi LXXXIV. törvényhez
 
-- 1. Az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételekből a Nyugdíjbiztosítási Alap és az Egészségbiztosítási Alap számára a havonta átutalásra kerülő összeg meghatározása az alábbiak szerint történik (előirányzaton eredeti előirányzatot kell érteni): ahol
+- 1. Az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételekből a Nyugdíjbiztosítási Alap és az Egészségbiztosítási Alap számára a havonta átutalásra kerülő összeg meghatározása az alábbiak szerint történik (előirányzaton eredeti előirányzatot kell érteni):
+
+ahol
+
 - 1.1. A: az adóhatóságnál kezelt azon tárgyévi adó, járulék, hozzájárulás, illeték költségvetési bevételi előirányzata, kivéve a társadalombiztosítás pénzügyi alapjai – a képlet E: és Ny: fogalmak szerinti – bevételek előirányzata, amely befizetési kötelezettségek nem teljesítése esetére jogszabály késedelmi pótlék, illetve bírság fizetési kötelezettséget ír elő.
 - 1.2. E: a tárgyévi szociális hozzájárulási adó Egészségbiztosítási Alapot megillető része, a biztosított által fizetett társadalombiztosítási járulékból az Egészségbiztosítási Alapot megillető rész, a biztosítotti egészségbiztosítási járulék, az egészségügyi hozzájárulás, egészségügyi szolgáltatási járulék bevételi előirányzata, a táppénz-hozzájárulás bevételi előirányzatának harmada, a folyamatos gyógyszerellátást biztosító gyógyszergyártói és forgalmazói befizetések és egyéb gyógyszerforgalmazással kapcsolatos bevételek előirányzata.
 - 1.3. Ny: a tárgyévi szociális hozzájárulási adó Nyugdíjbiztosítási Alapot megillető része, a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész, a nyugdíjjárulék.

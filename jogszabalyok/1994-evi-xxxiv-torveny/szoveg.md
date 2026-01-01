@@ -40,6 +40,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.
 - 21. biztosítja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 35. cikk (1) bekezdésében meghatározott hatásszinteknek megfelelő határellenőrzést.
 - 22. ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat.
+- 23. ellátja a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvényben meghatározott feladatokat.
 
 2. § (1) A rendőrség védelmet nyújt az életet, a testi épséget, a vagyonbiztonságot közvetlenül fenyegető vagy sértő cselekménnyel szemben, felvilágosítást és segítséget ad a rászorulónak. A rendőrség tiszteletben tartja és védelmezi az emberi méltóságot, óvja az ember jogait.
 
@@ -345,21 +346,19 @@ foglalkoztatott.
 - c) jogszabályban meghatározottak szerint egyes védett személyek tekintetében személyvédelmi feladatokat lát el és egyes kijelölt létesítmények tekintetében létesítményvédelmet gyakorol,
 - d) a Kormány döntése alapján részt vesz a magyar állampolgár vagy más személy életét, testi épségét Magyarország területén kívül fenyegető veszélyek esetén a bajba jutott személy külföldről történő kimenekítésében,
 - e) megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat,
-- f) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntésében meghatározott időtartamra – a nemzetközi normák betartásával – ellátja a kijelölt
-  - fa) magyar külképviseletek biztosítását és azok diplomáciai személyzete védelmét, valamint
-  - fb) a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek, intézmények és létesítmények biztosítását,
-
-e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve a nemzetközi szervezetekkel, valamint a külföldi állam hatóságaival.
-
+- f) a miniszter – indokolt esetben a külpolitikáért felelős miniszter egyetértésével meghozott – döntése alapján
+  - fa) elláthatja a kijelölt magyar külképviseletek biztosítását és azok diplomáciai személyzete védelmét,
+  - fb) elláthatja a kormányzati tevékenység szempontjából fontos, külföldön lévő kijelölt magyar szervek, intézmények és létesítmények biztosítását, valamint
+  - fc) speciális műveleti képességeivel külföldön Magyarország biztonsági, bűnüldözési érdekeinek érvényesítését szolgáló tevékenységet láthat el,
 - g) a rendészetért felelős miniszter döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a külföldön megrendezésre kerülő, kiemelt terrorfenyegetettségűnek minősíthető nemzetközi sportrendezvényeken résztvevő magyar sportolók és sportszakemberek személyvédelmében, valamint az általuk külföldön a sportrendezvényeken való részvétel ideje alatt használt létesítmények védelmében és e célból együttműködik az Európai Unió tagállamaival és szerveivel, az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
 - h) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, a terrortámadás bekövetkezésével, illetve annak jelentős veszélyével összefüggő védelmi és biztonsági esemény (a továbbiakban: terrorbiztonsági esemény) esetén az azonnali és összehangolt reagálás érdekében – a védelmi és biztonsági igazgatás központi szerve koordinációs tevékenységének a megkezdéséig, a miniszter folyamatos tájékoztatása mellett – elsődleges beavatkozó szervezetként irányítja és koordinálja az eseménykezelésben érintett szerveknek és szervezeteknek a terrorbiztonsági esemény felderítésére, elhárítására, illetve felszámolására irányuló tevékenységét.
 
-(1a) Ha a terrorizmust elhárító szervnek az (1) bekezdés c) pontjában meghatározott személyvédelmi feladata ellátásához külföldre vonatkozó, valamint külföldi eredetű információk megszerzése szükséges, azok beszerzése érdekében
+(1a) Ha a terrorizmust elhárító szervnek az (1) bekezdés a) pont ad) alpontjában, c) pontjában vagy f) pontjában meghatározott feladata ellátásához külföldre vonatkozó, valamint külföldi eredetű információk megszerzése szükséges – a miniszter erre irányuló döntése esetén –, azok beszerzése érdekében
 
-- a) megkeresi a hatáskörrel rendelkező nemzetbiztonsági szolgálatot, vagy
-- b) az információkat saját hatáskörben megszerzi.
+- a) az információkat saját hatáskörben megszerezheti, vagy
+- b) a hatáskörrel rendelkező nemzetbiztonsági szolgálattal együttműködve végezheti tevékenységét.
 
-(1b) Az (1a) bekezdésben foglaltak végrehajtásának rendjét a terrorizmust elhárító szerv és a hatáskörrel rendelkező nemzetbiztonsági szolgálat megállapodásban rögzíti.
+(1b) Az (1a) bekezdés b) pontjában foglaltak végrehajtásának rendjét a terrorizmust elhárító szerv és a hatáskörrel rendelkező nemzetbiztonsági szolgálat megállapodásban rögzítheti.
 
 (2) A terrorizmust elhárító szerv nyomozó hatósági jogkört nem gyakorol.
 
@@ -378,7 +377,7 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 - b) a rendelkezésre álló erőkkel és eszközökkel közreműködik a leplezett eszközök alkalmazásának végrehajtásában, illetve
 - c) közreműködhet eljárási cselekmény végrehajtásában.
 
-(6) A terrorizmust elhárító szerv (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott tevékenységére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 11. § (5) bekezdését, 14. § (1) és (2) bekezdését, 14. § (4) bekezdés a)–f) pontját, 14. § (5) bekezdését, 15. § (3) bekezdését, 16. §-át, 18. §-át, valamint 27. § (4) bekezdését megfelelően alkalmazni kell.
+(6) A terrorizmust elhárító szerv (1) bekezdés a) pont ad) alpontjában, e) pontjában, valamint az (1a) bekezdésben meghatározott tevékenységére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 11. § (5) bekezdését, 14. § (1) és (2) bekezdését, 14. § (4) bekezdés a)–f) pontját, 14. § (5) bekezdését, 15. § (3) bekezdését, 16. §-át, 18. §-át, valamint 27. § (4) bekezdését megfelelően alkalmazni kell.
 
 (7) A terrorizmust elhárító szerv (1) bekezdés f) pontjában meghatározott tevékenységében, a Kormány döntése alapján meghatározott időtartamra – a hatályos nemzetközi normák betartásával – a Magyar Honvédség közreműködhet.
 
@@ -629,7 +628,7 @@ követelményei
 
 igazolja.
 
-(2) A rendőr az intézkedés megkezdése előtt – ha az a rendőri intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles nevét, azonosító számát, valamint az intézkedés tényét és célját szóban közölni. Az V. és VI. fejezetben foglalt intézkedések, illetve kényszerítő eszközök alkalmazását követően a rendőr köteles az intézkedés alá vont személyt tájékoztatni az e törvény szerinti panasz lehetőségéről és előterjesztésére nyitva álló határidőről.
+(2) A rendőr az intézkedés megkezdése előtt – ha az a rendőri intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles nevét, azonosító számát, valamint az intézkedés tényét és célját szóban közölni. Az V. és VI. fejezetben foglalt intézkedések, illetve kényszerítő eszközök alkalmazását követően a rendőr köteles az intézkedés alá vont személyt tájékoztatni az e törvény szerinti panasz lehetőségéről és előterjesztésére nyitva álló határidőről, valamint arról, hogy az intézkedésekkel összefüggésben felmerülő adatkezeléssel kapcsolatban a rendőrség adatvédelmi portálján tájékozódhat.
 
 (3) A rendőr köteles – ha az a rendőri intézkedés eredményességét nem veszélyezteti – intézkedése megkezdése előtt szolgálati igazolványát vagy azonosító jelvényét felmutatni. Ha a rendőr szolgálati igazolványának vagy azonosító jelvényének felmutatása az intézkedés megkezdése előtt veszélyeztetné az intézkedés eredményességét, úgy azt az intézkedés befejezésekor köteles felmutatni.
 
@@ -1057,7 +1056,7 @@ igényelhet adatot.
 - c) magánlakásba — külön írásos utasítás birtokában — ellenőrzés, a helyszín megfigyelése és biztosítása céljából beléphet, és ott tartózkodhat,
 - d) területet lezárhat, és megakadályozhatja, hogy oda bárki belépjen vagy onnan távozzék, illetőleg az ott tartózkodókat távozásra kötelezheti.
 
-(2) A védett személyeket – a nemzetközi jogi kötelezettségek és a viszonossági gyakorlat figyelembevételével – a Kormány rendeletben jelöli ki. A Kormány rendeletében ki nem jelölt személy ideiglenes védelmét a miniszter rendeli el. Az ideiglenes védelem tartama a 12 hónapot nem haladhatja meg.
+(2) A védett személyeket törvény vagy a Kormány – a nemzetközi jogi kötelezettségek és a viszonossági gyakorlat figyelembevételével megalkotott – rendelete jelöli ki. A törvényben vagy a Kormány rendeletében ki nem jelölt személy ideiglenes védelmét a miniszter rendeli el. Az ideiglenes védelem tartama a 12 hónapot nem haladhatja meg.
 
 (3) A rendőrség a védett középületek és az abban tartózkodók biztonsága érdekében az (1) bekezdés a) és d) pontjában meghatározottakon túl a be- és kilépésre az ott elhelyezett szerv vezetőjével egyetértésben szabályokat állapíthat meg.
 
@@ -1500,7 +1499,7 @@ alkalmazhatja.
 
 (6) A terrorizmust elhárító szerv a 7/E. § (1) bekezdés a) pont aa) alpontjában meghatározott, bűncselekmények megelőzésével kapcsolatos feladatai, illetve a 7/E. § (1) bekezdés b) pont ba) alpontjában, valamint c) pontjában meghatározott feladatai ellátása érdekében titkos információgyűjtést kizárólag az e törvényben meghatározott szabályok alapján folytathat.
 
-(7) A terrorizmust elhárító szerv a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátása érdekében az Nbtv. 53–60. §-ának megfelelő alkalmazásával folytathat titkos információgyűjtést, amelynek ellátása során az Nbtv. 38–52. §-a szerint jogosult adatok igénylésére és kezelésére. Az Nbtv. 56. § a)–e) pontjában meghatározott titkos információgyűjtést az igazságügyért felelős miniszter engedélyezi.
+(7) A terrorizmust elhárító szerv a 7/E. § (1) bekezdés a) pont ad) alpontjában, e) pontjában, valamint a 7/A. § (1a) bekezdésében meghatározott feladata ellátása érdekében az Nbtv. 53–60. §-ának megfelelő alkalmazásával folytathat titkos információgyűjtést, amelynek ellátása során az Nbtv. 38–52. §-a szerint jogosult adatok igénylésére és kezelésére. Az Nbtv. 56. § a)–e) pontjában meghatározott titkos információgyűjtést az igazságügyért felelős miniszter engedélyezi.
 
 64. § A rendőrség
 
@@ -1930,6 +1929,8 @@ véleményének kikérésével dönt.
 - b) az ügyviteli rendszerben kezelt személyes adat forrásául szolgáló nyilvántartáshoz a rendőrség által történő hozzáférést lehetővé tévő feltétel ellenőrzését, ha törvény e hozzáférést valamely feltétel teljesítéséhez köti, valamint
 - c) a személyes adathoz hozzáférő személynek, a hozzáférés jogcímének, valamint a hozzáféréssel érintett adatok forrásának beazonosíthatóságát.
 
+80/C. § Az általános rendőrségi feladatok ellátására létrehozott szerv a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (39) bekezdése szerint átadott adatokat az ott megjelölt céltól eltérő célra nem használhatja fel és harmadik fél részére kizárólag a rendőrség ezen tevékenységéhez kapcsolódó alkalmazásfejlesztési feladatokhoz kapcsolódóan adhatja át, a feladatok ellátásának támogatása érdekében.
+
 ### A rendőrségi feladatok ellátásához szükséges
 
 adatok köre
@@ -2239,7 +2240,7 @@ részére.
 
 (5) A rendőrség a bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, a reintegrációs őrizet, valamint a megelőző távoltartás keretében előírt magatartási szabályok megtartásának ellenőrzése során, a magatartási szabályok megtartásának ellenőrzése, valamint az ezzel összefüggő jogviták tisztázása céljából – az intézkedés időtartama alatt és annak megszűnésétől számított további 1 évig – kezeli az intézkedés alá vont személy
 
-- a) azonosításához szükséges fényképlenyomatot,
+- a) azonosításához szükséges fényképét,
 - b) vezeték- és utónevét,
 - c) születési nevét,
 - d) születési helyét és idejét,
@@ -2251,7 +2252,23 @@ részére.
 - j) vonatkozásában elrendelt intézkedés időtartamát,
 - k) vonatkozásában elrendelt magatartási szabályokat, illetve a magatartási szabályok megszegésével összefüggő adatokat.
 
-(6) A bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során keletkezett adatállományból a rendőrség a 91/E. § (1)–(5) bekezdése alapján továbbíthat adatokat.
+(5a) A rendőrség a büntetőeljárásról szóló törvény szerinti, a külföldi embercsempész elleni büntetőeljárásban alkalmazott feltételes ügyészi felfüggesztés ellenőrzése céljából – az ügyészség által meghatározott felfüggesztés időtartamáig – kezeli a gyanúsított
+
+- a) azonosításához szükséges fényképét,
+- b) családi és utónevét,
+- c) születési családi és utónevét,
+- d) születési helyét és idejét,
+- e) anyja születési családi és utónevét,
+- f) állampolgárságát,
+- g) vonatkozásában alkalmazott felfüggesztés tényét, okát, időtartamát, a felfüggesztésről szóló határozat számát és keltét,
+- h) vonatkozásában alkalmazott felfüggesztést alkalmazó ügyészség megnevezését és a felfüggesztésről szóló határozat közlésének időpontját, illetve azt az időpontot, ameddig a gyanúsítottnak Magyarország területét el kell hagynia.
+
+(5b) A rendőrség rendészeti célból jogosult átvenni
+
+- a) az idegenrendészeti nyilvántartási rendszerben szereplő, az (5a) bekezdés a)–f) pontja szerinti adatokat, valamint
+- b) a bűnügyi nyilvántartási rendszerben szereplő, az (5a) bekezdés a)–h) pontja szerinti adatokat.
+
+(6) A bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának, továbbá a külföldi embercsempész elleni büntetőeljárásban alkalmazott feltételes ügyészi felfüggesztés ellenőrzése során keletkezett adatállományból a rendőrség a 91/E. § (1)–(5) bekezdése alapján továbbíthat adatokat.
 
 ### A határrendészeti adatkezelés
 
@@ -2266,6 +2283,7 @@ részére.
 - g) a szabálysértési nyilvántartási rendszer, valamint
 - h) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások.
 - i) az Európai Határregisztrációs Rendszer,
+- k) a 91/J. § (5a) bekezdése szerinti adatbázis.
 
 (2)
 

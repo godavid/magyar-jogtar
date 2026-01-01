@@ -44,7 +44,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 
 (2) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) – tudomására jutását követően – haladéktalanul köteles intézkedni a hatósági felügyelete alá tartozó tevékenységek gyakorlásával kapcsolatban az (1) bekezdésben meghatározott közérdek sérelmének megelőzésére, illetve megszüntetésére, továbbá a felügyelt tevékenység jogszerű folytatásának biztosítására.
 
-2/B. § E törvény hatálya kiterjed a hidrogént előállító, a hidrogént felhasználó és a hidrogént tároló berendezések engedélyezésére, illetve a hidrogént szállító vezetékekre.
+2/B. § E törvény hatálya kiterjed a hidrogént előállító, a hidrogént felhasználó és a hidrogént tároló létesítmények engedélyezésére, illetve a hidrogént szállító vezetékekre.
 
 ### Értelmező rendelkezések
 
@@ -485,7 +485,7 @@ között.
 
 26. § (1) Az engedélyesnek a földgáztárolói tevékenység gyakorlásához rendelkeznie kell az általa üzemeltetett földgáztárolók többségi tulajdonával, vagy a földgáztárolókra vonatkozó vagyonkezelői joggal. A többségi tulajdon meghatározásánál a földgáztároló engedélyes által üzemeltetett teljes eszközvagyon könyvszerinti értékét kell figyelembe venni.
 
-(1a) Földgáztároló az előírt műszaki-biztonsági, pénzügyi és gazdasági feltételek megtartása mellett a Hivatal által kiadott működési engedély alapján, a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló jogszabályban foglaltak szerint létesíthető. A földgáztárolót csak az a földgáztároló engedélyes üzemeltetheti, akinek az a működési engedélyében szerepel.
+(1a) Földgáztároló az előírt műszaki-biztonsági, pénzügyi és gazdasági feltételek megtartása mellett a Hivatal által kiadott működési engedély alapján, a bányafelügyelet engedélye alapján létesíthető és működtethető. A földgáztárolót csak az a földgáztároló engedélyes üzemeltetheti, akinek az a működési engedélyében szerepel.
 
 (2) A földgáztároló engedélyesnek rendelkeznie kell továbbá saját méréssel, vagy a csatlakozó rendszerüzemeltető által biztosított hiteles méréssel, adatátviteli eszközökkel, saját szervezetén belül mindezek folyamatos üzemeltetését és felügyeletét ellátó, a karbantartást és az üzemzavar elhárítást irányító szervezetekkel, valamint műszaki irányító szolgálattal.
 
@@ -1570,7 +1570,7 @@ a Hivatal a kérelmet ezekre nézve visszautasíthatja, az eljárást megszünte
 
 (3) Határérték túllépés esetén a hidrogénnel kevert földgázt betápláló rendszerhasználó köteles a betáplálást azonnali hatállyal megszüntetni.
 
-(4) A hidrogént előállító, felhasználó vagy tároló létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, feltételeit és a műszaki biztonsági dokumentáció tartalmát az e törvény végrehajtására kiadott miniszteri rendelet határozza meg.
+(4) Az (1)–(3) bekezdésben foglaltaktól eltérően a földgáztárolóba nagy tisztaságú hidrogén juttatható azzal, hogy a földgáztárolóból a földgázszállító rendszerbe továbbra is kizárólag a földgáz minőségére vonatkozó jogszabályi követelményeknek megfelelő megengedett hidrogéntartalmú földgáz táplálható be.
 
 ### Kapacitáslekötés és az együttműködő
 
@@ -1861,15 +1861,17 @@ földgázrendszerhez való hozzáférés
 
 88. § (1) A csatlakozóvezeték és a felhasználói berendezés létesítése az ingatlantulajdonos kötelezettsége. Az elkészült csatlakozóvezeték és a felhasználói berendezés az ingatlantulajdonos tulajdonát képezi. A csatlakozóvezeték és a felhasználói berendezés üzemeltetése a felhasználó kötelezettsége.
 
-(2) A csatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenység folytatására irányuló szándékot a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint be kell jelenteni a Magyar Mérnöki Kamarához (a továbbiakban: MMK). A tevékenységet az folytathatja, aki rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek. A bejelentés alapján az MMK a nyilvántartásba vétellel egyidejűleg hivatalból igazolványt állít ki a jogosult számára. A jogosultságot a földgázelosztónál és az ingatlantulajdonosnál vagy a felhasználónál a létesítés előtt igazolni kell.
+(2) A csatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenység folytatására irányuló szándékot a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 27. § (1) bekezdése szerint be kell jelenteni a Magyar Mérnöki Kamarához (a továbbiakban: MMK). A tevékenységet az folytathatja, aki rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek. A bejelentés alapján az MMK a nyilvántartásba vétellel egyidejűleg hivatalból igazolványt állít ki a jogosult számára. A jogosultságot a földgázelosztónál és az ingatlantulajdonosnál vagy a felhasználónál a létesítés előtt igazolni kell.
 
-(3) A bejelentett és jogosult gázszerelőkről és gázkészülék-javítókról (a továbbiakban: gázszerelő) az MMK által vezetett nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a gázszerelő nevét, születésének helyét és időpontját, a gázszerelő képesítésének megnevezését, az általa végezhető tevékenységek meghatározását, valamint az igazolvány számát.
+(3) A bejelentett és jogosult gázszerelőkről és gázkészülék-javítókról (a továbbiakban: gázszerelő) az MMK által vezetett nyilvántartás – a Szolg. tv.-ben meghatározott adatokon túl – tartalmazza a gázszerelő nevét, születésének helyét és időpontját, a gázszerelő képesítésének megnevezését, az általa végezhető tevékenységek meghatározását, valamint az igazolvány számát.
 
 (3a) Az MMK törli a gázszerelőt a nyilvántartásból, ha a gázszerelő megsértette a gázszerelésre vonatkozó – jogszabályban előírt – szakmai szabályokat és ezt az műszaki-biztonsági hatóság végleges döntésével megállapította.
 
 (4) A nyilvántartást vezető hatóság a gázszerelők jegyzékét honlapján közzéteszi, mely tartalmazza a gázszerelő nevét és igazolvány számát. A gázszerelő hozzájárulása esetén a jegyzékben feltüntetésre kerül a gázszerelő értesítési címe, telefonszáma, faxszáma, elektronikus postacíme.
 
 (5) A gázszerelő a nyilvántartásból törlésre kerül, ha a tevékenysége megszűnt, ha nem tesz eleget a külön jogszabályban meghatározott követelményeknek, illetve a gázszerelő ezt kéri.
+
+(6) A bejelentett és jogosult gázszerelők nyilvántartása a Szolg. tv. 27. § (3) bekezdésében meghatározott adatok tekintetében közhiteles nyilvántartás.
 
 89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét a gázfogyasztó készülékcsere kivételével – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 8 munkanapon belül köteles elvégezni. A felülvizsgálat díjmentes.
 
@@ -2718,13 +2720,17 @@ amelyre vonatkozóan kérelemre a Hivatal az e törvény végrehajtására kiado
 
 118/A. § (1) Cseppfolyós PB-gáz tartályban vagy palackban történő forgalmazása, valamint turista használatú palackba történő PB-gáz-átfejtés tevékenység folytatásához a műszaki-biztonsági hatóság engedélye szükséges. A műszaki-biztonsági hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
 
-(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő cseppfolyós PB-gáz turista használatú palackba történő PB-gáz-átfejtés tevékenység folytatására irányuló szándékát köteles a műszaki-biztonsági hatóságnak bejelenteni.
+(2) A Szolg. tv. szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő cseppfolyós PB-gáz turista használatú palackba történő PB-gáz-átfejtés tevékenység folytatására irányuló szándékát köteles a műszaki-biztonsági hatóságnak bejelenteni.
 
-118/B. § (1) A Hivatal a származási garancia elektronikus tárolása és kezelése során tudomására jutott személyes adatok közül kizárólag a nevet, valamint az elektronikus levelezési címet az elektronikus számla megszűnésétől, kapcsolódó származási garanciák felhasználásától, vagy a fel nem használt származási garanciák esetében a származási garanciák érvényességi idejének lejártától számított hat évig a származási garancia ügyletekkel esetlegesen felmerülő vitás kérdések rendezése érdekében megőrzi, ezt követően végérvényesen és hozzáférhetetlen módon törli.
+118/B. § (1) A Hivatal származási garanciát állít ki a megújuló gázokra és az alacsony szén-dioxid-kibocsátású gázokra vonatkozóan és gondoskodik a származási garanciák megbízható és hiteles elektronikus tárolásáról. A Hivatal biztosítja, hogy a származási garanciák pontosak, megbízhatóak és hitelesek, valamint a származási garanciák bejegyzése, átruházása, felhasználása és törlése pontos és megbízható legyen.
 
-(2) A Hivatal a származási garancia elektronikus tárolása és kezelése során tudomására jutott a személyes adatnak nem minősülő adatokat az elektronikus számla megszűnésétől, a kapcsolódó származási garanciák felhasználásától, vagy a fel nem használt származási garanciák esetében a származási garanciák érvényességi idejének lejártától számított tíz évig a származási garancia ügyletekkel esetlegesen felmerülő vitás kérdések rendezése érdekében megőrzi, ezt követően végérvényesen és hozzáférhetetlen módon törli.
+(2) A Hivatal az (1) bekezdés szerinti egyes feladatok ellátásához kapcsolódóan közreműködő szervezetet bízhat meg.
 
-(3) A megújuló vagy alacsony szén-dioxid-kibocsátású gázok energiamennyiségét az értékesítő kizárólag származási garanciával igazolhatja a felhasználó részére.
+(3) A Hivatal a származási garancia elektronikus tárolása és kezelése során tudomására jutott személyes adatok közül kizárólag a nevet és az elektronikus levelezési címet az elektronikus számla megszűnésétől, kapcsolódó származási garanciák felhasználásától, vagy a fel nem használt származási garanciák esetében a származási garanciák érvényességi idejének lejártától számított hat évig – a származásigarancia-ügyletekkel esetlegesen felmerülő vitás kérdések rendezése érdekében – megőrzi, ezt követően végérvényesen és hozzáférhetetlen módon törli.
+
+(4) A Hivatal a származási garancia elektronikus tárolása és kezelése során tudomására jutott személyes adatnak nem minősülő adatokat az elektronikus számla megszűnésétől, a kapcsolódó származási garanciák felhasználásától, vagy a fel nem használt származási garanciák esetében a származási garanciák érvényességi idejének lejártától számított tíz évig – a származásigarancia-ügyletekkel esetlegesen felmerülő vitás kérdések rendezése érdekében – megőrzi, ezt követően végérvényesen és hozzáférhetetlen módon törli.
+
+(5) A megújuló vagy alacsony szén-dioxid-kibocsátású gázok energiamennyiségét az értékesítő kizárólag származási garanciával igazolhatja a felhasználó részére.
 
 ### XII. Fejezet — JOGKÖVETKEZMÉNYEK
 
@@ -3547,7 +3553,7 @@ tartalmazza.
 - 55. készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését végző tervező mérnök felelősségbiztosítására vonatkozó rendelkezéseket,
 - 56. a csatlakozóvezetékek, telephelyi vezetékek és felhasználói berendezések hatósági eljárásaival kapcsolatos szabályokat.
 - 57. azokat a körülményeket, amelyeket a Hivatal értékel annak érdekében, hogy a III/A. fejezet szerinti hatásköreinek gyakorlása során elsőbbséget biztosítson azoknak az ügyeknek, amelyek a nagykereskedelmi energiapiacok működésére jelentősebb hatással vannak,
-- 58. a hidrogént előállító, felhasználó vagy tároló létesítmény létesítésének, üzembe helyezésének, üzemeltetésének engedélyezésére vonatkozó szabályokat, illetve kijelöli az engedélyező és felügyelő hatóságot,
+- 58. a hidrogént előállító, felhasználó vagy tároló létesítmény létesítésének, üzembe helyezésének, üzemeltetésének engedélyezésére vonatkozó szabályokat – a hidrogén tárolására alkalmas földtani szerkezetek kutatására, kiképzésére, tárolásra történő hasznosítására és bezárására vonatkozó részletes szabályok kivételével – , illetve kijelöli az engedélyező és felügyelő hatóságot,
 - 59. a díjmentes csatlakozásra vonatkozó eljárási szabályokat.
 
 132/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -3586,7 +3592,7 @@ tartalmazza.
 - 2. a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeit, az e tevékenységek bejelentésének rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - 3. a csatlakozóvezeték és a felhasználói berendezés, valamint a telephelyi vezeték létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, feltételeit, a műszaki biztonsági dokumentáció tartalmát,
 - 4. a gázfogyasztó készülékek forgalomba hozatalára, üzembe helyezésére, üzemeltetésére, valamint megfelelőségük tanúsítására vonatkozó részletes szabályokat,
-- 5. a hidrogént előállító, felhasználó vagy tároló létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, feltételeit, a műszaki biztonsági dokumentáció tartalmát,
+- 5. a hidrogént előállító, felhasználó vagy tároló létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, feltételeit, a műszaki biztonsági dokumentáció tartalmát – a föld alatti hidrogéntároló kivételével –,
 - 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásért fizetendő igazgatási szolgáltatási díj – ideértve a jogorvoslati díjat is – mértékét a 89/A. § szerinti díj mértékének kivételével, és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3)
@@ -4090,7 +4096,7 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 - d) a földgáz belső piacára vonatkozó közös szabályokról szóló 2009/73/EK irányelv módosításáról szóló, 2019. április 17-i 2019/692/EU európai parlamenti és tanácsi irányelv.
 - e) az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 5., 7., 9. pontja és a Melléklet 3. pontja;
 - f) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv 70. cikk 1., 3. és 6. pontja.
-- g) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 20. cikke.
+- g) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 19. cikk (6) bekezdése és 20. cikke.
 - h) a megújuló gáz és a földgáz, valamint a hidrogén belső piacára vonatkozó közös szabályokról, az (EU) 2023/1791 irányelv módosításáról, valamint a 2009/73/EK irányelv hatályon kívül helyezéséről szóló, 2024. június 13-i (EU) 2024/1788 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a megújuló gáz, a földgáz és a hidrogén belső piacairól, az (EU) 1227/2011, (EU) 2017/1938, (EU) 2019/942 és (EU) 2022/869 rendelet és az (EU) 2017/684 határozat módosításáról, valamint a 715/2009/EK rendelet hatályon kívül helyezéséről szóló 2024. június 13-i (EU) 2024/1789 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

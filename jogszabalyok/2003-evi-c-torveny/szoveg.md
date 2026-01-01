@@ -1490,7 +1490,7 @@ nyújtására
 
 (6a) Az elektronikus hírközlési szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat, valamint az elektronikus hírközlési szolgáltatás nyújtásának megszüntetését 15 napon belül köteles bejelenteni a Hatóságnak. Ha a szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat vagy az elektronikus hírközlési szolgáltatás nyújtásának megszüntetését határidőn belül nem jelenti be, a Hatóság a mulasztó elektronikus hírközlési szolgáltatóval szemben bírságot alkalmazhat.
 
-(7) A Hatóság által vezetett nyilvántartás közhiteles, azt a Hatóság közzéteszi, és abba bárki betekinthet.
+(7) A Hatóság által vezetett nyilvántartás az elektronikus hírközlési szolgáltató neve, valamint a (2) bekezdés d)–f) pontja szerinti adatok tekintetében közhiteles, azt a Hatóság közzéteszi, és abba bárki betekinthet.
 
 (8) A Hatóság az (1), (6) és (6a) bekezdés szerinti bejelentés egy példányát annak nyilvántartásba vételét követően haladéktalanul megküldi – az elektronikus úton tett bejelentéseket továbbítja – a Nemzetbiztonsági Szakszolgálatnak. A Nemzetbiztonsági Szakszolgálat az elektronikus hírközlési szolgáltatás műszaki jellemzőivel kapcsolatosan a bejelentőtől információt kérhet, amelyet a bejelentő 30 napon belül köteles teljesíteni.
 

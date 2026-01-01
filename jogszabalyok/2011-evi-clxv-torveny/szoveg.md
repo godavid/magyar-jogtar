@@ -350,7 +350,7 @@ nem lehet polgárőr szervezetnél vezető tisztségviselő.
 
 tartalmazza.
 
-(1a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(1a)
 
 (2) Az Országos Polgárőr Szövetség a 26. §-ban meghatározott rendelkezések végrehajtásának elősegítése érdekében nyilvántartást vezet, amely a 26. § szerinti támogatás felhasználásával kapcsolatos adatokat tartalmazza.
 

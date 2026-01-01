@@ -1725,7 +1725,21 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - y) a menekült, az oltalmazott és a menedékes részére a menekültügyi hatóság által kiállított úti okmány típusát, okmányazonosítóját, az útlevél matrica okmányazonosítóját, az okmány kiállításának dátumát és érvényességének idejét, a kiállító útlevélhatóság megnevezését, a kiállítás helyét, az útlevélhatósági eljárást lefolytató ügyintéző nevét, az úti okmányban szereplő személy arcképmását és saját kezű aláírását,
 - z) a menedékes személyazonosságát és tartózkodási jogát igazoló okmány okmányazonosítóját, kiállításának és érvényességének idejét, továbbá a menedékes részére áttelepülés céljából kiállított okmány okmányazonosítóját, kiállításának és érvényességének idejét.
 
-(1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c), f)–i), n), q) és r) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(1a) A menekültügyi nyilvántartás az e törvény hatálya alá tartozó személy adatai közül
+
+- a) a családi és utónév vagy nevek;
+- b) a születési családi és utónév vagy nevek;
+- c) a születési hely és idő;
+- d) a nem;
+- e) az anyja születési családi és utóneve vagy -nevei;
+- f) a jelenlegi állampolgárság, állampolgárságok vagy hontalan státusz;
+- g) a menekültkénti, oltalmazottkénti, befogadottkénti vagy menedékeskénti elismerés ténye;
+- h) az elismerés visszavonásának ténye;
+- i) az elismerését kérő részére kiállított tartózkodási engedély okmányazonosítója, kiállításának és érvényességének ideje;
+- j) a menekült, az oltalmazott és a menedékes részére a menekültügyi hatóság által kiállított úti okmány típusa, okmányazonosítója, az útlevél matrica okmányazonosítója, az okmány kiállításának dátuma és érvényességének ideje;
+- k) a menedékes személyazonosságát és tartózkodási jogát igazoló okmány okmányazonosítója, kiállításának és érvényességének ideje
+
+vonatkozásában közhiteles nyilvántartásnak minősül.
 
 (2) A menekültügyi hatóság
 
@@ -1784,20 +1798,20 @@ kezeli.
 
 ### A befogadó állomás, a járási hivatal, az önkormányzat és a támogatást folyósító szervek által vezetett nyilvántartások
 
-84. § (1) A befogadó állomás – az állomáson elhelyezett személyek jogosultságainak biztosítása, valamint az e törvényben és külön jogszabályban meghatározott ellátásra és támogatásra való jogosultság megállapítása céljából – nyilvántartást vezet
+84. § (1) A menekültügyi hatóság – az állomáson elhelyezett személyek jogosultságainak biztosítása, valamint az e törvényben és külön jogszabályban meghatározott ellátásra és támogatásra való jogosultság megállapítása céljából – nyilvántartást vezet
 
 - a) a befogadó állomáson elhelyezettek természetes személyazonosító adatairól, valamint
 - b) a befogadó állomás által nyújtott ellátás, illetve támogatás mértékéről és időtartamáról.
 
-(1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés b) pontjában foglalt adat tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(1a)
 
 (2) A befogadó állomáson elhelyezett személy adatait a befogadó állomás végleges elhagyását követő egy évig kell kezelni.
 
-(3) A menekültügyi hatóság az (1)–(2) bekezdésnek megfelelő szabályok szerint kezeli a tranzitzónában elhelyezett személyek (1) bekezdés szerinti és az ellátásukhoz szükséges adatait.
+(3)
 
-(4) A befogadó állomás által az (1) bekezdés szerint kezelt adatokat – az e törvényben és külön jogszabályban meghatározott ellátások és támogatások biztosítása céljából – a menekültügyi hatóság kezelheti, azokat a menekültügyi hatóság részére a befogadó állomás továbbítja.
+(4)
 
-(5) A befogadó állomás (1)–(4) bekezdés szerinti nyilvántartás-vezetésére a 83/A. § (1)–(9) bekezdését kell alkalmazni.
+(5)
 
 85. § (1) A menekült, az oltalmazott, illetve a menedékes lakóhelye, tartózkodási helye vagy szálláshelye szerint illetékes járási hivatal és települési önkormányzat – az e törvényben és külön jogszabályban meghatározott, hatáskörébe tartozó feladatok ellátása céljából – nyilvántartást vezet a hatáskörébe tartozó támogatásra jogosult személy
 
@@ -1806,7 +1820,7 @@ kezeli.
 - c) a folyósított támogatás összegéről; valamint
 - d) a folyósítás időpontjáról, visszatérítendő támogatás esetén a törlesztési határidőről.
 
-(2) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c) és d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2)
 
 (3) A támogatást folyósító szervek kezelhetik a járási hivatal és a települési önkormányzat hatáskörébe tartozó támogatásra jogosult személlyel közös háztartásban élő családtagok kereseti és vagyoni viszonyaira vonatkozó adatokat, amennyiben a támogatás feltételeinek fennállása ezek alapján állapítható meg.
 

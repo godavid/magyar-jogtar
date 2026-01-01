@@ -74,11 +74,18 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 - a) elkülönítve a jelentős önkorlátozó nyilatkozatot adó személyek, valamint a (6) bekezdés szerinti személyek személyes azonosító adatait (családi és utónév, születési családi és utónév, anyja neve, születési hely és idő, azonosító okmány típusa és száma, lakcím),
 - b) az adatkezelés jellegét (önkéntes elhatározáson vagy bírósági határozaton alapuló korlátozás),
-- c) a megszűnés időpontját (az adatkezelés határozott vagy határozatlan időtartamú jellegét).
+- c) a nyilvántartásba vétel időpontját,
+- d) a megszűnés időpontját vagy a korlátozás határozatlan időtartamú jellegét,
+- e) a jelentős önkorlátozó nyilatkozatot adó személyek, valamint a (6) bekezdés szerinti személyek szerencsejáték-felügyeleti hatósági azonosítóját,
+- f) a korlátozással érintett szerencsejáték-fajta megnevezését,
+- g) a korlátozással érintett szerencsejáték-szervezők megnevezését, amennyiben a korlátozás kifejezetten szerencsejáték-szervezőre vonatkozik és
+- h) a korlátozással érintett szerencsejáték-szervező szerencsejáték-felügyeleti hatósági azonosítóját, amennyiben a korlátozás kifejezetten szerencsejáték-szervezőre vonatkozik.
 
 (6e) A (6d) bekezdés szerinti adatokat és az azt alátámasztó okirati bizonyítékokat a szerencsejáték-felügyeleti hatóság a (6b) bekezdés szerinti célból a korlátozás megszűnését, megszüntetését követő 6 évig kezeli.
 
 (6f) A szerencsejáték-felügyeleti hatóság a (6) bekezdés szerinti személyek (6d) bekezdés a) pontja szerinti adatai ellenőrzése vagy a hiányzó adatok beszerzése, és a nyilvántartásból való, elhalálozás miatti kikerülés időpontja tekintetében jogosult a személyiadat- és lakcímnyilvántartásból közvetlen hozzáféréssel adatszolgáltatást igényelni.
+
+(6g) A (6d) bekezdés szerinti nyilvántartás a (6d) bekezdés c), d) és f)–h) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (7)
 
@@ -96,7 +103,9 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (11) A játékos részére a szervező által létrehozott közös, vagy több játékosi egyenleg esetében a (10) bekezdésben foglaltakat alkalmazni kell. Több egyenleg esetén a különbözet számításakor a különböző játékosi egyenlegek számadatait összesítetten kell figyelembe venni.
 
-(12) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell valamely, az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott, a rendszer auditálását igazoló okiratot.
+(11a) Szerencsejáték műszaki-informatikai rendszer auditálását a Magyarország kiberbiztonságáról szóló törvény szerinti, „jelentős” vagy „magas” biztonsági osztályra nyilvántartásba vett auditor végzi, amely rendelkezik a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv vagy az akkreditáló szerv által elismert külföldi akkreditáló szervezet által odaítélt akkreditált státusszal a szerencsejáték műszaki-informatikai rendszerek auditálására (a továbbiakban: auditor).
+
+(12) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell az auditor által kiadott, a rendszer auditálását igazoló okiratot.
 
 1/A. § (1) A szerencsejáték felügyeleti hatóság szerencsejáték ügyben, illetve e törvény hatálya alá tartozó egyéb ügyben rendelkezésre álló személyes adatokat, valamint az egyéb államigazgatási feladatainak ellátásához az ügyfelek, egyéb érintettek, eljárás alá vontak, egyéb közreműködők személyes adatait kezeli.
 
@@ -128,15 +137,72 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 jelöli meg.
 
+1/C. § Ha e törvény vagy e törvény végrehajtására kiadott jogszabály a szerencsejáték műszaki-informatikai rendszer vagy annak egy része auditálását írja elő, akkor a szerencsejáték-szervező megbízásából a szerencsejáték műszaki-informatikai rendszer vagy annak része auditálását elvégző auditor erről – legfeljebb 2 évig érvényes – auditálási okiratot állít ki.
+
 2. § (1) Liberalizált tevékenység az 1. § (3) bekezdés a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdés d) és e) pontjában meghatározott tevékenység.
 
-(2) Szerencsejáték-szervező tevékenység folytatásához – az e törvényben meghatározott kivétellel – a szerencsejáték-felügyeleti hatóság engedélye szükséges. A szerencsejáték-felügyeleti hatóság az engedélyesekről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(2) Szerencsejáték-szervező tevékenység folytatásához – az e törvényben meghatározott kivétellel – a szerencsejáték-felügyeleti hatóság engedélye szükséges.
 
 (2a) A szerencsejáték szolgáltatásokra e törvény hatálya abban az esetben terjed ki, ha
 
 - a) a szerencsejátékot Magyarország területén szervezik,
 - b) a szolgáltatás igénybe vevője Magyarország területén vesz részt a szerencsejátékban, vagy
 - c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irányul, különösen olyan esetekben, amikor a szolgáltatás magyarul hozzáférhető, vagy azt Magyarország területén reklámozzák.
+
+(2b) A szerencsejáték-felügyeleti hatóság a (2) bekezdés szerinti engedélyesekről hatósági nyilvántartást vezet. A nyilvántartás tartalmazza:
+
+- a) a sorsolásos játék
+  - aa) elnevezését,
+  - ab) szervezőjének elnevezését, székhelyét,
+  - ac) szervezőjének adószámát,
+  - ad) szervezőjének szerencsejáték-felügyeleti hatósági azonosítóját,
+  - ae) szervezésére jogosító engedély érvényessége lejártának időpontját és
+  - af) engedélyezési ügyiratának azonosító számát,
+- b) a fogadás
+  - ba) elnevezését,
+  - bb) szervezőjének elnevezését, székhelyét,
+  - bc) szervezőjének adószámát,
+  - bd) szervezőjének szerencsejáték-felügyeleti hatósági azonosítóját,
+  - be) szervezésére jogosító engedély érvényessége lejártának időpontját és
+  - bf) engedélyezési ügyiratának azonosító számát,
+- c) a játékkaszinó
+  - ca) elnevezését,
+  - cb) címét,
+  - cc) szervezőjének elnevezését, székhelyét,
+  - cd) szervezőjének adószámát,
+  - ce) szervezőjének szerencsejáték-felügyeleti hatósági azonosítóját,
+  - cf) engedélyének sorszámát,
+  - cg) szervezésére jogosító engedély érvényessége lejártának időpontját és
+  - ch) engedélyezési ügyiratának azonosító számát,
+- d) a kártyaterem
+  - da) elnevezését,
+  - db) címét,
+  - dc) szervezőjének elnevezését, székhelyét,
+  - dd) szervezőjének adószámát,
+  - de) szervezőjének szerencsejáték-felügyeleti hatósági azonosítóját,
+  - df) engedélyének sorszámát,
+  - dg) szervezésére jogosító engedély érvényessége lejártának időpontját, és
+  - dh) engedélyezési ügyiratának azonosító számát,
+- e) az online kaszinó
+  - ea) engedélyezett honlapjának doménnevét,
+  - eb) szervezőjének elnevezését, székhelyét,
+  - ec) szervezőjének adószámát,
+  - ed) szervezőjének szerencsejáték-felügyeleti hatósági azonosítóját,
+  - ee) szervezésére jogosító engedély érvényessége lejártának időpontját,
+  - ef) vonatkozásában azt a tényt, hogy az engedély felfüggesztés alatt áll-e, és
+  - eg) engedélyezési ügyiratának azonosító számát,
+- f) a távszerencsejáték
+  - fa) engedélyezett honlapjának doménnevét,
+  - fb) szervezőjének elnevezését, székhelyét,
+  - fc) szervezőjének adószámát,
+  - fd) szervezőjének szerencsejáték-felügyeleti hatósági azonosítóját,
+  - fe) szervezésére jogosító engedély érvényessége lejártának időpontját,
+  - ff) vonatkozásában azt a tényt, hogy az engedély felfüggesztés alatt áll-e, és
+  - fg) engedélyezési ügyiratának azonosító számát.
+
+(2c) A (2b) bekezdés szerinti nyilvántartás a (2b) bekezdés a) pont aa) és ae) alpontjában, a (2b) bekezdés b) pont ba) és be) alpontjában, a (2b) bekezdés c) pont cf) és cg) alpontjában, a (2b) bekezdés d) pont df) és dg) alpontjában, a (2b) bekezdés e) pont ea), ee) és ef) alpontjában, valamint a (2b) bekezdés f) pont fa), fe) és ff) alpontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
+(2d) A szerencsejáték-felügyeleti hatóság a honlapján közzéteszi a (2b) bekezdés szerinti nyilvántartás adatait, kivéve a (2b) bekezdés a) pont ac), ad) és af) alpontja, a (2b) bekezdés b) pont bc), bd) és bf) alpontja, a (2b) bekezdés c) pont cd), ce) és ch) alpontja, a (2b) bekezdés d) pont dd), de) és dh) alpontja, a (2b) bekezdés e) pont ec), ed) és eg) alpontja, valamint a (2b) bekezdés f) pont fc), fd) és fg) alpontja szerinti adatokat.
 
 (3) A szerencsejáték-felügyeleti hatóság az engedélyt annak adja ki, aki a szerencsejáték biztonságos, szakszerű lebonyosításához szükséges személyi, tárgyi és gazdasági feltételekkel rendelkezik.
 
@@ -158,11 +224,11 @@ követte el és ezért a kérelem benyújtását megelőző 3 éven belül joger
 
 (5) A szerencsejáték-felügyeleti hatóság az engedély iránti kérelmet elutasítja, ha a kérelmezőnek, illetve vezető tisztségviselőjének, vagy a szavazatok legalább 25%-ával rendelkező tagjának a székhelye, vagy lakóhelye szerinti államban 10 millió forintot meghaladó 30 napon túli köztartozása vagy adótartozása van.
 
-(6) A hírközlő eszköz és rendszer által történő szerencsejáték szervezési tevékenység engedélyezéséhez a (3)–(5) bekezdésekben foglalt feltételek teljesítésén túl a szervezőnek igazolnia kell, hogy
+(6) A hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték-szervezés engedélyezéséhez a (3)–(5) bekezdésben foglalt feltételek teljesítésén túl a szervező az auditor által kiállított auditálási okirattal igazolja, hogy
 
 - a) az adott tevékenység kockázati tényezőiről a játékosokat hírközlő eszközön és rendszeren keresztül megfelelően tájékoztatja,
-- b) a játékosok személyes adatai, valamint egyéb, személyiségi jogai védelmét biztosítja,
-- c) a véletlen elemeket az elektronikus játékrendszerek auditálása alapján biztosítja.
+- b) a játékosok személyes adatai, valamint egyéb, személyiségi jogai védelmét biztosítja, és
+- c) a véletlen elemeket a szerencsejáték műszaki-informatikai rendszer biztosítja.
 
 (7) Nem folytatható belföldön, külföldön vagy nemzetközi együttműködés keretében szervezett szerencsejátékban történő részvételre Magyarországon értékesítési, szervező, közvetítő tevékenység, ha a szerencsejáték szervezésére a szerencsejáték-felügyeleti hatóság nem adott engedélyt.
 
@@ -410,12 +476,18 @@ teljesíthet.
 
 (3) A közigazgatási bírság
 
-- a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, a 36. § (3) bekezdésébe, 36/C–E. §-ba,
-- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a 17. § (4) bekezdésébe, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint az e törvény végrehajtására kiadott jogszabály rendelkezéseibe,
-- c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (7a) bekezdésébe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
-- d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C–V. §-ba és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
+- a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, a 9. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, a 36. § (3) bekezdésébe, a 36/C–36/E. §-ba,
+- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a (3b) és (3c) bekezdésbe, a 17. § (4) bekezdésébe, a 26. § (4) bekezdésébe, a 27. § (9) és (11) bekezdésébe, a 29/A. § (3) bekezdésébe, a 29/B. § (2) és (5)–(8) bekezdésébe, a 35/B. §-ba és a 35/D. § b) pontjába, valamint az e törvény végrehajtására kiadott jogszabály rendelkezéseibe,
+- c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (7a) bekezdésébe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 13. § (1) bekezdés b)–d) pontjába, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1) és (2) bekezdésébe, a 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
+- d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4) és (5) bekezdésébe, a 2. § (2) és (7) bekezdésébe, a 26. § (3) bekezdésébe, a 29/B. § (3) bekezdésébe, a 29/C–29/V. §-ba és a 30. § (3) bekezdésébe
+
+ütköző tevékenység vagy mulasztás esetén.
 
 (3a) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújtja azt a pénzforgalmi szolgáltatót, amely a 13/C–13/K. §-ban foglalt valamely kötelezettségének nem tesz eleget. A közigazgatási bírság a kötelezettség nemteljesítésének időtartama alatt 60 napos időközönként ismételten is kiszabható. A szerencsejáték-felügyeleti hatóság a döntését megküldi a felügyeleti jogkörében eljáró Magyar Nemzeti Bank részére.
+
+(3b) Ha kétség merül fel a szerencsejáték műszaki-informatikai rendszer megfelelősége tárgyában, a Hatóság kötelezheti a szerencsejáték-szervezőt, hogy saját költségén végeztesse el az auditálást.
+
+(3c) Ha a szerencsejáték műszaki-informatikai rendszer auditálási okiratát jogsértő módon adták ki, vagy a szerencsejáték műszaki-informatikai rendszer nem teljesíti az auditálási követelményeket, a Hatóság kötelezheti az auditort vagy a szerencsejáték-szervezőt a szerencsejáték műszaki-informatikai rendszer ismételt auditálására.
 
 (4) Ha a szerencsejáték-felügyeleti hatóság megállapítja, hogy az e törvény hatálya alá tartozó tevékenységet folytató szervezet vagy személy a (2) és (3) bekezdésben foglalt előírásokat megsértette, közigazgatási szankció alkalmazása mellett kötelezheti a jogsértőt a jogsértés abbahagyására, illetve elrendelheti a jogsértő állapot megszüntetését.
 
@@ -773,7 +845,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 - a) pénzváltási tevékenység végzése esetén az ehhez szükséges – a Hpt.-ben előírt – engedélyt,
 - b) a játékkaszinó 1:200 léptékű építési és berendezési tervét, kameratervét, építészeti műleírását,
 - c) az épület, illetve helyiség jogszerű birtoklását igazoló okmányt, három hónapnál nem régebbi tulajdoni lapot,
-- d) a kaszinóban működtetni kívánt szerencsejáték-eszközök hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, valamint azok jogszerű birtoklását igazoló okiratot, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet,
+- d) a kaszinóban működtetni kívánt szerencsejáték-eszközök hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, valamint azok jogszerű birtoklását igazoló okiratot, továbbá az auditor által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló auditálási okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet,
 - e) a bevezetni kívánt értékzsetonok és érmék valamennyi fajtájából egy-egy érvénytelenített példányt,
 - f) az igazgatási-szolgáltatási díj megfizetését igazoló okiratot,
 - g)
@@ -790,7 +862,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 27/E. § A szervező a szerencsejáték-felügyeleti hatóság jóváhagyásával a játékkaszinóban a forgalom növelése érdekében szervezett akció (promóció) keretében – a szerencsejáték eszközöknél felhasználható – a belépőzsetonoktól különböző meghatározott értékű ajándékzsetont bocsáthat a látogatók rendelkezésére, amelynek értéke a pénztárnál nem váltható be, és a bevételek elszámolásában befizetett tétnek minősül. Az erre vonatkozó kérelmet promóciónként kell a szerencsejáték-felügyeleti hatósághoz benyújtani, öt nappal a promóció szervezését megelőzően. A kérelemnek tartalmaznia kell az akció kezdő és befejező időpontját, a személyenként biztosított ajándékzsetonok értékét és számát, az akció részletes leírását, valamint az ajándékzsetonok elszámolásának részletes szabályait.
 
-27/F. § (1) A játéktervtől történő, a 9. § (2) bekezdés szerinti eltérés engedélyezésére és a módosított játékterv (ideiglenes módosítás esetén a módosítással érintett oldalak) jóváhagyására irányuló kérelmet – pénznyerő automaták kivételével – a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell előterjeszteni és ahhoz csatolni kell jóváhagyás és hitelesítés céljából a módosított játéktervet. A szervezőnek külön kell kérelmeznie a pénznyerő automatáknak a Vhr.-ben meghatározott játéktervi adatai közül a játék megnevezését, játékszabályait, a minimális és maximális tét nagyságát és a tétek és nyeremények arányát érintő változások jóváhagyását. Ez esetben a vonatkozó játéktervi adatokat a mérésügyi szerv által kiállított hitelesítési bizonyítvány, annak érvényességi ideje lejártáig pótolja. A jóváhagyáshoz csatolni kell a pénznyerő automata érvényes, a mérésügyi szerv által kiállított hitelesítési bizonyítványát és – a szervező által korábban nem üzemeltett pénznyerő automata esetén – a jogszerű birtoklást igazoló okiratot.
+27/F. § (1) A játéktervtől történő, a 9. § (2) bekezdés szerinti eltérés engedélyezésére és a módosított játékterv (ideiglenes módosítás esetén a módosítással érintett oldalak) jóváhagyására irányuló kérelmet – pénznyerő automaták kivételével – a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell előterjeszteni és ahhoz csatolni kell jóváhagyás céljából a módosított játéktervet. A szervezőnek külön kell kérelmeznie a pénznyerő automatáknak a Vhr.-ben meghatározott játéktervi adatai közül a játék megnevezését, játékszabályait, a minimális és maximális tét nagyságát és a tétek és nyeremények arányát érintő változások jóváhagyását. Ez esetben a vonatkozó játéktervi adatokat a mérésügyi szerv által kiállított hitelesítési bizonyítvány, annak érvényességi ideje lejártáig pótolja. A jóváhagyáshoz csatolni kell a pénznyerő automata érvényes, a mérésügyi szerv által kiállított hitelesítési bizonyítványát és – a szervező által korábban nem üzemeltett pénznyerő automata esetén – a jogszerű birtoklást igazoló okiratot.
 
 (2) A szervezőnek a Vhr. szerinti, játéktervtől történő időleges eltérésre vonatkozó kérelmét eltérésenként külön kell benyújtania a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon. A kérelemhez csatolnia kell az eltéréssel érintett játéktervi előírásokat (oldalakat) jóváhagyás céljából.
 
@@ -829,7 +901,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 - c) a fogadások megkötésére kijelölt helyek (a továbbiakban: fogadóirodák) megnevezését és címét,
 - d) a fogadási formák szerinti egyes fogadószelvény-mintákat,
 - e) az engedélyezési eljárásért fizetendő igazgatási-szolgáltatási díj, illetve a koncessziós szerződésben meghatározott koncessziós díj megfizetését igazoló okiratot,
-- f) a hírközlő eszközök és rendszerek igénybevételével szervezett fogadások engedélyezése esetén a 2. § (6) bekezdésben foglalt követelmények teljesítését igazoló, az EGT területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okiratot.
+- f) a hírközlő eszköz és rendszer által részvételi jogosultságot biztosító fogadások engedélyezése esetén a 2. § (6) bekezdésében foglalt követelmények teljesítését igazoló, auditor által kiadott auditálási okiratot.
 
 (3) A fogadásokról a szerencsejáték-felügyeleti hatóság által az engedélyben meghatározott időszakonként és meghatározott formában időszaki, a fogadás megszűnését követő százhúsz napon belül pedig végelszámolást kell készíteni. A szerencsejáték-felügyeleti hatóság dönt a végelszámolás jóváhagyásáról. A 24/A. § (2) bekezdését, valamint a Vhr. sorsolásos játékok nyertes és el nem adott sorsjegyei, a külön engedélyezett sorsolásos játékok bevételének és költségének elszámolására, végelszámolására vonatkozó rendelkezéseit alkalmazni kell.
 
@@ -847,7 +919,19 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (3) Az üzemeltető köteles – nyilvántartásba vétel céljából – a szerencsejáték-felügyeleti hatósághoz bejelenteni az általa működtetni kívánt játékautomatát. A szerencsejáték-felügyeleti hatóság a játékautomatát a kérelemben foglalt időtartamra, de legfeljebb hitelességének időtartamára veszi nyilvántartásba. A játékautomata a bejelentési kötelezettség megfelelő teljesítése nélkül nem üzemeltethető.
 
-(3a) A szerencsejáték-felügyeleti hatóság a (3) bekezdés alapján bejelentett játékautomatákról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(3a) A szerencsejáték-felügyeleti hatóság a (3) bekezdés alapján bejelentett játékautomatákról hatósági nyilvántartást vezet, amely tartalmazza a játékautomata
+
+- a) üzemeltetőjének elnevezését,
+- b) üzemeltetőjének székhelyét,
+- c) üzemeltetőjének adószámát,
+- d) üzemeltetőjének szerencsejáték-felügyeleti hatósági azonosítóját,
+- e) mérésügyi azonosító számát,
+- f) regisztrációs kártya számát,
+- g) nyilvántartásba vételi igazolás érvényességének időtartamát,
+- h) nyilvántartásba vételéről kiállított igazolás számát és
+- i) nyilvántartásból való törlésének időpontját.
+
+(3b) A (3a) bekezdés szerinti nyilvántartás a (3a) bekezdés f)–i) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (4) A szerencsejáték-felügyeleti hatóság csak azokat a játékautomatákat veszi nyilvántartásba, amelyek a jogszabályban a játékautomatákra előírt műszaki követelményeknek megfelelnek.
 
@@ -896,7 +980,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 - a) a kártyaterem 1:200 léptékű berendezési tervét és kameratervét,
 - b) a kérelmező nyilatkozatát a kártyaterem alapterületére és a vendéglátásra szolgáló helyiség alapterületére vonatkozóan,
-- c) a kártyateremben működtetni kívánt szerencsejáték-eszközök jogszerű birtoklását igazoló okiratot, valamint a Vhr. szerint hitelesítendő eszközök esetében a hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a kártyaterem minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet.
+- c) a kártyateremben működtetni kívánt szerencsejáték-eszközök jogszerű birtoklását igazoló okiratot, valamint a Vhr. szerint hitelesítendő eszközök esetében a hitelesítési bizonyítványokat, továbbá az auditor által kiállított, a kártyaterem minden elsődleges adatforrásként működő számítógépes rendszere mint szerencsejáték műszaki-informatikai rendszer megfelelőségét igazoló auditálási okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet,
 - d) a bevezetni kívánt zsetonok valamennyi fajtájából egy-egy érvénytelenített példányt, továbbá
 - e) a 27/B. § (2) bekezdés c) és f) pontjában foglaltakat,
 - f) a számítógépes elszámolási rendszer leírását (amennyiben a szervező elszámolásai elkészítése során használ ilyen rendszert).
@@ -921,7 +1005,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (1a) A kérelemhez a 7/B. § (3) bekezdésében foglaltakon túl csatolni kell
 
-- a) az auditálásra jogosult szervezet által kiállított auditálási okiratot,
+- a) az auditor által kiállított auditálási okiratot,
 - b) távszerencsejáték szervezésen belül sporteseményre fogadás szervezésére irányuló kérelem esetén nyilatkozatot arról, hogy a (4) bekezdés szerinti felhasználási szerződés megkötésre került,
 - c) az igazgatási-szolgáltatási díj befizetését igazoló okiratot.
 
@@ -1174,6 +1258,17 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (2) A szerencsejáték-szervező tevékenységre jogosító engedély akkor adható ki, ha a kérelmező az igazgatási szolgáltatási díjat megfizette.
 
+### 4. CÍM — AZ AUDITOR
+
+35/B. § Az auditor szerencsejáték-szervező tevékenységet nem folytathat. Az auditor, az auditor vezető tisztségviselője, tagja, részvényese, tényleges tulajdonosa, az auditor nevében az auditálási okiratot aláíró személy, valamint az auditot végző foglalkoztatott nem lehet tagja, részvényese, vezető tisztségviselője vagy tényleges tulajdonosa szerencsejáték-szervezőnek.
+
+35/C. § A 35/B. §-ban foglalt rendelkezést a nyilvánosan működő részvénytársaság részvényesére nem kell alkalmazni.
+
+35/D. § A szerencsejáték-felügyeleti hatóság eltilthatja a nyilvántartásba vett auditort az 1. § (11a) bekezdése szerinti tevékenység végzésétől, ha
+
+- a) a 35/B. §-ban meghatározott feltételeket nem teljesíti, vagy
+- b) megállapítást nyer, hogy az auditor által végzett audit vagy kiadott auditálási okirat jogsértő volt.
+
 ### IV. Fejezet — A szerencsejáték-szervezés ellenőrzése
 
 36. § (1) A szerencsejáték-felügyeleti hatóság hatósági felügyeletet gyakorol a szerencsejátékok szervezése felett. Ennek keretében folyamatosan ellenőrzi, hogy a tevékenység a jogszabályoknak, az engedélyeknek, a játéktervnek megfelel-e.
@@ -1319,7 +1414,7 @@ valósítja meg.
 
 (3) Az elektronikus adat hozzáférhetetlenné tételét elrendelő határozatot a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A határozat közlésének napja a hirdetmény közzétételét követő 3. nap.
 
-(4) Ha a szerencsejáték-felügyeleti hatóság hatósági ellenőrzés során az (1) bekezdés szerinti jogsértő tevékenység megvalósulását észleli és a jogsértő tevékenység folytatásának megszakítása érdekében az szükséges, a hatósági eljárás befejezéséig hatósági intézkedésként végzésben az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendeli el. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A végzés közlésének napja a hirdetmény közzétételét követő 3. nap. A végzés annak a tiltott szerencsejáték-szervezést végzővel való közlésére tekintet nélkül, azonnal végrehajtható.
+(4) Ha a szerencsejáték-felügyeleti hatóság hatósági ellenőrzés során az (1) bekezdés szerinti jogsértő tevékenység megvalósulását észleli és a jogsértő tevékenység folytatásának megszakítása érdekében az szükséges, a hatósági eljárás befejezéséig hatósági intézkedésként végzésben az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendeli el. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A végzés közlésének napja a hirdetmény közzétételét követő 3. nap. A végzés – annak az (1) bekezdés szerinti jogsértő tevékenységet végzővel való közlésére tekintet nélkül – azonnal végrehajtható.
 
 (5) Az ideiglenes hozzáférhetetlenné tételt elrendelő végzés közigazgatási perben támadható meg.
 
@@ -1457,7 +1552,7 @@ b) biztonságos – virtuális vagy fizikális – módszerrel eltakartak, és a
 
 26. Nemzetközi együttműködés keretében szervezett szerencsejáték: különböző államokban székhellyel rendelkező szerencsejáték szervezők által közösen szervezett sorsolásos játék, illetve totalizatőri rendszerű fogadás, amely esetén a különböző államban székhellyel rendelkező szerencsejáték szervezők mindegyike rendelkezik a székhelye szerinti államban az adott szerencsejáték szervezésére vonatkozó engedéllyel és a szervezők az együttműködés keretében az általuk önállóan gyűjtött tétekből közös nyereményalapot képeznek.
 
-27. Távszerencsejáték műszaki-informatikai rendszer: a távszerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
+27. Szerencsejáték műszaki-informatikai rendszer: a szerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
 
 28. Szerver: a szerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 

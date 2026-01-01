@@ -599,7 +599,7 @@ esetében.
 
 (1a) Azok a fegyveres és rendvédelmi testületek által fenntartott könyvtárak, amelyek vállalják a nyilvános könyvtárak 55. § (1) bekezdés szerinti alapfeladatainak ellátását, a hozzáférést távhasználat útján is biztosíthatják.
 
-(2) A nyilvános könyvtárakról a miniszter jegyzéket vezet, az alapkövetelmények és alapfeladatok teljesítését a könyvtári intézet bevonásával értékeli.
+(2) A nyilvános könyvtárakról a miniszter a könyvtári intézet bevonásával nyilvános jegyzéket vezet.
 
 (3) Nyilvános könyvtár
 
@@ -609,9 +609,9 @@ esetében.
 - d) a 3. számú melléklet szerinti országos szakkönyvtár, valamint
 - e) az állami egyetem könyvtára.
 
-(4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár felvételét a nyilvános könyvtárak jegyzékébe.
+(4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár nyilvános könyvtárnak minősítését.
 
-(5) Az (1) bekezdésben felsorolt követelmények betartását a miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását, aminek elmaradása esetén a könyvtárat törli a nyilvános könyvtárak jegyzékéből. Törvény az ellenőrzés lefolytatását – az érintett könyvtár megnevezésével – a fenntartó kérelméhez kötheti.
+(5) Az (1) bekezdésben felsorolt követelmények betartását, valamint az alapfeladatok teljesítését a könyvtári intézet bevonásával miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását. A (4) bekezdés hatálya alá tartozó könyvtár esetében a hiánypótlás elmaradása esetén visszavonja annak nyilvános könyvtári minősítését.
 
 (6) A települési könyvtár megszüntetése esetén a fenntartó a döntés előkészítése során beszerzi és a döntést hozó testülettel ismerteti a miniszter véleményét.
 
@@ -1382,6 +1382,10 @@ hatásköre
 
 91/B. § A kulturális alapellátás kiterjesztésének az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott prioritási rend és szempontrendszer mentén történő megvalósítása tárgyévi támogatási összegét a központi költségvetési törvény határozza meg.
 
+91/C. § (1) A törvény hatálya alá tartozó szervezetek az államháztartás alrendszerei terhére kizárólag akkor részesülhetnek támogatásban, ha a támogatás igénybevételét megelőző évben határidőre eleget tettek az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló kormányrendeletben előírt statisztikai adatszolgáltatási kötelezettségüknek.
+
+(2) A támogatás során mentesül az a szervezet, amely a statisztikai adatszolgáltatással érintett évben még nem került nyilvántartásba, illetve a statisztikai adatszolgáltatással érintett évben átalakulás útján jött létre.
+
 92. § (1) A közművelődési és közgyűjteményi szakterületek feladatellátásához az állami, önkormányzati felelősségvállalás közérdekű jellegéből fakadóan e törvény és az Ltv. által előírt kötelezettségek teljesítéséhez a központi költségvetés hozzájárul.
 
 (2) A minisztérium költségvetési fejezetén belül támogatást kell előirányozni az e törvényben és Ltv.-ben meghatározott közvetlen állami feladatok ellátására, a közművelődési és a közgyűjteményi feladatfinanszírozásra, a közgyűjtemények és a közművelődési intézmények telematikai, információs feladatainak ellátására, amelyek mértékét az éves költségvetési törvény határozza meg.
@@ -1443,16 +1447,14 @@ a közművelődési intézményekben és a levéltárakban alkalmazottak foglalk
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 
-(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
+(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, amely az a), b), e) és f) pont szerinti adatok tekintetében közhitelesnek minősül. A nyilvántartás tartalmazza:
 
-- a) a szakmai továbbképzési programot készítő intézmény megnevezése,
-- b) a szakmai továbbképzési program megnevezése,
-- c) a szakmai továbbképzés célcsoportja,
-- d) a szakmai továbbképzési programba való jelentkezés feltételei,
-- e) a szakmai továbbképzési program teljes óraszáma,
-- f) a szakmai továbbképzési program főbb területei,
-- g) a szakmai továbbképzési program nyilvántartásba vételéről szóló határozat száma,
-- h) a szakmai továbbképzési program nyilvántartásba vételének időpontja.
+- a) a szakmai továbbképzési program megnevezését,
+- b) a szakmai továbbképzési programot készítő és tartására jogosult megnevezését,
+- c) a szakmai továbbképzési program alapján megszerezhető kompetencia megnevezését,
+- d) a szakmai továbbképzési program óraszámát,
+- e) a szakmai továbbképzési program nyilvántartásba vételéről szóló határozat számát,
+- f) a szakmai továbbképzési program érvényességi idejét.
 
 (5) A vármegyei hatókörű városi múzeum állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott múzeumi szakember alaptevékenységnek megfelelő szakmai továbbképzését.
 
